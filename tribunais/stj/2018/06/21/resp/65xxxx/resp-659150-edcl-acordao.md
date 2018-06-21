@@ -1,0 +1,51 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ICMS. BASE DE CÁLCULO EFETIVA INFERIOR À PRESUMIDA. DESCONFORMIDADE COM ORIENTAÇÃO FIRMADA PELO STF EM REPERCUSSÃO GERAL NO RE 593.849/MG. ACLARATÓRIOS DO DISTRITO FEDERAL ACOLHIDOS, COM EFEITOS INFRINGENTES, PARA NÃO CONHECER DO RECURSO ESPECIAL. PERDA DO OBJETO.
+1. Os embargos declaratórios, nos termos do art. 1.022 do CPC/2015, são cabíveis quando houver: a) obscuridade; b) contradição; c) omissão no julgado, incluindo-se nesta as condutas descritas no art. 489, § 1º, que configurariam a carência de fundamentação válida; ou d) erro material.
+2. Em voto apartado, os embargos de declaração do Distrito Federal foram acolhidos para não conhecer do apelo nobre interposto pela ora embargante. Logo, considerando que os aclaratórios foram opostos em face de recurso especial anteriormente provido, e que tal cenário não mais subsiste, inafastável a conclusão de que o presente recurso da contribuinte perdeu o objeto.
+3. Embargos de declaração não conhecidos.
+ACÓRDÃO
+Vistos, relatados e discutidos aos autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer dos embargos de declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães e Herman Benjamin (Presidente) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Francisco Falcão.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Trata-se de embargos de declaração interpostos por Multi Service Combustíveis Ltda. contra acórdão, proferido pela Segunda Turma, que deu provimento ao recurso especial da ora embargante nos termos da seguinte ementa (e-STJ, fl. 439):
+TRIBUTÁRIO. RECURSO ESPECIAL. ICMS. BASE DE CÁLCULO EFETIVA INFERIOR À PRESUMIDA. DESCONFORMIDADE COM ORIENTAÇÃO FIRMADA PELO STF EM REPERCUSSÃO GERAL NO RE 593.849/MG. ADEQUAÇÃO. ART. 1.040, II, DO CPC/2015.
+1. A controvérsia veiculada nos autos diz respeito à possibilidade de restituição da diferença do ICMS pago a mais no regime de substituição tributária progressiva se a base de cálculo real da operação for inferior à presumida.
+2. Este Tribunal Superior, com suporte no resultado do julgamento da ADIn 1.851-4/AL, entendia que, à luz do comando contido no § 7º do art. 150 da CF/1988, que o contribuinte tem direito à restituição dos valores recolhidos em regime de substituição tributária progressiva apenas quando o fato gerador não se realizar, afastada a possibilidade de compensação de eventuais excessos ou faltas, em face do valor real da operação substituída.
+3. Ocorre que o Supremo Tribunal Federal, por ocasião do julgamento do RE 593.849/MG, em repercussão geral (Tema 201/STF), firmou tese de que "é devida a restituição da diferença do Imposto sobre Circulação de Mercadorias e Serviços - ICMS pago a mais no regime de substituição tributária para a frente se a base de cálculo efetiva da operação for inferior à presumida".
+4. Os autos devem retornar à origem para que as instâncias ordinárias analisem o direito ao creditamento ou à compensação à luz do que dispõe o art. 166 do CTN.
+5. Recurso especial a que se dá provimento.
+Em suas razões, a embargante sustenta que a decisão ora impugnada incorreu em omissões na medida em que deixou de apreciar argumentos expressamente invocados desde a petição inicial.
+Aponta a inaplicabilidade do art. 166 do CTN sob afirmação de que a controvérsia dos autos diz respeito à declaração do indébito do tributo retido anteriormente a maior, quando o fato gerador não ocorre, circunstância não levada em consideração no acórdão embargado.
+Defende, de outra parte, a necessidade de manifestação acerca do prazo prescricional de 10 anos para aproveitamento ou compensação dos créditos a serem apurados.
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (Relator): Registro, de início, que a decisão recorrida foi publicada após a entrada em vigor do CPC/2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme o Enunciado Administrativo n. 2/2016 do Plenário do Superior Tribunal de Justiça.
+No aspecto:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. VIGÊNCIA DO NOVO CPC. 18/3/2016. LC 95/1998 E LEI N. 810/1949. DECISÃO IMPUGNADA PUBLICADA ANTES DA VIGÊNCIA DO NOVO CPC. APLICABILIDADE NA ESPÉCIE DO CPC DE 1973. PRINCÍPIO DO TEMPUS REGIT ACTUM. RECURSO ASSINADO ELETRONICAMENTE POR ADVOGADO SEM PROCURAÇÃO. SÚMULA 115/STJ.
+1. Observando o disposto na Lei n. 810/1.949 c/c Lei Complementar 95/1.998, a vigência do novo Código de Processo Civil, instituído pela Lei n. 13.105, de 16 de março de 2015, iniciou-se em 18 de março de 2016 (Enunciado Administrativo n. 1, aprovado pelo Plenário do Superior Tribunal de Justiça em 2/3/2016).
+2. À luz do princípio tempus regit actum, esta Corte Superior há muito pacificou o entendimento de que as normas de caráter processual têm aplicação imediata aos processos em curso, regra essa que veio a ser positivada no ordenamento jurídico no art. 14 do novo CPC.
+3. Em homenagem ao referido princípio, o Superior Tribunal de Justiça consolidou o entendimento de que a lei a reger o recurso cabível e a forma de sua interposição é aquela vigente à data da publicação da decisão impugnada, ocasião em que o sucumbente tem a ciência da exata compreensão dos fundamentos do provimento jurisdicional que pretende combater. Precedentes.
+4. Esse entendimento foi cristalizado pelo Plenário do Superior Tribunal de Justiça, na sessão realizada dia 9/3/2016 (ata publicada em 11/3/2016), em que, por unanimidade, aprovou a edição de enunciado administrativo com a seguinte redação: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016).
+5. Na espécie, o agravo regimental impugna decisão publicada na vigência do CPC de 1973, sendo exigidos, pois, os requisitos de admissibilidade na forma prevista naquele código de ritos, com as interpretações dadas, até então, pela jurisprudência desta Corte.
+6. A interposição de agravo regimental assinado eletronicamente por advogado sem poderes nos autos atrai a incidência da Súmula 115/STJ. Ademais, a regularidade na representação processual da parte deve ser comprovada no ato da interposição do recurso. Precedentes.
+7. Agravo regimental não conhecido.
+(AgRg no AREsp 849.405/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 5/4/2016, DJe 11/4/2016)
+Dito isso, observo que o art. 1.022 do CPC/2015 traz as seguintes hipóteses de cabimento dos embargos de declaração: a) obscuridade; b) contradição; c) omissão no julgado, incluindo-se nesta as condutas descritas no art. 489, § 1º, que configurariam a carência de fundamentação válida; e d) erro material.
+Em voto apartado, os embargos de declaração do Distrito Federal foram acolhidos para não conhecer do apelo nobre interposto pela ora embargante, nos termos seguintes:
+No ponto, entendo que assiste razão ao embargante, pois afirmou o Tribunal de origem que a sociedade embargada não demonstrou ter assumido o encargo financeiro relacionado ao tributo.
+Confira-se (e-STJ, fl. 281):
+Ora, se há concorrência no mercado varejista de combustíveis, com redução dos preços para atendimento da lei da oferta e da procura, há provável diminuição da margem de lucro, o que não implica necessariamente em prejuízo, uma vez que este possivelmente é compensado pela venda de maior quantidade do produto. Aliás neste sentido, também não demonstrou a Autora ter suportado o ônus do encargo financeiro, nos termos do artigo 166 do CTIN, vendendo produto do qual não tenha se ressarcido do imposto pago antecipadamente, em relação ao contribuinte de fato. Logo, além da falta de suporte jurídico ao pedido da autora, este também carece de qualquer suporte fático a justificar sua pretensão.
+Para afastar o entendimento a que chegou a Corte a quo, de modo a albergar as peculiaridades do caso e verificar se a embargada assumiu o encargo financeiro, seja pela eventual não ocorrência do fato gerador ou por sua ocorrência com base de cálculo reduzida, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em apelo excepcional por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Registro, ainda, que o aresto combatido se encontra sedimentado na falta de suportes jurídico e fático ao pedido da sociedade empresária.
+No entanto, a insurgência limita-se a impugnar apenas um desses fundamentos, qual seja, a ausência de suporte jurídico, deixando incólume a justificativa pela ausência de lastro fático.
+A não impugnação de fundamento suficiente para manter o acórdão recorrido atrai a aplicação do óbice da Súmula 283/STF, inviabilizando o conhecimento do apelo extremo.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. FORNECIMENTO DE SUPLEMENTO ALIMENTAR PELO ESTADO. ALERGIA À LACTOSE. ALEGADA OFENSA AO ART. 535 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. SUPOSTA OFENSA A DISPOSITIVO NÃO PREQUESTIONADO. SÚMULA 211/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO SUFICIENTE PARA MANTER O ACÓRDÃO RECORRIDO. SÚMULA 283/STF. ALEGADA EXISTÊNCIA DE PROVAS NOS AUTOS PARA SUSTENTAR A PRETENSÃO INICIAL. NECESSIDADE DE REEXAME DE PROVA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+3. Ausente a impugnação a fundamento suficiente para manter o acórdão recorrido, o recurso especial não merece ser conhecido, por lhe faltar interesse recursal. Inteligência da Súmula 283 do STF, aplicável, por analogia, ao recurso especial.
+ ..
+5. Recurso especial não conhecido.
+(REsp 1.367.651/MG, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe 3/12/2013)
+Logo, considerando que os aclaratórios foram opostos em face de recurso especial anteriormente provido, e que tal cenário não mais subsiste, inafastável a conclusão de que o presente recurso da contribuinte perdeu o objeto.
+Ante o exposto, não conheço dos embargos de declaração.
+É como voto.
