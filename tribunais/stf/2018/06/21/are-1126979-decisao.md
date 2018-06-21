@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — MATÉRIA FÁTICA — INTERPRETAÇÃO — INVIABILIDADE — AGRAVO DESPROVIDO
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à improcedência do pedido de reforma militar porquanto não preenchidos os requisitos da legislação pertinente. No extraordinário cujo trânsito busca alcançar, o recorrente aponta violados os artigos 5º, incisos II, V, X, XXXV, LIV e LV, 37, cabeça, inciso XV, e 40, § 1º, da Constituição Federal. Argui a nulidade do acórdão por negativa de prestação jurisdicional. Insiste no direito pleiteado, afirmando comprovada a incapacidade para o exercício de atividade militar.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    No mais, recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da sentença, expressamente mantida pela decisão recorrida, o seguinte trecho:
+    E assim decido porque o laudo pericial do IMESC foi enfático em afirmar que o autor é portador de incapacidade parcial e permanente, de sorte que não faz jus à reforma pretendida, cujo pressuposto é a incapacidade total e permanente (artigo 29, inciso III. "a", do Decreto-Lei n.° 260/70 c/c artigo I° da Lei n° 5.451/86).
+    A situação apresentada pelo autor, tal como atestado pela perícia judicial, demanda a readaptação, que não é escolha do servidor, mas dever legal atribuído á Administração Pública; caso não aquiesça com o comando tem sempre o servidor a opção da exoneração.
+    Não se sustenta a tese inaugural no sentido da impossibilidade de readaptação no desempenho das atividades do policial militar, eis que é cediço que há outras atividades naquela corporação que o autor pode prestar.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Da leitura do acórdão impugnado mediante o extraordinário depreende-se que o Tribunal de origem julgou a apelação a partir de interpretação conferida a normas locais. Procedeu à interpretação do Decreto-Lei estadual nº 260/70. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está-se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 21 de junho de 2018.
+Ministro MARCO AURÉLIO
+Relator
