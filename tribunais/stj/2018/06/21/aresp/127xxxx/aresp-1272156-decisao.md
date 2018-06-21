@@ -1,0 +1,24 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS CUMULADA COM PEDIDO DE COMPENSAÇÃO POR DANOS MORAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. HONORÁRIOS. MAJORAÇÃO.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Agravo conhecido. Recurso especial não conhecido, com majoração de honorários.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por SOROCABA AMBIENTAL, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 16/10/2017.
+Concluso ao gabinete em: 12/04/2018.
+Ação: de indenização por danos materiais cumulada com pedido de compensação por danos morais ajuizada por [NOME] em face da agravante, Empresa de Desenvolvimento Urbano e Social de Sorocaba - URBES e Prefeitura Municipal de Sorocaba, devido ao acidente de trânsito, na qual pleiteia o pagamento de indenização no valor de R$ 142.762,41 (cento e quarenta e dois mil, setecentos e sessenta e dois reais e quarenta e um centavos) referente ao conserto do caminhão; ao pagamento da quantia de R$ 58.472,48 (cinquenta e oito mil, quatrocentos e setenta e dois reais e quarenta e oito centavos) em relação ao período em que o veículo ficou parado - lucros cessantes, e ainda, ao pagamento do montante de R$ 30.000,00 (trinta mil) a título de danos morais.
+Sentença: julgou parcialmente procedente o pedido para condenar ao pagamento da indenização por danos materiais no valor de R$ 142.762,41 (cento e quarenta e dois mil, setecentos e sessenta e dois reais e quarenta e um centavos); em relação aos lucros cessantes e a quantia de R$ 58.472,48 (cinquenta e oito mil, quatrocentos e setenta e dois reais e quarenta e oito centavos). Condenou ao pagamento de custas, despesas processuais e honorários, estes fixados em 10% (dez por cento) do valor da condenação.
+Ademais, julgou improcedente a reconvenção proposta pela agravante, extinguindo o processo, nos termos do art. 269, I, do CPC. E, em decorrência da sucumbência, condenou a requerida-reconvinte ao pagamento de custas, despesas processuais e honorários advocatícios, estes arbitrados em 15% (quinze por cento) do valor atualizado da causa.
+Acórdão: deu parcial provimento ao recurso interposto pela agravante para condenar a ré ao pagamento de R$ 79.503,11 (setenta e nove mil, quinhentos e três reais e onze centavos), conforme a seguinte ementa:
+APELAÇÃO - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - ACIDENTE DE TRÂNSITO - SENTENÇA DE PARCIAL PROCEDÊNCIA - AGRAVO RETIDO - MATÉRIA JULGADA EM AGRAVO DE INSTRUMENTO - CONJUNTO PROBATÓRIO QUE DEMONSTRA A CULPA DA REQUERIDA PELA COLISÃO ENTRE CAMINHÕES - DANOS MATERIAIS REDUZIDOS - LUCROS CESSANTES DEVIDOS - RECONVENÇÃO IMPROCEDENTE - RECURSO PARCIALMENTE PROVIDO.
+Recurso especial: alega violação dos arts. 420, parágrafo único, do CPC/73 (464 do CPC/15), 35 e 40, V, do CTB, bem como dissídio jurisprudencial. Sustenta que não foi demonstrado nos autos o alegado excesso de velocidade da carreta de propriedade da agravante. Nesse contexto, assevera que houve cerceamento de defesa, tendo em vista que o pedido de perícia técnica foi indeferido. Ressalta que se pode concluir que o veículo transitava em velocidade de 43Km/h no momento da colisão. Declara que "o acidente ocorreu quando da realização de manobra irregular por parte do caminhão de propriedade da Recorrida, que não acionou o pisca-pisca (seta) à esquerda antes de iniciar a transposição da via. Pugna, como pedido alternativo, o reconhecimento de culpa concorrente.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. arts. 420, parágrafo único, do CPC/73 (464 do CPC/15), 35 e 40, V, do CTB, indicados como violados. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à análise acerca do suposto cerceamento de defesa, no que concerne às condutas das partes no momento da colisão, a respeito do vídeo, das fotografias e dos depoimentos acostados aos autos, quanto à configuração de dano, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários em 2% (dois por cento).
+Publique-se. Intimem-se.
