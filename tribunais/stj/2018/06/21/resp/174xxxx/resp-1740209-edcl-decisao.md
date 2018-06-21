@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO contra decisão que concedeu a ordem de habeas corpus para que, excluída a causa de aumento do art. 157, §2º, inciso I, do CP do cálculo dosimétrico, redimensionar a pena do acusado para 4 anos e 8 meses de reclusão e 11 dias-multa (e-STJ fls. 328/330).
+Sustenta a parte embargante a ocorrência de omissão quanto aos seguintes pontos: (i) ocorrência de inconstitucionalidade formal, por afronta ao art. 65 e parágrafo único da Constituição Federal; (ii) que a adoção de uma resposta penal insuficiente para a conduta do emprego de arma (própria ou imprópria), desde que não seja a de fogo, resulta em uma diminuição da proteção penal ao bem jurídico tutelado no delito de roubo (patrimônio, liberdade pessoal e incolumidade física), incompatível com as garantias constitucionais de efetiva proteção penal e de individualização da pena (art. 5º, caput e inciso XLVI, da CF) (e-STJ fl. 400).
+É o relatório.
+Não existem vícios a serem sanados na decisão embargada.
+Sabe-se que os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do CPP.
+Verifica-se que esta Corte Superior, ao analisar a questão, posicionou-se de forma clara, adequada e suficiente ao concluir que, tendo em vista a abolitio criminis, promovida pela Lei n. 13.654/2018, e em observância ao art. 5º, inciso XL, da Constituição Federal, é de rigor a aplicação da novatio legis in mellius, devendo ser excluída a causa de aumento do do art. 157, §2º, inciso I, do CP do cálculo dosimétrico.
+Ademais, não cabe a esta Corte Superior, na via especial, a análise de violação de dispositivos da Constituição Federal, ainda que com o objetivo de prequestionamento visando à interposição do apelo extraordinário, sob pena de haver a usurpação de competência do Supremo Tribunal Federal.
+Por fim, se não há declaração de inconstitucionalidade do art. 1º da Lei n. 13.654/2018, não se pode afastar sua incidência, sob pena de violação literal à disposição expressa de lei. Cláusula de reserva de Plenário - CF/88, art. 97. Súmula Vinculante 10 do Colendo STF.
+Dessa forma, por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+Com essas considerações, rejeito os embargos de declaração.
+Publique-se. Intime-se.
