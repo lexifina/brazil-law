@@ -1,0 +1,62 @@
+EMENTA
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. EXASPERAÇÃO DA PENA-BASE. QUANTIDADE E NATUREZA DOS ENTORPECENTES. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE MANIFESTA ILEGALIDADE. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado. No caso, observa-se flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+2. A individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+3. Nos termos do art. 42 da Lei n. 11.343/2006, a quantidade e a natureza da droga apreendida são preponderantes sobre as demais circunstâncias do art. 59 do Código Penal e podem justificar a fixação da pena-base acima do mínimo legal, cabendo a atuação desta Corte apenas quando demonstrada flagrante ilegalidade no quantum aplicado.
+4. Hipótese em que a instância antecedente, atenta às diretrizes do art. 42 da Lei de Drogas, considerou a quantidade e a natureza das drogas apreendidas - 745 sacolés de maconha (1.058,5g), 1 tablete da mesma substância (721,7g) e 18 porções de cocaína (13,2g) - para fixar a pena-base em 10 meses acima do mínimo legalmente previsto, o que não se mostra desproporcional.
+5. Habeas corpus não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do pedido. Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em favor de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro.
+Consta dos autos que o paciente foi condenado à pena de 7 anos, 3 meses e 15 dias de reclusão, em regime inicial fechado, mais pagamento de 719 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006.
+Em sede recursal, o Tribunal de origem deu parcial provimento ao apelo defensivo para reduzir a pena-base, ficando a reprimenda em 6 anos, 9 meses e 20 dias de reclusão e pagamento de 680 dias-multa, mantido o modo mais gravoso.
+Neste writ, alega o impetrante ser inidônea e desproporcional a exasperação da sanção básica com amparo na quantidade e na natureza da droga apreendida.
+Requer, assim, a redução do quantum de aumento das circunstâncias judiciais negativas para 1/8.
+O Ministério Público Federal opinou pelo não conhecimento do writ (e-STJ, fls. 62-68).
+É o relatório.
+EMENTA
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. EXASPERAÇÃO DA PENA-BASE. QUANTIDADE E NATUREZA DOS ENTORPECENTES. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE MANIFESTA ILEGALIDADE. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado. No caso, observa-se flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+2. A individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+3. Nos termos do art. 42 da Lei n. 11.343/2006, a quantidade e a natureza da droga apreendida são preponderantes sobre as demais circunstâncias do art. 59 do Código Penal e podem justificar a fixação da pena-base acima do mínimo legal, cabendo a atuação desta Corte apenas quando demonstrada flagrante ilegalidade no quantum aplicado.
+4. Hipótese em que a instância antecedente, atenta às diretrizes do art. 42 da Lei de Drogas, considerou a quantidade e a natureza das drogas apreendidas - 745 sacolés de maconha (1.058,5g), 1 tablete da mesma substância (721,7g) e 18 porções de cocaína (13,2g) - para fixar a pena-base em 10 meses acima do mínimo legalmente previsto, o que não se mostra desproporcional.
+5. Habeas corpus não conhecido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Sob tal contexto, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesta ilegalidade que autorize a concessão da ordem, de ofício.
+A Corte de origem, ao dar parcial provimento ao apelo defensivo, reduziu a fração de exasperação da pena-base, em decisão assim motivada:
+"Portanto, impossível a absolvição.
+Passa-se ao exame da dosimetria das penas aplicadas.
+A pena base foi fixada acima do mínimo legal, em 6 (seis) anos e 3 (três) meses de reclusão e 625 (seiscentos e vinte e cinco) dias-multa, porque entendeu o magistrado que "foi apreendida cocaína, substância esta que, por sua natureza, leva rapidamente à dependência e que possui alto grau de destruição do organismo".
+Na segunda fase da dosimetria, a pena foi majorada de 1/6 (um sexto), pela reincidência, alcançando 7 (sete) anos, 3 (três) meses e 15 (quinze) dias de reclusão e 719 (setecentos e dezenove) dias-multa, que foi tornada definitiva, dada a ausência de outras circunstâncias modificadoras.
+Pretende a defesa a redução da pena.
+Com efeito, tendo em vista a grande quantidade e a natureza das drogas apreendidas - 1058,5g de maconha distribuídos em 745 sacolés transparentes, 721,7g de maconha acondicionados em um tablete e 13,2g de cocaína distribuídos em 18 sacolés transparentes -, correta se apresenta a fixação da pena base acima do patamar mínimo, o que está de acordo com o artigo 42 da Lei 11.343/06.
+Ocorre que, em que pese a justificativa do magistrado para o quantum de majoração da pena base - adoção do parâmetro de aumento de 1/8 (um oitavo) "sobre o intervalo de pena cominada em abstrato" - a quantidade de aumento aplicada - 1 (um) ano e 3 (três) meses acima do mínimo legal - se mostra exacerbada.
+Em consequência, deve a pena base ser redimensionada.
+Portanto, considerando a grande quantidade e a natureza das substâncias apreendidas, acima referidas, fixo a pena-base em 5 (cinco) anos e 10 (dez) meses de reclusão e 583 (quinhentos e oitenta e três) dias-multa, no valor unitário mínimo legal.
+Na segunda fase da dosimetria, é a reprimenda aumentada de 1/6 (um sexto), pela reincidência, alcançando 6 (seis) anos e 9 (nove) meses e 20 (vinte) dias de reclusão e 680 (seiscentos e oitenta) dias-multa, que é tornada definitiva, ante a ausência de causas de aumento ou diminuição" (e-STJ, fls. 54-55).
+A individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+Adotado o sistema trifásico pelo legislador pátrio, na primeira etapa do cálculo, a pena-base será fixada conforme a análise das circunstâncias do art. 59 do Código Penal. Tratando-se de condenado por delitos previstos na Lei de Drogas, o art. 42 da referida norma estabelece a preponderância dos vetores referentes a quantidade e a natureza da droga, assim como a personalidade e a conduta social do agente sobre as demais elencadas no art. 59 do Código Penal.
+Na hipótese, o Tribunal de origem, atento as diretrizes do art. 42 da Lei de Drogas, considerou a quantidade e a natureza dos entorpecentes apreendidos - 745 sacolés de maconha (1.058,5g), 1 tablete da mesma substância (721,7g) e 18 porções de cocaína (13,2g) - para elevar a pena-base em 10 meses acima do mínimo legal.
+Tendo sido apresentado elementos idôneos para a majoração da reprimenda básica, elencados inclusive como circunstâncias preponderantes, e levando-se em conta as penas mínima e máxima abstratamente cominadas ao delito de tráfico de drogas (5 a 15 anos), não se mostra desarrazoado o aumento operado pela instância ordinária, a autorizar a intervenção excepcional desta Corte.
+Confiram-se alguns julgados que respaldam esse entendimento:
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. CONDENAÇÃO. ARTS. 33 E 35, CAPUT, DA LEI N. 11.343/2006. PLEITO ABSOLUTÓRIO. AUTORIA E MATERIALIDADE COMPROVADAS. MODIFICAÇÃO QUE IMPLICA REEXAME DO CONJUNTO PROBATÓRIO. SÚMULA N. 7 DO STJ. DOSIMETRIA DA PENA. PENA-BASE. QUANTIDADE E NATUREZA DA DROGA. FUNDAMENTAÇÃO SUFICIENTE. ART. 42 DA LEI N. 11.343/2006. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. A dosimetria da pena somente pode ser reexaminada no especial quando verificado, de plano, erro ou ilegalidade na fixação da reprimenda, o que não ocorre nestes autos.
+3. A natureza e a quantidade da droga justificam a exasperação da pena-base acima no mínimo legal, nos termos do art. 42 da Lei n. 11.343/2006.
+Agravo regimental desprovido."
+(AgRg no AREsp 1005975/AM, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 4/5/2017, DJe 17/5/2017);
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. PACIENTE CONDENADO À PENA CORPORAL DE 6 ANOS ANOS DE RECLUSÃO, NO REGIME INICIAL FECHADO.
+PLEITO DE REDUÇÃO DA PENA-BASE. INVIABILIDADE. QUANTIDADE ELEVADA DA DROGA APREENDIDA QUE JUSTIFICA A EXASPERAÇÃO. REPRIMENDA MANTIDA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+- O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+- A dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+- Consoante o disposto no artigo 42 da Lei 11.343/2006, na fixação da pena do crime de tráfico de drogas, o juiz deve considerar, com preponderância sobre o previsto no artigo 59 do Estatuto Repressivo, a natureza e a quantidade da substância entorpecente, a personalidade e a conduta social do agente.
+- No caso, observa-se que a pena-base do paciente afastou-se do mínimo legal com lastro na quantidade elevada da droga apreendida, argumento válido para tal fim, pois em consonância ao mencionado art. 42 da Lei n. 11.343/2006 e ao art. 59 do CP. Precedentes.
+- Em respeito à discricionariedade vinculada do julgador, deve ser mantida a pena-base aplicada - 6 anos de reclusão -, pois proporcional à gravidade concreta do crime e à variação das penas abstratamente cominadas ao tipo penal violado, qual seja, 5 a 15 anos de reclusão.
+- Habeas corpus não conhecido."
+(HC 422.764/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/11/2017, DJe 1º/12/2017).
+Ante o exposto, não conheço do habeas corpus.
+É como voto.
