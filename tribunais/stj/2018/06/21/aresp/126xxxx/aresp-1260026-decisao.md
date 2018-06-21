@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CONDOMÍNIO RESIDENCIAL ILHAS GREGAS contra decisão exarada pela il. Presidência da Seção de Direito Privado do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), que inadmitiu o recurso especial.
+Cuidam os autos, na origem, de ação ordinária promovida por CONDOMÍNIO RESIDENCIAL ILHAS GREGAS em desfavor de JRA - EMPREENDIMENTOS E ENGENHARIA LTDA, cujo pedido foi julgado procedente, conforme sentença de fls. 411-420, cujo dispositivo segue transcrito:
+"Em face do exposto, julgo procedente a pretensão inicial, extinguindo o feito com resolução de mérito, na forma do artigo 269, I, do Código de Processo Civil, para condenar a ré a:
+a) reembolsar ao autor a quantia de R$ 125.000,00 despendida com a realização de parte das obras no condomínio, com correção monetária pela tabela do Tribunal de Justiça de São Paulo desde o ajuizamento da demanda, nos termos do artigo 1o, § 2o, da Lei nº. 6.899/81, e juros de mora de 1% ao mês a contar da citação para a ação principal;
+b) pagar ao autor os valores que serão despendidos com as obras cuja realização será necessária para os reparos dos vícios descritos na inicial e no laudo pericial e não abrangidos pelas obras descritas no item precedente, a serem apurados em liquidação, se necessário, e limitados à quantia de RS 47.844,79, com correção monetária pela tabela do Tribunal de Justiça de São Paulo desde o ajuizamento da demanda, nos termos do artigo 1o, § 2o, da Lei nº. 6.899/81, e juros de mora de 1% ao mês a contar da citação para a ação principal.
+Por força da sucumbência a ré deverá ainda reembolsar ao autor os valores adiantados a título de custas e despesas processuais (inclusive os honorários periciais), e arcar com o pagamento dos honorários advocatícios, que arbitro em 10% do valor da condenação, com fulcro no artigo 20, §§ 3º e 4º, do Código de Processo Civil.
+P.R.I.".
+Diante disso, JRA - EMPREENDIMENTOS E ENGENHARIA LTDA interpôs apelação, a qual foi provida pelo eg. TJ-SP, conforme v. acórdão, assim ementado:
+"Vícios redibitórios. Defeitos ocultos. Alcance do art. 445, § 1o, do Código Civil. Prazo decadencial de 1 ano, contado a partir do conhecimento do defeito, consumado anteriormente ao ajuizamento da ação. Sentença de procedência que, todavia, aplica o prazo prescricional previsto no art. 618 do Código Civil (relativo à empreitada), em inobservância ao prazo decadencial previsto no parágrafo único do mesmo artigo. Relação jurídica afeita ao regime da compra e venda. Sentença reformada. Recurso provido". (fl. 475)
+Inconformado, CONDOMÍNIO RESIDENCIAL ILHAS GREGAS manejou recurso especial, com arrimo na alínea "a" do art. 105, III da Constituição Federal, no qual alega violação ao art. 445, § 1º do Código Civil.
+Contrarrazões às fls. 499-505
+Como dito, o apelo nobre foi inadmitido (fls. 507-508).
+Irresignado, CONDOMÍNIO RESIDENCIAL ILHAS GREGAS manejou o presente agravo em recurso especial, refutando os fundamentos da decisão que inadmitiu seu apelo nobre.
+Contraminuta às fls. 524-534.
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+A irresignação não merece prosperar.
+Nas razões recursais, sustenta a recorrente vulneração ao art. 445, § 1º do Código Civil, em síntese, ao argumento de que: "a interpretação do artigo 445 parágrafo primeiro do Código Civil, deve ser no sentido de que corre o prazo decadencial de um ano a partir da homologação do laudo, ato que concretiza e evidencia a ciência inequívoca do dano causado" (fl. 489).
+Por sua vez, o eg. TJ-SP assentou que decaiu o prazo ânuo de ajuizamento da ação para exercício da pretensão redibitória. É o que se verifica in verbis (fl. 480):
+"Considerando-se que os condôminos tomaram total conhecimento do todos os vícios da coisa quando da divulgação do laudo pericial, em abril de 2009, o ajuizamento da ação ocorreu após a consumação do prazo decadencial de 1 ano, de que trata o §1º do art. 445 do Código Civil".
+Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido, ora transcrito, a fim de perquirir o momento da ciência inequívoca dos condôminos acerca dos vícios redibitórios no imóvel objurgado, demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe as Súmula 7 deste Pretório.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
