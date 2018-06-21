@@ -1,0 +1,43 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pela MOACIR AVILA DE FREITAS contra decisão denegatória de seu recurso especial, fundado no artigo 105, inciso III, alíneas a e c, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+Nas razões do nobre apelo, a ora agravante sustenta a violação do art. 43, § 2º, do CDC, sob o argumento de que "o recorrido descumpriu a obrigação legal de previamente comunicá-la acerca da abertura, manutenção e administração de ficha ou cadastro contendo dados em seu nome, praticando, desta forma, ato ilícito, que importa no cancelamento dos registros realizados ilegalmente, eis que retira do consumidor a oportunidade de, a tempo e hora, resgatar sua dignidade" (fl. 153), bem como enseja indenização por dano moral.
+É o relatório. Decido.
+Notificação prévia:
+A Segunda Seção do Superior Tribunal de Justiça, sob o rito dos recursos especiais repetitivos, no julgamento do Recurso Especial n.º 1.083.291/RS, vinculado ao Tema n.º 59, consolidou entendimento acerca da notificação prévia do consumidor nos casos de inscrição do seu nome em cadastro de proteção ao crédito, nos termos do acórdão assim ementado:
+"DIREITO PROCESSUAL CIVIL E BANCÁRIO. RECURSO ESPECIAL. INSCRIÇÃO EM CADASTRO DE PROTEÇÃO AO CRÉDITO. PRÉVIA NOTIFICAÇÃO. DESNECESSIDADE DE POSTAGEM DA CORRESPONDÊNCIA AO CONSUMIDOR COM AVISO DE RECEBIMENTO. SUFICIÊNCIA DA COMPROVAÇÃO DO ENVIO AO ENDEREÇO FORNECIDO PELO CREDOR.
+I- Julgamento com efeitos do art. 543-C, § 7º, do CPC.
+- Para adimplemento, pelos cadastros de inadimplência, da obrigação consubstanciada no art. 43, §2º, do CDC, basta que comprovem a postagem, ao consumidor, do correspondência notificando-o quanto à inscrição de seu nome no respectivo cadastro, sendo desnecessário aviso de recebimento.
+- A postagem deverá ser dirigida ao endereço fornecido pelo credor.
+II- Julgamento do recurso representativo.
+- A Jurisprudência do STJ já se pacificou no sentido de não exigir que a prévia comunicação a que se refere o art. 43, §2º, do CDC, seja promovida mediante carta com aviso de recebimento.
+- Não se conhece do recurso especial na hipótese em que o Tribunal não aprecia o fundamento atacado pelo recorrente, não obstante a oposição de embargos declaratórios, e este não veicula sua irresignação com fundamento na violação do art. 535 do CPC. Súmula 211/STJ.
+- O STJ já consolidou sua jurisprudência no sentido de que "a ausência de prévia comunicação ao consumidor da inscrição do seu nome em cadastros de proteção ao crédito, prevista no art. 43, §2º do CDC, enseja o direito à compensação por danos morais, salvo quando preexista inscrição desabonadora regularmente realizada." (Recurso Especiais em Processos Repetitivos nºs 1.061.134/RS e 1.062.336/RS) Não se conhece do recurso especial quando o entendimento firmado no acórdão recorrido se ajusta ao posicionamento do STJ quanto ao tema. Súmula n.º 83/STJ. Recurso especial improvido."
+(REsp 1083291/RS, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, DJe 20/10/2009.)
+Na espécie, o Tribunal a quo decidiu em conformidade com esse entendimento ao considerar que a prévia notificação enviada ao endereço fornecido pelo credor estaria de acordo com o artigo 43, § 2º, do CDC, sob o seguinte fundamento, in verbis:
+"No caso dos autos, a requerida demonstrou o envio da comunicação prévia ao autor, ônus que lhe incumbia, nos termos do art. 373, II, do novo Código de Processo Civil, conforme os documentos de fls. 45-57 e 70-78, sendo devida a manutenção dos registros objetos de discussão.
+(..).
+Impende destacar, ainda, a desnecessidade de que a notificação seja enviada com "Aviso de Recebimento". A legislação não prevê a forma para realização da notificação, nem mesmo exige a comprovação de que o recebimento pelo devedor ocorra mediante AR.
+Somente exige, conforme já destacado, prova escrita do envio da correspondência que dê ciência do registro negativo.
+Por derradeiro, saliento que o fato de o endereço descrito na notificação ser diverso daquele em que reside efetivamente a parte autora mostra-se irrelevante, porque a parte, por ocasião da compra, forneceu aquele endereço e isso é o que importa para o deslinde processual.
+A legislação não impõe formalidades ao cumprimento do disposto no artigo 43, §2º, do CDC, sendo suficiente a remessa da notificação." (fls. 143/144)
+Ressalto, ainda, que é inviável a reforma do decisum, nesse particular, pois, para se concluir em sentido contrário ao que restou expressamente consignado no acórdão recorrido - existência ou não de notificação prévia -, seria necessário o revolvimento do conjunto fático-probatório dos autos, o que é inviável no âmbito desta instância especial ante o óbice da Súmula n.º 7 do Superior Tribunal de Justiça: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INSCRIÇÃO EM CADASTRO DE INADIMPLENTES REGULAR. NOTIFICAÇÃO PRÉVIA. COMPROVAÇÃO DE ENVIO. SÚMULAS N. 7 E 83 DO STJ. ANÁLISE DO DISSÍDIO JURISPRUDENCIAL PREJUDICADA. AGRAVO INTERNO DESPROVIDO.
+1. É pacífica a jurisprudência da Segunda Seção no sentido de que, para a notificação ao consumidor da inscrição de seu nome em cadastro restritivo de crédito, basta o envio de correspondência dirigida ao endereço do credor, sendo desnecessário aviso de recebimento. Entendimento firmado no julgamento do Recurso Especial 1.083.291/RS, julgado sob o rito dos recursos repetitivos.
+2. A revisão da conclusão estadual - acerca do adequado cumprimento do disposto no artigo 43, § 2º, do Código de Defesa do Consumidor , e por isso, descabida a inscrição de seu nome em cadastro de inadimplentes - demandaria o revolvimento do acervo fático-probatório dos autos, providência inviável na via estrita do recurso especial, ante o óbice disposto na Súmula 7/STJ.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido." (AgRg no AREsp 1.078.272/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 25/08/2017.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DANO MORAL. AUSÊNCIA DE PRÉVIA NOTIFICAÇÃO. SÚMULA 7/STJ. QUANTUM INDENIZATÓRIO. VALOR RAZOÁVEL. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem, apreciando as peculiaridades fáticas da causa, julgou procedente o pedido de indenização por dano moral deduzido em desfavor da agravante, tendo asseverado que a prévia comunicação não foi efetuada nos moldes do art. 43, § 2º, do Código de Defesa do Consumidor.
+2. A modificação de tal entendimento lançado no v. acórdão recorrido, como ora perseguida, demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ, que dispõe: "A pretensão de simples reexame de prova não enseja recurso especial".
+ ..
+4. Agravo interno a que se nega provimento." (AgRg no REsp 1.356.058/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 25/08/2017.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA CUMULADA COM INDENIZAÇÃO. INEXISTÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC. ALEGAÇÃO DE AUSÊNCIA DE COMUNICAÇÃO PRÉVIA. INCIDÊNCIA DA SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+ ..
+2. A Corte local, com base nos elementos fático-probatórios dos autos, concluiu pela existência de notificação prévia, mantendo a improcedência da ação de indenização por danos morais. Desse modo, para alcançar conclusão diversa daquela a que chegou as instâncias ordinárias e acolher a tese sustentada pela parte agravante, seria imprescindível o reexame de prova, o que é inviável nesta instância especial (Súmula 7/STJ).
+3. Agravo regimental a que se nega provimento." (AgRg no AREsp 575.113/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/10/2014, DJe 23/10/2014.)
+Dessa feita, atento a tais considerações, deve ser mantido o acórdão recorrido.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte Recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos no § 2.º do referido dispositivo legal, bem como a eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
