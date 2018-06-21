@@ -1,0 +1,44 @@
+DECISÃO
+[NOME] ROBERTO CAMPOS agrava de decisão que inadmitiu o recurso especial de fls. 999-1.008, fundado no art. 105, III, "a", da Constituição Federal e interposto contra acórdão do Tribunal de Justiça de Minas Gerais (Apelação Criminal n. 1.0372.13.001222-5/001).
+Consta dos autos que o agravante foi condenado, em primeiro grau de jurisdição, às penas de 6 anos, 7 meses e 10 dias de reclusão e 16 dias-multa, como incurso no art. 157, § 2º, I, II e V, do Código Penal.
+O Tribunal de origem, por unanimidade, negou provimento ao recurso de apelação interposto pela defesa, em acórdão cuja ementa registra (fl. 960):
+APELAÇÃO CRIMINAL - ROUBOS MAJORADOS - ART. 157, § 2º, I, II E V, POR DUAS VEZES, NA FORMA DO ART. 70, AMBOS DO CÓDIGO PENAL - RÉU RONALDO - ABSOLVIÇÃO POR AUSÊNCIA DE PROVAS - APLICAÇÃO DO PRINCÍPIO IN DÚBIO PRO REO - IMPOSSIBILIDADE - CONJUNTO PROBATÓRIO FIRME E CONTUNDENTE - NULIDADE DO RECONHECIMENTO DO ACUSADO POR EVENTUAL INOBSERVÂNCIA AO DISPOSTO NO ART. 228, DO CPP - IMPERTINÊNCIA - MERA IRREGULARIDADE - REDUÇÃO DA REPRIMENDA AO MÍNIMO LEGAL - NÃO CABIMENTO - RÉU [NOME] - DECOTE DA MAJORANTE RELATIVA À RESTRIÇÃO DA LIBERDADE DAS VÍTIMAS - INVIABILIDADE.
+- Restando devidamente demonstradas a materialidade e autoria dos delitos de roubo, resta incabível o pleito absolutório por ausência de provas.
+- O reconhecimento realizado sem a observância das formalidades insertas do art. 228 do Código de Processo Penal não contamina o valor probatório do ato e, tampouco, justifica a perda da credibilidade das alegações do ofendido.
+- Mostrando-se razoável e proporcional a pena imposta, cujos
+agravamentos foram justificados pela presença de circunstâncias judiciais desfavoráveis, da agravante da reincidência e de três majorantes, não há que se falar em sua redução ao patamar mínimo previsto em lei.
+- Sendo devidamente comprovada a restrição da liberdade das vitimas durante o assalto, deve ser mantida a incidência da causa especial de aumento prevista no inciso V do artigo 157 do Código Penal.
+Os embargos de declaração opostos pela defesa foram rejeitados (fl. 991).
+Nas razões do recurso especial, aponta a defesa contrariedade aos arts. 157, caput, e 70, caput, do Código Penal.
+Sustenta ser "fato incontroverso desde a denúncia que as vítimas são casadas entre si" (1.003) e que, no caso, não há "como ser reconhecida a existência de dois fatos simplesmente por terem sido ameaçadas duas pessoas" (fl. 1.004). Primeiro, porque "não há que se falar na existência de dois patrimônios ofendidos" (fl. 1.004); segundo, porque "não há como reconhecer consciência e vontade para ofender patrimônios diversos", pois a presunção é que ambas as vítimas têm patrimônio comum (fl. 1.007).
+Requer o provimento do recurso especial, "para reconhecer a existência de crime único no fato reconhecido" (fl. 1.008).
+O apelo especial foi inadmitido no juízo prévio de admissibilidade realizado pelo Tribunal a quo (fl. 1.019-1.020), ante a incidência da Súmula n. 83 do STJ, o que ensejou a interposição deste agravo (fls. 1.023-1.030).
+A parte agravante alega, contudo, que o recurso especial não discute "a existência de crime único no roubo praticado contra mais de uma pessoa", e sim "a possibilidade de reconhecer o concurso formal próprio quando as duas vítimas são casadas entre si e o fato ofende patrimônio único" (fl. 1.026).
+O Ministério Público Federal opinou, às fls. 1.044-1.046, pelo desprovimento do agravo.
+Decido.
+I. Admissibilidade do agravo
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, preenchendo, dessa forma, os requisitos de admissibilidade, razão pela qual comporta conhecimento.
+II. Contextualização
+Extrai-se dos autos que o recorrente foi condenado, em sentença confirmada pelo Tribunal de origem, às penas de 6 anos, 7 meses e 10 dias de reclusão e 16 dias-multa, como incurso no art. 157, § 2º, I, II e V, do Código Penal, em razão da prática dos seguintes fatos, narrados na denúncia (fl. 2):
+Consta dos inclusos autos de inquérito policial que no dia 20 de novembro de 2012, por volta de 01:30 horas, na Fazenda Alto Peão, localizada na zona rural desta cidade e comarca de Lagoa da Prata, os denunciados RONALDO [NOME], [NOME], [NOME] ROBERTO CAMPOS, e [NOME], previamente ajustados e em unidade de desígnios, subtraíram, para si, mediante violência e grave ameaça, exercida com o emprego de arma de fogo, a quantia aproximada de R$ 2.400,00 (dois mil e quatrocentos reais), dois anéis de ouro, diversas outras jóias, um notebook Samsung, um aparelho de som automotivo, uma porção de chaves, um aparelho de telefone celular marca Nokia, um aparelho de telefone celular marca Samsung, três garrafas de Wisky, algumas peças de roupas, documentos pessoais, cinquenta munições calibre .38, uma carabina calibre .38, um par de tênis e um par de sandálias, pertencentes a [NOME] e [NOME].
+Conforme relatado, nas razões de recurso especial o recorrente alega que, no caso, não está configurado o concurso formal próprio, haja vista o patrimônio ofendido com a ação delituosa ser comum às vítimas, que são casadas.
+III. Ausência de prequestionamento - Súmula n. 211 do STJ
+Para caracterização do prequestionamento, era imprescindível que os argumentos deduzidos no recurso especial, relativos à não incidência da regra de concurso formal (art. 70 do Código Penal) quando as vítimas são casadas entre si e possuem patrimônio comum, fossem debatidos pelo Tribunal de origem, à luz da legislação federal indicada, o que, a despeito da oposição de embargos de declaração, não ocorreu na espécie.
+Com efeito, verifica-se que o recorrente nem sequer suscitou a tese de crime único nas razões de apelação de fls. 879-883, tendo o Tribunal de origem, ao julgar os embargos de declaração, salientado que o acórdão local "enfrentou, de forma clara e bem fundamentada, o pedido único pleiteado pela Defensoria Pública em nome do embargante [NOME] (afastamento da majorante prevista no inciso V do § 2º do art. 157 do Código Penal)" (fl. 993 - destaquei).
+Por conseguinte, aplica-se o enunciado da Súmula n. 211 do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+IV. Inviabilidade de habeas corpus de ofício
+Saliento ser "assente neste Tribunal Superior que, praticado o crime de roubo mediante uma só ação, contra vítimas diferentes, não há se falar em crime único, mas sim em concurso formal, visto que violados patrimônios distintos. Precedentes." (HC n. 275.122/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/8/2014).
+No mesmo norte, cito o seguinte precedente, de minha relatoria:
+ ..
+8. Praticado o crime de roubo em um mesmo contexto fático, mediante uma só ação, contra vítimas diferentes, tem-se configurado o concurso formal de crimes, e não a ocorrência de crime único, visto que violados patrimônios distintos. Precedentes.
+9. Ordem não conhecida. Habeas corpus concedido, de ofício, para reduzir a pena imposta ao paciente.
+(HC n. 223.723/SP, 6ª T., DJe 31/5/2016)
+Ademais, com relação à alegação de existência de patrimônio comum, há julgado do Superior Tribunal de Justiça, relativo a roubo praticado contra casal, no sentido de que "o Direito Penal tutela bens e interesses jurídicos com autonomia e de um modo peculiar de outros ramos do direito. Assim, não se pode afirmar que o conceito de patrimônio na esfera penal, necessariamente, se equivale à definição contida no âmbito civil" (AgRg no REsp n. 1009998/RS, Rel. Ministro Og Fernandes, 6ª T., DJe 17/08/2011).
+Não bastasse, o Ministério Público Federal salientou que, "no caso vertente, além do patrimônio comum do casal, foram subtraídos objetos de propriedade pessoal: aparelho celular de [NOME] (f. 780), e as alianças de casamento (f. 793-795), o que individualiza a propriedade dos bens subtraídos" (fl. 1.046).
+Por esses motivos, registro, em obiter dictum, que, na hipótese, não é possível conceder habeas corpus, de ofício, com base no art. 654, § 2º, do CPP.
+V. Execução imediata da pena
+Ante o esgotamento das instâncias ordinárias, como no caso, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+VI. Dispositivo
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Ainda, determino o envio de cópia dos autos ao Juízo da condenação para imediata execução da pena imposta. A determinação deve ser desconsiderada caso o agravante já cumpra a reprimenda.
+Publique-se e intimem-se.
