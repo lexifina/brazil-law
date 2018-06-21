@@ -1,0 +1,28 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por [NOME] contra a decisão que obstou o processamento de seu recurso especial, fundado no art. 105, inciso III, alíneas a e c da Constituição da República, o qual visa reformar o acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO - Ação comum - Exclusão da Tarifa de Uso dos Sistemas de Transmissão e Distribuição (TUSD e TUST) da base de cálculo do ICMS - Decisão recorrida que indeferiu a tutela de urgência - Insurgência - Descabimento - Ausente a probabilidade do direito, porquanto o entendimento do STJ a respeito do tema não se deu através do rito dos recursos repetitivos, de tal sorte que não possuem efeito vinculante, mas tão somente força persuasiva - Não configuração de dano irreparável ou de difícil reparação para a concessão da tutela de urgência na origem - Precedentes desta Primeira Câmara de Direito Público - Decisão mantida - Recurso desprovido." (Fl. 350).
+A parte Recorrente aponta, além de divergência jurisprudencial, violação ao art. 300 do Código de Processo Civil, sustentando que há a comprovação do dano irreparável ou de difícil reparação para a concessão da tutela de urgência.
+É o relatório.
+Decido.
+Conforme jurisprudência do Superior Tribunal de Justiça não cabe recurso especial contra acórdão que examina apenas pedido de tutela de urgência, em razão da natureza precária desse provimento jurisdicional. Aplica-se, mutatis mutandis, nesse caso, o disposto no enunciado n.º 735 da Súmula do Supremo Tribunal Federal, in verbis: "Não cabe recurso extraordinário contra acórdão que defere medida liminar."
+No mesmo sentido, confiram-se os seguintes julgados:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. TOMBAMENTO. INDEFERIMENTO DE LIMINAR NA ORIGEM. REEXAME. SÚMULA 735/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 356/STF.
+1. É inviável recurso especial interposto contra acórdão que concede/convalida ou indefere antecipação de tutela ou liminar. A uma, porque as questões processuais relativas ao mérito da demanda devem aguardar a solução definitiva na origem e, ainda, porque, para o exame dos requisitos da tutela de urgência, no caso, seria necessário a incursão na seara fática da causa. Incidência da Súmula 735 do Excelso Pretório.
+2. A ausência de manifestação no acórdão sobre tema que nem sequer foi vinculado nas razões de alegação de infringência ao art. 535 do CPC/1973 impede a análise da questão em recurso especial, nos termos da Súmula 356/STF.
+3. Agravo interno a que se nega provimento."
+(AgInt no REsp 1463903/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 20/02/2018, DJe 26/02/2018)
+"PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. RECURSO ESPECIAL EM FACE DE DECISÃO QUE INDEFERE MEDIDA LIMINAR. APLICABILIDADE. SÚMULA N. 735 DO SUPREMO TRIBUNAL FEDERAL. APLICABILIDADE. URGÊNCIA. AUSÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Não é cabível recurso especial contra decisão que defere ou indefere liminar ou antecipação de tutela, porquanto sua natureza é precária. Incidência, por analogia, da Súmula n. 735/STF.
+III - In casu, rever o entendimento do Tribunal de origem, no sentido de reconhecer o preenchimento do requisito de urgência, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ. IV - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido."
+(AgInt no REsp 1686163/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 30/11/2017, DJe 05/12/2017)
+"ADMINISTRATIVO. ANTECIPAÇÃO DE TUTELA. SERVIDOR EXPOSTO À RADIAÇÃO. REDUÇÃO DA JORNADA DE 40 PARA 24 HORAS SEMANAIS. QUESTÃO DE MÉRITO AINDA NÃO JULGADA, EM ÚNICA OU ÚLTIMA INSTÂNCIA, PELO TRIBUNAL DE ORIGEM. APLICAÇÃO ANALÓGICA DA SÚMULA 735/STF.
+1. Cuida-se de inconformismo contra acórdão do Tribunal de origem, que, em Agravo de instrumento, concedeu efeito suspensivo ativo ao recurso para liminarmente fixar a jornada de trabalho dos recorridos em 24 horas por semana, na forma prevista pelo art. 1º da Lei 1234/1950.
+2. Verifica-se que, in casu, a recorrente busca o reexame de decisão que trata sobre a concessão de provimento de urgência, o que é vedado pela aplicação analógica da Súmula 735, do Supremo Tribunal Federal: "Não cabe recurso extraordinário contra acórdão que defere medida liminar. 3. Com efeito, a jurisprudência do STJ sedimentou-se no sentido de não ser cabível Recurso Especial contra decisão que defere ou indefere liminar ou antecipação de tutela, porquanto sua natureza é precária (REsp 1.678.22. Ministra Regina Helena Costa. Data da Publicação 2/8/2017).
+4. Recurso Especial de que não se conhece."
+(REsp 1689992/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/10/2017, DJe 16/10/2017)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se. Intimem-se.
