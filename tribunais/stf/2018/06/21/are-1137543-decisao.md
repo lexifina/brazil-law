@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Colegiado de origem manteve o entendimento do Juízo quanto à improcedência do pedido de indenização por danos morais ante a ausência de demonstração de abalo à imagem ou à honra objetiva. No extraordinário cujo trânsito busca alcançar, os recorrentes apontam a violação do artigo 5º, inciso X, da Constituição Federal. Afirmam ter demonstrado o dano, destacando a confissão e a confirmação pela prova testemunhal das ofensas alegadas.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho a síntese da decisão recorrida:
+    INDENIZAÇÃO POR DANOS MORAIS — Agravo retido — Contradita bem acolhida, vez que as testemunhas não guardavam a isenção necessária — Incidência do comando do inciso IV, do § 3°, do artigo 405 do Código de Processo Civil —Agravo não provido — Cerceamento de defesa — Inocorrência —Autores que buscam a condenação do réu em indenização pelos alegados danos morais sofridos, decorrentes de supostas atitudes arbitrária e ofensiva a sua moral cometidas — Improcedência corretamente decretada — Ausência de demonstração de prejuízos alegados e indícios nos autos de que a imagem e a honra objetiva da pessoa jurídica tenha sido afetada — Danos morais não configurados - Compete à parte autora fazer prova ao menos da ocorrência do evento danoso, sem o que não há nexo de causalidade, ainda que se trate de responsabilidade objetiva -Ausência, de comprovação da alegada situação vexatória — Desatendimento da regra expressa no artigo 333, 1, do CPC -Sentença mantida — Recurso improvido.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    3. Conheço do agravo e o desprovejo. Considerada a condenação em sentença ao pagamento dos honorários advocatícios no patamar de 5% sobre o valor da causa, majoro os honorários recursais em 2,5%, consoante o artigo 85, § 11, do Código de Processo Civil de 2015.
+    4. Publiquem.
+Brasília, 21 de junho de 2018.
+Ministro MARCO AURÉLIO
+Relator
