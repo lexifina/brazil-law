@@ -1,0 +1,24 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário (RE) interposto em face de acórdão assim ementado:
+    “CIVIL. REINTEGRAÇÃO NA POSSE. PROGRAMA DE ARRENDAMENTO RESIDENCIAL
+    1. O inadimplemento no arrendamento torna irregular a ocupação do imóvel descrito na petição inicial e integrante do PAR, caracterizando, assim, o esbulho possessório autorizador da reintegração na posse pretendida, sendo certo que a função social da posse, o direito à moradia, a dignidade da pessoa humana e as condições financeiras do ocupante não podem ser utilizados como forma de burlar o cumprimento da lei.
+    2. Tendo em vista que o Programa de Arrendamento Residencial possui regulamentação própria, insculpida na Lei nº 10.188/2001, não há que falar em aplicação analógica das regras do Programa Minha Casa, Minha Vida, em especial do art. 20, inciso I, da Lei nº 11.977/2009.
+    3. Recurso improvido” (pág. 183 do documento eletrônico 1).
+    No RE, fundado no art. 102, III, a, da Constituição, sustenta-se violação dos arts. 3°, III; 5°; 6°; e 170, III, todos da mesma Carta Magna.
+    A pretensão recursal não merece acolhida.
+    Isso porque a recorrente insurge-se, em suma, contra a impossibilidade de parcelamento do débito das prestações mensais do contrato de arrendamento residencial pelo Fundo Garantidor da Habitação Popular, regulado pela Lei 10.188/2001, em tratamento desigual àquele concedido aos mutuários do Programa Minha Casa - Minha Vida, regido pela Lei 11.977/2009.
+    Dessa forma, para dissentir do acórdão impugnado, seria necessário o reexame do conjunto fático-probatório dos autos e das cláusulas contratuais do pacto firmado entre as partes, o que é vedado pelas Súmulas 279 e 454, ambas desta Corte, e, ainda, a análise das normas infraconstitucionais pertinentes ao caso, em especial da Lei 10.188/2001, sendo certo que eventual ofensa à Constituição seria apenas indireta. Nesse sentido:
+    “EMENTA: Agravo regimental em recurso extraordinário com agravo. 2. Direito Civil. 3. Programa de Arrendamento Residencial (PAR). Esbulho possessório em razão de inadimplemento. 4. Art. 9º da Lei 10.188/2001. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento” (ARE 978.890-AgR/SP, Rel. Min. Gilmar Mendes).
+     “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. PREQUESTIONAMENTO NÃO DEMONSTRADO. SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. CONTRATO DE ARRENDAMENTO RESIDENCIAL. ESBULHO POSSESSÓRIO. REINTEGRAÇÃO. ACÓRDÃO FUNDAMENTADO NA LEGISLAÇÃO INFRACONSTITUCIONAL E NAS PROVAS DOS AUTOS. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 932.192-AgR/RJ, Rel. Min. Cármen Lúcia).
+     “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO CIVIL. CONTRATO. SISTEMA FINANCEIRO DE HABITAÇÃO. SALDO DEVEDOR. REAJUSTE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. NECESSIDADE DE ANÁLISE DAS CLÁUSULAS CONTRATUAIS CONSTANTES DO ATO CELEBRADO ENTRE AS PARTES. SÚMULA 454 DO STF. ANÁLISE DE NORMA INFRACONSTITUCIONAL. OFENSA INDIRETA. ALEGAÇÃO DE PRÁTICA DE ANATOCISMO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279 DO STF. AGRAVO IMPROVIDO.
+    I – É inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido (Súmulas 282 e 356 do STF).
+    II - A discussão acerca da suposta violação ao ato jurídico perfeito não dispensa a interpretação das cláusulas contratuais constantes do ato celebrado entre as partes, o que inviabiliza o extraordinário, a teor da Súmula 454 do STF.
+    III – Esta Corte reafirmou a sua jurisprudência no sentido de que a controvérsia relativa a critério de reajuste de saldo devedor em contrato de mútuo pelo sistema financeiro de habitação encontra-se no âmbito infraconstitucional.
+    IV – A verificação da ocorrência do prática de anatocismo encontra óbice na Súmula 279 do STF.
+    V - Agravo regimental improvido” (RE 568.692-AgR/DF, de minha relatoria).
+     “EMENTA: Recurso Extraordinário. Agravo Regimental. 2. Contrato de mútuo regido pelo Sistema Financeiro de Habitação. 3. Falta de prequestionamento e ofensa reflexa. Interpretação de cláusula contratual e matéria fática. Súmulas 279, 282 e 454. 4. Recurso que impugna matéria diversa: depósitos de contas vinculadas ao FGTS. 5. Agravo regimental a que se nega provimento”(RE 292.100-AgR/RN, Rel. Min. Gilmar Mendes).
+    Cito, ainda, a seguinte decisão monocrática, em caso análogo ao dos autos, cujo trânsito em julgado foi certificado em 15/4/2013: ARE 732.854/RJ, Rel. Min. Cármen Lúcia.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 21 de junho de 2018.
+Ministro Ricardo Lewandowski
+Relator
