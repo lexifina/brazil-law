@@ -1,0 +1,62 @@
+EMENTA
+CIVIL AGRAVO EM RECURSO ESPECIAL. RECURSOS MANEJADOS NA ÉGIDE DO NCPC. USUCAPIÃO EXTRAORDINÁRIO. BENS IMÓVEIS. VIOLAÇÃO DOS ARTS. 371, 489 E 1.022 DO NCPC NÃO CONFIGURADA. AUSÊNCIA DE JULGAMENTO EXTRA PETITA. PREQUESTIONAMENTO DOS ARTS. 405 E 406 DO NCPC AUSENTE. SÚMULAS NºS 282 E 356 DO STF. ACÓRDÃO FIRMADO NAS PROVAS DOS AUTOS NO SENTIDO DE TER FICADO COMPROVADO O LAPSO DO PRAZO PRESCRICIONAL AQUISITIVO. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E NESSA EXTENSÃO NEGAR-LHE PROVIMENTO.
+DECISÃO
+[NOME] e ROSA DOS SANTOS [NOME] ([NOME] e outra) ajuizaram ação de usucapião extraordinária contra o ESPÓLIO DE ANTÔNIO PASCHOAL SILIPRANDI e IDA SILIPRANDI (ESPÓLIO), relativamente a imóvel urbano.
+A sentença de improcedência do pedido autoral foi reformada em grau de apelação conforme acórdão assim ementado:
+APELAÇÃO CÍVEL. USUCAPIÃO EXTRAORDINÁRIO. BENS IMÓVEIS. REQUISITOS DOS ARTS. 1.238 E 1.243 DO CC/2002 PREENCHIDOS. PRAZO PRESCRICIONAL IMPLEMENTADO. ACESSIO POSSESSIONIS COMPROVADA. SENTENÇA MODIFICADA.
+Para que seja reconhecida a usucapião, é necessária a existência da posse, que perdure, ininterruptamente, por determinado período de tempo, de forma mansa e pacífica, com a intenção do possuidor de tê-la como sua, consoante se extrai do art. 1238 do CCB. Cabe a parte autora, portanto, produzir a prova de sua posse prolongada, ininterrupta, mansa e pacífica, como também do animus domini, nos termos do art. 373, I, do NCPC, sob pena de não se lhe declarar o domínio do imóvel o que pretende. Caso. Está comprovado que no decorrer dos anos a posse transcorreu de forma mansa, pacífica e sem nenhuma oposição por parte dos réus não havendo, desta forma, interrupção de sua continuidade. A transmissão da posse, permissiva da acessio possessionis, pode ser demonstrada por qualquer meio de prova, o que restou evidenciado nos autos. Preenchidos os requisitos do artigo 1.243 do CC, cabe o deferimento da prescrição aquisitiva pretendido pelo autor.
+DERAM PROVIMENTO AO RECURSO. UNÂNIME (e-STJ, fl. 279).
+Os embargos de declaração foram rejeitados (e-STJ, fls. 317/325).
+ESPÓLIO desafiou recurso especial com base no art. 105, III, a, da CF, sob a alegação de violação dos arts. 141, 371, 373, 405, 408, 489, 492, 1.013, 1.022, do NCPC e 1.238 e 1.243 do CC/02 pelos seguintes fundamentos (1) negativa de prestação jurisdicional; (2) sentença extra petita, pois o acórdão recorrido não poderia examinasse de ofício matéria não impugnada pelos recorridos relativa ao desacolhimento na sentença da acessio possessionis; (3) não ficou comprovada a acessio possessionis e nem a posse contínua pelos antecessores dos recorridos [NOME] e outra; (4) não foram preenchidos os requisitos da usucapião.
+Não foram apresentadas contrarrazões.
+Inadmitido o apelo nobre, ESPÓLIO interpôs agravo em recurso especial sustentando, em síntese, que (1) ficou caracterizada a infringência aos arts. 489 e 1.022 do NCPC; (2) não tem aplicação as Súmulas nºs 7 e 211 do STJ; (3) aplica-se o art. 1.025 do NCPC (4) ficou demonstrada a infringência aos preceitos legais arrolados no apelo nobre.
+Sem contraminuta.
+É o relatório.
+A irresignação não merece provimento.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da alegada ofensa aos arts. 371, 489 e 1.022 do NCPC
+ESPÓLIO assegura que o Tribunal local permaneceu omisso sobre a alegação de impossibilidade de julgamento extra petita.
+O Tribunal local, porém, examinou expressamente a questão suscitada pelo ESPÓLIO, como se vê do acórdão que julgou os embargos de declaração:
+Tocante à alegação de vício de atividade, cabe referir que o julgamento proferido por esta Câmara se ateve as provas dos autos e a análise do preenchimento dos requisitos legais à prescrição aquisitiva. Não houve julgamento extra petita, até porque o autor, ora embargado, comprovou nos autos a existência dos requisitos legais, tanto que resultou no provimento do apelo que interpôs.
+(..)
+Ainda, o embargante suscita em suas razões de recurso o prequestionamento dos dispositivos legais que entende aplicáveis à espécie.
+Entretanto, não há qualquer fundamentação da pretensão por parte da embargante, pois não indica nem justifica como o acórdão negou vigência ou afrontou as referidas normas prequestionadas para julgamento da presente demanda, e tal ônus lhe competia, ex vi, dos arts. 102, inciso III e 105, inciso III, ambos da Constituição Federal.
+(..)
+No caso dos autos o recorrente apenas enumerou normas sem apresentar qualquer fundamentação sobre os pontos que desejava que esse Tribunal se manifestasse acerca do prequestionamento. Não disse como e de que forma no acórdão, este Relator teria afrontado ou negado vigência aos artigos apontados na peça recursal, tornando inviável a sua apreciação (e-STJ, fls. 320/324).
+O acórdão estadual apreciou a alegação de julgamento extra petita suscitada por ESPÓLIO, de forma fundamentada e coerente, ainda que tenha decidido de forma contrária à sua tese. Tal fato, contudo, não o vicia de nulidade.
+(2) Da alegada ofensa aos arts. 141, 492 e 1.013 do NCPC - julgamento extra petita
+Ao contrário do que afirma ESPÓLIO, o Tribunal recorrido não proferiu julgamento extra petita, pois a conclusão a que chegou decorreu da interpretação lógico sistemática das razões apresentadas na inicial cujo pedido foi de reconhecimento da usucapião.
+No caso, a sentença entendeu que a alegação de [NOME] e outro acerca do exercício da posse pelos antecessores, não ficou comprovada e julgou improcedente o pedido autoral.
+Por sua vez o Tribunal local, reapreciando essas mesmas provas formou convicção no sentido de que ficou comprovada a prescrição aquisitiva autorizadora da usucapião.
+Eis os termos do voto condutor do acórdão recorrido:
+Como requisitos à aquisição da propriedade por meio de usucapião são necessários a posse mansa e pacífica com ânimo de dono pelo tempo previsto na lei. Acresce a estes os requisitos suplementares do justo título e boa -fé, tratando-se da usucapião ordinária, o requisito da moradia na usucapião urbana e, associado a esta, o requisito de trabalho na usucapião rural.
+(..)
+Logo, para a usucapião extraordinária basta a posse contínua, com animus domini, sem interrupção nem oposição, acrescida em alguns casos da qualificação pela função social. Neste sentido são os julgados do colendo STJ:
+(..)
+Com efeito, a ação que visa usucapir com base no art. 1.238 do CC, usucapião extraordinário, tem por requisito prova da posse de imóvel por quinze anos ininterruptos, senão vejamos, verbis;
+(..)
+Note-se que é dever da parte autora demonstrar o fato constitutivo do seu direito, nos termos do art. 373, 1, do CPC/15, o que reputo devidamente comprovado.
+Por consequência, cabia ao réu, demonstrar a existência dos fatos impeditivos, modificativos ou extintivos do direito da parte autora, conforme o inciso II do artigo 373 do CPC/15, ou seja, comprovar a interrupção da posse do autor, ônus que lhe cabia e não desincumbiu.
+Da análise dos autos, denoto que a parte autora preencheu os requisitos para a aquisição por usucapião.
+Os documentos acostados com a inicial nas fls. 14/20, contratos particulares de compra e venda, dão conta da sucessão de vendas do imóvel, sendo que desde a data de junho de 1988 o imóvel vem sendo negociado pelos possuidores, data em que [NOME] vendeu o lote 2 da quadra 6 do loteamento Vila São Roque para [NOME]. Esse, por sua vez, vendeu para [NOME] que vendeu para [NOME] que repassou para [NOME] que vendeu ao autor [NOME].
+Essa cadeia de alienações do bem consta devidamente demonstrada nos autos e quanto a isso não há qualquer insurgência por parte do contestante que se limitou a alegar a ausência de ânimus domini por parte dos alienantes constantes nos referidos contratos.
+Portanto, há comprovação nos autos de que a posse dos autores, somada a posse dos antecessores, chega a período superior a 20 anos.
+Ocorre a acessio possessessionis3 quando a posse é transmitida a título singular, por ato inter vivos, como a doação, a compra e venda, a troca, a dação em pagamento, ou mesmo por ato causa mortis, como no caso do legado. Aquele que recebe a posse transmitida a título singular substitui seu antecessor em direitos ou coisas individualizadas e determinadas.
+O imóvel passou a integrar a cadeia de sucessões a partir de 1988, conforme os contratos acostados aos autos.
+Quando do ajuizamento da ação em 2010, os autores já haviam complementado prazo vintenário da posse, mansa, pacífica e contínua, somadas a posse dos alienantes anteriores.
+(..)
+No caso dos autos além da comprovação dos requisitos imprescindíveis para aquisição da propriedade através da prescrição positiva, conveniente salientar e garantir ao cidadão brasileiro os princípios da função social da propriedade e direito à moradia, independente da origem do bem (público ou privado), desde que atendido o princípio maior da dignidade da pessoa humana, insculpido no artigo primeiro da Constituição brasileira como fundamento da República.
+No presente caso, restou demonstrado o animus domini, posse mansa, pacífica e ininterrupta e o prazo necessário, somados a posse dos antecessores, preenchidos os requisitos legais necessários a prescrição aquisitiva.
+Diante do exposto, dou provimento ao apelo, para julgar procedente a ação de usucapião relativamente ao imóvel descrito na peça inaugural (e-STJ, fls. 284/295).
+Como se percebe, não ocorreu, de forma nenhuma, julgamento extra petita, pois o juiz não está obrigado a adotar os fundamentos deduzidos pelas partes na formação de sua convicção e, portanto, afigura-se desinfluente o fato de [NOME] e outra terem sustentado que a usucapião teria ficado configurada tendo em vista o art. 493 do NCPC.
+(3) Da alegada violação dos arts. 405 e 406 do NCPC
+No ponto, observa-se que o preceito inserto no art. 399 do CPC/73 não foi objeto de apreciação pelo Tribunal de origem, ressentindo-se do necessário prequestionamento, pressuposto inafastável ao conhecimento do apelo nobre.
+Acrescente-se, que é exigência contida na própria previsão constitucional de interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância. Não basta à parte discorrer sobre o dispositivo legal que entende infringido.
+É imprescindível que a Corte recorrida tenha emitido juízo de valor sobre o referido preceito, o que não ocorreu na hipótese examinada, salientando-se que os ditos artigos de lei não foram objeto dos embargos de declaraçaõ opostos pelo agravante ESPÓLIO.
+Incidentes, no ponto, as Súmulas nºs 282 e 356 do STF.
+Acrescente-se, que, não tem aplicação no caso, o disposto no art. 1.025 do NCPC, na medida em que não se reconhece no ponto nenhuma omissão, merecendo destaque o exposto na decisão de inadmissibilidade proferida no juízo de origem no sentido de que tendo em vista a vigência do Novo Código de Processo Civil, em especial, o seu artigo 1.0255, impende ressaltar que o requisito do prequestionamento permanece como pressuposto de admissibilidade recursal, mormente porque, de acordo com o artigo 105, Ill, da Constituição Federal, o STJ tem a função de pacificar a jurisprudência nacional, e não de atuar como terceira instância (e-STJ, fl. 385).
+(4) Da alegação de ofensa aos artigos 1238 e 1243 do CC/02 - ausência de comprovação dos requisitos da usucapião
+No particular, verifica-se que tendo o acórdão estadual acima transcrito, firmado suas convicções, a partir dos elementos fático-probatórios colacionados aos autos, de que ficou comprovada a prescrição aquisitiva configuradora da usucapião extraordinária, a sua revisão na via especial está obstada pela Súmula nº 7 do STJ.
+Nessas condições, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e nessa extensão NEGAR-LHE PROVIMENTO.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 77, §§ 1º e 2º, 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
