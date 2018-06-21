@@ -1,0 +1,24 @@
+DECISÃO
+Na origem, trata-se de agravo de instrumento interposto pela Fazenda Nacional contra decisão judicial que, em fase de cumprimento de sentença, determinou que a Fazenda elaborasse os cálculos da execução do julgado.
+No TRF da 2ª Região, a decisão judicial foi mantida em acórdão assim ementado:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA. CUMPRIMENTO DE SENTENÇA. APRESENTAÇÃO DA PLANILHA DE CÁLCULO PELA FAZENDA NACIONAL DOS VALORES A RESTITUIR. POSSIBILIDADE. EXCEÇÃO AO INCISO II, DO ARTIGO 614 DO CÓDIGO DE PROCESSO CIVIL. PODER DE CAUTELA DO MAGISTRADO. RELAÇÃO PROCESSUAL DESPROPORCIONAL. PRECEDENTES STJ E TRF 2º REGIÃO. RECURSO DESPROVIDO.
+I - Embora seja ônus do credor instruir o pedido de cumprimento de sentença com a memória discriminada e atualizada do cálculo - inciso II do artigo 614 do CPC, o exercício do poder instrutório do magistrado pode consistir na determinação para que a União Federal apresente planilha, com o montante da condenação, em consideração à relação processual desproporcional e por dispor dos meios de liquidar o Julgado com mais facilidade e precisão. Precedentes STJ e TRF 2a Região.
+II - Agravo Interno conhecido e desprovido.
+A Fazenda Nacional interpôs recurso especial, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, por ofensa ao art. 535, incisos I e II, do CPC/73, e ao art. 475-B e seus parágrafos c/c o art. 614, inciso II, do CPC/73.
+A parte alega que, conforme prevê o art. 475-B do CPC/73, caso o juiz entendesse necessária a apresentação de documentos em poder do devedor, deveria ter determinado sua apresentação e não a elaboração da planilha de cálculos pela Fazenda.
+Apresentadas contrarrazões, a parte recorrida requer o desprovimento do recurso especial.
+É o relatório. Decido.
+ Assiste razão ao recorrente, no que toca à alegada violação ao art. 535, II, do CPC/73.
+De fato, o recorrente apresentou questão jurídica relevante, de que seria cabível apenas o fornecimento de documentos/dados sob a posse da Fazenda, nos termos do art. 475-B do CPC/73, e não a determinação de elaboração dos cálculos, cuja responsabilidade é da parte exequente. Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou a questão.
+Nesse contexto, diante da referida omissão, apresenta-se violado o art. 535, II, do CPC/73, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos.
+Com o mesmo diapasão, destaco os seguintes precedentes, in verbis:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OMISSÃO QUANTO À QUESTÃO FUNDAMENTAL PARA ANÁLISE DA DEMANDA. RECURSO ESPECIAL DO MPF PROVIDO PARA ANULAR O ACÓRDÃO PROFERIDO EM SEDE DE EMBARGOS DE DECLARAÇÃO E DETERMINAR O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM A FIM DE QUE SUPRA A OMISSÃO APONTADA, PREJUDICADA A ANÁLISE DAS DEMAIS QUESTÕES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Da análise dos autos, verifica-se de que as alegações apresentadas pelo Ministério Publico Federal, em sede de Embargos Declaratórios, especialmente quanto a importância ambiental da área, que abriga espécime raro e as falhas apontada no Estudo de Impacto Ambiental, não foram realmente analisados pela Corte local.
+2. Com a oposição dos Embargos de Declaração, foi expressamente solicitada a manifestação do colegiado acerca de tais questões, de forma que lhe cabia analisar o ponto omisso/contraditório e sanar a irregularidade apontada. Não tendo o Tribunal sequer feito referência a isso, de fato, houve violação do art. 535, II do CPC, o que importa a reforma da decisão.
+3. Agravo Regimental da UNIÃO desprovido. (AgRg no REsp n. 1.221.403/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, Dje de 23/8/2016).
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECEBIMENTO COMO AGRAVO REGIMENTAL. FUNGIBILIDADE E ECONOMIA PROCESSUAL. ART. 535 DO CÓDIGO DE PROCESSO CIVIL. VIOLAÇÃO. OMISSÃO EXISTENTE. SOLUÇÃO DA CONTROVÉRSIA. QUESTÃO RELEVANTE. RETORNO DOS AUTOS À ORIGEM.
+1. Os princípios da fungibilidade recursal e da economia processual autorizam o recebimento de embargos de declaração como agravo regimental.
+2. Caracteriza-se ofensa ao art. 535 do CPC quando a Corte de origem deixa de se pronunciar a respeito de questões essenciais ao julgamento da lide, as quais poderiam, em tese, levar a resultado diverso.
+3. Agravo regimental não provido. (EDcl no AgRg no REsp n. 1.561.073/AL, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJe de 18/4/2016).
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunal a quo para que se manifeste especificamente sobre as questões articuladas nos declaratórios.
+Publique-se. Intimem-se.
