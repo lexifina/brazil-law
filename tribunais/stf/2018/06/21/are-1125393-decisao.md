@@ -1,0 +1,17 @@
+Trata-se de agravo contra decisão em que não se admitiu o recurso extraordinário.
+    Bem examinados os autos, verifico que o agravo foi interposto intempestivamente.
+    Isso porque a decisão agravada foi publicada em 13/2/2017 (pág. 75 documento eletrônico 5), porém o agravo foi interposto apenas em 8/3/2017 (pág. 91 do documento eletrônico 5), fora do prazo de 15 dias úteis previsto no art. 1.003, § 5°, combinado com o art. 219, caput, todos do Código de Processo Civil.
+    Ressalte-se, ainda, que a jurisprudência desta Corte é no sentido de que incumbe ao recorrente comprovar, no momento da interposição do recurso, a ocorrência de feriado local ou de suspensão de prazos processuais pelo Tribunal de origem. Nesse sentido, cito o ARE 978.277-AgR/DF, de relatoria do Ministro Roberto Barroso, cuja ementa segue transcrita:
+    “DIREITO CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. RECURSO DE AGRAVO INTEMPESTIVO. CARÁTER PROTELATÓRIO. IMPOSIÇÃO DE MULTA.
+    1. O agravo em recurso extraordinário é manifestamente inadmissível, por ser intempestivo. A petição de agravo foi protocolada no Tribunal de origem somente após o término do prazo recursal de 10 (dez) dias, nos termos do art. 544, do CPC/1973.
+    2. A jurisprudência do Supremo Tribunal Federal é no sentido de que ‘a tempestividade do recurso em virtude de feriado local ou de suspensão dos prazos processuais pelo Tribunal a quo que não sejam de conhecimento obrigatório da instância ad quem deve ser comprovada no momento de sua interposição’. Precedente.
+    3. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência.
+    4. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015, em caso de unanimidade da decisão” (grifei).
+    Essa orientação foi consagrada no novo Código de Processo Civil nos seguintes termos: “o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso” (art. 1.003, § 6°, do CPC). Com esse entendimento, destaco o ARE 1.033.168-AgR/RJ, de relatoria do Ministro Dias Toffoli:
+    “Ementa: Agravo regimental no recurso extraordinário com agravo. Intempestividade. 1. O agravante não observou o prazo de 15 (quinze) dias úteis para a interposição do agravo manejado contra a decisão de inadmissão do recurso extraordinário, segundo dispõe o § 5º do art. 1.003 do Código de Processo Civil. 2. O art. 1.003, § 6°, do Novo CPC determina que ‘[o] recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso’. 3. Agravo regimental não provido, com imposição de multa de 2% (art. 1.021, § 4º, do CPC). 4. Não se aplica ao caso dos autos a majoração dos honorários prevista no art. 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais em favor do recorrido pela Corte de origem”.
+    No mesmo sentido, cito as seguintes decisões, entre outras: ARE 1.046.628/MG, Rel. Min. Edson Fachin; ARE 1.135.794/RJ, Rel. Min. Dias Toffoli; ARE 1.129.459/RS, Rel. Min. Gilmar Mendes; ARE 1.124.718/MG, de minha relatoria; e ARE 1.112.823/MG, Rel. Min. Luiz Fux.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Com base no art. 85, § 11, do Código de Processo Civil, majoro em 10% os honorários advocatícios anteriormente fixados pelo juízo de origem.
+    Publique-se.
+    Brasília, 21 de junho de 2018.
+Ministro Ricardo Lewandowski
+Relator
