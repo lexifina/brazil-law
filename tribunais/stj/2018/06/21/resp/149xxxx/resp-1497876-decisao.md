@@ -1,0 +1,33 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AÇÃO CAUTELAR DE SEQUESTRO E ARRESTO. PRELIMINARES DE INCOMPETÊNCIA ABSOLUTA E ILEGITIMIDADE ATIVA. OMISSÕES. VIOLAÇÃO DO ART. 535 DO CPC/73. CONFIGURAÇÃO. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Extrai-se dos autos que TITO VIEIRA [NOME] (TITO) propôs ação cautelar de sequestro e arresto com pedido liminar contra [NOME] ([NOME]), objetivando que o réu deposite a importância correspondente a R$ 716.000,00 (setecentos e dezesseis mil reais) sacados indevidamente.
+A sentença acolheu o pedido da ação cautelar e julgou procedente o pedido da ação reivindicatória também proposta por TITO para condenar [NOME] "a depositar na [CONTA], [CONTA], Banco do Brasil a importância de RS 716.000,00 (setecentos e dezesseis mil reais), retirada da mesma após o falecimento da titular em 18 de agosto de 2006, devidamente corrigida e acrescida de juros legais contados do momento das respectivas retiradas, ficando vedado ao mesmo qualquer retirada de valor da descrita conta" (e-STJ, fl. 194).
+Interposta apelação por [NOME], o Tribunal rejeitou as preliminares e, no mérito, anulou a sentença para, na forma do art. 515, § 3º, do CPC/73, julgar procedente o pedido do autor, estando o acórdão assim ementado:
+APELAÇÃO CÍVEL AÇÃO CAUTELAR - PRELIMINARES INCOMPETÊNCIA ABSOLUTA E ILEGITIMIDADE ATIVA REJEITADAS - MÉRITO - AUSÊNCIA DE FUNDAMENTAÇÃO - SENTENÇA ANULADA - TEORIA DA CAUSA MADURA - § 3º ART. 515 DO CÓDIGO DE PROCESSO CIVIL - APLICAÇÃO - FUMUS BONI IURIS E PERICULUM IN MORA - CARACTERIZADOS - PEDIDO JULGADO PROCEDENTE.
+1. Tratando a matéria objeto da ação ajuizada de questão de alta indagação, tendo em vista a real possibilidade de se ter que realizar farta instrução probatória, imperativo o trâmite do processo na via ordinária, nos moldes do previsto no art. 984 do Código de Processo Civil.
+2. Segundo a orientação jurisprudencial do C. Superior Tribunal de Justiça, nas hipóteses em que a questão preliminar se confunde com o mérito, é. prudente realizar o exame de tais questões de modo conjunto.
+3. Sendo nula a sentença e estando os autos suficientemente instruídos, pode o Tribunal, sanando o vício, julgar desde logo a causa, por aplicação analógica do art. 515, § 3º do CPC.
+4. A ação cautelar visa resguardar à utilidade e a eficácia do processo principal, até que sobrevenha o provimento jurisdicional definitivo.
+5. Presentes, simultaneamente, os requisitos legais que ensejam concessão da medida cautelar (fumus boni iuris e periculum in mora), impõe-se a procedência da tutela jurídica pleiteada.
+6. Sentença anulada. Pedido julgado procedente (e-STJ, fl. 297).
+Os embargos de declaração opostos por [NOME] sustentaram omissões relativas à incompetência absoluta da 1ª Vara Cível de Vitória e à ilegitimidade ativa ad causam, bem como acerca da aplicação dos arts. 111, 113 e 984 do CPC/73 e 1.314 e 1.791 do CC/02. Foram rejeitados (e-STJ, fls. 401/418).
+Novos embargos de declaração opostos por [NOME] aduziram a persistência de omissões, especialmente no que se refere à aplicação dos arts. 1.314 e 1.791 do CC/02, relativo à tese de que "o co-herdeiro não possui legitimidade ativa para reivindicar a coisa comum que esteja em poder de outro co-herdeiro, somente de terceiro" (e-STJ, fl. 371). Foram rejeitados (e-STJ, fls. 383/388).
+Inconformado, [NOME] interpôs recurso especial com base no art. 105, III, a, da Constituição Federal, sustentando, violação dos arts. 111, 113, 984 e 535 do CPC/73 e 1.314 e 1.791 do CC/02. Sustenta (1) negativa de prestação jurisdicional; (2) houve erro de julgamento pelo Tribunal Estadual com violação do artigo 984 do CPC, pois a regra é o juízo universal do inventário decidir todas as questões que nele surgirem (e-STJ, fl. 400); e 3) incompetência do Juízo e que não restaria qualquer dúvida quanto a legitimidade do recorrido, na condição de herdeiro, em impugnar as atitudes praticadas pelo apelante (e-STJ, fl. 403).
+O Tribunal de Justiça do Estado do Espírito Santo inadmitiu o apelo nobre, decisão contra a qual foi interposto agravo em recurso especial que foi provido em decisão monocrática de minha lavra para determinar sua conversão em recurso especial (e-STJ, fl. 465).
+É o relatório.
+DECIDO.
+O inconformismo merece prosperar.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+O Tribunal de origem, ao analisar os embargos de declaração, deixou de se manifestar acerca da aplicação dos arts. 111, 113 e 984 do CPC/73 e 1.314 e 1.791 do CC/02, bem como no tocante à alegada incompetência absoluta da 1ª Vara Cível de Vitória e à ilegitimidade ativa ad causam.
+É condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenham sido analisadas pelo acórdão objurgado. Assim, recusando-se a Corte de origem a se manifestar sobre a questão federal terminou por negar prestação jurisdicional ao Recorrente.
+A propósito:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE.
+1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC.
+2. Agravo regimental não provido.
+(AgRg no REsp 1187807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/6/2012, DJe 28/6/2012)
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Ante o exposto, DOU PROVIMENTO ao recurso especial, determinando o retorno dos autos ao Tribunal de origem para que analise as questões trazidas nos embargos de declaração, como entender de direito.
+Por derradeiro, advirta-se que eventual recurso interposto contra este acórdão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 77, §§ 1º e 2º, 1.021, § 4º e 1.026, § 2º) e honorários recursais (art. 85, § 11).
+Publique-se. Intimem-se.
