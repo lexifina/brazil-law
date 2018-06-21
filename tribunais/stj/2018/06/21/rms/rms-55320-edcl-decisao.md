@@ -1,0 +1,33 @@
+DECISÃO
+Na origem, trata-se de mandado de segurança contra ato do Secretário de Estado de Defesa Social de Minas Gerais, visando à concessão da segurança para que a autoridade coatora lhe conceda adicional de escolaridade e promoção para o nível 4-A, devendo ser fixado o início do benefício na data do requerimento administrativo, com o devido pagamento dos retroativos. No Tribunal de Justiça do Estado de Minas Gerais, a sentença foi mantida, conforme a seguinte ementa do acórdão:
+MANDADO DE SEGURANÇA - SERVIDOR PÚBLICO ESTADUAL - AGENTE DE SEGURANÇA PENITENCIÁRIO - PROMOÇÃO POR ESCOLARIDADE ADICIONAL - AUSÊNCIA DE CORRELAÇÃO ENTRE A NOVA FORMAÇÃO E AS FUNÇÕES DO CARGO - ARTIGO 11, § 3º, DA LEI ESTADUAL Nº 14.695/2003 - DIREITO LÍQUIDO E CERTO - AUSÊNCIA - SEGURANÇA DENEGADA.
+Ao servidor público ocupante do cargo de agente de segurança penitenciário, que conclui curso superior de ensino, é assegurada a promoção por escolaridade adicional, desde que sua nova formação acadêmica esteja relacionada com a natureza e a complexidade da respectiva carreira (artigo 11, § 3º, da Lei Estadual nº 14.695/2003. Ausente a correlação prevista na legislação em vigor, não há que se falar na promoção almejada.
+Interposto recurso ordinário em mandado de segurança por [NOME], com fundamento no artigo 105, inciso II, alínea b, da Constituição Federal.
+Nas razões do recurso ordinário, a parte recorrente sustentou que comprovou os requisitos previstos para a obtenção do adicional em questão, aduzindo ainda que o Curso de Pedagogia tem relação com a carreira de agente penitenciário.
+Contrarrazões às fls. 430-437 .
+O Ministério Público opina pelo provimento do recurso (fls. 147-154).
+No STJ, foi proferida decisão na qual negou-se provimento ao recurso ordinário em mandado de segurança.
+Opostos embargos de declaração, sustenta a parte embargante, que a decisão incorreu em omissão ao não se pronunciar sobre o fundamento elencado no parecer de fls. 147/154, conforme seguinte trecho dos embargos (fls. 169):
+É patente a omissão existente na r. Decisão embargada, na medida em que não houve qualquer manifestação quanto aos termos de nosso Parecer de fls. 147/154, em especial quanto ao fundamento de que o Curso de Pedagogia possui evidente relação com o Cargo de Agente Penitenciário, sobretudo diante dos diversos dispositivos relacionados ao tema insculpidos na Lei de Execuções Penais, pelo que seria absolutamente desnecessária a análise pormenorizada da grade curricular da Impetrante para fins de concessão do adicional de promoção previsto na Lei Estadual 14.695/2003.
+É o relatório. Decido.
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre as quais devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+Não podem ser acolhidos embargos declaratórios que, a pretexto da alegada omissão do embargante, traduzem, na verdade, seu inconformismo com a decisão tomada.
+Com efeito, a decisão ora impugnada decidiu com fundamentação suficiente a controvérsia posta no recurso, uma vez que a via mandamental exige a demonstração do direito líquido e certo, por meio de prova pré-constituída, o que não ocorreu na hipótese, inexistindo espaço para dilação probatória.
+Quanto à alegação de que as considerações do órgão ministerial não foram elas abordadas na decisão embargada, cumpre ressaltar que o pronunciamento da Procuradoria da República, na qualidade de custos legis, não vincula o julgador, pois a "manifestação do Ministério Público, traduzida em parecer, é peça de cunho eminentemente opinativo, sem carga ou caráter vinculante ao órgão julgador, dispensando abordagem quanto ao seu conteúdo" (AgRg nos EDcl no AREsp 809.380/AC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 18/10/2016, DJe 26/10/2016).
+Neste contexto, não resta configurada omissão quando o julgador, apesar de apreciar as questões postas nos autos, deixa de analisar individualmente as testes apresentadas no parecer ministerial.
+Logo, a pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp 166.402/PE, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 15/3/2017, DJe 29/3/2017).
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl 8.826/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 15/2/2017, DJe 15/3/2017).
+Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre o qual o juiz de ofício ou a requerimento devia-se pronunciar, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intime-se.
