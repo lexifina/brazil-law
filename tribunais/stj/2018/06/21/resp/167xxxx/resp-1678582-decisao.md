@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim ementado:
+CONSTITUCIONAL. PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. APLICAÇÃO [NOME] CONSTITUCIONAIS 20/98 E 41/2003. BENEFÍCIOS CONCEDIDOS ANTERIORMENTE À EC/98. POSSIBILIDADE. JURISPRUDÊNCIA DO PLENÁRIO DO STF EM SEDE DE REPERCUSSÃO GERAL DA MATÉRIA CONSTITUCIONAL. HONORÁRIOS ADVOCATÍCIOS. JUROS DE MORA. CORREÇÃO MONETÁRIA.
+1. No julgamento do RE n. 564.354/SE, o pleno do egrégio Supremo Tribunal Federal (Relatora Min. Carmem Lúcia, julgamento 08/09/2010), decidiu no sentido de se aplicar as alterações proclamadas pela EC 20/98 e pela EC 41/2003, no tocante à fixação dos novos valores para os tetos dos benefícios previdenciários, aos benefícios concedidos em datas anteriores àquela primeira emenda constitucional.
+2. "Não ofende o ato jurídico perfeito a aplicação imediata do art. 14 da Emenda Constitucional n.
+20/1998 e do art. 5º da Emenda Constitucional n. 41/2003 aos benefícios previdenciários limitados ao teto do regime geral de previdência, estabelecido antes da vigência dessas normas, de modo a que passem a observarº novo teto constitucional." (STF, RE 564.354 RG/SE).
+3. "A partir do julgamento do RE n. 193.456-5/RS, as turmas do STF, bem como o STJ, referindo- se à decisão plenária da Corte Suprema, passaram a decidir reiteradamente pela propriedade da imposição do teto previdenciário previsto nos artigos 29, § 2º, e art. 33 da Lei 8.213/91, ao qual se refere o art. 26 da Lei 8.870/94." (16 Seção, AR 2004.01.00.047291-7/MG, Rel. Juiz Federal Convocado Miguel Angelo de Alvarenga Lopes, eDJF1 de 23.11.2009, p. 47).
+4. Os honorários advocatícios devem ser fixados em 10% das prestações vencidas até a prolação da sentença de procedência, ou do acórdão que reforma o comando de improcedência da pretensão vestibular.
+5. Na hipótese, considerando a pequena complexidade da causa, a reduzida atividade processual e ainda a circunstância prevista na alínea "c" do § 3º do art. 20 do CPC, o valor de R$ 3.000,00 se mostra adequado a remunerar o trabalho do patrono da parte autora.
+6. Correção monetária e juros de mora nos termos do Manual de Cálculos da Justiça Federal.
+7. Nas causas ajuizadas perante a Justiça Estadual, o INSS está isento das custas somente quando lei estadual específica prevê a isenção.
+8. Apelação do INSS e remessa oficial parcialmente providas, apenas para ajuste quanto aos consectários legais. Apelação da parte autora parcialmente provida para ajuste dos honorários advocatícios.
+Foram rejeitados os embargos declaratórios opostos.
+No presente recurso especial, o recorrente aponta violação do art. 535, II, do CPC/1973, ao argumento de o Tribunal de origem foi omisso quanto ao cerceamento de defesa em virtude da ausência de intimação para manifestação acerca dos cálculos judiciais.
+É o relatório. Decido.
+Assiste razão ao recorrente, no que toca à alegada violação ao art. 535, II, do CPC/73.
+De fato, o recorrente apresentou questão jurídica relevante, qual seja, a ausência de intimação para manifestação acerca dos cálculos judiciais. Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou a questão.
+Nesse contexto, diante da referida omissão, apresenta-se violado o art. 535, II, do CPC/73, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos.
+Com o mesmo diapasão, destaco os seguintes precedentes, in verbis:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OMISSÃO QUANTO À QUESTÃO FUNDAMENTAL PARA ANÁLISE DA DEMANDA. RECURSO ESPECIAL DO MPF PROVIDO PARA ANULAR O ACÓRDÃO PROFERIDO EM SEDE DE EMBARGOS DE DECLARAÇÃO E DETERMINAR O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM A FIM DE QUE SUPRA A OMISSÃO APONTADA, PREJUDICADA A ANÁLISE DAS DEMAIS QUESTÕES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Da análise dos autos, verifica-se de que as alegações apresentadas pelo Ministério Publico Federal, em sede de Embargos Declaratórios, especialmente quanto a importância ambiental da área, que abriga espécime raro e as falhas apontada no Estudo de Impacto Ambiental, não foram realmente analisados pela Corte local.
+2. Com a oposição dos Embargos de Declaração, foi expressamente solicitada a manifestação do colegiado acerca de tais questões, de forma que lhe cabia analisar o ponto omisso/contraditório e sanar a irregularidade apontada. Não tendo o Tribunal sequer feito referência a isso, de fato, houve violação do art. 535, II do CPC, o que importa a reforma da decisão.
+3. Agravo Regimental da UNIÃO desprovido. (AgRg no REsp n. 1.221.403/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, Dje de 23/8/2016).
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECEBIMENTO COMO AGRAVO REGIMENTAL. FUNGIBILIDADE E ECONOMIA PROCESSUAL. ART. 535 DO CÓDIGO DE PROCESSO CIVIL. VIOLAÇÃO. OMISSÃO EXISTENTE. SOLUÇÃO DA CONTROVÉRSIA. QUESTÃO RELEVANTE. RETORNO DOS AUTOS À ORIGEM.
+1. Os princípios da fungibilidade recursal e da economia processual autorizam o recebimento de embargos de declaração como agravo regimental.
+2. Caracteriza-se ofensa ao art. 535 do CPC quando a Corte de origem deixa de se pronunciar a respeito de questões essenciais ao julgamento da lide, as quais poderiam, em tese, levar a resultado diverso.
+3. Agravo regimental não provido. (EDcl no AgRg no REsp n. 1.561.073/AL, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJe de 18/4/2016).
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunal a quo para que se manifeste especificamente sobre as questões articuladas nos declaratórios.
+Publique-se. Intimem-se.
