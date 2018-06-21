@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por ROBSON TAFAREL BRAZ contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+Os autos dão conta de que o paciente foi preso em flagrante, pela suposta prática dos crimes previstos nos arts. 157, § 2º, I e II, c/c o art. 14, II, 180, caput, e 311, caput, todos do Código Penal.
+O Juízo da 1ª Vara Criminal da Comarca de São Leopoldo/RS, na data de 25/1/2017, converteu a prisão em flagrante em preventiva (e-STJ fls. 74/75) e, no dia 7/2/2017, indeferiu o pedido de liberdade provisória formulado pelo ora recorrente e pelo corréu Cristian (e-STJ fls. 114/116).
+Alegando excesso de prazo na formação da culpa, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem (e-STJ fls. 181/190).
+O presente recurso funda-se no alegado excesso de prazo para a formação da culpa, em razão de a audiência de instrução e julgamento previamente marcada para 30/4/2018 ter sido transferida para o dia 21/5/2018, "quando o cárcere do acusado completará 01 (um) ano e quatro (4) meses, sem que se possa afirmar com certeza que a instrução findará naquela assentada" (e-STJ fl. 200).
+Sustenta a defesa que "a decretação da prisão preventiva foi fundamentada na prisão em flagrante dos acusados, mas por inúmeras vezes as audiências restaram inexitosas, jamais pela defesa ou pelo réu ter dado causa para tanto" (e-STJ fl. 202).
+Aduz, nesse sentido, que, "Na primeira solenidade aprazada neste feito, foi para o dia 7 de julho de 2017, a mesma foi transferida pelo juízo de primeiro grau, e designada para o dia 3 de agosto de 2017, sendo que de acordo com despacho proferido pelo juízo coator no dia 2 de agosto de 2017, novamente a solenidade restou transferida para o dia 13 de dezembro de 2017, tendo sido, a mesma antecipada para o dia 4 de setembro de 2017, quando nesta solenidade por sua vez, os réus não foram conduzidos pela [NOME], TENDO SIDO A REFERIDA SOLENIDADE MAIS UMA VEZ TRANSFERIDA PARA O DIA 4 DE OUTUBRO DE 2017, SENDO QUE NOVAMENTE NESTA DATA A [NOME] NÃO APRESENTOU OS RÉUS, RESTANDO A MESMA ADIADA PARA O DIA 20 DE NOVEMBRO DE 2017, uma vez que o MP não arrolou as vítimas na peça acusatória, sendo marcada nova solenidade para o dia 7 de fevereiro de 2018, SENDO QUE NESTA DATA OU SEJA, 07/02/2018, [NOME] RÉUS, TENDO SIDO DESIGNADO O DIA 30 DE ABRIL DE 2018 PARA A NOVA SOLENIDADE", estando, assim, demonstrado o alegado excesso de prazo (e-STJ fl. 202).
+Diante disso, pleiteia, liminarmente e no mérito, a revogação da prisão preventiva.
+O pleito liminar foi indeferido (e-STJ fls. 230/234).
+Prestadas as informações, o Ministério Público Federal opinou pelo conhecimento e desprovimento do recurso (e-STJ fls. 254/259).
+É, em síntese, o relatório.
+Informações obtidas no sítio eletrônico do Tribunal de origem dão conta de que a demanda criminal encontra-se em fase de alegações finais, estando a instrução encerrada.
+Nessa alheta, aplica-se o conteúdo do enunciado n. 52 da Súmula desta Corte ("Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo").
+Assim, torna-se superada a alegação de constrangimento ilegal decorrente do excesso de prazo para a formação da culpa.
+Tal o contexto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
