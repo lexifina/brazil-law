@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por ASSOCIAÇÃO DE ENSINO ANTÔNIO LUIS, contra decisão que negou seguimento ao recurso especial, com fundamento na alínea "a" do inciso III do artigo 105 da Constituição Federal, em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO. PLEITO PARA ANULAÇÃO DOS ATOS PRATICADOS POR TERCEIRO QUE FOI EXCLUÍDO DA LIDE. DESNECESSIDADE. MANIFESTAÇÃO NO SENTIDO DA MELHOR AVALIAÇÃO DO BEM QUE, INCLUSIVE, FORAM CONSIDERADAS PELOS AVALIADORES JUDICIAIS. AUSÊNCIA DE EFETIVO PREJUÍZO PARA AS PARTES. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados pelo Tribunal de origem, adotando-se a seguinte ementa:
+EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO INOCORRÊNCIA. PROPÓSITO CLARAMENTE INFRINGENTE. LITIGÂNCIA DE MÁ-FÉ AVENTADA NA RESPOSTA AOS EMBARGOS. INOCORRÊNCIA. EMBARGOS REJEITADOS.
+Nas razões do especial, a parte agravante sustentou violação do artigo 371 do novo Código de Processo Civil, alegando que ficou comprovado nos autos que a terceira interessada que foi excluída da lide "manipulou laudos e alterou substancialmente as avaliações que se precederam à sua intervenção nos autos" (fl. 488, e-STJ).
+Requer o reconhecimento do prejuízo suportados pela agravante e que seja determinado o desentranhamento das manifestações e documentos da interveniente excluída.
+Da análise dos autos, observo que suas alegações de ofensa à lei federal não merecem prosperar.
+Narram os autos que em fase de execução foi penhorado imóvel da devedora, cuja avaliação constava um terreno desprovido de edificação. Houve a intervenção de terceiro alegando que a propriedade do imóvel havia lhe sido transmitida e que a edificação lá erguida detinha valor superior ao terreno, fato que provocou o Juízo executório a determinar a produção de prova pericial para que se levasse em conta as benfeitorias realizadas no imóvel, o que deu ensejo à atualização da avaliação do imóvel penhorado. O credor impugnou a decisão interpondo agravo de instrumento, sendo desprovido pelo Tribunal de origem.
+O acórdão recorrido, com base nos fatos e acervo probatório carreados aos autos, até o momento, manteve a decisão do Juízo executório, como se extrai do trecho (fls. 327-328, e-STJ):
+Isso porque, segundo se vê dos autos, os atos praticados por RODOBENS ADMINISTRADORA DE CONSÓRCIOS LTDA., até então terceira interessada, visou a apuração e a adequada avaliação do bem aparentemente de sua propriedade (fls. 49/50).
+Nota-se de suas manifestações (fls. 30/31) que seus atos processuais foram no sentido da melhor avaliação de seu bem, pois ela alegou dados objetivos e concretos acerca dos laudos de avaliação, apontando a existência de benfeitorias e de área edificada até então desconsiderada pelo avaliador judicial, o que implicou novas avaliações do bem penhorado.
+Além disso, a mera juntada de editais de leilões, nos quais há referência ao imóvel penhorado e ao seu valor (fls. 36/38), a fim de demonstrar o descompasso do valor de avaliação, não é motivo para ensejar o desentranhamento de suas peças processuais, tampouco a declaração de nulidade dos atos praticados, inexistindo qualquer prejuízo para as partes, porque, repita-se, suas manifestações tingiram a dados objetivos e concretos que, inclusive, foram considerados pelos avaliadores judiciais.
+Não procede, portanto, a alegação de que a simples manifestação da terceira interessada tenha causado prejuízo à Agravante.
+E, inexistindo prejuízo, não há que se falar em nulidade
+Nesse contexto, rever a conclusão assentada no acórdão recorrido para se concluir pela falsidade de documentos juntados aos autos ou da incorreção da prova pericial demandaria reexame do conjunto fático-probatório do processo, procedimento incompatível com o recurso especial, consoante a inteligência da Súmula 7 do STJ. Nessa linha:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DO DEVEDOR. NOTA PROMISSÓRIA. REQUISITOS. PREENCHIMENTO. JUNTADA DE DOCUMENTOS NOVOS. DESENTRAMENTO. SÚMULA Nº 7/STJ.
+1. Inviável, em recurso especial, modificar o entendimento acerca das provas realizadas nos autos, bem como no tocante à necessidade de juntada e desentranhamento de documentos, haja vista o óbice da Súmula nº 7/STJ.
+2. Agravo regimental não provido.
+(AgRg no AREsp 649.716/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 1º/12/2015)
+Em face do exposto, nego provimento ao agravo.
+Deixa-se de aplicar o disposto no artigo 85, § 11, do Código de Processo Civil porque não houve condenação em honorários advocatícios nas instâncias pretéritas.
+Intimem-se.
