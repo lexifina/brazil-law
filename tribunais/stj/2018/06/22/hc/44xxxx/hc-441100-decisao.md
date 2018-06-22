@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], em face do acórdão proferido pelo Tribunal de Justiça de São Paulo, nos autos da Apelação Criminal n. 0030991-83.2011.8.26.0224.
+Neste writ, a impetrante requer a exclusão da qualificadora relativa ao rompimento de obstáculo, em razão da ausência de exame pericial hábil a comprovar o ocorrido.
+Em seu parecer, o Ministério Público Federal opinou pelo não conhecimento do writ ou pela denegação da ordem. (e-STJ, fls. 30/31).
+É o relatório.
+Inicialmente, cumpre atestar a inadequação da via eleita para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, nos termos do artigo 105, inciso III, da Constituição Federal, circunstância que impede o seu formal conhecimento, conforme entendimento pacífico no âmbito desta Corte Superior de Justiça.
+O alegado constrangimento ilegal, entretanto, será analisado para a verificação da eventual possibilidade de atuação ex officio, nos termos do artigo 654, § 2º, do Código de Processo Penal.
+A questão cinge-se à possibilidade de afastamento da qualificadora relativa ao rompimento de obstáculo.
+O magistrado de primeiro grau reconheceu a qualificadora com o seguinte fundamento:
+A qualificadora referente ao rompimento de obstáculo foi comprovada pelos depoimentos da vítima e dos guardas municipais ouvidos, que narraram de forma segura o arrombamento da porta principal do estabelecimento. A vítima, inclusive calculou em R$ 2.000,00 os custos para o conserto da porta danificada.
+A qualificadora alinhada deve ser conhecida, ainda que inexistente o laudo apontando o rompimento de obstáculo. Com efeito, não há mais se dizer, atualmente, da indispensabilidade do exame de corpo de delito, ainda mais se considerarmos ser real a verdade buscada no processo penal. A prova viciária, mencionada como indispensável pelo art. 158 do Código de Processo Penal, resulta do elenco probante, cujas peças são ofertadas pela fala de testemunhas, pela prova documental e por tudo aquilo que possa levar o julgador à certeza da materialidade do crime. O exame de corpo de delito nada mais é do que meio de prova, que pode ser suprido por provas de outro gênero. (e-STJ, fls. 14/15).
+O eg. Tribunal de origem, por seu turno, manteve a qualificadora, aduzindo que "a ausência do laudo foi suprida pela prova oral colhida. ..  os guardas civis metropolitanos confirmaram que houve o arrombamento da porta, o que já fora noticiado pela vítima em terreno policial, quando disse calcular em cerca de 2 mil reais o valor do conserto." (e-STJ, fl. 20).
+É assente na jurisprudência deste Superior Tribunal a necessidade de perícia oficial para a incidência da qualificadora do rompimento de obstáculo, admitindo-se, excepcionalmente, para a sua configuração por outros elementos de prova nos casos de inviabilidade de realização do exame.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO. RECURSO ESPECIAL. PENAL. FURTO. QUALIFICADORA DO ROMPIMENTO DE OBSTÁCULO. AUSÊNCIA DE LAUDO VÁLIDO. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Mostra-se necessária a realização do exame técnico-científico válido para qualificação do crime ou mesmo para sua tipificação, pois o exame de corpo de delito direto é imprescindível nas infrações que deixam vestígios, podendo apenas ser suprido pela prova testemunhal quando não puderem ser mais colhidos. Logo, se era possível a realização da perícia, e esta não ocorreu de acordo com as normas pertinentes (art. 159 do CPP), a prova testemunhal e o exame indireto não suprem a sua ausência. .
+2. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1629753/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 15/12/2016)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TENTATIVA DE FURTO QUALIFICADO. EXAME PERICIAL NÃO REALIZADO. INEXISTÊNCIA DE JUSTIFICATIVAS PARA A NÃO REALIZAÇÃO DA PERÍCIA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AFASTAMENTO DA QUALIFICADORA.  .. . HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. A jurisprudência desta Corte entende que, para reconhecimento das qualificadoras do rompimento do obstáculo, é imprescindível a realização de exame pericial, sendo possível a sua substituição por outros meios probatórios somente se não existirem ou tenham desaparecido, ou se as circunstâncias do crime não permitirem a confecção do laudo.
+3. No caso em análise, as instâncias ordinárias, ao apreciarem a questão, não apresentaram justificativas para a não realização da perícia.
+ ..
+5. Habeas corpus não conhecido. Concedida a ordem, de ofício, apenas para afastar a qualificadora e redimensionar a pena do paciente.
+(HC 375.727/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 14/12/2016)
+Assim, ausente o exame pericial, bem como a indicação de motivo idôneo para justificar sua não realização, observa-se que o acórdão recorrido diverge do entendimento do Superior Tribunal de Justiça, razão pela qual deve ser afastado o inciso I do § 4º do artigo 155 do Código Penal.
+Destarte, desclassificado o crime para furto simples (artigo 155 do Código Penal) e mantidos os fundamentos adotados pelas instâncias ordinárias na realização da dosimetria da pena, deve a pena-base ser fixada no mínimo legal, qual seja, 1 (um) ano e 6 (seis) meses de reclusão e 5 (cinco) dias-multa.
+Na 2ª fase, correta a exasperação no patamar de 1/3 por conta da agravante da reincidência, tal como procedido pela Corte de origem, restando as reprimendas em 2 (dois) anos de reclusão e 6 (seis) dias-multa, a qual se torna definitiva ante a ausência de outras hipóteses modificativas.
+Diante do exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, por se afigurar manifestamente incabível, não conheço deste habeas corpus. De ofício, concedo a ordem para afastar a qualificadora do rompimento de obstáculo, desclassificando a conduta para a modalidade simples e redimensionando a pena para 2 (dois) anos de reclusão e 6 (seis) dias-multa, nos termos especificados acima.
+Publique-se e intimem-se.
