@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício próprio por [NOME], apontando-se como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, nos autos do HC 2056529-78.2018.8.26.0000.
+Extrai-se dos autos que foi instaurado o Inquérito Policial nº 014/2017 para investigação de suposta prática pelo impetrante/paciente do delito de lavagem de dinheiro, tendo o feito sido distribuído, por prevenção, para o Juízo competente para o julgamento das ações penais referentes à Operação Ethos. Em 20/3/2018, o Magistrado de primeiro grau indeferiu o pedido de trancamento do referido inquérito policial.
+Irresignada, a defesa impetrou mandamus perante a Corte de origem, tendo o feito sido distribuído, por prevenção, à 11ª Câmara de Direito Criminal. Todavia, o Desembargador relator proferiu decisão afastando a prevenção e determinando a remessa do feito à Presidência da Seção Criminal, para exame da questão e eventual redistribuição (fls. 117/120).
+Os embargos de declaração opostos foram rejeitados (fls. 121/123).
+Daí o presente writ, no qual o impetrante/paciente sustenta que o Inquérito Policial n. 014/2017, que pretende o trancamento, teve origem com a denominada Operação Ethos, e trata da continuidade dos delitos apurados, havendo, portanto, conexão entre as matérias.
+Assim, assevera que a 11ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo é competente, por prevenção, para julgamento do habeas corpus no qual se discute o trancamento do inquérito policial conexo com a Operação Ethos.
+Requer, liminarmente e no mérito, a anulação da decisão que declarou a incompetência da 11ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo para o julgamento do HC 2056529-78.2018.8.26.0000, determinando o julgamento da impetração originária pelo mencionado colegiado.
+É o relatório.
+Decido.
+A impetração não deve ser conhecida.
+O habeas corpus é remédio constitucional que visa afastar ameaça ou violência contra a liberdade de locomoção, nos termos do art. 5º, LXVIII, da Carta Magna, verbis:
+Art. 5º (..)
+LXVIII - conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder;
+No caso dos autos o impetrante/paciente busca o reconhecimento da competência, por prevenção, da 11ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo para o julgamento do HC 2056529-78.2018.8.26.0000. Nesse contexto, não verifico a indicação concreta da ocorrência, direta ou indireta, de lesão ou ameaça de lesão ao direito ambulatorial. Não se identifica, nesse contexto, o pressuposto indispensável para o conhecimento do habeas corpus, qual seja, a salvaguarda do direito à liberdade de locomoção, o que inviabiliza, por si só, a utilização do remédio heróico.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SUSPENSÃO DO DIREITO À VISITA ÍNTIMA EM PRESÍDIO FEDERAL. DIREITO DE IR E VIR DO PACIENTE.
+AUSÊNCIA. FUNDAMENTO NÃO IMPUGNADO NO AGRAVO REGIMENTAL. APLICAÇÃO, POR ANALOGIA, DO ENUNCIADO SUMULAR 182/STJ. 1. O habeas corpus é o remédio constitucional voltado ao combate de constrangimento ilegal específico, de ato ou decisão que afete, potencial ou efetivamente, direito líquido e certo do cidadão, com reflexo direto em sua liberdade de locomoção. 2. Dessa forma, não se presta o remédio constitucional do habeas corpus à discussão acerca do direito de visitas íntimas do apenado, pois, neste caso, o que se procura proteger é o direito à intimidade da pessoa humana, sua integridade física e moral, e não seu direito de ir e vir (locomoção).
+3. Ademais, o agravante não impugnou, no agravo regimental, o único fundamento da decisão agravada, ou seja, o não cabimento do habeas corpus para discutir o direito de visita íntima (ausência do direito ambulatorial). Assim, aplica-se, por analogia, o enunciado sumular n. 182/STJ.
+4. Agravo regimental improvido (AgRg no HC 425.115/RN, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/03/2018, DJe 23/03/2018).
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO. ALTERAÇÃO DO POSICIONAMENTO DOS REPRESENTANTES DA ACUSAÇÃO E DA DEFESA DURANTE JULGAMENTO DO TRIBUNAL DO JÚRI. AUSÊNCIA DE VIOLAÇÃO OU AMEAÇA DE VIOLÊNCIA AO DIREITO AMBULATÓRIO. HABEAS CORPUS. VIA INADEQUADA. MEMBRO DO MINISTÉRIO PÚBLICO. ASSENTO À DIREITA DO MAGISTRADO. VIOLAÇÃO À PARIDADE DE ARMAS. INOCORRÊNCIA. INSURGÊNCIA DESPROVIDA.
+1. A pretendida alteração do posicionamento dos representantes da acusação e da defesa durante julgamento do Tribunal do Júri não caracteriza ofensa ou ameaça à liberdade de locomoção do agravante, razão pela qual não é cabível o manejo do habeas corpus.
+2. A prerrogativa de os membros do Ministério Público tomarem assento à direita dos juízes de primeira instância ou do Presidente do Tribunal, Câmara ou Turma decorre da própria lei de regência - art. 41, inciso XI, da Lei 8.625/93 -, não implicando, portanto, em qualquer ofensa à igualdade entre as partes. Precedentes.
+3. Agravo regimental desprovido (AgRg no REsp 1511310/RS, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 18/06/2015, DJe 29/06/2015).
+Ante todo o exposto, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimações necessárias.
