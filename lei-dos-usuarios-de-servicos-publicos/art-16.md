@@ -1,0 +1,2 @@
+Art. 16. A ouvidoria encaminhará a decisão administrativa final ao usuário, observado o prazo de trinta dias, prorrogável de forma justificada uma única vez, por igual período.
+Parágrafo único. Observado o prazo previsto no caput, a ouvidoria poderá solicitar informações e esclarecimentos diretamente a agentes públicos do órgão ou entidade a que se vincula, e as solicitações devem ser respondidas no prazo de vinte dias, prorrogável de forma justificada uma única vez, por igual período.

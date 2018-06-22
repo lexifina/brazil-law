@@ -1,0 +1,1 @@
+Art. 4º Os serviços públicos e o atendimento do usuário serão realizados de forma adequada, observados os princípios da regularidade, continuidade, efetividade, segurança, atualidade, generalidade, transparência e cortesia.
