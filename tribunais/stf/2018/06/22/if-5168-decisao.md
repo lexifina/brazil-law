@@ -1,0 +1,14 @@
+DECISÃO
+    1. Requerimento de intervenção federal no Pará ajuizado por Elias Ralim Mifarreg, Confederação da Agricultura e Pecuária do Brasil – CNA, Federação da Agricultura e Pecuária do Pará – FAEPA e Sindicato dos Produtores Rurais de Marabá, pelo alegado descumprimento de decisões judiciais de reintegração de posse proferidas pelo Juízo da Vara Agrária de Marabá/PA.
+    O processo, regularmente encaminhado pelo Tribunal de Justiça do Pará, foi recebido neste Supremo Tribunal em 3.12.2009, sendo a ele posteriormente apensadas as Intervenções Federais ns. 5.169, 5.170, 5.171 e 5.172.
+    2. Em 28.6.2013, o Procurador-Geral da República requereu a realização de diligências e intimou “o Governo do Pará para prestar informações e se pronunciar sobre esta Intervenção Federal”.
+    3. Em 19.9.2017, o requerido prestou as informações nas quais registra ser “possível concluir que de todas as medidas judiciais ditas pendentes de atuação das forças de segurança do Estado, objeto das ações interventivas, a única que efetivamente consta dos registros da PM/PA como ainda sem consumação e por motivos alheios a sua vontade (Fazenda Maria Bonita), está contemplada no respectivo Comando para missão em muito breve, eis que seu planejamento, segundo se informa, já foi materializado” (Petição n. 54.199/2017).
+    4. Em 11.10.2017, o representante dos requerentes informou o “não cumprimento das reintegrações de posse até a presente data” (Petição n. 62.556/2017, Doc. 68).
+    5. Pela divergência das informações prestadas, e não tendo os andamentos juntados esclarecido de forma satisfatória se as decisões de reintegração de posse referidas no presente requerimento de intervenção federal ainda pendiam de execução, requisitaram-se informações atualizadas ao Tribunal de Justiça do Pará e à Vara Agrária Cível de Marabá/PA.
+    6. Em 18.12.2017, o Juiz Titular da Vara Agrária de Marabá informou que naquela Vara “tramitou a seguinte ação de reintegração de posse relacionada à Fazenda Aras Santo Elias, objeto da Intervenção Federal nº 5.168: 0001842-31.2005.814.0028, (…) foi remetido à Justiça Federal em 05/08/2010, não retornou à Vara Agrária de Marabá, não mais tramitando por este Juízo Agrário”.
+    7. O reconhecimento da incompetência do Tribunal de Justiça do Pará, com a remessa do processo para Justiça Federal, prejudica o pedido interventivo formulado pelo tribunal estadual, cujo fundamento era o alegado descumprimento da ordem judicial emitida pelo Juízo da Vara Agrária de Marabá de reintegração da Fazenda Aras Santo Elias (Processo n. 028.2005.1.002846-5/ 0001842-31.2005.814.0028).
+    8. Pelo exposto, julgo prejudicado o pedido de intervenção federal por perda superveniente de objeto (inc. IX do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 22 de junho de 2018.
+Ministra CÁRMEN LÚCIA
+Presidente
