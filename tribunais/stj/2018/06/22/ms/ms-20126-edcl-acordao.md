@@ -1,0 +1,39 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. OMISSÃO. AUSÊNCIA DE VÍCIOS.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 1973.
+II - A fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição de embargos de declaração.
+III - Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, os Ministros da Primeira Seção do Superior Tribunal de Justiça acordam, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Gurgel de Faria, Francisco Falcão, Herman Benjamin, Napoleão Nunes Maia Filho, Og Fernandes, Benedito Gonçalves, Assusete Magalhães e Sérgio Kukina votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXCELENTÍSSIMA SENHORA MINISTRA REGINA HELENA COSTA (Relatora):
+A UNIÃO opõe embargos de declaração contra o acórdão de relatoria do Ministro Arnaldo Esteves proferido em sede de mandado de segurança que, por unanimidade, concedeu a segurança (fls. 979/980e), cuja ementa transcrevo:
+MANDADO DE SEGURANÇA. REVISÃO DE ANISTIA CONCEDIDA COM BASE NA PORTARIA 1.104-GMS/1964. DECADÊNCIA DO ATO DE ANULAÇÃO. NOTAS E PARECERES DA AGU QUE NÃO SE PRESTAM À CARACTERIZAÇÃO DE MEDIDA IMPUGNATIVA NOS TERMOS DO § 2º DO ART. 54 DA LEI 9.784/99. MATÉRIA EXAMINÁVEL NA VIA MANDAMENTAL. AFRONTA AO ART. 8º DA CF/88. VIOLAÇÃO REFLEXA. PRECEDENTES DO STF. SEGURANÇA CONCEDIDA.
+1. O poder-dever de a Administração rever seus próprios atos, mesmo quando eivados de ilegalidade, encontra-se sujeito ao prazo decadencial de cinco anos, ressalvada a comprovação de má-fé por parte do anistiado político, nos termos do previsto no art. 54, caput, da Lei 9.784/99 c.c. 37, § 5º, da Constituição da República, ou a existência de flagrante inconstitucionalidade.
+2. Nos termos do art. 54, § 2º, da Lei 9.784/99, "Considera-se exercício do direito de anular qualquer medida de autoridade administrativa que importe impugnação à validade do ato".
+3. O conceito de "autoridade administrativa", a que alude o § 2º do art. 54 da Lei de Processo Administrativo, não pode ser estendido a todo e qualquer agente público, sob pena de tornar inaplicável a regra geral contida no caput, em favor da decadência.
+4. Devem ser consideradas como "exercício do direito de anular" o ato administrativo apenas as medidas concretas de "impugnação à validade do ato", tomadas pelo Ministro de Estado da Justiça - autoridade que, assessorada pela Comissão de Anistia, tem competência exclusiva para decidir as questões relacionadas à concessão ou revogação das anistias políticas, nos termos do art. 1º, § 2º, III, da Lei 9.784/99 c/c 10 e 12, caput, da Lei 10.559/02.
+5. As NOTAS AGU/JD-10/2003 e AGU/JD-1/2006 não se enquadram na definição de "medida de autoridade administrativa" no sentido sob exame, haja vista sua natureza de pareceres jurídicos, de caráter facultativo, formulados pelos órgãos consultivos, com trâmites internos, genéricos, os quais não se dirigem, especificamente, a quaisquer dos anistiados sob o pálio da Súmula Administrativa nº 2002.07.0003 da Comissão de Anistia.
+6. Não incide a ressalva inscrita na parte final do caput do art. 54 da 9.784/99, pois não se fala, em momento algum, na ocorrência de má-fé, vício que não pode ser presumido.
+7. Hipótese em que a anulação da anistia foi promovida quando já ultrapassado o prazo decadencial de cinco anos, restando consumada a decadência administrativa, nos termos do caput do art. 54 da Lei 9.784/99.
+8. A Portaria Interministerial MJ/AGU 134, de 15/2/11, que instaurou procedimento de revisão das anistias, mesmo se considerada hábil a afastar a decadência, não tem o condão de reabrir o prazo decadencial já finalizado.
+9. A questão sub judice, dirimida pelo Grupo de Trabalho instituído pela Portaria Interministerial MJ/AGU 134/11, não se vincula a eventual inconstitucionalidade da Súmula Administrativa 2002.07.0003 da Comissão de Anistia, uma vez que a definição de ato de exceção exclusivamente político, previsto no art. 8º, caput, do ADCT, foi deixado a cargo da legislação infraconstitucional, qual seja, da Lei 10.559/02.
+10. Eventual equívoco da Comissão de Anistia ao editar a Súmula Administrativa 2002.07.0003 importaria em mera ofensa indireta à Constituição Federal, o que não desafia exame de (in)constitucionalidade pelo Supremo Tribunal Federal e, muito menos, por esta Corte. Precedentes do STF.
+11. Precedentes: MS 18.728/DF, 18.606/DF, 18.682/DF e 18.590/DF (Rel. p/ ac. Min. ARNALDO ESTEVES LIMA, Primeira Seção, julgados em 10/4/13).
+12. Hipótese em que, quando da publicação da Portaria/MJ 644, em 25/2/2013, ou, ainda, da Portaria Interministerial/MJ/AGU 134, de 15/2/11, já havia transcorrido o prazo decadencial, uma vez que a Portaria/MJ 69, que concedeu a anistia, é de 8/1/2004.
+13. Segurança concedida para declarar a decadência do ato que anulou a portaria anistiadora. Custas ex lege. Sem condenação em honorários advocatícios, nos termos da Súmula 105/STJ.
+Sustenta, em síntese, que o acórdão padece de omissão, porquanto necessário o pronunciamento acerca da inaplicabilidade do prazo decadencial do art. 54 da Lei n. 9.784/1999 em casos de inconstitucionalidade.
+Alega, ainda, a existência de ato de conteúdo específico apto a interromper o prazo decadencial.
+Os embargos foram opostos tempestivamente.
+É o relatório.
+VOTO
+A EXCELENTÍSSIMA SENHORA MINISTRA REGINA HELENA COSTA (Relatora):
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Sustenta a Embargante que há omissões a serem supridas, nos termos do art. 535, II, do Código de Processo Civil.
+Não verifico, no caso, a existência de vício a ensejar a declaração do julgado ou sua revisão mediante embargos de declaração.
+Cabe a oposição de embargos de declaração quando a omissão disser respeito ao pedido, e não quando os argumentos invocados pela parte não são estampados no julgado, como pretende a Embargante.
+Com efeito, depreende-se da leitura do acórdão que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e cotejo ao firme posicionamento jurisprudencial aplicável à hipótese.
+O procedimento encontra amparo em reiteradas decisões no âmbito desta Corte Superior, de cujo teor merece destaque a dispensa ao julgador de rebater, um a um, os argumentos trazidos pelas partes (v.g. Corte Especial, EDcl nos EDcl nos EREsp 1284814/PR, Rel. Min. Napoleão Nunes Maia Filho, DJe de 03.06.2014; 1ª Turma, EDcl nos EDcl no AREsp 615.690/SP, Rel. Min. Sérgio Kukina, DJe de 20.02.2015; e 2ª Turma, EDcl no REsp 1365736/PE, Rel. Min. Humberto Martins, DJe de 21.11.2014).
+Ademais, constatada apenas a discordância da Embargante com o deslinde da controvérsia, não restou demonstrada efetiva omissão a ensejar a integração do julgado, porquanto a fundamentação adotada no venerando acórdão é clara e suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição dos presentes embargos.
+Desse modo, totalmente destituída de pertinência mencionada formulação, uma vez que não se ajusta aos estritos limites de atuação dos embargos, os quais se destinam, exclusivamente, à correção de eventual omissão, contradição ou obscuridade do julgado.
+Isto posto, REJEITO OS EMBARGOS DE DECLARAÇÃO.
