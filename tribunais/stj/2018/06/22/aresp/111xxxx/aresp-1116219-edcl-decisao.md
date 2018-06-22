@@ -1,0 +1,11 @@
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. ANALISE DE OFENSA AO ARTIGO 1.022 DO CPC/2015. EMBARGOS DE DECLARAÇÃO CONHECIDOS PARA LHE DAR PROVIMENTO PARCIAL PARA SANAR ERRO MATERIAL, SEM EFEITO INFRINGENTE DA DECISÃO.
+DECISÃO
+Trata-se de embargos de declaração oposto em face de decisão assim ementada:
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. ENUNCIADO ADMINISTRATIVO N 2/STJ. VIOLAÇÃO AO ART. 535 DO CPC. NÃO OCORRÊNCIA. ALÍQUOTAS CONTRIBUIÇÃO SAT. GRAU DE RISCO. NECESSIDADE DE PRODUÇÃO DE PROVA. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+O embargante alega contradição no julgado quanto ao enquadramento do recorrente no grau de risco médio da atividade preponderante desenvolvida e ao mesmo tempo negar provimento ao recurso.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Compulsando os autos, observa-se que que houve um erro material quanto ao grau de risco da atividade preponderante desenvolvida pelo recorrente, devendo o texto que integra a decisão monocrática ser modificado, no seguinte sentido: aonde se lê " Por seu turno, verifica-se que o Tribunal de origem, soberano na análise dos fatos e provas produzidos na demanda, concluiu que a atividade preponderantemente desenvolvida pelo contribuinte se enquadra em nível médio da contribuição ao SAT,", à fl. 3371 (e-STJ), leia-se " Por seu turno, verifica-se que o Tribunal de origem, soberano na análise dos fatos e provas produzidos na demanda, concluiu que a atividade preponderantemente desenvolvida pelo contribuinte se enquadra em nível de risco máximo (3%) da contribuição ao SAT, ".
+Ante o exposto, conheço dos embargos e dou-lhe provimento parcial para tão somente sanar erro material, sem efeito modificativo do julgado.
+Publique-se. Intimem-se.
