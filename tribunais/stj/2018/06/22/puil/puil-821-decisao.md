@@ -1,0 +1,16 @@
+DECISÃO
+Trazem os autos Pedido de Uniformização de Jurisprudência dirigido ao Superior Tribunal de Justiça contra decisão da Turma Nacional de Uniformização, que não conheceu do incidente interposto pelo Instituto Nacional do Seguro Social - INSS.
+Afirma o INSS, em síntese, que o acórdão recorrido destoou do entendimento desta Corte, pois "parte da premissa que o prazo decadencial do benefício da pensão por morte, desdobrada de benefício de aposentadoria, deve iniciar o curso a partir da data da concessão da pensão por morte, considerando que a dependente do falecido, beneficiária da pensão, somente teria legitimidade para questionar eventual direito à revisão da renda mensal a partir do segundo benefício" (fl. 29).
+É o relatório.
+Em que pesem os argumentos deduzidos pelo INSS, anote-se que se mostra inviável o conhecimento de incidente de uniformização "quando inexistir o cotejo das teses em discordância nos moldes descritos nos arts. 541 do Código de Processo Civil e 255 do Regimento Interno do Superior Tribunal de Justiça - RISTJ, os quais são aplicáveis à hipótese, por analogia" (AgRg na Pet 7.681/SC, Rel. Min. Jorge Mussi, Terceira Seção, julgado em 24.3.2010, DJe 5.4.2010) (Pet 9.554/SP, Rel. Ministro HUMBERTO MARTINS, PRIMEIRA SEÇÃO, julgado em 13/03/2013, DJe 21/03/2013).
+Na hipótese dos autos, o requerente sequer colacionou o acórdão recorrido aos autos, limitando-se a indicar precedentes supostamente conflitantes com o acórdão proferido pela Turma Nacional de Uniformização, sem, contudo, proceder ao necessário cotejo entre os julgados de modo a demonstrar a existência de divergência entre decisões sobre questões de direito material.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DO ACÓRDÃO DA TNU. INEXISTÊNCIA DE COMPROVAÇÃO DE DIVERGÊNCIA DE INTERPRETAÇÃO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O Requerente não impugna especificamente os fundamentos do acórdão da TNU, limitando-se a argumentar, genericamente, que o pedido é cabível na espécie, além de debater sobre a matéria de fundo.
+III - Ausência de comprovação de divergência de interpretação, porquanto a decisão da TNU é relativa ao cabimento do pedido de uniformização, enquanto o Requerente tenta demonstrar dissídio em relação à decadência do direito da Administração Pública revisar seus atos, matéria que não chegou a ser examinada pelo acórdão da Turma de Uniformização.
+IV - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Agravo Interno improvido.
+(AgInt no PUIL 94/RN, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, julgado em 28/06/2017, DJe 01/08/2017)
+Ante o exposto, não conheço do pedido de uniformização de jurisprudência, com fundamento no art. 34, XVIII, do RISTJ.
+Publique-se.
