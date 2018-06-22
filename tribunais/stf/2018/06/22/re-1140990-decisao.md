@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Ministério Público do Estado do Ceará. Aparelhado o recurso na afronta aos arts. 23, II, 196 e 225 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual a aferição da ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. Políticas públicas. Controle jurisdicional. 3. Omissão do Poder Executivo. Necessidade do revolvimento do conjunto fático-probatório. Impossibilidade. Súmula 279. Precedentes. 4. Pedido de vinculação a tema com repercussão geral reconhecida. Impossibilidade. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (ARE 1032099 AgR, Relator(a):  Min. GILMAR MENDES, Segunda Turma, julgado em 27/10/2017, PROCESSO ELETRÔNICO DJe-253 DIVULG 07-11-2017 PUBLIC 08-11-2017)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. OBRIGAÇÃO DE FAZER. POLÍTICAS PÚBLICAS. REALIZAÇÃO DE OBRA DE DRENAGEM PLUVIAL. DISPONIBILIDADE ORÇAMENTÁRIA. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 851.393 AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 26.5.2015)
+    “Agravo regimental no agravo de instrumento. Impossibilidade de reexame de legislação infraconstitucional e de fatos e provas dos autos. Ação civil pública. Implementação de políticas públicas. Possibilidade. Violação do princípio da separação dos poderes. Não ocorrência. Precedentes. 1. O recurso extraordinário não se presta ao reexame da legislação infraconstitucional e de fatos e provas dos autos. Incidência das Súmulas nºs 636 e 279 desta Corte. 2. O Poder Judiciário, em situações excepcionais, pode determinar que a Administração Pública adote medidas assecuratórias de direitos constitucionalmente reconhecidos como essenciais, sem que isso configure violação do princípio da separação de poderes. 3. Agravo regimental não provido.” (AI 593.676 AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 28.2.2012)
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 22 de junho de 2018.
+Ministra Rosa Weber
+Relatora
