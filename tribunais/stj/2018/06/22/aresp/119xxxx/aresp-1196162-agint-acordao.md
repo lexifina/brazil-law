@@ -1,0 +1,80 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. 1. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. 2. CONTRATO BANCÁRIO. TOMADA DE EMPRÉSTIMOS COM FIM DE IMPLEMENTAR ATIVIDADE NEGOCIAL. INAPLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR. PRECEDENTES. 3. TAXA DE JUROS QUANTO AOS RECURSOS DO FNE. ABUSIVIDADE NÃO CONSTATADA. REVISÃO. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO E DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. 4. AGRAVO INTERNO DESPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022, I e II, do Código de Processo Civil de 2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão foi omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+2. É pacífica a jurisprudência desta Corte no sentido de que não são aplicáveis as disposições do Código de Defesa do Consumidor aos financiamentos bancários obtidos com o propósito de fomentar a atividade empresarial.
+3. A Corte estadual decidiu a questão acerca da suposta abusividade das taxas de juros quanto aos recursos do FNE com amparo no contrato e nas provas carreadas aos autos, o que atrai a incidência das Súmulas n. 5 e 7 do STJ.
+4. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, a Sra. Ministra Nancy Andrighi.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Na origem, Imperial Brasil Indústria e Comércio Ltda. ajuizou ação de obrigação de fazer contra o Banco do Nordeste do Brasil S.A., objetivando a revisão do contrato de empréstimo firmado entre as partes, que originou três cédulas de crédito industrial.
+O Magistrado de primeiro grau julgou parcialmente procedente o pedido inicial para determinar a revisão das Cédulas de Crédito Industriais, a fim de aplicar os encargos financeiros do FNE de 9,5% (nove e meio por cento) ao ano sobre a parcela de 85% (oitenta e cinco por cento) do crédito, a ser apurado em liquidação de sentença, mantidos os demais termos contratados.
+Interpostas apelações por ambas as partes, a Primeira Câmara Cível do Tribunal de Justiça de Sergipe negou provimento aos recursos em acórdão assim ementado (e-STJ, fls. 406-407):
+APELAÇÕES CÍVEIS - AÇÃO DE OBRIGAÇÃO DE FAZER - CÉDULA DE CRÉDITO INDUSTRIAL - EMPRÉSTIMOS BANCÁRIOS. RECURSO DA AUTORA - INAPLICABILIDADE DO CDC AO CONTRATO EM ESPÉCIE - FOMENTO DE ATIVIDADE EMPRESARIAL - NÃO CARACTERIZAÇÃO DE CONSUMIDOR. APELANTE NÃO SE ENQUADRA COMO DESTINATÁRIO FINAL - REPARTIÇÃO DE FONTES DE RECURSOS - FUNDO CONSTITUCIONAL DE FINANCIAMENTO DO NORDESTE (FNE) - REVISÃO DA TAXA DE JUROS INCIDENTES SOBRE RECURSOS DO FNE - POSSIBILIDADE - TAXAS DE JUROS DISTINTAS, POSTO QUE ORIUNDAS DE RECURSOS DISTINTOS - CLÁUSULA CONTRATUAL VÁLIDA - ABUSIVIDADE/ILEGALIDADE NÃO CONSTATADA - INAPLICABILIDADE DA RESOLUÇÃO N. 4.149/12 E 4.181/13. RECURSO DO BANCO - ENQUADRAMENTO DA EMPRESA DE MÉDIO PORTE. ENCARGOS FINANCEIROS DEVIDAMENTE APLICADOS. POSSIBILIDADE. SENTENÇA MANTIDA - RECURSOS CONHECIDOS E IMPROVIDOS.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 448-458)
+Nas razões do recurso especial, fundamentado nas alíneas a e c do permissivo constitucional, Imperial Brasil Indústria e Comércio Ltda. apontou divergência jurisprudencial e ofensa aos arts. 1.022, I e II, do CPC/2015; 29 e 39, I, do Código de Defesa do Consumidor; 421, 478 e 480 do Código Civil; e 170 da Constituição Federal.
+Alegou, além de omissão e contradição do acórdão, a existência de relação de consumo entre as partes, sendo vedada, portanto, a venda casada, que, na hipótese, se deu com a imposição de fontes distintas de recursos - RECIN e FNE - para a concessão do crédito.
+Ressaltou a necessidade de revisão da taxa de juros incidente nos recursos do FNE.
+Contrarrazões apresentadas às fls. 523-545 (e-STJ).
+O Tribunal de origem negou seguimento ao recurso sob os fundamentos de inexistência de vícios no acórdão e de incidência das Súmulas n. 5, 7 e 83 do STJ.
+Irresignada, a recorrente apresentou agravo refutando os referidos óbices.
+Contraminuta às fls. 606-627 (e-STJ).
+Por decisão monocrática desta relatoria (e-STJ, fls. 654-656), conheceu-se do agravo para não conhecer do recurso especial, nos termos da seguinte ementa:
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. 1. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. 2. CONTRATO BANCÁRIO. TOMADA DE EMPRÉSTIMOS COM FIM DE IMPLEMENTAR ATIVIDADE NEGOCIAL. INAPLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR. PRECEDENTES. 3. TAXA DE JUROS QUANTO AOS RECURSOS DO FNE. ABUSIVIDADE NÃO CONSTATADA. REVISÃO. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO E DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. 4. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DA IMPERIAL BRASIL INDÚSTRIA E COMÉRCIO LTDA.
+Nas razões do presente agravo interno (e-STJ, fls. 662-671), Imperial Brasil Indústria e Comércio Ltda. refuta os óbices apontados pela deliberação unipessoal e reitera os argumentos exarados no apelo nobre acerca da negativa de prestação jurisdicional, da incidência do Código de Defesa do Consumidor e da necessidade de revisão da taxa de juros incidente nos recursos do FNE.
+Impugnação ao agravo apresentada às fls. 676-681 (e-STJ).
+É o relatório.
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+Os argumentos trazidos pela agravante não são capazes de modificar as conclusões da decisão impugnada.
+Relativamente à preliminar de negativa de prestação jurisdicional (apontada violação ao art. 1.022 do CPC/2015), conforme consignado anteriormente, constata-se a total ausência de discriminação dos pontos omissos e/ou contraditórios, incidindo, no caso, o óbice da Súmula n. 284 do Supremo Tribunal Federal.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. AFRONTA AO ART. 535 DO CPC NÃO DEMONSTRADA. SÚMULA N. 284/STF. OFENSA AO ART. 557 DO CPC. NÃO OCORRÊNCIA. JULGAMENTO MONOCRÁTICO. EXAME PELO COLEGIADO EM SEDE DE AGRAVO INTERNO. DANO MORAL E DANO ESTÉTICO. RAZOABILIDADE NA FIXAÇÃO DO QUANTUM. REEXAME. INADMISSIBILIDADE. ÓBICE DA SÚMULA N. 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 282 E 356 DO STF. JUROS DE MORA. TERMO INICIAL. RESPONSABILIDADE CONTRATUAL. [NOME]. DEDUÇÃO. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. Considera-se deficiente a fundamentação do recurso especial que alega violação do art. 535 do CPC e não demonstra, clara e objetivamente, qual ponto omisso, contraditório ou obscuro do acórdão recorrido não foi sanado no julgamento dos embargos de declaração. Incidência da Súmula n. 284 do STF.
+2.  ..
+6. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 709.971/RJ, Relator o Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 22/10/2015.)
+No que tange à aplicabilidade do Código de Defesa do Consumidor, observa-se ser pacífica a jurisprudência desta Corte no sentido de que não são aplicáveis as disposições da legislação consumerista aos financiamentos bancários obtidos com o propósito de fomentar a atividade empresarial.
+Nessa linha, os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 535, II, DO CPC. NÃO OCORRÊNCIA. CONTRATO DE ABERTURA DE CRÉDITO EM CONTA-CORRENTE FIRMADO COM PESSOA JURÍDICA. CAPITAL DE GIRO. APLICAÇÃO DO CDC AFASTADA. PRECEDENTES. AGRAVO NÃO PROVIDO.
+1. O acórdão ora embargado tratou expressamente acerca da questão suscitada, malgrado não tenha acolhido os argumentos suscitados pela recorrente, o que não inquina a decisão recorrida do vício de omissão.
+2. "Tratando-se de financiamento obtido por empresário, destinado precipuamente a incrementar a sua atividade negocial, não se podendo qualificá-lo, portanto, como destinatário final, inexistente é a pretendida relação de consumo." (REsp 218.505/MG, Relator o Min.
+BARROS MONTEIRO, DJ de 14/2/2000) 3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 492.130/MG, Relator o Ministro Raul Araújo, Quarta Turma, julgado em 19/3/2015, DJe 20/4/2015)
+CIVIL E PROCESSUAL CIVIL - CONTRATO BANCÁRIO - VIOLAÇÃO DO ART. 535, DO CPC - APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR - IMPOSSIBILIDADE - FACTORING - UTILIZAÇÃO DOS SERVIÇOS DESTINADOS AO INCREMENTO DE ATIVIDADE PRODUTIVA - SÚMULA Nº 83/STJ - DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO - DECISÃO MANTIDA.
+1.- Não há que se falar em violação do art. 535, do CPC, no caso em que as questões postas foram devidamente analisadas e a decisão está fundamentada.
+2.- A relação de consumo existe apenas no caso em que uma das partes pode ser considerada destinatária final do produto ou serviço. Na hipótese em que produto ou serviço são utilizados na cadeia produtiva, e não há considerável desproporção entre o porte econômico das partes contratantes, o adquirente não pode ser considerado consumidor e não se aplica o CDC, devendo eventuais conflitos serem resolvidos com outras regras do Direito das Obrigações. Precedentes. Súmula n. 83/STJ.
+3.- A simples transcrição da ementa, trechos do acórdão ou inteiro teor dos Acórdãos paradigmas, sem o necessário cotejo analítico entre os Acórdãos confrontados, não viabiliza o conhecimento do Recurso Especial, pois não atende aos requisitos dos os artigos 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+.- Agravo Regimental improvido. (AgRg no AREsp n. 510.524/RJ, Relator o Ministro Sidnei Beneti, Terceira Turma, DJe de 29/8/2014)
+CIVIL E PROCESSUAL. RECURSO ESPECIAL. EXECUÇÃO. CÉDULA DE CRÉDITO INDUSTRIAL. PESSOA JURÍDICA. APLICAÇÃO DOS RECURSOS NO INCREMENTO DA ATIVIDADE PRODUTIVA. EXCEÇÃO DE INCOMPETÊNCIA. AGRAVO DE INSTRUMENTO. NÃO PROVIMENTO.
+1. A jurisprudência do STJ não reconhece à empresa que utiliza os recursos oriundos de contrato bancário para o incremento da atividade produtiva a condição de consumidora final. Precedentes.
+2. Segundo o art. 41, §8º, do Decreto-lei 413/1969, o foro competente para a cobrança "será o da praça do pagamento da cédula de crédito industrial." 3. Hipótese em que a cláusula de eleição de foro se limita a repetir regra da legislação de regência do título de crédito.
+4. Improcedente a exceção de incompetência para deslocamento da execução da cédula de crédito industrial para o foro do domicílio da pessoa jurídica executada.
+5. Recurso especial conhecido e provido.
+(REsp n. 873.608/PR, Relatora a Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 3/12/2013, DJe 11/4/2014)
+Nesse mesmo sentido, foi a conclusão adotada pelo Tribunal a quo (e-STJ, fls. 412-413):
+De inicio, cumpre-me esclarecer se aplicável ou não o Código de Defesa do Consumidor na espécie:
+Pois bem. Inicialmente, ressalto que os contratos celebrados entre as partes não estão submetidos ao Código de Defesa do Consumidor. Com efeito, dispõe o art. 2o, do aludido diploma legal:
+Art. 2o.Consumidor é toda pessoa física ou jurídica que adquire ou utiliza produto ou serviço como destinatário final."
+De fato, da leitura do dispositivo em comento, tem-se que as normas protetivas do consumidor aplicam-se apenas às relações em que haja um destinatário final do produto ou serviço, o qual, segundo a teoria finalista, adotada no Brasil, refere-se não apenas ao mero destinatário fático, que é aquele que retira o bem ou serviço da cadeia produtiva e o utiliza ou consome, mas também ao destinatário econômico, necessitando que o produto não seja utilizado para dar continuidade ao processo de produção.
+No caso dos autos, observo que os empréstimos foram contraídos para aplicação em matéria prima e insumos, conforme se observa das notas de credito acostadas aos autos, objetivando, especificamente, incrementar a sua atividade comercial.
+Nesse contexto, entendo que os contratos firmados entre as partes não se enquadram na hipótese de relação de consumo, razão pela qual deve ser afastada a aplicação do CDC.
+Assim, tem incidência, na espécie, o enunciado n. 83 da Súmula desta Corte Superior.
+No mais, constata-se que a Corte a quo, soberana no exame do conjunto fático-probatório dos autos, concluiu pela inexistência de ilegalidade ou abusividade quanto às taxas de juros aplicadas, sob os seguintes fundamentos:
+Cumpre-me analisar, no caso em testilha, se abusiva/ilegal a cláusula contratual que estabeleceu fontes distintas de recursos para um mesmo empréstimo.
+Examinando detidamente os autos, constata-se que em todas as cédulas de crédito objeto dos presentes embargos, o seu valor global foi oriundo de recursos mistos, ou seja, o montante do empréstimo adveio de recursos do Fundo Constitucional de Financiamento do Nordeste (FNE) e de recursos de captação realizados pela própria instituição bancária em suas transações comerciais (REClN).
+Para cada uma dessa parcelas de crédito liberada, corresponderia um percentual de juros. Essa é uma das irresignações da parte que vem refutar a diversidade da taxa de juros disposta nas notas de crédito.
+De logo, devo dizer que não lhe assiste razão.
+Explico: O Fundo Constitucional de Financiamento do Nordeste (FNE) é regulamentado pela Lei n. 7.827/89, e determinações da Lei 10.177/2001, e segue uma Programação periódica de aplicação, diretrizes e prioridades.
+Como bem ponderou o magistrado de piso, ".. analisando as Leis Federais citadas acima, não se verifica nenhuma norma cogente determinando a concessão de crédito com recursos provenientes exclusivamente do FNE. Ao contrário, conforme se observa na Programação 2010 do FNE, ante a limitação de recursos, existem percentuais a serem destinados de forma criteriosa a cada setor, região e grau de prioridade na atividade exercida pelo mutuário. Desse modo, não existe obrigatoriedade na, concessão de crédito pelo Banco com recursos exclusivos do FNE, e consequentemente, utilizando-se dos incentivos financeiros garantidos por este Fundo. Do mesmo modo, não existe qualquer ilegalidade na contestada cláusula contratual, não existindo onerosidade excessiva ou mesmo venda casada na referida operação, ou qualquer outro vício no negócio jurídico tendente a invalidar a operação".
+De mais a mais, não se trata de cláusula implícita.
+Ao contrário, trata-se de cláusula expressa que prevê claramente o percentual de juros, bem como todos os seus consectários, não podendo a parte recorrente invocar a anulação da referida cláusula, posto que não há qualquer vício que a macule (onerosidade excessiva ou mesmo venda casada).
+Com efeito, para infirmar tais conclusões, seria imprescindível o reexame das provas contidas nos autos bem como a análise e interpretação de cláusulas contratuais, medidas inadmissíveis nesta instância extraordinária, consoante dispõem as Súmulas 5 e 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AÇÃO REVISIONAL DE CLÁUSULAS DE CONTRATO DE ABERTURA DE CRÉDITO. ALEGAÇÃO DE ABUSIVIDADE DOS JUROS REMUNERATÓRIOS. PREMISSA DE QUE A TAXA PACTUADA NÃO DISCREPA DA MÉDIA DO MERCADO. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULAS 5 E 7 DO STJ. CAPITALIZAÇÃO MENSAL DE JUROS. CONSTITUCIONALIDADE DA MEDIDA PROVISÓRIA 2.170-36/2001. ALEGAÇÃO DE AUSÊNCIA DE PACTUAÇÃO EXPRESSA DA CAPITALIZAÇÃO. INOVAÇÃO RECURSAL. MATÉRIA NÃO SUSCITADA NO RECURSO ESPECIAL. ADEQUAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+(AgInt nos EDcl no AREsp n. 920.876/SP, Relator o Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 22/3/2018, DJe 27/3/2018.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
