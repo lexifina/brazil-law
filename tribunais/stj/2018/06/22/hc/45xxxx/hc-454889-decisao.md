@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MATHEUS BABARA DOS SANTOS - preso cautelarmente pela suposta prática do crime de tráfico de drogas - contra decisão liminar do Tribunal de Justiça do Estado de São Paulo (2122388-41.2018.8.26.0000).
+Nas razões da presente ação, a defesa alega não haver motivo suficiente para a prisão preventiva, bem ainda a ausência dos requisitos que autorizam a restrição da liberdade (art. 312 do CPP). Argumenta, ainda, que a medida viola o princípio da presunção de inocência e que seria possível, no caso, a aplicação de outras mais brandas.
+Diante disso, pede, em liminar e no mérito, a revogação da prisão preventiva do paciente e a expedição do respectivo alvará de soltura.
+É o relatório, decido.
+Com efeito, não se admite habeas corpus contra decisão que indefere liminar proferida em impetração originária, por configurar indevida supressão de instância, consoante dispõe o enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado sumular (HC n. 318.415/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 4/8/2015, DJe 12/8/2015).
+No caso, segundo consta da decisão impugnada, "o paciente e corréus teriam sido flagrados por policiais militares em local conhecido como ponto de distribuição de drogas em posse de 269,26g de cocaína e R$ 754,00 em dinheiro" (e-STJ fl. 43) e a prisão teria ocorrido após uma operação da Força Tática, Canil e Rocan, em um conhecido local em que operava um ponto de tráfico de drogas (e-STJ fl. 39).
+Com efeito, "Admite-se a prisão preventiva quando as circunstâncias concretas do crime revelarem risco à ordem pública." (HC n. 118.844, Relator Ministro ROBERTO BARROSO, Primeira Turma, julgado em 19/11/2013, publicado em 19/12/2013).
+Assim, não se verifica ilegalidade manifesta na decisão que justifique uma avaliação antecipada pelo Superior Tribunal de Justiça, com a superação do mencionado enunciado sumular da Suprema Corte. Entendo que as questões em exame necessitam de averiguação mais profunda pelo Tribunal de origem, que deverá apreciar a argumentação da impetração e as provas juntadas ao mandamus no momento adequado.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Publique-se.
