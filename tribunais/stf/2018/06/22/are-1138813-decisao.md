@@ -1,0 +1,19 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL E ADMINISTRATIVO. ORGANIZAÇÃO JUDICIÁRIA. APELO EXTREMO MANEJADO CONTRA ACÓRDÃO PROFERIDO PELO ÓRGÃO ESPECIAL DO TRIBUNAL DE ORIGEM NO JULGAMENTO DE ARGUIÇÃO DE INCONSTITUCIONALIDADE. INCIDÊNCIA DA SÚMULA 513 DO STF. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS NO JUÍZO RECORRIDO. IMPOSSIBILIDADE DE MAJORAÇÃO NESTA SEDE RECURSAL. ARTIGO 85, § 11, DO CPC/2015. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo nas alíneas a e c do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “INCIDENTE DE ARGUIÇÃO DE INCONSTITUCIONALIDADE - MUNICÍPIO DE UBERABA - LEI N° 10.940/2010 - LOTEAMENTO COMUM - AUTORIZAÇÃO PARA A TRANSFORMAÇÃO EM LOTEAMENTO FECHADO/CONDOMÍNIO FECHADO - PRINCÍPIOS DA SUPREMACIA DO INTERESSE PÚBLICO E DA IMPESSOALIDADE - VIOLAÇÃO. A autorização para a concessão de uso privativo de ruas e praças públicas, que divide a comunidade local e priva os demais cidadãos da fruição de bens de uso comum do povo sem relevante interesse público justificado, não se harmoniza com os princípios constitucionais da supremacia do interesse público e da impessoalidade." (Doc. 5, fl. 90)
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 2º e 30 da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que o apelo encontra óbice na Súmula 513 do STF.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    O recurso extraordinário foi manejado de forma prematura, haja vista que a decisão que autoriza a interposição do apelo extremo não é a do plenário ou órgão especial que resolve o incidente de inconstitucionalidade, mas aquela proferida posteriormente pelo órgão competente, que completa o julgamento do feito. Incide, no caso, o óbice da Súmula 513 do STF, que dispõe, in verbis: “A decisão que enseja a interposição de recurso ordinário ou extraordinário não é a do Plenário, que resolve o incidente de inconstitucionalidade, mas a do Órgão (Câmara, Grupos ou Turmas) que completa o julgamento do feito”.
+    Nesse sentido: ARE 853.013, Rel. Min. Roberto Barroso, julgado em 19/12/2014; ARE 824.482, Rel. Min. Gilmar Mendes, DJe de 2/9/2014; ARE 751.397, Rel. Min. Celso de Mello, DJe de 7/6/2013; ARE 689.559, Rel. Min. Rosa Weber, DJe de 18/12/2012; ARE 706.056, Rel. Min. Joaquim Barbosa, DJe de 31/10/2012; e RE 535.523-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe de 29/3/2011, cuja ementa possui o seguinte teor:
+    “RECURSO EXTRAORDINÁRIO. PREMATURO. JULGAMENTO. ÓRGÃO ESPECIAL. ARGUIÇÃO DE INCONSTITUCIONALIDADE. DECISÃO PROFERIDA PELO ÓRGÃO COMPETENTE QUE COMPLETA O JULGAMENTO DO FEITO. NÃO OCORRÊNCIA. SÚMULA 513 DO STF. AGRAVO IMPROVIDO.
+    I - O recurso extraordinário foi interposto prematuramente, uma vez que a decisão que enseja a interposição do extraordinário não é a do Órgão Especial que julgou o incidente de inconstitucionalidade, mas aquela proferida, posteriormente, pelo órgão competente, que completa o julgamento do feito. Incidência da Súmula 513 do STF. Precedentes.
+    II - Agravo regimental improvido.”
+    Por fim, observo que o presente recurso foi interposto sob a égide da nova lei processual, o que conduziria à aplicação de sucumbência recursal. Nada obstante, por não ter havido condenação ao pagamento de honorários advocatícios no Tribunal a quo, fica impossibilitada a sua majoração, nos termos do artigo 85, § 11, do CPC/2015.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 932, VIII, do CPC/2015 c/c o artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 22 de junho de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
