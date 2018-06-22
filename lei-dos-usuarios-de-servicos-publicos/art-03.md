@@ -1,0 +1,1 @@
+Art. 3º Com periodicidade mínima anual, cada Poder e esfera de Governo publicará quadro geral dos serviços públicos prestados, que especificará os órgãos ou entidades responsáveis por sua realização e a autoridade administrativa a quem estão subordinados ou vinculados.
