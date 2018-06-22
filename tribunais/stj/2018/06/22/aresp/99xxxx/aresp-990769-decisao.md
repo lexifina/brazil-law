@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA CARLA DE PONTE SEMENOV e OUTRO contra decisão que negou seguimento a recurso especial, fundamentado nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, impugnando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 330, e-STJ):
+APELAÇÃO - ILEGITIMIDADE DE PARTE - PRELIMINAR AFASTADA - COMPROMISSO DE COMPRA E VENDA - MULTA MORATÓRIA NÃO DEVIDA POR FALTA DE PREVISÃO CONTRATUAL - AO JUDICIÁRIO NÃO É DADO INTERFERIR DESSA FORMA NA PACTUAÇÃO - TERATOLOGIA NA PRETENSÃO DE O JUDICIÁRIO FIXAR MULTA CONTRATUAL COM SOBREPOSIÇÃO AOS CONTRATANTES - DANO MORAL INEXISTENTE N POR NÃO ATINGIDA A ESFERA VALORATIVA DO INDIVÍDUO - SENTENÇA REFORMADA - APELO PROVIDO.
+Opostos os embargos de declaração, foram rejeitados (fls. 347-351, e-STJ).
+Nas razões de recurso especial, alegam os agravantes, além de dissídio jurisprudencial, violação dos arts. 186 e 927 do Código Civil; e 6º, VI e VII, 14, caput, § 1º, II, combinado com 20, caput, II, e § 2º, do Código de Defesa do Consumidor.
+Sustentam, em suma, que "as Rés se encontravam em mora quando da data da efetiva e real entrega do imóvel, sendo elas consideradas responsáveis pelos prejuízos causados ao consumidor durante esse período" (fl. 359, e-STJ).
+Buscam indenização por danos materiais decorrentes da mora das agravadas.
+Contrarrazões às fls. 398-416 (e-STJ).
+O recurso não foi admitido na origem, nos termos da decisão de fls. 418-420 (e-STJ).
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, cumpre destacar que a decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Quanto aos lucros cessantes, assiste razão aos agravantes.
+Com efeito, o entendimento do acórdão recorrido não está em harmonia com a jurisprudência desta Corte, segundo a qual "descumprido o prazo para entrega do imóvel objeto do compromisso de compra e venda, é cabível a condenação por lucros cessantes, havendo presunção de prejuízo do promitente-comprador". Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL NA PLANTA. ATRASO NA ENTREGA. MORA. CLÁUSULA PENAL. SUMULAS 5 E 7/STJ. ART. 535. AUSÊNCIA DE OMISSÕES. SÚMULA 284/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+(..)
+3. Nos termos da jurisprudência consolidada neste Sodalício, a inexecução do contrato de compra e venda, consubstanciada na ausência de entrega do imóvel na data acordada, acarreta além da indenização correspondente à cláusula penal moratória, o pagamento de indenização por lucros cessantes pela não fruição do imóvel durante o tempo da mora da promitente vendedora. Precedentes.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 525.614/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19.8.2014, DJe 25.8.2014).
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RECURSO INCAPAZ DE ALTERAR O JULGADO. LUCROS CESSANTES. ATRASO NA ENTREGA DE IMÓVEL. PRESUNÇÃO DE PREJUÍZO. PRECEDENTES.
+1. Esta Corte Superior já firmou entendimento de que, descumprido o prazo para entrega do imóvel objeto do compromisso de compra e venda, é cabível a condenação por lucros cessantes, havendo presunção de prejuízo do promitente-comprador.
+2. Agravo regimental não provido.
+(AgRg no Ag 1.319.473/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 25.6.2013, DJe 2.12.2013).
+DIREITO CIVIL. PROMESSA DE COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. INADIMPLEMENTO PARCIAL. ATRASO NA ENTREGA DO IMÓVEL. MORA. CLÁUSULA PENAL. PERDAS E DANOS. CUMULAÇÃO. POSSIBILIDADE.
+(..)
+3.- O promitente comprador, em caso de atraso na entrega do imóvel adquirido pode pleitear, por isso, além da multa moratória expressamente estabelecida no contrato, também o cumprimento, mesmo que tardio da obrigação e ainda a indenização correspondente aos lucros cessantes pela não fruição do imóvel durante o período da mora da promitente vendedora.
+4.- Recurso Especial a que se nega provimento.
+(REsp 1.355.554/RJ, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 6.12.2012, DJe 4.2.2013).
+Como parâmetro para a liquidação, no julgamento do AREsp n. 871.693/RJ, publicado em 30.8.2017, o Ministro PAULO DE TARSO SANSEVERINO afirmou que "os lucros cessantes deverão ser calculados com base no valor dos alugueres que o comprador deixaria de pagar ou no valor médio dos aluguéis que o imóvel poderia ter rendido, se tivesse sido entregue na data contratada". No mesmo sentido:
+CIVIL. AÇÃO DE REVISÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR DANO MATERIAL E COMPENSAÇÃO POR DANO MORAL. CONSTRUTORA. ATRASO NA ENTREGA DE UNIDADE IMOBILIÁRIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. LUCROS CESSANTES. PRESUNÇÃO. DANO MORAL NÃO CONFIGURADO.
+(..)
+6. O não cumprimento do contrato pelo promitente-vendedor, causa, além do dano emergente, figurado nos valores das parcelas pagas pelo promitente-comprador, lucros cessantes a título de alugueres, que deixariam de pagar ou que poderia o imóvel ter rendido, se tivesse sido entregue na data contratada, pois esta seria a situação econômica em que se encontrariam se a unidade imobiliária tivesse sido entregue na data contratada. Trata-se de situação que, vinda da experiência comum, não necessita de prova (art. 335 do CPC/73). Precedentes.
+(..)
+(REsp 1.641.037/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 19.12.2016).
+No julgamento do AgInt no AREsp 973.004/AM pela Quarta Turma, efetuado em 10.11.2016, o voto condutor, proferido pelo Ministro LUIS FELIPE SALOMÃO, afirmou que "o parâmetro mais justo para a fixação de indenização a título de lucros cessantes é a utilização de valores equivalentes aos aluguéis que poderiam ter sido auferidos caso o imóvel tivesse sido entregue na data avençada", citando os seguintes precedentes:
+DIREITO CIVIL. PROMESSA DE COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. INADIMPLEMENTO PARCIAL. ATRASO NA ENTREGA DO IMÓVEL. MORA. CLÁUSULA PENAL. PERDAS E DANOS. CUMULAÇÃO. POSSIBILIDADE.
+1.- A obrigação de indenizar é corolário natural daquele que pratica ato lesivo ao interesse ou direito de outrem. Se a cláusula penal compensatória funciona como pre-fixação das perdas e danos, o mesmo não ocorre com a cláusula penal moratória, que não compensa nem substitui o inadimplemento, apenas pune a mora.
+2.- Assim, a cominação contratual de uma multa para o caso de mora não interfere na responsabilidade civil decorrente do retardo no cumprimento da obrigação que já deflui naturalmente do próprio sistema.
+3.- O promitente comprador, em caso de atraso na entrega do imóvel adquirido pode pleitear, por isso, além da multa moratória expressamente estabelecida no contrato, também o cumprimento, mesmo que tardio da obrigação e ainda a indenização correspondente aos lucros cessantes pela não fruição do imóvel durante o período da mora da promitente vendedora.
+4.- Recurso Especial a que se nega provimento. (REsp 1.355.554/RJ, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe 4.2.2013);
+CIVIL E PROCESSUAL CIVIL. COMPROMISSO DE COMPRA E VENDA. RESCISÃO CONTRATUAL. PROMITENTE COMPRADOR QUE NÃO REÚNE CONDIÇÕES ECONÔMICAS PARA O PAGAMENTO DAS PRESTAÇÕES. REAJUSTE DO SALDO DEVEDOR. RESÍDUO INFLACIONÁRIO. CLÁUSULA PENAL. INDENIZAÇÃO PELA FRUIÇÃO. CUMULAÇÃO. POSSIBILIDADE.
+(..)
+- A multa prevista pela cláusula penal não deve ser confundida com a indenização por perdas e danos pela fruição do imóvel, que é legítima e não tem caráter abusivo quando há uso e gozo do imóvel. (REsp 953.907/MS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 9.4.2010);
+REGIMENTAL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. LUCROS CESSANTES. PRECEDENTES.
+- Não entregue pela vendedora o imóvel residencial na data contratualmente ajustada, o comprador faz jus ao recebimento, a título de lucros cessantes, dos aluguéis que poderia ter recebido e se viu privado pelo atraso. (AgRg no Ag 692.543/RJ, Rel. Min. HUMBERTO GOMES DE BARROS, DJ 27.8.2007);
+CIVIL. CONTRATO. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO POR CULPA DA CONSTRUTORA. ARTIGO 924, DO CÓDIGO CIVIL/1916. INAPLICABILIDADE. APLICAÇÃO DO ART. 1.092, PARÁGRAFO ÚNICO, DO CÓDIGO CIVIL/1916. RESTITUIÇÃO DA INTEGRALIDADE DAS PARCELAS PAGAS E DOS LUCROS CESSANTES PELO VALOR DO ALUGUEL MENSAL QUE IMÓVEL PODERIA TER RENDIDO. PRECEDENTES.
+- Na resolução de compromisso de compra e venda de imóvel, por culpa do promitente-vendedor, não é aplicável o disposto no art. 924 do Código Civil/1916, mas sim o parágrafo único do art. 1.092 do Código Civil/1916, e, conseqüentemente, está o promitente-vendedor obrigado a devolver integralmente a quantia paga pelo promitente-comprador.
+ - Resolvida a relação obrigacional por culpa do promitente vendedor que não cumpriu a sua obrigação, as partes envolvidas deverão retornar ao estágio anterior à concretização do negócio, devolvendo-se ao promitente vendedor faltoso o direito de livremente dispor do imóvel, cabendo ao promitente-comprador o reembolso da integralidade das parcelas já pagas, acrescida dos lucros cessantes.
+- A inexecução do contrato pelo promitente-vendedor, que não entrega o imóvel na data estipulada, causa, além do dano emergente, figurado nos valores das parcelas pagas pelo promitente-comprador, lucros cessantes a título de alugueres que poderia o imóvel ter rendido se tivesse sido entregue na data contratada. Trata-se de situação que, vinda da experiência comum, não necessita de prova (art. 335 do Código de Processo Civil).
+Recurso não conhecido. (REsp 644.984/RJ, Rel. Min. NANCY ANDRIGHI, DJ 5.9.2005).
+Seguindo o mesmo entendimento, confiram-se as seguintes decisões monocráticas: REsp 1.121.214/RS, Rel. Ministro Vasco Della Giustina (Desembargador convocado do TJRS), DJe 26.4.2010; REsp 865.417/PR, Rel. Ministro João Otávio de Noronha, DJe 1.12.2009; Ag 897.922/PR, Rel. Ministro Aldir Passarinho Júnior, DJ 1.8.2007.
+Em relação à apontada violação dos arts. 186 e 927 do Código Civil; 6º, VI e VII, 14. caput, § 1º, II, combinado com 20, caput, II, e § 2º, do Código de Defesa do Consumidor, em que se busca a condenação das agravadas ao pagamento de indenização por danos materiais, o Tribunal de origem, ao julgar a apelação, assim consignou (fl. 331, e-STJ):
+ O termo final foi bem estabelecido: data da efetiva e real entrega do imóvel. As Rés encontravam-se em mora e, durante esse período, elas são consideradas responsáveis pelos prejuízos causados ao consumidor.
+Por sua vez, colhe-se da sentença o período da mora, reconhecido a título de danos morais, posteriormente cassados pelo acórdão recorrido, o qual se mantém para a apuração dos lucros cessantes (fl. 266, e-STJ):
+ São notórios os danos morais sofridos pelos autores, que aguardavam a entrega da unidade adquirida e tiveram que esperar por mais de quinze meses além do prazo máximo previsto (31.12.2010) para receber o imóvel, uma vez que o habite-se foi expedido somente em 20.04.2012, sendo cabível a indenização respectiva requerida na inicial.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial para condenar as agravadas ao pagamento de indenização por lucros cessantes aos agravantes, consubstanciados nos valores locativos durante o período de mora (de 1º.1.2011 à 20.4.2012) a serem apurados em liquidação.
+Invertidos os ônus sucumbenciais.
+Intimem-se.
