@@ -1,0 +1,9 @@
+DECISÃO
+1. Trata-se de habeas corpus por meio do qual se pretende, em síntese, a revogação da segregação decretada em desfavor de WESLLEY DE JESUS OLIVEIRA LIMA, argumentando-se, para tanto, a inidoneidade da fundamentação do decreto constritivo, a desproporcionalidade da prisão cautelar frente eventual condenação em regime mais benéfico e a ausência dos requisitos autorizadores da cautelar, previstos no art. 312 do Código de Processo Penal.
+Infere-se dos autos que o ora paciente foi preso em flagrante em 26/5/2017, convertida em preventiva no dia seguinte, e, posteriormente denunciado pela prática do delito tipificado no art. 180, caput, do Código Penal, em razão das circunstâncias do delito e da ausência de condições pessoais favoráveis.
+É o breve realtório.
+O mandamus não merece prosperar.
+2. Isso porque das informações obtidas na página eletrônica do Tribunal de origem (www.tjsp.jus.br), verifica-se que, em 18/5/2018, sobreveio a prolação de sentença pelo Juízo de 1º Grau, condenando o paciente como incurso no art. 180, caput, do Código Penal, às penas de 1 (um) ano e 8 (oito) meses de reclusão, em regime inicial fechado, mais pagamento de 17 (dezessete) dias-multa, ocasião em que manteve a custódia preventiva, diante do seu histórico criminal.
+Assim, resta prejudicado o presente remédio constitucional voltado a abordar a legalidade da prisão preventiva imposta, haja vista que os fundamentos utilizados pelo Juízo singular na sentença são distintos daqueles mencionados na decisão primeva, isto é, trata-se de decisão diversa da questionada na presente impetração, sendo, portanto, novo título, cuja legalidade ainda não foi examinada pelo Tribunal originário.
+3. Diante do exposto, com fundamento no art. 34, inciso XX, do Regimento Interno deste Tribunal, julga-se prejudicado o habeas corpus, pela perda de seu objeto.
+Publique-se.
