@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo interposto por UNIMED COOPERATIVA DE TRABALHO MÉDICO contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 51, e-STJ):
+AGRAVO DE INSTRUMENTO - PLANO DE SAÚDE - Decisão que indeferiu a liminar pleiteada pela agravante, para determinar que fosse mantido o plano de saúde, nas mesmas condições e preços - Beneficiária em tratamento. Interpretação teleológica do artigo 30 da Lei 9656/98 à luz do ordenamento jurídico vigente e das peculiaridades do caso concreto - Manutenção mediante custeio integral. Decisão reformada. Recurso provido.
+Em suas razões de recurso especial (fls. 57/83, e-STJ), a recorrente aponta violação aos arts. 30 da Lei nº 9.656/91 e 300 do Código de Processo Civil de 2015, além de dissídio jurisprudencial.
+Sustenta, em síntese, "que a recorrida não contribuía com os valores da mensalidade para o plano, a assistência médica oferecida aos funcionários era custeada integralmente pela empresa contratante".
+Não foram apresentadas contrarrazões, conforme certidão à fl. 107, e-STJ.
+Em sede de juízo provisório de admissibilidade, o Tribunal de origem inadmitiu o recurso especial, sob os seguintes fundamentos: a) incidência do óbice recursal da Súmula 282 do STF, ante a falta do requisito do prequestionamento; e b) no tocante a alínea "c" do art. 105 da Constituição Federal, não restou demonstrada na peça recursal a similitude de situações com soluções jurídicas diversas.
+Daí o agravo (fls. 112/138, e-STJ), buscando destrancar o processamento daquela insurgência, no qual o insurgente refuta os óbices aplicados pela Corte estadual.
+Não foi apresentada contraminuta, conforme certidão à fl. 140, e-STJ.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. Com efeito, no que tange à apontada afronta aos arts. 30 da Lei nº 9.656/91; e 300 do CPC/2015, além do aventado dissídio jurisprudencial, observa-se que a tese jurídica - "que a recorrida não contribuía com os valores da mensalidade para o plano, a assistência médica oferecida aos funcionários era custeada integralmente pela empresa contratante" - não foi apreciada pelo Tribunal de origem, não podendo, portanto, ser analisada por esta Corte Superior a mencionada contrariedade.
+Assim, tem-se que perquirir nessa via estreita sobre violação da referida norma, sem que se tenha explicitado a tese jurídica de que ora se controverte, seria frustrar a exigência constitucional do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância.
+Ao ensejo, confira-se o teor do enunciado 282 da Súmula do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+2. Ademais, verifica-se que o Tribunal a quo, em sede de antecipação dos efeitos da tutela, determinou "a manutenção da agravante sob plano de saúde com as mesmas condições que usufruía, enquanto empregada, desde que arque com a integralidade dos custos do prêmio, incluindo a cota-parte subsidiada pelo empregador", nos seguintes termos (52/53, e-STJ):
+Trata-se, originariamente, de ação de obrigação de fazer, cumulada com pedido de antecipação de tutela em que busca a agravante, demitida sem justa causa por sua ex-empregadora em fevereiro de 2015, a manutenção do contrato de plano de saúde nas mesmas condições que gozava quando empregado da empresa Mexichem Brasil Ind. Transformação Plástica Ltda.
+Segundo consta dos autos, até o dia 30/09/2016 foi mantido o convênio junto a empregadora, sendo-lhe negado posteriormente.
+A agravante foi funcionária da empresa estipulante desde o ano de 2009 (fls. 21) até maio/2016 (fls. 20), contribuiu no pagamento dos prêmios, requereu a permanência no plano em agosto/2016 (fls. 32), e, ainda, sofre com doenças que estão sob tratamento (fls. 25, 26, 36/38). É verdade que, pela lei 9656/98, teria um mínimo de prazo para manutenção de 06 (seis) meses, que findaria em novembro p.p., e, embora tenha sido cancelado o plano em setembro p.p. (indicado protocolo nº 33967920161003002313 vide fls. 23), esta C. Câmara admite até a manutenção por prazo superior de ex-empregado, quando está sob tratamento de grave moléstia (vide Agravo de Instrumento nº 2238574-55.2015.8.26.0000, j. em 17/05/2016; Rei. Des. Costa Netto).
+Nesse quadro, em face das peculiaridades do caso sub judice, bem como da função social do contrato, que, nos casos de plano de saúde, é a preservação da vida, há que se manter, ao menos por ora, a agravante em seu plano.
+Assim, diante da fundamentação do acórdão recorrido, rever o entendimento do Tribunal de origem demandaria, inevitavelmente, o exame do contexto fático-probatório dos autos, atraindo o óbice da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO CONTRA DECISÃO QUE CONCEDEU LIMINARMENTE A TUTELA ANTECIPADA PLEITEADA EM AÇÃO DE OBRIGAÇÃO DE FAZER. REQUISITOS DO ART. 273 DO CPC/73. SÚMULA 7/STJ. PLANO DE SAÚDE. RECUSA DE COBERTURA. TRATAMENTO DE MOLÉSTIA COM COBERTURA CONTRATUAL ([NOME]). CARÁTER ABUSIVO. PRECEDENTES. SÚMULA 83. ALÍNEAS "A" E "C". ALEGAÇÃO DE TRATAMENTO EXPERIMENTAL VEDADO PELA ANVISA. SÚMULA 7.
+1. No tocante ao art. 273 do CPC, tendo o Tribunal a quo concluído pelo preenchimento dos requisitos necessários à antecipação dos efeitos da tutela, a inversão do que foi decidido, tal como propugnada nas razões do apelo especial, demandaria, necessariamente, novo exame do acervo fático-probatório dos autos, providência, todavia, que encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+Precedentes.
+2. "Consoante a jurisprudência desta Corte, é abusiva a negativa de cobertura, pelo plano de saúde, a algum tipo de procedimento, medicamento ou material necessário para assegurar o tratamento de doenças previstas no contrato" (AgInt nos EDcl no AREsp 1.028.079/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 22/08/2017, DJe de 31/08/2017).
+3. O óbice da Súmula 83/STJ aplica-se tanto aos recursos especiais interpostos com base na alínea "a" quanto àqueles propostos com fundamento na alínea "c" do permissivo constitucional. Precedentes.
+4. Não tendo o Tribunal a quo consignado como premissas fáticas do acórdão que o tratamento pretendido pelo agravado seria experimental e que teria sido expressamente vedado pela ANVISA, o seu reconhecimento, nesta instância especial, encontra-se vedado pelo óbice da Súmula 7/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1206401/PA, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 03/04/2018, DJe 06/04/2018)
+3. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, nego provimento ao agravo.
+Publique-se.
+Intimem-se.
