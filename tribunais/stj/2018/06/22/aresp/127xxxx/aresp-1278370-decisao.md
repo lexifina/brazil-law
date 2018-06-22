@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 969, e-STJ):
+COOPERATIVA HABITACIONAL - Pleito de restituição dos valores pagos em face de anterior pedido de demissão - Legitimidade passiva de empresa Paulicoop, administradora do empreendimento - Conduta desta que evidencia participação direta e própria no empreendimento - Preliminar de falta de interesse de agir afastada - Infundada pretensão de disciplinar o desfazimento da avença como pedido de demissão do autor, com as consequências dal advindas - Inadimplemento contratual da alienante caracterizado - Aplicação do CDC - Devolução imediata e em parcela única - Súmula 2 desta Corte - Pleito de gratuidade judicial acolhido em embargos de declaração - Danos morais mantidos - Recurso parcialmente conhecido e desprovido.
+Não foram opostos embargos de declaração.
+No recurso especial, aponta violação aos artigos 21 e 79, da Lei nº 5.764/1971 (Lei das Cooperativas), ao fundamento de que os valores a serem restituídos aos associados, em decorrência de descumprimento contratual, devem se dar de forma parcelada, e não de forma imediata, e integral e em parcela única, conforme entendeu a Corte de origem.
+Sustenta que "não se pode afastar a regra dos Estatutos Sociais das Cooperativas Recorrentes, aliada às demais regras contratuais avençadas entre as partes, devendo a restituição dos valores ser feita na forma e no prazo previstos em contrato" (fl. 985, e-STJ).
+Contrarrazões às fls. 994-999, e-STJ.
+Delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Ao solucionar a controvérsia, o Tribunal de origem, soberano na análise do conjunto fático-probatório dos autos, assim consignou (fls. 971-972, e-STJ):
+Passando ao mérito, desnecessária a discussão sobre o porquê do atraso da obra, posto que as apelantes concordaram com a restituição dos valores pagos pelo apelado, insurgindo-se, apenas, em face da forma de devolução Nesse passo, descabida a pretensão das Cooperativas de devolver os valores pagos com apoio nas disposições estatutárias que prevê essa restituição ao associado somente após o término do empreendimento, em 24 parcelas (artigo 25, § 2o - fl. 52 verso), pois esse dispositivo somente se justificaria se houvesse pedido de demissão injustificada do cooperado.
+No caso dos autos, configurou-se o inadimplemento contratual da alienante, que autoriza o comprador a pedir o desfazimento do negócio e a devolução integral e imediata dos valores pagos.
+Com efeito, o pleito de rescisão contratual foi formulado posto que as obras previstas sequer chegaram a ser iniciadas no prazo ajustado. As apelantes descumpriram peremptoriamente os prazos estipulados no contrato, pois o prazo fatal para a entrega do 8º e último prédio era janeiro de 2002. Em outubro de 2009 ainda não havia sequer terminado a metade do empreendimento.
+Sendo assim, totalmente infundada a pretensão das apelantes de disciplinar o desfazimento da avença celebrada com o apelado como hipótese de mero pedido de demissão do autor, com as consequências daí advindas por força dos Estatutos Sociais e da Lei nº 5.764/71.
+Assim, o recurso especial não merece prosperar, pois, para rever as conclusões adotadas no acórdão recorrido, seria necessário o reexame do contexto fático-probatório dos autos, providência vedada em sede de recurso especial, em razão da Súmula 7/STJ.
+Saliente-se, por fim, que o entendimento adotado no acórdão recorrido está em consonância com a jurisprudência desta Corte, de sorte que incide na espécie o óbice da Súmula 83/STJ. A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE BEM IMÓVEL. COOPERATIVA. ATRASO INJUSTIFICADO NA ENTREGA. AFASTADO O DIREITO À RETENÇÃO. LUCROS CESSANTES DEVIDOS. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do STJ se firmou no sentido de que não há direito à retenção de valores de caráter administrativo na hipótese de descumprimento contratual da cooperativa, ocasionado pelo atraso na entrega do imóvel, sendo devida a restituição integral dos valores já pagos.
+2. A demora na entrega do imóvel na data previamente acordada resulta na rescisão do contrato de compra e venda e, em consequência, o dever de reparação por lucros cessantes pela não fruição do imóvel durante o tempo em que a Cooperativa permaneceu em mora. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.533.885/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 16/5/2017 - grifou-se).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. COOPERATIVA HABITACIONAL. DESCUMPRIMENTO CONTRATUAL. IMÓVEL. PRAZO DE ENTREGA. NÃO CUMPRIMENTO. QUANTIA PAGA. RESTITUIÇÃO INTEGRAL E IMEDIATA. POSSIBILIDADE. PRECEDENTES. SÚMULA Nº 568 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Não há falar em retenção de valores de caráter administrativo na hipótese de descumprimento contratual da cooperativa, ocasionado pelo atraso na entrega do imóvel antes negociado, sendo devida a restituição integral e imediata dos valores já pagos. Precedentes.
+2. É firme a orientação deste Tribunal Superior no sentido de que as disposições do Código de Defesa do Consumidor são aplicáveis aos empreendimentos habitacionais promovidos pelas sociedades cooperativas.
+3. Os magistrados da instância ordinária decidiram em perfeita consonância com a jurisprudência desta Corte, circunstância que atrai a incidência da Súmula nº 568/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 949.537/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 16/11/2016).
+Quanto à majoração da verba honorária em razão do disposto no art. 85, § 11, do Código de Processo Civil, mostra-se incabível uma vez que já houve a sua fixação no limite máximo pelas instâncias de origem (fl. 747).
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
