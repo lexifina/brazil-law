@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de São Paulo, assim ementado:
+    “AGRAVO DE INSTRUMENTO – AÇÃO CIVIL PÚBLICA – AMBIENTAL – DECISÃO INTERLOCUTÓRIA QUE DETERMINOU A ANULAÇÃO DO LICENCIAMENTO AMBIENTAL DO PRESÍDIO FEMININO DE SÃO VICENTE E DETERMINOU A PRÉVIA ELABORAÇÃO E APROVAÇÃO DE EIA/RIMA ANTES DO PROSSEGUIMENTO DA OBRA - NECESSIDADE DE PONDERAÇÃO ENTRE O DIREITO COLETIVO AO MEIO AMBIENTE E A URGÊNCIA QUANTO À CONSTRUÇÃO DE NOVAS UNIDADES DE CUSTÓDIA - OBSERVÂNCIA DO PRINCÍPIO DA DIGNIDADE DA PESSOA HUMANA, COM AMPLA PREVISÃO NA LEI DE EXECUÇÃO PENAL, E QUE SE MOSTRA URGENTE ANTE O DÉFICIT DE VAGAS NOTORIAMENTE EXISTENTE - CONSTRUÇÃO QUE NÃO SE DARÁ À MARGEM DA LEGISLAÇÃO AMBIENTAL OU SEM ACOMPANHAMENTO DOS ÓRGÃOS COMPETENTES - AGRAVO AO QUAL SE CONFERE PROVIMENTO”. (eDOC 6, p. 25)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 225, § 1º, IV e V, e § 4º, do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, que não seria possível a apresentação de mero estudo ambiental simplificado, em vez de EIA/RIMA, para a realização de empreendimento em área que conte com vegetação de Mata Atlântica. (eDOC 6, p. 99)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Nos termos da jurisprudência desta Corte, as decisões que concedem ou negam provimentos liminares ou tutela antecipada não perfazem juízo definitivo de mérito a ensejar o cabimento do recurso extraordinário.
+    No caso, verifico que o acórdão impugnado não vislumbra a existência de dano de difícil ou impossível reparação na construção da obra pública, a justificar a liminar de 1ª instância, como se extrai do seguinte trecho:
+    “Além disso, a Fazenda Estadual, em sede de Agravo Regimental, trouxe substanciosos argumentos a conduzir o convencimento para a tese que sustenta. A uma porque a área atingida pela construção encontra-se, de acordo com o mapa da vegetação local, fortemente antropisada por extração de areia.
+    A duas, porque a construção do presídio não será feita à margem da legislação ambiental aplicável ou sem qualquer acompanhamento ou estudo de impacto ambiental, na medida em que se realizará, para tanto, Estudo Ambiental Simplificado, com ampla previsão normativa e respaldado por Informação Técnica produzida pela Companhia Ambiental do Estado de São Paulo (CETESB), órgão notoriamente comprometido com a defesa do meio ambiente nesta unidade da Federação”. (eDOC 6, p. 29)
+    Logo, o ato recorrido trata de questão puramente processual e não configura pronunciamento definitivo a respeito de controvérsia, motivo pelo qual o apelo extremo é inadmissível, conforme entendimento consolidado pela Súmula 735.
+    Nesse sentido, trago precedentes de ambas as Turmas deste Tribunal:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INCIDÊNCIA DA SÚMULA 735 DO STF. 1. A jurisprudência do STF consolidou o entendimento segundo o qual as decisões que concedem ou denegam antecipação de tutela, medidas cautelares ou provimentos liminares, passíveis de alteração no curso do processo principal, não configuram decisão de última instância a ensejar o cabimento de recurso extraordinário. Súmula 735 do STF. (...)”. (ARE 988731 AgR, rel. Min. Edson Fachin, Primeira Turma, DJe 7.12.2016)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. ANTECIPAÇÃO DE TUTELA. NATUREZA PRECÁRIA. SÚMULA N. 735 DO SUPREMO TRIBUNAL FEDERAL. CONCURSO PÚBLICO. EXCLUSÃO DE CANDIDATO. ACÓRDÃO FUNDAMENTADO NA LEGISLAÇÃO INFRACONSTITUCIONAL E NO CONJUNTO PROBATÓRIO. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (RE-AgR 931.822, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 4.4.2016)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do NCPC c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no § 11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 22 de junho de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
