@@ -1,0 +1,31 @@
+DECISÃO
+1. Cuida-se de agravo interposto por CORINA FIOREZE contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado:
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA. COMPRA E VENDA DE KIT CASA DE MADEIRA. CASA PRÉ-FABRICADA. DEFEITOS CONSTRUTIVOS. MONTAGEM. AUSENTE PREVISÃO CONTRATUAL.
+O laudo pericial constatou que os defeitos apresentados no imóvel da autora decorrem da construção (montagem) e não do material.
+A ré nega tenha sido contratada para a montagem, mas tão somente teria vendido para a autora o material (kit casa de madeira), cabendo à autora a prova do fato constitutivo de seu direito, nos termos do art. 373, I, do CPC (art. 333, I, do CPC anterior).
+O contrato trazido aos autos dispõe tão somente sobre a compra e venda do material, não incluindo a montagem, a qual é negada pela ré. A prova testemunhal produzida não se presta a comprovar que a ré teria sido contratada também para a montagem, uma vez que o valor do contrato é superior ao décuplo do maior salário mínimo vigente no país ao tempo em que celebrado. Inteligência do art.
+227, do Código Civil.
+Ausente comprovação de que o contrato teria sido executado de forma diversa, diante da impossibilidade de ouvir as testemunhas referidas, as quais, em tese, seriam funcionários da ré e que teriam feito a montagem da casa, visto que não localizadas pelas partes.
+Improcedência do feito mantida tendo em vista que a parte autora não logrou comprovar os fatos constitutivos de seu direito, nos termos do art. 373, I, do CPC.
+APELO DESPROVIDO.
+UNÂNIME.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 6º, III, 12, 14 e 20, 373, I, do CPC. Insurge-se contra a improcedência do pedido. Sustenta, em suma, que há elementos suficientes para comprovar os defeitos na prestação do serviço fornecido pela recorrida.
+Decido.
+2. Ao manter a improcedência do pedido, verifica-se que Câmara Julgadora levou em consideração as particularidades do caso concreto, as quais ensejaram as seguintes conclusões:
+A autora alega ter adquirido da ré um kit casa de madeira, pelo valor de R$ 27.000,00, valor este já adimplido, tendo sido entregue uma casa totalmente danificada, sem condições de habitação, apresentando vários defeitos, da parte estrutural até o simples acabamento, consoante o contrato de fl. 23.
+Em ação cautelar de produção antecipada de provas restou produzido o laudo pericial de fls. 47/64, o qual concluiu, que os defeitos li apresentados pelo imóvel resultam de inúmeros vícios construtivos.
+A ré, por sua vez, afirma que somente teria comercializado o n" kit casa de madeira", não tendo sido contratada para a execução do projeto e montagem da casa, razão pela qual não pode ser "responsabilizada pelos vícios de construção.
+Não se olvida que estejamos frente a uma relação de consumo. Todavia, tal fato não isenta o consumidor de comprovar o fato constitutivo de seu direito, ainda que de forma mínima.
+Assim, diante da negativa da ré de que tenha contratado com a autora, além da venda do material para a construção da casa pré-fabricada, a montagem e construção desta, o ônus de comprovar o alegado é da autora, nos termos do art. 373, I, do CPC.
+E, neste sentido, verifica-se que o contrato firmado entre as partes (fl. 23) tão somente dispõe sobre a compra e venda do material relativo ao "kit casa de madeira" adquirido pela autora, não havendo qualquer previsão no sentido de que a ré também seria responsável pela montagem da casa.
+Salienta-se que, nos termos do Código de Defesa do Consumidor, ainda que possível interpretar cláusula restritiva de forma a beneficiar o consumidor, necessário, pelo menos, que tal cláusula esteja expressa na contratação, o que não se verifica no caso em tela.
+Por outro lado, ainda que a testemunha [NOME], vizinho da autora, tenha referido que as pessoas que construíram se apresentavam como sendo da madeireira e, que todas as vezes que a autora reclamava, vinha outro pessoal para construir a casa, os quais, inclusive, reclamavam que não recebiam por parte da Bilivaldi (fls. 98/100), não há como acolher tal prova para fins de suprir a falta de previsão contratual no sentido de que a ré teria sido contratada pela autora também para a montagem da casa, quando esta nega a contratação.
+Isso porque, nos termos do art. 227, do Código Civil, salvo casos expressos, a prova exclusivamente testemunhal só se admite nos negócios jurídicos cujo valor não ultrapasse o décuplo do maior salário mínimo vigente no país em que celebrados.
+E, no caso dos autos, o contrato firmado entre as partes foi no valor de R$ 27.000,00, o que supera o limite disposto no referido artigo.
+Afora isso, embora baixado o feito em diligência para ouvir as testemunhas referidas pelo vizinho da autora, as quais seriam funcionários da ré, com vista a, eventual comprovação de que o contrato teria sido executado de forma diversa da escrita à fl. 23, tal não foi possível à medida que as partes não localizaram as referidas testemunhas.
+Em vista disso, não havendo cláusula expressa de que a ré seria a responsável pela montagem e construção da casa adquirida pela autora, não há como imputar a ela a responsabilidade pelos defeitos apresentados, uma vez que o laudo pericial concluiu que estes decorrem da má-construção da casa, impondo-se a manutenção da sentença de I improcedência.
+Nesse contexto, o acolhimento da pretensão recursal exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+Merece destaque, sobre o tema, o consignado no julgamento do REsp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da Súmula 7-STJ".
+3. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
