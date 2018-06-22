@@ -1,0 +1,36 @@
+DECISÃO
+
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Ação de Cobrança - Estabelecimento de ensino - Preliminar de prescrição do débito cobrado - Art. 206, parágrafo 3o do Código Civil - Não aplicabilidade - Obrigações acessórias que não possuem independência em relação à dívida principal - Prazo de 5 anos de prescrição não decorrido, entre o vencimento da primeira parcela em aberto e a data da distribuição da ação - Irrelevância  Ausência de prova da rescisão contratual - Relação consumerista, porém não é passível de inversão do ônus da prova  Ausência de hipossuficiência para provar fatos alegados, por parte do consumidor-Ausência de verossimilhança - Réu que não se desincumbiu do seu ônus probatório, conforme estabelecido no artigo 333, inciso II do Código de Processo Civil - Cobrança legítima - SENTENÇA MANTIDA - RECURSO DESPROVIDO." (fls.307)
+Opostos embargos de declaração, os mesmos foram acolhidos (e-STJ, fls. 321/325).
+Nas razões do recurso especial, a parte agravante alega violação ao art. 85, §2º do Código de Processo Civil de 2015, sustentando, em síntese, que a decisão deve ser reformada no tocante aos honorários arbitrados em 10% sobre o saldo devedor atualizado, pois não houve trabalho excessivo por parte do patrono da parte agravada e o mesmo foi de pouca complexidade, tendo sido fixado em valor excessivo.
+Contrarrazões apresentadas às fls. 345/350.
+É o relatório. Decido.
+De início, cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Quanto à alegada violação do art. 85, §2º do CPC/15, tem-se que o Tribunal de origem, diante do contexto fático-probatório dos autos, concluiu ser adequada a verba honorária arbitrada em 10% do valor da condenação em razão do trabalho adequadamente desempenhado pelos patronos da parte agravada, in verbis:
+"4. Pela análise do trabalho desempenhado pelos patronos do autor, é possível constatar que o valor arbitrado a título de honorários advocatícios não merece reparo.
+O valor dos honorários advocatícios fixado na sentença é adequado para a remuneração dos patronos do requerente. Ao compulsar os autos, nota-se que os advogados do demandante desempenharam adequadamente seu trabalho, elaborando a petição inicial e diversas petições intermediárias, de modo que o arbitramento de honorários advocatícios em 10% do valor da condenação não merece redução, principalmente por se tratar de porcentagem mínima sentenciada.
+O art. 85, § 2o, do CPC/2015 indica que os fatores a serem observados para fixação dos honorários advocatícios devem ser: o grau de zeio do profissional, o lugar de prestação dos serviços, a natureza e importância da causa, o trabalho realizado pelo patrono e o tempo exigido para o seu serviço.
+Considerados todos estes fatores, vislumbra-se razoável para bem remunerar o trabalho desempenhado pelos patronos do requerente durante a tramitação do processo em primeiro grau de jurisdição a fixação de honorários advocatícios em 10% do valor da condenação." (e-STJ, fls. 324/325)
+Ao decidir por este percentual, a decisão recorrida está de acordo com a jurisprudência deste Superior Tribunal de Justiça.
+Vejamos:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO (ART. 1.042 DO CPC/15) - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AUTORA.
+1. A jurisprudência do STJ firmou-se no sentido de que a impugnação, no agravo, de capítulos autônomos da decisão recorrida apenas induz a preclusão das matérias não impugnadas.
+2. Segundo o entendimento firmado por este Superior Tribunal de Justiça, em se tratando de ação de cunho preponderantemente condenatório, deverão ser observados os limites de 10% e 20% descritos no art. 85, § 2º, do CPC/15, sobre o valor da condenação, para fins de fixação dos honorários advocatícios. Precedentes.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 1028484/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/04/2018, DJe 02/05/2018)
+"AGRAVO INTERNO EM AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA. HONORÁRIOS. ARTIGO 20, § 3º DO CPC/1973. PERCENTUAL. 10% A 20%. VALOR DA CONDENAÇÃO. APURAÇÃO. IMPOSSIBILIDADE. SÚMULA Nº 7 DESTA CORTE. NÃO PROVIMENTO DO RECURSO.
+1. Os honorários arbitrados com base no artigo 20, § 3º do CPC/1973 devem obedecer os parâmetros de 10 a 20% sobre o valor da condenação.
+2. Para se apurar o valor da condenação proferida na ação reivindicatória, seria necessário o reexame dos aspectos fáticos da lide, o que não enseja recurso especial ante o teor da Súmula nº 7 desta Corte.
+3. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp 910.345/RN, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 06/06/2017, DJe 20/06/2017)
+Por tudo, constatado que os honorários sucumbenciais foram fixados em patamar razoável, não há que se falar em exorbitância ou irrisoriedade da mesma, de modo que não compete a esta Corte Superior promover a revisão pretendida em sede de recurso especial, ante a incidência da Súmula 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONDOMÍNIO. CERCEAMENTO DE DEFESA. ÔNUS DA PROVA. MAJORAÇÃO DE HONORÁRIOS.MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS. SUMULA 7 DO STJ.AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do art. 1.022 do CPC/2015. Isso porque, embora rejeitados os embargos de declaração, todas as matérias foram devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. As conclusões do acórdão recorrido em relação ao ônus da prova, ausência de cerceamento de defesa, e as oriundas da interpretação de normas condominiais e associativas não podem ser revistas por esta Corte Superior, pois demandaria, necessariamente, reexame de fatos, provas, e cláusulas contratuais, o que é vedado em sede de recurso especial, em razão dos óbices das Súmulas 5 e 7 do STJ.
+3. A jurisprudência desta Corte é firme no sentido de que a majoração ou minoração do valor arbitrado a título de honorários advocatícios enseja o revolvimento de matéria fático-probatória, além das peculiaridades do caso concreto, salvo quando o valor se revelar irrisório ou exorbitante, o que não se verifica no presente caso.
+4. Agravo interno não provido.
+(AgInt no AREsp 1163544/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 07/12/2017, DJe 14/12/2017)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial. Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 10% para 11% do valor da condenação.
+Publique-se.
