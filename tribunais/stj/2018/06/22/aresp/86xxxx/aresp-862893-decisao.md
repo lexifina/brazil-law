@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ Fls.129/130):
+"AGRAVO INTERNO. DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO RECURSO DE APELAÇÃO.
+Não desmerecida pelas razões deduzidas no agravo interno, subsiste a decisão que negou seguimento ao recurso de apelação em conformidade com o art. 557 do Código de Processo Civil.
+APELAÇÕES CÍVEIS. RESPONSABILIDADE CIVIL.
+AÇÃO DE OBRIGAÇÃO DE FAZER C/C REPARAÇÃO DE DANO MORAL. SISTEMA DE AVALIÇÃO DE RISCO DE CRÉDITO (ESCORE).
+PRÁTICA COMERCIAL LÍCITA. ENTENDIMENTO FIRMADO EM RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. O Col. Superior Tribunal de Justiça, no julgamento de Recurso Especial Representativo de Controvérsia (REsp 1.419.697/RS), considerou lícita a utilização da ferramenta que atribui pontuação ao consumidor para avaliação de risco de crédito. Alinhando-me a tal paradigma, revejo posicionamento anterior, para considerar não configurado dano moral presumido em decorrência da utilização da ferramenta de avaliação de crédito mantida pela ré. O reconhecimento da responsabilidade das empresas fornecedoras do serviço fica condicionado à comprovação da indevida recusa de crédito ao consumidor, em razão da utilização de dados excessivos, incorretos ou desatualizados.
+CASO CONCRETO. DANO MORAL. NÃO CONFIGURAÇÃO. Não tendo a parte autora demonstrado que teve seu crédito cerceado em virtude da utilização de informações extraídas do sistema da ré, é improcedente o pedido de indenização por danos morais. Inversão do ônus da prova que não ocorre de forma automática, quando inexistente a hipossuficiência probatória, como no caso dos autos.
+Desatendimento ao disposto no art. 333, 1, do CPC.
+Reforma da sentença, para julgar improcedente o pedido indenizatório.
+PEDIDO COMINATÓRIO. NÃO DIVULGAÇÃO DOS DADOS. DESCABIMENTO. Reconhecida a legalidade da abertura do registro de informações no sistema mantido pela ré, é corolário lógico o indeferimento do pedido de pedido de obrigação de fazer, consistente na não divulgação dos dados.
+AGRAVO INTERNO DESPROVIDO."
+Nas razões do recurso especial, a parte agravante alega violação dos arts. 2º, III, 4º e 11 da Lei 12.414/2011; artigo 21, do CC/2002; artigo 460 e 535 do CPC. Sustenta, em síntese: (a) omissão do acórdão recorrido porque não examinou as questões apresentadas na petição de embargos declaratórios; (b) defende que é o objeto da presente demanda é ver reconhecida como indevida a captação e manutenção de seus dados pessoais em sistema de informação interno sem sua autorização, motivo pelo qual não se aplicaria o entendimento do Resp 1.419.697/RS (543-C, do CPC/73), que afirmou a legalidade do sistema de "credit scoring"; (c) assevera, que mesmo interpelado o Tribunal não se manifestou sobre a tese que embasa o presente recurso especial (460 e 535 do CPC/73); (d) defende a necessidade de autorização do consumidor para alimentar seus bancos de dados com informações pessoais, principalmente quando a empresa comercializa essas informações;
+É o relatório. Decido.
+Na hipótese em exame, aplica-se o Enunciado nº 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+O acórdão recorrido foi assim fundamentado:
+(..) cumpre registrar que a matéria posta em liça encontra entendimento sedimentado no superior tribunal de justiça, em decorrência do recente julgamento de recurso especial representativo de controvérsia.
+Trata-se do julgamento, em 12/11/2014, do recurso especial n. 1.419.697/rs, que versa sobre a utilização de sistema de avaliação de risco de concessão de crédito a consumidores, o qual foi processado pelo rito do artigo 543-c, do código civil, in verbis:
+(..)
+Conforme se depreende do entendimento manifestado pela Corte Superior, no julgamento do recurso representativo da controvérsia, a ferramenta contendo dados para avaliação do risco de crédito dos consumidores foi considerada lícita, desde que observados certos limites, notadamente os relativos à privacidade e transparência, quando não houver excesso de informações, ou uso de informações consideradas sensíveis.
+O reconhecimento da responsabilidade das empresas fornecedoras do serviço de avaliação do crédito, na esteira do referido acórdão, restou condicionada à comprovação da indevida recusa de crédito ao consumidor, em razão da utilização de dados excessivos, incorretos ou desatualizados, como se vê da ementa do julgado:
+"RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA (ART. 543-C DO CPC). TEMA 710/STJ. DIREITO DO CONSUMIDOR. ARQUIVOS DE CRÉDITO. SISTEMA "CREDIT SCORING". COMPATIBILIDADE COM O DIREITO BRASILEIRO. LIMITES.
+DANO MORAL.
+I - TESES:
+(..)
+4) Apesar de desnecessário o consentimento do consumidor consultado, devem ser a ele fornecidos esclarecimentos, caso solicitados, acerca das fontes dos dados considerados (histórico de crédito), bem como as informações pessoais valoradas.
+5) O desrespeito aos limites legais na utilização do sistema "credit scoring", configurando abuso no exercício desse direito (art. 187 do CC), pode ensejar a responsabilidade objetiva e solidária do fornecedor do serviço, do responsável pelo banco de dados, da fonte e do consulente (art. 16 da Lei n.12.414/2011) pela ocorrência de danos morais nas hipóteses de utilização de informações excessivas ou sensíveis (art. 3º, § 3º, I e II, da Lei n.12.414/2011), bem como nos casos de comprovada recusa indevida de crédito pelo uso de dados incorretos ou desatualizados.
+(..)
+O fato de se tratar de uma metodologia de cálculo do risco de concessão de crédito, a partir de modelos estatísticos, que busca informações em cadastros e bancos de dados disponíveis no mercado digital, não afasta o dever de cumprimento desses deveres básicos, devendo-se apenas ressalvar dois aspectos:
+De um lado, a metodologia em si de cálculo da nota de risco de crédito ("credit scoring") constitui segredo da atividade empresarial, cujas fórmulas matemáticas e modelos estatísticos naturalmente não precisam ser divulgadas (art. 5º, IV, da Lei 12.414/2011: .."resguardado o segredo empresarial").
+De outro lado, não se pode exigir o prévio e expresso consentimento do consumidor avaliado, pois não constitui um cadastro ou banco de dados, mas um modelo estatístico.
+Com isso, não se aplica a exigência de obtenção de consentimento prévio e expresso do consumidor consultado (art. 4º).
+Isso não libera, porém, o cumprimento dos demais deveres estabelecidos pelo CDC e pela lei do cadastro positivo, inclusive a indicação das fontes dos dados considerados na avaliação estatística, como, aliás, está expresso no art. 5º, IV, da própria Lei nº 12.414/2011 ("São direitos do consumidor cadastrado .. conhecer os principais elementos e critérios considerados para a análise do risco de crédito, resguardado o segredo empresarial").
+(..)
+Assim sendo, não prosperam a teses da parte recorrente: a que assevera de omissão, bem como, de julgamento extra petita, nem a que defende que o julgamento do Tribunal estadual não analisou a tese apresentada no recurso especial, que versa sobre a necessidade de consentimento prévio para cadastro e manutenção das informações pessoais do consumidor em banco de dados.
+Portanto, incidente ao caso o teor da Súmula 83/STJ.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
