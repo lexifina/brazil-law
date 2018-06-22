@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu recurso especial fundamentado no art. 105, III, "a", da Constituição Federal, impugnando acórdão assim ementado (e-STJ, fl. 887):
+PLANO DE SAÚDE - Anomalias congênitas - Necessidade de fisioterapia e outros tratamentos em home care - Negativa de cobertura - Cláusula restritiva - Abusividade - A Lei n. 9.656/98, que dispõe sobre os planos e seguros privados de assistência à saúde, deve ser aplicada de forma harmônica e com observância das normas que regem a proteção e defesa do consumidor, reconhecidamente vulnerável no mercado de consumo (art. 4º, inciso I, Lei n. 8.078/90), e que são de ordem pública e social, estabelecidas na Lei n. 8.078/90, gozando, ainda, o consumidor de proteção constitucional (art. 5º, inciso XXXII, e art. 170, inciso V) - Recurso desprovido.
+Os embargos declaratórios opostos foram rejeitados
+Nas razões do especial, a agravante aponta violação dos arts. 10, § 4º, 12, 17-A e 33 da Lei n. 9.656/1998; 1º, 3º e 4º, III, da Lei n. 9.961/2000; e 6º da Lei n. 12.376/2010.
+Alega que o fornecimento do serviço de home care não se justifica, devendo ser negada a sua prestação. Sustenta que não é devido o tratamento domiciliar, pois não havia previsão para ele no caso.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Verifico que o acórdão recorrido está em consonância com o entendimento pacificado nesta Corte, razão pela qual o recurso especial esbarraria no óbice sumular n. 83 do STJ, aplicável aos recursos interpostos com base em ambas as alíneas (AgInt no AREsp 720.037/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 3.5.2016, DJe 11.5.2016).
+Isso porque, como sabido, é permitido às operadoras de plano de saúde limitarem a cobertura de determinadas doenças, de custeio não obrigatório, sendo-lhes vedado, contudo, limitar o procedimento e insumos médico-terapêuticos indicados por profissional habilitado na busca da cura, ainda que se trate de tratamento domiciliar.
+É o que se depreende da leitura do seguinte trecho (fls. 888-891, e-STJ):
+A autora, beneficiária de Plano de Saúde da ré, é portadora de paralisia cerebral tipo Diplegia Espástica Nível Funcional III, em consequência de seu nascimento prematuro, e diante das anomalias congênitas, necessitou de procedimento cirúrgico cuja recuperação torna imprescindível a realização de atendimento multidisciplinar, conforme Relatórios Médicos e Fisioterápicos de fls. 15/26, havendo também prescrição de tratamento em regime de home care, com fisioterapia neurológica e terapia ocupacional, ambas pelo método "Bobath", equoterapia e psicologia infantil (fls. 29).
+A justificativa da resistência oferecida pela ré é a existência de cláusula expressa no contrato excluindo da cobertura os procedimentos sem previsão no Rol da ANS.
+ .. .
+Havendo a cobertura da doença, é nula a disposição contratual que desobriga a cobertura de procedimentos e inválidas as limitações, uma vez prescritas, porque necessárias ao restabelecimento do paciente, devendo ser cobertos integralmente os serviços.
+ .. .
+Dessa forma, era obrigatória a cobertura dos procedimentos elencados na inicial e do tratamento de home care prescrito, frente aos princípios e normas consumeristas.
+Assim é a jurisprudência consolidada deste Superior Tribunal de Justiça:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS NÃO IMPUGNADOS. ARTIGO 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015. PLANO DE SAÚDE. LIMITAÇÃO DE TRATAMENTO HOME CARE. RECOMENDADO POR PROFISSIONAL HABILITADO. IMPOSSIBILIDADE. PRECEDENTES. SÚMULA Nº 83/STJ.
+1. Nos termos do artigo 1.021, § 1º, do Código de Processo Civil/2015 é inviável o agravo interno que deixa de impugnar especificadamente os fundamentos da decisão agravada.
+2. O contrato de plano de saúde pode limitar as doenças a serem cobertas não lhe sendo permitido, ao contrário, delimitar os procedimentos, exames e técnicas necessárias ao tratamento da enfermidade constante da cobertura. Precedentes. Súmula nº 83/STJ.
+3. Agravo interno não conhecido.
+(AgInt no AREsp 622.630/PE, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 12.12.2017, DJe 18.12.2017.)
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544, DO CPC) - DEMANDA POSTULANDO CUMPRIMENTO DE OBRIGAÇÃO DE FAZER CONSISTENTE NO FORNECIMENTO DE MEDICAMENTO PARA USO DOMICILIAR - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO AGRAVO, MANTIDA A INADMISSÃO DO RECURSO ESPECIAL. INSURGÊNCIA DA OPERADORA DE PLANO DE SAÚDE.
+1. Violação do artigo 535 do CPC não configurada. É clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia, revelando-se desnecessário ao magistrado rebater cada um dos argumentos declinados pela parte.
+2. A jurisprudência do STJ é no sentido de que, ainda que admitida a possibilidade de o contrato de plano de saúde conter cláusulas limitativas dos direitos do consumidor (desde que escritas com destaque, permitindo imediata e fácil compreensão, nos termos do § 4º do artigo 54 do Código Consumerista), revela-se abusivo o preceito excludente do custeio do medicamento prescrito pelo médico responsável pelo tratamento do beneficiário, ainda que ministrado em ambiente domiciliar.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 624.402/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19.3.2015, DJe 26.3.2015.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. 1. SERVIÇO DE HOME CARE PRESCRITO PELO MÉDICO DO BENEFICIÁRIO. RECUSA INDEVIDA À COBERTURA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULAS 7 E 83 DO STJ. 2. INDENIZAÇÃO POR DANOS MORAIS. AUSÊNCIA DE PLEITO NA INICIAL E DE CONDENAÇÃO. FALTA DE INTERESSE RECURSAL CONFIGURADA. 3. AGRAVO INTERNO IMPROVIDO.
+1. O serviço de Home Care (tratamento domiciliar) constitui desdobramento do tratamento hospitalar contratualmente previsto, que não pode ser limitado pela operadora do plano de saúde. Na dúvida, a interpretação das cláusulas dos contratos de adesão deve ser feita da forma mais favorável ao consumidor.
+2. Indenização por danos morais não foi objeto de pleito inicial e tampouco houve condenação a esse respeito. Ausência de interesse recursal.
+3. Agravo interno improvido.
+(AgInt no AREsp 1.071.680/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20.6.2017, DJe 26.6.2017.)
+CIVIL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. CONSUMIDOR. PLANO DE SAÚDE. COBERTURA. TRATAMENTO HOME CARE. RECUSA INJUSTIFICADA. CLÁUSULA ABUSIVA. TRIBUNAL ESTADUAL ALINHADO À JURISPRUDÊNCIA DESTA CORTE. SÚMULA Nº 83 DO STJ. PRECEITOS LEGAIS NÃO PREQUESTIONADOS. SÚMULA Nº 282 E 356 DO STF. CONCLUSÕES DO ACÓRDÃO LOCAL ACERCA DA NECESSIDADE DO TRATAMENTO PLEITEADO. SÚMULA Nº 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Inaplicabilidade do NCPC a este julgamento ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. Não se conhece de recurso especial se ausente o prequestionamento dos preceitos ditos violados, ainda que opostos embargos de declaração. Súmulas n. 282 e 356 do STF.
+3. O serviço de home care (tratamento domiciliar) constitui desdobramento do tratamento hospitalar contratualmente previsto que não pode ser limitado pela operadora do plano de saúde. Na dúvida, a interpretação das cláusulas dos contratos de adesão deve ser feita da forma mais favorável ao consumidor (REsp nº 1.378.707/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, DJe 15/6/2015). Aplicação da Súmula nº 83 do STJ.
+4. A revisão das conclusões do acórdão recorrido acerca da necessidade do consumidor em receber o tratamento home care é obstado, na via especial, pela Súmula nº 7 do STJ.
+5. Agravo regimental não provido.
+(AgRg no AREsp 835.018/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 2.2.2017, DJe 16.2.2017.)
+Cumpre ressaltar que o Superior Tribunal de Justiça consolidou o entendimento de que se revela abusivo o preceito excludente do custeio do medicamento prescrito pelo médico responsável pelo tratamento do beneficiário, ainda que ministrado em ambiente domiciliar.
+A propósito, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. HOME CARE. RECUSA INDEVIDA. DANO MORAL. INDENIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. "O contrato de plano de saúde pode limitar as doenças a serem cobertas não lhe sendo permitido, ao contrário, delimitar os procedimentos, exames e técnicas necessárias ao tratamento da enfermidade constante da cobertura" (AgInt no AREsp n. 622.630/PE, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 18/12/2017).
+2. O recurso especial não comporta exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+3. No caso concreto, o Tribunal de origem concluiu que seria indevida a recusa ao procedimento a que a agravada deveria ser submetida. Alterar esse entendimento demandaria reexame das provas produzidas nos autos, vedado em recurso especial. 4. A recusa indevida da operadora de plano de saúde a autorizar o tratamento do segurado é passível de condenação por dano moral, uma vez que agrava a situação de aflição e angústia do enfermo, comprometido em sua higidez físico-psicológica. Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.049.408/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 22.3.2018, DJe 2.4.2018.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSUMIDOR. PLANO DE SAÚDE. PRESTAÇÃO DE SERVIÇO HOME CARE. TRATAMENTO SOLICITADO PELO MÉDICO. REVISÃO DE CLÁUSULA CONTRATUAL ABUSIVA. AGRAVO DESPROVIDO.
+1. De acordo com a orientação jurisprudencial do STJ, o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de tratamento utilizado para a cura de cada uma, sendo abusiva a cláusula contratual que exclui tratamento domiciliar quando essencial para garantir a saúde ou a vida do segurado.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1.204.136/PE, Rel. Ministro LÁZARO GUIMARÃES, DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO, QUARTA TURMA, julgado em 22.3.2018, DJe 2.4.2018.)
+Em face do exposto, nego provimento ao agravo.
+Por fim, tendo o acórdão recorrido sido publicado já na vigência do novo diploma processual, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte agravada, nos moldes do previsto pelo art. 85, § 11, do atual Código de Processo Civil.
+Intimem-se.
