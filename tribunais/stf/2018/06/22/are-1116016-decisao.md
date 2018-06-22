@@ -1,0 +1,17 @@
+Trata-se de agravo contra decisão em que se negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “APELAÇÃO. RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANOS MORAIS. AGRESSÃO DE DETENTO. IMPROCEDÊNCIA. INCONFORMISMO. RESPONSABILIDADE OBJETIVA DO ESTADO, ANTE A OMISSÃO ESPECÍFICA. DEVER DE GARANTIA DA INTERGRIDADE FÍSICA DO PRESO VERIFICADO. DEVER DE INDENIZAR CARACTERIZADO. INVERSÃO DO ÔNUS DE SUCUMBÊNCIA. RECURSO PROVIDO” (fl. 186).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, violação dos arts. 5°, XLIV; e art. 37, § 6°, da mesma Carta.
+    O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República Carlos Alberto Vilhena, opinou pelo desprovimento do recurso (fls. 277-281).
+    A pretensão recursal não merece acolhida.
+    Com efeito, destaco a correção do parecer ministerial ao asseverar que a apreciação da lide requer o necessário reexame da matéria de fato, o que atrai a incidência da Súmula 279/STF.
+    Nesse sentido, menciono os seguintes precedentes desta Corte em casos análogos:
+    “Agravo regimental no recurso extraordinário com agravo. 2. Direito Administrativo. 3. Responsabilidade civil do Estado. Indenização por danos morais. Morte de preso em estabelecimento prisional. Suicídio. 4. Acórdão recorrido em consonância com a jurisprudência desta Corte. Incidência da Súmula 279. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento” (ARE 700.927-AgR/GO, Rel. Min. Gilmar Mendes, Segunda Turma).
+    “EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONSTITUCIONAL E ADMINISTRATIVO. MORTE DE PRESO SOB CUSTÓDIA DO ESTADO. OMISSÃO ESTATAL. INTEGRIDADE FÍSICA DO PRESO. RESPONSABILIDADE DO ESTADO. AGRAVO IMPROVIDO. I – O Tribunal possui o entendimento de que o Estado se responsabiliza pela integridade física do preso sob sua custódia, devendo reparar eventuais danos. Precedentes. II - Para se chegar à conclusão contrária à adotada pelo acórdão recorrido quanto à existência de nexo causal entre a omissão do Estado e o resultado morte, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. III - Agravo regimental improvido”
+(AI 799.789-AgR/SP, de minha relatoria, Primeira Turma).
+    Ademais, o acórdão recorrido ajusta-se à jurisprudência desta Corte firmada no sentido de que o Estado tem o dever de zelar pela integridade física do preso. Cito, por oportuno, ementa ilustrativa do entendimento do Tribunal sobre a questão:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Morte de detento sob custódia da Administração Pública. Responsabilidade objetiva do Estado. Art. 37, § 6º, da Constituição Federal. Missão do Estado de zelar pela integridade física do preso. Precedentes do STF. 3. Discussão acerca da existência de culpa do Estado. Necessidade do reexame do conjunto fático-probatório. Súmula 279. 4. Agravo regimental a que se nega provimento“ (ARE 662.562-AgR/GO, Rel. Min. Gilmar Mendes).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do CPC). Com base no art. 85, § 11, do Código de Processo Civil, majoro em 20% os honorários advocatícios anteriormente fixados pelo juízo de origem, observados os limites do art. 85, § 2º e § 3º, do CPC.
+    Publique-se.
+    Brasília, 22 de junho de 2018.
+Ministro Ricardo Lewandowski
+Relator
