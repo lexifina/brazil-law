@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de DIEGO DA SILVA FERREIRA MARQUES contra acórdão do Tribunal de Justiça do Estado de São Paulo (Agravo de Execução Penal n. 0000376-82.2018.8.26.0154).
+Infere-se dos autos que o Juízo das Execuções Criminais da Comarca de São José do Rio Preto/SP concedeu o indulto de penas ao paciente (fls. 31/32).
+Irresignado, o Ministério Público interpôs agravo no Tribunal de origem, que deu provimento ao recurso, cassando a decisão monocrática. O julgamento ficou assim resumido:
+Execução Penal - Indulto - Sentenciado que cumpre pena pelo crime de tráfico de drogas - Constituição Federal que impede a concessão de graça (indulto individual) aos acusados de crime tráfico - Art. 5º, inciso XLIII, da Constituição Federal - Óbice também encontrado no art. 2º, inciso II, da Lei nº 8.072/90 e art. 44, caput, da Lei nº 11.343/2006 - Recurso provido (fl. 16).
+No presente writ, o impetrante sustenta que o paciente sofre constrangimento ilegal pois o tráfico privilegiado não possui natureza hedionda, conforme entendeu o Pleno do Supremo Tribunal Federal no julgamento do HC n. 118.533/MS, da Relatoria da Min. Cármen Lúcia, publicado no DJe de 19/9/2016.
+O pedido liminar foi deferido às fls. 58/60, para suspender os efeitos do acórdão proferido no Agravo de Execução n. 0000376-82.2018.8.26.0154, até o julgamento final do presente habeas corpus, restabelecendo a decisão do Juízo das Execuções Criminais.
+Prestadas as informações pela autoridade coatora, o Ministério Público Federal opinou pela concessão da ordem (fls. 70/75).
+É o relatório.
+Decido.
+O presente habeas corpus não merece ser conhecido, pois impetrado em substituição a recurso próprio. Contudo, passo à análise dos autos para verificar a possível existência de ofensa à liberdade de locomoção do ora paciente capaz de justificar a concessão da ordem de ofício.
+Esta Corte possuía o entendimento de que a causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/06 não afasta a hediondez do tráfico de drogas. Nesse sentido, foi editado o enunciado n. 512 da Súmula do Superior Tribunal de Justiça - STJ.
+Acontece que sobreveio julgamento do Plenário do Supremo Tribunal Federal em sentido contrário, ou seja, afirmando que o tráfico de entorpecentes privilegiado (art. 33, § 4º, da Lei n. 11.313/2006) não se harmoniza com a hediondez do tráfico de entorpecentes definido no caput e § 1º do art. 33 da Lei de Tóxicos (HC 118533, Rel. Min. CÁRMEN LÚCIA, julgado em 23/6/2016, DJe de 19/9/2016).
+Esse entendimento foi acompanhado pelas Turmas que julgam matéria penal nesta Corte Superior, culminando com o cancelamento, pela Terceira Seção, do mencionado enunciado n. 512 da Súmula do STJ.
+Confiram-se, a propósito, os seguintes julgados:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO. TRÁFICO DE DROGAS PRIVILEGIADO. NATUREZA DE CRIME COMUM. AFASTAMENTO DA HEDIONDEZ. RECENTE ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Acompanhando o entendimento firmado pelo Plenário do Supremo Tribunal Federal, nos autos do Habeas Corpus 118.533/MS, a Quinta e a Sexta Turma deste Superior Tribunal de Justiça, revendo posição anterior, passaram a adotar orientação no sentido de que "o crime de tráfico privilegiado de drogas não tem natureza hedionda".
+3. Habeas corpus não conhecido. Ordem concedida de ofício, para afastar a hediondez do crime tipificado no art. 33, § 4º, da Lei n. 11.343/2006 e determinar o cálculo para fins de concessão de benefícios, com base nas frações temporais próprias de crimes comuns (HC 377.599/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 16/03/2017).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. ART. 1.030, I, B, DO CPC. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM ENTENDIMENTO FIRMADO EM RECURSO REPETITIVO. DESCABIMENTO DO RECURSO DE AGRAVO. CABIMENTO DA INSURGÊNCIA POR MEIO DE AGRAVO REGIMENTAL OU INTERNO, NO TRIBUNAL DE ORIGEM. AGRAVO NÃO CONHECIDO. IMPOSSIBILIDADE DE APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. PRECEDENTES. ILEGALIDADE FLAGRANTE. TRÁFICO ILÍCITO DE DROGAS NA SUA FORMA PRIVILEGIADA. ART. 33, § 4º, DA LEI N. 11.343/2006. CRIME NÃO EQUIPARADO A HEDIONDO. REVISÃO DO TEMA 600. ENTENDIMENTO DO PLENO DO SUPREMO TRIBUNAL FEDERAL, NO JULGAMENTO DO HC 118.533/MS. REGIME PRISIONAL. GRAVIDADE EM ABSTRATO.
+ ..
+3. Consoante a recente jurisprudência desta Corte Superior, na linha do entendimento firmado pelo Supremo Tribunal Federal, o tráfico ilícito de drogas, na sua forma privilegiada (art. 33, § 4º, da Lei n. 11.343/2006), não é crime equiparado a hediondo.
+4. Constatado equívoco no acórdão recorrido, quanto ao regime inicial de cumprimento de pena, cabível a reparação de ofício da ilegalidade.
+5. Agravo regimental improvido. Habeas corpus concedido de ofício para afastar o caráter hediondo do delito de tráfico de entorpecentes privilegiado e fixar o regime inicial semiaberto. Ressalvado o entendimento do Relator, deferido o pedido ministerial de fls. 455/456 (AgRg no AREsp 994.487/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 02/03/2017).
+No caso, o acórdão impugnado, conforme se extrai do trecho a seguir, encontra-se em dissonância com o atual entendimento desta Corte:
+ ..
+E, em que pesem os argumentos expostos na r. decisão recorrida, forçoso concluir que procede o inconformismo manifestado pelo agravante, na esteira, aliás, do parecer da d. Procuradoria Geral de Justiça.
+Isso porque, tratando-se de condenação por infração ao art. 33, caput, da Lei nº 11.343/2006 (ainda que aplicado o § 4º, que não constitui crime autônomo, mas apenas uma hipótese de causa de diminuição de pena), o agravado não teria mesmo direito ao benefício do indulto.
+Afinal, o art. 5º, inciso XLIII, da Constituição Federal expressamente estabeleceu que a lei deveria considerar crimes inafiançáveis e insuscetíveis de graça ou anistia a prática de tortura, o tráfico ilícito de entorpecentes e drogas afins, o terrorismo e os definidos como crimes hediondos.
+Ora, "graça" nada mais é que o indulto individual, ou seja, enquanto aquela é destinada a uma pessoa específica, o indulto, espécie do gênero, é dirigido a um número indeterminado de sentenciados que se enquadram nas hipóteses nele indicadas.
+Portanto, na esteira desse raciocínio, inviável a concessão de indulto aos condenados por esse delito.
+ ..
+Desse modo, o Decreto Presidencial nº 9.246/2017 não poderia autorizar a concessão de indulto aos crimes de tráfico, mesmo que aplicada a causa de diminuição de pena, já que é diploma normativo hierarquicamente inferior à Constituição Federal, e não pode a ela se sobrepor.
+Nesse sentido, o Órgão Especial desta Corte já reconheceu a inconstitucionalidade de dispositivo que assegurava a possibilidade de indulto a crime hediondo ou equiparado:
+ ..
+De mais a mais, na esteira do mandamento constitucional, o legislador deixou consignado tanto no art. 2º, inciso I, da Lei nº 8.072/90, como no art. 44, caput, da Lei nº 11.343/2006, a impossibilidade de concessão de indulto para o crime de tráfico equiparado a hediondo.
+Sendo assim, havendo óbice constitucional e legal, o provimento do recurso, para cassar o benefício do indulto concedido ao sentenciado, é medida que se impõe (fls. 17/21).
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem, de ofício, para afastar a hediondez do delito de tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/06) e restabelecer a decisão proferida pelo Juízo das Execuções, confirmando a liminar anteriormente deferida.
+Publique-se.
+Intimações necessárias.
