@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto por CAIXA DE PREVIDENCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Cumprimento de sentença. Homologação do laudo pericial. Agravo de instrumento. Cerceamento de defesa afastado. Decisão bem fundamentada. Esclarecimentos prestados. Laudo ratificado após manifestação do réu.
+Cálculos embasados no Acórdão que decidiu o processo e no instrumento de mútuo celebrado entre as partes.
+Equívoco no cálculo não demonstrado. Precedente TJSP.
+Decisão mantida. Recurso desprovido." (e-STJ, fl. 172/177)
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 335/338).
+Nas razões do recurso especial, a parte agravante alega divergência jurisprudencial e violação dos seguintes dispositivos: 1) art. 494 do Código Civil, sustentando a ocorrência de erro de cálculo realizado pela perita oficial; 2) art. 884 do Código Civil, porque a diferença nos cálculos além de gerar prejuízo à recorrente, gera enriquecimento ilícito dos recorridos; 3) art. 370 do CPC/2015, porque não foi buscada a verdade real dos fatos, uma vez que evidenciado o erro de cálculo, este deveria ter sido corrigido.
+Apresentadas contrarrazões às fls. 355/361 (e-STJ).
+É o relatório. Decido.
+Com relação ao alegado erro de cálculo, verifica-se que o Tribunal de origem concluiu que a parte recorrente não foi capaz de demonstrar a alegada incorreção no cálculo judicial realizado pela perita do juízo. Leia-se, a propósito, o seguinte trecho do voto condutor do mencionado julgamento, in verbis:
+"Ora, não há que se falar em cerceamento de defesa ou em erro de jugalmento.
+O exequente teve a oportunidade de impugnar o laudo apresentado e recebeu os esclarecimentos devidos da expert.
+Posteriomente, repisou seus argumentos, insistindo em determinada forma de cálculo, sem se manifestar sobre o equívoco apontado pela expert em sua planilha de cálculo.
+Quanto à decisão guerreada, essa expôs, de forma clara, as razões para a homologação do laudo pericial, indicando a consonância dos cálculos com o Acórdão e com o contrato entre as partes.
+No caso, considera-se que foram prestados os esclarecimentos necessários, e que demonstrou-se que os cálculos estão bem embasados no v. acórdão que decidiu os embargos à execução e no instrumento de mútuo celebrado entre as partes.
+Quanto ao trabalho da perita, a agravante limitou-se a afirmar que "os cálculos seguem raciocínio sem fundamento em modelo de amortização conhecido", "que não foi demonstrada a evolução do saldo devedor do contrato de financiamento" e que os encargos não foram corretamente aplicados  fls. 139/142 .
+Dessa forma, não logrou demonstrar a incorreção no cálculo judicial, apenas insistindo na aplicação de uma forma de cálculo que lhe favorece." (e-STJ, fl. 175/176 - grifo nosso)
+Nesse contexto, a alteração do acórdão recorrido quanto à existência de erro de cálculo demandaria reexame do conjunto fático probatório dos autos, o que é inviável nesta instância especial, a teor do que dispõe a Súmula 7 deste Pretório, que impede a análise do recurso especial interposto por ambas as alíneas do permissivo constitucional. Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE PRESTAÇÃO DE CONTAS - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação ao artigo 535 do CPC/73. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta, como ocorreu na hipótese.
+2. A subsistência de fundamento inatacado apto a manter a conclusão do acórdão impugnado impõe o desprovimento do apelo, a teor do entendimento disposto na Súmula 283 do STF, aplicável por analogia. Precedentes.
+3. O Tribunal local concluiu, após a análise do acervo probatório dos autos, que as partes não apresentaram elementos robustos apontando eventual erro nos cálculos apresentados, razão pela qual deve prevalecer o valor constante no laudo oficial. Alterar o entendimento do acórdão recorrido, neste ponto, demandaria reexame do conjunto fático probatório dos autos, o que é vedado em razão da incidência da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 775.984/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/03/2018, DJe 26/03/2018 - grifo nosso)
+"RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. HONORÁRIOS SUCUMBENCIAIS. CUMPRIMENTO DA SENTENÇA. OMISSÃO DO ACÓRDÃO RECORRIDO. INEXISTÊNCIA. DEPÓSITO JUDICIAL EM GARANTIA. PEDIDO DE JUROS DE MORA E CORREÇÃO MONETÁRIA. ALEGAÇÃO DE ERRO DE CÁLCULO. REEXAME DE PROVAS. DESCABIMENTO. SÚMULA 7/STJ.
+1.- Consoante dispõe o artigo 535 do Código de Processo Civil, destinam-se os Embargos de Declaração a expungir do julgado eventuais omissão, obscuridade ou contradição, não se caracterizando via própria ao rejulgamento da causa.
+2.- Após a realização do depósito judicial, a responsabilidade pela correção monetária e juros é da instituição financeira em que o numerário foi depositado, não sendo admissível que o exequente pretenda receber do executado qualquer diferença a esse título, sob pena da configuração de bis in idem. Todavia, em se tratando o executado de banco, que ocupa, também, a condição de depositário, é devida a incidência da atualização monetária e dos juros, não fazendo sentido, no caso concreto em que o Banco depositário é o próprio executado, isentá-lo de responsabilidade pela correção monetária e juros, na forma legal, sob invocação de seu privilégio de depositário judicial - distinção essa que significaria verdadeiro privilegiamento ao devedor, com tratamento desigual diante de outros bancos devedores não incumbidos de depósitos judiciais.
+3.- No caso, a alegação de erro de cálculo, a pretexto da existência de vícios na origem na dívida, só poderia ter sua procedência verificada mediante incursão no acervo fático-probatório da causa, o que não se admite em âmbito de Recurso Especial, ante o óbice da Súmula 7 deste Tribunal.
+4.- Recurso Especial improvido, cassando-se a liminar concedida.
+(REsp 1436075/RS, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 10/06/2014, DJe 20/08/2014 - grifo nosso)
+No que tange às alegadas ofensas aos arts. 884 do Código Civil e 370 do CPC/2015, verifica-se, do exame dos autos, que as teses trazidas nas razões do recurso especial quanto ao enriquecimento ilícito da parte recorrida e da ausência de busca da verdade real não foram discutidas no v. acórdão recorrido, ainda que tenham sido opostos embargos de declaração para sanar eventual irregularidade.
+Caberia à parte recorrente, na hipótese, alegar violação ao art. 1.022 do CPC/2015 alegando a existência de possível omissão, providência, todavia, da qual não se desincumbiu. Dessa forma, à falta do indispensável prequestionamento, incide, na espécie, por analogia, a Súmula 282 do STF. Nesse sentido:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ANULATÓRIA. ACORDO HOMOLOGADO EM JUÍZO. VÍCIO NÃO DEMONSTRADO. AUSÊNCIA DE PREQUESTIONAMENTO.
+1. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal.
+2. A rediscussão dos termos do acordo homologado judicialmente seria possível se tal acordo fosse desconstituído, mediante a ação anulatória prevista no artigo 486 do Código de Processo Civil de 1973. Precedentes.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1132232/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/04/2018, DJe 03/05/2018 - grifo nosso)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
