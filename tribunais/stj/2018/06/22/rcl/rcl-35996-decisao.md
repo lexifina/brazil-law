@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de reclamação ajuizada por [NOME] e outros, com fundamento no artigo 988, IV, § 4º, do Código de Processo Civil de 2015, objetivando que seu recurso especial seja analisado por esta Corte.
+Afirmam que seu recurso especial teve o seguimento negado por força da aplicação da tese firmada no julgamento do REsp nº 1.301.989/RS, submetido ao rito dos repetitivos, a qual, porém, não se amolda ao caso em debate, pois não existe similitude fática entre os julgados.
+Esclarecem que apresentaram habilitação em ação civil pública na qual a Telecomunicações de São Paulo S.A. - Telesp e a Telecomunicações Brasileiras S.A. Telebrás foram condenadas a:
+"(..)
+1) a emitir as ações, de acordo com o valor dos contratos integralizados, consistentes nas ações preferenciais e ordinárias, entregando-as aos subscritores, ou fazendo seu pagamento, na forma mais favorável ao consumidor adquirente de plano de expansão de linha telefônica no Estado de São Paulo, com base no valor patrimonial, de conformidade com a obrigação assumida na cláusula 2.1., do contrato denominado de participação financeira em investimentos para expansão e melhoramentos dos serviços públicos de comunicações e outras avenças, sob pena de (..)" (fl. 3, e-STJ).
+Uma vez transitada em julgado a ação civil pública, sustentam que lhes foi aberta duas possibilidades, escolher entre a obrigação de fazer relativa à emissão/subscrição de ações, ou pleitear indenização pelos prejuízos sofridos decorrentes da emissão a menor.
+Defendem que se pretensão é a de recebimento de ações e a obrigação é convertida em perdas e danos, o cálculo deve tomar em conta o preço da ação em momento posterior ao pedido, na forma fixada no REsp nº 1.301.989/RS. Porém, se a pretensão é desde logo o recebimento de indenização em razão da emissão a menor, a fixação do preço da ação deve levar em conta o valor da ação em bolsa de valores na data da entrega a menor, pois esse foi o momento da consolidação dos prejuízos sofridos, razão pela qual não se aplica a essa hipótese o entendimento consolidado no julgamento do mencionado recurso repetitivo, que trata especificamente da conversão em perdas e danos.
+Repisam que a data do trânsito em julgado só é marco financeiro para quem pleiteia o recebimento de ações, pois quem desde logo requer a indenização deve ter como marco financeiro o momento do prejuízo, ocorrido nos anos de 1996 e 1997.
+Concluem que inexiste similitude fática entre os casos, o que é possível verificar pela simples leitura da decisão de afetação do recurso, que demonstra ser a pretensão naqueles autos de subscrição de ações (obrigação de fazer), o que não ocorre em seu caso.
+Ressaltam que optaram por receber desde logo a indenização, o que afasta a possibilidade de aplicação da tese consagrada no julgamento do repetitivo.
+Mencionam julgado do Tribunal de Justiça do Estado de São Paulo que adotaria a distinção ora pretendida.
+Requerem, liminarmente, que o processo seja suspenso para evitar dano irreparável e, ao fim, seja julgada procedente a reclamação determinando-se o processamento de seu recurso especial.
+É o relatório.
+DECIDO.
+A irresignação não merece acolhida.
+Com efeito, nas ações em que se busca a reparação dos danos causados em virtude da subscrição a menor de ações pelas companhias telefônicas, o dano experimentado pelos consumidores/acionistas decorre do mesmo fato, a saber: o descumprimento do contrato firmado. Assim, a reparação, que nada mais é do que tornar o prejudicado indene, deve ser proporcional para todos os lesados, seja pela entrega de ações, seja pelo pagamento em pecúnia.
+A propósito, a lição de Maria Helena Diniz:
+"(..)
+O dano vem a ser a efetiva diminuição do patrimônio do credor ao tempo em que ocorreu o inadimplemento da obrigação, consistindo na diferença entre o valor atual desse patrimônio e aquele que teria se a relação obrigacional fosse exatamente cumprida. É, portanto, a diferença entre a situação patrimonial atual, provocada pelo descumprimento da obrigação, e a situação em que o credor se encontraria, se não tivesse havido esse fato lesivo" (Curso de Direito Civil Brasileiro - Teoria Geral das Obrigações. Vol 2. 10ª ed. São Paulo: Saraiva, 1996, pág. 378)
+Nessa linha, o Código Civil, em seu artigo 389, dispõe que o descumprimento da obrigação enseja o pagamento de perdas e danos. Assim, também, no caso de a obrigação de fazer se tornar impossível, o descumprimento da obrigação resulta no pagamento de perdas e danos (art. 461, § 1º, do CPC/1973).
+A forma de cálculo das perdas e danos sofridos pelos consumidores/acionistas na hipótese de entrega a menor de ações pelas companhias de telefonia é aquela definida no julgamento do REsp nº 1.301.989/RS, submetido ao rito dos recursos repetitivos, que se aplica, portanto, a todas as hipóteses em que se pretende a reparação.
+Nesse contexto, nada há a reparar na decisão de fls. 591/592, confirmada pelo acórdão de fls. 593/597, que negaram seguimento ao recurso especial dos reclamantes em razão do julgamento do REsp nº 1.301.989/RS.
+Ante o exposto, com fundamento no art. 34, XVIII, "b", do RISTJ, não configurada a hipótese do artigo 988, IV, do Código de Processo Civil de 2015, nego provimento à reclamação.
+Publique-se.
+Intimem-se.
