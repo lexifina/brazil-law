@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio impetrado em benefício de ADILSON VIEIRA DE CARVALHO contra acórdão do Tribunal de Justiça do Estado de São Paulo no julgamento da Revisão Criminal n. 0190724-44.2012.8.26.0000.
+Infere-se dos autos que o paciente foi condenado (decisão transitada em julgado em 13 de maio de 2011) às penas de sete anos, nove meses e dez dias de reclusão e setecentos e setenta e sete dias-multa como incurso no art. 33, caput, da Lei n. 11.343/2006, quatro anos e oito meses de reclusão e quinze dias-multa, como incurso no art. 1º, I, da Lei n. 9.613/98; três meses e três dias de detenção como incurso no art. 329, caput, do Código Penal e quatro meses e vinte dias de detenção como incurso no artigo 129, caput, do Código Penal, todos na forma do artigo 69, caput, do mesmo Codex.
+A Defensoria Pública interpôs revisão criminal por entender haver nulidade por vício de competência em relação ao crime de resistência, tendo o Tribunal de Justiça, por sua vez, indeferido o pedido revisional em acórdão assim ementado:
+"REVISÃO CRIMINAL - TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO, RESISTÊNCIA E LESÃO CORPORAL - DECISÃO CONTRÁRIA Á EVIDÊNCIA DOS AUTOS  INSUFICIÊNCIA PROBATÓRIA - ABSOLVIÇÃO  INADMSSIBILIDADE - UTILIZAÇÃO DOS MESMOS ARGUMENTOS ANTERIORMENTE APRESENTADOS REEXAME DO CONJUNTO PROBATÓRIO IMPLICARIA DESVIRTUAMENTO DO INSTITUTO (ARTIGO 621, DO CPP) - AUSÊNCIA DE NOVAS PROVAS PEDIDO
+INDEFERIDO." (fl. 91)
+Na presente impetração, a defesa reitera a ocorrência de nulidade absoluta por incompetência da justiça estadual para julgar o feito na medida em que os delitos de lesão corporal e resistência foram praticados contra agente federal. Afirma que "em se tratando de servidor público federal em pleno exercício de suas funções, ainda que deslocada para a investigação de tráfico internacional que depois não se logrou comprovar, é de se reconhecer a incidência da Súmula 147 e, consequentemente, da Súmula 122, ambos deste Superior Tribunal de Justiça" (fl. 5).
+Requer, no mérito, o reconhecimento da absoluta nulidade do feito desde o recebimento da denúncia por violação às regras de competência, com determinação de expedição de alvará de soltura.
+Parecer ministerial, às fls. 128-130, pelo não conhecimento do writ.
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+Conforme relatado, busca-se, no presente feito, o reconhecimento de nulidade absoluta por incompetência da justiça estadual para condenar o ora paciente relativamente aos crimes de lesão corporal e resistência posto praticado contra servidor público federal.
+São estes os fundamentos do aresto hostilizado:
+"As preliminares arguidas não devem ser acolhidas.
+Ao contrário do alegado pela Defesa, os policiais federais atuaram no presente caso de forma excepcional, uma vez que tanto a polícia civil, como a militar, não dispunham do aparelhamento necessário para dar bom andamento às investigações sobre o envolvimento do peticionário com o tráfico de entorpecentes.
+Agiram, portanto, em complementação às suas atribuições, pois investigavam crimes cuja competência é da Justiça Estadual, quais sejam, tráfico de drogas e associação para o tráfico, que eram praticados entre os Estados do Mato Grosso do Sul e de São Paulo.
+Assim, o fato de o agente federal [NOME] ter sofrido lesões no exercício de seu mister, ao apurar crimes em que é competente a Justiça Estadual, por si só, não provoca o deslocamento da competência para a Justiça Federal" (fls. 94-96).
+Na espécie, o Tribunal a quo concluiu pela competência da justiça estadual ao fundamento de que os policiais federais atuavam na investigação de crimes de competência comum - tráfico e associação para o tráfico praticados entre os Estados do Mato Grosso do Sul e São Paulo -, o que se deu de forma excepcional uma vez que as policias militares e civil não dispunham do aparelhamento necessário na oportunidade.
+Em tais hipóteses, este Superior Tribunal de Justiça, na esteira do consignado no aresto hostilizado, não tem, em tese, reconhecido a competência da justiça federal para o processamento do feito, na medida em que as supostas vítimas (policiais federais) estariam agindo fora de suas atribuições constitucionalmente previstas, segundo o art. 144 da Constituição Federal de 1988. Ou seja, é assente nesta Corte a orientação de que o policial federal que atua na investigação de crime de competência da justiça estadual age fora de suas funções, e, por conseguinte, tem-se por afastada a incidência do enunciado n. 147 da Súmula do STJ.
+A propósito, confiram-se os seguintes precedentes:
+"CONFLITO NEGATIVO DE COMPETÊNCIA. DELITOS DE TENTATIVA DE HOMICÍDIO, DANO E ATIVIDADE CLANDESTINA DE TELECOMUNICAÇÃO. CONEXÃO EXISTÊNCIA. COMPETÊNCIA DA JUSTIÇA FEDERAL. SÚMULA 122/STJ.
+1. O crime de homicídio supostamente praticado contra policiais federais não tem o condão de atrair a competência da Justiça Federal para o exame do feito. No caso, as vítimas, alvejadas durante investigação sobre o crime de furto, estariam agindo fora de suas atribuições constitucionalmente previstas, segundo o art. 144 da Constituição Federal de 1988. Precedente.
+2. Inexistem elementos aptos a permitir que se afaste, de plano, a prática do delito previsto no art. 183 da Lei 9.472/97, pelo que foi apurado até o presente momento.
+3. Uma vez que foi encontrado em poder dos acusados rádio transceptor, por meio do qual poderiam, de fato, estar a desenvolver, clandestinamente, atividades de telecomunicações, a conduta vai ser mais bem apreciada no bojo da ação penal. Há manifestação do Ministério Público Federal em Foz do Iguaçu/PR, dominus litis, nesse sentido, segundo o próprio juízo Federal suscitante.
+4. Diante da existência de conexão entre os delitos em apuração, pois presente o liame jurídico entre as infrações, necessária a reunião dos feitos segundo a regra do art. 76, II, do CPP e Súmula 122 desta Corte.
+5. Conflito de competência conhecido, para determinar como competente, o suscitante, Juízo Federal da 3ª Vara Criminal de Foz do Iguaçu - SJ/PR" (CC 124.605/PR, Terceira Seção, Relator Ministro OG FERNANDES, DJe de 23/11/2012).
+"Polícia Federal. Atuação fora das atribuições federais. Policial federal (vítima). Súmula 147 (inaplicabilidade). Competência (estadual).
+1. Ao agir na investigação de crime afeto à competência estadual, no caso, roubo a banco, a polícia federal atua fora das atribuições federais.
+2. A competência somente é federal, nos termos da Súmula 147, quando o crime cometido contra servidor público federal for relacionado com o exercício da função.
+3. Conflito conhecido e declarado competente o suscitado.
+Ante o exposto, não conheço da presente impetração" (CC 50.784/MA, Terceira Seção, Relator Ministro NILSON NAVES, DJe de 6/ 2/2006).
+
+Ante o exposto, não conheço da presente impetração.
+Publique-se. Intimações necessárias.
