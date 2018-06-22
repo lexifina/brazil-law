@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial interposto por CONSELHO REGIONAL DE ODONTOLOGIA DO CEARA, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim ementado (fl. 361):
+EMENTA: AÇÃO CIVIL PÚBLICA REMESSA EX OFFÍCIO E APELAÇÕES MPF X CRO/CE, SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTE A DEMANDA A FIM DE DETERMINAR AO CONSELHO REGIONAL DE ODONTOLOGIA DO CEARÁ QUE, DORAVANTE, SE ABSTENHA DE CONTRATAR, SOB O REGIME DA CLT, SERVIDORES APROVADOS EM CONCURSO PÚBLICO.
+1- É pacífico ó entendimento firmado pelo Supremo Tribunal Federal acerca da natureza autárquica dos Conselhos Profissionais e a obrigatoriedade de adoção do disposto na Lei 8.112/90 a partir da liminar deferida na ADI 2.135/DF, posteriormente mantida pelo colegiado, a qual suspendeu a eficácia do disposto na EC nº 19/98 que abolira o regime jurídico único.
+2- Todavia, dado o lapso temporal em que vigeu a Emenda Constitucional que extinguiu a obrigatoriedade do regime jurídico único para os servidores da Administração, Pública Direta, das autarquias e das fundações públicas, é razoável que sejam preservadas as relações constituídas sob sua tutela tendo em vista a segurança jurídica.
+3- Por outro lado, uma vez suspensa a EC nº 19/98 em 02.8.2007, através da decjsão liminar proférida na ADI 21135 MC/DF e definitivamente julgada/ publicada em 07.03.2008, e de ter-se como inválidas todas as previsões Contidas nos :editais de concursos públicos publicados pelo demandado, após a data da referida decisão liminar (02.8.2007). Precedente do STJ.
+4 - Condenação do CRO/CE a tomar as medidas administrativas necessárias para, que os integrantes do seu quadro de pessoal efetivo, aprovados após o dia 02.8.2007, passem a ser regidos pelo Regime Estatutário.
+5 - Remessa oficial e Apelação do MPF parcialmente providas.
+Apelação do CRO-CE desprovida.
+Naquela decisão, tendo como pano de fundo as decisões proferidas pela Excelsa Corte acerca do tema, o Tribunal Local decidiu pelo pelo parcial provimento do recurso apresentado pelo Ministério Público Federal-MPF, e desprovimento do recurso do CRO-CE, determinando, dentre outras medidas estabelecidas, que o CRO-CE adote medidas necessárias a adequar seus servidores que tenham ingressado em seu quadro funcional mediante aprovação em concurso público após 02/08/2007 (data da publicação da ADI 2135-DF, que suspendeu a vigência do art. 39, caput, da Constituição Federal) como servidores estatutários (fl. 357).
+No presente recurso especial, o recorrente aponta violação do art. 24, da Lei nº 4324/1964; art. 58, §3º, da Lei nº 9649/1998; art. 1º do Decreto-Lei nº 968/1999 e art. 3º, parágrafo único da Lei nº 8112/1990.
+Ademais, aponta divergência jurisprudencial.
+Cabe destacar os dispositivos mencionados na presente demanda recursal (fls. 374-375):
+Preceitua o art. 24, da Lei 4.324/64, in verbis:
+Art. 24- O pessoal a serviço do Conselho Federal e dos Conselhos Regionais será regido pela legislação trabalhista e inscrito para efeito da previdência social, no Instituto de Aposentadoria e Pensões dos Comerciários. Vaticina §3º do art. 58, da Lei 9.649/98, in verbis:
+(..)
+§ 3e Os empregados dos conselhos de fiscalização de profissões regulamentadas são regidos pela legislação trabalhista, sendo vedada qualquer forma de transposição, transferência ou deslocamento para o quadro da Administração Pública direta ou indireta.
+Vê-se art. 1º , do Decreto Lei 968/99, in verbis:
+Art. 1º - As entidades criadas por lei com atribuições de fiscalização do exercício de profissões liberais que sejam mantidas com recursos próprios e não recebam subvenções ou transferências à conta do orçamento da União, regular-se-ão pela respectiva legislação específica, não se lhes aplicando as normas legais sobre pessoal e demais disposições de caráter-geral, relativas à administração interna das autarquias federais.
+Por sua vez dispõe o § único do art. 3o, da Lei 8.112/90, in verbis:
+Parágrafo único. Os cargos públicos, acessíveis a todos os brasileiros, são criados por lei, com denominação própria e vencimento pago pelos cofres públicos, para provimento em caráter efetivo ou em comissão.
+Sustenta, em síntese, que (fls. 375):
+(..)
+Analisando os artigos suso transcritos evidencia-se que a decisão ora recorrida malferiu todos os dispositivos citados, mormente pelo fato de que, conforme art. 24º, da Lei 4.324/64, ao pessoal dos Conselhos Profissionais aplicam-se as normas prevista na legislação trabalhista.
+Ademais, o §3º, do art. 58, da Lei 9.649/98, é expresso ao prevê que aos empregados dos conselhos profissionais serão regidos pela legislação trabalhista, o que afasta a aplicação da lei 8.112/90.
+Por sua vez o parágrafo único da art. 3o, da lei 8.112/90, vaticina que os cargos públicos são criados por lei e vencimentos pagos pelos cofres públicos, evidenciado que ao pessoal dos conselhos profissionais não as aplicam o Regime Jurídico único previsto, ante a ausência de criação de cargos por lei, bem como pelo fato de que seus vencimentos não são pagos pelos cofres públicos.
+Desta feita, analisando a decisão ora combatida, resta evidente o malferimento dos artigos acima transcritos, posto que no vertente caso evidencia-se a não aplicabilidade do regime jurídico único previsto na lei 8.112/90 e art. 39, da Constituição federal.
+(..)
+Apresentadas contrarrazões pela manutenção do acórdão recorrido (fls. 395-398)
+É o relatório. Decido.
+Verifica-se que a controvérsia foi dirimida com base em fundamentos de índole eminentemente constitucional, suficientes para manter o julgado, conforme se pode constatar dos seguintes excertos extraídos do aresto objurgado, litteris (fls. 353-362):
+(..)
+E que, apesar de haver legislação infraconstitucional estabelecendo que o "pessoal.a serviço dos Conselhos Profissionais poderia ser regido pela legislação trabalhista, como. estabelece a própria lei que instituiu o Conselho Federal e os Conselhos Regionais de Odontologia (Lei 4.324/64), ditas normas não preponderam diante dá redação original do art. 39, caput; da Constituição Federal, que se encontra em vigor, in verbis:
+Art. 39. A União, os Estados, o Distrito Federal e os Municípios instituirão, no âmbito de sua competência, regime jurídico único e planos de carreira para os servidores da administração pública direta, das autarquias e das fundações públicas.
+Com efeito, no julgamento da medida cautelar na ADI 2.135/DF, o Supremo Tribunal Federal suspendeu a redação dada pela EC nº 19/98 ao caput do art.39 da CF, voltando a vigorar a determinação de regime Jurídico único para os servidores da Administração Pública Direta, autarquia e fundações.
+Por outro lado, o Suprema Corte, através do julgamento em múltiplos processos, já firmou entendimento sobre a natureza autárquica dos Conselhos de Fiscalização Profissional, razão pela qual não prospera o argumento de que os Conselhos Profissionais teriam uma natureza distinta.
+(..)
+Considerando que não foi interposto recurso extraordinário contra o julgado vergastado, incide na hipótese o enunciado da Súmula n. 126 do Superior Tribunal de Justiça, inviabilizando a análise do recurso especial:
+É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário.
+Nesse sentido, os seguintes julgados desta Corte de Justiça, in verbis:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. FUNDAÇÃO PÚBLICA. DISPENSA DO CEBAS PARA FRUIÇÃO DA IMUNIDADE PREVISTA NO ART. 195, § 7º, DA CONSTITUIÇÃO FEDERAL. FUNDAMENTO CONSTITUCIONAL NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA Nº 126 DO STJ.
+1. O acórdão recorrido reconheceu que a fundação pública autora, na qualidade de entidade filantrópica declarada como de utilidade pública pelo Município de Brusque/SC e pelo Estado de Santa Catarina, preenche todos os requisitos previstos no art. 55 da Lei nº 8.212/1991 para fins de gozo do benefício de imunidade de contribuições sociais, à exceção do certificado CEBAS. A despeito disso, entendeu que a imunidade prevista no § 7º do art. 195 da Constituição Federal de 1988 dispensaria o requisito do certificado CEBAS na hipótese, uma vez que, por se tratar de entidade de caráter público, não havia possibilidade de registro da fundação no órgão que concede o CEBAS, pois o art. 18, III, da Lei nº 8.742/1993 somente previa concessão do CEBAS às instituição privadas, ou seja, jamais seria possível à autora preencher tal requisito. Assim, invocando o art. 195, § 7º, e o postulado normativo-aplicativo da razoabilidade, entendeu que, na falta de regramento específico acerca dos requisitos formais para obtenção, pelas entidades beneficentes de direito público, da imunidade prevista no supracitado dispositivo Constitucional, o disposto no art. 55 da Lei nº 8.212/1991, inclusive após a entrada em vigor do art. 29 da Lei nº 12.101/2009, seria aplicável apenas no que couber.
+2. O fundamento constitucional do acórdão recorrido, que é suficiente para mantê-lo, não foi impugnado através de recurso extraordinário, o que impossibilita o conhecimento do recurso especial no que tange à legislação infraconstitucional em razão da incidência da Súmula nº 126 do STJ.
+3. Agravo interno não provido.
+(AgInt no REsp 1.636.295/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 27/4/2017, DJe 4/5/2017).
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CÉDULA DE CRÉDITO BANCÁRIO. CAPITALIZAÇÃO MENSAL DOS JUROS. LEGITIMIDADE. FUNDAMENTOS CONSTITUCIONAL E LEGAL. AUSÊNCIA DE INTERPOSIÇÃO SIMULTÂNEA DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. COMUNICAÇÃO AO SISTEMA DE INFORMAÇÕES DE CRÉDITO DO BANCO CENTRAL. REQUISITO DE VALIDADE DO CONTRATO. NÃO OBRIGATORIEDADE. JULGADO CALCADO EM RESOLUÇÕES E CIRCULARES. NÃO CABIMENTO. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ARTIGOS 932, INCISO III, e 1.021, § 1º, DO CPC DE 2015. SÚMULA 182 DO STJ.
+1. É inviável o recurso especial se a parte deixa de impugnar, pela via processual adequada, fundamento constitucional do acórdão recorrido (Súmula 126 do STJ).
+2. O recurso especial não comporta a análise de resoluções, portarias, circulares e demais atos normativos de hierarquia inferior à do Decreto, que não se inserem no conceito de lei federal.
+3. Nos termos dos artigos 932, inciso III, e 1.021, § 1º, do Código de Processo Civil de 2015 e da Súmula 182 do Superior Tribunal de Justiça, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 952.691/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/4/2017, DJe 3/5/2017).
+
+Ante o exposto, com fundamento no artigo 255, § 4º, I, do RI/STJ não conheço do recurso especial.
+Publique-se. Intimem-se.
