@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AUXÍLIO-DOENÇA ACIDENTÁRIO. REVISÃO DA RENDA MENSAL INICIAL. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo Instituto Nacional do Seguro Social contra decisão proferida pelo Presidente do Tribunal de Justiça do Estado de Minas Gerais, que negou seguimento ao seu recurso especial ante o óbice da Súmula 7/STJ.
+Em suas razões de agravo em recurso especial, sustenta o INSS a inaplicabilidade da Súmula 7/STJ, por se tratar de questão de direito.
+O prazo para apresentação de contraminuta ao agravo decorreu in albis.
+O recurso especial que se pretende o seguimento, impugna acórdão assim ementado:
+REEXAME NECESSÁRIO - APELAÇÃO CÍVEL - AÇÃO REVISIONAL DE CÁLCULO DE AUXILIO-DOENÇA POR ACIDENTE DE TRABALHO - PRESCRIÇÃO - RENÚNCIA TÁCITA - CORREÇÃO MONETÁRIA - APLICAÇÃO DO ARTIGO 1º-F DA LEI 9.494/1997. " ..  a publicação do Memorando 21/DIRBEN/PFEINSS, de 15-4-2010, ato administrativo que reconheceu o direito dos segurados à revisão pelo art. 29, II, da Lei 8.213/91, importou a renúncia tácita por parte do INSS aos prazos prescricionais em curso, que voltaram a correr integralmente a partir de sua publicação;  ..  para pedidos administrativos ou judiciais formulados dentro do período de 5 (cinco) anos da publicação do ato normativo referenciado não incide a prescrição, retroagindo os efeitos financeiros da revisão à data de concessão do benefício revisando." (PEDILEF 50070453820124047101 - PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL - Rel. Juiz Federal Gláucio Ferreira Maciel Gonçalves-Turma Nacional de Uniformização de Jurisprudência dos Juizados Especiais Federais - DOU 25/04/2014, pág. 88/193). Em atenção ao que decidiu o excelso Supremo Tribunal Federal no RE 870947 RG/SE, a correção monetária do valor da condenação imposta ao Instituto Nacional do Seguro Social (INSS) deve se dar nos termos do artigo 1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009.
+V.v.: O Superior Tribunal de Justiça pacificou entendimento de que, em relação à correção monetária, aplica-se o índice Nacional de Preços ao Consumidor - INPC, apurado pela Fundação Instituto Brasileiro de Geografia e Estatística - IBGE, nos termos do art. 41-A da Lei 8.213/91.
+Em suas razões de recurso especial, o recorrente, ora agravante, sustenta que o Memorando mencionado é um ato de reconhecimento genérico de certa interpretação, não dirigido a um destinatário ou fato certo e não é capaz de causar a interrupção da prescrição, conforme o art. 202, VI, do CC. No mais, defende que apenas é afastada a prescrição do fundo de direito, estando prescritas as parcelas relativas ao quinquênio anterior a propositura da ação individual, nos termos do art. 103, parágrafo único, da Lei 8.213/1991.
+O prazo para apresentação de contrarrazões ao recurso especial decorreu in albis.
+Noticiam os autos que [NOME] ajuizou ação em face do Instituto Nacional do Seguro Social, objetivando a revisão de seu auxílio-doença acidentário e o pagamento das diferenças em atraso.
+A sentença julgou procedente o pedido.
+Interposta apelação pelo INSS e a remessa necessária, o Tribunal a quo negou provimento ao recurso, mantendo a sentença, nos termos da ementa supratranscrita.
+É o relatório, decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O agravante impugnou devidamente o fundamento adotado na decisão agravada e mostrando-se preenchidos os pressupostos de admissibilidade do presente recurso, adentra-se o recurso especial.
+A questão jurídica a ser enfrentada condiz com o reconhecimento do marco interruptivo do prazo prescricional quinquenal pelo Memorando Circular Conjunto 21/DIRBEN/PFEINSS, nos termos do que dispõe o art. 202, VI, do CC.
+Acerca do ato administrativo denominado Memorando Circular Conjunto 21/DIRBEN/PFEINSS, o Tribunal a quo esclareceu que tal ato importou a renúncia tácita por parte do INSS aos prazos prescricionais em curso, que voltaram a correr, integralmente, a partir de sua publicação.
+Com efeito, para o deslinde do pedido recursal, quanto à prescrição, é necessário o enfrentamento do conteúdo do ato administrativo, bem como observar se a publicação do Memorando ocorreu durante o curso do prazo prescricional da pretensão do segurado. Tal pretensão encontra óbice na Súmula 7/STJ.
+Ilustrativamente:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. REVISIONAL. AUXÍLIO-DOENÇA. PRESCRIÇÃO. MARCO INTERRUPTIVO. EXAME DO CONTEÚDO DE MEMORANDO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Na hipótese dos autos, extrai-se do acórdão vergastado e das razões recursais que o acolhimento da pretensão recursal demanda o reexame do contexto fático-probatório, mormente do conteúdo do memorando circular conjunto 21/DIBREN/PFEINSS para avaliar se tal documento tem a faculdade de interromper a prescrição.
+2. Recurso Especial não conhecido.
+(REsp 1.667.785/SP, Segunda Turma, Relator Ministro Herman Benjamin, DJe 30/06/2017)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial. E, quanto ao ônus da sucumbência recursal, em observância ao art. 85 do CPC/2015 e Enunciado Administrativo 7/STJ, majoro os honorários de advogado em 11% do valor da condenação, observadas as Súmulas 111 e 204 do STJ.
+Publique-se.
+Intimem-se.
