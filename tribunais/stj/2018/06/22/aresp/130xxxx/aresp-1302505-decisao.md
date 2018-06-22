@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se de agravo interposto pelo BANCO DO BRASIL S/A, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Compulsando-se os autos, verifica-se que o recurso especial se volta contra acórdão do TRF - 4ª Região que, em sede de agravo de instrumento, autorizou o prosseguimento da execução, individual e provisória, de sentença coletiva, requerida por [NOME] em face do agravante, determinando a aplicação, por ora, dos critérios previstos no art. 5º da Lei 11.960/2009 para o cálculo dos juros e correção monetária, até a definição do EREsp n. 1.319.232/DF, em tramitação nesta Corte.
+Nas razões do recurso especial, o recorrente sustenta, em síntese, a necessidade de extinção da execução provisória, em razão da concessão de efeito suspensivo ao EREsp n. 1.319.232/DF, conforme decisão unipessoal proferida pelo Min. Relator.
+É O BREVE RELATÓRIO. DECIDO.
+O recurso especial interposto é inadmissível, haja vista que eventual violação à autoridade da decisão liminar prolatada pelo Min. Relator dos embargos de divergência deve ser desafiada mediante reclamação, na forma do art. 988, II, do CPC/2015.
+Além disso, conforme definido pela c. Terceira Turma no julgamento do REsp 1.723.516/RS (DJe de 19/04/2018), é incabível a interposição de recurso especial contra acórdão que interpretou essa decisão liminar nos embargos de divergência n. 1.319.232/DF, haja vista o seu caráter precário e transitório. Tem aplicação na hipótese, por analogia, o disposto na Súmula 735/STF.
+Forte nessas razões, CONHEÇO do agravo em recurso especial e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
