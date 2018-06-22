@@ -1,0 +1,74 @@
+EMENTA
+ADMINISTRATIVO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CPC/1973. INEXISTÊNCIA. ALEGAÇÃO DE VIOLAÇÃO DO ART. 3º DA LEI N. 8.666/93. REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7/STJ.
+I - Em relação à indicada violação do art. 535 do CPC/73 pelo Tribunal a quo, não se vislumbra a alegada omissão da questão jurídica apresentada pelo recorrente, qual seja manifestação específica sobre o art. 3º da Lei n. 8.666/93, tendo o julgador abordado a questão às fls. 504-505, consignando que o critério socioeconômico previsto no edital violou os princípios da legalidade, da impessoalidade e da razoabilidade. Neste panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+II - Descaracterizada a alegada omissão, se tem de rigor o afastamento da suposta violação do art. 535 do CPC/73.
+III - Verifica-se que a irresignação da parte recorrente acerca suposta violação do art. 3º da Lei n. 8.666/93 vai de encontro às convicções do julgador a quo, que com lastro no conjunto probatório constante dos autos concluiu que a denominada "Avaliação Sócioeconômica Prévia", prevista no Edital n. 001/2010, violou os princípios da legalidade, da impessoalidade e da razoabilidade, conforme excerto do voto regional (fls. 504-505): "Claro resta, assim, que o edital: a) discrimina a quem é alfabetizado, mora em imóvel próprio, em terreno de mais de 100 metros quadrados, possui outros imóveis, tem veículo próprio e está empregado. b) em conseqüência, privilegia ao analfabeto, morador de imóvel alugado e que não possui imóvel e nem tem veículo próprio. Patente, a meu juízo, o ferimento de princípios de Direito, como o da legalidade, impessoalidade e razoabilidade."
+IV - Para rever tal posição e interpretar o dispositivo legal indicado como violado, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese o óbice do enunciado n. 7 da Súmula do STJ.
+V - A incidência do enunciado n. 7 da Súmula do STJ quanto à interposição pela alínea a impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos.
+VI - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de agravo interno interposto contra monocrática que decidiu recurso especial interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, conforme a seguinte ementa:
+APELAÇÕES CÍVEIS - AÇÃO ORDINÁRIA - PROCESSO SELETIVO - EDITAL N. 001/2010, DO MUNICÍPIO DE BELO HORIZONTE - FEIRA DE ARTESANATO - CRITÉRIO SOCIOECONÔMICO - DISCRIMINAÇÃO - NULIDADE - PROCEDÊNCIA DO PEDIDO INICIAL - HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS - MAJORAÇÃO.
+À Administração Pública é defeso, mesmo em nome do "critério sócioeconômico", discriminar alguns e privilegiar outros na concessão de permissão de uso de espaço público.
+Os honorários de sucumbência fixados em valor demasiado reduzido e incompatível com as peculiaridades da causa devem ser majorados. Primeiro recurso desprovido. Segundo recurso provido, para majorar os honorários advocatícios arbitrados.
+No recurso especial, a parte recorrente alega ofensa ao art. 535 do CPC/73 e ao art. 3º da Lei n. 8.666/93, bem como suscita divergência jurisprudencial.
+Apresentadas contrarrazões, a a parte recorrida requer a manutenção do acórdão.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 255, § 4º, inciso II, do RI/STJ conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento".
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão recorrida.
+A parte agravada foi intimada para apresentar impugnação ao recurso.
+É relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso de agravo interno não merece provimento.
+Nos termos do enunciado n. 568 da Súmula desta Corte Superior e do art. 255, § 4º, inciso III, do RISTJ, o relator está autorizado a decidir monocraticamente quando houver jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça. Assim, não há que se falar em ilegalidade relativamente a este ponto.
+A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida.
+Sem razão a parte agravante.
+Em relação à indicada violação do art. 535 do CPC/73 pelo Tribunal a quo, não se vislumbra a alegada omissão da questão jurídica apresentada pelo recorrente, qual seja manifestação específica sobre o art. 3º da Lei n. 8.666/93, tendo o julgador abordado a questão às fls. 504-505, consignando que o critério socioeconômico previsto no edital violou os princípios da legalidade, da impessoalidade e da razoabilidade. Neste panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+Descaracterizada a alegada omissão, se tem de rigor o afastamento da suposta violação do art. 535 do CPC/73, conforme pacífica jurisprudência do Superior Tribunal de Justiça:
+ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. GREVE. DESCONTOS DOS DIAS PARADOS. CABIMENTO, SALVO SE HOUVER ACORDO DE COMPENSAÇÃO DO TRABALHO.
+1. No que se refere à alegada afronta ao disposto no art. 535, inciso II, do CPC/1973, verifico que o julgado recorrido não padece de omissão, porquanto decidiu fundamentadamente a quaestio trazida à sua análise, não podendo ser considerado nulo tão somente porque contrário aos interesses da parte.
+2. É entendimento consolidado no âmbito do STJ que é legítimo o ato da Administração que promove o desconto dos dias não trabalhados pelos servidores públicos participantes de movimento grevista, diante da suspensão do contrato de trabalho, nos termos da Lei 8.112/1990, salvo a existência de acordo entre as partes para que haja compensação dos dias paralisados. Ressalta-se que não consta nos autos que foi feita compensação dos dias parados.
+3. Recurso Especial não provido. (REsp 1616801/AP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 23/08/2016, DJe 13/09/2016)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 03/STJ. SERVIDOR PÚBLICO FEDERAL. VIOLAÇÃO DO ART. 535, II, DO CPC/1973. INOCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. LITISCONSÓRCIO NECESSÁRIO. ART. 47 DO CPC/1973. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE PROVAS. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexiste violação ao art. 535 do CPC/1973, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda em toda a sua extensão, fazendo-o de forma clara e precisa, estando bem delineados os motivos e fundamentos que a embasam.
+2. Não se conhece da violação a dispositivos infraconstitucionais quando a questão não foi enfrentada pelo acórdão recorrido, carecendo o recurso especial do necessário prequestionamento (Súmula 211/STJ), sobretudo quando a parte, mesmo opondo embargos de declaração na origem, não suscitou a omissão na análise dos referidos aspectos.
+3. Infirmar a conclusão alcançada pela Corte de origem, quanto a existência de litisconsórcio necessário tão somente em relação a duas candidatas, que foram lotadas na localidade onde pretendem as agravadas lotação, considerando, para tanto, os limites da sentença de primeiro grau, pressupõe o cotejo da referida sentença com o conjunto probatório do feito, o que é inviável em sede de recurso especial, nos termos da Súmula 7 do STJ. Nesse sentido: AgRg no Ag 1403108/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 24/11/2015, DJe 10/12/2015.
+4. Agravo interno não provido. (AgInt no REsp 1592075/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 16/08/2016, DJe 26/08/2016)
+Verifica-se que a irresignação da parte recorrente acerca suposta violação do art. 3º da Lei n. 8.666/93 vai de encontro às convicções do julgador a quo, que com lastro no conjunto probatório constante dos autos concluiu que a denominada "Avaliação Sócioeconômica Prévia", prevista no Edital n. 001/2010, violou os princípios da legalidade, da impessoalidade e da razoabilidade, conforme excerto do voto regional (fls. 504-505):
+ ..
+O edital do referido certame prevê o que chama de "Avaliação Socioeconômica Prévia" dos inscritos (item4.1)e, ainda, para passara outras fases do processo, a obtenção do mínimo de 630 pontos (item 3.3, "b"), nessa etapa, sob pena de eliminação (f. 54/73).
+Prevê o edital critérios sócio econômicos como:
+-Ao inscrito que for analfabeto será atribuído 8 pontos. Àquele que tiver curso superior completo, 2 pontos, e se mestrado ou doutorado, apenas 1ponto.
+-Ao que mora em imóvel alugado, 8 pontos, e ao que possuir imóvel próprio, 2 pontos.
+-A quem residir em barracão de até 4 cômodos, 8 pontos, e em casa em terreno maior do que 100 metros quadrados, 3 pontos.
+-Àquele que não possuir outros imóveis, 8 pontos, e a quem possuir, 1 ponto.
+-A quem não possuir veiculo, 8 pontos, e a quem possuir, 1 ponto.
+-Se está desempregado, 8 pontos, e se não está, 1 ponto.
+Claro resta, assim, que o edital:
+a) discrimina a quem é alfabetizado, mora em imóvel próprio, em terreno de mais de 100 metros quadrados, possui outros imóveis, tem veículo próprio e está empregado.
+b) em conseqüência, privilegia ao analfabeto, morador de imóvel alugado e que não possui imóvel e nem tem veículo próprio.
+Patente, a meu juízo, o ferimento de princípios de Direito, como o da legalidade, impessoalidade e razoabilidade.
+Nesse diapasão, para rever tal posição e interpretar o dispositivo legal indicado como violado, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese o óbice do enunciado n. 7 da Súmula do STJ.
+Nesse sentido é a jurisprudência:
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO NO RECURSO ESPECIAL. LICITAÇÃO. CONSÓRCIO DE EMPRESAS. LEGITIMIDADE. REGRAS DO EDITAL. INTERPRETAÇÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. EXAME PREJUDICADO.
+1. A revisão da conclusão a que chegou o Tribunal a quo sobre a legitimidade da agravante, demanda o reexame das cláusulas contratuais, dos fatos e das provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos das Súmulas 5 e 7/STJ.
+2. A análise do dissídio jurisprudencial fica prejudicada, em razão da aplicação da Súmula 7 do STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as conclusões díspares ocorreram, não em razão de entendimentos diversos, mas de fatos, provas e circunstâncias específicas do caso concreto.
+3. Agravo interno não provido.
+(AgInt no AREsp 349.113/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 17/11/2016, DJe 07/12/2016)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 535 DO CPC/73. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. LICITAÇÃO PÚBLICA INTERNACIONAL. PROCEDIMENTO LICITATÓRIO. OBSERVÂNCIA, PELA ADMINISTRAÇÃO, DAS REGRAS DO EDITAL. REEXAME. IMPOSSIBILIDADE.SÚMULAS 7 E 5/STJ. FALTA DE IMPUGNAÇÃO, NO RECURSO ESPECIAL, DE FUNDAMENTO DO ACÓRDÃO COMBATIDO, SUFICIENTE PARA A SUA MANUTENÇÃO. INCIDÊNCIA DA SÚMULA 283/STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+IV. O Tribunal de origem, com base na apreciação do conjunto probatório dos autos, reconheceu que, "ao que se vê da Cláusula 5.3 da LPI 001/2013, ficara a critério da contratante a pré ou pós-qualificação dos candidatos, tendo-se optado pela segunda forma de avaliação do menor preço oferecido que, nos termos do item 32.1, não resulta, em linha de princípio, de uma singela enunciação numérica do preço, mas do preço avaliado ou encontrado não isolada e numericamente enunciado, mas da avaliação em conjunto com a idoneidade técnica e econômica dos concorrentes, a partir do atendimento aos pré-estabelecidos requisitos dos Documentos de Licitação", e que "nenhum dos argumentos da impetrante, aliados às provas trazidas aos autos, se revelam suficientes ao comprometimento do atuar administrativo - presumidamente legítimo como os demais atos oficiais em geral, muito menos substancia, qualquer vício formal no processo seletivo, regularmente transcorrido". Assim, a alteração de tal conclusão exigiria o reexame de matéria fática e da interpretação do edital que regulou a contratação pública, atraindo os óbices das Súmulas 7 e 5/STJ, respectivamente.
+V. Não merece prosperar o Recurso Especial, quando a peça recursal não refuta determinado fundamento do acórdão recorrido, suficiente para a sua manutenção, em face da incidência do enunciado da Súmula 283 do STF ("é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+VI. Agravo interno improvido.
+(AgInt no AREsp 895.471/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 06/10/2016, DJe 04/11/2016)
+Além disso, a incidência do enunciado n. 7 da Súmula do STJ quanto à interposição pela alínea a impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO DE SERVIÇO DE AUDITORIA FINANCEIRA. AÇÃO MONITÓRIA. HONORÁRIOS AD EXITUM. PRODUÇÃO DE PROVAS. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. ANÁLISE. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1. Segundo jurisprudência do STJ, ao juiz, como distinatário da prova, cabe indeferir as que entender impertinentes, sem que tal implique cerceamento de defesa. Incidência da Súmula 7 do STJ.
+2. A incidência da Súmula 7 do STJ impede o exame da divergência, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual o Tribunal de origem deu solução à causa.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1044194/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 19/10/2017, DJe 27/10/2017)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
