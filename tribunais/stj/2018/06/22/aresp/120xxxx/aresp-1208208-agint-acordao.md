@@ -1,0 +1,47 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. LUCROS CESSANTES E DANOS MORAIS. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem, após análise dos elementos fático - probatório dos autos, decidiu pela manutenção da improcedência da ação indenizatória ajuizada pelo ora recorrente, sob o entendimento de que ele não comprovou os fatos constitutivos de seu direito. Assim, alterar o entendimento do acórdão recorrido demandaria, necessariamente, reexame de fatos e provas, o que é vedado em razão do óbice da Súmula 7 do STJ.
+2. A avaliação do êxito do autor ou do réu em comprovar suas alegações (art. 373 CPC/15 - 333 do CPC/73), ou seja, se cumpriu ou não seu ônus probatório, demanda o reexame de fatos e provas, o que é inadmissível na via especial, a teor da Súmula 7 desta Corte.
+3. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, os Ministros da Quarta Turma do Superior Tribunal de Justiça acordam, na conformidade dos votos e das notas taquigráficas, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente), Marco Buzzi e Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Trata-se de agravo interno interposto por [NOME] em face de decisão deste Relator de fls. 238-241, que negou provimento ao seu agravo em recurso especial, em razão da incidência da Súmula 7/STJ, devido a impossibilidade de reexame do conjunto fático-probatório dos autos.
+Nas razões recursais, sustenta a parte agravante: " O Agravante, sofreu fratura decorrente da agressão, apesar de pedir a juntada de raio X, nos autos, a respectiva unidade de saúde que o atendera não apresentou tal exame, por ter sido descartado, nem mesmo relatório médico a respeito, SOB A ALEGAÇÃO DE TEREM SE PASSADO MAIS DE 3(TRÊS) MESES CONTADOS DA DATA DO ATENDIMENTO, POR NÃO HAVER ATENDIMENTO MÉDICO ESPECIALIZADO PARA ASSINAR TAL EXAME. NÃO PÔDE TER A PROVA PRODUZIDA POR UMA FALHA DE UM ÓRGÃO DE SAÚDE PÚBLICO !!..Dessa maneira, o acima exposto, atende o requisito legal contido no art. 105, inciso III, alínea "a", CF, sendo prova de tal fato as próprias decisões judiciais de Primeira Instância e Segunda Instância, que não atenderam ao contido em art. 373, parágrafo terceiro, inciso II, NCPC, sendo afastada a Súmula 7, STJ, já a tese acima sustentada se dá por meio de revaloração das provas apresentadas nos autos, tendo como exemplo disso, o próprio REsp 1.324.482, STJ, na qual se conclui que "a inadequação da apreciação da prova é error iuris, matéria, portanto, apreciável nesta instância" , além de inúmeros outros julgados em tal sentido, emanados por tal Corte Superior de Justiça.".
+Requer o conhecimento e provimento do presente agravo interno.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. LUCROS CESSANTES E DANOS MORAIS. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem, após análise dos elementos fático - probatório dos autos, decidiu pela manutenção da improcedência da ação indenizatória ajuizada pelo ora recorrente, sob o entendimento de que ele não comprovou os fatos constitutivos de seu direito. Assim, alterar o entendimento do acórdão recorrido demandaria, necessariamente, reexame de fatos e provas, o que é vedado em razão do óbice da Súmula 7 do STJ.
+2. A avaliação do êxito do autor ou do réu em comprovar suas alegações (art. 373 CPC/15 - 333 do CPC/73), ou seja, se cumpriu ou não seu ônus probatório, demanda o reexame de fatos e provas, o que é inadmissível na via especial, a teor da Súmula 7 desta Corte.
+3. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. Conforme consignado na decisão monocrática de minha Relatoria (fls. 238-241), o Tribunal de origem, após análise dos elementos fático - probatório dos autos, decidiu pela manutenção da improcedência da ação indenizatória ajuizada pelo ora recorrente, sob o entendimento de que ele não comprovou os fatos constitutivos de seu direito. Assim, alterar o entendimento do acórdão recorrido demandaria, necessariamente, reexame de fatos e provas, o que é vedado em razão do óbice da Súmula 7 do STJ.
+Ademais, a avaliação do êxito do autor ou do réu em comprovar suas alegações (art. 373 CPC/15 - 333 do CPC/73), ou seja, se cumpriu ou não seu ônus probatório, demanda o reexame de fatos e provas, o que é inadmissível na via especial, a teor da Súmula 7 desta Corte.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.VIOLAÇÃO DO ART. 535 DO CPC/1973. RESPONSABILIDADE POR PAGAMENTO DE SERVIÇO PRESTADO. FALTA DE IMPUGNAÇÃO DO FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. NECESSIDADE DE REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ). 4. No caso concreto, o Tribunal de origem concluiu que a agravante não se eximiu do ônus probatório, a fim de desconstituir a relação jurídica entre as partes. Alterar esse entendimento demandaria reexame do acervo probatório dos autos, procedimento vedado em recurso especial.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 582.444/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/04/2018, DJe 17/04/2018)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE EXIBIÇÃO DE DOCUMENTOS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.INSURGÊNCIA RECURSAL DA AUTORA.
+1. Não se conhece da alegação de violação do art. 535 do CPC/73, quando a causa de pedir recursal se mostra genérica, sem a indicação precisa dos pontos considerados omissos, contraditórios, obscuros ou que não receberam a devida fundamentação, sendo aplicável a Súmula 284 do STF.
+2. O conteúdo normativo dos artigos 302, 330, inciso I e 515 do CPC/73 não foi objeto de exame pelas instâncias ordinárias, mesmo após o julgamento dos embargos de declaração opostos pela ora recorrente, razão pela qual incide, na espécie, a Súmula 211 desta Corte 3. No sistema de persuasão racional adotado pelos artigos 130 e 131 do CPC, cabe ao magistrado determinar a conveniência e a necessidade da produção probatória, mormente quando, por outros meios, já esteja persuadido acerca da verdade dos fatos. Na forma da jurisprudência desta Corte, aferir se as provas são suficientes ou se o recorrido desincumbiu-se de seu ônus probatório demandaria o reexame de todo o contexto fático-probatório dos autos, o que é defeso a esta Corte ante o óbice da Súmula 7 do STJ.
+4. Ressalvadas as hipóteses de notória exorbitância ou manifesta insignificância - o que não se vislumbra no caso sub judice -, os honorários advocatícios fixados por critério de equidade não se submetem a controle por via de recurso especial, pois demandaria reexame de matéria fática, providência esta vedada a esta Corte, em razão do óbice da Súmula 7 do STJ. Precedentes.
+5. Agravo interno desprovido.
+(AgInt no AREsp 835.479/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/03/2018, DJe 02/04/2018)
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE DEMONSTRAÇÃO DE OFENSA AO DISPOSITIVO LEGAL INVOCADO. SÚMULA N. 284/STF. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+2. O recurso especial não comporta exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+3. No caso concreto, o Tribunal de origem concluiu que a agravada se desincumbiu de seu ônus probatório. Alterar esse entendimento demandaria revolvimento de fatos e provas, vedado em recurso especial.
+4. A incidência da referida súmula também obsta o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, consoante a jurisprudência desta Corte.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1197553/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 13/03/2018, DJe 26/03/2018)
+3. Conforme asseverei às fls. 238-241, a parte agravante não cumpriu com o disposto no §2º do art. 255 do RISTJ, pois a demonstração da divergência não se satisfaz com a simples transcrição de ementas ou de acórdãos, mas com o confronto entre trechos do acórdão recorrido e das decisões apontadas como divergentes, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados.
+4. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
