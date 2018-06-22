@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra decisão que inadmitiu recurso especial manejado face ao acórdão majoritário do Tribunal de Justiça local, cuja ementa é a seguinte (e-STJ fl. 184):
+APELAÇÃO CRIMINAL - ROUBO MAJORADO - PRELIMINAR DA DEFESA: CONTINUIDADE DELITIVA - RECONHECIMENTO - SUPERAÇÃO - SOLUÇÃO MAIS BENÉFICA NO MÉRITO - HABEAS CORPUS DE OFÍCIO - DIREITO DE RECORRER EM LIBERDADE - RATIFICAÇÃO DA LIMINAR - MÉRITO: PALAVRA ISOLADA DA VÍTIMA E RECONHECIMENTO FOTOGRÁFICO FEITO EM DESOBEDIÊNCIA ÀS DETERMINAÇÕES DO ART. 226 DO CPP - ABSOLVIÇÃO - NECESSIDADE. V.V.
+APELAÇÃO CRIMINAL-CRIME CONTRA O PATRIMÔNIO - ROUBO MAJORADO - RECONHECIMENTO DA CONTINUIDADE DELITIVA - INADMISSIBILIDADE - ABSOLVIÇÃO - IMPOSSIBILIDADE - RECONHECIMENTO FOTOGRÁFICO - ADMISSIBILIDADE - CONDENAÇÃO MANTIDA- EMPREGO DE ARMA DE FOGO - DESNECESSIDADE DE APREENSÃO E PERÍCIA - COMPROVAÇÃO COM BASE EM OUTROS ELEMENTOS DE PROVA - MAJORANTE CONSERVAÇÃO - REDUÇÃO DA PENA-BASE - IMPOSSIBILIDADE - RECURSO CONHECIDO E DESPROVIDO.
+I - Incabivel é o reconhecimento da continuidade delitiva quando não demonstrado o cumprimento dos requisitos previstos no art. 71, do Código Penal.
+II - O reconhecimento fotográfico é admitido como meio de prova, e sendo o réu reconhecido de forma segura e categórica, induvidosa a manutenção da condenação.
+III - A ausência de apreensão da arma e de realização de perícia não afasta a aplicação da causa de aumento de pena se existem outros elementos nos autos aptos a comprovarem a efetiva utilização da arma de fogo pelo agente.
+IV - Fixada a pena-base de forma escorreita não há se falar em redução. (Original sem destaques)
+Opostos embargos de declaração pelo órgão de acusação (e-STJ fls. 202/206), estes foram rejeitados pelo Tribunal de origem por acórdão ementado nos seguintes termos (e-STJ fl. 211):
+EMBARGOS DECLARATÓRIOS - INEXISTÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO - HIPÓTESE DE PREQUESTIONAMENTO.
+Não havendo no voto condutor do acórdão qualquer omissão, obscuridade ou contradição, devem ser rejeitados os embargos declaratórios aviados com intuito de prequestionamento.
+Nas razões do recurso especial, fundado na alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 157, §2º, I, do CP (e-STJ fls. 220/232).
+Sustenta que o Tribunal a quo, ao proferir o acórdão absolutório, desconsiderou importante elemento de prova apresentado tanto na fase policial como em juízo, consistente nas declarações e reconhecimento fotográfico do réu pela vítima do crime de roubo circunstanciado. Afirma que a instância ordinária contrariou o entendimento jurisprudencial sedimentado nesta Corte Superior, de que a palavra da vítima tem especial relevância na elucidação de crimes patrimoniais praticados na clandestinidade.
+As contrarrazões foram apresentadas (e-STJ fls. 236/244) e o Tribunal de origem negou seguimento ao recurso especial (e-STJ fls. 246/247).
+O Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ fls. 282/286).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+O Tribunal de origem, sob orientação do voto condutor do julgado recorrido, deu provimento à apelação da defesa para absolver o recorrido pelas seguintes razões (e-STJ fls. 183/197):
+Apesar de, surpreendentemente a Defensoria Pública não ter pleiteado a absolvição do apelante, em face do efeito devolutivo amplo do recurso e, mais ainda, diante das provas amealhadas, não vejo outra solução ao presente feito.
+Vejamos.
+A denúncia narra que o acusado, empunhando arma de fogo, adentrou na "Farmácia Drogaminas"1 e anunciou o assalto determinando que o caixa lhe entregasse todo o dinheiro. Consta ainda que, após se apoderar do dinheiro, o denunciado trancou a vítima nos fundos do estabelecimento e evadiu.
+Na DEPOL a vítima afirmou ter reconhecido o réu por fotografia. Em juízo ratificou este depoimento.
+O réu, por sua vez, nega a prática do delito.
+Assim, apenas o reconhecimento da vitima, única pessoa ouvida em juizo, sustenta a condenação. Não houve apreensão de objetos e bens em poder do acusado que reforçasse a autoria delitiva, não há qualquer outro depoimento que represente auxílio no esclarecimento da autoria, também não há prova pericial. Portanto, resta a este julgador apreciar tal reconhecimento e. valorá-lo.
+O reconhecimento feito pela vitima, que recaiu exclusivamente sobre [NOME], não obedeceu às formalidades descritas no art. 226, CPP. Cito:
+Art. 226 - Quando houver necessidade de fazer-se o reconhecimento de pessoa, proceder-se-á pela seguinte forma:
+I - a pessoa que tiver de fazer o reconhecimento será convidada a descrever a pessoa que deva ser reconhecida;
+II - a pessoa, cujo reconhecimento se pretender, será colocada, se possivei, ao lado de outras que com ela tiverem qualquer semelhança, convidando-se quem tiver de fazer o reconhecimento a apontá-la;
+III - se houver razão para recear que a pessoa chamada para o reconhecimento, por efeito de intimidação ou outra influência, não diga a verdade em face da pessoa que deve ser reconhecida, a autoridade providenciará para que esta não veja aquela;
+IV - do ato de reconhecimento lavrar-se-á auto pormenorizado, subscrito pela autoridade, pela pessoa chamada para proceder ao reconhecimento e por duas testemunhas presenciais.
+O reconhecimento realizado pela vitima, repito, não é suficiente já que feito por meio fotográfico que não atende aos requisitos do artigo supracitado.
+A fragilidade do reconhecimento não autoriza a condenação do apelante. Sobre sua participação nada mais existe. A absolvição se impõe. (Original sem destaques)
+Como visto, a convicção absolutória da instância ordinária decorre da fragilidade do contexto fático-probatório construído nos autos para demonstrar a materialidade e autoria do crime patrimonial. Asseverou-se, no caso concreto, que a condenação no 1º grau de jurisdição foi amparada exclusivamente no reconhecimento fotográfico e declarações da vítima do fato denunciado, única pessoa ouvida durante a instrução criminal. Merece destaque, ainda, entre os fundamentos do acórdão recorrido o registro de que "não houve apreensão de objetos em poder do acusado que reforçasse a autoria delitiva, não há qualquer outro depoimento que represente auxílio no esclarecimento da autoria, também não há prova pericial" (e-STJ fl. 190).
+Com efeito, consoante a jurisprudência desta Corte Superior, a palavra da vítima é meio de prova idôneo e tem especial relevo nos crimes cuja consumação se dá às ocultas, isto é, na clandestinidade. Contudo, isso não significa que ela seja capaz de subsidiar isoladamente um decreto condenatório por crime patrimonial. É preciso mais. A contribuição da vítima na apuração dos fatos deve ser aferida num contexto probatório maior, onde outros elementos de informação ou provas, somados a ela, garantam um juízo seguro de certeza.
+O Tribunal a quo verificou nos autos a inexistência de qualquer outra fonte de informação sobre o crime de roubo imputado ao recorrido, além das declarações e reconhecimento fotográfico da vítima. Sob esse prisma, considerou não existir prova suficiente para a condenação. Rever a conclusão da instância ordinária, portanto, demandaria o reexame de matéria fático-probatória, o que, em sede de recurso especial, constitui medida vedada pelo óbice da Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 932, III, do CPC c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
