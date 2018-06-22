@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, assim ementado (fl. 253):
+Plano de saúde. Contrato de assistência médica e/ou hospitalar. Aplicabilidade do CDC (Súmula 469 do C. STJ). Possibilidade de revisão de cláusulas contratuais que decorre do próprio sistema jurídico (arts. 478 e 480 do CC e art. 6.º, V, do CDC). Relativização do "pacta sunt servanda".
+Serviços médicos e hospitalares. Paciente com diagnóstico de obesidade mórbida. Prescrição médica positiva à realização do procedimento cirúrgico denominado gastroplastia redutora. Recusa à cobertura contratual. Tese de não cumprimento de prazo de carência relativo a doença preexistente. Ausência de exames prévios ao ato da contratual. Prazo inaplicável na hipótese. Incidência da Súmula 105 desta C. Corte de Justiça. Procedimento emergencial em virtude do quadro clínico do paciente, associado a comorbidades.
+Risco imediato de morte ou lesão irreparável. Cláusula limitativa que não convalesce. Negativa que implica na concreta inutilidade do negócio jurídico. Abusividade manifesta. Desequilíbrio contratual no exercício abusivo do direito que se evidencia na desigualdade material de poder.
+Prestadora que confunde boa-fé com interesse próprio. Menoscabo com o consumidor. Lesão à dignidade humana. Interpretação que fere a boa-fé objetiva e contrapõe-se à função social do contrato (arts. 421 e 422 do Cód. Civil). Conduta que a doutrina moderna caracteriza como ilícito lucrativo. Incidência dos arts. 4.º, "caput", 7.º, 46, 47 e 51, IV, do CDC. Cobertura devida. Sentença mantida.
+Danos materiais (R$ 1.469,00) que devem ser acrescidos de juros moratórios, a contar da citação. Sentença reformada.
+Danos morais. Não caracterização. A chave funcional do dano moral está no princípio constitucional e fundamental da dignidade da pessoa humana (art. 1.º, inciso III, da Carta da República). Cirurgia eletiva. Conduta da operadora de saúde que não implicou no agravamento do estado de saúde da paciente, nem impôs-lhe sofrimento ou ameaça à sua integridade física.
+Prejuízo efetivo não evidenciado. Ausência de real penetração de eventual conduta ilícita e indevida na sobre a personalidade humana. Hipótese de mero aborrecimento, tédio ou desconforto que infelizmente é típica do cotidiano. Banalização do dano moral que deve ser evitada. Sentença reformada.
+Honorários contratuais. Dispêndio passível de ressarcimento (arts. 389, 395 e 404, todos do Cód. Civil). Aplicação do princípio da reparação integral do dano. Verba que não se confunde com os honorários sucumbenciais. Natureza jurídica de indenização material. Necessidade do dispêndio e razoabilidade do valor convencionado evidenciadas. Recursos parcialmente providos.
+Em suas razões, o recorrente alegou, além de divergência jurisprudencial, violação dos arts. 186 e 927 do Código Civil; 14, 51, inciso IV, e 54, § 3º, do Código de Defesa do Consumidor.
+Assevera que a recusa indevida de tratamento médico em momento delicado de necessidade acarreta o dano moral indenizável.
+Aponta julgado desta Corte para comprovar a sua tese.
+Delimitada a controvérsia, passo a decidir.
+Inicialmente, destaco que este recurso será examinado à luz do Enunciado nº 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O Tribunal de origem, com base nos fatos, provas e conteúdo contratual dos autos, entendeu pela não comprovação e caracterização do dano moral passível de indenização, afirmando que (fls. 264-266, e-STJ):
+Por outro vértice, respeitado o entendimento exarado na r. sentença, a conduta da operadora de saúde não enseja a fixação de indenização por danos morais, sobretudo por se tratar de cirurgia eletiva e pelo fato de a negativa não ter implicado em efetivo prejuízo ao paciente.
+Como cediço, a seriedade constitucional e a natureza jurídica do dano moral não abarca o tipo de situação fática narrada na causa de pedir.
+A hipótese lesiva, na verdade, não promovera a real penetração da conduta ilícita e indevida na esfera da personalidade do autor.
+Com efeito, os transtornos com a recusa de cobertura, a discussão acerca da interpretação das cláusulas contratuais e a necessidade de acionar o Poder Judiciário para a obtenção da tutela pretendida constituem meros dissabores, que não têm o condão de causar abalo à honra, humilhação ou sofrimento na esfera da dignidade do consumidor.
+Não obstante a conduta da ré de negar a cirurgia, que precisou ser remarcada por mais de uma vez, não há nenhum indício de que tal agir tenha causado dano ou piora no estado de saúde do segurado.
+Não é viável, assim, a indenização por danos morais, posto que não se levanta a existência de lesão a nenhuma das faces dos direitos da personalidade da autora, não se verificando nenhuma conduta pública vexatória, humilhante ou depreciativa em face à sua dignidade.
+É de rigor que se compreenda que a chave funcional do dano moral está no princípio constitucional e fundamental da dignidade da pessoa humana (art. 1.º, inciso III, da Carta da República).
+Assim, os meros dissabores experimentados no cotidiano da vida em sociedade, ainda que causem desconforto e tédio, não geram dano moral, pois inexiste violação a qualquer dos direitos da personalidade.
+De mais a mais, a banalização do dano moral deve ser evitada, a bem do próprio e tão relevante instituto civil-constitucional.
+ ..
+Por essa lente, a indenização por dano moral deve estar apoiada em ofensa - física ou psíquica - e deve apresentar certa magnitude para ser reconhecida como dano moral.
+O mero incômodo, enfado, aborrecimento, tédio ou o desconforto de algumas circunstâncias que são suportadas pela pessoa humana não são passíveis de indenização por danos morais, sob pena de, ao revés, vulgarizar-se esse tão importante capítulo do direito moderno.
+Jamais o dano moral, pois, pode ser resumido a pequenos aborrecimentos estreitados pela transitoriedade.
+Não se pode e não se deve, a nenhum título, portanto, produzir a distorção da dor moral pelo Direito.
+A interpretação extensiva, em hipóteses tais, não se coaduna com a raiz fática e jurídica de tão relevante instituto de Direito Privado.
+ ..
+Nada há, portanto, na peculiaridade dos autos, capaz de revelar a concreta ferida ao princípio constitucional da dignidade da pessoa humana (artigo 1.º, inciso III, da Constituição Federal).
+De fato, não restou demonstrado a contento que o suposto sofrimento da vítima fosse de tal monta que justificasse a reparação monetária.
+O acolhimento das razões do recurso demandaria inevitável reexame de matéria fática, procedimento que encontra óbice nos verbetes 5 e 7 da Súmula desta Corte.
+Observe-se, ainda, que a citada conclusão encontra-se em harmonia com a jurisprudência desta Corte, a qual entende que o mero descumprimento de cláusula contratual controvertida não enseja a condenação por dano moral. Nessa direção:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CIRURGIA BARIÁTRICA. RESPONSABILIDADE CIVIL. DANO MORAL NÃO CONFIGURADO. MERO DESCUMPRIMENTO CONTRATUAL DECORRENTE DE CONTROVÉRSIA A RESPEITO DE COBERTURA. REVISÃO.IMPOSSIBILIDADE.SÚMULAS 5 E 7/STJ. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte entende que, quando a situação experimentada não tem o condão de expor a parte a dor, vexame, sofrimento ou constrangimento perante terceiros, não há falar em dano moral, uma vez que se trata de circunstância a ensejar mero aborrecimento ou dissabor, mormente quando mero descumprimento contratual, embora tenha acarretado aborrecimentos, não gerou maiores danos ao recorrente.
+2. No caso, não ficou demonstrada nenhuma hipótese de excepcionalidade. O Tribunal de origem, mediante análise do contexto fático-probatório dos autos, entendeu não estarem presentes elementos que caracterizem a indenização por danos morais, pois a recusa decorreu de controvérsia a respeito da extensão da cobertura contratada.
+3. Desse modo, a reversão do julgado afigura-se inviável para esta eg. Corte de Justiça, tendo em vista a necessidade de reexame do contexto fático-probatório dos autos, providência, todavia, incabível, a atrair a incidência das Súmulas 5 e 7/STJ.
+4. Agravo regimental não provido.
+(AgRg no AREsp 799.330/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 4.2.2016, DJe 22.2.2016.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE EXAME DE RESSONÂNCIA MAGNÉTICA. RESPONSABILIDADE CIVIL. DANO MORAL NÃO CONFIGURADO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. A insurgência recursal dirige-se contra decisão que entendeu não ser devida a indenização por danos morais pelo fato de a recusa da realização de exame pela operadora do plano de saúde ter decorrido de dúvida razoável a respeito de cláusula contratual, bem como por ter ocasionado ao agravante simples aborrecimento.
+2. Desse modo, a reversão do julgado, no sentido de reconhecer a existência do dano causado ao recorrente, é inviável para esta eg. Corte de Justiça, tendo em vista a necessidade de se reexaminar o contexto fático-probatório dos autos, providência, todavia, incabível, a atrair a incidência da Súmula 7 do Superior Tribunal de Justiça.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 682.226/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 1º.3.2016, DJe 10.3.2016.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE AUTORIZAÇÃO PARA TRATAMENTO DE EMERGÊNCIA. PERÍODO DE CARÊNCIA. CLÁUSULA ABUSIVA. DANO MORAL. QUANTUM RAZOÁVEL E PROPORCIONAL. RECURSO NÃO PROVIDO.
+1. A jurisprudência desta Corte é no sentido de que o mero descumprimento contratual não enseja indenização por dano moral. No entanto, nas hipóteses em que há recusa de cobertura por parte da operadora do plano de saúde para tratamento emergencial, como ocorrido no presente caso, a orientação desta Corte é assente quanto à caracterização de dano moral, não se tratando apenas de mero aborrecimento.
+2. A cláusula contratual que prevê prazo de carência para utilização dos serviços prestados pelo plano de saúde não é considerada abusiva, desde que não obste a cobertura do segurado em casos de emergência ou urgência.
+3. O valor de R$ 12.000,00 (doze mil reais) arbitrado a título de dano moral não se mostra excessivo, tendo em vista as circunstâncias específicas do caso concreto.
+4. Agravo regimental não provido.
+(AgRg no AgRg no REsp 1.503.003/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16.6.2015, DJe 3.8.2015.)
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. DESCUMPRIMENTO CONTRATUAL. MERO ABORRECIMENTO. DANO MORAL. NÃO OCORRÊNCIA. CONCLUSÃO OBTIDA MEDIANTE ANÁLISE DO ACERVO FÁTICO-PROBATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Embargos de declaração recebidos como agravo regimental, em face do nítido caráter infringente das razões recursais. Aplicação dos princípios da fungibilidade e da economia processual.
+2. In casu, o Tribunal a quo concluiu pela inexistência de dano moral passível de reparação, tendo em vista o curto lapso temporal transcorrido entre a negativa de cobertura da cirurgia bariátrica pelo plano de saúde e a antecipação dos efeitos da tutela que garantiu, à agravada, a cobertura pretendida, situação que não se mostrou suficiente para comprometer a sua saúde ou violar seus direitos da personalidade.
+3. A jurisprudência desta Corte entende que, quando a situação experimentada não tem o condão de expor a parte a dor, vexame, sofrimento ou constrangimento perante terceiros, não há falar em dano moral, uma vez que se trata de circunstância a ensejar mero aborrecimento ou dissabor, mormente quando mero descumprimento contratual, embora tenha acarretado aborrecimentos, não gerou maiores danos ao recorrente.
+4. Agravo regimental não provido.
+(EDcl no AREsp 626.695/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19.5.2015, DJe 18.6.2015.)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. DEVER DE INDENIZAR. CLÁUSULA CONTRATUAL CONTROVERTIDA.
+1. O mero descumprimento de cláusula contratual controvertida não enseja a condenação por dano moral.
+2. Embora a jurisprudência tenha posteriormente se consolidado no sentido da invalidade de cláusula que exclua a cobertura de stent, no caso em exame, a circunstância de o contrato não ter sido adaptado à Lei 9.656/98 emprestava, na época em que ocorridos os fatos, relevância à discussão travada pelo réu, tese acolhida pelo relator originário da apelação 3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.457.475/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16.9.2014, DJe 24.9.2014.)
+Dessa forma, encontrando-se o acórdão recorrido em consonância com a orientação desta Corte, não há o que se reformar, esbarrando o este recurso no óbice da Súmula 83/STJ.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
