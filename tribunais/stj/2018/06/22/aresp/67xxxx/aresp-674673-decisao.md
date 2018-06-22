@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] E CARLOS [NOME] contra decisão que não admitiu recurso especial interposto com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, impugnando acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fls. 228-229, e-STJ):
+AGRAVO DE INSTRUMENTO. AÇÃO CAUTELAR DE SEQUESTRO. EXECUÇÃO TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE INCOMPETÊNCIA. CÉDULAS DE PRODUTO RURAL. SOJA TIPO EXPORTAÇÃO. CÓDIGO DE DEFESA DO CONSUMIDOR. INCIDÊNCIA AFASTADA. FORO DE ELEIÇÃO. AUTONOMIA DA VONTADE. PREVALÊNCIA. HIPOSSUFICIÊNCIA. DIFICULDADE DE ACESSO À JURISDIÇÃO. INEXISTÊNCIA. LITIGÂNCIA DE MÁ-FÉ. DECISÃO REFORMADA.
+1. As Cédulas de Produto Rural, emitidas em razão de venda antecipada de soja a granel tipo exportação, não estão sujeitas à incidência do Código de Defesa do Consumidor, uma vez que o Emitente - Produtor/Agricultor Rural - não é consumidor do produto, e a Compradora - Sociedade Anônima - o adquire para comercializá-lo junto a terceiros.
+2. A natureza e o expressivo valor das avenças, além do grande porte da atividade rural desenvolvida pela parte; evidencia a contratação em igualdade de condições, com a prevalência do foro eleito no pacto, fruto da autonomia da vontade privada, inexistindo hipossuficiência ou desequilíbrio contratual "que possa acarretar dificuldades de acesso à jurisdição.
+3. Não é abusiva a cláusula de eleição de foro se as partes possuíam intelecção suficiente para entender referida estipulação contratual, em especial, as consequências advindas de eventual litígio no foro da Capital.
+4. A litigância de má-fé diz respeito à má-conduta processual. Acionar o Judiciário, na busca da realização de suposto direito, não caracteriza o improbus litigator, sob pena de se inviabilizar o acesso à jurisdição.
+5. Recursos desprovidos.
+Opostos embargos de declaração, foram desprovidos (fls. 257-270, e-STJ).
+Inicialmente, cumpre destacar que a decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Em relação ao juízo de admissibilidade realizado pelo Tribunal de origem, destaco que esta Corte possui entendimento no sentido de que "é admitida a incursão no mérito do recurso especial pelo Tribunal a quo para a verificação da admissibilidade do apelo nobre" (AgRg no Ag 1.034.534/SP, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, DJe 3.2.2009).
+Não admitido o especial na origem, ante a ausência de violação do art. 535, I e II, do Código de Processo Civil de 1973 e, no tocante aos demais dispositivos legais arrolados e ao invocado dissídio jurisprudencial, pela aplicação da Súmula 83 do STJ, limitaram-se os agravantes a reiterar os argumentos já lançados em suas razões recursais.
+Assim, sem a impugnação específica e suficiente para infirmar os fundamentos da decisão agravada, por analogia se aplica o princípio do enunciado n. 182 da Súmula do STJ, reproduzido no art. 932, III, do CPC/2015.
+Em face do exposto, não conheço do agravo.
+Intimem-se.
