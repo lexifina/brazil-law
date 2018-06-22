@@ -1,0 +1,40 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. VIOLAÇÃO DO ARTIGO 535 DO CPC/1973. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo Instituto Nacional do Seguro Social contra decisão proferida pelo Presidente do TRF-2ª Região, que negou seguimento ao seu recurso especial, pois não houve violação do artigo 535 do CPC/1973, eis que o Tribunal a quo decidiu integralmente a controvérsia de forma fundamentada e incidência da Súmula 7/STJ.
+Em suas razões de agravo em recurso especial, o agravante sustenta a plausibilidade jurídica de seu recurso especial, eis que não foram sanados os vicíos apontados nos embargos de declaração, tendo o acórdão combatido se mantido omisso quanto às questões suscitadas, além do que, não é necessário o reexame de provas, mas apenas a constatação de omissões no acórdão combatido para que sejam sanadas pelo Tribunal de origem.
+Em contraminuta ao recurso especial, a agravada pugna pelo não conhecimento do agravo.
+O recurso especial que se pretende o seguimento impugna acórdão assim ementado:
+PREVIDENCIÁRIO - PENSÃO POR MORTE - REVISÃO DA RMI - CONTRIBUIÇÕES CUMULATIVAS - APLICAÇÃO DO ARTIGO 32, I, DO CPC - COMPENSAÇÃO - DADO PARCIAL PROVIMENTO À APELAÇÃO E À REMESSA NECESSÁRIA.
+1 - Determinado na sentença que o INSS promovesse a revisão da renda mensal inicial do beneficio previdenciário de pensão por morte concedido à autora. Foi deferida a inclusão na base de cálculos, das contribuições relativas ao período em que o segurado falecido, esposo da autora, trabalhou na empresa Chocolates Garoto (de 07/94 a 17/11/97), respeitando-se o limite do teto. Determinou também, a mm. Juíza, que os valores dos salários de contribuição relativos ao período de 13/07/98 a 07/01/00, objeto da ação trabalhista nº 1089.1998.00217.00, fossem incluídos no cálculo do salário de beneficio do de cujus. somando-se os salários de contribuição.
+2 - Embora o INSS tenha alegado que as contribuições relativas aos meses de 07/94, 08/94, 09/94 e 12/94 foram computadas no cálculo do beneficio de aposentadoria por tempo de contribuição do de cujus, essa aposentadoria foi desconsiderada, pois foi apurada uma RMI com base em aposentadoria por invalidez para calcular a RMI da Pensão por Morte, como apontado no parecer da Contadoria do Juízo (fl. 358).
+3 - O exercício concomitante de mais de uma atividade vinculada à Previdência Social é regulado, para fins de cálculo do salário de beneficio, pelo art. 32, da Lei nº 8.213/91. que prevê, em seu inciso I, que quando o segurado satisfizer, em relação a cada atividade, as condições do beneficio requerido, o salário-de-beneficio será calculado com base na soma dos respectivos salários-de-contribuição. Precedente: AC 200251015147107, TRF2, Segunda Turma Especializada, Relatora Des. Fed. LILIANE RORIZ, j. 26/05/2010. E-DJF2R 08/06/2010.
+4 - O segurado não se encontrava aposentado à época do óbito. Entretanto, sendo exposto de modo habitual e permanente a ruído acima de 85,0 dB, e tendo sido caracterizado e comprovado o tempo de atividade sob condições especiais durante o período em que trabalhou para a empresa Chocolates Garoto, o INSS reconheceu que o mesmo atingira o tempo suficiente para fazer jus "ao beneficio previsto no Art. 52 da Lei 8.213/91", tendo cumprido "o acréscimo de 40% do tempo previsto pela Emenda Constitucional n" 20/1998" (fl. 259). Assim, restou comprovado o preenchimento dos requisitos necessários à concessão do beneficio quanto ao vínculo empregatício com a mencionada empresa.
+5 - O esposo da autora encontrava-se em trabalho como vigia no Condomínio do Centro Comercial de Itaparica, tendo trabalhado de 03/08/1998 até 01/08/2005, quando ocorreu o óbito. Assim, trabalhou durante 7 anos consecutivos. Considerado pela Previdência Social como "acidente de trabalho" (fl. 154) o evento que o levou à morte, incide a regra do artigo 26, II, da lei 8.213/91, não havendo falar, no caso em tela, em carência. Também não se pode falar em mera "incapacidade para o trabalho", uma vez que o "acidente" incapacitou-o para a própria vida, levando-o à morte. Caso não ocorresse o óbito, tratando-se de grave "acidente de trabalho", igualmente seria possível a concessão do beneficio de aposentadoria ao segurado.
+6 - Também se fez devido o beneficio da pensão por morte à autora nas duas situações, sendo de se aplicar, ao caso em tela, o inciso I do artigo 32 da Lei 8.213/91.
+7 - Quanto à compensação dos valores pagos indevidamente como aposentadoria por tempo de contribuição no período de 18/11/2004 a 31/07/2005, (f1174), entendo que o pedido mereça ser acolhido. Assim, determino que sejam considerados tais pagamentos quando da elaboração do cálculo dos valores devidos à parte autora.
+8 - Uma vez que a autora decaiu de parte mínima do pedido, com fundamento no parágrafo único do artigo 21, do CPC, resta mantida a condenação do apelante em honorários advocatícios, tal como fixado na sentença a quo.
+9 - DADO PARCIAL PROVIMENTO à apelação e à remessa necessária.
+Em suas razões de recurso especial, o recorrente, ora agravante, alega violação do art. 535 do CPC/1973, pois o Tribunal a quo deixou de se manifestar a respeito das teses suscitadas nos embargos de declaração, deixando de sanar as omissões apontadas.
+O prazo para apresentação de contraminuta ao agravo decorreu in albis.
+Noticiam os autos que [NOME] ajuizou ação em face do INSS, pretendendo a revisão de pensão por morte decorrente de acidente de trabalho.
+A sentença julgou procedente o pedido.
+A Autarquia previdenciária apelou, tendo o Tribunal a quo dado parcial provimento à remessa necessária e a apelação do INSS, nos termos da ementa supratranscrita.
+Opostos embargos de declaração pelo INSS, não providos.
+Opostos segundos embargos de declaração pelo INSS, não providos.
+É o relatório.
+Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ que dispõe in verbis: aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O agravante impugnou de forma adequada os fundamentos adotados na decisão agravada e mostrando-se preenchidos os demais pressupostos de admissibilidade do presente recurso, adentra-se o mérito.
+A questão recursal gira em torno da violação do art. 535 do CPC/1973, verifica-se que as razões de recorrer são genéricas e desprovidas de argumentação jurídica, já que não apontam com precisão os temas supostamente omitidos, contraditórios ou obscuros e sua relevância para infirmar as conclusões do acórdão combatido.
+Trata-se de deficiência na fundamentação, caso em que se aplica, por analogia, o disposto na Súmula 284/STF, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ilustrativamente:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. PENSÃO POR MORTE. IRMÃO MAIOR E INVÁLIDO. INVALIDEZ SUPERVENIENTE MAIORIDADE. IRRELEVÂNCIA. DEPENDÊNCIA ECONÔMICA COMPROVADA.
+1. Não se conhece do Recurso Especial em relação à ofensa ao art. 535 do CPC quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+ ..
+5. Recurso Especial parcialmente conhecido e, nessa parte, desprovido.
+(REsp 1.618.157/SP, Segunda Turma, Relator Ministro Herman Benjamin, DJe 12/9/2016)
+Rejeitada, portanto, a violação do art. 535 do CPC/1973.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 255, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial. E, quanto ao ônus da sucumbência recursal, em observância ao art. 85, §§ 11, do CPC/2015 e Enunciado Administrativo 7/STJ, majoro os honorários de advogado para R$ 1.800,00 (hum mil e oitocentos reais).
+Publique-se.
+Intimem-se.
