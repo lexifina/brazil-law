@@ -1,0 +1,17 @@
+Decisão: Trata-se de recurso ordinário em habeas corpus interposto contra acórdão proferido no âmbito do Superior Tribunal de Justiça, assim ementado (HC 445.886 AgRg):
+    AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO DE ENERGIA ELÉTRICA. EXTINÇÃO DA PUNIBILIDADE PELO PAGAMENTO DO DÉBITO ANTES DO RECEBIMENTO DA DENÚNCIA. INVIABILIDADE. RECENTE ENTENDIMENTO ADOTADO PELA TERCEIRA SEÇÃO. CONTRAPRESTAÇÃO QUE POSSUI NATUREZA DA PREÇO PUBLICO OU TARIFA. IMPOSSIBILIDADE DE APLICAÇÃO ANALÓGICA DAS PREVISÕES RELATIVAS AOS CRIMES TRIBUTÁRIOS. 1. O recente entendimento firmado pela Terceira Seção é de que o furto de energia elétrica não pode receber o mesmo tratamento dado aos crimes tributários, considerando serem diversos os bens jurídicos tutelados e, ainda, tendo em vista que a natureza jurídica da remuneração pela prestação de serviço público é de tarifa ou preço público e têm tratamento legislativo diverso do imposto. 2. Ainda que o débito referente ao furto de energia elétrica imputado aos agravantes tenha sido adimplido, tal fato não enseja a extinção da punibilidade. 3. Agravo regimental improvido.
+    Narra o impetrante que: a) os recorrentes figuram, atualmente, no polo passivo da ação penal 0004793-89.2017.8.16.0090 por, supostamente, terem subtraído energia elétrica pertencente à Companhia Paranaense de Energia Elétrica - COPEL, no montante de R$ 34.014,45 (trinta e quatro mil e quatorze reais e quarenta e cinco centavos); b) em tese, teriam contratado o serviço de uma pessoa não identificada para adulterar o relógio de registro de energia, possibilitando assim a subtração de energia elétrica, em prejuízo do Estado; c) os recorrentes quitaram integralmente o débito; d) à época em que fora quitado o débito, o STJ admitia a aplicação analógica da Lei 10.684/2003 aos crimes de furto de energia, entendendo que o pagamento da dívida implicaria a extinção da punibilidade; d) “a extinção da punibilidade no caso em apreço só dependia de mera declaração que, ante sua ausência, não pode permitir a adoção de entendimento diverso para superar situação que se operou automaticamente com a quitação integra.”
+    À vista dos argumentos, pugnam, liminarmente, pelo reconhecimento da extinção da punibilidade dos pacientes, em razão do pagamento integral do débito antes da adoção do novo posicionamento do STJ.
+    É o relatório. Decido.
+    1. Verifico que este recurso foi distribuído a mim por prevenção, em decorrência do HC 170.966, no qual figuram como pacientes os ora recorrentes.
+    O habeas corpus foi admitido como substitutivo de recurso ordinário em habeas corpus, conforme posição majoritária da Segunda Turma.
+    Em 05.06.2019, nos autos do HC 170.966, indeferi o pedido liminar, solicitei informações ao Juízo de origem e abri vista à PGR.
+    O presente recurso ataca, por idênticos argumentos, o mesmo ato coator impugnado no HC 170.966, tratando-se de mera repetição da impetração anterior.
+    Assim, constatada a identidade de partes, de causa de pedir e de pedido, reconheço a litispendência entre os processos.
+    A matéria de fundo aventada neste recurso será oportunamente apreciada nos autos do referido habeas corpus.
+    2. Posto isso, com fulcro no art. 485, V, do CPC c.c art. 3º do CPP, julgo extinto o feito, sem julgamento de mérito.
+    Publique-se. Intime-se.
+    Brasília, 24de junho de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
