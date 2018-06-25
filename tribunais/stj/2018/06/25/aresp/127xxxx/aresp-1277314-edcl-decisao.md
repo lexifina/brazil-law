@@ -1,0 +1,29 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por GALIALI PARTICIPAÇÕES E EMPREENDIMENTOS LTDA contra a decisão de fls. 526/527, que não conheceu do recurso.
+Em suas razões, sustenta a parte Embargante, em síntese, que:
+"Caberia à esta colenda Corte Superior apenas a admissibilidade do Agravo em Recurso Especial, e não do próprio Recurso Especial (já admitido quanto a tempestividade na origem). Presente também contradição na decisão embargada sob este aspecto.
+Conforme narrado acima, a decisão ora embargada não conheceu o Agravo em Recurso Especial por entender que a Embargante não comprovou a existência do feriado local de Assunção de Nossa Senhora quando da interposição do recurso, mas tão somente mencionou sua existência com a edição da Resolução nº 458/2004 do TJMG.
+(..)
+Contudo, em virtude da suspensão dos prazos processuais no TJMG no período de 12/02/2017 a 14/02/2017, nos termos da Resolução nº 458/2004, a Embargante concluiu que o prazo final para interposição do Agravo em Recurso Especial se encerrava em 31/08/2017, data em que foi efetivamente realizado o protocolo.
+Ocorre que, ainda que não se considere o feriado local supramencionado como possível causa da suspensão do prazo em análise, ainda assim, o prazo da ora Embargante apenas se encerraria em 31/08/2017, diante da suspensão de prazos prevista pelo Superior Tribunal de Justiça em seu Regimento Interno.
+Ou seja, o próprio STJ prevê a suspensão dos prazos no período em discussão, razão pela qual a Embargante entende que não se faria necessário, salvo melhor juízo, a comprovação de feriado local, especial e único para aquele Tribunal de origem. Além de feriado local no TJMG, a presente hipótese também é de feriado no órgão julgador de destino (o Superior Tribunal de Justiça), inclusive por norma regimental.
+Evidente, portanto, que a decisão embargada apresenta contradição quando exige a comprovação de recesso forense que não alteraria o prazo para interposição do Recurso Especial, diante da existência de feriado regimental neste eg. Tribunal Superior, razão pela qual merece reforma a decisão embargada." (fls. 536/537).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte Embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+Analisando os autos, verifico que existe erro material na decisão embargada, razão pela qual a corrijo. De fato, houve equívoco na decisão ora embargante, no sentido de que na análise anterior do agravo em recurso especial, não se observou a Resolução n. 458/2004, que disciplina a suspensão do expediente no Tribunal de Justiça do Estado de Minas Gerais, estava anexada à petição de recurso especial.
+Assim, ao rever agravo em recurso especial, verifica-se que de acordo com a resolução citada, (fls. 436) há de se reconhecer a sua tempestividade, tendo em vista a citação do art. 1º, inciso III, que não haveria expediente forense "na segunda-feira, na terça-feira e na quarta-feira da semana do carnaval" ou seja, nos dias 12, 13 e 14/2018, naquele tribunal.
+Ressalta-se que não se desconhece, por certo, de feriado nacional, o que não precisa ser comprovado. Porém, quanto ao recurso especial, a Resolução nº 458/2004, juntada às fls. 436/438, não esclarece se o expediente no dia 15/08/2017 foi suspenso no tribunal, já que se trata de feriado local.
+Diz o art. 1º da Resolução 458/2004:
+"Art. 1º - "Não haverá expediente forense nos Tribunais ou nos órgãos de Primeira Instância do Estado de Minas Gerais:
+(..)
+VI - nos dias em que, por motivo relevante, o Presidente do Tribunal de Justiça suspender o expediente."
+Art. 4º - Os feriados municipais aludidos no inciso II do art. 12 desta Resolução serão:
+I - os dias santos de guarda, de acordo com a tradição local, declarados, em número não superior a quatro, neste incluída a Sexta-feira Santa, por lei municipal do Município -sede da Comarca;
+Art. 5º - Por ocasião dos feriados nacionais e estaduais, bem como dos feriados municipais fixados pelo Município de Belo Horizonte, o Presidente do Tribunal de Justiça expedirá ato administrativo, que será publicado no "Diário do Judiciário" com a devida antecedência, contendo as determinações que se fizerem necessárias, relacionadas com a suspensão do expediente forense." (fls. 436/437)
+Portanto, a parte deveria ter juntado o ato administrativo, conforme estabelece a resolução, esclarecendo se no dia 15/08/2017 foi feriado local, ou por outro motivo ocorreu a suspensão do expediente, já que a comprovação deveria ter sido no momento da interposição do recurso que pretendia que fosse conhecido, o que não ocorreu no caso concreto.
+Sendo assim, a parte Recorrente foi intimada do acórdão recorrido em 09/08/2017, sendo o recurso especial interposto somente em 31/08/2017, portanto, manifestamente intempestivo, pois interposto fora do prazo de 15 (quinze) dias úteis.
+Além disso, cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública (AgInt no REsp 1686469/AM, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 21/03/2018, DJe 27/03/2018).
+Ante o exposto, ACOLHO os embargos de declaração para corrigir o erro material verificado na decisão de fls. 526/527, nos termos acima debatidos, mantido, porém, o NÃO CONHECIMENTO do recurso, nos termos do art. 21-E, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
