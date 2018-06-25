@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por UNIMED - RIO COOPERATIVA DE TRABALHO MÉDIDO DO RIO DE JANEIRO LTDA. contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no art. 105, inciso III, alínea "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM PLEITO DE INDENIZAÇÃO POR DANOS MORAIS. Plano de saúde. Sentença de procedência. Recursos das rés. Unimed FESP alegando ilegitimidade passiva. Inadmissibilidade. Relação entre ela e a autora que restou devidamente comprovada. UNIMED RIO alegando que a autora foi devidamente avisada do descredenciamento, pleiteando que o reembolso se dê nos moldes contratuais, bem como a redução do valor fixado a título de indenização por danos morais. Alegações que não convencem diante do que se provou nos autos. Descredenciamento posterior sem prévio comunicado. Impossibilidade ex vi do art. 17 e parágrafos, da Lei 9.656/98. Dever de informação nas relações contratuais indissociável dos deveres de boa-fé objetiva, cooperação e cuidado. Substituição de profissionais e hospitais que deve ser a contento. Sentença que merece manutenção em todos os termos. Aplicação do art. 252 do Regimento Interno deste Egrégio Tribunal de Justiça. Preliminar rejeitada. Recursos não providos" (fl. 634 e-STJ).
+No recurso especial (fls. 666-683 e-STJ), a ora recorrente indica dissídio jurisprudencial com o objetivo de comprovar a tese de que não é cabível sua condenação ao pagamento de danos morais pois houve mero descumprimento contratual, que não colocou a vida de recorrida em risco. Alega, ainda, que os danos morais não são transmitidos aos herdeiros.
+Requer a reforma do julgado para o afastamento da condenação à título de danos morais fixados em R$ 10.000,00 (dez mil reais).
+Contrarrazões apresentadas às fls. 714-722 (e-STJ).
+O Presidente do Tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+O recurso especial fundamentado em dissídio jurisprudencial exige, em qualquer caso, que tenham os acórdãos - recorrido e paradigma - examinado a questão sob o enfoque do mesmo dispositivo de lei federal.
+Com efeito, se a divergência não é notória, e nas razões de recurso especial não há sequer a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da eventual ofensa à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284/STF, a inviabilizar o conhecimento do recurso também pela alínea "c" do permissivo constitucional.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS LEGAIS TIDOS POR VIOLADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. INTERPRETAÇÃO DIVERGENTE. RAZÕES RECURSAIS DISSOCIADAS. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. AGRAVO NÃO PROVIDO.
+1. Aplicabilidade do novo Código de Processo Civil, devendo ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O conhecimento do recurso especial interposto com amparo no art. 105, III, c, da CF exige, também, a indicação do dispositivo de lei federal, pertinente ao tema decidido, que supostamente teria sido objeto de interpretação divergente, sob pena de incidência da Súmula nº 284 do STF.
+3. A alegada afronta à lei federal não foi demonstrada com clareza, pois as razões recursais apresentadas se encontram dissociadas daquilo que ficou decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, o óbice da Súmula nº 284 do STF.
+4. Agravo interno não provido".
+(AgInt nos EDcl no AREsp 1085038/MA, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 19/9/2017, DJe 02/10/2017 - grifou-se).
+Ademais, em suas razões, a recorrente alega que os danos morais não são transmitidos aos herdeiros, porém da análise dos autos dessume-se que tal matéria não foi apreciada pelo Tribunal local, sequer de modo implícito, tampouco foram opostos embargos de declaração a fim de suscitar a discussão da matéria no Tribunal local, razão pela qual incide na espécie, por analogia, a Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Nesse sentido:
+"TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. APLICAÇÃO DOS VERBETES SUMULARES 282 e 356/STF. CONTROVÉRSIA DIRIMIDA À LUZ DE LEGISLAÇÃO LOCAL. INCIDÊNCIA DO ENUNCIADO SUMULAR 280/STF. DISSÍDIO PRETORIANO. IMPOSSIBLIDADE DE EXAME. AGRAVO NÃO PROVIDO.
+1. "Configura-se o prequestionamento quando a causa tenha sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, não bastando a simples menção a tais dispositivos" (AgRg no EREsp 710.558/MG, Primeira Seção, Rel. Min. ELIANA CALMON, DJ 27/11/06).
+2. Conforme dispõe o verbete sumular 280/STF, aplicável por analogia, eventual ofensa à legislação local não dá ensejo à abertura da via especial.
+3. "É entendimento assente nesta Corte de que a ausência de prequestionamento obsta o conhecimento do recurso também pela alínea "c" do permissivo constitucional, haja vista a impossibilidade de confronto dos acórdãos trazidos como paradigmas, com tese não enfrentada pelo julgado recorrido" (AgRg no AREsp 247.140/PR, Segunda Turma, Rel. Min. HUMBERTO MARTINS, DJe 13/12/12).
+4. Agravo regimental não provido."
+(AgRg no AREsp 359.635/SP, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 05/9/2013, DJe 18/9/2013 - grifou-se).
+Ante o exposto, conheço agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
