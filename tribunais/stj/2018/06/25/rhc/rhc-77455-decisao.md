@@ -1,0 +1,15 @@
+DECISÃO
+Recurso ordinário interposto por [NOME] contra o acórdão do Tribunal Regional Federal da 4ª Região, que denegou o Habeas Corpus n. 00007283320164040000 (fl. 400):
+HABEAS CORPUS. EXECUÇÃO PROVISÓRIA DA PENA. CONDENAÇÃO EM SEGUNDO GRAU. HIGIDEZ.
+1. O Supremo Tribunal Federal, ao julgar o HC n. 126.292, resgatou jurisprudência antes consolidada que entendia constitucional a execução provisória da pena, afastando entendimento de violação à presunção de inocência. Conforme notícia no site do STF, o Ministro Relator Teory Zavascki enfatizou que, após o julgamento pelo Tribunal de segunda instância, "exaure-se o principio da não culpabilidade, até porque os recursos cabíveis da decisão de segundo grau, ao STJ ou STF, não se prestam a discutir fatos e provas, mas apenas matéria de direito. "Ressalvada a estreita via da revisão criminal, é no âmbito das instâncias ordinárias que se exaure a possibilidade de exame dos fatos e das provas, e, sob esse aspecto, a própria fixação da responsabilidade criminal do acusado", afirmou".
+2. E dizer que os recursos excepcionais, de regra destituídos de efeito suspensivo, visam não propriamente ao julgamento do caso concreto, mas à preservação da higidez e da coerência do sistema jurídico, buscando a uniformização da interpretação da lei federal e da Constituição. Assim, a formação ou a confirmação de um juízo condenatório em segundo grau exaure, de fato e de direito, a análise probatória e as instâncias ordinárias de jurisdição.
+3. Hígida a decretação de execução provisória da pena pelo Tribunal.
+Consta dos autos que o recorrente foi condenado à pena de 3 anos e 9 meses de reclusão, em regime semiaberto, e 163 dias-multa no valor unitário de 5 salários-mínimos, pelo delito descrito no art. 22, parágrafo único, da Lei n. 7.492/86, nos autos da Ação Penal n. 2005.70.0000340110/PR. A pena privativa de liberdade foi substituída por duas restritivas de direitos, quais sejam prestação de serviços à comunidade e prestação pecuniária no valor de 20 salários mínimos, sendo que após a apresentação das razões de recurso especial o juízo de origem determinou início do cumprimento provisório da pena, na esteira de precedente recente do STF (fl.391).
+Com o presente recurso objetiva, em liminar e no mérito, obstar a execução provisória da pena, estando os autos do RESP 1.460.561/PR em tramitação para julgamento nesta nesta Corte.
+A liminar foi deferida para suspender a execução provisória das penas restritivas de direitos impostas ao recorrente até o julgamento do presente recurso ordinário ou do trânsito em julgado da condenação (fls. 554/557).
+Parecer do Ministério Público Federal às fls. 562/574.
+É o relatório.
+O presente recurso perdeu o objeto.
+Pedido idêntico ao formulado neste writ já foi deferido nos autos do Resp 1.460.561/PR, no qual foi determinada a suspensão da execução provisória das penas restritivas de direitos impostas ao recorrente até o trânsito em julgado da sua condenação
+Ante o exposto, julgo prejudicado o recurso ordinário.
+Publique-se.
