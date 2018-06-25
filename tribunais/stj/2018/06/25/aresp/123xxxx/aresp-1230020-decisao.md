@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial devido à incidência das Súmulas n. 283 e 284 do STF e 7 do STJ (e-STJ fl. 428).
+O acórdão do TJMG traz a seguinte ementa (e-STJ fl. 376):
+EMENTA: APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. BEM IMÓVEL. CONTRATO DE COMPRA E VENDA. DESCUMPRIMENTO. RESCISÃO. TRANSAÇÃO. COISA JULGADA. NÃO OBSERVÂNCIA. SENTENÇA CASSADA. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DO MÉRITO. I - O instrumento particular de transação, conhecido também como distrato ou resilição bilateral, nada mais é do que uma espécie de composição entre as partes que, se dotada de validade, é capaz de eliminar as relações anteriormente estabelecidas, no sentido oposto ao que havia gerado o vínculo, produzindo, consequentemente, o efeito da coisa julgada entre as partes. II - Atendidos os requisitos do art. 82 do Código Civil, quais sejam, capacidade das partes, licitude e possibilidade do objeto e forma, a transação, como qualquer outro negócio jurídico, é válida, principalmente, quando ausente prova inconteste de que os atos foram praticados sob os alegados vícios de consentimento. III - Dessa forma, a cassação da sentença a qual jugou procedentes os pedidos deduzidos na petição inicial, bem como a extinção do processo sem resolução de mérito é medida que se impõe. IV - Recurso conhecido e provido.
+Nas razões do recurso especial (e-STJ fls. 388/408), interposto com fundamento no art. 105, III, alíneas "a" e "c", da CF, o recorrente apontou, além de dissídio jurisprudencial, violação dos arts. 47, 51, 53, e 54 do CDC, 122, 187, 423, 442, 840 e 884, do CC/2002 e da Súmula n. 543/STJ, visto que seria abusiva a cláusula do distrato contratual que limitou a devolução dos valores pagos pelo comprador em R$ 1.500,00 (mil e quinhentos reais).
+Acrescentou que o percentual de retenção estaria limitado a 10% (dez por cento) dos valores pagos, sob pena de colocar o adquirente em situação de extrema desvantagem e de propiciar o enriquecimento sem causa das recorridas.
+Foram ofertadas contrarrazões (e-STJ fls. 419/425).
+No agravo (e-STJ fls. 431/445), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 448/450).
+É o relatório.
+Decido.
+Inviável a análise de ofensa ao enunciado da Súmula n. 543/STJ em recurso especial. Nesse sentido: "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula" (Súmula 518/STJ)" (AgRg no AREsp n. 783.782/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/11/2015, DJe 17/12/2015).
+O Tribunal de origem, soberano na análise das provas, extinguiu o processo sem resolução de mérito, tendo em vista que (e-STJ fls. 378/385):
+Insurgem-se os apelantes contra a decisão a quo que julgou procedentes os pedidos indenizatórios, condenando-os ao ressarcimento por dano material em virtude da rescisão contratual referente à compra e venda de imóvel.
+É dos autos que o apelado celebrou com as apelantes, em 18/03/98, contrato de promessa de compra e venda de uma casa, situada no empreendimento residencial denominado Alto das Flores, tendo sido emitido na posse do aludido imóvel em 18/05/2001.
+Ocorre que o apelado não conseguiu honrar as obrigações oriundas do referido pacto, levando as apelantes a ingressaram, em juízo, com ação de reintegração de posse, cujo pedido foi julgado parcialmente procedente pelo magistrado primevo, sobrevindo, consequentemente, a efetiva reintegração em 13/11/2006.
+Na aludida decisão, salientou o juiz a quo que, a indenização do autor ou compensação com as parcelas devidamente quitadas deveriam ser objeto de via própria, razão pela qual ingressou o autor com a presente demanda, pleiteando o ressarcimento do valor investido.
+Em sua defesa, as empresas apelantes alegam a ofensa ao ato jurídico perfeito, devido ao fato de o magistrado primevo ter ignorado o instrumento particular de transação firmado nos autos.
+Pois bem. Tenho para mim que a eles assiste razão pelos motivos que passo a relatar:
+Primeiramente, cito, por oportuno o art. 840 do Código Civil in verbis: "É lícito aos interessados prevenirem, ou terminarem o litígio mediante concessões mútuas".
+(..)
+Dessa forma, o instrumento particular de transação, conhecido também como distrato ou resilição bilateral, nada mais é do que uma espécie de composição entre as partes que, se dotada de validade, é capaz de eliminar as relações anteriormente estabelecidas, no sentido oposto ao que havia gerado o vínculo, produzindo, consequentemente, o efeito da coisa julgada entre as partes.
+(..)
+Analisando, detidamente, os autos, os litigantes pactuaram a extinção do vínculo contratual existente, conforme se depreende dos documentos de fls. 158/160 e 285/287, nos seguintes termos:
+3.1 - Fica neste ato rescindido, de pleno direito, aquele contrato de compra e venda de unidade habitacional;
+3.2 - Após a dedução da cláusula penal estipulada na Promessa de Compra e Venda, bem como a dedução da fruição pelo período em que o cliente permaneceu na posse do imóvel, será restituído ao CLIENTE a quantia de R$1.500,00 (hum mil e quinhentos reais) que será restituído pelas Construtoras em 01 (uma) parcela, vencendo em 30 de dezembro de 2008;
+CLÁUSULA QUARTA. Rescindido o contrato indicado na Cláusula Primeira e mediante a assinatura do presente Termo de Transação, as partes contraentes, mediante mútuas concessões, dão a mais plena e rasa quitação, para nada mais exigirem uma das outras, referente àquele contrato a qualquer tempo e a qualquer título. O CLIENTE desde já declara que a quitação concedida alcança, também, os negócios celebrados com as PROMITENTES VENDENDORAS, que fica (sic) igualmente liberada de qualquer obrigação em face do CLIENTE.
+É imperioso salientar que era ônus do apelado a comprovação da ocorrência de erro, dolo, coação ou fraude na celebração do distrato, haja vista não ser possível presumir o vício do consentimento. No entanto, além de não ter feito a referida prova, sequer mencionou, na inicial, pedido de anulação do distrato, que, aqui, reveste-se da qualidade de ato jurídico perfeito.
+No nosso ordenamento jurídico, o direito de alegar está intrinsecamente associado ao dever de provar, prevalecendo a máxima de que "fato alegado e não provado equivale a fato inexistente". É o ensinamento de [NOME], senão vejamos:
+(..)
+Assim sendo, faz-se necessário que as partes provem suas próprias alegações, configurando-se essa atividade um autêntico ônus, ou imperativo do próprio interesse, conforme determina o art. 373, I e II do Novo Código de Processo Civil (CPC).
+Cumpre-me, ainda, trazer à baila a teoria do venire contra factum proprium, segundo a qual se veda o abuso de direito, o ilícito objetivo e a atuação contraditória da parte.
+É o ensinamento de [NOME], se não vejamos:
+Consta que o princípio que veda o venire contra factum proprium deriva da boa-fé objetiva e "traduz justamente o princípio geral que tem como injurídico o aproveitamento de situações prejudiciais ao alter para a caracterização das quais tenha agido, positiva ou negativamente, o titular do direito ou faculdade (Comentários ao Novo Código Civil, vol. V, tomo I. Rio de Janeiro: Forense, 2003, p. 351).
+(..)
+Destarte, atendidos os requisitos do art. 82 do Código Civil, quais sejam, capacidade das partes, licitude e possibilidade do objeto e forma, a transação, como qualquer outro negócio jurídico, é válida, principalmente, quando ausente prova inconteste de que os atos foram praticados sob os alegados vícios de consentimento.
+(..)
+Em face do exposto, DOU PROVIMENTO À APELAÇÃO para cassar a sentença de primeiro grau e, nos termos do parágrafo 3º do art. 1.013 do CPC, julgo extinto o presente feito sem resolução de mérito.
+Em razão do provimento do recurso, inverto os ônus sucumbenciais, ficando tanto as custas processuais quanto os honorários de advogado a cargo exclusivo do apelado. Suspendo a exigibilidade de pagamento em virtude da concessão da gratuidade de justiça deferida em primeira instância (fl. 71).
+É como voto.
+Constata-se, portanto, que a Corte local não se manifestou quanto aos arts. 47, 51, 53, e 54 do CDC e 122, 187, 423, 442 e 884 do CC/2002. Dessa forma, sem ter sido objeto de debate na decisão recorrida e ante a falta de aclaratórios, a matéria contida em tais dispositivos carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+O recorrente não se manifestou quanto à ausência de comprovação da existência de vícios de consentimento no distrato celebrado entre as partes e quanto à falta de pedido anulatório do referido ajuste na petição inicial - fundamentos utilizados pelo aresto impugnado para justificar a reforma da sentença e a extinção da demanda sem exame do mérito -, limitando-se a arguir que o percentual de retenção do valores das parcelas pagas estaria limitado a 10% (dez por cento), segundo os arts. 47, 51, 53, e 54 do CDC, 122, 187, 423, 442, 840 e 884, do CC/2002 e a Súmula n. 543/STJ, que teriam sido violados.
+Assim, não estando impugnado fundamento suficiente para manter o acórdão recorrido, aplicável a Súmula n. 283/STF como óbice ao recurso.
+Ademais, ultrapassar as conclusões do aresto impugnado - a fim de reconhecer a abusividade das condições fixadas no distrato do compromisso de compra e venda imobiliário celebrado entre as partes, pelas razões sustentadas pelo recorrente -, possibilitando, assim, a limitação do percentual de retenção dos valores pagos em 10% (dez por cento), exigiria a revisão e a desconstituição da interpretação das cláusulas do instrumento de transação discutido, bem como o reexame do acervo fático-probatório dos autos, providências vedadas nesta sede especial, a teor das Súmulas n. 5 e 7 do STJ. A esse respeito:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO E, POR FUNDAMENTO DIVERSO, NEGOU PROVIMENTO AO AGRAVO. INSURGÊNCIA DA DEMANDADA.
+1. O recurso especial não comporta a interpretação de cláusulas contratuais, tampouco o exame de questões que impliquem o revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas 5 e 7 do STJ.
+2. No caso concreto, o Tribunal de origem examinou os elementos fáticos dos autos e, em especial, os termos da transação celebrada pelas partes, para concluir pela ausência de nulidade. Para alterar tais conclusões seria necessário o reexame da prova dos autos e a interpretação das cláusulas do ajuste, o que é inviável em recurso especial, nos termos das súmulas mencionadas. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 312.107/RS, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 2/5/2017, DJe 11/5/2017.)
+Na mesma linha: AgRg no AREsp n. 385.971/RJ, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 16/12/2014, DJe 19/12/2014.
+A incidência do óbice das Súmulas n. 5 e 7 do STJ obsta o conhecimento do especial pela alínea "c" do permissivo constitucional, pois impede a verificação da similitude fática entre os acórdãos. A esse respeito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REPETIÇÃO DE INDÉBITO. PRAZO PRESCRICIONAL. TERMO INICIAL. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. Inviável o conhecimento do recurso pela alínea "c" do permissivo constitucional, se a análise do dissenso pretoriano depender do revolvimento de matéria fático probatória.
+3. Agravo interno não provido.
+(AgInt no AREsp 1088229/MS, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/9/2017, DJe 15/9/2017.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSO CIVIL. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. AGRAVO DE INSTRUMENTO. MULTA DIÁRIA. REDUÇÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte. 2. Impossível alterar o acórdão recorrido para reduzir o valor das astreintes, que não se mostra manifestamente exorbitante ou desarrazoado.
+3. Rever a conclusão do aresto impugnado encontra óbice, no caso concreto, na Súmula nº 7 do Superior Tribunal de Justiça tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1550044/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/8/2017, DJe 31/8/2017.)
+Inviável, portanto, o conhecimento do alegado dissídio jurisprudencial, no ponto.
+Ante o exposto, NEGO PROVIMENTO ao recurso especial.
+Publique-se e intimem-se.
