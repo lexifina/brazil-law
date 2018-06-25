@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da falta de demonstração da afronta aos dispositivos legais arrolados (e-STJ fls. 410/411).
+O acórdão recorrido está assim ementado (e-STJ fl. 392):
+AGRAVO DE INSTRUMENTO. Ação indenizatória. Vícios de construção. Seguro habitacional. Decisão que atribui às autoras o ônus da apresentação da apólice de seguro, para demonstrar a relação jurídica com a seguradora ré. Decisão mantida. Impossibilidade, no caso, de se atribuir à seguradora o ônus de provar o direito alegado pelas autoras. Inteligência da teoria da carga dinâmica das provas e dos art. 373 §§1º e 2º do CPC e art. 6º VIII do CDC. Ausência de elementos a identificar a relação jurídica alegada. Recurso desprovido.
+Nas razões do recurso especial (e-STJ fls. 398/407), interposto com fundamento no art. 105, III, "a", da CF, as recorrentes alegaram ofensa aos arts. 370 e 373 do CPC/2015 e 6º, VIII, do CDC.
+Sustentaram, em síntese, que "a expedição de ofício aos órgãos detentores das informações solicitadas pelo nobre juiz "o quo" é medida que se impõe, já que este ônus não pode recair sobre a parte hipossuficiente e que já esclareceu que não lhe é fornecido tais documentos, não podendo assim, inventar um documento" (e-STJ fl. 403).
+No agravo (e-STJ fls. 414/425), afirmam a presença de todos os requisitos de admissibilidade do especial.
+A recorrida apresentou contraminuta (e-STJ fls. 428/440s).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+Quanto à impropriedade de se requerer ao juízo a determinação para que a recorrida ou a instituição financeira fossem oficiadas para juntar a apólice do seguro habitacional, o Tribunal origem, ao apreciar agravo de instrumento, assim se manifestou (e-STJ fls. 392/394):
+Em regra, atribui-se ao autor o ônus da prova quanto ao fato constitutivo de seu direito e ao réu quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor (art. 373 CPC).
+Na nova sistemática processual, foi adotada a teoria da carga dinâmica das provas, de [NOME], pela qual se atribui o ônus da prova à parte que, pelas circunstâncias fáticas, tiver melhores condições para demonstrar os acontecimentos do caso específico, independente de sua posição no processo. Nesse sentido, é o §1º do art. 373 do CPC: Nos casos previstos em lei ou diante de peculiaridades da causa relacionadas à impossibilidade ou à excessiva dificuldade de cumprir o encargo nos termos do caput ou à maior facilidade de obtenção da prova do fato contrário, poderá o juiz atribuir o ônus da prova de modo diverso, desde que o faça por decisão fundamentada, caso em que deverá dar à parte a oportunidade de se desincumbir do ônus que lhe foi atribuído.
+A nova regra processual vai ao encontro da regra consumerista, estabelecida no art. 6º VIII do CDC: São direitos básicos do consumidor .. a facilitação da defesa de seus direitos, inclusive com a inversão do ônus da prova, a seu favor, no processo civil, quando, a critério do juiz, for verossímil a alegação ou quando for ele hipossuficiente, segundo as regras ordinárias de experiências.
+Ocorre que a decisão prevista no §1º do art. 373 não pode gerar situação em que a desincumbência do encargo pela parte seja impossível ou excessivamente difícil (§2º).
+No caso, a CEF manifestou-se no sentido de que não tem interesse na lide, porque não identificou a existência de apólice de seguro do ramo público (fls. 312/313); a seguradora agravada, ré, nega a existência de relação jurídica com as agravantes, arguindo preliminar de ilegitimidade ativa por falta de comprovação da condição de mutuários (fls. 42); e a CDHU, segundo relatam as próprias agravantes, afirmou que "não existe cópia individual de apólice e que pelo fato de tratar-se de imóvel adquirido através do SFH o seguro habitacional é regulamentado pela Apólice da Susep nº 111/99". E mais, "não é de conhecimento dos mesmos a existência de qualquer outro documento que comprove a contratação de seguro" (fls. 8).
+Pretendem as agravantes atribuir à agravada a responsabilidade pelo pagamento de indenização por vícios de construção, mas sem sequer dar indícios que foi ela a seguradora contratada, argumentando que "no momento da aquisição do imóvel, o mutuário passa a contar com a cobertura para danos físicos nos imóveis, invalidez ou morte. E tal contratação do seguro dá-se de forma peculiar uma vez que a escolha da companhia seguradora é feita pelos agentes financeiros, no caso a CDHU, e porque a eleição fica adstrita a umas das participantes do pool de seguradoras líderes de cada região nacional do SFH".
+Assim, a seu ver, se "a Agravada é a seguradora autorizada a atuar no Sistema Financeiro de Habitação, fazendo parte de um pool de seguradoras que atuam nesse mercado, a requerida é responsável pelo pagamento das indenizações cabíveis".
+Não necessariamente. Pode ter sido contratado seguro com qualquer outra seguradora do pool mencionado pelas agravantes.
+Nesse contexto, inadmissível atribuir à ré o ônus da prova do direito alegado pelas agravantes. Tal entendimento encontra amparo em precedente desta Câmara:
+Tal entendimento está em consonância com a jurisprudência do STJ, para a qual a inversão do ônus da prova em favor do consumidor subordina-se à análise, pelo magistrado, da verossimilhança da alegação e da demonstração de hipossuficiência, conforme as regras ordinárias de experiência. A propósito:
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL.CONSUMIDOR. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. CONTRATO. SUPOSTA ASSINATURA FALSIFICADA. INVERSÃO DO ÔNUS DA PROVA. IMPOSSIBILIDADE DE REVISÃO. SÚMULA 7/STJ.
+1. A inversão do ônus da prova fica a critério do juiz, segundo apreciação dos aspectos de verossimilhança da alegação do consumidor e de sua hipossuficiência, conceitos intrinsecamente ligados ao conjunto fático-probatório dos autos delineado nas instâncias ordinárias, cujo reexame é vedado em sede especial. Precedentes.
+(..)
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.409.028/PR, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/11/2016, DJe 1º/12/2016.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA. ANTECIPAÇÃO DE TUTELA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+(..)
+3. A inversão do ônus da prova fica a critério do juiz, segundo apreciação dos aspectos de verossimilhança da alegação do consumidor e de sua hipossuficiência, conceitos intrinsecamente ligados ao conjunto fático-probatório dos autos delineado nas instâncias ordinárias, cujo reexame é vedado em recurso especial.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 852.331/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/6/2016, DJe 29/6/2016.)
+No caso concreto, o Colegiado de segunda instância, a partir do conteúdo fático-probatório dos autos, entendeu não haver, nas alegações das recorrentes, verossimilhança que autorizasse a inversão do ônus da prova.
+Modificar essa conclusão implicaria uma nova apreciação de matéria fática, o que é inviável na presente instância, de acordo com o que dispõe a Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
