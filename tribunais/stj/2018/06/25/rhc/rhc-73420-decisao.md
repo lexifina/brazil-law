@@ -1,0 +1,14 @@
+DECISÃO
+[NOME] estaria sofrendo constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.000.16.017248-2/000).
+Narra a exordial que o recorrente foi denunciado pela suposta prática do crime previsto no art. 38 da Lei n. 9.605/1998 e beneficiado com a suspensão condicional do processo, por dois anos. Em razão do descumprimento das condições impostas, o Juiz de primeiro grau prorrogou o benefício. Nas razões de pedir do recurso, a parte diz que não existem provas de que descumpriu as condições impostas, e ainda acoima de ilegal o ato judicial e requer a extinção de sua punibilidade, pois a revogação não poderia ocorrer depois do prazo do sursis.
+Informações às fls. 97-100 e 102-116.
+O Ministério Público Federal opinou pelo não provimento do recurso.
+Decido.
+Antes de mais nada é de se dizer que, por ser ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória.
+Em razão disso, é cogente ao impetrante, na hipótese dos autos, comprovar que cumprira integralmente as condições estabelecidas para a concessão da suspensão condicional do processo, quais sejam: a) a apresentação bimestral em juízo, para justificar suas atividades e b) comprovar por meio de laudo do Instituto Estadual de Florestas - IEF que promovera a recuperação da área degradada. Não servindo, pois, a comprovação isolada apenas de uma das condições impostas, como in casu, principalmente quando se sabe que em uma ação de rito célere como a de habeas corpus é vedado o revolvimento do acervo fático-probatório dos autos.
+Oportuno, ademais, salientar que, instado a prestar informações, o Magistrado de primeira instância aduziu que " à s ff. 76/77 foi anexado aos autos o Laudo Técnico de Vistoria formulado pelo IEF - Instituto Estadual de Florestas informando que a área degradada não foi recuperada" (fl. 103, destaquei).
+Ademais, o habeas corpus é contrário a tese fixada em julgamento de recurso especial repetitivo (Temas n. 920 e 930).
+Este Superior Tribunal, no REsp 1.498.034/RS, julgado pela Terceira Seção, em 25/11/2015, pacificou o entendimento de que: "Se descumpridas as condições impostas durante o período de prova da suspensão condicional do processo, o benefício poderá ser revogado, mesmo se já ultrapassado o prazo legal, desde que referente a fato ocorrido durante sua vigência".
+O precedente se aplica à hipótese sob análise, pois o recorrente descumpriu as condições do benefício durante o período de prova.
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 246, ambos do RISTJ, nego provimento ao recurso em habeas corpus.
+Publique-se e intimem-se.
