@@ -1,0 +1,20 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por [NOME], com fundamento no artigo 105, inciso III, alínea c, da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o Juízo de primeiro grau indeferiu o pedido de extinção da punibilidade do Apenado em decorrência do inadimplemento da pena de multa imposta na condenação.
+A Defesa interpôs agravo em execução penal, que foi desprovido em acórdão de fls. 88/93, destacando do voto condutor os excertos, in verbis:
+" ..  embora seja equiparada a dívida de valor após o trânsito em julgado da sentença condenatória (artigo 51 do Código Penal)  por força de sua atual inconversibilidade em pena privativa de liberdade , a multa não perde sua natureza de sanção penal.
+Tivesse a multa penal natureza de mero débito fiscal, os herdeiros do devedor o sucederiam na obrigação de quitá-lo. O que não ocorre, exatamente por força da regra constitucional segundo a qual a pena não passará da pessoa do condenado (art.
+50 XLV, da Constituição Federal).
+Aliás, a própria Constituição Federal empresta à multa o caráter de pena (artigo 5 0, XLVI, c).
+Logo, sua equiparação a dívida de valor prevista no Código Penal não a desnatura. Interpretação contrária, data vênia, faz letra morta o referido dispositivo constitucional." (fls. 91/92)
+Inconformada, a Defesa interpôs recurso especial com base em dissídio jurisprudencial, alegando que, cumprida integralmente a pena privativa de liberdade, pode ser declarada a extinção da punibilidade, independentemente do pagamento da pena de multa.
+O recurso especial foi admitido na origem (fls. 134).
+É o relatório. Decido.
+A Terceira Seção do Superior Tribunal de Justiça, no julgamento do Tema n.º 931, ao qual está vinculado o Recurso Especial n.º 1.519.777/SP (Rel. Min. Rogerio Schietti, DJe de 10/9/2015), firmou entendimento no sentido de que "nos casos em que haja condenação a pena privativa de liberdade e multa, cumprida a primeira (ou a restritiva de direitos que eventualmente a tenha substituído), o inadimplemento da sanção pecuniária não obsta o reconhecimento da extinção da punibilidade", conforme acórdão assim ementado:
+"RECURSO ESPECIAL. PROCESSAMENTO SOB O RITO DO ART. 543-C DO CÓDIGO DE PROCESSO CIVIL. RECURSO REPRESENTATIVO DE CONTROVÉRSIA. CUMPRIMENTO DA PENA PRIVATIVA DE LIBERDADE OU DE RESTRITIVA DE DIREITOS SUBSTITUTIVA. INADIMPLEMENTO DA PENA DE MULTA. EXTINÇÃO DA PUNIBILIDADE. POSSIBILIDADE. RECURSO PROVIDO.
+1. Recurso Especial processado sob o regime previsto no art. 543-C, § 2º, do CPC, c/c o art. 3º do CPP, e na Resolução n. 8/2008 do STJ. 2. Extinta pelo seu cumprimento a pena privativa de liberdade ou a restritiva de direitos que a substituir, o inadimplemento da pena de multa não obsta a extinção da punibilidade do apenado, porquanto, após a nova redação dada ao art. 51 do Código Penal pela Lei n. 9.268/1996, a pena pecuniária passou a ser considerada dívida de valor e, portanto, possui caráter extrapenal, de modo que sua execução é de competência exclusiva da Procuradoria da Fazenda Pública.
+3. Recurso especial representativo da controvérsia provido, para declarar extinta a punibilidade do recorrente, assentando-se, sob o rito do art. 543-C do CPC a seguinte TESE: Nos casos em que haja condenação a pena privativa de liberdade e multa, cumprida a primeira (ou a restritiva de direitos que eventualmente a tenha substituído), o inadimplemento da sanção pecuniária não obsta o reconhecimento da extinção da punibilidade."
+Na espécie, o acórdão combatido destoa da orientação pacificada no Superior Tribunal de Justiça na medida em que decidiu que o inadimplemento da pena de multa obsta a extinção da punibilidade, ainda que integralmente cumprida a pena privativa de liberdade.
+Ante o exposto, DOU PROVIMENTO ao recurso especial para declarar extinta a punibilidade do Recorrente, em razão do cumprimento da pena privativa de liberdade, ainda que pendente de pagamento a pena de multa.
+Publique-se. Intimem-se.
