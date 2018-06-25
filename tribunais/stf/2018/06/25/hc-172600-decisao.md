@@ -1,0 +1,42 @@
+Decisão: Trata-se de habeas corpus impetrado contra decisão monocrática já transitada em julgado, proferida no REsp 1.592.608/RJ, no âmbito do Superior Tribunal de Justiça, que deu provimento ao recurso especial para reconhecer a tipicidade das condutas previstas nos arts. 14 e 16 da Lei 10.826/2003 (eDOC 1, pp. 40-43).
+    Narra o impetrante que: a) no momento da prisão em flagrante, o paciente portava 6 munições de uso restrito e 3 munições de uso permitido, desacompanhadas de arma de fogo; b) tal conduta não pode ser considerada típica, sob pena de violação aos princípios da ofensividade e da insignificância; c) diante da existência de precedentes em sentido contrário ao do ato indicado como coator na mesma hipótese fática, há também ofensa ao princípio da igualdade.
+    À vista do exposto, pugna, liminarmente, pela expedição de salvo-conduto, bem como, ao final, por sua confirmação.
+     É o relatório. Decido.
+    1. Cabimento do habeas corpus:
+    A Corte compreende que, ordinariamente, o habeas corpus não se presta a rescindir provimento condenatório acobertado pelo manto da coisa julgada, daí a impossibilidade de figurar como sucedâneo de revisão criminal. Acerca do tema:
+    “O Supremo Tribunal Federal não admite a utilização do habeas corpus em substituição à ação de revisão criminal.” (HC 128.693 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, julgado em 04.08.2015, grifei).
+    “O habeas corpus não pode ser utilizado como sucedâneo de revisão criminal.” (HC 123.430, Rel. Min. LUIZ FUX, Primeira Turma, julgado em 14.10.2014, grifei).
+    “(...) habeas corpus não pode ser utilizado, em regra, como sucedâneo de revisão criminal, a menos que haja manifesta ilegalidade ou abuso no ato praticado pelo tribunal superior.” (HC 86.367, Rel. Min. ELLEN GRACIE, Segunda Turma, julgado em 30.09.2008, grifei).
+    No caso concreto, por contrariar frontalmente a jurisprudência do Supremo Tribunal Federal, o habeas corpus não merece conhecimento, na medida em que funciona como sucedâneo de revisão criminal.
+    2. Possibilidade de concessão da ordem de ofício:
+    Ainda que ausentes hipóteses de conhecimento, a Corte tem admitido, excepcionalmente, a concessão da ordem de ofício.
+    Calha enfatizar que tal providência tem sido tomada tão somente em casos absolutamente aberrantes e teratológicos, em que “a) seja premente a necessidade de concessão do provimento cautelar para evitar flagrante constrangimento ilegal; ou b) a negativa de decisão concessiva de medida liminar pelo tribunal superior importe na caracterização ou na manutenção de situação que seja manifestamente contrária à jurisprudência do STF” (HC 95.009, Rel. Min. Eros Grau, Tribunal Pleno, julgado em 06.11.2008, grifei).
+    Devido ao caráter excepcional da superação da jurisprudência da Corte, a ilegalidade deve ser cognoscível de plano, sem a necessidade de produção de quaisquer provas ou colheita de informações. Nesse sentido, não pode ser atribuída a pecha de flagrante à ilegalidade cujo reconhecimento demande dispendioso cotejamento dos autos ou, pior, que desafie a complementação do caderno processual por meio da coleta de elementos externos.
+    Como reforço, cumpre assinalar que o Código de Processo Penal, ao permitir que as autoridades judiciárias concedam a ordem de ofício em habeas corpus, apenas o fez quanto aos processos que já lhes são submetidos à apreciação:
+    “Art. 654. (…)
+    (…)
+    § 2o Os juízes e os tribunais têm competência para expedir de ofício ordem de habeas corpus, quando no curso de processo verificarem que alguém sofre ou está na iminência de sofrer coação ilegal.”
+    De tal modo, ao meu sentir, não se admite que o processo tenha como nascedouro, pura e simplesmente, a alegada pretensão de atuação ex officio de Juiz ou Tribunal, mormente quando tal proceder se encontra em desconformidade com as regras de competência delineadas na Constituição da República. Em outras palavras: somente se cogita da expedição da ordem de ofício nas hipóteses em que não se desbordar da competência do órgão, de modo que essa não pode ser a finalidade precípua da impetração.
+    3. Análise da possibilidade de concessão da ordem de ofício no caso concreto:
+    No caso dos autos, a apontada ilegalidade não pode ser aferida de pronto.
+    De início, observo que o acórdão recorrido se alinha à atual jurisprudência de ambas as Turmas desta Corte no sentido de que a configuração dos delitos de posse ou porte irregular de munição de uso permitido ou restrito prescinde da presença simultânea de arma de fogo, tendo em vista que, por se tratar de crime de perigo abstrato e de mera conduta, basta o referido porte para caracterizar a ofensa à incolumidade pública :
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. POSSE ILEGAL DE MUNIÇÃO DE USO RESTRITO (ART. 16, CAPUT, DA LEI 10.826/2003 – ESTATUTO DO DESARMAMENTO). PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. ELEVADO GRAU DE REPROVABILIDADE DA CONDUTA. CRIME DE PERIGO ABSTRATO. ALEGAÇÃO DE JULGAMENTO CITRA PETITA E REFORMATIO IN PEJUS PELA CORTE ESTADUAL. INOCORRÊNCIA. 1. A figura incriminadora de posse de arma de fogo de uso restrito, de seus acessórios ou de munições contempla crime de perigo abstrato, cujo objeto jurídico é a segurança pública. 2. Delineado nos autos quadro revelador de perigo de lesão (potencial, em termos de risco) à coletividade e, por consequência, ao bem jurídico tutelado, o fato se reveste de contornos penalmente relevantes, o que afasta a alegada atipicidade material da conduta. 3. Não há falar em decisão citra petita quando todos os fundamentos apontados pela defesa foram examinados, ainda que a conclusão seja contrária aos seus interesses, nem em reformatio in pejus se os motivos expendidos pelo julgador em sede de apelação exclusiva da defesa não representaram advento de situação mais gravosa para o réu. Precedentes. 4. Agravo regimental a que se nega provimento.”
+    (HC 151435 AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 29.8.2018)
+    “Agravo regimental em habeas corpus. Penal. Posse ilegal de munição de uso restrito. Artigo 16 da Lei nº 10.826/03. Crime de perigo abstrato. Precedentes. Invocação dos princípios da insignificância e da atipicidade da conduta. Improcedência. Regimental não provido. 1. O porte ilegal de arma e munição é crime de perigo abstrato, cuja consumação independente de demonstração da potencialidade lesiva da arma ou da munição. 2. Agravo regimental ao qual se nega provimento.”
+    (HC 148801 AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 4.9.2018)
+    “Agravo regimental em recurso ordinário em habeas corpus. Penal. Condenação. Condenado por infração ao art. 12 da Lei 10.826/03 e art. 33 da Lei nº 11.343/06. Posse de 2 (duas) munições de calibre 38. Alegada ausência de lesão ao bem juridicamente tutelado. Reconhecimento da atipicidade material da conduta. Impossibilidade. Crime de mera conduta e de perigo abstrato. Precedentes. Regimental não provido.
+    1. A posse de arma de fogo de uso restrito, de seus acessórios ou de munições constitui crime de mera conduta e de perigo abstrato cujo objeto jurídico tutelado compreende a segurança coletiva e a incolumidade pública. Precedentes.
+    2. Agravo regimental ao qual se nega provimento.”
+(RHC 138.843 AgR, rel. Min. Dias Toffoli, Segunda Turma, DJe 18.5.2017)
+    “AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. DIREITO PENAL. CRIMES DE TRÁFICO DE DROGAS E DE POSSE IRREGULAR DE MUNIÇÃO DE USO PERMITIDO. ARTIGO 12 DA LEI Nº 10.826/2003. CRIME DE PERIGO ABSTRATO. TIPICIDADE.
+    1. A posse irregular de munição de uso permitido (art. 12 da Lei 10.826/2003) constitui crime de perigo abstrato, não se exigindo demonstração de ofensividade concreta para sua consumação, sendo irrelevante a presença da arma de fogo para tipificá-lo. Precedentes.
+    2. Agravo regimental conhecido e não provido.”
+(RHC 146.081 AgR, rel. Min. Rosa Weber, Primeira Turma, DJe 17.11.2017)
+    Na mesma linha: HC 138.157 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 19.06.2017 e HC 127.652 AgR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 17.06.2015.
+    Destarte, ausente hipótese de constrangimento ilegal, não é o caso de concessão da ordem.
+    4. Posto isso, com fulcro no art. 21, § 1º, do RISTF, nego seguimento ao habeas corpus .
+    Publique-se. Intime-se.
+    Brasília, 25 de junho de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
