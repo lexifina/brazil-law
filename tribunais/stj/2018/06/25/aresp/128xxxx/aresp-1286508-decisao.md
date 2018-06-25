@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (art. 1.042 do CPC/2015) interposto contra decisão (e-STJ fls. 207/208) que inadmitiu o recurso especial em virtude de: (a) inexistência de violação dos arts. 186 e 927 do CC/2002 e (b) impossibilidade de análise de matéria fático-probatória (Súmula n. 7/STJ).
+O acórdão recorrido está assim ementado (e-STJ fl. 181):
+APELAÇÃO. OFENSAS LANÇADAS DE FORMA PRIVADA EM REDE SOCIAL. INDENIZAÇÃO POR DANOS MORAIS.
+1. Os elementos constantes dos autos permitem afirmar com razoável segurança que as referidas injúrias foram lançadas pela ré em meio à discussão e em retorsão à provocação anterior, na medida em restou incontroversa a animosidade entre as partes, decorrente da perturbação do descanso da autora e da sua genitora, supostamente causados pelos latidos dos cachorros mantidos no imóvel contíguo. Em meio ao conflito em que se envolveram as partes seria natural que houvesse discussão e enfrentamento, com troca de ofensas recíprocas
+2. Embora a falta de publicidade das ofensas não afaste o dever de reparar os danos delas decorrentes, não se reconhece no caso em exame grave abalo à sua dignidade e à honra subjetiva da autora a justificar a imposição da indenização pleiteada.
+3. Recurso não provido. Sentença mantida.
+Nas razões do recurso especial (e-STJ fls. 186/196), interposto com fundamento no art. 105, III, "a", da CF, a recorrente alegou violação dos arts. 186 e 927 do CC/2002, sustentando que "em momento algum a Recorrida negou ter proferido contra a Autora Recorrente as palavras ofensivas à sua honra e imagem, em especial quanto à sua condição de ser humano, sempre visando humilhação, menosprezo e deboche, em evidente ato lesivo aos direitos subjetivos da Autora, inclusive reconhecendo tal fato conforme sua expressa manifestação às fls. 57 dos autos" (e-STJ fls. 189/190).
+No agravo (e-STJ fls. 211/221), afirma a presença de todos os requisitos de admissibilidade do especial.
+A recorrida apresentou contraminuta (e-STJ fls. 224/230).
+É o relatório.
+Decido.
+O Tribunal de origem, à luz das provas dos autos, concluiu que não houve qualquer abalo moral indenizável, nos seguintes termos (e-STJ fls. 182/184):
+A autora ajuizou ação pleiteando a reparação dos danos morais causados pelas injúrias comprovadamente levadas a efeito pela ré em seu desfavor, mediante utilização do mecanismo de mensagens privadas conhecido como "inbox", disponibilizado aos usuários da rede social Facebook (fls. 16).
+Contudo, os elementos constantes dos autos permitem afirmar com razoável segurança gue as referidas injúrias foram lançadas pela ré em meio à discussão envolvendo as partes e em retorsão à provocação anterior, decorrente da perturbação do descanso da autora e da sua genitora, supostamente causados pelos latidos dos cachorros mantidos no imóvel contiguo.
+Neste conflito em que se encontravam as partes, seria natural que houvesse discussão e enfrentamento, com troca de ofensas reciprocas.
+Há, inclusive, afirmação, não desmentida de que a autora, pouco antes às ofensas aqui impugnadas, teria comparecido ao imóvel da ré e atribuido a ela qualidades pejorativas e aspectos desabonadores da sua aparência fisica.
+Tal situação de antipatia e hostilidade entre a autora e a ré certamente se protraiu no tempo e, dessa forma, não poderia ter causado sofrimento profundo para qualquer delas. Na verdade, tudo indica que pouca importância foi dada pela autora às referidas ofensas, porque a mensagem eletrônica correspondente foi respondida apenas dois meses depois do seu envio, em tom de deboche, e a réplica da ré (fls. 58/59) revela certo arrefecimento dos ânimos já em agosto de 2013.
+Assim, embora a falta de publicidade das ofensas não afaste o dever de reparar os danos delas decorrentes, não se reconhece no caso em exame grave abalo à dignidade e à honra subjetiva da autora a justificar a imposição da indenização pleiteada, como corretamente anotou a sentença: "In casu, percebe-se que a questão se fundou em mero desacerto quanto a direito de vizinhança (latidos de animais), o que repercutiu em ofensas recíprocas, não havendo qualquer abalo moral" (fls. 136/137).
+Portanto, a sentença que julgou improcedente o pedido, decidiu corretamente a lide e deve ser mantida por seus próprios fundamentos.
+Assim, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a Gratuidade da Justiça na instância de origem, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
