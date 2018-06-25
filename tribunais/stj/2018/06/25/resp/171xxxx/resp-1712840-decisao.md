@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF (e-STJ fls. 181/1967).
+O acórdão recorrido está assim ementado (e-STJ fl. 144):
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA EM FASE DE CUMPRIMENTO DE SENTENÇA. 1. POSSIBILIDADE DE RECONHECIMENTO DA PRESCRIÇÃO INTERCORRENTE NA VIGÊNCIA DO CPC/73 EM ATENÇÃO AOS PRINCÍPIOS DA RAZOÁVEL DURAÇÃO DO PROCESSO, DA SEGURANÇA JURÍDICA, DA ORIENTAÇÃO CONSTITUCIONAL DE NÃO ETERNIZAÇÃO DAS PENDÊNCIAS JUDICIAIS E, POR FIM, PARA CUMPRIR COM A FUNÇÃO JURISDICIONAL DE PACIFICAÇÃO DOS CONFLITOS SOCIAIS. SÚMULA Nº 150 DO STF. 2. DESNECESSIDADE DE PRÉVIA INTIMAÇÃO DA PARTE EXEQUENTE PARA DAR PROSSEGUIMENTO AO PROCESSO. ENTENDIMENTO DO STJ E DESTA CORTE DE JUSTIÇA. 3. FIXAÇÃO JURISPRUDENCIAL DO TERMO INICIAL DO PRAZO PRESCRICIONAL EM UM ANO APÓS A SUSPENSÃO SINE DIE DA EXECUÇÃO. PROCESSO QUE FICOU PARALISADO POR APROXIMADAMENTE 07 ANOS. EVIDENTE DESÍDIA DO CREDOR POR LAPSO TEMPORAL MUITO SUPERIOR AO PRAZO PRESCRICIONAL PREVISTO PARA HIPÓTESE. 4. PRESCRIÇÃO INTERCORRENTE QUE NÃO SE CONFUNDE COM ABANDONO DE CAUSA. INAPLICABILIDADE DO ART. 485, § 1º, DO CPC/15. PRESCRIÇÃO INTERCORRENTE MANTIDA. 4. NÃO HAVENDO QUALQUER ATO, ATUAÇÃO OU SEQUER CONSTITUIÇÃO DE PROCURADOR POR PARTE DOS EXECUTADOS, INCABÍVEL IMPOR A PARTE EXEQUENTE, AINDA QUE TENHA RESTADO VENCIDA, O PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS RECURSAIS. RECURSO CONHECIDO E DESPROVIDO.
+A controvérsia central discutida nesse recurso diz respeito à necessidade de prévia intimação do credor para se reconhecer a prescrição intercorrente.
+Em relação ao tema, a Segunda Seção desta Corte Superior admitiu, mediante o rito previsto no art. 947, § 4º, do CPC/2015, o Incidente de Assunção de Competência (IAC) no REsp n. 1.604.412/SC. Confira-se:
+PROPOSTA DE ASSUNÇÃO DE COMPETÊNCIA. RECURSO ESPECIAL. INCIDENTE INSTAURADO DE OFÍCIO. DIREITO PROCESSUAL CIVIL. PRESCRIÇÃO INTERCORRENTE. INTIMAÇÃO PRÉVIA DO CREDOR. ANDAMENTO DO PROCESSO. RELEVANTE QUESTÃO DE DIREITO. DIVERGÊNCIA ENTRE AS TURMAS DA SEGUNDA SEÇÃO.
+1. Delimitação da controvérsia:
+1.1. Cabimento, ou não, da prescrição intercorrente nos processos anteriores ao atual CPC;
+1.2. Imprescindibilidade de intimação e de oportunidade prévia para o credor dar andamento ao processo.
+2. Recurso especial afetado ao rito do art. 947 do CPC/2015.
+(IAC no REsp 1604412/SC, Relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 08/02/2017, DJe 13/02/2017.)
+Considerando que o acórdão a ser proferido em incidente de assunção de competência, por constituir precedente qualificado, vinculará todos os juízes e órgãos fracionários (arts. 927, III, e 947, § 3º, do CPC/2015 e 121-A e 271-B e seguintes do RISTJ), impõe-se a suspensão do presente recurso, até a publicação do acórdão paradigma.
+No entanto, a suspensão desse processo deverá ser feita na Secretaria desta Corte Superior, uma vez que no procedimento do IAC não há previsão de juízo de retratação pelo Tribunal de origem, não sendo possível aplicar-se, por analogia, o rito dos recursos repetitivos.
+Ante o exposto, DETERMINO A SUSPENSÃO DO PRESENTE RECURSO, até a publicação do acórdão paradigma, a ser proferido no IAC no REsp n. 1.604.412/STC.
+Publique-se e intimem-se.
