@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de Recurso Especial, fundamentado na alínea a do permissivo constitucional, interposto pela FAZENDA NACIONAL, na vigência do CPC/2015, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"TRIBUTÁRIO. ADUANEIRO. RETENÇÃO DE VALORES. ART. 65 DA LEI 9.069/95 C/C ART 700 DO REGULAMENTO ADUANEIRO. LIMITE DE R$ 10.000,00. INGRESSO NO PAÍS DE VALOR SUPERIOR. PERDA DE NUMERÁRIO EXCEDENTE. ABORDAGEM EM ZONA SECUNDÁRIA.
+POSSIBILIDADE.
+1. O Decreto nº 6.759/2009 (Regulamento Aduaneiro), ao definir, em seu art. 700, §3º, a aplicação do perdimento sobre à totalidade da moeda que ingressar no território aduaneiro ou dele sair quando não portada por viajante, extrapola os limites do poder regulamentar, trazendo inovação em desacordo com o art. 65 da Lei nº 9.069/95, que estabelece o limite de R$10.000,00 (dez mil reais).
+2. A legislação não dispõe que a pena de perdimento da moeda somente pode ser aplicada quando o numerário for apreendido em zona primária" (fl. 192e).
+O acórdão em questão foi objeto de Embargos de Declaração, rejeitados, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO. OMISSÃO INEXISTENTE. REDISCUSSÃO DO JULGADO. PREQUESTIONAMENTO.
+1. A acolhida dos embargos declaratórios só tem cabimento nas hipóteses de omissão, contradição, obscuridade ou erro material.
+2. A irresignação pela circunstância de o acórdão deixar de analisar a questão controvertida segundo a interpretação defendida pela embargante caracteriza contrariedade, e não omissão.
+3. Os embargos de declaração não se prestam à rediscussão do julgado, devendo o inconformismo quanto à interpretação dos fatos e ao direito aplicável ao caso ser suscitado na via recursal adequada.
+4. Estando evidenciada a tese jurídica em que se sustenta a decisão proferida nesta instância, com resolução das questões devolvidas ao seu conhecimento (art. 1.013 CPC), não é necessário declarar todos os dispositivos legais em que se fundamenta, considerando-se incluídos no acórdão os elementos que o embargante suscitou para esse fim, ainda que os embargos de declaração sejam inadmitidos ou rejeitados (art. 1.025 do CPC)" (fl. 218e).
+Alega-se, nas razões do Recurso Especial, violação ao art. 700, § 3º, do Decreto 6.759/2009. Para tanto, sustenta, in verbis:
+"De acordo com o art. 65 da Lei 9.069/95, o ingresso no País e a saída do País, de moeda nacional e estrangeira serão processados exclusivamente através de transferência bancária, cabendo ao estabelecimento bancário a perfeita identificação do cliente ou do beneficiário, excetuando-se o porte, em espécie, dos seguintes valores:
+(..)
+Em atenção ao § 3º do referido dispositivo legal, "a não observância do contido neste artigo, além das sanções penais previstas na legislação específica, e após o devido processo legal, acarretará a perda do valor excedente dos limites referidos no § 1º deste artigo, em favor do Tesouro Nacional".
+No que diz respeito ao perdimento decretado pela autoridade fazendária, conquanto a Constituição Federal de 1998 não traga dispositivo dispondo sobre o perdimento de bens por danos ao erário, há expressa previsão de que o direito de propriedade deve ser exercido visando o interesse social.
+Para além disso, o texto constitucional dispõe, no art. 237, que "a fiscalização e o controle sobre o comércio exterior, essenciais à defesa dos interesses fazendários nacionais, serão exercidos pelo Ministério da Fazenda".
+Por meio dessa autorização constitucional, a pena de perdimento do valor total da moeda trazida por não-viajante foi expressamente prevista no artigo 700 do Decreto 6.579/2009 (Novo Regulamento Aduaneiro).
+No ponto, o Regulamento Aduaneiro (Decreto nº 6.759/2009) estabelece, em seu artigo 700, que a pena de perdimento da moeda que ingresse no território aduaneiro ou dele saia será aplicada, respeitando-se o limite de R$ 10.000,00, no caso de viajante que esteja portando tal quantia. Contudo, quando o valor estiver sob a guarda de não-viajante, dá-se perdimento à totalidade da moeda:
+(..)
+Por meio da autorização constitucional do art.237, a pena de perdimento do valor total da moeda trazida por não-viajante, como no caso em tela, foi expressamente prevista no artigo 700, parágrafos 2o. e 3o., do Decreto 6.579/2009 (Novo Regulamento Aduaneiro), não havendo que se falar assim, com o devido respeito, em inovação no ordenamento jurídico em desconformidade com o art. 65 da Lei n. 9.069/95" (fls. 230/233e).
+Requer, ao final, "seja conhecido e provido o presente Recurso Especial (alínea "a" artigo 105, III, da CRFB-1988) para o fim de ser reformado o julgado a quo, pois afrontou a legislação federal expressamente citada nesse recurso, em especial, o art. 700, §3º, do Decreto nº 6.759/2009" (fl. 233e).
+Não foram apresentadas contrarrazões.
+A irresignação não merece acolhimento.
+O Tribunal de origem, para decidir a controvérsia dos autos, deixou consignado, no que interessa:
+"Cinge-se a controvérsia à possibilidade de restituição dos valores retidos pela fiscalização em razão da entrada, em território nacional, de montante em espécie superior a R$ 10.000,00, sem a declaração do referido numerário perante a Secretaria da Receita Federal.
+No concernente, do artigo 65, § 3º, da Lei 9.069/95 c/c art. 700 do Regulamento Aduaneiro (Dec. 6.759/09) extrai-se que o ingresso de moeda nacional e estrangeira no país deve ser realizado exclusivamente por meio de instituição autorizada a operar no mercado de câmbio quando o valor for superior a R$10.000,00 - sendo que, no caso de montante superior em espécie, o numerário excedente estará sujeito à pena de perdimento.
+Ao contrário do alegado pelo impetrante, a legislação não dispõe que a pena de perdimento da moeda somente pode ser aplicada quando o numerário for apreendido em zona primária.
+Neste caso, a sentença julgou a lide nos seguintes termos:
+"(..)
+Contudo, em que pese cabível a aplicação da penalidade administrativa, pelas razões acima expostas, necessário atentar para o fato de que, além dos casos em que o ingresso ou a saída ocorre em consonância com a regulamentação pertinente, a norma em apreço excetua expressamente o porte, em espécie, dos valores até R$ 10.000,00 (dez mil reais) ou o equivalente a esta quantia em moeda estrangeira.
+Consoante já referido, a penalidade administrativa está prevista no terceiro parágrafo do art. 65 da Lei nº 9.069/95, o qual estabelece que, sem prejuízo de eventuais sanções de natureza criminal, a não observância daqueles preceitos acarreta a perda, em favor do Tesouro Nacional, do valor excedente ao limite de R$10.000,00 (dez mil reais) referido no primeiro parágrafo do mesmo artigo.
+A norma legal em tela em nenhum momento prevê ou autoriza a aplicação do perdimento da totalidade da moeda que está a ingressar ou a sair do território aduaneiro, tampouco faz alguma diferenciação entre ser ou não viajante o portador do numerário.
+Diante disso, forçoso concluir que o Decreto nº 6.759/09 (Regulamento Aduaneiro), ao definir, em seu art. 700, §3º, a aplicação do perdimento à totalidade da moeda que ingressar no território aduaneiro ou dele sair quando não portada por viajante, extrapolou os limites do poder regulamentar, trazendo inovação em desacordo com a norma legal, sendo, portanto, no ponto, ilegal e inaplicável.
+Logo, mesmo que se entenda que o art. 700, §3º, do Decreto nº 6.759/09 não é restrito aos casos em que a moeda está desacompanhada (ex: correspondência), abarcando também a hipótese fática em exame, seus termos são inaplicáveis.
+(..)"
+A sentença merece ser mantida por seus próprios fundamentos, os quais me permito adotar, para evitar tautologia, como razões de decidir.
+Esta Corte registra vários precedentes neste sentido, dos quais destaco os seguintes:
+(..)
+Em arremate, consigno que o enfrentamento das questões suscitadas em grau recursal, assim como a análise da legislação aplicável, são suficientes para prequestionar junto às instâncias Superiores os dispositivos que as fundamentam. Assim, deixo de aplicar os dispositivos legais ensejadores de pronunciamento jurisdicional distinto do que até aqui foi declinado. Desse modo, evita-se a necessidade de oposição de embargos de declaração tão-somente para este fim, o que evidenciaria finalidade procrastinatória do recurso, passível de cominação de multa (artigo 538 do CPC)" (fls. 186/190e).
+Por simples cotejo entre as razões do Recurso Especial e os fundamentos do acórdão recorrido, observa-se que a tese de que o art. 237 da Constituição Federal autoriza a pena de perdimento do valor total da moeda trazida por não-viajante, enquanto for mantida esta condição, sequer implicitamente foi apreciada pelo Tribunal de origem, não obstante terem sido opostos Embargos de Declaração para tal fim.
+ Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, incidindo o teor da Súmula 211 do STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. INDENIZAÇÃO. CABIMENTO. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+(..)
+6. Agravo interno não provido" (STJ, AgInt no AREsp 1.172.051/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 23/03/2018).
+Acrescente-se que, se a parte recorrente entendesse persistir algum vício no acórdão impugnado, imprescindível a alegação de violação ao art. 1.022 do CPC/2015, por ocasião da interposição do Recurso Especial, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, já que, conforme orientação fixada pela Súmula 105/STJ, não é admitida a condenação ao pagamento de honorários advocatícios em Mandado de Segurança.
+I.
