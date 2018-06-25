@@ -1,0 +1,7 @@
+DECISÃO
+[NOME] e [NOME] [NOME] [NOME] [NOME], ora recorrentes, estariam sofrendo coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Ceará no HC n. 0030213-93.2013.8.06.0000.
+Em consulta ao sítio eletrônico do Tribunal a quo, verifiquei que, nos autos da Apelação n. 1006223-10.2000.8.06.0001, a Desembargadora relatora declarou, em 24/11/2015, a extinção da punibilidade dos acusados e julgou prejudicada a apelação defensiva. Foi certificado o trânsito em julgado da decisão em 17/5/2016.
+Também registro que o Juízo de primeiro grau, em 12/7/2016, proferiu o seguinte despacho: "Diante do retorno dos autos do EGRÉGIO TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ e do reconhecimento da prescrição retroativa dos apelantes [NOME] e [NOME], conforme decisão monocrática, acostada às fls. 658/662, determino o arquivamento dos presente autos, após competente baixa na distribuição".
+Dessa forma, constata-se a prejudicialidade deste recurso, em que se pugna pela "realização de perícia sobre a escritura pública de compra e venda de imóvel exibida nos autos originários, de modo a verificar se a pretensa vítima do crime assinou ou não em branco o referido documento" (fl. 100).
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 246, ambos do RISTJ, julgo prejudicado o recurso em habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
