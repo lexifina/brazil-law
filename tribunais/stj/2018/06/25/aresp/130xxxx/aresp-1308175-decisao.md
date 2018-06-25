@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo manejado pela SUPERVIA - Concessionária de Transporte Ferroviário S/A, contra decisão da Presidência do Tribunal de Justiça do Estado do Rio de Janeiro que não admitiu o recurso especial com base no fundamento de que rever a conclusão adotada pela Turma julgadora, tal como lançado nas razões recursais, implicaria no revolvimento do conjunto fático-probatório dos autos, inadmissível na via especial ante o óbice da Súmula 7/STJ.
+É o relatório.
+De plano, verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois a parte agravante não impugnou o motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial, deixando de rebater, de modo específico, a apontada aplicação do óbice previsto na Súmula 7/STJ.
+Com efeito, em que pese a parte agravante haver mencionadoa não incidência da Súmula 7/STJ, não declinou os motivos pelos quais, no seu entender, o referido óbice não seria aplicável ao caso concreto.
+Isso porque a alegação genérica de que é necessária a reforma do decisum não tem o condão de infirmar o juízo formulado pela decisão agravada, à míngua de demonstração da situação particular que justificasse o afastamento da Súmula 7/STJ, o que atrai a incidência, por analogia, da Súmula 182 desta Corte ("É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, cabe à parte agravante, na petição do seu agravo interno, impugnar especificamente os fundamentos da decisão agravada, o que, na hipótese dos autos, não foi atendido.
+2. Para afastar a incidência da Súmula 182/STJ, não basta que o recorrente tenha explicitado, de maneira genérica, a desnecessidade do reexame das provas dos autos para a análise da tese suscitada no apelo nobre. Faz-se necessário que o agravante, analiticamente, contraste as conclusões do acórdão combatido com os fundamentos da decisão de inadmissibilidade do recurso especial, demonstrando que, na situação dos autos, a Súmula 7/STJ foi aplicada indevidamente.
+Isso contudo não ocorreu, devendo ser mantida a decisão que aplicou o óbice da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+(AgInt no AREsp 1.070.028/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 17/10/2017, DJe 20/10/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ART. 1.021, §§ 1º E 3º, DO CPC/2015 E SÚMULA 182/STJ.
+1. Uma das principais mudanças de paradigma trazidas pelo Código de Processo Civil/2015 diz respeito a uma maior exigência de motivação das decisões judiciais. Em especial, quanto ao julgamento do Agravo Interno, o art. 1.021, § 3º, do novo diploma adjetivo dispõe que "É vedado ao relator limitar-se à reprodução dos fundamentos da decisão agravada para julgar improcedente o agravo interno".
+2. Ocorre que, não raro, a parte sucumbente interpõe Agravo Interno tão somente repetindo os argumentos já aduzidos no apelo indeferido monocraticamente. Nessa hipótese, à primeira vista, poderia ter-se a ideia de que o Magistrado deveria fazer uso da sua criatividade para adotar novos fundamentos em face de argumentos repetidos.
+3. Entretanto, não foi esse o intento do legislador. Em contrapartida à impossibilidade de o relator limitar-se à reprodução dos fundamentos da decisão agravada, ficou estabelecido no art. 1.021, § 1º, do novo Codex que, "Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+4. Em busca do aperfeiçoamento do sistema processual pátrio, o legislador instituiu como peças de uma mesma engrenagem tanto a obrigação do julgador de explicitar de forma particularizada as razões que ensejaram a prolação do provimento jurisdicional quanto o ônus da parte recorrente de impugnar especificadamente os fundamentos da decisão atacada.
+5. In casu, a parte agravante limitou-se basicamente a reiterar as razões do Recurso Especial, alegando, de forma genérica, a ocorrência de violação dos arts. 20, § 3º, e 535 do CPC/1973 (1.022 do CPC/2015) e a não incidência da Súmula 7/STJ, sem contrapor especificadamente os fundamentos que dão supedâneo ao decisum hostilizado.
+6. A ausência de impugnação específica faz incidir na espécie a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada"), que está em consonância com a redação atual do CPC em seu art. 1.021, § 1º.
+7. Agravo Interno não conhecido.
+(AgInt no AREsp 933.639/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 10/11/2016, DJe 29/11/2016)
+Diante do exposto, não conheço do agravo.
+Publique-se.
