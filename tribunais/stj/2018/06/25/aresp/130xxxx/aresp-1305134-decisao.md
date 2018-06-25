@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se, na origem, de Agravo de Instrumento interposto por [NOME] contra decisão que rejeitou a sua exceção de pré-executividade ao entender que, no caso, para se acolher a prescrição suscitada seria necessária dilação probatório, providência que não é compatível com a via eleita.
+O Tribunal Regional Federal da 2ª Região, ao aprecia a controvérsia, manteve a sentença, em acórdão, proferido na vigência do CPC/2015, assim ementado:
+"AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ALEGAÇÃO DE PRESCRIÇÃO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. AGRAVO DESPROVIDO.
+1. Consoante o enunciado da Súmula nº 393, do STJ: "a exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória".
+2. No caso em tela, o Juízo a quo considerou que a questão suscitada pela ora agravante na exceção de pré-executividade demanda ncursão em aspectos fático-jurídicos e probatórios que não podem ser decididos pela via excepcional da exceção de pré-executividade.
+3. Como consignado na decisão agravada, a recorrente não comprovou em que datas houve a constituição definitiva do crédito tributário, não havendo como se aferir, de plano a alegada prescrição da cobrança, sem a necessidade de dilação probatória.
+4. Ademais, o parcelamento dos débitos tributários noticiado nos autos, mesmo que posteriormente rescindido, implica em reconhecimento do débito pelo devedor e interrompe a prescrição na forma do art. 174. parágrafo único, inciso IV, do CTN, interferindo diretamente na contagem do prazo prescricional.
+5. Portanto, gozando a CDA de presunção de veracidade somente elidida por prova inequívoca em contrario, havendo dúvidas quanto à ocorrência da prescrição, torna-se necessária uma análise mais acurada dos fatos, o que demanda dilação probatória, inadmissível em sede exceção de pré-executividade. Nestes casos, a defesa prevista em lei são os embargos de devedor, conforme art. 16, §2º, da Lei nº 6.830/80.
+6. Agravo conhecido e desprovido" (fl. 72e).
+Irresignada, [NOME] [NOME] [NOME] apresenta recurso especial no qual, além de divergência jurisprudencial, aponta violação aos arts. 156, inciso V, do CTN, 219, inciso V, do CPC/73 e 342, inciso II, do CPC/2015, sustentando, em síntese, a possibilidade de decretação da prescrição de ofício e a desnecessidade de dilação probatório para reconhecê-la no presente caso.
+Apresentadas contrarrazões às fls. 172/180e, foi o Recurso Especial inadmitido na origem (fl. 187e), daí a interposição do presente Agravo (fls. 189/191e).
+Contraminuta às fls. 193/197e.
+A irresignação não merece acolhimento.
+Com efeito, o Tribunal de origem ao apreciar a controvérsia consignou expressamente que, no caso, há necessidade de dilação probatória para se verificar a ocorrência da prescrição, vejamos:
+"No caso em tela, o Juízo a quo considerou que a questão suscitada pela ora agravante na exceção de pré-executividade demanda incursão em aspectos fático-jurídicos e probatórios que não podem ser decididos pela via excepcional da exceção de pré-executividade.
+Dispôs a decisão agravada, in verbis:
+"Às fls. 82/86, a executada [NOME] [NOME] [NOME] [NOME], representada pela Defensoria Pública da União, apresentou exceção de pré-executividade, alegando, em síntese, prescrição dos créditos tributários objeto da presente execução, constituídos por meio de declaração, já que os vencimentos ocorreram entre fevereiro e outubro de 1997, e a demanda executiva somente foi proposta em 11/09/2003.
+A União Federal apresentou impugnação às fls. 89/90, em que defende a inocorrência de prescrição, tendo em vista que os créditos exeqüendos foram objeto de parcelamento (PAES), tendo havido a interrupção do prazo prescricional.
+Relatados, decido.
+A jurisprudência transcrita abaixo nos esclarece acerca da contagem dos prazos decadencial e prescricional dos tributos sujeitos a lançamento por homologação, como é o caso dos cobrados nestes autos:
+(..)
+A presente execução fiscal visa à cobrança de créditos referentes a COFINS, exercício 1997/1998, devidamente constituídos pela entrega da declaração, com vencimentos entre 07/02/1997 e 10/10/1997.
+A data da declaração ou a data do vencimento - o que ocorrer depois - é o termo a quo do prazo prescricional para a cobrança do crédito tributário.
+Ocorre que, no caso dos autos, a excipiente não demonstrou as datas de entrega das respectivas declarações, data em que houve a constituição do crédito tributário, iniciando-se o curso do prazo prescricional, não havendo como constatar, de plano, sem necessidade de dilação probatória, a alegação de prescrição.
+Pelo exposto, rejeito a exceção de pré-executividade apresentada às fls. 82/86.
+(..)"
+Concessa venha, estou em que a decisão agravada deve ser mantida.
+Como consignado na decisão agravada, a recorrente não comprovou em que datas houve a constituição definitiva do crédito tributário, não havendo como se aferir, de plano, a alegada prescrição da cobrança, sem a necessidade de dilação probatória.
+Ademais, o parcelamento dos débitos tributários noticiado nos autos, mesmo que posteriormente rescindido, implica reconhecimento do débito pelo devedor e interrompe a prescrição, na forma do art. 174, parágrafo único, inciso IV, do CTN, interferindo diretamente na contagem do prazo prescricional.
+Portanto, gozando a Certidão de Dívida Ativa (CDA) de presunção de veracidade somente elidida por prova inequívoca em contrário, havendo dúvidas quanto à ocorrência da prescrição, torna-se necessária uma análise mais acurada dos fatos, o que demanda dilação probatória, inadmissível, em sede exceção de pré-executividade. Nestes casos, a defesa prevista em lei são os embargos de devedor, conforme art. 16, § 2º, da Lei nº 6.830/80" (fls. 67/69e).
+Posto isto, verifica-se que para derruir tal conclusão seria necessária a incursão no acervo probatório dos autos, providência vedada em sede de especial, a teor da Súmula 7/STJ.
+Nesse sentido:
+"TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 535, II, DO CPC/1973. AUSÊNCIA DE VIOLAÇÃO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. REQUISITOS LEGAIS DA CDA. DILAÇÃO PROBATÓRIA. FUNDAMENTO INATACADO. SÚMULAS 7 DO STJ E 283 DO STF.
+1. Inexiste contrariedade ao art. 535, II, do CPC/1973 quando o Tribunal de origem decide fundamentadamente todas as questões postas ao seu exame. Ademais, não se deve confundir decisão contrária aos interesses da parte com ausência de prestação jurisdicional.
+2. "É inadmissível o recurso especial quando o acórdão combatido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles" (Súmula 283 do STF). Na hipótese, não seria possível o exame da matéria em exceção de pré-executividade, pois demandaria dilação probatória, como se observa no seguinte acerto: "Logo, a questão relativa à prescrição dos valores executados em virtude de sua não-inclusão em programas de parcelamento exige instrução probatória, dado que a pretensão da executada de desconstituir a presunção de veracidade contida na decisão agravada terá de ser analisada, necessariamente, em cotejo com elementos outros além dos presentes nos autos".
+3. Para afastar o entendimento a que chegou a Corte a quo, de modo a albergar as peculiaridades do caso e verificar que é possível o exame das questões apresentadas em sede de exceção de pré-executividade, como sustentado no apelo excepcional, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em recurso especial por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+4. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 851.460/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 27/03/2018).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. ALEGAÇÃO DE OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ACÓRDÃO EMBASADO EM PREMISSAS FÁTICAS. REVISÃO. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(..)
+IV - In casu, rever o entendimento do tribunal de origem de que a via eleita - exceção de pré-executividade - seria inadequada, porquanto necessária dilação probatória, demandaria revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte.
+(..)
+VIII - Agravo Interno improvido" (STJ, AgInt no REsp 1.695.114/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 06/12/2017).
+Em face do exposto, com fundamento do art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, tendo em vista que, na origem, não houve prévia fixação de honorários sucumbenciais.
+I.
