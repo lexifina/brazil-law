@@ -1,0 +1,66 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. 57 KG DE MACONHA. NEGATIVA DE VIGÊNCIA AO ART. 33, § 4º, DA LEI N. 11.343/2006. SUPOSTA ILEGALIDADE NA VEDAÇÃO DO REDUTOR ESPECIAL DA PENA. IMPROCEDÊNCIA. REDUTOR VEDADO COM BASE NA QUANTIDADE DE DROGAS E NO MODUS OPERANDI DO CRIME. CIRCUNSTÂNCIAS QUE SUBSIDIARAM A CONVICÇÃO DO JULGADOR NO SENTIDO DE QUE O RÉU INTEGRA ORGANIZAÇÃO CRIMINOSA. IDONEIDADE. PRECEDENTES DESTA CORTE. REEXAME. INADMISSIBILIDADE. SÚMULA 7/STJ. NEGATIVA DE VIGÊNCIA AO ART. 33 DO CP. SUPOSTA ILEGALIDADE NO REGIME INICIAL DE PENA. IMPROCEDÊNCIA. PENA SUPERIOR A 4 ANOS. RÉU QUE OSTENTA CIRCUNSTÂNCIA JUDICIAL NEGATIVA. REGIME FECHADO ADEQUADO. PRECEDENTES DESTA CORTE.
+Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, desprovido.
+DECISÃO
+[NOME] interpôs recurso especial, fundado no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Rio Grande do Sul, proferido no julgamento da Apelação Criminal n. 7007814388, assim ementado (fls. 240/241):
+CRIME DE ENTORPECENTES (ARTIGO 33, CAPUT, DA LEI Nº 11.343/06) E RECEPTAÇÃO (ARTIGO 180, CAPUT, DO CÓDIGO PENAL). IRRESIGNAÇÃO DEFENSIVA E MINISTERIAL RECURSO DEFENSIVO.
+Quanto ao delito de receptação, a existência do fato criminoso encontra amparo nos autos.
+Em relação à autoria, o réu, em seu depoimento, relatou que na data do fato foi convidado por um conhecido para fazer o transporte de entorpecentes. Diante das condições financeiras pelas quais se encontrava, resolveu aceitar. Disse que receberia o valor de R$ 7.000,00 para fazer o transporte da drogas. Declarou que pegou o carro no centro de São Leopoldo.
+Acreditava que o veículo estava "limpo". As chaves estavam dentro do carro. O destino era Foz de Iguaçu, mas acabou não saindo do Estado do Rio Grande do Sul.
+O ponto de encontro foi em um posto de gasolina. Lá se encontrou com outras pessoas que carregaram o veículo com os entorpecentes. Referiu que os estupefacientes estavam dentro de caixas de papelão, no porta malas do carro. Tinha conhecimento que estava transportando droga, mas não sabia da origem ilícita do veículo. No retomo, teve que parar para abastecer, momento em que foi abordado pelos policiais.
+O Policial Rodoviário Federal A.E.S., ao ser ouvido em juízo, confirmou a apreensão das drogas e as irregularidades no veículo apreendido.
+Pois bem. É cediço que no delito de receptação o dolo, consistente na prévia ciência da origem ilícita do bem, é de difícil comprovação, porque estágio meramente subjetivo do comportamento, devendo ser apurado das demais circunstâncias que cercam o fato e da própria conduta do agente. No caso, ambos estão a evidenciar tal prévia ciência da origem criminosa por parte do recorrente.
+Com efeito, a prova produzida nos autos comprovou que o réu se encontrava na posse de veículo roubado, com placas e documentos clonados. É pouco crível que o réu não desconfiasse da procedência ilícita do veiculo, que foi deixado no centro de São Leopoldo, com as portas destravadas e com as chaves em seu interior. Outrossim, é de conhecimento ordinário que veículos furtados ou roubados são utilizados para o transporte de entorpecentes, sendo que, no caso em comento, o carro apresentava uma perfuração compatível com tiro de arma de fogo na sua porta traseira, o que revela a sua origem espúria.
+Ademais, conforme destacou o ilustre Procurador de Justiça, "(..) o documento era grosseiramente falsificado, não sendo Impresso em papel adequado, conforme menciona o policial rodoviário federal em juízo, e, ainda, apresentando flagrante contradição entre o ano de fabricação, apontado como 2013, e o ano do modelo, onde se fez constar 2009" (fl. 171v).
+Tais circunstâncias, no meu sentir, faz presumir que o réu tinha conhecimento da origem ilícita do veículo.
+A outra inconformidade da defesa diz com o a pena - base aplicada ao delito de tráfico de drogas, elevada, no caso em comento, em 01 (um) ano. No caso, o togado de origem atuou em observância ao disposto no artigo 42 da Lei n.2 11.343/06, considerando, com preponderância sobre o previsto no artigo 59 do Código Penal, a quantidade da droga apreendida - 57 Kg de maconha - no momento da fixação da pena -base.
+Assim, entendo justificado o aumento da pena basilar em 01 (um) ano.
+RECURSO MINISTERIAL
+Em relação a causa de diminuição, fixada na espécie em 1/6, verifica-se que a quantidade da droga foi novamente utilizada - já havia sido empregada para aumentar a pena base - como parâmetro na fração adotada, o que configura bis in idem, consoante entendimento firmado pelo Supremo Tribunal Federal, em sede de repercussão geral, no ARE 666.334/AM. O outro fundamento utilizado pelo magistrado de piso foi a espécie da droga apreendida - maconha -, o que, no meu sentir, por se tratar de estupefaciente de menor lesividade à saúde dos usuários, também não poderia ter sido utilizado para afastar a fração de seu grau máximo (2/3).
+Ocorre, contudo, que o contexto fático revelado no caderno probatório mostra que o réu agia dentro de um esquema organizacional, pois o tipo de ação, o modus operandi, o veículo envolvido (roubado), o investimento financeiro para adquirir tal carga (57 Kg de maconha) e para pagar o transporte (o réu confessou que receberia o valor de R$ 7.000,00), demonstram que esta pessoa contratada para realizar o transporte do entorpecente usufruía de certo nível de confiança, pois não se iria confiar uma carga tão valiosa a uma pessoa que não fosse bem conhecida pela organização.
+Assim, o modo como se fez o transporte da maconha indica que houve, por detrás dos bastidores da operação, toda uma logística arquitetada por outras pessoas, além do réu, revelando a existência de uma organização criminosa.
+Por essas razões, afasto a privilegiadora do § 42 do artigo 33 da Lei n.2 11.343/06 e redimensiono a pena do delito de tráfico de drogas para 06 (seis) anos e 03 (três) meses de reclusão, a qual torno definitiva, diante da ausência de outras circunstâncias modificadoras.
+Verificado o concurso material entre os crimes de tráfico de drogas e receptação dolosa, as penas privativas de liberdade devem ser somadas (artigo 69 do Código Penal), resultando em 07 (sete) anos e 03 (três) meses de reclusão.
+Por outro lado, tendo sido valorada negativamente uma das circunstâncias judiciais, na primeira fase da dosimetria da pena (quantidade da droga apreendida - 57 Kg de maconha), penso que o regime inicial fechado (imediatamente mais grave segundo o quantum da sanção aplicável) é o cabível para o cumprimento da pena de 07 (sete) anos e 03 (três) meses de reclusão, nos exatos termos do artigo 33, § 22, "a", e § 32, c/c o artigo 59, ambos do Código Penal.
+APELAÇÃO MINISTERIAL PROVIDA.
+APELAÇÃO DEFENSIVA DESPROVIDA.
+Nas razões, suscitou negativa de vigência ao art. 33, § 2º, b, do Código Penal e ao § 4º, do art. 33 da Lei n. 11.343/2006.
+Primeiro, aduziu que o redutor especial da pena foi afastado apenas com base em deduções, sem prova efetiva de que o recorrente integrasse organização criminosa.
+Segundo, alegou que a condição de primário e o patamar da pena fixada são circunstâncias que indicam a fixação de regime inicial de pena mais brando (semiaberto) - fls. 286/300.
+A Corte de origem inadmitiu o recurso (fls. 313/323). Daí, sobreveio agravo (fls. 328/345). Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do recurso (fl. 369):
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. APLICABILIDADE DO ART. 33, § 4º, DA LEI Nº 11.343/06. SÚMULA Nº 7 DO STJ. DESPROVIMENTO. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO IDÔNEA.
+1. Não havendo ilegalidade patente no quantum de redução ou afastamento da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, é vedado proceder ao amplo reexame dos critérios considerados para a sua fixação, por demandar o revolvimento do contexto fático probatório.
+Incidência da Súmula nº 7/STJ.
+2. A imposição do regime inicial fechado está de acordo com as exigências legais.
+2. Pelo desprovimento do agravo em recurso especial.
+É o relatório.
+O agravo preenche os requisitos de admissibilidade, pois foi interposto no prazo legal e a defesa logrou impugnar os fundamentos da decisão de inadmissão.
+Passo, então, ao exame do recurso especial.
+Ao afastar a aplicação do redutor especial da pena (art. 33, § 4º, da Lei n. 11.343/2006), com base na conclusão de que o recorrente integra organização criminosa, a Corte de origem sopesou o modus operandi empregado no tráfico, além da quantidade de drogas (57 kg de maconha) - fl. 252:
+ ..  o contexto fático revelado no caderno probatório mostra que o réu agia dentro de um esquema organizacional, pois o tipo de ação, o modus operandi, o veículo envolvido (roubado), o investimento financeiro para adquirir tal carga (57 Kg de maconha) e para pagar o transporte (o réu confessou que receberia o valor de R$ 7.000,00), demonstram que esta pessoa contratada para realizar o transporte do entorpecente usufruía de certo nível de confiança, pois não se iria confiar uma carga tão valiosa a uma pessoa que não fosse bem conhecida pela organização.
+Assim, o modo como se fez o transporte da maconha indica que houve, por detrás dos bastidores da operação, toda uma logística arquitetada por outras pessoas, além do réu, revelando a existência de uma organização criminosa.  ..
+Nesse aspecto, não há ilegalidade no acórdão; ao contrário, a jurisprudência desta Corte tem admitido que tais aspectos sejam sopesados na análise dos requisitos previstos no dispositivo em comento.
+Nesse sentido, confiram-se:
+ ..
+CAUSA ESPECIAL DE DIMINUIÇÃO PREVISTA NO § 4º DO ART. 33 DA LEI N. 11.343/2006. PRETENDIDA APLICAÇÃO. REQUISITOS. NÃO PREENCHIMENTO. DEDICAÇÃO A ATIVIDADES ILÍCITAS/PARTICIPAÇÃO DE ORGANIZAÇÃO CRIMINOSA. INDEFERIMENTO DA MINORANTE JUSTIFICADO.
+1. Para a incidência do redutor previsto no §4º do art. 33 da Lei 11.343/06, é necessário o preenchimento dos requisitos legais: a) o agente seja primário; b) com bons antecedentes; c) não se dedique às atividades delituosas; e d) não integre organização criminosa.
+2. Revela-se inviável a aplicação da causa especial de diminuição, tendo em vista que as circunstâncias do caso concreto, em especial o modus operandi empregado no cometimento do delito, levaram à conclusão de que a recorrente integra organização criminosa.
+ ..
+(AgRg no AREsp n. 1.040.809/SP, Ministro Jorge Mussi, Quinta Turma, DJe 30/5/2018)
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERESTADUAL DE DROGAS. 25 KG DE MACONHA (23 TABLETES), OCULTOS NA BAGAGEM. VIOLAÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. SUPOSTA ILEGALIDADE DECORRENTE DA VEDAÇÃO DO REDUTOR ESPECIAL DA PENA. IMPROCEDÊNCIA. REDUTOR VEDADO NÃO APENAS COM BASE NA CONDIÇÃO DE MULA, MAS TAMBÉM EM OUTRAS CIRCUNSTÂNCIAS (QUANTIDADE, LOGÍSTICA E MODUS OPERANDI) QUE SUBSIDIARAM A CONVICÇÃO DO JULGADOR NO SENTIDO DE QUE A RÉ INTEGRA ORGANIZAÇÃO CRIMINOSA. POSSIBILIDADE. REEXAME. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. A simples atuação como mula do tráfico não induz a presunção de que o agente integre organização criminosa. Precedentes do Superior Tribunal Justiça.
+2. No caso, a vedação do redutor não decorreu exclusivamente da condição de mula, mas também de outros elementos (quantidade, logística e modus operandi) que subsidiaram a convicção do julgador no sentido de que a ré integra organização criminosa; fundamentação idônea à luz da jurisprudência, pois é lícito ao julgador formar convicção acerca do preenchimento dos requisitos do redutor especial com base em tais elementos.
+3. Inviável rever as conclusão da instância ordinária, estabelecida mediante análise das provas, ante o óbice da Súmula 7/STJ.
+4. Agravo regimental improvido.
+(AgRg no AREsp n. 1.211.329/MS, de minha relatoria, Sexta Turma, DJe 12/3/2018)
+Ademais, é inviável rever a convicção formada na Corte a quo a partir da análise de tais elementos, uma vez que a matéria tangencia o exame de elementos de fato e prova, providência vedada na via especial (Súmula 7/STJ).
+Com relação à suposta ilegalidade na fixação do regime inicial fechado, o recurso não merece acolhida.
+Em que pese a pena do recorrente tenha sido fixada em 7 anos e 3 meses de reclusão, há circunstância judicial negativa sopesada na primeira fase da dosimetria (quantidade de drogas), elemento apto a justificar a fixação do regime mais gravoso.
+A propósito, confiram-se:
+ ..  4. Tratando-se de réu condenado a pena superior a 4 (quatro) anos e inferior a 8 (oito) anos com circunstâncias judiciais negativas, pois ostenta maus antecedentes, afigura-se escorreita a imposição do regime fechado para cumprimento inicial da pena. Precedentes. Habeas corpus não conhecido.
+(HC n. 333.156/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 8/2/2017)
+ ..  7. Diante de circunstâncias judiciais desfavoráveis - no caso, as consequências e os antecedentes -, é cabível a fixação do regime fechado, aos condenados não reincidentes, para o início do cumprimento da pena superior a 4 anos e que não exceda a 8 anos, em conformidade com o § 3º do art. 33 do Código Penal.
+ ..
+(HC n. 370.412/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/10/2016)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
