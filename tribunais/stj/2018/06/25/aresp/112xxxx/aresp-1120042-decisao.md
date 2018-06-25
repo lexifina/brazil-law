@@ -1,0 +1,70 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. APREENSÃO DE MAIS DE 1 (UMA) TONELADA DE MACONHA. DISSÍDIO JURISPRUDENCIAL. SUPOSTA NULIDADE DE PROVAS OBTIDAS MEDIANTE PERÍCIA TÉCNICA. INADMISSIBILIDADE. PARADIGMA EM RECURSO ORDINÁRIO. PRECEDENTES DESTA CORTE. VIOLAÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. SUPOSTA ILEGALIDADE NA VEDAÇÃO DO REDUTOR ESPECIAL DA PENA. IMPROCEDÊNCIA. REDUTOR VEDADO COM BASE NA QUANTIDADE DE DROGAS E NO MODUS OPERANDI DO CRIME. CIRCUNSTÂNCIAS QUE SUBSIDIARAM A CONVICÇÃO DO JULGADOR NO SENTIDO DE QUE O RÉU INTEGRA ORGANIZAÇÃO CRIMINOSA. IDONEIDADE. PRECEDENTES DESTA CORTE. REEXAME. INADMISSIBILIDADE. SÚMULA 7/STJ. NEGATIVA DE VIGÊNCIA AO ART. 33 DO CP. SUPOSTA ILEGALIDADE NO REGIME INICIAL DE PENA. IMPROCEDÊNCIA. PENA SUPERIOR A 4 ANOS. RÉU QUE OSTENTA CIRCUNSTÂNCIA JUDICIAL NEGATIVA. REGIME FECHADO ADEQUADO. PRECEDENTES DESTA CORTE. VIOLAÇÃO DOS ARTS. 119 E 120 DO CPP, ALÉM DO ART. 60, § 2º, DA LEI N. 11.343/2006. RESTITUIÇÃO DE BEM APREENDIDO. INADMISSIBILIDADE. QUESTÃO QUE TANGENCIA A ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, desprovido.
+DECISÃO
+[NOME] interpôs recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça de Mato Grosso do Sul, proferido no julgamento da Apelação Criminal n. 0000670-70.2016.8.12.0033, assim ementado (fls. 400/401):
+APELAÇÃO CRIMINAL - TRÁFICO DE ENTORPECENTES - RECURSO DE ÉDER - PRELIMINAR - NULIDADE DO PROCESSO - ACESSO A DADOS ARMAZENADOS EM TELEFONE CELULAR APREENDIDO - AUSÊNCIA DE AUTORIZAÇÃO JUDICIAL PARA QUEBRA DO SIGILO TELEFÔNICO - INOCORRÊNCIA - PRETENDIDA ABSOLVIÇÃO - PROVAS DA AUTORIA E MATERIALIDADE - CIÊNCIA DO TRANSPORTE DA DROGA - PRETENDIDA REDUÇÃO DA PENA-BASE - FUNDAMENTAÇÃO IDÔNEA - PRETENDIDO RECONHECIMENTO DA MINORANTE DO PRIVILÉGIO - AUSÊNCIA DOS REQUISITOS LEGAIS - AFASTAMENTO DA HEDIONDEZ - PREJUDICADO - MODIFICAÇÃO DO REGIME PRISIONAL - FECHADO MANTIDO - SUBSTITUIÇÃO DA PENA POR RESTRITIVAS DE DIREITOS - IMPOSSIBILIDADE - RESTITUIÇÃO DO VEÍCULO - PROPRIEDADE DO BEM NÃO COMPROVADA - PERDIMENTO MANTIDO - RECURSO DESPROVIDO.
+Conforme disposições contidas no art. 6º do CPP, tem-se que é permitida a apreensão de qualquer objeto que tenha relação com o fato delituoso, bem como a colheita de todas as provas que servirem para o esclarecimento do fato e de suas circunstâncias, sendo, inclusive, dever dos funcionários responsáveis pela investigação proceder à coleta de todo e qualquer material probatório apto em comprovar a prática da infração penal. Nesse contexto, não há qualquer ilegalidade no procedimento realizado pelos policiais, relativo à apreensão dos celulares dos réus e posterior verificação das últimas ligações e mensagens de texto registradas nos referidos telefones móveis.
+Se o conjunto probatório não deixa dúvidas de que o apelante agiu como "batedor de estrada" para o corréu transportar a droga no caminhão, deve ser mantida a condenação.
+Não se modifica a pena-base se o magistrado fixou-a em atendimento ao disposto no art. 42 da Lei n. 11.343/06.
+Embora o agente seja primário e não registre antecedentes criminais, revela-se inviável a aplicação da minorante do privilégio, porquanto a elevada quantidade do entorpecente apreendido (mais de 01 tonelada de maconha) e a dinâmica do fato delituoso, denotam que ele integrava organização criminosa e se dedicava às atividades criminosas.
+Em atendimento ao art. 33, parágrafos 2º e 3º do CP, mantém-se o regime prisional fechado.
+Incabível a substituição da pena por restritivas de direitos, se não preenchidos os requisitos contidos nos incisos I e III do art. 44 do Código Penal.
+Não comprovada a propriedade do veículo e tendo sido utilizado na traficância, incabível a restituição.
+Primeiro, aduziu que a Corte de origem dissentiu da orientação jurisprudencial desta Corte, na medida em que deixou de declarar a ilegalidade da prova, decorrente de perícia técnica efetivada em telefone celular sem autorização judicial. Invocou, como paradigma, o acórdão proferido no julgamento do RHC n. 51.530/RO.
+Segundo, alegou que o acórdão contrariou o disposto no art. 33, § 4º, da Lei n. 11.343/2006, pois negou a incidência do redutor especial sem prova cabal de que o recorrente integrava organização criminosa e se dedicava ao crime.
+Terceiro, suscitou violação do art. 33, § 2º, b, do Código Penal, aduzindo que uma única circunstância judicial negativa não consubstancia elemento suficiente para agravar o regime inicial de pena.
+Por fim, suscitou ofensa aos arts. 119 e 120 do Código de Processo Penal, além do art. 60, § 2º, da Lei n. 11.343/2006, aduzindo que não há prova de que o veículo apreendido tenha origem ilícita, tendo o recorrente demonstrado que a real proprietária é [NOME], devendo ser restituído o bem (fls. 449/466).
+A Corte de origem inadmitiu o reclamo com fundamento na Súmula 7/STJ (fls. 515/518). Daí, sobreveio agravo (fls. 524/532). Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do recurso (fl. 554):
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ALEGAÇÃO DE FALTA DE PROVAS PARA A CONDENAÇÃO. ABSOLVIÇÃO. IMPOSSIBILIDADE. DILAÇÃO PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7 DO STJ. SUBSIDIARIAMENTE, PEDE A APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4º, DA LEI 11.343/2006. CIRCUNSTÂNCIAS CONCRETAS QUE EMBASAM A CONCLUSÃO DE QUE O PACIENTE DEDICA-SE A ATIVIDADES CRIMINOSAS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. PLEITO DE ABRANDAMENTO DO REGIME PRISIONAL. QUANTIDADE E NOCIVIDADE DA DROGA QUE ENSEJAM A NECESSIDADE DO REGIME INICIAL MAIS GRAVOSO. PEDIDO DE SUBSTITUIÇÃO DA PENA CORPORAL. INVIABILIDADE. MONTANTE DA PENA QUE NÃO COMPORTA O BENEFÍCIO. RESTITUIÇÃO DE VEÍCULO APREENDIDO. REEXAME. INVIABILIDADE. SÚMULA 7/STJ. PARECER PELO IMPROVIMENTO DO RECURSO.
+É o relatório.
+O agravo preenche os requisitos de admissibilidade. Passo, então, ao exame do recurso especial.
+Quanto ao recurso fundado na alínea c, verifico que a insurgência é manifestamente inadmissível, pois a jurisprudência desta Corte Superior não admite acórdãos proferidos em sede de recurso ordinário para fins de comprovação de divergência.
+A propósito destaco:
+ ..  4. É firme a jurisprudência desta Corte no sentido de que os acórdãos proferidos em sede de habeas corpus, mandado de segurança, recurso ordinário, conflito de competência e ação rescisória não se prestam a comprovar dissídio jurisprudencial. Agravo regimental desprovido.  ..
+(AgRg no REsp n. 1.657.841/ES, Ministro Joel Ilan Parcionik, Quinta Turma, DJe 8/6/2018)
+ ..
+V - "A jurisprudência deste Superior Tribunal de Justiça é pacífica quanto à impossibilidade de acórdão proferido em sede de habeas corpus, mandado de segurança e recurso ordinário servir de paradigma para fins de alegado dissídio jurisprudencial, ainda que se trate de dissídio notório, eis que os remédios constitucionais não guardam o mesmo objeto/natureza e a mesma extensão material almejados no recurso especial. Precedentes" (AgRg nos EREsp n. 1.265.884/RS, Terceira Seção, Min. Jorge Mussi, DJe 21/6/2012).
+ ..
+(AgInt no REsp n. 1.631.431/PR, Ministro Felix Fischer, Quinta Turma, DJe 21/5/2018)
+No que se refere à suposta violação do art. 33, § 4º, da Lei n. 11.343/2006, verifica-se que a Corte de origem , ao rechaçar a incidência do redutor especial, sopesou o modus operandi empregado no tráfico, além da quantidade de drogas (1 Ton de maconha) - fl. 410:
+ ..  diante das circunstâncias do fato delituoso, patente que integravam organização criminosa e se dedicavam às atividades criminosas, pois foram contratados para transportar mais de 01 tonelada de maconha em um caminhão, em meio a caixas vazias de verduras, inclusive, com auxílio de batedor de estrada, o que não ocorreria se o líder não depositasse confiança neles. ..
+Nesse aspecto, não há ilegalidade no acórdão; ao contrário, a jurisprudência desta Corte tem admitido que tais aspectos sejam sopesados na análise dos requisitos previstos no dispositivo em comento.
+Nesse sentido, confiram-se:
+ ..
+CAUSA ESPECIAL DE DIMINUIÇÃO PREVISTA NO § 4º DO ART. 33 DA LEI N. 11.343/2006. PRETENDIDA APLICAÇÃO. REQUISITOS. NÃO PREENCHIMENTO. DEDICAÇÃO A ATIVIDADES ILÍCITAS/PARTICIPAÇÃO DE ORGANIZAÇÃO CRIMINOSA. INDEFERIMENTO DA MINORANTE JUSTIFICADO.
+1. Para a incidência do redutor previsto no §4º do art. 33 da Lei 11.343/06, é necessário o preenchimento dos requisitos legais: a) o agente seja primário; b) com bons antecedentes; c) não se dedique às atividades delituosas; e d) não integre organização criminosa.
+2. Revela-se inviável a aplicação da causa especial de diminuição, tendo em vista que as circunstâncias do caso concreto, em especial o modus operandi empregado no cometimento do delito, levaram à conclusão de que a recorrente integra organização criminosa.
+ ..
+(AgRg no AREsp n. 1.040.809/SP, Ministro Jorge Mussi, Quinta Turma, DJe 30/5/2018)
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERESTADUAL DE DROGAS. 25 KG DE MACONHA (23 TABLETES), OCULTOS NA BAGAGEM. VIOLAÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. SUPOSTA ILEGALIDADE DECORRENTE DA VEDAÇÃO DO REDUTOR ESPECIAL DA PENA. IMPROCEDÊNCIA. REDUTOR VEDADO NÃO APENAS COM BASE NA CONDIÇÃO DE MULA, MAS TAMBÉM EM OUTRAS CIRCUNSTÂNCIAS (QUANTIDADE, LOGÍSTICA E MODUS OPERANDI) QUE SUBSIDIARAM A CONVICÇÃO DO JULGADOR NO SENTIDO DE QUE A RÉ INTEGRA ORGANIZAÇÃO CRIMINOSA. POSSIBILIDADE. REEXAME. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. A simples atuação como mula do tráfico não induz a presunção de que o agente integre organização criminosa. Precedentes do Superior Tribunal Justiça.
+2. No caso, a vedação do redutor não decorreu exclusivamente da condição de mula, mas também de outros elementos (quantidade, logística e modus operandi) que subsidiaram a convicção do julgador no sentido de que a ré integra organização criminosa; fundamentação idônea à luz da jurisprudência, pois é lícito ao julgador formar convicção acerca do preenchimento dos requisitos do redutor especial com base em tais elementos.
+3. Inviável rever as conclusão da instância ordinária, estabelecida mediante análise das provas, ante o óbice da Súmula 7/STJ.
+4. Agravo regimental improvido.
+(AgRg no AREsp n. 1.211.329/MS, de minha relatoria, Sexta Turma, DJe 12/3/2018)
+Ademais, é inviável rever a convicção formada na Corte a quo a partir da análise de tais elementos, uma vez que a matéria tangencia o exame de elementos de fato e prova, providência vedada na via especial (Súmula 7/STJ).
+Com relação à suposta ilegalidade na fixação do regime inicial fechado (violação do art. 33, § 2º, b, do Código Penal), o recurso também não merece acolhida.
+Em que pese a pena do recorrente tenha sido fixada em 6 anos de reclusão, há circunstância judicial negativa sopesada na primeira fase da dosimetria (quantidade de drogas), elemento apto a justificar a fixação do regime mais gravoso.
+A propósito, confiram-se:
+ ..
+VI - No que tange à fixação do regime inicial, conquanto o v. acórdão impugnado o tenha determinado com base na gravidade do delito e o paciente seja primário, a existência de circunstância judicial desfavorável, utilizada para aumentar a pena-base, inviabiliza a fixação do regime semiaberto unicamente em razão da quantidade de pena imposta ao paciente, sendo aplicável o regime mais gravoso na sequência, qual seja, o fechado.
+ ..
+(HC n. 445.326/SP, Ministro Felix Fischer, Quinta Turma, DJe 23/5/2018)
+ ..  4. Tratando-se de réu condenado a pena superior a 4 (quatro) anos e inferior a 8 (oito) anos com circunstâncias judiciais negativas, pois ostenta maus antecedentes, afigura-se escorreita a imposição do regime fechado para cumprimento inicial da pena. Precedentes. Habeas corpus não conhecido.
+(HC n. 333.156/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 8/2/2017)
+ ..  7. Diante de circunstâncias judiciais desfavoráveis - no caso, as consequências e os antecedentes -, é cabível a fixação do regime fechado, aos condenados não reincidentes, para o início do cumprimento da pena superior a 4 anos e que não exceda a 8 anos, em conformidade com o § 3º do art. 33 do Código Penal.
+ ..
+(HC n. 370.412/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/10/2016)
+Por fim, no que se refere à suposta violação dos arts. 119 e 120 do Código de Processo Penal, além do art. 60, § 2º, da Lei n. 11.343/2006, a insurgência é inadmissível.
+A Corte de origem sopesou circunstâncias de fato e prova para concluir que o bem apreendido, embora em nome de terceiro, é, na realidade, de propriedade do recorrente, tendo sido utilizado na traficância (fls. 414/415)
+ ..
+De acordo com o documentos de fls. 355-356, o veículo pertence a [NOME].
+A defesa alega que [NOME] não é esposa de Éder, mas somente a genitora de seu filho e que ela teria lhe emprestado o veículo um dia antes da prisão, sendo a verdadeira proprietária e que o utiliza para trabalhar e sustentar do menor.
+No entanto, segundo a certidão de fl. 40, [NOME] foi comunicada da prisão de Éder, por ser sua "esposa", pelo telefone [TELEFONE].
+Reforçando esta situação, consta no sistema SIGO QUE [NOME] é "convivente" do apelante, com quem possui um filho [NOME]. Para acabar de completar, o próprio apelante confessou em juízo que "esse carro é meu, acabei de comprar, tá no nome da minha esposa" (fl. 154 - audiovisual).
+Desta feita, além de o apelante não ter comprovado ser o legítimo proprietário do veículo Golf, constando o nome de [NOME] no CRLV (certificado de registro e licenciamento de veículo) (fls. 355-356) que, ao que tudo indica, é sua convivente, ficou demonstrado que o bem foi utilizado na traficância (art. 62 da Lei n. 11.343/06), sendo incabível o pedido de restituição.
+ ..
+Para entender de modo distinto, seria indispensável o reexame dos elementos de convicção, providência vedada na via especial (Súmula 7/STJ).
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
