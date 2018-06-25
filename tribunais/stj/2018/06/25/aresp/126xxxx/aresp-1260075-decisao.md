@@ -1,0 +1,74 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que não admitiu recurso especial ofertado de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+Nas razões do apelo especial, alega a defesa violação do art. 59 do Código Penal, bem como do art. 33, § 4.º, da Lei n. 11.343/2006.
+Aduz que "não se depreende do julgado ora impugnado fundamentação apta a ensejar a exasperação operada na pena -base, principalmente porque ausente a indicação dos elementos concretos necessários para tanto, impondo-se, por consequência, o redimensionamento da pena para quantum mínimo." (e-STJ, fl. 243)
+Sustenta que "a decisão colegiada não dispõe de fundamentação idônea e efetivamente capaz de afastar a incidência da minorante referida, pois com exceção à quantidade e natureza das drogas apreendidas, o acordão faz menção apenas a outro registro de tráfico de drogas, referente a um processo ainda em andamento, como meio de comprovação do envolvimento do recorrente em atividades criminosas." (e-STJ, fl. 245)
+Requer, assim, o redimensionamento da pena aplicada e a fixação da minorante do art. 33, §4º, da Lei 11.343/06, na fração máxima.
+Apresentadas contrarrazões (e-STJ, fls. 253-258).
+O recurso não foi admitido (e-STJ, fls. 260-267).
+O Ministério Público Federal opinou pelo provimento do agravo, para que, conhecido o recurso especial, este seja provido, para afastar a análise desfavorável da circunstância da "natureza da droga", fixando-se a pena-base no mínimo legal; para aplicar a minorante do § 4º do art. 33 da Lei n.º 11.343/06, na fração máxima; e pela concessão de habeas corpus de ofício, para fixar o regime inicial aberto e substituir a pena privativa de liberdade por restritiva de direitos. (e-STJ, fls. 305-309).
+É o relatório.
+Decido.
+Preenchidos os pressupostos de admissibilidade, conheço do agravo e passo ao exame do recurso especial.
+No tocante à pena-base, o Tribunal de origem assim decidiu:
+"Segundo narrativas dos policiais, estavam em patrulhamento de rotina em local conhecido por ser ponto de tráfico de entorpecentes e, ao avistarem o acusado em atitude suspeita, iniciaram o procedimento de abordagem. Detido o indivíduo, na revista, foram encontradas 16 petecas de cocaína, pesando 0,4 gramas, 25 pedrinhas de crack, pesando 0,2 gramas, e 6 torrões de maconha, pesando 0,7 gramas.
+As narrativas dos policiais, na delegacia e em juízo, são unânimes e coerentes, não existindo elementos nos autos a afetar a credibilidade no cenário por eles narrado acerca das circunstâncias da abordagem e da apreensão das drogas. Eles relataram a abordagem com detalhes, descrevendo o cenário encontrado de forma unânime.
+O réu admite a posse da droga apreendida, porém alega que se destinava a uso pessoal.
+Tenho que, no caso dos autos, há elementos suficientes para um juízo condenatório acerca do tráfico de drogas.
+ ..
+A pretensão para redução da pena-base para o mínimo legal não procede.
+A pena-base foi aplicada em 05 anos e 06 meses de reclusão, assim justificada pelo juízo singular:
+"O réu é imputável, tinha plena consciência da il citude de sua conduta, sendo exigível comportamento diverso, nada estando, porém, a determinar alto grau de culpabilidade. O réu é primário e não possui antecedentes. Conduta social e personalidade, sem elementos para aferição, presumindo-se normais. Motivos comuns à espécie.
+Circunstâncias indignas de nota. As consequências resultantes do delito não constam dos autos, mas reprováveis em virtude dos nefastos efeitos que o tráfico de substância entorpecente possui no meio social, especialmente o crack. Desconsidero o comportamento da vítima, pois é o Estado o sujeito passivo deste delito.
+Para a fixação da pena -base, considero preponderante a natureza e a quantidade da droga, bem como a personalidade e a conduta social (art. 42 da Lei nº 11.343/06).
+Sopesadas as circunstâncias judiciais acima analisadas, fixo a pena -base em 05 (cinco) anos e 06 (seis) meses de reclusão.
+Na ausência de outras causas modificadoras, a pena resta definitiva em 05 (cinco) anos e 06 (seis) meses de reclusão."
+A culpabilidade, bem de ver, tem gerado algum mal-estar, no manejo art. 59 do CP, mormente depois que a Reforma de 1984, adotando as grandes linhas do finalismo, deslocou, com olhos na teoria geral do delito, o dolo/culpa para a tipiçidade. Todavia, remanesce, em boa doutrina e com supedâneo jurisprudencial, a aferição da intensidade do dolo e do grau da culpa, bem como da maior ou menor reprovação social do delito.
+Nesse compasso, a menção à existência de "condições de entender o caráter ilícito de sua conduta" não constitui elemento idôneo a considerar negativa a vetorial "culpabilidade" e justificar o aumento da pena-base. Nesse sentido, precedentes do STJ:
+ ..
+As outras circunstâncias, todavia, por si, justificam suficientemente a pena aplicada.
+Nos termos do artigo 42 da Lei nº 11.343/06, a natureza da droga autoriza a exasperação. No caso, o réu portava dois tipos de entorpecentes altamente lesivos (crack e cocaína)." (e-STJ, fls. 208-211; sem grifos no original)
+Preliminarmente, convém anotar que a individualização da pena é uma atividade vinculada a parâmetros abstratamente cominados na lei, sendo, contudo, permitido ao julgador atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, às Cortes Superiores é possível, apenas, o controle da legalidade e da constitucionalidade na dosimetria.
+Adotado o sistema trifásico pelo legislador pátrio, na primeira etapa do cálculo, a pena-base será fixada conforme a análise das circunstâncias do art. 59 do Código Penal. Tratando-se de condenado por delitos previstos na Lei de Drogas, o art. 42 da referida norma estabelece a preponderância dos vetores referentes a quantidade e a natureza da droga, assim como a personalidade e a conduta social do agente sobre as demais elencadas no art. 59 do Código Penal.
+No caso, observa-se que o Tribunal de origem, atento ao disposto no art. 42 da Lei de Drogas, sopesou a natureza das drogas apreendidas (crack e cocaína) para aumentar a pena-base em 6 meses de reclusão.
+Tendo sido indicados elementos válidos para a majoração da reprimenda básica, uma vez que altamente nocivas as substâncias apreendidas, não se identifica a alegada contrariedade ao art. 59 do CP, sobretudo quando tais circunstâncias foram elencadas legalmente como preponderantes, e as penas máxima e mínima abstratamente cominadas ao delito de tráfico de drogas são de 5 a 15 anos de reclusão.
+Nesse sentido:
+REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO. DOSIMETRIA. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. ELEVADA QUANTIDADE DO ENTORPECENTE APREENDIDO. POSSIBILIDADE. AUMENTO PROPORCIONAL.
+1. Na fixação da pena-base de crimes previstos na Lei n. 11.343/2006, como ocorre na espécie, deve-se considerar, com preponderância sobre o previsto no artigo 59 do Código Penal, a natureza e a quantidade da substância entorpecente, a personalidade e a conduta social do agente, consoante o disposto no artigo 42 da Lei de Drogas.
+2. Na espécie, a reprimenda de piso acima do mínimo legal, em razão da natureza e a excessiva quantidade do estupefaciente apreendido, encontra-se devidamente justificada e proporcional às especificidades do caso versado.
+ ..
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 585.375/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 16/3/2017, DJe 27/3/2017);
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. CONDENAÇÃO. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO. NATUREZA E QUANTIDADE DA DROGA; FUNDAMENTAÇÃO IDÔNEA. MINORANTE DO TRÁFICO PRIVILEGIADO. APLICAÇÃO EM 1/6. VÍNCULO COM ORGANIZAÇÃO CRIMINOSA. LEGALIDADE. CONDIÇÃO DE MULA. NÃO APLICAÇÃO DA CAUSA DE DIMINUIÇÃO. IMPOSSIBILIDADE. NE REFORMATIO IN PEJUS. REGIME MAIS GRAVOSO. POSSIBILIDADE. AGRAVO PROVIDO PARA CONHECER DO AGRAVO E NEGAR-LHE PROVIMENTO.
+1. A quantidade e a natureza da droga apreendida constituem fundamentos aptos a ensejar a exasperação da pena-base, por demonstrar maior reprovabilidade da conduta.
+ ..
+5. Agravo regimental improvido.
+(AgRg no AREsp 674.735/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 13/12/2016, DJe 19/12/2016).
+No que tange à alegada contrariedade do art. 33, § 4º, da Lei de Drogas, o Tribunal de origem manteve afastado o reconhecimento do tráfico privilegiado sob a seguinte motivação:
+"Com relação à minorante prevista no artigo 33, § 4º, da Lei nº 11.343/06, o réu não faz jus ao benefício, pois não preenchidos os requisitos legais.
+Levando em conta a diversidade, a quantidade de drogas apreendidas não pode ser tida,, por pouco significativa, o que, aliado ao fato de que o réu ostenta registro por suposta prática de outro tráfico de drogas, revela que não se trata de tráfico ocasional, comprovando a dedicação a atividades criminosas.
+Assim, mantenho a pena fixada na sentença.
+REGIME
+O Supremo Tribunal Federal, em decisão plenária, declarou incidentalmente a inconstitucionalidade do § 1º do art. 2º da Lei 8.072/90 (HC 111.840, em 27/06/2012). Afastada, assim, a obrigatoriedade do cumprimento da pena em regime fechado para o condenado por tráfico de drogas.
+No caso concreto, em observância às normas dos artigos 33 e 59, ambos do Código Penal, com preponderância do artigo 42 da Lei nº 11.343/06, não verifico peculiaridade a justificar a fixação de regime mais gravoso. Assim, adequado o regime semiaberto para o cumprimento da reprimenda.
+Diante o exposto, dou parcial provimento ao apelo defensivo, para fixar o regime inicial semiaberto." (e-STJ, fl. 227)
+A teor do disposto no art. 33, § 4º, da Lei de Drogas, para que incida a causa especial de diminuição de pena aos condenados pelo delito de tráfico de drogas, é necessário que o agente seja reconhecidamente primário, ostente bons antecedentes e não se dedique a atividades criminosas ou integre organização criminosa.
+Na falta de indicação pelo legislador das balizas para o quantum dessa redução - de um sexto até dois terços -, o Superior Tribunal de Justiça tem decidido que a natureza e a quantidade de droga apreendida, assim como as demais circunstâncias do art. 59 do CP, podem ser utilizadas para definir tal índice ou, até mesmo, para afastar a incidência da minorante quando evidenciarem a habitualidade no comércio ilícito de entorpecentes (AgRg no REsp 1.644.417/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 16/03/2017, DJe 29/03/2017; AgRg no AREsp 857.658/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 25/10/2016, DJe 18/11/2016).
+In casu, observa-se que o Tribunal de origem considerou a existência de outro feito também pelo delito de tráfico de drogas, ocorrido em data anterior ao presente feito para se concluir pela habitualidade delitiva do recorrente.
+Dessa forma, assentado pela instância antecedente, soberana na análise dos fatos, que o recorrente se dedica a atividade criminosa, a alteração desse entendimento encontra óbice no Enunciado Sumula n. 7 desta Corte, pois "a pretensão de simples reexame de prova não enseja recurso especial" (AgRg no AREsp 1.006.890/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 14/02/2017, DJe 23/02/2017; (REsp 1.391.929/RJ, de minha relatoria, QUINTA TURMA, julgado em 08/11/2016, DJe 14/11/2016).
+Ademais, vale lembrar que a existência de outros processos criminais contra o acusado, ainda que sem condenação transitada em julgado, embora não possa configurar maus antecedentes (Súmula 444/STJ), pode permitir o afastamento da causa de diminuição do art. 33, § 4º, da Lei de Drogas, quando evidenciar se tratar de um agente contumaz na prática delitiva, como é a hipótese dos autos.
+Nesse sentido:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. CAUSA ESPECIAL DE DIMINUIÇÃO DA PENA. REEXAME FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. EXISTÊNCIA DE FEITOS CRIMINAIS EM CURSO. CONCLUSÃO ACERCA DA DEDICAÇÃO DO RECORRENTE ÀS ATIVIDADES CRIMINOSAS. POSSIBILIDADE. ERESP N.º 1.431.091/SP. RESSALVA DO ENTENDIMENTO DESTA RELATORA. DEMAIS PLEITOS PREJUDICADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a incidência de eventuais causas de aumento ou diminuição de pena, bem como a fração a ser aplicada. Óbice do enunciado n.º 7 da Súmula desta Corte Superior de Justiça. 2. "Embora a existência de inquéritos e ações penais em andamento não maculem os antecedentes criminais do acusado, por expressa disposição da Súmula 444 do STJ, constitui circunstância apta, em princípio, a evidenciar a dedicação a atividades criminosas, salvo hipóteses excepcionais" (HC 358.417/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Rel. p/ Acórdão Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 20/09/2016, DJe 03/10/2016).
+Ressalva do entendimento desta relatora.
+3. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 1.110.385/BA, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 05/09/2017, DJe 18/09/2017).
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. RÉU QUE SE DEDICA A ATIVIDADES CRIMINOSAS. REVALORAÇÃO DE FATOS INCONTROVERSOS CONTIDOS NO ACÓRDÃO RECORRIDO. POSSIBILIDADE. AUSÊNCIA DE OFENSA À SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. A existência de outros processos criminais, pendentes de definitividade, embora não sirvam para a negativa valoração da reincidência e dos antecedentes (Súmula n. 444 do STJ), podem afastar a incidência da minorante do art. 33, § 4º, da Lei n.
+11.343/2006, quando permitem concluir que o agente é habitual na prática delitiva. Precedentes.
+2. Hipótese em que, além da quantidade de droga apreendida, há depoimento testemunhal dando conta da intensa movimentação de pessoas no imóvel do agravante, assim como notícia do registro de duas condenações por porte ilegal de arma de fogo e outros dois processos em curso pelos delitos de homicídio tentado e consumado, o que comprovam sua habitualidade delitiva, impedindo a aplicação do benefício legal em apreço.
+3. O Superior Tribunal de Justiça tem reiterados julgados de que a revaloração jurídica dos fatos incontroversos descritos no acórdão recorrido não afronta o entendimento contido na Súmula 7 desta Corte, segundo o qual é vedado o reexame da matéria fático-probatória dos autos (Precedentes).
+4. Agravo regimental não provido."
+(AgRg no REsp 1.632.740/MG, de minha relatoria, julgado em 02/05/2017, DJe 08/05/2017).
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c art. 253, parágrafo único, II, "b" do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
