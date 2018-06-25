@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de recurso especial interposto por ROBERTO ANGELO, com fundamento nas alíneas "a" e "c" do permissivo constitucional, cuja controvérsia gira em torno da fixação dos honorários do advogado dativo com base nos valores da tabela da Ordem dos Advogados do Brasil, Seccional do Paraná (OAB/PR), nos termos do art. 22, § 1º, da Lei n. 8.906/1994 (e-STJ, fls. 423/451).
+É o relatório.
+Acerca da matéria posta em deslinde, o ilustre Ministro Rogério Schietti Cruz afetou os Recursos Especiais n. 1.656.322/SC e n. 1.665.033/SC para julgamento pela Terceira Seção pela sistemática dos recursos repetitivos (arti. 1.036, § 5º, do Código de Processo Civil), ocasião em que determinou o sobrestamento e a devolução dos processos pendentes de julgamento ao Tribunal de origem, onde deverão aguardar o julgamento do tema repetitivo, relativo aos parâmetros de fixação de honorários de advogados indicados para atuar como defensores dativos no âmbito penal.
+Em consequência, nos termos do artigo 256-L do Regimento Interno deste Superior Tribunal de Justiça, determine-se o retorno destes autos à origem, com baixa na distribuição para que, após o pronunciamento definitivo deste Superior Tribunal de Justiça quanto ao tema e a publicação do acórdão paradigma, seja dado encaminhamento nos termos do artigo 1.040 do Código de Processo Civil.
+Publique-se. Intimem-se.
