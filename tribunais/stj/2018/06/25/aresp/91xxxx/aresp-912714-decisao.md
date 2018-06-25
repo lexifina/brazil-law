@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/1973, que inadmitiu o recurso especial em virtude da incidência da Súmula n. 284/STF (e-STJ fls. 225/227).
+O acórdão recorrido está assim ementado (e-STJ fls. 119/120):
+APELAÇÃO CÍVEL. CAUTELAR DE EXIBIÇÃO DE EXTRATOS BANCÁRIOS. NATUREZA PREPARATÓRIA. CAUTELAR CONCEDIDA PARA EXIBIÇÃO DE EXTRATOS REFERENTES AOS MESES DE MAIO, JUNHO E JULHO DE 1987, JANEIRO E FEVEREIRO DE 1989 (sob pena de ser fixada multa diária), fls. 15. CUMPRIMENTO PARCIAL. EXTRATOS DOS MESES 03 A 07 DE 1987, FLS. 44/45. MEDIDA QUE NÃO SE EFETIVOU. A QUO QUE SE FURTOU A FIXAR MULTA DIÁRIA PARA EXIBIÇÃO DOS DEMAIS EXTRATOS, AO CONTRÁRIO, SENTENCIOU PELA EXTINÇÃO COM JULGAMENTO DO MÉRITO POR DECADÊNCIA. ERRO IN JUDICANDO. HAVENDO DESCUMPRIMENTO DA MEDIDA NÃO HÁ QUE SE FALAR EM EFETIVIDADE. DECADÊNCIA NÃO OPERADA. ADEMAIS OS DOCUMENTOS A SEREM EXIBIDOS FARIAM A PROVA NA AÇÃO PRINCIPAL, SE NÃO FORAM EXIBIDOS NÃO HÁ QUE SE FALAR EM EXIGÊNCIA DE INTERPOSIÇÃO DE AÇÃO PRINCIPAL. OBSERVAÇÃO QUE CABE DA REGRA PREVISTA NO ART. 806 COMBINADO COM O ART. 808, I, AMBOS DO CPC.
+1 - O Art. 796 reza que "O procedimento cautelar pode ser instaurado antes ou no curso do processo principal e deste é sempre dependente." "Art. 806. Cabe à parte propor a ação, no prazo de trinta (30) dias, contados da data da efetivação da medida cautelar, quando esta for concedida em procedimento preparatório." "Art. 808. Cessa a eficácia da medida cautelar se a parte não intentar a ação no prazo estabelecido no art. 806; (..). Extrai-se destes dispositivos, portanto, que o prazo de 30 (trinta) dias que a parte tem para promover a ação principal, sob pena de cessar a sua eficácia, não se conta do ajuizamento da medida cautelar e nem da intimação do réu; mas sim a partir de sua efetivação, quando concedida e efetivamente cumprida em procedimento preparatório, consoante inteligência das regras dos artigos 806 e 808, I, do Código de Processo Civil.
+2 - Ora, para o autor ingressar com a ação principal, o requerido deveria ter trazido aos autos todos os documentos indispensáveis. Veja-se que o requerido foi intimado (f. 19) para cumprir a determinação (f. 15) de juntar os documentos solicitados, mas apenas colacionou parte destes, (f. 44/45), ou seja sem cumprir o comando integral. No caso em comento, não houve ainda a efetivação da medida cautelar, em face da resistência do próprio Banco em exibir todos os documentos elencados e, em razão deste fato, não começou a correr o prazo para o ajuizamento da ação principal pelo autor.
+APELO PROVIDO. SENTENÇA CASSADA.
+Reconhecimento da inocorrência de decadência, com consequente retorno dos autos ao juízo de origem para regular andamento.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 139/143).
+Nas razões do recurso especial (e-STJ fls. 150/169), interposto com fundamento no art. 105, III, "a" e "c", da CF, o recorrente alegou, além de dissídio jurisprudencial, ofensa aos arts. 130, 267, IV e VI, 283, 333 do CPC/1973 e 6º, VIII, do CDC. Argumentou que "o Apelado não se desincumbiu do ônus da prova quanto à efetiva interpelação do Apelante" (e-STJ fl. 156).
+No agravo (e-STJ fls. 231/243), afirma a presença de todos os requisitos de admissibilidade do especial.
+O recorrido apresentou contraminuta (e-STJ fls. 265/273).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+O Tribunal de origem deu provimento ao recurso de apelação interposto pelo recorrido, "para cassar a sentença extintiva, reconhecendo a inocorrência da decadência, determinando o retorno dos autos ao juízo de origem para prosseguimento do feito" (e-STJ fl. 123).
+Extraem-se do acordão recorrido as seguintes razões de decidir (e-STJ fls. 121/123):
+De logo diga-se que merece provimento a irresignação.
+É que da simples análise dos autos, percebe-se tratar de cautelar, preparatória, de exibição de documentos, a saber, extratos, e pelo período do requerimento, é certo que tais extratos farão prova em possível ação de expurgos inflacionários, muito conhecida nesta Côrte.
+O Art. 796 reza que "O procedimento cautelar pode ser instaurado antes ou no curso do processo principal e c"este é sempre dependente." "Art. 806. Cabe à parte propor a ação, no prazo de trinta (3m) dias, contados da data da efetivação da medida cautelar, quando esta for concedida em procedimento preparatório." "Art. 808. Cessa a eficácia da medida cautelar se a parte não intentar a ação no prazo estabelecido no art.
+806; (..). Extrai-se destes dispositiva, portanto, que o prazo de 30 (trinta) dias que a parte tem para promover a ação principal. sob pena de cessar a sua eficácia, não se conta do ajuizamento da medida cautelar; ma.; sim a partir de sua efetivação, quando concedida e efetivamente cumprida em procedimento preparatório, consoante as regras dos artigos 806 e SUS, 1, do Código de Processo Civil.
+Ora, para o autor ingressar com a ação principal, o requerido deveria ter trazido aos autos todos os documentos indispensáveis. Veja-se que o requerido foi intimado (f. 19) para cumprir a determinação (f. 15) de juntar os documentos solicitados, mas apenas colacionou parte destes. (f. 44/45), ou seja sem cumprir o comando integral.
+No caso em comento, não houve ainda a efetivação da medida cautelar, em face da resistência do próprio Banco em exibir todos os documentos elencados na medida deferida e, em razão deste fato, não começou correr o prazo para o ajuizamento da ação principal pelo autor.
+O a quo portanto se equivocou ao entender que o autor decaiu da cautela ao não interpor a ação principal no prazo de trinta dias. Ressalte-se que a sentença não menciona de quando foi contado tal prazo, se da concessão da cautela, ou se do cumprimento parcial do comando.
+Se tal prazo foi contado da concessão da liminar este é um dos motivos para anulação da sentença, por descumprimento de preceito normativo, pois que "contados da efetivação da medida cautelar", não pode ser interpretado como da sua concessão. Assim reza o artigo 806 do CPC:
+(..)
+Por outro lado, se o prazo foi contado, pela serventia, a partir da juntada dos extratos de fls. 44/45 (cumprimento parcial do comando) pelo Banco, também não poderia servir de fundamento ao reconhecimento da decadência, isso tendo em vista que de tal juntada o Autor sequer foi intimado, ademais a juntada de forma parcial não caracteriza "efetividade da medida". Após a colação de parte dos extratos o feito foi concluso e o a quo determinou à serventia que certificasse a interposição da principal, após a certificação, houve a sentença ora cassada.
+Além disso, o próprio a quo consignou no comando liminar, fls. 15, que a não apresentação dos extratos estaria passível de fixação de multa diária, entretanto assim não procedeu.
+De outra sorte, há entendimento doutrinário e jurisprudencial de que as ações cautelares preparatórias de exibição de documentos tem natureza satisfativa, e portanto não obrigaria o autor a propor ação principal. Do que depreende-se certa lógica. Ora, caso o documento exibido não corrobore com o direito que se pensa ter, certamente que a cautelar se encerraria em si.
+Jurisprudência do STJ nesse sentido:
+(..)
+É nula a sentença extintiva, com julgamento do mérito, ao fundamento de não interposição ação principal, primeiro quando de fato não houve efetividade, cumprimento integral da medida, segundo quando sequer o autor fora intimado da exibição de parte dos extratos.
+Contudo, no especial, a parte não impugnou esse fundamento e trouxe alegações dissociadas do que ficou decidido no acórdão recorrido, incidindo, portanto, as Súmulas n. 283 e 284 do STF. Nesse sentido:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DEMORA INJUSTIFICADA NA REALIZAÇÃO DE PROCEDIMENTO CIRÚRGICO. FUNDAMENTOS DO ACÓRDÃO. NÃO IMPUGNAÇÃO. INCIDÊNCIA DO VERBETE 283 DA SÚMULA/STF. RAZÕES DISSOCIADAS DA MATÉRIA TRATADA NO ACÓRDÃO RECORRIDO. SÚMULA 284 DO STF. DEFEITO NA PRESTAÇÃO DO SERVIÇO. DANO MORAL. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. REVISÃO DO VALOR. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. NÃO PROVIMENTO.
+(..)
+2. As razões elencadas pelo Tribunal de origem não foram devidamente impugnadas. Incidência do enunciado 283 da Súmula/STF.
+3. Não se conhece de recurso especial cujas razões estão dissociadas da matéria tratada pelo acórdão recorrido. Súmula 284/STF.
+(..)
+7. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 774.370/RS, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/11/2015, DJe 23/11/2015.)
+CONSUMIDOR E CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CLÁUSULA EXCLUDENTE DA COBERTURA. APOSENTADORIA POR INVALIDEZ. SFH. ACÓRDÃO FUNDADO NO CDC. NULIDADE DA CLÁUSULA. ART. 51, IV, DO CDC. ESPECIAL DISTANCIANDO-SE DA FUNDAMENTAÇÃO DO ACÓRDÃO. TESE SUFICIENTE NÃO IMPUGNADA. SÚMULAS 283 E 284 DO STF. PREQUESTIONAMENTO. INEXISTÊNCIA. AGRAVO NÃO PROVIDO.
+(..)
+3. A falta de combate a fundamento suficiente para manter o acórdão recorrido bem como as razões recursais dissociadas daquilo que ficou decidido pelo Tribunal de origem demonstram deficiência de fundamentação do recurso, o que atrai, por analogia, os óbices das Súmulas n. 283 e 284 do Supremo Tribunal Federal.
+4. Agravo regimental não provido.
+(AgRg no REsp 1.507.662/PB, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/8/2015, DJe 28/8/2015.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
