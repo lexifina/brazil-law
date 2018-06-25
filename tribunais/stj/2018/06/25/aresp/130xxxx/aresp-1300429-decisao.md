@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (art. 1.042 do CPC/2015) interposto contra decisão (e-STJ fls. 291/293) que inadmitiu o recurso especial em virtude da impossibilidade de análise de matéria fático-probatória (Súmula n. 7/STJ).
+O acórdão recorrido está assim ementado (e-STJ fl. 230):
+APELAÇÃO CÍVEL E RECURSO ADESIVO. DIREITO INTERTEMPORAL. APLICAÇÃO DO CPC DE 1973. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CÁRTULAS ENVIADAS PELA INSTITUIÇÃO FINANCEIRA DEMANDADA MESMO COM A RECUSA EXPRESSA DO AUTOR. TALÃO DE CHEQUES EMITIDO A ENDEREÇO DIVERSO DO PROMOVENTE. UTILIZAÇÃO POR TERCEIROS. PROTESTO E AJUIZAMENTO DE AÇÃO DE EXECUÇÃO CONTRA O AUTOR EM DECORRÊNCIA DO ATO ILÍCITO DO BANCO. DANO MORAL CONFIGURADO.
+1 - In casu, o autor recusou expressamente o recebimento de cheques pelos correios e mesmo diante da recusa do cliente, o banco demandado não apenas enviou um talão com 40 (quarenta) cártulas como endereçou o mencionado talão a destino diverso da residência do promovente.
+2 - Utilização por terceiros que gerou inúmeros dissabores ao autor, inclusive, com o protesto em cartório e o ajuizamento de ação de execução. Dano moral configurado.
+3 - A reparação moral deve ser fixada com base no princípio da razoabilidade, observando as peculiaridades do caso concreto e objetivando amenizar o dano sofrido pelo lesado e punir de forma pedagógica o causador, sem gerar enriquecimento indevido tampouco não pode ser insuficiente no aspecto sancionatório. O magistrado de piso arbitrou o quantum de R$ 40.000,00 (quarenta mil reais), quantia que se mostra exorbitante.
+4 - No caso em testilha, considerando o abalo sofrido pelo autor que teve quarenta cheques utilizados indevidamente e como conseqüência inúmeras cobranças que culminaram com protestos e ação de execução movida contra si, não se resumindo o dano a uma simples negativação nos órgãos de proteção ao crédito, o que por si só geraria o dever de indenizar, entendo que o numerário a título de danos morais deve ser arbitrado em R$ 20.000,00 (vinte mil reais).
+5 - Recursos conhecidos para negar provimento ao apelo do autor e dar parcial provimento ao apelo réu.
+Sentença reformada em parte somente para reduzir o valor dos danos morais.
+Nas razões do recurso especial (e-STJ fls. 246/256), interposto com fundamento no art. 105, III, "a", da CF, o recorrente alegou violação do art. 944 do CC/2002, sustentando a desproporção entre o dano e a indenização fixada, requerendo a majoração do quantum indenizatório.
+No agravo (e-STJ fls. 295/304), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+A modificação do valor da indenização por danos morais é admitida, em recurso especial, conforme entendimento pacífico do STJ, apenas quando excessivo ou irrisório o montante fixado, violando os princípios da proporcionalidade e da razoabilidade (AgRg no AREsp n. 703.970/DF, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/8/2016, DJe 25/8/2016, e AgInt no AREsp n. 827.337/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/8/2016, DJe 23/8/2016).
+A Justiça local, diante das circunstâncias analisadas, fixou a indenização dos danos morais no valor de R$ 20.000,00 (vinte mil reais), nos seguintes termos (e-STJ fl. 242):
+Entendo que o caso em testilha possui uma agravante que o diferencia daqueles ordinariamente julgados por este Sodalício o que, a meu ver, justifica a fixação dos danos morais em valor um pouco superior ao comumente arbitrado por este ínclito colegiado.
+Eminentes pares, consoante se infere dos autos, foram emitidos 40 (quarenta) cheques em nome do autor e essas cártulas foram utilizadas indevidamente por terceiros, na esteira do que já consignei alhures, o que ensejou enormes dissabores e constantes preocupações ao promovente que teve títulos protestados em cartório e, inclusive, ação de execução movida contra si, conforme documentos de fls. 36/44.
+Destarte, sopesando as peculiaridades do caso concreto que o distingue de uma simples negativação indevida ou de uma compensação de um único cheque, tenho como razoável a fixação dos danos morais em R$ 20.000,00 (vinte mil reais), quantia que se mostra adequada a reparar o dano e a servir como sanção ao promovido.
+No caso dos autos, portanto, a quantia estabelecida pelas instâncias de origem não enseja a intervenção do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
