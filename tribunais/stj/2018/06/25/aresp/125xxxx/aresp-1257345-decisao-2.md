@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] BARBOSA DE OLIVEIRA contra decisão proferida pela Vice-Presidência do Tribunal de Justiça do Estado de Mato Grosso do Sul que não admitiu seu apelo nobre.
+Consta dos autos que a agravante foi condenada como incursa nas sanções do art. 157, § 3º, inciso II, do Estatuto Repressivo, à pena definitiva de 21 (vinte e um) anos de reclusão, em regime inicial fechado, acrescido do pagamento de 10 (dez) dias-multa.
+Interposto recurso especial, este não foi admitido pela instância de origem, ensejando a presente insurgência, na qual a agravante sustenta que o óbice indicado na decisão objurgada não incidiria no caso em tela.
+Pugna pelo acolhimento do agravo a fim de que seja admitido e provido o apelo raro.
+Parecer do Ministério Publico Federal às e-STJ fls. 565-572.
+É o relatório.
+No recurso especial, a parte pretende, em síntese, o redimensionamento da pena-base ao mínimo legal, ao precípuo argumento de que "houve um exagero punitivo, pois somente o reconhecimento de forma vaga, no tocante à culpabilidade, não legitima a exasperação" guerreada, pautada - tão somente - na "gravidade abstrata do crime" (e-STJ fl. 498).
+A par dos fundamentos declinados pelo Tribunal de origem por ocasião do juízo de admissibilidade provisório ali realizado, constata-se que, de fato, o recurso especial interposto não merece seguimento.
+Sobre o indigitado malferimento ao art. 59, caput, do CP, e para melhor elucidação do capítulo em exame, transcreve-se a dosimetria da pena procedida pelo Juízo primevo (e-STJ fl. 307):
+[NOME]: culpabilidade acentuada pois percorreu longo iter, premeditou o latrocínio, com escolha da vítima, sua conhecida e preparo com utilização de telefone de terceira pessoa com registro apagado da memória, tudo em alta reprovabilidade; a ré é primária e não possui antecedentes (f. 94, 97 e 143); conduta social e personalidade sem apuração; os motivos normais à espécie; Conseqüências comuns. Circunstâncias normais ao tipo penal. A vítima não contribuiu para o evento. A condição econômica da acusada não é boa.
+Desse modo, pela circunstância judicial desfavorável, fixo a pena base pouco acima do mínimo legal, em 21 anos de reclusão  ..  Dada a agravante da alínea h, inciso II, do artigo 61, do Código Penal, acresço 6 meses. Com a atenuante da confissão, reduz-se 6 meses. Ausentes causas especiais de aumento e diminuição, ao que tomo a reprimenda definitiva em 21 anos de reclusão  ..  (g.n.)
+A Corte a quo, ao julgar o apelo defensivo, ratificou in totum a primeira fase dosimétrica aludida, nos seguintes termos (e-STJ fl. 417):
+Como ensina Schmitt, para a aferição da culpabilidade do agente deve ser apontado "um plus de reprovação social de sua conduta". Continua o doutrinador: "O que temos é a necessidade em se valorar o grau de dolo ou de culpa que fogem ao simples alcance do tipo penal, ou melhor, que extrapolem o limite da intenção ou da previsibilidade".
+A valoração negativa do vetor da culpabilidade exige, concretamente, maior intensidade do dolo do agente no momento da ação delituosa, o que se verificou in casu.
+Nesse pórtico, a culpabilidade dos acusados é intensa, pois premeditaram a conduta delitiva  ..  para investirem contra a vitima.
+Assim, mostra-se satisfatória a fundamentação declinada pelo sentenciante, pois demonstra não apenas o acentuado grau de reprovabilidade do comportamento dos réus, mas também a demasiada intensidade do dolo na execução do delito. (g.n.)
+Inicialmente, cumpre frisar que a dosimetria da pena é o momento em que o juiz, dentro dos limites abstratamente previstos pelo legislador, deve eleger, fundamentadamente, o quantum ideal da sanção a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito praticado.
+Para chegar a uma aplicação justa da lei penal, o julgador, dentro dessa discricionariedade juridicamente vinculada, deve atentar para as singularidades do caso concreto.
+Como cediço, nos termos de entendimento pacífico no âmbito desta Corte Superior de Justiça, a revisão da dosimetria da pena em sede de recurso especial é admissível, apenas, diante de ilegalidade flagrante ou erro material, o que não se coaduna ao caso em testilha, pelo que vale conferir.
+Da compreensão dos fragmentos sublinhados, verifica-se que o acórdão recorrido converge ao entendimento sufragado por esta Corte Superior sobre a matéria, no sentido de que a premeditação da atividade criminosa, in casu, permeada pela "escolha da vítima, sua conhecida e preparo com utilização de telefone de terceira pessoa com registro apagado da memória" (e-STJ fl. 307 - g.n.), denota um grau de reprovabilidade mais acentuado - transcendente à tipicidade ordinária - da conduta delitiva, diante do planejamento antecipado da empreitada criminosa, delineamento apto a justificar o incremento da reprimenda basilar.
+Em casos análogos:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO QUALIFICADO. DOSIMETRIA. MAUS ANTECEDENTES. SÚMULA 444/STJ. CARÊNCIA DE MOTIVAÇÃO IDÔNEA PARA O AUMENTO DA PENA-BASE. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+1. A individualização da pena, como atividade discricionária do julgador, está sujeita à revisão apenas nas hipóteses de flagrante ilegalidade ou teratologia, quando não observados os parâmetros legais estabelecidos ou o princípio da proporcionalidade.
+2. No tocante à culpabilidade, para fins de individualização da pena, tal vetorial deve ser compreendida como o juízo de reprovabilidade da conduta, ou seja, o menor ou maior grau de censura do comportamento do réu, não se tratando de verificação da ocorrência dos elementos da culpabilidade, para que se possa concluir pela prática ou não de delito. No caso, a premeditação da conduta é indicativo do dolo intenso do réu, o que, de per si, justifica o incremento da básica.
+ ..
+(AgRg no HC 195.398/MS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 22/03/2018, DJe 02/04/2018 - grifou-se)
+HABEAS CORPUS. SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. LATROCÍNIO. DOSIMETRIA DA PENA. CULPABILIDADE EXACERBADA  ..  PREMEDITAÇÃO. AUMENTOS IDÔNEOS. PERSONALIDADE DO AGENTE E CONSEQUÊNCIAS DO CRIME. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+ ..
+4. É idôneo o recrudescimento da pena  ..  em razão da culpabilidade exacerbada, bem como o aumento decorrente da premeditação do delito, circunstância do crime que não é inerente ao tipo.
+5. Writ não conhecido. Ordem de habeas corpus concedida de ofício, para reduzir a reprimenda-base da paciente.
+(HC 316.907/PE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 21/05/2015, DJe 02/06/2015 - grifou-se)
+Assim, por se encontrar o acórdão fustigado em consonância com a jurisprudência firmada nesta Corte, a pretensão da agravante esbarra no óbice previsto no Enunciado n.º 83 da Súmula deste Superior Tribunal de Justiça, também aplicável ao recurso especial interposto com fundamento na alínea "a" do permissivo constitucional.
+Por tais razões, afigurando-se inadmissível o apelo nobre, conhece-se do agravo para não conhecer o recurso especial, nos termos do artigo 34, inciso VII, combinado com o artigo 253, parágrafo único, inciso II, alínea a, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se e intime-se.
+Cientifique-se o Ministério Público Federal.
