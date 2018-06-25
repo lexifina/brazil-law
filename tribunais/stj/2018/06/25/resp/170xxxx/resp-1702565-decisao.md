@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, na vigência do CPC/2015, com base na alínea a do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"PREVIDENCIÁRIO. EMBARGOS À EXECUÇÃO. EXISTÊNCIA DE DIFERENÇAS.
+Não merece acolhida os embargos que aduzirem a inexistência de diferenças a serem percebidas quando restarem demonstrados os valores devidos" (fl. 60e).
+Opostos Embargos de Declaração, foram rejeitados (fls. 66/70e).
+Alega o INSS, nas razões do Recurso Especial, fundamentado na alínea a do permissivo constitucional, ofensa aos arts. 917, III, § 2º, e 1.022 do CPC/2015.
+Aduz, inicialmente, negativa de prestação jurisdicional, asseverando que o acórdão recorrido foi "omisso/contraditório na aplicação e esclarecimentos acerca do disposto no artigo 917, III, § 2º, do CPC/2015. (..) Especificamente, não foi apreciada pelo E. Tribunal Regional Federal da 4ª Região a tese levantada pela autarquia previdenciária acerca do excesso de execução e ausência de título executivo" (fl. 75e).
+Sustenta, ainda, que, "ao contrário do decidido, além de excesso de execução, inexiste título executivo amparando o pagamento das diferenças relativas à revisão de que trata o artigo 29, II, da Lei 8.213/91. Vejamos: No caso em tela, no processo que deu origem à execução embargada, o INSS foi condenado ao pagamento do beneficio de auxílio-doença a partir da data do seu cancelamento (08/04/2010), com a conversão para aposentadoria por invalidez a partir de 01/12/2010. Com o trânsito em julgado, o INSS pagou as parcelas devidas, com a concordância do autor, nada mais sendo devido" (fl. 77e).
+Requer, ao final, o provimento do Recurso Especial.
+Apresentadas as contrarrazões (fls. 81/86e), o Recurso Especial foi admitido pelo Tribunal de origem (fl. 87e).
+A irresignação não merece prosperar.
+De início, verifica-se que a parte recorrente não demonstrou no que consistiu a suposta ofensa ao art. 1.022 do CPC/73, pois, acerca desse dispositivo processual, restringiu-se a alegar omissão e contradição no acórdão recorrido, assinalando a ausência de debate sobre tese relativa a suposto excesso de execução e ausência de título executivo, sem, contudo, explicitar qual seria a tese tida por omissa ou a contradição existente no aresto impugnado, o que atrai, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+Nesse sentido:
+"TRIBUTÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. DEFICIÊNCIA NAS RAZÕES RECURSAIS. INCIDÊNCIA DA SÚMULA 284/STF. EXECUÇÃO FISCAL. PENHORA. PROTEÇÃO DO ART. 833 DO CPC/2015.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão incorreu em omissão, contradição ou obscuridade. Aplica-se à hipótese o óbice da Súmula 284 do STF. Precedentes: REsp 1.595.019/SE, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 9/5/2017; AgInt no REsp 1.604.259/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 28/9/2016.
+2. Há entendimento firmado do Superior Tribunal de Justiça de que "é possível ao devedor poupar valores sob a regra da impenhorabilidade no patamar de até quarenta salários mínimos, não apenas aqueles depositados em cadernetas de poupança, mas também em conta-corrente ou em fundos de investimento, ou guardados em papel-moeda" (EREsp 1.330.567/RS, Rel. Ministro Luis Felipe Salomão, Segunda Seção, DJe 19/12/2014).
+3. Recurso especial do qual se conhece parcialmente e, nessa extensão, nega-se-lhe provimento" (STJ, REsp 1.710.162/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/03/2018).
+Quanto ao mais, o Tribunal de origem, com base no exame dos elementos fáticos dos autos, reformou a sentença que havia julgado procedentes os Embargos à Execução propostos pelo ora recorrente, decidindo a controvérsia nos seguintes termos:
+"A parte autora, ora exequente, ajuizou ação ordinária objetivando o restabelecimento do benefício de auxílio-doença ou a concessão do benefício de aposentadoria por invalidez.
+A sentença julgou procedente a pretensão, condenando o INSS ao pagamento do benefício de auxílio-doença a partir da data do seu cancelamento (08/04/2010) e para conceder o benefício de aposentadoria por invalidez a partir de 01/12/2010 ( data da perícia). Os valores devidos foram corrigidos monetariamente nos termos da Lei 11.960/2009. A autarquia foi condenada, ainda, ao pagamento das despesas processuais e honorários fixados em 10% sobre o valor das parcelas vencidas até esta data, nos termos da Súmula 111 do STJ, incluídas as que foram pagas por força da antecipação de tutela e, ainda, de metade das custas judiciais (fls. 111/112 autos em apenso).
+A sentença transitou em julgado em 09/11/11 (fls. 115 - verso - autos em apenso).
+Ato contínuo, requereu a parte autora fosse oficiado o INSS para apresentação dos cálculos (fls. 118).
+A autarquia apresentou cálculos, tendo a parte autora concordado com os mesmos (fls. 128).
+Expedido o alvará e levantada a quantia depositada, requereu a parte autora a correta implantação do benefício de aposentadoria por invalidez pela autarquia (fls. 139-autos em apenso).
+Informou a autarquia a implantação do benefício (fls. 141).
+Requereu a parte autora fosse apresentado cálculo contemplando as diferenças devidas (fls. 144).
+Apresentou a autarquia formulário informando a existência de diferenças, no importe de R$ 18.414,29 (dezoito mil, quatrocentos e quatorze reais e vinte e nove centavos) (fls. 148).
+Requereu a parte autora execução de sentença no valor de R$ 18.414,29 (dezoito mil quatrocentos e quatorze reais e vinte e nove centavos).
+Daí a oposição dos presentes embargos.
+De toda a narrativa realizada, o que sobressai é que o INSS pagou pelo benefício de auxílio-doença, quando deveria ter implantado o benefício de aposentadoria por invalidez; bem como faz jus a autora à revisão do benefício em face do art. 29, II, da Lei 8213/91.
+Nesta toada, tenho que merece provimento o apelo da parte exequente, com o prosseguimento da execução.
+Prejudicada a análise do recurso do INSS.
+Invertidos os ônus sucumbenciais.
+Ante o exposto, voto por dar provimento ao apelo da parte exequente, determinando o prosseguimento da execução. Prejudicado o apelo do INSS" (fls. 57/58e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios, anteriormente fixados em 10% (dez por cento) sobre o valor da causa (fls. 27e e 58e), para 11% (onze por cento) sobre idêntica base de cálculo, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
