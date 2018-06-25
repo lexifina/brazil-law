@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSS, com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 239):
+PREVIDENCIÁRIO. TEMPO DE SERVIÇO MILITAR OBRIGATÓRIO. APOSENTADORIA POR IDADE URBANA. REQUISITOS: ETÁRIO E CARÊNCIA.
+1. O tempo de serviço militar, inclusive o voluntário, ainda que anterior à filiação ao RGPS, deve ser computado como tempo de serviço para fins de aposentadoria, consoante prevê o art. 55, I, da Lei n.2 8.213/91, e para fins de carência. Inteligência do art. 143 da Constituição Federal, art. 63 da Lei 4.375/1964 e art. 100 da Lei 8.112/1990.
+2. Para a concessão de aposentadoria por idade urbana devem ser preenchidos dois requisitos: a) idade mínima (65 anos para o homem e 60 anos para a mulher) e b) carência - recolhimento mínimo de contribuições (sessenta na vigência da CLPS/1984 ou no regime da LBPS, de acordo com a tabela do art. 142 da Lei Nq 8.213/1991).
+3. Tratando-se de aposentadoria por idade urbana, a carência a ser cumprida é a prevista no art. 142 da LeiQ 8.213/91, observada aquela para o ano em que cumprido o requisito etário, podendo até mesmo ser implementada posteriormente.
+4. O termo inicial da aposentadoria por idade deve ser fixado na data do requerimento administrativo, consoante dispõe o art. 49, II, da Lei nQ 8.213/1991.
+Opostos embargos declaratórios, foram rejeitados (fls. 257/263).
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 1.022, do CPC/2015; 24, 27 e 55, I, da Lei 8.213/91, e sustenta, em síntese: (I) a existência de omissão no julgado, e (II) que o tempo de serviço militar obrigatório não pode ser computado para fins de carência, com o objetivo de pleitear aposentadoria rural.
+Contrarrazões não apresentadas (fl. 280).
+É o relatório.
+O recurso não prospera.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No mais, no presente caso, o recurso especial não impugnou fundamentos basilares que amparam o acórdão recorrido, a saber (fls. 233/234):
+(I) É certo que no âmbito do Regime Geral da Previdência Social não há essa previsão, de contagem do tempo de serviço militar para todos os efeitos, o que autorizaria sem maiores discussões seu cômputo para fins de carência. Porém, considerando que o único empecilho para tal seria a falta de contribuições previdenciárias, deve-se salientar que é possível a compensação financeira entre os regimes de previdência. Enfim, se o tempo de serviço militar é computado para todos os efeitos na esfera do serviço público federal, a compensação financeira com o Regime Geral da Previdência Social deve ser garantida pela União, ente público ao qual o militar estava vinculado. Assim, é possível o cômputo de tempo de serviço militar para fins de carência.
+(II) Ademais, considerando que a prestação de serviço militar não é uma faculdade do indivíduo, mas um dever constitucional, não seria justo penalizar o cidadão a que imposto tal dever com prejuízos em sua contagem de tempo de serviço e carência.
+Logo, a pretensão esbarra, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+Ante o exposto, conheço parcialmente do recurso especial para, nessa parte, negar-lhe provimento.
+Publique-se.
