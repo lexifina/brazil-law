@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação n. 00006008620158260263) - fl. 15:
+APELAÇÃO CRIMINAL - TRÁFICO E FABRICAÇÃO DE DROGAS - PRETENSÃO ABSOLUTÓRIA NEGADA - PRISÃO EM FLAGRANTE NA POSSE DE DROGAS E DE MATERIAL UTILIZADO PARA PREPARAÇÃO DOS NARCÓTICOS - CONFISSÃO EXTRAJUDICIAL E RELATO SEGUROS DOS POLICIAIS MILITARES - RETRATAÇÃO EM JUÍZO INEFICAZ - PENA INALTERADA - EXASPERAÇÃO COM BASE NA QUANTIDADE DE CRACK APREENDIDA - FIGURA PRIVILEGIADA RECHAÇADA - REGIME FECHADO - RECURSO DESPROVIDO.
+Verifica-se dos autos que o paciente foi condenado como incurso nos artigos 33, "caput", e 34, "caput", ambos da Lei n. 11.343/2006, na forma do artigo 69 do Código Penal, às penas de 08 anos e 10 meses de reclusão, em regime fechado, e ao pagamento de 1.783 dias-multa, fixados no mínimo legal, tendo sido negado o apelo em liberdade.
+Consta do acórdão impugnado que o paciente trazia consigo, para fins de tráfico 307,1g de crack, acondicionados em 01 invólucro plástico, em forma de pedra, e, ainda, possuía 01 balança de precisão, 20 embalagens plásticas, 589,5g de lidocaína, armazenada em 07 frascos, 01 garrafa de plástico contendo éter, 01 copo de liqüidificador, 01 rolo de saco plástico para embalagem, 01 tigela e 01 panela, todos objetos destinados à fabricação, preparação, produção ou transformação de drogas, sem autorização e em desacordo com determinação legal ou regulamentar.
+Insiste o impetrante no pedido de absolvição quanto ao crime previsto no art. 34 da Lei de Drogas, além do reconhecimento do tráfico privilegiado.
+É o relatório.
+O alegado constrangimento não está evidenciado.
+A condenação pelos crimes previstos nos arts. 33 e 34 da Lei de Drogas está baseada no vasto acervo probatório, conclusivo no sentido da finalidade comercial da substância apreendida em poder do paciente, assim como os objetos apreendidos evidenciaram a prática de fabricação/transformação de drogas, havendo, inclusive, laudo pericial atestando que os ativos encontrados na posse do paciente são comumente utilizados para o processo e adulteração da cocaína (fl. 19).
+Ultrapassar esse entendimento e acolher a tese de absolvição trazida na impetração demandaria amplo revolvimento de fatos e provas, o que não é possível nos autos de habeas corpus, de cognição sumária.
+Também quanto ao pedido de reconhecimento do tráfico privilegiado, a pretensão não merece acolhida, pois a elevada quantidade de droga apreendida (307g de crack), aliada a todo cenário apresentado, indicam a intensa dedicação às atividades criminosas (fl. 19).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
