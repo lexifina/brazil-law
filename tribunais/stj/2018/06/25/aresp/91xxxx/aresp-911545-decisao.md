@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544) interposto contra decisão que inadmitiu o recurso especial devido à aplicação da Súmula n. 7/STJ (e-STJ fls. 1.180/1.182).
+O acórdão do TJGO traz a seguinte ementa (e-STJ fls. 1.075/1.077):
+EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AÇÃO REVOCATÓRIA. LITIGÂNCIA MÁ-FÉ. OCORRÊNCIA. AUSÊNCIA DE ELEMENTOS NOVOS. A litigância de má-fé exige a presença de uma das hipóteses descritas no artigo 17 do Código de Processo Civil, o que se verifica no caso em tela. 2. Configurada a litigância de má-fé, pelo fato de a parte Autora ter alterado a verdade dos fatos, deliberadamente, no intuito de levar o julgador a erro, impõe-se a manutenção da sua condenação ao pagamento da multa de 1% (um por cento) sobre o valor da causa, prevista no artigo 18 do CPC. Não apresentados argumentos novos que justifiquem a reconsideração pretendida diante da decisão monocrática que negou seguimento ao recurso de agravo de instrumento, nos termos do art. 557, caput, do CPC, o desprovimento do agravo regimental é medida que se impõe. AGRAVO REGIMENTAL CONHECIDO E DESPROVIDO.
+
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 1.093/1.107).
+Nas razões do recurso especial (e-STJ fls. 1.114/1.128), interposto com fundamento no art. 105, III, alíneas "a" e "c", da CF, os recorrentes alegaram violação dos arts. 463, I e II, do CPC/1973 e 5º, LV, da CF, argumentando que existiria recusa das instâncias de origem em dar cumprimento à parte dispositiva da sentença - transitada em julgado desde o ano de 2008 -, proferida nos autos da demanda revocatória de n. 233306-73.1999 (199902333061), em trâmite na Comarca de Chachoeira Dourada/GO.
+Acrescentaram que a referida sentença teria declarado à ineficácia das alienações imobiliárias descritas na inicial daquela demanda, bem como determinado a expedição de ofícios aos Cartórios da 2ª Circunscrição Imobiliária da cidade de Itumbiara/GO, para o Cartório de Registro de Imóveis da cidade de Quirinópolis/GO e para o Cartório de Registro de Imóveis da cidade de Inaciolândia/GO.
+Aduziram que "diferentemente do alegado na petição atravessada aos autos da Revocatória, fls. 522/535, é o próprio espólio de [NOME] que agiu de má-fé, através de falácias e inverdades, uma vez que, como já delineado, havia conhecimento claro de que a terra, não obstante o que consta na Escritura, pertencia aos recorrentes" (e-STJ fl. 1.123).
+Afirmaram que não teriam recebido pagamento algum pela venda do imóvel, pois teriam se pautado "pela confiança e pela boa-fé, que permeia as relações familiares, sendo surpreendidos, agora, pela manifestação contrária ao cumprimento da sentença" (e-STJ fl. 1.123).
+Discorreram que seria devido efetivar o cumprimento da sentença com fundamento nos princípios da coisa julgada formal e da inalterabilidade do julgamento, devendo, outrossim, eventuais divergências quanto ao cumprimento da sentença serem deduzidas em outra demanda, com o respeito às garantias do contraditório e da ampla defesa.
+Asseveraram que "está nítido que os Recorrentes não ingressaram com um novo cumprimento de sentença, e sim, apenas requereram a EXPEDIÇÃO DE OFÍCIOS ao Cartório da 2º Circunscrição Imobiliária da cidade de Itumbiará, Estado de Goiás; ao Cartório de Registro de Imóveis da cidade de Quirinópolis, Estado de Goiás; e, ao Cartório de Registro de Imóveis da cidade de Inaciolândia, Estado de Goiás, conforme consta na SENTENÇA TRANSITADA EM JULGADO, ou seja, REQUEREM APENAS A COMPLETA ENTREGA DA PRESTAÇÃO JURISDICIONAL, sem qualquer má-fé ou intenção que desonre o ordenamento jurídico pátrio" (e-STJ fls. 1.125/1.126).
+Foram apresentadas contrarrazões (e-STJ fls. 1.159/1.166).
+No agravo (e-STJ fls. 1.204/1.210), afirmam a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 1.215/1.218).
+É o relatório.
+Decido.
+O recurso especial e o agravo foram interpostos com fundamento no Código de Processo Civil de 1973, por isso devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Inviável a análise de ofensa a dispositivos constitucionais em sede de recurso especial, sob pena de usurpação da Suprema Corte. A propósito:
+AGRAVO INTERNO EM RECURSO ESPECIAL - AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DO AUTOR.
+1. Não cabe a esta Corte, em sede de Recurso Especial, examinar violação de dispositivos constitucionais, tendo em vista que a Constituição Federal reservou tal competência ao Pretório Excelso, no âmbito do recurso extraordinário. Precedentes.
+(..)
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.542.764/PR, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/9/2016, DJe 22/9/2016.)
+A Corte local negou provimento ao recurso dos recorrentes, tendo em vista que (e-STJ fls. 1.069/1.074):
+A irresignação dos agravantes prende-se ao ato decisório que negou seguimento ao recurso de agravo, nos termos do artigo 557, caput, do CPC.
+Quanto ao cerne da quizila, vejo que os motivos elencados nas razões recursais não merecem prosperar, uma vez que as matérias já foram debatidas e afastadas na decisão monocrática, que negou seguimento ao agravo de instrumento, e cujos fundamentos restaram devidamente esclarecidos em todos os pontos suscitados, consoante se infere dos seguintes trechos (fs. 213/214):
+Passo a análise do mérito, a respeito dom pedido dos agravantes de "dar cumprimento a decisão judicial transitada em julgado, qual seja expedição de ofícios aos Cartórios da 2ª Circunscrição Imobiliária da cidade de Itumbiara/GO, para Cartório de Registro de Imóveis da cidade de Quirinópolis/GO e, para o Cartório de Registro de Imóveis da cidade de Inaciolândia/GO, verifico que razão não lhes assistem.
+Desse modo, adoto como razão de decidir a fundamentação clara e precisa do julgador a quo, consoante permissivo encartado no art. 210, parágrafo único do RITJGO:
+..Conforme já relatado, não tendo sido necessário o efetivo cumprimento da sentença, ante a satisfação, em outro feito (execução), do crédito do autor da revocatória, que visava com a presente justamente garantir o recebimento de tal crédito, os requeridos alienantes, após transcorridos mais de quatro anos da baixa e arquivamento do feito, curiosa e estranhamente pedem o cumprimento da sentença, apenas com base no aspecto formal do que consta no dispositivo, o que implica, em termos práticos, na incorporação ao patrimônio dos postulantes dos imóveis em comento. (NEGRITO NOSSO).
+( ) Em suma, o que se quer dizer com isso é que se exige das partes coerência comportamental, o que não se verifica no caso, em que inicialmente os primeiros requeridos defendem a plena regularidade das transações questionadas e, após, aproveitando-se do aspecto formal da procedência do pedido, pugnam pelo cumprimento da sentença, indicado como desnecessário pelo autor da ação e único legitimamente interessado a
+postular tal cumprimento. (fs. 909/910).
+Acresça-se que foram transcritos julgados desta Corte, corroborando o entendimento trilhado na decisão ora atacada.
+(..)
+Assim, não merece reparo o decisum, inexistindo fundamento para acolher o pedido contido neste agravo regimental.
+(..)
+Ademais, o art. 557, caput, do CPC, autoriza o relator, monocraticamente, a negar seguimento ao recurso quando confrontar súmula ou jurisprudência dominante do próprio tribunal ou corte superior, como na hipótese.
+Ao teor do exposto, conheço do recurso, mas nego-lhe provimento, para manter inalterada a decisão vergastada.
+É o voto.
+Constata-se, portanto, que a Corte local não se manifestou quanto ao art. 463, I e II, do CPC/1973. Dessa forma, sem ter sido objeto de debate na decisão recorrida, a despeito dos aclaratórios opostos, a matéria contida em tal dispositivo carece de prequestionamento e sofre, por conseguinte, o empecilho da Súmula n. 211/STJ.
+A respeito da legitimidade exclusiva do autor da ação revocatória para requerer o cumprimento da sentença proferida em tal demanda e quanto à existência de comportamento contraditório dos vendedores - por causa da defesa da regularidade das transações imobiliárias questionadas num primeiro momento e, depois, a postulação do cumprimento do julgado que decretou a ineficácia de tais alienações - os recorrentes não se manifestaram.
+Outrossim, limitaram-se a requerer o cumprimento da mencionada sentença e, por consequência, sustentar a necessidade de expedição de ofícios aos cartórios imobiliários descritos na insurgência recursal, segundo os arts. 463 do CPC/1973 e 5º, LV, da CF, que teriam sido violados.
+Assim, não estando impugnado fundamento suficiente para manter o acórdão recorrido, aplicável a Súmula n. 283/STF como óbice ao recurso.
+Ademais, dissentir das conclusões do aresto impugnado, a fim de deferir a expedição de ofícios aos registros imobiliários descritos no recurso especial, pelas razões sustentadas no especial, demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial, a teor da Súmula n. 7/STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
