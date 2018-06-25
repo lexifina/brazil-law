@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544) interposto por SOCIEDADE ESPORTIVA PALMEIRAS contra decisão que inadmitiu o recurso especial por incidência das Súmulas n. 5 e 7 do STJ e ausência de similitude no dissídio (e-STJ fls. 621/622).
+O acórdão recorrido está assim ementado (e-STJ fl. 449):
+APELAÇÃO - EXECUÇÃO CONTRA DEVEDORA SOLVENTE - AGREMIAÇÃO DESPORTIVA - ESCRITO PARTICULAR DE SUBLICENCIAMENTO DE DIREITOS DE IMAGEM - EMBARGOS OPOSTOS - SENTENÇA DE PROCEDÊNCIA E CONSEQÜENTE EXTINÇÃO DA EXECUÇÃO - RECURSO - A EXECUÇÃO ESTÁ FORRADA EM TÍTULO EXECUTIVO EXTRAJUDICIAL DONDE A MORA FALTANTES NOTAS PROMISSÓRIAS - OBRIGAÇÃO ACESSÓRIA - SE COMPUTA DO INGRESSO DA DEMANDA E OS JUROS MORATÓRIOS FLUEM DA CITAÇÃO - VINCULAÇÃO DO CONTRATO À PRESTAÇÃO DE SERVIÇOS DO ATLETA RESCISÃO 31/12/12 - DILUIÇÃO DOS PAGAMENTOS COM PREVISÃO DA DURAÇÃO DO CONTRATO DE TRABALHO RECURSO PARCIALMENTE PROVIDO RECONHECENDO-SE O VALOR LÍQUIDO E CERTO DA OBRIGAÇÃO EXIGIDA E CONSEQÜENTE PROSSEGUIMENTO DA EXECUÇÃO - APELO PROVIDO EM PARTE.
+Nas razões do recurso especial (e-STJ fls. 490/507), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alegou ofensa ao art. 476 do CC/2002 por entender que, se ficou obrigada ao pagamento de valores relacionados ao sublicenciamento dos direitos de imagem, o cumprimento dessa obrigação ficou condicionado ao adimplemento das obrigações assumidas pela ASSUNÇÃO em relação ao envio de notas fiscais. Desatendendo essa obrigação, impossível o cumprimento da contraprestação. Mencionou dissídio.
+No agravo (e-STJ fls. 650/667), afirma que o especial deve ser admitido.
+Contraminuta apresentada pela recorrida (e-STJ fls. 683/709).
+É o relatório.
+Decido.
+O recurso especial e o agravo foram interpostos com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+A respeito da alínea "a" do permissivo constitucional, a agravante não impugnou a aplicação da Súmula n. 5 do STJ pela decisão de admissibilidade. O agravo que deixa de refutar especificamente os fundamentos da decisão agravada não é passível de conhecimento em virtude de expressa previsão legal (CPC, art. 544, § 4º, I) e da incidência, por analogia, da Súmula n. 182/STJ.
+O dissídio jurisprudencial, por sua vez, não prospera. No caso, a Turma julgadora considerou que existente dívida por parte da recorrente, pois "o licenciamento estava, literalmente, vinculado ao contrato do atleta profissional, rescindido no final de dezembro de 2012" (e-STJ fl. 451). Como se observa, a conclusão se deu com base em exame do contrato firmado no caso presente, não sendo passível de divergência com hipótese distinta, que trata de mal funcionamento de equipamento.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
