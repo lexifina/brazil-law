@@ -1,0 +1,26 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO POR DELITO PRATICADO DURANTE O LIVRAMENTO CONDICIONAL DE OUTRA EXECUÇÃO. BENEFÍCIO NÃO REVOGADO. EXTINÇÃO DA PRIMEIRA PENA. TERMO INICIAL DA NOVA EXECUÇÃO. DIA SUBSEQUENTE AO FIM DO PERÍODO DE PROVA. IMPOSSIBILIDADE DE CUMPRIMENTO SIMULTÂNEO DE DUAS PENAS NÃO UNIFICADAS. PRECEDENTES. PARECER ACOLHIDO.
+Ordem denegada. Liminar cassada.
+DECISÃO
+[NOME] cumpria pena de 1 ano e 8 meses de reclusão e, em 18/10/2012, obteve o livramento condicional, com término do período de prova previsto para 4/1/2013 (CES n. 0118813-61.2012.8.19.0000).
+Em 25/10/2012, o paciente cometeu novo delito, que resultou numa condenação de 9 anos e 4 meses de reclusão, em 9/6/2014 (CES n. 0301144-40.2014.8.19.0001)
+Encerrado o período de prova sem que tenha havido suspensão ou revogação do benefício, em 5/2/2015, o Ministério Público pleiteou ao Juízo das execuções a elaboração de cálculo referente à nova condenação, tendo como data de início da execução o dia imediatamente posterior ao término do período de prova.
+Decidiu o magistrado pelo indeferimento do pedido ministerial, julgando extinta a pena da primeira condenação nos termos do art. 90 do Código Penal (fl. 3).
+Daí o Parquet estadual recorreu, tendo o Tribunal de Justiça do Rio de Janeiro dado provimento ao Agravo de Execução Penal n. 0044946-33.2015.8.19.0000, conforme esta ementa (fls. 26/27):
+DECISÃO QUE INDEFERE O PLEITO MINISTERIAL DE REALIZAÇÃO DE NOVO CÁLCULO DE PENA COMPUTANDO-SE COMO DATA INICIAL PARA EXECUÇÃO DA CONDENAÇÃO DA CES N.º 0301144-40.2014.8.19.0001 O DIA IMEDIATAMENTE SEGUINTE AO TÉRMINO DO PERÍODO DE PROVA DO LIVRAMENTO CONDICIONAL CONCEDIDO NA CES N.º 0118813-61.2012.8.19.0001.
+PRETENSÃO MINISTERIAL À REFORMA DA DECISÃO QUE SE ACOLHE. APENADO QUE, BENEFICIADO COM O LIVRAMENTO CONDICIONAL, VEIO A COMETER NOVO DELITO DURANTE O PERÍODO DE PROVA, SENDO PRESO EM FLAGRANTE. O TERMO INICIAL DE CUMPRIMENTO DA PENA RELATIVA À OUTRA CARTA DE EXECUÇÃO DE SENTENÇA DEVE SER O DIA SEGUINTE AO TÉRMINO DO LIVRAMENTO CONDICIONAL, PARA QUE NÃO OCORRA SUPERPOSIÇÃO DE PENAS. A DETRAÇÃO A QUE ALUDE O ART. 42 DO CÓDIGO PENAL, VEDA A INCLUSÃO DO TEMPO PRESO EM OUTRO FEITO.
+PROVIMENTO DO AGRAVO PARA REFORMAR A DECISÃO E DETERMINAR A REALIZAÇÃO DE NOVO CÁLCULO, NA FORMA REQUERIDA PELO MINISTÉRIO PÚBLICO.
+Sobreveio, então, o presente writ, no qual a Defensoria Pública requer a concessão de medida liminar para suspender a elaboração de novo cálculo como determinado no aresto objurgado. Espera, alfim, seja concedida a ordem para, nos exatos termos do artigo 90, do Código Penal, restabelecer-se a decisão de primeira instância que julgou extinta a pena diante do seu cumprimento como medida da mais escorreita justiça (fl. 7).
+Deferi a pretensão urgente (fls. 37/40).
+Vieram aos autos as informações da autoridade apontada como coatora e alguns documentos (fls. 49/61).
+Opinou o Ministério Público Federal pela denegação da ordem, em suma (fl. 64):
+Habeas corpus. Livramento condicional. Novo crime cometido durante o período de prova. Pedido para que essa Corte Superior reestabeleça a decisão da 1ª instância que extinguiu a sanção, nos termos do artigo 90 do Código Penal. Impossibilidade, por não ter sido o benefício revogado. Acórdão que apenas alterou a data de cumprimento da pena relativa ao novo delito. Possibilidade. Entendimento consolidado na Sexta Turma do STJ. Ausência de constrangimento ilegal ao direito de locomoção do paciente. Parecer pela denegação da ordem.
+É o relatório.
+Estou de pleno acordo com a manifestação do Subprocurador-Geral da República [NOME]. Inexiste constrangimento ilegal a ser reparado na espécie.
+De fato, o Tribunal estadual não revogou o livramento condicional. Apenas alterou a data de início do cumprimento da pena do crime que [NOME] cometeu durante o gozo do citado benefício, para que não ocorresse a superposição das sanções (fl. 65).
+Realmente, no que tange ao termo inicial do cumprimento da nova pena, a Corte a quo adotou o entendimento do Superior Tribunal de Justiça de que não é possível que um mesmo lapso temporal seja computado como período de cumprimento de livramento condicional de uma dada execução e, em paralelo, utilizado para fins de detração de reprimenda referente a uma outra condenação, sob pena de indevida superposição de penas.
+Nesse sentido, confiram-se, além dos precedentes citados pelo parecerista, estas decisões monocráticas: REsp n. 1.428.752/RJ, Ministro Nefi Cordeiro, DJe 12/5/2017; AREsp n. 1.120.855/RJ, Ministro Antonio Saldanha Palheiro, DJe 4/12/2017; AREsp n. 361.092/RJ, Ministro Ribeiro Dantas, DJe 14/6/2018; AREsp n. 1.028.274/RJ, Ministro Felix Fisher, DJe 8/5/2017; HC n. 292.202/RJ, Ministro Jorge Mussi, DJe 27/4/2016; REsp n. 1.454.673/RJ, Ministro Reynaldo Soares da Fonseca, DJe 7/12/2015.
+Enfim, correta a conclusão de que o cumprimento de pena relativa a delito praticado no curso de livramento condicional terá como seu termo inicial o dia subsequente ao fim do período de prova, dada a impossibilidade de cumprimento simultâneo de duas penas não unificadas.
+Com base na opinião do Parquet e na firme jurisprudência, casso a liminar deferida e denego a ordem (art. 34, XX, do RISTJ).
+Comuniquem o teor da decisão ao Juízo da execução e ao Tribunal local.
+Publique-se.
