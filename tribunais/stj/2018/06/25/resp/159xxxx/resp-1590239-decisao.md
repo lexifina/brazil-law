@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial fundado no CPC/2015, manejado pela Fazenda Nacional, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 294):
+AGRAVO LEGAL. INSUFICIÊNCIA DAS RAZÕES.
+Não é de acolher-se o agravo quando insuficientes as razões apresentadas para modificação da decisão agravada.
+Opostos embargos de declaração, foram estes desprovidos (fls. 310/311).
+Nas razões de recurso especial, a recorrente aponta violação aos arts. 130, 333, I, e 535, II, do CPC/73, e 41 da LEF. Sustenta, em síntese, que: (I) apesar da oposição de embargos de declaração, o Tribunal de origem manteve-se omisso quanto a questões importantes ao deslinde da controvérsia; e (II) "não é encargo da União in casu a juntada de cópia do processo administrativo, sendo dever da parte autora trazer aos autos tal documentação, a fim de comprovar as suas alegações, como determina o artigo 333, I, do CPC. Situação outra seria se a Administração impedisse a vista e a cópia do documento, ou retardasse em demasia a sua entrega ao interessado. Ocorre que não há qualquer menção a esse respeito na petição inicial da ação e tal situação nem sequer chegou a ser reconhecida na decisão ora recorrida." (fl.319).
+É o relatório.
+Colhe-se dos autos que o presente recurso especial foi tirado de agravo de instrumento interposto pela ora agravante contra decisão de Juiz Singular que, nos autos de nos autos dos Embargos à Execução Fiscal nº 5055470-31.2014.4.04.7100/RS, determinou a intimação da embargada para que, no prazo de 30 dias, junte o procedimento administrativo referente ao crédito exequendo (evento 13 do processo originário) (cf. fl.292).
+De acordo com informação prestada pelo Tribunal de origem (Ofício nº [CPF]), "foi proferida sentença no processo nº 50554703120144047100 RIO GRANDE DO SUL que deu origem ao REsp/AREsp antes indicado e em trâmite nessa Corte." (fl.346).
+Nesse panorama, nos termos da jurisprudência desta Corte Superior, fica prejudicado, pela perda de objeto, o recurso especial interposto contra acórdão que examinou agravo de instrumento, quando se verifica a prolação da sentença de mérito, haja vista que nela a cognição é exauriente. A esse respeito, confiram-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO CIVIL POR ATO DE IMPROBIDADE ADMINISTRATIVA. PEDIDO LIMINAR. INDISPONIBILIDADE DE BENS. SUPOSTA INOBSERVÂNCIA DE PROCEDIMENTO ESPECÍFICO. POSTERIOR JULGAMENTO DA AÇÃO PRINCIPAL. APELAÇÃO JULGADA PELO TRIBUNAL DE ORIGEM. NATUREZA INCIDENTAL. PERDA DE OBJETO. PREJUDICIALIDADE CONFIGURADA. PRECEDENTES DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A "pretensão veiculada no agravo de instrumento, que originou o recurso especial sub examine, não mais subsiste em decorrência da prolação de sentença de mérito na Ação Civil Pública" (AgRg no REsp 986.460/RJ).
+2. Há considerar a natureza incidental do agravo de instrumento, tendo em vista que o julgamento definitivo da lide originária põe termo, por perda de objeto, ao recurso especial ora manejado.
+3. Não há falar em negativa de tutela jurisdicional pela manutenção da decisão recorrida, uma vez que à parte restou assegurado o direito de impugnar, pelas vias ordinária e extraordinária, o entendimento firmado por ocasião do julgamento da apelação que rejeitou a preliminar e manteve a sentença.
+4. "As questões processuais e materiais suscitadas no recurso especial serão objeto de apreciação, em caráter definitivo e sob cognição exauriente, pelo Tribunal de Justiça no julgamento do recurso de apelação. Daí porque eventual decisão contrária às pretensões do ora agravante poderá ser objeto de novo recurso especial, sede processual própria para se analisar a questionada validade da r. sentença, que, expressamente, manteve a tutela antecipada em todos os seus termos" (AgRg no Ag 880.632/PA).
+5. Agravo regimental não provido.
+(AgRg no REsp 1095553/MG, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 5/8/2010, DJe 20/8/2010) (grifou-se).
+ADMINISTRATIVO E PROCESSO CIVIL - IMPROBIDADE ADMINISTRATIVA - INDISPONIBILIDADE DE BENS - MEDIDA LIMINAR DEFERIDA EM SEDE DE AGRAVO DE INSTRUMENTO JULGADO NO TRIBUNAL LOCAL - SUPERVENIÊNCIA DA SENTENÇA - PERDA DO OBJETO DO RECURSO ESPECIAL.
+1. "A superveniência de sentença acarreta a inutilidade da discussão a respeito do cabimento ou não da medida liminar, ficando prejudicado eventual recurso, inclusive o especial, relativo à matéria." (REsp 828059/MT, Min. Teori Zavascki, DJ 14.9.2006).
+2. Iterativos precedentes da Corte.
+Recurso especial prejudicado.
+(REsp 734.535/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 10/10/2006, DJ 30/10/2006, p. 272)
+Ante o exposto, julgo prejudicado o recurso especial por perda superveniente de seu objeto.
+Publique-se.
