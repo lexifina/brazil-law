@@ -1,0 +1,18 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. COMPETÊNCIA DO JUÍZADO ESPECIAL FEDERAL. LEI 10.259/2001. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS NO JUÍZO RECORRIDO. IMPOSSIBILIDADE DE MAJORAÇÃO NESTA SEDE RECURSAL. ARTIGO 85, § 11, DO CPC/2015. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão de Turma Recursal que extinguiu o processo, sem resolução do mérito, porquanto proposta a ação em juizado especial federal da capital do estado, embora existente juizado especial federal no foro de seu domicílio. A ementa do referido julgado restou assim assentada, in verbis:
+    “COMPETÊNCIA. SUBSEÇÃO E CAPITAL. CF, ART. 109, §2º. LEI 10.259/01. NEGATIVA DE ACESSO À JUSTIÇA E DE EXERCÍCIO DE FACULDADE CONSTITUCIONALMENTE ASSEGURADA. VIOLAÇÃO LITERAL DA JURISPRUDÊNCIA DO STF, SÚMULA 689. RECURSO DO AUTOR DESPROVIDO, COM A RESSALVA DO ENTENDIMENTO DO RELATOR. MATÉRIA CONSTITUCIONAL INTEGRALMENTE PREQUESTIONADA.” (Doc. 1, fl. 66)
+    Nas razões do apelo extremo, a parte recorrente sustentou preliminar de repercussão geral e, no mérito, apontou violação ao artigo 109, §§ 2º e 3º, da Constituição Federal. Aduziu que a Turma Recursal negou vigência à regra constitucional de competência da Justiça Federal, na medida em que excluiu a possibilidade de o autor ajuizar a demanda na capital do Estado. Invocou a incidência da Súmula 689 do STF.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que o acordão recorrido está em consonância com o entendimento sedimentado pelo STF.
+    É o relatório. DECIDO.
+    A irresignação não merece prosperar.
+    No presente caso, para divergir das razões do referido acórdão quanto à competência do Juizado Especial da Fazenda Pública para apreciar o feito, seria necessário o reexame da legislação infraconstitucional aplicável à espécie (Lei 10.259/2001), o que se revela inviável em sede de recurso extraordinário, por configurar ofensa indireta à Constituição Federal.
+    Assevere-se, ainda, que esta Suprema Corte, ao apreciar caso análogo dos autos, entendeu que a matéria relativa à competência dos Juizados Especiais, quando sub judice a controvérsia, não revela repercussão geral apta a tornar o apelo extremo admissível, conforme se observa da seguinte ementa:
+    “PROCESSUAL CIVIL. COMPETÊNCIA. COMPLEXIDADE DA DEMANDA. VALOR DA CAUSA. JUIZADO ESPECIAL FEDERAL. LEI 10.259/01. MATÉRIA INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.” (AI 768.339-RG, Rel. Min. Ricardo Lewandowski, DJe de 20/11/2009)
+    Nesse sentido, confiram: RE 834.834-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 9/5/2016; RE 855.072-AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJe de 19/3/2015; RE 797.433-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 27/8/2014; ARE 973.536, Rel. Min. Dias Toffoli, DJe de 30/6/2016; RE 835.450, Rel. Min. Teori Zavascki, DJe de 18/3/2016.
+    Por fim, observo que o presente agravo foi interposto sob a égide da nova lei processual, o que conduziria à aplicação de sucumbência recursal. Nada obstante, por não ter havido condenação ao pagamento de honorários advocatícios no Tribunal a quo, fica impossibilitada a sua majoração, nos termos do artigo 85, § 11, do CPC/2015.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 932, VIII, do CPC/2015 c/c o artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 25 de junho de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
