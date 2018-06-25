@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJMG, o qual recebeu a seguinte ementa (e-STJ fl. 153):
+EMENTA: APELAÇÃO - IMPROCEDÊNCIA DOS EMBARGOS A ARREMATAÇÃO RECURSO RECEBIDO APENAS NO EFEITO DEVOLUTIVO - ARREMATAÇÃO PELO CREDOR POR QUANTIA EQUIVALENTE A 68% DA AVALIAÇÃO - PREÇO VIL - NÃO OCORRÊNCIA,- À vista do disposto no art. 520, inciso V do CPC, e nos exatos termos da Súmula nº 331 do STJ, a apelação interposta de sentença que julga improcedentes os Embargos à Arrematação, deve ser recebida apenas no efeito devolutivo. - A despeito de não haver um consenso do que seja preço vil, têm nossos Tribunais decidido que só se considera como tal, o preço inferior a 60% ou mesmo 50% do valor da avaliação.
+No recurso especial (e-STJ fls. 263/281), fundamentado no art. 105, III, "a" e "c", da CF, o recorrente alega, além de dissídio jurisprudencial, ofensa aos arts. 669, parágrafo único, 652, § 3º, e 692 do CPC/1973.
+Sustenta nulidade da penhora, pois "imprescindível a intimação do cônjuge do devedor" (e-STJ fl. 175), e da arrematação, por ter sido o bem alienado por preço vil.
+Contrarrazões às fls. 198/203 (e-STJ).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Quanto à nulidade da penhora, assim decidiu o Tribunal a quo (e-STJ fls. 158/159):
+Aponta o apelante preliminar de nulidade do processo, sob o argumento de que sua esposa não fora intimada da penhora incidente sobre o bem imóvel, não tendo sido observado o artigo 665, §2º e o artigo 669, parágrafo único, ambos do Código e Processo Civil.
+A meu ver, mostra-se correta a decisão proferida pelo julgador de primeira instância, porquanto a ausência de intimação do cônjuge do executado em relação à penhora recaída sobre bem imóvel trata-se de irregularidade que deve ser sanada assim que possível, uma vez que evitará futuras alegações de nulidade pelas partes.
+Contudo, no caso em tela entendo que nenhum prejuízo sofreu a esposa do embargante, tendo sido o vício sanado com a interposição de Embargos de Terceiro, conexos a estes, por meio do qual defende sua meação.
+Constata-se que a Corte local afastou a tese de nulidade por reconhecer que a ausência de intimação foi um vício sanado com a interposição dos embargos de terceiros. Logo não há falar em prejuízo para a parte. Tal fundamento não foi impugnado, persistindo o agravante em sustentar nulidade da penhora. Aplicável a Súmula n. 283 do STF.
+Em relação à nulidade da arrematação, sem razão o recorrente. O TJMG decidiu segundo a jurisprudência desta Corte, que entende "inexistente preço vil na avaliação do bem quando a alienação atinge patamares próximos ou superiores a 60% (sessenta por cento) do valor atualizado da avaliação" (AgInt no AREsp 1034848/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 13/06/2017, DJe 22/06/2017)
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. ARREMATAÇÃO. PREÇO EQUIVALENTE A 60% DO VALOR ATUALIZADO DA AVALIAÇÃO DO BEM. VALIDADE. PREÇO QUE NÃO SE CARACTERIZA COMO VIL. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. SÚMULA 83/STJ. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 07/STJ. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp n. 902.050/SP, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 26/9/2017, DJe 10/10/2017.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SEMOVENTES APREENDIDOS EM PROCEDIMENTO CRIMINAL. ARREMATAÇÃO. PREÇO VIL. NÃO OCORRÊNCIA. ALTERAÇÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. No entender do agravante, a caracterização do preço vil decorreu da desatualização do valor, devido ao lapso de tempo transcorrido entre a avaliação e a realização do leilão. Todavia, segundo o Tribunal de origem, a demora deveu-se a medidas adotadas pela própria parte, não podendo, agora, querer anular leilão por algo que deu causa.
+2. Uma vez constatado pelo Tribunal a quo que a avaliação era complexa, por se tratar de semoventes (variação de peso, sexo, idade, entre outros fatores), e ficou prejudicada por uma soma lamentável de circunstâncias fáticas (v.g. localização dos animais em mais de uma fazenda, período de inverno com redução das pastagens e repercussão nos pesos dos animais, quedas dos identificadores de animais), a reforma do julgado demandaria o revolvimento de fatos e provas, incidindo a Súmula 7 do STJ.
+3. De acordo com o entendimento do Superior Tribunal de Justiça, via de regra, deve ser considerado como preço vil aquele em que a arrematação alcança valor inferior a 50% (cinquenta por cento) da avaliação, circunstância inexistente no caso dos autos.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.369.639/PR, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/9/2017, DJe 11/10/2017.)
+Em face do exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
