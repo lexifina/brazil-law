@@ -1,0 +1,70 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ, contra acórdão prolatado, por unanimidade, pela 5ª Câmara Cível do Tribunal de Justiça do Estado do Paraná no julgamento de Apelações, assim ementado (fls. 1.127/1.153e):
+APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. DISPENSA DE LICITAÇÃO. DISPENSA DE LICITAÇÃO NA PRESTAÇÃO DE SERVIÇOS DE LIMPEZA PÚBLICA. PRORROGAÇÃO EMERGENCIAL DO CONTRATO. SERVIÇO ESSENCIAL. AUSÊNCIA DE FAVORECIMENTO PESSOAL DOS AGENTES. IRREGULARIDADE. CONTRATO QUE ATENDE AO INTERESSE PÚBLICO. AUSENTES OS ELEMENTOS SUBJETIVOS CARACTERIZADORES DO ATO ÍMPROBO. IMPROBIDADE ADMINISTRATIVA NÃO VERIFICADA.
+A improbidade administrativa, mais do que uma conduta ilegal, deve traduzir, necessariamente, a má-fé, a desonestidade e o dolo fraudulento, o que não ficou comprovado. Assim, não há que se falar em imputação ao agente público das sanções previstas no art. 12, inciso III da Lei nº 8.429/92.
+RECURSO 1 PROVIDO.
+RECURSO 2 PROVIDO.
+Opostos embargos de declaração, foram parcialmente acolhidos (fls. 1.177/1.184e), consoante fundamentos resumidos na seguinte ementa:
+EMBARGOS DE DECLARAÇÃO. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. ACORDÃO QUE DEU PROVIMENTO ÀS APELAÇÕES DOS RÉUS PARA JULGAR TOTALMENTE IMPROCEDENTES OS PEDIDOS. EXISTÊNCIA DE ERRO MATERIAL. ACÓRDÃO QUE DEIXOU DE JULGAR PREJUDICADA A APELAÇÃO INTERPOSTA PELO MINISTÉRIO PÚBLICO. VÍCIO RECONHECIDO. AUSÊNCIA DE OUTROS VÍCIOS.
+1. Cabem embargos de declaração contra decisão judicial para corrigir erro material.
+2. Ausentes outros vícios de omissão, contradição ou obscuridade no acórdão embargado.
+EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS.
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+Art. 1.022 do Código de Processo Civil de 2015 - o tribunal de origem foi omisso ao não apreciar a apelação do Parquet estadual, não se manifestando sobre seus pedidos e fundamentos jurídicos atinentes à condenação pelo art. 10, VIII, da Lei n. 8.429/92. Ademais, a Corte a qua não analisou os argumentos do Recorrente relacionados à presença de dolo genérico;
+Art. 1.009 do Código de Processo Civil de 2015 - o tribunal de origem não apreciou a apelação do Ministério Público, razão pela qual impõe-se o retorno dos autos para realização do devido julgamento; e
+Art. 11 da Lei n. 8.429/92 - houve violação a princípios administrativos, notadamente ao princípio da legalidade, em atos praticados com dolo genérico, motivo pelo qual deve haver condenação dos réus por improbidade administrativa.
+Com contrarrazões (fls. 1.209/1.214e e 1.216/1.221e), o recurso foi admitido (fls. 1.223/1.224e).
+O Ministério Público Federal manifestou-se às fls. 1.239/1.245e.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e
+ii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Assiste parcial razão ao Recorrente quanto à violação ao art. 1.022, II, do Código de Processo Civil de 2015.
+Consoante o art. 1.022 do Código de Processo Civil de 2015, cabe a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e, iii) corrigir erro material.
+A omissão, definida expressamente pela lei, ocorre na hipótese de a decisão deixar de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento.
+O Código de Processo Civil de 2015 considera, ainda, omissa, a decisão que incorra em qualquer uma das condutas descritas no art. 489, § 1º, no sentido de não se considerar fundamentada a decisão que: i) se limita à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida; ii) emprega conceitos jurídicos indeterminados; iii) invoca motivos que se prestariam a justificar qualquer outra decisão; iv) não enfrenta todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador; v) invoca precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes, nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos; e, vi) deixa de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Sobreleva notar que o inciso IV do art. 489 do Código de Processo Civil de 2015 impõe a necessidade de enfrentamento, pelo julgador, dos argumentos que possuam aptidão, em tese, para infirmar a fundamentação do julgado embargado. Esposando tal entendimento, o precedente da Primeira Seção desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM MANDADO DE SEGURANÇA ORIGINÁRIO. INDEFERIMENTO DA INICIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não ocorre na hipótese em apreço.
+2. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art.
+489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+3. No caso, entendeu-se pela ocorrência de litispendência entre o presente mandamus e a ação ordinária n. 0027812-80.2013.4.01.3400, com base em jurisprudência desta Corte Superior acerca da possibilidade de litispendência entre Mandado de Segurança e Ação Ordinária, na ocasião em que as ações intentadas objetivam, ao final, o mesmo resultado, ainda que o polo passivo seja constituído de pessoas distintas.
+4. Percebe-se, pois, que o embargante maneja os presentes aclaratórios em virtude, tão somente, de seu inconformismo com a decisão ora atacada, não se divisando, na hipótese, quaisquer dos vícios previstos no art. 1.022 do Código de Processo Civil, a inquinar tal decisum.
+5. Embargos de declaração rejeitados.
+(EDcl no MS 21.315/DF, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), PRIMEIRA SEÇÃO, julgado em 08/06/2016, DJe 15/06/2016)
+No caso, a sentença julgou procedente a ação civil pública para condenar os réus pelos atos previstos no art. 11 da Lei n. 8.429/92.
+Ambos os réus interpuseram recurso de apelação, buscando sua absolvição, e o Parquet também recorreu, pleiteando a condenação pelo art. 10, VIII, da Lei de Improbidade Administrativa.
+Entretanto, do exame dos acórdãos prolatados pelo tribunal de origem, verifico não ter sido o recurso de apelação interposto pelo Ministério Público do Estado do Paraná analisado com adequada fundamentação.
+ No acórdão de fls. 1.127/1.153e, a Corte a qua não fez nenhuma referência à apelação do Ministério Público, seja no relatório, na fundamentação (analisando, exclusivamente, os argumentos dos réus atinentes ao art. 11 da Lei n. 8.429/92), ou no dispositivo.
+Provocado mediante embargos de declaração, o tribunal de origem se limitou a reconhecer erro material, e não omissão, pois não teria constado na parte dispositiva do voto condutor a conclusão de que, com o julgamento da apelação dos réus afastando a condenação pelo art. 11 da Lei n. 8.429/92, estaria prejudicada a análise do recurso do Ministério Público, que pedia a condenação pelo art. 10 da mesma lei.
+Constou ainda no acórdão que julgou os embargos de declaração fundamento segundo o qual a análise do dolo no julgado então embargado também afastaria a culpa, razão pela qual não haveria omissão acerca desse ponto.
+Data venia, não foram analisas as razões e pedidos expostos no recurso de apelação com fundamentação adequada, especialmente a apontada afronta ao art. 10, VIII, da Lei n. 8.429/92.
+Reitero que o Código de Processo Civil de 2015 considera omissa a decisão com vício de fundamentação.
+Na situação apresentada, o acórdão recorrido: i) não indicou o motivo pelo qual a apelação estaria prejudicada; ii) não enfrentou todos os argumentos no processo capazes de, em tese, infirmar a conclusão alcançada pelo juízo de primeiro grau no que tange à violação ao art. 10, VIII, da Lei n. 8.429/92, notadamente a afirmação de que o dano, nesse caso, é in re ipsa; e iii) não analisou a presença de culpa, questão que, ao contrário do que foi dito no acórdão que julgou os embargos de declaração, sequer foi mencionada no acórdão anterior.
+Ressalto que a não apreciação das teses, à luz do dispositivo infraconstitucional indicado a tempo e modo, impede o acesso à instância especial.
+Caracterizadas, portanto, as omissões, como o demonstram os seguintes arestos:
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1022 DO CPC/2015. OMISSÃO. NULIDADE DO JULGADO. RETORNO DOS AUTOS. NECESSIDADE.
+1. Existindo na petição recursal alegação de ofensa ao art. 1.022 do CPC/2015, a constatação de que o Tribunal de origem, mesmo após a oposição de Embargos Declaratórios, não se pronunciou sobre pontos essenciais ao deslinde da controvérsia autoriza o retorno dos autos à instância ordinária para novo julgamento dos aclaratórios opostos.
+2. Nesse contexto, deve ser dado provimento ao Recurso Especial a fim de que os autos retornem ao Tribunal de origem para que este se manifeste sobre a matéria articulada nos Embargos de Declaração, em face da relevância da omissão apontada.
+3. Recurso Especial provido, determinando o retorno dos autos à Corte de origem, para novo julgamento dos Embargos de Declaração.
+(REsp 1642708/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/02/2017, DJe 17/04/2017)
+PROCESSUAL CIVIL. RECURSOS ESPECIAIS. ART. 535 DO CPC. EXISTÊNCIA DE OMISSÃO NÃO SANADA. VIOLAÇÃO OCORRIDA. ANULAÇÃO DO ACÓRDÃO DOS EMBARGOS DE DECLARAÇÃO.
+1. É omisso o julgado que deixa de analisar as questões essenciais ao julgamento da lide, suscitadas oportunamente pela parte, quando o seu acolhimento pode, em tese, levar a resultado diverso do proclamado.
+2. Necessidade da análise de questão relacionada à decadência do direito de anulação do ato de demarcação das terras de marinha no Município de Joinville, por ter sido a ação ajuizada mais de cinco anos depois da homologação do procedimento administrativo que determinou a linha preamar média de 1831.
+3. Recurso especial da UNIÃO provido.
+4. Recurso especial de H CARLOS SCHNEIDER S/A COMÉRCIO INDÚSTRIA prejudicado.
+(REsp 1343519/SC, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 12/11/2013, DJe 20/11/2013)
+PROCESSUAL CIVIL. ART. 535 DO CÓDIGO DE PROCESSO CIVIL. OMISSÃO. VIOLAÇÃO OCORRIDA. ANULAÇÃO DO ACÓRDÃO.
+1. É omisso o julgado que deixa de analisar as questões essenciais ao julgamento da lide, suscitadas oportunamente pela parte, quando o seu acolhimento pode, em tese, levar a resultado diverso do proclamado.
+2. Recurso especial provido.
+(REsp 1213515/RS, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, julgado em 13/11/2012, DJe 23/11/2012)
+De outra parte, não constato omissão em relação ao dolo genérico, pois a Corte a qua afastou expressamente a sua presença (fl. 1.149e).
+Com efeito, haverá contrariedade ao art. 1.022 do Código de Processo Civil de 2015 quando a omissão disser respeito à fundamentação exposta ou ao pedido, e não quando os argumentos invocados não restarem estampados no julgado, como pretende a parte Recorrente.
+O procedimento encontra amparo em reiteradas decisões no âmbito desta Corte Superior, de cujo teor merece destaque a dispensa ao julgador de rebater, um a um, os argumentos trazidos pelas partes (v.g. Corte Especial, EDcl nos EDcl nos EREsp 1284814/PR, Rel. Min. Napoleão Nunes Maia Filho, DJe de 03.06.2014; 1ª Turma, EDcl nos EDcl no AREsp 615.690/SP, Rel. Min. Sérgio Kukina, DJe de 20.02.2015; e 2ª Turma, EDcl no REsp 1365736/PE, Rel. Min. Humberto Martins, DJe de 21.11.2014).
+E, no que atine ao dolo genérico, depreende-se da leitura do acórdão recorrido que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e cotejo ao firme posicionamento jurisprudencial aplicável ao caso.
+Isto posto, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, do RISTJ, DOU PROVIMENTO ao Recurso Especial, para determinar o retorno dos autos ao tribunal a quo, a fim de que sejam supridas as omissões indicadas.
+Prejudicada a análise das demais questões trazidas no especial.
+Publique-se e intimem-se.
