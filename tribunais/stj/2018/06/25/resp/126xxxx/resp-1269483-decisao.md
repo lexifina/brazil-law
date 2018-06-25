@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJMG assim ementado (e-STJ fl. 153):
+CONVERSÃO DE ARRESTO EM PENHORA - INTIMAÇÃO PESSOAL DO EXECUTADO. NECESSIDADE. AUSÊNCIA. REABERTURA DO PRAZO PARA EMBARGOS. Ainda que automática a conversão do arresto em penhora, segundo o CPC 669, o devedor será intimado pessoalmente da penhora. A intimação do devedor acerca da conversão do arresto em penhora complementa a citação, e, dessa forma, há de ser efetuada sempre pessoalmente, seja através de mandado ou edital, de modo a outorgar ao executado ciência inequívoca da fluência do prazo para o oferecimento de embargos. Recurso provido.
+O recorrente, AUTO POSTO RAMOS LTDA., intimado, por meio do despacho de fl. 228 (e-STJ), para que se manifestasse se persistia o interesse no julgamento do recurso especial, quedou-se silente, consoante certidão de fl. 355 (e-STJ).
+Tendo em vista a inércia do recorrente, que deixou transcorrer in albis o prazo assinalado, bem como a extinção sem resolução mérito, por desídia da parte exequente, da execução à qual está vinculada o presente feito (Processo n. 0512871.95.2005.8.13.0194), constata-se a superveniente falta de interesse processual, por perda de objeto.
+Ante o exposto, JULGO PREJUDICADO o recurso por perda de objeto.
