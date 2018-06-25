@@ -1,0 +1,5 @@
+DECISÃO
+ALEX SANDRO CAMBUY LEITE estaria sofrendo coação ilegal no seu direito de locomoção, em decorrência de acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, que denegou a ordem nos autos do HC n. 1412794-39.2015.8.12.0000 e manteve a prisão preventiva decretada nos autos do processo n. 0808119-76.2015.8.12.0002.
+Verifico, com base nas informações prestadas pelo Tribunal local nos autos do HC n. 406.696/MS, impetrado em favor do corréu [NOME], que foi prolatada sentença condenatória em 10/7/2017, oportunidade em que foi negado ao réu ALEX SANDRO CAMBUY LEITE o direito de recorrer em liberdade. Como tal decisum é posterior a esta impetração e não foi submetido ao crivo do Tribunal a quo, sua apreciação implicaria indevida supressão de instância, razão pela qual é defeso a esta Corte o exame da matéria. Assim, evidencia-se a prejudicialidade do feito.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, julgo prejudicado o habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
