@@ -1,0 +1,28 @@
+DECISÃO
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FORNECIMENTO DE MEDICAMENTOS. QUESTÃO DECIDIDA COM FUNDAMENTOS CONSTITUCIONAIS. SÚMULA 126/STJ. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto por [NOME], com base nas alíneas a e c, do inciso III do art. 105 da Constituição Federal, objetivando a reforma do acórdão do TRF-4a. Região, assim ementado:
+MEDICAMENTOS. NÃO DEMONSTRAÇÃO DA IMPRESCINDIBILIDADE DO FÁRMACO. ESTUDOS CIENTÍFICOS PELA NÃO INDICAÇÃO.
+1. União, Estados e Municípios detêm legitimidade para figurar no polo passivo de ação onde postulado o fornecimento público de medicamentos.
+2. Somente fará jus ao fornecimento do medicamento pelo Poder Público a parte que demonstra a respectiva imprescindibilidade, que consiste na conjugação da necessidade e adequação do fármaco e da ausência de alternativa terapêutica.
+3. Havendo parecer de órgãos técnicos que atesta pela não indicação do medicamento postulado, informando ausência de vantagem terapêutica em relação aos tratamentos disponibilizado pelo SUS, tem-se que não há evidência nos autos da presença dos requisitos autorizadores da tutela pretendida (fls. 398).
+2. Em seu Apelo Especial, sustenta a parte recorrente violação dos arts. 2o., 6o., I, d, e 7o., I e II da Lei 8.080/1994, ao argumento de que o medicamento pleiteado visa resguardar o direito fundamental à saúde.
+3. Apresentadas contrarrazões (fls. 430/432), sobreveio juízo positivo de admissibilidade.
+4. É o relatório.
+5. O Tribunal de origem assim consignou:
+A Constituição Federal consagra a saúde como direito fundamental, ao prevê- la, em seu art. 6o., como direito social. O art. 196 da Carta, por sua vez, estabelece ser a saúde direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas, que visem à redução do risco de doenças e de outros agravos e ao acesso universal e igualitário às ações e serviços para sua promoção, proteção e recuperação.
+Cumpre situar-se que, entre os serviços e benefícios prestados no âmbito da Saúde, encontra-se a assistência farmacêutica. O art. 6o., inc. I, alínea d, da Lei n. 8.080/90 expressamente inclui, no campo de atuação do Sistema Único de Saúde, a execução de ações de assistência terapêutica integral, inclusive farmacêutica. A Política Nacional de medicamentos e Assistência Farmacêutica, portanto, é parte integrante da Política Nacional de Saúde e possui a finalidade de garantir a todos o acesso aos medicamentos necessários, seja interferindo em preços, seja fornecendo gratuitamente as drogas de acordo com as necessidades.
+A judicialização da política pública de distribuição de medicamentos, por outro lado, deve obedecer a critérios que não permitam que o Judiciário faça as vezes da Administração, bem como que não seja convertido em uma via que possibilite a um paciente burlar o fornecimento administrativo de medicamentos, garantindo seu tratamento sem que se leve em consideração a existência de outros cidadãos na mesma ou em piores circunstâncias.
+Diante disso, seguindo na linha do precedente do STF, a análise judicial de pedidos de dispensação gratuita de medicamentos e tratamentos pressupõe que se observe, primeiramente, se existe ou não uma política estatal que abranja a prestação pleiteada pela parte.
+(..).
+No caso dos autos, da leitura do laudo pericial judicial (evento 38 - LAUDO1), verifica-se que o autor não realizou nenhum tipo de quimioterapia pelo SUS após o procedimento cirúrgico ao qual foi submetido em 17/03/2017. Informa que existe protocolo clínico no âmbito do SUS para a moléstia do autor, através da disponibilização do medicamento quimioterápico interferon-alfa. O perito afirma, ainda, que o fármaco postulado (Everolimus) não se vislumbra aumento de sobrevida global, e que tratamento pode ser considerado paliativo (fl. 05).
+O relatório do médico assistente do autor (evento 1 - LAUDO14), por sua vez, não faz, igualmente, qualquer referência a respeito de estudos clínicos que revelem a vantagem terapêutica do Everolimus comparado ao interferon alfa (disponibilizado pelo SUS em casos análogos).
+(..).
+Nesse contexto, verificando a hipótese de pareceres e laudos que não recomendam o tratamento postulado, tampouco a presença nos autos de que o autor esgotou as alternativas terapêuticas dos protocolos clínicos do SUS, tenho que não se encontra presente a plausibilidade do direito.
+Em não sendo conclusivo o laudo pericial judicial acerca da necessidade eindispensabilidade do tratamento postulado, bem como da indicação do mesmo, tem-se que não há evidência nos autos da presença dos requisitos autorizadores do direito pretendido.
+Desse modo, merece guarida os apelos para que seja reformada a sentença e julgada improcedente a presente lide.
+Diante da reforma da sentença, invertem-se os ônus sucumbenciais, condenando a parte autora ao pagamento de honorários no valor de R$ 3.000,00 para cada ente federado réu. Exigibilidade suspensa em casos de concessão do benefício da AJG (evento 3) (fls. 395/397).
+6. Ao que se observa, o Tribunal de origem decidiu a controvérsia com base no direito à saúde e dos arts. 6o. e 196 da CF, além de precedentes do STF. Contudo, a parte recorrente não interpôs Recurso Extraordinário, a fim de impugnar tal motivação, suficiente à manutenção do aresto.
+7. Incide, na hipótese, a Súmula 126 do STJ, que dispõe ser inadmissível Recurso Especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário.
+8. Ante o exposto, nega-se seguimento ao Recurso Especial.
+9. Publique-se.
+10. Intimações necessárias.
