@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (art. 1.042 do CPC/2015) interposto contra decisão (e-STJ fls. 418/420) que inadmitiu o recurso especial em virtude da impossibilidade de análise de matéria fático-probatória (Súmula n. 7/STJ).
+O acórdão recorrido está assim ementado (e-STJ fls. 297/298):
+Apelação Cível Ação Declaratória de Inexistência de Débito c/c Indenização por danos morais - Impossibilidade - Reconhecimento de Conexão com feito já Julgado - Incidência Da Súmula nº 235 do STJ - Inscrição indevida do nome da autora nos cadastros de restrição ao crédito - Serviço não contratado pela requerente - Atuação de falsários que não exime a responsabilidade da empresa requerida - Dano moral devido - Caracterização in re ipsa - Inaplicabilidade da Súmula nº 385 do STJ - Quantificação que deve levar em conta a existência de outras negativações que, segundo a autora, não são legítimas e são objeto de ações judiciais - Vedação ao enriquecimento sem causa - Redução do quantum indenizatório para R$ 2.000,00 (dois mil reais) - Sentença reformada pontualmente - Recursos conhecidos provido parcialmente da requerida improvido o autora.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 598/603).
+Nas razões do recurso especial (e-STJ fls. 318/334), interposto com fundamento no art. 105, III, "a" e "c", da CF, a recorrente alegou, além de dissídio jurisprudencial, violação dos arts. 186 e 944 do CC/2002 requerendo a majoração do quantum indenizatório para R$ 50.000,00 (cinquenta mil reais).
+No agravo (e-STJ fls. 444/463), afirma a presença de todos os requisitos de admissibilidade do especial.
+A recorrida apresentou contraminuta (e-STJ fls. 497/504).
+É o relatório.
+Decido.
+A modificação do valor da indenização por danos morais é admitida, em recurso especial, conforme entendimento pacífico do STJ, apenas quando excessivo ou irrisório o montante fixado, violando os princípios da proporcionalidade e da razoabilidade (AgRg no AREsp n. 703.970/DF, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/8/2016, DJe 25/8/2016 e AgInt no AREsp n. 827.337/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/8/2016, DJe 23/8/2016).
+A Justiça local, diante das circunstâncias analisadas, alterou a indenização dos danos morais no valor de R$ 2.000,00 (dois mil reais), nos seguintes termos (e-STJ fl. 303).
+Compulsando os autos, verifico que a autora possui outras negativações (alegadas ilegítimas), não sendo, portanto, a que ora se discute, a única restrição existente em nome a requerente/apelante. Desse modo, fixar um valor alto fomentaria ainda mais a "indústria do dano moral", ocasionando enriquecimento sem causa por parte da autora.
+Neste diapasão, considerando as peculiaridades do caso concreto, reputo razoável a indenização por dano moral fixada em R$ 2.000,00 (dois mil reais) por entender adequado para reparar o dano sem que importe em enriquecimento ilícito da parte contrária, e com suficiente carga punitivo-pedagógica, para evitar novas ocorrências da espécie.
+No caso dos autos, portanto, a quantia estabelecida pelas instâncias de origem não enseja a intervenção do STJ.
+Ademais, o STJ firmou entendimento no sentido de ser incabível o reexame do valor fixado a título de danos morais com base em divergência jurisprudencial, pois, ainda que haja semelhança de algumas características nos acórdãos confrontados, cada qual possui peculiaridades subjetivas e contornos fáticos próprios, o que justifica a fixação do quantum indenizatório distinto.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
