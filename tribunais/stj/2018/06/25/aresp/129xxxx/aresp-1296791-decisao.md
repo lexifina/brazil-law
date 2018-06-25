@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (art. 1.042 do CPC/2015) interposto contra decisão (e-STJ fls. 238/240) que inadmitiu o recurso especial em virtude de impossibilidade de análise de matéria fático-probatória (Súmula n. 7/STJ).
+O acórdão recorrido está assim ementado (e-STJ fl. 209):
+APELAÇÃO CÍVEL - AÇÃO INDENIZATÓRIA - FURTO DE MOTOCICLETA NO ESTACIONAMENTO DE SUPERMERCADO - RESPONSABILIDADE DO ESTABELECIMENTO COMERCIAL - DEVER DE GUARDA E VIGILÂNCIA - CULPA EXCLUSIVA OU CONCORRENTE DA VÍTIMA NÃO CARACTERIZADA - DANOS MORAIS E MATERIAIS CONFIGURADOS - VALOR DA INDENIZAÇÃO POR OFENSA À MORAL - REDUÇÃO - ANÁLISE DAS PECULIARIDADES DO CASO - RECURSO PARCIALMENTE PROVIDO.
+O empreendimento comercial que oferece estacionamento aos seus clientes responde objetivamente pelos eventuais dano se prejuízos a eles causados, considerando o dever de guarda e vigilância assumidos, estando a matéria, inclusive, sumulada no âmbito do Superior Tribunal de Justiça (Súmula nº 130 do STJ).
+O centro comercial tem o dever de guarda pelos bens ali deixados, devendo ser responsabilizado, inclusive por danos morais, em caso de furto ocorrido nas suas dependências.
+Na quantificação do dano moral, o juiz deve se valer de critérios de razoabilidade e proporcionalidade, considerando não só as condições econômicas do ofensor e do ofendido, mas o grau da ofensa e suas conseqüências, para que não constitua, a reparação do dano, em fonte de enriquecimento ilícito para o ofendido, mantendo uma proporcionalidade entre causa e efeito. E, sendo constatado que o valor foi fixado de maneira desproporcional, deve ser reduzido para que haja adequação ao caso concreto.
+Nas razões do recurso especial (e-STJ fls. 221/227), interposto com fundamento no art. 105, III, "a", da CF, a recorrente alegou violação dos arts. 186, 927 e 945 do CC/2002, sustentando a responsabilidade civil do recorrido quanto ao dano verificado, pois "estacionou sua motocicleta em lugar inadequado, longe do lhar das câmeras e dos caixas onde seria possível efetuar a vigilância" (e-STJ fl. 225).
+No agravo (e-STJ fls. 242/247), afirma a presença de todos os requisitos de admissibilidade do especial.
+O recorrido apresentou contraminuta (e-STJ fls. 250/254).
+É o relatório.
+Decido.
+O Tribunal de origem, à luz das provas dos autos, concluiu pela responsabilidade civil da parte recorrente, suficientemente demonstrada a ocorrência do evento, do dano e do nexo causal, afastando a tese de culpa exclusiva ou concorrente da vítima capaz de excluir sua responsabilidade, nos seguintes termos (e-STJ fls. 213/216):
+1) Dos danos materiais - culpa exclusiva/culpa concorrente da vítima.
+Pleiteia o apelante a exclusão da condenação ao pagamento de indenização por danos materiais em razão de furto de motocicleta ocorrido no estacionamento disponibilizado aos clientes do supermercado.
+Sustenta que o fato se deu por culpa exclusiva, ou ao menos concorrente, do autor que deixou o veículo estacionado em local impróprio para motocicleta e destinado, exclusivamente, para carros.
+Aduz que a área para estacionamento de motos é devidamente sinalizada e que conta com maior vigilância e segurança, não tendo a parte autora observado as recomendações nesse sentido.
+Em que pesem os argumentos apresentados, razão não lhe assiste.
+É entendimento consolidado da jurisprudência de que o empreendimento comercial que oferece estacionamento aos seus clientes responde objetivamente pelos eventuais dano se prejuízos a eles causados, considerando o dever de guarda e vigilância assumidos, estando a matéria, inclusive, sumulada no âmbito do Superior Tribunal de Justiça (Súmula nº 130 do STJ1).
+Assim, o estabelecimento que permite o estacionamento de veículo, em suas dependências, mesmo a título gratuito, tem o dever de guarda e vigilância, tornando-se responsável por qualquer dano causado.
+(..)
+Ademais, mesmo que, como no caso dos autos, exista área específica destinada para o uso exclusivo de motocicletas, o referido dever de guarda e vigilância deve se estender para todo o estacionamento e não apenas para determinado setor.
+Diante disso, acertado o entendimento adotado na sentença no sentido de que "Não pode a requerida empreender esforços para evitar eventos desta natureza em uma parte do estacionamento (já que afirmou que colocou câmeras de vigilância) e deixar de zelar pelos veículos (seja motocicleta, seja automóvel ou qualquer outro) que estão em outra parte. Pelas fotos colacionadas aos autos (fls. 15-18, 83 e 86) percebe-se tratar de amplo estacionamento, inclusive com indicação de vaga destinada a motos no chão da parte lateral do estacionamento, elemento apto a comprovar que o local utilizado pelo Requerente também era adequado para o estacionamento de motocicleta, agindo conforme sinalizado pela própria Requerida." (fls. 152)
+Pelas razões acima enumeradas não há que se falar em culpa exclusiva (ou concorrente) da vítima, mantendo-se a condenação nos danos materiais.
+Assim, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
