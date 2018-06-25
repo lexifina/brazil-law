@@ -1,0 +1,23 @@
+EMENTA
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. IMPETRAÇÃO CONTRA "DESPACHO" EXPEDIDO PELA ADVOGADA DA UNIÃO, DRA. [NOME] SOARES [NOME] [NOME], A QUAL INTEGRA A "EQUIPE VIRTUAL DE ALTO DESEMPENHO" DA PROCURADORIA-GERAL DA UNIÃO. DECLARAÇÃO DE INCOMPETÊNCIA ABSOLUTA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REMESSA DOS AUTOS À JUSTIÇA FEDERAL PARA QUE APRECIE O PEDIDO.
+DECISÃO
+Trata-se de mandado de segurança com pedido de liminar impetrado por SONIA CRISTINA DE OLIVEIRA LOPES contra suposto ato "abusivo e ilegal" da Advogada-Geral da União pelo enviou do "PARECER DE FORÇA EXECUTÓRIA n. 00395/2017/PGU/AGU, bem como a decisão e os documentos a CONJUR - Ministério da Defesa, para ciência e adoção das providências cabíveis por força da decisão prolatada pelo Superior Tribunal de Justiça" nos autos do Agravo em Recurso Especial n. 1.175.863/RJ, em que foi dado provimento ao recurso da União Federal no sentido de impossibilitar a acumulação de cargos.
+A impetrante relata que:
+ ..  é aposentada, junto ao Ministério da Aeronáutica, tendo como matrícula n. 205816.
+ ..  após o processo administrativo n. 67431/1086/2009, que tratava de acumula de cargo, requereu sua redução de jornada de trabalho de 40h para 20h, conforme procedimento interno, tendo o seu salário diminuído drasticamente.
+ .. , meses após tal procedimento veio a sofrer com uma doença gravíssima, sendo então aposentada por invalidez, com base na carga horária de 20 horas semanais.
+ ..  em 2011 ajuizou ação em face da União alegando que tal diminuição de jornada era ilegal e era possível ter a acumulação de cargo junto ao Município do Rio de Janeiro, conforme processo n.  .. , a fim de que o valor de sua aposentadoria fosse com base nas 40 horas semanais.
+ .. , após longa discussão no Judiciário o STJ no ARESP n. 1.175.863/RJ, decidiu pelo afastamento da possibilidade de acumulação de cargos.
+ .. , o AGU no parecer de força executória n. 00395/2017/PGU/AGU e 00599/2018/PGU/AGU determinou que o Comandante da Aeronáutica, vinculado ao Ministério da Defesa, tomasse as devidas providências.
+Diz que o ato praticado pela Advocacia-Geral da União foi "ilegal", pois não houve determinação judicial para a exclusão de sua aposentadoria, limitando-se a decisão proferida no AREsp n. 1.175.863/RJ tão somente a entender pela impossibilidade do acúmulo de cargo.
+Assevera que a autoridade coatora feriu o seu direito constitucional da ampla defesa e do contraditório, pois "simplesmente excluiu a autora" da folha de pagamento, sem notificá-la de tal ato, a fim de que pudesse apresentar eventual defesa.
+Sustenta também que a decisão determinada pela Advocacia-Geral da União resultou na "cessação de uma das fontes de renda recebida pela autora, ferindo o princípio da dignidade da pessoa humana".
+Para fins de concessão do pedido liminar, deduz que a plausibilidade jurídica está no fato de que a ação e a decisão judicial que gerou a sua exclusão da folha de pagamento foi tão somente sobre a impossibilidade do acúmulo de cargo; e que o periculum in mora se verifica em razão de tratar-se de verba de natureza alimentar, dependendo de tal verba para a sua sobrevivência.
+Requer liminarmente seja a autoridade coatora compelida a restabelecer o pagamento de sua aposentadoria.
+É o relatório.
+Com efeito, nos termos da alínea "b" do inciso I do artigo 105 da Constituição Federal de 1988, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, os mandados de segurança contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal.
+Ocorre que, não obstante a impetrante aponte como autoridade coatora a Advogada-Geral da União, não é o que se observa no presente feito. Isso porque foi juntado como ato coator "DESPACHO" expedido pela Advogada da União, Dra. [NOME], a qual integra a "Equipe Virtual de Alto Desempenho" da Procuradoria-Geral da União (doc. fl. 47 e-STJ).
+Dessa forma, o polo passivo, a causa de pedir e o pedido do mandado de segurança não dizem respeito a ato praticado por autoridade com prerrogativa de função nesta Corte Superior (artigo 105, I, "b", da Constituição Federal), razão pela qual a incompetência do STJ para processar e julgar o mandamus se mostra evidente.
+Ante o exposto, nos termos dos artigos 34, XIX, e 212 do RI/STJ, declaro a incompetência deste Tribunal Superior para apreciar o mandado de segurança.
+Encaminhem-se os autos, com urgência, à Justiça Federal da Seção Judiciária do Distrito Federal para que o mandamus seja livremente distribuído, conforme determina o § 3º do artigo 64 do CPC/2015.
+Publique-se. Intimem-se.
