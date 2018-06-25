@@ -1,0 +1,49 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. CLÁUSULA RESOLUTIVA. ART. 474 DO CÓDIGO CIVIL DE 2002. NOTIFICAÇÃO. DESLINDE DA CONTROVÉRSIA. RELEVÂNCIA. AUSÊNCIA DE APRECIAÇÃO. EMBARGOS DE DECLARAÇÃO. ART. 535 DO CPC/1973. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CONFIGURAÇÃO. RETORNO À ORIGEM. NECESSIDADE.
+1. O não enfrentamento pela Corte de origem de questões ventiladas nos embargos de declaração e imprescindíveis à solução do litígio implica violação do art. 535 do Código de Processo Civil de 1973.
+2. Configurada a negativa de prestação, impõe-se o retorno dos autos ao tribunal de origem para saneamento do vício.
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Terceira Turma, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Marco Aurélio Bellizze (Presidente), Moura Ribeiro, Nancy Andrighi e Paulo de Tarso Sanseverino votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): Trata-se de agravo interno interposto por COMPANHIA ENERGÉTICA DE MINAS GERAIS - CEMIG - contra a decisão (e-STJ fls. 777-779) que conheceu do agravo para dar provimento ao recurso especial interposto por BORÁ AGROPECUÁRIA LTDA. para determinar o retorno dos autos ao tribunal de origem por negativa de prestação jurisdicional.
+Nas razões do presente recurso (e-STJ fls. 783-791), a agravante sustenta, em síntese, que não há falar de suposta violação do artigo 535 do Código de Processo Civil de 1973, por ser a discussão acerca de matéria processual, qual seja, do indeferimento de petição inicial de uma ação de reintegração de posse ajuizada pela CEMIG por não ter sido realizado um pleito concomitante de rescisão contratual, apesar da existência de cláusula resolutiva expressa na avença firmada entre as partes.
+Afirma que as supostas omissões suscitadas pela empresa referentes à matéria fática são desnecessárias para a solução da controvérsia.
+Aduz, ainda, que incidiria na espécie a Súmula nº 5/STJ, haja vista demandar inegável reexame de cláusula contratual.
+A parte adversa apresentou impugnação (e-STJ fls. 795-800).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): A irresignação não merece prosperar.
+Os argumentos expendidos nas razões do agravo são insuficientes para autorizar a reforma da decisão agravada, pois procede a tese veiculada nas razões do especial no tocante à alegada negativa de prestação jurisdicional.
+Compulsando os autos, verifica-se que, não obstante a oposição de declaratórios (e-STJ fls. 648-651) requerendo expressamente manifestação acerca da alegada discussão, em outro juízo, de cláusulas contratuais referentes aos valores e prazos para pagamento da dívida, à existência ou não de notificação prévia apta a atrair o teor do art. 474 do Código Civil de 2002 e se haveria ação de retrocessão suficiente para desequilibrar a relação entre as partes (e-STJ fl. 650), permaneceu silente o tribunal de origem.
+No entanto, trata-se de matérias relevantes que demandavam pronunciamento das instâncias ordinárias.
+Assim, diversamente do que alega a agravante, para que o Superior Tribunal de Justiça aprecie o argumento de ausência de notificação prévia, instituída pelo art. 1º do Decreto-Lei nº 475/1969 e, por conseguinte, a não aplicação do art. 474 do CC/2002, é necessária a manifestação expressa do tribunal de origem sobre o tema.
+A propósito:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO DO RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA. COMPROMISSO DE COMPRA E VENDA. RESCISÃO CONTRATUAL. INEXISTÊNCIA DE MANIFESTAÇÃO JUDICIAL PRÉVIA. POSSE JUSTA. AUSÊNCIA DE PRESSUPOSTO DA DEMANDA. AGRAVO DESPROVIDO.
+1. "É imprescindível a prévia manifestação judicial na hipótese de rescisão de compromisso de compra e venda de imóvel para que seja consumada a resolução do contrato, ainda que existente cláusula resolutória expressa, diante da necessidade de observância do princípio da boa-fé objetiva a nortear os contratos. Por conseguinte, não há falar-se em antecipação de tutela reintegratória de posse antes de resolvido o contrato de compromisso de compra e venda, pois somente após a resolução é que poderá haver posse injusta e será avaliado o alegado esbulho possessório" (REsp 620787/SP, Rel. Min. Luis Felipe Salomão, Quarta Turma, julgado em 28/04/2009, DJe 27/04/2009).
+2. Agravo interno desprovido" (AgInt nos EDcl nos EDcl no REsp 1.534.185/PE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/10/2017, DJe 06/11/2017 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE REINTEGRAÇÃO DE POSSE - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AUTORA.
+1. A ação possessória não se presta à recuperação da posse, sem que antes tenha havido a rescisão/resolução do contrato. É firme a jurisprudência do STJ no sentido de ser imprescindível a prévia manifestação judicial na hipótese de rescisão de compromisso de compra e venda de imóvel para que seja consumada a resolução do contrato, ainda que existente cláusula resolutória expressa, diante da necessidade de observância do princípio da boa-fé objetiva a nortear os contratos.
+2. Agravo interno desprovido" (AgInt no AREsp 734.869/BA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 10/10/2017, DJe 19/10/2017 - grifou-se).
+"PROCESSO CIVIL. AGRAVO. RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA DE IMÓVEL. ANTECIPAÇÃO DA TUTELA. REINTEGRAÇÃO DE POSSE. NECESSIDADE DE MANIFESTAÇÃO JUDICIAL PARA A RESOLUÇÃO DO CONTRATO. PRECEDENTES. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+- Diante da necessidade de observância do princípio da boa-fé objetiva norteador dos contratos, na antecipação de tutela reintegratória de posse, é imprescindível prévia manifestação judicial na hipótese de rescisão de compromisso de compra e venda de imóvel para que seja consumada a resolução do contrato. Precedentes.
+- O reexame de fatos e provas em recurso especial é inadmissível.
+- Agravo no recurso especial não provido" (AgRg no REsp 1.292.370/MS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/11/2012, DJe 20/11/2012 - grifou-se).
+Eis o teor da decisão agravada, na parte que interessa:
+"(..) No caso dos autos, na petição dos aclaratórios, a parte embargante indicou que houve prorrogação do prazo de pagamento pela parte autora da ação de reintegração de posse e que o mesmo contrato firmado entre as partes já estaria sendo objeto de análise em outra demanda, todavia, estes pontos não foram suficientemente esclarecidos na fundamentação do acórdão recorrido.
+Assim sendo, está caracterizada a negativa de prestação jurisdicional, porquanto buscou-se o pronunciamento acerca de matéria relevante à solução da controvérsia que não foi suficiente esclarecida, a despeito de serem rejeitados os embargos declaratórios opostos pela parte (..)" (e-STJ fl. 778).
+Portanto, o não enfrentamento pela Corte de origem de questões ventiladas nos declaratórios e imprescindíveis à solução do litígio implica violação do artigo 535 do Código de Processo Civil de 1973, tanto que, nos termos da Súmula nº 211/STJ, revela-se inadmissível o recurso especial que, a despeito da oposição de embargos, trate de tema não analisado pela instância local, porquanto ausente o requisito do prequestionamento.
+Nesse sentido:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC CONFIGURADA. OMISSÃO SOBRE A QUESTÃO REFERENTE À LEGITIMIDADE ATIVA PARA QUESTIONAR A COBRANÇA DE ICMS. MATÉRIA DE ORDEM PÚBLICA. CONHECIMENTO DE OFÍCIO PELO TRIBUNAL A QUO. POSSIBILIDADE.
+1. De acordo com o art. 535 do Código de Processo Civil, os embargos declaratórios são cabíveis quando houver, na sentença ou no acórdão, obscuridade ou contradição, ou quando for omitido ponto sobre o qual se devia pronunciar o juiz ou tribunal.
+2. A ausência de legitimidade ativa, por se tratar de uma das condições da ação, é matéria de ordem pública cognoscível a qualquer tempo e grau, sendo insuscetível de preclusão nas instâncias ordinárias. Ressalte-se que, em se tratando de matéria de ordem pública, pode ser alegada na instância ordinária a qualquer tempo, podendo inclusive ser conhecida de ofício.
+3. No caso concreto, o Tribunal de origem, mesmo com a oposição dos embargos de declaração, não se manifestou acerca da legitimidade ativa para se questionar a cobrança de ICMS quanto à demanda contratada de energia elétrica. Tal ponto é de grande relevância para a demanda.
+4. Recurso especial provido" (REsp 1.252.842/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 07/06/2011, DJe 14/06/2011).
+"PROCESSO CIVIL EMBARGOS DE DECLARAÇÃO. OMISSÃO NÃO SANADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NULIDADE DO ACÓRDÃO.
+1. Os embargos de declaração, de regra, não autorizam a reapreciação do quanto decidido, porém nada impede que, constatada a existência de omissão, o seu suprimento implique modificação no resultado do julgamento. Precedentes.
+2. Constatada a existência de omissão não sanada no acórdão proferido pelo Tribunal Estadual, a despeito da interposição de embargos de declaração, é de rigor o reconhecimento de violação do art. 535 do CPC, por negativa de prestação jurisdicional, com a determinação de retorno dos autos à origem para que se realize novo julgamento.
+3. Recurso especial provido" (REsp 1.091.966/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 08/02/2011, DJe 14/02/2011).
+Logo, era mesmo imperiosa a determinação de devolução dos autos ao tribunal de origem para realização de novo julgamento dos aclaratórios de fls. 548-651 (e-STJ).
+Assim, não prosperam as alegações postas no agravo, incapazes de alterar os fundamentos da decisão impugnada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
