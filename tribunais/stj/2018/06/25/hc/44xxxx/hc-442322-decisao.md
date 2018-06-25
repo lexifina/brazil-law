@@ -1,0 +1,100 @@
+DECISÃO
+[NOME] e DAVID DE MORAES, pacientes neste habeas corpus, estariam sofrendo constrangimento ilegal em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 0001034-55.2017.8.26.0635.
+Depreende-se dos autos que, na primeira instância, David foi condenado a 5 anos, 8 meses e 22 dias de reclusão (art. 157, § 2º, I e II, do CP), e [NOME] apenado com 11 anos, 7 meses e 3 dias de reclusão (arts. 157, § 2º, I e II, e 304 c/c o art. 297, todos do CP).
+Inconformada a defesa apelou. O Tribunal local negou provimento ao recurso e manteve a sentença em todos os seus termos.
+Nesta Corte Superior, busca a defesa a concessão da ordem para: a) a redução da pena-base dos pacientes; b) o aumento da reprimenda em 1/6 na segunda fase da dosimetria, em decorrência da reincidência; c) o aumento da reprimenda em 1/3 na terceira fase da dosimetria, em decorrência das majorantes do crime de roubo; d) a revisão da dosimetria do delito de uso de documento falso pelo paciente [NOME]; e) a fixação do regime semiaberto para o paciente David.
+Não houve pedido de liminar.
+Prestadas as informações (fls. 51-53 e 55-74), veio o parecer do Ministério Público Federal (fls. 76-87), que opinou pela concessão parcial da ordem.
+Decido.
+I. Pena-base
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à reprovação do delito perpetrado.
+Assim, para obter-se uma aplicação justa da lei penal, o julgador, dentro dessa discricionariedade juridicamente vinculada, há de atentar para as singularidades do caso concreto, devendo, na primeira etapa do procedimento trifásico, guiar-se pelas oito circunstâncias relacionadas no caput do art. 59 do Código Penal. São elas: a culpabilidade; os antecedentes; a conduta social; a personalidade do agente; os motivos; as circunstâncias e as consequências do crime e o comportamento da vítima.
+Ao dosar as penas dos pacientes, o Juízo singular assim se pronunciou (fls. 33-34, grifei):
+ ..
+Não é possível que o roubo de um veículo seja apenado da mesma forma, ou de forma próxima, a de quem subtraia uma bicicleta ou um relógio, por exemplo. As gravidades das condutas são totalmente díspares, denotando no caso do crime relativo a veículos uma culpabilidade redobrada e uma personalidade muito mais seriamente comprometida e voltada para a criminalidade, bem como gerando muito maiores prejuízos para as vítimas.
+Isso tudo sem considerar, ainda, o comportamento posterior dos réus, ao empreender fuga gerando enorme perigo a transeuntes, como relatado pelos policiais.
+Assim, considerando que no caso da subtração de uma bicicleta ou um relógio a pena seria a mínima, e considerando a gravidade muito superior no caso de veículos, e tendo em vista ainda o máximo previsto pelo legislador, aumento a pena base na fase do artigo 59 do Código Penal em um ano de reclusão e 2 dias-multa, o que representa, na verdade, um aumento de apenas um sexto do intervalo possível para o delito (de 4 a 10 anos).
+Quanto ao delito de falso, observo que, se para alguém que apenas adulterasse a própria CNH tão somente para a inclusão de habilitação para a condução de alguma outra categoria de veículo, como motocicleta, por exemplo, seria aplicada a pena mínima, não há dúvida de que deve ser aplicada uma pena significativamente maior quando a falsidade não se refere a apenas uma informação do documento, mas sim toda a qualificação da pessoa.
+Além disso, a falsificação poderia se dar para obter alguma vantagem sem nenhuma implicação criminal. Porém, no caso dos autos, fica evidente que o uso do documento falso se deu em circunstâncias gravíssimas, buscando o réu ocultar sua verdadeira identidade perante policiais, sendo evadido (fls. 125).
+E não há nenhuma dúvida de que tal prática, nesse contexto, é muito mais grave, seja por colocar em risco a própria atividade estatal de aplicação da lei penal, seja pelo risco até de que terceira pessoa venha a ser acusada de um crime que não cometeu.
+Por tudo isso, fixo a pena base do réu em três anos de reclusão e 15 dias-multa.
+O Tribunal local confirmou a dosimetria, tecendo as seguintes considerações (fls. 42-43, destaquei):
+ ..
+As penas-base foram corretamente fixadas acima do mínimo legal pelas irretorquíveis razões lançadas na sentença. Diferentemente do sustentado pela combativa defesa, o valor e a natureza do objeto subtraído é diretamente relacionado com as consequências do crime praticado. Em se tratando de crime patrimonial, o alto valor do objeto subtraído não pode ser desconsiderado no momento da fixação da pena-base. Do mesmo modo, o fato de o apelante [NOME] ter se utilizado de completa identificação alheia visando manter-se foragido do sistema prisional e, também, não ser identificado após praticar crime idêntico à da condenação anteriormente por ele ostentada são elementos suficientes para a maior reprovabilidade da conduta, o que justifica o acréscimo da pena nos patamares estabelecidos em primeiro grau de Jurisdição.
+No caso em exame, o Juízo sentenciante, em relação ao crime de roubo, considerou desfavoráveis a culpabilidade, a personalidade e as consequências do delito, quanto a ambos os réus. Ademais, para o crime de uso de documento falso cometido pelo paciente [NOME], valorou negativamente a conduta do réu e as circunstâncias do crime.
+A impetrante sustenta a ilegalidade da exasperação da pena pelas consequências do crime, porque as instâncias antecedentes haveriam valorado negativamente a referida vetorial em razão de se tratar de subtração de veículo, bem de elevado valor econômico.
+Relativamente às consequências do delito, verifico que o Juiz sentenciante ressaltou a gravidade da conduta dos pacientes, ao diferenciar as subtrações de uma bicicleta e de um veículo, destacando maior culpabilidade e reprovação da personalidade neste último.
+Conquanto esta Corte entenda que o fato de os objetos não serem totalmente recuperados não pode ensejar o recrudescimento da pena-base (pois a violação do patrimônio alheio é inerente ao tipo penal), neste caso ficou expressa a gravidade da infração em razão do alto valor dos bens roubados, o que gerou prejuízo aos ofendidos. Logo, nos termos da jurisprudência do STJ, a motivação lançada é idônea. Nesse sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS. CONDENAÇÃO POR ROUBOS MAJORADOS. QUADRILHA. PENA-BASE. CONSEQUÊNCIAS E CIRCUNSTÂNCIAS DO DELITO. GRANDE PREJUÍZO ÀS VÍTIMAS. AUDÁCIA DA AÇÃO CRIMINOSA. ELEMENTOS QUE JUSTIFICAM A EXASPERAÇÃO.
+1. Admite-se a exasperação da pena-base pela valoração negativa das consequências do delito com base no valor do prejuízo sofrido pela vítima.
+2. In casu, considerando os altos valores subtraídos pelo grupo criminoso, mostra-se adequada a elevação da sanção inicial.
+3. A forma audaciosa e o grau de coordenação com que praticados os delitos patrimoniais demonstram a maior reprovabilidade social das condutas e justificam o julgamento desfavorável das circunstâncias do crime.
+ ..
+(AgRg no HC n. 184.814/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe 21/11/2013, destaquei).
+Logo, não verifico a ilegalidade apontada.
+II. Fração de aumento pela reincidência - paciente [NOME]
+O Juiz sentenciante agravou a reprimenda dos pacientes da segunda etapa sob os seguintes argumentos (fls. 34-35, grifei):
+ ..
+Na segunda fase, presente a atenuante da menoridade de David, reduzo sua pena em um sexto.
+Pela agravante da reincidência de [NOME] (fls. 154/155), e sendo esta específica, denotando personalidade marcadamente resiliente, e evidenciando a insuficiência de sanções menos severas, aumento sua pena para o roubo em um quarto, sendo que o tradicional sexto ficaria reservado à hipótese de condenação anterior por delito de outra natureza e menor gravidade, e com pena já cumprida.
+Já, quanto ao falso, não sendo específica a reincidência, e tendo havido confissão, excepcionalmente compenso tais circunstâncias.
+A Corte local, ao corroborar o entendimento esposado pelo Juízo singular, acerca da fração da reincidência, assim registrou (fl. 43, destaquei):
+ ..
+Na segunda fase, a pena de David foi reduzida pela menoridade relativa, enquanto que a de [NOME] foi acrescida em um quarto em relação ao crime de roubo por se tratar de reincidência específica, que merece tratamento mais gravoso, pois, embora condenação anterior, o réu voltou a praticar o mesmo delito pela qual cumpria pena.
+No tocante ao crime de falso, a confissão foi compensada com a reincidência.
+Sobre o aumento de pena relativo à agravante da reincidência, cumpre salientar que o Código Penal não estabelece limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas, respectivamente. Na verdade, o art. 61 limitou-se a prever as circunstâncias que sempre agravam a pena, embora não tenha mencionado qualquer valor de aumento. O mesmo ocorre com o disposto no art. 65, que estipula as circunstâncias que sempre atenuam a pena, sem, contudo, fazer nenhuma menção ao quantum de redução.
+A doutrina e a jurisprudência têm entendido que cabe ao magistrado, dentro do seu livre convencimento e de acordo com as peculiaridades do caso concreto, escolher a fração de aumento de pena pela incidência da agravante, em observância aos princípios da razoabilidade e da proporcionalidade.
+Assim, nos termos da jurisprudência deste Superior Tribunal, a aplicação de fração superior a 1/6 pela reincidência exige motivação concreta e idônea. Menciono, como exemplo, o HC n. 229.371/DF, Rel. Ministra Laurita Vaz, 5ª T., DJe 4/9/2013.
+Nesse ponto, destaco que, segundo entendimento do Supremo Tribunal Federal, "A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas. Às Cortes Superiores, no exame da dosimetria das penas em grau recursal, compete o controle da legalidade e da constitucionalidade dos critérios empregados, bem como a correção de eventuais discrepâncias, se gritantes ou arbitrárias, nas frações de aumento ou diminuição adotadas pelas instâncias anteriores." (RHC n. 115.654/BA, Rel. Ministra Rosa Weber, 1ª T., DJe 21/11/2013, destaquei).
+No caso em análise, verifico que as instâncias ordinárias aumentaram a pena em 1/4, tendo em vista a reincidência específica (certidão de antecedentes penais às fls. 28-36) do paciente [NOME], o que, a meu ver, justifica a exasperação nesse patamar, não havendo que se falar em desproporcionalidade.
+Ilustrativamente:
+ ..
+1. Consoante a jurisprudência desta Corte, apesar de não estabelecida pela norma penal a quantidade de aumento de pena em decorrência das agravantes genéricas, deve ela se pautar pelo percentual mínimo fixado para as majorantes, que é de 1/6. Entretanto, é admitida como razoável a adoção de percentual superior mediante fundamentação concreta (multirreinciência, reincidência específica).
+2. Não há desproporcionalidade na exasperação da pena do paciente em 1/3, pois a instância antecedente destacou sua reincidência específica.
+3. O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes. Súmula n. 443 do STJ.
+4. As instâncias ordinárias não apontaram nenhum elemento dos autos (modus operandi, por exemplo) que, efetivamente, evidenciasse real necessidade de exasperação da pena, na terceira fase da dosimetria, no patamar estabelecido. Ressalva do Relator.
+5. Habeas corpus não conhecido. Ordem concedida, de ofício, a fim de reduzir ao mínimo legal o aumento da reprimenda procedido na terceira etapa da dosimetria (HC n. 233.205/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 2/3/2016, destaquei).
+III. Súmula n. 443 do STJ
+O Juiz de primeiro grau, ao dosar a pena na terceira fase, ofertou a seguinte motivação para elevar a reprimenda na fração de 3/8 (fl. 35, grifei):
+ ..
+Presentes duas causas de aumento de pena, sendo ambas relevantes, posto que tanto o concurso de pessoas como o uso de arma foram eficazes na realização e consumação do delito, aumento a pena acima do mínimo, em três oitavos, já que não se pode apenar este crime da mesma forma como se tivesse sido apenas praticado por duas pessoas, sem uso de arma.
+Ademais, de se observar que tal aumento acima do piso não decorre apenas da multiplicidade de causas, mas também da redobrada intensidade delas, já que o crime foi praticado com uso de arma de fogo, de alto poder vulnerante e de intimidação. Não se pode esquecer que o simples porte ilegal de arma de fogo já é considerado um delito com pena mínima de dois anos de reclusão e que, em se tratando de arma com numeração raspada, leva a uma sanção de pelo menos três anos.
+ ..
+Por tudo isso, resta a pena de David em 5 anos, 8 meses e 22 dias de reclusão, e 13 dias-multa, e de [NOME] em 8 anos, 7 meses e 3 dias de reclusão, e 20 dias-multa, pelo roubo, e em 3 anos de reclusão, e 15 dias-multa, pelo falso.
+A Corte de origem manteve o aumento fixado na sentença, ao assentar que "pelas causas de aumento previstas para o concurso de agentes e emprego de arma a pena foi corretamente acrescida em mais 3/8, percentual adequado ao caso, notadamente pelo uso ostensivo de arma de fogo, situação que indubitavelmente colocou os ofendidos em maior vulnerabilidade, como, aliás, devidamente fundamentado na r. decisão atacada" (fl. 43, destaquei).
+Pela leitura da sentença condenatória e do acórdão impugnado, a meu ver, é inegável a satisfatória motivação do ato decisório com lastro em dados concretos. Isso porque a menção de que o delito foi praticado em concurso de quatro agentes, sendo um menor e outro não identificado (conforme denúncia), os quais, na tentativa de fuga após a subtração, dispararam tiros de arma de fogo contra a polícia, colocando em risco a integridade física da coletividade. Justificado, portanto, de maneira idônea, o aumento da pena na referida fração.
+Assim, não se trata de caso em que a simples gravidade das causas de aumento da pena, tomada abstratamente, é utilizada como fundamentação para a exasperação da reprimenda, em violação do enunciado da Súmula n. 443 do STJ, como apontado pela defesa, razão pela qual não verifico qualquer ilegalidade na decisão judicial que aplicou a fração de 3/8 para a majoração da pena, na terceira fase da dosimetria, ante a presença de motivação concreta.
+Ilustrativamente:
+ ..
+5. O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes.
+Súmula n. 443 do STJ.
+6. O aumento da pena, no montante de 1/2, foi baseado em dado fático suficiente a indicar a gravidade concreta do crime - intensidade da violência praticada contra as vítimas.
+7. Habeas corpus não conhecido. Ordem concedida, de ofício, para reduzir a pena imposta.
+(HC n. 211.591/MS, Rel. Ministro Rogerio Schietti, 6ª T., DJe 17/3/2016, destaquei).
+ ..
+- Na hipótese dos autos, o aumento operado em razão das majorantes, em patamar acima do mínimo legal, se deu com base em circunstâncias concretas - extrema violência exercida contra as vítimas - e não por simples critério numérico.
+Agravo regimental desprovido.
+(AgRg nos EDcl no AREsp n. 725.452/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 9/12/2015, destaquei).
+Logo, em que pese a insurgência ora deduzida, noto que a instância antecedente consignou as referidas circunstâncias, as quais demonstram, ineludivelmente, a maior gravidade do comportamento ilícito, o que justifica, de maneira idônea, a exasperação da sanção na terceira fase na fração de 3/8.
+IV. Regime prisional - paciente David
+O Juízo de primeiro grau justificou a fixação do regime inicial pelos seguintes argumentos (fl. 35, grifei):
+ ..
+Ante todas as circunstâncias negativas acima indicadas, com uso de arma de fogo, sendo [NOME] reincidente e foragido, e tendo ambos os réus não demonstrado qualquer arrependimento, optando por mentir deslavadamente em juízo, negando o crime que praticaram, evidenciando que a prisão cautelar não lhes produziu ainda qualquer efeito ressocializador, tenho que o único regime inicial suficiente e adequado é o fechado.
+A Corte de origem, no julgamento do apelo defensivo, consignou que (fls. 43-44, destaquei):
+ ..
+O regime prisional fechado, fixado na r. sentença, é o necessário para prevenção e reprovação do delito. As circunstâncias judiciais desfavoráveis apontadas, somadas à gravidade concreta da conduta praticada, com uso ostensivo de arma de fogo, demonstram que regime prisional mais brando não seria suficiente para a reprovação da conduta. Em relação ao réu [NOME] deve ser observada, ainda, a reincidência específica.
+Quanto à pretensão de fixação do regime semiaberto, cumpre enfatizar que esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, ao quantum de reprimenda imposto.
+É dizer, para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena (HC 279.272/SP, Rel. Ministro Moura Ribeiro, 5ª T., DJe 25/11/2013; HC 265.367/SP, Rel. Ministra Laurita Vaz, 5ªT., DJe 19/11/2013; HC 213.290/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/11/2013; HC 148.130/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 3/9/2012).
+Diante da fundamentação oferecida pelas instâncias antecedentes, não verifico o apontado constrangimento ilegal de que estaria sendo vítima o paciente David, pois não há ilegalidade na fixação do regime inicial fechado quando apontado dado fático suficiente a indicar a gravidade concreta do crime - na espécie, a natureza dos bens subtraídos e o uso ostensivo de arma de fogo -, ainda que o quantum da pena seja inferior a oito anos (art. 33, § 3º, do CP).
+Ilustrativamente:
+ ..
+3. Fixada a quantidade da sanção devida a quem, comprovadamente, violou a norma penal, compete ao juiz natural da causa indicar, de maneira motivada e com base nos dados concretos dos autos, qual o regime inicial a fixar para o cumprimento da reprimenda, não sendo possível lhe coarctar a consideração de fatores que, associados e complementares à dogmática penal, indiquem como necessária, para o alcance dos fins da pena, a imposição de regime mais gravoso do que indicaria a mera correspondência da quantidade da pena à previsão legal.
+4. O Juiz de primeira instância - no que foi ratificado pela Corte de origem - fundamentou idoneamente a fixação do regime inicial fechado, visto que apontou circunstância concreta apta a indicar a maior reprovabilidade da conduta do paciente, qual seja, a reiteração delitiva e a reincidência.
+5. Habeas corpus não conhecido.
+(HC n. 276.700/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 7/5/2015, destaquei)
+Não se trata, portanto, de caso em que a simples gravidade abstrata do delito cometido é utilizada como fundamentação para a imposição de regime prisional mais gravoso do que o permitido em razão da sanção aplicada, em violação dos enunciados das Súmulas n. 440 do STJ, 718 e 719 do STF, como deduzido pela defesa.
+Dessa forma, não visualizo ilegalidade no acórdão que determinou aos pacientes cumprirem as penas em regime inicial fechado, ante a presença de motivação concreta.
+V. Dispositivo
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
