@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo de instrumento. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na violação dos arts. 194, IV, e 201, § 4º, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo de instrumento.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta violação somente poderia ser constatada a partir da análise de matéria infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Nesse sentido:
+    “Agravo regimental em recurso extraordinário. 2. Previdenciário. Índices negativos de correção monetária. Deflação. IGP-M. 3. Matéria infraconstitucional. Ofensa reflexa. 4. Precedente: RE-RG 729.011 (Tema 749), rel. Min. Teori Zavascki. 5. Agravo regimental a que se nega provimento.” (RE 723017 AgR, Relator(a): Min. GILMAR MENDES, Segunda Turma, julgado em 24/06/2014, PROCESSO ELETRÔNICO DJe-162 DIVULG 21-08-2014 PUBLIC 22-08-2014)
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. ATUALIZAÇÃO DE BENEFÍCIO PREVIDENCIÁRIO. ÍNDICES DE CORREÇÃO MONETÁRIA. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO RE 729.011-RG. QUESTÃO DE ÍNDOLE INFRACONSTITUCIONAL. 1. Os índices de correção monetária aplicáveis na atualização de benefício previdenciário, quando sub judice a controvérsia, não revelam repercussão geral apta a dar seguimento ao apelo extremo, consoante decidido pelo Plenário virtual do STF, na análise do RE 729.011-RG, Rel. Min. Teori Zavascki, DJe 28/8/2014. 2. In casu, o acórdão recorrido assentou: “CONSTITUCIONAL E PREVIDENCIÁRIO. EMBARGOS À EXECUÇÃO. DEFLAÇÃO. GARANTIA DE IRREDUTIBILIDADE E MANUTENÇÃO DO VALOR REAL DE BENEFÍCIOS.” 3. Agravo regimental DESPROVIDO.” (ARE 837709 AgR, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 11/11/2014, PROCESSO ELETRÔNICO DJe-232 DIVULG 25-11-2014 PUBLIC 26-11-2014)
+    Não há, portanto, como assegurar trânsito ao extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento ao agravo de instrumento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 25 de junho de 2018.
+Ministra Rosa Weber
+Relatora
