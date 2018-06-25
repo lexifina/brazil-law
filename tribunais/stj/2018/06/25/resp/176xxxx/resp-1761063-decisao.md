@@ -1,0 +1,34 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. IMÓVEL SITUADO EM ÁREA DE RESERVA INDÍGENA. ÁREA DE PRESERVAÇÃO PERMANENTE. ITR. AGRAVO CONHECIDO PARA DETERMINAR SUA REAUTUAÇÃO COMO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal Regional Federal da 4ª Região, cuja ementa é a seguinte:
+TRIBUTÁRIO. AÇÃO ANULATÓRIA E EMBARGOS À EXECUÇÃO FISCAL. ITR. IMÓVEL SITUADO DENTRO DE RESERVA INDÍGENA. NATUREZA DECLARATÓRIA DO ATO DE DEMARCAÇÃO. ÁREA DE PRESERVAÇÃO PERMANENTE. NÃO INCIDÊNCIA DE ITR. APRESENTAÇÃO DO ADA. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. ÍNDICE DE ATUALIZAÇÃO. AGRAVO RETIDO.
+1. O ato administrativo demarcatório de reserva indígena não possui natureza constitutiva, mas declaratória, pois reconhece uma situação preexistente com base no direito originário dos índios sobre as terras que tradicionalmente ocupam, o qual prepondera sobre os títulos de propriedade ou de legitimação de posse em favor de não índios, considerados nulos e extintos pelo art. 231 da Constituição Federal.
+2. Diante da natureza declaratória do ato administrativo que declarou a totalidade da área do imóvel como de posse permanente de grupo indígena, não é exigível o imposto territorial rural, mesmo em relação a fatos geradores ocorridos antes da demarcação da reserva.
+3. Não incide o ITR sobre as áreas onde se localizam as florestas e demais formas de vegetação natural destinadas a manter o ambiente necessário à vida das populações silvícolas, sujeitas ao regime de preservação permanente, conforme o artigo 3º, alínea "g" e § 2º, da Lei nº 4.771/1965, combinado com o artigo 10, §1º, inciso II, alínea "a", da Lei nº 9.393/1996.
+4. Não há nenhuma prova nos autos que corrobore a alegação da Fazenda Nacional de que o autor encontrava-se em plena posse e realizava a exploração econômica do imóvel.
+5. A prévia apresentação do Ato Declaratório Ambiental não constitui requisito para provar a destinação das áreas de preservação permanente, em razão do caráter interpretativo do § 7º do art. 10 da Lei n2 9.393/1996.
+6. Impõe-se majorar os honorários advocatícios, a fim de oferecer justa contraprestação ao trabalho e ao zelo dos advogados na condução da causa, em conformidade com a natureza e importância da demanda. Entretanto, para que a Fazenda Pública não seja onerada demasiadamente, não se adota o valor da causa para fixar a verba honorária.
+7. Os honorários advocatícios devem ser atualizados pela variação do IPCA-E, não incidindo os índices oficiais de remuneração básica e juros aplicados à caderneta de poupança.
+8. Não merece prosperar o agravo retido oposto contra a decisão de indeferimento da produção de prova pericial e testemunhai, visto que todas as provas imprescindíveis ao conhecimento do pedido já estão nos autos.
+9. Apelação da Fazenda Nacional, remessa necessária e agravo retido desprovidos. Apelação do autor parcialmente provida.
+Os embargos de declaração foram parcialmente providos, com a seguinte ementa:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE OMISSÃO. HONORÁRIOS ADVOCATÍCIOS. INAPLICABILIDADE DO ART.
+85 DO CPC. TERMO INICIAL DA CORREÇÃO MONETÁRIA DOS HONORÁRIOS FIXADOS EM VALOR CERTO.
+1. Se o acórdão deixa de analisar a questão controvertida de acordo com a interpretação defendida pela embargante, trata-se de contrariedade e não de omissão.
+2. Os pontos levantados nos embargos de declaração da Fazenda Nacional foram adequadamente fundamentados no acórdão.
+3. Despicienda a interposição de embargos para o efeito de prequestionamento.
+4. Não procede a alegação da parte autora no sentido de que o acórdão apresenta omissão, por não aplicar as disposições do art. 85 da Lei nº 13.105/2015.
+5. O novo Código de Processo Civil rege somente os recursos interpostos
+contra sentenças proferidas após 18/03/2016. Se o ato processual já estava plenamente aperfeiçoado antes da vigência da Lei nº 13.105/2015, não se aplicam as normas supervenientes, consoante o disposto no art. 14 do CPC.
+6. Tratando-se de honorários fixados em valor certo, a correção monetária incide a partir da decisão judicial que os arbitrou.
+7. Embargos de declaração da Fazenda Nacional rejeitados. Embargos de
+declaração da parte autora parcialmente providos.
+No recurso especial, interposto com base na alínea "a" do permissivo constitucional, o recorrente aponta violação aos artigos 1º da Lei 9.939/96, 3º da LEF, alegando em síntese que: a) o Imposto sobre a Propriedade Territorial Rural incide sobre a posse do imóvel, carecendo de título de propriedade legítimo; b) o decreto que determinou a condição de reserva indígena não pode retroagir para acobertar períodos em que o contribuinte detinha a posse do imóvel; c) houve em 2003 o reconhecimento da posse ou propriedade pelos recorridos da área em comento na época do lançamento, inclusive tendo apresentado a declaração de ITR; d) o Plano de manejo Florestal sustentável apresentado pela autora e referido no acórdão ora recorrido, ao contrário do entendimento adotado no acórdão, apenas foi cancelado em 2005; e) todos os documentos constantes dos autos indicam que à data do lançamento contestado, 2001 e 2002, o autor/executado encontrava-se em plena posse do imóvel, tendo inclusive apresentado a declaração do ITR; f) A conclusão do acórdão ora embargado, ao pretender que a Fazenda Nacional apresente prova negativa da ocupação do imóvel à época dos fatos geradores implica em verdadeira inversão do ônus da prova; g) no que diz respeito a eventual área de preservação permanente por conta de reserva indígena, ainda que seja prescindível a apresentação do ADA, a averbação no registro de imóveis não o é, de forma que passa a não ser exigível o imposto territorial rural sobre áreas de preservação permanente apenas após o registro imobiliário; h) em relação à área de reserva legal/preservação permanente/floresta, o direito à isenção do ITR sobre ela está condicionado à averbação de tal unidade de conservação à margem da matrícula de registro do imóvel previamente à ocorrência do fato gerador do ITR.
+Contrarrazões ao recurso especial às fls. 236/242.
+O recurso foi inadmitido pela decisão de fl. 245/247, cujos fundamentos foram combatidos em sede de agravo em recurso especial.
+Contraminuta ao agravo em recurso especial às fls. 283/290.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Preenchidos os requisitos de admissibilidade recursal, dou provimento ao agravo para que seja reautuado como recurso especial.
+Publique-se. Intimem-se.
