@@ -1,0 +1,25 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. EFEITO SUSPENSIVO. APLICABILIDADE DO ART. 739-A DO CPC. RESP. 1.272.827/PE, REL. MIN. MAURO CAMPBELL MARQUES, DJE 31.5.2013, SUBMETIDO AO RITO DO ART. 543-C DO CPC. REQUISITOS DA SUSPENSÃO. REEXAME DE PROVA. AGRAVO DESPROVIDO.
+1. Agrava-se de decisão que inadmitiu o Recurso Especial interposto com fundamento no art. 105, III, a da Constituição da República e voltado contra o acórdão proferido pelo egrégio Tribunal Regional Federal da 3a. Região, assim ementado:
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO FISCAL. ATRIBUIÇÃO DE EFEITO SUSPENSIVO. REQUISITOS. EXECUÇÃO NÃO GARANTIDA. AGRAVO NÃO PROVIDO.
+1. A atribuição de efeito suspensivo aos embargos à execução está condicionada a três requisitos, quais sejam, a apresentação de garantia; verificação pelo juiz da relevância da fundamentação (fumus boni juris) e perigo de dano irreparável ou de difícil reparação (periculum in mora), a teor do disposto no art. 739-A, § 1º, do CPC/1973 (art. 919, § 1º, do CPC/2015).
+2. No caso em apreço, verifica-se que a execução fiscal não se encontra integralmente garantida, bem como não há demonstração do fumus boni iuris e do periculum in mora, ressaltando-se, no mais, que a penhora sobre o imóvel situado à Rua Tabapuã, 1666, apto 122, e a vaga de garagem no mesmo endereço, recaiu apenas sobre a parte ideal (1/6) do bem, haja vista a copropriedade sobre o mesmo, restando resguardado os direitos dos demais coproprietários.
+3. Agravo de interno a que se nega provimento (fls. 259).
+2. Os Embargos de Declaração foram rejeitados (fls. 267/273).
+3. Nas razões do Apelo Nobre, o Recorrente aponta, preliminarmente, violação ao art. 1.022 do CPC/2015 e, no mérito, defende que, com a aplicação da Lei 6.830/80 ao caso concreto, em sendo opostos e recebidos os embargos à execução, o efeito suspensivo é medida que se impõe (fls. 282).
+4. É o breve relatório. Decido.
+5. De início, cumpre destacar que a alegada violação ao art. 1.022 do CPC/2015 não ocorreu, tendo em vista o fato de que a lide foi resolvida nos limites propostos e com a devida fundamentação. As questões postas a debate foram decididas com clareza, não tendo havido qualquer vício que justificasse o manejo dos Embargos de Declaração. Observe-se, ademais, que o julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+6. No tocante à atribuição do efeito suspensivo, esta Corte de Justiça, no julgamento do REsp. 1.272.827/PE, Relator Min. MAURO CAMPBELL MARQUES, DJe 31.5.2013, submetido ao rito do art. 543-C do CPC/1973, consolidou o entendimento de que o art. 739-A do CPC/1973 se aplica às execuções fiscais, desde que presentes os seguintes requisitos: requerimento do embargante; garantia do juízo; verificação pelo juiz da relevância da fundamentação (fumus boni juris) e do perigo de dano irreparável ou de difícil reparação (periculum in mora).
+7. Entretanto, a análise referente ao cumprimento dos citados requisitos demanda a incursão no conteúdo fático-probatório dos autos, o que implica reexame de provas - inviável em Recurso Especial, nos termos da Súmula 7/STJ. Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. EXECUÇÃO FISCAL. EFEITO SUSPENSIVO. PERIGO DE DANO IRREPARÁVEL OU DE DIFÍCIL REPARAÇÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Descumprido o indispensável exame dos artigos invocados pelo acórdão recorrido, apto a viabilizar a pretensão recursal da recorrente, a despeito da oposição dos embargos de declaração. Incidência da Súmula 211/STJ.
+2. A Primeira Seção do STJ, no julgamento do REsp 1.272.827, Rel. Min. Mauro Campbell Marques, submetido ao rito dos recursos repetitivos, nos termos do art. 543-C do CPC e da Resolução 08/2008 do STJ consolidou o entendimento segundo o qual é aplicável o art. 739-A do CPC em sede de execução fiscal desde que cumprido três requisitos: a) apresentação de garantia; b) verificação pelo juiz da relevância da fundamentação (fumus boni juris); e c) perigo de dano irreparável ou de difícil reparação (periculum in mora).
+3. A aferição da existência dos requisitos do § 1o. do art. 739-A do CPC, para fins de atribuição de efeito suspensivo aos embargos à execução, requer o revolvimento de matéria fático-probatória, o que é inviável em sede de recurso especial pelo óbice da Súmula 7/STJ.
+4. Agravo regimental improvido (AgRg no REsp. 1.409.185/PE, Rel. Min. HUMBERTO MARTINS, DJe 2.12.2013).
+
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. EFEITO SUSPENSIVO. REQUISITOS. REEXAME DE PROVA. SÚMULA 7.
+1. O reexame dos requisitos do § 1o. do art. 739-A do CPC, para fins de atribuição de efeito suspensivo aos embargos opostos à execução fiscal, demanda a incursão no conjunto fático-probatório dos autos, vedada na via especial, em razão do óbice contido na Súmula 7/STJ.
+2. Agravo regimental a que se nega provimento (AgRg no AREsp 409.669/RJ, Rel. Min. OG FERNANDES, DJe 29.11.2013).
+8. Diante do exposto, nega-se provimento ao Agravo.
+9. Publique-se.
+10. Intimações necessárias.
