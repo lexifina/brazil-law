@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo manejado por [NOME] contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 92):
+APELAÇÃO CÍVEL. SERVIDOR PÚBLICO. MUNICÍPIO DE SÃO LEOPOLDO. PRETENSÃO DE INTEGRAÇÃO DO VALOR DO ADICIONAL DE RISCO DE VIDA NA BASE DE CÁLCULO DA HORA EXTRAORDINÁRIA E DO ADICIONAL NOTURNO. LEI MUNICIPAL Alº 6.055/06. IMPOSSIBILIDADE. PRINCÍPIO DA LEGALIDADE.
+1. A legalidade é o princípio primeiro e fundamental a que se há de cingir a administração pública, como decorre do art. 37, caput, da Carta Política Federal e 19, caput, da Constituição do Estado do Rio Grande do Sul.
+2. Descabe ao Poder judiciário, que não tem função legislativa, conceder vantagem remuneratória a servidor público sem o devido respaldo em lei, sob pena de quebra da harmonia e independência dos Poderes.
+3. No âmbito do Município de São Leopoldo, o adicional de risco de vida aos guardas municipais e agentes de trânsito não incide sobre as horas extraordinárias e o adicional noturno. Precedentes jurisprudenciais.
+4. Ação julgada improcedente na origem.
+APELAÇÃO DESPROVIDA.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1.022 do CPC.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 7º, IX e XVI da CF/88 e 1º da Lei Municipal nº 5.212/03. Defende, em síntese, o direito à inclusão na base de cálculos das horas extras e do adicional noturno do valor percebido a título de adicional de risco de vida - decorrência das atribuições do cargo exercido (Guarda Municipal). Afirma que a hora normal de trabalho, como Guarda Municipal, é composta pelo adicional de risco de vida, visto que durante toda sua jornada de trabalho está exposto aos riscos que a legislação escolheu como fatos geradores para sua concessão. Logo, se a parte recorrente labora em funções que expõem sua vida à eminente perigo, por óbvio, quando o servidor trabalha em regime extraordinário e/ou em labor noturno, não deixa de se expor a tal risco, de modo que é indispensável a inclusão do adicional de risco de vida (que perfaz a "hora normal"), à base de cálculo dos vergastados adicionais - adicional de hora extraordinária e adicional noturno.
+É o relatório.
+O inconformismo não prospera.
+De início, importa mencionar que em recurso especial não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa ao art. 7º, IX e XVI da Constituição Federal.
+Quanto ao mais, a par da arte recorrente não amparar o inconformismo na violação de qualquer lei federal, o exame da controvérsia, tal como enfrentada pela instância ordinária, exigiria a análise de dispositivos de legislação local, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+Ante o exposto, nego provimento ao agravo.
+Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC/2015), observando-se, contudo, o disposto no art. 98, § 3º, do CPC/2015, em razão da concessão do benefício da assistência judiciária gratuita.
+Publique-se.
