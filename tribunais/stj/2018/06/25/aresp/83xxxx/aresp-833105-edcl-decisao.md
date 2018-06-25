@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos pelo EDIFÍCIO CONVENTION CORPORATE PLAZA, em 15/05/2018, contra decisão de minha lavra, publicada em 08/05/2018, que não conheceu do Agravo em Recurso Especial interposto.
+Inconformada, sustenta a parte embargante que:
+"Todavia, em que pesem o devido respeito e acatamento ao entendimento supramencionado verifica-se que incorreu o v. acórdão embargado em omissão (inc. II do art. 1.022 do CPC) quanto a ocorrência de impugnação específica quanto aos capítulos autônomos e independentes da decisão recorrida por parte da Embargante, conforme se verifica dos itens "II.A -, DA NECESSIDADE DE REFORMA DA R. DECISÃO" (e-stj fls. 1.033/1.039) de seu Recurso Especial onde, em síntese, alega:
+a) a possibilidade de apreciação de afronta a dispositivo constitucional (RE n.º 713.676/RS) (e-stj fls. 1.033/1.034);
+b) a ocorrência de afronta ao disposto no inc. II do art. 535 do CPC/73 (atual inc. II do art. 1.022 do CPC/15) (e-stj fls. 1.033/1.036);
+c) a ocorrência de violação ao disposto aos artigos 128, 458, incisos I e III, e 460 do CPC/73 (atuais artigos 141, 489, incisos I e III e 492, do CPC/15) (e-stj fls. 1.036/1.038);
+d) a ocorrência de afronta ao disposto no artigo 515 do CPC/73 (e-stj fl. 1.038)
+e) a inaplicabilidade do entendimento manifestado na Súmula n.º 280 do E. SUPREMO TRIBUNAL FEDERAL ante a nítida afronta ao disposto na Lei n.º 6.528/78 e Lei n.º 11.445/07 e não ao Decreto (e-stj fl. 1.038); e
+f) a inaplicabilidade do posicionamento adotado da Súmula n.º 7 do E. Superior Tribunal de Justiça, uma vez que se pretende apenas a requalificação jurídica dos fatos (e-stj flS. 1.038/1.039)
+Note D. Julgador que a Embargante realizou a impugnação especifica quanto aos itens: (a) adequação do recurso especial para apreciar suposta ofensa a dispositivo constitucional; (b) existência de omissão no v. acórdão proferida pela C. 23ª Câmara de Direito Privado do E. Tribunal de Justiça Estado de São Paulo; (c) a afronta ao disposto nos artigos 128, 458, incisos I e III, e 460 do CPC/73 (atuais artigos 141, 489, incisos I e III e 492, do CPC/15); (d) a ocorrência de afronta ao disposto no art. 165 do Código de Processo Civil, bem como do art. 463, inc. I, art. 515 e 516 do CPC/73; (e) a inaplicabilidade da Súmula n. 280 do E. SUPREMO TRIBUNAL FEDERAL e (f) a inaplicabilidade da Súmula n.º 07 do E. Superior Tribunal de Justiça, inclusive, mencionando que as fls. (e-STJ 634/642 - item II.A - DA NECESSIDADE DE REFORMA DA R. DECISÃO DE FLS. AGRAVADA).
+No caso dos autos, da simples leitura das razões recursais verifica-se a impugnação especifica de cada item (capítulo independente) da decisão proferida pela Presidência do E. Tribunal "a quo" quando do juízo de admissibilidade. (e-STJ fls. 967/970).
+(..)
+E ainda, a omissão quanto a possibilidade de impugnação de capítulos autônomos da decisão recorrida e por conseguinte, a necessidade de conhecimento dos capítulos impugnados no entendimento desse MM. Juízo "ad quem". (STJ, AgInt no AREsp n.º 555.250/RJ, Rel. Min. MARCO BUZZI, Quarta Turma, julg. 10.04.2018, publ. 16.04.2018)" (fls. 1109/1112e).
+Por fim, requer o recebimento e acolhimento dos Embargos Declaratórios.
+Nas razões de impugnação, a parte embargada pugna pela rejeição dos Embargos Declaratórios (fls. 1117/1122e).
+A irresignação não merece acolhida.
+De início, seja à luz do art. 535 do CPC/73, ou nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+In casu, quanto ao cerne do inconformismo recursal, ao contrário do que pretende fazer crer a parte embargante, a decisão está suficientemente fundamentada, no sentido de que não houve, nas razões do Agravo em Recurso Especial, impugnação aos seguintes fundamentos da decisão de inadmissibilidade do Recurso Especial: a) ausência de ofensa ao art. 515 do CPC/73; b) pretensão de reexame de provas (Súmula 7/STJ).
+Além disso, constou expressamente na decisão agravada "que especificamente no tocante à Súmula 7 do STJ, "não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual" (STJ, AgInt no AREsp 1.067.725/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 20/10/2017).
+Do mesmo modo, asseverou-se que, "de acordo com o inciso I do § 4º do art. 544 do CPC/73 - aplicável, no caso, quanto à admissibilidade do Agravo -, é dever da parte agravante atacar, especificamente, todos os fundamentos da decisão do Tribunal de origem que nega trânsito ao Recurso Especial, sob pena de não conhecimento de sua irresignação".
+Desse modo, seja à luz do CPC/73 ou do CPC vigente, os Embargos de Declaração não constituem veículo próprio para o exame das razões atinentes ao inconformismo da parte, tampouco meio de revisão, rediscussão e reforma de matéria já decidida.
+Nesse sentido:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RECLAMAÇÃO. RESOLUÇÃO STJ N. 12/2009. OMISSÃO. ACOLHIMENTO.
+1. Os embargos de declaração são cabíveis quando o provimento jurisdicional padece de omissão, contradição ou obscuridade, bem como quando há erro material a ser sanado.
+2. Embargos declaratórios acolhidos sem efeitos infringentes" (STJ, EDcl nos EDcl na Rcl 28.977/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, DJe de 11/03/2016).
+"PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA. HIPÓTESES DO ART. 535 DO CPC. AUSÊNCIA. REDISCUSSÃO DA MATÉRIA DECIDIDA. IMPOSSIBILIDADE.
+1. Os embargos de declaração apenas são cabíveis para sanar omissão, contradição ou obscuridade do julgado recorrido, admitindo-se também esse recurso para se corrigir eventuais erros materiais constantes do pronunciamento jurisdicional.
+2. No caso, está evidenciado o intuito do embargante em rediscutir a matéria já integralmente decidida pelo órgão judicial recorrido, o que não se admite nos estreitos limites do art. 535 do CPC.
+3. Embargos de declaração rejeitados" (STJ, EDcl no AgRg nos EAREsp 540.453/RS, Rel. Ministra DIVA MALERBI (Desembargadora Convocada do TRF/3ª Região), PRIMEIRA SEÇÃO, DJe de 04/03/2016).
+Pelo exposto, à míngua de vícios, rejeito os Embargos Declaratórios.
+I.
