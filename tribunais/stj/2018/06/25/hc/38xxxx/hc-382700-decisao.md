@@ -1,0 +1,35 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. PAD. PRESENÇA DE DEFESA TÉCNICA. PREJUÍZO INDEMONSTRADO. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTES.
+Ordem denegada.
+DECISÃO
+Buscando a imediata suspensão dos efeitos do acórdão proferido pelo Tribunal de Justiça de Santa Catarina no Agravo em Execução n. 0004882-23.2015.8.24.0038/50000 e, ao final, a declaração de nulidade do procedimento administrativo disciplinar instaurado contra Israel de Souza (PEC n. 0000247-77.2007.8.24.0038) por afronta ao disposto na Súmula 533/STJ, impetra-se este habeas corpus.
+Para tanto, alega-se, em síntese, que, no caso concreto, muito embora tenha sido instaurado o procedimento administrativo disciplinar, ao PACIENTE não foi oportunizado constituir advogado tampouco ser assistido pela Defensoria Pública do Estado (fl. 5); a nomeação de funcionária da unidade prisional não supre a dita ilegalidade, porque não se trata de advogada da confiança do apenado, tampouco Defensor Público  ..  e por ser funcionária do estabelecimento prisional, não tem a necessária autonomia para exercer a defesa do apenado em sua plenitude, tendendo a ser parcial, contra o interesse deste (fl. 6).
+Indeferi liminarmente a petição inicial (fls. 191/192), mas reconsiderei a decisão, diante das alegações feitas no agravo de fls. 200/209 (fl. 212).
+Opinou o Ministério Público Federal nos termos desta ementa (fl. 223):
+Habeas corpus substitutivo de recurso próprio. Descabimento. Alegação de nulidade de procedimento administrativo disciplinar que reconheceu a prática de falta grave. Ausência de defesa técnica nos parâmetros estabelecidos pela Súmula 533/STJ. Nulidade do PAD. Constrangimento ilegal evidenciado. Parecer pela concessão da ordem, de ofício.
+É o relatório.
+No caso, não me deparo com evidência de constrangimento ilegal a ser reparado por meio deste writ.
+Conforme o Tribunal local, o procedimento para apuração da falta grave instaurado no âmbito prisional tramitou em plena observância dos princípios da ampla defesa e do contraditório, tendo aportado no respectivo incidente defesa técnica ofertada pela advogada [NOME], inscrita na OAB/SC sob o n. 31.345, de modo a tornar válidos os atos administrativos praticados no contexto administrativo-prisional (fls. 184/185).
+Expôs, ainda, o acórdão que o apenado, quando em audiência extrajudicial, fora acompanhado pelo Gerente de Execuções Criminais e pelo Gerente de Revisões Criminais (fl. 184).
+Antes, o Juízo da execução já tinha enaltecido a Penitenciária no correto processamento do incidente disciplinar (fl. 130).
+Ora, a jurisprudência desta Corte Superior de Justiça consolidou-se no sentido de que funcionário do estabelecimento penal pode ser nomeado para a defesa técnica do apenado, em PAD, desde que o mesmo seja advogado inscrito na OAB. Qualquer prejuízo ao reeducando deve ser comprovado, e não somente alegado. Ademais, a suposta falta de independência funcional do Gerente de Revisões Criminais do Estabelecimento Penal para defender o apenado não foi comprovada nos autos, o que impede o reconhecimento da apontada nulidade (HC n. 415.400/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 26/10/2017).
+Na mesma linha, estes julgados das Turmas que compõem a Terceira Seção:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO. FALTA GRAVE. PROCESSO ADMINISTRATIVO DISCIPLINAR. ALEGAÇÃO DE NULIDADE DO PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. OBSERVÂNCIA DO CONTRADITÓRIO E DA AMPLA DEFESA. AUDIÊNCIA DO SENTENCIADO EM JUÍZO. PRESCINDIBILIDADE. OITIVA REALIZADA DURANTE O PAD COM A PRESENÇA DE DEFESA TÉCNICA. FUNDAMENTAÇÃO IDÔNEA DO RECONHECIMENTO DA FALTA DISCIPLINAR. SANÇÃO COLETIVA. NÃO OCORRÊNCIA. ATIPICIDADE OU DESCLASSIFICAÇÃO DA CONDUTA. IMPOSSIBILIDADE DE INCURSÃO NA SEARA FÁTICO-PROBATÓRIA. DIAS REMIDOS. MOTIVAÇÃO CONCRETA. DECISÃO MANTIDA POR SEUS PRÓPRIOS
+FUNDAMENTOS. AGRAVO IMPROVIDO.
+1. Não há falar em nulidade do processo administrativo disciplinar por contrariedade aos postulados do contraditório e da ampla defesa se restaram observadas as formalidades legais, com prévia manifestação da defesa dos envolvidos na infração disciplinar e acompanhamento do sentenciado por assistente jurídico. Necessidade de comprovação do prejuízo processual arguido para que constatado o constrangimento ilegal.
+2. Pacificou a jurisprudência ser desnecessária nova oitiva do condenado, perante o Juízo, se já realizada, com a presença de defesa técnica, durante o procedimento administrativo que apurou a falta disciplinar. Precedentes.
+3. Não há ofensa ao princípio da motivação se o Juízo, em direta alusão ao processo administrativo disciplinar, fundamentou o reconhecimento da infração disciplinar de natureza grave.
+ ..
+7. Decisão monocrática mantida por seus próprios fundamentos.
+8. Agravo regimental improvido.
+(AgRg no HC n. 397.260/SP , Ministro Nefi Cordeiro, Sexta Turma, DJe 14/3/2018)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. RECONHECIMENTO. PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. NULIDADE. DEFESA TÉCNICA EXERCIDA POR SERVIDORES INTEGRANTES DOS QUADROS DO DEPARTAMENTO DE ADMINISTRAÇÃO PENITENCIÁRIA (GERENTE DE REVISÕES CRIMINAIS). AUSÊNCIA DE COMPROVAÇÃO DE PREJUÍZO. ART. 563 DO CÓDIGO DE PROCESSO PENAL. MANIFESTA ILEGALIDADE NÃO VERIFICADA. AGRAVO NÃO PROVIDO.
+1. Para o reconhecimento da falta disciplinar no âmbito da execução penal, é imprescindível a instauração de procedimento administrativo pelo diretor do estabelecimento prisional, assegurado o direito de defesa, a ser realizado por advogado constituído ou defensor público nomeado" (REsp 1.378.557/RS, julgado pelo rito do art. 543-C do CPC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA SEÇÃO, DJe 21/3/2014; Súmula 533/STJ).
+2. Este Superior Tribunal possui entendimento de que o fato de a defesa ter sido exercida por servidores integrantes dos quadros do Departamento de Administração Penitenciária (gerente de revisões criminais) não acarreta, por si só, a nulidade do processo administrativo disciplinar, sendo imprescindível a demonstração de efetivo prejuízo ao apenado.
+3. No Processo Penal, é imprescindível quando se aventa nulidade de atos processuais a demonstração do prejuízo sofrido em consonância com o princípio pas de nullité sans grief.
+4. Na hipótese, a mera alegação de que não cabe ao gerente de revisões criminais exercer o papel de defesa técnica, por ser ele funcionário do estabelecimento penal, sem a comprovação do prejuízo sofrido, não justifica a declaração da nulidade do procedimento administrativo disciplinar, ademais que a defesa escrita postula pelo reconhecimento da nulidade do incidente disciplinar ou pela não aplicação da falta disciplinar.
+5. Agravo regimental não provido.
+(AgRg no HC n. 396.203/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe 30/8/2017)
+Na mesma linha, por exemplo: AgRg no HC n. 296.285/SC, Ministro Nefi Cordeiro, Sexta Turma, DJe 19/9/2014; e HC n. 391.592/SC, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 30/6/2017.
+Ante o exposto, denego a ordem (art. 34, XX, do RISTJ).
+Publique-se.
