@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de recurso extraordinário contra acórdão do Tribunal Superior do Trabalho que decidiu pela competência da Justiça do Trabalho para julgamento de controvérsia acerca de complementação do benefício de pensionista de ex-ferroviário da Rede Ferroviária Federal RFF/SA.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 114, I, da CF.
+    Os recorrentes ajuizaram ação ordinária contra a União e o Instituto Nacional do Seguro Social, a fim de que lhes fosse reconhecido o direito ao reajuste do benefício de complementação de aposentadoria, nos termos do art. 2º da Lei nº 8.186/1991:
+    “Art. 2° Observadas as normas de concessão de benefícios da Lei Previdenciária, a complementação da aposentadoria devida pela União é constituída pela diferença entre o valor da aposentadoria paga pelo Instituto Nacional do Seguro Social (INSS) e o da remuneração do cargo correspondente ao do pessoal em atividade na RFFSA e suas subsidiárias, com a respectiva gratificação adicional por tempo de serviço.
+    Parágrafo único. O reajustamento do valor da aposentadoria complementada obedecerá aos mesmos prazos e condições em que for reajustada a remuneração do ferroviário em atividade, de forma a assegurar a permanente igualdade entre eles.”
+    O recurso deve ser provido, tendo em vista que a decisão ora recorrida destoa da jurisprudência do Supremo Tribunal Federal (STF) no sentido de que compete a Justiça comum federal o julgamento de demanda envolvendo a complementação de aposentadoria dos antigos ferroviários.
+    Em casos análogos, esta Corte tem assentado o entendimento de que ofende a decisão proferida na ADI 3.395-MC o processamento e julgamento, pela Justiça do Trabalho, de ações propostas contra a União por ferroviários vinculados à RFFSA, nas quais são discutidos valores relativos ao benefício de complementação de aposentadoria. Isso porque se está diante de vínculo jurídico-administrativo, conforme previsto nas Leis Federais nºs 8.186/1991 e 10.478/2002, Lei nº 9.343/1996, do Estado de São Paulo e Decreto estadual nº 32.530/1959. Nesse sentido, vejam-se:
+    “CONSTITUCIONAL E PROCESSUAL CIVIL. RECLAMAÇÃO. ALEGAÇÃO DE DESRESPEITO AO DECIDIDO NA ADI 3.395-MC. COMPETÊNCIA DA JUSTIÇA FEDERAL COMUM PARA JULGAMENTO DE CAUSAS RELATIVAS À COMPLEMENTAÇÃO DE APOSENTADORIA DE EX-FUNCIONÁRIOS DE EMPRESA SUBSIDIÁRIA DA RFFSA (TRENSURB). RECLAMAÇÃO JULGADA PROCEDENTE. AGRAVO REGIMENTAL NÃO PROVIDO.” (Rcl 14406-AgR, Rel. Min. Teori Zavascki)
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. COMPLEMENTAÇÃO DE APOSENTADORIA. EX-EMPREGADO DE EMPRESA SUBSIDIÁRIA DA REDE FERROVIÁRIA FEDERAL S/A: COMPETÊNCIA DA JUSTIÇA COMUM FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”(Rcl 19430-AgR, Relª. Minª. Cármen Lúcia)
+    Diante do exposto, com base no art. 21, § 2º, do RI/STF, dou provimento ao recurso para assentar a competência da Justiça comum federal para julgar a presente controvérsia.
+    Publique-se.
+          Brasília, 25 de junho de 2018.
+Ministro Luís Roberto Barroso
+Relator
