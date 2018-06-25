@@ -1,0 +1,25 @@
+DECISÃO
+ Trata-se de recurso especial interposto por [NOME] e [NOME], com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"EMENTA: EMBARGOS À ARREMATAÇÃO - CAUÇÃO IDÓNEA - PRACEAMENTO DO BEM PENHORADO - POSSIBILIDADE. Tratando-se de execução provisória, é possível o pracearnento de bens, se houver caução idônea prestada pelo credor, nos termos do art. 588. inc. II, do CPC." (e-STJ,fl. 82)
+Opostos embargos de declaração, foram acolhidos, sem efeitos infringentes.
+Em suas razões recursais, os recorrentes apontam violação dos arts. 333, II, 535 do CPC/73, 1º e 5º da Lei 8.009/90, sustentando, em síntese, que (a) o acórdão recorrido foi omisso e, (b) para a impenhorabilidade do bem de família, não é necessária a prova de que o imóvel é o único em nome do devedor.
+Não foram apresentadas contrarrazões.
+É o relatório. Passo a decidir.
+Inicialmente, não prospera a alegada ofensa ao art. 535 do Código de Processo Civil de 1973, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido, podem ser mencionados os seguintes julgados: AgRg no REsp 1.170.313/RS, Rel. Min. LAURITA VAZ, DJe de 12/4/2010; REsp 494.372/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe de 29/3/2010; AgRg nos EDcl no AgRg no REsp 996.222/RS, Rel. Min. CELSO LIMONGI (Desembargador convocado do TJ/SP), DJe de 3/11/2009.
+O Tribunal de origem concluiu que os agravantes não se desincumbiram de comprovar que o imóvel é o único que lhes pertence, a fim de demonstrar a condição de bem de família.
+Contudo, o acórdão recorrido divergiu do entendimento do STJ no sentido de que, para que seja reconhecida a impenhorabilidade do bem de família, não se exige a prova de que o imóvel em que reside a família do devedor é o único que lhe pertence. Confiram-se:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. PENHORA DE IMÓVEL. BEM DE FAMÍLIA. RESIDÊNCIA DO EXECUTADO. LEI 8.009/1990. IMPENHORABILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DESNECESSIDADE DE COMPROVAÇÃO DE QUE O IMÓVEL PENHORADO É O ÚNICO DE PROPRIEDADE DO DEVEDOR. PRECEDENTES DO STJ.
+1. Hipótese em que o Tribunal de origem consignou que ficou "comprovado que o imóvel penhorado destina-se à moradia do executado e de sua família". 2. Para modificar o entendimento firmado no acórdão recorrido, é necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7/STJ. 3. O STJ entende que, para que seja reconhecida a impenhorabilidade do bem de família (Lei 8.009/1990) , não é necessária a prova de que o imóvel em que reside a família do devedor é o único de sua propriedade. Precedentes: REsp 1014698/MT, Rel. Ministro Raul Araújo, Quarta Turma, DJe 17.10.2016; REsp 790.608/SP, Rel. Ministro José Delgado, Primeira Turma, DJ 27.3.2006, p. 225, REPDJ 11.5.2006, p. 167; REsp 574.050/RS, Rel.
+Ministro Luiz Fux, Primeira Turma, DJ 31.5.2004, p. 214.
+4. Recurso Especial não conhecido."
+(REsp 1685402/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/10/2017, DJe 16/10/2017)
+"RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. EXECUÇÃO. PENHORA. BEM DE FAMÍLIA (LEI 8.009/90, ARTS. 1º E 5º). CARACTERIZAÇÃO. IMÓVEL RESIDENCIAL DO DEVEDOR. ÔNUS DA PROVA. RECURSO PROVIDO.
+1. Tendo a devedora provado suficientemente (ab initio) que a constrição judicial atinge imóvel da entidade familiar, mostra-se equivocado exigir-se desta todo o ônus da prova, cabendo agora ao credor descaracterizar o bem de família na hipótese de querer fazer prevalecer sua indicação do bem à penhora.
+2. Nos termos da jurisprudência desta Corte, não é necessária a prova de que o imóvel onde reside o devedor seja o único de sua propriedade, para o reconhecimento da impenhorabilidade do bem de família, com base na Lei 8.009/90. Precedentes.
+3. Recurso especial provido."
+(REsp 1014698/MT, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 06/10/2016, DJe 17/10/2016)
+Dessarte, com fundamento na Súmula 568/STJ, merece reforma o acórdão recorrido, em virtude de seu dissenso com o entendimento do STJ.
+No entanto, da leitura do acórdão que julgou os embargos de declaração, verifica-se que o Tribunal de origem limitou-se a apontar que não houve a prova de que o imóvel seria o único, mas não esclareceu se a parte efetivamente comprovou os requisitos para a comprovação de que se trata de bem de família, análise que se faz imprescindível.
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para determinar que o Tribunal de origem verifique se há comprovação dos requisitos para configurar o bem de família, não se exigindo, entretanto, que os devedores comprovem que seja o único bem de sua propriedade.
+Publique-se.
