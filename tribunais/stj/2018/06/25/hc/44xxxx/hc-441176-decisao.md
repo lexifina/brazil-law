@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME], no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foi preso em flagrante, haja vista ter sido surpreendido por policiais militares logo após ter causado acidente automobilístico, dirigindo em estado de embriaguez, além de agredir e ameaçar os proprietários do veículo em que colidiu sua motocicleta.
+Foi concedida a liberdade provisória ao paciente, subordinada, porém, à fiel observância das seguintes medidas cautelares: a) comparecimento mensal em juízo para informar e justificar suas atividades, bem como eventual atualização de endereço; b) fiança arbitrada em R$ 300,00 (trezentos reais); c) comparecimento a todos os atos processuais; e d) proibição de ausentar-se da comarca por mais se oito dias sem prévia comunicação ao juízo.
+Contra essa decisão insurgiu-se a defesa. Entretanto, o desembargador relator indeferiu o pedido liminar.
+No Superior Tribunal de Justiça, sustenta a Defensoria Pública que, "no presente caso, ao condicionar a liberdade do paciente, pessoa pobre, ao recolhimento da fiança, a d. autoridade coatora indiretamente decretou a manutenção de sua prisão e o fez destituído de qualquer amparo legal" (e-STJ fl. 7).
+Pede, liminar e definitivamente, a imediata expedição de alvará de soltura em favor do paciente, independentemente do recolhimento da fiança, "por se mostrar desnecessária e desproporcional, bem como por tratar-se de pessoa pobre, que não tem condições financeiras de arcar com o valor fixado" (e-STJ fl. 12).
+Liminar deferida às e-STJ fls. 50/52 nos termos da fundamentação abaixo transcrita:
+Da análise dos autos, verifica-se a ocorrência de constrangimento ilegal em virtude da exigência do pagamento de R$ 300,00 (trezentos reais), a título de fiança, como condição à concessão de liberdade provisória ao paciente, muito embora afirme não possuir condições de arcar com tal valor.
+Dessa forma, entendo ser o caso de afastamento da aplicação do Enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+ ..
+Diante do exposto, defiro a liminar apenas para dispensar o paciente do recolhimento da fiança arbitrada pelo juízo singular até o julgamento do mérito deste writ, mantida, no mais, a decisão que concedeu a liberdade provisória.
+Informações prestadas às e-STJ fls. 61/71.
+Parecer do Ministério Público Federal pela concessão da ordem (e-STJ fls. 73/78).
+É, em síntese, o relatório.
+Da análise dos autos, verifica-se a ocorrência de manifesto constrangimento ilegal em virtude da exigência do pagamento de R$ 300,00, a título de fiança, como condição para a concessão de liberdade provisória ao paciente, muito embora afirme não possuir condições financeiras de arcar com o pagamento desse valor.
+O Magistrado de piso, ao homologar a prisão em flagrante, asseverou (e-STJ fl. 39):
+5. Assim, pela ausência de caracterização, neste momento, dos pressupostos previstos nos artigos 312 e 313 do Código de Processo Penal, concedo a liberdade provisória ao autuado, subordinada, porém, à fiel observância das seguintes medidas cautelares: a) comparecimento mensal em Juízo para informar e justificar suas atividades, bem como eventual atualização de endereço; b) comparecimento a todos os atos processuais; c) proibição de ausentar-se da Comarca por mais de oito dias sem prévia comunicação ao Juízo do lugar onde será encontrado; e d) fiança, que arbitro em R$ 300,00 (CPP. arts. 310, 312, 319 e 325, II, e § 1º,. II), sob pena de revogação do benefício e imediato recolhimento à prisão. 6. Recolhida a fiança, expeça-se alvará de soltura clausulado em favor de [NOME].
+O excerto acima transcrito revela a inexistência de justificativa para a mantença da custódia do paciente, já que a fixação de valor a título de fiança impede a concessão da liberdade única e exclusivamente em virtude de sua condição econômico-financeira.
+Nessa senda, a questão atrai a normatividade do disposto no art. 350 do Código de Processo Penal, o qual determina que, "nos casos em que couber fiança, o juiz, verificando a situação econômica do preso, poderá conceder-lhe liberdade provisória, sujeitando-o às obrigações constantes dos arts. 327 e 328 deste Código e a outras medidas cautelares, se for o caso".
+Dessa forma, o não pagamento de fiança arbitrada, em razão de o réu ser pobre, não permite a manutenção de sua custódia.
+Nesse sentido é a firme compreensão desta Corte Superior de Justiça:
+HABEAS CORPUS. ARTIGOS 304 e 297 DO CÓDIGO PENAL. INDEFERIMENTO DA LIMINAR NO PRÉVIO WRIT. SÚMULA 691. EXISTÊNCIA DE ILEGALIDADE PATENTE. LIBERDADE PROVISÓRIA DEFERIDA. FIANÇA NÃO PAGA. MANUTENÇÃO DA CUSTÓDIA. ILEGALIDADE. AUSÊNCIA DOS REQUISITOS PREVISTOS NO ART. 312 DO CÓDIGO DE PROCESSO PENAL. FLAGRANTE ILEGALIDADE. EXISTÊNCIA. ORDEM CONCEDIDA.
+1. A aceitação de habeas corpus impetrado contra decisão que indeferiu a liminar em prévio writ se submete aos parâmetros da Súmula 691 do STF, somente afastada no caso de excepcional situação, o que se verifica na hipótese dos autos.
+2. Com o advento da Lei n.º 12.403/11, externaram-se os comandos constitucionais que identificam na prisão provisória o caráter de ultima ratio.
+3. In casu, existe manifesta ilegalidade, pois o não pagamento da fiança arbitrada, por si só, não justifica a preservação da custódia cautelar, a teor do artigo 350 do Código de Processo Penal, além de tratar-se de réu juridicamente pobre.
+4. Ordem concedida, confirmando a liminar deferida, a fim de garantir a liberdade provisória ao paciente, independentemente do pagamento de fiança, mantidas as cautelares anteriormente impostas, previstas no artigo 319, incisos II, IV e V do Código de Processo Penal. (HC 345.353/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 02/02/2016, DJe 23/02/2016.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. ARBITRAMENTO DE FIANÇA. HIPOSSUFICIÊNCIA DO RÉU. DEFENSORIA PÚBLICA.
+1. O Superior Tribunal de Justiça entende não ser possível a manutenção da custódia cautelar tão somente em razão do não pagamento do valor arbitrado a título de fiança, a teor do art. 350 do Código de Processo Penal, notadamente quando se tratar de acusado que se declara pobre, tendo sido assistido pela Defensoria Pública.
+2. Agravo regimental desprovido. (AgRg no HC 335.412/SP, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 17/12/2015, DJe 22/02/2016.)
+Tal o contexto, concedo a ordem de habeas corpus, confirmando a liminar, a fim de garantir a liberdade provisória ao paciente, independentemente do pagamento de fiança, salvo se preso por outro motivo, mantidas as demais medidas cautelares diversas da prisão, conforme o artigo 319 do Código de Processo Penal, decretadas pelo Juízo singular.
+Retifique-se a autuação para que conste como paciente [NOME].
+Comunique-se, com urgência, ao Tribunal impetrado.
+Publique-se. Intimem-se.
