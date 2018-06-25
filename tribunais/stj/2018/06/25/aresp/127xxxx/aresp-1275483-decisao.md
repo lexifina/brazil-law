@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (art. 1.042 do CPC/2015) interposto contra decisão (e-STJ fls. 195/196) que inadmitiu o recurso especial em virtude de: (a) impossibilidade de análise de matéria fático-probatória (Súmula n. 7/STJ) e (b) incidência da Súmula n. 83/STJ.
+O acórdão recorrido está assim ementado (e-STJ fl. 127):
+COMPENSAÇÃO POR DANOS MORAIS - CABIMENTO - NEGATIVAÇÃO INDEVIDA - FATO IMPREVISÍVEL OCORRIDO NO MOMENTO DA PRESTAÇÃO DO SERVIÇO - FORTUITO INTERNO - RISCO DO EMPREENDIMENTO - DEVER DE INDENIZAR - JUROS DE MORA - ILÍCITO EXTRACONTRATUAL - INCIDÊNCIA A PARTIR DA DATA DO EVENTO DANOSO - CORREÇÃO MONETÁRIA - DATA DO ARBITRAMENTO.
+É cabível a compensação por danos morais quando ocorrer negativação indevida ante a comprovação de que não houve celebração de negócio jurídico entre as partes litigantes.
+Consoante posicionamento esposado pelo Colendo Superior Tribunal de Justiça, a culpa exclusiva de terceiros capaz de afastar a responsabilidade objetiva do fornecedor é espécie do gênero fortuito externo, assim entendido aquele fato que não tem relação de causalidade com a atividade do fornecedor, sendo absolutamente estranho ao produto ou serviço. O fortuito interno, assim entendido o fato imprevisível e, por isso, inevitável ocorrido no momento da prestação do serviço, não exclui a responsabilidade do fornecedor porque faz parte de sua atividade, ligando-se aos riscos do empreendimento.
+Na fixação do valor da compensação, imprescindível sejam levadas em consideração a proporcionalidade e razoabilidade, a fim de suprir o caráter punitivo-pedagógico do dano moral, não se afigurando, pelo seu montante, como exagerada a ponto de se constituírem fonte de renda, já que tem o nítido caráter compensatório.
+Recurso provido.
+Nas razões do recurso especial (e-STJ fls. 136/144), interposto com fundamento no art. 105, III, "a" e "c", da CF, a recorrente alegou, além de dissídio jurisprudencial, violação dos seguintes dispositivos legais:
+(a) art. 188 do CC/2002 e 43 do CDC, afirmando que "se a recorrida estava em débito, não há ato ilícito  na inscrição do seu nome nos órgãos de proteção ao crédito , mas exercício regular do direito" (e-STJ fl. 139),
+(b) art. 927 do CC/2002, sustentando que não há prova do dano causado à consumidora e que não é possível indenização por dano presumido, e
+(c) art. 944 do CC/2002, requerendo a redução do quantum indenizatório.
+No agravo (e-STJ fls. 199/202), afirma a presença de todos os requisitos de admissibilidade do especial.
+O recorrido apresentou contraminuta (e-STJ fls. 207/210).
+É o relatório.
+Decido.
+O Tribunal de origem, à luz das provas dos autos, concluiu pela responsabilidade civil da parte recorrente, nos seguintes termos (e-STJ fls. 128/130):
+Compulsando os autos verifica-se que restou inequívoco que terceiros munidos de documentação do Apelante firmaram negócio jurídico com a Apelada.
+Tal fato, inclusive, foi devidamente reconhecido pelo Juiz monocrático, ensejando, conseqüentemente, a declaração de inexistência de relação jurídica firmada entre as partes litigantes.
+A controvérsia objeto do presente recurso cinge-se em averiguar se o fato de ter a empresa, ora Apelada, inserido o nome do Apelante nos cadastros de restrição ao crédito, em virtude de um contrato firmado com estelionatários, será suficiente para determinar sua responsabilização civil pelos danos morais suportados pelo Autor.
+(..)
+O serviço prestado pela Apelada evidentemente foi defeituoso, porquanto realizado em nome de quem verdadeiramente não o requereu, acarretando a inscrição, indevida, do nome do Apelante nos cadastros de restrição ao crédito.
+Assim, comprovada a relação de causa e efeito entre o comportamento da Apelada e o dano experimentado pela vitima, devem ser reparados os danos causados, mesmo a título moral, conforme autorizado pela nossa vigente Constituição da República, tema que vem crescendo nos foros judiciais, em virtude da constante infração, por parte daqueles que deveriam primar pela eficiência de seus serviços, de modo que a Apelada deve compensar os transtornos causados ao Apelante, por tê-lo exposto à situação de risco e insegurança do seu nome, o grande patrimônio moral da pessoa física, portanto, atingindo direitos personalíssimos.
+Assim, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Ademais, o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ quanto ao ponto. Nesse sentido:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. JULGAMENTO PELA SISTEMÁTICA DO ART. 543-C DO CPC. RESPONSABILIDADE CIVIL.
+INSTITUIÇÕES BANCÁRIAS. DANOS CAUSADOS POR FRAUDES E DELITOS PRATICADOS POR TERCEIROS. RESPONSABILIDADE OBJETIVA. FORTUITO INTERNO. RISCO DO EMPREENDIMENTO.
+1. Para efeitos do art. 543-C do CPC: As instituições bancárias respondem objetivamente pelos danos causados por fraudes ou delitos praticados por terceiros - como, por exemplo, abertura de conta-corrente ou recebimento de empréstimos mediante fraude ou utilização de documentos falsos -, porquanto tal responsabilidade decorre do risco do empreendimento, caracterizando-se como fortuito interno.
+2. Recurso especial provido.
+(REsp 1197929/PR, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 24/08/2011, DJe 12/09/2011)
+Além disso, o acórdão recorrido está em sintonia com a jurisprudência desta Corte no sentido de que o dano decorrente da inscrição indevida do nome do recorrente nos cadastros de proteção ao crédito enquadra-se na categoria de dano in re ipsa, sendo, portanto, presumível do próprio fato a ocorrência de dano indenizável (AgInt no AREsp 959.838/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/3/2017, DJe 7/4/2017).
+Ainda, a modificação do valor da indenização por danos morais é admitida, em recurso especial, conforme entendimento pacífico do STJ, apenas quando excessivo ou irrisório o montante fixado, violando os princípios da proporcionalidade e da razoabilidade (AgRg no AREsp n. 703.970/DF, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/8/2016, DJe 25/8/2016 e AgInt no AREsp n. 827.337/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/8/2016, DJe 23/8/2016).
+A Justiça local, diante das circunstâncias analisadas, fixou a indenização dos danos morais no valor de R$ 4.000,00 (quatro mil reais) (e-STJ fl. 132).
+No caso dos autos, portanto, a quantia estabelecida pelas instâncias de origem não enseja a intervenção do STJ.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, §§ 1º e 2º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a recorrente não se desincumbiu.
+Ademais, o STJ firmou entendimento no sentido de ser incabível o reexame do valor fixado a título de danos morais com base em divergência jurisprudencial, pois, ainda que haja semelhança de algumas características nos acórdãos confrontados, cada qual possui peculiaridades subjetivas e contornos fáticos próprios, o que justifica a fixação do quantum indenizatório distinto.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
