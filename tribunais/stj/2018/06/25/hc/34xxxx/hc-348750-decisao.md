@@ -1,0 +1,29 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO ILÍCITO DE DROGAS. DOSIMETRIA. FIXAÇÃO DA PENA-BASE NO MÍNIMO LEGAL. IMPOSSIBILIDADE DE DIMINUIÇÃO DA REPRIMENDA. REGIME INICIAL DE CUMPRIMENTO DA PENA. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL CONFIGURADO. CONVERSÃO DA PENA PRIVATIVA DE LIBERDADE EM RESTRITIVA DE DIREITOS. SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE. PARECER PARCIALMENTE ACOLHIDO.
+Habeas corpus concedido em parte, confirmando apenas a liminar deferida.
+DECISÃO
+Estes autos foram a mim distribuídos por prevenção do AREsp n. 585.717, não conhecido por aplicável a Súmula 115/STJ.
+Neste writ, a defesa de [NOME] ataca novamente o acórdão da Apelação Criminal n. 9000001-61.2005.8.26.0063, o qual manteve a condenação da paciente como incursa no art. 12, caput, da Lei n. 6.368/1976 e reduziu a pena a 3 anos de reclusão, em regime fechado, e ao pagamento de 50 dias-multa (Ação Penal n. 063.01.2005.007630-2, Controle n. 231/2005, da 1ª Vara Judicial da comarca de Barra Bonita).
+Alega, em suma, que a Corte estadual aplicou dosimetria em flagrante desconformidade dos critérios dos arts. 59 e 68 do Código Penal, em evidente deficiência de fundamentação e ainda de erro de técnica, bem como não assegurou à paciente a substituição da pena privativa de liberdade por pena restritiva de direitos. Requer a revogação da prisão e a redução da reprimenda.
+Em 5/2/2016, medida liminar foi deferida apenas para permitir que a paciente iniciasse o cumprimento de sua pena no regime aberto (fls. 207/210).
+Informações foram acostadas aos autos (fls. 216/219 e 223/224).
+Opinou o Ministério Público Federal conforme esta ementa (fl. 246):
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE DROGAS. DOSIMETRIA. JULGAMENTO DA APELAÇÃO DEFENSIVA. FIXAÇÃO DA PENA-BASE NO MÍNIMO LEGAL. IMPOSSIBILIDADE DE DIMINUIÇÃO. PLEITOS DE ALTERAÇÃO DO REGIME INICIAL CARCERÁRIO E DE CONVERSÃO DA PENA PRIVATIVA DE LIBERDADE EM RESTRITIVA DE DIREITOS. AS CIRCUNSTÂNCIAS DO DELITO NÃO PERMITEM A APLICAÇÃO DE REGIME DIVERSO DO FECHADO, E NEM A SUBSTITUIÇÃO DA PENA. NATUREZA E QUANTIDADE DOS ENTORPECENTES APREENDIDOS. CONDENADA QUE PERMANECEU FORAGIDA DURANTE TODO O TRÂMITE DO PROCESSO, VINDO A SER PRESA APENAS APÓS O TRÂNSITO EM JULGADO DA CONDENAÇÃO. RISCO CONCRETO DE QUE, POSTA EM REGIME ABERTO, EMPREENDA FUGA E PERMANEÇA FORAGIDA. REGIME INICIAL DIVERSO DO FECHADO NÃO SE MOSTRA SUFICIENTE. PARECER PELO NÃO CONHECIMENTO DO WRIT, E, CASO CONHECIDO, PELA DENEGAÇÃO DA ORDEM.
+Segundo as recentes informações prestadas pelo Tribunal estadual, a paciente está a cumprir a pena privativa de liberdade em regime aberto, com término previsto para 29/1/2019 (PEC n. 0004110-53.2016.8.26.0496).
+É o relatório.
+No caso, não há interesse de agir quanto à pretendida redução da pena, uma vez que - como bem destacado pela Subprocuradora-Geral da República [NOME] - a pena-base, no julgamento do recurso de apelação, foi estabelecida no mínimo legal, previsto pela Lei n. 6.368/1976 - 3 anos de reclusão e 50 dias-multa -, não havendo, portanto, como diminuí-la (fl. 250).
+Quanto ao regime, ao contrário do que concluiu a parecerista, entendo que deve ser confirmada a decisão liminar. Veja-se, a propósito, o que consta do acórdão recorrido (fls. 96/97 - grifo nosso):
+ ..
+A dosimetria penal, todavia, comporta pequeno reparo.
+A pena-base foi fixada acima do mínimo legal por conta dos maus antecedentes da ré, não comprovados nos autos pelas competentes certidões cartorárias.
+Desse modo, a pena deve se estabelecida no piso do delito de tráfico da Lei nº 6.368/76, 03 anos de reclusão e 50 dias-multa, em definitivo.
+O regime inicial fechado foi eleito em razão de expressa previsão legal - artigo 2o, §1º, da Lei nº 8.072/90 - ainda em vigor.
+Ocorre que, recentemente, em 27.06.2012, quando do julgamento do HC 111.840/ES, o pleno do Supremo Tribunal Federal, por maioria e nos termos do voto do Relator Min. Dias Toffoli, declarou, "incidenter tantum", a inconstitucionalidade do referido §1º, do artigo 2o, da Lei nº 8.072/90, com a redação dada pela Lei nº 11.464/2007.
+Muito embora a inexistência de efeito "erga omnes" e de caráter vinculante desta decisão, porém, observando-se a tendência, o sentido para o qual a Corte Suprema sinalizou seguirem suas próximas decisões a respeito da não obrigatoriedade do regime inicial fechado no tráfico de entorpecentes, ainda que seja futura e definitivamente declarado inconstitucional o §1º, do artigo 2º, da Lei nº 8.072/90, entende esta Relatora que é caso de se impor o regime inicial mais gravoso a esta espécie de delito, com base no critério da suficiência.
+Diante do exposto, dá-se parcial provimento ao apelo, para reduzir-se a pena do tráfico de entorpecentes para 03 anos de reclusão, em regime inicial fechado, mais 50 dias-multa, em definitivo.
+Expeça-se Mandado de Prisão após o trânsito em julgado.
+Na sentença, o regime fechado para início do cumprimento da pena foi imposto tão somente com base no art. 2º, § 1º, da Lei n. 8.072/1990, e o Tribunal paulista, apesar de reconhecer o posicionamento da Suprema Corte a respeito da questão, manteve o regime sem nenhuma justificativa apta, apesar da fixação da pena-base no mínimo legal e da ausência de circunstâncias judiciais negativas.
+De acordo com a Súmula 719/STF, a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea, o que na espécie não ocorreu.
+Quanto à substituição da reprimenda, não houve discussão na origem, não cabendo, à esta altura, a supressão de instância.
+Pelo exposto, confirmo a medida liminar deferida e concedo a ordem de habeas corpus apenas para garantir que a paciente inicie no regime aberto o cumprimento da pena privativa de liberdade aplicada no Processo n. 063.01.2005.007630-2, Controle n. 231/2005, da 1ª Vara Judicial da comarca de Barra Bonita/SP.
+Publique-se.
