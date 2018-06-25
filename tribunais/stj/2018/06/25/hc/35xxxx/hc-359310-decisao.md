@@ -1,0 +1,5 @@
+DECISÃO
+CARLA PRISCILA DO VALE PEREIRA, paciente neste habeas corpus, alega sofrer constrangimento ilegal em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Norte no HC n. 2016.003853-4.
+Em consulta à página eletrônica do Tribunal de origem, o gabinete verificou que foi prolatada sentença em 15/6/2018, por meio da qual a paciente foi condenada à pena de 13 anos e 9 meses de reclusão, em regime inicial fechado, e 197 dias-multa, como incursa no art. 157, § 3º, parte final, c/c o art. 14, II, ambos do Código Penal. Como tal decisum não foi submetido ao crivo do Tribunal a quo, sua apreciação implicaria indevida supressão de instância, razão pela qual é defeso a esta Corte o exame da matéria. Assim, evidencia-se a prejudicialidade deste writ, no qual a defesa postula a revogação da decisão que decretou a custódia preventiva da acusada.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, julgo prejudicado o habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
