@@ -1,0 +1,20 @@
+DECISÃO
+ALAN BATISTA RIBEIRO interpõe recurso especial, fundado no art. 105, III, "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios nos Embargos Infringentes n. 0023076-98.2011.807.0001.
+Depreende-se dos autos que o recorrente foi condenado à pena de 3 anos e 4 meses de reclusão, em regime inicial semiaberto, como incurso no art. 121, § 1º, c/c o art. 14, II, ambos do Código Penal.
+Inconformada, a defesa interpôs recurso de apelação, ao qual o Tribunal de origem, por maioria, negou provimento.
+Contra o referido julgado, a defesa opôs embargos infringentes, os quais foram parcialmente providos pela Corte estadual, a fim de compensar a atenuante da confissão espontânea com a agravante da reincidência e, por conseguinte, reduzir a reprimenda imposta ao acusado para 3 anos, 1 mês e 15 dias de reclusão.
+Nas razões do recurso especial, sustenta o recorrente que o Tribunal de origem divergiu da orientação adotada pelo Superior Tribunal de Justiça no julgamento do Habeas Corpus n. 229.385/RS, de relatoria da Ministra Laurita Vaz. Aduz, em síntese, que não é cabível a valoração negativa dos antecedentes do agente com base em condenação por fato anterior, mas com trânsito em julgado posterior ao crime que se examina.
+Colaciona, ainda, julgado proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, com a finalidade de demonstrar a arguida divergência jurisprudencial.
+Requer, ao final, seja conhecido e provido o recurso, para afastar a valoração negativa dos maus antecedentes.
+Contrarrazões às fls. 470-473 e decisão de admissibilidade às fls. 475-476.
+O Ministério Público Federal opinou pelo não conhecimento do recurso especial (fls. 487-496).
+Decido.
+Nas razões do recurso especial, o recorrente indica como paradigma o HC n. 229.385/RS, julgado nesta Corte, de relatoria da Ministra Laurita Vaz.
+Ao proferir o voto vencido no AgRg nos EDcl no REsp n. 1.120.334/MG, externei convicção de que as normas que tratam do cabimento do recurso especial pela divergência (arts. 105, III, "c", da Constituição Federal, 1.029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ) não impedem que arestos proferidos em habeas corpus sirvam de paradigma para demonstração de dissídio jurisprudencial.
+Nada obstante meu entendimento pessoal, que ora ressalvo, esclareço que a jurisprudência desta Corte Superior é pacífica quanto à impossibilidade de acórdão proferido em habeas corpus, mandado de segurança e recurso ordinário servir de paradigma para configurar o dissídio pretoriano, ainda que se trate de dissídio notório, tendo em vista a disparidade de objeto, natureza e extensão material entre essas espécies e o recurso especial (AgRg nos EREsp n. 998.249/RS, Rel. Ministro Sebastião Reis Júnior, 3ª S., DJe 21/9/2012).
+Assim sendo, considero que o recurso especial não pode ser conhecido sob a alínea "c" do permissivo constitucional, pois o aresto deste Tribunal Superior colacionado como paradigma foi proferido em habeas corpus.
+Ademais, observo que o recorrente não declinou de forma precisa o dispositivo de lei federal que originou o dissídio pretoriano, o que impede a correta compreensão da controvérsia e atrai a incidência da Súmula n. 284 do STF.
+Por fim, quanto aos julgados oriundos do Tribunal de Justiça do Distrito Federal e dos Territórios, aplica-se o disposto na Súmula n. 13 do STJ: "a divergência entre julgados do mesmo tribunal não enseja recurso especial". Nesse sentido: AgInt no REsp n. 1.224.059/RS (Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 2/3/2017).
+À vista do exposto, com fundamento no art. 932, III, do Código de Processo Civil de 2015, c/c o art. 3º do Código de Processo Penal, e no art. 34, XVIII, "a", do RISTJ, não conheço do recurso especial.
+Em tempo, determino o envio de cópia dos autos ao Juízo da condenação, a fim de que sejam tomadas as providências cabíveis para a execução imediata da pena imposta ao recorrente. A determinação deve ser desconsiderada caso o réu cumpra, atualmente, a reprimenda.
+Publique-se e intimem-se.
