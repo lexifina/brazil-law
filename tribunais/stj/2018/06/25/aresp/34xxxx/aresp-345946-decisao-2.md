@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo (fls. 1846/1856) interposto por [NOME] desafiando decisão da Terceira Vice-Presidência do Tribunal de Justiça do Estado do Rio de Janeiro que não admitiu recurso especial com base nos seguintes fundamentos: (I) incidência da Súmula 284/STF; e (II) as teses suscitadas no apelo especial demandariam novo exame do acervo fático-probatório dos autos, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+O Ministério Público Federal opinou pelo desprovimento dos agravos (fls. 2099/2103).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois a parte agravante não impugnou todos os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial, deixando de rebater, de modo específico, a apontada aplicação dos óbices previstos nas Súmulas 7/STJ e 284/STF, limitando-se a afirmar que os dispositivos tidos por violados foram objeto de prequestionamento, fundamento não adotado na decisão agravada, e a repisar os mesmos argumentos expostos no apelo especial inadmitido.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Diante do exposto, não conheço do agravo.
+Publique-se.
