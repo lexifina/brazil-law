@@ -1,0 +1,8 @@
+DECISÃO
+MARIA CLARA MARTINS GALVÃO, paciente neste habeas corpus, estaria sofrendo constrangimento ilegal em decorrência de acórdão do Tribunal de Justiça do Estado de São Paulo no HC n. 2190909-72.2017.8.26.0000.
+A paciente foi denunciada pela suposta prática do delito do art. 1º, II, da Lei n. 8.137/1990. Devidamente citada, a ré não foi intimada para comparecer à audiência de instrução e julgamento, por não haver sido encontrada no endereço informado ao Juízo, o que acarretou a decretação da revelia. O Tribunal de origem denegou a ordem de habeas corpus lá impetrada.
+Neste writ, o impetrante alega que a revelia "foi decretada de forma absolutamente inidônea" (fl. 8), haja vista a Autoridade Judicial haver presumido que "a paciente havia mudado de endereço" (fl. 6). Aduz que a defesa "restará prejudicada de maneira ainda mais direta e concreta, pois haverá risco de que o seu interrogatório não seja realizado" (fl. 7).
+Requer "a concessão da ordem para determinar à Autoridade Judiciária que designe audiência para realização do interrogatório da Paciente" (fl. 10).
+Em consulta à página eletrônica do Tribunal a quo, o gabinete verificou que o Juízo de primeiro grau proferiu sentença na ação penal objeto desta impetração (Processo n. 0002224-07.2010.8.26.0083), em 18/5/2018, e absolveu a acusada, com fundamento no art. 386, VII, do Código de Processo Penal, a evidenciar a prejudicialidade deste writ.
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 246, ambos do RISTJ, julgo prejudicado este habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
