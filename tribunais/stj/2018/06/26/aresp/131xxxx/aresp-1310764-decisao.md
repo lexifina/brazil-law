@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de Agravo, interposto pela FAZENDA DO ESTADO DE SÃO PAULO, na vigência do CPC/2015, contra decisão do Tribunal de Justiça do Estado de São Paulo, que, com fundamento na Súmula 7 do STJ, inadmitiu o Recurso Especial interposto contra acórdão assim ementado:
+"AÇÃO ORDINÁRIA combinada com AÇÃO DE RESSARCIMENTO DE DANOS MORAIS -
+Contribuinte que, antes mesmo do protesto indevido do título, apresentou guia substitutiva do ICMS - Não há de se falar em culpa concorrente da empresa no protesto indevido do título, pois o erro do contribuinte limitou-se a equívoco no preenchimento da guia de arrecadação, prontamente corrigido por meio de guia substitutiva - De mais a mais, somente a culpa exclusiva da vítima afasta o nexo causai - Dano presumido, o que dispensa a prova do efetivo prejuízo - Condenação da FESP ao ressarcimento dos danos morais que se mostra razoável - Recurso improvido" (fl. 82e).
+Sustenta a parte agravante, nas razões do Recurso Especial, fundamentado na alínea a do permissivo constitucional, violação ao art. 373, I, do CPC/2015. Afirma, in verbis:
+"Com o devido acatamento, houve afronta ao art. 333, I, do Antigo CPC, atual art. 373 do Novo CPC, que prevê:
+(..)
+Com efeito, a Recorrida não comprovou qualquer prejuízo advindo do protesto, razão pela qual não há que se falar em condenação em danos morais.
+É entendimento na doutrina e na jurisprudência que o dano moral depende de prova que, não produzida pela Recorrida, não é possível seja acolhido o pedido de indenização ante o desatendimento ao preceito do art. 373, I, do Novo CPC.
+Com efeito, a autora concorreu e/ou determinou para o "erro" da ré, o que restou incontroverso; portanto, incabível a condenação nos danos morais, sendo inaplicável o fundamento utilizado no sentido de que (síntese):
+(..)
+Inegável também que prontamente a ré acolheu o pagamento retificado da autora; assim, impositiva a prova da ocorrência dos danos morais decorrentes da posterior e equivocada inscrição; o caso é diferente das hipóteses em que a jurisprudência considera desnecessária a demonstração do dano/prejuízo.
+A questão envolve a responsabilidade subjetiva estatal; essa exige comprovação do dano alegado; sem essa demonstração da culpa não se caracteriza a responsabilidade civil.
+Com efeito, a recorrida concorreu e/ou determinou a conduta da Fesp consistente na inscrição do débito de ICMS em dívida ativa e consequente protesto; não houve qualquer desídia ou responsabilidade exclusiva da recorrente pelos fatos narrados na ação. A recorrida deu origem ao próprio dissabor.
+Ademais, o recolhimento sob código errado não pode ser considerado pagamento, pois o numerário não ingressa corretamente nos cofres públicos. E cumpre ao agente público cuidar da inscrição e cobrança da dívida, impedindo a prescrição e a decadência.
+A doutrina separa o dano moral do dano patrimonial, exigindo para a sua ocorrência que a vítima tenha sido atingida em sua esfera jurídica não patrimonial; não é todo entrevero, aborrecimento, que gera dano moral e consequentemente a sua reparação. Deve-se analisar o caso concreto, os fatos, suas consequências, a conduta da vítima e o ato praticado pelo "ofensor".
+No caso, a Fazenda, ora recorrente, ao inscrever em débito em dívida ativa e protestá-lo agiu na estrita legalidade; equivocadamente, é certo, porém, induzida pelo erro cometido pela autora" (fls. 88/90e).
+Requer, ao final, "seja admitido e provido o presente recurso especial, afastando-se a condenação da Fazenda do Estado em danos morais" (fl. 90e).
+Foram apresentadas contrarrazões (fls. 93/96e).
+Negado seguimento ao Recurso Especial (fl. 97e), foi interposto o presente Agravo (fls. 101/105e).
+Foi apresentada contraminuta (fls. 108/112e).
+A irresignação não merece acolhimento.
+O Tribunal de origem, para decidir a controvérsia dos autos, deixou consignado, no que interessa:
+"Os autos dão notícia de que o débito fiscal, referente ao mês de maio de 2016, foi pago pela autora, como se retira do documento de fls. 13. Como o contribuinte preencheu de maneira errada a guia de arrecadação, indicando incorretamente o mês de referência, apresentou guia substitutiva, com indicação correta, isto em 01/09/2016 (fls. 11), ou seja, em data anterior ao protesto da Certidão de Dívida Ativa, que se deu em 05/10/2016 (fls. 14).
+Respeitado o entendimento do nobre magistrado, não há de se falar em culpa concorrente da empresa no protesto indevido do título, pois, como demonstrado, o erro do contribuinte limitou-se a equívoco no preenchimento da guia de arrecadação, que foi prontamente corrigido por meio de guia substitutiva.
+Errou, isto sim, a requerida, ao inscrever a dívida, e mais que isto, ao levar a protesto um título que, àquela altura, não tinha fundamento.
+Nesta esteira, é bem de ver que, diferentemente da afirmação da Fazenda do Estado em grau de apelação, está-se diante de dano presumido, pelo que a ocorrência de prejuízo prescinde de prova.
+Em outros termos, trata-se de presunção ad hominem, revelando-se desnecessário demonstrar que o protesto de um título tem consequências nefastas, quer na vida da pessoa física quer na vida da pessoa jurídica. A propósito dessas consequências danosas, é rica a bibliografia ([NOME], Sucedâneos da sustação do protesto, SP, s/d).
+De qualquer forma, somente na hipótese de culpa exclusiva da vítima do dano se poderia falar em rompimento do nexo causal, o que não é o caso.
+É o caso, portanto, de manter-se a condenação da apelante ao ressarcimento dos danos morais suportados pela autora, ora apelada, na forma arbitrada pelo juízo de primeiro grau" (fls. 83/84e).
+Quanto à alegada ofensa ao art. 373, I, do CPC/2015, o Recurso Especial não ultrapassa a admissibilidade, ante o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada").
+Isso porque, para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não ao caso concreto.
+Nesse contexto, por simples cotejo das razões recursais e os fundamentos do acórdão, percebe-se que a tese recursal vinculada ao dispositivo tido como violado não foi apreciada no voto condutor, sequer de modo implícito, não tendo servido de fundamento à conclusão adotada pelo Tribunal de origem. A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DECLARATÓRIOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. PREQUESTIONAMENTO. LITIGÂNCIA DE MÁ-FÉ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE.
+INCIDÊNCIA DA SUMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+2. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula n. 282 do STF.
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou interpretação de cláusula contratual, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. No caso dos autos, a modificação das conclusões do acórdão recorrido, a respeito da conduta protelatória do agravante, para fins de afastamento da multa por litigância de má-fé, demandaria análise do conteúdo fático dos autos.
+5. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 273.612/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 23/03/2018).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios, anteriormente fixados em 10% (dez por cento) sobre o valor da condenação, para 11% (onze por cento) sobre o valor da condenação, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
