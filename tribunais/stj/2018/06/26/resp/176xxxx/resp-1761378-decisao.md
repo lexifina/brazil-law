@@ -1,0 +1,12 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pelo Ministério Público do Estado do Paraná contra decisão que inadmitiu o recurso especial devido à razoabilidade da decisão tomada em segunda instância.
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O apelo nobre foi manejado com base na alínea "a" do permissivo constitucional em oposição a acórdão assim ementado (e-STJ, fls. 1.255/1.256):
+APELAÇÕES CÍVEIS. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. CARGOS VAGOS DE ASSESSOR JURÍDICO. DEMORA NA REALIZAÇÃO DE CONCURSO PÚBLICO. CONTRATAÇÕES DE ESCRITÓRIOS DE ADVOCACIA PARA A REALIZAÇÃO DE ASSESSORIA JURÍDICA, MEDIANTE REALIZAÇÃO DE DIVERSOS PROCEDIMENTOS LICITATÓRIOS REGULARES. PRESTAÇÃO DEVIDA DOS SERVIÇOS. AUSÊNCIA DE DOLO OU MÁ-FÉ. INABILIDADE DO AGENTE PÚBLICO. ATOS DE IMPROBIDADE ADMINISTRATIVA NÃO CONFIGURADOS. RECURSOS CONHECIDOS E PROVIDOS, PARA O FIM DE JULGAR IMPROCEDENTE A AÇÃO CIVIL PÚBLICA. Não há falar em improbidade administrativa, pois, na hipótese dos autos, não restou demonstrada a ocorrência de efetiva violação aos princípios norteadores da Administração Pública, haja vista que não houve efetivo dano ao erário, bem como não restou comprovado comportamento doloso do então Prefeito à época. Além disso, não se pode dizer que os contratados - Escritórios de Advocacia, representados pelos apelantes - tenham agido com dolo ou má-fé, no interesse de lesar o patrimônio público, na medida em que foram contratados mediante procedimento licitatório devidamente regular, de acordo com o constante do caderno processual, não sendo os mesmos, portanto, responsáveis pela inabilidade do então Prefeito da época, com a não realização imediata de concurso público para o preenchimento dos cargos vagos. E não se pode deixar de mencionar que os serviços foram devidamente prestados, não havendo assim, qualquer dano ao erário. Inabilidade não é sinônimo de ilegalidade/improbidade.
+O agravante aduz violação dos arts. 1.022, II, do Código de Processo Civil e 11 da LIA ao argumento de que a contratação irregular aferida nos autos consistiria em conduta ímproba.
+É o relatório.
+Decido.
+Com fulcro no art. 253, parágrafo único, II, "d", do RISTJ, conheço do agravo para determinar sua autuação como recurso especial, a fim de melhor análise da questão suscitada, sem prejuízo de novo exame acerca do cabimento do apelo nobre, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
+Após o trânsito, encaminhem-se os autos ao Ministério Público Federal.
