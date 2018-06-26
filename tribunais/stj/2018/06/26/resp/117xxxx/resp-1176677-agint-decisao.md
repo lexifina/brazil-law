@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interno por [NOME] e OUTRO, em face de decisão monocrática proferida às fls. 789/792 (e-STJ), integrada pelo julgado, também singular, de fls. 795/800 (e-STJ), que manteve deu parcial provimento ao recurso especial para determinar a aplicação do IPC, no índice de 84,32% à correção do saldo devedor de abril de 1990.
+Os agravantes alegam, em suma, em suas razões (fls. 814/827, e-STJ), que, nos termos da jurisprudência do Superior Tribunal de Justiça, aplica-se o BTNC e não o IPC, porquanto o vencimento das prestações, no caso, é na segunda quinzena de abril de 1990.
+Requerem a reconsideração da decisão agravada.
+Intimada, a casa bancária não ofereceu impugnação (fl. 831, e-STJ).
+É o relatório.
+Decido.
+1. Assiste razão aos agravantes.
+Consoante se observa da sentença, o vencimento das prestações, na hipótese, é de fato a segunda semana do mês de abril (fls. 487, e-STJ):
+Nesses termos, conforme salientado pelo Sr. [NOME] às fls 296, "(..) o banco não aplicou corretamente o índice de correção monetária ao saldo devedor no dia 22.04.90 conforme estabelecido no parágrafo primeiro da cláusula segunda do instrumento contratual (doc. fIs. 149). Ressalta-se que, a remuneração da poupança no dia 22.04.90 foi 3,5867%, já incluso 0,5% de ganho real sendo que o banco, equivocadamente atualizou o saldo devedor em 84,32%, data de aniversário do contrato."
+Assim, no caso, incide o entendimento firmado no REsp 1.070.252/SP (Rel. Ministro LUIZ FUX, PRIMEIRA SEÇÃO, julgado em 27/05/2009, DJe 10/06/2009), julgado no rito dos recursos repetitivos, segundo o qual o o IPC é o índice a ser utilizado para a correção monetária dos ativos retidos até a transferência destes para o BACEN, sendo certo que após a data da referida transferência, e no mês de abril de 1990, para as contas de poupança com aniversário na segunda quinzena, incide o BTNF, na forma do art. 6º, § 2º, da Lei 8.024/90. Precedentes do STJ: REsp 692.532/RJ, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, DJ de 10/03/2008; AgRg nos EDcl no Ag 484.799/MG, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJ 14/12/2007 e AgRg no Ag 811.661/SP, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, DJ 31/05/2007.
+2. Ante o exposto, reconsidero a decisão de fls. 789/792 (e-STJ), corrigindo-a, e, por conseguinte, mantém-se o parcial provimento do recurso especial da casa bancária tão-somente quanto ao afastamento da repetição do indébito em dobro, a qual deverá ocorrer na forma simples. Por conseguinte, restabeleço os ônus da sucumbência conforme o firmado na sentença de fls. 483/489 (e-STJ).
+Publique-se. Intimem-se.
