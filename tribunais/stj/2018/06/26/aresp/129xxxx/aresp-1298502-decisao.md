@@ -1,0 +1,31 @@
+DECISÃO
+1. Cuida-se de agravo interposto por EDITOR ACADÊMICO LTDA E OUTROS contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO MONITÓRIA - CONTRATO DE ABERTURA DE CRÉDITO - DOCUMENTO HÁBIL - CAPITALIZAÇÃO MENSAL DE JUROS - PREVISÃO CONTRATUAL - LEGALIDADE. O contrato de abertura de crédito em conta-corrente, acompanhado do demonstrativo de débito, constitui documento hábil para o ajuizamento de ação monitória, a teor da Súmula 247, STJ. A capitalização mensal de juros é possível, em cédula de crédito bancário, desde que pactuada, nos termos do art. 28, §1º, I, da Lei nº 10.931/2004.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 17, 18 e 700 do CPC/2015. Sustenta que inexiste prova escrita suficiente para instruir a ação monitória. Argumenta que a recorrida é parte ativa ilegítima.
+Decido.
+2. A matéria referente aos arts. 17 e 18 do CPC/2015 não foi objeto de discussão no acórdão recorrido. Portanto, não se configurou o prequestionamento, o que impossibilita a apreciação de tal questão na via especial (Súmula 282/STF).
+Cumpre acrescentar que, de acordo com entendimento esta Corte, exige-se o prequestionamento, inclusive, das questões de ordem pública.Confira:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL.  ..  MATÉRIA DE ORDEM PÚBLICA. AUSÊNCIA DE PREQUESTIONAMENTO. IMPOSSIBILIDADE DE CONHECIMENTO EX OFFICIO. ..  2. As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento. Precedentes.
+3. Agravo regimental não provido. (AgRg no AREsp 203.566/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 16/05/2013, DJe 24/05/2013)
+EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO.  ..  2. No recurso especial, o prequestionamento é requisito prévio essencial para o exame até mesmo das questões de ordem pública, sendo irrelevante que o apelo extremo tenha sido conhecido em relação a algum outro tema. Precedentes. 3. Embargos de declaração rejeitados. (EDcl no Resp 703.728/RJ, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 14/05/2013, DJe 21/05/2013)
+3. De acordo com entendimento cristalizado nesta Corte, "o contrato de abertura de crédito em conta-corrente, acompanhado do demonstrativo de débito, constitui documento hábil para o ajuizamento da ação monitória" (Súmula n. 247-STJ).
+No caso dos autos, o Tribunal de origem assentou que os documentos trazidos são hábeis a instruir ação monitória. Confira o seguinte trecho do acórdão recorrido:
+Da análise dos autos, é de ver que as partes firmaram Contrato de Adesão a Produtos de Pessoa Jurídica nº 122.205.205.359 (f.12/13), colacionados aos autos juntamente com o demonstrativo do débito (f.16/47), no qual se vê que foi disponibilizado aos apelantes a quantia de R$22.500,00, com vencimento em 03/09/2012.
+Desse modo, o apelado apresentou o detalhamento do débito demonstrando toda a evolução da divida.
+Logo, a meu ver o contrato de abertura de crédito que embasa a presente monitória (f. 12/13), devidamente assinada pelos contratantes, é dotado de certeza, liquidez e exigibilidade e, por isso, é título executivo hábil a instruir a ação monitória.
+Nesse contexto, o acolhimento da pretensão recursal exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+Merece destaque, sobre o tema:
+CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO CPC/73. AUSÊNCIA DOS VÍCIOS ELENCADOS NO ART. 535 DO CPC/73. AÇÃO MONITÓRIA. CONTRATO DE ABERTURA DE CRÉDITO EM CONTA-CORRENTE. DEMONSTRATIVO DO DÉBITO. NECESSIDADE. SÚMULA Nº 247 DO STJ. PRECEDENTES. NATUREZA DO CONTRATO CELEBRADO. ANÁLISE DAS PROVAS DOS AUTOS E DAS CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE EM RECURSO ESPECIAL. INCIDÊNCIA DAS SÚMULAS NºS 5 E 7 DESTA CORTE.
+AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Inaplicabilidade do NCPC neste julgamento ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. Não há violação do disposto no art. 535 do CPC/73 quando o aresto recorrido adota fundamentação suficiente para dirimir a controvérsia, sendo desnecessária a manifestação expressa sobre todos os argumentos apresentados.
+3. O contrato de abertura de crédito em conta-corrente, acompanhado do demonstrativo de débito, constitui documento hábil para o ajuizamento da ação monitória (Súmula nº 247 do STJ). Precedentes.
+4. Não é possível alterar a conclusão assentada pelo Tribunal de origem, com base na análise das cláusulas contratuais e das provas nos autos, de que a ação monitória se lastreou em contrato de abertura de crédito em conta-corrente e não em contrato de empréstimo particular, a teor das Súmulas nºs 5 e 7 desta Corte.
+5. Agravo regimental não provido.
+(AgRg no REsp 1498927/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/06/2016, DJe 01/07/2016)
+AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO CONTRA A INADMISSÃO DE RECURSO ESPECIAL. AÇÃO MONITÓRIA. INSTRUÇÃO DEFICIENTE. ALEGADA OFENSA AO ART. 333, I, DO CPC. PRETENSÃO RECURSAL QUE ENCONTRA ÓBICE NO ENUNCIADO DA SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso, a modificação da conclusão a que chegaram as instâncias ordinárias, de que a ação monitória foi devidamente instruída com todos os documentos necessários à sua formação, encontra óbice na Súmula 7/STJ, por demandar o vedado revolvimento de matéria fático-probatória.
+2. Agravo regimental a que se nega provimento.
+(AgRg no Ag 1345365/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 13/12/2011, DJe 01/02/2012)
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
