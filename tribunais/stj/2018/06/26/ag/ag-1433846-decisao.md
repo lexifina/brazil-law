@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo de instrumento interposto pela Organização Pan-Americana de Saúde - OPAS e União, com base no art. 105, II, c, da CF/88, contra decisão monocrática proferida pelo Juízo da 4ª Vara Federal da Subseção Judiciária de Socoraba/SP (5000649-62.2017.4.03.6110).
+Consta dos autos que [NOME], ora agravada, ajuizou pretensão em desfavor da União e da Organização PanAmericana de Saúde - OPAS/OMS, objetivando a renovação de seu contrato com o Programa Mais Médicos e o recebimento, sem a intermediação de qualquer organismo internacional, da bolsa paga aos médicos do referido programa federal. Requereu, ainda, a antecipação da tutela para garantir sua permanência no Mais Médicos até o julgamento do feito, e o pagamento integral do salário, ou o depósito judicial da parte controversa.
+Concedida cautelarmente medida antecipatória para determinar a manutenção da autora no Programa Mais Médicos com as mesmas condições de trabalho pactuadas, veio o presente agravo de instrumento, argumentando que o recrutamento dos profissionais médicos cubanos para a participação no Programa Mais Médicos é atribuição da OPAS junto à República de Cuba, de forma que nenhum vínculo há entre o médico cubano e a República Federativa do Brasil, não se revestindo de legalidade a decisão que compele o Ministério da Saúde a intervir em uma relação entre outro país e seu nacional.
+É o breve relatório.
+Adianto que ocorreu a perda superveniente do objeto do presente recurso agravo de instrumento.
+A ilustre magistrada Juízo da 4ª Vara Federal da Subseção Judiciária de Socoraba/SP informa que foi proferida sentença nos autos da Ação 5000649-62.2017.4.03.6110, com a cassação da tutela de urgência anteriormente concedida (fls. 298/305).
+Dessa forma, ante a superveniente perda de seu objeto, julgo prejudicado o presente recurso.
+Publique-se.
