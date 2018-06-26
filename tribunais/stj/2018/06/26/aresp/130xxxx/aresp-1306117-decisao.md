@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de Agravo, interposto por [NOME], em 23/08/2017, contra decisão do Tribunal Regional Federal da 3ª Região, que inadmitiu o Recurso Especial manejado em face de acórdão assim ementado:
+"PREVIDENCIÁRIO. PROCESSO CIVIL. APOSENTADORIA POR INVALIDEZ. AUXÍLIO-DOENÇA. AUSÊNCIA DE INCAPACIDADE LABORAL. REQUISITOS NÃO PREENCHIDOS. BENEFÍCIO INDEVIDO. APELAÇÃO DA PARTE AUTORA NÃO PROVIDA.
+- São exigidos à concessão dos benefícios: a qualidade de segurado, a carência de doze contribuições mensais - quando exigida, a incapacidade para o trabalho de forma permanente e insuscetível de recuperação ou de reabilitação para outra atividade que garanta a subsistência (aposentadoria por invalidez) e a incapacidade temporária (auxílio-doença), bem como a demonstração de que o segurado não era portador da alegada enfermidade ao filiar-se ao Regime Geral da Previdência Social.
+- No caso, a perícia judicial concluiu pela ausência de incapacidade laboral do autor para o exercício da atividade habitual.
+- Não patenteada a contingência necessária à concessão do benefício pleiteado, pois ausente a incapacidade total para o trabalho, temporária ou definitiva. Requisitos não preenchidos.
+- Fica mantida a condenação da parte autora a pagar custas processuais e honorários de advogado, arbitrados em 12% (doze por cento) sobre o valor atualizado da causa, já majorados em razão da fase recursal, conforme critérios do artigo 85, §§ 1º e 11, do Novo CPC. Porém, fica suspensa a exigibilidade, na forma do artigo 98, § 3º, do referido código, por ser beneficiária da justiça gratuita.
+- Apelação da parte autora não provida" (fl. 129e).
+Sustenta a parte agravante, nas razões do Recurso Especial, além de divergência jurisprudencial, ofensa aos arts. 42 e 59, ambos da Lei 8.213/91. Afirma in verbis:
+"O v. acórdão de fls. 122/124, concluiu que não ficou demonstrada sua incapacidade para o trabalho, no entanto, conforme pode ser observada na farta documentação anexa aos autos, inclusive no laudo pericial juntado pelo médico do juízo, o recorrente é indiscutivelmente, portador de HIPERTENSÃO ESSENCIAL PÓS OPERATÓRIO TARDIO DE TRATAMENTO CIRÚRGICO DE ANEURISMA CEREBRAL E ESPONDILODISCOARTROPATIA LOMBO-SACR, sendo certo que o mesmo necessita de tratamentos médicos e fisioterápicos constantes.
+Ainda necessário se faz levar em consideração as condições particulares do recorrente, quais sejam: o requerente possui idade avançada (mais de 44 anos) pouca instrução, sempre desenvolveu atividades incompatíveis com o quadro que apresenta (FORNEIRO), estando agora, impossibilitado de desenvolver qualquer atividade que lhe garanta a sobrevivência.
+Com isso, as doenças apresentadas pelo recorrente que foram constatadas por laudos médicos e pelo próprio perito judicial, somadas a condições particulares do mesmo (fatores descritos acima) o incapacitam de forma TOTAL E PERMANENTE para qualquer tipo de trabalho.
+Diante deste quadro, resta claramente demonstrado que ao julgar improcedentes os pedidos do recorrente, as normas Federais (artigos 42 e 59 da Lei 8.213/91) não foram aplicadas corretamente.
+(..)
+O recorrente, por não possuir meios de exercer suas atividades normalmente e por apresentar várias limitações pessoais, conforme dito alhures, até o momento está carente de amparo, mesmo tendo direito absoluto de receber a aposentadoria por invalidez, ou, pelo menos o auxílio-doença, conforme prevê os artigos 42 e 59 da Lei 8.213/91.
+Assim resta claro que não foi aplicado corretamente os artigos 42 e 59 da Lei 8.213/91.
+As particularidades do caso não podem ser ignoradas, há outros meios, que não o laudo pericial médico feito em primeira instância, que comprovam a incapacidade total e permanente do recorrente para o trabalho.
+Ainda, o Magistrado não está vinculado ao laudo, podendo e devendo se ater a todas as provas contidas nos autos para o julgamento correto da demanda. É nesse sentido que o Superior Tribunal de Justiça entende:
+(..)
+Conforme exaustivamente dito, as doenças apresentadas pelo recorrente a impossibilitam de exercer suas funções normalmente e, ainda, pelos seus históricos e suas particularidades, esta, restou impossibilitada para o exercício de qualquer função.
+Demais disso, importante se faz salientar no presente caso não há qualquer discussão sobre a qualidade de segurado do recorrente, tendo sido esta reconhecida em primeira e segunda instância.
+Desta forma, forçoso concluir que o recorrente faz jus a Aposentadoria por Invalidez ou pelo menos ao Auxílio-Doença" (fls. 141/145e).
+Requer, ao final, "o processamento do presente recurso, para ulterior apreciação pelo Colendo Superior Tribunal de Justiça, o qual, acolhendo-o haverá por bem lhe dar provimento, para que seja reformada totalmente a r. decisão ora recorrida para conceder ao requerente o benefício de Aposentadoria por Invalidez ou Auxílio-Doença, nos termos requeridos na peça inicial" (fl. 145e).
+Não foram apresentadas contrarrazões.
+Negado seguimento ao Recurso Especial (fls. 150/152e), foi interposto o presente Agravo (fls. 154/159e).
+Não foi apresentada contraminuta.
+A irresignação não merece acolhimento.
+O Tribunal de origem, ao manter a sentença de improcedência do pedido, e decidir a controvérsia dos autos, deixou consignado, no que interessa:
+
+"Discute-se nos autos o preenchimento dos requisitos para a concessão de benefício por incapacidade à parte autora.
+A aposentadoria por invalidez, segundo a dicção do art. 42 da Lei n. 8.213/91, é devida ao segurado que, estando ou não em gozo de auxílio-doença, for considerado incapaz para o trabalho e insusceptível de reabilitação para o exercício de atividade que lhe garanta a subsistência.
+O auxílio-doença, benefício pago se a incapacidade for temporária, é disciplinado pelo art. 59 da Lei n. 8.213/91, e a aposentadoria por invalidez tem seus requisitos previstos no art. 42 da Lei 8.213/91.
+Assim, o evento determinante para a concessão desses benefícios é a incapacidade para o trabalho.
+São exigidos à concessão desses benefícios: a qualidade de segurado, a carência de doze contribuições mensais - quando exigida, a incapacidade para o trabalho de forma permanente e insuscetível de recuperação ou de reabilitação para outra atividade que garanta a subsistência (aposentadoria por invalidez) e a incapacidade temporária (auxílio-doença), bem como a demonstração de que o segurado não era portador da alegada enfermidade ao filiar-se ao Regime Geral da Previdência Social.
+No caso dos autos, a perícia judicial, realizada em 11/11/2015, atestou que o autor, pedreiro, nascido em 1973, não apresenta incapacidade laboral, conquanto padeça de hipertensão essencial (primária), pós-opeatório tardio de tratamento cirúrgico de aneurisma cerebral e espondilodiscoartropatia lombo-sacra (f. 73/81).
+O perito esclareceu: "No caso do autor, não há, no momento, presença de sinais objetivos de radiculopatia (..) ou de outros transtornos funcionais que venham a dar suporte à qualidade das alterações degenerativas discais e ósseas, verificadas por estudos imagenológicos anteriores".
+E ainda: "Observa-se que as suas queixas são subjetivas e desproporcionais aos achados do exame físico ortopédico. Não foi encontrada razão ortopédica e subsídios objetivos e apreciáveis que incapacite atualmente o mesmo para o labor e/ou que estejam interferindo no seu cotidiano".
+Assim, não configurada a incapacidade laboral, não está patenteada a contingência necessária à concessão de benefício por incapacidade.
+Atestados e exames particulares juntados não possuem o condão de alterarem a convicção formada pelas conclusões do laudo, esse produzido sob o pálio do contraditório.
+Malgrado preocupado com os fins sociais do direito, não pode o juiz julgar com base em critérios subjetivos, quando patenteado no laudo a ausência de incapacidade para o trabalho.
+O autor não pode ser considerado inválido somente em razão das limitações físicas aliadas à baixa escolaridade e condições pessoais. O fato de o segurado sentir-se incapaz não equivale a estar incapaz, segundo análise objetiva do perito.
+O fato de o segurado ter doenças não significa, por óbvio, que está incapaz.
+O magistrado não está adstrito ao laudo. Contudo, o conjunto probatório dos autos não autoriza convicção em sentido diverso, devendo ser mantida a r. sentença" (fls. 125/126e).
+Nesse contexto, considerando a fundamentação adotada, o acórdão recorrido, que concluiu pela inexistência de qualquer forma ou grau de incapacidade atual para o trabalho e, portanto, pela ausência dos requisitos para concessão do benefício previdenciário, somente poderia ser modificado mediante o necessário revolvimento dos aspectos concretos da causa, o que é obstado, no âmbito do Recurso Especial, pela Súmula 7 desta Corte.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ E/OU AUXÍLIO DOENÇA. AUSÊNCIA DE INCAPACIDADE. REEXAME DE FATOS E PROVAS. ÓBICE DA SÚMULA N. 7 DO STJ.
+1. No caso, o Tribunal a quo firmou, com base no contexto fático-probatório, que a parte recorrente não preenchera os requisitos necessários para a concessão do auxílio-doença ou da aposentadoria por invalidez, por não estar incapaz, temporária ou definitivamente, para o trabalho. Incidência da Súmula 7/STJ à pretensão recursal.
+2. Agravo interno não provido" (STJ, AgInt no AREsp 870.670/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 27/06/2016).
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios, anteriormente fixados em 12% (doze por cento) sobre o valor da causa, para 13% (treze por cento) sobre o valor da causa, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Ressalte-se que, em caso de reconhecimento do direito à gratuidade de justiça, permanece suspensa a exigibilidade das obrigações decorrentes de sua sucumbência, nos termos do § 3º do art. 98 do CPC/2015.
+I.
