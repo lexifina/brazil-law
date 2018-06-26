@@ -1,0 +1,31 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO DO ART. 535, II DO CPC/1973. OMISSÃO CONFIGURADA. RECURSO ESPECIAL PROVIDO PARA, ANULANDO O ACÓRDÃO PROFERIDO EM SEDE DE EMBARGOS DE DECLARAÇÃO, DETERMINAR O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM, A FIM DE QUE SUPRA A OMISSÃO APONTADA.
+1. Trata-se de Recurso Especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, III, alínea a da Constituição Federal, contra acórdão proferido pelo egrégio TRF da 5a. Região, assim ementado:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. DETERMINAÇÃO PARA SUBSTITUIR AS CDA"S. INTIMAÇÃO DA PARTE PARA CUMPRIMENTO. INÉRCIA. FALTA DE INTERESSE. EXTINÇÃO DO FEITO. PRECEDENTES.
+1. A sentença extinguiu a execução fiscal, sem resolução do mérito, em face do não-cumprimento de determinação judicial, com fulcro nos arts. 267, IV, c/c 618 do CPC.
+2. A execução fiscal consubstancia-se no título executivo que consagre obrigação líquida, certa e exigível (art. 580 do CPC), elementos que caracterizam o interesse de agir in executivis. 0 não preenchimento de tais requisitos provoca a nulidade da execução (art. 618, 1, do CPC).
+3. A petição inicial da ação executiva fiscal deve vir aparelhada com CDA que preencha os requisitos legais previstos na Lei n0 6.830180, notadamente os elencados no art. 20, §§ 50 e 60. Estando formalmente perfeita e regularmente inscrita, a CDA adquire presunção de certeza e liquidez (art. 30 da LEF).
+4. 0 MM. Juiz a quo determinou que a exequente substituísse as CDA"s que aparelham a execução fiscal, em face do pronunciamento parcial da decadência. Apesar de devidamente intimada, a exequente quedou-se silente.
+5. Em face do não-cumprimento, pela credora, da determinação judicial para substituir as CDA"s, omissão que torna inviável o prosseguimento do processo executivo, em face da ofensa aos arts. 202 do CTN e 20, § 50, da LEF, há de ser extinto o feito, sem resolução do mérito.
+6. Precedente jurisprudencial idêntico: AC 549223/PE, 3a Turma, Rel. Des. Federal [NOME], DJe 22/11/12012.
+7. Apelação não-provida (fls. 369).
+2. Os Embargos de Declaração opostos foram rejeitados (fls. 382).
+3. Nas razões do Apelo Nobre, a parte recorrente aponta violação dos arts. 267, 250, 535, II do CPC/1973; 2o., § 8o., 40 da Lei 6.830/1980. Sustenta, além de negativa de prestação jurisdicional, que o prazo para a Fazenda Pública retificar a CDA é até a prolação da sentença em sede de Embargos à Execução, nos termos da Súmula 392/STJ. Ademais, as execuções fiscais não estão sujeitas à extinção por inércia da exequente. Assim, deveria ter sido aplicado o disposto no art. 40 da LEF, o qual determina o arquivamento do feito sem baixa na distribuição. Por fim, não houve a intimação do ente público para em 48 horas suprir a aventada falta.
+4. Sem Contrarrazões, o recurso foi admitido na origem (fls. 403).
+5. É o relatório. Decido.
+6. O presente recurso merece prosperar quanto à alegada violação do art. 535, II do CPC/1973.
+7. Da análise dos autos, verifica-se que o Tribunal de origem não se manifestou sobre as alegações da recorrente formuladas em seus Embargos de Declaração, notadamente sobre a necessidade de intimação da parte autora para, em 48 horas, suprir falta no cumprimento de diligência necessária ao andamento do feito, nos termos art. 267, § 2o. do CPC/1973.
+8. Com a oposição dos Embargos de Declaração, foi expressamente solicitado que o Colegiado examinasse tal argumento, o qual tem a capacidade de interferir no julgamento da causa. Todavia, o Tribunal a quo não se pronunciou a respeito da questão e concluiu pela ausência de vícios no acórdão. Fica, com isso, configurada a ofensa ao art. 535, II do CPC/1973. O Superior Tribunal já se manifestou a esse respeito:
+PROCESSUAL CIVIL. QUESTÃO RELEVANTE PARA A SOLUÇÃO DA LIDE. AUSÊNCIA DE VALORAÇÃO. OMISSÃO CONFIGURADA.
+1. A ausência de valoração de tema relevante para a solução da lide configura omissão, nos termos do art. 535 do CPC.
+2. Na leitura do acórdão recorrido conclui-se que houve omissão quanto à análise de pontos relevantes para o deslinde da controvérsia, em especial no que tange aos juros e correção monetária e à aplicação, na espécie, do art. 1o-F da Lei 9.494/1997, com redação dada pela Lei 11.960/2009, que modificou os índices e forma de contagem dos juros e correção monetária nas condenações impostas à Fazenda Pública, sobre os quais, mesmo instado a se manifestar por meio dos Embargos de Declaração opostos, o Tribunal local permaneceu silente.
+3. Caracterizada, assim, a violação do art. 535 do CPC, fica prejudicado o Recurso Especial interposto pela segurada.
+4. Dou provimento ao Recurso Especial do INSS, determinando o retorno dos autos à Corte de origem, para novo julgamento dos Embargos de Declaração, e julgo prejudicado o Recurso Especial de [NOME] (REsp. 1.337.055/PE, Rel. Min. HERMAN BENJAMIN, DJe 11.9.2012).
+
+PROCESSUAL CIVIL. OMISSÃO. ALEGAÇÃO DE JULGAMENTO EXTRA PETITA. MATÉRIA DE ORDEM PÚBLICA. DEVIDO ENFRENTAMENTO. VIOLAÇÃO AO ART. 535 DO CPC. RETORNO DOS AUTOS. NECESSIDADE.
+1. A teor da jurisprudência desta Corte, somente a existência de omissão relevante à solução da controvérsia, não sanada pelo acórdão recorrido, caracteriza a violação do art. 535 do CPC.
+2. A omissão apontada pelo recorrente diz respeito à alegação de que a questão aduzida na inicial é distinta do entendimento firmado no acórdão recorrido, incorrendo em julgamento extra petita.
+3. É de ver que a omissão quanto a esse tópico é relevante para a solução da controvérsia, e fora suscitada oportunamente, de modo que, ausente manifestação do Tribunal a quo nesse sentido, intransponível o óbice para o conhecimento da matéria na via estrita do especial, visto que, ainda que se trate de matéria de ordem pública, a ausência de prequestionamento da tese inviabiliza a análise nesta Instância Especial.
+Recurso especial provido a fim de que os autos retornem ao Tribunal a quo para o julgamento completo dos embargos de declaração opostos (REsp. 1.407.764/SC, Rel. Min. HUMBERTO MARTINS, DJe 25.10.2013).
+9. Diante dessas considerações, dá-se provimento ao Recurso Especial, para anular o acórdão proferido nos Embargos de Declaração e determinar o retorno dos autos ao Tribunal de origem, a fim de que sane os vícios apontados nos termos acima explicitados.
+10. Publique-se. Intimações necessárias.
