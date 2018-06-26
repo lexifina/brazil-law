@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo manejado pela União contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fls. 490/491):
+TRIBUTÁRIO. AÇÃO DECLARATÓRIA. RECONHECIMENTO DA VALIDADE DE APÓLICE DA DÍVIDA PÚBLICA EMITIDA NO PRIMEIRO QUADRANTE DO SÉCULO XX. COMPENSAÇÃO. DO CRÉDITO NELA INSCULPIDO COM DÉBITOS TRIBUTÁRIOS. INADMISSIBILIDADE. DECRETOS-LEIS 263/67 E 396/68. PRESCRIÇÃO. RECONHECIMENTO.
+1. Tratando-se de Apólice da Dívida Pública emitida no primeiro quadrante do século XX, tem-se por prescritos os créditos consubstanciados na cártula à luz dos Decretos-leis nºs 263/67 e 396/68, os quais fixaram o prazo de doze meses para resgate do valor devido a contar da ciência dos interessados, o que se deu por meio da publicação de edital nos idos de 1968.
+2. Possibilidade de regulamentação da matéria por meio de decreto-lei, à luz do artigo 58, II da Constituição outorgada de 1967.
+3. Ainda que desconsiderado o prazo prescricional fixado pelos decretos leis supracitados, fato é que foi alterada pelo legislador a condição suspensiva da eficácia negocial dos títulos, pelo que deveria a apresentação da cártula ser efetivada observando-se o prazo prescricional ordinário dos créditos contra a Fazenda Pública, qual
+seja, cinco anos (Decreto nº 20.910/32).
+4. A par da natureza não-tributária do negócio jurídico atinente à apólice e da incerteza quanto à sua validade jurídica, não se verifica a liquidez e certeza do crédito ante a inexistência de cláusula de correção do valor de face do título, de modo a se evitar os efeitos perniciosos da corrosão inflacionária. A correção monetária só passou a vigorar oficialmente após a instituição das ORTN"s pela Lei nº 4.357/64, sendo que anteriormente não havia índices oficiais para mensuração do aumento do custo de vida e da deterioração da moeda. O valor atribuído à apólice pela parte é desprovido de qualquer amparo na legislação. Tudo somado, não há respaldo jurídico para o acolhimento do pleito compensatório.
+5. A alteração introduzida pela edição primeira da MP nº 1.238/95 no
+artigo 30 da Lei nº 8.177/91 foi oportunamente retificada por meio de
+nova publicação do texto. Ademais, dado que não se deu a conversão do preceito em lei ou mesmo sua reprodução em nova medida provisória, não há como se reconhecer validade e eficácia no dispositivo aludido. De outra parte, a prescrição já houvera exonerado o credor da obrigação insculpida na cártula.
+6. Jurisprudência uníssona a apontar pela imprestabilidade dos vetustos títulos na atualidade, porquanto carcomida pelo tempo a relação jurídica neles consubstanciada.
+7. Verba advocatícia reduzida, adequando-se a condenação aos ditames do art. 20º, § 4º do CPC.
+8. Apelação parcialmente provida.
+Opostos embargos declaratórios pela parte agravada, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 20, § 3º, do CPC/73. Sustenta, em síntese, que é irrisório o percentual dos honorários advocatícios fixado pelo Tribunal a quo, devendo ser majorado.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+A jurisprudência do STJ orienta-se no sentido de que, em regra, não se mostra possível em recurso especial a revisão do valor fixado a título de honorários advocatícios, pois tal providência exigiria novo exame do contexto fático-probatório constante dos autos, o que é vedado pela Súmula 7/STJ.
+Todavia, o óbice da referida súmula pode ser afastado em situações excepcionais, quando for verificado excesso ou insignificância da importância arbitrada, ficando evidenciada ofensa aos princípios da razoabilidade e da proporcionalidade, hipóteses não configuradas nos autos.
+No caso, o Tribunal de origem reduziu a verba advocatícia com base nos seguintes fundamentos (fl. 488):
+ No que tange aos honorários advocatícios, vê-se que a referida verba foi fixada em 10% (dez por cento) do valor da causa, presumindo-se que o d. juiz tenha aplicado a regra do § 4º do art. 20 do Código de Processo Civil, uma vez que rejeitou integralmente a pretensão suscitada na inaugural. Nesses termos, seria mesmo a hipótese de utilização da regra do § 4º do aludido artigo, isto é, da fixação dos honorários "consoante apreciação equitativa do juiz".
+ A apreciação equitativa a que se refere o dispositivo há de observar o grau de zelo profissional, o lugar da prestação do serviço e a natureza e a importância da causa, bem como o trabalho realizado pelo advogado e o tempo exigido para o seu serviço (§ 4º do art. 20, "fine"). Não há dúvidas, portante, ante as balizas legais, que a verba advocatícia deve ser fixada abaixo daquele arbitrado na sentença, mormente por que, ainda que considerado o alto valor atribuído à causa, a matéria aqui versada é exclusivamente de direito, prescindindo de tortuosas explanações quanto ao substrato fático da controvérsia.
+ Por tais razões, acolho em parte a pretensão recursal, reduzindo a condenação imposta a título de honorários advocatícios para 1% (um por cento) do valor da causa atualizado, nos termos do § 4º do art. 20 do Código de Processo Civil.
+Dessarte, não configurada a excepcionalidade exigida pela jurisprudência desta Corte, não se mostra possível a redução dos honorários advocatícios pleiteada pela parte ora agravante.
+A propósito, confira-se:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. HONORÁRIOS. IMPOSSIBILIDADE DE REVISÃO. ÓBICE DA SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A revisão do valor dos honorários advocatícios arbitrado, é, em princípio, vedado nesta instância, à luz da Súmula 7/STJ. Como cediço, é admitida sua revisão por esta Corte quando o valor arbitrado extrapola os limites da razoabilidade, o que, todavia, não se verifica no presente caso.
+2. A tese jurídica veiculada nas razões do regimental não é capaz de modificar o posicionamento anteriormente firmado no decisum ora impugnado, que persevera, na íntegra, por seus próprios fundamentos.
+3. Agravo regimental não provido.
+(AgRg no AREsp 171.013/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 07/03/2013, DJe 13/03/2013)
+Fica prejudicada, pelas mesmas razões, a análise do dissídio jurisprudencial.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
