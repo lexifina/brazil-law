@@ -1,0 +1,41 @@
+DECISÃO
+1. Cuida-se de agravo em recurso especial fundado no artigo 105, III, alínea "a", da Constituição Federal, interposto contra acórdão proferido pelo Eg. Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+CIVIL E DIREITO DO CONSUMIDOR. COMPRA E VENDA DE UNIDADE IMOBILIÁRIA. RELAÇÃO DE CONSUMO. ATRASO INJUSTIFICADO. RESOLUÇÃO CONTRATUAL. RESTITUIÇÃO INTEGRAL. CLÁUSULA PENAL COMPENSATÓRIA. INCIDÊNCIA. READEQUAÇÃO. ART. 413 DO CÓDIGO CIVIL.
+O negócio jurídico entabulado entre as partes, comercialização de unidades imobiliárias, encerra relação de consumo. Comprovado o atraso injustificado na entrega de unidade imobiliária, faz jus o consumidor à resolução da avença, com a restituição integral dos valores até então despendidos, sob pena de enriquecimento sem causa da construtora. Mostrando-se desproporcional e abusiva a cláusula penal, impõe-se a sua redução equitativa, em homenagem à função social do contrato, à boa fé e à equidade, mostrando-se razoável e proporcional a sua fixação em 10% sobre o montante efetivamente pago. (fl. 198)
+Nas razões recursais, o recorrente aponta que o acórdão recorrido contrariou frontalmente as disposições do CDC, visto que reduziu a multa contratual prevista - 30% do valor atualizado do contrato -, para apenas 10%.
+O recurso recebeu crivo negativo de admissibilidade na origem, ascendendo a esta Corte Superior por meio da interposição de agravo.
+É o relatório. Decido.
+2. Compulsando os autos, observa-se que a Corte de origem asseverou que a penalidade fixada no instrumento contratual mostrava-se desproporcional, devendo ser equitativamente reduzida.
+Divisam-se os seguintes fundamentos extraídos do acórdão recorrido:
+Por fim, com relação à cláusula penal compensatória, prevista na Cláusula 27ª do Contrato, que estipula multa de 30% do valor atualizado do contrato, sua incidência na presente caso é patente, haja vista que foi a mora da construtora que deu causa à rescisão contratual, conforme já abordado.
+Todavia, mostrando-se desproporcional a penalidade fixada contratualmente, incide na espécie o disposto no artigo 413, do Código Civil, que dispõe que a penalidade deve ser reduzida equitativamente pelo juiz se a obrigação principal tiver sido cumprida em parte, ou se o montante da penalidade for manifestamente excessivo, tendo em vista a natureza e a finalidade dó negócio.
+ ..
+Dessa forma, mostra-se razoável, proporcional e em consonância com os princípios da função social do contrato, que rege as relações obrigacionais, o percentual de 10% sobre o montante efetivamente pago pelo Autor, acrescido da correção monetária e dos juros de mora de 1%, a partir da citação. (fls. 208 e 210)
+Nesse diapasão, observa-se que, ao assim decidir, considerando manifestamente excessivo o valor fixado em cláusula penal compensatória, a Corte de origem levou em consideração o instrumento contratual e as provas colacionadas aos autos.
+Dessa forma, o acolhimento da pretensão recursal, no sentido de que o percentual de 30% relativo à cláusula penal compensatória não se mostra manifestamente excessivo, esbarraria no óbice das Súmulas 5 e 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ANÁLISE DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. CLÁUSULA PENAL. RECONHECIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. ARRAS CONFIRMATÓRIAS. IMPOSSIBILIDADE DE RETENÇÃO. CLÁUSULA PENAL EXCESSIVA. PERDA DA TOTALIDADE DOS VALORES PAGOS. REDUÇÃO. POSSIBILIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. SÚMULA 284 DO STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+1. Consoante disposto no art. 105 da Carta Magna, o Superior Tribunal de Justiça não é competente para se manifestar sobre suposta violação de dispositivo constitucional nem sequer a título de prequestionamento.
+2. Para suplantar a cognição estadual que, à luz das peculiaridades do caso concreto, considerou tratar-se, a hipótese vertente, de cláusula penal compensatória fixada de forma excessiva (o que motivou sua adequação com a conseqüente estipulação de percentual de retenção razoável e proporcional às perdas e danos dos vendedores), seria necessário o revolvimento do acervo fático-probatório dos autos e a interpretação de cláusulas contratuais, o que é vedado pelos enunciados das Súmulas 5 e 7 do STJ.
+ ..
+9. Agravo interno não provido.
+(AgInt no AgRg no REsp 1197860/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/12/2017, DJe 12/12/2017)  g.n.
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. DISTRATO. REVISÃO DE CLÁUSULAS. POSSIBILIDADE. CLÁUSULA PENAL COMPENSATÓRIA. REDUÇÃO. LEGALIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A revisão do acórdão visando a majoração da retenção do percentual dos valores pagos no distrato do compromisso de compra e venda de imóvel, demanda interpretação de cláusula contratual reexame do acervo fático probatório dos autos, providência inviável de ser adotada ante o óbice das Súmulas 5/STJ e 7/STJ.
+2. Ao repisar os fundamentos do recurso especial, a parte agravante não trouxe, nas razões do agravo regimental, argumentos aptos a modificar a decisão agravada, que deve ser mantida por seus próprios e jurídicos fundamentos.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 718.597/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/08/2015, DJe 25/08/2015)  g.n.
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA. DESISTÊNCIA PELO PROMITENTE COMPRADOR. RESTITUIÇÃO DOS VALORES PAGOS. CLÁUSULA PENAL COMPENSATÓRIA. ABUSIVIDADE. REEXAME DE MATÉRIA CONTRATUAL E FÁTICA DA LIDE. SÚMULAS 5 E 7/STJ. NÃO PROVIMENTO.
+1. O Tribunal de origem entendeu, com base na análise de prova e cláusulas contratuais, ser abusiva a cláusula penal compensatória. O acolhimento das razões de recurso, na forma pretendida, demandaria o reexame de matéria fática. Incidência dos verbetes 5 e 7 da Súmula desta Corte.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 437.642/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 06/11/2014, DJe 14/11/2014)  g.n.
+CIVIL. CÓDIGO DE DEFESA DO CONSUMIDOR. ONEROSIDADE EXCESSIVA. CLÁUSULAS ABUSIVAS. ILEGALIDADE DA CLÁUSULA PENAL. SÚMULAS NS. 5 E 7 DO STJ. CUMULAÇÃO DE PEDIDOS. INDENIZAÇÃO E MULTA DA CLÁUSULA PENAL. SÚMULA N. 211 DO STJ. VIOLAÇÃO DO ART. 410 DO CC NÃO CARACTERIZADA. SÚMULA N. 284 DO STF. REDUÇÃO DO QUANTUM DA MULTA COMPENSATÓRIA.
+SÚMULA N. 7 DO STJ. ART. 460 DO CC. SÚMULA N. 211 DO STJ.
+1. Os requisitos para caracterização da onerosidade excessiva são: o contrato de execução continuada ou diferida, vantagem extrema de outra parte e acontecimento extraordinário e imprevisível, cabendo ao juiz, nas instâncias ordinárias, e diante do caso concreto, a averiguação da existência de prejuízo que exceda a álea normal do contrato, com a conseqüente resolução do contrato diante do reconhecimento de cláusulas abusivas e excessivamente onerosas para a prestação do devedor. O reexame dessa matéria na instância especial enseja a aplicação das Súmulas ns. 5 e 7 do STJ.
+2. Inviabiliza-se o conhecimento de recurso especial fundado na aferição da legalidade de cláusula penal, quando o reconhecimento da quebra da exclusividade pela Corte a quo, que gerou a multa contratual considerada ilegal pelo recorrente, foi firmado com base no conjunto fático-probatório dos autos. Incidência das Súmulas ns. 5 e 7 do STJ.
+3. A ausência de prequestionamento de tese acerca da cumulação de pedidos de indenização e multa relativa à cláusula penal impede o conhecimento do apelo especial, a teor da Súmula n. 211 do STJ.
+4. Em sede de recurso especial, é inadmissível a revisão do quantum fixado a título de multa compensatória, tendo em vista o disposto na Súmula n. 7 do STJ, na medida em que cabe ao magistrado das instâncias ordinárias, atento às circunstâncias do caso em apreço e à realidade dos fatos, a redução proporcional ao valor do pagamento já realizado, a fim de evitar o enriquecimento sem causa do devedor.
+5. Recurso especial não-conhecido.
+(REsp 1034702/ES, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 15/04/2008, DJe 05/05/2008, REPDJe 19/05/2008)  g.n.
+3. Ante o exposto, com fulcro nos fundamentos acima aduzidos, não conheço do presente recurso.
+Publique-se. Intimem-se.
