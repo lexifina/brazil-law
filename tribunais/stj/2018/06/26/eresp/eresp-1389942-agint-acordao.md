@@ -1,0 +1,28 @@
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. INÉPCIA. IMPUGNAÇÃO DA DECISÃO AGRAVADA. RECURSO MANIFESTAMENTE INADMISSÍVEL. MULTA.
+1. É manifestamente inadmissível o agravo interno que não impugna, especificamente, os fundamentos da decisão agravada.
+2. Agravo interno não conhecido, com imposição de multa.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Corte Especial do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, não conhecer do agravo, com imposição de multa, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Herman Benjamin, Napoleão Nunes Maia Filho, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves e Sérgio Kukina votaram com a Sra. Ministra Relatora. Ausentes, justificadamente, os Srs. Ministros Felix Fischer, Francisco Falcão e Raul Araújo. Convocado o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI:
+Cuida-se de agravo interno interposto por [NOME] contra decisão unipessoal que indeferiu liminarmente os embargos de divergência que interpusera em face de acórdão da 2ª Turma do STJ que, em sede de ação civil pública ambiental, conheceu parcialmente e, nessa parte, deu provimento do recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO DO SUL. O acórdão ora embargado foi assim ementado:
+AMBIENTAL E PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. OCUPAÇÃO E EDIFICAÇÃO EM ÁREA DE PRESERVAÇÃO PERMANENTE-APP. CASAS DE VERANEIO. [NOME]/MS. SUPRESSÃO DE MATA CILIAR. DESCABIMENTO. ART. 8º DA LEI 12.651/2012. NÃO ENQUADRAMENTO. DIREITO ADQUIRIDO AO POLUIDOR. FATO CONSUMADO. DESCABIMENTO. DESAPROPRIAÇÃO NÃO CONFIGURADA. LIMITAÇÃO ADMINISTRATIVA. DANO AMBIENTAL E NEXO DE CAUSALIDADE CONFIGURADOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. Descabida a supressão de vegetação em Área de Preservação Permanente - APP que não se enquadra nas hipóteses previstas no art. 8º do Código Florestal (utilidade pública, interesse social e baixo impacto ambiental).
+2. Conquanto não se possa conferir ao direito fundamental do meio ambiente equilibrado a característica de direito absoluto, certo é que ele se insere entre os direitos indisponíveis, devendo-se acentuar a imprescritibilidade de sua reparação, e a sua inalienabilidade, já que se trata de bem de uso comum do povo (art. 225, caput, da CF/1988).
+3. Em tema de direito ambiental, não se cogita em direito adquirido à devastação, nem se admite a incidência da teoria do fato consumado. Precedentes do STJ e STF.
+4. A proteção legal às áreas de preservação permanente não importa em vedação absoluta ao direito de propriedade e, por consequência, não resulta em hipótese de desapropriação, mas configura mera limitação administrativa. Precedente do STJ.
+5. Violado o art. 14, § 1º, da Lei 6.938/1981, pois o Tribunal de origem reconheceu a ocorrência do dano ambiental e o nexo causal (ligação entre a sua ocorrência e a fonte poluidora), mas afastou o dever de promover a recuperação da área afetada e indenizar eventuais danos remanescentes.
+6. Em que pese ao loteamento em questão haver sido concedido licenciamento ambiental, tal fato, por si só, não elide a responsabilidade pela reparação do dano causado ao meio ambiente, uma vez afastada a legalidade da autorização administrativa.
+7. É inadmissível o recurso especial quanto a questão não decidida pelo Tribunal de origem, por falta de prequestionamento (Súmula 211/STJ).
+8. Recurso especial parcialmente conhecido e provido.
+Nas razões do presente recurso, o agravante reitera a suposta conexão entre o recurso especial e o REsp 1.239.044/MS, motivo pelo qual deveria ser reconhecida a prevenção do Min. Benedito Gonçalves para o seu julgamento. Aponta, ainda, a perda de objeto do recurso especial, em razão da vigência do novo Código Florestal. Aduz que hipóteses idênticas à versada nos presentes autos têm sido decididas de forma antagônica por esta Corte.
+É o relatório.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relator):
+A decisão agravada indeferiu liminarmente os embargos de divergência opostos pelo agravante sob os seguintes fundamentos: i) ausência de cotejo analítico, hábil a demonstrar a divergência apontada; ii) ausência de discussão, no acórdão embargado, acerca da alegada necessidade de conexão dos processos; e iii) ausência de similitude fática, hábil a comprovar a semelhança entre o acórdão embargado e o acórdão tido por paradigma, no tocante à tese de incidência de norma posterior mais benéfica.
+Pela análise das razões recursais apresentadas, verifica-se que o agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Isso porque não impugna, especificamente, os fundamentos adotados pela decisão agravada para indeferir liminarmente os embargos de divergência.
+E, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, a teor do disposto na Súmula 182 do STJ.
+Forte nessas razões, NÃO CONHEÇO do presente agravo interno.
+Tem-se como manifestamente inadmissível o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, como determina o art. 1.021, § 1º, do CPC/15, razão pela qual, na hipótese de ser desprovido este recurso, à unanimidade, fixo multa de 3% (três por cento) sobre o valor atualizado da causa, com fulcro no § 4º do art. 1.021 do CPC/15.
