@@ -1,0 +1,42 @@
+DECISÃO
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AUSÊNCIA DE TRASLADO DE PEÇA DE COLAÇÃO OBRIGATÓRIA. DESATENÇÃO AO ART. 525, I DO CPC/1973. FALTA DE CERTIDÃO DE INTIMAÇÃO DA DECISÃO AGRAVADA. CÓPIA DE ANDAMENTO PROCESSUAL NÃO É DOCUMENTO APTO A SUBSTITUIR A CERTIDÃO DE INTIMAÇÃO. SÚMULA 83/STJ. RECURSO ESPECIAL A QUE SE DÁ PROVIMENTO.
+1. Trata-se de Recurso Especial interposto por [NOME]/A-MASSA FALIDA, com fundamento no art. 105, III, alínea a da Constituição Federal, contra acórdão proferido pelo egrégio TRF da 4a. Região, assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. FALÊNCIA. PENHORA DE BENS.
+A decretação da falência do devedor, especialmente quando superveniente à penhora dos bens, como é o caso dos autos, não tem o condão de paralisar a execução fiscal, que deverá prosseguir até a alienação judicial dos bens constritos, com posterior remessa do produto decorrente desta ao juízo universal da falência (fls. 163).
+2. Nas razões do seu Apelo Especial, a parte recorrente aponta violação dos arts. 525, I e II do CPC/1973 e 140 da Lei 11.101/2005. Sustenta, em síntese, que o Agravo de Instrumento interposto na origem não poderia ter sido conhecido, diante da ausência de juntada da certidão de intimação da decisão agravada pelo agravante, não sendo o extrato de andamento processual meio idôneo para tal fim. Ademais, não houve a juntada de documento essencial à compreensão da controvérsia. De outro lado, defende que a alienação de bens deve ser em bloco, por ser mais vantajosa a todos os credores da massa falida.
+4. Apresentadas as Contrarrazões (fls. 203/210), o recurso foi admitido na origem (fls. 213).
+5. É o relatório. Decido.
+6. O recurso merece prosperar.
+7. Discute-se nos autos se a comprovação da intimação da decisão agravada pode ser feita por documento de andamento processual.
+8. Observa-se, inicialmente, que esta Corte Superior tem firmado o entendimento de que é possível a substituição da certidão de intimação, documento obrigatório nos termos do art. 525, I do CPC/1973, por outro que seja idôneo para comprovar a tempestividade do recurso. A propósito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. PEÇA OBRIGATÓRIA. CERTIDÃO DE INTIMAÇÃO DA DECISÃO AGRAVADA. AUTENTICIDADE EXAMINADA PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE COMPROVAÇÃO DA TEMPESTIVIDADE RECURSAL.
+1. A jurisprudência desta Corte perfilha entendimento de que o agravo de instrumento previsto no art. 522 do CPC pressupõe a juntada das peças obrigatórias, bem como aquelas essenciais à correta compreensão da controvérsia, nos termos do art. 525, I e II, do referido Código, de modo que a ausência das peças obrigatórias obsta o conhecimento do agravo, não sendo possível a conversão do julgamento em diligência para complementação do traslado nem a posterior juntada destas.
+2. Ainda que esta Corte tenha entendimento firmado quanto à possibilidade de se aferir a tempestividade do recurso por outros meios, no presente caso não há como acolher as alegações da parte recorrente de que esses meios são idôneos para comprovar a tempestividade do agravo, tendo em vista que o documento indicado pela recorrente não é hábil para demonstrar a tempestividade do agravo interposto na origem.
+3. Agravo regimental a que se nega provimento (AgRg no AREsp 411.619/SC, Rel. Min. RAUL ARAÚJO, DJe 4.2.2014).
+
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. PEÇA OBRIGATÓRIA. AUSÊNCIA. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+1. A certidão de intimação, peça obrigatória do agravo de instrumento, a teor do art. 525, I, do CPC, não pode ser substituída por documentos que não sejam idôneos para comprovar a tempestividade do recurso.
+2. O Tribunal de origem, ao concluir pelo não conhecimento do agravo de instrumento diante da impossibilidade, no caso, de se aferi sua tempestividade, está em consonância com a orientação do STJ. Incidência da Súmula n. 83/STJ.
+3. Agravo regimental a que se nega provimento (AgRg no REsp. 1.337.244/DF, Rel. Min. ANTONIO CARLOS FERREIRA, DJe 19.2.2015).
+9. Ocorre que também é do entendimento deste Superior Tribunal de Justiça que a simples reprodução de andamento processual não é documento apto a substituir a cópia de intimação da decisão agravada. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PEÇAS. CÓPIA DA CERTIDÃO DE INTIMAÇÃO DA DECISÃO AGRAVADA. ANDAMENTO PROCESSUAL ELETRÔNICO.
+1. A informação sobre andamento processual extraída do endereço eletrônico do Tribunal de origem não tem o condão de substituir a certidão de intimação da decisão agravada, cuja ausência acarreta a inadmissibilidade do instrumento. Precedentes.
+2. Agravo regimental não provido (AgRg no AgRg no Ag 1083948/RJ, Rel. Min. CASTRO MEIRA, DJe 23.4.2010)
+
+PROCESSO CIVIL. INFRAÇÃO À NORMA AMBIENTAL. MULTA. AGRAVO DE INSTRUMENTO. IRREGULARIDADE FORMAL. CÓPIAS EXTRAÍDAS DE SÍTIO ELETRÔNICO. CERTIDÃO DE INTIMAÇÃO DA DECISÃO AGRAVADA. AUSÊNCIA. JUNTADA DE ANDAMENTO PROCESSUAL. IMPOSSIBILIDADE.
+I. Mesmo que se pudesse entender superada a irregularidade formal para com a ausência de cópias da decisão agravada e da decisão proferida nos embargos de declaração a ela opostos, concebendo-se possível a colação das ditas peças extraídas de sítio eletrônico de Tribunal, remanesce ainda a inobservância da norma contida no art. 544, § 1o., do CPC, no tocante à não-juntada da certidão de intimação da decisão agravada.
+II. A jurisprudência desta Casa é tranqüila no sentido de que simples andamento processual não se presta a substituir a certidão de intimação da decisão agravada. Precedentes: REsp. 803.931/MG, Rel. Min. MAURO CAMPBELL MARQUES, DJe de 22/08/2008; AgRg no Ag 858.788/BA, Rel. Min. JOSÉ DELGADO, DJ de 29/06/2007; AgRg no AG 611.218/SP, Rel. Min. CARLOS ALBERTO MENEZES DIREITO, DJ de 09/05/2005; AgRg no Ag 468.527/BA, Rel. Min. FÉLIX FISHER, DJ de 24/2003.
+III. Agravo regimental improvido (AgRg no Ag 1.068.335/RS, Rel. Min. FRANCISCO FALCÃO, DJe 12.3.2009).
+10. Por fim, impende ressaltar que tendo a parte recorrida a prerrogativa de intimação pessoal conferida por lei, deveria instruir o Agravo de Instrumento com cópia de documento apto e idôneo para substituir a certidão de intimação, a fim de se aferir a tempestividade e o cumprimento do disposto no art. 525, I do CPC/1973, o que seria admissível com a juntada de cópia do termo de vista e remessa do autos, data considerada como termo inicial dos prazos processuais. A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+2. Os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito.
+3. Hipótese em que o acórdão embargado aplicou o entendimento da jurisprudência pacificada do STJ, de que é necessária a intimação do Ministério Público nos termos preconizados pelos artigos 18, II, h da LC 75/93 e 236, § 2o., do CPC, tendo como termo inicial dos prazos processuais a entrega no protocolo administrativo do órgão.
+4. Constata-se, portanto, que o escopo perseguido nestes aclaratórios é obter o rejulgamento do Agravo Regimental, e não a integração do decisum.
+5. Embargos de Declaração rejeitados (EDcl nos EDcl no REsp. 134.935/RN, Rel. Min. HERMAN BENJAMIN, DJe 26.6.2013).
+
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PEÇA OBRIGATÓRIA. CERTIDÃO DE INTIMAÇÃO. AGRAVANTE COM PRERROGATIVA DE INTIMAÇÃO PESSOAL MEDIANTE VISTA DOS AUTOS. CÓPIA DO TERMO DE VISTA. ALCANCE DA FINALIDADE DA EXIGÊNCIA LEGAL. PRINCÍPIO DA INSTRUMENTALIDADE DAS FORMAS. APLICAÇÃO.
+1. Sendo a intimação da Fazenda Nacional, por expressa previsão legal, pessoal mediante remessa dos autos (a qual será o termo inicial do prazo recursal), tem-se que, nos agravos de instrumento opostos pelo ente público, o termo de abertura de vista e remessa dos autos é suficiente para a demonstração da tempestividade do recurso, podendo, assim, substituir a certidão de intimação da decisão agravada.
+2. Recurso especial provido, determinando-se o retorno dos autos para que seja apreciado o agravo de instrumento (REsp. 1.376.656/SP, Rel. Min. BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 17.12.2014, DJe 2.2.2015).
+11. Diante do exposto, dá-se provimento ao Recurso Especial para reconhecer a ausência de peça obrigatória na formação do instrumento.
+12. Publique-se. Intimações necessárias.
