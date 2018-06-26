@@ -1,0 +1,34 @@
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. FURTO SIMPLES TENTADO. SENTENÇA CONDENATÓRIA. APELAÇÃO EXCLUSIVA DA DEFESA. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. ACÓRDÃO CONFIRMATÓRIO DA CONDENAÇÃO. NÃO OCORRÊNCIA DE NOVO MARCO INTERRUPTIVO DA PRESCRIÇÃO. JURISPRUDÊNCIA DA TERCEIRA SEÇÃO.
+1. A acusação não formulou recurso de apelação contra a sentença às fls. 249/253, dessa forma, a publicação do édito condenatório singular se tornou, em conformidade com a jurisprudência do Superior Tribunal de Justiça, o marco inicial para prescrição da pretensão punitiva.
+2. Prevalece o entendimento, nas duas Turmas que compõem a Terceira Seção, que o marco inicial para verificação da prescrição da pretensão executória é o trânsito em julgado para a acusação, nos termos estabelecidos pelo art. 112, inciso I, do Código Penal (AgRg no HC n. 426.775/SP, Ministro Félix Fischer, Quinta Turma, DJe 21/5/2018).
+3. No presente caso, seria inviável a utilização do acórdão como novo marco interruptivo da prescrição, porquanto  ..  a Corte Especial deste Tribunal Superior, no julgamento do AgRg no RE nos EDcl no REsp n. 1.301.820/RJ, Ministro Humberto Martins, DJe 24/11/2016, pacificou o entendimento de que o acórdão confirmatório da condenação não constitui novo marco interruptivo prescricional (REsp n. 1.707.986/MT, Ministro Antônio Saldanha Palheiro, Sexta Turma, DJe 21/5/2018).
+4. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental interposto pelo Ministério Público Federal contra a decisão que não conheceu do recurso especial formulado pelo Ministério Público de São Paulo e, de ofício, declarou extinta a punibilidade do agravado, pela prescrição da pretensão punitiva (fls. 398/400):
+RECURSO ESPECIAL. PENAL. FURTO SIMPLES TENTADO. VIOLAÇÃO DO ART. 155, § 2º, DO CP. PLEITO DE RECONHECIMENTO DO PRIVILÉGIO. PREJUDICIALIDADE CONSTATADA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. CONSUMAÇÃO. EXTINÇÃO DA PUNIBILIDADE. PERDA DO OBJETO RECURSAL. APLICAÇÃO DOS ARTS. 107, IV, C/C OS 109, VI; 110, CAPUT E § 1º; E 114, II, TODOS DO CP.
+Recurso especial não conhecido. De ofício, declarada extinta a punibilidade do recorrente, pela prescrição da pretensão punitiva.
+Sustenta que, no caso, não houve prescrição,  ..  uma vez que o acórdão confirmatório da condenação, prolatado em 3 de maio de 2016 (ver fls. e-STJ 328/334) teve efeito interruptivo da prescrição, nos termos da lei 11596/2007 (fl. 405).
+Pede a reconsideração da decisão agravada a fim de que seja afastada a prescrição reconhecida ou a sua submissão ao Colegiado.
+Foi dispensada a oitiva da parte agravada.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): O argumento recursal não é suficiente para infirmar os fundamentos da decisão agravada.
+Verifica-se da leitura dos autos que a acusação não formulou recurso de apelação contra a sentença às fls. 249/253, dessa forma, a publicação do édito condenatório singular se tornou, em conformidade com a jurisprudência do Superior Tribunal de Justiça, o marco inicial para prescrição da pretensão punitiva.
+Ainda que tivesse elaborado o apelo acusatório, no presente caso, seria inviável a utilização do acórdão como novo marco interruptivo da prescrição, porquanto  ..  a Corte Especial deste Tribunal Superior, no julgamento do AgRg no RE nos EDcl no REsp n. 1.301.820/RJ, Ministro Humberto Martins, DJe 24/11/2016, pacificou o entendimento de que o acórdão confirmatório da condenação não constitui novo marco interruptivo prescricional (REsp n. 1.707.986/MT, Ministro Antônio Saldanha Palheiro, Sexta Turma, DJe 21/5/2018 - grifo nosso).
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. ART. 112, I, DO CP. TERMO INICIAL. ACÓRDÃO CONFIRMATÓRIO DA SENTENÇA. INTERRUPÇÃO PRESCRIÇÃO. INOCORRÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I - Prevalece o entendimento, nas duas Turmas que compõem a Terceira Seção, que o marco inicial para verificação da prescrição da pretensão executória é o trânsito em julgado para a acusação, nos termos estabelecidos pelo art. 112, inciso I, do Código Penal.
+II - "Esta Corte Superior de Justiça possui entendimento no sentido de que, nos termos da expressa disposição legal, tida por constitucional, o marco inicial da prescrição da pretensão executória é o trânsito em julgado para a acusação, e não para ambas as partes. Precedentes. Súmula 83/STJ" (AgRg no REsp n. 1.566.101/RJ, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 3/12/2015).
+III - O Superior Tribunal de Justiça entende que " n os termos do art. 117 do Código Penal, o prazo prescricional interrompe-se pela publicação da sentença ou acórdão condenatórios recorríveis. O acórdão que confirma a condenação, mas majora ou reduz a pena, não constitui novo marco interruptivo da prescrição" (AgRg no RE nos EDcl no REsp n. 1.301.820/RJ, Corte Especial, Min. Humberto Martins, DJe de 24/11/2016).
+Agravo regimental desprovido.
+(AgRg no HC n. 426.775/SP, Ministro Félix Fischer, Quinta Turma, DJe 21/5/2018 - grifo nosso).
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO SIMPLES. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. EXTINÇÃO DA PUNIBILIDADE. ACÓRDÃO CONFIRMATÓRIO DA CONDENAÇÃO. NÃO OCORRÊNCIA DE NOVO MARCO INTERRUPTIVO DA PRESCRIÇÃO. PRESCRIÇÃO RECONHECIDA. REGIMENTAL PROVIDO.
+1. A Corte Especial deste Superior Tribunal de Justiça sedimentou o entendimento de que o acórdão confirmatório que reduz ou aumenta a pena, não interrompe o marco prescricional. Precedente.
+2. Para que o acórdão proferido no julgamento da apelação constitua marco interruptivo do lapso prescricional, é necessário que opere modificação substancial na sentença condenatória, entendendo-se esta como a alteração da tipificação conferida ao fato ou o aumento da pena, de forma a modificar, igualmente, o prazo da prescrição. AgRg no AREsp 604.634/SP, da minha relatoria, Sexta Turma, julgado em 2/2/2016, DJe 17/2/2016.
+3. Transcorrido lapso temporal superior a 4 anos desde a publicação da sentença condenatória, último marco interruptivo da prescrição, até a presente data, opera-se a prescrição da pretensão punitiva estatal.
+4. Agravo regimental provido para reconhecer a prescrição da pretensão punitiva e declarar a extinção da punibilidade do agravante.
+(AgRg no REsp n. 1.669.312/RS, Ministro Nefi Cordeiro, Sexta Turma, DJe 23/4/2018 - grifo nosso).
+Ante o exposto, nego provimento ao agravo regimental.
