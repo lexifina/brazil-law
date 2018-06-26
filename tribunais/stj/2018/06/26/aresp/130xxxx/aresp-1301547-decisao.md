@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo interposto pelo Município de Natal em face de decisão da Vice-Presidência do Tribunal de Justiça do Estado do Rio Grande do Norte que não admitiu recurso especial com base na aplicação das Súmulas 7/STJ, 83/STJ, 282/STF, 356/STF.
+O agravante sustenta que: (I) não se faz necessário o reexame de provas, estando em questão o enquadramento da situação fática delineada no acórdão recorrido ao "dispositivo da legislação adjetiva que prevê a possibilidade de retroação da interrupção da prescrição à data da propositura da ação" (cf. fl. 309); (II) é inaplicável a Súmula 83/STJ, "ao passo que o Município interpôs recurso especial com esteio no art. 105, III, "c" (fl. 310).
+É o relatório.
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois não foi devidamente impugnado motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial. No caso, como o recurso especial foi inadmitido tendo por base a Súmula 83/STJ, fundamento suficiente para a manutenção da decisão agravada, caberia ao recorrente demonstrar que o entendimento jurisprudencial não está pacificado no mesmo sentido do acórdão recorrido, ou, ainda, que o precedente não se aplicaria ao caso dos autos; providência da qual não se desincumbiu nas razões do agravo em recurso especial. Nesse sentido: AgRg no REsp 1.254.077/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe 11/11/2011.
+Incide, desse modo e por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Diante do exposto, não conheço do agravo.
+Publique-se.
