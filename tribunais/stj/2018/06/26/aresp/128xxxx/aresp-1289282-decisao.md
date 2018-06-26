@@ -1,0 +1,20 @@
+DECISÃO
+1. Cuida-se de agravo interposto por BANCO DO BRASIL S/A contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo Tribunal Regional Federal da 4ª Região, que concluiu pela possibilidade de prosseguimento do cumprimento provisório de sentença proferida na Ação Civil Pública 94.008514-1.
+Insurge-se a parte recorrente, aduzindo que esta Corte Superior, nos EREsp n. 1.319.232/DF - manejado nos autos da citada ação civil pública -, ao apreciar pedido de tutela provisória, de relatoria do eminente Ministro Francisco Falcão, conferiu-lhes efeito suspensivo, de modo que o cumprimento provisório deve ser suspenso até o julgamento dos embargos de divergência.
+É o relatório.
+DECIDO.
+2. A irresignação merece prosperar.
+Com efeito, a Quarta Turma deste Superior Tribunal, ao apreciar o Recurso Especial n. 1.732.132/RS na sessão de 17 de maio de 2018, concluiu pela impossibilidade do cumprimento provisório da sentença proferida na Ação Civil Pública 94.008514-1, ante a concessão de efeito suspensivo conferido nos EREsp n. 1.319.232/DF para que a execução individual da sentença proferida na ação civil fosse obstada, tendo em vista que o objeto dos embargos de divergência consiste na definição do índice de correção monetária a ser fixado para determinação do quantum a ser executado.
+O julgado está sintetizado nos termos da seguinte ementa:
+RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. CÉDULA DE CRÉDITO RURAL. OMISSÃO NO ACÓRDÃO RECORRIDO. INEXISTÊNCIA. DECISÃO QUE CONFERE EFEITO SUSPENSIVO A RECURSO ORIGINALMENTE DESPROVIDO DE TAL EFEITO. EXTENSÃO. EXECUÇÕES PROVISÓRIAS INDIVIDUAIS INICIADAS. NECESSIDADE DE SUSPENSÃO ATÉ O JULGAMENTO DO RECURSO PARA O QUAL DEFERIU-SE EFEITO SUSPENSIVO.
+1. Não há falar em ofensa aos arts. 1022 e 1025 do CPC/2015, se a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. O efeito suspensivo de um recurso é aquele capaz de obstar a imediata eficácia da decisão por ele impugnada, identificando-se, o prolongamento do estado de ineficácia da sentença, que se confirma sempre que, de fato, interposto o recurso dotado daquele efeito.
+3. A extensão objetiva do efeito suspensivo calha exatamente com a extensão conferida ao efeito devolutivo, haja vista a plena possibilidade de o recorrente não ter interesse em rediscutir todos os pontos da decisão judicial questionada. Isto, porque, as decisões judiciais são complexas, dotadas de provimentos formados por partes autônomas, que se apresentam segmentados em capítulos, aptos a serem atacados individualmente
+4. Ação civil pública, cuja sentença de procedência, confirmada pela egrégia Terceira Turma do STJ (REsp n. 1.319.232/DF), originou a execução individual provisória, que se pretende, por meio deste recurso especial, seja mantida suspensa, na forma em que decidido em tutela provisória (TutProv no EREsp n. 1.319.232/DF).
+5. Tutela provisória com pedido de efeito suspensivo, para que a execução individual da sentença proferida na ação civil fosse obstada, tendo em vista que o objeto dos embargos de divergência consiste na definição do índice de correção monetária a ser fixado para determinação do quantum a ser executado.
+6. Necessidade evidente de suspensão da execução, por inexistência de definição dos índices de correção e juros que deverão compor o valor a ser executado.
+7. Recurso especial provido para determinar a suspensão da execução provisória em curso, até o julgamento dos embargos de divergência (EREsp n. 1.1319.232/DF).
+(REsp 1.732.132/RS, rel. Min. Luis Felipe Salomão, Quarta Turma, julgado em 17/5/2018)
+Desse modo, por estar em dissonância com o entendimento desta Corte Superior, o aresto recorrido merece reparos.
+3. Ante o exposto, conheço do agravo e dou provimento ao recurso especial para que seja suspensa a execução provisória em curso, até o julgamento dos embargos de divergência (EREsp n. 1.1319.232/DF).
+Publique-se. Intimem-se.
