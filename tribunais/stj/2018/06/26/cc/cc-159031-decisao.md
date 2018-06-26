@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo Juízo Federal da 1ª Vara de Osasco - SJ/SP em face do Juízo de Direito da Vara Criminal de Cotia - SP.
+Extrai-se dos autos que [NOME] foi autuado em flagrante pela prática, em tese, do delito capitulado no art. 334-A caput, § 1º, IV, do Código Penal. Remetidos os autos ao Juízo de Direito da Vara Criminal de Cotia/SP, este acolheu a promoção ministerial e determinou a remessa dos autos ao Juízo Federal (fls. 25).
+Ato contínuo, o Juízo Federal suscitou o presente conflito de competência, por entender não restar demonstrada a internacionalidade das mercadorias apreendidas, obtemperando que todos os fatos se passaram em território nacional, em local certo, longe de fronteira e sem a interferência de estrangeiros (fls. 29-35).
+O Ministério Público Federal, em parecer de fls. 45-47, postulou pelo conhecimento do conflito, com a declaração de competência do Juízo de Direito da Vara Criminal de Cotia-SP.
+É o relatório.
+Decido.
+O conflito de competência ocorre quando duas ou mais autoridades se julgam competentes (positivo), incompetentes (negativo), ou quando houver divergência sobre a junção de processos, nos termos do artigo 114 do Código de Processo Penal.
+Nos termos do artigo 105, I, "d" da Constituição Federal, é da competência desta Corte Superior decidir o conflito de competência entre Juízo de Direito e Juízo Federal.
+É pacífica a jurisprudência no âmbito desta Corte Superior no sentido de que, havendo indícios da transnacionalidade da conduta, demonstrados pelo contexto fático, compete à Justiça Federal o processamento e julgamento do feito, nos termos do art. 109, V, da Constituição Federal.
+No entanto, fazendo uma análise da documentação apresentada nos presentes autos, não se verifica a presença de indícios concretos, capazes de concluir pela transnacionalidade, já que o investigado foi autuado por estar transportando cigarro desprovido de origem lícita, nada constando acerca de sua participação na introdução da mercadoria em território nacional.
+Assim, o entendimento desta Terceira Seção é pela fixação de competência da justiça estadual para processo e julgamento do feito. Vejamos:
+"PENAL E PROCESSO PENAL. CONFLITO NEGATIVO DE COMPETÊNCIA. CONTRABANDO. APREENSÃO DE CIGARROS DE ORIGEM ESTRANGEIRA. AUSÊNCIA DE INDÍCIOS DE INTERNACIONALIDADE. COMPETÊNCIA DA JUSTIÇA ESTADUAL. PRECEDENTES.
+1. O simples fato do bem apreendido ser de origem estrangeira não justifica, por si só, a fixação da competência na Justiça Federal, sendo necessário, para tanto, ao menos indícios da transnacionalidade do delito.
+ ..
+3. Conflito conhecido para declarar competente o Juízo de Direito da Única da Comarca de Angélica - MS, ora suscitado." (CC 149.750/MS, Terceira Seção, Rel. Min. Nefi Cordeiro, DJe 03/05/2017, grifei)
+"PENAL E PROCESSO PENAL. CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA ESTADUAL X JUSTIÇA FEDERAL. 1. CRIME DE TRANSPORTE DE AGROTÓXICOS DE ORIGEM ESTRANGEIRA. ART. 15 DA LEI N. 7.802/1989. INEXISTÊNCIA DE PROCESSO PARA INVESTIGAR SUPOSTO CONTRABANDO. AUSÊNCIA DE AFRONTA A BENS, SERVIÇOS OU INTERESSE DA UNIÃO. 2. AUSÊNCIA DE ELEMENTOS QUE COMPROVEM TRANSNACIONALIDADE DA CONDUTA. PROCEDÊNCIA ESTRANGEIRA DO AGROTÓXICO. FATO QUE NÃO ATRAI, POR SI SÓ, A COMPETÊNCIA DA JUSTIÇA FEDERAL. 3. CONFLITO CONHECIDO, PARA DECLARAR A COMPETÊNCIA DA JUSTIÇA ESTADUAL, A SUSCITANTE.
+1. Cuidando-se de crime de transporte de agrotóxico de origem estrangeira, sem que se tenha instaurado processo por contrabando e sem que se demonstre a transnacionalidade da conduta, não se verifica o preenchimento das hipóteses constitucionais de competência da Justiça Federal.
+2. Admitir, de forma peremptória, que todo crime que tenha relação com produtos trazidos de outro país seja da competência da Justiça Federal, independentemente da vulneração imediata, e não meramente reflexa, de bens, serviços e interesses da União, e sem que efetivamente se verifique a transnacionalidade da conduta, desvirtuaria a competência fixada constitucionalmente.
+3. Conheço do conflito para declarar competente o Juízo de Direito da 3ª Vara Criminal de Foz do Iguaçu/PR, o suscitante." (CC 125.263/PR, Terceira Seção, Rel. Min. Walter de Almeida Guilherme (Desemb. convocado do TJ/SP), DJe 30/10/2014, grifei)
+Ante o exposto, conheço do conflito de competência e declaro competente o Juízo de Direito da Vara Criminal de Cotia/SP.
+P. e I.
