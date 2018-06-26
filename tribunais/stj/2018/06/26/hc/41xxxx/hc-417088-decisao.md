@@ -1,0 +1,12 @@
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTOS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO TÍTULO. PERDA DO OBJETO.
+Writ prejudicado.
+DECISÃO
+Perdeu o objeto o presente habeas corpus impetrado em benefício de [NOME] contra o acórdão proferido pelo Tribunal de Justiça de Sergipe no HC n. 201700320985.
+Isso porque, conforme informações obtidas em consulta ao site oficial do Tribunal local, submetido o paciente ao Tribunal do Júri, em 21/6/2018, [NOME] foi condenado à pena de 18 anos de reclusão, em regime inicial fechado, como incurso no art. 121, § 2º, I e IV, c/c art. 29, do Código Penal. Negado o direto de recorrer em liberdade (Autos n. 0000059-08.2017.8.25.0038).
+Ora, o acórdão combatido nesta impetração foi proferido à luz do primevo decreto prisional, e, ante a prolação de édito condenatório, que alterou a realidade fática dos autos, esvaziou-se o objeto do pedido aqui formulado, no sentido de não estarem presentes os requisitos exigidos para a imposição da custódia cautelar (AgRg no HC n. 413.143/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 19/9/2017).
+Considerando que a sentença superveniente inaugura nova realidade processual, resta impedido o exame da questão invocada nesta Corte, sob pena de incorrer em indevida supressão de instância, sendo prescindível a utilização de fundamentos diversos para a aplicação da prejudicialidade ao objeto do habeas corpus (AgRg no RHC n. 73.759/BA, Ministro Nefi Cordeiro, Sexta Turma, DJe 7/11/2016).
+Afinal, na ocasião da prolação de sentença condenatória, em que se reconheceu, ainda que em decisão sujeita a recurso, mas em cognição exauriente, a culpa do paciente,  ..  a adequação da medida cautelar imposta foi reexaminada à luz de um espectro fático-processual de maior amplitude e profundidade. Assim, o estado de liberdade, atualmente, é alvo de ato jurisdicional superveniente, autônomo, de requisitos específicos e que desafia impugnação própria. (STF: HC n. 138.238/PR, Ministro Edson Fachin, DJe 22/2/2017).
+De mais a mais, o anterior título judicial não revelava nenhuma ilegalidade aparente, uma vez que apresentada fundamentação concreta para a decretação da prisão preventiva, no qual a instância ordinária constatou a periculosidade dos agentes pelas circunstâncias em que o crime foi cometido, de forma fria e calculista, típico de grupos de extermínio (fls. 49/50).
+Pelo exposto, a teor do disposto no art. 34, XI, do RISTJ, julgo prejudicado o presente habeas corpus.
+Publique-se.
