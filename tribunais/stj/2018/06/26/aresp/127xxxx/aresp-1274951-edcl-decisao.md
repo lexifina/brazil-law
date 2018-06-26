@@ -1,0 +1,16 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por ALUBRAZ INDUSTRIA COMÉRCIO E REPRESENTAÇÕES LTDA em face da decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação específica de todos os fundamentos da decisão que inadmitiu o recurso especial.
+Em suas razões, sustenta a parte Embargante, em síntese, a existência de omissão na decisão embargada, ao argumento de que:
+"Ocorre que, tendo em vista o dispositivo final de decisão que aqui se pede aclaramento e levando-se em conta o pendão procrastinatório da agravante, requer ao Juízo manifestação acerca deste mesmo dispositivo e texto transcrito, visto que a decisão do Tribunal a quo, no que tange a honorários de sucumbência, decidiu de forma inapropriada, hoje prontamente repudiada pela jurisprudência vigente sobre o assunto, havendo compensação de honorários de sucumbência.
+(..)
+Ora, tendo em vista a profusão de recursos e tendo em vista que, apesar de existir sentença transitada em julgado, os autos volveram a este Tribunal (STJ) pela segunda vez e tendo em vista ainda o histórico processual da agravante, requer ao Juízo, para que estes autos não retornem ao mesmo Tribunal por questões já decididas, que declare que os honorários agora cominados não poderão ser compensados, vistos seu caráter punitivo, constituídos aqui de forma separada e cumulativa quanto as descritos em acórdão, podendo ser executados pelo procurador, de forma autônoma e sem compensação, preservados os parâmetros e limites decididos e apontados na mesma decisão que aqui se requer pronunciamento." (fls. 823-824).
+A parte Embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+Os embargos não comportam acolhimento.
+O novo Código de Processo Civil, ao prever o instituto da majoração dos honorários advocatícios em razão do julgamento de recurso, condicionou sua aplicação, aos processos cíveis, desde que haja prévia fixação de honorários pela instância a quo.
+Ademais, conforme dicção do Enunciado Administrativo n.º 7 deste Superior Tribunal de Justiça, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+Veja-se que, no presente caso, não há omissão uma vez que o dispositivo da decisão embargada é claro no sentido de que somente serão majorados se houver "prévia fixação de honorários de advogado pelas instâncias de origem". Assim, a contrario sensu, se não houve prévia fixação, em razão de se tratar na origem de agravo de instrumento interposto contra decisão interlocutória, não haverá, também, majoração.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, REJEITO os embargos de declaração e advirto a parte Embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2.º, do Código de Processo Civil).
+Publique-se. Intimem-se.
