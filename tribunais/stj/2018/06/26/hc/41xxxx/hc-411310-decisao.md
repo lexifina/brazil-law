@@ -1,0 +1,21 @@
+DECISÃO
+[NOME], paciente neste habeas corpus, alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco no HC. 0008745-62.2016.8.17.0000.
+Consta dos autos que o paciente foi condenado à pena de 24 anos de reclusão, em regime inicial fechado, mais multa, pela prática dos crimes de tráfico de drogas e associação ao tráfico.
+Busca a defesa a fixação das penas-base no mínimo legal e a incidência da minorante prevista no art. 33, § 4º, da Lei de Drogas.
+Sem pedido liminar.
+Instruídos os autos, o Ministério Público Federal manifestou-se pelo não conhecimento da ordem.
+Decido.
+O Tribunal de origem não conheceu do habeas corpus lá impetrado, pelos seguintes fundamentos (fls. 273-281):
+Na hipótese, o habeas corpus foi impetrado como sucedâneo da apelação criminal, recurso adequado para impugnar as sentenças do magistrado de primeiro grau. Como curial, a irresignação em torno das sentenças de condenação proferidas por juiz singular deve ser objeto de apelação, nos termos do disposto no art. 593, inciso I, do Código de Processo Penal.
+ ..
+In casu, a questão posta à apreciação consiste em analisar possível nulidade decorrente da falta ou de fundamentação deficiente nas fases de fixação da pena e do regime de cumprimento.
+ ..
+Desse modo, seria temerário desconsiderar, neste momento, a fundamentação utilizada pelo juiz a quo, quando, por certo, será feita uma análise aprofundada e mais adequada no julgamento da apelação interposta por este Tribunal, que poderá, como visto, agregar novos fundamentos para manter a valoração negativa das circunstâncias judiciais impugnadas.
+Diverge a doutrina e, sobretudo, a jurisprudência sobre a viabilidade de se examinar habeas corpus quando há recurso de apelação pendente de julgamento. Dúvidas não há de que, em se tratando de discussão acerca da liberdade de locomoção, diretamente afetada por ilegalidade ou abuso de poder, o cabimento do remédio heroico é indiscutível. O problema surge quando a controvérsia se estabelece em nulidade ou em ilegalidade ocorrida na sentença condenatória, que refletirá, por via transversa, na liberdade individual.
+Esse tema talvez tenha assumido notável relevância em razão do espectro de abrangência que tem sido dado, pela jurisprudência, ao habeas corpus. Se saudável foi a aceitação do writ como remédio para "todos os males", impõe definir os contornos da situação em que o mandamus é impetrado simultaneamente com o recurso cabível e o assunto tratado naquele restringe-se a capítulo deste último.
+Por isso mesmo é que o Superior Tribunal de Justiça, na esteira do que vem decidindo o Supremo Tribunal Federal, tem restringido o uso do remédio constitucional em substituição ao recurso próprio (apelação, agravo em execução, recurso especial), tampouco à revisão criminal, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus.
+Vale dizer, o habeas corpus, cuja tutela emergencial recai sobre a liberdade de locomoção, é cabível quando houver manifesta ilegalidade que reflita diretamente na liberdade do indivíduo. Essas, aliás, eram as ideias apregoadas por [NOME], ao afirmar que a pendência de recurso próprio não impede a impetração de habeas corpus quando se tratar de flagrante ilegalidade, com reflexos diretos na liberdade individual. Afinal, "o habeas corpus é remédio; não é recurso" (História e Prática do Habeas Corpus. 3. ed. Campinas: Bookseller, 2007, p. 292).
+Não se discute que, no caso, o eventual reconhecimento da ausência de fundamentação na majoração da pena-base poderá ocasionar reflexos imediatos em sua liberdade de locomoção. Contudo, em consulta ao sítio eletrônico do Tribunal de origem, noto que a apelação interposta já foi julgada em 3/5/2018.
+Assim, embora seja passível a análise, em habeas corpus, das alegações da defesa, considero razoáveis as ponderações feitas pela Corte de origem, de que a apreciação dessas matérias implica considerações que, em razão da sua amplitude, merecem ser mais bem examinadas em apelação (já julgada, frise-se).
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
