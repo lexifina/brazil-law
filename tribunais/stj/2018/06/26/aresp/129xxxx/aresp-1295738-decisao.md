@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] MARIA FERNANDES contra decisão exarada pela il. Presidência da Seção de Direito Privado do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), que inadmitiu o recurso especial.
+Cuidam os autos, na origem, de ação de rescisão contratual proposta por [NOME] MARIA FERNANDES em desfavor de ANTONIO ABRÃO JORGE METNE.
+O il. Magistrado julgou parcialmente procedentes pedidos (sentença às fls. 140/142).
+Diante disso, ANTONIO ABRÃO JORGE METNE interpôs apelação, a qual foi parcialmente provida pelo eg. TJ-SP, nos termos do v. acórdão, assim ementado (fl. 206):
+"Locação de bem imóvel. Pedido de rescisão contratual fundado na falta de condições de habitação.
+Pedido considerado prejudicado ante a restituição do imóvel ao término do contrato. Pedido de reparação material improcedente. Procedente, porém, o pedido de danos morais. Apelo do réu alegando cerceamento de defesa e inocorrência de danos morais. Preliminar de cerceamento de defesa afastada. Elementos dos autos suficientes à formação da convicção do juízo monocrático. Dano moral não ocorrido. Locatária que permaneceu no imóvel até o fim do contrato, o que indica que o imóvel estava habitável. Ausência de comprovação do nexo entre a lesão sofrida no tornozelo da locatária e as obras parciais realizadas no imóvel locado.-Ação que passa a ser improcedente com a atribuição dos ônus da sucumbência à autora. Apelo provido em parte".
+Os embargos de declaração opostos foram rejeitados (acórdão às fls. 228/232).
+Inconformada, [NOME] interpôs recurso especial, com fulcro no art. 105, inciso III, alíneas "a" e "c", da CF/88, no qual alega, além da divergência jurisprudencial, violação dos arts. 9º e 22 da Lei n.º 8.245/91; dos arts. 186 e 927 do CC/02; dos arts. 355, inciso I, 369 e 442 do CPC/2015.
+Como dito, o apelo nobre foi inadmitido às fls. 262/263.
+Irresignada, [NOME] MARIA FERNANDES manejou o presente agravo em recurso especial refutando os fundamentos da decisão que inadmitiu seu apelo nobre.
+Não foi apresentada contraminuta (certidão de fl. 285).
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+No apelo nobre que pretende trânsito, sustenta-se violação dos arts. 355, inciso I, 369 e 442 do CPC/2015, ao argumento de que o julgamento antecipado do mérito teria cerceado seu direito de defesa. Contudo, melhor sorte não socorre ao pleito recursal. Isso porque o eg. Tribunal estadual, soberano na análise das provas carreadas aos autos, entendeu prescindível a perícia, porquanto as provas documentais e contratuais seriam suficientes para o deslinde da controvérsia.
+É entendimento pacífico desta eg. Corte Superior de que o mero julgamento antecipado do lide não gera cerceamento de defesa, bem como que a análise acerca da suficiência do acervo probatório demandaria revolvimento fático-probatório, providência incompatível com o apelo especial, conforme Súmula 7/STJ. Corroboram essa conclusão os seguintes precedentes:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. AFRONTA AO ART. 330, I, DO CPC. FUNDAMENTO INATACADO. SÚMULA Nº 283/STF. JULGAMENTO ANTECIPADO. PROVAS SUFICIENTES. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA Nº 7/STJ. DECISÃO MANTIDA.
+(..)
+2. Verificar se as provas colhidas na origem era suficientes para o julgamento antecipado da lide, exigiria o reexame do contexto fático-probatório, o que é vedado em sede de recurso especial, nos termos da Súmula nº 7/STJ.
+3. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 570.204/GO, QUARTA TURMA, Rel. Ministro LUIS FELIPE SALOMÃO, julgado em 20/11/2014, DJe de 26/11/2014, grifou-se)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA.OMISSÃO. NÃO OCORRÊNCIA. ACIDENTE. RESPONSABILIDADE. REEXAME FÁTICO-PROBATÓRIO. ENUNCIADO 7 DA SÚMULA DO STJ. LIVRE CONVENCIMENTO. PERÍCIA. REQUERIMENTO GENÉRICO. AUSÊNCIA DE IMPUGNAÇÃO. ENUNCIADO 283 DA SÚMULA DO STF. NÃO PROVIMENTO.
+(..)
+3. Como destinatário final da prova, cabe ao magistrado, respeitando os limites adotados pelo Código de Processo Civil, a interpretação da produção probatória, necessária à formação do seu convencimento.
+4. Agravo a que se nega provimento."
+(AgRg no AREsp 121.314/PI, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/05/2013, DJe 21/05/2013, grifou-se)
+Outrossim, o recurso também não merece prosperar quanto aos arts. 186 e 927 do CC/02; e arts. 9º e 22 da Lei n. 8.245/91. Sob as alegadas infringências, afirma-se que a conduta do recorrido, de descumprir as obrigações legais do contrato de locação, geraria danos morais. O eg. TJ-SP, por sua vez, mediante análise soberana das provas carreadas aos autos, concluiu pelo descabimento dos danos extrapatrimonais, conforme transcrição dos seguintes excertos do v. acórdão estadual (fls. 207/208):
+"Ademais, está incontroverso nos autos que houve no imóvel locado a necessidade de reparos por contra de problemas no encanamento, pois é o que está alegado na petição inicial e confirmado na contestação. Os reparos até foram iniciados, mas as partes divergem quanto à conclusão da obra. Enquanto a autora disse que houve abandono, o réu defende-se argumentando que a autora não permitiu a entrada de pedreiros no imóvel para a finalização do problema.
+Saber-se se houve ou não conclusão da obra de reparo, depois da entrega do imóvel, tornou-se irrelevante para o pedido rescisório. Tendo havido a restituição do imóvel ao final do prazo contratual, foi verificado na r. sentença recorrida, de modo acertado, a perda do interesse no desfazimento do contrato locativo.
+O pedido de condenação ao pagamento de danos materiais foi improcedente e não há apelo sobre isso danos morais, provê-se o apelo do réu, respeitado como sempre o entendimento do digno Juiz de Direito prolator da r. sentença recorrida, Dr. [NOME].
+Se a locatária alegou falta de condições da habitação, é incongruente ter permanecido no imóvel até o término do contrato de locação, quando restituiu as chaves a pedido do locador (fl. 121/127). Essa permanência é indicativa de que havia, pois, condições de moradia no imóvel. Além disso, a alegação de que teve lesão no tornozelo por conta da obra
+E com relação à condenação no pagamento de danos morais, provê-se o apelo do réuk, respeitado como sempre o entnedimetno do digno Juiz de Direito prolator da r. sentença recorrida, Dr. [NOME].
+A razão para não ter havido dano moral é simples.
+Se a locatária alegou falta de condições da habitação, é incongruente ter permanecido no imóvel até o término do contrato de locação, quando restituiu as chaves a pedido do locador (fl. 121/127). Essa permanência é indicativa de que havia, pois, condições de moradia no imóvel. Além disso, a alegação de que teve lesão no tornozelo por conta da obra inacabada dentro de seu apartamento não está comprovada à saciedade.
+É certo que há atestado comprovando a lesão, mas as declarações de fl. 57 e 61 feita por pessoas que não estavam comprometidas legalmente a dizer a verdade e sem o contraditório, não comprovam o nexo entre a lesão e as obras inacabadas realizadas no bem locado." (grifou-se)
+Nesse cenário, para se alterar o entendimento ora transcrito, quanto à ausência de danos morais indenizáveis, seria necessária a revisão de matéria fático-probatória, o que é inadmissível em sede de recurso especial, nos termos da Súmula 7/STJ.
+Assim, forçoso reconhecer que o presente apelo não merece prosperar.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Majoro os honorários advocatícios recursais, nos termos do art. 85, § 11, do CPC/2015, de 10% (dez por cento) para 11% (onze por cento) sobre o valor da causa.
+Publique-se.
