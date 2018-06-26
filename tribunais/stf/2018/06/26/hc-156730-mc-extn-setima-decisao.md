@@ -1,0 +1,25 @@
+Decisão: Trata-se de pedido de extensão da decisão liminar, com fundamento no art. 580 do CPP (Pet. STF 31.279/2018, eDOC 124, p. 1-9), deferida nestes autos em 15.5.2017 (eDOC 60, p. 1-9), formulado pela defesa de PATRICIA BITTENCOURT DE ALMEIDA IRIARTE.
+     A requerente sustenta em síntese:
+    “(...) já tem contra si determinada as mesmas cautelares impostas ao Paciente: a proibição de manter contato com os demais investigados e a entrega do passaporte – já entregue ao Juízo singular, inclusive (doc. 02). Além disso, já renunciou às procurações que lhe outorgavam poderes para movimentações financeiras das empresas envolvidas na operação ‘Rizoma’ (doc. 03), bem como não mais frequenta as empresas mencionadas, cumprindo todas as cautelares a si impostas.
+    A Requerente se encontra em situação fático-jurídica mais favorável que o Paciente, inclusive. Está afirmação não seria demais.
+    (...)
+    Mesmo diante deste quadro, a Requerente se encontra cumprindo medida cautelar mais gravosa que as impostas por Vossa Excelência ao Paciente e aos citados co-investigados, uma vez que ainda perdura o monitoramento remoto por meio da tornozeleira eletrônica, além de todas as outras.
+    Não se nega que o monitoramento eletrônico representa um avanço como alternativa à prisão preventiva. Por outro lado, não se pode negar a estigmatização a qual as pessoas que utilizam esse equipamento passam socialmente.
+    Não obstante, o monitoramento eletrônico se mostra medida cautelar sem eficácia prática na presente demanda, sendo a proibição de contato com os demais investigados e a retenção de passaporte – repise-se: medidas cautelares que a Requerente já vem cumprindo –, medidas suficientes e adequadas ao regular andamento do feito. Importante destacar, ainda, que a Requerente se encontra em liberdade em razão da concessão de medida liminar pelo Ministro Sebastião Reis Junior, o qual compõe a mesma Sexta Turma do STJ que indeferiu liminarmente o Habeas Corpus do ora Paciente argumentando a incidência do Enunciado de Súmula 691 do STF, já afastada por Vossa Excelência.” (eDOC 124, p. 7-8)
+    Requer ao final “a extensão dos efeitos da decisão que deferiu a liminar ao Paciente à Requerente, substituindo-se as medidas cautelares impostas a si pelas mesmas determinadas em face do Paciente” (eDOC 124, p. 9)
+    É o breve relatório.
+    Decido.
+    A extensão da decisão a corréu é cabível se não houve motivos relevantes de caráter pessoal distinguindo os casos (art. 580 do CPP).
+    Em outras palavras, significa dizer que a extensão de decisão para corréu, inclusive em habeas corpus, somente pode abranger aqueles que estejam em situação objetivamente idêntica à do beneficiado.
+    No caso dos autos, o Ministro Sebastião Reis Júnior, então relator do HC 446.337/RJ, em trâmite no STJ, deferiu a substituição da prisão preventiva da ora peticionária por medidas cautelares previstas no art. 319 do CPP, dentre elas a monitoração eletrônica (eDOC 125, p. 1-11).
+    Diante disso, sustenta a requerente que, apesar de encontrar-se em situação fático-jurídica mais favorável com relação aos demais acusados, se encontra cumprindo medida cautelar mais gravosa que as impostas por Vossa Excelência ao Paciente e aos citados co-investigados, uma vez que ainda perdura o monitoramento remoto por meio da tornozeleira eletrônica, além de todas as outras (eDOC 124, p. 7-8).
+    Portanto, no presente caso (HC 156.730 MC-Extn-Sétima/RJ), neste juízo prévio e provisório, com fundamento no art. 580 do CPP, identificando adequação fática e jurídica com os argumentos e razões de decidir contidos na liminar deferida nestes autos em favor do paciente Milton de Oliveira Lyra Filho (eDOC 60, p. 1-9), entendo que os fundamentos usados pelo magistrado de origem, ao decretar a prisão preventiva em desfavor da ora requerente (Processo 0502785- 73.2018.4.02.5101), também se revelam inidôneos para manter a segregação cautelar ora em apreço, visto que a referida prisão preventiva da mesma forma não atendeu aos requisitos do art. 312 do CPP, especialmente no que diz respeito à indicação de elementos concretos, os quais, no momento da decretação, fossem imediatamente incidentes a
+    Ante o exposto, com fundamento no art. 580 do CPP, defiro o pedido de extensão de liminar para suspender a eficácia do decreto de prisão preventiva de Patricia Bittencourt de Almeida Iriarte, a qual deverá ser posta em liberdade, se por algum outro motivo não estiver presa, pelas seguintes medidas cautelares diversas da prisão, na forma do art. 319 do CPP:
+    a) proibição de manter contato com os demais investigados, por qualquer meio (inciso III);
+    b) proibição de deixar o País, devendo entregar seu(s) passaporte(s) em até 48 (quarenta e oito) horas (inciso IV e artigo 320 do CPP).
+    Comunique-se, com urgência, ao Juízo da 7ª Vara Federal Criminal da Seção Judiciária do Rio de Janeiro (Processo 0502785- 73.2018.4.02.5101).
+    Publique-se.
+    Brasília, 26 de junho de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
