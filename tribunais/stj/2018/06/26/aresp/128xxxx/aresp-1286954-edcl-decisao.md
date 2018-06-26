@@ -1,0 +1,22 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por [NOME] em face da decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte Embargante, em síntese, que:
+"13. Com efeito, mostra-se que os pontos ditos como ausentes foram exaustivamente e extensivamente explicados/aprofundados.
+14. A matéria foi amplamente estudada para demonstrar que, no âmbito da Decisão que denegou seguimento ao Recurso Especial, havia violação à disposição de lei infraconstitucional, dentre elas as resoluções do Banco Central  e as razões pelas quais deveria o julgador receber o recurso em tela, posto que preenchia todo o exigido pela legislação vigente." (fl. 636).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte Embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Ressalte-se que o Superior Tribunal de Justiça pacificou o entendimento, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, de que não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+A propósito, da análise do recurso de agravo em recurso especial observa-se que a parte Agravante deixou de impugnar especificamente os fundamentos da decisão agravada, em especial a questão do "não cabimento de REsp por ofensa a resolução".
+Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada. Ilustrativamente: AgRg no AREsp 226.300/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 04/12/2012, DJe 13/12/2012.
+Entretanto, ao invés de refutar a decisão agravada, a parte Embargante tão somente continua reafirmando, em diversas passagens destes embargos declaratórios, que efetivamente houve ofensa à resolução, conforme se observa dos seguintes passagens, in verbis:
+"4. O fundamento utilizado no âmbito dos recursos, especificamente no "tópico I - DO CABIMENTO DO AGRAVO EM RECURSO ESPECIAL", no caso da alínea "a" do artigo 105 da Carta Magna, a Embargante foi enfática ao escrever que o acórdão vergastado do Egrégio Tribunal de Justiça infringiu o inciso V do artigo 6º, incisos IV e VIII do artigo 39 e inciso IV do artigo 51 do Código de Defesa do Consumidor, além do artigo 2º da Resolução nº 2.682 e do inciso III do artigo 1º da Resolução nº 3.694 do Banco Central do Brasil, além dos artigos 421 e 422 do Código Civil.
+ ..
+9. Isso, por óbvio, afrontaria a legislação infraconstitucional, inclusive as já mencionadas resoluções  o que se enquadraria na alínea "a" do Inciso III do artigo 105 da Constituição Federal  , exorbitando seus direitos enquanto credoras do
+ ..
+11. Neste diapasão, foi frisado que houve contrariedade à legislação e que, por isso, o Recurso Especial deveria prosperar, posto que a Resolução nº 3.694 do Banco Central do Brasil, de 26/03/2009, dispõe sobre a prevenção de riscos na contratação de operações e na prestação de serviços por parte de instituições financeiras e demais instituições autorizadas a operar pelo Banco Central do Brasil, na redação do inciso III do art. 1º dada pela Resolução nº 3.919, de 25/11/2010, vigente à época das contratações, anterior à redação dada pela Resolução nº 4.283, de 04/11/2013." (fls. 634/636.)
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, REJEITO os embargos de declaração e advirto a parte Embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2.º, do Código de Processo Civil).
+Publique-se. Intimem-se.
