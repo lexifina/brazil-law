@@ -1,0 +1,18 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Primeira Vara Plantão da Comarca de Mogi das Cruzes/SP, no processo nº 0000726-42.2018.8.26.0616, converteu em preventiva a prisão em flagrante do paciente, ocorrida em 16 de abril de 2018, em virtude da suposta prática da infração prevista no artigo 33, cabeça (tráfico de drogas), da Lei nº 11.343/2006. Destacou a presença de prova da materialidade e indícios suficientes da autoria, reportando-se à apreensão de 300 gramas de maconha, rádios comunicadores e 1 simulacro de arma de fogo na residência do paciente, durante investigação alusiva a roubo no qual utilizado veículo próprio. Mencionou antecedentes por crimes de furtos a revelarem personalidade desajustada. Frisou necessária a custódia para garantir a ordem pública e a instrução processual. Afastou a viabilidade de medida cautelar diversa, tendo-a como insuficiente.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 454.413/SP, indeferido liminarmente.
+    O impetrante assinala a excepcionalidade da preventiva, realçando pertinente o princípio da não culpabilidade. Ressalta inobservados os requisitos descritos no artigo 312 do Código de Processo Penal. Sustenta a ilegalidade da prisão em flagrante, afirmando-a decorrente da entrada dos policiais na residência do paciente sem mandado judicial. Refuta o fundamento atinente aos maus antecedentes, dizendo que o Juízo levou em conta processo-crime já extinto devido à absolvição. Salienta tratar-se de decisão contrária à jurisprudência do Supremo. Anota o cabimento de medida cautelar alternativa.
+    Postula, no campo precário e efêmero, o implemento de liberdade provisória, com ou sem aplicação de cautelar diversa. No mérito, busca a confirmação da providência.
+    Não foi possível consultar o andamento do processo junto ao sítio do Tribunal de Justiça, porquanto inviabilizado por sigilo.
+    A fase é de apreciação do pedido de medida de urgência.
+    2. A prisão em flagrante e a gradação do tráfico de drogas, considerada a quantidade de entorpecente e os objetos apreendidos na residência do paciente – 300 gramas de maconha, rádios comunicadores e simulacro de arma de fogo –, revelam estar em jogo a preservação da ordem pública. Sem prejuízo do princípio da não culpabilidade, a constrição se impunha, ante a periculosidade, ao menos sinalizada. Daí, no caso, ter-se como razoável e conveniente a decisão atacada. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    No tocante ao que articulado quanto à suposta ilegalidade decorrente da entrada dos policiais na residência do paciente sem mandado judicial, observem haver sido o ato submetido a procedimento próprio, qual seja, a audiência de custódia, em que consignada, pelo Juízo, a regularidade da atuação policial, destacando a existência de fundadas suspeitas envolvendo delito patrimonial, bem assim tratar-se o tráfico de drogas de crime permanente. O Pleno do Supremo, no julgamento do recurso extraordinário nº 603.616, em 5 de novembro de 2015, assentou que a entrada forçada em domicílio, sem mandado judicial, é lícita, mesmo em período noturno, quando amparada em fundadas razões, posteriormente justificadas, que indiquem ocorrer, dentro da casa, situação de flagrante delito.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 26 de junho de 2018.
+Ministro MARCO AURÉLIO
+Relator
