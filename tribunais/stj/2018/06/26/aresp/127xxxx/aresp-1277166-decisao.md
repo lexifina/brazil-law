@@ -1,0 +1,58 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RECURSO QUE NÃO INFIRMA OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DO DISPOSTO NO ART. 932, III, DO NCPC. AGRAVO NÃO CONHECIDO.
+DECISÃO
+LEOMAR LUIZ [NOME] e [NOME] (LEOMAR e outro) promoveram ação rescisória para desconstituir o aresto que julgou a apelação nos autos dos embargos à execução, constando [NOME] ([NOME]) como parte adversa.
+LEOMAR e outro relataram que houve julgamento dos embargos à execução, mesmo após a informação de que teria ocorrido transação entre as partes. Explicaram, ainda, que, a despeito do acordo firmado, o advogado de [NOME] resolveu perseguir os honorários de sucumbência fixados na sentença de 10/7/1996, em desacordo com os termos da transação firmada no dia 16/7/1996.
+Diante da execução dos honorários, LEOMAR e outro opuseram novos embargos do devedor que, de início, foram acolhidos com aceitação da tese de que a cobrança de honorários não teria lugar, ante os termos do acordo. No entanto, a citada sentença veio a ser modificada no âmbito da apelação interposta, que reconheceu que o acordo não teria efeitos sobre os honorários sucumbenciais.
+Dessa forma, a presente ação rescisória está fulcrada no art. 485, V, VII, e IX, do CPC/73, sob o argumento de o julgado rescindendo amparou-se em erro de fato, uma vez que não considerou a transação.
+O Tribunal a quo julgou procedente o pedido formulado na ação rescisória, nos termos da seguinte ementa:
+AÇÃO RESCISÓRIA. TRANSAÇÃO JUDICIAL EM PROCESSO EXECUTIVO. AUSÊNCIA DE MENÇÃO EXPRESSA AOS EMBARGOS DO DEVEDOR. INCIDENTE QUE TEM POR ESCOPO O OFERECIMENTO DE DEFESA. AUTONOMIA PROCEDIMENTAL QUE NÃO SE CONFUNDE COM INDEPENDÊNCIA EM RELAÇÃO AO FEITO EXECUTIVO. TRANSAÇÃO EFETUADA PELOS LITIGANTES. INTERPRETAÇÃO DA AVENÇA CONFORME O PRINCÍPIO DA BOA-FÉ OBJETIVA. PROCEDÊNCIA DOS PEDIDOS. HONORÁRIOS ADVOCATÍCIOS. OBSERVÂNCIA AO DISPOSTO NO ART. 82, § 2o, DO CPC.
+Os embargos à execução são forma de defesa e, mesmo na vigência do CPC/1973, sua autonomia procedimental não representava independência em relação à execução, sem a qual não haveria interesse processual a justificar o exame dos embargos.
+A transação concretiza solução ao objeto da lide e, sendo válida, faz desaparecer o interesse na imposição de uma resolução heterocompositiva pela autoridade estatal. Cuidando de direito patrimonial disponível e de partes maiores, capazes e devidamente representadas, ela pode ser concretizada a qualquer tempo, inclusive após o trânsito em julgado.
+Como relação contratual, a transação deve se interpretada em conformidade com o princípio da boa-fé objetiva, atentando-se antes à intenção das partes do que ao sentido literal das palavras lançadas no instrumento firmado (CC, art. 112).
+Os honorários advocatícios devem ser fixados em atenção aos critérios estabelecidos no art. 82, § 2o, do Código de Processo Civil, levando-se em consideração o grau de zelo do profissional, o lugar de prestação do serviço, a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço (e-STJ, fl. 1.390).
+[NOME] opôs embargos de declaração que foram rejeitados.
+Inconformado, [NOME] manejou recurso especial, amparado no art. 105, III, alínea a, da CF, alegando ofensa aos arts. 1.022, II, e parágrafo único, e 1.025 do NCPC, 26, § 2º, e 794, III, do CPC/73. Sustentou que (1) o aresto recorrido incorreu em omissões; (2) o Tribunal de origem deixou de se manifestar sobre a ausência de extinção da execução pelo acordo, uma vez que esta foi apenas suspensa; (3) a Corte local também deixou de apreciar o fato de que os honorários advocatícios foram ressalvados no acordo; e, (4) ocorreu coisa julgada.
+Contrarrazões (e-STJ, fls. 1.478/1.500).
+O apelo nobre não foi admitido em virtude do seguinte (1) ausência de ofensa ao art. 1.022 do NCPC; e, (2) incidência das Súmulas nºs 283 do STF, 5 e 7 do STJ.
+Nas razões do presente agravo em recurso especial, [NOME] alegou que (1) foram violados os arts. 1.022, II, e parágrafo único, e 1.025 do NCPC, 26, § 2º e 794, II, do CPC/73; (2) o aresto recorrido incorreu em omissões; (3) o Tribunal de origem deixou de se manifestar sobre a ausência de extinção da execução pelo acordo, uma vez que esta foi apenas suspensa; (4) a Corte local também deixou de apreciar o fato de que os honorários advocatícios foram ressalvados no acordo; e, (5) ocorreu a coisa julgada.
+Contraminuta (e-STJ, fls. 1.551/1.572).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da análise do presente inconformismo, verifica-se que o agravo não se dirigiu especificamente contra os fundamentos da decisão que negou seguimento ao apelo nobre, pois [NOME], na ocasião, não refutou, de forma arrazoada, os óbices de incidência das Súmulas nºs 283 do STF, 5 e 7 do STJ.
+No agravo em recurso especial, [NOME] somente alegou que (1) foram violados os arts. 1.022, II, e parágrafo único, e 1.025 do NCPC, 26, § 2º e 794, II, do CPC/73; (2) o aresto recorrido incorreu em omissões; (3) o Tribunal de origem deixou de se manifestar sobre a ausência de extinção da execução pelo acordo, uma vez que esta foi apenas suspensa; (4) a Corte local também deixou de apreciar o fato de que os honorários advocatícios foram ressalvados no acordo; e, (5) ocorreu a coisa julgada.
+Assim, não houve a demonstração do adequado enfrentamento dos fundamentos da decisão agravada no que tange à aplicação das Súmulas nºs 283 do STF, 5 e 7 do STJ.
+O agravo em recurso especial, reitere-se, não infirmou adequadamente os óbices processuais apontados na decisão agravada, devendo ser mantido o seu não conhecimento.
+Conforme já decidiu o STJ:
+ ..  à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge.
+(AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008 - sem destaque no original)
+Vale pontuar que o art. 1.021, § 1º, do NCPC determina que na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada, o que não foi observado no presente caso.
+O agravo em recurso especial não se mostrou viável uma vez que apresentado em desacordo com os requisitos preconizados pelo art. 544, § 4º, I, do CPC/73 (art. 932, III, do NCPC), devendo ser mantida a decisão agravada.
+Nesse sentido, seguem os precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. ART. 544, § 4º, I, DO CPC/73 (ATUAIS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ) E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO. RECURSO QUE NÃO IMPUGNA, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+I. Trata-se de Agravo interno, interposto em 19/04/2016, contra decisão monocrática, publicada em 14/04/2016, na vigência do CPC/2015.
+II. No caso, o Recurso Especial não foi admitido, na origem, pela ausência de omissão no acórdão recorrido, pela incidência das Súmulas 284 e 356/STF e 7 e 83/STJ, bem como porque ausente a demonstração da divergência jurisprudencial invocada. O Agravo em Recurso Especial interposto não impugnou todos os óbices, o que conduziu ao seu não conhecimento, nos termos do art. 544, § 4º, I, do CPC/73 (atuais arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RISTJ), cuja decisão ora é agravada regimentalmente.
+III. No presente Agravo interno, a parte recorrente apresenta razões outras, deixando de impugnar, novamente, os fundamentos da decisão agravada.
+IV. Interposto Agravo interno sem infirmar, especificamente, os fundamentos da decisão agravada e apresentando, ainda, outra fundamentação, dela dissociada, constitui óbice ao conhecimento do inconformismo a Súmula 182 desta Corte, em face do art. 1.021, § 1º, do CPC/2015.
+V. Renovando-se, no Agravo interno, o vício que comprometia o conhecimento do Agravo em Recurso Especial, inarredável a edição de novo juízo negativo de admissibilidade.
+VI. Agravo interno não conhecido.
+(AgInt no AREsp 866.675/SP, Rel. Ministra ASSUSETE MAGALHÃES, Segunda Turma, j. 17/5/2016, DJe 25/5/2016 - sem destaque no original )
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - INDENIZAÇÃO POR DANOS MORAIS COM PEDIDO DE TUTELA ANTECIPADA DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA DA LAVRA DESTE SIGNATÁRIO QUE CONHECEU EM PARTE DO AGRAVO (APENAS NO TOCANTE À ALEGAÇÃO DE USURPAÇÃO DE COMPETÊNCIA) PARA NEGAR-LHE PROVIMENTO, APLICANDO, NO MAIS, O ÓBICE DA SÚMULA 182/STJ. IRRESIGNAÇÃO DO RÉU.
+1. Conforme a jurisprudência firmada no âmbito do Superior Tribunal de Justiça, é possível a incursão no mérito da lide pelo Tribunal local, em sede de juízo de admissibilidade, quando necessária para análise dos pressupostos constitucionais de admissibilidade do recurso especial, sem que isso configure usurpação de competência, nos termos do enunciado n. 123 da Súmula deste STJ. Precedentes.
+2. É cediço que a ausência de impugnação específica aos fundamentos da decisão que nega seguimento ao recurso especial atrai a incidência do art. 544, § 4º, I, do CPC/1973 (atual 932, III, do NCPC), e a aplicação, por analogia, do enunciado n. 182 da Súmula deste STJ. Precedentes.
+3. Não é cabível, em agravo regimental, valer-se a parte agravante de razões não assentadas no agravo em recurso especial, com o extemporâneo propósito de demonstrar não ser aplicável o óbice que motivou a incidência do enunciado n. 182 da Súmula deste STJ.
+Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 773.710/SP, Rel. Ministro MARCO BUZZI, Quarta Turma, j. 10/5/2016, DJe 17/5/2016 - sem destaque no original )
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRELIMINAR DE PREVENÇÃO. IMPROCEDÊNCIA. ART. 70, § 5º, DO RISTJ. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. ART. 544, § 4º, I, DO CPC. RECURSO IMPROVIDO.
+1. Rejeição da questão preliminar se a distribuição foi efetuada por prevenção da turma julgadora, nos termos do que dispõe o art. 70, § 5º, do RISTJ.
+2. O agravante deve impugnar especificamente todos os fundamentos que levaram a não admissão do recurso especial, nos termos do art. 544, § 4º, I, do CPC, sob pena de não conhecimento do agravo. Precedentes.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 602.281/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 12/2/2015, DJe 3/3/2015 - sem destaque no original)
+Nessas condições, NÃO CONHEÇO do agravo em recurso especial.
+No entanto, não obstante a aplicabilidade das regras do NCPC e o não conhecimento do recurso, deixo de majorar os honorários advocatícios, uma vez que já foram arbitrados em 20% sobre o valor atualizado da causa.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
