@@ -1,0 +1,29 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por CESAR AUGUSTO SOARES DE ALMEIDA, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+O Recorrente, em suas razões de recurso especial, defende que não pode ser obrigado ao pagamento de taxas de manutenção criada por associação de moradores da qual não é associada e que tampouco aderiu ao ato que instituiu tal encargo.
+É o relatório.
+Decido.
+A Segunda Seção do Superior Tribunal de Justiça, sob o rito dos recursos especiais repetitivos, no julgamento do Recurso Especial n.º 1.280.871/SP, vinculado ao Tema n.º 882/STJ, consolidou o entendimento no sentido de que "as taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram", nos termos do acórdão assim ementado:
+"RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA - ART. 543-C DO CPC - ASSOCIAÇÃO DE MORADORES - CONDOMÍNIO DE FATO - COBRANÇA DE TAXA DE MANUTENÇÃO DE NÃO ASSOCIADO OU QUE A ELA NÃO ANUIU - IMPOSSIBILIDADE.
+1. Para efeitos do art. 543-C do CPC, firma-se a seguinte tese: "As taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram".
+2. No caso concreto, recurso especial provido para julgar improcedente a ação de cobrança."
+(REsp 1280871/SP, Rel. p/ Acórdão Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 11/03/2015, DJe 22/05/2015.)
+Oportuna, ainda, a transcrição do seguinte trecho do voto vinculado ao referido recurso especial repetitivo, do Ministro relator para o acórdão, em que analisa o confronto jurídico entre a liberdade associativa, de um lado, e, de outro, o enriquecimento sem causa dos moradores do local, in verbis:
+"Assim, cumpre dizer, inicialmente, que se afigura indissociável, para o deslinde da presente controvérsia, o confronto entre as questões alusivas à liberdade associativa (art. 5.º, inc. XX, da Constituição Federal), aliada à inexistência de fato gerador de obrigação civil, e à vedação ao enriquecimento sem causa (art. 884, do Código Civil), tal como propõe o eminente relator.
+Efetivamente, como já aludido, o Tribunal de origem expressamente enfrentou a questão atrelada ao direito associativo do querelado, reputando-a, contudo, irrelevante, a considerar que a utilização dos serviços postos à disposição do proprietário de imóvel situado em loteamento fechado seria, segundo sua convicção, suficiente para a cobrança dos correlatos valores, sob pena de enriquecimento sem causa.
+ ..
+ .. , nos julgados emanados desta Corte Superior de Justiça, apontados inclusive pelo ilustre Ministro Relator, reconhece-se a importância da anuência ou da adesão do proprietário aos termos constitutivos da associação de moradores, para efeito de tais cobranças, preponderando, inclusive, a liberdade associativa ao enriquecimento sem causa.
+Por conseguinte, não há como restringir a análise do recurso especial à questão tão-somente afeta ao enriquecimento indevido, sem contudo, na espécie, perpassá-la sobre a possibilidade de violação ou não do direito constitucional de liberdade associativa.
+ ..
+Inexiste, portanto, espaço para a concepção de uma "aceitação tácita" a ser imposta pelo Poder Judiciário como preceitua o voto do eminente relator, pois, na ausência de uma legislação que regule especificamente a presente matéria, prepondera, na hipótese, o exercício da autonomia da vontade a ser manifestado pelo proprietário ou, inclusive, pelo comprador de boa-fé, emanada da própria garantia constitucional da liberdade de associação e da legalidade, uma vez que ninguém pode ser compelido a fazer algo senão em virtude de lei.
+ ..
+E, no caso em testilha, a concepção da aceitação tácita ou da preponderância do princípio da vedação ao enriquecimento sem causa, acaba por esvaziar o sentido e a finalidade da garantia fundamental e constitucional da liberdade de associação, como bem delimitou o Pretório Excelso no julgamento do RE n.º 432.106/RJ, encontrando a matéria, inclusive, afetada ao rito da repercussão geral (RG no AI n.º 745.831/SP, rel. Min. DIAS TOFFOLI, DJ 29/11/2011).
+A associação de moradores é mera associação civil e, consequentemente, deve respeitar os direitos e garantias individuais, aplicando-se, na espécie, a teoria da eficácia horizontal dos direitos fundamentais.
+ ..
+Concluindo, a aquisição de imóvel situado em loteamento fechado em data anterior à constituição da associação não pode, nos termos da jurisprudência sufragada por este Superior Tribunal de Justiça, impor ao adquirente que não se associou, nem a ela aderiu, a cobrança de encargos.
+Se a compra se opera em data posterior à constituição da associação, na ausência de fonte criadora da obrigação (lei ou contrato), é defeso ao poder jurisdicional, apenas calcado no princípio enriquecimento sem causa, em detrimento aos princípios constitucionais da legalidade e da liberdade associativa, instituir um dever tácito a terceiros, pois, ainda que se admita a colisão de princípios norteadores, prevalece, dentre eles, dada a verticalidade de preponderância, os preceitos constitucionais, cabendo tão-somente ao Supremo Tribunal Federal, no âmbito da repercussão geral, afastá-los se assim o desejar ou entender."
+Na hipótese dos autos, o Tribunal de origem, ao reconhecer que " deve prevalecer a tese de legitimidade da cobrança mesmo aos proprietários não filiados à associação que administra o loteamento - fl.506, decidiu em contrariedade com a orientação consolidada nesta Corte Superior, razão pela qual merece reforma o acórdão recorrido.
+Ante o exposto, DOU PROVIMENTO ao recurso especial para julgar improcedentes os pedidos iniciais pleiteados pela associação Autora.
+Custas e honorários advocatícios, que fixo em 15% sobre o valor atualizado da causa, integralmente a cargo da parte Autora.
+Publique-se. Intimem-se.
