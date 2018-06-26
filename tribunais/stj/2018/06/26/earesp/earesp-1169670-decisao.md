@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Embargos de Divergência opostos por [NOME] e [NOME], em face de acórdão proferido pela col. Sexta Turma, de relatoria do em. Ministro Nefi Cordeiro, no julgamento do Agravo Interno no Agravo em Recurso Especial, o qual foi improvido.
+Depreende-se dos autos que o agravo em recurso especial teve o provimento negado diante do óbice da Súmula 7/STJ. Interposto agravo, esse foi improvido, conforme a seguinte ementa (fl. 805):
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLEITO ABSOLUTÓRIO COM FULCRO NOS INCISOS I E IV DO ART. 386 DO CPP. REEXAME FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. Tendo as instâncias ordinárias concluído não ter sido comprovada a inexistência do fato e a ausência de efetiva contribuição dos acusados para a conduta imputada na denúncia, mantendo a absolvição com fundamento no inciso II do art. 386 do CPP, a desconstituição do julgado exigiria revolvimento fático-probatório, o que encontra óbice na Súmula 7/STJ.
+2. Agravo regimental improvido."
+Irresignados, foram aviados os presentes Embargos de Divergência, indicando como paradigmas os seguintes acórdãos: Recurso Especial n. 734.451/SP, Primeira Turma, Rel. Min. Luiz Fux; AgInt no AREsp 1183767/SP, Quarta Turma, Rel. Min. Luis Felipe Salomão; e Recurso Especial nº 856.706/AC, Quinta Turma, de minha relatoria.
+Por fim, pugna pelo provimento do recurso, "alterando-se a decisão recorrida da 6ª Turma, aplicando-se o mesmo entendidamente das 1ª, 4ª e 5ª Turmas deste Sodalício, para conhecer do recurso especial que objetiva a revaloração do conjunto probatório delineado nas decisões hostilizadas, alijando-se a negativa de vigência e contrariedade ao art. 619 e art. 620, CPP, ou, então a contrariedade ao art. 156, CPP e negativa de vigência dos inciso I e IV do art. 386, CPP, modificando a hipótese absolutória para qualquer das duas subjugadas pela Corte Estadual, nem que seja por meio de Ordem de Habeas Corpus concedido de ofício" (fl. 828).
+É o relatório.
+Decido.
+Exsurge dos autos a impossibilidade de conhecimento dos presentes embargos de divergência diante da aplicabilidade da Súmula 315 desta Corte e da ausência de cotejo analítico entre o v. acórdão embargado e os paradigmas citados.
+Inicialmente, impõe-se verificar que o órgão fracionário não adentrou no mérito do recurso especial em virtude de aplicação da súmula 07/STJ, porquanto a alteração do fundamento absolutório demandaria revolvimento fático probatório.
+Assim sendo, aplica-se o disposto na súmula 315 deste Col. Superior Tribunal de Justiça, que assim preconiza: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial."
+Esta Corte, aliás, já firmou orientação no sentido de que a presente via não se presta para tal desiderato. Confira-se:
+"PROCESSUAL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. CONTROVÉRSIA NÃO DEBATIDA NO ACÓRDÃO APONTADO COMO PARADIGMA. SÚMULA 315 DO STJ.PRETENSÃO DE REDISCUSSÃO DE REGRA TÉCNICA DE CONHECIMENTO DO RECURSO ESPECIAL. INVIABILIDADE. DIVERGÊNCIA NÃO DEMONSTRADA.
+1. Os embargos de divergência pressupõem a similitude fático-jurídica entre os julgados confrontados, com a menção de pontos que identifiquem ou aproximem os acórdãos paragonado e paradigma.
+2. No caso, o acórdão apontado como paradigma não debate o mérito da controvérsia trazida à baila, porquanto não conheceu do agravo interno devido ao óbice da Súmula 182 do STJ. Nos termos do enunciado da Súmula 315 do STJ, aplicável por analogia: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+3. A jurisprudência desta Corte não admite a oposição de embargos de divergência para rediscutir regras técnicas de conhecimento do recurso especial.
+4. Não caracterizada a similitude fático-jurídica entre os acórdãos embargado e paradigma, inexiste configuração da divergência jurisprudencial, como exige o art. 266, § 1º, c/c o art. 255, § 2º, do RISTJ. Agravo interno improvido" (AgInt nos EDcl nos EAREsp n. 763.260/SP, Corte Especial, Rel. Min. Humberto Martins, DJe 5/4/2017).
+"AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA. AGRAVO EM RECURSO ESPECIAL. CONFRONTO ANALÍTICO. INEXISTÊNCIA. SÚMULA N. 315 DO STJ. INCIDÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Este Superior Tribunal de Justiça possui entendimento pacífico de que a divergência jurisprudencial que autoriza o processamento dos embargos de divergência deve ser precedida do confronto analítico entre os casos apontados como dissidentes. Não basta a mera transcrição de ementas.
+2. A inadmissão do recurso especial por incidência das Súmulas n. 7 e 284 do STJ impede a oposição dos embargos de divergência, nos termos da Súmula n. 315 do STJ.
+3. Agravo regimental não provido." (AgRg nos EAREsp 547.712/MG, Terceira Seção, Rel. Min. Rogerio Schietti Cruz, DJe 01/03/2018, grifei).
+Acrescenta-se ainda, que os Embargos de Divergência também não podem prosperar em razão da ausência do necessário cotejo analítico, uma vez que a parte simplesmente transcreveu as ementas dos acórdãos que entende serem paradigmas, sem demonstração da similitude fática que permite o comparativo entre os julgados.
+Não houve o devido cotejo analítico entre os acórdãos, mas mera transcrição da ementa, sem efetivamente realizar comparativo entre os julgados proferidos na forma preconizada pelo art. 1.043, §4º, do Código de Processo Civil e art. 266, § 4º, do Regimento Interno deste Superior Tribunal de Justiça, o que também impede o conhecimentos do recurso.
+A propósito, colaciono os seguintes julgados da Corte Especial:
+"PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO. OCORRÊNCIA. AUSÊNCIA DE DEMONSTRAÇÃO DE DISSÍDIO JURISPRUDENCIAL ENTRE OS ACÓRDÃOS EM COTEJO.
+1. Configurada a omissão na análise da divergência em relação a um dos arestos paradigmas indicados nas razões recursais.
+2. A admissão dos embargos de divergência reclama a comprovação do dissídio jurisprudencial na forma prevista no RISTJ, com a demonstração das circunstâncias fáticas e processuais que assemelham os casos confrontados, bem como a adoção de soluções diversas aos litígios.  ..
+4. Embargos de declaração acolhidos apenas para sanar a omissão, sem atribuição de efeito infringente ao julgado" (EDcl no AgRg nos EDcl nos EREsp 1359976/PB, Corte Especial, Rel. Min. Luís Felipe Salomão, DJe 20/05/2016, grifei).
+"PROCESSO CIVIL. HONORÁRIOS. DISSÍDIO NÃO DEMONSTRADO. REGRA TÉCNICA DE CONHECIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 315 DO STJ. INCIDÊNCIA. AUSÊNCIA DE COTEJO ANALÍTICO.
+1. O agravante pleiteia modificar acórdão que aplicou o óbice da Súmula 7/STJ ao caso concreto, para revisar valor arbitrado a título de honorários. Revela-se inviável, porém, rever - em embargos de divergência - o conhecimento do recurso especial.  ..
+4. A divergência não se caracteriza, ante a ausência do necessário cotejo analítico entre os acórdãos confrontados para demonstrar os trechos que, eventualmente, possam identificá-los.
+Agravo interno improvido." (AgInt nos EDv nos EAREsp 1030534/MS, Corte Especial, Rel. Min. Humberto Martins, DJe 26/04/2018).
+Ante o exposto, com fundamento no art. 266-C do RISTJ, indefiro liminarmente os embargos de divergência.
+P. e I.
