@@ -1,0 +1,19 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] - COOPERATIVA DE TRABALHO MEDICO contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA COM PEDIDO DE REPARAÇÃO DE DANO MORAL. PRELIMINARES ACOLHIDA EM PARTE. PLANO DE SAÚDE.
+PROCEDIMENTO CIRÚRGICO. MATERIAL INADEQUADO. FALHA NO SERVIÇO. EVIDENCIADO. RISCO AO PACIENTE. DANO MORAL. 1. Em havendo excesso na condenação, possível decotá-lo, por se tratar de julgamento ultra petita. 2. Não há se falar em cerceamento de defesa, tendo em vista que a documentação acostada aos autos é suficiente para apreciação da causa, de forma que permitido é o julgamento antecipado do feito. 3. Como a falha no tocante à liberação do material a ser utilizado no procedimento cirúrgico restou evidenciada, inegável a aplicação do art. 14, do CDC, ao caso. Logo, em considerando os transtornos sofridos pelo autor, além do agravamento do seu estado de saúde, curial que ele tem direito a uma indenização pelo dano moral sofrido, sendo razoável o valor fixado pelo Julgador de Origem. APELAÇÃO CONHECIDA E PARCIALMENTE PROVIDA.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto no art. 944 do CC.
+Alega, em síntese, que os danos morais foram fixados de forma exorbitante (R$ 15.000,00 - quinze mil reais), pedindo sua minoração.
+É o relatório. DECIDO.
+2. No tocante ao valor indenizatório, cumpre ressaltar que esta Corte entende ser admissível modificá-lo em recurso especial somente quando o montante estabelecido na origem for excessivo ou irrisório, de forma a violar os princípios da proporcionalidade e da razoabilidade, o que não ocorreu na espécie. Isso porque o Tribunal de origem fixou o quantum de danos morais em R$ 15.000,00 (quinze mil reais).
+Seguindo essa linha, confira-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL. DANOS MORAIS. PLANO DE SAÚDE. INDEVIDA RECUSA DE COBERTURA. DANO MORAL. QUANTUM INDENIZATÓRIO. PRINCÍPIO DA PROPORCIONALIDADE RESPEITADA. AGRAVO NÃO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça entende ser passível de indenização a título de danos morais a recusa indevida/injustificada pela operadora do plano de saúde em autorizar a cobertura financeira de tratamento médico.
+2. O entendimento desta Corte é pacífico no sentido de que o valor estabelecido pelas instâncias ordinárias a título de indenização por danos morais pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no caso em tela.
+3. Não se verifica no montante fixado - R$ 15.000,00 - violação do princípio da proporcionalidade, a configurar situação teratológica, motivo pelo qual o caso não se revela hipótese de intervenção deste Tribunal Superior no quantum estabelecido pelas instâncias ordinárias.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 640.989/RJ, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 6/8/2015, DJe 14/8/2015). A irresignação não prospera.
+3. Ademais, este Superior Tribunal já deixou assente a impossibilidade do conhecimento do dissídio lastreado na diferença entre os valores arbitrados a título de danos morais ante a inexistência de similitude fática, já que "em se tratando de danos morais, torna-se incabível a análise do recurso com base na divergência pretoriana, pois, ainda que haja grande semelhança nas características externas e objetivas, no aspecto subjetivo, os acórdãos serão sempre distintos" (AgRg no Ag n. 1.179.405/SP, Relator o Ministro João Otávio de Noronha, Quarta Turma, DJe de 13/4/2010).
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
