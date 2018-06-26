@@ -1,0 +1,55 @@
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. QUANTIDADE DO ENTORPECENTE APREENDIDO. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. HABEAS CORPUS NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+3. No caso, a prisão preventiva encontra-se suficientemente fundamentada, porquanto, quando da prisão em flagrante do paciente, foram apreendidos 936 gramas de maconha, o que justifica seu encarceramento cautelar para garantia da ordem pública, consoante pacífico entendimento desta Corte, no sentido de que a quantidade, a natureza ou a diversidade dos entorpecentes apreendidos podem servir de fundamento ao decreto de prisão preventiva.
+4. É inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do paciente.
+5. O fato de o paciente possuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva.
+6. É incabível, na estreita via do habeas corpus, a análise de questões relacionadas à negativa de autoria, por demandarem o reexame do conjunto fático-probatório dos autos.
+7. Habeas corpus não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do pedido.
+Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de habeas corpus impetrado em favor de [NOME] contra acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+Colhe-se dos autos que o paciente teve a prisão em flagrante convertida em preventiva, pela suposta prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006.
+Neste habeas corpus, o impetrante sustenta, em síntese, que: a) "trata-se de réu primário, com bons antecedentes, com endereço fixo e emprego" (e-STJ, fl. 2); b) "não há nos autos nenhum indicativo concreto e específico do paciente que indique o periculum libertatis" (e-STJ, fl. 4); c) "não se pode ignorar que a droga apreendida não estava na posse do paciente, mas sim em local público de fácil acesso a qualquer pessoa" (e-STJ, fl. 4); d) "os laudos definitivos não apresentaram análise de suposta grande quantidade de droga, pelo contrário, os dois laudos definitivos juntados aos autos analisaram e constataram apenas a apreeensão de 3,20 gramas de maconha e de 1,20 gramas de maconha" (e-STJ, fl. 12).
+Pleiteia a revogação da custódia provisória do paciente ou a substituição dela por medidas cautelares diversas.
+O pedido liminar foi indeferido.
+O Ministério Público Federal manifestou-se pelo não conhecimento da ordem.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. QUANTIDADE DO ENTORPECENTE APREENDIDO. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. HABEAS CORPUS NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+3. No caso, a prisão preventiva encontra-se suficientemente fundamentada, porquanto, quando da prisão em flagrante do paciente, foram apreendidos 936 gramas de maconha, o que justifica seu encarceramento cautelar para garantia da ordem pública, consoante pacífico entendimento desta Corte, no sentido de que a quantidade, a natureza ou a diversidade dos entorpecentes apreendidos podem servir de fundamento ao decreto de prisão preventiva.
+4. É inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do paciente.
+5. O fato de o paciente possuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva.
+6. É incabível, na estreita via do habeas corpus, a análise de questões relacionadas à negativa de autoria, por demandarem o reexame do conjunto fático-probatório dos autos.
+7. Habeas corpus não conhecido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+No caso dos autos, a prisão preventiva do paciente foi decretada pelos seguintes fundamentos:
+"No presente caso, justificável é a prisão preventiva com base no art. 312 do Código de Processo Penal, ou seja, para assegurar a aplicação a Lei Penal, vez que os indicados foram indiciados nas sanções da Lei de Drogas, mais precisamente nos artigos 33 e 35 da mesma Lei, na qual tem como sujeito passivo a saúde pública e ademais, nesses casos, notável é a periculosidade pois, verifica-se que através de tais delitos, a sociedade perece diante da prática de crimes mais severos.
+Analisando os autos, verifico que restou demonstrada a existência do crime e indícios da autoria.
+Pelos depoimentos, há a incidência da autoria em face dos denunciados, ademais, noto que a quantidade de droga apreendida destina-se ao tráfico, vez que foram encontrados, conforme Laudo, à f. 8 e 9, sendo uma barra de 873,30g de maconha e 7 porções acondicionadas na quantidade de 63,40g de maconha, deste modo, infere-se que estaria em fase de comercialização." (e-STJ, fl. 44)
+Como se vê, a prisão preventiva encontra-se suficientemente fundamentada, porquanto, quando da prisão em flagrante do paciente, foram apreendidos 936 (novecentos e trinta e seis) gramas de maconha, o que justifica seu encarceramento cautelar para garantia da ordem pública, consoante pacífico entendimento desta Corte, no sentido de que a quantidade, a natureza ou a diversidade dos entorpecentes apreendidos podem servir de fundamento ao decreto de prisão preventiva.
+Sobre o tema, os seguintes precedentes:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. CIRCUNSTÂNCIAS CONCRETAS. GRANDE PREVENTIVA. FUNDAMENTAÇÃO. CIRCUNSTÂNCIAS CONCRETAS. GRANDE QUANTIDADE DE DROGA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO DESPROVIDO.
+ ..
+2. No caso em análise, as decisões precedentes demonstraram a necessidade da medida extrema em razão da periculosidade do paciente, ressaltando dados extraídos dos autos, notadamente a expressiva quantidade de droga - aproximadamente 700g (setecentos gramas) de maconha -, circunstância que justifica a preservação da prisão preventiva para a garantia da ordem pública.
+3. Recurso ordinário em habeas corpus desprovido."
+(RHC 56.159/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 03/09/2015, DJe de 10/09/2015)
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. ILEGALIDADE. AUSÊNCIA.
+1. Apresentada fundamentação concreta, evidenciada na quantidade de droga apreendida e nas circunstâncias do crime, que sugerem a traficância, porquanto foi localizada uma porção de aproximadamente 170 gramas de maconha, duas balanças de precisão e um gravador de imagens de monitoramento por câmeras, não há que se falar em ilegalidade do decreto de prisão preventiva.
+2. Recurso ordinário improvido."
+(RHC 43.481/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 02/06/2015, DJe de 12/06/2015)
+Pelos mesmos motivos acima delineados, entendo que, no caso, é inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do paciente. Sobre o tema: RHC 81.745/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 1º/6/2017, DJe 9/6/2017; RHC 82.978/MT, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 1º/6/2017, DJe 9/6/2017; HC 394.432/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 1º/6/2017, DJe 9/6/2017.
+Ademais, o fato de o paciente possuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento desta Corte: RHC 81.823/PE, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; HC 352.480/MT, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 01/06/2017, DJe 07/06/2017; RHC 83.352/MS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 23/05/2017, DJe 30/05/2017.
+Por fim, é incabível, na estreita via do habeas corpus, a análise de questões relacionadas à negativa de autoria, por demandarem o reexame do conjunto fático-probatório dos autos. Consoante precedentes desta Corte, "o habeas corpus não é o meio adequado para a análise de tese de negativa de autoria ou participação por exigir, necessariamente, uma avaliação do conteúdo fático-probatório, procedimento incompatível com a via estreita do writ, ação constitucional de rito célere e de cognição sumária" (RHC 87.004/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 03/10/2017, DJe 11/10/2017; RHC 85.325/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 19/10/2017, DJe 27/10/2017; HC 411.362/MG, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 05/10/2017, DJe 17/10/2017).
+Ante o exposto, não conheço do habeas corpus.
+É como voto.
