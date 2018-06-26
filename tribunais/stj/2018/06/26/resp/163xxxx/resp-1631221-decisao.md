@@ -1,0 +1,28 @@
+EMENTA
+RECURSO ESPECIAL. DIREITO PENAL. CRIME CONTRA O SISTEMA FINANCEIRO NACIONAL. EVASÃO DE DIVISAS. OPERAÇÃO OURO VERDE. ADESÃO AO REGIME ESPECIAL DE REGULARIZAÇÃO CAMBIAL E TRIBUTÁRIA. PAGAMENTO INTEGRAL DO DÉBITO TRIBUTÁRIO ANTES DO TRÂNSITO EM JULGADO DA AÇÃO PENAL. EXTINÇÃO DA PUNIBILIDADE. RECURSO PREJUDICADO.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] com fundamento nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+DIREITO PENAL. CRIME CONTRA O SISTEMA. FINANCEIRO NACIONAL. "DÓLAR-CABO". EVASÃO DE DIVISAS. ART. 22, PARÁGRAFO ÚNICO, DA LEI 7.492/86. DOSIMETRIA. CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO CRIME.
+1. O Sistema Financeiro Nacional, consoante preconiza o art. 192 da Constituição Federal, configura-se como um complexo estruturado de forma a promover o desenvolvimento equilibrado do País e a servir os interesses da coletividade, em todas as partes que o compõem. O bem jurídico tutelado pela Lei 7.492/86 é difuso e não a simples higidez de determinada instituição financeira.
+Configura-se o crime de evasão de divisas (art. 22, parágrafo único, da Lei 7.492/86) quando o agente se utiliza da estrutura de uma instituição financeira clandestina para realizar operações dólar-cabo;
+3. O engenhoso e sofisticado esquema utilizado nas condutas dirigidas à evasão de divisas, por ser circunstância de caráter objetivo, não se presta para fundamentar o desvalor da culpabilidade do agente, a qual deve ser analisada a partir das condições pessoais do réu. Vetorial reputada neutra, servindo o referido fundamento, contudo, na justificação da desfavorabilidade das circunstâncias do delito.
+4. Verificado que o montante de recursos evadidos não ostenta grau de excepcionalidade, não deve a pena-base afastar-se do mínimo legal ao argumento de que as consequências do delito são graves.
+A insurgência especial está fundada na violação dos artigos 169 do Código de Processo Penal; 155, 156, II do Código de Processo Penal, 334, I do Código de Processo Civil; 374, I, do Código de Processo Civil; 381 e 384 do Código de Processo Penal; 383 e 384 do Código de Processo Penal; 403, § 3º, 381, III e 571, II, do Código de Processo Penal; 41 do Código de Processo Penal; 7º, § 3º, da Lei nº 12.850/13; 398 do Código de Processo Civil e 479 do Código de Processo Penal; 157 do Código de Processo Penal; 22, parágrafo único, da Lei nº 7.492/86 e 65 da Lei nº 9.069/05; 4º, § 16 da Lei nº 12.850/13; 59, III, do Código Penal e 49, §1º, 59 e 60 do Código Penal.
+Às fls. 1319/1365, o Tribunal Regional Federal da 4ª Região encaminhou documento informando a adesão do recorrente ao Regime Especial de Regularização Cambial e Tributária - RERCT.
+Às fls. 1413/1414, o Ministério Público Federal manifestou-se no sentido de que seja declarada extinta a punibilidade do recorrente.
+É o relatório.
+A Lei n. 13.254/2016 estabelece que:
+Art. 5º - A adesão ao programa dar-se-á mediante entrega da declaração dos recursos, bens e direitos sujeitos à regularização prevista no caput do art. 4º e pagamento integral do imposto previsto no art. 6º e da multa prevista no art. 8º desta Lei.
+§ 1º. O cumprimento das condições previstas no caput antes de decisão criminal, em relação aos bens a serem regularizados, extinguirá a punibilidade dos crimes previstos:
+ ..
+VI - no caput e no parágrafo único do art. 22 da Lei n. 7.492, de 16 de junho de 1986;
+ ..
+§ 2º - A extinção da punibilidade a que se refere o § 1º:
+II - somente ocorrerá se o cumprimento das condições se der antes do trânsito em julgado da decisão criminal condenatória;
+Ao que se tem, nos termos do art. 5º, § 1º, VI e § 2º, II, da Lei nº 13.254/16, o cumprimento das condições previstas no programa de repatriação de recursos do exterior, com a entrega da referida declaração e pagamento integral dos impostos e multas devidos, antes do trânsito em julgado da sentença penal condenatória, resulta na extinção da punibilidade dos crimes previstos nos incisos I a VII do § 1º da Lei n. 13.254/2016.
+Às fls. 1319/1365 dos autos consta adesão do recorrente ao Regime Especial de Regularização Cambial e Tributária (RERCT), com a juntada de diversos documentos, entre os quais, a Declaração de Regularização Cambial e Tributária - DERCAT e DARF com o recolhimento do valor relativo ao imposto e multa incidentes.
+Às fls. 1413/1414, o Ministério Público Federal manifestou-se no sentido de que seja declarada extinta a punibilidade do recorrente por estarem "atendidas as exigências constantes do art. 5º, VI, §§ 2º, II e e 5º, da Lei nº 13.254/16, pois se trata de crime de evasão de divisas (parágrafo único do art. 22 da Lei n o 7.492, de 16 de junho de 1986), sendo as moedas mantidas no exterior de origem lícita, sendo que, segundo informações prestadas pela Receita Federal, existe registro de entrega de Declaração de Regularização Cambial e Tributária (DERCAT) na base de dados daquela Secretaria, para o contribuinte [NOME], com total de ativos de R$ 289.677,42 e pagamentos tempestivos de imposto e multa correspondentes, num total de R$ 86.903,22."
+Assim, estando regularizada a situação cambial e tributária do recorrente, impõe-se declarar a extinção da punibilidade quanto ao fato em exame.
+Neste sentido, cito as seguintes decisões monocráticas: HC n. 365.117/CE, de Relatoria do Ministro Rogerio Schietti Cruz, Dje 09/09/2016; Resp n. 1.451.201/PR, de Relatoria do Ministro Felix Fischer, Dje 31/10/2017.
+Ante o exposto, declaro extinta a punibilidade de [NOME] quanto ao fato em exame, restando prejudicado o recurso especial.
+Publique-se.
