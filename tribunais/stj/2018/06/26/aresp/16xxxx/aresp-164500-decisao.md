@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo interposto pela CONSTRUTORA ALAVANCA LTDA contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Execução de sucumbência. Transação que registra cláusula segundo a qual cada parte responde pelos honorários de seu advogado e a homologa à revelia de seu Patrono. Prevalece o direito de o advogado prosseguir na execução de sucumbência pois a tal cláusula não abrange os honorários sucumbenciais que constituem de acordo com a lei direito próprio do profissional.
+Recurso não provido. (e-STJ, fl. 194)
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 204/209).
+Nas razões do recurso especial, a parte agravante alega violação dos arts. 20 e 618, I, do CPC/73.
+Sustenta, em síntese, que com a superveniência do acordo firmado entre as partes, em que ficou acertado que cada uma arcaria com os respectivos honorários patronais (fl. 150), a sentença que condenou a empresa agravante ao pagamento de honorários de sucumbência teria perdido a sua exigibilidade (fls. 65/66) . Assim, afirma que deveria ter sido declarada nula a execução da verba honorária, pela inexigibilidade do título executivo, o que impediria eventual protesto especial para fins falimentares.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Quanto ao mérito, a fim de proporcionar melhor compreensão da questão trazida a exame, cumpre registrar que o feito originalmente se trata de execução de título extrajudicial, movida pela CONSTRUTORA ALAVANCA LTDA contra GERSON VIEIRA PRIOSTE, fundada em descumprimento de contrato de compromisso de compra e venda de imóvel.
+Constatada a ilegitimidade passiva, a execução foi extinta por carência de ação, condenando-se a exequente ao pagamento de custas e honorários. (fls. 65/66).
+Diante dessa condenação, deu-se início ao processo executivo quanto a verba de sucumbência. Restando infrutífera a penhora de bens, foi requerida a extinção do processo executivo para os fins dos arts. 2º e 10 da Lei de Falências (fls. 127 e 141) e, assim, a execução foi extinta pela desistência (fl. 142).
+Inconformada, a empresa agravante apelou, noticiando a existência de acordo posterior à sentença dispondo sobre a responsabilidade de cada parte pela verba honorária de seu patrono, o que teria deixado sem exigibilidade a sentença que condenou a agravante em honorários de sucumbência, devendo ser considerada nula porquanto inexigível o título executivo, nos termos do art. 618, I, do CPC/73.
+O Tribunal de origem, ao examinar a irresignação, negou provimento ao recurso para manter a sentença (fls. 192/196), nos exatos termos:
+"A verba que compreende os honorários pertence, por força de lei, ao Patrono e como tal constitui direito alheio às partes litigantes que sobre eles não podem transacionar.
+A decisão que fixa os honorários constitui título executivo judicial (Lei 8906, art.24). Se na transação nenhuma cláusula dispôs expressamente sobre esses honorários até pelo fato de que a transação ocorreu à sua revelia, intangível o seu direito que, no caso concreto, segue o trilho que o próprio postulante almeja com o requerimento de desistência de prosseguir na execução (RTJ 90/686 c/c RTJ 162/857 in Theotônio, 39ª. Ed. 2007, p. 1201 art. 24(2ª) e 3)." (e-STJ, fls. 195/196)
+O v. Acórdão dos embargos de declaração esclareceu, ademais:
+"O causídico afirma que a transação não chegou ao seu conhecimento e logo seu direito autônomo se mantém, Seu cliente não poderia dispor de seu direito ao consignar em transação que cada parte responde pela honorária de seu respectivo Patrono.
+Assim, a rigor, o efeito pretendido nos embargos assumem caráter infringente do julgado e a tanto um tal recurso não serve, data vênia.
+Não se deu nulidade e não se afrontou o disposto no inciso I do artigo 618 do estatuto processual." (e-STJ, fls. 208/209)
+Nesse contexto, verifica-se que o Tribunal de origem afastou a nulidade da execução, constatando que nesse caso em que a transação foi realizada sem conhecimento do advogado, permanece exigível o respectivo direito autônomo ao recebimento de honorários de sucumbência fixado em sentença transitada em julgado. Dessa forma, alinhou-se à jurisprudência desta Corte, no sentido de que o ajuste celebrado entre as partes, sem a anuência do advogado, não atinge os honorários de sucumbência fixados em título executivo judicial.
+A propósito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO. CUMPRIMENTO DE SENTENÇA. INEXISTÊNCIA DE OMISSÃO NO ACÓRDÃO RECORRIDO. CELEBRAÇÃO DE ACORDO SEM ANUÊNCIA DO ADVOGADO. HONORÁRIOS ADVOCATÍCIOS DEVIDOS. AGRAVO INTERNO NÃO PROVIDO.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, não havendo omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao art. 535 do Código de Processo Civil de 1973.
+2. O acordo firmado entre as partes, sem a concordância do advogado, não atinge o direito ao recebimento dos honorários advocatícios fixados em sentença judicial transitada em julgado, nos termos dos arts. 23 e 24, § 4º, da Lei 8.906/94. Precedentes.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 558.741/MG, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 20/02/2018, DJe 26/02/2018, g.n.)
+"RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. HONORÁRIOS PARA PRONTO PAGAMENTO FIXADOS EM 10% DO VALOR DA EXECUÇÃO. ADIMPLEMENTO POSTERIOR MEDIANTE TRANSAÇÃO. RECONHECIMENTO DO PEDIDO. HONORÁRIOS SUCUMBENCIAIS DEVIDOS. RECURSO PARCIALMENTE PROVIDO.
+1. De acordo com a iterativa jurisprudência desta Corte, o acordo firmado entre as partes, sem a concordância do advogado, não afasta seu direito ao recebimento dos honorários advocatícios convencionais e dos advindos de sentença judicial (Lei 8.906/94, art. 24, § 4º).
+2. Realizada a transação entre as partes antes de haver pronunciamento judicial fixando honorários, entende-se não haver prejuízo ao causídico constituído, que tinha mera expectativa de direito em relação aos honorários sucumbenciais. Precedente.
+3. Na espécie, não houve sentença judicial fixando honorários advocatícios, mas tem-se fixação inicial provisória de honorários na execução. Não foram opostos embargos à execução, nem houve pronto pagamento propriamente, mas transação entre as partes pondo fim à execução de título extrajudicial, com fundamento no art. 794, II, do Código de Processo Civil.
+4. O reconhecimento pelo executado de que a transação importou o pagamento do montante total do débito executado, com todos os acréscimos legais decorrentes, equivale ao reconhecimento do pedido (CPC, art. 26) e, na execução, a pronto pagamento, autorizando a execução dos honorários sucumbenciais fixados para tal hipótese.
+5. Recurso especial parcialmente provido." (REsp 729.021/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 03/02/2015, DJe 06/02/2015)
+"RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. RECONHECIMENTO JURÍDICO DO PEDIDO. TRANSAÇÃO. DISTINÇÕES E SEMELHANÇAS. CONSEQUÊNCIAS COM RELAÇÃO AOS HONORÁRIOS ADVOCATÍCIOS. REEXAME DE CLÁUSULAS CONTRATUAIS E DE PROVAS. INVIABILIDADE. SÚMULAS Nº 5 E Nº 7/STJ. TRANSAÇÃO CELEBRADA APÓS A RÉPLICA. AUSÊNCIA DE PRONUNCIAMENTO JUDICIAL FIXANDO HONORÁRIOS ADVOCATÍCIOS. DIREITO AUTÔNOMO DO ADVOGADO. NÃO INFRINGÊNCIA. DIVERGÊNCIA NÃO DEMONSTRADA. SÚMULA Nº 13/STJ. AUSÊNCIA DE SIMILITUDE FÁTICA.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. Ausente o prequestionamento de dispositivos apontados como violados no recurso especial, sequer de modo implícito, incide o disposto na Súmula nº 282/STF.
+3. O reconhecimento jurídico do pedido é ato unilateral pelo qual o demandado adere integralmente à pretensão do autor, sendo devidos honorários pela parte que reconheceu, tendo em vista o princípio da causalidade.
+4. A transação é negócio jurídico bilateral, realizado entre as partes, caracterizada por concessões mútuas a fim de pôr fim ao litígio e, se realizada sem a participação do advogado, não pode prejudicar a verba honorária fixada a seu favor em sentença judicial.
+5. Não fere o direito autônomo do advogado aos honorários de sucumbência o acordo celebrado entre as partes, após a réplica, sem que haja nenhum pronunciamento judicial fixando verba honorária.
+6. Rever as conclusões do Tribunal de origem - para entender que houve reconhecimento jurídico do pedido em vez de transação - demandaria, além do reexame de todo o acervo documental carreado aos autos de processo distinto, a interpretação das cláusulas contratuais do instrumento de transação, o que é inviável em sede de recurso especial, nos termos das Súmulas nº 5 e nº 7/STJ.
+7. O conhecimento do dissídio com base em paradigma do mesmo tribunal fica inviabilizado em virtude da incidência da Súmula nº 13/STJ, segundo a qual "A divergência entre julgados do mesmo Tribunal não enseja recurso especial".
+8. A demonstração do dissídio jurisprudencial pressupõe a ocorrência de similitude fática entre o acórdão atacado e os paradigmas.
+9. Recurso especial conhecido em parte e, nessa parte, não provido."
+(REsp 1133638/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 06/08/2013, DJe 20/08/2013, g.n.)
+"PREVIDENCIÁRIO. CELEBRAÇÃO DE ACORDO. AUSÊNCIA DE ANUÊNCIA DO ADVOGADO. HONORÁRIOS DEVIDOS.
+A celebração de acordo entre as partes, sem a anuência do advogado, não atinge os honorários fixados em sentença.
+Agravo regimental não provido."
+(AgRg no REsp 1305114/RJ, Rel. Ministro ARI PARGENDLER, PRIMEIRA TURMA, julgado em 20/08/2013, DJe 26/08/2013)
+Destarte, incide, in casu, o óbice de conhecimento sedimentado no verbete da Súmula 83 deste Pretório.
+Assim, ante da ausência de qualquer subsídio capaz de alterar os fundamentos do acórdão recorrido, subsiste incólume o entendimento nele firmado, não merecendo prosperar, portanto, o presente recurso.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
