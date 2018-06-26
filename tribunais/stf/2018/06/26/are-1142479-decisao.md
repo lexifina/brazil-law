@@ -1,0 +1,22 @@
+Decisão
+    Trata-se de Agravo contra decisão da instância de origem que, aplicando precedente desta CORTE formado sob a sistemática da repercussão geral (RE 582.461, Rel. Min. GILMAR MENDES, Tema 214), julgou, no ponto, prejudicado o Recurso Extraordinário e, quanto às demais questões, inadmitiu-o apontando a incidência da Súmula 280 do STF.
+    O acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo foi assim ementado ( fl. 425, e-STJ, Vol. 2):
+    “APELAÇÃO CÍVEL. Mandado de Segurança. Pretensão de ver reconhecida a ilegalidade da aplicação da taxa de juros com base na Lei Estadual n.º 13.918/09 ao débito de ICMS objeto de parcelamento, entendendo que estes não podem ser superiores à Taxa SELIC – Taxa de juros aplicada ao caso que não pode ser superior à utilizada pela União - Sentença concessiva da segurança – Recursos improvidos.”
+    Nas razões recursais iniciais, a parte recorrente, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta violação aos arts. 24, I, e §§ 1º a 4º, e 155, da CF, ao argumento de que não há vícios na disciplina da matéria contida na Lei Estadual 13.918/2009 no que tange aos juros de mora.
+    É o relatório. Decido.
+    O acórdão recorrido não destoou da orientação firmada por esta CORTE no sentido de que os Estados-membros podem estabelecer índices de correção monetária de débitos fiscais, sob a condição de que não ultrapassem o percentual determinado pela União. Nesse sentido:
+    “SÃO PAULO. UFESP. ÍNDICES FIXADOS POR LEI LOCAL PARA CORREÇÃO MONETÁRIA. ALEGADA OFENSA AO ART. 22, II E VI, DA CONSTITUIÇÃO FEDERAL. Entendimento assentado pelo STF no sentido da incompetência das unidades federadas para a fixação de índices de correção monetária de créditos fiscais em percentuais superiores aos fixados pela União para o mesmo fim. Ilegitimidade da execução fiscal embargada no que houver excedido, no tempo, os índices federais. Recurso parcialmente provido.” (RE 183.907, Rel. Min. ILMAR GALVÃO, Tribunal Pleno, DJe 16/4/2004)
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ARTIGO 113 DA LEI N. 6.374, DE 1º DE MARÇO DE 1.989, DO ESTADO DE SÃO PAULO. CRIAÇÃO DA UNIDADE FISCAL DO ESTADO DE SÃO PAULO UFESP. ATUALIZAÇÃO MONETÁRIA PELO ÍNDICE DE PREÇO AO CONSUMIDOR IPC. UNIDADE FISCAL DO ESTADO DE SÃO PAULO COMO FATOR DE ATUALIZAÇÃO DOS CRÉDITOS TRIBUTÁRIOS. ARTIGO 24, INCISO I, DA CONSTITUIÇÃO DO BRASIL. INCONSTITUCIONALIDADE PARCIAL. INTERPRETAÇÃO CONFORME À CONSTITUIÇÃO.
+    1. Esta Corte, em oportunidades anteriores, firmou o entendimento de que, embora os Estados-membros sejam incompetentes para fixar índices de correção monetária superiores aos fixados pela União para o mesmo fim, podem defini-los em patamares inferiores - incentivo fiscal. Precedentes.
+    2. A competência dos Estados-membros para fixar índices de correção monetária de créditos fiscais é tema que também foi examinado por este Tribunal. A União e Estados-membros detêm competência legislativa concorrente para dispor sobre matéria financeira, nos termos do disposto no artigo 24, inciso I, da CB/88.
+    3. A legislação paulista é compatível com a Constituição de 1988, desde que o fator de correção adotado pelo Estado-membro seja igual ou inferior ao utilizado pela União.
+    4. Pedido julgado parcialmente procedente para conferir interpretação conforme ao artigo 113 da Lei n. 6.374/89 do Estado de São Paulo, de modo que o valor da UFESP não exceda o valor do índice de correção dos tributos federais.” (ADI 442, Rel. Min. EROS GRAU, Tribunal Pleno, DJe 28/5/2010).
+    Tal entendimento aplica-se à hipótese dos autos, em que o Estado de São Paulo aplicou taxa de juros moratórios em índice superior ao estabelecido pela legislação federal.
+    No mesmo sentido, vejam-se, ainda, os seguintes julgados monocráticos: ARE 1.035.092/SP, Rel. Min. ROSA WEBER, DJe de 18/4/2017; ARE 1.023.116/SP, Rel. Min. ROBERTO BARROSO, DJe de 18/4/2017; e ARE 1.032.017/SP, Rel. Min. MARCO AURÉLIO, DJe de 29/3/2017.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, NEGO SEGUIMENTO AO AGRAVO EM RECURSO EXTRAORDINÁRIO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+    Publique-se.
+    Brasília, 26 de junho de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
