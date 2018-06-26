@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado do Pára no julgamento do HC n. 0801883-89.2017.8.14.0000.
+Extrai-se dos autos que o recorrente foi denunciado por ter supostamente praticado o delito tipificado no art. 1º, inciso I, alínea "a", da Lei n. 9.455/97 (tortura). Em 1º/11/2017, a magistrada de primeiro grau decretou sua prisão preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado, in verbis:
+HABEAS CORPUS LIBERATÓRIO. CRIME DE TORTURA. PRETENDIDA REVOGAÇÃO DA PRISÃO. IMPOSSIBILIDADE. PERICULOSIDADE EVIDENCIADA PELA REITERAÇÃO CRIMINOSA. NECESSIDADE DE PRESERVAÇÃO DA ORDEM PÚBLICA. PRISÃO MANTIDA. ORDEM DENEGADA. DECISÃO UNÂNIME.
+1. Restou efetivamente evidenciada a necessidade da manutenção da prisão cautelar do paciente, diante da presença das circunstâncias constantes do art. 312 do CPP, especialmente, para garantia da ordem pública, face à gravidade da infração, a qual revela a extrema reprovabilidade da conduta e indícios de periculosidade do réu, em face da reiteração criminosa.
+2. Restando devidamente correlacionada a fundamentação da decretação da custódia e os aspectos do caso concreto, não se evidencia qualquer constrangimento ilegal na segregação do réu/paciente, uma vez que restaram satisfatoriamente demonstrados no dccrcto prisional os pressupostos c motivos autorizadores da medida constritiva, segundo dispõe o art. 312 do CPP, com a devida indicação dos fatos concretos justificadores de sua imposição, nos termos do art. 93, inciso IX, da Carta Magna.
+3. ORDEM DENEGADA, À UNANIMIDADE (fl. 129).
+No presente recurso, alega que o decreto prisional carece de fundamentação idônea. Sustenta ausência dos requisitos previstos no art. 312 do Código de Processo Penal.
+Assevera que, no caso, a custódia cautelar tem funcionado como cumprimento antecipado de pena. Ressalta, por fim, as circunstâncias pessoais favoráveis do recorrente.
+Requer, assim, em liminar e no mérito, a revogação da prisão preventiva para que o recorrente possa responder em liberdade à acusação.
+Liminar indeferida pelo eminente Ministro HUMBERTO MARTINS, no exercício da Presidência durante o recesso forense (fls. 172/174). Informações prestadas (fls. 177/209). O Ministério Público Federal opinou pelo conhecimento e desprovimento do recurso (fls. 215/219).
+É o relatório.
+Decido.
+Em consulta à página eletrônica do Tribunal de origem, infere-se a superveniência de sentença condenatória nos autos da Ação Penal n. 0000092-39.2014.8.14.0028, que aqui se cuida, posto que, a despeito de não ser possível a consulta ao processo na primeira instância, consta a autuação de apelações, unicamente por parte das defesas, em 18/5/2018.
+Todavia, como mencionado, não é possível aferir o teor do julgado em primeira instância.
+É cediço que esta Quinta Turma firmou posicionamento no sentido de que a manutenção da custódia cautelar por ocasião de sentença superveniente não possui o condão de tornar prejudicado o writ em que se busca sua revogação, quando não agregados novos e diversos fundamentos ao decreto prisional primitivo. Nesse sentido: RHC 53.194/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/03/2016, DJe 28/03/2016.
+O entendimento revela-se substancialmente claro: a superveniência de sentença que mantém a prisão cautelar constitui título novo, que substitui - e supera - o decreto prisional impugnado mediante habeas corpus, exceto se o Magistrado sentenciante não adota fundamentos novos e diversos daqueles apresentados por ocasião da decretação da segregação preventiva.
+In casu, a manutenção da custódia cautelar afigura-se verossímil, pois inexiste notícia de expedição de alvará de soltura após a prolação da sentença e a subida das apelações, interpostas unicamente por parte das defesas - registra-se.
+Todavia, não há como aferir se a segregação antecipada foi mantida sem a adoção de novos e diversos fundamentos para a cautela - requisito indispensável ao prosseguimento do recurso que busca revogá-la, diante da notícia da produção de novo título judicial que examinou a necessidade de manutenção da constrição.
+Tratando-se o habeas corpus de rito célere, no qual não se admite a dilação probatória e cuja devida instrução compete ao impetrante, a este incumbiria, diante da superveniência de fato novo, a diligência de acostar aos autos o novo título judicial produzido no feito principal, a fim de demonstrar que o aludido julgado não tem o condão de afastar, no caso concreto, a impugnabilidade da decisão combatida pelo presente reclamo.
+Constatado o silêncio do recorrente, afigura-se forçoso entender pela perda de objeto do presente recurso em habeas corpus, diante do entendimento de que novo título foi prolatado.
+Por adotar idêntico raciocínio, faço menção à decisão prolatada nos autos do RHC n. 63.337/MG, Rel. Ministro GURGEL DE FARIA, Quinta Turma, DJe 5.2.2016.
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea "a", do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o recurso em habeas corpus.
+Publique-se.
+Intimem-se.
