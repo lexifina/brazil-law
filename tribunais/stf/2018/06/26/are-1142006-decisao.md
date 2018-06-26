@@ -1,0 +1,28 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão da Turma Recursal do Estado do Sergipe (eDOC 2, p. 25-31)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 37, caput, e 5º, caput e inciso II, do texto constitucional.
+    Nas razões recursais, alega-se que não há que se falar em inconstitucionalidade da Lei n° 6.613/09, visto que o Decreto 26.621/09 apenas trouxe uma Tabela de Referência e a forma de cálculo da Gratificação de Criticidade já prevista na Lei 6.613/09 (eDOC 2, p. 43).
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie (Lei Estadual nº 6.613/09 e Decreto Estadual nº 26.621/09), concluiu por indevida a gratificação postulada pela autora. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “As gratificações cujo ajuste de valor e incorporação requer a apelante são previstas pela Lei Estadual de nº 6.613/09, que em seu artigo 12 assim dispõe:
+    (...)
+    Note-se que a norma prevê a necessidade de regulamentação específica, a qual foi feita através do Decreto nº 26.621/09, expedido pelo Poder Executivo.
+    Em razão disso, a matéria foi submetida ao controle de constitucionalidade feito por este Tribunal de Justiça de Sergipe, através do incidente de inconstitucionalidade de nº 201600106571, quando, em 24/08/2016, foi declarada a inconstitucionalidade dos §§ 1º e 3º do art. 12, da Lei Estadual Nº 6.613/09, nos seguintes termos:
+    (...)
+    Da análise da ementa supra transcrita, vê-se, portanto, que passaram a ser declaradas inconstitucionais e, portanto, indevidas as gratificações objeto da ação intentada pela recorrente, já que padecedoras de vício de constitucionalidade, pois, embora a criação das gratificações tenham sido vertidas por lei, as condições de fruição foram veiculadas por Decreto do Executivo.
+    Assim, a referida Lei Estadual, ao delegar ao Chefe do Executivo para disciplinar, através de decreto, todos os parâmetros para a concessão de gratificações, incorreu em vício de inconstitucionalidade, posto que, tal matéria diz respeito à remuneração dos servidores públicos, reservada à lei em sentido estrito.
+    De tal modo, verifico que o Juízo a quo sopesou os fatos mediante a correta aplicação do direito. Registro os fundamentos da sentença combatida:
+    (...)
+    Assim, sem mais delongas, vejo que é de se manter integralmente a Sentença por seus próprios fundamentos, nos termos do art. 46, 2ª parte, da Lei n° 9.099/95, o qual estabelece que o ‘julgamento em segunda instância constará apenas da ata, com a indicação suficiente do processo, fundamentação sucinta e parte dispositiva. Se a sentença for confirmada pelos próprios fundamentos, a súmula do julgamento servirá de acórdão’.
+    Ante o exposto, voto no sentido de NEGAR PROVIMENTO ao recurso interposto, mantendo a sentença em sua integralidade. Condeno a parte Recorrente ao pagamento de custas processuais e honorários advocatícios, estes no importe de 20% (vinte por cento) sobre o valor da causa, restando suspensa a sua exigibilidade por ser a parte beneficiária da justiça gratuita.” (eDOC 2, p. 28/31)
+    Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesses termos, incide no caso a Súmula 280 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. GRATIFICAÇÃO DE ATIVIDADE INDUSTRIAL. DECRETO ESTADUAL 16.282/94. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCIDÊNCIA DA SÚMULA 280 DO STF. MANDADO DE SEGURANÇA. IMPOSSIBILIDADE DE MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS NESTA SEDE RECURSAL. ARTIGO 85, § 11, DO CPC/2015. AGRAVO INTERNO DESPROVIDO. (RE 937.468 AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 18.5.2017)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. Servidor. Gratificação de risco de vida. Questão decidida conforme legislação infraconstitucional (Lei estadual 15.674/2006). 3. Necessidade de reexame prévio da legislação local. Súmula 280. Precedentes. 4. Agravo regimental a que se nega provimento.” (ARE 1.004.040 AgR, de minha relatoria, Segunda Turma, DJe 25.5.2017)
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Servidor público. Gratificações previstas pela Lei Estadual nº 6.613/09. Incorporação. Direito local. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não se presta o recurso extraordinário para a análise de matéria ínsita ao plano normativo local, tampouco para o reexame dos fatos e das provas constantes dos autos. Incidência das Súmulas nºs 280 e 279/STF. 2. Agravo regimental não provido. 3. Inaplicável o art. 85, § 11, do CPC, pois não houve condenação do agravante em honorários advocatícios pela Corte de origem.” (RE 1.071.596 AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 15.2.2018)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente, observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 26 de junho de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
