@@ -1,0 +1,26 @@
+EMENTA
+PREVIDENCIÁRIO. RECURSO ESPECIAL. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. TERMO INICIAL DA CONTAGEM DO PRAZO DECADENCIAL: DATA DO PAGAMENTO DA PRIMEIRA PRESTAÇÃO SUPERVENIENTE À VIGÊNCIA DA LEI 9.528/1997. ENTENDIMENTO CONSOLIDADO PELO STF, EM SEDE DE REPERCUSSÃO GERAL, NO JULGAMENTO DO RE 626.489/SE, REL. MIN. ROBERTO BARROSO, DJe 23.9.2014. RECURSO ESPECIAL DO INSS A QUE SE NEGA PROVIMENTO.
+1. O Supremo Tribunal Federal, em sede de Repercussão Geral, consolidou o entendimento de que é legítima a instituição de prazo decadencial decenal para a revisão de benefício previdenciário, estabelecendo que a decadência tem aplicação mesmo nos benefícios concedidos antes da sua instituição, observada, como marco inicial de incidência, nessas hipóteses, a data do pagamento da primeira prestação superveniente à vigência da Lei 9.528/1997.
+2. No caso dos autos, embora o requerimento administrativo do benefício tenha ocorrido em 6.10.1994, o pagamento da primeira parcela só ocorreu em 1.4.2010, não havendo, assim, que se falar em decadência da ação revisional ajuizada em 17.1.2011.
+3. Recurso Especial do INSS a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Recurso Especial, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Recurso Especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento nas alíneas a e c do art. 105, III da Carta Magna, no qual se insurge contra acórdão proferido pelo Tribunal Regional Federal da 4a. Região, assim ementado:
+PREVIDENCIÁRIO. JUÍZO DE RETRATAÇÃO. CONTAGEM DO PRAZO DECADENCIAL.
+Tendo o primeiro pagamento do benefício sido efetuado em 04/2010 e a presente ação ajuizada em 17/01/2011, não há que se falar em decadência do direito de revisão.
+2. Nas razões do Recurso Especial, sustenta a Autarquia que decaiu o direito do Segurado em pleitear a revisão do benefício, uma vez que já decorridos mais de 10 anos entre o requerimento administrativo do benefício (6.10.1994) e a revisão judicial (17.1.2011).
+3. É o relatório.
+VOTO
+PREVIDENCIÁRIO. RECURSO ESPECIAL. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. TERMO INICIAL DA CONTAGEM DO PRAZO DECADENCIAL: DATA DO PAGAMENTO DA PRIMEIRA PRESTAÇÃO SUPERVENIENTE À VIGÊNCIA DA LEI 9.528/1997. ENTENDIMENTO CONSOLIDADO PELO STF, EM SEDE DE REPERCUSSÃO GERAL, NO JULGAMENTO DO RE 626.489/SE, REL. MIN. ROBERTO BARROSO, DJe 23.9.2014. RECURSO ESPECIAL DO INSS A QUE SE NEGA PROVIMENTO.
+1. O Supremo Tribunal Federal, em sede de Repercussão Geral, consolidou o entendimento de que é legítima a instituição de prazo decadencial decenal para a revisão de benefício previdenciário, estabelecendo que a decadência tem aplicação mesmo nos benefícios concedidos antes da sua instituição, observada, como marco inicial de incidência, nessas hipóteses, a data do pagamento da primeira prestação superveniente à vigência da Lei 9.528/1997.
+2. No caso dos autos, embora o requerimento administrativo do benefício tenha ocorrido em 6.10.1994, o pagamento da primeira parcela só ocorreu em 1.4.2010, não havendo, assim, que se falar em decadência da ação revisional ajuizada em 17.1.2011.
+3. Recurso Especial do INSS a que se nega provimento.
+1. Não houve infringência ao art. 535 do CPC/1973, na medida em que o Tribunal a quo apreciou, fundamentadamente, a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se que, malgrado não ter o Colegiado acolhido os argumentos suscitados pelo recorrente, manifestou-se expressamente acerca dos temas necessários à integral solução da lide. Afora isso, julgamento diverso do pretendido, como na espécie, não implica ofensa às normas ora invocadas.
+2. De fato, o Supremo Tribunal Federal, em sede de Repercussão Geral, consolidou o entendimento de que é legítima a instituição de prazo decadencial decenal para a revisão de benefício previdenciário, estabelecendo que a decadência tem aplicação mesmo nos benefícios concedidos antes da sua instituição, observada, como marco inicial de incidência, nessas hipóteses, a data do pagamento da primeira prestação superveniente à vigência da Lei 9.528/1997.
+3. Corroborando tal orientação, os seguintes julgados:
+4. Assim, ao contrário do que defende a Autarquia, a contagem do prazo decadencial não se inicia com o requerimento administrativo do benefício, e, sim, a partir do pagamento da primeira prestação superveniente à vigência da Lei 9.528/1997.
+5. Na hipótese dos autos, a Corte de origem, em atenção aos termos da orientação consolidada na Suprema Corte, rechaçou a tese de decadência do pedido revisional ao fundamento de que as provas carreadas aos autos dão conta de que o pagamento da primeira parcela do benefício só aconteceu em 4/2010.
+6. Assim, este deve ser o marco inicial da contagem do prazo decadencial, não havendo, assim, que se falar em reconhecimento da decadência, uma vez que a ação foi ajuizada em 17.1.2011.
+7. Ante o exposto, nega-se provimento ao Recurso Especial do INSS.
+8. É como voto.
