@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face do acórdão da 1ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-DOC. 1 p, 208):
+    “SEXTA-PARTE - Servidor público do Município de São José do Rio Preto - Pretendida a contagem de tempo do período em que o servidor trabalhou junto à Administração Pública pelo regime da CLT - Procedência – Irresignação – Descabimento - Possibilidade Transposição de emprego para cargo público efetivo, através da LC 66/96 - Legislação que garantiu a contagem do tempo para todos os efeitos, inclusive resguardando direitos e vantagens concedidos por leis anteriores (arts. 7º e 9º), entre as quais a da sexta-parte (LC 05/90) - Sentença de procedência mantida - Recursos desprovidos.”
+    Os embargos de declaração opostos restaram rejeitados (e-DOC 1, p. 222).
+    No recurso extraordinário, com fulcro no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 30, I e V; 37, caput; e 39, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que o acórdão recorrido “não diferenciou é que, se a lei não discriminou, não cabe ao administrador fazê-lo. Ao contrário, a lei rege apenas servidores estatutários, e, ao não mencionar os celetistas, não é dado ao Administrador fazê-lo, e incluídos, pois deve o Ente Público cumprir unicamente o que é expresso no ordenamento, não cabendo margem para interpretações, que foi o que ocorreu, indevidamente, entende-se, no entendimento do julgado proveniente do TJ/SP.” (e-DOC. 1. p, 229).
+    A Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso extraordinário mediante o óbice da Súmula 280 do STF. (e-DOC 1, p. 235).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Quando do julgamento do recurso, o Tribunal a quo manteve a sentença recorrida pelos seguintes fundamentos (e-DOC 1, p. 210/211):
+    “A Lei Complementar do Município de São José do Rio Preto nº 66/96 instituiu o regime estatutário a todos os servidores, permitindo aos mesmos que optassem em permanecer no antigo regime (celetista), desde que por escrito e no prazo de 30 dias, trazendo em seu bojo as demais regulamentações.
+    (…)
+    Portanto, como a Lei Complementar nº 05/90, que concede aos servidores municipais o direito à sexta-parte, é anterior à Lei Complementar nº 66/96, que instituiu o regime jurídico estatutário a todos os servidores, com exceção daqueles que optaram expressamente em manter o antigo regime, os apelados fazem jus ao benefício da sexta-parte, considerando que a própria LC 66/96 ressalvou, no art. 9º, que não haveria qualquer restrição de direitos e vantagens já concedidos por leis em vigor, anteriores à sua vigência, desde que o servidor tivesse sido admitido por concurso público, como é o caso dos apelados, razão pela qual a apelante não pode escusar-se ao resgate do benefício, sob pena de violação ao direito adquirido (art. 5º, XXXVI da CF) e ao princípio da legalidade (art. 37, caput, da CF).”
+    Sendo esses os fundamentos acolhidos pelo acórdão recorrido, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame da legislação local aplicável à espécie (Leis Complementares 05/90 e 66/96), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 280 do STF.
+    Nesse sentido, confiram-se os seguintes precedentes:
+    "RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. ADICIONAL DE SEXTA-PARTE. CONTAGEM DE TEMPO DE SERVIÇO REGIDO PELA CLT. LEIS COMPLEMENTARES Nº 05/1990 E Nº 66/1996 DO MUNICÍPIO DE SÃO JOSÉ DO RIO PRETO. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. INCIDÊNCIA DA SÚMULA Nº 280 DO STF. AGRAVO DESPROVIDO." (ARE 917.888/SP, Rel. Min. Luiz Fux, DJe 9.11.2015)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. ADICIONAL DE SEXTA-PARTE E QUINQUÊNIOS. JULGADO RECORRIDO FUNDAMENTADO EM LEGISLAÇÃO INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 688.307-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 11/10/2012).
+    Ademais, ressalto, ainda, que a violação do princípio da legalidade demanda necessariamente a análise de atos normativos infraconstitucionais. Aplicável ao caso, portanto, a Súmula 636 do STF:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.”
+    Ante o exposto, nego provimento ao recurso, nos termos dos arts. 932, IV, a e b do CPC e 21, §1º, RISTF.
+    Com fulcro no art. 85, § 11, do CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo, ressalvada a gratuidade de justiça.
+    Publique-se.
+    Brasília, 26 de junho de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
