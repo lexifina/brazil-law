@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto por BANCO DO NORDESTE DO BRASIL SA contra v. acórdão do eg. Tribunal de Justiça do Estado do Maranhão, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. AUSÊNCIA DE FUNDAMENTAÇÃO. SENTENÇA ULTRA PETITA NÃO CONFIGURADA. APELO IMPROVIDO. 1 Reputa-se descabida a tese de ausência de fundamentação da sentença, posto que o decisum abordou suficientemente as questões indispensáveis ao deslinde da controvérsia, demonstrando os motivos do convencimento adotado, ainda que sucintamente, nos moldes do art. 93, IX, da CF/88 e do art. 489 do CPC. 2. Não procede a alegação da sentença ser ultra petita, visto que o sentenciante atendeu a contento ao princípio da congruência, uma vez que se ateve ao pedido em sentido amplo formulado pela parte, não se afastando dos limites objetivos da lide. 3. Apelação conhecida e improvida. 4. Unanimidade." (e-STJ, fl. 106)
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 110/114).
+Nas razões do recurso especial, a parte agravante alega violação dos arts. 3º do CPC/73 (correspondente ao art. 17 do CPC/2015)e 1.022 do CPC/2015, sustentando, em síntese, a ausência de interesse de agir da parte recorrida, uma vez que não comprovou a existência de prévio requerimento administrativo.
+Apresentadas contrarrazões às fls. 128/136 (e-STJ).
+É o relatório. Decido.
+Do exame dos autos, verifica-se que o Tribunal de origem concluiu que houve inovação recursal quanto à tese de ausência de interesse de agir da parte recorrida, sendo incabível a análise em sede de embargos de declaração, nos seguintes termos:
+"Observa-se, outrossim, que o Embargante aventa tese nova, consubstanciada na inobservância da ausência de interesse processual da Embargada, a qual não foi suscitada em seu recurso original, fato este que se caracteriza como inovação recursal, sendo incabível no presente momento processual, nos termos da jurisprudência deste E. Tribunal de Justiça:
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL.
+MANDADO DE SEGURANÇA. EXONERAÇÃO DE SERVIDOR..
+AUSÊNCIA DO DEVIDO PROCESSO LEGAL. NULIDADE DO ATO ADMINISTRATIVO. INOVAÇÃO RECURSAL.
+IMPOSSIBILIDADE. EMBARGOS REJEITADOS. I - Os Embargos de Declaração se prestam a eliminar os vícios de contradição, obscuridade, omissão ou erro material que porventura maculem o julgado. II - É incabível a oposição dos declaratórios para o fim de inovação recursal. (TJ-MA - ED: 0137742015 MA 0000188- 16.2013.8.10.0088, Relator: JORGE RACHID MUBÁRACK MALUF, Data de Julgamento: 28/05/2015, PRIMEIRA CÂMARA CÍVEL, Data de Publicação: 02/06/2015)." (e-STJ, fl. 120).
+Contudo, tal fundamento, autônomo e suficiente à manutenção do v. acórdão recorrido, não foi impugnado nas razões do recurso especial, convocando, na hipótese, a incidência da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
