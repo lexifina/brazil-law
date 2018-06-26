@@ -1,0 +1,30 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pela Companhia Riograndense de Saneamento – CORSAN contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado do Rio Grande do Sul, está assim ementado:
+    “APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ESTAÇÃO DE TRATAMENTO DE ESGOTOS. PROLIFERAÇÃO DE INSETOS. MAU CHEIRO. DANOS MORAIS. ‘QUANTUM’ INDENIZATÓRIO MANTIDO. JUROS DE MORA DO EVENTO DANOSO.
+    Da norma processual aplicável ao feito
+    1. No caso em exame a decisão recorrida foi publicada após a data de 17/03/2016, logo, não se aplica a anterior legislação processual civil, de acordo com enunciado do STJ quanto à incidência do atual Código de Processo Civil de 2015 para as questões processuais definidas após aquele termo. Assim, em se tratando de norma processual, há a imediata incidência no caso dos autos da legislação vigente, na forma do art. 1.046 do diploma processual precitado.
+    Mérito dos recursos em exame
+    2. Trata-se de indenização por danos morais em razão da falha na prestação dos serviços, consubstanciada na proliferação de insetos e disseminação de mau-cheiro nas proximidades da estação de tratamento de esgoto situada no Parque Marinha, em Rio Grande.
+    3. Comprovada a falha na prestação do serviço, deve ser responsabilizada a ré pela negligente atuação na ETE Navegantes. Conduta abusiva da apelada na qual assumiu o risco de causar lesão ao apelante, mesmo os de ordem extrapatrimonial, daí ensejando o dever de indenizar.
+    4. No que tange à prova do dano moral, por se tratar de lesão imaterial, desnecessária a demonstração do prejuízo, na medida em que possui natureza compensatória, minimizando de forma indireta as consequências da conduta da ré, decorrendo aquele do próprio fato. Conduta ilícita da demandada que faz presumir os prejuízos alegados pela parte autora, é o denominado dano moral puro.
+    5. O valor a ser arbitrado a título de indenização por dano imaterial deve levar em conta o princípio da proporcionalidade, bem como as condições da ofendida, a capacidade econômica do ofensor, além da reprovabilidade da conduta ilícita praticada. Por fim, há que se ter presente que o ressarcimento do dano não se transforme em ganho desmesurado, importando em enriquecimento ilícito.
+    6. Em relação ao pedido de reparação pelos danos morais, o deferimento de quantia menor do que a postulada na exordial não induz sucumbência recíproca. Inteligência da súmula n. 326 do STJ.
+    7. Juros moratórios devidos desde o evento danoso, consoante entendimento consagrado na Súmula 54 do STJ, a base de 1% ao mês, na forma do artigo 406 do Código Civil, em consonância com o disposto no artigo 161, § 1º, do Código Tributário Nacional.
+    8. A parte demandada, sociedade de economia mista, ainda que prestadora de serviço público essencial, não se submete ao regime jurídico dos precatórios para pagar as condenações judiciais que lhe são impostas, devendo sujeitar-se ao regime de execuções das empresas privadas. Por consequência, também não se beneficia a ré dos consectários legais aplicados às condenações judiciais impostas à Fazenda Pública.
+    9. Honorários advocatícios fixados em 20% sobre o valor da condenação em atenção ao disposto no art. 85, §§2º e 11 do NCPC.
+    Negado provimento ao recurso da parte ré e dado provimento ao apelo da parte autora.”
+    A parte ora recorrente, ao deduzir o apelo extremo, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o  RE 599.628/DF, Red. p/ o acórdão Min. JOAQUIM BARBOSA, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “FINANCEIRO. SOCIEDADE DE ECONOMIA MISTA. PAGAMENTO DE VALORES POR FORÇA DE DECISÃO JUDICIAL. INAPLICABILIDADE DO REGIME DE PRECATÓRIO.
+    ART. 100 DA CONSTITUIÇÃO.
+    CONSTITUCIONAL E PROCESSUAL CIVIL. MATÉRIA CONSTITUCIONAL CUJA REPERCUSSÃO GERAL FOI RECONHECIDA.
+    Os privilégios da Fazenda Pública são inextensíveis às sociedades de economia mista que executam atividades em regime de concorrência ou que tenham como objetivo distribuir lucros aos seus acionistas.
+    Portanto, a empresa Centrais Elétricas do Norte do Brasil S.A. – Eletronorte não pode se beneficiar do sistema de pagamento por precatório de dívidas decorrentes de decisões judiciais (art. 100 da Constituição).
+    Recurso extraordinário ao qual se nega provimento.”
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Impõe-se registrar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos nesta Suprema Corte (RE 1.102.998-AgR/RS, Rel. Min. LUIZ FUX – RE 1.113.945/RS, Rel. Min. EDSON FACHIN – RE 1.114.380/RS, Rel. Min. GILMAR MENDES – RE 1.116.392/RS, Rel. Min. DIAS TOFFOLI – RE 1.119.236/RS, Rel. Min. ALEXANDRE DE MORAES – RE 1.125.597/RS, Rel. Min. ROBERTO BARROSO, v.g.).
+    Sendo assim, e tendo em consideração as razões expostas, ao apreciar o presente agravo, nego provimento ao recurso extraordinário, por achar-se este em confronto com acórdão proferido pelo Plenário desta Suprema Corte (CPC, art. 932, IV, “b”).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063- -AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 26 de junho de 2018.
+Ministro CELSO DE MELLO
+Relator
