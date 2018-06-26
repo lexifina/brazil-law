@@ -1,0 +1,13 @@
+DECISÃO
+1. Trata-se de agravo interposto por [NOME] contra decisão que inadmitiu recurso especial, com fulcro no art. 105, III, "a" e "c", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+CONTRARRAZÕES - Pretensão de não conhecimento do recurso - Inadmissibilidade - Recurso que ataca os fundamentos da sentença - Cumprimento do art. 1.010, inc. II, do Código de Processo Civil - Preliminar rejeitada.
+ORDINÁRIA - Autor que pretende a exclusão de conteúdos ofensivos registrados na rede social mantida pela corré e a indenização pelos danos morais sofridos - Procedência do pedido - Inconformismo das partes - Acolhimento do recurso da corré e acolhimento parcial dos recursos do autor e do corréu - Aplicação do disposto no art. 252 do RITJSP quanto à responsabilidade do corréu - Mensagens postadas pelo corréu que são claramente direcionadas ao autor e têm conteúdo ofensivo - Correquerido que não nega a autoria, alegando serem meros desabafos - Descabimento - Indignação relatada que não justifica os ataques à imagem e à honra do autor - Inexistência de mero aborrecimento - Dano moral configurado - Quantum indenizatório adequadamente fixado no valor equivalente a 40 salários mínimos - Princípios da razoabilidade e proporcionalidade - Empresa-corré que procedeu à exclusão completa dos perfis informados pelo autor na inicial - Dados não descritos na notificação extrajudicial - Inexistência de resistência por parte da correquerida - Condenação afastada - Conversão da indenização para quantia certa - Cabimento - Adequação quanto ao valor atual do salário mínimo - Sentença reformada em parte - Recurso da corré provido e recursos do autor e do corréu parcialmente providos.
+Preliminar afastada, recurso da corré provido e recursos do autor e do corréu parcialmente providos.
+
+Nas razões do especial, alega-se violação dos arts. 942 do Código Civil, bem como dissídio jurisprudencial.
+Decido.
+2. A irresignação não merece prosperar.
+O Tribunal de origem registra ser incabível a condenação solidária da corré, FACEBOOK, na indenização por danos morais pleiteada nos autos, pois a notificação extrajudicial a ela dirigida não indicou com precisão os endereços eletrônicos dos perfis responsáveis pelas ofensas perpetradas ao recorrente. Além disso, após ter sido concedida antecipação de tutela, a corré procedeu prontamente à exclusão completa dos pNão é erfis com ofensas ao recorrente.
+A reforma do aresto, nestes aspectos, demanda inegável necessidade de reexame de matéria fático-probatória, providência inviável de ser adotada em sede de recurso especial, ante o óbice da Súmula 7 desta Corte.
+3. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
