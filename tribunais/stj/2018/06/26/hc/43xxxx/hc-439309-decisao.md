@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de YAN VICTOR DOS SANTOS BEZERRA contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado, em primeiro grau, à pena de 4 anos de reclusão, em regime inicial semiaberto, pela prática de roubo impróprio (art. 157, §1º do Código Penal).
+Interposta apelação, pela defesa, o Tribunal de origem negou provimento ao recurso.
+No presente writ, sustenta a impetrante, em síntese, que o paciente está sofrendo constrangimento ilegal, pois apesar de favoráveis as circunstâncias judiciais, a pena-base ter sido fixada no mínimo legal e o quantum da pena aplicada autorizar a fixação do regime inicial aberto, foi estabelecido o regime inicial mais gravoso com base na gravidade abstrata do delito. Alega desrespeito aos Enunciados n. 718 e 719 da Súmula do STF, bem como ao Enunciado n. 440 da Súmula do STJ.
+Requer, assim, a fixação do regime aberto para iniciar o cumprimento da reprimenda imposta.
+Indeferido o pedido liminar e prestadas as informações, Ministério Público Federal opinou pelo não conhecimento da impetração e, se conhecido, pela denegação da ordem, nos termos da seguinte ementa:
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. IMPOSSIBILIDADE. UTILIZAÇÃO INADEQUADA DO WRIT. NÃO CONHECIMENTO. ROUBO IMPRÓPRIO. PRETENSÃO DE ALTERAÇÃO PARA O REGIME INICIAL ABERTO. IMPOSSIBILIDADE. FIXAÇÃO DO REGIME INICIAL SEMIABERTO COM BASE NA GRAVIDADE DO CASO CONCRETO. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS OU, SE CONHECIDO, PELA DENEGAÇÃO DA ORDEM (fl. 51).
+É o relatório.
+Decido.
+
+O presente habeas corpus não merece ser conhecido, pois impetrado em substituição a recurso próprio. Contudo, passo à análise dos autos para verificar a possível existência de ofensa à liberdade de locomoção do ora paciente, capaz de justificar a concessão da ordem de ofício.
+Conforme relatado, a controvérsia refere-se ao regime prisional inicial. O Juízo de primeiro grau fixou o regime inicial semiaberto, o qual foi mantido pelo Tribunal de piso, sob os seguintes fundamentos:
+Sentença:
+ ..
+Quanto à fixação do regime prisional, com apoio no artigo 33, do Código Penal, este será o semi-aberto, considerando não ter havido o uso de arma de fogo (fl.22).
+Acórdão:
+ ..
+O regime prisional inicial semiaberto foi benéfico ao Apelante, eis que caberia o mais rigoroso, considerando as circunstâncias do caso concreto, sendo o crime praticado mediante violência, contra vítima sozinha e fisicamente inferior, que ficou machucada (Laudo Pericial de fls. 122/123), em verdadeira afronta às regras elementares do bom convívio social, evidenciando a perigosidade incomum do Apelante, a justificar o encarceramento em regime mais rigoroso, como forma mais adequada para reprovação e prevenção da sua grave conduta. Porém, deve ser mantido o regime inicial semiaberto, ante a passividade da Acusação (fl.16).
+Sobre o tema, firmou-se neste Tribunal a orientação de que é necessária a apresentação de motivação concreta para a fixação de regime mais gravoso, fundada nas circunstâncias judiciais do art. 59 do Código Penal ou em outra situação que demonstre efetivamente um plus na gravidade do delito. Nesse sentido, foi elaborado o Enunciado n. 440 da Súmula desta Corte, que prevê:
+Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+No mesmo sentido, são os enunciados n. 718 e 719 da Súmula do Supremo Tribunal Federal, os quais indicam:
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Todavia, na hipótese dos autos, embora as circunstâncias judiciais tenham sido consideradas favoráveis e o paciente seja primário, não olvidando que a reprimenda corporal tenha sido estabelecida em patamar inferior 4 (quatro) anos de reclusão, foi estabelecido o regime inicial semiaberto a partir de motivação concreta extraída dos autos - "sendo o crime praticado mediante violência, contra vítima sozinha e fisicamente inferior, que ficou machucada (Laudo Pericial de fls. 122/123), em verdadeira afronta às regras elementares do bom convívio social, evidenciando a perigosidade incomum do Apelante" -, exatamente nos termos do que dispõe o art. 33, §§ 2º e 3º do Código Penal. Inaplicável, portanto, os enunciados n. 440 do STJ e n. 718 do STF.
+A propósito, confiram-se:
+CONSTITUCIONAL E PENAL. HABEAS CORPUS. ROUBO DUPLAMENTE CIRCUNSTANCIADO. MOTIVAÇÃO IDÔNEA PARA A IMPOSIÇÃO DO REGIME FECHADO. GRAVIDADE CONCRETA DO DELITO. ORDEM NÃO CONHECIDA.
+ ..
+2. Os fundamentos utilizados pelo acórdão ora recorrido não podem ser tidos por genéricos e, portanto, constituem motivação suficiente para justificar a imposição de regime prisional mais gravoso que o estabelecido em lei (art. 33, §§ 2º e 3º, do Código Penal), não havendo se falar em violação da Súmula/STJ 440, bem como dos verbetes sumulares 718 e 719 do Supremo Tribunal Federal.
+3. Malgrado a pena-base tenha sido imposta no piso legal, o estabelecimento do regime mais severo do que o indicado pelo quantum da reprimenda baseou-se na gravidade concreta do delito, evidenciada pela violência empregada, que desborda da ínsita ao crime de roubo, exigindo resposta estatal superior, dada a maior reprovabilidade da conduta, em atendimento ao princípio da individualização da pena.
+4. A aplicação de pena no patamar mínimo previsto no preceito secundário na primeira fase da dosimetria não conduz, obrigatoriamente, à fixação do regime indicado pela quantidade de sanção corporal, sendo lícito ao julgador impor regime mais rigoroso do que o indicado pela regra geral do art. 33, §§ 2º e 3º, do Estatuto Repressor Penal, desde que mediante fundamentação idônea. (Precedentes).
+5. Ordem não conhecida (HC 338.469/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 15/04/2016).
+HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. INADEQUAÇÃO DA VIA ELEITA. ROUBO CIRCUNSTANCIADO. DOSIMETRIA. DUAS CAUSAS DE AUMENTO DE PENA. ACRÉSCIMO EM FRAÇÃO SUPERIOR A 1/3. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. APLICAÇÃO DO ENUNCIADO N. 443 DA SÚMULA DESTA CORTE. REGIME INICIAL FECHADO. POSSIBILIDADE. REGIME MAIS GRAVOSO FIXADO COM BASE NA GRAVIDADE CONCRETA DO DELITO. HABEAS CORPUS NÃO CONHECIDO. CONCESSÃO DA ORDEM, DE OFÍCIO.
+ ..
+4. "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito" (enunciado n. 440 da Súmula do STJ) e, no mesmo sentido, os enunciados n. 718 e 719 da Súmula do STF.
+5. No caso, embora o paciente seja primário, condenado à pena privativa de liberdade superior a 4 e não excedente a 8 anos, o regime mais gravoso foi estabelecido mediante fundamentação concreta, qual seja, ameaça a duas vítimas, em concurso de pessoas, com emprego de arma de fogo e mediante invasão de domicílio.
+6. Habeas corpus não conhecido. Ordem concedida, de ofício, apenas para redimensionar a pena do paciente (HC 350.796/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 10/05/2016).
+HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. ROUBO MAJORADO. DOSIMETRIA. TERCEIRA FASE. EXASPERAÇÃO DA PENA EM PATAMAR SUPERIOR AO MÍNIMO LEGAL. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. SÚMULA N. 443/STJ. REGIME PRISIONAL FECHADO. OUSADIA E GRAVIDADE CONCRETA DA CONDUTA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+3. É pacífica neste Tribunal Superior a orientação segundo a qual a fixação de regime mais gravoso do que o imposto em razão da pena deve ser feita com base em fundamentação concreta, a partir das circunstâncias judiciais dispostas no art. 59 do Código Penal ou de outro dado que demonstre a extrapolação da normalidade do tipo.
+4. In casu, o regime prisional mais severo foi devidamente fixado na origem, que levou em consideração a gravidade concreta do delito praticado pelo paciente, ao imobilizar a vítima em via pública, ameaçando-a com uma faca encostada em seu corpo, circunstâncias reveladoras de ousadia e periculosidade concreta na conduta do agente, além de menoscabo com a integridade física das pessoas, que afasta a incidência da Súmula n. 440/STJ.
+5. Habeas corpus não conhecido. Ordem concedida de ofício para limitar o recrudescimento da pena do paciente, na terceira fase da dosimetria, à fração de 1/3 (um terço), redimensionando sua reprimenda ao patamar de 5 anos e 4 meses de reclusão, mais o pagamento de 13 dias-multa, a ser cumprida inicialmente no regime fechado (HC 318.833/SP, de minha relatoria, QUINTA TURMA, DJe 25/05/2016).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimações necessárias.
