@@ -1,0 +1,35 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. ATIPICIDADE. NECESSIDADE DE DILAÇÃO PROBATÓRIA. INVIABILIDADE. ILEGALIDADE FLAGRANTE RECONHECIDA DE OFÍCIO. IMPOSIÇÃO DE REGIME FECHADO. AUSÊNCIA DE FUNDAMENTAÇÃO AMPARADA EM FATOS CONCRETOS. RÉU PRIMÁRIO. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. INCIDÊNCIA DO ENUNCIADO SUMULAR 440/STJ. DIREITO AO REGIME SEMIABERTO.
+Ordem denegada. Habeas corpus concedido de ofício.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo.
+Consta dos autos que o paciente, juntamente com outra, foi condenado à pena de 8 anos de reclusão, em regime fechado, pela prática dos delitos previstos nos arts. 33, caput, e 35, caput, da Lei 11.343/2006 (Ação Penal n. 0001924-28.2016.8.26.0344 - 2ª Vara Criminal da comarca de Marília/SP).
+Interposta apelação pela defesa, o Tribunal a quo negou-lhe provimento.
+Sustenta a impetrante que a ilegalidade decorre da manutenção da condenação do paciente pelo crime de associação para o tráfico, com base em fundamentos genéricos e que não indicam estabilidade e permanência (fl. 4). Pleiteia, assim, a absolvição.
+Como consectário, requer seja reconhecida a causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/06, aplicando-a em seu patamar máximo, com a fixação do regime aberto e a substituição da pena privativa de liberdade por medidas restritivas de direitos.
+O pedido de liminar, para que o paciente aguardasse em liberdade o julgamento do presente writ, foi indeferido (fls. 103/106).
+Prestadas as informações (fls. 112/129), o Ministério Público Federal, em parecer exarado pelo Subprocurador-Geral da República [NOME], manifestou-se pelo não conhecimento do writ (fls. 131/135).
+É o relatório.
+No caso dos autos, a impetrante busca a absolvição quanto ao crime previsto no art. 35 da Lei n. 11.343/2006.
+Sobre tal questão, assim decidiu o Magistrado sentenciante (fl. 70):
+Vê-se, pois, que os informes orais coligidos sob o crivo do contraditório, aliados aos obtidos na Delegacia, confirmam os termos da exordial.
+Não há dúvidas de que Antônia realizava o tráfico ilícito, valendo-se do apoio de [NOME]. Veja-se que os policiais foram categóricos em afirmar que viram, reiteradamente, [NOME] repassar dinheiro a Antônia.
+E embora Antônia não tivesse sob sua guarda entorpecentes a serem apreendidos, é certo que "chefes de tráfico" delegam a seus subordinados as funções de guardar e comercializar a droga, justamente para dificultar o trabalho da polícia. Dessa forma, apenas mediante trabalho investigativo minucioso resta possível a prisão dos "chefes" das associações que se dedicam a mercancia clandestina.
+Some-se a isso, o caderno apreendido com anotações de contabilidade do tráfico e o Laudo de exame grafotécnico comprovando que as informações ali lançadas provinham do punho de Antônia, fazendo alusões a valores e nomes de pessoas com envolvimento no comércio clandestino e frise-se - sem nenhuma anotação de qualquer mercadoria comercializada no bar, são provas irrefutáveis da traficância.
+Mas também é certo que Antônia e [NOME] operavam em sociedade, de modo organizado, cada qual exercendo uma tarefa.
+[NOME] guardava e vendia os entorpecentes, ao passo que Antônia chefiava o tráfico e recebia as importâncias monetárias de [NOME] referente à venda das drogas. Ademais, o usuário de tóxico, Carlos, ouvido perante autoridade policial, foi taxativo em dizer que adquiriu entorpecentes de um traficante na Rua Ângelo Raspante, ou seja, mesmo local onde [NOME] e Antônia foram abordados e presos em flagrante.
+A campana durou de três a quatro dias, segundo os investigadores. No curso dela, foram muitos os indivíduos que estiveram no local adquirindo tóxicos. Daí a certeza da existência da associação criminosa, da estabilidade do negócio, a permitir que os acusados sejam condenados não apenas pelo tráfico ilícito, mas, também, pelo crime do artigo 35, da Lei 11.343/06.
+O Tribunal a quo, ao manter a sentença, assim asseverou (fls. 94/95):
+Dessarte, os crimes de tráfico e de associação para a nefasta mercancia restaram comprovados, sobretudo pelos depoimentos dos policiais e pela quantidade e variedade de entorpecentes apreendidos, o que demonstra o envolvimento dos réus com o crime organizado e a dedicação de ambos a atividades criminosas.
+Ademais, não trouxeram os apelantes qualquer prova que pudesse ilidir suas responsabilidades, não obstante o esforço despendido e os argumentos oferecidos pela defensoria.
+A r. sentença bem analisou o quadro probatório dos autos, dando aos fatos perfeita adequação jurídica.
+Na reiteração da instância nada de novo foi alegado que infirmasse as conclusões da decisão recorrida.
+O quadro probatório, portanto, contém elementos de convicção, de molde a não deixar dúvidas sobre a prática, pelos acusados, dos crimes de tráfico de entorpecentes e associação revelando-se desarrazoado cogitar da incidência, na espécie, de qualquer das hipóteses de absolvição previstas no caput do artigo 386 do Código de Processo Penal.
+Como visto, as instâncias ordinárias, soberanas na análise dos fatos e provas, entenderam, de forma fundamentada, pela existência de elementos contundentes a justificar a condenação do ora paciente tanto por tráfico de drogas, quanto pela associação, demonstrada a permanência e a estabilidade do vínculo associativo.
+Sendo assim, a pretensão não comporta conhecimento, porquanto adotar conclusão diversa, no sentido de que as provas amealhadas aos autos são insuficientes para embasar do decreto condenatório, demandaria inegavelmente o revolvimento do acervo probatório, providência esta incabível na via estreita do habeas corpus, caracterizado pelo rito célere e cognição sumária.
+Contudo, vislumbro, na hipótese, ilegalidade flagrante que deve ser sanada de ofício (art. 654, § 2º, do CPP), no que se refere à fixação do regime fechado.
+Com efeito, não obstante a primariedade do paciente e a fixação das penas no mínimo legal, totalizando 8 anos de reclusão, o magistrado sentenciante, sem qualquer fundamentação, afirmou tão somente que as penas devem ser cumpridas em regime fechado (fl. 74). No mesmo diapasão, o Tribunal a quo asseverou que diante da gravidade concreta dos fatos em apreço, correta a adoção do regime prisional inicial fechado, ex vi do disposto no artigo 33, § 3º, do Código Penal (fl. 97).
+Do exposto, verifica-se que o caso em apreço reclama a incidência do verbete sumular n. 440/STJ, segundo o qual fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+Destarte, ausente fundamentação concreta para manutenção do paciente em regime mais gravoso, deve ser reconhecido o direito a iniciar o cumprimento da pena em regime semiaberto.
+Ante o exposto, denego a ordem de habeas corpus, nos termos em que pleiteada. Contudo, concedo-a de ofício, para modificar o regime inicial de cumprimento da pena imposta ao paciente para o semiaberto.
+Publique-se.
