@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo fundado no CPC/73, interposto por [NOME] e [NOME], desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 647):
+ADMINISTRATIVO. DESAPROPRIAÇÃO. FAIXA DE FRONTEIRA LOCALIZADA NO ESTADO DO PARANÁ. PAGAMENTO DE INDENIZAÇÃO A QUEM NÃO ERA LEGÍTIMO PROPRIETÁRIO. IMPOSSIBILIDADE.
+1. É viável o debate sobre domínio em ação expropriatória movida pelo INCRA contra particulares que receberam do Estado do Paraná títulos de propriedade de terras devolutas da UNIÃO situadas em faixa de fronteira.
+2. O expropriado, por outro lado, não tem direito a receber indenização, na medida em que as concessões de terras devolutas situadas na faixa de fronteira, feitas pelos Estados anteriormente à vigente Constituição, devem ser interpretadas como legitimando o uso, mas não a transferência do domínio de tais terras, em virtude da manifesta tolerância da União, e de expresso reconhecimento da legislação federal.
+Nas razões do recurso especial, a parte agravante aponta divergência jurisprudencial, sustentando que faz jus ao ressarcimento das custas relacionadas à retitulação do bem expropriado em regularização fundiária.
+O Ministério Público Federal opinou pelo não conhecimento do agravo (fls. 796/799).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Feita essa observação, cumpre ressaltar que, na interposição do recurso especial com base na alínea c do permissivo constitucional, é imperiosa a indicação do dispositivo federal sobre o qual recai a suposta divergência jurisprudencial, o que não ocorreu no caso em tela.
+Assim, não pode ser conhecido o presente recurso especial, nos termos da Súmula 284/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.". Nesse mesmo sentido, destacam-se os seguintes precedentes: AgRg no AREsp 123.219/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 22/5/2012; AgRg no AREsp 83.349/RJ, Rel. Ministro Francisco Falcão, Primeira Turma, DJe 7/5/2012.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
