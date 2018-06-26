@@ -1,0 +1,39 @@
+EMENTA
+TRIBUTÁRIO. EXECUÇÃO FISCAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO RECONHECIDA. ALEGAÇÃO DE EXISTÊNCIA DE RECURSO EX OFICIO DO LANÇAMENTO TRIBUTÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. VIOLAÇÃO A DIREITO LOCAL. INCIDÊNCIA DA SÚMULA 280/STF. AGRAVO REGIMENTAL DO ESTADO DE RONDÔNIA A QUE SE NEGA PROVIMENTO.
+1. A alegação de existência de recurso ex ofício do lançamento tributário não está a comportar cognição, porquanto tal argumento não foi objeto de debate pelo Tribunal de origem, impondo-se o não conhecimento do Recurso Especial, por ausência de prequestionamento; incidência da Súmula 211/STJ.
+2. A controvérsia passa necessariamente pela análise de Legislação Local (Lei Estadual 66/1996), medida vedada na via estreita do Recurso Especial, a teor da Súmula 280/STF, aplicável ao caso por analogia.
+3. Agravo Regimental do ESTADO DE RONDÔNIA a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Regimental interposto pelo ESTADO DE RONDÔNIA, em face da decisão monocrática da minha lavra, cuja ementa abaixo se transcreve:
+AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO E PROCESSO CIVIL. PRESCRIÇÃO. EXISTÊNCIA DE RECURSO EX OFICIO DO LANÇAMENTO TRIBUTÁRIO. FALTA DE PREQUESTIONAMENTO. ANÁLISE DE DIREITO LOCAL. APLICAÇÃO DAS SÚMULAS 211/STJ E 280/STF. AGRAVO DESPROVIDO.
+2. A parte agravante alega, em síntese, que (a) o dispositivo tido por violado foi devidamente prequestionado; e (b) não se trata de exame apenas de norma local, mas também norma federal.
+3. Impugnação não apresentada.
+4 É o relatório.
+VOTO
+TRIBUTÁRIO. EXECUÇÃO FISCAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO RECONHECIDA. ALEGAÇÃO DE EXISTÊNCIA DE RECURSO EX OFICIO DO LANÇAMENTO TRIBUTÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. VIOLAÇÃO A DIREITO LOCAL. INCIDÊNCIA DA SÚMULA 280/STF. AGRAVO REGIMENTAL DO ESTADO DE RONDÔNIA A QUE SE NEGA PROVIMENTO.
+1. A alegação de existência de recurso ex ofício do lançamento tributário não está a comportar cognição, porquanto tal argumento não foi objeto de debate pelo Tribunal de origem, impondo-se o não conhecimento do Recurso Especial, por ausência de prequestionamento; incidência da Súmula 211/STJ.
+2. A controvérsia passa necessariamente pela análise de Legislação Local (Lei Estadual 66/1996), medida vedada na via estreita do Recurso Especial, a teor da Súmula 280/STF, aplicável ao caso por analogia.
+3. Agravo Regimental do ESTADO DE RONDÔNIA a que se nega provimento.
+1. A parte agravante alega a existência de recurso ex ofício do lançamento tributário, no entanto, tal argumento não foi objeto de debate pelo Tribunal de origem, impondo-se o não conhecimento do Recurso Especial, por ausência de prequestionamento; incidência da Súmula 211/STJ.
+2. Apesar da parte recorrente ter interposto Embargos Declaratórios, não alegou nas razões do seu Apelo Raro, violação ao art. 535 do CPC/1973 ou 1.022/15, a fim de obter o pronunciamento da Corte local sobre o tema inserido nas razões do recurso, o que não ocorreu no caso concreto.
+3. Ressalte-se que, para atender ao requisito do prequestionamento, não basta que o dispositivo legal, supostamente violado, seja suscitado pelas partes interessadas, mas também se requer que seja objeto de debate pelo Órgão Colegiado competente, elemento indispensável para seguimento do Apelo Especial. Precedente: AgRg no Ag 1.417.806/PR, Rel. Min. ARNALDO ESTEVES LIMA, DJU 25.10.2011.
+4. No mais, a controvérsia passa necessariamente pela análise de Legislação Local (Lei Estadual 66/1996), medida vedada na via estreita do Recurso Especial, a teor da Súmula 280/STF, aplicável ao caso por analogia. Nesse sentido é a jurisprudência do STJ:
+TRIBUTÁRIO. IPVA. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO ESTADUAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL CONTESTADA EM FACE DE LEI FEDERAL. COMPETÊNCIA DO STF.
+1. O exame de normas de caráter local é inviável na via do recurso especial, em virtude da vedação prevista na Súmula 280 do STF, segundo a qual, por ofensa a direito local, não cabe recurso extraordinário.
+2. A irresignação recursal apresenta inconformismo quanto à aplicação da Lei Complementar Estadual 14.937/03 em detrimento dos arts. arts. 130 e 131, I, ambos do CTN, 1.267 do CPC e 1.368-B do CC.
+3. Conflito entre a lei local e a federal só pode ser resolvida pelo Supremo Tribunal Federal, pois trata, em última análise, de matéria constitucional relacionada ao pacto federativo. Emenda Constitucional 45/2004 (art. 102, III, d, da CF).
+Agravo regimental improvido (AgRg no AREsp. 781.690/MG, Rel. Min. HUMBERTO MARTINS, DJe 13.11.2015).
+
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. BASE DE CÁLCULO DO ADICIONAL DE INSALUBRIDADE. INVIABILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL E DE PRECEITOS CONSTITUCIONAIS EM FACE DA INCIDÊNCIA DA SÚMULA 280 DO STF E DA COMPETÊNCIA EXCLUSIVA DO SUPREMO TRIBUNAL FEDERAL. DESCABIMENTO DA ALEGAÇÃO DE OFENSA A ENUNCIADO DE SÚMULA. AUSÊNCIA DE INDICAÇÃO ESPECÍFICA DO DISPOSITIVO DE LEI FEDERAL TIDO POR VIOLADO, O QUE FAZ INCIDIR O ÓBICE DA SÚMULA 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A agravante indicou, nas razões do Recurso Especial, afronta aos arts. 93, inciso IX da Constituição Federal e 134, inciso VII da Lei Municipal 494/74, bem como da Súmula Vinculante 4/STF. Todavia, excede a competência desta Corte a análise em sede de Recurso Especial de norma de direito local e de preceito constitucional, já que não se enquadram no conceito de lei federal. Portanto, a pretensão recursal esbarra, respectivamente, no óbice da Súmula 280/STF e no impedimento previsto no art. 102 da CF, que veda a análise de questões cuja competência é exclusiva do STF por esta Corte.
+2. O Superior Tribunal de Justiça firmou o entendimento de que, para fins de interposição do Recurso Especial, a indicação de eventual ofensa a enunciado sumular não se enquadra no conceito de lei federal previsto no art. 105, III, a da Constituição Federal de 1988.
+3. Nas razões do Recurso Especial, não se particularizou qual dispositivo da legislação federal infraconstitucional teria sido objeto de violação, o que atrai, na espécie, a incidência da Súmula 284 do STF.
+4. Agravo Regimental a que se nega provimento (AgRg no AREsp. 220.621/MG, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 4.3.2016).
+
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. MULTA POR DESCUMPRIMENTO DO DEVER DE LIMPEZA DE TERRENO NÃO EDIFICADO. RESPONSABILIDADE. LEI MUNICIPAL N. 2.968/78 E DECRETO MUNICIPAL N. 11.922/2005. EXAME DE DIREITO LOCAL. IMPOSSIBILIDADE. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 280/STF.
+1. A controvérsia sobre a aplicação da multa em discussão foi dirimida pelo Tribunal a quo essencialmente sob o enfoque da Lei Municipal n. 2.968/78 e do Decreto Municipal n. 11.922/2005, o que torna inviável o exame do recurso especial sob todos os ângulos, na medida em que seria indispensável a interpretação de legislação local, nos termos da Súmula 280/STF.
+2. Agravo regimental não provido (AgRg no AgRg no AREsp. 133.894/MG, Rel. Min. BENEDITO GONÇALVES, DJe 18.2.2014).
+5. Com base nessas considerações, nega-se provimento ao Agravo Regimental, regularmente interposto pelo ESTADO DE RONDÔNIA.
+6. É como voto.
