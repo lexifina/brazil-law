@@ -1,0 +1,42 @@
+DECISÃO
+1. Trata-se de embargos de declaração opostos por KIRRA INVESTIMENTOS IMOBILIÁRIOS LTDA. contra decisão de minha lavra (fls. 420/422), que negou provimento ao recurso especial ante a aplicação das Súmulas n. 284/STF e 282/STF.
+Nas razões recursais (fls. 425/428), a parte embargante alega, em síntese, que haveria omissão e contradição na decisão embargada, já que indicou claramente o dispositivo violado, qual seja, o artigo 476 do CC. Ademais, demonstrou a ofensa à legislação. Assim, não incidiria a Súmula n. 284/STF.
+Por outro lado, defende ter havido o prequestionamento da matéria e afirma que a decisão não abordou o alegado dissídio jurisprudencial.
+Requer o acolhimento dos embargos declaratórios, a fim de sanar as alegadas omissão e contradição.
+É o relatório. DECIDO.
+2. Segundo o art. 1.022, caput e incisos, do Novo CPC, são cabíveis os embargos de declaração quando a decisão judicial se revelar omissa, obscura ou contraditória, assim como para correção de erro material.
+Da doutrina processualista, extrai-se que a obscuridade consiste na falta de clareza da decisão impugnada, sendo que, diante da função precípua do pronunciamento judicial de emprestar certeza às relações litigiosas que calham às suas portas, não se admitem decisões judiciais não-unívocas.
+Por outro lado, verifica-se a contradição quando no acórdão se incluem proposições entre si inconciliáveis. Nos termos do magistério de Barbosa Moreira:
+Pode haver contradição entre proposições contidas na motivação (exemplo: a mesma prova ora é dita convincente, ora inconvincente), ou entre proposições da parte decisória, isto é, incompatibilidade entre capítulos do acórdão: v.g. anula-se, por vício insanável, quando logicamente se deveria determinar a restituição ao órgão inferior, para sentenciar de novo; ou declara-se inexistente a relação jurídica prejudicial (deduzida em reconvenção ou em ação declaratória incidental), mas condena-se o réu a cumprir a obrigação que dela necessariamente dependia; e assim por diante. Também pode ocorrer contradição entre alguma proposição enunciada nas razões de decidir e o dispositivo: por exemplo, se na motivação se reconhece como fundada alguma defesa bastante para tolher a pretensão do autor, e no entanto se julga procedente o pedido.
+(Comentários ao Código de Processo Civil. v. 5. Rio de Janeiro: Forense, 2008, pp. 556-557)
+Por sua vez, "o erro material é aquele evidente, decorrente de simples erro aritmético ou fruto de inexatidão material, e não erro relativo a critérios ou elementos de julgamento" (EDcl no AgRg no REsp 1234057/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 28/06/2011, DJe 01/07/2011.
+De resto, nos termos do art. 1.022, II, do Novo CPC "omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento".
+Nenhum desses vícios se faz presente na decisão ora embargada.
+3. Na espécie, consta da decisão ora embargada o seguinte:
+2. De início, no tocante ao recurso especial interposto pela alínea "c" do permissivo constitucional, referente ao tema termo final da indenização por atraso na entrega da obra, sobressai, de imediato, a manifesta deficiência na fundamentação recursal, eis que a recorrente não indicou os dispositivos supostamente malferidos, com a consequente demonstração da eventual ofensa à legislação infraconstitucional, inviabilizando a compreensão da controvérsia posta nos autos. Aplica-se, por analogia, o óbice contido na Súmula n. 284/STF.
+A propósito:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. TRANSPORTE COLETIVO. DANO MORAL. 1. MAJORAÇÃO DA INDENIZAÇÃO. QUESTÃO DEVIDAMENTE FUNDAMENTADA NO ACÓRDÃO RECORRIDO. 2. REDUÇÃO DO VALOR DA CONDENAÇÃO. REEXAME DE PROVAS. DESCABIMENTO. SÚMULA 7/STJ. 3. DIVERGÊNCIA NÃO DEMONSTRADA. AUSÊNCIA DE INDICAÇÃO DOS ARTIGOS. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284 DO STF. 4. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+3. A Corte Especial do STJ decidiu, no julgamento do AgRg no REsp 1.346.588/DF, Relator o Ministro Arnaldo Esteves Lima, que no recurso especial interposto com base na divergência jurisprudencial (art. 105, III, c, da CF), é imprescindível a indicação dos dispositivos legais sobre os quais se baseia o dissenso interpretativo, sob pena de não conhecimento do recurso.
+4. Agravo regimental desprovido" (AgRg no REsp 1.579.618/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/06/2016, DJe 01/07/2016).
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. DANOS MORAIS.
+AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA N. 284/STF. VALOR DA INDENIZAÇÃO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. DIVERGÊNCIA NÃO DEMONSTRADA. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. A falta de indicação do dispositivo legal supostamente violado obsta o conhecimento do recurso especial, ainda que interposto com fundamento na alínea "c" do permissivo constitucional (Súmula n. 284/STF).
+(..)
+5. Agravo interno a que nega provimento" (AgInt no AREsp 895.279/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 13/09/2016, DJe 19/09/2016).
+3. No mais, em relação à suposta violação ao art. 476 do Código Civil, o Tribunal de origem, soberano na análise das circunstâncias fáticas da causa, assim consignou:
+A construtora não nega o atraso e até a presente data não há notícia de que o imóvel tenha sido entregue.
+O prestador de serviços responde pelo risco de sua atividade empresarial deve indenizar o prejuízo que cause com seu inadimplemento, que é consequência direta de política administrativa. Está configurado o atraso por culpa da ré.
+A falta de entrega do imóvel na data prevista gerou dano material ao autor, independentemente da destinação do imóvel.
+A cláusula invocada pelo autor para acolhimento do pedido principal não se refere à multa moratória aplicada ao comprador no caso de inadimplemento. Trata-se de percentual relativo à dedução de valores pagos no caso de rescisão de contrato, após a imissão na posse (cláusula 6.4 "A", a fls. 39).
+Por isso, inaplicável ao presente caso.
+A obtenção do habite-se não esgota o cumprimento da obrigação da construtora, que só se o exaure com a efetiva entrega da unidade condominial. Claro que, se a demora nessa entrega decorrer, não do inadimplemento da compromissária vendedora, mas da aplicação da exceção do contrato cumprido, por falta de pagamento da parcela final do preço, a questão deverá ser reapreciada, o que não cabe dentro dos limites desta demanda, por se tratar de evento futuro e incerto.
+Nesse contexto, nota-se que a questão relacionada a aplicação da exceção do contrato não cumprido não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF). O Tribunal estadual entendeu que sua análise não caberia dentro da presente demanda, por se tratar de evento futuro e incerto (inadimplemento da parcela final do preço).
+Ressalto que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+4. Ante o exposto, nego provimento ao agravo.
+Com efeito, nota-se que, no presente caso (partes grifadas), não há omissão, nem contradição a serem sanadas, de modo que todos os pontos necessários ao desate da controvérsia foram abordados, de forma coerente e lógica.
+Observa-se que não é omissa, nem contraditória a decisão que, embora com fundamentação contrária ao interesse da parte, desata a questão jurídica posta em juízo.
+A parte embargante, na verdade, deseja a rediscussão da matéria, já julgada de maneira inequívoca. Essa pretensão não está em harmonia com a natureza e a função dos embargos de declaração.
+Desse modo, ressalta-se que os restritos limites dos embargos de declaração não permitem rejulgamento da causa, como pretende a parte embargante, sendo certo que o efeito modificativo pretendido somente é possível em casos excepcionais e uma vez comprovada a obscuridade, contradição, omissão ou erro material do julgado, o que não se aplica ao caso concreto pelas razões acima delineadas.
+4. Ante o exposto, rejeito os presentes embargos de declaração.
+Publique-se. Intimem-se.
