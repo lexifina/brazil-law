@@ -1,0 +1,22 @@
+DECISÃO
+1. Cuida-se de agravo interposto por ROSINHA MARIA MORETTI contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim ementado:
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. ATROPELAMENTO DE PEDESTRE AO FINAL DA TRAVESSIA DE FAIXA DE SEGURANÇA. PRIORIDADE DE PASSAGEM. NECESSIDADE DE ATENÇÃO DOS CONDUTORES DE VEÍCULOS. CULPA DO CONDUTOR EVIDENCIADA. DEVER DE INDENIZAR. DANO MORAL. CONFIGURADO. VALOR ARBITRADO COM BASE NOS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE. DANO ESTÉTICO. NÃO COMPROVADO. DANO MATERIAL. DESPESAS COM TRATAMENTOS FUTUROS. AVERIGUAÇÃO EM LIQUIDAÇÃO DE SENTENÇA POR PROCEDIMENTO COMUM. ARTIGOS 509, II E 511 DO CPC/15. PENSÃO MENSAL. INCAPACIDADE PARA O EXERCÍCIO DA FUNÇÃO ANTERIOR ATESTADA EM PERÍCIA JUDICIAL. LIQUIDAÇÃO DE SENTENÇA POR ARBITRAMENTO PARA VERIFICAÇÃO DA PROPORCIONALIDADE E EXTENSÃO. INVERSÃO DA SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. CPC, ART. 20. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Age com negligência e imprudência o condutor de veículo automotor que, observando a faixa de segurança para pedestres, não adota conduta cautelosa em sua condução e vem a colher pedestre que sobre ela atravessava. (Ap. Cív. n. 0004221-52.2006.8.24.0008, de Blumenau, rel. Des. Gilberto Gomes de Oliveira, j. 24.5.2016).
+O valor da indenização por dano moral deve ser arbitrado em atenção ao princípio da proporcionalidade, levando-se em consideração, de um lado, a gravidade do ato danoso e do abalo suportado pela vítima e, de outro, o aspecto sancionatório ao responsável pelo dano, a fim de coibir a reiteração da conduta lesiva.
+A condenação ao pagamento de indenização por dano material e estético está condicionada à comprovação das despesas e do dano sofrido por parte de quem o pleiteia. Inteligência do artigo 333, inciso I, do CPC.
+O pagamento de pensão mensal deverá ocorrer pelo período em que perdurar a incapacidade laborativa da vítima de acidente de trânsito, período esse que poderá ser averiguado em liquidação de sentença, nos termos dos artigos 509, II e 511 do CPC/15.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial (fls. 398/405), aponta a parte recorrente ROSINHA MARIA MORETTI, além de dissídio jurisprudencial, ofensa ao disposto no art. 944 do CC.
+Alega, em síntese, que os danos morais foram fixados de forma irrisória (R$ 10.000,00 - dez mil reais), pedindo sua majoração.
+É o relatório. DECIDO.
+2. Acerca do pedido de majoração do quantum indenizatório, em sede de recurso especial, a revisão da indenização por dano moral apenas é possível quando o valor arbitrado nas instâncias originárias se revelar irrisório ou exorbitante. Não estando configurada uma dessas hipóteses, torna-se incabível examinar a justiça do valor fixado na indenização, uma vez que tal análise demanda incursão à seara fático-probatória dos autos, atraindo a incidência do enunciado da Súmula 7/STJ.
+No caso dos autos, a quantia de R$ 10.000,00 (dez mil reais) não se mostra dissonantes dos parâmetros deste Tribunal Superior.
+A propósito:
+AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO ATROPELAMENTO. VEÍCULO. TRANSFERÊNCIA DO VEÍCULO. NÃO DEMONSTRAÇÃO. PROPRIETÁRIO. EMPRÉSTIMO. JUROS DE MORA. SÚMULA 83/STJ. VALOR DA INDENIZAÇÃO. SÚMULA 7/STJ. CPC. ART. 535. VIOLAÇÃO. NÃO OCORRÊNCIA.
+ .. .
+5. Consoante entendimento pacificado no âmbito desta Corte, o valor da indenização por danos morais só pode ser alterado na instância especial quando manifestamente ínfimo ou exagerado, o que não se verifica na hipótese dos autos.
+6. Agravo regimental a que se nega provimento.
+(AgRg no Ag 823.567/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 22/09/2015, DJe 01/10/2015)
+Por fim, importante frisar que este Superior Tribunal já deixou assente a impossibilidade do conhecimento do dissídio lastreado na diferença entre os valores arbitrados a título de danos morais ante a inexistência de similitude fática, já que "em se tratando de danos morais, torna-se incabível a análise do recurso com base na divergência pretoriana, pois, ainda que haja grande semelhança nas características externas e objetivas, no aspecto subjetivo, os acórdãos serão sempre distintos" (AgRg no Ag n. 1.179.405/SP, Relator o Ministro João Otávio de Noronha, Quarta Turma, Dje de 13/4/2010).
+3. Ante o exposto, nego provimento ao agravo de ROSINHA MARIA MORETTI.
+Publique-se. Intimem-se.
