@@ -1,0 +1,102 @@
+DECISÃO
+1. Cuida-se de agravo em recurso especial fundado no artigo 105, III, alíneas "a" e "c", da Constituição Federal, interposto contra acórdão proferido pelo Eg. Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+DIREITO PROCESSUAL CIVIL. EMBARGOS.DE TERCEIRO. EXECUÇÃO CONTRA PESSOA JURÍDICA. DESCONSIDERAÇÃO DA PERSONALIDADE: PRECLUSÃO. HONORÁRIOS ADVOCATICIOS.
+1. Descabe a discussão do afastamento da autonomia patrimonial da empresa embargante quando já houve decisão sobre o tema, nos termos do art. 473 do Código de Processo Civil, motivo pelo qual escorreita a decisão que desconstituiu a penhora.
+2. Nos casos em que não há condenação, os honorários do advogado devem ser fixados segundo critérios de justiça do magistrado, levando-se em consideração as diretrizes previstas nas alíneas "a", "b" e "c" do § 3º do artigo 20 do CPC.
+3. Recurso parcialmente provido. (fl. 540)
+
+Opostos embargos de declaração, foram rejeitados.
+Nas razões recursais, o recorrente defende, além de dissídio jurisprudencial, as seguintes teses: a) houve negativa de prestação jurisdicional; b) não ocorreu preclusão da matéria; e c) alternativamente, devem ser reduzidos os honorários.
+O recurso recebeu crivo negativo de admissibilidade na origem, ascendendo a esta Corte Superior por meio da interposição de agravo.
+É o relatório. Decido.
+2. Compulsando os autos, observa-se que a parte recorrente sustenta omissão no acórdão impugnado, ao argumento de que a Corte de origem deixou de manifestar-se sobre a matéria versada em sede de embargos de declaração.
+Verifica-se, inicialmente, no que tange à admissibilidade do presente recurso por violação ao 1.022 do CPC, que, no ponto, não houve negativa de prestação jurisdicional, máxime porque a Corte de origem analisou as questões deduzidas pelo recorrente.
+De fato, na hipótese em exame, é de ser afastada a existência de vícios no acórdão, à consideração de que a matéria impugnada foi enfrentada de forma objetiva e fundamentada no julgamento do recurso, naquilo que o Tribunal a quo entendeu pertinente à solução da controvérsia.
+Com efeito, não se pode olvidar que a Corte de origem ressaltou que inexiste vício a legitimar o acolhimento dos declaratórios, porquanto o acórdão, ao entender pela possibilidade de retirada da constrição dos bens da empresa autora, baseou-se no fato de que a questão já havia sido analisada em outra oportunidade, estando, portanto, preclusa.
+Em síntese, os vícios a que se refere o artigo 1.022 do CPC são aqueles que recaem sobre ponto que deveria ter sido decidido e não o foi, e não sobre os argumentos utilizados pelas partes, sendo certo que não há falar em omissão simplesmente pelo fato de as alegações deduzidas não terem sido acolhidas pelo órgão julgador.
+A propósito, na parte que interessa:
+AGRAVO REGIMENTAL. AÇÃO DE SOBREPARTILHA. ALEGAÇÃO, NAS RAZÕES DE RECURSO ESPECIAL, DE VIOLAÇÃO AOS ARTIGOS 458, II E 535, II, DO CPC. INEXISTÊNCIA.  ..
+1. Não há que se falar em nulidade do acórdão por omissão, se este examinou e decidiu os pontos relevantes e controvertidos da lide e apresentou os fundamentos nos quais sustentou as conclusões assumidas.
+ ..
+(AgRg no AREsp 37.045/GO, QUARTA TURMA, Rel. Ministro LUIS FELIPE SALOMÃO, julgado em 5/3/2013, DJe 12/3/2013)  g.n.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. 2. MEDIDA CAUTELAR DE ARRESTO. PERICULUM IN MORA NÃO CONFIGURADO. MODIFICAÇÃO DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 3. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS EVIDENCIADA PELA APLICAÇÃO DA SÚMULA 7/STJ. 4. AGRAVO INTERNO DESPROVIDO.
+1. Havendo a apreciação pelo Tribunal de origem de todas as matérias suscitadas pelas partes, não há que se falar em violação do art. 1.022 do CPC/2015.
+2. Para modificar a conclusão do acórdão recorrido, que manteve o indeferimento do pedido de arresto cautelar dos bens dos recorridos em razão da ausência de comprovação do periculum in mora, seria imprescindível o reexame de todo o conjunto fático-probatório dos autos, procedimento inviável na via do especial (Súmula 7/STJ).
+3. Nos termos da jurisprudência desta Corte Superior, a incidência da Súmula 7/STJ impede o exame do recurso especial em relação ao dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática de cada caso concreto.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1043856/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/09/2017, DJe 15/09/2017)  g.n.
+ADMINISTRATIVO. CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. INTERVENÇÃO DO ESTADO NA PROPRIEDADE. DESAPROPRIAÇÃO DIRETA. ALEGAÇÃO DE APOSSAMENTO ADMINISTRATIVO. PRETENSÃO INDENIZATÓRIA DE DANOS MORAIS. DIREITO DE CULTO AOS MORTOS. VIOLAÇÃO A DIREITO DA PERSONALIDADE. DESNECESSIDADE DE PRODUÇÃO DE PROVA. AUTONOMIA DA PESSOA JURÍDICA. DISTINÇÃO DA PESSOA DOS SÓCIOS. INTRANSMISSIBILIDADE DO DIREITO. CARÊNCIA DE LEGITIMIDADE PARA A CAUSA.
+1. O mero julgamento da causa em sentido contrário aos interesses e à pretensão de uma das partes não caracteriza a ausência de prestação jurisdicional tampouco viola o art. 1.022 do CPC/2015. Jurisprudência do Superior Tribunal de Justiça.
+2. A regra que veda o comportamento contraditório ("venire contra factum proprio") aplica-se a todos os sujeitos processuais, inclusive os imparciais. Não é aceitável o indeferimento de instrução probatória e sucessivamente a rejeição da pretensão por falta de prova.
+3. A pessoa jurídica não tem legitimidade para demandar a pretensão de reparação por danos morais decorrentes de aventada ofensa ao direito de culto aos antepassados e de respeito ao sentimento religioso em favor dos seus sócios.
+4. Trata-se de direito da personalidade e, portanto, intransmissível, daí por que incabível a dedução em nome próprio de pretensão reparatória de danos morais alheios.
+5. Recurso especial não provido.
+(REsp 1649296/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 05/09/2017, DJe 14/09/2017)  g.n.
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTOS. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. HIPÓTESE EM QUE A FAZENDA PÚBLICA FOI CONDENADA EM HONORÁRIOS DE ADVOGADO, FIXADOS, PELO TRIBUNAL DE ORIGEM, SEM DEIXAR DELINEADAS CONCRETAMENTE, NO ACÓRDÃO RECORRIDO, AS CIRCUNSTÂNCIAS A QUE SE REFEREM AS ALÍNEAS DO § 3º DO ART. 20 DO CPC/73. INADMISSIBILIDADE DO RECURSO ESPECIAL, EM FACE DA INCIDÊNCIA DAS SÚMULAS 7/STJ E 389/STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. Não há falar, na hipótese, em violação aos arts. 489 e 1.022 do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+ ..
+IX. Agravo interno improvido.
+(AgInt no AREsp 1046644/MS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 05/09/2017, DJe 11/09/2017)  g.n.
+AGRAVO INTERNO. INTERPOSIÇÃO SOB A ÉGIDE DO CPC/2015. AÇÃO DE COBRANÇA. DEPÓSITO JUDICIAL. ATUALIZAÇÃO PELO SALÁRIO MÍNIMO. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. CONTRADIÇÃO. INEXISTÊNCIA.
+1. Considera-se improcedente a arguição de ofensa ao art. 1.022, I, do CPC/2.015 quando o decisum se pronuncia, de forma motivada e suficiente, sobre os pontos relevantes e necessários ao deslinde da controvérsia.
+2. A contradição que autoriza a oposição dos embargos é aquela interna ao julgado, existente entre a fundamentação e a conclusão.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 187.905/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 09/08/2016, DJe 19/08/2016)  g.n.
+Impende ressaltar que "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (AgRg no Ag 56.745/SP, Relator o eminente Ministro CESAR ASFOR ROCHA, DJ de 12.12.1994). Nesse sentido, confiram-se os seguintes julgados: REsp 209.345/SC, Relator o eminente Ministro JOÃO OTÁVIO DE NORONHA, DJ de 16.5.2005; REsp 685.168/RS, Relator o eminente Ministro JOSÉ DELGADO, DJ de 2.5.2005.
+Veja-se:
+PROCESSUAL CIVIL. TRIBUTÁRIO. VIOLAÇÃO DO ART. 489, § 1º, DO CPC/2015 INEXISTENTE. DECISÃO FUNDAMENTADA EM PACÍFICA JURISPRUDÊNCIA DO STJ. ENTENDIMENTO CONTRÁRIO AO INTERESSE PARTE.
+1. Ao contrário do que aduzem os agravantes, a decisão objurgada é clara ao consignar que a jurisprudência do STJ é remansosa no sentido de que o décimo terceiro salário (gratificação natalina) reveste-se de caráter remuneratório, o que legitima a incidência de contribuição previdenciária sobre tal rubrica, seja ela paga integralmente ou proporcionalmente.
+2. O fato de o aviso prévio indenizado configurar verba reparatória não afasta o caráter remuneratório do décimo terceiro incidente sobre tal rubrica, pois são parcelas autônomas e de natureza jurídica totalmente diversas, autorizando a incidência da contribuição previdenciária sobre esta e afastando a incidência sobre aquela. Inúmeros precedentes.
+3. Se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada.
+Agravo interno improvido.
+(AgInt no REsp 1584831/CE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 14/06/2016, DJe 21/06/2016)  g.n.
+3. Observa-se, ainda, que melhor sorte não colhe o apelo no tocante a apontada violação aos artigos 506 do CPC/2015 (473 do CPC/1973) e 50 do Código Civil, bem como em relação ao invocado dissídio interpretativo, porquanto a convicção a que chegou o acórdão impugnado, ao concluir pela ocorrência de preclusão da matéria no caso dos autos decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal demandaria o reexame do mencionado.
+Com efeito, a Corte de origem reconheceu que se operou a preclusão em relação ao afastamento da autonomia patrimonial da empresa, motivo pelo qual escorreita a decisão que desconstituiu a penhora, notadamente ante a ocorrência do trânsito em julgado.
+A propósito:
+ADMINISTRATIVO. DESAPROPRIAÇÃO. DECISÃO QUE DETERMINA O PROSSEGUIMENTO DA EXECUÇÃO. AGRAVO DE INSTRUMENTO. PRECLUSÃO. FUNDAMENTO SUFICIENTE PARA MANUTENÇÃO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA, POR ANALOGIA, DOS ENUNCIADOS N. 283 E 284 DA SÚMULA DO STF. PRETENSÃO DE REEXAME DE PROVAS. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - A Corte a quo aplicou a pena de preclusão a respeito da alegação da parte agravante acerca de determinação relativa à sentença com trânsito em julgado. O fundamento do acórdão, suficiente para manutenção da decisão, entretanto, não foi objeto do recurso especial, o que atrai a incidência, por analogia, dos óbices dos enunciados n. 283 e 284 da Súmula do STF.
+II - Hipótese em que o Tribunal de origem concluiu que houve preclusão em relação à matéria alegada pela parte agravante em agravo de instrumento. A revisão desse entendimento implica reexame de fatos e provas, obstado pelo teor do enunciado n. 7 da Súmula do STJ.
+III - Agravo interno improvido.
+(AgInt no AREsp 1000619/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 06/06/2017, DJe 13/06/2017)  g.n.
+ADMINISTRATIVO. PROCESSUAL CIVIL. DESAPROPRIAÇÃO PARA FINS DE REFORMA AGRÁRIA. LAUDO PERICIAL. PRECLUSÃO. TRÂNSITO EM JULGADO. REEXAME DE PROVAS. SÚMULA 7 DO STJ. CONVENCIMENTO MOTIVADO DO MAGISTRADO. PRODUTIVIDADE DO IMÓVEL. EMBARGOS DE DECLARAÇÃO, ART. 535, II, DO CPC. OMISSÃO.
+1. Não se pode conhecer da alegada ofensa ao art. 535 do CPC, porquanto as razões do Agravo Regimental são genéricas e não indicam objetivamente de que forma teria havido omissão e qual a relevância do ponto, em tese omitido, para o deslinde da controvérsia. Aplica-se, portanto, por analogia, o óbice da Súmula 284/STF.
+2. O TRF, com base na prova pericial produzida nos autos, avaliou o preço do imóvel segundo o mercado da região. Nesse contexto, o acolhimento da pretensão recursal, para que se examine se o Laudo Técnico do assistente do Incra está correto, pressupõe revolvimento fático-probatório, o que é vedado no âmbito do Recurso Especial (Súmula 7/STJ).
+3. No ordenamento jurídico pátrio, o magistrado é livre para apreciar motivadamente as provas produzidas no processo, dando-lhes o valor que bem entender. No sistema de valoração de provas adotado pelo CPC, não há procedência de um tipo de prova sobre outro, como na idade média, período no qual as provas possuíam valores pré-estabelecidos. Por isso, não procede a irresignação do recorrente quanto ao pronunciamento do magistrado singular, porquanto ele apreciou adequadamente todas as provas colacionadas aos autos e concluiu fundamentadamente sua decisão.
+4. O perito judicial e os assistentes técnicos devem valer-se, em princípio, de dados atuais para produzir seus laudos, pois exigir que esses trabalhos técnicos refiram-se à realidade passada (de anos, muitas vezes) pode prejudicar a qualidade das avaliações e o contraditório. Assim, não merece prosperar a tese em relação à contemporaneidade do valor indenizatório com a data da desapropriação do imóvel. E isso porque este egrégio Superior Tribunal de Justiça já pacificou tal matéria, em sentido contrário ao que pretendido pelo Incra.
+5. A decisão recorrida também está de acordo com o entendimento desta Corte quanto à incidência de correção e juros sobre a parcela a ser paga por meio de TDAs.
+6. O Tribunal regional entendeu que o prazo para impugnar o laudo de avaliação do imóvel, a afirmação de ocupação da propriedade por trabalhadores rurais do MST e a ausência de intimação para apresentar recurso na esfera administrativa precluíram. Dessarte, reconhecer a ofensa à preclusão e ao trânsito em julgado exige o necessário reexame do conjunto fático-probatório, vedado na via estreita do Recurso Especial, por força da Súmula 7/STJ.
+7. Com relação à violação da Súmula 354/STJ, o STJ possui entendimento de que Súmula não se enquadra no conceito de lei federal, o que inviabiliza sua discussão na via excepcional.
+Aplicação da Súmula 518/STJ.
+8. Recursos Especiais parcialmente conhecidos e, nessa medida, não providos.
+(REsp 1654788/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/05/2017, DJe 20/06/2017)  g.n.
+Consigne-se, ainda, que, uma vez aplicada a Súmula 7/STJ quanto à alínea a, fica prejudicada a divergência jurisprudencial, pois as conclusões divergentes decorreriam das circunstâncias específicas de cada processo e não do entendimento diverso sobre uma mesma questão legal.
+Nesse sentido:
+ADMINISTRATIVO. LIMITAÇÃO AO EXERCÍCIO DO DIREITO DE PROPRIEDADE. INEXISTÊNCIA DE VIOLAÇÃO DOS ARTS. 458 E 535 DO CPC. DEVIDA PRESTAÇÃO JURISDICIONAL. ART. 524 DO CÓDIGO CIVIL DE 1916. DIREITO DE INDENIZAÇÃO DE ÁREA DECLARADA DE PRESERVAÇÃO PERMANENTE. IMPOSSIBILIDADE DE REEXAME DA DECISÃO A QUO POR ESTA CORTE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO.
+1. (..)
+2. (..)
+3. A análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula 7/STJ, porquanto não é possível encontrar similitude fática entre o aresto combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em razão de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Agravo regimental improvido.
+(AgRg no AREsp 16879/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 19/04/2012, DJe
+4. Quanto à redução da verba honorária, faz-se mister salientar que a Corte de origem já procedeu à redução de R$2.500,00 para R$1.000,00, ressaltando que a hipótese vertente cuida de embargos de terceiro que tramita desde outubro de 2013, tendo a embargante proposto a demanda em virtude da constrição de seus bens, mesmo já havendo decisão anterior em outra ação, demonstrando que não faz parte do mesmo grupo econômico da devedora.
+Veja-se:
+Na espécie, cuida-se de embargos de terceiro que tramite desde outubro de 2013 e a embargante necessitou propor a presente demanda em virtude" de constrição de seus bens, mesmo já havendo decisão anterior em outra ação de que não faz parte do mesmo grupo econômico da devedora.
+No entanto, a matéria em debate é de complexidade média, além dos bens constritos serem avaliados em R$ 5.400,00 (cinco mil e quatrocentos reais), conforme de vê do auto de penhora de fl. 106.
+Sendo assim, entendo que se mostra elevada a verba arbitrada no valor de R$ 2.500,00 (dois mil e quinhentos reais), razão pelo qual redUzo para R$ 1.000,00 (mil reais), pois mais adequada com as disposiçôês_referidas. (fl. 546)
+Nesse contexto, faz-se mister consignar que o valor dos honorários advocatícios, fixado pelo Tribunal a quo, consubstanciou critério razoável, máxime porque adequado ao caso concreto e serviente para bem remunerar o causídico de modo proporcional ao trabalho realizado.
+Não se pode olvidar, ainda, que esta Corte Superior entende que o valor estabelecido, pelas instâncias ordinárias, a título de honorários advocatícios, só pode ser alterado nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade e de proporcionalidade.
+Nesse sentido:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ACOLHIMENTO. EXTINÇÃO DA EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. REVISÃO. POSSIBILIDADE QUANDO IRRISÓRIOS OU EXORBITANTES. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1 - Nos termos da jurisprudência desta Corte, o quantum arbitrado pelas instâncias ordinárias a título de honorários advocatícios pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade.
+ ..
+(REsp 1339356/GO, Min. Raul Araújo, QUARTA TURMA, julgado em 24/06/2014, DJe 01/08/2014)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CARÁTER INFRINGENTE. POSSIBILIDADE. EXCEPCIONALIDADE. CABIMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. HONORÁRIOS ADVOCATÍCIOS. VALOR. MAJORAÇÃO. DESCABIMENTO. RAZOABILIDADE.
+1. A atribuição de efeitos infringentes aos embargos de declaração é possível, em hipóteses excepcionais, para corrigir premissa equivocada no julgamento, bem como nos casos em que, sanada a omissão, a contradição ou a obscuridade, a alteração da decisão surja como consequência necessária.
+2. A tese vinculada aos artigos apontados como violados no recurso especial não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e embora opostos embargos de declaração com a finalidade de sanar omissão porventura existente, não foi indicada a contrariedade ao art. 535 do Código de Processo Civil, motivo pelo qual, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211 do STJ.
+3. O Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado o montante fixado pelas instâncias ordinárias a título de honorários advocatícios apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso.
+4. Embargos declaratórios recebidos como agravo regimental.
+5. Agravo regimental não provido.
+(EDcl no AgRg no AREsp 613.597/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 02/02/2016, DJe 18/02/2016)
+Dessarte, verifica-se que o Tribunal de origem, bem sopesando os critérios previstos no Código de Processo Civil, entendeu por fixar o montante a título de honorários advocatícios em valor que, consideradas as peculiaridades da demanda não pode ser considerado fora dos padrões de razoabilidade e de proporcionalidade, razão pela qual é inviável a revisão.
+5. Ante o exposto, com fulcro nos fundamentos acima aduzidos, nego provimento ao presente agravo em recurso especial.
+Publique-se. Intimem-se.
