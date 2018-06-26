@@ -1,0 +1,27 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. CARATER SATISFATIVO OU NÃO DA LIMINAR. AFERIÇÃO. IMPOSSIBILIDADE. SÚMULA Nº 7 DO STJ. PRECEDENTE. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Cuida-se de recurso especial manejado pelo ESTADO DA PARAÍBA, com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba que, por unanimidade, não conheceu do agravo interno, resumido da seguinte forma:
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO - REAFIRMAÇÃO DE TESE JÁ REBATIDA SEM A EXPOSIÇÃO DE NENHUM ARGUMENTO - VIOLAÇÃO AO § 1º DO ART. 1.021 DO NCPC E AO PRINCÍPIO DA DIALETICIDADE - RECURSO MANIFESTAMENTE INADMISSÍVEL - QUESTÃO SUSCITADA - LITIGÂNCIA DE MÁ-FÉ - EX OFFICIO INTERPOSIÇÃO DE RECURSO COM INTUITO MERAMENTE PROTELATÓRIO - APLICAÇÃO DO § 4º DO ART. 1.021 DO NCPC - NÃO CONHEÇO DO AGRAVO INTERNO.
+- No caso vertente, o agravante, após ingressar com recurso de Agravo de Instrumento, ao qual negou-se seguimento por contrariar jurisprudência dominante do Superior Tribunal de Justiça, à luz do novo codex processual, interpôs Agravo Interno em cujas razões limitou-se a reafirmar a tese já rebatida, sem apresentar nenhum argumento que a corroborasse, não realizando o efetivo confronto com a fundamentação da decisão combatida, afrontando ao disposto no art. 1.021, § 1º do NCPC, bem como ao princípio da dialeticidade, afastando-se do dever de lealdade e boa-fé processual insculpidos na novel legislação.
+Opostos embargos de declaração, foram acolhidos, com efeitos modificativos, resumidos da seguinte forma:
+EMBARGOS DE DECLARAÇÃO - ACÓRDÃO QUE NÃO CONHECEU DO AGRAVO INTERNO MANEJADO PELO RECORRENTE COM APLICAÇÃO DE MULTA - ALEGAÇÃO DE OMISSÃO QUANTO AO PERCENTUAL DA PENALIDADE - PROCEDÊNCIA - ACOLHIMENTO DOS EMBARGOS POR FUNDAMENTO DIVERSO - CORREÇÃO DE ERRO MATERIAL - JULGAMENTO COLEGIADO QUE DECIDIU PELA NÃO APLICAÇÃO DA MULTA - RETIFICAÇÃO DO DISPOSITIVO DO ARESTO PARA EXTIRPAR A REPRIMENDA - NECESSIDADE - ACOLHIMENTO DOS ACLARATÓRIOS COM EFEITO MODIFICATIVO.
+- Em conformidade com o artigo 1.022, inciso III do CPC/2015, "cabem embargos de declaração contra qualquer decisão judicial para corrigir erro material".
+- No julgamento do Agravo Interno, o órgão colegiado decidiu pela não aplicação da multa prevista no art. 1.021, § 4.º do NCPC, razão pela qual os presentes embargos devem ser acolhidos para que seja extirpada, do dispositivo do decisum ora embargado, a imposição da penalidade.
+Nas razões recursais o recorrente alega ofensa aos arts. 514, II, 557, caput, § 1º, do CPC/1973 (arts. 1.010, III e 1.021, § 1º, do CPC/2015) e sustenta, em síntese, que não há que se falar em ausência e dialeticidade no recurso de agravo interno interposto na origem, o qual teria indicado de forma fundamentada os motivos e razões de fato e de direito que deram causa ao inconformismo, no sentido da existência de caráter satisfativo da liminar combatida.
+Requer o conhecimento e o provimento do recurso especial para que seja conhecido o agravo interno na origem.
+Contrarrazões às fls. 251-256 e-STJ.
+Admitido o recurso especial, subiram os autos a esta Corte e vieram-me conclusos.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A irresignação não merece conhecimento.
+Dentre os fundamentos do acórdão recorrido, verifica-se que a despeito do não conhecimento do agravo interno foi reconhecida a ausência de caráter satisfativo irreversível da liminar concedida, afastando-se a alegada ofensa ao art. 1º, § 3º, da Lei nº 8.437/1992.
+Assim, não é possível a esta Corte infirmar a referida conclusão do acórdão recorrido, a respeito da satisfatividade ou não da liminar, eis que tal providência demandaria revolvimento de matéria fático-probatória inviável em sede de recurso especial em razão do óbice da Súmula nº 7 desta Corte.
+Nesse sentido:
+ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. LIMINAR DEFERIDA NA ORIGEM. ALTERAÇÃO DO ENTENDIMENTO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O Tribunal de origem, concluiu que mostra-se "correta a decisão liminar que impôs ao Município a obrigação de elaborar o projeto de acessibilidade, a fim de sanar as irregularidades apontadas pelo parquet", após minucioso exame de fatos, provas e da legislação de regência.
+2. É entendimento do STJ "que a irreversibilidade da medida liminar concedida, conforme aduz o agravante, implicaria no reexame do acervo fático-probatório dos autos, o que é vedado em sede de recurso especial, sob pena de violação à Súmula 7 do STJ" (AgRg no AREsp 17.774/DF, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 18/10/2011, DJe 26/10/2011).
+3. Não obstante a boa qualidade dos argumentos expendidos pelo agravante, o arrazoado, que somente reitera os argumentos do recurso especial, não tem o condão de infirmar os fundamentos da decisão agravada.
+4. Agravo regimental desprovido. (AgRg no AREsp 656.189/MG, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Primeira Turma, DJe 05/11/2015) (grifei)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
