@@ -1,0 +1,42 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA 2. DANO MATERIAL. ALUGUÉIS. COMPROVAÇÃO DECORAÇÃO E PAISAGISMO DE ÁREAS COMUNS DO EMPREENDIMENTO. DESPESA DE RESPONSABILIDADE DO INCORPORADOR. QUESTÕES DECIDIDAS PELAS INSTÂNCIAS ORDINÁRIAS MEDIANTE ANÁLISE DO CONTRATO E DO CONJUNTO PROBATÓRIO. SÚMULAS N. 5 E 7 DO STJ. 3. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Trata-se de agravo interposto por Brookfield São Paulo Empreendimentos Imobiliários S.A. e Brookfield Rio de Janeiro Empreendimentos Imobiliários S.A. contra decisão do Tribunal de Justiça do Mato Grosso que não admitiu o recurso especial apresentado às fls. 595-610 (e-STJ).
+Na origem, [NOME] e [NOME] ajuizaram ação de revisão de contrato de compra e venda de imóvel cumulada com declaratória de inexistência de débito, cancelamento de ônus, repetição de indébito e indenizatória por danos morais contra as ora agravantes.
+O Magistrado de primeiro grau julgou parcialmente procedentes os pedidos para "declarar inexistente o débito relativo ao contrato de compra e venda firmado entre as partes, bem como para condenar a parte requerida que providencie a devolução do cheque n. 017601 do Banco Bradesco no valor de R$ 100.000,00 (cem mil reais) para a parte autora e que providencie o competente termo de quitação do imóvel adquirido, ambos no prazo de 30 (trinta) dias, sob pena de aplicação de multa diária de R$ 500,00 (quinhentos reais) limitando-se esse preceito cominatório ao valor de R$ 50.000,00 (cinquenta mil reais) em caso de descumprimento" (e-STJ, fl. 445).
+Em apelação da parte autora, a Quarta Câmara de Direito Privado do Tribunal de Justiça do Mato Grosso deu parcial provimento ao apelo para "condenar as apeladas a restituir aos apelantes a quantia de R$ 3.500,00 (três mil e quinhentos reais), referente às despesas com aluguel, bem como os R$ 3.146,00 (três mil, cento e quarenta e seis reais) pagos para decoração das áreas comuns, ambas acrescidas de juros de mora desde a data do acórdão e corrigidas monetariamente desde a data do efetivo desembolso" (e-STJ, fl. 561).
+O acórdão ficou assim ementado (e-STJ, fls. 552-553):
+APELAÇÃO - COMPRA E VENDA DE IMÓVEL - TESTEMUNFIA CONTRADITADA - CERCEAMENTO DE DEFESA - INOCORRÊNCIA - ENTREGA DO BEM COM VÍCIOS DE CONSTRUÇÃO - ATRASO NA REALIZAÇÃO DOS REPAROS - DANO MATERIAL - ALUGUÉIS - COMPROVAÇÃO - DECORAÇÃO E PAISAGISMO DE ÁREAS COMUNS - DESPESA DE RESPONSABILIDADE DO INCORPORADOR - COMISSÃO DE CORRETAGEM - TEMA PACIFICADO PELO STJ - DANO MORAL NÃO CARACTERIZADO - SENTENÇA PARCIALMENTE REFORMADA - RECURSO PROVIDO EM PARTE.
+Incontroversa a relação de amizade entre os autores e a testemunha, correta a decisão que acolheu a contradita.
+Entregue o imóvel sem condições de habitação em razão de vícios construtivos, os compradores fazem jus ao ressarcimento das despesas com aluguel durante o período de indisponibilidade do bem.
+O pagamento de despesas com decoração e paisagismo das áreas comuns é responsabilidade do incorporador, vedada sua transferência ao adquirente.
+"Validade da cláusula contratual que transfere ao promitente-comprador a obrigação de pagar a comissão de corretagem nos contratos de promessa de compra e venda de unidade autônoma em regime de incorporação imobiliária, desde que previamente informado o preço total da aquisição da unidade autónoma, com o destaque do valor da comissão de corretagem." (REsp 1.599.511, Recurso Repetitivo, Tema 938).
+O descumprimento contratual, por si só, não caracteriza dano moral passível de reparação pecuniária.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 584-592).
+Nas razões do recurso especial, as insurgentes apontaram violação dos arts. 11, 371, 373, I, 443, 489, II, e 1.022, II, do CPC/2015; e 320, 402 e 403 do Código Civil.
+Sustentaram a existência de omissão no acórdão estadual quanto ao não cabimento de comprovação do pagamento por prova oral, à impossibilidade de produção de prova negativa e à ausência de hipossuficiência dos recorridos.
+No mérito, aduziram que não há provas de que houve o pagamento dos valores ao efetivo locador, a título da locação.
+Não foram apresentadas contrarrazões.
+O Tribunal de origem inadmitiu o recurso sob o fundamento de incidência das Súmulas n. 7 do STJ e 284 do STF.
+Irresignadas, as recorrentes apresentam agravo refutando os óbices apontados pela Corte estadual.
+Contraminuta às fls. 656-664 (e-STJ).
+Brevemente relatado, decido.
+No tocante à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão a quo resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Assinala-se que o acórdão recorrido enfrentou, de forma clara e fundamentada, as questões suscitadas pelas partes, tratando-se, na verdade, de pretensão de novo julgamento das matérias.
+Desse modo, aplica-se à espécie o entendimento pacífico do STJ segundo o qual "não se configura a ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada" (REsp n. 1.638.961/RS, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 13/12/2016, DJe 02/02/2017).
+Quanto ao mérito, o Tribunal a quo, após acurada análise do acervo probatório e do título executado, concluiu que ficou comprovado o pagamento de aluguéis pelos recorridos, bem como que a transferência aos compradores da obrigação - despesas com decoração e paisagismo das áreas comuns do empreendimento - que incumbia às apeladas, colocou os consumidores em desvantagem exagerada.
+Confira-se o seguinte trecho extraído do aresto combatido:
+Os autores, ora apelantes, instruíram a inicial com comprovante de depósito de R$ 3.500,00, feito em favor de [NOME] (fls. 131), quantia esta que dizem se referir ao pagamento de aluguéis do período em que foi necessária a prorrogação do contrato de locação.
+O beneficiário do depósito, ouvido como testemunha, afirmou o seguinte:
+"o contrato de locação de THIELE foi prorrogado de janeiro a maio de 2007. O depoente não sabe o valor dos aluguéis, mas tem conhecimento de que o autor fez um depósito na conta do depoente no valor de R$ 3.500,00 (três mil e quinhentos reais), o qual entregou tal valor ao proprietário do apartamento alugado" (fls. 361, destaques).
+Os apelantes, portanto, comprovaram os fatos constitutivos do seu direito, enquanto os apelados, de outro lado, não se desincumbiram do ônus de comprovar fato impeditivo, modificativo ou extintivo do direito dos apelantes.
+Diante disso, deve ser reformada a sentença a fim de determinar que as apeladas restituam aos apelantes a quantia de R$ 3.500,00, referente às despesas com locação.
+ ..
+Quanto ao pedido de restituição dos valores pagos para decoração e paisagismo das áreas comuns, procede o inconformismo dos apelantes.
+A "Súmula 351", invocada nas razões da apelação, se refere a enunciado de uniformização de jurisprudência do Tribunal de Justiça do Estado do Rio de Janeiro no Processo Administrativo nº 0061460-61.2015.8.19.0000, e assim dispôs:
+"O pagamento de despesas com decoração das áreas comuns, em incorporações imobiliárias, é de responsabilidade do" incorporador, vedada sua transferência ao adquirente." De fato, tal obrigação foi prevista na Cláusula 3.3 do contrato de compra e venda (fls. 44). No entanto, trata-se de contrato de adesão, com cláusula unilateralmente redigida pelas incorporadoras e que colocou os compradores em desvantagem exagerada ao lhes transferir obrigação que incumbia às apeladas.
+Por esta razão, deve ser reformada a sentença para determinar sejam devolvida aos apelados a quantia de R$ 3.146,00.
+Desse modo, para infirmar tais conclusões, seriam imprescindíveis o reexame de prova e a análise do contrato entabulado entre as partes, atraindo a incidência dos óbices das Súmulas n. 5 e 7 do STJ.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais em favor do advogado da parte recorrida em R$ 300,00 (trezentos reais).
+Publique-se.
