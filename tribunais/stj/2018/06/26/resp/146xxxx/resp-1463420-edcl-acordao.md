@@ -1,0 +1,30 @@
+EMENTA
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE.
+1. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+2. A atribuição de efeitos infringentes é possível apenas em situações excepcionais, em que sanada a omissão, contradição ou obscuridade, a alteração da decisão surja como consequência necessária.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, rejeitar os embargos de declaração nos termos do voto do(a) Sr(a) Ministro(a) Relator(a). Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+RELATORA: MINISTRA NANCY ANDRIGHI
+RELATÓRIO
+Cuida-se de embargos de declaração interpostos por ALEXANDRE PALHARES PEREIRA contra acórdão que negou provimento ao agravo interno no agravo em recurso especial interposto pela FUNDAÇÃO ELETROSUL DE PREVIDÊNCIA E ASSISTÊNCIA SOCIAL ELOS, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DE DISPOSITIVO LEGAL VIOLADO. SÚMULA 284/STF. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ausentes os vícios do art. 535 do CPC/73, rejeitam-se os embargos de declaração.
+2. O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ não merece reforma.
+3. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Agravo não provido.
+Em suas razões recursais, o embargante sustenta a existência de omissão no acórdão embargado quanto à condenação da embargada ao pagamento de honorários advocatícios, decorrente do disposto no art. 85, § 11, do CPC/15, e da multa prevista no art. 1.021, § 4º, do CPC/15, tendo em vista o não provimento do agravo interno.
+É o relatório.
+RELATORA: MINISTRA NANCY ANDRIGHI
+VOTO
+Nas razões dos presentes embargos, o embargante sustenta a existência de omissão quanto à condenação da embargada ao pagamento de honorários advocatícios e da multa prevista no art. 1.021, § 4º, do CPC/15.
+Inicialmente, quanto ao pedido de arbitramento de honorários advocatícios, ressalte-se que a Terceira Turma do STJ, no julgamento do EDcl no AgInt no REsp 1.573.573/RJ (DJe de 08/05/2017), consolidou o entendimento no sentido de que:
+Para fins de arbitramento de honorários advocatícios recursais, previstos no § 11 do art. 85 do CPC de 2015, é necessário o preenchimento cumulativo dos seguintes requisitos: Direito Intertemporal: deve haver incidência imediata, ao processo em curso, da norma do art. 85, § 11, do CPC de 2015, observada a data em que o ato processual de recorrer tem seu nascedouro, ou seja, a publicação da decisão recorrida, nos termos do Enunciado 7 do Plenário do STJ: "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC"; o não conhecimento integral ou o improvimento do recurso pelo Relator, monocraticamente, ou pelo órgão colegiado competente; a verba honorária sucumbencial deve ser devida desde a origem no feito em que interposto o recurso; não haverá majoração de honorários no julgamento de agravo interno e de embargos de declaração oferecidos pela parte que teve seu recurso não conhecido integralmente ou não provido; não terem sido atingidos na origem os limites previstos nos §§ 2º e 3º do art. 85 do Código de Processo Civil de 2015, para cada fase do processo; não é exigível a comprovação de trabalho adicional do advogado do recorrido no grau recursal, tratando-se apenas de critério de quantificação da verba.
+Na hipótese dos autos, a decisão de admissibilidade do recurso especial foi publicada no dia 28/05/2014, e a decisão monocrática deu parcial provimento ao recurso especial interposto pela embargada, de modo que os honorários advocatícios não devem ser majorados em grau recursal.
+De outro turno, verifica-se, ao analisar as razões do agravo interno, que não foi possível constatar que sua interposição seja fruto de intuito meramente protelatório. Apesar do julgamento unânime, a Terceira Turma não considerou o recurso como abusivo, deixando de aplicar a multa prevista no mencionado dispositivo legal.
+Este Superior Tribunal de Justiça estabeleceu entendimento segundo o qual a multa prevista no art. 1.021, §4º, do CPC/15 não ocorre automaticamente, sendo indispensável que o agravo interno mostre-se de tal forma inadmissível ou cuja improcedência seja tão evidente que sua mera interposição possa ser considerada, de plano, como abusiva ou protelatória. Nesse sentido: AgInt nos EREsp 1.120.356/RS, 2ª Seção, DJe de 29/08/2016.
+As questões suscitadas pelo embargante, portanto, não constituem ponto omisso, contraditório ou obscuro do julgado, mas mero inconformismo com os fundamentos adotados pela decisão recorrida, diante do qual pretendem, à toda evidência, valer-se dos embargos de declaração para rediscutir matéria já decidida, fazendo com que prevaleça o seu entendimento sobre o tema.
+O mero descontentamento da parte com a decisão não torna cabíveis os embargos declaratórios, que servem ao aprimoramento do julgado, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Assim, por não se enquadrar em nenhuma das hipóteses previstas no art. 1.022 do CPC/2015, devem ser rejeitados os presentes embargos de declaração.
+Forte nessas razões, REJEITO os presentes embargos de declaração.
