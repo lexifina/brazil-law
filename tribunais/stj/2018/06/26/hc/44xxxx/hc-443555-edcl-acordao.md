@@ -1,0 +1,36 @@
+EMENTA
+EMBARGOS DECLARATÓRIOS NO HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME FECHADO. REINCIDÊNCIA. CIRCUNSTÂNCIA AFASTADA PELA INSTÂNCIA ORDINÁRIA. PERÍODO DEPURADOR. ART. 64, I, CÓDIGO PENAL - CP. QUANTIDADE E NATUREZA DA DROGA. FUNDAMENTAÇÃO IDÔNEA. EMBARGOS ACOLHIDOS, SEM EFEITOS MODIFICATIVOS.
+1. Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do Código de Processo Penal - CPP.
+2. Razão assiste ao embargante ao afirmar que o Tribunal a quo afastou a reincidência. Porém, a quantidade e a natureza da droga apreendida - 156 pedras de crack - constituem fundamentos idôneos para o agravamento do aspecto qualitativo da pena, ou seja, para a fixação de regime mais gravoso.
+3. Embargos declaratórios acolhidos sem efeitos modificativos.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, acolher os embargos, nos termos do voto do Sr. Ministro Relator.
+ Os Srs. Ministros Felix Fischer, Jorge Mussi, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK:
+Trata-se de embargos de declaração opostos ao acórdão de minha relatoria, que não conheceu do habeas corpus, nos termos da seguinte ementa:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO. DESCABIMENTO. TRÁFICO DE DROGAS. REGIME FECHADO. POSSIBILIDADE. QUANTIDADE E NATUREZA DA DROGA APREENDIDA. REINCIDÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+2. O STF, no julgamento do HC n. 111.840/ES, declarou a inconstitucionalidade do § 1º do art. 2º da Lei n. 8.072/90, com a redação que lhe foi dada pela Lei n. 11.464/07, afastando, dessa forma, a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados. Assim, o regime prisional deverá ser fixado em obediência ao que dispõe o art. 33, §§ 2º e 3º e art. 59, ambos do Código Penal - CP.
+In casu, a quantidade e a natureza da droga apreendida - 156 pedras de crack -, além da reincidência do réu, constituem fundamentos idôneos para o agravamento do aspecto qualitativo da pena, ou seja, para a fixação de regime mais gravoso. Precedentes.
+Habeas corpus não conhecido (fl. 89).
+Alega o embargante que o acórdão impugnado incorreu em contradição, tendo em vista que um dos fundamentos apontados para manter o regime prisional mais gravoso foi a reincidência, não obstante as instâncias ordinárias já terem afastado tal circunstância, em face do período depurador insculpido no art. 64, I, do Código Penal - CP.
+Pretende, assim, o provimento dos embargos, para reconhecer a contradição apontada e apreciar novamente o mandamus, concedendo-se a ordem postulada.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK (RELATOR):
+Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do CPP.
+No caso, assiste razão ao embargante quanto à contradição apontada, pois o Tribunal a quo reconheceu a certidão de fls. 68vº do apenso próprio como maus antecedentes, sem repercussão na dosimetria da pena e nas consequências dela advindas (fl. 45).
+Todavia, a quantidade e a natureza da droga apreendida - 156 pedras de crack - constituem fundamentos idôneos para o agravamento do aspecto qualitativo da pena, ou seja, para a fixação de regime mais gravoso.
+Em reforço à jurisprudência colacionada, temos os seguintes julgados:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME PRISIONAL MAIS GRAVOSO (FECHADO). CIRCUNSTÂNCIAS DESFAVORÁVEIS. QUANTIDADE E NATUREZA DO ENTORPECENTE. FUNDAMENTO IDÔNEO. AGRAVO NÃO PROVIDO.
+1. Na identificação do modo inicial de cumprimento de pena, o magistrado deve observar às regras estabelecidas no art. 33 do Código Penal e, no caso de condenado pelo delito de tráfico de drogas, também o art. 42 da Lei de Drogas.
+2. Hipótese em que, embora o paciente seja primário e pena tenha sido fixada em patamar superior a 4 anos e não excedente a 8 anos, o modo fechado mostra-se adequado e suficiente para o início do cumprimento da pena, em razão da aferição desfavorável de circunstâncias judiciais, quantidade e natureza da droga (11g de crack), nos termos do art. 33 e 59 do Código Penal.
+3. Agravo regimental não provido (AgRg no HC 437.231/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 15/06/2018).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. ART. 33, C/C O ART. 40, VI, AMBOS DA LEI 11.343/2006. PACIENTE CONDENADO À PENA CORPORAL DE 5 ANOS DE RECLUSÃO, NO REGIME INICIAL FECHADO. PLEITO DE APLICAÇÃO DO REDUTOR PREVISTO NO § 4º DO ART. 33 DA LEI N. 11.343/2006. AUSÊNCIA DE INTERESSE. MINORANTE RECONHECIDA NA SENTENÇA E MANTIDA PELO TRIBUNAL LOCAL. ERRO MATERIAL NO CÁLCULO DA PENA. CORREÇÃO EX OFFICIO. [NOME]. PEDIDO DE ABRANDAMENTO DO REGIME PRISIONAL. QUANTIDADE E VARIEDADE DAS DROGAS APREENDIDAS, VALORADAS NA TERCEIRA ETAPA DA DOSIMETRIA, QUE ENSEJAM A NECESSIDADE DO REGIME INICIAL MAIS GRAVOSO. PLEITO DE SUBSTITUIÇÃO DA PENA CORPORAL. INVIABILIDADE. MONTANTE DA PENA QUE NÃO COMPORTA O BENEFÍCIO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA EX OFFICIO.
+ ..
+- O Plenário do Supremo Tribunal Federal, em 27/7/2012, ao julgar o HC n. 111.840/ES, por maioria, declarou incidentalmente a inconstitucionalidade do art. 2º, § 1º, da Lei n. 8.072/1990, com a redação que lhe foi dada pela Lei n. 11.464/2007, afastando, dessa forma, a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados.
+- Para a imposição de regime prisional mais gravoso do que a pena comporta, é necessário fundamentação específica, com base em elementos concretos extraídos dos autos. Inteligência das Súmulas n. 440/STJ e 718 e 719 do STF.
+- Hipótese em que, apesar da primariedade do paciente e de o montante da pena (4 anos, 10 meses e 10 dias de reclusão) comportar, em princípio, o regime inicial semiaberto, a necessidade do regime mais gravoso encontra-se lastreada no art. 33, § 3º, do Código Penal e no art. 42 da Lei n. 11.343/2006, ante a gravidade concreta do delito, evidenciada pela quantidade e variedade dos entorpecentes apreendidos, elementos que, inclusive, foram valorados na terceira etapa da dosimetria da pena, quando da modulação da fração redutora escolhida. Precedentes.
+- Habeas corpus não conhecido. Ordem concedida ex officio, apenas para, reconhecendo o erro material no cálculo da sanção, redimensionar as penas do paciente para 4 anos, 10 meses e 10 dias de reclusão e 485 dias-multa, mantidos os demais termos da condenação (HC 387.792/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 30/06/2017).
+Ante o exposto, voto pelo acolhimento dos presentes embargos, sem efeitos modificativos.
