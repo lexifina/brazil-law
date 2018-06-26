@@ -1,0 +1,42 @@
+EMENTA
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO GENÉRICA. ILEGALIDADE RECONHECIDA. APLICAÇÃO DO ART. 580 DO CPP. EXISTÊNCIA DE IDENTIDADE FÁTICO-PROCESSUAL DO PACIENTE E UM DOS CORRÉUS DA AÇÃO PENAL. HABEAS CORPUS CONCEDIDO.
+1. Tendo sido o decreto prisional baseado em genérica regulação da prisão preventiva, além de presunções e conjecturas, presumindo os riscos à ordem pública apenas pela presença de indícios na participação em crime de homicídio, à despeito de prática delitiva englobar três qualificadoras, contudo, tais circunstâncias não foram apontadas pelo juízo de piso para fundamentar a custódia cautelar do paciente, revela-se a ilegalidade da medida que justifica a concessão do habeas corpus.
+2. Havendo identidade fático-processual entre a situação do paciente e do corréu da ação penal, [NOME] DOS [NOME] [NOME], deve ser aplicado o art. 580 do CPP, de ofício, com extensão da ordem de habeas corpus.
+3. Habeas corpus concedido, para soltura do paciente [NOME] [NOME] DE [NOME], e, de oficio, aplicado o artigo 580 do CPP para estender a ordem de soltura ao corréu [NOME] DOS [NOME] [NOME], o que não impede nova e fundamentada decisão cautelar penal, inclusive menos gravosa do que a prisão processual.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, conceder a ordem, com extensão ao corréu [NOME], nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Maria Thereza de Assis Moura, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de habeas corpus impetrado em favor de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça do Estado do Ceará que denegou o writ de origem.
+O acórdão do Tribunal a quo tem a seguinte ementa (fl. 48):
+EMENTA: HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTOS PARA DECRETAÇÃO DA PREVENTIVA. FEITO SOB TRAMITAÇÃO REGULAR E DECISÃO DEVIDAMENTE FUNDAMENTADA. CONDIÇÕES PESSOAIS FAVORÁVEIS QUE NÃO TÊM O CONDÃO DE ELIDIR A MANUTENÇÃO DE PRISÃO CAUTELAR. CAUTELARES DIVERSAS DA PRISÃO QUE SE MOSTRAM INSUFICIENTES. WRIT CONHECIDO E DENEGADO.
+1. Observa-se que a prisão fora devidamente justificada na necessidade de garantia da ordem pública, razão pela qual, atendidos os requisitos instrumentais do art. 312 do CPP, deve ser a prisão preventiva mantida, não havendo que se falar em sua revogação, ou mesmo em substituição pelas medidas cautelares diversas da prisão no art. 319 do CPP, pelo fato de estas se revelarem absolutamente insuficientes, estando ausentes os critérios básicos da necessariedade e adequabilidade.
+2. Ordem conhecida e denegada.
+O impetrante argumenta que o paciente sofre constrangimento ilegal, sob o argumento de desnecessidade da prisão, por ser primário, com ocupação lícita e residência fixa, sendo cabíveis as medidas alternativas do art. 319 do CPP, além de aduzir que não estão presentes os requisitos autorizadores previstos no art. 312 do CPP.
+Sustenta ainda a ocorrência de excesso de prazo para julgamento, haja vista que o paciente está preso cautelarmente desde 29/3/2017, sem que tenha se encerrado a instrução criminal.
+Requer a concessão da ordem, para que seja revogada a prisão preventiva.
+O paciente foi denunciado pela prática do crime tipificado no artigo 121, §2º, incisos I, III e IV, do Código Penal.
+A liminar foi indeferida.
+As informações foram prestadas.
+O parecer do Ministério Público Federal foi pela concessão da ordem.
+Na origem, o processo n. 2017.8.06.0146 encontra-se na fase de alegações finais, conforme informações prestadas pela Vara de origem em 9/5/2018. (fl. 71)
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+O impetrante busca a revogação da prisão preventiva do paciente, sob os argumentos de desnecessidade da prisão, por ser primário, com ocupação lícita e residência fixa, sendo cabíveis as medidas alternativas do art. 319 do CPP, ausência dos requisitos autorizadores previstos no art. 312 do CPP, além de excesso de prazo para julgamento, haja vista que o paciente está preso cautelarmente desde 29/3/2017, sem que tenha se encerrado a instrução criminal.
+A decisão de prisão preventiva restou assim fundamentada (fls. 31/32):
+" ..  Para a decretação da Prisão Preventiva, a Lei exige a presença do Fumus Boni Juris e do Periculum In Mora insculpidos sob a égide do art. 312 do Código de Processo Penal.
+O Fumus Boni Juris está calcado na prova do crime e em indícios suficientes de sua autoria.
+Na lição de Carrara,  ..
+O requerimento da autoridade policial merece ser acolhido, vez que a prova do crime está caracterizada pelas declarações das vítimas e depoimentos acostados nos autos, que indicam o acusado os autor da infração, demonstrando, quantum satis, a periculosidade do agente.
+De fato, a Prisão Preventiva é hoje exceção, mas nem por isso deve ser descartada em nome de falsos conceitos de liberdade, em favor de quem jamais se preocupa com os direitos alheios.
+Aqui a medida se impõe para salvaguardar incautos contra a sanha audaciosa do acusado, sem qualquer vislumbre de ética na conduta em sociedade.
+A prisão sem pena é uma medida de força, em sacrifício da liberdade natural do indivíduo ainda não condenado, justificando-se em casos excepcionais, reclamados pelo interesse social.
+Em assim sendo, verifica-se que a natureza do delito e sua repercussão social são de molde a autorizar o afastamento dos acusados do convívio de uma sociedade atemorizada. Por outro lado, visa-se também, a conveniência da instrução criminal e a segurança da aplicação da Lei Penal, que é o principal motivo da prisão cautelar, onde se busca assegurar a execução final da pena imposta ao réu.
+No presente caso, se faz necessária a decretação da prisão preventiva, posto que presentes os pressupostos autorizadores do decreto segregatório preventivo, vislumbro, ainda, a presença dos mesmos, mormente no que pertine à Garantia da ordem pública. De fato, verifica-se que as investigações, indicam que os representados tiveram participação no homicídio, inclusive com confissão de um dos réus o qual apontou os ora representados como partícipe da ação criminosa, inclusive sendo [NOME], sendo possível mandante do crime, logo tenho a prática delitiva descrita nos autos acaba por abalar a ordem pública em se tratando de crime praticado hediondo, no caso, necessária se mostra a prisão preventiva por ocorrência da instrução criminal e com o intuito de assegurar a aplicação da lei penal.  .. ".
+Como se vê, a prisão foi decretada em razão da constatação de indícios na participação em crime de homicídio razão pela qual entendeu o juízo primevo pela necessidade da constrição em favor da ordem pública, garantia da instrução criminal e para assegurar a aplicação da lei penal, por se tratar de crime hediondo.
+Da forma como estruturado e justificado o decreto prisional, tem-se que se baseou em genérica regulação da prisão preventiva, além de presunções e conjecturas, presumindo os riscos à ordem pública apenas pela presença de indícios na participação em crime de homicídio, à despeito de prática delitiva englobar três qualificadoras, contudo, tais circunstâncias não foram apontadas pelo juízo de piso para fundamentar a custódia cautelar do paciente, o que revela a ilegalidade da medida
+Dessa forma, há que ser reconhecida a ilegalidade da prisão preventiva.
+Neste caso, considerando a possibilidade de aplicação do artigo 580 do CPP, verifico que a fundamentação utilizada para decretação da prisão cautelar é comum ao corréu da ação penal em comento, [NOME] DOS [NOME] [NOME], estando, portanto, em identidade fático-processual em relação ao paciente devendo, de igual modo, ser beneficiado com a liberdade.
+Por fim, fica prejudicada a apreciação da tese de excesso de prazo para julgamento com a concessão da ordem pela ausência dos fundamentos para prisão cautelar.
+Ante o exposto, voto por conceder o habeas corpus para a soltura do paciente, [NOME] [NOME] DE [NOME], estendendo a ordem, de ofício, ao corréu da ação penal, [NOME] DOS [NOME] [NOME], com fundamento no art. 580 do CPP, o que não impede nova e fundamentada decisão de necessária cautelar penal, inclusive menos gravosa do que a prisão processual.
