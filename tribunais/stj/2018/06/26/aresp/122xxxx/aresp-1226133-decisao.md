@@ -1,0 +1,61 @@
+DECISÃO
+1. Trata-se de agravo interposto por MARIA [NOME], contra decisão que não admitiu o seu recurso especial, por sua vez manejado com fulcro no art. 105, III, "a" e "c", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 302):
+AÇÃO DE COBRANÇA - Cerceamento de defesa não caracterizado - Consórcio de bem imóvel - Contrato livremente pactuado - Ausência de irregularidades ou ilicitudes - Demora na liberação do crédito - Fato que por si só não gera dano moral passível de indenização - Dano moral não caracterizado - Sentença confirmada - Recurso desprovido.
+Opostos embargos de declaração pela recorrente (fls. 312-313), foram rejeitados (fls. 315-318).
+Nas razões do recurso especial (fls. 320-331), além de divergência jurisprudencial, aponta a parte recorrente ofensa ao disposto no art. 1.022, II, do Código de Processo Civil, arts. 395 e 402, do Código Civil, e arts. 4º, I, 12, § 3º, 14, § 3º, e 39, IV, do Código de Defesa do Consumidor.
+Em apertada síntese, alega que o acórdão foi omisso quanto aos danos materiais sofridos pela recorrente, apesar de reconhecer expressamente a ocorrência de atraso irregular por parte da recorrida.
+Sustenta ser devida indenização por danos morais decorrentes do atraso irregular na liberação da carta de crédito do consórcio imobiliário, considerando a vulnerabilidade, a condição social e a idade avançada da recorrente.
+Contrarrazões ao recurso especial às fls. 358-361.
+É o relatório.
+DECIDO.
+2. Inicialmente, convém ressaltar que, para que ocorra afronta ao art. 1.022 do CPC, é necessária a presença cumulativa dos seguintes requisitos: a) o Tribunal de origem não tenha se pronunciado sobre o tema; b) tenham sido opostos embargos de declaração; c) tenha sido a questão levantada nas razões ou contrarrazões do agravo de instrumento ou da apelação; e d) seja relevante para o deslinde da controvérsia. Confira-se:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. RESPONSABILIDADE CIVIL. DESCUMPRIMENTO CONTRATUAL. VIOLAÇÃO DO ART. 535. INEXISTÊNCIA. INOVAÇÃO RECURSAL. PREPARO. REGULARIDADE. REVISÃO IMPOSSIBILIDADE. SÚMULA 7/STJ. DEVER DE INDENIZAR. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Inexistência dos vícios tipificados no art. 535 do Código de Processo Civil a inquinar o acórdão embargado.
+2. É vedado inovar nas teses recursais por ocasião dos embargos de declaração, devendo a matéria arguida constar, obrigatoriamente, nas razões de apelação.
+3. É insuscetível de reexame, na via estreita do recurso especial, questão concernente à existência de preparo da apelação, se, para tanto, é necessário reexaminar questões fático-probatórias dos autos.
+4. A convicção a que chegou o Tribunal a quo quanto ao dever de indenizar decorreu da análise do conjunto probatório, dessa forma, o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte. Incidência do óbice da Súmula nº 7/STJ.
+5. Não apresentação pela parte agravante de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+6. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no REsp 1407610/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 27/05/2014, DJe 09/06/2014)
+--
+RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO (510 KG DE MACONHA E 42 KG DE COCAÍNA). PORTE ILEGAL DE ARMAS. VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. VIA INADEQUADA. FALTA DE DELIMITAÇÃO DA CONTROVÉRSIA. SÚMULA 284/STF. CARÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. QUESTÕES NÃO SUSCITADAS NA APELAÇÃO. HABEAS CORPUS DE OFÍCIO. DESCABIMENTO. INTERROGATÓRIO POLICIAL NA PRISÃO EM FLAGRANTE. TORTURA. VERIFICAÇÃO. SÚMULA 7/STJ. AUSÊNCIA DE ADVOGADO. ILEGALIDADE INEXISTENTE. NATUREZA ADMINISTRATIVA. ALEGAÇÕES FINAIS. PRAZO DE 72 HORAS. NULIDADE. INEXISTÊNCIA. PRAZO BENÉFICO PARA A DEFESA. ATIPICIDADE DA CONDUTA. INEXISTÊNCIA. QUANTIDADE E VARIEDADE DA DROGA. VALORAÇÃO. PENA- BASE. TRÁFICO E ASSOCIAÇÃO. BIS IN IDEM. INEXISTÊNCIA. CIRCUNSTÂNCIAS JUDICIAIS. FUNDAMENTAÇÃO PARCIALMENTE INIDÔNEA. COMPLEMENTAÇÃO. APELAÇÃO DEFENSIVA. IMPOSSIBILIDADE. DIA-MULTA. VALOR DO SALÁRIO-MÍNIMO DA ÉPOCA DA EXECUÇÃO DA PENA. ILEGALIDADE. CORREÇÃO DE OFÍCIO. VALOR DO SALÁRIO MÍNIMO VIGENTE QUANDO DA PRÁTICA DOS FATOS DELITUOSOS.
+1. A via do recurso especial não se destina à análise da arguição de ofensa a dispositivos da Constituição da República.
+2. As alegações de nulidade do processo por ter o interrogatório acontecido após a instrução processual e de nulidade da sentença por ofensa ao princípio da imparcialidade do juiz, bem como por ter lastreado a condenação tão só no depoimento extrajudicial dos recorrentes, não vieram acompanhadas da indicação do artigo de lei federal que se considera violado. Aspectos recursais em que está ausente a delimitação da controvérsia. Aplicação da Súmula 284/STF.
+3. Tais temas também não foram objeto de apreciação pelo acórdão recorrido, apesar da oposição de embargos declaratórios, sendo carentes do necessário prequestionamento, nos termos da Súmula 211/STJ.
+4. Por não terem sido debatidas no julgado combatido, apesar dos declaratórios, não estão prequestionadas as alegações de que a instrução criminal é nula, pela inversão da ordem do art. 212 do Código de Processo Penal e pela ausência do representante do Ministério Público na audiência de oitiva de testemunha realizada por carta precatória, de que a sentença teria sido lastreada em prova exclusiva da fase inquisitorial, inclusive quanto à causa de aumento do art. 40, V, da Lei n. 11.343/2006, tampouco de que o perdimento de bens não poderia ter sido determinado sem pedido do Ministério Público.
+5. Não houve nulidade no acórdão recorrido por não se ter manifestado acerca das questões acima mencionadas, apesar da oposição de embargos de declaração, pois elas não foram objeto das razões de apelação da defesa, vieram todas a ser alegadas apenas nos memoriais apresentados ou na sustentação oral realizada na tribuna.
+6. (..)
+22. Recurso especial parcialmente conhecido e, nessa extensão, provido em parte, ficando as penas redimensionadas nos termos do voto. De ofício, determinada a utilização, no cálculo do dia-multa, do valor do salário mínimo vigente na data da prática delitiva.
+(REsp 1439866/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/04/2014, DJe 06/05/2014)
+--
+PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. POLICIAL MILITAR. PROMOÇÃO. DECRETO FEDERAL 88.777/83. ESPECIFICAÇÃO. TESE NÃO PREQUESTIONADA. SÚMULA 211/STJ. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE DE APRECIAÇÃO. FUNDAMENTO INATACADO. SÚMULA 283/STF. REVOGAÇÃO DE LEI ANTERIOR POR POSTERIOR. INTERPRETAÇÃO DE LEI ESTADUAL. INCIDÊNCIA DA SÚMULA 280 DO STF.
+1. O Tribunal de origem concluiu que o Supremo Tribunal Federal, em julgamento realizado somente em 20/3/2003, declarou inconstitucional o art. 177, § 2º, da CE/89, encontrando-se ainda vigente o Decreto 88.777/83, uma vez que não há notícia acerca de sua não recepção em face da Constituição Federal.
+2. A tese de que se trata o art. 15 do Decreto 88.777/83 de norma de caráter geral, devendo sua especificação ser realizada por meio da competente legislação estadual, apesar de suscitada nas razões do recurso especial, não foi objeto de análise pela Corte de origem, o que inviabiliza o conhecimento da fundamentação, ante a ausência de prequestionamento. Súmula 211/STJ.
+3. Ressalte-se que a tese supracitada não foi sequer questionada nos embargos de declaração. Caracterizada inovação recursal em recurso especial, não cabe a esta Corte manifestar-se sobre matéria não arguida nas razões de apelação ou de embargos de declaração.
+4. O fundamento do acórdão dos declaratórios de que "o Decreto nº 88.777/83 ainda encontra-se vigente, posto que inexiste notícia acerca de sua não recepção em face da Constituição Federal" não foi objeto de impugnação, o que enseja a aplicação da Súmula 283/STF, "in verbis": "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+5. A matéria relativa à revogação de lei anterior por posterior demandaria, necessariamente, a interpretação de lei local. Com efeito, o exame de normas de caráter local é inviável na via do recurso especial, em virtude da vedação prevista na Súmula 280 do STF, segundo a qual "por ofensa a direito local não cabe recurso extraordinário".
+Agravo regimental improvido.
+(AgRg no AREsp 475.062/CE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 01/04/2014, DJe 07/04/2014)
+No presente caso, apesar de alegar omissão e de terem sido opostos embargos de declaração, verifico, nas razões de apelação (fls. 279-292), que o ponto referente aos danos materiais não foi devolvido ao Tribunal de Justiça do Estado de São Paulo pela recorrente, de modo que a invocação de tal matéria somente em sede de embargos de declaração configurou inovação recursal, não admitida pelo sistema jurídico pátrio. Portanto, não há qualquer omissão ou ausência de fundamentação na apreciação dessa questão.
+3. De outra parte, no que se refere aos danos morais, a Corte de origem consignou (fl. 305):
+Restou comprovado de que este atraso realmente se verificou, contudo, embora seja desagradável, por si só, não gera constrangimento ou abatimento apto a caracterizar dano moral passível de indenização.
+Já há entendimento pacífico que mero dissabor decorrente de relação contratual não justifica por si só o reconhecimento do dano moral.
+Nessa linha, o dano moral não restou configurado, pois mero dissabor ou mesmo sensibilidade exacerbada, não bastam para caracterizar dano moral. Tal fato não revela abalo de ordem psicológica capaz de gerar direito à indenização, devendo ser a irregularidade considerada mero aborrecimento.
+Rever os fundamentos que ensejaram esse entendimento exigiria reapreciação do conjunto probatório, o que é vedado em recurso especial, ante o teor da Súmula 7/STJ.
+4. Ademais, nos termos da jurisprudência do Superior Tribunal de Justiça, o mero inadimplemento contratual não enseja condenação por danos morais.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA DE CUSTEIO. MERO INADIMPLEMENTO CONTRATUAL. DANOS MORAIS NÃO CONFIGURADOS. TESE DO RECURSO ESPECIAL QUE DEMANDA REEXAME DE CONTEXTO FÁTICO E PROBATÓRIO DOS AUTOS. SÚMULA Nº 7/STJ . NÃO PROVIMENTO.
+1. Nos termos da jurisprudência deste Superior Tribunal de Justiça, o mero inadimplemento contratual não enseja condenação por danos morais.
+2. O Tribunal de origem, após apreciação das provas dos autos, entendeu que a negativa de cobertura se deu por divergência razoável de interpretação do contrato, assim como que a situação vivenciada pela beneficiária não foi apta a gerar danos à sua intimidade psíquica, tendo configurado mero aborrecimento do cotidiano, coonclusão esta insusceptível de reexame na via do recurso especial (Súmula 7).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1573736/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/06/2018, DJe 14/06/2018)
+____________
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ATRASO NA ENTREGA DA OBRA. DANO MORAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. A jurisprudência do STJ firmou-se no sentido de que o mero inadimplemento contratual não basta para ensejar dano moral indenizável. Precedentes.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem concluiu que o atraso verificado provocou mais que mero dissabor, sendo devida a indenização por danos morais. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, vedado em recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1713597/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 03/05/2018, DJe 14/05/2018)
+Portanto, o acórdão combatido encontra-se em harmonia com o entendimento desta Corte, o que atrai a aplicação da Súmula 83 do STJ.
+5. Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
