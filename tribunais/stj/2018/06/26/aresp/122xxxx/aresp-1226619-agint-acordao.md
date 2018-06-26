@@ -1,0 +1,49 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA AFRONTA AO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO.
+1. Nos termos da orientação jurisprudencial deste Superior Tribunal, tendo a instância de origem se pronunciado de forma clara e precisa sobre as questões postas nos autos, assentando-se em fundamentos suficientes para embasar a decisão, como no caso concreto, não há falar em omissão no acórdão estadual, não se devendo confundir fundamentação sucinta com ausência de fundamentação (REsp 763.983/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJ 28/11/2005).
+2. O STJ já firmou o entendimento segundo o qual, "como destinatário final da prova, cabe ao magistrado, respeitando os limites adotados pelo Código de Processo Civil, a interpretação da produção probatória, necessária à formação do seu convencimento" (AgInt no AREsp 1.082.454/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 18/12/2017).
+3. "O óbice da Súmula 7/STJ também incide na parte em que alegado cerceamento de defesa, pois o Tribunal de origem, soberano no exame do acervo fático-probatório dos autos, assentou a desnecessidade de produção de prova pericial" (AgInt no REsp 1.473.996/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 14/12/2017).
+4. É pacífico o entendimento nesta Corte no sentido de que, "para demonstração da existência de similitude das questões de direito examinadas nos acórdãos confrontados " é  imprescindível a indicação expressa do dispositivo de lei tido por violado para o conhecimento do recurso especial, quer tenha sido interposto pela alínea a quer pela c" (AgRg nos EREsp 382.756/SC, Rel. Min. LAURITA VAZ, Corte Especial, DJe 17/12/09)" (AgRg no REsp 1.346.588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, DJe 17/03/2014).
+5. Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por VA Engenharia e Construções Ltda - ME de decisão de minha relatoria, que negou provimento ao seu agravo em recurso especial.
+Insiste o agravante na tese de afronta aos arts. 397, 427 e 515, § 1º, do CPC/1973, assim como na inaplicabilidade da Súmula 7/STJ, deduzindo, para tanto, que (fl. 1.516):
+6.3 In casu, a prova pericial era imprescindível para dirimir a questão acerca da ocorrência de dano ao erário e eventual superfaturamento, especialmente diante de Laudo Pericial produzido em ação penal correlata, e emprestado para esta, constatando que obra foi realizada e entregue à Administração Pública, e mais, concluindo que não houve prejuízo ao erário. Se foi tolhido o direito de produção da prova, no mínimo dever-se-ia valorar essa prova documental juntada, o que também não ocorreu.
+Ao deixar de utilizar o mesmo critério para a análise das provas, não as analisando no todo, isto é, deixando de conferir o mesmo valor a toda a prova apresentada, e ignorando as provas juntadas pelo agravante, o v. acórdão violou os antigos artigos 397, 427 e 515, § 1º, do Código de Processo Civil, devendo aqui ser sanado, com a correta aplicação da Lei Federal, através do provimento deste Agravo e conhecimento do Recurso Especial interposto.
+6.4. Nesse passo cumpre ressaltar que para tal análise não há que se falar da incidência da Súmula nº 07, deste E. Superior Tribunal de Justiça, merecendo ser revisto também este argumento, pois não há necessidade de reexame fático-probatório para solução desta controvérsia, sendo a estrita análise da letra da lei (artigos violados) e do texto do v. Acórdão suficientes para constatação da ilegalidade. Em outras palavras, não há que se confundir revolvimento de provas com a análise da tutela do direito infraconstitucional vulnerado.
+6.5 Vale ainda relembrar que a valoração da prova é permitida nesta sede recursal.
+Afirma que, ao contrário do que restou consignado na decisão agravada, houve afronta ao art. 535, II, do CPC/1973, tendo em vista que a existência de omissão do Tribunal de origem quanto à análise de algumas teses defensivas, principalmente a alegada afronta aos artigos 397, 427 e 515, § 1º, do CPC/1973.
+Segue afirmando a existência de dissídio jurisprudencial.
+Por fim, requer a reconsideração ou a reforma da decisão agravada.
+Impugnação às fls. 1.528/1.535.
+É o relatório.
+VOTO
+MINISTRO SÉRGIO KUKINA (Relator): O presente agravo interno não merece prosperar.
+Como cediço, nos termos da orientação jurisprudencial deste Superior Tribunal, tendo a instância de origem se pronunciado de forma clara e precisa sobre as questões postas nos autos, assentando-se em fundamentos suficientes para embasar a decisão, como no caso concreto, não há falar em omissão no acórdão estadual, não se devendo confundir fundamentação sucinta com ausência de fundamentação (REsp 763.983/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJ 28/11/2005).
+In casu, verifica-se que o Tribunal a quo dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+A propósito, confira-se o seguinte trecho do voto condutor do acórdão recorrido, in verbis (fls. 1.203/1.204):
+ ..
+As preliminares suscitadas merecem ser afastadas.
+De fato, houve requerimento expresso da V. A. Engenharia e Construções Ltda. à produção de prova pericial, no entanto, como se sabe, o laudo pericial e a própria realização da perícia poderão ser dispensados pelo juiz na hipótese dos esclarecimentos prestados pelas partes e os documentos colacionados aos autos serem considerados suficientes para a formação da convicção do magistrado.
+É nesse sentido o texto expresso do Código de Processo Civil, art. 427, a saber:
+ ..
+Assim, não houve "cerceamento de defesa", por ausência da prova pericial. Todas as provas necessárias ao deslinde da causa encontram-se nos autos. A matéria de fundo é inteiramente de direito e as provas documentais acostadas foram suficientes para a prolação da sentença.
+Ademais, sabe-se que o direito à prova que o sistema processual concede às partes não é absoluto, estando diretamente vinculado à necessidade real de esclarecimentos de ponto controvertido que seja essencial para apreciação do mérito.
+Ainda que a perícia fosse realizada, ao contrário do que defende a V. A. Engenharia e Construções Ltda., ela seria completamente inútil, pois, ainda que houvesse correção contábil na licitação realizada, a perícia jamais afastaria as incontáveis irregularidades perpetradas durante o procedimento, como o desrespeito aos princípios do "caput", do art. 37, CF. Vislumbra-se que o objeto principal desta lide jamais seria sanado pela prova pericial requerida.
+E, ainda, nos termos do art. 130, do CPC, cumpre ao juiz o "indeferimento de diligências inúteis ou meramente protelatórias", razão pela qual, pode o magistrado, conforme seu juízo de valor, abrir mão da prova que a parte pretenda inutilmente produzir.
+Conclui-se que não ocorreu o chamado "cerceamento de defesa", e, portanto, que a sentença não é nula.
+Destarte, não há falar em negativa de prestação jurisdicional.
+Por sua vez, é firme o entendimento desta Corte no sentido de que, "como destinatário final da prova, cabe ao magistrado, respeitando os limites adotados pelo Código de Processo Civil, a interpretação da produção probatória, necessária à formação do seu convencimento" (AgInt no AREsp 1.082.454/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 18/12/2017).
+A partir dessa premissa jurídica, "tendo em vista o princípio do livre convencimento motivado, não há cerceamento de defesa quando, em decisão fundamentada, o juiz indefere produção de prova, seja ela testemunhal, pericial ou documental" (AgInt nos EDcl no AREsp 473.252/SC, minha relatoria, PRIMEIRA TURMA, DJe 27/03/2017).
+Dessa forma, a alteração do acórdão recorrido, a fim de se identificar a necessidade de realização das provas requeridas, sob pena de cerceamento de defesa, também implicaria reexame de matéria fática, o que é vedado pela Súmula 7/STJ. Nesse sentido:
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO 2/STJ. AGRAVO REGIMENTAL DO MUNICÍPIO DO RIO DE JANEIRO. AÇÃO CIVIL PÚBLICA. MEDIDAS DESTINADAS A COMBATER DESLIZAMENTO DE ENCOSTAS. COMUNIDADE SÍTIO DO PAI JOÃO. RECONHECIMENTO, NO CASO CONCRETO, DE OMISSÃO DO PODER PÚBLICO. ALEGAÇÕES DO RECORRENTE QUE NÃO SÃO PASSÍVEIS DE CONHECIMENTO EM SEDE DE RECURSO ESPECIAL.
+ ..
+4. O óbice da Súmula 7/STJ também incide na parte em que alegado cerceamento de defesa, pois o Tribunal de origem, soberano no exame do acervo fático-probatório dos autos, assentou a desnecessidade de produção de prova pericial.
+ ..
+8. Agravo regimental não provido.
+(AgInt no REsp 1.473.996/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 14/12/2017)
+Por fim, "para demonstração da existência de similitude das questões de direito examinadas nos acórdãos confrontados " é  imprescindível a indicação expressa do dispositivo de lei tido por violado para o conhecimento do recurso especial, quer tenha sido interposto pela alínea a quer pela c" (AgRg nos EREsp 382.756/SC, Rel. Min. LAURITA VAZ, Corte Especial, DJe 17/12/09)" (AgRg no REsp 1.346.588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, DJe 17/03/2014).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
