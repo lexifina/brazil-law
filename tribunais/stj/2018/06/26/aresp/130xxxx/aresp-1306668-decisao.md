@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de Agravo, interposto por BRASPRESS TRANSPORTES URGENTES LTDA, em 26/08/2016, contra decisão do Tribunal de Justiça do Estado de São Paulo, que inadmitiu o Recurso Especial interposto contra acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO - Interesse de recorrer - Inexistência - Agravante que pretende a lavratura do termo de penhora sobre os precatórios estaduais de sua propriedade, bem como o afastamento dos juros utilizados, eis que seriam inconstitucionais - Juízo singular que ainda não decidiu sobre a questão, encontrando-se o tema ainda pendente de manifestação fazendária - Recurso não conhecido" (fl. 108e).
+O acórdão em questão foi objeto de Embargos de Declaração, rejeitados nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO - Inexistência, no particular, de qualquer omissão, contradição ou obscuridade a autorizar o manejo do recurso - Embargante que insiste na tese da possibilidade da quitação da dívida tributária mediante a utilização de precatórios - Matéria, todavia, não discutida tampouco decidida no julgamento anterior, cujo Agravo de Instrumento sequer foi conhecido - Embargos rejeitados" (fl. 125e).
+Nas razões do Agravo, a parte afirma o seguinte:
+"O recurso especial não foi inadmitido, sob o fundamento de ausência de prequestionamento.
+Contudo, conforme o acórdão 107/111 os dispositivos legais violados foram claramente destacados, além da recorrente ter demonstrado claramente as violações legais e os precedentes do Egrégio Superior Tribunal de Justiça" (fl. 227e).
+Requer, ao final, "que esta C. Corte receba e processo o presente Agravo de Instrumente, REFORMANDO, assim, o r. acórdão prolatado pelo Egrégio Tribunal de Justiça de São Paulo, determinando normal prosseguimento do Recurso Especial preteritamente protocolizado" (fl. 245e).
+Foi apresentada contraminuta (fls. 274/276e).
+Do exame dos autos, verifica-se que o fundamento da decisão agravada, para inadmitir o Recurso Especial, é a ausência de prequestionamento, com aplicação da Súmula 211/STJ pelo Tribunal de origem.
+O recorrente, no entanto, no Agravo, não cuidou de impugnar especificamente o único fundamento da decisão agravada, limitando-se a combater genericamente a inadmissão do recurso. No mais, a parte apenas reeditou integralmente as razões constantes do Recurso Especial (fls. 227/245e).
+Registre-se que a parte, ao recorrer, deve buscar demonstrar o desacerto do decisum contra o qual se insurge, refutando todos os óbices por ele levantados, sob pena de vê-lo mantido.
+Tal entendimento, inclusive, está consolidado na Súmula 182/STJ, segundo a qual o recorrente deve infirmar, especificamente, os fundamentos da decisão impugnada, mostrando-se inadmissível o Agravo que não se insurge contra todos eles.
+Com efeito, nos termos da jurisprudência dessa Corte, "o agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 544, § 4º, inc. I, do CPC/1973 (art. 932, III, do CPC/2015) e art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado" (STJ, AgInt no AREsp 979.256/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 17/03/2017).
+No mesmo sentido, confira-se:
+"PROCESSUAL CIVIL. TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL PATRONAL. EMBARGOS DE DECLARAÇÃO CONHECIDOS COMO AGRAVO INTERNO. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA.
+I - (..)
+II - São insuficientes para considerar como impugnação aos fundamentos da decisão que nega seguimento ao recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial.
+III - (..)
+IV - Agravo interno improvido" (STJ, EDcl no AREsp 1.037.218/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 27/11/2017).
+Em face do exposto, com fundamento no art. 932, III, do CPC/2015 e art. 253, parágrafo único, I, do RISTJ, não conheço do Agravo.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários.
+I.
