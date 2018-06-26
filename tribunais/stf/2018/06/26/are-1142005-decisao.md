@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 2ª Região, ementado nos seguintes termos:
+    “PROCESSO CIVIL. EMBARGOS À EXECUÇÃO. DESISTÊNCIA. ADESÃO AO PARCELAMENTO. HONORÁRIOS DEVIDOS DA LEI Nº 11.941/09. ENCARGO DO DECRETO-LEI Nº 1.025/69. NÃO INCLUSÃO. RECURSO IMPROVIDO. 1 - A desistência da ação de embargos à execução fiscal em razão da opção, pelo contribuinte, ao Programa de Parcelamento instituído pela Lei nº 11.941/09, não o exonera do pagamento de honorários advocatícios, bem como implica em obediência à lei de regência. 2 - O certo é que, conforme se verifica do art. 6º, § 1º, a exoneração dos honorários somente ocorre nos casos em que o contribuinte desistir da ação que tenha como objeto o restabelecimento de sua opção ou a sua reinclusão em outros parcelamentos, o que não é o caso dos autos. 3 - Não incidência do encargo previsto no do Decreto-lei nº 1.025/69. 4 - Recurso a que se nega provimento.” (eDOC 1, p. 233)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos artigos 5º, II, e 37 do texto constitucional. (eDOC 2, p. 17)
+    Nas razões recursais, alega-se não ser devida, na espécie, a imposição ao recorrente de pagamento de honorários. (eDOC 2, p. 14)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifico que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 1973, razão pela qual não se aplica o disposto nos arts. 1.007 e 1.029, § 3º, do Código de Processo Civil de 2015.
+    Nesse sentido, ressalto que o Tribunal de origem não admitiu o recurso extraordinário em razão da ausência de juntada do comprovante original do preparo no momento da interposição do recurso.
+    Nesse sentido, extrai-se o seguinte trecho do juízo de admissibilidade feito na origem:
+    “In casu, compulsando-se os autos, verifica-se que não foi atendido o pressuposto extrínseco de admissibilidade recursal concernente ao preparo, tendo em vista não ter sido juntada aos autos, no momento da interposição do recurso, o comprovante original da guia de recolhimento, consoante teor da certidão lavrada pela Assessoria de Recursos às fls. 84.” (eDOC 2, p. 38 e 35)
+     No que tange à impossibilidade da apresentação de cópias das guias de recolhimento do preparo, há entendimento no sentido de que se reconhece a deserção do recurso se, no momento imediato de sua interposição ou da complementação das custas, o apelante junta somente a cópia do pagamento da guia do preparo desacompanhada do comprovante original.
+    Nesse linha, confiram-se as seguintes decisões monocráticas: ARE 996.099, Rel. Min. Ricardo Lewandowski, DJe 17.10.2016; ARE 861.098/RJ, Rel. Min. Alexandre de Moraes, DJe 9.4.2018; e ARE 1.119.486, Rel. Min. Roberto Barroso, DJe 17.4.2018.
+    Ainda que superado esse óbice, verifico que o agravo interposto contra a decisão denegatória de admissibilidade é intempestivo. Isso porque é entendimento desta Corte que não são cabíveis embargos de declaração contra decisão de inamissibilidade de recurso extraordinário.
+    Nesses termos, tendo em vista que os embargos de declaração não foram conhecidos, o prazo para interposição do recurso correto não restou interrompido ou suspenso, na forma do art. 544, do CPC/73, razão pela qual intempestivo o presente agravo. (eDOC 2, p. 60)
+    Cito, a propósito, os seguintes julgados: ARE- AgR 704.792, Rel. Min. Luiz Fux, Primeira Turma, DJe 16.10.2013; AI-AgR 733.719, Rel. Min. Ellen Gracie, Segunda Turma, DJe 11.12.2009; e ARE 728.395-AgR, Rel. Min. Joaquim Barbosa, Tribunal Pleno, DJe 19.8.2013, cuja ementa transcrevo:
+    “AGRAVO REGIMENTAL. DECISÃO DE INADMISSIBILIDADE DE RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO DE EMBARGOS DECLARATÓRIOS INCABÍVEIS. NÃO INTERRUPÇÃO DO PRAZO PARA INTERPOSIÇÃO DE AGRAVO. INTEMPESTIVIDADE. O agravo interposto da decisão que inadmitiu o recurso extraordinário é intempestivo, porquanto prevalece nesta Corte o entendimento de que os embargos de declaração opostos da decisão que, na origem, nega seguimento a recurso extraordinário, por serem manifestamente incabíveis, não suspendem ou interrompem o prazo para a interposição de recurso. Agravo regimental a que se nega provimento.”
+    Além disso, anoto que o Supremo Tribunal Federal entende não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolver reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF).
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 26 de junho de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
