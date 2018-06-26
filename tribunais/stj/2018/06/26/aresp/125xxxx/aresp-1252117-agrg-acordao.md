@@ -1,0 +1,42 @@
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. UNIFICAÇÃO DE PENAS. ALTERAÇÃO DO MARCO INICIAL PARA CONCESSÃO DE NOVOS BENEFÍCIOS. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL. ENTENDIMENTO CONSOLIDADO PELA TERCEIRA SEÇÃO NO JULGAMENTO DO RESP N. 1.557.461/SC. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A alteração da data-base para concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal. Portanto, a desconsideração do período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado depois e já apontado como falta disciplinar grave, configura excesso de execução.
+2. A questão relativa à data da última prisão do apenado foi formulada apenas por ocasião da interposição do agravo, de modo que se trata de inovação recursal.
+3. Agravo regimental não conhecido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro, Maria Thereza de Assis Moura e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+O MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS interpõe agravo regimental contra a decisão de fls. 178-180, por meio da qual conheci do agravo de fls. 149-152 para dar provimento ao recurso especial de fls. 121-131, a fim de que a unificação de penas não enseje a alteração do termo a quo para a concessão de benefícios ao agravado, devendo ser mantida a data-base anterior à unificação.
+O agravante alega que "o em. Relator acolhe a atual jurisprudência, de modo a conceder a ordem a fim de restabelecer a decisão de primeiro grau. Sucede que a decisão do juiz singular não fixou a data da última prisão como marco para a concessão de novos benefícios, mas sim a data do primeiro recolhimento/primeiro fato criminoso" (fl. 191).
+Também sustenta que, "ao restabelecer a decisão do juízo de piso, o eminente Relator, com a devida vênia, adota um terceiro entendimento, que não expressa a atual jurisprudência do STJ, pois fixa da data da primeira prisão para a obtenção de novos benefícios" (fl. 192).
+Defende que, "para adequar ao novo entendimento da 3ª Seção do STJ, a hipótese seria de provimento parcial do recurso especial, para fixar a data da última prisão como marco para obtenção de eventuais benefícios do apenado, qual seja, dia 12/11/2014" (fl. 192).
+Pede a reconsideração da decisão agravada ou a submissão do feito ao órgão colegiado, a fim de que seja processado e provido o recurso.
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. UNIFICAÇÃO DE PENAS. ALTERAÇÃO DO MARCO INICIAL PARA CONCESSÃO DE NOVOS BENEFÍCIOS. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL. ENTENDIMENTO CONSOLIDADO PELA TERCEIRA SEÇÃO NO JULGAMENTO DO RESP N. 1.557.461/SC. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A alteração da data-base para concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal. Portanto, a desconsideração do período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado depois e já apontado como falta disciplinar grave, configura excesso de execução.
+2. A questão relativa à data da última prisão do apenado foi formulada apenas por ocasião da interposição do agravo, de modo que se trata de inovação recursal.
+3. Agravo regimental não conhecido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+O agravo regimental é tempestivo e preenche os demais requisitos da admissibilidade. No entanto, não obstante os esforços perpetrados pelo ora agravante, não constato fundamentos suficientes a infirmar a decisão agravada, cuja conclusão mantenho.
+Na decisão atacada, registrei o seguinte (fls. 179-180):
+A controvérsia deduzida neste recurso cinge-se à alteração da data-base para futuros benefícios da execução e já foi amplamente debatida pela Terceira Seção no julgamento do REsp n. 1.557.461/SC, finalizado em 22/2/2018, a cujas razões de decidir faço expressa referência, para evitar repetições inúteis.
+Na oportunidade, este Superior Tribunal modificou sua jurisprudência sobre o tema e, desde então, haja vista o princípio da segurança jurídica, a Quinta e a Sexta Turma passaram a compreender que a unificação de penas não altera a data-base para concessão de benefícios executórios.
+Se nem sequer a regressão de regime é consectário lógico do somatório das reprimendas, não é possível indicar o parágrafo único do art. 111 e o inc. II do art. 118, ambos da Lei de Execução Penal, para fins de interromper a data-base para concessão de futuros benefícios. Não existe nenhuma disposição legal expressa nesse sentido e a interpretação é prejudicial ao sentenciado.
+A providência constituiria afronta ao princípio da legalidade e ofensa à individualização da pena, motivo pelo qual se faz necessária a preservação do marco interruptivo anterior à unificação das penas.
+Deveras, a prática de novo crime no curso da execução constitui falta grave e já altera a data-base para progressão de regime. Ademais, se o sentenciado cometeu outro ilícito em data anterior ao início da execução, o fato é irrelevante para avaliar seu mérito carcerário. Assim, em qualquer das duas hipóteses, configura excesso de execução desconsiderar, à míngua de previsão legal, o período de cumprimento de pena desde a última infração disciplinar ou desde a última prisão.
+O acórdão impugnado está em dissonância com o atual entendimento da Terceira Seção deste Superior Tribunal de Justiça.
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "c", parte final, do RISTJ, conheço do agravo para dar provimento ao recurso especial, a fim de que a unificação de penas não enseje a alteração do termo a quo para a concessão de benefícios ao recorrente, devendo ser mantida a data-base anterior à unificação.
+A questão levantada pelo agravante nas razões do agravo regimental - o marco inicial para a aquisição de benefícios da execução penal seria o dia 12/11/2014, pois esta seria a data da última prisão do apenado, e não o dia 1/4/2012 - caracteriza indevida inovação recursal, o que não é cabível em agravo regimental.
+É que tal tese não foi sustentada no agravo em execução penal interposto pelo Ministério Público às fls. 2-7 - no referido recurso, o agravante pretendia a fixação do dia "21/06/2014 (trânsito em julgado da última condenação) como marco para o cálculo de novos benefícios" (fl. 7) -, não foi abordada no acórdão do Tribunal de origem e nem mesmo foi mencionada nas contrarrazões de fls. 139-143.
+Quanto ao tema, a jurisprudência do STJ firmou que " a s alegações  ..  constituem inovação de tese, pois não constaram das contrarrazões oferecidas pela defesa ao recurso especial acusatório e, ainda, não foram objeto de debate no acórdão recorrido, carecendo de prequestionamento, nos termos da Súmula 282/STF" (AgRg no REsp n. 1.575.003/RJ, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 31/03/2016, destaquei).
+Nesse sentido:
+ ..
+2. A tese de omissão do decisum ora agravado acerca da impossibilidade de ações penais em curso e de inquéritos policiais poderem concorrer para a formação do convencimento acerca do envolvimento do agente com atividades criminosas sob a perspectiva do princípio da inocência não foi objeto das contrarrazões de e-STJ fls. 400/405, sendo vedado, no bojo de agravo regimental, inovar o objeto de apreciação do recurso.
+ ..
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 1.721.461/MG, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 29/05/2018, destaquei)
+ ..
+3. Teses omissas nas contrarrazões ao recurso especial não podem ser conhecidas em sede de agravo regimental, por configurar inovação recursal.
+(AgRg no REsp n. 1.683.591/PI, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 06/02/2018, destaquei).
+Essa foi a razão pela qual a decisão agravada não analisou a tese ora defendida pelo agravante, dando provimento ao recurso especial, "a fim de que a unificação de penas não enseje a alteração do termo a quo para a concessão de benefícios ao recorrente, devendo ser mantida a data-base anterior à unificação" (fl. 180).
+À vista do exposto, não conheço do agravo regimental.
