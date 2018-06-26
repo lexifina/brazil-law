@@ -1,0 +1,20 @@
+Decisão:
+Ementa: Processual penal. Habeas Corpus. Prisão preventiva. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra as decisões que negaram seguimento aos HCs 455.029, 452.817 e 448.538, do Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi preso em flagrante por ter supostamente praticado o crime previsto no art. 171 c/c o art. 14, II, do Código Penal. O juízo a quo concedeu a liberdade provisória mediante o pagamento de fiança e outras medidas cautelares.
+    3. Irresignada, a defesa impetrou habeas corpus no Tribunal de Justiça do Estado de São Paulo. A liminar foi parcialmente deferida para reduzir o valor da fiança. Em seguida, sobreveio a primeira impetração de habeas corpus no Superior Tribunal de Justiça, indeferido liminarmente.
+    4. Em seguida, foi imperado novo HC no Superior Tribunal de Justiça, indeferido liminarmente por ser reiteração do HC anterior.
+    5. Após, o Tribunal estadual julgou prejudicado o HC lá impetrado. E, na sequência, a defesa impetrou o terceiro habeas corpus no Superior Tribunal de Justiça, indeferido liminarmente.
+    6. Neste habeas corpus, a parte impetrante sustenta, em síntese, que se nega “o direito do Paciente responder em liberdade, um crime cuja pena máxima jamais atingirá 4 anos”; que não “há decisão fundamentada quanto a prisão preventiva”; que a “ condição financeira do Paciente não pode ensejar a causa de prisão”; e que “a ausência de recursos foi devidamente demonstrada para o Douto Juízo monocrático, além das demais instâncias”.
+    Decido.
+    7. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do STF, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via processual (HC 115.659, Rel. Min. Luiz Fux).
+    8. Com efeito, inexistindo pronunciamento colegiado do Superior Tribunal de Justiça, não compete ao Supremo Tribunal Federal examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão Min. Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes. II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte. III – Agravo regimental a que se nega provimento.”
+    9. Não é o caso de concessão da ordem de ofício.
+    10. Para além de observar que a petição inicial do writ não foi instruída com cópia do decreto da prisão preventiva, verifico que a autoridade impetrada deixou de apreciar a tese defensiva, tendo em vista que “não houve manifestação do Tribunal a quo sobre fundamentação adotada no novo título que sustenta a prisão”. O que impede o imediato exame da matéria por esta Suprema Corte, sob pena de dupla supressão de instâncias.
+    11. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 26 de junho de 2018.
+Ministro Luís Roberto Barroso
+Relator
+                 Documento assinado digitalmente
