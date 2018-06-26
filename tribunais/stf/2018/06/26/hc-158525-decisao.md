@@ -1,0 +1,26 @@
+Decisão: 1. Trata-se de habeas corpus impetrado contra acórdão, proferido no âmbito do do Superior Tribunal de Justiça, assim ementado:
+    “RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. FUNDAMENTAÇÃO SUFICIENTE. RECURSO NÃO PROVIDO.
+    1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos dos artigos 282, incisos I e II c/c 312 do CPP.
+    2. O Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial a gravidade em concreto da conduta delitiva, em face da relevante quantidade da droga apreendida - 650 g de maconha - a indicar dedicação habitual à mercancia ilícita, além do risco de reiteração delitiva, tendo em vista as inúmeras passagens do recorrente por crime idêntico e por crimes contra o patrimônio, nos quais cumpre pena em regime aberto.
+    3. Recurso não provido.”
+    (RHC 94.150/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 22/05/2018, DJe 06/06/2018)
+    Narra o impetrante que: a) o paciente é acusado do crime de tráfico de drogas; b) não se fazem presentes os requisitos autorizadores da custódia preventiva, tampouco consta fundamentação adequada a lastrear o decreto segregatório.
+    Por tais razões, requer a revogação da prisão processual imposta ao paciente,
+    É o relatório. Decido.
+    2. No caso dos autos, a apontada ilegalidade não pode ser aferida de pronto.
+    A imposição da prisão preventiva calcou-se de forma satisfatória na quantidade de droga apreendida como elemento a indicar, a um só tempo, a gravidade concreta da conduta e o risco de reiteração delituosa, bem como que o paciente contava com anotações criminais anteriores:
+    “A segregação cautelar do autuado revela-se imperiosa à garantia da ordem pública. Isso porque, ao que consta, foi apreendido mais de meio quilo de droga na residência do autuado, quantidade considerável e que reveste de gravidade em concreto a conduta. Não bastasse, folha de antecedentes dá conta de que o autuado ostenta inúmeras passagens por crime idêntico e por crimes contra o patrimônio, tendo sido condenado várias vezes, cumprindo pena em regime aberto. A prisão, portanto, tem lugar como forma de evitar reiteração criminosa, que, na hipótese, é evidente. Há indicativos sérios de que o autuado, aliás, seja reincidente. Eventual residência fixa e trabalho lícito sucumbem, num primeiro momento, a todo o argumentado.”
+    Com efeito, a jurisprudência desta Corte reconhece tais fundamentos como aptos a ensejar, em tese, a medida gravosa:
+    “O Juízo de origem referiu-se a dados objetivos da causa (quantidade de droga apreendida e petrechos) para justificar a prisão para a garantia da ordem pública.” (HC 125034 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 10/02/2015)
+    “Ao contrário do que alegado na inicial, o decreto de prisão preventiva, posteriormente convalidado pela sentença condenatória, calcou-se não apenas no pressuposto da conveniência da instrução criminal, mas, também, no requisito autorizador da necessidade da garantia da ordem pública, uma vez que a quantidade de droga apreendida, a gravidade do delito e o risco de reiteração criminosa foram muito bem invocados.” (RHC 118308, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 26/11/2013)
+    “Os pronunciamentos das instâncias precedentes estão alinhados com a orientação do Supremo Tribunal Federal no sentido de que a gravidade concreta dos fatos justifica a prisão preventiva para a garantia da ordem pública.” (RHC 121750, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 10/06/2014)
+    “O modus operandi do delito de tráfico de drogas, as circunstâncias e consequências do crime, a quantidade de drogas apreendidas (crack e cocaína) constitui indício veemente da concreta e excessiva periculosidade dos réus, evidenciando a necessidade de suas custódias, agora como forma de prevenção do delito.” (RHC 121528, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 03/06/2014)
+    E ainda: HC 126505, Relator(a): Min. MARCO AURÉLIO, Relator(a) p/ Acórdão: Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 05/12/2017; RHC 144295, Relator(a): Min. EDSON FACHIN, Segunda Turma, julgado em 28/11/2017 e HC 141152, Relator(a): Min. EDSON FACHIN, Segunda Turma, julgado em 16/05/2017.
+    Atento aos limites cognitivos da via eleita, não se trata de decisão manifestamente contrária à jurisprudência do STF ou de flagrante hipótese de constrangimento ilegal, de modo que não é o caso de concessão da ordem de ofício.
+    Logo, conforme acima demonstrado, restou devidamente justificada a indispensabilidade da segregação preventiva, e, por consequência, a insuficiência da imposição de medidas cautelares alternativas.
+    3. Posto isso, com fulcro no art. 21, §1º, do RISTF, nego seguimento ao habeas corpus.
+    Publique-se. Intime-se.
+    Brasília, 26 de junho de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
