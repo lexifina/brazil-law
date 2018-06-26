@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por MAURICIO QUIRINO DOS SANTOS contra decisão do Tribunal de Justiça do Estado de Minas Gerais, que não admitiu recurso especial fundado na alínea "a"  do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 217):
+EMENTA: REMESSA NECESSÁRIA - RECURSO DE APELAÇÃO - DIREITO ADMINISTRATIVO - DESVIO DE FUNÇÃO - OFICIAL JUDICIÁRIO D - LOTAÇÃO NA COMARCA DE CONTAGEM - ALEGAÇÃO DE DESEMPENHO DE ATRIBUIÇÕES PRÓPRIAS AO CARGO DE COMISSÁRIO DE MENORES COORDENADOR IV - CARGO INEXISTENTE NO ÂMBITO DA COMARCA - AUSÊNCIA DE DEMONSTRAÇÃO DE EQUIVALÊNCIA DAS FUNÇÕES DESEMPENHADAS - SENTENÇA REFORMADA NA REMESSA NECESSÁRIA - PEDIDO JULGADO IMPROCEDENTE - RECURSO VOLUNTÁRIO PREJUDICADO.
+- Afigura-se inviabilizada a pretensão de reconhecimento de desvio de função deduzida na hipótese em que o cargo em que supostamente foi desviado o autor sequer existe na localidade.
+- Reforça a impossibilidade de acolhimento da pretensão exordial a ausência de demonstração da qualificação técnica exigida para o cargo, bem como a inexistência de demonstração de que as atribuições exercidas correspondem estritamente àquelas cometidas ao cargo em que supostamente encontrava-se desviado.
+- Sentença reformada na remessa necessária, prejudicada a análise do recurso voluntário.
+Embargos de declaração rejeitados. (e-STJ fls. 244/248)
+No especial obstaculizado, a parte recorrente apontou violação do art. 884 do Código Civil, sustentando que é Oficial Judiciário "D", especialidade Comissário da Infância e Juventude, mas que exercia a função de [NOME]. Alegou que a remuneração do trabalho deve ser compatível com a função desempenhada e que tem direito ao recebimento de vencimentos relativos ao cargo que efetivamente ocupava na cidade de Contagem.
+Apresentadas as contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de ao entendimento de incidência da Súmula 7 do STJ (e-STJ fls. 266/267).
+No presente agravo, a parte recorrente alega, em resumo, a inadequação de aludido fundamento.
+Contraminuta às e-STJ fls. 286/288.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC". (Enunciado Administrativo n. 3).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Com efeito, em relação à possível ofensa ao dispositivo invocado, percebe-se que o Tribunal de origem, com base no conjunto fático-probatório dos autos, concluiu que não ficou caracterizado o desvio de função. Desse modo, para ser revista estas circunstâncias seria necessário o reexame de fatos e provas, o que é vedado em recurso especial ante o óbice constante na Súmula 7 do STJ.
+Segue o excerto em que o tema foi expressamente enfrentado:
+"Em que pese a designação acima, bem como os documentos acostados à exordial denotando que o autor supervisionava os comissários, não há, com a renovada vênia, prova robusta demonstrando que as atribuições que lhe foram cometidas coincidem com as funções relativas ao específico cargo em comissão de Comissário de Menores Coordenador IV.
+Em realidade, denota-se que o referido cargo sequer existe no âmbito da comarca de Contagem, conforme se depreende da Lei n. 9 776/89, que evidencia que, na referida localidade, apenas existem 15 (quinze) cargos de Comissário de Menores III e 1 cargo de Comissário de Menores Coordenador III. o qual, no entanto, restou extinto no âmbito do Tribunal de Justiça pela Lei n. 14.336/02." (e-STJ fls. 221)
+Ante o exposto, com base no art. 253, parágrafo único, II, " "a , do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais em 10% sobre o valor já fixado na origem, respeitados os limites e critérios previstos nos §§ 2º e 3º do referido dispositivo, ficando suspensa a exigibilidade por se tratar de beneficiário de justiça gratuita (art. 98, § 3º, do mesmo diploma legal).
+Publique-se. Intimem-se.
