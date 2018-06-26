@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social - INSS, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 371):
+AGRAVO INTERNO. INSUFICIÊNCIA DAS RAZÕES.
+Não é de acolher-se o agravo interno quando insuficientes as razões apresentadas para modificação da decisão agravada.
+Opostos embargos de declaração, foram rejeitados (fls. 421/424).
+Na razões do recurso especial, a parte recorrente aponta ofensa ao art. 1.022 do CPC/2015. Sustenta, em síntese, que: (I) apesar da oposição de embargos de declaração, o Tribunal de origem não se manifestou quanto a questões relevantes ao deslinde da controvérsia; e (II) é parte ilegítima para figurar no polo passivo da demanda, sendo certo que "a relação jurídica de direito material deduzida em juízo (questionamento dos critérios de aferição do valor atribuído ao Fator Acidentário Previdenciário - FAP), não é de responsabilidade da autarquia previdenciária, tendo em vista a titularidade da Receita Federal do Brasil." (fl.449/450).
+É o relatório.
+Inicialmente, impende ressaltar não ter ocorrido ofensa ao art. 1.022 do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Nos termos da orientação jurisprudencial deste Superior Tribunal, tendo a instância de origem se pronunciado de forma clara e precisa sobre as questões postas nos autos, assentando-se em fundamentos suficientes para embasar a decisão, como no caso concreto, não há falar em omissão no acórdão estadual, não se devendo confundir fundamentação sucinta com ausência de fundamentação (REsp 763.983/RJ, Rel. Min. NANCY ANDRIGHI, Terceira Turma, DJ 28/11/05).
+Dessarte, observa-se pela fundamentação do acórdão recorrido (fls.369/371), integrada em sede de embargos declaratórios (fls.421/424), que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Afasta-se, assim, a alegada omissão ou negativa de prestação jurisdicional tão somente pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Com efeito, acerca da questão tida por omissa, assim se manifestou o Tribunal de origem (fls.369/370):
+Por meio do agravo de instrumento, a agravante insurgiu-se contra a decisão de evento 29 do processo originário, que determinou a reintimação do impetrado, a partir da qual será computado o novo prazo para prestação de informações, fazendo constar o prazo de cinco dias para o cumprimento da liminar, sob pena de fixação de astreintes.
+Alega, em suma, não ser parte legítima a compor o polo passivo da presente demanda.
+Como se vê da contraposição entre decisão agravada e razões recursais, mantém-se que o entendimento de que o agravo de instrumento interposto pela agravante não impugna especificamente os fundamentos da decisão recorrida, caso em que inadmissível, nos termos do inciso III do art. 932 do Código de Processo Civil.
+As matérias suscitadas pela agravante devem ser apresentadas inicialmente ao juiz da causa.
+O recurso de agravo de instrumento, então, é incabível, e não tem aplicação o disposto do parágrafo único do art. 932 do Código de Processo Civil porque o vício não pode ser sanado.
+Frise-se que o Tribunal não fica obrigado a examinar todos os artigos de lei invocados no recurso, desde que decida a matéria questionada sob fundamento suficiente para sustentar a manifestação jurisdicional, dispensável a análise dos dispositivos que pareçam para a parte significativos, mas que para o julgador, se não irrelevantes, constituem questões superadas pelas razões de julgar.
+A propósito, confira-se:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRATO. SEGURO, VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. CÓDIGO DE DEFESA DO CONSUMIDOR. SÚMULA Nº 211/STJ. AUSÊNCIA DE COBERTURA. SÚMULA Nº 7/STJ.
+1. Não viola o artigo 535 do Código de Processo Civil, nem importa negativa de prestação jurisdicional, o acórdão que adotou, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelos recorrentes, para decidir de modo integral a controvérsia posta.
+2. A tese recursal vinculada aos artigos do código consumerista, apontados como violados, não foi analisada pelo Tribunal local, sequer de modo implícito, atraindo ao caso, portanto, o óbice da Súmula nº 211/STJ.
+3. Não há impropriedade em afirmar a falta de prequestionamento e afastar a indicação de afronta ao artigo 535 do CPC, haja vista que o julgado pode estar devidamente fundamentado, sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelo recorrente, pois, como consabido, não está o julgador a tal obrigado. Precedentes.
+4. Ao contrário do ora sustentado, a pretensão recursal quanto ao reconhecimento da cobertura do seguro esbarra, invariavelmente, no óbice da Súmula nº 7 do Superior Tribunal de Justiça.
+5. Agravo regimental não provido.
+(AgRg no REsp 1386843/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 06/02/2014, DJe 24/02/2014)
+PROCESSUAL CIVIL - ADMINISTRATIVO - LICITAÇÃO - EXECUÇÃO DO CONTRATO - SUCESSÃO DE EMPRESAS - OMISSÃO NÃO VERIFICADA - ART. 515 DO CPC - FALTA DE
+PREQUESTIONAMENTO - SÚMULA 211/STJ.
+1. A teor da Súmula 211/STJ, é inadmissível recurso especial para exame de matéria que não foi objeto de prequestionamento.
+2. Em nosso sistema processual, o juiz não está adstrito aos fundamentos legais apontados pelas partes. Exige-se, apenas, que a decisão seja fundamentada. Aplica o magistrado ao caso concreto a legislação por ele considerada pertinente.
+3. Inexiste afronta ao art. 535 do CPC, quando a omissão alegada nos embargos de declaração é sobre questão desinfluente para a solução do litígio.
+4. Recurso especial da primeira recorrente não conhecido e improvido o recurso da segunda recorrente.
+(REsp 804921/AL, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 15/05/2007, DJ 28/05/2007)
+Por outro lado, no tocante à tese sustentada nas razões recursais, referente à ilegitimidade passiva, cumpre observar que a parte recorrente não amparou o inconformismo na violação de qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Nesse diapasão: AgRg no AREsp 157.696/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 22/11/2012; AgRg nos EDcl no Ag 1.289.685/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 6/8/2010.
+Ante o exposto, conheço em parte do recurso especial e, na parte conhecida, nego-lhe provimento.
+Publique-se.
