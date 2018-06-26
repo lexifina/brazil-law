@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto por GLICÉRIO DE CERQUEIRA JUNIOR contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"SEGURO DE VIDA E ACIDENTES PESSOAIS AÇÃO DE COBRANÇA - LER/DORT - HIPÓTESE QUE NÃO ACARRETA INCAPACIDADE PERMANENTE E TOTAL POR DOENÇA, QUE IMPOSSIBILITE O AUTOR DE EXERCER QUALQUER OFÍCIO, A AFASTAR COBERTURA CONTRATUAL MOLÉSTIA QUE NÃO SE CARACTERIZA COMO ACIDENTE - AUXÍLIO DOENÇA CONCEDI DO PELO INSS - REGRAS DISTINTAS DO SEGURO DE INICIATIVA PRIVADA - INEXISTÊNCIA DE DEVER DA RÉ DE INDENIZAR HONORÁRIOS ADVOCATÍCIOS - VERBA QUE NÃO COMPORTA MAJORAÇÃO ART. 8 5 , § 2 º E 6 º , DO NCPC - SENTENÇA MANTIDA - RECURSO CONHECIDO E IMPROVIDO." (e-STJ, fl. 421)
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 478/482).
+Nas razões do recurso especial, a parte agravante alega divergência jurisprudencial e violação dos seguintes dispositivos: 1) arts. 6º, III, 51, I, IV e XV e 54, § 4º, do CDC, sustentando, em síntese, a nulidade da cláusula que exclui doença ocupacional da cobertura, uma vez que não consta da apólice principal e que não foram redigidas em destaque; 2) art. 20 da Lei n. 8.213/91, ao fundamento de que as doenças ocupacionais são consideradas acidentes para fins legais, não podendo ser excluídas da cobertura securitária.
+Apresentadas contrarrazões às fls. 486/502 (e-STJ).
+É o relatório. Decido.
+No que tange às alegadas ofensas 6º, III, 51 e 54, § 4º, do CDC e art. 20 da Lei n. 8.213/91, verifica-se, do exame dos autos, que as teses trazidas nas razões do recurso especial quanto à nulidade da cláusula que exclui doença ocupacional da cobertura securitária e quanto ao reconhecimento, para fins de cobertura securitária por acidente de trabalho, de que as doenças ocupacionais se encaixam no conceito de acidente pessoal, não foram discutidas no v. acórdão recorrido, ainda que tenham sido opostos embargos de declaração para sanar eventual irregularidade.
+Caberia à parte recorrente, na hipótese, alegar violação ao art. 1.022 do CPC/2015 alegando a existência de possível omissão, providência, todavia, da qual não se desincumbiu. Dessa forma, à falta do indispensável prequestionamento, incide, na espécie, por analogia, a Súmula 282 do STF. Nesse sentido:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ANULATÓRIA. ACORDO HOMOLOGADO EM JUÍZO. VÍCIO NÃO DEMONSTRADO. AUSÊNCIA DE PREQUESTIONAMENTO.
+1. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal.
+2. A rediscussão dos termos do acordo homologado judicialmente seria possível se tal acordo fosse desconstituído, mediante a ação anulatória prevista no artigo 486 do Código de Processo Civil de 1973. Precedentes.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1132232/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/04/2018, DJe 03/05/2018 - grifo nosso)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, deixo de majorar os honorários advocatícios devidos ao recorrido, porquanto já arbitrados no limite percentual legal máximo na origem.
+Publique-se.
