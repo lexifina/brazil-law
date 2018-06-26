@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MUNICIPIO DE VÁRZEA PAULISTA contra decisão do Tribunal de Justiça de São Paulo, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional, que desafia acórdão assim ementado (e-STJ fl. 301):
+CONTRATO ADMINISTRATIVO - Cobrança de multa, juros moratórios e correção monetária por pagamentos efetuados com atraso - Pelo princípio da restitutio in integrum, quem violar direito ou causar prejuízo a outrem deve reparar integralmente o dano - Sentença de procedência-; Recursos não providos.
+Nas razões do recurso especial, a recorrente apontou violação do artigo 111 do Código Civil, suscitando que não houve aditamentos quanto aos valores que a recorrida deixou de receber. Ademais, aduziu que a recorrida anuiu com os pagamentos na forma que foram realizados, durante a execução do contrato, por período posterior ao seu prazo original.
+Contrarrazões (e-STJ fls.309/317).
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, pela incidência das Súmulas 7 e 5 do STJ (e-STJ fls. 336/337). No presente agravo, a parte rebate a aplicação daqueles verbetes, ao argumento de que os precedentes colacionados na decisão não são aplicáveis ao caso concreto, e reitera a ofensa àquele preceito do CPC/1973 (e-STJ fls. 350/356).
+Contraminuta às e-STJ fls. 359/367.
+ Passo a decidir.
+Inicialmente, cumpre destacar que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do Plenário do STJ).
+Isso considerando, observo que o tema atinente à violação do art. 111 do Código Civil carece do prequestionamento.
+Da leitura do acórdão recorrido, observa-se que o Tribunal de origem não emitiu juízo de valor acerca da violação do art. 111 do CC, "quanto à anuência da apelada" (e-STJ fls. 299/306), tampouco foram opostos embargos de declaração com essa finalidade.
+Ressalte-se que, conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente, o que não ocorreu no caso dos autos.
+ Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada". Frise-se, por oportuno, que a recorrente sequer opôs embargos de declaração a fim de sanar eventual vício do acórdão objurgado, o que atrai a incidência da Súmula 356 do STF.
+Ante o exposto, com base no art. 253, parágrafo único, II,  a , do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
