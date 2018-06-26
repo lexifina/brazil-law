@@ -1,0 +1,29 @@
+DECISÃO
+1. Cuida-se de agravo interposto por VIA PARISI COMERCIAL LTDA. contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO SUL, assim ementado:
+Agravo de instrumento. Falência. Habilitação de crédito extraconcursal. Notas fiscais juntadas sem comprovante de entrega de mercadorias à agravada. Ausência de comprovação da constituição do crédito. Impossibilidade de habilitação. Agravo de instrumento não provido.
+Os embargos de declaração foram rejeitados (fls. 354-360).
+Nas razões do recurso especial (fls. 370-377), o recorrente aduz que ocorreu negativa de vigência aos arts. 67 e 84 da Lei 11.101/2005, por entender que "não houve completa prestação jurisdicional, considerando que o r. Acórdão fala em constituição de crédito, ao passo que a matéria discutida versa sobre a qualificação de um crédito já consolidado junto ao rol de credores do processo falimentar".
+Por fim, "pugna para que haja correto julgamento do feito, aplicando-se os critérios da Impugnação de Crédito, tendo em vista que o rol de credores apresentado pela própria Recorrida configura prova inequívoca dos débito existente, devendo-se apenas ser alterada sua classificação para extraconcursal (..)".
+É o relatório.
+DECIDO.
+2. Destaca-se que, para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+Na presente hipótese, o insurgente alega violação dos arts. 67 e 84 da Lei 11.101/2005. No entanto, verifica-se que os referidos dispositivos legais, em que pese a oposição de embargos de declaração, não foram objeto de debate na instância de origem.
+Diante disso, conclui-se pela incidência da Súmula 211/STJ ao vertente caso, ante a falta do necessário prequestionamento da matéria.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. SUPLEMENTAÇÃO DE APOSENTADORIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211.DEFICIÊNCIA DE FUNDAMENTAÇÃO. SUMULA 284. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS. AGRAVO INTERNO NÃO PROVIDO.
+1. A falta do necessário prequestionamento inviabiliza o exame da alegada contrariedade ao dispositivo citado por este Tribunal, em sede de especial. Incidência na espécie da Súmula 211/STJ.
+2. A ausência de explicitação precisa, por parte do recorrente, sobre a forma como teriam sido violados os dispositivos suscitados atrai a incidência do enunciado n. 284 da Súmula do STF.
+3. A conclusão a que chegou o Tribunal a quo acerca da irregularidade dos descontos no benefício do recorrido, decorreu de convicção formada em face dos elementos fáticos existentes nos autos. A revisão de tais fundamentos demandaria alteração revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+4. Não foram cumpridas as formalidades previstas nos arts. 541 do CPC/73 e art. 255 do RISTJ, pois a recorrente limitou-se a transcrever excertos dos julgados paradigma, sem proceder à análise dos textos para demonstrar a divergência.
+5. Agravo interno não provido.
+(AgInt no AREsp 213.811/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/04/2017, DJe 03/05/2017)
+PREQUESTIONAMENTO. AUSÊNCIA. ALEGADA OFENSA AOS ARTS. 131 E 333, I, DO CPC/1973. VALORAÇÃO DAS PROVAS PELO MAGISTRADO. LIVRE CONVENCIMENTO MOTIVADO.
+1. O acórdão impugnado por meio do recurso especial foi proferido sob a égide do CPC/1973, motivo pelo qual o juízo que se realizará a respeito do acerto ou desacerto do decidido será, quanto ao aspecto processual, exclusivamente orientado por essa normatividade. É que a aplicabilidade imediata assegurada à norma processual não implica a possibilidade da revisão dos atos já praticados pelo juiz, tampouco a desconstituição de situações jurídicas consolidadas sob a vigência da lei processual revogada (art. 14 do CPC/2015). Aplica-se o Enunciado Administrativo 2 do STJ.
+2. Não há como apreciar o mérito da controvérsia, porquanto a simples oposição de embargos de declaração, sem que a matéria tenha sido efetivamente discutida e decidida pela Corte a quo, não é suficiente para caracterizar o requisito do prequestionamento.
+Aplica-se, no ponto, a Súmula 211 desta Corte Superior.
+3. Não há que se falar em contrariedade aos arts. 131 e 333, I, do CPC/1973 em razão da valoração promovida pelo magistrado das provas coligidas nos autos, porquanto no nosso sistema processual aquele é o destinatário destas; cabe-lhe, por força do art. 131 do CPC/1973, apreciar o acervo fático-probatório livremente indicando os motivos que lhe formaram o convencimento.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 125.932/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 28/11/2017, DJe 04/12/2017)
+Por derradeiro, vale ressaltar que não se aplica à espécie a norma contida no art. 1.025 do CPC/2015, pois, consoante entendimento do STJ, "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (AgInt no REsp 1719311/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 22/05/2018, DJe 28/05/2018).
+3. Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
