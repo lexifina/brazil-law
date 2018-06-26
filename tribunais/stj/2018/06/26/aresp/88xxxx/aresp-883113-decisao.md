@@ -1,0 +1,29 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado:
+PROCESSO CIVIL - SFH - REVISÃO CONTRATUAL - PRELIMINARES - CERCEAMENTO DE DEFESA - PROVAS - INOVAÇÃO DO PEDIDO EM SEDE RECURSAL - IMPOSSIBILIDADE - UPC - TAXA REFERENCIAL - DECRETO-LEI 70/66 - CONSTITUCIONALIDADE.
+1 - Nas ações em que a controvérsia se restringe à discussão dos critérios jurídicos a serem seguidos nas relações contratuais, não constitui cerceamento de defesa o julgamento sem a produção de prova pericial contábil.
+2 - Em sede recursal, não é admissível a inovação da causa de pedir e do pedido, em razão da existência de vedação legal expressa (art. 264 do CPC).
+Apelação não conhecida nessa parte.
+3 - A UPC se manteve congelada por ocasião do Plano Cruzado até a edição do decreto 94.548/87, quando passou a ser atualizada mediante aplicação do índice de atualização dos saldos da caderneta de poupança, que por sua vez, passaram a ser atualizados pela TR, com a edição da Lei 8.177/91, sendo possível o direito à revisão das prestações, sempre que a aplicação da UPC superar a equivalência prestação/salário.
+4 - A aplicação da TR aos contratos do sistema financeiro da habitação foi afastada por decisão do STF somente nos casos em que houve determinação legal de substituição compulsória do índice anteriormente pactuado pelas partes, a fim de proteger o ato jurídico perfeito e o direito adquirido. Desta feita, mostra-se possível a incidência da TR (índice básico de remuneração dos depósitos de poupança), quando decorrer de cláusula estabelecida pelos contratantes. A exclusão da TR somente seria possível na hipótese do contrato prever índice específico para atualização monetária, sem vincular o financiamento à caderneta de poupança.
+5 - A constitucionalidade do Decreto -Lei 70/66 está pacificada no Supremo Tribunal Federal por ser compatível com o devido processo legal, contraditório e inafastabilidade da jurisdição na medida em que resta intocável a possibilidade do executado, não somente participar da própria execução, mas também sujeitá-la ao controle jurisdicional.
+6 - Preliminares rejeitadas. Apelação não conhecida em parte e na, na parte conhecida, desprovida.
+Nas razões do recurso especial (fls. 255-266), o recorrente alega ofensa à ampla defesa, por entender que "somente a produção de laudo pericial, pois as planilhas apresentadas não são suficientes para a verificação do cumprimento do contrato, com a confiança do técnico respondendo a quesitos.
+Aduz que "o sistema de amortização do débito viola os artigos 50 e 60 da Lei nº 4380/64, e onera o mutuário".
+Acrescenta que "a determinação de atualização prévia do saldo devedor a proceder a amortização da prestação paga ofende o disposto no artigo 601, letra "c", da Lei nº 4380/64, e Resolução BACEN nº 1980/90".
+Aponta que "houve, no processo de expropriação do imóvel dos recorrentes, que foi a ausência da intimação dos recorrentes para a purgação da mora, assim faz necessária a nulidade do leilão extrajudicial do imóvel em decorrência de descumprir regras contidas na LEI No 9.514/97, e decreto lei 70/66, que rege o processo extrajudicial de arrematação/consolidação, utilizado na expropriação extrajudicial do imóvel dos recorrentes".
+É o relatório.
+DECIDO.
+2. A irresignação não comporta conhecimento.
+Inicialmente, consigno que o Enunciado Administrativo 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016 dispõe que "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+In casu, o recurso especial impugna acórdão publicado na vigência do CPC de 1973, sendo exigidos, pois, os requisitos de admissibilidade na forma prevista naquele código de ritos, com as interpretações dadas, até então, pela jurisprudência desta Corte. Sendo assim, não se aplica o novo CPC ao caso dos autos.
+Ao compulsar os autos, verifica-se que o recurso especial não foi instruído com as guias de custas e de porte de remessa e retorno dos autos e os respectivos comprovantes de pagamento, o que implica o reconhecimento da deserção do recurso, incidindo, na espécie, a Súmula 187 do STJ.
+Vale destacar que, conforme preconiza a jurisprudência deste Tribunal, "a mera afirmação da parte na petição de ser hipossuficiente financeira para obtenção do benefício da assistência judiciária gratuita é insuficiente para o afastamento da pena de deserção imposta no óbice da Súmula 187 do STJ" (AgInt no AREsp 1.113.984/MA, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 10/04/2018, DJe 18/04/2018) .
+Ainda nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DESERÇÃO. SÚMULA 187 DO STJ. INCIDÊNCIA.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Consoante entendimento desta Corte, consolidado na Súmula 187 do STJ, "é deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos", sendo certo que mera alegação de que a parte é beneficiária da assistência judiciária gratuita não é suficiente para o afastamento da deserção.
+3. Agravo interno desprovido.
+(AgInt no AREsp 868.552/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 01/12/2016, DJe 07/02/2017)
+3. Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
