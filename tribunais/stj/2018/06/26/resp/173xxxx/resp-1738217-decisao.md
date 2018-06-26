@@ -1,0 +1,17 @@
+EMENTA
+RECURSO ESPECIAL CONTRATO DE TRANSAÇÃO. CONTRATO DE TRANSAÇÃO. NEGÓCIO JURÍDICO ONEROSO, UNITÁRIO E INDIVISÍVEL, TENDO POR ELEMENTO ESSENCIAL A RECIPROCIDADE DE CONCESSÕES. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+1. Cuida-se de recurso especial interposto com fundamento no art. 105, III, a e c, da Constituição Federal.
+Alega a recorrente divergência jurisprudencial e que discute-se se a transação para migração de plano de benefícios deve ser observada, ou se deve ser afastada por ter cláusula contendo renúncia a direito.
+Pondera que a Corte local violou os arts. 840 e 849 do CC e diverge da jurisprudência do STJ.
+Obtempera que, não havendo declaração de nulidade da transação reconduzindo ao statu quo ante, deve ser observada a pactuação firmada pelas partes.
+2. Merece acolhida a irresignação, visto que o pleito exordial é manifestamente improcedente.
+Conforme tese sufragada pela Segunda Seção, por ocasião do julgamento do recurso repetitivo, REsp 1.551.488/MS, em caso de migração de plano de benefícios de previdência complementar, não é cabível o pleito de revisão da reserva de poupança ou de benefício, com aplicação do índice de correção monetária.
+Outrossim, restou esclarecido que, em havendo transação, em observância à elementar regra legal da indivisibilidade da pactuação e proteção ao equilíbrio contratual, a anulação de cláusula que preveja concessão de vantagem contamina todo o negócio jurídico, conduzindo ao retorno ao statu quo ante - o que nem sequer é cogitado pelos autores, ora recorridos, malgrado afirmem ter sido lesados.
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. PREVIDÊNCIA COMPLEMENTAR E CONTRATO DE TRANSAÇÃO. MIGRAÇÃO E RESGATE. INSTITUTOS JURÍDICOS DIVERSOS, QUE NÃO SE CONFUNDEM. A SÚMULA 289/STJ LIMITA-SE A DISCIPLINAR O INSTITUTO JURÍDICO DO RESGATE, MEDIANTE O QUAL HÁ DESLIGAMENTO DO PARTICIPANTE DO REGIME JURÍDICO DE PREVIDÊNCIA COMPLEMENTAR, ANTES MESMO DE AUFERIR OS BENEFÍCIOS PACTUADOS. TRANSAÇÃO PARA MIGRAÇÃO DE PLANO DE BENEFÍCIOS. CORREÇÃO MONETÁRIA DA RESERVA DE POUPANÇA E/OU DO BENEFÍCIO. EXPURGOS INFLACIONÁRIOS. INAPLICABILIDADE. NOS PLANOS DE BENEFÍCIOS ADMINISTRADOS PELAS ENTIDADES FECHADAS, HÁ SOLIDARIEDADE NA DISTRIBUIÇÃO DOS RESULTADOS POSITIVOS OU NEGATIVOS. CONTRATO DE TRANSAÇÃO. NEGÓCIO JURÍDICO ONEROSO, UNITÁRIO E INDIVISÍVEL, TENDO POR ELEMENTO ESSENCIAL A RECIPROCIDADE DE CONCESSÕES.
+1. As teses a serem firmadas, para efeito do art. 1.036 do CPC/2015 (art. 543-C do CPC/1973), são as seguintes: 1.1. Em caso de migração de plano de benefícios de previdência complementar, não é cabível o pleito de revisão da reserva de poupança ou de benefício, com aplicação do índice de correção monetária.
+1.2. Em havendo transação para migração de plano de benefícios, em observância à regra da indivisibilidade da pactuação e proteção ao equilíbrio contratual, a anulação de cláusula que preveja concessão de vantagem contamina todo o negócio jurídico, conduzindo ao retorno ao statu quo ante.
+2. No caso concreto, recurso especial provido.
+(REsp 1551488/MS, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 14/06/2017, DJe 01/08/2017)
+3. Diante do exposto, dou provimento ao recurso especial para julgar improcedente o pedido formulado na inicial, estabelecendo custas e honorários advocatícios sucumbenciais, arbitrados em R$ 5.000,00 (cinco mil reais), integralmente arcados pelos autores, ora recorridos - observada a eventual gratuidade de justiça.
+Publique-se. Intimem-se.
