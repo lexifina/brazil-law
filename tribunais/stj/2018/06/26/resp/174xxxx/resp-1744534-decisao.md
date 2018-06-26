@@ -1,0 +1,38 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RESCISÃO DE CONTRATO CUMULADA COM DEVOLUÇÃO DOS VALORES PAGOS E INDENIZAÇÃO POR DANOS MORAIS E PATRIMONIAIS. COMPRA E VENDA. ATRASO NA ENTREGA DE IMÓVEL ADQUIRIDO NA PLANTA. DANOS MORAIS. ALEGADO DISSÍDIO JURISPRUDENCIAL. FALTA DE INDICAÇÃO DE DISPOSITIVO LEGAL A QUE TERIA SIDO ATRIBUÍDA INTERPRETAÇÃO DIVERGENTE. SIMILITUDE FÁTICA. AUSÊNCIA. NEGATIVA DE CARACTERIZAÇÃO DO DISSENSO PRETORIANO. PRECEDENTES. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+TABITA VAL RAMOS DA SILVA (TABITA) ajuizou ação de rescisão de contrato cumulada com devolução dos valores pagos e indenização por danos morais e patrimoniais em desfavor de GOLD CHINA EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA. (EMPREENDEDORA), que foi julgada parcialmente procedente para decretar a resolução do contrato de compra e venda de bem imóvel para entrega futura, com a devolução integral dos valores pagos, acrescidos de multas compensatória e moratória, além de correção monetária e juros de mora (e-STJ, fls. 335/342).
+Irresignadas, TABITA, de um lado, e EMPREENDEDORA, de outro, interpuseram apelações, que foram providas em parte pelo Tribunal de origem em acórdão assim ementado:
+Ação de rescisão contratual, cumulada com devolução das parcelas pagas e pedido indenizatório - Compra e venda - Rescisão do contrato - Verificada culpa da requerida pelo não cumprimento do contrato - Devolução da integralidade das quantias pagas - Impossibilidade de imposição de multa (cláusula penal) em face da parte requerida - Ausência de previsão contratual nesse sentido - Sentença modificada neste ponto - Aplicação da multa prevista no artigo 35, § 5º da Lei 4591/64 - Rés não cumpriram com a determinação legal no momento da venda das unidades - Danos morais - Configuração - Transtorno que extrapola o mero aborrecimento - Fixação do valor de indenização em R$ 10.000,00 que atende aos princípios da razoabilidade e proporcionalidade - Sentença Modificada neste ponto - Pedido de recebimento de eletrodoméstico como prêmio - Não satisfeita as condições suspensivas para o implemento da obrigação - Sucumbência recíproca - Recursos providos em parte.
+Dá-se provimento em parte aos recursos. (e-STJ, fl. 443).
+VER SE HÁ INDICAÇÃO DE DISPOSITIVO E FALTA DE SIMILITUDE FÁTICA (ATRASO X ABSOLUTO INADIMPLEMENTO)
+Inconformada, EMPREENDEDORA interpôs recurso especial, fundado no art. 105, III, c, da CF, indicando dissídio jurisprudencial tendo por paradigmas precedentes do Tribunal de Justiça do Distrito Federal e dos Territórios e também desta Corte Superior quanto à alegada ausência de configuração de danos morais resultantes de atraso na entrega de imóvel adquirido na planta, ao argumento de que não houve ofensa a direitos da personalidade da parte recorrida, não ensejando reparação por lesão extrapatrimonial o mero inadimplemento contratual.
+Em juízo de admissibilidade, a Presidência do Tribunal estadual admitiu o referido apelo nobre (e-STJ, fls. 532/533).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+De plano, vale pontuar que o presente recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O dissídio jurisprudencial viabilizador do recurso não foi demonstrado no particular (art. 105, III, c, da CF).
+Com efeito, além de indicar o dispositivo legal e transcrever os julgados apontados como paradigmas, é necessário realizar o cotejo analítico, com a demonstração da identidade das situações fáticas e da interpretação diversa dada ao mesmo dispositivo.
+No caso em exame, a recorrente se limitou a declinar os argumentos que supostamente dariam respaldo à sua pretensão e mencionar acórdãos porventura divergentes, sem efetuar a indicação do dispositivo legal acerca do qual haveria dissenso pretoriano.
+Assim, o dissenso pretoriano não pode ser conhecido, porquanto não atende aos requisitos dos arts. 541, caput, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO (ART. 1042 DO NCPC) - AÇÃO DECLARATÓRIA - DISSOLUÇÃO PARCIAL DE SOCIEDADE - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS RÉUS.
+1. A admissibilidade do recurso especial exige a clareza na indicação dos dispositivos de lei federal supostamente contrariados, bem como a explanação precisa da medida em que o acórdão recorrido teria afrontado cada um desses artigos, sob pena de incidência da Súmula 284/STF.
+1.1. Incide a Súmula 284/STF ao recurso especial interposto pela alínea "c" do permissivo constitucional quando a parte não indica o dispositivo de lei interpretado de forma dissonante pelos arestos recorridos e paradigma, conforme entendimento pacífico do STJ.
+Precedentes.
+(..)
+3. Agravo interno desprovido.
+(AgInt no AREsp 1192510/SC, Rel. Ministro MARCO BUZZI, Quarta Turma, j. 05/06/2018, DJe 13/06/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE ACORDO JUDICIAL. ALEGAÇÃO DE DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO VIOLADO. EXIGÊNCIA TAMBÉM PARA O RECURSO INTERPOSTO COM BASE NA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. COTEJO ANALÍTICO NÃO REALIZADO. SIMILITUDE FÁTICA NÃO DEMONSTRADA. AGRAVO INTERNO IMPROVIDO.
+1. O apelo extremo funda-se na alegação de dissídio jurisprudencial.
+Todavia, o agravante não indicou, nas razões do seu recurso especial, o dispositivo infraconstitucional tido por violado, exigência essa que deve ser cumprida tanto para o recurso especial interposto com base na alínea a quanto para o manejado com fulcro na alínea c do permissivo constitucional, sendo, portanto, imperiosa a incidência do enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+2. Conforme consignado na decisão agravada, o ora recorrente também não efetuou o devido cotejo analítico, tampouco demonstrou a necessária similitude fática, o que também inviabiliza o conhecimento do apelo nobre.
+3. Agravo interno improvido.
+(AgInt no AREsp 1227996/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 17/04/2018, DJe 23/04/2018)
+Ademais, no caso em exame, foram colacionadas ementas de acórdãos apontados como paradigmas, tentando demonstrar o dissídio jurisprudencial, mas sem lograr êxito ao demonstrar a identidade entre os julgados, porquanto a controvérsia gravita ao redor da configuração ou não de danos morais sofridos pelo ora recorrido resultantes de atraso na entrega de imóvel adquirido na planta.
+Cabe sublinhar que, na comparação entre os casos, exsurge a substancial dificuldade em estabelecer similitude fática entre os arestos confrontados na medida em que se referem a entrega de unidade habitacional após o decurso do prazo contratual, enquanto o acórdão impugnado assentou expressamente que a extinção do contrato por iniciativa da parte adquirente deu-se por força do embargo imposto pela prefeitura do município onde localizado o empreendimento, causando o cancelamento do lançamento, não havendo qualquer perspectiva de que as obras fossem realizadas a qualquer tempo.
+Nessas condições, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários advocatícios tendo em vista que não foram arbitrados pelas instâncias ordinárias.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
