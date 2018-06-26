@@ -1,0 +1,43 @@
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DAS DEMANDADAS.
+1. O conhecimento do recurso especial, pela alínea "c" do permissivo constitucional, exige a indicação de qual dispositivo legal teria sido objeto de interpretação divergente, sob pena de incidência, por analogia, da Súmula 284 do Supremo Tribunal Federal. Precedentes.
+2. Agravo interno desprovido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Luis Felipe Salomão, Maria Isabel Gallotti e Antonio Carlos Ferreira (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Cuida-se de agravo interno interposto por GRANADA INVESTIMENTOS IMOBILÁRIOS LTDA. contra decisão monocrática, da lavra deste signatário (fls. 451/454), que negou provimento ao agravo em recurso especial.
+O apelo nobre fora deduzido em desafio a acórdão prolatado pelo Egrégio Tribunal de Justiça do Estado de São Paulo/SP, o qual se encontra assim ementado:
+APELAÇÃO - Ação Ordinária - Instrumento Particular de Compromisso de Venda e Compra de Unidade Autônoma - Pedido de indenização por danos morais e materiais por atraso na entrega da obra - Sentença de procedência - Inconformismo - Atraso na conclusão da obra - Danos morais e lucros cessantes devidos - Taxas de corretagem e SATI - Não ocorrência de prescrição - Legalidade da cobrança - Restituição indevida - Recurso parcialmente provido.
+Opostos embargos de declaração, estes foram parcialmente acolhidos pelo acórdão de fls. 304-311 (e-STJ) para analisar a tese de ilegitimidade passiva ad causam para restituição das taxas de corretagem e SATI, a qual foi rejeitada, esclarecendo o Tribunal local que a pertinência ou não da referida obrigação se confunde com o mérito, que será apreciado em momento oportuno.
+Nas razões do especial (fls. 314-328, e-STJ), a insurgente sustentou ser necessário o afastamento da indenização por danos morais ou, subsidiariamente, que seja minorado o valor arbitrado.
+Contrarrazões às fls. 403-409, e-STJ.
+Em juízo de admissibilidade, negou-se seguimento ao reclamo, o que levou à interposição do presente agravo (fls. 414-427, e-STJ), que busca destrancar o processamento daquela insurgência.
+Contraminuta às fls. 430-434, e-STJ.
+Julgando monocraticamente o reclamo, este relator negou-lhe provimento, diante da incidência da Súmula 284 do STF.
+Opostos embargos de declaração (fls. 457/460) esses foram rejeitados às fls. 465/466.
+Irresignada (fls. 470/474 e-STJ), o ora insurgente afirma que fundamentou seu apelo na alínea "c" do artigo 105, III, da Constituição Federal, de modo que é rigor o conhecimento e provimento de seu recurso especial. (fls. 470/474)
+Requer, por fim, a reconsideração da decisão impugnada, ou sua reforma pelo Colegiado.
+Sem impugnação. (fls. 477)
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DAS DEMANDADAS.
+1. O conhecimento do recurso especial, pela alínea "c" do permissivo constitucional, exige a indicação de qual dispositivo legal teria sido objeto de interpretação divergente, sob pena de incidência, por analogia, da Súmula 284 do Supremo Tribunal Federal. Precedentes.
+2. Agravo interno desprovido.
+
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI:
+O agravo interno não merece acolhida, porquanto os argumentos tecidos pela agravante são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida, por seus próprios fundamentos.
+1. nos termos do entendimento desta Corte, a falta de indicação do dispositivo legal ao qual supostamente se tenha atribuído interpretação divergente, quando se interpõe o recurso especial com fundamento na alínea "c" do permissivo constitucional constitui argumentação deficiente, impedindo, por conseguinte, a exata compreensão da controvérsia a ser dirimida.
+A ausência de particularização dos dispositivos legais a que os acórdãos - recorrido e paradigma - teriam dado interpretação discrepante consubstancia deficiência insanável, inviabilizando a abertura da instância especial, a incidir, no ponto, o teor da Súmula 284 do STF.
+A propósito, os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL OBJETO DA DIVERGÊNCIA. INCIDÊNCIA DA SÚMULA 284 DO STF. AGRAVO INTERNO DESPROVIDO. 1. O conhecimento do recurso especial, pela alínea c do permissivo constitucional, exige a indicação de qual dispositivo legal teria sido objeto de interpretação divergente, sob pena de incidência da Súmula 284 do Supremo Tribunal Federal. Precedentes do STJ. 2. Agravo interno a que se nega provimento. (AgInt no AREsp 1119408/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 06/02/2018, DJe 14/02/2018).
+AGRAVO INTERNO NO RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DO ARTIGO VIOLADO. SÚMULA Nº 284 DO STF. DESPESAS REALIZADAS EM HOSPITAL NÃO CREDENCIADO. SÚMULAS 5 E 7/STJ. RECURSO NÃO PROVIDO. 1. O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da demonstração analítica do dissídio jurisprudencial, a indicação dos dispositivos supostamente violados ou objeto de interpretação divergente. Súmula 284 do STF. 2. O Tribunal de origem concluiu que o ajuste firmado seria patrocinado em todo o Sistema Nacional Unimed, bem como que cabe aos usuários escolher os médicos e hospitais, desde que cooperados com o plano. Para desconstituir a convicção formada pelas instâncias ordinárias a esse respeito, far-se-ia necessário incursionar no substrato fático-probatório dos autos, bem como proceder à interpretação de cláusulas contratuais, o que é defeso a esta Corte Superior ante o teor das Súmulas 5 e 7 do STJ. 3. Agravo interno não provido. (AgInt no AREsp 1024730/PB, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/08/2017, DJe 21/08/2017).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DO BEM. REEXAME DE PROVAS. VEDAÇÃO EM RECURSO ESPECIAL. SÚMULAS NºS 5 E 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. DANOS MATERIAIS. LUCROS CESSANTES. CONFIGURAÇÃO. PREJUÍZO PRESUMIDO. DISSÍDIO NÃO DEMONSTRADO.  .. . 5. O recurso especial fundamentado no dissídio jurisprudencial exige, em qualquer caso, que tenham os acórdãos - recorrido e paradigma - examinado o tema sob o enfoque do mesmo dispositivo de lei federal. Se a divergência não é notória, e nas razões de recurso especial não há sequer a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da eventual ofensa à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284 do Supremo Tribunal Federal, a inviabilizar o conhecimento do recurso pela alínea "c" do permissivo constitucional. Precedentes. 6. A necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional. 7. Agravo interno não provido. (AgInt no AREsp 1059699/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 08/08/2017, DJe 18/08/2017).
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC CERCEAMENTO DE DEFESA. INEXISTÊNCIA CORRETA VALORAÇÃO DA PROVA. REVISÃO. SÚMULA Nº 7 DO STJ. PENSIONAMENTO MENSAL. DEPENDÊNCIA ECONÔMICA PRESUMIDA. SÚMULA Nº 83 DO STJ. QUANTUM INDENIZATÓRIO. DISSÍDIO. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL. SÚMULA Nº 284 DO STF. AGRAVO INTERNO NÃO PROVIDO. APLICAÇÃO DE MULTA.  .. . 5. A ausência de indicação do dispositivo de lei sobre o qual se deu a alegada divergência jurisprudencial configura deficiência de fundamentação a atrair a aplicação da Súmula nº 284 do STF. 6. Também incide a Súmula nº 7 do STJ, na interposição do apelo nobre pela alínea c, quando sua análise depender do revolvimento de matéria fático-probatória. 7. Agravo interno não provido, com aplicação de multa. (AgInt no AREsp 855.888/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 20/06/2017, DJe 01/08/2017).
+2. Do exbposto, nega-se provimento ao agravo interno.
+É o voto.
