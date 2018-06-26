@@ -1,0 +1,21 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. MILITAR. LEGALIDADE DO ATO ADMINISTRATIVO QUE O EXCLUIU DOS QUADROS DA BRIGADA MILITAR. ARTS. 106, VI, e 125, III DA LEI 6.880/1980. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto por [NOME], com base nas alíneas a e c do art. 105, III da Constituição Federal, objetivando a reforma do acórdão do Tribunal de Justiça Militar do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO - DISCIPLINAR MILITAR. EXCLUSÃO DECLINAÇÃO DE COMPETÊNCIA.
+1. Rejeitada a preliminar de nulidade não há de se falar em ato arbitrário no curso do procedimento, tão pouco qualquer in constitucionalidade, tendo o processo corrido dentro da normalidade.
+2. É legal a exclusão a bem da discipline o Policial Militar que prática atos obscenos não podendo permanecer nas fileiras da Brigada Militar.
+3. Não assiste razão ao apelante quantc a falta de intimação, tendo sido assistido por advogado constituindo. Decisão unânime (fls. 1078).
+2. Os Embargos de Declaração opostos foram rejeitados.
+3. Nas razões do Apelo Nobre, sustenta o recorrente, além de dissídio jurisprudencial, violação aos arts. 106, VI e art. 125, III da Lei 6.880/1980, asseverando que o praça com estabilidade não pode ficar a mercê de um ato discricionário, mesmo que fundamentado, para ser excluído a bem da disciplina, quando em julgamento pelo Conselho de Disciplina foi considerado não culpado das acusações que lhe foram feitas e, capaz de permanecer na situação de ativo da Brigada Militar.
+4. É o relatório.
+5. O cerne da questão encontra-se na análise da legalidade do ato administrativo que o excluiu dos quadros da Brigada Militar.
+6. Os dispositivos tidos por violados não foram debatidos pelo Tribunal de origem e, no Especial, não houve a indicação de ofensa ao art. 535 do CPC, o que levaria ao exame de possível omissão. Manifesta é, portanto, a ausência de prequestionamento, o que atrai a incidência da Súmula 211 do STJ. Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INOVAÇÃO. IMPOSSIBILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. SUPOSTA OFENSA AO ART. 535 DO CPC NÃO-ARGUIDA NO RECURSO ESPECIAL. ALÍNEA C. NÃO-DEMONSTRAÇÃO DA DIVERGÊNCIA.
+1. É inadmissível Recurso Especial quanto à matéria - arts. 185-A do CTN, 620 e 655-A do CPC, art. 11 da Lei 6.830/1980 - , que não foi apreciada pelo Tribunal de origem, a despeito da oposição de Embargos Declaratórios. Incidência da Súmula 211/STJ.
+2. Se o Tribunal local, não obstante a oposição dos Embargos Declaratórios, deixa de se manifestar sobre pontos suscitados, deve a parte interpor Recurso Especial com base na ofensa às disposições do art. 535 do Código de Processo Civil.
+3. Considera-se prequestionada a matéria se decidida à luz do dispositivo apontado como violado, apesar de ser desnecessária a sua citação numérica, interpretando-se sua aplicação ou não ao caso concreto, não bastando a simples referência ao artigo no julgado. Precedentes do STJ.
+4. A ausência de prequestionamento dos dispositivos legais que embasam o Recurso Especial interposto pela alínea a do permissivo constitucional também prejudica a análise do recurso fundado em divergência jurisprudencial. Precedentes.
+5. Ademais, ainda que assim não fosse, a discrepância jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fático-jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ) impede o conhecimento do Recurso Especial, com fulcro na alínea c do inciso III do art. 105 da Constituição Federal.
+6. Agravo Regimental não provido (AgRg no AREsp. 11.791/SP, Rel. Min. HERMAN BENJAMIN, DJe 08.09.2011)
+7. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial.
+8. Publique-se. Intimações necessárias.
