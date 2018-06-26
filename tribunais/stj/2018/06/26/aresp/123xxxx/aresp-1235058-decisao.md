@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto pelo DEPARTAMENTO DE ESTRADAS DE RODAGEM contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 80):
+EMBARGOS À EXECUÇÃO - Honorários advocatícios - Condenação oriunda de sentença transitada em julgado - Alegação de inexigibilidade do título, pois a condenação é de honorários que devem ser pagos pela Fazenda em favor da Defensoria - Impossibilidade de discussão do mérito da condenação, pois esta já fez coisa julgada - Sentença mantida - Recurso não provido.
+No especial obstaculizado, o ora agravante aponta, além de divergência jurisprudencial, violação do art. 381 do Código Civil e da Súmula n. 421 do STJ.
+Para tanto, sustenta que: (I) "não há como se conceber a fixação de honorários advocatícios em ações aforadas pela Defensoria em face da Fazenda do Estado, sob pena de se gerar título executório mostra-se inexigível" (e-STJ fl. 94) e (II) inexiste ofensa à coisa julgada.
+Depois de contra-arrazoado (e-STJ fl. 100), o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de que: (I) incide a Súmula n. 7 do STJ e (II) a divergência jurisprudencial não foi demonstrada nos moldes legais e regimentais (e-STJ fls. 101/102).
+Na presente irresignação, o agravante alega, em resumo, que o recurso obstado atende aos pressupostos de admissibilidade e, ao final, reitera os argumentos anteriormente expendidos.
+Contraminuta às e-STJ fls. 118/122.
+Passo a decidir.
+Inicialmente, cumpre destacar que "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Isso considerado, verifico que a irresignação recursal não merece prosperar.
+No tocante à alegada violação à Súmula n. 421 do STJ, a pretensão recursal não comporta conhecimento, porquanto tal ato normativo não se enquadra no conceito de tratado ou lei federal de que cuida o artigo 105, III, a, da Constituição Federal de 1988. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. ALEGAÇÃO DE NULIDADE DE CERTIDÃO DE DÍVIDA ATIVA QUE EMBASOU A EXECUÇÃO. REQUISITOS DA CDA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. ALEGAÇÃO DE OFENSA A ENUNCIADO SUMULAR. DESCABIMENTO DE APRECIAÇÃO EM RESP. DISSÍDIO JURISPRUDENCIAL. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF.
+ ..
+3. No tocante à violação da Súmula 373/STJ e da Súmula Vinculante 21/STF, esclareço que o apelo nobre não constitui via adequada para a análise de eventual contrariedade a enunciado sumular, por não estar este compreendido na expressão "lei federal", constante da alínea "a" do inciso III do artigo 105 da Constituição Federal.
+ ..
+6. Agravo Interno não provido. (AgInt no AREsp 934.693/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/12/2016, DJe 19/12/2016)
+Por outro lado, extrai-se do acórdão recorrido o seguinte trecho:
+3. A discussão se pauta na possibilidade ou não de a Defensoria ser credora do Estado em sucumbência, já que a Defensoria é órgão do Estado.
+De fato, o posicionamento desta E. Corte segue no sentido de que os honorários não são devidos nos casos em que a lide foi composta pela Fazenda e Defensoria.
+Neste sentido, inclusive a Súmula nº 421 do STJ..
+4. Contudo, no caso em tela, operou-se a coisa julgada, pois em momento oportuno a Fazenda não recorreu adequadamente da condenação que lhe foi imposta na ação de fornecimento de medicamentos.
+Conforme se verifica às fls. 14, em 14/04/2011 há informação da ocorrência de trânsito em julgado da r. sentença, que condenou o embargante ao pagamento da verba honorária arbitrada em 10% do valor atualizado da condenação.
+Ora, uma vez transitada em julgado a r. sentença, não se vê a possibilidade da discussão que abre ao Departamento de Estradas de Rodagem de São Paulo, cabendo a ele o cumprimento do pagamento, especialmente porque o fato alegado não é novo.
+A segurança jurídica deve prevalecer.
+ ..
+Cabe destacar, ainda, que, em relação ao princípio da segurança jurídica, não se pode admitir que uma condenação transitada em julgado seja, por meio de embargos à execução, desconstituída, uma vez que a falta de cautela processual com a omissão dos recursos cabíveis para recorrer da condenação em honorários é agora evidenciada e não pode ser suprida por embargos à execução, cujo alcance é evidentemente restrito e não pode desconstituir o título na hipótese (e-STJ fl. 82/83). (grifos acrescidos)
+Vê-se, portanto, que, em relação ao art. 381 do Código Civil, o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Ressalte-se que, conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente, o que não ocorreu no caso dos autos.
+Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Frise-se, por oportuno, que a recorrente sequer opôs embargos de declaração a fim de sanar eventual vício do acórdão objurgado, o que atrai a incidência da Súmula 356 do STF.
+Ademais, quanto à coisa julgada, não houve a particularização de qualquer dispositivo de lei federal eventualmente violado, não podendo o apelo ser conhecido. Incide, nesse aspecto, a Súmula 284 do STF.
+Por fim, mostra-se também inviável a apreciação de recurso especial fundado em divergência jurisprudencial (alínea "c" do permissivo constitucional) quando o recorrente não demonstra o alegado dissídio por meio: a) da juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade dessas; b) da citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado e c) do cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, com a exposição das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a transcrição das ementas dos julgados em comparação. Nesse sentido: AgRg no REsp 1.558.877/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 05/02/2016; AgRg no AREsp 752.892/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 04/11/2015.
+No presente caso, a parte recorrente não juntou o inteiro teor dos julgados paradigmáticos, deixou de realizar o cotejo analítico e não citou repositório oficial, não atendendo, portanto, aos pressupostos específicos à configuração do dissenso jurisprudencial, preconizados pelos arts. 541, parágrafo único, do Código de Processo Civil, e 255, §§ 1º e 2º, do RISTJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
