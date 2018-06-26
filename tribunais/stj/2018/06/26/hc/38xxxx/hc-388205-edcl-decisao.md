@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos à decisão monocrática de minha lavra que concedeu a ordem a fim de reduzir as reprimendas aplicadas e, em consequência, declarar, em razão da prescrição, extinta a punibilidade em relação à embargante, Processo n. 0033997-28.2009.8.19.0042.
+Em suas razões, sustenta a embargante que o pedido para que o crime de falso se exaurisse no de estelionato, nos moldes do enunciado n. 17 da Súmula desta Casa, não foi apreciado na decisão monocrática questionada. Além disso, aponta omissão relativamente ao pleito de exclusão da agravante prevista no art. 61, inciso II, alínea b, do Código Penal, bem como da causa especial de aumento descrita no art. 299, parágrafo único, do Código Penal.
+É, em síntese, o relatório.
+Os embargos de declaração, nos termos do artigo 619 do Código de Processo Penal, supõem defeitos na mensagem do julgado, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente, que não se fazem presentes no caso em análise. Essa é a vocação legal do recurso, sempre enfatizada nos precedentes desta Corte, como se percebe no aresto a seguir:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO.  ..  ART. 619 DO CPP. AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos de declaração são cabíveis nas hipóteses de haver ambigüidade, obscuridade, contradição e/ou omissão no acórdão prolatado (artigo 619 do Código de Processo Penal).
+2. No caso, percebe-se claramente a oposição do recurso tão somente para rediscutir o mérito do que fora decidido. Sob o pretexto da alegação de omissão ou inexatidão, pretende o embargante apenas renovar a discussão com os mesmos argumentos com os quais a Corte Especial do Superior Tribunal de Justiça não concordou.  ..
+5. As Cortes Superiores já pacificaram que os efeitos infringentes nos embargos de declaração dependem da premissa de que haja algum dos vícios a serem sanados (omissão, contradição ou obscuridade) e, por decorrência, a conclusão deve se dar no sentido oposto ao que inicialmente proferido. Precedentes.
+6. Não há vício de embargabilidade quando o aresto recorrido decide integralmente a controvérsia, de maneira sólida e fundamentada.
+7. Embargos de declaração rejeitados.
+(EDcl na APn 613/SP, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, DJe 03/02/2016)
+As conclusões constantes da decisão embargada não encerram nenhum dos vícios acima mencionados. Reparem que, na espécie, a defesa buscou a concessão da ordem para reduzir a pena da acusada ao "mínimo legal estabelecido em cada um dos artigos a que foi condenada, ou ao menos mantida a apenação a que foi condenada nos termos da r. sentença monocrática, com a declaração, por via de consequência, da prescrição da pretensão punitiva estatal" (e-STJ fl. 22).
+Sendo assim, verifico que os pedidos formulados na inicial foram acolhidos, buscando a defesa, na realidade, a discussão de matérias não suscitadas e prejudicadas diante da extinção da punibilidade da acusada, providências incabível em embargos declaratórios, notadamente diante da ausência de ambiguidade, obscuridade, contradição ou omissão na decisão.
+Tal o contexto, ausente o vício imputado à decisão combatida, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
