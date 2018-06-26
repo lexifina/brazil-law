@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por [NOME], em 25/11/2016, com base na alínea a do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Mato Grosso, assim ementado:
+"APELAÇÃO/REMESSA NECESSÁRIA - OBRIGAÇÃO DE FAZER - ASSISTÊNCIA À SAÚDE - PESSOA HIPOSSUFICIENTE OBRIGAÇÃO SOLIDÁRIA DOS ENTES PÚBLICOS.
+DEFENSORIA PÚBLICA - EMENDA CONSTITUCIONAL Nº 80, DE 4 DE JUNHO DE 2014 - AUTONOMIA FUNCIONAL, ADMINISTRATIVA E FINANCEIRA (ORÇAMENTÁRIA) - HONORÁRIOS ADVOCATÍCIOS - PAGAMENTO PELO MUNICÍPIO INADMISSIBILIDADE.
+A obrigação de prestar assistência à saúde à pessoa comprovadamente hipossuficiente, entre os entes públicos, é solidária.
+A Emenda Constitucional nº 80, de 4 de junho de 2014, conferiu iguais prerrogativas do Ministério Público, autonomia funcional, administrativa e financeira (orçamentária), à Defensoria Pública, logo, com fundamento na Constituição da República Federativa do Brasil, entende esta Câmara não mais ser possível a condenação de Município ao pagamento de honorários advocatícios em seu favor, caso contrário aquele também teria o direito de recebê-los, nas pretensões de natureza civil.
+Recurso provido em parte. Sentença ratificada nos seus demais termos" (fls. 237/238e).
+Alega-se, nas razões do Recurso Especial, que houve ofensa aos artigos 20, § 4º do CPC/73, 85, § 8º, CPC/15, 23 da Lei 8.906/1994 e 4º, XXI da Lei Complementar 132/2009, pois, "de acordo com o principio da causalidade, restando inequívoca a responsabilidade do Recorrido/Município pelo ajuizamento da ação, conclui-se, assim, pelo dever de responder pelo ônus sucumbencial" (fl. 273e).
+Defende que "o Superior Tribunal de Justiça pacificou seu entendimento da questão por meio do acórdão paradigma apresentado - REsp 1108013/RJ -, no sentido de que é plenamente possível o pagamento dos honorários sucumbenciais à Defensoria Pública, desde que não se trate do ente federativo ao qual está vinculada" (fl. 280e).
+Requer, ao final, o provimento do Recurso Especial, "ensejando a reforma/anulação da decisão colegiada do Egrégio Tribunal de Justiça do Estado de Mato Grosso" (fl. 281e).
+Sem contrarrazões, foi o Recurso Especial foi admitido pelo Tribunal de origem.
+A irresignação não merece prosperar.
+Na origem, trata-se de Ação de Obrigação de Fazer ajuizada pela parte ora recorrida, objetivando o fornecimento de medicamento.
+Julgada procedente a demanda, recorreu o réu, tendo sido reformada a sentença, em parte, apenas para excluir a condenação do Município ao pagamento de honorários advocatícios.
+Daí a interposição do presente Recurso Especial.
+Acerca da controvérsia, manifestou-se o Tribunal de origem:
+"No que diz respeito aos honorários advocatícios, esclareço que a Câmara não desconhece a jurisprudência do Superior Tribunal de Justiça em relação ao seu cabimento, quando a atuação da Defensoria Pública do Estado não se dá contra a pessoa jurídica de direito público da qual é parte integrante.
+Nada obstante, com a entrada em vigor da Emenda Constitucional nº 80, de 4 de junho de 2014, o recebimento de honorários advocatícios pela Defensoria Pública não é juridicamente admissível.
+(..)
+Da redação do § 4º, salvo as peculiaridades de cada um, à Defensoria Pública foram conferidas as prerrogativas do Ministério Público, como exaustivamente demonstrou o [NOME], em sustentação oral no Supremo Tribunal Federal, no julgamento da Ação Direta de Inconstitucionalidade ADI 3943, que considerou constitucional a atribuição da Defensoria Pública em propor ação civil pública. Antes da Emenda Constitucional nº 80, de 4 de junho de 2014, a Defensoria Pública estava no mesmo patamar da Advocacia; logo, perfeitamente aplicável o disposto no artigo 23 da Lei nº 8.906, de 4 de julho de 1994, com a ressalva de que os honorários se destinavam ao órgão e não ao Defensor Público.
+Na ação direta de inconstitucionalidade nº 3643/RJ, o Ministro Ricardo Lewandowski, antes da Emenda Constitucional nº 80, de 4 de junho de 2014, já ponderava:
+(..)
+A partir da referida Emenda, é a Defensoria Pública a responsável pela elaboração da sua proposta orçamentária, com a inclusão das verbas necessárias, inclusive para atender às despesas que, anteriormente, alega-se, eram supridas com os valores recebidos. Para atender ao seu orçamento, é óbvio que os outros entes estatais sofreram redução, logo é incompreensivo que sejam obrigados ao pagamento de honorários ao Órgão que elaborou a sua própria proposta orçamentária, em consonância com as suas necessidades" (fls. 243/199e).
+Nesse contexto, verifico que, além de os artigos 20, § 4º do CPC/73, 85, § 8º, e 4º, XXI da Lei Complementar 132/2009 não terem sido prequestionados, o Tribunal de origem decidiu a causa com base em fundamento exclusivamente constitucional (art. 134 da Constituição Federal, com a redação dada pela Emenda Constitucional 80/2014), de modo que é inviável o exame da matéria em Recurso Especial. Nesse sentido: STJ, AgInt no AREsp 893.991/MT, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 17/06/2016; AgRg no REsp 1.578.745/MT, Rel. Ministra DIVA MALERBI (Desembargadora convocada do TRF 3ª Região) SEGUNDA TURMA, DJe de 19/04/2016.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
