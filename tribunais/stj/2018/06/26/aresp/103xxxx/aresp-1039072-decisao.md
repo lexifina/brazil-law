@@ -1,0 +1,46 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. TÍTULO DE CRÉDITO. PROTESTO INDEVIDO. DANO MORAL. VIOLAÇÃO DA BOA-FÉ OBJETIVA. REEXAME DE PROVA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão do Tribunal de Justiça de São Paulo que não admitiu o recurso especial apresentado por Editora Diário Correio de Marília Ltda., com base no art. 105, III, a, da CF, desafiando acórdão assim ementado (e-STJ, fl. 217):
+TÍTULO DE CRÉDITO - EXIGIBILIDADADE - Pretensão da autora de que seja declarada a inexigibilidade do título e de que seja cancelado o protesto - Cabimento - Hipótese em que o pagamento feito ao credor putativo é válido (CC, artigo 309) - RECURSO PROVIDO NESTA PARTE.
+RESPONSABILIDADE CIVIL - DANO MORAL - Pretensão da autora de que sejam as rés condenadas ao pagamento de indenização por danos morais em razão do protesto indevido - Cabimento parcial - Hipótese em que houve ato ilícito, consistente no abuso de direito (CC, artigo 187), decorrente da violação da boa-fé objetiva - Dano moral que decorreu do protesto indevido da duplicata - Culpa exclusiva de terceiro a afastar a responsabilidade da corré que levou o título a protesto - Indenização fixada em R$10.000,00, patamar consentâneo com aquele adotado em outros casos análogos, já julgados por esta Colenda 13a Câmara - RECURSO PARCIALMENTE PROVIDO NESTA PARTE.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 238-240).
+Nas razões do recurso especial (e-STJ, fls. 243-250), a recorrente apontou violação dos arts. 186, 334 e 345 do Código Civil de 2002.
+Sustentou, em síntese, que a responsabilidade pelo protesto indevido é de outra empresa e que não há como atribuir interpretação extensiva aos mencionados dispositivos, responsabilizando terceiros não participantes da ação danosa.
+Não foram apresentadas contrarrazões (e-STJ, fl. 257).
+O Tribunal de origem não admitiu o processamento do recurso especial em virtude da ausência de demonstração de violação dos dispositivos apontados e da incidência da Súmula n. 7 desta Corte (e-STJ, fls. 258-259).
+Brevemente relatado, decido.
+No caso dos autos, o Tribunal de origem, com base nas provas documentais já apresentadas nos autos, julgou o recurso de apelação nos seguintes termos (e-STJ, fls. 760-764):
+(..)
+Trata-se de ação com pedido de declaração de inexigibilidade da duplicata emitida pela corré Sinergia Editora, Comunicação e Feeling Ltda. cumulado com pedido de indenização por dano moral, em decorrência 110 de protesto indevido do título.
+A autora pagou o valor inscrito na duplicata diretamente à segunda corré, Editora Diário Correio de Marília Ltda. - EPP, segundo instruções que recebera desta (fls. 18), o que está demonstrado às fls.
+17.
+Dessa forma, adimplida sua obrigação no contrato de prestação de serviço, sustenta a requerente que não poderia a Sinergia Editora ter protestado o título.
+Com efeito, constou da fundamentação da respeitável sentença de improcedência:
+"Nessa perspectiva, relevante observar que o documento de fls. 18 está assim redigido:
+"Em virtude de mudança de direção da empresa, estamos enviando nova nota fiscal e boleto em nome de Editora Diário Correio de Marina Ltda EPP, para pagamento no banco. Favor devolver nota fiscal e boletos emitidos pela empresa Sinergia Editora Comunicação e Feeling Ltda. Caso já tenha pago o boleto antigo, favor desconsiderar este comunicado e devolver boleto e nota fiscal em anexo".
+Aludido documento consiste em correspondência enviada pela corré EDITORA DIÁRIO CORREIO DE MARÍLIA à autora, à vista do qual a demandante, em vez de pagar os boletos antigos, emitidos pela corré SINERGIA (fls. 74 o 22) e referentes à nota fiscal copiada a fls. 21, efetuou o pagamento do boleto exibido a fls. 17, relativo à nota fiscal juntada a fls. 20.
+Em outras palavras, a autora fiou-se no que dizia a correspondência acima transcrita e pagou o boleto em favor de pessoa jurídica que não era a primitiva credora.
+Tanto é verdade que a corré SINERGIA era a efetiva e primitiva credora que na correspondência já citada existe a observação de que, caso já tivesse havido o pagamento do boleto antigo isto é, em favor de SINERGIA , o cliente deveria desconsiderar aquele comunicado" (fls. 131-132).
+De fato, não resta dúvida de que a requerente contratou os serviços com a corré Sinergia, o que inclusive foi expressamente mencionado por ela na petição inicial ("Em 06/12/2012 realizou com o primeiro demandado negociação de serviço de propaganda"; fls. 3).
+Apesar disso, fica evidente nos autos a conduta desleal da Editora Diário Correio de Marilia Ltda EPP, que induziu a autora ao pagamento equivocado.
+Também não há dúvida de que por algum tempo mantiveram as corrés íntima relação negocial.
+Segundo afirma a Sinergia Editora, ela intermediaria contratos de publicidade para a Editora Diário Correio de Marília. E diversas provas trazidas aos autos demonstram essa relação entre as empresas: uso da mesma logomarca (fls. 18 e 21); o conteúdo do comunicado de fls. 18; o endereço de correio eletrônico compartilhado pelas rés (fls. 18 e 21); e o desentendimento, inclusive judicial, entre elas.
+(..)
+Vislumbra-se, no caso, abuso do direito pela empresa que deu causa à celeuma, em razão de violação da boa-fé objetiva.
+(..)
+Com relação ao dano moral, é entendimento pacífico do Colendo Superior Tribunal Justiça que, "nos casos de protesto indevido de título ou inscrição irregular em cadastros de inadimplentes, o dano moral configura-se "in re ipsa", prescindindo de prova, ainda que a prejudicada seja pessoa jurídica" (AgRg no REsp 860.704/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, j. em 12.04.11, grifos nossos).
+Em casos como o ora em exame, entende-se que o dano moral independe de "prova objetiva do abalo à honra e à reputação sofrida pelos autores, que se permite, na hipótese, facilmente presumir, gerando direito a ressarcimento" (REsp. 110.091/MG, Rel. Min. Aldir PASSARINHO JÚNIOR, DJ 28.08.00; REsp. 196.824, Rel. Min. CÉSAR ASFOR ROCHA, DJ 02.08.99; REsp. 323.356/SC, Rel. Min. ANTÔNIO DE PÁDUA RIBEIRO, DJ g 11.06.2002).
+Entretanto, a responsabilidade civil de reparar o dano moral deve recair exclusivamente sobre a corré Editora Correio Diário de Marília, pois, apesar de não ter realizado o protesto, a ele deu causa ao confundir a devedora. (Sem grifo no original).
+Dessa forma, rever a conclusão do aresto impugnado e acolher a tese recursal só seria possível mediante o reexame dos fatos e das provas colacionados ao respectivo processo, o que é vedado no âmbito do recurso especial ante o disposto na Súmula n. 7/STJ.
+A propósito:
+DIREITO DO CONSUMIDOR. RECURSO ESPECIAL. VÍCIO DO PRODUTO. AUTOMÓVEIS SEMINOVOS. PUBLICIDADE QUE GARANTIA A QUALIDADE DO PRODUTO. RESPONSABILIDADE OBJETIVA. USO DA MARCA. LEGÍTIMA EXPECTATIVA DO CONSUMIDOR. MATÉRIA FÁTICO-PROBATÓRIA. SÚM. 7/STJ.
+1. O Código do Consumidor é norteado principalmente pelo reconhecimento da vulnerabilidade do consumidor e pela necessidade de que o Estado atue no mercado para minimizar essa hipossuficiência, garantindo, assim, a igualdade material entre as partes. Sendo assim, no tocante à oferta, estabelece serem direitos básicos do consumidor o de ter a informação adequada e clara sobre os diferentes produtos e serviços (CDC, art. 6º, III) e o de receber proteção contra a publicidade enganosa ou abusiva (CDC, art. 6º, IV).
+2. É bem verdade que, paralelamente ao dever de informação, se tem a faculdade do fornecedor de anunciar seu produto ou serviço, sendo certo que, se o fizer, a publicidade deve refletir fielmente a realidade anunciada, em observância à principiologia do CDC.
+Realmente, o princípio da vinculação da oferta reflete a imposição da transparência e da boa-fé nos métodos comerciais, na publicidade e nos contratos, de forma que esta exsurge como princípio máximo orientador, nos termos do art. 30.
+3. Na hipótese, inequívoco o caráter vinculativo da oferta, integrando o contrato, de modo que o fornecedor de produtos ou serviços se responsabiliza também pelas expectativas que a publicidade venha a despertar no consumidor, mormente quando veicula informação de produto ou serviço com a chancela de determinada marca, sendo a materialização do princípio da boa-fé objetiva, exigindo do anunciante os deveres anexos de lealdade, confiança, cooperação, proteção e informação, sob pena de responsabilidade.
+4. A responsabilidade civil da fabricante decorre, no caso concreto, de pelo menos duas circunstâncias: a) da premissa fática incontornável adotada pelo acórdão de que os mencionados produtos e serviços ofertados eram avalizados pela montadora através da mensagem publicitária veiculada; b) e também, de um modo geral, da percepção de benefícios econômicos com as práticas comerciais da concessionária, sobretudo ao permitir a utilização consentida de sua marca na oferta de veículos usados e revisados com a excelência da GM.
+5. Recurso especial não provido.
+(REsp n. 1.365.609/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28/4/2015, DJe 25/5/2015).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
