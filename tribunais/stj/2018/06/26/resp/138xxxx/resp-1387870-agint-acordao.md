@@ -1,0 +1,36 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. EQUIPARAÇÃO SALARIAL DOS PROVENTOS DE SERVIDOR APOSENTADO NO EXTINTO IBC COM OS VENCIMENTOS DOS SERVIDORES EM ATIVIDADE QUE TIVERAM OS CARGOS TRANSFORMADOS EM FISCAL FEDERAL AGROPECUÁRIO. PRESCRIÇÃO QUINQUENAL. INCIDÊNCIA DA SÚMULA 85 DO STJ. AGRAVO INTERNO DA UNIÃO A QUE SE NEGA PROVIMENTO.
+1. O STJ firmou entendimento de que, nas ações em que servidores públicos aposentados pretendem obter a equiparação de seus proventos com os vencimentos dos servidores da ativa, não se opera a prescrição do fundo de direito. A prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação; incidência da Sumula 85 do STJ.
+2. Agravo Interno da União a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Interno no Recurso Especial interposto pela UNIÃO, em face de decisão que negou seguimento ao seu Recurso Especial, nos termos da seguinte ementa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. EQUIPARAÇÃO SALARIAL DOS PROVENTOS DE SERVIDOR APOSENTADO NO EXTINTO IBC COM OS VENCIMENTOS DOS SERVIDORES EM ATIVIDADE QUE TIVERAM OS CARGOS TRANSFORMADOS EM FISCAL FEDERAL AGROPECUÁRIO. VIOLAÇÃO DO ART. 535 NÃO CARACTERIZADO. PRESCRIÇÃO QUINQUENAL. SÚMULA 85/STJ. O ACÓRDÃO RECORRIDO DECIDIU PELA EQUIPARAÇÃO VENCIMENTAL ALICERÇADO EM FUNDAMENTO CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE POR ESTA CORTE. HONORÁRIO ADVOCATÍCIOS FIXADOS EM VALOR RAZOÁVEL. IMPOSSIBILIDADE DE REVISÃO. RECURSO ESPECIAL DA UNIÃO A QUE SE NEGA SEGUIMENTO.
+2. Nas razões do Agravo Interno, a parte recorrente alega que:
+..não se trata de mero acerto de contas com a Administração, pautado em conduta omissiva de não-pagamento. Cuida-se, sim, de pedido de alteração da situação funcional dos servidores perante a Administração, em decorrência de um ato comissivo do Estado: a edição de lei (ato de efeitos concretos), que determinou o aproveitamento dos servidores ativos então em disponibilidade nos órgãos que absorveram as competências das entidades extintas (caso do IBC) (fls. 684).
+3. Requer, ao final, a reconsideração da decisão ora atacada ou a apresentação do feito à Turma Julgadora para que seja conhecido e provido o Recurso Especial.
+4. É o relatório do essencial.
+VOTO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. EQUIPARAÇÃO SALARIAL DOS PROVENTOS DE SERVIDOR APOSENTADO NO EXTINTO IBC COM OS VENCIMENTOS DOS SERVIDORES EM ATIVIDADE QUE TIVERAM OS CARGOS TRANSFORMADOS EM FISCAL FEDERAL AGROPECUÁRIO. PRESCRIÇÃO QUINQUENAL. INCIDÊNCIA DA SÚMULA 85 DO STJ. AGRAVO INTERNO DA UNIÃO A QUE SE NEGA PROVIMENTO.
+1. O STJ firmou entendimento de que, nas ações em que servidores públicos aposentados pretendem obter a equiparação de seus proventos com os vencimentos dos servidores da ativa, não se opera a prescrição do fundo de direito. A prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação; incidência da Sumula 85 do STJ.
+2. Agravo Interno da União a que se nega provimento.
+1. A despeito das bem lançadas razões da parte Agravante, a decisão agravada deve ser mantida.
+2. No que diz respeito à prescrição, o acórdão recorrido, confirmando a Sentença, entendeu pela aplicação do prazo quinquenal, decidindo em conformidade com o entendimento desta Corte Superior de que nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, não ocorre a prescrição do fundo de direito, mas tão somente das parcelas anteriores ao quinquênio que precedeu à propositura da ação, nos termos da Súmula 85 do STJ.
+3. No presente caso, o Servidor ora recorrido busca a equiparação dos seus proventos com a remuneração dos servidores em atividade, não ocorrendo, desse modo, a prescrição do fundo de direito.
+4. Nesse sentido, os seguintes precedentes:
+ADMINISTRATIVO. IBAMA. PARIDADE DE TRATAMENTO A ATIVOS E INATIVOS. PRESCRIÇÃO DE FUNDO DE DIREITO. NÃO CONFIGURAÇÃO. SÚMULA 85/STJ. PRECEDENTES.
+1. O STJ consolidou o entendimento de que, nas ações em que servidores públicos aposentados pretendem obter a equiparação de seus proventos com os vencimentos dos servidores da ativa, não se opera a prescrição do fundo de direito. A prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação. (Sumula 85/STJ).
+2. Agravo Regimental não provido (AgRg no REsp. 1.472.858/SC, Rel. Min. HERMAN BENJAMIN, DJe 9.12.2014).
+
+PROCESSUAL. ADMINISTRATIVO. VIOLAÇÃO DOS ARTS. 458 E 535 DO CPC. INOCORRÊNCIA. EQUIPARAÇÃO DE VENCIMENTOS ENTRE ATIVOS E INATIVOS. PRESCRIÇÃO DE TRATO SUCESSIVO.
+1. A Corte de origem apreciou todas as questões relevantes ao deslinde da controvérsia de modo integral e adequado, apenas não adotando a tese vertida pelo agravante. Os fundamentos do aresto a quo são cristalinos. Inexistem, portanto, omissões, contradições, obscuridades ou ausência de motivação a sanar.
+2. Incide a Súmula 85/STJ em demanda por meio da qual servidores públicos aposentados perseguem a equiparação de seus proventos com os vencimentos dos servidores da ativa, de sorte que a prescrição não atinge o fundo de direito, mas apenas as parcelas vencidas além dos 5 (cinco) anos que antecederam o ajuizamento da ação. Precedentes.
+3. Em se tratando de ato omissivo continuado, envolvendo obrigações de trato sucessivo, o prazo para impetração de mandado de segurança se renova a cada período de vencimento da obrigação (mês a mês). Portanto, não há falar em decadência para o ajuizamento da ação mandamental. Precedentes.
+4. Agravo regimental não provido (AgRg no REsp 1.374.492/CE, Rel. Min. CASTRO MEIRA, DJe 21.6.2013).
+
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO APOSENTADO. EQUIPARAÇÃO SALARIAL. PARIDADE ENTRE ATIVOS E INATIVOS. PRESCRIÇÃO. SÚMULA 85/STJ.
+1. A jurisprudência desta Corte firmou-se no sentido de que nas ações em que servidores públicos aposentados pretendem obter a equiparação de seus proventos com os vencimentos dos servidores da ativa não se opera a prescrição do fundo de direito, mas das parcelas vencidas anteriormente ao qüinqüênio que antecedeu a propositura da demanda, nos termos da Súmula 85/STJ. Precedentes: AgRg no REsp 707.263/PE, Rel. Ministro Hamilton Carvalhido, Sexta Turma, DJ 10/4/2006; AgRg no REsp 711.689/RS, Rel. Ministra Jane Silva (Desembargadora convocada do TJ/MG), Sexta Turma, DJe 13/10/2008; AgRg no REsp 1.227.901/PR, Rel. Ministro Castro Meira, Segunda Turma, DJe 13/9/2011.
+2. Agravo regimental não provido. (AgRg no AREsp 193.195/DF, Rel. Min. BENEDITO GONÇALVES, DJe 11.3.2013).
+5. Diante do exposto, nega-se provimento ao Agravo Interno interposto pela UNIÃO.
+6. É como voto.
