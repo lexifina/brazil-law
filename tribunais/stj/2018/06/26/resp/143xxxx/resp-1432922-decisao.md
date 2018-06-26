@@ -1,0 +1,52 @@
+EMENTA
+RECURSO ESPECIAL. CONTRATO DE CORRETAGEM. PROPOSTA DE COMPRA E VENDA. INTERMEDIAÇÃO PARA REALIZAÇÃO DO NEGÓCIO COMPROVADA. IMPOSSIBILIDADE DE ANÁLISE DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PRECEDENTES.
+1. Nos termos da Jurisprudência do STJ, somente com a análise da situação concreta poderá o julgador concluir pelo cabimento, ou não, da comissão de corretagem, observando os contornos fáticos e as provas produzidas na instrução processual.
+2. Recurso especial não provido.
+DECISÃO
+1. Cuida-se de recurso especial interposto por TECNOCONSULT ENGENHARIA LTDA, com fundamento no art. 105, III, a e c, da Constituição da República, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE, assim ementado (fl. 223):
+APELAÇÃO CÍVEL - AÇÃO SUMÁRIA DE COBRANÇA - CONTRATO DE CORRETAGEM - PROPOSTA DE COMPRA E VENDA - INTERMEDIAÇÃO PARA REALIZAÇÃO DO NEGÓCIO COMPROVADA- NEGÓCIO JURÍDICO CONCRETIZADO - INADIMPLEMENTO PELO PROMITENTE- VENDEDOR APÓS A EFETIVAÇÃO DA AVENÇA - PROPOSTA DESFEITA- COMISSÃO DEVIDA PELO NEGÓCIO REALIZADO- REFORMA DA SENTENÇA- DECISÃO UNÂNIME. O corretor terá direito à comissão de corretagem, se aproximou as partes e elas acordaram no negócio, mesmo que posteriormente se modifiquem as condições ou o negócio venha a ser rescindido ou desfeito.
+Opostos embargos de declaração, foram parcialmente providos, no que disse respeito aos honorários advocatícios (fls. 245-252).
+Em suas razões recursais, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 3º e 267, VI do CPC/1973 e art. 725 do CC.
+Sustenta, em síntese, que o negócio não se concretizou em razão de gravames registrados sobre o imóvel, que impediam a livre comercialização desse bem (fl. 257). Concluiu que não há se falar em remuneração do corretor quando o negócio jurídico não se concretiza por impedimentos atinentes a gravames do imóvel.
+Alega sua ilegitimidade passiva, ao argumento de não ter contratado os serviços de corretagem do recorrido, devendo ser extinto o feito, por esta razão, sem solução de mérito.
+Contrarrazões ao recurso especial às fls. 327-333.
+Crivo positivo de admissibilidade na origem (fls. 340-342).
+É o relatório.
+DECIDO.
+2. O Tribunal local, amparado no acervo fático-probatório dos autos, entendeu que não seria devida a comissão de corretagem, assim consignando:
+A insurgência recursal cinge-se em saber se o Apelante/autor tem direito à comissão de corretagem pelos serviços prestados quando da intermediação da proposta de compra e venda por permuta de um imóvel descrito na peça inicial, e feita entre os requeridos/apelados, mesmo havendo um deles rescindido o negócio jurídico após a concretização da avença.
+Infere-se dos autos que foi celebrado um contrato de promessa de compra e venda entre os apelados [NOME] e TECNOCONSULT ENGENHARIA LTDA, conforme documento de fls.13/15, assinado em 24/04/2009.
+É fato incontroverso também nos autos, que o recorrente participou da realização do negócio como corretor, tendo, inclusive, assinado o documento juntamente com os contratantes (fls.15), bem como participado das negociações (fls.21); que o empreendimento imobiliário foi lançado (fls. 22/27), todavia, a avença fora desfeita em 28/06/2009 (fls.66), em razão da não liberação por uma das partes contratantes, in casu, o promitente comprador Sr. [NOME], de alguns ônus reais os quais recaíam no imóvel objeto do negócio.
+(..)
+Ademais, a jurisprudência do STJ é firme no sentido de que o contrato de corretagem caracteriza-se como de resultado útil, sendo imprescindível, portanto, a concretização do negócio para seu aperfeiçoamento. Vale dizer: a prestação do serviço pelo corretor pode consistir apenas na aproximação das partes interessadas, mas o contrato só se aperfeiçoa e é devida a comissão, se o negócio for efetivado.
+No caso dos autos, verifica-se que o autor/apelante não somente agenciou o negócio - fato incontroverso, repita-se -, como também participou de sua concretização, o que se deu com a assinatura da proposta de compra e venda (fls.15, 65 e 87). Este, aliás, é o momento da efetivação do negócio gerador do direito à percepção da comissão pelo corretor, salvo disposição em contrário expressa no contrato de corretagem, ou mesmo no instrumento intermediado, circunstância que, ao que consta, não ocorreu.
+(..)
+Na discussão posta em julgamento, verifico que houve o resultado quanto ao trabalho de aproximação dos contratantes, ora apelados, pois o negócio foi fechado.
+Ademais, o desfazimento do negócio por culpa exclusiva do promitente vendedor do imóvel (Sr. [NOME]) que não adimpliu com algum ônus que lhe competia, como efetuar a retirada dos gravames reais que incidiam sobre o imóvel, é fato jurídico que não pode ser debitado ao mediador da venda.
+A quebra da relação contratual ocorreu entre o requerido/apelado [NOME] e o outro requerido/apelado a construtora TECNOCONSULT ENGENHARIA (fls. 88), sem qualquer participação do ora apelante, o qual prestou o serviço de intermediação de forma eficiente, aproximando os pólos da relação e ocasionando, por fim, a formalização da proposta de compra e venda do imóvel.
+Diante disso, não resta dúvida de que o apelante executou as tarefas concernentes à prestação do serviço de corretagem, agenciando o negócio que culminou na celebração da proposta de compra e venda, fazendo jus, portanto, à percepção da respectiva comissão.
+Desse modo, observa-se que a revisão do julgado, como pretendido pela parte recorrente, a fim de reconhecer o seu direito à corretagem, necessitaria do revolvimento de matéria de prova dos autos, o que é vedado em recurso especial, nos termos da Súmula 7/STJ, que impede o conhecimento do recurso por ambas as alíneas do dispositivo constitucional.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE CORRETAGEM. PRETENSÃO DE PAGAMENTO DE COMISSÃO. AUSÊNCIA DE DEMONSTRAÇÃO DE QUE A VENDA POSTERIOR DOS IMÓVEIS DECORREU DE SERVIÇO DE INTERMEDIAÇÃO PRESTADO PELA CORRETORA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. ADEQUAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp 981.420/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 07/03/2017, DJe 23/03/2017)
+RECURSO ESPECIAL. DIREITO CIVIL. CONTRATO DE CORRETAGEM. CELEBRAÇÃO DE NEGÓCIO JURÍDICO PRECÁRIO. RESULTADO ÚTIL. INEXISTÊNCIA. DESFAZIMENTO DO PACTO. POSTERIOR ANÁLISE DE DOCUMENTOS. DESCOBERTA DE AÇÃO DE DESAPROPRIAÇÃO. HIPÓTESE DIVERSA DE ARREPENDIMENTO.
+1. Ação de cobrança ajuizada por corretor de imóveis postulando o pagamento de comissão decorrente da intermediação de compra e venda de imóvel, posteriormente desfeita após a descoberta de ação de desapropriação sobre o bem.
+2. Acórdão recorrido que mantém a sentença de procedência do pedido ao fundamento de que o corretor de imóveis atingiu o resultado previsto no contrato de mediação, aproximando as partes até a celebração do compromisso de compra e venda, ulteriormente desfeito por fato alheio à vontade dos contratantes.
+3. Segundo o art. 725 do CC/2002, é devida a remuneração ao corretor na hipótese em que tenha conseguido o resultado previsto no contrato de mediação, mesmo que este não se concretize em virtude de arrependimento das partes.
+4. De acordo com a jurisprudência desta Corte, o direito à comissão depende da efetiva aproximação entre as partes contratantes, fruto do esforço do corretor, criando um vínculo negocial irretratável.
+5. Somente com a análise da situação concreta poderá o julgador concluir pelo cabimento, ou não, da comissão de corretagem, observando os contornos fáticos e as provas produzidas na instrução processual.
+6. Não cabe o pagamento de comissão de corretagem quando, apesar da celebração de compromisso de compra e venda, a negociação se revele precária e incompleta em relação à análise dos documentos concernentes ao imóvel e ao vendedor, subordinando o pagamento do sinal à higidez das certidões cartorárias.
+7. Recurso especial provido.
+(REsp 1272932/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 26/09/2017, DJe 02/10/2017)
+CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AÇÃO DE COBRANÇA DE HONORÁRIOS PROFISSIONAIS (COMISSÃO DE CORRETAGEM). INTERMEDIAÇÃO NA COMPRA E VENDA DE IMÓVEL RESIDENCIAL NÃO COMPROVADA. RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Inaplicabilidade do NCPC a este julgamento ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. A desconstituição das premissas fáticas nas quais se apoiou o acórdão recorrido para concluir que não ficou provado o serviço de corretagem alegado pelo autor não é possível, na via do recurso especial, conforme dispõe a Súmula nº 7 do STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 789.167/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 21/06/2016, DJe 29/06/2016)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. COMISSÃO DE CORRETAGEM. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME DE PROVA.
+1. Inviável a análise do recurso especial quando dependente de reexame de cláusulas contratuais e matéria fática da lide (Súmulas 5 e 7 do STJ).
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 775.136/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 03/11/2015, DJe 06/11/2015)
+3. Por fim, em relação à admissibilidade do recurso especial pela alínea "c" do permissivo constitucional, esta Corte de Justiça tem decidido, reiteradamente, que, para a correta demonstração da divergência jurisprudencial, deve haver o cotejo analítico, expondo-se as circunstâncias que identificam ou assemelham os casos confrontados, a fim de demonstrar a similitude fática entre os acórdãos impugnado e paradigma, bem como a existência de soluções jurídicas díspares, nos termos do art. 1.029, parágrafo único, do CPC/2015 e 255, § 2º, do RISTJ. Contudo, na hipótese dos autos, não houve essa demonstração.
+4. Ante o exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
