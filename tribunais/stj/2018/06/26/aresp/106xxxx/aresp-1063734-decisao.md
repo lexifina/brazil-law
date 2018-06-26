@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por JAHU CLUBE contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional, e que desafia acórdão assim ementado (e-STJ fl. 190):
+"Prestação de serviços. Coleta de esgoto. Embargos à execução. Alegada cobrança abusiva do serviço de coleta de esgoto oriundo de fonte própria de abastecimento. Embargos julgados improcedentes.
+Apelação. Renovação dos argumentos iniciais: volume de efluentes lançados na rede municipal menor do que o efetivamente cobrado pelo embargado. Cobrança que se mostra proporcional ao volume captado, já com a redução de 50% acordada administrativamente entre as partes.. Benefício do Decreto nº 5.528/07 a que não faz jus o autor. Inexistente cobrança abusiva. Sentença mantida. Recurso improvido."
+Embargos de declaração rejeitados (e-STJ fls. 201/205).
+No especial obstaculizado, o ora agravante apontou violação dos arts. 131; 319; 326; 334, II; 420, parágrafo único, II; 535, I, do CPC/1973.
+Sustentou que, não obstante seja incontroverso nos autos que o volume de esgotamento de efluentes corresponde a 40% do volume captado, o acórdão recorrido validou a cobrança de tarifa de volume superior (50%), havendo contradição nesse ponto. Alegou, ainda, obscuridade em relação à afirmação de que houve acordo entre as partes.
+Prossegue, afirmando que inexiste nos autos elemento probatório que ampare a cobrança do percentual maior, sendo que a única prova técnica produzida aponta o volume de 40%, o que não foi impugnado pelo agravado (e-STJ fls. 208/219).
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ fls. 230/232), o que desafiou a interposição do presente agravo (e-STJ fls. 235/242).
+Sem contraminuta.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita tal anotação, no que diz respeito aos arts. 131 e 420, parágrafo único, II, 319, 326 e 334, II, todos do CPC/1973, observa-se que o Tribunal de origem não emitiu juízo de valor sobre o disposto nos aludidos artigos, apesar de ter sido provocado via embargos de declaração, circunstância que atrai a aplicação da Súmula 211 do STJ.
+De outro lado, impõe-se afastar a indigitada ofensa ao art. 535 do CPC/1973, visto que o acórdão impugnado apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, não se vislumbrando, na espécie, qualquer contrariedade à norma invocada.
+Ademais, consoante entendimento jurisprudencial pacífico, o órgão julgador não está obrigado a se manifestar sobre todos os argumentos levantados pelas partes para expressar a sua convicção, notadamente quando encontrar motivação suficiente ao deslinde da causa.
+Nesse sentido: AgRg no AREsp 750650 / RJ, Relator Ministro HUMBERTO MARTINS, Órgão Julgador T2 - SEGUNDA TURMA, DJe 30/9/2015 e AgRg no AREsp 493652/RJ, Relator Ministro SÉRGIO KUKINA, Órgão Julgador T1 - PRIMEIRA TURMA, DJe 20/6/2014.
+Na hipótese, o acórdão recorrido está assim fundamentado (e-STJ fls. 191/
+"A discussão versa sobre alegada cobrança excessiva feita pelo réu em relação às tarifas de coleta de esgoto, tendo em vista que o percentual de efluentes lançados pela embargante na rede municipal é menor do que o efetivamente cobrado.
+Data venia, equivocado o entendimento do apelante em relação ao percentual cobrado.
+Ainda que o laudo técnico acostado à inicial (fls. 42/53) tenha concluído que o volume médio anual de lançamento de efluentes pelo autor na rede municipal de esgotos seja do percentual de 40%, o certo é que essa questão é incontroversa nos autos, tanto que as partes firmaram administrativamente acordo para redução das contas em 50% a partir de março de 2008.
+Não há discussão acerca do volume de efluentes (40%). O réu concordou com esse valor e ambas as partes concordaram em reduzir as contas em 50%.
+Ao contrário do que alega o apelante, o réu demonstrou nos autos a redução nas contas a partir da ciência do percentual de efluentes lançados pelo autor, cfr. se verifica a fls. 89/95, desincumbindo-se do ônus que lhe impõe a regra do artigo 333, II, do CPC." (grifos originais)
+No aresto integrativo, explicitou a Corte local que "o acordo a que se referiu o acórdão está demonstrado na efetiva redução das contas em 50%, cfr. comprovou a ré a fls. 85/95" (e-STJ fl. 204).
+Como se vê, o Tribunal a quo reconheceu ser incontroverso o volume de esgotamento de efluentes correspondente a 40% e esclareceu que, conforme foi acordado entre as partes, 50% é o percentual de redução sobre o valor da conta, e não o percentual do volume captado a ser cobrado.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
