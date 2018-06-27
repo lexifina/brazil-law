@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 68, de 14 de junho de 2018
+ASSUNTO CONTRIBUIÇÕES SOCIAIS PREVIDENCIÁRIAS EMENTA REGULARIZAÇÃO DE OBRA DE CONSTRUÇÃO CIVIL Para fins de enquadramento da obra de construção civil, admite-se o fracionamento do projeto, para fins de matrícula e de regularização, quando envolver construção de casas geminadas em terreno cujos proprietários sejam cada um responsável pela execução de sua unidade. Dispositivos Legais: Instrução Normativa RFB nº 971, de 13 de novembro de 2009, art. 24, § 2º, inciso II, art. 345, § 3º, art. 352 e art. 369.
+[arquivo anexo: SC Cosit nº 68-2018.pdf]
