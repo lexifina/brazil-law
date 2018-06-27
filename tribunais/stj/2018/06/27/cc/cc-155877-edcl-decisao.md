@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CPN ALIMENTOS LTDA - EM RECUPERAÇÃO JUDICIAL, contra decisão monocrática proferida por este signatário, acostada às fls. 687/692 e-STJ, que conheceu do presente conflito e, por conseguinte, declarou a competência do r. juízo da 3ª VARA CÍVEL DE SÃO JOÃO DO MERITI/RJ.
+Inconformada, a embargante, em sede de aclaratórios (fls. 697/699, e-STJ), tempestivamente opostos, alega que "(..) esta Colenda Segunda Seção deverá esclarecer quanto ao requerimento formulado para desconstituição de constrição relativa aos bens dos sócios da recuperanda, a fim de que não haja qualquer benefício ao credor da reclamação trabalhista número 010884-30.2016.5.01.0323, em detrimento aos demais credores trabalhistas." Acrescenta, outrossim, que "(..) há omissão a ser esclarecida no que tange à determinação para que o crédito seja devidamente habilitado nos autos da recuperação judicial, devendo ser expedido o competente ofício pela Vara do Trabalho em que tramita a reclamação trabalhista número 0100884-30.2016.5.01.0323."
+Sendo assim, requer o acolhimento dos embargos de declaração. (fls. 697/699)
+Impugnação às fls. 703/704.
+É o relatório.
+Decide-se.
+Os presentes aclaratórios não merecem acolhimento.
+1. Nos estreitos lindes do artigo e artigo 1.022 do NCPC (art. 535 do CPC/1973), o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende a embargante.
+Nesse sentido, cito precedente: EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe 10/11/2015.
+No caso, as razões dos embargos revelam tão somente o intuito de reapreciação da causa e a sua insatisfação com o resultado do julgado, o que não se admite com a objetividade do recurso manejado. Isso porque, consoante asseverado no r. decisum embargado, uma vez iniciada a recuperação judicial, é mister que os atos constritivos aos ativos da sociedade sejam submetidos ao Juízo Recuperacional, sob pena de esvaziamento dos propósitos da recuperação, mesmo após transcorrido o prazo de 180 dias (art. 6º, § 4º, da Lei 11.101/2005).
+Para corroborar essa conclusão foram citados precedentes da Corte acerca da matéria, a saber: AgInt no CC 148.536/GO, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 08/03/2017, DJe 15/03/2017; AgRg no CC 143.802/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 13/04/2016, DJe 19/04/2016; AgRg no CC 141.719/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 27/04/2016, DJe 02/05/2016.
+Diante disso, não havendo notícia de alteração na situação fática, não há razão para modificar a decisão impugnada, bem como por inexistir nenhuma das máculas prevista no art. 1.022 do Código de Processo Civil.
+2. Do exposto, com fundamento no art. 1.022, do NCPC, rejeito os embargos declaratórios.
+Publique-se. Intimem-se. Oficie-se.
