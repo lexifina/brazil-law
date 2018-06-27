@@ -1,0 +1,29 @@
+DECISÃO
+1. Cuida-se de agravo interposto por MARIA DO CARMO SOUZA contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+APELAÇÃO CÍVEL. SEGURO HABITACIONAL.
+AÇÃO ORDINÁRIA DE RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA. EXTINÇÃO DO PROCESSO, SEM RESOLUÇÃO DE MÉRITO, POR ILEGITIMIDADE PASSIVA.
+1. CPC/73. APLICABILIDADE.
+2. PRELIMINARES DE NÃO CONHECIMENTO DO RECURSO DE APELAÇÃO ARGUIDAS EM CONTRARRAZÕES PELA RÉ. IMPUGNAÇÃO ESPECÍFICA E PEDIDO DE NOVA DECISÃO.
+OFENSA AO PRINCÍPIO DA DIALETICIDADE NÃO VERIFICADA. PREPARO. DESNECESSIDADE.
+CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA EM PRIMEIRO GRAU. AUSÊNCIA DE POSTERIOR REVOGAÇÃO. BENEFÍCIO QUE ABRANGE TODOS OS GRAUS DE JURISDIÇÃO.
+ART. 9Q DA LEI 1.060/50. PRELIMINARES AFASTADAS.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto no art. 371 do CPC/2015. Sustenta que o Tribunal de origem não se atentou às provas produzidas nos autos, mas "apenas em uma mera manifestação da COHAPAR". Aduz que "não pode prosperar o entendimento de ilegitimidade passiva da Recorrida, em razão de não haver qualquer prova documental nos autos de que os Recorrentes possuem apólice privada, bem como da legalidade da alteração do ramo do contrato" (fl. 889)
+Decido.
+2. O Tribunal de origem, com amparo nos elementos de prova constantes dos autos, concluiu que os imóveis de propriedade dos autores não estão vinculados às regras inerentes ao Sistema Financeiro de Habitação. Consignou que por se tratar de contratos de ramo privado, teria a COAHPAR efetuado contratação de seguro ofertado pela Companhia Excelsior de Seguros, hipótese que afastaria a responsabilidade civil da seguradora ora recorrida.
+A propósito, vale destacar o seguinte trecho do acórdão recorrido:
+No caso em tela, informou a CEF que não possuía interesse no feito, pois "as apólices do seguro habitacional dos autores não foram firmadas no âmbito do Seguro Habitacional do SFH" (fls. 613).
+Ademais, conforme informações prestadas pela COHAPAR nesta instância (fls. 12/13 -TJ), os contratos celebrados pelos autores foram firmados, inicialmente, através de apólices públicas com a SASSE Seguros. Contudo, posteriormente, os contratos migraram para o ramo privado de responsabilidade da Companhia Excelsior de Seguros.
+Portanto, tendo em vista que, no caso, tratam os autos de apólices privadas que foram firmadas com a Companhia Excelsior de Seguros e que é vedado o retorno de risco originalmente coberto por apólice pública, que tenha sido migrado para apólice privada (artigo 4º, parágrafo único, da Resolução CNSP nº 205/20091), resta patente a ilegitimidade passiva da SUL AMÉRICA COMPANHIA NACIONAL DE SEGUROS GERAIS S/A.
+Nesse contexto, a análise da pretensão recursal de que o contrato foi firmado no âmbito do SFH demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, assim como interpretação das cláusulas contratuais, o que é vedado em sede de recurso especial, nos termos do enunciado das Súmulas 5 e 7 do STJ.
+Nessa linha:
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. VÍCIOS CONSTRUTIVOS. INTERESSE DA CAIXA ECONÔMICA FEDERAL. COMPETÊNCIA DA JUSTIÇA ESTADUAL. REVISÃO. SÚMULA 7 DO STJ. AGENTE FINANCEIRO. LITISCONSÓRCIO PASSIVO NECESSÁRIO. INEXISTÊNCIA. SÚMULAS 5 E 7/STJ. MULTA. ART. 538, PARÁGRAFO ÚNICO, DO CPC/73. MANUTENÇÃO.
+1. O acórdão recorrido alinha-se à jurisprudência desta Corte, pois a Segunda Seção do Superior Tribunal de Justiça, ao julgar os recursos sujeitos aos efeitos do artigo 543-C do CPC (repetitivos), REsp 1.091.363/SC, DJe de 25/05/2009, consolidou o entendimento no sentido de não existir interesse da Caixa Econômica Federal a justificar a formação de litisconsórcio passivo necessário nas causas cujo objeto seja a pretensão resistida à cobertura securitária dos danos oriundos dos vícios de construção do imóvel financiado mediante contrato de mútuo submetido ao Sistema Financeiro da Habitação, quando não afetar o FCVS (Fundo de Compensação de Variações Salariais), sendo, portanto, da Justiça Estadual a competência para processar e julgar o feito.
+2. No caso, o Tribunal de origem consignou que os contratos discutidos na demanda não se encontram vinculados a apólices, garantidas pelo FCVS, o que afasta a competência da Justiça Federal.
+3. A análise da pretensão recursal de que o contrato foi firmado no âmbito do SFH e que há comprometimento do FCVS demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+4. "O agente financeiro somente tem legitimidade passiva ad causam para responder solidariamente com a seguradora, nas ações em que se pleiteia a cobertura por vícios de construção do imóvel, quando também tenha atuado na elaboração do projeto, na execução ou na fiscalização das obras do empreendimento. Precedentes" (AgRg no REsp 1522725/PR, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/02/2016, DJe 22/02/2016).
+5. O acolhimento da pretensão recursal demandaria a constatação da responsabilidade do agente financeiro (COHAPAR) pela execução da obra, o que exigiria a interpretação de cláusulas contratuais e o reexame de provas, providências vedadas em sede de recurso especial (Súmulas 5 e 7/STJ).
+6. A aplicação da multa prevista no art. 538, parágrafo único, do CPC/73 deve ser mantida, quando a irresignação da parte for manifestamente infundada.
+7. Agravo interno a que se nega provimento.
+(AgInt no REsp 1592365/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 07/03/2017, DJe 15/03/2017)
+3. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
