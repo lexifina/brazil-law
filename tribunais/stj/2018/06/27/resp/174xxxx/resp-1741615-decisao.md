@@ -1,0 +1,32 @@
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE COBRANÇA. [NOME]. BASE DE CÁLCULO. SALÁRIO MÍNIMO VIGENTE À ÉPOCA DO EVENTO DANOSO. PRECEDENTES. RECURSO PROVIDO.
+DECISÃO
+Cuida-se de recurso especial interposto por Seguradora Líder do Consórcio do Seguro [NOME] S.A. com fundamento na alínea a do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul (fl. 190, e-STJ), assim ementado:
+Apelação cível. Seguros. [NOME]. Prescrição. Inocorrente. Invalidez permanente oriunda de acidente de trânsito. Sinistro ocorrido antes de 2007. Inaplicabilidade da Lei 11.482/07. Indenização correspondente até 40 salários - mínimos. Tabela relativa aos percentuais indenizatórios para seguro [NOME]. O cálculo da indenização do seguro obrigatório [NOME] deve, em caso de invalidez parcial e permanente, ser paga em proporção à lesão. Inteligência da Súmula 474 do STJ. A indenização do seguro [NOME], em caso de invalidez parcial do beneficiário, será paga de forma proporcional ao grau da invalidez. Apelo do autor provido e apelo da ré não provido.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 215-224).
+Nas razões do especial, a recorrente alega que o acórdão impugnado incorreu em violação do art. 5º, § 1º, da Lei 6.194/1974.
+Sustenta, em síntese, que o cálculo da indenização pleiteada deve ter por base o salário mínimo vigente à época da ocorrência do evento danoso, e não da época da propositura da ação, como decidiu o Tribunal de origem.
+Contrarrazões apresentadas às fls. 240-242 (e-STJ).
+O processamento do apelo nobre foi admitido na origem (e-STJ, fls. 245-248).
+Brevemente relatado, decido.
+Nos termos da jurisprudência desta Corte, a indenização decorrente do Seguro Obrigatório de Danos Pessoais Causados por Veículos Automotores de Vias Terrestres ([NOME]) deve ser apurada com base no valor do salário mínimo vigente na data do evento danoso, atualizado monetariamente até a data do pagamento.
+A propósito:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. [NOME]. MORTE CAUSADA POR VEÍCULO AUTOMOTOR NÃO IDENTIFICADO. ACIDENTE OCORRIDO ANTES DA ENTRADA EM VIGOR DA LEI 8.441/92. LIMITAÇÃO DA INDENIZAÇÃO. POSSIBILIDADE. BASE DE CÁLCULO. SALÁRIO MÍNIMO VIGENTE À ÉPOCA DO SINISTRO ATUALIZADO MONETARIAMENTE. SÚMULA 83/STJ.
+1. O STJ possui jurisprudência no sentido de que, se ocorrido o acidente de trânsito sob a égide da redação original do artigo 7º da Lei 6.194/74, ou seja, antes da entrada em vigor da Lei 8.441/92, revela-se cabida a limitação da indenização securitária obrigatória em 50% (cinquenta por cento) de 40 (quarenta) vezes o valor do maior salário mínimo vigente no País, no caso de morte causada por veículo não identificado, à luz do princípio da irretroatividade das leis.
+2. A indenização do seguro [NOME] deve ser calculada "com base no valor do salário mínimo vigente na data do evento danoso, observada a atualização monetária até o dia do pagamento". Condenação mantida nos moldes em que estabelecida, apenas em razão da vedação da reformatio in pejus.
+3. Inviável o recurso especial se o acórdão recorrido se alinha com o posicionamento sedimentado na jurisprudência do STJ, a teor do que dispõe a Súmula 83 desta Corte Superior.
+4. Agravo regimental a que se nega provimento. (AgRg no AREsp n. 580.645/SP, Relatora a Ministra Maria Isabel Gallotti, DJe de 10/8/2015)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO - [NOME]. INDENIZAÇÃO. BASE DE CÁLCULO. SALÁRIO MÍNIMO VIGENTE À ÉPOCA DO ACIDENTE. ATUALIZAÇÃO MONETÁRIA. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. A indenização decorrente do seguro obrigatório - [NOME] - deve ser apurada com base no valor do salário mínimo vigente na data do evento danoso, atualizada monetariamente até o dia do pagamento. Precedentes.
+2. O Superior Tribunal de Justiça pode rever o valor estabelecido a título de honorários advocatícios pelas instâncias ordinárias nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não ocorre no caso dos autos, em que os honorários foram fixados em 10% (dez por cento) sobre o valor da condenação.
+3. Agravo regimental não provido. (AgRg no AREsp n. 32.814/SP, Relator o Ministro Raul Araújo, DJe de 6/5/2015)
+AGRAVO REGIMENTAL NO AGRAVO NO RECURSO ESPECIAL. CIVIL. SEGURO DE DANOS PESSOAIS CAUSADOS POR VEÍCULOS AUTOMOTORES DE VIAS TERRESTRES ([NOME]). VALOR DA INDENIZAÇÃO. CÁLCULO. SALÁRIO MÍNIMO VIGENTE NA DATA DO EVENTO DANOSO. ATUALIZAÇÃO MONETÁRIA ATÉ O EFETIVO PAGAMENTO.
+1. Este Tribunal Superior consagrou o entendimento de que a fixação da indenização decorrente do seguro obrigatório ([NOME]) deve ser apurada com base no valor do salário mínimo vigente na data do evento danoso, monetariamente atualizado até o efetivo pagamento, e não com base no salário mínimo em vigor na data da liquidação do sinistro.
+2. Agravo regimental não provido. (AgRg no AREsp n. 492.631/SP, Relator o Ministro Ricardo Villas Bôas Cueva, DJe de 17/12/2014)
+AGRAVO REGIMENTAL EM AGRAVO (ARTIGO 544 DO CPC) - DEMANDA POSTULANDO INDENIZAÇÃO SECURITÁRIA OBRIGATÓRIA ([NOME]) - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO, MANTIDA A INADMISSÃO DO RECURSO ESPECIAL. INSURGÊNCIA DO SEGURADO.
+1. Nos termos da jurisprudência sedimentada nesta Corte, os sinistros ocorridos antes da égide da Medida Provisória 340, de 29 de dezembro de 2006, convertida na Lei 11.482, de 31 de maio de 2007 (que alterou a Lei 6.194/74), a indenização decorrente do seguro obrigatório ([NOME]) deve ser apurada com base no valor do salário mínimo vigente na data do evento danoso, monetariamente atualizado até o efetivo pagamento. Aplicação da Súmula 83/STJ.
+2. Agravo regimental desprovido. (AgRg no AREsp 553.893/SP, Relator o Ministro Marco Buzzi, DJe de 17/12/2014)
+Na hipótese ora em análise, o Tribunal de origem concluiu que a indenização decorrente do Seguro [NOME] deveria ser apurada com base no valor do salário mínimo vigente à época da liquidação do sinistro.
+Assim, de rigor a reforma do acórdão estadual, porquanto dissonante da atual jurisprudência desta Corte quanto ao tema.
+Diante do exposto, dou provimento ao recurso especial para determinar que, no cálculo da indenização devida pela recorrente, seja utilizado o valor do salário mínimo vigente à época do evento danoso, monetariamente atualizado até o efetivo pagamento.
+Publique-se.
