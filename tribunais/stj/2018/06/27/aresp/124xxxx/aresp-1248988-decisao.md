@@ -1,0 +1,52 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo contra decisão que inadmitiu o recurso especial interposto por [NOME] Rio Negrinho Ltda., com base no art. 105, inc. III, alínea "c", da CF/1988, em oposição a acórdão do TRF da 4ª Região, assim ementado (e-STJ, fl. 276):
+EMBARGOS À EXECUÇÃO FISCAL. CERCEAMENTO DE DEFESA. NULIDADE DA CDA. INOCORRÊNCIA. JUNTADA DE PROCESSO ADMINISTRATIVO E MEMÓRIA DE CÁLCULO. DESNECESSIDADE. [NOME]. JUROS SOBRE A MULTA.
+1. O indeferimento de prova pericial não configura cerceamento de defesa quando a demonstração do fato não depender de conhecimento especial de técnico.
+2. É válida a CDA que, preenchendo os requisitos legais, permite a identificação de todos os aspectos do débito, inclusive da forma de cálculo dos consectários moratórios.
+3. Não é necessária a instrução da execução fiscal com memória de cálculo do débito ou cópias do processo administrativo, bastando a apresentação da Certidão de Dívida Ativa.
+4. É legítima a correção monetária do débito e a cobrança de juros pela Taxa [NOME].
+5. É legítima a incidência de juros de mora sobre a multa fiscal punitiva, a qual integra o crédito tributário.
+Alega a empresa agravante, nas razões do recurso especial, existência de dissídio jurisprudencial em relação aos arts. 5º, LV, da CF; 917, § 2º, I, do CPC; e 202, II, e 203 do CTN.
+Nessa esteira, sustenta que seria ilegal a capitalização de juros; juros e multas abusivas. Ainda, pugna pelo reconhecimento da nulidade da CDA ante a ausência de demonstrativo de cálculo.
+A negativa de admissibilidade teve por fundamento o óbice da Súmula 7/STJ.
+É o relatório.
+Verifica-se que, no caso, o indigitado dissídio pretoriano não foi comprovado nos moldes exigidos nos arts. 541, parágrafo único, do Código de Processo Civil de 1973 e 255, § 2º, do Regimento Interno do STJ, uma vez que a agravante apenas transcreveu as ementas dos julgados que entendeu favoráveis à sua tese, sem realizar o necessário cotejo analítico entre a fundamentação contida nos precedentes invocados como paradigmas e no aresto impugnado.
+No aspecto:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. INEXISTÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. PROCESSUAL CIVIL. RECURSO ESPECIAL. ADMISSIBILIDADE. NÃO INDICAÇÃO DOS MOTIVOS DA VIOLAÇÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284/STF. VIOLAÇÃO AO ART. 535, DO CPC. INOCORRÊNCIA. ALÍNEA "C". AUSÊNCIA DE SIMILITUDE ENTRE OS ARESTOS CONFRONTADOS. NÃO CONHECIMENTO. ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE. SERVIDOR PÚBLICO. PRESCRIÇÃO. TERMO INICIAL. CIÊNCIA PELO TITULAR DA DEMANDA. ACÓRDÃO MANTIDO.
+ ..
+3. (..) 9. A interposição do recurso especial pela alínea "c" do permissivo constitucional exige do recorrente a comprovação do dissídio jurisprudencial, cabendo ao mesmo colacionar precedentes jurisprudenciais favoráveis à tese defendida, comparando analiticamente os acórdãos confrontados, nos termos previstos no artigo 541, parágrafo único, do CPC. 10. Visando a demonstração do dissídio jurisprudencial, impõe-se indispensável avaliar se as soluções encontradas pelo decisum embargado e paradigmas tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias. 11. In casu, não há similaridade, indispensável na configuração do dissídio jurisprudencial, entre o acórdão tomado como paradigma, do STF, julgado em 2/8/1960, tratou da prescrição de ato de improbidade previsto no art. 11, da CLT e o acórdão recorrido, que decidiu acerca da prescrição da ação de improbidade prevista no art. 23, II, da Lei n. 8.429/92. (..)
+ ..
+5. Embargos de declaração rejeitados.
+(EDcl no REsp 999.324/RS, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, DJe 17/12/2010)
+Ainda que superado tal óbice, quanto à análise da CDA, é assente o entendimento de que a inscrição da dívida ativa gera a presunção de liquidez e certeza desde que contenha todas as exigências legais, inclusive a indicação da natureza da dívida, sua fundamentação legal, bem como a forma de cálculo de juros e de correção monetária.
+A finalidade dessa regra de constituição do título é atribuir a liquidez e certeza de que goza a dívida ativa.
+Na hipótese dos autos, o Tribunal de origem entendeu que a CDA não apresentou os elementos legais aptos a torná-la líquida, certa e exigível, segundo se observa dos seguintes excertos do voto condutor do acórdão recorrido (e-STJ, fls. 272/273):
+As Certidões de Dívida Ativa (evento 1, CDA2-6, da execução fiscal embargada) preenchem, sob o ponto de vista formal, os requisitos legais elencados na Lei de Execução Fiscal e no art. 202 do CTN, conforme se pode vislumbrar do cotejo entre ambos. Nelas estão consignados: o nome do devedor e seu domicílio tributário; o valor originário da dívida (totalização e por competência, em moeda) e a maneira de calcular os acréscimos legais (correção monetária e juros); o número de inscrição na dívida ativa e a data de inscrição. Registrado, ainda, o número do processo administrativo.
+Tais referências são suficientes, porquanto, acopladas à legislação pertinente (fundamento legal), permitem ao executado tomar conhecimento da natureza e origem da dívida, forma de atualização e incidência de juros, multa e demais encargos.
+Outrossim, vale lembrar que a certidão de dívida ativa é, por sua natureza, um documento sintético. Os elementos imprescindíveis e que nela constam são aqueles taxativamente elencados na Lei nº 6.830, de 1980 (art. 2, § 5º) e têm o propósito, dentre outros, de subsidiar o devedor na obtenção do valor da dívida e de sua própria origem.
+Informações pormenorizadas devem ser buscadas nos autos dos correspondentes procedimentos administrativos, que estão à disposição do contribuinte (art. 41 da Lei nº 6.830, de 1980), não se exigindo que a CDA, documento que apenas representa a dívida inscrita, adentre em todas as suas particularidades.
+Ademais, ressalto que, diante da presunção de certeza e liquidez de que goza a CDA, apenas ela deve acompanhar a inicial executiva, não cabendo ao fisco instruir o processo de execução com outros documentos, nem mesmo memória de cálculo ou cópias do procedimento administrativo (que, como visto acima, estão à disposição do contribuinte). É o que se extrai do artigo 6º, § 1º, da Lei nº 6.830, de 1980:
+ ..
+Além disso, os créditos foram constituídos por declarações prestadas pelo próprio contribuinte, que não pode agora alegar desconhecer a origem e outros aspectos atinentes aos valores cobrados, inexistindo o propalado cerceamento de defesa.
+Nesse contexto, consoante ressaltou o juízo de admissibilidade, infirmar as conclusões a que chegou o acórdão recorrido - investigação acerca do preenchimento dos requisitos formais da CDA que aparelha a execução fiscal - demandaria a incursão na seara fático-probatória dos autos, tarefa soberana às instâncias ordinárias, o que impede o reexame na via especial por óbice da Súmula 7 desta Corte Superior.
+No ponto:
+TRIBUTÁRIO. EXECUÇÃO FISCAL. CERTEZA E LIQUIDEZ [NOME]. MATÉRIA FÁTICA. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO - INCIDÊNCIA DAS SÚMULAS 282 E 356/STF.
+1. A Corte de origem, com base no contexto fático-probatório dos autos, entendeu que as certidões em que se funda a ação executiva encontram-se incólumes. Incidência da Súmula 7/STJ.
+2. É inadmissível o recurso especial quando não ventilada, na decisão recorrida, a questão federal suscitada, e não provocada a questão por meio de embargos de declaração. Incidência, por analogia, das Súmulas 282 e 356 do Supremo Tribunal Federal.
+3. A hodierna jurisprudência desta Corte firmou-se no sentido de que as matérias de ordem pública podem ser analisadas em sede de recurso especial, quando ultrapassado o conhecimento, à luz do efeito translativo dos recursos. O que não é o caso dos autos.
+Agravo regimental improvido.
+(AgRg no Ag 1.382.247/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 26/4/2011)
+ Quanto aos juros de mora e à correção monetária, o Tribunal a quo firmou o posicionamento de que "é pacífico o entendimento jurisprudencial do STJ no sentido de ser legítima a utilização da Taxa [NOME] como índice de correção monetária e de juros moratórios sobre dívidas tributárias  ..  é legítima a utilização da Taxa [NOME] como índice de correção monetária e de juros moratórios sobre dívidas tributárias" (e-STJ, fls. 273/274).
+Tal compreensão se encontra em harmonia com a jurisprudência do STJ de que a taxa [NOME] é legítima como índice de correção monetária e de juros de mora, na atualização dos débitos tributários pagos em atraso, nos termos do art. 13 da Lei n. 9.065/1995, conforme pronunciamento da Primeira Seção no julgamento do REsp 1.073.846/SP. Rel. Ministro Luiz Fux.
+Em idêntica direção:
+PROCESSO CIVIL E TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. SOCIEDADE PRESTADORA DE SERVIÇOS EDUCACIONAIS. RECURSO ESPECIAL NÃO CONHECIDO.
+ .. .
+20. Por fim, o Recurso Especial impugna a aplicação da Taxa [NOME]. O STJ já definiu em recurso repetitivo a legitimidade da aplicação da Taxa [NOME] como índice de correção monetária e de juros de mora, na atualização dos débitos tributários pagos em atraso (REsp 1.073.846/SP, Rel. Ministro Luiz Fux, Primeira Seção, julgado em 25.11.2009, DJe 18.12.2009). Na mesma linha: REsp 947.920/SC, Rel. Ministra Eliana Calmon, Segunda Turma, julgado em 06.8.2009, DJe 21.8.2009; AgRg no Ag 1.108.940/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 4.8.2009, DJe 27.8.2009; REsp 743.122/MG, Rel. Ministra Denise Arruda, Primeira Turma, julgado em 26.2.2008, DJe 30.4.2008; e EREsp 265.005/PR, Rel. Ministro Luiz Fux, Primeira Seção, julgado em 24.8.2005, DJ 12.9.2005.
+21. Os créditos fiscais correspondentes a fatos geradores ocorridos entre junho de 1996 e setembro de 2005 (fl. 1.637, e-STJ) sujeitam-se ao art. 13 da Lei 9.065/95, que instituiu a [NOME].
+Incide a Súmula 83/STJ também sobre a hipótese.
+22. A exclusão da multa mostra-se prejudicada, pois o fundamento da impugnação está calcado na inexistência de descumprimento da obrigação tributária. Mantida a decisão do Tribunal de origem, não há falar que a GFIP foi preenchida corretamente.
+23. Recurso Especial não conhecido.
+(REsp 1.682.567/ES, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/9/2017, DJe 10/10/2017)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
