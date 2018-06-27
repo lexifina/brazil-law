@@ -1,0 +1,19 @@
+DECISÃO
+LIMINAR IMPLEMENTADA – EXTENSÃO – DEFERIMENTO.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    Mediante a petição/STF nº 37.389/2018, Valter Lima Nascimento, representado por advogado, postula a extensão dos efeitos da medida de urgência deferida ao paciente, Ronaldo Pereira dos Santos. Alega encontrar-se em situação processual idêntica. Aponta que o ato por meio do qual imposta a preventiva é o mesmo, destacando figurar como réu no processo-crime nº 0053222-39.2014.8.26.0050. Junta comprovante do cumprimento do mandado de prisão, ocorrido em 2 de outubro de 2017.
+    O processo encontra-se concluso para análise do pedido de extensão.
+    2. Ao acolher o pleito de concessão de liminar neste processo, assentei:
+    […]
+    2. A prisão em flagrante bem assim a gradação do tráfico de entorpecentes, considerada a quantidade de droga apreendida – 401,55 quilos de pasta base de cocaína –, revelam estar em jogo a preservação da ordem pública. Sem prejuízo do princípio da não culpabilidade, a constrição se impunha, ante a periculosidade, ao menos sinalizada. Daí ter-se como razoável e conveniente o pronunciamento atacado. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    Ocorre que, a esta altura, sem culpa formada, o paciente está preso há 3 anos, 11 meses e 6 dias. Surge o excesso de prazo tendo em vista a custódia provisória e o estágio do processo-crime, porquanto sequer encerrada a instrução criminal. A preventiva deve ser balizada no tempo. Privar da liberdade, por período desproporcional, pessoa cuja responsabilidade penal não foi declarada em definitivo viola o princípio da não culpabilidade. Nada, absolutamente nada, justifica tal fato.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não se encontre recolhido por motivo diverso da prisão preventiva formalizada no processo nº 0053222-39.2014.8.26.0050, da Décima Primeira Vara Criminal da Comarca de São Paulo/SP. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do homem integrado à sociedade.
+    4. Sendo idêntica a situação jurídica dos corréus Fabiano Soares da Silva e Richardson de Castro, estendo-lhes a medida acauteladora, com os mesmos cuidados, consoante o disposto no artigo 580 do Código de Processo Penal. Deixo de fazê-lo em relação ao corréu Valter Lima Nascimento, por não haver, no processo, comprovação do cumprimento do mandado. Fica inviabilizada a observância do citado preceito legal.
+    […]
+    Há a identidade arguida. A decisão mediante a qual afastada a constrição do paciente não está fundada em motivos de caráter pessoal. O requerente foi preso, em razão do mesmo ato, no dia 2 de outubro de 2017, ou seja, há 8 meses e 25 dias. O quadro conduz ao reconhecimento do direito à extensão – artigo 580 do Código de Processo Penal –, sob o ângulo do excesso de prazo.
+    3. Defiro a extensão pretendida. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o requerente, Valter Lima Nascimento, não esteja recolhido por motivo diverso da prisão preventiva formalizada no processo nº 0053222-39.2014.8.26.0050, da Décima Primeira Vara Criminal da Comarca de São Paulo/SP. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 27 de junho de 2018.
+Ministro MARCO AURÉLIO
+Relator
