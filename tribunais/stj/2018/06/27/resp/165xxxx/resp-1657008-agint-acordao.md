@@ -1,0 +1,32 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. CONSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. A jurisprudência desta Corte admite o arbitramento de honorários advocatícios tanto na execução quanto nos embargos do devedor, ressaltando-se, porém, a possibilidade de a sucumbência final ser determinada definitivamente nos embargos, desde que fique claro que o valor fixado nos embargos à execução atende a ambos os incidentes. Precedentes.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Agravo interno no recurso especial não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, negar provimento ao agravo, nos termos do voto do(a) Sr(a). Ministro(a) Relator(a). Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por LRPB TRANSPORTES LTDA - EPP - EMPRESA DE PEQUENO PORTE, com fundamento nos arts. 259 do RISTJ e 1021 do CPC/15, contra decisão monocrática que conheceu parcialmente e negou provimento ao recurso especial que interpusera.
+Ação: embargos à execução, ajuizados pela agravante, em face de SIQUEIRA CAMPOS IMPORTAÇÃO E DISTRIBUIÇÃO LTDA.
+Sentença: julgou procedentes os embargos à execução, para reconhecer a prescrição dos títulos descritos na inicial, nos termos do art. 269, I, do CPC/73, bem como para condenar a recorrida ao pagamento das verbas de sucumbência e honorários advocatícios, fixados em 10% (dez por cento) do valor da execução.
+Acórdão: negou provimento ao agravo de instrumento interposto pela agravante, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO - Execução - Extinção - Embargos do devedor acolhidos - Dívida prescrita - Ônus de sucumbência carreado à embargada agravada, nos autos dos embargos do devedor - Condenação da exequente nos ônus de sucumbência, tendo em vista a prescrição da dívida ajuizada - Observância ao princípio da causalidade - Cumulação de verbas honorárias - Impossibilidade - Fixação única abrangendo ambos os processos (execução e embargos do devedor) - Precedente que não guarda relação com a hipótese em exame - Recurso desprovido - Decisão mantida. (e-STJ fl. 67)
+Embargos de declaração: interpostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 20 e 535, II, do CPC/73, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta ser possível o arbitramento cumulado de honorários advocatícios na ação de execução e nos embargos do devedor. Insurge-se contra o valor fixado a título de honorários sucumbenciais.
+Decisão monocrática: conheceu parcialmente e negou provimento ao recurso especial, com fundamento no art. 255, §4º, I e II do RISTJ.
+Agravo interno no recurso especial: sustenta que a análise do apelo especial prescinde do reexame do acervo fático-probatório carreado aos autos. Assevera que sua única pretensão é "a cumulação da verba de sucumbência, limitada ao percentual máximo previsto na legislação ordinária, já que na r. sentença que acolheu os embargos à execução não restou assinalado que os honorários arbitrados atenderiam a ambas as demandas" (e-STJ fl. 136).
+É o relatório.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+A decisão agravada conheceu parcialmente e negou provimento ao recurso especial, com fundamento na falta de demonstração de negativa de prestação jurisdicional, além da incidência das Súmulas 7 e 83 do STJ (e-STJ fls.125/127).
+Pela análise das razões recursais apresentadas no agravo interno, verifica-se que a agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Não procede o argumento da agravada de que "a Colenda Corte Estadual "inventou", sem qualquer justificativa mínima, que o Egrégio Juízo Singular adotou a hipótese de fixação única de honorários abrangendo ambos os incidentes." (e-STJ fl. 135).
+Apesar da sentença monocrática não ter consignado que o valor arbitrado a título de honorários atendia à execução e aos embargos à execução, o acórdão, após analisar o conteúdo fático-probatório dos autos, declarou expressamente que:
+Assim, uma vez acolhidos os embargos do devedor, que resvalaram na extinção da execução, com resolução do mérito, em razão da prescrição da dívida, de rigor que os ônus da sucumbência sejam suportados pela agravada, pretensa credora, como já determinado pela MM. Juíza de Direito, decisão que deve ser mantida, e que não comporta alteração.
+(..)
+Na hipótese em análise, entende-se que a sucumbência imposta à exequente na sentença que acolheu os embargos de devedor, para julgar extinta a ação de execução, foi bem aplicada pela MM. Juíza de Direito, pois, embora única, a fixação abrangeu ambos os processos, e deve ser mantida. (grifou-se) (e-STJ fls. 69/70)
+Portanto, embora não tenha sido delineado pela sentença que a fixação da sucumbência era correspondente a execução e aos embargos à execução, essa circunstância não impede que o Tribunal realize a apreciação equitativa quanto ao arbitramento final dos honorários, a fim de se adequar a sucumbência das partes na execução e nos embargos à execução. O que foi feito.
+Como consta na decisão agravada, a jurisprudência desta Corte admite o arbitramento de honorários advocatícios tanto na execução quanto nos embargos do devedor, ressaltando-se, porém, a possibilidade de a sucumbência final ser determinada definitivamente nos embargos, desde que fique claro que o valor fixado nos embargos à execução atende a ambos os incidentes, como expresso no acórdão do TJ/SP na hipótese. Nesse sentido: REsp 1627602/SP, Terceira Turma, Dje de 14/11/2016; EDcl no AgRg no REsp 1349041/RS, Segunda Turma, Dje de 21/03/2013.
+Por fim, a incidência da Súmula 7 do STJ deve ser mantida, pois eventual alteração do entendimento do acórdão recorrido quanto à suficiência dos honorários em 10% sobre o valor da execução, para remuneração do advogado pelo seu trabalho na execução e nos embargos de devedor, demandaria desta Corte, inevitavelmente, a incursão na seara fático-probatória dos autos.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no recurso especial.
