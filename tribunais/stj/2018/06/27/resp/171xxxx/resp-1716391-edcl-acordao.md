@@ -1,0 +1,43 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. O aresto embargado contém fundamentação suficiente para demonstrar que "a jurisprudência do STJ consolidou-se no sentido de que a oportunidade de emenda à petição inicial de mandado de segurança para correção da autoridade coatora somente pode ser admitida quando o órgão jurisdicional em que a demanda tenha sido proposta for competente para o conhecimento do mandamus, não sendo a hipótese dos autos. Precedentes: AgRg no RMS 46.032/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 6/4/2015; AgRg no RMS 46.748/RJ, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 17/3/2015" (RMS 38.129/GO, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 18/05/2017, DJe 01/08/2017). Essa conclusão não viola o disposto nos §§ 1º e 2º do art. 14 da Lei 12.016/2009, sobretudo porque tais preceitos não possuem comando suficiente para justificar o prosseguimento do mandamus no caso concreto.
+2. Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+3. Embargos de declaração rejeitados.
+
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Turma, por unanimidade, rejeitou os embargos de declaração, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)."
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de embargos de declaração (fls. 301/309) apresentados contra acórdão sintetizado na seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. MANDADO DE SEGURANÇA. INDICAÇÃO ERRÔNEA DA AUTORIDADE COATORA. EXTINÇÃO. PRECEDENTES.
+1. "A jurisprudência do STJ consolidou-se no sentido de que a oportunidade de emenda à petição inicial de mandado de segurança para correção da autoridade coatora somente pode ser admitida quando o órgão jurisdicional em que a demanda tenha sido proposta for competente para o conhecimento do mandamus, não sendo a hipótese dos autos. Precedentes: AgRg no RMS 46.032/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 6/4/2015; AgRg no RMS 46.748/RJ, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 17/3/2015" (RMS 38.129/GO, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 18/05/2017, DJe 01/08/2017).
+2. Agravo interno não provido.
+A embargante sustenta, em suma, que o acórdão embargado permaneceu omisso acerca do seguinte ponto:
+Nesses termos, e por considerar que a incorreta indicação do agente coator importaria em ausência de requisito processual de procedibilidade, o Tribunal a quo, de forma unânime, pronunciou a carência de ação no caso concreto, e, na esteira do efeito recursal translativo (vetor profundidade do recurso), decretou a extinção do processo de origem sem resolução de mérito.
+Tal orientação, contudo, contrariou a dicção dos §§ 2º e 3º do art. 14 da lei mandamental de regência. Mencionados dispositivos, a propósito, definem, respectivamente: 1) que a sentença concessiva da segurança deve necessariamente ser submetida ao duplo grau de jurisdição; e 2) que o direito de recorrer das decisões proferidas em mandado de segurança é extensível à autoridade coatora.
+Dito isso, é de ponderar, no que toca ao item 1, que, ao sujeitar as sentenças mandamentais de procedência ao chamado reexame necessário, o legislador, embora não expressamente, estabeleceu que, no mandado de segurança, o sujeito passivo é a própria Fazenda Pública demanda. Mesmo porque, só a Fazenda Pública desfruta da prerrogativa processual do reexame necessário.
+De igual sorte, no writ of mandamus, a função da autoridade coatora se restringe a representar em juízo a pessoa jurídica que integra, não assumindo, portanto, nem a qualidade de parte, nem a posição de litisconsorte passivo, ou de terceiro juridicamente interessado.
+(..) De se observar, portanto, que, se a autoridade coatora não é parte do processo - como, não é, de fato - o efeito resultante de sua escolha equivocada não pode jamais conduzir à carência de ação do impetrante.
+Em tais hipótese, partindo-se da premissa aqui assertivada, de que a autoridade coatora não é o sujeito passivo do mandado de segurança, sua correta indicação não é, igualmente, condição da ação mandamental, nem requisito de admissibilidade ou de procedibilidade do processo respectivo.
+Logo, o desdobramento oriundo de uma indicação incorreta, ou que recaia sobre agente público diverso do que tenha aptidão para responder pelo ato ou para sustar seus efeitos NÃO é nem pode ser o não-conhecimento da demanda, ou a extinção do processo sem resolução de mérito por ilegitimidade subjetiva passiva (soluções próprias da verificação, pelo juízo, da ausência de legitimação subjetiva ou de condição processual de procedibilidade).
+Requer sejam acolhidos os embargos.
+O embargado pugna pela rejeição dos embargos.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. O aresto embargado contém fundamentação suficiente para demonstrar que "a jurisprudência do STJ consolidou-se no sentido de que a oportunidade de emenda à petição inicial de mandado de segurança para correção da autoridade coatora somente pode ser admitida quando o órgão jurisdicional em que a demanda tenha sido proposta for competente para o conhecimento do mandamus, não sendo a hipótese dos autos. Precedentes: AgRg no RMS 46.032/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 6/4/2015; AgRg no RMS 46.748/RJ, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 17/3/2015" (RMS 38.129/GO, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 18/05/2017, DJe 01/08/2017). Essa conclusão não viola o disposto nos §§ 1º e 2º do art. 14 da Lei 12.016/2009, sobretudo porque tais preceitos não possuem comando suficiente para justificar o prosseguimento do mandamus no caso concreto.
+2. Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+O recurso não merece prosperar.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O aresto embargado contém fundamentação suficiente para demonstrar que:
+"A jurisprudência do STJ consolidou-se no sentido de que a oportunidade de emenda à petição inicial de mandado de segurança para correção da autoridade coatora somente pode ser admitida quando o órgão jurisdicional em que a demanda tenha sido proposta for competente para o conhecimento do mandamus, não sendo a hipótese dos autos. Precedentes: AgRg no RMS 46.032/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 6/4/2015; AgRg no RMS 46.748/RJ, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 17/3/2015" (RMS 38.129/GO, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 18/05/2017, DJe 01/08/2017).
+Essa conclusão não viola o disposto nos §§ 1º e 2º do art. 14 da Lei 12.016/2009, sobretudo porque tais preceitos não possuem comando suficiente para justificar o prosseguimento do mandamus no caso concreto.
+Desse modo, a questão foi apreciada de modo adequado, e o mero inconformismo com a conclusão do julgado não enseja a utilização da via de embargos de declaração, que é limitada às hipóteses elencadas no art. 1.022 do CPC/2015.
+Assim, não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos. Nesse sentido: EDcl no AgRg no Ag 1.218.989/SP, 2ª Turma, Rel. Min. Humberto Martins, DJe de 7.5.2010; EDcl no REsp 1.118.103/SP, 1ª Turma, Rel. Min. Teori Albino Zavascki, DJe de 20.4.2010.
+Diante do exposto, REJEITO os embargos de declaração.
+É o voto.
