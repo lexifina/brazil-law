@@ -1,0 +1,62 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3 DO STJ. SERVIDOR PÚBLICO. COMPLEMENTAÇÃO DE PENSÃO POR MORTE. VIOLAÇÃO DO ART. 6º DA LINDB. MATÉRIA EMINENTEMENTE CONSTITUCIONAL. INTERPRETAÇÃO DE DIREITO LOCAL. SÚMULA 280 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça entende que os princípios contidos no art. 6º da LINDB - direito adquirido, ato jurídico perfeito e coisa julgada - assumiram contornos nitidamente constitucionais, razão pela qual não podem ser objeto de recurso especial.
+2. A análise da pretensão recursal implicaria interpretação de norma local, insuscetível de análise em sede de recurso especial, nos termos da Súmula n. 280/STF.
+3. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)."
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno interposto por [NOME] em face de decisão monocrática de minha relatoria, cuja ementa é a seguinte:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. VIOLAÇÃO DO ART. 6º DA LINDB. ANÁLISE DE VIOLAÇÃO DE PRINCÍPIOS CONSTITUCIONAIS EM RECURSO ESPECIAL. IMPOSSIBILIDADE. COMPLEMENTAÇÃO DE PENSÃO. INTERPRETAÇÃO DE DIREITO LOCAL. IMPOSSIBILIDADE. SÚM. N. 280/STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+A agravante alega, em síntese, que "A questão consiste em definir se a discussão a respeito do direito adquirido pode dar-se no âmbito desta Corte (afronta ao art. art. 6º, parágrafo 2º, da LICC) em sede de recurso especial, como também se é possível o exame da legislação não federal em referência a fim de comprovação da tese sobre ausência de direito adquirido (Leis Estaduais de nº 200/74, 4.819/58 , 1.386/51)." (fl. 290-e). Assim, diante de tais argumentos, afasta-se a aplicação da Súmula 280/STF e da impossibilidade de exame da matéria de índole eminentemente constitucional. Reitera as razões do seu recurso especial.
+Requer a reconsideração da decisão ou seja o feito submetido à julgamento no órgão colegiado.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3 DO STJ. SERVIDOR PÚBLICO. COMPLEMENTAÇÃO DE PENSÃO POR MORTE. VIOLAÇÃO DO ART. 6º DA LINDB. MATÉRIA EMINENTEMENTE CONSTITUCIONAL. INTERPRETAÇÃO DE DIREITO LOCAL. SÚMULA 280 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça entende que os princípios contidos no art. 6º da LINDB - direito adquirido, ato jurídico perfeito e coisa julgada - assumiram contornos nitidamente constitucionais, razão pela qual não podem ser objeto de recurso especial.
+2. A análise da pretensão recursal implicaria interpretação de norma local, insuscetível de análise em sede de recurso especial, nos termos da Súmula n. 280/STF.
+3. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O presente agravo não merece lograr êxito.
+Dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada, que, de fato, deu a solução que melhor espelha a orientação jurisprudencial do STJ sobre a matéria.
+Quanto à alegada contrariedade do art. 6º da Lei de Introdução às Normas do Direito Brasileiro (antiga LICC), o Superior Tribunal de Justiça entende que os princípios contidos no referido dispositivo - direito adquirido, ato jurídico perfeito e coisa julgada - assumiram contornos nitidamente constitucionais, razão pela qual não podem ser objeto de recurso especial, sob pena de, se analisados, ferir-se a distribuição de competências estabelecida pela Constituição Federal. No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARTIGO 6º DA LINDB. CARÁTER CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO. HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA RECÍPROCA. REVISÃO. SÚMULA Nº 7/STJ.
+1. Os princípios contidos na Lei de Introdução às Normas do Direto Brasileiro (LINDB), apesar de previstos em norma infraconstitucional, não podem ser analisados em recurso especial, pois são institutos de natureza constitucional.
+2. O Superior Tribunal de Justiça tem jurisprudência firme no sentido de não ser possível a revisão do quantitativo em que autor e ré decaíram do pedido, para fins de aferir a sucumbência recíproca ou mínima, por implicar reexame de matéria fático-probatória, procedimento vedado pela Súmula nº 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 781.737/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 13/12/2016, DJe 03/02/2017)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. VIOLAÇÃO AO ART. 535 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 2º, I, 9º, §§ 2º e 4º, 29, V e VI, DA LEI N. 8.987/95 e 422 e 945, DO CÓDIGO CIVIL. INCIDÊNCIA DA SÚMULA N. 211/STJ. ART. 6º DA LEI DE INTRODUÇÃO ÀS NORMAS DO DIREITO BRASILEIRO (LINDB). OSTENTA CARÁTER CONSTITUCIONAL. NÃO CABIMENTO DE ANÁLISE EM RECURSO ESPECIAL. VIOLAÇÃO AO ARTS. 5º, XXXVI, 37, CAPUT, XX E 175, DA CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE DE ANÁLISE EM SEDE DE RECURSO ESPECIAL. COMPETÊNCIA DO STF. ANÁLISE DE CLÁUSULAS DO CONTRATO DE CONCESSÃO E REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NO CASO CONCRETO. SÚMULAS NS. 5/STJ E 7/STJ. INCIDÊNCIA. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO PELA CORTE DE ORIGEM COM BASE NO CRITÉRIO DE EQUIDADE. DESPROPORCIONALIDADE NÃO CARACTERIZADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+III - A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ.
+IV - Esta Corte possui jurisprudência pacífica no sentido de que não cabe a análise, em recurso especial, da matéria contida no art. 6º da LINDB - ato jurídico perfeito, direito adquirido e coisa julgada -, porquanto ostenta caráter constitucional, a teor do art. 5º, XXXVI, da Constituição da República.
+V - É entendimento pacífico desta Corte que o recurso especial possui fundamentação vinculada, não se constituindo em instrumento processual destinado a examinar possível ofensa à norma Constitucional.
+VI - In casu, rever o entendimento do Tribunal de origem, no sentido de que não houve desequilíbrio econômico e financeiro do contrato, demandaria necessário a análise de cláusulas do Contrato de Concessão de Serviço de Coleta e Tratamento de Esgoto e revolvimento de matéria fática, o que é inviável em sede de recurso especial, sob à luz do óbice contido nas Súmulas ns. 5/STJ e 7/STJ.
+VII - A fixação dos honorários advocatícios pelo Tribunal de origem, com base no critério da equidade, demanda apreciação de elementos fáticos, inviabilizando a reapreciação por esta Corte, à vista do óbice da Súmula n. 07/STJ, salvo se configurada irrisoriedade ou exorbitância, o que não ocorreu.
+VIII - A Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+IX - Agravo Regimental improvido.
+(AgRg no AREsp 790.491/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 06/12/2016, DJe 02/02/2017)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 535 DO CPC. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. SERVIDOR PUBLICO. ADICIONAL DE 20% DO ART. 184, II, DA LEI 1.711/52. CONTROVÉRSIA DIRIMIDA À LUZ DE FUNDAMENTOS EMINENTEMENTE CONSTITUCIONAIS. INVIABILIDADE DE EXAME EM RECURSO ESPECIAL. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA.
+1. As partes agravantes sustentam que o art. 535 do Código de Processo Civil foi violado, mas deixam de apontar o vício em que teria incorrido o acórdão impugnado. Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF.
+2. Verifica-se que a matéria foi dirimida sob enfoque eminentemente constitucional. Descabe, pois, a esta Corte examinar a questão, porquanto reverter o julgado significa usurpar competência do STF.
+3. A atual jurisprudência do STJ tem entendido que não é possível o conhecimento do Recurso Especial por violação do art. 6º da LICC, uma vez que os princípios do direito adquirido, do ato jurídico perfeito e da coisa julgada, apesar de previstos em norma infraconstitucional, são institutos de natureza eminentemente constitucional. Precedentes: REsp 1.333.475/RJ, Rel. Ministra Eliana Calmon, Segunda Turma, DJe de 26.6.2013; AgRg no AREsp 224.095/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe de 24.5.2013.
+4. A divergência jurisprudencial, nos termos do art. 541, parágrafo único, do CPC e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos julgados que configurem o dissídio, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações, o que não ficou evidenciado na espécie.
+5. Agravo Interno não provido.
+(AgInt no AREsp 862.012/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 09/08/2016, DJe 08/09/2016)
+Ademais, verifica-se que o acórdão recorrido decidiu a questão com base nas Leis Estaduais 4.819/58, 200/1974 e 1.386/51, concluindo pela impossibilidade de a ora recorrente perceber complementação de pensão, por não ser pensionista de servidor público efetivo.
+Ocorre que, na esteira da jurisprudência desta Corte Superior, nesses casos, não há a abertura da via especial, em virtude do óbice contido na Súmula 280/STF, segundo a qual "por ofensa a direito local não cabe recurso extraordinário", aplicável à espécie por analogia. A corroborar esse entendimento:
+PROCESSUAL CIVIL E ADMINISTRATIVO. PRESCRIÇÃO DO FUNDO DE DIREITO. ART. 1º DO DECRETO N. 20.910/32. INAPLICABILIDADE. RELAÇÃO DE TRATO SUCESSIVO. SÚMULA 85/STJ. ANÁLISE DE LEI LOCAL. SÚMULA 280 DO STF.
+1. A jurisprudência desta Corte é pacífica ao reconhecer que, nas causas em que se discute recebimento de vantagens pecuniárias nas quais não houve negativa inequívoca do próprio direito reclamado, tem-se relação de trato sucessivo, aplicando-se a Súmula 85 do STJ, que prevê a prescrição apenas em relação ao período anterior a cinco anos da propositura da ação.
+2. O Tribunal de origem, ao apreciar a matéria controvertida, sustentou toda a sua fundamentação na análise da Lei Estadual n. 5.625/91. Todavia, o exame de normas de caráter local é inviável em recurso especial, em virtude da vedação prevista na Súmula 280 do STF, segundo a qual "por ofensa a direito local não cabe recurso extraordinário".
+Agravo regimental improvido. (AgRg no AREsp 498.211/PA, Rel. Min. HUMBERTO MARTINS, Segunda Turma, DJe 13/08/2014)
+Esclareço, outrossim, que a decisão que se pretende cassar é com base no art. 932, inciso III, c.c. o art. 1.030, § 2º, do Código de Processo Civil de 2015, não trazendo a parte qualquer motivo hábil para sua anulação.
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
