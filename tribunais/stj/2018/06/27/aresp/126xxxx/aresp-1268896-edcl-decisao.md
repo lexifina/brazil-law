@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 2.895-2.900) opostos por [NOME] à decisão (e-STJ fls. 2.889-2.892) que negou provimento ao recurso especial em razão do óbice da Súmula nº 7/STJ.
+A embargante afirma que a decisão embargada teria sido obscura quanto à ausência de nexo, no caso concreto, entre o pleito indenizatório e suposto dano suportado por parturiente ocorrido em instituição hospitalar.
+Assevera ainda ter ocorrido omissão quanto à questão técnica do julgamento usado pelo tribunal de origem, além da questão da nulidade do julgamento por não terem sido acolhidos os embargos declaratórios opostos e a revaloração das formalidades instrutórias, de modo que pugna pelo acolhimento dos aclaratórios, e consequente provimento do recurso.
+Contraminuta de [NOME] (e-STJ fls. 2.904-2.907) em que requer apenas a retificação da decisão quanto à ausência de nexo entre o pleito indenizatório e suposto dano suportado por parturiente ocorrido em instituição hospitalar, acolhendo parcialmente os embargos, sem efeitos modificativos.
+É o relatório.
+DECIDO.
+Colhe, parcialmente, a inconformidade veiculada nos presentes aclaratórios.
+Com efeito, a decisão embargada, equivocadamente, afirmou que "(..) o tribunal de origem, soberano na análise do conjunto fático-probatório dos autos, consignou a existência do nexo de causalidade e da culpa, ressaltando ter sido comprovado o comparecimento da parturiente na instituição hospitalar" (e-STJ fl. 2.890).
+A obscuridade merece ser sanada para que conste na decisão (e-STJ fl. 2.890), em substituição, a seguinte redação:
+"Importante considerar que o tribunal de origem, soberano na análise do conjunto fático-probatório dos autos, chancelou a inexistência de dano moral indenizável, bem como a desnecessidade de conversão do julgamento em diligência, consoante verifica-se do seguinte excerto do voto condutor (e-STJ fls. 2.766-2.767):"
+Quanto às supostas omissões, parcial razão assiste à embargante, pois não foram enfrentadas as teses da questão técnica do julgamento usado pelo tribunal de origem e de nulidade do julgamento por não terem sido acolhidos os embargos declaratórios opostos, o que se fará, de forma integrativa, no julgamento dos presentes aclaratórios.
+Preliminarmente, no que tange à técnica questionada, importante considerar que segundo a firme jurisprudência do Supremo Tribunal Federal e do Superior Tribunal de Justiça é legítima a técnica da motivação aliunde, ou per relationem, por meio da qual se agregam ao ato decisório as razões apresentadas em outra peça processual, como medida de economicidade, contanto que se resguarde o pleno exercício do direito ao contraditório, como no caso destes autos.
+Ademais, deve-se ressaltar que a apelação foi interposta sob a égide Código de Processo Civil de 1973 (e-STJ fl. 2.339), não havendo que se falar em violação dos dispositivos Código de Processo Civil de 2015 por parte do aresto recorrido. O novo Código deverá ser observado apenas para a análise dos recursos interpostos após a data de 18 de março de 2016.
+A propósito:
+PROCESSO CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. DESAPROPRIAÇÃO INDIRETA. TUTELA ANTECIPADA. CONCEDIDA. SUSPENSÃO. DESCABIMENTO.
+SÚMULA 735/STF.
+1. É descabida, em regra, a interposição de recurso especial contra acórdão que concede, confirma, indefere ou reforma antecipação de tutela ou liminar, pela própria natureza da decisão, precária e vinculada às especificidades fáticas da causa. Incidência da Súmula 735/STF.
+2. Ainda que fosse possível superar a preliminar, no caso analisado inexiste contrariedade ao art. 535 do CPC/1973 quando a Corte de origem decide clara e fundamentadamente todas as questões postas a seu exame. Ademais, não se deve confundir decisão contrária aos interesses da parte com ausência de prestação jurisdicional.
+3. A utilização pelo acórdão recorrido da técnica de remissão ou transcrição dos argumentos constantes da sentença, desde que bastantes para a solução do caso concreto - como ocorre na espécie - não caracteriza vício de fundamentação.
+4. Recurso especial não conhecido.
+(REsp 1595508/TO, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 03/05/2018, DJe 09/05/2018)
+No que concerne à alegada omissão da Corte de origem, destaca-se que a recorrente, ora embargante, apontou em seu especial violação dos arts. 994, IV, e 1.022, II, do Código de Processo Civil de 2015, ao argumento de que o tribunal deixou de declarar as omissões suscitadas, bem como se omitiu sobre os danos produzidos pelo rompimento do canil mediante quebra do cadeado do local e sobre a imagem da autora, provocada pelo corréu [NOME] e pelo blog da corré [NOME] (e-STJ fls. 2.795-2.796).
+Entretanto, não assiste razão à recorrente.
+Com efeito, o tribunal de origem asseverou que inobstante tais argumentos, o exame da prova foi feito de modo adequado e suficiente, optando-se, entre os relevantes valores constitucionais em jogo, à vista da prova, pela liberdade de expressão, consoante excerto seguinte do voto condutor (e-STJ fls. 2.786-2.787):
+"(..) Não há omissões a suprir. O exame da prova foi feito de modo adequado e suficiente, ao ver da Turma Julgadora. Entre os relevantes valores constitucionais em jogo, à vista da prova, optou-se pela liberdade de expressão, com lembrança de lapidar dito do Ministro CARLOS BRITTO ("a liberdade de expressão é a melhor expressão da liberdade ").
+De resto, para modificar o decidido pelo acórdão em apelação, sem que haja defeito a nele suprir (omissão, contradições, erro material, obscuridade), não se prestam embargos de declaração. Em suma, o acórdão analisou os temas devolvidos no julgamento do recurso de forma fundamentada e suficiente, qualificando-os juridicamente, não se enquadrando os embargos em quaisquer das hipóteses previstas no art. 1.022 do NCPC".
+Assim, no tocante à alegada violação dos artigos 994, IV, e 1.022 do Código de Processo Civil de 2015, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, o seguinte precedente:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. INEXISTÊNCIA DE OMISSÃO. ALEGAÇÕES GENÉRICAS. 2. JUROS REMUNERATÓRIOS E CAPITALIZAÇÃO. NÃO CABIMENTO DO RECURSO. ART. 1.042 DO CPC/2015. 3. CARACTERIZAÇÃO DA MORA E REPETIÇÃO EM DOBRO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC/2015. DECISUM INCÓLUME. AGRAVO INTERNO DESPROVIDO.
+1. Não se pôde conhecer da apontada violação do art. 1.022 do CPC/2015, pois as alegações que a fundamentaram foram genéricas, sem discriminação específica dos pontos efetivamente omissos sobre os quais teria incorrido o acórdão impugnado.
+2. As questões referentes aos juros remuneratórios e à capitalização mensal de juros foram decididas com base no art. 1.042 do novo CPC, porquanto não é cabível recurso quando a decisão anterior se baseia em entendimento firmado no julgamento dos recursos repetitivos.
+3. Nas razões do agravo em recurso especial, o agravante verdadeiramente não impugnou o fundamento adotado na decisão que inadmitiu o recurso especial quanto à caracterização da mora e à devolução de indébito, qual seja: a incidência das Súmulas 83/STJ e 284/STF; razão pela qual permanecem hígidos tais fundamentos.
+4. Agravo interno improvido".
+(AgInt no AREsp 1010983/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/10/2017, DJe 23/10/2017)
+Por fim, quanto à alegação de omissão na decisão embargada, no que concerne à revaloração das formalidades instrutórias, razão não lhe assiste, pois a decisão foi de clareza solar em asseverar que a análise da suposta violação demandaria, inevitavelmente, o revolvimento do acervo fático probatório dos autos.
+Com efeito, o tribunal de origem, soberano na análise do conjunto fático-probatório dos autos, chancelou a inexistência de dano moral indenizável, bem como a desnecessidade de conversão do julgamento em diligência.
+Assim, rever tal entendimento demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula nº 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, acolho parcialmente os embargos declaratórios, nos fundamentos acima transcritos, sem efeitos modificativos.
+Intimem-se.
+Publique-se.
