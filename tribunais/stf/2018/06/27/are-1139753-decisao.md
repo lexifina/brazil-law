@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Distrito Federal e dos Territórios, reformando o entendimento do Juízo, julgou improcedente o pedido de indenização por danos morais e materiais ante à ocorrência de caso fortuito. No extraordinário cujo trânsito busca alcançar, o recorrente aponta violado o artigo 37, § 6º, da Constituição Federal. Sustenta a responsabilidade civil do Estado, considerado o dano advindo da aplicação de vacina.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese do acórdão recorrido:
+    CIVIL E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. REAÇÃO ADVERSA À VACINA. RESPONSABILIDADE CIVIL DO ESTADO. REQUISITOS. INEXISTÊNCIA DE NEXO DE CAUSALIDADE. AUSÊNCIA DE IRREGULARIDADE NO SERVIÇO PRESTADO. CASO FORTUITO. OCORRÊNCIA. SENTENÇA REFORMADA.
+    1 - O Estado será responsável pelos atos danosos que os seus agentes praticarem, quando atuarem na qualidade de agentes públicos, conforme dispõe o artigo 37, § 6°, da Constituição Federal, e, para tanto, é necessário haver ato comissivo ou omissivo, dano e nexo causal entre a conduta e o resultado lesivo.
+    2 - O Autor, após ser vacinado pela rede pública do Distrito Federal contra hepatite e febre amarela, teve a sua saúde físico-motora afetada por doença denominada Síndrome de Guillain-Barré.
+    3 - A partir de detida análise do conjunto fático-probatório dos autos, constata-se que o procedimento de vacinação ocorreu adequadamente e, bem assim, não havia defeito ou irregularidade no lote vacinai. Observa-se que o dano sofrido pelo Autor não decorre da prestação do serviço público médico-hospitalar, tratando-se de reação imunológica rara e inesperada decorrente de evento secundário a uma reação adversa à vacinação.
+    4 - A reação adversa à vacina amolda-se à denominada lesão iatrogênica strito sensu, ou seja, consequência danosa extraordinária e excepcional, alheias à vontade e à ação do médico ou do Hospital, decorrente de fatores individuais e próprios do paciente e não de falha na prestação de serviços médicos.
+    5 - Verifica-se a ocorrência de caso fortuito, causa excludente da responsabilidade civil do Estado, uma vez que a reação adversa rara observada não era prevista nas Normas de Vacinação do Ministério da Saúde, sendo ainda controversa a sua existência na literatura médica, consubstanciando fato isolado e inesperado afeto às condições pessoais do Autor, não havendo falha na prestação de serviços por parte do ente público.
+    6 - Ante a ocorrência de caso fortuito apto a afastar o nexo de causalidade entre o dano e a atuação do Estado, incabível a condenação do ente público ao pagamento de indenização por danos materiais e morais, tampouco ao pagamento de pensão vitalícia. Remessa Necessária e Apelação Cível do Réu providas. Apelação Cível do Autor prejudicada.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    3. Conheço do agravo e o desprovejo. Considerada a condenação pelo Tribunal dos honorários advocatícios no patamar de R$ 2.000,00 (dois mil reais), majoro os honorários recursais em R$ 1.000,00 (mil reais), consoante o artigo 85, § 11, do Código de Processo Civil de 2015.
+    4. Publiquem.
+Brasília, 27 de junho de 2018.
+Ministro MARCO AURÉLIO
+Relator
