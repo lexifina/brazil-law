@@ -1,0 +1,33 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. IRRESIGNAÇÃO MANIFESTADA NA VIGÊNCIA DO NCPC. COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. AÇÃO INDENIZATÓRIA. POSSIBILIDADE DE CUMULAÇÃO DE LUCROS CESSANTES COM CLÁUSULA PENAL. MATÉRIA AFETADA PARA JULGAMENTO SOB O RITO DOS RECURSOS REPETITIVOS (TEMAS 970 E 971). SUSPENSÃO DO FEITO. RETORNO DOS AUTOS À ORIGEM.
+DECISÃO
+ALEXANDRE MORENO SANDRI e LUCIANA MORENO RODRIGUES (ALEXANDRE e outra) ajuizaram ação de indenização por danos morais e materiais em desfavor de [NOME] GALVÃO NATURE ETAPA 2 DESENVOLVIMENTO IMOBILIÁRIA LTDA. ([NOME] GALVÃO) e FERNANDEZ MERA NEGÓCIOS IMOBILIÁRIOS (FERNANDEZ), em virtude de atraso na entrega de imóvel em construção.
+Em primeira instância, os pedidos foram julgados procedentes em parte, tendo sido reconhecida a prescrição da pretensão de restituição dos valores cobrados a título de comissão de corretagem e taxa SATI (e-STJ, fls. 291/299).
+A apelação interposta por [NOME] foi provida em parte e o recurso adesivo de ALEXANDRE e outra foi improvido pelo Tribunal de origem, nos termos da seguinte ementa:
+COMPRA E VENDA. ATRASO EM ENTREGA DE IMÓVEL. DANOS MATERIAIS. LUCROS CESSANTES. CORRETAGEM E SATI. DANOS MORAIS. Sentença de parcial procedência. Irresignação dos autores e da corré construtora.
+1 . Corretagem e assessoria imobiliária. Preliminar. Legitimidade passiva. Responsabilidade da cadeia de fornecedores (arts. 7º, único, 12 e 14, CDC). Manutenção da legitimidade das vendedoras e da intermediária corretora. Preliminar afastada. Prescrição. Prazo prescricional trienal (art. 206, §3º, IV, CC). Orientação fixada em sede de recurso especial repetitivo. Pedido dos autores não acolhido.
+2 . Atraso das obras. Prazo previsto contratualmente em 01/10/2012, com tolerância de 120 (cento e vinte) dias. Tolerância reputada válida pela sentença, sem impugnação dos autores. Moras das vendedoras entre 30/1/ 2013 e 25/ 11/ 2013.
+3 . Danos materiais. Indenização por danos materiais e multa contratual. Manutenção apenas da multa. Cláusula penal de prefixação dos danos. Art. 416, p. único do CC. Impossibilidade de cumulação, sob pena de bis in idem. Precedentes. Pedido dos autores não acolhido.
+4 . Correção monetária. Manutenção do índice contratualmente pactuado. Inadmissibilidade do congelamento do saldo do preço no que tange à correção monetária. Mera reposição da moeda. Súmula 163 do TJSP. Pedido da ré acolhido.
+5 . Danos morais. Não configuração quanto ao atraso das obras. Simples inadimplemento contratual que não configura abalo psicológico e emocional para indenização moral. Precedentes. Exclusão da condenação. Pedido da corré acolhido.
+Sentença parcialmente reformada. Recurso dos autores não provido. Recurso da ré parcialmente provido. (e-STJ, fl. 406).
+Os embargos de declaração foram rejeitados (e-STJ, fls. 497/498).
+Inconformados, ALEXANDRE e outra interpuseram recurso especial, com fundamento no art. 105, a e c, da CF, alegando violação dos arts. 389 e 402 do Código Civil e art. 43, II, da Lei 4.591/64.
+Sustentaram, em síntese, (1) que seria cabível a cumulação da multa contratual, estabelecida unilateralmente pelas recorridas, com os lucros cessantes e danos emergentes; (2) que seria devida compensação pelos danos morais sofridos.
+Após transcorrer in albis o prazo para apresentação das contrarrazões, o recurso foi admitido na origem (e-STJ, fls. 599 e 594/596).
+Em decisão monocrática de minha relatoria, conheci parcialmente do recurso e, nessa extensão, dei-lhe provimento, a fim de reconhecer a validade da cumulação da multa contratual com os danos emergentes e lucros cessantes, arbitrados em 0,5% (meio por cento) do valor do imóvel a cada mês de privação da posse da unidade habitacional, mantidos os ônus de sucumbência (e-STJ, fls. 609/614).
+No presente recurso aclaratório, ALEXANDRE e outra alegaram a existência de omissão no julgado, que deixou de se manifestar acerca (1) dos danos emergentes, que devem corresponder aos valores despendidos pelos proprietários com aluguéis e com os condomínios do imóvel em que foram obrigados a continuar morando enquanto estiveram privados da posse do imóvel adquirido da embargada; e, (2) da redistribuição dos ônus da sucumbência, que, com o provimento do apelo especial, devem recair integralmente sobre os recorridos, majorando-se os honorários advocatícios, nos termos da legislação processual em vigor, conforme o art. 85, § 11, do NCPC (e-STJ, fls. 618/621).
+Foi apresentada impugnação (e-STJ, fls. 625/628).
+Intimados, ALEXANDRE e outra insistiram no julgamento dos presentes embargos.
+É o relatório.
+DECIDO.
+Tendo em vista as razões lançadas no recurso aclaratório de ALEXANDRE e outra, e a impugnação apresentada por [NOME] GALVÃO, (e-STJ, fls. 618/621 e 625/628), e, em juízo de retratação, reconsidero a decisão de e-STJ, fls. 609/614, tornando-a sem efeito.
+Passo a novo exame do apelo especial.
+Trata-se de recurso especial interposto por ALEXANDRE e outra, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça de São Paulo.
+O recurso especial discute, entre outras questões, a possibilidade ou não de cumulação da indenização por lucros cessantes com a cláusula penal, nos casos de inadimplemento do vendedor em virtude do atraso na entrega imóvel em construção objeto de contrato ou promessa de compra e venda, matéria afetada pelo Ministro LUIS FELIPE SALOMÃO, sob o rito dos Recursos Representativos de Controvérsia, à Segunda Seção do Superior Tribunal de Justiça nos autos dos Resps nº 1.635.428/SC e 1.498.484/DF, vinculado aos Temas 971 e 970).
+Assim, é imperiosa a devolução dos autos ao Tribunal de origem, para observância da sistemática dos recursos repetitivos, consoante determina o art. 256, L, inciso I, do Regimento Interno do Superior Tribunal de Justiça, a saber:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Nessas condições, DETERMINO a devolução dos autos à Corte de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia, o apelo especial: I) tenha seguimento denegado na hipótese do acórdão recorrido coincidir com a orientação do Superior Tribunal de Justiça; II) seja novamente examinado pelo Tribunal a quo, caso o aresto hostilizado divirja do entendimento firmado nesta Corte (art. 1.040, I e II, do NCPC).
+Publique-se. Intimem-se.
