@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado de Minas Gerais no julgamento do HC n. 1.0000.17.100083-9/000.
+Extrai-se dos autos que o recorrente foi preso em flagrante em 14/10/2017 pela suposta prática do delito tipificado no art. 33, § 1º, inciso II, da Lei n. 11.343/06 (tráfico de entorpecentes). Referida custódia foi convertida em preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado, in verbis:
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. CONVERSÃO DE OFÍCIO DA PRISÃO EM FLAGRANTE EM PREVENTIVA. POSSIBILIDADE. PROVA DA MATERIALIDADE. INDÍCIOS DE AUTORIA. GARANTIA DA ORDEM PÚBLICA. PENA MÁXIMA COMINADA SUPERIOR A QUATRO ANOS. CUSTÓDIA CAUTELAR LEGALMENTE AUTORIZADA. CONSTRANGIMENTO ILEGAL NÃO DEMONSTRADO. ORDEM DENEGADA.
+- O art. 310, inciso II, do Código de Processo Penal, autoriza o juiz a converter a prisão em flagrante em preventiva, sem prévia oitiva dos legitimados constantes do art. 311, do Código de Processual Penal.
+- Fundamentada e demonstrada a necessidade da custódia cautelar do paciente, não há falar em constrangimento ilegal. (fl. 81).
+No presente recurso, aduz haver nulidade processual, porquanto não houve representação da autoridade policial ou requerimento acusatório para decretação de prisão preventiva.
+Alega ausência dos requisitos autorizadores da custódia cautelar previstos no art. 312 do Código de Processo Penal - CPP. Aponta que a imposição da custódia cautelar não estaria suficientemente justificada e pautada exclusivamente na gravidade abstrata do delito. Invoca o princípio da presunção de inocência.
+Ressalta a presença de condições pessoais favoráveis e assevera ser suficiente, no caso concreto, a aplicação de medida alternativa ao cárcere insculpida no art. 319 do CPP.
+Pondera que a manutenção da custódia cautelar seria desproporcionalmente severa, à luz dos enunciados da Súmula 440 do Superior Tribunal de Justiça e das Súmulas 718 e 719 do Supremo Tribunal Federal.
+Pugna, assim, em liminar e no mérito, pela revogação da prisão preventiva, possibilitando o direito de aguardar em liberdade o trânsito em julgado de eventual condenação.
+Indeferida a liminar (fls. 120/121), o Ministério Público Federal opinou pelo desprovimento do recurso (fls. 127/131).
+É o relatório.
+Inicialmente, busca o recorrente o relaxamento da prisão preventiva por suposta nulidade absoluta em sua decretação, ao argumento de que sua decretação se deu de ofício, à míngua de representação da autoridade policial ou de requerimento da acusação.
+Constata-se que não houve decretação, de ofício, de custódia preventiva pelo Magistrado, mas, sim, conversão da prisão em flagrante em segregação cautelar.
+Com efeito, "comunicado acerca da prisão em flagrante (art. 306 do Código de Processo Penal - CPP), deve o Magistrado decretar a prisão preventiva, caso verifique a legalidade do cárcere e a inviabilidade de substituição por medida diversa, se reconhecer a existência dos requisitos preconizados nos arts. 312 e 313 da mesma norma, inexistindo, nesse ato, qualquer ilegalidade" (RHC 66.497/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 11/3/2016).
+Assim, não há falar em constrangimento ilegal, no particular.
+Noutro giro, em consulta à página eletrônica do Tribunal de origem, constata-se a superveniência, em 21/5/2018, de sentença condenatória nos autos da Ação Penal n. 0074321-08.2017.8.13.0637. Todavia, não é possível aferir o teor do julgado.
+É cediço que esta Quinta Turma firmou posicionamento no sentido de que a manutenção da custódia cautelar por ocasião de sentença condenatória superveniente não possui o condão de tornar prejudicado o writ em que se busca sua revogação, quando não agregados novos e diversos fundamentos ao decreto prisional primitivo. Nesse sentido: RHC 53.194/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/03/2016, DJe 28/03/2016.
+O entendimento revela-se substancialmente claro: a superveniência de sentença condenatória que mantém a prisão cautelar constitui título novo, que substitui - e supera - o decreto prisional impugnado mediante habeas corpus, exceto se o Magistrado sentenciante não adota fundamentos novos e diversos daqueles apresentados por ocasião da decretação da segregação preventiva.
+In casu, a manutenção da custódia cautelar afigura-se verossímil, pois verifica-se do andamento processual a expedição de guia de execução provisória da pena imposta.
+Todavia, não há como aferir se a segregação antecipada foi mantida sem a adoção de novos e diversos fundamentos para a cautela - requisito indispensável ao prosseguimento do recurso que busca revogá-la, diante da notícia da produção de novo título judicial que examinou a necessidade de manutenção da constrição.
+Tratando-se o habeas corpus de rito célere, no qual não se admite a dilação probatória e cuja devida instrução compete ao impetrante, a este incumbiria, diante da superveniência de fato novo, a diligência de acostar aos autos o novo título judicial produzido no feito principal, a fim de demonstrar que o aludido julgado não tem o condão de afastar, no caso concreto, a impugnabilidade da decisão combatida pelo presente reclamo.
+Constatado o silêncio do recorrente, que inclusive interpôs apelação defensiva nos autos principais, afigura-se forçoso entender pela perda, quanto ao ponto, de objeto do presente recurso em habeas corpus, diante da prolação de novo título.
+Por adotar idêntico raciocínio, faço menção à recente decisão prolatada nos autos do RHC n. 63.337/MG, Rel. Ministro GURGEL DE FARIA, Quinta Turma, DJe 5.2.2016.
+Ante o exposto, nego provimento ao presente recurso em habeas corpus.
+Publique-se.
+Intimem-se.
