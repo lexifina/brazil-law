@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo (art. 544 do CPC/1973) interposto por TELEMAR NORTE LESTE S.A. - EM RECUPERAÇÃO JUDICIAL em face da decisão proferida pela Corte de origem, que inadmitiu o recurso especial pela incidência da Súmula n. 83/STJ.
+O apelo nobre, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 798-809, proferido pelo Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado:
+PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO. PRELIMINAR DE NÃO CONHECIMENTO DO RECURSO POR FALTA DE
+REGULARIDADE FORMAL, SUSCITADA PELA PARTE RÉ. APELO QUE ATACA FRONTALMENTE OS FUNDAMENTOS DA SENTENÇA. REJEIÇÃO. MÉRITO: EXTINÇÃO DO PROCESSO, SEM RESOLUÇÃO DO MÉRITO, POR FALTA DE INTERESSE SE AGIR (ARTS. 267, VI, CPC/1973). CONTRATO DE PARTICIPAÇÃO INANCEIRA. PRESTAÇÃO DE SERVIÇOS DE TELEFONIA FIXA. PRETENSÃO FUNDADA NA RETRIBUIÇÃO ACIONÁRIA E EFEITOS PATRIMONIAIS DECORRENTES. RELAÇÃO DE CONSUMO CONFIGURADA. APLICAÇÃO DO CDC (ARTS. 47 E 54). DEMONSTRAÇÃO DE REQUERIMENTO FORMAL PROTOCOLADO JUNTO À RÉ. AUSÊNCIA DE RESPOSTA. PAGAMENTO DE TAXA DE SERVIÇO (ART. 100, LEI Nº 6.404/76) NECESSÁRIO PARA FINS DE CONFIGURAÇÃO DO INTERESSE DE AGIR QUANDO EXIGIDO PELA EMPRESA DEMANDADA. SITUAÇÃO NÃO PREVISTA NA ESPÉCIE. JURISPRUDÊNCIA DO STJ. ANULAÇÃO DA SENTENÇA. CONHECIMENTO E PROVIMENTO DO RECURSO.
+Nas razões de recurso especial, a insurgente afirma que houve violação dos arts. 100 da Lei n. 6.404/1976, e 485, VI, do CPC/1973, além de acenar com dissídio jurisprudencial, quanto ao decidido no REsp n. 982.133/RS, sob o rito dos recursos repetitivos.
+Sustentou que os recorridos não diligenciaram no sentido de atender aos requisitos previstos no art. 100, § 1º, da Lei n. 6.404/1976.
+Em juízo provisório de admissibilidade (fls. 843-845), o Tribunal de origem negou seguimento ao recurso em razão da incidência do teor da Súmula n. 83/STJ.
+Daí o agravo (fls. 847-855), no qual a agravante buscou a reforma da decisão impugnada, lançando argumentações no sentido de destrancar o processamento daquela insurgência.
+É o relatório.
+Decide-se.
+O recurso não merece prosperar.
+1. Acerca da matéria em debate, a Segunda Seção do Superior Tribunal de Justiça, ao analisar o Recurso Especial repetitivo n. 982.133/RS, Rel. Ministro ALDIR PASSARINHO JUNIOR, DJe 22/09/2008, firmou entendimento no sentido de que, nas ações em que se postula a obtenção de documentos referentes a dados societários, para a caracterização do interesse de agir, é necessário demonstrar a ocorrência de requerimento formal, na via administrativa, bem como o comprovante de pagamento da taxa de serviço, quando a empresa o exigir (art. 100, § 1º, da Lei n. 6.404/1976), nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTO. RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. FORNECIMENTO DE DOCUMENTOS COM DADOS SOCIETÁRIOS. RECUSA. RECURSO À COMISSÃO DE VALORES MOBILIÁRIOS. LEI N. 6.404/1976, ART. 100, § 1º. AUSÊNCIA DO COMPROVANTE DE RECOLHIMENTO DA "TAXA DE SERVIÇO". RECURSO ESPECIAL REPETITIVO. LEI N. 11.672/2008. RESOLUÇÃO/STJ N. 8, DE 07.08.2008. APLICAÇÃO.
+I. Falta ao autor interesse de agir para a ação em que postula a obtenção de documentos com dados societários, se não logra demonstrar: a) haver apresentado requerimento formal à ré nesse sentido; b) o pagamento pelo custo do serviço respectivo, quando a empresa lhe exigir, legitimamente respaldada no art. 100, parágrafo, 1º da Lei 6.404/1976.
+II. Julgamento afetado à 2a. Seção com base no Procedimento da Lei n. 11.672/2008 e Resolução/STJ n. 8/2008 (Lei de Recursos Repetitivos).
+III. Recurso especial não conhecido.
+(REsp 982.133/RS, Rel. Ministro ALDIR PASSARINHO JUNIOR, SEGUNDA SEÇÃO, julgado em 10/09/2008, DJe 22/09/2008).
+
+A matéria, encontra-se inclusive cristalizada no Enunciado Sumular n. 389/STJ, in verbis:
+A comprovação do pagamento do custo do serviço referente ao fornecimento de certidão de assentamentos constantes dos livros da companhia é requisito de procedibilidade da ação de exibição de documentos ajuizada em face da sociedade anônima.
+Depreende-se, contudo, da leitura do acórdão recorrido que foi formulado o referido pedido sem que, no entanto, fossem apresentados os documentos requeridos, e que a requerida, ora recorrente, não exigiu o recolhimento da taxa administrativa. Confira-se (fl. 807):
+Noutro pórtico, outro fundamento que merece realce diz respeito à necessidade da comprovação, pela parte autora, para fins de configuração do interesse de agir, de dois itens: 1) haver apresentado requerimento formal à sociedade para obtenção de dados, e 2) pagar o custo do serviço, se assim for exigido. No entender da MM. Juíza sentenciante, somente a existência conjunta de tais requisitos poderia caracterizar o interesse de agir dos autores.
+No tocante ao requerimento formal, verifica-se que os ora recorrentes cuidaram em fazê-lo (fls. 10, 14, 19, 24, 29, 34, 39, 44), por meio dos quais solicitaram a emissão da segunda via dos contratos de participação financeira firmados com a entidade demandada.
+Quanto ao segundo requisito - pagamento do custo do serviço, verifica-se, da análise do art. 100, §1º, da Lei 6.404/1976, que este ônus somente poderá ser tido como indispensável à caracterização do interesse da parte, se exigido por parte da empresa prestadora de serviços telefônicos, o que não ocorreu.
+O acórdão impugnado está, portanto, fundamentado no quadro fático singular formado na presente demanda, e que expressamente consignou que a recorrida não exigiu o pagamento do curso do serviço, logo, não há que se falar na alegada violação legal, nos termos do entendimento firmado no REsp n. 982.133/RS.
+Ademais, revisão do aresto impugnado no sentido pretendido pela recorrente exigiria derruir a convicção formada nas instâncias ordinárias sobre a existência pedido formulado nos termos legais.
+Essas medidas não são possíveis pela via estreita do recurso especial, conforme o enunciado da Súmula 7/STJ: A pretensão de simples reexame de prova não enseja recurso especial.
+2. Do exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
