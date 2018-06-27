@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de MILTON PINO BLANDON contra acórdão do Tribunal de Justiça do Estado de São Paulo (HC n. 2045179-93.2018.8.26.0000).
+Consta dos autos que o paciente foi preso em flagrante em 14/12/2017 (prisão convertida em preventiva), e denunciado como incurso nos artigos 288, caput, do Código Penal; art. 299, caput, do Código Penal, e art. 4º, "a", da Lei nº 1.521/51 (por ao menos trinta vezes, em continuidade delitiva), todos na forma do artigo 69, do Código Penal (e-STJ fl. 950).
+Inconformada, a defesa impetrou habeas corpus na Corte superior alegando, em síntese, que o Paciente está sofrendo constrangimento ilegal porque teve a prisão em flagrante convertida em preventiva em decisão carente de fundamentação idônea, sem que estivessem presentes os seus pressupostos e fundamentos, e porque a decisão se baseia em argumentos genéricos e abstratos, sem a demonstração concreta da necessidade da custódia cautelar (e-STJ fl. 23). O Tribunal de origem, contudo, indeferiu liminarmente o writ (e-STJ fls. 20/24).
+Na presente oportunidade, os impetrantes reiteram a ausência de fundamentação do decreto prisional e ausência dos requisitos autorizadores da medida cautelar extrema, bem como discute a autoria e a materialidade do crime.
+Narra a inicial que a defesa impetrou um primeiro habeas corpus, do qual os impetrantes alegam não ter acesso (processo n. 2249997-41.2017.8.26.0000) e que a ordem foi denegada. Posteriormente, a defesa manejou o mandamus ora impugnado (processo n. 2045179-93.2018.8.26.0000), que foi negado seguimento liminarmente por se tratar de mera repetição de impetração anterior (e-STJ fls. 23/24):
+No mais, verifico que em impetração anterior (HC nº 2249997-41.2017.8.26.0000) já foi analisada a higidez da custódia, com o indeferimento da liminar e denegação da ordem, de modo que o presente "writ" constitui mera repetição. E como não há fato novo apto a modificar a decisão proferida no "Habeas" anterior, não se pode conhecer do novo pedido.
+4. Assim, por se tratar de repetição de pedidos já formulados, a impetração não pode ser conhecida, pelo que resolvo negar seguimento liminarmente ao "Habeas Corpus", com fundamento no artigo 168, § 3º, do Regimento Interno do Tribunal de Justiça do Estado de São Paulo.
+Ante o exposto, pede, liminarmente e no mérito, a concessão da liberdade provisória em favor do paciente.
+Indeferida a liminar (e-STJ fls. 1.087/1.090) e prestadas as informações (e-STJ fls. 1.095/1.101 e 1.104/1.118), o Ministério Público Federal manifestou-se pela prejudicialidade do mandamus (e-STJ fl. 1.120).
+É o relatório. Decido.
+Consoante alertado pelo próprio impetrante (e-STJ fls. 1.122/1.125), o Juízo processante, em 4/6/2018, concedeu a liberdade provisória ao paciente.
+Nesse contexto, fica sem objeto o pedido contido na inicial que se insurgia contra a custódia cautelar do paciente.
+Ante o exposto, com base no art. 34, incisos XI e XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente mandamus.
+Publique. Intime-se.
