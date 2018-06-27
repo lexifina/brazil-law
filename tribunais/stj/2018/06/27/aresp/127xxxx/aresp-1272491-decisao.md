@@ -1,0 +1,29 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DECLARATÓRIA DE NULIDADE. CONSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. VIOLAÇÃO DOS ARTS. 165 E 458, II, DO CPC. INOCORRÊNCIA.
+1. O acórdão que adota orientação firmada pela jurisprudência do STJ não merece reforma.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts. 165 e 458, II, do CPC.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por [NOME] e ANADIR REGINA GRACA [NOME] contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 01/09/2017.
+Concluso ao gabinete em: 26/04/2018.
+Ação: declaratória de nulidade ajuizada pelos agravantes contra MARIA STELLA AMARAL RIBEIRO [NOME] - ESPÓLIO, [NOME], MARIA RITA RIBEIRO [NOME] e [NOME], na qual alegam nulidade da partilha homologada nos autos de inventário nº 159/2008, uma vez que ela contemplou cessão de direitos hereditários pelo autor aos demais herdeiros, sem a observância da formalidade legal exigida, nem a sua anuência.
+Sentença: julgou extinto o processo, sem resolução do mérito, com fundamento no art. 267, VI, do CPC. Honorários fixados em 10% sobre o valor da causa.
+Acórdão: negou provimento ao recurso de apelação interposto pelos agravantes, nos termos da seguinte ementa (e-STJ 856):
+Partilha Ação declaratória de nulidade. Ainda que a sentença tenha se limitado a homologar a partilha, o feito possuía caráter litigioso e dependia de julgamento, não havendo, de tal modo, partilha amigável. Considerada a partilha amigável, dependente de mera homologação, o prazo para o ajuizamento da ação estaria prescrito. É importante ressaltar que os autores participaram da partilha e deixaram de interpor recurso em momento oportuno, em princípio, conformando-se com o decidido. Ao que se depreende da inicial, a insurgência dos autores dirige-se ao procedimento e à preterição de formalidades legais, hipótese na qual caberia o ajuizamento de ação rescisória e não de anulatória. Recurso não provido.
+Embargos de declaração: opostos pelos agravantes, foram rejeitados.
+Recurso especial: alegam violação do inciso II do artigo 80; inciso III do artigo 104; incisos IV, V e VI, do artigo 166; artigo 168; artigo 169; artigo 182; artigo 1.784; e artigo 1.793, todos do Código Civil; e dos artigos 108; 128, 460, 458, 486; 982 e seguintes; e artigos 1.022, 1.023, 1.024, e 1.026, todos do Código de Processo Civil de 1973 (artigos 61, 141, 489, 492, 966, 610 e seguintes, 647, 651, 652 e 654 do CPC/15). Defendem o cabimento da ação anulatória, uma vez que a decisão impugnada equivaleria a um "ato judicial-administrativo" de conteúdo exclusivamente homologatório, visto que nele não se emitiu qualquer juízo de valor acerca da discordância manifestada pelos agravantes aos termos da partilha. Sustentam a ocorrência de julgamento além do pedido, sob o fundamento de que a questão relativa à natureza da sentença proferida nos autos do inventário não constituiu ponto controvertido pelas partes, sendo vedado ao juiz conhecê-lo de ofício por não envolver matéria de ordem pública. Aduzem, ainda, a imprescritibilidade da pretensão deduzida, relativo à hipótese de nulidade absoluta e não mera anulabilidade, além de acrescentar que a sentença que homologou a partilha, de qualquer modo, seria nula, por falta dos requisitos previstos art. 458 do CPC/73.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 568/STJ
+O TJ/SP, ao concluir que "Ao analisar a natureza da partilha, o juiz decidiu sobre questão relevante ao julgamento do feito, não havendo ofensa ao princípio da congruência ou prolação de decisão que ultrapasse os limites da lide", alinhou-se ao entendimento do STJ quanto à matéria. Nesse sentido: AgInt no AREsp 1178143/SP, Terceira Turma, DJe de 17/04/2018 e AgInt no AREsp 1016042/MG, Quarta Turma, DJe de 25/04/2018.
+- Do reexame de fatos e provas
+No julgamento do recurso de apelação interposto pelos agravantes, com relação à natureza da partilha, se judicial ou amigável, o TJ/SP entendeu o seguinte (e-STJ fls. 858/859:
+Na espécie, ainda que a sentença tenha homologado a partilha, o feito possuía caráter litigioso e dependia de julgamento, não havendo de tal modo partilha amigável, pouco importando aqui as questões relacionadas à eventual usucapião de área por um dos herdeiros em detrimento dos demais, ou mesmo o pagamento de alugueres por uso exclusivo, a serem tratados, como aparentemente já se faz, em autos próprios.
+Anoto que, considerada a partilha amigável, dependente de mera homologação, o prazo para o ajuizamento da ação estaria prescrito. (CC 2027).
+É importante ressaltar também que os autores participaram da partilha e deixaram de interpor recurso em momento oportuno, em princípio, conformando-se com o decidido.
+Desse modo, alterar o decidido no acórdão impugnado, quanto ao referido ponto, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+ - Da violação dos arts. 165 e 458, II, do CPC/73
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts. 165 e 458, II, do CPC/73.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, a , do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Publique-se. Intimem-se.
