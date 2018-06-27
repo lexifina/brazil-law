@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se, na origem, de Agravo de Instrumento da FAZENDA NACIONAL contra decisão que determinou o desbloqueio dos valores constritos mediante BACENJUD em razão da adesão da contribuinte à parcelamento fiscal.
+O Tribunal de origem, ao apreciar a controvérsia, manteve a decisão agravada ao fundamento de que "a adesão ao parcelamento gera a suspensão da exigibilidade do crédito tributário, devendo-se efetuar o desbloqueio dos valores penhorados via BACENJUD" (fl. 102e).
+Eis a ementa do acórdão, proferido sob a vigência do CPC/2015:
+"TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. ADESÃO A PROGRAMA DE PARCELAMENTO. PENHORA DE BENS PELO CONVÊNIO BACENJUD. DESBLOQUEIO. POSSIBILIDADE. PRECEDENTES DESTE TRIBUNAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A adesão do executado a programa de parcelamento gera a suspensão da exigibilidade do crédito tributário, de modo que não mais se justifica a manutenção de bloqueio de valores por meio do Convênio BACENJUD. Precedentes do TRF da 1ª Região.
+2. Agravo regimental não provido" (fl. 100e).
+Irresignada, a FAZENDA NACIONAL apresenta Recurso Especial apontando violação aos arts. 1.022 do CPC/2015 e 151 do CTN, sustentando, em síntese, além de negativa de prestação jurisdicional, que o bloqueio de valores realizado via BACENJUD ocorrido anteriormente à celebração do acordo deve ser mantido, uma vez que não teria o condão de afastar a constrição efetivada.
+Apresentadas contrarrazões às fls. 149/155e, o Recurso Especial foi admitido às fls. 157/158e.
+A irresignação merece acolhimento.
+Com efeito, na forma da jurisprudência desta Corte Superior a adesão a programa de parcelamento não tem o condão de desconstituir a constrição realizada previamente, uma vez que, apesar de suspender a exigibilidade do crédito tributário, não extingue a obrigação.
+Nesse sentido:
+"TRIBUTÁRIO. ADESÃO AO PARCELAMENTO. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. NÃO DESCONSTITUIÇÃO DA CONSTRIÇÃO VIA BACENJUD. CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.
+I - Como a decisão recorrida foi publicada sob a égide da legislação processual civil anterior, observam-se em relação ao cabimento, processamento e pressupostos de admissibilidade dos recursos, as regras do Código de Processo Civil de 1973, diante do fenômeno da ultratividade e do Enunciado Administrativo n. 2 do Superior Tribunal de Justiça.
+II - A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que a adesão ao regime de parcelamento, por não extinguir a obrigação, possui o efeito de suspender a exigibilidade do crédito tributário, porém não tem o condão de desconstituir a constrição eletrônica previamente realizada via sistema BACENJUD. Nesse sentido: AgInt no REsp 1614946/DF, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 21/03/2017, DJe 29/03/2017; AgInt no REsp 1591503/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/12/2016, DJe 02/02/2017.
+III - Agravo interno improvido" (STJ, AgInt no AREsp 1.1257.42/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 10/04/2018).
+"PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. PENHORA DE DINHEIRO MEDIANTE UTILIZAÇÃO DO SISTEMA BACENJUD. POSTERIOR ADESÃO A PARCELAMENTO. LIBERAÇÃO DOS VALORES BLOQUEADOS. IMPOSSIBILIDADE.
+1. O Tribunal de origem consignou: "Possível, destarte, a garantia do juízo, mesmo após a celebração e início de cumprimento do acordo de parcelamento, até porque a penhora não implica em ato de disposição, vedado, somente, qualquer ato que importe alienação dos bens penhorados, como o leilão e a adjudicação"(fl. 88,e-STJ).
+2. O acórdão recorrido está em consonância com a jurisprudência do STJ no sentido de que a suspensão da exigibilidade decorrente de parcelamento mantém a relação jurídica processual no estado em que ela se encontra (isto é, se inexiste penhora, a suspensão do feito obsta a realização posterior de medidas constritivas, ao menos enquanto o parcelamento estiver vigendo; de outro lado, medidas de constrição já efetivadas deverão ser preservadas até a integral quitação ou eventual rescisão do parcelamento, por inadimplência).
+3.. Recurso Especial não provido" (STJ, REsp 1.701.820/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017).
+Dessa forma, de rigor a reforma do acórdão recorrido, que está em conflito com a jurisprudência desta Corte Superior.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao Recurso Especial, para dar provimento ao Agravo de Instrumento e cassando a decisão agravada na origem, determinar a manutenção da constrição realizada via BACENJUD.
+I.
