@@ -1,0 +1,21 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. HONORÁRIOS ADVOCATÍCIOS. VALOR IRRISÓRIO. MAJORAÇÃO.
+1. São irrisórios os honorários advocatícios fixados em patamar inferior a 1% sobre o valor da causa. Precedentes.
+2. Agravo conhecido. Recurso especial conhecido e provido.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por COOPERATIVA AGRÍCOLA MISTA DE ADAMANTINA, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e/ou "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 29/09/2017.
+Concluso ao gabinete em: 12/03/2018.
+Ação: embargos à execução opostos por [NOME] em face da agravante, na qual alegou o embargante a necessidade de suspensão da execução, em virtude de a empresa AGRAL S/A, da qual figura como sócio, e que integra o grupo econômico ARALCO, encontra-se em recuperação judicial. Aduziu ainda que o crédito da embargada é concursal e está sujeito aos efeitos da recuperação judicial, foi novado, sendo substituída a obrigação determinada no Plano de Recuperação.
+Sentença: julgou improcedentes os embargos, com resolução de mérito, nos termos do artigo 269, I, do CPC. Condenou ao pagamento de custas e honorários, estes fixados em R$ 500,00 (quinhetos reais).
+Acórdão: negou provimento ao recurso interposto pelo embargante e deu parcial provimento ao recurso interposto pela embargada apenas para majorar o honorários para R$ 1.500,00 (um mil e quinhentos reais), conforme a seguinte ementa:
+Embargos à execução - Notas promissórias rurais - Aprovação de Plano de Recuperação Judicial da empresa executada com determinação de suspensão do curso das ações e execuções contra a empresa executada - Pedido de extinção ou suspensão da execução em relação ao avalista em razão de recuperação judicial da devedora principal - Hipótese em que o plano de recuperação judicial que vincula o devedor e os credores a ele sujeitos não atinge os direitos do credor em relação aos coobrigados (avalista) - Inteligência dos artigos 49, § Io, e 59 da Lei nº 11.101/2005- Competência do Juízo Recuperacional para a tramitação da execução - Inocorrência - Execução singular contra o devedor segue perante o Juízo originário - Fixação da verba honorária em valor ínfimo - Majoração necessária,nos termos do §4º do art. 20 do CPC/73 (NCPC, art. 85,§8º) - Sentença parcialmente reformada - Litigância de má-fé não caracterizada - Recurso do embargante desprovido,parcialmente provido o da embargada.
+Embargos de Declaração: opostos pelo agravado, foram acolhidos, sem efeito modificativo, assim ementado:
+Recurso - Embargos de declaração - Omissão existente - Novação da dívida por força do Plano de Recuperação Judicial que não atinge os coobrigados, que permanecem responsáveis pelo valor originário do débito - Embargos de declaração acolhidos, sem efeito modificativo.
+Recurso especial - COOPERATIVA AGRÍCOLA MISTA DE ADAMANTINA: afirma que houve violação do art. 85, §§2º, I, III e IV, 8º, do CPC, bem como dissídio jurisprudencial. Assevera que o valor arbitrado a título de honorários advocatícios configura-se irrisório, tendo em vista que o Tribunal de origem majorou montante, contudo, este representa apenas 0,32% do valor do crédito em discussão.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Do valor dos honorários advocatícios
+A jurisprudência do STJ tem considerado irrisórios os honorários fixados em patamar inferior a 1% sobre o valor da causa. Nesse sentido: REsp 1.601.556/RJ (3ª Turma, DJe de 20/06/2016) e AgRg no REsp 1.150157/DF (4ª Turma, DJe 19/09/2016).
+Na hipótese dos autos, o TJ/SP arbitrou os honorários em R$ 1.500,00 (um mil e quinhentos reais), montante correspondente a aproximadamente 0,33% do valor da causa, qual seja, R$ 458.374,16 (quatrocentos e cinquenta e oito mil, trezentos e setenta e quatro reais e dezesseis centavos). Razoável, portanto, a fixação dos honorários em 1% sobre o valor atualizado da causa.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, V,  a , do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para fixar os honorários advocatícios em 1% (um por cento) do valor atualizado da causa.
