@@ -1,0 +1,53 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso em mandado de segurança interposto por [NOME] e [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado do Amazonas, assim ementado (e-STJ, fl. 325):
+DIREITO CONSTITUCIONAL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. NOMEAÇÃO. APROVADOS. NÚMERO DE VAGAS. PRAZO DE VIGÊNCIA. PRETERIÇÃO. INEXISTÊNCIA. NOMEAÇÃO POR ORDEM JUDICIAL.
+I - Dentro do prazo de validade do concurso público, cabe à Administração Pública, pelo exercício de seu poder discricionário, definir o momento oportuno e conveniente para nomear candidato aprovado dentro do número de vagas previsto no edital.
+II - Quando a nomeação de candidatos aprovados em classificação ulterior se origina por decisão judicial, inexiste preterição a justificar direito líquido e certo à nomeação do aprovado em posição anterior, consoante precedentes do STJ.
+III - Segurança denegada.
+Os recorrentes afirmam que foram aprovados, dentro do número de vagas previstas no edital, no concurso público para a Prefeitura Municipal de Iranduba/AM, regido pelo Edital n. 2/2011.
+Sustentam existência de direito líquido e certo à nomeação em virtude da demora da administração pública em realizar a convocação dos candidatos aprovados e da nomeação de candidatos, por meio de decisão judicial, classificados em posições posteriores aos impetrantes.
+Sem contrarrazões.
+O Ministério Público Federal opina pelo não provimento do recurso ordinário (e-STJ, fls. 382/386).
+É o relatório.
+O Tribunal de origem denegou a segurança, no que interessa, sob os seguintes fundamentos (e-STJ, fls. 328/330):
+Nesse diapasão, de acordo com as provas carreadas ao caderno processual, certo é que os impetrantes foram aprovados e classificados dentro do número de vagas previsto no edital para seus respectivos cargos, quais sejam: [NOME] classificou-se em 28.º lugar para o cargo de vigia - sede, enquanto que o edital previu 101 (cento e uma) vagas, e [NOME] logrou-se classificado em 25.º lugar para o cargo de guarda municipal - sede e o instrumento convocatório do certame previu 44 (quarenta e quatro) vagas.
+Ocorre que, como asseveraram os impetrantes na petição inicial, diante da prorrogação encartada às fls. 255, o prazo de validade do concurso público em questão somente expira em 27/12/2016, razão pela qual, a princípio, não estaria configurado o direito líquido e certo à nomeação, uma vez que, no período de validade do concurso, a Administração Pública pode eleger o momento mais oportuno e conveniente para a prática do mencionado ato administrativo.
+Esse é o sedimentado entendimento esboçado pelo Superior Tribunal de Justiça:
+ ..
+Portanto, cabe à Administração Pública, por exercício de seu poder discricionário, definir o momento mais oportuno e conveniente para nomear candidatos aprovados dentro do número de vagas prevista no edital do concurso enquanto não expirado o prazo de validade.
+ ..
+Nesse senda, é, também, induvidoso que foram nomeados candidatos que obtiveram classificação muito além da que logrou o impetrante [NOME], o que, inclusive, foi confessado na constatação apresentada pelo Município de Iranduba/AM.
+Mas, como se observa do teor do próprio edital que convocou os candidatos em classificação posterior acostado às fls. 263, a autoridade coatora restringiu-se a cumprir determinação judicial constante no Mandado de Segurança n.º 4003047-72.2013.8.04.0000.
+Assim, tem-se que, quando a nomeação de candidatos aprovados em classificação ulterior se origina por decisão judicial, inexiste preterição a justificar direito líquido e certo à nomeação do aprovado em posição anterior.
+Conforme se constata, a pretensão dos recorrentes não foi deferida pela Corte local devido à ausência de direito líquido e certo a ser reconhecido, na medida em que, mesmo tendo sido classificados dentro do número de vagas previsto no edital para os respectivos cargos, ainda não havia se expirado o prazo de validade do certame, ficando a nomeação, até o término desse período, sob a discricionariedade da administração.
+Com efeito, o acórdão de origem não destoa da jurisprudência firmada do STJ de que, no prazo de validade do concurso público, a administração pública possui discricionariedade para realizar as nomeações em atenção à conveniência e à oportunidade.
+Igualmente consolidado o entendimento de que não há falar em preterição de candidato aprovado em concurso público nos casos em que a administração pública, por força de decisão judicial, procede à nomeação de outros candidatos em classificação inferior.
+Por outro lado, o Supremo Tribunal Federal, ao julgar o RE 837.311/PI, da relatoria do Ministro Luiz Fux, sob o rito da repercussão geral, firmou esta orientação (Tema 784):
+O surgimento de novas vagas ou a abertura de novo concurso para o mesmo cargo, durante o prazo de validade do certame anterior, não gera automaticamente o direito à nomeação dos candidatos aprovados fora das vagas previstas no edital, ressalvadas as hipóteses de preterição arbitrária e imotivada por parte da administração, caracterizada por comportamento tácito ou expresso do Poder Público capaz de revelar a inequívoca necessidade de nomeação do aprovado durante o período de validade do certame, a ser demonstrada de forma cabal pelo candidato. Assim, o direito subjetivo à nomeação do candidato aprovado em concurso público exsurge nas seguintes hipóteses:
+I - Quando a aprovação ocorrer dentro do número de vagas dentro do edital;
+II - Quando houver preterição na nomeação por não observância da ordem de classificação;
+III - Quando surgirem novas vagas, ou for aberto novo concurso durante a validade do certame anterior, e ocorrer a preterição de candidatos de forma arbitrária e imotivada por parte da administração nos termos acima.
+Na situação dos autos, de acordo com o citado precedente, verifico assistir razão aos impetrantes, uma vez que o prazo de validade do concurso público em testilha se esgotou durante o trâmite processual deste mandado de segurança, pois o resultado final foi homologado em 27/12/2012, sendo prorrogado por mais 2 anos, ou seja, até 27/12/2016.
+Desse modo, nos termos do entendimento do STF, ultrapassado o prazo de validade do certame sem a nomeação de candidato aprovado dentro do número de vagas, consolida-se o seu direito líquido e certo.
+A propósito:
+ADMINISTRATIVO. CONCURSO PÚBLICO. INVESTIDURA EM RAZÃO DE ORDEM JUDICIAL. PRETERIÇÃO. NÃO OCORRÊNCIA. APROVAÇÃO DENTRO DO NÚMERO DE VAGAS. DIREITO SUBJETIVO. PRAZO DO CERTAME EXAURIDO.
+1. Inexiste preterição quando o candidato em classificação posterior, alicerçado em decisão judicial, alcança provimento antes do melhor classificado no cargo público objeto do concurso público. Precedentes.
+2. Contudo, assiste razão à impetrante quanto ao seu direito subjetivo de tomar posse, pois, como bem destacou o parecer do Parquet Federal, "durante o trâmite processual deste mandado de segurança, esgotou-se o prazo de validade do concurso, uma vez que foi prorrogado, em 12.06.2012, por dois anos. Dessa forma, tendo transcorrido o prazo de validade do concurso sem notícia de nomeação da recorrente, consolidou-se seu direito sujeito à nomeação, conforme orienta a jurisprudência dessa E. Corte Superior".
+3. O candidato aprovado dentro do número de vagas tem direito subjetivo à nomeação, dentro do prazo de validade do certame. Precedentes.
+4. No caso dos autos, o edital do concurso público ofereceu um total de "1.377 (um mil trezentos e setenta e sete) vagas de cargos efetivos com escolaridade de nível superior, nível médio e de nível fundamental, em diversas áreas, para atender, no âmbito da Secretaria de Estado da Saúde, o Hospital Regional de Cacoal", com disponibilidade de 558 (quinhentos e cinquenta e oito) cargos de técnico em enfermagem, e há prova pré-constituída de que a impetrante foi classificada em 375º lugar.
+Recurso ordinário em mandado de segurança provido para determinar a investidura da impetrante no cargo de técnico em enfermagem da Secretaria de Estado de Saúde de Rondônia, vinculando-se ao Hospital Regional de Cacoal.
+(RMS 45.556/RO, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 19/5/2016, DJe 30/5/2016)
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. CONCURSO PÚBLICO. PREVISÃO DE VAGAS EM EDITAL. DIREITO À NOMEAÇÃO DOS CANDIDATOS APROVADOS.
+1. O STF, no julgamento de mérito do RE 598.099/MS, fixou a tese de que, "uma vez publicado o edital do concurso com número específico de vagas, o ato da Administração que declara os candidatos aprovados no certame cria um dever de nomeação para a própria Administração e, portanto, um direito à nomeação titularizado pelo candidato aprovado dentro desse número de vagas" (Tema n. 161/STF).
+2. Hipótese em que o acórdão recorrido está em conformidade com a orientação firmada pelo STF.
+Agravo interno improvido.
+(AgInt no RE nos EDcl no AgRg no AREsp 615.148/PB, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 16/11/2016, DJe 24/11/2016)
+MANDADO DE SEGURANÇA. ADMINISTRATIVO. CONCURSO PÚBLICO. CANDIDATA APROVADA EM PRIMEIRO LUGAR. PREVISÃO EDITALÍCIA DE UMA VAGA. DIREITO SUBJETIVO À NOMEAÇÃO. LIMINAR QUE DETERMINOU A NOMEAÇÃO ANTES DE ESCOADO O PRAZO QUE DETINHA A ADMINISTRAÇÃO. POSTERIOR CONSUMAÇÃO DO PRAZO, NADA OBSTANTE. NECESSIDADE DE CONVALIDAÇÃO. PARECER DO MINISTÉRIO PÚBLICO FEDERAL PELA CONCESSÃO DA ORDEM. ORDEM CONCEDIDA.
+1. Ainda que o concurso em relação ao qual a autora logrou aprovação não tivesse expirado quando da impetração ou do deferimento da medida liminar, máxime diante da prorrogação de sua validade por dois anos, é certo que tal prazo há muito já se esvaiu no momento em que se analisa o mérito deste mandamus, bem como já nomeada e empossada se encontra a impetrante, aprovada em primeiro lugar no certame cujo edital previa uma vaga.
+2. Nos termos da jurisprudência que prevalece nesta Corte, o aprovado dentro do número de vagas tem direito subjetivo à nomeação, dentro do prazo de validade do certame.
+3. Ordem concedida para ratificar a medida liminar, reconhecendo-se o direito subjetivo da impetrante a se manter no cargo a que nomeada por força da referida decisão, de Analista de Gestão em Pesquisa e Investigação Biomédica em Saúde Pública, especialidade Odontologia Clínica.
+4. Prejudicada a análise do Agravo Regimental interposto contra a concessão da medida liminar.
+(MS 18.718/DF, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 28/10/2015, DJe 16/11/2015)
+Ante o exposto, dou provimento ao recurso em mandado de segurança para determinar a nomeação de [NOME] no cargo de Guarda Municipal e de [NOME] no cargo de Vigia, previstos no Edital n. 2/2011 do concurso público para a Prefeitura Municipal de Iranduba/AM.
+Publique-se. Intimem-se.
