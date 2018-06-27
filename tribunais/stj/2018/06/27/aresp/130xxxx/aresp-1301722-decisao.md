@@ -1,0 +1,40 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE IMPUGNAÇÃO AO PEDIDO DE JUSTIÇA GRATUITA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo conhecido. Recurso especial conhecido parcialmente e, nesta parte, negado provimento.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por [NOME] DE [NOME] NUNES, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 06/02/2018.
+Concluso ao gabinete em: 06/06/2018.
+Ação: impugnação ao pedido de justiça gratuita ajuizada pela agravante contra [NOME] LUIS [NOME] e [NOME] SCHEID [NOME], na qual postula o indeferimento do pedido de assistência judiciária gratuita. Afirma que os agravados não fazem jus ao benefício, uma vez que, na época da sua concessão, recebiam em média R$ 8.000,00 (oito mil reais) juntos, não sendo pobres na acepção jurídica.
+Sentença: rejeitou o pedido de impugnação à concessão de justiça gratuita formulado na inicial, por não haver desaparecido os requisitos necessários para a permanência do benefício.
+Acórdão: negou provimento à apelação interposta pela parte agravante a fim de reformar a sentença para acolher o pedido de impugnação à Gratuidade Judiciária, conforme ementa que segue:
+IMPUGNAÇÃO À ASSISTÊNCIA JUDICIÁRIA GRATUITA - COMPROVAÇÃO DA NECESSIDADE - DECISÃO MANTIDA RECURSO DESPROVIDO.
+O Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recurso. Inteligência do art. 5º, LXXIV, da Constituição Federal.
+A aplicação do art. 4º, da Lei no 1060/50, não deve ocorrer de forma absoluta e irrestrita, merecendo ser alvo de interpretação sistemática e teleológica, para que em situações excepcionais seja relativizado, como forma de impedir o abuso do direito.
+Cabe ao julgador examinar a razoabilidade da concessão da gratuidade da justiça, considerando para tanto os elementos que evidenciam a condição de necessidade do beneficiário.
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos artigos 489, § 1º e 1.022, ambos do CPC/15. Afirma que as cópias das declarações de Imposto de Renda juntadas aos autos comprovam que os agravados possuem renda mensal de aproximadamente R$ 8.000,00 (oito mil reais), além de inúmeros bens móveis e imóveis, bem como de cotas capitais em diversas empresas. Aduz, ainda, que o patrimônio deles é somado em mais de R$ 450.000,00 (quatrocentos e cinquenta mil reais). Assim, sustenta que o Tribunal não apreciou as obscuridades alegadas, já que se limitou a repetir que a CTPS e a certidão de nascimento de dois filhos comprovariam a situação de miserabilidade dos agravados em detrimento das declarações de Imposto de Renda.
+É O RELATÓRIO, DECIDO.
+Julgamento: aplicação do CPC/2015.
+ - Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+ No acórdão recorrido não há omissão, contradição ou obscuridade. Em relação à tese sustentada pela agravante de que o Tribunal não apreciou as obscuridades apontadas a respeito da situação de miserabilidade dos agravados, o acórdão recorrido consignou que (e-STJ, fls. 172/173):
+O magistrado a quo rejeitou a impugnação, por entender que a [NOME] não se desincumbiu do ônus de provar o alegado de que os impugnados possuem condições de plenas condições de arcar com custas sem prejuízo das suas próprias subsistências". (..) "É cediço que deve ser amparado pelo benefício aquele cuja situação econômica não lhe permita satisfazer o ônus processual atinente às custas do processo, e aos honorários de advogado e de perito. .
+Dessa forma, para ser amparado pelo benefício, é necessária a comprovação da miserabilidade, que pode ser feita por documentos públicos ou particulares, desde que retratem a real situação financeira do requerente do beneficio. No caso em apreço, a agravante trouxe nos autos a declaração do imposto de renda do ano de 2008 de [NOME], sendo a impugnação proposta em 2012.
+Observa-se também que, ação principal (cód. 424102) é possível averiguar que a magistrada determinou que os autores apresentassem documentos comprovando a necessidade da justiça gratuita, inclusive com declaração do imposto de renda. Nos autos da impugnação, os impugnados na contestação juntaram cópia da CTPS (fls. 37/42) e certidão de nascimento de seus dois filhos (fls.43/44). In casu, observa-se que a recorrente não comprovou a modificação fática da situação financeira dos impugnantes que ensejou na concessão da justiça gratuita, ônus que lhe compete na impugnação. Visto isso, com o devido respeito, cumpre destacar que as argumentações da agravante não merecem prosperar, estando à matéria devidamente apreciada.
+ Ainda em relação à tese apreciada, o acórdão que julgou os embargos de declaração se posicionou no sentido de que (e-STJ, fls. 210/211). :
+Ainda, entendo que não há omissão na decisão, pois os embargados comprovaram através dos documentos (CTPS e certidão de nascimento de dois filhos), a incapacidade econômica, apta a ensejar a manutenção da benesse, devendo prevalecer a tese que a embargante não conseguiu demonstrar a modificação da situação fática apta a ensejar a revogação da benesse deferida aos impugnados.
+Por fim, resta esclarecer que não procede a alegação de dois pesos e duas medidas para a concessão da gratuidade da justiça para a embargante e os embargados, posto que trata-se de processos distintos c cada qual obrigatoriamente deve ser analisado dentro do seu contexto fático e probatório, observando-se a situação individualizada das partes contendoras, em nada podendo ser comparado, pois, por absurdo, concedido em qualquer caso para o autor, deveria ser concedido ao réu.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/2015, incidindo, quanto ao ponto, a Súmula 568/STJ.
+ - Da violação do art. 489 do CPC/2015
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+ - Da existência de fundamento não impugnado
+ A agravante não impugnou o fundamento utilizado pelo TJ/MT a respeito do seu ônus de comprovar a modificação fática da situação financeira dos agravados que ensejou no deferimento da justiça gratuita, razão pela qual deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+ - Do reexame de fatos e provas
+ Ademais, alterar o decidido no acórdão impugnado, no que se refere à concessão de assistência jurídica gratuita em favor dos agravados, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Publique-se. Intimem-se.
