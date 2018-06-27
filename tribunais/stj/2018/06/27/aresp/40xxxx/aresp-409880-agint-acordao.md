@@ -1,0 +1,32 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO NÃO CONHECIDO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O ESPECIAL. MANUTENÇÃO.
+1. Para viabilizar o conhecimento do agravo em recurso especial, é necessário que a parte agravante demonstre o desacerto da decisão agravada que afirmou a ausência de impugnação dos fundamentos do julgado que inadmitiu o recurso especial no Tribunal de origem, o que não ocorreu na hipótese em exame. Tal circunstância atrai a incidência do disposto no art. 932, III, do Código de Processo Civil de 2015 e no art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça.
+2. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Exmo. Sr. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator:
+Trata-se de agravo interno interposto pela CAIXA SEGURADORA S/A contra a decisão de fls. 977/979 (e-STJ) que não conheceu do seu agravo em recurso especial, sob os fundamentos de ausência de impugnação: (i) ao óbice da Súmula 83/STJ no que se refere às razões de mérito trazidas no recurso especial; (ii) incidência das Súmulas 5 e 7/STJ; e (iii) aplicação da Súmula 284/STF.
+Na presente irresignação, sustenta: (i) que há necessidade de revolvimento das provas ou do contrato firmado, sendo suficiente a leitura das peças processuais; (ii) que a violação dos dispositivos apontados como afrontados foi satisfatoriamente demonstrada na petição do recurso especial; (iii) haver jurisprudência do STJ no sentido da competência da Justiça Federal para análise do caso, motivo pelo qual não há que se falar em aplicação da Súmula 83/STJ no mérito da lide.
+Impugnação às fls. 1.087/1.107.
+É o relatório.
+VOTO
+Exmo. Sr. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator:
+A irresignação não merece prosperar, devendo ser mantida a decisão agravada que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos referentes aos óbices das Súmulas 5, 7 e 83/STJ, bem como da Súmula 284/STF.
+Isso porque, para viabilizar o conhecimento do agravo em recurso especial, é necessário que a parte recorrente impugne, especificamente, todos os fundamentos da decisão agravada, o que não ocorreu na hipótese em exame. Tal circunstância atrai a incidência do disposto no art. 932, III, do Código de Processo Civil de 2015 e no art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça.
+Incumbe à parte agravante demonstrar o desacerto das conclusões exaradas na decisão agravada em observância ao princípio da dialeticidade, que rege os recursos processuais, conforme o estabelecido tanto no art. 1.021 do CPC/2015 quanto na Súmula 182/STJ. No caso, a ora recorrente deveria demonstrar ou indicar o afastamento, na petição de agravo, dos óbices infligidos ao seu recurso especial. Ao realizar, apenas por ocasião do presente agravo interno, a impugnação das razões da Corte de origem, da inadmissibilidade do recurso especial, incorre em indevida inovação recursal, o que é vedado na via do agravo interno, segundo a jurisprudência do STJ. Eis os precedentes:
+"AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - CUMPRIMENTO DE SENTENÇA - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DA AGRAVANTE.
+1. Na linha dos precedentes do STJ, os argumentos/pleitos apresentados apenas no agravo interno não são passíveis de conhecimento por importar indevida inovação recursal, em virtude da preclusão consumativa. Precedentes.
+2. Nos termos do artigo 102 da Constituição Federal, reserva-se ao Supremo Tribunal Federal a competência para apreciar ofensas a dispositivos constitucionais.
+Desse modo, sob pena de usurpação, não pode o Superior Tribunal de Justiça analisar alegadas violações a dispositivos constitucionais.
+Precedentes.
+3. No que respeita ao alegado excesso de execução, o Tribunal de origem assentou, com base no acervo fático-probatório dos autos, que os cálculos da quantia devida observaram a decisão transitada em julgado. O exame de suposta incorreção nos cálculos apresentados, para fins de verificação de excesso de execução, demanda a reapreciação de matéria fática, o que encontra óbice no enunciado n.7 da Súmula do STJ
+4. Este Tribunal Superior firmou entendimento no sentido de serem devidos honorários advocatícios no cumprimento de sentença, haja ou não impugnação, depois de escoado o prazo para pagamento voluntário, que se inicia após a intimação do advogado da parte executada (Súmula 517 do STJ). Aplicação, quanto à questão, da Súmula 83 do STJ. Precedentes.
+5. Incidência da Súmula 182 do STJ e do teor do artigo 1.021, § 1º, CPC/15, quanto às teses de enriquecimento sem causa e cerceamento de defesa. Razões do agravo interno que não impugnam o fundamento da decisão monocrática no referido ponto.
+6. Agravo interno parcialmente conhecido e, nessa extensão, desprovido." (AgInt no AREsp 899.863/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 10/04/2018, DJe 17/04/2018)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CARTÃO DE CRÉDITO. COMPROVAÇÃO DA DÍVIDA. QUANTUM DEVIDO. APURAÇÃO EM LIQUIDAÇÃO. LITIGÂNCIA DE MÁ-FÉ. CONDENAÇÃO BASEADA EM OUTROS ELEMENTOS PROBATÓRIOS. REVISÃO. IMPOSSIBILIDADE. MATÉRIAS QUE DEMANDAM O REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. INOVAÇÃO RECURSAL. AGRAVO INTERNO DESPROVIDO.
+1. Tendo o Tribunal de origem, analisando o conjunto fático-probatório dos autos, concluído que o agravante confessou o inadimplemento contratual e que não ficaram configurados o cerceamento de defesa e a litigância de má-fé da instituição financeira, não se mostra possível, na via do recurso especial, alterar o referido entendimento em face do óbice da Súmula n. 7/STJ.
+2. É inviável a análise de tese alegada apenas no âmbito de agravo interno, uma vez que constitui inadmissível a inovação recursal.
+3. Agravo interno desprovido." (AgInt no AREsp 1154486/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/04/2018, DJe 18/04/2018)
+Diante das razões expostas, nego provimento ao agravo interno.
+É como voto.
