@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de Agravo, interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, contra decisão do Tribunal Regional Federal da 5ª Região, que inadmitiu o Recurso Especial interposto contra acórdão assim ementado:
+"PROCESSUAL CIVIL. AFERIÇÃO DO PRAZO RECURSAL. DATA DA POSTAGEM NOS CORREIOS. INTEMPESTIVIDADE.
+1. Apelação interposta em face de sentença que não recebeu os Embargos à Execução, julgando-os intempestivos.
+2. Hipótese em que o INSS foi intimado da sentença em data de 21/05/2014, conforme prova a juntada aos autos do aviso de recebimento. Levando em consideração a prerrogativa do prazo em dobro (art. 188, CPC), a Autarquia teria até o dia 25/06/2014 (em virtude de o termo final ter se dado num feriado - Corpus Christi) para interpor os Embargos à Execução.
+3. Embargos à Execução protocolados extemporaneamente, no dia 26/06/2014 (artigo 508 c/c 184 do CPC).
+4. O entendimento desta eg. Corte é de que a tempestividade do recurso deve ser verificada com base na data em que a petição é protocolizada no Judiciário, e não, como pretende a agravante, a data de postagem via Correios. Precedentes (AGRAC557686/03/PB, DES. EDILSON NOBRE, Pleno, 1/12/2012; EDAG 133838/CE, 3a Turma, 13/02/2014). Apelação e Remessa Necessária improvidas" (fl. 70e).
+Opostos Embargos de Declaração por ambas as partes, a Corte a quo deu provimento ao recurso integrativo da recorrida, sem a atribuição de efeitos infringentes, para condenar o INSS ao pagamento de honorários advocatícios sucumbenciais, e negou provimento ao recurso integrativo da autarquia previdenciária (fls. 89/96e).
+Nas razões do Recurso Especial, o INSS aponta ofensa aos arts. 184 e 730 do CPC/73. Para tanto, aduz que:
+"17. (..) ao se entender pela intempestividade do recurso dos embargos à execução, viola-se o próprio art. 730 do CPC que determina o prazo de trinta dias para a Fazenda se insurgir contra a execução dirigida ao ente público, bem como ao art. 184 que regula o cômputo dos prazos processuais excluindo o dia do começo e incluindo o do fim.
+18. Na hipótese dos autos, o INSS protocolizou embargos à execução dentro do prazo de trinta dias dados pelo art. 730 do CPC, ocorre que o protocolo que deve ser considerado é o da data da postagem nos correios de correspondência dirigida à Comarca de Queimadas PB.
+19. Ora, existe um Convênio de número 013 de 2009, firmado entre o TJPB e a Procuradoria Federal do Estado da Paraíba, que trata dos procedimentos de notificação e intimação da Procuradoria com o envio dos autos do processo através de SEDEX pela ECT. Tal convênio é amplamente conhecido e respeitado pelas Comarcas do Estado da Paraíba.
+20. Cumpre assim observar o que disciplinam as cláusulas 2.3 e 2.6 a seguir colacionadas:
+"2.3 - Considerar-se-á notificada ou intimada a PROCURADORIA na data do recebimento do SEDEX, conforme consignado na respectiva guia de remessa devolvida, que será arquivada em Cartório.
+(..)
+2.6 - Para fins de contagem de prazo judicial, decorrente da adoção do presente procedimento, será considerada a data da postagem da peça processual junto à ECT, de acordo com o disposto no artigo 7º, da Resolução nº 04/2004 do TI/PPB." - fl 40" (fl. 102e).
+Prossegue afirmando que, no caso, "(..) em que pese ter sido protocolado no fórum de Queimadas após o prazo de trinta dias da intimação, o que vale é a data da postagem dos embargos à execução nos correios e esta foi dentro do prazo de trinta dias" (fl. 102e) e, ainda, que "(..) constata-se que os embargos à execução foram opostos tempestivamente, eis que segundo o documento de fl. 44, a postagem ocorreu em 25/06/2014" (fl. 103e).
+E conclui assinalando ser evidente a ofensa à norma federal, "(..) diante do previsto no Convênio nº 013/2009 firmado entre o TJPB e a Procuradoria Federal no Estado da Paraíba, motivo pelo qual se interpõe Recurso Especial" (fl. 103e).
+Requer, ao final, o provimento do Recurso Especial.
+Apresentadas as contrarrazões (fls. 105/110e), inadmitiu-se o Recurso Especial (fl. 112e), advindo o presente Agravo (fls. 115/118e), contraminutado às fls. 121/130e).
+A irresignação não merece acolhimento.
+Não prospera a irresignação concernente aos arts. 184 e 730 do CPC/73, uma vez que o recorrente não desenvolveu, nas razões do Recurso Especial, argumentos para demonstrar de que modo tais dispositivos processuais foram violados.
+Na verdade, observa-se que o recorrente almeja discutir a tempestividade dos Embargos à Execução, opostos em primeira instância, à luz do disposto no Convênio 013/2009 que, segundo aduz, teria sido firmado entre a Corte a quo e a Procuradoria Federal naquela unidade federativa.
+Nesse contexto, aplica-se o teor da Súmula 284 do STF, segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Na forma da jurisprudência desta Corte, "a admissibilidade do recurso especial exige a clareza na indicação dos dispositivos de lei federal supostamente contrariados, bem como a explanação precisa da medida em que o acórdão recorrido teria afrontado cada um desses artigos, sob pena de incidência da Súmula nº 284 do STF" (STJ, AgInt no REsp 1.628.949/PI, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 07/03/2018).
+Ademais, consta das razões recursais que:
+"19. Ora, existe um Convênio de número 013 de 2009, firmado entre o TJPB e a Procuradoria Federal do Estado da Paraíba, que trata dos procedimentos de notificação e intimação da Procuradoria com o envio dos autos do processo através de SEDEX pela ECT. Tal convênio é amplamente conhecido e respeitado pelas Comarcas do Estado da Paraíba.
+20. Cumpre assim observar o que disciplinam as cláusulas 2.3 e 2.6 a seguir colacionadas:
+"2.3 - Considerar-se-á notificada ou intimada a PROCURADORIA na data do recebimento do SEDEX, conforme consignado na respectiva guia de remessa devolvida, que será arquivada em Cartório.
+(..)
+2.6 - Para fins de contagem de prazo judicial, decorrente da adoção do presente procedimento, será considerada a data da postagem da peça processual junto à ECT, de acordo com o disposto no artigo 7º, da Resolução nº 04/2004 do TI/PPB." - fl 40" (fl. 102e).
+Nesse contexto, para verificar a suposta violação aos dispositivos do CPC/73 invocados pelo INSS, por não se ter reconhecido a tempestividade dos Embargos à Execução, faz-se necessário analisar as normas presentes em convênio e em resolução da Corte de origem, o que é inviável na via especial, a teor da Súmula 280/STF, de seguinte teor: "Por ofensa a direito local não cabe Recurso Extraordinário".
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. POSTAGEM DO RECURSO ORIGINÁRIO PELOS CORREIOS. AFERIÇÃO DA TEMPESTIVIDADE DO APELO. CONSIDERAÇÃO, PARA TANTO, DA DATA DO SEU PROTOCOLO NO ÓRGÃO JUDICIAL DESTINATÁRIO. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO AUTÔNOMO. SÚMULA 283/STF. ANÁLISE DO REGRAMENTO LOCAL ACERCA DO PROTOCOLO POSTAL DE RECURSOS. IMPOSSIBILIDADE. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 280/STF. RECURSO NÃO PROVIDO.
+1. Em observância ao princípio da dialeticidade recursal, é dever do recorrente impugnar todos os fundamentos do acórdão recorrido, suficientes para mantê-lo, sob pena de incidir o óbice da Súmula 283/STF.
+2. A matéria relativa à tempestividade do recurso envolve análise do regramento local acerca do protocolo postal de recursos. Registre-se que a sua análise é obstada em Recurso Especial, por analogia, nos termos da Súmula 280/STF: "Por ofensa a direito local não cabe Recurso Extraordinário."
+3. Agravo Interno não provido" (STJ, AgInt nos EDcl no REsp 1.595.735/ES, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/04/2017).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE DOS EMBARGOS DE DECLARAÇÃO. TRIBUNAL ESTADUAL. RESOLUÇÃO. STJ. ANÁLISE. IMPOSSIBILIDADE. SÚMULA Nº 280/STF. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Rever o entendimento do acórdão impugnado, no sentido de que não foram observados os requisitos previstos na resolução que trata do protocolo postal do Tribunal de origem, implicaria a análise de lei local e o reexame do conjunto fático-probatório, procedimentos inadmissíveis em recurso especial, nos termos das Súmulas nºs 280/STF e nº 7/STJ.
+2. Agravo interno não provido" (STJ, AgInt no AREsp 1.006.135/PB, Rel. Min. RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe de 28/03/2017).
+Se não bastasse, verifica-se que a Corte de origem sequer implicitamente apreciou a controvérsia recursal inerente ao aludido Convênio 013/2009, não obstante terem sido opostos Embargos de Declaração para tal fim.
+Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, no ponto, incidindo o teor da Súmula 211 do STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. INDENIZAÇÃO. CABIMENTO. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+(..)
+6. Agravo interno não provido" (STJ, AgInt no AREsp 1.172.051/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 23/03/2018).
+Acrescente-se que, se a parte recorrente entendesse persistir algum vício no acórdão impugnado, imprescindível a alegação de violação ao art. 535 do CPC/73, por ocasião da interposição do Recurso Especial, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Assim, à mingua de prequestionamento, inviável a apreciação da aludida tese recursal.
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Deixo de majorar os honorários recursais, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado Administrativo 7/STJ (" Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
