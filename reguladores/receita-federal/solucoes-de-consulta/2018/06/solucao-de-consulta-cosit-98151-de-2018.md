@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98151, de 20 de junho de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 3507.90.49 Mercadoria: Enzima preparada, à base de fitase, contendo produto da fermentação da levedura Pichia pastoris (30 %), farinha de trigo, óleo de palma, monoglicerídeos e amido gelatinizado, utilizada como aditivo para alimentação de aves e suínos, acondicionada em sacos de 20 ou 25 kg ou big bags de 1 t. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 35.07), RGI 6 (texto da subposição 3507.90) e RGC 1 (texto do item 3507.90.4 e do subitem 3507.90.49) constantes da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto n.º 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 1.788, de 2018.
+.
+[arquivo anexo: SC Cosit nº 98.151-2018 .pdf]
