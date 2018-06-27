@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. REQUISITOS LEGAIS. COMPROVAÇÃO. TEMPO DE SERVIÇO RURAL EM REGIME DE ECONOMIA FAMILIAR. TEMPO DE SERVIÇO URBANO. CNIS. CONSECTÁRIOS. LEI 11.960/2009. TUTELA ESPECIFICA.
+. É possível o aproveitamento do tempo de serviço rural até 31-10-1991 independentemente do recolhimento das contribuições previdenciárias, exceto para efeito de carência.
+. Considera-se provada a atividade rural do segurado especial havendo início de prova material complementado por idônea prova testemunhal.
+. As anotações constantes da CNIS constituem prova plena de filiação à previdência social, tempo de contribuição e salários de contribuição, nos termos do art. 19 do Decreto 3.048/99, com a redação dada pelo Decreto 6.722/2008.
+. Implementados os requisitos de tempo de contribuição e carência, é devida a aposentadoria por tempo de contribuição.
+. Juros e correção monetária na forma do art. 1º-F, da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/2009.
+. Havendo o feito tramitado perante a Justiça Estadual do Rio Grande do Sul, o INSS está isento do pagamento de custas, consoante o disposto no art. 11 da Lei Estadual n. 8.121/85, na redação dada pela Lei n. 13.471, de 23 de junho de 2010.
+. O cumprimento imediato da tutela especifica independe de requerimento expresso do segurado ou beneficiário, e o seu deferimento sustenta-se na eficácia mandamental dos provimentos fundados no art. 461 do CPC/1973, bem como nos artigos 497,536 e parágrafos e 537 do CPC/2015.
+. A determinação de implantação imediata do benefício, com fundamento nos artigos supracitados, não configura violação dos artigos 128 e 475-O, I, do CPC/1973 e 37 da CF/1988.
+Foram rejeitados os embargos declaratórios opostos.
+Nas razões do recurso, a autarquia previdenciária alega violação do disposto no art. 3º da Lei 9.876/1999, sustenta, em síntese, que, para os benefícios concedidos a segurados já vinculados ao regime geral na data de publicação desta lei, deve ser considerado o período base de cálculo com termo inicial em julho/1994.
+É o relatório. Decido.
+O Tribunal de origem, ao analisar os embargos de declaração opostos pela autarquia previdenciária, assim se manifestou sobre o ponto:
+Esclareço, de qualquer sorte, a questão atinente a não incidência do artigo 3o da Lei nº. 9.876/99 na hipótese vertente.
+Pois bem, previa o art. 29, inciso I, da Lei nº. 8.213/91, em sua redação original, que o salário de benefício consistia na média aritmética simples de todos os últimos salários de contribuição até o máximo de 36, apurados em período não superior a 48 meses. Tal disposição tornava-se prejudicial ao trabalhador, caso possuísse longo tempo de contribuições e com salários anteriores de valor superior aos últimos 36.
+Com a edição da Lei nº. 9.876/99, procurou o legislador prestigiar o histórico laboral do segurado e o próprio equilíbrio atuarial, estabelecendo que o cálculo do salário de benefício consistirá na média aritmética simples dos 80% maiores salários de contribuição correspondentes a todo o período contributivo:
+(..)
+Entrementes, pelo art. 3o, da Lei 9876/99, foi estabelecida uma regra de transição, avançando além dos 36 salários de contribuição, mas, limitando a consideração do período contributivo a partir de julho de 1994.
+Em princípio, a regra de transição é direcionada para regulamentar a mudança de normatização, de modo a minimizar eventual prejuízo ao cidadão. Não poderia, portanto, tornar-se mais prejudicial do que a própria nova regra permanente. Mas, no caso em exame, a regra de transição somente vem beneficiar os segurados que possuírem mais e maiores contribuições a partir de julho de 1994.
+Daí que é de ser reconhecido o direito do segurado em ter o cálculo de seu benefício pela regra permanente, considerando todo o seu histórico de salários de contribuição, se mais benéfica do que a regra de transição, que limita os salários de contribuição a partir de julho de 1994. Isto porque não poderia a regra de transição do art. 3o da Lei nº. 9.876/99 penalizar justamente os segurados que mais contribuíram para a previdência social.
+O acórdão recorrido está em dissonância com a jurisprudência firmada no STJ, a qual assegura a aplicação do art. 3º da Lei 9.876/1999 aos segurados filiados em data anterior à vigência dessa lei. Nesse sentido:
+PREVIDENCIÁRIO. APOSENTADORIA URBANA POR IDADE. REVISÃO. SALÁRIO DE BENEFÍCIO. MÉDIA ARITMÉTICA SIMPLES. DIVISOR. NÚMERO DE CONTRIBUIÇÕES. IMPOSSIBILIDADE. ART. 3º, § 2º, DA LEI 9.876/1999.
+1. A tese do recorrente é que, no cálculo da renda mensal inicial de seu benefício previdenciário, deve ser utilizado como divisor mínimo para apuração da média aritmética dos salários de contribuição o número efetivo de contribuições. Tal tese não tem amparo legal.
+2. Quando o segurado, submetido à regra de transição prevista no art. 3º, § 2º, da Lei 9.876/99, não contribui ao menos pelo tempo correspondente a 60% do período básico de cálculo, os salários de contribuição existentes são somados, e o resultado dividido pelo número equivalente a 60% (sessenta por cento) do período básico de cálculo. Precedentes do STJ.
+3. Ficou consignado no julgamento do REsp 1.141.501/SC, em que se analisava hipótese análoga à presente, que "após o advento da Lei 9.876/99, o período básico de cálculo para os segurados que já estavam filiados ao sistema previdenciário passou a ser o lapso compreendido entre julho de 1994 e a data do requerimento do benefício, de acordo com a regra de transição estabelecida no art. 3º da citada lei. Nesse período, é considerada a média aritmética simples dos maiores salários de contribuição, correspondentes a, no mínimo, 80% de todo o período contributivo decorrido, desde a competência de julho de 1994, sendo que o divisor considerado no cálculo da média não poderá ser inferior a 60% do período decorrido da competência julho de 1994 até a data de início do benefício, limitado a 100% de todo o período contributivo (..). Assim sendo, no caso do segurado não ter contribuído, ao menos, pelo tempo correspondente a 60% do período básico de cálculo, os salários de contribuição vertidos entre julho de 1994 e a data do requerimento do benefício são somados e o resultado dividido pelo número equivalente a 60% do período básico de cálculo".
+4. Recurso Especial não provido.
+(REsp 1.655.712/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 20/6/2017, DJe 30/6/2017)
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE. PERÍODO BÁSICO DE CÁLCULO. LEI N. 8.213/91. LEI N. 9.876/99. REDAÇÃO DO ART. 3º. PERÍODO DE APURAÇÃO CORRESPONDENTE AO INTERREGNO ENTRE JULHO DE 1994 E A DER. AGRAVO REGIMENTAL IMPROVIDO.
+I - Tratando-se de segurado filiado em momento anterior à edição da Lei n. 9.876/99, o período de apuração será o interregno entre julho de 1994 e a Data da Entrada do Requerimento - DER.
+II - Agravo regimental improvido.
+(AgRg no REsp 1.065.080/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 7/10/2014, DJe 21/10/2014)
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE. REVISÃO. PERÍODO BÁSICO DE CÁLCULO. AMPLIAÇÃO. EC N. 20/1998 E LEI N. 9.876/1999. LIMITE DO DIVISOR PARA O CÁLCULO DA MÉDIA. PERÍODO CONTRIBUTIVO.
+ 1. A partir da promulgação da Carta Constitucional de 1988, o período de apuração dos benefícios de prestação continuada, como a aposentadoria, correspondia à média dos 36 últimos salários-de-contribuição (art. 202, caput).
+ 2. Com a Emenda Constitucional n. 20, de 1998, o número de contribuições integrantes do Período Básico de Cálculo deixou de constar do texto constitucional, que atribuiu essa responsabilidade ao legislador ordinário (art. 201, § 3º).
+ 3. Em seguida, veio à lume a Lei n. 9.876, cuja entrada em vigor se deu em 29.11.1999. Instituiu-se o fator previdenciário no cálculo das aposentadoria e ampliou-se o período de apuração dos salários-de-contribuição.
+ 4. Conforme a nova Lei, para aqueles que se filiassem à Previdência a partir da Lei n. 9.876/1999, o período de apuração envolveria os salários-de-contribuição desde a data da filiação até a Data de Entrada do Requerimento - DER, isto é, todo o período contributivo do segurado.
+ 5. De outra parte, para os já filiados antes da edição da aludida Lei, o período de apuração passou a ser o interregno entre julho de 1994 e a DER.
+ 6. O período básico de cálculo dos segurados foi ampliado pelo disposto no artigo 3º, caput, da Lei n. 9.876/1999. Essa alteração legislativa veio em benefício dos segurados. Porém, só lhes beneficia se houver contribuições.
+ ..
+10. Recurso especial a que se nega provimento.
+(REsp 929.032/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 24/3/2009, DJe 27/4/2009)
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. PERÍODO BÁSICO DE CÁLCULO. LEI N. 8.213/1991. LEI N. 9.876/1999. REDAÇÃO DO ART. 3º. PERÍODO DE APURAÇÃO CORRESPONDENTE AO INTERREGNO ENTRE JULHO DE 1994 E A DER.
+1. Tratando-se de segurado filiado em momento anterior à edição da Lei n. 9.876/1999, o período base para o cálculo do salário de benefício será o interregno entre julho de 1994 e a Data da Entrada do Requerimento - DER. Precedentes.
+2. Recurso especial provido.
+(REsp 1678905/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 28/11/2017, DJe 05/12/2017)
+Ante o exposto, conheço do recurso especial e com fundamento no art. 255, § 4º, I e III, do RI/STJ, dou-lhe provimento para reformar o acórdão recorrido, para entender válida a regra constante do § 2º do art. 3º da Lei 9.876/99, não sendo possível a inclusão no PBC de salários de contribuição anteriores a julho de 1994.
+Publique-se. Intimem-se.
