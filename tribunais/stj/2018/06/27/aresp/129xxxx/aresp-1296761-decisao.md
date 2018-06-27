@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por ROSALDI PEREIRA DOS SANTOS contra decisão que não admitiu recurso especial fundado no art. 105, III, alínea "a", da Constituição Federal, em oposição a acórdão proferido pelo Tribunal de Justiça do Estado do Amapá, assim ementado:
+"PENAL. FURTO QUALIFICADO. FLAGRANTE PREPARADO. DELAÇÃO DE CORRÉU. 1) É essencial, para configurar o flagrante preparado, a atuação de um terceiro induzindo os réus ao cometimento do delito. 2) A delação de corréu e a confissão espontânea na fase inquisitorial, quando corroboradas por outros elementos do conjunto probatório, são provas válidas a respaldar um decreto condenatório. 3) Recurso não provido." (e-STJ, fl. 231).
+A defesa aponta negativa de vigência aos arts. 41, 155, 156, 302, II, e 386, IV e V, todos do CPP.
+Aduz, em síntese, que "a denúncia ofertada ao douto Juízo monocrático, e mantida pelo Tribunal a quo, é genérica em relação a este Recorrente, sendo carente de legitimidade, diante da falta da autoria delitiva, negando-se, assim, vigência da norma do artigo 41 do CPP, por não demonstrar de que maneira se deu a participação dele na tipificação penal do furto qualificado" (e-STJ, fl. 248).
+Sustenta, ainda, que a valoração da prova se deu de forma equivocada em relação à dinâmica estabelecida no art. 155, §4º, II e IV, do Código Penal Brasileiro, já que não descreveu a conduta delitiva (art. 41), de maneira a violar o princípio da presunção de inocência.
+Alega que houve a ocorrência de flagrante preparado praticado pela vítima com o auxílio da autoridade policial, visto que "o terceiro provocador, neste caso foi a vítima, que estimulou e arquitetou a prática de um ilícito penal que em relação ao Recorrente não foi concebido, corroborado, ainda, pelo fato de que a autoridade policial ao ficar em prontidão esperando que se iniciasse a prática do fato delituoso agiu e conseguiu deter [NOME] (vulgo Zequinha), então caseiro da Fazenda Pitangueira, e Patrício, os quais, por não conhecerem de gado, efetuaram o abate de uma vaca puro de origem, dócil, escolhida porque era mansa, os quais não imaginavam que este animal era a menina dos olhos do dono da propriedade, de maneira que um vaqueiro experiente jamais faria negócios com um animal deste porte" (e-STJ, fl. 255).
+Requer a absolvição do acusado por falta de provas.
+Foram apresentadas as contrarrazões (e-STJ, fls. 162-176).
+O recurso foi inadmitido por incidência do óbice da Súmula 7/STJ (e-STJ, fl. 261-263). Daí este agravo (e-STJ, fls. 265-287).
+O Ministério Público Federal manifestou-se pela manutenção da decisão agravada (e-STJ, fl. 300).
+É o relatório.
+Decido.
+A pretensão recursal não merece acolhimento.
+Inicialmente, no que toca à suscitada ofensa ao art. 41 do Código Processo Penal, verifica-se que essa questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para sanar a omissão, carecendo o tema do requisito indispensável do prequestionamento. Incide, portanto, o óbice da Súmula 282 do Supremo Tribunal Federal, in verbis:
+"É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Quanto à autoria e a materialidade do crime atribuído ao acusado, o acórdão recorrido consignou o seguinte:
+"Embora a defesa suscite a tese de flagrante preparado, tal assertiva não se verifica na espécie. Os depoimentos colhidos nos autos, sobretudo o prestado pela vítima [NOME] e pelo Delegado de Polícia CÉSAR ÁVILA, dão conta de que, em verdade, ocorreu uma campana no local dos fatos, após alerta daquele no sentido de que poderia novamente ocorrer furto de gado em sua propriedade. Não se oberva qualquer induzimento para que os réus subtraíssem o semovente do ofendido, o que é essencial para configurar a preparação do flagrante. Nesse sentido:
+ ..
+A autoria também restou certa, visto que, ao contrário do alegado, os depoimentos colhidos, tanto na fase inquisitiva quanto na judicial, apontam o apelante como um dos autores da subtração qualificada.
+A vítima [NOME] [NOME] afirmou que o apelante, funcionário da fazenda, já havia sido delatado outras vezes, porém foi a primeira vez que ele foi pego em flagrante. Asseverou que não autorizou qualquer venda de animal de sua fazenda, muito menos a que foi abatida. Declarou que o fato feriu a confiança que tinha nos réus.
+A palavra do ofendido foi corroborada pelos policiais civis RAIMUNDO SOUZA e VALCI DE ALMEIDA, que foram uníssonos em afirmar que as informações colhidas no local davam conta de que o apelante participou do furto, fato inclusive confirmado por [NOME] (corréu) no momento da prisão em flagrante.
+Ressalte-se que a delação de corréu e a confissão espontânea na fase inquisitorial, quando corroboradas por outros elementos do conjunto probatório, são provas válidas a respaldar um decreto condenatório. Nesse sentido:
+ ..
+Assim, estando materialidade e autoria devidamente comprovadas, por depoimentos colhidos na fase policial e confirmados em juízo, coincidentes com as demais provas carregadas no bojo do inquérito, não cabe reconhecer as alegações de negativa de autoria ou de insuficiência de provas." (e-STJ, fls. 233-234).
+A Corte de origem reconheceu a autoria delitiva com base nas provas dos autos e ainda concluiu pela inexistência de induzimento aos réus para que subtraíssem o animal, não configurando assim a preparação do flagrante.
+Nesse contexto, a alteração do julgado, a fim de reconhecer a ocorrência do suposto flagrante preparado ou de absolver o réu por insuficiência de provas, demandaria necessariamente o revolvimento do material fático e probatório dos autos, o que não é possível nesta sede especial, a teor do que dispõe a Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 932, III, do CPC c/c art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
