@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME], contra acórdão do Tribunal de Justiça do Estado de Santa Catarina (Apelação n. 0001219-23.2015.8.24.0020).
+Infere-se dos autos que o paciente foi denunciado pela prática do delito tipificado no art. 155, do Código Penal (furto), sobrevindo sentença que o absolveu.
+Irresignado, o Ministério Público estadual interpôs apelação perante o Tribunal de origem, o qual deu provimento ao recurso e determinou a execução provisória da pena nos termos do acórdão que restou assim ementado, in verbis:
+PENAL. APELAÇÃO CRIMINAL. CRIME CONTRA O PATRIMÔNIO. FURTO SIMPLES (ART. 155, CAPUT, DO CP). SENTENÇA ABSOLUTÓRIA. RECURSO MINISTERIAL. PEDIDO DE AFASTAMENTO DO PRINCÍPIO DA INSIGNIFICÂNCIA. ACOLHIMENTO. DEVER CONSTITUCIONAL DE INTERVENÇÃO ESTATAL. VIOLAÇÃO AOS PRINCÍPIOS CONSTITUCIONAIS DA SEGURANÇA E PROPRIEDADE (CF, ART. 5o, CAPUT E XXII). VALOR DA RES NÃO CONFIGURA BAGATELA. ELEVADO GRAU DE REPROVABILIDADE DA CONDUTA. CIRCUNSTÂNCIAS ATINENTES AO CASO CONCRETO QUE NÃO AUTORIZAM SUA INCIDÊNCIA. MATERIALIDADE E AUTORIA AMPLAMENTE DEMONSTRADAS. CONDENAÇÃO QUE SE IMPÕE. RECONHECIMENTO DA TENTATIVA. IMPOSSIBILIDADE. APLICAÇÃO DA TEORIA DA AMOTIO. INVERSÃO DA POSSE. FURTO CONSUMADO. DOSIMETRIA. SEGUNDA FASE. ATENUANTE DA CONFISSÃO ESPONTÂNEA (CP, ART. 65, III, D). REDUÇÃO DA PENA AQUÉM DO MÍNIMO LEGAL. NÃO ACOLHIMENTO. ADOÇÃO DO CRITÉRIO TRIFÁSICO (CP, ART. 68). VERBETE 231 DA SÚMULA DE JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. INOCORRÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA LEGALIDADE. SENTENÇA REFORMADA. EXECUÇÃO PROVISÓRIA DA PENA. CONDENAÇÃO POR ESTE TRIBUNAL. REEXAME SOBRE A MATÉRIA FÁTICA E ELEMENTOS DE PROVA ESGOTADO. CASO QUE SE AMOLDA A NOVA ORIENTAÇÃO DO SUPREMO TRIBUNAL FEDERAL (HC 126.292/SP), RATIFICADA POR OCASIÃO DO INDEFERIMENTO DAS MEDIDAS CAUTELARES OBJETO DAS AÇÕES DECLARATÓRIAS DE CONSTITUCIONALIDADE 43 E 44.
+- A jurisprudência do Supremo Tribunal Federal exige a ocorrência concomitante dos seguintes vetores para a aplicação do princípio da insignificância: (1) a mínima ofensividade da conduta do agente; (2) a ausência total de periculosidade social da ação; (3) o ínfimo grau de reprovabilidade do comportamento; e (4) a inexpressividade da lesão jurídica ocasionada.
+- O princípio da insignificância não pode ser aplicado ao crime de furto porque a conduta praticada pelo agente é relevante, pois, não é só o valor da res furtiva que deve ser considerado, mas sim todas as circunstâncias do caso.
+- O conjunto probatório colhido na fase judicial, em consonância com as declarações contidas na fase indiciaria, é suficiente para a condenação do apelado.
+- O Código Penal adotou a teoria da apprehensio ou amotio, segundo a qual a configuração do crime de furto ocorre com a inversão da posse da res, de modo que seja assegurado ao agente o domínio do bem subtraído, ainda que de forma efêmera.
+- A reprimenda não pode ser fixada abaixo do mínimo legal na segunda fase da dosimetria, por força do disposto no verbete 231 da súmula de jurisprudência do Superior Tribunal de Justiça. Precedentes do STF e desta Corte.
+- Confirmada ou decretada a condenação neste Juízo ad quem, admite-se a execução provisória da pena, tendo em vista o esgotamento do revolvimento da matéria fática e dos elementos de prova, à luz do princípio do duplo grau de jurisdição, sem que se possa falar em afronta ao princípio da presunção de inocência, seguindo o entendimento do Supremo Tribunal Federal, nos autos do HC 126.292/SP, ratificado quando do indeferimento das medidas cautelares objeto das ADCs 43 e 44.
+- Parecer da PGJ pelo conhecimento do recurso e provimento.
+- Recurso conhecido e provido. (fls. 339/340).
+No presente writ, o impetrante alega que a execução provisória, no caso concreto, fere o disposto no art. 147 da Lei de Execução Penal, bem como contraria o entendimento jurisprudencial desta Corte.
+Requer, em liminar e no mérito, a suspensão da execução provisória da pena restritiva de direito.
+Liminar deferida para suspender a execução provisória das penas restritivas de direito até o julgamento definitivo da presente impetração ou do trânsito em julgado da condenação (fls. 370/373).
+Informações prestadas às fls. 380/386 e 389/491.
+O Ministério Público Federal opinou pela denegação da ordem (fls. 495/501).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, no julgamento do EResp 1.619.087/SC, firmou o entendimento de que as penas restritivas de direitos não podem ser executadas antes do trânsito em julgado da condenação, em observância ao disposto no art. 147 da Lei n. 7.210/84.
+Confira-se, a propósito, a ementa do julgado:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR RESTRITIVAS DE DIREITOS. EXECUÇÃO PROVISÓRIA. IMPOSSIBILIDADE. ART. 147 DA LEI DE EXECUÇÃO PENAL. PROIBIÇÃO EXPRESSA. AUSÊNCIA DE MANIFESTAÇÃO DO STF. EMBARGOS REJEITADOS.
+1. Embora o Supremo Tribunal Federal tenha decidido pela viabilidade da imediata execução da pena imposta ou confirmada pelos tribunais locais após esgotadas as respectivas jurisdições, não analisou tal possibilidade quanto às reprimendas restritivas de direitos.
+2. Considerando a ausência de manifestação expressa da Corte Suprema e o teor do art. 147 da LEP, não se afigura possível a execução da pena restritiva de direitos antes do trânsito em julgado da condenação.
+3. Embargos de divergência rejeitados (EREsp 1619087/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Rel. p/ Acórdão Ministro JORGE MUSSI, TERCEIRA SEÇÃO, julgado em 14/06/2017, DJe 24/08/2017).
+Ante exposto, concedo a ordem, de ofício, para suspender a execução provisória da pena restritiva de direito imposta ao paciente até o trânsito em julgado de eventual condenação, confirmando a liminar anteriormente deferida.
+Publique-se.
+Intimações necessárias.
