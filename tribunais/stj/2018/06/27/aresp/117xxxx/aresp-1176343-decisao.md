@@ -1,0 +1,36 @@
+DECISÃO
+1. Trata-se de agravo interposto por [NOME] contra decisão que inadmitiu recurso especial, com fulcro no art. 105, III, "a" e "c", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+APELAÇÕES CÍVEIS - COOPERATIVA DE CRÉDITO RURAL DE RIO PRETO LTDA. - CREDIRIO - AÇÃO PARA RESTITUIÇÃO DE QUANTIA DEPOSITADA EM POUPANÇA - PRESCRIÇÃO - NÃO OCORRÊNCIA - APLICAÇÃO DO MESMO PRAZO AO DEVEDOR PRINCIPAL E AOS DEVEDORES SOLIDÁRIOS - RESPONSABILIDADE SOLIDÁRIA DA COOPERATIVA E DOS MEMBROS DO CONSELHO DE ADMINISTRAÇÃO - INEXISTÊNCIA DE CAUSA EXCLUDENTE DE RESPONSABILIDADE - RESTITUIÇÃO DEVIDA.
+- Considerando que o pedido inicial se funda na cobrança indevida de valores com base em contrato de financiamento bancário, o prazo prescricional aplicável é o previsto no "caput" do art. 205 do Código Civil, qual seja, de 10 anos, e não o prazo de 3 anos, previsto do art. 206, § 3º, também do Código Civil.
+- Se há devedores solidários, esses respondem nos termos da obrigação principal, correndo a favor deles o mesmo prazo de prescrição.
+- Ressalvada a legislação especifica que rege as cooperativas de crédito, as seções de crédito das cooperativas agrícolas mistas e as de habitação, os administradores eleitos ou contratados não serão pessoalmente responsáveis pelas obrigações que contraírem em nome da sociedade, mas responderão solidariamente pelos prejuízos resultantes de seus atos, se procederem com culpa ou dolo.
+- Em havendo prova da negligência dos réus no desempenho do encargo assumido como Membros do Conselho de Administração da CREDIRIO, em relação às normas que determinam o controle interno, fica patente a responsabilidade de todos eles, inclusive da Cooperativa, devedora principal.
+
+Nas razões do especial, alega-se violação do art. 205, § 3º, V, do Código Civil; arts. 329, I, 337, XI, e 492 do Código de Processo Civil e art. 40 da Lei n. 6.024/74; bem como dissídio jurisprudencial.
+Decido.
+2. A irresignação não merece prosperar.
+Observa-se que a matéria relativa aos arts. 329, I, e 492 do Código de Processo Civil, não foi objeto de análise pelo acórdão recorrido, uma vez que não houve manifestação a respeito da possibilidade de o autor alterar o pedido ou a causa de pedir até a citação; tampouco sobre decisão ultra ou extra petita.
+Não foram opostos embargos declaratórios com o fito de suprir a existência de eventual omissão perpetrada pelo Tribunal de origem.
+De modo que, a ausência de manifestação judicial a respeito da matéria trazida à cognição desta Corte impede sua apreciação na presente via recursal, tendo em vista a falta de prequestionamento, requisito viabilizador do acesso às instâncias especiais. No caso, incidem, por analogia, as Súmulas 282 e 356 do STF.
+3. Ademais, o Tribunal a quo registra a legitimidade dos administradores da cooperativa de crédito em figurar no polo passivo da presente ação, pois sua responsabilidade deriva da negligência em relação ao controle interno da cooperativa CREDIRIO, ao permitirem a ocorrência de fraude em um posto de atendimento, o que gerou elevado número de saques por seus clientes, inviabilizando a continuação das atividades da cooperativa de crédito.
+Portanto, o Tribunal Mineiro assinala a existência de prova da negligência dos réus - dentre os quais, o recorrente - no desempenho do encargo assumido como membros do Conselho de Administração da CREDIRIO, em relação às normas que determinam o controle interno.
+A reforma do aresto, neste aspecto, demanda inegável necessidade de reexame de matéria fático-probatória, providência inviável de ser adotada em sede de recurso especial, ante o óbice da Súmula 7 desta Corte.
+4. Outrossim, o Sodalício de origem assenta que a obrigação reclamada refere-se a necessidade de devolução dos depósitos feitos em conta poupança na Cooperativa recorrente (devedora principal), a qual deve responder pelos prejuízos decorrentes da injusta retenção de tais valores após sua liquidação extrajudicial, bem como seus administradores (devedores solidários).
+Sendo assim, a prescrição da ação rege-se pela obrigação em foco, sendo que os devedores solidários respondem nestes termos, correndo a favor deles o mesmo prazo prescricional.
+4.1 A Corte Estadual consigna que a ação em apreço não se trata de reparação civil, mas de um direito pessoal, consistente na retenção indevida de depósitos bancários pela Cooperativa agravada. Portanto, não se enquadrando o prazo prescricional em nenhuma das hipóteses específicas descritas no art. 206 do CC, incide na espécie o prazo geral decenal do art. 205 do CC.
+Deste modo, verifica-se que o acórdão recorrido não destoa da jurisprudência desta Corte, de modo que incide o óbice da Súmula 83/STJ a impedir o provimento recursal almejado.
+A propósito:
+RECURSO ESPECIAL. AÇÃO DE EXIGIR CONTAS, PROMOVIDA POR ACIONISTA, REFERENTE AO PAGAMENTO DE DIVIDENDOS E OUTROS RENDIMENTOS INERENTES À TITULARIDADE DE AÇÕES. PRETENSÃO DE EXIGIR CONTAS E A DE OBTER O RESSARCIMENTO, NA EVENTUALIDADE DE SE APURAR CRÉDITO EM FAVOR DO DEMANDANTE. PRAZO PRESCRICIONAL TRIENAL. APLICAÇÃO DA LEI ESPECIAL (ART. 287, II, A, DA LEI N. 6.404/1976). RECURSO ESPECIAL PROVIDO.
+(..)
+1.1 O atual Código Civil, além de preceituar novas pretensões com prazo de exercício específico (anteriormente não contempladas), não mais adota a distinção entre ações pessoais e reais, para a fixação do prazo residual, agora de 10 (dez) anos. Afinal, as ações (condenatórias) sujeitas à prescrição referem-se à pretensão de obter uma prestação, decorrente da violação do direito do autor, no que se inserem, indistintamente, todos os direitos pessoais e reais.
+No atual sistema, deve-se analisar se a pretensão está especificada no rol do art. 206 do Código Civil, ou, ainda, nas demais leis especiais, para, apenas subsidiariamente, ter incidência o prazo decenário, constante do art. 205.
+(..)
+2. Recurso especial provido.
+(REsp 1608048/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/05/2018, DJe 01/06/2018) - g.n.
+
+5. Por outro lado, o conhecimento do recurso fundado na alínea "c" do permissivo constitucional pressupõe a demonstração analítica da alegada divergência. Para tanto, faz-se necessário a transcrição dos trechos que configurem o dissenso, com a indicação das circunstâncias que identifiquem os casos confrontados. (Nesse sentido: REsp 441.800/CE, Rel. Ministro JORGE SCARTEZZINI, DJ 2.8.04).
+No caso em tela, a parte agravante traz à colação ementa de julgado, contudo não procede ao cotejo deste com o caso dos autos; apenas traça uma conclusão conveniente em face dos enunciados estampados nas ementas, não sendo aferível a similitude fática entre esse acórdão e o do caso em julgamento.
+A falta de cotejo analítico impede o acolhimento do apelo, pois não foram demonstradas em quais circunstâncias o caso confrontado e o aresto paradigma aplicaram diversamente o direito, sobre a mesma situação fática.
+Importante salientar que a análise do apelo especial fundado em alegado dissídio jurisprudencial deve ser demonstrado nos moldes exigidos pelos artigos 541, parágrafo único, do CPC e 255, § 2º, do Regimento Interno do Superior Tribunal de Justiça, o que não ocorreu.
+6. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
