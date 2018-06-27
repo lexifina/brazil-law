@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto por GLASS ARQUITETURA E CONSTRUÇÕES LTDA EPP contra decisão que inadmitiu o recurso especial por ele interposto, com fundamento no artigo 105, III, alínea a, da Constituição da República, com o objetivo de reformar acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul, nos termos da seguinte ementa (fl. 508):
+AGRAVO DE INSTRUMENTO. MANDADO DE SEGURANÇA. LICITAÇÃO. DISCUSSÃO ACERCA DA CLASSIFICAÇÃO DE PROPOSTAS. ASSINATURA DO CONTRATO ANTERIOR À IMPETRAÇÃO. MANDAMUS PREJUDICADO.
+A pretensão no mandamus é de que sejam aceitas e julgadas as propostas da impetrante em licitação, com alteração do resultado do certame.
+Quando do ingresso da ação, já havia sido adjudicado o objeto, assinados os contratos, e iniciado o cumprimento da avença, razão pela qual resta ele prejudicado.
+Extinção do writ em decorrência do efeito translativo do agravo de instrumento.
+AGRAVO DE INSTRUMENTO E MANDAMUS PREJUDICADOS, COM EXTINÇÃO PELO EFEITO TRANSLATIVO.
+Opostos embargos de declaração, foram eles rejeitados (fls. 534-540).
+Em suas razões recursais especiais Glass Arquitetura e Construções aponta negativa de vigência, pelo aresto vergastado, aos arts. 1º, § único, 5º, e 23 da Lei nº 12.016/2009, sob a alegação de que não seria o caso da extinção do mandado de segurança por perda do objeto, em decorrência de fato superveniente, visto que, diversamente do deduzido pelo Tribunal a quo, a impetração do mandamus não ocorreu depois da assinatura do contrato administrativo, mas antes desse ato.
+Aduz, ainda, dissídio jurisprudencial entre o acórdão recorrido e julgado desta Corte.
+Contrarrazões apresentadas às fls. 643-651 e recurso teve seguimento negado pelo Tribunal a quo (fls. 661-668), tendo sido interposto o presente agravo.
+É o relatório. Decido.
+Considerando que o agravante impugnou a fundamentação apresentada na decisão agravada, e atendidos os demais pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Como a decisão recorrida foi publicada sob a égide da legislação processual civil anterior, observam-se em relação ao cabimento, processamento e pressupostos de admissibilidade dos recursos as regras do Código de Processo Civil de 1973, diante do fenômeno da ultratividade e do Enunciado Administrativo n. 2 do Superior Tribunal de Justiça.
+Com relação à alegada negativa de vigência aos arts. 1º, § único, 5º, e 23 da Lei nº 12.016/2009, o Tribunal a quo, na fundamentação do decisum e dos aclaratórios, assim firmou entendimento (fls. 512-513 e 538-539):
+ ..
+Quando do ingresso do mandado de segurança, em 12/08/2015 (fl. 15 - fl. 02 na origem), já houvera sido adjudicado o objeto e assinados os contratos entre o Banrisul e Metrum Engenharia Ltda., o que ocorreu em 05/08/2015, conforme instrumentos trazidos aos autos pela empresa e pelo Banco, estes, inclusive, com firmas reconhecidas na mesma data (fls. 422 a 431). Obviamente, a adjudicação do objeto lhe é anterior.
+Tais fatos não foram informados na petição inicial e, especialmente, neste recurso.
+A pretensão do agravante é de que "seja definitivamente concedida a segurança para proteger o direito líquido e certo da impetrante de ter sua proposta julgada, (..) determinando-se à autoridade coatora a reclassificação das propostas e a alteração da proclamação do resultado", em certame que já está encerrado.
+O pedido é de aceitação e julgamento de suas propostas, com reclassificação dos resultados do certame, o que foi superado pela assinatura do contrato. E não há pretensão no writ de anulação de atos posteriores.
+Já estava encerrada a licitação quando do ajuizamento da ação, o que afasta a possibilidade de anular atos anteriores à adjudicação do contrato.
+ ..
+Aclaratórios:
+ ..
+A data constante nos contratos, 05/08/2015, a mesma em que foram reconhecidas as assinaturas em tabelionato (fl. 431), é a que importa e prevalece sobre as lançadas no site do Banrisul (fl. 255). Não se pode confundir a assinatura das avenças com o início da vigência. Esta foi prevista na cláusula décima, a contar de 12/08/2015.
+E mais, de qualquer forma, quando da distribuição do writ, em 12/08/2015, já estavam em vigor os contratos, consoante a cláusula décima.
+E a adjudicação dos objetos, obviamente, é ainda anterior.
+A posterior publicação da súmula do contrato em nada altera a situação, pois apenas noticia o que já foi concretizado.
+ ..
+Desse modo, tendo o Tribunal a quo, com base nos elementos fáticos carreados aos autos, concluído que a data da assinatura do contrato administrativo ocorreu em 05/08/2015, antes da impetração do mandado de segurança, em 12/08/2015, para se deduzir de forma diversa, na forma pretendida no apelo nobre, seria necessário o revolvimento do mesmo acervo documental já analisado, especialmente do contrato administrativo, procedimento vedado em sede de recurso especial, por óbice da Súmula n. 5 e 7 desta Corte, que assim dispõem, respectivamente: "Simples interpretação de cláusula contratual não enseja recurso especial" e"A pretensão de simples reexame de prova não enseja recurso especial".
+A esse respeito, os seguintes julgados:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA LEGALIDADE DE REGRA DE EDITAL. REEXAME DE PROVAS E DE EDITAL. SÚMULAS 5 E 7/STJ. VIOLAÇÃO AO PRINCÍPIO DA ISONOMIA. INOVAÇÃO RECURSAL, EM SEDE DE AGRAVO REGIMENTAL. NÃO CABIMENTO. APRECIAÇÃO DE ALEGADA VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE, NA VIA DE RECURSO ESPECIAL. AGRAVO REGIMENTAL IMPROVIDO.
+I. Hipótese em que o acórdão recorrido manteve sentença que julgara improcedente ação ordinária, que visava assegurar a matrícula do autor em instituição de ensino superior que, mediante edital, realizara certame para o preenchimento de vagas ociosas por particulares já graduados, exigindo como requisito, para tanto, que o candidato não poderia ser portador de diploma há mais de 10 (dez) anos entre a conclusão deste último até o período letivo pretendido para ingresso no novo curso, condição não atendida, no caso dos autos.
+II. Segundo consignado no acórdão recorrido, "da análise da documentação acostada aos autos, infere-se que o autor da demanda, ao prestar as provas, já detinha plena ciência acerca das regras editalícias, até porque anuiu, expressamente, às disposições ali contidas, estando vinculado ao instrumento convocatório" e, além disso, "deveria o apelante provar que mesmo com o estabelecimento de tal exigência, ainda haveria vagas remanescentes do curso por ele almejado, demonstrando, pois, a ausência de qualquer prejuízo à instituição de ensino. Neste viés, acolher o pleito autoral sem a observância de tal peculiaridade poderia criar um injusto tumulto nos quadros da apelada".
+III. Considerando a fundamentação adotada na origem, alterar o entendimento do Tribunal a quo ensejaria, inevitavelmente, o reexame fático-probatório dos autos e do edital, procedimento vedado, pelas Súmulas 5 e 7 desta Corte. Precedentes do STJ.
+IV. A alegada ofensa ao art. 5º da Constituição Federal constou apenas do presente Agravo Regimental. Nos termos da jurisprudência desta Corte, "é inviável a apreciação de matéria que não foi alegada no momento processual adequado, pois à parte é vedado inovar pedidos quando da interposição de agravo regimental ou embargos de declaração" (STJ, AgRg nos EDcl no REsp 1.229.749/ES, Rel. Ministra
+MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe de 19/09/2013).
+V. Ademais, a análise de suposta ofensa a dispositivos constitucionais compete exclusivamente ao Supremo Tribunal Federal, nos termos do art. 102, inciso III, da Constituição da República, sendo defeso o seu exame, no âmbito do Recurso Especial, ainda que para fins de prequestionamento, conforme pacífica jurisprudência do STJ.
+VI. Agravo Regimental improvido (AgRg no REsp. 1.552.733/SE, Rel. Min. ASSUSETE MAGALHÃES, DJe 20.11.2015).
+ADMINISTRATIVO. CONCURSO PÚBLICO. ESCOLARIDADE. COMPROVAÇÃO. CANDIDATO COM QUALIFICAÇÃO SUPERIOR À EXIGIDA NO EDITAL. REQUISITO ATENDIDO. REEXAME DE MATÉRIA FÁTICA E CLÁUSULAS EDITALÍCIAS. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. VIOLAÇÃO AO ART. 535 DO CPC. NÃO OCORRÊNCIA.
+1. Verifica-se não ter ocorrido ofensa ao art. 535 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+2. Pacificado o entendimento de que "não se mostra razoável impedir o acesso ao serviço público de um candidato detentor de conhecimentos em nível mais elevado do que o exigido para o cargo em que fora devidamente aprovado mediante concurso" (AgRg no REsp 1.375.017/CE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/05/2013, DJe 04/06/2013).
+3. A alteração das conclusões adotadas pela Corte de origem, acerca do cumprimento dos requisitos editalícios para nomeação do candidato, tal como colocada a questão nas razões recursais, demandaria, necessariamente, interpretação de cláusulas do edital do certame, bem assim novo exame do acervo fático-probatório constante dos autos, providências vedadas em recurso especial a teor das Súmula 5 e 7/STJ.
+4. Agravo regimental a que se nega provimento (AgRg no REsp. 1.477.408/RN, Rel. Min. SÉRGIO KUKINA, DJe 10.11.2015).
+Nesse sentido, a incidência das Súmulas 5 e 7, ambas do STJ, também impede a análise do dissídio jurisprudencial suscitado.
+Ante o exposto, com fundamento no art. 253, § único, II, a, do RI/STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
