@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de Recurso Ordinário em Mandado de Segurança, interposto por [NOME] CRUZ FELICIANO, em 03/06/2013, com fundamento no art. 105, II, b, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"MANDADO DE SEGURANÇA - ATO DO PROCURADOR GERAL DE JUSTIÇA QUE COLOCOU O IMPETRANTE EM DISPONIBILIDADE, CONFORME DECISÃO DO CONSELHO SUPERIOR DO MINISTÉRIO PÚBLICO - DECADÊNCIA AFASTADA - LEGITIMIDADE PASSIVA RECONHECIDA - PRELIMINARES AFASTADAS.
+MANDADO DE SEGURANÇA - ATO DO PROCURADOR GERAL DE JUSTIÇA QUE COLOCOU O IMPETRANTE EM DISPONIBILIDADE, CONFORME DECISÃO DO CONSELHO SUPERIOR DO MINISTÉRIO PÚBLICO - ALEGADA FALTA DE QUORUM DE DELIBERAÇÃO - QUESTÃO QUE, ENTRE OUTRAS, ENCONTRA-SE SUBMETIDA Ã APRECIAÇÃO DO CONSELHO NACIONAL DO MINISTÉRIO PÚBLICO, EM REVISÃO DE PROCESSO DISCIPLINAR, NA QUAL A COGNIÇÃO É AMPLA.
+MANDADO DE SEGURANÇA - ATO DO PROCURADOR GERAL DE JUSTIÇA QUE COLOCOU O IMPETRANTE EM DISPONIBILIDADE, CONFORME DECISÃO DO CONSELHO SUPERIOR DO MINISTÉRIO PÚBLICO - QUORUM DE DELIBERAÇÃO ALCANÇADO PELA MAIORIA DOS CONSELHEIROS NÃO IMPEDIDOS DE VOTAR - ADMISSIBILIDADE - INEXIGIBILIDADE DE MAIORIA DOS MEMBROS EFETIVOS DO ÓRGÃO - ART. 93, VIII E 129, § 4o, DA CF - AUSÊNCIA DE AUTORIZAÇÃO PARA SUBSTITUIÇÃO DOS MEMBROS IMPEDIDOS DE VOTAR (PROCURADOR - GERAL E CORREGEDOR-GERAL) - EVENTUAL SUBSTITUIÇÃO QUE, ADEMAIS, DAR-SE-IA POR OUTRO MEMBRO JÁ INTEGRANTE DO COLEGIADO (DECANO) - ART. 2º § Io, DO REGIMENTO INTERNO DO CSMP - NULIDADE INOCORRENTE - SEGURANÇA DENEGADA" (fl. 744e).
+Inconformada com a denegação do mandamus, a parte recorrente sustenta o seguinte:
+"Como se pode observar da decisão, o Conselho Superior do Ministério Público, por maioria de votos, e não maioria absoluta, acolheu o pedido de disponibilidade. Vale observar que votaram em sentido contrário, afastando a disponibilidade, a nobre Conselheira Relatora Iurica Tanio Okumura, bem como os [NOME] [NOME], [NOME] e [NOME], este último, naquela oportunidade, sustentou ainda a necessidade de quorum qualificado (fls. 241).
+A Maioria absoluta é um número fixo, que corresponde a mais da metade do total de membros de determinada assembléia. A maioria absoluta recebe este nome porque não varia, isto é, independentemente de quantos membros estejam presentes no dia da votação a maioria absoluta será a mesma, pois leva em consideração o total de integrantes e não o número de presentes.
+Embora usualmente seja costume afirmar que a maioria absoluta é a "metade mais um", melhor utilizar a fórmula segundo a qual a maioria absoluta é o
+primeiro número inteiro posterior à metade, pois isso serve tanto para quorum par quanto para quorum ímpar; a usual fórmula "metade mais um", por sua vez, só é precisa quando se refere a quorum par.
+Nas Casas do Congresso Nacional, por exemplo, como o Senado possui 81 Senadores, a metade será 40,5. Neste caso, a maioria absoluta será atingida com 41 senadores, pois é o primeiro número inteiro posterior à metade. Na Câmara dos Deputados, com os seus 513 deputados federais, a metade é 256,5; desse modo, a maioria absoluta será atingida com 257 deputados, que é o primeiro número inteiro posterior à metade. No Supremo Tribunal Federal, como o plenário possui onze ministros, a maioria absoluta é formada por seis deles.
+(..)
+Nesse ponto, lembramos que tanto o artigo 129, § 4o, como os incisos do artigo 93 da Carta da República, tiveram a redação determinada pela Emenda Constitucional 45, de 8 de dezembro de 2004, a mesma norma que embasou a decisão do Conselho Superior do Ministério Público, como consta da ata do procedimento administrativo no. 135.363/10, que diz (fls. 241, linhas 22/24):
+(..)
+Nobres julgadores, não é o número de votantes de uma determinada assembléia que determina a sua maioria absoluta, e sim a totalidade de seus membros. O próprio Supremo Tribunal Federal, onde seu plenário é constituído por onze Ministros, tem a maioria absoluta formada por seis deles.
+Neste passo lembremos a previsão do Regimento Interno do Conselho Superior do Ministério Público do Estado de São Paulo, também esquecido na ocasião do julgamento do procedimento administrativo, que diz, em seu artigo 7o, § Io, IV:
+"Art. 7o - Os suplentes substituem os Conselheiros eleitos em seus impedimentos ou afastamentos.
+§ Io. Será caso de convocação do suplente: (..)
+IV - nos impedimentos que importem falta de quorum para decisão".
+O referido artigo não deixa dúvida quanto ao procedimento que poderia ter sido adotado para que houvesse onze votos no julgamento, e a argumentação de que os conselheiros impedidos seriam desconsiderados como integrantes do colegiado opõe-se a melhor doutrina e jurisprudência, bem com ao próprio Regimento Interno do Egrégio Conselho Superior do Ministério Público do Estado de São Paulo.
+Como se não fosse suficiente, naquele julgamento também houve afronta ao artigo 15, inciso VIII, da Lei Orgânica Nacional Ministério Público (Lei 8.625, de 12 de fevereiro de 1993), que leva os seguintes termos:
+"Art. 15 - Ao Conselho Superior do Ministério Público compete:
+VIII - determinar por voto de dois terços de seus integrantes a disponibilidade ou remoção de membros do Ministério Público, por interesse público, assegurada ampla defesa".
+E, no que se refere ao Estado de São Paulo, temos a Lei Complementar Estadual nº 734, de 26 de novembro de 1993, que diz em seu artigo 36, inciso IX:
+"Art. 36 - São atribuições do Conselho Superior do Ministério Público:
+IX- determinar, independentemente de representação, por voto de dois terços de seus integrantes, a disponibilidade ou remoção de membros do Ministério Público, por interesse público, assegurada ampla defesa".
+Portanto, resta demonstrado que o quorum exigido para disponibilidade é de dois terços segundo as Leis do Ministério Público Nacional e Estadual, ou a maioria absoluta, em consonância a Carta da República, dos membros efetivos do colegiado. Em qualquer hipótese o número de votos necessários não foi atingido, visto que foram 5 (cinco) em um universo de 11 (onze).
+No mais, o pronunciamento se dá em nome do órgão colegiado como um todo, e, portanto, de todos os seus membros, votantes ou não, vencedores ou vencidos. Não tem cabimento legal excluir quem quer que seja, por qualquer motivo, no momento de realizar o cálculo que se refere à maioria absoluta.
+Sendo assim, pede o RECORRENTE que seja concedida a segurança para reconhecer a ilegalidade do ato do Excelentíssimo Senhor Procurador-Geral de Justiça do Estado de São Paulo" (fls. 766/773e).
+Por fim, requer "seja o presente recurso conhecido, processado e provido, para o fim de reformar o respeitável acórdão atacado" (fl. 773e).
+Contrarrazões, à fls.778/809e.
+Parecer do Ministério Público Federal, a fls. 858/861e, pelo improvimento do Recurso Ordinário.
+Sem razão o recorrente.
+De acordo com os autos, o acórdão recorrido proferido pelo Tribunal de origem foi publicado em 16/05/2013 (quinta-feira), tendo o prazo recursal iniciado em 17/05/2013 (sexta-feira), e terminado em 31/05/2013 (sexta-feira). Entretanto, o Recurso Ordinário só foi interposto em 03/06/2013 (segunda-feira) (fl. 764e), ou seja, em desconformidade com o prazo de 15 dias, previsto no art. 508 do CPC. Logo, o recurso é intempestivo, não preenchendo um dos requisitos extrínsecos de sua admissibilidade.
+"ADMINISTRATIVO. RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. INTEMPESTIVIDADE. RECURSO NÃO CONHECIDO.
+1. É intempestivo o recurso ordinário interposto após findo o prazo de quinze dias (art. 508 do CPC/1973).
+2. Na hipótese, o acórdão recorrido foi disponibilizado no DJe de 5/9/2013, considerando-se publicado em 6/9/2013 (sexta-feira) e iniciando-se a contagem do prazo recursal em 9/9/2013 (segunda-feira). Assim, o prazo recursal de quinze dias encerrou-se em 23/9/2013, tendo o recurso sido manejado em 24/9/2013; logo, fora do prazo legal.
+3. Recurso em mandado de segurança não conhecido" (STJ, RMS 53.552/BA, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 20/10/2017).
+"EMBARGOS DE DECLARAÇÃO. EFEITOS INFRINGENTES. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. INTEMPESTIVIDADE.
+1. O acórdão recorrido foi publicado no Tribunal a quo em 10.2.2012 (sexta-feira, e-STJ fl. 471), tendo iniciado em 13.2.2012 (segunda-feira) o prazo de quinze dias para a oposição do recurso ordinário. O prazo para a interposição do recurso esgotou-se no dia 27.02.2012 (segunda-feira). A petição só foi protocolada em 29.2.2012 (e-STJ fl. 476), ou seja, quando já havia escoado o prazo de 15 (quinze) dias previsto no art. 508 do Código de Processo Civil.
+2. Embargos de declaração de [NOME] acolhidos, com efeitos infringentes, para não conhecer do recurso ordinário. Embargos de declaração apresentados pelo Estado de Minas Gerais prejudicados" (STJ, EDcl no RMS 40.956/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 20/05/2013).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. RECURSO ORDINÁRIO INTEMPESTIVO. NÃO CABIMENTO.
+1. Consta dos autos que o acórdão foi publicado em 12/2/2014, uma quarta-feira. Assim, o prazo recursal - de 15 dias, nos termos do art. 33 da Lei 8.038/90 - começou a correr no dia 13, encerrando-se em 27/2/2014, quinta-feira. O especial, porém, foi protocolado no Tribunal de origem em 28/2/2014.
+(..)
+3. Agravo regimental a que se nega provimento" (AgRg no RMS 46.104/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 23/09/2014).
+Ante o exposto, com fundamento no art. 34, XVIII, a, do RISTJ, não conheço do Recurso Ordinário.
+I.
