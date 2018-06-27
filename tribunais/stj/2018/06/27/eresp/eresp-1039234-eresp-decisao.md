@@ -1,0 +1,35 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. DISCUSSÃO ACERCA DE EVENTUAL JULGAMENTO FORA DO PEDIDO NO CASO CONCRETO. ARTS. 128 E 460 DO CPC/73. IMPOSSIBILIDADE.
+1. Nos termos da jurisprudência vigente nesta Corte Superior, não há que se falar em dissídio jurisprudencial com relação ao entendimento firmado em acórdão embargado quanto à ocorrência ou não de julgamento extra petita, na medida em que a verificação de algum vício previsto no art. 460 do CPC/73 depende das circunstâncias particulares do caso concreto.
+2. Embargos de divergência indeferidos liminarmente.
+DECISÃO
+Cuida-se de embargos de divergência opostos por [NOME], ANDRE GUSTAVO DE LIMA [NOME], FERNANDO ANTONIO DA FROTA BARRETO, [NOME] [NOME], CAMPOTERRA CONSTRUTORA LTDA e TANGARÁ ENGENHARIA LTDA contra acórdão proferido pela 4ª Turma do STJ.
+Ação: revocatória, ajuizada por A G T ENGENHARIA E COMERCIO LTDA - MASSA FALIDA em desfavor dos embargantes, na qual requer a declaração de ineficácia da alienação de bens móveis ocorrida após a instauração do processo falimentar.
+Sentença: julgou procedente o pedido, para condenar os embargantes à devolução da quantia de R$ 93.000,00 à massa falidade.
+Acórdão: negou provimento à apelação interposta pelos embargantes, nos termos da seguinte ementa (e-STJ fl. 1.356):
+AÇÃO REVOCATORIA - RECONHECIMENTO DA DECADÊNCIA EM RELAÇÃO À PARTE DOS LITISCONSORTES NECESSÁRIOS - NECESSIDADE DE DECISÃO UNIFORME - UM DOS LITISCONSORTES CITADO A TEMPO - NÃO-OCORRÊNCIA DO INSTITUTO.
+Tratando de litisconsorte passivo necessário unitário, a decisão deve ser una, uniforme para todos. Na hipótese, ocorrida a devida citação de um dos litisconsortes em tempo hábil para evitar a ocorrência da decadência, este instituto não se operou em relação a nenhum deles.
+AÇÃO REVOCATÓRIA - INEXISTÊNCIA E COMPROVAÇÃO QUANTO À TRANSFERÊNCIA DE BENS A TÍTULO ONEROSO - RECURSO IMPROVIDO.
+Não comprovada a alegação de que a transferência de bens da empresa em processo de falência deu-se a titulo oneroso nem sequer que o valor da venda veio a integralizar o ativo da empresa, correta a sentença que julgou procedente o pleito inicial da ação revocatória, determinando aos requeridos a devolução dos valores correspondentes aos bens alienados.
+Recursos especiais: foram interpostos pelos embargantes com fundamento nas alíneas "a" e "c" do permissivo constitucional. Alegou violação dos arts. 128, 460, 475-A a 475-E do CPC/73 e 54 do DL 7.661/45, bem como dissídio jurisprudencial.
+Acórdão: conheceu parcialmente dos recursos especiais, negando-lhes provimento, nos termos da seguinte ementa (e-STJ fl. 1.685):
+PROCESSUAL CIVIL. AÇÃO REVOCATÓRIA. ALIENAÇÃO INDEVIDA DE VEÍCULOS. RECURSOS ESPECIAIS. SENTENÇA EXTRA PETITA. LIQUIDAÇÃO DO VALOR DA INDENIZAÇÃO. DECADÊNCIA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA N. 283 DO STF. REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. OMISSÕES E CONTRADIÇÕES INEXISTENTES. ERRO MATERIAL NÃO CARACTERIZADO. PRETENSÃO DE REEXAMINAR PROVAS. DIVERGÊNCIA JURISPRUDENCIAL.
+1. Omissões não caracterizadas, tendo em vista que, embora não tenha havido expressa referência a alguns dispositivos, o Tribunal de origem enfrentou fundamentadamente as questões jurídicas disciplinadas em tais normas legais e invocadas pelos recorrentes.
+2. Requerida na petição inicial a restituição dos veículos à massa, pode o magistrado converter tal pedido em indenização, na forma do art. 54, caput, do Decreto-Lei n. 7.661/1945, sem que isso represente julgamento extra petita.
+3. O Tribunal de origem adotou dois fundamentos para afastar a decadência para o ajuizamento da ação revocatória. Em nenhum dos recursos especiais interpostos foi impugnado o fundamento de que o prazo decadencial nem mesmo teria se iniciado, porquanto não alcançada a fase de liquidação. Incidência da orientação da Súmula n. 283 do STF, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+4. O reexame das provas dos autos para verificar a data do primeiro protesto esbarra na vedação da Súmula n. 7 do STJ.
+5. Ausência de contradição no acórdão recorrido ao mencionar, simultaneamente, os incisos II e IV do art. 52 do Decreto-Lei n. 7.661/1945. A motivação jurídica para a procedência da ação, mantida em segundo grau, foi a aplicação do referido inciso IV diante da gratuidade da transferência dos bens. O inciso II foi citado para rebater argumento dos próprios recorrentes no sentido de que a transferência teria sido onerosa.
+6. Divergência jurisprudencial que não dá passagem aos recursos especiais, tendo em vista a incidência da orientação da Súmula n. 283 do STF.
+7. Recursos especiais parcialmente conhecidos e desprovidos.
+Embargos de declaração: opostos pelos embargantes, foram rejeitados.
+Embargos de divergência: apontam dissonância entre o posicionamento adotado pela 4ª Turma do STJ e o entendimento adotado pela 2ª Turma no REsp 1.087.333/PR e no AgRg nos EDcl no REsp 987.925/MT, no que se refere à ocorrência de julgamento fora do pedido (extra petita); e pela própria 4ª Turma, em distinta composição, no REsp 885.988/ES, em relação à necessidade de instauração de procedimento de liquidação de sentença.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: CPC/2015
+Inicialmente, constata-se que o acórdão embargado é contrastado com paradigmas advindos da 2ª e 4ª Turmas. Há, portanto, superposição de competências entre a 2ª Seção e a Corte Especial, razão pela qual faz-se mister que a Corte Especial se pronuncie em primeiro lugar, conforme jurisprudência deste Tribunal (EREsp 223.796/DF, Corte Especial, DJ de 15/12/2003).
+Passo, assim, à análise da divergência suscitada tão-somente em face dos acórdãos da 2ª Turma, reservando o outro paradigma para posterior apreciação da 2ª Seção.
+- Da divergência jurisprudencial
+Nos termos da jurisprudência vigente nesta Corte Superior, não há que se falar em dissídio jurisprudencial com relação ao entendimento firmado em acórdão embargado quanto à ocorrência ou não de julgamento extra petita (violação dos arts. 128 e 460 do CPC/73), na medida em que a verificação ou não dos vícios elencados nesses dispositivos processuais depende das circunstâncias particulares do caso concreto, em especial, os termos em que a lide foi proposta e decidida (AgInt nos EREsp 1.391.684/RJ, Corte Especial, DJe de 19/09/2016; AgRg nos EREsp 1.391.789/PR, Corte Especial, DJe de 25/02/2016).
+Dessarte, tendo em vista que, na hipótese, os embargantes pretendem o reconhecimento da ocorrência de violação dos arts. 128 e 460 do CPC/73, não é cabível o manejo de embargos de divergência.
+Forte nessas razões, INDEFIRO LIMINARMENTE os embargos de divergência, com amparo no art. 932, III, do CPC/2015 e 266-C do RISTJ.
+Após o transcurso do prazo recursal, remetam-se os autos para redistribuição dos presentes embargos de divergência para um dos eminentes Ministros que compõem a 2ª Seção, a fim de que seja analisado o recurso sob a luz do paradigma restante.
+Publique-se. Intimem-se.
