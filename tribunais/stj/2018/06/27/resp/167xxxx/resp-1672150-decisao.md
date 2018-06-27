@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, III, alínea a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AÇÃO RESCISÓRIA JULGADA LIMINARMENTE IMPROCEDENTE COM APOIO NOS ARTIGOS 332, I E II, 355, I, C/C 487, I E ART. 968, § 4º, TODOS DO CPC/2015. AGRAVO INTERNO. APOSENTADORIA. CONVERSÃO DE TEMPO COMUM EM ESPECIAL ANTES DA LEI 9.035/95. INTERPRETAÇÃO CONTROVERTIDA. SÚMULA 343 DO STF RATIFICADA PELO RE 590809. APLICAÇÃO NO CASO CONCRETO. INVIABILIDADE DA DEMANDA RESCISÓRIA. RECURSO IMPROVIDO.
+1. A ação rescisória não possui o préstimo de adequação de situação jurídica já acobertada pelo instituto da coisa julgada a modo de seguir novel orientação jurisprudencial do Supremo Tribunal Federal (RE 590.809/RS, relator Ministro Marco Aurélio, julgado em regime de repercussão geral), sob pena de afronta à segurança jurídica assegurada pela autoridade da coisa julgada.
+2. No caso, da leitura do acórdão impugnado, constata-se que a 5ª Turma do Tribunal Regional Federal da 4ª Região, reconhecendo o direito à conversão do tempo de serviço comum em especial até a edição da Lei 9.032/95, à luz da jurisprudência dominante à época, concedeu ao segurado o benefício da aposentadoria especial.
+3. A superveniente alteração jurisprudência não acarreta, por si só, violação de disposição legal, senão evidencia que os entendimentos manifestados a favor e contra a tese do segurado eram plausíveis e, assim, não se configura a hipótese do art. 485, V, do CPC.
+4. Incidência da Súmula 343 do STF. Prestígio da coisa julgada e da segurança jurídica.
+5. Negado provimento ao agravo interno, mantendo-se o julgamento liminar de total improcedência da ação rescisória.
+No presente recurso especial, o recorrente aponta violação dos arts. 485, V, do CPC/73 (art. 966, V do CPC/15).
+Alega a autarquia que o acórdão recorrido julgou improcedente a ação, ao argumento de que, ao tempo da decisão rescindenda, a matéria referente à conversão de tempo comum em especial em matéria previdenciária era controvertida nos Tribunais (o que só veio a ser pacificado com o REsp 1.310.034, julgado sob o rito do art. 543-C ) e, portanto a sua rescisão por violação manifesta de norma encontrava óbice na Súmula 343 do STF.
+Sustenta, entretanto, que à época em que prolatada a decisão rescindenda tal matéria não era controvertida no STJ, porquanto o REsp 1.310.034, que pacificou a questão, faz remissão a julgado de 2011 (REsp 1.151.363) para proibir a conversão de tempo especial em comum.
+Argumenta que o acórdão rescidendo, diante do exposto, violou o art. 57, §3º, da Lei 8.21391, dispositivo que, no seu entender, impede a conversão de tempo comum em especial no período controverso em tela.
+É o relatório. Decido.
+No que se refere à alegada violação literal a dispositivo de lei, a orientação desta Corte é no sentido de que tal ofensa deve ser "direta, evidente, que ressai da análise do aresto rescindendo" e "se, ao contrário, o acórdão rescindendo elege uma dentre as interpretações cabíveis, ainda que não seja a melhor, a ação rescisória não merece vingar, sob pena de tornar-se um mero "recurso" com prazo de "interposição" de dois anos.
+Sob esta ótica, portanto, o recurso não merece prosperar.
+Isto porque esta e. Corte já se debruçou sobre esse tema específico, concluindo que somente com o julgamento do REsp 1.310.034 houve pacificação nesta e. Corte sobre os critérios para conversão do tempo especial em comum.
+Confira-se, in verbis:
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. CONVERSÃO DE TEMPO COMUM EM ESPECIAL. LEI QUE REGE O DIREITO. DEFINIÇÃO NO JULGAMENTO DO RESP 1.310.034/PR, SOB O REGIME DO ART. 543-C DO CPC/1973.
+1. O recorrente, nas razões de seu recurso, defende a tese de que mesmo antes do julgamento do REsp 1.310.034/PR, representativo da controvérsia acerca do critério para conversão de tempo comum em especial, a matéria já era pacificada pelo julgamento do REsp 1.151.363/MG.
+2. Somente com o julgamento do REsp 1.310.034/PR, exarado sob o regime do art. 543-C do CPC, é que a jurisprudência se consolidou, para fins da Súmula 343/STF, no sentido de que "a lei vigente por ocasião da aposentadoria é a aplicável ao direito à conversão entre tempos de serviço especial e comum, independentemente do regime jurídico à época da prestação do serviço".
+3. O REsp 1.151.363/MG, também decidido sob o rito do art. 543-C do CPC, pacificou a questão relativa ao critério de definição do fator de conversão do tempo especial em comum, constituindo, portanto, matéria diversa daquela examinada no REsp 1.310.034/PR. 4. Recurso Especial não provido.
+(REsp 1672138/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/09/2017, DJe 09/10/2017)
+Sendo assim, correta a interpretação do Tribunal a quo, quanto à aplicação da Súmula 343/STF no presente caso, que tem o seguinte conteúdo, in verbis:
+Não cabe ação rescisória por ofensa a literal disposição de lei, quando a decisão rescidenda se tiver baseado em texto legal de interpretação controvertidas nos tribunais.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial.
+Publique-se. Intimem-se.
