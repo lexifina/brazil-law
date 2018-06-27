@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Recurso Especial interposto (art. 105, III, "a", da Constituição Federal) contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+TRIBUTÁRIO. EXECUÇÃO FISCAL. EMBARGOS. FGTS. ACORDO TRABALHISTA. NECESSIDADE DE PROVA PERICIAL. CERCEAMENTO DE DEFESA. ANULAÇÃO DA SENTENÇA.
+1. O pagamento do FGTS feito diretamente aos empregados, no contexto de reclamatória trabalhista, é medida que vem sendo admitida na jurisprudência, mas unicamente para o efeito de eximir a empresa do dever de efetuar novamente o pagamento do principal.
+2. A mera existência de acordos trabalhistas não constitui prova suficiente do efetivo pagamento do FGTS ao trabalhador, de modo que só poderão ser abatidas as parcelas se a prova de pagamento for inequívoca. No caso, a não realização de prova pericial configura cerceamento de defesa.
+3. Sentença anulada, para o fim de ser apurado, por meio de prova pericial, quais parcelas já foram efetivamente pagas.
+Os Embargos de Declaração foram rejeitados.
+A parte recorrente alega, em breve síntese, violação do art. 1.022 do CPC/2015. Sustenta que opôs aclaratórios e que, "conquanto a essencialidade de tais questões, a Turma julgadora não as enfrentou ainda que levantadas em sede de embargos de declaração pela FAZENDA NACIONAL, não provendo os embargos de declaração. Assim julgando, negou-se vigência ao atual art. 1022 do NCPC."
+Sem contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 11.4.2018.
+A irresignação não merece acolhida.
+É inviável o conhecimento do Recurso Especial ante o óbice da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+A parte recorrente sustenta que o art. 1.022 do CPC/2015 foi violado, mas deixa de apontar, de forma clara e precisa, o vício em que teria incorrido o acórdão impugnado.
+Assevera ter oposto Embargos de Declaração no Tribunal a quo, "para sanar omissão acerca do disposto nos artigos 15, 18 e 25, todos da Lei nº 8.036, de 1990". Alega, de forma genérica, que "é mister que se apreciem tais questões, porque faz jus a União à prestação jurisdicional das Instâncias Ordinárias. Na espécie, fato é que o julgado recorrido se omitiu nas peculiaridades do caso concreto. Ou seja, no momento processual adequado para alertar a Corte local sobre sua omissão, a União ofertou os seus embargos. E como se fosse nada, o órgão jurisdicional da 4ª Região persistiu em tais vícios e manteve a decisão atacada. Vulnerou, assim, abertamente, o art. 1022 do NCPC".
+A recorrente, portanto, não infirmou os fundamentos da decisão recorrida, sendo deficiente a fundamentação recursal, uma vez que não demonstrou a relevância das matérias sobre as quais deveria pronunciar-se o Tribunal de origem para o julgamento do feito.
+A propósito:
+PROCESSUAL CIVIL. TRIBUTÁRIO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. IRPF. OMISSÃO DE RENDIMENTOS. ALUGUÉIS. OPÇÃO DE PARCELAMENTO. CONFISSÃO. INEXISTÊNCIA. DÉBITOS NÃO INDICADOS. RECURSO ESPECIAL INCAPAZ DE INFIRMAR AS RAZÕES DO ACÓRDÃO RECORRIDO. SÚMULA 284/STF.
+1. A parte recorrente sustenta que o art. 1.022 do CPC/2015 foi violado, mas deixa de apontar, de forma clara e precisa, o vício em que teria incorrido o acórdão impugnado. É inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF.
+2. No tocante à aventada ofensa aos arts. 5º da Lei 11.941/2009 e 348, 353 e 354 do CPC de 1973 c/c o art. 106 do CTN, percebe-se que, em que pese à oposição de Embargos de Declaração, os referidos artigos de lei não foram analisados e aplicados pelo órgão julgador. Incide, na espécie, a Súmula 211/STJ.
+3. Ainda que se considerasse prequestionado o art. 5º da Lei 11.941/2009, a irresignação não comportaria acolhimento, uma vez que o dispositivo legal ora em comento afirma claramente que a opção pelos parcelamentos importa confissão irrevogável e irretratável dos débitos indicados pelo sujeito passivo para compor os referidos parcelamentos.
+4. In casu, o Tribunal a quo foi categórico ao afirmar que não houve nenhuma indicação de valores a parcelar, não existindo, portanto, confissão dos supostos débitos.
+5. Verifica-se que a argumentação exposta no Apelo Nobre não possui elementos suficientes para infirmar as razões colacionadas no acórdão recorrido, pois em nenhum momento a recorrente buscou impugnar especificamente os fundamentos utilizados pela instância a quo para negar seu pleito. Aplica-se o óbice da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+6. Recurso Especial do qual não se conhece. (REsp 1.686.850/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 11.10.2017)
+AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO - AÇÃO ANULATÓRIA DE PERÍCIA EM AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA DO ANTERIOR RELATOR NEGANDO PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AUTORA.
+1. A alegação de afronta ao artigo 535 do CPC/1973 (art. 1.022, CPC/2015) de forma genérica impede o conhecimento do recurso especial ante a deficiência na fundamentação. Incidência da Súmula 284 do STF, por analogia. 1.1. Na linha dos precedentes do STJ, os argumentos apresentados apenas no regimental não são passíveis de conhecimento por importar indevida inovação recursal, em virtude da preclusão consumativa.
+2. Para reverter a conclusão consignada no Tribunal de origem quanto à matéria discutida estar acobertada pela coisa julgada e pela preclusão seria necessário o revolvimento das provas constantes dos autos, providência esta inviável na via do recurso especial, conforme o enunciado da Súmula 7/STJ. O fato de se tratar de matéria de ordem pública não tem o condão de afastar a preclusão, por se tratar de questão já decidida. Precedentes.
+3. É inadmissível o recurso especial que não impugna motivação do acórdão recorrido apta, por si só, a manter a conclusão a que chegou a Corte estadual (Súmula 283 do STF).
+4. Agravo regimental desprovido. (AgRg no Ag 1.390.295/RJ, Rel. Min. Marco Buzzi, Quarta Turma, DJe 23.5.2017).
+TRIBUTÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL, QUANTO À ALEGAÇÃO GENÉRICA DE OFENSA AOS ARTS. 489, 1.022 E 1.025 DO CPC/2015. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO DAS DISPOSIÇÕES DO DECRETO 92.930/86, DA CONVENÇÃO DE VIENA SOBRE O DIREITO DOS TRATADOS E DO ART. 3.2 DO ENTENDIMENTO RELATIVO ÀS NORMAS E PROCEDIMENTOS SOBRE SOLUÇÃO DE CONTROVÉRSIAS DA ORGANIZAÇÃO MUNDIAL DO COMÉRCIO (ESC). PREQUESTIONAMENTO CONFIGURADO, EM RELAÇÃO ÀS DEMAIS DISPOSIÇÕES NORMATIVAS INVOCADAS NO RECURSO ESPECIAL. IMPOSTO DE IMPORTAÇÃO. BASE DE CÁLCULO. VALOR ADUANEIRO. DESPESAS DE CAPATAZIA. INCLUSÃO. IMPOSSIBILIDADE. ART. 4º, § 3º, DA IN SRF 327/2003. ILEGALIDADE. RECURSO ESPECIAL PARCIALMENTE CONHECIDO, E, NESSA PARTE, IMPROVIDO.
+I. Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. A deficiência na fundamentação do Recurso Especial, precisamente quanto à alegação genérica de ofensa aos arts. 489, 1.022 e 1.025 do CPC/2015 - como no presente caso -, atrai a incidência analógica da Súmula 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+(..)
+VI. Recurso Especial parcialmente conhecido, e, nessa parte, improvido. (REsp 1.626.971/SC, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 4.5.2018)
+Diante do exposto, com fundamento no art. 932, II, do CPC/2015, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
