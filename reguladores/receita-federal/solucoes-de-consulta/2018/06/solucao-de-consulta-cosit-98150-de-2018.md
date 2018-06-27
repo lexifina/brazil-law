@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98150, de 20 de junho de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 3808.94.19 Mercadoria: Preparação com ação desinfetante para tratamento da água de piscinas, constituída por dicloroisocianurato de sódio di-hidratado (72,8 % em peso), cloreto de sódio, sulfato de cobre, cloreto de alumínio e bicarbonato de sódio, apresentada em forma de pó, acondicionada em embalagens para venda a retalho ou mesmo em big bags. DISPOSITIVOS LEGAIS: RGI 1 (Nota 1 do Capítulo 29 e o texto da posição 38.08), RGI 6 (textos das subposições 3808.9 e 3808.94) e RGC 1 (texto do item 3808.94.1 e do subitem 3808.94.19) constantes da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto n.º 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992 e atualizadas pela IN RFB nº 1.788, de 2018.
+.
+[arquivo anexo: SC Cosit nº 98.150-2018 .pdf]
