@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] contra decisão exarada pela il. 3ª Vice-Presidência do eg. Tribunal de Justiça do Estado de Santa Catarina (TJ-SC), que inadmitiu o recurso especial.
+Cuidam os autos, na origem, de ação de reintegração de posse proposta por [NOME] em desfavor de [NOME].
+O il. Magistrado julgou improcedente o pedido (sentença às fls. 186/191).
+Diante disso, [NOME] interpôs apelação, a qual foi parcialmente provida pelo eg. TJ-SC, nos termos do v. acórdão, assim ementado (fls. 250/251):
+"APELAÇÃO CÍVEL. AÇÃO DE REINTEGRAÇÃO DE POSSE. ANIMAIS. SUÍNOS ENTREGUES EM COMODATO PELO AUTOR AO RÉU PARA PRODUÇÃO DE LEITÕES. REQUERIDO QUE, APÓS O TÉRMINO DO AJUSTE, RECUSOU-SE A DEVOLVER OS ANIMAIS DE PROPRIEDADE DO REQUERENTE. SENTENÇA DE IMPROCEDÊNCIA. RECURSO DO AUTOR. AGRAVO RETIDO NÃO CONHECIDO. AUSÊNCIA DE REQUERIMENTO EXPRESSO EM APELAÇÃO (ART. 523, § 1.º, DO CPC/73). MÉRITO. DEFESA DO DEMANDADO AMPARADA NA EXISTÊNCIA DE CONTRATO DE PARCERIA ENTRE AS PARTES, E NÃO DE COMODATO, ALÉM DE QUE OS ANIMAIS SÃO DE SUA PROPRIEDADE. INSUBSISTÊNCIA. POSSE ANTERIOR DOS ANIMAIS COMPROVADA PELO CONTRATO DE COMODATO FIRMADO ENTRE AS PARTES. ASSINATURA RECONHECIDA PELO RÉU EM AUDIÊNCIA. TESTEMUNHAS QUE, ADEMAIS, DECLARARAM QUE ENTREGARAM DIVERSOS SUÍNOS NA PROPRIEDADE DO RÉU DURANTE A VIGÊNCIA DO CONTRATO. ESBULHO POSSESSÓRIO E PERDA DA POSSE TAMBÉM DEMONSTRADOS, DIANTE DA RESISTÊNCIA DO RÉU EM DEVOLVER OS ANIMAIS QUE LHE FORAM ENTREGUES. REQUISITOS DO ART. 927 DO CPC/73 PREENCHIDOS. PLEITOS INDENIZATÓRIOS, PORÉM, NÃO ACOLHIDOS. PRETENDIDA CONDENAÇÃO DO RÉU AO PAGAMENTO DA MULTA CONTRATUAL E DA REPARAÇÃO DE PERDAS E DANOS NOS TERMOS ESTIPULADOS NO AJUSTE. PROVA DOS AUTOS QUE, TODAVIA, REVELA QUE AS PARTES EXECUTARAM O CONTRATO COM BASE NA INFORMALIDADE E NA CONFIANÇA, TORNANDO INEFICAZES AS DISPOSIÇÕES CONTRATUAIS. AUSÊNCIA DE PROVA, ADEMAIS, DA DATA ESPECÍFICA EM QUE SUCEDIDA A RESOLUÇÃO DA AVENÇA. SENTENÇA REFORMADA PARA JULGAR PARCIALMENTE PROCEDENTES OS PEDIDOS. AUTORIZADA A CONVERSÃO DA OBRIGAÇÃO ESPECIFICA EM PERDAS E DANOS. RECURSO CONHECIDO E PARCIALMENTE PROVIDO".
+Inconformado, [NOME] interpôs recurso especial, com fulcro no art. 105, inciso III, alínea "a", da CF/88, no qual alega violação do art. 561 do CPC/2015
+Como dito, o apelo nobre foi inadmitido às fls. 338/340.
+Irresignado, [NOME] manejou o presente agravo em recurso especial refutando os fundamentos da decisão que inadmitiu seu apelo nobre.
+Não foi apresentada contraminuta (certidão de fl. 358).
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+No apelo nobre que pretende trânsito, sustenta-se ofensa do art. 561 do CPC/2015, ao argumento de não restar comprovada a posse dos animais pela parte recorrida.
+O recurso, contudo, não merece prosperar.
+Isso porque o eg. TJ-SC, mediante análise soberana das provas carreadas aos autos, concluiu pelo cabimento da reintegração possessória, uma vez que as partes celebraram contrato de comodato quanto aos mencionados animais. Afirma que o recorrente não exerceu seu ônus probatório de desconstituir as alegações apresentadas pelo autor, ora recorrido. À título elucidativo, colacionam-se os seguintes excertos do v. acórdão estadual (fls. 254/258):
+"O recurso, adianto desde logo, está a merecer acolhimento.
+Com efeito, o demandante juntou cópia do contrato de comodato que celebrou com o demandado em 02.02.2007 (fls. 14-19, em melhor qualidade às fls. 72-77), do qual se inferem as seguintes disposições:
+(..)
+A prova dos autos, todavia, não reforça a tese do requerido. De efeito, ele próprio declarou, em seu depoimento pessoal (mídia audiovisual à fl.
+151), que reconhece como sua a assinatura e rubricas no documento de fls. 72-77, embora insista no argumento de que não celebrou comodato com o requerente:
+(..)
+É de se registrar que, muito embora tenha arrolado testemunhas, a única pessoa ouvida em audiência de instrução, da parte do réu, foi a testemunha [NOME] (fl. 150). Este, todavia, ao responder que não trabalhou com o réu nos anos de 2007 a 2009 - período sobre o qual se desenrolou a controvérsia foi dispensado pelo próprio advogado do demandado (mídia audiovisual à fl. 151).
+O autor, de sua vez, trouxe testemunhas e informante que roboraram a alegação de que houve contrato de comodato e, mais, que de fato houve entrega de suínos do demandante na propriedade do demandado, o que este havia negado por ocasião da resposta. É o que se infere dos seguintes depoimentos:
+(..)
+Ora, se a alegação do autor é de que celebrou contrato de comodato com o réu, e o contrato está juntado aos autos, o ônus da prova desloca-se para o réu, sobretudo porque sua tese é de que comodato nunca houve, mas parceria. Se um de seus argumentos de defesa era no sentido de que jamais recebeu os suínos do autor - como meio de comprovar que de comodato, efetivamente, não se tratava -, então era de seu maior interesse que arrolasse testemunhas capazes de roborar o que alegou, o que não fez.
+Aliás, o requerido requereu em contestação o prazo de 15 dias para que comprovasse deter o domínio dos suínos conforme registro perante a CIDASC (fl. 49), prova esta que jamais chegou a produzir nos autos. Não bastasse, certo é que o requerido assinou o termo de comodato e a ele deve se sujeitar; se o fez por erro ou dolo, caberia pretender a anulação do ajuste em ação própria ou reconvenção, ao que igualmente não procedeu.
+(..)
+Assim, do que dos autos consta, a única conclusão possível é de que, de fato, a pretensão do requerente está a merecer guarida. Com efeito, ele atende aos requisitos do art. 927 do CPC/73, uma vez que há comprovação de sua posse anterior sobre os animais (inc. I), além do incontroverso esbulho praticado pelo réu, representado inclusive por sua resistência nos autos e insistência em argumentar que os suínos são de sua propriedade, com a conseqüente perda da posse antes exercida pelo autor (incs. II e IV)". (grifou-se)
+
+Nesse cenário, para se alterar o entendimento ora transcrito, quanto à comprovação do comodato, seria necessária a revisão de matéria fático-probatória e das cláusulas contratuais, o que é inadmissível em sede de recurso especial, nos termos das Súmulas n. 5 e n. 7/STJ.
+Assim, forçoso reconhecer que o presente apelo não merece prosperar.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Majoro os honorários advocatícios recursais, nos termos do art. 85, § 11, do CPC/2015, de R$ 2.500,00 (dois mil e quinhentos reais) para R$ 2.750,00 (dois mil setecentos e cinquenta reais).
+Publique-se.
