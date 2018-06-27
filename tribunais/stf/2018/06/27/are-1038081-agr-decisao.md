@@ -1,0 +1,20 @@
+Decisão
+    Trata-se de Agravo Interno contra despacho que determinou a devolução dos autos ao Tribunal a quo para que seja observada a decisão do Supremo no RE 588.322 (Rel. Min. GILMAR MENDES, Tema 217).
+    Sustenta a parte agravante, em suma, que o referido precedente está em consonância com o acórdão recorrido, sendo caso de pronto julgamento por esta CORTE.
+    É o relatório. Decido.
+    Embora, via de regra, sejam irrecorríveis os despachos (Código de Processo Civil, art. 1.001), no presente caso, se faz necessária a reconsideração da decisão agravada e a análise do Recurso Extraordinário com Agravo.
+    Trata-se de Agravo de decisão que não admitiu Recurso Extraordinário interposto com fundamento no art. 102, III, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 150, Vol. 1):
+    “Ação anulatória de débito fiscal. Taxa de licença. Segundo entendimento do STF, não é justificável a cobrança das taxas pelo exercício do poder de polícia por mera natureza potencial. Nega-se provimento ao recurso.”
+    A parte recorrente, ora agravada, alega ter o acórdão recorrido violado dispositivos constitucionais.
+    O Juízo de origem ratificou a sentença que julgou procedente ação anulatória de débito fiscal, ante a ausência de prova do efetivo exercício do poder de polícia para a cobrança da taxa de fiscalização de anúncios (TFA).
+    Sobre a matéria, o Plenário do SUPREMO TRIBUNAL FEDERAL, no RE 588.322-RG (Rel. Min. GILMAR MENDES, Tema 217), examinou a repercussão geral da questão constitucional debatida neste recurso. Vejamos:
+    “Recurso Extraordinário 1. Repercussão geral reconhecida. 2. Alegação de inconstitucionalidade da taxa de renovação de localização e de funcionamento do Município de Porto Velho. 3. Suposta violação ao artigo 145, inciso II, da Constituição, ao fundamento de não existir comprovação do efetivo exercício do poder de polícia. 4. O texto constitucional diferencia as taxas decorrentes do exercício do poder de polícia daquelas de utilização de serviços específicos e divisíveis, facultando apenas a estas a prestação potencial do serviço público. 5. A regularidade do exercício do poder de polícia é imprescindível para a cobrança da taxa de localização e fiscalização. 6. À luz da jurisprudência deste Supremo Tribunal Federal, a existência do órgão administrativo não é condição para o reconhecimento da constitucionalidade da cobrança da taxa de localização e fiscalização, mas constitui um dos elementos admitidos para se inferir o efetivo exercício do poder de polícia, exigido constitucionalmente. Precedentes. 7. O Tribunal de Justiça de Rondônia assentou que o Município de Porto Velho, que criou a taxa objeto do litígio, é dotado de aparato fiscal necessário ao exercício do poder de polícia. 8. Configurada a existência de instrumentos necessários e do efetivo exercício do poder de polícia. 9. É constitucional taxa de renovação de funcionamento e localização municipal, desde que efetivo o exercício do poder de polícia, demonstrado pela existência de órgão e estrutura competentes para o respectivo exercício, tal como verificado na espécie quanto ao Município de Porto Velho/RO 10. Recurso extraordinário ao qual se nega provimento.“
+    Verifica-se, portanto, que não merece reparos o aresto atacado, porquanto se filia ao referido precedente vinculante.
+    Por fim, o acolhimento das razões expostas no extraordinário impõe a revisão das provas dos autos, medida inviável nesta sede recursal. Incide, portanto, o óbice da Súmula 279 desta CORTE (Para simples reexame de prova não cabe recurso extraordinário).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, reconsidero a decisão agravada e NEGO SEGUIMENTO AO AGRAVO EM RECURSO EXTRAORDINÁRIO interposto pelo Município.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 27 de junho de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
