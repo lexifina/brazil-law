@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de Agravo, interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, na vigência do CPC/2015, contra decisão do Tribunal de Justiça do Estado do Paraná, que, com fundamento na Súmula 282 do STF, inadmitiu o Recurso Especial interposto contra acórdão assim ementado:
+"APELAÇÃO CÍVEL E REEXAME NECESSÁRIO CONHECIDO DE OFÍCIO. REVISÃO DO BENEFÍCIO DE AUXÍLIO-DOENÇA ACIDENTÁRIO. SENTENÇA DE PROCEDÊNCIA.
+1. INEXISTÊNCIA DE AFRONTA À COISA JULGADA. ACORDO REALIZADO ENTRE O INSS E O SINDICATO DE APOSENTADOS EM AÇÃO CIVIL PÚBLICA. AUSÊNCIA DE ÓBICE À PROPOSITURA DE AÇÃO INDIVIDUAL.
+2. REVISÃO DO AUXÍLIO-DOENÇA ACIDENTÁRIO. RENDA MENSAL DO BENEFÍCIO. MÉDIA ARITMÉTICA SIMPLES DOS MAIORES SALÁRIOS DE CONTRIBUIÇÃO, EQUIVALENTE A 80% (OITENTA POR CENTO) DE TODO PERÍODO CONTRIBUTIVO (ART. 29, II E §5º, DA LEI Nº 8.213/91).
+3. CORREÇÃO MONETÁRIA. PERÍODO ANTERIOR À EDIÇÃO DA LEI Nº 11.960/1999. ÍNDICE QUE MELHOR REFLETIR A DESVALORIZAÇÃO DA MOEDA NO PERÍODO. PERÍODO DE 30 DE JUNHO DE 2009 ATÉ 25 DE MARÇO DE 2015. APLICAÇÃO DO ARTIGO 1º-F DA LEI Nº 9.494/1997 (TAXA REFERENCIAL). APÓS 25 DE MARÇO DE 2015. CORREÇÃO MONETÁRIA PELO ÍNDICE DE PREÇOS DO CONSUMIDOR AMPLO ESPECIAL (IPCA-E). [NOME] 4425 E 4357 DO SUPREMO TRIBUNAL FEDERAL.
+4. JUROS DE MORA. 1% (UM POR CENTO) AO MÊS. ARTIGO 161. § Io, DO CTN E 406 DO NCC, ATÉ 29/6/2009. APLICAÇÃO DO ARTIGO 1º-F, DA LEI  9.494/1997, APÓS O ADVENTO DA LEI Nº 11.960/2009. ÍNDICE DOS JUROS APLICADOS À CADERNETA DE POUPANÇA. TERMO INICIAL CITAÇÃO (SÚMULA 204 DO STJ).
+5. PREQUESTIONAMENTO EXPRESSO. DESNECESSIDADE. EXPOSIÇÃO FUNDAMENTADA DO POSICIONAMENTO DO JULGADOR. HONORÁRIOS ADVOCATÍCIOS.
+5. REFORMA, EM SEDE DE REEXAME NECESSÁRIO. FIXAÇÃO NOS PARÂMETROS DO ART. 20, §4º, DO CPC. APELAÇÃO CONHECIDA E PARCIALMENTE PROVIDA. SENTENÇA PARCIALMENTE MODIFICADA" (fls. 190/191e).
+O acórdão em questão foi objeto de Embargos de Declaração, rejeitados, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE CONTRADIÇÃO, OMISSÃO OU OBSCURIDADE. ACÓRDÃO MANTIDO. REAPRECIAÇÃO. NÃO CABIMENTO DOS EMBARGOS SE NÃO OCORREM OS CASOS DO ART. 535 DO CPC. EFEITO INFRINGENTE. IMPOSSIBILIDADE. PREQUESTIONAMENTO. DECISÃO RECORRIDA EM QUE FORAM EXPLICITADAS, DE FORMA ESCORREITA E PRECISA, AS RAZÕES QUE A MOTIVARAM, APONTANDO A LEGISLAÇÃO PERTINENTE. EMBARGOS DE DECLARAÇÃO CONHECIDOS E REJEITADOS" (fl. 232e).
+Sustenta a parte agravante, nas razões do Recurso Especial, fundamentado na alínea a do permissivo constitucional, violação ao art. 9º do Decreto 20.910/32. Afirma, in verbis:
+"Na questão de fundo, o acórdão merece integral reforma, porque negou vigência ao art. 9º do Decreto 20.910/32 e, por conseguinte, deixou de pronunciar a prescrição. Explica-se.
+Dispõe referido dispositivo:
+(..)
+À vista disso, quando, por algum motivo, a prescrição qüinqüenal em face da Fazenda Pública e interrompida, volta ela a correr pela metade do prazo.
+No caso concreto, o Tribunal de origem reconheceu que o Memorando-Circular Conjunto 21/DIRBEN/PFFJNSS, datado de 15.04.2010, logrou interromper a prescrição. Assim, a prescrição qüinqüenal que corre contra a pretensão da parte autora de ver revista a renda mensal inicial do benefício e pagos os atrasados, que já estava em curso, teria sido interrompida nesta data - 15.04.2010.
+Ocorre que, à vista do art. 9º do Decreto, essa prescrição qüinqüenal, depois de interrompida, volta a correr pela metade do prazo - qual seja, 2,5 anos-. É dizer: a parte autora teria 2,5 anos a contar de 15.04.2010 para postular a revisão do benefício e as parcelas vencidas daí decorrentes.
+Aqui, portanto, é que reside a questão de interpretação de lei federal a ser apreciada por esse STJ: é que o tribunal de origem deixou de reconhecer os efeitos da interrupção havida com transcurso do prazo pela metade, que seriam ou a pronúncia da prescrição total, ou, pelo menos, a fixação de novo marco prescricional, a contar do ajuizamento da demanda.
+A dúvida que persiste, portanto, diz com o fato de que, no caso concreto, quando do ajuizamento da demanda (em 05/12/2013) já havia transcorrido o prazo de dois anos e meio da interrupção do prazo prescricional por força do Memorando-Circular Conjunto nº 21/DIRBF.N/PFF.INSS (em 15/04/2010). É dizer: a prescrição, interrompida em 15.04.2010, voltou a correr pela metade do prazo naquela data, por mais dois anos e meio. Como o ajuizamento da demanda somente ocorreu em 05/12/2013, ou seja, mais de dois anos e meio depois de 15.04.2010, é caso de se reconhecer a prescrição total das parcelas na hipótese, ou seja, a prescrição do fundo de direito.
+Sobre o tema, inúmeras vezes já se manifestou esse Superior Tribunal de Justiça:
+(..)
+Em síntese, portanto, o que a autarquia previdenciária postula no presente recurso é tão somente a aplicação, ao caso concreto, do disposto no art. 9º do Decreto n. 20.910/32, que regula a interrupção da prescrição de forma geral e é plenamente aplicável à matéria previdenciária, como há muito já assentado no REsp 2S0287/MG, para o fim de se reconhecer que o prazo prescricional voltou a correr pela metade a contar de 15.04.2010 (marco interruptivo). Via de conseqüência, no caso concreto, como a parte autora não observou o prazo prescricional pela metade e ajuizou a demanda apenas em 05/12/2013, será caso de pronúncia da prescrição do fundo de direito. E o que se requer" (fls. 248/250e).
+Requer, ao final, "seja o recurso conhecido e provido, a fim de que seja determinada a aplicação do art. 9º do Decreto 20.910/32 na hipótese, de forma que o prazo prescricional qüinqüenal tenha voltado a correr por metade (2,5 anos) a partir do marco prescricional fixado no acórdão recorrido (15.04.2010), com a conseqüente pronúncia da prescrição do fundo de direito no caso concreto" (fl. 250e).
+Foram apresentadas contrarrazões (fls. 254/261e).
+Negado seguimento ao Recurso Especial (fls. 263/264e), foi interposto o presente Agravo (fls. 267/268e).
+Não foi apresentada contraminuta (fl. 274e).
+A irresignação não merece acolhimento.
+O Tribunal de origem, para decidir a controvérsia dos autos, deixou consignado, no que interessa:
+"3. Do prescrição.
+A autarquia pretende a reforma da decisão para que seja reconhecida a prescrição, sob a alegação de que a edição do Memorando-Circular Conjunto DIRBEN/PFE-INSS nº 21/10 não implicou em renúncia, tampouco em interrupção da prescrição, de modo que se encontram prescritas as parcelas anteriores aos cinco anos que precedem o ajuizamento da presente ação, nos termos do art. 103, parágrafo único, da Lei 8.213/91, combinado com o art. 219, §1º, do CPC e art. 201, I, do CC.
+Entretanto, conforme edição Memorando-Circular Conjunto nº 21 /DIRBEN/PFE-INSS. de 15.04.2010, somente estariam prescritas as parcelas anteriores a 15.04.2005. Ao considerar-se o início da vigência do benefício (03.12.2008), não há que se cogitar em prescrição.
+Ainda, destaca-se que tal decisão está em conformidade com o entendimento deste egrégio Tribunal de Justiça, segundo o qual a edição do memorando importou no reconhecimento do direito do segurado, o que, por força do art. 202, VI, do Código Civil, importa na interrupção do prazo prescricional.
+Acerca do tema, vejamos os seguintes julgados:
+(..)
+Portanto, não merece provimento o apelo quanto a este tópico" (fls. 199/202e).
+Por simples cotejo entre as razões do Recurso Especial e os fundamentos do acórdão recorrido, observa-se que a tese recursal contida no art. 9º do Decreto 20.910/32, sequer implicitamente, foi apreciada pelo Tribunal de origem, não obstante terem sido opostos Embargos de Declaração, para tal fim.
+ Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, no ponto, incidindo o teor da Súmula 211 do STJ ("inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. INDENIZAÇÃO. CABIMENTO. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+(..)
+6. Agravo interno não provido" (STJ, AgInt no AREsp 1.172.051/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 23/03/2018).
+Acrescente-se que, se a parte recorrente entendesse persistir algum vício no acórdão impugnado, imprescindível a alegação de violação ao art. 1.022 do CPC/2015 (535 do CPC/73), por ocasião da interposição do Recurso Especial, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Assim, à mingua de prequestionamento, inviável a apreciação da aludida tese recursal.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios anteriormente fixados em R$ 1.000,00 (mil reais) para R$ 1.400,00 (mil e quatrocentos reais), levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
