@@ -1,0 +1,61 @@
+DECISÃO
+Sindicato dos Empregados em Estabelecimentos Bancários de São Paulo apresenta agravo contra decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, a, da Constituição Federal, com o objetivo de reformar o acórdão assim ementado pelo Tribunal de Justiça do Estado de São Paulo (fls. 364-370):
+APELAÇÕES CÍVEIS. Locação. Ação de Despejo por Falta de Pagamento cumulada com Cobrança de Aluguéis, Acessórios e Multa Contratual. Sentença de Parcial Procedência. Inconformismo do Autor. Não Acolhimento. Pretensão de redução dos Honorários Advocatícios pela Ré. Admissibilidade. Aplicação do artigo 85, §8º, do Código de Processo Civil. Sentença reformada nessa parte. RECURSO DO AUTOR NÃO PROVIDO e RECURSO DA RÉ PROVIDO, para reduzir o valor dos honorários advocatícios para RS 5.000,00 (cinco mil reais), mantendo-se, no mais, a R. Sentença de Primeira Instância.
+ Os embargos de declaração opostos foram rejeitados (fls. 382- 386).
+ O Sindicato recorrente, em suas razões especiais, aponta violação do art. 313 do CPC/15, alegando que o juízo a quo deveria ter aguardado o desfecho do processo de desapropriação do imóvel em questão, vez que o mesmo está sub judice, para, posteriormente, julgar a presente lide. Afirma que tal situação instaurou ofensa ao princípio da segurança jurídica.
+Invoca ainda, afronta ao art. 85 do CPC/15, em razão da redução dos honorários sucumbenciais, uma vez que tal verba não remunera o trabalho desempenhado pelo profissional.
+ Após o oferecimento de contrarrazões (fls. 409-415), o Tribunal de origem inadmitiu o recurso especial (fls. 417-418), tendo sido interposto o agravo em recurso especial.
+ É o relatório. Decido.
+ Considerando que o agravante impugnou a fundamentação apresentada na decisão agravada, e atendidos os demais pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+ Em relação à indicada violação do art. 313 do CPC/15, sustentando o recorrente a necessidade de suspensão do processo originário do presente recurso (despejo por falta de pagamento), na medida em que a matéria se acharia sub judice em razão dos autos expropriatórios, o recurso não merece prosperar.
+A respeito do tema, o acórdão recorrido considerou (fls. 368-369):
+Para tanto, alegou que firmou com a Ré, Contrato de Locação, sendo o mesmo prorrogado por diversas vezes, sempre pelo período de 12 (doze) meses, mediante aluguel mensal de R$ 19.016,34 (dezenove mil dezesseis reais e trinta e quatro centavos). Sustentou que a Ré está inadimplente desde o mês de maio de 2009. Por tais razões, propôs a presente Demanda, objetivando a rescisão contratual e desocupação do Imóvel, além do pagamento dos aluguéis vencidos, juros e multa.
+Inicialmente, passa-se à análise do Apelo interposto pelo Sindicato Autor, o qual, sopesados seus argumentos, não merece Provimento.
+Pois bem. Restou incontroverso o fato de que o Imóvel objeto desta Ação foi desapropriado e que o Município foi imitido na posse em 03 de dezembro 2010 (fls. 184).
+Sendo assim, não resta dúvida de que houve o desfazimento da Relação Locatícia a partir de tal data.
+Com efeito, o artigo 5o e parágrafo único da Lei nº 8.245/1991 dispõe que:
+"Ar. 5º - Seja qual for o fundamento do término da locação, a ação do locador para reaver o Imóvel é a de Despejo. Parágrafo único - O disposto neste artigo não se aplica se a locação termina em decorrência de desapropriação, - com a imissão do expropriante na posse do Imóvel. "
+Verifica-se que resta pendente de Julgamento, nos Autos da Ação de Desapropriação (fls. 332/334), apenas o Recurso Especial interposto contra o V. Acórdão que negou Provimento ao Agravo de Instrumento, o qual não possui efeito suspensivo.
+De qualquer forma, a Imissão na Posse, mesmo que provisória, rompeu por completo o vínculo locatício, havendo a perda do objeto da Ação com relação ao Despejo, bem como com relação à cobrança a partir da data da Imissão na Posse.
+Nesse sentido, como bem salientou o Digno Juízo de Primeira Instância, "Com efeito, não há que se discutir a purga da mora para manutenção do Contrato entre as Partes, eis que houve desapropriação do Imóvel em comento, sendo irrelevante se há recurso pendente, eis que o Município já se imitiu na posse do bem, de modo que não há aluguéis vencidos a partir de 03 de dezembro de 2010."
+Veja-se que a imissão da municipalidade na posse do respectivo imóvel, em razão da ação expropriatória, é fato incontroverso nos autos, ação esta que se encontra pendente somente em razão da interposição de recurso especial.
+Nesse panorama, tem-se que a controvérsia foi bem dirimida pelo juízo a quo, e encontra-se em perfeita sintonia com o entendimento jurisprudencial desta Corte de Justiça (g.n.):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 03/STJ. PEDIDO DE SUSPENSÃO DO PROCESSO. INOCORRÊNCIA DAS HIPÓTESES DO ART. 265 DO CPC/1973 (ATUAL 313, V, "A", DO CPC/2015). AUSÊNCIA DE PREJUÍZO. INDEFERIMENTO. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL. INTELIGÊNCIA DO ART. 544, § 4º, I, 2ª PARTE, DO CPC/1973, ART. 253, PARÁGRAFO ÚNICO, INC. I, DO RISTJ E ART. 932, III, DO CPC/2015. PRECEDENTES. USURPAÇÃO DE COMPETÊNCIA DESTE E.STJ PELA CORTE A QUO. INOCORRÊNCIA. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Quanto ao pedido de suspensão do feito, a suspensão do processo com base na alínea "a" do inc. IV do art. 265, do CPC/1973 (atual art. 313, V, "a, do CPC/2015) dá-se apenas naqueles casos em que decisão de mérito depender do exame de prejudicial que é a principal de outro processo, o que não é o caso dos autos. Não havendo que se falar em questão prejudicial apta a justificar a suspensão da presente demanda, sob pena de se postergar indefinidamente a conclusão da controvérsia, o que vai de encontro ao próprio princípio da razoável duração do processo (art. 5º, LXXXVIII, da CF/88), impõe-se o indeferimento do pedido de suspensão.
+ ..
+4. Agravo interno não provido.
+(AgInt no AREsp 874.868/MS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 25/10/2016, DJe 07/11/2016)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMISSÃO NA POSSE. ALIENAÇÃO FIDUCIÁRIA. PROPRIEDADE. CONSOLIDAÇÃO. PREJUDICIALIDADE EXTERNA. MATÉRIA DE FATO. SÚMULA Nº 7/STJ. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA Nº 283/STF. SUSPENSÃO. INOCORRÊNCIA. PRECEDENTES.
+1. A ausência de impugnação específica de fundamento do acórdão recorrido atrai a aplicação da Súmula nº 283/STF.
+2. Na hipótese, a verificação da prejudicialidade externa demanda o reexame das circunstâncias fáticas dos autos, o que é defeso na instância especial. Súmula nº 7/STJ.
+3. Esta Corte traçou orientação no sentido de que o art. 265, IV, "a", do Código de Processo Civil/1973 não impõe o sobrestamento da ação de imissão de posse enquanto se discute, em outra demanda, a anulação de ato de transferência do domínio. Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp 974.060/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/10/2017, DJe 27/10/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO JUDICIAL. SUSPENSÃO DO PROCESSO. ART. 265, § 5º, DO CPC/1973. PREJUDICIALIDADE EXTERNA. INEXISTÊNCIA. IMPOSSIBILIDADE.
+1. Em situações excepcionais, a Terceira Turma do Superior Tribunal de Justiça tem afastado o rigor da norma contida no art. 265, § 5º, do Código de Processo Civil/1973 de modo a permitir a flexibilização do prazo máximo de suspensão do processo enquanto se aguarda o julgamento de outra causa com relação de prejudicialidade.
+2. Inexistindo relação de prejudicialidade externa entre as demandas, não se admite a pretendida suspensão do processo com fundamento no art. 265, IV, "a", do CPC/1973 e, menos ainda, a prorrogação do prazo de suspensão, mesmo que equivocadamente determinada.
+ ..
+5. Agravo interno não provido.
+(AgInt no AREsp 1010223/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 13/06/2017, DJe 28/06/2017)
+Observado que o entendimento aqui consignado, lastreado na jurisprudência, é prevalente no Superior Tribunal de Justiça, aplica-se o enunciado da Súmula n. 568/STJ, in verbis:
+O relator, monocraticamente e no STJ, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Em relação à irresignação do recorrente quanto aos honorários sucumbenciais, a pretensão vai de encontro às convicções do julgador a quo, que com lastro no conjunto probatório constante dos autos assim decidiu (fl. 369):
+De acordo com o Princípio da Razoabilidade e nos termos do artigo 85, § 8o, do Código de Processo Civil, mesmo sendo a causa destituída de maior complexidade, devem os honorários advocatícios remunerar condignamente o Patrono da Parte Vencida.
+Com efeito, dispõe o § 8o do artigo 85 do Código de Processo Civil, que os honorários serão fixados consoante apreciação equitativa do Juiz, observando o disposto nos incisos do § 2o, que dizem respeito ao grau de zelo do Profissional, o lugar de prestação do serviço e a natureza e importância da causa, o trabalho realizado pelo Advogado e o tempo exigido para o seu serviço.
+Contudo, o que se torna claro ante a leitura do Código é que este abriu exceções à regra geral dos honorários entre 10% e 20% sobre o valor da condenação, exceções estas constantes do § 8o em questão.
+Neste contexto, na hipótese dos Autos, os honorários advocatícios devem ser reduzidos para o valor de R$ 5.000,00 (cinco mil reais), eis que tal redução se mostra em conformidade com as peculiaridades da causa e com o trabalho efetuado pelo Patrono da Parte Requerente, em obediência aos Princípios da Proporcionalidade e da Razoabilidade.
+ Assim, para rever tal posição seria necessário o reexame de elementos fáticos-probatórios, o que é vedado no âmbito estreito do recurso especial, ante a incidência do óbice sumular n.7/STJ.
+ A esse respeito, em situações análogas, os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS RECURSAIS. NÃO CABIMENTO. MAJORAÇÃO DE HONORÁRIOS. SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+ 1. É impossível a condenação ao pagamento de honorários advocatícios recursais, pois, nos termos do Enunciado 7 do Plenário do STJ, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+2. Excetuadas as hipóteses em que o valor afigura-se manifestamente ínfimo ou exorbitante, o que não se verifica na espécie, a majoração ou redução dos honorários advocatícios atrai a incidência da Súmula n. 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 977.184/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/06/2018, DJe 15/06/2018)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE NÃO VERIFICADAS. HONORÁRIOS RECURSAIS. MAJORAÇÃO EM AGRAVO INTERNO. NÃO CABIMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, sendo exigidos os requisitos de admissibilidade nele previstos (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Ausentes quaisquer dos vícios ensejadores dos declaratórios, afigura-se patente o intuito infringente da irresignação, que objetiva não suprimir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+3. A jurisprudência desta Corte firmou o entendimento de que é incabível nova majoração dos honorários recursais no julgamento do agravo interno e dos embargos de declaração oferecidos pela parte que teve seu recurso integralmente não conhecido ou não provido.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp 1711866/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 05/06/2018, DJe 12/06/2018)
+ Ante o exposto, nos termos do art. 253, parágrafo único, II, a e b, do RI/STJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+Publique-se. Intimem-se.
