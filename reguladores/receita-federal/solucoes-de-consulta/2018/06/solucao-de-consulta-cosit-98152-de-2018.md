@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98152, de 20 de junho de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 3808.91.99 Mercadoria: Preparação com efeito atrativo de mariposas, constituída por oleorresina (função atrativa), açúcares (função fago-estimulante) e pasta base inerte, própria para integrar iscas tóxicas (inseticidas) ou armadilhas, comercializada na forma de emulsão em bombonas plásticas com capacidade de 20 l. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 38.08), RGI 6 (textos das subposições 3808.9 e 3808.91) e RGC 1 (texto do item 3808.91.9 e do subitem 3808.91.99) constantes da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto n.º 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 1.788, de 2018.
+.
+[arquivo anexo: SC Cosit nº 98.152-2018 .pdf]
