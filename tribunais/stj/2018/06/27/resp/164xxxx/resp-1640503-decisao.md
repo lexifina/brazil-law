@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por MARIA APARECIDA PEREIRA CRUZ E OUTROS, na vigência do CPC/73, com base nas alíneas a e c do permissivo constitucional, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"SERVIDORES INATIVOS. PENSÃO POR MORTE. "ADICIONAL POR DIREÇÃO DA ATIVIDADE DE POLÍCIA JUDICIÁRIA" - ADPJ.
+1. Autores, beneficiários de pensão por morte, que postularam a condenação da São Paulo Previdência - SPPREV ao pagamento de diferenças devidas por força da instituição, aos servidores ativos, do "adicional por direção da atividade de polícia judiciária" previsto pela Lei Complementar Estadual nº 1.222/13.
+2. Vantagem de caráter genérico e indistinto; reconhecida a paridade com os vencimentos dos inativos e pensionistas, estimada no caso, pelo exercício da Direção da Atividade de Polícia Judiciária: discrímen insubsistente - porquanto se trata de atividade inerente ao próprio cargo. Recurso e remessa necessária em favor da ré desprovidos. Recurso dos autores não conhecido" (fl. 176e).
+O acórdão em questão foi objeto de Embargos de Declaração, os quais foram rejeitados (fls. 246/250e).
+Nas razões do Recurso Especial, aduz a parte recorrente, preliminarmente, ofensa ao art. 535, II, do CPC/73, ao argumento de que caso esse Superior Tribunal não entenda por prequestionados os artigos tidos por violados, "subsidiariamente requerem a anulação da decisão recorrida, por violação ao artigo 535 do CPC, para que outra decisão seja proferida pela Corte de origem" (fl. 224e).
+Alega, ainda, ofensa aos arts. 514 e 515 do CPC/73, porquanto: "A despeito da troca de nomes das vantagens  URV ao invés de ADPJ , o conhecimento da matéria impugnada foi inteiramente devolvido ao Tribunal, qual seja o pedido de elevação de honorários fixados sem a observância das normas previstas no Código de Processo Civil" (fl. 220e).
+Requer, ao final, o provimento do recurso para "que seja reformada a decisão recorrida e examinado o mérito da apelação, esperando que os honorários sejam elevados a 10% do valor da condenação, já que a causa está madura, ou, se assim não for entendido, que o acórdão recorrido seja anulado para que o Tribunal local profira outra decisão, conhecendo a apelação e examinando o seu mérito" (fl. 224e).
+Com contrarrazões (fls. 267/272e), o Recurso Especial foi admitido (fls. 273/274e).
+O presente recurso não merece prosperar.
+De início, verifica-se que a parte recorrente não demonstrou no que consistiu a suposta ofensa ao art. 535 do CPC/73, o que atrai, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+Nesse sentido:
+"RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANO MORAL NÃO CONFIGURADO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. APLICAÇÃO DA SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. REQUISITO DE ADMISSIBILIDADE NÃO PREENCHIDO. AUSÊNCIA DE PARTICULARIZAÇÃO DO DISPOSITIVO DE LEI FEDERAL. SÚMULA 284/STF. RECURSO NÃO PROVIDO.
+1. "É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC/73 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF". (AgInt no AREsp 1031163/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/06/2017, DJe 29/06/2017)
+2. A falta de particularização do dispositivo de lei federal objeto de divergência jurisprudencial consubstancia deficiência bastante a inviabilizar a abertura da instância especial. Incidência da Súmula 284/STF.
+3. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 1.198.768/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 05/03/2018).
+No que concerne ao mérito, é de se observar que por simples cotejo entre as razões do Recurso Especial e os fundamentos do acórdão recorrido, observa-se que a tese recursal contida nos arts. 514 e 515 do CPC/73 sequer implicitamente foi apreciada pelo Tribunal de origem, não obstante terem sido opostos Embargos de Declaração para tal fim.
+ Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, no ponto, incidindo o teor da Súmula 211 do STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. INDENIZAÇÃO. CABIMENTO. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+(..)
+6. Agravo interno não provido" (STJ, AgInt no AREsp 1.172.051/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 23/03/2018).
+Assim, à mingua de prequestionamento, inviável a apreciação da aludida tese recursal.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
