@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] contra decisão de fls. 304/306 (e-STJ), que deu provimento ao recurso especial.
+Afirma que a decisão "precisa ser esclarecida referente à omissão, sobre alegação de intempestividade do recurso, arguida em sede de preliminar nas contrarrazões do recurso especial e sobre o direito do embargante em permanecer no plano de saúde, nos termos do artigo 31 da lei 9656/98, no caso em epigrafe, o contrato de prestação de serviço fls. 107 a 119, garante o direito do embargante como beneficiário do plano de saúde, independentemente da forma que era custeado o plano de saúde" (fl. 310, e-STJ).
+Requer que sejam acolhidos os embargos de declaração.
+Impugnação às fls. 317/343 (e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Não prospera a inconformidade veiculada nos presentes aclaratórios.
+A decisão atacada não padece de nenhum dos vícios ensejadores dos embargos declaratórios enumerados no artigo 1.022 do Código de Processo Civil de 2015 (CPC/2015): obscuridade, contradição, omissão ou erro material.
+Com efeito, quanto à tempestividade do recurso especial, ressalto que a parte comprovou a indisponibilidade do sistema no último dia do prazo para a interposição do recurso (fl. 234 e-STJ).
+Ademais, observa-se que a parte autora, ora recorrida, no decurso do contrato de trabalho, não contribuía para o plano de saúde, conforme consignado no aresto atacado, ou seja, a contribuição era suportada integralmente pela empregadora.
+Assim, em virtude da ausência de parcela fixa periódica (mensalidade), e de o serviço oferecido não se enquadrar como salário indireto, não pode o demandante permanecer como beneficiário após se tornar inativo, pois não preenchidos os requisitos de custeio exigidos pelos arts. 30 e 31 da Lei nº 9.656/1998.
+De fato, não procede a pretensão ventilada na inicial, já que para os arts. 30 e 31 da Lei nº 9.656/1998 há a necessidade de contribuição do empregado, entendida esta como a parte paga referente à mensalidade do plano de saúde, em nada se confundindo com a cota de coparticipação, que é apenas a parte paga relacionada com os procedimentos utilizados nos serviços de assistência médica e hospitalar, como medida inibitória do uso indiscriminado pelos usuários.
+Tal questão restou decidida pelas Turmas Julgadoras da Segunda Seção desta Corte Superior conforme demonstram os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE COLETIVO EMPRESARIAL. EX-EMPREGADO APOSENTADO. ASSISTÊNCIA MÉDICA. MANUTENÇÃO. ART. 31 DA LEI 9.656/98. REQUISITOS NÃO PREENCHIDOS. CONTRATO DE TRABALHO. VIGÊNCIA. CONTRIBUIÇÃO EXCLUSIVA DO EMPREGADOR.
+1. A Quarta Turma, em recente julgado, posicionou-se no sentido de que "os valores pagos pelo ex-empregado, única e exclusivamente, a título de coparticipação ou franquia em procedimentos, como fator de moderação na utilização dos serviços, não caracterizam contribuição e, consequentemente, não ensejam o exercício do direito de manutenção no plano de saúde coletivo empresarial previsto nos artigos 30 e 31 da Lei 9.656/98" (REsp 1.608.346/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/10/2016, DJe de 30/11/2016) 2. No caso, tendo o plano de saúde sido financiado integralmente pela ex-empregadora, não estão caracterizados os requisitos necessários para sua manutenção nas mesmas condições do plano de saúde coletivo de quando empregado.
+3. Agravo interno não provido" (AgInt no AgInt no REsp 1.615.164/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/02/2017, DJe 14/03/2017).
+"AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 458 DA CLT. AUSÊNCIA DE PREQUESTIONAMENTO. EX-EMPREGADO APOSENTADO. MANUTENÇÃO DA ASSISTÊNCIA MÉDICA. ART. 31 DA LEI N. 9.656/1998. REQUISITOS NÃO PREENCHIDOS. VIGÊNCIA DO CONTRATO DE TRABALHO. CONTRIBUIÇÃO EXCLUSIVA DO EMPREGADOR. COPARTICIPAÇÃO DO USUÁRIO. IRRELEVÂNCIA. AGRAVO INTERNO IMPROVIDO.
+1. Inadmissível o recurso especial quanto a questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo (enunciado n. 211 da Súmula do STJ).
+2. A Terceira Turma desta Corte adotou entendimento no sentido de que, nos termos do art. 30, § 6º, da Lei n. 9.656/1998, "não é considerada contribuição a coparticipação do consumidor, única e exclusivamente, em procedimentos, como fator de moderação, na utilização dos serviços de assistência médica ou hospitalar, como ocorre nos planos coletivos custeados integralmente pela empresa". (REsp n. 1.594.346/SP, Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 9/8/2016, DJe 16/8/2016).
+3. Dessa forma, havendo tão somente a coparticipação do empregado quando utilizado o plano de saúde, sem o pagamento de uma mensalidade, não há que se falar em contribuição e, portanto, não há direito à permanência como beneficiário do plano de saúde.
+4. Agravo interno improvido" (AgInt no AgInt no REsp 1.614.149/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 02/02/2017, DJe 13/02/2017).
+Não se vislumbra, portanto, a existência da omissão apontada.
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição, ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+Ante o exposto, rejeito os presentes embargos de declaração.
+Publique-se.
+Intimem-se.
