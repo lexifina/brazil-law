@@ -1,0 +1,45 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO E RECURSO ESPECIAL INTERPOSTOS SOB A ÉGIDE DO NCPC. AÇÃO DE EXIBIÇÃO DE DOCUMENTOS. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA 283 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+[NOME] (NERI) ajuizou ação de exibição de documentos contra [NOME] ([NOME]), que foi julgada procedente.
+A apelação interposta por [NOME] foi parcialmente provida pelo Tribunal de origem, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. DOCUMENTOS APRESENTADOS ESPONTANEAMENTE PELA INSTITUIÇÃO FINANCEIRA ANTES DA PROLAÇÃO DE SENTENÇA. SENTENÇA DE PROCEDÊNCIA COM CONDENAÇÃO DA PARTE RÉ AO PAGAMENTO DE CUSTAS E HONORÁRIOS SUCUMBENCIAIS. 1. ALEGAÇÃO DE AUSÊNCIA DE INTERESSE DE AGIR PELA INVALIDADE DO REQUERIMENTO ADMINISTRATIVO. DISCUSSÃO IRRELEVANTE. VÍCIO SUPERADO PELA EXIBIÇÃO ESPONTÂNEA DA DOCUMENTAÇÃO EM JUÍZO. 2. PRETENSÃO NÃO RESISTIDA. INEXISTÊNCIA DE LIDE. NECESSÁRIA INVERSÃO DO ÔNUS SUCUMBENCIAL. APLICAÇÃO DO PRINCÍPIO DA CAUSALIDADE. 3. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. VERBA DESCABIDA NO PRESENTE CASO. AFASTAMENTO. SENTENÇA REFORMADA.
+1. A apresentação dos documentos em juízo em momento anterior à prolação da sentença representa reconhecimento do pedido e Importa na supressão da necessidade de preenchimento dos requisitos exigidos pelo STJ para a propositura da ação (existência de relação jurídica entre as partes, comprovação de prévio pedido à instituição financeira não atendido em prazo razoável e o pagamento do custo do serviço), sendo descabida qualquer alegação posterior acerca de ausência de Interesse de agir da parte autora.
+2. Inexiste lide se o réu, voluntariamente, apresentar os documentos pleiteados em momento processual anterior à prolação de sentença, pelo que não se pode condená-lo ao pagamento dos ônus sucumbenciais ante a ausência de pretensão resistida.
+3. Pelo princípio da causalidade, não havendo recusa da instituição financeira, o pagamento das custas processuais deve recair sobre a parte autora, sendo descabida, nesta situação, a fixação de honorários advocatícios de sucumbência ante a ausência de litigiosidade na causa.
+Apelação Cível provida em parte para inverter a condenação ao pagamento das custas processuais em desfavor da parte autora e afastar a fixação de honorários advocatícios sucumbenciais. (e-STJ fls. 56/57)
+Os embargos de declaração foram rejeitados. (e-STJ fls. 71)
+Inconformado, NERI interpôs recurso especial, com fundamento no art. 105, III, a, da CF, alegando violação dos arts. 82 e 90 do NCPC, ao sustentar que (1) o réu deve responder pela sucumbência, pois não atendeu a solicitação administrativa realizada pelo ora recorrente, tendo ocorrido pretensão resistida; e (2 deve ser aplicado o princípio da causalidade.
+O apelo nobre não foi admitido em virtude da incidência das Súmulas 83 e 7 do STJ.
+Nas razões do presente agravo em recurso especial, NERI sustentou que não é caso de incidência das referidas súmulas.
+Foi apresentada impugnação (e-STJ, fls. 123/128).
+É o relatório.
+Decido.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A irresignação não merece prosperar.
+(1) (2) Dos arts. 82 e 90 do NCPC
+Na Segunda Seção do Superior Tribunal de Justiça, no julgamento do Recurso Especial 1.349.453/MS, processado nos termos do art. 543-C do CPC, foi firmado o entendimento de que "A propositura de ação cautelar de exibição de documentos bancários (cópias e segunda via de documentos) é cabível como medida preparatória a fim de instruir a ação principal, bastando a demonstração da existência de relação jurídica entre as partes, a comprovação de prévio pedido à instituição financeira não atendido em prazo razoável e o pagamento do custo do serviço conforme previsão contratual e a normatização da autoridade monetária." (REsp 1349453/MS, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 10/12/2014, DJe 02/02/2015). O julgado recebeu a seguinte ementa:
+PROCESSO CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. EXPURGOS INFLACIONÁRIOS EM CADERNETA DE POUPANÇA. EXIBIÇÃO DE EXTRATOS BANCÁRIOS. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. INTERESSE DE AGIR. PEDIDO PRÉVIO À INSTITUIÇÃO FINANCEIRA E PAGAMENTO DO CUSTO DO SERVIÇO. NECESSIDADE.
+1. Para efeitos do art. 543-C do CPC, firma-se a seguinte tese: A propositura de ação cautelar de exibição de documentos bancários (cópias e segunda via de documentos) é cabível como medida preparatória a fim de instruir a ação principal, bastando a demonstração da existência de relação jurídica entre as partes, a comprovação de prévio pedido à instituição financeira não atendido em prazo razoável, e o pagamento do custo do serviço conforme previsão contratual e normatização da autoridade monetária.
+2. No caso concreto, recurso especial provido.
+(REsp 1349453/MS, Rel. Ministro LUIS FELIPE SALOMÃO, Segunda Seção, DJe 02/02/2015)
+Nos termos da jurisprudência desta Corte, na ação de exibição de documentos deve estar caracterizada a pretensão resistida da instituição financeira para que haja sua condenação aos ônus sucumbenciais.
+Esta pacificado neste Tribunal que, "apresentada prontamente pela parte ré a documentação pleiteada e não comprovada a recusa anterior, descabe a condenação desta nos ônus sucumbenciais, pela aplicação do princípio da causalidade. (REsp n. 453.790-RS, Rel. Min. Carlos Alberto Menezes Direito, DJU de 04.08.2003; REsp n. 533.866-RS, Rel. Min. Aldir Passarinho Junior, DJU de 31.05.2004); (AgRg no REsp 861.457/DF, Rel. Ministro ALDIR PASSARINHO JUNIOR, DJ 20/08/2007).
+No caso, verifica-se que o tribunal de origem fundamentou que, mesmo que se considerasse o envio de pedido administrativo, no caso, o autor não comprovou, no momento da propositura da ação, o pagamento pelo custo do serviço.
+Nas razões recursais, o ora recorrente não impugnou especificamente tal fundamento, limitando-se, em suma, a sustentar que realizou solicitação administrativa. Assim, incidente, por analogia, o óbice do enunciado da Súmula nº 283 do Supremo Tribunal Federal: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+A propósito:
+AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE DESPEJO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DOS REQUERIDOS.
+1. É inadmissível o recurso especial quando as razões apresentadas se mostrarem dissociadas da matéria tratada pela decisão recorrida, não sendo impugnados fundamentos do acórdão que, por si sós, são suficientes para manter o inteiro teor do decisum. Aplicação, por analogia, das Súmulas 283 e 284 do STF.
+2. A reforma do julgado quanto a conclusão de não ter sido configurado cerceamento de defesa, ante o indeferimento da prova testemunhal demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula 7 do STJ. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 921.974/PR, Rel. Ministro MARCO BUZZI, Quarta Turma, julgado em 18/8/2016, DJe 23/8/2016)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE LOCAÇÃO. EXECUÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. FUNDAMENTOS NÃO ATACADOS. SÚMULA Nº 283/STF. REEXAME DE PROVAS E DO CONTRATO FIRMADO ENTRE AS PARTES. SÚMULAS NºS 5 E 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A ausência de impugnação dos fundamentos do aresto recorrido enseja a incidência, por analogia, da Súmula nº 283 do Supremo Tribunal Federal.
+3. Tendo o tribunal de origem decidido a causa com base na análise do contrato firmado entre as partes e nos elementos fático-probatórios dos autos, alterar sua conclusão atrai a incidência das Súmulas nºs 5 e 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 833.798/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 9/8/2016, DJe 16/8/2016)
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Deixo de majorar os honorários advocatícios, por não terem sido fixados na origem.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
