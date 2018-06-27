@@ -1,0 +1,12 @@
+Trata-se de recurso extraordinário interposto em face de acórdão assim ementado:
+    “SERVIDORES PÚBLICOS ESTADUAIS Reajuste de vencimentos – URV - Lei Complementar Estadual nº 795/95 - Inadmissibilidade - Competência do Estado na administração orçamentária - Receita com limites de comprometimento - Não provado prejuízo - Reconhecimento apenas da prescrição dos períodos já atingidos pelo lapso quinquenal - Inteligência do artigo 1º do Decreto nº 20.910/32 e da Súmula 85 do Superior Tribunal de Justiça - Ação julgada improcedente na 1ª Instância - Sentença mantida - Recurso não provido” (pág. 14 do documento eletrônico 3).
+    No RE, fundado no art. 102, III, a, da Constituição, sustenta-se, em suma, violação dos arts. 22; e 37, XI, XIII, e XV, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Ademais, o Tribunal de origem julgou tão somente com apoio no acervo probatório dos autos – cujo reexame é vedado na instância extraordinária (Súmula 279/STF) – e na interpretação das normas infraconstitucionais aplicáveis ao caso, de modo que eventual ofensa à Constituição Federal seria indireta, o que inviabiliza o recurso extraordinário. Nesse sentido, menciono precedentes de ambas as Turmas desta Corte:
+    “EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. EXECUÇÃO. PRAZO PRESCRICIONAL. DECRETO 20.910/1932. FAZENDA PÚBLICA. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. 1. Discussão acerca do prazo prescricional contra a Fazenda Pública, previsto no Decreto 20.910/1932, cinge-se ao âmbito infraconstitucional. Precedentes. 2. Agravo Regimental a que se nega provimento” (ARE 909.658-AgR/DF, Rel. Min. Edson Fachin, Primeira Turma).
+    “EMENTA: Agravo regimental no recurso extraordinário com agravo. Administrativo. Prescrição. Decreto-Lei 20.910/32. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido” (ARE 938.349-AgR/PE, Rel. Min. Dias Toffoli, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF). Com base no art. 85, § 11, do Código de Processo Civil, majoro em 20% os honorários advocatícios anteriormente fixados pelo juízo de origem, observados os limites do art. 85, § 2° e § 3°, do CPC.
+    Publique-se.
+    Brasília, 27 de junho de 2018.
+Ministro Ricardo Lewandowski
+Relator
