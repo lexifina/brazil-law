@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98138, de 15 de junho de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 9030.84.90 Mercadoria: Multimedidor de grandezas elétricas (tensão, corrente, potência, fator de potência, consumo de energia, demanda ativa total, demanda reativa total, potência ativa, reativa e aparente, etc.). Armazena os dados coletados em memória interna com autonomia de 60 dias e possui comunicação ethernet para transferência dos dados para acesso remoto. DISPOSITIVOS LEGAIS: RGI/SH 1 (texto da posição 90.30), RGI/SH 6 (textos das subposições 9030.8 e 9030.84) e RGC/NCM 1 (texto do item 9030.84.90), da Nomenclatura Comum do Mercosul (NCM), constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+.
+[arquivo anexo: SC Cosit nº 98.138-2018 .pdf]
