@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de Recurso Especial, fundamentado na alínea a do permissivo constitucional, interposto pela FAZENDA NACIONAL, na vigência do CPC/2015, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+TRIBUTÁRIO. PRESCRIÇÃO. LC 118/05. REPETIÇÃO DO INDÉBITO. CORREÇÃO MONETÁRIA.
+1- Nas ações ajuizadas a partir de 09/06/2005, o prazo decadencial/prescricional para restituição de eventual indébito é de cinco anos, contados da data do pagamento antecipado do tributo.
+2-
+3- A correção monetária incide a partir do pagamento indevido (Súmula nº 162 do STJ).
+4- De acordo com o disposto no artigo 39, § 4º, da Lei 9.250/95, a compensação ou restituição do crédito do contribuinte deve ser corrigida apenas pelos juros da taxa SELIC" (fl. 595e).
+O acórdão em questão foi objeto de Embargos de Declaração, acolhidos, para fins de prequestionamento, nos seguintes termos:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REDISCUSSÃO DE QUESTÕES DE MÉRITO. PREQUESTIONAMENTO.
+1- Tendo havido apreciação dos pontos atinentes à solução da lide, inexistindo, portanto, omissão, obscuridade, contradição ou erro material no julgado, não há como prosperar a irresignação, porquanto o manejo dos embargos declaratórios é incompatível com a pretensão de reformar o mérito da decisão.
+2- Considerando o disposto nas Súmulas 282 e 356 do STF e 98 do STJ, considera-se prequestionada a matéria embargada a fim de viabilizar o acesso à Instância Superior" (fl. 613e).
+Alega-se, nas razões do Recurso Especial, in verbis:
+"II - DA NEGATIVA DE VIGÊNCIA AO ART. 535, II, DO CPC
+A douta Turma do Tribunal "a quo" não enfrentou questões cruciais levantadas em sede de embargos de declaração pela Fazenda Nacional, negando, com isso, vigência ao artigo 535 do CPC.
+Desnecessário dizer que a jurisprudência do STJ 1 entende que não basta a afirmação de prequestionamento na instância recorrida. A negativa de análise dos dispositivos que caracterizam a omissão é suficiente para retomar o debate na esfera do especial:
+(..)
+Todavia, ao contrário do preconizado pela legislação, o Egrégio Regional a desconsiderou. Em outras palavras, o julgado recorrido omitiu-se na análise da questão concernente à retificação da GFIP à luz dos dispositivos legais mencionados nos aclaratários (evento n.9), vulnerando abertamente o art.535 do CPC ao ser instado para tanto na via apropriada. Ou seja, no momento processual adequado para alertar a Corte local sobre a legislação de regência, a União ofertou os seus embargos. É como se fosse nada: o órgão jurisdicional da 4.ª Região persistiu na omissão e manteve a decisão atacada.
+A violação ao artigo 535 do CPC justifica, por si só, a admissão e o provimento da manifestação recursal da Fazenda Nacional, devendo os autos retornarem à Turma julgadora do TRF para a devida apreciação dos embargos declaratórios aviados pela União. Entretanto, caso assim não se entenda, o que se admite apenas pelo prazer de argumentar, optou-se por adentrar, desde já, nas questões de mérito propriamente ditas com as quais a União não se conforma, por também entender ter havido negativa de vigência da legislação federal.
+III - DA NEGATIVA DE VIGÊNCIA AO ART. 32, par. 2º. e inc. IV e 33, par. 7º., ambos DA LEI n.8.212/91; ART.113, par. 2º., DO CTN; ART.225, IV e par.1º., DO DECRETO n.3048/99
+O acórdão exarado pelo e. TRF/4ª. Região consagrou no item da necessidade de retificação da GFIP, "verbis":
+(..)
+A Guia de Recolhimento do Fundo de Garantia do Tempo de Serviço e Informações à Previdência Social (GFIP) é um documento declaratório que tem a natureza de confissão de dívida tributária, caracterizando-se como um meio de constituição do crédito tributário, nos termos da Lei n.8.212/91:
+(..)
+Do mesmo modo, o art. 225, inciso IV e parágrafo 1º., do Decreto n.3.048/99, dispõe sobre a obrigatoriedade de apresentação da GFIP e sobre tratar-se de confissão de dívida, "verbis":
+(..)
+Como se observa, a apresentação da GFIP (Guia de Recolhimento ao FGTS e Informações à Previdência Social), prevista no artigo 32, inciso IV, da Lei nº 8.212/91, constitui, no âmbito previdenciário, obrigação acessória de prestação de informações à autoridade fiscal, no interesse da arrecadação ou fiscalização de tributos (artigo 113, § 2º, do CTN).
+Não obstante tenha denominação diversa, tal documento serve como instrumento, no âmbito da previdência oficial, para os mesmos procedimentos compreendidos na DCTF adotada para os tributos arrecadados pela Receita Federal, consistindo em idêntica obrigação acessória. Em ambos o contribuinte declara os tributos que entende devidos, caracterizando-se, portanto, como documentos que materializam confissão de dívida.
+Diante disso, é correto afirmar que a existência de divergências entre GFIP e GPS decorre da situação em que o contribuinte declara e não paga integralmente ou mesmo não paga, situação na qual se deve admitir ter havido o lançamento e, portanto, existente o débito, o que impede a emissão de CND, segundo jurisprudência consolidada nesse sentido.
+Com efeito, se o contribuinte calcula o montante devido ao INSS e, por força da legislação vigente, declara esse valor, deixando, porém, de recolher parcial ou integralmente o valor que ele mesmo declarou, tal situação é suficiente para que se considere constituído o crédito tributário, o que dispensa qualquer lançamento por parte da autoridade fiscal.
+Então, o pedido de restituição de contribuições indevidamente declaradas somente poderá ser processado após a retificação do documento de constltulção do crédito trlbutárlo (GFIP). Mesmo que a declaração indevlda decorra de reconhecimento de inconstitucionalidade das contribuições prevldenciárlas declaradas, torna- se necessário a retlflcação da GFIP, haja vista que, sendo um documento do contribuinte, a receita previdenciária não pode alterá-o de ofício.
+Ademais, as informações declaradas em GFIP comporão a base de dados para fins de cálculo e concessão dos benefícios previdenciários. Assim, não sendo retificada a GFIP, os empregados indevidamente declarados permanecerão como segurados da previdência social. a qual arcará com os custos dos benefícios eventualmente concedidos, sem que tenha havido a contribuição previdenciária respectiva.
+Não por outra razão que o § 7º do artigo 33 da Lei nº 8.212/91 expressamente dispõe que "O crédito da seguridade social é constituído por meio de notificação de débito, auto de infração, confissão ou documento declaratório de valores devidos e não recolhidos apresentados pelo contribuinte".
+A contribuição previdenciária é tributo sujeito a lançamento por homologação. Em hipóteses como essa, segundo a melhor doutrina e a melhor exegese dos dispositivos legais que regulam a matéria, não se pode sequer emitir Certidão Negativa de Débito em havendo débitos pendentes.
+Assim que, não merece guarida a alegação no sentido de que a obrigação de armazenamento e apresentação de tais documentos seria da Receita Federal.
+Resulta daí, com o devido respeito, a necessidade de reforma do acórdão regional, consoante acima articulado" (fls. 620/625e).
+Requer, ao final, "seja provido o presente recurso especial para os seguintes fins: a) retornarem os autos ao TRF da 4ª Região a fim de que a Turma de origem aprecie os embargos declaratórios aviados pela União, restaurando-se, com isso, a plena vigência do artigo 535 do CPC; b) superada a questão do artigo 535 do CPC, ser reformado o acórdão regional, porquanto negou vigência aos dispositivos legais arrolados nas razões recursais, consoante expendido nos itens supra" (fl. 625e).
+Não foram apresentadas contrarrazões.
+A irresignação merece acolhimento.
+Dessarte, havendo a Fazenda Nacional, ora recorrente, sustentado, nos Embargos de Declaração, a tese de que "a apresentação da GFIP (Guia de Recolhimento ao FGTS e Informações à Previdência Social), prevista no artigo 32, inciso IV, da Lei nº 8.212/91, constitui, no âmbito previdenciário, obrigação acessória de prestação de informações à autoridade fiscal, no interesse da arrecadação ou fiscalização de tributos (artigo 113, § 2º, do CTN)" (fl. 601e), constituía dever da Turma julgadora examinar essa alegação.
+Com efeito, leciona a jurisprudência desta Corte:
+"TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FORNECIMENTO DE CERTIDÃO POSITIVA COM EFEITO DE NEGATIVA (CPD-EN). ENTE PÚBLICO. GFIP NÃO APRESENTADA. ÓBICE À EMISSÃO EM RAZÃO DO DESCUMPRIMENTO DE OBRIGAÇÃO ACESSÓRIA. DICÇÃO DO ART. 32, § 10, DA LEI 8.212/91.
+APLICAÇÃO DO RECURSO ESPECIAL "REPETITIVO" DE N. 1.042.585/RJ.
+1. O descumprimento da obrigação acessória é suficiente para obstar a emissão da Certidão Positiva com Efeito de Negativa, conforme entendimento ratificado no "repetitivo" REsp 1.042.585/RJ, de relatoria do Min. Luiz Fux, DJe 21/05/2010, julgado pela sistemática do 543-C do CPC.
+2. Agravo regimental não provido" (STJ, AgRg no REsp 1311648/CE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 26/11/2015).
+Imprescindível, portanto, que a Corte de origem se pronuncie acerca da questão controversa, sob pena de negativa de prestação jurisdicional e violação ao art. 535, II, do CPC/73.
+Ante o exposto, com fundamento no art. 255, §4º, III, do RISTJ, dou provimento ao Recurso Especial, para anular o acórdão proferido no julgamento dos Embargos de Declaração, e, como consequência, devolver os autos ao Tribunal de origem, a fim de que seja proferido novo julgamento, suprindo a omissão apontada.
+I.
