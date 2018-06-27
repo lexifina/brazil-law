@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na violação dos arts. 195, I, e 201, § 2º, da Lei Maior
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta violação somente poderia ser constatada a partir da análise da legislação infraconstitucional apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Nesse sentido:
+    “PREVIDÊNCIA SOCIAL. BENEFÍCIO. Índice de reajuste. Equiparação ao limite do salário de contribuição. Questão infraconstitucional. Precedentes da Corte. Ausência de repercussão geral. Recurso extraordinário recusado. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto o índice para reajuste de benefício pago pelo regime geral de previdência, versa sobre matéria infraconstitucional.” (RE 686143 RG, Relator(a): Min. CEZAR PELUSO, julgado em 23/08/2012, ACÓRDÃO ELETRÔNICO DJe-178 DIVULG 10-09-2012 PUBLIC 11-09-2012 )
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PREVIDENCIÁRIO. ÍNDICE. REAJUSTE DE BENEFÍCIO PREVIDENCIÁRIO. ART. 201, § 4º, DA CRFB/88. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. INEXISTÊNCIA DE REPERCUSSÃO GERAL.” (ARE 685029 RG, Relator(a): Min. CEZAR PELUSO, Relator(a) p/ Acórdão: Min. LUIZ FUX, julgado em 21/09/2012, PROCESSO ELETRÔNICO DJe-219 DIVULG 06-11-2014 PUBLIC 07-11-2014)
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. BENEFÍCIO. ÍNDICE DE REAJUSTE. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO. INEXISTÊNCIA DE REPERCUSSÃO GERAL. I – A controvérsia relativa ao índice de reajuste aplicável aos benefícios previdenciários, de modo a preservar o seu valor real, está restrita ao âmbito infraconstitucional. II – O exame da questão constitucional não prescinde da prévia análise de normas infraconstitucionais, o que afasta a possibilidade de reconhecimento do requisito constitucional da repercussão geral. III – Repercussão geral inexistente.” (ARE 888938 RG, Relator(a): Min. MINISTRO PRESIDENTE, julgado em 18/06/2015, PROCESSO ELETRÔNICO DJe-125 DIVULG 26-06-2015 PUBLIC 29-06-2015)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de junho de 2018.
+Ministra Rosa Weber
+Relatora
