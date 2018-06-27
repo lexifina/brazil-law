@@ -1,0 +1,62 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. ANÁLISE DO MÉRITO DO APELO EXTREMO POR PARTE DO TRIBUNAL DE ORIGEM. USURPAÇÃO DE COMPETÊNCIA. NÃO OCORRÊNCIA. INCIDÊNCIA DA SÚMULA 123/STJ. RESCISÃO CONTRATUAL. ATRASO NA ENTREGA. INEXISTÊNCIA DE CASO FORTUITO OU FORÇA MAIOR. DANOS MATERIAIS. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE FATOS E PROVAS. APLICAÇÃO DAS SÚMULAS 5 E 7/STJ. AUSÊNCIA DE INDICAÇÃO DOS ARTIGOS CUJA INTERPRETAÇÃO SEJA DIVERGENTE. INCIDÊNCIA DA SÚMULA 284 DO STF. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+1. Cabe ao Presidente da Corte local examinar a admissibilidade do recurso especial, o que por vezes implica exame superficial do próprio mérito, não significando usurpação de competência. Assim dispõe a Súmula 123/STJ: "a decisão que admite, ou não, o recurso especial deve ser fundamentada, com o exame dos seus pressupostos gerais ou constitucionais."
+2. A revisão das conclusões estaduais - acerca da não caracterização de caso fortuito ou força maior que justificassem a exclusão da responsabilidade da recorrente no atraso da entrega do imóvel objeto da demanda e suas consequências - demandaria, necessariamente, a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, providências inviáveis na via estreita do recurso especial, ante os óbices dispostos nas Súmulas 5 e 7/STJ.
+3. A falta de indicação do dispositivo legal que teria sido eventualmente violado faz incidir à hipótese o teor da Súmula n. 284 do STF, por analogia. (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia).
+4. Ausência de impugnação a fundamento constante do acórdão estadual. Súmula 283/STF.
+5. Razões recursais insuficientes para a revisão do julgado.
+6. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, a Sra. Ministra Nancy Andrighi.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Cuida-se de agravo interno interposto por HORSTH E SORTE EMPREENDIMENTOS IMOBILIÁRIOS S.A. contra a decisão de fls. 541-546 (e-STJ), da lavra deste signatário, que conheceu do agravo e negou provimento ao recurso especial da ora agravante.
+O aludido apelo extremo foi deduzido com base no art. 105, III, a e c, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado (fl. 396, e-STJ):
+APELAÇÃO CÍVEL - AUSÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE - RESCISÃO CONTRATUAL - CONTRATO DE COMPRA E VENDA - LOTEAMENTO - ATRASO NA CONCLUSÃO DAS OBRAS DE INFRAESTRUTURA - REDE DE ÁGUA E ESGOTO- DESCUMPRIMENTO CONTRATUAL - PENALIDADES DESPROPORCIONAIS - RESTITUIÇÃO DE VALORES - Não há que se falar em violação ao princípio da dialeticidade se o apelante combate os fundamentos apresentados na sentença.
+- Incumbe ao empreendedor realizar as providências para que o loteamento tenha infraestrutura básica, nos termos do art. 2º, §5º, da Lei 6.766/79, concluindo as obras no prazo constante no contrato.
+- A cláusula de previsão de prazo de tolerância é estipulada no instrumento contratual exatamente em decorrência dos fortuitos inerentes à atividade, sendo que tal responsabilidade não pode ser repassada a terceiros.
+- A interferência do Poder Judiciário torna-se necessária, a fim de manter o equilíbrio da relação contratual, em face da presença de cláusulas leoninas, que impõe penalidades apenas para uma das partes.
+- Resilido o contrato sem responsabilidade do promitente comprador, os valores efetivamente pagos deverão lhe ser restituídos, devidamente atualizados.
+Os embargos de declaração opostos foram rejeitados (fls. 424-430, e-STJ).
+Nas razões do recurso especial (fls. 476-490, e-STJ), além de dissídio jurisprudencial, a recorrente alegou que o acórdão impugnado incorreu em violação dos arts. 221 e 475 do Código Civil de 2002.
+Sustentou, em suma: (i) que o atraso na entrega do imóvel adquirido deu-se em razão da ocorrência de caso fortuito e força maior, causados por diversas exigências apresentadas pela Companhia de Água e Esgoto, "não contempladas no projeto por ela própria aprovado, o que implicou em inevitável atraso na conclusão das obras das redes de água e esgoto do empreendimento" (fl. 478, e-STJ); (ii) que o pedido de rescisão contratual c/c com reintegração de posse, por ela manejado, ocorreu pelo inadimplemento das recorridas a partir de 2013, após a infraestrutura já ter sido implementada, em 2012, não havendo se falar em devolução das parcelas pagas, tampouco pagamento de indenização, ante o caráter irrevogável e irretratável do contrato entabulado entre as partes; e (iii) violação do princípio pacta sunt servanda, porquanto o contrato entabulado entre as partes deve ser observado, não podendo o Colegiado estadual julgar abusivas cláusulas constantes do aludido instrumento, firmados entre pessoas maiores e capazes.
+Quanto ao dissídio, aduziu ser indevida a supressão do percentual de retenção sobre os valores pagos pelas recorridas, constantes do contrato, com vistas a compensar as despesas efetuadas.
+Em razão do juízo prévio negativo de admissibilidade, a recorrente interpôs agravo (art. 1.042 do CPC/1973), o qual foi conhecido para não conhecer do recurso especial, pelos seguintes fundamentos: a) afastamento da alegação de usurpação de competência pela análise do mérito pelo Tribunal de origem; b) incidência das Súmulas 5 e 7/STJ para revisão das conclusões estaduais; c) incidência da Súmula 284/STF, por deficiência na fundamentação do reclamo; e d) aplicação da Súmula 283/STF, por falta de impugnação a fundamento do acórdão recorrido.
+No presente agravo interno, a agravante pugna pela inaplicabilidade dos óbices aplicados para o desprovimento do reclamo, ao tempo que repisa os termos já expendidos no apelo extremo.
+Ao final, requer a reconsideração da decisão agravada ou a apreciação do agravo interno pelo Colegiado.
+Sem impugnação, conforme certidão à fl. 561 (e-STJ).
+É o relatório.
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão.
+Com efeito, conforme asseverado na decisão agravada, foi afastada a alegação de usurpação de competência pelo Tribunal de origem, e, ao dirimir a controvérsia, aquele Colegiado concluiu pela não caracterização de caso fortuito ou força maior que justificassem a exclusão da responsabilidade da recorrente no atraso da entrega do imóvel objeto da demanda e suas consequências, pelos seguintes fundamentos (fls. 401-405, e-STJ):
+(..)
+Deve-se ressaltar que ao processo deve ser aplicado o Código de Defesa do Consumidor, por se tratar de uma relação consumerista, eis que os apelados enquadram-se no conceito de consumidores, conforme previsto no artigo 2º, do CDC:
+(..)
+Os contratos não têm forma especial quando não haja exigência legal. In casu, o ato é perfeito, e formou uma relação jurídica entre as partes. O instrumento contratual estipulou que a requerida tinha a obrigação de entregar os lotes com as obras de infraestrutura até o mês de junho de 2010, com o prazo de tolerância de 90 (noventa) dias previsto na cláusula primeira, parágrafo quinto:
+(..)
+Desta forma, com o acréscimo do prazo previsto na citada cláusula, o lote, com toda a infraestrutura necessária, inclusive de água e esgoto, deveria ter sido finalizada até o final de setembro de 2010, o que não ocorreu.
+Verifica-se que as obrigações constantes no referido contrato foram descumpridas por parte da apelante, que não concluiu as obras de infraestrutura de água e esgoto no prazo acordado.
+Cabe registrar que, em que pese em sede recursal a apelante afirmar que as obras de terraplanagem, drenagem, pavimentação asfáltica, bem como que a parte elétrica teriam sido concluídas no prazo estipulado, tais fatos não estão sendo questionados na presente demanda, que se limita a discutir o inadimplemento das obras da rede de água e esgoto.
+Saliento que a apelante não pode atribuir a culpa a terceiro, no caso à COPASA, ou afirmar que teria se caracterizado caso fortuito ou de força maior.
+Isto porque a cláusula de previsão de prazo de tolerância é estipulada no instrumento contratual exatamente em decorrência dos fortuitos inerentes à atividade. Desta forma, a situação relatada pela apelante de que a COPASA teria realizado diversas alterações no projeto, que teriam atrasado a conclusão das obras, poderia prorrogar a entrega do imóvel até 90 (noventa) dias após a data inicialmente prevista.
+Tal fato relaciona-se com o risco do empreendimento, sendo defeso dividi-lo com os adquirentes das unidades.
+Isto porque incumbe ao empreendedor tomar as providências para que o loteamento tenha infraestrutura básica, nos termos do art. 2º, § 5º, da Lei 6.766/79:
+(..)
+Por conseguinte, caberia à apelante ter elaborado o cronograma de obras preocupando-se em honrar com os prazos estabelecidos no contrato.
+Assim, em sendo inconteste a responsabilidade/impontualidade desmotivada, caracterizada fica a responsabilidade da contratada, de sorte que resta inegável que seu inadimplemento contratual a justificar a rescisão do instrumento contratual, bem como a devolução das parcelas pagas pelos consumidores, que não podem ser penalizados pela situação.
+(..)
+Cumpre registrar que o inadimplemento dos compradores em relação ao pagamento das parcelas somente ocorreu após o lote não ter sido entregue com a infraestrutura adequada, não havendo que se falar, portanto, em culpa dos apelados a ensejar a rescisão.
+Desta forma, os apelados fazem jus ao ressarcimento da integralidade do valor pago pelo lote, não sendo o caso de retenção de qualquer quantia pela apelante (Sem grifos no original).
+Nesse contexto, reverter a conclusão do Tribunal local para acolher a pretensão recursal quanto à existência, ou não, de caso fortuito e força maior demandaria o revolvimento do acervo fático-probatório dos autos e a análise e interpretação de cláusulas contratuais, o que se mostra inviável ante a natureza excepcional da via eleita, conforme enunciado das Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+Ademais, o Tribunal estadual concluiu serem devidas a rescisão contratual, e, consequentemente, a devolução integral das parcelas pagas pelas consumidoras, pois a culpa pelo desfazimento da avença decorreu exclusivamente da conduta da construtora, que descumpriu as cláusulas contratuais ao não entregar o empreendimento no prazo estabelecido.
+Contudo, não tratou a recorrente de impugnar tal fundamento, cuja subsistência inviabiliza a apreciação do recurso especial e propicia o consequente desprovimento do presente agravo, pela aplicação da Súmula n. 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+No que se refere à alegação trazida como dissenso jurisprudencial, de ser devida retenção de percentual sobre o valor pago, a fim de cobrir despesas da recorrente, cumpre destacar que o recurso especial é de fundamentação vinculada, no qual o efeito devolutivo se opera tão somente nos termos do que foi impugnado. Assim, é imprescindível a indicação do dispositivo tido como objeto da divergência jurisprudencial para a correta configuração do dissídio, nos termos do art. 105, III, c, da Constituição Federal.
+Contudo, no presente reclamo não foi apontado qual artigo de lei federal teria sido objeto de interpretação divergente (alínea c) nem foi comprovada a notória divergência.
+Assim, a ausência desses pressupostos essenciais não permite verificar se a legislação federal infraconstitucional ficou, ou não, malferida.
+Dessa forma, é de rigor a incidência do enunciado sumular n. 284 do Supremo Tribunal Federal:
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
