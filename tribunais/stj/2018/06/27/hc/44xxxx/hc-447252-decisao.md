@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de MARIO MELO DE MATOS contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado pela prática do delito previsto no art. 157, caput, do Código Penal (roubo), à pena de 4 anos de reclusão em regime inicial aberto, bem como ao pagamento de 10 dias-multa.
+Defesa e Parquet interpuseram apelação perante o Tribunal de origem, o qual negou provimento ao recurso defensivo e deu provimento ao apelo ministerial para fixar o regime inicial fechado. O acórdão ficou assim ementado:
+Apelação criminal - Roubo - Sentença condenatória pelo art. 157, caput, do Código Penal - Recurso Ministerial pleiteando a fixação do regime inicial fechado - Recurso Defensivo buscando a desclassificação para o crime de furto e o reconhecimento da forma tentada.
+Mérito - Materialidade e autoria devidamente comprovadas - Réu que, em juízo, admitiu a prática delituosa, alegando, contudo, não ter agido com violência - Vítima que, inquirida somente na fase inquisitiva, relatou ter sido empurrada pelo réu na ocasião em que ele subtraiu o aparelho celular de suas mãos - Narrativa da ofendida confirmada em juízo pelos depoimentos dos policiais militares que efetuaram a prisão do acusado em poder da res furtiva - Condenação que não comporta reparos.
+Desclassificação para furto. Impossibilidade - Acusado que, segundo relato da vítima, empurrou-a contra o veículo e agarrou o celular de suas mãos com violência - Ainda que a "violência" seja direcionada contra a coisa, se a conduta vier a atingir a vítima, o tipo penal é o de roubo.
+Tese de tentativa. Inviabilidade de reconhecimento - Consumação do roubo que ocorre com o desapossamento mediante o emprego de violência ou grave ameaça. Desnecessidade de posse mansa, pacífica e desvigiada - Inteligência da Súmula 582, do C. STJ.
+Dosimetria - Penas inalteradas - Regime inicial fechado fixado por ser o mais adequado para o caso em tela. Recurso defensivo improvido. Recurso Ministerial provido. Determinação de expedição de mandado de prisão após decurso de prazo para interposição de embargos de declaração ou infringentes, ou, se houver, forem rejeitados (fls. 27).
+No presente writ, a impetrante assevera que o paciente preenche todos os requisitos para aplicação do art. 33, § 2º, alínea c, do Código Penal, uma vez que não é reincidente e a reprimenda aplicada não supera 4 anos de reclusão.
+Sustenta que a fixação do regime inicial fechado carece de fundamentação idônea, porquanto baseada na gravidade abstrata do delito. Afirma que as circunstancias judiciais foram consideradas favoráveis e a pena-base fixada no mínimo legal. Invoca o Enunciado n. 440 da Súmula do STJ e os verbetes ns. 718 e 719 das Súmulas do STF.
+Indeferido o pedido liminar e prestadas as informações, o Ministério Público Federal opinou pela concessão da ordem, nos termos da seguinte ementa:
+HABEAS CORPUS. ROUBO SIMPLES. CONDENAÇÃO À PENA DE 4 ANOS DE RECLUSÃO. REGIME INICIAL FECHADO IMPOSTO SEM FUNDAMENTAÇÃO IDÔNEA. PENA-BASE DOSADA NO PATAMAR MÍNIMO. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. RÉU PRIMÁRIO E SEM ANTECEDENTES CRIMINAIS. ARTIGO 33, § 2º, "C", E 3º, DO CÓDIGO PENAL. Pela concessão da ordem para que seja fixado o regime inicial aberto (fl. 40).
+É o relatório.
+Decido.
+
+O presente habeas corpus não merece ser conhecido, pois impetrado em substituição a recurso próprio. Contudo, passo à análise dos autos para verificar a possível existência de ofensa à liberdade de locomoção do ora paciente, capaz de justificar a concessão da ordem de ofício.
+Conforme relatado, a controvérsia refere-se ao regime prisional inicial. A sentença condenatória fixou o aberto e o Tribunal de origem o fechado, sob os seguintes fundamentos:
+ ..
+Quanto ao regime prisional, a r. sentença fixou o inicial aberto ao réu.
+Entretanto, a meu ver, o inicial fechado é o único compatível com a prática de roubo, justamente pela gravidade concreta existente.
+No caso em comento, o réu demonstrou culpabilidade acima do normal, com alta periculosidade, praticando o delito com extrema agressividade, empurrando a vítima contra o veículo e arrebatando o aparelho celular das mãos dela.
+Demonstrou ainda ousadia e reprovabilidade, sendo o regime fechado o único adequado no caso em exame, nos termos do artigo 33, §3º, c.c. artigo 59, ambos do Código Penal.
+Desta forma, acolhendo o pleito do Ministério Público, fixo o regime inicial fechado ao acusado (fls. 38/39).
+O acórdão impugnado apresentou fundamentação concreta, baseada nas circunstâncias do delito, as quais revelam a maior reprovabilidade da conduta, ousadia e periculosidade do paciente, justificando, assim, o agravamento do regime prisional.
+Porém, como a pena privativa de liberdade não ultrapassou 4 anos, é cabível a fixação do regime inicial semiaberto, segundo a jurisprudência desta Corte. Nesse sentido:
+
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO DE DROGAS. PACIENTE CONDENADO À PENA DE 2 ANOS E 6 MESES DE RECLUSÃO. PLEITO DE AUMENTO DA FRAÇÃO REDUTORA PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. INVIABILIDADE. NOCIVIDADE DA DROGA APREENDIDA QUE JUSTIFICA A FRAÇÃO INTERMEDIÁRIA (1/2) UTILIZADA. REGIME PRISIONAL FECHADO. PENA INFERIOR A 4 ANOS. QUANTIDADE E QUALIDADE DA DROGA. POSSIBILIDADE DE FIXAÇÃO DE REGIME INTERMEDIÁRIO. SUBSTITUIÇÃO DA PENA. CIRCUNSTÂNCIAS DO CASO CONCRETO QUE NÃO RECOMENDAM O BENEFÍCIO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+- Para a imposição de regime prisional mais gravoso do que a pena comporta, é necessária fundamentação específica, com base em elementos concretos extraídos dos autos. Inteligência das Súmulas 440/STJ e 718 e 719 do STF.
+- Nos termos do entendimento firmado por esta Corte Superior de Justiça, a quantidade, a natureza e a variedade da droga apreendida constituem fundamento idôneo a justificar a imposição do regime mais severo. Na hipótese, o acórdão recorrido fundamentou a necessidade do regime fechado com base na quantidade e na nocividade da droga apreendida.
+- Embora válido o fundamento para o recrudescimento do regime prisional, não se justifica a imposição do regime inicial fechado, ao réu primário, condenado à pena reclusiva não superior a 4 anos (pena de 2 anos e 6 meses de reclusão), cuja pena-base foi estabelecida no mínimo legal, fazendo jus o paciente ao regime intermediário, qual seja, o semiaberto. Precedentes desta Corte.
+- Ainda que o quantum de pena fixado seja inferior a 4 (quatro) anos, a quantidade e a nocividade do entorpecente apreendido não recomendam a substituição da pena privativa de liberdade por penas restritivas de direitos. Precedentes.
+- Habeas corpus não conhecido. Ordem concedida, de ofício, para fixar o regime inicial semiaberto.
+(HC 309.921/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 05/04/2016, DJe 13/04/2016)
+CONSTITUCIONAL E PENAL. HABEAS CORPUS. ROUBO DUPLAMENTE CIRCUNSTANCIADO. MOTIVAÇÃO IDÔNEA PARA A IMPOSIÇÃO DO REGIME FECHADO. GRAVIDADE CONCRETA DO DELITO. ORDEM NÃO CONHECIDA.
+ ..
+2. Os fundamentos utilizados pelo acórdão ora recorrido não podem ser tidos por genéricos e, portanto, constituem motivação suficiente para justificar a imposição de regime prisional mais gravoso que o estabelecido em lei (art. 33, §§ 2º e 3º, do Código Penal), não havendo se falar em violação da Súmula/STJ 440, bem como dos verbetes sumulares 718 e 719 do Supremo Tribunal Federal.
+3. Malgrado a pena-base tenha sido imposta no piso legal, o estabelecimento do regime mais severo do que o indicado pelo quantum da reprimenda baseou-se na gravidade concreta do delito, evidenciada pela violência empregada, que desborda da ínsita ao crime de roubo, exigindo resposta estatal superior, dada a maior reprovabilidade da conduta, em atendimento ao princípio da individualização da pena.
+4. A aplicação de pena no patamar mínimo previsto no preceito secundário na primeira fase da dosimetria não conduz, obrigatoriamente, à fixação do regime indicado pela quantidade de sanção corporal, sendo lícito ao julgador impor regime mais rigoroso do que o indicado pela regra geral do art. 33, §§ 2º e 3º, do Estatuto Repressor Penal, desde que mediante fundamentação idônea. (Precedentes).
+5. Ordem não conhecida (HC 338.469/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 15/04/2016).
+HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. ROUBO MAJORADO. DOSIMETRIA. TERCEIRA FASE. EXASPERAÇÃO DA PENA EM PATAMAR SUPERIOR AO MÍNIMO LEGAL. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. SÚMULA N. 443/STJ. REGIME PRISIONAL FECHADO. OUSADIA E GRAVIDADE CONCRETA DA CONDUTA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+3. É pacífica neste Tribunal Superior a orientação segundo a qual a fixação de regime mais gravoso do que o imposto em razão da pena deve ser feita com base em fundamentação concreta, a partir das circunstâncias judiciais dispostas no art. 59 do Código Penal ou de outro dado que demonstre a extrapolação da normalidade do tipo.
+4. In casu, o regime prisional mais severo foi devidamente fixado na origem, que levou em consideração a gravidade concreta do delito praticado pelo paciente, ao imobilizar a vítima em via pública, ameaçando-a com uma faca encostada em seu corpo, circunstâncias reveladoras de ousadia e periculosidade concreta na conduta do agente, além de menoscabo com a integridade física das pessoas, que afasta a incidência da Súmula n. 440/STJ.
+5. Habeas corpus não conhecido. Ordem concedida de ofício para limitar o recrudescimento da pena do paciente, na terceira fase da dosimetria, à fração de 1/3 (um terço), redimensionando sua reprimenda ao patamar de 5 anos e 4 meses de reclusão, mais o pagamento de 13 dias-multa, a ser cumprida inicialmente no regime fechado (HC 318.833/SP, de minha relatoria, QUINTA TURMA, DJe 25/05/2016).
+
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem de ofício para fixar o regime inicial semiaberto.
+Publique-se.
+Intimações necessárias.
