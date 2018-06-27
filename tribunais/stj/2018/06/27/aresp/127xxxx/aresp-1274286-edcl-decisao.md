@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 264-266) opostos por VIA HG AGENCIA DE VIAGENS E TURISMO LTDA à decisão (e-STJ fls. 259-261) que negou provimento ao recurso especial em razão do óbice da Súmula nº 7/STJ.
+A embargante afirma que a decisão embargada teria sido omissa quanto à análise do art. 14 do Código de Defesa do Consumidor, ao argumento de tratar-se de típica relação de consumo, sendo a responsabilidade da instituição financeira objetiva.
+Assevera que o fornecedor somente afasta o dever de reparar o dano se provar a ocorrência de uma das causas que excluem o nexo causal, previstas no referido dispositivo, ônus do qual não se desincumbiu o agravado.
+Aduz ser evidente a ocorrência de fraude e que a segurança dos serviços disponibilizadas aos clientes da instituição financeira é falha, de modo que pugna pelo acolhimento dos aclaratórios, e consequente provimento do recurso.
+Contraminuta de Itaú Unibanco S.A. (e-STJ fls. 270-272) em que requer o não acolhimento dos aclaratórios e manutenção da decisão embargada.
+É o relatório.
+DECIDO.
+Não colhe a inconformidade veiculada nos presentes aclaratórios.
+A decisão embargada não padece de nenhum dos vícios ensejadores dos embargos declaratórios, enumerados no artigo 1.022 do Código de Processo Civil de 2015: obscuridade, contradição, omissão ou erro material.
+No caso dos autos, o recurso especial não foi provido com fundamentação completa, clara e coerente, consoante se colhe da fundamentação da decisão embargada.
+Com efeito, o tribunal de origem chancelou a presença de causa que excluiu o nexo causal, como bem restou confirmado na decisão embargada, a qual chancelou ser inafastável a incidência, na hipótese, do óbice da Súmula nº 7/STJ.
+Neste ponto, a decisão embargada foi de clareza meridiana ao apontar a ausência do nexo causal, consoante excerto a seguir transcrito (e-STJ fls. 260-261):
+"(..) Importante considerar que o tribunal de origem, soberano na análise do conjunto fático-probatório dos autos, concluiu pela ausência de prova de que os boletos foram emitidos, enviados ou pagos junto ao banco requerido, inexistindo nexo causal, consoante verifica-se do excerto do voto condutor a seguir transcrito (e-STJ fl. 164):
+"(..)
+Ocorre, como se nota, que os boletos adulterados roram recebidos de terceiros via email, bem como foram pagos perante banco distinto do ora recorrido, o que não permite inserir qualquer conduta ilícita deste no nexo de causalidade com a fraude perpetrada em desfavor da autora.
+Por isso, no caso, como afirmado pelo Juízo de Primeiro Grau na r. sentença, ".. Depreende-se da petição inicial que os boletos adulterados foram enviados à autora por email, não havendo qualquer elemento de prova a trazer ao menos indícios de que os boletos tenham sido gerados no ambiente virtual do banco réu ou por este emitido à autora. Dessa forma, na medida em que não restou demonstrado que o réu emitiu o boleto adulterado, que resultou no pagamento incorreto pela autora e, tampouco o fato se deu por meio de qualquer de seus canais de atendimento a seus consumidores, não há como se lhe atribuir responsabilidade. Frise-se que não há qualquer ato que possa ser imputado ao Banco Itaú responsabilizando-o pela fraude sofrida pela autora. Os pagamentos foram feitos com as informações enviadas por email, provavelmente em razão de vírus no computador da autora. Bem por isso que se impõe a improcedência da ação." (fls.123/124).
+Não por outro motivo a r. sentença copiada pelo apelante às fls. 143/145 traz desfecho distinto quando se trata de ação ajuizada contra banco que recebeu o pagamento de boleto que sabia ou devia saber ser fraudulento ou que destinava recursos a pessoa distinta daquela declinada como favorecida.
+O caso aqui é distinto, e não se vislumbrado nexo causai autorizador do acolhimento da pretensão indenizatória, impõe-se a improcedência do pedido tal como bem decidido pela r. sentença ora recorrida, que ora se mantém por seus próprios e jurídicos fundamentos (artigo 252 do RITJ/SP c/c art. 23 do Assento Regimental nº 562/2017) aqui adotados em complemento aos do presente voto".
+Rever tal entendimento demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula nº 7/STJ: "a pretensão de simples reexame de prova não enseja recurso especial".
+Assim, adequar a situação jurídica à pretensão fática buscada pelo requerente demandaria, inevitavelmente, o revolvimento do acervo fático probatório, procedimento este vedado em recurso especial ante o óbice da Súmula nº 7/STJ.
+Ademais, registre-se que, mesmo à luz do novel 489 do Código de Processo Civil de 2015, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas sobre aqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV).
+A motivação contrária ao interesse da parte ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador não autoriza o acolhimento dos embargos declaratórios.
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir algum erro material, mas, sim, reformar o julgado por via inadequada.
+Ante o exposto, rejeito os embargos de declaração.
+Intimem-se.
+Publique-se.
