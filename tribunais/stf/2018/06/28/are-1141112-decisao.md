@@ -1,0 +1,26 @@
+DECISÃO: O presente agravo foi interposto contra decisão que negou trânsito ao apelo extremo deduzido nestes autos, no qual a recorrente sustentou que o acórdão, proferido pela 3ª Turma Recursal dos Juizados Especiais Federais de Santa Catarina, teria transgredido preceitos inscritos na Constituição da República.
+    O exame da presente causa, no entanto, evidencia que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão em referência demonstra que o órgão judiciário de origem, ao proferir a decisão questionada, sustentou as suas conclusões em aspectos fático-probatórios:
+    “Examinei os autos e concluí que as razões apresentadas pela recorrente não são suficientes para infirmar o que foi decidido, de modo que a sentença, no tocante aos aspectos impugnados, merece confirmação pelos próprios fundamentos, nos termos do art. 46 da Lei nº 9.099/95, combinado com o art. 1º da Lei nº 10.259/2001.
+    Destaco, por oportuno, trechos que fundamentaram a sentença:
+    ‘(...)
+    Caso concreto. O laudo da perícia judicial (evento 35), na parte que interessa ao deslinde da causa, tem o seguinte teor:
+    (…)
+    4 – AVALIAÇÃO DA EXPOSIÇÃO AOS AGENTES AMBIENTAIS E AGENTES BIOLÓGICOS: As atividades desenvolvidas pela parte autora a expõem ao contato a agentes biológicos que podem estar presentes nos usuários da biblioteca, dentre eles médicos, estudantes, pacientes e acompanhantes e ainda ao contato com os pacientes nos corredores dos demais setores do hospital nos quais a parte autora circula. Além disso, existe o contato com os materiais emprestados, potencialmente contaminados com agentes biológicos, no momento da devolução, visto que tal material é usado nos diversos setores do hospital e não é feita a higienização deste material antes da devolução.
+    AGENTES FÍSICOS: Não foi constatada a exposição a agentes físicos constantes da Norma Regulamentadora nº 15 no local de trabalho da parte autora.
+    AGENTES QUÍMICOS: Não foi constatada a exposição a agentes químicos constantes da Norma Regulamentadora nº 15 no local de trabalho da parte autora.
+    ....................................................................................
+    8 – CONCLUSÃO
+    Após a entrevista com a parte autora, a observação detalhada de todas as atividades desenvolvidas, a avaliação qualitativa dos riscos ocupacionais e as conclusões técnicas, foram identificadas atividades e condições de trabalho que expõem a parte autora ao contato permanente com agentes biológicos nocivos à saúde, de acordo com o Anexo nº 14 da NR-15. O Anexo 14 da NR-15 enquadra os trabalhos e operações em contato permanente com pacientes ou com material infecto-contagiante em hospitais, como atividades insalubres. Portanto, a parte autora desempenha suas atividades em condições insalubres, em grau médio, visto que há o contato permanente com pacientes potencialmente portadores de doenças infectocontagiosas e materiais contaminados com microrganismos parasitários, visto que estes não são previamente esterilizados.
+    De acordo com o perito, a atividade é exercida pela autora com exposição a agentes biológicos de modo habitual e permanente, dando ensejo ao pagamento de adicional de insalubridade para o período requerido na inicial em grau médio.
+    Assim, com base nos precedentes transcritos e nas razões expostas, a parte autora tem direito a receber o adicional de insalubridade em grau médio (10%). (...)' (...)”
+    Vê-se, portanto, que a pretensão deduzida, em sede recursal extraordinária, pela parte ora recorrente revela-se processualmente inviável, pois o recurso extraordinário não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, se mostram condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Impende assinalar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 926.622/PE, Rel. Min. ROSA WEBER – ARE 965.956/PE, Rel. Min. CÁRMEN LÚCIA – ARE 1.027.976/RJ, Rel. Min. RICARDO LEWANDOWSKI, v.g.).
+    Sendo assim, e tendo em consideração as razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a ausência de condenação em verba honorária na origem.
+    Publique-se.
+    Brasília, 28 de junho de 2018.
+Ministro CELSO DE MELLO
+Relator
