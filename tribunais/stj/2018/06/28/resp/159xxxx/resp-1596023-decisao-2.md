@@ -1,0 +1,43 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. AUSÊNCIA DE ARGUMENTAÇÃO. SÚMULA 284/STF. SERVIDOR PÚBLICO FEDERAL. AFASTAMENTO PARA PARTICIPAÇÃO EM CURSO DE PÓS-GRADUAÇÃO. DIREITO ÀS FÉRIAS. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial, interposto pelo Instituto Nacional da Propriedade Industrial - INPI, com fundamento no art. 105, III, "a", da Constituição Federal contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ fl. 619):
+ADMINISTRATIVO. SERVIDOR PÚBLICO. CARREIRA DE MAGISTÉRIO. SINDICATO. AJG. LEGITIMIDADE SINDICAL. PRESCRIÇÃO. FÉRIAS. CURSO DE PÓS-GRADUAÇÃO. EFEITOS DA SENTENÇA DA AÇÃO COLETIVA.
+Conquanto seja admissível a concessão de assistência judiciária gratuita a pessoa jurídica, é indispensável a comprovação da ausência de condições financeiras de arcar com os encargos processuais, ainda que se trate de entidade sindical sem fins lucrativos. Não basta a mera declaração de necessidade, como dispõe a Súmula 481 do STJ.
+Por se tratar de típica hipótese de substituição processual, é desnecessária qualquer autorização dos substituídos. Recurso conhecido e provido.
+Em homenagem ao princípio da unicidade sindical, considera-se legitimado o sindicato específico representante da categoria e não aquele de maior abrangência na base territorial.
+Os efeitos e a eficácia da sentença prolatada em ação civil coletiva não estão circunscritos a lindes geográficos, mas aos limites objetivos e subjetivos do que foi decidido.
+Incide o prazo quinquenal previsto no art. 1º do Decreto nº 20.910/32, o qual, face ao princípio da especificidade prevalece sobre as disposições gerais do Código Civil.
+Esta Corte, seguindo a linha adotada pelo Superior Tribunal de Justiça, já enfrentou a matéria em debate, entendendo que o servidor público federal tem direito a férias e a seu respectivo adicional nos períodos correspondentes ao afastamento para participação em programa de pós-graduação stricto sensu no país ou de licença para capacitação, tendo em vista que tais períodos são considerados como de efetivo exercício, nos termos do art. 102, IV e VIII, "e", da Lei nº 8.112/90.
+Os embargos de declaração foram parcialmente acolhidos para fins de prequestionamento, conforme ementa de e-STJ fl. 691.
+No apelo especial, a parte recorrente alega, preliminarmente, violação do art. 535 do CPC/1973, ao argumento de que a Corte local não se manifestou sobre pontos importantes para o deslinde da controvérsia.
+Quanto ao juízo de reforma aponta ofensa aos arts. 77, 78, e 102, IV, VII, e VIII, da Lei 8.112/1990, defendendo, em suma, que "não há dispositivo legal que garanta direito a férias relativamente ao exercício em que o servidor esteve afastado durante o ano inteiro" (e-STJ fl. 709).
+Com contrarrazões (e-STJ fls. 836-851.
+Decisão de admissibilidade à e-STJ fl. 945.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+O recurso não merece prosperar.
+De início, não se pode conhecer a apontada violação do art. 535 do Código de Processo Civil/1973, porquanto o recurso cinge-se à alegações genéricas e, por isso, não demonstra, com transparência e precisão, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai o óbice da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, no âmbito desta Corte.
+Nesse sentido:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. AFASTAMENTO. AUSÊNCIA DE INÉRCIA DO CREDOR. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO NÃO COMPROVADO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+(..)
+(AgRg no REsp 1.450.797/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 11/6/2014)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC. SÚMULA 284/STF. SERVIDOR PÚBLICO. PROFISSIONAL DA ÁREA DA SAÚDE. IMPOSSIBILIDADE DE ACUMULAÇÃO DE CARGOS. ACÓRDÃO COM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. INCOMPATIBILIDADE DE HORÁRIOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ELEITA. SÚMULA 7/STJ. PRECEDENTES DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Quanto à alegação de negativa de prestação jurisdicional, verifica-se que, apesar de apontar como violado o art. 535 do CPC, a agravante não evidencia qualquer vício no acórdão recorrido, deixando de demonstrar no que consistiu a alegada ofensa ao citado dispositivo, atraindo, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal ("é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Nesse sentido: STJ, AgRg no AREsp 422.907/RJ, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 18/12/2013; AgRg no AREsp 75.356/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 21/10/2013.
+(AgRg no AREsp 318.883/RJ, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 1/7/2014).
+No mérito, a jurisprudência desta Corte assentou a compreensão de que "aos servidores públicos é assegurado o direito de receber as férias, com as conseqüentes vantagens pecuniárias, enquanto permanecerem afastados para realização de curso de pós-graduação stricto sensu no País, período que é considerado de efetivo exercício (art. 102, IV, da Lei n. 8.112/90)" (REsp 1399952/AL, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 15/10/2013, DJe 24/10/2013).
+Com o mesmo entendimento:
+PROCESSUAL E ADMINISTRATIVO. SERVIDOR PÚBLICO. AFASTAMENTO PARA CAPACITAÇÃO. EFETIVO EXERCÍCIO. DIREITO ÀS FÉRIAS. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+1. A jurisprudência do STJ orienta-se no sentido de que o servidor público faz jus às férias nos períodos correspondentes ao afastamento para participação em programa de pós-graduação stricto sensu no país ou de licença para capacitação, até porque tais períodos são considerados como de efetivo exercício, nos termos do art. 102, IV e VIII, da Lei 8.112/1990.
+ ..
+5. Recurso Especial não provido. (REsp 1.647.220/ES, Rel. Min. HERMAN BENJAMIN, Segunda Turma, DJe 20/4/2017)
+ADMINISTRATIVO. PROFESSOR UNIVERSITÁRIO. AFASTAMENTO PARA PARTICIPAÇÃO EM CURSO DE DOUTORADO. DIREITO A FÉRIAS E 1/3.
+1. Trata-se, na origem, de mandado de segurança em que se objetiva assegurar o direito à percepção das férias com as consequentes vantagens pecuniárias, enquanto permanecer afastado para participação em curso de pós-graduação stricto sensu no país, na modalidade doutorado.
+2. O STJ, em tema idêntico, decidiu que faz jus o servidor às férias nos períodos correspondentes ao afastamento para participação em programa de pós-graduação stricto sensu no país ou de licença para capacitação, até porque tais períodos são considerados como de efetivo exercício, nos termos do art. 102, IV e VIII, e, da Lei n.
+8.112/90.
+3. Não cabe ao regulamento, ou a qualquer norma infralegal, criar restrições ao gozo dos direitos sociais, mediante interpretação que afronte a razoabilidade e resulte na redução da intelecção conferida ao termo "efetivo exercício". (REsp 1370581/AL, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 11/4/2013, DJe 9/5/2013) 4. É parte legítima para integrar o pólo passivo de mandado de segurança a autoridade que efetivamente pratica o ato apontado como ilegal.
+Agravo regimental improvido. (AgRg no REsp 1377925/AL, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 28/06/2013)
+Dessa forma, constata-se que o Tribunal de origem decidiu a questão em conformidade com o entendimento desta Corte Superior, o que atrai a incidência do enunciado da Súmula 83 do STJ: "Não se conhece do Recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido de decisão recorrida."
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
