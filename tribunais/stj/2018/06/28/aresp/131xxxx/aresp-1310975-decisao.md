@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo, interposto por [NOME], contra decisão que inadmitiu recurso especial, fundado no art. 105, inciso III, alíneas "a" e "c" do permissivo constitucional, em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+RESPONSABILIDADE CIVIL. MUNICÍPIO. ATENDIMENTO MÉDICO. FALHA NO SERVIÇO. INDENIZAÇÃO.
+A responsabilidade do ente público está disposta na regra do art. 37, § 6o, da CF.
+Se existe omissão a responsabilidade é subjetiva, com necessidade de exame sobre a culpa (STF, RE 369.820, Rei. Min. Carlos Velloso, julgamento em 4-11-2003, Segunda Turma, DJ de 27-2-2004.)
+A violação do direito da personalidade motiva a reparação do dano moral.
+O dano moral deve ser estabelecido com razoabilidade, de modo a servir de lenitivo ao sofrimento da vítima.
+No caso, existiu demora para a realização de exames para verificação sobre a presença de corpo estranho no braço da vítima. Provocado maior sofrimento à paciente. Reconhecida a falha de serviço. O dano material e o dano estético não possuem relação de causalidade com o defeito na prestação de serviço.
+O valor de indenização por dano moral deve ser reduzido, levando em conta a falha cometida e as conseqüências para a paciente.
+Apelos providos em parte. (fl. 322, e-STJ)
+Nas razões do recurso especial, a recorrente aponta, além de divergência jurisprudencial, violação aos arts. 186, 927 e 944 do CC/02, sustentando, em síntese, a necessidade de majoração do quantum indenizatório, fixado em R$ 4.000,00, porquanto irrisório.
+É o relatório.
+Decido.
+No que se refere à alegada violação aos arts. 186 e 927 do Código Civil, tem-se que tais dispositivos não se referem ao quantum indenizatório ou aos critérios para o arbitramento da indenização, mas à própria configuração da responsabilidade civil. Desse modo, os referidos artigos não possuem força normativa suficiente para ensejar o conhecimento do recurso especial e, com isso, a revisão do valor fixado pela instância ordinária para fins de reparação do dano.
+Com efeito, "a indicação de artigo de lei federal tido por violado que não guarda pertinência temática com a matéria discutida nos autos obsta o conhecimento do recurso especial, a teor da Súmula 284/STF" (REsp 846.049/SP, Rel. Min. ELIANA CALMON, Segunda Turma, DJ de 08.09.2008).
+No mesmo sentido:
+ADMINISTRATIVO. DESAPROPRIAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. VIOLAÇÃO AO ART. 535. INOCORRÊNCIA. COMANDO INCAPAZ DE INFIRMAR A CONCLUSÃO DO ACÓRDÃO. TAXA DE 6% AO ANO. EFICÁCIA DA MP 1.577/97. PRINCÍPIO DO TEMPUS REGIT ACTUM. PRECEDENTES.
+(..)
+3. Não pode ser conhecido o recurso especial se o dispositivo apontado como violado não contém comando capaz de infirmar o juízo formulado no acórdão recorrido. Incidência, por analogia, a orientação posta na Súmula 284/STF.
+(..)
+6. Recurso especial parcialmente conhecido e, nesta parte, provido. (REsp 884.146/MT, 1ª Turma, Rel. Min. Teori Albino Zavascki, DJ de 16.8.2007) O Superior Tribunal de Justiça firmou orientação no sentido de que somente é admissível o exame do valor fixado a título de danos morais em hipóteses excepcionais, quando for verificada a exorbitância ou a irrisoriedade da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade. Nesse sentido: AgRg no REsp 971.113/SP, Quarta Turma, Rel. Min. JOÃO OTÁVIO DE NORONHA, DJe de 8/3/2010; AgRg no REsp 675.950/SC, Terceira Turma, Rel. Min. SIDNEI BENETI, DJe de 3/11/2008; AgRg no Ag 1.065.600/MG, Terceira Turma, Rel. Min. MASSAMI UYEDA, DJe de 20/10/2008.
+Por outro lado, o Superior Tribunal de Justiça firmou orientação no sentido de que somente é admissível o exame do valor fixado a título de danos morais em hipóteses excepcionais, quando for verificada a exorbitância ou a irrisoriedade da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade. Nesse sentido: AgRg no REsp 971.113/SP, Quarta Turma, Rel. Min. JOÃO OTÁVIO DE NORONHA, DJe de 8/3/2010; AgRg no REsp 675.950/SC, Terceira Turma, Rel. Min. SIDNEI BENETI, DJe de 3/11/2008; AgRg no Ag 1.065.600/MG, Terceira Turma, Rel. Min. MASSAMI UYEDA, DJe de 20/10/2008.
+A respeito do tema, salientou o eminente Ministro ALDIR PASSARINHO JUNIOR: "A intromissão do Superior Tribunal de Justiça na revisão do dano moral somente deve ocorrer em casos em que a razoabilidade for abandonada, denotando um valor indenizatório abusivo, a ponto de implicar enriquecimento indevido, ou irrisório, a ponto de tornar inócua a compensação pela ofensa efetivamente causada" (REsp 879.460/AC, Quarta Turma, DJe de 26/4/2010).
+No caso vertente, entende-se ser desarrazoado o quantum fixado pela instância ordinária, correspondente a R$ 4.000,00 (três mil reais), considerando-se que o dano adveio da falha na prestação de serviço de saúde - demora para a realização de exames para constatação a respeito da presença de corpo estranho no braço da autora, acarretando-lhe maior sofrimento.
+Dessa forma, impõe-se novo arbitramento do montante indenizatório, a fim de atender aos princípios da proporcionalidade e da razoabilidade, evitando o indesejado enriquecimento sem causa do autor da ação indenizatória, sem, contudo, ignorar o caráter preventivo e pedagógico inerente ao instituto da responsabilidade civil.
+Forte em tais razões e atento aos precedentes desta Corte, majoro a reparação moral para R$ 10.000,00 (dez mil reais), devendo ser acrescida de correção monetária a partir desta data (Súmula 362/STJ) e de juros moratórios a partir da citação.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial a fim de majorar a reparação moral para R$ 10.000,00 (dez mil reais), devendo ser acrescida de correção monetária a partir desta data (Súmula 362/STJ) e de juros moratórios a partir da citação.
+Custas e honorários advocatícios conforme fixados na origem.
+Publique-se.
