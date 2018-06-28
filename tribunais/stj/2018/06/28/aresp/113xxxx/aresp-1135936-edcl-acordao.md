@@ -1,0 +1,41 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. CARÁTER INFRINGENTE. IMPOSSIBILIDADE. REJEIÇÃO DOS EMBARGOS.
+1. O acórdão embargado se manifestou de forma clara e fundamentada no sentido de que as alegações lastreadas em princípios e dispositivos constitucionais são de competência do Supremo Tribunal Federal no âmbito do recurso extraordinário, de forma que não podem ser enfrentadas em sede de recurso especial, sob pena de usurpação da competência da Corte Suprema.
+2. Não há que se falar, portanto, em negativa de prestação jurisdicional, visto que tal somente se configura quando, na apreciação de recurso, o órgão julgador insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi. É cediço que a motivação contrária ao interesse da parte não se traduz em maltrato ao artigo 1.022 do CPC/2015.
+3. Os embargos de declaração constituem instrumento processual com o escopo de eliminar do julgamento obscuridade, contradição ou omissão sobre tema cujo pronunciamento se impunha pelo acórdão ou, ainda, de corrigir evidente erro material, servindo, dessa forma, como instrumento de aperfeiçoamento do julgado. Não havendo omissão, obscuridade ou contradição, impõe-se a sua rejeição.
+4. Embargos de declaração rejeitados.
+
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Turma, por unanimidade, rejeitou os embargos de declaração, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)."
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Herman Benjamin (Presidente) e Og Fernandes votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Francisco Falcão.
+RELATÓRIO
+O SENHOR MINISTRO MAURO CAMPBELL MARQUES (Relator): Cuida-se de embargos de declaração manejados por IMBRALIT INDUSTRIA E COMERCIO DE ARTEFATOS E FIBROCIMENTO LTDA em face de acórdão desta Segunda Turma resumido da seguinte forma:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. EXECUÇÃO FISCAL. NULIDADE DAS AVALIAÇÕES. SÚMULA Nº 284 DO STF. JUNTADA DO PROCESSO ADMINISTRATIVO FISCAL. ÔNUS DA EMBARGANTE. ANÁLISE DOS REQUISITOS DA CDA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. LEGALIDADE DA TAXA SELIC. ENTENDIMENTO ADOTADO NA SISTEMÁTICA DO ART. 543-C, DO CPC. CARÁTER CONFISCATÓRIO DAS MULTAS. MATÉRIA CONSTITUCIONAL DE COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL.
+1. O acórdão recorrido se manifestou de forma clara e fundamentada sobre a matéria posta em debate na medida necessária para o deslinde da controvérsia, não havendo que se falar em ofensa ao art. 1.022 do CPC/2015, visto que tal somente se configura quando, na apreciação de recurso, o órgão julgador insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi.
+2. A alegação de nulidade da avaliação dos bens veio desprovida de indicação dos dispositivo legal tido por violado, o que impossibilita o conhecimento do recurso no ponto em razão do óbice da Súmula nº 284 do STF.
+3. Esta Corte já se manifestou no sentido de que a Certidão de Dívida Ativa goza de presunção de certeza e liquidez, cujo ônus de ilidi-la é do contribuinte, cabendo a ele, ainda, a juntada do processo administrativo, caso imprescindível à solução da controvérsia. (REsp 1.627.811/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 27/04/2017)
+4. É cediço nesta Corte, inclusive por entendimento adotado em sede de recurso especial repetitivo, julgado na sistemática do art. 543-C, do CPC (REsp n.º 879.844/MG e Resp n.º 1.111.175/SP, ambos julgados sob o rito do art. 543-C do CPC), que os débitos fiscais pagos em atraso, inclusive multa, são corrigidos pela Taxa Selic.
+5. Não é possível conhecer da alegada ofensa ao princípio constitucional do não-confisco no que tange às multas aplicadas, uma vez que tal alegação se lastrei em princípio e dispositivos constitucionais de análise reservada ao Supremo Tribunal Federal no âmbito do recurso extraordinário, de forma que não podem ser enfrentadas em sede de recurso especial, sob pena de usurpação da competência da Corte Suprema.
+6. Agravo interno não provido.
+A embargante alega omissão em relação aos dispositivos constitucionais, quais sejam, os incisos LIV e LV do art. 5º da Constituição Federal.
+Requer o conhecimento dos aclaratórios para sanar o vício apontado, sobretudo para fins de prequestionamento na forma do art. 1.025 do CPC/2015 e das Súmulas nºs 282 e 356 do STF.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. CARÁTER INFRINGENTE. IMPOSSIBILIDADE. REJEIÇÃO DOS EMBARGOS.
+1. O acórdão embargado se manifestou de forma clara e fundamentada no sentido de que as alegações lastreadas em princípios e dispositivos constitucionais são de competência do Supremo Tribunal Federal no âmbito do recurso extraordinário, de forma que não podem ser enfrentadas em sede de recurso especial, sob pena de usurpação da competência da Corte Suprema.
+2. Não há que se falar, portanto, em negativa de prestação jurisdicional, visto que tal somente se configura quando, na apreciação de recurso, o órgão julgador insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi. É cediço que a motivação contrária ao interesse da parte não se traduz em maltrato ao artigo 1.022 do CPC/2015.
+3. Os embargos de declaração constituem instrumento processual com o escopo de eliminar do julgamento obscuridade, contradição ou omissão sobre tema cujo pronunciamento se impunha pelo acórdão ou, ainda, de corrigir evidente erro material, servindo, dessa forma, como instrumento de aperfeiçoamento do julgado. Não havendo omissão, obscuridade ou contradição, impõe-se a sua rejeição.
+4. Embargos de declaração rejeitados.
+
+VOTO
+O SENHOR MINISTRO MAURO CAMPBELL MARQUES (Relator): Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O acórdão embargado se manifestou de forma clara e fundamentada no sentido de que as alegações lastreadas em princípios e dispositivos constitucionais são de competência do Supremo Tribunal Federal no âmbito do recurso extraordinário, de forma que não podem ser enfrentadas em sede de recurso especial, sob pena de usurpação da competência da Corte Suprema.
+Não há que se falar, portanto, em negativa de prestação jurisdicional, visto que tal somente se configura quando, na apreciação de recurso, o órgão julgador insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi. É cediço que a motivação contrária ao interesse da parte não se traduz em maltrato ao artigo 1.022 do CPC/2015.
+Desta forma, indubitável que o aresto ora atacado abordou todos os pontos necessários à composição da lide, oferecendo conclusão conforme a prestação jurisdicional solicitada, encontrando-se alicerçado em premissas que se apresentam harmônicas com o entendimento adotado e desprovido de obscuridades ou contradições, o que impõe a rejeição dos presentes embargos. Verifica-se, na verdade, que o objetivo da embargante é obter um novo julgamento de mérito do recurso, sendo absolutamente inaceitável na via aclaratória.
+Os embargos de declaração constituem instrumento processual com o escopo de eliminar do julgamento obscuridade, contradição ou omissão sobre tema cujo pronunciamento se impunha pelo acórdão ou, ainda, de corrigir evidente erro material, servindo, dessa forma, como instrumento de aperfeiçoamento do julgado. Não havendo omissão, obscuridade ou contradição, impõe-se a sua rejeição.
+Registro que a reiteração de embargos de declaração sobre questões já resolvida nos autos poderá ensejar a aplicação da multa prevista no § 2º do art. 1.026 do CPC/2015.
+Pelas razões expostas, REJEITO os aclaratórios.
+É como voto.
