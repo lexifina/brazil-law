@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão que negou provimento ao recurso especial, mantendo a qualificadora do rompimento de obstáculo, sob o entendimento de que prescindível a elaboração de laudo.
+Nas razões recursais, alega a defesa violação dos arts. 158 e 159, §1º, ambos do CPP, argumentando, para tanto, ser imprescindível a realização de perícia técnica para a comprovação da qualificadora do rompimento de obstáculo, por se tratar de crime que deixa vestígios.
+Pugna, assim, pelo provimento do recurso para decotar a qualificadora do rompimento de obstáculo, desclassificando-se o delito para previsto no caput do art. 155 do CP.
+Contra-arrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo não conhecimento do recurso.
+É o relatório.
+Decido.
+Prevalece nesta Corte o entendimento de que a incidência da qualificadora prevista no art. 155, § 4º, I, do Código Penal requer, de fato, a realização de perícia, a qual pode, contudo, ser suprida por outros meios de prova caso o delito não deixe vestígios, se esses tenham desparecido ou, ainda, se as circunstâncias do crime não permitirem a confecção do laudo.
+Nesse contexto, ainda que a presença da circunstância qualificadora esteja em consonância com a prova testemunhal colhida nos autos ou com a própria confissão do acusado, mostra-se imprescindível a realização de exame de corpo de delito, direto ou indireto, nos termos do art. 158 do Código de Processo Penal.
+Na espécie, consta do acórdão impugnado (fls. 234/237, com destaques):
+ ..  Embora não conste nos autos um laudo pericial apto a comprovar o rompimento de obstáculo, as versões apresentadas pelas testemunhas são no sentido de que o acusado arrombou a porta de entrada do estabelecimento comercial com o uso de um cano de ferro.
+Conforme se vê:
+"(..) que foram encontrados nas proximidades do local um cano de ferro, o qual teria sido usado para arrombar a loja que teve parte da sua estrutura danificada; que o conduzido nega a autoria do delito, alegando que teria achado a sacola com os produtos na rua." (Depoimento do Policial Militar W.R.P. na DEPOL de fl. 02)
+"(..) que foram encontrados nas proximidades do local um cano de ferro, o qual teria sido usado para arrombar a loja que teve parte da sua estrutura danificada; que o conduzido nega a autoria do delito, alegando que teria achado a sacola com os produtos na rua; que a testemunha O., que é segurança de um prédio ao lado na loja, não se faz presente nesta Delegacia de Plantão." (Depoimento do Policial Militar B.N.R. na DEPOL - fl. 03)
+"(..) que foram encontrados nas proximidades do local um cano de ferro, o qual teria sido usado para arrombar a loja que teve parte da sua estrutura danificada; que o conduzido nega a autoria do delito, alegando que teria achado a sacola com os produtos na rua. (..)" (Depoimento do Policial Militar P.L.F.M. na DEPOL - fl. 04)
+Citados depoimentos foram ratificados em juizo, conforme se vê dos depoimentos de fls. 93 e 94.
+A vítima ainda esclarece tanto na DEPOL como em juízo tal fato. Eis os termos de seus depoimentos:
+"Que a declarante é sócio/proprietária do salão/escola denominado Instituto Diplomata, situado na Praça Amintas, no centro Comercial de Venda Nova, sendo que na noite de 19/04/2012, estava em sua casa em Vespasiano-MG, quando recebeu um telefonema de uma funcionária, informando que a referida loja havia sido arrombada e que um indivíduo foi preso por policiais militares, como suspeito de autoria dos fatos; que ao se deslocar para o local a declarante reconheceu o tal indivíduo como sendo uma pessoa que há aproximadamente três meses está dormindo na porta do estabelecimento; que inclusive a loja já foi arrombada quatro vezes, no mês de março do corrente ano, sendo registradas três ocorrências; que a declarante reconheceu também os objetos ora relacionados no REDS e que segundo os policiais estavam em poder do agente, como sendo de sua propriedade" (fl.05)
+ Portanto, ao contrário do que quer fazer crer a defesa, restou suficientemente demonstrado pelos depoimentos colhidos nos autos que o apelante, para obter sucesso à empreiteira criminosa almejada, arrombou o estabelecimento comercial com um cano de ferro, não obstante o laudo pericial não contar tal situação.
+ ..  Nesse raciocínio, entendo que os elementos probatórios demonstram, sem dúvidas, a presença da qualificadora prevista no art. 155, §4º, I, do Código Penal.
+Não tendo sido apontado nenhum fundamento capaz de justificar a não realização do exame de corpo de delito de forma direta, impõe-se o afastamento da qualificadora. A propósito:
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO MEDIANTE ROMPIMENTO DE OBSTÁCULO. AUSÊNCIA DE PERÍCIA. DESÍDIA ESTATAL NA NÃO REALIZAÇÃO DO LAUDO DE CONSTATAÇÃO DIRETO. AUSÊNCIA DE JUSTIFICATIVA DE TAL AUSÊNCIA PELAS INSTÂNCIAS INFERIORES. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte Superior orienta-se no sentido da imprescindibilidade da realização de perícia, a fim de se caracterizar a circunstância qualificadora do crime de furto, nas infrações que deixam vestígios.
+2. Na hipótese, porém, o poder público não se desincumbiu do dever de proceder à necessária perícia técnica direta, tendo as instâncias ordinárias se limitado a ouvir as testemunhas do delito, que constataram o rompimento de obstáculo, não havendo nenhuma justificativa plausível para a não realização do laudo de constatação direto nos autos.
+Agravo regimental desprovido.
+(AgRg no AgRg no REsp 1660041/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 07/11/2017, DJe 14/11/2017.)
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO QUALIFICADO PELO ROMPIMENTO DE OBSTÁCULO. COMPROVAÇÃO POR PROVA TESTEMUNHAL. EXAME INDIRETO. IMPOSSIBILIDADE. EXAME PERICIAL. IMPRESCINDIBILIDADE. AFASTAMENTO DA QUALIFICADORA. AGRAVO IMPROVIDO.
+1. Consoante orientação jurisprudencial desta Corte, o reconhecimento da qualificadora de rompimento de obstáculo exige a realização de exame pericial, o qual somente pode ser substituído por outros meios probatórios quando inexistirem vestígios, o corpo de delito houver desaparecido ou as circunstâncias do crime não permitirem a confecção do laudo.
+2. Realizado o laudo de forma indireta, não tendo sido apontado nenhum fundamento capaz de justificar a não realização da perícia de forma direta, impõe-se o afastamento da qualificadora. Precedentes.
+3. Agravo regimental improvido.
+(AgRg no HC 245.635/MT, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 02/02/2017, DJe 09/02/2017.)
+Merece, portanto, reforma o acórdão recorrido, a fim de se ajustar ao entendimento firmado no âmbito do Superior Tribunal de Justiça, para afastar a qualificadora do rompimento de obstáculo.
+Passo ao redimensionamento da reprimenda imposta.
+Tendo em vista a desclassificação do delito para o furto simples, seguindo os mesmo parâmetros do juízo a quo, estabeleço a pena-base no mínimo legal, em 1 ano de reclusão e 10 dias-multa. Na segunda fase, ausentes atenuantes ou agravantes, mantém-se a reprimenda no mesmo patamar, a qual torna-se definitiva, à míngua de outras causas modificativas. Ficam mantidos os demais termos da sentença.
+Ante o exposto, dou provimento ao recurso especial para afastar a qualificadora do inciso I do § 4º do art. 155 do Código Penal, redimensionando a pena ao patamar de 1 ano de reclusão, a ser cumprida em regime aberto, e 10 dias-multa.
+Publique-se.
+Intimem-se.
