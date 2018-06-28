@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo manejado por [NOME] VIANA contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 119):
+APELAÇÃO CÍVEL. SERVIDOR PÚBLICO APOSENTADO. MUNICÍPIO DE VESPASIANO. RETIFICAÇÃO DO APOSTILAMENTO. REVISÃO DE APOSENTADORIA. TRANSCURSO DE 10 ANOS ENTRE O INDEFERIMENTO ADMINISTRATIVO E O AJUIZAMENTO DA AÇÃO.
+PRESCRIÇÃO DO FUNDO DO DIREITO. OCORRÊNCIA. RECURSO NÃO PROVIDO.
+- O que se busca com a presente ação consiste na revisão do ato de aposentadoria, ao argumento de que houve o apostilamento em cargo supostamente equivocado, ocasionando lesão a servidora inativa.
+- Com a concretização do ato positivo da Administração, surgiu para a servidora o interesse de buscar o Judiciário para resolver o conflito de interesses. Sendo, assim, a prescrição a ser considerada é a do fundo de direito.
+- De acordo com a mais atual jurisprudência do STJ, "no que toca à prescrição, em se tratando de pretensão a reenquadramento, de acordo com a jurisprudência desta Corte Superior de Justiça a prescrição atinge o próprio fundo de direito quando a ação houver sido proposta decorridos 5 (cinco) anos após a data de edição da norma" (AgRg no REsp nº 1143552/SC, Relatora Minª. Maria Thereza de Assis Moura, DJe de 27/2/2012)." (AREsp 881158, Rel. Min. Herman Benjamin, DJe de 15/5/2016).
+- No caso, transcorridos mais de dez anos entre a data em que houve o indeferimento do pedido administrativo de revisão do apostilamento e o ajuizamento da ação, mostra-se forçosa a manutenção da r. sentença que reconheceu a prescrição do fundo de direito.
+- Recurso não provido.
+Nas razões do recurso especial, a parte agravante sustenta, em síntese, a inocorrência da prescrição do fundo de direito, "porque, a rigor, nem sempre o fundo do direito vê-se contaminado pelo transpasse do lapso temporal da incidência da prescrição se o interessado não o reclamar de logo." (fl. 136)
+Aduz que "no caso da Requerente, talvez por se tratar de matéria complexa, nunca, em tempo algum, até a presente data, jamais chegou ao seu conhecimento resposta do seu requerimento, resposta ou manifestação que implicasse em "decisão indeferitória definitiva no âmbito administrativo"." (fl. 138), não se podendo, pois, cogitar em transcurso do prazo prescricional.
+É o relatório.
+Cumpre observar que a parte recorrente não amparou o inconformismo na violação de qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Nesse diapasão: AgRg no AREsp 157.696/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 22/11/2012; AgRg nos EDcl no Ag 1.289.685/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 6/8/2010.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
