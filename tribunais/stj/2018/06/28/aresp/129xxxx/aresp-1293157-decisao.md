@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo de MILLER [NOME] contra decisão que inadmitiu recurso especial manifestado com fundamento no art. 105, III, alínea a, da Constituição Federal, em oposição ao acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que o agravante foi condenado, como incurso no art. 33, caput, c/c o art. 40, III, ambos do Código Penal, à pena de 7 anos e 6 meses de reclusão, em regime fechado.
+O recurso de apelação manejado pela defesa foi parcialmente provido para reduzir a reprimenda a 6 anos e 8 meses de reclusão, mantida, no mais, a sentença condenatória. Esta é a ementa do acórdão (e-STJ fl. 232):
+APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - ABSOLVIÇÃO - DESCLASSIFICAÇÃO PARA O CRIME DE POSSE DE DROGAS PARA USO - IMPOSSIBILIDADE - AUTORIA, MATERIALIDADE E TIPICIDADE COMPROVADAS - CONCESSÃO DO PRIVILÉGIO DO § 4º DO ART. 33 DA LE111.343/06 - INVIABILIDADE - DECOTE DA CAUSA DE AUMENTO DO ARTIGO 40, III, DA LEI 11.343/06 - NÃO CABIMENTO - MAJORANTE DO ARTIGO 40 DA LEI 11.343/06 - PRINCÍPIO DA PROPORCIONALIDADE - REDUÇÃO - NECESSIDADE - REGIME PRISIONAL - ALTERAÇÃO - NECESSIDADE. 1. Se as provas dos autos, colhidas na fase de inquérito e reproduzidas em juízo, demonstram o envolvimento do acusado com o tráfico de drogas, impossível é acolher a tese de absolvição ou de desclassificação para uso. 2. Os depoimentos dos policiais, que comprovam o envolvimento do réu com o tráfico de drogas, são provas idôneas e suficientes para a condenação, quando não desacreditados por outros elementos probatórios. 3. Não faz jus à causa de diminuição de pena prevista no § 4o do artigo 33 da Lei 11.343/06, o réu que se dedica à atividade criminosa. 4. Comprovado que a mercancia da droga se realizava nas imediações de estabelecimento prisional, não há como afastar a causa de aumento de pena prevista no art. 40, inciso III, da Lei 11.343/06. 5. Considera-se a qualidade e a quantidade de infringências de causas de aumento do art. 40 da Lei n.º 11.343/06 para a fixação da fração de majoração da reprimenda, em razão do princípio da proporcionalidade. 6. Não superando a pena o patamar de oito anos, sendo as circunstâncias judiciais, em sua maioria, favoráveis e o réu tecnicamente primário, o regime prisional deve ser o semiaberto, nos termos do artigo 33, §2º, "b", CP.
+Irresignada, a defesa do ora agravante então interpôs recurso especial, alegando, em síntese, que "os preclaros julgadores, ao manterem a pena base acima do mínimo legal em virtude de maus antecedentes, contrariaram a Súmula nº 444 deste E. Tribunal" (e-STJ fl. 269).
+Contrarrazões às e-STJ fls. 279/282.
+Inadmitido pelo Tribunal de origem, o recurso subiu a esta Corte por meio de agravo.
+O Ministério Público Federal opinou pelo desprovimento do agravo (e-STJ fls. 318/325).
+É o relatório. Decido.
+O recurso não merece prosperar.
+Isso porque o agravante, no apelo extremo, deixou de apontar quais dispositivos legais amparavam a tese de impossibilidade de consideração dos antecedentes na elevação da pena-base, o que representa inafastável deficiência recursal que impede a exata compreensão da controvérsia, atraindo a aplicação da Súmula n. 284/STF.
+A propósito:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO VIOLADO. INCIDÊNCIA DA SÚMULA N. 284 DO STF. ALEGAÇÃO DE CONDENAÇÃO BASEADA EM UM ÚNICO DEPOIMENTO DIVORCIADO DAS PROVAS DOS AUTOS. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ.
+ALEGADA NULIDADE DURANTE O PLENÁRIO NÃO CONSTANTE EM ATA DE JULGAMENTO. PRECLUSÃO. LEITURA DOS ANTECEDENTES CRIMINAIS EM PLENÁRIO. SENTENÇA LASTREADA NO CONJUNTO PROBATÓRIO DOS AUTOS. NÃO OCORRÊNCIA DE NULIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A ausência de indicação do dispositivo de lei federal supostamente violado pela instância ordinária caracteriza deficiência na fundamentação, o que atrai a incidência da Súmula n.
+284 do STF, aplicada por analogia ao recurso especial.
+ ..
+5. Agravo regimental não provido. (AgRg nos EDcl no AREsp 456.426/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 16/02/2017, DJe 02/03/2017)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APROPRIAÇÃO INDÉBITA E SONEGAÇÃO DE CONTRIBUIÇÕES PREVIDENCIÁRIAS. PRESCRIÇÃO. NÃO OCORRÊNCIA. INÉPCIA DA INICIAL. NÃO CONFIGURADA. LEI 9.983/00. ABOLITIO CRIMINIS. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. SÚMULA 284/STF. PENA-BASE. EXASPERAÇÃO. MAIOR REPROVABILIDADE DA CONDUTA. SÚMULA 83/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+5. Não tendo o recorrente especificado quais artigos teriam sido malferidos, incide, no ponto, o óbice da Súmula 284 do STF.
+ ..
+7. Agravo regimental improvido. (AgRg no Ag 1388802/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/02/2017, DJe 24/02/2017)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSO PENAL. HOMICÍDIO CULPOSO NO TRÂNSITO EM CONCURSO FORMAL COM 03 LESÕES CORPORAIS CULPOSAS. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL COMPETÊNCIA DO STF. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL SUPOSTAMENTE MALFERIDO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. INDEFERIMENTO DE PERÍCIA. SÚMULA 7/STJ.
+ ..
+2. Não tendo sido indicado nas razões do recurso especial, interposto com amparo na alínea "a" do permissivo constitucional, o dispositivo legal que supostamente teria sido violado pelo acórdão recorrido, tem aplicação, por analogia, o disposto na Súmula n. 284 do Excelso Pretório.
+ ..
+4. Agravo regimental improvido. (AgRg no AgRg no AREsp 988.165/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 02/02/2017, DJe 09/02/2017)
+Anoto que, nas razões do apelo extremo, não há possibilidade de se alegar violação a enunciados sumulares, como se verifica do seguinte precedente desta Corte:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSO PENAL. PREFEITO. USO INDEVIDO DE RECURSOS PÚBLICOS E DISPENSA ILEGAL DE LICITAÇÃO. ART. 1º, II, DO DECRETO-LEI 201/1967 E ART. 89, PARÁGRAFO ÚNICO, DA LEI 8.666/1993. NULIDADE DA AUDIÊNCIA DE INSTRUÇÃO. INTIMAÇÃO IRREGULAR. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL CONTRARIADO. INADEQUAÇÃO DO USO DA VIA ESPECIAL PARA ARGUIR VIOLAÇÃO DA SÚMULA DESTA CORTE SUPERIOR. AÇÃO CIVIL PÚBLICA POR IMPROBIDADE ADMINISTRATIVA. JULGADA IMPROCEDENTE. AUSÊNCIA DE PROVAS. IRRELEVÂNCIA. INDEPENDÊNCIA ENTRE AS ESFERAS CÍVEL E PENAL. CONDENAÇÃO CRIMINAL APOIADA EM AMPLO CONTEXTO PROBATÓRIO. PENA-BASE. CONSEQUÊNCIAS DOS CRIMES. VALORAÇÃO NEGATIVA. MOTIVAÇÃO IDÔNEA. AGRAVO DESPROVIDO.
+1. É deficiente o recurso especial que, a despeito de suscitar a nulidade da audiência de instrução realizada no processo, deixa de mencionar o dispositivo de lei federal, em tese, violado. Ademais, não é adequado o uso da via especial para apontar negativa de vigência a enunciado sumular do Superior Tribunal de Justiça, uma vez que essa hipótese não está inserida entre as previstas no art. 105, III, da CF. Precedentes.
+ ..
+5. Agravo regimental desprovido. (AgRg no AREsp 644.371/CE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/06/2017, DJe 01/08/2017, grifei.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
