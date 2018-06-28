@@ -1,0 +1,16 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. NÃO OCORRÊNCIA. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. NECESSIDADE DE SOBRESTAMENTO EM RELAÇÃO À MATÉRIA CONSTITUCIONAL. QUESTÃO A SER ANALISADA PELO SUPREMO TRIBUNAL FEDERAL NO ÂMBITO DO AGRAVO EM RECURSO EXTRAORDINÁRIO. EMBARGOS DE DECLARAÇÃO DA EMPRESA REJEITADOS.
+DECISÃO
+Cuida-se de embargos de declaração manejados por MANGUINHOS DISTRIBUIDORA S A - EM RECUPERACAO JUDICIAL em face de decisão de minha lavra resumida da seguinte forma:
+RECURSO INTERPOSTO NA VIGÊNCIA DO CPC/2015. PROCESSUAL. TRIBUTÁRIO. RECURSO QUE NÃO IMPUGNA ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO RECORRIDA. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO (ART. 932, III, CPC/2015).
+A embargante alega omissão em relação à tese firmada pelo Supremo Tribunal Federal em sede de repercussão geral nos autos do RE 593.849/MG no sentido do direito à restituição da diferença de ICMS recolhida a maior no regime de substituição tributária pra frente quando a base de cálculo for inferior à presumida, nos termos do art. 150, § 7º, da Constituição Federal. Assevera que a superveniência do supracitado julgado do STF afasta a aplicação da Súmula nº 83 do STJ, visto que a controvérsia relativa ao PIS e à COFINS no regime de substituição tributária em tudo se assemelharia àquela decidida no supracitado precedente, que inclusive teria sido afetada a julgamento no regime de repercussão geral (tema 228), o que implica o sobrestamento do recurso na forma do art. 1.040 e seguintes do CPC/2015.
+Requer o acolhimento dos aclaratórios para dar provimento ao agravo e ao recurso especial ou, subsidiariamente, para determinar o retorno dos autos à origem para sobrestamento a fim de aguardar manifestação do STJ no tema 228 em sede de repercussão geral.
+Sem impugnação.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A irresignação não merece acolhida.
+A decisão agravada se manifestou de forma clara e fundamentada sobre a impossibilidade de conhecimento do agravo em recurso especial que não impugnou fundamento da decisão agravada relativo à incidência da Súmula nº 83 do STJ através da demonstração de que os acórdãos enunciados no decisum não se aplicam ao caso concreto, ou que há julgados contemporâneos ou posteriores do STJ em sentido diverso.
+Por óbvio, a impossibilidade de conhecimento do recurso não permitiu a manifestação desta Corte sobre o mérito da questão, não havendo que se falar em omissão na hipótese.
+Por outro lado, não é possível determinar o sobrestamento do feito no presente momento, visto que o agravo em recurso especial sequer foi conhecido, bem como porque a controvérsia debatida é de cunho eminentemente constitucional, de modo que eventual determinação de retorno dos autos à origem para sobrestamento dever ser analisada oportunamente pelo Supremo Tribunal Federal quando da remessa dos autos à Corte Suprema para exame do agravo em recurso extraordinário acostado aos autos.
+Ante o exposto, REJEITO os embargos de declaração manejados pela empresa.
+Publique-se. Intimem-se.
