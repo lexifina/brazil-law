@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra decisão que inadmitiu recurso extraordinário, no qual se alega violação do artigo 7º, incisos IV, V e VI, da Constituição Federal.
+    Anota-se a ementa do acórdão recorrido:
+    “APELAÇÃO. PRETENSÃO DE REFORMA DA SENTENÇA QUE JULGOU IMPROCEDENTE O PEDIDO IMEDIATO.
+    PRESCRIÇÃO. Rejeitada. A prescrição não atinge o chamado fundo de direito. Relação jurídica de trato. A prescrição somente atinge as parcelas vencidas antes do quinquênio anterior à propositura da ação.
+    INATIVOS. FEPASA. Pretensão de recomposição da tabela de cargos e salários, com o reconhecimento de diferença salarial de 13% entre as classes de trabalhadores a partir do piso salarial de dois salários mínimos e meio estabelecido no Contrato de Trabalho de 1995/1996. Não reconhecimento do direito à equidistância remuneratória. Ausência de fundamento legal. Reajuste não prescinde de prévia autorização legal. Precedentes deste Tribunal de Justiça. NEGADO PROVIMENTO AO RECURSO.”
+    Decido.
+    A irresignação não merece prosperar, uma vez que o acolhimento da pretensão recursal, na caso em tela, não prescinde da análise da legislação local pertinente (Lei Estadual nº 9.343/96) e do conjunto fático-probatório dos autos, o que foge do campo do recurso extraordinário. Incidência das Súmulas nº 279 e 280 da Corte. Nesse sentido, anote-se:
+    “Embargos de declaração no recurso extraordinário com agravo. Conversão dos embargos declaratórios em agravo regimental. Previdenciário. Complementação de aposentadoria. Revisão. Legislação infraconstitucional. Cláusulas de acordo coletivo. Reexame. Impossibilidade. Precedentes. 1. Embargos de declaração recebidos como agravo regimental. 2. A discussão acerca da manutenção da proporcionalidade entre os pisos salariais do quadro de empregados da FEPASA não prescinde da análise da legislação infraconstitucional ou do reexame das cláusulas de acordo coletivo de trabalho. Incidência das Súmulas nºs 280, 636 e 454/STF. 3. Agravo regimental não provido” (ARE nº 890.071/SP-ED, Segunda Turma, de minha relatoria, DJe de 21/10/15 - grifei).
+    “Agravo regimental no agravo de instrumento. FEPASA. Abono. Extensão aos inativos. Possibilidade. Legislação local. Contrato Coletivo de Trabalho. Incidência das Súmulas nºs 280 e 454/STF. Precedentes. 1. O abono concedido aos ferroviários em atividade é extensível aos aposentados e pensionistas da FEPASA. 2. O recurso extraordinário não se presta ao reexame da legislação infraconstitucional local e dos termos firmados no referido Contrato Coletivo de Trabalho. Incidência das Súmulas nºs 280 e 454/STF. 3. Agravo regimental não provido.” (AI nº 587.222/SP-AgR, Primeira Turma, de minha relatoria, DJ de 25/8/11).
+    “Agravo regimental em agravo de instrumento. 2. Interpretação de cláusula de acordo coletivo. Matéria circunscrita à análise de norma infraconstitucional. Aplicação da Súmula 454 do STF. Ofensa reflexa à Constituição Federal de 1988. Precedentes. 3. Princípios da ampla defesa e do contraditório. Em regra, ofensa reflexa à Constituição Federal. Precedentes. 4. Agravo regimental a que se nega provimento” (AI nº 670.752/MG-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 24/4/08);
+    Essa orientação foi consolidada pelo Plenário desta Corte no exame do RE nº 610.223/SP, relatora a Ministra Ellen Gracie, onde-se concluiu pela ausência da repercussão geral da matéria versada neste feito em virtude de sua natureza infraconstitucional. O acórdão desse julgamento ficou assim ementado:
+    “EXTENSÃO AOS APOSENTADOS E PENSIONISTAS DA ANTIGA FEPASA DE VANTAGENS SALARIAIS CONCEDIDAS AOS FERROVIÁRIOS EM ATIVIDADE COM BASE EM ACORDO COLETIVO. APLICAÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL TENDO EM VISTA TRATAR-SE DE DIVERGÊNCIA SOLUCIONÁVEL PELA APLICAÇÃO DA LEGISLAÇÃO FEDERAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL''.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 28 de junho de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
