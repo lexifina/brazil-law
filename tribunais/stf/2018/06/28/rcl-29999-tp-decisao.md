@@ -1,0 +1,34 @@
+Decisão: Trata-se de reclamação, com pedido de liminar, ajuizada em face de acórdão mediante o qual a 6ª Turma do TRT da 15ª Região manteve a concessão de diferenças remuneratórias ao interessado com base na interpretação do art. 37, X, da Constituição da República e das Leis Complementares Municipais 1.000/2009 e 1.121/2011 (eDOC 6, pp. 3-10).
+    Alega-se, em primeiro lugar, a necessidade de distribuição deste processo por dependência ao Ministro Lewandowski, relator da Reclamação 26.771.
+    Sustenta-se, em síntese, a inobservância da Súmula Vinculante 37, uma vez que a concessão do reajuste mencionado estaria fundamentado no princípio da isonomia.
+    Em seguida, requer-se:
+    “a. A concessão de liminar de antecipação de tutela, ‘inaudita altera pars’, para determinar a suspensão da decisão proferida pela 6ª Turma, 11ª Câmara do Tribunal Regional do Trabalho da 15ª Região, nos autos da Ação Trabalhista n. 0000634-47.2014.5.15.0071, ante a presença do ‘fumus bonis juris’ e do ‘periculum in mora’ acima demonstrados;
+    b. Em virtude de todas as outras Ações idênticas à Reclamação Trabalhista n. 0000634-47.2014.5.15.0071 e que ainda estejam pendentes de julgamentos definitivos, por medida de economia processual, requer a concessão da liminar pleiteada para que se estenda sobre todas elas, suspendendo-se seus andamentos até o julgamento final da presente Reclamação Constitucional;
+    c. Requer, também, até o julgamento final desta Reclamação que sejam suspensas as executividades de todas as ações, bem como o pagamento de todos os Precatórios e Requisições de Pagamento de Pequeno Valor ou precatório expedido/a expedir, que tenham como origem Ações transitadas em julgado sobre o mesmo tema, considerando ainda que foram prolatadas em ofensa à Constituição Federal, à Sumula 339 e à Súmula Vinculante 37 e, portanto, não gozam de certeza, liquidez e exigibilidade, aplicando-se a esses casos o princípio da isonomia com a presente Reclamação;
+    (...)
+    g. Por fim, requer seja a presente Reclamação Constitucional julgada procedente, a fim de tornar definitiva a liminar concedida, mantendo-se a autoridade do Excelso Supremo Tribunal e cassando a decisão proferida pela 6ª Turma, 11ª Câmara do Tribunal Regional do Trabalho da 15ª Região, nos autos da Ação Trabalhista n. 0000634-47.2014.5.15.0071, por afronta à Constituição Federal e à Sumula Vinculante n. 37.
+    h. Requer também que julgada procedente a presente Reclamação Constitucional, por medida de economia processual, que seus efeitos atinjam TODAS AS AÇÕES QUE DE MANEIRA IDÊNTICA se se refiram à questão de incorporação de abono salarial interpostas pelos servidores ou Sindicato da Categoria em face do Município de Mogi Guaçu, estejam elas transitadas em julgado ou não.”
+    É o relatório. Decido.
+    Inicialmente, deixo de remeter os autos à Presidência desta Corte para o exame da apontada necessidade de sua redistribuição, tendo em conta o disposto no art. 70, § 1º, do RISTF, bem como a decisão de 19 de abril de 2018 proferida por aquele órgão na Rcl 30.231, da relatoria do Ministro Marco Aurélio.
+    O cabimento da reclamação, instituto jurídico de natureza constitucional, deve ser aferido nos estritos limites das normas de regência, que somente a concebem para preservação da competência do Tribunal e para garantia da autoridade de suas decisões (art. 102, I, l, CF), bem como contra atos que contrariem ou indevidamente apliquem Súmula Vinculante (art. 103-A, § 3º, da CF).
+    A decisão ora reclamada considerou que as Leis Complementares Municipais 1.000/2009 e 1.121/2011, ao incorporarem aos vencimentos dos servidores o abono salarial linear instituído anteriormente a todo o funcionalismo municipal, promoveram reajustes salariais anuais com índices diferenciados. Sendo assim, concluiu, ao menos tacitamente, pela violação da isonomia, pois aqueles servidores que possuem os menores vencimentos teriam sido beneficiados com maior reajuste do que aqueles que percebiam faixas salariais mais elevadas (eDOC 6, p. 9).
+    Em sede de análise liminar, o pronunciamento impugnado parece não ter observado a Súmula Vinculante 37. Nessa esteira:
+    “Agravo regimental na reclamação. Súmula Vinculante nº 37. Leis Municipais nºs 1.000/2009 e 1.121/2011 do Município de Mogi-Guaçu. Reajustes de 17,74% e 18,33%. Ausência de previsão legal. Princípio da isonomia. Agravo regimental não provido.
+    1. É defeso ao Poder Judiciário, com fundamento no princípio da isonomia, conceder reajuste remuneratório, sem a devida previsão legal, que importe em aumento de vencimentos de servidores, sob pena de violar o conteúdo da Súmula Vinculante nº 37.
+    2. Agravo regimental não provido.”
+    (Rcl 27.334 AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 26.10.2017)
+    No mesmo sentido: Rcl 23.310, Rel. Min. Rosa Weber, DJe 9.5.2018; Rcl 30.264, Rel. Min. Ricardo Lewandowski, DJe 26.4.2018; e Rcl 29.867, Rel. Min. Roberto Barroso, DJe 26.4.2018.
+    Com efeito, prima facie, depreende-se estar presente o fumus boni iuris, diante da impossibilidade de que o Poder Judiciário promova aumento salarial a servidor público, com base no princípio da isonomia.
+    De outra parte, também entendo estar presente o periculum in mora, dado o fundado receio de que a decisão ora combatida, ainda não transitada em julgado pela pendência de análise de recurso interposto pelo reclamante, venha a produzir efeitos de cunho executivo, incorrendo em prejuízos aos cofres públicos.
+    Ressalto a impossibilidade de acolhimento do pedido de extensão dos efeitos da concessão da ordem liminar a todas as ações relativas ao tema ora em análise, dado o caráter subjetivo da reclamação.
+    Ante o exposto, sem prejuízo de nova apreciação da matéria quando do julgamento de mérito, bem como das alegações sustentadas em contestação, defiro parcialmente a medida liminar requerida, para suspender os efeitos do acórdão exarado nos autos do Processo 0000634-47.2014.5.15.0071 até o julgamento final desta reclamação.
+    Retifique-se a autuação para constar como beneficiário Valdemir Viana (eDOC 1, p. 2).
+    Requisitem-se informações à autoridade reclamada, no prazo legal, consoante o artigo 989, I, do CPC.
+    Ainda, cite-se o beneficiário da decisão reclamada, conforme o disposto no art. 989, III, do CPC, a fim de que apresente contestação.
+    Findos os prazos, remetam-se os autos à Procuradoria-Geral da República, para oferta de parecer.
+    Após, voltem-me conclusos.
+    Publique-se. Intime-se.
+    Brasília, 28 de junho de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
