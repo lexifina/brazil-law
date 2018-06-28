@@ -1,0 +1,22 @@
+DECISÃO: O presente recurso extraordinário foi interposto pela Empresa Brasileira de Correios e Telégrafos contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 3ª Região, está assim ementado:
+    “TRIBUTÁRIO – EMBARGOS À EXECUÇÃO FISCAL – ECT – IPTU INDEVIDO – TAXAS DE SEGURANÇA, DE VIAÇÃO E SANITÁRIA DEVIDAS – COINCIDÊNCIA COM A BASE DE CÁLCULO DO IPTU: INOCORRÊNCIA – PARCIAL PROCEDÊNCIA DOS EMBARGOS.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 145, II, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Código Tributário Nacional), o que torna incognoscível o apelo extremo.
+    Cabe registrar, ainda, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito recursal deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em dispositivos de ordem meramente legal e em aspectos fático- -probatórios:
+    “Por outro lado, no que tange às taxas de segurança, de viação e sanitária, de fato, no âmbito dos requisitos para as taxas em geral, firmados através do inciso II do art. 145, CF, e do art. 77, CTN, avulta em destaque a especificidade de ditos serviços, de molde a permitir cobrança das exações em pauta, pois exatamente estas calcadas na contraprestatividade ou vinculação entre o quanto pague o contribuinte e seu beneficiamento direto, imediato.
+    Da mesma forma, a divisibilidade se coloca também límpida, uma vez que a incidir quantitativamente perante aqueles que proprietários de imóveis limítrofes ao logradouro beneficiado por referidos serviços.
+    Portanto, não se ressentem, referidas taxas, do descumprimento nem ao requisito da especificidade, nem ao da indivisibilidade.
+    Pertinente e adequada, nesse sentido, a ponderação, amiúde praticada, segundo a qual cobrados estão sendo imóveis, da ECT, que contam com aqueles referidos serviços, sendo capital repisar-se tanto se tributa, a título de taxa, pelo serviço efetivamente prestado, quanto pelo colocado ao dispor do contribuinte, neste passo não tendo a executada/embargante/apelante denotado assim não se ponham os préstimos/serviços municipais a respeito, ônus cabalmente seu.
+    Por seu turno, também inocorre a propalada coincidência de base de cálculo entre ditas taxas e o IPTU: sem óbice substancial pela parte contribuinte, a base daquelas se põe sobre o custo da atividade aqui suportada pelo Poder Público, ao passo que dito imposto recai sobre o valor venal da coisa.
+    A tanto, aliás, também se depreende por meio da CDA, fls. 42, sobre a qual não logra a parte contribuinte demonstrar o contrário.”
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo pela parte recorrente revela-se processualmente inviável.
+    Sendo assim, e tendo em consideração as razões expostas, não  conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 28 de junho de 2018.
+Ministro CELSO DE MELLO
+Relator
