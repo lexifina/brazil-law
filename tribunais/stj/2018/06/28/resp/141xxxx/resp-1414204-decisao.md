@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo DEPARTAMENTO ESTADUAL DE TRÂNSITO, com fulcro nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ fl. 142):
+APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. INFRAÇÕES DE TRÂNSITO. NEGATIVA DO DETRAN EM CONCEDER CNH DEFINITIVA AO AUTOR. AUSÊNCIA DE INSTAURAÇÃO DE PROCESSO DE SUSPENSÃO DO DIREITO DE DIRIGIR. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. SENTENÇA PROCEDENTE. MANUTENÇÃO.
+A recusa do réu em conceder a CNH definitiva ao demandante sem a instauração de processo de suspensão do direito de dirigir resulta flagrante desapreço à Constituição Federal que, em seu art. 5º, inciso LV, assegura o direito ao contraditório e à ampla defesa no procedimento administrativo.
+Apelo desprovido, por maioria.
+Nas suas razões, o recorrente aponta violação dos arts. 148, §§ 3º e 4º, e 162, I e III, do Código de Trânsito Brasileiro, sustentando que a prática de infrações de natureza grave e gravíssima, como na hipótese dos autos, impede a expedição de Carteira Nacional de Habilitação definitiva.
+Contrarrazões às e-STJ fls. 180/189.
+Juízo positivo de admissibilidade às e-STJ fls. 194/197.
+Passo a decidir.
+Inicialmente, registro que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado n. 2).
+Isso considerado, observo que o acórdão deu provimento, por maioria, à apelação do autor, reformando a sentença de mérito, e que não foram opostos os cabíveis embargos infringentes, atraindo, de fato, a incidência da Súmula 207 desta Corte, in verbis: "É inadmissível recurso especial quando cabíveis embargos infringentes contra o acordão proferido no Tribunal de origem."
+A propósito:
+ADMINISTRATIVO. EXECUÇÃO DE SENTENÇA. AÇÃO COLETIVA INTENTADA POR SINDICATO. LEGITIMIDADE PARA EXECUÇÃO INDIVIDUAL RECONHECIDA. ACÓRDÃO NÃO UNÂNIME. REFORMA DA SENTENÇA DE MÉRITO.
+1. Caso em que a Corte local entendeu que a pretensão do recorrente estaria fulminada pela prescrição, porquanto a impetração do Mandado de Segurança coletivo pelo Sindicato da categoria não teria interrompido o prazo prescricional em relação ao autor, tendo em vista não ser naquela data filiado ao SINDIRETA/DF.
+2. O acórdão recorrido, por maioria, reformou sentença de mérito, que havia julgado parcialmente procedente o pedido para condenar o réu ao pagamento da diferença dos proventos de aposentadoria. Logo, caberia ao recorrente ter interposto Embargos Infringentes antes do Recurso Especial.
+3. Nos termos da Súmula 207 do STJ: "É inadmissível recurso especial quando cabíveis embargos infringentes contra o acórdão proferido no tribunal de origem".
+4. O acórdão foi publicado na vigência do CPC/1973, em 22.2.2016, sendo aplicáveis as regras desse diploma processual.
+5. O art. 530 do CPC/1973 enuncia o cabimento dos Embargos Infringentes "quando o acórdão não unânime houver reformado, em grau de apelação, a sentença de mérito, ou houver julgado procedente ação rescisória".
+6. Recurso Especial não conhecido.
+(REsp 1608805/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/09/2016, DJe 28/09/2016).
+ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PRETENSÃO DE EFEITOS INFRINGENTES. INCIDÊNCIA DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. RECEBIMENTO COMO AGRAVO REGIMENTAL. SERVIDOR PÚBLICO ESTADUAL. POLICIAL CIVIL. ADICIONAL NOTURNO. ACÓRDÃO NÃO UNÂNIME QUE REFORMOU A SENTENÇA DE MÉRITO. AUSÊNCIA DE OPOSIÇÃO DOS NECESSÁRIOS EMBARGOS INFRINGENTES. NÃO EXAURIMENTO DA INSTÂNCIA ORDINÁRIA. DESCABIMENTO DO APELO NOBRE. SÚMULA 207 DO STJ. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Aplicado o princípio da fungibilidade recursal, para receber os Embargos de Declaração como Agravo Regimental, nos termos da jurisprudência desta Corte, tendo em vista a simples pretensão de efeitos infringentes.
+2. Julgado improcedente o pedido, por maioria, em Reexame Necessário, com a consequente reforma da sentença de mérito, mas também interposta Apelação pelo Ente Público, inafastável a necessidade de exaurimento da instância ordinária por meio dos Embargos Infringentes. Incidência da Súmula 207/STJ.
+3. Afasta-se a aplicação da Súmula 390/STJ, vez que não se verifica, in casu, a ocorrência tão somente do Reexame Necessário, considerando que houve interposição do recurso voluntário em que o Estado Apelante sustentou que os integrantes das carreiras da Polícia Civil não fazem jus ao recebimento do adicional noturno em razão das condições especiais em que laboram. Assim, ainda que a Apelação do Ente Estatal tenha sido julgada prejudicada, o provimento do Reexame Necessário foi no mesmo sentido quanto pleiteado pelo Apelante, sendo, portanto, cabíveis os Embargos Infringentes, para fins de esgotamento das vias ordinárias. Precedentes: AgRg no AREsp. 169.062/SP, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 21.10.2014; AgRg no REsp. 1.345.645/MG, Rel. Min. MAURO CAMPBELL MARQUES, DJe 29.4.2013.
+4. Agravo Regimental desprovido.
+(EDcl nos EDcl no AREsp 464.862/MG, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 26/04/2016, DJe 11/05/2016)
+Ante o exposto, com base no art. 255, §4º, I, do RISTJ, NÃO CONHEÇO do recurso especial. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+ Publique-se. Intimem-se.
