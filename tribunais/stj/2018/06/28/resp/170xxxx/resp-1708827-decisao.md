@@ -1,0 +1,77 @@
+DECISÃO
+Na origem, trata-se de embargos à execução opostos por AJS Componentes para fixação Ltda. - ME em decorrência de execução fiscal que lhe move a Fazenda Nacional. Deu-se a causa o valor de R$ 94.236,56.
+Na primeira instância, os pedidos formulados na inicial foram julgados improcedentes. No TRF da 3ª Região, a sentença foi reformada em acórdão assim ementado:
+EXECUÇÃO FISCAL - PRESCRIÇÃO - OCORRÊNCIA.
+1. A consolidação de prazo superior a 5 anos, entre a constituição definitiva do crédito tributário e o despacho ordinatório da citação, na execução fiscal, consuma a prescrição.
+2. O despacho ordinatório da citação é causa interruptiva da prescrição (artigo 174, "caput" e parágrafo único, inciso I, do CTN, com a redação da Lei Complementar nº 118/05)
+3. A norma prescricional prevista na Lei Complementar nº 118/05 tem aplicação imediata (STJ, REsp 860.128/RS, Rei. Ministro José Delgado).
+4. Apelação provida.
+A Fazenda Nacional interpôs recurso especial, com fundamento na alínea c do inciso III do art. 105 da Constituição Federal, por ofensa aos arts. 535 e 333, I, do CPC/73; aos arts. 8º, § 2º, e 16, § 2º, da Lei n. 6.830/80; e ao enunciado n. 106 da Súmula do STJ.
+A parte alega que o Tribunal de origem foi omisso em relação ao "art. 8º, § 2º, art. 16, § 2º, da Lei de Execuções Fiscais, o art. 333, I, CPC e Súmula 106 do STJ, bem como deixou de se manifestar acerca do termo inicial para constituição do crédito tributário, haja vista conter o julgado contradição em seu bojo".
+No mérito, alega que a parte recorrida não se desincumbiu do ônus de provar a ocorrência da prescrição, e que não juntou aos autos os documentos indispensáveis para desconstituir o título executivo, descumprindo a previsão contida no art.16, § 2º, da Lei n. 6.830/80.
+Além disso, aduz que a execução fiscal foi ajuizada no prazo do art. 174 do CTN e que houve a interrupção do prazo prescricional com o despacho de citação, conforme prevê o art. 8º, § 2º, da Lei n. 6.830/80.
+Apresentadas contrarrazões, a parte recorrida requer o desprovimento do recurso especial.
+É o relatório. Decido.
+Não é cabível a interposição de recurso especial por alegação de ofensa enunciado de súmula, pois não se enquadra no conceito de lei federal nos termos do art. 105, inciso III, da Constituição Federal. Incide o óbice do enunciado n. 518 da Súmula do STJ: "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+Nesse sentido é a jurisprudência desta Corte:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. INDENIZAÇÃO. USO INDEVIDO DE IMAGEM. DANOS MORAIS. REVISÃO. RECURSO ESPECIAL COM FUNDAMENTO NA ALÍNEA "C". AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL TIDO POR INTERPRETADO DIVERGENTEMENTE. QUANTUM INDENIZATÓRIO. DISSÍDIO JURISPRUDENCIAL. INEXISTÊNCIA. VIOLAÇÃO DE SÚMULA DE TRIBUNAL SUPERIOR. IMPOSSIBILIDADE.
+ ..
+3. Incabível a análise de recurso especial, por quaisquer das alíneas do permissivo constitucional, que tenha por fundamento violação de enunciado ou súmula de Tribunal Superior.
+4. Agravo regimental não provido.
+(AgRg nos EDcl no REsp 1380205/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 05/11/2013, DJe 12/11/2013)
+PROCESSUAL CIVIL. ALÍNEA "C". AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO TIDO POR DIVERGENTE. SÚMULA 284/STF. VIOLAÇÃO DE SÚMULA. INCABÍVEL.
+ ..
+2. Esta Corte Superior já consolidou o entendimento de que é incabível a análise de recurso especial que tenha por fundamento violação de súmula de tribunal.
+Agravo regimental improvido.
+(AgRg no AREsp 360.121/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 05/09/2013, DJe 18/09/2013)
+PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. MATÉRIA CONSTITUCIONAL. EXAME VIA APELO ESPECIAL. IMPOSSIBILIDADE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. VIOLAÇÃO À SUMULA DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DISPOSITIVO LEGAL. NÃO CONHECIMENTO. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA.
+ ..
+4. No que diz respeito à afronta à Súmula 15/STF, observa-se que o Recurso Especial não constitui via adequada para averiguação de eventual ofensa a enunciado sumular, por não estar este compreendido na expressão "lei federal", constante da alínea "a" do inciso III do art. 105 da Constituição Federal.
+ ..
+8. Agravo Regimental não provido.
+(AgRg no AREsp 299.343/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 11/04/2013, DJe 09/05/2013)
+Em relação à indicada violação do art. 535 do CPC/1973, não se vislumbra a existência de omissão ou contradição no julgado, tendo o Tribunal de origem se manifestado de modo fundamento e coerente acerca da data de constituição do crédito tributário e do termo inicial do prazo prescricional. Esclareceu, ainda, que não houve a comprovação de causa interruptiva do prazo prescricional, consoante excerto do acórdão regional (fls. 121-124):
+O direito de o Fisco promover a "ação de cobrança do crédito tributário, prescreve em 5 (cinco) anos, contados da data da sua constituição definitiva" (artigo 174, do Código Tributário Nacional).
+A "constituição definitiva" (supra) do crédito tributário, nos tributos sujeitos a lançamento por homologação, ocorre no momento da declaração do contribuinte. Neste sentido:
+ ..
+Nestes casos, o termo inicial para a contagem da prescrição é a data do vencimento da obrigação. A questão é objeto de entendimento dominante no Superior Tribunal de Justiça. Confira-se:
+ ..
+No caso concreto, a alegação de prescrição está dotada de razoabilidade.
+A constituição definitiva do crédito tributário ocorreu com a Declaração de Rendimentos mencionada na CD A, cujos vencimentos ocorreram entre fevereiro de 1998 e janeiro de 1999.
+Nenhuma causa de interrupção do lapso extintivo foi validamente produzida.
+O artigo 174, parágrafo único, inciso I, do Código Tributário Nacional, com a redação da Lei Complementar nº 118/05, fixa, como causa interruptiva da prescrição, o "despacho do juiz que ordenar a citação em execução fiscal". Não foi juntada cópia do despacho que ordenou a citação.
+Entretanto, a ação executiva apenas foi proposta em junho de 2004, ou seja, após o transcurso do lapso prescricional qüinqüenal.
+Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+Descaracterizada a alegada omissão, tem-se de rigor o afastamento da suposta violação do art. 535 do CPC/1973, conforme pacífica jurisprudência do Superior Tribunal de Justiça:
+ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. GREVE. DESCONTOS DOS DIAS PARADOS. CABIMENTO, SALVO SE HOUVER ACORDO DE COMPENSAÇÃO DO TRABALHO.
+1. No que se refere à alegada afronta ao disposto no art. 535, inciso II, do CPC/1973, verifico que o julgado recorrido não padece de omissão, porquanto decidiu fundamentadamente a quaestio trazida à sua análise, não podendo ser considerado nulo tão somente porque contrário aos interesses da parte.
+2. É entendimento consolidado no âmbito do STJ que é legítimo o ato da Administração que promove o desconto dos dias não trabalhados pelos servidores públicos participantes de movimento grevista, diante da suspensão do contrato de trabalho, nos termos da Lei 8.112/1990, salvo a existência de acordo entre as partes para que haja compensação dos dias paralisados. Ressalta-se que não consta nos autos que foi feita compensação dos dias parados.
+3. Recurso Especial não provido. (REsp 1.616.801/AP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 23/8/2016, DJe 13/9/2016).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 03/STJ. SERVIDOR PÚBLICO FEDERAL. VIOLAÇÃO DO ART. 535, II, DO CPC/1973. INOCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. LITISCONSÓRCIO NECESSÁRIO. ART. 47 DO CPC/1973. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE PROVAS. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexiste violação ao art. 535 do CPC/1973, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda em toda a sua extensão, fazendo-o de forma clara e precisa, estando bem delineados os motivos e fundamentos que a embasam.
+2. Não se conhece da violação a dispositivos infraconstitucionais quando a questão não foi enfrentada pelo acórdão recorrido, carecendo o recurso especial do necessário prequestionamento (Súmula 211/STJ), sobretudo quando a parte, mesmo opondo embargos de declaração na origem, não suscitou a omissão na análise dos referidos aspectos.
+3. Infirmar a conclusão alcançada pela Corte de origem, quanto a existência de litisconsórcio necessário tão somente em relação a duas candidatas, que foram lotadas na localidade onde pretendem as agravadas lotação, considerando, para tanto, os limites da sentença de primeiro grau, pressupõe o cotejo da referida sentença com o conjunto probatório do feito, o que é inviável em sede de recurso especial, nos termos da Súmula 7 do STJ. Nesse sentido: AgRg no Ag 1403108/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 24/11/2015, DJe 10/12/2015.
+4. Agravo interno não provido. (AgInt no REsp 1.592.075/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 16/8/2016, DJe 26/8/2016).
+Quanto à matéria constante no art. 333, I, do CPC/73, verifica-se que o Tribunal a quo, em nenhum momento, abordou a questão referida no dispositivo legal, mesmo após a oposição de embargos de declaração apontando a suposta omissão. Nesse contexto, incide, na hipótese, a Súmula n. 211/STJ, que dispõe ser "inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Ressalte-se que a falta de exame de questão constante de normativo legal apontado pelo recorrente nos embargos de declaração não caracteriza, por si só, omissão. Mesmo quando a questão é afastada de maneira fundamentada pelo Tribunal a quo, ou ainda, não é abordada pelo Sodalício, e o recorrente, em ambas as situações, não demonstra, de forma analítica e detalhada, a relevância do exame da questão apresentada para o deslinde final da causa.
+Sobre o assunto, destacam-se os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AVIAÇÃO AGRÍCOLA. ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS 211/STJ E 282/STF. INVIABILIDADE DA ANÁLISE DE RESOLUÇÃO DE CONSELHO PROFISSIONAL.
+1. Verifica-se não ter ocorrido ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem apreciou integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. O Tribunal não fica obrigado a examinar todos os artigos de lei invocados no recurso, desde que decida a matéria questionada sob fundamento suficiente para sustentar a manifestação jurisdicional, dispensável a análise dos dispositivos que pareçam para a parte significativos, mas que para o julgador, se não irrelevantes, constituem questões superadas pelas razões de julgar.
+3. A Corte de origem nada teceu a respeito dos arts. 2º, § 2º, do Decreto-Lei 917/69. 2º, 5º, 6º, II, 15, do Decreto 86.765/81, apesar de instado a fazê-lo pelos embargos de declaração, razão pela qual incide o óbice da Súmula 211/STJ. "Não há impropriedade em afirmar a falta de prequestionamento e afastar a indicação de afronta ao artigo 535 do CPC, haja vista que o julgado pode estar devidamente fundamentado, sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelo recorrente, pois, como consabido, não está o julgador a tal obrigado" (AgRg no REsp 1386843/RS, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 24/2/2014) 4. A matéria pertinente ao art. 97, I, do CTN também não foi objeto dos embargos declaratórios opostos perante o Tribunal a quo. Assim, não prospera o argumento tecido pela parte agravante para o afastamento do óbice previsto na Súmula 282/STF.
+5. O exame de eventual violação dos demais dispositivos tidos por contrariados pela agravante exigiria a análise das Resoluções do CONFEA, pretensão insuscetível de ser apreciada em recurso especial. Isso porque tais resoluções não se enquadram no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.035.738/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 14/2/2017, DJe 23/2/2017).
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONCURSO PÚBLICO. APROVAÇÃO DE CANDIDATO EM CADASTRO DE RESERVA. PRETERIÇÃO. MANUTENÇÃO DE SERVIDORES CONTRATADOS IRREGULARMENTE. PRESTAÇÃO JURISDICIONAL INADEQUADA. DESCARACTERIZAÇÃO DA OMISSÃO. JULGAMENTO CONTRÁRIO AOS INTERESSES DA PARTE. CONTRADIÇÃO EXTERNA. HIPÓTESE DE CABIMENTO INEXISTENTE PARA OS EMBARGOS DE DECLARAÇÃO. DISCUSSÃO ACERCA DA NECESSIDADE DE PROVA PERICIAL. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA FÁTICA. ÓBICE DA SÚMULA 7/STJ. VIOLAÇÃO A NORMAS FEDERAIS. CARÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DIVERGÊNCIA JURISPRUDENCIAL. FALTA DE COTEJO ANALÍTICO. SÚMULA 284/STF.
+ ..
+6. O prequestionamento advém do debate da temática processual à luz de determinado preceito legal federal, ou seja, é forçoso que o Tribunal da origem interprete os fatos processuais e sobre eles proceda juízo de valor para adequa-los ou não a determinado preceptivo federal, realizando assim a subsunção do fato à norma, o que absolutamente inexistiu no acórdão da origem, que não se sustentou nos arts. 130, 131, 331, § 2.º, 333, inciso I, 436, 437, 438 e 439, todos do [PLACA], mas apenas na Lei 8.112/1990 e na Constituição da República.
+7. O prequestionamento não é a indicação do preceito legal, mas o debate de determinada tese de acordo com certa norma jurídica (inscrita no preceito), de maneira a que a falta de apontamento de lei não importa a falta de prequestionamento, mas tampouco a ausência de debate significa o prequestionamento ""implícito"".
+8. Agravo regimental não provido.
+(AgRg no REsp 1.581.104/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 7/4/2016, DJe 15/4/2016).
+Quanto à alegada interrupção do prazo prescricional, o reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que o fundamento apresentado naquele julgado, de que não foi juntada cópia do despacho que ordenou a citação de modo a comprovar a ocorrência da causa interruptiva (fl. 124), utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices dos enunciados n. 283 e n. 284 da Súmula do STF, in verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Ante o exposto, nos termos do art. 255, § 4º, incisos I e II, do RI/STJ, conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento.
+Publique-se. Intimem-se.
