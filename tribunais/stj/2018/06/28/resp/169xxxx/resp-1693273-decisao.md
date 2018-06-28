@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fulcro na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 45):
+PREVIDENCIÁRIO. EMBARGOS À EXECUÇÃO. DESCONTO DE VALORES RECEBIDOS A TÍTULO DE BENEFÍCIO CONCEDIDO ADMINISTRATIVAMENTE.
+Os proventos pagos pelo INSS na via administrativa relativos ao deferimento do benefício no curso da ação devem ser abatidos na execução dos valores da aposentadoria prevista no julgado, no limite da mensalidade referente ao benefício judicial, como forma de evitar o enriquecimento ilícito do exequente, que deve receber exatamente o que está previsto no julgado em execução. Nas competências em que o valor recebido administrativamente for superior àquele devido em razão do julgado o abatimento ocorre até o valor da mensalidade resultante da aplicação do julgado. Precedente desta Corte.
+Nas suas razões, o recorrente alega que a pretensão da parte autora de executar valores referentes a um benefício e continuar recebendo a renda de outro viola os arts. 924, IV, e 925 do CPC, devendo ser extinta a execução, "considerando a sua renúncia a tais créditos" (e-STJ fl. 55).
+Sem contrarrazões às e-STJ fl. 56.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC de 2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Dito isso, verifico que a temática acerca da renúncia a créditos e a consequente extinção do feito executivo não foi objeto de debate no acórdão recorrido, motivo pelo qual o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição das Súmulas 282 e 356 do STF.
+Em situações tais como esta, "caberia à parte, nas razões do seu especial, alegar violação do art. 535 do CPC/73 a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado, o que não foi feito" (AgRg no AREsp 650.702/SC, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 04/08/2016, DJe 09/08/2016).
+A teor do disposto no art. 85, § 11, c/c o art.  98, § 1º, VI, §§ 2º e 3º, do CPC/2015, deve ser fixada a verba honorária recursal, inclusive ao beneficiário da assistência judiciária gratuita.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial. Majoro os honorários recursais em 10% sobre o valor já fixado na origem, respeitados os limites e critérios previstos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Publique-se e intimem-se.
