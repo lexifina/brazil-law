@@ -1,0 +1,53 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO COMINATÓRIA C/C DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. A recusa indevida/injustificada, pela operadora de plano de saúde, em autorizar a cobertura financeira de tratamento médico a que esteja legal ou contratualmente obrigada, enseja reparação a título de dano moral, por agravar a situação de aflição psicológica e de angústia no espírito do beneficiário
+7. Agravo em recurso especial interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S/A conhecido. Recurso especial parcialmente conhecido e, nesta parte, não provido.
+8. Recurso especial interposto por CLEUSA REIS LOURENÇO conhecido e parcialmente provido, com majoração de honorários.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S/A e recurso especial interposto por CLEUSA REIS LOURENÇO.
+Agravo em recurso especial interposto pela AMIL em: 28/03/2017.
+Recurso especial interposto por CLEUSA em: 19/09/2016.
+Concluso ao Gabinete em: 17/10/2017.
+Ação: cominatória com pedido de tutela antecipada para custeio do tratamento e medicamento c/c danos morais ajuizada por CLEUSA REIS LOURENÇO em face de AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S/A, devido à negativa de cobertura dos custos com medicamento e das despesas hospitalares.
+Sentença: julgou procedente a ação, para confirmar a liminar e condenar a AMIL ao pagamento das despesas vencidas e vincendas em razão do tratamento de CLEUSA no Hospital São Luís, bem como à indenização de danos morais no valor de R$ 10.000,00,
+Acórdão: deu parcial provimento à apelação interposta pela AMIL, apenas para reduzir o valor arbitrado a título de afastar os danos morais, nos termos da seguinte ementa:
+PLANO DE SAÚDE - NEGATIVA DE COBERTURA - INVIABILIDADE - TRATAMENTO NECESSÁRIO E GARANTIDO PELO PACTO - FÁRMACO QUE DETÉM REGISTRO NA ANVISA - DANO MORAL AFASTADO - NÃO ATINGIMENTO DA ESFERA VALORATIVA DO INDIVÍDUO - FIGURA INEXISTENTE POR MERO PROBLEMA OCORRIDO EM AJUSTE E PRONTAMENTE REPARADA A NEGATIVA PELO JUDICIÁRIO - SENTENÇA REFORMADA- RECURSO PARCIALMENTE PROVIDO.
+Embargos de declaração: opostos por AMIL e por CLEUSA, foram rejeitados.
+Recurso especial interposto pela AMIL: alega violação do art. 1.022, II, do CPC/15, do arts. 10, I, da Lei nº 9.656/98, dos arts. 12 e 66, da Lei 6.360/76, e art. 10, V, da Lei 6.437/76.
+Alega haver omissão quanto à inexistência de obrigação de arcar com os custos do referido medicamento. Sustenta que o medicamento seria off-label, ou seja, não possui indicação para o caso indicado pelo médico. Afirma que o medicamento é aprovado pela ANVISA, mas não para a patologia que acomete CLEUSA. Assim, defende que a negativa no seu fornecimento não seria abusiva.
+Recurso especial interposto por CLEUSA REIS LOURENÇO: alega violação do art. 1.022, II, do CPC/15, arts. 186, 187 e 927, do CC/02 e art. 14, do CDC.
+Aduz haver omissão quanto aos dispositivos tidos por violados, bem como quanto aos constrangimentos sofridos. Sustenta que a negativa de cobertura de tratamento seria abusiva e enseja indenização por danos morais.
+É O RELATÓRIO. DECIDO.
+I) DO RECURSO ESPECIAL INTERPOSTO POR AMIL:
+- Da violação do art. 1.022 do CPC/15
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da obrigação de arcar com os custos do medicamento a ser utilizado no tratamento (e-STJ fl. 522), de maneira que os embargos de declaração opostos de fato não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/2015, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 12 e 66, da Lei 6.360/76, e art. 10, V, da Lei 6.437/76, indicados como violados, apesar da interposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+Ressalto, por oportuno, que referidos artigos não foram mencionados no recurso de apelação e sequer nos embargos de declaração, caracterizando verdadeira inovação das teses de defesa, de modo que não era dado ao TJ/SP analisar a controvérsia tendo em vista tais normas.
+- Da existência de fundamento não impugnado
+O agravante não impugnou o fundamento utilizado pelo TJ/SP de que não se trata de medicamento OFF-LABEL (e-STJ, fl. 522). Como esse fundamento não foi impugnado, deve-se manter o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à conclusão de que o medicamento não seria OFF-LABEL, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+II) DO AGRAVO EM RECURSO ESPECIAL INTERPOSTO POR CLEUSA REIS LOURENÇO
+- Da violação do art. 1.022 do CPC/15
+Ressalte-se ser firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da inexistência do dano moral, por entender que houve mero problema contratual, prontamente reparado pelo judiciário (e-STJ fl. 522), de maneira que os embargos de declaração opostos de fato não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/2015, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da configuração de dano moral pela recusa indevida do plano de saúde
+O TJ/SP, entender que a hipótese estaria enquadrada como mero dissabor decorrente de problema contratual, não existindo danos morais a serem compensados, divergiu do entendimento STJ, no sentido de que a recusa indevida/injustificada, pela operadora de plano de saúde, em autorizar a cobertura financeira de tratamento médico a que esteja legal ou contratualmente obrigada, enseja reparação a título de dano moral, por agravar a situação de aflição psicológica e de angústia no espírito do beneficiário. Nesse sentido: AgInt no AREsp 1.106.509/RJ (3ª Turma, DJe de 09/10/2017) e AgInt no REsp 1.647.519/CE (4ª Turma, Dje de 13/10/2017).
+Na hipótese dos autos, o próprio acórdão recorrido reconhece ser indevida a negativa de cobertura, nos termos seguintes:
+No pertinente à negativa de cobertura, esta fora indevida; é que o tratamento solicitado se insere no ajuste securitário contratado pelas partes, pelo que a melhor solução fôra a realizada. A se aplicar a exclusão como pretendido pela insurgente, haveria desvirtuamento da finalidade do contrato, já que a internação e a medicação utilizada era indispensável a título de prosseguimento da intervenção a que se submetia o enfermo, e sem aquele não se justificava esta e dessa dependência, para o bom êxito da atividade medicatriz, impunha-se deverasmente a cobertura; decidir em contrário fôra mesmo equivocação, e afastamento da finalidade buscada pela avença e nesse passo invocado o Art.252 do Regimento Interno desta Casa mesmo porque, não se tratara de medicamento OFF-LABEL, pois que o fármaco ostenta registro na Anvisa, como se vê a fls. 280, e deveras, remédio classificado como procedimento de cobertura obrigatória pelo que nada mais há que se falar. (e-STJ, fl. 522)
+Assim, observado o entendimento dominante desta Corte acerca do tema, e configurado o dano moral na hipótese, deve ser reformado o acórdão recorrido, incidindo, no ponto, a Súmula 568/STJ, para que seja restabelecida a sentença quanto à condenação da AMIL ao pagamento de compensação por danos morais no valor de R$ 10.000,00 (dez mil reais).
+Forte nessas razões, CONHEÇO do agravo interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S/A e, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial por ela interposto e, nessa extensão, NEGO-LHE PROVIMENTO; e, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial interposto por CLEUSA REIS LOURENÇO e DOU-LHE PARCIAL PROVIMENTO, para reestabelecer a sentença no que se refere ao reconhecimento e condenação ao pagamento de indenização por danos morais e quanto aos ônus sucumbenciais.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado de CLEUSA REIS LOURENÇO em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em mais R$ 500,00.
+Publique-se. Intimem-se.
