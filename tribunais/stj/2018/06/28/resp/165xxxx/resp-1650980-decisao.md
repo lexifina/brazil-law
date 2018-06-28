@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por FAZENDA NACIONAL, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+ADMINISTRATIVO. AÇÃO ORDINÁRIA. SERVIDOR PÚBLICO CIVIL APOSENTADO. LICENÇA-PRÊMIO NÃO USUFRUÍDA. CONVERSÃO EM PECÚNIA. POSSIBILIDADE. JUROS DE MORA E CORREÇÃO MONETÁRIA. HONORÁRIOS ADVOCATÍCIOS. PEDIDO DE REDUÇÃO.
+1. É possível a conversão em pecúnia de licença-prêmio por assiduidade não usufruída em atividade pelo servidor ora aposentado, com a indenização respectiva, nos casos em que o tempo de serviço respectivo não contribuiu para que fosse completado o tempo necessário para aposentadoria, em nada concorrendo, pois, para a implementação dos requisitos necessários à jubilação, que seria deferida independentemente desse cômputo.
+2. Mesmo não sendo caso de falecimento do servidor, deve o direito ser convertido em pecúnia, sob pena de enriquecimento ilícito da Administração, independendo de previsão legal expressa, eis que tal entendimento funda-se na Responsabilidade Objetiva do Estado, nos termos do artigo 37, § 6º, da Magna Carta, que deve proporcionar seu gozo.
+3. O exame da matéria referente aos juros de mora e correção monetária deve ser diferido para a fase de execução da sentença, conforme já decidiu esta 3ª Turma (Questão de Ordem nº 0019958-57.2009.404.7000/PR).
+4. Para proceder a fixação aos honorários,devem ser ponderados a complexidade da causa e o trabalho desenvolvido pelo advogado, podendo ser levado em consideração o valor da causa ou da condenação, ou ainda arbitrada em quantia fixa, dependendo do caso concreto e de acordo com as circunstâncias previstas no art. 20, §§ 3º e 4º, do CPC.
+Opostos embargos de declaração pela Universidade Federal de Santa Catarina, esses foram parcialmente providos para fins de prequestionamento.
+No presente recurso especial, a recorrente aponta violação dos arts. 535 do CPC/73, com intuito de prequestionamento.
+Quanto à questão de fundo alega afronta ao art. 7º da Lei nº 9.527/97, que revogou o instituto da licença-prêmio. Assevera, ainda, que não há, na legislação pátria, a possibilidade de se ver convertida em pecúnia a licença-prêmio por assiduidade na hipótese do servidor ter se inativado sem tê-la usufruído enquanto estivesse no exercício de suas atividades.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido (fls. 360/369).
+É o relatório. Decido.
+Consigne-se que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Em relação à alegada violação ao art. 535, II, do CPC/73, verifica-se que o recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em omissão, o fazendo de forma genérica, sem desenvolver argumentos para demonstrar especificamente a suposta mácula.
+Nesse panorama, a apresentação genérica de ofensa ao art. 535, II, do CPC/73 atrai o comando do enunciado sumular n. 284/STF, inviabilizando o conhecimento dessa parcela recursal.
+Sobre o assunto, confiram-se:
+ADMINISTRATIVO. REDIRECIONAMENTO DE EXECUÇÃO FISCAL DE NATUREZA NÃO TRIBUTÁRIA. DISSOLUÇÃO IRREGULAR NÃO COMPROVADA. REEXAME DE PROVAS. SÚMULA N. 7/STJ. IMPOSSIBILIDADE. VIOLAÇÃO DO ART. 535 DO CPC/73. ALEGAÇÃO GENÉRICA. SÚMULA N. 284/STF.
+I - Não se conhece do recurso especial com alegação genérica de violação do art. 535 do Código de Processo Civil de 1973. Incidência do enunciado n. 284 da Súmula do STF. Necessidade de reexame de fatos e provas para modificar o entendimento do Tribunal de origem quanto à regularidade da dissolução da sociedade empresária.
+Incidência do enunciado n. 7 da Súmula do STJ.
+II - Agravo interno improvido.
+(AgInt no AREsp 962.465/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 6/4/2017, DJe 19/4/2017).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.
+CSLL. MAJORAÇÃO DE ALÍQUOTA. VIOLAÇÃO DO ART. 535 DO CPC/73. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. A genérica alegação de ofensa ao art. 535 do CPC, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, atrai o óbice da Súmula 284 do STF.
+2. É vedada a análise das questões que não foram objeto de efetivo debate pela Corte de origem, estando ausente o requisito do prequestionamento. Incidência da Súmula 211/STJ.
+3. Quanto à elevação da alíquota da CSLL, o aresto recorrido está em conformidade com a jurisprudência deste Tribunal Superior, que considera que a Instrução Normativa n. 81/99 não desbordou dos limites da MP 1.807/99.
+4. Agravo interno a que se nega provimento.
+(AgRg no AREsp 446.627/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 6/4/2017, DJe 17/4/2017).
+Quanto à questão de fundo acerca da peculiaridade do caso em apreço assim decidiu o acórdão recorrido:
+Uma vez que o servidor adquirira o direito a tal licença, fato incontroverso, faria jus ao seu gozo, eis que se tratam de qüinqüênios atinentes às competências anteriores a 1997, precedentes, por conseguinte, à Lei de 1997, já devidamente incorporado, portanto, ao seu patrimônio.
+No entanto, deixou de fazer uso da benesse legal, pretendo, pois, a indenização respectiva.
+Da análise do caderno probatório, observo que não há informações no sentido de o período em questão haver contribuído para que fosse completado o tempo necessário para aposentadoria, de modo que a contagem de tempo dobrado da referida licença em nada teria concorrido para a implementação dos requisitos necessários à jubilação, que seria deferida independentemente desse cômputo; é dizer não houve necessidade para complementação da contagem de tempo de serviço.
+Assim, mesmo não sendo caso de falecimento do servidor, deve o direito ser convertido em pecúnia, sob pena de enriquecimento ilícito da Administração, independendo de previsão legal expressa, eis que tal entendimento funda-se na Responsabilidade Objetiva do Estado, nos termos do artigo 37, § 6Q, da Magna Carta, que deve proporcionar seu gozo.
+(..)
+Da mesma sorte, não havendo comprovação de que este tempo fora utilizado, mediante sua contagem em dobro, para a concessão do abono de permanência, seu direito resta assegurado, donde resulta a viabilidade da conversão almejada.
+Por derradeiro, tratando-se de verba de natureza indenizatória, não representando, pois, numerário de cunho remuneratório ou contraprestação pelo serviço prestado, não compondo o tempo de serviço para nenhuma finalidade, não há falar em viabilidade de incidência do imposto de renda ou contribuição previdenciária.
+Sob esta ótica, conclui-se que a licença-prêmio não usufruída e ineficaz ao cômputo do tempo de serviço para concessão de aposentadoria integral reverteu-se em benefício apenas da Administração Pública.
+Extrai-se do acórdão objurgado que o entendimento do Tribunal de origem está em consonância com a orientação do Superior Tribunal de Justiça de que é possível a conversão em pecúnia da licença-prêmio não gozada ou não utilizada para contagem do tempo de serviço, quando da aposentadoria do servidor, a fim de evitar o enriquecimento ilícito da Administração.
+ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO. INTERPRETAÇÃO DE DIREITO LOCAL. SÚMULA 280/STF. LICENÇA-PRÊMIO NÃO GOZADA. CONVERSÃO EM PECÚNIA. POSSIBILIDADE. SÚMULA 83/STJ.  ..  2. Ademais, a jurisprudência desta Corte já está firmada no sentido de que é devida a conversão em pecúnia da licença-prêmio não gozada, e não contada em dobro, na ocasião da aposentadoria do servidor, sob pena de indevido locupletamento por parte da Administração Pública. Precedentes. Agravo regimental improvido. (AgRg no AREsp 120.294/RS, Relator Ministro Humberto Martins, Segunda Turma, julgamento em 03/05/2012, DJe 11/05/2012)
+PROCESSUAL CIVIL E ADMINISTRATIVO. ALEGAÇÃO DE OFENSA AO ART. 535 DO CPC/1973 FEITA DE FORMA GENÉRICA. SÚMULA 284/STF. SERVIDOR PÚBLICO. CONVERSÃO EM PECÚNIA DA LICENÇA-PRÊMIO NÃO GOZADA. REQUERIMENTO ADMINISTRATIVO. DESNECESSIDADE. PRINCÍPIO QUE VEDA O ENRIQUECIMENTO ILÍCITO DA ADMINISTRAÇÃO.
+1. É deficiente a fundamentação do Recurso Especial em que a alegação de ofensa ao art. 535 do CPC/1973 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+2. A orientação do Superior Tribunal de Justiça é no sentido de que é cabível a conversão em pecúnia da licença-prêmio e/ou férias não gozadas, independentemente de requerimento administrativo, sob pena de configuração do enriquecimento ilícito da Administração.
+3. Recurso Especial parcialmente conhecido e, nessa parte, provido, para anular o acórdão recorrido e restabelecer a sentença de 1º grau.
+(REsp 1662749/SE, Relator Ministro Herman Benjamin, Segunda Turma, julgamento em 16/05/2017, DJe 16/06/2017).
+Ante o exposto, conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento, com fundamento no art. 255, § 4º, I e II, do RISTJ.
+Publique-se. Intimem-se.
