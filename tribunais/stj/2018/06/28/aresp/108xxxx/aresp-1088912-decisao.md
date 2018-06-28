@@ -1,0 +1,20 @@
+DECISÃO
+Agrava-se de decisão que negou seguimento ao recurso especial de WAGNO DE JESUS, fundado no art. 105, III, "a", da Constituição Federal, e interposto contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios.
+Extrai-se dos autos que o Juízo das Execuções Penais concedeu ao ora agravante, WAGNO DE JESUS, condenado pela prática de um crime de roubo e de três crimes de furto, com pena privativa de liberdade total equivalente a 9 anos de reclusão, a progressão para o regime aberto e seu respectivo cumprimento em prisão domiciliar (e-STJ fl. 120).
+O Tribunal a quo, ao examinar o agravo em execução, acolheu a preliminar suscitada pela acusação para anular as decisões que concederam a progressão para o regime aberto e para determinar que o Juízo da Vara de Execuções Penais proceda a uma nova análise do pedido do benefício, ouvindo-se previamente o Ministério Público e o agravado. O acórdão recebeu a seguinte ementa (e-STJ fl. 118):
+RECURSO DE AGRAVO. PROGRESSÃO DE REGIME. REGIME ABERTO. PRISÃO DOMICILIAR. PRELIMINAR. NULIDADE POR FALTA DE OITIVA PRÉVIA DO MINISTÉRIO PÚBLICO. ACOLHIMENTO. RECURSO PROVIDO.
+1. Para a imposição de qualquer medida ao condenado durante a execução da pena, seja ela benéfica ou não, é imprescindível, sob pena de nulidade, a manifestação prévia do Ministério Público, segundo previsão expressa dos artigos 67 e 112, §§ 1º e 2º, da Lei de Execuções Penais.
+2. Preliminar acolhida. Recurso provido.
+Nas razões do recurso especial, a defesa apontou violação do art. 112, caput, da Lei de Execuções Penais, sustentando que o vício da falta de intimação do Ministério Público não causou prejuízo às partes, razão pela qual deve ser mantida progressão de regime a qual faz jus o sentenciado.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ fls. 201/204).
+É o relatório.
+A irresignação não prospera.
+Com efeito, o aresto recorrido não destoa da orientação jurisprudencial assente nesta Corte Superior, firme de que "A Lei nº 7.210/84 exige expressamente a participação do Parquet em todos os atos do processo de execução penal. Dessa forma, é de se reconhecer a existência de nulidade da decisão que concedeu a prisão domiciliar ao paciente - que já cumpria pena em regime aberto -, sem a prévia manifestação do Ministério Público" (HC n. 289.112/RS, rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 23/9/2014, DJe 3/10/2014).
+Nesse sentido:
+HABEAS CORPUS SUBSTITUTIVO AO RECURSO APROPRIADO. DESCABIMENTO. EXECUÇÃO DA PENA. REGIME SEMIABERTO. FALTA DE ESTABELECIMENTO ADEQUADO AO CUMPRIMENTO DA PENA EM REGIME SEMIABERTO. PROGRESSÃO PARA O REGIME ABERTO, ATÉ O SURGIMENTO DE VAGA EM ESTABELECIMENTO PENAL ADEQUADO. BENEFÍCIO DEFERIDO PELO JUÍZO DA EXECUÇÃO E CASSADO PELO TRIBUNAL ESTADUAL. NULIDADE. AUSÊNCIA DE PRÉVIA OITIVA DO MINISTÉRIO PÚBLICO. SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+1. Os Tribunais Superiores restringiram o uso do habeas corpus e não mais o admitem como substitutivo de recursos, e nem sequer para as revisões criminais.
+2. Mostra-se nula a decisão proferida na fase referente à execução da pena, sem a prévia manifestação do Ministério Público, cuja intervenção é obrigatória, nos termos dos artigos 67 e 112, §1º, da Lei de Execução Penal.
+3. Configura supressão de instância o julgamento pelo Tribunal de origem a respeito da progressão de regime, pois a decisão de primeiro grau, nula, requer prévia manifestação do Ministério Público e proferimento de nova decisão pelo Juízo das Execuções Criminais. Constrangimento ilegal configurado.
+4. Habeas corpus não conhecido. De ofício, concedida parcialmente a ordem, para que, declarada nula a decisão, o Juízo das Execuções Criminais remeta os autos para o Ministério Público, para prévia manifestação, após o que deverá ser proferida nova decisão sobre o pedido de progressão de regime, com observação (HC 273.461/SE, Rel. Ministro MOURA RIBEIRO, QUINTA TURMA, julgado em 03/12/2013, DJe 06/12/2013).
+Ante o exposto, conheço do agravo e nego provimento ao recurso especial.
+Publique-se. Intimem-se.
