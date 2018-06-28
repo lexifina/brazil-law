@@ -1,0 +1,21 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “AGRAVO INTERNO EM APELAÇÃO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. PRETENSÃO DE REVISÃO DE VENCIMENTOS EM RAZÃO DE EQUÍVOCO NA CONVERSÃO DA URV PARA O REAL, OCORRIDA EM 1994. LEI Nº 8.880/94. SENTENÇA DE IMPROCEDÊNCIA. TEORIA DA CARGA DINÂMICA DAS PROVAS. ANULAÇÃO DA SENTENÇA, PARA REALIZAÇÃO DA PROVA TÉCNICA. PARCIAL PROVIMENTO DO RECURSO.
+     Os servidores públicos estaduais têm direito à conversão dos vencimentos de acordo com a sistemática estabelecida pela lei 8.880/94.
+     Questão que demanda análise fática, já que necessária a comprovação efetiva de ocorrência da perda salarial, ou seja, se houve ou não diferença entre os valores pagos e aqueles que seriam devidos pela aplicação da lei federal, sendo imperiosa a demonstração da data em que houve a conversão dos vencimentos e se a emissão dos contracheques foi feita no dia primeiro do mês (com a devida conversão) e o pagamento efetuado posteriormente (AREsp 718493/RJ), a fim de se identificar se houve ou não real perda monetária. Novo posicionamento que implica na anulação da sentença, para realização da prova técnica.
+     Assim, dá-se parcial provimento ao recurso para anular a sentença determinando a realização da prova técnica, nos termos explicitados” (pág. 112 do documento eletrônico 2).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação dos arts. 37, X; e 84, II e VI, da mesma Carta (págs. 41-57 do documento eletrônico 3).
+    A pretensão recursal não merece acolhida.
+    Isso porque este Tribunal já se manifestou no sentido de admitir a recomposição salarial dos servidores do Poder Executivo local, quando identificado decréscimo salarial em decorrência da conversão monetária em URV determinada pela Lei 8.880/1994, conforme revela o RE 735.178-AgR/AM, de relatoria do Ministro Dias Toffoli:
+    “Agravo regimental em recurso extraordinário. URV. Conversão da moeda. Lei 8.880/94. Observância pelo tribunal local de decréscimo remuneratório nos estipêndios de servidor estadual. RE 628.465/RN, com repercussão geral. Recomposição remuneratória devida. Agravo não provido.
+    1. Nos autos do RE nº 628.465/RN, reconheceu esta Corte a ocorrência de indevido decréscimo remuneratório, no momento da conversão da moeda determinada pela Lei 8.880/94, em relação àqueles servidores que recebem seus vencimentos em momento anterior ao do término do mês trabalhado, tal como ocorre, verbi gratia, no âmbito do Poder Legislativo e do Poder Judiciário [Federais].
+    2. Identificada pelo Tribunal a quo a ocorrência de decréscimo nos estipêndios de servidor do Poder Executivo local, é cabível a recomposição remuneratória.
+    3. Não há que se falar em violação do art. 97, da CF quando o acórdão recorrido está em conformidade com os precedentes da Corte sobre a matéria de fundo.
+    4. Agravo não provido” (grifei).
+    Ademais, para a verificação da existência ou não de decréscimo remuneratório decorrente da conversão da moeda, seria necessária a análise do momento do recebimento dos vencimentos pelo servidor, o que demandaria o reexame do conjunto fático-probatório dos autos (Súmula 279/STF), bem como a interpretação da legislação infraconstitucional pertinente (Lei 8.880/1994), sendo certo que eventual ofensa à Constituição seria apenas indireta. Nesse mesmo sentido, cito o ARE 973.848/MT, de relatoria do Ministro Teori Zavascki:
+    “Ementa: ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR ESTADUAL. VENCIMENTOS. CONVERSÃO EM UNIDADE REAL DE VALOR - URV. PRECEDENTES. RE 561.836-RG (REL. MIN. LUIZ FUX, TEMA 5). REEXAME DE FATOS E PROVAS. SÚMULA 279/STF. PEDIDO DE LIMITAÇÃO TEMPORAL DO PAGAMENTO DO ÍNDICE DE 11,98% E DE COMPENSAÇÃO DAS PARCELAS COM FUTUROS REAJUSTES. DISSOCIAÇÃO DO ACÓRDÃO IMPUGNADO. SÚMULA 284/STF.
+    AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO”.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Com base no art. 85, § 11, do Código de Processo Civil, majoro em 20% (vinte por cento) os honorários advocatícios anteriormente fixados pelo Juízo de origem.
+    Publique-se.
+    Brasília, 28 de junho de 2018.
+Ministro Ricardo Lewandowski
+Relator
