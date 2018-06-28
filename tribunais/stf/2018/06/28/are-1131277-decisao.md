@@ -1,0 +1,28 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “SERVIDORA PÚBLICA ESTADUAL. Autora integrante da polícia civil. Pretensão ao reconhecimento do direito à aposentadoria especial, nos moldes da Lei Complementar nº 51/1985, bem como ao direito à paridade e integralidade dos vencimentos. Admissibilidade. Autora que preenche as exigências para a aposentadoria especial. Ingresso na carreira policial civil antes da edição das Emendas Constitucionais nºs 20/1998 e 41/2003. Direito à paridade e à integralidade dos proventos. Precedentes. Sentença que se reforma. Recurso conhecido e provido.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Lei Complementar nº 51/85), o que torna incognoscível o apelo extremo.
+    Cumpre ressaltar, ainda, que incidem, na espécie, os enunciados constantes das Súmulas 279/STF e 280/STF, que assim dispõem:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido pela parte ora recorrente, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Cabe registrar, nesse contexto, que a questão ora em exame foi decidida com base no direito local (Lei Complementar estadual nº 1.062/2008), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em dispositivos de ordem meramente legal, em aspectos fático- -probatórios e em interpretação de direito local:
+    “Por outro lado, com a vigência da Lei Complementar Estadual nº 1.062/08, passou-se a exigir idade mínima (art. 2º, inciso I), mas dispensada para aqueles que ingressaram na carreira policial antes da Emenda Constitucional nº 41/2003 (art. 3º):
+    …..................................................................................................
+    No caso dos autos, os elementos indicam que a autora ingressou nos quadros da Polícia Civil em 26.07.1989, portanto, antes da vigência das Emendas Constitucionais nº 20/1998 e nº 41/2003, contando, em 12.05.2015, com 25 anos 09 meses e 24 dias, tudo consoante certidão de fls. 27/28, emitida pela Secretaria da Segurança Pública de São José dos Campos.
+    Dessa forma, considerando a data de ingresso da autora no serviço público, tem-se que a ela se aplica a Lei Complementar Federal nº 51/1985.”
+    Convém assinalar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 880.879/SP, Rel. Min. CÁRMEN LÚCIA – ARE 1.039.909/SP, Rel. Min. LUIZ FUX – ARE 1.119.209/SP, Rel. Min. EDSON FACHIN – ARE 1.130.835/SP, Rel. Min. ALEXANDRE DE MORAES, v.g.):
+    Agravo regimental no recurso extraordinário com agravo. Previdenciário. Aposentadoria especial. Lei Complementar 51/85. Paridade e integralidade. Preenchimento dos requisitos. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes.
+    1. Não se presta o recurso extraordinário para a análise da legislação infraconstitucional, tampouco para o reexame do conjunto fático-probatório da causa. Incidência das Súmulas nºs 636 e 279/STF.
+    2. Agravo regimental não provido, com imposição de multa de 2% (art. 1.021, § 4º, do CPC).
+    3. Inaplicável o art. 85, § 11, do CPC, haja vista tratar-se, na origem, de mandado de segurança (art. 25 da Lei 12.016/09).
+    (ARE 1.087.201-AgR/SP, Rel. Min. DIAS TOFFOLI)
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo revela-se processualmente inviável.
+    Sendo assim, e tendo em considerações as razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 28 de junho de 2018.
+Ministro CELSO DE MELLO
+Relator
