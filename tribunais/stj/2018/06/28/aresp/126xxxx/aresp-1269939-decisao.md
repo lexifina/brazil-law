@@ -1,0 +1,24 @@
+DECISÃO
+Agrava-se de decisão que negou seguimento ao recurso especial de EDILSON CHAVES DE ARAUJO, fundado no art. 105, III, "a", da Constituição Federal, e interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás.
+Depreende-se dos autos que o ora agravante foi condenado, no primeiro grau de jurisdição, como incurso no art. 304, c/c o art. 299, ambos do Código Penal, à pena de 1 ano de reclusão, no regime inicial aberto. A pena privativa de liberdade foi substituída por restritiva de direitos (e-STJ fls. 243/271).
+O Tribunal de origem negou provimento ao apelo da defesa. O acórdão recebeu a seguinte ementa (e-STJ fl. 384):
+APELAÇÃO CRIMINAL. USO DE DOCUMENTO FALSO.AUSÊNCIA DE PERÍCIA. ABSOLVIÇÃO. MATERIALIDADE E AUTORIA. PROVA. SUFICIÊNCIA. MANUTENÇÃO. 1) É dispensável para a caracterização do delito de uso de documento falso, previsto no artigo 304 do Código Penal, a confecção de exame pericial no documento falso quando os demais elementos de prova contidos dos autos evidenciarem a sua falsidade. 2) Estando devidamente comprovadas a autoria e a materialidade do crime de uso de documento falso, impõe-se a manutenção da condenação do réu nas sanções do art. 304, do Código Penal.
+APELO CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial, o recorrente apontou ofensa aos arts. 158 e 564, III, b, ambos do Código de Processo Penal. Sustentou que apenas a perícia técnica é hábil a comprovar a materialidade do crime imputado. Alegou que, na ausência de exame pericial sobre o documento indicado como falso, deve ser anulado todo o processo desde o recebimento da denúncia.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ fls. 436/441).
+É o relatório. Decido.
+O aresto recorrido ao concluir que é dispensável para a caracterização do delito de uso de documento falso, previsto no art. 304 do Código Penal, a elaboração de exame pericial no documento falso, quando os outros elementos de prova contidos dos autos evidenciarem a sua falsidade, não destoa da orientação da jurisprudencial assente nesta Corte.
+A respeito:
+PENAL. PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTO DE RECURSO. NÃO CABIMENTO. USO DE DOCUMENTO FALSO. ATIPICIDADE. CONSUMAÇÃO APENAS QUANDO HÁ VOLUNTARIEDADE DO AGENTE. IRRELEVÂNCIA. CRIME QUE SE CARACTERIZA COM A APRESENTAÇÃO DO DOCUMENTO. TESE DA AUTODEFESA. INOCORRÊNCIA. MUDANÇA NA JURISPRUDÊNCIA. CONDUTA TÍPICA. FALTA DE MATERIALIDADE DELITIVA. INEXISTÊNCIA DE PERÍCIA. DESNECESSIDADE. DEMONSTRAÇÃO POR OUTROS MEIOS DE PROVA. REEXAME DE PROVA. IMPOSSIBILIDADE.
+1. Ressalvada pessoal compreensão diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+2. O crime descrito no art. 304 do CP consuma-se com a apresentação do documento falso, sendo irrelevante se a exibição ocorreu mediante exigência do policial ou por iniciativa do próprio agente.
+3. A recente orientação jurisprudencial passou a reconhecer como típica a conduta de apresentar documento falso à autoridade policial, afastando a tese da autodefesa.
+4. A ausência de perícia não acarreta, por si só, nulidade do feito, pois se mostra desnecessária a realização de exame pericial quando a falsidade pode ser verificada por outros meios de prova, conforme ocorreu no presente caso.
+5. Desconstituir a conclusão a que chegou o Tribunal, após o exame de todo o conjunto probatório, sob o fundamento de ausência de materialidade do delito, implica necessariamente incursão no conjunto probatório dos autos, o que se mostra inviável na via eleita.
+6. Habeas corpus não conhecido (HC 169.068/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/12/2015, DJe 05/02/2016, grifei).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. USO DE DOCUMENTO FALSO. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. AUSÊNCIA DE PERÍCIA. COMPROVAÇÃO POR OUTROS MEIOS DE PROVA. AGRAVO NÃO PROVIDO.
+1. Não viola o princípio da colegialidade a decisão monocrática que, amparada em permissivo legal (art. 557 do CPC), deriva de exaustivo e qualificado debate sobre a questão jurídica objeto da impugnação especial, em sentido coincidente com a pretensão recursal.
+2. A jurisprudência deste Superior Tribunal entende que, para a configuração do crime previsto no art. 304 do Código Penal, a perícia pode ser dispensada, na hipótese de existência de outros elementos a embasar o reconhecimento da falsidade do documento e do uso de documento falso.
+3. Agravo regimental não provido (AgRg no AREsp 466.831/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 05/05/2015, DJe 13/05/2015, grifei).
+Ante o exposto, conheço do agravo e nego provimento recurso especial.
+Publique-se. Intimem-se.
