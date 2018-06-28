@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pelo ESTADO DE GOIÁS, com fundamento no art. 105, III, c, da CF/88, contra acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado:
+"AGRAVO DE INSTRUMENTO. MANDADO DE SEGURANÇA.
+I - RECURSO SECUNDUM EVENTUS LITIS.
+O agravo de instrumento é um recurso secundum eventum litis, e deve limitar-se ao exame do acerto ou desacerto do que ficou soberanamente decidido pelo Juiz monocrático, não podendo extrapolar o seu âmbito para matéria estranha ao ato judicial vituperado, não sendo lícito, destarte, ao órgão de segundo grau antecipar-se incontinenti ao julgamento do mérito da demanda, sob pena de, na hipótese, suprimir um grau de jurisdição.
+II - MANDADO DE SEGURANÇA. LIMINAR. PRESENÇA DOS REQUISITOS LEGAIS. DEFERIMENTO.
+A concessão de liminar em mandado de segurança exige a demonstração dos requisitos legais: relevância dos motivos em que se assenta a inicial (fumus bani iuris), bem como a possibilidade da ocorrência de lesão irreparável ao direito do sujeito pretensor (periculum in mora), frente ao estatuído no artigo 7º, inciso III, da Lei nº 12.016/2009. É certo que o deferimento ou não de liminar no mandado de segurança é ato discricionário, inserindo-se no poder de cautela do Juiz. Todavia, merece reforma a decisão que, mesmo diante da comprovação dos requisitos necessários, nega o pedido liminar.
+AGRAVO CONHECIDO E PROVIDO" (fls. 111/112e).
+O acórdão em questão foi objeto de Embargos de Declaração, rejeitados nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. OMISSÃO, OBSCURIDADE E CONTRADIÇÃO. INOCORRÊNCIA. EFEITO MODIFICATIVO. INADMISSIBILIDADE. Impõe-se a rejeição dos embargos de declaração quando não se vislumbra nenhuma das hipóteses elencadas no artigo 535 do Código de Processo Civil, sob pena de grave disfunção jurídico-processual dessa modalidade de recurso.
+EMBARGOS DE DECLARAÇÃO REJEITADOS" (fl. 134e).
+Aponta a parte recorrente que o acórdão recorrido violou o art. 535, II, do CPC/73, alegando persistir omissão não sanada no julgamento dos Embargos de Declaração, bem como ao art. 537, V, do mesmo diploma, sob o seguinte argumento:
+"Sendo a intimação do agravado regra obrigatória, cuja não observância implica violação dos princípios do contraditório e da ampla defesa, é certo que o agravo de instrumento não contava com pressuposto de desenvolvimento válido e regular do processo. Pois a oportunidade de defesa é regra basilar, sem a qual não se pode sequer falar em Direito!" (fl. 145e).
+Foram apresentadas contrarrazões (fls. 157/161e).
+O Recurso Especial não merece prosperar.
+O Tribunal a quo, ao examinar a controvérsia dos autos, consignou o seguinte, no quanto interessa:
+"Assim, a análise a ser feita neste agravo de instrumento restringir-se-á na verificação da presença ou não dos requisitos exigidos para a concessão da liminar no mandamus. Desta feita, não cabe no momento avaliar as questões relacionadas à legalidade do ato de lançamento tributário, pois estas estão atreladas ao mérito do mandado de segurança.
+(..)
+Após estas ligeiras excursões, urge analisar o ponto nodal da vexata quaestio, qual seja, a presença ou não dos requisitos ensejadores à concessão da liminar nos autos originários do mandado de segurança.
+É de sabença notória que, para a concessão de liminar em mandado de segurança, faz-se mister a demonstração dos seus requisitos legais, frente ao estatuído no artigo 7º, inciso III, da Lei nº 12.016/2009, a saber, a relevância dos motivos ou a plausibilidade em que se assenta o pedido inicial (fumus boni iuris), bem como a possibilidade da ocorrência de lesão irreparável ao direito do sujeito pretensor, caso venha a ser reconhecido a final (periculum in mora).
+(..)
+Não há como negar a presença do fumus boni iuris e do periculum in mora no caso em tela, pois a plausibilidade do pedido inicial se alicerça na possibilidade de suspensão da exigibilidade do crédito, através da concessão de medida liminar em mandado de segurança, onde se discute a ausência de regulamentação pelo Código Tributário Nacional da cobrança de ITCD sobre bem móvel, ante a exigência constitucional de lei complementar que defina o fato gerador, base de cálculo e contribuinte.
+O segundo requisito resta patente no prejuízo que o agravante poderá sofrer, caso não consiga recolher o imposto cobrado, sendo iminente a possibilidade de ter inscrito o seu CPF nos órgãos de proteção ao crédito, o que enseja uma solução liminar.
+Importante ressaltar que, caso ao final da demanda não seja reconhecido o seu direito líquido e certo, o Imposto sobre Transmissão Causa Mortis e Doação será recolhido, revertendo-se o provimento antecipado sem nenhum prejuízo a parte agravada.
+Outrossim, é bem verdade que, ao magistrado monocrático compete, pautado no seu prudente arbítrio, a aferição da existência ou não dos requisitos autorizadores do deferimento liminar, em um juízo de cognição sumária. Contudo, cabe à Instância Recursal reformar sua decisão quando constatada a flagrante presença destes requisitos.
+No caso em estudo, detectada a presença dos requisitos ensejadores do deferimento da liminar, principalmente em razão do perigo da demora na prestação jurisdicional, impõe-se a esta Casa Revisora reformar a decisão vergastada concedendo a medida emergencial" (fls. 104/107e).
+Observa-se que o fundamento do acórdão recorrido para prover o Agravo - a constatação da presença dos requisitos autorizadores da concessão de liminar em Mandado de Segurança (art. 7º, III, da Lei 12.016/2009) em juízo de cognição sumária inaudita altera parte, pormenorizadamente examinados, - não foi impugnado pela parte recorrente nas razões do Recurso Especial, a qual se limitou a invocar as disposições genéricas acerca do processamento padrão do recurso de Agravo de Instrumento.
+Incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
