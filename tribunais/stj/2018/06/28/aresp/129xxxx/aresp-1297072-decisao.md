@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto em face de decisão que inadmitiu o recurso especial por incidência da Súmula 7/STJ.
+Nas razões recursais, sustenta o agravante violação dos arts. 395, III e 3º do Código de Processo Penal e 926 do Código de Processo Civil, ao argumento de ser aplicável à presente hipótese o princípio da insignificância, sendo, consequentemente, reconhecida a atipicidade da conduta.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo improvimento do agravo.
+É o relatório.
+Decido.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, ao exame de seu mérito.
+A controvérsia posta em debate cinge-se a definir sobre a incidência do princípio da insignificância na apropriação indébita de R$ 900,00, pertencentes ao estabelecimento comercial do qual a ré era empregada. Manifestou-se o Tribunal de origem nos seguintes termos (fls. 60/61):
+ ..
+Com efeito, na hipótese em exame, além de a conduta da ré se almodar à tipicidade formal (perfeita subsunção do fato à norma incriminadora), também se faz presente a tipicidade material, traduzida diante da relevância penal da conduta e da significância da lesão produzida no bem jurídico tutelado pelo Estado.
+Primeiramente o valor monetário subtraído (R$900,00), não se revela ínfimo o bastante para recomendar a incidência do princípio da insignificância.
+Ademais, a recorrida valeu-se da confiança em si depositada pela vítima, haja vista ser fiscal de caixa, responsável por passar a bolsa com os valores do caixa, para apropriar-se do montante acima citado.
+Logo, a conduta criminosa em questão não constitui um indiferente penal, até porque a falta de repressão a tais ações representaria verdadeiro incentivo à reiteração de delitos da mesma natureza.
+Assim, tais fatos não podem ser ignorados e demonstram a necessidade de instauração da ação penal, muito embora o bem subtraído tenha sido restituído, trata-se de comportamento altamente reprovável, o qual merece ser combatido pelo Direito Penal.
+Na mesma linha do posicionamento ora adotado, o Superior Tribunal de Justiça já afastou a tese de insignificância em caso referente a furto de produtos de supermercado, cuja soma total não ultrapassou R$ 170,00. Confira-se:
+ ..
+Nesse diapasão, a pretensão acusatória oferecida pelo Ministério Público observou os requisitos dispostos no art. 411, do Código de Processo Penal, expondo de forma clara a conduta delituosa, o modus operandi com todas as suas circunstâncias e a tipificação do crime imputado à denunciada. Há, portanto, lastro probatório mínimo demonstrando a viabilidade da pretensão deduzida em juízo, motivo porque não há como ser mantida a decisão atacada.
+Posto isso, em consonância com o Parquet, dou provimento ao recurso para receber a denúncia oferecida pelo Ministério Público e determinar o retorno dos autos à Primeira Instância para dar regular prosseguimento ao feito.
+Acerca da matéria, sedimentou-se a orientação jurisprudencial no sentido de que a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzidíssimo grau de reprovabilidade do comportamento e d) inexpressividade da lesão jurídica provocada.
+No presente caso, verifica-se que, embora a agravante seja primária e tenha restituído o valor apropriado ao estabelecimento comercial, concluiu o Tribunal a quo não ser ínfima a quantia apropriada de R$ 900,00, a qual corresponde a valor superior ao salário mínimo vigente à época dos fatos (R$ 788,00), o que afasta o requisito necessário à caracterização da bagatela - a inexpressiva lesão ao bem jurídico tutelado. Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO TENTADO. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. VALOR NÃO IRRISÓRIO DO BEM.
+1. O Supremo Tribunal Federal consagrou o entendimento de que, para a aplicação do princípio da insignificância, devem estar presentes, cumulativamente, as seguintes condições objetivas: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento do agente; e d) inexpressividade da lesão jurídica provocada.
+2. Na espécie, não há como reconhecer o reduzido grau de reprovabilidade ou a mínima ofensividade da conduta, de forma a viabilizar a aplicação do princípio da insignificância, pois, os bens subtraídos (4 pacotes de carne) foram avaliados em R$ 200,00 (duzentos reais), valor que não pode ser considerado insignificante, tendo em vista representar mais de 25% (vinte e cinco por cento) do salário mínimo vigente à época do fato (R$ 724,00 - setecentos e vinte e quatro reais -, Decreto n. 8.166/2013).
+3. Agravo regimental desprovido.
+(AgRg no REsp 1717799/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 17/05/2018, DJe 01/06/2018)
+PENAL. TENTATIVA DE FURTO. AÇÃO PRESENCIADA POR FUNCIONÁRIO DO ESTABELECIMENTO. INEFICÁCIA RELATIVA DO MEIO. CRIME IMPOSSÍVEL. NÃO OCORRÊNCIA. PRINCÍPIO DA INSIGNIFICÂNCIA. ATIPICIDADE MATERIAL. NÃO RECONHECIMENTO. VALOR DA RES FURTIVA EQUIVALENTE A MAIS DA METADE UM SALÁRIO MÍNIMO VIGENTE À ÉPOCA DOS FATOS. ORDEM DENEGADA.
+1. A existência de sistema de monitoramento eletrônico ou a observação do praticante do furto por funcionário do estabelecimento, como ocorreu na espécie, não rende ensejo, por si só, ao automático reconhecimento da existência de crime impossível, porquanto, mesmo assim, há possibilidade de o delito ocorrer.
+Incidência da Súmula 567 desta Corte. Tese firmada em recurso representativo da controvérsia (Resp nº 1.385.621/MG, DJe 02/06/2015).
+2. Consoante entendimento jurisprudencial, o "princípio da insignificância - que deve ser analisado em conexão com os postulados da fragmentaridade e da intervenção mínima do Estado em matéria penal - tem o sentido de excluir ou de afastar a própria tipicidade penal, examinada na perspectiva de seu caráter material.
+(..) Tal postulado - que considera necessária, na aferição do relevo material da tipicidade penal, a presença de certos vetores, tais como (a) a mínima ofensividade da conduta do agente, (b) a nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada - apoiou-se, em seu processo de formulação teórica, no reconhecimento de que o caráter subsidiário do sistema penal reclama e impõe, em função dos próprios objetivos por ele visados, a intervenção mínima do Poder Público." (HC nº 84.412-0/SP, STF, Min. Celso de Mello, DJU 19.11.2004) 3. In casu, verifica-se que não é insignificante a conduta de tentar furtar bens avaliados em R$ 500,00, equivalente a mais da metade de um salário mínimo vigente à época dos fatos. Em tais circunstâncias, não há como reconhecer o caráter bagatelar do comportamento imputado, havendo afetação do bem jurídico.
+4. Ordem denegada.
+(HC 421.688/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 06/02/2018, DJe 15/02/2018)
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
+Intimem-se.
