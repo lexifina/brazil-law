@@ -1,0 +1,32 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. IPVA. PAGAMENTO EM JUÍZO. RECUSA. RAZOÁVEL DURAÇÃO DO PROCESSO. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279 DO STF. PRECEDENTES. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. AGRAVO INTERPOSTO SOB A ÉGIDE DO CÓDIGO DE PROCESSO CIVIL DE 2015. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS NO JUÍZO RECORRIDO. IMPOSSIBILIDADE DE MAJORAÇÃO NESTA SEDE RECURSAL. ARTIGO 85, § 11, DO CPC/2015. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos (Doc. 2, p. 55) objetivando a reforma de decisão que inadmitiu recurso extraordinário (Doc. 2, p. 5), manejado com arrimo na alínea a do permissivo constitucional, contra acórdão (Doc. 1, p. 71) que assentou, in verbis:
+    “AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. IPVA. DEPÓSITO FEITO EM JUÍZO PARA QUITAÇÃO DO DÉBITO, COM PEDIDO DE EXTINÇÃO DA EXECUÇÃO. DETERMINAÇÃO DE QUE O PAGAMENTO SEJA FEITO PELA VIA ADMINISTRATIVA. ORDEM QUE JÁ CONSTOU, INCLUSIVE, DO MANDADO DE CITAÇÃO. AGRAVANTE QUE NÃO DISCUTE A COBRANÇA E NÃO JUSTIFICA A RESISTÊNCIA EM CUMPRIR A DECISÃO JUDICIAL. AUSÊNCIA DE PREJUÍZO OU DIFICULDADE EM ATENDER AO DETERMINADO PELO JUÍZO. DECISÃO MANTIDA.
+    AGRAVO DESPROVIDO.”
+    Os embargos de declaração opostos foram desprovidos (Doc. 1, p. 87).
+    Nas razões do apelo extremo, o contribuinte sustentou preliminar de repercussão geral e, no mérito, apontou violação aos artigos 5º, LXXVIII, e 145, § 1º, da Constituição Federal. Impugnou, em síntese, a recusa do pagamento do tributo em juízo.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que a ofensa à Constituição, acaso existente, seria indireta (Doc. 2, p. 39).
+    O Superior Tribunal de Justiça conheceu o agravo para não conhecer o recurso especial (Doc. 2, p. 78).
+    É o relatório. DECIDO.
+    A irresignação não merece prosperar.
+    Ab initio, verifica-se que o artigo 145, § 1º, da Constituição Federal, que a parte agravante considera violado, não foi debatido no acórdão recorrido. Além disso, os embargos de declaração opostos não sanaram tal omissão, faltando, ao caso, o necessário prequestionamento da matéria constitucional, o que inviabiliza a pretensão de exame do recurso extraordinário. Incidem, portanto, os óbices das Súmulas 282 e 356 do STF: “É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada” e “o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento”.
+    A respeito da aplicação das aludidas súmulas, assim discorre Roberto Rosas:
+    “A Constituição de 1891, no art. 59, III, a, dizia: ‘quando se questionar sobre a validade de leis ou aplicação de tratados e leis federais, e a decisão for contra ela’.
+    De forma idêntica dispôs a Constituição de 1934, no art. 76, III, a: ‘quando a decisão for contra literal disposição de tratado ou lei federal, sobre cuja aplicação se haja questionado’.
+    Essas Constituições eram mais explícitas a respeito do âmbito do recurso extraordinário. Limita-se este às questões apreciadas na decisão recorrida. Se foi omissa em relação a determinado ponto, a parte deve opor embargos declaratórios. Caso não o faça, não poderá invocar essa questão não apreciada na decisão recorrida. (RTJ 56/70; v. Súmula 356 do STF e Súmula 211 do STJ; Nelson Luiz Pinto, Manual dos Recursos Cíveis, Malheiros Editores, 1999, p. 234; Carlos Mário Velloso, Temas de Direito Público, p. 236).
+    (...)
+    Os embargos declaratórios visam a pedir ao juiz ou juízes prolatores da decisão que espanquem dúvidas, supram omissões ou eliminem contradições. Se esse possível ponto omisso não foi aventado, nada há que se alegar posteriormente no recurso extraordinário. Falta o prequestionamento da matéria.
+    A parte não considerou a existência de omissão, por isso não opôs os embargos declaratórios no devido tempo, por não existir matéria a discutir no recurso extraordinário sobre essa questão (RE 77.128, RTJ 79/162; v. Súmula 282).
+    O STF interpretou o teor da Súmula no sentido da desnecessidade de nova provocação, se a parte opôs os embargos, e o tribunal se recusou a suprir a omissão (RE 176.626, RTJ 168/305; v. Súmula 211 do STJ).” (Direito Sumular. São Paulo: Malheiros, 2012, 14ª Edição, p. 139-140 e 175-176)
+    Confiram também, AI 738.029-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 25/6/2013, e ARE 737.360-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 24/6/2013, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AGRAVO IMPROVIDO.
+    I – É inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    II – Agravo regimental improvido.”
+    Demais disso, a análise da alegada ofensa ao artigo 5º, LXXVIII, da Constituição demandaria a interpretação da legislação infraconstitucional de regência e o reexame de matéria fática, o que é vedado na via estreita do recurso extraordinário. Incidem, in casu, os óbices das Súmulas 279 e, mutatis mutandis, 636 do STF, que dispõem, respectivamente, in verbis: “Para simples reexame de prova não cabe recurso extraordinário” e “Não cabe recurso extraordinário por contrariedade ao princípio da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    Nesse sentido: ARE 1.057.818-AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe de 1º/2/2018; RE 1.106.530, Rel. Min. Rosa Weber, DJe de 21/2/2018; ARE 1.111.817, Rel. Min. Marco Aurélio, DJe de 6/4/2018.
+    Por fim, observo que o presente agravo foi interposto sob a égide da lei processual de 2015, o que conduziria à aplicação de sucumbência recursal. Nada obstante, por não ter havido condenação ao pagamento de honorários advocatícios no Tribunal a quo, fica impossibilitada a sua majoração, nos termos do artigo 85, § 11, do CPC/2015.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 932, VIII, do CPC/2015 c/c o artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 28 de junho de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
