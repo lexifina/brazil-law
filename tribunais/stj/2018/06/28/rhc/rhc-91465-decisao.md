@@ -1,0 +1,21 @@
+EMENTA
+RECURSO EM HABEAS CORPUS. CRIME DESCRITO NO ART. 157, § 2º, I E II, DO CÓDIGO PENAL. CONDENAÇÃO EM PRIMEIRA INSTÂNCIA. PLEITO DE RECURSO EM LIBERDADE. IMPETRAÇÃO QUE SE VOLTA CONTRA WRIT ORIGINÁRIO (HC N. 2109717-20.2017.8.26.0000). SUPERVENIENTE JULGAMENTO DO RECURSO DE APELAÇÃO, COM PARCIAL PROVIMENTO AO APELO DEFENSIVO. REDUÇÃO DA PENA. EMBARGOS DE DECLARAÇÃO REJEITADOS. ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. EXPEDIÇÃO DE MANDADO DE PRISÃO. EXECUÇÃO PROVISÓRIA DA PENA. POSSIBILIDADE. SUBSTITUIÇÃO DA SENTENÇA PELO ACÓRDÃO. NOVO TÍTULO JUDICIAL. ALTERAÇÃO DO CENÁRIO FÁTICO-PROCESSUAL. OBSERVÂNCIA DOS LIMITES DA INTERPOSIÇÃO RECURSAL. PERDA DO OBJETO.
+Recurso prejudicado.
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por [NOME] contra acórdão prolatado pela Sétima Câmara Criminal do Tribunal de Justiça de São Paulo no HC n. 2109717-20.2017.8.26.0000.
+Narram os autos que o ora recorrente foi denunciado pela suposta prática dos crimes de roubo majorado e de corrupção de menores. Contudo, ao final da instrução, o Juízo da 3ª Vara Criminal da comarca de São Paulo (Autos n. 0002352-73.2017.8.26.0635) condenou o réu apenas pelo crime de roubo majorado, aplicando-lhe uma pena de 6 anos, 10 meses e 15 dias de reclusão, em regime inicial fechado, e 16 dias-multa. Na oportunidade, foi vedado o direito de recorrer em liberdade.
+Inconformada, a defesa impetrou writ, na origem, o qual teve a ordem denegada.
+Neste recurso, a defesa alega a ausência de fundamentos concretos na decisão que vedou o direito de o réu recorrer em liberdade.
+Destaca que o recorrente é primário, possui bons antecedentes e residência fixa.
+Requer, inclusive liminarmente, a revogação da prisão ou sua substituição por outras medidas cautelares.
+O recurso foi admitido em 5/9/2017.
+Em consulta à página do Tribunal de Justiça, na internet, constatei que foi interposta apelação criminal contra a sentença condenatória, que foi encaminhada ao Ministério Público em 30/10/2017.
+Liminar deferida (fls. 122/124), informações prestadas (fls. 131/133 e 135/136), o Ministério Público Federal opinou pelo conhecimento parcial e desprovimento do recurso ordinário constitucional (fls. 140/144).
+É o relatório.
+O presente recurso em habeas corpus ataca a negativa do direito de recorrer em liberdade imposta pelo juízo de primeiro grau, por ocasião da sentença condenatória, nos autos da Ação Penal n. 0002352-73.2017.8.26.0635 (fls. 29/36).
+Pois bem. Com a realização do julgamento do recurso de apelação (n. 002352-73.2017.8.26.0635), em 4/4/2018, dando parcial provimento ao apelo defensivo para reduzir a pena imposta a 6 anos e 5 meses de reclusão, em regime inicial fechado, e ao pagamento de 15 dias-multa e, ainda, com o julgamento dos embargos de declaração em 23/5/2018, afastando a preliminar e rejeitando os aclaratórios, determinando o devido cumprimento quanto à expedição do mandado de prisão para a execução provisória da pena, verifica-se o exaurimento do objeto do writ em liça. Tal se justifica, pois eventuais insurgências, agora, não se voltarão mais contra os termos da sentença, mas do aresto que a substituiu, configurando novo título, sendo vedada, portanto, a manifestação desta Corte Superior sobre a matéria.
+Cumpre registrar, ainda, que o pedido deduzido na petição inicial circunscreve a pretensão e, portanto, o objeto da relação jurídico-processual. Daí, tendo havido alteração do cenário fático-processual, em 23/5/2018, tem-se por esvaído o objeto do recurso.
+Com efeito, nos termos do entendimento adotado por este Sodalício: Com a superveniência do julgamento da apelação, fica prejudicado o writ anteriormente impetrado, uma vez que a medida, a partir de então, tem novo título judicial que alterou o cenário fático-processual (AgRg no RHC n. 40.342/SP, Ministro Nefi Cordeiro, Sexta Turma, julgado em 15/10/2015, DJe 5/11/2015).
+E ainda: AgRg no HC n. 291.055/SC, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 16/9/2014; e AgRg no RHC n. 36.064/DF, Ministro Moura Ribeiro, Quinta Turma, DJe 23/9/2013.
+Tal a circunstância, julgo prejudicado o recurso em habeas corpus (arts. 38 da Lei n. 8.038/1990 e 34, XI, do RISTJ). Por óbvio, não tem mais efeito a liminar anteriormente deferida.
+Publique-se.
