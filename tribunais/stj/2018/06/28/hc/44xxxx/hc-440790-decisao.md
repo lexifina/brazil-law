@@ -1,0 +1,30 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. 140 PORÇÕES DE COCAÍNA E 3 PORÇÕES DE MACONHA. REDUÇÃO DA PENA. FUNDAMENTAÇÃO CONCRETA. COMPROVAÇÃO DE ENVOLVIMENTO PARA COMERCIALIZAÇÃO. REGIME FECHADO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME] e [NOME] (ou [NOME]), em que se aponta como autoridade coatora a Décima Terceira Câmara Criminal do Tribunal de Justiça de São Paulo.
+Segundo a denúncia (fls. 12/14), os pacientes guardavam e tinham em depósito 140 porções de cocaína e 3 porções de maconha. Nos autos do Processo n. 0018503-74.2015.8.26.0477, foi proferida sentença, em que o Juízo de Direito da 1ª Vara Criminal da comarca de Praia Grande/SP condenou a paciente [NOME] à pena de 6 anos de reclusão, em regime fechado, e 600 dias-multa, e o paciente Luis (ou Luiz) Fernando à pena de 5 anos de reclusão, em regime inicial fechado, e 500 dias-multa, por terem sido incursos na prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006.
+Em sede de apelação, defesa e acusação apelaram. A Justiça Pública pediu a elevação da condenação e o reconhecimento da reincidência para o paciente Luis (ou Luiz) Fernando. A defesa alegou ausência de provas e que são devidos a aplicação do redutor da pena em fração máxima e regime mais brando. A Décima Terceira Câmara Criminal do Tribunal de Justiça de São Paulo deu parcial provimento ao apelo da paciente [NOME] para reduzir a sua pena a 5 anos e 10 meses de reclusão e negou provimento ao recurso do paciente Luis (ou Luiz) Fernando (fls. 108/114).
+Opostos embargos de declaração, esses foram acolhidos para fixar a ambos os acusados a pena de 5 anos de reclusão, em regime inicial fechado, e pagamento de 500 dias-multa (fls. 122/124).
+Sobreveio, então, o presente habeas corpus, em que se argumenta, em suma, constrangimento ilegal decorrente da não aplicação da causa especial de diminuição prevista no art. 33, § 4º, da Lei de Drogas; da imposição do regime inicial fechado; e da não consideração do período em que os pacientes permaneceram em prisão provisória para fins de definição do regime.
+Menciona-se que concomitantemente à impetração deste writ foi interposto recurso especial.
+Requer-se, diante disso, a concessão da ordem para:  ..  i) aplicar a fração máxima do redutor do art. 33, § 4º da Lei n. 11.343/2006; e ii) alterar o regime inicial de cumprimento de pena para o aberto, substituindo a pena privativa de liberdade por restritiva de direitos, ou, (iii) subsidiariamente fixar, ao menos, o regime semiaberto para início do cumprimento de pena (fl. 11).
+Decisão deste Relator indeferindo a liminar (fls. 129/131).
+Parecer ministerial opinando pelo não conhecimento do writ (fls. 176/179).
+É o relatório.
+No julgamento dos embargos de declaração, devido ao afastamento da agravante de reincidência, a pena para ambos os pacientes foi fixada em 5 anos de reclusão, nos seguintes termos (fls. 123/124):
+ ..
+Realmente, conforme se constata pela folha de antecedentes de [NOME], a decisão de extinção da pena privativa de liberdade do delito de tráfico de entorpecentes, autos nº 012333-4, foi prolatada em 22 de junho de 2010.
+Considerando que o crime aqui tratado se deu em 10 de novembro de 2015, transcorrido o lapso temporal exigido para afastar a citada agravante.
+Quanto ao corréu [NOME], também, deve ser afastada a agravante da reincidência, pois, conforme se verifica de fls. 124/125, embora tenha sido condenado pelo tráfico ilícito de entorpecentes, em sede de apelação, foi reconhecida a prescrição superveniente da pretensão punitiva estatal (Apelação nº 0003196-85.2012.8.26.0477), não se podendo falar, portanto, em reincidência.
+Desta forma, desconsiderando-se a agravante da reincidência, para ambos os embargantes, fixam-se as penas, para cada qual, de 5 anos de reclusão e 500 dias-multa.
+ ..
+Neste writ, a defesa pede a aplicação da fração máxima do redutor do art. 33, § 4º, da Lei n. 11.343/2006. Sobre essa questão, o entendimento do Julgador foi de sua não aplicabilidade em razão dos maus antecedentes e também pela quantidade significativa de substâncias entorpecentes. Confira-se o voto (fl. 124):
+ ..
+Diga-se que persiste a impossibilidade de incidência da causa de diminuição específica (§ 4o, do artigo 33, da Lei nº 11.343/06), na medida em que, abstraída a reincidência, é a ré portadora de mau antecedente, específico, aliás, e, em relação a ambos os acusados, revela-se a incompatibilidade da benesse, pela demonstração de afinidade com a conduta espúria. Não se está inovando; a referência é feita em função do reconhecimento da primariedade técnica.
+Não se perca de vista, ainda, a significativa quantidade de entorpecente e a apreensão, no mesmo cenário de apetrechos para o embalo da droga e, ainda, a maneira como se deu a apreensão, tudo a indicar estarem os acusados profundamente envolvidos com a atividade espúria, o que recomenda iniciarem o desconto das penas corporais em regime prisional mais severo, não em função da quantidade de pena imposta e já cumprida, mas pela periculosidade social dos agentes, a tornar prematura a inclusão em regime mais brando.
+ ..
+Veja-se que não há ausência de fundamentos, pelo contrário, o afastamento da redutora foi feito com base em fatos concretos, a grande quantidade de drogas e apetrechos para embalagens, o que configura o envolvimento com a atividade criminosa, ainda que não exista condenação pelo art. 35 da Lei de Drogas, o Julgador amparou-se nesses detalhes, não podendo, assim, ser aplicado o § 4º do art. 33 da Lei de Drogas nesta Corte Superior.
+Nesse sentido, sobre o pleito de abrandamento do regime, como a aplicação da pena de 5 anos permite o regime semiaberto, mostra-se adequado ao caso o agravamento para o fechado, como foi feito pela instância ordinária, tendo em vista a fundamentação apresentada no acórdão hostilizado acerca da ocorrência da atividade criminosa para comercialização. Não há falar em substituição da pena por restritivas de direitos, por ser a reprimenda superior a 4 anos de reclusão.
+Ante o exposto, denego a ordem.
+Publique-se.
