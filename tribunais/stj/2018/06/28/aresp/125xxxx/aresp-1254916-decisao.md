@@ -1,0 +1,7 @@
+DECISÃO
+1. Cuida-se de agravo em recurso especial de decisão denegatória de recurso especial interposto com fulcro no artigo 105, inciso III, alínea "a", da Constituição Federal.
+Alega a recorrente omissão e que, com o trânsito em julgado da improcedência do pedido formulado pelo recorrido na exordial, exsurgiu a obrigação de restituir o valor recebido em antecipação dos efeitos da tutela e, por conseguinte, a mora.
+2. Observa-se que não se viabiliza o recurso especial pela indicada violação do art. 1.022 do CPC/2015. Isso porque, embora rejeitados os embargos de declaração, todas as matérias foram devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+3. "A atual jurisprudência desta Corte é firme no sentido de que sobre os valores a serem restituídos à entidade fechada de previdência privada, incorporados aos proventos de complementação de aposentadoria complementar em decorrência de antecipação de tutela posteriormente revogada, não devem incidir juros de mora por não haver ato voluntário ou omissão atribuída ao beneficiário que tenha ensejado o atraso na devolução das referidas parcelas". (AgInt no AREsp 1101265/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/10/2017, DJe 26/10/2017)
+4. Diante do exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
