@@ -1,0 +1,31 @@
+EMENTA
+PENAL. HABEAS CORPUS. ART. 157, § 2º, II, C.C. ART. 70, DO CÓDIGO PENAL. DOSIMETRIA. PRIMEIRA FASE. REDUÇÃO DA PENA-BASE. AUSÊNCIA DE INTERESSE DE AGIR. REPOUSO NO MÍNIMO LEGAL PELA APLICAÇÃO DA ATENUANTE DA MENORIDADE. SÚMULA N. 231 DESTA CORTE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. REGIME INICIAL FECHADO. PENA SUPERIOR A 4 ANOS. ELEMENTO CONCRETO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. WRIT CONHECIDO EM PARTE E, NESSA EXTENSÃO, ORDEM DENEGADA.
+1. A presente ação constitucional não se reveste do indispensável requisito formal, qual seja, o interesse de agir, no tocante ao pleito de redução da pena-base, tendo em vista que, embora tenha havido incremento sancionatório, em razão da aplicação da atenuante da menoridade, o quantum retornou ao mínimo legal, o que não é passível de maior diminuição, diante da Súmula n. 231 desta Corte.
+2. Não obstante a estipulação da reprimenda final em patamar superior a 4 anos e inferior a 8 anos de reclusão, encontra-se motivada a sujeição a regime mais gravoso quando alicerçado em elemento concreto (modus operandi) a demonstrar maior desvalor da conduta.
+3. Habeas corpus conhecido em parte e, nessa extensão, ordem denegada.
+DECISÃO
+Cuida-se de habeas corpus, sem pedido liminar, impetrado pela Defensoria Pública em favor de [NOME], apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação nº 0017449-59.2016.8.26.0050).
+Consta dos autos que o paciente foi sentenciado como incurso duas vezes no artigo 157, § 2º, inciso II, c/c o artigo 70, ambos do Código Penal, à pena de 6 anos, 2 meses e 20 dias de reclusão, a ser cumprida em regime inicial fechado. (fls. 19/20)
+Irresignada, a defesa interpôs apelação criminal perante o Tribunal de origem, que após o julgamento, foi negado provimento ao recurso. (fls. 21/32)
+Opostos embargos de declaração, o Sodalício a quo os rejeitou em acórdão sumariado na fl. 35.
+Daí o presente mandamus, no qual a impetrante aduz que "o magistrado de 1º grau aumentou a pena-base sob o fundamento de que o uso de simulacro de arma de fogo tornava a conduta mais reprovável. O Tribunal, por sua vez, manteve a elevação. No entanto, tal fundamentação não pode ser mantida sob pena de violação ao princípio do ne bis in idem. O uso de um simulacro de arma de fogo foi essencial para a ocorrência da grave ameaça, ou seja, apresenta-se como elemento integrante da própria figura típica. Assim, não justifica a exasperação da pena-base".
+Sustenta, ainda, que deve ser fixado o regime semiaberto para o início do cumprimento da pena, considerando o decote que será efetuado por esta Corte e a primariedade do acusado.
+Invoca o teor dos enunciados n. 440 da Súmula do STJ e n. 718 e n. 719, ambos do STF.
+Requer a concessão da ordem "para estabelecer a pena base no patamar mínimo e fixar o regime inicial semiaberto para cumprimento de pena".
+As informações foram juntadas às fls. 49-51 e 53-78.
+O Ministério Público Federal apresentou parecer, fls. 80-87, opinando pela concessão da ordem.
+É o relatório.
+Busca-se com o presente mandamus, a redução da pena-base e o abrandamento do regime inicial.
+De pronto, verifica-se que a presente ação constitucional não se reveste do indispensável requisito formal, qual seja, o interesse de agir, no tocante ao pleito de redução da pena-base, tendo em vista que, embora tenha havido incremento sancionatório, em razão da aplicação da atenuante da confissão, o quantum retornou ao mínimo legal, o que não é passível de maior diminuição, diante da Súmula n. 231 desta Corte.
+Noutro giro, não obstante a estipulação da reprimenda final em patamar superior a 4 anos e inferior a 8 anos de reclusão, encontra-se motivada a sujeição a regime mais gravoso quando alicerçado em elemento concreto (modus operandi que envolveu a prática do crime contra duas vítimas).
+Eis o teor da sentença condenatória, no que interessa:
+Ante a duplicidade de delitos, e considerando ainda o acima mencionado indicando não uma ação de impulso, mas sim previamente planejada e preparada, com o uso do simulacro de arma, tudo denotando personalidade mais comprometida e voltada ao ilícito, fixo o regime fechado como inicial. (fl. 20).
+Nesse sentido:
+HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. NÃO CABIMENTO. ROUBO CIRCUNSTANCIADO. PLEITO DE INCIDÊNCIA DA SÚMULA N. 440/STJ. INAPLICABILIDADE. REGIME FECHADO ESTABELECIDO MOTIVADAMENTE. GRAVIDADE CONCRETA DA CONDUTA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO. (..) - Nos termos da jurisprudência pacífica desta Corte, a definição do regime prisional não está condicionada, de forma absoluta, à quantidade de pena aplicada, uma vez que se deve dar relevo aos demais elementos concretos do delito. - Na hipótese, não se verifica constrangimento ilegal na fixação do regime inicial fechado à paciente Bruna, pois foi aplicado com base na gravidade concreta do modus operandi do delito, o qual extrapolou a prática delituosa comum para o tipo, cometido em concurso de três agentes, com simulacro de arma de fogo, em via pública e no período noturno, ameaçando duas vítimas mulheres. Quanto ao paciente Eduardo, o regime mais gravoso foi fixado em razão da reincidência.Precedentes desta Corte. (..) (HC 355.088/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/06/2016, DJe 22/06/2016)
+HABEAS CORPUS. WRIT SUBSTITUTIVO. ROUBO CIRCUNSTANCIADO. CONFISSÃO ESPONTÂNEA. ATENUANTE CONFIGURADA. COMPENSAÇÃO COM A REINCIDÊNCIA. POSSIBILIDADE. TERCEIRA ETAPA DA DOSIMETRIA. MAJORAÇÃO ACIMA DO MÍNIMO LEGAL. MOTIVAÇÃO IDÔNEA. REGIME INICIAL MENOS GRAVOSO. IMPOSSIBILIDADE. ORDEM CONCEDIDA DE OFÍCIO. (..) 7. Não há ilegalidade no estabelecimento do regime inicial fechado quando apontados dados fáticos suficientes a indicar a gravidade concreta do crime, em especial o modus operandi adotado pelos agentes. (..) (HC 355.341/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 14/06/2016, DJe 23/06/2016)
+Portanto, não se vislumbra ilegalidade quanto à imposição do regime inicial mais gravoso.
+Ante o exposto, com fundamento no art. 34, XVIII, a, e XX, do RISTJ, conheço em parte do habeas corpus e, nessa extensão, denego a ordem.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intime-se.
+Sem recurso, ao arquivo.
