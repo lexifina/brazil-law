@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (fl. 8):
+RECURSO ESPECIAL. Juízo de Retratação. Artigo 1.030, inciso II, do Código de Processo Civil. Sentença condenatória mantida pelo v. acórdão, em grau recursal. Insurgência pela compensação da reincidência com a confissão na segunda fase da dosimetria da pena, conforme entendimento da Corte Superior. Reincidência. Preponderância desta agravante à confissão. Inteligência do artigo 67 do Código Penal. Atenuante que não é motivo determinante do crime, como também não agrega a personalidade do agente. Fica mantida a decisão do v. acórdão da C. 8a Câmara sobre a questão, ratificados seus fundamentos.
+Alega a impetrante, em síntese, constrangimento ilegal consistente na ausência de compensação da reincidência com a atenuante da confissão espontânea parcial.
+Postula, inclusive liminarmente, a concessão da ordem para redimensionar a pena imposta, nos termos propostos.
+É o relatório.
+É firme o entendimento deste Superior Tribunal de que, se a confissão do agente é um dos fundamentos da condenação, a atenuante prevista no art. 65, III, d, do Código Penal deve ser aplicada, sendo irrelevante se a confissão foi espontânea ou não, total ou parcial, ou mesmo se houve retratação posterior. Nesse mesmo sentido: AgInt no REsp n. 1.447.415/SC, de minha relatoria, Sexta Turma, DJe 1º/12/2016; AgRg no AREsp n. 766.334/TO, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 2/2/2016; e AgRg no REsp n. 1.450.875/SP, Ministro Gurgel de Faria, Quinta Turma, DJe 20/8/2015).
+Esse entendimento, aliás, foi objeto do enunciado da Súmula n. 545/STJ: Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, "d", do Código Penal.
+Outrossim, nos termos da jurisprudência desta Corte, a atenuante da confissão, que envolve a personalidade do agente, e a agravante da reincidência são igualmente preponderantes, razão pela qual devem ser compensadas, ainda quando se trate de reincidência específica. Isso, aliás, é o que foi decidido pela Terceira Seção no julgamento recente do HC n. 365.963/SP (Dje 23/11/2017).
+Sendo assim, obedecidas as diretrizes fixadas pelas instâncias ordinárias, passo ao redimensionamento da pena.
+Na primeira fase, mantém-se a pena-base fixada em 4 anos e 6 meses de reclusão, e pagamento de 11 dias-multa. Na segunda fase, a pena deve ser mantida no referido patamar, pela compensação da agravante da reincidência com a atenuante da confissão espontânea. Por fim, ante a existência da causa de aumento de pena, prevista art. 157, § 2º, I, do Código Penal, a pena deve ser recrudescida em 1/3, totalizando 6 anos de reclusão, além do pagamento de 14 dias-multa.
+O regime fechado deve ser mantido, dada a reincidência do réu.
+Ante o exposto, concedo a ordem para fixar a pena do réu em 6 anos de reclusão e pagamento de 14 dias-multa, mantidos os demais termos da sentença condenatória.
+Comunique-se.
+Publique-se.
