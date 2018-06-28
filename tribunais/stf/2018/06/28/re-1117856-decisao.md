@@ -1,0 +1,21 @@
+Trata-se de recurso extraordinário interposto contra acórdão da Sexta Turma do Superior Tribunal de Justiça, o qual foi assim ementado:
+    “PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. INOVAÇÃO RECURSAL. INVIABILIDADE EM SEDE DE AGRAVO REGIMENTAL. EXECUÇÃO PROVISÓRIA DE PENA RESTRITIVA DE DIREITO. IMPOSSIBILIDADE. AGRAVO A QUE SE NEGA PROVIMENTO.
+    1. É inviável o exame, em agravo regimental, de matéria não veiculada em recurso especial.
+    2. Ressalvada compreensão pessoal diversa, a Terceira Seção, no julgamento do EResp 1.619.087/SC, na sessão de 14/06/2017, adotou a orientação da impossibilidade da execução provisória de pena restritiva de direito.
+    3. Agravo regimental improvido” (pág. 134 do documento eletrônico 13).
+    O Ministério Público Federal interpõe recurso extraordinário, tendo como base o art. 102, III, a, da Constituição Federal. Sustenta, em suma, que:
+    “a decisão que reconheceu a impossibilidade de execução provisória de penas restritivas de direitos antes do trânsito em julgado da condenação (e-STJ fl. 1296), incorreu em má aplicação do artigo 5º, LVII, da Constituição Federal, bem como negou vigência aos princípios magnos da isonomia, da proporcionalidade, da vedação à proteção deficiente e da máxima efetividade” (pág. 147 do documento eletrônico 13 – grifos no original).
+    Instado a manifestar-se, o Ministério Público Federal, em parecer de lavra do Subprocurador-Geral da República Edson Oliveira Almeida, opinou pelo provimento do recurso extraordinário (documento eletrônico 16).
+    A pretensão recursal não merece acolhida.
+    Isso porque o art. 147 da Lei de Execuções Penais - LEP determina que a pena restritiva de direitos será aplicada somente após o trânsito em julgado da sentença penal condenatória, litteris:
+    “Art. 147. Transitada em julgado a sentença que aplicou a pena restritiva de direitos, o Juiz da execução, de ofício ou a requerimento do Ministério Público, promoverá a execução, podendo, para tanto, requisitar, quando necessário, a colaboração de entidades públicas ou solicitá-la a particulares”.
+    Ademais, noto que as decisões proferidas por esta Corte sobre o tema da execução provisória da pena não versaram especificamente a respeito da restritiva de direitos, vedada pelo mencionado art. 147 da LEP, mas sobre a pena privativa de liberdade, tratando somente da hipótese do art. 283 do Código de Processo Penal - CPP.
+    Desse modo, deve prevalecer o entendimento que há tempos vem sendo externado por esta Corte, no sentido da necessidade de aguardar-se o trânsito em julgado da decisão condenatória antes de iniciar-se o cumprimento das penas restritivas de direitos. Transcrevo, por oportuno, as ementas abaixo:
+    “HABEAS CORPUS- PENAS RESTRITIVAS DE DIREITOS - IMPOSSIBILIDADE DE SUA EXECUÇÃO DEFINITIVA ANTES DO TRÂNSITO EM JULGADO DA SENTENÇA PENAL CONDENATÓRIA - PEDIDO DEFERIDO. - As penas restritivas de direitos somente podem sofrer execução definitiva, não se legitimando, quanto a elas, a possibilidade de execução provisória, eis que tais sanções penais alternativas dependem, para efeito de sua efetivação, do trânsito em julgado da sentença que as aplicou. Lei de execução penal (art. 147). Precedentes” (HC 89.435/PR, Rel. Min. Celso de Mello).
+    “AÇÃO PENAL. Sentença condenatória. Pena privativa de liberdade. Substituição por pena restritiva de direito. Decisão impugnada mediante agravo de instrumento, pendente de julgamento. Execução provisória. Inadmissibilidade. Ilegalidade caracterizada. Ofensa ao art. 5º, LVII, da CF, e ao art. 147 da LEP. HC deferido. Precedentes. Pena restritiva de direitos só pode ser executada após o trânsito em julgado da sentença que a impôs” (HC 88.413/MG, Rel. Min. Cezar Peluso).
+    “HABEAS CORPUS. PENAS RESTRITIVAS DE DIREITOS. EXECUÇÃO ANTES DO TRÂNSITO EM JULGADO. IMPOSSIBILIDADE. O artigo 147 da Lei de execução penal é claro ao condicionar a execução da pena restritiva de direitos ao trânsito em julgado da sentença condenatória. Precedentes. Ordem concedida” (HC 86.498/PR, Rel. Min. Eros Grau).
+    Isso posto, nego seguimento ao recurso (Art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 28 de junho de 2018.
+Ministro Ricardo Lewandowski
+Relator
