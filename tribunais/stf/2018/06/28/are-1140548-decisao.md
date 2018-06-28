@@ -1,0 +1,32 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Oitava Turma do Tribunal Superior do Trabalho, assim ementado:
+    “I - AGRAVO DE INSTRUMENTO - RECURSO DE REVISTA INTERPOSTO SOB A ÉGIDE DA LEI Nº 13.015/2014 – CESTA BÁSICA – NORMA COLETIVA
+    Por vislumbrar violação ao art. 7º, XXVI, da Constituição, dá-se provimento ao Agravo de Instrumento para mandar processar o Recurso de Revista.
+    II - RECURSO DE REVISTA INTERPOSTO SOB A ÉGIDE DA LEI Nº 13.015/2014 - PRELIMINAR DE NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL
+    1. Quanto à cesta básica, a prefacial não será analisada, na forma do art. 282, § 2º, do NCPC.
+    2. Nos demais temas, a simples contrariedade das razões de decidir às pretensões da parte não caracteriza abstenção da atividade julgadora.
+    NULIDADE DO PROCESSO – UTILIZAÇÃO DE PROVA EMPRESTADA SEM ANUÊNCIA DAS PARTES
+    Em que pese ter sido realizada a análise de prova emprestada sem a anuência da Reclamada, verifica-se que o acórdão recorrido baseou-se em outras provas, inclusive, trazidas pela Reclamada, para manter a sentença. Na ausência de prejuízo, não se declara nulidade do julgado, nos termos do art. 794 da CLT.
+    PRÊMIO PRODUTIVIDADE – INTEGRAÇÃO AO SALÁRIO
+    O Eg. TRT consignou que a parcela “prêmio produtividade” era prevista em norma coletiva e paga habitualmente. Concluiu não haver violação ao art. 7º, XXVI, da Constituição, no ponto, e manteve a sentença, que determinara a integração da parcela à remuneração do Autor. Julgados desta Corte em mesmo sentido.
+    HORAS IN ITINERE – NORMA COLETIVA – NATUREZA JURÍDICA
+    Não têm validade as cláusulas coletivas que alteram a natureza salarial da remuneração das horas de itinerário, de maneira a convertê-las em verbas indenizatórias e excluir os reflexos das horas extras e sobre as demais verbas.
+    DESCONTOS - CONTRIBUIÇÃO ASSISTENCIAL/CONFEDERATIVA
+    A contribuição confederativa somente pode ser cobrada dos filiados do sindicato. Inteligência do Precedente Normativo nº 119 da Seção Especializada em Dissídios Coletivos e da Súmula nº 666 do E. Supremo Tribunal Federal.
+    CESTA BÁSICA – NORMA COLETIVA
+    As convenções e os acordos coletivos de trabalho têm previsão constitucional, como forma de solução de conflitos entre empregados e empregadores, devendo ser observados, sob pena de desrespeito ao art. 7º, XXVI, da Constituição da República.
+    Recurso de Revista conhecido parcialmente e provido.”
+    No recurso extraordinário, sustenta-se violação do artigo 7º, inciso XXVI, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, haja vista que para acolher a pretensão do recorrente e ultrapassar o entendimento firmado pelas instâncias de origem, seria necessário o reexame de normas infraconstitucionais, do acordo coletivo em questão e do conjunto fático-probatório dos autos, o que não é cabível em sede de recurso extraordinário. Incidência das Súmulas nºs 279, 454 e 636 desta Suprema Corte. Sobre o tema, anote-se:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. VALIDADE DE NORMA COLETIVA DE TRABALHO QUE ESTABELECE LIMITE DIÁRIO PARA PAGAMENTO AO EMPREGADO DE HORAS EXTRAS A TÍTULO DE DESLOCAMENTO (HORAS IN ITINERE). CONTROVÉRSIA CIRCUNSCRITA AO ÂMBITO INFRACONSTITUCIONAL. PRECEDENTES. 1. Não é possível, em recurso extraordinário, reexaminar a legislação infraconstitucional aplicada ao caso, dado que eventual ofensa à Constituição Republicana apenas ocorreria de modo reflexo ou indireto. 2. De mais a mais, o Supremo Tribunal Federal entende ser incabível na via recursal extraordinária o reexame da validade de cláusula de acordo ou convenção coletivos. Isso porque a interpretação de tais instrumentos normativos demanda o revolvimento de matéria fática, atinente à realidade de trabalho própria de cada categoria, incluindo a ponderação, caso a caso, das vantagens e desvantagens oriundas da estipulação de determinadas condições de trabalho pelas partes acordantes (Súmulas 279 e 454/STF). 3. Agravo regimental desprovido (ARE nº 654.467/PE-AgR, Segunda Turma, Relator o Ministro Ayres Britto, DJe de 16/12/11).
+    AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA. PAGAMENTO DE HORAS IN ITINERE. IMPOSSIBILIDADE DE ANÁLISE DE ACORDO COLETIVO DE TRABALHO. SÚMULA N. 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 824.649/SC-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 24/3/11).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA. ACORDO COLETIVO. VIOLAÇÃO AO ARTIGO 623 DA CLT. NORMA INFRACONSTITUCIONAL. REEXAME DE CLÁUSULAS DE CONTRATO. IMPOSSIBILIDADE DE APRECIAÇÃO NO SUPREMO TRIBUNAL FEDERAL. 1. A violação constitucional dependente da análise de malferimento de dispositivo infraconstitucional encerra ofensa reflexa e oblíqua, tornando inadmissível o recurso extraordinário. Precedentes: RE 596.682 Rel. Min. Carlos Britto, Dje de 21/10/10, e o AI 808.361, Rel. Min. Marco Aurélio, Dje de 08/09/10. 2. A convenção coletiva do trabalho e o cumprimento de suas cláusulas investe a Corte na sindicalidade de questões inviáveis à sua cognição. Precedentes: AI n. 750.752, Rel. a Min. Cármen Lúcia, DJe de 27.5.09, e AI 657.925-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJe de 14.9.07. 3. Agravo regimental desprovido” (AI nº 808.502/MA-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 28/3/11).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO DO TRABALHO. INTERPRETAÇÃO DE CLÁUSULA INTEGRANTE DE ACORDO COLETIVO DE TRABALHO. INCIDÊNCIA DA SÚMULA 454 DO STF. DECISÃO À LUZ DA LEGISLAÇÃO PROCESSUAL TRABALHISTA. OFENSA INDIRETA. AGRAVO IMPROVIDO. I - A apreciação dos temas constitucionais, no caso, depende da interpretação de cláusula integrante de norma coletiva de trabalho, o que atrai a incidência da Súmula 454 do STF. Precedentes. II - O acórdão recorrido decidiu a causa à luz da legislação processual trabalhista. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Precedentes. III Agravo regimental improvido” (AI nº 815.641/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 1/2/11).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 28 de junho de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
