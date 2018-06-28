@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO (Fazenda Nacional), com respaldo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ fl. 244):
+TRIBUTÁRIO. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO EM SEDE DE CUMPRIMENTO DE SENTENÇA. CABIMENTO.
+1. O Superior Tribunal de Justiça já assentou serem cabíveis honorários advocatícios na fase de cumprimento de sentença (Resp 1134186/RS, Relator Ministro Luis Felipe Salomão, DJ 21/10/2011).
+2. É irrelevante ser o débito executado proveniente de honorários advocatícios, pois os primeiros honorários são provenientes do processo de conhecimento e estes são originários da execução, não ensejando, portanto, bis in idem. Precedente da Primeira Seção.
+Os aclaratórios foram rejeitados (e-STJ fls. 257/261).
+A recorrente alega violação dos arts. 535, 269, V, 20 e 26 do CPC/73, sustentando, além da negativa de prestação jurisdicional, que é incabível a fixação de honorários advocatícios em execução de sentença contra a Fazenda Pública que tenha por objeto o pagamento de honorários, ocasionando bis in idem.
+Após as contrarrazões (e-STJ fls. 277/280), o recurso foi admitido (e-STJ fl.283).
+Passo a decidir.
+Inicialmente, cumpre registrar que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 - STJ).
+Feita tal anotação, impõe-se afastar, desde logo, a indigitada ofensa ao art. 535 do CPC/1973, visto que o acórdão impugnado apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, não se vislumbrando, na espécie, qualquer contrariedade à norma invocada.
+Ademais, consoante entendimento jurisprudencial pacífico, o órgão julgador não está obrigado a se manifestar sobre todos os argumentos levantados pelas partes para expressar a sua convicção, notadamente quando encontrar motivação suficiente ao deslinde da causa.
+Nesse sentido: AgRg no AREsp 750650 / RJ, Relator Ministro HUMBERTO MARTINS, Órgão Julgador T2 - SEGUNDA TURMA, DJe 30/9/2015 e AgRg no AREsp 493652/RJ, Relator Ministro SÉRGIO KUKINA, Órgão Julgador T1 - PRIMEIRA TURMA, DJe 20/6/2014.
+Quanto às demais alegações, consoante o entendimento desta Corte, é possível a fixação de honorários em execução de tal verba (honorários advocatícios), sem que isso implique bis in idem, porquanto refere-se à fase diversa do processo. Nesse sentido:
+PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. HONORÁRIOS SOBRE HONORÁRIOS. FASES DIVERSAS. CABIMENTO. 1. Consoante o entendimento desta Corte, é possível a fixação de honorários em execução de honorários advocatícios, sem que isso implique bis in idem, porquanto refere-se a fase diversa do processo. 2. Agravo interno desprovido (AgInt no REsp 1605655 / SC AGRAVO INTERNO NO RECURSO ESPECIAL 2016/0144914-9 Relator(a) Ministro GURGEL DE FARIA (1160) Órgão Julgador T1 - PRIMEIRA TURMA Data do Julgamento 07/12/2017 Data da Publicação/Fonte DJe 19/02/2018).
+PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. EMBARGOS À EXECUÇÃO. HONORÁRIOS SOBRE HONORÁRIOS. FASES DIVERSAS. CABIMENTO.
+1. A tese recursal refere-se à possibilidade de os honorários fixados na execução incindirem sobre os honorários de sucumbência fixados na ação de conhecimento.
+2. O Tribunal de origem, ao dirimir a controvérsia, afastou os honorários advocatícios oriundos da fase de conhecimento do cálculo dos honorários da execução. Verifica-se, portanto, que o acórdão recorrido está em dissonância com o atual entendimento do Superior Tribunal de Justiça, quanto à possibilidade da fixação de honorários sobre honorários, sem que isso implique bis in idem, porquanto referente a fase diversa (execução).
+3. Recurso Especial provido. (REsp 1659466/RS, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 16/06/2017).
+Dessa forma, aplica-se à espécie a Súmula 83 do STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", que é aplicável quando o recurso especial é interposto com base nas alíneas "a" e "c" do permissivo constitucional.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
