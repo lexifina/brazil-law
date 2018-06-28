@@ -1,0 +1,18 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “ADMINISTRATIVO. MILITAR. CURSO DE FORMAÇÃO DE OFICIAS. DEMISSÃO A PEDIDO. NÃO CUMPRIMENTO DE PERÍODO OBRIGATÓRIO. INDENIZAÇÃO. LEGALIDADE.
+    A União Federal faz jus ao ressarcimento de investimentos feitos em profissional que abandona o oficialato antes do prazo de permanência, após a conclusão de curso de formação de oficiais da Escola Naval. Fruição de benesses de preparo avançado. O texto legal prevê a indenização (art. 116 e § 1°, b do mesmo artigo da Lei n° 6.880/80) e, existindo lei, não sendo ela inconstitucional, existe o dever de ressarcir. De outro lado, a defesa afirma que a União apresentou demonstrativo absurdo e irreal, sem, no entanto, rebater os cálculos apresentados. Tal alegação genérica é insuficiente, pois infringe o art. 302 do CPC. Não há necessidade de produção de prova pericial quando nada desabona a prova suficiente que já existe nos autos. Apelação desprovida” (pág. 47 do documento eletrônico 3).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação do art. 206, IV, da mesma Carta (págs. 34-45 do documento eletrônico 4).
+    A pretensão recursal não merece acolhida.
+    O Tribunal de origem decidiu a questão com apoio nos seguintes fundamentos:
+    “No mérito, a Lei n° 6.880/80, a teor do art. 116, estabelece o dever de indenizar, imposto ao oficial que usufruir a benesses da formação militar, desligando-se, contando menos de 5 (cinco) anos de oficialato.
+    […]
+    A hipótese de ressarcimento de investimentos feitos em profissional, que abandona o oficialato, antes de 5 (cinco) anos, tendo usufruído as benesses de preparo avançado, e , como contrapartida, razoável se lhe exigir o retorno, em tempo de 5 (cinco ) anos. É o que faz o texto legal, e, existindo Lei, não sendo ela inconstitucional, existe o direito à indenização.
+    […]
+    Portanto, tendo terminado o curso de formação de oficias da Escola Naval, em 08/12/2007, e os ciclos pós escolar, em 15/02/2008, 10/06/2008 e 08/12/2008 (fls. 08), e obtido o desligamento, em 31/07/2009 (fls. 18/19), tem o réu a obrigação legal de indenizar a União, na forma da lei. E o Juiz não pode substituir-se ao legislador” (págs. 44-45 do documento eletrônico 3).
+    Assim, para divergir do acórdão recorrido, e verificar a procedência dos argumentos consignados no recurso, seria necessária a interpretação da legislação infraconstitucional pertinente (Lei 6.880/1980), sendo certo que eventual ofensa à Constituição seria apenas indireta. Nesse mesmo sentido, cito o ARE 926.632-AgR/SP, de relatoria da ministra Rosa Weber:
+    “EMENTA DIREITO ADMINISTRATIVO. CURSO DE FORMAÇÃO. POLICIAL MILITAR. INDENIZAÇÃO. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA Nº 280/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 09.5.2012. 1. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula nº 280 do STF, a inviabilizar o trânsito do recurso extraordinário. 2. A suposta afronta aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 3. Agravo regimental conhecido e não provido”.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 28 de junho de 2018.
+Ministro Ricardo Lewandowski
+Relator
