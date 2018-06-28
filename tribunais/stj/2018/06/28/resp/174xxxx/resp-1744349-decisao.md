@@ -1,0 +1,48 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por RAUL ALVES CORREIA GALLINDO E OUTROS, contra acórdão prolatado, por unanimidade, pela 1ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo no julgamento de apelação, assim ementado (fl. 105e):
+SERVIDORES PÚBLICOS ESTADUAIS - Policiais militares aposentados - Cálculo dos vencimentos e proventos - Extinção da ação, nos termos do art. 267, VI, do CPC, com relação ao autor que não comprovou que ingressou no serviço público antes de 1994 - Prescrição quinquenal das parcelas que não atinge o fundo do direito - Alegação de perdas salariais pela não conversão em URVs - Questão pacificada pelo STJ, na forma do art. 543 do CPC (recursos repetitivos) - Ação procedente - Recurso provido.
+Opostos embargos de declaração, foram rejeitados (fls. 135/144e).
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+Art. artigos 535 , inciso II do Código de Processo Civil - houve omissão quanto a ausência de fase processual que possibilitasse a realização da prova das perdas, ainda que consignado pelos Tribunais Superiores, que esta deva ser elaborada em sede de execução;
+Art. 543-B e 543-C ambos do Código de Processo Civil - "o desprovimento do presente recurso culminaria em total inutilização dos ritos instituídos como repetitivos, bem como ratificaria patente violação a tais dispositivos legais (arts 543-B e 543-C, CPC), visto que já definiram que a apuração de eventual perda será em fase de liquidação/execução, competindo apenas às vias Ordinárias o reconhecimento do direito vindicado" (fl. 175e); e
+Lei n. 8.880/94 - Houve prejuízo experimentado pelos autores advindo da alegada conversão incorreta e que teria acarretado perdas salariais que não foram posteriormente compensadas.
+Com contrarrazões (fls. 189/194e), o recurso foi inadmitido (fl. 198e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 261e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, caput, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+Não se pode conhecer a apontada violação ao art. 535 do Código de Processo Civil, porquanto o recurso cinge-se a alegações genéricas e, por isso, não demonstra, com transparência e precisão, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai o óbice da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, no âmbito desta Corte.
+Nesse sentido:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. AFASTAMENTO. AUSÊNCIA DE INÉRCIA DO CREDOR. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO NÃO COMPROVADO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+(..)
+(AgRg no REsp 1450797/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 05/06/2014, DJe 11/06/2014)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC. SÚMULA 284/STF. SERVIDOR PÚBLICO. PROFISSIONAL DA ÁREA DA SAÚDE. IMPOSSIBILIDADE DE ACUMULAÇÃO DE CARGOS. ACÓRDÃO COM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. INCOMPATIBILIDADE DE HORÁRIOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ELEITA. SÚMULA 7/STJ. PRECEDENTES DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Quanto à alegação de negativa de prestação jurisdicional, verifica-se que, apesar de apontar como violado o art. 535 do CPC, a agravante não evidencia qualquer vício no acórdão recorrido, deixando de demonstrar no que consistiu a alegada ofensa ao citado dispositivo, atraindo, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal ("é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Nesse sentido: STJ, AgRg no AREsp 422.907/RJ, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 18/12/2013; AgRg no AREsp 75.356/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 21/10/2013.
+(AgRg no AREsp 318.883/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 18/06/2014, DJe 01/07/2014, destaque meu).
+No que se refere à alegada violação aos arts. 543-B e 543-C, verifico que a insurgência carece de prequestionamento, uma vez que não foi analisada pelo tribunal de origem.
+Com efeito, o requisito do prequestionamento pressupõe prévio debate da questão pelo tribunal de origem, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos legais apontados como violados.
+No caso, malgrado a oposição de embargos declaratórios, o tribunal de origem não analisou, ainda que implicitamente, a aplicação do suscitado art. 543-B e 543-C .
+Desse modo, não tendo sido apreciada tal questão pelo tribunal a quo, a despeito da oposição de embargos de declaração, aplicável, à espécie, o teor da Súmula n. 211/STJ, in verbis: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AO ART. 535 DO CPC. APLICAÇÃO DA SÚMULA N. 284 DO STF, POR ANALOGIA. BENS PÚBLICOS. TERRENO DE MARINHA. ILEGALIDADE DO PROCEDIMENTO DEMARCATÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211 DESTA CORTE SUPERIOR. REGISTRO IMOBILIÁRIO. CARACTERIZAÇÃO DO BEM COMO TERRENO DE MARINHA. MANDADO DE SEGURANÇA. VIA ADEQUADA. QUESTÃO MERAMENTE DE DIREITO. OPONIBILIDADE EM FACE DA UNIÃO. CARACTERIZAÇÃO DO BEM COMO PROPRIEDADE PARTICULAR. IMPOSSIBILIDADE. PROPRIEDADE PÚBLICA CONSTITUCIONALMENTE ASSEGURADA (CR/88, ART. 20, INC. VII).
+(..)
+2. A controvérsia acerca da ilegalidade do procedimento demarcatório na espécie, pela desobediência do rito específico previsto no Decreto-lei n. 9.760/46 - vale dizer: ausência de notificação pessoal dos recorrentes - não foi objeto de análise pela instância ordinária, mesmo após a oposição de embargos de declaração, razão pela qual aplica-se, no ponto, a Súmula n. 211 desta Corte Superior.
+(..)
+5. Recurso especial parcialmente conhecido e, nesta parte, não provido. Julgamento submetido à sistemática do art. 543-C do CPC e à Resolução n. 8/2008.
+(REsp 1183546/ES, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 08/09/2010, DJe 29/09/2010, destaque meu).
+
+Quanto à questão referente à correção de equívocos procedidos na conversão dos vencimentos dos servidores em URV, observo que o Recorrente não apontou o dispositivo de lei federal que teria sido violado pelo acórdão recorrido, circunstância que atrai, por analogia, a incidência da orientação contida na Súmula 284, do Supremo Tribunal Federal, segundo a qual  É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia. Nesse sentido, os seguintes precedentes:
+Nesse sentido, os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OCUPAÇÃO DE TERRA PÚBLICA. ÁREA DE PRESERVAÇÃO PERMANENTE. DEMOLIÇÃO DE CONSTRUÇÃO. OMISSÃO NÃO CARACTERIZADA. INTERPRETAÇÃO DE LEI LOCAL. SÚMULA N. 280 DO STF. ACÓRDÃO A QUO QUE CONCLUI, COM BASE NOS FATOS E PROVAS DOS AUTOS, PELA IRREGULARIDADE DA EDIFICAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. FUNDAMENTO AUTÔNOMO INATACADO. SÚMULA N. 283 DO STF. ALEGADA VIOLAÇÃO À LEI FEDERAL. DISPOSITIVOS NÃO INDICADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF.
+(..)
+5. Revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a tecer alegações genéricas, sem, contudo, apontar especificamente qual dispositivo de lei federal foi contrariado pelo Tribunal a quo, fazendo incidir a Súmula 284 do STF.
+6. Agravo regimental não provido.
+(AgRg no AREsp 438.526/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 08/08/2014).
+PROCESSUAL CIVIL. JUROS MORATÓRIOS. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 284/STF. NÃO SE PODE CONHECER DA DIVERGÊNCIA JURISPRUDENCIAL.
+1. Quanto aos juros moratórios, o Recurso Especial, apesar de interposto com base na alínea "a" do permissivo constitucional, não indica, especificamente, o dispositivo de lei federal supostamente contrariado pelo acórdão recorrido. Aplicação, por analogia, da Súmula 284/STF.
+2. Da mesma forma, incide o verbete da Súmula 284 do STF quando o recorrente deixa de indicar qual dispositivo de lei federal teve sua interpretação divergente pelo Tribunal, mesmo se o recurso tiver sido interposto pela alínea "c" do permissivo constitucional.
+3. Agravo Regimental não provido.
+(AgRg nos EDcl no AREsp 87.521/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 04/04/2013, DJe 10/05/2013).
+Isto posto, com fundamento no art. 557, caput, do Código de Processo Civil, NEGO SEGUIMENTO ao Recurso Especial.
+Publique-se e intimem-se.
