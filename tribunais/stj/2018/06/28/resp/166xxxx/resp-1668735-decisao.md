@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pelo INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS - IBAMA, em 31/01/2017, contra acórdão do Tribunal Regional Federal da 4ª Região, proferido na vigência do CPC/2015, assim ementado:
+"AGRAVO EM APELAÇÃO. DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO. EXECUÇÃO. FALTA DE INTERESSE DE AGIR.
+Não há interesse processual no prosseguimento da execução, já que o IBAMA não apresentou impugnação, bem como manifestou concordância com a conversão em renda do valor executado" (fl. 272e).
+Opostos embargos de declaração (fls. 278/284e), foram parcialmente providos tão somente para fins de prequestionamento:
+"PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. HIPÓTESES DE CABIMENTO. IMPOSSIBILIDADE DE REDISCUSSÃO DOS FUNDAMENTOS DO ACÓRDÃO EMBARGADO.
+1. Os embargos de declaração são cabíveis para o suprimento de omissão, saneamento de contradição ou esclarecimento de obscuridade no julgamento embargado. A jurisprudência também os admite para a correção de erro material e para fins de prequestionamento.
+2. Os embargos declaratórios não se prestam à reforma do julgado proferido, nem substituem os recursos previstos na legislação processual para que a parte inconformada com o julgamento possa buscar sua revisão ou reforma.
+3. Embargos declaratórios parcialmente providos apenas para fins de prequestionamento" (fl. 299e).
+Nas razões do Recurso Especial, aponta a insurgente violação ao disposto no art. 1.022, II, do CPC/2015, ao argumento de que houve o Tribunal da origem não teria se pronunciado sobre pontos relevantes para o deslinde da controvérsia (fls. 310/314e).
+Sustenta, ainda, violação aos arts. 2º, da Lei de Responsabilidade fiscal; 308 do Código Civil; 797 e 824 do CPC/2015, argumentando que:
+"Aponta-se a violação do acórdão ao art. 2º, par. 2º, da LEF, pois no caso dos autos, além de o exequente não ter sido oportunamente intimado do cálculo do contador judicial, devem ser considerados os meses decorridos, e a inexistência de correção monetária, entre a realização da conta, o bloqueio BACENJUD e a transferência do valor para conta de depósito judicial. De acordo com o disposto no art. 2º, par. 2º, da LEF, a dívida ativa da Fazenda Pública deve abranger atualização monetária. Não se pode ter a dívida como satisfeita sem comprovação de que tenha sido paga integralmente.
+Verifica-se também a violação do acórdão ao art. 308 do Código Civil, segundo o qual a validade do pagamento depende da ratificação do credor: "o pagamento deve ser feito ao credor ou a quem de direito o represente, sob pena de só valer depois de por ele ratificado, ou tanto quanto reverter em seu proveito.". De acordo com o referido dispositivo legal, para haver a extinção da execução fiscal, considera-se necessária a confirmação de que a quantia depositada judicialmente tenha sido convertida em renda e que seja suficiente para a satisfação integral da dívida.
+Por fim, constata-se a contrariedade do acórdão ao disposto nos arts. 612 e 646 do CPC, considerando-se que o processo de execução visa satisfazer os interesses do credor, evidenciando, portanto, o interesse processual do Ibama para o seguimento do recurso de apelação, que foi interposta contra sentença que julgou extinta a execução considerando ter havido a satisfação da dívida. O apelo do IBAMA bem apontou que não há falar em satisfação da obrigação e extinção da execução antes da efetivação da conversão em renda e da manifestação da autarquia quanto à quitação integral do débito. Portanto, deve ser modificado o acórdão que manteve a negativa de seguimento do apelo do IBAMA considerando ter havido falta de interesse processual. O interesse processual do IBAMA neste caso decorre de lei, tendo em vista que pelo processo de execução devem ser satisfeitos integralmente os interesses do credor" (fls. 314/315e).
+Não apresentada as contrarrazões (fl. 320e), foi o Recurso Especial admitido na origem (fl. 323e), o que ensejou a sua ascensão a esta Corte Superior.
+A irresignação merece acolhimento no que diz respeito à indicada ofensa ao art. 1.022, inciso II, do CPC/2015.
+Do exame dos autos, verifica-se que a parte recorrente alegou, em Embargos de Declaração, omissão quanto à análise dos seguintes argumentos:
+"Necessário pronunciamento quanto ao fato de que não se verifica nos autos qualquer indicativo de intimação do exequente quanto ao cálculo de atualização anexado pelo contador judicial no EVENTO1OUT32.
+(..)
+Necessário pronunciamento quanto ao fato de que, pela petição do EVENTO10 o Ibama requereu a conversão em renda mediante utilização de GRU anexa.
+O despacho do EVENTO12 determinou a conversão em renda conforme guia juntada pelo Ibama e determinou o desbloqueio do veículo no RENAJUD.
+(..)
+Necessário pronunciamento quanto à alegação do Ibama de que não se verifica comprovante de cumprimento da decisão do mov. 12.1 relacionada à conversão em renda do bloqueio BACENJUD através da GRU fornecida pela autarquia.
+(..)
+No EVENTO34 o IBAMA interpôs EMBARGOS DE DECLARAÇÃO em relação à sentença de extinção, para que fosse determinado o urgente cumprimento da decisão (12.1), no sentido de oficiar à CEF para que proceda à conversão em renda do depósito judicial, utilizando a guia GRU em anexo. Requereu a autarquia que após a conversão fosse ainda determinada a intimação do Ibama para informar se houve ou não a quitação da dívida, considerando que somente após o exequente aferir se houve efetiva quitação da dívida é que a execução fiscal poderia ser extinta por sentença.
+(..)
+No EVENTO44OUT1 foi anexado ALVARÁ expedido em 03-03-2015, para conversão em renda "em favor da exequente (Conforme dados constantes da guia anexa) a quantia de R$15.524,59 e acréscimos legais". Não se verifica qualquer guia em anexo, no EVENTO 44.
+(..)
+No EVENTO 52 o Ibama interpôs recurso de APELAÇÃO contra "sentença que pronunciou a extinção da execução em face de depósito realizado pelo executado, sem, contudo, realizar a necessária conversão em renda e atestar a efetiva quitação do débito." Sustenta o exequente/apelante que a sentença merece reforma, pois não há que se falar em satisfação da obrigação e extinção da execução antes da efetivação da conversão em renda e da manifestação desta autarquia quanto à quitação integral do débito.
+(..)
+Necessário pronunciamento quanto à alegação de que, no caso dos autos, além de o exequente não ter sido oportunamente intimado do cálculo do contador judicial, devem ser considerados os meses decorridos, e a inexistência de correção monetária, entre a realização da conta, o bloqueio BACENJUD e a transferência do valor para conta de depósito judicial. De acordo com o disposto no art. 2º, par. 2º, da LEF, a dívida ativa da Fazenda Pública abrange atualização monetária.
+(..)
+Necessário pronunciamento quanto ao disposto no art. 308 do Código Civil, segundo o qual, a validade do pagamento depende da ratificação do credor: "o pagamento deve ser feito ao credor ou a quem de direito o represente, sob pena de só valer depois de por ele ratificado, ou tanto quanto reverter em seu proveito.".
+Para haver a extinção da execução fiscal, considera-se necessária a confirmação de que a quantia depositada judicialmente tenha sido convertida em renda e que seja suficiente para a satisfação integral da dívida" (fls. 280/284e).
+Com efeito, embora opostos Embargos de Declaração, o Tribunal de origem não analisou os supracitados argumentos nos termos da legislação apontada como violada, de modo que está configurada a violação ao art. 1.022, inciso II, do CPC/2015, e, assim, a negativa de prestação jurisdicional, uma vez que o ponto sobre o qual recai a omissão tem o condão de eventualmente alterar a solução inicialmente dada à controvérsia.
+Nesse sentido:
+"TRIBUTÁRIO. PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS PARA NOVO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO.
+1. Nos termos da jurisprudência pacífica do STJ, quando os temas suscitados nos embargos de declaração são indispensáveis ao deslinde da controvérsia e o Tribunal de origem não se pronuncia acerca de tais questões, mister a anulação do acórdão para que outro seja proferido, ante a contrariedade ao art. 535 do Código de Processo Civil.
+2. Hipótese em que o Tribunal de origem, apesar da oposição de embargos de declaração, não se manifestou sobre a alegada violação do art. 10, inciso I, da Lei n. 10.833/2003. Retorno dos autos para novo julgamento dos embargos de declaração.
+Agravo regimental provido" (STJ, AgRg no REsp 1.355.898/CE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 06/03/2014).
+"PROCESSUAL CIVIL E ADMINISTRATIVO. IMPUGNAÇÃO AO VALOR DADO À CAUSA. ELEMENTOS FÁTICOS DA DEMANDA NÃO FORAM CONSIDERADOS. ART. 535 DO CPC. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS PARA A ORIGEM.
+(..)
+3. A Corte de origem quedou silente sobre os argumentos apresentados por meio dos embargos de declaração, em franca violação ao art. 535 do CPC, porquanto não prestada a jurisdição de forma integral.
+4. Agravo regimental a que se nega provimento" (STJ, AgRg no REsp 1.373.286/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 17/05/2013).
+Em face do exposto, com fundamento do art. 255, § 4º, inciso III, do RISTJ, dou provimento ao Recurso Especial a fim de anular o acórdão que julgou os Embargos Declaratórios, determinando o retorno dos autos à origem para novo julgamento dos Embargos de fls. 278/284e.
+Em razão do acolhimento da preliminar, reputo prejudicadas as demais alegações.
+I.
