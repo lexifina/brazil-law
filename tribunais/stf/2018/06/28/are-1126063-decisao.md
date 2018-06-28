@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — AUSÊNCIA DE ENQUADRAMENTO NO PERMISSIVO CONSTITUCIONAL — AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado do Rio Grande do Norte concedeu a segurança para tornar sem efeito a decisão proferida em processo administrativo e anular a portaria de exoneração de servidora pública estadual. No extraordinário cujo trânsito busca alcançar, o recorrente alega violado o artigo 102, § 2º, da Constituição Federal. Afirma não ser necessária a instauração de procedimento administrativo, considerado o decidido na ação direta de inconstitucionalidade nº 2.433.
+    2. O acórdão impugnado está em harmonia com o decidido pelo Supremo, sob a sistemática da repercussão geral, no julgamento do recurso extraordinário 594.296, relatado pelo ministro Dias Toffoli no Pleno, acórdão publicado no Diário da Justiça de 13 de fevereiro de 2012:
+    RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. EXERCÍCIO DO PODER DE AUTOTUTELA ESTATAL. REVISÃO DE CONTAGEM DE TEMPO DE SERVIÇO E DE QUINQUÊNIOS DE SERVIDORA PÚBLICA. REPERCUSSÃO GERAL RECONHECIDA.
+    1. Ao Estado é facultada a revogação de atos que repute ilegalmente praticados; porém, se de tais atos já decorreram efeitos concretos, seu desfazimento deve ser precedido de regular processo administrativo.
+    2. Ordem de revisão de contagem de tempo de serviço, de cancelamento de quinquênios e de devolução de valores tidos por indevidamente recebidos apenas pode ser imposta ao servidor depois de submetida a questão ao devido processo administrativo, em que se mostra de obrigatória observância o respeito ao princípio do contraditório e da ampla defesa.
+    3. Recurso extraordinário a que se nega provimento.
+    Colho da decisão recorrida o seguinte trecho:
+    In casu, como ressaltado quando da análise do pleito liminar, a cópia integral do processo administrativo acostada aos autos do Mandado de Segurança, revela, de forma indubitável, ter havido, de sobremaneira, mitigação dos princípios constitucionais da ampla defesa e do contraditório.
+    Ora, tanto a possibilidade de dilação probatória quanto o direito de oferecimento de alegações finais (corolários dos princípios do contraditório e da ampla defesa) foram sonegados ao impetrante, em que pese a Comissão Temporária composta por Juízes Auxiliares da Presidência, designada para análise e identificação dos servidores atingidos pelo julgamento da ADI n° 2433, tenha recomendado a abertura de processos administrativos individuais para que, "antes da decisão da administração", fosse garantido a cada servidor "o contraditório e a ampla defesa".
+    Não menos importante, sob minha ótica para caracterizar a ilegalidade do ato atacado sob prisma distinto, é que, de acordo com a leitura da defesa do servidor apresentada no âmbito administrativo, nenhum dos argumentos postos nas manifestações destes foi examinado pela autoridade impetrada na decisão de atacada, o que realça a transgressão aos princípios constitucionais acima ventilados, pois, ao julgar a ADI n° 2433, o STF não sinalizou que houvesse o desligamento automático dos servidores, mas limitou-se a declarar a inconstitucionalidade dos parágrafos 3°, 4° e 6° do art. 231 da LC n° 165/1999-RN, devendo as consequências jurídicas do julgado ser aquilatadas a partir da análise de cada caso.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 28 de junho de 2018.
+Ministro MARCO AURÉLIO
+Relator
