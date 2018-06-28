@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra decisão do Tribunal de Justiça do Estado de Minas Gerais, que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 428):
+EXCEÇÃO DE SUSPEIÇÃO. MAGISTRADO. HIPÓTESES PREVISTAS NO ART. 135 DO CPC. JULGAMENTOS ANTERIORES DESFAVORÁVEIS. IMPARCIALIDADE NÃO CONFIGURADA. INCIDENTE REJEITADO.
+A exceção de suspeição, medida excepcional que implica no afastamento do Magistrado da condução processo, deve se ater ãs hipóteses previstas no artigo 135 do CPC. A insatisfação com o mérito de julgamentos anteriores decididos pelo magistrado não configura ou caracteriza sua suspeição para o exame de demanda que possui contornos fático-juridicos semelhantes.
+Embargos de declaração rejeitados (e-STJ fl. 684).
+No especial obstaculizado, o ora agravante aponta, além de divergência jurisprudencial, violação dos arts. 135, V, do Código de Processo Civil/1973 e 36, III, da Lei Complementar n. 35/1979.
+Depois de contra-arrazoado (e-STJ fl. 747), o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de que incide a Súmula n. 7 do STJ, bem como que a divergência jurisprudencial está prejudicada (e-STJ fls. 749/750).
+Na presente irresignação, o agravante alega, em resumo, que o recurso obstado atende aos pressupostos de admissibilidade e, ao final, reitera os argumentos anteriormente expendidos.
+Sem contraminuta (e-STJ fl. 773).
+Passo a decidir.
+Inicialmente, cumpre destacar que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do Plenário do STJ).
+Isso considerado, verifico que a irresignação recursal não merece prosperar.
+Quanto ao tema, no caso concreto, a instância anterior dirimiu a questão a teor da seguinte motivação (e-STJ fls. 429/432):
+Na espécie, o excipiente não invoca, ou aponta, qualquer das hipóteses do art. 135 do Código de Processo Civil, argüindo a suspeição com base no prejulgamento, levando em consideração a posição adotada pelo magistrado no julgamento de outros feitos.
+Ocorre que, ao exame detido dos fatos articulados, verifico que tal alegação revela, na verdade, a insatisfação do excipiente com o teor dos julgamentos prolatados pelo magistrado em outras demandas nas quais "grupos organizados de trabalhadores rurais pró reforma agrária" também figuram como parte.
+ ..
+Como consequências dessa imparcialidade objetiva, existem, por exemplo, o princípio da iniciativa de partes, que proíbe ao juiz conhecer das questões não suscitadas porque, em caso contrário, estaria beneficiando a uma das partes e o princípio de que em todos os momentos do processo as partes devem ter oportunidades processuais análogas.
+Todavia, para que se concretize a imparcialidade objetiva, é preciso que o juiz seja subjetivamente imparcial, isto é, que seja verdadeiramente um estranho à causa e às partes.
+O Juiz que de qualquer modo esteja vinculado à causa, por razões de ordem subjetiva, tem comprometida a sua imparcialidade e, portanto, não deve atuar no processo. As razões que comprometem, ou, pelo menos colocam em risco a imparcialidade do juiz, são as razões de impedimento e suspeição, conforme relacionadas no Código. (in Direito Processual Civil Brasileiro. 5ª edição, Vol. I, São Paulo: Saraiva, pp. 229/230)
+No caso dos autos, alega o excipiente ser evidente, ante as manifestações do magistrado neste e em outros litígios, sua afeição pela classe dos latifundiários e, por outro lado, o menosprezo para com os trabalhadores rurais sem terra.
+Todavia, tais alegações não são suficientes para caracterizar uma das hipóteses previstas no art. 135 do CPC, nem qualquer outra hipótese que indique parcialidade do julgador capaz de torná-lo suspeito.
+Os documentos coligidos ao feito não evidenciam nenhum traço de imparcialidade na conduta perpetrada pelo juiz singular.
+Na espécie, a fundamentação desenvolvida pelo juiz para deferir o pleito liminar reintegratório, ao cotejo dos fatos e das provas produzidas no feito, não tem o condão de macular sua imparcialidade, evidenciando tão-somente seu convencimento a respeito da situação exposta em juízo. Ora, o fato de o magistrado ter adotado certa postura técnica-jurídica em relação às demandas que apresentam o mesmo contorno fático não coloca em dúvida sua isenção, pelo contrário, demonstra coerência em seus posicionamentos.
+Ademais, a prolação de decisão contrária à pretensão da parte não configura, por si só, suspeita de parcialidade. Isso porque, para se caracterizar a parcialidade do julgador, é necessário que, além da prolação de decisão adversa ao interesse da parte, tenha ele praticado atos passíveis de suspeição, tais quais os previstos no art. 135 do CPC.
+ ..
+Diante de tais considerações, REJEITO A EXCEÇÃO DE SUSPEIÇÃO, determinando-se o arquivamento dos autos.
+Como se vê, em face das premissas fáticas assentadas no acórdão objurgado, a modificação do entendimento firmado pelas Instâncias ordinárias - no sentido da ausência da configuração do impedimento do julgador - demandaria, induvidosamente, o reexame de todo material cognitivo produzido nos autos, desiderato incompatível com a via especial, a teor da Súmula n. 7 do STJ.
+Nessa linha de raciocínio, confiram-se precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. EXCEÇÃO DE SUSPEIÇÃO. ALEGAÇÃO GENÉRICA EM RELAÇÃO À AUSÊNCIA DE PRESTAÇÃO JURISDICIONAL E À VIOLAÇÃO À LEI 8.906/1994. A DEFICIÊNCIA NA FUNDAMENTAÇÃO ATRAI O ÓBICE DA SÚMULA 284/STF. É VEDADA A ANÁLISE DE OFENSA A DISPOSITIVOS CONSTITUCIONAIS EM SEDE DE RECURSO ESPECIAL. USURPAÇÃO DE COMPETÊNCIA DO STF. IMPOSSIBILIDADE DE ALTERAÇÃO DO JULGADO QUANTO À AUSÊNCIA DE COMPROVAÇÃO DA SUSPEIÇÃO. NECESSIDADE DE REEXAME DE PROVAS. AGRAVO REGIMENTAL DO PARTICULAR DESPROVIDO.
+ ..
+5. A alteração da conclusão da Corte de origem quanto à ausência de comprovação de suspeição demandaria inafastável incursão na seara fática dos autos, o que é inviável em sede de Recurso Especial.
+6. Agravo Regimental do particular desprovido. (AgRg no AREsp 276.901/MG, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 28/03/2017, DJe 05/04/2017)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE SUSPEIÇÃO. VIOLAÇÃO DO ART. 535 DO CPC/1973. INEXISTÊNCIA. REVISÃO. SÚMULA 7/STJ.
+ ..
+3. Rever o entendimento da instância ordinária, no tocante à ausência de comprovação da suspeição do magistrado de piso, implica o imprescindível reexame das provas constantes dos autos, o que é defeso em recurso especial, ante o que preceitua a Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+4. Agravo interno a que se nega provimento. (AgInt nos EDcl no AREsp 1151994/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 20/03/2018, DJe 23/03/2018)
+Por fim, "este Tribunal tem entendimento no sentido de que a incidência do enunciado n. 7 desta Corte impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa" (AgInt no AREsp 398.256/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 10/03/2017).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
