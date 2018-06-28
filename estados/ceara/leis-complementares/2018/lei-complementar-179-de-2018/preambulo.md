@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR N.º 179, DE 28.06.18 (D.O. 28.06.18)
+ALTERA DISPOSITIVOS DA LEI COMPLEMENTAR Nº 58, DE 31 DE MARÇO DE 2006, DA LEI N.º 11.966, DE 17 DE JUNHO DE 1992.
+O GOVERNADOR DO ESTADO DO CEARÁ.
+Faço saber que a Assembleia Legislativa decretou e eu sanciono a seguinte Lei:
