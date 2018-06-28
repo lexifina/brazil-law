@@ -1,0 +1,25 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO POSSESSÓRIA. CONTRATO DE COMODATO. 1. FATO CONSTITUTIVO DO DIREITO NÃO DEMONSTRADO. ALTERAÇÃO. SÚMULA N. 7 DO STJ. 2. ARTS. 430 E 433 DO NCPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. 3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Cuida-se de agravo interposto por Sotobras Sociedade Técnica de Obras Ltda - EPP desafiando decisão do Tribunal de Justiça de São Paulo que não admitiu o processamento do recurso especial, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, em acórdão assim ementado (e-STJ, fl. 355):
+AÇÃO POSSESSÓRIA - REINTEGRAÇÃO - COMODATO SUPOSTAMENTE FIRMADO COM OS ASCENDENTES JÁ FALECIDOS DO RÉU, DE QUE SERIA ORIUNDA SUA OCUPAÇÃO - FATO CONSTITUTIVO DO DIREITO NÃO DEMONSTRADO - APELAÇÃO IMPROVIDA.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, a recorrente alegou ofensa aos arts. 430 e 433 do NCPC. Sustentou que o contrato de comodato é válido ante a ausência de impugnação da parte contrária. Pontuou que, para a declaração de falsidade ou veracidade do documento questionado em juízo, são imprescindíveis a colheita de provas, o exercício da ampla defesa e contraditório, a publicidade das conclusões apresentadas por perícia técnica e a decisão judicial dotada de exauriente fundamentação, o que não ocorreu no caso concreto.
+Foram apresentadas contrarrazões (e-STJ, fls. 376-381).
+O Tribunal local inadmitiu o processamento do recurso especial pela ausência de demonstração de ofensa aos dispositivos mencionados nas razões recursais.
+Irresignada, a recorrente interpõe agravo refutando o óbice apontado pela Corte estadual.
+Sem contraminuta (e-STJ, fl. 401).
+Brevemente relatado, decido.
+Inicialmente, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado n. 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O Tribunal estadual, ao dirimir a controvérsia, concluiu pela inexistência de provas do fato constitutivo do direito da autora, conforme se colhe dos excertos do aresto recorrido (e-STJ, fls. 355-356):
+Diga-se para logo não se revestir a sentença dos vícios a que alude a apelante, pois resultou do exame da prova, e por ter observado os limites do pedido.
+É importante ressaltar que a instrução foi encerrada por decisão preclusa, após colheita de provas em audiência. Só houve interesse por prova oral, com a qual a apelante pretendia provar que a posse do réu teve origem em contrato de comodato celebrado com seus pais (fls. 239/243, 252/257).
+Todavia, como salientou o juiz, depois de minuciosa análise dos depoimentos, sobre duvidosa ter sido a anuência ao comodato, aposta mediante digitais, também não foi possível afirmar tenha o apelado sido testemunha da avença, asseverando as testemunhas que o réu já morava no imóvel antes da suposta celebração do comodato. Não bastou para infirmá-lo depoimento de testemunha que trabalha para a autora, bem como o da mulher, ouvida como informante por votar inimizade ao apelado.
+Ressalte-se não bastar no possessório o direito à posse como atributo do domínio. É preciso provar o efetivo exercício dessa posse, vale dizer, denominado direito de posse, como poder de fato sobre a coisa, que autorize defendê-la pelos interditos.
+Assim, não provado o fato constitutivo do direito, outro não poderia ter sido o veredicto, senão o de improcedência.
+Nesse contexto, reverter a conclusão do Tribunal local para acolher a pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra impossível ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. e 7 do Superior Tribunal de Justiça.
+Ademais, no que diz respeito aos arts. 430 e 433 do NCPC, verifica-se que seus conteúdos normativos não foram objeto de apreciação pelo Tribunal a quo. Com efeito, o prequestionamento, entendido como a necessidade de o tema objeto do recurso haver sido examinado pela decisão atacada, constitui exigência inafastável contida na própria previsão constitucional, ao tratar do Recurso Especial, impondo-se como um dos principais pressupostos ao seu conhecimento.
+É de salientar que não basta à parte discorrer sobre o dispositivo legal que entende afrontado. Não examinada pela instância ordinária a matéria objeto do Especial, sem que o recorrente opusesse embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados 282 e 356 da Súmula do excelso Supremo Tribunal Federal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários advocatícios em favor do advogado da parte ora recorrida em R$ 200,00 (duzentos reais).
+Publique-se.
