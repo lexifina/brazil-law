@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL, com fulcro nas alíneas a e c do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região.
+Aponta o recorrente, além de divergência jurisprudencial, violação aos arts. 127 e 129 da Constituição Federal, 82, II, 83, 84, 246 e 149 do CPC/73, 31 da Lei 8.742/93 e 70 da Lei Complementar 75/93, na medida em que o Tribunal de origem não vislumbrou "hipótese que justificasse a atuação fiscalizatória protetiva do órgão ministerial no presente caso" (fl. 153).
+Aduz que "a despeito de a autora ter pedido a concessão do benefício assistencial de prestação continuada nos termos da Lei n. 8.742/1993, o Ministério Público não foi intimado dos atos do processo no primeiro grau, o que deveria ter ensejado a declaração de nulidade do processo" (fl. 153).
+Afirma que "o fato de a requerente nos presentes autos não ser pessoa incapaz para os atos da vida civil, não afasta a necessária atuação ministerial. A hipótese legal de intervenção nesse caso não se depreende do artigo 82, I do CPC, mas sim do seu inciso III, bem como do mencionado artigo 31 da própria LOAS, já que se trata de lide cuja natureza envolve evidente interesse público, e não interesse individual e disponível, como entendeu o Tribunal a quo"(fls. 153/154).
+Relata que "houve evidente prejuízo, pois a sentença foi desfavorável à parte hipossuficiente, e, alem disso, a manifestação do órgão do Ministério Público em segundo grau não tem o condão de suprir a falta de intervenção do Parquet perante o juízo de primeira instância" (fl. 155).
+Sem contrarrazões.
+Parecer do Ministério Público pelo não provimento do recurso (fls. 186/190).
+É o relatório.
+A irresignação não merece acolhimento.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+A seguir, em recurso especial não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa aos arts. 127 e 129 da Constituição Federal,
+Quanto à questão de fundo, o Tribunal de origem, ao solucionar a controvérsia, adotou as seguintes razões de decidir (fl.114):
+Por derradeiro, insta salientar que não há que se falar em nulidade do processo, uma vez que, consoante restou comprovado nos autos, a parte autora não é idosa e tampouco incapaz, restando ausente a obrigatoriedade de intervenção do Ministério Público.
+Com efeito, a intervenção do órgão do Ministério Público é obrigatória nas situações previstas no artigo 82 do Código de Processo Civil/73, que dispõe:
+Art. 82. Compete ao Ministério Público intervir:
+I - nas causas em que há interesses de incapazes;
+II - nas causas concernentes ao estado da pessoa, pátrio poder, tutela, curatela, interdição, casamento, declaração de ausência e disposição de última vontade;
+III - nas ações que envolvam litígios coletivos pela posse da terra rural e nas demais causas em que há interesse público, evidenciado pela natureza da lide ou qualidade de parte.
+Ao que se observa da leitura do dispositivo processual acima transcrito, a intervenção do Ministério Público na lide em exame, de fato, não é de natureza obrigatória. Assim, o acórdão recorrido nada mais fez que aplicar os termos da legislação de regência, ao caso concreto.
+É de registrar, ainda, a jurisprudência desta Corte que "é firme no entendimento de que o interesse público a justificar a obrigatoriedade da participação do Ministério Público não se confunde com o mero interesse patrimonial-econômico da Fazenda Pública." (AgRg no REsp 1147550/GO, Rel. Ministro HAMILTON CARVALHIDO, PRIMEIRA TURMA, julgado em 02/09/2010, DJe 19/10/2010).
+No mesmo sentido, anotem-se os seguintes julgados:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. DIVERGÊNCIA CONFIGURADA. AÇÃO DE RESSARCIMENTO AO ERÁRIO PROPOSTA POR ENTE PÚBLICO. INTERVENÇÃO DO MINISTÉRIO PÚBLICO. DESNECESSIDADE. NULIDADE NÃO CONFIGURADA.
+1. A interpretação do art. 82, II, do CPC, à luz dos arts. 129, incisos III e IX, da Constituição da República, revela que o "interesse público" que justifica a intervenção do Ministério Público não está relacionado à simples presença de ente público na demanda nem ao seu interesse patrimonial (interesse público secundário ou interesse da Administração). Exige-se que o bem jurídico tutelado corresponda a um interesse mais amplo, com espectro coletivo (interesse público primário).
+2. A causa de pedir ressarcimento pelo ente público lesionado, considerando os limites subjetivos e objetivos da lide, prescinde da análise da ocorrência de ato de improbidade, razão pela qual não há falar em intervenção obrigatória do Ministério Público.
+3. Embargos de divergência providos para, reformando o acórdão embargado, dar provimento ao recurso especial e, em consequência, determinar que o Tribunal de origem, superada a nulidade pela não intervenção do Ministério Público, prossiga no julgamento do recurso
+de apelação.
+(EREsp 1.151.639/GO, Primeira Seção, Rel. Min. BENEDITO GONÇALVES, DJe 15/9/2014)
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. VIOLAÇÃO DO ART. 535 DO CÓDIGO DE PROCESSO CIVIL. INEXISTÊNCIA. APLICAÇÃO DO ART. 557 DO CPC. POSSIBILIDADE. QUESTÃO PATRIMONIAL. MANIFESTAÇÃO DO MINISTÉRIO PÚBLICO. NÃO OBRIGATORIEDADE.
+ ..
+4. Em relação à ausência de manifestação do Ministério Público, o Tribunal de origem decidiu que a demanda versa sobre direitos patrimoniais. Logo, desnecessária a manifestação do Parquet, uma vez que "a natureza patrimonial da ação, especialmente ligada a interesses econômicos, implica que a não intervenção do Ministério Público é insusceptível de anular todo o processo sob esse exclusivo fundamento".
+Agravo regimental improvido.
+(AgRg no AREsp 1.65.520/RJ, Segunda Turma, Rel. Min. HUMBERTO MARTINS, DJe 13/5/2014)
+Por fim, o Tribunal de origem não se manifestou sobre a alegação de que houve prejuízo, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ainda que superado referido óbice, registre-se que "a jurisprudência desta Corte já assentou entendimento no sentido de que a ausência de intimação do Ministério Público, por si só, não enseja a decretação de nulidade do julgado, a não ser que se demonstre o efetivo prejuízo para as partes ou para a apuração da verdade substancial da controvérsia jurídica, à luz do princípio pas de nullités sans grief. Até mesmo nas hipóteses em que a intervenção do Parquet é obrigatória seria necessária a demonstração de prejuízo para que se reconheça a nulidade processual (Precedentes: REsp 1.010.521/PE, Rel. Min. Sidnei Beneti, Terceira Turma, julgado em 26.10.2010, DJe 9.11.2010; REsp 814.479/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, julgado em 2.12.2010, DJe 14.12.2010)" (REsp 1199244/PI, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 27/09/2011, DJe 03/10/2011).
+Do exposto, não conheço do recurso especial.
+Publique-se.
