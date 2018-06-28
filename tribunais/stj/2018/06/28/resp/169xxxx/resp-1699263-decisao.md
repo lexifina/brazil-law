@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo ELIZABETE [NOME] com fundamento na(s) alínea(s) "a" e "c" do permissivo constitucional contra acórdão assim ementado:
+APELAÇÃO - Ação declaratória de inexigibilidade c.c. indenização por danos morais Sentença que declara inexigível a dívida, mas que afasta a indenização por dano moral - Registro de inscrições anteriores do nome da autora nos órgãos de proteção ao crédito Descabimento da indenização pleiteada - Súmula 385 do STJ - Aplicabilidade - Redação que não traz qualquer distinção entre os credores que podem promover a anotação restritiva - Sentença mantida - Recurso desprovido.
+O(a) recorrente alega, em síntese, violação dos arts. 1.022 e 489 do CPC/2015, 6º e 14 do Código de Defesa do Consumidor. Aduz a ilegitimidade das dívidas inscritas anteriormente em dívida ativa, suscitando que sentenças judiciais reconhecem a inexigibilidade do débito discutido, impondo a responsabilização objetiva e fixação de indenização por dano moral.
+Sem contrarrazões.
+Passo a decidir.
+"Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado n. 3 do Plenário do STJ).
+Isso considerando, quanto à alegada ofensa aos arts. 489, § 1º, 927, § 1º, e 1.022, parágrafo único, do CPC/2015, não se vislumbra nenhum equivoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, consoante entendimento desta Corte, o juiz não está obrigado a responder a todas as alegações das partes nem tampouco a rebater um a um todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+Na hipótese dos autos, o Tribunal a quo apreciou de forma fundamentada o pleito e reconheceu a negativação indevida da recorrente. No entanto, aplicou o enunciado da Súmula 385 do STJ, tendo em vista que a autora apresentava outras restrições ao débito em questão. Segue, no que interessa, trecho do acórdão recorrido (e-STJ fls.105/108):
+ ..
+Visa o recurso tão somente a fixação da verba indenizatória, assim como a modificação do arbitramento da sucumbência.
+De fato, restou demonstrado nos autos que a requerida negativou indevidamente o nome da autora nos órgãos de proteção ao crédito (fls. 13). Observe que não há recurso da requerida.
+Não se nega que a negativação indevida gera o dano moral passivel de indenização in re ipsa.
+Todavia, no presente caso, verifica-se que a autora apresenta outras restrições anteriores ao débito em questão, o que inviabiliza a indenização pelo dano
+moral, conforme orientação jurisprudencial consolidada na súmula 385 do STJ, assim redigida, "Da anotação irregular em cadastro de proteção ao crédito, não cabe indenização por dano moral, quando preexistente legitima inscrição, ressalvado o direito ao cancelamento".
+Importante esclarecer que o fato dessas anotações estarem sendo discutidas judicialmente, como inclusive comprovado, não implica concluir que não existam ou sejam indevidas.
+Na esteira desse entendimento, não há mesmo que se falar em condenação da apelada em indenização por danos morais como bem constou na r. sentença.
+Por fim, anote-se ainda ser infundada a tese da recorrente a respeito da extensão da aplicabilidade da Súmula, já que esta não traz qualquer distinção especifica quanto ao credor que promove a anotação do nome do devedor em cadastros de inadimplentes.
+A verba honorária não merece qualquer reparo, tendo sido fixada de acordo com os limites legais, observado o estabelecido no artigo 85, § 2o do CPC, observado ainda o artigo 98.
+De rigor, portanto, a manutenção da r. sentença que, de forma detalhada e objetiva, enfrentou os pontos controvertidos da lide, chegando a bem fundamentada conclusão de parcial procedência do pedido.
+ ..  (grifos acrescirdos)
+Dito isso, observo que a Corte de origem afastou a condenação por dano moral imposta à recorrida, tendo em vista que foi comprovada a existência de dívidas pretéritas e inscrição anterior realizada por terceiro (e-STJ fl. 105/108).
+Tal postura se coaduna com a orientação firmada nesta Corte na Súmula 385 deste Tribunal, in verbis: "Da anotação irregular em cadastro de proteção ao crédito, não cabe indenização por dano moral, quando preexistente legítima inscrição, ressalvado o direito ao cancelamento" .
+Registre-se que, muito embora a recorrente pugne pelo afastamento da aplicação da Súmula 385 do Superior Tribunal de Justiça, em razão das anotações preexistentes estarem discutidas judicialmente, isso não significa, conforme o Tribunal de origem, "que não existam ou sejam indevidas" (e-STJ fl. 108).
+Ora, dissentir da conclusão do acórdão recorrido para constatar a inexistência de negativação legítima preexistente àquela promovida pela concessionária, bem como acolher o pedido de indenização por danos morais, são providências incompatíveis com a via do recurso especial, ante o óbice inserto na Súmula 7 desta Corte (AgInt no AREsp 869.103/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 20/09/2016, DJe 03/10/2016).
+Esse óbice, registre-se, impede o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO. Aumento os honorários sucumbenciais em 10% (dez por cento) sobre o valor já fixado na origem, respeitados os limites e critérios previstos nos §§ 2º e 3º do art. 85 do CPC/2015, bem assim os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
