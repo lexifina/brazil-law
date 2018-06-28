@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — MATÉRIA FÁTICA – LEGISLAÇÃO LOCAL — INTERPRETAÇÃO — INVIABILIDADE — AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à improcedência do pedido de declaração de nulidade do exame psicológico para provimento de cargo de Policial Militar. No extraordinário cujo trânsito busca alcançar, o recorrente alega violados os artigos 5º, inciso II, 37, incisos I e II, 42, § 1º, e 142, § 3º, inciso X, da Constituição Federal. Diz contrariado o verbete vinculante nº 44 da Súmula do Supremo. Aponta a impossibilidade de a avaliação psicológica ser regulamentada por Decreto. Afirma a inaplicabilidade da Lei nº 10.261/68 aos servidores militares do Estado.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes trechos:
+    A princípio, aponta-se não haver qualquer ilegalidade em sua imposição, porquanto a Lei nº 10.261/681 (aplicável aos policiais militares de forma supletiva) prevê que os concursos públicos serão regidos por instruções especiais, as quais determinarão, em função da natureza do cargo, as condições referentes à conduta, ao tipo das provas e aos critérios de avaliação e habilitação:
+    […]
+    A análise do procedimento que culminou na eliminação do autor (f. 82/103), ainda, demonstra sua higidez, constatável da especificação pormenorizada dos critérios adotados na avaliação e das razões para reprovação, condizentes com a atividade a ser exercida e fundadas em critérios legais.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Da leitura do acórdão impugnado mediante o extraordinário depreende-se ter o Tribunal de origem julgado a apelação a partir de interpretação conferida a normas locais. Procedeu à interpretação da Lei estadual nº 10.26168. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está-se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo.
+    3. Conheço do agravo e o desprovejo. Fixo os honorários  recursais em 5% sobre o valor da causa, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015. Tendo a parte agravante litigado sob o pálio da assistência judiciária gratuita, arcará com o ônus dos  honorários caso ocorra a recuperação do poder aquisitivo no prazo de cinco anos.
+    4. Publiquem.
+Brasília, 28 de junho de 2018.
+Ministro MARCO AURÉLIO
+Relator
