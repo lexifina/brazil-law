@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fulcro nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado (e-STJ fl. 64):
+ADMINISTRATIVO. PENSÃO DE EX-COMBATENTE. FILHA MAIOR. APLICAÇÃO DA NORMA VIGENTE À ÉPOCA DO ÓBITO DO INSTITUIDOR DO BENEFÍCIO. LEI N. 5.698/71. IMPOSSIBILIDADE.
+I. Para regular o direito à pensão por morte, adota-se a lei vigente à época do óbito de ex-combatente.
+II. Com a vigência da Lei 5698/71, a pensão especial de ex-combatente passou a ser regida de acordo com o Regime Geral da Previdência, não mais se aplicando as leis de pensão especial de militar (Lei 3765/60 e Lei 4242/63), que somente contempla os filhos menores, inválidos ou interditos.
+lII. No caso, o ex-combatente faleceu em 27 de junho de 1986, aplicando-se ao caso as disposições da Lei nº 5698/71.
+IV. Inexistência de direito a concessão da pensão de ex-combatente à filha maior, nos termos da Lei nº 5698/71.
+V. Apelação improvida.
+Nas suas razões, o recorrente alega que o acórdão impugnado tratou de matéria estranha aos autos, pois considerou que se tratava de benefício a ser pago pelo INSS ao adotar como fundamento as disposições das Leis ns. 5.698/1971 e 3.807/1960. Contudo, o pleito autoral cinge-se à pensão por morte de ex-combatente a cargo da União, nos termos do art. 7º, II, da Lei n. 3.765/1960, que permitia a concessão além dos 21 anos a filha não inválida de qualquer condição.
+Segundo aduz, "no caso dos autos, o genitor da recorrente, instituidor do beneficio pleiteado, faleceu em 27/06/1986, sendo evidente a aplicação da Lei 3.765/60, garantindo à recorrente o recebimento da pensão especial retroativa aos cinco anos anteriores do ajuizamento da ação, nos termos do art. 28 da mesma lei" (e-STJ fl. 72).
+Contrarrazões apresentadas, nas quais o INSS menciona que (e-STJ fl. 96):
+ ..  dois são os processos que seguem distribuídos por dependência em razão do despacho de fl. 24, o de nº 2008.84.01.000370-9, protocolado em 14.03.2008 e interposto em face da União Federal e o de nº 2008.84.01.000427-1, protocolado em 2.4.2008 e interposto em face do Instituto Nacional de Seguro Social - INSS requerendo a concessão do benefício de Pensão por morte de ex-combatente à autora, filha maior e capaz, desde o óbito do segurado, ocorrido em 27.10.1998.
+  desta decisão que o ora pleiteante deveria recorrer, demonstrando efetivamente a comprovação de violações a dispositivos infraconstitucionais, e não apenas citando aleatoriamente artigos legais
+Passo a decidir.
+De início, registro que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feito tal esclarecimento, verifico que a presente ação de concessão de pensão por morte de ex-combatente foi proposta contra o INSTITUTO NACIONAL DO SEGURO SOCIAL, com base nas Leis ns. 5.315/1967 c/c a Lei n. 1.756/1952 (e-STJ fls. 2/6).
+Por conseguinte, o Tribunal de origem, ao manter a sentença de improcedência, consignou que a pensão relativa a segurado falecido em 27/06/1986 seria regida pela Lei n. 5.698/1971, regulamentada pela Lei n. 3.807/1960, que autorizavam a pensão apenas aos "filhos menores, inválidos ou interditos" (e-STJ fls. 61/62).
+Dessa forma, as razões do presente especial não condizem com a realidade processual, diante da incoerência com o próprio pedido, motivo pelo qual se verifica a deficiência de fundamentação, diante da ausência de pertinência temática com a demanda em apreço. Incidência do óbice da Súmula 284 do Supremo Tribunal Federal.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. OFENSA AO ART. 530 DO CPC. AUSÊNCIA DE PERTINÊNCIA TEMÁTICA. ARTS. 128 E 460 DO CPC. AUSÊNCIA DE OFENSA AO PRINCÍPIO DA CONGRUÊNCIA. APOSENTADO. MANUTENÇÃO NAS MESMAS CONDIÇÕES DE COBERTURA EXISTENTES QUANDO DA VIGÊNCIA DO CONTRATO DE TRABALHO. ALEGAÇÃO DE OFENSA A RESOLUÇÕES. INVIABILIDADE DA ABERTURA DA INSTÂNCIA ESPECIAL. AGRAVO IMPROVIDO.
+1. É firme a jurisprudência desta Corte no sentido de que "a impertinência do dispositivo legal apontado como violado, no sentido de ser incapaz de infirmar o aresto recorrido, revela a deficiência das razões do recurso especial, fazendo incidir a Súmula 284 do STF" (STJ, AgRg no AREsp 144.399/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 18/6/2012).
+2. De acordo com a jurisprudência do STJ, não há ofensa ao princípio da congruência ou da adstrição quando o juiz promove uma interpretação lógico-sistemática dos pedidos deduzidos, mesmo que não expressamente formulados pela parte autora.
+3. Ao ex-empregado e a seus dependentes deve ser assegurada a manutenção no plano de saúde coletivo, nas mesmas condições que gozavam quando da vigência do contrato de trabalho, desde que assumam o pagamento integral da contribuição, a qual poderá variar conforme as alterações promovidas no plano paradigma, sempre em paridade com o que a ex-empregadora tiver que custear.
+4. O recurso especial não constitui via adequada para a análise de eventual ofensa a resolução, tendo em vista que tal ato normativo não está compreendido na expressão "lei federal", constante da alínea a do inciso III do art. 105 da Constituição Federal.
+5. Agravo interno a que se nega provimento.
+(AgRg no AREsp 546.537/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 13/10/2015, DJe 04/11/2015) (Grifos acrescidos).
+Por fim, não haverá majoração de honorários recursais, por se tratar de pleito deduzido na vigência do Código de Processo Civil de 1973.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
