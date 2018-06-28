@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com amparo no art. 105, III, "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"LATROCÍNIO TENTADO - materialidade - prova oral confirmando que se tentou subtrair a motocicleta da vítima mediante grave ameaça e violência exercidas mediante disparo de arma de fogo - animus necandi, comprovando que se almejava a morte, que não se deu por circunstâncias alheias à vontade dos criminosos, já que o ofendido, policial, reagiu - desclassificação para roubo majorado que não se mostra possível.
+LATROCÍNIO TENTADO - autoria - [NOME] - admissão da responsabilidade na fase extrajudicial corroborada pelo restante da prova colhida em juízo - Jonathan - chamamento de [NOME] em relação a ele - apreensão de documentos seus na jaqueta usada por [NOME] quando do roubo - confirmação em juízo do chamamento efetuado - testemunhas de defesa que embora tentem criar um álibi, não são aptas a ilidir a responsabilidade de Jonathan - determinação para que se apure suposto falso testemunho praticado por Tamiris.
+PENAS - primeira fase - circunstâncias desfavoráveis para ambos - aumento da pena base - segunda fase - menoridade - terceira fase - tentativa - aumento da redução aplicada.
+REGIME - inicial fechado - mantença - dado provimento parcial ao recurso defensivo e dado provimento ao recurso ministerial para condenar o acusado Jonathan e aumentar a pena de [NOME]." (e-STJ, fl. 326).
+Nas razões recursais, a defesa sustenta que "atentando-se à prova dos autos, notadamente aos documentos que espelha a conduta realmente praticada pelo recorrente, mostra-se absolutamente imperiosa a reforma do v. acordão com a efetiva absolvição do recorrente." (e-STJ, fl. 370).
+Contrarrazões apresentadas (e-STJ, fls. 377-389).
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ, fl. 471).
+É o relatório.
+Decido.
+O recurso não merece ser conhecido.
+Anote-se que "o recurso especial interposto com fulcro no art. 105, inciso III, alínea c, da Constituição Federal exige a demonstração do dissídio jurisprudencial, através da realização do indispensável cotejo analítico, para demonstrar a similitude fática entre o v. acórdão recorrido e o eventual paradigma (arts. 541, parágrafo único, do CPC e 255, § 2º, do RISTJ)" (AgRg no AREsp 764.035/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 10/12/2015, DJe 16/12/2015).
+No caso, o recorrente não demonstrou, de maneira satisfatória, os elementos fáticos e jurídicos que aproximam e assemelham o acórdão paradigma à hipótese dos autos. Não houve, nas razões recursais, uma abordagem analítica do acórdão paradigma, tampouco demonstração da forma que o acórdão impugnado destoa do decisum cujo entendimento o recorrente visa prevalecer.
+Ainda que assim não fosse, destaque-se que a parte recorrente, nada obstante argumentar que o recorrente merece ser absolvido, não demonstra qual dispositivo da legislação federal foi violado pelo decisum impugnado.
+De fato, há trechos no especial em que há citação a artigos de norma federal. Entretanto, em momento nenhum há demonstração de que modo tais dispositivos foram afrontados pelo Tribunal local. Na verdade, o recurso apresentou-se com a formalidade exigida de uma apelação, e não de um recurso de natureza extraordinária.
+Com efeito, torna-se imperioso salientar que este Superior Tribunal de Justiça tem a função primordial, por meio do recurso especial, de uniformizar a interpretação e aplicação do direito federal infraconstitucional. Dessa forma, o conhecimento do recurso, seja ele interposto pela alínea "a", seja ele interposto pela alínea "c", do permissivo constitucional, exige, necessariamente, a indicação do dispositivo de lei federal que se entende por contrariado.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL TIDO POR VIOLADO. INCIDÊNCIA DA SÚMULA N. 284 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O conhecimento do recurso especial, seja ele interposto pela alínea "a" ou pela alínea "c" do permissivo constitucional, exige, necessariamente, a indicação do dispositivo de lei federal que se entende por contrariado.
+2. Verificado que o recorrente deixou de indicar, expressamente, qual dispositivo de lei federal foi objeto de violação, não há como conhecer do recurso especial, nos termos da Súmula n. 284 do STF.
+3. Agravo regimental não provido." (AgRg no AREsp 607.625/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 09/06/2015, DJe 22/06/2015)
+"RECURSO ESPECIAL. PENAL E PROCESSO PENAL. ANÁLISE DE OFENSA A DISPOSITIVO CONSTITUCIONAL. USURPAÇÃO DA COMPETÊNCIA DO PRETÓRIO EXCELSO. OMISSÃO NO ACÓRDÃO DO TRIBUNAL A QUO. INEXISTÊNCIA. INTIMAÇÃO PARA SUSTENTAÇÃO ORAL. QUESTÃO SURGIDA NO JULGAMENTO DOS EMBARGOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. RECEBIMENTO DA DENÚNCIA. FUNDAMENTAÇÃO. SUFICIÊNCIA DA PROVA PARA EMBASAR A DENUNCIA. SÚMULA 7/STJ. ADITAMENTO. REGULARIDADE. QUEBRA DO SIGILO BANCÁRIO. VALIDADE. PODERES INVESTIGATÓRIOS DO MINISTÉRIO PÚBLICO. RECURSO EXTRAORDINÁRIO Nº 593.727. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. RECURSO COM FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+(..)
+9. A falta de indicação do dispositivo de lei federal a que os acórdãos teriam conferido interpretação divergente evidencia deficiência na fundamentação recursal que impede o conhecimento do recurso especial ante à incidência do enunciado 284 da súmula do Supremo Tribunal Federal.
+10. Recurso improvido." (REsp 1.525.437/PR, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 03/03/2016, DJe 10/03/2016)
+Portanto, na espécie, incide o óbice da Súmula 284/STF.
+Por fim, para se verificar elementos aptos a ensejar a absolvição do ora recorrente, seria necessário, invariavelmente, o revolvimento do suporte fático-probatório dos autos, o que é vedado em sede de recurso especial, a teor do enunciado sumular n. 7 deste Superior Tribunal de Justiça.
+Nesse sentido, confiram-se:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ABSOLVIÇÃO EM SEDE DE APELAÇÃO. ART. 386, VII, DO CPP. PLEITO DE CONDENAÇÃO. NECESSIDADE DE REEXAME DO ACERVO PROBATÓRIO. VEDAÇÃO DA SÚMULA 7 DO STJ.
+ ..
+2. Hipótese, porém, em que a absolvição do agravado se deu em razão da inexistência de suporte probatório mínimo para embasar o édito condenatório, pois, segundo o acórdão recorrido, nem os policiais que efetivaram a prisão foram categóricos em afirmar que o ora recorrido era o proprietário das substâncias ilícitas apreendidas e tinha a intenção de vendê-las.
+3. A pretensão de restabelecer a sentença condenatória, mediante a valoração da prova testemunhal dos policiais que efetuaram a prisão do réu - considerada insuficiente pelo Tribunal de origem -, demandaria reexame de prova, incabível em sede de recurso especial, nos termos da Súmula 7 deste Tribunal.
+4. Agravo regimental a que se nega provimento." (AgRg no AREsp 681.902/RS, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, DJe 03/08/2015).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do Regimento Interno do STJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
