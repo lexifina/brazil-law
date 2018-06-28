@@ -1,0 +1,34 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. ESTELIONATO PREVIDENCIÁRIO. ART. 171, § 3º, DO CP. ALEGAÇÃO DE OCORRÊNCIA DE PRESCRIÇÃO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL SUPOSTAMENTE VIOLADO. RAZÕES DEFICIENTES. SÚMULA 284/STF. FALTA DE PREQUESTIONAMENTO QUANTO AO RECONHECIMENTO DA PRESCRIÇÃO.
+Agravo conhecido para não conhecer de recurso especial.
+DECISÃO
+Trata-se de agravo de [NOME] contra decisão de inadmissão de recurso especial, este interposto contra acórdão proferido na apelação criminal n. 0005097-32.2013.4.03.6102/SP (2013.61.02.005097-1/SP) pela Décima Primeira Turma do Tribunal Regional Federal da 3ª Região que negou provimento ao seu apelo, mas, de ofício, afastou a continuidade delitiva, redimensionando sua pena a 1 ano, 3 meses e 16 dias de reclusão, em regime aberto, e 13 dias-multa, pela prática de conduta descrita no art. 171, § 3º, do Código Penal, conforme termos da seguinte ementa (fls. 298/299):
+PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. ESTELIONATO MAJORADO. MEIO EMPREGADO. USO DE DOCUMENTO FALSO. PRINCÍPIO DA INSIGNIFICÂNCIA INAPLICABILIDADE. DOSIMETRIA DA PENA.
+1. Afastada a tese da defesa de que a conduta do apelante seria mero ato preparatório do núcleo do tipo. O crime de falso foi o meio ardiloso utilizado para a perpetração do delito de estelionato, visando ao recebimento indevido da vantagem por parte dos beneficiários, no caso, seu cônjuge e filhos menores.
+2. O núcleo do tipo penal descrito no art. 171 do Código Penal prevê a conduta de "obter, para si ou para outrem, vantagem indevida", de modo que a obtenção indevida das parcelas do benefício de auxílio-reclusão, ainda que por parte de terceiros beneficiários, caracteriza a conduta típica, visto que o apelante se utilizou de meio fraudulento para tanto.
+3. O princípio da insignificância não é cabível quando se trata de estelionato praticado contra entidade de direito público porque há um alto grau de reprovabil idade na conduta do agente, que atinge a coletividade como um todo. Precedentes.
+4. Mantida a fixação da pena-base acima do mínimo legal, em razão dos maus antecedentes do acusado.
+5. O estelionato previdenciário praticado pelo apelante mostra-se incompatível com a figura da continuidade delitiva, isso porque a execução do crime se protraiu no tempo, por 14 (catorze) meses, enquanto perdurou o recebimento das parcelas do benefício. Afastada, de ofício, a incidência da causa de aumento de pena prevista no art. 71 do Código Penal.
+6. Pena de multa redimensionada. de oficio, de forma proporcional à pena privativa de liberdade. Precedentes.
+7. Mantido o regime aberto para início do cumprimento da pena.
+8. Impossibilidade de substituição da pena privativa de liberdade por restritivas de direitos em razão das condições pessoais do acusado (CP, art. 44; III).
+9. Apelação da defesa desprovida.
+O recorrente interpôs recurso especial, no qual alega, em síntese, que teria decorrido a prescrição, nos termos do art. 110, § 1º, do Código Penal. Considerando a pena aplicada, o lapso seria de 4 anos, conforme art. 109, V, do Código Penal. O estelionato previdenciário praticado em benefício de terceiros teria como marco inicial a data do recebimento da primeira parcela do benefício. Assim, seria possível verificar a ocorrência de prescrição entre o recebimento da primeira parcela do benefício (novembro de 2006 no primeiro período e dezembro de 2008 no segundo período) e o recebimento da denúncia (19 de julho de 2013).
+Caso não acolhido o pleito, requer a aplicação do princípio da insignificância sobre o fato pelo qual foi denunciado e, consequentemente, a atipicidade do fato ora julgado. A lesão teria sido de ínfima monta, resultando em vantagem patrimonial de R$ 9.440,99. Baseando-se no art. 20 da Lei n. 10.522/2002, o Supremo Tribunal Federal estaria considerando insignificantes os valores de até R$ 10.000,00 (fls. 306/316).
+Contrarrazões às fls. 328/346.
+O Tribunal local afastou a ocorrência da prescrição e obstou o recurso por estar o acórdão em consonância com a jurisprudência do Superior Tribunal de Justiça (fls. 349/354).
+O recorrente aviou, então, o presente agravo, no qual aduz, em suma, que não teria sido beneficiário do pagamento indevido, devendo ser considerado como marco inicial para a contagem do prazo prescricional a data do recebimento da primeira parcela do benefício, não a última. Afirma ser o terceiro que concorreu para a prática do delito, o que teria sido corroborado pela exclusão da continuidade delitiva. Acresce não existir súmula no sentido da inaplicabilidade do princípio da insignificância ao crime de estelionato no recebimento indevido de benefício previdenciário, não havendo falar na existência de entendimento pacificado neste Tribunal (fls. 357/362).
+Contrarrazões ao agravo em recurso especial às fls. 366/372.
+O Ministério Público Federal opina pelo improvimento do agravo, dada a consonância do acórdão com a jurisprudência do Superior Tribunal de Justiça e a necessidade de reexaminar provas (fls. 383/389).
+É o relatório.
+O presente agravo deve ser conhecido, já que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+Passando ao recurso especial, quanto à alegação de prescrição, bem como quanto ao pedido de aplicação do princípio da insignificância, não houve indicação, em suas razões recursais, dos dispositivos legais supostamente violados, sobejando patente a deficiência na fundamentação do recurso especial, que exige a indicação do dispositivo tido por vulnerado.
+Desse modo, inviável o conhecimento do recurso, dada a incidência da Súmula 284/STF, por analogia.
+Destaque-se que o pedido de reconhecimento da prescrição não foi objeto de deliberação no acórdão, que delimita a matéria impugnável via recurso especial. Sobre esse ponto, assim, ausente também o prequestionamento.
+Em relação à aplicação do princípio da insignificância, esse Superior Tribunal de Justiça já assentou ser inaplicável tal postulado ao delito de estelionato previdenciário, art. 171, § 3º, do Código Penal (cf. RHC n. 56.754/RS, Ministro Nefi Cordeiro, Sexta Turma, DJe 12/5/2016).
+Desse modo, ainda que fosse conhecido, tal pleito não prosperaria, diante da posição do Superior Tribunal de Justiça sobre o tema.
+Apenas por se tratar de matéria de ordem pública, faz-se necessário afastar a ocorrência da prescrição.
+Conforme assentado na decisão de admissibilidade, a data da percepção da última parcela do benefício foi o dia 4/1/2010 (fl. 112 do apenso 1). Entre esse marco e o recebimento da denúncia, 19/7/2013 (fls. 11/112) não transcorreu prazo superior a 4 anos, nos termos do art. 109, V, do Código Penal.
+Por tal razão, permanece hígida a pretensão punitiva estatal.
+Ante o exposto, com fulcro nos arts. 932 do Código de Processo Civil e arts. 34, XVIII, e 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do seu recurso especial.
+Publique-se.
