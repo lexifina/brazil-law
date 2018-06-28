@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. AUSÊNCIA DE CITAÇÃO. PREJUÍZO NÃO DEMONSTRADO. DEFESA PRÉVIA APRESENTADA. DESCLASSIFICAÇÃO DO DELITO DE TRÁFICO PARA O DE USO DE DROGAS. IMPOSSIBILIDADE. REGIME INICIAL FECHADO PARA CUMPRIMENTO DA PENA. MANTIDO. REINCIDÊNCIA. PROVIMENTO NEGADO. 1- É inviável a declaração de nulidade por ausência de citação pessoal, apresentada apenas em sede recursal, se a defesa não demonstra qualquer prejuízo sofrido, especialmente se resta evidenciado que o Apelante tomou pleno conhecimento dos termos da denúncia, tendo apresentado defesa prévia e comparecido a todos os atos processuais, acompanhado por Defensor Público. 2- A destinação mercantil da droga foi corroborada pelos depoimentos dos policiais que efetuaram a prisão e pelas próprias circunstâncias do fato, que indicam que a droga apreendida era destinada ao tráfico. 3- O valor do depoimento testemunhal dos policiais, prestado em juízo, possui plena eficácia probatória, sobretudo, quando não há sequer indício de que estivessem faltando com a verdade, tampouco obtendo vantagem ou motivação escusa, no intuito de prejudicar o Réu. 4- Não há razão para alterar a imposição do regime fechado, para cumprimento inicial da pena, pois, guarda consonância com o contido no artigo 33, § 2º, alínea " a", do Código Penal, aliado ao artigo 42, da Lei 11.343/2006, sobretudo, por conta da reincidência do Réu, o qual demonstrou que a pena anteriormente aplicada não foi suficiente para sensibilizá-lo e impulsioná-lo ao caminho da ressocialização. 5- Provimento negado.
+Sustenta a defesa ofensa ao art. 33, § 2º, c, do CP, alegando que todas as circunstâncias judiciais do recorrente são favoráveis, razão pela qual deve ser fixado o regime prisional semiaberto.
+Requer, assim, a reforma o acórdão recorrido, a fim de que seja fixado o regime semiaberto.
+Contrarrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo improvimento do recurso.
+É o relatório.
+Decido.
+O recorrente foi condenado, pela prática do crime de tráfico de drogas, à pena de 5 anos e 6 meses de reclusão, em regime inicial fechado.
+No que concerne à imposição do regime inicial fechado, trago à colação o seguinte excerto extraído do acórdão recorrido:
+Por fim, não vejo razão para alterar a imposição do regime fechado para cumprimento inicial da pena, pois, guarda consonância com o contido no artigo 33, § 2º, alínea "a", do Código Penal, aliado ao artigo 42, da Lei 11.343/2006, sobretudo, por conta da reincidência do Réu, o qual demonstrou que a pena anteriormente aplicada não foi suficiente para sensibilizá-lo e impulsioná-lo ao caminho da ressocialização.
+Como visto na espécie, denota-se que traz o acórdão recorrido fundamento concreto para o regime mais gravoso, consistente na reincidência (específica) do ora recorrente.
+Com efeito, nos termos do entendimento firmado pelo STJ, a reincidência constitui fundamento idôneo a justificar a imposição do regime mais severo, inexistindo, portanto, ilegalidade a ser sanada. Nesse sentido:
+HABEAS CORPUS. TENTATIVA DE HOMICÍDIO QUALIFICADO. CONDENAÇÃO. IMPETRAÇÃO POSTERIOR AO ADEQUADO RECURSO ESPECIAL. IMPROPRIEDADE DA VIA ELEITA. PENA SUPERIOR A QUATRO ANOS. REINCIDÊNCIA. REGIME PRISIONAL FECHADO. BIS IN IDEM. INOCORRÊNCIA. NÃO CONHECIMENTO.
+1. Tratando-se de habeas corpus posterior ao adequado recurso especial, inviável o seu conhecimento.
+2. Condenado o paciente à pena de 5 anos e 4 meses de reclusão, e diante da reincidência, não é possível fixar regime inicial diverso do fechado, nos temos do art. 33, § 2º, alínea "b", do Código Penal.
+3. Não há falar em bis in idem em razão utilização da reincidência para agravar a pena e para fixar o regime prisional mais gravoso.
+4. Habeas corpus não conhecido.
+(HC 313.288/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 04/08/2015, DJe 17/08/2015 - grifos).
+PENAL E PROCESSUAL. HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO DE DROGAS. RECONHECIMENTO DE QUE O ENTORPECENTE SE DESTINA A CONSUMO PRÓPRIO. IMPOSSIBILIDADE. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. PENA SUPERIOR A 4 ANOS. REINCIDÊNCIA. REGIME MAIS GRAVOSO JUSTIFICADO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+1. A jurisprudência do Superior Tribunal de Justiça, acompanhando a orientação da Primeira Turma do Supremo Tribunal Federal, firmou-se no sentido de que o habeas corpus não pode ser utilizado como substituto de recurso próprio, sob pena de desvirtuar a finalidade dessa garantia constitucional, exceto quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. O habeas corpus constitui-se meio impróprio para apreciar a alegação de ausência de provas suficientes para a condenação do paciente ou a pretendida desclassificação para outro crime.
+3. A teor do disposto no art. 33, § 2º, "b", do CP, o réu reincidente, condenado a pena superior a 4 anos de reclusão e não excedente a 8 anos, deverá, desde o princípio, cumprir a pena no regime inicial fechado, mesmo se favoráveis as circunstâncias do art. 59 do Código Penal.
+4. No caso, embora fixada a sanção em patamar equivalente à aplicação do regime intermediário (5 anos e 10 meses), a adoção do regime fechado para cumprimento inicial da pena justifica-se pela reincidência delitiva.
+5. Habeas corpus não conhecido. (HC 304.796/SP, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 09/06/2015, DJe 19/06/2015 - grifos).
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
