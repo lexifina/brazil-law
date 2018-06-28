@@ -1,0 +1,16 @@
+DECISÃO
+Vistos.
+Cuida-se de Reclamação ajuizada por SHEILA SOUZA BEZERRA, com fundamento no art. 105, I, f, da Constituição da República, e na Resolução STJ n. 03/2016, contra decisão da 4ª Turma Recursal - Fazenda Pública, do Tribunal de Justiça do Estado de São Paulo, proferida em sede de julgamento de recurso inominado, assim ementada (fl. 80e):
+RECURSO INOMINADO - POLICIAL MILITAR. Soldado temporário - Contratação realizada nos termos da Lei Federal nº 10.029/2000 e Lei Estadual nº 11.064/2002 - R. sentença que reconheceu a prescrição do fundo de direito - Desligamento do serviço que ocorreu em julho de 2008 - Ação ajuizada em maio de 2016. Aplicação do artigo 1º do Decreto nº 20.910/32. Ausência
+de recolhimento da contribuição previdenciária. Impossibilidade de declaração e contagem do tempo de serviço para "todos os fins" - Recurso improvido.
+A Reclamante sustenta, em apertada síntese, não restar consumada a prescrição de sua pretensão, porquanto esta seria meramente declaratória.
+Requer, nesse contexto, a procedência da presente Reclamação, de modo a prevalecer a jurisprudência firmada nesta Corte.
+À fl. 112e, o Exmo. Min. Humberto Martins, na qualidade de Vice-Presidente desta Corte, deferiu o pedido de gratuidade da justiça, bem como requisitou informações à autoridade reclamada.
+Por sua vez, em ofício constante das fls. 116/117e, a autoridade reclamada informa terem sido "dois foram os fundamentos para a manutenção da improcedência do pedido da autora reclamante, certo que não se trata de mero pedido de declaração, mas de pretensão que gera efeitos obrigacionais de natureza patrimonial conta a Fazenda do Estado de São Paulo, mormente diante da falta de recolhimento de qualquer contribuição previdenciária nos casos de policiais militares temporários (ou voluntários), como é o caso da autora reclamante, contratados sem concurso público".
+É o relatório. Decido.
+Nos termos da Resolução STJ n. 03/2016, não compete a esta Corte o julgamento das Reclamações destinadas a dirimir divergência entre acórdão prolatado por Turma Recursal Estadual e do Distrito Federal e a jurisprudência do Superior Tribunal de Justiça:
+Art. 1º Caberá às Câmaras Reunidas ou à Seção Especializada dos Tribunais de Justiça a competência para processar e julgar as Reclamações destinadas a dirimir divergência entre acórdão prolatado por Turma Recursal Estadual e do Distrito Federal e a jurisprudência do Superior Tribunal de Justiça, consolidada em incidente de assunção de competência e de resolução de demandas repetitivas, em julgamento de recurso especial repetitivo e em enunciados das Súmulas do STJ, bem como para garantir a observância de precedentes (destaque meu).
+Manejada a presente reclamação já na vigência desse novo regramento, de rigor o encaminhamento dos autos ao tribunal competente.
+Nesse sentido as seguintes decisões monocráticas: Rcl 032764, Rel. Min. Assusete Magalhães, DJe de 18.10.2016; Rcl 032765, Rel. Min. Benedito Gonçalves, DJe de 14.10.2016; Rcl 032767, Rel. Min. Og Fernandes, DJe de 10.10.2016; e Rcl 032769, Rel. Min. Sérgio Kukina, DJe de 07.10.2016.
+Isto posto, nos termos do art. 34, XVIII do RISTJ, NÃO CONHEÇO da reclamação e, nos termos do art. 64, § 3º, do Código de Processo Civil de 2015 e DETERMINO a remessa dos autos ao Tribunal de Justiça do Estado de São Paulo.
+Publique-se e intime-se.
