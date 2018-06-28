@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto em face de decisão que inadmitiu recurso especial defensivo com fundamento na Súmula 83/STJ.
+Nas razões recursais, com fulcro no art. 105, III, a, da Constituição Federal, alega a defesa contrariedade aos arts. 33, § 2º e 59, ambos do Código Penal.
+Sustenta serem inidôneos os fundamentos utilizados pelo Tribunal para a valoração negativa das circunstâncias e consequências do crime, bem como a fixação de regime inicial mais gravoso, apesar da primariedade e dos bons antecedentes do recorrente.
+Requer o estabelecimento da pena-base no mínimo legal e a fixação de regime inicial semiaberto.
+Apresentada contraminuta, manifestou-se o Ministério Público Federal pelo não provimento do recurso especial.
+É o relatório.
+Decido.
+O agravante fora condenado à pena de 7 anos e 11 meses de reclusão, a ser cumprida inicialmente em regime fechado, como incurso no art. 121, caput, do Código Penal.
+Quanto ao pleito pela revisão da dosimetria, é assente, nesta Corte, o entendimento segundo o qual não se presta o recurso especial à revisão da dosimetria realizada pela instância ordinária, cabendo tão somente sua alteração em caso de ilegalidade ou arbitrariedade flagrante, inobservância dos ditames previstos no art. 59, CP ou ofensa ao princípio da proporcionalidade, por ser uma atividade discricionária da instância ordinária. Nesse sentido, confira-se:
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. TRIBUNAL DO JÚRI. ALEGADA VIOLAÇÃO AO ART. 619 DO CPP. AUSÊNCIA DE OMISSÃO. NULIDADE. INDEFERIMENTO DE JUNTADA DE DOCUMENTO. AUSÊNCIA DE DEMONSTRAÇÃO DO PREJUÍZO. NULIDADE. FORMULAÇÃO DE QUESITO. PRECLUSÃO. SOBERANIA DO VEREDICTO. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DO COTEJO ANALÍTICO. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. ART. 59 DO CÓDIGO PENAL. CIRCUNSTÂNCIA JUDICIAL NEGATIVA. CULPABILIDADE FUNDAMENTAÇÃO IDÔNEA.
+ ..
+IV - A dosimetria da pena, quando imposta com base em elementos concretos e observados os limites da discricionariedade vinculada atribuída ao magistrado sentenciante, impede a revisão da reprimenda por esta Corte Superior, exceto se for constatada evidente desproporcionalidade entre o delito e a pena imposta, hipótese em que caberá a reapreciação para a correção de eventual desacerto quanto ao cálculo das frações de aumento e de diminuição e a reavaliação das circunstâncias judiciais listadas no art. 59 do Código Penal.
+V - In casu, o aumento da pena-base mostra-se, de fato, fundamentado, pois configura-se idônea a valoração negativa da culpabilidade do agente que, além de matar a própria filha, jogou o corpo em uma via viscinal. Dessa forma, o acórdão da origem consignou expressamente os motivos que acarretaram a exasperação da pena-base, não havendo tampouco desproporcionalidade no acréscimo.
+Agravo regimental desprovido.
+(AgInt no REsp 1374985 / DF, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 20/02/2018, DJe 26/02/2018, grifei).
+No caso, a valoração negativa das circunstâncias do delito e das consequências encontram-se devidamente fundamentadas em elementos concretos dos autos, conforme se extrai do acórdão (fl. 2248):
+O douto magistrado declinou a seguinte fundamentação na r. sentença recorrida no tocante a análise dessas circunstâncias judiciais:
+"Quanto às circunstâncias, o crime se deu em uma chácara, local em que, durante o dia, havia se realizado uma festa. No momento, a maioria das pessoas já tinha deixado o local. No entanto, junto com o réu estava seu irmão, Fabiano, além de outra pessoa fora o réu e sua irmã, Janete. Em outro salão, próximo, estavam, pelo menos, outras 2 (duas) pessoas. Mesmo assim, o acusado insistiu na prática, sem se preocupar se seu comportamento poderia, ainda que virtualmente, atingir número maior de indivíduos, totalmente estranhos ao fato - em especial se considerar a versão do próprio réu, de que teria disparado sem saber ao certo o que estava fazendo. Não pode, portanto, ter avaliação idêntica a crimes semelhantes havidos em locais ermos, em que não se exige a mesma ousadia.
+Quanto às consequências: o irmão da vítima Fabiano, ouvido em plenário, narrou que, na época da morte, Marcelo trabalhava e contribuia para o sustento da casa. Indagado, explicou que, com a morte, a Jonas passou por apertos financeiros, porque perdeu uma das fontes de renda. Esse relato não destoa do contido no estudo social do mov. 20.1, o qual dá conta da trajetória da entidade familiar. Ali, aponta-se que não se trata de pessoas de boas condições econômicas, de forma que é inegável que, com a falta do trabalho de algum de seus membros, a dificuldade se agravaria. As consequências, portanto, extrapolaram os limites do tipo penal, justificando o recrudescimento da sanção base".
+ ..
+Na primeira fase da fixação da pena devem ser consideradas duas circunstâncias judiciais desfavoráveis, quais sejam, circunstâncias e consequências do crime, resultando em uma pena-base de 09 (nove) anos e 06 (seis) meses de reclusão.
+Não há, portanto, violação ao art. 59 do CP.
+Quanto ao regime inicial de cumprimento da pena, o acórdão fixou o fechado, com o seguinte fundamento (fl. 2251):
+Por fim, na terceira e última fase, igualmente, não havendo causas de aumento ou diminuição de pena, deve-se tornar a pena definitiva em 07 (sete) anos e II (onze) meses de reclusão, a serem cumpridos em regime fechado, vez que, embora quantidade da pena aplicada e não seja o Réu reincidente, foram avaliadas de negativamente as circunstâncias judiciais outrora mencionadas, na forma do artigo 33, §3º, do Código Penal.
+Ao fixar o regime inicial de cumprimento, o juízo deverá, além de analisar o montante da pena imposta, como também as circunstâncias judiciais analisadas quando da realização da dosimetria, conforme preceitua o art. 33, § 3º, CP. Tendo sido valoradas negativamente as circunstâncias judiciais, não obstante a primariedade e os bons antecedentes, admite-se a fixação de regime inicial mais gravoso. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. INTERROGATÓRIO NÃO REALIZADO NO FINAL DA INSTRUÇÃO. NULIDADE NÃO CONFIGURADA. CIRCUNSTÂNCIAS E CONSEQUÊNCIAS NEGATIVAS DO CRIME. REGIME INICIAL SEMIABERTO. OBSERVÂNCIA DO ART. 33, § 3º, DO CP. PENA SUBSTITUTIVA. NÃO PREENCHIMENTO DO ART. 44, III, DO CP. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+8. Para a fixação do regime prisional e para a substituição da pena privativa de liberdade por restritiva de direitos, é necessário que o órgão jurisdicional analise não somente o quantum da pena e a eventual primariedade do réu mas também a presença, ou não, de circunstâncias judiciais desfavoráveis.
+9. É suficiente indicar o art. 33, § 3º, do CP e o não preenchimento do requisito subjetivo estabelecido no art. 44, III, do CP, para justificar o regime inicial semiaberto e a impossibilidade de aplicação de penas substitutivas, insuficientes para a prevenção e a repressão de crime considerado mais grave quando comparado a outros estelionatos.
+10. Agravo regimental não provido.
+
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
+Intimem-se.
