@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por [NOME], apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2236874-73.2017.8.26.0000).
+Consta dos autos que o recorrente teve a prisão em flagrante convertida em preventiva pela suposta prática dos delitos previstos nos artigos 33, caput, da Lei n. 11.343/2006 e 12 da Lei n. 10.826/2003 (e-STJ fls. 53/59).
+Segundo consta da denúncia, o recorrente foi surpreendido na posse de 10 (dez) porções de maconha, pesando aproximadamente 48,23g (quarenta e oito gramas e vinte e três centigramas) e 2 (duas) porções de cocaína, pesando aproximadamente 22,12g (vinte e dois gramas e doze centigramas), além de possuir, no interior de sua residência, 1 (uma) munição calibre .38, marca CBC, de uso permitido, sem autorização ou em desacordo com determinação legal ou regulamentar (e-STJ fl. 113).
+Impetrado habeas corpus na origem, foi denegada a ordem (e-STJ fls. 241/252, sem ementa).
+Daí o presente recurso ordinário, no qual alega a defesa que o recorrente estaria sofrendo constrangimento ilegal, porquanto ausentes os requisitos autorizadores da segregação cautelar.
+Sustenta, nesse sentido, que "a r. decisão da Meritíssima Juíza de primeiro grau se fundou no perigo abstrato do crime, sendo certo que em nenhum momento foram apreciados, efetivamente, os pressupostos da prisão preventiva, bem como a necessidade da custódia cautelar" (e-STJ fl. 259).
+Ressalta que "o indeferimento da liberdade provisória não levou em consideração a primariedade do paciente, seus bons antecedentes, residência fixa, ocupação lícita e sua boa conduta social, além do fato de ser menor de 21 anos no momento da prisão" (e-STJ fl. 261), e pondera que, "Conforme alterações trazidas pela Lei 12.403/11 ao Código de Processo Penal, com a finalidade de alçar os princípios constitucionais da presunção de inocência, da não culpabilidade e da dignidade da pessoa humana, a prisão preventiva só terá lugar quando não for cabível a sua substituição por outra medida cautelar" (e-STJ fl. 262).
+Requer, liminarmente e no mérito, o provimento do recurso para revogar a prisão preventiva do recorrente.
+O pedido liminar foi indeferido (e-STJ fls. 297/299).
+Prestadas as informações, opinou o Ministério Público Federal pelo não conhecimento do recurso e, caso superado o óbice, pelo seu desprovimento (e-STJ fls. 381/382).
+É, em síntese, o relatório.
+Informou o Tribunal de origem que, "consoante os assentamentos eletrônicos de primeira instância, foi proferida r. sentença aos 25 de maio último, pela qual [NOME] foi condenado como incurso no art. 33, caput, da Lei nº 11.343/06, e no art. 12, da Lei nº 10.826/03, às penas de 04 anos e 02 meses de reclusão e 01 ano de detenção, em regime inicial semiaberto, e 426 dias-multa, determinada a expedição de alvará de soltura clausulado, uma vez concedido o direito de recorrer em liberdade" (e-STJ fl. 358).
+Assim, o pedido ora deduzido foi alcançado na origem, encontrando-se prejudicado.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
