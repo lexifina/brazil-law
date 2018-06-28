@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo (artigo 1.042 do CPC/2015), interposto por [NOME], contra decisão que negou seguimento ao recurso especial.
+O apelo extremo, fundamentado na alínea "a" do permissivo constitucional, visa reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 127, e-STJ):
+Responsabilidade civil Internet - Inserções em "blog" e rede social ("Facebook"), de responsabilidade do réu, de comentários tidos como ofensivos pelo autor, que exerce cargo público de Prefeito Municipal - Criticas relacionadas a fatos de nítido interesse público imputados à Administração - Ação julgada improcedente - Sentença mantida Recurso não provido.
+Nas razões do recurso especial (fls. 134-138, e-STJ), o recorrente aponta a violação aos arts. 186 e 927 do Código Civil. Sustenta, em síntese, ter ocorrido abuso na liberdade de informação jornalística.
+Sem contrarrazões (fls. 143, e-STJ).
+Em juízo de admissibilidade (fls. 144-145, e-STJ), negou-se seguimento ao recurso, dando ensejo na interposição do agravo do artigo 1.042, CPC/15 (fls. 148-155, e-STJ).
+Contraminuta às fls. 167-169, e-STJ.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. De início, impende consignar a aplicabilidade das normas insertas no Código de Processo Civil de 2015 a este julgado, com amparo no Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016, tendo em vista a data de publicação do aresto recorrido.
+2. O insurgente, nas razões do recurso especial, apontou violação aos artigos 186 e 927 do Código Civil, alegando a ocorrência de ato ilícito ao argumento de que " o debate público não pode deixar de servir ao direito de informação e liberdade de expressão e passar a ter por substância o ataque à credibilidade e à confiança dos sujeitos públicos ".
+No particular, o Tribunal local assim decidiu:
+Como bem ressaltado na sentença, "analisando os documentos juntados às fls. 14/18 dos autos, verifico que os comentários veiculados pelo requerido em seu blog consistem em críticas relacionadas não à pessoa do requerente, mas sim a fatos de nítido interesse público imputados à administração municipal, não se evidenciando qualquer tipo de excesso no exercício pelo réu do seu direito constitucional de livre manifestação de pensamento e da opinião.
+ ..
+Em suma, não configurada a ofensa ao patrimônio moral do autor, a ação não poderia mesmo prosperar. (fls. 128-131, e-STJ)
+Como se vê no acórdão recorrido, Corte de origem, diante do contexto fático-probatório dos autos, concluiu não restar configurada lesão aos direitos de personalidade do recorrente, ora agravante.
+A propósito:
+AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO INDENIZATÓRIA - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA REQUERIDA. 1. As questões trazidas à discussão foram dirimidas pelo Tribunal de origem de forma suficientemente ampla, fundamentada e sem omissões, devendo ser afastada a alegada violação ao artigo 535 do Código de Processo Civil de 1973. 2. Rever o entendimento da Corte a quo, a qual consignou que, diante da realidade fática apresentada nos autos, evidenciou-se o dano experimentado pelo recorrido, demandaria necessário reexame do contexto fático-probatório, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula 7 do STJ. Precedentes.  .. . 5. Agravo interno desprovido. (AgInt no AREsp 665.362/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 13/09/2016, DJe 21/09/2016). Grifou-se
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.CIVIL E PROCESSUAL CIVIL (CPC/1973). RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. OFENSA À HONRA E À IMAGEM. NÃO OCORRÊNCIA. REEXAME DE MATÉRIA DE FATO. INCIDÊNCIA DA SÚMULA 7/STJ. HONORÁRIOS. REVISÃO. SÚMULA N. 7/STJ. AGRAVO DESPROVIDO. (AgRg no AREsp 473.122/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 24/05/2016, DJe 31/05/2016) AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. RESPONSABILIDADE CIVIL. DANOS MORAIS. CONFIGURAÇÃO DE ATO ILÍCITO. QUANTUM FIXADO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO IMPROVIDO. 1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ. 2. No caso concreto, o Tribunal estadual concluiu pela falha na prestação dos serviços prestados à paciente e pela demonstração de conduta ilícita do Hospital Geral El Kadri Ltda. mantendo o valor arbitrado a título de indenização por danos morais. Alterar esse entendimento é inviável em recurso especial, ante o óbice da referida súmula. 3. Agravo interno improvido. (AgInt no AREsp 978.831/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 07/02/2017, DJe 14/02/2017). Grifou-se
+Dessa forma, a reforma do aresto hostilizado, com a desconstituição de suas premissas, impõe incontornável incursão no conjunto fático-probatório dos autos, atraindo a incidência da Súmula 7/STJ.
+3. Do exposto, nego provimento ao agravo.
+Publique-se.
+Intimem-se.
