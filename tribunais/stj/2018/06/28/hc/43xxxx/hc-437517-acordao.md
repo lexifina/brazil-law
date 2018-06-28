@@ -1,0 +1,47 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. APELAÇÃO. ALEGADO EXCESSO DE PRAZO PARA O JULGAMENTO. DESÍDIA DO ESTADO E DA AUTORIDADE JUDICIÁRIA. PRINCÍPIO DA RAZOABILIDADE. OFENSA. COAÇÃO ILEGAL VERIFICADA. ORDEM CONCEDIDA.
+1. Os prazos para a finalização dos atos processuais não são peremptórios, podendo ser flexibilizados diante das peculiaridades do caso concreto, em atenção e dentro dos limites da razoabilidade.
+2. Evidenciada a coação advinda de excesso de prazo quando o paciente, condenado ao cumprimento de 5 (cinco) anos e 10 (dez) meses de reclusão, se encontra recolhido ao cárcere desde fevereiro de 2016 e já se passaram mais de 2 (dois) anos do ajuizamento da apelação defensiva sem que haja sequer previsão para o julgamento do recurso, não podendo a morosidade ser atribuída à defesa, que não consta tenha atrapalhado o normal andamento do feito em análise.
+3. Demonstrado que o retardo ou a delonga ultrapassaram os limites da razoabilidade e podem ser atribuídos unicamente ao Estado e ao Judiciário, de ser reconhecido o constrangimento ilegal, sanável através da via eleita.
+4. Ordem concedida para relaxar a prisão do paciente, se por outro motivo não estiver preso.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, conceder a ordem, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+RELATÓRIO
+EXMO. SR. MINISTRO JORGE MUSSI (Relator): Trata-se de habeas corpus com pedido de liminar impetrado em favor de PAULO [NOME], apontando como coator o Tribunal de Justiça do Estado de Santa Catarina, no julgamento da Apelação Criminal nº 0001422-93.2016.8.24.0005, aforada em favor do paciente, nos autos da ação penal em que findou condenado ao cumprimento de 5 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial fechado, mais multa, por violação ao art. 33, caput, da Lei nº 11.343/2006.
+Sustenta o impetrante a ocorrência de constrangimento ilegal por excesso de prazo no julgamento da apelação, asseverando que o réu estaria provisoriamente segregado desde 20-2-2016 e, não obstante o apelo defensivo tenha sido distribuído em 9-6-2016 e, posteriormente, isso no dia 20-6-2016, encaminhado para o Relator originário já com o parecer Ministerial, a Corte Estadual ainda não teria sequer previsão de data para sua apreciação.
+Requereu, liminarmente e no mérito, a concessão da ordem, a fim de que fosse relaxada a prisão cautelar do paciente, expedindo-se em seu favor o competente alvará de soltura.
+A liminar foi indeferida.
+Informações prestadas.
+O Ministério Público federal opinou pela denegação da ordem, "recomendando-se ao Tribunal de origem que promova maior celeridade no julgamento do apelo defensivo" (e-STJ fl. 117).
+É o relatório.
+VOTO
+EXMO. SR. MINISTRO JORGE MUSSI (Relator): Infere-se dos autos que o paciente foi preso em flagrante, convertida a custódia em preventiva e restou denunciado pela prática do delito previsto art. 33, caput, da Lei nº 11.343/2006, isso porque, no dia 20-2-2016, foi surpreendido na posse de "7 (sete) papelotes de cocaína, pesando aproximadamente 42g (quarenta e duas gramas), da quantia de R$ 1.355,50 (mil trezentos e cinquenta e cinco reais e cinquenta centavos), além de U$ 170,00 (cento e setenta dólares)" (e-STJ fl. 18).
+Encerrada a instrução criminal, tem-se que, no dia 15-4-2016, sobreveio sentença condenando o ora paciente ao cumprimento de 5 (cinco) anos e 10 (dez) meses de reclusão, no regime inicial fechado, pela prática do ilícito insculpido no art. 33, caput, da Lei nº 11.343/2006.
+Inconformada, a defesa interpôs recurso de apelação, que ascendeu ao Tribunal Estadual em 8-6-2016, tendo os autos sido distribuídos ao Relator originário no dia seguinte e, posteriormente, encaminhados ao Órgão Ministerial, que apresentou o parecer no dia 16-6-2018.
+Sobre o trâmite do apelo em segundo grau, noticiou-se que:
+Inicialmente, o processo foi distribuído à Desembargadora Marli Mosimann Vargas. Entretanto, em razão da sua aposentadoria, em 30/09/2016 a relatoria foi transferida ao Desembargador José Inacio Schaefer.
+Em 26/05/2017, também em virtude da aposentadoria do então Relator, os autos foram redistribuídos ao Desembargador Nelson Maia Peixoto.
+Devido a opção do Desembargador Nelson Maia Peixoto pela Quarta Câmara Criminal, o processo foi transferido ao Desembargador Paulo Ricardo Bruschi, em 21/08/2017.
+Por fim, em 03/11/2017, a apelação criminal foi encaminhada ao Desembargador Júlio César Machado Ferreira de Melo, devido a opção do então Relator pela Quarta Câmara de Direito Público. (e-STJ fl. 107-108)
+Em consulta efetivada na página eletrônica do TJ/SC, ao andamento da Apelação Criminal nº 0001422-93.2016.8.24.0005, constatou-se que, no dia 25-5-2018, a relatoria do reclamo foi novamente alterada, tendo sido atribuída à Exma. Sra. Desembargadora Hildemar Meneguzzi de Carvalho, inexistindo qualquer previsão para o julgamento da mencionada insurgência.
+Certo que, como tem orientado a doutrina e decidido esta Corte Superior, os prazos indicados na legislação pátria para a finalização dos atos processuais servem apenas como parâmetro geral, não se podendo deduzir o excesso tão somente pela soma aritmética dos mesmos.
+Admite-se, em homenagem ao princípio da razoabilidade, certa variação, de acordo com as peculiaridades de cada caso, devendo o constrangimento ser reconhecido como ilegal somente quando o retardo ou a delonga sejam injustificados e possam ser atribuídos ao Judiciário.
+Assim, em razão do princípio constitucional da razoável duração do processo, deve o Estado prezar pela célere prestação jurisdicional.
+Na espécie, das informações prestadas restou comprovado o alegado excesso de prazo injustificado para a tramitação e julgamento da apelação criminal aforada em favor do paciente.
+Com efeito, verifica-se que o paciente, condenado ao cumprimento de 5 (cinco) anos e 10 (dez) meses de reclusão, se encontra recolhido ao cárcere desde 20-2-2016 (ou seja, há aproximadamente 2 anos e 6 meses) e já se passaram mais de 2 (dois) anos da data em que a apelação defensiva ascendeu a Corte Estadual sem que o recurso tenha sido apreciado, circunstâncias que, somadas, levam a conclusão pela desproporcionalidade de sua manutenção no cárcere preventivamente, tendo em vista o tempo de prisão preventiva já cumprido até o presente momento.
+Nesse panorama, forçoso reconhecer que resta configurada a delonga excessiva na tramitação da apelação criminal, já que, transcorridos mais de 2 (dois) anos do ajuizamento do recurso, ainda não houve solução definitiva sobre a situação criminal do ora paciente.
+De fato, verifica-se que foram transpostos os limites de razoabilidade e sem que se possa atribuir parcela de culpa à defesa do paciente, que não consta tenha atrapalhado o normal andamento do recurso em análise, restando evidenciado, portanto, o sustentado constrangimento ilegal.
+Sobre o tema, a propósito, confiram-se os seguintes precedentes:
+PENAL E PROCESSUAL PENAL. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO. EXCESSO DE PRAZO PARA JULGAMENTO DA APELAÇÃO. REGULARIDADE PROCESSUAL DO APELO COMPROMETIDA. CONSTRANGIMENTO ILEGAL VERIFICADO. HABEAS CORPUS CONCEDIDO.
+1. Configura desarrazoada mora processual a demora no julgamento de apelação por condenação a cinco anos de reclusão, quando recebido e distribuído o apelo em 7/7/2017, permanecendo no órgão ministerial para parecer há mais de 7 meses, seguindo o feito sem previsão de julgamento, em causa não complexa, com apenas um réu, e com prisão provisória efetivada em 9/11/2016, isto é, há mais de 1 ano e 3 meses.
+2. Habeas corpus concedido, para a soltura do paciente, RAMON LIMA DA SILVA, o que não impede nova e fundamentada medida cautelar penal, inclusive menos grave que a prisão preventiva, esta última fundamentada somente em fatos novos.
+(HC 428.805/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 06/03/2018, DJe 14/03/2018)
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO POR DUAS VEZES. PRISÃO PREVENTIVA. EXCESSO DE PRAZO NO JULGAMENTO DE RECURSO. APELAÇÃO CRIMINAL DISTRIBUÍDA EM 19/8/2015 E CONCLUSA DESDE 23/5/2016.
+EXISTÊNCIA DE DESÍDIA DO JUDICIÁRIO. CONSTRANGIMENTO ILEGAL MANIFESTO.
+1. Segundo pacífico entendimento doutrinário e jurisprudencial, a configuração de excesso de prazo não decorre da soma aritmética de prazos legais. A questão deve ser aferida segundo os critérios de razoabilidade, tendo em vista as peculiaridades do caso.
+2. No caso, a apelação criminal foi distribuída na Corte a quo em 19/8/2015. O feito encontra-se concluso desde 23/5/2016, ainda pendente de julgamento.
+3. Evidenciado que o feito se encontra parado há quase 2 anos, não pode ser imputada a desídia à defesa.
+4. Ordem concedida, confirmando-se a decisão liminar, para relaxar a prisão do paciente, se por outro motivo não estiver preso, podendo o Juiz singular determinar o cumprimento de medidas cautelares alternativas à prisão, fundamentadamente.
+(HC 396.628/PA, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 27/02/2018, DJe 08/03/2018)
+Diante do exposto, concede-se a ordem para relaxar a prisão do paciente, determinando-se a imediata expedição de alvará de soltura em seu favor, se por outro motivo não estiver preso.
+É o voto.
