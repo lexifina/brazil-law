@@ -1,0 +1,14 @@
+Decisão (Ref. Petição 42182/2018): Trata-se de petição interposta por WASHINGTON LUIZ ALBUQUERQUE na qual requer a concessão dos benefícios da justiça gratuita em virtude de alegado agravamento em sua situação financeira (Fls. 1427-1428).
+    De plano, observo que o presente processo transitou em julgado em 1º de março de 2018, o que torna prejudicada a apreciação do pedido do recorrente.
+    Com efeito, porque opostos sem o necessário recolhimento da multa fixada ao se negar provimento ao agravo regimental, os embargos de declaração opostos eram desertos, razão pela qual deles não conheci ao proferir decisão monocrática (Fls. 1423-1424).
+    Nesse sentido, nos termos da jurisprudência da Corte, o não conhecimento dos embargos de declaração acarreta a não interrupção do prazo processuais. Confiram-se, a esse respeito, os seguintes precedentes:
+    RECURSO EXTRAORDINÁRIO COM AGRAVO – DECISÃO QUE NEGA SEGUIMENTO AO APELO EXTREMO – OPOSIÇÃO, EM FACE DESSE ATO DECISÓRIO, DE EMBARGOS DE DECLARAÇÃO – RECURSO INADMISSÍVEL – INAPTIDÃO PARA INTERROMPER OU PARA SUSPENDER A FLUÊNCIA DO PRAZO RECURSAL – CONSEQUENTE INTEMPESTIVIDADE DO AGRAVO POSTERIORMENTE INTERPOSTO – PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL – SUCUMBÊNCIA RECURSAL JUSTIFICADA, NO CASO, PELA EXISTÊNCIA DE “TRABALHO ADICIONAL” PRODUZIDO PELA PARTE VENCEDORA (CPC, ART. 85, § 11) – MAJORAÇÃO DA VERBA HONORÁRIA (10%) – PERCENTUAL (10%) QUE INCIDE SOBRE A VERBA HONORÁRIA POR ÚLTIMO ARBITRADA – NECESSÁRIA OBSERVÂNCIA DOS LIMITES ESTABELECIDOS NO ART. 85, §§ 2º E 3º DO CPC – AGRAVO INTERNO IMPROVIDO. (ARE 991716 AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe 23.5.2017)
+    DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. EMBARGOS DECLARATÓRIOS CONTRA O PRIMEIRO JUÍZO DE ADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. NÃO CABIMENTO. AUSÊNCIA DE SUSPENSÃO OU INTERRUPÇÃO DO PRAZO RECURSAL. INTEMPESTIVIDADE DO AGRAVO. PRECEDENTES. 1. Nos termos da jurisprudência da Corte, os embargos declaratórios, quando manifestamente incabíveis, não interrompem ou suspendem o prazo para a interposição de outros recursos 2. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 3. Agravo interno a que se nega provimento. (ARE 964742 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 27.10.2016)
+    Sendo assim, considerando que a publicação do acórdão de negativa de provimento ao agravo regimental ocorreu em 06.02.2018, o trânsito em julgado ocorreu em 1º de março de 2018.
+    Assim, nada há a prover quanto ao requerido, tendo em vista o esgotamento da jurisdição nesta Corte.
+    Certifique-se o trânsito em julgado da decisão publicada em 06.02.2018.
+    Publique-se.
+    Brasília, 28 de junho de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
