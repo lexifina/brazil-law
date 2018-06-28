@@ -1,0 +1,9 @@
+DECISÃO
+1. Cuida-se de embargos de declaração opostos por MARIA PEREIRA GONÇALVES contra decisão de fls. 256-259, que conheceu do agravo e deu provimento ao seu recurso especial.
+Nas razões recursais (fls. 256-259), sustenta a parte embargante: " A r. decisão está em flagrante contradição com a r. sentença de 1º grau (acostada mais precisamente à fl. 89), onde se fixou os honorários advocatícios no percentual de 20%..A r decisão de fls. 256/259 contém COTRADIÇÃO, o que se faz necessário ser reparado com origem nesses embargos, até porque no recurso especial não houve pedido para modificar os honorários advocatícios e a parte recorrida nada pediu nesse sentido.".
+DECIDO.
+2. O artigo 1.022, e seus incisos, do novo Código de Processo Civil, claramente prescrevem as quatro hipóteses de cabimento dos embargos de declaração, tratando-se de recurso de fundamentação vinculada, restrito a situações em que patente a existência de (1) obscuridade, (2) contradição, (3) omissão no julgado, incluindo-se nesta última as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida, e por derradeiro, (4) o erro material.
+Na hipótese, houve erro material.
+No presente caso, o juízo a quo fixou os honorários advocatícios em 20% sobre o valor da condenação, e a título de danos morais, o valor de R$ 6.000, e na decisão monocrática de minha Relatoria (fls. 256-259), os honorários foram fixados em 15% sobre o valor da condenação, com fundamento no art. 85, § 2º, do CPC.
+3. Ante o exposto, acolho os presentes embargos de declaração, sem efeitos modificativos, apenas para sanar o erro material verificado, corrigindo o dispositivo da decisão contida às fls. 256-259 (e-STJ), a fim de que seja restabelecida a sentença no tocante ao ônus sucumbenciais.
+Publique-se. Intimem-se.
