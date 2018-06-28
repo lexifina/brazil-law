@@ -1,0 +1,20 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. PROGRESSÃO DE REGIME SEMIABERTO. PRISÃO DOMICILIAR COM MONITORAMENTO ELETRÔNICO. FUNDAMENTOS CONCRETOS A JUSTIFICAR A CASSAÇÃO PARCIAL DA DECISÃO QUE DEFERIU O BENEFÍCIO. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA.
+Writ indeferido liminarmente.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME] ou [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça do Rio Grande do Sul.
+Narram os autos que o paciente cumpre pena de 35 anos, 4 meses e 19 dias de reclusão, em regime fechado (PEC n. 5871-8).
+Em tempo oportuno, o Juízo de Direito da 2ª Vara das Execuções Criminais de Porto Alegre deferiu pedido de progressão de regime semiaberto e, simultaneamente, prisão domiciliar cumulada com monitoramento eletrônico (fls. 215/218).
+O Ministério Público estadual, então, interpôs agravo em execução penal na colenda Corte de origem, que deu provimento ao  ..  recurso ministerial, para revogar a decisão recorrida na parte em que concedeu ao apenado prisão domiciliar com o monitoramento eletrônico, determinando o seu recolhimento em casa prisional do regime semiaberto (fls. 242/254 - Agravo em Execução n. [CPF]).
+Daí a presente impetração, em que se alega constrangimento ilegal acerca da cassação da decisão que deferiu a prisão domiciliar ao paciente, visto que  ..  a legislação impõe, para a concessão da progressão de regime, o requisito objetivo, consistente no lapso temporal, já implementado pelo reeducando - e o requisito de ordem subjetiva, consubstanciado no atestado de conduta de bom comportamento carcerário, igualmente implementado, fazendo jus o sentenciado à benesse em pauta (fls. 3/4).
+Postula, ao final, a concessão liminar da ordem  ..  para cassando-se a decisão proferida pela 5ª Câmara Criminal do Tribunal de Justiça Estado/RS, para que seja deferido ao paciente, tudo como medida de direito e justiça  ..  (fls. 4/5).
+É o relatório.
+Tem-se do acórdão que cassou a decisão do Juízo da execução (fl. 253):
+ ..  O apenado cumpre pena por quatro (04) crimes de roubo, um (01) latrocínio na forma tentada e (01) porte irregular de arma de fogo. Em um dos roubos, desferiu uma tijolada na cabeça do ofendido e, no latrocínio na forma tentada, um disparo de arma de fogo que veio a atingir o ofendido, um cidadão que apenas estava no bar alvo da ação.
+Possui elevado saldo de pena a cumprir, mais de vinte e cinco (25) anos de reclusão. Não está próximo de preencher os prazos-requisitos para a progressão ao regime aberto (29/04/2002) e ao livramento condicional (13/06/2024). Na primeira oportunidade em que esteve no semiaberto, ele empreendeu fuga, sendo capturado em flagrante, portando arma de fogo ilegalmente, fato pelo qual já condenado definitivamente. Nesse contexto, o largo abrandamento é prematuro, o que pode ser revisado no futuro, após um determinado período de teste do comportamento do apenado no semiaberto.
+Não há como negar a manifesta inconveniência de ele sair diretamente do regime fechado para a prisão domiciliar. E, como sempre digo, vagas há, não para todos, de modo que só o exame do caso concreto é que determinará quem deve se beneficiar com a domiciliar e quem deve permanecer a cumprir pena nas casas prisionais. O histórico do apenado, nesse momento, torna a medida inadequada, de modo que vai revogada, ressalvando a possibilidade de o juízo de origem rever o tema, após algum período de teste em casa prisional do semiaberto.
+ ..
+Veja-se que, a despeito dos argumentos apresentados pela defesa, a Corte estadual pautou-se em dados concretos a justificar a cassação, em parte, da decisão que deferiu a prisão domiciliar.
+Nesse passo, não vislumbro constrangimento ilegal apto à concessão da ordem, mormente porque, conforme entendimento desta Corte Superior,  ..  não é vedado ao magistrado aferir, com base nas peculiaridades do caso concreto, o mérito do reeducando, indeferindo, de maneira fundamentada, a benesse ou determinando a realização de exame criminológico (HC n. 322.120/SP, Sexta Turma, Ministro Nefi Cordeiro, DJe 29/10/2015).
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se.
