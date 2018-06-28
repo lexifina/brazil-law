@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo manejado por CATXERE TRANSMISSORA DE ENERGIA S.A contra decisão que inadmitiu recurso especial interposto com apoio na alínea "a" do permissivo constitucional, e que desafia acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso, assim ementado (e-STJ fl. 341):
+APELAÇÃO CÍVEL - AÇÃO DE CONSTITUIÇÃO DE SERVIDÃO ADMINISTRATIVA COM PEDIDO DE LIMINAR DE IMISSÃO DE POSSE - DISCORDÂNCIA COM O LAUDO PERICIAL - PEDIDO DE REALIZAÇÃO DE NOVA PERÍCIA - DISCRICIONARIEDADE DO JUIZ (ART. 437 DO CPC/73) - RECURSO NÃO PROVIDO.
+A discordância com o laudo pericial não é suficiente para justificar a realização de nova perícia, uma vez que, como destinatário da prova, cabe ao juiz decidir pela necessidade de segunda análise (art. 437 do CPC/73).
+Os embargos de declaração opostos foram rejeitados.
+No especial obstaculizado, a ora agravante apontou violação do art. 7º do CPC/1973, sustentando, em síntese, a necessidade de devolução dos autos ao perito para nova medição da área serviente, sob pena de ofensa ao contraditório.
+Sem contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, em face da incidência da Sumula 7 do STJ. Em sua irresignação, a agravante infirma o mencionado óbice e, no mais, reitera os argumentos articulados no recurso especial.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Inicialmente, quanto à dita ofensa ao art. 7º do CPC/1973 e ao alegado desrespeito ao princípio do contraditório, extrai-se do acórdão recorrido o seguinte fundamento (e-STJ fls. 344/345):
+Além disso, o perito expôs de forma clara e precisa a metodologia usada para aferição da área serviente, da sua valoração, assim como das benfeitorias nela edificadas, e o fato de o local mencionado na inicial não ser o mesmo apontado pelo perito não justifica a nova medição, sobretudo porque, como informado pelo perito, o assistente técnico da apelante não quis acompanhá-lo na medição, embora lhe tivesse sido oportunizado. Dessa maneira, é descabida a arguição de que a verdade real não foi buscada neste caso, pois a perícia foi devidamente realizada e a apelante não demonstrou nenhum vício nesse diligência.
+Ora, dissentir da conclusão a que chegou a Corte de origem implica inevitável revolver de aspectos fático-probatórios, providência inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+Nesse sentido, trago o precedente a seguir:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CERCEAMENTO DE DEFESA. PERÍCIA. QUESITOS. EXPEDIÇÃO DE OFÍCIOS. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO. IMPOSSIBILIDADE. SUCUMBÊNCIA RECÍPROCA. EXAME DO GRAU DE DECAIMENTO DE CADA UMA DAS PARTES. REEXAME DE FATOS E DE PROVAS. INVIABILIDADE. SÚMULA 7/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF.
+1. Tendo o Tribunal de origem concluído que não houve cerceamento de defesa no tocante ao indeferimento de nova perícia, de quesitos e de expedição de ofícios judiciais, infirmar tais fundamentos pressupõe o reexame do conjunto fático-probatório, o que é vedado por força da Súmula 7/STJ.
+2. Afastar o entendimento alcançado pela instância de origem quanto ao grau de decaimento de cada uma das partes igualmente demandaria reexame de fatos e de provas, medida inviável no âmbito do Apelo Nobre, consoante orientação firmada na Súmula 7 do STJ.
+3. No tocante à citada ofensa ao art. 1228, § 4º, do CC/02, incide, por analogia, o óbice da Súmula 284/STF, segundo a qual "é inadmissível o Recurso Extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ademais, que, ainda que se afastasse a incidência da Súmula 284/STF, não seria possível conhecer da irresignação, mais uma vez, pela aplicação da Súmula 7/STJ.
+4. Agravo Regimental não provido.
+(AgRg no AREsp 809.467/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/04/2016, DJe 25/05/2016)
+A teor do disposto no art. 85, § 11, c/c o art. 98, VI, §§ 2º e 4º, do CPC/2015, deve ser fixada a verba honorária recursal, inclusive ao beneficiário da assistência judiciária gratuita.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial. Nos termos do art. 85, § 11, do CPC/2015, estabeleço os honorários recursais sucumbenciais em 10% sobre o valor já fixado na origem, respeitados os limites e critérios previstos nos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
