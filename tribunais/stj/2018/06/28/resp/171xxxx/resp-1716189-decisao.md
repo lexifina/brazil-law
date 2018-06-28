@@ -1,0 +1,66 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO AMAZONAS, contra acórdão prolatado, por unanimidade, pela 2ª Câmara Cível do Tribunal de Justiça do Estado do Amazonas no julgamento de Apelação, assim ementado (fls. 664/673e):
+DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL - AÇÃO CIVIL PÚBLICA - DEFESA DO MEIO AMBIENTE - PERDA DO OBJETO - OBRA DE REVITALIZAÇÃO DE COMPLEXO TURÍSTICO:
+- A realização de obras de revitalização do complexo turístico da Ponta Negra imposta em reconhecimento da perda do objeto da presente ação civil, civil, vez que o apelante não conseguiu demonstrar em suas razões a existência de elementos que comprovem a inércia do Poder Público Municipal na adoção das medidas necessárias à preservação ambiental.
+- A possibilidade de controle dos atos concretos insertos na seara discricionária da administração pública há de ser analisada com parcimônia, observada que a regra é que se trata de atribuição precípua do poder executivo, excepcionalmente admitida a intervenção judicial, de acordo com o caso concreto.
+RECURSO CONHECIDO E IMPROVIDO.
+Opostos embargos de declaração, foram rejeitados (fls. 692/698e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+Art. 489, §1º, IV, do Código de Processo Civil de 2015 - o tribunal de origem não analisou todos os pedidos formulados na petição inicial, especialmente aqueles em face dos particulares, bem como não se manifestou sobre todos os fundamentos da apelação, notadamente aquele atinente ao irregular julgamento antecipado da lide;
+Art. 7º do Código de Processo Civil de 2015 - houve cerceamento de defesa decorrente do indevido julgamento antecipado da lide; e
+Art. 485, VI, do Código de Processo Civil de 2015 - o processo não poderia ter sido extinto com resolução de mérito no ponto em que o tribunal afirma haver perda de objeto.
+Com contrarrazões (fls. 725/733e), o recurso foi admitido (fls. 734/736e).
+O Ministério Público Federal manifestou-se às fls. 804/807e.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e
+ii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Inicialmente, anoto que, não obstante o Recorrente tenha, no primeiro ponto de seu recurso, afirmado violação apenas ao art. 489, §1º, IV, do Código de Processo Civil de 2015, conheço da alegação e considero apontada também afronta ao art. 1.022, II, do Código de Processo Civil de 2015, em razão da aplicação conjugada dos dois dispositivos, consoante prevê o art. 1.022, parágrafo único, II, do mesmo diploma processual.
+Consoante o art. 1.022 do Código de Processo Civil de 2015, cabe a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e, iii) corrigir erro material.
+A omissão, definida expressamente pela lei, ocorre na hipótese de a decisão deixar de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento.
+O Código de Processo Civil de 2015 considera, ainda, omissa, a decisão que incorra em qualquer uma das condutas descritas no art. 489, § 1º, no sentido de não se considerar fundamentada a decisão que: i) se limita à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida; ii) emprega conceitos jurídicos indeterminados; iii) invoca motivos que se prestariam a justificar qualquer outra decisão; iv) não enfrenta todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador; v) invoca precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes, nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos; e, vi) deixa de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Sobreleva notar que o inciso IV do art. 489 do Código de Processo Civil de 2015 impõe a necessidade de enfrentamento, pelo julgador, dos argumentos que possuam aptidão, em tese, para infirmar a fundamentação do julgado embargado. Esposando tal entendimento, o precedente da Primeira Seção desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM MANDADO DE SEGURANÇA ORIGINÁRIO. INDEFERIMENTO DA INICIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não ocorre na hipótese em apreço.
+2. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art.
+489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+3. No caso, entendeu-se pela ocorrência de litispendência entre o presente mandamus e a ação ordinária n. 0027812-80.2013.4.01.3400, com base em jurisprudência desta Corte Superior acerca da possibilidade de litispendência entre Mandado de Segurança e Ação Ordinária, na ocasião em que as ações intentadas objetivam, ao final, o mesmo resultado, ainda que o polo passivo seja constituído de pessoas distintas.
+4. Percebe-se, pois, que o embargante maneja os presentes aclaratórios em virtude, tão somente, de seu inconformismo com a decisão ora atacada, não se divisando, na hipótese, quaisquer dos vícios previstos no art. 1.022 do Código de Processo Civil, a inquinar tal decisum.
+5. Embargos de declaração rejeitados.
+(EDcl no MS 21.315/DF, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), PRIMEIRA SEÇÃO, julgado em 08/06/2016, DJe 15/06/2016)
+No caso, em relação ao alegado cerceamento de defesa, decorrente do julgamento antecipado da lide, o acórdão recorrido consignou o seguinte (fl. 666e):
+"E não há falar aqui em cerceamento de defesa. Poderia, mas não fez, ter impugnado nos autos o projeto de reforma, tendo quedado inerte, somente em sede de apelação alegando suposto defeito na instrução processual."
+Por sua vez, no que tange aos pedidos formulados em face do município de Manaus, a Corte a qua decidiu conforme os excertos do acórdão a seguir transcritos (fls. 666/667e):
+"O feito foi julgado improcedente ante a perda do objeto da presente ação civil pública, em virtude de realização de obra de revitalização do complexo turístico da ponta negra, fato que resultou no esvaziamento dos pleitos desta ação.
+A meu sentir, o magistrado primevo caminhou acertadamente. Não restou demonstrado nos autos que as obras de revitalização não resultaram em satisfação do pedido ministerial, sendo seu ônus trazer elementos de prova que comprovassem o contrário.
+(..)
+A presente ação civil pública tem como pedidos principais a realização de obras físicas no complexo turístico da ponta negra, além de pedidos secundários para adoção de medidas de educação ambiental, todas de responsabilidade do Executivo, diretamente ou por meio de permissionários.
+A meu sentir, não merece acolhida a irresignação ministerial, vez que não se pode admitir o controle judicial sobre a discricionariedade administrativa sem que reste comprovado que as alegadas omissões invadam esfera de direito fundamental, violando o princípio da dignidade da pessoa humana.
+Assim, entendo que quanto ao pedido de realização de obras físicas, trata-se de matéria atinente à própria discricionariedade administrativa, não cabendo ao poder judiciário exercer controle sobre o senso de oportunidade e conveniência do administrador público. O mesmo há de ser concluído quanto aos demais pedidos."
+Assim, acerca desses pontos, não verifico omissão, porquanto houve decisão expressa do tribunal de origem, com fundamentação suficiente para a compreensão do julgado.
+De outra parte, a Corte a qua não se manifestou sobre os argumentos expostos no recurso de apelação, e reiterados nos embargos de declaração, segundo os quais os fundamentos utilizados pela sentença e pelo acórdão recorrido atinentes à perda de objeto e à impossibilidade de controle judicial de políticas públicas não se aplicam aos pedidos formulados em face dos particulares (fls. 13/14e).
+Os argumentos suscitados pelo Parquet são relevantes pois possuem a capacidade de infirmar os fundamentos adotados pelo tribunal de origem, porquanto, num juízo perfunctório, constata-se que, com a não aplicabilidade das razões de decidir do acórdão aos pedidos formulados contra os particulares, teria ocorrido julgamento citra petita, razão pela qual impõe-se a correção do vício.
+Ressalto que a não apreciação das teses mencionadas, à luz do dispositivo infraconstitucional indicado a tempo e modo, impede o acesso à instância especial.
+Caracterizadas, portanto, as omissões, como o demonstram os seguintes arestos:
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1022 DO CPC/2015. OMISSÃO. NULIDADE DO JULGADO. RETORNO DOS AUTOS. NECESSIDADE.
+1. Existindo na petição recursal alegação de ofensa ao art. 1.022 do CPC/2015, a constatação de que o Tribunal de origem, mesmo após a oposição de Embargos Declaratórios, não se pronunciou sobre pontos essenciais ao deslinde da controvérsia autoriza o retorno dos autos à instância ordinária para novo julgamento dos aclaratórios opostos.
+2. Nesse contexto, deve ser dado provimento ao Recurso Especial a fim de que os autos retornem ao Tribunal de origem para que este se manifeste sobre a matéria articulada nos Embargos de Declaração, em face da relevância da omissão apontada.
+3. Recurso Especial provido, determinando o retorno dos autos à Corte de origem, para novo julgamento dos Embargos de Declaração.
+(REsp 1642708/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/02/2017, DJe 17/04/2017)
+PROCESSUAL CIVIL. RECURSOS ESPECIAIS. ART. 535 DO CPC. EXISTÊNCIA DE OMISSÃO NÃO SANADA. VIOLAÇÃO OCORRIDA. ANULAÇÃO DO ACÓRDÃO DOS EMBARGOS DE DECLARAÇÃO.
+1. É omisso o julgado que deixa de analisar as questões essenciais ao julgamento da lide, suscitadas oportunamente pela parte, quando o seu acolhimento pode, em tese, levar a resultado diverso do proclamado.
+2. Necessidade da análise de questão relacionada à decadência do direito de anulação do ato de demarcação das terras de marinha no Município de Joinville, por ter sido a ação ajuizada mais de cinco anos depois da homologação do procedimento administrativo que determinou a linha preamar média de 1831.
+3. Recurso especial da UNIÃO provido.
+4. Recurso especial de H CARLOS SCHNEIDER S/A COMÉRCIO INDÚSTRIA prejudicado.
+(REsp 1343519/SC, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 12/11/2013, DJe 20/11/2013)
+PROCESSUAL CIVIL. ART. 535 DO CÓDIGO DE PROCESSO CIVIL. OMISSÃO. VIOLAÇÃO OCORRIDA. ANULAÇÃO DO ACÓRDÃO.
+1. É omisso o julgado que deixa de analisar as questões essenciais ao julgamento da lide, suscitadas oportunamente pela parte, quando o seu acolhimento pode, em tese, levar a resultado diverso do proclamado.
+2. Recurso especial provido.
+(REsp 1213515/RS, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, julgado em 13/11/2012, DJe 23/11/2012)
+Isto posto, com fundamento nos arts. 932, IV e V, do Código de Processo Civil de 2015 e 34, XVIII, b e c, e 255, I e III, do RISTJ, DOU PARCIAL PROVIMENTO ao Recurso Especial, para determinar o retorno dos autos ao tribunal a quo, a fim de que sejam supridas as omissões indicadas.
+Prejudicada a análise das demais questões trazidas no especial.
+Determino a reautuação dos autos a fim de constar os nomes dos demais recorridos.
+Publique-se e intimem-se.
