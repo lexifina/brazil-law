@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado, como incurso no art. 33, caput, da Lei n. 11.343/2006, à pena de 7 (sete) anos de reclusão, em regime inicial fechado, e pagamento de 700 (setecentos) dias multa, no mínimo unitário legal.
+Irresignada, com a demora no julgamento da Apelação, a defesa assere na presente impetração que, "em 11/07/2016, portanto, a Ação Penal (Processo nº 0012013-70.2014.8.26.0477 - 2ª Vara Criminal de Praia Grande-SP) foi julgada procedente para condenar o paciente como incurso no artigo 33, caput, da Lei nº 11.343/06, às penas de 07 (sete) anos de reclusão, em regime inicial fechado, além de 700 (setecentos) dias-multa, pelo mínimo unitário legal, recomendando-se o paciente na prisão em que já se encontrava. Posteriormente à publicação da sentença e intimação do paciente, por oficial de justiça, no local de sua prisão, ele manifestou o desejo de recorrer da sentença condenatória. Dessa maneira, o recurso foi recebido (21/09/2016) e processado pela Vara de origem, e, por fim, em 04/11/2016 os autos foram remetidos ao Tribunal de Justiça de São Paulo" (e-STJ fl. 2).
+E ainda aduz que "o recurso de apelação foi devidamente cadastrado no sistema do TJ-SP em 11/11/2016, e, posteriormente remetido à 15ª Câmara de Direito Criminal. Contudo, até agora, após quase 02 (dois) anos da sentença condenatória proferida em primeiro grau, bem como do processamento do recurso na Vara de origem e do encaminhamento dos autos ao TJ-SP competente, a apelação ainda não foi julgada. O recurso já se encontra com parecer da Procuradoria Geral de Justiça, também com voto do Desembargador Relator (Desembargador Ricardo Sale Júnior), e com voto do Desembargador Revisor (Desembargador Kenarik Boujikian)" - e-STJ fl. 3.
+Assim, pugna pela concessão da ordem para que a 15ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo promova o "julgamento imediato do recurso de apelação nº 0012013-70.2014.8.26.0477 do paciente" (e-STJ fl. 6).
+O pleito urgente foi indeferido (e-STJ fls. 28/30).
+Pela Corte de origem foram prestadas informações (e-STJ fls. 35/39).
+Opinou o Ministério Público Federal pela prejudicialidade do writ (e-STJ fls. 41/42).
+É, em síntese, o relatório.
+Consoante informações obtidas no sítio eletrônico da Corte Estadual, em 7/6/2018, a 15ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo julgou a apelação defensiva interposta, ocasião em que deu parcial provimento ao recurso.
+Desse modo, patente que a impetração está prejudicada, por perda superveniente de objeto.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
