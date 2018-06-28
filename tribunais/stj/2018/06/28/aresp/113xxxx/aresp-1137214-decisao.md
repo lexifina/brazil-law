@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO E PROCESSUAL CIVIL. RAZÕES DO APELO NOBRE QUE NÃO INDICAM QUALQUER ARTIGO DE LEI QUE SUPOSTAMENTE TENHA SIDO VIOLADO PELO ACÓRDÃO RECORRIDO. SÚMULA 284/STF. AGRAVO EM RECURSO ESPECIAL DO CONTRIBUINTE A QUE SE NEGA PROVIMENTO.
+1. Trata-se de Agravo em Recurso Especial interposto por MENTOR COMERCIAL MEDICO HOSPITALAR LTDA., com fundamento no art. 105, III, alínea a da Constituição da República, em face do acórdão proferido pelo egrégio TJSE, assim ementado:
+APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO FISCAL - TRIBUTÁRIO - ICMS - AUSÊNCIA DE NOTA FISCAL ELETRÔNICA - DOCUMENTO FISCAL INIDÔNEO APRESENTADO PELA APELANTE - TRÂNSITO DE MERCADORIAS NO ESTADO DE SERGIPE -EXECUTADA/EMBARGANTE QUE NÃO SE DESINCUMBIU DO ÔNUS DA PROVA ACERCA DA IRREGULARIDADE DA AUTUAÇÃO - ARTIGO 333, I, DO CPC - PAGAMENTO DO TRIBUTO E INFRAÇÃO TRIBUTÁRIA - ARTIGO 188 DO RICMS/SE - LEGALIDADE E VALIDADE DO AUTO DE INFRAÇÃO - PRESUNÇÃO DE LEGITIMIDADE CONVÊNIO/PROTOCOLO ICMS 42/2009 - SENTENÇA MANTIDA - RECURSO CONHECIDO E IMPROVIDO.
+- O artigo 188 do RICMS/SE dispõe que se considera como documento fiscal inidôneo, aquele que não preenche os requisitos ali constantes, como ocorreu no caso concreto, diante da ausência de nota fiscal eletrônica, quando esta era exigível.
+2. Nas razões de seu Apelo Nobre, a parte recorrente alega violação da cláusula primeira, §1o. do Protocolo ICMS, de 2009, emitido pelo CONFAZ e ratificado por todos os Entes Federativos, dentre eles o Estado de Sergipe, eis que negou vigência à disposição constante da Cláusula Primeira do Convênio CONFAZ 190, de 2010, que alterou dito Protocolo, para autorizar a convalidação de operações realizadas por empresas optantes pelo Simples Nacional, acobertadas por notas fiscais talonadas, como no presente caso.
+3. É o breve relatório.
+4. Consoante a firme jurisprudência assentada pela Corte Especial deste Tribunal Superior, a interposição do Recurso Especial tanto pela alínea a quanto pela alínea c, com fundamento no dissídio jurisprudencial, não dispensa a indicação do dispositivo de lei federal ao qual o Tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais. O não cumprimento de tal requisito, como no caso, importa deficiência de fundamentação, atraindo a incidência do contido Súmula 284/STF.
+5. Ademais, no Recurso Especial é inviável a análise de contrariedade a ato normativo secundário, tais como Resoluções, Portarias, Regimentos, Instruções Normativas e Circulares, bem como a Súmulas dos Tribunais, por não se equipararem ao conceito de lei federal.
+6. Tendo em vista o disposto no art. 85, § 11 do CPC/2015 e o Enunciado 241 do Fórum Permanente de Processualistas Civis, os honorários de sucumbência recursal serão somados aos honorários pela sucumbência em primeiro grau, observados os limites legais. Assim, fixam-se os honorários recursais em 1% sobre o proveito econômico, que deverão ser acrescidos ao montante total. Precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. DOCUMENTO NOVO. NÃO CARACTERIZAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. HONORÁRIOS ADVOCATÍCIOS RECURSAIS. APLICAÇÃO. MULTA.
+(..).
+4. Nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC (Enunciado Administrativo 7 do Plenário do STJ).
+5. Quando o agravo interno for declarado manifestamente inadmissível ou improcedente em votação unânime, o órgão colegiado, em decisão fundamentada, condenará o agravante a pagar ao agravado multa fixada entre um e cinco por cento do valor atualizado da causa (art. 1.021, § 4º, do CPC/2015).
+6. Agravo interno desprovido, com a majoração da verba honorária e aplicação de multa (AgInt no AREsp. 236.269/SC, Rel. Min. GURGEL DE FARIA, DJe 20.10.2016).
+
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. ONEROSIDADE EXCESSIVA. TEORIA DA IMPREVISÃO. NECESSIDADE DE REVOLVIMENTO FÁTICO. INCIDÊNCIA DA SÚMULA 7 DO STJ. REVALORAÇÃO DAS PROVAS. HIPÓTESE NÃO CONFIGURADA. HONORÁRIOS RECURSAIS. ART. 85, § 11, DO CPC/15.
+(..).
+3. O § 11 do art. 85 do Código de Processo Civil de 2015 tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos provenientes de decisões condenatórias antecedentes.
+4. Atendidos os limites legais dos §§ 2º e 3º do art. 85 do CPC/15, a majoração da verba honorária a título de honorários recursais é medida que se impõe.
+5. Agravo interno conhecido e desprovido (AgInt no AREsp. 196.789/MS, Rel. Min. JOÃO OTÁVIO DE NORONHA, DJe 18.8.2016).
+7. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial interposto pelo Contribuinte.
+8. Tendo em vista o disposto no art. 85, § 11 do CPC/2015, fixam-se os honorários recursais em 1% sobre o proveito econômico do presente recurso, que deverão ser acrescidos ao montante total.
+9. Publique-se.
+10. Intimações necessárias.
