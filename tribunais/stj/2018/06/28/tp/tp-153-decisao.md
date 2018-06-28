@@ -1,0 +1,6 @@
+DECISÃO
+PRINCE FERDINAND CHUKS ATUONAH ajuíza pedido de tutela provisória em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que julgou extinto o HC n. 2210746-50.2016.8.26.0000.
+Requer a concessão da liminar, "para decretar a nulidade da ação penal, por incompetência absoluta da Justiça Estadual para processar e julgar ação penal por delito de tráfico internacional de entorpecentes, bem como para relaxar a prisão preventiva imposta ao paciente, por excesso de prazo na formação da culpa" (fl. 13). No mérito, pugna pela confirmação da medida de urgência.
+Em consulta ao sítio eletrônico do Tribunal a quo, verifica-se que, após a interposição do presente feito, aquela Corte, ao julgar o recurso de apelação interposto pela defesa (Apelação n. 0010304-49.2016.8.26.0050), acolheu preliminar e, em consequência, declarou a incompetência da Justiça estadual. O acórdão transitou em julgado para a defesa em 28/3/2018 e para o Ministério Público em 5/4/2018. Verifica-se, ainda, que foi expedido alvará de soltura pelo Juízo de primeira instância, em 7/2/2018.
+À vista do exposto, com fundamento no art. 34, XI, do RISTJ, julgo prejudicado o procedimento cautelar.
+Publique-se e intimem-se.
