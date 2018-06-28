@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que negou seguimento a recurso especial, interposto com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, impugnando acórdão assim ementado (fl. 214, e-STJ):
+AÇÃO DE OBRIGAÇÃO DE FAZER. RESCISÃO UNILATERAL DE CONTRATO DE PLANO DE SAÚDE COLETIVO. LICITUDE. REQUISITOS LEGAIS CUMPRIDOS PELA OPERADORA. INAPLICABILIDADE DO ARTIGO 13, II, DA LEI DE PLANOS DE SAÚDE. SENTENÇA DE IMPROCEDÊNCIA MANTIDA. RECURSO DESPROVIDO.
+Nas razões do recurso especial, aponta a parte recorrente negativa de vigência aos arts. 51 do Código de Defesa do Consumidor; 13, II, da Lei n. 9.656/1998; e 15 da Lei n. 10.741/2003, assim como divergência jurisprudencial.
+Sustenta que são inválidas as cláusulas permissivas da resilição unilateral do contrato. Alega que deveria ser declarada a abusividade do reajuste da mensalidade praticado pela empresa ora recorrida. Menciona que a recorrida deveria pagar-lhe indenização por danos morais em decorrência dos sofrimentos experimentos ao ser excluída do plano de saúde em questão.
+Assim delimitada a controvérsia, passo a examinar o recurso.
+Destaca-se, preliminarmente, que a decisão recorrida foi publicada depois da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 2015, conforme Enunciado Administrativo 3/2016 desta Corte.
+Da análise dos autos, verifico que o Tribunal de origem decidiu em consonância com o entendimento pacificado nesta Corte, razão pela qual o recurso especial igualmente esbarraria no óbice sumular n. 83 do STJ, aplicável aos recursos interpostos com base em ambas as alíneas (AgInt no AREsp 720.037/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 3.5.2016, DJe 11.5.2016).
+É o que se depreende da leitura do seguinte trecho do acórdão recorrido (fls. 214-215 e-STJ):
+Como sempre tenho ressaltado sobre a matéria, inexiste abusividade na rescisão unilateral de plano coletivo empresarial, à luz dos princípios da liberdade de contratar e o de que não se pode impor a ninguém a obrigatoriedade de manter vínculo contratual que não mais lhe interesse ou que lhe cause prejuízo.
+(..).
+A rescisão unilateral é prevista expressamente como iniciativa facultada a ambas as partes, após notificação prévia com prazo mínimo de 60 dias, disposição contratual esta cumprida pela apelante que, portanto, agiu no exercício regular de um direito.
+Ressalte-se, ainda, que a resilição pela operadora se deu porque a empresa contratante não aceitou o reajuste aplicado (equivalente a 44,50%), índice este correspondente à soma do aumento por sinistralidade e por faixa etária previstos no contrato.
+Nem se alegue, ainda, a aplicabilidade do artigo 13 da Lei nº 9.656/98, já que referido dispositivo incide apenas sobre planos de saúde individuais ou familiares, não abrangendo contratos coletivos.
+Com efeito, tratando-se de plano de saúde coletivo, em que a recorrente é estipulante em favor de seus filiados, já decidiu esta Corte que é lícita tanto a cláusula de resilição unilateral, quanto a que prevê o reajuste com base no aumento da sinistralidade. Confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973. REANÁLISE DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SUMULAS N. 5 E 7/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973 quando o acórdão recorrido analisou todas as questões pertinentes para a solução da lide, pronunciando-se, de forma clara e suficiente, sobre a controvérsia estabelecida nos autos.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou interpretação de cláusula contratual, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+3. Nos termos da jurisprudência desta Corte, é possível a resilição unilateral do contrato coletivo de plano de saúde, uma vez que a norma inserta no art. 13, II, b, parágrafo único, da Lei 9.656/98 aplica-se exclusivamente a contratos individuais ou familiares.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 881.867/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 6.12.2016, DJe 19.12.2016.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. REAJUSTE. ABUSIVIDADE NÃO RECONHECIDA. REEXAME DE PROVAS E DA RELAÇÃO CONTRATUAL ESTABELECIDA. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+2. "É possível reajustar os contratos de saúde coletivos, sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, seja por variação de custos ou por aumento de sinistralidade". (AgRg nos EDcl no AREsp 235.553/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 02/06/2015, DJe 10/06/2015). Aplicação da Súmula 83/STJ.
+2. Na espécie, o acórdão, à luz do contrato entabulado entre as partes e dos reajustes promovidos pela operadora do plano de saúde, não reconheceu a abusividade do reajuste do plano de saúde amparado nas provas e no contrato firmado entre as partes. A reforma do aresto hostilizado, com a desconstituição de suas premissas, impõem reexame de todo âmbito da relação contratual estabelecida e incontornável incursão no conjunto fático-probatório dos autos, o que esbarra nas Súmulas n. 5 e 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.483.244/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16.2.2017, DJe 23.2.2017.)
+No mais, verifico que a agravante limitou-se a tecer argumentações genéricas sem indicar quais teriam sido os dispositivos supostamente violados pelo acórdão recorrido no tocante à questão relacionada ao pagamento a que faria jus pelos danos morais experimentados neste caso. Assim, imperioso concluir pela incidência da Súmula n. 284 do egrégio Supremo Tribunal Federal, visto que a deficiência na fundamentação do recurso, no ponto, não permitiu a exata compreensão da controvérsia.
+Outrossim, a análise da alegação da ora recorrente de que houve abusividade no índice de reajuste do plano de saúde em questão demandaria o reexame do conjunto fático-probatório e de análise de cláusulas contratuais, o que é obstado pela via estreita do recurso especial, em virtude das Súmulas n. 5 e 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. REAJUSTE POR AUMENTO DE SINISTRALIDADE. AUSÊNCIA DE COMPROVAÇÃO. REAVALIAÇÃO DE CLÁUSULA CONTRATUAL. SÚMULA N. 5 DO STJ. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual e revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu que a recorrente não logrou comprovar o aumento da sinistralidade do grupo a justificar o reajuste na mensalidade do plano. Alterar esse entendimento demandaria a reavaliação das cláusulas contratuais e o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 565.351/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 6.8.2015, DJe 13.8.2015).
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC. OMISSÃO NÃO VERIFICADA. PLANO DE SAÚDE COLETIVO. REAJUSTE. ABUSIVIDADE. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. REEXAME DE PROVAS. SÚMULAS N. 5 E 7/STJ.
+(..)
+2. É possível reajustar os contratos de saúde coletivos, sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, seja por variação de custos ou por aumento de sinistralidade.
+3. Tendo a Corte de origem afastado a abusividade do reajuste aplicado com base nas provas dos autos e no contrato firmado entre as partes, a revisão de tal entendimento esbarra nos óbices das Súmulas n. 5 e 7 do Superior tribunal de Justiça.
+4. Agravo regimental não provido.
+(AgRg nos EDcl no AREsp 235.553/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 2.6.2015, DJe 10.6.2015).
+Em face do exposto, nego provimento ao agravo.
+Por fim, tendo o acórdão recorrido sido publicado já na vigência do novo diploma processual, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte agravada, nos moldes do previsto pelo art. 85, § 11, do atual Código de Processo Civil.
+Intimem-se.
