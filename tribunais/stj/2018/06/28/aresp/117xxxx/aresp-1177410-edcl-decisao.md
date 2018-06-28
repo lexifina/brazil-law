@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por [NOME] VISKOV - ESPÓLIO, LOURDES STEVANELLI VISKOV e PAULO [NOME] em face da decisão acostada a fls. 275-278 e-STJ, de lavra deste signatário, em que se negou provimento ao agravo (art. 1.042 do CPC/15), por meio dos qual os insurgentes pretendiam ver admitido recurso especial.
+Nas razões dos aclaratórios (fl. 284 e-STJ) os embargantes alegaram haver contradição e erro material no decisum impugnado. Afirmaram não ter havido preclusão da matéria e que há provas claras nos autos de que a família sempre residiu no imóvel. Invocaram o princípio da dignidade humana e o da primazia do julgamento do mérito como justificativa para que esta Corte Superior declare a impenhorabilidade do imóvel.
+Sem impugnação (fl. 286 e-STJ) .
+É o relatório. Decide-se.
+Os presentes aclaratórios não comportam acolhimento.
+1. Inicialmente, anote-se não ser possível conhecer da alegação relativa à inexistência de preclusão da caracterização do imóvel como bem de família, pois essa matéria não fora trazida nas razões do recurso especial, de modo que restou configurada inovação recursal, indevida em virtude da preclusão consumativa. "Na linha dos precedentes do STJ, os argumentos apresentados em momento posterior à interposição do recurso especial não são passíveis de conhecimento por importar inovação recursal, que é indevida em virtude da preclusão consumativa". (AgRg no Ag 1338096/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/04/2018, DJe 03/05/2018)
+Vejam-se, também: AgInt no AREsp 961.623/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 15/12/2016, DJe 03/02/2017; AgInt no AREsp 951.178/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 06/12/2016, DJe 15/12/2016; AgInt no AREsp 960.231/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/11/2016, DJe 25/11/2016.
+2. Os embargos de declaração, conforme o disposto no artigo 1.022 do CPC/15, têm fundamentação vinculada às hipóteses legalmente previstas. Destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou, ainda, corrigir erro material. Não servem, no entanto, como meio de manifestação do inconformismo da parte com a decisão prolatada. Nesse sentido, veja-se o seguinte precedente:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO - AÇÃO DE ANULAÇÃO DE TÍTULO DE CRÉDITO - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO DE INSTRUMENTO PARA NEGAR SEGUIMENTO AO RECURSO ESPECIAL.
+IRRESIGNAÇÃO DA AUTORA.
+ ..
+2. Os embargos de declaração representam recurso de fundamentação vinculada ao saneamento de omissão, contradição, obscuridade ou erro material, não se prestando, ao mero reexame da causa como pretende a parte.
+ ..
+5. Agravo regimental desprovido.
+(AgRg no Ag 1230075/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 03/09/2015, DJe 11/09/2015)
+Citam-se, ainda, a título exemplificativo, os seguintes julgados: EDcl no AgRg no Ag 1329960/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 04/10/2016, DJe 19/10/2016; EDcl no REsp 1597129/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/10/2016, DJe 17/10/2016; EDcl no AgRg na PET na Rcl 22.564/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 10/08/2016, DJe 18/08/2016.
+No caso em tela, a embargante não apontou com precisão qual seria a contradição ou o erro material na decisão impugnada, limitando-se expor seu inconformismo e pleitear a declaração da impenhorabilidade do bem. Inviável, assim, acolher os aclaratórios, cuja pretensão é, à evidência, a reforma do decisum singular.
+Ademais, a decisão singular encontra-se devida e suficientemente fundamentada. Em síntese, negou-se provimento ao agravo em recurso especial, pois constatado a incidência de óbices ao conhecimento do apelo extremo. Especificamente quanto à alegação de ofensa ao artigo 1º da Lei 8.009/90, verificou-se insuficiência de fundamentação, haja vista o acórdão recorrido não ter conhecido da matéria por entendê-la preclusa, posicionamento que não foi infirmado pelo recurso especial.
+Assim, tendo o acórdão embargado enfrentado todos os pontos aventados nas razões do agravo em recurso especial, apenas decidindo de forma contrária aos interesses da parte, não há de se falar em vício passível de correção por meio de embargos de declaração, mas sim pretensão meramente infringente, razão pela qual se impõe a sua rejeição.
+2. Do exposto, rejeitam-se os embargos de declaração.
+Publique-se. Intimem-se.
