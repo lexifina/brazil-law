@@ -1,0 +1,38 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ROUBO MAJORADO. EXASPERAÇÃO DA PENA-BASE EM 2 ANOS. PROPORCIONALIDADE E LEGALIDADE. FUNDAMENTOS CONCRETOS A EMBASAR O RECRUDESCIMENTO DA PENA. REGIME FECHADO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] e [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça do Rio de Janeiro.
+Os autos dão conta de que o Juízo singular condenou os pacientes às penas de 7 anos, 9 meses e 10 dias de reclusão, em regime fechado, e 15 dias-multa, como incursos no art. 157, § 2º, II, na forma do art. 71 do Código Penal (fls. 30/37 - Processo n. 0118193-10.2016.8.19.0001).
+Tão somente a defesa recorreu, tendo o Tribunal de Justiça negado provimento ao recurso, mantendo integralmente a sentença condenatória (fls. 14/29 - Apelação Criminal n. 0118193-10.2016.8.19.0001).
+Daí a presente impetração, em que se alega constrangimento ilegal quanto à exasperação da pena-base e quanto ao regime fechado para o início de cumprimento da pena.
+Requer-se, pois, a concessão liminar da ordem para  ..  adequar a pena base, senão para alcançar o mínimo legal, entendendo constituírem as circunstâncias, elementares do tipo, conforme exaustivamente demonstrado, que o seja para reduzir a fração de aumento para 1/8, levando em consideração os parâmetros aceitos pelos Tribunais Superiores; e. abrandar o regime inicial fixado para o regime semiaberto (fl. 13).
+Liminar indeferida às fls. 61/62.
+O Ministério Público Federal emitiu parecer pelo não conhecimento do writ.
+É o relatório.
+Busca a impetração a revisão da dosimetria e do regime inicial de cumprimento da pena.
+Tem-se do acórdão impugnado (fls. 25/27):
+ ..  Incabível o pleito de redução da pena no mínimo legal.
+O I. Juiz sentenciante julgou parcialmente procedente a pretensão punitiva estatal para condenar [NOME] e [NOME] nas penas do artigo 157, § 2º, inciso II n/f do art. 71 ambos do Código Penal e fixou-as da seguinte forma:
+1) Em relação ao roubo contra a vitima Daniel:
+1º Fase: Na primeira fase de aplicação da, pena, considerando as circunstâncias judiciais estabelecidas no art. 59 do CP, estas são desfavoráveis ao acusado. Como se verifica das FAC"s acostadas aos autos, o réu é primário, - todavia, a forma em que fora praticado o delito, com violência física à vítima Daniel, que foi agredido com um soco na boca e um chute, revela maior reprovabilidade na conduta de ambos os acusados, impondo-se, assim, a exasperação da pena-base. Frise-se que, muito embora a agressão tenha sido perpetrada pelo acusado [NOME], o réu [NOME] atuou amparando a conduta violenta, dando suporte à empreitada, provocando maior temor à vítima e reduzindo-lhe a possibilidade de reação. Sendo assim, fixo a pena-base em 6 (seis) anos de reclusão, e 12 (doze) dias-multa.
+2ª. fase: verifico a existência da atenuante genérica prevista no art. 65, 1, CP que se refere ao réu ser menor de vinte e um, na data do fato. Pelo que atenuo em 1/6 (um sexto) a pena intermediária passando a fixá-la para ambos os réus em 5 (cinco anos) de reclusão e 10 (dez) dias-multa.
+3º fase: Verifico na hipótese a incidência da causa de aumento .de pena, prevista no inciso II do par. 2º do art 157 do CP, diante do reconhecimento do concurso de agentes, razão pela qual aumento a pena anteriormente dosada no patamar de 1/3 (um terço), razão pela qual a pena definitiva será de 6 (seis) anos e 8(oito) meses de reclusão e 13 (treze) dias-multa no valor mínimo legal.
+2) Em relação ao roubo contra a vitima JUAN:
+1º Fase: Na primeira fase de aplicação da, pena, considerando as circunstancias judiciais estabelecidas no art. 59 do CP, estas não são desfavoráveis ao acusado. Como se verifica das FAC"s acostadas aos autos, o réu é primário. As circunstancias do delito são similares aos verificados em casos de similar natureza. Sendo assim, fixo a pena-base em 4 (quatro) anos de reclusão, e 10 (dez) dias-multa.
+.2º fase: verifico a existência da atenuante genérica prevista no art. 65, I, CP que se refere ao réu ser menor de vinte e um, na data do fato, todavia deito de aplicá-la em função do verbete 231 da Súmula do STJ. Assim, mantenho a pena em.4 (quatro) anos de reclusão, e 10 (dez) dias-multa.
+3º fase: Verifico na hipótese a incidência da causa de aumento de pena, prevista no inciso II do par. 2º do art :157 do CP, diante do reconhecimento do concurso de agentes, razão pela qual aumento a pena anteriormente dosada no patamar de 113 (um terço), razão pela qual a pena definitiva será de 5 (cinco) anos e 4 (quatro) meses de reclusão e 13 (treze) dias-multa no valor mínimo legal.
+DO CRIME CONTINUADO Alcançada a pena definitiva para cada crime é imperioso aplicar o art. 71; CP referente à continuidade delitiva, posto que nas mesmas condições de tempo e lugar, valendo-se do mesmo modo de execução, o agente cometeu crime de igual natureza, razão pela qual aumento em 1/6 a pena mais grave, condenando o acusado à pena definitiva de 7 (sete) anos e 9 (nove) meses e 10 (dez) dias de reclusão e 15 (quinze) dias-multa no valor mínimo legal.
+O regime inicial de cumprimento da pena privativa de liberdade será o FECHADO, face à circunstância judicial desfavorável verificada (art. 59 do C.P.), que traduz periculosidade social em razão dos maus antecedentes e das circunstâncias em que foi praticado o crime, com base no artigo 33, §3º, do Código Penal.
+ ..
+andou bem o D. Juiz a quo ao elevar a pena-base acima do mínimo legal do apelante DANIEL , fundamentado na conduta do apelante que agiu com violência, dando-lhe um soco na boca e chutes.
+Na segunda fase da dosimetria, foi reconhecida a atenuante da menoridade para ambos os réus, porém apenas a pena referente ao crime que vitimou Daniel foi reduzida, uma vez que as penas-base impostas pelo crime contra Juan foram fixadas no mínimo legal. Óbice intransponível na Súmula 231 do Superior Tribunal de Justiça
+ ..
+Incabível a fixação de regime mais brando.
+Verifica-se que as circunstâncias judiciais desfavoráveis e a gravidade concreta dos delitos praticados impõem a fixação do regime mais severo, com fulcro no art. 33, § 3º do CP.
+Importante consignar que o crime de roubo não se compatibiliza com as regras brandas do regime semiaberto ou aberto, por se tratar de delito violador de dois bens jurídicos (patrimônio e a incolumidade física ou psíquica) e que deve ser alvo do mais veemente e profundo repúdio por parte dos aplicadores da Lei Penal, como forma de resposta adequada ao injusto praticado e ao mal gerado à sociedade, ansiosa pela adoção de medidas mais graves e carente de uma correta e eficaz proteção, que se dá, sem sombra de dúvida, com o afastamento do convívio social daqueles que se dedicam ao cometimento de roubo.
+ ..
+Da análise dos autos, tem-se que, a despeito dos argumentos lançados pela defesa, a fundamentação exarada se fulcra em dados concretos que extrapolam as elementares do crime imputado e são adequadas à valoração negativa das circunstâncias e ao aumento de 2 anos na pena-base, bem como se mostra razoável e proporcional ao delito, de modo que rever tal entendimento para reduzir a pena demandaria amplo revolvimento de matéria fático-probatória, o que é incompatível com a via estreita do mandamus.
+De mais a mais, também não vislumbro ilegalidade na fixação do regime fechado, mormente pelo modus operandi do crime - roubo majorado com duas pessoas que desferiram socos e chutes na vítima -, evidenciando, assim, maior gravidade do comportamento ilícito e a justificar o regime mais severo.
+Ante o exposto, denego a ordem.
+Publique-se.
