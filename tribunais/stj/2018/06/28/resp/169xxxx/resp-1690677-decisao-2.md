@@ -1,0 +1,33 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. PROFESSOR UNIVERSITÁRIO. REMOÇÃO PARA ACOMPANHAR CÔNJUGE. INSTITUIÇÕES FEDERAIS DE ENSINO DIVERSAS. POSSIBILIDADE. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto pela Fundação Universidade do Amazonas, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ fl. 159):
+SERVIDOR PÚBLICO. REMOÇÃO. INSTITUIÇÕES DE ENSINO SUPERIOR DISTINTAS. POSSIBILIDADE.
+1. Remoção, nos termos do caput do art. 36 da Lei nº 8.112/90, é o deslocamento do servidor no âmbito do mesmo quadro, com ou sem mudança de sede.
+2. Para fins de aplicação do artigo 36 da Lei n.º 8.112/90, o docente vinculado a uma universidade pública federal deve ser considerado membro de um quadro único de professores federais vinculados ao Ministério da Educação, e não apenas pertencente àquela específica instituição de ensino. Precedentes.
+3. A remoção a pedido de servidor para acompanhamento de cônjuge ou companheiro, independentemente da existência de vaga, exige obrigatoriamente o cumprimento de requisito específico, qual seja, que o cônjuge, servidor público, tenha sido removido no interesse da Administração, o que foi demonstrado no caso dos autos.
+4. Apelo provido.
+Os embargos de declaração foram parcialmente acolhidos para fins de prequestionamento (e-STJ fl. 205).
+Nas razões do recurso especial, a recorrente alega, preliminarmente, que houve violação do art. 1.022 do CPC/2015, sob o argumento de que o Tribunal a quo não sanou os vícios apontados nos embargos de declaração.
+No mérito, afirma que houve ofensa ao art. 36, parágrafo único, III, da Lei 8.112/1990, defendendo, em síntese, que a remoção só pode ocorrer dentro do mesmo quadro, e que "a decisão ora recorrida implica é a união dos quadros de pessoal das Instituições Federais de Ensino (IFE) vinculadas tanto ao Ministério da Defesa quanto ao Ministério da Educação, haja vista que as IFE podem ser subordinadas ou vinculadas tanto a um Ministério quanto ao outro, consequência que a própria lei invocada como razão de decidir não contempla" (e-STJ fl. 242, grifos no original).
+Contrarrazões não apresentadas (e-STJ fl. 275).
+Juízo positivo de admissibilidade à e-STJ fl. 280.
+É o relatório. Passo a decidir.
+O recurso não merece prosperar.
+De início, afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No mérito, observa-se que o entendimento manifestado pelo Tribunal de origem encontra-se em consonância com a jurisprudência desta Corte no sentido de que, para fins de aplicação do artigo 36 da Lei 8.112/1990, o cargo de professor de Universidade Federal deve ser interpretado como pertencente a um quadro único, vinculado ao Ministério da Educação.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. REMOÇÃO POR MOTIVO DE SAÚDE. INSTITUIÇÕES FEDERAIS DE ENSINO DIVERSAS. POSSIBILIDADE.
+1. A jurisprudência desta Corte orienta-se no sentido de que, para fins de aplicação do artigo 36 da Lei 8.112/1990, o cargo de professor de Universidade Federal deve ser interpretado como pertencente a um quadro único, vinculado ao Ministério da Educação. Precedentes.
+2. Agravo interno não provido. (AgInt no REsp 1.563.661/SP, Relator Ministro Benedito Gonçalves, Primeira Turma, DJe 23/4/2018)
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. REMOÇÃO. TRANSTORNO MENTAL. INTERPRETAÇÃO DO ART. 36 DA LEI 8.112/1990.
+1. Caso em que o Tribunal a quo afirmou expressamente estar comprovado que o ora requerente é portador de transtorno mental e que os especialistas sugeriram a sua remoção para outra localidade: "no caso, entendo que restou comprovado que o impetrante padece de transtorno mental relacionado ao trabalho cujo tratamento não pode ser realizado na localidade do seu exercício atual, e os especialistas sugeriram a sua remoção para outra localidade, para afastá-lo dos fatores psicossociais de risco e tentar diminuir o nível de exposição e estresse, tendo, inclusive o Médico do Trabalho recomendado o deferimento do pedido de remoção do servidor, de forma a possibilitar prováveis repercussões favoráveis sobre o seu bem estar, saúde e qualidade de vida.(fl. 259)". Contudo, entendeu que a pretensão "esbarra na disposição do art. 36, caput, da Lei nº 8.112/90, que prevê que a remoção do servidor público civil, seja a pedido ou no interesse da Administração, deve ocorrer somente no âmbito do mesmo quadro de pessoal de uma instituição."
+2. O fundamento adotado no Tribunal a quo destoa da jurisprudência do STJ, segundo a qual, para fins de aplicação do art. 36, § 2º, da Lei 8.112/1990, o cargo de professor de Universidade Federal deve ser interpretado como pertencente a um quadro único, vinculado ao Ministério da Educação. Precedentes: AgRg no AgRg no REsp 206.716/AM, Rel. Ministra Maria Thereza de Assis Moura, DJ 9/4/2007; AgRg no REsp 1357926/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 09/05/2013; AgRg no REsp 1.498.985/CE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 2/3/2015.
+3. Recurso Especial provido (REsp 1.641.388/PB, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 17/4/2017).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDORA PÚBLICA FEDERAL. PROFESSORA UNIVERSITÁRIA. REMOÇÃO POR MOTIVO DE SAÚDE ENTRE INSTITUIÇÕES FEDERAIS DE ENSINO DIVERSAS. POSSIBILIDADE. PRECEDENTES.
+1. O cargo de professora de Universidade Federal pode e deve ser interpretado, ainda que unicamente para fins de aplicação do art. 36, § 2º, da Lei nº 8.112/90, como pertencente a um quadro de professores federais, vinculado ao Ministério da Educação" (v.g.: AgRg no AgRg no REsp 206.716/AM, Rel. Ministra Maria Thereza de Assis Moura, DJ 9/4/2007).
+2. Agravo regimental não provido (AgRg no REsp 1.498.985/CE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 2/3/2015).
+Confira-se, ainda, a seguinte decisão monocrática: AREsp 649.109/SC, Rel. Ministra Regina Helena Costa, DJe 24/4/2015.
+Majoro em 10% os honorários advocatícios fixados anteriormente, observados os limites e parâmetros dos §§2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (artigo 98, §3º, CPC/2015).
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
