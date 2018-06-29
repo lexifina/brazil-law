@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME], contra v. acórdão do eg. Tribunal de Justiça do Estado de Pernambuco.
+Depreende-se dos autos que o paciente foi preso preventivamente e, posteriormente, condenado, em 18/06/2015, como incurso na sanção do art. 157, § 3º, segunda parte, c/c art. 14, II, ambos do Código Penal, às penas de 18 (dezoito) anos de reclusão, mais pagamento de 100 (cem) dias-multa, em regime inicial fechado, negado o direito de recorrer em liberdade.
+Irresignada, a defesa interpôs recurso de apelação perante o eg. Tribunal de origem, estando o feito atualmente aguardando julgamento.
+Daí o presente mandamus, no qual o impetrante repisa os argumentos lançados no writ originário, reafirmando a existência de constrangimento ilegal consubstanciado no excesso de prazo para a conclusão do feito.
+Requer, ao final, o relaxamento da prisão preventiva.
+A liminar foi indeferida às fls. 62-63.
+As informações foram prestadas às fls. 70-140.
+O Ministério Público Federal, às fls. 142-145, manifestou-se pela concessão da ordem de ofício, em parecer ementado nos seguintes termos:
+"HABEAS CORPUS. CRIME DE ROUBO. CONDENAÇÃO. RECURSO DE APELAÇÃO DA DEFESA. EXCESSO DE PRAZO PARA JULGAMENTO. OCORRÊNCIA. CONSTRANGIMENTO ILEGAL CONFIGURADO. CONCESSÃO DE OFÍCIO.
+- O direito à duração razoável do processo, previsto expressamente na Constituição Federal (art. 5o, LXXVIII) e na Convenção Americana sobre Direitos Humanos (Dec. 678/92, art. 7º, § 5o), não possui natureza absoluta, devendo ser compatibilizado com outros postulados, de forma que os prazos preestabelecidos nas normas processuais servem apenas como referencial para verificação do excesso, de sorte que sua superação não implica necessariamente constrangimento ilegal, podendo ser excedido com base em juízo de razoabilidade.
+- No caso em tela, injustificada a desídia no julgamento do recurso de apelação interposto pelo paciente, estando o recurso eivado de vício de desproporcionalidade e irrazoabilidade capaz de ensejar a concessão da ordem de ofício, não havendo nos autos qualquer razão justificada para a demora para julgamento do recurso de apelação interposto pelo réu/paciente há quase 03 (três) anos.
+- Parecer pela concessão de ofício da ordem de habeas corpus" (fl. 142).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Inicialmente ressalta-se que o término da instrução processual não possui características de fatalidade e de improrrogabilidade, não se ponderando mera soma aritmética de tempo para os atos processuais.
+A propósito, esta Corte, firmou jurisprudência no sentido de se considerar o juízo de razoabilidade para eventual constatação de constrangimento ilegal ao direito de locomoção decorrente de excesso de prazo.
+Consoante informações prestadas pelo eg. Tribunal de origem, às fls. 74-140, tem-se que os trâmites processuais seguem da seguinte forma:
+"A Apelação nº 0003214-59.2014.8.17.0260 (0430835-0) encontra-se neste gabinete para revisão desde 30/05/2018. O Exmo. Des. Demócrito Reinaldo Filho, relator do feito, juntou relatório aos autos em 12/12/2017 (Anexo 01). Passo à descrição do andamento do feito.
+Constam nos autos dois recursos de apelação interpostos pelos condenados [NOME] e [NOME] contra sentença (Anexo 02), publicada em 02/07/2015, que os condenou às respectivas penas de 18 anos de reclusão e 100 dias-multa. e 14 anos de reclusão e 80 dias-multa. ambos dias-multa à razão de 1/30 do salário-mínimo vigente à época do falo. pelo delito de latrocínio tentado (art. 157, §3º. segunda parte, c/c art. 14, N e art. 29, todos do Código Penal.
+Apelo interposto por [NOME] em 13/07/2015  ..
+Apelo interposto por [NOME] em 28/07/2015 ..
+Contrarrazões do Ministério Público apresentadas em 21/08/2015. pugnando pela manutenção da sentença.
+Recurso autuado em 28/03/2016.
+Parecer da Procuradoria de Justiça recebido neste Tribunal em 18/04/2016. opinando pelo desprovimento dos apelos.
+Ausentes as guias de recolhimento provisórias dos apelantcs, mesmo estando eles presos, o Exmo. Des. Sílvio Neves Baptista Filho ordenou suas expedições em 20/06/2016 (Anexo 04). as quais foram expedidas em 22/06/2016.
+Em despacho acostado aos autos em 02/03/2017, o Exmo. Des. Sílvio Neves Baptista Filho determinou a remessa dos autos ao juízo de origem para juntada de mídia correta, uma vez que a constante nos autos se referia a outra ação penal (Anexo 05).
+ ..
+Os autos foram então distribuídos para o presente relator. Exmo. Des. Demócrito Ramos Reinaldo Filho, sendo-lhe conclusos pela primeira vez em 07/06/2017 (Anexo 07).
+ ..
+Conforme já referido, relatório (Anexo 01) juntado aos autos pelo Exmo. Des. Relator em 12/12/2017.
+Considerando a minha recente assunção enquanto Desembargador, no final do mês de janeiro de 2018, segue o relatório a certidão de atualização do Revisor, datada de 02/02/2018 (Anexo 10).
+Ocorre que, ao analisar o processo, percebi que o feito foi autuado como de minha relatoria, mesmo havendo relatório nos autos da lavra do Exmo. Des. Demócrito Reinaldo Filho. Determinei então a correção desta autuação em decisão interlocutória juntada aos autos em 23/03/2018 ..
+Autos remetidos pelo Exmo. Des. Relator à minha revisão em 16/05/2018 ..
+Autos conclusos à minha revisão em 23/05/2018, mas entregues e recebidos somente em 30/05/2018" (fls. 71-74 , grifei).
+Da leitura dos excertos acima transcritos, bem como em nova consulta ao sítio eletrônico do eg. Tribunal a quo, verifica-se a existência de constrangimento ilegal imposto ao paciente, em virtude do injustificável excesso de prazo para o julgamento do recurso de apelação da defesa.
+Isto porque, embora o recurso de apelação tenha sido interposto em em 13/07/2015, portanto há quase três anos, permanece ainda pendente de julgamento o mencionado recurso.
+Nesse sentido:
+"HABEAS CORPUS. FURTO QUALIFICADO (CAIXA ELETRÔNICO). RECEPTAÇÃO E QUADRILHA. PRISÃO PREVENTIVA MANTIDA PELO TRIBUNAL A QUO POR OCASIÃO DO JULGAMENTO DO RECURSO DE APELAÇÃO QUE ANULOU A SENTENÇA CONDENATÓRIA, POR OFENSA AO PRINCÍPIO DA INDIVIDUALIZAÇÃO DA PENA. EXCESSO DE PRAZO. PACIENTES PRESOS HÁ 3 ANOS E 7 MESES, O QUE CORRESPONDE A METADE DO TEMPO DE PENA A QUE FORAM CONDENADOS. CONSTRANGIMENTO ILEGAL EVIDENCIADO. ORDEM CONCEDIDA.
+1. O constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e da proporcionalidade, levando em conta as peculiaridades do caso concreto.
+2. Na hipótese, os pacientes foram presos em 2/9/2013, tendo sido denunciados pela prática dos crimes previstos nos arts. 155, § 4º, I e IV (furto qualificado - caixa eletrônico), 180, caput (receptação), e 288 (associação criminosa), todos do Código Penal
+3. A primeira sentença foi anulada pelo Tribunal Estadual, por ofensa ao princípio da individualização da pena. Não obstante já proferido outro édito condenatório, em 23/8/2016, este limitou-se a incluir sanção pelo crime de receptação, mantendo os mesmos fundamentos utilizados anteriormente no tocante à dosimetria da pena.
+4. Segundo informações colhidas no portal eletrônico do Tribunal de Justiça do Estado de Minas Gerais, os autos foram encaminhados àquela Corte, para apreciação dos novos recursos de apelação defensivos, em 8/2/2017, não havendo prazo para serem julgados. Vê-se que os pacientes encontram-se presos há 3 anos e 7 meses, quase metade do tempo de pena a que foram condenados em primeiro grau, havendo probabilidade de alteração da dosimetria pela Corte Estadual.
+5. Ordem concedida, para relaxar a prisão dos pacientes no âmbito da Ação Penal 0098536-71.2013.8.13.0707, determinando a expedição do competente alvará de soltura, se por outro motivo não estiverem presos, ressalvada a possibilidade de aplicação de medidas cautelares previstas no art. 319 do CPP pelo Juízo de primeiro grau". (HC 364.018/MG,Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 25/04/2017, grifei).
+"PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. EXCESSO DE PRAZO PARA JULGAMENTO DA APELAÇÃO. DEMORA PARA SE FIXAR O DESEMBARGADOR COMPETENTE PARA O CONHECIMENTO DO FEITO. CONSTRANGIMENTO ILEGAL CARACTERIZADO. FALTA DE RAZOABILIDADE. PRISÃO RELAXADA. ORDEM CONCEDIDA.
+1. A jurisprudência desta Corte é firme no sentido de que, na ausência de prazo legal, o excesso de prazo no julgamento do recurso de apelação, apto a autorizar o relaxamento da prisão cautelar, será analisado à luz do princípio da razoabilidade e da proporcionalidade, observando-se sobretudo a complexidade da causa, a atuação das partes, bem como a pena imposta (HC 419.407/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/11/2017, DJe 30/11/2017).
+2. Na espécie, transcorridos mais de um ano e seis meses do recebimento do feito na origem, e não tendo sido fixado o Desembargador Relator competente para o exame do apelo, é manifesto o constrangimento ilegal imposto à paciente, sobretudo quando ela aguarda, presa cautelarmente, há mais de três anos a revisão da condenação e não se pode atribuir à defesa culpa pela referida demora.
+3. Ordem concedida para relaxar a prisão cautelar da paciente." (HC 411.802/PA, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 26/02/2018, grifei).
+"PENAL E PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO. EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA PENAL. MOROSIDADE NO JULGAMENTO DA APELAÇÃO CRIMINAL. LIMITES DA RAZOABILIDADE E PROPORCIONALIDADE EXTRAPOLADOS. CONSTRANGIMENTO ILEGAL CONFIGURADO. HABEAS CORPUS CONCEDIDO.
+1. E uníssona a jurisprudência desta Corte no sentido de que o constrangimento ilegal por excesso de prazo só pode ser reconhecido quando seja a demora injustificável, impondo-se adoção de critérios de razoabilidade no exame da ocorrência de constrangimento ilegal.
+2. Afigura-se desproporcional alongar a custódia cautelar do paciente, pois o acusado foi preso em 11/4/2014, o recurso de apelação foi distribuído em 2/12/2015, tendo o feito permanecido sem qualquer movimentação até 8/5/2017, já se tendo passados 2 anos sem que o recurso de apelação seja julgado, não havendo previsão de pauta de julgamento do apelo criminal.
+3. Habeas corpus concedido, para a soltura do paciente, [NOME], o que não impede nova e fundamentada decisão cautelar penal, inclusive menos gravosa que a prisão processual, esta última fundamentada exclusivamente por fatos novos." (HC 396.460/RJ, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 15/02/2018, grifei).
+Ante o exposto, não conheço do presente habeas corpus. Contudo, concedo a ordem de ofício, para relaxar a prisão preventiva decretada em desfavor do paciente, salvo se por outro motivo estiver preso, e sem prejuízo da decretação de nova prisão, desde que concretamente fundamentada, ou da imposição de medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal.
+P. e I.
