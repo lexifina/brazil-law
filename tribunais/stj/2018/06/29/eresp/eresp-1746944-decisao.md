@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso especial interposto por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"Ação rescisória. Previdência privada. Parcela cesta alimentação. Preliminar de ilegitimidade. Reconhecida a ilegitimidade do advogado. Extinção da ação quanto a eles, na forma do art. 267, inciso VI, do CPC/73. Preliminar acolhida. Contestação intempestiva. Caracterização da revelia. Efeitos do art. 344 do CPC que não se aplicam à ação rescisória, porquanto a autoridade da coisa julgada material pressupõe presunção de veracidade que a revelia acarreta. Presunção não se aplica à rescisória. Vigência do principio da imutabilidade Mérito. Alteração de posicionamento. Alegação de erro de fato e de violação à literal dispositivo de lei. Inocorrência. Ausência das hipóteses autorizadoras da ação rescisória. Mudança de entendimento jurisprudencial não dá azo ao ajuizamento da rescisória. Impossibilidade de violação à coisa julgada e à segurança jurídica. Inteligência do art. 966 do CPC. Entendimento do STJ firmado no julgamento, pela Corte Especial, do EAResp nº 397.326/MG, assim como no julgamento da AR 5849. Ação rescisória improcedente" (e-STJ fl. 247).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, a recorrente alega violação dos artigos 114, 115, parágrafo único, 966, V e VIII, do Código de Processo Civil de 2015, 3º da Lei Complementar nº 108/2001 e 3º e 6º da Lei nº 6.321/1976.
+Aduz que a matéria relativa à natureza do auxílio cesta-alimentação foi pacificada pela jurisprudência do Superior Tribunal de Justiça no julgamento do REsp 1.207.071/RJ, firmado no rito do art. 543-C do CPC/1973, e o trânsito em julgado do acórdão rescindendo ocorreu em 5/8/2014, quando já não mais havia controvérsia sobre o tema, o que enseja a relativização da Súmula nº 343/STF e a procedência da presente demanda rescisória.
+Sustenta que a ação rescisória não foi ajuizada como sucedâneo recursal e sim em razão da existência de erro de fato e à violação de lei federal.
+Afirma que a decisão rescindenda, ao declarar a natureza remuneratória do auxílio cesta-alimentação, deixou de considerar um fato efetivamente ocorrido, não emitindo qualquer juízo sobre ele, referente à previsão expressa em acordo coletivo de trabalho de ter referida verba natureza indenizatória.
+Argumenta ser este o erro de fato que autoriza a ação rescisória.
+Assevera que a determinação de pagamento de benefício sem o devido custeio importa em desequilíbrio atuarial, além de ser vedado pela legislação de regência, ocorrendo, desse modo, violação literal do artigo 3º da Lei Complementar nº 108/2001.
+Menciona que, por interpretação extensiva da Lei nº 6.321/1976, o auxílio alimentação fornecido pelo empregador também não possui natureza salarial.
+Defende a legitimidade passiva dos advogados da parte autora no processo de conhecimento na rescisória em curso, tendo em vista que os "efeitos dos pedidos formulados nesta ação refletirão diretamente neles, já que a procedência ensejará a obrigação de devolução dos valores percebidos a título de honorários advocatícios" (e-STJ fl. 322).
+Pugna pelo reconhecimento do litisconsórcio passivo necessário.
+Assinala inexistir justificativa para interposição de recurso extraordinário.
+Após a apresentação das contrarrazões (e-STJ fls. 339-355), o recurso foi admitido na origem, subindo os autos a esta Corte.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Ao julgar improcedente o pedido da ação rescisória, o Tribunal estadual consignou:
+"(..)
+Da leitura da decisão, tem-se que não houve qualquer desbordamento do acórdão que possa ser classificado como violação de lei, abordando corretamente a questão trazida naqueles autos, consoante jurisprudência vigente naquele momento.
+Se a parte autora da presente ação não está satisfeita com a prestação jurisdicional outorgada não pode se utilizar da ação rescisória, cabível somente nas hipóteses ditadas pela legislação processual, para a obtenção de novo julgamento em razão de sua insatisfação com o teor do julgado rescindendo.
+(..)
+Por último, também inexiste erro de fato, pois necessário que o erro implique em admissão de um fato inexistente ou considere inexistente fato efetivamente ocorrido, sendo indispensável que o juiz não tenha se pronunciado sobre o fato. O erro de fato capaz de ensejar a rescisão diz respeito à percepção do julgador. Eventual interpretação equivocada da prova, inocorrente no caso concreto, não caracteriza erro autorizador da rescisão da sentença.
+Conforme já referido, a modificação do entendimento jurisprudencial não dá azo ao ajuizamento da ação rescisória.
+Procedimento contrário implicaria na violação à coisa julgada e à própria segurança jurídica do acórdão proferido e o qual é objeto do pedido inicial, pois a decisão prolatada foi tomada com base no entendimento jurisprudencial majoritário adotado naquela época.
+(..)
+Portanto, a alteração jurisprudencial quanto à inviabilidade de inclusão do auxílio cesta -alimentação nos proventos de complementação de aposentadoria pagos por entidade fechada de previdência privada não autoriza o manejo da ação rescisória" (e-STJ fls. 253 e 256).
+Segundo o entendimento desta Corte Superior, a alteração jurisprudencial quanto à impossibilidade de inclusão do auxílio cesta-alimentação nos proventos de complementação da aposentadoria pagos por entidade fechada de previdência privada não autoriza a propositura de ação rescisória.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. FUNDAMENTOS DO ACÓRDÃO NÃO IMPUGNADOS NO APELO EXTREMO. SÚMULAS 283 E 284 DO STF. MANEJO DE RESCISÓRIA PARA ADEQUAÇÃO DO JULGADO. IMPOSSIBILIDADE. ENTENDIMENTO FIRMADO NA CORTE ESPECIAL. AGRAVO IMPROVIDO.
+1. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada, bem como a ausência de demonstração da suposta violação à legislação federal, impede o conhecimento do recurso, na esteira dos enunciados n. 283 e 284 da Súmula do Supremo Tribunal Federal.
+2. O recente entendimento da Corte Especial deste Tribunal Superior é de que "a alteração jurisprudencial quanto à inviabilidade de inclusão do auxílio cesta-alimentação nos proventos de complementação de aposentadoria pagos por entidade fechada de previdência privada posterior à manifestação transitada em julgado não autoriza o manejo da ação rescisória" (EAREsp n. 397.326/MG, Relator Ministro Humberto Martins, Corte Especial).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1.073.393/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 21/9/2017, DJe 2/10/2017)
+"AGRAVO INTERNO NA AÇÃO RESCISÓRIA. PROCESSUAL CIVIL. PREVIDÊNCIA PRIVADA. AUXÍLIO-CESTA-ALIMENTAÇÃO. TEMA PACIFICADO À ÉPOCA. ALTERAÇÃO DE ENTENDIMENTO. VIOLAÇÃO LITERAL DE LEI. AFASTAMENTO. SÚMULA Nº 343/STF. APLICAÇÃO. ERRO DE FATO. NÃO CONFIGURAÇÃO. NATUREZA DA VERBA. EFETIVA DISCUSSÃO.
+1. A violação de literal disposição de lei que autoriza o ajuizamento de ação rescisória é aquela que enseja flagrante transgressão do "direito em tese". Assim, a pacificação da jurisprudência da Corte em sentido contrário e em momento posterior à prolação do acórdão rescindendo não afasta a incidência da Súmula nº 343/STF. Precedentes da Corte Especial.
+2. A ação rescisória fundada em erro de fato pressupõe que a decisão tenha admitido um fato inexistente ou tenha considerado inexistente um fato efetivamente ocorrido, mas, em quaisquer dos casos, é indispensável que não tenha havido controvérsia nem pronunciamento judicial sobre ele (art. 966, § 1º, do CPC/2015). Isso porque, se houve controvérsia na demanda primitiva, a hipótese é de erro de julgamento e não de erro de fato.
+3. Na situação em exame, a interpretação feita pelo acórdão rescindendo da legislação aplicável ao caso concreto não foi desarrazoada ou teratológica, tanto que seguiu a orientação jurisprudencial pacífica da época, o que atrai a incidência da Súmula nº 343/STF. Ademais, houve a efetiva discussão sobre a natureza jurídica do auxílio-cesta-alimentação - se verba de caráter remuneratório ou indenizatório -, a afastar a alegação de erro de fato.
+4. Agravo interno não provido."
+(AgInt na AR 5.849/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 23/8/2017, DJe 19/10/2017)
+Incide, portanto, a Súmula nº 343/STF: "Não cabe ação rescisória por ofensa a literal disposição de lei, quando a decisão rescindenda se tiver baseado em texto legal de interpretação controvertida nos Tribunais".
+Quanto ao art. 966, VIII, do CPC/2015, a ação rescisória fundada em erro de fato pressupõe que a decisão tenha admitido um fato inexistente ou tenha considerado inexistente um fato efetivamente ocorrido, mas, em quaisquer dos casos, é indispensável que não tenha havido controvérsia nem pronunciamento judicial sobre o fato (art. 966, § 1º, do CPC/2015). Isso porque, se houve controvérsia acerca do fato na demanda primitiva, a hipótese é de erro de julgamento e não de erro de fato.
+Na espécie, houve a discussão efetiva no acórdão rescindendo acerca da natureza jurídica do auxílio cesta-alimentação - se verba de caráter remuneratório ou indenizatório -, a afastar, portanto, a alegação de erro de fato.
+Por fim, o pedido de reconhecimento de litisconsórcio passivo do advogado da parte recorrida encontra-se prejudicado.
+Na origem, os honorários advocatícios foram fixados em R$ 3.000,00 (três mil reais), os quais devem ser majorados para R$ 4.000,00 (quatro mil reais) a favor do advogado da parte recorrida, em atendimento ao art. 85, § 11, do CPC/2015.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
