@@ -1,0 +1,19 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF. AGRAVO NÃO PROVIDO.
+1. Com relação aos arts. 502, 503 e 505, do Código de Processo Civil de 2015, art. 6º, da LINDB, arts. 421 e 422 do Código Civil de 2002, art. 18 da Lei Complementar nº 109 de 2001, verifica-se que não houve o pronunciamento do Tribunal de origem a respeito das aludidas matérias, tampouco foram opostos embargos declaratórios para sanar eventual omissão e propiciar o prequestionamento, o qual é imprescindível mesmo para vícios surgidos no próprio acórdão recorrido. Incidem, por isso, as Súmulas 282 e 356 do STF.
+2. Agravo interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (Relator): Trata-se de agravo interno interposto contra decisão desta relatoria (e-STJ, fl. 571/572) que negou provimento ao recurso especial, tendo em vista a incidência das Súmulas 282 e 356/STF.
+Nas razões recursais, a agravante alega, em síntese, que, mesmo que de forma implícita, houve prequestionamento da matéria trazida em seu recurso especial.
+Requer, ao final, a reconsideração da decisão agravada ou sua reforma pela Turma Julgadora.
+Devidamente intimada, a parte agravada não se manifestou.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (Relator): O inconformismo não merece êxito, devendo ser mantida a decisão agravada pelos próprios fundamentos.
+Com relação aos arts. 502, 503 e 505, do Código de Processo Civil de 2015, art. 6º da LINDB, arts. 421 e 422 do Código Civil de 2002, art. 18 da Lei Complementar nº 109 de 2001, verifica-se que não houve o pronunciamento do Tribunal de origem a respeito das aludidas matérias, tampouco foram opostos embargos declaratórios para sanar eventual omissão. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF.
+A propósito do tema, cumpre registrar que o prequestionamento, como requisito de admissibilidade do recurso especial, mesmo na forma implícita, não dispensa o necessário debate acerca da matéria controvertida, sendo imprescindível mesmo para as matérias de ordem pública (AgRg no REsp 1.372.649/CE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 28/03/2017, DJe de 07/04/2017; AgInt no REsp 1.627.444/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 06/12/2016, DJe de 15/12/2016; AgInt no AgRg no AREsp 663.415/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 06/12/2016, DJe de 14/12/2016; e AgRg no REsp 1.319.139/RR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 04/08/2015, DJe de 14/08/2015), e, ainda, que a contrariedade tenha surgido no julgamento do próprio acórdão recorrido (AgRg no REsp 1.399.545/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/11/2015, DJe de 1º/12/2015; AgRg no AREsp 266.937/RS, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 26/02/2013, DJe de 19/03/2013; AgRg no Ag 627.006/RJ, Rel. Ministro CARLOS ALBERTO MENEZES DIREITO, TERCEIRA TURMA, julgado em 10/08/2006, DJ de 13/11/2006, p. 246; e AgRg no AgRg no Ag 566.344/SP, Rel. Ministro PAULO GALLOTTI, SEXTA TURMA, julgado em 04/05/2004, DJ de 27/03/2006, p. 360).
+Com efeito, a linha argumentativa apresentada pela parte agravante é incapaz de evidenciar o desacerto da decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
