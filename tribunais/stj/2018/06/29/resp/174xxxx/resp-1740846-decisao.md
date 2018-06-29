@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, com fulcro na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 3ª Região assim ementado (e-STJ fl. 89):
+PREVIDENCIÁRIO. DECISÃO MONOCRÁTICA. AGRAVO INTERNO. MANUTENÇÃO DO JULGADO AGRAVADO. EMBARGOS À EXECUÇÃO.
+1- O recurso foi decidido monocraticamente, em conformidade ao artigo 1011, inciso I, cumulado com artigo 932, incisos III a V, do Código de Processo Civil de 2015.
+2- A embargada efetuou recolhimentos esparsos de 2010 a 2012, conforme demonstra o documento anexado aos autos (fls. 14-17) Verifica-se, portanto, que houve concomitância entre o reconhecimento e concessão do benefício por incapacidade e as contribuições à Previdência. No entanto, apesar de conhecida pelo INSS, a questão não foi suscitada no processo de conhecimento, pelo quê não deve ser considerada nestes embargos do devedor, restando mantida a r. sentença que acolheu o cálculo refeito.
+3 - Agravo interno desprovido.
+Os embargos de declaração não foram acolhidos (e-STJ fls. 102/108).
+No especial obstaculizado, o recorrente sustentou violação do disposto nos artigos "42, 43, par. 1º, alínea "a", 46 e 59 da Lei 8213/91, artigos 884 e 885 do Código Civil", pois "foi concedido beneficio incapacitante e há prova de que a autora exerceu atividade laborativa após a DIB" (e-STJ fl. 113).
+Acrescenta que "a fim de se evitar o enriquecimento injusto por parte da Autora em face da Administração Pública, o beneficio não pode ser pago nos períodos em que houve atividade laborativa, sob pena de infringência aos artigos 884 e 885 do Código Civil" (e-STJ fl. 113).
+As contrarrazões não foram apresentadas (e-STJ fl. 121)
+Passo a decidir.
+De início, registro que conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Feito tal esclarecimento, verifico que a pretensão recursal não merece acolhimento, pois as razões recursais estão dissociadas dos fundamentos do acórdão recorrido.
+Destaco os fundamentos que deram suporte ao acórdão questionado (e-STJ fl. 88):
+No que tange à matéria impugnada, consigna-se que a embargada efetuou recolhimentos esparsos de 2010 a 2012, conforme demonstra o documento anexado aos autos (fls. 14-17) Verifica-se, portanto, que houve concomitância entre o reconhecimento e concessão do benefício por incapacidade e as contribuições à Previdência. No entanto, apesar de conhecida pelo INSS, a questão não foi suscitada no processo de conhecimento, pelo quê não deve ser considerada nestes embargos do devedor, restando mantida a r. sentença que acolheu o cálculo refeito.
+No recurso especial, por sua vez, o INSS apontou violação dos artigos 42, 43, § 1º, alínea "a", 46 e 59, todos da Lei 8.213/91, e dos artigos 884 e 885 do Código Civil, a evidenciar, pelo cotejo entre as razões do recurso e do acórdão, o desencontro entre o que foi decidido e a pretensão recursal deduzida.
+A falta de pertinência entre as razões do recurso especial e a decisão questionada revela-se apta a atrair o óbice contido na Súmula 284 do STF ("é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"), pois não é possível conhecer de recurso especial que invoca como violado dispositivo de lei federal que não possui comando normativo apto a infirmar a tese adotada pelo acórdão recorrido.
+Nesse sentido
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. AGRAVO REGIMENTAL. DECISÃO MONOCRÁTICA. INDEFERIMENTO LIMINAR DA AÇÃO. INCOMPETÊNCIA DO STJ PARA CONHECER ORIGINARIAMENTE DO WRIT. VEICULAÇÃO DE RAZÕES DISSOCIADAS. APLICAÇÃO DA SÚMULA 284/STF. PRECEDENTES DO STJ. AGRAVO REGIMENTAL DO IMPETRANTE NÃO CONHECIDO.
+1. Aplica-se o óbice da Súmula 284/STF quando o recurso veicular razões dissociadas dos fundamentos da decisão recorrida.
+2. No caso, a decisão agravada apenas reconheceu a incompetência do STJ, por não se configurar a hipótese do art. 105, I, b da CF/88, matéria não recorrida.
+3. Agravo Regimental do Impetrante não conhecido.
+(AgRg no MS 19.557/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 14/12/2016, DJe 2/2/2017)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. INOCORRÊNCIA. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284 DO STF.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. O acolhimento de recurso especial por violação ao art. 535 do CPC/1973 pressupõe a demonstração de que a Corte de origem, mesmo depois de provocada mediante embargos de declaração, deixou de sanar vício de integração contido em seu julgado, o que não ocorreu na espécie.
+3. Não é possível conhecer de recurso especial que invoca como violado dispositivo de lei federal que não possui comando normativo apto a infirmar a tese adotada pelo acórdão recorrido. Inteligência da Súmula 284 do STF.
+4. Agravo interno desprovido.
+(AgInt no AREsp 290.622/MG, de minha relatoria, PRIMEIRA TURMA, julgado em 02/05/2017, DJe 20/06/2017)
+Além disso, "(..) como a fundamentação supra é apta, por si só, para manter o decisum combatido e não houve contraposição recursal ao ponto, aplica-se na espécie, por analogia, o óbice da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."" (REsp 1666566/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/06/2017, DJe 19/06/2017).
+Nesse sentido:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. ALEGAÇÃO DE COMPENSAÇÃO BASEADA EM FATO JÁ CONHECIDO NA FASE DE CONHECIMENTO. RECURSO REPRESENTATIVO DA CONTROVÉRSIA. IMPOSSIBILIDADE. PRESERVAÇÃO DA COISA JULGADA. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. SÚMULA 283/STF.
+1. Hipótese em que o Tribunal de origem, com base no conjunto fático-probatório dos autos, assentou que "o INSS colacionou documentos comprovando que, após o termo inicial do auxílio-doença (08/2009) e a data de início do pagamento (30/09/2012), a autora continuou trabalhando, pois verteu contribuições à Previdência Social. Segundo a autarquia previdenciária, há incompatibilidade de recebimento simultâneo do benefício com a remuneração devida pelo trabalho, impondo-se a compensação de tais valores. Contudo, embora conhecida, verifica-se que o INSS não manejou recurso adequado visando à discussão da compensação, não prosperando, portanto, o seu conhecimento em sede de embargos do devedor, ante a necessidade de preservação da coisa julgada produzida nos presentes autos" (fl. 125, e-STJ). Rever tal entendimento implica reexame da matéria fático-probatória, o que é vedado em Recurso Especial (Súmula 7/STJ).
+2. É inadmissível Recurso Especial quanto a questão que, a despeito da oposição de Embargos Declaratórios, não foi apreciada pelo Tribunal de origem. Incidência da Súmula 211/STJ.
+3. Os fundamentos utilizados pelo Tribunal de origem capazes de manter o acórdão hostilizado não foram atacados pelo recorrente. Incidência, por analogia, da Súmula 283/STF.
+4. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1723414/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 10/04/2018, DJe 25/05/2018)
+Assim, o recurso especial não merece ser conhecido.
+A teor do disposto no art. 85, § 11, c/c o art.  98, § 1º, VI, §§ 2º e 3º, do CPC/2015, deve ser fixada a verba honorária recursal, inclusive ao beneficiário da assistência judiciária gratuita.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial. Majoro os honorários recursais em R$ 1.000,00 (mil reais) sobre o valor já fixado na origem, respeitados os limites e critérios previstos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Publique-se. Intimem-se.
