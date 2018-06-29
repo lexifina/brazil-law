@@ -1,0 +1,20 @@
+DECISÃO
+MICHAEL HARRISON SANTOS PEREIRA, paciente neste habeas corpus, alega sofrer constrangimento ilegal em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 0099741-09.2013.8.26.0050.
+Consta dos autos que o paciente foi condenado à pena de 1 ano e 4 meses de reclusão, em regime inicial fechado, mais multa, por infração ao art. 180, caput, do Código Penal, o que foi mantido na íntegra pelo Tribunal de origem, por ocasião do julgamento da apelação defensiva.
+Nas razões do writ, a impetrante sustenta a ausência de motivação idônea para justificar o acréscimo da pena em 1/3, na fase intermediária da dosimetria, pela agravante da reincidência.
+Requer, dessa forma, a concessão da ordem para reduzir a pena imposta ao paciente. Ausente pedido liminar.
+Prestadas as informações, o Ministério Público Federal opinou pela denegação da ordem (fls. 83-88).
+Decido.
+Sobre o aumento de pena relativo à agravante da reincidência, cumpre salientar que o Código Penal não estabelece limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas, respectivamente. Na verdade, o art. 61 limitou-se a prever as circunstâncias que sempre agravam a pena, embora não tenha mencionado qualquer valor de aumento. O mesmo ocorre com o disposto no art. 65, que estipula as circunstâncias que sempre atenuam a pena, sem, contudo, fazer nenhuma menção ao quantum de redução.
+A doutrina e a jurisprudência têm entendido que cabe ao magistrado, dentro do seu livre convencimento e de acordo com as peculiaridades do caso concreto, escolher a fração de aumento de pena pela incidência da agravante, em observância aos princípios da razoabilidade e da proporcionalidade.
+Nos termos da jurisprudência deste Superior Tribunal, a aplicação de fração superior a 1/6 pela reincidência exige motivação concreta e idônea. Menciono, como exemplo, o HC n. 229.371/DF, Rel. Ministra Laurita Vaz, 5ª T., DJe 4/9/2013.
+Nesse ponto, destaco que, segundo entendimento do Supremo Tribunal Federal, "A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas. Às Cortes Superiores, no exame da dosimetria das penas em grau recursal, compete o controle da legalidade e da constitucionalidade dos critérios empregados, bem como a correção de eventuais discrepâncias, se gritantes ou arbitrárias, nas frações de aumento ou diminuição adotadas pelas instâncias anteriores." (RHC n. 115.654/BA, Rel. Ministra Rosa Weber, 1ª T., DJe 21/11/2013, destaquei).
+No caso, verifico que as instâncias ordinárias, na segunda fase da dosimetria, exasperaram a reprimenda do paciente em 1/3, em razão de ele ser reincidente em crime patrimonial, tendo em vista contar com condenação definitiva pela prática do crime de roubo majorado. O Tribunal a quo afirmou que "em que pese não se tratar de reincidência específica, mantem-se o aumento tendo em vista envolver crime patrimonial, com violência ou grave ameaça contra pessoa" (fl. 25, grifei), o que, a meu ver, justifica a exasperação nesse patamar, não havendo que se falar em desproporcionalidade.
+Nesse sentido:
+ ..
+2. É permitido ao julgador mensurar com discricionariedade o quantum de aumento da pena a ser aplicado, desde que seja observado o princípio do livre convencimento motivado. Na espécie, o magistrado destaca que o paciente é reincidente específico pela prática de crime contra o patrimônio com agravante, fato que justifica o incremento da pena, em 1/3 (um terço), na segunda fase da dosimetria.
+ ..
+(HC n. 273.963/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 30/4/2014)
+Assim, não identifico qualquer erro ou ilegalidade a ser sanada, uma vez que o aumento da pena foi embasado em argumentos concretos e idôneos.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
