@@ -1,0 +1,36 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ATRASO NA ENTREGA DO IMÓVEL. DANOS MORAIS NÃO CONFIGURADOS. MERO DESCUMPRIMENTO CONTRATUAL. OFENSA À PERSONALIDADE NÃO COMPROVADA. AGRAVO CONHECIDO PARA CONHECER DO RECURSO ESPECIAL E DAR-LHE PROVIMENTO.
+DECISÃO
+[NOME] e [NOME] ajuizaram ação de indenização por danos materiais e morais contra Sardenha Investimentos Imobiliários Ltda. em razão do atraso na entrega de imóvel adquirido na planta.
+O Magistrado de primeiro grau julgou parcialmente procedentes os pedidos para condenar a ré ao pagamento de lucros cessantes consistentes em taxa mensal de 0,5% sobre o valor ajustado no contrato de compra e venda, com atualização desde a data da celebração e acréscimo de juros de mora de 1% a contar da citação, e ao pagamento de indenização por danos morais no valor de R$ 15.000,00 (quinze mil reais), acrescida de juros de mora de 1% a partir da citação.
+Interposto recurso de apelação pela ré, o Tribunal de origem manteve a sentença. Eis a ementa (e-STJ, fl. 213):
+COMPRA E VENDA ATRASO NA ENTREGA DO IMÓVEL LUCROS CESSANTES Indenização devida, uma vez que houve a privação de uso do bem A base de cálculo da reparação deve ser fixada em percentual equivalente a 0,5% sobre o preço atualizado do imóvel, conforme o contrato, pelo período fixado na sentença - DANOS MORAIS - A compra do imóvel gera expectativas, frustradas pelo atraso na entrega do imóvel - Dano moral configurado Verba indenizatória mantida, ausente impugnação do ofendido Sentença mantida Recurso desprovido.
+Nas razões do recurso especial, a recorrente alegou que o mero inadimplemento contratual, caracterizado pelo atraso na entrega do imóvel, não resulta em pagamento de indenização por danos morais (e-STJ, fl. 229).
+Esclareceu que a suposta mora implica apenas mero dissabor, pois, para que o dano moral seja configurado e considerado reparável, é necessário que seja comprovada a ocorrência de uma situação fática que cause dor, vexame ou humilhação (e-STJ, fl. 230).
+Destacou que é pacífico o entendimento de que o atraso na entrega das obras, por si só, não gera danos morais (e-STJ, fl. 230).
+Arguiu que a elevada indenização por danos morais causaria o enriquecimento sem causa da parte recorrida em detrimento da recorrente (e-STJ, fl. 233).
+Contrarrazões apresentadas às fls. 254-263 (e-STJ).
+O Tribunal local não admitiu o processamento do recurso especial pela ausência de comprovação do dissenso jurisprudencial.
+Irresignada, a recorrente apresentou agravo refutando o óbice apontado pela Corte estadual.
+Brevemente relatado, decido.
+De início, depreende-se dos autos que o recurso especial foi interposto contra decisão publicada quando ainda estava em vigor o Código de Processo Civil de 1973. Sendo assim, sua análise obedecerá ao regramento nele previsto (Enunciado Administrativo n. 2 do STJ).
+Esta Corte possui o entendimento pacífico no sentido de que, em regra, o mero inadimplemento contratual não causa, por si só, dano moral.
+Na hipótese específica de atraso na entrega de imóvel, em decorrência do descumprimento do prazo previsto em contrato de promessa de compra e venda, essa análise deverá ser feita caso a caso, ficando afastado, em princípio, o caráter absoluto da presunção de existência do dever reparatório, salvo se existente algum fato concreto capaz de transformar a mera frustração quanto à expectativa inicial de cumprimento do prazo avençado - o que não ultrapassa a barreira do aborrecimento e dissabor próprios do cotidiano - em situação de grave abalo na esfera subjetiva do promitente comprador e, por esse motivo, capaz de ensejar reparação por danos morais.
+No caso dos autos, o Tribunal de origem considerou devida a condenação por danos morais ao fundamento de que o mero descumprimento contratual por parte da recorrente gerou insegurança e desequilíbrio psíquico aos recorridos, entendimento dissonante da orientação desta Corte.
+Nesse sentido:
+CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO C/C INDENIZAÇÃO POR DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL. ABORRECIMENTO E DISSABOR. EXAME DAS PREMISSAS FÁTICAS DO ACÓRDÃO RECORRIDO. ENUNCIADO N. 7 DA SÚMULA DO STJ. NÃO INCIDÊNCIA.
+1. O simples descumprimento contratual, por si, não é capaz de gerar danos morais, sendo necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável pela sua gravidade.
+2. A Corte local, para reformar a sentença e julgar procedente o pedido de indenização por danos morais, concluiu que o atraso na entrega do imóvel, de aproximadamente 9 (nove) meses, por si, frustrou a expectativa do casal de ter um lar, causando, consequentemente, transtornos por não ter domicílio próprio. Com efeito, o Tribunal de origem apenas superestimou o desconforto, o aborrecimento e a frustração da autora, sem apontar, concretamente, situação excepcional específica, desvinculada dos normais aborrecimentos do contratante que não recebe o imóvel no prazo contratual.
+3. A orientação adotada na decisão agravada não esbarra no óbice contido no enunciado n. 7 da Súmula do STJ, tendo em vista que foram consideradas, apenas, as premissas fáticas descritas no acórdão recorrido.
+4. Agravo regimental desprovido (AgRg no REsp n. 1.408.540/MA, Relator o Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 19/2/2015)
+CONSUMIDOR E PROCESSUAL CIVIL. RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. ATRASO NA ENTREGA DE UNIDADE IMOBILIÁRIA. CLÁUSULA PENAL MORATÓRIA. POSSIBILIDADE DE CUMULAÇÃO COM LUCROS CESSANTES. JURISPRUDÊNCIA CONSOLIDADA NO STJ. DANOS MORAIS. SIMPLES ATRASO. AUSÊNCIA.
+1. Ação ajuizada em 29/08/2014. Recurso especial interposto em 06/06/2016 e distribuído a este gabinete em 22/09/2016.
+2. É possível cumular a cláusula penal decorrente da mora com indenização por lucros cessantes quando há atraso na entrega do imóvel pela construtora. Precedentes.
+3. Danos morais: ofensa à personalidade. Precedentes. Necessidade de reavaliação da sensibilidade ético-social comum na configuração do dano moral. Inadimplemento contratual não causa, por si, danos morais. Precedentes.
+4. O atraso na entrega de unidade imobiliária na data estipulada não causa, por si só, danos morais ao promitente-comprador.
+5. Recurso especial conhecido e parcialmente provido (REsp n. 1.642.314/SE, Relatora a Ministra Nancy Andrighi, Terceira Turma, julgado em 16/3/2017, DJe 22/3/2017)
+Ademais, segundo entendimento consolidado pela Terceira Turma, "o atraso na entrega de unidade imobiliária na data estipulada não causa, por si só, danos morais ao promitente-comprador", devendo ser comprovada a ofensa à personalidade daí decorrente, e não a mera frustação na expectativa de receber o imóvel (cf. REsp 1.642.314/SE, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 16/3/2017, DJe 22/3/2017).
+Verifica-se, na espécie, que não foi comprovado que o atraso teria afetado, de maneira excepcional, o direito da personalidade dos recorridos.
+Diante do exposto, conheço do agravo para conhecer do recurso especial e dar-lhe provimento a fim de excluir a condenação a título de reparação por danos morais.
+Redistribuo os ônus sucumbenciais, devendo as partes arcarem com 50% das custas e demais despesas processuais, mantidos os honorários na forma definida pela sentença.
+Publique-se.
