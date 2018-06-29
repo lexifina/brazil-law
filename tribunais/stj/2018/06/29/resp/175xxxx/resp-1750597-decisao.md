@@ -1,0 +1,18 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. INTERESSES INDIVIDUAIS HOMOGÊNEOS. CONSUMIDOR. CONSERTO DE PRODUTOS LEVADOS À ASSISTÊNCIA TÉCNICA. PRAZO MÁXIMO E ÚNICO 30 (TRINTA DIAS). MINISTÉRIO PÚBLICO. LEGITIMIDADE. RELEVÂNCIA SOCIAL. AGRAVO PROVIDO PARA DETERMINAR SUA CONVERSÃO EM RECURSO ESPECIAL.
+DECISÃO
+O Ministério Público do Estado de São Paulo ajuizou ação civil pública contra a Motorola Mobility Comércio de Produtos Eletrônicos Ltda, em razão da "prática abusiva na prestação do serviço de assistência técnica, na medida em que se computa o prazo de 30 (trinta) dias para saneamento do vício, previsto pelo § 1º do artigo 18 do Código de Defesa do Consumidor, de forma individualizada e não como prazo único" (e-STJ, fl. 2).
+A sentença julgou extinto o processo, sem resolução do mérito, pela falta de interesse de agir, com fulcro no art. 485, VI, do CPC/2015.
+Interposta apelação, a Trigésima Primeira Câmara de Direito Privado do Tribunal de Justiça de São Paulo, por unanimidade de votos, negou provimento ao recurso. Eis a sua ementa (e-STJ, fl. 927):
+PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA PROPOSTA PELO MINISTÉRIO PÚBLICO. PRETENSÃO VOLTADA AO IMEDIATO CUMPRIMENTO DA NORMA DO ART. 18, § 1º, I, II E III, DO CDC PELA RÉ APÓS LEGADO O PRODUTO À ASSISTÊNCIA TÉCNICA. SENTENÇA DE EXTINÇÃO. RECONHECIMENTO DE FALTA DE INTERESSE PROCESSUAL E IMPOSSIBILIDADE JURÍDICA DO PEDIDO. RECURSO NÃO PROVIDO. O Ministério Público, por força do art. 1º, IV, da Lei n. 7.347/85, tem legitimidade e interesse de agir na defesa dos direitos coletivos e metaindividuais, todavia a propositura da ação civil pública está adstrita à presença de interesse processual, consubstanciado na relevância social objetiva do pedido, assim como à possibilidade jurídica do mesmo, o que não se evidencia presente, razão pela qual bem extinta a ação.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 949-954).
+Nas razões do recurso especial, fundado na alínea a do permissivo constitucional, o recorrente alegou violação ao art. 18, caput e § 1º, I, II e III, 81, parágrafo único, III, 82, I, do Código de Defesa do Consumidor e 1.022, I e II, do CPC/2015.
+Asseverou que o Tribunal de origem deixou de se manifestar acerca de questões essenciais ao desfecho da demanda e que deveriam ser manifestadas no bojo do acórdão recorrido.
+Sublinhou, ainda, a existência de interesses difusos na demanda, pelo "fato da recorrida ser responsável por 18% do mercado nacional de telefones celulares" (e-STJ, fl. 980).
+Insurgiu-se contra a exigência de requisito não previsto em lei, consistente na relevância social, para afastar a legitimidade ad causam do Ministério Público.
+As contrarrazões foram apresentadas (e-STJ, fls. 987-1.001).
+A decisão agravada (e-STJ, fls. 1.004-1.005) inadmitiu o recurso especial por não vislumbrar ofensa ao art. 1.022 do CPC/2015 bem como pela incidência do óbice da Súmula 7 desta Corte.
+No agravo (e-STJ, fls. 1.009-1.030), afirma o insurgente a presença de todos os requisitos de admissibilidade do especial.
+A questão jurídica discutida no feito consiste na aferição da relevância social da ação civil pública ajuizada pelo Ministério Público estadual visando à defesa dos consumidores da Motorola Mobility Comércio de Produtos Eletrônicos Ltda, em razão da inobservância do prazo máximo previsto no art. 18, § 1º, do Código de Defesa do Consumidor para o conserto de seus produtos.
+Considerando os fundamentos trazidos no recurso e atendidos os pressupostos de admissibilidade, dou provimento ao presente agravo para determinar a sua conversão em recurso especial a fim de que a matéria seja melhor examinada, com fulcro no art. 34, XVI, do RISTJ.
+Publique-se.
