@@ -1,0 +1,52 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A matéria relativa aos artigos 884 e 886, do CC, não foi objeto de análise pelo acórdão recorrido (o Tribunal local não apreciou se teria havido ou não enriquecimento sem causa), apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF).
+2. O acolhimento da pretensão recursal, a fim de verificar a ocorrência ou não do alegado enriquecimento ilícito da parte agravada, exigiria o revolvimento das provas carreadas aos autos, o que atrai o óbice da Súmula 7 do STJ.
+3. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, os Ministros da Quarta Turma do Superior Tribunal de Justiça acordam, na conformidade dos votos e das notas taquigráficas, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente), Marco Buzzi e Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Trata-se de agravo interno interposto por INOVA GESTÃO DE SERVIÇOS URBANOS S/A em face de decisão deste Relator de fls. 356-357, que negou provimento ao seu agravo em recurso especial, em razão da incidência da Súmula 7/STJ, devido à impossibilidade de reexame do conjunto fático-probatório dos autos.
+Nas razões recursais, sustenta a parte agravante: " O que deve ser levado em consideração é se o ato, apesar de praticado em desconformidade com mera formalidade prevista no termo de acordo, teve o poder de atender ao que se pretendia quando fixada a exigência. Em caso positivo e inexistindo violação a princípios ou prejuízo a terceiros, não há lógica para que seja considerado descumprido o acordo, sob pena de se caracterizar penalização abusiva e desnecessária da Agravante e enriquecimento ilícito da Agravada, que é o que está a ocorrer no caso.".
+Requer o conhecimento e provimento do presente agravo interno.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A matéria relativa aos artigos 884 e 886, do CC, não foi objeto de análise pelo acórdão recorrido (o Tribunal local não apreciou se teria havido ou não enriquecimento sem causa), apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF).
+2. O acolhimento da pretensão recursal, a fim de verificar a ocorrência ou não do alegado enriquecimento ilícito da parte agravada, exigiria o revolvimento das provas carreadas aos autos, o que atrai o óbice da Súmula 7 do STJ.
+3. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. Conforme asseverei na decisão monocrática de minha Relatoria (fls. 356-357), o acolhimento da pretensão recursal, a fim de verificar a ocorrência ou não do alegado enriquecimento ilícito da parte agravada, exigiria o revolvimento das provas carreadas aos autos, o que atrai o óbice da Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RESSARCIMENTO AO SUS. PRESCRIÇÃO QUINQUENAL. DECRETO 20.910/1932. SÚMULA 83/STJ. APLICAÇÃO DA TABELA TUNEP. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ.
+1. Quanto à prescrição da pretensão de cobrança do ressarcimento ao SUS, verifica-se que o acórdão recorrido está em harmonia com o entendimento do STJ de que a prescrição para a cobrança da dívida ativa de natureza não tributária é quinquenal, com base no Decreto 20.910/1932. 2. Verifica-se que o Tribunal de origem decidiu a causa em consonância com a orientação do STJ, pelo que incide, na espécie, a Súmula 83/STJ, enunciado sumular aplicável, inclusive, quando fundado o Recurso Especial na alínea "a" do inciso III do art. 105 da Constituição Federal. 3. A análise sobre a aplicação da tabela TUNEP e a verificação se os seus valores correspondem ao efetivamente praticado pelas operadoras de plano de saúde, exigiriam a apreciação dos elementos de provas constantes nos autos, cuja revisão é inviável no âmbito do Recurso Especial, ante o óbice da Súmula 7 do STJ. 4. Além disso, verificar a ocorrência ou não enriquecimento ilícito demandaria também reexame de matéria fático-probatória, vedado em Recurso Especial.
+5. Recurso Especial não conhecido.
+(REsp 1698860/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/11/2017, DJe 19/12/2017)
+ADMINISTRATIVO. ATO DE IMPROBIDADE ADMINISTRATIVA. LICITAÇÃO FICTÍCIA. CARACTERIZAÇÃO DO ATO DE IMPROBIDADE. PREJUÍZO AO ERÁRIO.ENRIQUECIMENTO ILÍCITO. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO.INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Sustenta-se, em síntese, que o Prefeito do Município de Londrina à época dos fatos, os seus Secretários de Gestão Pública e de Defesa Social, e outro servidor, promoveram a realização de procedimento licitatório fictício para a contração de empresa , com o suposto objetivo de treinamento à Guarda Municipal. Contudo, não houve a devida contraprestação, uma vez que o serviço contratado foi realizado pela Polícia Militar do Estado do Paraná. II - Aduziu-se, desse modo, ofensa aos princípios que regem a administração pública através da execução de atos manifestamente ímprobos, com consequentes danos materiais ao erário municipal.
+III - O Ministério Público Federal opinou pelo desprovimento dos recursos.
+IV - O enfrentamento das alegações atinentes à caracterização de ato de improbidade administrativa, sob as perspectivas objetiva - de existência ou não de prejuízo ao erário e de ocorrência ou não de enriquecimento ilícito - e subjetiva - consubstanciada pela existência ou não de elemento anímico - demanda inconteste revolvimento fático-probatório. V - Por consequência, o conhecimento das referidas argumentações resta obstaculizada diante do verbete sumular n. 7 do Superior Tribunal de Justiça.
+VI - O não conhecimento do recurso especial com fundamento no enunciado n. 7 da Súmula do STJ, impede a análise da divergência jurisprudencial.
+VII - Agravo interno improvido.
+(AgInt no AREsp 1036921/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 07/11/2017, DJe 10/11/2017)
+3. Ademais, conforme consignado às fls. 356-357, a matéria relativa aos artigos 884 e 886, do CC, não foi objeto de análise pelo acórdão recorrido (o Tribunal local não apreciou se teria havido ou não enriquecimento sem causa), apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF).
+Ressalto que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO. REVISÃO CONTRATUAL. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULAS 5 E 7 DO STJ. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. SÚMULA 83 DO STJ. AGRAVO INTERNO NÃO PROVIDO. 1. Não se viabiliza o recurso especial pela indicada violação do art. 1.022 do CPC/2015. Isso porque, embora rejeitados os embargos de declaração, todas as matérias foram devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. Verifica-se que os arts. 247, 292, §3º, 330, I, 496, VI, 583, 586, 615 e 618, I, do CPC/73, o art. 19 do Decreto-Lei 21991/32, e o art. 20 do Código de Organização Judiciária, não foram objeto de debate no acórdão recorrido, nem nos embargos de declaração opostos.
+A falta do necessário prequestionamento inviabiliza o exame da alegada contrariedade ao dispositivo citado por este Tribunal, em sede de especial. Ao STJ cabe julgar, em sede de recurso especial, conforme dicção constitucional, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios.
+Incidência na espécie da Súmula 211/STJ. Há ressaltar que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração.
+3. As conclusões do acórdão recorrido no tocante à nulidade da execução extrajudicial e da adjudicação do imóvel pela credora, e revisão do saldo devedor do financiamento, não podem ser revistas por esta Corte Superior, pois demandaria, necessariamente, reexame de fatos, provas e cláusulas contratuais, o que é vedado em razão do óbice das Súmulas 5 e 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1057878/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/05/2018, DJe 15/05/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PREQUESTIONAMENTO. AUSÊNCIA. FALTA DE ALEGAÇÃO DE OFENSA AO ART.1.022 DO CPC/2015. DECISÃO MANTIDA.
+1. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula n. 211 do STJ.
+2. Segundo assente na jurisprudência desta Corte Superior, "o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento" (AgInt no AREsp n. 1.098.633/MG, Relator Ministro LUÍS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/9/2017, DJe 15/9/2017).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1164351/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 15/03/2018, DJe 27/03/2018)
+4. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
