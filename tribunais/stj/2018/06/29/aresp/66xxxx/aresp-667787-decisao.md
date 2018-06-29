@@ -1,0 +1,30 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. LIMITAÇÃO DOS DESCONTOS EM FOLHA DE PAGAMENTO. ART. 9º, § 1º, XI, DO RISTJ. REDISTRIBUIÇÃO DO FEITO A UM DOS MINISTROS INTEGRANTES DAS TURMAS DA PRIMEIRA SEÇÃO.
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por Banco do Estado do Rio Grande do Sul S.A., com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 157):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. CONTA REGISTRO. INCIDÊNCIA DE TARIFAS. IMPOSSIBILIDADE. PREQUESTIONAMENTO.
+A Resolução nº 3.402/06 dk CMN veda a incidência de tarifas sobre contas registro, espécie de conta com finalidade de depósito dos vencimentos do trabalhador.
+Exceção prevista no art. 6o, II, da Resolução nº 3.424/06 do CMN, reivindicada pelo recorrente, contempla somente contratos de serviço de pagamento (conta registro) realizados pelo Poder Público, mas que já prevejam isenções de tarifas arroladas nas alíneas do referido artigo. Caso concreto em que, demonstrada a cobrança de tarifas, atrai a incidência da Resolução nº 3.402/06 do CMN, determinando a procedência da ação. RECURSO DESPROVIDO.
+Nas razões do recurso especial (e-STJ, fls. 166-177), o recorrente alegou violação aos arts. 37 da Constituição Federal; e 421 do Código Civil; e às Resoluções 3402 e 3424 do Banco Central.
+Insurgiu-se contra a sentença que julgou procedentes os pedidos deduzidos na ação de responsabilidade civil cumulada com dano material, condenando-o a disponibilizar no mesmo dia o total dos créditos dos vencimentos da autora, servidora pública municipal, facultando-lhe a transferência mediante DOC ou TED, sem cobrança de tarifas. Determinou, ainda, a devolução dos valores despendidos a título das tarifas em relação à conta-corrente que a autora foi compelida a abrir, desde a data da abertura, corrigidas monetariamente pelo IGP-M, desde o desembolso.
+Postulou, ao final, a reforma da sentença para reconhecer a possibilidade de manutenção do convênio firmado a fim de não ser compelido à abertura e à manutenção de conta-salário da recorrida.
+A decisão da Terceira Vice-Presidência do Tribunal de Justiça do Estado do Rio Grande do Sul deixou de admitir o recurso especial por incidência da Súmula 7/STJ (e-STJ, fls. 185-191).
+Foi interposto agravo em recurso especial às fls. 232-240 (e-STJ).
+Em decisão de fls. 253-254 (e-STJ), o então Presidente do STJ, Ministro Francisco Falcão, determinou a devolução dos autos à origem para a observância da sistemática prevista nos arts. 1.040 e 1.041 do CPC/2015.
+Por despacho de fls. 283-287 (e-STJ), o Tribunal de Justiça do Estado do Rio Grande do Sul reencaminhou os autos a esta Corte, por entender inaplicável o regime disposto no art. 543-C do CPC/1973, estabelecido peia Lei 11.672/2008, aos recursos que não preencherem os requisitos de admissibilidade do recurso especial, sob pena de usurpação da competência do Superior Tribunal de Justiça.
+Brevemente relatado, decido.
+Dispõe o art. 9º do Regimento Interno do Superior Tribunal de Justiça que a natureza da relação jurídica em litígio determina a competência entre as Seções desta Corte e, no caso, está-se diante de competência da Primeira Seção, disciplinada no inciso XI do § 1º do art. 9 do referido Regimento Interno, consoante se verifica do julgamento, pela Corte Especial, da questão de ordem no REsp n. 1.163.337/RS, a qual recebeu a seguinte ementa:
+QUESTÃO DE ORDEM. EMBARGOS DE DIVERGÊNCIA. SERVIDOR PÚBLICO. DESCONTOS DE EMPRÉSTIMOS CONSIGNADOS EM FOLHA DE PAGAMENTO. LIMITAÇÃO. COMPETÊNCIA DA PRIMEIRA SEÇÃO.
+1.- Recursos referentes a limite percentual de desconto em pagamento de empréstimo consignado feito por servidor público, com débito em conta-corrente e desconto na folha de pagamento, são da competência da 1ª Seção do Superior Tribunal de Justiça (RISTJ, art. 9º, XI).
+2.- Compete, porém, à 2ª Seção do Superior Tribunal de Justiça, o julgamento de recursos referentes a empréstimo consignado, contraído por devedor não-servidor público, realizado mediante convênio com empresas privadas.
+3.- Embargos de Divergência que deverão ser redistribuídos a dos autos a um dos E. Ministros integrantes da C. Primeira Seção (EREsp n. 1.163.337/RS, Relator o Ministro Sidnei Beneti, Corte Especial, DJe 12/8/2014)
+Sobre o tema discutido nos autos, confira-se também:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. DETERMINAÇÃO DE ABERTURA DE CONTA CORRENTE EM INSTITUIÇÃO FINANCEIRA PRÉ-DETERMINADA. RECEBIMENTO DE PROVENTOS. POSSIBILIDADE.
+ 1. O princípio constitucional da supremacia do interesse público, como modernamente compreendido, impõe ao administrador ponderar, diante do caso concreto, o conflito de interesses entre o público e o privado, a fim de definir, à luz da proporcionalidade, qual direito deve prevalecer sobre os demais.
+ 2. A liberdade de escolha da instituição bancária que o servidor receberá sua remuneração não pode se contrapor ao princípio da eficiência, que exige do Administrador soluções que alcancem os resultados almejados do modo menos oneroso ao aparelho estatal.
+ 3. Inviável possibilitar que cada servidor escolha o banco que melhor atenda seus interesses, inclusive escolhendo praça e agência, pois tal medida inviabilizaria a Administração Pública em sua tarefa de emitir, em tempo hábil, as devidas ordens de pagamento.
+ 4. O fato de o recorrente receber os vencimentos em instituição indicada pela Administração não lhe tolhe o direito de escolher outra que ofereça melhores vantagens, pois a conta-salário é isenta de tarifas e deve permitir a transferência imediata dos créditos para outras contas bancárias de que o beneficiário seja titular, nos termos das Resoluções n. 3.402/2006 e n. 3.424/2006, editadas pelo Banco Central do Brasil, por meio do Conselho Monetário Nacional.
+ 5. Recurso ordinário improvido.
+(RMS 27.428/GO, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 03/03/2011, DJe 14/03/2011)
+Dessa forma, determino sejam os autos encaminhados para redistribuição a um dos Ministros integrantes das Turmas da Primeira Seção.
+Publique-se.
