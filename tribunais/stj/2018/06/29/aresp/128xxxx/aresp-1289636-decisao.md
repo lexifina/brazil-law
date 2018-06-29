@@ -1,0 +1,26 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. MANEJADO SOB A ÉGIDE DO NCPC. RECURSO QUE NÃO INFIRMA TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O APELO NOBRE NA ORIGEM. INCIDÊNCIA DO ART. 932, III, DO NCPC. AGRAVO NÃO CONHECIDO.
+DECISÃO
+BYZORD COMÉRCIO DE VIDROS AUTOMOTIVOS LTDA. (BYZORD) ajuizou ação de cobrança contra [NOME] E ADMINISTRAÇÃO DE SERVIÇOS AUTOMOTIVOS LTDA. ([NOME]) tendo por objeto contrato de parceria comercial.
+A sentença julgou o pedido parcialmente procedente.
+[NOME] interpôs recurso de apelação assim apreciado:
+Contrato de prestação de serviços celebrado entre empresas. Despedida unilateral pela contratante, sem justa causa, da empresa prestadora de serviços. Art. 473 do Código Civil. Tutela jurídica da confiança do contratante em que a contraparte cumpra com suas obrigações. Limites éticos para a denúncia do contrato, que é o instrumento pelo qual as partes se asseguram do recíproco cumprimento das obrigações avençadas. Art. 603 do mesmo Código: "Se o prestador de serviço for despedido sem justa causa, a outra parte será obrigada a pagar-lhe por inteiro a retribuição vencida, e por metade a que lhe tocaria de então ao termo legal do contrato." Caso concreto em que é incontroversa a despedida sem justa causa. Sentença de parcial procedência, prolatada com fulcro no art. 603 cit., que se confirma. Apelação a que se nega provimento (e-STJ, fl. 168).
+Os embargos de declaraçaõ foram rejeitados (e-STJ, fls. 186/190).
+AGRO NEW MÁQUINAS AGRICOLAS LTDA. (AGRO NEW - que incorporou a [NOME]) interpôs recurso especial com base o art. 105, III, a, da CF,sob alegação de violação dos arts. 413, 421, 422 e 478 do CC/02, pelos seguintes fundamentos (1) a extinção do contrato se deu por justa causa; (2) deve ser respeitada a cláusula geral rebus sic stantibus; (3) devem ser observados os princípios da probidade e boa-fé que vedam que uma das partes abuse dos termos do contrato em prejuízo da outra; (4) a liberdade de contratar deve ser exercida nos limites da função social do contrato; (5) a cláusula pena deve ser reduzida equitativamente se a obrigação principal foi cumprida em parte ou se o montante da penalidade for manifestamente excessivo.
+Foram apresentadas contrarrazões (e-STJ, fls. 227/231)
+O apelo nobre foi inadmitido por (1) não ter sido demonstrada a violação dos preceitos arrolados no recurso especial e (2) Súmula nº 7 do STJ.
+AGRO NEW ingressou com agravo em recurso especial onde alegou (1) ausência de fundamentação da decisão agravada; (2) ficou demonstrada a infringência aos artigos citados.
+Foi apresentada contraminuta (e-STJ, fls. 275/278).
+É o relatório.
+DECIDO.
+A irresignação não comporta conhecimento.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+De fato permaneceu sem efetivo ataque o fundamento de que a reforma do acórdão recorrido com a desconstituição de suas premissas, nos moldes como pretendida, demanda necessariamente o reexame dos elementos informativos do feito, o que é obstado pela Súmula nº 7 do STJ,
+Na verdade, AGRO NEW se limitou a reiterar, a fundamentação deduzida no recurso especial afirmando que demonstrou a violação da lei, não apresentando, contudo, argumentos concatenados para infirmar os esteios da decisão que negou seguimento ao seu apelo nobre.
+Assim, não tendo o recurso impugnado especificamente os fundamentos da decisão recorrida, é o caso de incidir o art. 932, III, do NCPC.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. INCIDENTE DE FALSIDADE. RECURSO CABÍVEL. APELAÇÃO. SÚMULA 83/STJ. AGRAVO REGIMENTAL IMPROVIDO. 1. Quando o inconformismo excepcional não é admitido com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte. 2. Se a parte agravante não apresenta argumentos hábeis a infirmar os fundamentos da decisão regimentalmente agravada, deve ela ser mantida por seus próprios fundamentos. 3. Agravo regimental a que se nega provimento (AgRg no AREsp nº 856.954/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 20/4/2016)
+Nessas condições, nos termos do art. 932, III, do NCPC, NÃO CONHEÇO do agravo.
+Por fim, advirta-se que eventual recurso interposto contra este julgado estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º) e honorários recursais (art. 85, § 11).
+Publique-se.Intimem-se.
