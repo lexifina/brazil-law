@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de [NOME], DIOGO DE OLIVEIRA GONÇALVES, DAVID BATISTA BARROS DE OLIVEIRA e [NOME] contra ato de Desembargador Relator do Tribunal de Justiça do Estado de São Paulo (Correição Parcial n. 2120370-47.2018.8.26.0000), que indeferiu o pleito de urgência.
+Extrai-se dos autos que os pacientes foram pronunciados pela suposta prática dos delitos de homicídio qualificado, na modalidade tentada (por duas vezes), roubo circunstanciado, quadrilha e porte ilegal de arma de fogo.
+Designada data para o julgamento perante o Tribunal do Júri, a sessão plenária não se realizou em virtude da não formação do conselho de sentença. No mesmo momento, o Juízo de origem determinou o desmembramento do Júri, designando o dia 2/8/2018 para o julgamento de David e [NOME] (reincidentes) e o dia 17/10/2018 para o julgamento de Fábio e Diogo (primários) (e-STJ fls. 28/30).
+Inconformada com o desmembramento do julgamento popular, a defesa interpôs correção parcial no Tribunal de origem, requerendo a suspensão do Júri.
+Indeferido o pleito liminar, foi impetrado o presente habeas corpus, alegando-se que a decisão de 1º grau violou o arts. 429, III, c/c 469, ambos do Código de Processo Penal.
+Requer, liminarmente, seja determinada a ordem de julgamento, submetendo-se primeiro os pacientes primários a julgamento, ou subsidiariamente, determinar que o Promotor de Justiça se abstenha de usar em desfavor dos pacientes a condição de reincidentes.
+É o relatório. Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.
+No mesmo sentido, confira-se o seguinte precedente:
+CRIMINAL. HC. QUADRILHA. FURTO QUALIFICADO. PRISÃO PREVENTIVA. FALTA DE FUNDAMENTAÇÃO. ATO DE DESEMBARGADOR. INDEFERIMENTO DE LIMINAR. SÚMULA N.º 691/STF. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. ORDEM NÃO CONHECIDA.
+1- Não cabe habeas corpus contra indeferimento de liminar, exceto em casos de evidente e flagrante ilegalidade, sob pena de indevida supressão de instância, uma vez que o mérito da ordem originária ainda não foi apreciado no Tribunal a quo.
+2- Súmula n.º 691 que teve sua validade reafirmada pelo Supremo Tribunal Federal, com a ressalva de que o enunciado não impede o conhecimento de habeas corpus, se evidenciado flagrante constrangimento ilegal.
+3- Não sendo possível constatar qualquer ilegalidade na decisão recorrida, deve o paciente aguardar a apreciação do mérito da questão aduzida em 2º grau.
+4- Ordem não conhecida (HC n. 82.163/SP, Rel. Ministra JANE [NOME] - Desembargadora Convocada do TJ/MG - DJe 1/10/2007).
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+No caso, foi a liminar assim decidida na Corte de origem (e-STJ fls. 18/26):
+Vistos.
+Irresignados com os efeitos da cisão do julgamento pelo Tribunal do Júri, frustrado em 13.6.2018, e asseverando que agora desatendido o disposto no art.
+429, III do Cód. de Processo Penal, por força da redesignação consignada a fl. 17 destes autos, os corrigentes interpuseram a presente correição parcial para cancelar a deliberação de fl. 680 (numeração dos autos originários) ou, então, determinar que o MM Juiz-Presidente redistribua a ordem dos julgamentos em consonância com os critérios postos na exordial, argumentando com o que seriam supostos prejuízos.
+Vieram os autos ao rel. para exame da liminar.
+É o resumo suficiente.
+-1- Respeitosamente, neste exame sumário, não há evidência de flagrante constrangimento. Como medida cautelar excepcional, a sua concessão teria cabimento tão-somente quando o constrangimento ilegal fosse manifesto e identificável de plano.
+Na esteira desse entendimento várias são as manifestações dos pretórios (cf., p. ex., STJ, 6ª T., AgR em HC 6.068/RJ, rel. Min. Fernando Gonçalves, DJU de 25/08/97, pág. 39.404; STJ, 6ª T., HC 11.897/SP, rel. Min. Hamilton Carvalhido, DJU de 18/09/00, pág. 163;
+STJ, 5ª T., HC 13.091/SP, rel. Min. Felix Fischer, DJU de 18/09/00, pág. 146; STJ, 6ª T., HC 22.581/SP, rel. Min. Hamilton Carvalhido, DJU de 10/02/03, pág. 236).
+Por outro lado, o direito em questão não oferece simplicidade para a cognição sumária, isto é, não há patente coação ilegal reclamada pela jurisprudência (cf. STJ, 6ª T., HC 7.092/GO, rel. Min. Vicente Leal, RSTJ, 114/369).
+Resumindo, marcado o julgamento conjunto dos 4 pronunciados (fls. 26/30 e 392/403) para 13 de junho passado, o mesmo não foi levado adiante porque não se conseguiu formar o conselho de sentença. É que, cf. peças juntadas ao recurso, cada um dos increpados imotivadamente recusou vários dos jurados que eram paulatinamente sorteados (total de 9), motivadamente recusado um décimo jurado, por conta deste manter "vínculo afetivo com os defensores" (vide ata de fls. 14/16).
+Então, não existindo um número suficiente de jurados não impugnados, o MM Juiz foi obrigado a remarcar a sessão e, para impedir a repetição do acontecido, cindiu o julgamento dos 4 acusados em duas sessões distintas: (i) para os reincidentes o ato será realizado em 2 de agosto e para os primários, em meados em 17 de outubro (cf. posto no doc. de fl.17).
+-2- Respeitosamente, uma vez examinados os autos, tenho que não se pode debitar ao Magistrado a redesignação dos julgamentos, atraso aquele que agora preocupa sobremaneira os defensores, a ponto de reclamarem a medida liminar.
+As defesas é que, concatenadas, sem expressarem motivos, recusaram muitos jurados, a ponto de os presentes não impugnados não atingirem o número legal necessário para instalação o ato.
+Do mesmo modo, levado a tanto pelo exercício da defesa, o critério adotado pelo MM Juiz, na ausência de outros, a priori, não pode ser desqualificado como válido, inviável, nesta quadra, aduzir que deveriam ser julgados aqueles nomeados em primeiro lugar na r.
+deliberação monocrática que determinou a instalação do plenário do Júri.
+A ordem nominal adotada na r.
+pronúncia é a mesma posta na denúncia ministerial (fls. 26/30 e 392/403), inviável tomar-se tal circunstância ao pé da letra para, sobre ela, erigir-se a incidência do art. 429, III do CPP (aqueles "precedentemente pronunciados").
+Há de se conferir a mens legislatoris, de precedência para fins de julgamento em plenário, jamais, porém, adotada a ordem nominal na interlocutória judicial.
+A precedência posta na lei seria incidente se algum, dentre os réus, tivesse sido pronunciado em decisão com data anterior à dos demais, o que não é o caso (fls. 392/403).
+Todos foram pronunciados na mesma data, de sorte que, prima facie, não seria absolutamente correto cogitar que uns precederiam a os outros.
+Do mesmo modo, há que se conferir ictu oculi prejuízo na formação de convencimento dos Jurados em razão desta ou daquela ordem de plenários. E aqui isso também não é claro.
+Daí, porque, rejeito a liminar.
+Feitas estas observações, a despeito dos argumentos expendidos na correição parcial, as circunstâncias de fato e de direito, até aqui evidenciadas com base empírica idônea, cf. jurisprudência do Col. Pretório Excelso (HC 129.472/RJ; RHC 128.070/RJ; RHC 128.241/SC; HC 126.663/MG HC 125296/PR), não autorizam a concessão da liminar, pois não se vislumbram o fumus boni juris e o periculum in mora ensejadores da medida.
+Os julgamentos foram adiados por conta da defesa e as novas datas são próximas, incidente o verbete 21 do e.STJ:
+PRONUNCIADO O REU, FICA SUPERADA A ALEGAÇÃO DO CONSTRANGIMENTO ILEGAL DA PRISÃO POR EXCESSO DE PRAZO NA INSTRUÇÃO.
+Aliás, acerca do recurso em tela, a correição parcial não contém previsão no Código de Processo Penal e mesmo o art. 211 do Regimento Interno do Egrégio Tribunal de Justiça do Est. de São Paulo, de forma taxativa, restringe a sua aplicação somente "para emenda de erro ou abuso que importe inversão tumultuaria dos atos e fórmulas processuais, quando não previsto recurso específico".
+[NOME] que esse recurso tem em vista o error in procedendo, isto é, erro cometido pelo juiz em ato processual que passe a causar tumulto no processo. [NOME] enumera algumas hipóteses de error in procedendo, a saber: a) defesa apresenta rol de testemunhas fora do prazo previsto pelo art. 395 do CPP e o Juiz o aceita e b) se o Promotor requer ao Juiz a devolução dos autos do inquérito à Polícia, para novas diligências, julgadas imprescindíveis para o oferecimento da denúncia e Juiz indefere tal pedido.
+Novamente [NOME] elenca outras: 1) decisão que, no recebimento de denúncia, altera a classificação do delito; 2) decisão que manda ouvir parte não decidindo sobre deferimento ou não do pedido de arquivamento do Ministério Público; 3) indeferimento de oitiva de testemunha tempestivamente arrolada e etc.
+Certo é que, sem prejuízo das conclusões de [NOME], para quem a correição parcial "se afigura inaceitável, uma vez que esse esdrúxulo sucedâneo recursal está abolido inteiramente pelo nosso Código de Processo Civil", bem como que "Permitir-se tão anômalo remédio recursal, depois que o agravo de instrumento se tornou bastante elástico para cobrir toda e qualquer moléstia ou dano que a parte possa sofrer, seria contra legem (..)" ("Manual de Direito Processual Civil", vol.
+3/189, Editora Saraiva)" (JTJ 197/265), a r. deliberação que deu causa ao quid pro quo processual não pode simplesmente ser taxada de erro ou abuso que importe inversão tumultuária dos atos e fórmulas de ordem legal do processo.
+Peças presentes nos autos, dispenso requisição de informações, oficiando-se ao 1º grau para que o MM Juiz tome conhecimento da interposição, como também dê conhecimento dela ao Dr.
+[NOME].
+Verifica-se que o decisum apresenta fundamentação suficiente e idônea a afastar a alegação, neste momento, de ilegalidade na cisão do Júri Popular. Ademais, os pacientes foram pronunciados no mesmo momento, o que afasta a aplicação do inciso III do art. 429 do CPP.
+Entendo, portanto, não ser o caso de superação do enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intime-se.
