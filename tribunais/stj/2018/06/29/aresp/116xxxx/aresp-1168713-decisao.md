@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu seu apelo nobre.
+Consta do autos que o agravante foi condenado pela prática de crime previsto no artigo 140, § 3º do Código Penal, em concurso material, resultando na reprimenda de 2 (dois) anos e 4 (quatro) meses de reclusão, além de 23 (vinte e três) dias-multa.
+Inconformada, a defesa apelou perante a Corte Estadual, tendo o recurso sido parcialmente provido, reduzindo a pena para 1 (um) ano, 4 (quatro) meses e 10 (dez) dias, além do pagamento de 12 (doze) dias-multa.
+Seguiu-se a interposição de recurso especial, em virtude de violação ao artigo 59 do Código Penal, que não foi admitido pelo óbice do Enunciado Sumular nº 7 desta Corte Superior de Justiça.
+É o relatório.
+No recurso especial, o insurgente pugna pela reforma do acórdão, a fim de reconhecer a existência de fundamentação inidônea na decisão em virtude da análise desfavorável das circunstâncias e conseqüências do crime.
+A par dos fundamentos declinados pelo Tribunal de origem por ocasião do juízo de admissibilidade ali realizado, constata-se que, de fato, o recurso especial interposto merece seguimento.
+Na primeira fase, atenta ao disposto no art. 59 do Código Penal, observo que o réu é tecnicamente primário, porém décadas atrás já sofreu condenação por crimes de homicídio culposo e lesão corporal culposa. De acordo com a prova oral produzida, inclusive admitido pelo próprio réu, uma dessas condenações advém de crime de transito. No caso presente novamente o réu mostrou-se extremamente irresponsável ao ingerir concomitantemente remédios controlados e bebida alcoólica antes de dirigir.
+Causou somente danos morais e materiais às vítimas, mas poderia, pelo estado em que se encontrava, ter causado outra tragédia. Pesadas tais circunstâncias, observo que o réu apresenta uma personalidade irresponsável, caracterizadora de verdadeiro desrespeito pela vida, integridade física e moral e propriedade das outras pessoas. Assim, fixo a pena-base acima do mínimo legal em 2 anos de reclusão e 20 dias-multa. (e-STJ: fls. 354/355)
+Quanto à personalidade, ressalta-se que, de acordo com entendimento jurisprudencial assentado nesta Corte, a existência de antecedentes criminais ou de ações penais em curso não é fundamento idôneo para desabonar a personalidade do paciente. Neste caso, a avaliação desfavorável decorreu da existência de condenações anteriores, além da presença de indícios de que o acusado possui atitudes de alta reprovabilidade no meio social.
+A propósito:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS. EXASPERAÇÃO DA PENA-BASE. ELEMENTOS PRÓPRIOS DO TIPO PENAL E CONSIDERAÇÕES GENÉRICAS ACERCA DA GRAVIDADE DO DELITO. FUNDAMENTOS INIDÔNEOS. NECESSIDADE DE READEQUAÇÃO. CONDUTA SOCIAL VALORADA NEGATIVAMENTE. CONDENAÇÕES TRANSITADAS EM JULGADO. IMPOSSIBILIDADE. ALTERAÇÃO DE ENTENDIMENTO DESTA CORTE QUANTO AO TEMA. MANIFESTA ILEGALIDADE VERIFICADA. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+4. A Quinta Turma deste Superior Tribunal de Justiça em recente decisão, e ao alterar seu posicionamento sobre o tema, decidiu que é inidônea a utilização de condenações anteriores transitadas em julgado para se inferir como negativa a personalidade ou a conduta social do agente (HC 366.639/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 28/3/2017, DJe 5/4/2017).
+ ..
+6. Habeas corpus não conhecido. Ordem concedida, de ofício, a fim de reduzir as penas-base pelo delito de tráfico de drogas e associação para o tráfico, resultando a pena definitiva do paciente em 13 anos de reclusão. (HC 399.444/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 17/08/2017, DJe 28/08/2017)
+Dessa forma, a circunstância judicial relativa à personalidade deve ser neutralizada.
+Feitas essas considerações, passa-se para o redimensionamento da pena imposta.
+Na primeira etapa do cálculo, a pena-base será mantida no mínimo legal, resultando em 1 (ano) de detenção. Aplicando a fração de 1/6 (um sexto) em virtude da prática de 2 infrações em concurso formal, a pena definitiva será de 1 (ano) e 2 (meses) de detenção, acrescido de 12 (doze) dias-multa.
+Por tais razões, conheço do agravo para dar parcial provimento ao recurso especial, nos termos do artigo 253, parágrafo único, inciso II, alínea c, do Regimento Interno do Superior Tribunal de Justiça, a fim de redimensionar a sanção final do réu, desconsiderando a desfavorabilidade da personalidade do agente, para 1 (ano) e 2 (meses) de detenção, bem como ao pagamento de 12 (doze) dias-multa em regime inicial aberto, mantido, no mais o aresto recorrido.
+Publique-se e intimem-se.
+Cientifique-se o Ministério Público Federal.
