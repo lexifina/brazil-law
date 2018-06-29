@@ -1,0 +1,21 @@
+DECISÃO
+[NOME] opõe embargos de declaração à decisão de fls. 232-233, em que indeferi liminar o habeas corpus, dado que o apontado excesso de prazo não foi objeto de impugnação perante a Corte de origem.
+No caso vertente, o embargante aponta o Tribunal de Justiça do Estado da Bahia como autoridade coatora em razão do suposto excesso de prazo para o encerramento do feito, visto que até o momento, embora pronunciado, o réu não foi submetido ao julgamento pelo Tribunal do Júri. Todavia, o recurso em sentido estrito, interposto contra a decisão de pronúncia, foi julgado em 18/5/2017, oportunidade em que a Corte de origem manteve a decisão atacada. Por tal razão, apontei a patente supressão de instância na hipótese, uma vez que o Juízo singular, mesmo após o julgamento do recurso, não deu andamento ao feito, circunstância que não foi debatida pela Corte estadual.
+ O embargante, por sua vez, assere que há contradição na decisão por mim exarada, porquanto o apontado excesso é então atribuído ao Tribunal a quo em face da não determinação de retorno dos autos à primeira instância. Segundo alega a defesa, o Tribunal "preferiu esperar pelo processamento de Recursos Especiais de outros réus" (fl. 239).
+Requer, assim, "sejam conhecidos e providos os presentes embargos de declaração para o fim de suprir as contradições retro apontadas, de modo a possibilitar a apreciação do presente remédio constitucional por esta Corte, apreciando-se de pronto o pedido liminar postulado na inicial" (fl. 241).
+Decido.
+Como apontado desde a decisão de fls. 232-233, o recurso interposto contra a decisão de pronúncia já foi apreciado pelo Tribunal local. A esse respeito, urge consignar que a decisão de pronúncia somente "julga admissível a acusação, remetendo o caso à apreciação do Tribunal do Júri.  ..  Não é questão de se demandar certeza de culpa do réu. Porém, deve-se reclamar provas suficientes. Havendo a referida suficiência, caberá ao Conselho de sentença decidir se condena ou absolve" (NUCCI, Guilherme de Souza. Tribunal do júri. São Paulo: Editora Revista dos Tribunais, 2008, p. 60-62, destaquei).
+Portanto, julgado o recurso em sentido estrito, o suposto excesso de prazo, diferentemente do alegado pela defesa, seria imputável ao Juízo singular e não mais à Corte estadual. Embora o embargante sublinhe que o Tribunal de Justiça não teria remetido os autos ao primeiro grau, dada a interposição de recursos à instância de sobreposição pelos corréus, tal alegação não está demonstrada nas peças trazidas aos autos. Assim, não há nos autos, prova pré-constituída acerca do alegado constrangimento ilegal de que seria vítima o paciente, visto que não se infere dos autos que ele permaneça indevidamente em estabelecimento destinado a regime mais gravoso do que ao que faz jus.
+Nesse sentido
+ ..
+2. O rito do habeas corpus demanda a demonstração da flagrante ilegalidade por meio de prova pré-constituída, ônus que não se desincumbiu a defesa.
+ ..
+6. Recurso em habeas corpus improvido (RHC n. 95.971/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 11/6/2018).
+Além disso, ainda que assim não fosse, é preciso salientar que o recurso especial não é dotado de efeito suspensivo, de forma que a sua interposição não obsta, a princípio, o prosseguimento do feito na origem, a robustecer a conclusão de que o alegado excesso decorria de aparente inércia do Juízo singular, a demandar, portanto, prévia análise do constrangimento ilegal pela Corte de origem.
+Confira-se:
+ ..
+3. No julgamento do HC n. 126.292/MG, realizado em 17/2/2016, o Supremo Tribunal Federal, em sua composição plena, passou a admitir a possibilidade de imediato início do cumprimento provisório da pena após o exaurimento das instâncias ordinárias, inclusive com restrição da liberdade do condenado, por ser o recurso extraordinário, assim como o recurso especial, desprovido de efeito suspensivo, sem que isso implique violação ao princípio da não culpabilidade. Tal entendimento foi mantido pela Suprema Corte no exame das Ações Declaratórias de Constitucionalidade n. 43 e 44, em 5/10/2016.
+ ..
+Habeas corpus não conhecido (HC n. 388.243/RS, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 28/5/2018, grifei).
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
