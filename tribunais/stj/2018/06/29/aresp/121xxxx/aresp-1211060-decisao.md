@@ -1,0 +1,70 @@
+EMENTA
+CIVIL. EMPRESARIAL. PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATEIRAIS. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. NÃO CARACTERIZADA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO INFIRMADO NAS RAZÕES DO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA Nº 283 DO STJ. RESPONSABILIDADE DO SÓCIO RETIRANTE. CONFIGURADA. AUSÊNCIA DE AVERBAÇÃO DA ALTERAÇÃO DO QUADRO SOCIETÁRIO NA JUNTA COMERCIAL. DÉBITO ANTERIORMENTE CONSTITUÍDO. INVIABILIDADE DE REEXAME DAS PROVAS DOS AUTOS. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, IMPROVIDO.
+
+DECISÃO
+LUIZEANI ALTENHOFEN, PAULO VAINER ESTÚDIO FOTOGRÁFICO LTDA. e PAULO VAINER (LUIZEANI E OUTROS) ajuizaram ação de indenização por danos morais e materiais contra TECH VEÍCULOS LTDA. (EMPRESA), alegando utilização indevida de obras fotográficas de sua autoria.
+Em fase cumprimento de sentença, o Juízo de Piso desconsiderou a personalidade jurídica da empresa e determinou a citação dos sócios.
+Por seu turno, [NOME] ([NOME]) interpôs agravo de instrumento com pedido de efeito suspensivo, alegando, em síntese, que não haveria justa razão para a desconsideração da personalidade jurídica da EMPRESA e, tampouco, para a sua responsabilização (e-STJ, fls. 1/16).
+O agravo de instrumento foi julgado improcedente pelo Tribunal de origem, em acórdão assim ementado:
+Agravo de instrumento. Desconsideração da personalidade jurídica. Responsabilidade do sócio que já foi excluído do quadro societário. Exclusão por sentença proferida em 10/03/2015. Título constituído por sentença datada 19/10/2010 e confirmada por acórdão em 05/06/2011. Agravante ainda integrava a sociedade na época em que o débito foi constituído. Não houve alteração contratual na Junta Comercial de São Paulo. Aplicação do disposto no Artigo 1032 do Código Civil. Decisão mantida. Recurso Improvido. (e-STJ, fl. 467)
+Os embargos de declaração opostos por [NOME] foram rejeitados (e-STJ, fls. 484/489).
+Inconformado, [NOME] interpôs recurso especial, com base no art. 105, III, a, da CF, sustentando, em síntese, violação dos arts. 14, 133, 489 e 1.022 do NCPC, 50 e 1.032 do CC, porque (1) o Tribunal de origem não teria se manifestado sobre o equívoco na apreciação dos requisitos que implicam na subsunção ao art. 50 do CC; sobre a aplicabilidade do art. 14 do NCPC ao caso concreto, que impõe a instauração do incidente prévio previsto no art. 133 deste Código; sobre a falta de esgotamento das vias ordinárias para a satisfação do débito; e sobre o poder de gerência dos sócios incluídos; (2) seria necessária a instauração de incidente de desconsideração da personalidade jurídica; e (3) não estariam presentes os requisitos autorizadores da desconsideração da personalidade jurídica; e (4) não responderia pelas dívidas da EMPRESA, considerando que, a partir de 2005, não desempenhou nela nenhum papel gerencial e, a contar de 2012, extinguiu sua participação na sociedade (e-STJ, fls. 491/511).
+Houve contrarrazões (e-STJ, fls. 240/244).
+O apelo nobre não foi admitido porque as razões recursais demandariam o revolvimento do conjunto fático-probatório dos autos (e-STJ, fls. 523/524).
+Irresignado, [NOME] interpôs agravo em recurso especial, sustentando o afastamento do mencionado óbice (e-STJ, fls. 526/545).
+Houve contraminuta (e-STJ, fls 548/559).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da violação dos arts. 489 e 1.022 do NCPC
+[NOME] sustentou que o acórdão recorrido padeceria de vício de omissão porque o Tribunal de origem não teria se manifestado sobre o equívoco na apreciação dos requisitos que implicam na subsunção ao art. 50 do CC; sobre a aplicabilidade do art. 14 do NCPC ao caso concreto, que impõe a instauração do incidente prévio previsto no art. 133 deste Código; sobre a falta de esgotamento das vias ordinárias para a satisfação do débito; e sobre o poder de gerência dos sócios incluídos.
+Com a exceção da matéria relativa à análise do poder de gerência dos sócios, os demais pontos suscitados como omissos dizem respeito ao procedimento e aos requisitos autorizadores da desconsideração da personalidade jurídica.
+A este respeito, o Tribunal de origem consignou o seguinte:
+Quanto a insurgência do agravante de que não estão preenchidos os requisitos que endossam a desconsideração da personalidade jurídica, deixo dc apreciar neste agravo de instrumento, pois, a questão já está sendo decidida no agravo de instrumento nº 2076851-90.2016.8.26.0000 em apenso. (e-STJ, fl. 470)
+Conforme se nota, embora a Corte local tenha deixado de enfrentar a matéria, o fez com o fito de evitar decisões contraditórias, já que esta seria analisada e decidida no agravo de instrumento nº 2076851-90.2016.8.26.000 em apenso.
+No que tange à necessidade de apreciação do poder de gerência dos sócios, para fins de definição do alcance da responsabilidade pelas dívidas da EMPRESA, o acórdão recorrido quedou-se silente porque, em se tratando de sociedade limitada, faz-se despicienda tal análise, já que, sejam, os sócios gerentes, administradores ou quotistas minoritários, todos serão alcançados pela referida desconsideração.
+Conforme se nota, o decisum guerreado enfrentou todos os pontos que interessavam ao deslinde da controvérsia, com fundamentos suficientes para sustentar a solução jurídica alcançada.
+(2) e (3) Da desconsideração da personalidade jurídica
+A respeito do procedimento e dos requisitos da desconsideração da personalidade jurídica, o Tribunal de origem fez constar que deixaria de apreciar tal ponto neste agravo de instrumento, pois a questão já seria decidida no agravo de instrumento nº 2076851-90.2016.8.26.0000 em apenso.
+Sem embargo, nas razões do recurso especial, [NOME] limitou-se a reafirmar a ilegalidade da desconsideração da personalidade jurídica no caso concreto, passando ao largo de infirmar o fundamento decisório segundo o qual a matéria já teria sido apreciada em outro recurso.
+Desta feita, o fundamento do acórdão recorrido, por si só suficiente para manter as conclusões alcançadas pelo Tribunal local, manteve-se incólume em face do apelo especial.
+Isto posto, incide à espécie o teor da Súmula nº 283 do STF, segundo a qual é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+(4) Da responsabilidade do sócio
+[NOME] defendeu que não responderia pelas dívidas da EMPRESA, considerando que, a partir de 2005, não desempenhou nela nenhum papel gerencial e, a contar de 2012, extinguiu sua participação na sociedade, apesar da averbação de sua retirada datar de 2015.
+No entanto, o Tribunal a quo, soberano na análise das provas dos autos, a sentença que condenou a empresa à indenização por danos morais e materiais foi proferida em 19/10/2010 e confirmada pelo acórdão de 5/11/2011.
+Por seu turno, a sentença que julgou procedente a ação determinando a exclusão de [NOME] da sociedade foi prolatada em 10/3/2015, sendo que a alteração do quadro societário sequer foi averbada na Junta Comercial.
+Assim, a Corte local concluiu que o débito em testilha foi constituído antes da retida de [NOME] da sociedade empresária, sendo inafastável a sua responsabilidade pela quitação.
+Nesse sentido, transcreve-se elucidativo excerto do acórdão guerreado, in verbis:
+O debito que sustenta a cobrança através dc execução dc sentença foi constituído antes da retirada do agravante do quadro societário, o que não permite excluir sua responsabilidade, já que a retirada não se encontra devidamente averbada junto ao órgão competente e, mesmo que tivesse, sua exclusão foi posterior, ou seja, quatro anos após a condenação da empresa na ação proposta pelos agravados.
+(e-STJ, fl. 472)
+Conforme se nota, rever a conclusão do Tribunal de origem, sobre a participação de [NOME] no quadro societário da EMPRESA é matéria que demandaria inevitável revolvimento de provas, inviável na estreita via do recurso especial.
+Ad argumentandum tantum, é de se ressaltar que a retirada do sócio da empresa só se opera com a efetiva averbação da alteração do quadro societário perante a Junta Comercial, ex vi:
+SOCIEDADE LIMITADA. CESSÃO DE QUOTAS SOCIAIS. OBRIGAÇÕES ANTERIORES À CESSÃO. LEGITIMIDADE ATIVA DA SOCIEDADE EMPRESÁRIA. DECADÊNCIA. TERMO INICIAL. REGISTRO DA ALTERAÇÃO CONTRATUAL. CEDENTE. RESPONSABILIDADE. APÓS AVERBAÇÃO. PERÍODO. DOIS ANOS. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO. SÚMULA Nº 13/STJ.
+1. A controvérsia a ser dirimida no recurso especial diz respeito às seguintes teses: i) ilegitimidade ativa da sociedade empresária para promover ação de cobrança contra as ex-sócias, objetivando o ressarcimento de débitos fiscais anteriores à cessão de quotas, ii) definição do termo inicial do prazo de 2 (dois) anos em que o cedente de quotas sociais responde pelas obrigações que tinha como sócio e iii) ausência de responsabilidade das ex-sócias cedentes em decorrência de suposto pagamento espontâneo da dívida pelos sócios cessionários.
+2. Configurada a legitimidade ativa da sociedade empresária que postula em nome próprio o ressarcimento de obrigações que entende ser de responsabilidade das ex-sócias.
+3. Nos termos dos arts. 1.003 e 1.057 do Código Civil, os efeitos da cessão de quotas, em relação à sociedade e a terceiros, somente se operam após a efetiva averbação da alteração do quadro societário perante a Junta Comercial. Precedente.
+4. O cedente de quotas sociais é responsável pelas obrigações que tinha enquanto ostentava a qualidade de sócio até 2 (dois) anos após a averbação da respectiva modificação societária. Inteligência dos arts. 1.003 e 1.032 do Código Civil.
+5. Recurso especial parcialmente conhecido e, nessa parte, não provido. (REsp 1484164/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 13/6/2017 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.
+EMBARGOS À EXECUÇÃO. ILEGITIMIDADE AD CAUSAM AFASTADA. AGRAVO NÃO PROVIDO.
+1. O eg. Tribunal de origem concluiu pela legitimidade do ora agravante, uma vez que ele ainda figura no contrato social da empresa executada, tendo em vista a ausência de averbação da alteração social perante a JUCESP, por descumprimento de exigência administrativa. Assim, deve responder pelas dívidas da empresa, diante da desconsideração da personalidade jurídica consumada.
+2. Agravo interno a que se nega provimento.
+(AgInt no AgInt nos EDcl no AREsp 894.384/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), Quarta Turma, DJe 2/3/2018)
+Afora isso, na esteira da iterativa jurisprudência do STJ, em se tratando de sociedade limitada, pouco importa aferir o poder de gerência de [NOME] na EMPRESA, já que ele responderá independentemente deste critério.
+Nesse sentido, confira-se o precedente:
+RECURSOS ESPECIAIS. MINISTÉRIO PÚBLICO DE MINAS GERAIS. AFRONTA AO ARTIGO 535 DO CPC. INOBSERVÂNCIA. DANOS MORAIS COLETIVOS. CABIMENTO. [NOME] [NOME]. VIOLAÇÃO AO ARTIGO 535 DO CPC. DESCABIMENTO.
+LIMITAÇÃO DA DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA AOS SÓCIOS QUE EXERCEM CARGO DE GERÊNCIA OU ADMINISTRAÇÃO DA SOCIEDADE LIMITADA. IMPOSSIBILIDADE. MULTA. ARTIGO 538, PARÁGRAFO ÚNICO, DO CPC. AFASTAMENTO. RECURSOS PARCIALMENTE PROVIDOS.
+1. Recurso interposto pelo Ministério Público de Minas Gerais.
+1.1. O Tribunal a quo dirimiu as questões pertinentes ao litígio, afigurando-se dispensável que o órgão julgador examine uma a uma as alegações e os fundamentos expendidos pelas partes. Diante disso, não se observa violação ao artigo 535 do CPC.
+1.2. Estão presentes os requisitos para a concessão do dano moral coletivo, já que, na espécie, restou demonstrada a prática de ilegalidade perpetrada pelo Grupo empresarial, a qual afeta não apenas a pessoa do investidor (indivíduo), mas todas as demais pessoas (coletividade) que na empresa depositaram sua confiança e vislumbraram a rentabilidade do negócio.
+1.3. Diante das nuances que se apresentam no caso em comento, estar-se-ia adequado à função do dano moral coletivo fixar a quantia de R$ 100.000,00 (cem mil reais) a ser revertida ao fundo constante do artigo 13 da Lei n. 7.347/85.
+2. Recurso interposto por [NOME].
+2.1. Não se vislumbra a alegada violação ao artigo 535 do CPC, pois não caracteriza, por si só, omissão, contradição ou obscuridade, o fato de o tribunal ter adotado outro fundamento que não aquele defendido pela parte.
+2.2. Para os efeitos da desconsideração da personalidade jurídica, não há fazer distinção entre os sócios da sociedade limitada. Sejam eles gerentes, administradores ou quotistas minoritários, todos serão alcançados pela referida desconsideração.
+2.3. Nos termos da Súmula 98 desta Corte: "Embargos de declaração manifestados com notório propósito de prequestionamento não tem caráter protelatório." Afasta-se, portanto, a multa fixada com base no artigo 538, parágrafo único, do Código de Processo Civil.
+3. Recursos parcialmente providos.
+(REsp 1250582/MG, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 31/5/2016 - sem destaque no original)
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Inaplicável a majoração de honorários advocatícios.
+Por fim, advirta-se que eventual recurso interposto contra este julgado estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
