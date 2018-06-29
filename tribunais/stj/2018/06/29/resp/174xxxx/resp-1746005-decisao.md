@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por FABRICIO DE ALMEIDA PIAGENTINI, em 1º/12/2016, com base nas alíneas a e c do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Indenização por dano moral - Negativação indevida - Majoração - Inadmissibilidade - Valor suficiente - Adequação e razoabilidade.
+Correção do valor - Não aplicação da Súmula 54, do STJ - Incidência dos juros de mora a partir do arbitramento - Artigo 407 do Código Civil.
+Recurso não provido" (fl. 193e).
+Opostos Embargos de Declaração, foram rejeitados, nos seguintes termos:
+"Embargos de declaração - Ausente omissão, contradição ou obscuridade a ser sanada - Inviabilidade por falta dos pressupostos do artigo 1.022, do CPC - Pretensão de rediscussão do que já foi decidido - Caráter infringente - Inadmissibilidade - Embargos rejeitados" (fl. 218e).
+Alega-se, nas razões do Recurso Especial, além de dissídio jurisprudencial, ofensa aos artigos 186, 398 e 927 do Código Civil, sob os seguintes fundamentos: a) "o importe de R$5.000,00, não penaliza de forma adequada o infrator, e muito menos ameniza a dor sofrida pelo Recorrente, deixando assim de se fazer justiça e consequentemente deixando de inibir os infratores a cometerem novas falhas, pois tal condenação, não é significativa o bastante para que seja lembrada e evite que tal fato se repita" (fl. 226e), devendo, portanto, haver a majoração do valor indenizatório; b) os juros moratórios devem ter início a partir do evento danoso, ou seja, a partir da inscrição indevida, nos termos do artigo 398 do Código Civil e da Súmula 54/STJ.
+Requer, ao final, o conhecimento e provimento do Recurso Especial.
+Em sede de contrarrazões (fls. 259/265e), a parte recorrida defende a manutenção do acórdão impugnado (fls. 191/195e).
+O Recurso Especial foi admitido pelo Tribunal de origem (fl. 272/273e).
+Sem razão a parte recorrente.
+Na origem, trata-se de Ação ajuizada pela parte ora recorrente, com o objetivo de obter a declaração de inexistência de débito de telefonia e o pagamento de indenização por danos morais.
+Julgada procedente, em parte, a demanda, recorreu o autor, restando mantida a sentença pelo Tribunal local.
+Daí a interposição do presente Recurso Especial.
+No tocante à irresignação relativa ao quantum indenizatório, o Tribunal a quo, soberano na análise fática da causa, reconheceu a existência dos danos morais em decorrência da inscrição indevida do nome do recorrente em cadastro de inadimplentes e manteve a sentença, a qual fixara a indenização no valor de R$5.000,00 (cinco mil reais), nos seguintes termos:
+"Portanto, considerados os fatos da causa, diante da negligência do réu, causando restrições nos órgãos de proteção ao crédito da vítima e demonstrado o nexo causal dos ilícitos praticados, de rigor a manutenção do valor da indenização em R$ 5.000,00, que se mostra adequado, considerado o porte econômico das partes e sem ensejar enriquecimento ilícito" (fl. 194e)
+Neste contexto, considerando a fundamentação adotada na origem, o acórdão recorrido somente poderia ser modificado mediante o reexame dos aspectos concretos da causa, o que é vedado, no âmbito do Recurso Especial, pela Súmula 7 desta Corte.
+Ademais, ressalte-se que a jurisprudência deste Tribunal permite o afastamento do óbice previsto na Súmula 7/STJ, apenas na hipótese de fixação em valor irrisório ou abusivo, inocorrentes no presente caso.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INDENIZAÇÃO POR DANO MORAL. COBRANÇA POR SERVIÇOS DE TELEFONIA NÃO CONTRATADOS. INCLUSÃO DO NOME DA AUTORA EM CADASTRO DE DEVEDORES INADIMPLENTES. QUANTUM INDENIZATÓRIO. RAZOABILIDADE. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. O Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado o montante fixado pelas instâncias ordinárias a título de danos morais apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso.
+2. Agravo regimental não provido" (STJ, AgRg no REsp 1.340.082/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 11/03/2013).
+Sinale-se, no ponto, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a, servem de justificativa quanto à alínea c do permissivo constitucional.
+Por fim, no que diz respeito ao termo inicial dos juros moratórios, igualmente não assiste razão ao recorrente. Isso porque esta Corte possui entendimento no sentido de que, em se tratando de reparação de dano moral, os juros de mora incidem desde o evento danoso, em casos de responsabilidade extracontratual (Súmula n. 54/STJ), e desde a citação da parte ré, no caso de responsabilidade contratual" (STJ, EDcl nos EREsp 903.258/RS, Rel. Ministro ARI PARGENDLER, Rel. p/ Acórdão Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe de 11/6/2015), como na hipótese dos autos. Nesse sentido:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. CONTRATO DE TELEFONIA. RELAÇÃO CONTRATUAL. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. DANOS MORAIS. REVISÃO. VALOR EXORBITANTE. IMPOSSIBILIDADE. NECESSIDADE DE REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.
+1. É pacífico nesta Corte o entendimento no sentido de que a fixação dos valores referentes a danos morais cabe às instâncias ordinárias, uma vez que resulta de apreciação de critérios da razoabilidade e da proporcionalidade do valor fixado, compatível com a extensão do dano causado, razão pela qual insuscetível de revisão em recurso especial, a teor da Súmula 7 do Superior Tribunal de Justiça.
+2. A Corte Especial deste Tribunal firmou entendimento, no sentido de que, tratando-se "de reparação de dano moral, os juros de mora incidem desde o evento danoso, em casos de responsabilidade extracontratual (Súmula n. 54/STJ), e desde a citação da parte ré, no caso de responsabilidade contratual" (EDcl nos EREsp 903.258/RS, Rel. Ministro ARI PARGENDLER, Rel. p/ Acórdão Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 6/5/2015, DJe 11/6/2015).
+3. Não pode ser conhecido o recurso pela alínea "c" do permissivo constitucional quando o recorrente não realiza o necessário cotejo analítico, bem como não apresenta, adequadamente, o dissídio jurisprudencial. Apesar da transcrição de ementa, não foram demonstradas as circunstâncias identificadoras da divergência entre o caso confrontado e o aresto paradigma.
+Agravo regimental improvido.
+(AgRg no AREsp 744.032/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 08/09/2015, DJe 16/09/2015)
+"PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. TELEFONIA. DANOS MORAIS. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. RESPONSABILIDADE CONTRATUAL.
+1. Quanto aos juros de mora sobre o valor da indenização, a jurisprudência desta Corte entende que em se tratando de responsabilidade contratual, como é o caso dos autos, estes devem incidir a partir da citação.
+2. Agravo regimental não provido" (STJ, EDcl no AREsp 551.471/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 23/03/2015).
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço parcialmente do Recurso Especial e, nesta extensão, nego-lhe provimento.
+I.
