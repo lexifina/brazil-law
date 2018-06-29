@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Instituto Nacional de Metrologia, Qualidade e Tecnologia - INMETRO com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 174):
+EMBARGOS À EXECUÇÃO FISCAL. MASSA FALIDA. MULTA POR INFRAÇÃO ADMINISTRATIVA. SÚMULAS 192 E 565 DO STF.
+A multa por infração à lei, por se tratar de pena administrativa, não pode ser cobrada da massa falida, a teor do disposto no art. 23, parágrafo único, inc. III, do Decreto-lei nº 7.661/45. Aplicação das Súmulas nº 192 e 565 do STF.
+Opostos embargos declaratórios, foram parcialmente acolhidos, para fins de prequestionamento.
+A parte recorrente aponta violação aos arts. 462 e 535 do CPC/73; 4º, 29 e 30 da Lei n. 6.830/80; 184 do CTN; 50 do CC; e 83 da Lei n. 11.101/2005. Sustenta, em síntese, que as multas de natureza administrativas são exigíveis da massa falida.
+É o relatório.
+Com relação ao art. 535 do CPC/73, cumpre registrar que a mera indicação dos dispositivos legais tidos por violados, sem que haja demonstração clara e objetiva de como o acórdão recorrido teria malferido a legislação federal, não enseja a abertura da via especial, devendo a parte recorrente demonstrar os motivos de sua insurgência, o que não ocorreu no caso em exame. Desse modo, a deficiência na fundamentação recursal inviabiliza a abertura da instância especial e atrai a incidência, por simetria, do disposto na Súmula 284/STF, segundo a qual é "inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.". Para ilustrar, sobressaem os seguintes precedentes: AgRg no AREsp 83.629/DF, Rel. Ministro Humberto Martins, Segunda Turma, DJe 3/4/2012; AgRg no AREsp 80.124/PB, Rel. Ministro Francisco Falcão, Primeira Turma, DJe 25/5/2012.
+A matéria pertinente aos arts. 462 do CPC/73; 4º, 29 e 30 da Lei n. 6.830/80; 184 do CTN; 50 do CC; e 83 da Lei n. 11.101/2005 não foi apreciada pela instância judicante de origem, tampouco foi suscitada nos embargos declaratórios opostos pela parte ora recorrente para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
