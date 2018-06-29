@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo TJMS, assim ementado (e-STJ fl. 685):
+AGRAVO DE INSTRUMENTO - OBJEÇÃO DE PRÉ-EXECUTIVIDADE EM EXECUÇÃO DE SENTENÇA - AÇÃO CIVIL PÚBLICA - ILEGITIMIDADE PASSIVA AD CAUSAM - TELEMS S.A. - EDITAL QUE FIXA QUE A PRIVATIZAÇÃO DEU-SE POR MEIO DE CISÃO PARCIAL - EXCLUSÃO DA RESPONSABILIDADE SOLIDÁRIA DA AGRAVANTE QUANTO AO OBJETO DA AÇÃO CIVIL PÚBLICA - RECURSO CONHECIDO E PROVIDO.
+Se o edital de privatização dispõe expressamente que esta se deu por cisão parcial, não possui fundamento a alegação da agravada de que a empresa Brasil Telecom Sociedade Anônima é sucessora da Telebrás.
+Pela análise dos fatos e dos documentos que instruem o processo, a exegese correta da questão aqui tratada é que não ocorreu a solidariedade entre a sociedade cindida e a Brasil Telecom S.A. no que diz respeito ao objeto da ação civil pública, devendo, in casu, figurar no pólo passivo da execução de sentença somente a Telebrás.
+Nas razões recursais (e-STJ fls. 701/708), fundamentadas no art. 105, III, "a", da CF, a recorrente aponta violação dos arts. 472, 473 e 474 do CPC/1973, sustentando ofensa à coisa julgada pois a legitimidade da recorrida foi reconhecida na ação de conhecimento, com trânsito em julgado, não podendo ser novamente discutida em fase de execução.
+Foram apresentadas as contrarrazões (e-STJ fls. 714/725).
+Juízo positivo de admissibilidade (e-STJ fls. 726/727).
+O Ministério Público Federal opinou pelo provimento do recurso (e-STJ fls. 751/758).
+É o relatório.
+Decido.
+O recurso merece provimento.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, por isso devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas até então pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+A Corte de origem afastou a alegada ofensa à coisa julgada, manifestando-se nos seguintes termos (e-STJfl. 687):
+Em que pesem as alegações dos agravados, percebe-se que as preliminares argüidas em contra-razões cingem-se na questão da coisa julgada material da ilegitimidade da agravante, motivo pelo qual serão analisadas conjuntamente.
+Tenho que não merecem respaldo as alegações dos agravados quanto à coisa julgada material da ilegitimidade da agravante em face do julgamento dos embargos do devedor referente aos Autos 372/2000.1130012-4. Vejamos.
+As insurgências dos agravados, quanto à ocorrência de coisa julgada, não merecem ser acolhidas, visto que se trata de uma condição da ação, no âmbito de ordem pública. Assim sendo, pode ser conhecida de oficio a ilegitimidade em qualquer grau de jurisdição, visto que não ocorre o instituto da preclusão.
+Dessa forma, reconheceu a ilegitimidade da ora agravada, conforme o seguinte excerto (e-STJ fl. 691):
+Destarte, pela análise dos fatos e dos documentos que instruem o processo, a exegese correta da questão aqui tratada é que não ocorreu a solidariedade entre a sociedade cindida e a Brasil Telecom S.A. no que diz respeito ao objeto da ação civil pública, devendo, in casu, figurar no pólo passivo da execução de sentença somente a Telebrás.
+Sendo assim, o Tribnal a quo decidiu em desarmonia com a jurisprudência desta Corte, merecendo reforma, conforme os seguintes precedentes:
+DIREITO CIVIL E PROCESSUAL CIVIL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA (PROCESSO N. 021.98.020556-3). BRASIL TELECOM. TELEMS. CONTRATOS DE PARTICIPAÇÃO FINANCEIRA NA CONSTRUÇÃO DE REDE DE TELEFONIA. SENTENÇA QUE RECONHECE A RESPONSABILIDADE DA TELEMS PELA RESTITUIÇÃO DE VALORES. COISA JULGADA. LEGITIMIDADE DA SUCESSORA. JUROS MORATÓRIOS. TERMO INICIAL. CITAÇÃO NA FASE DE EXECUÇÃO INDIVIDUAL. RESSALVA DE CASOS COM OUTROS CONTORNOS FÁTICOS E JURÍDICOS QUANTO À MORA.
+1. Na fase de cumprimento individual de sentença, mostra-se imprópria a discussão acerca da ilegitimidade da executada apoiada no contrato de participação financeira que fora objeto de ação civil pública, porquanto o que se executa é título judicial transitado em julgado - que reconheceu a responsabilidade da Telems S.A. pela restituição dos valores pagos pelos beneficiários. Se as obrigações reconhecidas na sentença eram da Telems S.A. ou da Telebras - em razão das disposições contidas no ato de cisão ou no Edital de Privatização -, isso é questão que só tinha relevância no processo de conhecimento, não podendo ser reagitada depois de formado o título judicial irrecorrível. Precedentes.
+2. No caso, sendo a Brasil Telecom S.A. a sucessora da Telems S.A. - em razão da alienação mediante leilão público -, o reconhecimento da responsabilidade da sucedida, em sentença transitada em julgado, implica a da sucessora, seja por força dos arts. 568 e 592 do Código de Processo Civil, seja por regra segundo a qual "a sentença, proferida entre as partes originárias, estende seus efeitos ao adquirente ou ao cessionário" (art. 42, § 3º, do CPC).
+3. No cumprimento de sentença de ação civil pública, na qual se tutelaram direitos individuais homogêneos e mediante a qual se buscou o reconhecimento do dever de a empresa de telefonia restituir valores pagos por consumidores a título de participação financeira em construção de rede de transmissão, reconhecimento antecedido pela declaração de nulidade de cláusula contratual que previa o inverso, os juros moratórios devem fluir a partir da citação válida levada a efeito na fase de liquidação/execução individual da sentença, mesmo marco constitutivo da mora caso a ação de conhecimento fosse ajuizada individualmente pelo próprio particular. Precedentes.
+4. Recurso especial parcialmente provido para que os juros moratórios comecem a incidir a partir da citação válida na fase de cumprimento individual da sentença coletiva.
+(REsp n. 1.371.462/MS, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 7/5/2013, DJe 18/6/2013.)
+AGRAVO REGIMENTAL EM AGRAVO. TELEMS. PROGRAMA COMUNITÁRIO DE TELEFONIA. LEGITIMIDADE PASSIVA. QUESTÃO DECIDIDA NO PROCESSO DE CONHECIMENTO. AÇÃO CIVIL PÚBLICA.
+1. As questões efetivamente decididas, de forma definitiva, no processo de conhecimento (ação civil pública), ainda que de ordem pública, como a legitimidade passiva ad causam, não podem ser novamente debatidas, sobretudo no processo de execução, sob pena de vulneração à coisa julgada (REsp 917.974/MS, relator Min. Luis Felipe Salomão, DJ 4.5.2011).
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 165.050/MS, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16/8/2012, DJe 23/8/2012.)
+AGRAVO REGIMENTAL - AGRAVO DE INSTRUMENTO - EXECUÇÃO - DESPESAS CONDOMINIAIS - CARÁTER PROPTER REM - PREQUESTIONAMENTO - AUSÊNCIA - DECISÃO AGRAVADA MANTIDA - IMPROVIMENTO.
+I - O conteúdo normativo dos dispositivos tidos por violados não foi objeto de debate no v. Acórdão recorrido, carecendo, portanto, do necessário prequestionamento viabilizador do Recurso Especial, nos termos da Súmula 211 desta Corte.
+II - Nos termos do artigo 42 do Código de Processo Civil, a alienação da coisa litigiosa, a título particular e por ato entre vivos, não altera a legitimidade para causa das partes originárias.
+III - Conforme orientação pacífica da jurisprudência desta Corte, uma vez decidida a questão da legitimidade passiva no processo de conhecimento, tendo sido regularmente formado o título executivo, não cabe a rediscussão do tema em sede de execução, sob pena de ofensa à coisa julgada.
+IV - O Agravo não trouxe nenhum argumento novo capaz de modificar a conclusão alvitrada, a qual se mantém por seus próprios fundamentos.
+Agravo Regimental improvido.
+(AgRg no Ag n. 1.275.364/SP, Relator Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 20/4/2010, DJe 5/5/2010.)
+Ante o exposto, DOU PROVIMENTO ao recurso especial, para reconhecer a legitimidade passiva da recorrida.
+Publique-se e intimem-se.
