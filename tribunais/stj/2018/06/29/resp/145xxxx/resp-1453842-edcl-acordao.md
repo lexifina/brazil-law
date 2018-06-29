@@ -1,0 +1,38 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. OMISSÃO. EXISTÊNCIA. OFENSA À CLÁUSULA DE RESERVA DE PLENÁRIO. INOCORRÊNCIA. DECISÃO QUE NÃO AFASTA A INCIDÊNCIA DE LEI MUNICIPAL. ACOLHIMENTO DOS EMBARGOS SEM EFEITOS INFRINGENTES.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Constatado vício no acórdão embargado, a reparação é cabível por meio de embargos declaratórios, nos termos do art. 1.022 do Diploma Processual.
+III - Não ofende a cláusula de reserva de plenário a decisão que não declara a inconstitucionalidade de dispositivos legais tidos por violados, tampouco afasta a incidência desses ao caso.
+IV - Embargos de declaração acolhidos sem efeitos infringentes.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, os Ministros da Primeira Turma do Superior Tribunal de Justiça acordam, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, acolher os embargos de declaração, sem efeitos infringentes, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Gurgel de Faria, Napoleão Nunes Maia Filho, Benedito Gonçalves e Sérgio Kukina votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXCELENTÍSSIMA SENHORA MINISTRA REGINA HELENA COSTA (Relatora):
+O MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS opõe embargos de declaração contra o acórdão proferido em sede de recurso especial que, por maioria, não o conheceu (fls. 1.448/1.453e), cuja ementa transcrevo:
+AÇÃO CIVIL PÚBLICA. RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. FUNDAÇÃO MUNICIPAL DE ENSINO SUPERIOR. NATUREZA JURÍDICA. ANÁLISE DE LEI LOCAL. SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. INCIDÊNCIA. RECURSO ESPECIAL NÃO CONHECIDO.
+I - Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional. In casu, aplica-se o Código de Processo Civil de 1973.
+II - Para chegar-se à conclusão a respeito da natureza jurídica de fundação criada pelo Poder Público, há de se verificar o estabelecido na lei instituidora e nos respectivos estatutos, no caso, a Lei Municipal n.
+831/67, o que é inviável a esta Corte Superior, ante o enunciado da Súmula 280 do STF, segundo o qual "por ofensa ao direito local não cabe recurso extraordinário".
+III - Recurso Especial não conhecido.
+Sustenta, em síntese, que o acórdão padece de omissão (art. 1.022, II, do CPC), porquanto necessário o pronunciamento, por esta Turma Julgadora, acerca da ofensa à cláusula de reserva de plenário pela Corte "a qua", ao afastar a incidência da Lei Municipal n. 4.991/2017 ao caso.
+Alega, ainda, a necessidade de acolhimento dos presentes embargos de declaração com efeitos infringentes, a fim de anular o julgamento proferido pelo tribunal de origem.
+Impugnação às fls. 1.469/1.476e.
+Os embargos foram opostos tempestivamente.
+É o relatório.
+VOTO
+A EXCELENTÍSSIMA SENHORA MINISTRA REGINA HELENA COSTA (Relatora):
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Sustenta o Embargante que há omissão a ser suprida, nos termos do art. 1.022, II, do Código de Processo Civil.
+Consoante o art. 1.022 do Código de Processo Civil de 2015, cabe a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e, iii) corrigir erro material.
+A omissão, definida expressamente pela lei, ocorre na hipótese de a decisão deixar de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento.
+O Código de Processo Civil considera, ainda, omissa, a decisão que incorra em qualquer uma das condutas descritas no art. 489, § 1º, no sentido de não se considerar fundamentada a decisão que: i) se limita à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida; ii) emprega conceitos jurídicos indeterminados; iii) invoca motivos que se prestariam a justificar qualquer outra decisão; iv) não enfrenta todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador; v) invoca precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes, nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos; e, vi) deixa de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+No caso, o Embargante aponta omissão, com fundamento no art. 1.022, II, do Código de Processo Civil de 2015, ao argumento de que esta Turma deixou de se manifestar sobre a violação aos arts. 480 e 481 do Código de Processo Civil de 1973 pelo tribunal de origem.
+Com efeito, depreende-se da leitura do acórdão que a controvérsia posta não foi examinada pelo Colegiado, tendo sido enfrentada apenas pelo Sr. Ministro Sergio Kukina no seu voto apresentado, deixando de ser apreciada pelos demais Ministros.
+Passo, assim, ao exame da alega ofensa aos arts. 480 e 481 do Código de Processo Civil de 1973.
+Nas razões do recurso especial, o "Parquet" sustenta que o órgão fracionário da Corte local, ao afastar as disposições da Lei Municipal n. 4.991/2007 ao caso, violou a cláusula de reserva de plenário, o que enseja a determinação de retorno dos autos para novo julgamento, porquanto nula a decisão proferida.
+A fim de averiguar a possível ofensa aos referidos dispositivos legais, colaciono trecho do julgado prolatado pelo tribunal "a quo" em sede de embargos de declaração (fl. 1.113e):
+Conforme restou claro no acórdão recorrido, a Lei Federal nº 7.596/87 rotulou expressamente as fundações públicas, assim entendidas àquelas criadas pelo poder público, em virtude de autorização legislativa, como entidades de direito privado. Contudo, reconhecendo a natureza híbrida de referida espécie, excluiu de seu regramento positivo exclusivamente as disposições do Código Civil, reintroduzindo-as no rol da Administração Pública Indireta.
+Assim, as fundações ditas públicas, pois instituídas pelo poder público, eram, na verdade, entidades de direito privado, mas não particulares, o que não distoa do disposto na legislação Municipal mencionada pelo ora embargante, quais sejam, Leis Municipais nº 3.529/94 e nº 4.991/07, motivo pelo qual não há que se falar em remessa dos autos à Corte Superior deste Egrégio Tribunal de Justiça (Destaque meu).
+Pois bem. Da leitura do excerto transcrito, denota-se que a Corte "a qua" não afastou a incidência da Lei Municipal n. 4.991/2007 ao caso, ao contrário do que pretende fazer crer o ora Embargante, pois fez expressamente afirmar sua validade.
+Portanto, embora reconheça a ocorrência de omissão no tocante à alegada ofensa aos arts. 480 e 481 do Código de Processo Civil de 1973, quando do julgamento do recurso especial, no ponto assinalado, não verifico a existência de vício a ensejar o acolhimento destes embargos de declaração com efeitos infringentes.
+Isto posto, ACOLHO OS EMBARGOS DE DECLARAÇÃO PARA SUPRIR A OMISSÃO APONTADA, SEM, CONTUDO, ATRIBUIR-LHES EFEITOS INFRINGENTES.
