@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de medida cautelar proposta por DOMUS COMPANHIA HIPOTECÁRIA (atual denominação de DOMUS - CIA. DE CRÉDITO IMOBILIÁRIO) requerendo que "sejam definitivamente suspensos os efeitos e a eficácia dos vv. acórdãos proferidos no julgamento da apelação interposta pela RF PARTICIPAÇÕES (autos de nº 15194-25.2005.8.06.000-1 - fls. 430/447) e no julgamento dos embargos de declaração opostos pela RF PARTICIPAÇÕES e pela DOMUS (autos de nº 15194-25.2005.8.06.0001-1 - fls. 511/541), impedindo-se a respectiva execução até o trânsito em julgado de decisão final e definitiva quanto ao mérito do aludido agravo e do recurso especial equivocadamente inadmitido pelo Egrégio Tribunal Local" (e-STJ fl. 22).
+Inicialmente, deferi a liminar "para atribuir efeito suspensivo ao agravo em recurso especial e, portanto, determinar o prosseguimento da execução como provisória, observando-se as regras previstas no art. 475-O do CPC" (e-STJ fls. 1.834/1.835).
+Posteriormente, mediante provocação da requerente, deferi parcialmente o novo pedido "para ESCLARECER que a liminar concedida, ao determinar o prosseguimento do cumprimento de sentença como provisório, (i) impede o levantamento de qualquer quantia sem a correspondente e efetiva caução idônea e (ii) obsta a alienação de bens penhorados, igualmente sem contracautela" (e-STJ fl. 2.467).
+Por último, informados novos fatos, deferi a "LIMINAR para OBSTAR O PROSSEGUIMENTO da execução provisória, em todos os seus atos, até julgamento final dos agravos ora convertidos em recursos especiais" (e-STJ fl. 2.500).
+A requerente protocolizou petição com o propósito de apensar os presentes autos aos do REsp n. 1.340.800/CE, relação ao acórdão proferido no julgamento dos embargos de terceiro (e-STJ fl. 2.536).
+É o relatório.
+Decido.
+Com efeito, julgado o REsp n. 1.340.800/CE em 21.11.2017, que transitou em julgado, e os EDcl no REsp n. 1.340.801/CE, rejeitados em 19.6.2018, resta prejudicada a presente medida cautelar, na linha dos seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NA MEDIDA CAUTELAR. EFEITO SUSPENSIVO A AGRAVO EM RECURSO ESPECIAL. INDEFERIMENTO. JULGAMENTO DO AGRAVO EM RECURSO ESPECIAL. PERDA DE OBJETO.
+1. Cuida-se de agravo regimental contra decisão que indeferiu liminarmente o efeito suspensivo a agravo em recurso especial interposto pela parte autora. O agravo já foi julgado por decisão de minha lavra, em que não se conheceu do recurso. Assim, exaurida está a finalidade do presente recurso.
+2. A jurisprudência desta Corte sedimentou-se no sentido de que, uma vez apreciado o recurso cujo efeito suspensivo se visa atribuir, ainda que não tenha transitado em julgado, fica prejudicada a medida cautelar.
+3. Agravo regimental não provido. (AgRg na MC n. 25.526/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 4.10.2017.)
+PROCESSUAL CIVIL. MEDIDA CAUTELAR. EFEITO SUSPENSIVO. RECURSO ORDINÁRIO. SUPERVENIENTE JULGAMENTO DO RECURSO. MEDIDA CAUTELAR PREJUDICADA.
+1. Cuida-se de Medida Cautelar requerendo liminar para conceder efeito suspensivo ao Recurso Ordinário e assegurar ao requerente a continuidade na última etapa do Concurso, qual seja: audiência de escolha dos Serviços Notariais e Registrais.
+2. Verifica-se que o Recurso Ordinário 52.034/PR já foi julgado em 16 de fevereiro de 2017, mas ainda não transitou em julgado.
+3. É firme o entendimento no STJ de que, julgado o Recurso Especial, a Medida Cautelar, que visava lhe emprestar efeito suspensivo, perde o objeto, ainda que o acórdão não tenha transitado em julgado. Esse entendimento se aplica ao Recurso Ordinário.
+4. Assim, "ajuizada ação cautelar com vistas à atribuição de efeito suspensivo a recurso desprovido de tal eficácia, o julgamento do recurso inviabiliza o processamento do pedido ali veiculado, ainda que se trate de decisão ainda não transitada em julgado" (AgRg na MC 20.112/AM, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe 26/6/2013). Nesse sentido: AgRg na MC 23.395/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 10/6/2015, e AgRg nos EDcl na MC 24.594/SC, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 19/11/2015.
+5. Portanto, a presente Medida Cautelar que visa dar efeito suspensivo ao Recurso Ordinário perdeu o seu objeto.
+6. Medida Cautelar prejudicada. (Pet n. 11.502/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18.4.2017.)
+AGRAVO REGIMENTAL NA MEDIDA CAUTELAR. EFEITO SUSPENSIVO A RECURSO ESPECIAL. JULGAMENTO DO APELO NOBRE. PREJUDICIALIDADE DO PEDIDO ACAUTELATÓRIO. PERDA DE OBJETO. TRÂNSITO EM JULGADO DA DECISÃO. PRESCINDIBILIDADE. INSURGÊNCIA DESPROVIDA.
+1. Este Superior Tribunal de Justiça firmou entendimento no sentido de que o julgamento do recurso especial ao qual se pretende atribuir efeito suspensivo por meio da medida cautelar acarreta a prejudicialidade do pedido acautelatório, devido à perda do seu objeto, ainda que não tenha ocorrido o trânsito em julgado da decisão do apelo nobre.
+2. Agravo regimental desprovido. (AgRg na MC n. 25.266/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe de 16.11.2016.)
+AGRAVO INTERNO NA MEDIDA CAUTELAR. RECURSO ESPECIAL. ATRIBUIÇÃO DE EFEITO SUSPENSIVO. FEITO JÁ APRECIADO. PERDA DE OBJETO. PRETENSÃO PREJUDICADA.
+1. O julgamento do recurso especial prejudica a medida cautelar que lhe pretendia atribuir efeito suspensivo, mesmo não havendo o trânsito em julgado da decisão judicial.
+2. Agravo interno não provido. (AgInt na MC n. 23.975/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 4.10.2016.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. MEDIDA CAUTELAR PLEITEANDO EFEITO SUSPENSIVO A RECURSO ESPECIAL JULGADO. PREJUDICIALIDADE.
+1. O julgamento do recurso especial, independentemente do trânsito em julgado, prejudica o exame da medida cautelar proposta com a finalidade de atribuir-lhe efeito suspensivo. Precedentes.
+2. Agravo regimental a que se nega provimento. (AgRg na MC n. 20.449/SC, da minha relatoria, QUARTA TURMA, DJe de 10.6.2015.)
+Ante o exposto, julgo PREJUDICADA a medida cautelar por falta de objeto, tornando sem efeito as liminares deferidas nestes autos.
+Publique-se e intimem-se.
+Comunique-se.
