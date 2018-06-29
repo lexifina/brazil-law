@@ -1,0 +1,36 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. NEGÓCIOS JURÍDICOS BANCÁRIOS. CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. RECURSO ESPECIAL NÃO ADMITIDO NA ORIGEM, EM PARTE, PORQUE A MATÉRIA FOI JULGADA SEGUNDO O RITO DOS RECURSOS REPETITIVOS. NÃO CABIMENTO DO AGRAVO NESTE PONTO. ERRO GROSSEIRO. CARACTERIZAÇÃO. PREMISSAS FÁTICAS. REEXAME. SÚMULA 7/STJ. AGRAVO PARCIALMENTE CONHECIDO PARA, NESTA EXTENSÃO, NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão do Tribunal de Justiça do Rio Grande do Sul que não admitiu o recurso especial apresentado por [NOME], com base no art. 105, III, a e c, da CF, desafiando acórdão assim ementado (e-STJ, fl. 104):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. CONTRATOS BANCÁRIOS. INTERESSE PROCESSUAL NÃO CONFIGURADO.
+1. Observado o REsp. nº. 1.349.453/RS, para o efeito de configurar o interesse processual, além da demonstração da existência de relação entre as partes, deve estar comprovado o prévio pedido administrativo à instituição financeira e não atendido em prazo razoável, bem como o pagamento do custo do serviço.
+2. No caso dos autos, não há comprovação do pagamento do custo administrativo para a obtenção da documentação pleiteada junto à instituição financeira demandada, circunstância que afasta o interesse de agir.
+ONUS DA SUCUMBÊNCIA. DEVIDOS PELA PARTE AUTORA.
+No caso concreto, o banco demandado juntou ao feito cópias da relação negociai objeto da ação cautelar de exibição, o que acarreta o reconhecimento do pedido e a procedência do pleito. Contudo, os ônus da sucumbência devem ser arcados pela autora, pois a requerida não deu causa ao ajuizamento da ação, uma vez que ausente interesse processual.
+RECURSO DESPROVIDO.
+Os embargos de declaração opostos não foram admitidos (e-STJ, fls. 130-138).
+Nas razões do recurso especial (e-STJ, fls. 141-161), a recorrente apontou violação dos arts. 17, 85, 90, 380, 396, 397, 399 e 487 do Código de Processo Civil de 2015 e 4º, 6º, 8º e 14 do Código de Defesa do Consumidor, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, que cabe à instituição financeira apresentar aos seus clientes os contratos, extratos e demais documentos relativos a qualquer transação realizada, ainda que findos; que demonstrou ter solicitado o documento que originou sua inscrição perante os órgãos de proteção ao crédito, pela via administrativa, com envio de uma notificação extrajudicial por carta AR, ocasionando a pretensão resistida em exibir a documentação pleiteada; e se era necessário o pagamento de taxas, deveria a recorrida disponibilizar os meios necessários para o pagamento do respectivo serviço, emitindo boleto ou outras formas de pagamento para que pudesse proceder o pagamento, sendo que no caso, não houve resposta à notificação administrativa e tampouco fez qualquer menção à necessidade de pagamento de tarifas para ter acesso aos documentos solicitados.
+Não foram apresentadas contrarrazões (e-STJ, fl. 165).
+O Tribunal de origem não admitiu o processamento do recurso especial em virtude da consonância do acórdão recorrido com a jurisprudência fixada por meio de recurso repetitivo, nos termos do art. 1.042 do CPC/2015, e da incidência das Súmulas n. 7 e 83 do STJ (e-STJ, fls. 167-171).
+Brevemente relatado, decido.
+De início, é importante salientar que o presente agravo foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, de maneira que é aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Conforme acima salientado, foi negado seguimento ao recurso especial, nos termos do art. 1.030, I, b, do CPC/2015, em virtude de a questão acerca da exibição de documentos ter sido decidida na Corte estadual em conformidade com precedentes firmados pelo Superior Tribunal de Justiça em recurso especial repetitivo.
+Assim, não merece ser conhecido o presente agravo nesse ponto, isso porque se trata de recurso incabível, conforme entendimento proferido pela Terceira Turma desta Corte no julgamento do AREsp n. 959.991/RS, desta relatoria, julgado em 16/8/2016 e publicado em 26/8/2016. Além disso, dispõe o art. 1.030, § 2º, do CPC/2015 que, uma vez negado seguimento ao recurso especial na instância a quo, tendo em vista a conformidade do entendimento exarado pelo acórdão recorrido com o firmado em julgamento repetitivo por este Tribunal Superior, a irresignação da parte com a decisão de admissibilidade proferida pela Corte de origem deve se dar por meio de agravo interno, nos termos do art. 1.021 do CPC/2015.
+Ainda que assim não fosse, a insurgência especial não merece ser conhecida pela incidência da Súmula n. 7 do STJ.
+Isso porque, conforme consignado no acórdão recorrido, a parte não atendeu a todos os requisitos referidos no recurso repetitivo, nos seguintes termos (e-STJ, fls. 107-109):
+(..)
+Em razão do julgamento dó recurso paradigma, REsp. nº. 1.349.453/RS, nos termos do artigo 543-C, do CPC, revejo meu posicionamento no que se refere aó interesse de agir, considerando o precedente daquela Corte superior:
+(..)
+Portanto, para o efeito de configurar o interesse de agir, além da demonstração da existência de relação entre as partes, a comprovação de prévio pedido à instituição financeira - e não atendido em prazo razoável -, bem como o pagamento do custo do serviço.
+No caso dos autos, a parte autora não atendeu a todos os requisitos referidos no julgado paradigma, primeiramente diante da ausência de prova do pagamento do custo do serviço, porquanto o fornecimento de segundas vias de contrato configura serviço bancário e, desse modo, não é gratuito, havendo autorização de sua cobrança, conforme normatização da autoridade monetária.
+O serviço bancário de fornecimento de cópia ou segunda via de documentos é definido pela Resolução -CM (3.919/2010, atualmente em vigor), como serviço diferenciado:
+(..)
+Apesar da existência de pedido administrativo, formulado pelo procurador da parte, não há comprovação do pagamento do custo administrativo para a obtenção da documentação pretendida, circunstância que afasta o interesse de agir, segundo o precedente supracitado.
+(..)
+Em sendo assim, não há interesse na propositura da ação cautelar, o que conduziria à extinção do processo.
+Entretanto, no caso em apreço, o banco, na contestação, apresentou as cópias requeridas (fls. 38/58), o que, todavia, não justifica a condenação da parte demandada ao pagamento dos ônus de sucumbência, pois o requerido não deus causa ao ajuizamento da ação, uma vez que ausente interesse processual.
+Desse modo, não há como rever as premissas fáticas alcançadas pelas instâncias ordinárias sem a inevitável reapreciação de fatos e provas, providência vedada no âmbito do recurso especial, nos termos da Súmula n. 7/STJ.
+Ante o exposto, conheço parcialmente do agravo para, nessa extensão, não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários fixados na origem em R$ 300,00 trezentos reais - e-STJ, fl. 110).
+Publique-se.
