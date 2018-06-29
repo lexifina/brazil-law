@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná assim ementado:
+"RECURSO DE APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE PRESCRIÇÃO DE COBRANÇA - AJUIZAMENTO ANTERIOR, DE AÇÃO CIVIL PÚBLICA DISCUTINDO CLÁUSULAS E COBRANÇAS DO CONTRATO - APELANTE QUE SE HABILITOU NA AÇÃO - INTERRUPÇÃO DA PRESCRIÇÃO - POSSIBILIDADE - INTELIGÊNCIA DO ART. 202, V E PARÁGRAFO ÚNICO, DO CÓDIGO CIVIL - PRECEDENTES JURISPRUDENCIAIS - SENTENÇA CORRETA - RECURSO DE APELAÇÃO DESPROVIDO" (e-STJ fls. 184).
+Nas razões do especial o recorrente alega, além de divergência jurisprudencial, violação dos arts. 206, §5º, I, do Código Civil.
+Sustenta que o prazo prescricional aplicado para a ação de cobrança das parcelas é de cinco anos, a contar do vencimento da obrigação.
+Aduz que o mero ajuizamento de ação revisional de contrato não possui o condão de elidir a mora, sendo assim não interrompe o curso da prescrição da pretensão de cobrança de dívida decorrente do mesmo.
+Apresentadas as contrarrazões, o recurso foi inadmitido na origem. Daí presente agravo no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Inicialmente, verifica-se que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ), sendo esta a legislação aplicável.
+A irresignação merece prosperar.
+Quanto à questão de fundo, o Tribunal de origem assentou a ocorrência de causa interruptiva da prescrição, nos seguintes termos:
+"O Apelante pretende através do presente recurso, a reforma da sentença que julgou improcedente a sua pretensão com resolução de mérito, com fulcro no art. 269, I, do Código de Processo Civil, se pautando na ausência de interrupção da prescrição em razão da existência de Ação Civil Pública nº 1401/2002, pendente de julgamento perante a 21ª Vara Cível de Curitiba, onde se busca a revisão do preço contratado.
+Em que pese os argumentos do Apelante, sua tese não merece prosperar conforme a fundamentação a seguir.
+O ora Apelante pelo que se tem nos autos e não nega, se habilitou na Ação Civil Pública n 1.401/2002 que tramita perante a 21ª Vara Cível de Curitiba, a fim de rever a cobrança e as cláusulas do contrato firmado com a ora Apelada no ano de 2004, mesmo ano em que deixou de adimplir as parcelas do contrato firmado.
+Deste fato, temos que havendo discussão judicial referente a dívida existente, interrompe-se o prazo prescricional da pretensão de reclamar seu pagamento, o qual se reinicia apenas com o fim do referido procedimento judicial, na forma como preceitua o artigos 172, inciso V e 202, inciso V ambos do Código Civil.
+(..) Desta forma, considerando que tanto existe ação de discussão das cobranças em tramite onde o Apelante se encontra habilitado, como a existência de constituição em mora, que importa em impugnação do débito contratual ou de cártula representativa do direito do credor, é causa interruptiva da prescrição" (e-STJ fls. 186-188).
+Com efeito, no julgamento do Recurso Especial nº 1.522.093/MS, de relatoria do Ministro Marco Aurélio Bellizze, a Terceira Turma sufragou o entendimento do sentido de que o ajuizamento de ação questionando o débito implica a interrupção da prescrição em relação à pretensão executiva do título, consoante a seguinte ementa:
+"PROCESSO CIVIL. RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. 1. CÔNJUGE. PRESCRIÇÃO DA DÍVIDA. LEGITIMIDADE RECONHECIDA. INTERPRETAÇÃO ANALÓGICA DO ART. 1.046, § 3.º, DO CÓDIGO DE PROCESSO CIVIL. 2. DEMANDA PROPOSTA PELO DEVEDOR. DEFESA JUDICIAL DO CRÉDITO. INÉRCIA DO CREDOR. AFASTADA. CITAÇÃO. PRAZO PRESCRICIONAL. INTERRUPÇÃO. RECURSO PROVIDO.
+1. Na esteira dos precedentes do STJ, a intimação do cônjuge enseja-lhe a utilização tanto da via dos embargos à execução, por meio dos quais se admite a discussão da própria causa debendi e a defesa do patrimônio como um todo, como da via dos embargos de terceiro, para defesa de sua meação.
+2. Entre os dois instrumentos processuais, desde que respeitado o prazo próprio para oposição, aplica-se a fungibilidade, garantindo a instrumentalização do procedimento na concretização do direito material resguardado.
+3. A objeção de pré-executividade, por se tratar de criação jurisprudencial destinada a impedir a prática de atos tipicamente executivos, em face da existência de vícios ou matérias conhecíveis de ofício e identificáveis de plano pela autoridade judicial, é meio processual adequado para deduzir a prescrição do título em execução.
+4. Assim, reconhecida a legitimidade ampla do cônjuge para defesa do patrimônio do casal pela via dos embargos à execução, deve-se ser estendida a ele, igualmente, a utilização da exceção ou objeção de pré-executividade.
+5. A prescrição é instituto jurídico destinado a sancionar a inércia do detentor de um direito, reconhecendo o desinteresse no exercício de sua posição jurídica e tornando definitivo o estado das coisas.
+6. Nos termos do art. 202 do CC, o decurso do prazo prescricional interrompe-se, uma única vez, quando presente qualquer das hipóteses definidas no art. 202 do CC.
+7. A propositura de demanda em que se debate o próprio crédito - seja ela anulatória, revisional ou cautelar de sustação de protesto - denota o conhecimento do devedor do interesse do credor em exigir seu crédito. Ademais, a atuação judicial do credor em defesa de seu crédito implica o inevitável afastamento da inércia.
+8. Desse modo, aplica-se a interrupção do prazo prescricional, nos termos do art. 202, I, do CC, ainda que a judicialização da relação jurídica tenha sido provocada pelo devedor.
+9. Recurso especial provido" (REsp 1.522.093/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/11/2015, DJe 26/11/2015 - grifou-se).
+Por oportuno, transcreve-se o pertinente trecho do julgado acima:
+"(..) Assim, tem-se evidente a inexistência de inércia por parte do credor, bem como o manifesto conhecimento por parte do devedor acerca do interesse do primeiro em receber aquilo que lhe era devido. Logo, não há qualquer inércia ou desídia do credor que justifique a extinção de sua pretensão pelo transcurso de prazo prescricional. Ao contrário, o aguardo de uma decisão definitiva quanto à higidez do crédito demonstra ato de boa-fé e lealdade processuais.
+Destarte, diante da ausência de inércia e da judicialização da pretensão ao exercício do crédito, ainda que sob o enfoque da defesa do devedor, a interrupção da prescrição se aperfeiçoará nos termos dos arts. 202 do CC e 219 do CPC, com a citação do réu na demanda. E somente retomará seu curso normal após praticado o último ato processual.
+No mesmo sentido:
+"DIREITO EMPRESARIAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. INTERRUPÇÃO. DECISÃO MANTIDA.
+1. É assente, nas Turmas que compõem a Segunda Seção desta Corte, o entendimento de que "a propositura de demanda judicial pelo devedor, seja anulatória, seja de sustação de protesto, que importe em impugnação do débito contratual ou de cártula representativa do direito do credor, é causa interruptiva da prescrição" (REsp 1.321.610/SP, Terceira Turma, Relatora Ministra NANCY ANDRIGHI, DJe de 27/2/2013).
+2. Agravo regimental a que se nega provimento" (AgRg no AREsp 108.978/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 05/04/2016, DJe 11/04/2016).
+Assim, o acórdão recorrido está em harmonia com a jurisprudência desta Corte Superior, o que atrai a incidência da Súmula nº 568/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em R$ 1.000,00 (hum mil reais), os quais devem ser majorados para R$ 2.000,00 (dois mil reais), em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
