@@ -1,0 +1,29 @@
+Decisão:
+Ementa: Processual penal. Habeas Corpus. Tráfico e Associação para o tráfico. Prisão preventiva. Ausência de ilegalidade ou abuso de poder.
+    1. Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça, Rel. Min. Nefi Cordeiro, que negou provimento ao RHC 93.385/PR, assim ementado:
+    “PROCESSUAL PENAL E PENAL. RECURSO EM HABEAS CORPUS. OPERAÇÃO MAHATMA. DIREITO DE RECORRER EM LIBERDADE. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. FUNDAMENTAÇÃO CONCRETA. MODUS OPERANDI. RELEVANTE QUANTIDADE DE DROGA APREENDIDA. ILEGALIDADE. AUSÊNCIA. LIMINAR DEFERIDA E CASSADA EM WRIT IMPETRADO NO STF. AUSÊNCIA DE CONTEMPORANEIDADE. NÃO OCORRÊNCIA. APLICAÇÃO DE MEDIDAS ALTERNATIVAS À PRISÃO. INSUFICIÊNCIA À GARANTIA DA ORDEM PÚBLICA. RECURSO EM HABEAS CORPUS IMPROVIDO, CASSANDO-SE A LIMINAR ANTES DEFERIDA.
+    1. Apresentada fundamentação concreta para a decretação da prisão preventiva, explicitada no modus operandi demonstrado nas investigações conduzidas neste revela indícios de tráfico internacional de entorpecentes, constituindo indícios de participação dos Autuados em grupo criminoso organizado, o qual tem, implementado tentativas de promover o transporte e distribuição de entorpecedentes, bem como na relevante quantidade de droga apreendida, tratando-se de 90 quilos de droga (cocaína e crack), não há que se falar em ilegalidade do decreto de prisão preventiva.
+    2. Tendo o Juízo de 1º Grau cumprido o acórdão prolatado pelo Supremo Tribunal Federal, que, após meses, denegou a ordem do habeas corpus n. 137.238/PR, para restabelecer a prisão do recorrente, considerando a legalidade dos fundamentos contidos no decreto prisional, não há como se reconhecer, no momento, a extemporaneidade não admitida pela Corte Suprema.
+    3. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. Precedentes.
+    4. Recurso em habeas corpus improvido, cassando-se a liminar antes deferida.”
+    2. Extrai-se dos autos que o paciente foi condenado, em primeiro grau, a uma pena superior a 10 anos de reclusão por tráfico de drogas e associação para o tráfico.
+    3. Irresignada com a decretação da prisão preventiva, a defesa impetrou habeas corpus no Tribunal Regional Federal da 4ª Região. A ordem, contudo, foi denegada.
+    4. Na sequência, sobreveio a interposição de recurso ordinário em habeas corpus no Superior Tribunal de Justiça. A Sexta Turma, como visto, desproveu o recurso.
+    5. Neste habeas corpus, a parte impetrante alega que não estão presentes os pressupostos autorizadores da prisão processual. Argumenta que o paciente foi solto por efeito de liminar deferida nos autos do HC 137.238, Relator originário o Ministro Marco Aurélio, não havendo motivo concreto para justificar a renovação da sua custódia cautelar, especialmente pela extemporaneidade dos fundamentos que a justificaram.
+    6. Com esses fundamentos, a defesa postula a concessão da ordem para que o acionante seja colocado em liberdade, notadamente pela falta de fundamentação da prisão processual.
+    Decido.
+    7. O habeas corpus não deve ser deferido.
+    8. Em primeiro lugar, observo que a Primeira Turma desta Corte, no julgamento do HC 137.238, a que fui designado redator para o acórdão, revogou a liminar anteriormente deferida e não enxergou nenhuma ilegalidade flagrante ou abuso de poder na prisão processual do paciente. O acórdão ficou assim ementado:
+    “PROCESSUAL PENAL. HABEAS CORPUS ORIGINÁRIO. TRÁFICO TRANSNACIONAL DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. AUSÊNCIA DE ILEGALIDADE OU ABUSO DE PODER.
+    1. A orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que a gravidade em concreto do crime e a periculosidade do agente, evidenciada pelo modus operandi, constituem fundamentação idônea para a decretação da custódia preventiva. Precedentes.
+    2. Ausência de ilegalidade flagrante ou abuso de poder que autorize a concessão da ordem. Situação em que a prisão preventiva está justificada pela concreta participação do paciente em organização criminosa complexa, responsável pelo tráfico internacional de expressiva quantidade de droga.
+    3. Habeas Corpus indeferido, revogada a liminar.”
+    9. Por outro lado, sem desmerecer os argumentos desenvolvidos na impetração, não tenho como infirmar as premissas lançadas pelo acórdão impugnado para recusar a imediata expedição do alvará de soltura do paciente. Vejam-se, nessa linha, as seguintes passagens:
+    “[...] Como se vê, integra o decreto de prisão fundamento concreto, evidenciado no modus operandi demonstrado nas investigações conduzidas neste revela indícios de tráfico internacional de entorpecentes, constituindo indícios de participação dos Autuados em grupo criminoso organizado, o qual tem, implementado tentativas de promover o transporte e distribuição de entorpecentes, bem como na relevante quantidade de droga apreendida, tratando-se de 90 quilos de droga (cocaína e crack) [...]”
+    10. Ademais, para além de observar que o paciente está condenado a uma pena superior a 10 anos de reclusão, o Supremo Tribunal Federal tem uma jurisprudência consolidada, no sentido de que “a prisão cautelar com fundamento na garantia da ordem pública ressai legítima quando evidenciada a necessidade de cessar a atuação de organização criminosa constituída para a disseminação reiterada de drogas” (HC 122.911-AgR, Rel. Min. Luiz Fux). No mesmo sentido: HC 125.557, Rel.ª Min.ª Rosa Weber, HC 114.147, Rel. Min. Marco Aurélio.
+    11. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 29 de junho de 2018.
+Ministro Luís Roberto Barroso
+Relator
+                  Documento assinado digitalmente
