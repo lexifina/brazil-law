@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] e [NOME], com fundamento na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial às e-STJ fls. 548/549, in verbis:
+O Tribunal de Justiça do Estado de Minas Gerais negou provimento aos apelos defensivos interpostos por [NOME] e JOÃO MENDES FILHO mantendo a sentença que os condenou, respectivamente, às penas de 03 (três) anos e 01 (um) mês de reclusão, em regime inicial fechado, pela prática do crime de furto qualificado (art. 155, § 4º, IV do CP), e 04 (quatro) meses de reclusão, em regime aberto, substituída por restritiva de direitos, pela prática do crime de receptação (art. 180, caput, do CP), porquanto o primeiro subtraiu peças de roupas do interior de um ônibus e as vendeu ao segundo.
+Daí que a defesa interpõe recurso especial, com fulcro no art. 105, III, alínea "a" da Constituição Federal pugnando, em síntese, pela absolvição do réu [NOME] por ausência de dolo ou deficiência de provas e quanto ao réu [NOME] requer a aplicação do princípio da insignificância.
+É a síntese do necessário.
+Ao final, o Parquet opinou pelo não conhecimento do recurso especial, mas "pela concessão da ordem, de ofício, para alterar o regime inicial do fechado para o aberto a ser fixado para o réu [NOME] [NOME] VIEIRA e reconhecer a aplicação do princípio da insignificância em relação à conduta imputada ao réu [NOME]" (e-STJ fl. 554).
+É o relatório.
+Decido.
+Inicialmente, tenho que não assiste razão à defesa quanto ao pedido de aplicação do princípio da insignificância para o recorrente [NOME] [NOME] VIEIRA.
+O Supremo Tribunal Federal consagrou o entendimento de que, para a aplicação do princípio da insignificância, devem estar presentes, cumulativamente, as seguintes condições objetivas: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento do agente; e d) inexpressividade da lesão jurídica provocada. Preenchidos todos esses requisitos, a aplicação desse princípio possui o condão de afastar a própria tipicidade penal, especificamente na sua vertente material.
+No presente caso, no entanto, não há como se aplicar o referido princípio, uma vez que o recorrente [NOME] - que fora condenado por furto qualificado - é reincidente e, conforme consta da sentença condenatória, possui "várias condenações criminais com trânsito em julgado por cometimento de outros crimes de furto" (e-STJ fl. 319), circunstância que frustra o preenchimento dos retromencionados requisitos, notadamente o reduzido grau de reprovabilidade do comportamento do agente e, consequentemente, a mínima ofensividade de sua conduta.
+A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 155 DO CP. PLEITO DE ABSOLVIÇÃO. ATIPICIDADE DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. REINCIDÊNCIA. ENTENDIMENTO DOMINANTE DO STJ. SÚMULA N.º 568/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Ressalvado o entendimento desta relatoria, a Terceira Seção desta Corte Superior, no julgamento dos EAREsp n.º 221.999/RS, firmou "a orientação no sentido de que a reiteração criminosa inviabiliza a aplicação do princípio da insignificância, ressalvada a possibilidade de, no caso concreto, as instâncias ordinárias verificarem que a medida é socialmente recomendável".
+2. Agravo regimental a que se nega provimento.
+(AgInt no AREsp 902.930/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 02/06/2016, DJe 17/06/2016)
+PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. REITERAÇÃO CRIMINOSA. SEIS CONDENAÇÕES. TRÂNSITO EM JULGADO. REINCIDÊNCIA. INDEVIDA A INCIDÊNCIA DA BAGATELA. CONDUTA SOCIAL CONTRÁRIA À ORDEM LEGAL.
+1. A jurisprudência desta Corte Superior está firmada no sentido da não incidência do princípio da insignificância nas hipóteses de reiteração de delitos e reincidência, como é o caso dos autos.
+2. Apesar de a pena ter sido fixada em 2 anos de reclusão, foi considerada negativa a circunstância judicial relativa à conduta social e ao fato de existirem seis condenações transitadas em julgado contra o agravante. Razoável, portanto, a fixação do regime semiaberto no presente caso.
+3. Agravo regimental improvido.
+(AgRg no AREsp 896.863/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/05/2016, DJe 13/06/2016)
+PENAL. AGRAVO INTERNO EM RECURSO ESPECIAL. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. RES FURTIVA. VALOR NÃO IRRISÓRIO. REINCIDÊNCIA. INAPLICABILIDADE.
+I- É incabível a aplicação do princípio da insignificância ao caso concreto, uma vez que valor do bem subtraído - um aparelho celular estimado em R$ 90,00 (noventa reais) - não pode ser considerado irrisório, já que equivale a mais de dez por cento do salário mínimo vigente à época do fato (R$ 622,00).
+II - Na linha da jurisprudência desta eg. Corte, ressalvado o meu entendimento pessoal, mostra-se incompatível com o princípio da insignificância a conduta ora examinada, haja vista que, conforme consta do voto vencido do v. acórdão reprochado, o recorrido é reincidente (precedentes).
+Agravo Regimental desprovido.
+(AgInt no REsp 1585687/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/06/2016, DJe 22/06/2016)
+Já o mesmo não se pode dizer sobre o recorrente [NOME], uma vez que se trata de réu primário e a conduta (receptação) teria sido praticada sem violência ou grave ameaça. Também há de se levar em consideração o fato de que não houve prejuízo para a vítima, tendo em vista que os objetos lhe foram restituídos, o que corrobora o entendimento de que a lesão jurídica provocada pode ser considerada como de mínima ofensividade, bem como a reprovabilidade da conduta não seria de gravidade acentuada.
+Confira-se:
+HABEAS CORPUS SUBSTITUTIVO. FALTA DE CABIMENTO. TENTATIVA DE FURTO SIMPLES. BENS DE PEQUENO VALOR RESTITUÍDOS À VÍTIMA. REGISTRO DE ANTECEDENTE CRIMINAL. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+1. O habeas corpus tem suas hipóteses de cabimento restritas, não devendo vir como sucedâneo do meio próprio cabível.
+2. Mesmo diante de writ manifestamente incabível, ao se deparar com evidente coação ilegal, cabe ao Superior Tribunal de Justiça expedir ordem de ofício.
+3. A intervenção do Direito Penal há de ficar reservada para os casos realmente necessários. Para o reconhecimento da insignificância da ação, não se pode levar em conta apenas a expressão econômica da lesão. Todas as peculiaridades do caso concreto devem ser consideradas, por exemplo, o grau de reprovabilidade do comportamento do agente, o valor do objeto, a restituição do bem, a repercussão econômica para a vítima, a premeditação, a ausência de violência, o tempo do agente na prisão pela conduta etc.
+4. Nem a reincidência nem a reiteração criminosa, tampouco a habitualidade delitiva, são suficientes, por si sós e isoladamente, para afastar a aplicação do denominado princípio da insignificância.
+5. Na espécie, as oito barras de chocolate foram integralmente restituídas ao supermercado vítima da tentativa de furto, e, não obstante a certidão de antecedentes criminais indicar uma condenação transitada em julgado em crime de mesma natureza, a conduta do paciente não traduz lesividade efetiva e concreta ao bem jurídico tutelado.
+6. Habeas corpus não conhecido. Ordem expedida de ofício, extinguindo-se a ação penal.
+(HC 299.185/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 09/09/2014, DJe 25/09/2014, grifei)
+Ante o exposto, dou parcial provimento ao recurso especial tão somente para absolver o recorrente [NOME], por ausência de tipicidade material de sua conduta.
+Publique-se. Intimem-se.
