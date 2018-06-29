@@ -1,0 +1,24 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 3º Região, cuja ementa se transcreve a seguir, na parte que interessa (eDOC 7, p. 14):
+    “MANDADO DE SEGURANÇA – TRIBUTÁRIO – REMESSA NECESSÁRIA – IMPOSTO DE RENDA RETIDO NA FONTE SOBRE DIVIDENDOS DISTRIBUÍDOS AOS ACIONISTAS – ART. 35 DA LEI 7.713/88 – SOCIEDADE ANÔNIMA QUE OSTENTAVA A NATUREZA JURIDICA DE SOCIEDADE DE RESPONSABILIDADE LIMITADA POR QUOTAS EM PARTE DE PERÍODO EM RELAÇAO AOS QUAIS É POSTULADA A REPETIÇÃO DO INDÉBITO MEDIANTE COMPRENSAÇÃO – AUSÊNCIA DE COMPROVAÇÃO DA AUSÊNCIA DE DISTRIBUIÇÃO DE LUCROS NO PERÍODO – PROVIMENTO DA REMESSA – DENEGAÇÃO DA SEGURANÇA.”
+    Os embargos de declaração foram desprovidos (eDOC 8, p. 26).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos artigos 5º, XXII; 52, X; 146, III; 150, I, da Constituição Federal.
+    Sustenta-se que a Lei nº 7.713/88 elegeu pessoas jurídicas e não acionistas de empresas, o dever de recolher o Imposto de Renda sobre o Lucro Líquido. Dessa forma, os acionistas não possuem responsabilidade ou disponibilidade econômica ou jurídica dos lucros sobre os quais o imposto há de incidir (eDOC 9, p. 31).
+    É o relatório.
+    A irresignação do recorrente não merece prosperar.
+    De início, verifica-se que o Supremo Tribunal Federal possui compreensão segundo a qual art. 35, da Lei 7.713/88, em relação ao sócio-cotista, é constitucional, desde que haja previsão no contrato social antecipando a distribuição dos lucros. Isso porque haverá disponibilidade imediata do resultado auferido na data do encerramento do período-base.
+    Nesse sentido, cito a ementa do seguinte julgado:
+    “CONSTITUCIONAL. TRIBUTÁRIO. IMPOSTO DE RENDA. LUCRO LÍQUIDO. SÓCIO QUOTISTA. TITULAR DE EMPRESA INDIVIDUAL. ACIONISTA DE SOCIEDADE ANÔNIMA. Lei nº 7.713, de 1988, artigo 35. I. - No tocante ao acionista de sociedade anônima, é inconstitucional o art. 35 da Lei 7.713, de 1988, dado que, em tais sociedades, a distribuição dos lucros depende principalmente, da manifestação da assembléia geral. Não há falar, portanto, em aquisição de disponibilidade jurídica do acionista mediante a simples apuração do lucro líquido. Todavia, no concernente ao sócio- quotista e ao titular de empresa individual, o citado art. 35 da Lei 7.713, de 1988, não é, em abstrato, inconstitucional (constitucionalidade formal). Poderá sê-lo, em concreto, dependendo do que estiver disposto no contrato (inconstitucionalidade material). II. - Precedente do STF: RE 172.058-SC, Plenário, 30.06.1995. III. - R.E. conhecido e provido, em parte.” (RE 204.886, de Relatoria do Min. Carlos Velloso, Segunda Turma, Dje 28.02.1997.)
+    Ademais, convém reproduzir o assentado pelo Tribunal de origem (eDOC 7, pp. 21 e 23):
+    “No caso em exame, a impetrante pediu a pediu a compensação dos valores recolhidos, nos anos de 1992 e 1993,a título do tributo questionado, referentes aos períodos-base de 1991 e 1992 (fls. 02 e 03, item 1.1 e documentos acostados às fls. 78/105),o que vincula a cognição do Poder Judiciário, sob pena de julgamento além do pedido.
+    Assim, caberia à impetrante comprovar que não houve distribuição aos acionistas de dividendos referentes aos exercícios de 1991 e 1992, ou seja, relativos aos resultados apurados ao final daqueles exercícios.
+    (…)
+    A impetrante, igualmente, não apresentou qualquer documento referente à deliberação sobre a distribuição de lucros do exercício findo em 31 de dezembro de 1992, e é certo que a alteração contratual vigente naquele exercício, em sua cláusula VIII (fls. 67/68), não condicionava a distribuição dos lucros apurados no exercício social à manifestação de órgão societário.”
+    Assim, constata-se que eventual divergência ao entendimento adotado pelo juízo a quo, demandaria o reexame de fatos e provas e o da legislação infraconstitucional aplicável à espécie, de modo a inviabilizar o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Veja-se a ementa do referido julgado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. CORREÇÃO MONETÁRIA DOS DIVIDENDOS DISTRIBUÍDOS ANTECIPADAMENTE AOS SÓCIOS. INCIDÊNCIA DO IMPOSTO DE RENDA, DO IMPOSTO SOBRE O LUCRO LÍQUIDO E DA CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO. NECESSIDADE DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 603.936 AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 17.03.2011)
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 29 de junho de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
