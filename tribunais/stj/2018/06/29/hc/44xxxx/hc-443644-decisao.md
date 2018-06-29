@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME], apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado à pena de 5 anos e 6 meses de reclusão, em regime inicial fechado, mais 13 dias-multa, como incurso no art. 157, § 2º, I e II, do Código Penal.
+Irresignados, o paciente e outro corréu interpuseram recursos de apelação, tendo a Corte de origem dado parcial provimento às insurgências para reduzir as penas dos apelantes para 5 anos e 4 meses de reclusão, mais 13 dias-multa, mantendo, no mais, a sentença condenatória.
+Sustenta a Impetrante, em síntese, que o regime inicial fechado, mais gravoso do que o cabível segundo a pena aplicada, foi fixado sem fundamentação idônea para tanto.
+Requer, liminarmente e no mérito, a concessão da ordem para que o regime seja alterado para o semiaberto.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal manifestou-se pela prejudicialidade do writ.
+É o relatório.
+DECIDO.
+Insurge-se a Impetrante em face da imposição do regime inicial fechado.
+Observa-se que o regime prisional foi fixado na sentença com base nos seguintes fundamentos (fls. 31/32):
+Fixo o regime inicial fechado para o cumprimento da reprimenda corporal, nos termos do artigo 33, § 2º, alínea a, do Código Penal, ante a gravidade do delito e o montante de pena aplicado.
+A Corte estadual manteve o regime mais severo nos seguintes termos (fl. 78):
+O regime prisional inicial fechado se mostra o compatível aos autores de roubo, notadamente diante da reprovabilidade e gravidade da conduta, máxime quando praticado com emprego de arma e em comparsaria.
+Verifica-se, pois, na hipótese, a presença de ilegalidade flagrante, apta a justificar a concessão da ordem, em razão da fixação de regime prisional fechado sem indicação de elementos concretos do caso que assim justificassem, limitando-se o Tribunal de origem, em síntese, a apontar circunstâncias inerentes ao tipo e a mencionar a gravidade abstrata do delito.
+Nesse contexto, conclui-se que o estabelecimento do regime fechado, in casu, contraria o disposto nas Súmulas 440/STJ, 718 e 719/STF, in verbis:
+Súmula 440: Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+Súmula 718/STF: A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+Súmula 719/STF: A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Dessa forma, tratando-se de réu primário, cuja pena-base foi fixada no mínimo, e tendo em vista o quantum final da pena ser superior a 4 anos e não exceder a 8 anos de reclusão - 5 anos e 4 meses -, devida mostra-se a concessão da ordem para fixar o modo prisional semiaberto, em conformidade com o art. 33, § 2º, b, e § 3º, do Código Penal.
+Por fim, cumpre registrar que, o fato de o ora paciente já ter alcançado a progressão ao regime intermediário não prejudica a análise do presente writ, uma vez que ao assim se entender o reeducando estaria sendo duplamente prejudicado. Primeiro ao iniciar o cumprimento da sua pena em regime mais severo do que aquele que seria devido, no caso, o semiaberto. E, em um segundo momento, em razão de não ter a sua insurgência apreciada justamente em consequência da demora no julgamento da presente ação constitucional, o que, em absoluto, não poderia ser imputado ao jurisdicionado.
+Não bastasse, à luz da atual orientação desta Corte, a decisão que defere a progressão de regime possui natureza declaratória, e não constitutiva, devendo, pois, adotar-se como data para o abrandamento do regime carcerário aquela em que efetivamente preenchido os requisitos objetivo e subjetivo.
+Assim, diante a alteração do regime inicial ora concedida, o paciente poderá eventualmente vir a ser beneficiado com a progressão, agora ao regime aberto, por nova decisão a ser proferida pelo Juízo da Execução. A propósito, mutatis mutandis:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. PROGRESSÃO PARA O REGIME ABERTO. EXCESSO DE PRAZO NA APRECIAÇÃO DO PLEITO ANTERIOR, OBJETIVANDO O REGIME SEMIABERTO. DATA EM QUE EFETIVAMENTE IMPLEMENTADOS OS REQUISITOS OBJETIVO E SUBJETIVO, E NÃO A DATA DA EFETIVA INSERÇÃO NO REGIME INTERMEDIÁRIO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+2. Após o julgamento proferido pelo Supremo Tribunal Federal no HC 115.254/SP, esta Corte Superior de Justiça, revendo o entendimento anterior, passou a entender que, ""na execução da pena, o marco para a progressão de regime será a data em que o apenado preencher os requisitos legais (art. 112, LEP), e não a do início do cumprimento da reprimenda no regime anterior. A decisão que defere a progressão de regime tem natureza declaratória, e não constitutiva. Deve ser aplicada a mesma lógica utilizada para a regressão de regime em faltas graves (art. 118, LEP), em que a data-base é a da prática do fato, e não da decisão posterior que reconhece a falta."" Precedentes.
+3. Habeas corpus não conhecido. Contudo, ordem concedida de ofício para cassar o acórdão prolatado pelo Tribunal a quo e determinar, em consequência, que o Juízo das Execuções Criminais adote como data-base para futura progressão de regime o dia em que efetivamente implementados os requisitos objetivo e subjetivo, e não a do início do cumprimento da reprimenda no regime anterior.
+(HC 439.068/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/03/2018, DJe 23/03/2018)
+Ante o exposto, concedo o habeas corpus para alterar o regime inicial para o semiaberto.
+Comunique-se.
+Publique-se.
+Intimem-se.
