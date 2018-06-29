@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] DOS [NOME]; INGLER TOMAZ DA SILVA e [NOME], com amparo no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"EMENTA: REVISÃO CRIMINAL - TORTURA - ERRO NA APLICAÇÃO DA PENA - INEXISTÊNCIA - INCONSTITUCIONALIDADE DA OBRIGATORIEDADE DO REGIME FECHADO AOS CRIMES HEDIONDOS DECLARADA PELO SUPREMO TRIBUNAL FEDERAL - NECESSIDADE DE COERÊNCIA DO ORDENAMENTO - ALTERAÇÃO DO REGIME - NECESSIDADE. V.V. TORTURA - DELITO EQUIPARADO A HEDIONDO - REGIME FECHADO - MANUTENÇÃO - ARTIGO 2º §1º DA LEI 8.072/90." (e-STJ, fl. 842).
+Nas razões recursais, a defesa sustenta violação dos arts. 59 do Código Penal e 1º, § 4º, I, da Lei n. 9.455/97. Alega não haver fundamentação idônea para as exasperações realizadas.
+Além disso, aduz a ocorrência de prescrição. Explica que, no caso de concurso de crimes, a extinção da punibilidade incide sobre a pena de cada um isoladamente (art. 119 do CP). Assim, como a sentença absolveu os réus pelo delito de tortura, ela não poderia ser considerada marco interruptivo desse delito, sendo imperioso reconhecer a prescrição intercorrente.
+Contrarrazões apresentadas (e-STJ, fls. 917-920).
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ, fls. 953-957).
+É o relatório.
+Decido.
+Em relação à pena-base, a Corte local entendeu não haver desproporcionalidade, tampouco carência de fundamentação. Confira-se:
+"Analisando com acuidade o acórdão vergastado, não vislumbrei nenhum erro jurídico na aplicação da pena dos peticionários que determine a alteração via ação revisional.
+As penas foram corretamente aplicadas, observado o princípio constitucional da individualização judicial da sanção e o critério trifásico estipulado no art. 68 do Código Penal.
+Ademais, não obstante tenham os peticionários afirmado que a fixação da pena-base em patamar acima do mínimo legal "exige fundamentação em fatos concretos dos autos e não baseadas em vagas e abstratas presunções" - f. 05, infere-se da simples leitura de f. 500/501 dos autos originais, especialmente, que o então Relator, o [NOME], assim agiu.
+Colaciono trecho do voto em que restaram analisadas as penas-bases aplicadas aos ora peticionários:
+"Apelado Ingler Tomaz da Silva:
+- na primeira fase; - atendendo à culpabilidade intensa, face à conduta covarde do apelado que espancou e afogou a vítima, demonstrando intensidade de dolo em sua conduta, aos seus antecedentes sem registros nos autos, à sua conduta social que não foi apurada, à sua personalidade sem registro nos autos, aos motivos e às conseqüências inerentes à infração, às circunstâncias extremamente prejudiciais, já que as agressões foram iniciadas na presença de diversas pessoas, inclusive crianças e ao comportamento da vítima que não concorreu para a prática do crime, fixo a pena-base um pouco acima do mínimo legal em 03 (três) anos e 02 (dois) meses de reclusão.
+(..)
+[NOME]:
+- na primeira fase; - atendendo à culpabilidade intensa, face à conduta covarde do apelado que espancou e afogou a vítima, demonstrando intensidade de dolo em sua conduta, aos seus antecedentes sem registros nos autos, ã sua conduta social que não foi apurada, à sua personalidade sem registro nos autos, aos motivos e às conseqüências inerentes à infração, às circunstâncias extremamente prejudiciais, já que as agressões foram iniciadas na presença de diversas pessoas, inclusive crianças e ao comportamento da vítima que não concorreu para a prática do crime, fixo a pena-base um pouco acima do mínimo legal em 03 (três) anos e 02 (dois) meses de reclusão.
+(..)
+Apelado [NOME] Ricardo de Oliveira:
+- na primeira fase; - atendendo á culpabilidade intensa, face à conduta covarde do apelado que espancou e afogou a vítima, demonstrando intensidade de dolo em sua conduta, aos seus antecedentes sem registros nos autos, à sua conduta social que não foi apurada, à sua personalidade sem registro nos autos, aos motivos e às conseqüências inerentes à infração, às circunstâncias extremamente prejudiciais, já que as agressões foram iniciadas na presença de diversas pessoas, inclusive crianças e ao comportamento da vítima que não concorreu para a prática do crime, fixo a pena-base um pouco acima do mínimo legal em 03 (três) anos e 02 (dois) meses de reclusão" - grifei.
+Certo é que, apesar de alegar a Defesa às f. 09 que "ao analisar a culpabilidade dos acusados, o acórdão vergastado contrariou a evidência dos autos, pois, é de clareza meridiana, sem nenhuma menção em contrário nestes autos, que o afogamento das vitimas foi executado apenas e tão somente pelo condenado [NOME]", o acórdão expressamente consignou que:
+"A prova colhida evidencia que os apelados praticaram o delito do artigo 1º §§ 1º e 4º inciso II da Lei nº.9.455/97.
+As vitimas foram arrebatadas e colocadas dentro da viatura policial, sendo violentamente agredidas em via pública e posteriormente nas dependências da cadeia pública local e da Delegacia de Polícia, torturadas mediante socos, pontapés e afogamentos".
+Os antecedentes criminais, a conduta social e personalidade dos peticionários não foram valoradas de maneira desfavorável, bem como os motivos e conseqüências do crime que foram consideradas inerentes ao tipo penal. A defesa conformou-se com a aferição negativa das circunstâncias do crime, mas tentou desvalorizar o comportamento da vitima o que, a meu ver, não se admite, restando bem fundamentado, neste ponto, o acórdão vergastado.
+Assim, diante do exposto, não é possível falar em "uma nova valoração da prova" - f. 13, conforme pretende a Defesa para fazer qualquer alteração na pena aplicada já que não restou configurado qualquer erro técnico ou evidente injustiça na sua aplicação, únicas exceções, conforme já dito acima, que comportam o deferimento da revisão criminal para fins de alteração da reprimenda.
+As circunstâncias judiciais foram corretamente valoradas e, na inexistência de erro, não devem ser submetidas a novo juízo de valor." (e-STJ, fls. 846-849)
+Ocorre que, nos termos da jurisprudência sedimentada nesta Corte, o comportamento da vítima é compreendido como circunstância judicial neutra ou favorável ao réu. Portanto, não poderia dar ensejo ao agravamento da pena-base. A propósito:
+"PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. REVISÃO DO JULGADO. IMPOSSIBILIDADE. EMBARGOS REJEITADOS. FLAGRANTE ILEGALIDADE. CONCEDIDO HABEAS CORPUS DE OFÍCIO PARA REDIMENSIONAR A PENA-BASE.
+ ..
+7. "De acordo com o entendimento desta Corte Superior, o comportamento da vítima é circunstância judicial que nunca será avaliada desfavoravelmente: ou será positiva, quando a vítima contribui para a prática do delito, ou será neutra, quando não há contribuição" (REsp 1.284.562/SE, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 5/5/2016, DJe 17/5/2016).
+ .. ." (EDcl no AgRg no AREsp 178.922/RN, de minha relatoria, QUINTA TURMA, julgado em 12/12/2017, DJe 19/12/2017)
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL.  ..  DOSIMETRIA DA PENA.  ..  COMPORTAMENTO DA VÍTIMA. CIRCUNSTÂNCIA FAVORÁVEL OU NEUTRA. EXCLUSÃO. ATENUANTE DA CONFISSÃO ESPONTÂNEA. INCIDÊNCIA DA FRAÇÃO DE 1/6, DE OFÍCIO. REDIMENSIONAMENTO DA PENA.
+ ..
+7. O comportamento da vítima é entendido como vetorial neutra ou favorável, consoante orientação jurisprudencial do Superior Tribunal de Justiça.
+ ..
+9. Agravo regimental provido para conhecer parcialmente do agravo e, nessa extensão, dar-lhe parcial provimento para excluir três circunstâncias judicias desfavoráveis da pena-base e conceder habeas corpus, de ofício, para estabelecer a redução pela atenuante da confissão espontânea em 1/6, redimensionando a pena, nos termos do voto." (AgRg no AgRg no AREsp 185.850/MG, Rel. Ministro ERICSON MARANHO (DESEMBARGADOR CONVOCADO DO TJ/SP), Rel. p/ Acórdão Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 08/03/2016, DJe 21/03/2016)
+Portanto, é de rigor a retirada do comportamento da vítima dentre as circunstâncias desfavoráveis aos recorrentes.
+Quanto à causa de aumento de pena (art. 1º, § 4º, da Lei n. 9.455/97), o Tribunal de Justiça entendeu que a gravidade concreta justificava o aumento utilizado:
+"Apontam os impetrante, ainda, erro no acórdão que teria motivado a agravação pela causa de aumento em máxima fração a partir de elementos do próprio fato típico.
+Tal alegação, entretanto, não procede.
+Cuidadosamente o então Relator da apelação criminal nº 1.0111.04.001703-5/001 justificou a fração de aumento em face o reconhecimento da causa de aumento de pena do artigo 1º § 4º inciso I da Lei 9.455/97 delimitando, inclusive, os critérios utilizados, não havendo qualquer erro a ser corrigido por esta via. Transcrevo:
+"Os apelados são policiais militares e praticaram o delito no exercício de suas funções, justificando-se a aplicação da majorante.
+A fração de aumento da pena por sua vez deve ser fixada em consonância com a análise do caso concreto, aplicando-se o critério qualitativo e não simplesmente o quantitativo.
+A legislação não estipulou o critério de majoração, esclarecendo pois [NOME] o seguinte:
+"(. . .) O julgador deve graduar o aumento (1/6 a 1/3) levando em conta o caso concreto e não fatores meramente aritméticos, ou seja, se estiverem presentes as três hipóteses deste parágrafo, a elevação seria de um terço; se somente uma estiver presente a elevação seria de um sexto. Conforme a situação concreta pode-se elevarem um terço a pena, ainda que exista somente uma das três hipóteses descritas (..)" (in Leis penais e processuais penais comentadas, 5ª ed., São Paulo: Editora Revista dos Tribunais, 2010, p. 1203).
+Aumento portanto a reprimenda em 1/3 (um terço) considerando que as vítimas foram torturadas por cinco policiais militares que lhes impingiram intenso sofrimento físico e moral.
+ .. " (e-STJ, fls. 848-849)
+Sobre o tema, este Superior Tribunal de Justiça tem os seguintes precedentes:
+"HABEAS CORPUS. ART. 163, PARÁGRAFO ÚNICO, DO CÓDIGO PENAL E ART. 1º, I, "B", [NOME], III, DA LEI 9.455/97.  ..  NÃO CONHECIMENTO.
+ ..
+3. No tocante ao crime de tortura qualificado (art. 1, § 4º, III, da Lei nº 9.455/97 - sequestro), tem-se as reprimendas definitivas em patamar inferior a 4 anos, bem como há circunstância judicial desfavorável, a qual se refere à gravidade concreta do crime, o que respalda a fixação do regime fechado, malgrado o quantum de pena. As instâncias de origem apresentaram elementos concretos, relativos às circunstâncias do crime, que, indubitavelmente, revelam como exacerbada a reprovabilidade das condutas dos pacientes.
+3. Habeas corpus não conhecido." (HC 356.144/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 28/06/2016, DJe 01/08/2016)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TORTURA.  ..  INTENSO SOFRIMENTO DA VÍTIMA. SÚMULA 7/STJ. INCIDÊNCIA DA MAJORANTE DO ART. POLICIAIS MILITARES. INCIDÊNCIA DO ART. 1º, § 4º, I, DA LEI 9.455/1997. PRECEDENTES. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+7. "Sendo maior a reprovabilidade da tortura cometida por agente público, a quem competia justamente cumprir a lei e respeitar os direitos individuais, mostra-se razoável e proporcional a aplicação da majorante inseria no art. 1º, § 4º, I, da Lei n. 9.455/97" (HC 279.328/MG, Sexta Turma, Rei. Min. NEFI CORDEIRO, DJe de 22/9/2014 e Agrg no REsp. 1.509.594/MG, Rel. Min. FELIX FISCHER, Quinta Turma, DJe 31/3/2017).
+8. Os motivos declinados impedem a análise da insurgência pela divergência jurisprudencial, não se divisando, ademais, a identidade de bases fáticas entre o acórdão recorrido e os paradigmas colacionados.
+9. Agravo regimental desprovido." (AgRg no REsp 1.524.249/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/06/2017, DJe 01/08/2017)
+Assim, o acórdão não merece reforma nesse ponto .
+Por fim, observe-se que a tese atinente à definição do marco interruptivo, para fins de prescrição, não foi devidamente prequestionada. Observe-se que o acórdão apenas anotou, sucinta e vagamente, que, não houve prescrição no caso concreto ("Não havendo, pois, o reajuste das penas pretendido, inviável a decretação da prescrição." - e-STJ, fl. 849). Ou seja, o Tribunal de origem sequer iniciou o exame do lapso prescricional, apenas refutou a ocorrência.
+Nestes termos, incide, na hipótese, por analogia, o óbice da Súmula 282/STF, segundo a qual: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Portanto, aqui, o recurso não merece conhecimento.
+Ante o exposto, com fundamento no art. 255, § 4º, II e III, do Regimento Interno do STJ, conheço parcialmente do recurso especial e, nessa extensão, dou-lhe parcial provimento, para afastar a valoração negativa do comportamento da vítima, e, feito isto, determinar que o Juízo de origem refaça a dosimetria da pena.
+Publique-se. Intimem-se.
