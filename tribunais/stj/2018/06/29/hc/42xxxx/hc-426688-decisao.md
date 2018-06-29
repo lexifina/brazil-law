@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra acórdão do Tribunal de Justiça do Estado de Rondônia, assim ementado (e-STJ fl. 29):
+Apelação criminal. Homicídio qualificado. Motivo fútil. Decisão contrária à prova dos autos. Versões. Soberania do júri. Decisão contrária à prova dos autos. Soberania do júri.
+A decisão dos jurados só comporta anulação, quando se apresentar totalmente dissociada do conjunto probatório, em razão da soberania dos veredictos.
+O acolhimento pelo Conselho de Sentença de uma das versões apresentadas, não evidencia decisão manifestamente contrária a prova dos autos.
+No presente writ, sustenta a defesa que a decisão dos jurados foi manifestamente contrária às provas dos autos, pois, "apesar da confissão extrajudicial do paciente, e repita-se que tão somente a fez, após ser orientado a assumir o homicídio, para ver seu irmão liberado e que durante a instrução provariam a inocência de ambos, a decisão dos jurados não encontra respaldo probatório nos autos, sobretudo porque a única testemunha que passava na rua durante os disparos realizados a vítima, afirmou (fls. 18) que o homem que efetuou os disparos tratava-se de pessoa morena, pessoa essa que é adversa de [NOME] por se tratar de pessoa branca" (e-STJ fl. 4).
+Ao final, requer, liminarmente, seja obstada a prisão do ora paciente. No mérito, pleiteia a reforma do acórdão de apelação, determinando-se que o paciente seja levado a novo júri.
+Indeferido o pleito liminar (e-STJ fls. 40/41), opinou o Ministério Público Federal "pelo não cabimento do habeas corpus" (e-STJ fl. 45).
+É o relatório. Decido.
+Acompanhando a orientação da Primeira Turma do Supremo Tribunal Federal, a jurisprudência desta Corte Superior firmou-se no sentido de que o habeas corpus não pode ser utilizado como substituto de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+Nesse sentido, encontram-se, por exemplo, estes julgados: HC 313.318/RS, Quinta Turma, Rel. Min. Felix Fischer, julgamento em 7/5/2015, DJ de 21/5/2015; HC 321.436/SP, Sexta Turma, Rel. Min. Maria Thereza de Assis Moura, julgado em 19/5/2015, DJ de 27/5/2015.
+De início, incabível o presente habeas corpus substitutivo de recurso. Todavia, em homenagem ao princípio da ampla defesa, passa-se ao exame da insurgência, para verificar a existência de eventual constrangimento ilegal.
+No caso, contudo, não há como se examinar, na via exígua do writ, a alegação da defesa, por via transversa, acerca de ausência de provas da autoria delitiva, notadamente quando as instâncias ordinárias concluíram de forma diversa, pois no habeas corpus não se permite o exame aprofundado de fatos e provas.
+Nesse sentido:
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO TENTADO. RECONHECIMENTO PESSOAL. RATIFICAÇÃO EM JUÍZO. ALEGAÇÃO DE INSUFICIÊNCIA DE PROVAS PARA A CONDENAÇÃO. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. NÃO CABÍVEL NA VIA ESTREITA DO HABEAS CORPUS. ORDEM DE HABEAS CORPUS DENEGADA.
+ ..
+3. No julgamento do habeas corpus não se pode analisar a argüida ausência de provas da materialidade e autoria do crime para efeito da absolvição do Paciente, como se fosse um segundo recurso de apelação. Descabida na via eleita ampla dilação probatória.
+4. Ordem habeas corpus denegada. (HC n.º 225.586/MG, Relatora a Ministra Laurita Vaz, DJe de 2/10/2013.)
+HABEAS CORPUS. ART. 158, § 1.º, DO CÓDIGO PENAL. (1) IMPETRAÇÃO SUBSTITUTIVA DE RECURSO ESPECIAL. IMPROPRIEDADE DA VIA ELEITA. (2) ABSOLVIÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. VIA INADEQUADA. (3) PENA-BASE. ACRÉSCIMO. MOTIVADO. AUSÊNCIA DE ILEGALIDADE. (4) PENA-BASE ACIMA DO MÍNIMO LEGAL. REPRIMENDA FINAL EM PATAMAR SUPERIOR A QUATRO ANOS. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. REGIME INICIAL FECHADO. ADEQUAÇÃO. (5) WRIT NÃO CONHECIDO.
+ ..
+2. O mandamus se presta a sanar ilegalidade ou abuso de poder que resulte em coação ou ameaça à liberdade de locomoção. Não cabe nesta via estreita do writ revolvimento fático-probatório a ensejar a absolvição do paciente. (Precedentes).
+ ..
+5. Habeas corpus não conhecido. (HC n.º 222.001/DF, Relatora a Ministra Maria Thereza de Assis Moura, DJe de 25/09/2013.)
+Portanto, não é possível, na via eleita, reverter a conclusão a que chegaram as instâncias ordinárias e, em especial, o Tribunal Popular. A condenação se insere no juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto, somente passível de revisão por esta Corte no caso de flagrante ilegalidade, o que não se verificou no caso dos autos.
+Ao ensejo:
+(..). HOMICÍDIO QUALIFICADO TENTADO. CONDENAÇÃO. TRIBUNAL DO JÚRI. RECURSO DE APELAÇÃO. PRETENSÃO DE ABSOLVIÇÃO OU ANULAÇÃO DO JULGAMENTO. VEREDICTO QUE ENCONTRA AMPARO NA PROVA PRODUZIDA NOS AUTOS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. 1. Havendo suporte probatório apto a amparar o veredicto dos jurados, inviável a absolvição do réu ou a anulação do julgamento realizado, como pretendido pela defesa, já que nas apelações interpostas com espeque na alínea "d" do inciso III do artigo 593 do Código de Processo Penal a decisão colegiada deve tão somente concluir se houve ou não contrariedade aos elementos de convicção produzidos no feito, indicando em que se funda e dando os motivos de seu convencimento. 2. É inviável, por parte desta Corte Superior de Justiça, avaliar se as provas constantes dos autos são aptas a atestar que as declarações prestadas pela vítima não encontrariam amparo nos autos, pois seria necessário aprofundado revolvimento de matéria fático-probatória, providência que é vedada na via eleita. Precedentes. (HC 285.633/SP, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 3/11/2015, DJe 10/11/2015)
+Ante o exposto, nego seguimento ao presente habeas corpus (art. 34, XX, do RISTJ).
+
+Publique-se. Intime-se.
