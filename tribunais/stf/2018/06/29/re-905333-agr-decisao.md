@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo regimental em face de recurso extraordinário contra decisão que negou seguimento a recurso, com fundamento na jurisprudência desta Corte. Eis um trecho desse julgado, no relevante:
+    “Quanto aos dois primeiros pedidos, registro que o Tribunal de origem, ao examinar o conjunto probatório constante dos autos, consignou que a metodologia utilizada pelo perito oficial seria a mais adequada à revelação do valor do imóvel, bem como a inexistência de passivo ambiental a ser recomposto. (...)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    (...)
+    Quanto aos demais pedidos, ressalvo minha posição pessoal, no sentido da aplicação da taxa de juros em 6%, tendo em vista o conceito dinâmico do direito de propriedade, uma vez que a incidência de juros em 12% configuraria decisão fortemente patrimonialista.
+    Registro, ainda, serem antigos os processos em que se discute a taxa de juros compensatórios adequada para recomposição do valor a ser indenizado. Tais processos exigem pronunciamento definitivo por parte desta Suprema Corte, que não pode, diante desse contexto temporal, abster-se do julgamento plenário do mérito.
+    Todavia, em homenagem ao princípio do colegiado, adoto a orientação do Plenário desta Corte no julgamento da liminar na ADI 2.332, rel. Min. Moreira Alves, e verifico que o acórdão recorrido está em consonância com a jurisprudência desta Corte, que reconhece a incidência dos juros compensatórios de 12%, mesmo que improdutivo o imóvel, e que paga a indenização em títulos da dívida agrária.
+    (...)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).” (eDOC 10, p. 2-5)
+    No agravo regimental, registra a parte agravante não se opor ao entendimento da decisão recorrida no que toca à incidência do óbice da Súmula 279 do STF, a impedir a reapreciação por esta Corte dos critérios utilizados pelo perito oficial para aferição do valor de mercado do imóvel objeto de desapropriação, bem como da existência de eventual passivo ambiental a ser recomposto.
+    Quanto à incidência de juros compensatórios, alega-se incorreção da decisão agravada na medida em que teria inobservado na espécie a superveniência de legislação infraconstitucional tratando da forma de incidência de juros devidos pela desapropriação de imóvel rural para o fim de reforma agrária.
+    Intimada, a parte recorrida apresentou contrarrazões, pugnando pela manutenção da decisão recorrida (eDOC 15, p. 1-8).
+    É o breve relatório.
+    Decido.
+    Observo que a presente controvérsia cuida da forma de incidência de juros remuneratórios nos casos de desapropriação por interesse social. Sobre o tema, registro que a decisão agravada, a despeito de contrária ao meu entendimento pessoal, se alinhava à orientação sumular desta Corte, assim como ao assentado no julgamento da medica cautelar na Ação Direta de Inconstitucionalidade 2.332, no sentido da incidência de juros remuneratórios na base de 12% (doze por cento) ao ano.
+    Ocorre que, após proferida a decisão impugnada, o Plenário desta Corte, apreciando o mérito da citada ação direta (ata de julgamento publicada no DJe 28.5.2018), julgou constitucional o percentual de juros compensatórios de 6% (seis por cento) ao ano para remuneração do proprietário pela imissão prévia do ente público na possa do seu bem, declarando a inconstitucionalidade do vocábulo “até” e interpretando conforme a Constituição o caput do art. 15-A do Decreto-Lei 3.365/41, de 21 de junho de 1941, introduzido pelo artigo 1º da Medida Provisória nº 2.027-43, de 27 de setembro de 2000, e suas sucessivas reedições, para confirmar a incidência de juros compensatórios apenas sobre a diferença entre 80% (oitenta por cento) do preço ofertado em juízo pelo ente público e o valor do bem fixado na sentença.
+    Desse modo, merece reconsideração parcial a decisão impugnada, uma vez que o acórdão do tribunal de origem, ao consignar devidos juros compensatórios à taxa anual de 12% (eDOC 5, p. 15), divergiu da atual orientação desta Corte.
+    Ante o exposto, reconsidero a decisão constante do eDOC 10, para julgar prejudicado o agravo regimental e dar parcial provimento ao recurso extraordinário no sentido de reconhecer devidos na espécie juros compensatórios de 6% (seis por cento) ao ano para remuneração do proprietário pela imissão provisória do ente público na posse de seu bem.
+    Publique-se.
+    Brasília, 29 de junho de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
