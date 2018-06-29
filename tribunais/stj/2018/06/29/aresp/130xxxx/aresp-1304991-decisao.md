@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FERNANDO, NAGAO, CARDONE, ALVAREZ SOCIEDADE DE ADVOGADOS contra decisão exarada pela il. Presidência da Seção de Direito Privado do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), que inadmitiu o recurso especial.
+Cuidam os autos, na origem, de "embargos à execução" promovido por MONTEPINO PERFIS ESPECIAIS S.A em desfavor de FERNANDO, NAGAO, CARDONE, ALVAREZ SOCIEDADE DE ADVOGADOS, cujo pedido foi julgado procedente, conforme sentença de fls. 325-330, para "anular o processo de execução em apenso desde seu início, 618, I, do CPC. por ser ilíquido o título executivo".
+Diante disso, FERNANDO, NAGAO, CARDONE, ALVAREZ SOCIEDADE DE ADVOGADOS interpôs apelação, a qual foi provida pelo eg. TJ-SP, conforme v. acórdão, assim ementado (fl. 385):
+"CERCEAMENTO DE DEFESA - Alegação de que a sentença seria nula, pois o caso estaria a ensejar a dilação probatória - Matéria exclusivamente de direito, com os fatos já comprovados - Desnecessidade de maiores dilações - Cerceamento de defesa inexistente - Preliminar rejeitada.
+HONORÁRIOS PROFISSIONAIS - Ação de execução proposta por escritório de advogados, decorrente de contrato escrito, e embargada - Embargos julgados procedentes, com extinção da execução, ante o reconhecimento da iliquidez do título - Alegação de que os serviços contratados foram regularmente prestados, e, nos termos do contrato, ocorreu a compensação tributária solicitada - Alegação de que não há a necessidade de qualquer homologação pela administração pública, e isso não faria parte do contrato, assim, o título cobrado preenche os requisitos legais - Valores compensados que são reconhecidos pela apelada - Honorários que são devidos, justamente em razão do êxito da empreitada - Desnecessidade, por força da contratação, de qualquer homologação - Título líquido, certo e exigível - Recurso provido, com reforma da sentença"."
+Em terceiro acórdão integrativo, o Tribunal a quo acolheu os embargos de declaração de MONTEPINO PERFIS ESPECIAIS S.A, com efeito modificativo, para manter a d. sentença, nos seguintes termos (fl. 488):
+"EMBARGOS DE DECLARAÇÃO - APELAÇÃO - HONORÁRIOS ADVOCATÍCIOS - Embargos à execução - Alegação de que o Acórdão proferido pela Turma Julgadora padece de omissão - Vício constatado - Existência de cláusula contratual que torna a obrigação "ad exitum"- Embargos acolhidos com efeito modificativo para julgar procedentes os Embargos à Execução, com extinção da Ação de Execução".
+Inconformada, FERNANDO, NAGAO, CARDONE, ALVAREZ SOCIEDADE DE ADVOGADOS manejou recurso especial, com arrimo na alínea "a" do art. 105, III, da Constituição Federal, no qual alega violação aos arts. 373, II e 920, II do CPC/2015.
+Contrarrazões às fls. 515-529.
+Como dito, o apelo nobre foi inadmitido (fls. 569-570).
+Irresignada, FERNANDO, NAGAO, CARDONE, ALVAREZ SOCIEDADE DE ADVOGADOS manejou o presente agravo em recurso especial, refutando os fundamentos da decisão que inadmitiu seu apelo nobre.
+Contraminuta às fls. 596-609.
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+A irresignação não merece prosperar.
+Quanto à alegada violação aos arts. 373, II e 920, II do CPC/2015, verifica-se que, no apelo nobre, o conteúdo normativo dos dispositivo invocados não foi apreciado pelo Tribunal de origem. Além disso, os embargos de declaração opostos por FERNANDO, NAGAO, CARDONE, ALVAREZ SOCIEDADE DE ADVOGADOS, em três oportunidades (fls. 393-399/426-429/442-445), não se prestaram a sanar a eventual omissão. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF. Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO IMOBILIÁRIO COM GARANTIA FIDUCIÁRIA. ALEGAÇÃO DE OFENSA AOS ARTS. 330, § 1º, I, 373, 485, I, 492, DO CÓDIGO DE PROCESSO CIVIL DE 2015, E 422 DO CÓDIGO CIVIL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356/STF. DEFERIMENTO DA ANTECIPAÇÃO DA TUTELA. PRESENÇA DOS REQUISITOS AUTORIZADORES. ALTERAÇÃO DAS PREMISSAS ADOTADAS PELAS INSTÂNCIAS ORDINÁRIAS. SÚMULA 7 DO STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Fica inviabilizado o conhecimento de temas trazidos na petição de recurso especial, mas não debatidos e decididos nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+(..)
+4. Agravo interno a que se nega provimento".
+(AgInt no AREsp 1145733/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 20/02/2018, DJe 28/02/2018)
+Por fim, conclui-se que o nobre apelo não merece ser conhecido.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 10% (dez por cento) para 11% (onze por cento).
+Publique-se.
