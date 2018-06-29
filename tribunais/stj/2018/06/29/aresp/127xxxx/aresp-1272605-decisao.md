@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo contra inadmissão de recurso especial interposto por LANSID EMPREENDIMENTO IMOBILIÁRIOS LTDA. O apelo extremo, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"EXECUÇÃO DE HONORÁRIOS ADVOCATÍCIOS - PRETENSÃO À DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA DEVEDORA - AFIGURA-SE REQUISITO INDISPENSÁVEL A ENSEJAR A APLICAÇÃO DO INSTITUTO DA DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA A DEMONSTRAÇÃO DE ATOS QUE IMPORTEM NA EXISTÊNCIA DO ANIMO DE FRAUDAR, O QUE RESTOU COMPROVADO PELA SENTENÇA QUE RECONHECEU TER A DEVEDORA PRATICADO FRAUDE À EXECUÇÃO, BEM COMO PELA AUSÊNCIA DE BENS CAPAZES DE GARANTIR O DÉBITO EXEQUENDO, CIRCUNSTANCIAS QUE AUTORIZAM O REDIRECIONAMENTO DA EXECUÇÃO CONTRA OS SÓCIOS - GERENTES - DESPROVIMENTO DO RECURSO" (fl. 39 e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, o agravante sustenta, além da divergência jurisprudencial, violação dos artigos 1.022 do Código de Processo Civil de 2015, 45, 50 e 1.052 do Código Civil.
+Aduz omissão no julgado.
+Sustenta que não há falar em desconsideração da personalidade jurídica.
+Menciona que não foi "configurado o abuso da personalidade jurídica, caracterizado pela desvio de finalidade ou pela confusão patrimonial" (fl. 71 e-STJ).
+Não houve contrarrazões (certidão de fl. 103 e-STJ).
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação merece prosperar em parte.
+Quanto à alegada violação do art. 1.022 do CPC/2015, no recurso especial há somente alegação genérica, sem especificação das teses que supostamente foram violadas pelo acórdão recorrido.
+Ante a deficiente fundamentação do recurso nesse ponto, incide a Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+No mais, verifica-se que as matérias versadas nos arts. 45 e 1.052 do Código Civil não foram objeto de debate pelas instâncias ordinárias.
+Nessa circunstância, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Por fim, a jurisprudência desta Corte encontra-se consolidada no mesmo rumo da tese defendida nas razões do especial, no sentido de que a desconsideração da personalidade jurídica é medida excepcional e está subordinada à comprovação do abuso da personalidade jurídica, caracterizado pelo desvio de finalidade ou pela confusão patrimonial, consoante se observa dos seguintes precedentes:
+"PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO JUDICIAL. ART. 50 DO CC/02. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA INVERSA. POSSIBILIDADE.
+I - A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial. Súmula 211/STJ.
+II - Os embargos declaratórios têm como objetivo sanear eventual obscuridade, contradição ou omissão existentes na decisão recorrida.
+Inexiste ofensa ao art. 535 do CPC, quando o Tribunal a quo pronuncia-se de forma clara e precisa sobre a questão posta nos autos, assentando-se em fundamentos suficientes para embasar a decisão, como ocorrido na espécie.
+III - A desconsideração inversa da personalidade jurídica caracteriza-se pelo afastamento da autonomia patrimonial da sociedade, para, contrariamente do que ocorre na desconsideração da personalidade propriamente dita, atingir o ente coletivo e seu patrimônio social, de modo a responsabilizar a pessoa jurídica por obrigações do sócio controlador.
+IV - Considerando-se que a finalidade da disregard doctrine é combater a utilização indevida do ente societário por seus sócios, o que pode ocorrer também nos casos em que o sócio controlador esvazia o seu patrimônio pessoal e o integraliza na pessoa jurídica, conclui-se, de uma interpretação teleológica do art. 50 do CC/02, ser possível a desconsideração inversa da personalidade jurídica, de modo a atingir bens da sociedade em razão de dívidas contraídas pelo sócio controlador, conquanto preenchidos os requisitos previstos na norma.
+V - A desconsideração da personalidade jurídica configura-se como medida excepcional. Sua adoção somente é recomendada quando forem atendidos os pressupostos específicos relacionados com a fraude ou abuso de direito estabelecidos no art. 50 do CC/02. Somente se forem verificados os requisitos de sua incidência, poderá o juiz, no próprio processo de execução, "levantar o véu" da personalidade jurídica para que o ato de expropriação atinja os bens da empresa.
+VI - À luz das provas produzidas, a decisão proferida no primeiro grau de jurisdição, entendeu, mediante minuciosa fundamentação, pela ocorrência de confusão patrimonial e abuso de direito por parte do recorrente, ao se utilizar indevidamente de sua empresa para adquirir bens de uso particular.
+VII - Em conclusão, a r. decisão atacada, ao manter a decisão proferida no primeiro grau de jurisdição, afigurou-se escorreita, merecendo assim ser mantida por seus próprios fundamentos.
+Recurso especial não provido" REsp 948.117/MS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/6/2010, DJe 3/8/2010 - grifou-se).
+"RECURSO ESPECIAL. AÇÃO MONITÓRIA. CUMPRIMENTO DE SENTENÇA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. ART. 50 DO CC/2002. ABUSO DA PERSONALIDADE JURÍDICA. DESVIO DE FINALIDADE OU CONFUSÃO PATRIMONIAL. REQUISITOS. INDÍCIOS DE ENCERRAMENTO IRREGULAR DA SOCIEDADE. INSUFICIÊNCIA.
+1. O recurso especial tem origem em agravo de instrumento que manteve decisão que deferiu pedido de desconsideração de personalidade jurídica com base no artigo 50 do Código Civil.
+2. Cinge-se a controvérsia a definir se estão presentes os requisitos para a desconsideração da personalidade jurídica no caso dos autos.
+3. A desconsideração da personalidade jurídica é medida excepcional e está subordinada à comprovação do abuso da personalidade jurídica, caracterizado pelo desvio de finalidade ou pela confusão patrimonial.
+4. A existência de indícios de encerramento irregular da sociedade aliada à ausência de bens capazes de satisfazer o crédito exequendo não constituem motivos suficientes para a desconsideração da personalidade jurídica. Precedentes.
+5. Recurso especial provido" (REsp 1.419.256/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 2/12/2014, DJe 19/2/2015 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO (ART. 1.042 DO NCPC) - EXECUÇÃO - DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO PARA AFASTAR A DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA EMPRESA. INSURGÊNCIA DO EXEQUENTE.
+1. A teoria da desconsideração da personalidade jurídica, medida excepcional prevista no art. 50 do Código Civil de 2002, pressupõe a ocorrência de abusos da sociedade, advindos do desvio de finalidade ou da demonstração de confusão patrimonial.
+2. A mera inexistência de bens penhoráveis ou eventual encerramento irregular das atividades da empresa não ensejam a desconsideração da personalidade jurídica.
+3. Manutenção da decisão monocrática que, ante a ausência dos requisitos previstos no art. 50 do CC/2002, afastou a desconsideração da personalidade jurídica.
+4. Agravo interno desprovido" (AgInt no AREsp 1.018.483/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 12/12/2017, DJe 1º/2/2018 - grifou-se).
+No caso dos autos, a desconsideração da personalidade jurídica operou-se pelos seguintes fundamentos:
+"(..)
+A r. decisão proferida não merece reforma. A finalidade da desconsideração da personalidade jurídica é impedir prejuízos a terceiros, ocasionados por atos fraudulentos, permitindo que o patrimônio dos sócios responda pelo dano. Saliente-se que tal mecanismo tem aplicação excepcional, diante de situações específicas, sendo admitido somente quando presentes sólidos elementos identificadores da fraude. O quadro probatório delineado nos autos revela que foram ultimadas providências no sentido de localizar bens da executada, não logrando o exequente, todavia, a satisfação total de seu crédito. De fato, com exceção do bloqueio on line da quantia de R$ 1.542,09 (mil quinhentos e quarenta e dois reais e nove centavos), não há nos autos elementos que demonstrem ter a executada bens capazes de satisfazer o débito exequendo, valendo salientar, por outro lado, que em dezembro de 2011 o MM. Juízo a quo já havia reconhecido, por sentença proferida em autos de embargos de terceiro, a prática de fraude à execução pela executada. Não bastassem tais evidências, logrou a exequente demonstrar pelas certidões emitidas pelo Quinto e Sexto Ofícios de Distribuição - fls. 661/667 - a reiterada prática de compra e venda de imóveis realizada pela Agravante que, mesmo sendo atividade habitual e objetivo social da empresa, cria dificuldades intransponíveis para a garantia da execução.
+Dentro deste quadro, afigura-se correta a r. decisão que determinou a desconsideração da personalidade jurídica da executada, de modo a legitimar o redirecionamento da execução para os sócios-gerentes, não havendo, pois, que prosperar a pretensão recursal" (fls. 41/42 e-STJ).
+Logo, não restou evidenciado o abuso da personalidade jurídica, caracterizado pelo desvio de finalidade ou pela confusão patrimonial.
+Ausentes os requisitos do artigo 50 do Código Civil de 2002, o provimento do recurso especial é medida que se impõe.
+Ante o exposto, conheço do agravo e dou parcial provimento ao recurso especial para afastar a desconsideração da personalidade jurídica.
+Publique-se.
+Intimem-se.
