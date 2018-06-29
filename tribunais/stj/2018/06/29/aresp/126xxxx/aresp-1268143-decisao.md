@@ -1,0 +1,33 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE MORTE PRESUMIDA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF.
+1. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por [NOME] contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 07/11/2017.
+Concluso ao gabinete em: 05/06/2018.
+Ação: declaratória de morte presumida ajuizada por [NOME] DE [NOME], MONICA DE [NOME], [NOME] DE [NOME] JUNIOR e ANA ALICE NOLASCO DE SOUZA contra o ora agravante, na qual alegam que são irmãos de [NOME], falecida em 17.11.05, e casada pelo regime da comunhão parcial de bens com o agravante, porém, separada dele desde o início de 2002. Informaram que [NOME] foi acometida por grave doença e passou a depender totalmente dos familiares, sendo que por um período antes de seu falecimento a família foi obrigada a interná-la em uma clínica, tendo em vista que não possuíam condições de realizar os cuidados necessários a sua sobrevivência. Asseveraram que inicialmente a curadora nomeada para tomar decisões em nome da Mirís foi a genitora, entretanto, veio a falecer antes, oportunidade que a irmã [NOME] passou a administrar a vida e os bens de [NOME]. Aduziram que os custos com o tratamento eram elevados, sendo que a genitora, temerosa de que algo viesse a faltar para a filha, promoveu a doação de um imóvel. Declararam que todos os fatos ocorreram sem a participação do agravante e todas as despesas do tratamento foram suportadas pela família de [NOME] e por seu patrimônio. Relataram que o agravante promoveu a abertura do inventário de [NOME] e também se habilitou no inventário da sua genitora. Requereram, assim, a procedência da ação.
+Sentença: julgou improcedente o pedido e condenou os agravados ao pagamento de honorários advocatícios fixados em 15% sobre o valor da causa.
+Decisão monocrática: negou provimento ao recurso de apelação interposto pelos agravados, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA. RECONHECIMENTO DE SEPARAÇÃO DE FATO. Conjunto probatório que não se mostra capaz de tornar ineficaz o casamento celebrado entre o demandado e a de cujus. Cabia aos apelantes fazer prova consistente da efetiva separação fática, o que não ocorreu. Apelação desprovida, de plano.
+Agravo interno: o TJ/RS deu provimento ao recurso de agravo interno interposto pelos agravados, para reconhecer que o agravante estava separado de fato de [NOME], não possuindo direito sucessória em relação aos bens deixados por sua ex - cônjuge, de acordo com a seguinte ementa:
+AGRAVO INTERNO. AÇÃO DECLARATÓRIA. RECONHECIMENTO DE SEPARAÇÃO DE FATO. Conjunto probatório que indica que o demandado estava separado de fato quando do falecimento da ex-cônjuge, não possuindo direito sucessória em relação aos bens deixados por ela. Agravo interno provido.
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 1.830, do CC/02; 11, 489, § 1º, IV e VI e art. 1.022, I, II e III, todos do CPC/2015, além de dissídio jurisprudencial. Sustenta que Tribunal de origem, além de não ter fundamentado as suas conclusões, não analisou o ponto referente à existência de provas irrefutáveis nos autos de que o casal não estava separado de fato. Defende que a sua esposa sofreu um AVC e permaneceu em estado vegetativo até a sua morte, o que tornou impossível a convivência do casal.
+Parecer do MPF: da lavra do I. Subprocurador-Geral MAURICIO VIEIRA BRACKS, opina pelo não provimento do agravo em recurso especial.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 489 do CPC/2015
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts. 165 e 458, II, do CPC/73 ou 489 do CPC/2015.
+- Da violação do 1.022 do CPC/15 e do reexame de fatos e provas
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca das provas dos autos que levaram à conclusão de que o casal estava separado desde 2002 (e-STJ fl. 407), de maneira que os embargos de declaração opostos pelo agravante de fato não comportavam acolhimento.
+Desse modo, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do 1.022 do CPC/2015, incidindo, quanto ao ponto, a Súmula 568/STJ.
+Ainda que assim não fosse, alterar o decidido no acórdão impugnado, quanto ao referido ponto, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+A falta de indicação do dispositivo legal sobre o qual recai a divergência inviabiliza a análise do dissídio. Nesse sentido: AgRg no REsp 1579618/PR, 3ª Turma, DJe de 01/07/2016; AgRg no RESP 1283930/SC, 4ª Turma, DJe de 14/06/2016; e, AgRg no REsp 1.346.588/DF, Corte Especial, DJe de 17/03/2014.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro em 5% os honorários fixados anteriormente, observada a gratuidade de justiça deferida.
+Publique-se. Intimem-se.
