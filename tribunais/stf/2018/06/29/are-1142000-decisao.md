@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 4ª Região, ementado nos seguintes termos:
+    “DIREITO ADMINISTRATIVO. DIREITO AMBIENTAL. DIREITO CONSTITUCIONAL. AÇÃO CIVIL PÚBLICA. CONSTRUÇÃO IRREGULAR EM ÁREA DE PRESERVAÇÃO PERMANENTE. DANO AMBIENTAL. RESPONSABILIDADE CIVIL OBJETIVA. OBRIGAÇÃO PROPTER REM. DEVER DE REPARAÇÃO. INDENIZAÇÃO. PRECEDENTES.
+     . Não há direito adquirido a poluir ou degradar o meio ambiente, não existindo permissão ao proprietário ou posseiro para a continuidade de práticas vedadas pelo legislador;
+    . A obrigação de recuperar a degradação ambiental é do titular da propriedade do imóvel, mesmo que não tenha contribuído para a deflagração do dano, tendo em conta sua natureza propter rem;
+    . Não é razoável considerar consolidada uma construção irregular, em área de preservação permanente, somente com base na antiguidade da ocupação, sobretudo porque não há direito adquirido a poluir ou degradar o meio ambiente;
+     . Sendo possível a reparação do dano ambiental mediante a reversão da condição da área degradada ao seu estado anterior, não é necessária a condenação ao pagamento de indenização, porque este não é o primordial objetivo da ação civil pública, que visa à concretização da tutela específica de reparação do dano”. (eDOC2 p. 132)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se a violação do art. 225, § 3, do texto constitucional.
+    Nas razões recursais, alega-se a possibilidade de cumulação da recuperação da área ambiental degradada com a indenização dos danos intercorrentes.
+    É o relatório.
+    Decido.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Código Civil) e o conjunto probatório constante dos autos, consignou, na espécie, não ser necessária a condenação ao pagamento de indenização quando o bem ambiental lesado pode ser perfeitamente restaurado somente com a demolição ou remoção das estruturas estabelecidas e com a execução de Plano de Recuperação de Área Degradada (PRAD).
+     Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Nas demandas ambientais, por força dos princípios do poluidor-pagador e da reparação in integrum, admite-se a condenação do réu, simultânea e agregadamente, em obrigação de fazer, de não fazer e de indenizar.
+    Seguindo nesse caminho, a jurisprudência do STJ está firmada no sentido de que a necessidade de reparação integral da lesão causada ao meio ambiente permite a cumulação de obrigações de fazer, de não fazer e de indenizar, que têm natureza propter rem.
+    ‘A despeito disso, entendo que, em sendo possível a reparação do dano ambiental mediante a reversão da condição da área degradada ao seu estado anterior, não é necessária a condenação ao pagamento de indenização, porque este não é o primordial objetivo da ação civil pública, que visa à concretização da tutela específica de reparação do dano (TRF4, APELAÇÃO CÍVEL Nº 5001270-46.2011.404.7208, 4ª TURMA, Des. Federal CANDIDO ALFREDO SILVA LEAL JUNIOR, POR UNANIMIDADE, JUNTADO AOS AUTOS EM 27/02/2015)”
+          Assim, no caso concreto, considerando que o bem ambiental lesado pode ser completamente restaurado somente com a demolição/remoção das estruturas erigidas e com a execução de Plano de Recuperação de Área Degradada (PRAD); bem como levando em consideração a extensão do dano ambiental e a situação econômica do demandado, julgo tratarse de hipótese em que não é necessária a condenação ao pagamento de indenização.” (eDOC2 p. 128)
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. LICENÇA AMBIENTAL. ÁREA DE PRESERVAÇÃO PERMANENTE. INEXISTÊNCIA DE CONSTATAÇÃO DE DANO AMBIENTAL. MATÉRIA INFRACONSTITUCIONAL. SÚMULA 279/STF. DESCABIMENTO. 1. Hipótese em que a resolução da controvérsia demanda a análise de legislação infraconstitucional e o reexame do conjunto fático-probatório dos autos (Súmula 279/STF), procedimentos inviáveis nesta fase recursal. Precedentes. 2. Agravo regimental a que se nega provimento”. (ARE 869787 AgR, rel. Min. Roberto Barroso, Primeira Turma, DJe 13.11.2015)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279/STF. CONTRARIEDADE AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA 660. MAJORAÇÃO DOS HONORÁRIOS. DESCABIMENTO. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA”. (ARE 1.022.541 AgR, rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 26.6.2017)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 29 de junho de 2018
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
