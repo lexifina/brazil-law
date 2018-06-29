@@ -1,0 +1,87 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial devido à aplicação da Súmula n. 735/STF (e-STJ fls. 808/810).
+O acórdão do TJSE traz a seguinte ementa (e-STJ fl. 748):
+AGRAVO DE INSTRUMENTO. AÇÃO DE RESOLUÇÃO CONTRATUAL C/C RESTITUIÇÃO DE IMPORTÂNCIA E TUTELA ANTECIPADA. DECISÃO DE 1ª INSTÂNCIA QUE DEFERIU O PEDIDO DE TUTELA ANTECIPADA. PRESENÇA DOS REQUISITOS LEGAIS. DEFERIMENTO DE MEDIDA LIMINAR - IRRESIGNAÇÃO DA EMPREENDEDORA IMOBILIÁRIA - PREENCHIMENTO DOS REQUISITOS AUTORIZADORES DA TUTELA DE URGÊNCIA - PROBABILIDADE DO DIREITO E RISCO AO RESULTADO ÚTIL DO PROCESSO. RECURSO PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, IMPROVIDO. POR UNANIMIDADE.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 882/886).
+Nas razões do recurso especial (e-STJ fls. 777/790), interposto com fundamento no art. 105, III, alínea "a", da CF, as recorrentes alegaram desrespeito aos arts. 421 e 422 do CC/2002, pois existiria força maior ou caso fortuito a justificar o atraso na entrega das obras e, por consequência, possibilitar a cobrança das parcelas e dos demais encargos previstos no compromisso de compra e venda imobiliário celebrado entre as partes, bem como a inscrição do nome do recorrido nos órgão de proteção ao crédito, por causa de sua inadimplência quanto à quitação de tais verbas. Acrescentaram que o contrato permitiria a reprogramação do prazo de entrega do empreendimento, ante a ocorrência das mencionadas causas de excludente de responsabilidade civil.
+Defenderam que o conteúdo da avença - validamente pactuado - vincularia as partes, sendo, dessa maneira, insuscetível de revisão judicial.
+Apontaram contrariedade aos arts. 17, 18 e 485, VI, do CPC/2015, 32 do CTN, 26, VI, da Lei n. 6.766/1979 e 1.336, I, do CC/2002, argumentando que inexistiria ilegalidade e abusividade no repasse ao recorrido da responsabilidade pelo pagamento das taxas associativas, de IPTU e dos demais encargos incidentes sobre o imóvel, em virtude da existência de previsão contratual nesse sentido, independente da sua imissão na posse do imóvel.
+Discorreram que seriam partes ilegítimas para cumprirem a decisão que determinou a suspensão da cobrança dos referidos encargos, uma vez que esses estariam sendo exigidos por terceiros estranhos à demanda.
+Apontaram violação do art. 300, § 1º, do CPC/2015, porque estariam ausentes os requisitos necessários à concessão da tutela de urgência concedida à parte recorrida, afim de suspender a cobrança das parcelas do saldo devedor do imóvel e dos demais encargos contratuais.
+Asseveraram que tal decisão implicaria manifesto perigo de dano inverso às empresas, justificando, assim, sua revogação ou, subsidiariamente, condicionar sua manutenção à prestação de caução, por meio do depósito judicial das parcelas vincendas.
+Foram apresentadas contrarrazões (e-STJ fls. 796/804).
+No agravo (e-STJ fls. 816/826), afirmam a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 828/835).
+É o relatório.
+Decido.
+Conforme jurisprudência consolidada desta Casa, em regra, "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito" (AgInt no REsp n. 1.179.223/RJ, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 9/3/2017, DJe 15/3/2017).
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973. TUTELA ANTECIPADA. REQUISITOS. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. SÚMULA N. 735/STF. DECISÃO MANTIDA.
+(..)
+4. A jurisprudência do STJ não admite a interposição de recurso especial que tenha por objetivo discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado n. 735 da Súmula do STF. Precedentes.
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 770.439/MT, de minha Relatoria, QUARTA TURMA, julgado em 21/2/2017, DJe 3/3/2017.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO NO JULGADO. SÚMULA Nº 284/STF. PLANO DE SAÚDE. AUTOGESTÃO. CÓDIGO DE DEFESA DO CONSUMIDOR. INCIDÊNCIA. PRECEDENTES. ANTECIPAÇÃO DE TUTELA. REQUISITOS AUTORIZADORES. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULAS Nº 7/STJ E Nº 735/STF.
+(..)
+3. A jurisprudência do Superior Tribunal de Justiça entende que não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, haja vista a natureza precária da decisão, a teor do que dispõe a Súmula nº 735/STF.
+(..)
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 813.590/RJ, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 4/8/2016, DJe 15/8/2016.)
+Segundo a jurisprudência do Superior Tribunal de Justiça, "Em sede de recurso especial contra acórdão que nega ou concede antecipação de tutela, a análise desta Corte Superior de Justiça fica limitada à apreciação dos dispositivos relacionados aos requisitos da tutela de urgência, ficando obstado verificar-se a suposta violação de normas infraconstitucionais relacionadas ao mérito da ação principal" (EDcl no AREsp n. 387.707/PR, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 2/12/2014, DJe 10/12/2014).
+No mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ANTECIPAÇÃO DE TUTELA EM AÇÃO DE DISSOLUÇÃO PARCIAL DE SOCIEDADE C/C APURAÇÃO DE HAVERES. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. DISCUSSÃO SOBRE OS REQUISITOS PARA CONCESSÃO LIMINAR. CABIMENTO. OMISSÃO SOBRE CIRCUNSTÂNCIAS FÁTICAS RELEVANTES. RECONHECIMENTO. MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC. MANUTENÇÃO.
+(..)
+2. É cabível recurso especial contra acórdão que defere antecipação de tutela se a controvérsia limitar-se aos dispositivos que regulam os requisitos para o deferimento (..)
+5. Agravo regimental desprovido.
+(AgRg no REsp n. 1.355.461/RJ, Relator Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 5/5/2016, DJe 11/5/2016.)
+Nas alegações do especial, as recorrentes apontaram violação dos arts. 421, 422 e 1.336, I, do CC/2002, 17, 18, e 485, VI, do CPC/2015, 32 do CTN e 26, VI, da Lei n. 6.766/1979, a fim de justificar a ausência dos requisitos necessários à concessão da tutela de urgência deferida ao recorrido pelas instâncias de origem.
+Diante de tal proceder, na linha dos precedentes acima expostos, constata-se ser inviável a interposição de recurso especial contra o acórdão que deferiu a tutela de urgência postulada pela parte recorrida, a fim de antecipar a discussão do mérito da ação, a partir do regramento dos dispositivos legais acima referidos.
+A Justiça local, em cognição sumária, à luz do art. 300, caput e §§ 1º, 2º e 3º, do CPC/2015, concluiu que, no caso concreto, estavam presentes a probabilidade do direito invocado pelo recorrido e a iminência de prejuízos de difícil reparação ao comprador - requisitos necessários à concessão da tutela provisória de urgência -, nos seguintes termos (e-STJ fls. 750/752):
+O recurso preencheu os requisitos de validade, bem como hipótese de cabimento prevista no artigo 1.015. inciso I. do NCPC. pelo que merece ser conhecido.
+Cuida-se de agravo de instrumento interposto pela Alphaville Sergipe Empreendimentos Imobiliários L I DA. Alphaville Urbanismo S.A e Pontal Empreendimentos Imobiliários LTDA contra decisão proferida pelo MM. Juiz de Direito da 11ª Vara Cível da Comarca de Aracaju que. nos autos da Ação de Resolução Contratual c/c Restituição de Importância e Tutela Antecipada ajuizada por [NOME], deferiu o pedido de tutela antecipada, in verbis:
+"(..) Analiso o pedido de tutelo antecipada com azo nos requisitos positivamente elencados no art. 300 do NCPC, que prescreve que "Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo", sobrelevando. entretanto, a inexistência do requisito negativo de que a mesma não deverei ser concedida quando houver perigo da irreversibilidade dos efeitos do provimento antecipado, conforme o § 3" do mesmo artigo.
+In casu, cumpre de logo averbar que "a probabilidade do direito " a que se refere o dispositivo acima referido, base de aferição segura da "plausibilidade das alegações", é a documental. Assim, colacionados o instrumento contratual, e as informações via chats e e-mail de não conclusão das obras, há como se extrair, ao menos neste exame preambular da questão, o grau de probabilidade exigido para a concessão antecipada do provimento de urgência.
+Presente, portanto, o primeiro requisito para a antecipação da tutela.
+Observa-se. por sua vez. a iminência de prejuízos de difícil reparação para a autora, tendo em vista o imbróglio em torno da rescisão do contrato de promessa de compra e venda, bem como o fato de que o autor vem se onerando com pagamentos concernentes a um imóvel o qual não tem mais interesse em adquirir.
+Ante o exposto. DEFIRO A ANTECIPAÇÃO DA TUTELA DE URGÊNCIA pleiteada pelo autor, afim de determinar a suspensão de todos os pagamentos referentes às parcelas contratuais vincendas e demais encargos, de fornecer dados da demandante para a Associação Alphaville Sergipe Fase 1, Associação Beach Club Alphaville Sergipe e demais empresas que possam efetuar cobranças de taxas condominiais e demais encargos inerentes à posse/propriedade do lote em questão, a abstenção de lançamento do nome do autor nos órgãos restritivos de créditos, bem como a abstenção da transferência da responsabilidade do ônus do IPTU, desde que o autor ainda não esteja na posse do imóvel, sob pena de multa diária de RS 200,00 (duzentos reais) em caso de descumprimento. (..)
+Primeiramente, cumpre-me destacar que. tanto permanece a ausência de plausibilidade do direito invocado pela parte agravante, quanto não há a presença de risco de dano irreparável ou de difícil reparação, não existindo novos fundamentos fáticos e jurídicos para conferir solução diversa da que foi apresentada.
+O que pretende a parte agravante é a reforma da decisão agravada para que seja indeferido o pedido de tutela provisória de urgência, sob o argumento de que não estão presentes os requisitos autorizadores de sua antecipação.
+Como cediço, possível à concessão da tutela provisória de urgência de natureza cautelar ou antecipada, nos termos dos artigos 294 e 300 do novo Código dc Processo Civil, desde que comprovados elementos que evidenciem a probabilidade do direito invocado pelo autor, somado ao perigo de dano ou o risco ao resultado útil do processo, ex vi:
+Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+§ 1º Para a concessão da tutela de urgência, o juiz pode. conforme o caso, exigir caução real ou fidejussória idônea para ressarcir os danos que a outra parte possa vir a sofrer, podendo a caução ser dispensada se a parte economicamente hipossuficiente não puder oferecê-la.
+§ 2o A tutela de urgência pode ser concedida liminarmente ou após justificação prévia.
+§ 3o A tutela de urgência de natureza antecipada não será concedida quando houver perigo de irreversibilidade dos efeitos da decisão.
+Tem-se como probabilidade do direito, o convencimento do juiz pelos argumentos e indícios de prova colacionados aos autos que demonstram a plausibilidade do direito invocado pela parte requerida.
+No que tange ao perigo de dano ou risco ao resultado útil do processo, e a necessidade de se proteger o direito invocado de forma imediata, porquanto, do contrário, nada adiantará uma proteção futura em razão do perecimento de seu direito.
+(..)
+Dessa feita, analisando os documentos acostados aos autos, entendo que se mostra presente a probabilidade do direito invocado pelo agravado, bem como o perigo de dano ou o risco ao resultado útil do processo, a ensejar o deferimento da tutela provisória de urgência de natureza antecipada, conforme decidido pelo juízo a quo.
+Isso porque, pela análise dos autos, constata-se neste momento processual, que a parte demandada, ora agravante, não cumpriu o contrato de financiamento de imóvel, excedendo o prazo de entrega, e superando, inclusive, o prazo de tolerância previsto no contrato.
+Nessa linha, conforme fizeram prova nos autos, o atraso na entrega do imóvel fez. em tese. com que o autor/agravado suportasse possíveis prejuízos, o que justifica o pedido de rescisão do contrato pelo descumprimento contratual c. consequentemente, maior onerosidade aos contratantes.
+Desta feita, não obstante os argumentos empreendidos pelos agravantes, entendo que restou comprovada a probabilidade do direito invocado pelo autor/agravado quanto ao inadimplemento contratual que justifica o pedido de rescisão da avença, somado ao perigo de dano ou risco no caso concreto, porquanto se permanecidas as cobranças de um contrato que possivelmente findará com sua rescisão, poderá trazer prejuízo ao Agravado, como por exemplo, a inscrição do seu nome no cadastro de proteção ao crédito.
+(..)
+Verifico, portanto, que não merece reforma a decisão vergastada, devendo a mesma continuar a produzir seus efeitos, nos moldes estabelecidos pelo douto Juiz a quo.
+Com estas considerações, conheço cm parte do recurso, c. na parte conhecida, NEGO PROVIMENTO ao recurso apresentado.
+É como voto.
+Constata-se, portanto, que a Corte local não se manifestou quanto aos arts. 421, 422 e 1.336, I, do CC/2002, 17, 18, e 485, VI, do CPC/2015, 32 do CTN e 26, VI, da Lei n. 6.766/1979. Dessa forma, sem ter sido objeto de debate na decisão recorrida, apesar dos aclaratórios opostos, a matéria contida em tais dispositivos carece de prequestionamento e sofre, por conseguinte, o empecilho da Súmula n. 211/STJ.
+Ademais, ultrapassar os fundamentos do aresto impugnado, a fim de revogar a tutela de urgência deferida ao recorrido, nos moldes postulados pelas empresas na insurgência recursal, demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede recursal, a teor da Súmula n. 7/STJ. A esse respeito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LOCAÇÃO. EMBARGOS À EXECUÇÃO. ART. 739-A, § 1º, DO CPC/1973. AUSÊNCIA DE PREQUESTIONAMENTO. SUSPENSÃO DA AÇÃO EXECUTIVA. REVISÃO DO ACÓRDÃO RECORRIDO. SÚMULA 7/STJ. TUTELA ANTECIPADA. REQUISITOS. SÚMULA 7/STJ.
+(..)
+3. Verificar se está presente, ou não, os requisitos da verossimilhança, bem como danos irreparáveis ou de difícil reparação, quando o acórdão recorrido os afasta ou confirma sua presença com fundamento na análise soberana dos elementos fático-probatórios dos autos, demanda o reexame das provas, procedimento vedado em sede de recurso especial a teor do enunciado da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.046.613/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 6/6/2017, DJe 13/6/2017.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. AÇÃO ANULATÓRIA E INDENIZATÓRIA. TUTELA ANTECIPADA. ART. 273 DO CPC/1973. REEXAME DE PROVA. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO IMPROVIDO.
+(..)
+4. A análise dos requisitos legais da antecipação da tutela enseja o revolvimento do conjunto fático-probatório dos autos, atraindo o óbice da Súmula n. 7 desta Corte.
+(..)
+6. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 745.748/DF, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 6/12/2016, DJe 14/12/2016.)
+De igual forma, dissentir das conclusões das instâncias de origem, a fim de condicionar a suspensão judicial dos pagamentos das parcelas vincendas do saldo devedor do imóvel à previa exigência de prestação de caução pelo comprador, nos moldes postulados pelas empresas na insurgência recursal, exigiria nova incursão no conjunto fático-probatório dos autos, o que é inviável em sede de recurso especial, nos termos da Súmula n. 7/STJ. A esse respeito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PROVISÓRIA. CAUÇÃO. DESNECESSIDADE. SÚMULA 7/STJ. JUROS DE MORA E CORREÇÃO MONETÁRIA. SÚMULA 254/STF.
+1. O Tribunal de origem, ao ponderar a urgência e os riscos envolvidos, concluiu que não há necessidade de prestação de caução para o levantamento de valor incontroverso, na pendência de julgamento de agravo de instrumento perante o STF. A pretensão recursal de ver reconhecida a existência de risco de dano à executada demandaria o reexame de provas, o que é vedado em sede de recurso especial (Súmula 7/STJ). Precedentes.
+(..)
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 72.420/GO, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/8/2013, DJe 22/8/2013.)
+AGRAVO REGIMENTAL - AGRAVO EM RECURSO ESPECIAL - EXECUÇÃO PROVISÓRIA - PRESTAÇÃO DE CAUÇÃO - PERÍCIA - NECESSIDADE - RECONHECIMENTO - IMPOSSIBILIDADE DE REEXAME DE PROVAS - INCIDÊNCIA DA SÚMULA 7 DESTA CORTE - RECURSO IMPROVIDO.
+(AgRg no AgRg no AREsp n. 24.971/MG, Relator Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 2/8/2012, DJe 14/8/2012.)
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
