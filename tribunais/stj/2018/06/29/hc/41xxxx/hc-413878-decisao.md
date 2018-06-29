@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME], apontando como autoridade coatora o Tribunal de Justiça de São Paulo.
+Consta dos autos que o paciente foi condenado em 1º grau pelo crime previsto no art. 155, caput, do CP, à pena de 1 ano de reclusão, em regime semiaberto, mais 10 dias-multa, por ter subtraído um aparelho celular avaliado em R$ 300,00 (fl. 36/38).
+Interposta apelação, o Tribunal estadual negou provimento ao recurso, mantendo a sentença combatida (fls. 108/114).
+Sustenta a impetrante, em suma, que a conduta imputada ao paciente na inicial acusatória é manifestamente atípica, por aplicação do princípio da insignificância e que, tratando-se de subtração sem violência ou grave ameaça de coisa de ínfimo valor, devidamente restituída à vítima, ainda que não se reconheça o princípio da insignificância, deve ser fixado o regime inicial aberto (fl. 3).
+Requer, liminarmente, a fixação de regime aberto até o julgamento do presente writ e, no mérito, a absolvição do paciente por atipicidade material da conduta ou a determinação de regime menos gravoso.
+Indeferida a liminar à fl. 99.
+Prestadas as informações às fls. 105/136 e 145.
+Manifestou o Ministério Público Federal pelo não conhecimento da ordem ou pela sua denegação (fls. 147/149).
+É o relatório.
+DECIDO.
+No tocante ao pleito de reconhecimento da atipicidade material da conduta em razão da aplicação do princípio da insignificância, assim se pronunciou o Tribunal a quo (fl. 111):
+A esta altura, não há falar-se em atipicidade da conduta, sob o prisma da insignificância econômica da res furtiva.
+Isto porque, além de não poder ser considerado de valor reduzido o bem subtraído (R$ 300,00 trezentos reais fls. 13), tratando-se de agente reincidente (fls. 07 do segundo apenso), afigura-se incabível, in casu, o princípio da insignificância.
+Consolidou-se a orientação jurisprudencial no sentido de que a incidência do princípio da insignificância pressupõe a simultaneidade de quatro vetores, quais sejam: a) a mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) o reduzidíssimo grau de reprovabilidade do comportamento e d) a inexpressividade da lesão jurídica provocada.
+No caso em apreço, consta que o paciente foi condenado por subtrair um aparelho celular avaliado em R$ 300,00, valor que corresponde a quase 50% do salário mínimo vigente à época dos fatos, qual seja R$ 678,00. Assim, não há como considerar irrisório o valor do bem furtado.
+Desse modo, a lesão ao bem jurídico tutelado é nítida e expressiva, impossibilitando a aplicação do princípio da insignificância, nos termos da orientação jurisprudencial do STJ. Nesse sentido:
+HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. NÃO CABIMENTO. IMPROPRIEDADE DA VIA ELEITA. DELITO DE TENTATIVA DE FURTO. PEDIDO DE TRANCAMENTO DA AÇÃO PENAL. IMPOSSIBILIDADE. VALOR DO OBJETO QUE ULTRAPASSA 10% DO VALOR DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA DO DELITO. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. ATIPICIDADE MATERIAL. NÃO RECONHECIMENTO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+-  ..
+- Consoante já assentado pelo Supremo Tribunal Federal, a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a) a mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) o reduzidíssimo grau de reprovabilidade do comportamento e d) a inexpressividade da lesão jurídica provocada (HC n. 84.412/SP, de relatoria do Ministro Celso de Mello, DJU 19/4/2004). - De maneira meramente indicativa e não vinculante, a jurisprudência desta Corte, dentre outros critérios, aponta o parâmetro da décima parte do salário mínimo vigente ao tempo da infração penal, para aferição da relevância da lesão patrimonial. - No caso em análise, a res furtiva supera, e muito, o valor de 10% do salário mínimo vigente à época dos fatos, estando o acórdão recorrido em consonância à orientação jurisprudencial desta Corte. Precedentes.
+- Habeas corpus não conhecido. (HC 420.197/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 28/11/2017, DJe 4/12/2017.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRINCÍPIO DA INSIGNIFICÂNCIA. APROPRIAÇÃO INDÉBITA. VALOR DA RES FURTIVA QUE NÃO EQUIVALE A UM INDIFERENTE PENAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não é ilegal a negativa de aplicação do princípio da insignificância na fase do art. 397 do CPP se o valor do bem indevidamente apropriado pelo réu, ictu oculi, é expressivo, visto superar 10% do salário mínimo vigente à época dos fatos, e não há maiores elementos para realizar uma análise conjunta das circunstâncias do crime e da vida pregressa do acusado, com alusão feita pelo Juiz de primeiro grau de que a tese defensiva será melhor analisada no julgamento de mérito da ação penal.
+2. Agravo regimental não provido. (AgRg no HC 372.534/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 21/11/2017, DJe 28/11/2017.)
+Além do mais, constatou-se que o paciente é contumaz na prática de crimes, tendo sido reconhecida no acórdão combatido a reincidência, circunstância que, a princípio, impede o reconhecimento da atipicidade da conduta.
+Acerca da matéria, fixou-se o entendimento de que a reiteração delitiva tem sido compreendida como obstáculo inicial à tese da insignificância por ensejar maior grau de reprovabilidade da conduta do acusado, ressalvada excepcional peculiaridade do caso penal:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. ATIPICIDADE MATERIAL. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. DELITO PRATICADO EM CONCURSO DE PESSOAS E COM ROMPIMENTO DE OBSTÁCULO. AGRAVANTES REINCIDENTES. MAIOR DESVALOR DAS CONDUTAS. I - O princípio da insignificância é inaplicável ao crime de furto qualificado pelo concurso de pessoas e rompimento de obstáculo, haja vista o maior desvalor da conduta delituosa. II - Ademais, os agravantes são reincidentes em crimes dolosos, o que indica a maior reprovabilidade das condutas, a também afastar a aplicação do princípio da insignificância.
+Agravo regimental não provido.
+(AgRg no AREsp 1170070/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 23/11/2017, DJe 1/12/2017.)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. REINCIDÊNCIA. INAPLICABILIDADE.
+I - No caso, imputa-se ao paciente o furto de um botijão de gás de residência, cujo valor - R$ 80,00 (oitenta reais) - não pode ser considerado irrisório, já que equivale a mais de dez por cento do salário mínimo vigente à época do fato (R$ 678,00).
+II - De outro lado, na linha da jurisprudência desta col. Corte, ressalvado o meu entendimento pessoal, mostra-se também incompatível com o princípio da insignificância a conduta ora examinada, haja vista que o agravante é reincidente. (Precedentes).
+Agravo Regimental desprovido. (AgRg no AREsp 651.694/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 7/5/2015, DJe 15/5/2015.)
+Em referência ao pleito de fixação de regime inicial menos gravoso, tem-se que o regime inicial semiaberto afigura-se, de fato, como o mais adequado à situação in concreto, uma vez observado o quantum da pena aplicada e a comprovada reincidência do agente (fl. 58), conforme o art. 33, § 2º, c, do Código Penal.
+Com efeito, esta Corte Superior entende que é admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais, nos termos do enunciado sumular nº 269/STJ, assim como ocorre no caso.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
