@@ -1,0 +1,64 @@
+EMENTA
+CIVIL. CONSUMIDOR. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE. VIOLAÇÃO DOS ARTS. 489, II, 1.022, I e II, DO NCPC QUE NÃO SE VERIFICA. ABUSIVIDADE DA CLÁUSULA CONTRATUAL QUE LIMITA A FORMA DE TRATAMENTO MÉDICO. SÚMULA Nº 568 DO STJ. ARTS. 10 DA LEI Nº 9.656/98 E 4º, II, DA LEI Nº 9.961/00. PREQUESTIONAMENTO DA MATÉRIA PELO TRIBUNAL A QUO. AUSÊNCIA. INCIDÊNCIA DA SÚMULA Nº 211 DESTA CORTE. ART. 6º DA LINDB. NATUREZA CONSTITUCIONAL. ANÁLISE VEDADA NA VIA ESPECIAL. OFENSA A PORTARIA. NORMA QUE NÃO SE ENQUADRA COMO LEI FEDERAL. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, IMPROVIDO.
+
+DECISÃO
+MARIA DE LOURDES HERMES (MARIA) propôs ação de obrigação de fazer com pedido de tutela antecipada sem a oitiva da parte contrária contra UNIMED VITÓRIA COOPERATIVA DE TRABALHO MÉDICO (OPERADORA), que foi julgada procedente.
+OPERADORA apelou. O Tribunal de origem negou provimento ao recurso, em acórdão assim ementado:
+CIVIIL, CONSUMIDOR E PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE TUTELA ANTECIPADA. APELAÇÃO CÍVEL. CONTRATO DE PLANO DE SAÚDE. SÚMULA 469 DO STJ. FORNECIMENTO DE MATERIAL A SER UTILIZADO EM ATO CIRÚRGICO. RESTRIÇÃO INDEVIDA. OBRIGATORIEDADE DE DISPONIBILIZAR TODOS OS MEIOS QUE IMPLIQUEM NO ÊXITO DO TRATAMENTO. PRECEDENTES DESTA CORTE. CONHECIMENTO E DESPROVIMENTO DO RECURSO.
+1. Aos contratos de planos de saúde são aplicáveis as normas do Código de Defesa do Consumidor. Súmula 469 do STJ;
+2. Fere a boa-fé do consumidor a cláusula que restrinja tratamento para eficácia terapêutica, pois o processo de cura não obedece à vontade e hipóteses previstas pela seguradora, não sendo admissível que esta se substitua aos médicos na escolha do procedimento que melhor se adegue ao caso.
+(e-STJ, fl. 376).
+Os embargos de declaração opostos pela OPERADORA foram rejeitados (e-STJ, fls. 405/412).
+Inconformada, a OPERADORA manejou recurso especial com base no art. 105, III, a, da CF. Alegou violação dos arts. 11, 489 e 1.022, do NCPC, art. 10 da Lei nº 9.656/98 e 3º e 4º da Lei nº 9.961/00 e 54, § 4º, do CDC, 6º da Lei de Introdução as Normas do Direito Brasileiro e Resolução Normativa nº 211 da ANS, sustentando, em síntese, (1) que houve omissão e negativa de prestação jurisdicional no acórdão recorrido, pois o Tribunal deixou de se pronunciar sobre o fato de ser ilícito ao médico prescrever material de marca específica e sobre os arts. 10 da Lei nº 9.656/98 e 4º, II, da Lei nº 9.961/00; (2) que é possível limitar os procedimentos cobertos pois existe cláusula contratual clara que albergue a negativa de cobertura, não havendo que se falar em abusividade; (3) que a negativa na autorização de material importado está pautada nas normas legais da ANS que proíbem a comercialização de produto sem registro no órgão competente; (4) que ao obrigar a OPERADORA a cobrir materiais que possui expressa exclusão contratual o acórdão recorrido não respeitou o ato jurídico perfeito, o direito adquirido e a coisa julgada; e (5) não é possível ao médico exigir marca específica de material
+O Presidente do Tribunal da Justiça do Estado do Rio Grande do Norte deixou de admitir o recurso interposto à incidência da Súmula nº 83 do STJ.
+Interposto o agravo em recurso especial, OPERADORA refutou o fundamento da decisão agravada.
+Contraminuta não foi apresentada (e-STJ, fl. 504).
+É o relatório.
+DECIDO.
+O recurso não comporta acolhimento.
+De plano, vale pontuar que o presente agravo em recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da violação dos arts. 489 e 1.022 do NCPC
+Não se verifica, no caso, a alegada vulneração dos referidos dispositivos legais, porquanto a Corte local apreciou a lide, discutindo e dirimindo as questões fáticas e jurídicas que lhe foram submetidas na medida necessária para o deslinde da controvérsia, não havendo falar em negativa de prestação jurisdicional.
+Desse modo, não há falar em deficiência de fundamentação da decisão pelo não acolhimento de teses ventiladas pela recorrente, mormente se o acórdão abordar todos os pontos relevantes da controvérsia, como na espécie. A propósito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA AOS ARTS. 165, 458 E 535 DO CPC. INEXISTÊNCIA. ARGUMENTOS DO RECURSO ESPECIAL CUJA ANÁLISE DEPENDE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7 DO STJ.
+1. Não há ofensa aos arts. 165, 458, 515 e 535 do CPC se o tribunal de origem se pronuncia fundamentadamente sobre as questões postas a exame, dando suficiente solução à lide, sem incorrer em qualquer vício capaz de maculá-lo.
+2. Com base nos elementos circunstanciais da demanda, a corte local entendeu que os devedores não têm direito ao alongamento da dívida em decorrência de ação dolosa, o que, para ser desconstituído, impõe reexame de matéria fático-probatória da lide, vedado nesta sede (Súmula 7 do STJ). Precedente.
+3. Agravo regimental a que se nega provimento
+(AgRg no Ag 930.113/MG, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe 13/10/2011).
+(2) Da alegada violação do 54, § 4º, do CDC.
+A OPERADORA alegou violação do art. 54, § 4º, do CDC, sustentando que é possível limitar os procedimentos cobertos pois existe cláusula contratual clara que albergue a negativa de cobertura, não havendo que se falar em abusividade.
+Verifica-se que o acórdão recorrido está em consonância com a orientação desta Corte Superior que tem delineado que o plano de saúde pode estabelecer as doenças que terão cobertura, mas não pode limitar o tipo de tratamento a ser utilizado pelo paciente.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS DECORRENTES DA NEGATIVA DE COBERTURA FINANCEIRA DE PRÓTESE IMPORTADA (INDICADA PELO MÉDICO ASSISTENTE) PARA REALIZAÇÃO DE CIRURGIA PARA TRATAMENTO DE REUMATISMO DEGENERATIVO - DECISÃO MONOCRÁTICA NEGANDO SEGUIMENTO AO RECURSO ESPECIAL. IRRESIGNAÇÃO DA OPERADORA DE PLANO DE SAÚDE.
+1. Recusa indevida, pela operadora de plano de saúde, de cobertura financeira a tratamento médico do beneficiário. Ainda que admitida a possibilidade de o contrato de plano de saúde conter cláusulas limitativas dos direitos do consumidor (desde que escritas com destaque, permitindo imediata e fácil compreensão, nos termos do § 4º do artigo 54 do código consumerista), revela-se abusivo o preceito excludente do custeio dos meios e materiais necessários ao melhor desempenho do tratamento clinico ou do procedimento cirúrgico ou de internação hospitalar relativos a doença coberta. Precedentes. Incidência da Súmula 83/STJ.
+2. A jurisprudência do STJ é no sentido de que a recusa indevida/injustificada, pela operadora de plano de saúde, em autorizar a cobertura financeira de tratamento médico, a que esteja legal ou contratualmente obrigada, enseja reparação a título de dano moral, por agravar a situação de aflição psicológica e de angústia no espírito do beneficiário. Caracterização de dano moral in re ipsa. Precedentes. Incidência da Súmula 83/STJ.
+3. Agravo regimental desprovido.
+(AgRg no REsp nº 1.526.392/RS, Rel. Ministro MARCO BUZZI, Quarta Turma, DJe 16/6/2015)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSUMIDOR. PLANO DE SAÚDE. PRESTAÇÃO DE SERVIÇO. TRATAMENTO SOLICITADO PELO MÉDICO.
+RADIOTERAPIA. QUIMIOTERAPIA. REVISÃO DE CLÁUSULA CONTRATUAL ABUSIVA. DANO MORAL. QUANTUM. RAZOABILIDADE. AGRAVO DESPROVIDO.
+1. De acordo com a orientação jurisprudencial do STJ, o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de tratamento utilizado para a cura de cada uma, sendo abusiva a cláusula contratual que exclui tratamento quando essencial para garantir a saúde ou a vida do segurado.
+2. Nas hipóteses em que há recusa injustificada de cobertura por parte da operadora do plano de saúde para tratamento do segurado, a orientação desta Corte é assente quanto à caracterização de dano moral, não se tratando apenas de mero aborrecimento. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1198799/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 17/05/2018, DJe 25/05/2018)
+Estando o acórdão recorrido de acordo com a jurisprudência dominante do STJ, aplicável, no caso concreto, a Súmula 568 do STJ.
+(3) Da alegada violação aos arts. 10 da Lei nº 9.656/98 e 4º, II, da Lei nº 9.961/00.
+A operadora alega que a negativa na autorização de material importado está pautada nas normas legais da ANS que proíbem a comercialização de produto sem registro no órgão competente.
+Em relação a alegada violação aos arts. 10 da Lei nº 9.656/98 e 4º, II, da Lei nº 9.961/00, observa-se que o tema inserido nos dispositivos referidos, e tido por ofendido, não foram enfrentados pelo Tribunal de origem, nem mesmo depois da oposição dos embargos de declaração.
+Assim, com base no que dispõe a Súmula nº 211 desta Corte, o recurso especial não poderia ter sido aqui analisado: Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+A jurisprudência do STJ firmou o entendimento de que, para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal (AgRg no AREsp 621.867/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/3/2015, DJe 27/3/2015).
+(4) Da alegada violação do art. 6º da Lei de Introdução as Normas do Direito Brasileiro.
+Ressalta-se que a via especial não é adequada para discutir contrariedade a dispositivos constitucionais.
+Dessa forma, em relação à dita contrariedade ao art. 6º da Lei de Introdução às Normas do Direito Brasileiro - antiga LICC, o STJ entende que os princípios contidos em referido dispositivo - direito adquirido, ato jurídico perfeito e coisa julgada - assumiram contornos nitidamente constitucionais, razão pela qual não podem ser objeto de recurso especial, sob pena de, se analisados, ferir-se a distribuição de competências estabelecida pela Constituição Federal.
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MORAL. RECUSA INDEVIDA DE FORNECIMENTO DE STENT EM PROCEDIMENTO CIRÚRGICO. PROCEDÊNCIA. APELO NOBRE. (1) RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. (2) VIOLAÇÃO DO ART. 6º DA LINDB. NATUREZA CONSTITUCIONAL. ANÁLISE VEDADA EM RECURSO ESPECIAL. (3) OFENSA AOS ARTS. 165, 458, 463 E 535 DO CPC. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL INEXISTENTES. MÉRITO. (4) TRIBUNAL LOCAL QUE RECONHECEU O DEVER DE INDENIZAR COM BASE NOS FATOS DA CAUSA. DANO MORAL IN RE IPSA. (5) PLEITO DE REDUÇÃO DA VERBA INDENIZATÓRIA. QUANTUM FIXADO EM CONFORMIDADE COM OS VALORES ADOTADOS NESTE SODALÍCIO.
+1. (..)
+2. O STJ entende que os princípios contidos no art. 6º da LINDB ( direito adquirido, ato jurídico perfeito e coisa julgada ) assumiram contornos nitidamente constitucionais, razão pela qual não podem ser objeto de recurso especial, sob pena de, se analisados, ferir-se a distribuição de competências estabelecida pela Constituição Federal. Precedentes.
+(..)
+6. Agravo regimental não provido.
+(AgRg no AREsp 657.069/MG, minha relatoria, Terceira Turma, DJe 22/6/2016 - sem destaque no original)
+(5) Da alegada violação da Resolução Normativa 211/10 da ANS.
+O STJ possui entendimento de que o comando legal inserido em decretos, portarias e resoluções não se enquadra no conceito de lei federal, o que inviabiliza a discussão quanto a sua inteligência em recurso especial.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo e para CONHECER EM PARTE do recurso especial, e nessa extensão, NEGAR-LHE PROVIMENTO.
+Deixo de majorar os honorários advocatícios, nos termos do art. 85, parágrafos 2º e 11, do NCPC, pois já estipulados em 20% sobre o valor da causa.
+Por fim, advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º, do NCPC).
+Publique-se. Intimem-se.
