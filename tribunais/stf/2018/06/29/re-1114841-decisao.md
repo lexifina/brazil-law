@@ -1,0 +1,37 @@
+Trata-se de recurso extraordinário interposto contra acórdão que afastou a capitalização mensal de juros em ação de revisão de contrato bancário, tendo em vista o art. 4° do Decreto 22.626/1933.
+    Neste RE, fundado no art. 102, III, a, da Constituição, sustentou-se, em suma, a validade da capitalização mensal de juros, visto que “após a edição da Súmula 596/STF, que afastou a incidência da Súmula 121/STF e, por consequência, a Lei de Usura deixou de ser aplicada às instituições financeiras”, o Decreto 22.626/1933 não pode ser aplicado para negar a capitalização mensal de juros (pág. 8 do documento eletrônico 16).
+    Em 13/05/2009, o Supremo Tribunal Federal determinou o retorno destes autos ao Tribunal de origem para aplicação do regime da repercussão geral, considerando o julgamentos dos RE 592.377/RS e 568.396/RS (Tema 33 da repercussão geral).
+    O Tribunal a quo, todavia, manteve o acórdão recorrido e devolveu o processo a esta Corte, sob o fundamento de que
+    “não reconhecida a inconstitucionalidade do artigo 5° da Medida Provisória n. 2.170-36/2001, apenas mencionado que haveria posicionamento favorável à sua inconstitucionalidade à época. Na verdade, o que houve foi a aplicação do artigo 4° do Decreto 22.626/33 para limitar a capitalização de juros à periodicidade anual” (pág. 3 do documento eletrônico 25).
+    A pretensão recursal não merece acolhida.
+    O Tribunal de origem, à luz das normas infraconstitucionais pertinentes ao caso, concluiu que
+    “[a] capitalização dos juros deverá ser somente anual, de acordo com o art. 4° do Decreto 22.626/33 (Lei de Usura), vedada a capitalização mensal ou semestral. Cumpre mencionar que não há cogitar eventual inaplicabilidade da Lei de Usura à capitalização em virtude do disposto na Súmula 596 do Supremo Tribunal Federal, já citada, não constando neste enunciado disposição alguma quanto à possibilidade ou impossibilidade de capitalização. Há, apenas, na verdade, referência quanto à inaplicabilidade do regramento inserto no Decreto 22.626/33 na taxação de juros e outros encargos.
+    Outrossim, dispõe a Súmula 93 do Superior Tribunal de Justiça que a legislação sobre cédulas de crédito rural, comercial e industrial admite o pacto de capitalização de juros, não sendo este o caso dos autos.
+    Nesse sentido, a jurisprudência do Superior Tribunal de Justiça:
+    ‘Agravo. Recurso especial. Contrato bancário. Capitalização mensal dos juros. Comissão de permanência, juros remuneratórios e juros de mora. Honorários de sucumbência.
+    1. A capitalização dos juros, nos termos da jurisprudência da Corte, em hipóteses como a presente, não pode ter periodicidade inferior à anual.
+    (...)
+    4. Agravo regimental desprovido.
+    (STJ, 3ª Turma, AgRg no REsp 679379 / GO, Rel. Min.Carlos Alberto Menezes Direito, julgado em 28/06/2005, DJ de 24.10.2005 p. 319)’
+    No tocante à Medida Provisória 2.170-36, publicada no Diário Oficial da União de 24/08/2001, reedição das Medidas Provisórias de números 1.782, 1.907, 1.963, 2.087, ainda vigente, a teor do contido no art. 2° da EC 32/01, que, em seu texto normativo, art. 5°, permite, nas operações realizadas pelas instituições integrantes do Sistema Financeiro Nacional, a capitalização em periodicidade inferior à anual, não a considero aplicável aos fatos, com o fim de evitar prejuízos aos consumidores.
+    Além disso, presente posicionamento do Supremo Tribunal Federal favorável à sua inconstitucionalidade, mesmo que o julgamento não tenha sido encerrado diante do pedido de vista do Min. Nelson Jobim, já que o relator da Ação Direta de Inconstitucionalidade n° 2.316-DF, Min. Sydney Sanches, proferiu voto no sentido de deferir a suspensão cautelar dos dispositivos impugnados por aparente falta do requisito de urgência e pela ocorrência do periculum in mora inverso, no que foi acompanhado pelo Min. Carlos Velloso.
+    A esse respeito:
+    ‘PROCESSO CIVIL - RECURSO ESPECIAL - AGRAVO REGIMENTAL – CONTRATO BANCÁRIO - ABERTURA DE CRÉDITO - CAPITALIZAÇÃO MENSAL - ART 4° DO
+    DECRETO 22.626/33 - LEI 4.595/64 - MEDIDA PROVISÓRIA 1.963-18 (ATUAL MP 2.170-36) - INAPLICABILIDADE - SÚMULA 83/STJ - DESPROVIMENTO.
+    1 - Este Tribunal já proclamou o entendimento de que o art. 4° do Decreto n° 22.626/33 não foi revogado pela Lei n° 4.595/64, bem como no sentido de ser inaplicável a Medida Provisória 1.963-18 (atual MP 2.170-36) aos contratos de abertura de crédito, sendo vedada, portanto, a capitalização mensal dos juros. Precedentes (AgRg Resp n°s 494.735/RS, 565.364/RS e REsp 525.557/RS).
+    2 - Aplicável, portanto, à hipótese, o enunciado sumular de n° 83/STJ.
+    3 - Agravo Regimental desprovido.’
+    (STJ, 4ª Turma, AgRg no RESP 556124/RS, Rel. Min. Jorge Scartezzini, julgado em 18/11/2004, DJ de 17.12.2004, p. 560)
+    ‘AGRAVO REGIMENTAL. CONTRATO DE ABERTURA DE CRÉDITO. CAPITALIZAÇÃO MENSAL. MP 2.170-36. INAPLICABILIDADE. HONORÁRIOS ADVOCATÍCIOS.
+    FIXAÇÃO DO QUANTUM EM FASE DE LIQUIDAÇÃO. REFORMATIO IN PEJUS. IMPOSSIBILIDADE.
+    - Inaplicável a MP 2.170-36 sobre contratos de abertura de crédito.
+    - A redistribuição da verba honorária reserva-se à liquidação da sentença, limitada a condenação ao quantum fixado pelo acórdão recorrido, em atenção ao princípio da reformatio in pejus.’
+    (STJ, 3ª Turma, AgRg no RESP 598155/RS, Rel. Min. Humberto Gomes de Barros, julgado em 03/06/2004, DJ de 21/06/2004, p.222)” (págs. 3-5 do doc. eletrônico 8 - grifei).
+    Desse modo, para divergir do acórdão recorrido, notadamente quanto à delimitação do âmbito de aplicação do citado dispositivo legal, seria necessário efetuar nova interpretação das normas infraconstitucionais alusivas ao caso, sendo certo que eventual ofensa à Constituição seria meramente indireta, o que inviabiliza o recurso extraordinário. Nesse sentido, menciono os seguintes precedentes, entre outros: RE 490.934-ED/SC, de relatoria da Ministra Cármen Lúcia; RE 461.002-AgR/PB, de minha relatoria; AI 539.702-ED/RS, de relatoria do Ministro Cezar Peluso.
+    Outrossim, esse fundamento infraconstitucional, suficiente para manutenção do acórdão recorrido, permaneceu incólume, visto que o Superior Tribunal de Justiça rejeitou o pleito de capitalização mensal de juros formulado pelo ora recorrente (REsp 916.160/RS, com trânsito em julgado certificado à pág. 223 do documento eletrônico 8), o que atrai a incidência da Súmula 283/STF. Nesse sentido, cito o RE 544.804-AgR/RS, de relatoria do Ministro Ayres Britto, cuja ementa segue transcrita:
+    “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO INTERPOSTO COM BASE NA ALÍNEA ‘A’ DO INCISO III DO ARTIGO 102 DA CONSTITUIÇÃO FEDERAL. CAPITALIZAÇÃO MENSAL DE JUROS. FUNDAMENTO INFRACONSTITUCIONAL SUFICIENTE. SÚMULA 283 DO STF. PRECEDENTES. O Tribunal de origem afastou a capitalização mensal dos juros com base também em fundamento infraconstitucional, suficiente para a manutenção do acórdão recorrido. Pelo que incide o princípio da Súmula 283 do STF. Precedente: RE 252.626-ED, da relatoria da ministra Ellen Gracie, entre outros. Agravo regimental manifestamente infundado, ao qual se nega provimento. Condenação da parte agravante a pagar à parte agravada multa de 1% (um por cento) do valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito do respectivo valor. Isso com lastro no § 2° do art. 557 do Código de Processo Civil”.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 29 de junho de 2018.
+Ministro Ricardo Lewandowski
+Relator
