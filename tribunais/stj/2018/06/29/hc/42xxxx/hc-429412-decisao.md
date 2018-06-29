@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME] e [NOME], apontando como autoridade coatora o Tribunal de Justiça de São Paulo.
+Consta dos autos que foi proferida decisão por esta Corte, nos autos do RHC 42.568/SP, declarando a nulidade da decisão de quebra do sigilo telefônico na Ação Penal n. 0046774-82.2010.8.26.0602, assim como as subsequentes prorrogações e, bem assim, das provas consequentes, estas a serem aferidas pelo magistrado na origem, devendo o material respectivo ser retirado dos autos, estendendo-se seus efeitos aos demais corréus atingidos pela decisão de quebra do sigilo telefônico anulada.
+O juízo a quo, ao atender à decisão acima referida, determinou o desentranhamento de diversos documentos, entre eles o relatório final do inquérito policial e a denúncia apresentada contra os ora pacientes e outros acusados.
+Irresignado com a determinação de desentranhamento da inicial acusatória, o Ministério Público impetrou o Mandado de Segurança n. 2074840-54.2017.8.26.0000 perante o Tribunal de Justiça de São Paulo alegando que a decisão deu interpretação absolutamente ilegal àquela emanada por esta Corte. Pleiteou, ainda, a manutenção da denúncia, do seu aditamento, assim como da decisão de recebimento.
+O Tribunal de origem concedeu a segurança para determinar a manutenção da denúncia oferecida (fls. 28/39).
+Afirmam os impetrantes, em síntese, que a hipótese enquadra-se no enunciado da Súmula 267/STF, já que a segurança pleiteada pelo representante do Parquet, na verdade, insurge-se contra uma decisão que determinou a nulidade do processo desde o oferecimento da exordial acusatória e não de uma mera decisão de desentranhamento documental (fl. 7), contra a qual cabe recurso em sentido estrito, nos termos do art. 581 do CPP.
+Acrescenta, ainda, que não se pode identificar, na espécie, direito líquido e certo a amparar a concessão da segurança pleiteada pelo Parquet, sobretudo porque o objeto da irresignação é um ato de caráter jurisdicional.
+Sustenta, outrossim, que a decisão proferida pela magistrada, no sentido de determinar o desentranhamento dos autos da inicial acusatória, é precisa em atender às exigências do acórdão proferido nos autos do RHC 42.568/SP, pois enquadra-se no âmbito de discricionariedade a ela conferido que, por ter acompanhado a instrução processual desde o início, reconheceria com muito mais precisão o conteúdo que teria sido contaminado pela ilicitude das interceptações (fl. 10).
+Afirma, ademais, que Ao entender que a decisão de recebimento da denúncia deveria ser anulada e, por conseguinte, repercutir em todas as outras decisões posteriores assim como na impossibilidade de manutenção na inicial acusatória, a r. Decisão apenas identificou - com absoluta razão - que a peça inicial e, portanto, a convicção de quem a elaborou, estaria maculada pelas provas ilícitas, uma vez que não poderia se individualizar o que derivou das interceptações daquilo que poderia ser identificado por qualquer outro meio de prova (fl. 10).
+Requer, assim, seja concedida a ordem de modo a manter a decisão proferida nos autos da ação penal.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pela denegação da ordem.
+É o relatório.
+DECIDO.
+Em consulta ao sistema processual eletrônico desta Corte, constata-se o julgamento do HC 430.377/SP, no qual foi concedida a ordem para anular o julgamento do referido Mandado de Segurança n. 2074840-54.2017.8.26.0000, em decisão assim ementada:
+PENAL E PROCESSO PENAL. HABEAS CORPUS . NULIDADE. INTIMAÇÃO PARA A SESSÃO DE JULGAMENTO DO MANDADO DE SEGURANÇA. PUBLICAÇÃO NO DIÁRIO DE JUSTIÇA FEITA EM NOME DE ADVOGADO SUBSTABELECENTE. SUBSTABELECIMENTO SEM RESERVAS. NULIDADE. NECESSIDADE DE INTIMAÇÃO DO ADVOGADO SUBSTABELECIDO. HABEAS CORPUS CONCEDIDO.
+1. Esta Corte superior entende ser necessária a intimação do advogado constituída para a sessão de julgamento do mandado de segurança, com o fim de garantir o contraditório e a ampla defesa.
+2. É nula a intimação realizada em nome de advogado que em momento processual anterior substabeleceu, sem reservas, seus poderes a novo causídico. Precedentes.
+3. Habeas corpus concedido para anular o julgamento do Mandado de Segurança n. 2074840-54.2017.8.26.0000, para que se proceda à devida intimação do advogado do paciente.
+Dessa forma, tendo em vista a superveniente anulação do julgamento do Mandado de Segurança, ao qual pleiteava a cassação, resta evidenciada a prejudicialidade do presente habeas corpus.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
