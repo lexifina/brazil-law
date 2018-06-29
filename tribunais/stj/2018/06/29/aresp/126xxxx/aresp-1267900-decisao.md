@@ -1,0 +1,34 @@
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. ACIDENTE DO TRABALHO. FORNECIMENTO DE PRÓTESE À APOSENTADO. FUNDAMENTO DO ACÓRDÃO RECORRIDO INATACADO. SÚMULA 283/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial posto que os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido que contém fundamentação adequada para lhe dar respaldo e a incidência da Súmula 7 do STJ (fl.203).
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 129):
+ACIDENTÁRIA - Pretensão de fornecimento de prótese - Amputação parcial do membro inferior esquerdo decorrente de acidente do trabalho - Arts. 89 e 90 da Lei nº 8.213/91 - Fornecimento obrigatório de prótese, ainda que aposentado o autor - Descabimento de indenização por dano moral - Recurso parcialmente provido.
+Embargos de declaração rejeitados.
+No recurso especial o recorrente alega, em síntese, violação aos arts. 89 e 90 da Lei 8.213/91 ao argumento de que "deixou o v. acórdão de apreciar questão essencial ao deslinde da causa, que é a possibilidade de atenuação da redução da incapacidade funcional pelo uso da prótese requerida, requisito essencial para fazer surgir o dever de fornecimento do equipamento pela Previdência (..)Não há nos autos qualquer prova da possibilidade de retorno do autor ao mercado de trabalho, não havendo, assim, que se falar em reabilitação profissional. Em não estando o autor submetido a um processo de reabilitação profissional, não há a possibilidade de fornecimento de prótese pela Previdência Social, já que a lei prevê a prótese como um dos meios de propiciar ao segurado a redução de sua incapacidade laborativa" (fls. 168-185).
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Ao tratar do ponto controverso, podemos verificar, de pronto, que a Corte local explicitou fundamentadamente os elementos que firmaram sua convicção para concluir que não é requisito para o fornecimento de prótese que o segurado aposentado tenha se reinserido no mercado de trabalho.
+Especificamente quanto à questão destaca-se os fundamentos utilizados pela Corte de origem (fls. 130-131):
+ ..
+Lastreia-se a pretensão do autor na alegação de que, estando em gozo de aposentadoria por invalidez.o INSS se recusou a fornecer a prótese de que necessita em razão de amputação parcial do membro inferior esquerdo, esta resultante de acidente do trabalho.
+A r. sentença julgou improcedente a ação. No entanto, respeitado o convencimento do ilustre magistrado, não é requisito para o fornecimento de prótese que o segurado aposentado tenha se reinserido no mercado de trabalho.
+A questão deve ser analisada à luz dos arts. 89 e 90 da Lei nº 8.213/91, abaixo reproduzidos:
+"Art. 89. A habilitação e a reabilitação profissional e social deverão proporcionar ao beneficiário incapacitado parcial ou totalmente para o trabalho, e às pessoas portadoras de deficiência, os meios para a (re)educação e de (re)adaptação profissional e social indicados para participar do mercado de trabalho e do contexto em que vive.
+Parágrafo único. A reabilitação profissional compreende:
+a) o fornecimento de aparelho de prótese, órtese e instrumentos de auxílio para locomoção quando a perda ou redução da capacidade funcional puder ser atenuada por seu uso e dos equipamentos necessários à habilitação e reabilitação social e profissional;
+b) a reparação ou a substituição dos aparelhos mencionados no inciso anterior, desgastados pelo uso normal ou por ocorrência estranha à vontade do beneficiário;
+c) o transporte do acidentado do trabalho, quando necessário.
+Art. 90. A prestação de que trata o artigo anterior é devida em caráter obrigatório aos segurados, inclusive aposentados e, na medida das possibilidades do órgão da Previdência Social, aos seus dependentes" (grifo aposto).
+Da conjugação desses dois dispositivos resulta claro que a reabilitação profissional, que compreende entre outros meios, o fornecimento de prótese, há de ser conferida em caráter obrigatório aos segurados, inclusive aposentados.
+Também não é demais acrescentar que na Ação Civil Pública proposta pelo Ministério Público Federal contra o INSS, o Juízo da 13a Vara Federal da Seção Judiciária do Estado da Bahia, com efeito para todo o território nacional, julgou procedente a ação para "declarar a invalidade jurídica do ato administrativo apoiado na interpretação contida na NOTA TÉCNICA CGMBEN Nº 70/2005", condenando o INSS "na obrigação de não fazer consistente na proibição de editar qualquer ato administrativo normativo ou orientação normativa de conteúdo similar à referida Nota Técnica". Outrossim, determinou "à referida AUTARQUIA PREVIDENCIÁRIA que, dentro do prazo de 30 (trinta) dias, volte a fornecer aos seus segurados, inclusive aposentados portadores de deficiência física, órteses e próteses ou quaisquer outros equipamentos necessários para locomoção, bem como a substituição e a regular manutenção de tais equipamentos" (Processo nº 2006.33.00.011274-1, Juiz Carlos D"Ávila Teixeira, j. em 12/12/2008).
+Assim, é de ser provido o recurso para condenar o INSS a fornecer ao autor a prótese reclamada e as respectivas manutenções que se fizerem necessárias.
+Diante da sucumbência, arcará o instituto réu com as despesas processuais devidamente comprovadas e com os honorários advocatícios, estes arbitrados em R$ 2.200,00 (art. 20, § 4o, do CPC), com atualização monetária a partir do acórdão.
+Por fim, incabível a condenação da autarquia ao pagamento de indenização por dano moral.
+Com efeito, ao negar o aludido fornecimento, a autarquia agiu em função de interpretação diversa quanto à aplicação de lei, não resultando daí a prática de conduta dolosa ou culposa, tampouco abuso ou arbitrariedade capazes de gerar indenização por dano moral.
+Ante o exposto, pelo meu voto, dou provimento parcial ao recurso.
+ ..
+Contrapondo-se os trechos transcritos com as razões recursais verifica-se que não houve adequada impugnação aos fundamentos autônomos do acórdão recorrido destacados no excerto acima transcrito, eis que a recorrente limitou-se a reiterar sua tese defensiva sem combater específica e suficientemente as razões de decidir em referência. Aplica-se, portanto, o disposto na Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Ante o exposto, conheço do agravo para não conhecer do recurso especial. Por conseguinte, majoro em 10% os honorários advocatícios fixados anteriormente, observados os limites e parâmetros dos §§2º, 3º e 11 do artigo 85 do CPC/2015.
+Publique-se. Intimem-se.
