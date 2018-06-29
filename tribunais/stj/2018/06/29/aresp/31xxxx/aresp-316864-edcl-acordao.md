@@ -1,0 +1,67 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PRETENSÃO DE REEXAME E ADOÇÃO DE TESE DISTINTA. INEXISTÊNCIA DE VÍCIOS NO JULGADO.
+1. Os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual se deveria pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+2. O acórdão embargado manteve a decisão que negou seguimento ao recurso extraordinário em razão da incidência do Tema 181 da repercussão geral do Supremo Tribunal Federal.
+3. Na hipótese, não há nenhuma irregularidade ensejadora dos embargos de declaração, uma vez que a causa foi satisfatoriamente decidida, em consonância com a jurisprudência do Supremo Tribunal Federal.
+4. Não são cabíveis os embargos de declaração cujo objetivo é ver reexaminada e decidida a controvérsia de acordo com tese distinta.
+Embargos de declaração rejeitados.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Thereza de Assis Moura, Herman Benjamin, Napoleão Nunes Maia Filho, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Sérgio Kukina, Nancy Andrighi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Felix Fischer, Francisco Falcão e Raul Araújo.
+Convocado o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (Relator):
+Cuida-se de embargos de declaração opostos por COMÉRCIO E REPRESENTAÇÕES LACERDA LTDA. E OUTRO contra acórdão proferido pela Corte Especial, ementado nos seguintes termos (fl. 372, e-STJ):
+"AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE. CONTROVÉRSIA RESTRITA AO EXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.
+1. O Supremo Tribunal Federal, ao julgar o RE 598.365/MG-RG, decidiu inexistir repercussão geral na questão alusiva aos pressupostos de admissibilidade de recursos de outros tribunais, pois a matéria está restrita ao exame de legislação infraconstitucional (Tema 181/STF). Assim, eventual ofensa ao texto constitucional, ainda que existente, dar-se-ia de forma indireta ou reflexa, o que não enseja a abertura da via extraordinária.
+2. A Suprema Corte firmou entendimento no sentido de que "a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RI/STF). Desse modo, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF)" (AI 823.853 AgR, Relator Min. ROBERTO BARROSO, Primeira Turma, julgado em 30/9/2016, acórdão eletrônico DJe-221, divulgado em 17/10/2016, publicado em 18/10/2016).
+Agravo interno improvido."
+Os embargantes alegam contradição e omissão no acórdão embargado. Argumentam que (fl. 389, e-STJ):
+"4 - Conforme contata-se o v. acórdão foi omisso, pois deixou de examinar os fatos e os documentos acostados à petição de agravo. Outrossim, o v. acórdão não expôs a letra da lei onde se fundou, para negar provimento ao agravo interno, apenas se firmou no mesmo fundamento em que se assentou a decisão recorrida. A omissão implica ofensa às normas dos artigos 141, 492 e 1.022 todos do CPC/2015.
+4.1 - A ofensa contida em v. acórdão não ocorreu apenas em razão dos preceitos dos dispositivos suscitados, mas também relação aos princípios da razoabilidade e da segurança jurídica. Houve ofensa, inclusive, ao direito de defesa, acerca de cuja questão o colendo Superior Tribunal Federal assentou na sua jurisprudência a sua intangibilidade, deixando bem claro que a prestação jurisdicional há de ser inteira, completa e convincente, que são condições de razoabilidade e de segurança jurídica. Isto implica afirmar que a prestação jurisdicional que não for ofertada sob tais requisitos ofende tais preceitos.
+4.2 - Assim, ao de omitir no exame das provas colacionadas nos autos, violentou o devido processo legal o contraditório, o direito de defesa e o direito de petição, contrariando assim a norma dos incisos XXXIV, L1V e LV do artigo 5" da Constituição Federal.
+4.3 - Portanto houve, omissão na prestação jurisdicional, dado que o juiz da causa deve examinar todos os meandros dos fatos c dos documentos que instruem a causa, para se firmar na situação a que resulte mais justa. No caso em questão, a norma do artigo 141 do CPC/2015 determina que "o juiz decidirá o mérito nos limites propostos pelas partes, sendo-lhe vedado conhecer de questões, não suscitadas, a cujo respeito à lei exige a iniciativa da parte". A lide está limitada a tais fatos. O exame de tais fatos faz constatar que, cm verdade, a Fazenda Nacional está realizando a cobrança de débito eivado de nulidade, posto que fundamentado na Lei 9.718, declarada inconstitucional pelo e. Supremo Tribunal Federal."
+Foi apresentada impugnação (fls. 400-401, e-STJ).
+É, no essencial, o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PRETENSÃO DE REEXAME E ADOÇÃO DE TESE DISTINTA. INEXISTÊNCIA DE VÍCIOS NO JULGADO.
+1. Os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual se deveria pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+2. O acórdão embargado manteve a decisão que negou seguimento ao recurso extraordinário em razão da incidência do Tema 181 da repercussão geral do Supremo Tribunal Federal.
+3. Na hipótese, não há nenhuma irregularidade ensejadora dos embargos de declaração, uma vez que a causa foi satisfatoriamente decidida, em consonância com a jurisprudência do Supremo Tribunal Federal.
+4. Não são cabíveis os embargos de declaração cujo objetivo é ver reexaminada e decidida a controvérsia de acordo com tese distinta.
+Embargos de declaração rejeitados.
+
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (Relator):
+Os embargos não merecem acolhida.
+Nos termos do art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual se deveria pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+Para a configuração dos vícios elencados no referido dispositivo legal, necessário que algum fundamento relevante para o julgamento da controvérsia não tenha sido objeto de apreciação pelo órgão julgador ou que a omissão, a contradição e a obscuridade suscetíveis de serem afastadas por meio de embargos declaratórios estejam contidas entre os próprios termos do dispositivo ou entre a fundamentação e a conclusão do acórdão embargado.
+A parte sustenta omissão, uma vez que o acórdão embargado não analisou documentos apresentados. Observa-se contudo, que o aresto impugnado contra o qual as partes apresentaram recurso extraordinário, sequer analisou o mérito da causa ante o óbice contido na Súmula 182/STJ e isso não se traduz em omissão, mas ausência de preenchimento dos pressupostos de admissibilidade necessários à sua análise.
+Desta feita, não há nenhuma omissão, contradição ou obscuridade, mas sim inconformismo com o julgamento exarado por esta Corte, por se traduzir contrário aos interesses da parte.
+Como visto, o acórdão embargado encontra-se claro e devidamente fundamentado, consoante demonstra o seguinte trecho (fls. 376-379, e-STJ):
+"Sem razão a parte agravante.
+Trata-se de agravo interno contra decisão que negou seguimento ao recurso extraordinário.
+De início, é preciso analisar os motivos que levaram a Primeira Turma desta Corte a aplicar a Súmula 182/STJ. Para isso, transcrevo o trecho do acórdão que julgou o agravo interno no agravo em recurso especial do ora agravante (fls. 279-280, e-STJ):
+" ..
+A teor do disposto no art. 1.021, § 1º, do Código de Processo Civil de 2015, bem assim da Súmula 182 do STJ, o agravante deve infirmar, nas razões do agravo interno, todos os fundamentos da decisão impugnada, sob pena de não ser conhecido o seu recurso.
+Na hipótese dos autos, o decisum ora impugnado não conheceu do agravo interposto com fulcro no art. 932, III, do CPC/2015, visto que os agravantes não se insurgiram contra o(s) fundamento(s) do juízo de prelibação negativo do recurso especial, no caso: Súmula 280 do STF (redução da alíquota do ICMS incidente sobre a importação de pescado de país signatário do Tratado GATT), divergência não comprovada (alínea "c") e Súmula 284 do STF (alínea "c").
+Da leitura das razões do agravo interno, em relação às Súmulas 284 e 280 da Suprema Corte, os agravantes buscam suprir a deficiência que impediu o conhecimento do agravo em recurso especial, o que configura inovação recursal, incabível nesta fase, em razão da preclusão consumativa (Precedentes: AgRg no REsp 1573930/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/05/2016, DJe 01/06/2016, e AgRg no AREsp 761.678/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 27/10/2015, DJe 10/11/2015).
+Todavia, observa-se que, mais uma vez, as partes agravantes deixaram de impugnar todos os fundamentos do decisum agravado, notadamente o óbice relativo à divergência não comprovada (e-STJ fls. 262/268).
+Desse modo, forçosa é a incidência da Súmula 182 deste Tribunal."
+Percebe-se, com o excerto do voto condutor do acórdão acima transcrito, que, em razão do óbice processual contido Súmula 182/STJ, o referido órgão colegiado não analisou o mérito da lide.
+Nesse ponto, ou seja, quando não há análise do mérito, o Supremo Tribunal Federal firmou entendimento no sentido de que a matéria referente ao cabimento de recursos da competência de outros tribunais não possui repercussão geral, pois está restrita ao âmbito infraconstitucional, o que não enseja a abertura da via extraordinária (Tema 181/STF).
+A propósito, confira-se a ementa do seguinte julgado:
+"PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso "elemento de configuração da própria repercussão geral", conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608." (RE 598.365/MG, Tribunal Pleno, Rel. Ministro AYRES BRITO, DJe de 26/3/2010.)
+Deve ser observado que a verificação do acerto ou desacerto da motivação adotada no provimento judicial atacado extrapola os limites da cognição inerente ao juízo de admissibilidade exercido por esta Vice-Presidência.
+Assim, não há repercussão geral a ser reconhecida, pois o Supremo Tribunal Federal já decidiu que a controvérsia relativa à admissibilidade se restringe ao exame da legislação infraconstitucional e firmou entendimento no sentido de que "a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RI/STF). Desse modo, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF)". Eis a ementa do julgado:
+"DIREITO TRIBUTÁRIO. AGRAVO INTERNO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS - ICMS. INCIDÊNCIA NA BASE DE CÁLCULO DO FRETE. NECESSIDADE DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. 1. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RI/STF). Desse modo, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF). 2. Nos termos da jurisprudência da Corte, não há repercussão constitucional imediata da controvérsia sobre a não inclusão do frete na base de cálculo do ICMS no regime de substituição tributária, porquanto seria necessária a análise da legislação infraconstitucional de regência. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 557, § 2º, do CPC/1973." (AI 823.853 AgR, Relator Min. ROBERTO BARROSO, Primeira Turma, julgado em 30/9/2016, acórdão eletrônico DJe-221, divulgado em 17/10/2016, publicado em 18/10/2016.)
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto."
+Na hipótese, não há nenhuma irregularidade ensejadora dos embargos de declaração, uma vez que a causa foi satisfatoriamente decidida, em consonância com a jurisprudência do Supremo Tribunal Federal.
+O recurso de embargos de declaração não tem a finalidade de rejulgamento, ainda mais em sede de admissibilidade de recurso extraordinário.
+Nesse sentido: EDcl no AgRg no RE no AgRg no REsp 1.363.698/SP, Rel. Ministra Laurita Vaz,Corte Especial, julgado em 15/6/2016, DJe 3/8/2016; EDcl no AgRg no RE no AgRg no AREsp 11.972/RJ, Rel. Ministra Laurita Vaz, Corte Especial, julgado em 1º/6/2016, DJe 28/6/2016.
+Ante o exposto, rejeito os embargos de declaração.
+É como penso. É como voto.
+MINISTRO HUMBERTO MARTINS
+Vice-Presidente
