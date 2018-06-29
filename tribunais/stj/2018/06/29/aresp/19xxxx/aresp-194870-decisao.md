@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial sob os seguintes fundamentos: (a) ausência de demonstração de afronta aos artigos arrolados e (b) aplicação das Súmulas n. 5 e 7 do STJ.
+O acórdão recorrido está assim ementado (e-STJ fl. 136):
+JUROS - Contratuais - Contrato de administração de crédito - Inaplicabilidade da Lei de Usura às administradoras de cartão de crédito (Súmula n. 283 do STJ) - Dever de observar limites impostos pelo Conselho Monetário Nacional (Lei n. 4.595/64) - Inexistência, porém, de contratação formal do índice dos juros - Inadmissibilidade da cobrança além do patamar, legal (12% a.a.) - Ação revisional procedente - Apelação do consumidor provida.
+CONTRATO - Prestação de serviços - Administração de crédito - Captação de crédito em nome do contratante, com repassasse dos encargos da operação - Possibilidade - Simples previsão da cláusula não é reputada abusiva, potestativa e autorizadora de excessiva onerosidade em favor da fornecedora de serviços - Legalidade decorrente da natureza da própria operação entre as partes - Inexistência, no caso concreto, de documento assinado pelas partes - Impossibilidade de fazer incidir cláusula em contrato padrão diante da inexistência de prova da contratação - Ação revisional procedente - Apelação do consumidor provida.
+COMISSÃO DE PERMANÊNCIA - Contrato de administração de crédito - Inexistência de contrato escrito entre as partes - Incerteza quanto à vigência do contrato padrão na época da contratação - Inadmissibilidade de cobrança de outros encargos além dos juros legais - Ausência de indicação nas faturas da composição do valor dos encargos nem prestação de contas sobre o custo desse financiamento, conforme cláusula de mandato - Expurgo da multa contratual e juros moratórios - Prevalência unicamente dos juros legais - Ação revisional procedente - Apelação do consumidor provida.
+JUROS - Moratórios - Capitalização mensal - Inexistência de contrato escrito assinado pelos litigantes - Existência apenas de cópia do contrato padrão que não traz data de sua confecção ou vigência - Anatocismo constatado no cálculo apresentado pela administradora - Expurgo dos juros capitalizados - Ação revisional procedente - Apelação do consumidor provida.
+BANCO DE DADOS - Negativação - Ação de revisão de contrato de administração de crédito com pedido cautelar de exclusão da restrição - Determinação judicial de recálculo do saldo devedor - Exclusão do nome do apelante dos órgãos de proteção ao crédito - Ação revisional procedente - Apelação do consumidor provida.
+Os embargos declaratórios opostos foram rejeitados por decisão monocrática (e-STJ fls. 153/157).
+O recurso especial (e-STJ fls. 160/179), fundamentado no art. 105, III, alíneas "a" e "c", da CF, apontou ofensa ao art. 3º do CPC/1973, bem como dissídio jurisprudencial. Sustentou, em síntese, ilegitimidade passiva e ausência de ilegalidades no contrato.
+Foram oferecidas contrarrazões (e-STJ fls. 216/225).
+O agravo (e-STJ fls. 235/244) refuta os fundamentos da decisão agravada e alega o cumprimento de todos requisitos legais para recebimento do especial.
+Foi apresentada contraminuta (e-STJ fls. 247/253).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+O especial não possui condições de desenvolvimento regular.
+Com efeito, o recurso foi apresentado contra decisão monocrática de desembargador do Tribunal de origem que julgou os aclaratórios (e-STJ fls. 153/157).
+No entanto, o art. 105, III, da CF é taxativo ao vincular o julgamento desta Corte, em recurso especial, às causas decididas em única ou última instância. Assim, conforme o entendimento pacífico deste Tribunal, não cabe especial contra decisão monocrática, sendo imprescindível que o recurso impugne decisão colegiada.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/1973) - AUTOS DE AGRAVO DE INSTRUMENTO EM EMBARGOS DO DEVEDOR - DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO PRÓPRIO RECURSO ESPECIAL EM RAZÃO DA INCIDÊNCIA DA SÚMULA 281 DO STF. IRRESIGNAÇÃO DO AGRAVANTE.
+1. Não cabe recurso especial interposto diretamente contra decisão monocrática que rejeita os embargos de declaração, ainda que opostos contra acórdão do Tribunal. Neste caso, as partes deveriam ter agravado para que a decisão fosse apreciada pelo órgão colegiado. Sendo assim, incide analogicamente o óbice da Súmula 281 do Supremo Tribunal Federal, da qual se depreende que não se conhece do recurso especial interposto em face de decisão monocrática, ante a ausência de esgotamento da instância ordinária.
+2. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 141.844/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/8/2016, DJe 30/8/2016.)
+PROCESSUAL CIVIL (CPC/1973). AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INSTÂNCIA ORDINÁRIA. RECURSO INTERPOSTO CONTRA DECISÃO MONOCRÁTICA. NÃO EXAURIMENTO DE INSTÂNCIA. CABIMENTO DE AGRAVO REGIMENTAL. INCIDÊNCIA DA SÚMULA 281 DO STF. AGRAVO INTERNO MANIFESTAMENTE INADMISSÍVEL. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+(AgInt no AREsp n. 833.923/MT, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 1º/9/2016, DJe 13/9/2016.)
+Dessa forma, não cabe recurso especial contra decisão monocrática, uma vez que falta o necessário esgotamento da instância de origem, acarretando a aplicação, por analogia, da Súmula n. 281/STF: "É inadmissível o recurso extraordinário, quando couber na justiça de origem, recurso ordinário da decisão impugnada."
+No caso, a parte recorrente não interpôs o devido agravo interno, meio processual adequado para exaurir o julgamento pela instância a quo.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
