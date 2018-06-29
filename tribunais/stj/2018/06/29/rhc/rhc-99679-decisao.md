@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto por [NOME] contra o acórdão proferido pelo Tribunal de Justiça de Minas Gerais no HC n. 1.0000.18.020286-3/000.
+Narram os autos que, no dia 28/2/2018, o Juízo da Vara Única da comarca de Bicas/SP, nos Autos n. 0026319-62.2017.8.13.0069, condenou o paciente às penas de 7 anos de reclusão, em regime inicial semiaberto, e 700 dias-multa, pela prática do crime previsto no art. 33 da Lei n. 11.343/2006. Foi-lhe negado o direito de recorrer em liberdade.
+Pleiteando, em liminar, a expedição de alvará de soltura em favor do ora recorrente e, no mérito, o trancamento da ação penal, a defesa impetrou habeas corpus na origem. A Quinta Câmara Criminal, em 8/5/2018, julgou prejudicada a impetração, nos termos da seguinte ementa (fl. 411):
+HABEAS CORPUS - TRÁFICO DE DROGAS - REVOGAÇÃO - SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA - PRISÃO DECORRENTE DE NOVO TÍTULO - PEDIDO PREJUDICADO.
+Aqui, alega o recorrente que a decisão sequer analisou os motivos do trancamento da ação penal, simplesmente julgando prejudicada a impetração, no entanto, as razões do writ não estão atreladas à prisão preventiva ou prisão decorrente de sentença condenatória, mas sim, por motivo de extinção da ação penal (fl. 420).
+Sustenta que todo o flagrante foi uma série de erros e abuso de autoridade cometidos (fl. 422). Aponta nulidade: pela ação controlada ilegal praticada pela policia militar; pela invasão de domicilio por parte dos policiais ocorrida por meio de fraude (fl. 429); por ato da polícia militar de ter usurpado a atribuição da polícia civil (fl. 437) e pelo uso indevido de algemas (fl. 439).
+Requer assim, em liminar, a expedição de alvará de soltura em seu favor e, no mérito, o provimento do recurso para que seja determinado o trancamento da ação penal.
+É o relatório.
+No caso, observa-se que o Tribunal de origem se limitou a julgar prejudicado o writ, ao argumento de que não mais subsiste a decisão que manteve a segregação cautelar, pois o paciente encontra-se preso, atualmente, em virtude de outro decreto prisional, qual seja, a sentença proferida, que constitui novo título judicial (fl. 412), sem discorrer acerca das nulidades apontadas, que fundamentam o pedido de trancamento da ação penal.
+Sabe-se que tratar da questão de fundo neste momento configuraria indevida supressão de instância. Assim, evidenciado que este Superior Tribunal não pode conhecer originariamente da questão, cabe ao Tribunal estadual a análise prévia do alegado constrangimento. Destaco que a prolação da sentença não enseja, necessariamente, a prejudicialidade do exame das nulidades apontadas na impetração originária.
+Ante o exposto, conheço do recurso e dou-lhe provimento apenas para determinar que o Tribunal de Justiça de Minas Gerais aprecie o mérito do Habeas Corpus n. 1.0000.18.020286-3/000, como entender de direito.
+Comunique-se com urgência.
+Publique-se.
