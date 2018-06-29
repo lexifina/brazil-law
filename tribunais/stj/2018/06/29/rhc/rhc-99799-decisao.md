@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, sem pedido liminar, interposto por DONATO MEIRA DE OLIVEIRA, em face de v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, no qual postula o recorrente, em síntese, a revogação da prisão preventiva decretada em seu desfavor, pela prática em tese do crime de tráfico de drogas.
+Irresignada, a defesa impetrou habeas corpus perante o eg. Tribunal a quo, por meio da qual buscava a revogação do decreto prisional. O eg. Tribunal de origem denegou a ordem, em v. acórdão assim ementado:
+"HABEAS CORPUS - antecedentes infracionais - a existência de atos infracionais não podem ser utilizados à guisa de antecedentes, porém servem de prova de que o paciente não é neófito na senda do crime, indicando personalidade voltada à delinqüência, circunstância que permite prognóstico de tornar a reincidir. HABEAS CORPUS  presença do fumus commissi delicti no boletim de ocorrência, auto de constatação e prova oral que indica que a droga foi encontrada na casa. Indícios que permitem, por ora, a capitulação como tráfico, tais como a apreensão de embalagens para a preparação da droga, apreensão de dinheiro, notícia de denúncias da prática de tráfico de drogas que recaíam sobre o paciente e a falta de capacidade econômica para possuir a droga para seu uso exclusivamente pessoal presença do periculum in libertatis tais como o fato de existirem indícios de que o réu exerce o tráfico profissionalmente e que solto tomará a delinquir, presença de alta reprovabilidade, visto a natureza da drogas o fato do réu ser primário e sem antecedentes não impede a prisão preventiva falta de ofensa ao princípio da presunção de inocência, inteligência da Súm. 09 do STJ - indeferimento liminar" (fl. 159).
+Alega que não há fundamentação concreta e idônea para a manutenção da prisão preventiva em seu desfavor.
+Passo a decidir.
+O pedido está prejudicado.
+Em consulta ao sítio eletrônico do Tribunal a quo (www.tjsp.jus.br) verifiquei que prisão preventiva em desfavor do recorrente foi revogada em 16/03/2018.
+ Nesse contexto, verifico que o presente recurso perdeu o objeto, uma vez que já atendida a pretensão nele requerida.
+Ante o exposto, julgo o presente recurso em habeas corpus prejudicado.
+P. e I.
