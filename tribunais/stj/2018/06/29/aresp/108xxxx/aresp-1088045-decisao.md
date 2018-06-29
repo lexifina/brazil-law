@@ -1,0 +1,54 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/73). VIOLAÇÃO AO ARTIGO 535, DO CPC/73. OMISSÃO. AUSENTE. MÚTUO IMOBILIÁRIO COM ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. PROCEDIMENTO EXTRAJUDICIAL DE CONSOLIDAÇÃO DA PROPRIEDADE. INTIMAÇÃO EDITALÍCIA. APLICAÇÃO DA SÚMULA 07 DO STJ. CIRCUNSTÂNCIAS EXAMINADAS PELO TRIBUNAL DE ORIGEM. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por [NOME] OUTRA em face da decisão que negou seguimento a recurso especial, interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+SFH. ALIENAÇÃO FIDUCIÁRIA. NULIDADE EXECUÇÃO EXTRAJUDICIAL. 1. Tendo sido observado o procedimento previsto na Lei nº 9.514/97, com o envio da notificação para purgar a mora para o endereço do imóvel, bem como publicação de editais de intimação para a purgação da mora e da realização do leilão, não há motivo para anular o procedimento de execução extrajudicial do imóvel. 2. Descabido o pedido de condenação nos ônus sucumbenciais formulado em sede de contrarrazões ao recurso de apelação, por se tratar de meio inadequado para modificar a sentença. 3. Apelação desprovida. (e-STJ, fl. 219)
+Nas razões do especial, as partes alegam violação ao artigo 535, do CPC/73; e ao artigo 26, §§ 3º e 4º, da Lei 9.514/97, sustentando que no procedimento da execução extrajudicial não teria sido observada a garantia de notificação pessoal do devedor pelo oficial do cartório de títulos e documentos, conforme previsto na legislação.
+Defendem que a notificação por edital somente poderia ser efetuada caso o devedor se encontrasse em local incerto e não sabido.
+Intimado, o agravado ofereceu contrarrazões (e-STJ fls. 257/262).
+É o relatório.
+Passo a decidir.
+A pretensão recursal não merece ser acolhida.
+Primeiramente, cumpre esclarecer que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/15 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça, conforme disposto no Enunciado Administrativo n. 3/STJ.
+Inicialmente, apresenta-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, não havendo a demonstração clara dos pontos do acórdão que se apresentam omissos, contraditórios ou obscuros. Aplica-se, assim, o óbice da Súmula 284/STF.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL. AÇÃO DE OBRIGAÇÃO DE FAZER. AUSÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC. ALEGAÇÃO GENÉRICA. SÚMULA Nº 284/STF. REEXAME DE PROVA. SÚMULA Nº 7/STJ. INOVAÇÃO. IMPOSSIBILIDADE.
+1. O recurso especial que indica violação do artigo 535 do Código de Processo Civil, mas traz somente alegação genérica de negativa de prestação jurisdicional é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284 do Supremo Tribunal Federal, aplicada por analogia.
+2. Rever questão decidida com base no exame das circunstâncias fáticas da causa esbarra no óbice da Súmula nº 7 do Superior Tribunal de Justiça.
+3. É inviável a análise de teses alegadas apenas nas razões do regimental por se tratar de evidente inovação recursal.
+4. Agravo regimental não provido. (AgRg no AREsp 578.636/RS, Terceira Turma, Rel. Ministro Ricardo Villas Bôas Cueva, julgado em 10/03/2015, DJe 16/03/2015 - grifou-se)
+Cumpre assinalar que "nos termos estabelecidos pelo parágrafo primeiro do art. 31 do DL 70/66, a notificação pessoal do devedor, por intermédio do Cartório de Títulos e Documentos, é a forma normal de cientificação do devedor na execução extrajudicial do imóvel hipotecado. Todavia, frustrada essa forma de notificação, é cabível a notificação por edital, nos termos parágrafo segundo do mesmo artigo, inclusive para a realização do leilão" (EAg 1.140.124/SP, Corte Especial, Rel. Min. TEORI ALBINO ZAVASCKI, DJe de 21.6.2010).
+Acerca da cientificação do mutuário, dispôs o acórdão: "não verifico irregularidade na notificação do autor via edital, vez que o Oficial de Registro não obteve êxito na notificação pessoal do mutuário (evento 9 - INT4)" (e-STJ, fl. 200).
+Nesse contexto, a conclusão a que chegou o Tribunal de origem está em sintonia com a jurisprudência desta Corte.
+Ademais, para alterar o entendimento do Tribunal a quo - de que não há que se falar em nulidade do procedimento extrajudicial, como pretendido pelos recorrentes - seria necessário reexaminar as provas dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+A propósito:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. SFH. EXECUÇÃO EXTRAJUDICIAL. DL 70/66. PURGAÇÃO DA MORA. REEXAME DE MATÉRIA DE FATO. SÚMULA 7/STJ. NOTIFICAÇÃO POR EDITAL. SÚMULA 83/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO.
+1. "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula 7/STJ).
+2. Frustrada a notificação pessoal do devedor, é cabível a notificação por edital. Incidência da Súmula 83/STJ.
+3. À caracterização do dissídio jurisprudencial, nos termos dos artigos 541, parágrafo único, do Código de Processo Civil e 255, parágrafos 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça, é necessária a demonstração da similitude de panorama de fato e da divergência na interpretação do direito entre os acórdãos confrontados.
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 605.475/PR, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 16/12/2014, DJe 06/02/2015 - grifou-se)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SISTEMA FINANCEIRO DA HABITAÇÃO. EXECUÇÃO EXTRAJUDICIAL. TENTATIVA DE NOTIFICAÇÃO PESSOAL FRUSTRADA. NOTIFICAÇÃO POR EDITAL. VALIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta egrégia Corte é assente no sentido de que, "Nos termos estabelecidos pelo parágrafo primeiro do art. 31 do DL 70/66, a notificação pessoal do devedor, por intermédio do Cartório
+de Títulos e Documentos, é a forma normal de cientificação do devedor na execução extrajudicial do imóvel hipotecado. Todavia, frustrada essa forma de notificação, é cabível a notificação por edital, nos termos parágrafo segundo do mesmo artigo, inclusive para a realização do leilão" (EAg 1.140.124/SP, Corte Especial, Rel. Min. TEORI ALBINO ZAVASCKI, DJe de 21.6.2010).
+2. No caso, ficou provado nos autos que o procedimento de execução extrajudicial se desenvolveu nos termos exigidos pela legislação, com regular envio de notificação ao endereço do imóvel da parte autora, em diligências realizadas em 9/3/1989, 13/3/1989, 17/3/1989 e 20/3/1989, todas infrutíferas, bem como por publicações de editais de notificação em jornal local.
+3. Para alterar o entendimento do Tribunal a quo, qual seja o de que ficou comprovado nos autos o cumprimento das formalidades exigidas para o regular processamento da execução extrajudicial, seria necessário reexaminar o contexto fático-probatório dos autos, o que, todavia, não é possível em sede de recurso especial, por força da Súmula 7/STJ.
+4. Agravo regimental a que se nega provimento. (AgRg no AREsp 652.239/SP, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 19/03/2015, DJe 17/04/2015 - grifou-se)
+AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA INCISO V DO ART. 485 DO CPC. VIOLAÇÃO AO ART. 535 DO CPC. NÃO OCORRÊNCIA. ALEGAÇÃO DE VIOLAÇÃO A LITERAL DISPOSIÇÃO DE LEI . OFENSA AO ART. 31 DO DECRETO-LEI 70/66. NOTIFICAÇÃO DO DEVEDOR. PURGAÇÃO MORA. EDITAL. IRREGULARIDADE. ACÓRDÃO RESCINDIDO, EM IUDICIUM RESCINDENS. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM, PARA QUE PROSSIGA NO IUDICIUM RESCISSORIUM. PRECEDENTE.
+1. A execução extrajudicial, apesar de possuir regras próprias, reconhecidamente recepcionadas pela Constituição (cf. RE 223075, Relator(a): Min. ILMAR GALVÃO, Primeira Turma, DJ 06-11-1998) não há de ser realizada ao arrepio do devido processo legal. Conforme previsto no art. 31 do Decreto-lei nº 70/66, a notificação pessoal, por intermédio do Cartório de Títulos e Documentos, é o meio legítimo de cientificação do devedor na execução extrajudicial do imóvel hipotecado.
+2. Apenas nos casos em que realizadas várias tentativas de intimação, por meio de expedição de avisos de cobrança e carta de notificação por oficial de cartório - e consequente lavratura de certidão com a constatação de que o devedor encontra-se em lugar incerto e não sabido-, será válida a notificação por edital, nos termos do § 2º do art. 31 daquele Decreto-lei.
+3. Verificado que o acórdão rescindendo violou dispositivo de lei e que o acórdão ora recorrido também o fez, ante a manutenção do desacerto, deve ser provido o recurso especial, com o retorno dos autos ao Tribunal de origem para que prossiga no julgamento do iudicium rescissorium.
+4. Agravo regimental não provido. (AgRg nos EDcl no REsp 1388674/PE, Luis Felipe Salomão, Quarta Turma, julgado em 03/04/2014, DJe 11/04/2014 - grifou-se)
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544, DO CPC) - MÚTUO IMOBILIÁRIO COM ALIENAÇÃO FIDUCIÁRIA EM GARANTIA - PROCEDIMENTO EXTRAJUDICIAL DE CONSOLIDAÇÃO DA PROPRIEDADE - INTIMAÇÃO EDITALÍCIA - APLICAÇÃO DA SÚMULA 07 DO STJ - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO DO MUTUÁRIO.
+1. A instância ordinária, com fundamento na análise dos documentos constantes dos autos, considerou que foi promovida, porém frustrada, por três vezes consecutivas, pela ausência do mutuário, a tentativa de intimação pessoal do fiduciante, o que justificou, posteriormente, a sua intimação por edital, nos termos do art. 26, § 4º, da Lei n.º 9.514/97.
+2. Rever, assim, o conjunto fático-probatório dos autos, quanto à viabilidade da intimação editalícia do mutuário, encontra óbice no enunciado da Súmula n.º 07 do STJ, pois, em sede de recurso especial, é vedado o reexame do acervo fático-probatório dos autos.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 232.769/RS, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 13/11/2012, DJe 22/11/2012 - grifou-se)
+SFH. EXECUÇÃO EXTRAJUDICIAL. NOTIFICAÇÕES PARA PURGAÇÃO DA MORA E PARA O LEILÃO. CIRCUNSTÂNCIAS DEDUZIDAS PELAS INSTÂNCIAS ORDINÁRIAS. SÚMULA 7.
+1. Decidindo as instâncias ordinárias, ao exame do contexto probatório, acerca da regularidade e legalidade das notificações ao mutuário (a) para purgação da mora e (b) para a realização do leilão, qualquer indicativo em sentido contrário, na via do apelo nobre, encontraria óbice no enunciado nº 7 da súmula do Superior Tribunal de Justiça.
+2. Recurso especial não conhecido.
+(REsp 689.077/RJ, Relator o Ministro Fernando Gonçalves, DJ de 22.8.2005 - grifou-se)
+Advirta-se, por fim, que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015, conforme Enunciado Administrativo n. 3/STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
