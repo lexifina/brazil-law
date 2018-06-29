@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu o recurso especial. O apelo extremo, interposto com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO DE REVISÃO DE CONTRATO - CÉDULA DE CRÉDITO BANCÁRIO - CAPITALIZAÇÃO DE JUROS - CUMULAÇÃO DE COMISSÃO DE PERMANÊNCIA E OUTROS ENCARGOS - REPETIÇÃO - É lícita a capitalização de juros, quando expressamente pactuada, no caso de Cédula de Crédito Bancário, com arrimo na Lei 10.93112004.
+- É vedada a cumulação de comissão de permanência com outros encargos, na forma da Súmula 472 do STJ. Não havendo previsão deste encargo, não há ilegalidade.
+- Existindo cobrança indevida de valores, devem estes ser restituídos, de forma simples, uma vez que ausente prova da má-fé em sua cobrança" (fl. 257 e-STJ).
+A denegação se deu em virtude dos óbices das Súmulas nºs 7 e 83/STJ e 284/STF e ausência de negativa de prestação jurisdicional.
+As razões de recurso alegam, além de dissídio jurisprudencial, violação dos arts. 5º da Medida Provisória nº 2.170-36/2001, 42 e 51, IV, do Código de Defesa do Consumidor.
+Sustentam ser incabível a cobrança de capitalização mensal e de tarifas. Afirmam, também, que a devolução das quantias indevidamente cobradas deve se dar em dobro.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial, bem como a decisão de admissibilidade do recurso especial foram publicados na vigência do Código de Processo Civil de 1973 (Enunciado Administrativo nºs 2/STJ).
+O agravo não comporta conhecimento.
+De início, registra-se que a Corte Especial, apreciando Questão de Ordem no AG n.º 1.154.599/SP, da relatoria do Ministro César Ásfor Rocha (DJ de 12.05.2011), decidiu pelo não cabimento do agravo contra decisão que nega seguimento ao recurso especial, com base no art. 543-C, § 7º, inciso I, do CPC/1973, nos termos da seguinte ementa:
+"QUESTÃO DE ORDEM. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CABIMENTO. EXEGESE DOS ARTS. 543 E 544 DO CPC. AGRAVO NÃO CONHECIDO. - Não cabe agravo de instrumento contra decisão que nega seguimento a recurso especial com base no art. 543, § 7º, inciso I, do CPC. Agravo não conhecido".
+Nesse sentido, o seguinte precedente:
+"PROCESSUAL CIVIL. AGRAVO. LEI N. 12.322/2010. APLICAÇÃO. DATA DA PUBLICAÇÃO DA DECISÃO AGRAVADA. DECISÃO MONOCRÁTICA FUNDAMENTADA EM PRECEDENTE DA CORTE ESPECIAL. (..) 3. Ademais, recentemente a Corte Especial consagrou entendimento no sentido de não ser cabível agravo de instrumento contra a decisão que nega seguimento ao recurso especial lastreada no artigo 543-C, § 7º, inciso I, do CPC, pois o acórdão recorrido estaria no mesmo sentido daquele proferido em recurso representativo de controvérsia por este Superior Tribunal. 4. Precedente: QO no Ag 1.154.599-SP, Rel. Min. Cesar Asfor Rocha, julgada em 16.2.2011. 5. Agravo regimental não provido" (AgRg no AREsp 677/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 07/04/2011, DJe 15/04/2011).
+No mais, constata-se que não houve impugnação específica dos fundamentos da decisão agravada, atraindo, portanto, a aplicação do disposto no art. 932, III, do Código de Processo Civil de 2015, que faculta ao relator "não conhecer do recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+Com efeito, é pacífico o entendimento desta Corte de que a parte agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE DO APELO NOBRE. IMPUGNAÇÃO ESPECÍFICA DOS SEUS FUNDAMENTOS. AUSÊNCIA. 1. A teor do disposto nos arts. 544, § 4º, I, do CPC/1973 e 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos da decisão de inadmissibilidade do apelo nobre, sejam eles autônomos ou não, mostrando-se inadmissível o agravo que não se insurge contra todos eles. 2. Hipótese em que a recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão agravada. 3. Agravo interno desprovido, com aplicação de verba honorária recursal, cuja exigibilidade, no entanto, ficará suspensa na forma do art. 98, § 3º, do CPC/2015" (AgInt no AREsp 944.917/PR, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 20/10/2016, DJe 25/11/2016).
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
