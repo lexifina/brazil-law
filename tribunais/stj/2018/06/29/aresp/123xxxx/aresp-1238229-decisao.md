@@ -1,0 +1,35 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. ALEGADA OFENSA DE ENUNCIADO DE SÚMULA. SÚMULA 518/STJ. OBRIGAÇÃO DE FAZER. CONHECIMENTO DA ANTECIPAÇÃO DE TUTELA COM APLICAÇÃO DE MULTA DIÁRIA. REEXAME. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. REEXAME DO MONTANTE FIXADO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por UNIMED LITORAL COOPERATIVA DE TRABALHO MÉDICO LTDA contra decisão do Tribunal de Justiça do Estado de Santa Catarina que inadmitiu o seu recurso especial manejado em face do acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. DIREITO CIVIL E PROCESSUAL CIVIL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. DECISÃO QUE MINOROU O VALOR TOTAL DA MULTA DIÁRIA IMPOSTA. INCONFORMISMO DA IMPUGNANTE. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. INOCORRÊNCIA. INUTILIDADE DA PROVA ORAL. MÉRITO. AUSÊNCIA DE INTIMAÇÃO PESSOAL DO DEVEDOR PARA CUMPRIMENTO DE OBRIGAÇÃO DE FAZER. DESNECESSIDADE. SUFICIENTE A INTIMAÇÃO DO ADVOGADO PARA INCIDÊNCIA DE ASTREINTES. VALOR FINAL DEVIDO PELO DESCUMPRIMENTO DA TUTELA ANTECIPADA. NECESSÁRIA READEQUAÇÃO. DESPROPORCIONALIDADE ENTRE O VALOR ACUMULADO E A OBRIGAÇÃO PRINCIPAL. HONORÁRIOS ADVOCATÍCIOS. INCIDÊNCIA DE PERCENTUAL SOBRE A CONDENAÇÃO. MANUTENÇÃO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.(e-STJ fl.420)
+Opostos embargos de declaração, foram acolhidos nos termos da seguinte ementa:
+EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. DECISÃO QUE MINOROU O VALOR TOTAL DA MULTA DIÁRIA IMPOSTA PELO JUÍZO A QUO. DECISÃO PROFERIDA APÓS A VIGÊNCIA DO NOVO CÓDIGO PROCESSUAL CIVIL. CITAÇÃO DE ARTIGOS DA LEGISLAÇÃO ANTERIOR. ERRO MATERIAL INCIDÊNCIA DO ARTIGO 85, § 11º. MAJORAÇÃO DOS HONORÁRIOS EM SEDE RECURSAL. HIPÓTESES DO ARTIGO 1.022 DA NOVA LEGISLAÇÃO PROCESSUAL CIVIL VERIFICADA. ERRO MANIFESTO. ACLARATÓRIOS ACOLHIDOS.(e-STJ fl. 465)
+Nas razões do recurso especial, a recorrente apontou violação do artigo 632 do Código de Processo Civil de 1973 (art. 815 do CPC/2015), e da Súmula 410 do STJ. Sustentou, em síntese, a necessidade de intimação pessoal do devedor para o cumprimento da obrigação de fazer para fins de exigibilidade de astreinte. Dizendo da violação ao art. 85, § 2º, asseverou que a base de cálculo dos honorários deve ser a quantia em que o recorrido sucumbiu na impugnação ao cumprimento de sentença.
+Ausentes as contrarrazões, sobreveio juízo de admissibilidade do Tribunal de origem, que inadmitiu o recurso especial, às fls. 512/514 e-STJ, o que ensejou a interposição do presente agravo.
+É o relatório.
+Passo a decidir.
+A pretensão recursal não merece prosperar.
+Inicialmente, esclareço que em razão de o recurso ter sido interposto na vigência do Código de Processo Civil de 2015, o juízo de admissibilidade será realizado com base no regramento nele previsto, conforme Enunciado Administrativo nº. 3/STJ.
+Quanto ao pleito referente à violação à Súmula 410/STJ, faz-se mister salientar que, em sede de recurso especial, não cabe invocar ofensa à Súmula de Tribunal, haja vista não ser esta equiparada à lei federal (Súmula 518/STJ).
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE ILEGIBILIDADE DE CRÉDITO CUMULADA COM INDENIZAÇÃO POR DANO MORAL. 1. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL TIDO COMO VIOLADO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. 2. ALEGADA OFENSA DE ENUNCIADO DE SÚMULA. SÚMULA 518/STJ. 3. DIVERGÊNCIA JURISPRUDENCIAL. DANOS MORAIS. VALOR. IMPOSSIBILIDADE. 4. AGRAVO IMPROVIDO.
+1.  ..
+2. Não cabe a este Tribunal apreciar ofensa a súmula em recurso especial, uma vez que o enunciado de súmula não se insere no conceito de lei federal, previsto no art. 105, II, a, da Constituição Federal. Incide, ao caso, o óbice da Súmula 518 desta Corte.
+3.  ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1112497/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 09/11/2017, DJe 17/11/2017)
+Quanto ao cerne da controvérsia, qual seja, o conhecimento da recorrente sobre a antecipação de tutela e da pena de multa diária, restou consignado no acórdão combatido que:
+Sobre este mesmo tema, além da intimação do causídico ser suficiente para autorizar a incidência das astreintes, como visto, verifica-se que não há dúvidas, neste caso, do conhecimento da empresa agravante sobre a decisão judicial que concedeu antecipação de tutela, para obrigá-la a autorizar e fazer o custeio do procedimento médico em debate, sob pena de multa diária de R$ 1.000,00. Isso porque, como bem expõe em suas razões "a Agravante iniciou contatos com o Agravado logo após a prolação da sentença, para autorizar o procedimento" (fl. 6), ou seja, a recorrente admite que, mesmo sem ter sido pessoalmente intimada, tomou conhecimento da decisão proferida, iniciando contato com o agravado a fim de cumprir a obrigação imposta.
+Conforme conceituação legal, a intimação é o ato através do qual se dá ciência a alguém de atos e termos processuais (artigo 234 Código de Processo Civil de 1973). Desse modo, ainda que houvesse necessidade de intimação pessoal da ré, esta restou suprimida no momento em que a empresa agravante tomou conhecimento do teor da decisão, pois atingiu seu objetivo.(e-STJ fl. 424) (grifou-se)
+Estas conclusões não podem ser objeto de revisão por esta Corte Superior, por decorrência do enunciado 7/STJ, já que restritas à análise das provas coligidas no transcurso da lide.
+Por fim, no que tange aos honorários advocatícios, esta Corte tem entendimento consolidado de que os valores arbitrados pelas instâncias ordinárias somente podem ser revistos quando se mostrarem exorbitantes ou ínfimos, em clara afronta aos princípios da razoabilidade e da proporcionalidade, o que não ocorre na hipótese em exame, tendo em vista que os honorários, arbitrados em R$ 2.000,00, estão dentro dos limites percentuais previstos no § 3º do art. 20 do Código de Processo Civil, de mínimo de 10% e máximo de 20%. A verificação dos critérios utilizados pelo Tribunal de origem demandariam o reexame do conjunto fático-probatório dos autos, procedimento vedado pela Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. TELEFONIA. SERVIÇOS NÃO CONTRATADOS OU NÃO UTILIZADOS. COBRANÇA. REPETIÇÃO DE INDÉBITO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. LIQUIDAÇÃO DE SENTENÇA. NECESSIDADE. HONORÁRIOS ADVOCATÍCIOS. REEXAME DE MATÉRIA FÁTICA.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+2. Ressalvadas hipóteses de notória exorbitância ou de manifesta insignificância, os honorários advocatícios (CPC/1973, artigo 20) não se submetem a controle por via de recurso especial, o que demandaria reexame de matéria fática (Súmula 7/STJ). Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1125678/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 19/04/2018, DJe 24/04/2018)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
