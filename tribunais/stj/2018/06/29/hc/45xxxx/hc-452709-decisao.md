@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n.º 2072116-43.2018.8.26.0000).
+Segundo os autos, após representação ministerial, foi decretada a prisão preventiva do paciente pela prática, em tese, do delito de homicídio qualificado. Eis o teor do decisum (fls. 81/83):
+E a conduta descrita pelo agente revela intensa periculosidade e a população vive em constante pânico, agindo os autuados, como é comum acontecer, com frieza e atrevimento, exibindo personalidade criminógena na prática de delito que, hoje, mais do que nunca, intranquiliza a comunidade, nos grandes centros e, muitas vezes, nos pequenos, obrigada ela a se manter atrás das grades das casas ou dos edifícios, presas, na tentativa de atravessar o tempo imune às investidas de personalidades mal formadas.
+E o Poder Judiciário não pode ficar alheio à gravidade do problema de segurança que atormenta os moradores das cidades, sendo que o Juiz é, como deve ser, homem de seu tempo, atento à realidade dos fatos e ao momento que atravessa, e não se olvidar da importância de suas decisões na contenção da onda de violência que se vem alastrando e de maneira quase incontornável, alarmando a população e perturbando as famílias.
+Ademais, em liberdade, trará às testemunhas temor e constrangimento estando o agente em liberdade, ocasionando embaraços à colheita da prova oral, havendo diligências investigatórias pendentes de serem concluídas. Vale destacar que a vítima foi violentamente executada, alvejada por 07 (sete) projéteis, sem qualquer chance de defesa (fls. 23/27), e que o indiciado confessou a prática delitiva (fls. 38/39).
+Nesse quadro, seja por garantia da ordem pública, conveniência da instrução criminal e assegurar a aplicação da lei penal, está a aconselhar sua custódia cautelar.
+(..)
+Inconformada, a defesa impetrou prévio writ no Tribunal de origem, cuja ordem restou denegada, em aresto assim sumariado (fl. 17):
+Habeas Corpus - Paciente denunciado como incurso nos artigos 121, § 2.º, incisos III e IV, do Código Penal - Impetração visando o reconhecimento de constrangimento ilegal, com a consequente soltura do acusado - Alegada ausência de fundamentação na decisão de 1.º grau e excesso de prazo - Inocorrência - Decisão bem fundamentada e dentro dos limites legais - Constrangimento ilegal inexistente - Ordem denegada.
+No presente mandamus, alega o impetrante, em suma, a ausência de fundamentação idônea a amparar a prisão preventiva, não estando preenchidos os requisitos do art. 312 do Código de Processo Penal.
+Destaca bons predicados pessoais do paciente, em especial a primariedade.
+Invoca o princípio da presunção de inocência.
+Menciona a aplicabilidade de cautelares alternativas.
+Ao final, pede a expedição de alvará de soltura em favor do paciente.
+Indeferida a liminar e prestadas informações, o Ministério Público Federal manifestou-se às fls. 175/177.
+É o relatório.
+Decido.
+O writ está prejudicado.
+Informações colhidas do sítio eletrônico do Tribunal de origem noticiam que sobreveio decisum de pronúncia, oportunidade em que foi mantido o encarceramento preventivo do paciente, o que conduz à prejudicialidade do feito. Nesse sentido:
+PROCESSUAL PENAL E PENAL. AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. SENTENÇA DE PRONÚNCIA. NOVO TÍTULO PRISIONAL. PERDA DO OBJETO. DECRETO DE PRISÃO PREVENTIVA SUPERADO. WRIT PREJUDICADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. É de ser considerada como novo título a embasar a custódia cautelar a sentença de pronúncia superveniente, em que foram avaliadas todas as circunstâncias do evento criminoso e as condições pessoais do réu, julgando-se necessária a manutenção da prisão preventiva, sendo prescindível a utilização de fundamentos diversos para aplicação da prejudicialidade ao objeto do recurso.
+2. Agravo regimental improvido.
+(AgRg no RHC 79.612/CE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/08/2017, DJe 29/08/2017)
+AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO E EVASÃO DO LOCAL DO ACIDENTE. FALTA DE PEÇAS INDISPENSÁVEIS À VERIFICAÇÃO DA VEROSSIMILHANÇA DAS ALEGAÇÕES, ATÉ PARA EVENTUAL CONCESSÃO DE ORDEM DE OFÍCIO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. SUPERVENIÊNCIA DE DECISÃO DE PRONÚNCIA. DEBATE DOS FUNDAMENTOS DA MANUTENÇÃO DA CUSTÓDIA PELO TRIBUNAL ESTADUAL. AUSÊNCIA. PERDA DO OBJETO. CONHECIMENTO DO RECURSO ORDINÁRIO. IMPOSSIBILIDADE.
+1. O feito se encontra deficientemente instruído, faltando cópia da denúncia, acórdão que denegou a primeira ordem de habeas corpus ajuizada em favor do agravante e decreto de prisão preventiva, peças indispensáveis para verificar a verossimilhança das alegações, em especial, para eventual concessão de ordem de ofício, pois dos autos não é possível verificar se o Tribunal debateu satisfatoriamente todas as questões levantadas no writ.
+2. Evidenciada a superveniência de decisão de pronúncia, mantendo a segregação cautelar do agravante, cujos fundamentos não foram objeto de debate pelo Tribunal estadual, mostra-se prejudicado o pedido de revogação da custódia.
+3. Agravo regimental improvido.
+(AgRg no RHC 83.775/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 06/06/2017, DJe 13/06/2017)
+Não é outro o entendimento do Supremo Tribunal Federal, retratado no Informativo de Jurisprudência n.º 725, verbis:
+É causa de prejudicialidade de habeas corpus a superveniência de novo título judicial que mantém a prisão cautelar do paciente com base nos mesmos fundamentos expostos em decreto de prisão anterior. Com essa conclusão, a 1ª Turma, por maioria, não conheceu de habeas corpus impetrado contra decisão que assentara o prejuízo do writ. De início, em votação majoritária, indeferiu-se pedido de sustentação oral de estagiário do curso de Direito. Assinalou-se que o estatuto da OAB estabeleceria que o referido ato seria privativo de advogado. Além disso, referiu-se ao que disposto no RISTF ("Art. 124. As sessões serão públicas, salvo quando este Regimento determinar que sejam secretas, ou assim o deliberar o Plenário ou a Turma. Parágrafo único. Os advogados ocuparão a tribuna para formularem requerimento, produzirem sustentação oral, ou responderem às perguntas que lhes forem feitas pelos Ministros"). O Ministro Marco Aurélio complementou que não se viabilizaria o acesso à tribuna quer pelo estagiário, quer pelo cidadão comum. No ponto, vencido o Ministro Dias Toffoli, relator, que admitia a sustentação. Enfatizava que qualquer cidadão poderia impetrar habeas corpus. No mérito, o Colegiado reputou estar prejudicado o writ pela superveniência da sentença. Vencidos o relator e o Ministro Marco Aurélio, que concediam a ordem para que a Corte a quo enfrentasse o mérito da impetração. (HC 118317/SP, rel. orig. Min. Dias Toffoli, red. p/ o acórdão Min. Roberto Barroso, 22.10.2013).
+Em razão da nova realidade fático-processual, forçoso reconhecer que o objeto do presente mandamus encontra-se esvaído, nada mais havendo aqui a decidir.
+Diante do exposto, com fundamento no art. 659 do Código de Processo Penal, e no art. 34, XI e XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Sem recurso, ao arquivo.
