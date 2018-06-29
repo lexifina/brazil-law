@@ -1,0 +1,34 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. CESSÃO FIDUCIÁRIA. CREDOR TITULAR DE POSIÇÃO DE PROPRIETÁRIO FIDUCIÁRIO SOBRE DIREITOS CREDITÍCIOS. NÃO SUJEIÇÃO AOS EFEITOS DA RECUPERAÇÃO JUDICIAL, NOS TERMOS DO § 3º DO ART. 49 DA LEI Nº. 11.101/2005. DESNECESSIDADE DE REGISTRO NO CARTÓRIO DE TÍTULOS E DOCUMENTOS DO DOMICÍLIO DO DEVEDOR PARA OPOSIÇÃO CONTRA O DEVEDOR. PRECEDENTE. RECURSO ESPECIAL PROVIDO
+DECISÃO
+Da acurada análise do agravo de instrumento pode-se depreender que BANCO INTERCAP S.A. (BANCO INTERCAP) na ação de recuperação judicial pleiteada por [NOME] [NOME] S.A. e outros ([NOME] e outros) apresentou impugnação à submissão de seu crédito à disciplina concursal, pleiteando a incidência do art. 49, § 3º e 4º, da Lei nº11.101/2005
+Em primeiro grau, a impugnação foi julgada improcedente.
+Contra essa decisão, BANCO INTERCAP interpôs agravo de instrumento afirmando que seu crédito não se sujeita à recuperação porque garantidos por cessão e alienação fiduciárias, sendo desnecessário o registro da constituição das garantias em cartório.
+O Tribunal de origem negou provimento ao recurso em acórdão, assim ementado:
+Agravo de instrumento. Recuperação judicial. Impugnação de crédito. Rejeição. Decisão mantida. Alienação fiduciária que deve ser registrada antes do ajuizamento da demanda e em Registro de Títulos e Documentos do domicílio do devedor. Recurso desprovido (e-STJ, fl. 1.301).
+Os embargos de declaração opostos pelo BANCO INTERCAP foram rejeitados (e-STJ, fls. 1.321/1.323).
+Irresignado, o BANCO INTERCAP interpôs recurso especial com fulcro no art. 105, III, a e c, da CF, sustentando a violação do art. 49, § 3º e 4º, da Lei nº 11.101/2005 e a existência de dissídio jurisprudencial quanto à desnecessidade de registro das cédulas de crédito bancário e a não submissão do seu crédito à recuperação judicial.
+Houve contrarrazões (e-STJ, fls. 1.381/1.387).
+O Ministério Público opinou pelo provimento do apelo nobre (e-STJ, fls. 1.426/1.430).
+É o relatório.
+DECIDO.
+O inconformismo merece prosperar.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC
+Da violação ao art. 49, § 3º, da Lei nº 11.101/2005
+BANCO INTERCAP sustentou a violação do art. 49, § 3º e 4º, da Lei nº 11.101/2005 e a existência de dissídio jurisprudencial quanto à desnecessidade de registro das cédulas de crédito bancário e a não submissão do seu crédito à recuperação judicial.
+O Tribunal de origem consignou que o registro é elemento constitutivo da garantia fiduciária, fazendo-o nos seguintes termos:
+É que o agravante não nega a ausência de registro dos instrumentos de constituição das garantias antes do ajuizamento do pedido de recuperação judicial em Registro de Títulos e Documentos do domicílio do devedor. Assim, não foi cumprida a determinações contidas no art. 1.361, §1º, do Código Civil. Trata-se de requisito necessário à constituição da propriedade fiduciária e à sua oponibilidade a terceiros  .. .
+Nessa hipótese, "Ante a clareza da lei, a jurisprudência é dominante ou mesmo já pacificada, no sentido que se não houver tal registro, não há propriedade fiduciária e portanto, o financiador é credor quirografário" (cf. Manoel Justino Bezerra Filho, "Lei de Recuperação de Empresas e Falência, RT, 11a ed., 2016, p. 166)  ..  (e-STJ, fls. 1.301/1.302).
+Assim o fazendo o acórdão recorrido encontra-se em dissonância com o entendimento desta Corte quanto à desnecessidade de registro do contrato já que a propriedade fiduciária encontra-se devidamente constituída a partir de sua contratação, afigurando-se absolutamente válida e eficaz entre as partes.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CESSÃO DE DIREITOS CREDITÓRIOS. CREDOR TITULAR DE POSIÇÃO DE PROPRIETÁRIO FIDUCIÁRIO SOBRE DIREITOS CREDITÍCIOS. NÃO SUJEIÇÃO AOS EFEITOS DA RECUPERAÇÃO JUDICIAL, NOS TERMOS DO § 3º DO ART. 49 DA LEI N. 11.101/2005. MATÉRIA PACÍFICA NO ÂMBITO DAS TURMAS DE DIREITO PRIVADO DO STJ. PRETENSÃO DE SUBMETER AOS EFEITOS DA RECUPERAÇÃO JUDICIAL, COMO CRÉDITO QUIROGRAFÁRIO, OS CONTRATOS DE CESSÃO FIDUCIÁRIA QUE, À ÉPOCA DO PEDIDO DE RECUPERAÇÃO JUDICIAL, NÃO SE ENCONTRAVAM REGISTRADOS NO CARTÓRIO DE TÍTULOS E DOCUMENTOS DO DOMICÍLIO DO DEVEDOR, COM ESTEIO NO § 1º DO ART. 1.361-A DO CÓDIGO CIVIL. INSUBSISTÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. O STJ entende que não se submetem aos efeitos da recuperação judicial do devedor os direitos de crédito cedidos fiduciariamente por ele em garantia de obrigação representada por Cédula de Crédito Bancário existentes na data do pedido de recuperação, independentemente de a cessão ter ou não sido inscrita no registro de títulos e documentos do domicílio do devedor.
+2. A exigência de registro, para efeito de constituição da propriedade fiduciária, não se faz presente no tratamento legal ofertado pela Lei n. 4.728/1995, em seu art. 66-B (introduzido pela Lei n. 10.931/2004) à cessão fiduciária de direitos sobre coisas móveis, bem como de títulos de crédito (bens incorpóreos e fungíveis, por excelência), tampouco com ela se coaduna. A constituição da propriedade fiduciária, oriunda de cessão fiduciária de direitos sobre coisas móveis e de títulos de crédito, dá-se a partir da própria contratação, afigurando-se, desde então, plenamente válida e eficaz entre as partes. A consecução do registro do contrato, no tocante à garantia ali inserta, afigura-se relevante, quando muito, para produzir efeitos em relação a terceiros, dando-lhes a correlata publicidade.
+3. Questão que não tenha sido detidamente apreciada na instância estadual não pode ser analisada nesta Corte Superior, por ausência de prequestionamento.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1.009.521/AL, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 21/11/2017, DJe 29/11/2017)
+Portanto, o acórdão recorrido merece ser reformado.
+Nessa condições, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO para, nos termos da fundamentação retro, determinar que os créditos representados pelas cédulas de crédito objeto do agravo não sejam submetidos à recuperação judicial, nos termos do art. 49, § 3º, da Lei nº 11.101/2005.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intime-se
