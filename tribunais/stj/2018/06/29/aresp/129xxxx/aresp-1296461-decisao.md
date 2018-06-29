@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que, sob argumento de incidência da Súmula n. 83 do STJ, negou seguimento ao recurso especial.
+A decisão colegiada recorrida apresenta a seguinte ementa (e-STJ fl. 364):
+APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER - PLANO DE SAÚDE - REALIZAÇÃO DE CIRURGIA - DOENÇA GRAVE - CUSTEIO PELO PLANO DE SAÚDE - NECESSIDADE - NEGATIVA INDEVIDA DO TRATAMENTO - PEDIDO PROCEDENTE - HONORÁRIOS ADVOCATÍCIOS - CRITÉRIOS.
+- O plano de saúde não pode se recusar a custear o tratamento ou a realização de cirurgia prescrito pelo médico, pois cabe a este definir qual é o melhor exame para diagnosticar a doença e efetivo tratamento a ser adotado para o paciente, então segurado.
+- Em se tratando de obrigação de fazer, não se sabendo o valor exato da obrigação, deve este ser considerado inestimável, devendo os honorários advocatícios ser fixados em quantia razoável, consoante apreciação equitativa do magistrado (art. 85, § 8º do novo CPC), observados os critérios estabelecidos nas alíneas do § 2o do art. 85 do novo CPC.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 395/400).
+Sobreveio o recurso especial (e-STJ fls. 404/415), fundado no art. 105, III, "a", da CF, no qual a recorrente sustentou violação do arts. 10, I, da Lei n. 9.656/1998 e 54, § 4º, do CDC, argumentando, em síntese, que não causou dano moral a ser indenizado, pois a negativa de cobertura teria sido lícita.
+No agravo (e-STJ fls. 437/441), afirma a presença dos requisitos de admissibilidade do recurso especial.
+É o relatório.
+Decido.
+Ao declarar que houve dano moral a ser indenizado, o Tribunal de origem considerou indevida a recusa de cobertura pela empresa de saúde, que não pode negar custeio de tratamento necessário, recomendado por médico especialista, a moléstia atendida pelo contrato.
+O entendimento do Tribunal a quo também está em conformidade com a jurisprudência do STJ, ao concluir pela existência de danos morais, decorrentes da negativa ilícita de cobertura pela operadora de plano de saúde. Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. 1. SERVIÇO DE HOME CARE PRESCRITO PELO MÉDICO DO BENEFICIÁRIO. RECUSA INDEVIDA À COBERTURA. DANO MORAL CONFIGURADO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. 2. MONTANTE INDENIZATÓRIO. PLEITO DE REDUÇÃO. NÃO DEMONSTRADA A ABUSIVIDADE NO VALOR FIXADO NAS INSTÂNCIAS ORDINÁRIAS. SÚMULA 7/STJ. 3. AGRAVO INTERNO DESPROVIDO. 1. A jurisprudência do STJ é iterativa no sentido de configurar dano moral indenizável a recusa injustificada pela operadora de plano de saúde à cobertura de despesas com serviço de internação domiciliar (home care) prescrito pelo médico ao beneficiário.
+2. "A intervenção desta egrégia Corte para alterar os valores fixados pelas instâncias ordinárias a título de reparação por danos morais somente se justifica nas hipóteses em que estes se mostrem ínfimos ou exorbitantes, não sendo este o caso dos autos" (AgRg na Rcl n. 4.847/SE, Rel. Ministro Raul Araújo, Segunda Seção, DJe 17/2/2011). No caso, o montante indenizatório de danos morais arbitrado na instância ordinária (R$ 10.000,00 - dez mil reais), em decorrência da recusa indevida ao fornecimento do serviço de home care prescrito pelo médico, revela-se adequado e proporcional. Por conseguinte, alterar esse valor atrai o óbice da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.059.299/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 13/6/2017, DJe 22/6/2017.)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - PLANO DE SAÚDE - RECUSA INDEVIDA DE CUSTEIO DE TRATAMENTO DE URGÊNCIA EM UNIDADE DE TERAPIA INTENSIVA (HOME CARE) - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DA RÉ.
+1. Inviável o exame do pleito relativo à redução do valor arbitrado a título de danos morais, o qual não fora alegado no recurso especial, mas apenas neste agravo interno, restando caracterizada a inovação recursal. 2. A jurisprudência do STJ é no sentido de que a recusa indevida/injustificada, pela operadora de plano de saúde, em autorizar a cobertura financeira de tratamento médico de urgência, tal como no presente caso, a que esteja legal ou contratualmente obrigada, enseja reparação a título de dano moral, por agravar a situação de aflição psicológica e de angústia no espírito do beneficiário.
+3. Agravo interno desprovido.
+(AgInt no AREsp 967.348/DF, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 6/4/2017, DJe 18/4/2017.)
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo. Deferida a Gratuidade da Justiça, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
