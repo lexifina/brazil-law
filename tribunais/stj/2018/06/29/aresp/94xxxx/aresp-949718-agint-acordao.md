@@ -1,0 +1,52 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. NÃO CONHECIMENTO. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ. RECURSO NÃO PROVIDO.
+1. A ausência de impugnação específica, na petição de agravo, da integralidade dos fundamentos da decisão que não admite o recurso especial, impossibilita o conhecimento do recurso, nos termos do art. 932, III, do CPC/2015 e da Súmula 182/STJ. Precedente da Corte Especial: "II - Descumpre o art. 1.021, § 1º, do CPC e a Súmula nº 182 do STJ, o agravo interno que não impugna integralmente os fundamentos da decisão agravada. III - A teor do enunciado contido na Súmula n. 182 do STJ, é inviável o agravo que deixa de atacar especificamente os fundamentos da decisão agravada. Precedentes." (AgInt nos EAREsp 1040547/SP, Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, julgado em 19/12/2017, DJe 06/02/2018).
+2. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti e Marco Buzzi (Presidente) votaram com o Sr. Ministro Relator. Impedido o Sr. Ministro Antonio Carlos Ferreira. Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+RELATÓRIO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (Relator):
+Trata-se de agravo interno interposto por [NOME] contra decisão monocrática que não conheceu do agravo em recurso especial.
+Fundamentou-se a decisão monocrática na constatação de que o agravante não impugnou integralmente os fundamentos da decisão agravada.
+A agravante, em suas razões recursais, sustenta, em síntese, que: (a) a incompetência absoluta é matéria de ordem pública, podendo ser alegada em qualquer tempo e grau de jurisdição, (b) ainda que assim não fosse, a decisão recorrida deveria ter conhecido ao menos em parte o agravo em recurso especial, e (c) não pretende a reapreciação das provas, mas sua revaloração, não sendo aplicáveis as Súmulas 5 e 7/STJ .
+Impugnação às fls. e-STJ 974/977, pela manutenção da decisão agravada, majoração dos honorários advocatícios e multa.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (Relator):
+Não merece provimento o agravo interno.
+Como bem apontado na decisão monocrática agravada, o agravo previsto no art. 1.042 do Código de Processo Civil tem por objetivo o processamento do recurso especial inadmitido pela Corte de origem. Para se viabilizar o seu conhecimento, é necessário, assim, que o agravante impugne, especificadamente, a integralidade dos fundamentos da decisão agravada.
+In casu, a agravante não rebateu, como lhe competia, o fundamento consistente na dissociação entre a decisão recorrida e as razões recursais, exarado nos seguintes termos pelo Tribunal a quo:
+"Com relação à competência para julgamento do feito, se da Justiça Federal ou Estadual, o recurso não merece prosseguir, porquanto as razões do inconformismo revelam-se dissociadas dos fundamentos do ato judicial ora impugnado.
+De fato, o acórdão da Turma negou provimento à apelação, não apreciando a questão relativa à ilegitimidade passiva da Caixa Econômica Federal e a competência da Justiça Federal para processo e julgamento do feito.
+Registra o voto condutor do acórdão, que "a questão relativa à competência para o julgamento o feito já foi decidida por esta Turma nos autos do agravo de instrumento nº 5024648-19.2014.4.04.0000/PR, interposto pela parte autora anteriormente ao desmembramento do feito originário. Bem por isso, se mostra descabida a renovação da análise nos presentes autos." (evento 5).
+Nesse sentido é o entendimento do E. Superior Tribunal de Justiça:
+(..)
+Assim, neste quesito, não merece trânsito o recurso."
+(e-STJ, fls. 922/923)
+Destaque-se que, nas razões do agravo, os agravantes impugnaram não os fundamentos da decisão de inadmissibilidade do recurso especial (dissociação entre a decisão recorrida e as razões recursais), mas sim, de forma extemporânea, o acórdão recorrido, na parte em que não conheceu da matéria relativa à competência, por entender que já resolvida anteriormente.
+Incide, na hipótese, a previsão contida no art. 932, III, do Código de Processo Civil, segundo a qual incumbe ao relator não conhecer de recurso que não tenha impugnado integralmente os fundamentos da decisão recorrida e, ainda, por analogia, o princípio cristalizado na Súmula 182 do Superior Tribunal de Justiça, que reputa inviável o agravo do art. 1.042 do Código de Processo Civil (art. 545 do CPC/1973) que deixa de atacar especificamente os fundamentos da decisão agravada.
+Nesse sentido, recente decisão proferida pela Corte Especial deste Sodalício, no AgInt nos EAREsp nº 1040547/SP. Confira-se:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ARESTOS EM CONFRONTO. AGRAVO INTERNO NÃO PROVIDO.
+I - Trata-se de agravo interno interposto contra decisão monocrática de indeferimento liminar dos embargos de divergência, diante da ausência de similitude fática entre o acórdão embargado e o julgado paradigma e incidência da súmula 168 do STJ.
+II - Descumpre o art. 1.021, § 1º, do CPC e a Súmula nº 182 do STJ, o agravo interno que não impugna integralmente os fundamentos da decisão agravada.
+III - A teor do enunciado contido na Súmula n. 182 do STJ, é inviável o agravo que deixa de atacar especificamente os fundamentos da decisão agravada. Precedentes.
+IV - A ausência de similitude fática impede o comparativo entre acórdão embargado e paradigma de modo a obstar a configuração do dissídio jurisprudencial supostamente alegado pela parte.
+Agravo Interno não provido.
+(AgInt nos EAREsp 1040547/SP, Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, julgado em 19/12/2017, DJe 06/02/2018)
+Na mesma direção, dentre outros, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO APELO NOBRE PROFERIDA PELA CORTE DE ORIGEM. NÃO CONHECIMENTO DO RECLAMO. AGRAVO IMPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo em recurso especial devem infirmar os fundamentos da decisão de inadmissibilidade do apelo nobre, proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do artigo 932, III, do CPC/2015 (artigo 544, § 4º, I, do CPC/1973).
+2. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação dos agravantes ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese ora examinada.
+3. Conforme entendimento desta Corte: "A interposição de recursos cabíveis não  implica  em litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo" (AgRg nos EDcl no REsp n. 1.333.425/SP, Relatora a Ministra Nancy Andrighi, DJe 4/12/2012). 4. Agravo interno improvido."
+(AgInt no AREsp 993.261/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/08/2017, DJe 30/08/2017 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. CONFIRMAÇÃO DA INCIDÊNCIA DA SÚMULA 182/STJ. RECURSO NÃO PROVIDO.
+1. Na hipótese em exame, aplica-se o Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+2. A decisão monocrática ora agravada foi no sentido de não conhecer do agravo em recurso especial em observância ao previsto nos arts. 544, § 4º, I, do CPC/73, c/c 21-E, V, e 253, parágrafo único, do RISTJ, que permitem ao relator não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão que inadmitiu o recurso especial, como na hipótese, não havendo falar, pois, em nulidade.
+3. A ausência de impugnação específica, na petição de agravo em recurso especial, dos fundamentos da decisão que não admite o apelo especial atrai a incidência do óbice previsto na Súmula 182 do Superior Tribunal de Justiça.
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1027558/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/03/2017, DJe 18/04/2017 - grifou-se)
+Por fim, não merecem ser acolhidos os pedidos formulados em impugnação do presente agravo interno quanto à incidência de multa e honorários recursais.
+Em primeiro lugar, porque, na linha do entendimento firmado pela Segunda Seção no julgamento do AgInt nos EREsp 1.120.356/RS, "a aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória". Contudo, o presente agravo interno não apresenta tais características.
+Em segundo lugar, a Segunda Seção desta Corte de Justiça concluiu não ser cabível o arbitramento de honorários advocatícios recursais em razão da interposição de agravo interno, conforme decidido no AgInt nos EREsp 1.539.725/DF, na sessão de 9 de agosto de 2017. No mesmo sentido: EDcl no AgInt no REsp 1.573.573/RJ, Terceira Turma, Rel. Min. Marco Aurélio Bellizze, DJe de 8/5/2017.
+Pelo exposto, nega-se provimento ao agravo interno.
+É como voto.
