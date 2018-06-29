@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] contra decisão proferida por esta relatoria que, às e-STJ fls. 200/202, indeferiu liminarmente o presente habeas corpus sob os seguintes termos:
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Ceará.
+Consta dos autos que, comunicado acerca do flagrante, o Juízo singular converteu a prisão de Francisco em preventiva, pela suposta prática dos crimes de tráfico e de associação para o tráfico, por ter sido encontrado, no interior de imóvel em que se estava o paciente, 2,350kg (dois quilos e trezentos e cinquenta gramas) de cocaína (e-STJ fls. 17/19).
+Na presente impetração (e-STJ fls. 1/16), afirma a defesa que o paciente desconhece a origem da droga e que não sabia que havia droga no interior do imóvel.
+Sustenta haver um pedido de relaxamento de prisão na origem que ainda não foi analisado. Aduz, também, que impetrou habeas corpus no Tribunal local em 3/4/2018, em que se indeferiu a liminar, e ainda não foram prestadas as informações, pendente, dessa forma, a apreciação do mérito.
+Alega que o réu já está preso há mais de 10 meses, "sem ter sido iniciada a instrução processual, sem perspectiva de quando ocorrerá o término da formação da culpa, certamente constituem motivos jurídicos autorizadores, fumus boni iuris, para a concessão do jus libertatis, vale destacar, com comportamento prisional exemplar até aqui, sem faltas" (e-STJ fls. 14).
+Diante disso, requer, liminarmente e no mérito, a liberdade, do paciente, com a expedição do competente alvará de soltura.
+É, em síntese, o relatório.
+Não obstante as razões constantes da petição inicial, o impetrante não juntou aos autos a cópia da decisão impugnada.
+Ressalte-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a defesa demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Nesse sentido, segue a jurisprudência desta Corte:
+AGRAVO REGIMENTAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA MANTIDA EM PRONÚNCIA. INSTRUÇÃO DEFICIENTE. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma (Súmula n.º 182 desta Corte).
+2. Cabe ao impetrante o escorreito aparelhamento do habeas corpus, bem como do recurso ordinário dele originado, indicando, por meio de prova pré-constituída, o constrangimento ilegal alegado.
+3. É inviável divisar, de forma meridiana, a alegação de constrangimento, diante da instrução deficiente dos autos, no qual se deixou de coligir cópia da decisão que decretou a prisão preventiva do acusado, documento imprescindível à plena compreensão dos fatos aduzidos no presente recurso.
+4. Agravo regimental desprovido. (AgRg no RHC 48.939/MG, Rel. Min. Maria Thereza de Assis Moura, Sexta Turma, DJe 23/4/2015, grifei.)
+PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. DEFICIÊNCIA NA INSTRUÇÃO QUE IMPOSSIBILITA A ANÁLISE DO PEDIDO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É possível receber o pedido de reconsideração como agravo regimental, dada a identidade do prazo recursal e a inexistência de erro grosseiro.
+2. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+3. Ausente cópia da decisão que decretou a prisão preventiva do acusado, a cujos fundamentos o juiz sentenciante remete para negar ao réu o direito de recorrer em liberdade, mostra-se inviável o exame do alegado constrangimento ilegal.
+4. Pedido de reconsideração recebido como agravo regimental, não provido. (RCD no RHC-54.626/SP, Rel. Min. Rogério Schietti Cruz, Sexta Turma, DJe 2/3/2015, grifei.)
+Assim, diante da ausência de prova pré-constituída das alegações, torna-se impossível analisar o suposto constrangimento ilegal.
+Ante o exposto, com base no art. 210 do Regimento Interno do STJ, indefiro liminarmente o presente habeas corpus.
+Nos presentes embargos, aduz a defesa a existência de omissão na decisão embargada, sustentando que (e-STJ fls. 208/209):
+A decisão deveria analisar todas as questões de fato e de direito ora apresentadas; deveria dar solução às questões que lhe foram trazidas pelos impetrantes, se deixar de analisar apenas um ponto sequer caberá à oposição de embargos de declaração.
+Diante dos fatos acima indicados, demonstra-se que a decisão ora embargada é evidentemente omissa, de forma a ensejar a oposição dos presentes embargos de declaração, na forma do Art. 263, II do Regimento Interno do E. Superior Tribunal de Justiça, e art. 619 e 620 do Diploma processual Penal.
+A omissão do acórdão refere-se às questões suscitadas pelos impetrantes, que não foram apreciadas na decisão embargada, tendo em vista que, a decisão indeferiu liminarmente o presente habeas corpus por entender não existir prova pré-constituída, ou seja, pela falta da decisão impugnada. Muito embora, estivesse presente nos autos a decisão impugnada nas Fl.17 (e-STJ).
+Na verdade o que se pretende, é o reconhecimento do constrangimento ilegal devido o excesso na formação da culpa, referente à situação fático/processual exposta, que demonstra que embargante encontra-se preso há 10 (dez) meses, sem inicio da instrução processual, sem previsão ou perspectiva de quando será concluída a fase de formação da culpa, extrapolando toda a razoabilidade possível e imaginária.
+Pleiteia o provimento dos embargos de declaração com a modificação da decisão e " a  concessão da ordem LIMINARMENTE em habeas corpus diante do flagrante constrangimento ilegal pelo excesso do prazo na formação da culpa, expedindo o competente alvará de soltura, colocando em liberdade [NOME]" (e-STJ fl. 793).
+É o relatório.
+Os embargos de declaração não merecem prosperar.
+Com efeito, os embargos de declaração, consoante disposição do art. 619 do Código de Processo Penal, destinam-se a sanar possível ambiguidade, obscuridade, contradição e/ou omissão nas razões delineadas no corpo da decisão, em face das pretensões deduzidas e demais elementos constantes do processo.
+Não é o caso dos autos.
+Embora afirme o embargante ter trazido a peça faltante às e-STJ fls. 17/19, verifico que a peça acostada nessas páginas se refere ao decreto de prisão preventiva e não à decisão impugnada neste writ, no caso a decisão liminar proferida pelo Tribunal local.
+Assim, sem a respectiva cópia da decisão que indeferiu a liminar, tornou-se inviável a exata compreensão da controvérsia, não obstante os argumentos apresentados na inicial do writ.
+Daí não se vislumbrar, na decisão ora embargada, nenhuma omissão ou obscuridade apta a ensejar o acolhimento dos presentes aclaratórios.
+Vale ressaltar que a jurisprudência desta Corte é firme na compreensão de que o rito célere do habeas corpus demanda prova documental pré-constituída do direito alegado pelo impetrante, devendo-se demonstrar, de maneira inequívoca, a existência de constrangimento ilegal imposto ao paciente, não sendo admitida dilação probatória.
+Sobre o tema, são inúmeros os precedentes deste Tribunal Superior. Além daqueles transcritos na decisão embargada, confiram-se, como exemplo, os seguintes julgados:
+EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. DEFICIÊNCIA NA INSTRUÇÃO QUE IMPOSSIBILITA A ANÁLISE DO PEDIDO. DECISÃO MANTIDA. EMBARGOS DE DECLARAÇÃO REJEITOS.
+1. Ação constitucional de natureza mandamental, o recurso em habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+2. Não instruído o recurso com a decisão em que homologados os novos cálculos de execução da pena e alterada a data-base, mostra-se inviável o exame do sustentado constrangimento ilegal.
+3. Embargos de declaração rejeitados. (EDcl no RHC 37.529/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 18/6/2015, DJe 01/07/2015.)
+AGRAVO REGIMENTAL. HABEAS CORPUS. PETIÇÃO INICIAL. AUSÊNCIA DE INSTRUÇÃO COM DOCUMENTOS ESSENCIAIS À ANÁLISE DAS ALEGAÇÕES. AÇÃO DE NATUREZA MANDAMENTAL QUE EXIGE PROVA PRÉ-CONSTITUÍDA. ÔNUS QUE COMPETE AO IMPETRANTE. PERDA DOS DIAS REMIDOS. LEI N. 12.433/2011. NORMA POSTERIOR MAIS BENÉFICA. LIMITE DE 1/3 DOS DIAS REMIDOS.
+1. Deve ser mantida por seus próprios fundamentos a decisão que, ante a documentação insuficiente trazida à colação, indefere liminarmente a petição inicial, quando verificado que o agravo regimental não veio acompanhado do documento indicado como faltante na decisão agravada.
+2. A ausência de cópia da decisão de primeiro grau nos autos inviabiliza a este Superior Tribunal saber quantos dias remidos efetivamente foram revogados pelo Juízo das Execuções Criminais, uma vez que a nova redação dada pela Lei n. 12.433/2011 ao art. 127 da Lei de Execução Penal limita a revogação por falta disciplinar a até 1/3 dos dias remidos pelo apenado.
+3. Agravo regimental improvido. (AgRg no HC 265.298/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 19/3/2013, DJe 10/04/2013.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. NULIDADE DE DEPOIMENTOS COLHIDOS NO CURSO DO INQUÉRITO POLICIAL. NÃO CONHECIMENTO DO WRIT. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. ÔNUS DO IMPETRANTE. RECURSO DESPROVIDO.
+1. O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio  de  documentos que evidenciem a pretensão aduzida, a existência do aventado constrangimento ilegal suportado pelo acusado, ônus do qual não se desincumbiu a defesa, o que impediu esta Corte Superior de Justiça de analisar as teses nele expostas.
+2. É ônus do impetrante, especialmente quando se trata de profissional da advocacia, instruir corretamente o habeas corpus com toda documentação necessária à apreciação das alegações nele formuladas no momento da sua apresentação, não se admitindo a posterior juntada de documentos imprescindíveis à análise do pedido e que não foram anexados tempestivamente pela defesa. Precedentes.
+3. Agravo regimental desprovido. (AgRg nos EDcl no HC 322.670/PE, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 5/11/2015, DJe 13/11/2015.)
+Ante tais considerações, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
