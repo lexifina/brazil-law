@@ -1,0 +1,15 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da 6ª Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “APELAÇÃO CÍVEL – ADMINISTRATIVO – PRELIMINAR DE NULIDADE DE SENTENÇA POR AUSÊNCIA DE FUNDAMENTAÇÃO – NÃO CONFIGURADA – SERVIDOR PÚBLICO MUNICIPAL – APOSENTADORIA COMPULSÓRIA – SERVIÇOS PRESTADOS APÓS OS 70 ANOS DE IDADE – INATIVIDADE AUTOMÁTICA NÃO CONCEDIDA PELA ADMINISTRAÇÃO – DESCONTO DA REMUNERAÇÃO AUFERIDA POSTERIORMENTE À IDADE LIMITE – IMPOSSIBILIDADE. Ainda que o apelante entenda como deficiente de fundamentação a sentença, não torna nulo o julgado quando os motivos do convencimento do julgador restaram consignados de forma clara, como é o caso dos autos. Não há que se cogitar da nulidade da sentença por ausência de elementos essenciais, tampouco por cerceamento de defesa, porquanto o próprio apelante pugnou pelo julgamento antecipado da lide, não requerendo a produção de outras provas. Considerando que o art. 40, §1º, inciso II, da Constituição Federal, prevê a compulsoriedade da aposentadoria do servidor público aos 70 (setenta) anos de idade, com proventos proporcionais ao tempo de contribuição, sendo dever da Administração Pública afastá-lo de forma automática e compulsória quando do implemento da idade-limite, não tendo o ente municipal cumprido com sua obrigação, eis que o servidor público permaneceu exercendo suas funções após completar a idade limite, revela-se indevido o desconto de sua remuneração referente ao período posterior à referida idade, razão pela qual a manutenção da sentença que julgou procedente o pedido inicial é medida que se impõe.”
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação dos artigos 37, caput, e 40 da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, haja vista que o Plenário desta Corte, em sessão realizada por meio eletrônico, no exame do RE nº 584.186/MS, Relator o Ministro Menezes Direito, concluiu pela ausência da repercussão geral da matéria constitucional versada nesse feito. A manifestação do relator está assim ementada:
+    “ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. EVENTUAL DEMORA, EXCESSIVA E INJUSTIFICADA, NA CONCESSÃO DE APOSENTADORIA DE SERVIDOR PÚBLICO. INDENIZAÇÃO PELO PERÍODO TRABALHADO APÓS EXPIRADO O PRAZO CONSIDERADO RAZOÁVEL PELO TRIBUNAL DE ORIGEM PARA APRECIAÇÃO DO PEDIDO DE APOSENTADORIA. AUSÊNCIA DE REPERCUSSÃO GERAL”.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso. Determino que, a título de honorários recursais, a verba honorária já fixada seja acrescida do valor equivalente a 10% (dez por cento) do seu total, nos termos do art. 85, § 11, do novo Código de Processo Civil, obedecidos os limites dos §§ 2º e 3º do citado artigo.
+    Publique-se.
+    Brasília, 29 de junho de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
