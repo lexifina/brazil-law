@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto pelo IPREV - DF e DISTRITO FEDERAL contra decisão do Tribunal de Justiça do Distrito Federal e dos Territórios, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 69):
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. TÍTULO JUDICIAL. CONCESSÃO DE PENSÃO POR MORTE. PAGAMENTO A PARTIR DA DATA DO ÓBITO. PREVISÃO LEGAL. CORREÇÃO DE INEXATIDÃO MATERIAL NA SENTENÇA. POSSIBILIDADE. HONORÁRIOS. MAJORAÇÃO.
+1. A sentença que reconheceu o direito do requerente à percepção da pensão vitalícia por morte em virtude do falecimento de cônjuge tem efeitos financeiros conforme estabelecido no art. 215 da Lei 8.112/90, ou seja, a partir da data do óbito.
+2. Publicada a sentença, o Juiz poderá alterá-la para corrigir, de ofício, inexatidão material. Inteligência do art. 463, I, do Código de Processo Civil.
+3. Consid rando diSposto no art. 20, § 4º, do CPC e em atenção aos princípios da razoabilidade e da proporcionalidade, acolhe-se o pedido de majoração da verba honorária.
+4. Recurso parcialmente provido.
+Rejeitados os aclaratórios (e-STJ fls. 90/98).
+No especial obstaculizado, a parte recorrente apontou violação dos arts. 293, 463, 467, 468, 471, 472, 473, 474, 741, II, 743, II, 458 e 535 do CPC/1973, sustentando negativa de prestação jurisdicional, bem como que foi deferido o prosseguimento da execução de forma mais ampla do que a reconhecida no título executivo.
+Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de suficiente prestação jurisdicional e incidência das Súmulas 7 e 211 do STF (e-STJ fls. 130/32).
+No presente agravo, a parte recorrente alega, em resumo, a inadequação de aludidos fundamentos.
+Contraminuta às e-STJ fls. 144/146.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Quanto à alegada ofensa aos arts. 458 e 535 do CPC/1973, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes nem tampouco a rebater um a um todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ACÓRDÃO LIVRE DE OMISSÃO. TRIBUTÁRIO. EXECUÇÃO FISCAL. O SIMPLES PEDIDO DE PARCELAMENTO DE CRÉDITO TRIBUTÁRIO QUE ESTEJA EM FASE DE COBRANÇA JUDICIAL E GARANTIDO POR PENHORA, SE NÃO FOR INFORMADO AO JUIZ DA EXECUÇÃO ANTES DA ARREMATAÇÃO, NÃO TEM O CONDÃO DE SUSPENDER A EXIGIBILIDADE DA DÍVIDA EXECUTADA, PARA O QUE SE EXIGE, AINDA, A HOMOLOGAÇÃO DO PARCELAMENTO. PRECEDENTES DO STJ. ACÓRDÃO, QUE, ADEMAIS, É EXPRESSO AO AFIRMAR A MÁ-FÉ DA RECORRENTE EM DEIXAR DE COMUNICAR, TÃO LOGO FOSSE POSSÍVEL, A REALIZAÇÃO DO PARCELAMENTO, AINDA QUE TAL COMUNICAÇÃO TENHA OCORRIDO ANTES DA ARREMATAÇÃO. SÚMULA 7/STJ. NEGADO PROVIMENTO AO AGRAVO REGIMENTAL.
+1. Trata-se, na origem, de embargos à arrematação em execução fiscal do INSS em que a executada alega a suspensão do crédito tributário pelo parcelamento e sua comunicação ao Juízo antes da arrematação, pleiteando, assim, sua desconstituição.
+2. A alegada violação ao art. 535, II do CPC não ocorreu, pois a lide foi fundamentadamente resolvida nos limites propostos. As questões postas a debate foram decididas com clareza, não se justificando o manejo dos Embargos de Declaração. Ademais, o julgamento diverso do pretendido não implica ofensa à norma ora invocada. Tendo encontrado motivação suficiente, não fica o órgão julgador obrigado a responder, um a um, todos os questionamentos suscitados pelas partes, mormente se notório seu caráter de infringência do julgado. Precedente: AgRg no AREsp 12.346/RO, Rel. Min. ARNALDO ESTEVES LIMA, DJe 26.08.2011.
+(..)
+5. Agravo Regimental desprovido. (AgRg no AREsp 163417/AL, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 29/09/2014)
+In casu, o aresto que rejeitou os aclaratórios consignou que " ..  o reconhecimento por sentença do direito do requerente à percepção da pensão vitalícia por morte em virtude do falecimento da ex-servidora da Secretaria de Estado de Saúde do Distrito Federal deve, obrigatoriamente, observar o disposto em lei. Assim, conforme previsto no art. 215 da Lei 8.112/90, o benefício é devido a partir do óbito da cônjuge servidora" (e-STJ fl. 96).
+Assim, não há que se falar em ofensa aos dispositivos invocados.
+Quanto ao mais, o recorrente, nas razões do recurso especial, deixou de impugnar a aludida fundamentação adotada pela Corte local, tornando inviável o conhecimento do apelo nobre, nos termos da Súmula 284 do STF.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Sem honorários recursais sucumbenciais (art. 85, § 11, do CPC/2015), à vista do Enunciado Administrativo n. 7 do STJ.
+Publique-se. Intimem-se.
