@@ -1,0 +1,50 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PARCELAMENTO IRREGULAR DE SOLO URBANO. OMISSÃO. INEXISTÊNCIA DE VÍCIO NO JULGADO. ACLARATÓRIOS REJEITADOS.
+1. Inexistindo no acórdão embargado qualquer dos vícios previstos no art. 619 do Código de Processo Penal que permitem o manejo dos aclaratórios, não há como esses serem acolhidos.
+2. Demonstrada a ausência de prequestionamento do tema nos termos em que foi apresentado no apelo nobre, é certo que o pleito recursal esbarra no óbice intransponível da falta de prequestionamento, não sendo permitida a apreciação pelo Superior Tribunal de Justiça sob pena de indevida supressão de instância.
+3. Embargos rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os embargos. Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JORGE MUSSI: Trata-se de embargos de declaração opostos por [NOME], [NOME] e [NOME], contra acórdão proferido pela Quinta Turma do Superior Tribunal de Justiça, cuja ementa reproduzo a seguir:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PARCELAMENTO IRREGULAR DE SOLO URBANO. LEI N. 6.766/79. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. EIVA INEXISTENTE. ACÓRDÃO REGIONAL QUE DECIDIU A QUESTÃO DE FORMA FUNDAMENTADA.
+1. A parte pretende a declaração de nulidade do acórdão recorrido por ofensa ao art. 619 do CPP, ao argumento de que o Tribunal a quo não teria se manifestado em relação à teses arguidas em sede de apelação.
+2. É cediço que o puro e simples inconformismo do recorrente com a solução dada pela Corte de origem à controvérsia, não dá ensejo à oposição de embargos de declaração.
+3. Na hipótese, não se vislumbra a aventada negativa de prestação jurisdicional pela Corte a quo no julgamento dos embargos declaratórios, uma vez todas as teses aventadas foram analisadas no julgamento da apelação.
+MATERIALIDADE DELITIVA. ABSOLVIÇÃO SUMÁRIA. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ.
+1. A absolvição sumária, com suporte no art. 397, III, do CPP, exige prova segura de que a conduta perpetrada pelos denunciados não é típica, situação inocorrente no caso, conforme amplamente fundamentado pela Corte estadual no acórdão recorrido, impondo-se o prosseguimento da instrução para a completa elucidação dos fatos mediante regular contraditório.
+2. O pleito de restabelecimento da decisão singular, que absolveu sumariamente os agravantes, depende de novo e aprofundado exame dos fatos e das provas carreadas aos autos, providência que não se coaduna com os estreitos limites do recurso especial, a teor do enunciado n. 7 da Súmula desta Corte.
+RECURSO INTERPOSTO COM FUNDAMENTO NA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. COMPROVAÇÃO DA DIVERGÊNCIA. COTEJO ANALÍTICO. RECURSO IMPROVIDO.
+1. A interposição de recurso especial com fundamento no art. 105, inciso III, alínea c, da Constituição Federal exige prova inequívoca do dissídio jurisprudencial, quer pela demonstração da similitude fática, quer pela confrontação entre os acórdãos, de modo a evidenciar a divergência, o que não ocorreu na espécie.
+2. Agravo regimental desprovido. (e-STJ, fls. 661-662).
+Neste incidente, a defesa indica omissão do acórdão, que teria deixado de abordar os temas relativos às alegadas violações aos arts. 65, da Lei n. 4.504/64, art. 8º, da Lei n. 5.868/72, art. 1º do Decreto Federal 62.504/68 e arts. 50, parágrafo único, inciso I, e 51, da lei n. 6.766/79.
+Desse modo, requer o acolhimento dos aclaratórios, a fim de sanar os vícios apontados.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JORGE MUSSI: Inicialmente, verifica-se a tempestividade do incidente. A decisão embargada foi publicada em 9.3.2018 (e-STJ, fl. 673). O incidente foi apresentado por meio de petição eletrônica em 13.3.2018, dentro, portanto, do prazo assinado no art. 619 do Código de Processo Penal.
+O citado dispositivo disciplina que "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão", tendo a jurisprudência desta Corte os admitido, também, com o fito de sanar eventual erro material na decisão embargada.
+A propósito, confira-se:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PECULATO. AGRAVO CONHECIDO E RECURSO ESPECIAL INADMITIDO. INCIDÊNCIA DA SÚMULA 7/STJ. AUSÊNCIA DE OMISSÃO. SIMPLES PRETENSÃO DE MODIFICAÇÃO DO JULGADO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. INOCORRÊNCIA. CONDENAÇÃO TRANSITADA EM JULGADO. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO PENAL. PRECEDENTES. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são recurso com fundamentação vinculada. Dessa forma, para seu cabimento, imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal, o que não logrou fazer a embargante.
+Destarte, a mera irresignação com o entendimento apresentado na decisão, visando à reversão do julgado, não tem o condão de viabilizar a oposição dos aclaratórios.
+ ..
+6. Embargos Declaratórios rejeitados. (EDcl no AgRg no AREsp 638.795/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 24/10/2017, DJe 31/10/2017)
+EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. OMISSÃO. APLICAÇÃO DE MEDIDAS ALTERNATIVAS. INCABÍVEL. EMBARGOS ACOLHIDOS SEM EFEITOS MODIFICATIVOS.
+1. Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 619 do Código de Processo Penal, quais sejam, a ambiguidade, a contradição, a omissão e/ou a obscuridade da decisão atacada.
+2. Hipótese em que a ausência de manifestação quanto ao cabimento das medidas ínsitas no art. 319 do Código de Processo Penal, merece ser sanada.
+3. Há que se perquirir sobre a necessidade e adequação da custódia ou de medidas alternativas em cada situação concreta, deixando de aplicar estas últimas quando as circunstâncias evidenciarem que são insuficientes para resguardar a ordem pública, como ocorre na hipótese em exame, onde demonstrado concreto risco de reiteração delitiva.
+4. Embargos de declaração acolhidos, apenas para fins de esclarecimento, sem efeitos modificativos. (EDcl no HC 404.661/RN, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 05/09/2017, DJe 18/09/2017)
+No caso destes autos, a defesa alega que o acórdão deixou de tratar do alegado malferimento aos arts. 65, da Lei n. 4.504/64, art. 8º, da Lei n. 5.868/72, art. 1º do Decreto Federal 62.504/68 e arts. 50, parágrafo único, inciso I, e 51, da lei n. 6.766/79.
+Ocorre que, conforme restou consignado na decisão monocrática, não houve enfrentamento da matéria contida nesses dispositivos pelo eg. Tribunal de origem, carecendo a matéria de indispensável prequestionamento.
+Nesse sentido, no caso em exame, constata-se que a matéria aventada pelo embargante nestes aclaratórios não foi objeto de debate pela instância de origem, ficando impedida esta Corte Superior de emitir qualquer juízo de valor acerca de tal tema, conforme estabelecido pelo enunciado n. 211 da Súmula desta Corte.
+A propósito:
+
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM RECONSIDERAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A RELAÇÃO DE CONSUMO. ART. 7º, VII, DA LEI N. 8.137/90. ESTELIONATO. ART. 171 DO CÓDIGO PENAL - CP. 1) NULIDADES NO INQUÉRITO POLICIAL. NÃO INDICADO O DISPOSITIVO DE LEI FEDERAL VIOLADO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. 2) VIOLAÇÃO AO ART. 159 DO CÓDIGO DE PROCESSO PENAL - CPP. IRREGULARIDADES NO LAUDO PERICIAL. ÓBICE DO REVOLVIMENTO FÁTICO-PROBATÓRIO, CONFORME SÚMULA 7/STJ. 3) VIOLAÇÃO AOS ARTIGOS 7º, VII, DA LEI N. 8.137/90 E 171 DO CP. ÓBICE DO REVOLVIMENTO FÁTICO-PROBATÓRIO, CONFORME SÚMULA 7/STJ. 4) VIOLAÇÃO AOS ARTIGOS 75, 184, PARÁGRAFO ÚNICO, E 183, TODOS DA LEI N. 9.472/97, E AOS ARTIGOS 65, II, E 171, § 1º, DO CP. AUSÊNCIA DE PREQUESTIONAMENTO. RECURSO ESPECIAL INTERPOSTO SOB A ÉGIDE DO CÓDIGO DE PROCESSO CIVIL DE 1973. SÚMULA 211/STJ. ENUNCIADO ADMINISTRATIVO N. 2 DO STJ. 5) VIOLAÇÃO AO ART. 59 DO CÓDIGO PENAL - CP. CIRCUNSTÂNCIAS DO CRIME. EXASPERAÇÃO FUNDADA EM JUSTIFICATIVA CONCRETA E NÃO INERENTE AO TIPO PENAL QUE PARA SER AFASTADA DEMANDA O VEDADO REVOLVIMENTO FÁTICO-PROBATÓRIO, CONFORME SÚMULA 7/STJ. 6) AGRAVO DESPROVIDO.
+1. A falta de apontamento do dispositivo legal violado configura deficiência da fundamentação, conforme Súmula 284/STF. Precedentes.
+2. O reconhecimento de violação ao art. 159 do CPP demandaria o reexame fático-probatório, providência vedada pelo enunciado n. 7 da Súmula do Superior Tribunal de Justiça - STJ, pois o Tribunal de origem apresentou fundamentação concreta para afastar irregularidades, embora tenha havido erro material no preenchimento do laudo pericial, atestando a condição de perito oficial que atuou de forma imparcial.
+3. O acolhimento do pleito de atipicidade da conduta em relação aos delitos contra a relação de consumo e de estelionato demandaria o reexame fático-probatório, providência vedada pelo enunciado n. 7 da Súmula do Superior Tribunal de Justiça - STJ, pois o Tribunal de origem manteve a condenação com base na análise das provas dos autos.
+4. Conforme entendimento do Superior Tribunal de Justiça - STJ: "mesmo que se trate de questão de ordem pública, é imprescindível que a matéria tenha sido decidida no v. acórdão impugnado, para que se configure o prequestionamento" (REsp 1.020.855/RS, Rel. Ministro FELIX FISCHER, DJ de 2/2/2009). Incidência do enunciado das Súmulas 282 e 356/STF.
+  ..
+6. Agravo regimental desprovido. (AgRg no AgRg no AREsp 995.410/RJ, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 24/04/2018, DJe 11/05/2018)
+Diante do exposto, rejeito os embargos.
+É o voto.
