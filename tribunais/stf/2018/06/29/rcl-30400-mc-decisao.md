@@ -1,0 +1,27 @@
+Decisão: Trata-se de Reclamação, com pedido liminar, ajuizada por Saulo Gustavo Souza Santos, em face de “ato administrativo do Presidente da Câmara Municipal de Santa Rita/PB, praticado nos autos do Processo Administrativo 001/2018, que, ao receber denúncia por infração político-administrativa em desfavor do Autor, determinou o seu afastamento automático e temporário do Mandato de Vereador, com base em norma do Regimento Interno da Câmara Municipal (ata inclusa), violando o enunciado da Súmula Vinculante nº. 46 (…).” (eDOC 1, p.1)
+    Narra o reclamante que, por ocasião do recebimento de denúncia, determinou-se seu afastamento do cargo de vereador com base no art. 229 do Regimento Interno da Câmara Municipal de Santa Rita, apontando que “o § 2º do art. 7º, do Decreto-Lei nº. 201/1967 que autorizava o afastamento temporário de Vereador denunciado por infração político-administrativa foi revogado pela Lei Federal nº. 9.504/1997.” (eDOC 1, p.5)
+    Com esses fundamentos, requer a concessão de medida liminar para a suspensão do ato administrativo reclamado, “assegurando, por consequência, a recondução imediata do mesmo ao cargo de Vereador, enquanto não finalizado o processo e julgamento das respectivas infrações político-administrativas, que devem prosseguir normalmente nos termos do DL 201/67;” (eDOC 1, p.8)
+    No mérito, requer a procedência da reclamação, confirmando a medida liminar pleiteada.
+    É, em síntese, o relatório. Decido.
+    De início consigno que a Reclamação se caracteriza como uma demanda de fundamentação vinculada, vale dizer, cabível somente quando se fizer presente alguma das hipóteses para ela estritamente previstas.
+    Partindo de construção jurisprudencial à instrumento com expresso assento constitucional, trata-se de ação vocacionada, precipuamente, a duas diferentes finalidades.
+    De um lado, visa a Reclamação à (i) tutela da autoridade das decisões proferidas por esta Corte e das súmulas vinculantes por ela editadas. De outro, à (ii) proteção do importante rol de competências atribuídas ao Supremo Tribunal Federal. É o que se vê nos artigos 102, I, l, e 103-A, §3º, da Constituição da República.
+    No que se refere à primeira hipótese, mais especificamente quanto ao cabimento da Reclamação para garantir a observância das súmulas vinculantes, deve-se ter atento olhar para regramento delineado pela Lei nº 11.417/2006.
+    É preciso, portanto, ter em mira que possui a reclamação um objeto específico ou delimitado (decisão judicial ou ato administrativo).
+    Feito esse esclarecimento, tem-se que o enunciado vinculante cuja violação se invoca estabelece que:
+    “Súmula Vinculante nº 46: A definição dos crimes de responsabilidade e o estabelecimento das respectivas normas de processo e julgamento são da competência legislativa privativa da União”.
+    Ou seja, a Súmula Vinculante nº 46 refere-se à inexistência de competência nomotética de entes federativos distintos da União (Municípios, Estados ou o próprio Distrito Federal) para editar atos normativos que definam os crimes de responsabilidade (sob qualquer rubrica que seja, como, por exemplo, “infração político-administrativa”) ou mesmo para estabelecer as regras para o seu processo e julgamento.
+    Da análise da petição inicial e dos documentos a ela acostados, não se depreende razão pela qual seja possível a concessão do provimento liminar.
+    Com efeito, a determinação do afastamento das funções parlamentares do Reclamante em decorrência do recebimento de denúncia por parte da Câmara de Vereadores necessita de uma maior elucidação, incompatível com o juízo rarefeito que caracteriza a apreciação liminar.
+    Acresce que, em caso semelhante, quando do julgamento do crime de responsabilidade o Presidente da República, esta Corte entendeu ser possível “a aplicação subsidiária do Regimento Interno da Câmara dos Deputados e do Senado ao processamento e julgamento do impeachment” (ADPF 378, Rel. Min. Edson Fachi, Rel. para o Acórdão Min Roberto Barroso, DJe 07.03.2016). Assim, cabível, em tese, a aplicação subsidiária do regimento interno para disciplinar aspectos relativos ao processamento das ações de responsabilidade.
+    Por fim, corroborando com a necessidade de aclaramento da situação retratada nos autos, verifico a existência de reclamação interposta pelo Autor perante este Tribunal na data de 26.04.2018, em que se busca atacar ato da Desembargadora Maria das Graças Morais Guedes, do Tribunal de Justiça do Estado da Paraíba, praticado nos autos do Agravo de Instrumento 0801957-82.2018.8.15.0000, por suposta violação ao enunciado da Súmula Vinculante nº 46. Tal reclamação teve seu seguimento negado em virtude da utilização do instrumento processual como sucedâneo recursal (Reclamação 30329/PB, rel. Min. Luiz Fux, DJe 04.05.2018).
+    Dessa forma, não se extrai das razões apresentadas, ao menos nesta fase processual em que sequer foram recebidas as informações da autoridade reclamada, fundamento relevante para a concessão do provimento liminar inaudita altera parte.
+    Por esse motivo, indefiro o pedido de liminar.
+    Requisitem-se as informações necessárias das autoridades apontadas como coatoras, no prazo de 10 (dez) dias (art. 989, I, do Código de Processo Civil).
+    Ouça-se o Ministério Público, no prazo de 5 (cinco) dias (art. 991 do Código de Processo Civil).
+    Após, nova conclusão.
+    Publique-se. Intime-se.
+    Brasília, 29 de junho de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
