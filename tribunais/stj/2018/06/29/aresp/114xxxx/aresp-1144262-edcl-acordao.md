@@ -1,0 +1,39 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (Relator): Trata-se de embargos de declaração opostos por ERICA XAVIER PEREIRA, contra acórdão desta colenda Quarta Turma, assim ementado (e-STJ, fl. 1.732):
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. CONFIRMAÇÃO DO NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL. RECURSO NÃO PROVIDO.
+1. Na hipótese em exame, aplica-se o Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC." 2. A ausência de impugnação específica, na petição de agravo em recurso especial, dos fundamentos da decisão que não admite o apelo especial impossibilita o conhecimento do recurso, nos termos do art. 932, III, do Código de Processo Civil de 2015.
+3. Agravo interno ao qual se nega provimento."
+Nas razões do presente recurso, a embargante sustenta, em síntese, que: "verifica-se que o V. Acórdão de Agravo Interno em Agravo em Recurso Especial não se manifestou a respeito da impossibilidade de majoração dos honorários advocatícios" (e-STJ, fl. 1.739).
+Devidamente intimada (e-STJ, fl. 1.741), uma das partes embargadas manifestou-se pela rejeição dos aclaratórios, fls. 1.745/1.746 (e-STJ).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (Relator): Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+No caso dos autos, está nítido o propósito da embargante de rediscutir temas que foram devidamente apreciados, porquanto esta colenda Quarta Turma rechaçou a pretensão veiculada no agravo interno, confirmando as conclusões exaradas pela decisão monocrática de relatoria da em. Ministra Presidente do Superior Tribunal de Justiça.
+De ver-se, portanto, que os presentes embargos declaratórios revelam o nítido propósito da parte embargante em rediscutir temas que foram devidamente apreciados, o que é defeso através da via processual escolhida, desautorizando, deste modo, o acolhimento da pretensão embutida nos aclaratórios.
+A propósito:
+"EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO. OBSCURIDADE, CONTRADIÇÃO E OMISSÃO NÃO VERIFICADA. JULGADO EMBARGADO DEVIDAMENTE FUNDAMENTADO, ASSENTANDO QUE OS HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA FIXADOS POR ACÓRDÃO DO STF EM 1985 - ANTES DA VIGÊNCIA DO ESTATUTO DA [OAB] - CONSTITUEM DIREITO AUTÔNOMO DO ADVOGADO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil, que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso.
+2. No caso dos autos, nota-se que não ocorre nenhuma das hipóteses previstas no artigo 1.022, e seus incisos, do novo CPC, pois o acórdão ora embargado foi claro ao concluir que os honorários advocatícios de sucumbência fixados por sentença ou acórdão prolatado na vigência do Código de Processo Civil de 1973 e da Lei n. 4.215/1963 - anterior, portanto, à edição da Lei n. 8.906/1994 -, possuem caráter autônomo e integram o patrimônio do advogado, o que lhe assegura o direito de promover, em proveito próprio, a execução.
+3. O intuito da embargante de reverter o resultado do julgamento que lhe fora desfavorável ultrapassa os restritos limites dos embargos de declaração, os quais não permitem a reapreciação da causa, sendo certo que o efeito modificativo pretendido somente é possível em casos excepcionais e uma vez comprovada a obscuridade, contradição ou omissão do julgado, vícios não configurados na espécie.
+4. Embargos de declaração rejeitados."
+(EDcl nos EAg 884.487/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 18/10/2017, DJe 27/10/2017)
+"PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. REDISCUSSÃO DA MATÉRIA DECIDIDA. INEXISTÊNCIA DE OMISSÃO. NÍTIDO CARÁTER INFRINGENTE.
+1. Consoante o previsto no artigo 1.022 do Novo CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do acórdão atacado, bem assim para corrigir-lhe erro material, não se constituindo tal medida integrativa em meio idôneo para fazer prevalecer o entendimento da parte embargante quanto à matéria já decidida no acórdão embargado.
+2. O intuito protelatório da parte embargante, evidenciado pela mera repetição dos argumentos já examinados e repelidos pelo acórdão embargado, justifica a imposição da multa prevista no art. 1.026, § 2º, do CPC.
+3. Embargos de declaração rejeitados, com imposição de multa."
+(EDcl no AgRg na Rcl 19.495/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 27/09/2017, DJe 06/10/2017)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PRETENSÃO INFRINGENTE DO JULGADO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS COM APLICAÇÃO DE MULTA.
+1. Aplicabilidade do NCPC a este recurso ante os termos no Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Ausentes os vícios elencados no art. 1.022 do NCPC, afigura-se inadmissível a oposição de embargos de declaração com mero caráter infringente do julgado.
+3. A contradição que autoriza embargos de declaração é a contradição interna, isto é, aquela existente no texto e conteúdo do próprio julgado, que apresenta proposições entre si inconciliáveis, situação de nenhuma forma entrevista no julgado embargado.
+4. Em razão dos embargos se mostrarem manifestamente protelatórios e da anterior advertência em relação à incidência do NCPC, deve ser aplicada a multa prevista em seu art. 1.026, § 2º, no percentual de 2% sobre o valor atualizado da causa.
+5. Embargos de declaração rejeitados."
+(EDcl no AgInt no AREsp 663.614/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 08/08/2017, DJe 22/08/2017)
+Diante do exposto, rejeitam-se os embargos declaratórios.
+É como voto.
