@@ -1,0 +1,36 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. FASE DE CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE NULIDADE DO TÍTULO. FALTA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. MULTA PREVISTA PELO ART. 774, PARÁGRAFO ÚNICO, DO CPC/2015. INCABÍVEL. CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS RECURSAIS. IMPOSSIBILIDADE. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por COOPERATIVA REAL DA HABITAÇÃO, com base no art. 105, III, a, da Constituição da República, desafiando acórdão assim ementado (e-STJ, fl. 862):
+Agravo de instrumento. Prestação de serviços. Ação de declaratória de inexistência de débito. Fase de cumprimento de sentença. Impugnação.
+Execução de título judicial. Alegação de nulidade de documento encartado aos autos na fase de conhecimento. Questão acobertada pelo manto da preclusão. Nulidade de prova documental que não constitui matéria de ordem pública. Tempestividade da impugnação não configurada. A intimação da penhora realizada no rosto dos autos, do qual foi retirado o presente agravo, não deflagra o prazo para oposição por impugnação relativa ao presente cumprimento de sentença. Recurso não provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 878-880).
+Nas razões do recurso especial (e-STJ, fls. 882-891), a recorrente alegou violação aos arts. 337, § 5º, 525 e 803, I, do CPC/2015.
+Sustentou, em síntese, que a impugnação ofertada foi tempestiva e que o processo pode ser extinto, de ofício, a qualquer tempo, sem resolução de mérito, ante a inépcia da inicial que, lastreada em termo de confissão de dívida assinado por quem não detinha poderes para tal, foi baseada em título nulo.
+Sem contrarrazões (fl. 896, e-STJ).
+O processamento do apelo nobre não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo.
+Contraminuta apresentada às fls. 911-914 (e-STJ).
+Brevemente relatado, decido.
+De início, é importante salientar que o presente recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, de maneira que é aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Dentre os fundamentos adotados pelo acórdão recorrido, ao apreciar e julgar a controvérsia, destaca-se o trecho a seguir transcrito (e-STJ, fls. 861-865):
+ ..
+Inicialmente, cumpre deixar assentado que se trata de execução fundada em título judicial proferido em ação declaratória de inexigibilidade de débito, que a executada moveu em face da ora agravada, e que foi julgada improcedente e procedente a reconvenção apresentada pela ré, sentença mantida em sede recursal, conforme se depreende dos documentos reproduzidos a fls. 280/283.
+Não obstante, diferentemente do que sustenta a recorrente, as questões suscitadas não constituem matéria de ordem pública. A agravante suscita a nulidade de documento apresentado como prova na ação de conhecimento e que, portanto, já passou pelo crivo do judiciário, não do título executivo em si, que foi constituído, à luz das provas produzidas nos autos e depois de garantido amplo direito de defesa da ora executada, uma vez que nada sustenta em sentido contrário.
+Ademais, a própria recorrente alega e reconhece que a matéria ora ventilada já foi objeto de defesa na fase de conhecimento. Assim, ainda que se tratasse de matéria de ordem pública, que pudesse ser suscitada a qualquer tempo e sobre a qual não se opera a preclusão, não há como admitir que a mesma questão seja posta em juízo pela parte em mais de uma oportunidade.
+Se a questão já foi enfrentada, inclusive em sede recursal, fica vedada nova devolução da matéria, ainda que de ordem pública, sob pena de ofensa à segurança jurídica.
+Das razões expendidas no acórdão, extrai-se que o Tribunal de Justiça consignou que o argumento acerca da invalidade do termo de confissão de dívida já foi objeto de análise na fase de conhecimento, razão pela qual concluiu que "ainda que se tratasse de matéria de ordem pública, que pudesse ser suscitada a qualquer tempo e sobre a qual não se opera a preclusão, não há como admitir que a mesma questão seja posta em juízo pela parte em mais de uma oportunidade" (e-STJ, fl. 864).
+Contudo, não tratou a recorrente de impugnar tal fundamento, cuja subsistência inviabiliza a apreciação do recurso especial e propicia o consequente desprovimento do presente agravo, pela aplicação da Súmula n. 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Não é o caso de aplicação da multa prevista no parágrafo único do art. 774 do CPC/2015, pela conduta prevista no inciso II do mencionado dispositivo legal, uma vez que a recorrente não empregou meios artificiosos com o fim de se opor de forma maliciosa à execução.
+Concernente ao pedido da parte agravada de fixação de honorários recursais, o pleito deve ser examinado à luz das regras definidas pela Terceira Turma deste Tribunal Superior - nos EDcl no AgInt no REsp 1.573.573/RJ, desta relatoria, julgado em 4/4/2017, DJe de 8/5/2017 -, exigindo-se o preenchimento cumulativo dos requisitos delineados a seguir:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO CONFIGURADA. ACOLHIMENTO DOS EMBARGOS PARA SANAR O VÍCIO. CABIMENTO DE HONORÁRIOS ADVOCATÍCIOS RECURSAIS. REQUISITOS.
+I - Para fins de arbitramento de honorários advocatícios recursais, previstos no § 11 do art. 85 do CPC de 2015, é necessário o preenchimento cumulativo dos seguintes requisitos:
+Direito Intertemporal: deve haver incidência imediata, ao processo em curso, da norma do art. 85, § 11, do CPC de 2015, observada a data em que o ato processual de recorrer tem seu nascedouro, ou seja, a publicação da decisão recorrida, nos termos do Enunciado 7 do Plenário do STJ: "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC";
+o não conhecimento integral ou o improvimento do recurso pelo Relator, monocraticamente, ou pelo órgão colegiado competente;
+a verba honorária sucumbencial deve ser devida desde a origem no feito em que interposto o recurso;
+não haverá majoração de honorários no julgamento de agravo interno e de embargos de declaração oferecidos pela parte que teve seu recurso não conhecido integralmente ou não provido;
+não terem sido atingidos na origem os limites previstos nos §§ 2º e 3º do art. 85 do Código de Processo Civil de 2015, para cada fase do processo;
+não é exigível a comprovação de trabalho adicional do advogado do recorrido no grau recursal, tratando-se apenas de critério de quantificação da verba.
+ ..
+No caso, não é cabível a verba honorária em favor dos advogados da parte adversa, haja vista a ausência do preenchimento do requisito n. 3 transcrito acima.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
