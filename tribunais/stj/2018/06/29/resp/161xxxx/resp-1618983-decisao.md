@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO com fundamento na(s) alínea(s) "a" do permissivo constitucional contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região assim ementado (e-STJ fls. 1095/1096):
+ADMINISTRATIVO. CONTRATO DE EMPREITADA. PAGAMENTOS REALIZADOS COM ATRASO. CORREÇÃO MONETÁRIA. JUROS DE MORA. HONORÁRIOS ADVOCATICIOS.
+1. Trata-se de Remessa Necessária, de Apelações e de Recurso Adesivo interpostos
+contra sentença que condenou a Demandada a pagar quantia decorrente do atraso no
+adimplemento de faturas contratuais.
+2. Não se deve conhecer do Agravo Retido se a parte não reiterar o pedido para que o recurso seja apreciado quando do julgamento da Apelação, em consonância com o art. 523, §1º do CPC.
+3. O art. 2º, I da Medida Provisória 353/2007 (convertida na Lei 11.843/2007) determina que a União Federal suceda a extinta RFFSA em direitos, obrigações e ações judiciais em que seja demandante, demandada, assistente, opoente ou terceira
+interessada. Por esse motivo, ficam prejudicadas as alegações acerca da posição
+processual da União Federal, posto que, por determinação legal, o ente público ocupa o polo passivo da demanda, sucedendo a RFFSA em direitos e obrigações.
+4. A sucessão da RFFSA pela União Federal não modificou a natureza jurídica dos contratos celebrados pela sociedade de economia mista ou dos créditos a ela pertencentes, os quais conservaram sua natureza privada, sendo regidos, consequentemente, pelas regras de direito privado. Precedentes: STJ, T Turma, REsp 1075808, Rel. Min. MAURO CAMPBELL MARQUES, DJe 27.4.2011; STJ, 1" Turma, REsp 1065070, Rel. Min. BENEDITO GONÇALVES, DJe 28.6.2010. Por esse motivo, o prazo prescricional a ser aplicado é o vintenário previsto no art. 177 do CC/1916, não o quinquenal expresso no Decreto-lei 20.210/1932.
+5. A correção monetária objetiva recompor o valor real de compra da moeda, atualizando a quantia desde o momento em que passou a ser devida até a data de pagamento efetivo, não havendo dúvidas quanto à sua incidência em caso de impontualidade contratual. Precedentes: STJ, 2a Turma, RESP 201000172451, Rel. Min. ELIANA CALMON, DJE 3.5.2010; TRF1, 6" Turma, AC 200334000320580, Rel. Juiz Fed. Conv. [NOME], e-DJF1 7.3.2012.
+6. Em demandas nas quais se requer as diferenças oriundas de correção monetária, é
+desnecessário o requerimento explícito da parte para que haja incidência dos expurgos inflacionários. Precedente: STJ, T Turma, RESP 200301066163, Rel. Min. HERMAN BENJAMIN, DJE 23.4.2010.
+7. A decretação de liquidação extrajudicial não impede a incidência dos juros de mora, salvo se comprovado que o passivo não é suficiente para suportar tais encargos. Precedentes:
+STJ, P Turma, AGA 200702846817, Rel. Min. BENEDITO GONÇALVES, DJE 11.12.2008; TRF1, 6" Turma Suplementar, AC 200038000058903, Rel. Juiz Fed. Conv. LEÃO APARECIDO ALVES, e-DJF I 13.7.2011; TRF3, 9" Turma, AC 00433946220104039999, Rel. Des. Fed. MARISA SANTOS, e-DJF3 8.4.2011.
+8. Se o devedor foi constituído em mora quando ainda vigia o Código Civil de 1916,
+incidem os juros no percentual de 6% ao ano até a entrada em vigor do CC/2002, a
+partir de quando passa a ter aplicação a taxa utilizada para a mora do pagamento de
+impostos devidos à Fazenda Nacional. Precedentes: STJ, 13 Turma, ADRESP
+200801412435, Rel. Min. BENEDITO GONÇALVES, DJE 4.11.2010; TRF2, 5" Turma Especializada, AC 199750010115682, Rel. Juiz Fed. Conv. [NOME], E-DJF2R 21.7.2011; TRF4, P Turma, AG 00059326820104040000, Rel. Des. Fed. JOEL ILAN PACIORNIK, DE 1.6.2010.
+9. A Demandante deu quitação a todas as parcelas oriundas do Contrato nº 66/1986, de maneira que subsiste apenas o direito de receber os valores correspondentes à correção monetária e aos juros de mora decorrentes do inadimplemento ocorrido durante a execução do Contrato nº 70/1986.
+10. Vencida a Fazenda Pública, a condenação em honorários não precisa observar o
+percentual mínimo de 10% e máximo de 20% sobre o valor da causa.
+11. Agravo Retido não conhecido, Recurso Adesivo não provido, Apelação da
+Demandada parcialmente provida para que incidam juros de mora apenas a partir da
+citação (art. 219 do CPC), Apelação da Demandante parcialmente provida para modificar o percentual dos juros a partir do advento do CC/2002 e Remessa Necessária parcialmente provida.
+A recorrente alega violação do art. 1º do Decreto nº 20.910/32. Aduz o reconhecimento da prescrição parcial da pretensão autoral, tendo em vista que a União sucedeu a extinta empresa RFFSA.
+Contrarrazões apresentadas pela FIGUEIREDO FERRAZ CONSULTORIA E ENGENHARIA LTDA, nas quais pede, preliminarmente, o não conhecimento do recurso e, no mérito, seu desprovimento (e-STJ fl. 1140/1149).
+Passo a decidir.
+"Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do Plenário do STJ).
+Isso considerando, o Tribunal a quo se manifestou sobre o tema da prescrição, no seguinte sentido (e-STJ fls. 1083/109):
+No que tange à prescrição, observa-se que o processo foi ajuizado em 1993 para cobrança de juros e correção monetária decorrentes da mora no pagamento de faturas vencidas em 1987 e 1988 (fls. 323/327). Sobre esse tema, deve-se primeiramente afastar a aplicação do Decreto-lei 20.210/1932, bem como do Decreto-lei 4.597/1942, na medida em que a obrigação de pagar nasceu originalmente para a RFFSA, que, tendo natureza de sociedade de economia mista, submete-se aos prazos prescricionais previstos no Código Civil.
+Sendo assim, deve ser mantida a sentença que afastou a prescrição por reputar aplicável o prazo geral vintenário previsto no art. 177 do CC/1916 (vigente à época da assinatura dos contratos).
+Tampouco merece ser acolhida a alegação de que seria aplicável a prescrição referente aos títulos de crédito, pois a demanda não visa à execução das faturas em si, mas das quantias decorrentes do pagamento extemporâneo.
+A Corte Superior já entendeu que o lapso quinquenal previsto no Decreto n. 20.910/1932 não atinge as sociedades de economia mista, haja vista que o contrato originário tem inequívoca natureza jurídica de direito privado, aplicando-se a elas a prescrição vintenária atribuída às ações pessoais, prevista no art. 177 do Código Civil. Nesse sentido:
+ADMINISTRATIVO. EXECUÇÃO FISCAL. CRÉDITO NÃO TRIBUTÁRIO. PRESCRIÇÃO. SUCESSÃO DE SOCIEDADE DE ECONOMIA MISTA PELA FAZENDA PÚBLICA. PRAZO QUINQUENAL. INCIDÊNCIA A PARTIR DA EXTINÇÃO.
+1. Na origem, o Tribunal de origem consignou que a natureza da dívida exigida na execução fiscal, por se tratar de contrato de empréstimo cedido à União em decorrência de extinção de banco público, atrairia a incidência da prescrição vintenária.
+2. A prescrição quinquenal não atinge as sociedades de economia mista, porquanto têm inequívoca natureza jurídica de direito privado, aplicando-se-lhes a prescrição vintenária atribuída às ações pessoais, prevista no art. 177 do Código Civil de 1916, ou decenal contida no art. 205 do Código Civil de 2002.
+3. Contudo, o Banco de Roraima S.A. foi extinto em 9.4.1998, por determinação contida no art. 1º da Lei n. 9.626/98, sendo sucedida, em direitos e obrigações, pela União, por determinação contida no art. 23 da Lei n. 8.029/90, momento em que passou a incidir o prazo de prescrição quinquenal previsto no Decreto 20.910/32, menor que o prazo vintenário anteriormente existente.
+4. Por tratar-se de direito intertemporal, a vigência de prazo prescricional mais curto impõe a aplicação daquele que se consuma primeiro, respeitados seus respectivos marcos iniciais. Doutrina.
+5. Com efeito, iniciando-se o prazo prescricional quinquenal em 9.4.1998, não se encontra atingida pela prescrição a presente ação, pois ajuizada em 9.8.2002, antes do término do lustro legal.
+6. "Em se tratando de execução fiscal, relativa a dívida de natureza não tributária, é aplicável a causa interruptiva da prescrição, prevista no art. 8º, § 2º, da Lei 6.830/80, ou seja, "o despacho do Juiz, que ordenar a citação, interrompe a prescrição", conforme pacífica jurisprudência deste Tribunal." (REsp 1279941/MT, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 18/10/2011, DJe 24/10/2011).
+AGRAVO INTERNO. RECURSO ESPECIAL. BANCÁRIO E PROCESSUAL CIVIL. EXPURGOS INFLACIONÁRIOS. PLANO VERÃO. JANEIRO DE 1989. SUCESSÃO DO BANCO NACIONAL DE CRÉDITO COOPERATIVO - BNCC PELA UNIÃO. PRESCRIÇÃO QUINQUENAL. DECRETO N. 20.910/32. INAPLICABILIDADE. APLICAÇÃO DAS RAZÕES DE DECIDIR FIRMADAS NO RECURSO ESPECIAL REPETITIVO N. 1.103.224/MG.
+1. Inocorrência de nulidade na hipótese em que o relator profere julgamento monocrático fundamentado em entendimento firmado em recurso especial repetitivo ou em jurisprudência consolidada (cf. art. 255, § 4º, do Regimento Interno desta Corte Superior).
+2. Superação, ademais, de eventual nulidade em razão do julgamento colegiado do agravo interno. Julgados desta Corte.
+3. Inaplicabilidade da prescrição quinquenal prevista no Decreto n. 20.910/32 à pretensão de cobrança de expurgos inflacionários deduzida contra a UNIÃO na condição de sucessora do Banco Nacional de Crédito Cooperativo - BNCC, por se tratar de relação jurídica originariamente de direito privado.
+ 4. Aplicação das razões de decidir que conduziram o julgamento do Recurso Especial Repetitivo n. 1.103.224/MG, em que se discutiu a prescrição das pretensões deduzidas contra o Estado de Minas Gerais na condição de sucessor de instituição financeira daquela unidade da federação (MINAS CAIXA), hipótese análoga à dos presentes autos.
+5. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp 1484528/PR, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 07/03/2017, DJe 20/03/2017)(grifos acrescidos)
+Além disso, convém assinalar que a sucessão pela União da Rede Ferroviária Federal S.A. não teve o condão de alterar a natureza jurídica do contrato firmado entre a sociedade de economia mista e a parte autora, ora recorrida, como acentuou o acórdão combatido (e-STJ fls. 1086/1087), com amparo na jurisprudência desta Corte (REsp 1254786/RJ, Rel. Ministra ELIANA CALMON, Rel. p/ Acórdão Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 18/04/2013, DJe 03/06/2013, e AgRg no AREsp 88.423/MG, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 02/10/2012, DJe 11/10/2012).
+A consonância do aresto recorrido com a orientação jurisprudencial sufragada nesta Corte atrai, no ponto, a incidência da Súmula 83 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado Administrativo n. 7 do STJ.
+Publique-se. Intimem-se.
