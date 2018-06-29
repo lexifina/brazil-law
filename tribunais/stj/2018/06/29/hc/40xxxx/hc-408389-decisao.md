@@ -1,0 +1,54 @@
+DECISÃO
+[NOME], paciente neste habeas corpus, alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul na Apelação Criminal n. 0306941-24.2016.8.21.7000.
+Consta dos autos que o paciente - denunciado pela suposta prática dos delitos de posse ilegal de munição, tráfico de drogas e associação ao tráfico - foi absolvido em primeiro grau.
+O Tribunal de origem, entretanto, deu parcial provimento ao recurso do Ministério Público e condenou o réu à pena de 12 anos de reclusão, em regime fechado, mais multa, pela prática dos delitos imputados na denúncia.
+Busca a defesa a absolvição em relação ao delito descrito no art. 35 da Lei n. 11.343/2006, a incidência da minorante prevista no § 4º do art. 33 da Lei de Drogas e a aplicação da atenuante da menoridade em maior patamar.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+I. Delito previsto no art. 35 da Lei de Drogas
+Para melhor análise da questão sub examine, transcrevo, por oportuno, o disposto no art. 35 da Lei n. 11.343/2006, in verbis:
+Art. 35. Associarem-se duas ou mais pessoas para o fim de praticar, reiteradamente ou não, qualquer dos crimes previstos nos arts. 33, caput e § 1º, e 34 desta Lei:
+Pena - reclusão, de 3 (três) a 10 (dez) anos, e pagamento de 700 (setecentos) a 1.200 (mil e duzentos) dias-multa.
+Parágrafo único. Nas mesmas penas do caput deste artigo incorre quem se associa para a prática reiterada do crime definido no art. 36 desta Lei.
+Considerando a expressão utilizada pelo legislador, de que a associação entre duas ou mais pessoas a fim de praticar, reiteradamente ou não, quaisquer dos crimes previstos nos arts. 33, caput e § 1º, e 34 da Lei de Drogas, passou-se a perscrutar se, para a caracterização do crime de associação ao tráfico de drogas, seria necessário que a reunião entre os acusados se desse de forma estável - tal como era exigido no antigo crime de quadrilha ou bando (art. 288 do Código Penal), atual delito de associação criminosa - ou se bastaria a convergência ocasional de vontades ou a eventual colaboração entre duas ou mais pessoas para a prática das infrações constantes dos arts. 33 e 34.
+A esse respeito, a jurisprudência deste Superior Tribunal firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa.
+Assim, para a caracterização do delito previsto no art. 35 da Lei de Drogas, é necessário que o animus associativo seja efetivamente provado. Isso porque, se assim não fosse, estaria evidenciado mero concurso de agentes para a prática do crime de tráfico de drogas.
+No caso, verifico que as instâncias ordinárias, ao concluírem pela condenação do paciente em relação ao crime previsto no art. 35 da Lei n. 11.343/2006, apontaram elementos concretos constantes dos autos que, de fato, denotam a estabilidade e a permanência exigidas para a configuração de crime autônomo.
+O Tribunal de origem destacou que se trata de "abordagem de que resultou apreensão de objetos empregados na prática de traficância - caderno de anotações, balanças de precisão - acompanhados por extraordinária quantidade de droga - aproximadamente 18 kg (dezoito quilogramas) de maconha, 112 g (cento e doze gramas) de cocaína, 280 g (duzentos e oitenta) gramas de crack e 200 (duzentos) comprimidos de ectasy" (fl. 733).
+Enfatizou que é "clara a conclusão, a partir das circunstâncias fáticas verificadas, no sentido de que os acusados [NOME] e Ricardo empreendiam, de forma coordenada e com repartição funcional (em apartamento inabilitado, conforme aduziu o corréu Matheus), o delito de tráfico de entorpecentes" e que "foram encontrados bens a conotar dedicação organizada à realização do tipo" (fl. 737).
+Desse modo, não identifico nenhum constrangimento ilegal no ponto em que a instância ordinária concluiu pela condenação do paciente pela prática do crime de associação para o narcotráfico, haja vista a existência de elementos concretos que, efetivamente, demonstram a estabilidade e a permanência da associação criminosa da qual era integrante.
+Ademais, saliento que qualquer outra solução diferente da adotada pelo Tribunal de origem implicaria o revolvimento do material fático-probatório amealhado aos autos, providência que, consoante cediço, é vedada na via estreita do habeas corpus.
+II. Atenuante da menoridade
+No tocante ao quantum de redução de pena em razão da atenuante da menoridade, a Corte estadual assim procedeu à diminuição na segunda fase da dosimetria (fls. 743-748):
+A) DAS PENAS PARA O DELITO DE TRÁFICO DE ENTORPECENTES:
+ ..
+Faço incidir a atenuante decorrente da confissão do acusado mesmo que qualificada, conforme entendimento do Superior Tribunal de Justiça e a atenuante da menoridade, restando a pena provisória fixada nesta fase em 06 (seis) anos de reclusão.
+ ..
+B) DAS PENAS PARA O DELITO DE ASSOCIAÇÃO PARA O TRÁFICO:
+ ..
+Não há atenuantes nem agravantes a serem reconhecidas na presente fase da dosimetria. Fixada a pena em seu quantum mínimo durante a primeira fase, não há que falar em incidência da atenuante da menoridade, atendida a súmula 231 do STJ.
+ ..
+C) DAS PENAS PARA O DELITO DE POSSE IRREGULAR DE MUNIÇÃO DE USO RESTRITO:
+ ..
+Reconheço a atenuante da menoridade, restando a pena provisória fixada ao total de 03 (três) anos de reclusão.
+Quanto à fração de diminuição pela atenuante da menoridade, "O Código Penal olvidou-se de estabelecer limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas. Assim, a jurisprudência reconhece que compete ao julgador, dentro do seu livre convencimento e de acordo com as peculiaridades do caso, escolher a fração de aumento ou redução de pena, em observância aos princípios da razoabilidade e da proporcionalidade. Todavia, a aplicação de fração superior a 1/6 exige motivação concreta e idônea" (HC n. 381.179/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 23/2/2017, destaquei).
+No presente caso, a instância ordinária não apontou nenhuma justificativa para a aplicação, em relação ao delito de tráfico de drogas, de fração superior à recomendada pela jurisprudência, motivo pelo qual identifico a flagrante ilegalidade sustentada pela impetrante.
+Ressalto aqui que, quanto ao delito de associação para o tráfico, não houve diminuição pela menoridade, por haver sido a pena fixada no mínimo legal e em relação ao crime de posse irregular de munição, a fração utilizada foi corretamente aplicada diferente de 1/6, apesar de sem justificativa, pois reduziu-se a reprimenda ao mínimo.
+III. Minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006
+No que tange à almejada aplicação, em favor do paciente, da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, verifico que a Corte estadual entendeu indevida a incidência da benesse, consoante a seguir descrito (fls. 743-744):
+Impossível a incidência da minorante do § 4º do art. 33 da Lei n. 11.343/06. Nesse sentido, importa assinalar que o acusado não preenche os requisitos para a concessão da diminuição, considerando que a quantidade de entorpecentes apreendida, aliada à presença de munições de uso restrito, em grande montante, indicam, de maneira segura, dedicação à atividade criminosa.
+Outrossim, acresço, como reforço da fundamentação, que o acusado conta com condenações, ainda que não transitadas em julgado, em outros procedimentos criminais, motivo pelo qual, consoante entendimento do Superior Tribunal de Justiça a incidência da minorante se encontra ademais obstada.
+Com efeito, segundo o disposto no § 4º do art. 33 da Lei n. 11.343/2006, in verbis:
+§ 4º Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+Sobre a matéria posta em discussão, cumpre destacar que a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, cometendo um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+Por isso mesmo, para a aplicação da minorante em comento, são exigidos, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa e que não se dedique a atividades delituosas.
+No caso, não obstante o paciente fosse tecnicamente primário ao tempo do delito e possuidor de bons antecedentes, verifico que o Tribunal de origem entendeu indevida a incidência da causa especial de diminuição de pena, com base nas circunstâncias do caso concreto, as quais levaram a crer que o acusado se dedicava a atividades criminosas, notadamente ao narcotráfico, tanto que foi condenado também pelo cometimento do crime previsto no art. 35 da Lei n. 11.343/2006 (associação para o narcotráfico).
+Aliás, cumpre salientar que a Terceira Seção deste Superior Tribunal de Justiça possui o entendimento de que é inviável a aplicação da causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei de Drogas, quando o agente foi condenado também pela prática do crime previsto no art. 35 da Lei de Drogas, por ficar evidenciada a sua dedicação a atividades criminosas ou a sua participação em organização criminosa, no caso, especialmente voltada para o cometimento do narcotráfico.
+Dessa forma, não identifico nenhum constrangimento ilegal também no ponto em que, fundamentadamente, foi negada ao paciente a aplicação da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei de Drogas.
+IV. Nova dosimetria - delito de tráfico de drogas
+Sendo assim, com vistas ao estabelecimento de nova dosimetria, observo que a pena-base foi fixada pelo Tribunal de origem em 7 anos de reclusão e 700 dias-multa.
+Na segunda fase, aplico a fração de 1/6 para reduzir a reprimenda do réu em função da menoridade. Diminuo a reprimenda ainda em 6 meses pela confissão, razão pela qual à míngua de outras circunstâncias atenuantes ou agravantes e de causas de diminuição ou de aumento de pena, torno-a definitiva em 5 anos e 4 meses de reclusão e 540 dias-multa.
+Reconhecido o concurso material, fixo a pena definitiva para os delitos em 11 anos e 4 meses de reclusão mais 1.252 dias-multa.
+V. Dispositivo
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo parcialmente a ordem, a fim de reduzir a reprimenda do paciente para 11 anos e 4 meses de reclusão e pagamento de 1.252 dias-multa, mantidos os demais termos da condenação.
+Publique-se e intimem-se.
