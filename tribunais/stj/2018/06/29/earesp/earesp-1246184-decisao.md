@@ -1,0 +1,44 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (CPC/2015). AGRAVO DE INSTRUMENTO. IMPENHORABILIDADE DO BEM DE FAMÍLIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO ATACADO. SÚMULA 283/STF. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. ORIENTAÇÃO PRETORIANA SEDIMENTADA. SÚMULA 83/STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO CONHECIDO PARA, DESDE LOGO, CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por WILSON JESUS SARTO contra inadmissão, na origem, de recurso especial fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ Fl. 74):
+PRECLUSÃO E IMPENHORABILIDADE DE BEM DE FAMÍLIA - Há preclusão consumativa quanto à impenhorabilidade do bem de família quando houver decisão anterior acerca do tema, mesmo em se tratando de matéria de ordem pública - Precedentes do STJ - Decisão mantida - Agravo de instrumento desprovido.
+Opostos embargos de declaração, foram rejeitados (e-STJ Fls. 85/88).
+Nas razões de seu recurso especial, sustenta a parte agravante a vulneração aos arts. 458, II, 515, § 1º, e 535 do CPC/73; 1º da Lei nº 8.009/90, bem como dissídio jurisprudencial. A par da negativa de prestação jurisdicional e de cerceamento de defesa, assevera a ilegitimidade da constrição realizada em imóvel tendo em vista a impenhorabilidade do bem de família. Deduz que tal matéria é de ordem pública, não havendo se falar em preclusão consumativa para sua alegação e reconhecimento. Aponta que "antes da arrematação, a alegação da impenhorabilidade do bem de família pode ser feita a qualquer tempo e não sofre os efeitos da preclusão" (e-STJ Fl. 98).
+É o relatório.
+Passo a decidir.
+A irresignação não merece prosperar.
+Inicialmente, verifico que não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia. O Tribunal de origem, no caso, julgou suficientemente a matéria devolvida à sua apreciação.
+Com efeito, o TJ/SP expressamente manifestou-se acerca da tese de impenhorabilidade do bem de família na hipótese, verbis (e-STJ Fls. 86/87):
+Realmente, matéria de ordem pública pode ser conhecida a qualquer tempo e em qualquer grau de jurisdição e, inclusive, de ofício. Todavia, se já há coisa julgada ou preclusão por percorridas todas as instâncias sem sucesso, descabe decidir de novo o que já foi apreciado, não havendo como reabrir novamente a discussão.
+De outra banda, tampouco o apelo a argumentos sociais muda tal realidade, prevalecendo o que foi decidido no V. Acórdão embargado, cujos fundamentos são os seguintes:
+"Não obstante possa a impenhorabilidade ser alegada e reconhecida a qualquer tempo e grau de jurisdição por se tratar de matéria de ordem pública, tal não implica que decisão a respeito em caráter definitivo possa ser alterada pela insistência do devedor ou que, após a rejeição de tal tese, possa indefinidamente reabrir instrução a respeito, visando rediscutir o que já foi decidido e alcançado pela preclusão.
+Dispõe o art. 507 do NCPC que "é vedado à parte discutir, no curso do processo, as questões já decididas, a cujo respeito se operou a preclusão".
+Embora não se submetam as decisões interlocutórias ao fenômeno da coisa julgada material, ocorre frente a elas a preclusão, de que defluem consequências semelhantes às da coisa julgada formal.
+(..)
+Assim, decorrido o prazo ou já realizado o ato com ou sem êxito, extingue-se o direito de praticar ou de emendar o ato processual, independentemente de declaração judicial, ficando assegurado, porém, à parte, provar que não o realizou por justa causa (art. 223).
+Tem-se, de tal forma, a preclusão temporal, que se apresenta como "um dos efeitos da inércia da parte, acarretando a perda da faculdade de praticar o ato processual".
+Aqui sequer se aventou de justificativa para se provar após o exame definitivo da questão.
+A jurisprudência do Superior Tribunal de Justiça:
+(..) (g.n.)
+Veja-se que o Tribunal a quo rechaçou expressamente a tese do recorrente em vista da preclusão consumativa, inclusive reconhecendo que a impenhorabilidade do bem de família pode ser deduzida a qualquer tempo, não obstante, no presente processo, já tenha ocorrido a rejeição prévia de tal alegação.
+Nesse passo, inclusive, verifico que a insurgência recursal não refuta o fundamento disposto, mormente quanto à harmonia com a jurisprudência desta Corte e à ausência de justificativa para a ocorrência de preclusão. Assim, a teor da Súmula 283/STF, aplicável por analogia, "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ademais, quanto à própria alegação de bem de família e de cerceamento de defesa, elidir as conclusões do aresto impugnado demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 07/STJ.
+De toda sorte, ainda que assim não fosse, a irresignação do recorrente encontra óbice na incidência da Súmula 83/STJ, tendo em vista que o acórdão recorrido encontra-se em harmonia com a recente jurisprudência desta Corte.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. DEBATE ACERCA DA PENHORA DE IMÓVEL. PRÉVIA DECISÃO DO MAGISTRADO SINGULAR RECONHECENDO A PENHORABILIDADE DO BEM. AUSÊNCIA DE QUESTIONAMENTO JUDICIAL NO TEMPO OPORTUNO.
+PRECLUSÃO. IMPOSSIBILIDADE DE REVISÃO DESSE ENTENDIMENTO A QUALQUER TEMPO, MESMO EM SE TRATANDO DE MATÉRIA DE ORDEM PÚBLICA. LAUDO DE AVALIAÇÃO. CORREÇÃO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Opera-se a preclusão consumativa quanto à discussão acerca da penhorabilidade ou impenhorabilidade do bem de família quando houver decisão definitiva anterior acerca do tema, mesmo em se tratando de matéria de ordem pública. Precedentes.
+2. Os autos demonstram a existência de duas decisões anteriores transitadas em julgado firmando a possibilidade de penhora do imóvel, o que torna incabível a proteção legal do art. 3º, V, da Lei n. 8.009/1990, ante o teor da força da coisa julgada, prevista no art. 473 do CPC/1973 (art. 507 do novo CPC).
+3. Agravo interno desprovido. (AgInt nos EDcl no AREsp 1039028/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 09/11/2017, DJe 17/11/2017) - g.n.
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. ARTIGO 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. MULTA. LITIGÂNCIA DE MÁ-FÉ. SÚMULA Nº 7/STJ. FUNDAMENTO NÃO ATACADO. SÚMULA Nº 283/STF. ENCARGOS CONTRATUAIS. INCIDÊNCIA. EFETIVO PAGAMENTO. BEM DE FAMÍLIA. IMPENHORABILIDADE. PRECLUSÃO.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.  2. O afastamento da multa por litigância de má-fé depende, na hipótese, da análise do conteúdo fático da demanda, providência que esbarra no óbice da Súmula nº 7/STJ. 3. Na hipótese, a ausência de impugnação de fundamento suficiente para a manutenção da multa por litigância de má-fé atrai a incidência da Súmula nº 283/STF.
+4. De acordo com a firme jurisprudência desta Corte, os encargos contratuais continuam a incidir até o efetivo pagamento.
+5. A impenhorabilidade de bem de família pode ser alegada a qualquer tempo e grau de jurisdição. No entanto, uma vez decidido o tema, não pode ser reeditado, pois acobertado pela preclusão. Precedentes.
+6. Agravo interno não provido. (AgInt no REsp 1518503/PE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/09/2017, DJe 10/10/2017) - g.n.
+Finalmente, a par dos referidos óbices, há que se consignar que o dissídio jurisprudencial não foi comprovado conforme estabelecido nos arts. 541, parágrafo único, do CPC/73 (art. 1.029, § 1º, do CPC/2015), e 255, §§ 1º e 2º, do RISTJ. A divergência jurisprudencial deve ser demonstrada com a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados. No caso concreto, o recorrente aponta julgados que não guardam similitude fática com o caso dos autos, em que o tema da impenhorabilidade do bem de família já fora previamente rejeitado. Outrossim, não se procedeu ao devido cotejo analítico.
+Destarte, inviável a pretensão do recorrente.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Intimem-se.
