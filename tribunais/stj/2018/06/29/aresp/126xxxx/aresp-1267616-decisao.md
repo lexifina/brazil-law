@@ -1,0 +1,57 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CÉDULA DE CRÉDITO RURAL. 1. SOBRESTAMENTO. DESNECESSIDADE. 2. PRESCRIÇÃO. PRAZO VINTENÁRIO OU DECENAL. SÚMULA 83/STJ. 3. REVISÃO DE CONTRATOS EXTINTOS PELO PAGAMENTO. POSSIBILIDADE. SÚMULA 286/STJ. 4. CORREÇÃO MONETÁRIA. MARÇO DE 1990. ÍNDICE DE 41,28% REFERENTE À VARIAÇÃO DO BTNF. PRECEDENTES DESTA CORTE. SÚMULA 83/STJ. 5. TERMO INICIAL DA CORREÇÃO. DESEMBOLSO. 6. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Ageu Maer Rieiro ajuizou ação de conhecimento contra Banco do Brasil S.A. postulando a repetição do indébito decorrente da incidência de índice de correção monetária ilegal em cédulas de crédito rural.
+O Magistrado de primeiro grau julgou parcialmente procedente o pedido para reconhecer a ilegalidade do índice de correção monetária aplicada em março de 1990 no título de crédito, bem como condenar a instituição financeira à restituição de R$ 89.150,93 (oitenta e nove mil, cento e cinquenta reais e noventa e três centavos).
+Interposta apelação pelo banco, a Segunda Turma da Quarta Câmara Cível do Tribunal de Justiça de Goiás negou provimento ao apelo, em acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE REPETIÇÃO DE INDÉBITO. IMPOSSIBILIDADE JURÍDICA. PRESCRIÇÃO. ÍNDICES REMUNERATÓRIOS APLICADOS NO SALDO DEVEDOR DA CÉDULA RURAL. PRESSUPOSTOS DA AÇÃO. CORREÇÃO MONETÁRIA. JUROS DE MORA. INVERSÃO DO ÔNUS DA PROVA.
+1- Merece ser afastada a preliminar de impossibilidade jurídica do pedido, vez que o fato da cédula de crédito rural estar quitada não impede a averiguação do pacto contratual pela via judicial (precedentes do STJ e desta Corte).
+2- A prescrição é vintenária em ações de repetição de indébito (do art. 2028 do novo CC c/c art. 177 do CC/16).
+3- Tratando-se de crédito rural em que a correção monetária está vinculada aos índices remuneratórios da caderneta de poupança, revela-se aplicável para o mês de março de 1990, o percentual de 41,28%(BTNF) e não o percentual de 84,32% (IPC) (precedentes do STJ).
+4- Mostra-se correto o ajuizamento da ação de repetição de indébito, quando foi utilizado índice superior ao permitido, configurando a cobrança excessiva, devendo ser mantida a obrigação de restituir a diferença cobrada a maior.
+5- A correção monetária incide a partir do efetivo prejuízo financeiro, uma vez que o objetivo do autor na ação de repetição de indébito visa recompor o poder aquisitivo da moeda corroída pela inflação.
+6- Os juros de mora são devidos em 1% ao mês, a partir da citação (art. 406 do CC).
+7- Merece deferimento a inversão do ônus da prova, quando ocorrer as hipóteses previstas pelo art. 6º, inciso VIII, do CDC.
+APELO IMPROVIDO.
+A casa bancária interpôs recurso especial fundamentado nas alíneas a e c do permissivo constitucional, apontando, além de dissídio jurisprudencial, violação aos arts. 3º, 267, VI, 269, IV, e 543-B, § 1º, do CPC/1973; 368 e 876 do CC; 27 e 42, parágrafo único, do CDC; 6º, § 1º, da LINDB; 17 da Lei n. 4.595/1964; 6º e 20 da Lei n. 8.024/1990; 6º da Lei n. 8.088/1990; e 1º, § 2º, da Lei n. 6.899/1981.
+Sustentou, em síntese, a necessidade de sobrestamento do recurso ante a determinação por esta Corte e a ocorrência de prescrição do direito do autor. Aduziu, ainda, a inadmissibilidade de revisão de relações jurídicas extintas pelo pagamento, bem como a necessidade de adoção do IPC como índice de correção monetária a incidir no mês de março de 1990. Por fim, asseverou que o termo inicial da correção monetária é a data do ajuizamento da demanda.
+Contrarrazões às fls. 829-846 (e-STJ).
+O Tribunal de origem negou seguimento ao recurso sob o fundamento de incidirem as Súmulas n. 83 do STJ e n. 282 do STF.
+Irresignado, o banco apresenta agravo refutando os óbices apontados pela Corte estadual.
+Sem contraminuta.
+Brevemente relatado, decido.
+Inicialmente, quanto à matéria trazida à baila, ressalte-se a desnecessidade de sobrestamento do recurso, porquanto o REsp n. 1.361.730/RS já foi julgado pela Segunda Seção desta Corte Superior, inclusive já havendo trânsito em julgado da sua decisão.
+Em relação à prescrição, o acórdão recorrido se alinhou à jurisprudência desta Corte Superior ao determinar que o prazo prescricional a ser aplicado à espécie é o vintenário na vigência do CC/1916, ou o decenal quando vigente o CC/2002.
+Assinala-se, inclusive, que a tese foi fixada no referido REsp n. 1.361.730/RS, submetido ao rito dos recursos repetitivos, conforme se verifica da sua ementa:
+RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA (CPC/73, ART. 543-C). PROCESSUAL CIVIL. CIVIL E BANCÁRIO. CÉDULA DE CRÉDITO RURAL. AÇÃO DE REPETIÇÃO DE INDÉBITO. PRESCRIÇÃO. PRAZO: VINTENÁRIO NO CÓDIGO CIVIL/1916 (ART. 177); TRIENAL NO CÓDIGO CIVIL/2002 (ART. 206, § 3º, IV). TERMO INICIAL: DATA DO PAGAMENTO. CASO CONCRETO: RECURSO ESPECIAL NÃO PROVIDO.
+1. Para fins do art. 543-C do Código de Processo Civil de 1973: 1.1. - "A pretensão de repetição de indébito de contrato de cédula de crédito rural prescreve no prazo de vinte anos, sob a égide do art. 177 do Código Civil de 1916, e de três anos, sob o amparo do art. 206, § 3º, IV, do Código Civil de 2002, observada a norma de transição do art. 2.028 desse último Diploma Legal";
+1.2. - "O termo inicial da prescrição da pretensão de repetição de indébito de contrato de cédula de crédito rural é a data da efetiva lesão, ou seja, do pagamento."
+2. Caso concreto: prescrição da pretensão.
+3. Recurso especial a que se nega provimento. (REsp 1361730/RS, Rel. Min. Raul Araújo, Segunda Seção, julgado em 10/08/2016, DJe 28/10/2016)
+E ainda:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CÉDULA DE CRÉDITO RURAL. REVISÃO. INEXISTÊNCIA DE OFENSA AO ART. 535 DO CPC. PRESCRIÇÃO VINTENÁRIA. ÍNDICE APLICÁVEL. MARÇO DE 1990. BTNF (41, 28%). CAPITALIZAÇÃO MENSAL DE JUROS. FUNDAMENTAÇÃO DEFICIENTE E AUSÊNCIA DE COMBATE AO FUNDAMENTO DE QUE INEXISTE INTERESSE RECURSAL, NO PARTICULAR. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS 283 E 284 DO STF. LIMITAÇÃO DOS JUROS REMUNERATÓRIOS. ACÓRDÃO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. AGRAVO REGIMENTAL ACOLHIDO PARA, EM JUÍZO DE RETRATAÇÃO, CONHECER DO AGRAVO E, DESDE LOGO, NEGAR SEGUIMENTO AO RECURSO ESPECIAL POR OUTROS FUNDAMENTOS. (AgRg no AREsp 40671/MS, Rel. Min. Paulo de Tarso Sanseverino, Terceira Turma, julgado em 19/11/2013, DJe 25/11/2013)
+Incidência da Súmula 83/STJ no ponto.
+No que tange à possibilidade de revisão dos contratos extintos, a lei garante aos contratantes o direito de discutir a validade das cláusulas constantes da avença, especialmente as que possam significar cobrança de taxas excessivas ou ilegais.
+Assim, os contratos bancários são passíveis de revisão judicial, ainda que tenham sido objeto de novação ou tenham sido extintos pelo pagamento, pois não se pode validar obrigações nulas (Súmula 286 desta Corte).
+Ressalte-se que "ambas as Turmas integrantes da Segunda Seção desta Corte Superior já manifestaram o entendimento segundo o qual a possibilidade de revisão de contratos bancários permitida pela Súmula n. 286/STJ se estende também a situações de extinção contratual decorrentes de quitação." (AgRg no AgRg no REsp n. 933.221/RS, Relatora Ministra Maria Isabel Gallottti, DJe 16/11/2010).
+Em relação à questão de fundo trazida nos autos, está pacificada nesta Corte o entendimento de que, no mês de março de 1990, a correção monetária dos débitos das cédulas de crédito rural, com previsão de indexação monetária pelos índices da caderneta de poupança, deve ser calculada pelo índice de variação do BTNF, no percentual de 41,28%.
+Nesse sentido, anote-se:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CÉDULA DE CRÉDITO RURAL. PLANOS ECONÔMICOS. ATUALIZAÇÃO MONETÁRIA. DIFERENÇA DE EXPURGOS INFLACIONÁRIOS. MARÇO DE 1990. BTNF. DECISÃO AGRAVADA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL IMPROVIDO.
+1. Ausente qualquer fundamento relevante capaz de desconstituir a decisão agravada, deve ela ser mantida pelos seus próprios fundamentos.
+2. Consoante pacífica jurisprudência do Superior Tribunal de Justiça, incide o BTNF de março de 1990 na atualização monetária do saldo devedor de cédulas de crédito rural.
+3. Agravo regimental a que se nega provimento. (AgRg no REsp 1423395/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/05/2014, DJe 17/06/2014)
+DIREITO CIVIL. AGRAVO. RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO. CÉDULA DE CRÉDITO RURAL PIGNORATÍCIA. CORREÇÃO MONETÁRIA. MARÇO DE 1990. ÍNDICE DE 41,28% REFERENTE À VARIAÇÃO DO BTN. PRESCRIÇÃO. AUSÊNCIA DE MANIFESTAÇÃO EM SEDE DE CONTRARRAZÕES AO RECURSO ESPECIAL. PRECLUSÃO CONSUMATIVA. INOVAÇÃO RECURSAL. INADMISSIBILIDADE. - Aplica-se o BTN de 41,28% no mês de março de 1990, nas cédulas rurais cujo débito esteja vinculado aos índices da caderneta de poupança. - A ausência de menção da alegação de prescrição da pretensão do autor contrarrazões ao recurso especial da parte adversa importa o reconhecimento da preclusão consumativa e impede a apreciação da matéria em sede de agravo regimental, ante a vedação da inovação recursal. - Agravo no recurso especial não provido. (AgRg no REsp 1270936/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/11/2012, DJe 19/11/2012)
+Assim, torna-se inafastável a aplicação do enunciado n. 83 da Súmula de jurisprudência desta Corte.
+No tocante ao termo inicial da correção monetária, o acórdão recorrido determinou que a atualização se desse a partir do efetivo desembolso dos valores, enquanto a instituição financeira defende a sua incidência desde o ajuizamento da ação.
+Dessa forma, constata-se que o acórdão recorrido está em consonância com a jurisprudência deste Sodalício, pois a correção monetária não é um plus, mas sim um minus, com a finalidade de manter atualizado o valor devido.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. REEMBOLSO DE VALORES PAGOS. TERMO INICIAL DA CORREÇÃO MONETÁRIA. DATA DO DESEMBOLSO. SÚMULA 83 DO STJ. DISTRIBUIÇÃO DO ÔNUS DA SUCUMBÊNCIA. SÚMULA 7/STJ. DECISÃO MANTIDA.
+1. "No tocante ao termo inicial, é devida correção monetária desde o desembolso" (AgRg no Ag 682.404/RS, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 21/08/2008, DJe 11/09/2008).
+2. Aferir se houve ou não sucumbência recíproca demandaria reexame de provas. Incidência da Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento. (AgRg no REsp 714173/SP, Rel. Min. Luiz Felipe Salomão, Quarta Turma, julgado em 15/10/2015, DJe 21/10/2015)
+AÇÃO RESCISÓRIA. CONTRATO BANCÁRIO. FINANCIAMENTO AGRÍCOLA. REPETIÇÃO DE INDÉBITO. CORREÇÃO. PLANO COLLOR. PRELIMINARES DE COMPETÊNCIA DO STJ E CABIMENTO DA RESCISÓRIA AFASTADAS. REPETIÇÃO DO INDÉBITO. PEDIDO DE UTILIZAÇÃO DOS MESMOS CRITÉRIOS DE CÁLCULO ESTABELECIDOS NO CONTRATO. IMPOSSIBILIDADE. PRERROGATIVA EXCLUSIVA DAS INSTITUIÇÕES FINANCEIRAS. INCIDÊNCIA DE JUROS REMUNERATÓRIOS. DESCABIMENTO. TERMO INICIAL. JUROS MORATÓRIOS E CORREÇÃO MONETÁRIA.
+ ..  6. No tocante ao termo inicial, é devida correção monetária desde o desembolso.
+7. AÇÃO RESCISÓRIA JULGADA PARCIALMENTE PROCEDENTE. (AR 4393/GO, Rel. Min. Paulo de Tarso Sanseverino, relatora para acórdão Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 09/03/2016, DJe 14/04/2016)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, estabeleço os honorários recursais em favor do patrono da parte recorrida em 5% sobre o valor da condenação.
+Publique-se.
