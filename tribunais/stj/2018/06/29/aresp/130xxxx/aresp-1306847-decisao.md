@@ -1,0 +1,36 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. AÇÃO DECLARATÓRIA DE NULIDADE DE ESCRITURA PÚBLICA C/C REINTEGRAÇÃO DE POSSE. AUSÊNCIA DE CITAÇÃO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL DO BANCO DO NORDESTE DO BRASIL S.A. E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Trata-se de recurso especial interposto por Banco do Nordeste do Brasil S.A., com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul assim ementado (e-STJ, fls. 574-575):
+CIVIL E PROCESSO CIVIL. AÇÃO DECLARATÓRIA DE NULIDADE DE ESCRITURA DE PÚBLICA C/C REINTEGRAÇÃO DE POSSE. SENTENÇA DE PROCEDÊNCIA. APELAÇÃO CÍVEL. PREJUDICIAL DE NULIDADE DA SENTENÇA POR CERCEAMENTO DE DEFESA, SUSCITADA POR RECORRENTE. REJEIÇÃO. MÉRITO. NULIDADE DE PROCURAÇÃO PÚBLICA E POR CONSEQUÊNCIA, TAMBÉM NULA A ESCRITURA PÚBLICA. OBSERVÂNCIA DO ART. 661, § 1º, E ART. 1.247, AMBOS DO CÓDIGO CIVIL DE 1916. PRECEDENTE DESTA CORTE DE JUSTIÇA. CONHECIMENTO E DESPROVIMENTO DOS APELOS.
+1. No caso dos autos, não se percebe a essencialidade da juntada de novas provas documentais e/ou periciais, mormente porque a questão julgada é matéria de direito, referente às disposições legais, o que autorizou o saneamento da lide.
+2. A procuração pública é uma espécie de contrato por meio do qual alguém nomeia outrem para representá-lo na prática de atos jurídicos ou na administração de interesses, delegando-lhe poderes para a execução de determinados negócios. Porém, para que o mandatário possa alienar bens do mandantes, é necessário poderes concretamente expressos no documento, como disposto no art. 661, § 1º, do Código Civil.
+3. A alienação do imóvel em questão ao Sr. [NOME] a Sra. [NOME] foi realizada com respaldo em um substabelecimento nulo, porquanto, como verificado, teve seus poderes ampliados e não correspondeu ao instrumento público primitivo, por ser a procuração original passada por uma pessoa fisica e não da empresa, ora apelada, ensejando a sua ausência de validade, desencadeando um efeito cascata com relação a outra venda, feita para o Sr. [NOME].
+4. Precedente do TJRN (AC nº 2014.024304-3, Rel. Desembargador Amílcar Maia, 38 Câmara Cível, j. 26/05/2015).
+5. Rejeição da prejudicial, conhecimento e desprovimento dos apelos.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 617-624)
+Nas razões do presente recurso especial (e-STJ, fls. 627-639), o recorrente alega violação dos arts. 1.022 do Código de Processo Civil de 2015 e 47 e 472 do Código de Processo Civil de 1973.
+Sustentou, em síntese, a falta de prestação jurisdicional, uma vez que não houve manifestação quanto à ausência de citação da instituição financeira e ser caso de litisconsórcio necessário. Aduziu que é terceiro estranho à lide, pois não integrou a relação processual e que o prejuízo é evidente, tendo em vista a anulação dos registros imobiliários, o que afeta a hipoteca que grava os referidos imóveis.
+Foram apresentadas contrarrazões (e-STJ, fls. 787-796).
+O Tribunal de origem não admitiu o processamento do recurso especial em virtude da ausência de violação dos dispositivos apontados e da incidência da Súmula n. 7 do STJ (e-STJ, fls. 835-842).
+Brevemente relatado, decido.
+Preliminarmente, a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Dessa maneira, registro que a matéria em exame foi devidamente enfrentada pelo Colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1022 DO CPC NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE. INVIABILIDADE. IMPOSIÇÃO DA MULTA DO ART. 1.026, § 2º, DO CPC.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1022 do CPC.
+2. Os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito.
+3. Os segundos Embargos Declaratórios opostos com o intuito de modificar o julgado, inovando com argumentos preclusos, revela nítido caráter procrastinatório, pelo que é admissível a aplicação da multa prevista no art. 1.026, § 2º, do CPC.
+4. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl nos EDcl no AgRg no AREsp n. 822.269/SP, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 8/11/2016, DJe 17/11/2016).
+Ademais, o acórdão recorrido, ao julgar a apelação interposta pela instituição financeira, consignou o seguinte (e-STJ, fls. 581-582):
+(..)
+O BANCO DO NORDESTE DO BRASIL S.A.
+apelou pedindo a anulação da decisão a quo e, em consequência, a citação do Banco a fim de integrar a lide, em razão dos lotes 94/97 da quadra F do Loteamento Parque do Sol, Parnamirim/RN, negociado por meio da escritura pública em questão, foram hipotecados ao Banco em garantia de dívida contraída por meio da Cédula de Crédito Industrial 35.2011.1758.4827, por Deiges Indústria e Comércio de Confecções Ltda.
+30. Alegou o recorrente que, em virtude da declaração de nulidade dos registros imobiliários em sentença no primeiro grau, deveria ter sido intimado a fim de integrar a demanda para apresentar defesa.
+31. Todavia, o fato do imóvel estar hipotecado a favor do Banco do Nordeste do Brasil S.A., terceiro prejudicado, em nada interfere no deslinde do objeto desta ação, por se tratar de ação declaratória de nulidade de escritura pública c/c reintegração de posse, negócio jurídico antecedente à garantia existente em favor da instituição financeira.
+32. Em verdade, não há qualquer norma legal que obrigue o banco a ser intimado para se manifestar, em face de ser uma garantia hipotecária. Pois, trata-se de um contrato, de comum acordo, na forma de cédula de crédito industrial com garantia hipotecária de bens imóveis, onde se deve obediência ao princípio pacta sunt servanda, o qual consagra a liberdade de contratar, em face da referida cédula resultar de declaração livre e espontânea das partes, devendo ser respeitada.
+33. Dessa forma, não há prejuízo ao banco, até porque a garantia hipotecária poderá ser substituída, evidentemente desde que acordada pelas partes, sendo inviável a nulidade da sentença.
+Desse modo, verifica-se que o recorrente não se desincumbiu de demonstrar as razões pelas quais considera violadas as normas legais apontadas e tampouco impugnou os fundamentos do acórdão recorrido, incidindo, por analogia, os enunciados n. 283 e 284 do STF, que dispõem respectivamente: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles" e "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial do Banco do Nordeste do Brasil S.A. e, nesta extensão, negar-lhe provimento.
+Publique-se.
