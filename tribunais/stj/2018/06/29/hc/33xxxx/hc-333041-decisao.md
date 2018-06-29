@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra acórdão do Tribunal de Justiça do Estado de Pernambuco (HC n. 0004719-55.2015.8.17.0000).
+Relatam os impetrantes que o paciente foi preso em flagrante e denunciado, com base no mesmo inquérito, a duas ações penais (0002516-87.2013.8.17.0260 e 0000135-38.2015.8.17.0260) com o mesmo objeto. Sustentam, assim, a ocorrência de bis in idem, devendo ser aplicado o princípio da consunção.
+Alegam, ainda, a ocorrência de excesso de prazo na prisão cautelar, uma vez que o flagrante delito data de 26/9/2013.
+Requer, liminarmente e no mérito, seja concedido o direito de o paciente responder ao processo em liberdade.
+Indeferido o pleito liminar (e-STJ fls. 1.417/1.418) e prestadas as informações (e-STJ fls. 1.428/1.445), opinou o Ministério Público Federal "pelo parcial conhecimento do habeas corpus e nesta extensão, pela denegação da ordem" (e-STJ fls. 1.450/1.455).
+É o relatório. Decido.
+Acompanhando a orientação da Primeira Turma do Supremo Tribunal Federal, a jurisprudência desta Corte Superior firmou-se no sentido de que o habeas corpus não pode ser utilizado como substituto de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+Nesse sentido, encontram-se, por exemplo, estes julgados: HC 313.318/RS, Quinta Turma, Rel. Min. Felix Fischer, julgamento em 7/5/2015, DJ de 21/5/2015; HC 321.436/SP, Sexta Turma, Rel. Min. Maria Thereza de Assis Moura, julgado em 19/5/2015, DJ de 27/5/2015.
+Assim, de início, incabível o presente habeas corpus substitutivo de recurso especial. Todavia, em homenagem ao princípio da ampla defesa, passa-se ao exame da insurgência, para verificar a existência de eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Observa-se, de início, como bem salientou o Parquet Federal, que o habeas corpus não foi instruído com cópia integral do acórdão do Tribunal de origem, o que impede o exame dos temas nesta Corte Superior.
+Assim, não há como prosseguir a irresignação. Isso porque não foi juntada cópia de peça processual indispensável à compreensão da controvérsia, notadamente do ato praticado pelo Tribunal estadual, de modo a autorizar a análise do writ pelo Superior Tribunal de Justiça (Art. 105, II, da CF).
+Com efeito, É pacífico nesta Corte Superior o entendimento de que o habeas corpus, porquanto vinculado à demonstração de plano de ilegalidade, não se presta a dilação probatória, exigindo prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração, máxime quando se tratar de advogado constituído (HC n. 317.882/RJ, Relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/08/2015, DJe 31/08/2015).
+Ademais, informações colhidas na origem dão conta de que a sentença proferida contra o paciente transitou em julgado (Ação Penal n. 0002516-87.2013.8.17.0260 - 1ª Vara da Comarca de belo jardim/PE). Assim, não há mais que falar em custódia preventiva, mas em prisão decorrente de sentença penal condenatória transitada em julgado.
+Assim, fica sem objeto o pedido contido na inicial, em que se insurgia contra a prisão preventiva decretada contra o paciente, bem como o excesso de prazo da segregação cautelar.
+Ante o exposto, com base no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, nego seguimento ao presente habeas corpus.
+Publique. Intime-se.
