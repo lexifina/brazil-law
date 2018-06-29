@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LEANDRO ROBERTO CASTRO DE FREITAS, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Os autos dão conta de que o paciente, na data de 10/9/2002, foi condenado, por infração ao art. 157, § 2º, II, do Código Penal, à pena de 6 (seis) anos, 6 (seis) meses e 24 (vinte e quatro) dias de reclusão, além do pagamento de 16 (dezesseis) dias-multa. Foi estabelecido o regime fechado para o início de cumprimento da pena privativa de liberdade em razão da reincidência (e-STJ fls. 13/17).
+Irresignada, a defesa interpôs recurso de apelação perante o Tribunal de origem, que lhe negou provimento nos termos do acórdão de e-STJ fls. 19/30.
+No presente writ, o impetrante afirma que "o paciente faz jus ao regime diverso do fechado, consoante o disposto no artigo 33 do Código Penal, bem como o enunciado das Súmulas nº 269, do Superior Tribunal de Justiça e nº 718 e 719, do Supremo Tribunal Federal" (e-STJ fl. 3).
+Aduz que "há que se questionar qual a proporcionalidade de uma decisão que fixa o regime diverso do semiaberto, não obstante a quantidade da pena aplicada a justifique nos termos do artigo 33, § 2º, "b", do Código Penal. E nem se argumente que a reincidência afastaria a aplicação do citado diploma legal simplesmente porque o mesmo faz menção expressa a "condenado não-reincidente"" (e-STJ fl. 4).
+Sustenta que, "mesmo se o paciente fosse reincidente, a reincidência, por si só, não constitui motivação idônea que justifique a não aplicação do artigo em comento. É completamente desproporcional que, somente devido à agravante da reincidência, o acusado inicie a condenação em regime mais gravoso" (e-STJ fl. 4).
+Alega que "não se justifica a aplicação de regime fechado, eis que feriria o princípio da proporcionalidade, consistente em adequação, necessidade e proporcionalidade em sentido estrito. Os três têm como base as finalidades da pena, e não o contrário. Assim, considerando a quantidade de pena fixada constata-se que a decisão impugnada viola as normas acima apontadas, bem como ofende, dentre tantas outras garantias constitucionais, o princípio da individualização da pena" (e-STJ fl. 7).
+Por isso, requer, inclusive liminarmente, a alteração do regime inicial de cumprimento da pena para o semiaberto (e-STJ fls. 1/8).
+O pedido liminar foi indeferido (e-STJ fls. 38/40).
+Ouvido, o Ministério Público Federal manifestou-se pelo não conhecimento do presente remédio constitucional (e-STJ fls. 151/154).
+É, em síntese, o relatório.
+Dispõe o art. 33, § 2º, "b", do CP que o condenado não reincidente, cuja pena for superior a 4 anos e não exceder a 8 anos, poderá, desde o princípio, cumprir a reprimenda em regime semiaberto.
+No caso em análise, a Corte de origem manteve a fixação do regime fechado para o cumprimento da pena. Embora a pena privativa de liberdade tenha sido estabelecida em patamar inferior a 8 (oito) anos de reclusão, a reincidência impede a fixação do regime semiaberto.
+Justificada, assim, a necessidade de uma resposta penal mais efetiva, em razão de expressa previsão legal, não se mostrou irregular a atuação do Poder Judiciário, motivo pelo qual não diviso o apontado constrangimento ilegal.
+No mesmo sentido:
+PENAL E PROCESSUAL. HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO DE DROGAS. RECONHECIMENTO DE QUE O ENTORPECENTE SE DESTINA A CONSUMO PRÓPRIO. IMPOSSIBILIDADE. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. PENA SUPERIOR A 4 ANOS. REINCIDÊNCIA. REGIME MAIS GRAVOSO JUSTIFICADO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+1. A jurisprudência do Superior Tribunal de Justiça, acompanhando a orientação da Primeira Turma do Supremo Tribunal Federal, firmou-se no sentido de que o habeas corpus não pode ser utilizado como substituto de recurso próprio, sob pena de desvirtuar a finalidade dessa garantia constitucional, exceto quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. O habeas corpus constitui-se meio impróprio para apreciar a alegação de ausência de provas suficientes para a condenação do paciente ou a pretendida desclassificação para outro crime.
+3. A teor do disposto no art. 33, § 2º, "b", do CP, o réu reincidente, condenado a pena superior a 4 anos de reclusão e não excedente a 8 anos, deverá, desde o princípio, cumprir a pena no regime inicial fechado, mesmo se favoráveis as circunstâncias do art. 59 do Código Penal.
+4. No caso, embora fixada a sanção em patamar equivalente à aplicação do regime intermediário (5 anos e 10 meses), a adoção do regime fechado para cumprimento inicial da pena justifica-se pela reincidência delitiva.
+5. Habeas corpus não conhecido.
+(HC 304.796/SP, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 09/06/2015, DJe 19/06/2015, grifei.)
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. DOSIMETRIA. REINCIDÊNCIA. CONDENAÇÃO ANTERIOR. PERÍODO DEPURADOR. INTELIGÊNCIA DO ART. 64, I, DO CP. DIES A QUO. EXTINÇÃO DA PUNIBILIDADE/CUMPRIMENTO DA PENA E, NÃO, O TRÂNSITO EM JULGADO DA CONDENAÇÃO. ILEGALIDADE. AUSÊNCIA. REGIME SEMIABERTO. PACIENTE REINCIDENTE. IMPOSSIBILIDADE. NÃO CONHECIMENTO.
+1. O termo a quo para o cômputo do prazo de extinção dos efeitos da reincidência é a da data do cumprimento da pena ou da extinção da punibilidade, e não da data do trânsito em julgado da condenação anterior.
+Na espécie, consta da folha de antecedentes criminais do paciente que a extinção da punibilidade da condenação anterior transitou em julgado em 4.10.2005, de modo que o quinquênio legal operou-se somente em 4.10.2010. Tendo sido o crime descrito nos presentes autos cometido em 22.7.2010, data em que o feito anterior ainda se encontrava ativo, verifica-se a não ocorrência do período depurador, restando plenamente configurada a reincidência.
+2. Tratando-se de réu reincidente, é inviável a fixação do regime intermediário, nos termos do art. 33, § 2º, alínea "b", do Código Penal.
+3. Habeas corpus não conhecido.
+(HC 319.708/MS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 05/05/2015, DJe 13/05/2015, grifei.) )
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
