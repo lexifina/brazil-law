@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] contra decisão do Tribunal de Justiça Militar do Estado de São Paulo, que inadmitiu o seu apelo nobre.
+Consta dos autos que o agravante foi condenado à pena de 4 anos, 9 meses e 13 dias de reclusão, em regime inicial semiaberto, como incurso nas sanções dos arts. 333, c.c. 30, inciso II, 215, c.c. 218, inciso II (por duas vezes) e 216, c.c. 218, inciso II, na forma do art. 79, todos do Código Penal Militar.
+Inconformada, a defesa apelou perante a Corte local, a qual negou provimento ao recurso.
+Interposto Recurso Especial com fulcro nas alíneas a e c do inciso III do art. 105 da Constituição Federal, este não foi admitido pela instância de origem, ensejando a presente insurgência.
+Requer o provimento do agravo, a fim de que seja admitido e provido o Recurso Especial.
+O Ministério Público Federal opinou pelo desprovimento da insurgência.
+É o relatório.
+Da análise dos autos, constata-se que o Recurso Especial interposto não merece seguimento, porquanto manifesta a sua intempestividade.
+Isso porque, o acórdão impugnado foi disponibilizado no Diário da Justiça Militar eletrônico no dia 28.5.2015, tendo início o prazo para interposição do apelo nobre no dia 1º.6.2015, nos termos do art. 4º, §§ 3º e 4º, da Lei n. 11.419/06 (e-STJ fl. 1.945).
+E, conforme se infere do caderno processual (e-STJ fl. 1.948) e de consulta à página eletrônica da Corte Estadual Militar, o Recurso Especial foi protocolado apenas em 18.6.2015, quando já ultrapassado o prazo de 15 dias de que dispunha para a interposição do apelo extremo.
+Ressalte-se que a jurisprudência desta Corte se firmou no sentido de que a contagem dos prazos para interposição de recursos em matéria penal e processual penal obedece a norma específica do art. 798 do Código de Processo Penal, segundo o qual os prazos deverão ser computados de forma contínua, não se aplicado, portanto, a regra da contagem em dias úteis insculpida no art. 219 do novo Código de Processo Civil.
+A propósito, vejam-se:
+PENAL MILITAR E PROCESSUAL PENAL MILITAR. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ABANDONO DE POSTO. RECURSO ESPECIAL INTEMPESTIVO. PRAZO DE QUINZE DIAS. FORMA DE CONTAGEM. PREVISÃO ESPECÍFICA CONTIDA NO ART. 798 DO CÓDIGO DE PROCESSO PENAL. AGRAVO REGIMENTAL DESPROVIDO.
+I - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a contagem de prazo no processo penal, inclusive, no processo penal militar, obedece a regramento próprio. O art. 798 do Código de Processo Penal, em seu caput e § 1.º, determina que " t odos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia de feriado" e que, " n ão se computará no prazo o dia do começo, incluindo-se, porém, o do vencimento", constituindo norma especial em relação às alterações trazidas pela Lei 13.105/2015.
+II - Extrai-se da decisão de admissibilidade da origem que, "considerando que a conclusão do acórdão de fls. 331, que negou provimento aos embargos de declaração opostos pelo recorrente, foi disponibilizada no Diário da Justiça em 07/08/2017 (fl. 335), sendo considerada como data da publicação, portanto, o dia 08/08/2017, tendo em vista o disposto no art. 4o, § § 3o e 4o, da Lei nº 11.419/2006, aplicada no âmbito deste Eg. Tribunal de Justiça pela Resolução nº 034/2013, conclui-se que o termo inicial da contagem do prazo foi o dia 09/08/2017, findando-se, pois, no dia 23/08/2017, ex vi da forma de contagem estabelecida no artigo 798, § 1.o do Código de Processo Penal" (fl. 442).
+III - Assim, de fato, o apelo nobre não poderia ser admitido por ser intempestivo.
+Agravo regimental desprovido.
+(AgRg no AREsp 1236062/ES, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 24/05/2018, DJe 30/05/2018)
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RESP INTERPOSTO APÓS O PRAZO DE 15 DIAS, CONTADOS DE FORMA CONTÍNUA (ART. 798 DO CPP). RECURSO INTEMPESTIVO. NOVO CÓDIGO DE PROCESSO CIVIL (ART. 219). NÃO INCIDÊNCIA. PRECEDENTES DO STJ E DO STF.
+1. Os recursos que versam sobre matéria penal ou processual penal não obedecem às regras do CPC/2015 com relação à contagem dos prazos em dias úteis (art. 219 da Lei n. 13.105/2015). Isso porque há disposição específica no Código de Processo Penal acerca da matéria (art. 798), no sentido de que todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado; e que não se computará no prazo o dia do começo, incluindo-se, porém, o do vencimento, o que afasta a incidência do art. 219 da Lei n. 13.105/2015 nos termos do art. 3º do Código de Processo Penal. Precedentes do STJ e do STF.
+2. Agravo regimental improvido. (AgRg no AREsp 1180715/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 20/02/2018, DJe 26/02/2018)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTEMPESTIVO. INTERPOSIÇÃO FORA DO PRAZO DE 15 DIAS CORRIDOS. INAPLICABILIDADE DO REGRAMENTO DO NOVO CÓDIGO CIVIL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Após a edição da Lei n. 13.105/2015 (novo Código de Processo Civil) - que estabeleceu o prazo de 15 dias para a interposição de todos os recursos nele previstos, com exceção dos embargos de declaração -, a Corte Especial deste Superior Tribunal, assim como sua Terceira Seção, solidificou entendimento no sentido de que esse regramento, assim como o que diz respeito à contagem dos prazos em dias úteis, não se aplica às controvérsias pertinentes a matéria penal ou processual penal.
+(..)
+3. Agravo regimental desprovido. (AgRg no AREsp 1179262/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/02/2018, DJe 02/03/2018)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRAZO PARA A INTERPOSIÇÃO DE RECURSO ESPECIAL. 15 DIAS CORRIDOS. INTEMPESTIVIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. Em matéria penal, são intempestivos o Recurso Especial e o Agravo em Recurso Especial interpostos fora do prazo de 15 dias corridos.
+2. Agravo regimental improvido. (AgRg no AREsp 1036205/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 06/02/2018, DJe 15/02/2018)
+Por tais razões, afigurando-se inadmissível o apelo nobre, conhece-se do agravo para não conhecer o Recurso Especial, nos termos do artigo 34, VII, combinado com o artigo 253, parágrafo único, inciso II, alínea a, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se e intime-se.
+Cientifique-se o Ministério Público Federal.
