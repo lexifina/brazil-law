@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se recurso especial interposto por [NOME], com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fls. 131/132):
+PREVIDENCIÁRIO. PROCESSO CIVIL. SENTENÇA CITRA PETITA. APLICAÇÃO DO ART. 1.013, § 3o, III, DO CPC SENTENÇA ULTRA PETITA. AVERBAÇÃO. ATIVIDADE ESPECIAL. EXPOSIÇÃO A AGENTES INSALUBRES.
+1. A sentença ultra petita deve ser reduzida aos limites do pedido.
+2. Aplicação do disposto no Art. 1.013, § 3o, III, do CPC, vez que constatada omissão no exame de um dos pedidos.
+3. Até 29/04/95 a comprovação do tempo de serviço laborado em condições especiais era feita mediante o enquadramento da atividade no rol dos Decretos 53.831/64 e 83.080/79. A partir daquela data até a publicação da Lei 9.528/97, em 10/03/1997, por meio da apresentação de formulário que demonstre a efetiva exposição de forma permanente, não ocasional nem intermitente, a agentes prejudiciais a saúde ou a integridade física. Após 10/03/1997, tal formulário deve estar fundamentado em laudo técnico das condições ambientais do trabalho, assinado por médico do trabalho ou engenheiro do trabalho. Quanto aos agentes ruído e calor, o laudo pericial sempre foi exigido.
+4. O uso do equipamento de proteção individual - EPI, pode ser insuficiente para neutralizar completamente a nocividade a que o trabalhador esteja submetido. (STF, ARE 664335/SC, Tribunal Pleno, Relator Ministro LuizFux, j. 04/12/2014, DJe-029 DIVULG 11/02/2015 Public 12/02/2015).
+5. Considera-se especial as atividades insalubres de atendente e de auxiliar de enfermagem, exposta a vírus e bactérias, agentes nocivos previstos no item 1.3.2, do Decreto 53.831/64, no item 2.1.3, do Decreto 83.080/79 e no item 3.0.1, do Decreto 3.048/99, de modo habitual e permanente, não ocasional nem intermitente.
+6. Comprovados 25 anos de atividade especial na data do requerimento administrativo, faz jus a autoria à aposentadoria especial, nos termos do Art. 57 da Lei 8.213/91. Contudo, a ressalva contida em seu § 8o e o disposto no Art. 46, do mesmo diploma legal, impossibilita a implantação do beneficio.
+7. A antecipação da aposentadoria foi concebida como medida protetiva da saúde do trabalhador e, portanto, a permissão da manutenção de atividade insalubre reduziria o direito à aposentadoria especial a mera vantagem econômica, esvaziando o real objetivo da norma.
+8. Honorários advocatícios de 10% dado à causa, nos termos do que dispõe o inciso III, do § 4o, do Art. 85 do CPC.
+9. A autarquia previdenciária está isenta das custas e emolumentos, nos termos do Art. 4o, I, da Lei 9.289/96, do Art. 24-A da Lei 9.028/95, com a redação dada pelo Art. 3o da MP 2.180-35/01, e do Art. 8o, § Io, da Lei 8.620/93.
+10. Remessa oficial, havida como submetida, e apelação providas em parte.
+Opostos embargos de declaração, foram rejeitados (fls. 150/155).
+Nas razões do recurso especial, a parte recorrente aponta violação dos arts. 57 e 58, § 1º, da Lei 8.213/91, e sustenta, em síntese, que seria possível a concessão do benefício de aposentadoria especial ainda que a parte recorrente continue no exercício de atividade especial.
+Aduz, ainda, que "Não se pode exigir que a recorrente tivesse parado de exercer sua atividade até o julgamento final da demanda, pois assim a mesma ficaria sem perceber nenhum valor durante aproximadamente quatro anos (da distribuição em 18/06/2013 até o acórdão proferido em 16/05/2017)." (fl. 165).
+É o relatório.
+O recurso não prospera.
+Isso porque, com relação aos arts. 57 e 58, § 1º, da Lei 8.213/91, nota-se que os referidos dispositivos legais não contém comando capaz de sustentar a tese recursal e infirmar o juízo formulado pelo acórdão recorrido, de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Por oportuno, destacam-se os seguintes precedentes: AgRg no AREsp 161.567/RJ, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 26/10/2012; REsp 1.163.939/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 8/2/2011.
+Diante do exposto, não conheço do recurso especial.
+Publique-se.
