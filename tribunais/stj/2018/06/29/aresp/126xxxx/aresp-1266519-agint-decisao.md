@@ -1,0 +1,31 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. REFORMATIO IN PEJUS. FALTA DE PREQUESTIONAMENTO DO DISPOSITIVO LEGAL APONTADO COMO VIOLADO. SÚMULAS 282 E 356 DO STF. HONORÁRIOS RECURSAIS QUE NÃO SÃO DEVIDOS NA HIPÓTESE (ART. 85, § 11, DO CPC/2015). AGRAVO CONHECIDO PARA, EM JUÍZO DE RETRATAÇÃO, AFASTAR A CONDENAÇÃO DOS HONORÁRIOS RECURSAIS. MANTIDO, CONTUDO, O NÃO CONHECIMENTO DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interno interposto por [NOME] e [NOME] contra decisão monocrática desta relatoria que conheceu do agravo para não conhecer do recurso especial assim ementada (e-STJ, fl. 698):
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. REFORMATIO IN PEJUS. FALTA DE PREQUESTIONAMENTO DO DISPOSITIVO LEGAL APONTADO COMO VIOLADO. SÚMULAS 282 E 356 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Os agravantes, em suas razões (e-STJ, fls. 704-711), sustentam a impossibilidade de majoração dos honorários advocatícios, isso porque não foi observado o preenchimento cumulativo de requisitos necessários para fins de arbitramento de honorários dessa natureza. Afirmam que está ausente pelo menos um destes requisitos, qual seja, o da verba honorária sucumbencial ser devida desde a origem no feito em que interposto o recurso.
+Buscam, assim, a reconsideração da decisão agravada ou o julgamento deste recurso pelo colegiado.
+Foi apresentada contraminuta (e-STJ, fls. 715-718).
+Brevemente relatado, decido.
+De fato, compulsando os autos, verifica-se que assiste razão aos agravantes.
+Quanto aos honorários recursais, a Terceira Turma do STJ firmou o entendimento de que, para a fixação da verba prevista no art. 85, § 11, do CPC/2015, deverão ser observados determinados requisitos, conforme se verifica da seguinte ementa:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO CONFIGURADA. ACOLHIMENTO DOS EMBARGOS PARA SANAR O VÍCIO. CABIMENTO DE HONORÁRIOS ADVOCATÍCIOS RECURSAIS. REQUISITOS.
+I - Para fins de arbitramento de honorários advocatícios recursais, previstos no § 11 do art. 85 do CPC de 2015, é necessário o preenchimento cumulativo dos seguintes requisitos:
+1. Direito Intertemporal: deve haver incidência imediata, ao processo em curso, da norma do art. 85, § 11, do CPC de 2015, observada a data em que o ato processual de recorrer tem seu nascedouro, ou seja, a publicação da decisão recorrida, nos termos do Enunciado 7 do Plenário do STJ: "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC";
+2. o não conhecimento integral ou o improvimento do recurso pelo Relator, monocraticamente, ou pelo órgão colegiado competente;
+3. a verba honorária sucumbencial deve ser devida desde a origem no feito em que interposto o recurso;
+4. não haverá majoração de honorários no julgamento de agravo interno e de embargos de declaração oferecidos pela parte que teve seu recurso não conhecido integralmente ou não provido;
+5. não terem sido atingidos na origem os limites previstos nos §§ 2º e 3º do art. 85 do Código de Processo Civil de 2015, para cada fase do processo;
+6. não é exigível a comprovação de trabalho adicional do advogado do recorrido no grau recursal, tratando-se apenas de critério de quantificação da verba.
+II - A título exemplificativo, podem ser utilizados pelo julgador como critérios de cálculo dos honorários recursais:
+a) respeito aos limites percentuais estabelecidos nos §§ 2º e 3º do art. 85 do CPC de 2015;
+b) observância do padrão de arbitramento utilizado na origem, ou seja, se os honorários foram fixados na instância a quo em valor monetário, por meio de apreciação equitativa (§ 8º), é interessante que sua majoração observe o mesmo método; se, por outro lado, a verba honorária foi arbitrada na origem com base em percentual sobre o valor da condenação, do proveito econômico ou do valor atualizado da causa, na forma do § 2º, é interessante que o tribunal mantenha a coerência na majoração utilizando o mesmo parâmetro;
+c) aferição do valor ou do percentual a ser fixado, em conformidade com os critérios estabelecidos nos incisos I a IV do § 2º do art. 85;
+d) deve ser observado se o recurso é parcial, ou seja, se impugna apenas um ou alguns capítulos da sentença, pois em relação aos demais haverá trânsito em julgado, nos termos do art. 1.002 do CPC de 2015, de modo que os honorários devem ser arbitrados tendo em vista o proveito econômico que a parte pretendia alcançar com a interposição do recurso parcial;
+e) o efetivo trabalho do advogado do recorrido.
+III - No caso dos autos, além de o recurso especial ter sido interposto quando ainda estava em vigor o CPC de 1973 e não haver sido fixada verba honorária na origem, por se tratar de decisão interlocutória, a parte ora embargante pretende o arbitramento dos honorários recursais previstos no § 11 do art. 85 do Novo CPC no âmbito do agravo interno, o que, como visto, não é cabível.
+IV - Embargos de declaração acolhidos para, sem atribuição de efeitos infringentes, sanar a omissão no acórdão embargado. (EDcl no AgInt no REsp 1573573/RJ, Rel. Min. Marco Aurélio Bellizze, Terceira Turma, julgado em 04/04/2017, DJe 08/05/2017).
+Diante disso, na espécie, torna-se necessária a retirada da majoração dos honorários recursais, haja vista que não foram preenchidos os requisitos para a sua fixação, qual seja, verba honorária fixada desde a origem, uma vez que os ora agravantes não foram condenados na referida verba, conforme consta na sentença à fl. 243 (e-STJ): "Condeno o requerido ao pagamento das custas processuais e dos honorários advocatícios, que fixo em 20% (vinte por cento) do valor da condenação (art. 20, § 3º e o disposto no § único do art. 21 do CPC)." e posteriormente confirmado pelo acórdão dos embargos infringentes (e-STJ, fls. 472-488).
+Diante disso, reconsidero a decisão de fls. 698-700 (e-STJ), com fundamento no art. 259 do RISTJ.
+Ante o exposto, conheço do agravo para, em juízo de retratação, afastar a condenação dos ora agravantes em honorários sucumbenciais. Mantido o não conhecimento do recurso especial quanto ao mérito.
+Publique-se.
