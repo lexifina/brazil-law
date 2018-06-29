@@ -1,0 +1,14 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO E RECURSO ESPECIAL INTERPOSTOS SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS POR USO INDEVIDO DE IMAGEM C/C PETIÇÃO DE LIMINAR EM TUTELA ANTECIPADA. RESPONSABILIDADE CIVIL POR DIVULGAÇÃO DE IMAGEM SEM AUTORIZAÇÃO. CONVERTIDO EM RECURSO ESPECIAL PARA MELHOR EXAME.
+DECISÃO
+CAROLINE LEAL DA COSTA (CAROLINE) ajuizou ação de indenização por danos morais e materiais por uso indevido de imagem c/c pedido de liminar em tutela antecipada contra INSTITUTO DE BELEZA WONDERFUL WOMAN S/A LTDA. (INSTITUTO DE BELEZA) e [NOME] ([NOME]). A ação foi julgada improcedente em relação a [NOME] e foi julgada parcialmente procedente em relação ao INSTITUTO DE BELEZA.
+A apelação interposta por INSTITUTO DE BELEZA não foi provida pelo Tribunal de origem, nos termos da seguinte ementa:
+INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS - Uso indevido de imagem - Parcial procedência, com a condenação do corréu Instituto de Beleza ao pagamento de indenização por danos materiais e improcedência com relação ao corréu [NOME] - Insurgência do corréu Instituo de Beleza, sob alegação de que a responsabilidade pelo uso indevido da imagem da autora seria exclusivamente do corréu [NOME] - Descabimento - Contrato entabulado entre as partes que tem por objeto apenas a disponibilização do serviço, com cláusula expressa que exclui qualquer responsabilidade do corréu. Decisão mantida. RECURSO DESPROVIDO. (e-STJ fls. 259)
+Inconformado, o INSTITUTO DE BELEZA interpôs recurso especial, com fundamento no art. 105, III, a, da CF, alegando violação dos arts. 373, inc. II, do NCPC e 421 do CC, ao sustentar que (1) o correu [NOME], profissional da área, vendeu uma imagem sabendo que seria utilizada para propaganda de marketing, sem ter a devida autorização de uso, devendo responder pelos danos decorrentes; (2) a cláusula contratual não isenta a responsabilidade do vendedor profissional de imagens publicitárias sem a devida autorização para divulgação, mas apenas da utilização da imagem em objetos ilícitos, em propaganda depreciativa ou em divulgação imprópria; (3) a posse da autorização para a divulgação é o mínimo que a boa-fé espera de um profissional atuante em tal ramo de atividade que ganhou com a venda dessa imagem; e (4) devem ser revaloradas as provas.
+O apelo nobre não foi admitido em virtude da incidência da Súmula 5 do STJ.
+Nas razões do presente agravo em recurso especial, o INSTITUTO DE BELEZA sustentou que é questão de valoração de prova, pois não há como eximir [NOME] de responsabilidade intrínseca à sua atividade comercial, que é justamente fornecer imagens revestidas de autorização para divulgação.
+Foi apresentada impugnação (e-STJ, fls. 307/313).
+É o relatório.
+Decido.
+Considerando as razões expostas pelo recorrente, para melhor examinar a controvérsia suscitada, DOU PROVIMENTO ao presente agravo para determinar a sua conversão em recurso especial.
+Publique-se. Intimem-se.
