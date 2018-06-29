@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo interposto por [NOME] DE ARAÚJO contra decisão que inadmitiu recurso especial com base no artigo 1.030, inciso I, alínea "b", do Código de Processo Civil de 2015.
+A agravante aponta equívoco na interpretação dada aos paradigmas repetitivos utilizados para negativa de seguimento do recurso especial.
+É o relatório, em síntese.
+DECIDO.
+O recurso não merece prosperar.
+Preliminarmente, importante consignar que o acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Sabe-se que, contra decisão que não admite recurso especial com base no artigo 1.030, inciso I, alínea "b", do Código de Processo Civil de 2015, o recurso cabível é o agravo interno do artigo 1.021, consoante orienta o § 2º do artigo 1.030, sendo manifestamente incabível a interposição do agravo de que trata o artigo 1.042.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. DECISÃO DE 2º GRAU QUE, COM FUNDAMENTO NO ART. 543-C, § 7º, I, DO CPC/73, INADMITE O RECURSO ESPECIAL. RECURSO CABÍVEL. EXPRESSA PREVISÃO LEGAL. FUNGIBILIDADE RECURSAL. INAPLICABILIDADE. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão publicada em 16/02/2018, que, por sua vez, julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. A decisão de 2º Grau, que negou seguimento ao Recurso Especial, fundamentou-se no art. 543-C, § 7º, I, do CPC/73, sob o argumento de que a matéria suscitada fora decidida no julgamento do REsp 1.120.295/SP e do REsp 1.102.431/RJ, sob o rito dos recursos repetitivos.
+III. A Corte Especial do STJ, na vigência do CPC/73, ao analisar a Questão de Ordem no Ag 1.154.599/SP (Rel. Ministro CESAR ASFOR ROCHA, DJe de 12/05/2011), entendeu que não cabe Agravo (de instrumento ou em recurso especial) contra decisão do Tribunal de 2º Grau que nega seguimento a Recurso Especial, com base no art. 543-C, § 7º, I, do CPC/73, ainda que o recurso tenha o fundamento de que o Tribunal de origem não efetuara a correta aplicação do Recurso Especial representativo da controvérsia, na hipótese.
+IV. Na sessão de 05/08/2015, ainda na vigência do CPC/73, nos autos do AREsp 260.033/PR e do AREsp 267.592/PR, a Corte Especial do STJ, por maioria, decidiu que o Agravo em Recurso Especial (art. 544 do CPC/73), interposto contra decisão que nega seguimento a Recurso Especial, com base no art. 543-C, § 7º, inciso I, do CPC/73, conforme a orientação firmada na Questão de Ordem no Agravo de Instrumento 1.154.599/SP (segundo a qual não é cabível o Agravo, na hipótese mencionada), deve ser convertido em Agravo interno, a ser apreciado pelo Tribunal de origem.
+V. Considerando que, na espécie, a intimação da decisão de inadmissão do Recurso Especial - que está fundamentada na conformidade do acórdão recorrido com tese firmada sob o rito dos recursos repetitivos -, efetivou-se na vigência do novo Código de Processo Civil, cujo art. 1.030, I, b, e § 2º, prevê, expressamente, na hipótese, o cabimento de agravo interno, "a interposição do agravo em recurso especial, previsto no artigo 1.042 do CPC/2015, constitui erro grosseiro, tendo em vista a inexistência de dúvida objetiva, ante à expressa previsão legal do recurso adequado, não sendo mais devida a determinação de retorno dos autos ao Tribunal de origem para que o aprecie como agravo interno" (STJ, AgInt no AREsp 1.003.647/BA, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 22/02/2017).
+VI. Agravo interno improvido."
+(AgInt no AREsp 1.177.182/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 15/5/2018, DJe 21/5/2018)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL COM FUNDAMENTO NO ART.
+1.030, I, B, DO CPC/15. CABIMENTO DE AGRAVO INTERNO NOS TERMOS DO ART. 1.030, § 2º, CPC/15. INTERPOSIÇÃO DO AGRAVO PREVISTO NO ART. 1.042, DO CPC/15. ERRO GROSSEIRO. INAPLICÁVEL O PRINCÍPIO DA FUNGIBILIDADE RECURSAL.
+1. A decisão agravada foi publicada já na vigência do atual Código de Processo Civil, o qual prevê no art. 1.030, I, "b", § 2º, do CPC/15, que cabe agravo interno contra a decisão que nega seguimento a recurso especial interposto contra acórdão em conformidade com entendimento do STJ em recurso repetitivo.
+2. A parte agravante interpôs agravo em recurso especial previsto no art. 1.042, caput, do CPC/15 e não o agravo interno perante o Tribunal local, não sendo admitida, consoante a lei e jurisprudência do STJ, a aplicação do princípio da fungibilidade recursal.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1.165.967/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/5/2018, DJe 21/5/2018)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO NA VIGÊNCIA DO CPC/2015. APLICAÇÃO DO ART. 1.042 DO CPC. ERRO GROSSEIRO. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Nos termos do art. 1.030, § 2o. do CPC/2015, cabe Agravo Interno contra decisão do Presidente ou Vice-Presidente da Corte de origem que negar seguimento a Recurso Especial interposto em face de acórdão que esteja em consonância com o entendimento fixado em recurso repetitivo.
+2. Assim, a interposição do Agravo previsto no art. 1.042, caput do CPC/2015 constitui erro grosseiro, não se aplicando o princípio da fungibilidade recursal, porquanto inexiste dúvida objetiva, ante a expressa previsão legal do recurso adequado. Precedentes: AgInt no AREsp. 1.164.904/ES, Rel. Min. ASSUSETE MAGALHÃES, DJe 23.3.2018; AgInt no AREsp. 1.097.673/SP, Rel. Min. GURGEL DE FARIA, DJe 23.2.2018; AgInt no AREsp. 985.072/MG, Rel. Min. MARCO BUZZI, DJe 14.12.2017; AgInt no TP 826/PE, Rel. Min. PAULO DE TARSO SANSEVERINO, DJe 1.12.2017; AgInt no AREsp. 1.108.872/BA, Rel. Min. REGINA HELENA COSTA, DJe 21.11.2017; AgInt no AREsp. 967.166/RN, Rel. Min. BENEDITO GONÇALVES, DJe 11.10.2017.
+3. Agravo Interno do particular a que se nega provimento."
+(AgInt no AREsp 1.098.896/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 24/4/2018, DJe 10/5/2018)
+Ante o exposto, não conheço do agravo.
+Deixo de majorar os honorários sucumbenciais, conforme determina o artigo 85, § 11, do Código de Processo Civil de 2015, haja vista que já foram fixados na origem no percentual máximo de 20% (vinte por cento) sobre o valor atualizado da causa.
+Publique-se.
+Intimem-se.
