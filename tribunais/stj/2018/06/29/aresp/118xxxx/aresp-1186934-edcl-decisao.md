@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por PAPA ECO VIGILÂNCIA E SEGURANÇA LTDA. contra decisão que inadmitiu o recurso especial que interpusera.
+Verificada por esta Corte a aplicação da Súmula 182/STJ à hipótese dos autos, não se conheceu do agravo (e-STJ, fl. 193). Contra esta decisão foram opostos embargos de declaração (e-STJ, fls. 197/200) por PAPA ECO VIGILÂNCIA E SEGURANÇA LTDA.
+Por intermédio da certidão de fl. 201 (e-STJ), certificou-se a não localização de procuração e/ou substabelecimento subscrita por Papa Eco Vigilância e Segurança Ltda. - ME outorgando poderes ao advogado [NOME], [OAB], signatário dos embargos de declaração de fls. 197/200 (e-STJ), bem como que não foi aberta a vista para impugnação aos embargos de declaração, tendo em vista que a parte embargada (Central de Liquidantes) estaria sem representação nos autos.
+Em despacho de fl. 204 (e-STJ), publicado em 06/04/2018, determinou-se a intimação da agravante/embargante e da agravada/embargada para a regularização das circunstâncias acima consignadas.
+Todavia, conforme certidão de fl. 213 (e-STJ), constata-se que o ofício encaminhado para a intimação da agravada/embargada, Central de Liquidantes, foi "devolvido pelos Correios com a informação de que a destinatária mudou-se".
+Já a certidão de fl. 218 (e-STJ) certifica que o ofício encaminhado para a intimação da agravante/embargante, Papa Eco Vigilância e Segurança Ltda - ME, foi "devolvido pelos Correios com a informação de que a destinatária é desconhecida. Foi expedido, então, novo ofício com outro endereço". Entretanto, conforme certidão de fl. 222 (e-STJ), o novo ofício teria sido devolvido pelos Correios pelo seguinte motivo: mudou-se.
+É O RELATÓRIO. DECIDO.
+Nos termos da Legislação Processual vigente (art. 76, § 2º, I, do CPC/2015), verificada a irregularidade da representação da parte, designado prazo para o saneamento do vício e descumprida tal determinação em fase recursal, não se conhecerá do pleito se a providência couber ao recorrente; logo, constata-se o menoscabo da parte ora agravante/embargante com a conclusão da prestação jurisdicional por ela mesma pleiteada.
+Forte nessas razões, certificado o trânsito em julgado dos autos, proceda à sua baixa definitiva.
+Publique-se. Intimem-se.
