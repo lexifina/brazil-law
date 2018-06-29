@@ -1,0 +1,24 @@
+Decisão:
+    Vistos.
+    Rio Park Residence LTDA interpõe agravo contra a decisão que não admitiu recurso extraordinário.
+    Insurge-se, no apelo extremo, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    “PENAL E PROCESSUAL PENAL. EMBARGOS DE TERCEIRO. NULIDADE DA SENTENÇA. INOCORRÊNCIA. IMÓVEIS OBJETO DO CRIME DE LAVAGEM DE DINHEIRO. 1. O ponto fundamental para a resolução da questão submetida à análise - qual seja, o real proprietário dos bens - foi devidamente examinado pela sentença, não havendo qualquer nulidade a reconhecer.
+    2. Comprovado que os imóveis em questão não pertencem, de fato, à embargante, constituindo, ao revés, objeto do crime de lavagem de capitais, tendo inclusive sido decretado o seu perdimento, o pedido de levantamento da constrição não merece acolhida.
+    3. Apelação criminal desprovida“
+    Opostos embargos de declaração, não foram providos.
+    No recurso extraordinário sustenta-se violação dos artigos 5º, incisos XXXI, XXXIX, XL, XLV e LV, e 170, inciso II, da Constituição Federal.
+    Pede o provimento do recurso “para os fins de imediata liberação dos bens indicados, ou, alternativamente, para determinar o retorno dos autos à origem para apreciação dos fundamentos ora apresentados”.
+    Examinados os autos, decido.
+    No que se refere ao incisos XXXI, XXXIX e XLV do art. 5º da Constituição, apontados como violados, carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram da referida norma, as quais, também, não foram objeto dos embargos declaratórios opostos pela parte recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte. Nesse sentido, destaca-se:
+    “Agravo regimental em agravo de instrumento. 2. Prequestionamento. Ausência. Embargos de declaração que não trataram da matéria constitucional. Súmulas 282 e 356 do STF. 3. Ofensa aos princípios da legalidade e da prestação jurisdicional. Análise da legislação infraconstitucional. Precedente. 4. Revisão de cláusula contratual. Ofensa reflexa. Precedente. 5. Agravo regimental a que se nega provimento” (AI nº 551.533/MG-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 3/3/06).
+    Além disso, a jurisprudência desta Suprema Corte é firme no sentido de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, não configura ofensa direta e frontal à Constituição da República.
+    Nesse sentido, confira-se: AI nº 657.780/BA-AgR, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 17/8/07; AI nº 641.845/ES-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 31/8/07; AI nº 505.224/SP-AgR, Primeira Turma, Relator o Ministro Ayres Britto, DJ de 18/5/07 e AI nº 563.028/GO-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 11/5/07, entre outros.
+    Registre-se, por fim, que, para se chegar a entendimento diverso do acórdão recorrido, necessário seria o reexame aprofundando de fatos e provas, intimamente ligados ao mérito da ação penal, o que é vedado nesta via extraordinária, consoante o enunciado da Súmula nº 279/STF.
+    Perfilhando esse entendimento, destaco o seguinte julgado:
+    “DIREITO PENAL E PROCESSUAL PENAL. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. ALEGAÇÃO DE OFENSA AO ART. 5º, XXII, XLV, XLVI E LIV, DA CONSTITUIÇÃO FEDERAL. DEVIDO PROCESSO LEGAL. AUSÊNCIA DE REPERCUSSÃO GERAL. RESTITUIÇÃO DE BENS SEQUESTRADOS. LICITUDE E PROPRIEDADE NÃO COMPROVADAS. ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E REEXAME DE FATOS E PROVAS. SÚMULA 279/STF. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. ART. 5º, XLVI, DA LEI MAIOR. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE TRÂNSITO. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. Obstada a análise da suposta afronta aos preceitos constitucionais invocados, porquanto dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, procedimento que refoge à competência jurisdicional extraordinária desta Corte Suprema, a teor do art. 102 da Magna Carta. 2. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa a preceito da Constituição da República. 3. Agravo interno conhecido e não provido.” (ARE nº 926.174/SP-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 29/9/17).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 29 de junho de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
