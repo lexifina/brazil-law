@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de embargos declaratórios opostos por [NOME] contra decisão desta relatoria que conheceu do agravo para negar provimento ao recurso especial pela ausência de julgamento extra petita e incidência da Súmula nº 568/STJ.
+Nas razões dos presentes aclaratórios, a embargante alega omissão no julgado.
+Menciona que, na ação de arbitramento de aluguéis, não se levou em conta que a embargante pagou o financiamento dos imóveis, várias prestações atrasadas e os encargos fiscais.
+Sustenta, ainda, que
+"(..) o v. acórdão foi omisso ao não definir sobre qual período o EMBARGADO faz jus ao recebimento de aluguel sobre sua suposta parte do imóvel localizado no Município de Guarulhos, posto que antes de pedir o arbitramento de aluguel já havia disponibilizado a referida parte do imóvel para pagamento de sua dívida alimentar" (fl. 547 e-STJ).
+Aduz, por fim, que
+"(..)
+Destarte, não houve a definição do quinhão pertencente a cada uma das partes, não se revelando lícito pedido de indenização, a título de aluguel, pelo uso exclusivo dos imóveis pela EMBARGANTE, enquanto o EMBARGADO está no uso de outros bens pertencentes ao patrimônio comum e auferindo frutos, sem nada destinar à EMBARGANTE" (fl. 548 e-STJ).
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+A pretensão merece acolhimento, contudo, sem efeitos infringentes.
+Depreende-se dos autos que, com relação às referidas teses jurídicas, o acórdão recorrido foi fundamentado nos seguintes termos:
+"(..)
+A embargante alega que o acórdão embargado (1) é contraditório, pois condenou a embargante a pagar pelo uso ao embargado; o que não seria cabível, pois houve mancomunhão, e não condomínio; (2) é contraditório pois condenou a embargante a indenizar o embargado pelo uso exclusivo de certo imóvel ignorando o restante do patrimônio do casal sob a guarda do embargado; (3) omissão quanto às despesas do imóvel; (4) é omisso quanto à alegação da embargante de que arcou sozinha com onze anos das prestações do financiamento habitacional; (5) omissão quanto à ação anulatória da sentença que homologou o acordo de mediação; (6) prequestiona o art. 1.121, § 1º, do CPC, os arts. 1.314, 1.315, 1.319, 1.326, 2.017, 2.023 e seguintes do CC, bem como a jurisprudência do STJ que "sedimentou o entendimento de que o pagamento de aluguel só é devido depois de operada a partilha".
+É o relatório.
+A embargante inova absolutamente ao deduzir as objeções descritas no relatório, como se pode inferir do cotejo com as razões a fls. 182/8. Todos os temas devolvidos pela embargante por meio de sua apelação foram absolutamente tratados, descabendo-lhe resgatar temas não devolvidos, sob pena de ofensa ao art. 515 caput do CPC" (fls. 337/338 e-STJ) - grifou-se.
+A embargante, por sua vez, não infirmou o fundamento referente ao artigo 515 do CPC/73, aplicando-se, portanto, a Súmula nº 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Ademais, importa ressaltar que, com razão o Tribunal de origem em aplicar o artigo 515 do CPC/73, já que na apelação (fls. 178/188 e-STJ), que seria o momento oportuno para alegar as referidas teses jurídicas, nada foi mencionado.
+Nesse cenário, suscitados os temas apenas nas razões dos aclaratórios, não há falar em omissão no acórdão, por se tratar de nítida inovação recursal.
+Nesse sentido:
+"PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA.
+DOAÇÃO DE VERBA PÚBLICA A CLUBE DE FUTEBOL. INEXISTÊNCIA DE LEI QUE AUTORIZASSE TAL DESPESA. (I) SUPOSTA VIOLAÇÃO AO ART. 535 DO CPC. INEXISTÊNCIA DE OMISSÃO. INOVAÇÃO RECURSAL. NÃO CABE AO TRIBUNAL A QUO ANALISAR MATÉRIA NÃO IMPUGNADA NO RECURSO DE APELAÇÃO, NEM ALEGADA OPORTUNAMENTE DURANTE O PROCESSO, SALVO AS CONEXAS COM O MÉRITO E AS DE ORDEM PÚBLICA. (II) DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA ENTRE O ACÓRDÃO RECORRIDO E O PARADIGMA. (III) OS AGENTES POLÍTICOS PODEM SER IMPUTADOS DA PRÁTICA DE ATO DE IMPROBIDADE. ENTENDIMENTO FIRMADO PELA CORTE ESPECIAL DO STJ (RCL 2.790/SC, REL. MIN. TEORI ALBINO ZAVASCKI, DJE 4.3.2010). (IV) AUSÊNCIA DE DEMONSTRAÇÃO DO EM QUE CONSISTE A VIOLAÇÃO AO ART. 11 DA LEI 8.429/92. INCIDÊNCIA DA SÚMULA 284 DO STF. (V) AS SANÇÕES DO ART. 12 DA LEI 8.429/92 PODEM SER APLICADAS ISOLADA OU CUMULATIVAMENTE. DEVE O MAGISTRADO APLICAR A DOSIMETRIA TANTO NA FIXAÇÃO DAS ESPÉCIES DE SANÇÕES A SEREM IMPOSTAS, QUANTO NA FIXAÇÃO DO QUANTUM DA PENALIDADE. NO CASO CONCRETO, ORA EM EXAME, A INCIDÊNCIA DE TODAS AS ESPÉCIES DE PENAS, DE FORMA CUMULADA, AINDA QUE CADA UMA SEJA FIXADA NOS LIMITES MÍNIMOS LEGAIS, VIOLA O PRINCÍPIO DA PROPORCIONALIDADE.
+1. Inexiste a omissão apontada no acórdão recorrido, pois o efeito devolutivo da apelação abrange somente a matéria impugnada, nos termos do art. 515 do CPC, sendo vedado ao Tribunal julgar matéria alheia a que foi objeto do apelo, salvo as matérias conexas e as de ordem pública.
+2. A inovação recursal somente se mostra possível na hipótese de o recorrente comprovar que deixou de alegar anteriormente a matéria por motivo de força maior, nos termos do art. 517 do CPC.
+3. As teses invocadas pelo recorrente, pela primeira vez, em sede de Embargos Aclaratórios, não consistem em matérias de ordem pública, tratando-se de verdadeira inovação recursal. As matérias de ordem pública, que envolvem regras imperativas e inafastáveis pela vontade das partes, podem, a qualquer tempo, ser conhecidas pelo Tribunal, inclusive de ofício.
+(..)
+12. Recurso Especial parcialmente conhecido e, nessa extensão, provido para afastar as penalidades de multa civil e proibição de contratar com o Poder Público, mantendo-se as penalidades de suspensão dos direitos políticos por 5 anos e ressarcimento integral do dano" (REsp 987.598/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 27/8/2013, DJe 19/9/2013).
+Ante o exposto, acolho os declaratórios para suprir a omissão apontada, sem, contudo, atribuir-lhes efeitos infringentes, com a advertência de que, havendo reiteração de recurso protelatório, a multa prevista no art. 1.026 do Código de Processo Civil de 2015 será aplicada.
+Publique-se.
+Intimem-se.
