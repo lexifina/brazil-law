@@ -1,0 +1,46 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRETENSÃO DE REEXAME E ADOÇÃO DE TESE DISTINTA. INEXISTÊNCIA DE VÍCIOS NO JULGADO.
+1. Os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual se deveria pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+2. O acórdão embargado consignou que não subsiste a alegação de ausência de fundamentação ou negativa de prestação jurisdicional, porquanto o acórdão recorrido está suficientemente motivado em consonância com os parâmetros delimitados pelo Supremo Tribunal Federal (Tema 339/STF), bem como que o STF, no RE 598.365/MG-RG, decidiu inexistir repercussão geral na questão alusiva aos pressupostos de admissibilidade de recursos de outros tribunais, pois a matéria está restrita ao exame de legislação infraconstitucional (Tema 181/STF). Por fim, consignou que a Corte Suprema, ao examinar o ARE/RG 748.371/MT, reconheceu que carece de repercussão geral o tema relativo à violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, o que resulta, quanto a esses assuntos, no indeferimento liminar da insurgência (Tema 660/STF).
+3. Não são cabíveis os embargos de declaração cujo objetivo é ver reexaminada e decidida a controvérsia de acordo com tese distinta.
+Embargos de declaração rejeitados.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Thereza de Assis Moura, Herman Benjamin, Napoleão Nunes Maia Filho, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Sérgio Kukina, Nancy Andrighi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Felix Fischer, Francisco Falcão e Raul Araújo.
+Convocado o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (Relator):
+Cuida-se de embargos de declaração opostos por [NOME] contra acórdão da Corte Especial, que negou provimento ao agravo regimental interposto pela parte embargante nos termos da seguinte ementa (fls. 808/809, e-STJ):
+"AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. MOTIVAÇÃO DAS DECISÕES JUDICIAIS. FUNDAMENTAÇÃO SUFICIENTE. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AFRONTA AO ART. 5º, INCISO LV, DA CARTA MAGNA. AUSÊNCIA DE REPERCUSSÃO GERAL.
+1. Não subsiste a alegação de ofensa ao art. 93, inciso IX, da Carta Magna, porquanto o acórdão recorrido, não obstante seja contrário aos interesses da parte, está suficientemente motivado, sem ficar configurada, assim, a apontada ofensa à Constituição da República, aplicando-se à espécie o entendimento do STF exarado nos autos do AI-RG-QO 791.292/PE, julgado sob o regime da repercussão geral (Tema 339/STF) .
+2. O Supremo Tribunal Federal, ao julgar o RE 598.365/MG-RG, decidiu inexistir repercussão geral na questão alusiva aos pressupostos de admissibilidade de recursos de outros tribunais, pois a matéria está restrita ao exame de legislação infraconstitucional (Tema 181/STF). Assim, eventual ofensa ao texto constitucional, ainda que existente, dar-se-ia de forma indireta ou reflexa, o que não enseja a abertura da via extraordinária.
+3. A Corte Suprema, ao examinar o ARE/RG 748.371/MT, reconheceu que carece de repercussão geral o tema relativo à violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, o que resulta, quanto a esses assuntos, no indeferimento liminar da insurgência (Tema 660/STF).
+Agravo regimental improvido."
+Nas razões dos declaratórios, a parte embargante alega contradição no acórdão embargado.
+Sustenta que (fl. 835, e-STJ):
+"incide sim a repercutibilidade da matéria, porquanto de ordem a se manter no mundo jurídico será dos efeitos dos mais danosos aos jurisdicionados e condenados nesta Republica, impondo-se, portanto, QUER PELA ARGUIÇÃO DE MATÉRIA DE ORDEM CONSTITUCIONAL, (E NÃO INCONSTITUCIONAL) DE FORMA DIRETA (E NÃO DE FORMA INDIRETA, NEM REFLEXIVA), E DA REPERCUTIBILIDADE DA MATÉRIA DE DIREITO ARGUIDA, devendo - se, por isso, ser conhecido e provido, para que seja julgado o Recurso Extraordinário, nulificando - se assim a r. sentença de pronuncia, por malferir o contraditório, ampla defesa e o devido processo legal, quando da mantença das qualificadoras, que ainda reinam contra o ora Agravante".
+Apresentada impugnação (fls. 849/850, e-STJ).
+É, no essencial, o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRETENSÃO DE REEXAME E ADOÇÃO DE TESE DISTINTA. INEXISTÊNCIA DE VÍCIOS NO JULGADO.
+1. Os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual se deveria pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+2. O acórdão embargado consignou que não subsiste a alegação de ausência de fundamentação ou negativa de prestação jurisdicional, porquanto o acórdão recorrido está suficientemente motivado em consonância com os parâmetros delimitados pelo Supremo Tribunal Federal (Tema 339/STF), bem como que o STF, no RE 598.365/MG-RG, decidiu inexistir repercussão geral na questão alusiva aos pressupostos de admissibilidade de recursos de outros tribunais, pois a matéria está restrita ao exame de legislação infraconstitucional (Tema 181/STF). Por fim, consignou que a Corte Suprema, ao examinar o ARE/RG 748.371/MT, reconheceu que carece de repercussão geral o tema relativo à violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, o que resulta, quanto a esses assuntos, no indeferimento liminar da insurgência (Tema 660/STF).
+3. Não são cabíveis os embargos de declaração cujo objetivo é ver reexaminada e decidida a controvérsia de acordo com tese distinta.
+Embargos de declaração rejeitados.
+
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (Relator):
+Sem razão o embargante.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual se deveria pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+Para a configuração dos vícios elencados no referido dispositivo legal, necessário que algum fundamento relevante para o julgamento da controvérsia não tenha sido objeto de apreciação pelo órgão julgador ou que a omissão, a contradição e a obscuridade suscetíveis de serem afastadas por meio de embargos declaratórios estejam contidas entre os próprios termos do dispositivo ou entre a fundamentação e a conclusão do acórdão embargado, o que não ocorreu na hipótese.
+O acórdão embargado deixou claro que, quanto ao preenchimento dos requisitos de admissibilidade recursal, o Supremo Tribunal Federal já declarou não haver repercussão geral, pois a controvérsia se restringe ao exame da legislação infraconstitucional, o que não enseja a abertura da via extraordinária (Tema 181/STF). E, ainda, que não subsistiu a alegada ofensa ao art. 93, IX, da Constituição Federal, porquanto o acórdão recorrido, não obstante tenha adotado entendimento contrário aos interesses da parte, está suficientemente motivado, sem ficar configurada, assim, a apontada ofensa à Constituição da República, aplicando-se à espécie o entendimento do STF exarado nos autos do AI-RG-QO 791.292/PE, julgado sob o regime da repercussão geral (Tema 339/STF).
+Ressaltou-se, por fim, que o Plenário Virtual da Suprema Corte decidiu, nos autos do ARE-RG n. 748.371/MT (Tema 660/STF), não está configurada a repercussão geral da matéria relativa à suposta ofensa aos princípios constitucionais do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender da análise preliminar da adequada aplicação das normas infraconstitucionais, o que é o caso dos autos.
+O que se verifica, no caso dos autos, é a adoção, no acórdão embargado, de posição contrária aos interesses da parte embargante. Todavia, o os embargos de declaração não têm a finalidade de confrontar julgados ou teses dissonantes e, por conseguinte, dirimir eventual divergência acerca da matéria em exame.
+A propósito:
+"Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a sanar ambiguidade, suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado." (EDcl no AgRg nos EDcl no RE nos EDcl no AgRg no AREsp 639.142/SP, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 3/8/2016, DJe 30/8/2016.)
+"Não há vício de embargabilidade quando o aresto recorrido decide integralmente a controvérsia, de maneira sólida e fundamentada." (EDcl na QO na APn 536/BA, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 6/5/2015, DJe 2/6/2015.)
+Ante o exposto, rejeito os presentes embargos de declaração.
+É como penso. É como voto.
+MINISTRO HUMBERTO MARTINS
+Vice-Presidente
