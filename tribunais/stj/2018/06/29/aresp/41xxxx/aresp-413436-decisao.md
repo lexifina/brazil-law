@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por PAULO HENRIQUE AZZOLINI E OUTROS contra decisão do Tribunal de Justiça do Estado do Paraná, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 1.474):
+AÇÃO RESCISÓRIA - AÇÃO DE RESPONSABILIDADE CIVIL - ALEGADA VIOLAÇÃO DOS INCISOS IV E V DO ARTIGO 485, DO CÓDIGO DE PROCESSO CIVIL - OFENSA À COISA JULGADA - MANDADO DE SEGURANÇA E AÇÃO INDENIZATÓRIA - INOCORRÊNCIA - VIOLAÇÃO DE LITERAL DISPOSIÇÃO DE LEI NÃO DEMONSTRADA - RESPONSABILIDADE OBJETIVA DO ESTADO - ACÓRDÃOS QUE NÃO SE CONFLITAM - EXAMINARAM PEDIDOS DIVERSOS. AÇÃO RESCISÓRIA IMPROCEDENTE.
+- Para que se reconheça a coisa julgada é necessário que haja a repetição de outra ação já sentenciada, onde estejam presentes as mesmas partes, o mesmo pedido e a mesma causa de pedir. No caso, inexiste a tríplice identidade, sendo inexistente a coisa julgada.
+No especial obstaculizado, os agravantes apontam violação dos arts. 467, 468, 470, 471 e 485, IV e V, do Código de Processo Civil/1973, insurgindo-se contra o mérito do decisum rescindendo.
+Depois de contra-arrazoado (e-STJ fls. 1.533/1.548), o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de que incidem as Súmulas n. 83 do STJ e 283 do STF (e-STJ fls. 1.550/1.552).
+Na presente irresignação, os agravantes alegam, em resumo, que o recurso obstado atende aos pressupostos de admissibilidade e, ao final, reiteram os argumentos anteriormente expendidos.
+Contraminuta às e-STJ fls. 1.570/1.585.
+Passo a decidir.
+Inicialmente, cumpre destacar que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do Plenário do STJ).
+Isso considerado, verifico que a irresignação recursal não merece prosperar.
+Extrai-se do julgado o seguinte trecho (e-STJ fls. 1.498/1.499):
+Assim, verifica-se que não restou tipificada a coisa julgada quanto ao direito indenizatório - e destaco, perante o Município de Curitiba até porque nos mandamus, repito, disso não se tratou - conforme sustentado pelos Recorrentes, pois para que se reconheça a existência ou ofensa à coisa julgada, é necessário que haja a repetição de outra ação já sentenciada, onde estejam presentes as mesmas partes, o mesmo pedido e a mesma causa de pedir.
+Não restando evidenciada essa tríplice identidade até porque as partes são diversas, o Ministério Público não faz parte desta lide - com todas as vênias, inviabiliza-se ao juiz o reconhecimento da existência de coisa julgada.
+E no caso dos autos, repito, conforme se infere da cópia da sentença de fls. 116/123, o pedido formulado no mandado de segurança foi de que se reconhecesse o direito dos Impetrantes de assumir as novas cadeiras criadas na Câmara de Vereadores de Curitiba, o que efetivamente ocorreu. Já na ação indenizatória objeto desta ação rescisória, a pretensão é que os Autores sejam indenizados pela não ocupação delas no legislativo municipal.
+Dessa forma - por mais lamentável que tenha sido o retardo por longo tempo das posses definitivas dos Autores nos seus cargos como com sabedoria apontam seus cultos patronos - não se mostra caracterizada a ocorrência de coisa julgada, pois para que se reconheça a existência de coisa julgada, repito, é necessário que haja repetição de outra ação já sentenciada, onde estejam presentes as mesmas partes, o mesmo pedido e a mesma causa de pedir. (Grifos acrescidos).
+Contudo, o principal fundamento adotado pelo Tribunal de origem para julgar improcedente a ação rescisória não foi especificamente impugnado pelos recorrentes, o que atrai a aplicação do óbice de conhecimento estampado na Súmula 283 do STF.
+Ademais, a jurisprudência desta Corte orienta-se no sentido de que o recurso especial manejado em ação rescisória deve se restringir aos pressupostos de cabimento da ação então elencados no art. 485 do CPC/1973, sem adentrar nos fundamentos do acórdão rescindendo, providência não adotada na hipótese ora analisada.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO INATACADO. SÚMULA 283/STF. RECURSO ESPECIAL EM AÇÃO RESCISÓRIA. LIMITAÇÃO. PRESSUPOSTOS DE CABIMENTO DA AÇÃO. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COMPROVAÇÃO.
+ ..
+2. Nos termos da pacífica jurisprudência desta Corte de Justiça, o recurso especial manejado em sede de ação rescisória deve se limitar aos pressupostos de cabimento da ação, sem adentrar nos fundamentos adotados no acórdão rescindendo. Porém, da petição recursal, nota-se que os recorrentes insistem na tese de mérito defendida por ocasião da rescisória, mostrando-se incabível a análise do apelo nobre.
+ ..
+4. Agravo regimental a que se nega provimento. (AgRg no AREsp 602.529/RS, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, julgado em 01/12/2015, DJe 17/12/2015)
+PROCESSUAL CIVIL. ACÓRDÃO PROFERIDO EM AÇÃO RESCISÓRIA. CABIMENTO DO RECURSO ESPECIAL. VIOLAÇÃO A LITERAL DISPOSIÇÃO DE LEI. INSURGÊNCIA CONTRA OS FUNDAMENTOS DO JULGADO RESCINDENDO. INADMISSIBILIDADE.
+1. Segundo jurisprudência consolidada desta Corte, o recurso especial interposto em face de acórdão proferido em sede de ação rescisória deve restringir-se ao exame dos pressupostos previstos no artigo 485 do CPC e não aos fundamentos do acórdão rescindendo.
+2. Na hipótese dos autos, observa-se que o recorrente limitou a insurgência recursal ao próprio mérito do julgado rescindendo, sem tecer considerações acerca dos pressupostos da ação rescisória e, por conseguinte, da aplicação da Súmula 343/STF.
+3. Agravo regimental improvido. (AgRg no AREsp 453.892/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 25/03/2014)
+Isso porque, em casos tais, a admissão do recurso especial equivaleria à extemporânea reabertura de discussão já exaurida pelo trânsito em julgado do provimento jurisdicional rescindendo, providência contrária à necessidade de se pôr fim ao conflito materializado por meio do processo.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
