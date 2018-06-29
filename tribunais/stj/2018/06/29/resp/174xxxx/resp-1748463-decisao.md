@@ -1,0 +1,39 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo ESTADO DO CEARÁ, contra acórdão prolatado, por unanimidade, pela 8ª Câmara Cível do Tribunal de Justiça do Estado do Ceará no julgamento de agravo regimental, assim ementado (fls. 367/368e):
+AGRAVO REGIMENTAL - APELAÇÃO CÍVEL - NULIDADE DE ATO ADMINISTRATIVO QUE EXCLUIU OS AGRAVADOS DO CURSO DE APERFEIÇOAMENTO DE SARGENTOS APÓS O TÉRMINO DO MESMO - POSSIBILIDADE DA APLICAÇÃO DA TEORIA DO FATO CONSUMADO NO CASO - AGRAVO REGIMENTAL CONHECIDO E IMPROVIDO - MONOCRÁTICA MANTIDA.
+1. Policiais Militares que foram excluídos do Curso de Aperfeiçoamento de Sargentos após o término do mesmo, sob o fundamento de que não tinham realizado o Curso de Formação de Sargentos, requisito necessário para tanto.
+2. Ocorre que, apesar dos agravados não terem realizado o Curso de Formação de Sargentos, estes são detentores da patente de 2º Sargento, requisito legal para o curso almejado.
+3. O fato dos autores terem sido promovidos a 2º Sargento mediante decisão judicial não lhes desqualificam, de forma a não merecer o reconhecimento da patente para fins de cumprimento de dado requisito exigido, como pretende o Estado do Ceará.
+4. A orientação jurisprudencial dos Tribunais Superiores, quanto à inaplicabilidade da teoria do fato consumado, diante da ciência do candidato empossado, precariamente, em cargo público, da possibilidade de reversão do julgamento, não se aplica ao caso em exame, em face de suas peculiaridades fáticas. Ademais, os agravados não buscam as suas promoções, mas apenas a desconstituição do ato administrativo que os excluiu do Curso de Aperfeiçoamento de Sargentos após o término do mesmo.
+5. Agravo Regimental conhecido e improvido. Decisão monocrática mantida.
+Opostos embargos de declaração, foram rejeitados (fls. 380/388e).
+Com amparo no art. 105, III a, da Constituição da República, aponta-se ofensa ao art. 475-O, II, do Código de Processo Civil, alegando-se, em síntese, ser indevida a aplicação da teoria do fato consumado.
+Com contrarrazões (fls. 421/438e), o recurso foi admitido (fls. 441/443e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, caput, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+No caso, o tribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, concluiu ser inaplicável, na espécie, a teoria do fato consumado, em razão das peculiaridades do caso concreto, nos seguintes termos (fls. 360/361e):
+Da análise dos autos, observa-se que os autores são graduados no posto de 2º Sargento e, nos termos do art. 2º, 4§1º, a, do Decreto nº 12.991/78, um dos requisitos para matrícula no CAS é ser sargento e ter no mínimo 2 anos nesta graduação.
+A documentação constante dos autos atestam que os autores preenchem os requisitos legais, razão pela qual fazem jus ao reconhecimento do curso realizado.
+O fato dos autores terem sido promovidos a 2º Sargento mediante decisão judicial não lhes desqualificam, de forma a não merecer o reconhecimento da patente para fins de cumprimento de dado requisito exigido, como pretende o Estado do Ceará.
+Apesar do agravante afirmar que a conclusão anterior de Curso de Formação de Sargentos é requisito essencial para ingressar no Curso de Aperfeiçoamento de Sargentos, não restou provado que esta é uma exigência legal. Conforme observa-se dos autos, a exigência é que o policial seja detentor da patente de Sargento. Desta forma, não se pode desqualificar os agravados pelo único fato de terem alcançado referida patente através de decisão judicial.
+Nesse sentido, diferentemente do sustentado pelo Estado do Ceará, não configura ofensa ao princípio da isonomia a observância da patente reconhecida através de decisão judicial. Ao contrário, o ente estatal está agindo de forma contrária à lei ao desconsiderar tal requisito para matrícula no Curso de Aperfeiçoamento de Sargentos. Ademais, já tendo os apelados concluído o curso almejado, não existe razão para o apelante desconsiderá-lo.
+A jurisprudência do Superior Tribunal de Justiça é pacífica quanto à inaplicabilidade da teoria do fato consumado em casos de candidato em concurso público que obtém liminar judicial garantindo a continuidade no certame. No entanto, tal jurisprudência não se aplica ao presente caso, ademais, os agravados não buscam as suas promoções, mas apenas a desconstituição do ato administrativo que os excluiu do Curso de Aperfeiçoamento de Sargentos após o término do mesmo.
+In casu, rever tal entendimento, com o objetivo de acolher a pretensão recursal, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO. JULGAMENTO EXTRA-PETITA. INOCORRÊNCIA. INSCRIÇÃO. REQUISITOS. SÚMULAS 07/STJ. FATO CONSUMADO. SÚMULA 284/STF.
+1. Não há ofensa aos artigos 128 e 460 do CPC, quando do cotejo entre a petição inicial, a sentença e o acórdão, não se verifica tenham as instâncias de origem ultrapassado os limites da lide.
+2. A convicção a que chegou o acórdão recorrido no tocante ao preenchimento dos requisitos para a inscrição do concurso decorreu da análise de todo o conjunto fático-probatório constante dos autos, de forma que o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz da Súmula 7 desta Corte.
+3. Tendo em vista que o recorrente limita-se a tecer alegações genéricas em relação à teoria do fato consumado, sem, contudo, apontar especificamente qual dispositivo foi contrariado pelo Tribunal a quo, incide, ao caso, a Súmula n. 284/STF.
+4. Agravo regimental não provido.
+(AgRg no AREsp 55.790/GO, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 01/04/2014, DJe 11/04/2014)
+PROCESSUAL CIVIL E ADMINISTRATIVO. CURSO DE FORMAÇÃO. POLÍCIA MILITAR. TEORIA DO FATO CONSUMADO. DEFICIÊNCIA DO RECURSO. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. SÚMULAS 284 E 283 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VIOLAÇÃO DO ART. 512 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO.
+SÚMULA 282/STF.
+1. Não se conhece do Recurso Especial quanto a matéria não especificamente enfrentada pelo Tribunal de origem (art. 512 do CPC), dada a ausência de prequestionamento. Incidência, por analogia, da Súmula 282/STF.
+2. O Tribunal de origem consignou que, no caso dos autos, aplica-se a Teoria do Fato Consumado. Contudo, esse argumento não foi atacado pela parte recorrente e, como é apto, por si só, para manter o decisum combatido, permite aplicar na espécie, por analogia, o óbice da Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+3. Ademais, a revisão do entendimento do acórdão recorrido implica reexame de fatos e provas, obstado pelo teor da Súmula 7/STJ.
+4. Agravo Regimental não provido.
+(AgRg no AREsp 384.816/CE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/10/2013, DJe 16/10/2013)
+Isto posto, com fundamento no art. 557, caput, do Código de Processo Civil, NEGO SEGUIMENTO ao Recurso Especial.
+Publique-se e intimem-se.
