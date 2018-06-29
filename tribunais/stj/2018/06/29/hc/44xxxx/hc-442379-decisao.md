@@ -1,0 +1,19 @@
+DECISÃO
+[NOME] alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 0006577-36.2010.8.26.0101.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, à pena de 24 anos e 8 meses de reclusão, mais multa, pela prática dos delitos descritos nos arts. 157, § 2º, I e II, e 159, c/c os arts. 29 e 69, todos do Código Penal.
+A Corte de origem, ao julgar a apelação defensiva, deu parcial provimento ao recurso, a fim de reduzir a pena para 20 anos e 5 meses de reclusão mais 15 dias-multa.
+O paciente apresentou, perante o Tribunal local, pedido revisional, que foi autuado como expediente preparatório e remetido à Vara de origem para apensamento à ação principal com posterior envio à Defensoria Pública, para oferecimento das razões (de acordo com informações de fl. 20-49).
+Nas razões deste mandamus, deduzido de próprio punho, aponta constrangimento ilegal na dosimetria das penas, ao argumento de que o feito é nulo por ausência de ampla defesa e de contraditório, pois não lhe foi oportunizado indicar testemunhas ou contar com a assistência devida.
+Requer, assim, a concessão da ordem, a fim de que seja anulado todo o processo.
+Prestadas as informações (fls. 20-49), veio o parecer do Ministério Público Federal (fls. 60-62), que opinou pela denegação da ordem.
+Decido.
+De plano, verifico que não há como se conhecer deste habeas corpus. Isso porque as matérias aventadas na impetração não foi analisada pela instância de origem o que impede a apreciação dessas questões diretamente por esta Corte Superior, sob pena de, assim o fazendo, incidir na inadmissível supressão de instância.
+Ademais, conforme bem explicitado nas informações não há ação revisional, e sim "um procedimento preparatório de futura Revisão Criminal, que é instaurado a pedido direto do interessado sem advogado constituído e remetido, com os autos da ação Penal, à Defensoria Pública do Estado, que avaliará  ..  se há lastro para o ajuizamento da ação específica, na forma do art. 621, do Código de Processo Penal" (fl. 22).
+Assim, uma vez que não houve um pronunciamento do Tribunal de origem sobre as matérias aventadas neste habeas corpus, entendo, com absoluta tranquilidade, que não há como dele conhecer.
+Ilustrativamente:
+ ..
+Tendo o decisum atacado sido proferido monocraticamente por Desembargador e não havendo deliberação colegiada do Tribunal de origem, inviabiliza-se o conhecimento de habeas corpus impetrado perante esta Corte Superior. Com efeito, é fundamental, no caso, o prévio exaurimento da jurisdição na anterior instância, antes de se comparecer aos Tribunais de Cúpula. 2. A ausência de manifestação do Tribunal de origem sobre a matéria suscitada na impetração impede sua apreciação por esta Corte Superior, sob pena de indevida supressão de instância. 3. Agravo regimental a que se nega provimento. (AgInt no HC n. 366.298/PB, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 16/9/2016)
+A questão referente aos requisitos da prisão preventiva suportada pelo paciente não foram submetidas à análise do órgão colegiado do Tribunal de origem, considerando que não houve a interposição do devido agravo regimental contra a decisão monocrática do Relator que indeferiu liminarmente o pedido sem análise do mérito. Assim, não compete a esta Corte Superior, o debate da tese levantada pela defesa, sob pena de se incorrer em indevida supressão de instância. (HC n. 343.694/GO, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 15/8/2016)
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Encaminhando-se os autos à Defensoria Pública do Estado de São Paulo, para que analise o feito e requeira, em favor do acusado, o que entender de direito, especialmente no que pertine ao pedido de revisão criminal.
+Publique-se e intimem-se.
