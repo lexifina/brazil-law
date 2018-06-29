@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de WILLIAN DOS SANTOS ALVES ou WILLIAM DOS SANTOS ALVES contra decisão proferida por Desembargador do Tribunal de Justiça de São Paulo nos autos do HC n. 2030877-49.2018.8.26.0000.
+Consta dos autos que o paciente foi preso em flagrante (convertida a custódia em prisão preventiva) pela suposta prática dos crimes previstos no artigo 40 da Lei n. 9.605/1998 e art. 288 do Código Penal.
+Inconformada com o decreto constritivo, a defesa impetrou habeas corpus perante a Corte de origem. A liminar requerida, todavia, foi indeferida pelo Desembargador Relator (e-STJ fl. 24).
+Na presente oportunidade, o impetrante sustenta, em síntese, a ilegalidade da segregação cautelar, ante a ausência de fundamentação idônea do decreto de prisão preventiva e dos motivos autorizadores previstos no art. 312 do Código de Processo Penal, ressaltando que se trata de crime cometido sem violência ou grave ameaça e que o paciente possui residência fixa e ocupação lícita, sendo o único responsável pelo sustento de sua família.
+Argumenta, ainda, o excesso de prazo para a formação da culpa, bem como a ausência de proporcionalidade da custódia no caso concreto, uma vez que, em caso de eventual condenação, o acusado fará jus à fixação de regime prisional menos gravoso que o fechado.
+Diante disso, requer, em liminar e no mérito, a revogação da prisão cautelar, com a expedição do respectivo alvará de soltura e aplicação das medidas cautelares do art. 319 do CPP.
+É o relatório. Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a não ser que fique demonstrada flagrante ilegalidade (Súmula n. 691/STF), o que não ocorre na espécie. A propósito:
+CRIMINAL. HC. QUADRILHA. FURTO QUALIFICADO. PRISÃO PREVENTIVA. FALTA DE FUNDAMENTAÇÃO. ATO DE DESEMBARGADOR. INDEFERIMENTO DE LIMINAR. SÚMULA N.º 691/STF. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. ORDEM NÃO CONHECIDA.
+1- Não cabe habeas corpus contra indeferimento de liminar, exceto em casos de evidente e flagrante ilegalidade, sob pena de indevida supressão de instância, uma vez que o mérito da ordem originária ainda não foi apreciado no Tribunal a quo.
+2- Súmula n.º 691 que teve sua validade reafirmada pelo Supremo Tribunal Federal, com a ressalva de que o enunciado não impede o conhecimento de habeas corpus, se evidenciado flagrante constrangimento ilegal.
+3- Não sendo possível constatar qualquer ilegalidade na decisão recorrida, deve o paciente aguardar a apreciação do mérito da questão aduzida em 2º grau.
+4- Ordem não conhecida. (HC 82.163/SP, Rel. Ministra JANE SILVA - Desembargadora Convocada do TJ/MG - DJe 1º/10/2007).
+Ademais, a questão em exame - a presença dos requisitos autorizadores da medida constritiva - necessita de averiguação mais profunda pelo Tribunal estadual, que deverá apreciar a argumentação da impetração e as provas juntadas ao mandamus no momento adequado.
+Sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+Entendo, portanto, não ser o caso de superação do enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intime-se.
