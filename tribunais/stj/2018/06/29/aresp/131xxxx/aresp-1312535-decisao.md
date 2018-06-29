@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo manejado por [NOME] contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 124):
+APELAÇÕES CÍVEIS E AGRAVOS RETIDOS - AÇÕES DE INDENIZAÇÃO POR DANOS MORAIS - ESTAÇÃO DE TRATAMENTO DE ESGOTO - EMISSÃO DE MAU CHEIRO - INDEFERIMENTO DE PROVA PERICIAL - INEQUÍVOCO CERCEAMENTO DE DEFESA - NECESSIDADE DE APURAÇÃO DE FATOS RELEVANTES À SOLUÇÃO DA LIDE POR MEIO DE TÉCNICOS ESPECIALIZADOS (PERITOS) - ANULAÇÃO DOS PROCESSOS A PARTIR DA DECISÃO QUE INDEFERIU A PERÍCIA - PARCIAL PROVIMENTO DO AGRAVO RETIDO INTERPOSTO PELA SANEPAR - DEMAIS RECURSOS PREJUDICADOS
+Opostos embargos declaratórios, foram acolhidos, nos termos do art. 1.022 do CPC/2015, apenas para corrigir erro material.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 370, 371 e 464 do CPC/2015 (antigos arts. 130, 131 e 420 do CPC/73). Sustenta que a prova pericial pleiteada pela parte agravada, cujo deferimento ocorreu em sede de apelação, configura-se como diabólica, sendo impossível sua realização, restando a situação já suficientemente provada pela parte agravante.
+É o relatório.
+A irresignação não merece prosperar.
+Isso porque, cumpre ao magistrado, destinatário da prova, valorar a sua necessidade, conforme o princípio do livre convencimento motivado, deferindo ou indeferindo a produção de novo material probante, seja ele testemunhal, pericial ou documental. A propósito, anotem-se os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. DESVIO DE FUNÇÃO. OFENSA AO ART. 535 DO CPC. INEXISTÊNCIA. PRETENSÃO DE REEXAME DE PROVAS. PRINCÍPIO DA PERSUASÃO RACIONAL DO MAGISTRADO. IMPOSSIBILIDADE DE REVISÃO. REDUÇÃO DO QUANTUM ARBITRADO A TÍTULO DE HONORÁRIOS ADVOCATÍCIOS. SÚMULA 7/STJ. DECISÃO MANTIDA.
+1.  .. .
+2.  .. .
+3. No sistema de persuasão racional adotado pelos arts. 130 e 131 do CPC, cabe ao magistrado determinar a conveniência e a necessidade da produção probatória, mormente quando, por outros meios, já esteja persuadido acerca da verdade dos fatos.
+4.  .. .
+5.  .. .
+Agravo regimental improvido.
+(AgRg no REsp 1.387.792/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 10/9/2013, DJe 18/9/2013)
+No caso concreto, o Tribunal a quo, ao examinar o conjunto fático-probatório dos autos, considerou que o laudo pericial, seria pertinente, possível e necessário para o deslinde da controvérsia. Veja-se (fls. 140/141):
+O indeferimento da prova pericial requerida pela Sanepar implicou em inequívoco cerceamento de defesa. A fundamentação utilizada pelo douto Juízo no sentido de que tal prova seria inútil porque já fora desativado a estação de tratamento de esgoto, data venha, não se revela satisfatória, porque, como visto nas razões do referido agravo, há várias questões de efetivo e real impacto na solução da lide que podem ser aclaradas ou resolvidas com a prova pericial, independentemente de já ter ocorrido o encerramento das supostas atividades poluidoras no local, o que se afigura como fator imperativo, na medida em que, tendo o Julgador meios concretos de chegar mais próximo da verdade sobre os fatos controversos da demanda, não se justifica que ele encerre a instrução e decida com base em elementos de remediado valor probante, tais como matéria jornalística e prova testemunhal.
+Atente-se para o fato de que as notícias veiculadas na imprensa (eventos 1.8 a 1.14) não tratam especificamente do problema de Guaraítuba. Algumas referem-se de forma genérica a todas as estações de tratamento de esgoto da Sanepar e outras referem-se às comunidades do Jardim Acrópole, no Cajuru e do Jardim Monteiro Lobato, no Tatuquara.
+Quanto à prova testemunhal, apenas duas testemunhas foram compromissadas, porque as outras, residentes no local, também propuseram ações de igual natureza.
+ ..
+Primeiro: existe razoabilidade na argumentação de que os níveis de enxofre emitidos pela ETE de Guaraítuba no período de seu efetivo funcionamento podem ser constatados por meio de documentos, os quais, inclusive, foram tornados públicos quando encaminhados ao IAP, conforme afirmado pela Sanepar. Entretanto, somente um técnico qualificado (Perito) poderá indicar o grau de credibilidade de tais dados, como também aferi-los, informando também a graduação da poluição e os males que pode causar ao ser humano, conforme o grau.
+Segundo: é importante se fazer uma prova pericial com v istas à elucidação sobre a forma como ocorreu a urbanização do Guaraítuba, respondendo a questões como: (a) se quando instalada a ETE o lugar era desabitado ;
+(b) se houve ocupação ilegal e desordenada da área  (c) a distância da residência de cada um dos autores em relação à ETE e o espaço de tempo que os Autores (um a um) viveram na área.
+Terceiro: fazer um levantamento das ligações das residências com as redes de esgoto e água pluvial e informar sobre a contribuição de eventuais irregularidades com o alegado mau cheiro, vez que a Sanepar sustenta que havia muito esgoto despejado no rio Palmital, o qual era fonte de poluição; informar qual era o grau de contribuição do rio Palmital para o mau cheiro.
+Quarto: existe a possibilidade de o Perito, ao conversar com técnicos da Sanepar e examinar a planta e documentos da respectiva ETE, apurar dados e fatos sobre as bases em que se operava o tratamento do esgoto, esclarecendo se poderiam ter sido empregados expedientes para a diminuição do mau odor.
+Dessa forma, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
