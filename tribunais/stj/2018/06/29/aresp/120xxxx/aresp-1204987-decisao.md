@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo manejado por MUNICÍPIO DE SÃO PAULO contra decisão que inadmitiu recurso especial interposto com apoio na alínea "a" do permissivo constitucional contra acórdão assim ementado:
+AÇÃO ANULATÓRIA. Multa por intervenção não autorizada em APP. A recorrente demonstrou que possuia autorização do órgão ambiental estadual para a intervenção em APP.
+Multa anulada. Multa por maus tratos a exemplares arbóreos. Os documentos acostados aos autos comprovam que os exemplares arbóreos foram soterrados por entulhos e residuos da obra. Multa bem dosada, de forma proporcional, nos moldes do artigo 8o do Decreto Federal nº 6.514/2008.
+Sucumbência recíproca, com compensação das despesas e honorários. DADO PARCIAL PROVIMENTO AO APELO.
+No especial obstaculizado, o(a) ora agravante alegou violação dos arts. 70 da Lei n. 9.605/1998 e 8º do Decreto Municipal n. 42.833/2003. Aduziu que a execução de obra em APP sem licença do órgão ambiental configura a infração do art. 66 do Decreto n. 6.514/2008 e defendeu que a autorização emitida pelo órgão estadual não afasta a exigibilidade das licenças municipais, pois a competência para proteger o meio ambiente é concorrente e não excludente.
+A Concessionária interpôs especial adesivo, no qual aponta violação do art. 72, I, do Decreto n. 6.514/2008 (e-STJ fls. 815/824).
+Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, o que desafiou o presente agravo.
+Parecer do MPF pelo desprovimento do agravo (e-STJ fls. 925/929).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado 2).
+Isso considerado, observo que a Corte paulista anulou uma das multas impostas pelo ora recorrente "dada a existência de licença expedida pelo órgão ambiental estadual" (e-STJ fls. 726/727):
+Assiste razão à recorrente ao alegar que obteve a licença competente para a intervenção na área de preservação permanente. Foram carreados aos autos diversos documentos que demonstram essa autorização, os quais cito a seguir:
+1) Anuência do órgão ambiental estadual para a implantação de vias marginais, representados pela Licença Ambiental Prévia emitida em 29/04/2002, com validade de dois anos (fls. 102/103); pela Licença Ambiental de Instalação expedida em. 27/11/2008, com validade de 6 anos e que retifica a Licença de Instalação anterior (fls. 104/105) e pela Licença Ambiental de Operação expedida em 25/05/2012, com validade de dez anos (fls. 301/302).
+2) Anuência do órgão ambiental estadual para intervenção em área de preservação permanente, com cópia a fls. 107/109, no qual também houve autorização para supressão de vegetação nativa e corte de árvores isoladas entre o KM 12 850 a 18 000 da Rod. Anhanguera SP -330, pistas norte e sul, emitida em 19/08/2008, com validade até 08/09/2010.
+Considerando-se que a autorização para intervenção em APP estava condicionada à realização de TCRA, observa-se que foram lavrados dois TCRA"s para tal fim (no 98/07 - fls. 112/113 e nº 54598/2008 - fls. 127/128).
+Assim, em relação à APP, não há qualquer irregularidade; a implantação da via marginal foi autorizada, assim como a consequente intervenção em APP.
+O órgão estadual é competente para expedir tal autorização, sendo plenamente dispensável anuência municipal para esse mesmo fim. Logo, o Auto de Infração no 11512, lavrado em 01/07/2010, por execução de obra em APP sem licença do órgão ambiental competente, com imposição de sanção de multa no valor de R$ 7.448.100,00 (fls. 187/188) é anulado, dada a existência de licença expedida pelo órgão ambiental estadual. (grifos acrescidos).
+Por ocasião do julgamento dos aclaratórios, enfrentou mais precisamente a questão da competência do órgão municipal (e-STJ fls. 741/742):
+Com razão a embargante. Denota-se do V. Acórdão que, embora tenha reconhecido a necessidade de manutenção de uma das multas impostas pela Municipalidade, deixou de se manifestar quanto à competência do ente municipal.
+A Municipalidade de São Paulo, como integrante do SISNAMA, também tem competência para fiscalizar e impor multas ambientais, nos moldes do artigo 6o, inciso VI, da Lei nº 6.938/81 e artigo 23, inciso VI, da Constituição Federal.
+Ainda, a multa imposta pelo Município substitui a multa federal na mesma hipótese de incidência, consoante o artigo 76 da Lei nº 9.605/98.
+Como se observa, o conteúdo dos preceitos legais mencionados no apelo extremo não foi alvo de debate no julgado impugnado, tampouco suscitado nos embargos de declaração opostos na origem (e-STJ fls. 731/734), o que denota a falta do indispensável prequestionamento e faz incidir, por analogia, o óbice da Súmula 282 do STF.
+Com isso, fica prejudicado o exame do recurso adesivo, a teor do art. 500, III, do CPC/1973 (CPC/2015, 997, III).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial, ficando PREJUDICADO o recurso adesivo. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado Administrativo n. 7 do STJ.
+Publique-se. Intimem-se.
