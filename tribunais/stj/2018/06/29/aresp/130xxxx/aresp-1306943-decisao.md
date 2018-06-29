@@ -1,0 +1,42 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO E RECURSO ESPECIAL INTERPOSTOS SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA 283 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+MARIA APARECIDA DA CONCEIÇÃO (MARIA APARECIDA) ajuizou ação declaratória de inexistência de débito c/c indenização por danos morais contra CARREFOUR ADMINISTRADORA DE CARTÕES DE CRÉDITO S/A (CARREFOUR). A pretensão indenizatória da autora foi declarada prescrita e também foi declarado ausente o interesse de agir/necessidade da pretensão de declaração de inexistência de débito.
+MARIA APARECIDA interpôs apelação, que foi provida, afastando-se a prescrição declarada. (e-STJ fls. 183)
+Em sentença de fls. 182/188 (e-STJ), os pedidos foram julgados procedentes.
+A apelação interposta por MARIA APARECIDA foi parcialmente provida pelo Tribunal de origem, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS - INCLUSÃO INDEVIDA DO NOME DA AUTORA NOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO - AUSÊNCIA DE QUAISQUER CONTRATAÇÃO - JULGAMENTO PROCEDENTE DA LIDE - DECLARAÇÃO DE INEXISTÊNCIA DO DÉBITO E CONDENAÇÃO DO DEMANDADO AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS NO IMPORTE DE RS 2.000,00 (DOIS MIL REAIS) - RECURSO DA AUTORA - PEDIDO DE MAJORAÇÃO DOS DANOS MORAIS - NÃO ACOLHIMENTO - EXISTÊNCIA DE VÁRIAS OUTRAS NEGATIVAÇÕES - AUSÊNCIA DE ESCLARECIMENTOS QUANTO À LEGITIMIDADE OI NÃO DOS DIVERSOS APONTAMENTOS RESTRITIVOS. CONSTANTES NOS DOCUMENTOS JUNTADO NA INICIAL - POSSIBILIDADE DE RECONHECER A AUTORA COMO DEVEDOR CONTUMAZ, ANTE O TEOR DA SÚMLA 385 DO STJ. POR NÃO TER SE DESINCUMBIDO DE SEU ÔNUS. PORÉM. HAVENDO APENAS RECURSO AUTORAL DEVE-SE OBEDECER AO PRINCÍPIO DO NON REFORMATIO IN PEJES - MANUTENÇÃO DO QUANTUM ARBITRADO PELO MAGISTRADO A QUO - HONORÁRIOS ADVOCATÍCIOS - MAJORAÇÃO DO PERCENTUAL ARBITRADO PELO JULGADOR SINGULAR EM FAVOR DO CAUSÍDICO DA AUTORA, DIANTE DA PARTICULARIDADE DO CASO - FIXAÇÃO TAMBÉM DE HONORÁRIOS ADVOCATÍCIOS EM SEDE RECURSAL, EM FACE DO ADVOGADO DA INSTITUIÇÃO FINANCEIRA, Dl ANTE DO PROVIMENTO PARCIAL DESTE APELO E PARA PRIVILEGIAR O TRABALHO DO CAUSÍDICO EM SEDE RECURSAL, A TEOR DO ARTIGO 85, § 2º, DO CPC - RECURSO CONHECIDO E PARCIALMENTE PROVIDO - DECISÃO UNÂNIME. (e-STJ fls. 364)
+Inconformada, MARIA APARECIDA interpôs recurso especial, com fundamento no art. 105, III, a, da CF, alegando violação do art. 944 do CC, ao sustentar que o valor da indenização é ínfimo, devendo ser majorado.
+O apelo nobre não foi admitido com o fundamento de que o valor da indenização por dano moral não é irrisório.
+Nas razões do presente agravo em recurso especial, MARIA APARECIDA sustentou que o quantum indenizatório é irrisório.
+Foi apresentada impugnação (e-STJ, fls. 425/438).
+É o relatório.
+Decido.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A irresignação não merece prosperar.
+Do art. 944 do CC
+O tribunal de origem, com base no conjunto fático probatório, concluiu que a ora recorrente tem outros apontamentos no cadastro de inadimplentes de outras instituições financeiras e que a ora recorrente não comprovou que eram indevidas, assim consignando:
+Há notícia nos autos que nos processos nº 201311100262; 291310400559; 201310400250; e 201410501949, movidos pela recorrente em desfavor do EXTRA e os demais contra o CARREFOUR, as inscrições foram reconhecidas como indevidas, no entanto, conforme acima falado, no documento juntado com a inicial, datado de 10/05/2013, verifica-se o apontamento restritivo de outras instituições, a exemplo de: HIPERCARD; BANCO BRADESCO; MERIDIANO MULTISEGMENTOS; CASA BAHIA; ÁGATA COSMÉTICOS, sendo que desses apontamentos a apelante não fez comprovação de que fossem indevidos.
+Os argumentos trazidos pela recorrente em petição datada de 09/02/2015 nada esclarecem em relação às inscrições cadastrais das outras empresas, sendo que tais inscrições ocorreram nos anos de 2005; 2006; 2008 e 2009, ou seja existem negativações anteriores a aqui questionada.
+Em casos que tais, esta Corte tem entendimento quanto a inexistência de débito, por reconhecer como mau pagador aquele que possui inscrição pré-existente, a teor da Súmula nº 385, do Superior Tribunal de Justiça.
+A recorrente/autora não se desincumbiu do Ônus imposto pelo artigo 373, inciso I, do Novo Código de Processo Civil, de modo a demonstrar que as demais inscrições cadastrais eram indevidas, somente o fez em relação aquelas anteriormente faladas, no entanto,
+mostrou-se silente quanto as demais.
+Porém, não houve recurso do Banco, de modo que, há que se obedecer o princípio do non reformatio in pejus, muito embora, a recorrente não traga comprovação quanto à ilegitimidade das outras inscrições das demais empresas.
+Assim, diante da não comprovação da ilegitimidade das demais inscrições, porém em respeito ao princípio do non reformatio in pejus, entendo que deve ser mantido o quantum arbitrado pelo Magistrado a quo, no valor de RS 2.000,00. (e-STJ fls. 366)
+Conforme trecho acima, o tribunal de origem manteve a condenação em danos morais em respeito ao princípio do non reformatio in pejus.
+Todavia a recorrente, nas razões do especial, não impugnou referido fundamento, limitando-se, em suma, a requerer a majoração do quantum indenizatório. Assim, incidente, por analogia, o óbice do enunciado da Súmula nº 283 do Supremo Tribunal Federal: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+A propósito:
+AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE DESPEJO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DOS REQUERIDOS.
+1. É inadmissível o recurso especial quando as razões apresentadas se mostrarem dissociadas da matéria tratada pela decisão recorrida, não sendo impugnados fundamentos do acórdão que, por si sós, são suficientes para manter o inteiro teor do decisum. Aplicação, por analogia, das Súmulas 283 e 284 do STF.
+2. A reforma do julgado quanto a conclusão de não ter sido configurado cerceamento de defesa, ante o indeferimento da prova testemunhal demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula 7 do STJ. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 921.974/PR, Rel. Ministro MARCO BUZZI, Quarta Turma, julgado em 18/8/2016, DJe 23/8/2016)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE LOCAÇÃO. EXECUÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. FUNDAMENTOS NÃO ATACADOS. SÚMULA Nº 283/STF. REEXAME DE PROVAS E DO CONTRATO FIRMADO ENTRE AS PARTES. SÚMULAS NºS 5 E 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A ausência de impugnação dos fundamentos do aresto recorrido enseja a incidência, por analogia, da Súmula nº 283 do Supremo Tribunal Federal.
+3. Tendo o tribunal de origem decidido a causa com base na análise do contrato firmado entre as partes e nos elementos fático-probatórios dos autos, alterar sua conclusão atrai a incidência das Súmulas nºs 5 e 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 833.798/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 9/8/2016, DJe 16/8/2016)
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
