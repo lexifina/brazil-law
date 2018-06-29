@@ -1,0 +1,44 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. IMPLANTAÇÃO DE EMPREENDIMENTO. ALEGADOS PREJUÍZOS SUPORTADOS PELOS PESCADORES. NÃO COMPROVAÇÃO DO DANO E DO NEXO CAUSAL. REVISÃO. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA CONHECER, EM PARTE, DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão do Tribunal de Justiça de Santa Catarina que não admitiu o recurso especial apresentado às fls. 1.458-1.511 (e-STJ).
+Na origem, o ora insurgente ajuizou ação indenizatória contra Foz do Chapecó Energia S.A., alegando, em síntese, que na condição de pescador profissional "sofreu imenso prejuízo com a implantação do empreendimento pela empresa requerida, uma vez que sua atividade profissional restou totalmente inviabilizada" (e-STJ, fl. 12).
+O Juízo de primeiro grau julgou improcedentes os pedidos iniciais.
+Em apelação do autor, a Câmara Especial Regional de Chapecó negou provimento ao recurso em acórdão assim ementado (e-STJ, fl. 1.395):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. SENTENÇA DE IMPROCEDÊNCIA.
+RECURSO DA PARTE AUTORA.
+NULIDADE DA SENTENÇA POR CERCEAMENTO DE DEFESA. TESE RECHAÇADA.
+MÉRITO. ALEGAÇÃO DE INVIABILIDADE DA ATIVIDADE PESQUEIRA, COM DANOS DE ORDEM MATERIAL E MORAL, EM RAZÃO DA CONSTRUÇÃO E DA OPERAÇÃO DA USINA HIDRELÉTRICA FOZ DO CHAPECÓ. PREMISSA QUE NÃO SE COADUNA COM O CONTEÚDO DOS AUTOS, NOTADAMENTE COM A PROVA PERICIAL PRODUZIDA. NEXO CAUSAL E PREJUÍZOS NÃO EVIDENCIADOS. DEVER DE INDENIZAR AFASTADO. PRECEDENTES.
+RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 1.446-1.453).
+Inconformado, Luiz [NOME] interpôs recurso especial, fundamentado no art. 105, III, a e c, da Constituição Federal, apontando divergência jurisprudencial e violação aos arts. 1.022, II, do Código de Processo Civil de 2015; 6º, VIII, do Código de Defesa do Consumidor; 21 da Lei n. 7.347/1985; 927, parágrafo único, do Código Civil; e art. 14, § 1º, da Lei n. 6.938/1981.
+Aduziu omissão no acórdão quanto à inversão do ônus da prova e aos motivos para desconsiderar as diversas respostas do laudo pericial.
+Alegou que o exercício de atividade lícita e a adoção de medidas pela recorrida, para mitigar os danos causados a partir do seu empreendimento, não obstam a pretensão indenizatória, considerando estarem comprovados nos autos o nexo de causalidade e os prejuízos causados à atividade pesqueira.
+Contrarrazões apresentadas às fls. 1.554-1.614 (e-STJ).
+O apelo nobre não foi admitido na origem sob os argumentos de inexistência de omissão e de incidência das Súmulas n. 7 e 83 do STJ e 283 do STF.
+Irresignado, o recorrente apresenta agravo refutando os óbices apontados pela Corte.
+Contraminuta às fls. 1.669-1.696 (e-STJ).
+Brevemente relatado, decido.
+De início, no tocante à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Assinala-se que o acórdão recorrido enfrentou de forma fundamentada todas as questões suscitadas pelo recorrente, sobretudo quanto ao laudo pericial e à distribuição do ônus da prova (e-STJ, fl. 1.452), tratando-se, na verdade, de pretensão de novo julgamento das matérias.
+Desse modo, aplica-se à espécie o entendimento pacífico do STJ segundo o qual: "não há falar, na hipótese, em violação ao art. 535 do CPC/1973 (art. 1.022, II, do CPC vigente), porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que o voto condutor do acórdão recorrido apreciou fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida" (AgInt no REsp n. 1.383.088/PR, Relatora a Ministra Assusete Magalhães, Segunda Turma, julgado em 6/12/2016, DJe 15/12/2016).
+Quanto à questão de fundo, o acórdão foi proferido sob os seguintes fundamentos (e-STJ, fls. 1.400-1.405, sem grifo no original):
+Na condição de concessionária de serviço público que constrói, instala e explora recursos hídricos para produzir energia elétrica, a Apelada/Ré responde de forma objetiva por eventuais danos provocados pelo desenvolvimento de sua atividade, conforme preconiza o artigo 37, § 6º, da Constituição Federal de 1988 (..)
+Referida circunstância (dispensa de apuração de culpa ou dolo), todavia, não elide a necessidade de atendimento dos demais elementos formadores da responsabilidade civil, sendo essencial a comprovação de conduta (ainda que omissiva), do suposto dano e do respectivo nexo causal. (..)
+Na hipótese, não verifico o preenchimento dos pressupostos adrede mencionados.
+Explico.
+A usina hidrelétrica sob comento foi idealizada e constituída com o objetivo de suprir a demanda nacional por energia elétrica. Neste sentido, aliás, se infere do site da empresa Foz do Chapecó (http://www.fozdochapeco.com.br/usina), acessado em 28 de março de 2017, que "sua capacidade equivale a 25% do consumo de energia do estado de Santa Catarina ou 18% do consumo do Rio Grande do Sul. É energia suficiente para abastecer mais de cinco milhões de lares".
+Ocorre que não obstante seja de amplo conhecimento o fato de que a execução de um projeto de tal dimensão traga consigo diversas implicações ao meio ambiente, é certo que todo este cenário foi antevisto e, observando-se o preceito do melhor proveito social, admitido.
+A outorga da concessão em favor da empresa Recorrida, ao seu turno, legitimou os atos por esta devenvolvidos, constituindo-se a sua atividade em nítido exercício de direito, até porque não se colhe destes autos quaisquer indicativos de que ações tenham sido realizadas em desacordo ou além dos termos expressamente estabelecidos e/ou autorizados pelo poder concedente, seus órgãos de fiscalização e, ainda, demais regras positivadas.
+No que se refere às questões ambientais, a concessionária não age de forma absolutamente discricionária, mas, muito antes pelo contrário, se submete a rígida e contínua fiscalização, dependendo de licenças ambientais, da constante execução de ações mitigatórias, prestação de contas, etc.
+(..)
+De outra banda, ainda que superada fosse a questão da ausência de conduta antijurídica por parte da Apelada/Ré, a prova constante dos autos é suficiente para concluir pela inexistência da situação propalada na exordial, de que inviabilizada a atividade pesqueira na bacia do Rio Uruguai, notadamente em razão da instalação e operação da usina hidrelétrica da Foz do Chapecó.
+(..)
+A atividade pesqueira, portanto, que há muito tempo não era de grande repercussão (já vinha em declínio desde antes da usina, especialmente em decorrência da incessante poluição por dejetos de suínos e de esgoto despejados no curso do rio, bem como pela pesca predatória, realizada em épocas e com apetrechos não permitidos), se mantém, permanecendo viável o exercício da dita profissão.
+Nas palavras do perito, acima transcritas, os dados de captura de peixes antes e depois do enchimento do reservatório pela Apelada/Ré são assemelhados. O que ocorreu, na verdade, foi a alteração das espécies de peixes, passando de cardumes com maior característica de correnteza/migração para os mais sedentários, os quais, entretanto, possuem igualmente interesse comercial.
+Não restando configurados, destarte, os elementos formadores da responsabilidade civil, em especial porque afastado o aventado embaraço à atividade pesqueira (ponto central da demanda), a improcedência dos pedidos é medida de rigor.
+Com efeito, para rever as conclusões das instâncias ordinárias quanto à não comprovação dos danos e do nexo de causalidade entre o prejuízo e a conduta da empresa, seria imprescindível o reexame de fatos e provas dos autos, providências vedadas no âmbito do recurso especial, nos termos da Súmula 7 do STJ.
+Por fim, registre-se que a análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do referido enunciado, porquanto não é possível encontrar similitude fática entre o aresto combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em razão de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em R$ 300,00 (trezentos reais), observado o benefício da justiça gratuita deferido na origem ao recorrente.
+Publique-se.
