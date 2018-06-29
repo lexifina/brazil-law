@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por BANCO DO BRASIL S.A. contra decisão que inadmitiu o recurso especial pelo fato de a matéria objeto do inconformismo ter sido apreciada em recurso repetitivo (e-STJ fls. 526/529).
+O acórdão recorrido está assim ementado (e-STJ fl. 332):
+AÇÃO DE COBRANÇA PELO RITO ORDINÁRIO - SENTENÇA DE IMPROCEDÊNCIA - RECURSO - CONVERSÃO DO JULGAMENTO EM DILIGÊNCIA - EMBARGOS DE DECLARAÇÃO MONOCRATICAMENTE REJEITADOS.
+1. AGRAVO REGIMENTAL (REQUERIDO) - NÃO VERIFICADA OFENSA AO DEVIDO PROCESSO LEGAL, À AMPLA DEFESA, À ISONOMIA OU À LEGALIDADE, TAMPOUCO DESRESPEITO AO ORDENAMENTO JURÍDICO VIGENTE - A CONVERSÃO DO JULGAMENTO EM DILIGÊNCIA É MEDIDA QUE, OPORTUNA E CONVENIENTEMENTE, VISA OBTER ELEMENTOS RELEVANTES NA DIREÇÃO DA FORMAÇÃO DA VERDADE E DO LIVRE CONVENCIMENTO - IRRESIGNAÇÃO DO AGRAVANTE QUE PRETENDE CERCEAR A LIBERDADE DO JULGADOR, APRESENTANDO-SE MENIFESTAMENTE PROTELATÓRIA - DECISÃO AGRAVADA MANTIDA - RECURSO IMPROVIDO.
+2. APELAÇÃO (BANCO) - DOCUMENTOS JUNTADOS PELO AUTOR QUE SE MOSTRAM SUFICIENTES PARA AJUIZAMENTO DA DEMANDA - REESCALONAMENTO DE DÍVIDA - MONTANTE UTILIZADO PARA LIQUIDAÇÃO DE CRÉDITOS ANTERIORES COM TROCO CREDITADO EM CONTA CORRENTE DO APELADO - ASSINADA PROPOSTA DE ADESÃO AO CDC AUTOMÁTICO E ABERTURA DE CRÉDITO - SUBSTITUIÇÃO DA CAPITALIZAÇÃO MENSAL PELA ANUAL - AUSENTE COMPROVAÇÃO DE PRÉVIA PACTUAÇÃO - COMISSÃO DE PERMANÊNCIA ISOLADA E À TAXA MÉDIA DE MERCADO - SÚMULA 472 DO STJ - SENTENÇA REFORMADA - RECURSO PARCIALMENTE PROVIDO.
+3. RECURSOS CONHECIDOS, DESPROVIDO O REGIMENTAL E PARCIALMENTE PROVIDO O APELO.
+No especial (e-STJ fls. 416/424), fundamentado no art. 105, III, "a", da CF, o agravante apontou violação dos arts. 104 do CC/2002 e 5º, XXXVI, da Constituição Federal. Sustentou, em síntese: (a) que o contrato deve ser cumprido nos moldes pactuados e (b) possibilidade de cobrança da comissão de permanência cumulada com os demais encargos moratórios.
+No agravo (e-STJ fls. 536/542), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+A tese de violação de dispositivos da Constituição Federal não merece acolhida, visto que não cabe a esta Corte o exame de suposta ofensa a dispositivos e princípios constitucionais, sob pena de usurpação da competência do STF (art. 102, III, da CF). A propósito: EDcl no AgRg no AREsp n. 834.644/DF, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 2/6/2016, DJe 17/6/2016.
+Revisão de cláusulas do contrato
+O Código de Defesa do Consumidor é aplicável às instituições financeiras, conforme jurisprudência consolidada pela Súmula n. 297/STJ. Portanto, não há óbice à revisão de contratos bancários, de modo que, apurada a existência de cláusulas abusivas, deve ser relativizado o princípio pacta sunt servanda, permitindo-se a intervenção judicial.
+Comissão de permanência
+No julgamento dos Recursos Especiais n. 1.058.114/RS e 1.063.343/RS, selecionados como representativos da controvérsia (CPC, art. 543-C), a Segunda Seção desta Corte Superior consolidou as seguintes orientações sobre a cobrança de comissão de permanência em contratos bancários:
+(..) 2. Nos contratos bancários sujeitos ao Código de Defesa do Consumidor, é válida a cláusula que institui comissão de permanência para viger após o vencimento da dívida.
+3. A importância cobrada a título de comissão de permanência não poderá ultrapassar a soma dos encargos remuneratórios e moratórios previstos no contrato, ou seja: a) juros remuneratórios à taxa média de mercado, não podendo ultrapassar o percentual contratado para o período de normalidade da operação; b) juros moratórios até o limite de 12% ao ano; e c) multa contratual limitada a 2% do valor da prestação, nos termos do art. 52, § 1º, do CDC.
+4. Constatada abusividade dos encargos pactuados na cláusula de comissão de permanência, deverá o juiz decotá-los, preservando, tanto quanto possível, a vontade das partes manifestada na celebração do contrato, em homenagem ao princípio da conservação dos negócios jurídicos consagrado nos arts. 139 e 140 do Código Civil alemão e reproduzido no art. 170 do Código Civil brasileiro. (..)
+(REsp n. 1.058.114/RS e 1.063.343/RS, Relator para Acórdão Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgados em 12/8/2009, DJe 16/11/2010.)
+Assim, havendo previsão contratual, é válida a cobrança da comissão de permanência no período de inadimplemento, desde que não cumulada com correção monetária nem com outros encargos remuneratórios ou moratórios.
+Afora isso, o valor exigido a esse título não pode ultrapassar a soma da taxa de juros remuneratórios pactuada para a vigência do contrato, dos juros de mora e da multa contratual, nos termos das Súmulas n. 30, 294, 296 e 472 do STJ.
+No caso concreto, afigura-se viável a cobrança da comissão de permanência, nos termos do acórdão recorrido, que está em consonância com as condições definidas pela jurisprudência do STJ.
+Incide, portanto, a Súmula n. 83/STJ a inviabilizar o recurso.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
