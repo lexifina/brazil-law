@@ -1,0 +1,43 @@
+EMENTA
+PROCESSUAL PENAL E PENAL. RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO. DESPROPORCIONALIDADE. TEMA NÃO APRECIADO NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. FUNDAMENTAÇÃO CONCRETA. FUGA DO DISTRITO DA CULPA. ILEGALIDADE. AUSÊNCIA. APLICAÇÃO DE MEDIDAS ALTERNATIVAS À PRISÃO. INSUFICIÊNCIA À GARANTIA DA ORDEM PÚBLICA. RECURSO EM HABEAS CORPUS IMPROVIDO.
+1. Matéria não analisada pelo Tribunal de origem não pode ser diretamente apreciada por esta Corte Superior, sob pena de supressão de instância.
+2. Apresentada fundamentação concreta para a decretação da prisão preventiva, evidenciada no fato de que o denunciado evadiu-se após a prática da conduta delituosa, não há que se falar em ilegalidade do decreto de prisão preventiva.
+3. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+4. Recurso em habeas corpus improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao recurso ordinário, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Maria Thereza de Assis Moura e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Sebastião Reis Júnior.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de recurso em habeas corpus interposto por [NOME], em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais, que denegou o writ de origem.
+O acórdão do Tribunal a quo tem a seguinte ementa (fl. 136):
+HABEAS CORPUS - HOMICÍDIO QUALIFICADO - REVOGAÇÃO DA PRISÃO PREVENTIVA - IMPOSSIBILIDADE - MANUTENÇÃO DA CAUTELAR COMO FORMA DE ASSEGURAR O BOM ANDAMENTO DA INSTRUÇÃO CRIMINAL E A APLICAÇÃO DA LEI PENAL Constatado que o paciente prejudica o bom andamento do processo e se furta à aplicação da lei penal, a decretação da prisão cautelar é medida necessária, em consonância com o disposto da Súmula 31 do TJMG.
+No recurso, argumenta-se a ocorrência de constrangimento ilegal, porque a prisão preventiva teria sido decretada sem a indicação de seus requisitos autorizadores, bem como por ser desproporcional a medida, pleiteando-se, subsidiariamente, a aplicação de medidas alternativas à prisão.
+O recorrente foi denunciado pela prática do crime tipificado no artigo 121, § 2º, IV, do Código Penal.
+A liminar foi indeferida.
+As informações foram prestadas.
+O parecer do Ministério Público Federal foi no sentido do desprovimento do recurso.
+No processo n. 03794153920168130105 foi realizada audiência de instrução e julgamento no dia 24/5/2018, encontrando-se os autos com vistas à acusação, conforme informações processuais eletrônicas do site do Tribunal a quo consultadas em 5/6/2018.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+O recurso busca a revogação da prisão preventiva, com a alegação de ausência de seus requisitos autorizadores e de desproporcionalidade da medida, ou aplicação de medidas alternativas à prisão.
+A matéria relativa à desproporcionalidade da medida de prisão não foi objeto de análise do Tribunal de origem, conforme cópia de acórdão de fls. 136/139. Então, esse ponto não poderá ser conhecido por esta Corte Superior, sob pena de indevida supressão de instância.
+Por outro lado, consta dos autos que, após o fato delituoso, ocorrido em 5/4/2016, o recorrente se evadiu (fl. 10), não tendo sido mais localizado, motivo pelo qual o processo foi suspenso e a sua prisão foi decretada em 5/10/2017, tendo o mandado de prisão sido cumprido somente em 1/12/2017 (fl. 163).
+A decisão de prisão preventiva restou assim fundamentada (fls. 87/88):
+ .. . In casu, o acusado [NOME], citado por edital às fis. 52/53, quedou-se inerte, razão pela qual lhe foi nomeada a Defensoria Pública que se manifestou à f. 55/v, pleiteando, preliminarmente, a aplicação do disposto no art. 366 do CPP.
+Destaco que, foram realizadas diversas diligências no intuito de se auferir o atual endereço do acusado, todas restaram infrutíferas.
+Portanto, tenho que a suspensão do processo e do curso do prazo prescricional é medida pertinente à espécie, nesta fase processual.
+Frise-se que o Superior Tribunal de Justiça editou na sessão do dia 16/12/2009 a Súmula 415, com o seguinte enunciado: "O período de suspensão do prazo prescricional é regulado pelo máximo da pena cominada".
+Ressalte-se que a Súmula 415 está a dizer que a contagem da prescrição fica suspensa pelo prazo da prescrição em abstrato - consideradas as balizas do art. 109. I, do CPB - e não pelo prazo da pena (12 a 30 anos de reclusão, conforme pode sugerir uma leitura desavisada do enunciado.
+Extrai-se dos autos que não foi possível a citação pessoal do acusado e ao ser citado por edital permaneceu inerte. Portanto, visando assegurar a conveniência da instrução criminal e a aplicação da lei penal, e, tendo em vista que o acusado se encontra foragido, decreto-lhe a prisão preventiva. .. .
+Por sua vez, constou na decisão que indeferiu pedido de revogação (fl. 120):
+ .. .Entendo que se fazem presentes nos autos razões de ordem objetiva que recomendam o estabelecimento do encarceramento provisório dos acusados, uma vez que a ordem pública se encontra vilmente atacada.
+Conforme bem pontuado pelo Parque "(..) Iniciou-se uma discussão entre a pessoa de Greice e a vítima, a qual estava com ciúmes de Greice com o denunciado. "(..) vítima e denunciado se desentenderam, ocasião em que este desferiu uma facada no peito do ofendido, o qual veio a falecer em decorrência das lesões sofridas Ato continuo, o denunciado evadiu-se. O crime deu-se mediante recurso que dificultou a defesa da vítima. Tendo em vista a superioridade de forças, eis que o denunciado de posse de uma faca golpeou a vitima região do peito (..)" (fls. 01D/02D).
+Portanto, vislumbra-se indícios suficientes de autoria e prova da materialidade da suposta prática dos crimes, estando presentes os requisitos do art. 212 e 313, do Código de Processo Penal.
+Logo, in casu, restam evidenciados o fumus comissi delicti e o periculum libertatis, inerentes à prisão preventiva.
+Mesmo à percepção de aplicação das medidas cautela.es previstas no art. 319.1 a IX. do CPP. não verifico, após ponderados os critérios de do art. 282, incisos I e II, e art. 321 ambos do CPP. a viabilidade de aplicação de nenhuma daquelas medidas, devendo ser mantida a medida extrema para a aplicação da lei penal. .. .
+Como já adiantado no exame da liminar, integra a decisão de prisão fundamento idôneo, consubstanciado no fato de que o denunciado evadiu-se após a prática da conduta delituosa, praticada em 5/4/2016, e, embora tenham sido realizadas várias diligências no intuito de se auferir o seu endereço, não foi localizado, o que ensejou citação por edital, a suspensão do processo e a custódia cautelar, cujo mandado somente foi cumprido 1/12/2017, razão, portanto, apta a ensejar a constrição.
+É pacífico o entendimento desta Corte Superior, que a fuga do distrito da culpa é fundamento válido à segregação cautelar, forte da asseguração da aplicação da lei penal. Confira-se: RHC n. 52.178/DF - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe 2/12/2014; HC n. 289636/SP - 5ª T. - unânime - Rel. Min. Moura Ribeiro - DJe 23/5/2014; RHC n. 46439/PR - 5ª T. - unânime - Rel. Min. Marco Aurélio Bellizze - DJe 2/5/2014; HC n. 261383/MG - 5ª T. - Rel. Min. Laurita Vaz - DJe 3/4/2014; HC n. 189212/MG - 6ª T. - unânime - Rel. Min. Marilza Maynard - Des. convocada do TJSE - DJe 12/12/2013. Em igual sentido a jurisprudência do Supremo Tribunal Federal, v.g.: HC n. 120794/MG - 1ª T. - Rel. Min. Luiz Fux - DJe 8/5/2014; HC n. 115045/SP - 1ª T. - Min. Rosa Weber - DJe 23/4/2013; HC n. 111691/SP - 2ª T. - unânime Rel. Min. Gilmar Mendes - DJe 20/11/2012; HC n. 112738/SP - 2ª T. - unânime - Rel. Min. Ricardo Lewandowski - DJe 21/11/2012.
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, voto por negar provimento ao recurso em habeas corpus.
