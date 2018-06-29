@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS, em 18/03/2014, com base na alínea a do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. ALTERAÇÃO NOS CRITÉRIOS DE DISTRIBUIÇÃO DOS ROYALTIES. MEDIDA CAUTELAR NA ADIN 4917. SUSPENSÃO DOS ARTIGOS 48 E 49 DA LEI Nº 12.734/2012. PROTEÇÃO DOS ESTADOS E MUNICÍPIOS PRODUTORES. DECISÃO NÃO TERATOLÓGICA. MEDIDA LIMINAR MANTIDA.
+I- A controvérsia jurídica instaurada nos presentes autos cinge-se à aplicabilidade do artigo 48, § 3º e do artigo 49, § 7º, da Lei nº 9.478/97, com as alterações promovidas pela Lei nº 12.734/2012, que dispõe sobre a distribuição entre os entes da Federação dos royalties e da participação especial devidos em função da produção de petróleo, gás natural e outros hidrocarbonetos fluidos.
+II- No caso em tela, discute-se acerca da suspensão dos efeitos da Lei nº 12.734/12, em razão da decisão proferida pelo Supremo Tribunal Federal, na Medida Cautelar em Ação Direta de Inconstitucionalidade nº 4.917, proposta pelo Estado do Rio de Janeiro.
+III- Com efeito, a referida decisão não suspendeu diretamente o artigo 48, § 3º e o artigo 49, § 7º, da Lei nº 9.478/97. No entanto, não há empecilho ao reconhecimento, pelo Magistrado de primeiro grau, da inconstitucionalidade destes dispositivos, que não foram incluídos no pedido da ADI nº 4917 e, consequentemente, não foram objeto da decisão que deferiu a medida cautelar naquela ação.
+IV- Com base na teoria da inconstitucionalidade por transcendência dos motivos determinantes, é possível afirmar que a mesma ratio que levou à suspensão dos dispositivos impugnados nos autos da ADI nº 4917 encontra-se aqui presente e está afeta à necessidade de proteção das economias dos Estados produtores e Municípios, diante das perdas que certamente adviriam da aplicação dos novos critérios de distribuição instituídos pela Lei nº 12.734/2012, especialmente no que concerne à aplicação da nova sistemática às concessões havidas com base na legislação anterior.
+V- Esta Corte tem deliberado que apenas em casos de decisão teratológica. com abuso de poder ou em flagrante descompasso com a Constituição, a lei ou com a orientação consolidada de Tribunal Superior ou deste tribunal justificaria sua reforma pelo órgão ad quem, em agravo de instrumento, sendo certo que o pronunciamento judicial impugnado não se encontra inserido nessas exceções.
+VI- A ANP não apresentou qualquer argumento capaz de viabilizar a alteração dos fundamentos da decisão hostilizada, que foi fundamentada em consonância com a jurisprudência do STF e deste E. Tribunal Regional Federal, pelo que merece ser mantida em sua integralidade.
+VII- Agravo Interno improvido" (fls. 536/537e).
+Alega-se, nas razões do Recurso Especial, ofensa aos artigos 48, §3º, 49, §7º, da Lei 9.478/97, 7º da Lei 7.990/89 e 481 do CPC/73.
+Aduz não estarem presentes os requisitos exigidos pelo artigo 273 do CPC/73 para concessão da liminar, bem como que o acórdão recorrido é nulo por descumprimento da reserva de plenário.
+Requer, ao final, o provimento do Recurso Especial.
+Em sede de contrarrazões (fls. 653/703e), a parte recorrida defende a manutenção do acórdão impugnado (fls. 527/537e).
+O Recurso Especial foi admitido pelo Tribunal de origem (fl. 731e).
+O Ministério Público Federal, por meio do parecer de fls. 770/773e, opina pela prejudicialidade do Recurso Especial, em face da perda de seu objeto, tendo em vista a prolação de sentença no feito principal.
+A irresignação não merece acolhimento.
+Com efeito, segundo andamento processual disponível no sítio eletrônico do Tribunal de origem, houve a prolação de sentença, em 19/03/2014, nos autos do Mandado de Segurança 2013.51.01.021568-6, de que tratam estes autos.
+Ressalte-se que a jurisprudência desta Corte superior é no sentido de que "perde o objeto o agravo de instrumento interposto contra decisão que defere ou indefere o pedido liminar ou a antecipação da tutela quando superveniente a prolação de sentença, tendo em vista que esta absorve os efeitos do provimento liminar, por se tratar de juízo de cognição exauriente" (STJ, AgRg no REsp 1.279.474/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 06/05/2015).
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. MILITAR. AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. DECLARAÇÃO DE NULIDADE DE ATO ADMINISTRATIVO. PORTARIA QUE CONCEDE ANISTIA POLÍTICA. LEI 10.559/2002. LIMINAR DEFERIDA PARA SUSPENDER OS EFEITOS DA PORTARIA. PROLAÇÃO DE SENTENÇA DE MÉRITO NA ORIGEM. PERDA SUPERVENIENTE DO OBJETO. PRECEDENTES. AGRAVO REGIMENTAL PREJUDICADO.
+1. A superveniência da sentença proferida no feito principal enseja a perda de objeto de recursos anteriores que versem sobre questões resolvidas por decisão interlocutória combatida via agravo de instrumento. Precedentes.
+2. Agravo regimental prejudicado" (STJ, AgRg no REsp 1.413.651/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/12/2015).
+"PROCESSUAL CIVIL. AGRAVO PREVISTO NO ART. 544 DO CPC. AUSÊNCIA DE EXPEDIENTE FORENSE NO TRIBUNAL DE ORIGEM. COMPROVAÇÃO EM AGRAVO REGIMENTAL. POSSIBILIDADE. DOCUMENTO QUE NÃO COMPROVA A SUSPENSÃO DO PRAZO.
+1. (..)
+2. Compulsando-se a documentação acostada ao Agravo Regimental, não se constata a juntada de documento apto a comprovar a suspensão do prazo processual no Tribunal a quo.
+3. É intempestivo o Agravo em Recurso Especial interposto fora do prazo legal previsto no art. 544 do CPC.
+4. Fica prejudicado, ante a perda de objeto, o Recurso Especial interposto contra acórdão que examinou Agravo de Instrumento contra decisão que defere ou indefere liminar ou antecipação de tutela, quando se verifica a prolação de sentença de mérito nos casos em que o objeto do apelo extremo limita-se à discussão acerca do preenchimento dos requisitos previstos no art. 273 do CPC.
+5. Agravo Regimental não provido" (STJ, AgRg no AREsp 669.406/GO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 17/11/2015).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
