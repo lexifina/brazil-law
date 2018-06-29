@@ -1,0 +1,8 @@
+DECISÃO
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DO DECISUM AGRAVADO. SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto pela UNIÃO, o qual se insurgiu contra acórdão proferido pelo egrégio Tribunal de origem.
+2. A irresignação, contudo, não merece ser admitida, visto que a parte agravante não infirmou adequadamente os fundamentos da decisão agravada, quais sejam: a) óbice da Súmula 83 do STJ no tocante à compensação do reajuste de 28,86%; b) aplicação da Súmula 284 do STF; c) e incidência da Súmula 126 do STJ; d) impedimento da Súmula 83 quanto aos honorários advocatícios; e) empecilho da Súmula 7 do STJ. Na verdade, limitou-se a arguir: a) ausência da aplicação da Súmula 284 do STF; b) inexistência de incidência da Súmula 126 do STJ; c) além de tecer considerações sobre a inaplicabilidade da multa por litigância de má-fé, ao trazer jurisprudência nesse sentido; d) e pressupostos de admissibilidade recursal.
+3. Verifica-se que o agravante não trouxe qualquer jurisprudência do STJ em favor da sua tese no tocante à compensação do reajuste de 28,86% e quanto aos honorários advocatícios, nem rebateu especificamente o óbice da Súmula 7 do STJ. Com efeito, o Agravo em Recurso Especial tem por escopo desconstituir a decisão de inadmissão de Recurso Especial, sendo, por isso, imprescindível a impugnação específica de todos os fundamentos nela lançados, com o fito de demonstrar o seu desacerto. Dessa forma, à míngua de impugnação pertinente, incólume fica a decisão agravada; aplicação por analogia da Súmula 182 do STJ.
+4. Diante dessas considerações, não se conhece o Agravo em Recurso Especial.
+5. Publique-se.
+6. Intimações necessárias.
