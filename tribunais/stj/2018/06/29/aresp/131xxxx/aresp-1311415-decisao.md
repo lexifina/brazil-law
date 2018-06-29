@@ -1,0 +1,21 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. 1. COBRANÇA EXTRAJUDICIAL. HONORÁRIOS ADVOCATÍCIOS. INEXISTÊNCIA DE ABUSIVIDADE. 2. IMÓVEL. RESTRIÇÃO. FALTA DE PREQUESTIONAMENTO DA MATÉRIA OU TESE. SÚMULA 211 DO STJ. 3. AGRAVO CONHECIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por Cooperativa de Crédito de Livre Admissão de Associados Planalto Médio do Rio Grande do Sul - Sicredi Planalto Médio RS, com fundamento no art. 105, III, alínea a, da Constituição Federal, para impugnar acórdão assim ementado (e-STJ, fl. 191):
+EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO BANCÁRIO. CASO CONCRETO. MATÉRIA DE FATO. REVISÃO DAS CLÁUSULAS CONTRATUAIS. EXCESSO DE EXECUÇÃO. DESOBEDIÊNCIA AO INCISO I DO § 4º DO ART. 917 DO CPC/2015 (§ 5º DO ARTIGO 739-A DO CPC/1973). ABUSIVIDADE DOS ENCARGOS CONTRATUAIS NÃO DEMONSTRADA. COBRANÇA INDEVIDA. DE HONORÁRIOS ADVOCATÍCIOS EXTRAJUDICIAIS. IMPOSSIBILIDADE DE CONSTRIÇÃO DO IMÓVEL QUE SE ENQUADRA COMO BEM DE FAMÍLIA CARACTERIZADA. APELO PROVIDO EM PARTE.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 209-213).
+Nas razões do recurso especial, a ora agravante alegou violação dos seguintes dispositivos normativos: i) arts. 389, 395 e 404 do CC, argumentando a legalidade da cláusula de cobrança de honorários advocatícios extrajudiciais; e ii) art. 828 do CPC/2015 (art. 616-A do CPC/1973), em que aduziu a possibilidade de restrição do imóvel dos recorridos.
+Sem contrarrazões (e-STJ, fl. 238).
+O apelo nobre não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Contraminuta não apresentada (e-STJ, fl. 269).
+Brevemente relatado, decido.
+Presentes os pressupostos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+No tocante à incidência de honorários advocatícios na cobrança extrajudicial do débito, ao contrário do que consignou o Tribunal de origem, esta Corte Superior entende não ser abusiva a cláusula prevista em contrato de adesão que impõe ao consumidor em mora a obrigação de pagar honorários advocatícios decorrentes de cobrança extrajudicial.
+Nesse sentido:
+RECURSOS ESPECIAIS. CIVIL, PROCESSUAL CIVIL E CONSUMIDOR. AÇÃO CIVIL PÚBLICA. I - RECURSO DO BANCO PROMOVIDO: CONTRATO BANCÁRIO. LEASING. INCIDÊNCIA DE HONORÁRIOS ADVOCATÍCIOS EM CASO DE COBRANÇA EXTRAJUDICIAL. ÔNUS DECORRENTE DA MORA. RESPONSABILIDADE DO DEVEDOR. LEGALIDADE (CC/2002, ARTS. 389, 395 E 404). CONTRATO DE ADESÃO (CDC, ART. 51, XII). EXISTÊNCIA DE CLÁUSULA CONTRATUAL EXPRESSA. IMPROCEDÊNCIA DA AÇÃO. RECURSO PROVIDO. II - RECURSO DO PROMOVENTE: HONORÁRIOS ADVOCATÍCIOS EM FAVOR DO MINISTÉRIO PÚBLICO. RECURSO PREJUDICADO.
+1. Inexiste abuso na exigência, pelo credor, de honorários advocatícios extrajudiciais a serem suportados pelo devedor em mora em caso de cobrança extrajudicial, pois, além de não causar prejuízo indevido para o devedor em atraso, tem previsão expressa nas normas dos arts. 389, 395 e 404 do Código Civil de 2002 (antes, respectivamente, nos arts. 1.056, 956 e 1.061 do CC/1916).
+2. Nas relações de consumo, havendo expressa previsão contratual, ainda que em contrato de adesão, não se tem por abusiva a cobrança de honorários advocatícios extrajudiciais em caso de mora ou inadimplemento do consumidor. Igual direito é assegurado ao consumidor, em decorrência de imposição legal, nos termos do art. 51, XII, do CDC, independentemente de previsão contratual.
+3. Recurso especial da instituição financeira provido, prejudicado o recurso do Ministério Público. (REsp 1002445/DF, Rel. Min. Marco Buzzi, rel. Para acórdão Min. Raul Araújo, Quarta Turma, julgado em 25/08/2015, DJe 14/12/2015)
+No mais, não obstante a oposição de embargos de declaração, constata-se que o art. 828 do CPC/2015 não foi analisado pelo Tribunal de origem sob o enfoque dos argumentos deduzidos pela recorrente, faltando, assim, o requisito indispensável do prequestionamento (Súmula 211 do STJ), valendo ressaltar que não houve alegação de violação do art. 1.022 do CPC./2015.
+Ante o exposto, conheço do agravo para dar parcial provimento ao recurso especial a fim de permitir a cobrança de honorários advocatícios para cobrança extrajudicial do débito.
+Publique-se.
