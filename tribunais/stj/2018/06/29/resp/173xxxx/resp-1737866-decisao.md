@@ -1,0 +1,40 @@
+DECISÃO
+Vistos, etc.
+Trata-se de demanda cuja matéria de fundo versa sobre complementação de ações relativa a contrato de participação financeira firmado entre particulares, evidenciando que a discussão tem natureza de Direito Privado, pois não está relacionada à prestação do serviço público de telefonia em si.
+Desse modo, considerando que a ação originária foi ajuizada contra pessoa jurídica de direito privado, não se mostram presentes os elementos caracterizadores da competência da Primeira Seção do Superior Tribunal de Justiça.
+Assim, em princípio, a competência para apreciar o presente recurso é, consoante o disposto no art. 9º, § 2º, XIV, do RISTJ, da Segunda Seção desta Corte.
+Em apoio, enumero os seguintes feitos: REsp 1.610.419/PR, Rel. Ministra Isabel Gallotti (DJe 7/3/2017); REsp 1.650.565/RS, Rel. Ministro Antonio Carlos Ferreira (DJe 6/3/2017); AREsp 1.027.862/SC, Rel. Ministro Luis Felipe Salomão (DJe 6/3/2017); AREsp 933.005/SC, Rel. Ministro Moura Ribeiro (DJe 6/3/2017).
+Ainda confirmando a assertiva supramencionada, cito precedentes atuais exarados pelas Turmas que integram a Seção de Direito Privado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BRASIL TELECOM S.A. AÇÃO DE CONHECIMENTO. SUBSCRIÇÃO DE AÇÕES ORIGINÁRIAS DA CELULAR CRT. SÚMULA N. 371/STJ. INAPLICABILIDADE. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+1. "A presente demanda versa sobre pedido de subscrição de ações originárias da Celular CRT Participações S.A., decorrente da "dobra acionária" ou seja, do número de ações que a própria Companhia tinha subscrito na extinta CRT e que, por força da cisão da companhia, mediante a Ata da Assembléia Geral nº 115, deveria ter subscrito administrativamente para o contratante (EDcl no AgRg nos EDcl no REsp nº 1.390.895/RS, Rel. Ministro SIDNEI BENETI, Terceira Turma, DJe 14/3/2014). Não é, portanto, o caso de aplicação do critério estabelecido no enunciado Sumular nº 371 desta Corte" (AgRg no REsp n. 1.508.205/RS, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/06/2016, DJe 23/06/2016). Incidência da Súmula n. 83/STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 853.390/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/2/2017, DJe 23/2/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. ILEGITIMIDADE ATIVA. CESSÃO. COMPROVAÇÃO DA TRANSFERÊNCIA DO TERMINAL, AÇÕES E DIREITO RELATIVOS AO CONTRATO. REVISÃO. INCIDÊNCIA DA SÚMULA 7 DO STJ. PRECEDENTES.
+1. O Tribunal de origem reconheceu a ilegitimidade ativa do recorrente para pleitear eventual diferença de subscrição das ações, diante da comprovação da cessão e transferência de direitos e ações relativas ao contrato de participação financeira, com fundamento na prova documental. Rever tal posicionamento demandaria reexame do conjunto probatório dos autos, providência vedada em sede especial, a teor do óbice contido na Súmula 7 desta Corte.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 771.871/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 7/2/2017, DJe 17/2/2017)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PEDIDO DE SUSPENSÃO DO TRÂMITE PROCESSUAL EM VIRTUDE DO DEFERIMENTO DA RECUPERAÇÃO JUDICIAL. FORMULAÇÃO PERANTE O JUÍZO DE ORIGEM. SUBSCRIÇÃO DE AÇÕES. CÁLCULO DA LIQUIDAÇÃO. CONCLUSÃO DO TRIBUNAL DE ORIGEM. REEXAME FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+1. O pedido de suspensão do trâmite processual, pelo prazo de 180 dias, nos termos do artigo 6º da Lei 11.101/2005, motivado pelo deferimento do processamento da recuperação judicial, deve ser formulado perante o Juízo de origem.
+2. Para desconstituir as premissas fáticas reconhecidas pelo acórdão quanto à subscrição da diferença de ações para o cálculo da liquidação, seria imprescindível o revolvimento de fatos e provas, providência vedada no âmbito do recurso especial, nos termos da Súmula n. 7 do STJ.
+3. Agravo interno improvido.
+(AgInt no AgInt no AREsp 892.111/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 7/2/2017, DJe 14/2/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. SUBSCRIÇÃO DE AÇÕES. CUMPRIMENTO DE SENTENÇA.
+1. PLEITO PRELIMINAR DE SUSPENSÃO DO TRÂMITE PROCESSUAL. DEFERIMENTO DE PROCESSAMENTO DE RECUPERAÇÃO JUDICIAL. "O pedido de sobrestamento do cumprimento de sentença, pelo prazo de 180 dias, nos termos dos artigos 6º, § 4º, e 52, inciso III, da Lei 11.101/2005, motivado pelo deferimento do processamento da recuperação judicial, deve ser formulado perante o Juízo de origem" (AgInt no AgRg no AREsp 847.063/RS, Rel. Min. MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 21/10/2016).
+2. QUESTÃO ATINENTE À APLICAÇÃO DOS BALANCETES MENSAIS NA APURAÇÃO DA DIFERENÇA ACIONÁRIA. DECISÃO TRANSITADA EM JULGADO NA FASE DE IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE EXCESSO DE EXECUÇÃO QUE NÃO REFUTA O FUNDAMENTO DISPOSTO. SÚMULA 283/STF. ANALOGIA.
+3. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp 397.112/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 2/2/2017, DJe 9/2/2017)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. SUBSCRIÇÃO DE AÇÕES. JUROS SOBRE CAPITAL PRÓPRIO. INCLUSÃO NOS CÁLCULOS. REVISÃO. INVIABILIDADE. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7/STJ. FUNDAMENTOS DO ACÓRDÃO. NÃO IMPUGNAÇÃO. INCIDÊNCIA DO VERBETE 283 DA SÚMULA/STF. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. As razões elencadas pelo Tribunal de origem não foram devidamente impugnadas. Incidência do enunciado 283 da Súmula/STF.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 798.818/RS, Rel. Ministra ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/12/2016, DJe 2/2/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BRASIL TELECOM. SUBSCRIÇÃO DE AÇÕES. PEDIDO DE SUSPENSÃO DO PROCESSO EM VIRTUDE DE DEFERIMENTO DO PROCESSAMENTO DE RECUPERAÇÃO JUDICIAL. VIA ESPECIAL INADEQUADA. VIOLAÇÃO AOS ARTS. 502 E 505 DO CPC. SÚMULA 284 DO STF. VALOR PATRIMONIAL DA AÇÃO. COISA JULGADA. DATA LIMITE DOS DIVIDENDOS. SÚMULA 284 DO STF. AGRAVO NÃO PROVIDO.
+1. Em demandas de complementação acionária de telefonia envolvendo a OI S.A., quando não há notícia de concessão de tutela provisória recursal, que excepcional e eventualmente poderia ocasionar a prática de atos expropriatórios, o recurso especial não se revela a sede própria para a realização do pedido de suspensão do processo em virtude de deferimento de processamento de recuperação judicial, de forma que ele deve ser formulado perante o juízo de origem.
+2. Em relação à alegada ofensa aos arts. 502 e 505 do CPC, não se vislumbra a aduzida violação por falta de articulação de argumentos jurídicos a embasar tal assertiva, caracterizando deficiência de fundamentação. Incidência da Súmula 284 do STF.
+3. A jurisprudência do Superior Tribunal de Justiça é consolidada no sentido de que, havendo definição no título judicial exequendo quanto ao critério de apuração do VPA, ele deve ser observado em sede de cumprimento de sentença, em respeito à coisa julgada.
+4. No tocante ao tema sobre a data limite dos dividendos, a ausência de indicação de dispositivo de lei federal tido por violado caracteriza a deficiência de fundamentação a inviabilizar a abertura da instância especial. Aplicação da Súmula 284/STF.
+5. Pedido de suspensão do processo indeferido. Agravo interno não provido.
+(AgInt no AREsp 972.332/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/12/2016, DJe 2/2/2017)
+Observo, portanto, que não há questão de Direito Público a ser dirimida pela Primeira Seção, razão pela qual a matéria deve ser submetida a uma das Turmas da Seção de Direito Privado, na esteira do que dispõe o art. 9º, § 2º, incisos II e XIV, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, declino da competência e determino a redistribuição do feito a um dos Ministros integrantes das Turmas que compõem a Segunda Seção deste Tribunal.
+Publique-se. Intimem-se.
