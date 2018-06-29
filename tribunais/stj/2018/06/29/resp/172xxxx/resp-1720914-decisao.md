@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo [NOME] RODRIGUES ALCANTARA, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça do Estado do Pará.
+Consta dos autos que o recorrente foi condenado, como incurso nas sanções do art. 33 da Lei n. 11.343/2006, à pena de 8 anos de reclusão, no regime fechado, mais 800 dias-multa.
+Sobre os fatos, consta da inicial acusatória (e-STJ fls. 2/3):
+Relatam os autos de inquérito policial em anexo que, no dia 08 de janeiro de 2015, por volta das 10:00 horas, o acusado [NOME] foi preso em flagrante delito tendo sob sua guarda 250g (duzentos e cinquenta) gramas de maconha prensada, do tipo "limãozinho", conforme testifica o Auto de Apresentação e Apreensão de Objeto às fis. 17, Laudo de Constatação às fls. 19.
+Os policias civis chegaram até o acusado através de denúncia anônima, a qual declarava que o acusado [NOME] havia recebido entorpecentes de uma pessoa desconhecida da cidade de Marituba-PA.
+De posse de tais informações, os policias se deslocaram até a casa do acusado, localizada a Rua Vitória Régia, nº 423, próximo a Casa Sousa, no Bairro São José, uma vez que [NOME] já possuía várias passagens pela polícia por crimes graves, inclusive por tráfico de drogas, conforme certidão de fls.34/35, encontrando-se na oportunidade no gozo de liberdade provisória.
+Houve apelação da defesa, à qual o Tribunal de origem deu parcial provimento para redimensionar as penas para 7 anos de reclusão, em regime fechado, e 700 dias-multa, como se vê dos termos desta ementa (e-STJ fl. 194):
+APELAÇÃO PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. ABSOLVIÇÃO. IMPOSSIBILIDADE. AUTORIA E MATERIALIDADE COMPROVADAS. DEPOIMENTOS DE POLICIAIS. IDONEIDADE. FIXAÇÃO DA PENA-BASE NO MÍNIMO LEGAL. INVIABILIDADE. OBEDIÊNCIA AO DISPOSTO NO ART. 42 DA LEI 11.343/2006. REDIMENSIONAMENTO DA PENA. CABIMENTO. RECURSO PARCIALMENTE PROVIDO.
+1. Restou evidenciado, in casu, que a sentença ora combatida se encontra devidamente fundamentada nas provas carreadas ao feito, as quais formam um acervo probatório harmônico e coeso capaz de dirimir as dúvidas e evidenciar a autoria do delito de tráfico de drogas praticado pelo acusado, não havendo razão para acolhimento do pleito absolutório.
+2. Considerando a ausência de fundamentação adequada na análise das circunstâncias judiciais, imprescindível a realização de nova dosimetria da pena ao recorrente, restando a reprimenda concreta e definitiva em 07 (sete) anos de reclusão e pagamento de 700 (setecentos) dias-multa, a ser cumprida em regime inicial fechado, 3. RECURSO CONHECIDO E PARCIALMENTE PROVIDO, À UNANIMIDADE
+Daí o recurso especial, no qual o recorrente pugna pelo decote da elevação da pena pela reincidência, em razão de não ter sido comprovada por meio de certidão cartorária com data explícita do trânsito em julgado da sentença condenatória, e, por conseguinte, pelo reconhecimento e concessão da minorante do art. 33, § 4º, da Lei de Drogas no patamar máximo legal.
+Contrarrazões às e-STJ fls. 224/233.
+O Ministério Público Federal opinou pelo desprovimento do recurso e pelo envio de ofício à origem para o início da execução da pena (e-STJ fls. 249/255).
+É o relatório. Decido.
+O recurso não reúne condições de ser conhecido por esta Corte.
+Com efeito, a tese objeto do recurso especial - impossibilidade de reconhecimento da reincidência específica do recorrente em razão da ausência de certidão cartorária explicitando o trânsito em julgado da condenação que a teria ensejado, o que levaria à possível concessão do redutor do art. 33, § 4º, da Lei de Drogas - não foi apreciada pelo Tribunal estadual e não se opuseram os indispensáveis embargos de declaração a fim de incitá-lo a fazê-lo, não se mostrando viável a superação do óbice intransponível das Súmulas n. 282 e 356, ambas do STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
