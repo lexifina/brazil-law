@@ -1,0 +1,24 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/1973). PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356/STF. ANALOGIA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto pela CONDOMÍNIO PRIVE LAGO NORTE I - ETAPA 3 contra decisão do Tribunal de Justiça do Distrito Federal e dos Territórios que negou seguimento ao recurso especial fundado na alínea "a" do inciso III do art. 105 da CF, manejado em face de acórdão cuja ementa está assim redigida:
+"CIVIL E PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. TAXAS CONDOMINIAIS. CONDÔMINO. ASSOCIAÇÃO DE MORADORES. RECURSO REPETITIVO. ATA DE ASSEMBLEIA GERAL EXTRAORDINÁRIA E CONVENÇÃO. ESTATUTO DA CRIAÇÃO E CONVENÇÃO DO CONDOMÍNIO E DAS TAXAS CONDOMINIAIS. NORMATIVOS DECLARADOS NULOS. IMPOSSIBILIDADE DE COBRANÇA.
+1. Restando declarada nula, por sentença judicial, a Ata de Assembléia Geral Extraordinária e da Convenção que constitui o condomínio e estabelece as taxas condominiais, inválida se torna qualquer disposição obrigacional concernente a constituição de obrigação pecuniária dos moradores.
+2. Mostra-se impossibilitado ao condomínio demandante exigir da moradora Ré os valores supostamente devidos a título de taxa de condomínio, uma vez que ausente normativo legal ou contratual válido a fundamentar a exigência das supracitadas cobranças.
+3. Negado provimento ao apelo." (e-STJ fl. 240).
+Em suas razões de recurso especial, o Condomínio recorrente alega malferimento dos seguintes dispositivos de lei federal (e-STJ fl. 257): (i) artigo 520, inciso I, do Código de Processo Civil/2015, pois o acórdão recorrido "concede validade jurídica a sentença não transitada em julgado que não teve medida de cumprimento por execução provisória"; e (ii) artigos 1.332 e 1.333 do Código Civil/2002, porquanto o aresto reclamado concedeu "efeito maior do que o possível para uma anulação de ata que aprovou convenção de condomínio, tendo em vista que a anulação da ata de condomínio que aprova convenção não anula a instituição do condomínio, uma vez que quorum somente existe para a aprovação ou subscrição da convenção e não para a instituição a qual pode ser criada por ato entre vivos, podendo ser criado somente por uma pessoa em escritura pública ou por assinatura de várias pessoas, independente de quorum".
+Contrarrazões ao recurso especial às e-STJ fls. 267/274.
+Em suas razões de agravo, o Condomínio agravante infirmou especificamente os fundamentos da decisão que inadmitiu o recurso especial (e-STJ fls. 279/291).
+É o relatório.
+Passo a decidir.
+Ato contínuo, não merece guarida a pretensão recursal.
+Com efeito, o Tribunal local solveu a lide assentando essencialmente que:
+"Se o ato que institui a criação e aprovação do estatuto do condomínio e das respectivas mensalidades condominiais, qual seja, a Ata da Assembléia Geral Extraordinária dos Moradores - Convenção datada de 05/04/2008 (fl. 13/31) foi declarada nula por sentença judicial, não se vislumbra possível a pretensão do Autor/Apelante em exigir as taxas condominiais da Ré/Apelada, já que as obrigações pecuniárias criadas por meio da Assembléia Geral não se trata de um documento dotado de validade, eis que considerada nula. Pensar diferente, é admitir o pleito de cobrança da taxa de condomínio não prevista em lei e tampouco em contrato, já que o documento contratual prevendo a instituição de tais taxas está eivado de nulidade.
+E nesse ponto, registre-se que, não desconheço que a decisão declarando a nulidade da convenção do condomínio ainda não se encontra transitada em julgado. Ocorre que, a sentença foi proferida e confirmada por eg. TJDFT, e os recursos às instâncias superiores não se encontram com efeito suspensivo, de modo a subsistir por ora, os fundamentos da declaração de nulidade da referida ata de assembleia geral." (e-STJ fl. 247).
+Tenho que as teses vinculadas à violação dos arts. 520, inciso I, do Código de Processo Civil/2015, bem como 1.332 e 1.333 do Código Civil/2002 não foram apreciadas e debatidas pelo Tribunal de origem, nem mesmo os dispositivos tidos por violados constam do aresto reclamado.
+Assim sendo, o recurso especial não pode ser conhecido, pois, sobre as referidas questões federais controvertidas, não houve emissão de juízo pelo acórdão recorrido, restando ausente o seu prequestionamento.
+Destarte, inviável o seu conhecimento nesta sede nos termos das Súmulas 282 e 356/STF, aplicáveis por analogia. Ademais, verifico que não foram opostos embargos de declaração com o intuito de prequestionar a matéria.
+Ante o exposto, com base no art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para NEGAR provimento ao recurso especial.
+Considerando o disposto no § 11 do art. 85 do Código de Processo Civil de 2015, majoro os honorários advocatícios fixados no acórdão recorrido em 12% (doze por cento) para 15% (quinze por cento) sobre o valor atualizado da causa, porquanto não houve condenação.
+Intimem-se.
