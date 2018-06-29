@@ -1,0 +1,37 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSO PENAL. TRÁFICO DE DROGAS. 74,39 GRAMAS DE MACONHA, 36,86 GRAMAS DE COCAÍNA E 16,6 GRAMAS DE CRACK. OITIVA DE TESTEMUNHA DA DEFESA INDICADA A DESTEMPO. TRIBUNAL AFIRMA SER DESNECESSÁRIA À FORMAÇÃO DA CONVICÇÃO DO MAGISTRADO. REGIME INICIAL DE CUMPRIMENTO E SUBSTITUIÇÃO DA REPRIMENDA. ELEMENTOS CONCRETOS QUE OBSTAM. EXPRESSIVA QUANTIDADE. FUNDAMENTOS NÃO ATACADOS. SÚMULA 283/STF.
+Agravo conhecido para não conhecer do recurso especial. Ordem de habeas corpus concedida de ofício para estabelecer o regime aberto.
+DECISÃO
+Trata-se de agravo interposto por [NOME], representado pela Defensoria Pública de São Paulo, contra decisão que não admitiu seu recurso especial, fundamentado na alínea a do permissivo constitucional, apresentado contra o acórdão do Tribunal de Justiça local, proferido na Apelação Criminal n. 0098413-78.2012.8.26.0050, assim ementado (fl. 156):
+TRAFICO DE DROGAS - Preliminar - Cerceamento de defesa - Inocorrência - Preliminar rejeitada - Materialidade e autoria delitiva nitidamente demonstradas - Versão do réu restou isolada nos autos - Falas dos policiais militares firmes e coerentes - Depoimentos que se revestem de fé-pública, corroborados pelo conjunto probatório - Ausência de provas de que teriam intuito de prejudicar o réu - Impossibilidade de desclassificação para o crime do art. 28 da Lei 11.343/06 - Traficância comprovada Condenação era de rigor - Pena que não comporta reparo, já fixada da forma mais benéfica ao acusado - Inconstitucionalidade da pena de multa na Lei de Drogas - Afastamento - Não ofende qualquer princípio constitucional, pois o gravame decorre de política criminal adotada pelo legislador - Regime fechado mantido - Inviabilidade de substituição da pena privativa de liberdade por restritivas de direitos" Recurso defensivo desprovido.
+Opostos embargos de declaração, estes foram rejeitados (fl. 191/200).
+Alega o agravante, no especial, violação do art. 396-A do Código de Processo Penal, por ter o v. acórdão deixado de reconhecer a nulidade da r. sentença de primeiro grau que condenou o recorrente sem lhe garantir o direito de produzir uma prova testemunhal requerida pela Defesa e indispensável à comprovação de sua inocência (fl. 213).
+Indica ofensa aos arts. 33, § 2º, alínea c, e 44 do Código Penal, argumentando ter direito à substituição da pena privativa de liberdade por restritiva de direitos, além da adequação do regime de cumprimento para o aberto.
+A Subprocuradoria-Geral da República opinou pelo provimento do agravo (fl. 266).
+É o relatório.
+O presente agravo deve ser conhecido, já que reúne os requisitos intrínsecos e extrínsecos de admissibilidade, sobretudo por infirmar especificamente os fundamentos adotados.
+Passo ao exame do recurso especial.
+O recurso é inadmissível.
+Com efeito, ao que se observa dos autos, o Tribunal de Justiça paulista afirmou, diante do lastro probatório, que a prova testemunhal requerida pela defesa era desnecessária para a formação do convencimento do magistrado, que era prescindível para a comprovação do delito, além de que o deferimento ofenderia o princípio da paridade de armas.
+Eis os fundamentos do acórdão (fls. 158/159):
+Assim, verificando o magistrado a intempestividade da prova, c entendendo o Magistrado pela prescindibilidade da produção da prova requerida, já que não arrolou a suposta testemunha como testemunha do juízo, por ser desnecessária para formação de seu convencimento, deve indeferir sua realização, o que certamente não acarreta em cerceamento de defesa.
+No presente caso, verifica-se que o réu nunca mencionou tal testemunha, em momento algum, apesar de ter alegado que teve contato com a sua defensora anteriormente. Sequer a sua genitora, que o acusado alega que também presenciou os fatos, além da testemunha que foi ouvida, enfim, ninguém o réu arrolou ou mencionou anteriormente. E ainda apontou em seu interrogatório, deveras contraditório.
+Por outro lado, não havia qualquer prova que pudesse ser produzida que viesse a macular a veracidade dos relatos dos milicianos, os quais foram acolhidos com total credibilidade. Menos ainda uma prova que a defesa pretendia ver produzida intempestivamente, e, como bem salientado pelo magistrado de primeiro grau, sob pena de violação à paridade das partes.
+Portanto, agiu com o acerto o Magistrado, não havendo que se falar em cerceamento de defesa, eis que a produção da prova requerida pelo Defensor do réu não era mesmo necessária à comprovação do delito, como se verá adiante.
+Dessa forma, a par da falta de impugnação específica dos referidos fundamentos, trazendo à lume a Súmula n. 283/STF, inexoravelmente, alterar a conclusão do acórdão atacado, como pretendido pelo recorrente, demanda o reexame do acervo fático-probatório constante dos autos, providência que contraria a Súmula 7/STJ.
+Quanto ao regime inicial de cumprimento da pena, a Corte assim decidiu (fl. 170):
+Em que pese o entendimento do magistrado de primeiro grau, sequer seria caso de fixar o regime inicial semiaberto. O réu possuía significativa quantidade de substância entorpecente, uma delas de elevadíssimo potencial lesivo, que vem devastando as famílias e a saúde pública brasileira, revestindo-se de maior reprovabilidade a conduta do acusado.
+ ..
+Daí o reconhecimento da alta periculosidade da conduta, de forma que o regime semiaberto permitirá ao condenado uma maior recuperação, bem como a importante reflexão quanto ao impacto social e a gravidade de sua conduta.
+Nesse contexto, alterar a referida conclusão do acórdão vergastado, inexoravelmente, também demanda o reexame do acervo fático-probatório dos autos, vedado pelo Súmula 7/STJ.
+No tocante à substituição da reprimenda, tenho que Tribunal paulista afirmou, diante da expressiva quantidade, não ser recomendável ao caso.
+Eis os fundamentos (fls. 170):
+A substituição da pena privativa de liberdade por restritiva de direitos ao apelante, que claramente praticava o comércio de drogas, de droga é insuficiente para a prevenção e repressão do delito, sendo, portanto, sua concessão, vedada pelo art. 44. inciso III, do Código Penal.
+Com efeito, o réu praticou crime gravíssimo, equiparado a hediondo, sendo com ele apreendida considerável quantidade de drogas (52 porções de crack, 19 de cocaína e 29 de maconha), não havendo indicação de que tal substituição seja suficiente ou recomendável.
+Ao que se observa, ao contrário do alegado (natureza do delito praticado), a vedação da substituição da reprimenda está amparada em fundamento concreto, o qual não foi objeto de impugnação nas razões do especial, trazendo à lume o óbice da Súmula 283/STF.
+Contudo, analisando o regime de cumprimento da pena estabelecido, observo flagrante ilegalidade.
+Explico.
+Ainda que se trate de diversidade de drogas, a quantidade apreendida não se mostra suficiente para justificar o recrudescimento do regime, sobretudo considerando que a dosimetria realizada pelo magistrado não se valeu dessas peculiaridades para majorar a pena-base, nos termos do art. 42 da Lei 11.343/2006, optando por fixá-la no patamar mínimo.
+Dessa forma, vejo como proporcional e adequado ao caso dos autos, a fixação do regime aberto para o quantum da pena estabelecido (1 ano e 8 meses).
+Ante o exposto, com fundamento no art. 253, inc. II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial. Concedo ordem de habeas corpus, de ofício, para estabelecer o regime aberto para o início do cumprimento da pena.
+Publique-se.
