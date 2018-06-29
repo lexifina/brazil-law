@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/1973, que inadmitiu o recurso especial em virtude da incidência da Súmula n. 83/STJ (e-STJ fls. 249/251).
+O acórdão recorrido está assim ementado (e-STJ fls. 212/213):
+DIREITO ADMINISTRATIVO. APELAÇÃO CÍVEL. CERCEAMENTO DE DEFESA. AUSÊNCIA. PROGRAMAS HABITACIONAIS. INSCRIÇÃO. MERA EXPECTATIVA DE DIREITO. EDIFICAÇÃO IRREGULAR. OCUPAÇÃO IRREGULAR DE IMÓVEL PÚBLICO. EDIFICAÇÃO SEM ALVARÁ. DEMOLIÇÃO. ATO ADMINISTRATIVO. PODER DE POLÍCIA. LEGALIDADE. DEFERIMENTO DA JUSTIÇA GRATUITA. HONORÁRIOS ADVOCATÍCIOS. SUSPENSÃO DO PAGAMENTO.
+O Juiz e o destinatário da prova, cabendo a ele, de ofício, determinar as provas necessárias à instrução do processo, indeferindo as inúteis ou meramente protelatórias. Conquanto o princípio da ampla defesa represente uma garantia em processos judiciais, ressalta-se que ele não é absoluto, devendo ser aplicado caso a caso, a depender das circunstâncias do processo. In casu, as provas requeridas carecem de utilidade para o deslinde da controvérsia estabelecida em juízo, por tratar-se, a questão de mérito, matéria eminentemente de direito. Preliminar rejeitada.
+A inscrição em programas habitacionais da Administração não confere ao interessado a certeza de que será contemplado, sendo necessário que ele preencha requisitos legais, que deverão ser, previamente comprovados. E frisa-se que, mesmo depois de inscrito e com os requisitos previamente comprovados, a Administração ainda avaliará critérios subjetivos e objetivos de todos os interessados, a fim de compor uma ordem de preferência entre eles.
+Quando da inscrição, não possui, o interessado, a certeza de que será contemplado com um lote regularizado, mas tão *somente a expectativa de direito. E a despeito de o inscrito ter recebido a autorização para a ocupação do lote, este, em nenhum momento, lhe concedia .a autorização para construir ou edificar no imóvel, ainda mais sem o devido alvará de construção.
+Considerando que a parte já tinha ciência da precariedade da ocupação, e posteriormente de sua irregularidade, legítimo o ato demolitório, o qual. se reveste de presunção de legitimidade, veracidade, imperatividade e auto-executoriedade.
+Nos termos do artigo 3º da Lei nº 1.060/1950, dentre o rol de isenções concedidas aos beneficiários da justiça gratuita, encontra-se o pagamento dos honorários advocatícios.
+Apelo conhecido e parcialmente provido.
+Nas razões do recurso especial (e-STJ fls. 232/238), interposto com fundamento no art. 105, III, "a", da CF, a recorrente alegou ofensa aos arts. 330, I, 332 e 333, I, do CPC/1973.
+Sustentou, em síntese, que o seu direito de defesa teria sido cerceado com o indeferimento das provas pericial e testemunhal requeridas.
+No agravo (e-STJ fls. 253/261), afirma a presença de todos os requisitos de admissibilidade do especial.
+Os recorridos apresentaram contraminuta (e-STJ fls. 264/268).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+Ao afastar o alegado cerceamento de defesa, a Corte local assim se pronunciou (e-STJ fls. 216/218):
+Quanto a alegação de cerceamento de defesa, convém enfatizar que o Juiz é o destinatário da prova, cabendo a ele, de ofício, determinar as provas necessárias à instrução do processo, indeferindo as inúteis ou meramente protelatórias. Conquanto o princípio, da ampla defesa represente uma garantia em processos judiciais, ressalta-se que ele não é absoluto, devendo ser aplicado caso a caso, a depender das circunstâncias do processo.
+Com efeito, na hipótese dos autos, não se verifica cerceamento de defesa na decisão que, julgando antecipadamente o feito, não acolheu o pedido de produção de prova pericial, bem como a colheita de prova testemunhal requerida pela parte autora (fls. 147/148), isso porque a utilidade daquelas provas para o deslinde da controvérsia estabelecida em juízo seria totalmente desnecessária, por tratar-se, a questão de mérito, matéria eminentemente de direito..
+A ilustrar esse entendimento anuncia a jurisprudência, "presentes as condições que ensejam o julgamento antecipado da causa, é dever do juiz, e não mera faculdade, assim proceder" (STJ, 4a Turma, REsp nº 2.832/RJ, rel. Min. Sálvio de FigueiredaTeixeira, j. 14.08.1990).
+No mesmo sentido é a jurisprudência deste eg. Tribunal:
+(..)
+Dessa feita, em homenagem aos Princípios da Celeridade, Economia Processual, e bem como da Efetividade do Processo, rejeito a preliminar de cerceamento de defesa.
+Tal entendimento está em consonância com a jurisprudência do STJ, a qual se firmou no sentido de que o julgamento da lide, devidamente fundamentado, sem a produção das provas tidas por desnecessárias pelo magistrado não configura cerceamento de defesa, uma vez que cabe a ele dirigir a instrução e deferir a produção de provas que considerar necessária à formação do seu convencimento. A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. Não configura cerceamento de defesa o julgamento antecipado da lide, devidamente fundamentado, sem a produção das provas tidas por desnecessárias pelo juízo, uma vez que cabe ao magistrado dirigir a instrução e deferir a produção probatória que considerar necessária à formação do seu convencimento.
+2. Rever o acórdão que afastou o cerceamento de defesa implicaria o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula nº 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 814.657/SC, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 06/10/2016, DJe 17/10/2016.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE ESTABELECIMENTO COMERCIAL. ALEGADA VIOLAÇÃO AOS ARTS. 458, II, E 535, II, DO CPC/73. OFENSA AFASTADA. CERCEAMENTO DE DEFESA. NECESSIDADE DE PRODUÇÃO DE PROVA. JULGAMENTO ANTECIPADO. ARTS. 131, 330, I, E 400 DO CPC/1973. NÃO OCORRÊNCIA. VÍCIO DE CONSENTIMENTO NÃO CONFIGURADO. DANO MORAL. ATO ILÍCITO. INEXISTÊNCIA. REEXAME DE CIRCUNSTÂNCIAS FÁTICAS DO CASO. AGRAVO DESPROVIDO.
+1. Não se verifica a alegada violação aos arts. 458, II, e 535, II, do CPC/73, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida. De fato, inexiste omissão, contradição ou obscuridade no aresto recorrido. Ressalta-se não ser possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional, ou ausência de fundamentação.
+2. O juiz é o destinatário final das provas, a quem cabe avaliar sua efetiva conveniência e necessidade, advindo daí a possibilidade de indeferimento das diligências inúteis ou meramente protelatórias, em consonância com o disposto na parte final do art. 130 do CPC/73, de sorte que inexiste nulidade quando o julgamento antecipado da lide decorre, justamente, do entendimento do Juízo a quo de que o feito encontra-se devidamente instruído com os documentos trazidos pelas partes.
+3. O Tribunal de origem, com base nas provas constantes dos autos e nos termos das cláusulas avençadas, concluiu pelo não cabimento de indenização por danos morais, pois o negócio jurídico foi entabulado sem vício de consentimento, bem como não ficou configurada nenhuma conduta ilícita por parte do recorrido. A modificação deste entendimento demandaria o revolvimento do acervo fático-probatório dos autos, situação que encontra óbice na Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 446.873/RS, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 29/09/2016, DJe 20/10/2016.)
+Ademais, a análise da imprescindibilidade das provas pericial e testemunhal pretendidas pela recorrente demandaria a revisão do contexto fático-probatório dos autos, o que é vedado pela Súmula n. 7/STJ. Sobre o tema:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC/73. INOVAÇÃO RECURSAL. ALEGAÇÃO DE OFENSA AO ART. 130 DO CPC/73. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. "Incabível o exame de tese não exposta no recurso especial e invocada apenas em insurgência posterior, pois configura indevida inovação recursal" (AgInt no AREsp 897.353/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 04/08/2016, DJe 16/08/2016).
+2. O Tribunal local, com base nos elementos fático-probatórios dos autos, decidiu pela existência de cerceamento de defesa, de forma que o acolhimento da pretensão recursal acerca da desnecessidade da produção das provas requeridas pela parte recorrida demandaria a alteração das premissas fático-probatórias estabelecidas nas instâncias ordinárias, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 788.420/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/09/2016, DJe 07/10/2016.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NECESSIDADE DE PRODUÇÃO DE PROVAS REQUERIDAS. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. Em sede de recurso especial, não é possível alterar a conclusão do Tribunal de origem de que não é necessária a produção de prova pericial e oral, nem a solicitação ao banco para a exibição de fitas, pois demandaria o reexame do conjunto fático-probatório, o que atrai o óbice da Súmula 7 desta Corte.
+2. Agravo regimental improvido.
+(AgRg no AREsp 556.785/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/10/2014, DJe 13/11/2014.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
