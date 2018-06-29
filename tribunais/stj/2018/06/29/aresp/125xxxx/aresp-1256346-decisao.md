@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que negou seguimento a recurso especial, sob fundamento de incidência das Súmulas n. 5 e 7 do STJ.
+O acórdão recorrido apresenta a seguinte ementa (e-STJ fl. 313):
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS E REPETIÇÃO DO INDÉBITO. CANCELAMENTO DO PLANO DE SAÚDE. APLICAÇÃO DO CDC. AUSÊNCIA DE COMPROVAÇÃO POR PARTE DA DEMANDADA DOS REQUISITOS DO ARTIGO 13, II, DA LEI 9.656/98. AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA. DEMANDADA QUE NÃO SE DESVENCILHOU DE PROVAR FATO EXTINTIVO DO DIREITO DA BENEFICIÁRIA. FALHA NA PRESTAÇÃO DO SERVIÇO. DANO MORAL CARACTERIZADO. DESCUMPRIMENTO CONTRATUAL QUE AFETOU A INCOLUMIDADE DA REQUERENTE, QUE SE TRATA DE IDOSA, COM 91 ANOS DE IDADE. QUANTUM ARBITRADO A TÍTULO DE DANOS MORAIS. MINORAÇÃO. CABIMENTO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. I - Sobre os contratos de plano de saúde coletivo aplicam-se as disposições contidas no Código de Defesa do Consumidor, conforme inclusive preceitua a súmula nº 469 do STJ, que assim reza: "Súmula 469. Aplica-se o Código de Defesa do Consumidor aos contratos de plano de saúde." II - O valor da indenização deve ser fixado de maneira equânime, levando-se em consideração a extensão do dano advindo do ato ilícito e o caráter repressivo da medida.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 422/445).
+Sobreveio o recurso especial (e-STJ fls. 372/391), fundado no art. 105, III, "a", da CF, no qual a parte recorrente sustentou violação dos arts. 1º, 35-F e 35-G da Lei n. 9.656/1998 e 186, 187, 188, 421, 422, 480, 884, 886 e 944 do CC/2002, argumentando, em síntese, que não é aplicável o CDC aos planos de saúde de autogestão, além de inexistir danos morais a indenizar e ser exorbitante a quantia fixada como indenização (R$ 8.000,00 - oito mil reais).
+No agravo (e-STJ fls. 408/419), afirma a presença dos requisitos de admissibilidade do recurso especial.
+É o relatório.
+Decido.
+Inicialmente, ao apreciar o pedido inicial, entendeu o Tribunal de origem, em síntese, haver dano moral a ser indenizado, nos termos da responsabilidade objetiva prevista no CDC (e-STJ fls. 328/330).
+Dessa forma, o acórdão recorrido diverge da orientação desta Corte Superior, ao analisar o caso sob a ótica do Código de Defesa do Consumidor, norma inaplicável para reger os planos de saúde organizados no formato de autogestão. Confira-se:
+RECURSO ESPECIAL. ASSISTÊNCIA PRIVADA À SAÚDE. PLANOS DE SAÚDE DE AUTOGESTÃO. FORMA PECULIAR DE CONSTITUIÇÃO E ADMINISTRAÇÃO. PRODUTO NÃO OFERECIDO AO MERCADO DE CONSUMO. INEXISTÊNCIA DE FINALIDADE LUCRATIVA. RELAÇÃO DE CONSUMO NÃO CONFIGURADA. NÃO INCIDÊNCIA DO CDC.
+1. A operadora de planos privados de assistência à saúde, na modalidade de autogestão, é pessoa jurídica de direito privado sem finalidades lucrativas que, vinculada ou não à entidade pública ou privada, opera plano de assistência à saúde com exclusividade para um público determinado de beneficiários.
+2. A constituição dos planos sob a modalidade de autogestão diferencia, sensivelmente, essas pessoas jurídicas quanto à administração, forma de associação, obtenção e repartição de receitas, diverso dos contratos firmados com empresas que exploram essa atividade no mercado e visam ao lucro.
+3. Não se aplica o Código de Defesa do Consumidor ao contrato de plano de saúde administrado por entidade de autogestão, por inexistência de relação de consumo.
+4. Recurso especial não provido.
+(REsp 1.285.483/PB, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 22/6/2016, DJe 16/8/2016.)
+Diante do exposto, CONHEÇO do AGRAVO para DAR PROVIMENTO PARCIAL ao recurso, a fim de anular o acórdão estadual, determinando que outro seja proferido pela Corte de origem, levando em consideração os parâmetros traçados pela jurisprudência do STJ no julgamento da causa. Prejudicadas as demais alegações recursais.
+Publique-se e intimem-se.
