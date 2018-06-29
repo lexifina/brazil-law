@@ -1,0 +1,15 @@
+DECISÃO
+RONALDO CHAVES DA SILVA agrava de decisão que inadmitiu o recurso especial fundado no art. 105, III, "a", da Constituição Federal e interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (Apelação Criminal n. 1.0486.13.000843-7/001).
+Consta dos autos que o réu foi condenado à pena de 16 anos e 4 meses de reclusão, em regime inicial fechado, pela prática do crime previsto no art. 121, § 2º, II, c/c o art. 61, I, do Código Penal (Ação Penal n. 0008437-39.2013.8.13.0486). O decisum foi mantido, na íntegra, pelo Tribunal de origem.
+Nas razões do recurso especial, a defesa alega, em síntese, que houve: a) inversão na ordem dos quesitos; b) interferência indevida do juiz presidente; c) influência nos jurados sobre a periculosidade do réu e d) decisão manifestamente contrária à prova dos autos.
+Requer a nulidade do veredito proferido pelo Tribunal do Júri e, por conseguinte, a submissão do réu a novo julgamento.
+O apelo especial foi inadmitido no juízo prévio de admissibilidade realizado pelo Tribunal a quo (fls. 253-254), ante a incidência da Súmula n. 284 do STF, o que ensejou a interposição deste agravo (fls. 257-262), no qual a defesa alega ser "plenamente pertinente o recurso especial interposto, estando claras e evidentes as razões de seu devido recebimento" (fl. 259).
+O Ministério Público Federal opinou, às fls. 277-281, pelo desprovimento do agravo.
+Decido
+Não obstante os esforços perpetrados pelo ora agravante, não constato argumentos suficientes a infirmar a decisão agravada, cuja conclusão mantenho.
+Com efeito, o recurso especial encontra-se deficientemente fundamentado, porquanto o ora agravante deixou de indicar, expressamente, qual dispositivo de lei federal foi objeto de violação, o que impede o conhecimento do referido recurso também por esta Corte.
+O Superior Tribunal de Justiça tem a função primordial, por meio do recurso especial, de uniformizar a interpretação e aplicação do direito federal infraconstitucional. Com isso, o conhecimento do recurso, seja ele interposto pela alínea "a" ou pela alínea "c" do permissivo constitucional, exige, necessariamente, a indicação do dispositivo de lei federal que se entende por contrariado.
+Nesse sentido, "A ausência de indicação do dispositivo de lei federal supostamente contrariado na instância ordinária caracteriza deficiência na fundamentação, o que dificulta a compreensão da controvérsia, atraindo a incidência da Súmula n. 284 do STF" (AgRg no AREsp n. 356.998/DF, da minha relatoria, 6ª T., DJe 9/2/2015).
+Ausente fundamentação do apelo especial nesse ponto, incide, portanto, o óbice da Súmula n. 284 do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+À vista do exposto, conheço do agravo para, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, não conhecer do recurso especial.
+Por fim, determino o envio de cópia dos autos ao Juízo da condenação para imediata execução da pena imposta ao recorrente. A determinação deve ser desconsiderada caso o réu já cumpra a reprimenda.
