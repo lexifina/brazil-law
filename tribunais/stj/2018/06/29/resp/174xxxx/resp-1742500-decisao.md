@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por BOA VISTA EMPREENDIMENTO IMOBILIÁRIO SPE LTDA. fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO CÍVEL - Ação indenizatória - Atraso injustificado na entrega do bem - Indenização por lucros cessantes que deve ser adequada ao parâmetro estabelecido por esta c. Câmara - Dano moral - Inocorrência - Precedentes - Sentença reformada em parte - Recurso parcialmente provido" (e-STJ fl. 476).
+Os embargos de declaração opostos foram rejeitados.
+A recorrente alega violação dos arts. 393, 396, 927 e 945 do Código Civil e 14, § 3º, do Código de Defesa do Consumidor, ao fundamento de que não deve arcar com o pagamento de lucros cessantes porque não deu causa ao atraso na entrega do imóvel, haja vista ter sido surpreendida pela cassação do alvará expedido pela Municipalidade, caracterizando força maior. Suscita divergência jurisprudencial quanto ao não cabimento da inversão da multa contratual e impossibilidade de cumulação de lucros cessantes com multa contratual. Pugna pela suspensão do processo por versar sobre matéria idêntica ao Tema 971 deste Superior Tribunal.
+Sem as contrarrazões, o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+Sobre os lucros cessantes, assim se pronunciou o acórdão recorrido:
+"(..)
+Além disso, findo o prazo de tolerãncia previsto em contrato, ocorrido em 24/01/13, torna-se legítima a expectativa do consumidor de receber seu imóvel, motivo pelo qual a ré deve indenizá-los pelos danos materiais enfrentados, sendo irrelevante a destinação que se daria ao bem, tampouco a prova concreta de efetivo prejuízo material, pois é entendimento consolidado na Jurisprudência que "descumprido  pela promitente vendedora  o prazo para entrega do imóvel objeto do compromisso de compra e venda, é cabível a condenarão por lucros cessantes. Nesse caso, há presunção de prejuízo do promitente-comprador, cabendo ao vendedor, para se eximir do dever de indenizar, fazer prova de que a mora contratual não lhe é imputável" (AgRg no REsp 1202506/RJ, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 07/02/2012, DJe 24/02/2012; AgRg no Ag 1036023/RJ, Rel. Ministro ALDIR PASSARINHO JUNIOR, QUARTA TURMA, julgado em 23/11/2010, DJe 03/12/2010; AgRg no Ag 692.543/RJ, Rel. Ministro HUMBERTO GOMES DE BARROS, TERCEIRA TURMA, julgado em 09/08/2007, DJ 27/08/2007, p. 223)" (e-STJ fls. 479/480).
+Assim, tal entendimento está em harmonia com a jurisprudência desta Corte Superior, firmada no sentido de que a inexecução do contrato de promessa de compra e venda acarreta a obrigação ao pagamento de indenização por lucros cessantes, ainda que presumido, o que atrai a incidência da Súmula nº 568/STJ.
+A propósito:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. LUCROS CESSANTES. PREJUÍZO PRESUMIDO. NÃO PROVIMENTO.
+1. Nos termos da jurisprudência do STJ, o atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador.
+2. Agravo interno a que se nega provimento" (AgInt no AREsp 301.607/RJ, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 15/09/2016).
+Pela alínea "c" do permissivo constitucional, o recurso não merece conhecimento pois, nos termos dos artigos 1.029, § 1º, do Código de Processo Civil de 2015 e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, a divergência jurisprudencial deve ser comprovada e demonstrada, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, o que não ocorreu na espécie, ante a ausência de similitude fática entre os precedentes trazidos à colação.
+Além disso, não há como aferir eventual dissídio jurisprudencial sem que tenham os acórdãos recorrido e paradigma examinado o tema com enfoque na mesma legislação infraconstitucional.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. ESPECIAL INTERPOSTO PELA ALÍNEA "C". DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO. FALTA DE INDICAÇÃO DO DISPOSITIVO LEGAL. SÚMULA N. 284/STF. DECISÃO MANTIDA.
+1. O conhecimento do recurso especial pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente e a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, §§ 1º e 2º, do RISTJ e 1.029, § 1º, do CPC/2015), o que não foi observado no caso, fazendo incidir a Súmula n. 284/STF, aplicada por analogia. Precedentes.
+2. Agravo interno a que se nega provimento" (AgInt no AREsp 1.086.408/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 30/10/2017 - grifou-se).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. ALÍNEA C. INCIDÊNCIA DO VERBETE DA SÚMULA 284 DO STF. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Incide o verbete da Súmula 284 do STF quando o recorrente deixa de indicar qual dispositivo de lei federal teve sua interpretação divergente pelo Tribunal, mesmo quando o recurso foi interposto pela alínea "c" do permissivo constitucional.
+2. A análise da alegação recursal, no que tange à alegação de violação da coisa julgada, demandaria o reexame do conjunto fático-probatório, obstado nesta instância, conforme o disposto na Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento" (AgRg no REsp 1.347.791/DF, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 19/11/2015 - grifou-se).
+Torna-se patente, assim, a falta de fundamentação do apelo especial, circunstância que atrai a incidência da Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Também não se conhece do recurso especial diante do óbice contido na Súmula nº 13 do Superior Tribunal de Justiça, segundo a qual "a divergência entre julgados do mesmo Tribunal não enseja recurso especial".
+Por fim, inviável a suspensão do processo, haja vista que o acórdão recorrido sequer abordou a matéria tratada no Tema 971, afetado neste Superior Tribunal como recurso repetitivo.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor atualizado da condenação, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
