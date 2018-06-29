@@ -1,0 +1,54 @@
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO MANIFESTADA NA VIGÊNCIA DO NCPC. AÇÃO DE COBRANÇA. COMPRA E VENDA DE BEM MÓVEL. CANA DE AÇÚCAR. VIOLAÇÃO A DISPOSITIVOS DE LEI FEDERAL. FALTA DE PREQUESTIONAMENTO E ALEGAÇÃO GENÉRICA DE OFENSA A NORMA FEDERAL. SÚMULA NºS 282 E 284 DO STF. MÉRITO. TRIBUNAL LOCAL QUE DIRIMIU A CONTROVÉRSIA COM BASE NOS FATOS DA CAUSA E DO CONTRATO DE COMPRA E VENDA FIRMADO ENTRE AS PARTES. REFORMA DO JULGADO. SÚMULAS NºS 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+ETERVINA VIGARIO GUEREIRO (ETERVINA) ajuizou ação de execução por quantia certa contra devedor solvente, convertida em ação de cobrança contra FLORALCO AÇÚCAR E ÁLCOOL LTDA (FLORALCO).
+Narrou que celebrou com a ré contrato de compra e venda de cana-de-açúcar, tendo a ré inadimplido o preço ajustado, no total de R$ 274.105,29 (duzentos e setenta e quatro mil, cento e cinco reais e vinte e nove centavo). Pugnou, assim, para que seja a demandada compelida ao pagamento dos valores em atraso, acrescidos dos encargos contratualmente previstos.
+Em primeira instância, o pedido foi julgado procedente em parte, a fim de condenar a ré ao pagamento (1) do valor de R$ 18.553,31, acrescido de multa de 10% sobre o valor total da cana contratada, corrigidos monetariamente segundo a tabela prática do TJSP", desde a data de vencimento das obrigações, acrescido dos juros legais de mora de 1% ao mês a partir da citação, ante a impossibilidade de cumulação dos encargos; (2) das custas processuais e honorários advocatícios, fixados em 10% do valor da condenação (art. 20, §3º, do CPC/73).
+O Tribunal a quo negou provimento aos recursos interpostos, nos termos do acórdão a seguir transcrito:
+Bem móvel. Compra e venda de cana-de-açúcar. Inadimplemento. Ação de cobrança.
+1. Conforme entendimento jurisprudencial, a cumulação das multas moratória e compensatória só é possível se resultante de fatos geradores distintos.
+2. A rescisão do contrato em razão do inadimplemento implica a incidência da multa compensatória.
+3. Não há falar-se em inexigibilidade do débito em razão da indigitada novação determinada pela recuperação judicial, quando constituídos os créditos depois da homologação do plano previsto naquele regime.
+4. O não pagamento dos adiantamentos no termo contratado é suficiente para a incidência dos consectários legais, sendo desnecessária a notificação extrajudicial.
+5. Não há onerosidade excessiva a ensejar a redução da multa, quando estipulada dentro dos limites legais e não ocorrido qualquer fato imprevisível.
+6. Negaram provimento aos recursos, principal da autora e adesivo da ré (e-STJ, fl. 322).
+Irresignada, ETERVINA interpôs recurso especial, com fundamento no art. 105, III, a e c, da Constituição Federal, alegando violação dos arts. 104, 122, 138, 139, 140, 141, 142, 143, 144, 151, 152, 153, 154, 155, 156, 157, 158, 395, 412, 413, 421, 422, 423, 424, 425 e 478, todos do Código Civil.
+Sustentou, em suma, a validade do contrato livre e conscientemente firmado entre as partes, devendo ser aplicadas todas as cláusulas nele previstas, em observância do princípio do pacta sunt servanta, notadamente quanto a multa moratória em caso de atraso no pagamento (cláusula quinta, parágrafo terceiro) e da multa compensatória, nos termos da cláusula oitava da avença.
+Após apresentadas as contrarrazões, o recurso foi inadmitido na origem ante a inexistência de violação a lei federal e pela incidência das Súmulas nºs 5 e 7 do STJ.
+ Nas razões do agravo em recurso especial, ETERVINA afirmou que seu recurso merece trânsito, uma vez que cumpridos os requisitos necessários à admissibilidade, pugnando, ainda, pelo afastamento dos óbices sumulares aplicados na origem, tendo em vista que a análise de suas razões recursais não reclamam reexame de matéria fática nem de cláusulas contratuais (e-STJ, fls. 447/463).
+Foi apresentada contraminuta (e-STJ, fls. 498/502).
+É o relatório.
+DECIDO.
+Presentes os requisitos necessários a admissibilidade, conheço do agravo e passo ao exame do apelo especial.
+De plano, vale pontuar que os presentes embargos de declaração foram opostos a decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+(1) Da violação a dispositivos de lei federal
+A matéria contida nos arts. 104, 122, 138, 139, 140, 141, 142, 143, 144, 151, 152, 153, 154, 155, 156, 157, 158, 395, 412, 413, 421, 422, 423, 424, 425 e 478, tidos por ofendidos, da forma em que lançadas nas razões do apelo especial, não foi enfrentada pelo Tribunal de origem, nem foram opostos embargos de declaração a fim de suscitar o debate do tema nele contido, incidindo, no ponto, o óbice da Súmula 282 do STF, ante a falta de prequestionamento da questão federal invocada.
+Ademais, é assente nesta Corte que, a falta de indicação de dispositivos infraconstitucionais tidos como violados ou a alegação genérica de ofensa a lei, como ocorreu no presente caso, caracterizam deficiência de fundamentação, em conformidade com o enunciado Sumular nº 284 do STF.
+(2) Do mérito recursal
+O Tribunal a quo, após bem aquilatar todo o conjunto fático da causa, reconhecer a impossibilidade de cumulação de multa moratória com multa compensatória, nos termos da fundamentação abaixo:
+Pretende a autora, com seu recurso de apelação, incluir na condenação a multa moratória estipulada na sentença, prevista na cláusula quinta, parágrafo terceiro, que determina a incidência de 10% sobre o valor da parcela em atraso, além de diária de 1 (um) salário mínimo vigente, em caso de não cumprimento da obrigação no prazo previsto.
+Vale transcrever referida cláusula:
+"Parágrafo Terceiro o atraso nos adiantamentos de pagamentos acarretará multa de 10% sobre o valor, além de mora diária de um salário mínimo vigente." (fls. 09) Referida multa foi afastada na sentença, que só incluiu na condenação a multa compensatória, prevista na cláusula oitava, parágrafo terceiro, abaixo transcrita:
+"A parte que sem justa causa violar ou deixar de cumprir as disposições contidas neste instrumento, ficará obrigada a pagar uma multa no valor de 10% (dez por cento) sobre o valor total de toda a cana-de-açúcar ora contratada, além da indenização/perdas/danos/lucros cessantes e honorários advocatícios que serão exigidos em regular processo de execução." Asseverou o magistrado ser inexigível a cumulação de ambas as penalidades, pois, ou se exige o cumprimento da obrigação com os encargos previstos, ou, no caso de rescisão da avença, exige-se a penalidade em caso de inexecução.
+E bem andou o magistrado, ao eleger apenas a multa compensatória como penalidade pela inexecução do contrato, pois o contrato restou rescindido em razão do não pagamento dos adiantamentos, ou seja, trata-se do mesmo fato gerador da também pretendida multa moratória.
+ ..
+Não se trata de se fazer tábula rasa dos termos contratuais estipulados livremente no instrumento, mas de interpretar a incidência de suas cláusulas de acordo com o comportamento dos contratantes.
+Não há dúvidas de que as penalidades previstas na cláusula quinta se referem à mora da compradora, e a multa compensatória contemplada na cláusula oitava, à inexecução da obrigação.
+No caso dos autos, interrompendo-se a relação contratual, com rescisão da avença, incide a cláusula compensatória, tão somente, nos termos em que bem delineado na sentença.
+Por tais fundamentos, nego provimento ao recurso da autora (e-STJ, fls. 324/326).
+Em vista das razões acima, é de se observar que, por meio da análise do conjunto fático-probatório e das obrigações entabuladas em contrato, a Corte de origem reconheceu a extensão das obrigações assumidas entre as partes, reconhecendo a inadimplência da FLORALCO, e entendendo que somente é possível a cumulação da multa moratória com a multa compensatória, quando resultar de fatos geradores distintos, o que não ocorreu no caso concreto, assentando, por fim, que a rescisão do contrato decorrente de inadimplemento implica na incidência da multa compensatória.
+Desse modo, rever tal entendimento encontra óbice nos enunciados das Súmulas nº 5 e 7 do Superior Tribunal de Justiça.
+A propósito, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DISPOSITIVO LEGAL INCOMPATÍVEL COM A TESE SUSTENTADA. CONTRATO DE LOTEAMENTO. CLÁUSULA ESPECÍFICA. REEXAME DE CONTRATO E DE CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. É deficiente a fundamentação do recurso especial quando há incompatibilidade entre a tese sustentada e o comando normativo contido no dispositivo legal apontado como descumprido. Incidência da Súmula n. 284 do STF.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento de contrato e do contexto fático dos autos (Súmulas n. 5 e 7 do STJ).
+3. No caso concreto, a parte alega a existência de situação excepcional, relativa a cláusula de contrato de loteamento. Entretanto, alterar o entendimento sobre o tema, consolidado pelo Tribunal de origem, demandaria reexame de suas cláusulas, bem como do conjunto probatório do feito, o que é vedado em recurso especial.
+4. Agravo interno desprovido.
+(AgInt no REsp 1.503.675/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, DJe 27/3/2018).
+(3) Do dissídio jurisprudencial
+Quanto ao dissídio interpretativo invocado, o recorrente limitou-se a transcrever trechos das ementas dos julgados apontados como paradigmas, sem, contudo, realizar o cotejo analítico e demonstrar a similitude fática no escopo de comprovar o dissídio jurisprudencial, não suprindo, dessa forma, o disposto no art. 255, § 2º, do Regimento Interno do STJ.
+Ademais, é de se notar que a jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissídio é apoiado em fatos e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c, do permissivo constitucional. Precedente: AgRg no Ag 1.276.510/SP, Rel. Ministro PAULO FURTADO (Desembargador Convocado do TJ/BA), DJe 30/6/2010.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Deixo de majorar os honorários advocatícios (art. 85, § 2º e 11 do NCPC), por ser inaplicável ao presente caso.
+Por fim, advirto que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 77, §§ 1º e 2º, 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
