@@ -1,0 +1,80 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial pelo óbice da Súmula 7/STJ (e-STJ, fls. 133/136).
+A parte recorrente, por sua vez, refutou citada alegação, pugnando pela admissibilidade e análise do recurso especial (e-STJ, fls. 141/145).
+Sem contraminuta apresentada.
+É o relatório.
+Ultrapassados os requisitos de conhecimento do presente agravo, passo a examinar o recurso especial interposto pelo Município de São Paulo, com base no art. 105, inc. III, alínea "a", da CF/1988, em oposição ao acórdão do TRF da 3ª Região, ementado nos seguintes termos (e-STJ, fls. 109/110):
+PROCESSUAL CIVIL E TRIBUTÁRIO - EMBARGOS À EXECUÇÃO FISCAL - ISSQN - SERVIÇOS BANCÁRIOS - LISTA DE SERVIÇOS ANEXA AO DECRETO-LEI Nº 406/68 - ROL TAXATIVO, INTERPRETAÇÃO EXTENSIVA DE CADA ITEM - SENTENÇA DE PARCIAL PROCEDÊNCIA - APELAÇÃO DA EMBARGADA IMPROVIDA E RECURSO ADESIVO DA EMBARGANTE PROVIDO.
+1. O Superior Tribunal de Justiça já decidiu que "é legítima a incidência de ISS sobre os serviços bancários congêneres da lista anexa ao DL n. 406/1968 e à LC n. 56/1987" (Súmula 424, PRIMEIRA SEÇÃO, julgado em 10/03/2010, DJe 13/05/2010).
+2. A conta n" 19.300.021-0 (Autenc. Reprod. e Cópias - Recup. Despesas) abrange serviços que não consistem em atividades próprias de instituições bancárias e, inclusive, são enquadrados no item 75 da tabela anexa à Lei Municipal nº 10.822/89, que não é um item voltado às atividades bancárias e, não estando a atividade elencada no item da Lista de Serviços que trata dos serviços próprios do setor bancário, a atividade em questão pode ser considerada atividade-meio e, como tal, escapar do âmbito de incidência do ISS.
+3. Embora o STJ tenha pacificado entendimento no sentido de que "a lista de serviços anexa ao Decreto-Lei 406/1968 e à Lei Complementar 116/2003, para fins de incidência do ISS sobre serviços bancários, é taxativa, admitindo-se, porém, uma leitura extensiva de cada item, para que se possa enquadrar os serviços correlatos nos previstos expressamente, de modo que prevaleça a efetiva natureza do serviço prestado e não a denominação utilizada pela instituição financeira" (Aglnt no AREsp 883.708/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 04/10/2016, DJe 19/10/2016), nem mesmo utilizando uma leitura extensiva haveria o enquadramento da [CONTA] (SFH/SH - Taxas sobre Operações de Crédito). Precedentes desta Turma julgadora.
+4. Da mesma forma não incide ISS sobre os valores da [CONTA] (Taxa de Manutenção - CONTRUCARD) pois nem mesmo utilizando uma leitura extensiva haveria o enquadramento da conta em análise na lista de serviços. Precedentes desta Corte Regional.
+5. Por fim, também a [CONTA] (Tarifa - CAIXA - Agente de Custódia) em que são registradas as tarifas cobradas pela CEF como agente de custódia, ainda que se faça uma leitura extensiva de cada item da lista de serviços anexa ao Decreto-Lei 406/1968, não há enquadramento dessa conta.
+6. Condenação da embargada no pagamento de verba honorária que fixada em 10% do valor da causa devidamente atualizado.
+7. Apelação da embargada a que se nega provimento e recurso adesivo da embargante provido.
+Alega o recorrente, nas razões do especial, violação do art. 113, § 1º, do CTN e do Decreto-Lei n. 406/1968. Defende, em síntese, a incidência do ISS sobre os serviços prestados pela agravada.
+Sustenta que (e-STJ, fls. 126/127):
+ ..  tudo o que não constitui captação para fins de aplicação e intermediação de recursos financeiros é atividade-meio, pois tem por intuito criar condições para a realização de atividades-fim.
+ ..
+Portanto, é falaciosa a tese de que os serviços em questão são apenas atividades-meio prestadas pelas instituições financeiras.
+Compete aos Municípios pesquisar e dar interpretação às contas, nelas identificando receitas passíveis de incidência de ISS, sem ofender o princípio da taxatividade da lista ou invadir esfera de competência tributária atribuída à União. E foi assim que o Município-Recorrente identificou as receitas contabilizadas nas contas autuadas, sujeitas ao ISS por serem serviços tipificados no item 75 da lista municipal de serviços.
+As receitas advindas de tais atividades não podem ser consideradas meros acessórios das operações de crédito, já que a lei as individualiza como fato gerador do ISS e a própria instituição financeira individualiza os serviços, uma vez que cobra uma tarifa especifica para cada um deles.
+Caso os serviços realmente constituíssem simples atividades meio, não seriam cobrados isoladamente.
+Estas atividades preenchem uma finalidade determinada em si mesma. São executadas em favor do cliente e por eles é paga.
+Importante esclarecer que, nessas contas, são contabilizadas tarifas cobradas dos clientes, sendo que a base de cálculo do ISS corresponde ao preço dessa tarifa.
+Quanto às contas autuadas, não obstante considere o embargante que os serviços registrados nessas contas não correspondam a uma prestação de serviços, mas sim atividade-meio para parte do curso da operação de crédito respectiva, irrefutável é a incidência de ISS sobre a percepção de tais rendas, por se enquadrarem perfeitamente nos serviços bancários previstos no item 95 da lista municipal de serviços (item 96 da lista federal).
+Requer, assim, a incidência do ISS.
+Decido.
+O recurso não merece prosperar.
+Esta Corte de Justiça possui o entendimento de que, "embora taxativa a Lista de Serviços anexa ao Decreto-Lei n. 406/1968, para efeito de incidência de ISS, admite-se o emprego da interpretação extensiva para serviços congêneres, independentemente da nomenclatura adotada" (AgInt nos EDcl no AREsp 163.723/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 3/5/2018).
+Ocorre que, da leitura do aresto recorrido, se dessume que a análise da tese recursal esbarra na impossibilidade de incursão na seara probatória na via especial, conforme disposto na Súmula 7/STJ.
+Com efeito, não há como se acolher a impugnação da parte sem afastar a afirmação feita pelo Tribunal de origem de que as atividades sobre as quais o município requer a incidência do ISS, mesmo após interpretação extensiva, não são passíveis de tal cobrança.
+Vale conferir excertos do voto (e-STJ, fls. 102/108):
+Passo ao exame de cada uma das contas impugnadas nestes autos e a incidência ou não do referido imposto sobre cada uma delas.
+[CONTA] (Autenc. Reprod. e Cópias - Recup. Despesas)
+Alega a embargante que essa atividade não corresponde a prestação de serviço pela CEF porque não corresponde a sua atividade-fim, mas sim a uma atividade-meio, pelo que essa receita não enseja a incidência de ISS, sendo ilegítima a sua cobrança.
+Assiste razão à embargante, devendo a r. sentença ser mantida neste ponto.
+Como bem esclarecido na r. sentença, tais serviços não consistem em atividades próprias de instituições bancárias e, inclusive, são enquadrados no item 75 da tabela anexa à Lei Municipal nº 10.822/89, que não é um item voltado às atividades bancárias e, não estando a atividade elencada no item da Lista de Serviços que trata dos serviços próprios do setor bancário, a atividade em questão pode ser considerada atividade-meio e, como tal, escapar do âmbito de incidência do ISS.
+O Superior Tribunal de Justiça já decidiu que, "no caso de serviços de telecomunicações, as atividades-meio não sofrem incidência de ISS" (AgRg nos EDcI no AREsp 48.665/PR, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 07/02/2012, DJe 16/02/2012).
+[CONTA] (SFH/SH - Taxas sobre Operações de Crédito)
+Afirma a embargante que essas atividades não correspondem a sua atividade-fim, e sim a sua atividade-meio.
+Afirma que as despesas cobradas por ocasião da formalização de operações de financiamento no SFH e SH, tais como vistoria, avaliação de imóveis e medição das obras para liberação do financiamento, já compõem o encargo mensal devido pelo tomador da linha de crédito, a qual já é objeto de tributação pelo IOF, sendo evidente que essas despesas não ensejam a incidência do ISS, pois correspondem a receitas financeiras oriundas de operações de crédito.
+Afirma ainda que não se trata de prestação de serviços a terceiros, mas apenas um custo acessório à operação de crédito, sendo uma atividade interna da CEF destinada à própria instituição financeira.
+A embargada proclama que tais serviços têm a mesma natureza da "elaboração da ficha cadastral", serviço previsto no item 95 da lista de serviços anexas à lei municipal mencionada.
+Ora, resta evidente que esta não é uma atividade-fim da instituição bancária, mas uma atividade-meio, pelo que não está sujeita ao ISS.
+Embora o STJ tenha pacificado entendimento no sentido de que "a lista de serviços anexa ao Decreto-Lei 406/1968 e à Lei Complementar 116/2003, para fins de incidência do ISS sobre serviços bancários, é taxativa, admitindo-se, porém, uma leitura extensiva de cada item, para que se possa enquadrar os serviços correlatos nos previstos expressamente, de modo que prevaleça a efetiva natureza do serviço prestado e não a denominação utilizada pela instituição financeira" (Aglnt no AREsp 883.708/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 04/10/2016, DJe 19/10/2016), entendo que nem mesmo utilizando uma leitura extensiva haveria o enquadramento da conta em análise.
+ ..
+Dessa forma, assiste razão à embargante, devendo a r. sentença ser reformada neste ponto.
+[CONTA] (Taxa de Manutenção - CONTRUCARD)
+Afirma a embargante que essa conta abrange a taxa de manutenção sobre as operações do CONTRUCARD - linha de financiamento (operação de crédito) destinada à aquisição de material de construção a ser utilizado em imóveis residenciais urbanos, cuja movimentação ocorre por meio do cartão magnético de débito, de modo que essa taxa é parte integrante do cálculo do encargo mensal a ser pago pelo devedor do financiamento.
+O embargado não impugna especificamente esta conta.
+Entendo que, da mesma forma que conta apreciada no item acima, nem mesmo utilizando uma leitura extensiva haveria o enquadramento da conta em análise.
+ ..
+Dessa forma, assiste razão à embargante, devendo a r. sentença ser reformada também neste ponto.
+Conta n" 7.19.990.146-4 (Tarifa - CAIXA - Agente de Custódia)
+Afirma a embargante que nessa subconta são registradas as tarifas cobradas pela CEF como agente de custódia e que o valor cobrado a título de taxa de serviço de custódia das ações prestado pela CBLC - Companhia Brasileira de Liquidação de Custódia, no valor estabelecido por tabela daquela companhia é efetuado pela CEF na conta do cliente e repassado à CBLC, pelo que esse valor não corresponde a renda decorrente de prestação de serviços mas sim repasse de receitas, não sujeita à incidência de ISS.
+A embargada sustenta em sua impugnação que o tributo é devido uma vez que o valor das receitas reembolsáveis faz parte da receita tributável, não podendo ser deduzido do preço do serviço, sendo irrelevante a denominação conferida a tais ingressos de valores.
+Ainda que se faça uma leitura extensiva de cada item da lista de serviços anexa ao Decreto-Lei 406/1968, entendo que não há enquadramento da conta em análise.
+Dessa forma, assiste razão à embargante, devendo a r. sentença ser reformada também neste ponto.
+Esta Casa de Justiça já decidiu:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DECADÊNCIA. ISS. TRIBUTO SUJEITO A LANÇAMENTO POR HOMOLOGAÇÃO. AUSÊNCIA DE PAGAMENTO ANTECIPADO. EMBARGOS À EXECUÇÃO FISCAL. ISS. SERVIÇOS BANCÁRIOS. LISTA DE SERVIÇOS QUE É TAXATIVA PARA EFEITO DE INCIDÊNCIA DO IMPOSTO, MAS ADMITE LEITURA EXTENSIVA DE CADA ITEM A FIM DE ENQUADRAR SERVIÇOS IDÊNTICOS AOS EXPRESSAMENTE PREVISTOS. REVISÃO DAS CONCLUSÕES ADOTADAS NA ORIGEM. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. DESCABIMENTO. INCIDÊNCIA DA SÚMULA 7/STJ. FAZENDA PÚBLICA. VENCIDA OU VENCEDORA. LIMITES PERCENTUAIS DE 10% A 20%. INEXISTÊNCIA. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA. RECURSO ESPECIAL DO ITÁU UNIBANCO.
+ ..
+8. A jurisprudência do STJ pacificou o entendimento de que é legítima a incidência de ISS sobre os serviços bancários congêneres da lista anexa ao DL 406/1968 e à LC 56/1987" (Súmula 424/STJ). Porém, é necessário uma leitura extensiva de cada item, para que se possa enquadrar os serviços correlatos nos previstos expressamente, de modo que prevaleça a efetiva natureza do serviço prestado e não a denominação utilizada pela instituição financeira.
+9. Verificar se as atividades descritas nos autos estão enquadradas na Lista de Serviços inserta no Decreto-Lei 406/68 demanda revolvimento do conjunto fático-probatório, inadmissível na via especial, ante o óbice da Súmula 7/STJ.
+10. Recurso Especial do Itaú Unibanco não conhecido. Recurso Especial do município de Santo André parcialmente conhecido e, nessa extensão, não provido.
+(REsp 1.725.753/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 17/4/2018, DJe 24/5/2018)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMPOSTO SOBRE SERVIÇOS. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. ALEGADA VIOLAÇÃO AO ART. 110 DO CTN. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. VERIFICAÇÃO DO CORRETO ENQUADRAMENTO DA ATIVIDADE DESEMPENHADA NA LISTA DE SERVIÇOS ANEXA À LC 116/2003. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS. SÚMULA 7 DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+III. No caso concreto, o Tribunal de origem, diante do contexto fático-probatório dos autos, reconheceu a incidência do ISS sobre a prestação dos serviços bancários objeto das autuações feitas pela Fazenda Pública do Município de Uberaba, considerando que, embora os referidos serviços não estejam expressamente inseridos na Lista de Serviços anexa à LC 116/2003, afigura-se viável sua tributação, pela interpretação extensiva, para a cobrança do imposto sobre os serviços congêneres, nos termos da jurisprudência do STJ.
+IV. Nesse contexto, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ. Precedentes (STJ, AgRg no REsp 1.404.324/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 03/09/2015; STJ, AgRg no AREsp 586.402/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 30/06/2015).
+V. Agravo Regimental improvido.
+(AgRg no AREsp 747.997/MG, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 8/3/2016, DJe 17/3/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. ISSQN. TAXATIVIDADE DA LISTA DE SERVIÇOS. POSSIBILIDADE DE INTERPRETAÇÃO EXTENSIVA. SERVIÇOS BANCÁRIOS CORRELATOS ÀQUELES DESCRITOS NO DL 406/68. DEFINIÇÃO DO ENQUADRAMENTO. IMPOSSIBILIDADE DE REVERSÃO DA CONCLUSÃO ALCANÇADA PELO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO REPRESENTATIVO DE CONTROVÉRSIA: RESP. 1.111.234/PR, REL. MIN. ELIANA CALMON, DJE 08.10.2009. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A 1a. Seção desta Corte já orientou que a Lista de Serviços anexa ao Decreto-lei 406/68 é taxativa quanto à incidência de ISS, admitindo-se, em ampliação aos já existentes, apresentados com outra nomenclatura, o emprego da interpretação extensiva.
+2. A Corte local afirmou, expressamente, que os serviços objetos de tributação são correlatos àqueles previstos na lista anexa ao DL 406/68, modificado pela Lei Complementar 56 de 1987.
+3. Para se chegar a conclusão diversa da firmada pelas instâncias ordinárias seria necessário o reexame de matéria fático-probatória, o que encontra óbice na Súmula 7 desta Corte, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial.
+4. Agravo Regimental a que se nega provimento.
+(AgRg no AREsp 109.763/GO, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 25/11/2014, DJe 4/12/2014)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
