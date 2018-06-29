@@ -1,0 +1,32 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL (CPC/1973). CESSIONÁRIA DE CRÉDITOS DECORRENTES DE COMPROMISSOS DE COMPRA E VENDA DE LOTES. CELEBRAÇÃO DE ACORDO EM JUÍZO ARBITRAL. HONORÁRIOS ADVOCATÍCIOS.
+1 - AÇÃO DIRIGIDA CONTRA SUPOSTA CESSIONÁRIA DE CRÉDITOS DECORRENTES DE COMPROMISSOS DE COMPRA E VENDA DE LOTES PARA OBSTAR AS COBRANÇAS E EXIGIR RESTITUIÇÃO DE VALORES RECEBIDOS.
+2 - CELEBRAÇÃO DE ACORDO EM JUÍZO ARBITRAL ENTRE A AUTORA E A CEDENTE DE DESISTÊNCIA DA AÇÃO. RECURSO PREJUDICADO.
+3 - HONORÁRIOS ADVOCATÍCIOS DEVIDOS. ARTIGOS 23 E 24, § 4º DA LEI Nº 8.906/94. DIREITO AUTÔNOMO DE EXECUTAR A SENTENÇA QUANTO À VERBA DE SUCUMBÊNCIA. MAJORAÇÃO DE HONORÁRIOS.
+4 - PREJUDICIALIDADE DO RECURSO. ACORDO HOMOLOGADO. EXTINÇÃO DO PROCEDIMENTO RECURSAL.
+5 - AGRAVO INTERNO ACOLHIDO EM PARTE PARA, EM JUÍZO DE RETRATAÇÃO, DECRETAR A EXTINÇÃO DO PROCEDIMENTO RECURSAL, RESSALVANDO QUE O ADVOGADO TEM DIREITO A EXECUTAR A VERBA DE SUCUMBÊNCIA, POIS A TRANSAÇÃO FIRMADA, SEM A SUA AQUIESCÊNCIA, NÃO PREJUDICA OS HONORÁRIOS DE SUCUMBÊNCIA.
+DECISÃO
+Vistos etc.
+Trata-se de agravo interno interposto por JARDIM RESIDENCIAL MAISA EMPREENDIMENTOS LTDA - ME contra decisão de minha relatoria assim ementada:
+AGRAVOS EM RECURSO ESPECIAL. PROCESSO CIVIL (CPC/1973). AÇÃO DIRIGIDA CONTRA SUPOSTA CESSIONÁRIA DE CRÉDITOS DECORRENTES DE COMPROMISSOS DE COMPRA E VENDA DE LOTES PARA OBSTAR AS COBRANÇAS E EXIGIR RESTITUIÇÃO DE VALORES RECEBIDOS. CELEBRAÇÃO DE ACORDO EM JUÍZO ARBITRAL DA AUTORA E DA CEDENTE DE DESISTÊNCIA DA AÇÃO. RECURSOS PREJUDICADOS. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO PROVISÓRIA. ACORDO HOMOLOGADO. EXECUÇÃO DE HONORÁRIOS ADVOCATÍCIOS PROVISÓRIOS. DESCABIMENTO. EXTINÇÃO DO PROCEDIMENTO RECURSAL.
+No agravo interno, a parte agravante alega que os honorários sucumbenciais constituem direito autônomo e exclusivo do advogado, não podendo a parte dele dispor sem autorização ou anuência expressa do causídico. Defendem que os honorários de sucumbência continuam sendo devidos, haja vista serem definitivos e não provisórios, uma vez que arbitrados em sentença e majorados pelo Tribunal na fase de conhecimento. Argumenta que
+a desistência do cumprimento provisório de sentença exclusivamente pelas partes (sem a presença ou concordância dos seus procuradores) não afeta, em absoluto, a discussão travada a respeito da aplicação de lei federal para arbitramento de honorários de sucumbência, que continuam sendo devidos. (e-STJ fl. 1251).
+Aduz, ainda,
+que os honorários sucumbenciais foram arbitrados na primeira instância e majorados pelo Egrégio Tribunal de Justiça e, ainda, que os patronos da Agravante não participaram do acordo feito entre as partes litigantes perante o juízo arbitral e não dispuseram da verba que faziam jus naquela oportunidade, a Agravante requer seja reconhecido que o pleito recursal não foi prejudicado e que o mérito do Recurso Especial aviado seja julgado.(e-STJ fl. 1254).
+É relatório.
+Passo a decidir.
+Assiste razão à agravante, no que concerne à alegação de que os honorários de sucumbência continuam sendo devidos, ao argumento de que
+a desistência do cumprimento provisório de sentença exclusivamente pelas partes (sem a presença ou concordância dos seus procuradores) não afeta, em absoluto, a discussão travada a respeito da aplicação de lei federal para arbitramento de honorários de sucumbência, que continuam sendo devidos. (e-STJ fl. 1251).
+Com efeito, a jurisprudência desta Corte firmou-se no sentido de que o art. 26, § 2º, do CPC, o qual prevê a divisão igualitária das despesas processuais em caso de transação entre as partes, não se aplica ao honorários advocatícios pois, por pertencer ao advogados (arts. 23, e 24 da Lei nº 8.906/94), tal verba não pode ser objeto de pactuação entre os litigantes sem o seu assentimento. Precedentes: AgRG no REsp 1.215.346/DF, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe. de 24.04.2011; AgRg no RESp 1.190.796/MG, Rel.. Min. Jorge Mussi, Quinta Turma, DJe de 28.02.2011; REsp 1.153.356/PR, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 07.06.2010 e outros).
+Assim, continuam sendo devidos os honorários, uma vez que a transação, realizada sem a participação do advogado, não pode prejudicar a verba honorária fixada a seu favor. Nestes termos, pode o advogado executar o julgado quanto à verba de sucumbência.
+Destarte, reconsidero a decisão neste ponto, no sentido de que subsistem os honorários fixados.
+Quanto à alegação da recorrente JARDIM RESIDENCIAL MAISA EMPREENDIMENTOS LTDA - ME, de que a desistência não prejudicaria a apreciação do Recurso Especial por ela interposto, que versa sobre a fixação dos honorários de sucumbência, razão não lhe assiste.
+Havendo composição amigável, não subsiste o interesse recursal da parte recorrente (Autora), haja vista que, consoante se extrai dos autos, o acordo celebrado entre ela e a GSP foi claro ao estabelecer que
+Tramitam entre as partes e terceiros, ainda, as demandas judiciais elencadas no Anexo I.
+11.1 Em relação a estas ações, ajustam as partes que tomarão as providências necessárias para o seu encerramento, sendo certo que cada parte arcará com as despesas de seus advogados contratados para tais processos. Em caso de pagamento ou reemboldo de honorários de sucumbência arcados direta ou indiretamente pela GSP e/ou Maisa, tais custos serão rateados na proporção de 55% GSP e 45% Maísa. (e-STJ fl. 1206).
+Assim, tal circunstância não confere à parte ter apreciado o Recurso Especial oriundo de demanda em que se acordou pelo encerramento da ação, sem ressalvas quanto à possível discussão acerca de Recursos pendentes que não estavam afetos ao mérito recursal.
+Nesses termos, tendo a parte acordado pelo encerramento do processo, não há o que se falar em julgamento do Recurso Especial interposto, ainda que esse verse sobre a majoração de honorários.
+Em hipóteses como a dos autos, cumpre aos advogados que se reputarem prejudicados o ajuizamento de ação autônoma, por meio da qual discutirão o efetivo direito à majoração da verba honorária, tudo conforme a extensão de sua atuação no processo e a complexidade do trabalho desenvolvido.
+Ante o exposto, acolho em parte o agravo interno, para em juízo de retratação, decretar a extinção do procedimento recursal.
+Fica ressalvado o direito de o advogado executar a verba de sucumbência, pois a transação firmada, sem a sua aquiescência, não prejudica os honorários de sucumbência.
+Intimem-se.
