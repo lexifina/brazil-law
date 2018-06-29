@@ -1,0 +1,40 @@
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. INQUÉRITO POLICIAL. ESTELIONATO. JUSTIÇA FEDERAL E JUSTIÇA ESTADUAL. INDÍCIOS DE TRANSNACIONALIDADE. CIRCUNSTÂNCIA QUE, POR SI SÓ, NÃO FIRMA A COMPETÊNCIA DA JUSTIÇA FEDERAL. INEXISTÊNCIA DE PREJUÍZO AOS ENTES ELENCADOS NO ART. 109, IV, DA CF. CRIME QUE NÃO FIGURA EM INSTRUMENTOS INTERNACIONAIS (ART. 109, V, DA CF). COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+Conflito conhecido para declarar a competência do Juízo de Direito da 1ª Vara de Campo Limpo Paulista/SP, o suscitado.
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo Federal da 2ª Vara de Jundiaí - SJ/SP, o suscitante, e o Juízo de Direito da 1ª Vara de Campo Limpo Paulista/SP, o suscitado.
+Versam os autos acerca de inquérito policial, instaurado no âmbito da Polícia Civil de São Paulo (Delegacia Seccional de Polícia de Jundiaí/SP), com vistas a apurar a suposta prática do crime de estelionato.
+Consoante notitia criminis, M de L C, residente em Goiânia/GO, informou ter conhecido pessoa em sítio eletrônico de relacionamento, a qual identificou-se como [NOME], que se dizia americano e estava na Nigéria, sendo que, no curso da interação  ..  inventou várias situações para pedir dinheiro e a vítima acreditando, acabou por efetuar vários depósitos, perfazendo em torno de R$ 70.000,00, as quais foram a crédito no Banco Bradesco  .. , sendo a conta de titularidade de V M S A (fl. 2).
+No curso do procedimento inquisitivo, a autoridade policial ouviu a titular da conta bancária favorecida, tendo ela relatado ter se envolvido  ..  em um "namoro virtual" com uma pessoa de nome "Smith", que, usando do mesmo modus operandi, solicitava à segunda vítima que fizesse transferências de valores que era creditados em sua conta para contas situadas no exterior via correspondente Western Union.
+No mesmo depoimento, disse, ainda, ter transferido  ..  valores particulares ao golpista no montante de R$ 30.000,00 (trinta mil reais)  .. , acostando documentos referentes às transferências (fls. 85/86).
+Diante das circunstâncias verificadas, a autoridade policial representou pelo envio dos autos à Justiça Federa (fls. 85/86), no que foi acompanhado pelo Ministério Público de São Paulo (fls. 88/89).
+Recebendo os autos, o Juízo de Direito da 1ª Vara de Campo Limpo Paulista/SP acolheu a representação ministerial e declinou da competência para processar o feito (fl. 91).
+Na Justiça Federal de Jundiaí - SJ/SP, o procedimento foi reautuado sob o n. 0002030-39.2017.4.03.6128 e distribuído ao Juízo da 2ª Vara Federal, que suscitou o conflito, por não vislumbrar interesse da União no feito (fls. 98/102).
+Instado a se manifestar, o Ministério Público Federal opinou pela competência do Juízo suscitado (fl. 110):
+CONFLITO NEGATIVO DE COMPETÊNCIA ENTRE JUÍZO FEDERAL E JUÍZO ESTADUAL. CRIME DE ESTELIONATO PRATICADO POR ESTRANGEIRO CONTRA BRASILEIRO. AUSÊNCIA DE INTERESSE DA UNIÃO. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+- Parecer pelo conhecimento do conflito para declarar competente a Justiça Estadual.
+É o relatório.
+A transnacionalidade do crime, por si só, não atrai a competência da Justiça Federal.
+Se verificada tal circunstância, como no caso dos autos, cabe perquirir se o ato delituoso causou prejuízo a algum dos entes elencados no inciso IV, do art. 109, da Constituição Federal, ou se o ilícito figura entre aqueles que o país se obrigou a reprimir mediante acordo ou tratado internacional (art. 109, V, da Constituição Federal).
+Nesse sentido, destaco
+PENAL E PROCESSUAL PENAL. CONFLITO NEGATIVO DE COMPETÊNCIA. COMPARTILHAMENTO DE SINAL DE TV POR ASSINATURA, VIA SATÉLITE OU CABO. CARD SHARING. ARTIGO 109, INCISO V, DA CF/88. NORMATIVO INTERNACIONAL VIGENTE. TRANSNACIONALIDADE DA CONDUTA. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. De acordo com o art. 109, V, da Constituição Federal, a competência da jurisdição federal se dá pela presença concomitante da transnacionalidade do delito e da assunção de compromisso internacional de repressão, constante de tratados ou convenções internacionais.
+2. No caso em análise, o Ministério Público do Estado de São Paulo, a partir de notitia criminis formulada pela Associação Brasileira de Televisão por Assinatura, requereu a busca e apreensão de elementos de prova acerca da prática de crimes de violação de direitos autorais e contra a Lei de Software, relacionados à atividade de fornecimento ilícito de sinal de TV por assinatura.
+3. O requisito inicial de previsão normativa internacional é constatado pela Convenção de Berna, integrada ao ordenamento jurídico nacional através do Decreto nº 75.699, de 6 de maio de 1975, e reiterada na Organização Mundial do Comércio - OMC por acordos como o TRIPS (Trade-Related Aspects of Intellectual Property Rights) - Acordo sobre Aspectos dos Direitos de Propriedade Intelectual Relacionados ao Comércio (AADPIC), incorporado pelo Decreto nº 1355, de 30 de Dezembro de 1994, com a previsão dos princípios de proteção ao direitos dos criadores, além de diversos outros tratados e convenções multilaterais assinados pelo Brasil, fixando garantias aos patrimônios autorais e culturais.
+4. O segundo requisito constitucional, de tratar-se de crime à distância, com parcela do crime no Brasil e outra parcela do iter criminis fora do país, é constatado pela inicial prova da atuação transnacional dos agentes, por meio da internet.
+5. Conflito conhecido para declarar competente o JUÍZO FEDERAL DA 9ª VARA CRIMINAL DA SEÇÃO JUDICIÁRIA DO ESTADO DE SÃO PAULO, ora suscitante.
+(CC n. 150.629/SP, Ministro Nefi Cordeiro, Terceira Seção, DJe 28/2/2018)
+ ..
+1. Para firmar a competência da Justiça Federal, nos termos do art. 109, inciso V, da Constituição Federal, faz-se necessária a presença de indícios da transnacionalidade do crime previsto em tratados ou convenções internacionais, não bastando a potencialidade do dano internacional.
+ ..
+(CC n. 127.419/GO, Relatora p/ Acórdão Ministra Maria Thereza de Assis Moura, Terceira Seção, DJe 2/2/2015)
+CONFLITO DE COMPETÊNCIA. DELITO DE ESTELIONATO POR MEIO DA INTERNET. NÃO INCIDÊNCIA DOS INCISOS IV E V DA CONSTITUIÇÃO FEDERAL. COMPETÊNCIA DA JUSTIÇA ESTADUAL. PRECEDENTES DO STJ.
+1. O fato de o suposto crime de estelionato ter sido cometido por meio da rede mundial de computadores (internet) não atrai, necessariamente, a competência da Justiça Federal para o processamento do feito.
+2. Para se firmar a competência da Justiça Federal, além da transnacionalidade do delito, deve-se demonstrar lesão a bens, serviços e interesses da União e que o País é signatário de acordos e tratados internacionais, a teor dos incisos IV e V do art. 109 da CF.
+3. A hipótese dos autos, não há lesão aos incisos IV e V da Constituição Federal, uma vez que o particular foi vítima direta do delito de estelionato em investigação, e, apesar de os bens terem sido enviados para a Nigéria por meio de transação feita pela internet, o próprio dispositivo constitucional exige, para o reconhecimento da competência da Justiça Federal, que o crime praticado nesse contexto transnacional tenha sido previsto em tratado ou convenção internacional, o que não é o caso dos autos, já que o Brasil não ratificou a Convenção de Budapeste de Repressão à Cibercriminalidade, nem qualquer tratado através do qual tenha se obrigado a reprimir o delito de estelionato.
+4. Conflito conhecido para declarar competente o Juízo de Direito da Vara Criminal de Inquéritos Policiais de Belo Horizonte/MG, o suscitado.
+(CC n. 126.768/MG, Ministra Alderita Ramos de Oliveira, Desembargadora convocada do TJ/PE, Terceira Seção, DJe 10/5/2013)
+No caso, não há indício de dano a alguns dos entes elencados no art. 109, IV, da CF, tampouco há notícia de instrumento internacional no qual o Brasil tenha se obrigado a reprimir o crime em referência, razão pela qual a competência para processar o inquérito remanesce com a Justiça estadual.
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da 1ª Vara de Campo Limpo Paulista/SP, o suscitado.
+Dê-se ciência ao Juízes em conflito.
+Publique-se.
