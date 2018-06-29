@@ -1,0 +1,40 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. DIREITOS AUTORAIS. TELEVISÃO E RÁDIO EM QUARTO DE HOTEL. POSSIBILIDADE. ACÓRDÃO EM PERFEITA HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL INTERPOSTO POR CITY PENHA HOTEL LTDA.
+DECISÃO
+Trata-se de agravo interposto por City Penha Hotel Ltda., desafiando decisão que inadmitiu recurso especial fundamentado no art. 105, inciso III, alínea a, da Constituição Federal, manejado, por seu turno, contra acórdão do Tribunal de Justiça de São Paulo assim ementado (e-STJ, fl. 451):
+DIREITO AUTORAL - Ação de Cumprimento de Preceito legal c/c pedido de liminar c/c perdas e danos - Disponibilização de aparelhos de televisão e rádio em quartos de Hotel - Procedência do pedido - Inconformismo.
+Apelação do réu - Aposentos privados - Hotel - Área de frequência coletiva e com finalidade de lucro - Hipótese configurada de arrecadação ao ECAD - Aplicação da Súmula 63, STJ - Quantum debeatur - Cálculo elaborado tendo por base a efetiva taxa de ocupação do estabelecimento - Multa - Afastada - Ausente previsão legal ou estipulação contratual - Juros Moratórios - Matéria de ordem pública - Revisão de ofício - Ilícito extracontratual - Aplicação da Súmula 54, STJ - Prescrição - Responsabilidade extracontratual - Inteligência do artigo 206, § 3º, inciso V, CC - Precedente do STJ - Decisão reformada - Recurso provido, em parte.
+Apelação do autor - a antecipação da tutela recursal e suspensão da retransmissão das obras musicais e programas de televisão se superam pelo julgamento do recurso - Decisão mantida - Recurso desprovido.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial (e-STJ, fls. 479-483), o recorrente sustentou violação ao art. 23 da Lei n. 11.771/2008, ao argumento de que a simples existência de aparelhos de rádio e TV nos quartos de hotel não gera direito à cobrança referente a direitos autorais.
+As contrarrazões foram apresentadas às fls. 508-517 (e-STJ).
+Brevemente relatado, decido.
+Inicialmente, verifica-se que se aplica ao caso o Código de Processo Civil de 1973, ante os termos do Enunciado Administrativo n. 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça."
+O Tribunal de origem, ao analisar a questão jurídica debatida nos autos, assentou os seguintes fundamentos (e-STJ, fls. 453-454):
+É cediço que, em consonância à jurisprudência desta Corte, bem como do Egrégio Superior Tribunal de Justiça, a simples existência de equipamentos de televisores e rádios, disponibilizados aos hóspedes em habitações privadas, pouco importando a efetiva utilização e o caráter particular do quarto, legitima a arrecação de verba devida ao réu, em pagamento aos direitos autorais, das canções e programas lá transmitidos, nos termos da legislação aplicável à espécie.
+Assim o sendo, inquestionável o dever do réu no cumprimento desta obrigação - arrecadação ao ECAD - ante a incontroversa disponibilização dos equipamentos citados em seus quartos, considerado o hotel como área de frequência coletiva e com finalidade de lucro, até porque a presença de tais aparelhos traduz um chamariz ao consumidor na escolha de estabelecimento para hospedagem.
+Destarte, o acórdão recorrido encontra-se em perfeita hamonia com a jurisprudência desta Corte no sentido de que "a disponibilidade de rádio e televisão em quartos de hotel é fato gerador de arrecadação de direitos autorais" (AgRg no REsp n. 996.975/SC, Relator o Ministro Raul Araújo, julgado em 06/10/2016, DJe 22/11/2016).
+No mesmo sentido, confiram-se os seguintes julgados sobre a matéria:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DIREITO AUTORAL. ECAD. TAXA. COBRANÇA. QUARTO DE HOTEL. TV POR ASSINATURA. DISPONIBILIZAÇÃO. INCIDÊNCIA.
+1. A Segunda Seção do Superior Tribunal de Justiça firmou compreensão segundo a qual é assegurado ao Escritório Central de Arrecadação e Distribuição - ECAD o direito de arrecadar direitos autorais decorrentes da disponibilização de rádio e TV por assinatura em quartos de hotéis, exceto se houver contrato prevendo o pagamento da taxa pela empresa prestadora dos serviços, o que não se verifica no caso em exame.
+2. Agravo regimental não provido.
+(AgRg no REsp 1567914/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 16/06/2016, DJe 27/06/2016)
+CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIREITO AUTORAL. EXECUÇÃO DE MÚSICA EM QUARTO DE HOTEL/MOTEL. OFENSA AO ART. 535 DO CPC. OMISSÃO CONFIGURADA. VIOLAÇÃO DO ART. 23 DA LEI Nº 11.771/08. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 282 DO STF. ECAD. COBRANÇA DE DIREITOS AUTORAIS. POSSIBILIDADE. MATÉRIA PACIFICADA PELA EG. SEGUNDA SEÇÃO DESTA CORTE.
+1. Os embargos de declaração requerem que estejam presentes os pressupostos do art. 535 do CPC, somente sendo cabíveis nas hipóteses ali previstas, a fim de sanar omissão, contradição ou obscuridade no acórdão.
+2. O art. 23 da Lei nº 11.771/08 não foi objeto de debate nas instâncias ordinárias, e o insurgente não se valeu dos embargos de declaração a fim de suscitar a discussão da matéria na instância a quo, estando ausente o indispensável prequestionamento da questão federal invocada, incidindo no ponto a Súmula nº 282 do STF.
+Precedentes.
+3. O acórdão recorrido se firmou em conformidade com a jurisprudência assentada na eg. Segunda Seção desta Corte, no sentido de que são devidos direitos autorais pelo uso de aparelhos televisores ou radiofônicos em quartos de hotéis, motéis ou pousadas.
+4. Embargos acolhidos, sem efeitos infringentes.
+(EDcl no AREsp 602.679/SC, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 17/12/2015, DJe 05/02/2016)
+RECURSO ESPECIAL. DIREITO CIVIL. DIREITOS AUTORAIS. DISPONIBILIZAÇÃO DE APARELHOS RADIOFÔNICOS E TELEVISORES. QUARTO DE HOSPITAL. INSTITUIÇÃO FILANTRÓPICA. COBRANÇA. POSSIBILIDADE. LEI Nº 9.610/1998.
+1. À luz das disposições insertas na Lei nº 9.610/1998 e consoante a jurisprudência consolidada do Superior Tribunal de Justiça, a simples disponibilização de aparelhos radiofônicos e televisores em quartos de hotéis, motéis, clínicas e hospitais autoriza a cobrança, pelo Escritório Central de Arrecadação e Distribuição - ECAD, dos direitos autorais de todos os titulares filiados às associações que o integram.
+2. Para fins de reconhecimento da possibilidade de cobrança é irrelevante que a execução não autorizada de obras musicais e audiovisuais em locais de frequência coletiva tenha propósito lucrativo. Por isso, nem mesmo as instituições hospitalares de natureza filantrópica se eximem da obrigação de remunerar os titulares dos direitos autorais em casos tais.
+3. Recurso especial provido.
+(REsp 1380341/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, Rel. p/ Acórdão Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 08/09/2015, DJe 01/10/2015)
+DIREITOS AUTORAIS. EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. ECAD. TV E RÁDIO DISPONIBILIZADOS EM QUARTOS DE HOTEL. ARRECADAÇÃO. PRECEDENTES.
+1. Nos termos da jurisprudência firmada no âmbito da Segunda Seção do STJ, a disponibilidade de rádios e televisão em quartos de hotel é fato gerador de arrecadação de direitos autorais. Precedentes.
+2. Embargos de divergência providos para dar parcial provimento ao recurso especial.
+(EREsp 1025554/ES, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 08/10/2014, DJe 22/10/2014)
+Bem de ver ser inafastável, no ponto, a incidência do enunciado 83 da Súmula desta Corte, aplicável, também, aos recursos especiais interpostos pela alínea a do permissivo constitucional, segundo iterativa jurisprudência deste Tribunal (AgRgAg n. 653.123/RS, relatora Ministra Nancy Andrighi, DJ de 18/4/2005).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial interposto por City Penha Hotel Ltda.
+Publique-se.
