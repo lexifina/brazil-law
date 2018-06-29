@@ -1,0 +1,39 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE ANTECIPAÇÃO DE TUTELA JULGADA PROCEDENTE COM A DETERMINAÇÃO DE MANUTENÇÃO DO RECORRIDO NO PLANO DE SAÚDE COLETIVO. IRRESIGNAÇÃO DA RÉ. TESE RECURSAL DE QUE A CONTRIBUIÇÃO INDIRETA OU A COPARTICIPAÇÃO NÃO ATENDE AO REQUISITO DE CONTRIBUIÇÃO PARA EFEITO DOS ARTS. 30 E 31 DA LEI 9.656/1998. PROCEDÊNCIA. RECURSO ESPECIAL PROVIDO. ALEGAÇÃO DE PREENCHIMENTO DOS REQUISITOS PARA PERMANÊNCIA NO PLANO. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO DESPROVIDO.
+1. A jurisprudência atual desta Corte é de que a contribuição prevista nos arts. 30 e 31 da Lei 9.656/1998 deve ser direta. Não servindo para tal efeito a coparticipação ou a teoria da contribuição indireta. Os precedentes colacionados pelo agravante estão superados.
+2. Razões recursais insuficientes para a revisão do julgado.
+3. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Cuida-se de agravo interno interposto por [NOME] contra decisão desta relatoria assim ementada (e-STJ, fl. 289):
+RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE ANTECIPAÇÃO DE TUTELA JULGADA PROCEDENTE COM A DETERMINAÇÃO DE MANUTENÇÃO DO RECORRIDO NO PLANO DE SAÚDE COLETIVO. IRRESIGNAÇÃO DA RÉ. TESE RECURSAL DE QUE A CONTRIBUIÇÃO INDIRETA OU A COPARTICIPAÇÃO NÃO ATENDE AO REQUISITO DE CONTRIBUIÇÃO PARA EFEITO DOS ARTS. 30 E 31 DA LEI 9.656/1998. PROCEDÊNCIA. RECURSO ESPECIAL PROVIDO.
+Nas razões do recurso, o agravante alega que é entendimento do STJ que, se o empregado contribuiu para manutenção do plano de saúde, mesmo que indiretamente, deve ser mantido neste. Pontua, ainda, "que a cota do empregado, que sempre foi paga pelo empregador, pode ser considerada parcela salarial indireta, paga em nome e em favor do empregado, como cautelosa política de pessoal praticada pela sociedade empresária empregadora para evitar atrasos ou inadimplemento das parcelas das contribuições devidas ao plano pelos empregados" (e-STJ, fl. 300).
+Pleiteia a reconsideração da decisão monocrática ou sua reforma pela Turma julgadora.
+Impugnação às fls. 306-322 (e-STJ).
+É o relatório.
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+Em que pese aos argumentos expendidos pela parte insurgente, esta Corte Superior de Justiça já chegou ao entendimento de que a contribuição prevista nos arts. 30 e 31 da Lei 9.656/1998 deve ser direta. Não servindo para tal efeito a coparticipação ou a teoria da contribuição indireta.
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. MANUTENÇÃO. EX-EMPREGADO. IMPOSSIBILIDADE. AUSÊNCIA DE CONTRIBUIÇÃO. SALÁRIO INDIRETO. NÃO CONFIGURAÇÃO. DECISÃO MANTIDA. 1. O STJ firmou o entendimento de que o direito à manutenção no plano de saúde empresarial do ex-empregado demitido ou aposentado está condicionado à existência de contribuição do beneficiário para o prêmio mensal, não se aplicando aos casos em que o custeio tenha sido integralmente pago pelo empregador. Precedentes. 2. "O plano de saúde custeado pelo empregador não ostenta natureza salarial, ainda que indireta" (AgInt no REsp 1.633.888/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/10/2017, DJe 19/10/2017). 3. Agravo interno a que se nega provimento.
+(AgInt no RESp n. 1.687.878/SP. Relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 21/2/2018).
+AGRAVO INTERNO. RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO EMPRESARIAL. EX-EMPREGADO APOSENTADO. ASSISTÊNCIA MÉDICA. MANUTENÇÃO. ART. 31 DA LEI Nº 9.656/1998. REQUISITOS NÃO PREENCHIDOS. CONTRIBUIÇÃO EXCLUSIVA DO EMPREGADOR. 1. Não há direito de permanência do ex-empregado aposentado ou demitido sem justa causa como beneficiário nos planos de saúde coletivos custeados exclusivamente pelo empregador, salvo disposição contrária expressa, prevista em contrato ou em convenção coletiva de trabalho, sendo irrelevante a existência de coparticipação, a qual não se confunde com contribuição. Precedentes. 2. Agravo interno a que se nega provimento.
+(Pet no AREsp n. 994.902/RJ. Relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe 20/3/2018).
+DIREITO CIVIL E DO CONSUMIDOR. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE COLETIVO EMPRESARIAL. EMPREGADO APOSENTADO. DEMITIDO SEM JUSTA CAUSA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. PARTICIPAÇÃO FINANCEIRA DO CONSUMIDOR. CONTRIBUIÇÃO. NECESSIDADE. SALÁRIO IN NATURA. IMPOSSIBILIDADE. 1. Ação de obrigação de fazer ajuizada em 15.12.2014. Recurso especial concluso ao gabinete em 14.09.2016. Julgamento: CPC/73.
+2. A centralidade do recurso especial é apreciar o direito da recorrida em permanecer, após o término do seu vínculo de emprego, no plano de saúde coletivo empresarial disponibilizado aos funcionários do Banco Bradesco S/A, por tempo indeterminado e nas mesmas condições do plano que vigorava quando estava na ativa, mediante o pagamento integral da mensalidade.
+3. A Lei 9.656/98, regulamentada pela RN 279/2011, impôs a participação financeira do consumidor para o custeio da contraprestação do plano de saúde coletivo empresarial, para assegurar o direito de manutenção como beneficiários de plano coletivo empresarial para ex-empregados, demitidos sem justa causa ou aposentados, nas mesmas condições de cobertura assistencial quando da vigência do contrato de trabalho.
+4. Os benefícios do §2º do art. 458 da CLT, entre os quais estão o oferecimento de planos de assistência médica e odontológica, não devem ser tratados como salário in natura, mas sim como um incentivo aos empregadores para colaborar com o Estado na garantia mínima dos direitos sociais dos trabalhadores.
+5. Na hipótese, a ausência de contribuição direta por parte da ex-empregada, não atende aos requisitos legais para sua manutenção como beneficiária do plano de saúde coletivo disponibilizado aos funcionários do Banco Bradesco S/A. Precedentes.
+6. Recurso especial conhecido e provido.
+(REsp 1627049/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. ARTIGO 31 DA LEI 9.656/1998. COPARTICIPAÇÃO. SALÁRIO INDIRETO. NÃO CONFIGURAÇÃO. MANUTENÇÃO. EX-EMPREGADO. IMPOSSIBILIDADE. PRECEDENTES. SÚMULA 83/STJ. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. Nos termos da jurisprudência consolidada pelo STJ, o direito à manutenção nos planos de saúde coletivos empresariais dos ex-empregados demitidos sem justa causa ou aposentados restringe-se aos casos em que os beneficiários contribuíam para o pagamento do prêmio ou da contribuição mensal, não se aplicando quando houve o custeio integral das mensalidades pela empresa. Precedentes. 2. O plano de saúde custeado pelo empregador não ostenta natureza salarial, ainda que de forma indireta. Incidência da Súmula 83/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1648374/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 29/08/2017, DJe 22/09/2017).
+No presente agravo, defende o insurgente que tem direito à permanência no plano. Para tanto, traz precedentes jurisprudenciais que já foram superados por esta Corte Superior. O entendimento atual sobre a matéria é o que está refletido nos precedentes colacionados na decisão monocrática.
+Dessa forma, prevalecem os fundamentos da decisão agravada por insuficiência das razões recursais.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
