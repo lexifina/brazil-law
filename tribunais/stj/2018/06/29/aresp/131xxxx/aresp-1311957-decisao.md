@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"EMENTA: APELAÇÃO CÍVEL - AÇÃO MONITÓRIA - CHEQUES NOMINAIS A TERCEIROS - AUSÊNCIA DE ENDOSSO - AÇÃO AJUIZADA PELO PORTADOR DO TÍTULO - PESSOA DIVERSA DA BENEFICIÁRIA DA CÁRTULA - ILEGITIMIDADE ATIVA.
+Sendo o Autor mero detentor de cheques nominais a terceiros, sem endosso, não possui legitimidade ad causam para efetuar a cobrança dos títulos, por forçada regra contida no artigo 17 da Lei n. 7.357/85." (e-STJ, fl. 115)
+Opostos embargos de declaração pelo agravado, foram acolhidos com efeitos infringentes.
+Opostos embargos de declaração pelo agravante, foram rejeitados.
+Nas razões do recurso especial, a parte agravante alega violação dos arts. 17 e 19 da Lei 7.357/85, 17 e 18 do CPC/15 e divergência jurisprudencial, sustentando, em síntese, que o agravado não detém legitimidade para pleitear danos morais ou valores advindos de cheque nominal do qual não consta seu nome como endossatário, não estando comprovada a natureza de conta conjunta ou a condição de filho da endossatária nominada no título.
+É o relatório. Decido.
+O Tribunal de origem concluiu que "os cheques de fls.08/09 foram nominados à Sra [NOME], tendo sido depositados na [CONTA] da [CONTA] do Banco Mercantil do Brasil, em que são titulares aquela e o Autor da demanda, Sr. [NOME]" (f. 41).
+Assim, quanto à existência de conta conjunta entre o agravado e a endossatária nominada no título, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+Em virtude do depósito do cheque em conta conjunta da qual o agravado figura como cotitular, é de se reconhecer sua legitimidade ativa para a presente ação monitória, tendo em vista que a jurisprudência do STJ reconhece a solidariedade ativa dos titulares de conta conjunta no que concerne aos valores depositados na conta. A propósito:
+"RECURSO ESPECIAL. DIREITO CIVIL. CONTA CONJUNTA. CHEQUES FRAUDULENTOS. DESCONTO IRREGULAR. INSCRIÇÃO DO NOME DO CORRENTISTA NOS CADASTROS DE PROTEÇÃO AO CRÉDITO. EXECUÇÃO. PENHORA DE BENS. ESTORNO DOS VALORES PELA INSTITUIÇÃO FINANCEIRA. QUITAÇÃO DADA POR UM DOS CORRENTISTAS. REPARAÇÃO POR DANOS MORAIS PLEITEADA PELO OUTRO. POSSIBILIDADE. DIREITOS DA PERSONALIDADE. INDISPONIBILIDADE POR ATO DE OUTREM. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ARESTOS CONFRONTADOS.
+1. A conta conjunta é modalidade de conta de depósito à vista, com a peculiaridade de ter mais de um titular. Nela, como é próprio desse tipo de conta, o dinheiro dos depositantes fica à disposição deles para ser sacado a qualquer momento. Nesse passo, os titulares da conta são credores solidários da instituição financeira em relação aos valores depositados. Trata-se, assim, de solidariedade ativa no que respeita à movimentação dos valores em conta.
+2. Retirados irregularmente valores da conta-corrente mantida pelos cônjuges, ambos são credores solidários da instituição financeira em relação à quantia subtraída, podendo qualquer deles dar quitação relativa ao ressarcimento dos valores, nos moldes do art. 900 do Código Civil de 1916.
+3. No caso em análise, o banco se cingiu a estornar as quantias dos correntistas. Nesse contexto, a quitação dada ao banco por um dos correntistas a só esse fato se refere, ao dano material, buscando o co-correntista agora apenas a reparação por danos morais, nada requerendo quanto aos valores descontados irregularmente e restituídos pelo banco.
+4. A alegação de que o documento firmado pela esposa do recorrido isenta o recorrente de responsabilidade quanto aos danos morais ocorridos, não encontra respaldo sequer na ordem cronológica dos fatos.
+5. O dano moral é resultado de lesão aos direitos da personalidade, isto é, à honra, à imagem, à integridade física, ao nome, à liberdade de pensamento, entre outros. Trata-se de direitos indisponíveis, isto é, intransmissíveis e inalienáveis.
+6. É certo que essa intransmissibilidade é relativa, pois o impedimento é de que o titular abra mão de seu direito em caráter permanente ou total. Porém, pode ceder seu exercício (não sua titularidade) em caráter parcial e transitório. Entretanto, ainda nessa situação, é o próprio titular que, por ato próprio, pode fazer a cessão.
+7. Assim, não poderia a esposa do recorrido, por ato próprio, renunciar ao direito de o marido exigir reparação pelos danos à honra por ele experimentados.
+8. Não há similitude fática entre os arestos confrontados a amparar a interposição do recurso pela alínea "c" do permissivo constitucional.
+9. Recurso especial conhecido em parte e não provido."
+(REsp 669.914/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/03/2014, DJe 04/04/2014)
+Dessarte, com fundamento nas Súmulas 83 e 568/STJ, não merece reforma o acórdão recorrido, em virtude de sua sintonia com o entendimento do STJ.
+Quanto ao dissídio jurisprudencial, registra-se que, no ponto em questão, não é possível conhecer do recurso especial quanto aos precedentes oriundos do TJ/MG, em face do disposto na Súmula 13 do STJ: "A divergência entre julgados do mesmo Tribunal não enseja recurso especial".
+Ademais, no que concerne à decisão do STJ, é cediço que decisões monocráticas não servem como paradigmas para o fim de demonstração de dissídio jurisprudencial. A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ACIDENTE. FALHA NA PRESTAÇÃO DE SERVIÇO DE TRANSPORTE. CASO FORTUITO OU FORÇA MAIOR. NECESSIDADE DE PRODUÇÃO DE PROVAS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL COM DECISÃO MONOCRÁTICA.
+IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+1. O acolhimento da tese (existência de caso fortuito ou força maior) exigiria rever as conclusões alcançadas pelo Tribunal de origem, o que é inviável em recurso especial, por implicar reexame das provas contidas nos autos. Incidência da Súmula n. 7 do STJ.
+2. Segundo entendimento do STJ, "decisões monocráticas não servem como paradigmas para o fim de demonstração de dissídio jurisprudencial, conforme o disposto no art. 266 do Regimento Interno deste Superior Tribunal" (AgInt no REsp n. 1.650.529/RS, Relator Ministro Francisco Falcão, Segunda Turma, julgado em 21/11/2017, DJe 27/11/2017).
+3. Agravo interno desprovido."
+(AgInt no AREsp 1211358/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/04/2018, DJe 20/04/2018)
+"ADMINISTRATIVO. APOSENTADORIA. EQUIPARAÇÃO. ALEGAÇÃO DE DIREITO À EQUIPARAÇÃO DE ACORDO COM A TABELA DE SALÁRIOS DA TRENSURB. TABELA DA RFFSA. PRETENSÃO DE REANÁLISE FÁTICO-PROBATÓRIA. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ. ALEGAÇÃO DE DIVERGÊNCIA JURISPRUDENCIAL. IMPOSSIBILIDADE DE DIVERGÊNCIA ENTRE DECISÕES MONOCRÁTICAS.
+I - No Tribunal de origem, ao analisar a matéria, com base no conjunto fático-probatório, concluiu-se que a parte recorrente firmou termo de opção em que expressamente declara estar de acordo com o recebimento da complementação de aposentadoria, tendo como referência a tabela salarial da RFFSA.
+II - Assim, e segundo entendimento desta Corte, para rever a decisão do Tribunal de origem, seria necessário o revolvimento de matéria fático-probatória, o que é inviável em recurso especial, conforme previsão do enunciado n. 7 da Súmula do STJ.
+III - Decisões monocráticas não servem como paradigmas para o fim de demonstração de dissídio jurisprudencial, a teor do disposto no art.
+266 do Regimento Interno deste Superior Tribunal.
+IV - Agravo interno improvido."
+(AgInt no REsp 1650529/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 21/11/2017, DJe 27/11/2017)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Majoro os honorários advocatícios, com fundamento no art. 85, §11, do CPC/15, de 15% (quinze por cento) para 16% (dezesseis por cento) sobre o valor da condenação.
+Publique-se.
