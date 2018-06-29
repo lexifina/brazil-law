@@ -1,0 +1,38 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por [NOME], com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ, fls. 377-378):
+ADMINISTRATIVO. INFRAÇÃO AMBIENTAL. IBAMA. MULTA. ÁREA DE PRESERVAÇÃO PERMANENTE (APP). DESAPROPRIAÇÃO INDIRETA. DESCARACTERIZAÇÃO. INDENIZAÇÃO. DESCABIMENTO. PRESCRIÇÃO.
+1. Ao explorar a propriedade com a agricultura ou criação de animais, mesmo objetivando auferir o seu sustento e de sua família, também é obrigação da parte autora a defesa ecológica, mormente porque a própria atividade econômica tem como pressuposto essa proteção (art. 170, CF). O direito de propriedade não é uma cláusula aberta para a prática de atividades que não se coadunam com o interesse coletivo ao meio ambiente sadio e sustentável.
+2. Hipótese em que não há que se falar em desapropriação indireta, por não ter havido, no caso em debate, a ocorrência simultânea de "(a) o apossamento do bem pelo Estado, sem prévia observância do devido processo de desapropriação; (b) a afetação do bem, isto é, sua destinação à utilização pública; e (c) a impossibilidade material da outorga da tutela específica ao proprietário, isto é, a irreversibilidade da situação fática resultante do indevido apossamento e da afetação" (STJ, REsp n. 442. 7741SF, Rel. Min. Teori Albino Zavascki, DJ de 20/06/2005).
+3. O termo inicial da prescrição, ainda que se entendesse possível a indenização, seria a entrada em vigor do Código Florestal, o que restaria inviabilizado pelo implemento do prazo prescricional, vintenário em relação à desapropriação indireta, ou quinquenal em vista da limitação administrativa.
+4. A multa foi aplicada em face de ilícito ambiental praticado pelo proprietário particular ao desmatar áreas de preservação permanente sem autorização. Considerações históricas não afastam a presunção de legitimidade que acompanha as, atividades dos gestores ambientais e a questão crucial da preservação dos mananciais hídricos está a merecer atenção pronta e diligente dos órgãos públicos, em especial do IBAMA. Por outro lado, ditos fatos não consagram direito adquirido à degradação do meio ambiente e não autorizam o desrespeito ao vetusto Código Florestal, fragilizando a atuação da tutela protetora.
+Os embargos infringentes foram improvidos (e-STJ, fl. 451):
+EMBARGOS INFRINGENTES. ADMINISTRATIVO. INFRAÇÃO AMBIENTAL. IBAMA. MULTA. ÁREA DE PRESERVAÇÃO PERMANENTE (APP).
+1. A responsabilidade civil ambiental é objetiva, solidária e propter rem, respondendo pelos danos ao meio ambiente perpetrados o proprietário do imóvel.
+2. Aqueles que cultivaram em área de preservação permanente, após a entrada em vigor da norma restritiva, praticaram conduta ilícita, exploraram economicamente quando deveriam recuperar a vegetação.
+3. Embargos infringentes improvidos.
+Alega a parte recorrente contrariedade aos arts. 18 da Lei 4.771/1965 e 1º do Decreto 20.910/1932.
+Defende, em síntese: i) inexistência de prazo para reclamar indenização diante da restrição ao uso da área desmatada em área de preservação permanente, imposta pelo Código Florestal de 1965; ii) prescrição quinquenal da pretensão indenizatória, com termo inicial a partir da lavratura de multa e termo de embargo da área lavrados pelo Ibama, em 2008, momento em que teria surgido a lesão; iii) ocorrência de hipótese de desapropriação indireta, com prazo prescricional de 20 anos; iv) existência de interpretação divergente desta Corte relativamente ao art. 18 do Código Florestal, conforme a qual não representaria obrigação do proprietário o reflorestamento das terras adquiridas já com a supressão vegetal.
+Apresentadas contrarrazões (e-STJ, fls. 513-527), o recurso especial foi admitido na origem (e-STJ, fls. 537-538).
+Parecer pelo não conhecimento (e-STJ, fls. 555/560).
+Processo com prioridade legal (art.12, § 2º, VII, do CPC/2015).
+É o relatório.
+O recurso não prospera.
+A incidência do art. 18 do Código Florestal de 1965 foi afastada pelo acórdão recorrido com fundamentação constitucional evidente (e-STJ, fl. 372, grifos acrescidos):
+Além do mais, a previsão de indenização do artigo 18, §1º do Código Florestal, é inócua, pois, conforme alhures ressaltado, a utilização de áreas de preservação permanentes somente é possível em caso de utilidade pública ou de interesse social por meio de autorização. O dispositivo é claramente contrário aos ditames da Carta Magna, motivo pelo qual deve ser reconhecida a sua não recepção pela atual ordem jurídica.
+Sendo esse dispositivo a premissa para a pretensão recursal tanto de inexistência de prazo para reclamar a indenização quanto de fixação do termo inicial da prescrição, e inexistindo agravo contra a inadmissão do recurso extraordinário na origem, impõe-se a incidência da Súmula 126/STJ: "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário."
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO INEXISTENTE. REJEIÇÃO.
+1. Se o acórdão de segundo grau sustentou-se, para dar provimento ao recurso de apelação, em fundamento constitucional, isto é, de que o DL 858/69, em seus termos, não foi recepcionado pela Carta Magna de 1988, em face do art. 151, III, por expressamente declarar que é defeso à União instituir isenções de tributos da competência dos Estados, do Distrito Federal e dos Municípios, deve a parte vencida interpor recurso extraordinário para que possa, a nível infraconstitucional, ver sua tese apreciada.
+2. Não oferecido o recurso extraordinário, a tempo e a modo, incide a Súmula nº 126, do STJ.
+3. Inexistência de omissão no acórdão. Embargos rejeitados.
+(EDcl no REsp 196.544/RJ, Rel. Ministro JOSÉ DELGADO, PRIMEIRA TURMA, julgado em 16/3/2000, DJ 8/5/2000, p. 61)
+PROCESSUAL CIVIL. ACÓRDÃO FIRMADO SOB FUNDAMENTO CONSTITUCIONAL. ANÁLISE VEDADA NESTA VIA RECURSAL.
+1. Hipótese em que o Tribunal a quo, ao decidir a causa, adotou fundamento de natureza exclusivamente constitucional, ao consignar que o Plenário do STF, por unanimidade, reconheceu que o art. 10 do Estatuto dos Militares (Lei 6.680/1980) não foi recepcionado pela CF de 1988.
+2. Verifica-se que o acórdão recorrido analisou a matéria sob fundamento eminentemente constitucional, o que torna inviável sua alteração em Recurso Especial.
+3. Recurso Especial não conhecido.
+(REsp 1.311.956/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 20/9/2012, DJe 31/10/2012)
+Desse modo, fica também inviabilizada a apuração da divergência apontada, na medida em que o acórdão recorrido não interpretou efetivamente o art. 18, mas afastou sua vigência com base em preceito constitucional. Diante da inexistência de similitude entre os julgados, a hipótese configura a deficiência recursal prevista na Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+De outro lado, o acolhimento da argumentação de ocorrência de desapropriação indireta e não limitação administrativa, para reconhecer-se o prazo prescricional de 20 anos em vez do quinquenal, demandaria revolvimento direto de provas, a fim de apurar-se os requisitos de uma ou outra dessas modalidades de intervenção estatal da propriedade. Nesse ponto, a pretensão recursal esbarra no óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+ Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
