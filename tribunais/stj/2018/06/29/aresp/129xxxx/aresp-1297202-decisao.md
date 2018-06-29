@@ -1,0 +1,50 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "c", do permissivo constitucional, contra acórdão do Tribunal de Justiça do Rio Grande do Sul que deu parcial provimento ao apelo defensivo apenas para reconhecer a atenuante da confissão espontânea parcial, redimensionando a pena do recorrente para 07 (sete) anos e 02 (dois) meses de reclusão, em regime inicial fechado, pelo cometimento do crime do art. 157, § 2º, I, (três vezes) c/c 14, II, ambos do Código Penal.
+Sustenta a defesa a divergência jurisprudencial em relação à desclassificação da conduta delitiva alegando que "o que se busca não é a absolvição do acusado, mas sim que ele seja justamente condenado pelo crime que de fato cometeu, roubo qualificado, deixando de responder por algo mais grave que é a tentativa de retirar a vida de alguém, tentativa de latrocínio, fato que jamais foi sua intenção." (e-STJ fl. 905). Aponta, também, dissídio jurisprudencial em relação à possibilidade de compensação integral da agravante da reincidência com a atenuante da confissão espontânea.
+Contrarrazões às e-STJ fls. 917/922.
+Manifestação do Ministério Público Federal pelo não conhecimento do recurso com a concessão de habeas corpus de ofício para compensar integralmente a agravante da reincidência com a atenuante da confissão espontânea às e-STJ fl. 1.062/1.072.
+É o relatório. Decido.
+A irresignação não prospera.
+Os elementos existentes nos autos noticiam que o Tribunal de Justiça do Rio Grande do Sul deu parcial provimento ao apelo defensivo apenas para reconhecer a atenuante da confissão espontânea parcial, redimensionando a pena do recorrente para 07 (sete) anos e 02 (dois) meses de reclusão, em regime inicial fechado, pelo cometimento do crime do art. 157, § 2º, I, (três vezes) c/c 14, II, ambos do Código Penal.
+Anota-se, inicialmente, que a questão referente à desclassificação da conduta delitiva não pode ser analisada na via do recurso especial por não prescindir do revolvimento do acervo fático-probatório dos autos. Incidência do Enunciado n. 7 da Súmula do STJ. Confira-se:
+AGRAVO REGIMENTAL. HABEAS CORPUS. DESCLASSIFICAÇÃO DO CRIME DE LATROCÍNIO. PRETENSÃO DE SIMPLES REFORMA. DECISÃO DE NÃO CONHECIMENTO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência desta Corte Superior firmou o entendimento no sentido de que é plenamente possível a ocorrência de latrocínio em sua forma tentada, quando não se obtenha o resultado morte, bastando a comprovação de que, no decorrer da prática delitiva, o agente tenha atentado contra a vida da vítima, com a intenção de matá-la, não atingindo o resultado, por circunstâncias alheias à sua vontade.
+2. A tese de desclassificação do crime de latrocínio tentado para roubo, esbarra na necessidade de revolvimento fático-probatório, o que se afigura inviável na estreita via do mandamus.
+3. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma.
+4. Agravo regimental não provido. (AgRg no HC 429.657/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma 16/04/2018)
+PENAL. LATROCÍNIO TENTADO. DESCLASSIFICAÇÃO PARA ROUBO CIRCUNSTANCIADO. RECONHECIMENTO DA PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. AUMENTO DA FRAÇÃO DA TENTATIVA. MATÉRIAS QUE DEMANDAM O REVOLVIMENTO FÁTICO-PROBATÓRIO. VEDADO EM RECURSO ESPECIAL. SÚMULA 7/STJ. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A decisão agravada deve ser mantida por seus próprios fundamentos, porquanto em sintonia com a jurisprudência pacífica do STJ.
+2. Incabível o exame dos pleitos de desclassificação do delito de latrocínio tentado para roubo circunstanciado, reconhecimento de participação de menor importância e aumento da fração referente à tentativa, pois, para se afastar a conclusão das instâncias ordinárias, seria necessário o revolvimento do conjunto probatório, o que não é vedado em sede de recurso especial pela Súmula 7/STJ. Precedentes.
+3. Agravo regimental improvido. (AgRg no REsp 1550472/AL, Rel. Ministro NEFI CORDEIRO, Sexta Turma, DJe 23/10/2017)
+Quanto à alegada divergência jurisprudencial em relação à possibilidade de compensação integral entre a agravante da reincidência e a atenuante da confissão espontânea, a defesa olvidou-se de indicar o artigo da legislação infraconstitucional a que se teria conferido interpretação divergente.
+Anota-se que mesmo para os recursos interpostos pela alínea "c" do permissivo constitucional, é necessário que se aponte o artigo da legislação federal a que se deu interpretação divergente.
+Registre-se que, para demonstração da existência de similitude das questões de direito examinadas nos acórdãos confrontados, " é  imprescindível a indicação expressa do dispositivo de lei tido por violado para o conhecimento do recurso especial, quer tenha sido interposto pela alínea a quer pela c" (ut, AgRg nos EREsp 382.756/SC, Rel. Min. LAURITA VAZ, Corte Especial, DJe 17/12/09).
+Contudo, o caso vertente traduz hipótese de concessão de habeas corpus de ofício.
+A operação dosimétrica foi assim efetuada pelo Tribunal de origem:
+Pena-base:
+A magistrada assim fundamentou a aplicação da pena-base:
+1) CIRCUNSTÂNCIAS JUDICIAIS: o réu registra antecedentes, como antes fundamentado, sendo que quatro condenações serão reservadas à segunda etapa do processo dosimétrico, para sopesar como agravante, e as outras cinco aqui consideradas para recrudescer a pena-base; as circunstâncias são desfavoráveis ao réu, tendo em vista que subjugou quatro pessoas à ação armada; quanto às demais circunstâncias judiciais do art. 59 do CP, não há qualquer outro elemento concreto ou relevante a ser destacado, pelo que não desfavorecem o réu.
+Por isso, fixo a pena-base em vinte e um anos de reclusão.
+Efetivamente o acusado registra antecedentes (fls. 398/403). Havendo nove condenações transitadas em julgado, utilizam-se oito (processos n.ºs 001/2050696470-2, 001/2050709624-0, 001/2050717207-9, 001/2050759951-0, 001/2060005650-4, 001/2060070274-0, 001/2070007816-0, 001/2080004742-8) para esta valoração desfavorável.
+Quanto às circunstâncias da infração, são desfavoráveis, pois o agente forçou um acidente de trânsito para obrigar a motorista a parar o carro e efetuou o disparo de arma de fogo no interior de um veículo com quatro pessoas em seu interior.
+Conforme posicionamento já manifestado em casos análogos, a pena-base deve se afastar do patamar mínimo, na proporção em que as circunstâncias judiciais do artigo 59 do Código Penal forem desfavoráveis, tendo como teto o termo médio.
+Sendo, no caso de latrocínio, a pena mínima de 20 anos e havendo duas circunstâncias desfavoráveis, mantenho a pena-base em 21 (vinte e um) anos de reclusão.
+Pena provisória:
+O réu é reincidente, diante da condenação transitada em julgado no processo nº 001/2110129772-5. Desta forma, mantenho o aumento da pena em 01 ano, pois adequado ao caso, já que restou demonstrada a resistência do réu à reinserção social.
+Reconheço a confissão espontânea parcial, tendo em vista que o agente admitiu a tentativa de subtração do veículo da vítima, mas negou o animus necandi ao efetuar o tiro. Assim, reduzo a pena em 06 meses, perfazendo, provisoriamente, 21 (vinte e um) anos e 06 (seis) meses de reclusão.
+Pena definitiva:
+Reconhecida a tentativa e aplicada a fração de redução máxima prevista na lei (2/3), nada a considerar, por ser recurso exclusivo da defesa.
+Desta forma, fica a pena definitivizada em 07 (sete) anos e 02 (dois) meses de reclusão. (e-STJ fls. 889/890)
+Observa-se que o Tribunal de origem deixou de operar a compensação integral da agravante da reincidência com a atenuante da confissão com fundamento na multirreincidência específica, utilizando, entretanto, nessa fase, apenas uma condenação, o que contraria a jurisprudência desta Corte Superior. Confira-se:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. CONFISSÃO ESPONTÂNEA E MULTIRREINCIDÊNCIA ESPECÍFICA. APENAS UMA CONDENAÇÃO ANTERIOR DEFINITIVA UTILIZADA NA SEGUNDA FASE. COMPENSAÇÃO INTEGRAL. POSSIBILIDADE. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A decisão agravada deve ser mantida por seus próprios fundamentos, porquanto em sintonia com a jurisprudência pacífica do STJ.
+2. A Terceira Seção do STJ, em 23/05/2012, por ocasião do julgamento do EREsp n. 1.154.752/RS, de relatoria do Ministro Sebastião Reis Júnior, pacificou o entendimento segundo o qual a atenuante da confissão espontânea, na medida em que compreende a personalidade do agente, é circunstância preponderante, devendo ser compensada com a agravante da reincidência, igualmente preponderante.
+3. O mesmo órgão julgador, na análise do HC n. 365.963/SP, de relatoria do Ministro Felix Fischer, em 11/10/2017, firmou entendimento no sentido de ser devida a compensação integral entre as citadas atenuante e agravante ainda que a reincidência seja pela prática do mesmo delito, ou seja, específica.
+4. Registrando o réu mais de uma condenação anterior definitiva, sendo apenas uma valorada na segunda fase da dosimetria da pena para fins de reincidência, não há óbice à integral compensação.
+5. Agravo regimental improvido. (AgRg no HC 436.924/SC, Rel. Ministro NEFI CORDEIRO, Sexta Turma, DJe 23/05/2018 - grifo nosso)
+Nesse panorama, necessário pequena alteração na dosimetria da pena.
+Na primeira fase, a pena do paciente ficou estabelecida em 21 anos de reclusão.
+Na segunda fase, conforme acima explicitado, fica compensada a agravante da reincidência com a atenuante da confissão espontânea.
+Na última fase, mantém-se a fração de redução em 2/3 (dois terços) pelo reconhecimento da tentativa, ficando a pena definitivamente estabelecida em 7 (sete) anos de reclusão.
+Ante o exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial. Concedo a ordem de habeas corpus, de ofício, para redimensionar a pena do recorrente para 7 (sete) anos de reclusão.
+Publique-se. Intimem-se.
