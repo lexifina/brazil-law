@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto pela PETRÓLEO BRASILEIRO S.A. PETROBRAS contra acórdão da Oitava Câmara Cível do TJRJ.
+Na origem, a parte recorrida, dependente de empregado da empresa, propôs demanda declaratória e de obrigação de fazer, visando obrigar a empresa a custear tratamento de saúde, requerendo tutela antecipada.
+Em primeira instância, a tutela foi deferida.
+A PETROBRAS interpôs agravo de instrumento, tendo o Tribunal de origem negado provimento ao recurso, em acórdão assim ementado (e-STJ fl. 36):
+OBRIGAÇÃO DE FAZER - NEGATIVA DE REALIZAÇÃO DE EXAME MÉDICO - INVERSÃO DO ÔNUS DA PROVA - EXCEÇÃO CONFIGURADA DIANTE DAS CIRCUNSTÂNCIAS CONCRETAS QUE INDICAM A DIFICULDADE DA AGRAVADA PARA COMPROVAR OS FATOS ALEGADOS DESPROVIMENTO DO RECURSO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 78/80).
+No recurso especial (e-STJ fls. 85/106), fundado no art. 105, III, "a" e "c", da CF, a recorrente aponta, além de divergência jurisprudencial, violação dos arts. 1º da Lei n. 8.984/1995 e 625 da CLT, aduzindo que a lide é de competência da Justiça do Trabalho.
+Afirma ainda que seria inaplicável o CDC à relação jurídica existente entre as partes, pois o convênio de saúde é administrado na forma de autogestão, havendo, nesses termos, infração ao art. 3 do Código Consumerista.
+Suscita ofensa ao art. 1.022 do CPC/2015, pois o TJRJ teria se omitido de analisar as alegadas violações de dispositivos legais.
+É o relatório.
+Decido.
+A controvérsia diz respeito às condições de cobertura de plano de saúde prestado pelo próprio empregador, por meio de convênio no formato de autogestão denominado PLANO DE ASSISTÊNCIA MULTIDISCIPLINAR - AMS da PATROBRAS.
+Em princípio, a jurisprudência de ambas as Turmas que compõem a Segunda Seção do STJ, analisando controvérsia semelhante a dos autos, firmou-se no sentido de ser competência da Justiça do Trabalho processar e julgar demanda que tem como causa de pedir contrato de prestação de serviço de assistência à saúde prestado pelo próprio empregador, por força de norma de natureza trabalhista, sobretudo quando o plano de assistência à saúde é previsto em convenção coletiva de trabalho: Plano de Assistência Multidisciplinar à Saúde - AMS da PETROBRAS (AgInt no REsp 1.612.642/RJ, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 10/4/2018, DJe 19/4/2018). Dessa forma:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL.
+DEMANDA PROPOSTA POR DEPENDENTE. ASSISTÊNCIA À SAÚDE OFERECIDA A EMPREGADOS, EX-EMPREGADOS E PENSIONISTAS, DE ACORDO COM DISPOSIÇÕES DE NORMA INTERNA DA EMPRESA E CONVENÇÃO COLETIVA DE TRABALHO. FALHAS NO REPASSE DE VALORES DEVIDOS. COMPETÊNCIA DO JUÍZO TRABALHISTA.
+- Consoante precedentes desta Corte, o Programa de Assistência Multidisciplinar à Saúde (AMS) da PETROBRAS decorre das disposições estabelecidas em Convenção Coletiva de Trabalho.
+- Competência do juízo trabalhista para a apreciação de todas as controvérsias originadas do referido programa, independentemente de sua natureza.
+- Embargos de divergência conhecidos e não providos.
+(EREsp 1322198/RJ, Relatora Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 28/9/2016, DJe 30/9/2016.)
+Portanto, deve-se reconhecer a competência absoluta da Justiça do Trabalho para análise da demanda e, por outro lado, a incompetência da Justiça Comum para tanto.
+Acrescente-se que é possível a esta Corte decidir nesse sentido de ofício e independentemente de prequestionamento, em se tratando de competência fixada constitucionalmente. A propósito:
+DIREITO CONSTITUCIONAL. RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA PROPOSTA POR EX-EMPREGADO EM FACE DO EX-EMPREGADOR. RESSARCIMENTO DO VALOR GASTO A TÍTULO DE HONORÁRIOS CONTRATUAIS COM A PROPOSITURA DE RECLAMATÓRIA TRABALHISTA JULGADA PROCEDENTE. "AÇÕES DE INDENIZAÇÕES POR DANO MORAL OU PATRIMONIAL, DECORRENTES DA RELAÇÃO DE TRABALHO" (ART. 114, INCISO VI, CF/88). COMPETÊNCIA ABSOLUTA DA JUSTIÇA DO TRABALHO.
+1. No caso, cuida-se de ação indenizatória das perdas e danos que a autora alega ter experimentado com a contratação de advogado particular, tudo em razão de descumprimento de normas trabalhistas pelo ex-empregador, pelo que a autora foi obrigada a ajuizar ação reclamatória trabalhista, na qual veio a se sagrar vitoriosa.
+2. A ação de indenização ajuizada pelo trabalhador em face do ex-empregador, com vistas ao ressarcimento dos honorários advocatícios contratuais despendidos em reclamatória trabalhista outrora manejada, deve ser apreciada pela Justiça do Trabalho, porquanto se subsume ao que dispõe o art. 114, inciso VI, CF/88: "Compete à Justiça do Trabalho processar e julgar:  ..  as ações de indenização por dano moral ou patrimonial, decorrentes da relação de trabalho".
+3. Tratando-se de competência prevista na própria Constituição Federal/88, nem mesmo o Superior Tribunal de Justiça detém jurisdição para prosseguir no julgamento do recurso especial quanto ao mérito, não lhe sendo dado incidir nas mesmas nulidades praticadas pelos demais órgãos da Justiça Comum. No caso concreto, impropriedade da discussão sobre se o STJ pode conhecer de matéria de ordem pública de ofício e independentemente de prequestionamento.
+4. Recurso especial conhecido para, aplicando o direito à espécie, reconhecer a incompetência absoluta da Justiça Comum para julgar a causa e declarar a nulidade de todos os atos decisórios praticados no processo (art. 113, § 2º, CPC), com determinação de remessa dos autos à Justiça do Trabalho.
+(REsp 1.087.153/MG, Relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 9/5/2012, DJe 22/6/2012.)
+Diante do exposto, DOU PROVIMENTO PARCIAL ao recurso, a fim de reconhecer a incompetência absoluta da Justiça Comum para julgar o feito, determinando o encaminhamento dos autos à Justiça do Trabalho. Preservados os efeitos das decisões proferidas até o pronunciamento do juízo competente, nos termos do art. 64, § 4º, do CPC/2015. Prejudicado o exame das demais alegações do recurso especial.
+Publique-se e intimem-se.
