@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544) contra decisão que negou seguimento ao recurso especial sob os seguintes fundamentos: (a) ausência de omissão, contradição ou obscuridade no acórdão recorrido e (b) incidência das Súmulas n. 7 e 211 do STJ (e-STJ fls. 271/274).
+O acórdão recorrido está assim ementado (e-STJ fl. 217):
+APELAÇÃO CÍVEL. HONORÁRIOS DE PROFISSIONAIS LIBERAIS. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS. AGRAVO RETIDO. APRECIAÇÃO. REQUERIMENTO EXPRESSO. PRELIMINAR DE CERCEAMENTO DE DEFESA. ÔNUS DA PROVA. CASO CONCRETO RECONVENÇÃO. REVOGAÇÃO DO MANDATO DO ADVOGADO NO CURSO DO CONTRATO. CONTRATO VERBAL. VALOR CORRETAMENTE ARBITRADO PELA SENTENÇA. NEGARAM PROVIMENTO AO AGRAVO RETIDO E, REJEITA A A PRELIMINAR, NEGARAM PROVIMENTO A AMBOS OS RECURSOS. UNANIME.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 234/238).
+Nas razões do recurso especial (e-STJ fls. 242/253), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alegou dissídio jurisprudencial e violação dos arts. 535 do CPC/1973, 22, § 3º, da Lei n. 8.906/1994, 35 do Código de Ética e Disciplina da OAB e 6º, III, e 422 do CC/2002. Sustentou: (a) negativa de prestação jurisdicional e (b) necessidade de devolução de parte do valor de honorários, pago antecipadamente pela totalidade dos serviços que seriam prestados, diante da desistência da ação antes de seu ajuizamento.
+Foram apresentadas contrarrazões (e-STJ fls. 264/269).
+No agravo (e-STJ fls. 278/286), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Correta a decisão de inadmissibilidade do recurso especial.
+De início, ressalte-se que a jurisprudência pacífica desta Corte entende ser incabível a interposição de recurso especial com fundamento em violação do Código de Ética da OAB, por não se enquadrar no conceito de lei federal, a teor do que dispõe o art. 105, III, da CF. Nesse sentido, o seguinte precedente:
+DIREITO CIVIL. CONTRATO DE HONORÁRIOS QUOTA LITIS. REMUNERAÇÃO AD EXITUM FIXADA EM 50% SOBRE O BENEFÍCIO ECONÔMICO. LESÃO.
+1. A abertura da instância especial alegada não enseja ofensa a Circulares, Resoluções, Portarias, Súmulas ou dispositivos inseridos em Regimentos Internos, por não se enquadrarem no conceito de lei federal previsto no art. 105, III, "a", da Constituição Federal. Assim, não se pode apreciar recurso especial fundamentado na violação do Código de Ética e Disciplina da OAB. 2. O CDC não se aplica à regulação de contratos de serviços advocatícios. Precedentes.
+(..).
+6. Recurso especial conhecido e provido, revisando-se a cláusula contratual que fixou os honorários advocatícios para o fim de reduzi-los ao patamar de 30% da condenação obtida".
+(REsp 1155200/DF, Relator Ministro MASSAMI UYEDA, Relator para o Acórdão Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/2/2011, DJe 2/3/2011.)
+O Tribunal a quo decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da recorrente, não se identificando omissão, contradição ou obscuridade no acórdão impugnado.
+Além disso, não se admite alegação genérica de afronta ao art. 535 do CPC/1973, cabendo à parte recorrente indicar os motivos específicos pelos quais haveria violação da norma, medida não adotada na espécie, o que atrai o óbice da Súmula n. 284/STF.
+No que se refere à alegada contrariedade aos arts. 22, § 3º, da Lei n. 8.906/1994 e 6º, III, e 422 do CC/2002, observa-se que os temas tratados nos dispositivos elencados não foram enfrentados pelo acórdão recorrido.
+A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pela decisão recorrida, impede o conhecimento do recurso especial, por falta de prequestionamento. A insurgência encontra óbice na Súmula n. 211/STJ:
+Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+Ademais, o Tribunal de origem, a partir do exame das provas dos autos e interpretando as cláusulas pactuadas, concluiu ser indevida a restituição pleiteada porque a importância paga pela recorrente corresponderia à retribuição acordada para o início dos trabalhos, sendo esse valor proporcional e coerente com o trabalho desenvolvido até então. É o que se extrai do seguinte trecho do acórdão recorrido (e-STJ fls. 224/225):
+Por fim, observo que o fundamento para a improcedência da reconvenção é o mesmo para o pedido de arbitramento de honorários, porque já houve um valor pago, fixado em comum acordo entre as partes, para início dos trabalhos, como há de se interpretar, especialmente em face da possível partilha de um patrimônio considerável, sendo valo proporcional e coerente com o trabalho desenvolvido até então, náo havendo coerência no pedido de restituição de honorários pagos acordados consensualmente.
+Apenas para não deixar passar a oportunidade de consignar que, conforme justamente reconhecido, inclusive da tribuna, por ocasião da sustentação oral, o nobre procurador então contratado era o "medalhão", "papa", no assunto. E esta escolha tem um custo diferenciado evidentemente.
+Para alterar a conclusão a que chegou o Tribunal de origem e reconhecer que "o recorrido cobrou antecipadamente e a recorrente lhe pagou a importância de R$ 20.000,00, pela totalidade dos serviços que seriam prestados" (e-STJ fl. 247), seria imprescindível a reavaliação das cláusulas pactuadas e o reexame do conjunto fático-probatório dos autos, o que é inviável na presente instância, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
