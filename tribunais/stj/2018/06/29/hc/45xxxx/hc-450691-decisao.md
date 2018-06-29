@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ELIAR SANTOS OLIVEIRA, apontando, como autoridade coatora, o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente foi condenado à pena de 3 anos, 10 meses e 20 dias de reclusão, em regime inicial fechado, mais 388 dias-multa, pela prática do delito descrito no art. 33, § 4º, da Lei n. 11.343/2006.
+Ato seguinte, a defesa interpôs recurso de apelação perante a Corte de origem, a qual lhe proveu parcialmente para reduzir a reprimenda a 3 anos e 4 meses de reclusão, mais 333 dias-multa.
+Insurge-se a impetrante, no presente writ, em face da imposição do regime fechado para início de cumprimento da pena, em ofensa aos enunciados de Súmula 718 e 719/STF e 440/STJ.
+É o relatório.
+DECIDO.
+O Juízo de 1ª instância assim fundamentou a fixação do regime inicial fechado (fls. 11/18):
+Iniciará o réu o cumprimento de sua pena em regime fechado. O regime fechado é o único compatível com os contornos do caso concreto de tráfico de entorpecentes de expressiva quantidade, que demanda adequada repreensão. Cumpre ressaltar que se trata de crime que fomenta diversas atividades criminosas, causando a degradação do indivíduo e a mazela de famílias inteiras, tudo para promover o sistema criado pelo traficante.
+No julgamento da apelação, o Tribunal de Justiça reduziu a pena, consignando que (fls. 25):
+Por fim, o único regime compatível com o comércio clandestino de droga é o fechado, como acertadamente fixado, porque outro mais brando não atenderia à gravidade concreta da conduta, equiparada à hedionda e impulsionadora de uma verdadeira cadeia delitiva, arruinando a sociedade de forma funesta, mercê da natureza propulsora e destruidora da substância apreendida (maconha).
+Com efeito, nota-se que as instâncias de origem fixaram o modo prisional fechado com fundamento no entorpecente apreendido, 700 porções de maconha - fl. 22, o qual ensejou, inclusive, a fixação da pena-base acima do mínimo legal (fl. 22). O volume de estupefaciente apreendido, de acordo com a jurisprudência desta Corte superior, constitui fundamento idôneo a escolha do regime inicial mais gravoso. Entretanto, no presente caso, foi fixada a reprimenda final em patamar inferior a 4 anos de reclusão, de modo que o modo prisional mais severo é o semiaberto, e não o fechado. Nesse norte:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO DE DROGAS. TRÁFICO PRIVILEGIADO - ART. 33, § 4º, DA LEI N. 11.343/06. HEDIONDEZ AFASTADA. CIRCUNSTÂNCIAS DESFAVORÁVEIS. REGIME FECHADO. PRIMARIEDADE E PENA INFERIOR A 4 ANOS. PENA-BASE FIXADA ACIMA NO MÍNIMO LEGAL. QUANTIDADE E NATUREZA DAS DROGAS APREENDIDAS. GRAVIDADE CONCRETA DO DELITO (55 PINOS DE EPPENDORF CONTENDO COCAÍNA). ART. 42 DA LEI N. 11.343/06 E ART. 33, § 3º DO CÓDIGO PENAL. FIXAÇÃO DE REGIME PRISIONAL INTERMEDIÁRIO. SUBSTITUIÇÃO DA PENA POR RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. ART. 44, INCISO III, DO CÓDIGO PENAL. DETRAÇÃO DA PENA. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFICIO.
+ ..
+3. É pacífica nesta Corte Superior a orientação segundo a qual a fixação de regime mais gravoso do que o imposto em razão da pena deve ser feita com base em fundamentação concreta, a partir das circunstâncias judiciais dispostas no art. 59 do Código Penal - CP ou de outro dado concreto que demonstre a extrapolação da normalidade do tipo, de acordo com o enunciado n. 440 da Súmula desta Corte, bem como os enunciados n. 718 e 719 da Súmula do Supremo Tribunal Federal.
+In casu, embora a primariedade do paciente e o quantum de pena (art. 33, § 2º, "c", do CP) permitem, em tese, a fixação do regime aberto, a quantidade e a natureza das drogas apreendidas (art. 42 da Lei n. 11.343/06) foram utilizadas para majorar a pena-base acima do mínimo legal. Dessa forma, a existência de circunstância judicial desfavorável (art. 59 do CP) justifica a imposição de regime prisional mais gravoso, no caso o semiaberto, bem como veda a substituição da pena por restritivas de direitos, de acordo com o disposto no art. 44, inciso III, do Código Penal.
+4. É inviável a análise da detração da pena diretamente por esta Corte quando não apreciada pelo Tribunal a quo, sob pena de indevida supressão de instância.
+Habeas corpus não conhecido. Ordem concedida de ofício para afastar a hediondez do tráfico privilegiado e fixar o regime prisional semiaberto para início de cumprimento de pena do paciente.
+(HC 408.072/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 05/12/2017, DJe 18/12/2017)
+Ante o exposto, concedo o habeas corpus para alterar o regime inicial para o semiaberto.
+Comuniquem-se.
+Publique-se.
+Intimem-se.
