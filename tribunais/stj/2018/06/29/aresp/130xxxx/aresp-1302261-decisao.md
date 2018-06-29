@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da incidência da Súmula n. 283 do STF (e-STJ fls. 80/81).
+O acórdão recorrido está assim ementado (e-STJ fl. 38):
+APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. SENTENÇA DE IMPROCEDÊNCIA. ALEGADA NECESSIDADE DE PAGAMENTO DA INTEGRALIDADE DA DÍVIDA (PARCELAS VENCIDAS E VINCENDAS), NO PRAZO DE 5 DIAS APÓS A EXECUÇÃO DA LIMINAR. ART. 3º, § 2º DO DECRETO-LEI Nº 911/69. NÃO INCIDÊNCIA NO CASO CONCRETO. ENTENDIMENTO FIRMADO NO RESP Nº1.418.593/MS. AUSÊNCIA DE RECURSO CONTRA DECISÃO INTERLOCUTÓRIA QUE RECONHECEU À ÉPOCA A PURGAÇÃO DA MORA E DETERMINOU A RESTITUIÇÃO DO VEÍCULO. MATÉRIA PRECLUSA. INTELIGÊNCIA DO ART. 473 DO CPC/73. HONORÁRIOS ADVOCATÍCIOS MANTIDOS. SENTENÇA INALTERADA. RECURSO NÃO PROVIDO.
+Nas razões do recurso especial (e-STJ fls. 65/72), interposto com fundamento no art. 105, III, "a", da CF, a recorrente alegou ofensa ao art. 3º, §§ 1º e 2º, do Decreto-Lei n. 911/1969. Sustentou, em síntese, que para a purgação da mora seria necessário o pagamento da integralidade da dívida, e não apenas das parcelas vencidas.
+No agravo (e-STJ fls. 85/89), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 98).
+É o relatório.
+Decido.
+Inicialmente, tem-se que o recurso deve observar o princípio da dialeticidade, ou seja, apresentar as razões pelas quais a parte recorrente não se conforma com o acórdão proferido pelo Tribunal de origem (art. 1.010, II e III, do CPC/2015, correspondente ao art. 514, II, do CPC/1973), a fim de permitir ao órgão colegiado cotejar os fundamentos lançados na decisão judicial, com os motivos expendidos no recurso.
+No caso, o Tribunal de origem, no julgamento da apelação, entendeu que a questão da purgação da mora não poderia ser mais analisada, em face da preclusão. Confira-se (e-STJ fls. 42/46):
+É sabido que a jurisprudência da Segunda Seção do STJ, no julgamento do REsp nº 1.418.593/MS, Dje 27.05.2014, de relatoria do Ministro Luiz Felipe Salomão, consolidou o entendimento de que a purgação da mora somente se dará com o pagamento da integralidade, sendo considerado como integral, tanto os pagamentos das parcelas vencidas, quanto das parcelas vincendas da dívida, consoante leitura do art. 3º, §2º, do Decreto -Lei nº 911/69 com redação alterada pela Lei nº 10.931/2004.
+(..)
+A par da orientação jurisprudencial, ciente do posicionamento solidificado nos Tribunais Superiores e nesta Corte de Justiça, entendo, todavia, que, ao caso, não é aplicável o aludido recurso repetitivo.
+Explico.
+Da detida análise dos autos, observo que a ação foi ajuizada em 11/07/2014 e o cumprimento do mandado de busca e apreensão de veículo se deu em 16/10/2014 (mov. 24.2), tendo a parte requerida sido notificada para purgar a mora, razão pela qual realizou o depósito extrajudicialmente dos valores que originaram a presente ação (parcelas nº 13 e 14 do contrato de financiamento), em 21/10/2014 (mov. 30.4).
+É bem verdade que a previsão de restituição do bem livre de qualquer ônus significa que a integralidade do débito diz respeito às parcelas vencidas, vincendas - estas últimas, em razão da antecipação do vencimento do contrato, passam a ser exigíveis - e aos demais encargos.
+Entretanto, da decisão interlocutória que reconheceu a purgação da mora tão somente pelas parcelas vencidas e determinou a restituição do bem, não houve discussão em recurso próprio.
+Aliás, mesmo após o depósito efetuado, a própria requerente permitiu o pagamento das parcelas vincendas que, como bem afirma o Magistrado a quo, se trata de conduta abusiva e contrária ao princípio da boa- fé contratual, restando nítido com esse ato que já não mais subsistia o interesse da autora em romper o contrato.
+Assim, embora a apelante argumente ser devido o pagamento da integralidade da dívida e não apenas das parcelas vencidas, não se insurgiu da aludida decisão em momento oportuno.
+A jurisprudência há muito sedimentada neste Tribunal de Justiça é no sentido de que, ainda que firmado entendimento em recurso repetitivo (REsp nº 1.418.593 -3 -MS), quanto ao reconhecimento da purgação da mora mediante o pagamento integral do débito, é preclusa a matéria que não desafiou em recurso próprio a decisão interlocutória que reconhece a purgação da mora e determina a devolução do veículo ao réu.
+(..)
+Além do mais, após o pagamento das parcelas em atraso, o requerido demonstrou sua honradez ao continuar com o cumprimento de suas obrigações, efetuando todos os pagamentos subsequentes, alcançando, à época, 20 (vinte) parcelas de um total de 36 (trinta e seis). Porém, o mesmo não se pode dizer da Instituição Financeira, que gerou expectativa ao apelado ao fazê-lo acreditar que o contrato não estava rompido e, sob posse do veículo, na qualidade de depositário fiel, sabedor das prestações até então efetuadas, bem como, do trâmite deste processo, vendeu o referido bem para terceiro de boa -fé, impossibilitando a restituição ao requerido.
+Portanto, ante as particularidades do caso, à luz, inclusive, do art. 473 do CPC/73, é de ser mantida a sentença que julgou improcedente a pretensão articulada e condenou o Banco a restituir o montante correspondente ao valor de mercado do veículo, com juros e correção monetária.
+Contudo, no especial, a recorrente não impugnou esses fundamentos, em especial a existência de preclusão (art. 473 do CPC/1973), haja vista que apenas tece considerações acerca da necessidade de pagamento integral do débito para purgação da mora. Assim, é imperioso reconhecer que trouxe alegações dissociadas do que ficou decidido no acórdão recorrido, incidindo, portanto, as Súmulas n. 283 e 284 do STF. Dessa maneira:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DEMORA INJUSTIFICADA NA REALIZAÇÃO DE PROCEDIMENTO CIRÚRGICO. FUNDAMENTOS DO ACÓRDÃO. NÃO IMPUGNAÇÃO. INCIDÊNCIA DO VERBETE 283 DA SÚMULA/STF. RAZÕES DISSOCIADAS DA MATÉRIA TRATADA NO ACÓRDÃO RECORRIDO. SÚMULA 284 DO STF. DEFEITO NA PRESTAÇÃO DO SERVIÇO. DANO MORAL. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. REVISÃO DO VALOR. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. NÃO PROVIMENTO.
+(..)
+2. As razões elencadas pelo Tribunal de origem não foram devidamente impugnadas. Incidência do enunciado 283 da Súmula/STF. 3. Não se conhece de recurso especial cujas razões estão dissociadas da matéria tratada pelo acórdão recorrido. Súmula 284/STF.
+(..)
+7. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 774.370/RS, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/11/2015, DJe 23/11/2015.)
+CONSUMIDOR E CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CLÁUSULA EXCLUDENTE DA COBERTURA. APOSENTADORIA POR INVALIDEZ. SFH. ACÓRDÃO FUNDADO NO CDC. NULIDADE DA CLÁUSULA. ART. 51, IV, DO CDC. ESPECIAL DISTANCIANDO-SE DA FUNDAMENTAÇÃO DO ACÓRDÃO. TESE SUFICIENTE NÃO IMPUGNADA. SÚMULAS 283 E 284 DO STF. PREQUESTIONAMENTO. INEXISTÊNCIA. AGRAVO NÃO PROVIDO.
+(..)
+3. A falta de combate a fundamento suficiente para manter o acórdão recorrido bem como as razões recursais dissociadas daquilo que ficou decidido pelo Tribunal de origem demonstram deficiência de fundamentação do recurso, o que atrai, por analogia, os óbices das Súmulas n. 283 e 284 do Supremo Tribunal Federal.
+4. Agravo regimental não provido.
+(AgRg no REsp 1.507.662/PB, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/8/2015, DJe 28/8/2015.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
