@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto em face de decisão que inadmitiu o recurso especial, sob o fundamento de que as razões recursais repisam argumentos já expendidos em outras fases processuais, pugnando por novo julgamento.
+No presente agravo, sustenta o recorrente que não pretende o reexame de prova, que é incompatível com o RESP, o que se pleiteia é anulação do processo face à não observância dos dispositivos supra citados.
+Contraminuta apresentada, manifestou-se o Ministério Público Federal pelo improvimento do agravo.
+É o relatório.
+Decido.
+O recurso é tempestivo a ataca os fundamentos da decisão agravada. Passo, portanto, ao exame de seu mérito.
+No recurso especial, sustenta que o acórdão impugnado, ao deixar de acolher a tese de excesso de linguagem na sentença de pronúncia, teria contrariado o art. 413, § 1º, do CPP. Argumenta que o julgado enfrentado não descreve sequer a qualificadora que estava examinando, muito menos cita em quais circunstâncias e em qual contexto teria se desdobrado no caso concreto. Destaca que o magistrado de piso elencou 06 motivos para pronunciar os recorrentes, numa verdadeira "assistência ao MP".
+Requer o provimento do recurso especial para anular as decisões recorridas.
+O Tribunal a quo utilizou-se, no ponto, dos seguintes fundamentos (fls. 593/594, com destaques):
+ ..  Inicialmente, examino a preliminar de nulidade da decisão recorrida, veiculada pela defesa em suas razões recursais.
+Data venia, a alegação de que houve excesso de linguagem na pronúncia, que teria se convertido em Juízo acusatório e não de admissibilidade, não merece prosperar.
+O d. Magistrado, ao contrário do alegado, apenas e tão somente indicou os elementos de convicção que o levaram a pronunciar os réus. O simples fato de ter ele registrado os cinco fundamentos pelos quais iria refutar a versão apresentada pela vítima em juízo não importou em excessiva fundamentação, nem mesmo excesso de linguagem.
+No caso, era mesmo preciso que o juiz explicasse porque entendeu que o depoimento extrajudicial da vítima iria prevalecer sobre as declarações judiciais prestadas por ela, sob pena de, não apontando tais motivos, ofender o dever de fundamentação previsto no art. 93, IX, CRFB/88.
+Não houve valoração da prova, mas apenas a indicação daquelas que demonstravam a materialidade delituosa e os indícios de autoria, sem a emissão de juízo subjetivo.
+Assim, tendo, o Juiz simplesmente se limitado a expor os motivos que serviram de base ao seu convencimento no sentido de admitir a acusação, não há se falar em excesso a comprometer a pronúncia.
+Com essas breves considerações, rejeito a preliminar e passo ao exame do mérito recursal.
+ ..  Nos termos do que preconiza o artigo 414 do Código de Processo Penal, somente se autoriza a impronúncia quando o Juiz não se convencer da materialidade do fato ou da existência de indícios suficientes de autoria ou de participação na prática de crime contra a vida.
+Isso porque, como cediço, para que se proceda à pronúncia, não se faz necessária prova plena da autoria, pois tal decisão consiste em juízo de probabilidade, e não de certeza acerca da culpabilidade do acusado, exigindo-se, portanto, mera suspeita jurídica decorrente dos indícios de autoria.
+ ..  Em relação às qualificadoras, sabe-se que aquelas contidas na denúncia e albergadas no decreto de pronúncia somente poderão ser excluídas pelo Tribunal revisor em caráter raro e excepcional, quando manifestamente improcedentes e de todo descabidas.
+No caso em tela, a qualificadora prevista no art. 121, §2º, I, CP, não é de todo descabida, visto que há nos autos indícios a apontar que o móvel do delito foram desavenças ligadas ao tráfico de drogas, tendo em vista a rivalidade entre as gangues de bairros distintos, como indicado neste voto.
+O mesmo ocorre quanto à qualificadora prevista no art. 121, §2º, IV, CP, pois há nos autos versão no sentido de que o ofendido foi tolhido de surpresa por seus algozes, já que confiava que o indivíduo FF pretendida quitar dívida existente entre ambos, ligada ao tráfico de drogas, como se extrai dos indícios já apontados.
+Da análise do excerto acima, em que se extrai a fundamentação da decisão atacada, vê-se que inexiste o aventado excesso de linguagem. Com efeito, não adentrou o magistrado no mérito da causa, mas apenas expôs as razões do seu convencimento com base nos indícios de autoria e materialidade presentes nos autos, bem como em indícios da ocorrência das qualificadoras.
+ A decisão ressalta, inclusive, não ser necessário haver certeza quanto à imputação para que haja a pronúncia do acusado. A propósito, colaciono os seguintes precedentes:
+RECURSO ESPECIAL. TRIBUNAL DO JÚRI. PRONÚNCIA. EXCESSO DE LINGUAGEM. INEXISTÊNCIA. RECURSO ESPECIAL NÃO PROVIDO.
+1. A fundamentação da pronúncia deve ser comedida, devendo se limitar a apontar a existência de um mero juízo de probabilidade e não de certeza, sob pena de invadir a competência constitucional do Tribunal do Júri.
+2. Não incorre, porém, em excesso de linguagem, a inquinar de nulidade a decisão que encerra a primeira fase do procedimento do Júri, a pronúncia que sintetiza bem os fatos, com espeque nas provas até então colhidas, para destacar os indícios de autoria, a prova da materialidade delitiva e as circunstâncias em que supostamente se deu o crime - homicídio qualificado pelo meio cruel e pelo emprego de recurso que dificultou a defesa da vítima -, sem expressar, o Juízo monocrático, sua convicção pessoal quanto à culpa dos acusados, o que, de fato, caso contrário, poderia, sem dúvida, influenciar a deliberação do Júri.
+3. Logo, se a decisão não faz afirmação categórica acerca da autoria do delito, não há que se falar em emissão de juízo de mérito - próprio do corpo de jurados -, capaz de causar prejuízo aos recorrentes, e, por conseguinte, em violação ao art. 413, § 1º, do Código de Processo Penal.
+4. Recurso especial não provido.
+(REsp 1622316/TO, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/10/2017, DJe 06/11/2017.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO. DECISÃO DE PRONÚNCIA. ART. 413 DO CPP. EXCESSO DE LINGUAGEM. NÃO OCORRÊNCIA.
+1. A decisão de pronúncia não revela juízo de mérito, mas apenas de admissibilidade da acusação, direcionando o julgamento da causa para o Tribunal do Júri, órgão competente para julgar os crimes dolosos contra a vida. Para tanto, basta a demonstração da materialidade do fato e a existência de indícios suficientes de autoria ou de participação, conforme disciplina o art. 413 do Código de Processo Penal. Contudo, não se pode adentrar no mérito da causa, a ser apreciado exclusivamente pelo Tribunal do Júri, constitucionalmente competente para julgar os crimes dolosos contra a vida, evitando-se, assim, uma conotação de condenação antecipada, ou seja, um prejulgamento da acusação.
+2. Não prospera a alegação de excesso de linguagem por ocasião da sentença de pronúncia, uma vez que o julgador de primeiro grau, em momento algum, declinou um juízo de convicção a respeito da culpabilidade do recorrente, cuidando apenas de apresentar elementos de prova mínimos - e estritamente necessários - para reconhecer a prova da materialidade e indícios da autoria e participação de crime doloso contra a vida, a ser julgado pelo Tribunal do Júri, afastando inclusive a absolvição sumária por não haver demonstração de manifesta causa excludente.
+3. Agravo regimental não provido.
+(AgRg no REsp 1722079/RO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 05/04/2018, DJe 13/04/2018.)
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
+Intimem-se.
