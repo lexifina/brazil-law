@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto por REGINA D RNTE BROCH e ODIVAN CESAR AROSSI, fundamentado no artigo 105, inciso III, alíneas "a" e "c", do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul assim ementado:
+"E M E N T A- APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - QUANTUM INDENIZATÓRIO MAJORADO - HONORÁRIOS SUCUMBENCIAIS MANTIDOS - RECURSO PARCIALMENTE PROVIDO.
+No ordenamento jurídico brasileiro não existem critérios objetivos para a quantificação do dano moral, até porque esta espécie de dano, por atingir a esfera psíquica do indivíduo e estar intimamente ligada à sua moral, não permite que se criem parâmetros concretos para a análise de sua extensão, devendo ser arbitrado de acordo com a possibilidade econômica do ofensor, as necessidades do ofendido, a potencialidade do dano e o grau de culpa ou dolo envolvido no ato lesivo. Valor majorado para R$ 15.000,00 (quinze mil reais).
+Tendo a magistrada sentenciante observado as diretrizes do art. 85, § 2º, do CPC, não há que se falar em majoração dos honorários advocatícios" (fl. 338 e-STJ).
+Nas razões do recurso especial, os recorrentes alegam, além da divergência jurisprudencial, violação dos artigos 1.022, 85, § 2º, do Código de Processo Civil de 2015 e 944 do Código Civil.
+Aduzem omissão no julgado.
+Mencionam que o valor de R$ 15.000,00 (quinze mil reais), fixado a título de danos morais, é irrisório.
+Sustentam, por fim, que os honorários advocatícios fixados devem levar em conta o proveito econômico obtido.
+Contrarrazões às fls. 430/435 e-STJ.
+É o relatório.
+DECIDO
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+No tocante à alegada negativa de prestação jurisdicional, agiu corretamente o Tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição, obscuridade ou erro material no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+Quanto à pretensão recursal de aumentar o valor arbitrado a título de indenização por danos morais, inviável o seu acolhimento na estreita via do recurso especial. O Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado o montante fixado pelas instâncias ordinárias apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso, em que arbitrado no valor de R$ 15.000,00 (quinze mil reais). Não se pode dizer que a referida quantia destoa dos parâmetros adotados por esta Corte em precedentes análogos, ao revés, revela-se perfeitamente adequada diante das especificidades do caso concreto, sendo inarredável, assim, a aplicação à espécie do óbice inserto no mencionado verbete sumular nº 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INSCRIÇÃO INDEVIDA NOS CADASTROS DE PROTEÇÃO AO CRÉDITO. DÍVIDA NÃO COMPROVADA. DANO MORAL IN RE IPSA. REDUÇÃO DO QUANTUM INDENIZATÓRIO. RAZOABILIDADE. DECISÃO MANTIDA.
+1. O acórdão recorrido está em sintonia com a jurisprudência desta Corte no sentido de que o dano decorrente da inscrição indevida do nome do recorrente nos cadastros de proteção ao crédito enquadra-se na categoria de dano in re ipsa, sendo, portanto, presumível do próprio fato a ocorrência de dano indenizável.
+2. Tem-se que o valor de R$ 15.000,00 (quinze mil reais), arbitrado a título de danos morais pela inscrição indevida em cadastro de inadimplentes, apresenta-se adequado à situação dos autos, mormente pela falta de notificação prévia do consumidor e pela não comprovação de qualquer dívida pela instituição bancária, que se negou a retirar a inscrição mesmo após inúmeras tentativas da parte autora.
+3. Agravo interno a que se nega provimento" (AgInt no AREsp 959.838/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/3/2017, DJe 7/4/2017).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. DANO MORAL. MAJORAÇÃO. INDENIZAÇÃO QUE SEGUIU OS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. VALOR QUE MERECE SER MANTIDO. AGRAVO IMPROVIDO.
+1. De acordo com a jurisprudência do Superior Tribunal de Justiça, "a revisão de indenização por danos morais só é viável em recurso especial quando o valor fixado nas instâncias locais for exorbitante ou ínfimo" (AgRg no AREsp n. 453.912/MS, Relator o Ministro João Otávio de Noronha, DJe de 25/8/2014), caso contrário, incide o óbice previsto no enunciado n. 7 da Súmula desta Casa. No caso, o montante indenizatório de danos morais foi arbitrado pela instância ordinária em R$ 6.000,00 (seis mil reais), em razão da inscrição indevida do nome da agravante em cadastros de proteção ao crédito.
+2. Outrossim, "tratando-se de valor da indenização por danos morais, inviável a análise do recurso com base em dissídio pretoriano, pois, ainda que aparentemente possa haver similitude nas características objetivas das lides cotejadas, na dimensão subjetiva, os acórdãos serão sempre distintos, em face das peculiaridades de cada ato ilícito" (AgRg no REsp n. 918.829/ES, Relator o Ministro Paulo de Tarso Sanseverino, DJe de 16/12/2010).
+3. Agravo interno a que se nega provimento" (AgInt no AREsp 761.663/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/3/2017, DJe 28/3/2017).
+No mais, trata-se, na origem, de ação de indenização por danos morais, em virtude de inscrição indevida em cadastro de inadimplentes. Foi dada à causa o valor de R$ 1.000,00 (um mil reais) - fl. e-STJ.
+A sentença de fls. 287/293 e-STJ julgou procedente a ação, condenando o ora recorrido em indenizar os recorrentes em danos morais no valor de R$ 5.000,00 (cinco mil reais), fixando os honorários advocatícios em 20% (vinte por cento) sobre o valor da condenação.
+Em apelação, o Tribunal de origem reformou a sentença, aumentando o valor dos danos morais para R$ 15.000,00 (quinze mil reais), mantendo os honorários no percentual máximo.
+Os recorrentes, por outro lado, pleiteiam, nas razões do recurso especial, que os honorários advocatícios devem ser fixados com base no proveito econômico da causa, que alegam ser em torno de R$ 760.000,00 (setecentos e sessenta mil reais).
+Entretanto, não procede referido argumento, pois houve condenação em danos morais, devendo ser este o parâmetro para a base dos honorários advocatícios.
+A esse respeito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO INTERPOSTO NA VIGÊNCIA DO NCPC. FRAUDE PRATICADA POR TERCEIROS. PROTESTO DE CHEQUES E INSCRIÇÃO EM CADASTROS DE INADIMPLENTES. RESPONSABILIDADE OBJETIVA DO COMERCIANTE. DISCUSSÃO QUANTO AO VALOR DA COMPENSAÇÃO POR DANOS MORAIS E DOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS.
+1. Aplicabilidade do NCPC a este recurso ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. No caso dos autos, não se revela irrisório o valor fixado a título de compensação pelos danos morais sofridos, sobretudo quando se considera que o comerciante não foi o único nem o principal causador do dano.
+3. No caso dos autos, considerando que o valor da condenação não foi irrisório e também o art. 85, § 2º, do NCPC, que impõe a fixação dos honorários entre 10% e 20% sobre o valor da condenação, não há como falar em ausência de razoabilidade no arbitramento dessa verba.
+4. Agravo interno desprovido, com aplicação de multa" (AgInt no REsp 1.364.771/MS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 5/12/2017, DJe 19/12/2017) - grifou-se.
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO (ART. 1.042 DO CPC/15) - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AUTORA.
+1. A jurisprudência do STJ firmou-se no sentido de que a impugnação, no agravo, de capítulos autônomos da decisão recorrida apenas induz a preclusão das matérias não impugnadas.
+2. Segundo o entendimento firmado por este Superior Tribunal de Justiça, em se tratando de ação de cunho preponderantemente condenatório, deverão ser observados os limites de 10% e 20% descritos no art. 85, § 2º, do CPC/15, sobre o valor da condenação, para fins de fixação dos honorários advocatícios. Precedentes.
+3. Agravo interno desprovido" (AgInt nos EDcl no AREsp 1.028.484/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/4/2018, DJe 2/5/2018).
+Incidência, portanto, da Súmula nº 568/STJ.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
