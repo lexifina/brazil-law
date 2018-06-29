@@ -1,0 +1,25 @@
+Trata-se de embargos de declaração opostos contra decisão que negou seguimento ao recurso, ante a incidência das Súmulas/STF 282 e 356 e, ainda, em razão da conformidade do acórdão recorrido com a jurisprudência do Supremo Tribunal Federal.
+    A embargante opõe estes embargos de declaração pelas razões expostas no documento eletrônico 201 e requer o acolhimento do recurso.
+    É o relatório. Decido.
+    Bem reexaminada a questão, verifico que a decisão ora atacada não merece reforma, visto que a parte embargante não aduz argumentos capazes de afastar as razões nela expendidas.
+    Por oportuno, conforme preceitua o CPC, art. 1.022, I e II, ressalto que a há pressupostos certos par oposição dos embargos de declaração, os quais, nestes autos, mostram-se ausentes. A insurgência, na espécie, reflete, tão somente, o inconformismo da parte embargante com o decidido.
+    Com efeito, a controvérsia destes autos já foi satisfatoriamente dirimida na decisão embargada, consoante se constata no seguinte trecho:
+    “Trata-se de recurso extraordinário interposto com base no art. 102, III, a , da Constituição Federal CF, no qual se alegou violação dos arts. 5°, IX, XIII, XXXVII, LIII, LV, § 1°, § 2° e § 3°; e 133, da mesma Carta, suscitando, entre outros temas, a não recepção do art. 331 do Código Penal CP (doc. eletrônico 180).
+    Em 30/4/2018, determinei o sobrestamento do feito até o julgamento final da ADPF 496/DF (doc. eletrônico 197).
+    Ocorre que, recentemente, a Segunda Turma, no exame do HC 141.949/DF, de relatoria do Ministro Gilmar Mendes, apreciou a referida matéria. Dessa forma, afasto o sobrestamento anteriormente determinado e passo à análise deste extraordinário.
+    A pretensão recursal não merece acolhida.
+    Inicialmente, observo que os dispositivos constitucionais alusivos às alegações de suspeição da Magistrada de origem e de cerceamento de defesa (art. 5°, XXXVII, LIII, LV, da CF) não foram prequestionados. Como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional versada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356/STF.
+    Ademais, o entendimento da Turma Recursal mostra-se consentâneo com a jurisprudência desta Corte, no sentido de que o art. 331 do CP foi recepcionado pela Constituição Federal de 1988, sendo o crime de desacato também compatível com o disposto no art. 13 da Convenção Americana de Direitos Humanos (Pacto de São José da Costa Rica). Transcrevo, por oportuno, as ementas abaixo:
+    ‘Habeas corpus. 2. Crime de desacato a militar (art. 299 do Código Penal Militar). 3. Controle de constitucionalidade (arts. 1º; 5º, incisos IV, V e IX, e 220 da Constituição Federal) e de convencionalidade (art. 13 da Convenção Americana de Direitos Humanos (Pacto de São José da Costa Rica). 4. Alegada ofensa à liberdade de expressão e do pensamento que se rejeita. 5. Criminalização do desacato que se mostra compatível com o Estado Democrático de Direito. 6. Ordem denegada’ (HC 141.949/DF, Rel. Min. Gilmar Mendes).
+    ‘Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Crime de desacato (CP, art. 331). Recepção pela Constituição Federal de 1988. Artigo 13 da CADH (Pacto de São José da Costa Rica). Compatibilidade. Agravo regimental não provido.
+    1. A Segunda Turma da Corte, no julgamento do HC nº 141.949/DF, Relator o Ministro Gilmar Mendes, DJe de 21/3/18, assentou a recepção do crime de desacato pela Constituição Federal de 1988 (CF, art. 5º, IV, da CF), bem como a compatibilidade da figura penal do desacato com o disposto no art. 13 da Convenção Americana de Direitos Humanos (Pacto de São José da Costa Rica).
+    2. Agravo regimental a que se nega provimento’ (ARE 1.049.152-AgR/DF, Rel. Min. Dias Toffoli).
+    Nessa linha, são as seguintes decisões: ARE 1.127.673/DF, Rel. Min. Celso de Mello; RE 1.120.118/AM e RE 1.121.884/AM, Rel. Min. Dias Toffoli; ARE 1.056.927/RS e ARE 1.133.857/DF, Rel. Min. Luiz Fux; RHC 143.206/RS, Rel. Min. Alexandre de Moraes; HC 143.968/RJ e HC 149.580/SC, de minha relatoria.
+    Além disso, conforme consignou o Colegiado a quo , este Supremo Tribunal já afirmou que a imunidade profissional do advogado não compreende o desacato, pois conflita com a autoridade do magistrado na condução da atividade jurisdicional (ADI 1.127/DF, da qual fui relator para o acórdão).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).”
+    Verifico, portanto, que a parte embargante busca apenas a rediscussão da matéria, porém os embargos de declaração não constituem meio processual adequado para a reforma do decisum, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais, o que não ocorre no caso em questão.
+    Isso posto, rejeito os embargos de declaração.
+    Publique-se.
+    Brasília, 29 de junho de 2018.
+Ministro Ricardo Lewandowski
+Relator
