@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo nos próprios autos, interposto contra decisão que inadmitiu recurso especial por falta de ofensa aos arts. 458, II, 514, I, 515 e 535, I e II, do CPC/1973 (e-STJ fls. 395/399).
+O Tribunal de origem deu provimento ao apelo da agravada, em julgado que recebeu a seguinte ementa (e-STJ fl. 272):
+APELAÇÃO CÍVEL. ELETROBRÁS. EMPRÉSTIMO COMPULSÓRIO. OBRIGAÇÕES AO PORTADOR. PEDIDO DE CADUCIDADE COM EMISSÃO DE NOVOS TÍTULOS. PRESCRIÇÃO QUINQUENÁRIA. MATÉRIA JÁ OBJETO DE DELIBERAÇÃO DO STJ PELO SISTEMA DE REPERCUSSÃO GERAL (CPC ART. 543-C, RESP. 1.003.955). PRELIMINARES REJEITADAS, INCLUSIVE CONTRARRECURSAL DE NÃO CONHECIMENTO DA APELAÇÃO. PRELIMINARES REJEITADAS E, NO MÉRITO, APELAÇÃO PROVIDA.
+Os embargos declaratórios opostos foram rejeitados (e-STJ fls. 329/333).
+No recurso especial (e-STJ fls. 337/352), com fundamento no art. 105, III, alínea "a", da CF, o recorrente apontou negativa aos arts. 458, II, 514, I, 515 e 535, I e II, do CPC/1973, sob o argumento de que o Tribunal de origem não se teria pronunciado sobre a alegação de acolhimento, pelo acórdão impugnado, de matéria estranha ao feito deduzida na apelação, "porque a ação de substituição de obrigações, pelo extravio das debêntures, o que representa sua caducidade, foi atacada como se fosse ação de cobrança decorrente do seu resgate", tendo-se decretado a prescrição da ação, o que configuraria julgamento extra petita.
+Ofereceram-se contrarrazões (e-STJ fls. 378/392).
+No agravo (e-STJ fls. 403/427), foram refutados os fundamentos da decisão agravada e alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Foi apresentada contraminuta (e-STJ fls. 431/446).
+É o relatório.
+Decido.
+O presente recurso foi interposto contra decisão publicada na vigência do CPC/1973, razão pela qual serão adotados os requisitos de admissibilidade recursal nele previstos, nos termos do Enunciado Administrativo n. 2 do Superior Tribunal de Justiça.
+Assiste parcial razão ao agravante, no que se refere à negativa de prestação jurisdicional.
+Na petição dos aclaratórios (e-STJ fls. 283/304), o recorrente alegou julgamento extra petita, argumentando que o Tribunal de origem não teria apreciado a alegação de que a ação é de substituição de obrigações, e não de cobrança, uma vez que houve o extravio das debêntures, representando a caducidade do título.
+O TJRS não se manifestou sobre esse tema, imprescindível para o deslinde da questão, caracterizando efetiva ofensa aos arts. 448, II, 514, I, 515 e 535, I e II, do CPC/1973. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015 CONFIGURADA. OMISSÃO QUANTO A ASPECTO FÁTICO RELEVANTE PARA O DESLINDE DO FEITO. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. DECISÃO MANTIDA.
+1. Deixando a Corte local de se manifestar sobre questão relevante apontada em embargos de declaração que, em tese, poderiam infirmar a conclusão adotada pelo Juízo, tem-se por configurada a violação do art. 1.022 do CPC/2015, devendo o recurso especial ser provido para anular o acórdão, com determinação de retorno dos autos à origem, para que seja suprido o vício.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1113795/RS, de minha relatoria, QUARTA TURMA, julgado em 01/03/2018, DJe 15/03/2018.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. AÇÃO DE REVISÃO. OCORRÊNCIA DE OMISSÃO. VÍCIO NÃO CORRIGIDO NO JULGAMENTO DOS ACLARATÓRIOS. QUESTÃO RELATIVA AO CERNE DA CONTROVÉRSIA. VIOLAÇÃO DO ART. 1.022 DO NCPC CONFIGURADA. ANULAÇÃO DO ACÓRDÃO ESTADUAL E RETORNO DOS AUTOS À INSTÂNCIA DE ORIGEM. DECISÃO MANTIDA. RECURSO MANIFESTAMENTE INADMISSÍVEL. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO NÃO PROVIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Quando o tema suscitado nos embargos de declaração é relevante ao deslinde da controvérsia, e o Tribunal de origem não se pronuncia acerca de tal questão, imprescindível a anulação do acórdão para que outro seja proferido, ante a contrariedade ao art. 1.022 do NCPC.
+3. No caso, foi constatado que há prestação jurisdicional incompleta no que concerne à ausência de representatividade de participantes e assistidos na gestão da entidade previdenciária; o que afastaria a ideia de associativismo e mutualismo, ínsitos das entidades fechadas de previdência privada, o que, na ótica do agravado, levaria à aplicação do CDC, ao caso.
+4. Em virtude do não provimento do presente recurso, e da anterior advertência em relação à aplicação do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+5. Agravo interno não provido, com imposição de multa.
+(AgInt no AREsp 1062942/MG, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 22/08/2017, DJe 05/09/2017.)
+Uma vez reconhecida a alegada omissão, fica prejudicada a análise das demais teses.
+Ante o exposto, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial, a fim de reconhecer a omissão do acórdão recorrido e determinar ao Tribunal de origem que se manifeste sobre a alegação de julgamento extra petita.
+Publique-se e intimem-se.
