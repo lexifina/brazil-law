@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo (artigo 1.042 do NCPC), interposto porUNIMED GRANDE FLORIANÓPOLIS - COOPERATIVA DE TRABALHO MÉDICO, em face de decisão que não admitiu o recurso especial.
+O apelo extremo, por sua vez, amparado nas alíneas "a" e "c" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fls. 719/720, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO INDENIZÁTÓRIA POR DANOS MORAIS E MATERIAIS DECORRENTES DE ERRO MÉDICO. IMPROCEDÊNCIA NA ORIGEM. 1. APELO DO AUTOR. 1.1 PRELIMINAR DE CERCEAMENTO DE DEFESA ANTE O JULGAMENTO ANTECIPADO DA LIDE. SUSCITADA NECESSIDADE DE REABERTURA DA INSTRUÇÃO PROCESSUAL COMI OITIVA DE TESTEMUNHAS. NÃO OCORRÊNCIA. ELEMENTOS SUFICIENTES AO CONVENCIMENTO DO JULGADOR.
+AUSÊNCIA DE OPORTUNIDADE PARA APRESENTAÇÃO DE ALEGAÇÕES FINAIS. INEXISTÊNCIA DE PREJUÍZO PROCESSUAL PARA A PARTE. PRELIMINAR AFASTADA. 2. RESPONSABILIZAÇÃO ;DA COOPERATIVA MÉDICA PELOS ATOS DE SEUS COOPERADOS. SUBSISTÊNCIA. PROCEDIMENTO CIRÚRGICO REALIZADO POR MÉDICO CREDENCIADO PELA UNIMED. APLICAÇÃO DO CÓDIGO DE DEFESA. DO CONSUMIDOR. RESPONSABILIDADE SOLIDÁRIA EVIDENCIADA. LEGITIMIDADE VISLUMBRADA INITIO LITIS. 3. RESPONSABILIDADE OBJETIVA. INTELIGÊNCIA DO ARTIGO 14, CAPUT, DO CÓDIGO DE DEFESA DO CONSUMIDOR. 3.1 OBRIGAÇÃO DE MEIO. MEDICO" COOPERADO DA DEMANDADA QUE EFETUA PROCEDIMENTO CIRÚRGICO PARA CORREÇÃO DE LESÃO DE LIGAMENTO CRUZADO ANTERIOR DO JOELHO ESQUERDO. CIRURGIA BEM SUCEDIDA E REALIZADA DENTRO DA TÉCNICA EXIGIDA. INEXISTÊNCIA, PORÉM, DE -INFORMAÇÕES CLARAS E SUFICIENTES AO AUTOR DA OCORRÊNCIA DE POSSÍVEIS SEQUELAS, AINDA, DA CORRETA CONDUTA NO PÓS OPERATÓRIO. DESENVOLVIMENTO DE TROMBOSE VENOSA PROFUNDA. 3.2 VIOLAÇÃO AO DEVER DE INFORMAÇÃO. ARTIGO 6º, III, DO CÓDIGO DE DEFESA DO CONSUMIDOR. 3.3 RECONHECIDO O DEVER DE INDENIZAR. 3.4 DIREITO CONSTITUCIONAL DE INFORMAÇÃO. ARTIGO 34 DO CÓDIGO DE ÉTICA MÉDICA. OFENSA VERIFICADA. DÁNO MORAL ARBITRADO EM R$15.000,00 (QUINZE MIL REAIS).
+VALOR RAZOÁVEL E PROPORCIONAL ÀS PECULIARIDADES DO CASO. 3.5 JUROS DE MORA DE 1% (UM POR CENTO) AO MÊS, A CONTAR DO EVENTO DANOSO - . 13/1/1997 (SÚMULA 54 DO SUPERIOR TRIBUNAL DE JUSTIÇA). 3.6 CORREÇÃO KAONETÁRIA,Á CONTAR DO PRESENTE ARBITRAMENTO (SÚMULA 362 DO SUPERIOR TRIBUNAL DE JUSTIÇA). 3.7 DANO MATERIAL "NÃO COMPROVADO. AUSÊNCIA DE DOCUMENTOS HÁBEIS À DEMONSTRAÇÃO DE GASTOS REALIZADOS: COM MEDICAMENTOS. CANHOTOS DE CHEQUES QUE NÃO BASTAM A TANTO. PEDIDO DESPROVIDO. 3.8 HONORÁRIOS ADVOCATÍCIOS. REDISTRIBUIÇÃÓ ANTE O PROVIMENTO PARCIAL DOS PEDIDOS EXORDIAIS. PERCENTUAL ,.FIXADO EM 20% (VINTE POR CENTO) SOBRE "V " VALOR DA CONDENAÇÃO. ADIMPLEMENTO QUE INCUMBE EXCLUSIVAMENTE À DEMANDADA. AUTOR SUCUMBENtE EM PARTE MÍNIMA DO PEDIDO. 4. RECURSO DE APELAÇÃO CONHECIDO E PROVIDO EM PARTE.
+"Conquanto -constitua do julgador, ao encerrar a instrução processual, dar a palavra às partes para o oferedimento de alegações finais ou conceder-lhes prazo para apresentação dos respectivos memoriais (art. 454 do CPC), "o julgamento antecipado da éçausa toma desnecessária a intimação das partes para apresentação dà alegações finais inexistindo, por conseqUncia lógica, violação ao disposto no § 3º do art. 454 do CPC" (Apelação Cível nº 2013.085874-8, da Capital, deste Relator, julgada em 21.08.2014). Até mesmo quando as alegações finais se façam necessárias a jurisprudência tem exigido, para que a sentença seja anulada por cerceamento de defesa em razão de tal omissão, a demonstração de efetivo prejuízo - o que não ocorre no caso, de modo que !,rddde à espécie o princípio pas de nullité sans grief" (TJSC, Apelação Cível n. 2014.051351-7, de Balneário Camboriú, rel., Des. Gilberto Gomes de Oliveira, j. 02-10-2014).
+Nas razões do especial (fls. 788/805, e-STJ), a insurgente sustenta, em síntese, a sua ilegitimidade passiva e que a Súmula 54 do STJ não deve ser aplicada na hipótese dos autos.
+O Tribunal local negou seguimento ao recurso especial ante a irregularidade da representação processual, razão pela qual foi interposto o agravo de fls. 880/883, e-STJ.
+Contraminuta às fls. 890/901, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Com efeito, verificando que não havia nos autos procuração e/ou cadeia completa de substabelecimento conferindo poderes ao Dr. [NOME], advogado que firmou o substabelecimento ao subscritor do recurso especial, Dr. [NOME], o Tribunal de origem determinou a intimação da parte para, no prazo de 5 (cinco) dias, regularizar a representação processual.
+Contudo, conforme asseverado na decisão que inadmitiu o apelo nobre, a parte procedeu à juntada de procuração outorgando poderes a outros advogados, mas não ao Dr. [NOME]. Ou seja, entre os nomes constantes na procuração de fl. 864 (e-STJ) juntada pela ora recorrente, não consta o do referido advogado.
+Desse modo, verificada a irregularidade da representação processual e descumprida a determinação para que fosse sanado o vício no prazo de 5 (cinco) dias, impõe-se o não conhecimento do recurso especial, consoante determina o artigo 76, § 2º, inciso I, do Novo Código de Processo Civil.
+Confira-se:
+Art. 76. Verificada a incapacidade processual ou a irregularidade da representação da parte, o juiz suspenderá o processo e designará prazo razoável para que seja sanado o vício.
+ ..
+§ 2o Descumprida a determinação em fase recursal perante tribunal de justiça, tribunal regional federal ou tribunal superior, o relator:
+I - não conhecerá do recurso, se a providência couber ao recorrente;
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA LAVRA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA DA PARTE AGRAVANTE.
+1. Nos termos do artigo 76, § 2º, inciso I, do Novo Código de Processo Civil, verificada a irregularidade da representação processual e descumprida determinação para que fosse sanado o vício, impõe-se o não conhecimento do recurso.
+2. Agravo interno desprovido.
+(AgInt no REsp 1696206/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/03/2018, DJe 27/03/2018)
+2. Do exposto, nego provimento ao agravo.
+Publique-se.
+Intime-se.
