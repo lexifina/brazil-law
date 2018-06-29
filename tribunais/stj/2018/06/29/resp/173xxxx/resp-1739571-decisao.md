@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por PETROBRÁS DISTRIBUIDORA S.A., com fundamento no art. 105, inc. III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"APELAÇÃO CÍVEL. DIREITO MARCÁRIO. POSTO DE GASOLINA. TRADE DRESS. IMITAÇÃO DE PADRÕES DISTINTIVOS DA MARCA. AUSÊNCIA DE PROVA DE DANO À HONRA OBJETIVA DA RECORRIDA. NÃO RECONHECIMENTO DE DANOS MORAIS INDENIZÁVEIS. Ação com pedidos de abstenção dos sinais distintivos da marca da autora, ora recorrida, e indenização por danos morais decorrentes do uso indevido. Na espécie, a ré/apelante explora estabelecimento de posto de gasolina, anteriormente vinculado à rede da apelada com o chamado "contrato de fiança venda spot". Desinteresse da apelada na manutenção do contrato, porém, apesar de notificada para não fazê-lo, a apelante continuou portando os sinais distintivos da marca da recorrida, conforme atestado em laudo pericial. Sentença de procedência. Apelo da ré. Limitação da abrangência da devolutividade recursal. No caso, apesar de pugnar pela reforma integral da sentença, a apelante não expende qualquer impugnação específica aos fundamentos da sentença no que tange ao reconhecimento da violação do direito de marca, com a consequente determinação de abstenção de uso indevido. Assim, as razões recursais se aproveitam somente para impugnar a condenação a indenizar danos morais. Na espécie, embora o laudo pericial conclua no sentido da ocorrência de desvio de clientela, tem-se que, em verdade, tal espécie de dano se insere na categoria de danos materiais. Os danos morais a que estão sujeitos as pessoas jurídicas são aqueles que provocam abalo em sua reputação e sua credibilidade, em especial junto ao mercado. No caso, não há qualquer evidência nos autos de que isso tenha ocorrido, razão pela qual entendo pelo afastamento dos danos morais. RECURSO AO QUAL SE DÁ PARCIAL PROVIMENTO" (fl. 293 e-STJ).
+Em suas razões, a recorrente alega violação dos arts art. 208 e 209 da Lei nº 9.279/1996.
+Sustenta, em síntese, que a comprovação da prática de conduta ilícita - contrafação - gera dano moral "in re ipsa", sendo desnecessária a demonstração de prejuízos concretos. Destaca, ainda, que a matéria é reiterada nessa Corte, sendo a sua pretensão o posicionamento prevalente.
+Com fulcro nos argumentos expostos, pleiteia o provimento do recurso.
+É o relatório.
+DECIDO.
+A irresignação merece prosperar.
+Registre-se, preliminarmente, que o acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Quanto ao mérito, o Tribunal de origem, ao apreciar a apelação do recorrido, reformou a sentença para afastar a condenação por danos morais, mediante a seguinte fundamentação:
+"(..)
+Contudo, o recorrido postulou apenas a indenização de danos morais, o que foi julgado procedente apenas com base no uso indevido da marca, conforme as conclusões consignadas no laudo pericial.
+De outro giro, os danos morais a que estão sujeitas as pessoas jurídicas referem-se à sua honra objetiva, isto é, sua reputação, imagem e credibilidade, especialmente junto ao mercado.
+Era ônus da apelada demonstrar objetivamente a ocorrência de tais fatos geradores de dano moral, porquanto fatos constitutivos do próprio direito alegado, a fim de que se possa reconhecer eventual dever de indenizar. Assim, faltou a recorrida no cumprimento do ônus processual que lhe cabia por força do então vigente artigo 333, I, do CPC/73" (fl. 298 e-STJ).
+Com efeito, a leitura do excerto revela a incompatibilidade do acórdão recorrido com a jurisprudência desta Corte, firmada no sentido de que "O dano moral por uso indevido da marca é aferível in re ipsa, ou seja, sua configuração decorre da mera comprovação da prática de conduta ilícita, revelando-se despicienda a demonstração de prejuízos concretos ou a comprovação probatória do efetivo abalo moral" (REsp 1327773/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 15/02/2018).
+No mesmo sentido:
+"RECURSO ESPECIAL. PROPRIEDADE INTELECTUAL. DIREITO DE MARCA. FALSIFICAÇÃO. IMPORTAÇÃO DE PRODUTO CONTRAFEITO. BENS RETIDOS PELA AUTORIDADE ALFANDEGÁRIA. DANO MORAL. CONFIGURAÇÃO. PRODUTOS NÃO COMERCIALIZADOS NO MERCADO INTERNO. DESNECESSIDADE DE COMPROVAÇÃO DO PREJUÍZO. DANO IN RE IPSA.
+1- Ação ajuizada em 24/7/2014. Recurso especial interposto em 3/11/2014 e concluso ao Gabinete em 25/8/2016.
+2- Controvérsia cinge-se em determinar se é necessária a exposição ao mercado ou a comercialização do produto contrafeito para que fique caracterizada a ocorrência de dano moral ao titular da marca ilicitamente reproduzida.
+3- A jurisprudência do STJ firmou-se no sentido de entender cabível a compensação por danos morais experimentados por pessoa jurídica titular de marca alvo de contrafação, os quais podem decorrer de ofensa à sua imagem, identidade ou credibilidade.
+4- A Lei n. 9.279/1996 - que regula a propriedade industrial -, em seus artigos que tratam especificamente da reparação pelos danos causados por violação aos direitos por ela garantidos (arts 207 a 210), não exige comprovação, para fins indenizatórios, de que os produtos contrafeitos tenham sido expostos ao mercado.
+5- O dano moral alegado pelas recorrentes decorre de violação cometida pela recorrida ao direito legalmente tutelado de exploração exclusiva da marca por elas registrada.
+6- O prejuízo suportado prescinde de comprovação, pois se consubstancia na própria violação do direito, derivando da natureza da conduta perpetrada. A demonstração do dano se confunde com a demonstração da existência do fato - contrafação -, cuja ocorrência é premissa assentada pelas instâncias de origem.
+7- Desse modo, exsurge que a importação de produtos identificados por marca contrafeita, ainda que não expostos ao mercado consumidor interno, encerram hipótese de dano in re ipsa.
+8- Verba compensatória arbitrada em R$ 50.000,00 (cinquenta mil reais).
+9- RECURSO ESPECIAL PROVIDO" (REsp 1535668/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 26/09/2016).
+Inconteste, portanto, a necessidade de reforma do acórdão recorrido.
+Ante o exposto, dou provimento ao recurso especial para restabelecer a condenação ao pagamento de indenização por danos morais, nos termos fixados na sentença (R$ 20.000,00).
+Condeno, ainda, a recorrida ao pagamento das despesas processuais e de honorários advocatícios, que fixo em 15% (quinze por cento) sobre o valor da condenação.
+Publique-se.
+Intimem-se.
