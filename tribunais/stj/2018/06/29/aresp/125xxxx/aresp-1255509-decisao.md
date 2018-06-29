@@ -1,0 +1,42 @@
+DECISÃO
+LÚCIO JOSÉ DA SILVA agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais na Apelação n. 1.0701.11.039954-3/001.
+Nas razões recursais, a defesa aponta violação dos arts. 59 do Código Penal e 42 da Lei n. 11.343/2006, ao argumento de que, a despeito da natureza da droga apreendida em poder do réu (crack), a pequena quantidade de entorpecente (1,68 g) não justifica a exasperação da pena-base.
+Requer o provimento do recurso a fim de "reduzir-se a pena-base ao patamar mínimo legalmente previsto, com reflexo na pena definitiva aplicada ao Recorrente" (fl. 242).
+Não admitido o recurso pelo Tribunal a quo, foi interposto o presente agravo.
+O Ministério Público Federal opinou pelo desprovimento do recurso.
+Decido.
+I. Admissibilidade
+Verifico que o agravo preencheu os requisitos de admissibilidade, razão pela qual deve ser conhecido. Quanto ao recurso especial, também observo o preenchimento dos requisitos de admissibilidade.
+Com efeito, a dosimetria da pena foi examinada pelo Tribunal a quo, no julgamento da apelação, a evidenciar o prequestionamento da matéria. Além disso, o recurso apresenta argumentação suficiente para permitir a compreensão das teses suscitadas, e a sua apreciação prescinde de revolvimento do contexto fático-probatório dos autos.
+II. Contextualização
+Em primeira instância, o ora agravante foi absolvido, com fundamento no art. 386, VII, do Código de Processo Penal.
+Irresignado, o Ministério Público recorreu. A Corte estadual deu provimento ao recurso para condenar o réu, como incurso no art. 33, caput, da Lei n. 11.343/2006, à pena de 5 anos e 6 meses de reclusão, em regime inicial semiaberto, e 550 dias-multa. A reprimenda foi assim individualizada (fls. 212-215, destaquei):
+Na primeira fase, constata-se que a culpabilidade é normal a espécie delitiva, pois os autos não contêm nenhum elemento probatório idôneo que pudesse demonstrar que o agente exacerbou os limites da norma penal em comento.
+Os antecedentes do acusado lhe são favoráveis, pois se trata de réu tecnicamente primário e portador de bons antecedentes (CAC - fls. 47/49).
+Em relação à conduta social, não existem elementos nos autos suficientes a macular tal circunstância, que consiste no relacionamento do acusado no meio em que vive, perante a comunidade, a família e os colegas de trabalho.
+A personalidade do agente, da mesma forma, não apresenta quaisquer máculas, sendo necessário, para se avaliar tal circunstância como negativa, que exista, nos autos, laudo psicossocial firmado por pessoa tecnicamente habilitada para tanto. Daí, inexistindo nos autos elementos técnicos acerca da personalidade do agente, não há que se valorá-la.
+Ademais, os motivos do crime - fator intimo que desencadeia a ação criminosa - e as circunstâncias do delito são próprios ao tipo penal, nada havendo que se valorar nesse sentido.
+As consequências do crime não podem ser consideradas como sendo desfavoráveis ao réu.
+No que concerne ao comportamento da vítima, o sujeito passivo deste delito é a coletividade e, por isto, não deve ser considerada.
+Por fim, o art. 42 da Lei Federal nº 11.343/06 exige que o Juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente. Conforme já destacado, não há nada nos autos que desabone a personalidade e conduta social do agente.
+A quantidade da droga é ínfima (1,68g - Exame Definitivo de fl. 17). Porém, a natureza da droga pesa em desfavor do réu, pois se trata de crack, estupefaciente devastador, de altíssimo poder viciante, que vem acarretando gravíssimos casos de saúde pública.
+Destarte, considerando que apenas 01 (uma) circunstância judicial é desfavorável ao réu (natureza da droga), deve ser fixada a pena-base de 05 (cinco) anos e 06 (seis) meses de reclusão e 550 (quinhentos e cinquenta) dias-multa no valor unitário mínimo.
+Na segunda fase, inexistem circunstâncias atenuantes ou agravantes a serem reconhecidas.
+Na fase final, não há causas gerais ou especiais de diminuição ou aumento de pena a serem consideradas.
+Neste ponto, cumpre ressaltar que é incabível o reconhecimento da causa especial de diminuição prevista no art. 33, § 4º da Lei Antidrogas, já que ausentes as condições legais. Embora se trata de réu primário e portador de bons antecedentes, os elementos probatórios acostados nos autos indica que o apelado vinha se dedicando as atividades ilícitas, conforme se infere da prova oral (fls. 82 e 83); do Relatório Circunstanciado de Investigações de fls. 37/40; bem como da CAC de fls. 47/49 que atesta que o réu possui uma condenação transitada em julgado pelo crime de tráfico de drogas, por fato posterior ao fato sub judice.
+Destarte, a pena definitiva deve ser concretizada no importe de 05 (CINCO) ANOS E 06 (SEIS) MESES DE RECLUSÃO E 550 (QUINHENTOS E CINQUENTA) DIAS-MULTA, no valor unitário mínimo.
+O Supremo Tribunal Federal no HC nº 111.840, já decidiu que é inconstitucional a Lei que impõe o regime inicial fechado para os crimes hediondos e equiparados. Portanto, o Juiz, na fixação do regime prisional inicial, deverá seguir as regras estabelecidas no Código Penal. Assim, diante da quantidade de pena imposta e da primariedade técnica do réu (CAC - fls. 47/49), deve ser fixado o regime semiaberto para início de cumprimento da pena, nos termos do art. 33, § 2º, alínea "b", do Código Penal.
+Com base nesse registro, analiso o pleito defensivo.
+III. Redução da pena-base
+A respeito do tema, cumpre salientar que a fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar para as singularidades do caso concreto. Cumpre, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal, as quais não se deve furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; comportamento da vítima.
+No caso, observo que, embora a instância antecedente haja mencionado a natureza da droga para exasperar a pena-base, o montante apreendido - menos de 2 g de crack - não evidencia a acentuada reprovabilidade da conduta ou a maior periculosidade do acusado.
+Assim, considero desproporcional a exasperação operada e reduzo a pena-base para o mínimo legal, 5 anos de reclusão e 500 dias-multa. Ausentes agravantes e atenuantes, bem como causas de diminuição e de aumento de pena, torno a reprimenda definitiva nesse patamar.
+A redução da pena não permite alterar o regime estabelecido pela Corte estadual para o início do seu cumprimento, visto que permanece superior a 4 e inferior a 8 anos de reclusão.
+IV. Execução imediata da pena
+Ante o esgotamento das instâncias ordinárias - como no caso -, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+V. Dispositivo
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "c", do RISTJ, conheço do agravo e dou provimento ao recurso especial, a fim de reduzir a pena-base ao mínimo legal e, por conseguinte, readequar a reprimenda imposta ao réu para 5 anos de reclusão, em regime inicial semiaberto, e 500 dias-multa.
+Ainda, determino o envio de cópia dos autos ao Juízo da condenação para imediata execução da pena imposta. A determinação deve ser desconsiderada caso o agravante já cumpra a reprimenda.
+Publique-se e intimem-se.
