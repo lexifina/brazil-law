@@ -1,0 +1,69 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. TRIBUNAL A QUO CONCLUIU PELA NÃO COMPROVAÇÃO DE ABUSO DE PODER ECONÔMICO E COMPROMETIMENTO DA LIVRE CONCORRÊNCIA. ALEGAÇÃO DE OFENSA AOS ARTS. 20 E 21 DA LEI N. 8.884/94. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. FUNDAMENTO AUTÔNOMO DO ACÓRDÃO ESTADUAL INATACADO. SÚMULA 283/STF. ALÍNEA C. MERA TRANSCRIÇÃO DE EMENTAS. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO DESPROVIDO.
+1. Tendo o eg. Tribunal a quo assentado que não foi comprovado o abuso de poder econômico ou o comprometimento da livre concorrência nas condutas atribuídas à ora agravada, a pretensão de revisar tal entendimento, sob alegada ofensa aos arts. 20 e 21 da Lei 8.884/94, depende do reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+2. Se, mesmo após o julgamento dos embargos de declaração, o eg. Tribunal a quo continuar omisso quanto à matéria que se pretendia prequestionar, é dever do recorrente, no apelo nobre, apontar violação ao art. 535 do CPC/73 (CPC/2015, art. 1.022), o que não ocorreu no caso em liça. Nesse cenário, quanto à alegada ofensa ao art. 397 do Código Civil, o apelo nobre esbarra no óbice da Súmula 211/STJ.
+3. Esbarra no óbice da Súmula 283/STF o apelo nobre que não infirma fundamento autônomo e suficiente para manter, por si só, o v. acórdão estadual.
+4. Para a caracterização do alegado dissídio jurisprudencial, não basta a simples transcrição de ementas; devem ser mencionadas as circunstâncias que identificam ou assemelham os casos confrontados, bem como indicada a lei federal a que foi atribuída interpretação divergente.
+5. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (Relator): Trata-se de agravo interno (fls. 2.995-3.015) interposto por INTERTEL COMÉRCIO E CONSTRUÇÕES LTDA contra decisão (fls. 2.973-2.978) que conheceu de seu agravo para negar provimento ao respectivo recurso especial, sob os seguintes fundamentos:
+a) tendo o eg. Tribunal a quo assentado que "(..) não houve comprovação de abuso de poder econômico ou comprometimento da livre concorrência, matérias relativas à alegada violação aos arts. 20 e 21 da Lei n. 8.884/94 (..)", a revisão de tal entendimento esbarra na Súmula 7/STJ;
+b) ausência de prequestionamento do art. 397 do Código Civil;
+c) ainda que ultrapassado esse óbice, o apelo nobre não mereceria prosperar, isso porque, quanto à correção monetária, o v. acórdão estadual assentou que o termo inicial seria a partir da citação, fundamentando tal entendimento no art. 405 do Código Civil, combinado com o art. 219 do CPC/73, sendo que tal fundamento não foi impugnado, atraindo a incidência da Súmula 283/STF;
+d) pela alínea c, o apelo não merece melhor sorte, pois o recorrente limitou-se a colacionar ementas dos v. acórdãos paradigmas, o que não se presta à demonstração da divergência pretoriana.
+Nas razões do agravo interno, alega-se, em síntese, que "(..) a fixação dos preços em uma tabela confeccionada pela própria adquirente dos serviços e destinada a todos os seus fornecedores, além de ter causado os prejuízos à INTERTEL, configurou evidente induzimento a conduta uniforme para obtenção artificial de lucros abominada pela legislação concorrencial e, portanto, consistente em ATO ILÍCITO, nos termos dos artigos 20 e 21 da Lei nº 8.884/94 (..)", ademais, como todos os fatos estão descritos no v. acórdão estadual, o apelo nobre não esbarra na Súmula 7/STJ.
+Afirma-se que o art. 387 do Código Civil está implicitamente prequestionado, devendo ser afastada a Súmula 211/STJ.
+Sustenta-se, também, que, "(..) no que tange ao alegado óbice da Súmula 283/STF, o entendimento assentado pelo Tribunal a quo em relação à aplicabilidade do artigo 405 do Código Civil combinado com o artigo 219 do Código de Processo Civil de 1973, foi sim infirmado nas razões recursais, tendo a INTERTEL demonstrado a inaplicabilidade dos referidos dispositivos ao presente caso em virtude da origem dos danos materiais -- decorrentes, frise-se, de inadimplemento de obrigações líquidas e exigíveis e de ato ilícito de abuso de poder de mercado mediante a fixação unilateral de preços abaixo do custo de seus fornecedores" (fls. 3.009 - destaques no original).
+Aduz-se, ainda, que, com base no art. 397 do Código Civil, "(..) era de se esperar que os valores relativos às faturas não quitadas pela [NOME] -- VALORES LÍQUIDOS E EXIGÍVEIS -- fossem corrigidos a partir da data de seu respectivo inadimplemento. Entretanto, sob o argumento de que os danos materiais sob discussão decorreriam de mero descumprimento do contrato firmado entre as partes, negou-se vigência ao artigo 397 do Código Civil e fixou-se como termo a quo para incidência da correção monetária a data da propositura da ação" (fls. 3.010 - destaques no original).
+Quanto à alínea c do permissivo constitucional, a agravante aponta diversos acórdãos como paradigma, afirmando que todos os "(..) casos tratam do inadimplemento de obrigações líquidas e exigíveis, mas o termo a quo da correção monetária foi fixado de forma distinta" (fls. 3.011) do v. acórdão estadual.
+Ao final, requer-se a reconsideração da decisão agravada ou, se mantida, que o presente recurso seja levado a julgamento perante a eg. Quarta Turma.
+Intimada, [NOME] NORTE [NOME] S/A apresentou impugnação (fls. 3.052-3.065), pelo desprovimento do agravo interno.
+É o relatório.
+VOTO
+EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (Relator):
+O recurso em apreço não merece prosperar, na medida em que a agravante não apresentou motivos aptos a justificar a alteração da decisão agravada.
+Com efeito, como assentado na decisão vergastada, apontando ofensa aos arts. 20 e 21 da Lei n. 8.884/94, sustenta a agravante que as condutas que atribui à ora agravada - [NOME] S/A - representam abuso de poder econômico ou comprometimento da livre concorrência. Por sua vez, o eg. TJ-RJ, soberano na análise do acervo fático-probatório carreado aos autos, concluiu que não estava comprovado nos autos o abuso de poder econômico e comprometimento da livre concorrência. É o que se infere da leitura do seguinte excerto do v. acórdão recorrido (fls. 2.433 - grifou-se):
+ "Ressalte-se, ainda, que não se aplica o disposto na lei nº 8.884/94, por não ter pertinência com o que foi pleiteado pela Autora em seu pedido inicial e por não ter sido comprovado nos autos abuso de poder econômico ou comprometimento da livre concorrência."
+Nessa senda, a pretensão de alterar tal entendimento, sob alegada violação aos arts. 20 e 21 da Lei n. 8.884/94, depende do reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, conforme preconiza a Súmula n. 7/STJ.
+Avançando na análise do recurso, tem-se que o art. 397 do Código Civil não está prequestionado, nem mesmo implicitamente, como alega a agravante, apesar da oposição de embargos de declaração no eg. TJ-RJ. Com efeito, se mesmo após o julgamento dos embargos de declaração, o eg. Tribunal a quo continuar omisso quanto à matéria que se pretendia prequestionar, é dever do recorrente, no apelo nobre, apontar violação ao art. 535 do CPC/73 (CPC/2015, art. 1.022), o que não ocorreu no caso em liça. Nesse cenário, o apelo nobre esbarra no óbice da Súmula n. 211/STJ. Nesse sentido, destacam-se:
+ "AGRAVO INTERNO NO AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE, APÓS RECONSIDERAR DELIBERAÇÃO UNIPESSOAL ANTERIOR, NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+(..)
+2. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211 do STJ.
+2.1. Na hipótese, não foi apontada violação do artigo 535 do CPC/73, vigente à época, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema.
+3. Agravo interno desprovido."
+(AgInt no AgRg no AREsp 221.387/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 17/10/2017, DJe 25/10/2017)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ALEGADA ILIQUIDEZ DO TÍTULO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282/STF E 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. PRECEDENTE. RECURSO NÃO PROVIDO.
+(..)
+2. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1098633/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/09/2017, DJe 15/09/2017 - grifou-se)
+Registre-se, ainda, que, ainda que ultrapassado o requisito de admissibilidade do prequestionamento, quanto à correção monetária, o v. acórdão estadual assentou que o termo inicial seria a partir da citação, entendimento arrimado no art. 405 do Código Civil, combinado com o art. 219 do CPC/73, o qual não foi informado nas razões do apelo nobre. Nessa senda, o apelo nobre encontra óbice na Súmula n. 283/STF, pois não impugnou fundamento autônomo e suficiente para manter, por si só, o v. acórdão estadual. Nesse sentido, além dos precedentes já destacados, confiram-se, também:
+"AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE PRESTAÇÃO DE CONTAS - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+(..)
+2. A subsistência de fundamento inatacado apto a manter a conclusão do acórdão impugnado impõe o desprovimento do apelo, a teor do entendimento disposto na Súmula 283 do STF, aplicável por analogia.Precedentes.
+(..)
+4. Agravo interno desprovido."
+(AgInt no AREsp 775.984/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/03/2018, DJe 26/03/2018 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. CONTRATOS DE PRESTAÇÃO DE SERVIÇOS PROFISSIONAIS. ARBITRAMENTO DE HONORÁRIOS. VIOLAÇÃO AO ART. 535 DO CPC/1973. INEXISTÊNCIA DE VÍCIOS NO ACÓRDÃO RECORRIDO. COMPROVAÇÃO DE FATO CONSTITUTIVO DE DIREITO. SÚMULA Nº 7 DO STJ. PRODUÇÃO DE PROVA. INTIMAÇÃO. AUSÊNCIA DE NULIDADE. NÃO DEMONSTRAÇÃO DO PREJUÍZO. FUNDAMENTO INATACADO. SÚMULA Nº 283 DO STF.
+(..)
+4. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto no enunciado da Súmula 283/STF.
+5. Agravo interno não provido."
+(AgInt no AgInt no AREsp 1017785/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/10/2017, DJe 06/11/2017 - grifou-se)
+Finalmente, a decisão agravada deve ser confirmada também quanto ao fundamento de que o recurso especial não merece conhecimento pela alínea c do permissivo constitucional. Como sabido, para a caracterização do alegado dissídio jurisprudencial, não basta a simples transcrição de ementas; devem ser mencionadas as circunstâncias que identificam ou assemelham os casos confrontados, bem como indicada a lei federal a que foi atribuída interpretação divergente. Nessa linha de intelecção, além dos precedentes já homenageados, destacam-se, também, os recentes julgados:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS CONTRATUAIS. COBRANÇA NOS MESMOS AUTOS. AUSÊNCIA DE LITIGIOSIDADE. MATÉRIA DE FATO. DISSÍDIO JURISPRUDENCIAL.
+(..)
+3. Para a caracterização do dissídio jurisprudencial, nos termos dos artigos 541, parágrafo único, do Código de Processo Civil de 1973 e 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça, é necessária a demonstração da similitude fática e da divergência na interpretação do direito entre os acórdãos confrontados, não bastando a simples transcrição de ementas.
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 305.698/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/02/2018, DJe 27/02/2018 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ANÁLISE DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. CLÁUSULA PENAL. RECONHECIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. ARRAS CONFIRMATÓRIAS. IMPOSSIBILIDADE DE RETENÇÃO. CLÁUSULA PENAL EXCESSIVA. PERDA DA TOTALIDADE DOS VALORES PAGOS. REDUÇÃO. POSSIBILIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. SÚMULA 284 DO STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+(..)
+8. A simples transcrição de ementas não basta para que se configure a divergência jurisprudencial alegada. Impõe-se a demonstração do dissídio com a reprodução dos segmentos assemelhados ou divergentes entre os paradigmas colacionados e o aresto hostilizado, o que inocorreu no presente caso.
+9. Agravo interno não provido."
+(AgInt no AgRg no REsp 1197860/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/12/2017, DJe 12/12/2017 - grifou-se)
+
+Nesse cenário, conclui-se que o presente agravo não merece acolhida.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
