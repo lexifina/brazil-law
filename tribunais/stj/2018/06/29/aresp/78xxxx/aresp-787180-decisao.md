@@ -1,0 +1,54 @@
+DECISÃO
+EMERSON GEOVANE DO NASCIMENTO agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Maranhão (Apelação Criminal n. 0013906-30.2013.8.10.0040).
+Depreende-se dos autos que o agravante ingressou com pedido de restituição de bem apreendido (motocicleta), que teria sido utilizado na prática de crime de tráfico de entorpecentes. O pleito foi indeferido pelo Juiz de primeiro grau e o Tribunal de origem negou provimento à apelação da defesa, uma vez que o veículo apreendido teria sido utilizado para o cometimento do delito.
+Sustenta a defesa violação do art. 91, II, "b", do Código Penal, por entender que o confisco do veículo não resguardou o direito de defesa do terceiro interessado, no caso, o recorrente, que não teria relação com a prática do fato criminoso.
+Explicita que "a apreensão recai sobre veículo  motocicleta  financiado com cláusula de inalienabilidade junto a instituição bancária, com saldo devedor em nome do recorrente não envolvido na prática criminosa, em última análise o proprietário é a instituição financeira, figurando o recorrente possuidor contratante" (fls. 191-192).
+Aduz afronta aos arts. 91, II, "b", do Código Penal, 62 e 63 da Lei n. 11.343/2006, ao argumento de que não seria possível o perdimento do bem, de ofício. Afirma que tal medida teria sido determinada com base em mera presunção de que o veículo teria sido adquirido em razão do tráfico e que, além disso, não estaria comprovada a sua utilização com o fim específico de cometer ilícitos.
+Requer o provimento do recurso para que seja autorizada a restituição do veículo apreendido nos autos do processo criminal n. 5756-60.2013.8.10.0040.
+O Ministério Público Federal manifestou-se, às fls. 254-257, pela manutenção da decisão impugnada.
+Decido.
+I. Admissibilidade
+O agravo é tempestivo e preenche os demais requisitos de admissibilidade. Passo à análise das razões do recurso especial.
+II. Contextualização
+Ao decidir pelo perdimento dos bens apreendidos em favor da União, o Juiz sentenciante assim consignou (fl. 105, grifei):
+Compulsando os autos, e considerando que há provas de que os acusados são realmente traficantes de drogas e que os bens apreendidos às fls. 25 e 100/103 certamente é (sic) proveniente da venda ou troca de substância entorpecente, DECRETO o seu perdimento em favor da União, após o trânsito em julgado da sentença, devendo os bens ser revertidos diretamente ao FUNAD segundo procedimento contido na página do endereço eletrônico da SENAD, devendo o Secretário Judicial proceder ao depósito da referida quantia mediante Guia de Recolhimento da União - GRU, nos termos do art. 98 da Lei 10.707/2003.
+O Tribunal de Justiça, por sua vez, confirmou o perdimento sob os seguintes fundamentos (fls. 180-181, destaquei):
+Pela leitura dos autos, depreende-se que a motocicleta foi apreendida com [NOME], processada e condenada pela prática do crime previsto no art. 33 e 35, da Lei 11.343/06.
+Da análise da sentença condenatória, verifica-se que o magistrado fundamentou devidamente o perdimento do bem, vez que, restou comprovado que o veículo era usado para a prática do crime de tráfico.
+Ademais, o art. 62, da Lei 11.343/06, é claro ao dispor que:
+Art. 62. "Os veículos, embarcações, aeronaves e quaisquer outros meios de transporte, os maquinários, utensílios, instrumentos e objetos de qualquer natureza, utilizados para a prática dos crimes definidos nesta Lei, após a sua regular apreensão, ficarão sob custódia da autoridade de polícia judiciária, excetuadas as armas, que serão recolhidas na forma de legislação específica".
+Por sua vez, o art. 91, II, "a", do Código Penal estabelece que poderá ser decretado o perdimento dos bens, como efeito da sentença condenatória, desde que consistam em coisas cujo fabrico, alienação, uso, porte ou detenção constitua fato ilícito.
+Assim, tudo o que for empregado para a realização das condutas infracionais previstas na Lei 11.343/06, deve ser confiscado pelo Estado.
+Caso se procedesse de maneira diversa, dificilmente se conseguiria decretar a perda de veículos de traficantes, posto que, comumente, se utilizam de bens em nome de terceiros para realizarem a empreitada criminosa, podendo, ao alegar a boa-fé do "real proprietário", recuperar o patrimônio.
+Portanto, em que pese à alegação da propriedade do veículo, não há dúvidas de que a motocicleta  ..  foi utilizada por [NOME] no delito de tráfico de drogas.
+III. Perdimento do bem
+De início, é de se salientar que, em uma interpretação literal dos arts. 62 e 63, ambos da Lei n. 11.343/2006, o simples fato de o bem haver sido utilizado para a prática do tráfico de entorpecentes já é condição suficiente para que seja determinado o seu perdimento em sentença, não se fazendo necessária a demonstração de sua utilização habitual para a prática delitiva, sendo, inclusive, um efeito automático da condenação, nos termos do art. 91, II, do CP. Nesse sentido, a ilustrar a jurisprudência desta Corte, o seguinte precedente:
+ ..  2. A perda dos instrumentos e produtos do crime de tráfico ilícito de entorpecentes, em favor da União, é efeito automático da condenação (art. 91, inciso II, do Código Penal).  ..  4. Recurso desprovido. (REsp n. 1.133.957/MG, Rel. Ministra Laurita Vaz, 5ª T., DJe 1º/2/2013)
+No caso, observo dos trechos anteriormente transcritos que o Juízo a quo, ao decretar o perdimento do bem, afirmou que este seria proveniente da venda - ou troca - de substância entorpecente.
+Por sua vez, o Tribunal local, com base nas provas constantes dos autos, entendeu que a motocicleta Yamaha 124, "125" CC PT XTZ-XE, de cor preta, ano 2012, Chassi: 9C6KE1060C0012346, placa OIR 4262, foi utilizada com a finalidade de possibilitar o tráfico de drogas, tornando-se, portanto, um instrumento do crime.
+Assim, não se constata a violação dos dispositivos legais apontados, porquanto cabível o perdimento do bem, uma vez que este foi utilizado para a prática de crime e, do que se depreende dos autos, seria de propriedade da ré - embora terceiro, no caso, o agravante, tenha adquirido o veículo em seu nome. Como bem ponderou o Ministério Público Federal, "o próprio recorrente reconheceu que, embora tenha comprado a motocicleta em seu nome, o bem era da condenada [NOME], a quem cabia o pagamento das prestações com dinheiro proveniente do tráfico. O Ministério Público do Estado do Maranhão bem registra que o recorrente teria apenas "emprestado" o nome para que Karol adquirisse o bem" (fl. 257, grifei).
+Sobre o tema, mutatis mutandis:
+PROCESSO PENAL E PENAL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CABIMENTO DO RECURSO. DECRETAÇÃO DE PERDIMENTO DE VEÍCULO UTILIZADO NO TRÁFICO DE DROGAS. TERCEIRO DE BOA-FÉ QUE ALEGA SER O VERDADEIRO PROPRIETÁRIO DO BEM. DISTRATO DE CONTRATO DE COMPRA E VENDA CELEBRADO COM A RÉ QUE CONDUZIA O VEÍCULO NO MOMENTO DO FLAGRANTE PENAL. INEXISTÊNCIA DE DEMONSTRAÇÃO DA PROPRIEDADE DO BEM. RECURSO IMPROVIDO.
+ ..
+2. Como regra geral, a restituição das coisas apreendidas, mesmo após o trânsito em julgado da ação penal, está condicionada tanto à ausência de dúvida de que o requerente é seu legítimo proprietário, quanto à licitude de sua origem e à demonstração de que não foi usado como instrumento do crime, conforme as exigências postas nos arts. 120, 121 e 124 do Código de Processo Penal c/c o art. 91, II, do Código Penal.
+3. A apreensão e a imposição da pena de perdimento a veículo apreendido em flagrante de tráfico de drogas obedecem, ainda, às regras específicas da Lei 11.343/2006 (arts. 60, 62 e 63).
+4. Não se presta a demonstrar a propriedade do bem o distrato de contrato de compra e venda de automóvel em parcelas, se tal distrato somente foi celebrado após a decretação do perdimento do bem e após o veículo ter sido transferido para o nome da compradora no órgão de trânsito competente, valendo o documento apenas como uma confissão de dívida que poderá, eventualmente, ser cobrada na esfera cível.
+5. Recurso Ordinário a que se nega provimento.
+(RMS 54.243/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 25/8/2017, grifei)
+Ademais, rever o entendimento adotado pelas instâncias ordinárias, para decidir pela restituição do bem alvo de perdimento em favor da União, importaria em reexame do acervo fático probatório dos autos, procedimento vedado em recurso especial, por força do Enunciado Sumular n. 7 deste Superior Tribunal de Justiça.
+Nesse sentido:
+RECURSO ESPECIAL. PENAL. CRIME DE LAVAGEM DE DINHEIRO E FALSIDADE IDEOLÓGICA. NARCOTRÁFICO INTERNACIONAL. CONFISCO DOS BENS. ART. 91 DO CÓDIGO PENAL. QUOTAS DE SOCIEDADE EMPRESÁRIA. EMBARGOS DE TERCEIRO. ARTS. 129 E 130 DO CÓDIGO DE PROCESSO PENAL. IMPROCEDÊNCIA. CONTRADIÇÃO E OMISSÃO NO ACÓRDÃO. INEXISTÊNCIA. BOA-FÉ. NÃO COMPROVAÇÃO. REEXAME. IMPOSSIBILIDADE. SÚMULA 07/STJ.
+I- O confisco é disciplinado no art. 91, do Código Penal, como forma de expropriação, em favor do Estado, dos instrumentos e produtos de crime, com a finalidade de assegurar a indisponibilidade dos bens ilícitos utilizados para a prática da infração ou que tenham sido angariados com a conduta ilícita.
+II- A hipótese prevista no art. 129 do Código de Processo Penal, que cuida da defesa apresentada por terceiro de boa-fé completamente alheio à prática da infração penal, não se confunde com aquela retratada no art. 130, do mesmo codex, em que há, de algum modo, vínculo do embargante com o autor da infração penal ou com a prática do delito.
+ ..
+V- Rever o entendimento das instâncias ordinárias quanto à alegada boa-fé do Recorrente demandaria necessário revolvimento de matéria fática, o que é inviável nesta via especial, a teor da Súmula n. 7 desta Corte Superior.
+VI- Recurso improvido.
+(REsp N. 1.316.694/PR, Rel. Ministra Regina Helena Costa, 5ª T., DJe 3/2/2014, destaquei)
+EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. EFEITOS INFRINGENTES. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. RECURSO CONHECIDO COMO AGRAVO REGIMENTAL. PLEITO DE RESTITUIÇÃO DE VEÍCULO. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+ ..
+3. Tendo a Corte de origem, soberana na apreciação da matéria fático-probatória, concluído pela existência de fortes indícios de que o bem apreendido fora utilizado como instrumento do crime e, por essa razão, ainda interessa ao processo, a desconstituição do julgado encontra óbice na Súmula 7/STJ.
+4. Embargos de declaração conhecidos como agravo regimental, aos quais se negar provimento.
+(EDcl no AREsp N. 870.017/MG, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 17/11/2016, grifei)
+IV. Dispositivo
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", parte final, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
