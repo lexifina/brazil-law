@@ -1,0 +1,26 @@
+EMENTA
+CONFLITO POSITIVO DE COMPETÊNCIA. DEFERIMENTO DE RECUPERAÇÃO JUDICIAL. MEDIDAS DE CONSTRIÇÃO DE BENS INTEGRANTES DO PATRIMÔNIO DA RECUPERANDA PELO JUÍZO FEDERAL. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO DE DIREITO DA 1ª VARA DE RECUPERAÇÃO DE EMPRESAS E FALÊNCIAS DE FORTALEZA/CE.
+DECISÃO
+Alfa Mix Indústria de Produtos Alimentícios Ltda. - em recuperação judicial, sociedade pertencente ao grupo econômico "Grupo CSN - [NOME]", suscita o presente conflito de competência, apontando como suscitados o Juízo de Direito da 1ª Vara de Recuperação de Empresas e Falências de Fortaleza/CE e o Juízo Federal da 33ª Vara da Seção Judiciária do Ceará.
+Alega a suscitante que ingressou com pedido de recuperação judicial (processo n. 0192285-53.2015.8.06.0001), nos termos dos arts. 47 e seguintes da Lei n. 11.101/2005, cujo processamento foi deferido em 2/10/2015 pelo Juízo de Direito da 1ª Vara de Recuperação de Empresas e Falências de Fortaleza/CE. Posteriormente, foi deferido o pedido de prorrogação do prazo previsto no art. 6º da Lei n. 11.101/2005, estendendo-se a suspensão das ações e execuções em desfavor das recuperandas até a realização da assembleia geral de credores.
+Não obstante, segundo a ora suscitante, "em total desrespeito não apenas às decisões judiciais do Juízo da 1ª Vara de Recuperação da Comarca de Fortaleza/CE, mas em clara afronta à Lei nº 11.101/05 e à jurisprudência desta Corte, o Juízo da 33ª Vara Federal da Subseção Judiciária do Estado do Ceará determinou o indeferimento da avocação da execução fiscal ao Juízo Universal da Recuperação Judicial, sendo indiferente à manifestação apresentada pela empresa Executada, determinando a expedição de penhora no rosto dos autos do processo de Recuperação Judicial (processo de n.º 0192285-53.2015.8.06.0001)" (e-STJ, fl. 4).
+Liminar deferida para determinar a imediata suspensão dos atos executórios em relação à suscitante, promovidos pelo Juízo da 33ª Vara Federal da Seção Judiciária do Ceará, no bojo da Execução Fiscal n.º 0811563-67.2016.4.05.8100, e designar o Juízo de Direito da 1ª Vara de Recuperação de Empresas e Falências de Fortaleza/CE para dirimir, em caráter provisório, as questões urgentes (e-STJ, fls. 412-415).
+Informações prestadas às fls. 426-441 e 445-448 (e-STJ).
+Instado, o Ministério Público Federal opinou pela competência do Juízo Universal da recuperação judicial (e-STJ, fls. 450-454).
+Brevemente relatado, decido.
+É cediço o entendimento do STJ no sentido de ser o Juízo onde se processa a recuperação judicial o competente para julgar as causas em que estejam envolvidos interesses e bens da empresa recuperanda, inclusive para o prosseguimento dos atos de execução que envolvam créditos apurados em outros órgãos judiciais (CC n. 110.941/SP, Relatora a Ministra Nancy Andrighi, Segunda Seção, DJe de 1º/10/2010).
+No mesmo sentido:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO FISCAL EM TRÂMITE NO JUÍZO TRABALHISTA. PRÁTICA DE ATOS QUE COMPROMETAM O PATRIMÔNIO DA EMPRESA RECUPERANDA. IMPOSSIBILIDADE. COMPETÊNCIA DO JUÍZO UNIVERSAL. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 97 DA CF E DE DESRESPEITO À SÚMULA VINCULANTE N. 10/STF. DECISÃO MANTIDA.
+ ..
+2. Apesar de a execução não se suspender em face do deferimento do pedido de recuperação judicial (art. 6º, § 7º, da Lei n. 11.105/2005, art. 187 do CTN e art. 29 da Lei n. 6.830/1980), submetem-se ao crivo do juízo universal os atos de alienação voltados contra o patrimônio social das sociedades empresárias em recuperação, em homenagem ao princípio da preservação da empresa.
+3. Agravo regimental a que se nega provimento.
+(AgRg no CC 128.044/SC, Relator o Ministro Antonio Carlos Ferreira, DJe de 3/4/2014)
+PROCESSO CIVIL. AGRAVO NO CONFLITO POSITIVO DE COMPETÊNCIA. EXECUÇÃO FISCAL. SOCIEDADE EMPRESÁRIA SUSCITANTE EM RECUPERAÇÃO JUDICIAL. COMPETÊNCIA DO JUÍZO FALIMENTAR PARA TODOS OS ATOS QUE IMPLIQUEM RESTRIÇÃO PATRIMONIAL. PRECEDENTES.
+1. As execuções fiscais ajuizadas em face da sociedade recuperanda não se suspenderão em virtude do deferimento da recuperação judicial.
+2. Todavia, embora a execução fiscal, em si, não se suspenda, devem ser obstados os atos judiciais que reduzam o patrimônio da sociedade em recuperação judicial, enquanto mantida essa condição. Na hipótese, a aplicação literal do art. 6º, § 7º, da Lei 11.101/05 conduziria à inibição do cumprimento do plano de recuperação previamente aprovado e homologado. Precedentes.
+3. Agravo não provido.
+(AgRg no CC 127.674/DF, Relatora a Ministra Nancy Andrighi, DJe de 30/9/2013)
+Ademais, "o entendimento desta Corte preconiza que, via de regra, deferido o processamento ou, posteriormente, aprovado o plano de recuperação judicial, é incabível a retomada automática das execuções individuais, mesmo após decorrido o prazo de 180 dias previsto no art. 6º, § 4º, da Lei 11.101/2005" (AgRg no CC n. 130.138/GO, Relator o Ministro Raul Araújo, Segunda Seção, DJe de 21/11/2013 - sem grifo no original).
+Ante o exposto, conheço do conflito e, ratificada a liminar, declaro competente o Juízo de Direito da 1ª Vara de Recuperação de Empresas e Falências de Fortaleza/CE para decidir sobre os atos de constrição do patrimônio da suscitante.
+Dê-se ciência desta decisão ao Juízo Federal da 33ª Vara da Seção Judiciária do Ceará.
+Publique-se.
