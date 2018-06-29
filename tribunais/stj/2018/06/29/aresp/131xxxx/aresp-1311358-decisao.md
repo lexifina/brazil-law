@@ -1,0 +1,45 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. PESSOA JURÍDICA. INDEFERIMENTO DO BENEFÍCIO. CONCLUSÃO DO ACÓRDÃO PELA AUSÊNCIA DE COMPROVAÇÃO DA CARÊNCIA DE RECURSOS. INCIDÊNCIA DA SÚMULA 83 DO STJ. REEXAME. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão do Tribunal de Justiça de São Paulo que não admitiu o recurso especial apresentado por Rontan Eletro Metalúrgica Ltda. - em recuperação judicial - e outros, com base no art. 105, III, a, da CF, desafiando acórdão assim ementado (e-STJ, fl. 102):
+Agravo de instrumento. Decisão que determinou a apresentação de documentação comprobatória da hipossuficiência ou, alternativamente, o recolhimento das custas. Inconformismo. Pessoa jurídica.
+Insuficiência de dados com a apresentação de declaração de pobreza. Necessidade de comprovação da hipossuficiência alegada. Inteligência da Súmula 481 do E. STJ. Ausência de provas da necessidade financeira.
+Pessoas naturais. Presunção juris tantum de veracidade da declaração de pobreza elidida pela prova dos autos.
+Artigo 99, § 3º, do Código de Processo Civil. Decisão mantida. Recurso não provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 125-129).
+Nas razões do recurso especial (e-STJ, fls. 132-143), os recorrentes apontaram violação dos arts. 98 e 99 do Código de Processo Civil de 2015.
+Sustentaram, em síntese, que o fato de ter apresentado pedido de recuperação judicial, por si só, é suficiente para comprovar a impossibilidade de arcar com os encargos processuais, sendo merecedora da gratuidade postulada.
+Foram apresentadas contrarrazões (e-STJ, fls. 240-245).
+O Tribunal de origem não admitiu o processamento do recurso especial em virtude da ausência de comprovação de violação dos dispositivos apontados e da incidência da Súmula n. 7 desta Corte (e-STJ, fls. 155-156).
+Brevemente relatado, decido.
+O Tribunal de origem, ao julgar a apelação, consignou o seguinte excerto (e-STJ, fls. 104-109):
+(..)
+É verdade que o Novo Código de Processo Civil traz expressamente a possibilidade de a pessoa jurídica desfrutar dos benefícios da gratuidade processual:
+"Art. 98 A pessoa natural ou jurídica, brasileira ou estrangeira, com insuficiência de recursos para pagar as custas, as despesas processuais e os honorários advocatícios tem direito à gratuidade da justiça, na forma da lei".
+Porém, sabidamente, em relação à pessoa jurídica, ela não se compraz ao benefício da concessão da justiça gratuita pela simples declaração de hipossuficiência, devendo comprovar a incapacidade de custear o processo, ainda que seja entidade sem fins lucrativos.
+(..)
+Aqui, a execução está voltada para a satisfação de importâncias elevadas, a traduzir a magnitude empresarial da coagravante.
+E, por razão dessa relatoria estar vinculado por prevenção a outro feito em que a aqui agravante formulou requerimento igual, impossível ficar distanciado do conhecimento que se tem de que nesse outro processo, agravo de instrumento nº 2000096-88.2017.8.26.0000 (processo principal em curso na comarca de Tatuí), já julgado, onde também lá a agravante se silenciou de produzir dados de sua contabilidade, receitas e extratos bancários, e não lhe foi reconhecido o direito à gratuidade judiciária.
+Mais até. Em outro feito, incidente atrelado à mesma execução da comarca de Tatuí (Agravo nº 2015053-94.2017), lá, por efeito de interesse da exequente, ela destaca a existência de vultoso patrimônio da executada, que transcende em muito os encargos discutidos nessa outra execução, o que por certo explica um cadastro qualificado para os créditos obtidos junto às instituições financeiras, lá e aqui.
+Também a resistência da agravante em ser transparente e abrir sua contabilidade.
+Quanto às pessoas físicas, é verdade que o agravo, em sua maior parte, trata apenas da concessão da gratuidade à pessoa jurídica. Porém, em algumas passagens (como nos últimos parágrafos de fls. 11 e fl. 13), reporta-se também aos demais agravantes (pessoas naturais) como hipossuficientes, razão pela qual não é demais analisar o pedido também em relação a eles.
+A este propósito, como este Relator já descreveu por ocasião do julgamento do agravo de instrumento nº 2000096-88.2017.8.26.0000, não se ignora que a alegação de insuficiência deduzida por pessoa natural gera presunção de veracidade (art. 99, § 3º do CPC).
+No caso, contudo, a alegação não foi feita exclusivamente por pessoa física, mas pela pessoa jurídica e
+seus sócios.
+De outra parte, a presunção gerada é relativa e não absoluta. Portanto, pode o magistrado indeferir a assistência, uma vez existentes elementos que afastem a hipossuficiência alegada.
+(..)
+E a realidade existente nos autos, sendo os postulantes sócios de empresa de grande porte que não conseguiu demonstrar a precariedade financeira em juízo, desfaz a presunção juris tantum derivada da declaração de pobreza.
+Tendo tudo isto em conta, forma-se entendimento aqui conciliado ao do juízo "a quo" de que os agravantes não fazem jus aos benefícios pretendidos, seja a gratuidade, seja o diferimento do recolhimento.
+No que se refere ao pedido de assistência judiciária gratuita, constata-se que a solução dada pelo acórdão recorrido está em consonância com a jurisprudência desta Corte, segundo a qual: "O direito à gratuidade da justiça da pessoa jurídica em regime de liquidação extrajudicial ou de falência depende de demonstração de sua impossibilidade de arcar com os encargos processuais, o que não ficou afigurado na espécie" (AgInt no REsp n. 1.619.682/RO, Relator Ministro Raul Araújo, Quarta Turma, julgado em 15/12/2016, DJe 7/2/2017).
+Nessa mesma linha, o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. 2. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. 3. GRATUIDADE DE JUSTIÇA. PESSOA JURÍDICA. EMPRESA EM LIQUIDAÇÃO EXTRAJUDICIAL. INDEFERIMENTO DO BENEFÍCIO. CONCLUSÃO DO ACÓRDÃO PELA AUSÊNCIA DE COMPROVAÇÃO DA CARÊNCIA DE RECURSOS. INCIDÊNCIA DAS SÚMULAS 7 E 83 DO STJ. 4. CORREÇÃO MONETÁRIA. CABIMENTO E JUROS DE MORA. IMPOSSIBILIDADE. PRECEDENTES. 5. AGRAVO PARCIALMENTE PROVIDO PARA DETERMINAR QUE NÃO HAJA A FLUÊNCIA DE JUROS ENQUANTO NÃO FOR PAGO INTEGRALMENTE O PASSIVO.
+1. Inexiste violação ao art. 1.022 do CPC de 2015, porquanto o acórdão recorrido dirimiu a causa com base em fundamentação sólida, sem nenhuma omissão ou contradição. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, o que de fato ocorreu nos autos.
+2. Falta de prequestionamento dos artigos 98 e 99, § 2º, do CPC/2015. Ainda que superada a ausência de prequestionamento, em observância à inovação trazida pelo art. 1.025 do CPC/2015, tais teses não mereceriam acolhimento, tendo em vista que, para tanto, far-se-ia necessário o reexame de fatos e provas, o que não se admite no âmbito do recurso especial, em razão do disposto nas Súmulas 7 e 83/STJ.
+3. O direito à gratuidade da justiça da pessoa jurídica em regime de liquidação extrajudicial ou de falência depende de demonstração de sua impossibilidade de arcar com os encargos processuais, o que não ficou afigurado na espécie (AgInt no REsp 1.619.682/RO, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 15/12/2016, DJe 7/2/2017). 3.1. O acolhimento do inconformismo, segundo as alegações vertidas nas razões do apelo nobre, demanda revolvimento do acervo fático-probatório dos autos, situação que atrai o óbice do disposto na Súmula 7 do STJ.
+4. É entendimento desta Corte que é devida a correção monetária, mesmo em regime de liquidação extrajudicial, e não há fluência de juros enquanto não integralmente pago o passivo. Por conseguinte, "após a satisfação do passivo aos credores habilitados, e havendo passivo que os suporte, serão pagos os juros contratuais e os legais vencidos durante o período do processamento da falência ou liquidação extrajudicial" (REsp 1.102.850/PE, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 4/11/2014, Dje 13/11/2014).
+5. Agravo interno parcialmente provido para determinar que não haja a fluência de juros enquanto não for pago integralmente o passivo.
+(AgInt no AREsp n. 1.083.938/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 5/12/2017, DJe 15/12/2017).
+Inafastável, no caso em tela, a incidência da Súmula n. 83/STJ.
+Ademais, para elidir as conclusões do aresto impugnado quanto às convicções formadas pelo Tribunal de origem - no sentido de que a documentação presente nos autos era suficiente para a análise da pleiteada gratuidade judiciária e que ela não foi capaz de comprovar a hipossuficiência da recorrente -, seria imprescindível o revolvimento do conjunto fático-probatório dos autos, providência vedada no âmbito do recurso especial, nos termos da Súmula n. 7 do STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
