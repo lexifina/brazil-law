@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por ROBSON TAFAREL BRAZ contra decisão que não admitiu recurso especial ofertado de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+Sustenta a defesa, nas razões do recurso especial, violação do artigo 386, VI, do Código de Processo Penal.
+Aduz que "esta Corte não pode de forma alguma manter tal juízo condenatório, uma vez que o referido acórdão sustenta a condenação apenas na palavra das testemunhas de acusação, uma vez que o apelante afirmou desconhecer a origem ilícita do veículo, assim como o fato de que dentro do mesmo estaria a arma de fogo apreendida" (e-STJ, fl. 338).
+Defende a ausência de provas suficientes para a condenação do agravante, razão pela qual requer sua absolvição quanto aos crimes de receptação e de porte ilegal de arma de fogo de uso permitido.
+O recurso foi inadmitido com fundamento no óbice da Súmula 7/STJ (e-STJ, fls. 351-356).
+O Ministério Público Federal opinou pelo desprovimento do agravo (e-STJ fls. 447-449).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+O Tribunal de origem manteve a condenação do recorrente pelo cometimento dos delitos de receptação e de porte ilegal de arma de fogo, com a seguinte fundamentação:
+"Quanto ao delito de porte ilegal de arma de fogo, muito embora a negativa do réu, sua versão restou isolada nos autos. Ademais, pouco crível que não soubesse da existência do artefato junto do veículo que o próprio conduzia. Os policiais foram uníssonos no sentido de que o réu estava sendo investigado e foi abordado portando arma de fogo, encontrada ao lado do banco do motorista, além de colete balístico e um rádio transmissor.
+Nesse sentido, o simples fato de transportar/portar a arma, por si só, já caracteriza o crime, cuja lesividade do agir é presumida, não retira o caráter criminoso da conduta do réu, pois o Estatuto do Desarmamento dispõe, em tipo penal misto alternativo, as condutas de transportar e trazer consigo arma de fogo, acessório ou munição, sem autorização e em desacordo com determinação legal ou regulamentar.
+Desta maneira, preenchidos os requisitos de materialidade e de autoria delitiva, impositiva a manutenção da condenação do acusado, pelo delito de porte ilegal de arma de fogo como posta.
+No tocante à receptação dolosa do veículo automotor, encontra-se devidamente comprovada a sua prática pelo acusado.
+Cumpre salientar que se tratando de crime cuja previsão legal exige o dolo direto, a conduta do agente somente se enquadrará na modalidade típica se restar demonstrado que este tinha a consciência da origem ilícita do bem, o que se verifica pelos elementos objetivos do fato praticado.
+No caso, o bem fora apreendido com o réu, incumbia-lhe demonstrar razoavelmente os elementos circunstanciais envolvendo o recebimento do automóvel e em quais condições o conduziu em proveito próprio, ônus do qual não se desincumbiu, não havendo se falar em boa-fé na posse do referido bem.
+Ele conduzia o veículo automotor e, quando da abordagem, não possuía qualquer documentação desse automóvel que o legitimasse a com ele trafegar em via pública e tampouco soube precisar a pessoa da qual o teria emprestado, inviabilizando seja reconhecida a sua falta de cuidado ao receber o automóvel ou qualquer hipótese de erro. Além disso, o veículo foi furtado no dia 17.02.2016, na cidade de São Leopoldo e dez dias após o ocorrido, foi apreendido na posse do réu, sendo mais um indício de que tinha ciência da origem ilícita.
+Desse modo, as condições do flagrante, somadas aos depoimentos dos policiais, sobre os quais não se tem dúvida quanto à imparcialidade, eis que seus testemunhos foram colhidos sob o crivo do contraditório e do devido processo legal, não enfrentando dúvida razoável, são elementos legítimos a fundamentar o juízo de procedência.
+Portanto, preenchidos os requisitos de materialidade e de autoria delitiva, impositiva a condenação do acusado, como posta." (e-STJ, fls. 308-309).
+O acórdão combatido, na análise do conjunto probatório constante nos autos, concluiu que "o simples fato de transportar/portar a arma, por si só, já caracteriza o crime" (e-STJ, fl. 308), bem como, quanto ao delito de receptação, "as condições do flagrante, somadas aos depoimentos dos policiais", comprovam o cometimento do delito. Assim, para desconstituir o entendimento firmado pelo Tribunal de origem e decidir pela absolvição do agravante, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 932, III, do CPC c/c art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
