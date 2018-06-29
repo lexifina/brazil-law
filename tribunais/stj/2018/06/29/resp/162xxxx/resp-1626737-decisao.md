@@ -1,0 +1,21 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. BENEFÍCIO CONCEDIDO EM OUTRA DEMANDA. FALTA DE INTERESSE DE AGIR. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, assim ementado (fl. 180, e-STJ):
+ACIDENTE DO TRABALHO. REVISÃO DA RENDA MENSAL INICIAL DO AUXÍLIO-ACIDENTE  EQUIPARAÇÃO AO VALOR TETO DOS MESES DE DEZEMBRO DE 1998 E 2003. BENEFÍCIO CONCEDIDO JUDICIALMENTE EM OUTRA DEMANDA. FALTA DE INTERESSE DE AGIR. AUTOR CARECEDOR DA AÇÃO. EXTINÇÃO DO PROCESSO SEM APRECIAÇÃO DO MÉRITO - ART. 267, VI, DO CPC.
+APELO DO AUTOR IMPROVIDO, COM OBSERVAÇÃO. DECRETAÇÃO DA EXTINÇÃO DO FEITO, POR OUTRO FUNDAMENTO.
+Opostos embargos de declaração, foram rejeitados (fls. 193-198).
+No apelo especial, a parte recorrente alega violação dos seguintes artigos: a) 165, 458, II, 515, caput e § 1º, e 535 do CPC/1973, na medida que o buscou apreciação de sua principal tese (revisão de teto), atrelada às especificidades do caso, sem obtê-la. b) 267 do CPC/1973, requerendo a reforma do acórdão, com o reconhecimento do interesse jurídico na revisão mensal de beneficio concedido em outra ação.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 241, e-STJ.
+É o relatório. Passo a decidir.
+O recurso não merece prosperar.
+De início, afasta-se a alegada falta de prestação jurisdicional, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Acerca do ponto controvertido, fixou o Tribunal de origem (f. 181, e-STJ):
+De proêmio, cumpre ressaltar que embora não ocorra a figura da coisa julgada, em razão da inexistência de identidade dos elementos objetivos entre esta demanda revisional e a anterior que pretendia a concessão do benefício versando, ademais, a lide sobre relação jurídica continuativa, na qual poderá pedir a revisão do que foi estatuído na sentença quando sobrevier modificação de fato ou de direito (art. 471, I, do Código de Processo Civil), o cerne da questão em debate cinge-se, de forma concreta, acerca da equiparação do valor teto, em dezembro de 1998 (R$ 1.200,00) e dezembro de 2003 (R$2.400,00), nos termos estabelecidos pelas Emendas Constitucionais n. 20-98 e 41/03, no recálculo da renda mensal inicial do benefício homologada em outra demanda judicial.
+ ..
+Dito isso, cumpre ressaltar ter o segurado alegado na exordial receber auxílio-acidente de 40%, desde 1º.01.1994 (fl. 9), concedido por meio da sentença judicial proferida nos autos do processo nº 8/92, que tramitou perante a 1ª Vara Cível da Comarca de Santo André/SP; entretanto, a autarquia não aplicou o valor do teto em dezembro de 1998 (R$ 1.200,00) e dezembro de 2003 (R$ 2.400,00), nos termos estabelecidos pelas Emendas Constitucionais n. 20/98 e 41/03, na renda mensal inicial, razão pela qual pleiteia a sua revisão.
+Destarte, aduzo que qualquer discussão acerca da errônea implantação do salário-de-benefício ou salário-de-contribuição concedido naquela demanda, pois a autarquia não teria aplicado o valor teto em relação aos meses de dezembro de 1998 e 2003, não pode ser realizada nessa demanda, mas dentro daqueles próprios autos, inexistindo, assim, o interesse processual."
+Assim, verifica-se que o Tribunal de origem entendeu que o segurado não demonstrou a necessidade processual da tutela jurisdicional. Consignou inexistir razão de ordem lógico-jurídica para não se executar o incidente nos próprios autos da execução da demanda anterior. Nesse contexto, a alteração das conclusões adotadas no acórdão recorrido, tal como colocada a questão nas razões recursais, demandaria, necessariamente, o exame do acervo fático-probatório constante dos presentes autos e também dos parâmetros estabelecidos no julgamento da ação anterior, providência vedada em recurso especial, ante o óbice previsto na Súmula 7/STJ.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
