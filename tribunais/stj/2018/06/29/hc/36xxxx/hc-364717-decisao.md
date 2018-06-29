@@ -1,0 +1,18 @@
+DECISÃO
+HONEI NOGUEIRA SANDIM, paciente neste habeas corpus, estaria sofrendo coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul, que negou provimento ao Agravo em Execução n. 0049304-33.2015.8.12.0001.
+Consta dos autos que o Juízo de Execução indeferiu pedido de reconhecimento de continuidade delitiva formulado pelo paciente (fls. 135-139), o que ensejou a interposição do agravo em execução penal, que não foi provido pelo Tribunal de Justiça estadual.
+Neste writ, alega a impetrante, em suma, constrangimento ilegal consubstanciado na ausência de reconhecimento da continuidade delitiva, defendendo que estão preenchidos os requisitos do art. 71 do CP.
+Assevera que "as condutas do Paciente enquadram-se perfeitamente na continuidade delitiva, uma vez que preencheram todos os requisitos legais, principalmente, no que se refere ao lapso temporal" (fl. 4).
+Requer, liminarmente, a suspensão dos efeitos do acórdão recorrido e, no mérito, pugna pelo reconhecimento da continuidade delitiva.
+Indeferida a liminar e dispensadas as informações, o Ministério Público Federal manifestou-se pelo "não cabimento do habeas corpus" (fl. 199).
+Decido.
+Depreende-se dos autos que o Juízo de primeiro grau indeferiu o pedido de reconhecimento da continuidade delitiva sob os seguintes fundamentos: "considerando as diversas condenações do sentenciado, constata-se sua vocação criminosa, que caracteriza a habitualidade delitiva  .. , afastando a continuidade delitiva  ..  no presente caso, os delitos ocorreram em momentos e locais distintos e independentes, contra vítimas diversas e diferente modos de execução" (fl. 137).
+A Corte estadual, por sua vez, manteve o indeferimento do benefício em questão, sob o fundamento de que a "defesa não rebateu a cognição exarada pelo magistrado singular no sentido de que os roubos em questão tiveram modos de execução absolutamente diferenciados, como se pôde verificar nitidamente na decisão acima transcrita" (fl. 182).
+Conforme entendimento consolidado neste Superior Tribunal, para a caracterização da continuidade delitiva (art. 71 do Código Penal), é necessário que estejam preenchidos, cumulativamente, os requisitos de ordem objetiva (pluralidade de ações, mesmas condições de tempo, lugar e modo de execução) e o de ordem subjetiva, assim entendido como a unidade de desígnios ou o vínculo subjetivo havido entre os eventos delituosos.
+Vale dizer, adotou-se a Teoria Mista ou Objetivo-subjetiva.
+No caso, conforme visto, o Juízo de primeiro grau entendeu inviável o reconhecimento, em favor do paciente, da continuidade delitiva, sob o fundamento de que não houve unidade de desígnios entre os ilícitos de roubo majorado, motivo pelo qual considerou demonstrada a habitualidade criminosa.
+E, consoante orientação desta Corte Superior e do Supremo Tribunal Federal, a reiteração indicativa de delinquência habitual ou profissional é suficiente para afastar a caracterização do crime continuado.
+Nesse sentido, menciono o seguinte julgado da Corte Suprema: "Inviável a unificação das penas pela continuidade delitiva em casos de reiteração criminosa. Precedentes." (HC n. 126.587/SP, Rel. Ministra Rosa Weber, 1ª T., DJe 15/9/2015).
+Ademais, nos termos da jurisprudência deste Superior Tribunal, mostra-se incabível, nos estreitos limites do remédio constitucional, um maior aprofundamento na apreciação dos fatos e das provas constantes nos processos de conhecimento para a verificação do preenchimento das circunstâncias exigidas para o reconhecimento da ficção jurídica do crime continuado.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
