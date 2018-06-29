@@ -1,0 +1,58 @@
+EMENTA
+RECURSO ESPECIAL. PLANO DE SAÚDE. TRATAMENTO DE OBESIDADE MÓRBIDA. MAMOPLASTIA COM COLOCAÇÃO DE PRÓTESE MAMÁRIA. INDICAÇÃO MÉDICA. PROCEDIMENTO NECESSÁRIO E COMPLEMENTAR AO TRATAMENTO. PRECEDENTES. NEGATIVA DE COBERTURA. DANO MORAL CONFIGURADO. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Cuida-se de recurso especial interposto por [NOME], com fulcro no artigo 105, inciso III, alíneas a e c, da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ, fl. 500):
+APELAÇÃO CÍVEL. CIRURGIA REPARADORA PÓS-BARIÁTRICA. IMPLANTE DE [NOME]. CARÁTER ESTÉTICO. EXCLUDENTE CONTRATUAL. CUSTEIO PELO PLANO DE SAÚDE. IMPOSSIBILIDADE. DANO MORAL. INOCORRÊNCIA. Constatado que a cirurgia destinada ao reparo da mama com inclusão de prótese de silicone tem cunho estético, e, havendo cláusula contratual válida que exclua a realização de tal procedimento, não deve a operadora de plano de saúde ser compelida a arcar com o custo do procedimento. O dano moral relativo à negativa de cobertura de intervenção médica, não é inerente ao fato, pois depende das circunstâncias do caso concreto.
+Opostos embargos de declaração, estes foram rejeitados.
+Nas razões do apelo extremo, a insurgente aponta a ocorrência de divergência jurisprudencial e de violação aos arts. 186 e 927 do CC; e 6º, VI, e 47 do CDC.
+Aduz que a cirurgia plástica nos seios seria uma mera continuidade do tratamento contra a obesidade, sendo abusiva qualquer cláusula limitativa do meio adequado ao restabelecimento da saúde e do bem-estar da consumidora.
+Sustenta que as plásticas posteriores ao emagrecimento não podem ser consideradas estéticas, ainda mais porque atestada, por laudo médico, a necessidade de cirurgia com caráter reparador.
+Defende que a recusa indevida de cobertura médica enseja a reparação por danos morais, pois agrava a situação de aflição psicológica e de angústia do segurado.
+Sem contrarrazões (e-STJ, fls. 545-546).
+Admitido o processamento do recurso na origem (e-STJ, fls. 549-550), ascenderam os autos a esta Corte.
+Brevemente relatado, decido.
+Ao analisar a controvérsia, o Tribunal de origem concluiu que a mamoplastia com inclusão de prótese mamária teria finalidade estética, razão pela qual não poderia ser considerada como continuidade no tratamento da obesidade.
+A propósito, confira-se o seguinte excerto sobre o tema (e-STJ, fls. 502-503):
+(..) a cirurgia com o objetivo de correção da mama e inclusão de prótese de silicone, não deve ser compreendida no presente caso, como continuidade no tratamento da obesidade.
+O médico cirurgião plástico, analisou a situação da paciente (autora) e informou a necessidade de inclusão da prótese de silicone nos seios (doc nº 10), tendo o médico mastologista por ela consultado informado a intenção da autora na realização de mamoplastia de aumento com prótese (doc nº 12).
+Entretanto, tais relatórios não são suficientes já que, conforme bem afirmado na sentença, a cláusula nona "o" do contrato (doc nº 22) prevê expressamente a exclusão de cirurgias plásticas com finalidade estética, somente sendo autorizada a mamoplastia caso a hipertrofia mamária possa repercutir sobre a coluna vertebral, o que não é o caso dos autos.
+O entendimento acima externado, entretanto, diverge da jurisprudência desta Corte Superior, firmada no sentido de que, havendo expressa indicação médica, as cirurgias complementares à cirurgia bariátrica, tais como abdominoplastia e mamoplastia, não ostentam caráter meramente estético, mas reparatório.
+A propósito:
+RECURSOS ESPECIAIS - AÇÃO INDENIZATÓRIA - PRETENSÃO DE CONDENAÇÃO AO PAGAMENTO DE DANOS MATERIAIS E MORAIS EM VIRTUDE DA NECESSIDADE DE REALIZAÇÃO DE CIRURGIA PLÁSTICA REPARADORA DE MAMOPLASTIA, COM A COLOCAÇÃO DE PRÓTESES DE SILICONE, NÃO AUTORIZADA PELO PLANO DE SAÚDE, SOB A ALEGAÇÃO DE TRATAR-SE DE PROCEDIMENTO MERAMENTE ESTÉTICO - BENEFICIÁRIA PORTADORA DE OBESIDADE MÓRBIDA - INSTÂNCIAS ORDINÁRIAS QUE JULGARAM PARCIALMENTE PROCEDENTE O PEDIDO VEICULADO NA DEMANDA, A FIM DE DETERMINAR O REEMBOLSO DAS DESPESAS EFETUADAS NOS LIMITES DO CONTRATO ENTABULADO ENTRE A USUÁRIA E A OPERADORA DO PLANO. INSURGÊNCIA DE AMBAS AS PARTES.
+(..)
+1.2 Havendo expressa indicação médica, alusiva à necessidade da cirurgia reparadora, decorrente do quadro de obesidade mórbida da consumidora, não pode prevalecer a negativa de custeio da intervenção cirúrgica indicada - mamoplastia, inclusive com a colocação de próteses de silicone -, sob a alegação de estar abarcada por previsão contratual excludente ("de cobertura de tratamentos clínicos ou cirúrgicos, e próteses, meramente para fins estéticos"); pois, na hipótese, o referido procedimento deixa de ser meramente estético para constituir-se como terapêutico e indispensável. Precedentes.
+(..)
+3. Recursos especiais DESPROVIDOS, mantendo-se na íntegra o acórdão recorrido.
+(REsp 1442236/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 17/11/2016, DJe 28/11/2016)
+AGRAVO REGIMENTAL EM AGRAVO CONTRA A INADMISSÃO DE RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE. TRATAMENTO DE OBESIDADE MÓRBIDA. PACIENTE SUBMETIDO A CIRURGIA BARIÁTRICA. INTERVENÇÃO CIRÚRGICA CORRETIVA. CIRURGIA DE RECONSTRUÇÃO MAMÁRIA. PROCEDIMENTO NECESSÁRIO E COMPLEMENTAR AO TRATAMENTO. COBERTURA DEVIDA. PRESERVAÇÃO DA FINALIDADE CONTRATUAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte de Justiça já teve a oportunidade de perfilhar o entendimento de que, tendo sido o segurado em tratamento de obesidade mórbida, com cobertura da seguradora, submetido à cirurgia bariátrica, deve a operadora do plano de saúde arcar com os tratamentos necessários e complementares ao referido ato cirúrgico, destinados à cura da patologia.
+(..)
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 583.765/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/05/2015, DJe 22/06/2015)
+RECURSO ESPECIAL - AÇÃO ORDINÁRIA - PLANO DE SAÚDE - PRELIMINAR - INFRINGÊNCIA AO PRINCÍPIO DA IDENTIDADE FÍSICA DO JUIZ - NÃO VERIFICAÇÃO, NA ESPÉCIE - MÉRITO - CIRURGIA DE REMOÇÃO DE TECIDO EPITELIAL APÓS A SUBMISSÃO DA PACIENTE-SEGURADA À CIRURGIA BARIÁTRICA - PROCEDIMENTO NECESSÁRIO E COMPLEMENTAR AO TRATAMENTO DA OBESIDADE, ESTE INCONTROVERSAMENTE ABRANGIDO PELO PLANO DE SAÚDE CONTRATADO, INCLUSIVE, POR DETERMINAÇÃO LEGAL - ALEGAÇÃO DE FINALIDADE ESTÉTICA DE TAL PROCEDIMENTO - AFASTAMENTO - NECESSIDADE - COBERTURA AO TRATAMENTO INTEGRAL DA OBESIDADE - PRESERVAÇÃO DA FINALIDADE CONTRATUAL - NECESSIDADE - RECURSO ESPECIAL IMPROVIDO.
+(..)
+II - Encontrando-se o tratamento da obesidade mórbida coberto pelo plano de saúde entabulado entre as partes, a seguradora deve arcar com todos os tratamentos destinados à cura de tal patologia, o principal - cirurgia bariátrica (ou outra que se fizer pertinente) - e os subseqüentes ou conseqüentes - cirurgias destinas à retirada de excesso de tecido epitelial, que, nos termos assentados, na hipótese dos autos, não possuem natureza estética;
+III - As cirurgias de remoção de excesso de pele (retirada do avental abdominal, mamoplastia redutora e a dermolipoctomia braçal) consiste no tratamento indicado contra infecções e manifestações propensas a ocorrer nas regiões onde a pele dobra sobre si mesma, o que afasta, inequivocamente, a tese sufragada pela parte ora recorrente no sentido de que tais cirurgias possuem finalidade estética;
+IV - Considera-se, assim, ilegítima a recusa de cobertura das cirurgias destinadas à remoção de tecido epitelial, quando estas se revelarem necessárias ao pleno restabelecimento do paciente-segurado, acometido de obesidade mórbida, doença expressamente acobertado pelo plano de saúde contratado, sob pena de frustrar a finalidade precípua de tais contrato;
+V - Recurso Especial improvido.
+(REsp 1136475/RS, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 04/03/2010, DJe 16/03/2010)
+Confira-se ainda a seguinte decisão monocrática: AREsp 747.175/SP, Rel. Min. Moura Ribeiro, publicado em 1/12/2015.
+Nesse sentido, caracteriza ato ilícito, passível de reparação moral, a recusa de cobertura do tratamento prescrito por especialista, tendo em vista a previsão expressa de cobertura do plano de saúde para a doença (obesidade mórbida).
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. HOME CARE. NEGATIVA DE COBERTURA. NATUREZA ABUSIVA. RECUSA INJUSTIFICADA. DANO MORAL. CABIMENTO. QUANTUM INDENIZATÓRIO. REVISÃO. NECESSIDADE DE REEXAME DE PROVAS. AGRAVO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça possui entendimento de que, havendo cobertura para a doença, consequentemente deverá haver cobertura para procedimento ou medicamento necessário para assegurar o tratamento de doenças previstas no referido plano. Precedentes.
+2. Nas hipóteses em que há recusa injustificada de cobertura por parte da operadora do plano de saúde para tratamento do segurado, como ocorrido no presente caso, a orientação desta Corte é assente quanto à caracterização de dano moral, não se tratando apenas de mero aborrecimento. Precedentes.
+3. É possível a revisão do montante da indenização por danos morais nas hipóteses em que o quantum fixado for exorbitante ou irrisório, o que, no entanto, não ocorreu no caso em exame, pois o valor da indenização, arbitrado em R$ 10.000,00 (dez mil reais), não é excessivo nem desproporcional aos danos sofridos - recusa do plano de saúde em custear home care.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1223021/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 03/05/2018, DJe 08/05/2018)
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE. TRATAMENTO. OBESIDADE MÓRBIDA. CIRURGIA BARIÁTRICA. COBERTURA. NEGATIVA. DANO MORAL IN RE IPSA. CABIMENTO. QUANTUM DA INDENIZAÇÃO. MINORAÇÃO. IMPOSSIBILIDADE. VALOR DE ACORDO COM OS PARÂMETROS ESTABELECIDOS NO STJ. REVISÃO. SÚMULA Nº 7 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO NÃO PROVIDO.
+(..)
+2. O Superior Tribunal de Justiça entende ser abusiva a cláusula contratual que exclui tratamento prescrito para garantir a saúde ou a vida do beneficiário, porque o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de terapêutica, indicada por profissional habilitado, na busca da cura.
+3. A orientação desta Corte Superior é de que a recusa indevida ou injustificada pela operadora de plano de saúde em autorizar a cobertura financeira de tratamento médico a que esteja legal ou contratualmente obrigada gera direito de ressarcimento a título de dano moral, em razão de tal medida, agravar a situação tanto física quanto psicologicamente do beneficiário. Caracterização de dano moral in re ipsa.
+(..)
+7. Agravo interno não provido, com imposição de multa.
+(AgInt no AgInt no REsp 1622150/PR, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/06/2017, DJe 18/08/2017)
+Desse modo, levando-se em consideração que a Corte estadual se afastou do entendimento acima, torna-se imperiosa a reforma do acórdão recorrido para condenar a recorrida a autorizar e arcar com os custos da cirurgia plástica de mamoplastia, inclusive com a colocação de próteses de silicone, e reconhecer o dano moral, sendo que, em observância aos princípios da proporcionalidade e da razoabilidade, o valor de R$ 10.000,00 (dez mil reais) atende às peculiaridades do caso concreto.
+Diante do exposto, dou provimento ao recurso especial nos termos acima propostos.
+Em razão da modificação da sucumbência, condeno a demandada ao pagamento da totalidade dos ônus sucumbenciais.
+Publique-se.
