@@ -1,0 +1,30 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/1973). CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO À COISA JULGADA. JUROS DE MORA. TERMO INICIAL. INCIDÊNCIA APÓS O 30º DIA DO ENCERRAMENTO DO GRUPO. ENTENDIMENTO EM CONSONÂNCIA COM RECURSO JULGADO SOB O RITO DO REPETITIVO. AUSÊNCIA DE VIOLAÇÃO À COISA JULGADA. EXISTÊNCIA DE FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO ATACADO. SÚMULA 283 DO STF. DESCONTO/ABATIMENTO DOS VALORES JÁ PAGOS ADMINISTRATIVAMENTE QUE CONSTAM DA SENTENÇA EXEQUENDA. VIOLAÇÃO À COISA JULGADA. INOCORRÊNCIA. REVISÃO. SÚMULA 7/STJ. PRINCÍPIO DA VEDAÇÃO DO ENRIQUECIMENTO SEM CAUSA. EXISTÊNCIA DE FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO ATACADO. SÚMULA 283 DO STF. AGRAVO DESPROVIDO.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por [NOME], contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, que restou assim ementado:
+Cumprimento de sentença. Preliminar afastada. Consórcio. Restituição de parcelas. Juros de mora. Termo inicial. Incidência após o 30º dia do encerramento do grupo. Desconto/abatimento dos valores já pagos administrativamente, que além de constar da sentença exequenda, vai ao encontro do princípio da vedação do enriquecimento sem causa. Inocorrência de ofensa à coisa julgada. Reforma parcial apenas quanto ao montante do depósito a ser realizado pelo agravante Joaquim. Incidência de juros de mora e honorários afastados como apurados. Juros de mora e honorários serão devidos, se na fase de cumprimento não houver pagamento depois de intimação para tanto. Litigância de má-fé.
+Inocorrência. Recurso provido em parte, nos termos da fundamentação, prosseguindo-se.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ fls. 272/277).
+Em seu recurso especial, os recorrentes alegam violação aos arts. 475-G e 475-L, VI do CPC, sustentando violação à coisa julgada, haja vista que a decisão proferida na fase de conhecimento manda computar juros de mora a partir do término do grupo de consórcio e não após 30 dias de encerramento do grupo consorcial e impossibilidade de compensação de valores pagos anteriormente à formação do título exequendo, devendo ser afastada a tentativa de desconto não provado na fase de conhecimento.
+É o relatório.
+Passo a decidir.
+Inicialmente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/1973 e com a interpretações dada, até então, pela jurisprudência do Superior Tribunal de Justiça. (cf. Enunciado Administrativo n. 2/STJ).
+A pretensão recursal não merece prosperar.
+No que concerne à incidência dos juros de mora o Tribunal de origem decidiu a matéria em consonância com o entendimento consolidado no julgamento do repetitivo, REsp 1.119.300/RS, Rel. Ministro Luis Felipe Salomão, julgado em 14/04/2010, afastando assim qualquer ofensa à coisa julgada.
+Contudo, contra esse fundamento a parte não se manifestou nas razões do recurso especial, limitando-se a alegar, em síntese, que a decisão proferida na fase de conhecimento manda computar juros de mora a partir do término do grupo de consórcio e não após 30 dias de encerramento do grupo consorcial.
+Diante desse contexto, verifica-se que o referido fundamento, por si só, se mostra suficiente a manter o acórdão recorrido quanto ao ponto, incidindo, portanto, por analogia, o enunciado nº 283 da Súmula do Supremo Tribunal Federal, verbis: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Quanto à alegada impossibilidade de compensação de valores pagos anteriormente à formação do título exequendo, devendo ser afastada a tentativa de desconto não provado na fase de conhecimento, o Tribunal de origem assim se manifestou:
+Na mesma linha, não se vislumbra violação à coisa julgada quanto aos descontos comprovados e considerados.
+Constou da sentença: "O "quantum" devido será procedido de liquidação na forma do 604, par. 2º do CPC, valendo-se a parte do cálculo do perito já produzido nos autos, e, deduzindo-se, ainda, eventuais importâncias já pagas", fl. 84.
+Vê-se que a sentença exequenda foi clara e expressa em relação à dedução de eventuais valores já pagos. A comprovação ocorreria, como, de fato, ocorreu, na fase de liquidação/cumprimento.
+Ademais, apegam-se os agravantes a questão formal momento da prova, mas não negam, propriamente, os pagamentos.
+O desconto/abatimento dos valores já pagos administrativamente, além de constar da sentença exequenda, vai ao encontro do princípio da vedação do enriquecimento sem causa. (e-STJ fls. 243/244).
+Nos termos acima, restou consignado no acórdão recorrido que o desconto/abatimento do valores já pagos administrativamente constaram da sentença exequenda. Desse modo, afastar a conclusão do Tribunal de origem, demandaria a análise do contexto fático probatório dos autos o que encontra óbice na Súmula nº 7/STJ.
+Ademais, restou consignado que o desconto/abatimento vai ao encontro do princípio da vedação do enriquecimento sem causa.
+Contudo, contra esse fundamento a parte não se manifestou nas razões do recurso especial, limitando-se a alegar, em síntese, impossibilidade de compensação de valores pagos anteriormente à formação do título exequendo, devendo ser afastada a tentativa de desconto não provado na fase de conhecimento.
+Assim, verifica-se que o referido fundamento, por si só, se mostra suficiente a manter o acórdão recorrido quanto ao ponto, incidindo, portanto, por analogia, o enunciado nº 283 da Súmula do Supremo Tribunal Federal, verbis: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+ Destarte, o desprovimento do agravo é medida que se impõe.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
