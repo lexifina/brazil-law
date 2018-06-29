@@ -1,0 +1,13 @@
+DECISÃO
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA. VERBAS NÃO REMUNERATÓRIAS. REPERCUSSÃO GERAL RECONHECIDA PELO STF (RE 593.068/SC E RE 576.967/PR). EMBARGOS DE DECLARAÇÃO DOS CONTRIBUINTES ACOLHIDOS, SEM EFEITOS MODIFICATIVOS.
+1. Trata-se de Embargos de Declaração opostos por C&A MODAS LTDA. E OUTRO, em adversidade à decisão que determinou o sobrestamento do feito na origem, nos termos da seguinte ementa:
+PROCESSUAL CIVIL E TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. VERBAS NÃO REMUNERATÓRIAS. REPERCUSSÃO GERAL RECONHECIDA PELO STF (RE 1.072.485/PR, RE 593.068/SC E RE 576.967/PR). DETERMINA-SE O RETORNO DOS AUTOS, SOBRESTANDO-OS NO TRIBUNAL DE ORIGEM PARA OBSERVÂNCIA DO DISPOSTO NO ART. 1.040 DO CPC/2015).
+2. As partes embargantes apontam que paira omissão e obscuridade na r. decisão, pois: (i) o caso concreto também versa sobre a não incidência de Contribuições destinadas a Terceiros, tributos que não são objeto dos supracitados Recursos Extraordinários com repercussão geral; e (ii) o caso concreto não trata sobre o terço constitucional de férias, razão pela qual não merece ser sobrestado com base no RE 1.072.485/PR.
+3. É o relatório.
+4. O Plenário Virtual do Supremo Tribunal Federal reconheceu a existência de repercussão geral da questão constitucional debatida nos autos dos processos RE 593.068/SC e RE 576.967/PR.
+5. Tendo em vista que a questão controvertida nestes autos diz respeito a tema, cuja repercussão geral foi reconhecida pelo STF, o julgamento imediato do Recurso Especial seria prematuro e, sendo assim, os autos devem ser devolvidos ao Tribunal de origem para que, uma vez publicado o acórdão paradigma a ser proferido pelo STF, seja o inconformismo apreciado na forma da lei (art. 1.039 do CPC/2015).
+6. Vale ressaltar que o egrégio Superior Tribunal de Justiça já decidiu sobre a possibilidade de o Relator, levando em consideração razões de economia processual, apreciar o Recurso Especial apenas quando exaurida a competência do Tribunal de origem (AgRg nos EDcl no REsp. 1.283.880/RS, Rel. Min. MAURO CAMPBELL MARQUES, DJe de 13.6.2012). Sendo assim, o tema referente às Contribuições destinadas a terceiros serão posteriormente apreciadas por esta Corte Superior, após o julgamento dos leading cases.
+7. Todavia, as questões tratadas no Apelo Nobre não se referem à incidência de Contribuição Previdenciária incidente sobre o terço constitucional de férias, razão pela qual se impõe esclarecer que houve equívoco na decisão agravada ao determinar o sobrestamento do feito até o julgamento do RE 1.072.485/PR.
+8. Pelo exposto, acolhem-se os Embargos Declaratórios, para sanar o vício acima indicado.
+9. Publique-se.
+10. Intimações necessárias.
