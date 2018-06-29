@@ -1,0 +1,31 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu o recurso extraordinário interposto em face de acórdão da Terceira Câmara Cível do TJ/ES, que manteve sentença de improcedência em ação indenizatória por danos materiais e morais, assim ementado (eDOC-1, p. 287):
+    “APELAÇÃO CÍVEL – AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS – FESTA MUNICIPAL – FURTO DE VEÍCULO EM VIA PÚBLICA – RESPONSABILIDADE CIVIL – INEXISTÊNCIA DE NEXO DE CAUSALIDADE – ATO PRATICADO POR TERCEIROS – SENTENÇA DE IMPROCEDÊNCIA – RECURSO IMPROVIDO.
+    1. Como é cediço, o Estado pode causar danos a terceiros, seja por sua ação ou omissão. Tratando-se de conduta omissiva, é necessário verificar se a omissão representou ou não o fato gerador da responsabilidade, tendo em vista que nem toda omissão estatal traduz descaso do Estado no cumprimento de seus deveres legais.
+    2. Destarte, apenas quando o Estado se omitir diante do dever legal consistente em impedir a ocorrência do dano, é que poderá ser responsabilizado civilmente e estará obrigado a reparar os danos havidos.
+    3. Verificando dos autos provas no sentido de que o veículo furtado não estava sob a guarda do município, mas sim em via pública, o ato praticado por terceiro não pode ser imputado ao ente municipal.
+    4. Assim, inexiste dever de indenizar na espécie quando não há ato ilícito que possa ser imputado aos réus, tampouco, nexo causal entre as suas atuações e o dano sofrido pela vítima.
+    5. Recurso improvido”.
+    Os embargos declaratórios opostos foram improvidos (eDOC 1, p. 321).
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se violação aos artigos 5º, X e 144, caput, da Constituição da República.
+    Nas razões recursais sustenta-se, em suma, que “ficou provada a culpa dos requeridos no evento danoso, pois caso o veículo estivesse guardado na garagem, o que não foi possível (...), certamente não teria sido furtado” (eDOC 1, p. 363).
+    A Vice-Presidência do TJ/ES inadmitiu o recurso extraordinário com base no óbice da Súmula 279 do STF (eDOC 2, p. 14-17).
+    É o relatório. Decido.
+    A Corte de origem, quando do julgamento da apelação, assentou que (eDOC 1, p. 294-301):
+    “Com efeito, a responsabilidade do Estado por condutas omissivas pressupõe o dever legal de agir de seus agentes que, desatendendo à imposição legal, não agem.
+    Dessa omissão resulta o dano ao particular, sendo, por essa razão, entendida como uma conduta ilícita. Apenas haverá responsabilidade civil do Estado, portanto, quando presentes os elementos que caracterizam a culpa.
+    Na espécie, o furto do automóvel do apelante, por terceiros, na via pública, não pode ser atribuído aos recorridos.
+    A prova testemunhal produzida em Juízo corrobora, a meu sentir, a ausência de nexo de causalidade entre o dano e a suposta conduta dos requeridos (....).
+    A meu sentir, extrai-se do conjunto probatório carreado aos autos que o fato ocorrido descrito na inicial da exordial não ocorreu por culpa dos requeridos, sendo que, na verdade, as provas coligidas demonstram que aos moradores que possuíam veículos a serem estacionados na redondeza onde eram confeccionados os tapetes do evento religioso era disponibilizado um espaço para aqueles que não conseguissem guardar os seus bens nas respectivas garagens.
+    (...) Outrossim, não há como afirmar, com a absoluta certeza que se espera de um édito condenatório, que mesmo que o ente municipal colocasse à disposição, daqueles que frequentassem a festividade ou as suas redondezas, agentes municipais no local do crime, que eles poderiam ter ali atuado de maneira a impedir a subtração do veículo. E, apenas nessas circunstâncias, é que se poderia cogitar da responsabilidade do ente municipal.
+    Inquestionável o prejuízo sofrido pelo recorrente ante o furto de seu veículo, todavia, inexiste nexo de causalidade entre o dano suportado e a alegada omissão do município”.
+    Desse modo, para se chegar a conclusão diversa daquela a que chegou o Tribunal a quo, quanto à responsabilidade civil dos recorridos, seria necessário o reexame dos fatos e provas dos autos, o que encontra óbice na Súmula 279 do STF. Nesse sentido, confiram-se os seguintes precedentes:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. ACIDENTE DE TRÂNSITO. ANIMAL NA PISTA. MORTE DE CONDUTOR. NEXO DE CAUSALIDADE. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279/STF. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. AGRAVO INTERNO DESPROVIDO” (ARE 1.086.669-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 04.04.2018).
+    “Agravo regimental em agravo de instrumento. 2. Responsabilidade civil de shopping center em ação indenizatória por danos materiais. Furto de objetos do interior do veículo ocorrido em garagem do estabelecimento. 3. Incidência da Súmula 279. 4. Agravo regimental a que se nega provimento” (ARE 696.664-agR, rel. Min. Gilmar Mendes, Segunda Turma, DJe 04.09.2012).
+    “Agravo regimental no recurso extraordinário com agravo. Responsabilidade civil do Estado. Ausência de amparo social. Nexo de causalidade não demonstrado na origem. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. As instâncias ordinárias concluíram, com base nos fatos e nas provas dos autos, que não foram devidamente demonstrados os pressupostos necessários à configuração da responsabilidade civil do Estado. 2. Inadmissível, em recurso extraordinário, o reexame dos fatos e das provas da causa. Incidência da Súmula nº 279/STF (...)” (ARE 1.114.714-AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 05.06.2018).
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, “a”, do Código de Processo Civil.
+    Nos termos do art. 85, § 11, do CPC, majoro em 1/4 (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo e a suspensão da exigibilidade por ser a parte beneficiária da justiça gratuita (eDOC 1, p. 217).
+    Publique-se.
+    Brasília, 29 de junho de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
