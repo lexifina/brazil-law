@@ -1,0 +1,17 @@
+Decisão: Trata-se de pedido de concessão de salvo-conduto, até o julgamento do presente agravo regimental, formulado pela defesa do ora paciente Guilherme Gibertoni Anselmo (Pet. STF 19.055/2018, eDOCs 42-43).
+    O requerente sustenta, em síntese:
+    “(...) os autos foram levados a Julgamento Virtual, iniciado em 23.03.2018. Todavia, no mesmo dia em que se iniciou o sobredito julgamento virtual, o feito foi retirado de pauta pelo preclaro Ministro DIAS TOFOLLI, com pedido de destaque.
+    (...)
+    Neste particular, e considerando que a retirada de pauta com pedido de destaque pode (i) levar dias – quiçá meses – até o processo ser novamente pautado, eis que o adiamento se deu sine die, e que (ii) tão logo ocorrer o julgamento dos embargos de declaração do Paciente, (cf. Anexo. 01) junto ao Tribunal Bandeirante, será expedido mandado de prisão - consoante acórdão do apelo -, é o presente petitório, para que Vossa Excelência, preclaro Ministro Relator, no uso de suas atribuições, determine, em juízo de retração do Agravo interno em habeas corpus, a expedição imediata de Salvo Conduto em favor do Paciente, até que se finalize o julgamento das ADCs 43 e 44, ocasião em que a controvérsia haverá de ser dirimida, positivamente.” (eDOC 42, p. 3)
+    É o breve relatório.
+    Decido.
+    Preliminarmente, em consulta ao portal eletrônico do TJ/SP, considero relevante que a 3ª Câmara Criminal daquela Corte, em 22.5.2018, não conheceu dos quartos embargos de declaração opostos do acórdão, o qual, nos autos da Apelação 0008588-02.2011.8.26.0619, negou provimento ao recurso do réu, ora requerente, e deu provimento ao recurso do Ministério Público, para exasperar as penas fixadas na sentença (eDOC 6, p. 1-55), no tocante ao delito de tráfico de entorpecentes, “ficando as sanções totalizadas em reclusiva de 11 (onze) anos e 10 (dez) meses, com financeira de 1.293 (mil, duzentas e noventa e três) diárias mínimas de multa” (eDOC 13, p. 1-31).
+    Ademais, por ora, considero incólumes os fundamentos contidos na decisão que denegou a presente ordem de habeas corpus, fundada no artigo 192, caput, do RI/STF, sobretudo o seguinte:
+    “Sobre o tema, assevero que o Plenário do Supremo Tribunal Federal, no julgamento do HC 126.292/SP, de relatoria do Min. Teori Zavascki, DJe 17.5.2016, firmou entendimento no sentido de ser possível o início da execução da pena na pendência de recurso extraordinário ou especial. Isso porque, no plano legislativo, o art. 637 do CPP prevê que os recursos extraordinários não têm efeito suspensivo. Logo, uma decisão condenatória de segunda instância poderia ser executada na pendência do recurso.
+    No caso, consoante relatado, a condenação do paciente (sentença, eDOC 6, p. 1-55) foi parcialmente mantida no julgamento dos recursos de apelação pelo TJ/SP (acórdão, eDOC 13, p. 1-31), o qual também rejeitou os primeiros e segundos embargos de declaração opostos pela defesa (acórdão, eDOC 16, p. 1-4; portal eletrônico do TJ/SP), fato que possibilita a imediata execução da reprimenda, com fundamento no decidido pelo Plenário do Supremo Tribunal Federal no HC 126.292/SP, não havendo falar na ocorrência de constrangimento ilegal decorrente de alegada coisa julgada.” (eDOC 36, p. 4-5)
+    Ante o exposto, indefiro o presente pedido de pedido de concessão de salvo-conduto.
+    Publique-se.
+    Brasília, 29 de junho de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
