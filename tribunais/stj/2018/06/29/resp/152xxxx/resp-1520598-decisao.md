@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Banco Santander Brasil S/A, com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 122):
+PRELIMINAR - INÉPCIA DA INICIAL - Inadmissibilidade Atendimento regular dos requisitos do art. 282 do CPC - Preliminar afastada.
+PRELIMINAR - ILEGITIMIDADE PASSIVA - Inadmissibilidade - Relação jurídica entre as partes - Viabilidade da pretensão formulada em face do banco - Hipótese em que a obrigação do banco de exibir ou não os documentos apontados é questão de mérito - Preliminar afastada.
+PRELIMINAR - FALTA DE INTERESSE DE AGIR - Inadmissibilidade - Regularidade da pretensão exibitória - Observância ao prazo da prescrição trintenária - Preliminar afastada.
+CAUTELAR - EXIBIÇÃO DE DOCUMENTOS EXTRATOS DO FGTS
+Documentos comuns às partes - Cabe ao banco, fornecedor de serviços, informar adequadamente seus clientes  Requisitos para o deferimento da exibição que estão presentes - Hipótese em que a r. sentença apreciou corretamente os elementos fáticos e jurídicos existentes nos autos, além de estar satisfatoriamente fundamentada Aplicação do art. 252 do RITJ  Sentença integralmente mantida  Recurso não provido.
+Opostos embargos declaratórios, foram rejeitados (fls. 135/138).
+Irresignada, a parte recorrente aponta, além da divergência jurisprudencial, violação aos arts. 3º, 267, IV e § 3º, 741, III, do CPC. Para tanto, sustenta que, consoante prescreve o art. 24 do Decreto 99.684/90, compete à CEF, na qualidade de agente operador do FGTS, a custódia dos extratos analíticos do FGTS, de modo que seria parte ilegítima para figurar no polo passivo da demanda. Aduz que a matéria foi pacificada pelo STJ no julgamento do REsp 1.108.034/RN, sob rito dos recursos repetitivos e, desse modo, requer o conhecimento e provimento do presente apelo.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Feita essa observação, passo à analise do recurso especial.
+A respeito do tema veiculado no presente feito, o Superior Tribunal de Justiça, no julgamento do REsp 1.108.034/RN (Rel. Ministro Humberto Martins, Primeira Seção, DJe 25/11/2009), submetido ao rito do art. 543-C do CPC/73, firmou entendimento no sentido de que a responsabilidade pela apresentação dos extratos analíticos do FGTS é exclusiva da Caixa Econômica Federal, mesmos nos casos referentes a período anterior a 1992, ainda que, para adquirir tais extratos, seja necessário requisitá-los aos bancos depositários, inclusive com relação aos extratos anteriores à migração das contas que não tenham sido transferidas à CEF.
+Por oportuno, merece transcrição a ementa do referido precedente:
+TRIBUTÁRIO - FGTS - APRESENTAÇÃO DE DOCUMENTO - EXTRATOS ANALÍTICOS DAS CONTAS VINCULADAS - RESPONSABILIDADE DA CEF - PRECEDENTES.
+1. O entendimento reiterado deste Tribunal é no sentido de que a responsabilidade pela apresentação dos extratos analíticos é da Caixa Econômica Federal - enquanto gestora do FGTS -, pois tem ela total acesso a todos os documentos relacionados ao Fundo e deve fornecer as provas necessárias ao correto exame do pleiteado pelos fundistas.
+2. Idêntico entendimento tem orientado esta Corte nos casos em que os extratos são anteriores a 1992, nas ações de execução das diferenças de correção monetária das contas do FGTS. A responsabilidade é exclusiva da CEF, ainda que, para adquirir os extratos, seja necessário requisitá-los aos bancos depositários, inclusive com relação aos extratos anteriores à migração das contas que não tenham sido transferidas à CEF.
+Acórdão sujeito ao regime do art. 543-C do CPC e da Resolução STJ 08/08.
+Recurso especial conhecido em parte e improvido.
+(REsp 1.108.034/RN, Rel. Ministro HUMBERTO MARTINS, PRIMEIRA SEÇÃO, DJe 25/11/2009)
+Destarte, o acórdão recorrido não merece subsistir, pois o Banco Santander é parte ilegítima para figurar no polo passivo da demanda.
+Nesse contexto, resta prejudicado o exame dos demais pontos agitados nas razões recursais.
+Ante o exposto, dou provimento ao recurso especial, nos termos da fundamentação acima, para julgar improcedente a pretensão inicial e extinguir o processo, sem resolução de mérito, nos termos do art. 269, VI, do CPC/73. Por conseguinte, inverto os ônus sucumbenciais.
+Publique-se.
