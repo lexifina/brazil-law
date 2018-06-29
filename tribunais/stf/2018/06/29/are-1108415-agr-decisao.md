@@ -1,0 +1,13 @@
+Trata-se de agravo regimental interposto contra decisão que negou seguimento ao recurso extraordinário com agravo (documento eletrônico 59).
+    A agravante sustenta, em suma, que a decisão agravada deve ser reformada, ao argumento de que i) a jurisprudência deste Tribunal não é pacífica quanto à incompetência da Justiça do Trabalho para resolução de questões, como a atual, situadas na seara jurídico-administrativa [...] do concurso público; e ii) quanto à preterição do direito à nomeação de candidato em razão da terceirização de atividades, no caso concreto, não havia vaga disponível, inexistindo, assim, emprego público vago a amparar a pretensão dos recorridos sob os mesmos moldes do precedente citado. (págs. 2 e 5 do documento eletrônico 59).
+    Pede o provimento do presente recurso, ou que seja determinada à Corte de origem a apreciação das razões recursais à luz do Tema de repercussão geral adequado ao caso, como dito, o tema 784 (RE 837.311). (pág. 7 do documento eletrônico 59).
+    É o relatório. Decido.
+    Bem reexaminados os autos, verifico assistir parcial razão à parte agravante, motivo pelo qual passo a reexaminar o recurso.
+    Inicialmente, esclareço que quanto ao Tema 784 da Repercussão Geral, RE 873.311-RG, da relatoria do Ministro Luiz Fux, que se trata de direito à nomeação de candidatos aprovados fora do número de vagas previstas no edital de concurso público no caso de surgimento de novas vagas durante o prazo de validade do certame, não se aplica ao presente caso que se refere à preterição do direito à nomeação de candidato em razão da terceirização de atividades.
+    Verifico, entretanto, que o Supremo Tribunal Federal, no julgamento recente (27/4/2018) do RE 960.429-RG/RN, Tema 992 da Repercussão Geral, da relatoria do Ministro Gilmar Mendes, reconheceu a repercussão geral da temática relativa a discussão quanto à competência para processar e julgar controvérsias nas quais se pleiteiam questões afetas à fase pré-contratual de seleção e de admissão de pessoal e eventual nulidade do certame, em face de pessoa jurídica de direito privado.
+    Assim, tendo em vista a identidade entre a questão debatida nestes autos e a relativa ao Tema 992 da Repercussão Geral, impõe-se a reconsideração da decisão agravada para submissão deste recurso extraordinário ao regime da repercussão geral.
+    Isso posto, com fundamento no art. 317, § 2°, do Regimento Interno do Supremo Tribunal Federal, reconsidero a decisão recorrida (documento eletrônico 58), e determino a devolução destes autos à origem a fim de que seja observado o disposto no art. 1.036 do Código de Processo Civil.
+    Publique-se.
+    Brasília, 29 de junho de 2018.
+Ministro Ricardo Lewandowski
+Relator
