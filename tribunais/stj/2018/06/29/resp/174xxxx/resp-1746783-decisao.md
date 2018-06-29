@@ -1,0 +1,24 @@
+EMENTA
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE JUNTADA DE CÓPIA INTEGRAL DA PETIÇÃO DO RECURSO NÃO INTERPOSTO ELETRONICAMENTE. NECESSIDADE. COMUNICAÇÃO. JUÍZO DA CAUSA. NÃO CONHECIMENTO DO RECURSO. TEMA EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. RECURSO ESPECIAL IMPROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por Banco Pan S.A., fundado no art. 105, inciso III, alíneas a e c, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná assim ementado (e-STJ, fl. 139):
+AGRAVO DE INSTRUMENTO - AÇÃO DE BUSCA E APREENSÃO - DECISÃO QUE REJEITOU A EXCEÇÃO DE PRÉ-EXECUTIVIDADE APRESENTADA PELA ORA AGRAVANTE E HOMOLOGOU O CÁLCULO APRESENTADO PELO SR. CONTADOR JUDICIAL. PRELIMINAR (ARGUIDA EM CONTRARRAZÕES) DE NÃO CONHECIMENTO DO RECURSO: ALEGAÇÃO DE NÃO CUMPRIMENTO DO ARTIGO 1.018 DO CÓDIGO DE PROCESSO CIVIL - PROCEDÊNCIA - AGRAVANTE QUE NÃO JUNTOU CÓPIA DAS RAZÕES DO RECURSO E DEMAIS DOCUMENTOS AOS AUTOS PRINCIPAIS DENTRO DO PRAZO LEGAL - NÃO NECESSIDADE DESSA JUNTADA SOMENTE QUANDO SE TRATAR DE PROCESSOS (DEMANDA ORIGINÁRIA E RECURSO) QUE TRAMITEM POR MEIO ELETRÔNICO - INTELIGÊNCIA DO ARTIGO 1.018 DO CÓDIGO DE PROCESSO CIVIL - PRELIMINAR ACOLHIDA - RECURSO NÃO CONHECIDO.
+Não foram apresentados embargos de declaração.
+Nas razões do recurso especial, a insurgente aponta, além de divergência jurisprudencial, violação ao art. 1.018, § 2º, do CPC/2015.
+Sustenta que os autos principais são eletrônicos, e somente o agravo tramita por via física e a lei apenas exige a juntada de cópia do agravo de instrumento nos autos principais em caso de autos físicos.
+Juízo positivo de admissibilidade (e-STJ, fls. 216-217).
+Brevemente relatado, decido.
+De início, verifico que o recurso foi interposto na vigência do novo Código de Processo Civil. Sendo assim, sua análise obedecerá ao regramento nele previsto. Portanto, aplica-se, na hipótese, o Enunciado Administrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Dito isso, a Corte originária perfilhou entendimento consentâneo com a jurisprudência deste Tribunal Superior: é obrigatória a juntada, no prazo de 3 (três) dias, da cópia da petição do agravo de instrumento e do comprovante de sua interposição aos autos do processo, por se tratar de processo físico.
+Confira-se:
+PROCESSO CIVIL - ART. 526, CAPUT E PAR. ÚNICO, DO CÓDIGO DE PROCESSO CIVIL - COMUNICAÇÃO OBRIGATÓRIA APÓS O ADVENTO DA LEI N. 10.352/2001 - NÃO CONHECIMENTO DO AGRAVO DE INSTRUMENTO - DESCONSTITUIÇÃO DO ACÓRDÃO RECORRIDO. RECURSO ESPECIAL PROVIDO.
+I. O descumprimento do mandamento legal previsto no artigo 526 do Código de Processo Civil é repelido por esta Corte, culminando no não conhecimento do Agravo de Instrumento. Precedentes.
+II. Antes da alteração trazida pela Lei n. 10.352/01, o único prejudicado pelo descumprimento da norma inserida no artigo 526 do Código de Processo Civil era o próprio Agravante. Com o advento da Lei n. 10.352/01, que acresceu o parágrafo único ao artigo 526 do CPC, tornou-se de cumprimento obrigatório pelo Agravante a apresentação dos documentos exigidos, sob pena de não conhecimento do Agravo de Instrumento.
+III. Existência de questões supervenientes que devem ainda ser analisadas e decididas pela Justiça de origem, quanto a eventual reintegração do ora recorrente na direção das empresas.
+IV. Recurso Especial provido, com observação.
+(REsp 1183842/AP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 26/10/2010, DJe 11/11/2010)
+Mutatis mutandis, "a finalidade da regra prevista no art. 526 do CPC é dar ciência ao juízo de primeiro grau da interposição do agravo para que este possa exercer, se entender cabível, a retratação, e, principalmente, proporcionar à parte contrária o exercício de sua defesa, evitando-se qualquer prejuízo processual. Inexistindo prejuízo à parte agravada e tendo esta exercido o seu direito de defesa, não há que se falar em nulidade" (AgRg no AREsp 636.518/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/9/2015, DJe de 13/10/2015).
+A par disso, não é possível acolher o inconformismo, pois ele se encontra em contraste com a jurisprudência desta Corte. Incidência da Súmula 83/STJ.
+Por fim, não ficou demonstrada a divergência. Consoante dispõe o RISTJ, é dever do recorrente mencionar as circunstâncias que identifiquem ou assemelhem os casos confrontados, de modo a evidenciar a similitude fática entre os julgados e a divergência de interpretações, não sendo suficiente, para tanto, a simples transcrição de ementas.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
