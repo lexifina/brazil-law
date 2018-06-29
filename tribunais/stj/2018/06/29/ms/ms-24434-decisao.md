@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Mandado de Segurança, com pedido de liminar, impetrado por [NOME], contra ato praticado pela Casa Civil da Presidência da República, em face do indeferimento de requerimento administrativo de acesso à informação relativa aos documentos preparatórios de Decretos e Medidas Provisórias, editados pela Presidência da República entre os anos de 2014 e 2017.
+Sustenta o impetrante que:
+"Dessa forma, resta evidenciado que a edição de atos normativos pela Presidência da República deve ser instruída com documentos preparatórios específicos, que devem ser recebidos, complementados, verificados e estão sob a guarda da Casa Civil da Presidência da República, conforme disciplina a legislação.
+(..)
+É direito fundamental do cidadão receber dos órgãos públicos as informações de interesse particular, coletivo ou geral, prestadas no prazo da lei, conforme assegura o inciso XXXIII, do art. 5; o caput e o inciso II, do parágrafo 3o do art. 37 e o parágrafo 2o, do art. 216, da Constituição Federal. In verbis:
+(..)
+O direito já é regulado por lei que estabelece os procedimentos a serem observados com o fim de garantir o acesso à informação, conforme disciplina o caput, do art. 3o, e o inciso I, do art. 6o, da Lei 12.527/2011.
+(..)
+No âmbito da União, o direito é devidamente regulado para assegurar o direito de acesso à informação, mediante procedimento objetivo e ágil, assegurando o direito de acesso a documento preparatório ou informação nele contida, assegurado o acesso a partir da edição do ato ou decisão, conforme dispõem o inciso XII do art. 3o, e o art. 20, do Decreto 7.724/2012.
+(..)
+É direito fundamental, imprescindível ao exercício da cidadania, compreender as circunstâncias de fato e de direito que levam o administrador público a agir (motivo) e o interesse público, fim mediato das atividades estatais, a ser promovido com o ato (finalidade). Ambos os requisitos não se exaurem dentro da forma que assume o próprio ato normativo, devendo ser recuperados nos documentos preparatórios que subsidiam o processo decisório, onde estão registradas as devidas justificativas de mérito e legalidade do normativo.
+(..)
+É, portanto, obrigação da União, por meio da Casa Civil da Presidência da República, disponibilizar de forma ativa os documentos preparatórios utilizados como fundamento para a tomada de decisão de ato normativo assim que forem editados, conforme dispõe o art. 20, do Decreto 7.724/2012.
+(..)
+Por essa razão, é indispensável exigir, por meio deste remédio constitucional, o cumprimento da obrigação da autoridade coatora para com o acesso público dos documentos preparatórios de forma ativa - com a publicação dos documentos sem a necessidade de requerimento administrativo prévio. De outra forma, a atitude abusiva e ilegal de impor sigilo aos referidos documentos terá continuidade - não só para com os atos normativos já editados, mas também para com aqueles que ainda o serão.
+(..)
+Desta forma, tanto por não dispor da informação de forma ativa, conforme prevê a legislação de regência, independentemente de solicitação; quanto de forma passiva, por meio de requerimento administrativo, não resta outra solução ao impetrante senão recorrer ao remédio constitucional adequado: o mandado de segurança.
+(..)
+Presentes os requisitos autorizadores do pedido liminar, o mesmo deve ser deferido de imediato, haja vista o fundado receio na demora do provimento judicial e a existência da plausibilidade do direito pleiteado, sob pena da parte impetrante, permanecer submetida à situação abusiva e ilegal da autoridade coatora" (fls. 6/15e).
+Requer, assim, a concessão de liminar, "para determinar que a autoridade coatora preste imediatamente as informações solicitadas no requerimento administrativo de acesso à informação (protocolo 00077000613201891), prestando a devida declaração quando o documento preparatório não existir para o ato normativo solicitado" (fl. 15e) e, a final, a concessão da segurança, nos termos do pedido.
+Nos termos do art. 105, I, b, da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, os Mandados de Segurança impetrados "contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal".
+Dos autos, verifico que o impetrante não indicou qual o ato de efeito concreto do Ministro de Estado da Casa Civil da Presidência da República - autoridade impetrada que atrairia a competência do Superior Tribunal de Justiça para processar e julgar o feito - teria violado direito líquido e certo seu, apresentando apenas a decisão que negou provimento ao recurso, oferecido contra o decisum de indeferimento de seu pleito, prolatada pela Ouvidora-Geral da União (fl. 41e).
+Nesse contexto, o ato indigitado coator não foi praticado pelo Ministro de Estado da Casa Civil da Presidência da República, restando evidenciada a incompetência do Superior Tribunal de Justiça para processar e julgar o writ, em face da sua manifesta ilegitimidade para figurar no polo passivo do presente Mandado de Segurança.
+Ante o exposto, reconheço a incompetência do Superior Tribunal de Justiça para processar e julgar o presente writ, determinando a remessa do feito à Justiça Federal do Distrito Federal, nos termos do disposto no art. 64, § 3º, do CPC/2015.
+I.
