@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] PRODUTOS PARA CALÇADOS LTDA., fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO DE INSTRUMENTO. Execução de título extrajudicial. Decisão que aceitou a arguição de impenhorabilidade do bem de família. Irresignação da parte exequente. Descabimento. Bem de família. Regras dos artigos 1º, "caput", e 5º da Lei 8.009/90, que resguarda o imóvel residencial da entidade familiar. Circunstâncias do caso concreto que demonstram que o executado reside no bem objeto da constrição. Alegação de que o bem é suntuoso que não afasta a impenhorabilidade legal. Precedentes do STJ. Reconhecida a impenhorabilidade do imóvel constrito. Decisão mantida. Recurso não provido" (e-STJ fl. 238).
+No especial, além de divergência jurisprudencial, a recorrente alega violação do artigo 2º da Lei nº 8.009/1990.
+Sustenta que a impenhorabilidade do bem de família tem por objetivo garantir uma moradia digna para a unidade familiar, mas sem luxo.
+Aduz que não se pode "deixar que o luxo e a ostentação ultrapassem o limite de meros adornos para necessidade da pessoa humana" (e-STJ fl. 252).
+Afirma que o imóvel que se pretende a penhora é de alto custo, possuindo sauna, piscina e quadras esportivas, motivo por que tais embelezamentos não podem ser considerados imprescindíveis para a sobrevivência da família.
+Argumenta que,para evitar o enriquecimento sem causa do devedor, deve a parte suntuosa do imóvel ser penhorada, tanto mais que numa eventual constrição, haverá numerário suficiente para a aquisição de outro imóvel com as mesmas características.
+Não foi aberta vista para a apresentação de contrarrazões (e-STJ fl. 270).
+O recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame direto do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+Trata-se, na origem, de ação de execução de título extrajudicial proposta por [NOME] para Calçados Ltda. contra a decisão que reconheceu a impenhorabilidade do bem objeto da matrícula nº 56.314 por constituir bem de família.
+O Tribunal de origem manteve a decisão que determinou a impenhorabilidade do bem, ainda que se trate de imóvel de alto padrão, tendo em vista que tal fato não tem o condão de afastar a impenhorabilidade legal.
+De fato, a despeito das argumentações da recorrente, o pedido de penhora por se tratar de imóvel de alto padrão não é apto, por si só, a afastar a aplicação da proteção legal do bem de família.
+No caso concreto, o Tribunal de origem concluiu pela existência de provas de que executado Márcio e sua família residem no imóvel, enquadrando-se, portanto, como bem de família.
+Assim, o acórdão recorrido está em consonância com a jurisprudência deste Superior Tribunal de Justiça, firmada no sentido de que imóveis de alto padrão não são excluídos da proteção do bem de família.
+A esse respeito, os seguintes precedentes:
+"CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. BANCÁRIO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA DE IMÓVEL. BEM DE FAMÍLIA. PLURALIDADE DE IMÓVEIS RESIDENCIAIS. ART. 5º, PARÁGRAFO ÚNICO, DA LEI Nº 8.009/90. MENOR VALOR. INEXIGIBILIDADE. NA AUSÊNCIA DE OUTROS IMÓVEIS UTILIZADOS COMO RESIDÊNCIA DA FAMÍLIA A IMPENHORABILIDADE DEVE SER RECONHECIDA INDEPENDENTE DO VALOR DO IMÓVEL. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
+(..)
+2. A Lei nº 8.009/90, ao instituir a impenhorabilidade do bem de família, buscou proteger a família ou da entidade familiar, de modo a tutelar o direito constitucional fundamental da moradia e assegurar um mínimo para uma vida com dignidade dos seus componentes.
+(..)
+4. Os imóveis residenciais de alto padrão ou de luxo não estão excluídos, em razão do seu valor econômico, da proteção conferida aos bens de família consoante os ditames da Lei nº 8.009/90.
+(..)
+7. Recurso especial provido" (REsp 1.482.724/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 14/11/2017, DJe 28/11/2017).
+"RECURSO ESPECIAL - CUMPRIMENTO DE SENTENÇA EM AÇÃO DE COBRANÇA POR DESPESAS DE MANUTENÇÃO E MELHORIAS DE LOTEAMENTO - PRETENSÃO DE PENHORA DO ÚNICO BEM DE PROPRIEDADE DA EXECUTADA SOB A ALEGAÇÃO DE TRATAR-SE DE IMÓVEL DE LUXO (ALTO VALOR) - TRIBUNAL A QUO QUE MANTEVE O INDEFERIMENTO DO PEDIDO DE PENHORA DA UNIDADE HABITACIONAL INDIVIDUAL ANTE O NÃO ENQUADRAMENTO NAS HIPÓTESES DE EXCEÇÃO À ALUDIDA GARANTIA (IMPENHORABILIDADE).
+IRRESIGNAÇÃO DO EXEQUENTE.
+Hipótese: Controvérsia envolvendo a possibilidade de reinterpretação do instituto da impenhorabilidade do bem de família com vistas a alargar as hipóteses limitadas, restritas e específicas de penhorabilidade descritas na legislação própria, ante a arguição de que o imóvel é considerado de alto valor.
+1. O bem de família obrigatório está disciplinado na Lei nº 8.009/90 e surgiu com o objetivo de proteger a habitação da família, considerada, pela Constituição Brasileira, elemento nuclear da sociedade.
+2. Em virtude do princípio da especificidade "lex specialis derogat legi generali", prevalece a norma especial sobre a geral, motivo pelo qual, em virtude do instituto do bem de família ter sido especificamente tratado pelo referido ordenamento normativo, é imprescindível, tal como determinado no próprio diploma regedor, interpretar o trecho constante do caput do artigo 1º "salvo nas hipóteses previstas nesta lei", de forma limitada. Por essa razão, o entendimento do STJ é pacífico no sentido de que às ressalvas à impenhorabilidade ao bem de família obrigatório, é sempre conferida interpretação literal e restritiva. Precedentes.
+3. A lei não prevê qualquer restrição à garantia do imóvel como bem de família relativamente ao seu valor, tampouco estabelece regime jurídico distinto no que tange à impenhorabilidade, ou seja, os imóveis residenciais de alto padrão ou de luxo não estão excluídos, em razão do seu valor econômico, da proteção conferida aos bens de família consoante os ditames da Lei 8009/90.
+4. O momento evolutivo da sociedade brasileira tem sido delineado de longa data no intuito de salvaguardar e elastecer o direito à impenhorabilidade ao bem de família, de forma a ampliar o conceito e não de restringi-lo, tomando como base a hermenêutica jurídica que procura extrair a real pretensão do legislador e, em última análise, a própria intenção da sociedade relativamente às regras e exceções aos direitos garantidos, tendo sempre em mente que a execução de crédito se realiza de modo menos gravoso ao devedor consoante estabelece o artigo 620 do CPC/73, atual 805 no NCPC.
+5. A variável concernente ao valor do bem, seja perante o mercado imobiliário, o Fisco, ou ainda, com amparo na subjetividade do julgador, não afasta a razão preponderante justificadora da garantia de impenhorabilidade concebida pelo legislador pelo regime da Lei nº 8.009/90, qual seja, proteger a família, garantindo-lhe o patrimônio mínimo para sua residência.
+6. Na hipótese, não se afigura viável que, para a satisfação do crédito, o exequente promova a penhora, total, parcial ou de percentual sobre o preço do único imóvel residencial no qual comprovadamente reside a executada e sua família, pois além da lei 8009/90 não ter previsto ressalva ou regime jurídico distinto em razão do valor econômico do bem, questões afetas ao que é considerado luxo, grandiosidade, alto valor estão no campo nebuloso da subjetividade e da ausência de parâmetro legal ou margem de valoração.
+7. Recurso especial desprovido" (REsp 1.351.571/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Rel. p/ Acórdão Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/09/2016, DJe 11/11/2016).
+Incide à espécie, portanto, o Enunciado de Súmula nº 568/STJ.
+Registra-se, por fim, que embora seja possível o desmembramento do imóvel em unidades autônomas, sem que com isso fique descaracterizado a qualidade de bem de família, o fato é que não há como concluir que o imóvel em questão admite referido desmembramento, tendo em vista que a agravante apenas relacionou as benfeitorias voluptuárias existentes no imóvel, as quais, de acordo com a orientação dessa Corte, também usufruem da garantia da impenhorabilidade.
+Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. PENHORA. BEM DE FAMÍLIA. IMÓVEL CONSIDERADO DE ALTO PADRÃO. IRRELEVÂNCIA. IMPENHORABILIDADE. POSSIBILIDADE DE DESMEMBRAMENTO NÃO IDENTIFICADA. PRETENSÃO DE EXCLUSÃO DE BENFEITORIAS. IMPOSSIBILIDADE. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. O filho, integrante da entidade familiar, tem legitimidade para opor embargos de terceiro, objetivando proteger o imóvel onde reside com os pais. Precedentes.
+2. A jurisprudência desta Corte assegura a prevalência da proteção legal ao bem de família, independentemente de seu padrão. A legislação é bastante razoável e prevê inúmeras exceções à garantia legal, de modo que o julgador não deve fazer uma releitura da lei, alegando que sua interpretação atende melhor ao escopo do diploma legal.
+3. Admite-se, excepcionalmente, a penhora de parte do imóvel quando for possível o seu desmembramento em unidades autônomas, sem descaracterizá-lo, levando em consideração, com razoabilidade, as circunstâncias e peculiaridades do caso. Situação não demonstrada no caso dos autos.
+4. A impenhorabilidade se estende às construções e benfeitorias integrantes da residência familiar, dado que a lei, em sua finalidade social, procura preservar o imóvel residencial como um todo. Precedentes.
+5. Agravo interno não provido" (AgInt no REsp 1.520.498/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 27/02/2018, DJe 02/03/2018).
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
