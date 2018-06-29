@@ -1,0 +1,18 @@
+EMENTA
+DIREITO CIVIL. RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO. ALIENAÇÃO FIDUCIÁRIA DE BEM IMÓVEL. LEILÃO EXTRAJUDICIAL. INTIMAÇÃO PRÉVIA DO DEVEDOR. NECESSIDADE.
+1. A jurisprudência do STJ se consolidou no sentido de que é necessária a intimação pessoal do devedor acerca da realização do leilão extrajudicial.
+2. Recurso especial conhecido e provido.
+DECISÃO
+Cuida-se de recurso especial interposto por [NOME], fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: anulatória, ajuizada pela recorrente e por [NOME], em face de ITAU UNIBANCO S.A, na qual requerem a anulação de leilão extrajudicial de imóvel submetido à execução hipotecária, tendo em vista a ausência de intimação pessoal dos autores.
+Sentença: julgou procedente o pedido.
+Acórdão: deu provimento à apelação interposta pelo recorrido, a fim de julgar improcedente o pedido, nos termos da seguinte ementa:
+ALIENAÇÃO FIDUCIÁRIA DE IMÓVEL - NULIDADE DE PROCEDIMENTO EXTRAJUDICIAL - Celebrado "instrumento particular de venda e compra de bem imóvel", com garantia de alienação fiduciária referente ao imóvel matriculado sob o número 42.894, do 3º Cartório de Registro de Imóveis de São Paulo - Ausente a intimação dos Autores (devedores fiduciantes) quanto à realização dos leilões - Nulidade do procedimento de execução extrajudicial - SENTENÇA DE PROCEDÊNCIA, para declarar "a nulidade do procedimento expropriatório extrajudicial e dos respectivos efeitos" e "o direito dos Autores de purgarem o débito" - Inadimplemento contratual resulta na consolidação da propriedade em favor do credor fiduciário - Cabível a alienação do bem em leilão, o que ocorreu, com a realização de duas hastas, sem a arrematação do bem por ausência de licitantes, com a consequente adjudicação pelo Requerido - Artigo 27 da Lei número 9.514/97 (procedimento do leilão) não impõe a obrigação da intimação dos devedores fiduciantes quanto à realização do leilão - Válido o procedimento de execução extrajudicial do bem imóvel objeto da alienação fiduciária - RECURSO DO REQUERIDO PROVIDO, PARA JULGAR IMPROCEDENTE A AÇÃO
+Recurso especial: alega a violação dos arts. 34 do DL 70/66 e 39 da Lei 9.514/97, bem como dissídio jurisprudencial. Argumenta que o mutuário tem o direito de purgar sua dívida até a assinatura do auto de arrematação. Sustenta a necessidade de intimação pessoal do devedor acerca da data do leilão extrajudicial, sob pena de nulidade.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/15
+- Da necessidade de intimação pessoal do devedor acerca da data da realização de leilão extrajudicial (Súmula 568/STJ)
+ O acórdão recorrido, ao reconhecer desnecessidade de intimação do devedor acerca da data do leilão extrajudicial de imóvel submetido à execução hipotecária, divergiu do entendimento do STJ, no sentido de que, no âmbito do DL 70/66, é necessária a intimação pessoal do devedor acerca da data da realização do leilão extrajudicial, entendimento que se aplica aos contratos regidos pela Lei 9.514/97, referente à alienação fiduciária de coisa imóvel. Nesse sentido: AgRg no REsp 1.367.704/RS, 3ª Turma, DJe 13/08/2015 e AgInt no AREsp 1.109.712/SP 4ª Turma, DJe 06/11/2017.
+O TJSP contrariou, ainda, do entendimento do STJ no sentido de que é possível a purgação da mora até a assinatura do auto de arrematação. Nesse sentido: AgInt no AREsp 1.132.567/PR, 4ª Turma, DJe de 6/11/2017; e REsp 1.462.210/RS, 3ª Turma, DJe de 25/11/2014).
+Forte nessas razões, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, com fundamento no art. 932, V, "a", do CPC/15, bem como na Súmula 568/STJ, para restabelecer a sentença.
+Publique-se. Intimem-se.
