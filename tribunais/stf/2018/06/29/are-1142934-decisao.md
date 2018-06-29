@@ -1,0 +1,23 @@
+DECISÃO: O presente agravo foi interposto por Anamaria Peixoto e Souza Cruz contra decisão que negou trânsito ao apelo extremo por ela deduzido, no qual sustentou que o acórdão, confirmado em sede de embargos de declaração pela 1ª Turma Recursal do Juizado Especial Federal em Minas Gerais, teria transgredido o preceito inscrito no art. 37, XV, da Constituição da República.
+    O exame dos presentes autos evidencia que o recurso extraordinário em questão não se revela viável.
+    É que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Lei nº 11.358/2006), circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    A mera análise do acórdão em referência demonstra que o órgão judiciário de origem, ao proferir a decisão questionada, apoiou-se em dispositivos de ordem meramente legal:
+    “1. Recorre a parte autora da sentença que julgou improcedente pedido de restabelecimento do pagamento de VPNI decorrente de quintos/décimos, suprimida a partir da alteração do regime remuneratório dos procuradores federais para subsídio, por força da Lei 11.358/2006. Alega, em síntese, que a VPNI convive legalmente com regime de subsídio.
+    2. Correto o juízo de origem ao julgar improcedente a demanda, com base em dois fundamentos centrais: a) ausência de direito adquirido a regime jurídico remuneratório; b) ausência de redução remuneratória no caso concreto. Nesse sentido é pacífica a jurisprudência pátria, em especial do STF. (…).”
+    Cabe registrar, finalmente, que o entendimento ora exposto tem sido observado em sucessivas decisões proferidas no âmbito desta Suprema Corte (ARE 995.806/DF, Rel. Min. DIAS TOFFOLI – ARE 1.017.312/SP, Rel. Min. LUIZ FUX – ARE 1.037.310/SP, Rel. Min. CELSO DE MELLO, v.g.):
+    “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCURADOR DA FAZENDA NACIONAL. MEDIDA PROVISÓRIA 43/2000 E LEI 10.549/2000. MATÉRIA INFRACONSTITUCIONAL. ARTS. 5º, XXXVI, E 37, XIV, DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS STF 282 E 356. IMPOSSIBILIDADE, NO CASO, DE PREQUESTIONAMENTO IMPLÍCITO.
+    1. Não tendo sido apreciada pelo Tribunal ‘a quo’ a questão constitucional em que se apoia o extraordinário, não se encontra configurado o prequestionamento. Súmulas STF 282 e 356.
+    2. A jurisprudência sedimentada desta Corte não admite, em princípio, o chamado prequestionamento implícito. Precedentes.
+    3. É inadmissível recurso extraordinário no qual, a pretexto de ofensa a princípios constitucionais, pretende-se o reexame de legislação infraconstitucional.
+    4. Agravo regimental a que se nega provimento.”
+    (AI 811.716-AgR/RS, Rel. Min. ELLEN GRACIE)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. PROCURADOR DA FAZENDA NACIONAL. REESTRUTURAÇÃO DA CARREIRA. MEDIDA PROVISÓRIA N. 43/2002. LEI N. 10.549/2002 IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    A jurisprudência do Supremo Tribunal Federal firmou entendimento no sentido de que a verificação, no caso concreto, da ocorrência ou não de contrariedade ao direito adquirido, se dependente da análise prévia da legislação infraconstitucional, configuraria ofensa constitucional indireta.”
+    (RE 612.031-AgR/SC, Rel. Min. CÁRMEN LÚCIA)
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 29 de junho de 2018.
+Ministro CELSO DE MELLO
+Relator
