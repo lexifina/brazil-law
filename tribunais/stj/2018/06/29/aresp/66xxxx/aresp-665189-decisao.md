@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo fundado no CPC/73, interposto pelo Instituto Nacional de Colonização e Reforma Agrária, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fls. 546/547):
+ADMINISTRATIVO. DESAPROPRIAÇÃO POR INTERESSE SOCIAL.REGULARIZAÇÃO FUNDIÁRIA. RETITULAÇÃO. RESSARCIMENTO DOS CUSTOS. CORREÇÃO MONETÁRIA E JUROS DE MORA. LEI N.º 11.960/2009.
+1. Havendo, em razão de regularização fundiária, a retitulação do imóvel, resta afastada a hipótese de prejuízo ao patrimônio do expropriado, bem como a possibilidade de indenização. A parte expropriada tem, no entanto, o direito de reaver o valor equivalente ao efetivamente pago a título de retitulação, devidamente atualizado, relativamente à área de que detinha a propriedade.
+2. As parcelas em atraso devem ser acrescidas de juros moratórios, incidentes desde a citação, e atualizadas monetariamente da seguinte forma: a) até a MP nº 2.180-35/2001, que acresceu o art. 1º-F à Lei nº 9.494/97, deve incidir correção monetária, desde os respectivos vencimentos, pela variação dos indexadores previstos no Manual de Cálculos da Justiça Federal, e juros de mora à razão de 1% ao mês; b) a partir da MP nº 2.180-35/2001 e até a edição da Lei nº 11.960/2009 deve incidir correção monetária, desde os respectivos vencimentos, pela variação dos indexadores previstos no Manual de Cálculos da Justiça Federal, e juros de mora à razão de 0,5% ao mês; c) a partir da entrada em vigor da Lei nº 11.960/09, nas condenações impostas à Fazenda Pública, haverá a incidência uma única vez, até o efetivo pagamento, dos índices oficiais de remuneração básica e juros aplicados à caderneta de poupança. Essa nova disciplina legal tem aplicação imediata sem, contudo, retroagir ao período anterior à sua vigência.
+3. Os juros de mora não podem incidir de forma capitalizada a partir da vigência da nova redação do art. 1º-F da Lei 9.494/97, tendo em vista que este dispositivo legal, ao estabelecer que os índices devem ser aplicados "uma única vez", veda expressamente tal possibilidade.
+4. Parcialmente reformada a sentença atacada.
+Opostos embargos declaratórios, foram parcialmente providos, para fins de prequestionamento (fls. 576/586).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 535 do CPC/73 e 186, 884, parágrafo único, 885, 886 e 944 do Código Civil, sustentando que: (I) o acórdão foi omisso ao não se manifestar sobre as questões aventadas nos aclaratórios; e (II) não houve dano indenizável à parte expropriada, que continuou com a posse do bem.
+O Ministério Público Federal opinou pelo desprovimento do agravo (fls. 718/724).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Feita essa observação, verifica-se não ter ocorrido ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Nos termos da orientação jurisprudencial deste Superior Tribunal, tendo a instância de origem se pronunciado de forma clara e precisa sobre as questões postas nos autos, assentando-se em fundamentos suficientes para embasar a decisão, como no caso concreto, não há falar em omissão no acórdão estadual, não se devendo confundir fundamentação sucinta com ausência de fundamentação (REsp 763.983/RJ, Rel. Min. NANCY ANDRIGHI, Terceira Turma, DJ 28/11/05).
+Dessarte, observa-se pela fundamentação do acórdão recorrido (fls. 537/545), integrada em sede de embargos declaratórios (fls. 576/584), que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Afasta-se, assim, a alegada omissão ou negativa de prestação jurisdicional tão somente pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Frise-se que o Tribunal não fica obrigado a examinar todos os artigos de lei invocados no recurso, desde que decida a matéria questionada sob fundamento suficiente para sustentar a manifestação jurisdicional, dispensável a análise dos dispositivos que pareçam para a parte significativos, mas que para o julgador, se não irrelevantes, constituem questões superadas pelas razões de julgar.
+A propósito, confiram-se:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRATO. SEGURO, VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. CÓDIGO DE DEFESA DO CONSUMIDOR. SÚMULA Nº 211/STJ. AUSÊNCIA DE COBERTURA. SÚMULA Nº 7/STJ.
+1. Não viola o artigo 535 do Código de Processo Civil, nem importa negativa de prestação jurisdicional, o acórdão que adotou, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelos recorrentes, para decidir de modo integral a controvérsia posta.
+2. A tese recursal vinculada aos artigos do código consumerista, apontados como violados, não foi analisada pelo Tribunal local, sequer de modo implícito, atraindo ao caso, portanto, o óbice da Súmula nº 211/STJ.
+3. Não há impropriedade em afirmar a falta de prequestionamento e afastar a indicação de afronta ao artigo 535 do CPC, haja vista que o julgado pode estar devidamente fundamentado, sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelo recorrente, pois, como consabido, não está o julgador a tal obrigado. Precedentes.
+ ..
+5. Agravo regimental não provido.
+(AgRg no REsp 1.386.843/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 6/2/2014, DJe 24/2/2014)
+PROCESSUAL CIVIL - ADMINISTRATIVO - LICITAÇÃO - EXECUÇÃO DO CONTRATO - SUCESSÃO DE EMPRESAS - OMISSÃO NÃO VERIFICADA - ART. 515 DO CPC - FALTA DE PREQUESTIONAMENTO - SÚMULA 211/STJ.
+1. A teor da Súmula 211/STJ, é inadmissível recurso especial para exame de matéria que não foi objeto de prequestionamento.
+2. Em nosso sistema processual, o juiz não está adstrito aos fundamentos legais apontados pelas partes. Exige-se, apenas, que a decisão seja fundamentada. Aplica o magistrado ao caso concreto a legislação por ele considerada pertinente.
+3. Inexiste afronta ao art. 535 do CPC, quando a omissão alegada nos embargos de declaração é sobre questão desinfluente para a solução do litígio.
+4. Recurso especial da primeira recorrente não conhecido e improvido o recurso da segunda recorrente.
+(REsp 804.921/AL, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 15/5/2007, DJ 28/5/2007)
+Por sua vez, quanto ao pleito que objetiva o afastamento do dever de indenizar, colhe-se o seguinte excerto do julgado recorrido (fls. 542/543):
+Ressalto, no entanto, que a devolução do valor pago pela retitulação é cabível. De acordo com o Superior Tribunal de Justiça, deve ser feita a indenização dos valores despendidos para obtenção da retitulação.
+Nesse sentido, colaciono o seguinte julgado:
+PROCESSUAL. CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. DESAPROPRIAÇÃO PARA FINS DE REFORMA AGRÁRIA REGULARIZAÇÃO FUNDIÁRIA. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. RETITULAÇÃO DO EXPROPRIADO. DIREITO A RESTITUIÇÃO DOS VALORES PAGOS PARA OUTORGA DEFINITIVA DO TÍTULO DE PROPRIEDADE. PRECEDENTES.
+1. Não ocorre ofensa ao art. 535 do CPC se o Tribunal de origem decide, fundamentadamente, as questões essenciais ao julgamento da lide.
+2. Na especial forma de desapropriação para fins de reforma agrária que visa à regularização fundiária. o expropriado. posteriormente retitulado na área, tem direito à restituição de eventuais valores despendidos para outorga definitiva do titulo de propriedade.
+3. Recurso especial não provido.
+(STJ. RESP 1251533/PR, 2ª TURMA, Ministra ELIANA CALMON, DJe 24-10-2013 - grifei)
+Tendo havido, portanto, despesas com a retitulação por parte do expropriado, faz-se necessário que a apelante o indenize.
+Denota-se, pois, que a Corte a quo, ao manter o dever de indenizar, alinhou-se à jurisprudência deste Sodalício sobre o tema, a qual se firmou no sentido de que o expropriado faz jus ao ressarcimento dos valores gastos com a retitulação do bem objeto da desapropriação em regularização fundiária.
+A propósito, vejam-se:
+ADMINISTRATIVO. RECURSO ESPECIAL. DESAPROPRIAÇÃO. TERRAS DE FRONTEIRA. PARANÁ. RETITULAÇÃO. SUBSTITUIÇÃO PROCESSUAL. EXTINÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. JULGAMENTO ALHEIO AO PEDIDO (EXTRA PETITA). NÃO OCORRÊNCIA. PERÍCIA. DISPENSA. AUDIÊNCIA. NULIDADE. PREJUÍZO. NÃO DEMONSTRAÇÃO. SÚMULA 7/STJ.
+ ..
+3. É cabível em ação expropriatória com os peculiares fins de regularização fundiária a concessão de indenização exclusivamente em relação à retitulação, não havendo que se falar em julgamento alheio ao pedido (extra petita).
+4. Recurso especial conhecido em parte e, nessa extensão, não provido.
+(REsp 1.183.098/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 3/4/2018, DJe 9/4/2018)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO EXPROPRIATÓRIA. REGULARIZAÇÃO FUNDIÁRIA. CESSAÇÃO. CONFLITOS. RETITULAÇÃO. CABIMENTO. RESTITUIÇÃO. DESPESAS. ENTE FEDERAL.
+1. "Na peculiar situação em que, promovida a regularização, os desapropriados acabam contemplados com o título de domínio sobre a própria área objeto de desapropriação, é-lhes devida indenização dos valores despendidos para obter a re-titulação" (REsp 652.194/PR, Rel. Ministro Teori Albino Zavascki, Primeira Turma, julgado em 13/11/2007, DJ 29/11/2007, p. 162).
+2. Não merece trânsito o recurso especial contra acórdão que julga a controvérsia em conformidade à jurisprudência dominante do Superior Tribunal de Justiça. Inteligência da Súmula 83/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 621.507/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 3/3/2015, DJe 10/3/2015)
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. DESAPROPRIAÇÃO PARA FINS DE REFORMA AGRÁRIA. REGULARIZAÇÃO FUNDIÁRIA. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. RETITULAÇÃO DO EXPROPRIADO. DIREITO À RESTITUIÇÃO DOS VALORES PAGOS PARA OUTORGA DEFINITIVA DO TÍTULO DE PROPRIEDADE. PRECEDENTES.
+ ..
+2. Na especial forma de desapropriação para fins de reforma agrária que visa à regularização fundiária, o expropriado, posteriormente retitulado na área, tem direito à restituição de eventuais valores despendidos para outorga definitiva do título de propriedade.
+3. Recurso especial não provido.
+(REsp 1.251.533/PR, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 15/10/2013, DJe 24/10/2013)
+PROCESSUAL CIVIL. ART. 535 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. ADMINISTRATIVO. DESAPROPRIAÇÃO. REFORMA AGRÁRIA. REFORMA AGRÁRIA. REGULARIZAÇÃO FUNDIÁRIA. REDISTRIBUIÇÃO DA ÁREA, COM OS CORRESPONDENTES TÍTULOS DE DOMÍNIO, AOS PRÓPRIOS DESAPROPRIADOS. INDENIZAÇÃO DO VALOR DAS DESPESAS COM A RETITULAÇÃO. CABIMENTO. PRECEDENTES. JUROS MORATÓRIOS. TERMO INICIAL: 1º DE JANEIRO DO EXERCÍCIO SEGUINTE ÀQUELE EM QUE O PAGAMENTO DEVERIA SER FEITO. SÚMULA VINCULANTE 17/STF. MATÉRIA DECIDIDA PELA 1ª SEÇÃO, NO RESP 1.118.103/SP, DJE DE 08/03/2010, SOB O REGIME DO ART. 543-C DO CPC. ESPECIAL EFICÁCIA VINCULATIVA DESSE PRECEDENTE (CPC, ART. 543-C, § 7º), QUE IMPÕE SUA ADOÇÃO EM CASOS ANÁLOGOS. RECURSO ESPECIAL A QUE SE DÁ PARCIAL PROVIMENTO.
+(REsp 983.623/PR, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, julgado em 5/4/2011, DJe 15/4/2011)
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
