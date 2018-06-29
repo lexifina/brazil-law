@@ -1,0 +1,39 @@
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO NA ÉGIDE DO NCPC. AÇÃO DE EXECUÇÃO. EMBARGOS. CHEQUE EMITIDO POR ENDOSSO. ESTIPULAÇÃO EM CLÁUSULA CONTRATUAL ACERCA DA EFETIVA PRESTAÇÃO DOS SERVIÇOS PARA SUA EXIGÊNCIA. INEXISTÊNCIA NOS AUTOS DESSA COMPROVAÇÃO ALTERAÇÃO DO JULGADO. IMPOSSIBILIDADE. REVOLVIMENTO DE MATÉRIA FÁTICA. SÚMULAS NºS 5 E 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+PLUS FACTORING FOMENTO MERCANTIL LTDA (PLUS) ajuizou ação de execução contra LUCIA REGINA DE OLIVEIRA SILVEIRA (LUCIA) (e-STJ, fls. 1/17).
+Opostos embargos à execução por LUCIA, a sentença foi de improcedência dos pedidos, condenando a embargante ao pagamento das custas e despesas processuais, além de honorários fixados em 10% sobre o valor do débito (e-STJ, fls. 124/126).
+Interposta apelação por LUCIA, o tribunal de origem negou provimento ao recurso, nos termos do acórdão assim ementado:
+CAMBIAL - Cheque Título emitido como contraprestação aos serviços de execução de obra Inadimplemento contratual incontroverso Cessão de cheque à empresa de fomento mercantil - Equivalência à cessão civil Possibilidade de discussão da "causa debendi" Inexigibilidade da cártula Procedência dos embargos opostos à execução Sentença reformada Sucumbência da exequente Aplicação do art. 20, § 4º, do CPC/1973 - Recurso provido (e-STJ, fls. 288).
+Com o acolhimento do recurso, os ônus da sucumbência foram invertidos, devendo a PLUS arcar com as custas e despesas processuais, além de honorários fixados em R$ 2.000,00.
+Os embargos de declaração opostos por PLUS foram rejeitados (e-STJ, fls. 376/382).
+PLUS apresentou recurso especial com base no art. 105, III, c da CF, sob a alegação de dissídio jurisprudencial, por ofensa ao art. 26, da Lei nº 8.038/90. Sustentou que uma vez emitido o cheque, que tem natureza de título de crédito, e concordando com a sua cessão por via do endosso, a Recorrida responsabilizou-se pelo seu pagamento, diante de todos aqueles que o receberam por endosso, em respeito ao princípio da autonomia e que (..) o título circulou por endosso e, por consequência, a responsabilidade pela obrigação contida nele é daquele que o emitiu (e-STJ, fls. 310/311), de maneira a evitar o enriquecimento indevido.
+Com contrarrazões (e-STJ, fls. 386/395).
+Inadmitido o apelo nobre na origem (e-STJ, fls. 396/397).
+Interposto agravo em recurso especial por PLUS (e-STJ, fls. 400/410).
+Com contraminuta (e-STJ, fls. 414/424).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+1) Da validade e exigibilidade do título e do enriquecimento ilícito
+A PLUS alega que o caso é de endosso, sendo obrigação da recorrida arcar com o pagamento do título por ela emitido, ante sua aceitação à forma de repasse do cheque no ato da contratação.
+Quanto ao ponto, o tribunal de origem se manifestou conforme trecho a seguir:
+Conforme consta dos autos, a cártula foi emitida para pagamento do serviço contratado pela executada, a ser prestados por Kaza Santos, qual seja a execução de obra em imóvel da contratante. O contrato de prestação de serviços foi firmado em 15-9-2014 (cf. fls. 68-71) e foram emitidos três cheques, sendo o último (nº 850128) pós-datado para 20-12-2014, cuja compensação estava vinculada à conclusão da obra.
+A embargante alega que a beneficiária das cártulas não adimpliu o contrato (cf. notificação extrajudicial de fls. 49-53 e ata notarial de fls. 75-80), mas cedeu o cheque à exequente em 06-11-2014, consoante se depreende do contrato de fomento mercantil acostado aos autos a fls.
+35-41.
+Pois bem. Em se tratando de cessão de cheque por meio de contrato de fomento mercantil, o recebimento do crédito toma as feições de cessão civil, sendo absolutamente possível a discussão da causa debendi.
+(..)
+Sabe-se que no contrato de "factoring" (faturização ou fomento mercantil) tanto não há direito de regresso do factor ou faturizador contra o cliente (faturizado) que cede os títulos, como também não existe garantia. O faturizado não tem de dar garantia alguma, sob pena de desnaturar o instituto (cf. Arnaldo Rizzardo, ob. cit., p. 30-32).
+Isto porque nos contratos de faturização pactua-se a mera cessão onerosa de títulos de crédito, mediante comissão paga pelo faturizado ao faturizador, de modo que, estando a comissão embutida no preço do negócio, a remuneração e a liquidação dos títulos negociados passam a ser risco do faturizador, nada podendo ser exigido do faturizado, salvo em hipóteses excepcionais (cf. RT 774/263). Ou seja, o faturizador assume o risco do negócio (cf. RT 809/344), sendo-lhe vedado repassa-lo ao faturizado mediante instrumentos de garantia pelo inadimplemento, tais como endosso ou aval.
+A cláusula 15ª do contrato de fomento mercantil juntado aos autos a fls. 35-41 deixa clara a ciência da exequente de que o cheque objeto da negociação estava vinculado à prestação dos serviços Para conferir o original, acesse o site https://esaj.tjsp.jus.br/pastadigital/sg/abrirConferenciaDocumento.do, informe o processo 1021034-86.2015.8.26.0002 e código 5B50D7A.
+Este documento é cópia do original, assinado digitalmente por ALVARO TORRES JUNIOR, liberado nos autos em 11/05/2017 às 18:10 .PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO Apelação nº 1021034-86.2015.8.26.0002 - São Paulo 6 pela cedente, ressaltando que "os títulos de crédito serão entregues no ato da negociação devidamente acompanhado das cópias reprográficas de suas respectivas notas fiscais e dos comprovantes de entrega de marcadorias ou prestação de serviços".
+E, diante do incontroverso inadimplemento contratual, é patente a inexigibilidade da cártula, com o consequente acolhimento dos embargos ofertados pela apelante e extinção da execução de título extrajudicial promovida pela apelada.
+É preciso observar que a alegada ciência e concordância da embargante acerca da cessão em nada altera a inexigibilidade da cártula, que pode ser oponível à cessionária (cf. art. 294 do CC/2002). Ainda que assim não fosse, os documentos acostados aos autos a fls. 121-122 consistem em prova unilateral, sem assinatura da apelante e não consta qualquer comprovação da data da ciência da cessão à suposta devedora, não sendo possível identificar se na época da alegada ligação telefônica o inadimplemento contratual da Kaza Santos já era de conhecimento da emitente do cheque.
+A responsabilidade da exequente está vinculada à cláusula contratual do contrato de cessão de crédito, que exige a prova da prestação dos serviços para permitir a exigência dos cheques, mas esta prova, como se viu, não está nos autos. O título de crédito é inexigível (e-STJ, fls. 289/292).
+A corte de origem entendeu pela inexigibilidade do título, por expressa contratação acerca da exigência de prova da prestação dos serviços para permitir a exigência dos cheques, e da sua inexistência nos autos.
+Alterar esse entendimento para constatar a existência de prova acerca da prestação do serviço apta a permitir a cobrança do valor do cheque, demandaria o reexame fático-probatório dos autos, obstado nos termos das Súmulas nºs 5 e 7 do STJ.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 77, §§ 1º e 2º, 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
