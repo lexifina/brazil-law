@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial interposto por ORTEL ORGANIZAÇÕES DE REFEIÇÕES TERRACINHO LTDA., fundado na alínea "a" do permissivo constitucional, contra acórdão assim ementado (e-STJ fl. 249);
+AGRAVO DE INSTRUMENTO - Ação Declaratória - Pretensão de ver declarada a inexistência de relação jurídico-tributária que ampare a cobrança de ICM sobre o fornecimento de alimentação, bebidas e outras mercadorias - Improcedência da ação reconhecida em primeiro grau, confirmada pelas Instâncias Superiores - Trânsito em julgado - Pretensão da agravante de utilização dos depósitos judiciais para fins de PPI, programa instituído pelo Decreto nº 51.960/2007 - Inadmissibilidade - Decisão a quo que indeferiu o pedido da empresa de desistência da ação declaratória e ordenou a expedição de guias de levantamento em favor da Fazenda Pública que merece subsistir - Circunstâncias que caracterizam a legitimidade do Estado de levantar os depósitos judiciais, sob pena de afronta à coisa julgada - Negado provimento ao recurso.
+Rejeitados os aclaratórios 263/269.
+Nas suas razões (e-STJ fls. 289/308), a recorrente, apontando violação dos arts. 458, II e III, 535, I e II, do CPC/1973 e 156, VI, do CTN, sustenta que os depósitos judiciais que realizou nos autos de ação declaratória já transitada em julgado, porquanto ainda não convertidos em renda da Fazenda Pública, devem permanecer à disposição daquele juízo até o julgamento do mandado de segurança que impetrou com objetivo de assegurar a utilização desses valores para quitar esse débito tributário com benefícios concedidos por programa de parcelamento incentivado, o que importaria em devolução a seu favor de parte dos valores depositados.
+Contrarrazões às e-STJ fls. 326/337.
+Passo a decidir.
+Conforme relatado, a recorrente busca provimento de natureza cautelar que impeça a conversão em renda de depósitos realizados em ação judicial até o julgamento de mandado de segurança no qual discute a possibilidade de se utilizar de tais valores em determinado programa de parcelamento concedido no âmbito estadual.
+Ocorre que, em consulta ao sítio do Tribunal de origem na internet (www.tjsp.jus.br), constatei que referido mandamus (Processo n. 0128650-62.2007.8.26.0053) já foi julgado, encontrando-se o feito em fase de cumprimento de sentença promovida pela Fazenda Pública.
+Nesse contexto, está patente a perda superveniente do objeto recursal.
+Ante o exposto, JULGO PREJUDICADO o recurso especial (art. 34, XI, do RISTJ).
+Publique-se. Intimem-se.
