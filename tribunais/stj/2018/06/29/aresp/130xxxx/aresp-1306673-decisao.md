@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto pela Fazenda do Estado de São Paulo, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 99):
+APELAÇÃO E REEXAME NECESSÁRIO Mandado de segurança ITCMD - Base de cálculo - Lei Estadual nº 10.705/00 - Valor venal apontado no IPTU Decreto nº 55.002/09 - ITBI - Valor venal de referência - Majoração da base de cálculo - Ilegalidade Sentença mantida. RECURSO VOLUNTÁRIO E REEXAME NECESSÁRIO DESPROVIDOS.
+A base de cálculo do ITCMD é aquela apontada na legislação paulista (IPTU), não podendo ser adotado critério diverso daquele utilizado pela própria Administração Pública para propriedade do bem, observada que a criação de base de cálculo pelo Decreto nº 55.002/09 em referência ao ITBI consiste em ofensa ao princípio da legalidade.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 35, I, do CTN, e 155, I, e 1º, 2º, 18, e 25 a 28, da CF. Sustenta, em síntese, que: (I) "Emerge inquestionável a inexistência de respaldo legal que permita ao autor adotar a base de cálculo do ITCMD que bem lhe aprouver. E as razões são bem simples. Nessa cadência, olvida o autor a existência de lei juridicamente válida, determinando a incidência do ITCMD, na qual, restou determinado pelo artigo 9º, §1º da Lei Estadual instituidora do ITCMD acima invocada, na hipótese de transmissão de imóvel urbano ou direito a ele relativo, que a base de cálculo do ITCMD é o valor venal deste bem ou direito, observando-se que a lei em questão considera valor venal o valor de mercado do bem ou direito na data da abertura da sucessão (data do óbito) ou da realização do ato ou contrato de doação." (fl. 113); (II) "Tem-se também que o valor da base de cálculo NÃO poderá ser inferior ao valor venal lançado pelo município de localização do bem para o cálculo do IPTU." (fls.114); e (III) "Em suma, desde a edição da Lei Estadual 10.705/00, a base de cálculo do ITCMD é o valor venal do bem, assim entendido o valor de mercado! Com isso, o ofício circular e o decreto estadual impugnados pelo recorrido apenas regulamentaram, explicitaram o que já estava expresso na lei estadual vigente desde 01 de janeiro de 2001 (aliás, como é a sua função precípua), como acima se demonstrou." (fl.118).
+É o relatório.
+Inicialmente, impende ressaltar que, em recurso especial, não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa aos arts.155, I e 1º, 2º, 18, e 25 a 28, da Constituição Federal.
+Adiante, em relação à questão do direito ao recolhimento do ITCMD, verifica-se que o Tribunal de origem, ao decidir a questão, valeu-se da interpretação das regras contidas nos Decretos Estaduais nºs 55.002/2009 e 46.655/2002, e na Lei Estadual nº 10.705/2000, como se pode depreender do seguinte excerto (fls. 100/102):
+Sem razão a apelante, nada obstante o esforço de sua patrona, pois a r. sentença está correta.
+Com efeito, não se nega a competência do Estado de São Paulo para determinar a base de cálculo do Imposto sobre Transmissão Causa Mortis Doação ITCMD.
+E assim o é, pois, nos termos da Lei Estadual nº 10.705 de 28 de dezembro de 2000, determinou-se, que:
+(omissis)
+E tais regras foram repetidas no Decreto nº 46.655/2002, por meio do qual foi aprovado "o Regulamento do Imposto sobre Transmissão "Causa Mortis" e Doação de Quaisquer Bens ou Direitos - (ITCMD), de que trata a Lei nº 10.705, de 28-12-00" (respectivamente arts. 12 e 16).
+Assim, não há como negar que é a legislação paulista que determina como será cobrado o ITCMD.
+O Decreto Estadual nº 55.002/2009, que alterou o Decreto Estadual nº 46.655/02, ao adotar novo parâmetro para a base de cálculo do ITCMD, o valor venal de referência do ITBI, provocou majoração do tributo, em ofensa ao princípio da legalidade, insculpido no art. 150, I, da CF/88 e no art. 97, inc. II, § 1º, do CTN.
+(omissis)
+Neste sentido a jurisprudência da Seção de Direito Público deste E. Tribunal de Justiça:
+"APELAÇÃO - Mandado de Segurança Impetração com o objetivo de afastar notificação que determina a retificação da declaração e pagamento de ITCMD para utilizar como base de cálculo o valor venal de referência do ITBI DIREITO TRIBUTÁRIO - A base de cálculo do ITCMD, no caso em apreço, deve ser o valor venal do imóvel lançado para fins de IPTU, em razão da ilegalidade do Decreto 55.002/09 Inteligência do art. 97, inciso II, §1º, do CTN e da Lei 10.705/2000 - Sentença concessiva mantida Reexame necessário e recurso voluntário IMPROVIDOS." (Ap. nº 0038376-47.2010.8.26.0053, 2ª Câmara Extraordinária, rel. Des. Marcelo L. Theodósio, j. 25/09/2014);
+"MANDADO DE SEGURANÇA. TRIBUTÁRIO. ITCMD. Exigência do fisco quanto à alteração da base de cálculo do ITCMD, nos termos do Decreto Estadual nº 55.002/09. - Inadmissibilidade. Decreto regulamentador
+que, ao fixar a base de cálculo sobre o "valor venal referencial", portanto, de forma diversa da prevista na Lei nº 10.705/00, (valor venal do bem IPTU) violou o disposto no art. 97, II, §1º do CTN, excedendo o poder regulamentador. Decisão mantida. RECURSO DESPROVIDO." (Ap.
+3005256-97.2013.8.26.0071, 12ª Câmara, rel. Des. Isabel Cogan, j.
+28/08/2014);
+(omissis).
+Assim, nesse mesmo sentido, impõe-se negar provimento ao recurso voluntário e ao reexame necessário e manter a r. sentença que bem elucidou a questão.
+Por outro lado, nas razões de recurso especial interposto, conquanto a ora agravante aponte ofensa à legislação federal, o inconformismo funda-se, em verdade, na análise da legislação estadual (Lei Estadual 10.705/2000). Assim, o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+Nesse sentido, confiram-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. ARROLAMENTO SUMÁRIO. DISCUSSÃO ACERCA DO IMPOSTO SOBRE TRANSMISSÃO CAUSA MORTIS (ITCMD) E APRESENTAÇÃO DE DOCUMENTOS AO FISCO. NÃO CABIMENTO. PEDIDO DE SOBRESTAMENTO. PROCEDIMENTO PREVISTO EM LEI LOCAL (LEI N. 10.705/2000). SÚMULA 280/STF.
+1. Consoante a pacífica jurisprudência deste Superior Tribunal, não cabe discussão sobre o ITCMD no curso do procedimento sumário de arrolamento.
+2. Quanto ao pedido de suspensão do feito até a apuração na seara administrativa do real valor devido e comprovação do respectivo pagamento, tal procedimento não se encontra previsto na lei federal, sendo defeso na via especial o exame de normas de direito local (Lei n. 10.705/2000), por incidência da Súmula 280/STF.
+3. Embargos de declaração recebidos como agravo regimental a que se nega provimento.
+(EDcl no AREsp 420.361/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 06/02/2014, DJe 20/02/2014)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ITCMD. LEI LOCAL. SÚMULA 280/STF.
+1. O exame da controvérsia, pelo Tribunal de origem, sob o enfoque do Código Tributário do Estado do Mato Grosso do Sul, impossibilita a análise da questão por esta Corte Superior, ante o óbice previsto na Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário").
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 791.185/MS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 19/11/2015, DJe 16/12/2015)
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
