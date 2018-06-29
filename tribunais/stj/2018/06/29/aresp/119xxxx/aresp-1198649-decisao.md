@@ -1,0 +1,37 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pela Fazenda Nacional contra decisão que inadmitiu o recurso especial.
+Impugnados os fundamentos da decisão agravada, passa-se a examinar o apelo nobre.
+Asseverou a Corte de origem, no particular (e-STJ, fls. 1.410-1.411):
+Assim, em razão do princípio da celeridade processual, ressalvo o meu entendimento e passo a acompanhar o da maioria representada pelo julgamento citado na 4ª Seção de que, para o gozo da isenção do art. 195, § 7º, da Constituição Federal, necessária se faz a observância do disposto no art. 55 da Lei 8.212/1991, até a edição da Lei 12.101, de 27/11/2009, que o revogou após dispor sobre a certificação das entidades beneficentes de assistência social e regular os procedimentos de isenção de contribuições para a seguridade social.
+In casu, verifica-se que a apelante bem atendeu às exigências legais:
+- Em seu estatuto está disposto que não distribui nenhuma parcela de seu patrimônio ou renda a qualquer título, assim como aplica no país os recursos na manutenção de seus objetivos institucionais (arts. 25 e 26). Consta, ainda, indicação quanto à escrituração de suas receitas e despesas (art. 27). Tais requisitos estão ainda comprovados pelos documentos acostados às fls. 38-53 e 981-993;
+- Obteve, no Conselho Nacional de Assistência Social, Certificado de Entidade Beneficente de Assistência Social, conforme cópia acostada nestes autos à fl. 33, bem como declarações de fls. 973-980;
+- Possui certificado de utilidade pública federal (fls. 34 e 968), certificado de utilidade pública estadual (fls. 35 e 969), assim como a Lei 1.542/1981 declara sua utilidade pública municipal (fls. 36 e 971);
+- Juntou aos autos relatórios de atividades das competências de 1993 a 2003; demonstrativo financeiro mensal de atividades; certidão de entrega do relatório de atividades; termo de declaração de seu presidente quanto ao cumprimento do disposto no art. 14 do CTN, bem assim, publicação do Balanço Patrimonial (fls. 37 e 474-993).
+A documentação apresentada pela apelante traz provas da prática de assistência social e educacional, consubstanciada na concessão de bolsas de estudos e na manutenção de diversos centros educacionais, inclusive de ensino superior, oferecendo atividades educacionais, culturais, assistenciais, de proteção e promoção da saúde, entre outras.
+Impõe-se, assim, a declaração de inexistência de relação jurídica que obrigue a apelante ao recolhimento da contribuição para o PIS incidente sobre a sua folha de salários, uma vez que a apelante se afigura entidade assistencial abarcada pelo § 7º do art. 195 da Constituição Federal e que preenchidos os requisitos estabelecidos pelo art. 55 da Lei 8.212/1991.
+Inicialmente, a controvérsia relativa ao alcance da lei ordinária para englobar a contribuição para o PIS (imunidade) foi decidida com base na interpretação da Constituição Federal, o que afasta o cabimento da via especial.
+A propósito:
+PROCESSUAL E TRIBUTÁRIO. OFENSA AO ART. 1.022 DO CPC NÃO CONFIGURADA. CONTRIBUIÇÃO SOCIAL. IMUNIDADE DAS ENTIDADES BENEFICENTES. ACÓRDÃO RECORRIDO. ABORDAGEM DA MATÉRIA DISCUTIDA COM ENFOQUE CONSTITUCIONAL. COMPETÊNCIA DA SUPREMA CORTE. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ.
+ ..
+2. Na espécie em análise, o exame da matéria infraconstitucional exige imiscuir-se no entendimento assentado na origem, de que o art. 55 da Lei 8.212/91 seria apto a regulamentar o art. 195, § 7º, da Constituição Federal, no tocante aos parâmetros para a fruição da imunidade relativa à contribuição ao PIS. Essa providência extrapola a competência constitucional do STJ, por demandar interpretação de matéria eminentemente constitucional.
+3. Ademais, a instância de origem decidiu a controvérsia com fundamento no suporte fático-probatório dos autos. Desse modo, verifica-se que a análise da controvérsia demanda o reexame do contexto fático-probatório, o que é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+4. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.661.268/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 4/5/2017, DJe 17/5/2017)
+Quanto à alegação de que a recorrida não preencheria os requisitos para o gozo da imunidade, verifico que a pretensão recursal esbarra no óbice constante da Súmula 7/STJ.
+Os fatos são aqui recebidos tal como estabelecidos pelo Tribunal a quo, e, se a violação do dispositivo legal invocado perpassa pela necessidade de se fixar premissa fática diversa da que consta do acórdão impugnado, inviável o apelo nobre:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/1973. ENUNCIADO ADMINISTRATIVO N. 2/STJ. APLICAÇÃO DAS REGRAS DE ADMISSIBILIDADE DO CPC/1973. ART. 14 DO CTN. IMPOSSIBILIDADE DE VERIFICAÇÃO. ÓBICE DA SÚMULA 7 DO STJ. MATÉRIA ANALISADA PELA CORTE DE ORIGEM À LUZ DO ART. 150, VI, "C", DA CF/1988. IMPOSSIBILIDADE DE APRECIAÇÃO. COMPETÊNCIA DO STF.
+ ..
+3. Pacífico o entendimento desta Corte de que é impossível, nesta instância, a análise dos documentos apresentados, a fim de concluir que estão presentes os requisitos do art. 14 do CTN, para a concessão da imunidade tributária. Aplicação da Súmula 7/STJ.
+4. A questão da extensão da imunidade prevista no art. 150, VI, "c", da CF/1988 tem caráter eminentemente constitucional, sendo defeso o exame por esta Corte, sob pena de usurpação da competência do Pretório Excelso. Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 967.580/RS, de minha relatoria, SEGUNDA TURMA, julgado em 20/6/2017, DJe 28/6/2017)
+Por fim, quanto à tese da inconstitucionalidade dos arts. 37, 38 e 39 da Medida Provisória n. 446/2008, observo que a referida questão não foi objeto de análise, nem sequer implicitamente, pela instância de origem.
+Dessa forma, impõe-se o não conhecimento do recurso especial por ausência de prequestionamento, entendido como o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal com amparo no art. 105, III, "a", da Constituição.
+Se a parte recorrente entendeu existir alguma omissão, contradição ou obscuridade no acórdão impugnado, ainda que a questão federal tenha surgido somente no julgamento perante a Corte local, deveria ter oposto embargos declaratórios, a fim de que fosse suprida a exigência do prequestionamento e viabilizado o conhecimento do recurso em relação aos mencionados dispositivos legais. E, caso persistisse tal omissão, seria imprescindível a alegação de ofensa ao art. 535 do CPC/1973 na interposição do recurso especial, com fundamento na alínea "a" do inciso III do art. 105 da Constituição Federal, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Incide no caso, portanto, o disposto nos enunciados 282 e 356 das Súmulas do STF, a seguir transcritas:
+Súmula 282: É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula 356: O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
