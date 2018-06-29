@@ -1,0 +1,64 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. CIVIL. AÇÃO DE RESPONSABILIDADE SECURITÁRIA. SISTEMA FINANCEIRO DE HABITAÇÃO. AGRAVO NÃO PROVIDO.
+1. "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" (Súmula 284/STF).
+2. As alegações trazidas no recurso especial encontram óbice tanto na ausência do indispensável prequestionamento, quanto nos enunciados 5 e 7 da Súmula do Superior Tribunal de Justiça, pois o acolhimento da pretensão recursal exige, no caso, a incursão no acervo fático-probatório constante dos autos, bem como a interpretação de cláusulas contratuais, o que, no entanto, é vedado na via estreita do apelo especial.
+3. A Justiça Federal concluiu, com base na interpretação do acervo fático-probatório dos autos e das cláusulas do contrato de financiamento imobiliário firmado entre as partes, que o negócio jurídico é garantido por apólice pública, com o comprometimento do FCVS. Tal conclusão não pode ser revista na via estreita do recurso especial, tendo em vista o óbice das Súmulas 5 e 7 do STJ.
+4. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti e Marco Buzzi (Presidente) votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Antonio Carlos Ferreira.
+Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+RELATÓRIO
+O SENHOR MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO):
+Trata-se de agravo interno interposto contra decisão deste Relator que conheceu parcialmente do recurso especial e, nessa extensão, negou-lhe provimento.
+Em suas razões recursais, a parte agravante alega, em suma, que: (i) são inaplicáveis as Súmulas 282, 284 e 356/STF; (ii) não é caso de incidência das Súmulas 5 e 7/STJ. Afirma, ademais, a competência da Justiça Estadual para processar e julgar o feito.
+Impugnações às fls. 1.786-1.789 e 1.791-1.816 (e-STJ).
+É o relatório.
+VOTO
+O SENHOR MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO)(RELATOR):
+A parte agravante não conseguiu infirmar os fundamentos da decisão agravada.
+De início, o recurso especial foi interposto apenas com fundamento na alínea c do permissivo constitucional, a parte recorrente, no entanto, não apontou o dispositivo de lei federal a que os acórdãos recorrido e paradigmas teriam dado interpretação divergente. Destarte, não há como deixar de reconhecer a deficiência na fundamentação do recurso, aplicando-se a Súmula 284/STF.
+A respeito do tema, salienta o eminente Ministro Aldir Passarinho Junior que "obsta a pretensão, relativamente ao dissídio pretoriano, não haver o recorrente indicado quais os dispositivos de lei federal que teriam tido interpretação jurisprudencial divergente. Assim, não há como se pronunciar esta Corte apenas sobre tese abstrata, sem vinculação a lei federal específica. A divergência se faz em relação a distintas interpretações de tribunais sobre os mesmos dispositivos de leis, e, no caso, isso não ocorre. Aplicável, por analogia, o verbete n. 284 da Súmula do STF" (AgRg no REsp 1.063.256/RS, QUARTA TURMA, DJe de 28/10/2008).
+Eis, a propósito, alguns julgados:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. FUNDAMENTAÇÃO DEFICIENTE. NECESSIDADE DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL NO RECURSO ESPECIAL INTERPOSTO PELA ALÍNEA "C". SÚMULA Nº 284/STF.
+(..)
+2. A jurisprudência desta Corte orienta-se no sentido de que, para ser apreciado o recurso especial interposto pela alínea "c" do art. 105 da Constituição Federal, cabe ao recorrente indicar o dispositivo de lei federal violado, pois o dissídio jurisprudencial baseia-se na interpretação divergente da norma federal. Aplica-se, por analogia, o disposto na Súmula nº 284 do Excelso Pretório diante da deficiência na fundamentação do recurso, na espécie, caraterizada pela ausência de indicação da norma federal tida por violada.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.099.762/RJ, Relator o Ministro VASCO DELLA GIUSTINA - DESEMBARGADOR CONVOCADO DO TJ/RS -, TERCEIRA TURMA, DJe de 25/05/2009)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. AUSÊNCIA DE INDICAÇÃO. SÚMULA 284/STF.
+(..)
+2. A ausência de indicação dos dispositivos em torno dos quais teria havido interpretação divergente por outros Tribunais não autoriza o conhecimento do recurso especial, quando interposto com base na alínea c do permissivo constitucional (Súmula 284/STF).
+3. Recurso especial parcialmente conhecido e, nesta parte, desprovido.
+(REsp 676.810/MG, Relator o Ministro TEORI ZAVASCKI, PRIMEIRA TURMA, DJ de 3/4/2006)
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RESTITUIÇÃO DE VALOR INDEVIDAMENTE LEVANTADO EM PROCESSO DE CONCORDATA. PRESCRIÇÃO TRIENAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. FALTA DE COMPROVAÇÃO DO DISSÍDIO. DECISÃO AGRAVADA MANTIDA.
+(..)
+II.- Estando o recurso especial fundado na alínea a do permissivo constitucional, faz-se indispensável a indicação do dispositivo legal tido por afrontado. Tal deficiência, com sede na própria fundamentação da insurgência recursal, impede a abertura desta instância excepcional, a teor do enunciado 284 da Súmula do Supremo Tribunal Federal, aplicável por analogia.
+III.- Estando as razões do Recurso Especial dissociadas do que restou decidido no v. Acórdão recorrido, é inadmissível o recurso por deficiência na sua fundamentação. Incidência, por analogia, das Súmulas 283 e 284 do Supremo Tribunal Federal.
+Agravo Regimental improvido. (AgRg no Ag 1.060.200/RS, Relator o Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe de 25/6/2009)
+No mais, o colendo Tribunal de origem concluiu que o contrato de seguro tem vigência simultânea com o contrato de mútuo. Assim, uma vez liquidado o financiamento, inexiste vínculo jurídico que justifique a cobertura securitária pretendida.
+Para rebater tais fundamentos, a parte recorrente, em razões de recurso especial, insiste no argumento de que a seguradora deve responder pela cobertura securitária, porquanto os danos ocorreram durante a vigência do contrato, bem como por persistir no tempo o dano decorrente de vício construtivo.
+Contudo, não foi este o enfoque dado pelas instâncias ordinárias para decidir a controvérsia, a qual não examinou a demanda sob a perspectiva de quais foram os danos ocorridos no imóvel, tampouco em qual momento eles ocorreram.
+Desse modo, as alegações trazidas no recurso especial encontram óbice tanto na ausência do indispensável prequestionamento - tendo em vista não terem sido opostos nem sequer embargos declaratórios visando à discussão da temática (Súmulas 282 e 356/STJ) -, quanto nos enunciados 5 e 7 da Súmula do Superior Tribunal de Justiça, pois o acolhimento da pretensão recursal exige, no caso, a incursão no acervo fático-probatório constante dos autos, bem como a interpretação de cláusulas contratuais, o que, no entanto, é vedado na via estreita do apelo especial.
+No mesmo sentido podem ser citados os seguintes julgados desta Corte Superior:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRATO DE SEGURO VINCULADO AO SISTEMA FINANCEIRO HABITACIONAL. PREJUDICIAL DE PRESCRIÇÃO AFASTADA. CARÊNCIA DE AÇÃO EM VIRTUDE DA QUITAÇÃO E DO TÉRMINO DO CONTRATO. SÚMULAS 5 E 7/STJ. AGRAVO NÃO PROVIDO.
+1. Inicialmente, no tocante à alegação de prescrição da pretensão autoral, é importante esclarecer que, na linha dos julgados desta Corte, os danos decorrentes de vício da construção se protraem no tempo e, por isso, não permitem a fixação de marco temporal certo, a partir do qual se possa contar, com segurança, o termo inicial do prazo prescricional para a ação indenizatória correspondente a ser intentada contra a seguradora. Logo, deve ser afastada a prejudicial de prescrição.
+2. Quanto ao argumento de carência de ação em virtude da quitação e do término do contrato de financiamento, verifica-se que o acórdão recorrido apreciou a matéria em questão com fulcro no instrumento contratual firmado entre as partes e nos elementos fático-probatórios constantes dos autos. Dessa forma, nos termos da jurisprudência desta Corte, dissentir do entendimento cristalizado no âmbito da instância originária se revela, na hipótese dos autos, inviável, haja vista o teor das Súmulas 5 e 7 do STJ.
+3. Agravo regimental não provido.
+(AgRg no REsp 1297557/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/02/2016, DJe 02/03/2016)
+Além disso, é oportuno salientar que, nos termos da jurisprudência do STJ, nos contratos de seguro habitacional obrigatório no âmbito do Sistema Financeiro de Habitação, as seguradoras são responsáveis pelos vícios decorrentes da construção, desde que tal responsabilidade esteja prevista na apólice.
+Nesse contexto, concluir que a apólice contratada pela parte recorrente prevê a responsabilidade pelos prejuízos decorrentes da construção também demandaria a interpretação de cláusula contratual e o reexame do conjunto fático-probatório dos autos, o que esbarra nas já mencionadas Súmulas 5 e 7 do STJ.
+A propósito:
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. ADMISSIBILIDADE. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284/STF. RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO. CONTRATO DE SEGURO. RESPONSABILIDADE DA SEGURADORA PELOS VÍCIOS DE CONSTRUÇÃO NO IMÓVEL FINANCIADO. AUSÊNCIA DE COBERTURA SECURITÁRIA. SÚMULAS N. 5 E 7 DO STJ.
+1. Atrai a incidência do óbice previsto na Súmula n. 284/STF a alegação de que o art. 535 do CPC foi violado desacompanhada de argumento que demonstre efetivamente em que ponto o acórdão embargado permaneceu omisso, contraditório ou obscuro.
+2. Incide o óbice previsto na Súmula n. 284 do STF na hipótese em que a deficiência da fundamentação do recurso não permite a exata compreensão da controvérsia.
+3. Nos contratos de seguro habitacional obrigatório no âmbito do Sistema Financeiro de Habitação, as seguradoras são responsáveis pelos vícios decorrentes da construção, desde que tal responsabilidade esteja prevista na apólice.
+4. Concluir que a apólice contratada prevê a responsabilidade pelos prejuízos decorrentes da construção demanda a interpretação de cláusula contratual e o reexame do conjunto fático-probatório dos atos, o que é vedado em recurso especial, nos termos das Súmulas n. 5 e 7 do STJ.
+5. Agravo regimental desprovido.
+(AgRg no REsp 1305102/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 16/02/2016, DJe 19/02/2016)
+Outrossim, a Justiça Federal - competente para decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas, nos termos da Súmula 150/STJ - concluiu, com base na interpretação do acervo fático-probatório dos autos e das cláusulas do contrato de financiamento imobiliário firmado entre as partes, que o negócio jurídico é garantido por apólice pública, com o comprometimento do FCVS, o que levou ao reconhecimento do interesse da Caixa Econômica Federal para integrar a lide securitária e, assim, da competência da Justiça Federal para processar e julgar o feito.
+Nesse contexto, realmente, em razão dos óbices previstos nas Súmulas 5 e 7/STJ, a via estreita do recurso especial não é a adequada para alterar as conclusões tomadas pelo Tribunal Regional Federal, com base na análise dos documentos juntados aos autos, inclusive o referido contrato.
+Desse modo, há de ser mantida a decisão agravada, com aplicação dos referidos enunciados sumulares, sobretudo porque esta se encontra em perfeita sintonia com a jurisprudência consolidada no STJ em sede de julgamento de recurso especial repetitivo (REsp 1.091.363/SC) e com a aludida Súmula 150/STJ.
+Por fim, não merece ser acolhido o pedido formulado em impugnação do presente agravo interno quanto à incidência de honorários recursais.
+A Segunda Seção desta Corte de Justiça concluiu não ser cabível o arbitramento de honorários advocatícios recursais em razão da interposição de agravo interno, conforme decidido no AgInt nos EREsp 1.539.725/DF, na sessão de 9 de agosto de 2017. No mesmo sentido: EDcl no AgInt no REsp 1.573.573/RJ, Terceira Turma, Rel. Min. Marco Aurélio Bellizze, DJe de 8/5/2017.
+Diante do exposto, nega-se provimento ao agravo interno.
+É como voto.
