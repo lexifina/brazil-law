@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME] contra acórdão proferido pelo eg. Tribunal de Justiça do Distrito Federal e dos Territórios.
+Informa o impetrante que o paciente foi condenado pela prática do delito de tráfico de drogas e associação para o tráfico de drogas. A defesa postula, neste writ, a revisão da dosimetria da pena aplicada, sustentando não haver fundamentos jurídicos idôneos para sustentar a exasperação da sanção imposta ao acusado.
+Em seu parecer, o Ministério Público Federal opinou pelo não conhecimento da impetração (e-STJ, fls. 239-241).
+É o relatório.
+Compulsando os autos, constata-se a inviabilidade da análise do pleito deduzido pelo impetrante. As cópias juntadas à peça de impetração tratam de outro processo, no qual o paciente foi condenado pelo crime previsto no art. 273, § 1º-B, inciso V, do Código Penal, recebendo pena de 11 anos e 6 meses de reclusão.
+Como se sabe, o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio documentos, a existência do aventado constrangimento ilegal suportado pelo paciente, providência não efetivada pelo impetrante no caso sub examine.
+Nesse sentido:
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. INTEMPESTIVIDADE DO RECURSO DE APELAÇÃO QUE CONDENOU OS PACIENTES. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. PENA-BASE MAJORADA EM RAZÃO DOS MAUS ANTECEDENTES. INCABIMENTO. SÚMULA 444/STJ. TRÊS MAJORANTES. AUMENTO DE PENA DE 1/2 (METADE) SEM MOTIVAÇÃO CONCRETA. CRITÉRIO OBJETIVO. IMPOSSIBILIDADE. SÚMULA 443/STJ. PENAS REDIMENSIONADAS. ORDEM CONCEDIDA DE OFÍCIO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+2. Impende asseverar que a via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e se se tratar de flagrante ilegalidade. Vale dizer, "o entendimento deste Tribunal firmou-se no sentido de que, em sede de habeas corpus, não cabe qualquer análise mais acurada sobre a dosimetria da reprimenda imposta nas instâncias inferiores, se não evidenciada flagrante ilegalidade, tendo em vista a impropriedade da via eleita" (HC n.
+39.030/SP, Quinta Turma, Rel. Min. Arnaldo Esteves, DJU de 11/4/2005).
+3. O habeas corpus é medida excepcional, cabível apenas em hipóteses de patente ilegalidade. Assim, há a necessidade de prova pré-constituída acerca do alegado constrangimento ilegal. No caso, não se juntou à petição inicial qualquer documento que possa demonstrar a alega dúvida quanto a rasura no termo de vista para o Parquet interpor o recurso de apelação.
+4. Os maus antecedentes não podem ser considerados, por si só, para majorar a pena-base acima do mínimo legal. Incidência da Súmula n.
+444/STJ.
+5. Verificando-se que a Corte de origem fixou a fração de 1/2 (metade) apenas com base na quantidade de majorantes, evidenciado está o constrangimento ilegal, diante do posicionamento firmado neste Superior Tribunal. Incidência da Súmula n. 443/STJ.
+6. Habeas corpus não conhecido. Ordem concedida de ofício para redimensionar as penas dos pacientes, mantido, no mais, o aresto impugnado. (HC 173.300/RJ, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 05/05/2016, DJe 19/05/2016)
+AGRAVO REGIMENTAL. HABEAS CORPUS. ATENTADO VIOLENTO AO PUDOR E CORRUPÇÃO DE MENOR. CONDENAÇÃO. ALEGAÇÃO DE NULIDADE. DEPOIMENTOS PRESTADOS MEDIANTE COAÇÃO OU AMEAÇA. PETIÇÃO INICIAL INCOMPLETA. WRIT SUBSTITUTIVO DO RECURSO PRÓPRIO. SUPRESSÃO DE INSTÂNCIA. EXAME APROFUNDADO DAS PROVAS. PEDIDO MANIFESTAMENTE INCABÍVEL. RECURSO NÃO ACOLHIDO.
+1. Mostra-se adequada a decisão que indefere liminarmente, de forma monocrática, habeas corpus manifestamente incabível, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+2. Hipótese em que parte da inicial encontra-se ilegível e o writ é substitutivo de recurso próprio, que inclusive foi formulado.
+Ademais, e principalmente, a matéria não foi objeto da apelação, e portanto não foi enfrentada pelo Tribunal de origem, vedada a supressão de instância. E, ainda, a tese demandaria o exame aprofundado das provas produzidas.
+3. Agravo regimental a que se nega provimento. (AgRg no HC 332.451/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 03/09/2015, DJe 22/09/2015)
+PROCESSUAL PENAL. HABEAS CORPUS. DEFICIÊNCIA NA INSTRUÇÃO. DOCUMENTO ESSENCIAL. AUSÊNCIA. NÃO CONHECIMENTO.
+1 - O habeas corpus, como ação mandamental, de grandeza constitucional, tem de vir instruído com as peças (provas pré-constituídas) que dão suporte à pretensa ilegalidade, caso contrário não merece trânsito a insurgência.
+2 - Na espécie, havendo insurgência contra a dosimetria da pena, notadamente a aplicação da causa especial de diminuição, no tráfico de drogas, a juntada da sentença é de fundamental importância.
+Ausente esta peça, não há como conhecer da impetração, ainda mais porque apresenta-se incompleta a própria inicial.
+3 - habeas corpus não conhecido. (HC 174.639/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 24/04/2012, DJe 07/05/2012)
+Ante o exposto, nos termos do art. 34, inciso XX, do Regimento Interno deste STJ, não conheço do habeas corpus.
+Publique-se.
