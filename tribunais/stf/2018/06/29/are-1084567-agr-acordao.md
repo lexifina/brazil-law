@@ -1,0 +1,179 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 5
+
+29/06/2018
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.084.567 SÃO
+PAULO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+
+: MIN. ROBERTO BARROSO
+: RUBENS DE OLIVEIRA BORIO
+: BERENICE SOUBHIE NOGUEIRA MAGRI
+
+EMENTA: DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM
+RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE
+QUESTÃO CONSTITUCIONAL. REAPRECIAÇÃO DOS FATOS E DO
+MATERIAL PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA
+279/STF.
+1.
+A solução da controvérsia pressupõe, necessariamente, o
+reexame dos fatos e do material probatório constantes dos autos (Súmula
+279/STF), o que torna inviável o processamento do recurso extraordinário.
+2.
+Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não
+houve fixação de honorários advocatícios.
+3.
+Agravo interno a que se nega provimento, com aplicação
+da multa prevista no art. 1.021, § 4º, do CPC/2015.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da
+Primeira Turma do Supremo Tribunal Federal, em Sessão Virtual, na
+conformidade da ata de julgamento, por unanimidade de votos, em negar
+provimento ao agravo interno, com aplicação de multa, nos termos do
+voto do Relator.
+Brasília, 22 a 28 de junho de 2018.
+MINISTRO LUÍS ROBERTO BARROSO - RELATOR
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 747852393.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 2 de 5
+
+29/06/2018
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.084.567 SÃO
+PAULO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+
+: MIN. ROBERTO BARROSO
+: RUBENS DE OLIVEIRA BORIO
+: BERENICE SOUBHIE NOGUEIRA MAGRI
+RE LAT Ó RI O
+
+O SENHOR MINISTRO LUÍS ROBERTO BARROSO (RELATOR):
+1.
+Trata-se de agravo interno interposto em 09.11.2017, cujo
+objeto é decisão que negou seguimento ao agravo, tendo em vista estar
+correta a decisão do Tribunal de origem que inadmitiu o recurso
+extraordinário, sob os seguintes fundamentos: (i) “o recurso não reúne
+condições de admissibilidade pela alínea a do permissivo constitucional, por não
+ter sido demonstrada a ocorrência da alegada vulneração aos dispositivos
+arrolados”; (ii) “os argumentos expostos na peça recursal conduzem ao terreno
+dos fatos, cujo reexame não se torna suscetível no âmbito do extraordinário.
+Incidente, portanto, a súmula 279 do colendo Supremo Tribunal Federal”.
+2.
+A parte agravante alega que “o recurso do agravante é
+admissível porque demonstrado que o v. aresto contraria o dispositivo
+constitucional do art. 12, § 4º, inciso II, letra ‘a’; o pedido é procedente porque se
+trata de jurisdição voluntária e não se aventou qualquer prejuízo a terceiros,
+tendo, aliás, manifestado favoravelmente o Ilmo. D. Procurador de Justiça do E.
+Tribunal local; coaduna com a jurisprudência dos Tribunais”.
+3.
+
+É o relatório.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 747852394.
+
+Supremo Tribunal Federal
+Voto - MIN. ROBERTO BARROSO
+
+Inteiro Teor do Acórdão - Página 3 de 5
+
+29/06/2018
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.084.567 SÃO
+PAULO
+VOTO
+O SENHOR MINISTRO LUÍS ROBERTO BARROSO (Relator):
+1.
+Deixo de abrir prazo para contrarrazões, na medida em
+que está sendo mantida a decisão que aproveita à parte agravada. Passo à
+análise do recurso.
+2.
+O agravo não deve ser provido, tendo em vista que a parte
+recorrente não traz argumentos suficientes para modificar a decisão ora
+agravada.
+3.
+Tal como constatou a decisão agravada, para chegar a
+conclusão diversa do acórdão recorrido, imprescindível seria o reexame
+de fatos e provas, o que é inviável em recurso extraordinário. Nesse
+sentido, veja-se o seguinte precedente:
+“EMBARGOS DE DECLARAÇÃO NO RECURSO
+EXTRAORDINÁRIO.
+CONVERSÃO
+EM
+AGRAVO
+REGIMENTAL.
+CONSTITUCIONAL.
+OPÇÃO
+PELA
+NACIONALIDADE BRASILEIRA. PREENCHIMENTO DOS
+REQUISITOS. IMPOSSIBILIDADE DO REEXAME DE
+PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO
+TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE
+NEGA PROVIMENTO.” (RE 628.857-ED, Relª. Minª. Cármen
+Lúcia)
+
+4.
+Diante do exposto, nego provimento ao agravo interno.
+Ante seu caráter manifestamente protelatório, aplico à parte agravante
+multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos
+do art. 1.021, § 4º, do CPC/2015, em caso de unanimidade da decisão. Fica
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 747852395.
+
+Supremo Tribunal Federal
+Voto - MIN. ROBERTO BARROSO
+
+Inteiro Teor do Acórdão - Página 4 de 5
+
+ARE 1084567 AGR / SP
+a interposição de qualquer outro recurso condicionada ao depósito da
+respectiva quantia, ressalvados os casos previstos no art. 1.021, § 5º, do
+CPC/2015. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não
+houve fixação de honorários advocatícios.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 747852395.
+
+Supremo Tribunal Federal
+Extrato de Ata - 29/06/2018
+
+Inteiro Teor do Acórdão - Página 5 de 5
+
+PRIMEIRA TURMA
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.084.567
+PROCED. : SÃO PAULO
+RELATOR : MIN. ROBERTO BARROSO
+AGTE.(S) : RUBENS DE OLIVEIRA BORIO
+ADV.(A/S) : BERENICE SOUBHIE NOGUEIRA MAGRI (121288/SP)
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+interno, com aplicação de multa, nos termos do voto do Relator.
+Primeira Turma, Sessão Virtual de 22.6.2018 a 28.6.2018.
+Composição: Ministros Alexandre de Moraes (Presidente), Marco
+Aurélio, Luiz Fux, Rosa Weber e Luís Roberto Barroso.
+Carmen Lilian Oliveira de Souza
+Secretária da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 747735220
