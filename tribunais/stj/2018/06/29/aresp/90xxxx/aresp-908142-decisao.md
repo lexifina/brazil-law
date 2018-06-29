@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por PEPSICO DO BRASIL LTDA., na vigência do CPC/73, contra decisão do Tribunal Regional Federal da 3ª Região, que inadmitiu o Recurso Especial manejado em face de acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO - CONVERSÃO EM RENDA DA UNIÃO DOS DEPÓSITOS JUDICIAIS - VALORES ORIGINAIS - INDEFERIMENTO DO PEDIDO DE EFEITO SUSPENSIVO - MANUTENÇÃO DA SITUAÇÃO FÁTICA.
+1. A correção monetária não consiste em penalidade, acréscimo ou majoração do principal, mas sim no instrumento jurídico-econômico utilizado para manter o valor da moeda ao tempo em que fora disponibilizada.
+2. Pretender seja convertido à União somente os valores históricos depositados ao tempo do ajuizamento do mandado de segurança caracteriza violação à legislação de regência e burla ao sistema de atualização monetária.
+3. Não há nos autos alteração substancial capaz de influir na decisão proferida quando do exame do pedido de efeito suspensivo" (fl. 428e).
+Sustenta a parte agravante, nas razões do Recurso Especial, além de dissídio jurisprudencial, ofensa aos arts. 17 da Lei 9.779/99, sob os seguintes argumentos:
+"Dos dispositivos acima mencionados, verifica-se que foi concedida remissão parcial dos valores envolvidos em processos ajuizados até 31 de dezembro de 1998, condicionada à desistência da ação, autorizando o pagamento (ou conversão de depósito em renda) do tributo em discussão pelo seu valor principal, sem acréscimos de juros ou de multa de mora, com o posterior encerramento da ação.
+Assim, no presente caso, tendo a Recorrente realizado o depósito do valor principal dos valores discutidos em conta vinculada à lide, requereu a desistência da ação, solicitando a conversão em renda dos valores históricos depositados e o levantamento em seu favor dos acréscimos legais incidentes sobre o valor principal.
+Isso porque, naturalmente, esses depósitos do valor principal do tributo debatido, como é de regra e de praxe, foram sendo, ao longo do tempo, remunerados com os juros à taxa SELIC, pelo que, também naturalmente, o total desses depósitos judiciais hoje excede o valor total acumulado do principal do imposto.
+A legislação que dispõe sobre a anistia é clara ao estabelecer que, no caso de contribuintes que estivessem depositando judicialmente o tributo, tais depósitos ultrapassariam o citado valor do principal (que é o único valor que caberia à União Federal, por força da regra da anistia por ela própria estabelecida). E esse excesso, como é ostensivamente óbvio, pertenceria ao contribuinte-depositante.
+Nesse contexto, além de a lei da anistia admitir que o pagamento do tributo poderia ser feito através de conversão dos depósitos, assegurou ao contribuinte-depositante o levantamento e devolução, para si, do respectivo excesso, conforme se constata no artigo 3o da Instrução Normativa nº 26/1999.
+É, portanto, flagrante a ilegalidade da conversão em renda da totalidade dos depósitos efetuados pela Recorrente" (fls. 350/351e).
+Foram apresentadas contrarrazões (fls. 452/458e).
+Negado seguimento ao Recurso Especial (fls. 466/467e), foi interposto o presente Agravo (fls. 472/488e).
+Apresentada contraminuta às fls. 511/513e.
+A irresignação não merece acolhimento.
+Quanto à alegada ofensa ao art. 17 da Lei 9.799/99, o Recurso Especial não ultrapassa a admissibilidade, ante o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada").
+Isso porque, para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não ao caso concreto.
+Nesse contexto, por simples cotejo entre as razões recursais e os fundamentos do acórdão, percebe-se que a tese recursal vinculada ao dispositivo tido como violado não foi apreciada no voto condutor, sequer de modo implícito, não tendo servido de fundamento à conclusão adotada pelo Tribunal de origem. A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DECLARATÓRIOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. PREQUESTIONAMENTO. LITIGÂNCIA DE MÁ-FÉ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE.
+INCIDÊNCIA DA SUMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+2. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula n. 282 do STF.
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou interpretação de cláusula contratual, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. No caso dos autos, a modificação das conclusões do acórdão recorrido, a respeito da conduta protelatória do agravante, para fins de afastamento da multa por litigância de má-fé, demandaria análise do conteúdo fático dos autos.
+5. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 273.612/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 23/03/2018).
+Assinale-se, também, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a, servem de justificativa quanto à alínea c do permissivo constitucional.
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
