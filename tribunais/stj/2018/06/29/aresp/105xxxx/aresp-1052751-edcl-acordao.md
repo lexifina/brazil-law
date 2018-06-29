@@ -1,0 +1,76 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO (ART. 1.042 DO CPC/15) - AÇÃO CONSTITUTIVA NEGATIVA DE NULIDADE DE CLÁUSULAS C/C DECLARATÓRIA E MANDAMENTAL DE PRORROGAÇÃO DE DÍVIDA - CÉDULAS DE CRÉDITO RURAL - LIMITAÇÃO DE JUROS REMUNERATÓRIOS - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DO RÉU.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do CPC/15, o que não se configura na hipótese em tela, porquanto o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado.
+2. Dada a natureza dos aclaratórios, esses não podem ser utilizados como instrumento para a rediscussão do julgado.
+3. Embargos de declaração rejeitados.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Luis Felipe Salomão, Maria Isabel Gallotti e Antonio Carlos Ferreira (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO SR. MINISTRO MARCO BUZZI: Cuida-se de embargos de declaração, opostos por BANCO DO BRASIL S/A, contra o acórdão de fls. 1.842-1850, e-STJ, de relatoria deste signatário, que desproveu o agravo interno apresentado pelo ora insurgente.
+O aresto em questão está assim ementado (e-STJ, fl. 1845):
+AGRAVO INTERNO NO AGRAVO (ART. 1.042 DO CPC/15) - AÇÃO CONSTITUTIVA NEGATIVA DE NULIDADE DE CLÁUSULAS C/C DECLARATÓRIA E MANDAMENTAL DE PRORROGAÇÃO DE DÍVIDA - CÉDULAS DE CRÉDITO RURAL - LIMITAÇÃO DE JUROS REMUNERATÓRIOS - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DO RÉU.
+1. As questões postas à discussão foram dirimidas pelo Tribunal de origem de forma suficientemente ampla, fundamentada e sem omissões. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota para a resolução da causa fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.
+2. As cédulas de crédito rural, comercial e industrial acham-se submetidas a regramento próprio (Lei nº 6.840/80 e Decreto-Lei nº 413/69) que confere ao Conselho Monetário Nacional o dever de fixar os juros a serem praticados e que, diante da omissão desse órgão governamental, incide a limitação de 12% ao ano, prevista no Decreto nº 22.626/33 (Lei da Usura). Precedentes.
+3. O posicionamento adotado na decisão recorrida coincide com a orientação desta Corte Superior, portanto é inafastável a aplicação do óbice inserto na Súmula 83 do STJ.
+4. Agravo interno desprovido.
+Inconformado, o insurgente opôs embargos de declaração (fls. 1859-1862, e-STJ), alegando omissão no acórdão embargado quanto à tese de limitação dos juros remuneratórios nas cédulas rurais firmadas após o Código Civil de 2002.
+Sem impugnação conforme certificado à fl. 1864, e-STJ.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO (ART. 1.042 DO CPC/15) - AÇÃO CONSTITUTIVA NEGATIVA DE NULIDADE DE CLÁUSULAS C/C DECLARATÓRIA E MANDAMENTAL DE PRORROGAÇÃO DE DÍVIDA - CÉDULAS DE CRÉDITO RURAL - LIMITAÇÃO DE JUROS REMUNERATÓRIOS - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DO RÉU.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do CPC/15, o que não se configura na hipótese em tela, porquanto o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado.
+2. Dada a natureza dos aclaratórios, esses não podem ser utilizados como instrumento para a rediscussão do julgado.
+3. Embargos de declaração rejeitados.
+
+VOTO
+O EXMO SR. MINISTRO MARCO BUZZI (Relator): Os embargos de declaração não merecem acolhimento, visto que o embargante não demonstrou a existência de nenhum vício a macular o julgado, possuindo o recurso nítido caráter infringente.
+1. Com efeito, nos estreitos lindes do artigo 1.022 do CPC/15, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontráveis em decisão, ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende o ora embargante. Nesse sentido, confira-se os seguintes precedentes:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA PETIÇÃO NO CONFLITO DE COMPETÊNCIA. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. CARATER PROTELATÓRIO. MAJORAÇÃO DA MULTA. EMBARGOS DECLARATÓRIOS REJEITADOS. 1. Inexistentes as hipóteses do art. 535 do CPC/73, e 1.022 do NCPC, não merecem acolhida os embargos de declaração que têm nítido caráter infringente. 2. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado. 3. Inexistindo a alegada omissão no acórdão embargado, mostra-se incabível o acolhimento dos aclaratórios. Precedentes. 4. Embargos de declaração rejeitados. (EDcl no AgRg na PET no CC 133.509/DF, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 11/05/2016, DJe 18/05/2016)  grifou-se
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO REJEITADOS. 1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso. 2. No caso dos autos não ocorre nenhuma das hipóteses previstas no artigo 1.022 do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.  ..  4. Embargos de declaração rejeitados. (EDcl no AgRg no AREsp 860.920/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 02/06/2016, DJe 07/06/2016)  grifou-se
+EMBARGOS DE DECLARAÇÃO. OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. 1. Rejeitam-se os embargos declaratórios quando, no acórdão embargado, não há nenhum dos vícios previstos no art. 1.022 do CPC/2015. 2. Embargos de declaração rejeitados. (EDcl no AgRg no AREsp 214.812/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 19/05/2016, DJe 24/05/2016)  grifou-se
+No caso, não há infringência ao artigo 1.022, CPC/15, em razão da suficiente fundamentação exarada no acórdão embargado (fls. 1842-1850, e-STJ),
+Na hipótese em foco, o decisum embargado não possui vício a ser sanado por meio de embargos de declaração, visto que esta eg. Quarta Turma decidiu a controvérsia com base no entendimento adotado no âmbito desta Corte, sendo clara na sustentação das razões do desprovimento do agravo interno.
+A questão envolvendo a limitação dos juros remuneratórios nas cédulas rurais firmadas após a edição do Código Civil de 2002 foi devida e suficientemente fundamentada no acórdão de fls. 1842-1850, e-STJ, sem omissões, consoante se extrai do seguinte trecho do acórdão embargado (e-STJ, fl. 1848-1849, grifos nossos):
+2. Com relação à Súmula 83/STJ, verifica-se que o referido óbice foi aplicado à tese afeta à possibilidade de limitação dos juros remuneratórios acima do patamar de 12% a.a. nas cédulas de crédito rural, a partir da vigência do Código Civil de 2002.
+Ao solucionar a lide, o Tribunal a quo se pronunciou nos seguintes termos (fl. 1.730, e-STJ):
+"No que tange às cédulas rurais deve ser observado o preceito do are 5º, do Decreto-lei 167/67, o qual estipula que cabe ao Conselho Monetário Nacional a fixação dos juros aplicáveis aos títulos de crédito rural. Na ausência desta fixação ou de autorização desta autarquia federal para a prática de juros acima do limite legal, deve prevalecer a taxa de 12% ao ano prevista no art. 1º do Decreto-lei 22.626/33." (fl. 1533).
+No que se refere aos juros remuneratórios, a questão encontra-se pacificada no âmbito desta Corte no sentido que as cédulas de crédito rural, comercial e industrial acham-se submetidas a regramento próprio (Lei nº 6.840/80 e Decreto-Lei n. 413/69) que confere ao Conselho Monetário Nacional o dever de fixar os juros a serem praticados e que, diante da omissão desse órgão governamental, incide a limitação de 12% ao ano, prevista no Decreto nº 22.626/33 (Lei da Usura).
+Sobre o tema:
+"CIVIL E PROCESSUAL CIVIL. BANCÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. JUROS REMUNERATÓRIOS. CÉDULA DE CRÉDITO COMERCIAL. LIMITAÇÃO. LEI DE USURA. CAPITALIZAÇÃO MENSAL DOS JUROS. AUSÊNCIA DE PACTUAÇÃO EXPRESSA. SÚMULAS N. 5 E 7 DO STJ. COMISSÃO DE PERMANÊNCIA. COBRANÇA VEDADA. DECISÃO MANTIDA.
+1. As cédulas de crédito rural, comercial e industrial possuem regramento próprio (arts. 5º do Decreto-Lei n. 413/1969 e 5º da Lei n. 6.840/1980), que confere ao Conselho Monetário Nacional o dever fixar os juros a serem praticados em operações dessa natureza. Considerando a ausência de deliberação do CMN a respeito, os juros remuneratórios não podem ser pactuados em patamar superior a 12% (doze por cento) ao ano, prevalecendo a limitação imposta pelo art. 1º do Decreto n. 22.626/1933 (Lei da Usura).
+(..)
+4. Agravo regimental a que se nega provimento." (AgRg no AREsp 129.689/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 11/04/2014.)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. CÉDULA DE CRÉDITO RURAL. AFRONTA A DISPOSITIVO CONSTITUCIONAL. NÃO CABIMENTO. JUROS MORATÓRIOS. INOVAÇÃO EM SEDE RECURSAL. DESCABIMENTO. COMISSÃO DE PERMANÊNCIA. IMPOSSIBILIDADE DE COBRANÇA. JUROS REMUNERATÓRIOS. LIMITAÇÃO A 12% AO ANO. SÚMULA N. 83/STJ. RECURSO DESPROVIDO.
+(..)
+4. As notas de crédito rural, comercial e industrial submetem-se a regramento próprio (Lei n. 6.840/1980 e Decreto-Lei n. 413/1969), que confere ao Conselho Monetário Nacional o dever de fixar os juros a serem praticados. Havendo omissão desse órgão, adota-se a limitação de 12% ao ano prevista no Decreto n. 22.626/1933.
+5. Agravo regimental desprovido.
+(AgRg no AREsp 402.594/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 11/02/2014, DJe 17/02/2014)
+"PROCESSUAL CIVIL E FALÊNCIA. AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. NOTA DE CRÉDITO COMERCIAL. JUROS REMUNERATÓRIOS. LIMITAÇÃO. DECRETO 22.626/33. MORA. DESCARACTERIZAÇÃO. NÃO PROVIMENTO.
+1. "No tocante às cédulas e notas de crédito comercial, esta Corte tem entendimento assente no sentido de que, omitindo-se o Conselho Monetário Nacional em fixar as taxas de juros aplicáveis aos títulos de crédito comercial (Decreto-Lei nº 413/69 c/c o art. 5º da Lei nº 6.840/80), como é o caso presente, prevalece o art. 1º, caput, da Lei de Usura, que veda a cobrança de juros em percentual superior a 12% ao ano." (AgRg no REsp 1018282/MS, Rel. Min. Fernando Gonçalves, Quarta Turma, unânime, DJe 24/11/2008)
+2. "A mora é descaracterizada pela cobrança de encargos ilegais no chamado período de normalidade." (AgRg no REsp 1123191/MG, Rel. Min. Aldir Passarinho Junior, Quarta Turma, unânime, DJe 10/09/2010)
+3. Agravo regimental não provido."
+(AgRg no Ag 577.794/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 12/08/2011.)
+Assim, estando o acórdão originário em consonância com o entendimento desta Corte, aplica-se o óbice da Súmula 83/STJ, tanto aos recursos interpostos com fulcro na alínea "a" quanto na alínea "c" do permissivo constitucional, nos termos do entendimento sedimentado deste Tribunal:
+AGRAVO INTERNO NO AGRAVO (ART. 1.042 DO CPC/15) - AÇÃO DE PRESTAÇÃO DE CONTAS - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DA AUTORA.
+(..)
+5. A conformidade do acórdão recorrido com o entendimento desta Corte impede o conhecimento da pretensão recursal, nos termos da Súmula 83/STJ, óbice aplicável tanto aos recursos interpostos pela alínea "a" do permissivo constitucional, como na alínea "c".
+6. Agravo interno desprovido.
+(AgInt no AREsp 1042009/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 08/02/2018, DJe 23/02/2018, grifos nossos)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. SISTEMA DE COPARTICIPAÇÃO. PREVISÃO CONTRATUAL CLARA E EXPRESSA. ABUSIVIDADE. INOCORRÊNCIA. PRECEDENTES. INCIDÊNCIA DA SÚMULA Nº 83 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA Nº 282 DO STF. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. DECISÃO MANTIDA.
+(..)
+2. Logo, o acórdão de origem encontra-se alinhado com a jurisprudência desta Corte, sendo inafastável, no caso em tela, a incidência da Súmula nº 83 do STJ, aplicável também aos recursos especiais interpostos pelas alíneas a e c do permissivo constitucional, segundo iterativa jurisprudência aqui dominante.
+ ..
+6. Agravo interno não provido.
+(AgInt no REsp 1415804/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA
+TURMA, julgado em 17/05/2016, DJe 23/05/2016, grifos nossos)
+Consoante ressaltado no voto, as cédulas de crédito rural, comercial e industrial acham-se submetidas a regramento próprio (Lei nº 6.840/80 e Decreto-Lei n. 413/69) que confere ao Conselho Monetário Nacional o dever de fixar os juros a serem praticados e que, diante da omissão desse órgão governamental, incide a limitação de 12% ao ano, prevista no Decreto nº 22.626/33 (Lei da Usura), inexistindo qualquer alteração quanto à legislação aplicável após a edição do Código Civil de 2002, ainda que as cédulas rurais em questão tenham sido firmadas após a sua vigência.
+Com efeito, o aresto proferido em sede de agravo interno demonstrou de forma clara as razões do desprovimento do recurso, motivo pelo qual se verifica que os aclaratórios ora apresentados pelo recorrente visam unicamente atribuir desfecho favorável a sua tese, com a rediscussão do julgado, o que resta vedado na estreita via recursal sob foco.
+Deste modo, não se vislumbra quaisquer das máculas do artigo 1.022 do CPC/2015 na decisão hostilizada, cuidando-se o presente reclamo de mera irresignação da parte quanto à solução adotada, o que resta vedado na estreita via recursal sob foco.
+2. Não obstante a rejeição dos aclaratórios, deixa-se de se aplicar a multa prevista no artigo 1.026, § 2º, do CPC/15, pois, em se tratando de primeiros embargos de declaração que não ostentam caráter manifestamente protelatórios, pressuposto para aplicação da medida, descabida a sua incidência neste momento.
+No entanto, desde já se adverte que a reiteração de embargos de declaração, com intuito de rediscussão do julgado, poderá caracterizar o aludido caráter manifestamente protelatório, ensejando a aplicação da multa citada.
+3. Do exposto, rejeitam-se os embargos de declaração.
+É como voto.
