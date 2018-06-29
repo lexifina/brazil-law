@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial, interposto por SÉTIMO CÉU AGRONEGÓCIOS LTDA - EM RECUPERAÇÃO JUDICIAL, com amparo nas alíneas "a" e "c", do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fls. 74/83, e-STJ):
+EMENTA: AGRAVO INTERNO - AGRAVO DE INSTRUMENTO - DECLÍNEO DE COMPETÊNCIA PELO JUÍZO - HIPÓTESE QUE NÃO SE ADMITE A INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO - RECURSO NÃO CONHECIDO - INTELIGÊNCIA DO ART. 1.015 DO NCPC - ROL TAXATIVO - O art. 1.015, do CPC/2015 elenca, taxativamente, as situações em que uma decisão interlocutória pode ser impugnada por meio do recurso de agravo de instrumento. Assim, se a decisão agravada não estiver compreendida nesse rol taxativo, como é o caso da declinação de competência para outra comarca, o recurso de agravo de instrumento não pode ser conhecido, sob pena de desvirtuamento da intenção do legislador de limitar as hipóteses recursais.
+Opostos embargos declaratórios, foram estes rejeitados, nos termos do aresto de fls. 91/101 (e-STJ).
+Em suas razões de recurso especial (fls. 104/114, e-STJ), a recorrente aponta violação aos arts. 1.022 e 1.015, III, do CPC/15.
+Sustenta, em suma, ser possível a interposição de recurso de agravo de instrumento contra a decisão que, em sede de ação de cobrança, declina da competência para o juízo da recuperação judicial.
+Sem contrarrazões.
+Após juízo positivo de admissibilidade (fl. 137, e-STJ), ascederam os autos a esta Corte Superior de Justiça.
+É o relatório.
+Decido.
+1. O presente recurso especial (fls. 104/114, e-STJ) versa, dentre outras matérias, sobre tema afetado à Segunda Seção desta Corte, nos autos dos Recursos Especiais representativos da controvérsia n.os 1.696.396/MT e 1.704.520/MT, para julgamento segundo o rito previsto nos arts. 1.036 a 1.041 do CPC/2015, a fim de definir sobre a "natureza do rol do art. 1015 do CPC/2015 e verificar possibilidade de sua interpretação extensiva, para se admitir a interposição de agravo de instrumento contra decisão interlocutória que verse sobre hipóteses não expressamente versadas nos incisos do referido dispositivo do Novo CPC" (Tema n.º 988/STJ).
+Logo, nos termos do art. 256-L do RISTJ, o recurso especial distribuído nesta Corte Superior que tenha como fundamento idêntica questão de direito afetada será devolvido ao Tribunal de origem, para nele permanecer suspenso. Assim, por razões de economia processual e em atenção aos objetivos das regras que disciplinam a matéria, faz-se necessário remeter os autos à origem, até o pronunciamento definitivo do Superior Tribunal de Justiça sobre os recursos especiais representativos da controvérsia.
+2. Ante o exposto, determino a devolução dos autos à origem, para que o presente recurso especial permaneça suspenso até o pronunciamento definitivo do STJ sobre o tema 988, nos termos do artigo 1.037, inciso II, do CPC/2015 e, após, observe-se a sistemática prevista nos artigos 1.040 e 1.041 do CPC/2015.
+Publique-se.
+Intimem-se.
