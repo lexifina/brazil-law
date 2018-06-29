@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de agravo interposto por IPIRANGA PRODUTOS DE PETRÓLEO S.A. E outra, inconformadas com a decisão que inadmitiu o recurso especial contra o acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul e assim ementado:
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO DE RESCISÃO CONTRATUAL. AÇÃO DE RECONVENÇÃO.
+Inclusão dos garantidores no pólo passivo da ação de reconvenção. Tema não abrangido pelas hipóteses legais de cabimento de agravo de instrumento.
+Tutela de urgência. Para fins de concessão da medida de tutela de urgência, necessário o preenchimento dos requisitos dispostos no artigo 300 do Código de Processo Civil.
+Probabilidade do direito e o perigo de dano decorre do fato de que ambas as partes desejam manter o vínculo contratual, sendo prematura eventual rescisão.
+CONHECERAM EM PARTE DO RECURSO E, NA PARTE CONHECIDA, DERAM-LHE PARCIAL PROVIMENTO. UNÂNIME.
+No recurso especial, a parte ora agravante aponta afronta aos artigos 343, § 3º, e 1.015, VII, do Novo Código de Processo Civil. Em síntese, defenderam que "o manejo da reconvenção em face de terceiros é o meio adequado a incluí-los no polo passivo da lide reconvencional, de modo que a decisão que não permite o prosseguimento da reconvenção em face destes (terceiros) possui conteúdo de exclusão de litisconsorte, sendo atacável por agravo de instrumento". Pugnaram, ao final, pelo provimento do recurso, "com a finalidade de conhecer do agravo de instrumento interposto pelas.
+É o relatório.
+Preliminarmente, cumpre registrar que a matéria relativa à natureza do rol do art. 1.015 do CPC/15 e à possibilidade de sua interpretação extensiva, para se admitir a interposição de agravo de instrumento contra decisão interlocutória que verse sobre hipóteses não expressamente versadas nos incisos de referido dispositivo do Novo CPC foi afetada à Corte Especial do STJ, em sessão virtual, pelo rito do artigo 1.036 do NCPC, (ProAfR no REsp 1.696.396/MT, Rel. Ministra NANCY ANDRIGHI, Corte Especial, julgado em 20/2/2018), (ProAfR no REsp 1.704.520/MT, Rel. Ministra NANCY ANDRIGHI, Corte Especial, julgado em 20/2/2018.
+Não obstante, o referido órgão julgador, por unanimidade tenha decidido pela não suspensão do processamento dos recursos de agravo de instrumento e eventuais recursos especiais que versem sobre idêntica questão em tramitação no território nacional, é possível ao relator, levando em consideração razões de economicidade processual, aprecie o recurso especial apenas quando exaurida a competência das instâncias ordinárias, na forma do artigo 1.040, II e III, do CPC/2015 e 34, XXIV, do RISTJ.
+Diante do exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 543-B, § 3º, e 543-C, §§ 7º e 8º, do CPC/1973 e 1.040 e seguintes do CPC/2015, após a publicação do acórdão do respectivo recurso excepcional representativo da controvérsia:
+a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou
+b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Prejudicada a análise do agravo em recurso especial de fls. 728-734.
+Publique-se.
