@@ -1,0 +1,22 @@
+Decisão
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, que recebeu a seguinte ementa (fl. 288, e-STJ, Vol. 2):
+    “APELAÇÃO CÍVEL. MULTA DE 120%. CARÁTER CONFISCATÓRIO. INCONSTITUCIONALIDADE. INAPLICABILIDADE DA LEI NOVA.
+    - A multa estabelecida pelo artigo 71, inciso III, alínea "a" do Código Tributário Estadual (Lei n° 11.651/91) foi declarada inconstitucional pela Corte Especial deste Tribunal ante a violação ao princípio da proporcionalidade e vedação ao confisco;
+    - Embora a Lei 17.917/2012 tenha reduzido o valor da multa, o que se observa é que antes da sua edição, com a declaração de inconstitucionalidade da alínea “a”, inciso III art. 71 da Lei 11.651/91, a penalidade não poderia ser aplicada, restando evidente que a aplicação da lei nova, na verdade, agrava a situação da Apelante, não podendo, portanto, retroagir para agravar a situação do Apelante;
+    - Cabe ao Judiciário tão somente afastar a incidência da multa declarada inconstitucional, não havendo que se falar em nulidade do auto de infração.
+    APELAÇÃO CÍVEL CONHECIDA E PARCIALMENTE PROVIDA.
+    Nas razões recursais iniciais, com amparo no art. 102, III, “a”, da Constituição Federal, foi alegada violação ao art. 150, IV, da CF/88.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente de apresentar formal e motivadamente a preliminar de repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+    Ademais, o Juízo de origem, com fundamento na legislação ordinária pertinente (Leis Estaduais 11.651/1991 e 17.917/2012 e no CTN), afastou a multa aplicada, mantendo contudo a validade do auto de infração.
+    Trata-se de matéria situada no contexto normativo infraconstitucional, de forma que as alegadas ofensas à Constituição seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo.
+    Por fim, a análise da pretensão recursal demandaria o reexame de legislação local, providência incabível em sede de recurso extraordinário, conforme consubstanciado na Súmula 280/STF (Por ofensa a direito local não cabe recurso extraordinário).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado nas instâncias ordinárias (Código de Processo Civil de 2015, art. 85, § 11).
+    Publique-se.
+    Brasília, 29 de junho de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
