@@ -1,0 +1,58 @@
+Decisão:
+    Vistos.
+    Reclamação constitucional, com pedido de liminar, ajuizada por José Dirceu de Oliveira e Silva em face do Tribunal Regional Federal da 4ª Região, cujo ato comissivo teria afrontado a autoridade do Supremo Tribunal Federal no que ficou decidido no HC nº 137.728/PR.
+    O feito foi levado a julgamento na sessão extraordinária da Segunda Turma, de 26/6/18, oportunidade na qual votei pela improcedência da ação, dada a ausência de identidade com o acórdão paradigma.
+    Nada obstante, por reconhecer a existência de plausibilidade jurídica nos argumentos defensivos a respeito da dosimetria da pena imposta ao reclamante pelas instâncias ordinárias, que são objeto de impugnação em sede recursal própria do Superior Tribunal, propus também a concessão de habeas corpus ex officio para, excepcionalmente, suspender a execução provisória da pena imposta ao reclamante.
+    Na oportunidade pediu vista o eminente Ministro Edson Fachin.
+    Sucede que, da Tribuna, a defesa pleiteou a implementação de medida cautelar no habeas corpus de ofício, para assegurar a liberdade do reclamante até a conclusão de julgamento desta ação, o que foi acolhido pela ilustre maioria dos membros da Turma, ante o recesso que se avizinhava.
+    Esta é a síntese da ata de julgamento tornada pública:
+    “Após o voto do Ministro Relator, que julgava improcedente a reclamação, mas concedia a ordem de habeas corpus de ofício para, excepcionalmente, suspender a execução provisória da pena imposta ao reclamante, até que o Superior Tribunal de Justiça decida sobre o recurso interposto, pediu vista o Ministro Edson Fachin. Após o pedido de vista do Ministro Edson Fachin, a Turma, por maioria, concedeu medida cautelar em habeas corpus de ofício para assegurar a liberdade do paciente até a conclusão de julgamento da reclamação, nos termos do voto do Relator, vencido o Ministro Edson Fachin. Presente, em favor do reclamante, o Dr. Roberto Podval. Ausente, justificadamente, o Ministro Celso de Mello. Presidência do Ministro Ricardo Lewandowski. 2a Turma, 26.6.2018.”
+    Estreme de dúvidas, portanto, que a decisão colegiada da Segunda Turma, por maioria, concedeu medida cautelar em habeas corpus de ofício, para assegurar a liberdade plena do ora reclamante até conclusão do julgamento da reclamação.
+    Essa decisão foi comunicada ao Tribunal Regional Federal da 4ª Região, ao Juiz da Vara das Execuções Penais do Distrito Federal (autos de execução provisória nº 0007368-19.2018.8.07.0015) e ao Juiz do Núcleo de Plantão Judiciário do Distrito Federal.
+    Em estrito cumprimento da determinação do Supremo Tribunal Federal, o reclamante foi posto em liberdade plena em 26/6/18 pelo Juiz Substituto do Plantão Felipe Figueiredo Carvalho (anexo 25).
+    Eis a decisão interlocutória proferida pelo eminente magistrado plantonista:
+    “Trata-se de ofício eletrônico nº 210/2018 proveniente do SUPREMO TRIBUNAL FEDERAL, por meio do qual informa a concessão, na RECLAMAÇÃO 30.245, de medida cautelar em Habeas Corpus de ofício para assegurar a LIBERDADE de JOSÉ DIRCEU DE OLIVEIRA E SILVA filho de Olga Guedes da Silva e Castorino de Oliveira e Silva, nascido em 16/03/1946. O requerente encontra-se detido no Centro de Detenção Provisória em Brasília/DF.
+    (...)
+    In casu, o cumprimento da decisão concessiva de liberdade de a JOSÉ DIRCEU DE OLIVEIRA E SILVA, por se referir à restituição do direito de ir e vir, ostenta os caracteres exigidos para sua determinação em sede de plantão.
+    (...)
+    Assim, conquanto se possa determinar, nesta decisão em caráter urgente, a liberação do preso, as demais medidas eventualmente pertinentes à execução provisória e/ou medidas cautelares diversas da prisão eventualmente deferidas devem ser decididas pelo Juízo da Vara de Execução Penal do Distrito Federal, conhecedor das especificidades do feito nº0007368-19.2018.8.07.0015, a que o NUPLA não tem acesso.
+    (...)
+    Assim, estando em ordem a documentação, CUMPRA-SE com urgência a decisão da Suprema Corte, promovendo-se a libertação de JOSÉ DIRCEU DE OLIVEIRA E SILVA. Atente-se a autoridade responsável pela custódia do interessado à eventual existência de mandados de prisão referentes a outros processos.
+    Atribuo à presente força de alvará.” (anexo 25).
+    Sucede que, segundo noticiado em respeitados veículos de comunicação da imprensa brasileira, em 29/6/18, o Juízo da 13ª Vara Federal de Curitiba/PR, em decisão ULTRA VIRES, restabeleceu as medidas cautelares (CPP, art. 319), que haviam sido impostas, em 3/5/17, pelo STF no HC nº 137.728.
+    A decisão, tornada pública na mesma data, foi lavrada nos seguintes termos:
+    “José Dirceu de Oliveira e Silva foi condenado, por cinco crimes de corrupção passiva, crimes de lavagem de dinheiro e pelo crime de pertinência à organização criminosa, com penas de vinte e sete anos, quatro meses e vinte dias de reclusão, em regime inicialmente fechado, e 570 dias-mula, no valor cada um de três salários mínimos, na ação penal 5045241- 84.2015.4.04.7000.
+    Cumpria pena desde 18/05/2018, já que dado início à execução da pena na esteira da jurisprudência do Plenário do Supremo Tribunal Federal Instaurada perante a 12ª Vara Federal de Curitiba a execução provisória 5035763-18.2016.4.04.7000.
+    Como é notório, concedido de ofício habeas corpus na Reclamação 30.245 pelo voto da maioria da Colenda 2ª Turma do Supremo Tribunal Federal suspendendo a execução provisória.
+    Suspensa a execução provisória, retorna-se, salvo ordem contrária, ao status quo antes.
+    A execução da pena fica suspensa e retoma-se a competência deste Juízo de conhecimento. Por autorização anterior da própria 2ª Turma do STF no HC 137.728, foram impostas as seguintes medidas cautelares ao condenado (decisão de 03/05/20[1]7, evento 248):
+    - -monitoramento por tornozeleira eletrônica;
+    - proibição de deixar a cidade de seu domicílio, em princípio, Brasília/DF;
+    - proibição de se comunicar, por qualquer meio ou por interpostas pessoas, com os coacusados ou testemunhas nas ações penais 5045241-84.2015.4.04.7000, 5045241- 84.2015.4.04.7000 e 5030883-80.2016.4.04.7000, com a exceção do irmão;
+    - comparecimento a todos os atos do processo e atendimento às intimações, por telefone, salvo se dispensado pelo Juízo;
+    - proibição de deixar o país; e
+    - entrega em Juízo de seus passaportes brasileiros e estrangeiros.
+    A reativação das medidas cautelares se impõe diante da suspensão da execução provisória e restabelecimento do status quo anterior.
+    Ademais, condenado José Dirceu de Oliveira e Silva a penas elevadas, a prudência recomenda-se o monitoramento eletrônico para proteger a aplicação da lei penal.
+    Assim, deverá o condenado comparecer perante este Juízo até 03/07/2018 para colocação da tornozeleira eletrônica, ficando restabelecidas as demais proibições. Ciência à Defesa e ao MPF.
+    Comunique-se a autoridade policial acerca da reativação das cautelares, especialmente da proibição de José Dirceu de Oliveira e Silva de deixar o país e ainda a proibição de que sejam emitidos novos passaportes para ele.
+    Comunique-se o Juízo da 12ª Vara Federal de Curitiba, execução provisória 5035763-18.2016.4.04.7000.”
+    É o relatório.
+    Decido.
+    Como adverte José Frederico Marques, “o Supremo Tribunal Federal, sob pena de se comprometerem as elevadas funções que a Constituição lhe conferiu, não pode ter seus julgados desobedecidos (por meios diretos ou oblíquos), ou vulnerada sua competência.” (Manual de Direito Processual Civil, vol. 3, 9ª Ed. Saraiva: 1987, p. 199-200 – grifos nossos)
+    Portanto, como apontado por esse renomado jurista, a defesa da autoridade das decisões emanadas da Suprema Corte, tem como causa finalis assegurar os poderes e prerrogativas que lhe foram outorgados pela Constituição Federal.
+    Nesse contexto, a demonstração incontroversa do descumprimento, por quaisquer juízes ou Tribunais, de  decisões  proferidas pelo Supremo Tribunal Federal, autoriza o Relator, na condução do processo paradigma (RISTF, art. 21, II), adotar todas as medidas necessárias à restauração “do ‘imperium’ inerente à decisão desrespeitada” (v.g. RCL nº 1.756/RN, Tribunal Pleno, Relator o Ministro Celso de Mello, DJe de 6/8/10).
+    Na espécie, constato, de plano, afronta à decisão proferida por esta Suprema Corte no julgamento da reclamação em questão.
+    Com efeito, o Juízo da 13ª Vara Federal de Curitiba/PR, em decisão com extravasamento de suas competências, restabeleceu medidas cautelares diversas da prisão, outrora determinadas em desfavor do paciente, à míngua de qualquer autorização deste Supremo Tribunal Federal, que, em decisão colegiada da Segunda Turma, deferiu medida cautelar em habeas corpus de ofício, para assegurar a liberdade plena ao ora reclamante até a conclusão de julgamento da ação
+    É não é só, a decisão ULTRA VIRES do Juízo da 13ª Vara Federal de Curitiba/PR foi proferida em processo de execução provisória sob a competência Juízo de Direito da Vara das Execuções Penais do Distrito Federal (execução provisória nº 0007368-19.2018.8.07.0015), a quem compete a fiscalização de execução da pena do paciente, iniciada nesta capital, onde reside sua família (art. 103 da Lei nº 7.210/84).
+    Portanto, questões atinentes à execução provisória e/ou medidas cautelares diversas da prisão, eventualmente impostas pelo STF, o que não ocorreu, deveriam ser apreciadas pelo Juízo da Vara de Execução Penal do Distrito Federal, que detém a jurisdição sobre o processo de execução do paciente.
+    Todavia, estar-se a falar, no caso, de custodiado submetido à execução antecipada da pena proferida em acórdão penal condenatório, sendo certo, portanto, que sua custódia, a rigor, não mais se reveste de natureza cautelar, mas sim das características de prisão-pena - vale dizer, sanção imposta pelo Estado pela violação de um bem jurídico penalmente tutelado, a qual exige a formulação de um juízo de culpabilidade em um título judicial condenatório (v.g. Rcl nº 25.111-AgR/PR, Segunda Turma, de minha relatoria, DJe de 1º/2/18).
+    Logo, a fase de cautelaridade do processo de conhecimento já se encerrou. E sendo assim, a suspensão da execução provisória da pena imposta ao paciente, não conduz automaticamente ao status quo ante, com quis fazer crer o Juízo da 13ª Vara Federal de Curitiba/PR, salvo por ordem expressa do Supremo Tribunal Federal, o que, como visto do julgado da Segunda Turma, não ocorreu, pois se restabeleceu a liberdade plena do paciente.
+    Ante o exposto, considerando que a decisão proferida pela Segunda Turma, por maioria de três votos a um, em nenhum momento restabeleceu a prisão provisória do reclamante, tratando-se, no caso, de prisão-pena, a qual foi suspensa para assegurar a liberdade plena do ora reclamante, em razão da plausibilidade jurídica dos recursos interpostos, e, mais ainda, por não subsistir nenhuma esfera de competência do Juízo da 13ª Vara Federal de Curitiba/PR – que sequer foi comunicado da decisão desta Corte -, CASSO, até posterior deliberação da Segunda Turma, a decisão do Juízo da 13ª Vara Federal de Curitiba/PR que, agindo de ofício, impôs ao reclamante medidas cautelares diversas da prisão, em claro descumprimento de decisão desta Suprema Corte e usurpação da competência do Juízo da Vara de Execução Penal do Distrito Federal.
+    Comunique-se, com urgência, mediante e-mail e fax símile, ao Juízo 13ª Vara Federal de Curitiba/PR.
+    Comunique-se, ainda, ao Tribunal Regional Federal da 4ª Região e ao Juízo da Vara de Execução Penal do Distrito Federal.
+    Publique-se.
+    Brasília, 2 de julho de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
