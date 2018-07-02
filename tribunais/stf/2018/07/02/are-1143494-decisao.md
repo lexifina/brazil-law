@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de São Paulo, ementado nos seguintes termos:
+    “Agravo de instrumento. Demanda de apuração de haveres. Pedido de antecipação de tutela. Indeferimento. Decisão reformada em parte. Presença de verossimilhança do direito alegado. Valor devido satisfatoriamente demonstrado. Risco de dano irreparável. Periculum in mora configurado. Recurso provido em parte, por maioria de votos, vencido o Relator Sorteado que declara.” (eDOC 13, p. 57)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, alínea “a”, da Constituição Federal, aponta-se violação ao art. 170, do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, violação aos princípios gerais da ordem constitucional econômica ao argumento de que o auferimento de aluguéis implica na inviabilidade do funcionamento da empresa.
+    Decido.
+    O recurso não merece prosperar.
+    Nos termos da jurisprudência desta Corte, as decisões que concedem ou negam provimentos liminares ou tutela antecipada não perfazem juízo definitivo de mérito a ensejar o cabimento do recurso extraordinário.
+    No caso, verifica-se que a decisão impugnada não configura pronunciamento definitivo a respeito da controvérsia, motivo pelo qual o apelo extremo é inadmissível, conforme entendimento consolidado pela Súmula 735 do Supremo Tribunal Federal.
+    Nesse sentido, confiram-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSO CIVIL. TUTELA ANTECIPADA. DECISÃO PROVISÓRIA: SÚMULA 735 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE-AgR 876.957, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe 3.6.2015)
+    “Agravo regimental no recurso extraordinário com agravo. Processual Civil. Recurso especial. Análise dos pressupostos de admissibilidade. Ausência de repercussão geral. Acórdão da origem. Medida liminar. Concessão. Incidência da Súmula 735/STF. Precedentes. 1. O Plenário do Supremo Tribunal Federal, no exame do RE 598.365/MG, Relator o Ministro Ayres Britto, concluiu pela ausência de repercussão geral do tema relativo a pressupostos de admissibilidade de recursos da competência de outros tribunais, dado o caráter infraconstitucional da matéria. 2. É pacífico o entendimento do STF no sentido de que não cabe recurso extraordinário contra acórdão em que se concede ou indefere medida liminar. Incidência da Súmula 735/STF. 3. Agravo regimental não provido”. (ARE-AgR 797.391, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe 8.4.2015)
+    Ademais, ainda que superado esse óbice, melhor sorte não assistiria ao recorrente.
+    Isso porque o Tribunal de origem, com base nas provas dos autos, consignou que os valores referentes aos aluguéis vincendos devem ser depositados. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Há, portanto, evidente risco em que na condução de atos de administração pelos atuais administradores ocorra a perda do valor da empresa e, consequentemente, dos valores correspondentes à participação sucessória da agravante, cujo direito retroage à data em que se deu a sucessão hereditária (em 20 de julho de 2001, fl. 19) e, portanto, há quinze anos. Significa dizer que os atos administrativos praticados o foram após essa data e alcançam a legítima da autora, ora agravante. A tudo isso, deve ser salientado que houve, no curso do processo de inventário, apresentação de pedido de apuração de haveres e dissolução da sociedade em maio de 2008.
+    (…)
+    Por esses fundamentos, portanto, por maioria de votos, dá- se provimento em parte ao recurso para deferir a pretensão da agravante e determinar o depósito dos montantes correspondentes aos aluguéis vincendos em juízo, permanecendo, ainda, bloqueados os valores já efetivados a esse título na conta judicial, para futura satisfação do crédito da agravante.” (eDOC 13, p. 59)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, o seguinte precedente:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM: INEXISTÊNCIA DE PREVISÃO LEGAL DE RECURSO PARA O SUPREMO TRIBUNAL FEDERAL. PAGAMENTO DE ALUGUÉIS: SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL E AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE-AgR 1097.950, Rel. Min. Cármen Lúcia, Tribunal Pleno, DJe 20.4.20108)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 2 de julho de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
