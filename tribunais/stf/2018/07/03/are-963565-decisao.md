@@ -1,0 +1,34 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão da Décima Sétima Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (eDOC 8, p. 34):
+    “IMPROBIDADE ADMINISTRATIVA — AGENTE POLÍTICO — GOVERNADOR — LEIS 1.079/50 e 8.429/92 — INEXISTÊNCIA DE ANTINOMIA — POSSIBILIDADE DE RESPONSABILIZAÇÃO POR ATO DE IMPROBIDADE — Sentença que extinguiu o processo, sem resolução do mérito, por considerar inadequada a via eleita pela não aplicabilidade da lei 8.429/92 aos agentes políticos. A legislação de accountability aplicável aos agentes políticos estaduais não exclui a incidência da Lei de Improbidade Administrativa. Inexiste antinomia entre as leis 1.079/50 e 8.429/92, havendo coexistência dos aludidos diplomas normativos. Conduta atribuída ao réu pelo Ministério Público que não encontra correspondência estrita na tipificação dos crimes de responsabilidade. Ainda assim, o julgamento político difere do judicial. Reforma da sentença que se impõe. Preliminares de inépcia da inicial e prescrição afastadas. Provimento ao recurso.”
+    Os embargos de declaração foram rejeitados (eDOC 9, p. 9-13).
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 15, caput e V, e 37, § 4º, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, (eDOC 11, p. 169):
+    “30. A Constituição Federal, no parágrafo quarto, do artigo 37, e no artigo 15, caput e inciso V, deixa claro que a Lei 8.429, de 2 de junho de 1992, se aplica aos agentes administrativos e não aos agentes políticos.
+    31. Os agentes políticos respondem por ato de responsabilidade pela Lei nº 1.079, de 10 de abril de 1950.”
+    A Terceira Vice-Presidência do TJ/RJ inadmitiu o recurso assentando que a alegada ofensa aos dispositivos constitucionais evocados, se existente, seria reflexa, vez que necessariamente precedida de afronta a dispositivos de legislação infraconstitucional (eDOC 12, p. 79-81).
+    Aberta vista à A Procuradoria-Geral da República, veio ao autos manifestação assim ementada (eDOC 22, p. 1/2):
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. EX-GOVERNADOR DE ESTADO. APLICABILIDADE DA LEI 8.429/1992 AOS AGENTES POLÍTICOS SUJEITOS A CRIME DE RESPONSABILIDADE. MATÉRIA CONSTITUCIONAL. REPERCUSSÃO GERAL. COMPATIBILIDADE DOS REGIMES DE RESPONSABILIZAÇÃO.
+    1. Não depende da prévia análise de legislação infraconstitucional o exame da questão relativa à possibilidade de processamento e julgamento de ex-Governador de Estado por atos de improbidade administrativa, com base na Lei 8.429/1992, pois se trata de discussão centrada na definição do regime de responsabilidade dos agentes políticos à luz do sistema constitucional brasileiro.
+    2. Tem repercussão geral o tema relativo à aplicabilidade da Lei de Improbidade Administrativa, que regulamenta o disposto no art. 37, §4º, da Constituição Federal, aos Governadores de Estado, agentes políticos sujeitos à Lei dos Crimes de Responsabilidade (Lei 1.079/1950), por apresentar relevância jurídica, política, econômica e social, ultrapassando os interesses subjetivos da causa.
+    3. Os agentes políticos são sujeitos ativos de atos de improbidade administrativa, devendo por eles responder, na forma da Lei 8.429/1992, cujo propósito é a tutela da probidade da Administração Pública, expressão direta do princípio da moralidade, consagrado no caput do art. 37 da CF/88, estabelecendo outra ordem de responsabilização, diversa e independente da tutela criminal e, mais ainda, do clássico modelo de impedimento de que se vale a Lei 1.079/1950.
+    4. A improbidade administrativa, não sendo crime e não se configurando como crime de responsabilidade, é instituto típico de direito administrativo. É, pois, ilícito administrativo, tanto na definição das condutas proibidas, quanto na estipulação das sanções cominadas, apartando-se, nesses termos, de outras categorias de ilícitos (políticos, penais ou civis).
+    5. Parecer pelo provimento do agravo, para que seja conhecido e desprovido o recurso extraordinário.”
+    Nesta Corte, estes autos foram distribuídos ao Min. Roberto Barroso, que, em 28.6.2017, proferiu decisão negando seguimento ao recurso (eDOC 23).
+    A parte ora recorrente interpôs agravo interno (eDOC 26). Contudo, em 19.4.2018, Sua Excelência proferiu a seguinte decisão (eDOC 29):
+    “Torno sem efeito a decisão anteriormente proferida e declaro minha suspeição, nos termos do art. 145, §1º, do CPC/2015 e do art. 277, caput, do RI/STF. Julgo prejudicado o agravo interno.
+    Encaminhem-se os autos à Secretaria Judiciária, nos termos do art. 67, § 3º, do RISTF, para redistribuição do feito.”
+    Os autos foram redistribuídos a este Relator em 3.5.2018.
+    É o relatório. Decido.
+    A controvérsia cinge-se a saber se os agentes políticos podem ser julgados por ato de improbidade administrativa, com base na Lei nº 8.429/1992.
+    Quando do julgamento da Pet 3240 AgR, em 10.05.2018 (acórdão pendente de publicação), esta Corte, por maioria, acompanhando a divergência inaugurada pelo e. Min. Roberto Barroso, negou provimento ao agravo regimental, vencido o saudoso Ministro Teori Zavascki.
+    Na oportunidade, consignei em meu voto que não encontro no exame do texto constitucional nenhuma restrição à responsabilização dos agentes políticos por atos de improbidade, de forma a imunizá-los diante do contido no artigo 37, § 4, da Constituição Federal, verbis:
+    § 4º Os atos de improbidade administrativa importarão a suspensão dos direitos políticos, a perda de função pública, a indisponibilidade dos bens e o ressarcimento ao erário, na forma e gradação previstas em lei, sem prejuízo da ação penal cabível.”
+    O texto constitucional coloca, expressamente, apenas em relação ao Presidente da República o ato de improbidade administrativa como crime de responsabilidade, no artigo 85, V.
+    Logo, em relação a todos os demais agentes políticos, além de inexistir qualquer obstáculo constitucional à responsabilização por atos de improbidade administrativa, ressalte-se que a apuração dos crimes de responsabilidade exige que o acusado esteja no efetivo exercício do cargo quando do recebimento da denúncia, circunstância que leva à aberta possibilidade de irresponsabilidade daquele que praticara atos de improbidade no desempenho de seu mister, situação que não se coaduna com a previsão constitucional em comento, nem com a relevância que o princípio da moralidade administrativa mereceu do constituinte.
+    Sendo assim, verifico que o acórdão recorrido não destoa da jurisprudência desta Corte.
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 3 de julho de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
