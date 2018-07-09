@@ -1,0 +1,3 @@
+Art. 17-A. A ANA poderá requisitar servidores de órgão, autarquias e fundações públicas da administração pública federal até 1º de agosto de 2021.
+§ 1º As requisições realizadas na forma do caput estão sujeitas ao limite numérico definido pelo Ministério do Planejamento, Desenvolvimento e Gestão.
+§ 2º Aos servidores requisitados na forma deste artigo, são assegurados todos os direitos e vantagens a que faça jus no órgão ou entidade de origem, considerando-se o período de requisição para todos os efeitos da vida funcional, como efetivo exercício no cargo que ocupe no órgão ou entidade de origem.
