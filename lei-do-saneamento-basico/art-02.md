@@ -1,14 +1,16 @@
-Art. 2º Os serviços públicos de saneamento básico serão prestados com base nos seguintes princípios fundamentais:
-I - universalização do acesso;
-II - integralidade, compreendida como o conjunto de todas as atividades e componentes de cada um dos diversos serviços de saneamento básico, propiciando à população o acesso na conformidade de suas necessidades e maximizando a eficácia das ações e resultados;
-III - abastecimento de água, esgotamento sanitário, limpeza urbana e manejo dos resíduos sólidos realizados de formas adequadas à saúde pública e à proteção do meio ambiente;
-IV - disponibilidade, em todas as áreas urbanas, de serviços de drenagem e manejo das águas pluviais, limpeza e fiscalização preventiva das respectivas redes, adequados à saúde pública e à segurança da vida e do patrimônio público e privado;
-V - adoção de métodos, técnicas e processos que considerem as peculiaridades locais e regionais;
-VI - articulação com as políticas de desenvolvimento urbano e regional, de habitação, de combate à pobreza e de sua erradicação, de proteção ambiental, de promoção da saúde e outras de relevante interesse social voltadas para a melhoria da qualidade de vida, para as quais o saneamento básico seja fator determinante;
-VII - eficiência e sustentabilidade econômica;
-VIII - utilização de tecnologias apropriadas, considerando a capacidade de pagamento dos usuários e a adoção de soluções graduais e progressivas;
-IX - transparência das ações, baseada em sistemas de informações e processos decisórios institucionalizados;
-X - controle social;
-XI - segurança, qualidade e regularidade;
-XII - integração das infra-estruturas e serviços com a gestão eficiente dos recursos hídricos.
-XIII - adoção de medidas de fomento à moderação do consumo de água.
+Art. 2º Para fins do disposto nesta Lei, considera-se:
+I - saneamento básico - conjunto de serviços, infraestruturas e instalações operacionais de:
+a) abastecimento de água potável, constituído pelas atividades, pela disponibilização, pela manutenção, pela infraestrutura e pelas instalações necessárias ao abastecimento público de água potável, desde a captação até as ligações prediais e os seus instrumentos de medição;
+b) esgotamento sanitário, constituído pelas atividades, pela disponibilização e pela manutenção de infraestrutura e das instalações operacionais de coleta, transporte, tratamento e disposição final adequados dos esgotos sanitários, desde as ligações prediais até a sua destinação final para a produção de água de reuso ou o seu lançamento final no meio ambiente;
+c) limpeza urbana e manejo de resíduos sólidos, constituídos pelas atividades, pela infraestrutura e pelas instalações operacionais de coleta, transporte, transbordo, tratamento e destino final dos resíduos sólidos domiciliares e dos resíduos de limpeza urbanas; e
+d) drenagem e manejo das águas pluviais urbanas, constituídos pelas atividades, pela infraestrutura e pelas instalações operacionais de drenagem de águas pluviais, de transporte, detenção ou retenção para o amortecimento de vazões de cheias, tratamento e disposição final das águas pluviais drenadas, contempladas a limpeza e a fiscalização preventiva das redes;
+II - gestão associada - associação voluntária entre entes federativos, por meio de convênio de cooperação ou de consórcio público, conforme disposto no art. 241 da Constituição;
+III - universalização - ampliação progressiva do acesso ao saneamento básico para os domicílios ocupados do País;
+IV - controle social - conjunto de mecanismos e procedimentos que garantem à sociedade informações, representações técnicas e participação nos processos de formulação de políticas, de planejamento e de avaliação relacionados com os serviços públicos de saneamento básico;
+V - prestação regionalizada - prestação de serviço de saneamento básico em que único prestador atende a dois ou mais titulares;
+VI - subsídios - instrumentos econômicos de política social para garantir a universalização do acesso ao saneamento básico, especialmente para populações e localidades de baixa renda;
+VII - áreas rurais - áreas não urbanizadas de cidade ou vila, áreas urbana isolada, aglomerados rurais de extensão urbana, aglomerados rurais isolados (povoado), aglomerados rurais isolados (núcleo), aglomerados rurais isolados (lugarejo), aldeias e zonas rurais, assim definidas pela Fundação Instituto Brasileiro de Geografia e Estatística - IBGE;
+VIII - pequenas comunidades - comunidades com população residente em áreas rurais ou urbanas de Municípios com até cinquenta mil habitantes;
+IX - localidades de pequeno porte - vilas, aglomerados rurais, povoados, núcleos, lugarejos e aldeias, assim definidos pelo IBGE; e
+X - núcleo urbano informal consolidado - aquele de difícil reversão, considerados o tempo da ocupação, a natureza das edificações, a localização das vias de circulação e a presença de equipamentos públicos, entre outras circunstâncias a serem avaliadas pelo Município.
+Parágrafo único. A definição do disposto no inciso VIII do caput especifica as áreas a que se refere o inciso VI do caput do art. 3º da Lei Complementar nº 141, de 13 de janeiro de 2012.
