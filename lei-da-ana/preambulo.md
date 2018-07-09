@@ -1,2 +1,2 @@
-Dispõe sobre a criação da Agência Nacional de Águas - ANA, entidade federal de implementação da Política Nacional de Recursos Hídricos e de coordenação do Sistema Nacional de Gerenciamento de Recursos Hídricos, e dá outras providências.
+Dispõe sobre a criação da Agência Nacional de Águas - ANA, entidade federal de implementação da Política Nacional de Recursos Hídricos, de coordenação do Sistema Nacional de Gerenciamento de Recursos Hídricos e responsável pela instituição de normas de referência nacionais para a regulação da prestação dos serviços públicos de saneamento básico.
 O VICE-PRESIDENTE DA REPÚBLICA no exercício do cargo de PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
