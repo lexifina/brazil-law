@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98154, de 20 de junho de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 1901.90.90 Mercadoria: Preparação alimentícia de farinha de trigo acrescida de açúcar, sal e fermento, apresentada em flocos de dimensões aproximadas de 4mm x 2mm x 0,75mm, própria para empanar alimentos, tais como carnes, salgados e sushi, para posterior processo de fritura. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 19.01), RGI 6 (texto da subposição 1901.90) e da RGC 1 (texto do item 1901.90.90) da NCM/SH constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto n.º 8.950, de 2016, com alterações posteriores, e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº1.788, de 2018.
+.
+[arquivo anexo: SC Cosit nº 98.154-2018 .pdf]
