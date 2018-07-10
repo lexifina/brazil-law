@@ -1,0 +1,4 @@
+Solução de Divergência Cosit nº 98015, de 26 de junho de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Reforma de ofício a Solução de Consulta SRRF/7ª RF/DIANA nº 319, de 8 de agosto de 2005. Código NCM 7116.20.10 Mercadoria: Pastilha de diamante policristalino (diamante policristalino em pó e cobalto), sinterizada em base cilíndrica de metal duro (carboneto de tungstênio), com dimensões de 13 mm, 16 mm e 19 mm, própria para ser fixada em ferramentas de corte (brocas de perfuração e sondagens), constituindo parte operante destas ferramentas. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 71.16), RGI 3 b), RGI 6 (texto da subposição 7116.20) e RGC 1 (texto do item 7116.20.10) da NCM constante na TEC, aprovada pela Resolução Camex nº 125, de 2016, e na Tipi aprovada pelo Decreto 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435/1992, e atualizadas pela IN RFB nº 1.788/2018.
+.
+[arquivo anexo: SD Cosit nº 98.015-2018 .pdf]
