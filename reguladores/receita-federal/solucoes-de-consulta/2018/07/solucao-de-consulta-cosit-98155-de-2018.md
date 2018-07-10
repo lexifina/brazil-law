@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98155, de 20 de junho de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 1901.90.90 Mercadoria: Preparação alimentícia de farinha de trigo apresentada em pó, obtida pela simples mistura de farinha de trigo enriquecida com ferro e ácido fólico, amido de milho, fermento químico, ovo desidratado, sal, goma xantana e páprica doce, própria para empanar carnes e legumes após ser misturada com água. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 19.01), RGI 6 (texto da subposição 1901.90) e da RGC 1 (texto do item 1901.90.90) da NCM/SH constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto n.º 8.950, de 2016, com alterações posteriores, e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº1.788, de 2018.
+.
+[arquivo anexo: SC Cosit nº 98.155-2018 .pdf]
