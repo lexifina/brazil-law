@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. PERDA SUPERVENIENTE DO INTERESSE JURÍDICO NA LIDE. RECURSO PREJUDICADO.
+Relatório
+    1. Em 23.2.2018, a Secretaria Judiciária deste Supremo Tribunal certificou a identidade das questões trazidas no presente recurso e aquelas objeto do Tema n. 607 da repercussão geral (Recurso Extraordinário n. 733.433, e-doc. 6).
+    2. Em 26.2.2018, Rio Grande do Sul apresentou “manifestação pela prejudicialidade do recurso”, pela qual narra ter sido a prejudicialidade da ação apontada pela própria Defensoria Pública nos termos seguintes:
+    “(...) em 15.01.2010 foi editada a Ordem de Serviço 001/2010 pelo IGP, que expressamente revogou a Ordem de Serviço nº 001/2007 (artigo 10) e adequou a rotina daquele órgão ao disposto na Lei Estadual nº 8.109/85 (Doc. 1). Cabe esclarecer que a edição da Ordem de Serviço 001/2010 se deu após extensas tratativas extrajudiciais entabuladas por esta Defensoria Pública com o Instituto-Geral de Perícias. Desta feita, em razão da edição do diploma administrativo supramencionado, a presente ação civil pública perdeu o seu objeto, razão pela qual requer-se a homologação da presente desistência (artigo 158, parágrafo único, do CPC), com a baixa e extinção do presente feito nos termos do artigo 267, inciso VIII, do CPC” (e-doc. 7, fl. 2).
+    Acrescenta o Rio Grande do Sul:
+    “De fato, como se lê das razões acima transcritas, ainda quando da oposição dos embargos de declaração perante o Tribunal a quo, a recorrente já reconhecia faltar interesse no prosseguimento da ação civil pública originalmente proposta, porque não mais existente o ato administrativo por ela combatido. (…) Assim, a hipótese, aqui, é de se reconhecer a prejudicialidade do recurso extraordinário com agravo, por força da prejudicialidade da ação civil pública proposta na origem (…) Por oportuno, observe-se que essa foi a exata solução dedicada ao Recurso Especial nº 1.327.912/RS, tirado do mesmo acórdão proferido na origem por decisão do eminente Ministro Benedito Gonçalves do egrégio Superior Tribunal de Justiça (…) Por fim, noâmbito desse egrégio Supremo Tribunal Federal, a Reclamação 13.169/RS, ajuizada em face do mesmo acórdão ora recorrido, foi julgada prejudicada pelo eminente Relator, Ministro Ricardo Lewandowski” (e-doc. 7, fls. 3-5).
+    3. Em 24.4.2018, determinei a intimação da Defensoria Pública do Rio Grande do Sul para manifestar-se sobre o quanto alegado (e-doc. 16).
+    4. Em 22.5.2018, a Seção de Agravos deste Supremo Tribunal certificou que “não houve qualquer manifestação em relação ao despacho de 27/04/2018” (e-doc. 19).
+    Analisada a questão trazida na espécie, DECIDO.
+    5. No recurso extraordinário, a Defensoria Pública do Rio Grande do Sul alegou que, “em razão da edição do diploma administrativo supramencionado [Ordem de Serviço 001/2010], a presente ação civil pública perdeu o seu objeto, razão pela qual requer-se a homologação da presente desistência (art. 158, parágrafo único, do CPC), com baixa e extinção do presente feito, nos termos do artigo 267, inc. VIII, do CPC”, acentuando, entretanto, a necessidade de julgamento do recurso para que fosse reconhecida sua legitimidade ativa (vol. 5, e-STJ, fl. 400).
+    Registre-se ter a Defensoria Pública se mantido silente ante a intimação para manifestar eventual interesse no prosseguimento do feito.
+    6. Tem-se, portanto, a perda do objeto deste recurso em razão da não subsistência do ato administrativo objeto da ação civil pública inicialmente proposta e da qual se originou a presente irresignação.
+    7. Pelo exposto, julgo prejudicado o recurso extraordinário com agravo pela perda do interesse jurídico na lide (al. c do inc. V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 10 de julho de 2018.
+Ministra CÁRMEN LÚCIA
+Presidente
