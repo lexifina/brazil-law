@@ -1,0 +1,14 @@
+DESPACHO
+    1. Mandado de Segurança impetrado por Iara Monteiro da Silva contra o Acórdão n. 2.780/2016, proferido pelo Tribunal de Contas da União na Tomada de Contas n. 011.706/2014-7.
+    2. Em 29.5.2018, o Ministro Edson Fachin deferiu “parcialmente pedido de liminar, nos termos do art. 7º, III, da Lei 12.016/2009, tão somente para suspender os efeitos do Acórdão 2.780/2016 em relação à Impetrante até o julgamento definitivo deste mandado de segurança e determinar o imediato restabelecimento do benefício de pensão especial da qual é titular (eDOCs 6)” (doc. 22).
+    3. Em 10.7.2018, a Impetrante peticiona noticiando que, “apesar de claríssima e bem fundamentada a r. decisão monocrática, o benefício pensional até a presente data não foi restabelecido nem foram depositadas as parcelas “atrasadas” retroativamente desde a época do cancelamento indevido (MARÇO/2018)” (doc. 41).
+    Explica que, “ao entrar em contato com o chefe do setor responsável pelo pagamento de sua pensão por morte, Sr. Rogério, da UFRPE, para saber se ele já tinha ciência da decisão de deferimento e confirmar quando estaria restabelecido o benefício pensional, a impetrante recebeu a seguinte informação dele: o ofício do STF já estava na mesa dele, mas, como a folha de julho estava fechada, o pagamento da pensão só será incluído a partir da folha de agosto, inclusive das parcelas atrasadas” (doc. 41).
+    Argumenta que “talvez o primeiro pagamento só aconteça em setembro então” e que “essa demora exagerada e falta de interesse em pagar a verba alimentar da impetrante caracterizam um grave descumprimento da ordem judicial, pois uma decisão que ordena o restabelecimento IMEDIATO de uma pensão, mas cuja efetivação ocorra uns três meses depois (restabelecimento apenas em ago/18 e pagamento em set/18), com certeza está sendo desrespeitada” (doc. 41).
+    Requer “o restabelecimento e o pagamento da pensão da impetrante sejam efetuados imediatamente, em até 5 (cinco) dias, com pagamento retroativo desde a parcela cancelada indevidamente (MARÇO/18), por meio de folha suplementar específica para as parcelas atrasadas/vencidas, referente às folhas de março a julho/2018 (se já estiverem fechadas), atualizadas com a devida correção monetária e juros, voltando ao pagamento normal a partir da folha de agosto/2018” (doc. 41).
+    Requer, ainda, “no caso de descumprimento de Vossa decisão, que seja aplicada multa diária de RS 1.000 (mil reais) por dia, solidariamente, para a UFRPE e ao TCU”
+    4. Intime-se a Universidade Federal Rural de Pernambuco - UFRPE, com a urgência que o caso requer, pois se trata de verba alimentar e a Impetrante é pessoa idosa, para informar sobre o cumprimento da decisão, no prazo de 5 dias.
+    Publique-se.
+    Brasília, 10 de julho de 2018.
+Ministra CÁRMEN LÚCIA
+Presidente
+(art. 13, inc. VIII, do RISTF)
