@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98159, de 27 de junho de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 2106.90.30 Mercadoria: Complemento alimentar em pó, solúvel, composto de açaí em pó, extrato de chá verde (camelia sinensis), cafeína, maltodextrina, polidextrose, taurina, aroma de guaraná, vitaminas C, B1, B3 e B6, minerais picolinato de cromo e selenito de sódio, e aditivos alimentares, apresentado em lata de 200 g. DISPOSITIVOS LEGAIS: RGI-1 (texto da posição 21.06), RGI-6 (texto da subposição 2106.90) e RGC-1 (texto do item 2106.90.30) da NCM/SH, constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, com alterações posteriores, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, com alterações posteriores. Subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 1.788, de 2018.
+.
+[arquivo anexo: SC Cosit nº 98.159-2018 .pdf]
