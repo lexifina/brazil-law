@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão da 10ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 1, p. 191):
+    “CONCESSÃO DE USO ESPECIAL DE BEM PÚBLICO. Concessão de uso especial de bem público para fins de moradia. Art. 6° e 183, § da CF. LF no 10.251/01(sic). Art. l° da MP no 2.220/01. — A concessão especial de uso pra moradia pode ser concedida aos possuidores de áreas públicas, nas condições previstas em lei. A concessão exige prévia autorização em lei local, pois o balanceamento do interesse do possuidor à moradia deve ser contraposto ao interesse da sociedade de ver as áreas públicas destinadas ao uso comum, mediante a fiscalização do Legislativo. Inexistência de lei. Discricionariedade da Administração na análise da concessão, no que o Poder Judiciário não poder intervir. — Improcedência. Recurso da autora desprovido.
+    Os embargos de declaração foram rejeitados (eDOC 1, p. 204-208).
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 6º e 183, caput e § 1º, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que é inequívoco o “preenchimento dos requisitos legais que enseja o reconhecimento direito à concessão de uso especial para fins de moradia em favor da recorrente” (eDOC 1, p. 222); que “cuida de ato vinculado e, como tal, possui justiciabilidade plena, ou seja, o Poder Judiciário está autorizado a intervir e declarar a concessão de uso especial para fins de moradia” (eDOC 1, p. 225); e que “o v. acórdão ora recorrido contrariou os arts. 6º e 183, caput e § 1º, da Constituição, quando afirmou a competência discricionária da Municipalidade de São Paulo para reconhecer concessão de uso especial para fins de moradia cujos requisitos legais restaram devidamente preenchidos” (eDOC 1, p. 225).
+    A Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso ante a incidência à espécie dos óbices das Súmulas 279 e 280 do STF (eDOC 1, p. 259).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Na espécie, verifica-se que o Tribunal de origem apreciou a matéria à luz da legislação infraconstitucional pertinente (Lei 10.257/2001, Medida Provisória 2.220/2001 e Lei Municipal 13.514/2003). Desse modo, a discussão referente ao preenchimento dos requisitos para a concessão de uso especial de bem público, bem como sobre a discricionariedade, ou não, do município para a concessão revela-se adstrita ao âmbito infraconstitucional, tornando oblíqua ou reflexa eventual ofensa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário, além de atrair a incidência à espécie dos óbices das Súmulas 279 e 280 do STF.
+    Ante o exposto, nego provimento aos recursos, nos termos dos arts. 932, IV, a, do CPC, e 21, § 1º, do RISTF.
+    Nos termos do artigo 85, § 11, do CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo e a suspensão da exigibilidade por ser a parte beneficiária da justiça gratuita.
+    Publique-se.
+    Brasília, 11 de julho de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
