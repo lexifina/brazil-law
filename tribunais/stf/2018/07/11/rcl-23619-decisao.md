@@ -1,0 +1,11 @@
+Despacho: Trata-se de reclamação, com pedido de liminar, ajuizada em face de ato de convocação de candidatos ao cargo de Auditor junto ao Tribunal de Contas dos Municípios de Goiás para participarem de etapa concernente a avaliação psicológica.
+    Neguei seguimento ao pedido, ante a impossibilidade de aplicação retroativa de súmula vinculante e a falta de aderência entre o paradigma apontado e a decisão reclamada (eDOC 32).
+    Contra essa decisão foi interposto agravo interno, no qual, os agravantes, além de impugnarem os fundamentos da decisão agravada, noticiaram haver o TCE/GO, nos autos da Representação 20160047000509, concedido medida liminar “determinando a anulação da Avaliação Psicológica e a realização de uma nova convocação de todos (os candidatos aprovados até o momento anterior (...)” (eDOC 33, p. 13), a qual estaria sendo descumprida pelo reclamado, que determinou a realização da prova oral em 15 de abril de 2016, sem convocar os candidatos que se insurgiam contra a fase de avaliação psicológica. Em seguida, requereram a concessão de tutela provisória de urgência, para suspender-se o andamento do concurso em exame; a realização do juízo de retratação ou o provimento do agravo.
+    Houve apresentação de contraminuta (eDOC 43).
+    O concurso público foi homologado em maio de 2018, tendo prazo de validade de 2 (dois) anos, prorrogáveis por igual período, conforme o edital (eDOC 4, p. 9).
+    Tendo em vista o decurso do tempo transcorrido desde a data da propositura da ação (eDOC 30, p. 3) e a existência do Acórdão 4.261, de 23 de agosto de 2017, exarado nos autos da Representação 201600047000509, no qual o Pleno do TCE/GO declarou “nulo o subitem 2.DA AVALIAÇÃO PSICOLÓGICA, do item IX. DA TERCEIRA FASE, do Edital nº 03/2014, de Abertura de Inscrições ao Concurso Público para o Cargo de Auditor do Tribunal de Contas dos Municípios do Estado de Goiás”, obtida mediante consulta ao sítio eletrônico do aludido órgão, é prudente que, antes do julgamento do agravo interno, intimem-se as partes para manifestem-se sobre o interesse no prosseguimento do feito, no prazo de cinco dias.
+    Publique-se. Intimem-se.
+    Brasília, 11 de julho de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
