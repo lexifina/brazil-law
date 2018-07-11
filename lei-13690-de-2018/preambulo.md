@@ -1,0 +1,2 @@
+Altera a Lei nº 13.502, de 1º de novembro de 2017, que dispõe sobre a organização básica da Presidência da República e dos Ministérios, para criar o Ministério da Segurança Pública, e as Leis nº 11.134, de 15 de julho de 2005, e 9.264, de 7 de fevereiro de 1996; e revoga dispositivos da Lei nº 11.483, de 31 de maio de 2007.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
