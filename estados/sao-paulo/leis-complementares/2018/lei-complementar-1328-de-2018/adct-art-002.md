@@ -1,0 +1,1 @@
+Artigo 2º - O Diretor Presidente do DETRAN-SP disciplinará os procedimentos para controle do previsto no artigo 5º das Disposições Transitórias da Lei Complementar nº 1.195, de 17 de janeiro de 2013, por ato específico, a ser editado no prazo de até 60 (sessenta) dias, contados a partir da data da publicação desta lei complementar.
