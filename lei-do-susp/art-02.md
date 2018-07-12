@@ -1,0 +1,1 @@
+Art. 2º A segurança pública é dever do Estado e responsabilidade de todos, compreendendo a União, os Estados, o Distrito Federal e os Munícipios, no âmbito das competências e atribuições legais de cada um.

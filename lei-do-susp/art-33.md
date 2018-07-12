@@ -1,0 +1,1 @@
+Art. 33. Aos órgãos de correição, dotados de autonomia no exercício de suas competências, caberá o gerenciamento e a realização dos processos e procedimentos de apuração de responsabilidade funcional, por meio de sindicância e processo administrativo disciplinar, e a proposição de subsídios para o aperfeiçoamento das atividades dos órgãos de segurança pública e defesa social.

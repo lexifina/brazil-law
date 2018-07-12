@@ -1,0 +1,2 @@
+Art. 34. A União, os Estados, o Distrito Federal e os Municípios deverão instituir órgãos de ouvidoria dotados de autonomia e independência no exercício de suas atribuições.
+Parágrafo único. À ouvidoria competirá o recebimento e tratamento de representações, elogios e sugestões de qualquer pessoa sobre as ações e atividades dos profissionais e membros integrantes do Susp, devendo encaminhá-los ao órgão com atribuição para as providências legais e a resposta ao requerente.

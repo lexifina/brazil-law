@@ -1,0 +1,1 @@
+Art. 41. A Rede EaD-Senasp é escola virtual destinada aos profissionais de segurança pública e defesa social e tem como objetivo viabilizar o acesso aos processos de aprendizagem, independentemente das limitações geográficas e sociais existentes, com o propósito de democratizar a educação em segurança pública e defesa social.

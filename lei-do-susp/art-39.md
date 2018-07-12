@@ -1,0 +1,3 @@
+Art. 39. A matriz curricular nacional constitui-se em referencial teórico, metodológico e avaliativo para as ações de educação aos profissionais de segurança pública e defesa social e deverá ser observada nas atividades formativas de ingresso, aperfeiçoamento, atualização, capacitação e especialização na área de segurança pública e defesa social, nas modalidades presencial e a distância, respeitados o regime jurídico e as peculiaridades de cada instituição.
+§ 1º A matriz curricular é pautada nos direitos humanos, nos princípios da andragogia e nas teorias que enfocam o processo de construção do conhecimento.
+§ 2º Os programas de educação deverão estar em consonância com os princípios da matriz curricular nacional.
