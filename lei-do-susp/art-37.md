@@ -1,0 +1,5 @@
+Art. 37. Integram o Sinesp todos os entes federados, por intermédio de órgãos criados ou designados para esse fim.
+§ 1º Os dados e as informações de que trata esta Lei deverão ser padronizados e categorizados e serão fornecidos e atualizados pelos integrantes do Sinesp.
+§ 2º O integrante que deixar de fornecer ou atualizar seus dados e informações no Sinesp poderá não receber recursos nem celebrar parcerias com a União para financiamento de programas, projetos ou ações de segurança pública e defesa social e do sistema prisional, na forma do regulamento.
+§ 3º O Ministério Extraordinário da Segurança Pública é autorizado a celebrar convênios com órgãos do Poder Executivo que não integrem o Susp, com o Poder Judiciário e com o Ministério Público, para compatibilização de sistemas de informação e integração de dados, ressalvadas as vedações constitucionais de sigilo e desde que o objeto fundamental dos acordos seja a prevenção e a repressão da violência.
+§ 4º A omissão no fornecimento das informações legais implica responsabilidade administrativa do agente público.
