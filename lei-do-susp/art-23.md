@@ -1,0 +1,2 @@
+Art. 23. A União, em articulação com os Estados, o Distrito Federal e os Municípios, realizará avaliações anuais sobre a implementação do Plano Nacional de Segurança Pública e Defesa Social, com o objetivo de verificar o cumprimento das metas estabelecidas e elaborar recomendações aos gestores e operadores das políticas públicas.
+Parágrafo único. A primeira avaliação do Plano Nacional de Segurança Pública e Defesa Social realizar-se-á no segundo ano de vigência desta Lei, cabendo ao Poder Legislativo Federal acompanhá-la.

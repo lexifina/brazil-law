@@ -1,0 +1,1 @@
+Art. 43. Os documentos de identificação funcional dos profissionais da área de segurança pública e defesa social serão padronizados mediante ato do Ministro de Estado Extraordinário da Segurança Pública e terão fé pública e validade em todo o território nacional.
