@@ -1,0 +1,1 @@
+Art. 11. O Ministério Extraordinário da Segurança Pública fixará, anualmente, metas de excelência no âmbito das respectivas competências, visando à prevenção e à repressão das infrações penais e administrativas e à prevenção dos desastres, e utilizará indicadores públicos que demonstrem de forma objetiva os resultados pretendidos.
