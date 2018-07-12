@@ -1,0 +1,1 @@
+Art. 28. As autoridades, os gestores, as entidades e os órgãos envolvidos com a segurança pública e defesa social têm o dever de colaborar com o processo de avaliação, facilitando o acesso às suas instalações, à documentação e a todos os elementos necessários ao seu efetivo cumprimento.

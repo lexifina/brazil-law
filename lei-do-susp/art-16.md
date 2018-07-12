@@ -1,0 +1,1 @@
+Art. 16. Os órgãos integrantes do Susp poderão atuar em vias urbanas, rodovias, terminais rodoviários, ferrovias e hidrovias federais, estaduais, distrital ou municipais, portos e aeroportos, no âmbito das respectivas competências, em efetiva integração com o órgão cujo local de atuação esteja sob sua circunscrição, ressalvado o sigilo das investigações policiais.

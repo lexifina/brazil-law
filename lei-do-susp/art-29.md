@@ -1,0 +1,1 @@
+Art. 29. O processo de avaliação das políticas de segurança pública e defesa social deverá contar com a participação de representantes dos Poderes Legislativo, Executivo e Judiciário, do Ministério Público, da Defensoria Pública e dos Conselhos de Segurança Pública e Defesa Social, observados os parâmetros estabelecidos nesta Lei.
