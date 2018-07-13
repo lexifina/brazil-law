@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de recurso extraordinário interposto em face do acórdão da 5ª Turma Recursal dos Juizados Especiais Federais do Rio Grande do Sul, que desproveu o recurso da União, assentando o direito da recorrida à apuração do imposto de renda na forma do art. 12-A da Lei nº 7.713/1988 (eDOC 63,p. 3).
+    No recurso extraordinário (eDOC 68), interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 2º; 5º, II; 37, caput; e 150, II, do Texto Constitucional.
+    Sustenta-se, em síntese, o seguinte (eDOC 68, p. 8):
+    “O art. 12-A da Lei nº 7.713/1988 institui forma especial de tributação, a qual não pode ser aplicada em desconformidade com as disposições legais que a preveem. O regime de tributação incide exclusivamente na fonte, ou seja, não pode ser somado aos rendimentos percebidos no ano-base.”
+    Os embargos de declaração foram desprovidos (eDOC 73).
+    É o relatório. Decido.
+    De plano, verifica-se que o Tribunal de origem apreciou a matéria, à luz da legislação infraconstitucional aplicável à espécie, notadamente as Leis nº 7.713/1988, 8.541/1992, 9.250/1995 e 12.350/2010. Sendo assim, a discussão referente à possibilidade de apuração do imposto de renda na forma do art. 12-A da Lei nº 7.713/1988 revela-se adstrita ao âmbito infraconstitucional, tornando oblíqua ou reflexa eventual ofensa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário.
+    Nesse sentido, vejam-se os seguintes precedentes:
+    “Agravo regimental no agravo de instrumento. Tributário. IRPF. Complementação de aposentadoria. Entidade de previdência privada. Leis nºs 7.713/88 e 9.250/95. Ofensa reflexa. Precedentes. 1. A afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República. 2. Esta Corte firmou entendimento no sentido de que a controvérsia acerca da incidência do imposto de renda sobre contribuições recolhidas para planos de previdência privada, conforme disposto nas Leis nºs 7.713/88 e 9.250/95, insere-se no âmbito infraconstitucional. 3. Agravo regimental não provido.” (AI 834236 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe 19.12.2012)
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 287 DO STF. IMPOSTO DE RENDA. COMPLEMENTAÇÃO DE APOSENTADORIA. 7.713/88 E 9.250/95. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO IMPROVIDO. I - As razões do agravo regimental não infirmam os fundamentos da decisão agravada, o que atrai a incidência da Súmula 287 do STF. II – A apreciação dos temas constitucionais, no caso, depende do prévio exame de normas infraconstitucionais (Leis 7.716/88 e 9.250/95). A afronta à Constituição, se houvesse, seria indireta ou reflexa, o que não enseja reexame na via do recurso extraordinário. Precedente. III – Agravo regimental improvido.”
+(AI 736188 AgR, Rel. Min. RICARDO LEWANDOWSKI, Primeira Turma, DJe 12.11.2010)
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 13 de julho de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
