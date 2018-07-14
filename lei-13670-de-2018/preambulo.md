@@ -1,0 +1,2 @@
+Altera as Leis nº s 12.546, de 14 de dezembro de 2011, quanto à contribuição previdenciária sobre a receita bruta, 8.212, de 24 de julho de 1991, 8.218, de 29 de agosto de 1991, 9.430, de 27 de dezembro de 1996, 10.833, de 29 de dezembro de 2003, 10.865, de 30 de abril de 2004, e 11.457, de 16 de março de 2007, e o Decreto-Lei nº 1.593, de 21 de dezembro de 1977.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
