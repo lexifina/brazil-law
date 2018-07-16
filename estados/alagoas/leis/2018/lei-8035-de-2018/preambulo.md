@@ -1,0 +1,7 @@
+LEI Nº 8.035, DE 11 DE JULHO DE 2018.
+
+ALTERA A REDAÇÃO DO § 5º DO ART. 12 DA LEI ESTADUAL Nº 7.858, DE 28 DE DEZEMBRO DE 2016, E DÁ OUTRAS PROVIDÊNCIAS.
+
+O GOVERNADOR DO ESTADO DE ALAGOAS
+
+Faço saber que o Poder Legislativo Estadual decreta e eu sanciono a seguinte Lei:
