@@ -1,0 +1,7 @@
+LEI Nº 8.033, DE 11 DE JULHO DE 2018.
+
+DECLARA O COCO DE RODA PATRIMÔNIO CULTURAL IMATERIAL DO ESTADO DE ALAGOAS.
+
+O GOVERNADOR DO ESTADO DE ALAGOAS
+
+Faço saber que o Poder Legislativo Estadual decreta e eu sanciono a seguinte Lei:
