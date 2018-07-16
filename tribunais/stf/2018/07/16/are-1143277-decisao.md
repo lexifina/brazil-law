@@ -1,0 +1,28 @@
+Decisão: Trata-se agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão da Turma da Fazenda do Colégio Recursal – Araçatuba, do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 6, p. 52):
+    “SERVIDOR PÚBLICO ESTATUTÁRIO – FGTS – Reajuste salarial – Horas extraordinárias e descanso intrajornada – Ausência de previsão legal – DESPROVIMENTO DO RECURSO”
+    Os embargos de declaração foram rejeitados (eDOC 6, p. 64-66).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. º, LV; 7º, IX, XIII, XVI; 39, § 3º; 93, IX, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, a ocorrência de ofensa aos arts. 141, 374, 405, 492 e 493 do Código de Processo Civil; que o acórdão recorrido utilizou “fundamento de causa não ventilada pelas partes, pois houve inovação nos autos ao afirmarem que o Recorrente ficava de sobreaviso durante sua jornada de trabalho” (eDOC 6, p. 82); a nulidade do acórdão recorrido ante a deficiência na fundamentação (eDOC 6, p. 84); que “As horas em sobre jornadas prestadas habitualmente pelo Recorrente, não foram remuneradas corretamente pela Reclamada, pois o valor pago a título de Gratificação – Hora Extra, é bem inferior ao devido, conforme demonstrado na inicial.” (eDOC 6, p. 87); e que “a Recorrida em sua defesa limitou-se a suscitar que as horas extras realizadas foram devidamente pagas, mas por um simples cálculo aritmético realizado na petição inicial, podemos verificar as diferenças devidas, e não houve nenhum argumento sobre sobreaviso, não tendo oportunidade o Recorrente de se manifestar e se defender sobre tal argumento lançado na r. sentença o que viola literalmente os princípios do contraditório e ampla defesa insculpidos no artigo 5º inc. LV da CF” (eDOC 6, p. 91/92).
+    O juízo de admissibilidade inadmitiu o extraordinário assentando a deficiência na fundamentação da repercussão geral, a inexistência de ofensa direta à Carta da República, bem como a existência dos óbices das Súmulas 356 e 282 do STF (eDOC 6, p. 110).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    De início, nos termos do art. 102, III, a, da Constituição Federal, o cabimento do recurso extraordinário está limitado às hipóteses de ofensa a dispositivos da Constituição, de modo que não se revela cognoscível o recurso extraordinário ante a imputação de ofensa a artigos do Código de Processo Civil.
+    No que se refere à alegação de deficiência na prestação jurisdicional sob o argumento de deficiência na fundamentação do acórdão recorrido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.8.2010, o Plenário desta Corte assentou a repercussão geral do Tema 339 referente à negativa de prestação jurisdicional, por ausência de fundamentação, e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Relativamente a suposta ofensa ao art. 5º, LIV e LV, da Constituição Federal, o Supremo Tribunal Federal, no julgamento do ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe de 1º.08.2013, Tema 660, assentou que não há repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório, direito adquirido, do ato jurídico perfeito e da coisa julgada é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário, como no caso dos autos.
+    Por fim, verifica-se que o Tribunal de origem, ao apreciar o recurso inominado, asseverou (eDOC 6, p. 52):
+    “A controvérsia foi devidamente analisada pelo r. Juízo a quo, que enfrentou todas as questões discutidas e apreciou corretamente a prova existente nos autos.”
+    Destaco, ainda, os seguintes trechos da sentença:
+    “Os motoristas passam o dia de sobreaviso, dirigindo veículos/ambulâncias quando chamados; ficam à disposição e são remunerados por isso, mas não trabalham o tempo todo (e nem poderiam, ante a exaustão física), não têm nenhuma carga extraordinária de trabalho e não têm direito a mais do lhes foi pago.
+    O trabalho aos domingos e feriados não foi demonstrado.
+    (...)
+    Após, janeiro de 2013, nenhuma hora extraordinária foi anotada em folha de ponto, de forma que não caberia o pagamento de horas extraordinárias.” (eDOC 6, p. 13).
+    “O pagamento de horas-extras pelo período corrido importaria enriquecimento ilícito do autor e inarredável prejuízo à população do Município, pois remuneraria horas que não foram efetivamente trabalhadas.
+    Por isso a Administração, para compensar esse horário diferenciado pagou mensalmente ao autor o valor fixo de 14,28 horas-extraordinárias até outubro de 2012.” (eDOC 6, p. 15).
+    Como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas constantes dos autos, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, b, do CPC.
+    Deixo de aplicar art. 85, § 11, do CPC, tendo em vista que não houve prévia fixação de honorários na origem.
+    Publique-se.
+    Brasília, 16 de julho de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
