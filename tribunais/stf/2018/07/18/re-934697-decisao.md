@@ -1,0 +1,20 @@
+Decisão
+    Trata-se de Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (e-STJ fl. 359, Vol. 4):
+    “TRIBUTÁRIO. PIS/COFINS. NÃO-CUMULATIVIDADE. ART. 195, § 12, DA CF/1988 - EC 42/2003. LEIS 10.637/2002, 10.833/2003 e 10.925/2004. VEDAÇÃO DE TRATAMENTO DESIGUAL A CONTRIBUINTES EM SITUAÇÕES EQUIVALENTES. ART. 150, II, DA CF/1988.
+    1. A EC 42/2003 - art. 195, § 12, da CF/1988 - e as Leis 10.637/2002, 10.833/2003 e 10.925/2004 estabeleceram hipóteses de não-cumulatividade para as contribuições para o PIS e para a COFINS. Essas Leis majoraram significativamente as alíquotas das contribuições, com a contrapartida da não-cumulatividade, gerando hipótese de créditos para os contribuintes.
+    2. A efetivação da não-cumulatividade do PIS e da COFINS pressupõe a necessária previsão de deduções que digam respeito a operações anteriores do contribuinte, que possam ser aproveitadas posteriormente. As deduções previstas nas Leis 10.637/2002 e 10.833/2003 não configuram benesse fiscal, mas verdadeiro pressuposto da não-cumulatividade, no intuito de compensar o aumento da alíquota das contribuições para o PIS e a COFINS.
+    3. O art. 8º da Lei 10.925/2004 previu a não-cumulatividade para o contribuinte que tenha como insumo ou matéria-prima de origem animal ou vegetal previsto no NCM (Nomenclatura Comum do Mercosul), desde que o produto final seja destinado à alimentação humana ou animal.
+    4. Em razão do princípio da isonomia tributária, que veda ao ente tributante instituir tratamento desigual entre contribuintes que se encontram em situação equivalente - art. 150, II, da Constituição Federal de 1988 -, não se pode admitir o aumento significativo da alíquota das contribuições, sem a necessária contrapartida da não-cumulatividade.
+    5. A isonomia tributária não permite que sejam excluídos da não-cumulatividade prevista para as contribuições ao PIS e à COFINS os produtores que adquirem seus insumos ou matérias-primas de origem animal de pessoas físicas ou de cooperado pessoa física, pelo simples fato de não terem produto final destinado à alimentação humana ou animal, sem qualquer justificativa para tanto.
+    6. Aplicável o crédito presumido criado pelo art. 8º, caput e § 3º, da Lei 10.925/2004, que permite às pessoas jurídicas que produzam mercadorias de origem animal ou vegetal, classificadas nos capítulos lá especificados da NCM, a dedução nas contribuições para o PIS e COFINS, tal como especificado na norma.
+    7. Apelação cível e remessa oficial a que se nega provimento. ”
+    No apelo extremo, alegam-se, com amparo no art. 102, III, a, da Constituição Federal, violações aos arts. 2º, 5º, XXXV e LV, 93, IX, 97, 150, II e § 6º e 195, §§ 9º e 12, da Carta Magna.
+    É o relatório. Decido.
+    A irresignação merece prosperar. Efetivamente, o acórdão recorrido afastou o art. 8º, caput, e § 3º, da Lei 10.295/04, ao fundamento de que “a isonomia tributária não permite que sejam excluídos da não-cumulatividade prevista para as contribuições ao PIS e à COFINS os produtores que adquirem seus insumos ou matérias-primas de origem animal de pessoas físicas ou de cooperado pessoa física, pelo simples fato de não terem produto final destinado à alimentação humana ou animal, sem qualquer justificativa para tanto” (e-STJ fl. 359, Vol. 4). Entretanto, ao adotar essa fundamentação em julgado da 8ª Turma do Tribunal Regional Federal da 1ª Região, desrespeitou-se o que preleciona a Súmula Vinculante 10:
+    “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de Tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte.”
+     Diante do exposto, com base no art. 21, §§ 1º e 2º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, DOU PROVIMENTO AO RECURSO EXTRAORDINÁRIO, para anular o acórdão recorrido e determinar a observância do princípio da reserva de Plenário.
+    Publique-se.
+    Brasília, 18 de julho de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
