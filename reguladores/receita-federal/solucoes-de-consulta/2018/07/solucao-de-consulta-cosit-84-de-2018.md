@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 84, de 26 de junho de 2018
+ASSUNTO: PROCESSO ADMINISTRATIVO FISCAL EMENTA: PROGRAMA DE REGULARIZAÇÃO TRIBUTÁRIA (PRT). CRÉDITOS. PREJUÍZOS FISCAIS. INCORPORAÇÃO. Para fins de liquidação de débitos fiscais, na sistemática do PRT, instituído pela MP nº 766, de 2017, poderão ser utilizados créditos decorrentes de prejuízos fiscais próprios ou do responsável tributário pelo respectivo débito. Os prejuízos fiscais apurados pela sociedade incorporada não poderão ser usados pela incorporadora para fins de cômputo de crédito destinado a quitar débitos no âmbito do PRT. DISPOSITIVOS LEGAIS: Lei nº 5.172, de 25 de outubro de 1966, art. 132; Medida Provisória nº 766, de 2017; Decreto nº 3.000, de 1999, art. 514; Instrução Normativa (IN) RFB nº 1.687, de 2017, arts. 1º, §1º, 2º, I e II, 3º, §§ 3º e 4º, e 10, §1º, I.
+.
+[arquivo anexo: SC Cosit nº 84-2018.pdf]
