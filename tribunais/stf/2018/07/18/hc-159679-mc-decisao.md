@@ -1,0 +1,10 @@
+DESPACHO DO SENHOR MINISTRO CELSO DE MELLO: Este despacho é por mim proferido em razão de a eminente Senhora Ministra Presidente do Supremo Tribunal Federal achar-se no exercício interino da Chefia do Poder Executivo da União, nos termos do art. 80 da Constituição da República, e pelo fato de registrar-se a ausência, em território nacional, do eminente Senhor Ministro Vice-Presidente desta Corte, justificando-se, em consequência, a aplicação da norma inscrita no art. 37, I, do RISTF.
+    2. A presente ação de “habeas corpus” não veio instruída com os documentos necessários à demonstração da plausibilidade jurídica da pretensão ora deduzida, em especial cópia da decisão emanada do E. Superior Tribunal de Justiça.
+    Como se sabe, incumbe ao impetrante o ônus processual de produzir elementos documentais consistentes e pré-constituídos destinados a comprovar as alegações veiculadas no “writ” constitucional.
+    A própria jurisprudência do Supremo Tribunal Federal entende que a ação de “habeas corpus”, cujo rito é sumaríssimo, não comporta, em função de sua natureza processual, maior dilação probatória, eis que se impõe ao impetrante, como indeclinável obrigação de caráter jurídico, subsidiar, com elementos documentais pré-constituídos, o conhecimento da causa pelo Poder Judiciário.
+    A utilização adequada do remédio constitucional do “habeas corpus” exige, em consequência, seja o “writ” instruído, ordinariamente, com documentos suficientes e necessários à análise da pretensão de direito deduzida em tal sede processual, consoante acentua o magistério doutrinário (JOÃO ROBERTO PARIZATTO, “Do Habeas Corpus”, p. 168, 1991, Aide, v.g.).
+    Sendo assim, intime-se o impetrante para que, no prazo de 10 (dez) dias, sob pena de extinção deste processo, produza nos autos cópias dos documentos necessários ao exame da presente causa, especialmente dos elementos informativos que comprovem o alegado constrangimento ilegal à liberdade do ora paciente.
+    Publique-se.
+    Brasília, 18 de julho de 2018.
+Ministro CELSO DE MELLO
+(RISTF, art. 37, I)
