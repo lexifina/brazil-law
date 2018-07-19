@@ -1,0 +1,18 @@
+Decisão
+    Trata-se de Agravo contra decisão que negou seguimento a Recurso Extraordinário sob a alegação de que o acórdão recorrido está em sintonia com o entendimento desta CORTE.
+    O aresto do Tribunal de Justiça de Santa Catarina encontra-se assim ementado (e-STJ, fl. 444, Vol. 2):
+    “AÇÃO DE COBRANÇA. LIMPEZA E COLETA DE LIXO. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. RECURSO DESPROVIDO. O serviço de coleta de lixo, por ser divisível e específico, pode ser cobrado por intermédio de tarifa, diferentemente da limpeza pública, que só por imposto pode ter sua remuneração efetivada. Fixada a distinção entre taxa e tarifa pelo critério da natureza do serviço e não apenas pelo da compulsoriedade dele, o serviço público divisível, específico e compulsório de coleta de lixo será remunerado por taxa, ser for prestado diretamente pelo poder público; e por tarifa (ou preço público), se delegável e for prestado por concessionária, mesmo que obrigatória a adesão do usuário. Logo, impossível negar-se à concessionária prestadora do serviço a legitimidade para cobrar a contraprestação pela coleta do lixo. (TJSC - AC 00.011480-4, de Balneário Camboriú, Rel. Des. Volnei Carlin). (AC 2007.004374-0, de Balneário Camburiú, Rel. Des. Sérgio Roberto Baash Luz, j. 4-6-2008).”
+    Os Embargos de Declaração foram desprovidos (e-STJ, fl. 496, Vol. 2).
+    No apelo extremo, a parte recorrente aponta violações aos seguintes dispositivos constitucionais: art. 5º, XXXVI; 30, V; 37, XXI; 145, II e 175.
+    É o relatório. Decido.
+    Quanto à alegação de afronta à coisa julgada, o apelo extraordinário não tem chances de êxito, pois esta CORTE, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional.
+    Quanto ao mais, esta CORTE, no julgamento do RE 576.321-RG, (Rel. Min. RICARDO LEWANDOWSKI, Tema 146), sob a sistemática da repercussão geral, afirmou que I - A taxa cobrada exclusivamente em razão dos serviços públicos de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis não viola o artigo 145, II, da Constituição Federal; II - A taxa cobrada em razão dos serviços de conservação e limpeza de logradouros e bens públicos ofende o art. 145, II, da Constituição Federal [...] Confira-se a ementa do julgado:
+    “CONSTITUCIONAL. DIREITO TRIBUTÁRIO. TAXA. SERVIÇOS DE LIMPEZA PÚBLICA. DISTINÇÃO. ELEMENTOS DA BASE DE CÁLCULO PRÓPRIA DE IMPOSTOS. AUSÊNCIA DE IDENTIDADE. ART. 145, II E § 2º, DA CONSTITUIÇÃO. I - QUESTÃO DE ORDEM. MATÉRIAS DE MÉRITO PACIFICADAS NO STF. REPERCUSSÃO GERAL RECONHECIDA. CONFIRMAÇÃO DA JURISPRUDÊNCIA. DENEGAÇÃO DA DISTRIBUIÇÃO DOS RECURSOS QUE VERSEM SOBRE OS MESMOS TEMAS. DEVOLUÇÃO DESSES RE À ORIGEM PARA ADOÇÃO DOS PROCEDIMENTOS PREVISTOS NO ART. 543-B, § 3º, DO CPC. PRECEDENTES: RE 256.588-ED-EDV/RJ, MIN. ELLEN GRACIE; RE 232.393/SP, CARLOS VELLOSO. II - JULGAMENTO DE MÉRITO CONFORME PRECEDENTES. III - RECURSO PROVIDO.”
+    O acórdão recorrido não divergiu desse entendimento.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 19 de julho de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
