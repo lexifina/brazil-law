@@ -1,0 +1,21 @@
+Decisão
+    Trata-se de Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (Vol. 2, e-STJ fl. 320):
+    “TRIBUTÁRIO – CONSTITUCIONAL – DEMONSTRATIVO FINANCEIRO – ANO BASE 1990 – ATUALIZAÇÃO MONETÁRIA – LEI 8200/90.
+    1- A Lei 8.200/91 reconhecendo o equívoco perpetrado no referido ano-base de 1990 e com o intuito de sanar as distorções determinou que o contribuinte apurasse a diferença advinda da não aplicação do IPC/IBGE, porém postergou seu aproveitamento pra quatro período base a partir de 1993.
+    2 – Apelação e remessa oficial, não providas”.
+    No apelo extremo, alega-se, com amparo no art. 102, III, “a”, da Constituição Federal, violação ao artigo 5º, inciso II, da CF/88.
+    É o relatório. Decido.
+    Na presente hipótese, o Juízo de origem não analisou a questão constitucional veiculada, não tendo sido esgotados todos os mecanismos ordinários de discussão, INEXISTINDO, portanto, o NECESSÁRIO PREQUESTIONAMENTO EXPLÍCITO, que pressupõe o debate e a decisão prévios sobre o tema jurígeno constitucional versado no recurso. Incidência das Súmulas 282 (É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada) e 356 (O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento), ambas desta CORTE SUPREMA.
+    Não bastasse, em relação à ofensa ao 5º, inciso II, da Constituição Federal, aplica-se a restrição da Súmula 636/STF: Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.
+    Ademais, o Tribunal de origem, precipuamente com base na legislação ordinária pertinente (Leis 8024/99; 7799/89; 7777/89; 8080/90; e 8200/91), confirmou sentença de primeiro grau que concedeu segurança para que as demonstrações financeiras referentes ao ano-base de 1990 fossem atualizadas pelo IPC.
+    Trata-se, portanto, de matéria situada no contexto normativo infraconstitucional, de forma que as alegadas ofensas à Constituição seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo. A propósito, cita-se o seguinte precedente:
+    “EMENTA: Agravo regimental em recurso extraordinário. 2. Demonstrações financeiras. Correção monetária. IPC. 70,28%. Janeiro de 1989. Matéria infraconstitucional. Precedentes. 3. Agravo regimental a que se nega provimento”. (RE 367892 AgR / MG, Rel. Min. GILMAR MENDES, Segunda Turma, Dje. 20/04/2006).
+    Mesmo que superados esses graves óbices, a decisão de origem não se afastou da jurisprudência sedimentada por esta SUPREMA CORTE no qual, em sede de Questão de Ordem suscitada pelo Ministro GILMAR MENDES no julgamento do RE 221.142, estendeu os efeitos da decisão ao RE 242.689 (TEMA 311), para declarar a inconstitucionalidade da atualização prevista no artigo 30 da Lei nº 7.799/89, de forma que para as demonstrações financeiras do ano-base de 1990 (Plano Collor I), deve ser aplicado o IPC vigente como o índice correto para o período, por força do art. 5º, §2º, da Lei n. 7.777/89. A propósito, cita-se a súmula da decisão proferida no RE 221.142:
+    “Decisão: O Tribunal, por unanimidade e nos termos do voto do Relator, conheceu e deu provimento ao recurso extraordinário. O Tribunal, por maioria, resolveu questão de ordem, suscitada pelo Ministro Gilmar Mendes, no sentido de aplicar o resultado deste julgamento ao regime da repercussão geral da questão constitucional reconhecida no RE 242.689, Tema 311, para incidência dos efeitos do art. 543-B, do Código de Processo Civil, vencido o Ministro Marco Aurélio. Votou o Presidente, Ministro Joaquim Barbosa. Plenário, 20.11.2013”.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+    Publique-se.
+    Brasília, 20 de julho de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
