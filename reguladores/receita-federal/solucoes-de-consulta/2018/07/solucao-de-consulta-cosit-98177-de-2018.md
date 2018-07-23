@@ -1,0 +1,6 @@
+Solução de Consulta Cosit nº 98177, de 12 de julho de 2018
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 9102.12.20 Mercadoria: Relógio de pulso para esportes, fabricado em caixa de plástico, com visor exclusivamente optoeletrônico, constituído por bateria de lítio, processador, acelerômetro, receptor de GPS, bússola, memória interna de 3 GB, reprodutor de músicas integrado, tela de cristal mineral com visor de alta resolução e botão para comando das funções, compatível com Bluetooth, apresentado em conjunto com cabo para conexão USB 2.0, capaz de medir a distância percorrida, velocidade empregada, calorias queimadas, controlar treinos intervalados, monitorar zonas de ritmo, reproduzir músicas e registrar o tempo de sono do usuário.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 91.02), RGI 3 b), RGI 6 (textos das subposições de primeiro nível 9102.1 e de segundo nível 9102.12) e RGC 1 (texto do item 9102.12.20) da NCM constante da TEC, aprovada pela Resolução Camex nº 125, de 15 de dezembro de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016; e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 1.788, de 2018.
+Novo segmento
+[arquivo anexo: SC Cosit nº 98.177-2018.pdf]
