@@ -1,0 +1,62 @@
+Decisão
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que possui ementa com o seguinte cabeçalho (Vol. 1, fl. 172):
+    “Cerceamento de defesa – Ocorrência – Caso em que o autor foi impedido de produzir a prova dos fatos constitutivos de seu direito – Recurso provido”.
+    Opostos embargos de declaração, foram rejeitados em acórdão assim ementado (fl. 191, Vol. 1):
+    “Embargos de declaração – Omissão – Competência da Justiça Comum – inaplicabilidade do art. 125, § 4º da CF – Acolhem-se os embargos sem caráter infringente.”
+    No apelo extremo, interposto com amparo no art. 102, III, “a”, da Constituição Federal, a parte recorrente sustenta, em síntese, que o julgado ofendeu o artigo 125, § 4º, da Constituição Federal.
+    Em contrarrazões, o recorrido afirma, em suma, ausência dos requisitos da repercussão geral e de prequestionamento.
+    A decisão agravada tem por fundamento a necessidade de reexame dos fatos e provas (Súmula 279/STF).
+    No Agravo, a parte agravante sustenta, em síntese, a não incidência do óbice da Súmula 279/STF.
+    É o relatório. Decido.
+    O recurso merece provimento.
+    Inicialmente, verifica-se que a matéria foi devidamente prequestionada, bem como que está adequadamente fundamentada a repercussão geral.
+    O Tribunal de origem divergiu do entendimento firmado por esta CORTE no sentido de que a competência para julgar ações decorrentes de procedimento disciplinar militar é da Justiça Castrense, conforme determina o artigo 125, § 4º, da Constituição Federal. A propósito, por sua exatidão, adoto como razões de decidir os fundamentos apresentados pelo ilustre Min. DIAS TOFFOLI, por ocasião do julgamento do RE 872.778/SE (DJe de 7/4/2015), no qual se veiculava a mesma matéria dos presentes autos:
+     “DECISÃO.
+     Vistos.
+     Estado de Sergipe interpõe recurso extraordinário, com fundamento na alínea ‘a’ do permissivo constitucional, contra acórdão da Segunda Câmara Cível do Tribunal de Justiça do Estado do Sergipe, assim ementado, na parte que interessa:
+    ‘Constitucional e Administrativo - Ação anulatória c/c Danos Morais – Preliminar de incompetência absoluta do Juízo. Inacolhida – Militar – Punição Disciplinar – Contraditório e ampla defesa – Inobservância – Dano moral – Redução do quantum – Honorários sucumbenciais – Manutenção.
+    I – Tendo a pretensão indenizatória veiculo na exordial como causa patendi a sanção imposta ao demandante por meio do ato disciplinar que se pretende invalidar por meio de ação anulatória, é a Justiça Militar, in casu, a 6ª Vara Criminal da Comarca de Aracaju, competente para apreciar aludido pleito indenizatório.
+    (…)
+     VI – Recurso conhecido e parcialmente provido.’
+    No recurso extraordinário sustenta-se violação do artigo 125, § 4°, da Constituição Federal.
+     Decido.
+     A irresignação não merece prosperar, haja vista que o acórdão recorrido não se afastou da orientação jurisprudencial desta Suprema Corte, firmada no sentido de que a Emenda Constitucional nº 45/04, que deu nova redação ao § 4º do artigo 125 da Constituição Federal, ampliou o âmbito de atuação da Justiça Militar Estadual, atribuindo-lhe competência para processar e julgar as ações judiciais ajuizadas contra atos disciplinares militares.
+          Especificamente sobre o tema, transcrevo o teor da decisão proferida pelo Ministro Celso de Mello nos autos do RE nº 729.615/RS (DJe de 4/4/13), que bem aborda a questão:
+    ‘DECISÃO: O presente recurso extraordinário foi interposto contra decisão que, proferida pelo E. Tribunal de Justiça do Estado do Rio Grande do Sul, acha-se consubstanciada em acórdão assim ementado (fls. 47):
+    ‘AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO MILITAR. DESCONSTITUIÇÃO DE ATO DISCIPLINAR. COMPETÊNCIA DA JUSTIÇA MILITAR.
+    Incompetência da Justiça Comum para o julgamento do feito, em face do que dispõem os §§ 4º e 5º do art. 125 da Constituição Federal, com a redação dada pela Emenda Constitucional nº 45/04. Competência da Justiça Militar. Regra de competência que guarda natureza absoluta, em função da matéria. Precedentes da Corte.
+    NEGARAM PROVIMENTO AO AGRAVO DE INSTRUMENTO.’
+    A parte recorrente, ao deduzir o presente apelo extremo, sustentou que o Tribunal ‘a quo’ teria transgredido preceitos inscritos na Constituição da República.
+    O Ministério Público Federal, em parecer da lavra do ilustre Subprocurador-Geral da República Dr. PAULO DE TARSO BRAZ LUCAS, ao opinar pelo improvimento do recurso extraordinário em questão, formulou parecer assim ementado (fls. 78):
+    ‘RECURSO EXTRAORDINÁRIO – AÇÃO DE NULIDADE DE ATO ADMINISTRATIVO PUNITIVO C/C REINTEGRAÇÃO – SERVIDOR PÚBLICO MILITAR – COMPETÊNCIA DECLINADA EM FAVOR DA JUSTIÇA MILITAR – AGRAVO DE INSTRUMENTO – DECISÃO MANTIDA – ALEGAÇÃO DE CONTRARIEDADE AO ART. 125, §§ 4º E 5º, DA CF/88 – REDAÇÃO DADA PELA EC 45/04 – AMPLIAÇÃO DA COMPETÊNCIA DA JUSTIÇA CASTRENSE – PRECEDENTES DO STJ E DO STF – PARECER PELO IMPROVIMENTO DO RECURSO.’
+    Entendo assistir razão ao parecer da douta Procuradoria-Geral da República, no ponto em que opina pelo improvimento do presente recurso extraordinário, cujos termos adoto como fundamento da presente decisão, valendo-me, para tanto, da técnica da motivação ‘per relationem’, reconhecida como plenamente compatível com o texto da Constituição (AI 738.982/PR, Rel. Min. JOAQUIM BARBOSA – AI 809.147/ES, Rel. Min. CÁRMEN LÚCIA – AI 814.640/RS, Rel. Min. RICARDO LEWANDOWSKI – ARE 662.029/SE, Rel. Min. CELSO DE MELLO – HC 54.513/DF, Rel. Min. MOREIRA ALVES – MS 28.989-MC/PR, Rel. Min. CELSO DE MELLO – RE 37.879/MG, Rel. Min. LUIZ GALLOTTI – RE 49.074/MA, Rel. Min. LUIZ GALLOTTI, v.g.):
+    ‘Reveste-se de plena legitimidade jurídico-constitucional a utilização, pelo Poder Judiciário, da técnica da motivação ‘per relationem’, que se mostra compatível com o que dispõe o art. 93, IX, da Constituição da República. A remissão feita pelo magistrado – referindo-se, expressamente, aos fundamentos (de fato e/ou de direito) que deram suporte a anterior decisão (ou, então, a pareceres do Ministério Público ou, ainda, a informações prestadas por órgão apontado como coator) – constitui meio apto a promover a formal incorporação, ao ato decisório, da motivação a que o juiz se reportou como razão de decidir. Precedentes.’(AI 825.520-AgR-ED/SP, Rel. Min. CELSO DE MELLO)
+    Impende assinalar, por relevante, que o Supremo Tribunal Federal, corroborando a manifestação do Ministério Publico Federal, consagrou diretriz jurisprudencial que torna inacolhível a pretensão recursal ora deduzida (AI 785.580-AgR/SP, Rel. Min. GILMAR MENDES – ARE 664.930-AgR/SP, Rel. Min. LUIZ FUX, v.g.):
+    ‘AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. ALEGADA CONTRARIEDADE AO ART. 5º, XXXV, LIV E LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. VIOLAÇÃO AO ART. 93, IX, DA CONSTITUIÇÃO. INOCORRÊNCIA. ACÓRDÃO RECORRIDO DEVIDAMENTE FUNDAMENTADO. ART. 125, § 5º, DA CF. DETERMINAÇÃO DA COMPETÊNCIA DOS JUÍZES DE DIREITO DA JUSTIÇA MILITAR PARA PROCESSAR E JULGAR, SINGULARMENTE, AS AÇÕES JUDICIAIS CONTRA ATOS DISCIPLINARES, NADA DISPONDO ACERCA DO JULGAMENTO DESSAS AÇÕES PELO COLEGIADO. AGRAVO IMPROVIDO.
+     ..............................................................................................
+    III - O art. 125, § 5º, da Constituição Federal, determina que ‘compete aos juízes de direito do juízo militar processar e julgar, singularmente, os crimes militares cometidos contra civis e as ações judiciais contra atos disciplinares militares’, nada dispondo acerca do julgamento dessas ações pelo colegiado. Precedentes.
+     IV - Agravo regimental improvido.’ (ARE 715.817-AgR/SP, Rel. Min. RICARDO LEWANDOWSKI)
+     Vale referir, ainda, ante a pertinência de seu conteúdo, trecho da decisão que a eminente Ministra ELLEN GRACIE proferiu no âmbito do RE 634.703/SP, de que foi Relatora:
+    ‘Verifico que o acórdão recorrido divergiu da orientação deste Supremo Tribunal Federal no sentido de que a EC 45/04, que deu nova redação ao § 4º do art. 125 da CF/88, ampliou o âmbito de atuação da Justiça Militar Estadual, conferindo-lhe competência para processar e julgar as ações judiciais contra atos disciplinares militares. Nesse sentido cito o RHC 88.543/SP, rel. Min. Ricardo Lewandowski, 1ª Turma, DJ 27.4.2007.’
+    Sendo assim, pelas razões expostas, e considerando os precedentes referidos, conheço do presente recurso extraordinário, para negar-lhe provimento’.
+     Da mencionada decisão proferida pela Ministra Ellen Gracie no RE 634.703/SP, citada pelo Ministro Celso de Mello, destaco também a seguinte passagem:
+    ‘6. Corroborando esse entendimento, cito o parecer do Ministério Público Federal:
+    ‘Com efeito, a Emenda Constitucional nº 45/2004 ampliou a competência da Justiça Militar estadual para o julgamento das ações judiciais contra atos disciplinares.
+    Nesse sentido, o § 4º, do artigo 125 da CF/88, passou a contar com a seguinte redação:
+    ‘Compete à Justiça Militar estadual processar e julgar os militares dos Estados, nos crimes militares definidos em lei e as ações judiciais contra atos disciplinares militares, ressalvada a competência do júri quando a vítima for civil, cabendo ao tribunal competente decidir sobre a perda do posto e da patente dos oficiais e da graduação das praças’.
+    A propósito, cumpre destacar que o ato administrativo, sujeitando-se ao controle jurisdicional, pode ser compreendido como a declaração estatal que produz imediatos efeitos jurídicos, com observância da lei e do regime jurídico de direito público.
+    O Poder disciplinar, por sua vez, é aquele pelo qual a Administração Pública apura infrações e aplica penalidades aos servidores públicos e demais pessoas sujeitas à disciplina administrativa.
+    Todavia, para a imposição de sanções disciplinares, faz-se necessária a instauração de processo administrativo disciplinar, que, em decorrência de previsão constitucional, deve observar as garantias do contraditório, da ampla defesa e do devido processo legal.
+    Nesse contexto, os atos administrativos em geral, especialmente os atos administrativos disciplinares e, da mesma forma, o próprio processo administrativo disciplinar, estão sujeitos ao controle jurisdicional, mormente no que toca aos elementos relacionados à legalidade do ato ou ao abuso de poder.
+    Isso porque, não só o processo administrativo disciplinar, como, também, os atos administrativos disciplinares que dele resultam, podem conter ilegalidades ou abuso de poder, provocando lesão ao patrimônio jurídico pessoal do agente, passível de suscitar questionamento judicial.
+    Por sua vez, a impugnação judicial do processo administrativo disciplinar, e dos próprios atos administrativos disciplinares, pode ser veiculada por meio de ação em que se postule a anulação do ato ou do processo, a revisão da sanção imposta e, inclusive, a reparação pecuniária pela lesão sofrida.
+    Assim, muito embora o mandado de segurança interposto tenha como objetivo a anulação do PAD, este foi instaurado para apuração de ato disciplinar militar, devendo tal questão ser examinada no âmbito da Justiça Castrense.
+    A atual atribuição da justiça especializada, conforme se extrai do artigo 125, § 4º, está relacionada ás demandas para a impugnação da validade dos próprios atos disciplinares militares, devendo ser aí compreendidas as ações que, além de questionar a validade de tais atos, extraiam desdobramentos como a responsabilidade civil pela ilegalidade, inclusive no âmbito da improbidade administrativa.
+    É que, relacionando-se a causa de pedir à ilegalidade do ato administrativo disciplinar, qualquer que seja o pedido formulado (anulação do ato, reparação por danos patrimoniais ou morais, penalidade por improbidade administrativa, etc), atrairá a competência material da Justiça Militar’ (fls. 75-77)’.
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário”.
+    Diante do exposto, com base no art. 21, § 1º e 2º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, conheço do Agravo para, desde logo, DAR PROVIMENTO AO RECURSO EXTRAORDINÁRIO para reconhecer a competência da Justiça Militar.
+    Publique-se.
+    Brasília, 23 de julho de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
