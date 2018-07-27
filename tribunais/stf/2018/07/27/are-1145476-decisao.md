@@ -1,0 +1,31 @@
+Decisão
+    Trata-se de Agravo em Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de Goiás assim ementado (Doc. 2, fl. 33):
+    “EMENTA: REMESSA NECESSÁRIA E APELAÇÕES CÍVEIS. AÇÃO DE COBRANÇA. REEXAME DA SENTENÇA NÃO OBRIGATÓRIO. ABONO DE PERMANÊNCIA. FÉRIAS NÃO GOZADAS INTEGRALMENTE. CONVERSÃO EM PECÚNIA. COMPENSAÇÃO INDEVIDA. ABONO DE FARDAMENTO.
+    1 - A sentença proferida contra os Estados não está sujeita ao duplo grau de jurisdição obrigatório, quando a condenação ou o proveito econômico obtido na causa for de valor certo e líquido inferior a 500 (quinhentos) salários mínimos.
+    2 - O abono de permanência tem caráter remuneratório e, por isso, deve integrar a base de cálculo da indenização relativa às férias não gozadas.
+    3 - É devido ao militar transferido para a reserva remunerada a conversão em pecúnia das férias não gozadas integralmente, sob pena de enriquecimento ilícito da Administração Pública.
+    4 - Não há falar-se em compensação de valores, quando não demonstrado que as partes são credoras e devedoras uma da outra.
+    5 - O abono de fardamento constitui verba tipicamente indenizatória e, por isso, não integra a base de cálculo da indenização relativa às férias não gozadas.
+    REMESSA NECESSÁRIA NÃO CONHECIDA.
+    1ª APELAÇÃO DESPROVIDA.
+    2ª APELAÇÃO PARCIALMENTE PROVIDA”.
+    No apelo extremo, interposto com amparo no art. 102, III, a, da Constituição Federal, a parte recorrente sustenta que houve violação a dispositivos constitucionais.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+    Quanto ao mais, verifica-se que o Juízo de origem, com base nos fatos e provas constantes dos autos, bem como na legislação ordinária pertinente (Lei Estadual 8.033/1975), decidiu que o abono de permanência deverá incidir sobre as férias não gozadas do servidor. A propósito, cite-se trecho do voto condutor do acórdão (Vol. 2, fl. 26).
+    “Ocorre, porém, que o requerente/2º apelante Victor Dragalzew Júnior teve que se apresentar em 29/11/2013, ficando suspenso o afastamento por ocasião das suas férias, por motivo de interesse do serviço (movimentação nº 08, 3º arquivo, pág. 04).
+    Consta, ainda, que o requerente/2º apelante Victor Dragalzew Júnior foi autorizado a empreender viagem à Amazônia Brasileira, especificadamente em Manaus e São Gabriel da Cachoeira, no período de 09 a 13 de dezembro de 2013 (movimentação nº 08, 2º arquivo, pág. 05).
+    Embora a seção de Recursos Humanos da PMGO não tivesse o controle do usufruto das férias que deveriam ser gozadas em tempo oportuno, ficou evidente que o requerente/2º apelante Victor Dragalzew Júnior não gozou, integralmente, as férias marcadas para serem usufruídas entre os dias 17/11/2013 a 16/12/2013.
+    O Estado de Goiás, por sua vez, não fez prova de que o requerente/2º apelante Victor Dragalzew Júnior as tenha gozado oportunamente, tendo faltado 13 dias para serem gozados, como atestado naquela declaração.
+    Assim sendo, entendo que o valor correspondente deve ser convertido em pecúnia, tal como prescreve o art. 63-A da Lei Estadual nº 8.033/1975, sob pena de enriquecimento ilícito da Administração Pública”.
+    Trata-se, portanto, de matéria situada no contexto normativo infraconstitucional, de forma que as alegadas ofensas à Constituição seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo.
+    Ademais, mesmo que fosse possível superar todos esses graves óbices, a argumentação recursal traz versão dos fatos diversa da exposta no acórdão, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas, bem como demanda a análise da legislação local. Incidem, portanto, os óbices das Súmulas 279: Para simples reexame de prova não cabe recurso extraordinário e 280: Por ofensa a direito local não cabe recurso extraordinário, ambas desta CORTE.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado nas instâncias ordinárias (Código de Processo Civil de 2015, art. 85, § 11).
+    Publique-se.
+    Brasília, 27 de julho de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
