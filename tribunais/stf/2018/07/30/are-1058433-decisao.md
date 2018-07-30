@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Distrito Federal e Territórios, assim ementado (eDOC 7, p. 26):
+    “AÇÃO CIVIL PÚBLICA. UNIDADES DE ATENDIMENTO EM MEIO ABERTO (UAMAS) CONSTRUÇÃO. DOTAÇÃO DE RECURSOS ESTRUTURAIS. CONTRATAÇÃO DE SERVIDORES DISTRITO FEDERAL. RESPONSABILIDADE. DEVER. SEPARAÇÃO PODERESE. OFENSA. AUSÊNCIA. I. É dever do Estado promover com primazia a ressocialização dos adolescentes em cumprimento de medidas de prestação de serviços à comunidade e liberdade assistida, o que, por certo abrange, a construção de unidades de atendimento em meio aberto (UAMAs) com estrutura física adequada e com as equipes de profissionais necessários.
+    II. A cláusula de reserva do possível não pode ser invocada pelo Poder Público, com o propósito de fraudar, de frustrar e de inviabilizar a implementação de políticas públicas definidas na própria Constituição, encontrando limitação na garantia constitucional do mínimo existencial, que representa, no contexto de nosso ordenamento positivo, emanação direta do postulado da essencial dignidade da pessoa humana. Precedentes do Supremo Tribunal Federal.
+    III. Negou-se provimento ao recurso e à remessa oficial.”
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos artigos 2º, e 165, da Constituição da República, por violação ao princípio da separação de poderes e da reserva do possível.
+    Nas razões recursais (eDOC-7, p. 44/55), sustenta-se, que “tendo por premissa a separação das funções estatais, as limitações orçamentárias existentes e a pletora de demandas coletivas que reclamam dispêndio de verbas públicas, a análise da alocação dos recursos existentes compete exclusivamente oa Poder Executivo e Poder Legislativo, mediante exercício de poder discricionário, passando ao largo do controle judicial”.
+    Assevera-se, ainda, que “o que a administração pública está obrigada a perseguir é a implementação dos direitos fundamentais, mas o parquet e o judiciário, permissa venia, não podem impor a forma de sua implementação, mormente se isso acarretar interferência na organização do poder executivo e alteração da lei orçamentária.”
+    A Presidência do TJDFT inadmitiu o recurso extraordinário por entender que a questão foi resolvida com fundamento em legislação infraconstitucional e por óbice da Súmula 283 do STF e por (eDOC 7, p. 67/69).
+    É o relatório. Decido.
+     O Supremo Tribunal Federal já se manifestou sobre o tema discutido nestes autos.
+     No exame do RE 684.612-RG, da relatoria da Ministra Cármen Lúcia, DJe 06.06.2014, o Plenário desta Corte assentou a repercussão geral do Tema 698, referente aos limites do Poder Judiciário para determinar as obrigações de fazer ao Estado, consistentes na realização de concursos públicos, contratação de servidores e execução de obras que atendam direito fundamental social, ao qual a Constituição da República garante especial proteção.
+     Ante o exposto, em vista do pronunciamento do Supremo Tribunal Federal acerca do tema suscitado neste recurso extraordinário, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 1.036 do Código de Processo Civil.
+    Publique-se.
+    Brasília, 30 de julho de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
