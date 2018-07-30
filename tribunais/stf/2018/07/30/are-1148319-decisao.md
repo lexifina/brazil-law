@@ -1,0 +1,21 @@
+Decisão
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto com fundamento no art. 102, III, da Constituição Federal, em que a parte recorrente alega ter o acórdão recorrido violado dispositivos constitucionais.
+    É o relatório. Decido.
+    O Agravo é intempestivo. A decisão ora agravada foi publicada em 20/11/2017 (e-STJ, fl. 203, Vol. 9). Considerado o prazo de 30 (trinta) dias úteis previsto no art. 1.003, § 5º, c/c os arts. 183 e 219, todos do Código de Processo Civil de 2015, o termo final para apresentação do recurso era 16/2/2018. O Agravo em Recurso Extraordinário, todavia, foi protocolado apenas em 7/3/2018 (e-STJ, fl. 221, Vol. 9), de modo que não pode ser conhecido em razão de sua intempestividade.
+    Ressalte-se que esta CORTE já firmou entendimento no sentido de que a interposição de recurso incabível não interrompe o prazo recursal. É o que ocorre neste caso, em que opostos embargos declaratórios manifestamente inadmissíveis contra a decisão que examinou a admissibilidade do RE. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. INTEMPESTIVIDADE DO EXTRAORDINÁRIO. EMBARGOS INFRINGENTES CONSIDERADOS INCABÍVEIS PELO TRIBUNAL A QUO . NÃO INTERRUPÇÃO DO PRAZO PARA INTERPOSIÇÃO DE RECURSO. PRECEDENTES. AUSÊNCIA DE REPERCUSSÃO GERAL QUANTO À ADMISSIBILIDADE DE RECURSOS DE OUTROS TRIBUNAIS RE 598.365. AGRAVO DESPROVIDO. 1. É intempestivo o extraordinário interposto, porquanto prevalece nesta Corte o entendimento de que os embargos infringentes, quando incabíveis, não suspendem ou interrompem o prazo para a interposição de recurso extraordinário. 2. O Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral, que a questão relativa aos pressupostos de admissibilidade de recursos de competência de outros Tribunais, não apresenta repercussão geral, dado que as ofensas à Constituição Federal, caso existentes, ocorreriam de modo indireto ou reflexo. (RE 598.365-RG, Rel. Min. Ayres Brito, DJe 26.03.10, Tema 181) 3. Agravo regimental a que se nega provimento”. (ARE 1.003.240-AgR, Rel. Min. EDSON FACHIN, Segunda Turma, DJe de 29/03/2017)
+    “DIREITO CIVIL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. COISAS. PROMESSA DE COMPRA E VENDA. RECURSO INCABÍVEL NÃO SUSPENDE NEM INTERROMPE PRAZO. PRECEDENTES.
+    1. A jurisprudência do Supremo Tribunal é firme no sentido de que recurso interposto na origem, quando julgado manifestamente incabível, intempestivo ou inexistente, não suspende nem interrompe o prazo para a interposição de recurso adequado.
+    2. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015”. (ARE 962.704-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 15/3/2017)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. REGÊNCIA: CÓDIGO DE PROCESSO CIVIL/1973. AGRAVO INTEMPESTIVO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    1. Este Supremo Tribunal firmou entendimento de que recurso interposto na origem, quando julgado manifestamente incabível, intempestivo ou inexistente, não suspende nem interrompe o prazo para a interposição de recurso adequado.
+    2. Agravo regimental ao qual se nega provimento”. (ARE 813.750-AgR, Rel. Min. PRESIDENTE, Tribunal Pleno, DJe de 22/11/2016)
+    É importante salientar que não se está afirmando serem incabíveis embargos de declaração da decisão que faz a admissibilidade de recurso extraordinário na instância de origem. A despeito de caberem em tese, os embargos no caso concreto são manifestamente inadmissíveis, pois trazem argumentos dirigidos a outro julgado – o acórdão da apelação.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO EM RECURSO EXTRAORDINÁRIO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+    Publique-se.
+    Brasília, 30 de julho de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
