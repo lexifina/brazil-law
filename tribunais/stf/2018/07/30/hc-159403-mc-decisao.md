@@ -1,0 +1,24 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO PREVENTIVA – PRAZO – EXCESSO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+HABEAS CORPUS – SUPERIOR TRIBUNAL DE JUSTIÇA – PREJUÍZO – AUSÊNCIA.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Juízo da Segunda Vara Única da Comarca de Belém do São Francisco/PE, no processo nº 00263-93.2012.8.17.0250, determinou a prisão preventiva do paciente, ocorrida em 29 de março de 2012, e de outros dois investigados, ante a suposta prática da infração descrita no artigo 121, 2º, incisos I, III e IV (homicídio qualificado por motivo torpe, emprego de meio cruel e de recurso que tornou impossível a defesa da vítima), do Código Penal. Frisou indispensável a custódia para garantir a ordem pública, a aplicação da lei penal e a instrução processual. Realçou os contornos do delito, afirmando tratar-se de policial militar e ter sido o crime cometido por vingança.
+    Pronunciou-o pela prática da citada infração. Manteve a preventiva, apontando necessário assegurar a ordem pública, considerada a gravidade da imputação.
+    A Segunda Turma da Primeira Câmara Regional de Caruaru do Tribunal de Justiça negou provimento a recurso em sentido estrito formalizado pela defesa.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 449.256/PE. O Relator indeferiu a liminar. Pedido de reconsideração não alcançou êxito.
+    O impetrante diz ser o caso de superação do verbete nº 691 da Súmula do Supremo. Sustenta a inidoneidade dos fundamentos do ato mediante o qual determinada a preventiva, tendo-o como lastreado na gravidade abstrata do delito. Alega inobservados os requisitos descritos nos artigos 312 e 313 do Código de Processo Penal. Aduz o excesso de prazo da constrição cautelar, a perdurar por mais de 6 anos sem previsão de julgamento pelo Tribunal do Júri. Ressalta as condições pessoais favoráveis do paciente – primariedade, bons antecedentes, residência fixa, ocupação lícita e atestados de bom comportamento carcerário. Destaca o caráter excepcional da prisão provisória. Assevera a possibilidade de aplicação de medida alternativa.
+    Requer, no campo precário e efêmero, a revogação da preventiva e, sucessivamente, a imposição de cautelar versada no artigo 319 do Código de Processo Penal. No mérito, busca a confirmação da providência.
+    Em consulta ao sítio do Tribunal de Justiça, no dia 19 de julho de 2018, no processo desmembrado de nº 0001052-92.2012.8.17.0250, constatou-se ter sido inadmitido, em 5 de julho último, o recurso especial interposto pela defesa.
+    A etapa é de exame da medida acauteladora.
+    2. O Juízo, ao determinar a preventiva, apontou tratar-se de homicídio qualificado por motivo torpe, emprego de meio cruel e de recurso que impossibilitou a defesa da vítima, executado mediante diversos disparos de arma de fogo após o paciente ter forçado a vítima a entrar em veículo conduzido pelo corréu. O quadro revela estar em jogo a preservação da ordem pública. Sem prejuízo do princípio da não culpabilidade, a custódia se impunha, ante a periculosidade, ao menos sinalizada. Daí ter-se como razoável e conveniente o ato atacado. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    Ocorre que o paciente está preso, sem culpa formada, desde o dia 29 de março de 2012, ou seja, há 6 anos, 4 meses e 1 dia. Surge o excesso de prazo tendo em vista a constrição provisória e o estágio do processo-crime, porquanto sequer designada a data de julgamento pelo Tribunal do Júri. A preventiva deve ser balizada no tempo. Privar da liberdade, por período desproporcional, pessoa cuja responsabilidade penal não foi declarada em definitivo viola o princípio da não culpabilidade. Nada, absolutamente nada, justifica tal fato.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não se encontre recolhido por motivo diverso da prisão preventiva retratada no processo nº 00263-93.2012.8.17.0250, da Segunda Vara Única da Comarca de Belém do São Francisco/PE. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do homem médio, integrado à sociedade.
+    4. Deixo de estender os efeitos da medida acauteladora, uma vez que não há, no processo, informações individualizadas sobre a situação dos corréus.
+    5. O curso desta impetração não prejudica a de nº 449.256/PE, em trâmite no Superior Tribunal de Justiça. Remetam cópia da decisão, com as homenagens merecidas, ao Relator, ministro Felix Fischer.
+    6. Colham o parecer da Procuradoria-Geral da República.
+    7. Publiquem.
+Brasília, 30 de julho de 2018.
+Ministro MARCO AURÉLIO
+Relator
