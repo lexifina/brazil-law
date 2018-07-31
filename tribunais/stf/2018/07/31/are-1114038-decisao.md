@@ -1,0 +1,28 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Superior Tribunal de Justiça, assim ementado (eDOC.16, e-STJ fl. 1527):
+    AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. MERO INCONFORMISMO. PRETENSÃO DE REDISCUTIR MATÉRIAS JÁ ENFRENTADAS E RECHAÇADAS NA DECISÃO MONOCRÁTICA AGRAVADA. OFENSA AO PACTO DE SÃO JOSÉ DA COSTA RICA. ALEGAÇÃO SURGIDA SOMENTE POR OCASIÃO DO REGIMENTAL. INDEVIDA INOVAÇÃO RECURSAL.
+    1. O agravante não logrou êxito em demonstrar nenhum argumento capaz de modificar as razões expostas na decisão ora combatida, numa nítida tentativa de rediscussão da matéria enfrentada e rechaçada monocraticamente.
+    2. É incabível o exame de tese não exposta no recurso especial e invocada apenas em recurso posterior, pois configura indevida inovação recursal (AgRg no REsp n. 1.156.971/RS, Ministro Antonio Carlos Ferreira, Quarta Turma, Dje 19/2/2015).
+    3. Agravo regimental improvido.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 5º, XLI, XLVI, LIV, LVI, LVII e §§ 1º, 2º e 3º, da Constituição Federal, bem como à Súmula Vinculante 11.
+    As teses veiculadas foram assim resumidas na decisão de inadmissibilidade (eDOC.16, e-STJ fls. 1612/1613):
+    “i) devido processo legal – art. 5º, LIV, da Constituição Federal – CF, por suposta ofensa à regra de distribuição do ônus da prova e presunções contrárias ao estado de inocência e dever de absolvição por falta de provas (arts. 156 e 386, VII, do CPP);
+    ii) presunção de inocência ou de não-culpabilidade – art. 5º, LVII, da CF – ninguém será considerado culpado até o trânsito em julgado da sentença penal condenatória;
+    iii) súmula Vinculante n. 11 e art. 5º, XLI, da CF, – argumenta ter ficado algemado, desnecessariamente, durante toda a instrução criminal, suscitando desrespeito da dignidade da pessoa humana. Alega que a defesa pediu, na audiência, que fossem retiradas as algemas, e a Juíza teria negado a fazê-lo, além de ter sido suprimida da gravação da audiência a parte em que fez o pedido sobre as algemas;
+    iv) princípio da dosimetria da pena, art. 5º, XLVI, da CF (individualização da pena: at. 59 da CF e 68 do Código Penal); Sustenta ser inadmissível no processo considerar as provas que teriam sido obtidas por meios ilícitos, uma vez que a investigação de procedimentos de drogas ocorreu sem autorização judicial e intervenção do Ministério Público. Alega que a redução da pena foi negada ao recorrente sem que se fizesse qualquer menção a elementos dos autos que indicassem a prática reiterada do comércio de entorpecente
+    v) art. 5º, LVI, que veda a utilização de provas ilícitas no processo, porquanto teria sido violado o art. 155 do CPC, que proíbe a condenação com fundamento exclusivo em elemento informativo do inquérito policial; segundo entende, é nula a perícia realizada, porquanto o subscritor integra o quadro da Polícia Federal e é subordinado direto do delegado autor do auto de prisão em flagrante; e
+    vi) art. 5º, §§ 1º, 2º e 3º, da CF, que dispõem, respectivamente, que as normas definidoras dos direitos e garantias fundamentais têm aplicação imediata; os direitos e as garantias expressos na CF não excluem outros decorrentes do regime e dos princípios por ela adotados ou dos tratados internacionais de que o Brasil faça parte; os tratados e as convenções internacionais aprovados pelo Congresso Nacional são equivalentes às emendas constitucionais; e, por consequência, o Pacto de São José da Costa Rica.
+    Aduz que a denúncia recebida pelo juízo a quo não denunciou o réu em organização criminosa, incorrendo em ofensa ao Pacto de São José da Costa Rica.”
+    A Presidência do STJ julgou prejudicado o recurso, quanto à violação do art. 5º, XLVI e LIV, da CF, e, no mais, inadmitiu-o com os seguintes fundamentos: i) Súmulas 279 e 284 do STF; ii) ausência de prequestionamento.
+    Em relação à parcela prejudicada do recurso extraordinário, o agravo regimental subsequente foi improvido no STJ (eDOC.17, e-STJ fl. 1862).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifico a ausência de demonstração fundamentada da repercussão geral no recurso extraordinário, pressuposto de admissibilidade, nos termos do disposto no art. 1.035, § 2º, do CPC.
+    Esta Corte, no julgamento do AI-QO 664.567, Rel. Min. Sepúlveda Pertence, Plenário, DJ 06.09.2007, decidiu que o requisito formal da repercussão geral será exigido quando a intimação do acórdão recorrido for posterior a 03.05.2007, data da publicação da Emenda Regimental 21 do STF, o que ocorre no presente caso.
+    Apesar de apresentar tópico relativo à repercussão geral (eDOC.16, e-STJ fl. 1552), o recorrente não demonstra por quais razões cada uma das matérias versadas no apelo extremo possui relevância do ponto de vista econômico, político, social ou jurídico que ultrapasse os interesses subjetivos do processo – apenas afirma genericamente a presença do requisito.
+    Na linha de diversos precedentes desta Corte, a ausência dessa arguição ou sua inadequada fundamentação inviabiliza o conhecimento do recurso interposto perante o Supremo Tribunal Federal (AI-QO 664.567, Rel. Min. Sepúlveda Pertence, Plenário, DJ 6.9.2007; ARE 858.726-AgR, Rel. Min. Luís Roberto Barroso, Primeira Turma, DJe 16.03.2015; RE 762.114-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 10.08.2015).
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 31 de julho de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
