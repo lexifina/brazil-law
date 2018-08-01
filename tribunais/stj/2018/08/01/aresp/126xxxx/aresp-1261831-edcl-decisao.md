@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos em face da decisão de fls. 757-762, que deu provimento em parte ao recurso especial para afastar a indenização por danos morais.
+Sustenta contradição na medida em que a decisão embargada reconhece a responsabilidade da parte embargada pelo atraso na entrega do seu imóvel, contudo afasta a indenização por danos morais.
+Requer também a concessão do benefício da justiça gratuita.
+Intimada para se manifestar acerca da interposição do presente recurso, a parte contrária apresentou impugnação (fls. 777-782, e-STJ), requerendo a rejeição.
+Assim delimitada a questão, aprecio os argumentos.
+Verifico que não estão presentes os vícios elencados no art. 1.022 do atual Código de Processo Civil, pois os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição ou for omitido ponto sobre o qual devia pronunciar-se o juiz ou tribunal.
+Vale ressaltar que os embargos de declaração possuem regramento próprio, voltado à complementação ou declaração do verdadeiro sentido de uma decisão eventualmente omissa, contraditória ou obscura, não sendo dotados, em regra, de efeito modificativo.
+A decisão embargada firmou na linha da jurisprudência deste Superior Tribunal que não é cabível a condenação em indenização por danos morais na hipótese em que há simples atraso na entrega do imóvel pela incorporadora, pois o dissabor inerente à expectativa frustrada decorrente de simples inadimplemento contratual se insere no cotidiano das relações comerciais e não implica lesão à honra ou violação da dignidade humana. Anotou também que a jurisprudência que deve haver uma consequência decorrente do descumprimento contratual para caracterização dos danos extrapatrimoniais indenizáveis. Decidiu que a autora em sua inicial não apontou maiores consequências com o descumprimento contratual além da frustração com o atraso na entrega do bem. Concluiu que a autora noticia na inicial (fl. 25, e-STJ) que reside "de favor na casa dos pais há três anos" e "está com seus móveis e utensílios domésticos encaixotados, desde então, em franca deterioração, sem privacidade ou vida íntima por não estar morando na própria casa", contudo não trouxe elementos ou pelo menos indícios de provas nos autos que comprovem tais alegações.
+Desse modo, as teses objetivam rever o mérito de questões já decididas a fim de reverter o resultado do julgado desfavorável à embargante.
+Os apontados vícios, além de inexistentes, objetivam, na verdade a rediscussão do que já foi decidido, o que extrapola os limites previstos para o recurso de embargos de declaração.
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
