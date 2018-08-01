@@ -1,0 +1,67 @@
+EMENTA
+RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. TRANSPORTE GRATUITO. SÚMULA 145/STJ. NECESSIDADE DE COMPROVAÇÃO DA CULPA GRAVE OU DOLO. NÃO OCORRÊNCIA. REEXAME. SÚMULA 7/STJ.
+1. "No transporte desinteressado, de simples cortesia, o transportador só será civilmente responsável por danos causados ao transportado quando incorrer em dolo ou culpa grave" (Súmula 145/STJ).
+2. Caso concreto em que, a Corte de origem, reportando-se exaustivamente aos fatos e às provas colacionados aos autos e valendo-se das demais peculiaridades do caso concreto, consignou que não houve dolo ou culpa grave do transportador, motivo pelo qual afastou o dever de indenizar. Desse modo, para derruir a conclusão que chegou o Tribunal estadual, seria imprescindível o revolvimento do arcabouço fático-probatório dos autos, o que é vedado pelo enunciado da Súmula 7 do STJ.
+4. Recurso especial não provido.
+DECISÃO
+1. Cuida-se de recurso especial fundado no art. 105, III, alínea "a", da Constituição Federal, interposto contra acórdão proferido pelo Eg. Tribunal de Justiça do Estado do Mato Grosso, assim ementado:
+RECURSO DE APELAÇÃO CÍVEL - AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS, MORAIS E ESTÉTICOS - ACIDENTE DE TRÂNSITO - TRANSPORTE BENÉVOLO (CARONA) - CAPOTAMENTO - PERDA DE MEMBRO INFERIOR - PARCIAL PROCEDÊNCIA - PRELIMINAR DE CERCEAMENTO DE DEFESA - JULGAMENTO ANTECIPADO DA LIDE - ARCABOUÇO PROBATÓRIO SUFICIENTE - REJEIÇÃO - RESPONSABILIDADE CIVIL - CULPA GRAVE OU DOLO DO MOTORISTA NÃO DEMONSTRADOS - AFASTADO DEVER DE INDENIZAR - INVERSÃO DO ÔNUS DA SUCUMBÊNCIA - SENTENÇA REFORMADA - RECURSO PROVIDO.
+Não há cerceamento de defesa quando o julgador, diante da suficiência das provas existentes nos autos, decide pelo julgamento antecipado da lide.
+Segundo assente na doutrina e jurisprudência pátria, em caso de transporte de simples corteria (carona), somente pode o transportador ser responsabilizado por eventuais danos sofridos pelo transportado, decorrente de acidente de trânsito, caso se comprove que tenha agido com dolo ou culpa grave. Inteligência da Súmula nº 145 do STJ.
+Embora se reconheça a carona concedida em carroceria aberta como culpa grave, em vista das regras de experiência e particularidades do presente caso, ocorrido em 1992, época em que tal forma de transporte constituía uma realidade habitual em estradas de terra de cidades interioranas do estado, desarrazoado o reconhecimento da culpa grave na hipótese em tela, mormente se o acidente aconteceu por conta de fatores externos, alheios à vontade do motorista, ficando desta feita, excluída a responsabilidade do seu empregador.
+A parte que saiu derrotada na lide tem o dever de arcar co o ônus da sucumbência.
+(fls. 352-353)
+Opostos embargos de declaração, foram rejeitados (fls. 430-445).
+O recorrente, nas razões do recurso, aponta ofensa ao art. 159, do Código Civil de 1916, ao argumento de que o transporte de forma irregular, em carroceria aberta, configura culpa grave do condutor do veículo, de modo que, em atenção ao disposto na Súmula 145 do Superior Tribunal de Justiça, deve o transportador ser civilmente responsabilizado, sendo certo, ademais, que o fato de referido transporte ter sido realizado por mera cortesia não elide o dever de garantia da incolumidade física do passageiro.
+Contrarrazões às fls. 476-493.
+O recurso recebeu crivo positivo de admissibilidade na origem (fl. 501-502).
+É o relatório.
+DECIDO.
+2. Aduz o recorrente que o transporte de forma irregular, em carroceria aberta, configura culpa grave do condutor do veículo, de modo que, em atenção ao disposto na Súmula 145 do Superior Tribunal de Justiça, deve o transportador ser civilmente responsabilizado, sendo certo, ademais, que o fato de referido transporte ter sido realizado por mera cortesia não elide o dever de garantia da incolumidade física do passageiro.
+A Corte de origem, não obstante, por maioria, consignou que: a) segundo as regras de experiência comum, os costumes e as circunstâncias que na ocasião permearam o acidente, não houve culpa por parte do motorista; e b) a partir dos elementos fáticos e probatórios colacionados aos autos conclui-se que o acidente ocorreu por conta de fatores externos, alheios à vontade do motorista, não havendo que se falar, também por este motivo, em culpa grave ou dolo.
+Cumpre destacar de início, que o evento danoso ocorreu no ano de 1992, ou seja, sob a égide do Código Civil de 1916, devendo-se assim aplicar ao caso concreto as regras desta legislação revogada.
+De outro norte, é imprescindível que o julgador, ao apreciar o presente caso, se insira na realidade da época em que ocorreu o sinistro, aplicando-se as regras de experiência comum, atento aos costumes e circunstâncias que na ocasião permearam o acidente.
+(..)
+Como assentado na sentença, em caso de transporte de cortesia (carona) para configuração da responsabilidade civil do transportador por acidente que venha a provocar danos ao transportado, imprescindível a constatação da ocorrência de dolo ou culpa grave, consoante jurisprudência consolidada do Superior Tribunal de Justiça, sintetizada na Súmula nº 145, que assim prescreve:
+(..)
+Resta analisar, frente às alegações recursais e todo o processado, se a conduta do motorista na direção do veículo pode ou não ser enquadrada como dolosa ou culposamente grave, como o foi pela sentença.
+(..)
+Do exame acurado do caso versado, sob o prisma da realidade da época, em consonância com as provas encartadas aos autos, conclui-se da inocorrência de culpa, máxime na modalidade grave, por parte do motorista, comportando reforma o decisum objurgado.
+Primeiramente, não se mostra sensato creditar, no caso em tela, culpa grave ao motorista da empresa pelo simples fato de ter concedido a carona ao apelado e sua família na carroceria da caminhonete (Toyota Bandeirantes), pois, à época dos fatos, tal procedimento era corriqueiro, sobretudo nas regiões interioranas desta estado.
+Frisa-se que o acidente ocorreu na estrada que liga o Município de Vila Bela da Santíssima Trindade à Pontes e Lacerda, cidades estas, na ocasião do sinistro (1992), pouco povoadas, provincianas, deficientes de meios de transportes públicos, se revelando as caronas, inclusive, na parte externa de caminhonetes, à época, uma realidade habitual e muitas das vezes necessária, sendo, nesse contexto, desarrazoado o reconhecimento da culpa grave do condutor a sua mera aceitação.
+Verifica-se dos depoimentos prestados na polícia, colacionados aos autos, que o motorista da caminhonete forneceu a carona ao apelado e sua família na carroceria durante o percurso da viagem, por já se encontrar com a sua lotação interna completa.
+(..)
+Tais provas corroboram as alegações da empresa apelante do "espírito de solidariedade e caridade" que ensejou a carona, especialmente pelo fato do motorista e apelado já se conhecerem, como este mesmo elucidou em seu depoimento. E, nem poderia ser diferente, afinal, quem é que recusa carona a um conhecido  Ainda, ao que se sobressai, a pedido deste
+Convenhamos, o autor, ora apelado, solicitou a carona para si e para sua família, certamente porque dela necessitava, mesmo vislumbrando que o único lugar disponível na caminhonete era a parte externa, frisa-se, de uso habitual na época, e o motorista, seu conhecido, a forneceu de boa-fé, não podendo ser responsabilizado pelo simples fato de tê-la concedido, até porque o apelado é plenamente capaz e ao tomá-la, assumiu o risco por qualquer fatalidade que poderia vir a suceder.
+Por outro lado, os depoimentos demonstram claramente que não houve culpa grave do condutor na direção do veículo sinistrado, constituindo o acidente uma fatalidade, razão pela qual não pode ser imputada responsabilidade alguma à empresa apelante, padecendo de reforma a sentença hostilizada.
+(..)
+Ora, dos depoimentos transcritos acima não se chega à outra conclusão senão pela ausência de culpa grave, muito menos dolo do motorista no acidente, a ensejar a responsabilidade da empresa apelante e consequente obrigação de reparação de danos, como pretendido pelo apelado.
+Denota-se dos depoimentos que o motorista trafegada devagar, com cautela, até porque, como muito bem frisou o próprio acidentado em seu depoimento, a estrada encontrava-se em obra.
+Sucede que apesar da baixa velocidade desenvolvida, em vista das condições desfavoráveis do ambiente e da própria situação narrada, não foi possível ao condutor evitar o acidente.
+Salienta-se que a estrada era de terra e certamente se encontrava em péssimas condições de trafegabilidade, tanto que, como mencionado, estava inclusive em obras. Aliás, na época dos fatos (1992), sabe-se que as condições de conservação da maioria das estradas do interior do estado eram precárias.
+E também as condições de visibilidade do motorista não eram boas, como se conclui dos depoimentos, pois era noite e existia muita poeira no ar, a qual foi agravada pela passagem de um caminhão, o que impossibilitou a visualização do monte de terra antecipadamente.
+Desta feita, não há dúvida de que o acidente ocorreu por conta de fatores externos, alheios à vontade do motorista, não havendo que se falar em culpa grave ou dolo.
+(..)
+Enfim, não há como concluir dos autos que a atuação do motorista na direção do veículo sinistrado seja enquadrada como culposamente grave, não havendo, por conseguinte, que se falar em responsabilidade da apelante.
+(fls. 358-363)  g.n.
+Da atenta análise da ratio decidendi do acórdão objurgado, infere-se que a aplicação das regras de experiência não representou o único argumento a lastrear a conclusão que chegou a Corte de origem.
+Nesse contexto, importa consignar que o Superior Tribunal de Justiça perfilha o entendimento de que "no transporte desinteressado, de simples cortesia, o transportador só será civilmente responsável por danos causados ao transportado quando incorrer em dolo ou culpa grave" (Súmula 145/STJ).
+A propósito:
+DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS, MORAIS E ESTÉTICOS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. JUNTADA DE DOCUMENTOS NOVOS NA FASE RECURSAL. POSSIBILIDADE. HARMONIA ENTR O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. ACIDENTE DE TRÂNSITO. CONDUTOR MENOR. RESPONSABILIDADE DOS PAIS E DO PROPRIETÁRIO DO VEÍCULO. DESNECESSIDADE DE COMPROVAÇÃO DE CULPA. TRANSPORTE DE CORTESIA. DANOS CAUSADOS AO TRANSPORTADO. DOLO OU CULPA GRAVE. SÚMULA 145/STJ. DESPESAS DE TRATAMENTO E LUCROS CESSANTES. AFASTAMENTO TEMPORÁRIO DO TRABALHO. DANOS MORAIS E ESTÉTICOS. CUMULATIVIDADE. PROVA. DESNECESSIDADE. ÔNUS SUCUMBENCIAIS. REDISTRIBUIÇÃO. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+ ..
+7. "No transporte desinteressado, de simples cortesia, o transportador só será civilmente responsável por danos causados ao transportado quando incorrer em dolo ou culpa grave" (Súmula 145/STJ).
+8. Hipótese em que o Tribunal de origem - soberano na análise dos fatos e provas dos autos - aferiu a culpa grave do menor que conduzia o veículo, na medida em que: (i) empreendia ao automóvel velocidade de 90 Km/h, quando o permitido no local era de 60 Km/h; (ii) apresentava visível despreparo para a direção de veículos, atuando de forma alheia à prudência que se deve ter em dias de chuva e em curvas acentuadas; (iii) ingeriu bebida alcoólica momentos antes do acidente.
+ ..
+15. Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido, apenas para a redistribuição dos ônus sucumbenciais.
+(REsp 1637884/SC, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20/02/2018, DJe 23/02/2018)
+No caso concreto, como cediço, a Corte de origem, reportando-se exaustivamente aos fatos e às provas colacionados aos autos e valendo-se das demais peculiaridades do caso concreto, consignou que não houve dolo ou culpa grave do transportador, motivo pelo qual afastou o dever de indenizar.
+Desse modo, parra derruir a conclusão que chegou o Tribunal estadual, seria imprescindível o revolvimento do arcabouço fático-probatório dos autos, o que é vedado pelo enunciado da Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. CONEXÃO. JULGAMENTO CONJUNTO. REUNIÃO INVIABILIZADA QUANDO JÁ PROFERIDA SENTENÇA EM UMA DAS AÇÕES. SÚMULA N. 235/STJ. 3. ALCANCE DA COISA JULGADA. 4. DOLO OU CULPA GRAVE DO CONDUTOR. NÃO DEMONSTRAÇÃO NOS AUTOS. REVISÃO.
+IMPOSSIBILIDADE. SÚMULA 7/STJ. 5. TRANSPORTE DE CORTESIA. SÚMULA N. 145/STJ. 6. AGRAVO INTERNO DESPROVIDO.
+ ..
+3. Tendo as instâncias ordinárias, soberanas no exame do acervo fático-probatório dos autos, concluído que se tratava de relação de transporte gratuito e desinteressado, não estando demonstrados nos autos o dolo ou a culpa grave do preposto da recorrida, não se mostra possível modificar tal conclusão ante o óbice do enunciado n. 7 da Súmula desta Corte Superior. Ademais, nos termos da Súmula n. 145 do STJ: No transporte desinteressado, de simples cortesia, o transportador só será civilmente responsável por danos causados ao transportado quando incorrer em dolo ou culpa grave.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1063623/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 05/12/2017, DJe 15/12/2017)  g.n.
+3. Ante o exposto, com fulcro nos fundamentos acima aduzidos, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
