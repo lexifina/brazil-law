@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo JUÍZO FEDERAL DA 1ª VARA DE TAUBATÉ/SP em face do JUÍZO DE DIREITO DA 2ª VARA CÍVEL DE CAMPOS DO JORDÃO/SP.
+O Juízo suscitado acolheu manifestação do Ministério Público Estadual e declinou de sua competência (e-STJ fl. 12).
+O Juízo suscitante, por sua vez, sumariou os fatos que deram ensejo à instauração do presente incidente e, ao final, suscitou o presente conflito de competência, in verbis (e-STJ fls. 22/24):
+O presente Inquérito Policial foi instaurado para apurar a prática do delito capitulado pelo artigo 304, combinado com o artigo 299, ambos do Código Penal, consistente na emissão de dois certificados de conclusão de curso de graduação, em instituição privada, ideologicamente falsos, os quais foram utilizados para lograr a aprovação em concurso público municipal.
+O Ministério Público Estadual manifestou-se peia remessa dos autos à Justiça Federal, pois a conduta praticada lesou serviços e interesses da União Federal já que as instituições privadas de ensino superior são integrantes do sistema federal de ensino (fls. 223/225).
+O MM. Juiz de Direito da 2a Vara da Comarca de Campos Jordão acolheu a manifestação do Ministério Público e determinou a redistribuição do feito a esta Justiça Federal de Taubaté (fl. 226).
+O parecer do Ministério Público Federal, às fls. 239/232, foi em sentido diverso. Segundo o parquet federal as condutas em análise não constituíram infrações contra serviço ou interesse da União Federal, autarquias ou empresas públicas federais, mas em detrimento da administração pública Municipal de Campos do Jordão, não havendo motivos a justificar a competência da Justiça Federal.
+(..)
+Conforme bem exposto pelo Ministério Público Federal, a União Federal, no caso em apreço, tem mero interesse genérico no fiel cumprimento das leis que regulam a educação.
+Adoto o posicionamento da jurisprudência do e. Superior Tribunal de Justiça no sentido de que a competência é firmada segundo o ente ao qual o documento falso é destinado (ofensa direta).
+No apreço, não houve ofensa a bens, serviços ou interesses da União Federal, mas a municipalidade de Campos do Jordão já que o certificado de graduação falso, emitido por escola privada, serviria para ingresso no cargo de professor da rede municipal de ensino.
+(..)
+Assim, em razão do exposto, dou este Juízo por incompetente para processar e julgar estes autos no que concerne aos delitos previstos nos artigos 304 e 299, do Código Penal, nos termos do artigo 109, IV, da Constituição Federal e com fundamento nos artigos 114,1, e 11 5, III, ambos do Código de Processo Penal, suscito conflito negativo de jurisdição.
+O Ministério Público Federal opinou pela competência do Juízo suscitado em parecer assim ementado (e-STJ fl. 32):
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA FEDERAL X JUSTIÇA ESTADUAL. INQUÉRITO POLICIAL. EMISSÃO FRAUDULENTA, POR ENTIDADE PRIVADA DE ENSINO, DE CERTIFICADOS DE CONCLUSÃO DE CURSO SUPERIOR. UTILI- ZAÇÃO DOS DOCUMENTOS FALSOS, PELOS ALUNOS, PARA VIABILIZAR O INGRESSO EM CARGO PÚBLICO MUNICIPAL. AU - SÊNCIA DE AFETAÇAO DE BENS, SERVIÇOS OU INTERESSES DA UNIÃO, AUTARQUIAS OU EMPRESAS PÚBLICAS FEDE - RAIS RECONHECIDA PELA JUSTIÇA FEDERAL. INTERESSE EXCLUSIVAMENTE MUNICIPAL. DESNECESSIDADE DE SUSCI- TAÇÃO DE CONFLITO. INTELIGÊNCIA DAS SÚMULAS N.º 150 E 224 DO STJ. PARECER PELO NÃO CONHECIMENTO DO PRE- SENTE CONFLITO NEGATIVO DE COMPETÊNCIA, DEVENDO SER DETERMINADA A REMESSA DO FEITO AO JUÍZO DE DI- REITO DA 2A VARA CÍVEL DE CAMPOS DO JORDÃO - SP, O SUSCITADO, PARA O PROCESSAMENTO E JULGAMENTO DA DE- MANDA.
+É, em síntese, o relatório.
+Cuida-se de incidente instaurado entre juízes vinculados a Tribunais diversos, razão pela qual, nos termos do art. 105, I, d, da Constituição Federal, conheço do conflito.
+Assiste razão ao Juízo suscitante.
+Trata-se de crime praticado por particular consistente na falsificação de certificados de conclusão de cursos de graduação emitidos por entidade privada, e que foram posteriormente utilizados em certame público municipal.
+No caso, sobre qualquer prisma que se examine a questão, ficará evidente que a competência para o processo e julgamento do feito é da Justiça Estadual.
+Não há que se falar em ofensa a bens, interesses ou serviços da União.
+Em primeiro lugar, cumpre destacar que esta Corte já afirmou que "são de competência da Justiça Estadual os delitos praticados em detrimento de bens ou interesses de entidades de ensino superior particular" (CC 16.991/MG, Rel. Ministro FELIX FISCHER, TERCEIRA SEÇÃO, julgado em 22/10/1997, DJ 15/12/1997, p. 66198).
+Ademais, os documentos adulterados foram utilizados como forma de comprovar o preenchimento de requisitos pelos candidatos que pleiteavam o acesso a cargos públicos municipais. Tal circunstância, de igual modo, atrai a competência da Justiça Estadual, pois "a competência para processar e julgar o crime de uso de documento falso é firmada em razão da entidade ou órgão ao qual foi apresentado o documento público, não importando a qualificação do órgão expedidor" (Súmula 546/STJ).
+Na mesma senda:
+PENAL E PROCESSO PENAL. CONFLITO DE COMPETÊNCIA. 1. FALSIFICAÇÃO E USO DE DOCUMENTO PÚBLICO. DIPLOMA FALSO. APRESENTAÇÃO PERANTE EMPRESA PRIVADA. ABSORÇÃO DO CRIME-MEIO PELO CRIME-FIM. AUSÊNCIA DE PREJUÍZO A BENS, SERVIÇOS OU INTERESSE DA UNIÃO. 2. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO DE DIREITO DA 1ª VARA JUDICIAL DE IGARAPAVA/SP, O SUSCITANTE.
+1. Pela análise do contexto apresentado, verifica-se que o crime de falso foi absorvido pelo delito de uso, tanto que a denúncia se reporta apenas a este último. De fato, o acusado utilizou os documentos falsos para manter ou pleitear benefício perante empresa privada na qual trabalhava. Nesse contexto, não se verifica qualquer prejuízo direto aos bens, serviços ou interesses da União, revelando-se, dessarte, a competência da Justiça Estadual no caso dos autos.
+2. Conflito conhecido para declarar competente o JUÍZO DE DIREITO DA 1ª VARA JUDICIAL DE IGARAPAVA/SP, o suscitante.
+(CC 131.253/SP, Rel. Ministro WALTER DE ALMEIDA GUILHERME (DESEMBARGADOR CONVOCADO DO TJ/SP), TERCEIRA SEÇÃO, julgado em 26/11/2014, DJe 15/12/2014)
+ Ante o exposto, conheço do conflito e dou por competente o Juízo suscitado.
+Publique-se. Intime-se.
