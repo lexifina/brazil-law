@@ -1,0 +1,18 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso ordinário em habeas corpus interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado de Minas Gerais que, nos autos da impetração originária (HC n.º 1.0000.18.036009-1/000), denegou a ordem nos termos da seguinte ementa (fl. 113):
+"HABEAS CORPUS - ORGANIZAÇÃO CRIMINOSA - EXCESSO DE PRAZO - INOCORRÊNCIA - COMPLEXIDADE DO FEITO - PRINCÍPIO DA RAZOABILIDADE - FEITO EM SEU REGULAR ANDAMENTO - REVOGAÇÃO DA PRISÃO PREVENTIVA - IMPOSSIBILIDADE - PRESENÇA DOS REQUISITOS PREVISTOS NO ART. 312, DO CPP - MODUS OPERANDI EMPREGADO GRAVIDADE CONCRETA DO DELITO - CONDIÇÕES PESSOAIS FAVORÁVEIS - IRRELEVÂNCIA - ANÁLISE CONJUNTA COM OS DEMAIS ELEMENTOS PROBATÓRIOS - AUSÊNCIA DE CONSTRANGIMENTO ILEGAL A SER SANADO - ORDEM DENEGADA.
+- Inexiste constrangimento ilegal na prisão do paciente por excesso de prazo na formação de sua culpa, sobretudo, quando as circunstâncias e as peculiaridades do caso concreto justificam a custódia preventiva por lapso temporal superior ao previsto em lei.
+- Tendo em vista o modus operandi empregado e a gravidade concreta dos fatos imputados ao paciente, resta evidenciado o periculum libertatis, o que demonstra a necessidade da manutenção da sua segregação cautelar para a garantia da ordem pública, nos moldes do art. 312, do CPP.
+- O fato de o paciente ser primário e com bons antecedentes não tem, a principio, o condão de garantir eventual direito de responder ao processo em liberdade, devendo as condições pessoais ser analisadas em conjunto com os demais elementos probatórios dos autos."
+Consta dos autos que o Recorrente foi preso temporariamente, sendo a custódia convertida em preventiva na data de 28/11/2017, pela suposta prática dos crimes previstos nos arts. 155, § 4.º, incisos II e IV, do Código Penal e 2.º, §§ 2.º e 4.º, da Lei n.º 12.850/2013.
+Nas razões recursais, o Recorrente sustenta, em suma, excesso de prazo na formação da culpa.
+Alega, ainda, a existência de constrangimento ilegal, consubstanciado na ausência dos requisitos autorizadores da prisão preventiva e na falta de fundamentação do decreto prisional.
+Requer "a imediata LIBERDADE PROVISÓRIA do paciente [NOME], mediante imposição de MEDIDAS CAUTELARES DIVERSAS DA PRISÃO, com a imediata expedição de ALVARÁ DE SOLTURA em favor do paciente, aguardando em liberdade para que possa responder ulteriores termos do processo-crime" (fl. 173).
+É o relatório inicial. Passo a decidir o pedido urgente.
+No HC n.º 451.538/MG, distribuído em 25/05/2018 à relatoria do Ministro REYNALDO SOARES DA FONSECA, por prevenção do RHC n.º 95.739 (fl. 74), foi formulada idêntica pretensão, em favor da mesma Parte, sustentando, também, constrangimento ilegal em razão de excesso de prazo na formação da culpa e ausência dos requisitos autorizadores da custódia preventiva.
+O presente recurso, portanto, é mera reiteração de pedido anterior, em que há identidade de partes, de pedido e de causa de pedir, além de ser impugnada a mesma decisão e matéria (HC n.º 1.0000.18.036009-1/000), inexistindo alteração fático-processual que justifique a reapreciação do julgado.
+Concluo, assim, pela inadmissibilidade do mandamus, porquanto "não pode ser conhecida a impetração que veicula mera reiteração de pedido já formulado em writ anteriormente impetrado nesta Corte" (AgRg no HC 286.354/AC, Rel. Min. LAURITA VAZ, QUINTA TURMA, julgado em 15/05/2014, DJe 23/05/2014).
+No mesmo sentido, v.g.: RCD no HC 423.298/SP, Rel. Min. ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 28/11/2017, DJe 04/12/2017; AgRg no HC 404.890/SP, Rel. Min. JORGE MUSSI, QUINTA TURMA, julgado em 21/11/2017, DJe 27/11/2017.
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
