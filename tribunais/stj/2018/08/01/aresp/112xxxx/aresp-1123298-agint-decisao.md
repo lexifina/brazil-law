@@ -1,0 +1,54 @@
+DECISÃO
+Reconsidero a decisão de e-STJ fls. 270/272, tornando-a sem efeito.
+Passo ao exame do recurso.
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto de acórdão que recebeu a seguinte ementa (e-STJ fl. 168):
+VALOR DA CAUSA. Ação declaratória de inexistência de relação jurídica. Impugnação rejeitada, mantida. Pedidos sucessivos, que se traduzem em consequências, desdobramentos e efeitos direitos ou indiretos da procedência da pretensão declaratória. Benefício econômico imensurável nesse momento processual. Valor atribuído pelos autores suficiente. Inteligência dos art. 258 e 259 II do CPC. Recurso desprovido.
+Alega-se ofensa aos arts. 258 e 259 do Código de Processo Civil de 1973, bem como dissídio.
+A parte agravante sustenta, em síntese, que o conteúdo econômico da causa seria de, no mínimo, R$ 134.000.000,00 (cento e trinta e quatro milhões de reais), enquanto a parte teria atribuído um valor meramente estimativo de R$ 100.000,00 (cem mil reais).
+O Tribunal de origem decidiu a causa nos seguintes termos:
+A agravada ajuizou demanda cujo pedido principal é a declaração de inexistência de relação jurídica entre ela CIMOB que lhe obrigasse a arcar com débitos dessa, reconhecendo-se, ainda, que não haveria relação de sucessão entre as duas empresas.
+Todos os demais pedidos são consequências, desdobramentos, efeitos diretos ou indiretos da eventual procedência da demanda declaratória, como, por exemplo, a condenação de CIMOB ao ressarcimento dos valores que a agravada fosse obrigada a desembolsar em demandas que foram elencadas na inicial, bem como em outras pelas quais fosse responsabilizada por dívidas de CIMOB etc. Trata-se, pois, de cumulação própria sucessiva, "quando a análise do pedido posterior depender da procedência do pedido que lhe precede" (DANIEL AMORIM ASSUMPÇÃO NEVES, Manual de direito processual civil, 3ª ed., São Paulo: Método,2011, p. 113).
+A extensão patrimonial da procedência do pedido de declaração de inexistência de relação jurídica e, por conseguinte, de todos ou alguns dos pedidos sucessivos é, neste momento processual, imensurável, motivo pelo qual o valor atribuído pela agravada à causa deve ser mantido, porque atende à norma contida no art. 258 do CPC.
+(..)
+Não se cogita da aplicação do art. 259 II justamente porque é prematura a estimativa de um valor que supostamente se adeque melhor ao benefício econômico pretendido pela agravada. Ademais, como ressaltado pela decisão recorrida, a demanda não depende apenas da procedência do pedido declaratório, mas, também, "de efetivo pagamento de quantia por conta da sua responsabilização de débitos da CIMOB, valores estes que não se encontram consolidados." (fls. 50).
+E o fato, trazido para apreciação às fls. 152/153, de a agravada ter contingenciado, em seus demonstrativos financeiros, R$127.397.000,00 para o eventual pagamento dos processos relacionados na demanda, não torna o valor dela concreto, apenas demonstra que, em procedimento contábil interno, a empresa já reservou valores que lhe podem ser cobrados.
+Com efeito, entendo que merece reforma o entendimento acima adotado.
+No caso, não se desconhece que a jurisprudência do Superior Tribunal de Justiça possui precedentes nos quais se admite a adoção de valores estimativos para ações de natureza declaratória em que seja impossível a quantificação material do benefício auferido com o provimento jurisdicional.
+Tampouco se desconhece a existência de precedentes aplicando o verbete nº 7 da Súmula do Superior Tribunal de Justiça quando o Tribunal de origem afirma ser impossível o exame do conteúdo econômico da causa naquela fase processual.
+Por outro lado, depreende-se da petição inicial trechos em que a empresa autora sustenta estar sofrendo inúmeras execuções e tendo compromissos decorrentes da relação a que pretende ver declarada inexistente.
+A título de ilustração, confira-se:
+A GAFISA S.A. tem apresentado defesa, demonstrando que não possui qualquer relação com a CIMOB (até porque as dívidas sempre têm origem em negócios particulares desta, normalmente anteriores à existência da autora). Entretanto, não conseguiu, nos casos referidos no item 47 abaixo, ser excluída do pólo passivo das demandas e há a chance de a autora ter que arcar com as dívidas exclusivas da CIMOB. Com efeito, a GAFISA S.A. já foi incluída no pólo passivo de mais de uma dezena de execuções ajuizadas originalmente contra a CIMOB, nas quais já foram penhorados mais de R$ 104.023.139,00 milhões nas contas da GAFISA S.A.
+O pior, nesta história toda, é que, de um modo geral, essas ações têm por finalidade alguma obrigação de fazer da CIMOB (v.g., a outorga de escritura a compradores de imóveis alienados pela própria CIMOB), nas quais o Judiciário, invariavelmente, fixa uma multa elevada para o seu descumprimento. Como a CIMOB não paga o que deve e tampouco cumpre com as obrigações de fazer que lhe são impostas, as dívidas se agigantam. E, no fim, quem recebe a conta é a GAFISA S.A., que, insista-se, nada tem a ver com os débitos, nem, tampouco, poderia adotar qualquer atitude visando ao adimplemento das personalíssimas obrigações de fazer da CIMOB.
+Em seguida, às e-STJ fls. 87/89, afirma a existência de diversas ações que se relacionariam a dívidas exclusivas da CIMOB, que a GAFISA S.A., embora não tenha qualquer relação, teria sido incluída no pólo passivo e tido contra si deferidas ordens de penhora.
+A somatória dos valores nos referidos casos elencados chega a R$ 104.683.764,13 (cento e quatro milhões, seiscentos e oitenta e três mil, setecentos e sessenta e quatro reais e treze centavos).
+Sustenta a parte autora que em alguns casos teria conseguido demonstrar a ausência de responsabilidade, mas ainda vem tendo que arcar com dívidas assumidas pela ré que não lhe correspondem e busca se ver livre dessas dívidas por meio da declaração da inexistência da relação jurídica.
+Ao final, postula não somente a declaração de inexistência de relação jurídica, mas também postula expressamente reembolso de valores.
+A inicial é encerrada com o seguinte pedido (e-STJ fl. 108):
+Diante do exposto, a autora requer a citação dos réus, por correio, para que sejam integrados ao processo e, querendo, apresentem contestação, julgando-se, ao final, procedente a ação para:
+a) declarar a inexistência de relação jurídica entre, de um lado, a CIMOB COMPANHIA IMOBILIÁRIA e CIMOB PARTICIPAÇÕES S.A. e, de outro, a GAFISA S.A. que obrigue esta a arcar com débitos das primeiras, reconhecendo-se que a GAFISA S.A. não é sucessora das primeiras rés nem responde pelas suas dívidas;
+b) condenar os réus, solidariamente, desconsiderando a personalidade jurídica das primeiras rés, a reembolsar a GAFISA S.A. pelos valores que esta tiver que pagar por decorrência das demandas referidas no item 47 acima, bem como em outras pelas quais que venha a ser responsabilizada por dívidas de responsabilidade da CIMOB; e
+c) condenar os réus ao pagamento das custas processuais e honorários advocatícios.
+Ao contrário do que entendeu o Tribunal de origem, não se trata de ação meramente declaratória, cujo conteúdo econômico seria, em princípio, inestimável.
+Não há que se confundir conteúdo econômico de difícil estimativa, ou de estimativa trabalhosa com conteúdo econômico inestimável.
+Na hipótese tratada nos autos há pedido de declaração de inexistência de relação jurídica e outro pedido de condenação em reembolso.
+Há afirmação expressa da autora acerca de prejuízos concretos sofridos e há postulação de afastamento de débitos decorrentes da relação jurídica que se reputa inexistente e há a afirmação de valores muito mais expressivos do que aquele declarado ao fim da petição inicial.
+Há pedido de natureza condenatória.
+A autora afirmou expressamente os reflexos econômicos milionários da relação jurídica que até então vem sendo reconhecida, de modo que não pode se limitar a arbitrar aleatoriamente um valor de R$ 100.000,00 (cem mil reais) como o fez.
+Ademais, tratando-se de pronunciamento da própria autora formulado na inicial, é de se afastar o verbete nº 7 da Súmula do Superior Tribunal de Justiça ao caso.
+Assim é a jurisprudência do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. VALOR DA CAUSA. CONTEÚDO ECONÔMICO DA DEMANDA. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Hipótese em que o Tribunal local consignou que "o valor da causa não fica à discrição das partes e deve refletir o conteúdo econômico da demanda. Ainda que não se conheça o exato montante postulado, é incabível adotar uma estimativa irreal da expressão monetária da lide" (fl. 149, e-STJ).
+2. É pacífico o entendimento deste Tribunal de que o valor da causa deve corresponder ao conteúdo econômico da demanda, ou seja, ao êxito material perseguido pelo autor da ação, inclusive nas Ações Declaratórias.
+3. Ademais, a reforma dessa conclusão exige incursão no contexto fático-probatório, o que encontra óbice na Súmula 7/STJ.
+4. Agravo Regimental não provido.
+(AgRg no AREsp 705.396/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 20/08/2015, DJe 10/09/2015)
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. VALOR DA CAUSA. AÇÃO ANULATÓRIA. CEBAS. CRITÉRIOS. CONTEÚDO ECONÔMICO DA DEMANDA. TRIBUTOS DEVIDOS. POSSIBILIDADE.
+1. Em respeito aos princípios da fungibilidade e da economia processual, é possível o recebimento de embargos declaratórios com exclusivo propósito infringente como agravo regimental. Precedentes.
+2. Ainda que a repercussão econômica da controvérsia não possa ser mensurada diretamente - como sucede, em regra, com as pretensões declaratórias - o magistrado deve buscar critérios para aferir a relevância patrimonial da causa, atribuindo-lhe valor compatível com a realidade.
+3. Nos casos em que se pretende a anulação de um ato administrativo, como a concessão da Certificação de Entidade Beneficente da Assistência Social - CEBAS, é válido estipular-se o valor da causa com base nos tributos que passaram a ser devidos em virtude da cassação da imunidade, isto é, os valores que deixaram de ser carreados aos cofres públicos por conta da certificação pretensamente irregular. Precedentes: AREsp 532.917/RS, Rel. Min.
+Mauro Campbell Marques e REsp 1.263.675/RS, Rel. Min. Herman Benjamin.
+4. Embargos de declaração recebidos como agravo regimental a que se nega provimento.
+(EDcl no REsp 1432073/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 09/06/2015, DJe 23/06/2015)
+Merece amparo, pois, a pretensão.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial para acolher a impugnação ao valor da causa, estabelecendo-o conforme o conteúdo econômico efetivamente declarado no inteiro teor da inicial, qual seja R$ 104.023.139,00 (cento e quatro milhões, vinte e três mil, cento e trinta e nove reais).
+Intimem-se.
