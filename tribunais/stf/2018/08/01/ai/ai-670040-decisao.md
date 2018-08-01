@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. Afasto a suspensão anteriormente determinada.
+    2. O Tribunal de origem deferiu habeas corpus para reconhecer a invalidade da ordem de prisão do depositário infiel determinada no âmbito de execução fiscal. No extraordinário cujo trânsito busca alcançar, o recorrente aponta violados os artigos 5º, incisos XXXV, LIV e LV, 93, inciso IX, da Constituição Federal. Consoante alega, inexiste fundamentação sobre alguns documentos assinados pelo recorrido, bem como em relação à multa prevista nos artigos 538 e 471 do Código de Processo Civil de1973.
+    3. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    Colho do acórdão recorrido os seguintes trechos:
+    No caso presente, segundo depreende-se da documentação colacionada no instrumento, a indicação de bens à penhora se desenvolveu em dois momentos distintos, recaindo sobre conjuntos de bens diferentes.
+    Inicialmente, o executado indicou compressores, máquina de lavar, macaco hidráulico, elevadores para automóvel, balanceador, analisador de motor, alinhador de direção, aparelho para ar condicionado e estante com mezanino (fi. 19 = 8 do original), mas, quando instado a formalizar a nomeação em cartório (fi. 23 = 16 do original), já havia se desfeito dos referidos bens, como alegado pelo credor em petição protocolada no dia 12.12.1997 (fl. 27 = 20 do original)·
+    Após suspensão do processo, requerida pelo exequente (em 20.10.1998) com base em pagamento parcelado do débito (fi. 30 = 25 do original), seguida de arquivamento administrativo (fl. 31 = 26 do original), este (exequente) veio requerer (por petição protocolada em 17.05.99) expedição de mandado de penhora (fl. 33 = 27 do origina0, que culminou com a efetivação da constrição, mas sobre outros bens (diversas peças e equipamentos mecânicos relacionados às fls. 39 a 41). Desta feita foi formalizada a penhora e lavrado auto depósito sob responsabilidade do representante da executada, mediante compromisso, em 25.05.2000 (fl. 37).
+    Por petição depositada em cartório no dia 26.03.2001 (fl. 43), o exequente veio informar que o executado não possuía mais os bens inicialmente nomeados (compressores, máquina de lavar, elevadores, balanceador, analisador de motor, alinhador de direção, aparelho de gás para ar condicionado, estante com mezanino e prateleira com divisórias), razão pela qual requereu a ordem de exibição sob pena de prisão, deferida na decisão que o impetrante aponta como ilegal.
+    Ora, tudo o quanto foi até aqui examinado indica que não se concretizou a penhora de tais bens, e, de consequência não houve o depósito, sem o qual não se aplicam as penas decorrentes do descumprimento dos deveres de guarda e conservação dos bens.
+    Ante o exposto, o voto é no sentido de conceder a segurança.
+    (…)
+    Da simples leitura da peça recursal verifica-se que o embargante pretende estéril debate, objetivando alterar substancialmente o seu conteúdo, já apresentada a tutela jurisdicional.
+    Se há inconformidade, por revelar-se, sob sua ótica, injusta a decisão, esta não é a via para deduzir tal pretensão, como tem proclamado, reiteradamente, a Corte Superior e este Tribunal.
+    Evidencia-se, nesta conduta, o caráter protelatório dos embargos, e sua completa inutilidade para gerar a admissibilidade de outros recursos, reclamando aplicação da sanção prevista no art. 538, parágrafo único, primeira parte do CPC.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação do quadro fático e de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    4. Conheço do agravo e o desprovejo.
+    5. Publiquem.
+Brasília, 1º de agosto de 2018.
+Ministro MARCO AURÉLIO
+Relator
