@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão, retratado na seguinte ementa (fl. 273):
+AÇÃO DE COBRANÇA - FASE DE CUMPRIMENTO DE SENTENÇA - INCLUSÃO DA SÓCIA DA EMPRESA EXECUTADA NO POLO PASSIVO POR DECISÃO DESTA CORTE EM ANTERIOR AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE NECESSIDADE DE INSTAURAÇÃO DE INCIDENTE DE DESCONSIDERAÇÃO DE PERSONALIDADE JURÍDICA - IMPROCEDÊNCIA - DECISÃO PROFERIDA NA VIGÊNCIA DO ANTERIOR CÓDIGO DE PROCESSO CIVIL - DETERMINAÇÃO, ADEMAIS, DE INTIMAÇÃO PESSOAL DA SÓCIA PARA APRESENTAR DEFESA INCLUSIVE QUANTO A SUA INCLUSÃO NO POLO PASSIVO - ALTERAÇÕES DO NOVO CPC JÁ CONTEMPLADAS NA ANTERIOR DECISÃO - CONSIGNAÇÃO DE QUE A AUSÊNCIA DE BENS E O ENCERRAMENTO IRREGULAR DAS ATIVIDADES PRESUMEM O ABUSO DE PERSONALIDADE JURÍDICA - AUSÊNCIA DE DEMONSTRAÇÃO EM SENTIDO CONTRÁRIO - DECISÃO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA MANTIDA. AGRAVO DESPROVIDO
+Alega a recorrente a violação dos arts. 7º, 14, 134, 135, 136, 489, § 1º, 525 e 1.022, II, do Código de Processo Civil de 2015; 6º da Lei de Introdução às Normas do Direito Brasileiro; e 50 do Código Civil, associada a dissídio jurisprudencial.
+Sustenta que o novo Código de Processo Civil estabelece que deve ser instaurado o incidente de desconsideração da personalidade jurídica, cabível em todas as fases do processo de conhecimento, no cumprimento de sentença e na execução fundada em título extrajudicial, sob pena de nulidade processual.
+Afirma que deve ser afastado o excesso de execução, bem como argumenta que não foram preenchidos os requisitos necessários para autorizar a desconsideração da personalidade jurídica.
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, verifico que procede a alegação de violação dos arts. 489 e 1.022 do CPC/2015 quanto à falta de pronunciamento acerca do alegado excesso de execução.
+Com efeito, observo que a parte recorrente, nos embargos de declaração opostos às fls. 277/312, buscou esclarecimento no acórdão recorrido quanto ao referido tema.
+O Tribunal de origem, todavia, instado a se pronunciar, não enfrentou a controvérsia, o que configura a ofensa ao art. 1.022 do CPC/2015.
+Em face do exposto, dou parcial provimento ao recurso especial para anular o acórdão dos embargos de declaração, e determinar que outro seja proferido, sanando-se a omissão nos termos acima. Ficam prejudicadas as demais questões tratadas no recurso especial.
+Intimem-se.
