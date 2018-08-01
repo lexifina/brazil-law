@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que negou seguimento ao recurso especial por inexistência de violação de lei federal, incidência da Súmula n. 7 do STJ e ausência de comprovação do dissenso jurisprudencial (e-STJ fls. 1.529/1.531).
+O acórdão recorrido está assim ementado (e-STJ fl. 1.462):
+PRESTAÇÃO DE SERVIÇOS. Obrigação de fazer conexa com ação de cobrança. Terraplanagem. Alegação tardia da autora de inadequação do serviço prestado pela ré em relação ao pactuado, após ter efetuado pagamento de 90% do valor contratado. Acompanhamento das medições por empresa contratada pela própria autora, "in loco", que não apontou qualquer irregularidade no curso da execução do serviço.
+Expectativa da ré de que atuava regularmente. Aplicação dos princípios da boa -fé objetiva, do "venire contra factum proprium" e da "supressio". Sentença de improcedência da ação ajuizada pela autora e de procedência da proposta pela pela ré mantidas, por seus próprios e jurídicos fundamentos.
+Artigo 252 do Regimento Interno do TJSP. RECURSO NÃO PROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 1.478/1.482).
+No especial (e-STJ fls. 1.485/1.496), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alegou, além de divergência jurisprudencial, ofensa ao art. 1.022 do CPC/2015, por negativa de prestação jurisdicional.
+Apontou ainda contrariedade aos arts. 427, 615 e 628 do CC/2002, sustentando o inadimplemento do contrato, tendo em vista que a recorrida não teria seguido o projeto executivo pactuado. Afirmou que a proposta obriga o proponente.
+No agravo (e-STJ fls. 1.534/1546), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada pela recorrida (e-STJ fls. 1.549/1.552).
+É o relatório.
+Decido.
+Não há falar em contrariedade ao art. 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos. Ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação do referido dispositivo.
+No mais, o Tribunal de origem consignou que (e-STJ fls. 1.464/1.465):
+Consoante bem anotado na r. sentença, a autora efetuou o pagamento de 90% do valor contratado, pelo sistema de medições e, durante a execução do serviço, a empresa contratada pela apelante para fiscalizar o serviço "in loco" não reportou qualquer anormalidade.
+Assim, a afirmação de irregularidades pela autora não se coaduna com tanto tempo de execução contratual desenvolvida sem objeções, emergindo, ao contrário, a vedação do venire contra factum proprium.
+Forçoso, pois, concluir que a hipótese é de necessária vedação ao comportamento contraditório, venire contra factum proprium, princípio pautado pela boa -fé, que deve presidir as relações contratuais, segundo o qual "a ninguém é lícito fazer valer um direito em contradição com sua anterior conduta, quando essa conduta interpretada objetivamente segundo a lei, os bons costumes ou a boa -fé, justifica a conclusão de que não se fará valer o direito, ou quando o exercício posterior choque contra a lei, os bons costumes ou a boa-fé" (Nelson Neri Junior, "Código Civil Comentado" (..), 6 ed. p.507. A hipótese está, também, acobertada pela supressio, teoria que tem origem na boa-fé, que inibe o exercício de um direito, em virtude do comportamento da parte, que se perdura por determinado período de tempo e, como na hipótese, está presente a boa-fé do contratante.
+Para alterar os fundamentos acima transcritos e afastar a incidência do venire contra factum proprio e da supressio, seria imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+Com relação ao dissídio jurisprudencial, importa ressaltar que o conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados, ônus dos quais a recorrente não se desincumbiu.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
