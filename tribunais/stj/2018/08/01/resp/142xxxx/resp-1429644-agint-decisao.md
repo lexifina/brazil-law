@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interno (e-STJ fls. 314/326), interposto contra decisão desta relatoria que não conheceu do recurso especial.
+Em suas razões, o agravante insurge-se contra a incidência da Súmula n. 83/STJ, sob o argumento de que a matéria não estaria pacificada nesta Corte. Afirma que apenas um dos julgados paradigmas (REsp n. 1.522.874/DF, de relatoria do Min. Marco Aurélio Bellizze) trataria da mesma questão discutida no recurso especial. Segundo afirma, o AREsp n. 777.629/RS, de relatoria do Min. Luis Felipe Salomão, cuidaria de hipótese distinta, destacando que (e-STJ fl. 319):
+Aqui, cuida-se da inaplicabilidade da ficção legal prevista no §1º, do artigo 237-A, da Lei de Registros Públicos em razão da natureza do ato - baixa de gravames constituídos anteriormente e em desconexão com a incorporação -, ao passo que o paradigma cuidou da aplicabilidade daquela ficção a despeito da qualificação do imóvel - se integrante ou não do Programa Minha Casa Minha Vida.
+Aduz ainda que, "no caso concreto, não se discute que o requerimento de registro foi apresentado no interregno entre o registro do memorial de incorporação e a expedição da carta de habite-se. Contudo, o ato não é de interesse do empreendimento, nem mesmo lhe diz respeito. O título apresentado para registro representa negócio jurídico anterior ao empreendimento" (e-STJ fl. 323), concluindo que (e-STJ fl. 324):
+(..) o legislador, ao definir o alcance da regra excepcional, além de delimitá-la no tempo, restringiu sua aplicação a determinados atos. Quis o legislador que somente os "atos relativos à pessoa do incorporador ou referentes a direitos reais de garantias, cessões ou demais negócios jurídicos que envolvam o empreendimento negócios jurídicos".
+Ao final, pede a reconsideração da decisão monocrática, ou a apreciação do agravo pelo Colegiado.
+A agravada apresentou contrarrazões (e-STJ fls. 330/340).
+É o relatório.
+Reapreciando os presentes autos à luz das razões apresentadas no agravo interno, concluo que o recurso especial deve ser minuciosamente discutido e julgado em colegiado, conferindo-se Às partes, inclusive, o direito de realizar sustentações orais.
+Ante o exposto, DOU PROVIMENTO ao agravo interno para, reconsiderando a decisão ora agravada, torná-la sem efeito, impondo o julgamento do recurso especial em sessão da Quarta Turma, mediante publicação de pauta.
+Publique-se e intimem-se.
