@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por NILSON COSTA DE OLIVEIRA contra a decisão de fls. 1.015-1.018, e-STJ, desta relatoria, que conheceu do agravo interposto pelas ora embargadas, para dar provimento ao seu recurso especial, a fim de afastar a condenação ao pagamento de indenização por danos morais, decorrentes do mero atraso na entrega do imóvel objeto do compromisso de compra e venda.
+O embargante afirma haver contradição e omissão no julgado.
+Impugnação às fls. 1.041-1.044, e-STJ.
+Relatados, passo a decidir.
+Nos termos do art. 1.022 do CPC/2015, os embargos de declaração são cabíveis quando há omissão, contradição, obscuridade ou erro material na decisão embargada, o que não se verifica na espécie.
+Com efeito, a decisão embargada não padece de nenhum vício que autorize a oposição dos embargos de declaração na espécie. Em verdade, verifica-se que o embargante pretende, sob o pretexto de existência de omissão e contradição, o rejulgamento da causa, formulando razões confusas e desprovidas de técnica e concatenação, meramente irresignando-se com o teor da decisão de fls. 1.011-1.014, e-STJ, buscando, por via impugnativa inadequada, a sua reforma.
+Em suas razões, o embargante repete parágrafos prolixos e adialéticos, sem indicar, com precisão, em que ponto a decisão embargada foi omissa e/ou contraditória.
+Assim, mutatis mutandis, "É inepta a petição do recurso especial que não tem sentido textual lógico, isto é, que se limita a tecer ilações confusas, sem desenvolvimento lógico, sem concatenação de idéias, clareza ou coerência da exposição, sem desenvolver argumentação minimamente inteligível, porquanto dessa forma fica inviabilizada a compreensão da controvérsia, nos termos da Súmula 284/STF" (REsp 650.070/RS, Rel. Ministro CARLOS ALBERTO MENEZES DIREITO, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJ 17/9/2007.
+ É certo que não cabe ao julgador ir em busca do fundamento que sustente a pretensão da parte, devendo o recurso trazer a devida fundamentação em seu próprio bojo.
+Ressalte-se, quanto à afirmação de que "Diferentemente do entendimento comum ao estendermos a situação ocorrida sai do pequeno dissabor tal atraso para um abalo na estrutura de morar do Embargante como discriminado na peça exordial, razão pela qual o entendimento do pequeno dissabor muitas vezes estipulado pela 4ª Turma do STJ e pela ministra Nancy Andrighi não se aplicam especificamente nesse caso "in commento"" (fl. 1.030, e-STJ), que o recurso integrativo não se presta à aplicação de normas jurídicas ou temas que, segundo a ótica da parte embargante, deveriam guiar ou conduzir a solução do litígio.
+Esclareça-se que não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento. Para tanto, basta o pronunciamento fundamentado acerca dos fatos controvertidos, o que se observa no presente caso. Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não ocorre na hipótese em apreço.
+ ..  3. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+4.Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 15/06/2016, DJe 03/08/2016 - grifou-se).
+Advirta-se, por derradeiro, que o manejo de expediente manifestamente incabível ou com propósito protelatório ensejará a aplicação de multa, calculada sobre o valor atual da causa (art. 1.026, § 2º, CPC/2015).
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
