@@ -1,0 +1,47 @@
+DECISÃO
+[NOME] RIBEIRO [NOME] interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo na Apelação n. 0014969-50.2016.8.26.0037.
+Nas razões do recurso especial, aponta a defesa violação dos arts. 14, II, 33, 59, 65, III, "d", 68 e 157, todos do Código penal, bem como das Súmulas n. 440, 444 e 545 do STJ, 718 e 719, ambas do STF.
+Sustenta que a confissão do recorrente foi utilizada para embasar a condenação, devendo, pois, ser reconhecida a atenuante da confissão espontânea. Aduz, ainda, que o crime não se consumou, uma vez que "houve perseguição e que o recorrente foi detido logo após os fatos, sem que tivesse necessária posse mansa e pacífica da coisa" (fl. 315).
+Requer o provimento do recurso para "corrigir o processo de dosagem da pena, reduzindo-a em razão da atenuante da confissão" e reconhecer a forma tentada do delito "reduzindo em 2/3 a pena imposta" (fls. 315-316).
+Apresentadas as contrarrazões (fls. 321-329) e admitido o recurso especial na origem (fls. 332-333), o Ministério Público Federal opinou pelo seu parcial provimento (fls. 342-344).
+Decido.
+I. Contextualização
+Depreende-se dos autos que o recorrente foi condenado à pena de 3 anos de reclusão, em regime inicial fechado, e ao pagamento de 7 dias-multa, como incurso no art. 157, caput, c/c o art. 14, II, ambos do Código Penal (fl. 192).
+Irresignado, apelou o Ministério Público estadual.
+O Tribunal de origem deu parcial provimento ao recurso "para aumentar as penas de [NOME] RIBEIRO [NOME] a 4 (quatro) anos, 8 (oito) meses de reclusão e 11 (onze) dias-multa, mantida, no mais, a sentença" (fl. 261).
+Os subsequentes embargos de declaração foram rejeitados (fls. 299-302).
+II. Alegada ofensa a enunciados sumulares
+Nos termos da Súmula n. 518 do STJ, "para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula."
+Desse modo, este recurso não pode ser conhecido quanto à suposta contrariedade às Súmulas n. 440, 444 e 545 do STJ, 718 e 719, ambas do STF.
+III. Consumação do roubo
+No tocante ao pretendido reconhecimento da tentativa, a Corte de origem constatou que houve a "inversão da posse do bem", já que "a prisão ocorreu apenas após a intervenção dos policiais, quando o Apelado já havia, mediante violência física, se apossado da res" (fl. 263, destaquei).
+Sobre o tema, saliento que a Terceira Seção deste Superior Tribunal, por ocasião do julgamento do REsp n. 1.499.050/RJ, de minha relatoria, em sessão realizada no dia 14/10/2015, firmou o entendimento de que a consumação do crime de roubo ocorre com a inversão da posse do bem, mediante emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida à perseguição imediata ao agente e recuperada a coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada.
+Vale dizer, até nas hipóteses em que houver a imediata perseguição do agente e a recuperação da res furtiva, estará consumado o delito tipificado no art. 157 do Código Penal quando existirem nos autos elementos de prova que denotem a inversão da posse do bem, mediante emprego de violência ou grave ameaça, mesmo não sendo de forma mansa e pacífica ou desvigiada.
+Assim, a Corte de origem, ao considerar o roubo consumado por meio da inversão da posse do bem subtraído, decidiu em consonância com o entendimento dominante do Superior Tribunal de Justiça.
+IV. Confissão espontânea
+O Juiz sentenciante fundamentou a condenação e tratou da segunda fase da dosimetria da pena nestes termos (fls. 189-191, destaquei):
+ ..  Interrogado no inquérito policial, a fls. 08, o denunciado [NOME] confessou a prática do crime, alegando que o cometeu para comprar entorpecentes. Interrogado em juízo, o denunciado MATHES disse que realmente subtraiu o aparelho celular da vítima, mas não é verdade que agrediu a vítima. Ele apenas tirou o aparelho das mãos da vítima, sem agredi-la. Disse que estava na "fissura" da droga e por isso praticou a subtração. É verdade, também que se escondeu no mato e foi ele quem indicou para os policiais onde estava o aparelho, o qual ele dispensou quando notou a presença da polícia. Diante deste contexto, a prova da autoria é cristalina. Não há indícios de a vítima tenha incriminado um inocente. Pouco importa que a ação do réu não tenha sido presenciada por testemunhas. A res furtiva foi apreendida no local que ele dispensou e o mesmo foi reconhecido pela vítima, logo após a sua detenção.
+ ..
+Está presente a circunstância atenuante da confissão espontânea, eis que o réu admitiu ter subtraído o aparelho da vítima, mas não a agressão. Está presente, também a agravante da reincidência, conforme F.A. de fls. 81/102, certidão da VEC de fls. 142/148 e certidão de fls. 158, a qual prepondera sobre a confissão, razão pela qual aumento de 1/8 (um oitavo) a pena aplicada, fixando-a em 04 (quatro) anos e 06 (seis) meses de reclusão e ao pagamento de 11 (onze) dias multa.
+A Corte estadual reformou a sentença condenatória para afastar a atenuante da confissão espontânea mediante os seguintes fundamentos (fls. 263-264, destaquei):
+Acervo probante impecável, composto por sua confissão parcial - admitiu, tão-somente, a prática de mero furto, refutando o emprego de violência ou grave ameaça - além da declaração da vítima A. - a qual o reconheceu, sem titubeios, afirmando ter sido abordada por ele, que lhe desferiu um soco na boca e retirou o aparelho de suas mãos, evadindo-se na sequência - e dos depoimentos dos Policiais Militares Cláudio e Alan - os quais, acionados, localizaram-no e recuperaram o celular -, a absolvição, realmente, era meta inalcançável, inexistindo qualquer insurgência contra a justeza da condenação.
+ ..
+Na segunda etapa, respeitado o entendimento adotado na Origem, razão assiste ao Parquet. Realmente, não era caso de incidência da atenuante da confissão e tampouco sua compensação com a reincidência, porquanto parcial e incompleta, pois, refutou o emprego de violência e grave ameaça, não se prestando a tal desiderato.
+ ..
+Assim, afasta-se a compensação operada, impondo-se aumento de 1/6, pela aludida agravante, razoável e proporcional às peculiaridades, obtendo-se, de forma definitiva, reconhecida a forma consumada, 4 anos, 8 meses de reclusão e 11 dias-multa, à míngua de modificadoras.
+Como se observa, o réu confessou parcialmente a prática delitiva. No entanto, embora a confissão tenha sido utilizada como fundamento para condenar o recorrente, o Tribunal a quo refutou a incidência da atenuante.
+Nesse cenário, esta Corte Superior entende que, "se a confissão do acusado foi utilizada para corroborar o acervo probatório e fundamentar a condenação, deve incidir a atenuante prevista no artigo 65, III, "d", do Código Penal, sendo irrelevante o fato de a confissão ter sido espontânea ou não, total ou parcial, ou mesmo que tenha havido posterior retratação" (HC n. 289.943/SP, de Rel. Ministro Rogerio Schietti Cruz, 6ª T., DJe 4/8/2014).
+No mesmo sentido: "se a confissão do réu, ainda que parcial ou retratada, for utilizada pelo magistrado para fundamentar a condenação, deve incidir a respectiva atenuante" (HC n. 246.940/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T, DJe 24/4/2014).
+Quanto à possibilidade de compensação, no julgamento dos EREsp n. 1.154.752/RS e do Recurso Especial Representativo de Controvérsia n. 1.341.370/MT, a Terceira Seção deste Superior Tribunal fixou o entendimento de que, observadas as peculiaridades do caso concreto, "é possível, na segunda fase da dosimetria da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o artigo 67 do Código Penal".
+Portanto, deve ser refeita a dosimetria da pena, para aplicar a referida atenuante e compensá-la com a reincidência.
+V. Redimensionamento da pena
+Na primeira fase da dosimetria, mantenho a fixação da pena-base no mínimo legal, qual seja, 4 anos de reclusão e 10 dias-multa.
+Na segunda fase, reconheço a configuração da atenuante da confissão espontânea e compenso-a com a reincidência, ficando a pena intermediária no mesmo patamar.
+Na terceira etapa, não há causas de aumento ou de diminuição de pena a serem consideradas, o que perfaz a pena definitiva de 4 anos de reclusão e 10 dias-multa.
+A despeito da redução da reprimenda, mantenho o regime inicial fechado, diante da reincidência do acusado.
+VI. Execução imediata da pena
+Ante o esgotamento das instâncias ordinárias, como no caso, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+VII. Dispositivo
+À vista do exposto, conheço em parte do recurso especial e, com fundamento no art. 932, VIII, do CPC, c/c o art. 34, XVIII, "c", parte final, do RISTJ, dou-lhe parcial provimento, para reduzir a pena do recorrente para 4 anos de reclusão e 10 dias-multa.
+Por fim, determino o envio de cópia dos autos ao Juízo da condenação para imediata execução da pena imposta. A determinação deve ser desconsiderada caso o recorrente já cumpra a reprimenda.
+Publique-se e intimem-se.
