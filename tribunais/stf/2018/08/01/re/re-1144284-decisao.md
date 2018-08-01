@@ -1,0 +1,29 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Crefisa S.A. Crédito Financiamento e Investimentos. Aparelhado o recurso na afronta ao art. 5º, II, X, XXXV, LIV e LV, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O Tribunal de origem, na hipótese em apreço, lastreou-se no conjunto probatório e na legislação infraconstitucional para firmar seu convencimento. Compreensão diversa do entendimento adotado demandaria o exame prévio da lei ordinária, bem como a reelaboração da moldura fática delineada no acórdão de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”.
+    Na esteira da Súmula 636/STF: “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.”
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Colho precedentes:
+    “DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA. IRPJ. CSLL. INCIDÊNCIA JUROS CONTRATUAIS. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. ALEGAÇÃO DE OFENSA AOS ARTS. 153, III, E 195, I, “c”, DA CONSTITUIÇÃO DA REPÚBLICA. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA DO SUPREMO TRIBUNAL FEDERAL. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015.
+    1. O entendimento assinalado na decisão agravada não diverge da jurisprudência firmada no Supremo Tribunal Federal. Compreensão diversa demandaria a reelaboração da moldura fática delineada no acórdão de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário.
+    2. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa a preceito da Constituição da República.
+    3. Em se tratando de mandado de segurança, inaplicável o art. 85, § 11, do CPC/2015.
+    4. Agravo interno conhecido e não provido, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC/2015, calculada à razão de 1% (um por cento) sobre o valor atualizado da causa. (RE 1063967-AgR, de minha lavra, 1ª Turma, Dje 19.12.2017)
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DEMONSTRAÇÃO DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. INADMISSIBILIDADE DO PREQUESTIONAMENTO IMPLÍCITO. DIREITO CIVIL. FINANCIAMENTO ESTUDANTIL. APLICAÇÃO DA TABELA PRICE. JUROS PACTUADOS NO CONTRATO. VALIDADE. CONTROVÉRSIA DE ÂMBITO INFRACONSTITUCIONAL. NECESSIDADE DE REEXAME DE PROVAS E FATOS. INCIDÊNCIA DA SÚMULA 279/STF. MAJORAÇÃO DE HONORÁRIOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I – A mera alegação, nas razões do recurso extraordinário, de existência de repercussão geral das questões constitucionais discutidas, desprovida de fundamentação adequada que demonstre seu efetivo preenchimento, não satisfaz a exigência prevista no art. 543-A, § 2°, do CPC/1973, introduzido pela Lei 11.418/2006, e no art. 327, § 1°, do RISTF.
+    II – É inviável o recurso extraordinário cuja questão constitucional nele arguida não tiver sido prequestionada. Incidência das Súmulas 282/STF e 356/STF.
+    III – É inadmissível o recurso extraordinário quando sua análise implica a revisão da interpretação de normas infraconstitucionais que fundamentam a decisão recorrida, dado que apenas ofensa direta à Constituição Federal enseja a interposição do apelo extremo.
+    IV – Conforme a Súmula 279/STF, é inviável, em recurso extraordinário, o reexame do conjunto fático-probatório constante dos autos.
+    V – Majorada a verba honorária fixada anteriormente, nos termos do art. 85, § 11, do CPC, observados os limites legais dos § 2° e § 3°, do CPC e eventual concessão de justiça gratuita.
+    VI – Agravo regimental a que se nega provimento.” (ARE 1030683-AgR, Rel. Min. Ricardo Lewandowski, 2ª Turma, Dje 21.9.2017
+    “RECURSO. Agravo de instrumento convertido em Extraordinário. Inadmissibilidade deste. Contratos bancários. Art. 1º da Lei de Usura. Aplicação. Taxa de juros. Limite de 12% ao ano. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a aplicação, aos contratos bancários, do art. 1º da Lei de Usura, que limita a taxa de juros a 12% ao ano, versa sobre tema infraconstitucional.” (AI 844.474-RG, Rel. Min. Presidente, Tribunal Pleno, Dje 01.9.2011)
+    “Juros. Limitação em 12% ao ano. Contratos celebrados após o advento da Emenda Constitucional n. 40/2003. Legislação Infraconstitucional. Inexistência de repercussão geral.” (AI 804.209-RG, Rel. Min. Gilmar Mendes, 15.10.2010)
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 1º de agosto de 2018.
+Ministra Rosa Weber
+Relatora
