@@ -1,0 +1,19 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO. ART. 112 DA LEI DE EXECUÇÃO PENAL. REQUISITO SUBJETIVO. HISTÓRICO CRIMINAL E FALTA GRAVE REABILITADA. CONSTRANGIMENTO ILEGAL CONFIGURADO. REQUISITO OBJETIVO. FALTA DE PRONUNCIAMENTO. NECESSIDADE DE NOVA AVALIAÇÃO. PARECER ACOLHIDO. LIMINAR CONFIRMADA.
+Ordem concedida para determinar que o Juízo da execução reavalie, com urgência, o pedido de progressão.
+DECISÃO
+Confirmo, por seus próprios fundamentos, a decisão de fls. 86/88, mediante a qual deferi medida liminar em favor do ora paciente:
+No PEC n. 976.506, o Juízo de Direito da 2ª Vara de Execuções Criminais de Presidente Prudente/SP indeferiu o pedido de progressão de regime formulado por [NOME].
+Ao Agravo de Execução Penal n. 7008072-07.2016.8.26.0482, o Tribunal de Justiça de São Paulo negou provimento conforme esta ementa (fl. 73):
+Agravo em execução - Pedido de progressão no regime de cumprimento da pena. Decisão de primeiro grau ratificada por seus próprios fundamentos - Possibilidade, nos termos do artigo 252 do Regimento Interno do Tribunal de Justiça do Estado de São Paulo Hipótese em que não há suficiente prova do mérito à progressão Recurso não provido.
+Sobreveio, então, o presente habeas corpus, em que a Defensoria Pública alega, em síntese, que não é aceitável que uma falta de natureza grave cometida há muito tempo ainda seja admitida para macular todo o histórico prisional do apenado (fl. 4) e que levar em conta faltas disciplinares antigas praticadas há mais de 4 anos atrás consiste em inequívoca violação ao princípio da razoabilidade (fl. 6).
+Requer a impetrante a imediata concessão do provimento liminar para incluir, desde já, o paciente no regime semiaberto de cumprimento de pena.
+É o relatório.
+Aparentemente, presentes o fumus boni iuris e o periculum in mora.
+O Tribunal estadual concluiu que a decisão de indeferimento do benefício pleiteado está fundada em motivação consentânea com o histórico criminal (em especial a pluralidade de crimes - quinze) e prisional (com prática de falta grave) do agravante. Também identificou a insuficiência da prova colhida nos autos para permitir segura progressão no regime prisional (fl. 75).
+Ora, no Superior Tribunal de Justiça, há a compreensão de que a quantidade da pena e os fatores relacionados ao crime praticado não justificam diferenciado tratamento para a progressão de regime (HC n. 367.947/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 4/11/2016). Afora isso, conforme os autos, a falta grave considerada pelo Magistrado de piso data de 23/11/2012 e consta como reabilitada em 23/12/2013 (fl. 24). Já se passaram, a esta altura, mais de 5 anos do seu cometimento e 4 anos desde a reabilitação, não se mostrando razoável que essa falta disciplinar constitua único elemento desabonador à obtenção do benefício.
+Ocorre que, segundo a dicção do art. 112 da Lei de Execução Penal, para que o reeducando faça jus à promoção carcerária é necessário o preenchimento de requisitos objetivo e subjetivo, e, na decisão de fl. 33, não está claro se o primeiro pressuposto foi alcançado.
+Sendo assim, defiro medida liminar em menor extensão, apenas para determinar que o Juízo da execução reavalie, imediatamente, o pedido de progressão de regime, afastando como elemento desabonador do requisito subjetivo a falta cometida em 23/11/2012.
+Não foi outra a manifestação do Subprocurador-Geral da República [NOME], que opinou pela concessão da ordem para que o juiz de piso, de posse do exame criminológico, reavalie, com a máxima brevidade, o pedido de progressão de regime, sem levar em consideração a falta cometida em 23/11/2012 (fl. 102).
+Sendo assim, confirmo a liminar e expeço a ordem definitiva para que o Juízo da execução reavalie, com urgência, o pedido de progressão feito por [NOME] no PEC n. 976.506.
+Publique-se.
