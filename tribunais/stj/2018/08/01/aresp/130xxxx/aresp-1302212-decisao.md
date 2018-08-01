@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial, sob os seguintes fundamentos: (a) ausência de ofensa aos artigos de lei apontados, (b) aplicação da Súmula n. 7 do STJ e (c) falta de comprovação do dissídio jurisprudencial alegado.
+O TJSP negou provimento ao recurso, em acórdão assim ementado (e-STJ fl. 519):
+Cobrança - ação de ressarcimento de danos por carga roubada - inclusão da seguradora da transportadora ré no pólo passivo - possibilidade - reconhecimento da responsabilidade solidária da seguradora pelo pagamento dos valores - matéria já apreciada pelo STJ em recurso repetitivo - preliminar de ilegitimidade passiva rejeitada - agravo retido improvido.
+Cobrança - ação de ressarcimento de danos por carga roubada - responsabilidade objetiva da transportadora - inocorrência de caso fortuito ou força maior, posto que nos dias de hoje a subtração de mercadorias enquanto transportadas é acontecimento comum nas estradas brasileiras - ação procedente em relação à transportadora e improcedente em relação à seguradora, que já fez o ressarcimento nos limites da apólice, com redução de acordo com a cláusula de gerenciamento de risco, desatendida pela transportadora - recursos da ré transportadora e da autora ímprovidos.
+Nas razões do recurso especial (e-STJ fls. 530/540), interposto com base no art. 105, III, "a" e "c", da CF, a recorrente apontou violação dos arts. 393 do CC/2002 e 12, V, da Lei n. 11.442/2007, afirmando que o acórdão teria contrariado os dispositivos "quando deixa de admitir fato que caracteriza força maior como excludente da responsabilidade do transportador, (..) quando deixa de considerar a irresistibilidade e inevitabilidade do assalto à mão armada, inserindo condição não prevista na lei de imprevisibilidade do fato para a caracterização da força maior" (e-STJ fl. 532).
+Sustentou também ofensa ao art. 20, "h", do Decreto-Lei n. 73/1966 e 12 do Decreto-Lei n. 61.867/1987, afirmando que a obrigatoriedade de contratação do seguro seria do proprietário da carga, para cobertura em caso de força maior.
+Acostou julgados que corroborariam tais entendimentos.
+Ofereceram-se contrarrazões (e-STJ fls. 553/566).
+No agravo (e-STJ fls. 585/600), afirma-se a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 645/658 e 660/665).
+É o relatório.
+Decido.
+O acórdão recorrido decidiu da seguinte forma: "ainda que se considere a possibilidade de roubo de cargas, não há que se falar em imprevisibilidade do evento a dar guarida à excludente de responsabilidade com base em força maior, posto que nos dias de hoje a subtração de mercadorias enquanto transportadas é acontecimento comum nas estradas brasileiras" (e-STJ fl. 523).
+Da leitura do trecho acima colacionado, verifica-se que o Tribunal de origem decidiu de forma contrária à jurisprudência desta Corte, segundo a qual, "o roubo de mercadoria transportada, praticado mediante ameaça exercida com arma de fogo, é fato desconexo ao contrato de transporte e, sendo inevitável, diante das cautelas exigíveis da transportadora, constitui-se em caso fortuito ou força maior, excluindo-se sua responsabilidade pelos danos causados, nos termos do CC/2002" (REsp 1660163/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 06/03/2018, DJe 09/03/2018).
+Nesse mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRANSPORTE DE CARGAS. ROUBO. FORÇA MAIOR. EXCLUDENTE DE RESPONSABILIDADE.
+1. Consagrou-se na jurisprudência do Superior Tribunal de Justiça o entendimento de que o roubo de cargas, em regra, caracteriza-se como caso fortuito ou de força maior, excludente de responsabilidade do transportador.
+2. Agravo regimental não provido.
+(AgRg no REsp 1374460/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 02/06/2016, DJe 09/06/2016)
+RESPONSABILIDADE CIVIL. RECURSO ESPECIAL. CORREIOS. ROUBO DE CARGAS. RESPONSABILIDADE CIVIL OBJETIVA. EXCLUSÃO. MOTIVO DE FORÇA MAIOR.
+(..)
+2. Destarte, o caso dos autos revela o exercício de atividade econômica típica, consubstanciada na prestação de serviço de "recebimento/coleta, transporte e entrega domiciliar aos destinatários em âmbito nacional" de "fitas de vídeo e/ou material promocional relativo a elas", por isso que os Correios se sujeitam à responsabilidade civil própria das transportadoras de carga, as quais estão isentas de indenizar o dano causado na hipótese de força maior, cuja extensão conceitual abarca a ocorrência de roubo das mercadorias tansportadas.
+3. A força maior deve ser entendida, atualmente, como espécie do gênero fortuito externo, do qual faz parte também a culpa exclusiva de terceiros, os quais se contrapõem ao chamado fortuito interno. O roubo, mediante uso de arma de fogo, em regra é fato de terceiro equiparável a força maior, que deve excluir o dever de indenizar, mesmo no sistema de responsabilidade civil objetiva.
+4. Com o julgamento do REsp. 435.865/RJ, pela Segunda Seção, ficou pacificado na jurisprudência do STJ que, se não for demonstrado que a transportadora não adotou as cautelas que razoavelmente dela se poderia esperar, o roubo de carga constitui motivo de força maior a isentar a sua responsabilidade.
+5. Recurso especial provido". (REsp 976.564/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/09/2012, DJe 23/10/2012)
+RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. TRANSPORTE DE MERCADORIA. ROUBO COM USO DE ARMA DE FOGO. FORÇA MAIOR. AÇÃO REGRESSIVA PROPOSTA PELA SEGURADORA.
+1. O seguro a que está obrigado o transportador, constante do artigo 10 do Decreto nº 61.867/67, é de responsabilidade civil e garante o reembolso dos valores que a empresa for obrigada a desembolsar, quando descumprir o contratado, por sua culpa. Não engloba, portanto, a obrigação de o transportador contratar seguro para cobrir caso fortuito ou força maior.
+2. Na linha de precedentes da corte, na ação regressiva não cabe ao segurador provar a culpa do causador do dano, sendo da responsabilidade do transportador provar que os danos decorrem de vicio próprio da mercadoria, força maior ou caso fortuito.
+3. Segundo entendimento consolidado nesta Corte, o roubo de carga constitui força maior, suficiente para excluir a responsabilidade da transportadora perante a seguradora do proprietário da mercadoria transportada. Improcedência da ação regressiva de ressarcimento de danos. Precedentes.
+4. Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido.
+(REsp 663.356/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/08/2010, DJe 14/10/2010)
+Diante do exposto, CONHEÇO do agravo e dou PROVIMENTO ao recurso especial, determinando o retorno dos autos ao Tribunal de origem, para que analise a pretensão da recorrente nos moldes da jurisprudência do STJ.
+Publique-se e intimem-se.
