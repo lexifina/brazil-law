@@ -1,0 +1,42 @@
+EMENTA
+RECURSO ESPECIAL. DIREITO PENAL. ROUBO CIRCUNSTANCIADO. DOSIMETRIA. PENA-BASE. CONDUTA SOCIAL. INQUÉRITOS POLICIAIS. SÚMULA 444/STJ. RECURSO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público Federal do Estado do Maranhão com fundamento na alínea "a" do inciso III do artigo 105 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Maranhão, assim ementado:
+PENAL. PROCESSO PENAL. ROUBO CIRCUNSTANCIADO PELO EMPREGO DE ARMA. APELAÇÃO CRIMINAL. USO DE ALGEMAS DURANTE A AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO. PRELIMINAR. NULIDADE PROCESSUAL. INOCORRENCIA. AUSÊNCIA DE PREJUÍZO. DECISÃO FUNDAMENTADA. REJEIÇÃO. PLEITOS DESCLASSIFICATÓRIOS IMPROCEDENTES. DOSIMETRIA. PENA -BASE EXACERBADA. CIRCUNSTÂNCIA JUDICIAL REFERENTE À CULPABILIDADE. FUNDAMENTAÇÃO EQUIVOCADA. APELO PARCIALMENTE PROVIDO.
+1. A argüição de nulidade da audiência de instrução, por descumprimento à Súmula Vinculante nº 11 do STF, não deve ser acolhida, uma vez que trata-se de nulidade relativa, dependendo de comprovação concreta do prejuízo sofrido. Ademais, a Juíza de base apresentou fundamentação idônea para indeferir a retirada das algemas do apelante.
+2. A aplicação do princípio da insignificância, no intuito de afastar a tipicidade da conduta ilícita do agente, deve ser prudente e criteriosa, devendo se limitar a casos extraordinários, cabendo ao julgador realizar profundo exame do caso concreto, sendo necessária a presença de certos elementos como a mínima ofensividade da conduta do agente, a ausência total de periculosidade social da ação, o ínfimo grau de reprovabilidade do comportamento e a inexpressividade da lesão jurídica ocasionada, o que não é o caso dos autos.
+3. Incabível o pleito de desclassificação para roubo simples, com a exclusão da qualificadora do art. 157, § 2º, inciso I do Código Penal, pois a ausência de apreensão ou perícia da arma são prescindíveis quando o conjunto probatório, em especial os depoimentos da vítima e testemunhas, atestam de forma inequívoca o efetivo emprego do apetrecho na prática delitiva.
+4. Ao valorar negativamente a circunstância judicial relativa à culpabilidade, a Juíza deixou de apresentar a indispensável e necessária fundamentação nesse sentido.
+5. Recurso conhecido e parcialmente provido.
+Unanimemente.
+Sustenta o recorrente, em favor do réu, negativa de vigência aos artigos 59, 381 e 387 do Código Penal ao argumento de que é "inidônea a fundamentação atribuída à circunstância judicial da conduta social, uma vez que a magistrada local aduziu, à fl. 96v, que "existe informações que o acusado responde a outros processos criminais", o que configura violação ao princípio da presunção da inocência e ao que dispõe a Súmula nº 444 desse Egrégio Superior Tribunal de Justiça, na medida em que "é vedada a utilização de inquéritos policiais 1/410 e ações penais em curso para agravar a pena -base"."
+Apresentadas as contrarrazões e admitido o recurso especial, opina o Ministério Público Federal pelo provimento do recurso.
+É o relatório.
+Consta do acórdão recorrido o seguinte quanto ponto da insurgência recursal:
+Com relação à circunstância judicial da conduta social, não obstante o parecer da Procuradoria Geral de Justiça seja no sentido de afastar a sua negativação, entendo que esta foi acertadamente considerada desfavorável, apresentando a devida e indispensável fundamentação idônea, na medida em que pautou-se no fato do acusado responder a outros processos criminais.
+Os policiais militares, quando ouvidos em Juízo, destacaram que o apelante é conhecido pela polícia, em razão de outras ocorrências, conforme gravação audiovisual anexada à fl. 68.
+Não obstante o Superior Tribunal de Justiça tenha pacificado o entendimento de que, considerando o princípio da presunção de inocência, inquéritos policiais ou ações penais em andamento não servem para exasperar a pena-base do imputado, inclusive editando a Súmula nº 444 para tratar da matéria, entendo que não se mostra justo tratar igualmente um acusado que responde a vários processos criminais e outro que não responde a nenhum outro fato criminoso, observando-se, desta feita, os princípios da proporcionalidade e da igualdade.
+O presente entendimento fora sustentado pelo Ministro Ricardo Lewandowski, por ocasião do julgamento do RE nº 591.054/SC, que assim abriu a divergência:
+(..)
+Com fulcro nestes fundamentos, considerando apenas como desfavorável a conduta social, fixo a pena base do apelante em 04 (quatro) anos e 09 (nove) meses de reclusão.
+Na segunda fase, ausentes circunstâncias atenuantes e/ou agravantes.
+Na terceira fase, inexistentes causas de diminuição da pena. Com relação à causa de aumento referente ao emprego de arma, ratifico a aplicação do patamar de 1/3 (um terço), razão pela qual elevo a pena para 06 (seis) anos e 04 (quatro) meses de reclusão, além de 16 (dezesseis) dias-multa, tornando-a definitiva.
+Não obstante o entendimento do Tribunal a quo, a jurisprudência deste Superior Tribunal de Justiça é pacífica no sentido de que é vedada a utilização de inquéritos policiais ou ações penais em curso para agravar a pena-base, estando a questão há muito consolidada no enunciado nº 444 da Súmula desta Corte de Justiça, verbis:
+É vedada a utilização de inquéritos policiais e ações penais em curso para agravar a pena-base.
+E tal entendimento permanece pacífico no âmbito deste Superior Tribunal de Justiça, valendo conferir, nesse sentido, os recentes precedentes de ambas as Turmas que integram a Terceira Seção:
+(..)
+DOSIMETRIA. PENA-BASE. FIXAÇÃO ACIMA DO MÍNIMO LEGAL. COAÇÃO ILEGAL EVIDENCIADA. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. INADEQUAÇÃO DA ANÁLISE DAS CIRCUNSTÂNCIAS JUDICIAIS. ANTECEDENTES. INQUÉRITOS POLICIAIS E AÇÕES PENAIS EM ANDAMENTO. SOPESAMENTO PARA A ELEVAÇÃO DA REPRIMENDA BÁSICA. IMPOSSIBILIDADE. SÚMULA 444 DESTE STJ. PERSONALIDADE. ELEMENTOS GENÉRICOS E INERENTES AO TIPO PENAL. IMPOSSIBILIDADE. COAÇÃO ILEGAL CARACTERIZADA. CONCESSÃO DA ORDEM DE OFÍCIO.
+1. Consoante orientação sedimentada nesta Corte Superior, inquéritos policiais ou ações penais em andamento e condenações sem certificação do trânsito em julgado não podem ser levados à consideração de maus antecedentes para a elevação da pena-base, em obediência ao princípio da presunção de não-culpabilidade (enunciado n.º 444 da Súmula desta Corte).
+(..)
+(EDcl no AgRg no AREsp 153.028/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 12/06/2018, DJe 20/06/2018)
+HABEAS CORPUS SUBSTITUTIVO. LATROCÍNIO E ASSOCIAÇÃO CRIMINOSA. PRIMEIRA FASE. EXASPERAÇÃO DA PENA. FUNDAMENTAÇÃO INSUFICIENTE. ORDEM CONCEDIDA.
+(..)
+4. O simples registro de que o acusado é envolvido em outras atividades delituosas tampouco serve para motivar a exasperação da pena-base, haja vista o disposto na Súmula n. 444 do STJ, segundo a qual "É vedada a utilização de inquéritos policiais e ações penais em curso para agravar a pena-base". No caso, o Juízo singular - corroborado pela Corte local - não mencionou condenações com trânsito em julgado em desfavor do paciente, o que afasta a valoração negativa dessa vetorial.
+5. O parágrafo único do art. 288 do CP autoriza a exasperação até a metade, se se tratar de organização armada ou houver participação de criança ou adolescente. O Juiz sentenciante - mantido pelo Tribunal - triplicou a sanção, sem apresentar nenhuma motivação.
+6. Ordem concedida a fim de reduzir a reduzir a pena total imposta ao paciente para 21 anos de reclusão.
+(HC 434.936/PE, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/04/2018, DJe 16/04/2018)
+Do exposto resulta que o acórdão recorrido está em sentido contrário à jurisprudência desta Corte Superior de Justiça acerca do tema, cabendo a esta relatora dar provimento ao recurso nos termos do enunciado nº 568 da Súmula desta Corte, verbis:
+O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Ante o exposto, com fundamento no artigo 932, V, "a", do Código de Processo Civil em vigor (Lei nº 13.105/2015) c/c artigo 3º do Código de Processo Penal, e no artigo 34, XVIII, "c", parte final, do RISTJ, dou provimento ao recurso especial para reduzir a pena-base ao mínimo legal de 4 anos que, exasperada em 1/3 pela causa de aumento, resulta definitiva em 5 anos e 4 meses de reclusão, além de 13 dias-multa.
+Publique-se.
+Intime-se.
