@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "c", da Constituição Federal, este interposto contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, com a seguinte ementa:
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. CONTRATO DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DO BEM. MORA DA CONSTRUTORA. PUBLICIDADE ENGANOSA. NÃO ENTREGA DE VÁRIAS ÁREAS COMUNS CONSTANTES DO CONTRATO. DANO MORAL CONFIGURADO. QUANTUM INDENIZATÓRIO. PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. RECURSO CONHECIDO E PROVIDO. SENTENÇA REFORMADA.
+1. No presente caso, a parte apelante logrou demonstrar que os adquirentes tiveram maculada sua dignidade e honra, pois se submeram à situação vexatória ou constrangimento capaz de abalar a moral de todos, porquanto os fatos narrados na inicial se configuram potencialmente hábeis a causar dor, vexame, sofrimento ou humilhação que causou angústia e desequilíbrio no bem-estar da coletividade, por terem que esperar por mais de um ano e seis meses para usufruirem de seus imóveis.
+2. Tanto o descumprimento do contrato decorrente do atraso na entrega dos imóveis quanto a propaganda enganosa perpetrada pela construtora, teve sim o condão de causar abalos imensuráveis na personalidade dos consumidores, capaz de ensejar os danos imateriais pleiteados.
+3. A compensação por danos morais deve ser arbitrada em observância aos princípios da razoabilidade e proporcionalidade. Além disso, devem ser consideradas as funções preventiva, pedagógica, reparadora e punitiva, bem como a vedação de enriquecimento ilícito. Elementos extraídos do caso concreto, aliados a esses critérios traçados pela jurisprudência e pela doutrina, auxiliam na fixação do quantum indenizatório, que ficou estabelecido em R$ 20.000,00 (vinte mil reais).
+4. Recurso CONHECIDO e PROVIDO, sentença parcialmente reformada para condenar a apelada nos danos morais pleiteados. (fls. 738-739)
+Os embargos de declaração restaram acolhidos, com a seguinte ementa:
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL - EXISTÊNCIA DE OMISSÃO NO JULGADO. FAMÍLIAS PREJUDICADAS. 120 (CENTO E VINTE) FAMÍLIAS DO EDIFÍCIO ALTOS DE TAGUATINGA II. EMBARGOS PROVIDOS. OMISSÃO SANADA.
+1. Os embargos de declaração têm por finalidade eliminar eventual obscuridade, contradição, omissão ou a correção de erro material existente no julgado (artigo 1.022, CPC/2015).
+2. Os presentes embargos apontam omissão no julgado ao passo que este deixou de estabelecer a quantidade de famílias prejudicadas na ação popular. Portanto, a fixação da quantidade de 120 (cento e vinte) famílias prejudicadas do Edifício Altos de Taguatinga II é medida que se deve impor.
+4. Embargos CONHECIDOS e PROVIDOS. Omissão sanada. Estabelecido em 120 (cento e vinte) o número de famílias prejudicadas do Edifício Altos de Taguatinga II. (fl. 778)
+Nas razões do recurso especial, a recorrente aponta dissídio jurisprudencial, sustentando, em síntese, que o mero inadimplemento contratual não é apto a ensejar dano moral.
+É o relatório.
+Passo a decidir.
+A irresignação não prospera.
+Em relação à admissibilidade do recurso especial pela alínea "c" do permissivo constitucional, esta eg. Corte de Justiça tem decidido, reiteradamente, que, para a correta demonstração da divergência jurisprudencial, deve haver o cotejo analítico, expondo-se as circunstâncias que identificam ou assemelham os casos confrontados, a fim de demonstrar a similitude fática entre os acórdãos impugnado e paradigma, bem como a existência de soluções jurídicas díspares, nos termos dos arts. 541, parágrafo único, do CPC e 255, § 2º, do RISTJ.
+Contudo, na hipótese dos autos, não houve essa demonstração.
+A análise dos autos denota que as circunstâncias fáticas expostas nos acórdãos paradigmas divergem do que foi exposto no aresto vergastado. No caso ora em análise, observa-se que as instâncias ordinárias fundamentaram suas decisões com base na ocorrência de dano moral em razão do atraso na entrega do imóvel, bem como da veiculação de propaganda enganosa por parte da agravante.
+Por outro lado, os acórdãos paradigmas tratam de julgados que versam da configuração de dano moral tão-somente na hipótese de atraso na entrega de imóvel.
+Insta ressaltar que o acórdão paradigma citado, do TJRS, que trata também de caso de publicidade enganosa, considerou configurado os danos morais, não sendo apto, assim, a corroborar a tese da recorrente.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
