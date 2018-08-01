@@ -1,0 +1,12 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. DECRETO PRESIDENCIAL N. 8.615/2015. DESCUMPRIMENTO DA PENA RESTRITIVA DE DIREITOS NO PERÍODO DOS DOZE MESES ANTECEDENTES À PUBLICAÇÃO DO DECRETO PRESIDENCIAL. FALTA GRAVE DE NATUREZA PERMANENTE. ART. 51, I, DA LEP. HOMOLOGAÇÃO APÓS A DATA DE PUBLICAÇÃO DO DECRETO. SUPRESSÃO DE INSTÂNCIA. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
+DECISÃO
+Busca-se, por meio deste habeas corpus, a concessão liminar da ordem para que seja reformado o acórdão proferido pelo Tribunal de Justiça de São Paulo no Agravo em Execução Penal n. 9003543-43.2016.8.26.0050 e, em consequência, seja deferida a comutação a [NOME] com base no Decreto n. 8.615/2015 (PEC n. 924.997).
+Para tanto, alega-se, em suma, que não houve homologação judicial, nos doze meses anteriores à publicação do decreto de 2015, de falta grave praticada no referido período (fl. 2); e que o abandono do cumprimento da pena restritiva de direitos não pode ser utilizado para negar o indulto requerido na origem.
+É o relatório.
+No caso, não percebo a existência de flagrante ilegalidade capaz de justificar a impetração deste habeas corpus, inclusive porque não se discutiu, no julgado impugnado, sobre o momento da homologação das faltas graves praticadas pelo paciente.
+Ademais, segundo o Juízo da execução, o sentenciado praticou falta grave nos doze meses anteriores ao Natal de 2015 (fl. 9) e, conforme o acórdão do Tribunal estadual, o sentenciado incorreu em falta grave, tendo em vista que vem descumprindo, injustificadamente, desde 21 de novembro de 2013, uma das penalidades restritivas de direitos que lhe foi cominada, consistente no pagamento de prestação pecuniária. Os efeitos de tal abandono se mantiveram durante os doze meses anteriores à publicação do Decreto Presidencial 8.615/2015, de modo que não merece prosperar o pleito do agravante (fl. 12).
+E de acordo com o entendimento do Superior Tribunal de Justiça, ao contrário do que alega a defesa do paciente, o abandono de cumprimento da pena restritiva de direito constitui infração disciplinar de natureza permanente, perdurando até a retomada do resgate da pena imposta ou até a recaptura do apenado, quando convertida a pena alternativa em pena privativa de liberdade (HC n. 406.517/SP, Ministro Felix Fischer, Quinta Turma, DJe 19/10/2017).
+Pelo exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
