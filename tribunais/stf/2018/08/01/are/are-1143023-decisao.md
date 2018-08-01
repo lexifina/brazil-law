@@ -1,0 +1,16 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Instituto Nacional do Seguro Social – INSS contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 2ª Região, está assim ementado:
+    “AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA. JUROS DE MORA ENTRE A ELABORAÇÃO DOS CÁLCULOS E A REQUISIÇÃO DE PAGAMENTO. LAPSO TEMPORAL ACIMA DO RAZOÁVEL. CABIMENTO.
+    1. Admite-se a possibilidade de inclusão dos juros de mora quando decorrido um lapso temporal acima do razoável entre a data dos cálculos definitivos e a data de expedição da requisição (TRF2, 1ª Turma Especializada, AC 201302010095496, Rel. Des. Fed. PAULO ESPÍRITO SANTO, E-DJF2R 10.9.2013).
+    2. Deve-se buscar um equilíbrio entre o prejuízo econômico suportado pelo credor em razão do atraso excessivo na efetivação do pagamento e a necessidade de garantir ao juízo um prazo aceitável para que adote as medidas pertinentes à expedição da requisição. Não havendo previsão legal ou constitucional a respeito desse prazo e não tendo a Suprema Corte se posicionado, em caráter definitivo, sobre o tema, afigura-se pertinente fixar um período de tolerância para que o juízo realize a requisição do crédito homologado, voltando a incidir juros de mora sobre a conta quando ultrapassado esse limite temporal.
+    3. A orientação do Superior Tribunal de Justiça é no sentido de que não incidem juros de mora nas execuções contra a Fazenda Pública, no período transcorrido entre a elaboração da conta e o efetivo pagamento se realizado no exercício subsequente à liquidação. A contrario sensu, são devidos juros de mora sempre que o pagamento do crédito não ocorrer no exercício subsequente, por razões alheias à vontade do credor, sendo esse o marco temporal que deve balizar a questão (TRF2, 5ª Turma Especializada, AG 201102010022009, Rel. Des. Fed. ALUISIO GONÇALVES DE CASTRO MENDES, E-DJFR 6.2.2014).
+    4. Agravo de Instrumento provido.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o RE 579.431/RS, Rel. Min. MARCO AURÉLIO, nele fixando tese assim consubstanciada:
+    “Incidem os juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório.”
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, ao apreciar o presente agravo, nego provimento ao recurso extraordinário, por achar-se este em confronto com entendimento emanado do Plenário desta Suprema Corte (CPC, art. 932, IV, “b”).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a ausência de condenação em verba honorária na origem.
+    Publique-se.
+    Brasília, 1º de agosto de 2018.
+Ministro CELSO DE MELLO
+Relator
