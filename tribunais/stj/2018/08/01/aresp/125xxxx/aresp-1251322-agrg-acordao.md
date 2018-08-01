@@ -1,0 +1,22 @@
+EMENTA
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRAZO DE 5 DIAS. INTEMPESTIVIDADE. AGRAVO NÃO CONHECIDO.
+1. É intempestivo o agravo regimental que não observa o prazo de interposição de 5 dias, conforme art. 39 da Lei n. 8.038/90 e art. 258 do Regimento Interno do Superior Tribunal de Justiça - RISTJ.
+2. Agravo regimental não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros Felix Fischer, Jorge Mussi, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK (Relator):
+Trata-se de agravo regimental contra decisão de fls. 374/375 proferida pela Ministra Presidente desta Corte que não conheceu do agravo em recurso especial, porquanto não impugnados especificamente os fundamentos da decisão recorrida.
+O agravante sustenta que: "(..) o agravo interposto atacou todos os fundamentos da decisão hostilizada, indicando desde o principio os precedentes paradigmas, sendo irrazoável que deixe de se conhecer do Agravo sob o argumento de falta de indicação dos precedentes ou por falta de impugnação especifica da decisão hostilizada. Ambos os requisitos foram preenchidos" (fl. 382).
+O Ministério Público Federal opinou pelo não conhecimento do agravo regimental (fls. 395/398).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK (Relator):
+O recurso não merece ser conhecido.
+Nos termos dos arts. 39 da Lei n. 8.038/90 e 258 do Regimento Interno do Superior Tribunal de Justiça - RISTJ, é de 5 (cinco) dias corridos o prazo para a interposição de agravo regimental.
+Verifica-se que a decisão agravada foi publicada em 7/3/2018 (fl. 376). Logo, o prazo para a interposição do agravo teve início em 8/3/2018 e término em 12/3/2018, todavia, o presente recurso somente foi interposto em 13/03/2018 (fls. 380/383), quando já ultrapassado o prazo legal, sendo manifesta a sua intempestividade.
+Nesse sentido:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRAZO DE 5 DIAS. INTEMPESTIVIDADE. AGRAVO NÃO CONHECIDO. 1. É intempestivo o agravo regimental que não observa o prazo de interposição de 5 dias, conforme art. 39 da Lei n. 8.038/90 e art. 258 do Regimento Interno do Superior Tribunal de Justiça - RISTJ. 2. Agravo interno não conhecido. (AgRg no AREsp 633.304/MG, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 21/02/2017, DJe 06/03/2017 - Grifo Nosso).
+PROCESSUAL CIVIL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECLAMAÇÃO. RECURSO QUE IMPUGNA DECISÃO MONOCRÁTICA DE RELATOR PROFERIDA APÓS A ENTRADA EM VIGOR DO NOVO CPC. PRAZO AINDA REGIDO PELO ART. 39 DA LEI 8.038/90. INTEMPESTIVIDADE. 1. O agravo contra decisão monocrática de Relator, em controvérsias que versam sobre matéria penal ou processual penal, nos tribunais superiores, não obedece às regras no novo CPC, referentes à contagem dos prazos em dias úteis (art. 219, Lei 13.105/2015) e ao estabelecimento de prazo de 15 (quinze) dias para todos os recursos, com exceção dos embargos de declaração (art. 1.003, § 5º, Lei 13.105/2015). 2. Isso porque, no ponto, não foi revogada, expressamente, como ocorreu com outros de seus artigos, a norma especial da Lei 8.038/90 que estabelece o prazo de cinco dias para o agravo interno. 3. Além disso, a regra do art. 798 do Código de Processo Penal, segundo a qual "Todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado" constitui norma especial em relação às alterações trazidas pela Lei 13.105/2015. 4. Precedente recente desta Corte: AgInt no CC 145.748/PR, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, julgado em 13/04/2016, DJe 18/04/2016. 5. Assim sendo, interposto o agravo regimental em 11/04/2016 (segunda-feira) contra decisão monocrática de Relator publicada em 30/03/2016, é forçoso reconhecer a intempestividade do recurso, por não ter obedecido ao prazo de 5 (cinco) dias corridos, previsto no art. 39 da Lei 8.038/90. 6. Agravo regimental de que não se conhece, em razão da sua intempestividade (AgRg na Rcl 30.714/PB, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, DJe 04/05/2016 - Grifo Nosso).
+Ante o exposto, voto no sentido de não conhecer do agravo regimental.
