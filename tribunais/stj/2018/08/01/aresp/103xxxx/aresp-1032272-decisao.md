@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por EMPRESA LIDER DE ASSESSORIA LTDA - ME contra decisão exarada pela il. Presidência do eg. Tribunal de Justiça do Amazonas (TJ-AM), que inadmitiu o recurso especial.
+Cuidam os autos, na origem, de "ação de adjudicação compulsória" ajuizada por [NOME] contra EMPRESA LIDER DE ASSESSORIA LTDA - ME, cujo pedido foi julgado procedente, para determinar "a expedição da carta de adjudicação para que o Cartório do 1º Ofício do Registro de Imóveis, em suprimento à vontade e à atuação pessoal da Ré, proceda ao desmembramento dos lotes do Requerente (19 e 20) e proceda à escritura definitiva de compra e venda, autorizando o Autor a registrar, em seu nome, a propriedade dos imóveis registrados sob o número 199, fls. 26/v", conforme sentença de fls. 135-138.
+Diante disso, EMPRESA LIDER DE ASSESSORIA LTDA - ME interpôs apelação, a qual não foi provida pelo eg. TJ-AM, nos termos do v. acórdão recorrido, assim ementado (fl. 187):
+"EMENTA: APELAÇÃO CÍVEL - AÇÃO DE ADJUDICAÇÃO COMPULSÓRIA - COMPRA E VENDA - PRESSUPOSTOS AUTORIZADORES PRESENTES - TEORIA DA APARÊNCIA CONFIGURADA - PRECEDENTES DESTA CORTE - RECURSO CONHECIDO E DESPROVIDO".
+Opostos embargos de declaração, estes foram rejeitados (fls. 224-230).
+Inconformada, EMPRESA LIDER DE ASSESSORIA LTDA - ME interpôs recurso especial, com fulcro no art. 105, inciso III, alínea "a" da Constituição Federal, no qual alega violação aos arts. 166, IV, V, VII, 476, 653, 661, § 1o, 673, todos do Código Civil; aos arts. 333, I e 458, II do CPC/73; aos arts. 11 e 17 do Decreto-Lei nº 58/1937; ao art. 26, § 2º, da Lei nº 6.766/1979 e à Súmula 413/STF.
+Contrarrazões às fls. 245-251.
+Como dito, o apelo nobre foi inadmitido às fls. 253-259.
+Irresignada, EMPRESA LIDER DE ASSESSORIA LTDA - ME manejou o presente agravo em recurso especial, refutando os fundamentos da decisão que inadmitiu seu apelo nobre.
+Contraminuta às fls. 271-279.
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+A irresignação não merece prosperar.
+De pronto, inviável a análise de violação à Súmula 413 do Supremo Tribunal Federal, porquanto a espécie normativa não se enquadra no conceito de lei federal, incidindo, na espécie, a Súmula 518/STJ, que assim dispõe: "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+Quanto à alegada vulneração aos arts. 166, IV, V, VII, 476, 653, 661, § 1o, 673, todos do CC; aos arts. 333, I e 458, II do CPC/73; aos arts. 11 e 17 do Decreto-Lei nº 58/1937; ao art. 26, § 2º, da Lei nº 6.766/1979, verifica-se que o conteúdo normativo dos dispositivos invocados no apelo nobre não foi apreciado pelo Tribunal a quo, embora ocorrida a interposição de embargos declaratórios (fls. 199-201).
+Ressalte-se que esta eg. Corte de Justiça consagra orientação no sentido da necessidade de prequestionamento dos temas ventilados no recurso especial, não sendo suficiente a simples invocação da matéria na petição de embargos de declaração. Caberia à parte recorrente, na hipótese, alegar violação ao art. 535 do Código de Processo Civil de 1973, providência, todavia, da qual não se desincumbiu. Dessa forma, à falta do indispensável prequestionamento, incide, na espécie, a Súmula 211 do Superior Tribunal de Justiça.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
