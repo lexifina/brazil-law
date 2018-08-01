@@ -1,0 +1,25 @@
+DECISÃO
+1. Cuida-se de embargos de declaração opostos por [NOME] e GILBERTO CARVALHO LIMA contra decisão monocrática de minha lavra (fls. 902-906) que acolheu os embargos de declaração, com efeitos integrativos, a fim de consignar com maior clareza a possibilidade de reversão de penalidade em prol do comprador, idêntica àquela estabelecida em benefício do vendedor, a qual se encontrava expressamente prevista no contrato, nos casos de eventual inadimplemento do comprador, ainda que essa mesma penalidade não constasse literalmente expressa em favor do comprador, para os eventuais inadimplementos do vendedor.
+Tendo em vista o disposto no Acórdão recorrido, foi determinada a aplicação da cláusula penal, de natureza moratória, a título de multa única penal moratória, cujo valor será equivalente a 10% (dez por cento) do valor total e atualizado de compra do bem, cumulada com a indenização por lucros cessantes, valores esses a serem apurados por meio de procedimento de liquidação da sentença.
+Porém, os embargantes requerem adicionalmente que seja também expressamente consignado, desde logo, (1) o termo inicial, e (2) a taxa de juros moratórios a ser aplicada sobre o valor do pagamento da referida multa.
+É o relatório.
+Decido.
+2. Cumpre assinalar que a controvérsia instaurada entre as partes, objeto do recurso especial, se restringia apenas aos efeitos jurídicos decorrentes da possibilidade ou não de reversão da aplicabilidade da cláusula penal moratória em favor do consumidor, pedido esse que não prescindia do reexame dos fatos e provas produzidas nos autos, cuja aferição e discussão do substrato fático para a definição do referido valor está afeta às instâncias inferiores.
+Tanto assim, que os embargantes já haviam afirmado anteriormente que o tempo de atraso na entrega do bem é incontroverso, e que a questão se resumia tão somente à análise dos reflexos e danos decorrentes do indiscutível atraso e de suas implicações jurídicas, conforme assentaram no item 8 da sua petição de apelação à fl. 430. Por isso, vieram requerer que seja expressamente consignado o termo inicial e a taxa de juros moratórios a ser aplicada sobre o valor da multa penal.
+Verifica-se, desde logo, que a decisão que acolheu os primeiros embargos de declaração fixou que o pagamento a título de multa única penal moratória seria equivalente a 10% (dez por cento) do valor total e atualizado de compra do bem, considerando o valor do apartamento em si mais todos os valores extras pagos pelos adquirentes (cláusula 4.2), e não o valor equivalente a 1% (um por cento) do mesmo valor por mês de atraso, com base na cláusula 4.4.
+Por conseguinte, sendo a multa ora aplicada calculada sobre uma base que já se encontra atualizada, deve a tal montante ser acrescido apenas dos juros legais de mora, a contar da citação, por tratar-se de obrigação contratual.
+Dessarte, aplica-se o entendimento sufragado pelo STJ segundo o qual, na responsabilidade contratual, os juros moratórios devem ser aplicados a partir da citação inicial do réu, nos termos do art. 405 do CC.
+À guisa de exemplo:
+PROCESSO CIVIL. AGRAVO REGIMENTAL. RESPONSABILIDADE CONTRATUAL. DANO MORAL. TERMO INICIAL DOS JUROS DE MORA. CITAÇÃO.
+1. Em se tratando de responsabilidade civil contratual, o termo inicial dos juros moratórios, consoante jurisprudência sedimentada da Segunda Seção, é a data da citação. Precedentes.
+2. Agravo regimental não provido.
+(AgRg no REsp 1428807/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/05/2014, DJe 02/06/2014)
+_____________________
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA E INDENIZATÓRIA. DANO MORAL. CONTRATO DE COMPRA E VENDA DE [NOME]. PRESTAÇÃO DO SERVIÇO. FALHA. COBRANÇA INDEVIDA. JUROS MORATÓRIOS. TERMO INICIAL. CITAÇÃO. RESPONSABILIDADE CONTRATUAL. ARTIGO 405 DO CÓDIGO CIVIL. DANO MORAL. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Em se tratando de responsabilidade contratual, os juros moratórios são computados a partir da citação, nos termos do artigo 405 do Código Civil.
+2. No caso concreto, inviável o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, no tocante à pretensão de majorar o valor dos danos morais arbitrados na origem, haja vista não ter sido demonstrada a similitude fática entre as hipóteses confrontadas, inviabilizando a análise da divergência de interpretação da lei federal invocada.
+3. Agravo interno não provido.
+(AgInt no REsp 1537487/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 06/02/2018, DJe 19/02/2018)
+Por essa razão, caberá às instâncias ordinárias, examinando as circunstâncias do caso concreto, determinar o respectivo quantum, em quaisquer dos casos, para os lucros cessantes e para a multa penal moratória, valores esses que deverão ser apurados por meio de procedimento de liquidação da sentença, observadas as disposições contratuais e legais do caso concreto.
+3. Ante o exposto, acolho os embargos de declaração, para consignar que sobre os valores relativos à multa penal incidirão juros moratórios, à taxa legal, a partir da citação.
+Publique-se. Intimem-se.
