@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pelo INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA, em 13/04/2018, com base na alínea a do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+"AGRAVO DE INSTRUMENTO. DESAPROPRIAÇÃO POR INTERESSE SOCIAL. TDA"S. EMISSÃO. IMPROVIMENTO.
+ I - Considerando-se que, de acordo com a jurisprudência do STJ, o termo inicial da emissão dos TDA"S complementares é a data da imissão na posse, a qual, no caso concreto, ocorreu em 11-11-98, não se afigura ilegal decisão que determina sua emissão até 11-11-2018, ou seja, vinte anos após. Conformidade do ato impugnado com o art. 184, caput, da Constituição Federal, e o art. 5º, I, da Lei 8.639/93.
+II - Recurso ao qual se nega provimento" (fl. 1719e).
+Opostos Embargos de Declaração, foram rejeitados, nos seguintes termos:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. INEXISTÊNCIA. DESAPROPRIAÇÃO POR INTERESSE SOCIAL. TDA"S. EMISSÃO. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. EMBARGOS IMPROVIDOS.
+1. Nos termos do art. 1.022, do CPC, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+2. Essa egrégia 4ª Turma firmou entendimento no sentido de que: Considerando-se que, de acordo com a jurisprudência do STJ, o termo inicial da emissão dos TDA"S complementares é a data da imissão na posse, a qual, no caso concreto, ocorreu em 11-11-98, não se afigura ilegal decisão que determina sua emissão até 11-11-2018, ou seja, vinte anos após. Conformidade do ato impugnado com o art. 184, caput, da Constituição Federal, e o art. 5º, I, da Lei 8.639/93.
+3. A pretensão de rediscutir tais entendimentos não se insere em nenhuma das hipóteses de cabimento dos embargos de declaração, devendo ser formulado em recurso próprio à rediscussão do mérito.
+4. Embargos de declaração a que se nega provimento" (fl. 1763e).
+Alega-se, nas razões do Recurso Especial, ofensa aos artigos 2º, caput e §1º, do Decreto-lei nº 4.657/42, 5º, §3º e 25 da Lei 8.629/93, sob os seguintes fundamentos: a) "o julgado regional deixou de observar que o art. 184 da Constituição Federal não determina que a indenização nas ações de desapropriação, por interesse social, para fins de reforma agrária, deva ser paga integralmente no prazo máximo de vinte anos" (fl. 1774e); b) "não existe previsão constitucional de que a indenização total deve ser paga no interstício de vinte anos a partir da primeira emissão, do ajuizamento da ação ou da imissão na posse" (fl. 1774e); c) "admitir a emissão de TDA"s complementares com data retroativa ao primeiro lançamento feito no ajuizamento da ação ou à imissão de posse, ou ainda nos moldes da emissão dos títulos originais, contraria todo regramento constitucional e infraconstitucional sobre os pagamentos realizados pelos cofres públicos, o que não foi verificado pelo julgado" (fl. 1775e).
+Requer, ao final, o conhecimento e provimento do Recurso Especial.
+Em sede de contrarrazões (fls. 1789/1790e), a parte recorrida defende a manutenção do acórdão impugnado (fls. 1714/1719e).
+O Recurso Especial foi admitido pelo Tribunal de origem (fl. 1802e).
+Sem razão a parte recorrente.
+Na origem, trata-se de Agravo de Instrumento interposto pela parte ora recorrente, em face de decisão proferida nos autos de Ação de Desapropriação, a qual determinou a expedição de TDA"S complementares até a data de 11/11/98.
+O Tribunal local negou provimento ao Agravo.
+Daí a interposição do presente Recurso Especial.
+Com efeito, o Tribunal de origem adotou orientação em consonância com o entendimento desta Corte, segundo o qual "os Títulos da Dívida Agrária - TDAs complementares devem ser emitidos com dedução do tempo decorrido a partir da imissão na posse, a fim de que o resgate não ultrapasse o prazo constitucional de vinte anos" (STJ, REsp 1.295.438/PA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 03/02/2016).
+Nesse sentido:
+"ADMINISTRATIVO. RECURSO ESPECIAL. DESAPROPRIAÇÃO. REFORMA AGRÁRIA. NULIDADE. OMISSÃO. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. VALOR INDENIZATÓRIO. ADOÇÃO DO LAUDO PERICIAL. SÚMULA 7/STJ. ESBULHO. ANCIANIDADE DA POSSE. DEPRECIAÇÃO. IMPOSIÇÃO LEGAL. RETORNO DOS AUTOS PARA APURAÇÃO DO ÍNDICE. JUROS COMPENSATÓRIOS. INCIDÊNCIA. TDA. COMPLEMENTAR. TERMO INICIAL PARA RESGATE. IMISSÃO NA POSSE.
+1. (..)
+5. "Na indenização fixada por sentença judicial além da oferta, para fins de desapropriação para reforma agrária, os Títulos da Dívida Agrária - TDAs complementares devem ser emitidos com dedução do tempo decorrido a partir da imissão na posse, a fim de que o resgate não ultrapasse o prazo constitucional de vinte anos" (AgInt no AREsp 861.133/GO, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 7/3/2017).
+6. Recurso especial conhecido em parte e, nessa extensão, parcialmente provido, para determinar o retorno dos autos à origem, a fim de que considere no cálculo da indenização o nível de depreciação decorrente do esbulho possessório, nos termos do art. 12, IV, da Lei 8.629/1993" (STJ, REsp 1.317.549/PA, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 30/04/2018).
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DESAPROPRIAÇÃO. REFORMA AGRÁRIA. TÍTULOS DA DÍVIDA AGRÁRIA COMPLEMENTARES. PRAZO DE RESGATE. SÚMULA 83/STJ.
+1. Na indenização fixada por sentença judicial além da oferta, para fins de desapropriação para reforma agrária, os Títulos da Dívida Agrária - TDAs complementares devem ser emitidos com dedução do tempo decorrido a partir da imissão na posse, a fim de que o resgate não ultrapasse o prazo constitucional de vinte anos.
+2. Dessume-se que o acórdão recorrido está em sintonia com o entendimento deste Tribunal Superior, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+3. Agravo Interno não provido" (STJ, AgInt no AREsp 861.133/GO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 07/03/2017).
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao Recurso Especial.
+I.
