@@ -1,0 +1,27 @@
+EMENTA
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim ementado:
+DIREITO CIVIL E CONSUMERISTA - OBRIGAÇÕES - COMPROMISSO DE COMPRA E VENDA DE IMÓVEL - RESCISÃO CONTRATUAL C/C REINTEGRAÇÃO DE POSSE E PERDAS E DANOS POSTULADA PELA VENDEDORA - PROCEDÊNCIA PARCIAL DOS PEDIDOS NO JUÍZO A QUO - INCONFORMISMO DA VENDEDORA / REQUERENTE - INDENIZAÇÃO POR INTEGRALIDADE DO PERÍODO DE OCUPAÇÃO DO IMÓVEL - ACOLHIMENTO - PRINCÍPIO QUE VEDA O ENRIQUECIMENTO SEM CAUSA - CUMULATIVIDADE COM A RETENÇÃO DE 10% DOS VALORES PAGOS A TÍTULO DE PERDAS E DANOS POR INADIMPLEMENTO CONTRATUAL - BIS IN IDEM INEXISTENTE - NATUREZAS DISTINTAS - ALUGUEL INDENIZATÓRIO DEVIDO NA INTEGRALIDADE DA OCUPAÇÃO - SENTENÇA PARCIALMENTE REFORMADA - APELO PROVIDO.
+A fruição indevida de bem alheio deve ser indenizada no equivalente ao respectivo aluguel durante o período integral de ocupação, sob pena de enriquecimento sem causa e independentemente da possibilidade de retenção de valores a título de perdas e danos decorrentes do inadimplemento contratual.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, violação ao artigo 475 do CC.
+Alega, em síntese, que o aluguel seria devido apenas no período em que a ora agravante encontrava-se em inadimplência. Aduz que o acórdão recorrido desconsiderou o período de adimplemento do contrato.
+Por fim, pugna pela concessão de efeito suspensivo.
+É o relatório. DECIDO.
+2. Ao apreciar a controvérsia, o Tribunal de origem assim consignou:
+A questão ora debatida é tormentosa, havendo corrente jurisprudencial entendendo que são devidas perdas e danos - na forma de aluguéis indenizatórios para evitar o enriquecimento sem causa - durante todo o período de ocupação do imóvel, independentemente de o vendedor receber perdas e danos decorrentes do inadimplemento contratual.
+Por outro lado, há outra que entende que essas perdas e danos na forma de aluguéis já estão inseridas no percentual indenizatório (de 10% a 20% do montante pago) que é costumeiramente retido pela vendedora em razão do inadimplemento contratual do adquirente. Nessa hipótese, o aluguel indenizatório é devido somente a partir do inadimplemento do comprador.
+Salvo melhor juízo, mostra-se adequada a primeira orientação jurisprudencial, em que os aluguéis indenizatórios são devidos pela integralidade do período de ocupação do imóvel e não apenas após a caracterização do inadimplemento do comprador.
+A decretação de rescisão contratual acarreta o retorno dos contratantes ao statu quo ante, com a devolução do bem objeto do contrato e dos valores pagos, assegurada à parte adimplente a retenção de numerário a título de perdas e danos fundadas no inadimplemento contratual.
+ .. .
+Efetivamente, além da acertada retenção de valores estipulada - usualmente fixada pela jurisprudência no patamar de 10% dos valores pagos -, deve haver a compensação das perdas e danos pela fruição do imóvel, pelo período de ocupação do bem até a sua efetiva devolução, mormente em casos de longa utilização da coisa.
+Assim, até mesmo independentemente de previsão contratual para indenização a título de ocupação do bem - na espécie, há essa previsão na cláusula 13a do contrato -, deve ser compensada a indenização pelo período integral de ocupação, sob pena de enriquecimento sem causa do adquirente.
+Cumpre salientar que inocorre bis in idem na condenação dessas verbas, porquanto as perdas e danos decorrentes das despesas administrativas do negócio (indenizadas pela retenção de 10% dos valores pagos) tem fundamento no inadimplemento contratual propriamente dito, ao passo que a indenização pela fruição do bem tem fundamento no princípio que veda o enriquecimento sem causa, indenização esta relacionada ao uso do bem.
+Assim, nota-se que o Tribunal Estadual decidiu em consonância com a jurisprudência desta Corte, no sentido de que, declarada a rescisão do contrato de compromisso de compra e venda e determinada a devolução das prestações ao compromissário comprador, é cabível o pagamento de indenização (alugueres) relativo ao período da ocupação, desde a data em que a posse lhe foi transferida até a efetiva entrega do imóvel.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO DE COMPRA E VENDA DE IMÓVEL. CULPA CONCORRENTE RECONHECIDA. DEVOLUÇÃO INTEGRAL DOS VALORES PAGOS. CABIMENTO DE FIXAÇÃO DE INDENIZAÇÃO PELO PERÍODO DE USO DO BEM. PRECEDENTES DA CORTE.
+1. A jurisprudência desta Corte orienta que "declarada a resolução do contrato de compra e venda de imóvel e o retorno das partes ao estado anterior, é cabível a indenização pelo tempo em que o comprador ocupou o bem, desde a data em que a posse lhe foi transferida, a fim de evitar enriquecimento ilícito (REsp 1287191/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 13/11/2014).
+2. Agravo interno a que se nega provimento." (AgInt no AREsp 191.430/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 09/03/2017, DJe 14/03/2017)
+Desse modo, estando o acórdão recorrido em conformidade com a jurisprudência do STJ, incide a Súmula 83 do STJ, impedindo o conhecimento do recurso por ambas as alíneas.
+3. Ante o exposto, nego provimento ao agravo. Prejudicado o pedido de efeito suspensivo.
+Publique-se. Intimem-se.
