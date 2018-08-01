@@ -1,0 +1,26 @@
+DECISÃO
+1. Cuida-se de agravo interposto por RAIMUNDA DELFINO DOS SANTOS contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ACRE, assim ementado:
+CONSUMIDOR E BANCÁRIO. AGRAVO DE INSTRUMENTO. DECISÃO ANTECIPATÓRIA DE TUTELA. OBRIGAÇÃO DE FAZER. EXCLUSÃO DO NOME DO CONSUMIDOR DOS CADASTROS DE RESTRIÇÃO AO CRÉDITO. FIXAÇÃO DE ASTREINTES. RECALCITRÂNCIA NO CUMPRIMENTO DA ORDEM JUDICIAL. VALOR EXORBITANTE. REDUÇÃO. POSSIBILIDADE. PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE.
+1. O julgamento improcedente da demanda originária principal (revisional de contrato de mútuo) não repercute para fins de descaracterização das astreintes.
+2. É possível, por meio de decisão devidamente fundamentada, a revisão de multa diária cominatória, em situações excepcionais e quando ela se tornar insuficiente, excessiva ou desnecessária, consoante disposto no § 6º do art. 461 do CPC (Precedentes do STJ).
+3. É desarrazoado e desproporcional a fixação de multa diária cominatória (astreintes), quando o valor consolidado da multa atinge valor superior a um milhão de reais, superando em dezenas de vezes o valor do pedido de condenação principal.
+4. Ponderação dos interesses consistentes na respeitabilidade das decisões judiciais e na vedação do enriquecimento sem causa, resultando na redução do valor milionário da multa cominatória, com fundamento nos princípios da razoabilidade e da proporcionalidade.
+5. Agravo parcialmente provido.
+Opostos embargos de declaração pelo agravado, ITAU UNIBANCO S.A (fls. 164-168), foram rejeitados (fls. 194-200).
+Nas razões do recurso especial, interposto com base na alínea "c" do permissivo constitucional, a recorrente afirma, em suma, que não pode se conformar a decisão que reduziu o valor de multa cominatória fixada em desfavor do agravado de R$1.361.000,00 para R$ 60.000,00, sob o fundamento de que, apesar da recalcitrância no cumprimento da ordem judicial, seria desarrazoado e desproporcional a manutenção da multa em montante dezenas de vezes superior ao pedido da condenação principal.
+É o relatório.
+DECIDO.
+2. A irresignação não prospera, tendo em vista a não indicação do artigo de lei alegadamente violado.
+Com efeito, a ausência de particularização do dispositivo de lei federal a que os acórdãos - recorrido e paradigma - teriam dado interpretação discrepante consubstancia deficiência bastante, com sede própria nas razões recursais, a inviabilizar a abertura da instância especial, atraindo, como atrai, a incidência do Enunciado n. 284 da Súmula do Supremo Tribunal Federal, verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: AgRg nos EDcl no AREsp 76.762/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, julgado em 01/10/2013, DJe 09/10/2013; e, AgRg no AREsp 165.810/RJ, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 24/09/2013, DJe 01/10/2013.
+Sobre a questão, oportuno ressaltar que a Corte Especial deste Tribunal Superior, no julgamento do Agravo Regimental no Recurso Especial n. 1.346.588/DF, reafirmou a necessidade do recorrente apontar o dispositivo de lei federal com interpretação divergente, sob pena de se impor aos membros desta Corte a identificação, de ofício, do texto legal sobre o qual se alega o dissídio, e de ferir a ampla defesa e contraditório, ante a dificuldade do recorrido em identificar de forma clara e precisa a tese jurídica a ser impugnada.
+O referido julgado está assim ementado:
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. CONCURSO PÚBLICO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INÉPCIA DA PETIÇÃO INICIAL. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+ ..
+5. Para demonstração da existência de similitude das questões de direito examinadas nos acórdãos confrontados " é  imprescindível a indicação expressa do dispositivo de lei tido por violado para o conhecimento do recurso especial, quer tenha sido interposto pela alínea a quer pela c" (AgRg nos EREsp 382.756/SC, Rel. Min. LAURITA VAZ, Corte Especial, DJe 17/12/09).
+6. Sem a expressa indicação do dispositivo de lei federal nas razões do recurso especial, a admissão deste pela alínea "c" do permissivo constitucional importará na aplicação, nesta Instância Especial, sem a necessária mitigação, dos princípios jura novit curia e da mihi factum dabo tibi ius, impondo aos em. Ministros deste Eg. Tribunal o ônus de, em primeiro lugar, de ofício, identificarem na petição recursal o dispositivo de lei federal acerca do qual supostamente houve divergência jurisprudencial.
+7. A mitigação do mencionado pressuposto de admissibilidade do recurso especial iria de encontro aos princípios da ampla defesa e do contraditório, pois criaria para a parte recorrida dificuldades em apresentar suas contrarrazões, na medida em que não lhe seria possível identificar de forma clara, precisa e com a devida antecipação qual a tese insculpida no recurso especial.
+6. Agravo regimental não provido.
+(Rel. Ministro Arnaldo Esteves Lima, julgado em 18/12/2013, DJe de 17/3/2014)
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
