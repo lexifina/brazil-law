@@ -1,0 +1,28 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão da 1ª Câmara de Direito Público do Tribunal de Justiça do Estado de Santa Catarina, ementado nos seguintes termos:
+    “APELAÇÃO CÍVEL EM MANDADO DE SEGURANÇA. POLICIAL MILITAR INATIVO. INDENIZAÇÃO POR REGIME ESPECIAL DE SERVIÇO ATIVO – IRESA. EXEGESE DO ART. 6º DA LCE N. 614/2013. EXPRESSA VEDAÇÃO DE INCORPORAÇÃO DA VANTAGEM AOS PROVENTOS. VERBA DE CARÁTER PROPTER LABOREM. PRECEDENTES DESTA CORTE DE JUSTIÇA. AUSÊNCIA DE PARIDADE DE VENCIMENTOS. AUSÊNCIA DE PARIDADE DE VENCIMENTOS. AUSÊNCIA, ADEMAIS, DE CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A BENESSE. MANUTENNÇÃO DA DECISÃO. RECURSO DESPROVIDO.” (eDOC 10, p. 13)
+    Nas razões recursais, sustenta-se, em síntese, que a parte recorrente faz jus à Indenização por Regime Especial de Serviço Ativo-IRESA, ao argumento de que tal vantagem é de caráter geral.
+    Aduz-se, ainda, a necessidade de vinculação dos magistrados aos julgamentos reiterados do STF sobre o direito previdenciário dos servidores públicos, notadamente ao que assentado no RE 596.962. (eDOC 17, p. 20)
+    Decido.
+    O recurso não merece prosperar.
+    Inicialmente, cumpre destacar que a matéria debatida nos autos não corresponde àquela de que trata o RE-RG 596.962, Rel. Min. Dias Toffoli, Tribunal Pleno, DJe 30.10.2014.
+    Ademais, verifica-se que o recorrente não demonstrou de que forma o acórdão recorrido teria afrontado a Constituição Federal, não indicando sequer o dispositivo constitucional que teria sido violado.
+    Registre-se que é necessária, para a admissão do recurso extraordinário, a demonstração efetiva de ofensa à Constituição Federal, o que não ocorreu no caso dos autos, motivo pelo qual incide, na hipótese, a súmula 284 do STF.
+    Nesse sentido, confiram-se os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Processual Civil. Recurso extraordinário. Ausência de indicação dos dispositivos constitucionais supostamente violados. Deficiência de fundamentação. Precedentes. 1. O recorrente não indicou, no recurso extraordinário, quais normas constitucionais que, porventura, teriam sido violadas no acórdão recorrido. Incidência da Súmula nº 284/STF. 2. Agravo regimental não provido, com imposição de multa de 2% (art. 1.021, § 4º, do CPC). 3. Inaplicável o art. 85, § 11, do CPC, haja vista tratar-se, na origem, de mandado de segurança (art. 25 da Lei 12.016/09). ” (ARE-AgR 1.121.520, Rel. Min. Dias Toffoli, Segunda Turma, DJe 14.06.2018)
+    No entanto, ainda que superado esse óbice, melhor sorte não assistiria ao recorrente.
+    Isso Porque o Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei Complementar Estadual 614/203), consignou que é vedada a incorporação da Indenização por Regime Especial de Serviço Ativo – IRESA aos proventos do ora recorrente. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “A Indenização por Regime Especial de Serviço Ativo – IRESA, prevista na LCE n. 614/2013, que foi alterada e revogada em parte pela Lei n. 16.773/2015, instituiu o regime remuneratório por subsídio aos Policiais Militares Estaduais.
+    (…)
+    Como se vê, há expressa vedação legal de incorporação aos proventos, bem como de integração aos vencimentos do servidor, não servindo, aliás, de base de cálculo à contribuição previdenciária, ante a sua natureza indenizatória.
+    (…)
+    Nessa toada, havendo expressa vedação legal de incorporação da verba a qualquer título aos proventos, não há como se invocar a paridade de vencimentos como fundamento para justificar o seu pagamento durante a inatividade.” (eDOC 10, p. 13-21)
+    Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Confira-se, a propósito, o seguinte precedente:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. APOSENTADORIA. CONTROLE EXTERNO PELO TRIBUNAL DE CONTAS. DISCUSSÃO SOBRE A NATUREZA JURÍDICA DA GRATIFICAÇÃO. MATÉRIA INFRACONSTITUCIONAL. APLICAÇÃO DA SÚMULA 280. 1. É infraconstitucional a questão referente à natureza jurídica de gratificação ou de outra vantagem pecuniária, quando o Tribunal local acolhe ou rejeita seu caráter geral perante os termos da legislação local que a disciplina. Aplicação da Súmula 280/STF. 2. O acórdão recorrido está em harmonia com a orientação desta Corte, no sentido de que o ato de aposentação configura ato complexo e a aposentadoria só se aperfeiçoa com o registro do Tribunal de Contas, que exerce sua função constitucional de controle externo, sendo dispensável a observância do contraditório. 3. Agravo regimental a que se nega provimento.” (ARE-AgR 900.179, Rel. Min. Edson Fachin, Primeira Turma, DJe 17.11.2015)
+    Por fim, quanto à natureza da IRESA, registre-se que o Supremo Tribunal Federal já apreciou questão semelhante no AI-RG 846.912 (tema 462), Rel. Min. Presidente, DJe 15.9.2011, e no ARE-RG 948.645 (tema 882), Rel. Min. Teori Zavascki, DJe 6.4.2016, oportunidade em que rejeitou a repercussão geral, tendo em vista a natureza infraconstitucional da matéria.
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC, c/c art. 21, §1º, do RISTF) e, tendo em vista tratar-se de mandado de segurança na origem, deixo de aplicar o disposto no § 11 do art. 85 do CPC, em virtude do art. 25 da Lei 12.016/2009.
+    Publique-se.
+    Brasília, 1º de agosto de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
