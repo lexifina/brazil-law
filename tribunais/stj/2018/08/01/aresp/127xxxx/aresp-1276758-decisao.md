@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto por [NOME], em face de acórdão assim ementado (fl. 440):
+SEGURO DE VIDA EM GRUPO COBRANÇA Preliminar rejeitada-Cobertura para invalidez funcional permanente por doença Doença profissional Excludente contratual de cobertura Legitimidade Indenização securitária indevida Ação improcedente Recurso desprovido.
+Nas razões do especial, o ora agravante alega afronta aos arts. 6º, III, e 51, inciso I, IV e XV, e 54, § 4º, do Código de Defesa do Consumidor; e 20 da Lei n. 8.213/91, bem como dissídio jurisprudencial. Afirma que "as cláusulas limitativas de direito não foram colocadas em destaque (..) tornando a relação contratual totalmente desproporcional e claramente abusiva" (fl. 453). Aduz que "nula de pleno direito a exclusão de LER/DORT da cobertura da apólice contratada" (fl. 454).
+Passo a decidir.
+A Corte Estadual, com base nos fatos, provas e conteúdo contratual dos autos, concluiu pela licitude da cláusula de exclusão de cobertura, assim se pronunciando (fl. 441):
+No presente caso, a apólice do seguro de vida em discussão (fls. 32) prevê, dentre suas coberturas contratadas, a cobertura para "invalidez permanente por acidente e invalidez funcional permanente por doença".
+Todavia, de acordo com a apólice de seguro, há exclusão securitária expressa quanto às doenças de caráter profissional (fls. 111).
+Diante disso, e revendo posicionamento anterior, não prospera o pedido indenizatório em questão, tendo em vista que inexiste cobertura para tanto, sendo certo que as seguradoras somente podem responder pelos riscos assumidos.
+O acolhimento das razões do recurso demandaria inevitável apreciação das cláusulas contratuais, bem como o reexame de matéria fática, procedimentos que encontram óbice nos verbetes 5 e 7 da Súmula desta Corte. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO À INSURGÊNCIA. INSURGÊNCIA DA DEMANDADA.
+(..)
+2. No que diz respeito à análise da subsunção ou não da invalidez do segurado, constatada nos autos, ao risco expressamente acobertado no contrato de seguro, alterar o entendimento do acórdão recorrido demandaria reexame do conjunto fático probatório dos autos e interpretação de cláusula contratual, o que é vedado em razão da incidência das Súmulas 5 e 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 555.250/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 10/04/2018, DJe 16/04/2018)
+Por fim, em relação ao apontado dissídio jurisprudencial, ressalte-se que não se pode conhecer de recurso especial interposto com fundamento no art. 105, III, "c", da Constituição Federal, se não estiver comprovado nos moldes dos arts. 1.029, § 1º, do Código de Processo Civil/2015; e 255, §§ 1º e 2º, do RISTJ. Vale destacar que as circunstâncias fáticas e as peculiaridades diferem em cada caso, o que inviabiliza, em regra, o recurso especial interposto pela divergência jurisprudencial, que se funda em premissa fático-probatória e, particularmente, no caso concreto em que os fatos e provas dos autos não se revelam análogos aos dos paradigmas.
+Em face do exposto, não havendo o que reformar, nos termos do art. 34, XVIII, "b", do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao agravo e fixo os honorários deste recurso, a serem suportados pela parte recorrente, em 10% (dez por cento) dos honorários advocatícios já arbitrados em favor da parte recorrida, ressaltando que não deve ser aplicada a medida aos casos em que ultrapassados os limites dos §§ 2º e 3º do referido dispositivo, considerando-se suspensas as exigibilidades em caso de assistência judiciária gratuita.
+Intimem-se.
