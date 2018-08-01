@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso especial interposto por EDILZE APARECIDA DA SILVA RIBEIRO e LÚCIO MARQUES, com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, impugnando acórdão assim ementado (fl. 119, e-STJ):
+AGRAVO DE INSTRUMENTO. SEGURO HABITACIONAL. INTERLOCUTÓRIO QUE INDEFERE PEDIDO FORMULADO PELA SEGURADORA PARA INGRESSO DA CAIXA ECONÔMICA FEDERAL NA LIDE. SUPERVENIÊNCIA DE PLEITO EXPRESSO DA EMPRESA PÚBLICA NESSE SENTIDO. INCOMPETÊNCIA DA JUSTIÇA ESTADUAL PARA ANÁLISE DA PRETENSÃO MANIFESTADA. INTELIGÊNCIA DO ART. 109, I, DA CONSTITUIÇÃO FEDERAL. EXEGESE DA SÚMULA 150 DO STJ. REMESSA DOS AUTOS À JUSTIÇA FEDERAL. RECURSO CONHECIDO E PROVIDO.
+Os embargos de declaração opostos por ambas as partes foram rejeitados (fls. 174-178, e-STJ).
+Nas razões do recurso, os recorrentes alegam divergência jurisprudencial, bem como violação dos arts. 5º, XXXVI, da Constituição Federal e 6.º, § 1.º, da Lei de Introdução às Normas do Direito Brasileiro.
+Sustentam, em suma: (i) a competência da Justiça Estadual, porquanto se trata de relação entre mutuário e seguradora unicamente, não havendo reflexos no FCVS; (ii) a necessidade de aplicação da tese definida pelo STJ em sede de recurso especial repetitivo (EDcl no REsp 1.091.393/SC) - fl. 185, e-STJ; (iii) a irretroatividade da Lei n. 12.409/2011 aos processos em andamento; (iv) que o enunciado da Súmula 150 desta Corte não impede a apreciação da causa pela Justiça Estadual; (v) não é caso de litisconsórcio necessário entre a CEF e/ou União e a seguradora. Aponta julgados do STJ e TJ/RS para defender as suas teses.
+O recurso especial foi admitido na origem (fls. 255-256, e-STJ).
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, cumpre destacar que a decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+O recurso especial não se presta ao exame de suposta violação a dispositivos constitucionais, por se tratar de matéria reservada à análise do Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição da República.
+Outrossim, cumpre asseverar que esta Corte consagrou o entendimento de que os princípios contidos no art. 6.º da LINDB, concernentes ao direito adquirido, ao ato jurídico perfeito e à coisa julgada, não podem ser analisados em sede de recurso especial, pois, apesar de serem previstos em norma infraconstitucional, são institutos de natureza eminentemente constitucional (art. 5º, inc. XXXVI, da Constituição Federal).
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ARTIGO 6º DA LEI DE INTRODUÇÃO AO CÓDIGO CIVIL. NATUREZA CONSTITUCIONAL. ANÁLISE VEDADA EM SEDE DE RECURSO ESPECIAL.
+1. "A pretensa violação ao art. 6º da LICC é intento que refoge ao âmbito do recurso especial, porquanto encerra princípios de índole constitucional. Precedentes." (AgRg no AG n. 928.730/DF, Rel. Min. FERNANDO GONÇALVES, DJe de 26/02/2009)
+2. Agravo regimental a que se nega provimento.
+(AgRg no Ag 738.613/SP, Rel. Ministro VASCO DELLA GIUSTINA, DESEMBARGADOR CONVOCADO DO TJ/RS, TERCEIRA TURMA, julgado em 18.8.2009, DJe 2.9.2009.)
+A Segunda Seção desta Corte de Justiça, por ocasião do julgamento de recurso representativo da controvérsia, REsp 1.091.363/SC, firmou orientação no sentido de que haverá potencial interesse jurídico da CEF para integrar a lide, nas ações envolvendo seguros de mútuo habitacional no âmbito do Sistema Financeiro Habitacional - SFH, somente nos contratos celebrados entre 2.12.1988 a 29.12.2009 - período compreendido entre as edições da Lei n. 7.682, de 1988, e da MP n. 475, de 2009 - cujo instrumento esteja vinculado ao Fundo de Compensação de Variações Salariais - FCVS. A não vinculação do contrato ao FCVS - apólices privadas revela carência de interesse jurídico da CEF a justificar sua intervenção na lide.
+O acórdão integrativo do referido repetitivo também consignou que, mesmo na hipótese de o seguro firmado seja apólice pública, o interesse jurídico da CEF se caracterizará mediante prova documental de que existe comprometimento do FCVS, com risco efetivo de exaurimento da reserva técnica do Fundo de Equalização de Sinistralidade da Apólice - FESA.
+Confiram-se as ementas dos referidos acórdãos:
+RECURSO ESPECIAL. SISTEMA FINANCEIRO DA HABITAÇÃO. AÇÃO EM QUE SE CONTROVERTE A RESPEITO DO CONTRATO DE SEGURO ADJECTO A MUTUO HIPOTECÁRIO. LITISCONSÓRCIO ENTRE A CAIXA ECONÔMICA FEDERAL/CEF E CAIXA SEGURADORA S/A. INVIABILIDADE. COMPETÊNCIA DA JUSTIÇA ESTADUAL. RECURSO ESPECIAL REPETITIVO. LEI N. 11.672/2008. RESOLUÇÃO/STJ N. 8, DE 07.08.2008. APLICAÇÃO.
+1. Nos feitos em que se discute a respeito de contrato de seguro adjeto a contrato de mútuo, por envolver discussão entre seguradora e mutuário, e não afetar o FCVS (Fundo de Compensação de Variações Salariais), inexiste interesse da Caixa Econômica Federal a justificar a formação de litisconsórcio passivo necessário, sendo, portanto, da Justiça Estadual a competência para o seu julgamento. Precedentes.
+2. Julgamento afetado à 2a. Seção com base no Procedimento da Lei n. 11.672/2008 e Resolução/STJ n. 8/2008 (Lei de Recursos Repetitivos).
+3. Recursos especiais conhecidos em parte e, nessa extensão, não providos.
+(REsp 1.091.363/SC, Rel. Ministro CARLOS FERNANDO MATHIAS, JUIZ FEDERAL CONVOCADO DO TRF 1ª REGIÃO, SEGUNDA SEÇÃO, julgado em 11.3.2009, DJe 25.5.2009.)
+DIREITO PROCESSUAL CIVIL. SFH. SEGURO. AÇÃO INDENIZATÓRIA. CAIXA ECONÔMICA FEDERAL. INTERESSE. INTERVENÇÃO. LIMITES E CONDIÇÕES. INCIDENTE DE PROCESSO REPETITIVO. ART. 543-C DO CPC.
+1. Nas ações envolvendo seguros de mútuo habitacional no âmbito do Sistema Financeiro Habitacional - SFH, a Caixa Econômica Federal - CEF - detém interesse jurídico para ingressar na lide como assistente simples somente nos contratos celebrados de 02.12.1988 a 29.12.2009 - período compreendido entre as edições da Lei nº 7.682/88 e da MP nº 478/09 - e nas hipóteses em que o instrumento estiver vinculado ao Fundo de Compensação de Variações Salariais - FCVS (apólices públicas, ramo 66).
+2. Ainda que compreendido no mencionado lapso temporal, ausente a vinculação do contrato ao FCVS (apólices privadas, ramo 68), a CEF carece de interesse jurídico a justificar sua intervenção na lide.
+3. O ingresso da CEF na lide somente será possível a partir do momento em que a instituição financeira provar documentalmente o seu interesse jurídico, mediante demonstração não apenas da existência de apólice pública, mas também do comprometimento do FCVS, com risco efetivo de exaurimento da reserva técnica do Fundo de Equalização de Sinistralidade da Apólice - FESA, colhendo o processo no estado em que este se encontrar no instante em que houver a efetiva comprovação desse interesse, sem anulação de nenhum ato anterior.
+4. Evidenciada desídia ou conveniência na demonstração tardia do seu interesse jurídico de intervir na lide como assistente, não poderá a CEF se beneficiar da faculdade prevista no art. 55, I, do CPC.
+5. Na hipótese específica dos autos, tendo sido reconhecida a ausência de vinculação dos contratos de seguro ao FCVS, inexiste interesse jurídico da CEF para integrar a lide.
+6. Embargos de declaração parcialmente acolhidos, sem efeitos infringentes.
+(EDcl nos EDcl no REsp 1.091.363/SC, SEGUNDA SEÇÃO. Rel. Ministra MARIA ISABEL GALLOTTI, Rel. p/ acórdão Ministra NANCY ANDRIGHI, julgado em 10.10.2012, DJe 14.12.2012.)
+No caso em apreço, a Corte de origem reconheceu que compete à Justiça Federal decidir se há, ou não, interesse jurídico da Caixa Econômica Federal para integrar a lide (fl. 124, e-STJ), o que fez em conformidade com a orientação contida na Súmula n. 150/STJ: "Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas."
+No mesmo sentido cito os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE COBRANÇA DE SEGURO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO COM FUNDAMENTO NO ENUNCIADO N. 150 DA SÚMULA DA JURISPRUDÊNCIA DO STJ.
+IRRESIGNAÇÃO DA PARTE AUTORA.
+1. Compete à Justiça Federal decidir sobre a existência de interesse da Caixa Econômica Federal na ação de cobrança de seguro em que se discute a afetação do Fundo de Compensação de Variações Salariais (FCVS), em observância ao Enunciado n. 150 da Súmula de Jurisprudência do STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp 750.141/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27.6.2017, DJe 1º.8.2017.)
+AGRAVO INTERNO. RECURSO ESPECIAL. SEGURO HABITACIONAL. INTERESSE. EMPRESA PÚBLICA (CAIXA ECONÔMICA FEDERAL). COMPETÊNCIA. JUSTIÇA FEDERAL. ENUNCIADOS 150, 224 E 254 DA SÚMULA DO STJ. NÃO PROVIMENTO.
+1. Conforme dispõem os enunciados 150, 224 e 254 da Súmula do STJ, compete com exclusividade à Justiça Federal avaliar a existência de interesse jurídico dos entes federais na causa.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.598.335/SC, desta relatoria, QUARTA TURMA, julgado em 7.3.2017, DJe 14.3.2017.)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - SEGURO HABITACIONAL - MANIFESTAÇÃO DE INTERESSE JURÍDICO DA CAIXA ECONÔMICA FEDERAL - COMPETÊNCIA DA JUSTIÇA FEDERAL - APLICAÇÃO DA SÚMULA Nº 150 DO STJ - PRECEDENTES DO STJ.
+1. Apresenta manifestação de interesse da Caixa Econômica Federal no deslinde do feito, em obediência ao enunciado contido na Súmula 150 do STJ, compete à justiça federal decidir sobre a existência do interesse jurídico que justifique a presença, no processo, da união, suas autarquias ou empresas públicas. Precedentes desta Corte Superior.
+2. Agravo interno desprovido.
+(AgInt no AgRg no AREsp 18.192/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15.12.2016, DJe 2.2.2017.)
+Dessa forma, encontrando-se o acórdão recorrido em consonância com a orientação desta Corte, não há o que se reformar, esbarrando o presente recurso no óbice da Súmula 83/STJ.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
