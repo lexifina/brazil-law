@@ -1,0 +1,25 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DA DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182. INCIDÊNCIA.
+1. Não merece conhecimento o agravo que não impugna, especificamente, todos os fundamentos da decisão denegatória de seguimento ao recurso especial.
+2. Agravo interno no agravo em recurso especial não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, negar provimento ao agravo, nos termos do voto do(a) Sr(a). Ministro(a) Relator(a). Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interposto por [NOME] contra decisão unipessoal que não conheceu do agravo em recurso especial que interpusera.
+Ação: de exibição de documentos cumulada com reparação, por dano material, ajuizada pelo agravante, em face de TELEFÔNICA BRASIL S.A, na qual pleiteia seja a agravada condenada a exibir os documentos arrolados na inicial, bem como a entregar-lhe ações das empresas criadas em razão da cisão da Telebrás e ações da Telesp celular, ou a pagar-lhe verba indenizatória equivalente.
+Sentença: julgou procedente os pedidos, para condenar a agravada: (i) aos recálculos dos VPA (Valor Patrimonial da Ação) das ações do agravante; (ii) a apresentar, por ocasião da liquidação do julgado, no prazo de trinta dias, todos os contratos e os documentos relativos às emissões das ações integralizadas e seus valores e pagamentos de dividendos; (iii) a juntar os documentos necessários à eventual comprovação da venda das ações pelo agravante antes da cisão da Telesp S.A.
+Acórdão: deu parcial provimento à apelação interposta pela agravada, nos termos da seguinte ementa:
+PRESTAÇÃO DE SERVIÇOS TELEFÔNICOS. CONTRATOS DE PARTICIPAÇÃO FINANCEIRA FIRMADOS NA MODALIDADE PLANO EXPANSÃO (PEX). ILEGITIMIDADE PASSIVA AFASTADA. SUCESSORA POR INCORPORAÇÃO TEM LEGITIMIDADE PARA RESPONDER PELA COMPLEMENTAÇÃO ACIONÁRIA. PRAZO PRESCRICIONAL DE 20 ANOS (ART. 177, CC/16) E 10 ANOS (ART. 205, CC/02). TERMO INICIAL. DATA DA SUBSCRIÇÃO DAS AÇÕES. PRESCRIÇÃO NÃO VERIFICADA. CESSÃO DOS DIREITOS DE CONTRATOS DE PARTICIPAÇÃO FINANCEIRA AO AUTOR. INAPLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR. CESSIONÁRIO NA QUALIDADE DE INVESTIDOR. IMPOSSIBILIDADE DE TRANSFERÊNCIA DE QUALIDADES PERSONALÍSSIMAS DOS CEDENTES. AUTOR QUE NÃO SE DESINCUMBIU DE COMPROVAR O FATO CONSTITUTIVO DE SEU DIREITO. INTELIGÊNCIA ART. 333, I, DO CPC/73. ALEGAÇÕES DESCRITAS NA INICIAL NÃO COMPROVADAS. CONJUNTO PROBATÓRIO QUE NÃO DEMONSTRA A ENTREGA DE QUANTIDADE MENOR DE AÇÕES, TAMPOUCO A EXISTÊNCIA DE DIVIDENDOS E BONIFICAÇÕES A SEREM RECEBIDAS OU, AINDA, O DESCUMPRIMENTO DA SÚMULA 371, DO STJ. SENTENÇA REFORMADA.
+Recurso parcialmente provido. (e-STJ Fl. 339)
+Recurso especial: alega violação dos arts. 73, I e II, do CPC; 6º, VIII, 29 e 101 do CDC; 287 do CC; da Súmula 371 do STJ, bem como dissídio jurisprudencial.
+Decisão unipessoal: não conheceu do agravo em recurso especial, ante a aplicação da Súmula 182/STJ, eis que o agravante não impugnou três dos fundamentos utilizados pelo TJ/SP para inadmitir o recurso especial que interpusera, quais sejam: i) ausência de violação/negativa de vigência/contrariedade; ii) Súmula 7/STJ e iii) ausência/deficiência de cotejo analítico.
+Agravo interno: nas razões do presente recurso, o agravante sustenta a inaplicabilidade da Súmula 182/STJ à hipótese dos autos, eis que impugnou todos os fundamentos da decisão que inadmitiu o recurso especial.
+É o relatório.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+A decisão agravada não conheceu do agravo em recurso especial interposto pelo agravante, com fundamento no art. 253, parágrafo único, I, do RISTJ, e da aplicação, por analogia, da Súmula 182/STJ, tendo em vista que este não teria impugnado todos os fundamentos da decisão que inadmitiu o seu recurso especial.
+Pela análise das razões recursais apresentadas, verifica-se que o agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão agravada. Assim, cabia ao agravante demonstrar que, nas razões do agravo em recurso especial, combateu os termos da decisão agravada, ônus do qual não se desincumbiu, não sendo possível impugnar a decisão de admissibilidade no agravo interno.
+E, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão denegatória de seguimento ao recurso especial, a teor do disposto na Súmula 182 do STJ, a qual se subsume perfeitamente ao presente recurso.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
