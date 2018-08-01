@@ -1,0 +1,29 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão que possui a seguinte ementa:
+    “TRIBUTÁRIO. ADUANEIRO. CLASSIFICAÇÃO TARIFÁRIA. ENQUADRAMENTO. LIVROS INFANTIS. DESPESAS PORTUÁRIAS. REEMBOLSO. HONORÁRIOS ADVOCATÍCIOS.
+    1. O desenvolvimento do hábito da leitura deve ocorrer desde a mais tenra idade, razão pela qual os livros para colorir nada mais são do que uma maneira de estimular o público infantil a se familiarizar com este meio de comunicação e educação, uma vez que contém a linguagem apropriada à esta faixa etária.
+    2. As mercadorias importadas: livros infantis, não podem ser considerados simplesmente álbuns, pois seu objetivo principal é atrair a atenção e o interesse da criança, de modo a transmitir-lhe o conhecimento através de informações agregadoras (imagens, pinturas, objetos e outros elementos da didática moderna, a fim de despertar o interesse e a curiosidade pela leitura). Correta, pois, a classificação fiscal adotada pela parte autora, uma vez que as mercadorias se destinam a educar, instruir e distrair crianças de pouca idade, inclusive aquelas que sequer iniciaram o processo de alfabetização.
+    3. Tendo sido demonstrada a ilegitimidade da interrupção do despacho aduaneiro, devem ser ressarcidas à parte autora as despesas portuárias e de armazenagem, desde que comprovadas documentalmente em fase de execução de sentença.
+    4. Honorários advocatícios fixados em 5% do valor da causa” (pág. 142 do documento eletrônico 2).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, sustenta-se violação ao art. 150, VI, d e § 6°, da mesma Carta. A recorrente alega, em suma, que
+    “[...] os produtos importados pela demandante não se enquadram na definição de ‘livro’ dada pelo art. 2º da Lei nº 10.753/2003 (‘Lei do Livro’) e não podem ser classificados como ‘livro’, consoante às regras do Sistema Harmonizado, não se podendo estender a imunidade estabelecida no art. 150, VI, alínea ‘d’, da CRFB, sob pena de contrariedade ao referido dispositivo constitucional, bem como ao parágrafo 6º do mesmo art. 150, da CRFB, e de ofensa ao art. 111, do CTN, e no art. 2º, da Lei 10.753/2002 – ‘Lei do Livro’.
+    […]
+    O objetivo da norma constitucional acima descrita é proteger a educação, a cultura e a liberdade de comunicação e de pensamento, sendo que os livros e jornais são os instrumentos mais comuns. Com isso, fica demonstrado o desmerecimento do pedido de imunidade, visto que restou comprovado que não se tratam de livros.
+    A interpretação deste artigo deve ser feita de forma restritiva, sendo imunes apenas os itens listados, não cabendo analogias de nenhum gênero.
+    No caso em exame, o que se observa é que o pretenso livro se trata de livro de ilustrações/gravuras/imagens e atividades para crianças (matéria incontroversa). Com isso, seria aplicável a NCM 4903.00.00 (álbuns de figuras ) e 9503.00.70 (quebra-cabeças)” (págs. 186-187 do documento eletrônico 2).
+    A pretensão recursal não merece acolhida.
+    Verifica-se que o acórdão recorrido não divergiu da orientação firmada por esta Corte no sentido de que a regra da imunidade tributária conferida aos livros, prevista no art. 150, VI, d, da Constituição, não fez ressalvas quanto ao valor artístico ou didático, à relevância das informações divulgadas ou à qualidade cultural de uma publicação. Por oportuno, destaco os seguintes precedentes deste Tribunal:
+    “CONSTITUCIONAL. TRIBUTÁRIO. IMUNIDADE. ART. 150, VI, ‘D’ DA CF/88. “ÁLBUM DE FIGURINHAS”. ADMISSIBILIDADE.
+    1. A imunidade tributária sobre livros, jornais, periódicos e o papel destinado à sua impressão tem por escopo evitar embaraços ao exercício da liberdade de expressão intelectual, artística, científica e de comunicação, bem como facilitar o acesso da população à cultura, à informação e à educação.
+    2. O Constituinte, ao instituir esta benesse, não fez ressalvas quanto ao valor artístico ou didático, à relevância das informações divulgadas ou à qualidade cultural de uma publicação.
+    3. Não cabe ao aplicador da norma constitucional em tela afastar este benefício fiscal instituído para proteger direito tão importante ao exercício da democracia, por força de um juízo subjetivo acerca da qualidade cultural ou do valor pedagógico de uma publicação destinada ao público infanto-juvenil.
+    4. Recurso extraordinário conhecido e provido (RE 221.239/SP, Rel. Min. Ellen Gracie, Segunda Turma).
+    “Álbum de figurinha. Imunidade tributária. art. 150, VI, ‘d’, da Constituição Federal. Precedentes da Suprema Corte.
+    1. Os álbuns de figurinhas e os respectivos cromos adesivos estão alcançados pela imunidade tributária prevista no artigo 150, VI, ‘d’, da Constituição Federal.
+    2. Recurso extraordinário desprovido” (RE 179.893/SP, Rel. Min. Menezes Direito, Primeira Turma).
+    Nesse mesmo sentido, confiram-se os julgados deste Tribunal, entre outros: RE 910.572-AgR/SP, Rel. Min. Rosa Weber; ARE 852.702/RS, Rel. Min. Luiz Fux e ARE 770.258/RS, Rel. Min. Roberto Barroso.
+    Além disso, para dissentir do acórdão recorrido no tocante à classificação fiscal das mercadorias importadas, no caso, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 do STF, e da legislação infraconstitucional aplicável ao caso, sendo certo que eventual ofensa à Constituição seria apenas indireta. Nesse sentido, menciono as seguintes decisões desta Corte: RE 656.203-AgR/SP, Rel. Min. Cármen Lúcia; RE 640.474-AgR/SP, de minha relatoria; ARE 853.133/SC e ARE 941.463/SP, Rel. Min. Dias Toffoli; ARE 979.438/SC e ARE 938.226/SC, Rel. Min. Edson Fachin; e ARE 863.377/RS, Rel. Min. Gilmar Mendes.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 1° de agosto de 2018.
+Ministro Ricardo Lewandowski
+Relator
