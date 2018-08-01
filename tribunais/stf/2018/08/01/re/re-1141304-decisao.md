@@ -1,0 +1,21 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão de Turma Recursal da Seção Judiciária da Bahia, assim ementado:
+    “PROCESSO CIVIL E TRIBUTÁRIO. PRESCRIÇÃO QUINQUENAL. TRABALHADOR AVULSO. CONTRIBUIÇÃO PREVIDENCIÁRIA. FÉRIAS. PRESUNÇÃO NÃO AUTORIZADA DE QUE A FALTA DE FRUIÇÃO DECORREU DE NECESSIDADE DO SERVIÇO. ÔNUS DA PROVA DO TRABALHADOR. AUSÊNCIA DE COMPROVAÇÃO NA ESPÉCIE. TERÇO CONSTITUCIONAL. NATUREZA INDENIZATÓRIA. VERBA QUE NÃO SE INCORPORA À APOSENTADORIA. NÃO INCIDÊNCIA TRIBUTÁRIA. RECURSO PROVIDO PARCIALMENTE. SENTENÇA PARCIALMENTE REFORMADA.”
+    Nas razões recursais, sustenta-se a constitucionalidade da incidência de contribuição previdenciária sobre as verbas recebidas a título de terço adicional de férias pelo trabalhador avulso.
+    É o relatório.
+    Inicialmente, convém reproduzir o assentado pelo Tribunal de origem:
+    “9. Situação distinta, no entanto, ocorre com o terço constitucional de férias. Isso porque, conforme entendimento perfilhado pela Primeira Seção do Superior Tribunal de Justiça (Pet. 7.296/PE), tal verba não pode sofrer a incidência da contribuição previdenciária, na medida em que não se incorpora à remuneração do servidor para fins de aposentadoria. Note-se que a Primeira Turma da mesma Corte Superior, quando do exame do Agravo Regimental no Agravo de Instrumento n. 1358108/MG, considerou ue tal orientação também se aplica ao trabalhador celetista.”
+    A esse respeito, verifica-se que a jurisprudência do STF consolidou-se no sentido de ser infraconstitucional a discussão acerca da incidência de contribuição previdenciária devida pelo empregado baseado na natureza da verba.
+    Cito, a propósito, o Tema 908 da sistemática da repercussão geral, cujo paradigma é o RE 892.238, de relatoria do Ministro Luiz Fux, Tribunal Pleno, DJe 13.09.2016, assim ementado:
+    “RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA A CARGO DO EMPREGADO. ADICIONAL DE FÉRIAS. AVISO PRÉVIO INDENIZADO. DÉCIMO TERCEIRO PROPORCIONAL. AUXÍLIO DOENÇA. HORAS EXTRAS. NATUREZA JURÍDICA DAS VERBAS. SALÁRIO DE CONTRIBUIÇÃO. ENQUADRAMENTO. INTERPRETAÇÃO DA LEI 8.212/1991, DA LEI 8.213/1991 E DO DECRETO 3.038/1999. MATÉRIA INFRACONSTITUCIONAL. TEMA 908. AUSÊNCIA DE REPERCUSSÃO GERAL.”
+    O mesmo entendimento é aplicado aos trabalhadores autônomos, nos seguintes termos:
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. TERÇO CONSTITUCIONAL DE FÉRIAS. VERBA DE REPRESENTAÇÃO. TRABALHADOR AUTÔNOMO. 1. A jurisprudência desta Corte é firme no sentido de que o Tema 163 da sistemática da repercussão geral não se aplica aos celetistas. 2. A discussão relativa à incidência de contribuição previdenciária sobre verba de gratificação, terço constitucional de férias e verbas devidas a trabalhadores autônomos cinge-se ao âmbito infraconstitucional, haja vista que demanda análise da natureza jurídica da referida parcela. 3. Agravo regimental da Fazenda Nacional desprovido.”
+(RE 960556 AgR, de minha relatoria, Primeira Turma, DJe 21.11.2016)
+    Logo, não merece trânsito a matéria referente à incidência de contribuição previdenciária sobre as verbas recebidas a título de terço adicional de férias pelo trabalhador avulso. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL. SALÁRIO-EDUCAÇÃO. INCIDÊNCIA SOBRE VALORES PAGOS A TRABALHADORES PORTUÁRIOS AVULSOS. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO A QUE SE NEGA PROVIMENTO. I - O acórdão recorrido decidiu a questão referente à possibilidade de incidência do salário-educação sobre os valores pagos aos trabalhadores portuários avulsos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Leis 8.212/1991 e 9.424/1996). A afronta à Constituição, se ocorrente, seria apenas indireta. Incabível, portanto, o recurso extraordinário. Precedentes. II – Agravo regimental a que se nega provimento.”
+(RE 793032 AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe 26.03.2014)
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 1º de agosto de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
