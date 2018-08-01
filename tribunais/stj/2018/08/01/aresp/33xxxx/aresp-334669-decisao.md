@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+Direito privado não especificado. AÇÃO MONITÓRIA. EMBARGOS. CHEQUE PRESCRITO.
+1. RECURSO ADESIVO. DESERÇÃO.
+Consabido que o recurso adesivo se submete aos mesmos requisitos do recurso ao qual adere, inclusive ao preparo.
+2. LEGITIMIDADE ATIVA. RECONHECIMENTO.
+Transferindo por endosso o direito representado pelo cheque ao seu portador, é a autora parte legitimada para promover a ação monitória para cobrança dos cheques, para quem os referidos títulos foram endossados pelo originário credor.
+3. MÉRITO. PROVA DA CAUSA DEBENDI. DESNECESSIDADE.
+A prova da causa debendi é desnecessária na monitória amparada em cheque prescrito, sendo ônus do embargante a prova da inexistência do crédito. Caso em que não demonstrada a inexistência da dívida, devendo ser mantida a procedência dos pedidos da monitória.
+APELO DESPROVIDO. RECURSO ADESIVO NÃO CONHECIDO. UNÂNIME.
+A agravante sustenta que o acórdão estadual é omisso. Alega que nunca manteve relação comercial ou outro envolvimento com a parte autora, motivo por que esta é parte ilegítima para atuar no polo ativo da ação monitória. Afirma que os recibos constantes dos autos atrelam o cheque objeto da inicial com negócio jurídico celebrado com outra empresa, comprovando a quitação da maior parte do débito.
+Destaca-se que a decisão recorrida foi publicada antes da entrada em vigor da Lei 13.105/2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Quanto à alegada violação ao art. 535 do Código de Processo Civil, sem razão a recorrente, haja vista que enfrentadas todas as questões levantadas pela parte, porém em sentido contrário ao pretendido, o que afasta a invocada declaração de nulidade.
+Acerca da questão da ilegitimidade ativa, o recurso não tem como ser conhecido, pois não foi impugnado o fundamento do julgado estadual, que se amparou na ausência da perda do caráter cambial do cheque e na validade do endosso realizada para a parte autora. Tal fundamento é suficiente, por si só, para manter o acórdão, que por consequência, não pode ser alterado por força do veto contido no enunciado 283 da Súmula do STF.
+Vale ressaltar que o entendimento da Corte de origem guarda harmonia com a jurisprudência do STJ, segundo a qual é da parte ré o ônus de desconstituir a prova da dívida apresentada pelo autor da monitória, sendo este dispensado de mencionar o negócio jurídico que deu origem à cártula. A tese já foi firmada, inclusive, mediante o procedimento previsto no art. 543-C do Código de Processo Civil:
+
+PROCESSUAL CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. AÇÃO MONITÓRIA APARELHADA EM CHEQUE PRESCRITO. DISPENSA DA MENÇÃO À ORIGEM DA DÍVIDA.
+1. Para fins do art. 543-C do CPC: Em ação monitória fundada em cheque prescrito, ajuizada em face do emitente, é dispensável menção ao negócio jurídico subjacente à emissão da cártula.
+2. No caso concreto, recurso especial parcialmente provido.
+(REsp 1.094.571/SP, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, DJe 14/02/2013)
+Extrai-se, ainda, do voto do Ministro LUIS FELIPE SALOMÃO, a elucidativa passagem:
+A autorizada doutrina, em lição que guarda estrita sintonia com a lei processual, propugna que, no procedimento monitório, tendo em vista o seu propósito de propiciar a celeridade na formação do título executivo judicial, a expedição do mandado de pagamento ou de entrega da coisa é feita em cognição sumária, havendo inversão da iniciativa do contraditório, cabendo ao demandado a faculdade de opor embargos, suscitando toda a matéria de defesa, visto que recai sobre ele o ônus probatório.  ..  Com efeito, de acordo com a jurisprudência consolidada no âmbito do STJ, o autor da ação monitória não precisa, na exordial, mencionar ou comprovar a relação causal que deu origem à emissão do cheque prescrito, todavia nada impede o requerido, em embargos à monitória, discuta a causa debendi, cabendo-lhe a iniciativa do contraditório e o ônus da prova - mediante apresentação de fatos impeditivos, modificativos ou extintivos do direito do autor.
+No que se refere ao atrelamento do cheque com o negócio jurídico citado pela recorrente, a Corte de origem assim se pronunciou:
+Vale mencionar que o cheque, em princípio, se traduz em ordem de pagamento à vista, expressando valor líquido e certo, conforme preceitua o artigo 32 da Lei nº 7.357/85, o que gera a presunção de boa-fé do terceiro portador do título.
+No caso, a prova meramente documental apresentada é absolutamente insuficiente para fazer ruir a presunção legal do crédito. O próprio recorrente admite a falta de emissão de recibo em quaisquer das negociações realizada entre as partes, contexto em que se mostra impossível dar razão com base em meras ilações desprovidas de evidências contundentes.
+Os documentos deveriam ser provas cabais, com indiscutível relação entre os alegados pagamentos e a dívida que é cobrada, situação que não se verifica em momento algum da instrução. Limita-se o embargante a apresentar cheques nominativos a Fio R e R Transportes e notas de consertos de veículo sem apresentar o necessário nexo com a dívida cobrada.
+Neste contexto, a prova documental produzida não demonstra a existência de fato impeditivo, modificativo ou extintivo do direito da embargada.
+Dessa forma, mostra-se viável a constituição do título executivo pelo valor licitamente expresso nos títulos.
+Por derradeiro, sobre o pedido recursal de manifestação expressa sobre a condição da Caminhonete S-10, tenho que igualmente sem razão o apelante, mormente por inexistir qualquer pretensão relativamente ao referido bem. Noutras palavras, a jurisdição submete-se ao princípio dispositivo, só podendo resolver pretensões adequadamente postuladas pelas partes, sendo que sobre a questão não há qualquer pedido a respeito na peça inaugural, e tampouco reconvenção.
+Com efeito, a conclusão do Tribunal revisor - de que não foi comprovada a relação entre o cheque e o negócio jurídico a que se refere o agravante - foi obtida pela análise do conteúdo fático e contratual dos autos, que se situa fora da esfera de atuação desta Corte, nos termos dos enunciados 5 e 7 da Súmula do STJ.
+Ressalte-se, por fim, que a controvérsia a respeito da possibilidade da agravante reaver a caminhonete S10 entregue, supostamente, como parte do pagamento, não possui relação com os estritos limites do pedido inicial, ao qual as instâncias ordinárias, corretamente, se mantiveram adstritas.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
