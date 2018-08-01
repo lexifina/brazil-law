@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra provimento judicial assim fundamentado:
+    “Conheço os embargos infringentes, mas não lhes dou provimento pelas razões que seguem:
+    Não se justifica a movimentação da máquina judiciária, tão custosa e onerosa, para cobrança de valor tão pequeno sem compensação ao ônus estatal correspondente. Portanto, ausente a condição da ação executiva, qual seja, o interesse de agir, que justifica a extinção desta ação tal qual demonstrado na sentença combatida.
+    Diante disso, mantenho a decisão embargada, por seus próprios fundamentos.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º, 5º, XXXV, 156 e 158, da CF. Sustenta, em síntese, a impossibilidade de extinção de execução fiscal de ofício pelo Poder Judiciário, sob o fundamento de ausência de interesse, diante do valor executado.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “Segundo o artigo 102 da Constituição Federal, cabe Recurso Extraordinário nas "causas decididas em única ou última instância, quando a decisão recorrida: contrariar dispositivo desta Constituição; declarar a inconstitucionalidade de tratado ou lei federal; julgar válida lei ou ato de governo local contestado em face desta Constituição".
+    Não logrou o recorrente demonstrar o cabimento do Recurso Extraordinário.
+    Além do mais, "cumpre ressaltar que a suposta ofensa ao texto constitucional, acaso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria - para que se configurasse - a formulação de juízo prévio de legalidade fundado na vulneração e infringencia de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, ReI. Min. SIDNEY SANCHES – RTJ 132/455, ReI. Min. CELSO DE MELO), torna-se inviável o trânsito do recurso extraordinário. Finalmente, cabe enfatizar que a verificação da procedência, ou não, das alegações deduzidas pela parte recorrente implicará necessário reexame dos fatos e das provas existentes nos autos, circunstância esta que impede o conhecimento do apelo extremo, nos termos da Súmula 279/STF." (Agravo de Instrumento nº 448.552-5, São Paulo, 28.5.03, ReI. Celso de Mello, Colégio Recursal de Votuporanga, processos nºs. 664/01, 665/01 e 666/01, Comarca de Nhandeara-SP).
+    Pelas razões expostas, deixo de processar o recurso extraordinário interposto pela exequente.”
+    A pretensão recursal não merece prosperar, tendo em vista que a decisão agravada não admitiu o recurso aos fundamentos de que incide a Súmula 279/STF, bem como de que a parte não demonstrou hipótese de cabimento do recurso extraordinário. No agravo em exame, a parte limita-se a reproduzir as argumentações anteriormente deduzidas, olvidando de rebater os fundamentos utilizados para inadmitir o recurso. Nessas condições, é inadmissível o recurso. Confira-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. INVIABILIDADE DO AGRAVO INTERPOSTO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 826.281-AgR, Relª. Minª. Cármen Lúcia, Segunda Turma)
+    Ademais, a alegada ofensa à Constituição não foi apreciada pela decisão impugnada. Tampouco foram opostos embargos de declaração para sanar eventual omissão. Portanto, o recurso extraordinário carece de prequestionamento (Súmulas 282 e 356/STF).
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+     Brasília, 1º de agosto de 2018.
+Ministro Luís Roberto Barroso
+Relator
