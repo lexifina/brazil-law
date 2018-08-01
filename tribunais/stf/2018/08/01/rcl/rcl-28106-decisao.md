@@ -1,0 +1,30 @@
+RECLAMAÇÃO. ALEGAÇÃO DE AFRONTA À SÚMULA VINCULANTE 10. INEXISTÊNCIA DE AFASTAMENTO DE LEI OU ATO NORMATIVO COM BASE EM FUNDAMENTO CONSTITUCIONAL. ACÓRDÃO RECLAMADO FUNDAMENTADO EM DECISÃO PLENÁRIA DESTA CORTE. NEGO SEGUIMENTO.
+    Vistos etc.
+    Trata-se de reclamação constitucional, com pedido de liminar, fundada nos arts. 103-A, § 3º, da Constituição Federal e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, ajuizada por Jose Donizete de Almeida contra ato exarado pelo Tribunal de Justiça do Estado do Paraná, que supostamente teria contrariado o enunciado da Súmula Vinculante nº 10.
+    Narra a inicial que “a 2ª Câmara Criminal deixou de aplicar o artigo 617, do Código de Processo Penal, a partir de uma releitura do texto constitucional, isto é, reconhecendo a inconstitucionalidade do texto, sem respeitar, contudo, a cláusula de reserva de plenário”.
+    O Reclamante argumenta, em síntese, que o ato da Corte local, ao determinar a execução provisória da pena, violou frontalmente o enunciado contido na Súmula Vinculante nº 10, visto que, prolatado pela 2ª Câmara Criminal, afastou a incidência do art. 617 do Código de Processo Penal. Requer, em medida liminar, a suspensão do ato reclamado e a expedição do contramandado de prisão em favor do Reclamante. No mérito, pugna pela procedência da reclamação para cassar o ato impugnado.
+    Em 21.9.2017, indeferi o pedido de liminar.
+    O Ministério Público Federal, em parecer da Subprocuradora-Geral da República Cláudia Sampaio Marques, opina pela improcedência da reclamação.
+    É o relatório.
+    Decido.
+    A via estreita da reclamação constitucional (arts. 102, I, l, e 103-A, § 3º, da Constituição da República) pressupõe a ocorrência de usurpação de competência originária do Supremo Tribunal Federal, a desobediência a súmula vinculante ou o descumprimento de decisão desta Corte proferida no exercício de controle abstrato de constitucionalidade ou em controle difuso, desde que pertinente, nesta última hipótese, à mesma relação jurídica e às mesmas partes.
+    Há que verificar, portanto, a presença de uma dessas hipóteses, e com rigor, sob pena de desvirtuamento do instituto.
+    Extraio do enunciado da Súmula Vinculante nº 10:
+    “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de Tribunal que embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte.”
+    O comando do aludido verbete obriga que, na análise a respeito de possível ofensa ao seu conteúdo, esta Corte investigue se o afastamento de norma no caso concreto se deu em função de declaração explícita ou implícita de inconstitucionalidade. Assim, não é o mero ato de afastar a aplicabilidade do comando legal que implica contrariedade à súmula, mas fazê-lo com esteio em incompatibilidade, com o texto constitucional, mesmo que de forma não declarada.
+    A discussão posta, na presente reclamação, consiste em aferir, portanto, se a determinação da execução provisória da pena consiste no afastamento, por órgão fracionário, do art. 617 do Código de Processo Penal.
+    Por oportuno, colho do ato reclamado:
+    “(...).
+    Além do exposto, eis que mantida a condenação em regime inicial de cumprimento fechado, é de se determinar, de imediato, o início da execução provisória da pena aqui aplicada, de acordo com o novo entendimento proclamado pelo Colendo Supremo Tribunal Federal no dia 17 de fevereiro de 2016, ao julgar o Habeas Corpus 126.292-7.
+    Consoante o Relator Ministro Teori Zavascki, a manutenção da sentença penal condenatória pela segunda instância conclui a análise de fatos e provas que assentaram a culpa do condenado, o que possibilita o início da execução da pena. A presunção de inocência, para o d. Ministro, deve ser presumida até que seja prolatada a sentença penal, confirmada em segundo grau. Todavia, empós, exaure-se o referido princípio, até porque os recursos cabíveis da decisão de segundo grau, ao Superior Tribunal de Justiça ou Supremo Tribunal Federal, não mais se prestam a discutir fatos e provas, mas apenas matéria de direito.
+    No dizer do d. Ministro Teori Zavascki: “Ressalvada a estreita via da revisão criminal, é no âmbito das instâncias ordinárias que se exaure a possibilidade de exame dos fatos e das provas, e, sob esse aspecto, a própria fixação da responsabilidade criminal do acusado”; e “a presunção da inocência não impede que, mesmo antes do trânsito em julgado, o acórdão condenatório produza efeitos contra o acusado.””
+    A decisão hostilizada não envolveu declaração de inconstitucionalidade, explícita ou implicitamente . Assim, porque em absoluto declarada a inconstitucionalidade de lei ou de ato normativo, tampouco afastada a sua incidência, ainda que tacitamente.
+    Na espécie, o art. 617 do Código de Processo Penal não foi afastado por força de norma constitucional.
+    Nesse contexto, não há falar em afronta à Súmula Vinculante 10, uma vez que não houve afastamento do art. 617 do Código de Processo Penal, em razão de sua incompatibilidade com o texto constitucional.
+    Por outro lado, o art. 949, parágrafo único, do CPC/2015 dispõe que “Os órgãos fracionários dos tribunais não submeterão ao plenário ou ao órgão especial a arguição de inconstitucionalidade quando já houver pronunciamento destes ou do plenário do Supremo Tribunal Federal sobre a questão”. É o caso em questão. A decisão hostilizada foi fundamentada em precedente do Plenário desta Suprema Corte – HC 126.292, a dispensar a aplicação da cláusula de reserva de plenário, surgindo ausente ofensa à Súmula Vinculante nº 10.
+      Destaco, ainda, não ser possível conferir à reclamação a natureza de sucedâneo recursal ou de meio ensejador do reexame do conteúdo do ato reclamado, tampouco instrumento de uniformização.
+    Ante o exposto, nego seguimento à presente Reclamação (art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 1º de agosto de 2018.
+Ministra Rosa Weber
+Relatora
