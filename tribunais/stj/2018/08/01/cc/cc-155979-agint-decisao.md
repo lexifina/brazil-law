@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo interno interposto por VRG LINHAS AÉREAS S/A (GRUPO GOL) e GOL LINHAS ÁEREAS INTELIGENTES S.A, em face da decisão de fls. 215/216, da lavra deste signatário que não conheceu do presente conflito de competência.
+Na espécie, é um conflito positivo de competência, instaurado por VRG LINHAS AÉREAS S/A e GOL LINHAS AEREAS S/A, envolvendo o Juízo de Direito da 1.ª Vara Empresarial do Rio de Janeiro/RJ, no qual se processa a recuperação judicial da VARIG S/A e outros (arrematada pelas suscitantes), e o Juízo da 17ª Vara do Trabalho de São Paulo/SP, onde tramita a reclamatória trabalhista n.º 01422-2008.017.02.00-9, movida por [NOME].
+Em resumo, as arrematantes, ora suscitantes, sustentam que, apesar de existir decisão do juízo da recuperação judicial, declarando não ter havido a sucessão empresarial na hipótese, o magistrado trabalhista está lhe atribuindo a responsabilidade por obrigações das empresas do Grupo VARIG. Aduzem, nesse contexto, que "(..) há bloqueio nas contas das empresas Suscitantes para garantir as execuções, em alguns casos, na iminência de serem levantados os valores." (fls. 1/7)
+Em caráter liminar, pugna pelo sobrestamento do processo n.º 01422-2008.017.02.00-9, movida por [NOME], em trâmite no Juízo de Direito da 17ª Vara do Trabalho de São Paulo/SP, bem como a designação do Juízo de Direito da 1.ª Vara Empresarial do Rio de Janeiro/RJ para a apreciação de questões urgentes.
+No mérito, requer seja declarada a competência do Juízo da recuperação judicial.
+Às fls. 193/194, este signatário indeferiu o pedido liminar.
+Prestadas as informações (fls. 203/206), o MPF opinou pelo reconhecimento da competência do r. juízo da recuperação judicial. (fls. 209/212)
+Às fls. 215/216 este signatário não conheceu do presente conflito de competência.
+Irresignada, a ora agravante aponta, em resumo, que "(..) foi demonstrada a responsabilização da VRG por débitos da VARIG, e, bem assim, a REALIZAÇÃO DE PENHORA ATRAVÉS DO BACENJUD NAS CONTAS DAS SUSCITANTES." Acrescenta, outrossim, que "(..) a hipótese é de penhora efetivada e, assim, de iminente risco de liberação de valores, de modo que o valor constrito poderá ser imediatamente revertido em favor da parte exequente (mediante caução) antes mesmo do julgamento da impugnação recebida sem o efeito suspensivo."
+Ao final, pleiteia a reconsideração da decisão agravada ou sua apreciação pelo Colegiado. (fls. 223/230)
+É o relatório.
+Decide-se.
+1. Ante as razões expendidas no agravo interno, reconsidera-se a decisão monocrática anteriormente proferida, sendo de rigor, portanto, nova apreciação do presente conflito de competência.
+2. Esta Corte Superior assentou entendimento segundo o qual "o Juízo universal é o competente para a execução dos créditos apurados nas ações trabalhistas propostas em face da Varig S/A e da VRG Linhas Aéreas S/A (arrematante da UPV), sobretudo porque, no que se refere à arrematação judicial da UPV, ficou consignado em edital, nos termos da Lei 11.101/05, que sua transmissão não acarretaria a assunção de seu passivo".
+Nesse sentido, vale trazer a lume a ementa do acórdão exarado nos autos do AgRg no CC nº 112.638/RJ, de relatoria do Eminente Ministro João Otávio de Noronha, cuja matéria revela identidade com a espécie ora em apreço:
+PROCESSO CIVIL. AGRAVO REGIMENTAL. CONFLITO POSITIVO DE COMPETÊNCIA. JUÍZO DE DIREITO DE VARA EMPRESARIAL. JUÍZO FEDERAL. RECUPERAÇÃO JUDICIAL. EXECUÇÃO FISCAL. ALÇADA DA SEGUNDA SEÇÃO. ART. 9º, § 2º, IX, DO RISTJ. NULIDADE DE DECISÃO DO RELATOR. ARGUIÇÃO IMPRÓPRIA E DESCABIDA. ALIENAÇÃO DE UNIDADE PRODUTIVA, VIA LEILÃO JUDICIAL, NO PROCESSO DE RECUPERAÇÃO. AUSÊNCIA DE SUCESSÃO DO ARREMATANTE. ARTS. 60 E 141 DA LEI N. 11.101/2005. CONSTITUCIONALIDADE PROCLAMADA PELO STF (ADI N. 3.934-2/DF). CONFLITO CONHECIDO. COMPETÊNCIA DO JUÍZO DE DIREITO DA VARA EMPRESARIAL.
+(..) 3. O juízo responsável pela recuperação judicial detém a competência para dirimir todas as questões relacionadas, direta ou indiretamente, com tal procedimento, inclusive aquelas que digam respeito à alienação judicial conjunta ou separada de ativos da empresa recuperanda, diante do que prescrevem os arts. 6º, caput e § 2º, 47, 59 e 60, parágrafo único, da Lei n. 11.101/2005.
+4. Como consectário lógico e direto dos pressupostos e alcance da Lei de Recuperação de Empresas e Falência, o Supremo Tribunal Federal, no julgamento da ADI n. 3.934-2/DF, proclamou a constitucionalidade dos arts. 60 e 141 da referida lei.
+5. Decidido anteriormente pelo Juízo de Direito, nos autos da recuperação judicial, que o adquirente de unidade produtiva via alienação naquele processo não responderia pelas obrigações do devedor (art. 60, parágrafo único, da Lei n. 11.101/2005), tal deliberação sobrepõe-se a qualquer decisão sobre a matéria advinda de juízos diversos, sob pena de inibição do propósito tutelar e da operacionalidade do mencionado diploma legal.
+6. Agravo regimental desprovido.
+(AgRg no CC 112.638/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 10/08/2011, DJe 19/08/2011, grifado)
+No mesmo norte, os seguintes julgados:
+AGRAVO INTERNO NO CONFLITO POSITIVO DE COMPETÊNCIA - RECUPERAÇÃO JUDICIAL - EXECUÇÃO TRABALHISTA - COMPETÊNCIA DO JUÍZO FALIMENTAR - PRECEDENTES DO STJ - AGRAVO REGIMENTAL DESPROVIDO.
+1. O Juízo universal é o competente para a execução dos créditos apurados nas ações trabalhistas propostas em face da Varig S/A e da VRG Linhas Aéreas S/A (arrematante da UPV), sobretudo porque, no que se refere à arrematação judicial da UPV, ficou consignado em edital, nos termos da Lei 11.101/05, que sua transmissão não acarretaria a assunção de seu passivo.
+2. Competência do Juízo da Direito da 1ª Vara Empresarial do Rio de Janeiro, para o prosseguimentos das execuções trabalhistas.
+3. Agravo interno desprovido.
+(AgInt no CC 121.276/RJ, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 14/12/2016, DJe 08/02/2017)
+AGRAVO INTERNO NO CONFLITO POSITIVO DE COMPETÊNCIA SUSCITADO POR EMPRESA ARREMATANTE DA UNIDADE PRODUTIVA DA VARIG S/A EM FACE DE JUÍZOS DO TRABALHO E JUÍZO FALIMENTAR. COMPETÊNCIA DO JUÍZO FALIMENTAR.
+1. A execução individual trabalhista e a recuperação judicial apresentam nítida incompatibilidade concreta, porque uma não pode ser executada sem prejuízo da outra.
+2. O Juízo universal é o competente para a execução dos créditos apurados nas ações trabalhistas propostas em face da Varig S/A e da VRG Linhas Aéreas S/A (arrematante da UPV), sobretudo porque, no que se refere à arrematação judicial da UPV, ficou consignado em edital, nos termos da Lei n.º 11.101/05, que sua transmissão não acarretaria a assunção de seu passivo.
+3. Competência do Juízo da Direito da 1.ª Vara Empresarial do Rio de Janeiro, para o prosseguimentos das execuções trabalhistas.
+4. Agravo interno desprovido.
+(AgInt no CC 145.890/RJ, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 10/08/2016, DJe 16/08/2016)
+Examinando a documentação acostada aos autos - especialmente os documentos de fls. 229/230 (e-STJ) -, vê-se que o r. Juízo Laboral da 17ª Vara do Trabalho de São Paulo/SP se entende competente para prosseguir com a execução contra o acervo patrimonial da suscitante GOL LINHAS AÉREAS INTELIGENTES S.A., como sucessora do - e em razão de dívidas contraídas pelo - Grupo VARIG.
+Acrescente-se, por fim, a síntese do parecer exarado pelo ilustre representante do Ministério Público, juntado às fls. 209/212 (e-STJ):
+PROCESSUAL CIVIL. CONFLITO POSITIVO DE COMPETÊNCIA SUSCITADO POR EMPRESA ARREMATANTE DA UNIDADE PRODUTIVA DA VARIG S/A EM FACE DO JUÍZO TRABALHISTA. TEMA ACATADO PELO STF NO JULGAMENTO DO RE 583.955. PARECER PELO CONHECIMENTO DO CONFLITO PARA DECLARAR A COMPETÊNCIA DO JUÍZO UNIVERSAL.
+3. Do exposto, com amparo na jurisprudência acima colacionada, bem como no parecer ministerial, conhece-se do conflito para declarar a competência do juízo da 1ª Vara Empresarial do Rio de Janeiro/RJ.
+Publique-se. Intimem-se.
