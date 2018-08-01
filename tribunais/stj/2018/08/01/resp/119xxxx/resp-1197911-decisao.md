@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+EMBARGOS INFRINGENTES - Seguro habitacional - Defeitos de construção - Indenização - Insurgência a acórdão pelo qual, por maioria de votos, reconhecida prescrição ânua - Inadmissibilidade desse decisório - Danos no imóvel que se protraíram no tempo - Prescrição vintenária - Preenchimento dos requisitos do artigo 282 do Código de Processo Civil - Legitimidade de parte reconhecida - Ação ajuizada contra seguradora sucessora daquela com a qual celebrado referido contrato - Admissibilidade - Responsabilidade caracterizada - Legitimidade dos autores ao recebimento - Não incidência de multa decendial, haja vista aplicar-se tão-somente às relações jurídicas estabelecidas entre agente financiador e seguradora - Embargos infringentes parcialmente acolhidos.
+Nas razões do recurso especial, a recorrente alega violação dos artigos 206, § 1º, II, 476, 477, 757 e 760 do Código Civil, afirmando ser anual o prazo de prescrição; que "com o encerramento do contrato principal encerra-se o acessório"; e que "a Apólice de Seguros Habitacionais limita a cobertura, particularizando os riscos de seguro, não devendo a Companhia Seguradora responder por outros riscos".
+A parte recorrida interpôs recurso especial adesivo, a fim de que a recorrente seja condenada à "multa contratual no importe de 2% (dois por cento) por decêndio desde o recebimento da unidade habitacional".
+Merece reforma o acórdão recorrido, o qual foi publicado antes da entrada em vigor da Lei 13.105/2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Com efeito, o entendimento do Tribunal de origem não está de acordo com a jurisprudência desta Corte, segundo a qual o prazo de prescrição é anual para as ações propostas pelo segurado contra a seguradora. Confira-se:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO SECURITÁRIA POR VÍCIOS CONSTRUTIVOS - SEGURO HABITACIONAL - PRAZO PRESCRICIONAL ÂNUO - PRECEDENTES DO STJ. INCONFORMISMO DA SEGURADA.
+1. Acórdãos oriundos da mesma turma que apreciou o julgado embargado não são aptos a demonstrarem o dissídio jurisprudencial que enseja a admissão dos embargos de divergência.
+2. Aplica-se às ações ajuizadas por segurado/beneficiário em desfavor de seguradora, visando à cobertura de sinistro referente a contrato de mútuo celebrado no âmbito do Sistema Financeiro da Habitação - SFH, o prazo prescricional anual, nos termos do art. 178, § 6º, II, do Código Civil de 1916.
+3. Embargos de divergência parcialmente conhecidos e, nessa parte, desprovidos.
+(EREsp 1272518/SP, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 24/06/2015, DJe 30/06/2015)
+Em face do exposto, dou provimento ao recurso especial, a fim de considerar prescrita a pretensão. Custas e honorários pela parte autora em R$ 1.000,00 (mil reais) considerando-se suspensas as exigibilidades em caso de assistência judiciária gratuita.
+Por conseguinte, julgo prejudicado o recurso adesivo dos autores.
+Intimem-se.
