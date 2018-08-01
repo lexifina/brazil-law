@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME] em face de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina que deu provimento ao agravo em execução interposto pelo Ministério Público.
+Consta do autos que o Juízo das Execuções autorizou a saída antecipada em regime semiaberto em prisão domiciliar ao paciente, em determinadas condições, inclusive sob pena de regressão de regime, no caso de descumprimento (fls. 206-220).
+O Tribunal a quo deu provimento ao agravo em execução ministerial sob o fundamento de que o apenado encontrava-se cumprindo pena em local adaptado ao regime semiaberto e que não há hipóteses evidenciadas para o recolhimento do paciente em residência particular.
+Sustenta a impetrante que o paciente está submetido a constrangimento ilegal sendo impossível mantê-lo em estabelecimento inadequado ao regime semiaberto.
+Salienta que isso contraria a legislação, a jurisprudência consolidada do STJ e a Súmula vinculante nº 56/STF.
+Aduz que "na falta de estabelecimento adequado para o cumprimento da sanção penal, é vedado ao Estado transferir ao apenado a responsabilidade por sua inoperância, mantendo-o em local incompatível com os rigores do respectivo regime de pena. Nesse sentido, na falta de vagas em local adequado, deve o apenado cumprir provisoriamente sua pena em regime mais brando, e não no mais gravoso" (fl. 5).
+Requer que seja concedido ao paciente a prisão domiciliar, enquanto aguarda vaga no regime intermediário ou, subsidiariamente, que seja colocado em regime aberto, sem recolhimento, em virtude do excesso de execução e ante a falta de vaga em colônia agrícola, industrial ou estabelecimento similar - local destinado ao cumprimento da pena em regime semiaberto, conforme disposição prevista no art. 33, § 1º, b, do Código Penal.
+Indeferida a liminar (fl. 392) e prestadas as informações (fls. 396-442), manifestou-se o Ministério Público Federal pelo não conhecimento do habeas corpus (fls. 444-451).
+É o relatório.
+DECIDO.
+O Tribunal de origem negou provimento ao agravo em execução, mantendo a negativa da concessão de prisão domiciliar, nos seguintes termos (fls. 362-385):
+Pretende o Ministério Público do Estado de Santa Catarina a reforma quanto ao regime de resgate da sanção aplicada ao recorrido, uma vez que a Penitenciária Industrial de Joinville, local onde cumpria sua reprimenda corporal no modo semiaberto, constitui estabelecimento prisional adequado também para tal modalidade, e, de igual forma, não se amoldou às hipóteses do art. 117 da Lei 7.210/1984.
+Razão lhe assiste.
+Com efeito, sobre a questão, estabelece a Lei de Execução Penal:
+Art. 117. Somente se admitirá o recolhimento do beneficiário de regime aberto em residência particular quando se tratar de:
+I - condenado maior de 70 (setenta) anos;
+II - condenado acometido de doença grave;
+III - condenada com filho menor ou deficiente físico ou mental;
+IV - condenada gestante.
+Na conjuntura em apreço, verifica-se que o Magistrado, entre outras disposições, permitiu o resgate da pena privativa de liberdade ao reeducando em seu domicílio, porquanto inviável sua estada naquele ergástulo, ao ponderar a inexistência de compatibilidade com o regime semiaberto.
+ ..
+A despeito do entendimento adotado pelo Togado, inclusive referendado pelo Superior Tribunal de Justiça (vide, por exemplo, RHC 60.059/MG, rel. Min. Gurgel de Faria, j. 6-8-2015), segundo o qual a permanência do apenado em modo prisional mais rigoroso constitui constrangimento ilegal passível de censura judicial, a reflexão da matéria reiteradamente submetida à análise desta Corte permite concluir que a decisão objurgada não se revela oportuna ao contexto sob exame.
+Isso porque a concessão do regime em cárcere domiciliar submete-se ao rol taxativo - numerus clausus - do art. 117 da Lei 7.210/1984, além da progressão embasar-se em postulados norteadores do cumprimento gradual da reprimenda em execução, visando não somente a punição individual e coletiva, mas igualmente a ressocialização de quem ora está impedido de usufruir integralmente o direito constitucional à liberdade (Constituição Federal, art. 5o, caput), consoante a exegese do art. 112, caput, do referido dispositivo legal, assim redigido:
+A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos um sexto da pena no regime anterior e ostentar bom comportamento carcerário, comprovado pelo diretor do estabelecimento, respeitadas as normas que vedam a progressão.
+Outrossim, acrescenta o respectivo art. 1o:
+A execução penal tem por objetivo efetivar as disposições de sentença ou decisão criminal e proporcionar condições para a harmônica integração social do condenado e do internado.
+De igual forma, extraem-se os seguintes ensinamentos de [NOME]:
+20.3.1 Prisão Albergue domiciliar
+Estipula o art. 117 da Lei de Execução Penal que será recolhido em residência particular o condenado maior de setenta anos, o acometido de doença grave, e a que possua filho menor ou deficiente físico ou mental ou se for condenada gestante. Nessas situações, não há obrigação de trabalhar (art. 114, parágrafo único, LEP).
+Infelizmente, em muitos locais, na ausência de casa do albergado, passou-se a deferir a todo e qualquer condenado, sujeito ao regime aberto, o cumprimento da pena em sua própria residência (é a denominada prisão albergue domiciliar - PAD), o que não condiz com o objetivo da Lei de Execução Penal, mas é fruto da política desastrada do Estado no trato da questão (Manual de processo penal e execução penal. 14. ed. Rio de Janeiro: Forense, 2017, p. 998).
+Da mesma maneira:
+O cumprimento da pena deve ser concretizado em forma progressiva, passando-se do regime mais severo (fechado) aos mais brandos (semiaberto e aberto). A progressão deve contar dois fatores fundamentais: o cumprimento de pelo menos um sexto no regime anterior (requisito objetivo) e merecimento (requisito subjetivo) (Ibid., p. 991).
+Dessarte, constata-se que ao reeducando foi possibilitada a prisão em domicílio sem sequer enquadrar-se em algum dos incisos do art. 117 da LEP e, de igual forma, concedida anteriormente à passagem gradual pelo regime remanescente previsto no ordenamento jurídico, malgrado a nobre apreensão do Magistrado com a hodierna conjuntura do sistema prisional catarinense.
+ ..
+A propósito, não se desconhece o teor da Súmula Vinculante n. 56, recentemente editada pelo Pretório Excelso: "A falta de vagas em estabelecimento prisional não autoriza a manutenção do preso em regime mais gravoso, devendo-se observar, nessa hipótese, os parâmetros do Recurso Extraordinário 641.320". E a conclusão constante deste último, conforme
+consulta processual perante o website daquela Corte:
+ ..
+Averiguando os autos, extrai-se que o Magistrado deferiu a prisão domiciliar ao apenado sob o argumento de que a Penitenciária Industrial de Joinville é inapropriada ao resgate da reprimenda no regime semiaberto.
+Entretanto, segundo se depreende do relatório desta última unidade (fls. 21-64), destaca-se o estabelecimento em razão de trabalhos exemplares prestados aos reeducandos, visando a efetiva reinserção gradual ao convívio em sociedade, haja vista o resgate da pena em conformidade com os ditames da Lei de Execução Penal.
+Além disso, a orientação extraída do precedente que deu origem à referida súmula vinculante e dos julgados supra indicados é no sentido de que são consideradas adequadas entidades que, embora não possuam a denominação de "colônia agrícola, industrial" (regime semiaberto), permitam que o apenado usufrua tanto dos direitos quanto dos benefícios inerentes ao regime intermediário, podendo-se citar a possibilidade de trabalho externo, saídas temporárias e qualificação profissional, além de estrutura diferenciada.
+Também assim, apreciou este Sodalício irresignações semelhantes oriundas da comarca de origem:
+ ..
+Ademais, antes de conceder a prisão domiciliar com fundamento no entendimento sumulado, deve o Magistrado contatar o Departamento de Administração Prisional para se certificar de que, realmente, não existe nenhuma vaga em outro estabelecimento estadual.
+Nota-se que o órgão administrativo referido, o qual administra a realocação de presos, tem legitimidade para indicar onde há acomodações em suas instituições. Assim, não parece competir ao Togado mencionar a ausência de lugares em outras prisões que não sejam as de sua jurisdição quando não possui informação recente do DEAP neste sentido.
+Logo, é de ser revogada a medida que propiciou ao agravado o recolhimento em residência particular, não obstante os argumentos utilizados para a sua outorga, uma vez que a unidade carcerária em que se encontrava assegurava-lhe satisfatoriamente o implemento da sanção no regime médio.
+Prejudicados, portanto, os demais pedidos subsidiários formulados pelo agravante.
+Por outro lado, quanto ao pleito veiculado em contrarrazões acerca do prequestionamento do art. 33, §1º, alínea "c", do Código Penal e art. 91 da Lei de Execuções Penais, é sabido que o julgador, encontradas razões outras para denegar ou acolher o pleito, está desobrigado de enfrentar, de modo exauriente,
+todos os argumentos relativos à tese sob debate, notadamente se suficientes os já consignados. Nesse sentido:
+ ..
+Desse modo, desnecessário enfrentamento explícito no ponto.
+Ante o exposto, o voto é no sentido de conhecer do recurso e dar-lhe provimento para revogar a prisão domiciliar concedida ao reeducando [NOME] e, por conseguinte, determinar o seu retorno ao resgate da pena corporal na Penitenciária Industrial de Joinville.
+Acerca do tema, a jurisprudência desta Corte entende que, inexistindo vagas em estabelecimento prisional adequado ao regime intermediário, deve ser deferido, ao apenado, excepcionalmente, o cumprimento da pena em regime menos gravoso - aberto -, ou, ainda, persistindo a falta de vaga, deve lhe ser concedida prisão domiciliar, até o surgimento de vagas no regime prisional apropriado. (HC 318.765/AC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 02/08/2016, DJe 10/08/2016; AgRg no HC 354.712/AP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 19/05/2016, DJe 07/06/2016)
+Ocorre que, no caso vertente, consoante assentado pelas instâncias ordinárias o paciente cumpre pena em local adaptado ao regime semiaberto, pois, "extrai-se que o Magistrado deferiu a prisão domiciliar ao apenado sob o argumento de que a Penitenciária Industrial de Joinville é inapropriada ao resgate da reprimenda no regime semiaberto. Entretanto, segundo se depreende do relatório desta última unidade (fls. 21-64), destaca-se o estabelecimento em razão de trabalhos exemplares prestados aos reeducandos, visando a efetiva reinserção gradual ao convívio em sociedade, haja vista o resgate da pena em conformidade com os ditames da Lei de Execução Penal"(fl. 382).
+Com efeito, entende este Superior Tribunal de Justiça que, na ausência de vaga em estabelecimento destinado ao cumprimento da pena em regime semiaberto e aberto, o resgate da reprimenda em local similar, garantidos os benefícios próprios do regime de cumprimento da pena, não configura constrangimento ilegal, pois o apenado não se encontra sujeito a regime mais gravoso. Nesse sentido: AgRg no HC 353.895/SC, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 07/06/2016, DJe 13/06/2016; AgRg no HC 323.636/AC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 10/11/2015, DJe 17/11/2015; HC 299.316/RS, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 21/10/2014, DJe 04/11/2014.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
