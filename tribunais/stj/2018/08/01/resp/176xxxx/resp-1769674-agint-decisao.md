@@ -1,0 +1,11 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. RETROATIVIDADE DA NORMA. TERMO INICIAL DO ATO REPUTADO COMO ÍMPROBO. DECISÃO AGRAVADA RECONSIDERADA (ART. 259, § 6º, do RISTJ) PARA TORNÁ-LA SEM EFEITO E DETERMINAR A AUTUAÇÃO EM RECURSO ESPECIAL (ART. 253, II, D, DO RISTJ).
+DECISÃO
+Trata-se de agravo interno interposto por [NOME] em face de decisão monocrática deste Relator, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. CORRETA IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. IMPROBIDADE ADMINISTRATIVA. OFENSA A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE ANÁLISE NA VIA RECURSAL ELEITA. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. FALTA DE INDICAÇÃO DE DISPOSITIVOS TIDOS COMO VIOLADOS. SÚMULA 284/STF POR APLICAÇÃO ANALÓGICA. OFENSA AO ART. 476, II, DO NOVO CPC. FALTA DE PREQUESTIONAMENTO EMBORA OPOSTOS ACLARATÓRIOS. SÚMULA 211/STJ. ACÓRDÃO QUE, COM BASE NO CONJUNTO FÁTICO E PROBATÓRIO CONSTANTE DOS AUTOS, CONCLUIU PELA PRÁTICA DA CONDUTA APÓS A VIGÊNCIA DA LEI Nº 8429/92. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO CONHECIDA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+O agravante alega, em síntese: a) erro material relativo ao período de pagamento dos tickets alimentação; b) desnecessidade do reexame de matéria fático-probatório contido nos autos, por se tratar de questão unicamente de direito, o que afastaria a incidência da Súmula 7/STJ; c) impossibilidade de aplicação retroativa da Lei 8.429/92; d) inaplicabilidade dos demais óbices processuais. Requer a reconsideração da decisão agravada ou o julgamento colegiado da controvérsia.
+O Ministério Público Federal e o Ministério Público do Estado de São Paulo apresentaram impugnação (fls. 3.250/3.253 e 3.257/3.266, respectivamente)
+É o relatório.
+Verifica-se que os argumentos aduzidos nas razões do agravo interno revelam-se plausíveis no sentido de exigir melhor análise do recurso especial no âmbito da Segunda Turma desta Corte Superior.
+Ante o exposto, preenchidos os requisitos de admissibilidade recursal do agravo interno, reconsidero a decisão agravada para torná-la sem efeito, nos termos do art. 259, § 6º, do RISTJ e determino a autuação como recurso especial (art. 253, II, d, do RISTJ).
+Publique-se. Intimem-se.
