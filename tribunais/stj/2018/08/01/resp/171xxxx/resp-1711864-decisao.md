@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, alínea "a", da CF, contra acórdão do TJSP, assim ementado (e-STJ fl. 210):
+CONTRATO BANCÁRIO. DECLARATÓRIA DE INEXIGIBILIDADE DE DÍVIDA CUMULADA COM DANO MORAL. NEGATIVAÇÃO INDEVIDA. DANO MORAL CONFIGURADO. APONTAMENTOS ANTERIORES, CUJA EXISTÊNCIA E LEGITIMIDADE SÃO OBJETO DE DISCUSSÃO JUDICIAL. INDENIZAÇÃO DEVIDA. INAPLICABILIDADE DA SÚMULA 385, DO SUPERIOR TRIBUNAL DE JUSTIÇA. READEQUAÇÃO DE VALOR ARBITRADO A TÍTULO DE DANO MORAL. ARBITRAMENTO SEGUNDO OS DITAMES DA PRUDÊNCIA A EVITAR ENRIQUECIMENTO SEM CAUSA. SENTENÇA REFORMADA NO "QUANTUM" INDENIZATÓRIO. RECURSO DO AUTOR PROVIDO EM PARTE. DESPROVIDO O DA INSTITUIÇÃO FINANCEIRA RÉ.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 225/227).
+Nas razões apresentadas (e-STJ fls. 229/242), o recorrente aponta violação dos arts. 14, § 3º, II, do CDC e 188, I, e 944, parágrafo único, do CC/2002, além da infringência à Súmula n. 385/STJ. Sustentou, em síntese: (a) excludente de culpabilidade, por culpa exclusiva de terceiro, (b) ausência de responsabilidade, (c) não configuração do dano, (d) necessidade de readequação do valor fixado na origem em R$ 10.000,00 (dez mil reais) e (e) existência de outras anotações no cadastro de proteção ao crédito.
+Foram apresentadas contrarrazões (e-STJ fls. 264/279).
+O recurso foi admitido na origem (e-STJ fls. 283/284).
+É o relatório.
+Decido.
+Em relação à suposta afronta à Súmula n. 385/STJ, segundo a jurisprudência deste Tribunal, é incabível a interposição de recurso especial com fundamento em violação de súmula, por não se enquadrar no conceito de lei federal, a teor do que dispõe o art. 105, III, da CF.
+No mais, concernente à alegada ausência de configuração de danos morais seja pela existência de culpa exclusiva de terceiro, seja pela inexistência de conduta ilícita, verifica-se a pretensão do reexame dos elementos probatórios dos autos, mormente quando o Tribunal de origem assim se manifestou (e-STJ fl. 211):
+Incontroverso a negativação indevida do apelado.
+Da leitura dos autos verifica-se que o réu não juntou aos autos cópia do aludido contrato, de sorte que não demonstrou a existência do referido débito. Cabia a ele demonstrar que os pagamentos efetuados não se referiam ao crédito negativado, contudo, inexistem provas neste sentido.
+Portanto, é totalmente indevido o apontamento realizado pelo apelante em desfavor do apelado, devendo o prejuízo moral ser compensado.
+O acórdão recorrido, com base nos elementos de provas, concluiu pela prática de ato ilícito por parte do recorrente, uma vez que não teria demonstrado a existência do débito. Divergir desse entendimento é inviável no âmbito do recurso especial, a teor da Súmula n. 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+Ademais, mesmo que superado esse óbice, segundo jurisprudência assente nesta Casa, a inscrição indevida no cadastro de inadimplente enseja a reparação por danos morais, independentemente da prova efetiva de prejuízo, porque se trata de inequívoco dano in re ipsa. A esse respeito:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CADASTRO DE INADIMPLENTES. INSCRIÇÃO INDEVIDA. ATO ILÍCITO. DANO MORAL IN RE IPSA. REDUÇÃO DA INDENIZAÇÃO. RAZOABILIDADE NA FIXAÇÃO DO QUANTUM. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Consoante a jurisprudência desta Corte, "nos casos de protesto indevido de título ou inscrição irregular em cadastros de inadimplentes, o dano moral se configura in re ipsa, isto é, prescinde de prova, ainda que a prejudicada seja pessoa jurídica" (REsp n. 1.059.663/MS, Relatora Ministra NANCY ANDRIGHI, DJe 17/12/2008).
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ.
+3. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice, para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal de origem não se mostra excessivo.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 671.711/SP, de minha Relatoria, QUARTA TURMA, julgado em 6/9/2016, DJe 12/9/2016.)
+Aplica-se, portanto, o óbice da Súmula n. 83/STJ ao recurso.
+Por outro lado, em relação ao valor indenizatório arbitrado, somente em hipóteses excepcionais, quando manifestamente irrisória ou exorbitante a indenização fixada a título de dano moral, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7/STJ para possibilitar sua revisão. A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LEGITIMIDADE DO BANCO. ENDOSSO-MANDATO. PROTESTO INDEVIDO. CONDUTA CULPOSA.
+DUPLICATA SEM ACEITE E SEM COMPROVANTES DE ENTREGA DA MERCADORIA OU DO SERVIÇO PRESTADO. DANO MORAL. PROTESTO INDEVIDO. DANO IN RE IPSA. REVISÃO DE VALOR. SÚMULA 7/STJ. INCIDÊNCIA.
+(..)
+3. Acrescente-se que a revisão do julgado, no sentido de que o protesto era devido, demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ, que dispõe: "A pretensão de simples reexame de prova não enseja recurso especial."
+4. A jurisprudência desta Corte é firme no sentido da desnecessidade, em hipóteses como a dos autos, de comprovação do dano moral, que decorre do próprio fato da inscrição indevida em órgão de restrição ao crédito, operando-se in re ipsa.
+5. O entendimento deste Sodalício é pacífico no sentido de que o valor estabelecido pelas instâncias ordinárias a título de indenização por danos morais pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso. Desse modo, uma vez que o valor estabelecido a título de reparação por danos morais não se apresenta ínfimo ou exagerado, à luz dos critérios adotados por esta Corte, a sua revisão fica obstada pelo enunciado da Súmula 7 do STJ.
+6. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 179.301/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 27/11/2012, DJe 18/12/2012.)
+O Tribunal a quo, considerando as peculiaridades do caso em questão, fixou a indenização em R$ 10.000,00 (dez mil reais), quantia que não se afigura excessiva tampouco discrepante a ponto de ensejar a intervenção deste Superior Tribunal.
+Destaca-se, ainda, que "o STJ firmou entendimento no sentido de ser incabível o reexame do valor fixado a título de danos morais com base em divergência jurisprudencial, pois, ainda que haja semelhança de algumas características nos acórdãos confrontados, cada qual possui peculiaridades subjetivas e contornos fáticos próprios, o que justifica a fixação do quantum indenizatório distinto" (AgRg no AREsp n. 515.363/PB, de minha relatoria, QUARTA TURMA, julgado em 23/9/2014, DJe 30/9/2014). Dessa forma:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1. DANO MORAL. REVISÃO DO VALOR. MONTANTE RAZOÁVEL. MODIFICAÇÃO. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. 2. DISSÍDIO JURISPRUDENCIAL. IMPOSSIBILIDADE. 3. AGRAVO IMPROVIDO.
+1. De acordo com a jurisprudência do Superior Tribunal de Justiça, a modificação da indenização por danos morais somente é admissível quando o montante estabelecido na origem for excessivo ou irrisório, de forma a violar os princípios da proporcionalidade e da razoabilidade. Na espécie, o Tribunal de Justiça diminuiu a verba indenizatória para o patamar de R$ 10.000,00 (dez mil reais), tendo em vista, em especial, o porte econômico da empresa recorrida. Desse modo, inviável alterar o valor fixado sem esbarrar na redação do enunciado n. 7 da Súmula desta Casa. Precedentes.
+2. Ademais, "tratando-se de danos morais, é incabível a análise do recurso com base na divergência pretoriana, pois, ainda que haja grande semelhança nas características externas e objetivas, no aspecto subjetivo, os acórdãos são distintos" (AgRg no AREsp n. 528.943/MS, Relator o Ministro João Otávio de Noronha, DJe 30/9/2014).
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 592.848/DF, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 4/12/2014, DJe 15/12/2014.)
+Finalmente, no caso concreto, a parte recorrida reconhece a existência de outras anotações no cadastro de proteção ao crédito, contudo, o Tribunal de origem entendeu pela inaplicabilidade da Súmula n. 385 do STJ ao argumento de que "os apontamentos distintos anteriores aos discutidos nesta demanda são todos objeto de ação judicial, não se podendo afirmar legítimos." (e-STJ fls. 211/212)
+Tal conclusão está em consonância com a jurisprudência desta Corte Superior, como pode-se observar do seguinte precedente de minha relatoria:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INSCRIÇÃO EM ÓRGÃOS DE RESTRIÇÃO AO CRÉDITO. DANOS MORAIS. SÚMULA N. 385/STJ. INAPLICABILIDADE. RECURSO MANIFESTAMENTE IMPROCEDENTE. IMPOSIÇÃO DE MULTA. ART. 557, § 2º, DO CPC.
+1. Inaplicável a Súmula n. 385 do STJ quando o Tribunal de origem conclui que as demais restrições de crédito existentes em nome do autor também são indevidas e decorrentes da mesma fraude.
+2. A interposição de recurso manifestamente inadmissível ou infundado autoriza a imposição de multa com fundamento no art. 557, § 2º, do CPC.
+3. Agravo regimental desprovido com a condenação da agravante ao pagamento de multa no percentual de 5% (cinco por cento) sobre o valor corrigido da causa, ficando condicionada a interposição de qualquer outro recurso ao depósito do respectivo valor (art. 557, § 2º, do CPC).
+(AgRg nos EDcl no AREsp n. 262.279/MG, minha relatoria, QUARTA TURMA, julgado em 27/8/2013, DJe 4/4/2013.)
+Ainda no que concerne à Súmula n. 385/STJ, a jurisprudência desta Corte se consolidou no sentido de sua inaplicabilidade nas ações propostas em face do credor. Desse modo:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS. INSCRIÇÃO EM CADASTRO DE PROTEÇÃO AO CRÉDITO. AÇÃO PROPOSTA CONTRA O CREDOR. VERBETE SUMULAR Nº 385/STJ. INAPLICABILIDADE.
+1. A aplicação da Súmula nº 385 desta Corte se restringe às hipóteses em que a indenização é pleiteada contra órgão mantenedor de cadastro de proteção ao crédito que anota o nome do devedor no cadastro sem o envio da comunicação prévia prevista no artigo 43, § 2º, do Código de Defesa do Consumidor.
+2. Agravo regimental não provido.
+(AgRg no REsp n. 1.500.112/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 16/4/2015, DJe 23/4/2015.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS. INSCRIÇÃO INDEVIDA EM CADASTRO DE PROTEÇÃO AO CRÉDITO. EXISTÊNCIA DE INSCRIÇÕES ANTERIORES. IRRELEVÂNCIA. HIPÓTESE EM QUE NÃO SE APLICA A SÚMULA 385/STJ. QUANTUM INDENIZATÓRIO RAZOÁVEL. SÚMULA 7/STJ.
+1. A incidência da Súmula 385 do Superior Tribunal de Justiça somente é aplicável às hipóteses em que a indenização é pleiteada em face do órgão mantenedor do cadastro de proteção ao crédito, que deixa de providenciar a notificação prevista no art. 43, § 2º, do CDC antes de efetivar a anotação do nome do devedor no cadastro.
+Precedentes.
+2. O entendimento pacificado no Superior Tribunal de Justiça é de que o valor estabelecido pelas instâncias ordinárias a título de indenização por danos morais pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso.
+3. Nesse contexto, a revisão do julgado encontra óbice na Súmula 7/STJ, por demandar o vedado revolvimento de matéria fático-probatória.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 364.115/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/11/2013, DJe 11/12/2013.)
+Ante o exposto, NEGO PROVIMENTO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
