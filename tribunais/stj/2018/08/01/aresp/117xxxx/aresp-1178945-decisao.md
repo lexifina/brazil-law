@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face do acórdão assim ementado (e-STJ, fl. 570):
+Compromisso de compra e venda de unidade condominial em construção junto ao incorporador. Atraso. Rescisão contratual. Pedido de restituição dos valores pagos. Sentença de parcial procedência. irresignação. Não acolhimento. O apelante tem legitimidade para a causa. Em razão da falência da vendedora e incorporadora originária, assumiu a obrigação de dar continuidade ao empreendimento e, via de consequência, a de devolver as quantias até então pagas. Sentença mantida. Recurso desprovido.
+Nas razões do recurso especial, aponta a agravante divergência jurisprudencial, sob a alegação de que eventual crédito do adquirente da unidade imóvel é de responsabilidade da incorporadora, mesmo quando a comissão de representantes assume a obrigação de dar continuidade ao empreendimento, em razão da falência da incorporadora.
+Assim posta a questão, verifico que o acórdão recorrido diverge da orientação firmada na jurisprudência desta Corte. Para esta, as comissões constituídas por adquirentes de unidades habitacionais com o objetivo de concluir as obras interrompidas após a falência da contrutora não se sub-rogam nos direitos e obrigações da massa falida.
+Confiram-se, a propósito, os seguintes julgados:
+RECURSO ESPECIAL. INCORPORAÇÃO. EMPREENDIMENTO NÃO CONCLUÍDO. FALÊNCIA. ENCOL S.A. CONDOMÍNIO FORMADO POR ADQUIRENTES PARA CONCLUSÃO DA OBRA. UNIDADE DE PROMITENTE COMPRADOR NÃO ADERENTE. ART. 535 DO CPC/1973. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRELIMINARES. PRESCRIÇÃO. VIOLAÇÃO DE COISA JULGADA. NÃO DEMONSTRAÇÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. SUB-ROGAÇÃO DO CONDOMÍNIO NOS DIREITOS E OBRIGAÇÕES DA ENCOL. INEXISTÊNCIA. RESPONSABILIDADE CIVIL. CONFIGURAÇÃO. ART. 63 DA LEI Nº 4.591/1964. PROCEDIMENTO PREVISTO. INOBSERVÂNCIA.
+(..)
+3. Consoante a jurisprudência desta Corte, as comissões constituídas por adquirentes de unidades habitacionais com o objetivo de concluir as obras interrompidas após a falência da construtora Encol S.A. não se sub-rogam nos direitos e obrigações da massa falida. Diante da falência da incorporadora, os promitentes compradores das unidades inacabadas possuem como alternativas (a) aderir à Comissão de Representantes e contribuir para a finalização do empreendimento imobiliário ou (b) habilitar seus respectivos créditos no processo falimentar.
+(..)
+(REsp 1573595/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/11/2017, DJe 30/11/2017)
+RECURSO ESPECIAL. INCORPORAÇÃO. EMPREENDIMENTO NÃO CONCLUÍDO. FALÊNCIA. ENCOL S/A. CONDOMÍNIO FORMADO POR ADQUIRENTES PARA CONCLUSÃO DA OBRA. ADJUDICAÇÃO. UNIDADES. ESTOQUE. UNIDADE DE PROMITENTE COMPRADOR NÃO ADERENTE. AUSÊNCIA DE VIOLAÇÃO AO ARTIGO 535 DO CPC/1973. ART. 460, CPC/73. PREQUESTIONAMENTO. SUCESSÃO. SUB-ROGAÇÃO DO CONDOMÍNIO NOS DIREITOS E OBRIGAÇÕES DA ENCOL.
+INEXISTÊNCIA. RECURSO ESPECIAL DESPROVIDO.
+(..)
+5. Diante da decretação da falência da incorporadora Encol S/A - Engenharia, Comércio e Indústria, e constituída comissão formada por adquirentes de unidades habitacionais destinada a concluir a correspondente obra, o condomínio ou os promitentes compradores não se sub-rogam nos direitos e obrigações da falida.
+6. Não merece acolhida a pretensão do promitente comprador - que não aderiu ao acordo para conclusão da obra - de exigir do condomínio o cumprimento do contrato de promessa de compra e venda originalmente firmado com a incorporadora.
+7. Recurso especial desprovido.
+(REsp 1049370/GO, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/08/2017, DJe 08/09/2017)
+No caso dos autos, a parte agravada postulou a devolução dos valores pagos, em ação em face da comissão de representantes do condomínio e da massa falida da construtora. Os réus foram condenados solidariamente à devolução do preço pago. A comissão, entretanto, não tem legitimidade passiva, conforme os precedentes citados.
+Com efeito, não se pode impor responsabilidade por ato para o qual não concorreu a comissão, que também busca minimizar o prejuízo decorrente da interrupção das obras. Ao adquirente prejudicado resta habilitar seu crédito perante a massa falida, a qual, no presente caso, já foi condenada.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial, a fim de declarar a ilegitimidade da agravante para a devolução dos valores adiantados pela parte agravada/adquirente à construtora.
+Intimem-se.
