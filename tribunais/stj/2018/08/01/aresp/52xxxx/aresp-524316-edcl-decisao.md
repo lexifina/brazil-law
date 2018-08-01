@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela Caixa de Previdência dos Funcionários do Banco do Brasil - Previ contra decisão mediante a qual neguei provimento ao agravo por ela interposto, por considerar que o acórdão recorrido determinou a inclusão da 13ª cesta alimentação, na fase de cumprimento de sentença, como mera consequência do acolhimento da pretensão do acréscimo dessa parcela aos proventos complementares pelo título judicial, fundamento, ademais, sequer ventilado nas razões do especial apresentado pela Previ.
+Afirma a embargante que a legislação de regência de regime fechado de previdência complementar não admite a concessão de benefício algum, sem a prévia formação da fonte de custeio necessária ao pagamento, de forma a evitar o desequilíbrio financeiro e atuarial do plano de benefícios.
+Os embargados não apresentaram impugnação (fl. 388).
+Sem pertinência alguma as alegações da embargante. E isso porque, conforme demonstrei na decisão embargada, o Tribunal de origem, ao examinar agravo de instrumento interposto contra a decisão proferida na fase de cumprimento de sentença, entendeu que a inclusão nos proventos de complementação da 13ª cesta-alimentação aos proventos de complementação de aposentadoria constitui-se em consequência do acolhimento da pretensão do acréscimo dessa parcela aos proventos complementares, tema que não foi sequer abordado nas razões do especial da Previ.
+Diante disso, as alegações relativas à ausência de prévia formação de fonte de custeio e desequilíbrio financeiro e atuarial do plano de benefícios são estranhas ao tema examinado pela decisão embargada.
+Concluo, pois, que a embargante pretende, não a correção dos vícios referidos no art. 535 do CPC/1973, correspondente ao art. 1.022 do CPC/2015, mas a modificação da conclusão da decisão embargada, o que é incompatível com a natureza dos embargos de declaração.
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
