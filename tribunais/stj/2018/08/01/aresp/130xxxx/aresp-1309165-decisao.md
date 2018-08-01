@@ -1,0 +1,32 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. PRESUNÇÃO DE VERACIDADE DOS FATOS QUE O RECORRIDO PRETENDIA PROVAR. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO E PROBATÓRIO. SÚM. 7/STJ. AGRAVO CONHECIDO PARA SE NEGAR CONHECIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial de ESTADO DE MINAS GERAIS fundado na alínea "a" do permissivo constitucional interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+EMENTA: APELAÇÕES CÍVEIS - REEXAME NECESSÁRIO DE OFÍCIO - SERVIDOR PÚBLICO - PROFESSOR DE EDUCAÇÃO BÁSICA - ESTADO DE MINAS GERAIS - ADICIONAL NOTURNO - DETERMINAÇÃO JUDICIAL PARA APRESENTAÇÃO DE DOCUMENTO - DESCUMPRIMENTO - APLICABILIDADE DO ART. 359, DO CPC/73 - ART. 39, § 3º E ART. 7º, INCISO IX, AMBOS DA CONSTITUIÇÃO FEDERAL - LEI ESTADUAL Nº 10.745/92 - DIREITO À PERCEPÇÃO - REFLEXOS - HONORÁRIOS ADVOCATÍCIOS - MANUTENÇÃO.
+- Omitindo-se o Réu no cumprimento de reiteradas determinações judiciais para exibir documento comprobatório da carga horária efetivamente laborada pela Autora e se foi feita em horário noturno, revela-se correta a aplicação da norma legal do art. 359 do CPC.
+- Restando comprovado o labor da professora em parte do período compreendido entre 22h de um dia e 05h do dia seguinte, é devido o adicional noturno, conforme art. 39, § 3º e art. 7º, inciso IX, ambos da Constituição Federal e art. 12 da Lei Estadual nº 10.745/92.
+- Tratando-se o adicional noturno de parcela tipicamente remuneratória, mostra acertada a sentença ao determinar sua incidência sobre o décimo terceiro salário e férias, uma vez que compõe a remuneração que é paga habitualmente ao servidor.
+No recurso especial, a parte recorrente aponta violação do art. 359, I, do CPC/1973, alegando não ter se quedado inerte quanto à determinação judicial de exibição de documento, destarte, seria indevida a presunção de veracidade aplicada aos fatos que o recorrido pretendia provar.
+Não houve contrarrazões.
+Sobreveio juízo negativo de admissibilidade fundado na necessidade de revolvimento do acervo fático e probatório.
+Insurge a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial reúne condições de ser processado.
+Houve contraminuta pela parte agravada (e-STJ fls. 152/154).
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Conheço do agravo, porquanto refutada a motivação utilizada no juízo de admissibilidade.
+A insurgência não prospera.
+A parte recorrente aponta violação do art. 359, I, do CPC/1973, alegando não ter se quedado inerte quanto à determinação judicial de exibição de documento, destarte, seria indevida a presunção de veracidade aplicada aos fatos que o recorrido pretendia provar.
+A Corte de origem dirimiu a controvérsia ao assentar que a recorrente deixou de atender a determinação judicial de apresentação dos espelhos de ponto da recorrida e, portanto, é adequada a admissão dos fatos alegados pela parte contrária como verdadeiros (e-STJ fl. 79):
+Verifica-se nos autos que foram feitas duas intimações do Apelante (fls. 25 e 29) para que o mesmo apresentasse os espelhos de ponto da Autora/Apelada, dos cinco anos anteriores à propositura da ação afim de que fosse comprovada a carga horária efetivamente laborada pela Requerente e se foi feita em horário noturno. A determinação não foi atendida, haja vista que o Apelante apenas se limitou a informar que seria necessário intimar diretamente o órgão competente e que ele, Estado de Minas Gerais, já havia tomado as providências administrativas ao seu alcance (fls. 26/28).
+Ora, nos exatos termos do art. 359,1, do CPC, deixando uma parte de atender à determinação judicial de exibição de documento, o julgador deve admitir como verdadeiros os fatos que a outra parte pretendia comprovar por meio do documento sonegado. Desse modo, se o Apelante não atendeu à mencionada determinação, revela-se correto aplicar a sanção processual prevista na norma citada. Neste aspecto, não há reparo a ser feito na sentença.
+ Destarte, haja vista o excerto do acórdão acima transcrito, torna-se irrefragável a conclusão de que a pretensão recursal demanda revolvimento do conjunto fático e probatório constantes dos autos para aferir se a recorrente deixou de cumprir a determinação judicial, o que é inviável a teor da Súm. 7/STJ. A propósito:
+CONSUMIDOR E PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. SERVIÇO DE TELEFONIA MÓVEL. PRESTAÇÃO DEFICIENTE. SENTENÇA QUE SE BASEIA EM LAUDO DA ANATEL. ART. 333, II, DO CPC. AUSÊNCIA DE CONTESTAÇÃO A CONTENTO. INVERSÃO DO ÔNUS DA PROVA. POSSIBILIDADE. REQUISITOS AUTORIZADORES. REVISÃO. SÚMULA 7/STJ. JULGAMENTO ANTECIPADO DA LIDE COM DISPENSA DE PRODUÇÃO DE PROVA. CERCEAMENTO DE DEFESA AFASTADO PELO TRIBUNAL DE ORIGEM. REEXAME. SÚMULA 7/STJ. CONDENAÇÃO A DANO MORAL COLETIVO. POSSIBILIDADE. COMPROVAÇÃO. REEEXAME. SÚMULA 7/STJ. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DAS HIPÓTESES PREVISTAS DO ART. 535 DO CPC. PRETENSÃO DE REEXAME E ADOÇÃO DE TESE DISTINTA.
+(..)
+3. Na hipótese dos autos, as instâncias ordinárias consideraram que a empresa TIM CELULAR S.A., em contestação, não infirmou a contento o relatório produzido pela agência reguladora que instruiu a inicial, deixando de apontar a existência de fato impeditivo, modificativo ou extintivo do direito do autor, nos termos do art.
+333, II, do CPC. Afirmaram, ainda, a notoriedade dos fatos alegados na inicial da ação civil pública que, nos termos do inciso I do art.
+334 do CPC, não dependem de prova, tampouco aqueles em cujo favor milita presunção legal de existência ou de veracidade.
+4. A alteração das premissas fáticas consideradas pela Corte de origem ou mesmo a análise acerca da existência dos requisitos autorizadores da inversão do ônus probatório demandaria análise do material fático-probatório dos autos, o que esbarra no óbice da Súmula 7/STJ.
+(..)
+(EDcl no AgRg no REsp 1526946/RN, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 05/11/2015, DJe 13/11/2015)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
