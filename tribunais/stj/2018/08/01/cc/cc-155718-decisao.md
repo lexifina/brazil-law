@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de conflito de competência entre o JUÍZO DE DIREITO DA 1ª VARA DE IGUAPE, o suscitante, e o JUÍZO DA VARA DO TRABALHO DE REGISTRO/SP, o suscitado.
+Consta dos autos que foi proposta ação trabalhista por JUCIMAR IZATO LOPES, contratada para exercer a função de auxiliar de serviços gerais, em 06/10/2014, tendo sido demitida em 05/10/2016, postulando o recebimento de verbas trabalhistas.
+O Juízo laboral declinou da competência (e-STJ, fls. 56/60) e o Juízo comum suscitou o presente conflito (e-STJ, fls. 69/71).
+Manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarada competente o Juízo suscitante (e-STJ fls. 77/82).
+Passo a decidir.
+Nos termos do art. 955, parágrafo único, incisos I e II, do novo Código de Processo Civil, o relator poderá julgar de plano o conflito de competência quando sua decisão se fundar em súmula do Supremo Tribunal Federal, do Superior Tribunal de Justiça ou em tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência.
+Por sua vez, a Corte Especial deste Tribunal editou a Súmula 568, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema", aplicável, por analogia, ao caso em concreto.
+Isso considerado, tem-que o Supremo Tribunal Federal, quando do julgamento da ADI n. 3.395-6/DF, suspendeu toda e qualquer interpretação conferida ao inciso I do art. 114 da CF, na redação dada pela EC 45/2004, que inclua na competência da Justiça do Trabalho a "apreciação de causas que sejam instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo".
+Nesse sentido, conferir ainda: Rcl 6527 AgR-segundo, Relator(a):  Min. LUIZ FUX, Primeira Turma, DJe 16-10-2015, Rcl 7.857 AgR/CE, Rel. Ministro DIAS TOFFOLI, Tribunal Pleno, DJe 01/03/2013.
+Perfilhando aquele posicionamento, esta Corte tem entendido que "a relação válida ou nula entre os entes municipais e seus agentes é, em regra, de natureza jurídico-administrativa, fixando a competência da Justiça Comum para solver as controvérsias decorrentes dessa avença" (AgRg no CC 139.456/RN, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 13/05/2015, DJe 19/05/2015).
+No caso, consta dos autos cópia da CTPS (e-STJ, fl. 37), que atesta a relação de cunho trabalhista da contratação. Dessa forma, entende-se que a relação existente entre a ex-servidora e o ente municipal é regida pela CLT, o que acaba por atrair a competência da Justiça obreira. Nesse sentido:
+DIREITO PROCESSUAL. AGRAVO. CONFLITO NEGATIVO DE COMPETÊNCIA. RECLAMATÓRIA TRABALHISTA. EMPREGADO PÚBLICO. ENTE MUNICIPAL. ESTATUTO JURÍDICO. CLT. COMPETÊNCIA. JUSTIÇA DO TRABALHO.
+1. Conflito negativo de competência estabelecido entre a justiça comum e a justiça do trabalho a propósito do processamento e decisão de reclamatória trabalhista movida por trabalhadores contratados por município com o regime jurídico pautado pela Consolidação das Leis do Trabalho.
+2. A partir da identificação do estatuto jurídico aplicável à relação laboral entretida, na espécie a CLT, fica patente a competência para o processamento e resolução do litígio originário da justiça do trabalho.
+3. Precedentes em tudo similares desta Primeira Seção: AgRg no CC 128.709/RS, Rel. Ministro Herman Benjamin, julgado em 09/10/2013, DJe 25/10/2013; AgRg no CC 115.769/RS, Rel. Ministro Mauro Campbell Marques, julgado em 27/06/2012, DJe 03/08/2012; e AgRg no CC 135.877/MG, Rel. Ministro Herman Benjamin, julgado em 26/11/2014, DJe 10/12/2014.
+4. Recurso de agravo desprovido. (AgRg no CC 125.129/RJ, Rel. Ministra MARGA TESSLER (JUÍZA FEDERAL CONVOCADA DO TRF 4ª REGIÃO), PRIMEIRA SEÇÃO, DJe 19/02/2015).
+AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. SERVIDOR PÚBLICO. REGIME CELETISTA. AÇÃO RECLAMATÓRIA. VERBAS TRABALHISTAS.
+1. Compete à Justiça Laboral processar e julgar as reclamações trabalhistas propostas por servidores públicos municipais contratados sob o regime celetista. Precedentes do STJ.
+2. Agravo regimental não provido. (AgRg no CC 128.709/RS, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe 25/10/2013)
+Ante o exposto, com arrimo no art. 955, parágrafo único, I, do CPC/2015, CONHEÇO do conflito para declarar a competência do JUÍZO DA VARA DO TRABALHO DE REGISTRO, ora suscitado.
+Publique-se. Intimem-se.
