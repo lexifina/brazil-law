@@ -1,0 +1,26 @@
+DECISÃO
+SONIA MARIA FERREIRA DA SILVA alega sofrer coação ilegal em decorrência de acórdão do Tribunal de Justiça do Estado do Tocantins (Agravo em Execução n. 0001130-94.2016.8.27.2731).
+O impetrante se insurge contra a obrigatoriedade do regime inicial fechado à condenada por crime de tráfico de drogas. Pleiteia que "a unificação das penas  ..  seja declarada nula", para que a paciente cumpra a "pena pelo delito de tráfico  ..  em regime semiaberto", e as penas restritivas de direito, ao final, de acordo com o art. 76 do CP.
+O Ministério Público Federal opinou pela concessão parcial da ordem.
+Decido.
+A paciente foi condenada, no bojo da Ação Penal n. 5001599-94.2012.827.2731, a 5 anos de reclusão, em regime inicial fechado, e a 3 anos de reclusão, no regime inicial semiaberto, por incursão nos arts. 33 e 35, ambos da Lei n. 11.343/2006, respectivamente. A pena do crime de associação foi substituída por duas restritivas de direitos (fls. 179-181).
+Nos autos de Execução n. 0001130-94.2016.827.2731, "em face de sentença penal condenatória transitada em julgado" (fl. 39), procedeu-se à unificação das reprimendas (art. 111 da LEP), que perfazem 8 anos de reclusão.
+O advogado requereu ao Juízo da VEC a alteração do regime prisional, ante o reconhecimento da inconstitucionalidade do art. § 1º do art. 2º da Lei n. 8.072/1990 pelo STF, bem como a aplicação do art. 76 do CP. Os pedidos foram indeferidos.
+Em relação ao regime prisional, o Juiz da VEC assinalou, in verbis: "compartilho do entendimento de que, em alguns casos, resta afastada a obrigatoriedade do cumprimento da pena em regime inicial fechado para o condenado por delito hediondo ou equiparado, tal como o tráfico de drogas". No "entanto, por se tratar de condenação transitada em julgado, tem-se que não cabe ao Juízo da execução alterar o regime fixado na sentença" (fl. 51)
+A Corte estadual, apesar de afastar a obrigatoriedade do regime inicial fechado, manteve o modo mais grave de cumprimento da pena "considerando a soma das penas impostas pelos crimes de tráfico de drogas  ..  e associação para o tráfico" (fl. 102). Salientou, ainda, a incompatibilidade "para o cumprimento da pena privativa de liberdade com a restritiva de direitos" (fl. 103).
+Verifico, em parte, a possibilidade de conceder a ordem.
+I. Reconversão da pena restritiva de direitos em privativa de liberdade
+Apesar do registro de que a sentença transitou em julgado (fl. 39), consta do sistema deste Superior Tribunal a tramitação do REsp 1740330/TO. Contudo, é inequívoco que a paciente deu início à execução e, assim, passo a analisar as pretensas ilegalidades atribuídas ao Juízo da VEC, para evitar lesão irreversível ao seu direito de locomoção.
+Não é possível anular a reconversão das penas restritivas de direitos impostas na sentença (prestação de serviços e interdição de direitos, fl. 181).
+O único critério utilizável para manter a pena substitutiva é a compatibilidade de cumprimento simultâneo com a reclusão. Este Superior Tribunal "firmou o entendimento de que, na hipótese de unificação prevista no art. 111 da LEP, é permitida a reconversão de pena restritiva de direitos se o Juiz verificar a incompatibilidade do seu cumprimento simultâneo com pena privativa de liberdade posterior" (AgRg no HC n. 424.866/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 12/3/2018).
+Confira-se:
+ ..  o cumprimento simultâneo de pena privativa com pena restritiva deve mostrar-se compatível, o que não se confirma quando o apenado encontra-se cumprindo pena em regime semiaberto ou fechado. Destarte, faz-se mister a unificação das penas, nos termos do art. 111 da LEP, não havendo se falar, portanto, em aplicação do art. 76 do CP (Precedentes.)
+3. Como já firmado em diversos julgamentos desta Corte Superior, somente certas restritivas (prestação pecuniária e perda de bens) e a multa se coadunam com os regimes semiaberto e fechado.
+(HC n. 359.341/RS, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 25/11/2016).
+Os regimes fechado e semiaberto, mesmo em caso de benefício de trabalho externo ao sentenciado, são incompatíveis com a execução simultânea de prestação de serviços à comunidade.
+II. Regime prisional
+O Tribunal de Justiça, depois de afastar a obrigatoriedade do regime inicial fechado à condenada por crime equiparado a hediondo, violou o art. 33 e parágrafos do CP.
+A teor do art. 33, § 2º, "a" e § 3º, do CP, a paciente faz jus ao regime semiaberto, uma vez que é primária, sem registro de circunstância do art. 59 do CP desfavorável e foi condenada a cumprir penas que, somadas (art. 111 da LEP), não ultrapassam 8 anos de reclusão. Ademais, a fixação do modo mais gravoso de cumprimento de pena deu com base unicamente no art. 2º, § 1º, da lei n. 8.072/1990, sem registro de nenhum fato mais gravoso dos autos.
+Conforme o destaque da Subprocuradora-Geral da República "Considerando que a soma das penas dos dois delitos  tráfico de drogas e associação para o tráfico  não ultrapassam oito anos, e que a fundamentação para o regime fechado  na sentença  foi  ..  exclusivamente a hediondez do delito  ..  deve ser fixado o regime semiaberto para o cumprimento da pena" (fl. 206).
+III. Dispositivo
+À vista do exposto, com fulcro no art. 34, XX, do RISTJ, concedo o habeas corpus, em menor extensão, e fixo o regime semiaberto para o resgate da pena, após a unificação.
