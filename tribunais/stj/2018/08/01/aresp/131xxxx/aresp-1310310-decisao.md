@@ -1,0 +1,30 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo manejado por [NOME] e VILEIDE BARBOSA DE SOUZA, em face da decisão que inadmitiu recurso especial interposto contra acórdão do eg. Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que as ora agravantes foram condenadas:
+a) [NOME] BARBOSA OLIVEIRA: como incursa nas sanções dos arts. 33 e 35 da Lei 11.343/2006 e do art. 16 da Lei 10.826/2003, na forma do art. 69 do CP, à pena de 18 (dezoito) anos, 7 (sete) meses e 6 (seis) dias de reclusão, em regime inicial fechado, e pagamento de 1.897 dias-multa, no valor de 1/30 do salário mínimo vigente à época dos fatos;
+b) VILEIDE BARBOSA DE SOUZA: como incursa nas sanções dos arts. 33 e 35 da Lei 11.343/2006 e do art. 16 da Lei 10.826/2003, na forma do art. 69 do CP, à pena de 13 (treze) anos e 8 (oito) meses de reclusão, em regime inicial fechado, e pagamento de 1.379 dias-multa, no valor de 1/30 do salário mínimo vigente à época dos fatos.
+O eg. Tribunal a quo, apreciando recurso de ambas as partes, negou provimento ao apelo da ré VILEIDE BARBOSA DE SOUZA e deu provimento ao apelo da ré [NOME] BARBOSA OLIVEIRA para afastar os maus antecedentes e reduzer o acréscimo da reincidência para 1/6 (um sexto) fixando a pena definitiva em 15 (quinze) anos, 11 (onze) meses e 10 (dez) dias de reclusão, em regime fechado, e pagamento de 1.603 dias-multa (fls. 678-692).
+Interposto recurso especial (fls. 695-702), com fundamento no art. 105, inciso III, alíneas a e c, da Constituição da República, a defesa alegou ofensa ao art. 35 da Lei de Drogas, ao argumento de que "a apreensão de supostas anotações de contabilidade para o tráfico não indica a estabilidade do animus associativo" (fl. 701). Transcreve ementa de julgado do eg. Tribunal de Justiça do Estado do Rio Grande do Sul.
+Pugna pelo provimento do recurso especial, para que sejam os agravantes absolvidos da imputação da prática do delito previsto no art. 35 da Lei 11.343/2006.
+Apresentadas as contrarrazões (fls. 725-740), sobreveio juízo negativo de admissibilidade fundado: i) na inobservância do art. 1.029, § 1º, do CPC e art. 255, § 1º, do RISTJ; ii) na aplicação da Súmula 7/STJ, pois a análise do acórdão recorrido implicaria revolvimento de matéria fático-probatória.
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários a sua admissão (fls. 746-751).
+A d. Subprocuradoria-Geral da República apresentou parecer pelo não conhecimento do agravo em recurso especial (fls. 777-779).
+É o relatório.
+Decido.
+Conforme relatado, o apelo nobre foi inadmitido pelo Tribunal a quo em razão da incidência da Súmula 7/STJ e por não estarem preenchidos os requisitos para o conhecimento do recurso pela alínea c do permissivo constitucional.
+Verifica-se que o agravante deixou de infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a inaplicabilidade dos óbices apontados na decisão agravada.
+Digo, nas razões de fls. 746-751, o agravante repisa a razões do recurso especial, e, em relação aos óbices apontados na decisão de inadimissibilidade, apenas limitou-se a dizer que não incidem, por não se tratar de reexame de provas, mas sim de apreciação de direito, e por ter indicado a julgado do eg. Tribunal de Justiça do Estado do Rio Grande do Sul como paradigma.
+No caso, deveria o agravante indicar como o acórdão recorrido enfrentou a questão posta em debate no recurso especial, além demonstrar a desnecessidade da análise do conjunto fático-probatório. Não basta deduzir a inaplicabilidade do óbice sumular, devendo ser esclarecido o rechaço aos pontos esteares da decisão de admissibilidade.
+Desse modo, a ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. APLICAÇÃO DO ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL - CPC DE 1973. INCIDÊNCIA DA SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Descabido o conhecimento do agravo em recurso especial quando o agravante deixa de impugnar especificamente algum dos fundamentos adotados na decisão que negou seguimento ao recurso especial.
+2. Agravo regimental desprovido" (AgRg no AREsp n. 842.493/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/5/2016).
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO RECORRIDA. VERBETE SUMULAR N. 182/STJ. INCIDÊNCIA CONFIRMADA. AGRAVO REGIMENTAL NÃO PROVIDO. EXECUÇÃO PROVISÓRIA DEFERIDA.
+1. O Agravante não infirmou, especificamente, todos os fundamentos da decisão combatida, o que atrai a incidência da Súmula n. 182 desta Corte.
+2. Os Tribunais Superiores, em recentes decisões, firmaram o entendimento de que, após esgotadas as via recursais ordinárias, apenas casuísticos efeitos suspensivos concedidos aos recursos excepcionais impedirão a execução provisória.
+3. Agravo regimental improvido e deferida a execução provisória da pena, determinando o imediato cumprimento da condenação, delegando-se ao Tribunal local a execução de todos os atos preparatórios." (AgRg no AREsp 984.287/RS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 26/6/2017).
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+P. e I.
