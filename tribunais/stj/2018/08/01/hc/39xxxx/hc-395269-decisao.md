@@ -1,0 +1,15 @@
+DECISÃO
+VICTOR HUGO DOS SANTOS GOMES, paciente neste habeas corpus, estaria sofrendo coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça Militar do Estado de São Paulo no Agravo em Execução n. 0500195-08.2011.9.26.0050.
+Depreende-se dos autos que o paciente - ex-Soldado da PM, condenado pela prática do crime de homicídio, qualificado por motivo fútil e emprego de recurso que dificultou a defesa da vítima, à pena de 14 anos de reclusão, em regime fechado - estava cumprindo pena no Presídio da Polícia Militar "Romão Gomes", no regime semiaberto, com a permissão para exercer trabalho externo, benefício que foi sustado pelo Tribunal de origem, por haver o paciente praticado, em tese, crime doloso, consistente em falsidade ideológica (falta grave) durante o exercício do trabalho externo.
+Alega, em síntese, que não há base legal para regressão de regime, porquanto não há falta grave em apuração até o momento. Ademais, esclarece que o diretor do Presídio apura, em relação aos fatos imputados ao paciente, a prática de falta média. Diz, ainda, não haver qualquer outro procedimento em curso a fim de apurar eventual prática de fato definido como crime doloso.
+Requer, então, a "a concessão definitiva da ordem, para cassar o v. acórdão a quo, restabelecendo a r. decisão de Primeira Instância, enquanto o paciente não venha a ser punido pela prática de falta grave" (fl. 15).
+Em consulta processual realizada na página eletrônica deste Superior Tribunal, verifico a interposição do REsp n. 1.680.617/SP, pela defesa do ora paciente, no qual se insurge contra o acórdão acima indicado e também sustenta as teses acima mencionadas.
+O pleito aqui deduzido já foi objeto de análise no recurso especial interposto, o qual, em 15/9/2017, não foi provido. Na hipótese, consignei que "não há falar em ilegalidade, pois a sustação cautelar dos benefícios ocorreu de forma automática, em consonância com as diposições da LEP, em virtude da simples notícia de prática de fato definido como crime, sendo prescindível ouvir previamente o condenado ou esperar o resultado do processo administrativo, exigíveis apenas para a regressão definitiva de regime, o que não ocorreu".
+Registro que a referida decisão transitou em julgado em 20/10/2017.
+Assim, tendo em vista que este habeas corpus se trata de mera reiteração de pedido, não se pode dele conhecer.
+Nesse sentido, confira-se o seguinte julgado:
+ ..
+1. Nos termos da jurisprudência desta Corte Superior de Justiça, a impetração de habeas corpus com objeto idêntico ao de recurso especial anteriormente interposto perante este Sodalício caracteriza indevida reiteração de pedido, o que obstaculiza o conhecimento do writ. (AgRg no HC 118.517/AC, Rel. Min. Jorge Mussi, DJe 25.04.2011)
+2. Habeas corpus não conhecido. (HC n. 217.454/SE, Rel. Ministro Vasco Della Giustina (Desembargador convocado do TJ/RS), 6ª T., DJe 27/6/2012).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Publique-se e intimem-se.
