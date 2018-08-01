@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], fundamentado no art. 105, III, "a", da Constituição Federal, contra acórdão assim ementado (e-STJ, fl. 395):
+AGRAVO DE INSTRUMENTO - LOCAÇÃO DE IMÓVEIS. Incontroversa a atuação da agravante, na qualidade de procuradora do exequente, em processo no qual foi celebrado acordo homologado. Transação descumprida, ensejando sua execução. Direito autônomo do advogado à execução referente à verba sucumbencial. Reconhecimento. Exegese dos artigos 23 e 24, da Lei 8.906/94 ( Estatuto da Advocacia ). Todavia, no caso dos autos, não se vislumbra hipótese que permita a intervenção atípica nos próprios autos, devendo a recorrente buscar seu direito através da via jurídica adequada eventual. Decisão mantida. Recurso não provido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do especial, a recorrente alega violação do art. 535, I e II, do Código de Processo Civil de 1973, por omissão do Tribunal de origem em pronunciar-se, acórdão recorrido, sobre a apontada ofensa aos arts. 22, § 4º, da Lei n. 8.906/94; 475-B, 475-J e 475-N do CPC/1973; e 24, § 1º, da Lei n. 8.906/94, aduzindo, ainda, que o acordo celebrado nos autos da ação de despejo e a respectiva decisão homologatória representam título executivo judicial e, por conseguinte, a cobrança da verba honorária incluída no acordo deve ser processada e executada nos mesmos autos.
+Assim delimitada a questão, passo a decidir.
+De fato, consoante sentença proferida no processo originário (n. 0168820-35.2007.8.26.0002), juntada à fl. 470 destes autos, verifica-se que o vencido pagou o valor integral da dívida referente ao acordo homologado pelo Juízo de primeiro grau, motivo pelo qual este foi julgado extinto o processo de execução, com fundamento no art. 794, II, do CPC/1973.
+Em face do exposto, julgo prejudicado o presente recurso especial, com fundamento no art. 34, XI, do RISTJ.
+Intimem-se.
