@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por [NOME], contra acórdão do Tribunal Regional Federal da 3ª Região, proferido na vigência do CPC/2015, assim ementado:
+"PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE. REQUISITOS DE CONCESSÃO PREVISTOS NOS ARTIGOS 48, §§ 1º E 2º, 142 E 143 DA LEI 8.213/1991. TRABALHADOR RURAL. APELAÇÃO DA PARTE RÉ PROVIDA.
+1. A concessão de aposentadoria por idade rural é condicionada à satisfação do requisito etário de 60 (sessenta) anos para homens e 55 (cinquenta e cinco) anos para mulheres, nos termos do artigo 48, § 2º, da Lei n.º 8.213/1991, além da comprovação da carência prevista em lei.
+2. Para os segurados que ingressaram no Regime Geral de Previdência Social até 24 de julho de 1991, a carência a ser cumprida está estabelecida na tabela prevista no artigo 142 da Lei n." 8.213/1991.
+3. Porém, para os segurados que ingressaram após a vigência da Lei de Benefícios Previdenciários, a carência a ser observada será de 180 meses, conforme disposto no artigo 25, inciso II, da Lei nº 8.213/91.
+4. No caso do trabalhador rural boia-fria, o trabalho exercido até 31.12.2010 será contado para efeito de carência, mediante a comprovação de exercício de atividade rural, ainda que descontínua, no período imediatamente anterior ao requerimento (art. 3º, inciso I e parágrafo único, da Lei n.º 11.718/2008).
+5. 0 conceito de segurado especial é trazido pelo art. 11, VII, da Lei nº 8.213/1991.
+6. Idade exigida em lei comprovada mediante cédula de identidade acostada aos autos.
+7. Há nos autos a informação do óbito do marido, de quem a requerente aproveitaria a condição de rurícola, e sendo que a mesma não possui posterior início de prova material em nome próprio.
+8. Aplicada a tese firmada pelo STJ, em sede de Recurso Repetitivo, tema 642: "0 segurado especial tem que estar laborando no campo, quando completar a idade minima para se aposentar por idade rural, momento em que poderá requerer seu benefício. Ressalvada a hipótese do direito adquirido, em que o segurado especial, embora não tenha requerido sua aposentadoria por idade rural, preenchera de forma concomitanlo, no passado, ambos os requisitos carência e idade."
+9. Não preenchidos os requisitos ensejadores à concessão do benefício de aposentadoria por idade rural.
+10. Apelação da parte ré a que se dá provimento" (fls. 132/133e).
+Nas razões do Recurso Especial aponta a insurgente que o acórdão recorrido violou os arts. 11, inciso I, alínea "a" e inciso VII, da Lei 8.213/91, 39 e 143 da Lei 8.213/91, sustentando, em síntese, que faz jus ao benefício pleiteado.
+Transcorrido in albis o prazo para apresentação de contrarazzões, foi o Recurso Especial admitido na origem (fls. 170/172e), o que ensejou a sua ascensão a esta Corte Superior.
+A irresignação não merece acolhimento.
+O Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que, in verbis:
+"A idade mínima exigida para a obtenção do benefício restou comprovada pela documentação pessoal da parte autora acostada à fl. 12. A requerente nasceu em 28.11.1939, portanto, completou 55 (cinquenta e cinco) afloat idade aos 28.11.1994.
+A teor do art. 142 da Lei 8.213/1991, a parte autora deveria demonstrar o exercício de atividade rural por 72 meses, ainda que descontínuos, no período imediatamente anterior ao requerimento.
+A fim de constituir início de prova material, a requerente apresenta sua certidão de casamento (fl. 13), datada de 20.02.1971, em que o cônjuge é qualificado lavrador, e ela, doméstica, certidão de óbito do cônjuge (H. 14), datado de 01.10.1976, bem como folhas de carnês de recebimento de benefícios (fls. 15/17), referentes aos anos de 1986, 1992, 1987, 1988 e 1989.
+Contudo, o benefício deve ser negado, tendo em vista que há nos autos a informação do óbito do marido (fls. 14 e 66 - 01.10.1976), de quem a requerente aproveitaria a condição de rurícola, e sendo que a mesma não possui posterior início de prova material em nome próprio.
+Conforme entendimento firmado pelo STJ, o segurado especial, quando completa a idade mínima para a aposentadoria por idade rural, deve estar laborando no campo. Essa é a tese firmada no Recurso Especial nº 1354908/SP, julgada sob o tema dos Recursos Repetitivos (tema 642), cuja ementa transcrevo:
+"O segurado especial tem que estar laborando no campo, quando completar a idade mínima para se aposentar por idade rural, momento em que poderá requerer seu benefício. Ressalvada a hipótese do direito adquirido, em que o segurado especial, embora não tenha requerido sua aposentadoria por idade rural, preencherá forma concomitante, no passado, ambos os requisitos carência e idade."
+Dessa forma, desnecessário perquirir a prova testemunhal, já que esta, isolada, não basta à comprovação da atividade rurícola, nos termos da já citada Súmula n.º 149 do STJ.
+Portanto, a parte autora não trouxe ao conjunto probatório elementos que comprovassem sua atividade rural pelo período de carência.
+Tendo em vista a sucumbência da parte autora, condeno-a ao pagamento de honorários advocatícios, que fixo em 10% sobre o valor da causa, cuja exigibilidade fica condicionada ao disposto no artigo 12 da Lei nº 1.060/50 (art. 98, §30, do CPC).
+Nos termos do Recurso Especial n.º 1.401.560/MT, julgado sob o regime do art. 543-C do CPC de 1973, "a reforma da decisão que antecipa a tutela obriga o autor da ação a devolver os benefícios previdenciários indevidamente recebidos"" (fls. 130/131e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+A corroborar este entendimento:
+"PROCESSUAL CIVIL. PREVIDENCIÁRIO. ANÁLISE DE QUESTÃO CONSTITUCIONAL. INVIABILIDADE. COMPETÊNCIA DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. APOSENTADORIA POR IDADE RURAL. REQUISITOS NÃO PREENCHIDOS. INVERSÃO DO QUE FOI JULGADO NA ORIGEM. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. VERIFICAÇÃO PREJUDICADA.
+1. É incabível a análise pelo Superior Tribunal de Justiça de questão constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal.
+2. A comprovação do exercício de atividade rural pode ser efetuada mediante início de prova material, complementada por prova testemunhal idônea.
+3. É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual, para a concessão do benefício de aposentadoria por idade rural, é necessário o preenchimento de forma concomitante dos requisitos de idade (55 anos de idade para mulher e 60 anos para homem) e de carência, previstos nos arts. 48 e 143 da Lei n. 8.213/91.
+4. In casu, a Corte de origem asseverou que "o conjunto probatório não é suficiente para atestar que a parte autora trabalhou em atividade rural, pelo período equivalente carência.
+5. A reforma do entendimento fixado pelo Tribunal Regional, a fim de aferir a existência ou não dos requisitos autorizadores da concessão da aposentadoria rural, demanda aprofundado reexame do acervo probatório dos autos, procedimento que encontra óbice na dicção da Súmula 7 do STJ.
+6. Fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular ao se examinar o Recurso Especial pela alínea "a" do permissivo constitucional.
+7. Recurso Especial do qual não se conhece" (STJ, REsp 1.701.914/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017).
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, tendo em vista que, na origem, não houve prévia fixação de honorários sucumbenciais.
+I.
