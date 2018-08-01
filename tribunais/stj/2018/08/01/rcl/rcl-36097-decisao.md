@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de reclamação ajuizada por MAURÍCIO ANTÔNIO DE OLIVEIRA, impugnando decisão do Juízo de Direito da Comarca de Embu-Guaçu - SP, que, no seu entender, teria descumprido julgado da Quinta Turma desta Corte assim ementado:
+PROCESSUAL PENAL. HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. NÃO CABIMENTO. CONDENAÇÃO EM 1º GRAU POR PREVARICAÇÃO (TRÊS VEZES) E CORRUPÇÃO PASSIVA. DESCLASSIFICAÇÃO EM 2º GRAU. PREVARICAÇÃO (TRÊS VEZES) E ADVOCACIA ADMINISTRATIVA. CONCURSO MATERIAL QUE NÃO IMPEDE, POR SI SÓ, A CONCESSÃO DA SUSPENSÃO CONDICIONAL DO PROCESSO. APLICAÇÃO DO ENUNCIADO SUMULAR 337/STJ. ENVIO DOS AUTOS AO MINISTÉRIO PÚBLICO. ANÁLISE DOS REQUISITOS PREVISTOS DO ARTIGO 89 DA LEI N. 9.099/1995. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. O Superior Tribunal de Justiça, seguindo entendimento firmado pelo Supremo Tribunal Federal, passou a não admitir o conhecimento de habeas corpus substitutivo de recurso previsto para a espécie. No entanto, deve-se analisar o pedido formulado na inicial, tendo em vista a possibilidade de se conceder a ordem de ofício, em razão da existência de eventual coação ilegal.
+2. A teor do enunciado sumular 337/STJ, é cabível a suspensão condicional do processo na desclassificação do crime e na procedência parcial da pretensão punitiva, mesmo que a nova tipificação ocorra em 2º grau (precedentes).
+3. No caso, o concurso material de crimes não impede, por si só, a aplicação do benefício, pois, considerando a pena mínima prevista para o crime de prevaricação (3 meses), por três vezes (9 meses), somada a pena mínima para a advocacia administrativa (1 mês), o total das reprimendas mínimas (10 meses) não ultrapassa o limite previsto no art. 89 da Lei n. 9.099/95 (igual ou inferior a 1 ano).
+4. Habeas corpus não conhecido. Ordem concedida de ofício para oportunizar ao Ministério Público que avalie a possibilidade de oferecimento da proposta de suspensão condicional do processo ao paciente.
+(HC 422.719/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/04/2018, DJe 25/04/2018) - negritei.
+Alega o Reclamante que o magistrado de primeiro grau teria mandado prendê-lo antes da audiência de suspensão condicional do processo, o que desconsideraria a determinação emanada desta Corte.
+Afirma que "que os autos principais (processo físico nº 0000877-69.2015.8.26.0177) não foram ainda enviados ao Juízo de Embu- Guaçu como pode se verificar na planilha de andamento documento número 4, e não foi designada ainda a audiência cabível para suspensão processual, já que a pena é pequena, pelos crimes de advocacia administrativa e prevaricação com a pena total de 01 ano, 06 meses e 10 dias" (e-STJ fl. 3).
+Pede, assim, a concessão de "liminar urgente para que seja o Requerente libertado, pois está preso desde domingo 10/06/2018, presentes a fumaça do bom direito e o perigo na demora, porque ele não teve o devido processo legal cumprido" (e-STJ fl. 3).
+É o relatório. Passo a decidir.
+Nos termos do art. 105, I, f, da CF/88, c/c o art. 187 do RISTJ, cabe Reclamação da parte interessada ou do Ministério Público, para preservar a competência do Superior Tribunal de Justiça ou para garantir a autoridade das suas decisões.
+Por sua vez, o novo CPC legislou exaustivamente sobre o tema nos arts. 988 a 993, definindo, como hipóteses do cabimento da Reclamação, aquelas descritas no art. 988, dentre as quais as que preveem especificamente a Reclamação dirigida ao Superior Tribunal de Justiça são as seguintes:
+Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+(..)
+§ 5º É inadmissível a reclamação: (Redação dada pela Lei nº 13.256, de 2016)
+I - proposta após o trânsito em julgado da decisão reclamada; (Incluído pela Lei nº 13.256, de 2016)
+II - proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias.
+No caso concreto, entretanto, não identifico o alegado descumprimento do acórdão proferido por esta Corte no HC n. 422.719/SP. Isso porque, nele, a Quinta Turma se limitou a determinar que fosse dada oportunidade ao Ministério Público de avaliar a possibilidade de oferecimento da proposta de suspensão condicional do processo ao paciente.
+Ora, pelo que se vê da decisão apontada como descumpridora (e-STJ fls. 12/13), foi dada ao Ministério Público a oportunidade em questão e o Parquet optou por não oferecer a proposta, por entender que não estariam presentes os pressupostos subjetivos necessários para a concessão do benefício do sursis processual.
+Confira-se o seguinte trecho da decisão reclamada:
+Com efeito, ao Poder Judiciário cabe apenas a análise acerca da existência de teratologia na negativa do Ministério Público em oferecer suspensão condicional do processo, porquanto não se trata de direito subjetivo do acusado.
+(..)
+Nesta linha de raciocínio, analisando a negativa do Ministério Público, fundada na ausência dos pressupostos subjetivos, não se extrai a existência de qualquer teratologia ou manifesta inconsistência.
+Portanto, HOMOLOGO a negativa da oferta de suspensão condicional do processo ao acusado MAURÍCIO ANTONIO DE OLIVEIRA.
+No mais, a considerar que se esgotou o julgamento dos recursos perante as instâncias ordinárias, com o julgamento dos embargos de declaração opostos, DEFIRO o pedido do Ministério Público, expedindo-se o consequente mandado de prisão em desfavor de MAURÍCIO ANTONIO DE OLIVEIRA.
+(negritei)
+Tenho, assim, que o Reclamante pretende dar ao julgado desta Corte extensão maior do que a que efetivamente tem, o que desautoriza o manejo da Reclamação, ante a ausência de interesse de agir na modalidade adequação - sabido que o interesse de agir somente existe quando configuradas, concomitantemente, a "necessidade" de reconhecimento de um direito negado pela contraparte ou de alteração do resultado de um julgamento (interesse recursal), diante de evidente prejuízo causado a parte ou a terceiro no processo, e "adequação" do recurso, ação ou impetração devidamente previstos no ordenamento jurídico como o instituto processual adequado e apto a veicular a pretensão do autor ou recorrente.
+Ante o exposto, não conheço da presente reclamação e a extingo sem resolução de mérito, com fundamento no art. 34, inciso XVIII, alínea "a", do Regimento Interno do Superior Tribunal de Justiça, na redação que lhe foi dada pela Emenda Regimental n. 22, de 16/03/2016.
+Cientifiquem-se o Ministério Público Federal, o Ministério Público do Estado de São Paulo e o Juízo prolator da decisão objeto de reclamação.
+Publique-se. Intimem-se.
