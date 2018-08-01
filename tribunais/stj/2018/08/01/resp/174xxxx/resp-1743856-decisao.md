@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJMT, o qual recebeu a seguinte ementa (e-STJ fl. 225):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C DANO MORAL  SENTENÇA UMA  CIÊNCIA INEQUÍVOCA DOS TERMOS DA AÇÃO  DECURSO DE PRAZO PRA CONTESTAR A AÇÃO  REVELIA  CERCEAMENTO DE DEFESA  NÃO CONFIGURADO  RELAÇÃO JURÍDICA E DÉBITO COMPROVADO  PROTESTO REGULAR  SENTENÇA REFORMADA EM PARTE  RECURSO PROVIDO EM PARTE.
+O comparecimento espontâneo da apelada nos autos da medida cautelar de sustação de protesto que encontrava-se apenso aos autos da ação declaratória, e mais, com a transcrição de trecho da petição inicial, resta comprovado que a apelada teve conhecimento inequívoco dos termos da ação declaratória.
+Transcorrido o prazo para contestar a ação, é caso de aplicar a revelia nos autos da ação declaratória, pois apesar de tomar conhecimento inequívoco da ação, não contestou a ação no prazo legal, porém não implica na procedência dos pedidos do autor.
+O julgador tem liberdade para determinar a produção de provas necessárias à instrução do processo, bem como, liberdade para apreciar as provas, segundo seu convencimento.
+Comprovada a relação jurídica entre as partes e a inadimplência do autor, o protesto do título se reveste de legalidade.
+Os embargos de declaração opostos pelo recorrido foram acolhidos em parte, e os opostos pela recorrente rejeitados (e-STJ fls. 273/279 e 303/313).
+Nas razões recursais (e-STJ fls. 316/328), fundamentadas no art. 105, III, "a", da CF, a recorrente alega ofensa aos arts. 489 e 1.022 do CPC/2015 por negativa de prestação jurisdicional, argumentando que a Corte local não teria se manifestado "em relação ao alegado e comprovado pedido da recorrente quanto a preclusão temporal da decisão interlocutória da suposta revelia" (e-STJ fl. 319).
+Apontou afronta aos arts. 223, 278 e 507 do CPC/2015, sustentando que "o pedido de revelia ventilado pelo recorrido restou fulminado pela preclusão temporal, o que importaria em imediata alteração da incorreta decisão de decretação de revelia" (e-STJ fl. 320).
+Acrescentou ainda a inexistência de sucumbência recíproca, tendo em vista a inexistência dos efeitos da revelia no mérito da demanda.
+Contrarrazões apresentadas pelo recorrido (e-STJ fls. 371/381).
+É o relatório.
+Decido.
+Razão assiste à recorrente no tocante à alegada violação dos arts. 489 e 1.022 do CPC/2015.
+Ao analisar a tese relativa à preclusão temporal, a Corte local se limitou a consignar que (e-STJ fl. 310):
+No que tange a alegação de omissão quanto a preclusão da revelia, melhor sorte não tem a embargante, pois o acordão abordou a matéria.
+Entretanto, ao contrário do que decidiu o TJMT, referida questão não foi apreciada quando do julgamento da apelação (e-STJ fls. 224/238).
+Em tais condições, diante da omissão no acórdão recorrido, impõe-se o provimento do recurso especial para que o Tribunal a quo se pronuncie sobre a questão, sanando assim o vício apontado. Nesse sentido é a firme jurisprudência desta Corte, como se depreende, por exemplo, do seguinte julgado:
+PROCESSO CIVIL. DIREITO DAS OBRIGAÇÕES. NOVAÇÃO. POSSIBILIDADE DE ANÁLISE DO NEGÓCIO JURÍDICO ANTECEDENTE. MITIGAÇÃO DO PRINCÍPIO PACTA SUNT SERVANDA. SÚMULA 286 DO STJ. VIOLAÇÃO DO ART. 535 DO CPC CONFIGURADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. 1. A violação do art. 535 do CPC configurou-se, no caso dos autos, uma vez que, a despeito da oposição de embargos de declaração, nos quais os recorrentes apontam a existência de omissões, mormente no tocante à possibilidade de exame judicial de supostas ilegalidades substanciais nos contratos celebrados anteriormente à alegada novação com a instituição financeira (fls. 1.052-1.053), o Tribunal não se manifestou de forma satisfatória sobre o apontado vício, consoante se infere do voto condutor às fls. 1.061-1.066. 2. A novação, conquanto modalidade de extinção de obrigação em virtude da constituição de nova obrigação substitutiva da originária, não tem o condão de impedir a revisão dos negócios jurídicos antecedentes, máxime diante da relativização do princípio do pacta sunt servanda, engendrada pela nova concepção do Direito Civil, que impõe o diálogo entre a autonomia privada, a boa-fé e a função social do contrato. Inteligência da Súmula 286 do STJ. 3. Recurso especial provido para determinar o retorno dos autos ao Tribunal de origem.
+(REsp n. 866.343/MT, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 2/6/2011, DJe 14/6/2011.)
+Ante o exposto, DOU PROVIMENTO PARCIAL ao recurso especial a fim de ANULAR O ACÓRDÃO proferido no julgamento dos embargos de declaração e determinar o retorno dos autos ao Tribunal de origem para sanar a omissão apontada.
+Publique-se e intimem-se.
