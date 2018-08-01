@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJSP, o qual recebeu a seguinte ementa (e-STJ fl. 466):
+AGRAVO REGIMENTAL. Interposição contra decisão monocrática que reconheceu, de ofício, a prescrição trienal da cobrança de despesas com corretagem. Alegação de que não se trata da cobrança de corretagem e sim de honorários devidos pela intermediação imobiliária. Inovação recursal. Recurso manifestamente inadmissível. Aplicação dos artigos 80, IV, V, VI e VII, e 1.021, §§ 4º e 5º, ambos do CPC. Recurso não conhecido, com aplicação de multa.
+Nas razões recursais (e-STJ fls. 294/310), fundamentadas no art. 105, III, "a" e "c", da CF, a recorrente alega ofensa aos arts. 11 e 489, II, do CPC/2015, por negativa de prestação jurisdicional quanto aos arts. 374, II e III, do CPC/2015 e 724, 725, 726 e 727 do CC/2002.
+Aponta afronta aos arts. 205 e 206, § 5º, II, do CC/2002, ao argumento de que no caso de cobrança por serviços de intermediação para aquisição de imóvel perante a incorporadora aplica-se o prazo de prescrição de 10 (dez) anos, ou, subsidiariamente, de 5 (cinco) anos.
+A recorrida não apresentou contrarrazões (e-STJ fl. 223).
+É o relatório.
+Decido.
+Não há falar em contrariedade aos arts. 11 e 489, II, do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos. Ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação do referido dispositivo e o conhecimento do recurso especial nessa parte.
+Com relação à prescrição, cuida-se, na origem, de ação de cobrança por serviços de intermediação para aquisição de imóvel perante a incorporadora.
+Para o acórdão recorrido, aplica-se o prazo prescricional fixado no julgamento do REsp nº 1.551.956/SP - julgado sob a sistemática de recursos repetitivos -, cujo prazo prescricional seria o previsto no art. 206, § 3º, IV, do CC/2002, isto é, 3 (três) anos. Nesse contexto, destacou que (e-STJ fls. 290):
+O referido Tribunal Superior ao julgar o REsp nº 1.551.956/SP fixou tese jurídica a ser observada pelos Tribunais, reconhecendo a incidência da prescrição trienal sobre a pretensão de restituição dos valores pagos a título de comissão de corretagem ou de serviço de assistência técnico-imobiliária (SATI), nos seguintes termos:
+"RECURSO ESPECIAL REPETITIVO. DIREITO CIVIL E DO CONSUMIDOR. INCORPORAÇÃO IMOBILIÁRIA. VENDA DE UNIDADES AUTÔNOMAS EM ESTANDE DE VENDAS. CORRETAGEM. SERVIÇO DE ASSESSORIA TÉCNICO-IMOBILIÁRIA (SATI).
+CLÁUSULA DE TRANSFERÊNCIA DA OBRIGAÇÃO AO CONSUMIDOR. PRESCRIÇÃO TRIENAL DA PRETENSÃO.
+ENRIQUECIMENTO SEM CAUSA. 1. TESE PARA OS FINS DO ART. 1.040 DO CPC/2015: 1.1.
+Incidência da prescrição trienal sobre a pretensão de restituição dos valores pagos a título de comissão de corretagem ou de serviço de assistência técnico-imobiliária (SATI), ou atividade congênere (art. 206, § 3º, IV, CC). 1.2. Aplicação do precedente da Segunda Seção no julgamento do Recurso Especial n. 1.360.969/RS, concluído na sessão de 10/08/2016, versando acerca de situação análoga. 2. CASO CONCRETO: 2.1.
+Reconhecimento do implemento da prescrição trienal, tendo sido a demanda proposta mais de três anos depois da celebração do contrato. 2.2. Prejudicadas as demais alegações constantes do recurso especial. 3.
+RECURSO ESPECIAL PROVIDO." (REsp repetitivo nº 1.551.956, relator Ministro Paulo de Tarso Sanseverino, j. 24/08/2016)
+In casu, uma vez que os valores se referem ao ano de 2009 e a ação foi ajuizada em somente em 10.04.2014, de rigor o reconhecimento da prescrição trienal.
+Entretanto, no julgamento do REsp n. 1.551.956/SP, de relatoria do Ministro PAULO DE TARSO SANSEVERINO (julgado em 24/8/2016, DJe 6/9/2016), a Segunda Seção concluiu pela aplicação do prazo prescricional trienal previsto no aludido art. 206, § 3º, IV, do Código Civil de 2002 para a pretensão de restituição das parcelas pagas a título de comissão de corretagem e de assessoria imobiliária, sob o fundamento da abusividade da transferência desses encargos ao consumidor, o que não se confunde com o caso em questão, cuja cobrança é realizada pelo empresa que teria prestado os serviços de assessoria imobiliária em desfavor da consumidora.
+Portanto, a decisão recorrida está em confronto com a jurisprudência desta Corte, pacífica ao afirmar que a prescrição para cobrança de dívida líquida constante em documento particular é de 5 (cinco) anos, nos termos do art. 206, § 5º, I, do CC/2002. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. COMISSÃO DE CORRETAGEM E SEGURO DE VIDA E ACIDENTES PESSOAIS. PRESCRIÇÃO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Assente neste Sodalício o entendimento de que o prazo prescricional a que se submete a pretensão de cobrança de dívidas líquidas e certas, constantes de documento público ou particular era, ao tempo do Código Civil de 1916 de 20 anos (artigo 177) e, a partir do Código Civil em vigor, de 05 anos (artigo 206, § 5º).
+2. O acolhimento da pretensão recursal, a fim de afastar a ocorrência do lapso prescricional demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial. Incidência da Súmula 7 do STJ.
+3. Ao repisar os fundamentos do recurso especial, a parte agravante não trouxe, nas razões do agravo regimental, argumentos aptos a modificar a decisão agravada, que deve ser mantida por seus próprios e jurídicos fundamentos.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 572.397/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/11/2014, DJe 21/11/2014.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO MONITÓRIA. VIOLAÇÃO AO ART. 535 DO CPC. NÃO OCORRÊNCIA. PRESCRIÇÃO. COBRANÇA DE DÍVIDAS LÍQUIDAS E CERTAS. ART. 177 DO CÓDIGO CIVIL DE 1916. ART. 206, § 5º, I, DO CÓDIGO CIVIL DE 2002. SÚMULA 83/STJ. DECISÃO AGRAVADA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO NÃO PROVIDO.
+1. Não há se falar em violação ao art. 535 do Código de Processo Civil quando o acórdão recorrido resolve todas as questões pertinentes ao litígio, tornando-se dispensável que venha a examinar todos os argumentos expendidos pelas partes.
+2. O acórdão do Tribunal de origem está de acordo com a jurisprudência consolidada neste Sodalício, no sentido de que o prazo prescricional a que se submete a pretensão de cobrança de dívidas líquidas e certas, constantes de documento público ou particular era, ao tempo do Código Civil de 1916 de 20 anos (artigo 177) e, a partir do Código Civil em vigor, de 05 anos (artigo 206, § 5º, I).
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 578.617/RS, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 2/12/2014, DJe 10/12/2014.)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRAZO PRESCRICIONAL. COBRANÇA DE DÍVIDAS LÍQUIDAS E CERTAS. MENSALIDADES DE PLANO DE SAÚDE. INOVAÇÃO RECURSAL.
+1.- O prazo prescricional a que se submete a pretensão de cobrança de dívidas líquidas e certas, constantes de documento público ou particular era, ao tempo do Código Civil de 1916 de 20 anos (artigo 177) e, a partir do Código Civil em vigor, de 05 anos (artigo 206, § 5º).
+2.- Os argumentos no sentido de que não se trata de cobrança de dívida líquida e certa não foram objeto de insurgência do Recurso Especial constituindo-se, portanto, em inovação recursal, incabível em sede de Regimental.
+3.- Agravo improvido.
+(AgRg no AREsp n. 291.578/SP, Relator Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 21/3/2013, DJe 2/4/2013.)
+Por fim, ficam prejudicadas as demais teses recursais.
+Diante do exposto, DOU PROVIMENTO ao recurso especial para reconhecer que a pretensão para cobrar os serviços supostamente prestados está sujeita à prescrição quinquenal, prevista no art. 206, § 5º, I, do CC/2002, determinando, por conseguinte, a remessa dos autos ao Tribunal de origem para que examine a questão, como entender de direito.
+Publique-se e intimem-se.
