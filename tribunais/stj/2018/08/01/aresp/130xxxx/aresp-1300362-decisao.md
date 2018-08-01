@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial, por incidência das Súmulas n. 7 do STJ e 282 do STF (e-STJ fls. 723/725).
+O acórdão do TJSC está assim ementado (e-STJ fls. 633/634):
+AGRAVO DE INSTRUMENTO CONTRA DECISÃO QUE, EM FACE DE JULGAMENTO UNÂNIME DESTE ÓRGÃO FRACIONÁRIO QUE RECONHECEU A NULIDADE DE EXECUÇÃO POR FALTA DE TÍTULO EXECUTIVO EXTRAJUDICIAL, DETERMINA O IMEDIATO CANCELAMENTO DOS ATOS DE CONSTRIÇÃO E ADJUDICAÇÃO JUNTO AO REGISTRO DE IMÓVEIS NA ORIGEM. DECISÃO COLEGIADA ANTERIOR RECORRIDA PELA VIA PRÓPRIA AO SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO RECEBIDO NO EFEITO MERAMENTE DEVOLUTIVO. DECISÃO AGRAVADA QUE CONSTITUI MERO IMPULSO PROCESSUAL EM FACE DOS EFEITOS DA DECISÃO DESTA SEXTA CÂMARA DE DIREITO CIVIL. NOVO AGRAVO QUE SE CONSTITUI EM EVIDENTE SUBTERFÚGIO PARA ATRIBUIR EFEITO SUSPENSIVO A RECURSO SUBMETIDO À JURISDIÇÃO DO STJ. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO.
+Verificando-se que o caso concreto já foi apreciado pelo colegiado, o qual, por votação unânime, reconheceu a nulidade da execução e, via de conseqüência, de todos os atos judiciais praticados no processo, estando esta decisão sujeita a recurso de competência do Superior Tribunal de
+Esgotada a jurisdição do Tribunal de Justiça acerca de determinada matéria, estando o feito já submetido à instância superior competente, somente esta é capaz de suspender os efeitos da decisão colegiada originária. Assim, cabe à parte que se sentir prejudicada buscar, a tempo e modo, o deferimento excepcional de efeito suspensivo ao recurso especial pendente de julgamento, devendo demonstrar lá a existência de risco de dano irreparável.
+O manejo de novo agravo de instrumento contra decisão judicial de mero impulso processual em observância ao julgamento proferido no colegiado constitui evidente e inadmissível subterfúgio para, ao fim e ao cabo, por vias transversas, atribuir efeito suspensivo ao recurso especial manejado.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 651/655).
+Nas razões do recurso especial (e-STJ fls. 663/672), interposto com base no art. 105, III, "a", da CF, a recorrente apontou violação do art. 398 do CPC/1973 (CPC/2015, art. 437, § 1º), defendendo que seria indevido levantar as restrições nos imóveis penhorados e adjudicados, porque não teria sido intimada previamente para se manifestar sobre tal decisão, implicando em ofensa ao contraditório e à ampla defesa, ante a surpresa da decisão interlocutória em seu desfavor.
+Argumentou que, "em que pese a decisão proferida pelo TJSC, que se manifesta pela nulidade do processo de execução e determina o cancelamento dos atos de constrição e adjudicação junto ao registro de imóveis, percebe-se que tais medidas são completamente impraticáveis. Primeiramente porque a ação principal está em trâmite, bem como o REsp n. 1.384.010/SC, onde pende a mesma discussão, e seguidamente porque se tal medida perseverar perde-se por completo o objeto da ação" (e-STJ fl. 668).
+Foram apresentadas contrarrazões (e-STJ fls. 687/698).
+No agravo (e-STJ fls. 728/732), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 739/747).
+É o relatório.
+Decido.
+A Corte de origem rejeitou a preliminar de nulidade sustentada pela recorrente, ao entender que a intimação prévia não era necessária, para que o juízo de origem impulsionasse a execução, após decisão proferida por órgão fracionário do TJSC, tendo em vista que (e-STJ fl. 636):
+2. Quanto à preliminar de nulidade por inexistência de intimação acerca do pedido de fls. 544-552 na origem, basta destacar que embora a decisão tenha referido os pedidos, o fundamento decisório consiste na necessidade de cumprimento dos efeitos da decisão deste Órgão Fracionário que declarou nulo o processo executivo.
+Assim, a douta Juíza poderia ter determinado o impulso processual, adequado aos termos da decisão, até mesmo de ofício, sem necessidade de intimação de qualquer das partes interessadas.
+Evidentemente que a não intimação não trouxe qualquer prejuízo ao recorrente, pois foi intimado da decisão, esta sim de conhecimento obrigatório.
+Portanto, desnecessária a prévia intimação, rejeito a prefaciai de invalidade.
+A respeito de tal razão de decidir a recorrente não se manifestou, limitando-se a alegar que a decisão interlocutória em trato seria nula, violando os princípios do contraditório e da ampla defesa, visto que seria necessária sua intimação prévia, para se manifestar quanto ao levantamento das constrições aos imóveis na execução.
+Assim, não estando impugnado fundamento suficiente para manter o acórdão recorrido, aplicável a Súmula n. 283/STF.
+Ademais, dissentir das conclusões da Corte local, a fim de acolher a tese de que a falta de intimação prévia da recorrente teria causado a nulidade da decisão, exigiria o reexame do acervo fático-probatório, providência vedada em sede de recurso especial, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
