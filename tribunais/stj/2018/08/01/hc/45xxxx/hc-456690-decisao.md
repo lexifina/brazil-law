@@ -1,0 +1,13 @@
+DECISÃO
+[NOME], paciente neste habeas corpus, alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, que denegou o HC n. 1.0000.17.086699-0/000.
+Consta dos autos que, em 26/1/2018, o paciente foi pronunciado como incurso no art. 121, § 2º, IV e VI, § 2º-A, I e § 7º, III, c/c o art. 14, II, ambos do Código Penal (vítima [NOME]) e no art. 121, § 2º, IV, c/c o art. 14, II, ambos do Código Penal (em relação às demais vítimas). Na ocasião, o Magistrado de primeiro grau manteve a sua custódia preventiva.
+Neste habeas corpus, o impetrante sustenta, em síntese, que não está evidenciada nenhuma das hipóteses previstas no art. 312 do Código de Processo Penal. Pondera que, "desde a data do fato, ocorrido em outubro de 2015 até a data da decretação de prisão preventiva em fevereiro de 2017 e sua prisão em agosto de 2017, ou seja, quase dois anos após o fato, o Paciente não cometeu qualquer ato novo intimidatório ou que ameaçassem as vítimas, tampouco atentou contra o regular andamento processual por livre e espontânea vontade" (fl. 6).
+Registra que "o paciente é primário, com 63 (sessenta e três) anos de idade, com doenças que necessitam de medicamentos, possuidor de bons antecedentes não sendo propenso à prática de crimes, de modo que é de se concluir que inexiste nos autos qualquer elemento que desabone a sua conduta" (fl. 16).
+Por fim, considera ser devida a substituição da custódia preventiva por medidas cautelares alternativas à prisão.
+Requer, liminarmente e no mérito, seja assegurado ao paciente o direito de responder em liberdade ao processo até o trânsito em julgado.
+Decido.
+De plano, verifico que as questões suscitadas neste habeas corpus - relativas, em suma, à pretendida revogação da custódia preventiva do acusado, decorrente de decisão de pronúncia - não foram analisadas pelo Tribunal de origem, o que impede o exame dessas matérias diretamente por esta Corte Superior, sob pena de, assim o fazendo, incidir na indevida supressão de instância.
+Registro que o HC n. 1.0000.17.086699-0/000 foi impetrado no Tribunal de origem contra o anterior decreto de prisão preventiva, não havendo nenhum habeas corpus ou recurso na Corte estadual discutindo a prisão mantida em sede de pronúncia, momento em que o Juízo singular empreendeu nova avaliação sobre os fundamentos suscitados para a imposição da segregação cautelar (art. 413, § 3º, do CPP).
+Assim, como tais razões ainda não foram submetidas ao crivo daquele Tribunal, sua apreciação implicaria indevida supressão de instância, motivo pela qual é defeso a esta Corte o exame da matéria.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
