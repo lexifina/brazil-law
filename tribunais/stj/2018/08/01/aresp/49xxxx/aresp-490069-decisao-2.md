@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] BSB SERVIÇOS GERAIS LTDA. E ROSE MARIE FERREIRA DA HORA contra decisão que indeferiu o processamento do recurso especial interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, impugnando acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fl. 1.176, e-STJ):
+DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AUSÊNCIA DE PREPARO. SIMPLES AGENDAMENTO. NÃO CONHECIMENTO. AGRAVO RETIDO. PROVA TESTEMUNHAL. DESNECESSIDADE. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. RESCISÃO CONTRATUAL. AUSÊNCIA DE PRESTAÇÃO DE CONTAS. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. APLICAÇÃO.
+1. Cabe ao patrono da causa preparar o recurso com todos os requisitos necessários para o regular processamento, inclusive o pagamento das custas em simultaneidade com a apresentação do recurso de apelação, a tanto não se prestando o simples agendamento do pagamento, o que acarreta a aplicação da pena de deserção e o não conhecimento do apelo.
+2. Em se tratando de material contábil, a sua prova demandaria a realização de perícia, sendo inviável o seu acolhimento somente por meio de prova testemunhal, não havendo que se falar em cerceamento de defesa.
+3. Pela teoria da exceção de contrato não cumprido, inserta no artigo 476 do Código Civil, nos contratos bilaterais, nenhum dos contratantes, antes de cumprida a sua obrigação, pode exigir o implemento da do outro.
+4. Recurso de apelação do Condomínio réu não conhecido. Apelo e agravo retido dos autores desprovidos.
+Opostos embargos de declaração, foram desprovidos (fls. 1.210-1.218 e-STJ).
+Inicialmente, cumpre destacar que a decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Em relação ao juízo de admissibilidade realizado pelo Tribunal de origem, destaco que esta Corte possui entendimento no sentido de que "é admitida a incursão no mérito do recurso especial pelo Tribunal a quo para a verificação da admissibilidade do apelo nobre" (AgRg no Ag 1.034.534/SP, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, DJe 3.2.2009).
+Não admitido o especial na origem, ante a incidência das Súmulas 5 e 7 do STJ quanto à inaplicabilidade da teoria da exceção do contrato não cumprido e a possibilidade de compensação dos prejuízos com os valores da condenação, limitaram-se as agravantes a reiterar os argumentos já lançados em suas razões recursais e a afirmar, de forma superficial e genérica, que "não se requer o reexame da matéria fática" (fl. 1.361, e-STJ).
+Assim, sem a impugnação específica e suficiente para infirmar os fundamentos da decisão agravada, por analogia se aplica o princípio do enunciado n. 182 da Súmula do STJ, reproduzido no art. 932, III, do CPC/2015.
+Em face do exposto, não conheço do agravo.
+Intimem-se.
