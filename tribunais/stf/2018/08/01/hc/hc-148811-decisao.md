@@ -1,0 +1,36 @@
+Decisão:
+    Vistos.
+    Cuida-se de habeas corpus, como pedido de liminar, impetrado em favor de Darlan da Silva e Diego Santos da Silva, apontando como autoridade coatora a Sexta Turma do Superior Tribunal de Justiça, que negou provimento ao RHC nº 83.238/AL, Relator o Ministro Antonio Saldanha Palheiro.
+    Pleiteou-se com esta impetração o deferimento liminar para “determinar a realização da audiência de custódia, no prazo de 24 horas, assegurando-se aos pacientes, o direito de aguardar em liberdade o trânsito em julgado da Ação Penal 0700514-84.2016.8.02.0044 (...)” e, no mérito, a concessão da ordem, ratificando-se a liminar ou para que seja revogada a custódia dos pacientes.
+    Em 18/10/17, à luz do que autoriza o art. 192, caput, do RISTF, concedi parcialmente a ordem de habeas corpus a fim de determinar a realização, em até 24 (vinte e quatro) horas, da audiência de custódia, devendo o juízo processante reapreciar a eventual necessidade de manutenção da segregação cautelar dos pacientes, bem como a possibilidade de aplicação de medidas cautelares diversas (CPP, art. 319).
+    Por intermédio da Petição/STF nº 63997/17, noticiou a impetrante que “a magistrada do primeiro grau proferiu decisão no último dia 23 de outubro se negando a cumprir a ordem emanada destes autos”.
+    Esclareceu, ainda, que
+    “a juíza da Comarca de Marechal Deodoro, cidade situada na região metropolitana de Maceió, enviesou diversos argumentos, todos no sentido de dificultar a realização do ato ordenado pelo Supremo Tribunal Federal, concluindo que está ‘prejudicada a finalidade da audiência de custódia’.”
+    De fato, o despacho proferido pela Juíza de Direito da 2ª Vara Cível e Criminal de Marechal Deodoro/AL a respeito da decisão por mim proferida neste habeas corpus, trouxe as seguintes premissas:
+    “Perquirindo os autos, verifica-se que o Excelentíssimo Ministro Dias Toffoli determinou a realização, em até 24 horas, de audiência de custódia, a fim de que este Juízo pudesse reapreciar a necessidade da manutenção da prisão preventiva de DARLAN DA SILVA e DIEGO SANTOS DA SILVA, bem como a possibilidade de aplicação de medidas cautelares diversas.
+    (...)
+    Oportuno esclarecer, outrossim, que este Juízo não realizou audiência de custódia para oitiva dos réus, porquanto a Resolução TJ/AL Nº 21, de 15 de setembro de 2015, que implantou, no âmbito do Poder Judiciário do Estado de Alagoas, a realização de audiências de custódia, disciplinou tão somente sua realização na capital do Estado, não indicando como seria sua ocorrência nas comarcas do interior, como é o caso da Comarca de Marechal Deodoro.
+    Ponto importante a ser gizado é o fato de que a unidade carcerária onde os réus DARLAN DA SILVA e DIEGO SANTOS DA SILVA se encontram segregados está localizada na capital do Estado, de maneira que há dificuldade, por parte do sistema prisional, de deslocar os réus em prazo tão exíguo, seja em razão da distância geográfica, seja em virtude da condução de segregados para outros juízo, nos quais existem atos processuais anteriormente agendados.
+    Revela-se necessário atentar, noutro passo, que o feito já se encontra devidamente instruído, inclusive com interrogatório de ambos os pacientes, ocasião em que assumiram a autoria do fato que lhes é imputado, sem haver ventilação, ainda, por parte de quaisquer deles, sobre a ocorrência de qualquer situação que tornasse ilegal a custódia cautelar, seja na fase administrativa, seja na fase judicial da persecução penal.
+    Cumpre realçar, por fim, que este Juízo, recentemente, reavaliou a prisão preventiva dos réus, tendo por conclusão sua manutenção, na medida em que a gravidade concreta do fato evidenciou – e evidencia – a existência dos pressupostos fáticos e normativos ensejadores da custódia cautelar, sendo certo que não se mostra adequada à espécie a aplicação de qualquer outra medida cautelar menos severa aos agentes.
+    Isto posto, considerando os argumentos alhures delineados, especialmente aqueles referentes ao fim da instrução processual, a realização de interrogatório e a necessidade da manutenção da prisão preventiva dos réus, entendo, salvo melhor juízo de sua Excelência Ministro Relator Dias Toffoli, entendo prejudicada a finalidade da audiência de custódia nos presentes autos, considerando que o feito já está em vias de ser sentenciando, aguardando, apenas, a apresentação das alegações finais, tanto do Ministério Público como da defesa dos réus.”
+    Por essa razão, determinei ao Juízo de Direito da 2ª Vara Cível e Criminal de Marechal Deodoro/AL que cumprisse a decisão proferida pelo Supremo Tribunal Federal nesta impetração no que diz respeito à realização da audiência de apresentação dos pacientes.
+    Em petição encaminhada à Corte posteriormente (anexo 30), a autoridade judiciária de Primeiro Grau comunicou a realização da audiência de apresentação sob a forma do art. 185, § 2º, do Código de Processo Penal (videoconferência).
+    Por sua vez, insurgiu-se a impetrante, em petição incidental, contra a realização do ato processual por videoconferência ao argumento de que “a norma invocada para tanto, diz respeito unicamente ao interrogatório do réu, e não a este tipo de audiência (CPP, art. 185, § 2º).”
+    Para a defesa,
+    “houve um grande atropelo, um arremedo de audiência de custódia, que em última análise não dá cumprimento ao que foi determinado neste habeas corpus. Afinal, a natureza jurídica de determinado ato é definida por seus elementos essenciais, não por seu nome; ou seja, realizar uma audiência por videoconferência e dizer que se trata de audiência de custódia é o mesmo que nada (...)”
+    Pleiteia, nesse sentido, que seja concedida nova ordem de “habeas corpus aos pacientes com a finalidade de restituir-lhes a liberdade”, ou que seja “determinado o cumprimento imediato, correto e integral da ordem proferida pelo Supremo Tribunal Federal neste writ, com a apresentação pessoal dos pacientes perante a autoridade judiciária competente em audiência de custódia.”
+    É o relatório.
+    Decido.
+    Informações obtidas no sítio eletrônico do Tribunal de Justiça de Alagoas dão conta da superveniência, em 9/2/18, de sentença penal condenatória proferida em desfavor dos pacientes (Ação Penal nº 0700514-84.2016.8.02.0044), que lhes negou o direito de recorrer em liberdade.
+    Pois bem, a condenação superveniente inviabiliza a discussão acerca da validade da prisão cautelar mantida em audiência de custódia realizada por videoconferência, uma vez que já está superada essa fase processual.
+    Nesse sentido, por exemplo:
+    “Conforme se extrai das informações prestadas pelo Juízo de Direito da 2ª Vara Criminal da Comarca de Jaú/SP, na data de 18.7.2016 foi proferida sentença condenatória nos autos da Ação Penal n. 0001203-08.2016.8.26.0302.
+    Desse modo, ultrapassada a fase de instrução processual, não há falar em realização de audiência de custódia, de forma que não mais subsiste interesse jurídico legítimo do reclamante a ser amparado na presente via.” (Rcl nº 24.382/DF, Relator o Ministro Gilmar Mendes, DJe de 2/9/16)
+    Em face desses argumentos, julgo prejudicado o requerimento formulado (RISTF, art. 21, inciso IX).
+    Publique-se.
+    Arquive-se.
+    Brasília, 1º de agosto de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
