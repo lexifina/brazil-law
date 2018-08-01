@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto em 05/08/2014, por NH INDÚSTRIA E COMÉRCIO LTDA, por meio do qual se impugna acórdão, proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+"PROCESSUAL CIVIL. EMPRÉSTIMO COMPULSÓRIO SOBRE ENERGIA ELÉTRICA. CESSÃO DE CRÉDITO. ILEGITIMIDADE PARA PLEITEAR EM JUÍZO.
+1. É possível a cessão de créditos de empréstimo compulsório sobre energia elétrica em favor da Eletrobras. Os créditos do contribuinte, por não estarem sob a égide do direito tributário, podem ser cedidos a terceiros, se inexistirem óbices na lei que instituir a exação. Precedente do STJ.
+2. Demonstrado nos autos que a empresa oposta procedeu à cessão dos créditos a título de empréstimo compulsório sobre energia elétrica que são parte do objeto da demanda principal, de modo que não mais é a titular desses créditos, devendo ser declarada sua ilegitimidade para pleitear em juízo essas diferenças.
+3. Nos termos do art. 1.066 do Código Civil, excetuada a hipótese de disposição em contrário - que no caso não existe - na cessão de um crédito estão abrangidos todos os seus acessórios. "In casu", portanto, evidenciado que foram objeto da cessão, não somente os créditos constituídos, mas também eventuais diferenças decorrentes do empréstimo compulsório sobre energia elétrica.
+4. O efeito da decisão proferida no bojo desta demanda é meramente declaratório no sentido de que a opoente detém a titularidade dos direitos decorrente do empréstimo compulsório pago pela empresa oposta no período de 1987 a 1992, uma vez que a condenação da Eletrobras e da União à devolução das diferenças concernentes a esse empréstimo é objeto de ação diversa ajuizada pela opoente" (fl. 426e).
+
+No Recurso Especial de NH INDÚSTRIA E COMÉRCIO LTDA, manejado com base na alínea a do permissivo constitucional, alega-se violação aos arts. 17, VII, 18, 535, II, e 538, parágrafo único, do CPC/73.
+Recurso Especial admitido (fl. 626e).
+Em virtude da decisão, proferida neste processo, que determinou a devolução dos autos ao Tribunal Regional Federal da 4ª Região, para julgamento, como Agravo interno, do recurso interposto, pela Fazenda Nacional, a impugnar a inadmissão de seu Recurso Especial, com base na sistemática do recurso repetitivo, tem-se a necessidade de aguardar-se o julgamento do referido Agravo interno, de modo que, só então, seja viabilizado o julgamento do presente Recurso Especial.
+Ante o exposto, determino a devolução dos autos ao Tribunal Regional Federal da 4ª Região, com a devida baixa no STJ, de modo que o presente Recurso Especial seja remetido, se for o caso, a este Superior Tribunal de Justiça somente após ultimado o julgamento, por aquele Tribunal, do referido Agravo interno, interposto pela parte ora recorrida.
+I.
