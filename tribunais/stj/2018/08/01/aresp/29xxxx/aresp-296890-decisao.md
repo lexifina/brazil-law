@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544) contra decisão que negou seguimento ao recurso especial, por inexistência de violação de lei federal e incidência da Súmula n. 7 do STJ (e-STJ fls. 363/364).
+O acórdão recorrido está assim ementado (e-STJ fl. 303):
+HONORÁRIOS PROFISSIONAIS LIBERAIS COBRANÇA. 1. Julgamento antecipado da lide - Cerceamento de Defesa - Inocorrência - Dilação probatória - Desnecessidade - Sendo os elementos de instrução constantes dos autos suficientes para a solução da controvérsia, fica afastada a hipótese de cerceamento de defesa - 2. Cobrança proposta pelo autor visando ao recebimento dos valores pagos a assistente técnico contratado em demanda trabalhista - Acólito contratado sem autorização do mandante e por valor exagerado - Improcedência - 3. Honorários advocatícios fixados de acordo com o critério legal - Prejudicial afastada. Sentença mantida. Recurso não provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 317/324).
+No especial (e-STJ fls. 327/339), fundamentado no art. 105, III, "a", da CF, a parte recorrente alegou ofensa ao art. 535 do CPC/1973, por negativa de prestação jurisdicional.
+Apontou afronta ao art. 330, I, do CPC/1973, sustentando cerceamento de defesa pelo julgamento antecipado da lide e impossibilidade de produzir provas.
+Indicou contrariedade ao art. 662 do CC/2002, afirmando a existência de ratificação tácita quanto à contratação do assistente técnico.
+Alegou ainda desrespeito ao art. 128 do CPC/1973, aduzindo a existência de julgamento ultra petita, nos seguintes termos (e-STJ fls. 338/339):
+Inegável, por fim, o desrespeito ao art. 128 do Código, de Ritos. Considerando-se que o requerido também formula um pedido, qual seja, o de improcedência (total ou parcial), há de se admitir que o magistrado que lhe da mais do que foi reclamado, julga ultra petita, levando à decisão comprometida.
+O recorrido, em sua contestação, não negou o serviço, prestado, nem a contratação, nem o proveito que do mesmo"adíveio. Discutiu o valor, apenas, tachando a cobrança de excessiva. A questão do montante sempre foi expressamente enfrentada.
+De tudo isso, resta claro que o recorrido, reconhecendo o, serviço prestado, até que aceitaria pagar algo, mas não o quah,,to disse o autor haver pagado, pois contesta a postulação, vendo incorreção na postura da recorrente.
+No agravo (e-STJ fls. 367/382), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada pelo recorrido (e-STJ fls. 385/396).
+É o relatório.
+Decido.
+O recurso especial e o agravo foram interpostos com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Não há falar em contrariedade ao art. 535 do CPC/1973, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos. Ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação do referido dispositivo.
+Quanto ao cerceamento de defesa, assim se manifestou a Corte estadual (e-STJ fls. 304/306):
+Ora, não caracteriza cerceamento de defesa a não realização de audiência de instrução, se o conjunto probatório for suficiente para a formação da convicção do Juízo.
+(..)
+Existem nos autos elementos probatórios suficientes, a permitir ao Juízo formar sua convicção; e a causa, devidamente instruída, amolda-se perfeitamente à situação do artigo 330, inciso I, do Código de Processo Civil, fragilizando sobremaneira o argumento sustentado pelo recorrente.
+Assim, oportuno e conveniente o julgamento da lide no estado em que se encontrava, tornando desnecessária, portanto, a dilação probatória.
+O acórdão recorrido, com base no conjunto fático-probatório, concluiu pela inexistência de cerceamento de defesa e pela presença das condições para o julgamento antecipado da lide. Não há como modificar tal entendimento no âmbito do recurso especial, incidindo, nesse caso, a Súmula n. 7 do STJ. Confiram-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. CONTRATO DE COMPRA E VENDA DE VIDRO. JULGAMENTO ANTECIPADO DA LIDE. CONVENIÊNCIA DA PRODUÇÃO DE PROVAS. PRESCINDIBILIDADE. REEXAME. NÃO CABIMENTO. ENUNCIADO 7 DA SÚMULA DO STJ. INCIDÊNCIA.
+1. Inviável o recurso especial cuja análise das razões impõe reexame da matéria fática da lide, em que se inclui a conveniência da produção dos elementos de convicção, que se entendeu dispensáveis ante o julgamento antecipado da causa, nos termos da vedação imposta pelo enunciado 7 da Súmula do STJ.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 236.748/SC, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 5/12/2013, DJe 18/12/2013.)
+DIREITO PROCESSUAL CIVIL. COMPROVAÇÃO DO PREPARO NO ATO DA INTERPOSIÇÃO DO RECURSO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CERCEAMENTO DE DEFESA PELO INDEFERIMENTO DE PROVA. LITIGÂNCIA DE MÁ-FÉ. REEXAME DE FATOS E PROVAS. 1. Na linha dos precedentes desta Corte, a comprovação do preparo do recurso deve ocorrer no momento de sua interposição. 2.- A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte. 3.- Não há que se falar em cerceamento de defesa pelo indeferimento de oitiva de uma testemunha, mesmo com julgamento de improcedência ao final do processo, quando essa prova testemunhal não é capaz de comprovar o que pretendido pela recorrente. 4.- Se as instâncias de origem afirmam que a parte deduziu teses contrapostas e que isso causou tumulto processual, não há como, em sede de recurso especial, afastar a litigância de má-fé identificada. Incide, no caso, o óbice da Súmula 7/STJ. 5.- Agravos Regimentais a que se nega provimento.
+(AgRg no REsp n. 1.095.581/RS, Relator Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 28/6/2011, DJe 1º/7/2011.)
+No que diz respeito ao art. 662 do CC/2002, o Tribunal de origem consignou que (e-STJ fl. 306):
+No mais, é certo que não houve qualquer autorização do requerido (autor da reclamação trabalhista) para a contratação do acólito, até porque o mandato não confere poderes ilimitados ao advogado.
+Acrescente-se, ainda, que o valor pago ao assistente técnico se mostra desproporcional ao êxito da demanda trabalhista, motivo este que reforça a necessidade da autorização do mandante.
+Além disso, como muito bem apontou o apelado, se afigura desproporcional e causa estranheza a cobrança de R$ 26.148,00 para o pagamento do assistente técnico, quando o perito oficial recebeu R$ 4.343,85 por um serviço da mesma natureza.
+Vale destacar que o artigo 662 do Código Civil possibilita a ratificação do ato praticado sem poderes suficientes. Todavia, o apelado expressamente discorda da contratação.
+Para alterar tais fundamentos e reconhecer a validade da contratação do assistente técnico, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor da Súmula n. 7 do STJ.
+No que se refere ao art. 128 do CPC/1973, extraem-se as seguintes razões de decidir do acórdão recorrido (e-STJ fl. 306):
+Cumpre consignar que, diferentemente do alegado, é o autor quem fixa dos limites da lide, através de sua petição inicial (artigo 128 do Código de Processo Civil ), não havendo que se falar em julgamento "extra ""ultra" ou "infra petita "
+O especial, todavia, não traz impugnação específica capaz de combater fundamentação do acórdão, de modo que o recurso encontra óbice na Súmula n. 283 do STF. Um dos fundamentos centrais do acórdão impugnado é a conclusão de que os limites da lide são fixados pelo autor da demanda, de forma que a defesa do réu não é parâmetro para a aferição de julgamento "extra" ,"ultra" ou "infra petita". Tal ponto, apto, por si só, a sustentar o juízo emitido, não foi rebatido nas razões recursais, aplicando-se, por analogia, o entendimento da referida súmula.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
