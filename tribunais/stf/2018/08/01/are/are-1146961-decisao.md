@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “TRIBUTÁRIO. ANULATÓRIA DE DÉBITO TRIBUTÁRIO. ISSQN. Decadência e prescrição. Inocorrência. Precedentes do STJ. Autor que não se desincumbiu de provar suas alegações. Sentença mantida. Recurso improvido.” (eDOC 3, p.112)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, alínea “a”, da Constituição Federal, aponta-se violação aos arts. 5º, II; 146, III, “a”; 150, I; e 156, III, do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, que os serviços prestados pela parte recorrente, e não previstos na lista anexa ao Decreto-lei 40611968 (vigente à época dos fatos), não estão sujeitos ao ISS. Aduz-se, ainda, que aos entes federativos é vedado a exigência ou aumento de tributos sem lei que o estabeleça.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Código Tributário Nacional, Lei de Execução Fiscal, Lei 6.830/80) e o conjunto probatório constante dos autos, consignou que não há que se falar em nulidade da CDA. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Também não se vislumbra a nulidade da CDA, já que está formalmente em ordem, tendo atendido aos requisitos exigidos pelo artigo 202 do CTN, reproduzidos pelo artigo 20, §§ 50 e 60, da Lei 6.830/80, gozando, portanto, de presunção de liquidez e certeza (artigos 204 do CTN e 3º da LEF).
+    Quanto à inexigibilidade da exação, há de ser ressaltado que, como todos os lançamentos mencionados foram lavrados em 30.06.2005, vale dizer, antes de decorrido o prazo quinquenal normado pelo inc. I do art. 173 do CTN, eis que os débitos mais remotos referem-se a junho de 2001 a janeiro de 2002, não se configura, inequivocamente, a decadência suscitada pela apelante, a inviabilizar a cobrança do crédito questionado.
+    (…)
+    Quanto as demais alegações do autor, como bem assinalado na r. decisão monocrática às fls 366vº, o mesmo foi por diversas vezes intimado a fornecer os documentos solicitados pelo perito judicial, tendo desatendido a todos (cf. Fls. 357, 361, 362/363 e 364.
+    De ser esclarecido que somente com a produção da prova pericial o autor conseguiria comprovar nulidade das CDA's e/ou a inconsistência de seus valores.
+    Como o autor não produziu tal prova, é o quanto basta para infirmar o direito invocado.” (eDOC 3, p. 112-116)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. Exceção de pré-executividade. Dilação probatória. CDA. Procedimento administrativo fiscal. Alegada existência de nulidade. Infraconstitucional. Necessidade de reexame dos fatos e das provas. Súmula nº 279/STF. 1. O exame da controvérsia acerca da impossibilidade de dilação probatória em sede de exceção de pré-executividade e acerca da alegada nulidade da certidão de dívida ativa e do procedimento administrativo fiscal, pressupõe a análise da causa à luz da legislação infraconstitucional aplicável, bem como o reexame das provas dos autos, o que é vedado em recurso extraordinário. Incidência do enunciado da Súmula nº 279/STF. 2. Agravo regimental não provido, com imposição de multa de 2% (art. 1.021, § 4º, do CPC). 3. Não se aplica ao caso dos autos a majoração dos honorários prevista no art. 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais pela Corte de origem.” (ARE-AgR 1073.133, Rel. Min. Dias Toffoli, Segunda Turma, DJe 26.2.2018)
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. EXECUÇÃO FISCAL. SUPOSTA NULIDADE DA CERTIDÃO DE DÍVIDA ATIVA – CDA. ALEGADA OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. MATÉRIA SEM REPERCUSSÃO GERAL. TEMA 660. ARE 748.371. DEMAIS ALEGAÇÕES. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. RECURSO INTERPOSTO SOB A ÉGIDE DO CPC/2015. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS NAS INSTÂNCIAS ANTERIORES. IMPOSSIBILIDADE DE MAJORAÇÃO. AGRAVO INTERNO DESPROVIDO.” (RE-AgR 893.250, Rel. Min. Luiz Fux, Primeira Turma, DJe 15.9.2016)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 1º de agosto de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
