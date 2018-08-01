@@ -1,0 +1,10 @@
+DECISÃO
+MAYCON ANTONIO DA [NOME] PINHEIRO alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná.
+Consta dos autos que o paciente - denunciado, no âmbito da "Operação Alexandria", pelo crime descrito no art. 2º, caput, c/c os §§ 2º e 4º, IV, da Lei n. 12.850/2013 - teve a segregação cautelar decretada pelo Juízo de Direito da 8ª Vara Criminal, do Foro Central, da Comarca da Região Metropolitana de Curitiba.
+Neste mandamus, o impetrante alega que "o SUPERIOR TRIBUNAL DE JUSTIÇA, em julgamento do HABEAS CORPUS nº 396.020 - PR (2017/0084222-2) concedeu ordem de liberdade a [NOME] e ainda determinou que havendo identidade fático-processual entre o paciente e corréus na ação penal, deve ser aplicado o art. 580 do CPP, com extensão da ordem de habeas corpus". Aduz a ausência dos requisitos para a manutenção da custódia, bem como a possibilidade de aplicação das medidas cautelares previstas no art. 319 do CPP.
+A defesa pede, inclusive liminarmente, seja revogada a prisão preventiva ou, subsidiariamente, seja aplicada qualquer das medidas cautelares previstas no artigo 319 do Código de Processo Penal.
+Decido.
+Ao analisar os autos, verifico que a inicial do writ não veio acompanhada da cópia do decreto preventivo, o que prejudica a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, pois, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração. Na mesma diretriz: HC n. 235.131/MG, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 29/8/2013.
+À vista do exposto, constatada a ausência de peça essencial para a análise do pleito de urgência, indefiro liminarmente este habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se. Intimem-se.
