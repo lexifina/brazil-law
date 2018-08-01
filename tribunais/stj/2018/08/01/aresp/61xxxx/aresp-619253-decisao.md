@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto de acórdão que recebeu a seguinte ementa (e-STJ fl. 113):
+AGRAVO DE INSTRUMENTO - IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA - AÇÃO CIVIL PÚBLICA - IBDCI - INCLUSÃO DO EXPURGOS INFLACIONÁRIOS DE MARÇO A MAIO DE 1990 E FEVEREIRO DE 1991 - TERMO INICIAL DOS JUROS REMUNERATÓRIOS - OBSERVÂNCIA AO TÍTULO EXECUTIVO - TERMO FINAL DOS JUROS REMUNERATÓRIOS - INCIDÊNCIA ATÉ A DATA DO EFETIVO PAGAMENTO - CAPITALIZAÇÃO AFASTADA - JUROS DE MORA - INCIDÊNCIA DE 0,5% AO MÊS - RECURSO PARCIALMENTE PROVIDO.
+A limitação do cumprimento de sentença deverá se dar no exato comando expresso no título executivo, em razão do princípio da fidelidade ao título, de modo que se mostra descabida a inclusão nos cálculos do período relativo aos meses de março, abril e maio de 1990, fevereiro de 1991, bem como juros remuneratórios em período diverso do consignado na sentença.
+Os juros remuneratórios, no percentual de 0,5% ao mês, tem como termo final a data do efetivo pagamento da dívida.
+Verificado que o comando executivo judicial nada dispôs sobre a forma capitalizada dos juros, afasta-se a pretendida capitalização.
+Conforme entendimento exarado no Recurso Especial nº REsp 1112746/DF, submetido ao rito do art. 543-C do CPC, se a sentença for posterior a entrada em vigor do Novo Código Civil e determinar juros de 6% ao ano, e não havendo recurso específico acerca deste ponto, deve ser aplicado esse percentual, uma vez que a modificação depende de iniciativa da parte.
+Alega-se ofensa aos arts. 286, 293 e 535 do Código de Processo Civil de 1973; 59, 60, 512, 1.093 e 1.265 do Código Civil; 15 da Lei nº 4.380/64, bem como dissídio.
+Anoto, preliminarmente, que a questão federal foi decidida de modo suficiente, motivo pelo qual rejeito a alegação de ofensa ao art. 535 do Código de Processo Civil de 1973.
+Quanto ao termo final dos juros remuneratórios (arts. 59, 60, 512, 1.093 e 1.265 do Código Civil; 286 e 293 do Código de Processo Civil de 1973 e 15 da Lei 4.380/64), o Tribunal de origem aplicou o entendimento que são devidos até o efetivo pagamento da dívida, citando precedentes desta Corte Superior. Assim constou do acórdão (e-STJ fls. 118/120):
+Já no que concerne ao termo final dos juros remuneratórios, o Superior Tribunal de Justiça firmou entendimento no sentido de que são devidos até a data do efetivo pagamento. In verbis:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. COMPROVAÇÃO DA TEMPESTIVIDADE DO RECURSO ESPECIAL EM SEDE DE AGRAVO REGIMENTAL. SUSPENSÃO DO EXPEDIENTE FORENSE. POSSIBILIDADE. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. TERMO FINAL. EFETIVO PAGAMENTO.
+(..) 4. Tendo os juros remuneratórios a finalidade de remunerar o capital disponibilizado, sua incidência tem como termo final a data do efetivo pagamento da dívida.
+5. Agravo regimental provido para, conhecendo-se do agravo, conhecer em parte do recurso especial e dar-lhe provimento".
+(AgRg no AREsp 408.287/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 08/05/2014, DJe 27/05/2014)
+"AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. ENCARGOS CONTRATUAIS. INADIMPLÊNCIA. TERMO AD QUEM. PAGAMENTO. PRECEDENTES. SÚMULA N. 83-STJ. NÃO PROVIMENTO.
+1. "Havendo inadimplência, o termo final para a cobrança dos encargos contratados, entre os quais os juros remuneratórios, é o efetivo pagamento do débito." (REsp 646.320/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/06/2010, DJe 29/06/2010) (..)" (AgRg no Ag 1416664/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 28/05/2013, DJe 12/06/2013)
+No mesmo sentido vem decidindo esta 3ª Câmara Cível:
+"RECURSO DE APELAÇÃO - AÇÃO DE COBRANÇA DE EXPURGOS INFLACIONÁRIOS - PLANO COLLOR II - SUSPENSÃO DO PROCESSO - DECISÃO DO STF - IMPOSSIBILIDADE - PRELIMINAR DE ILEGITIMIDADE PASSIVA AFASTADA - MÉRITO - VIOLAÇÃO A DIREITO ADQUIRIDO - JUROS REMUNERATÓRIOS DEVIDOS - RECURSO CONHECIDO E NÃO PROVIDO.
+(..) IV - Os juros remuneratórios de 0,5% ao mês devem compor a remuneração das cadernetas de poupança que deixaram de receber a aplicação dos corretos índices de correção monetária, incidindo mensalmente sobre as diferenças devidas até a data do efetivo pagamento".
+(Apelação Nº 0000163-39.2011.8.12.0016, 3ª Câmara Cível, Relator Des. Marco André Nogueira Hanson, j. 22 de abril de 2014) "APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - SUSPENSÃO DO FEITO - DESNECESSIDADE - ILEGITIMIDADE PASSIVA AD CAUSAM - AFASTADA - MÉRITO - REAJUSTES - PLANOS ECONÔMICOS - CADERNETAS DE POUPANÇA - PREQUESTIONAMENTO - DESNECESSIDADE DE MANIFESTAÇÃO EXPRESSA - SENTENÇA MANTIDA - RECURSO CONHECIDO E IMPROVIDO.
+(..) Os juros remuneratórios são devidos, sobre a diferença da correção monetária não depositada na conta poupança, em razão dos expurgos inflacionários, até a data do efetivo pagamento (..)" (Apelação Nº 0024843-02.2012.8.12.0001, 3ª Câmara Cível, Relator Des. Oswaldo Rodrigues de Melo, 25 de março de 2014)
+Os juros remuneratórios, portanto, são devidos a título de compensação pelo capital colocado a disposição da instituição financeira. Sendo assim, deverão incidir até a data do efetivo pagamento, e não apenas em relação ao período em que a conta permaneceu aberta, nos termos da decisão recorrida.
+Destarte, merece reforma a decisão agravada, a fim de que seja devida a incidência dos juros remuneratórios de 0,5% ao mês sobre as diferenças expurgadas até a data do efetivo pagamento, ressaltando apenas que o termo inicial está fixado no acórdão proferido nos autos de Ação Civil Pública (consulta ao SAJ).
+Ocorre, no entanto, que, em se tratando de contrato de poupança, o entendimento sedimentado no âmbito da Segunda Seção do Superior Tribunal de Justiça é no sentido de que os juros remuneratórios são devidos até a data de encerramento da conta poupança.
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - IMPUGNAÇÃO DO CUMPRIMENTO DE SENTENÇA - EXPURGOS INFLACIONÁRIOS EM CADERNETA DE POUPANÇA - TERMO FINAL DOS JUROS REMUNERATÓRIOS NA DATA DO ENCERRAMENTO DA CONTA POUPANÇA - ENTENDIMENTO FIRMADO PELA 2ª SEÇÃO DO STJ. INSURGÊNCIA DO AUTOR.
+1. Os juros remuneratórios são devidos até a data de encerramento da conta poupança. Precedentes.
+2. Agravo regimental desprovido.
+(AgRg no AREsp 658.885/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/11/2017, DJe 27/11/2017)
+AGRAVO INTERNO NO RECURSO ESPECIAL. BANCÁRIO. EXPURGOS INFLACIONÁRIOS. CONTA-POUPANÇA. ART. 6º, VIII, DO CDC. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. JUROS REMUNERATÓRIOS. TERMO FINAL. DATA DE ENCERRAMENTO. CONTRATO DE DEPÓSITO.
+1. Ausente o prequestionamento, até mesmo de modo implícito, de matéria suscitada no recurso especial, incide, por analogia, o disposto na Súmula nº 282/STF.
+2. Os juros remuneratórios são devidos em virtude da utilização de capital alheio, de forma que, inexistindo quantia depositada, não se justifica a incidência de juros remuneratórios, pois o depositante não estará privado da utilização do dinheiro e o banco depositário não estará fazendo uso do capital de terceiros ou não terá a disponibilidade da pecúnia. Precedentes.
+3. A incidência dos juros remuneratórios, na espécie, se dá até o encerramento da conta-poupança, quer esta ocorra em razão do saque integral dos valores depositados, quer ocorra a pedido do depositante, com a consequente devolução do numerário depositado.
+4. Agravo interno não provido.
+(AgInt no REsp 1545905/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/11/2016, DJe 21/11/2016)
+CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA. POSSIBILIDADE. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. TERMO FINAL DE INCIDÊNCIA DOS JUROS REMUNERATÓRIOS. DATA DE ENCERRAMENTO DA CONTA BANCÁRIA. PRECEDENTES. DECISÃO MANTIDA.
+1. O relator pode apreciar monocraticamente o mérito do recurso especial em sede de agravo em recurso especial, nos termos dos arts.544 e 557 do CPC, 34, VII e XVIII, e 254, I, do RISTJ.
+2. "Em demanda relativa a contrato de caderneta de poupança, a jurisprudência do STJ orienta que, uma vez extinto o contrato, com o saque integral dos recursos e o encerramento da conta, cessa a incidência de juros remuneratórios" (AgRg no AREsp n. 681.579/MS, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 4/8/2015, DJe 12/8/2015).
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 680.353/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 01/09/2015, DJe 04/09/2015)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. EXPURGOS INFLACIONÁRIOS. CADERNETA DE POUPANÇA. TERMO FINAL DOS JUROS REMUNERATÓRIOS. ENCERRAMENTO DA CONTA. DECISÃO SINGULAR QUE CONHECE DO AGRAVO PARA PROVER O RECURSO ESPECIAL. POSSIBILIDADE. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356 DO STF.
+1. Em demanda relativa a contrato de caderneta de poupança, a jurisprudência do STJ orienta que, uma vez extinto o contrato, com o saque integral dos recursos e o encerramento da conta, cessa a incidência de juros remuneratórios. Precedentes.
+2. Nos termos do art. 544, § 4º, inciso II, alínea "c", do CPC, é possível ao relator conhecer do agravo para prover o recurso especial, por decisão singular.
+3. Incidem as Súmulas 282 e 356 do STF quanto ao tema suscitado em contrarrazões ao recurso especial, porquanto não foi enfrentado pelo tribunal de origem.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 681.579/MS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 04/08/2015, DJe 12/08/2015)
+Assim, merece amparo a pretensão.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial para que os juros remuneratórios incidam até o encerramento da conta poupança.
+Intimem-se.
