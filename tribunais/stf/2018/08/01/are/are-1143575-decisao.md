@@ -1,0 +1,27 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pela Fundação Richard Hugh Fisk contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “AÇÃO DECLARATÓRIA DE NULIDADE DE RELAÇÃO TRIBUTÁRIA – ITBI – Pretensão de não recolhimento do tributo por fundação de direito privado – Ausência de Certificado de Entidade Beneficente de Assistência Social – Imunidade Tributária – Inocorrência – Art. 150, VI, ‘c’, da CF – Ausência de preenchimentos dos requisitos legais.
+    Recurso não provido.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar, desde logo, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido pelo ora recorrente, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do recurso extraordinário, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal de Justiça do Estado de São Paulo, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos fático-probatórios:
+    “Assim, não basta à pessoa jurídica afirmar que não tem fins lucrativos, tem que demonstrar no caso concreto o preenchimento dos requisitos necessários para concessão do benefício fiscal.
+    No mesmo sentido, não há nos autos qualquer prova de que a autora possui certificado de entidade filantrópica concedido pelo CNAS, documentos estes que lhe garantiriam a imunidade buscada e que demonstrariam o caráter filantrópico da Instituição, nem observância da Portaria CAT 15/2003 que dispõe especificamente sobre o procedimento para que o interessado obtenha da Administração tributária manifestação sobre a existência ou não da imunidade, nos termos dos artigos 1º e 2º.”
+    Vê-se, portanto, que a pretensão deduzida pela parte ora recorrente revela-se processualmente inviável, pois o apelo extremo não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, mostram-se condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Convém assinalar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 1.031.865/RS, Rel. Min. GILMAR MENDES – ARE 1.054.366/SP, Rel. Min. RICARDO LEWANDOWSKI – ARE 1.123.803/SP, Rel. Min. CELSO DE MELLO, v.g.):
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ENTIDADE DE ASSISTÊNCIA SOCIAL SEM FINS LUCRATIVOS. COMPROVAÇÃO DOS REQUISITOS DE IMUNIDADE TRIBUTÁRIA. CONTROVÉRSIA DECIDIDA EXCLUSIVAMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279 DO STF.
+    1. Caso em que entendimento diverso do adotado pela instância judicante de origem demandaria o reexame da legislação ordinária aplicada à espécie e a análise dos fatos e provas constantes dos autos. Providências vedadas neste momento processual.
+    2. Agravo regimental desprovido.”
+    (AI 780.914-AgR/SP, Rel. Min. AYRES BRITTO)
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. IPTU. Imunidade. Entidade de assistência social sem fins lucrativos. Locação de imóvel. Súmula nº 724/STF. Comprovação dos requisitos para reconhecimento da imunidade. Controvérsia decidida à luz da legislação infraconstitucional e do conjunto fático-probatório. Súmula nº 279/STF. Ônus da prova.
+    1. O Tribunal de origem não divergiu da orientação da Corte no sentido de que a regra imunizante contida no art. 150, VI, ‘c’, da Constituição Federal afasta a incidência do IPTU sobre os imóveis de propriedade das instituições de assistência social sem fins lucrativos, mesmo que alugados a terceiros, desde que o valor dos aluguéis seja aplicado nas suas atividades essenciais (Súmula nº 724/STF).
+    2. O acórdão recorrido concluiu pelo enquadramento da instituição como entidade de assistência social sem fins lucrativos, a partir da análise dos requisitos previstos no art. 14 do Código Tributário Nacional. Para ultrapassar o entendimento consagrado pelo Tribunal a quo, necessário seria o reexame dos fatos e das provas e da legislação infraconstitucional de regência. Precedentes.
+    3. A presunção de que o imóvel ou as rendas da entidade assistencial reconhecidamente imune estão afetados às suas finalidades institucionais milita em favor da entidade. Cabe ao Fisco elidir a presunção, mediante a constituição de prova em contrário.
+    4. Agravo regimental não provido.”
+    (ARE 760.876-AgR/SE, Rel. Min. DIAS TOFFOLI)
+    Sendo assim, e tendo em consideração as razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Publique-se.
+    Brasília, 01 de agosto de 2018.
+Ministro CELSO DE MELLO
+Relator
