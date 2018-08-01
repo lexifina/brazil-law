@@ -1,0 +1,29 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. TENTATIVA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS QUE NEGARAM TRÂNSITO AO RECURSO ESPECIAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO NÃO PROVIDO.
+1. Devem ser mantida a decisão agravada, uma vez que, nas razões do agravo em recurso especial, a defesa deixou de impugnar, de maneira clara e específica, os fundamentos utilizados pela eg. Corte de origem para negar seguimento ao apelo nobre, deixando de cumprir o requisito previsto no art. 932, inciso III, do Código de Processo Civil, não havendo, assim, razão para reforma do decisum agravado.
+2. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JORGE MUSSI: Trata-se de agravo regimental interposto por [NOME], nos termos do art. 258 do Regimento Interno do Superior Tribunal de Justiça, contra decisão unipessoal da Presidência desta Corte (e-STJ, fls. 834-835), que não conheceu do agravo em recurso especial.
+Em 11 de setembro de 2005, o agravante tentou matar a vítima identificada nos autos, ministrando-lhe veneno popularmente conhecido como "chumbinho". O resultado só não se concretizou porque a vítima recebeu atendimento médico a tempo. Em razão disso, o réu foi denunciado pela prática do crime previsto no art. 121, § 2º, incisos I e II, na forma do art. 14, inciso II, do Código Penal.
+Após o regular trâmite da ação penal, o réu foi condenado a 9 (nove) anos de reclusão, em regime inicial fechado. O eg. Tribunal de Justiça de Minas Gerais manteve a pena imposta pelo magistrado singular.
+Em sede de recurso especial, a defesa requereu a anulação do julgamento, argumentando ter ocorrido reformatio in pejus indireta quanto ao regime inicial. O recurso deixou de ser admitido na origem em razão do óbice indicado nos enunciado n. 283, da Súmula do Supremo Tribunal Federal, além disso, o eg. Tribunal mineiro consignou ser necessário o reexame de fatos e provas para atender ao pedido formulado, providência inviável na via eleita, a teor do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+O agravo em recurso especial não foi conhecido, pois o agravante, em suas razões, deixou de infirmar os fundamentos apresentados pela Corte de origem para negar trânsito ao recurso, deixando de atender ao requisito previsto no art. 932, inciso III, do Código de Processo Civil.
+Neste regimental, a defesa infirma o fundamento empregado para não conhecer do recurso e, ao final, pugna pela reconsideração da decisão agravada ou, subsidiariamente, pela apresentação do feito ao Colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JORGE MUSSI: Inicialmente, atesto a tempestividade deste recurso, pois a decisão impugnada foi publicada em 21.2.2018 (e-STJ, fl. 836) e o presente recurso foi protocolizado eletronicamente em 26.2.2018 (e-STJ, fl. 839), dentro do prazo anotado no art. 258 do Regimento Interno desta Corte.
+Quanto ao mérito recursal, verifica-se que a insurgência não merece prosperar.
+A eg. Corte de origem negou trânsito ao recurso especial porque, quanto ao regime inicial, além da natureza hedionda do delito praticado, a presença de circunstâncias judiciais desfavoráveis justificaram a imposição de regime inicial mais gravoso. Esse segundo fundamento não foi impugnado, de modo específico, pelo recorrente nas razões do seu apelo nobre, motivo pelo qual aplicou-se o óbice contido no enunciado n. 283 da Súmula do Supremo Tribunal Federal. Além disso, a Corte mineira destacou a inviabilidade de análise do pleito recursal em face da necessidade de reexame dos elementos informativos dos autos, providência que desborda os estreitos limites do recurso especial, a teor do enunciado sumular n. 7 deste Superior Tribunal de Justiça.
+Nas razões do agravo, no entanto, a defesa apenas reproduziu os argumentos anteriormente apresentados em sede de recurso especial, insistindo na tese de ocorrência de reformatio in pejus indireta e repisando os argumentos em favor do abrandamento do regime inicial.
+Assim, como se alcança, o ora agravante limitou-se a renovar as razões do recurso especial, aplicando-se, corretamente, o verbete n. 182 da Súmula do STJ, que consigna a inviabilidade do agravo que deixa de infirmar os fundamentos da decisão agravada, como no caso.
+Nessa direção, veja-se:
+PENAL. RECURSO QUE DEIXA DE IMPUGNAR OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N.º 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Não foram atacados os fundamentos da decisão agravada, atraindo a aplicação dos enunciados n.º 182 da Súmula deste Superior Tribunal de Justiça.
+2. Agravo regimental não conhecido. (AgRg no AREsp 385.387/RN, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 15/10/2013, DJe 25/10/2013)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSUAL CIVIL. PETIÇÃO DE AGRAVO REGIMENTAL QUE NÃO ATACA TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DESTA CORTE.
+I - O Agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando seu desacerto, de modo a justificar o cabimento do Recurso Especial interposto, sob pena de não ser conhecido o agravo. Incidência da Súmula n. 182/STJ: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+II- Agravo regimental não conhecido. (AgRg no REsp 1183222/RN, Rel. Min. REGINA HELENA COSTA, QUINTA TURMA, julgado em 17/9/2013, DJe 23/9/2013)
+Desse modo, não há qualquer reparo a ser feito na decisão objurgada, razão pela qual, nego provimento ao agravo regimental.
+É o voto.
