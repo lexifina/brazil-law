@@ -1,0 +1,18 @@
+DECISÃO
+Na origem, trata-se de ação ajuizada por [NOME] em face da União que objetiva, em síntese, Na sentença julgou-se improcedente o pedido. No Tribunal Regional Federal da 2ª Região, a sentença foi mantida, conforme a seguinte ementa do acórdão:
+APELAÇÃO CÍVEL. PENSÃO ART. 5o, II E § ÚNICO DA LEI 3373/58. SERVIDOR CIVIL. FILHA MAIOR, SOLTEIRA OCUPANTE DE CARGO PÚBLICO. ACUMULAÇÃO ILÍCITA. ADESÃO A PROGRAMA DE DESLIGAMENTO VOLUNTÁRIO. RESTABELECIMENTO DO BENEFÍCIO. IMPOSSIBILIDADE.
+1. Consoante o art. 5o, § único da Lei 3373/1958 "A filha solteira, maior de 21 (vinte e um) anos, só perderá a pensão temporária quando ocupante de cargo público permanente". Nada obstante a citada previsão legal, durante 9 (nove) anos a Autora acumulou, ilicitamente, o benefício da pensão e a remuneração de cargo público, inclusive firmando declarações inverídicas de não acumulação, até o momento em que a situação indevida foi constatada pelo Ministério da Saúde e ela foi instada a regularizar a situação, devendo optar pelo cargo efetivo ou pela pensão até 30/06/1999, o que não foi feito. Somente com a edição da MP 1917/1999, publicada em 29 de julho de 1999, instituindo o PDV (Programa de Desligamento Voluntário) a partir de 23 de Agosto de 1999, a Autora desligou-se do cargo público, mediante adesão ao programa que previa, inclusive, a percepção de indenização entre outras vantagens. No contexto narrado e por absoluta falta de amparo legal não prospera a pretensão Autoral de restabelecimento do benefício da pensão temporária devidamente suspensa pela Administração.
+2. Apelação desprovida.
+Após juízo negativo de admissibilidade na origem, sobreveio a interposição de agravo nos próprios autos.
+Contrarrazões ao recurso especial, às fls. 488-494.
+Recebidos os autos pelo Superior Tribunal de Justiça, foi proferida decisão pela qual não se conheceu do agravo em recurso especial diante da ausência de impugnação específica aos fundamentos da decisão agravada.
+Em embargos de declaração, aponta a parte embargante omissão na majoração dos honorários advocatícios.
+Intimada, a parte embargada requer a rejeição dos embargos.
+É o relatório. Decido.
+Os embargos merecem acolhimento.
+Segundo decidido pelo Plenário desta Corte na sessão realizada em 9/3/2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Sendo assim, aplica-se o Código de Processo Civil de 2015.
+De igual modo, o enunciado administrativo n. 7/STJ dispõe que, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+Por sua vez, nos termos do § 11 do art. 85 do Código de Processo Civil de 2015: "O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento."
+Na sentença, fixaram-se os honorários advocatícios em R$ 500,00 (quinhentos reais) (fl. 335). No acórdão, a sentença foi mantida (fls. 407-413).
+Ante o exposto, considerando o trabalho adicional realizado, com a apresentação de contrarrazões ao recurso especial, e os critérios previstos nos §§ 2º a 6º do art. 85 do Código de Processo Civil de 2015, acolho os embargos de declaração, para integrar a decisão embargada, fazendo constar a majoração dos honorários advocatícios em R$100,00 (cem reais).
+Publique-se. Intimem-se.
