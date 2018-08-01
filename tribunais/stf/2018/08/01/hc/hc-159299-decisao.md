@@ -1,0 +1,33 @@
+Decisão:
+Ementa: Processual penal. Habeas corpus. Homicídio. Dosimetria da pena. Supressão de instância.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Reynaldo Soares Da Fonseca, assim ementado:
+    “PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1. FUNDAMENTO DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. OFENSA À DIALETICIDADE. INCIDÊNCIA DA SÚMULA N. 182/STJ. 2. INOVAÇÃO RECURSAL. NÃO CABIMENTO. PRECLUSÃO CONSUMATIVA. 3. CONCESSÃO DA ORDEM DE OFÍCIO. INICIATIVA DO ÓRGÃO JULGADOR. 4. AGRAVO NÃO CONHECIDO.
+    1. A petição recursal do agravante esbarra no óbice do enunciado n. 182 da Súmula desta Corte porquanto não impugna os fundamentos da decisão agravada, trazendo, em verdade, matéria completamente diversa daquela trazida no recurso especial. A não impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo, por violação do princípio da dialeticidade, uma vez que os fundamentos não impugnados se mantêm.
+    2. ‘Na linha dos precedentes do Superior Tribunal de Justiça, os argumentos apresentados em momento posterior à interposição do recurso especial não são passíveis de conhecimento por importar inovação recursal em virtude da ocorrência de preclusão consumativa’ (REsp 1705609/PR, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/04/2018, DJe 16/04/2018).
+    3. ‘A concessão da ordem de ofício ocorre por iniciativa do próprio órgão jurisdicional, quando constatada a existência de ilegalidade flagrante ao direito de locomoção, não servindo para suprir eventuais falhas na interposição do recurso, ou mesmo para que sejam apreciadas alegações trazidas a destempo’ (AgInt no REsp 1606199/ES, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 16/08/2016, DJe 01/09/2016).
+    4. Agravo regimental não conhecido.”
+    2. Extrai-se dos autos que a paciente foi condenada pela prática do delito descrito no art. 121, § 2º, IV e § 4º c/c o art. 14, II, do CP, a uma pena de 14 anos, 2 meses e 20 dias de reclusão, em regime inicial fechado.
+    3. Irresignada, a defesa apelou. O Tribunal de Justiça do Estado do Piauí deu parcial provimento ao recurso para reduzir a pena para 11 anos, 4 meses e 19 dias de reclusão, em regime inicial fechado.
+    4. A defesa, então, interpôs recurso especial, inadmitido na origem. Ato contínuo, interpôs agravo. O relator, Ministro Reynaldo Soares da Fonseca, conheceu do agravo para não conhecer do recurso especial.
+    5. Contra essa decisão, foi interposto agravo regimental, não conhecido.
+    6. Neste habeas corpus, a parte impetrante sustenta, em síntese, a inexistência de motivos justos parar valorar negativamente “a culpabilidade, a conduta social e personalidade do agente e as circunstancias do crime”.
+    Decido.
+    7. O habeas corpus não deve ser concedido.
+    8. De início, verifico que o Superior Tribunal de Justiça não conheceu do recurso especial lá interposto, em razão do não preenchimento dos “requisitos técnicos necessários ao julgamento”, uma vez que a argumentação se encontrava “dissociada da fundamentação utilizada pelas instâncias ordinárias para a aplicação da causa de aumento de pena”. De modo que a autoridade impetrada não apreciou o mérito da pretensão defensiva. O que impede o imediato exame da matéria por esta Corte, sob pena de indevida supressão de instância.
+    9. Não é caso da concessão da ordem de ofício.
+    10. O Juízo de origem, ao passar à dosimetria da pena, analisou as circunstâncias judiciais nos seguintes termos:
+     “1. Culpabilidade - A culpabilidade da acusada é acentuada e ultrapassou o grau médio para os crimes da mesma espécie. Com efeito, ao desferir três golpes de faca contra a vítima, demonstrou uma fúria e uma vontade incontida de agredir e ceifar a vida da vítima, e o que é mais grave, é que a sua fúria aparentemente era desmotivada e estava voltada não só contra a vítima, mas também contra outras desafetas suas, dentre elas, a sua própria genitora, tanto que foi esta a pessoa que inicialmente procurou quando chegou à casa que serve de moradia para a vítima, conforme declarado pela vítima em seu depoimento prestado no Plenário do Tribunal do Júri. A acusada por sua vez, declarou que se dirigiu à casa de sua, mãe com o objetivo de encontrar uma outra pessoa, de quem também não gostava.
+    2. Antecedentes - a acusada não registra antecedentes criminais;
+    3. Conduta-social - a acusada tem conduta social reprovável. Com efeito, convive em conflito com toda sua família.
+    4. Personalidade - A acusada conforme declarações prestadas por sua mãe e seus irmãos, revela uma personalidade voltada para a agressividade e violência, em especial para com os seus familiares, dentre eles, idosos e portadores de necessidades especiais e indefesos, o que autoriza a negativação desta vetorial.
+    5. Motivo - Os motivos do delito, não restaram esclarecidos, razão porque, não podem ser valorados favoráveis ou não, a acusada.
+    6. Circunstâncias - As circunstâncias em que o crime foi praticado também são desfavoráveis à acusada. A acusada Aproveitou a vulnerabilidade', da vítima para atacá-la e o fez, quando a mesma se encontrava em sua residência e na ausência de sua cuidadora, o que terminou por facilitar-lhe a ação.
+    7. Consequências - Além das consequências intrínsecas ao tipo penal, quais sejam, lesões e perigo de vida para a vítima, nenhuma outra consequência relevante adveio, pelo menos não restou comprovado nos autos.
+    8. Comportamento da vítima - vítima em nada contribuiu para a prática do delito.”
+    11. Por outro lado, o TJ/PI, ao julgar o recurso de apelação da defesa e proceder à nova dosimetria da pena, entendeu que, “quanto as circunstâncias judiciais referente a Conduta Social e Personalidade do agente, verifica-se que a aplicação da pena base não se encontra devidamente fundamentada (…) vez que as condutas apresentadas para ambas circunstâncias se confundem, o que impede a valoração negativa das duas concomitantemente, sob pena de configuração do bis in idem”. E, assim, “dentre as 04 (quatro) utilizadas pela Magistrada”, considerou apenas 3 circunstâncias judiciais desfavoráveis. De modo que não verifico teratologia, ilegalidade flagrante ou abuso de poder que autorize o pronto acolhimento da pretensão defensiva.
+    12. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 1º de agosto de 2018.
+Ministro Luís Roberto Barroso
+Relator
+              Documento assinado digitalmente
