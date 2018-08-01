@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo interposto por [NOME] contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 437, e-STJ):
+Ação de cobrança de indenização  seguro de vida - doença preexistente à contratação do seguro e ligada às causas da morte conhecida pelo segurado e omitida - violação ao principio da boa-fé - aplicação do art. 766 do Código Civil - recusa da seguradora ao pagamento da indenização contratada  cabimento - apelação não provida, com observação quanto aos honorários advocatícios.
+Em suas razões de recurso especial (fls. 445/454, e-STJ), a parte recorrente aponta a existência de dissídio jurisprudencial no tocante à interpretação do art. 766 do Código Civil, em relação aos seguintes temas: "(i) salvo comprovada a má-fé do segurado, não pode a seguradora recusar o pagamento do prêmio do seguro sob a alegação de doença pré-existente, se não realizou os exames médicos prévios, e ainda, (ii) a omissão quanto à doença pré-existente do segurado perde relevância quando a vida regular do contratante é mantida por vários anos".
+Contrarrazões apresentadas às fls. 477/490, e-STJ.
+Em sede de juízo provisório de admissibilidade, o Tribunal de origem inadmitiu o recurso especial, sob o fundamento de que no tocante a alínea "c" do art. 105 da Constituição Federal, o recorrente deixou de atender aos requisitos previstos no parágrafo único do art. 541 do CPC/73, e no parágrafo único do art. 255 do RISTJ.
+Daí o agravo (fls. 497/506, e-STJ), buscando destrancar o processamento daquela insurgência, no qual o insurgente refuta o óbice aplicado pela Corte estadual.
+Contraminuta apresentada às fls. 511/524, e-STJ.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. Cinge-se a controvérsia recursal à verificação acerca do cabimento do pagamento de indenização securitária prevista em contrato de seguro de vida, na hipótese da comprovação de doença pré-existente do segurado.
+O Tribunal de origem, ao analisar os elementos fáticos e probatórios dos autos, concluiu que "houve violação ao princípio da boa-fé, que deve reger o contrato de seguro", sob a seguinte fundamentação (fls. 438/439, e-STJ):
+A sentença merece ser mantida, por seus próprios fundamentos.
+O segurado estava aposentado por invalidez desde 25.3.2004, fls. 90. De acordo com informações prestadas pelo INSS, o benefício foi concedido ao segurado em virtude de obesidade e cardiopatia isquêmica, fls. 262.
+Foi realizada perícia médica indireta, fls. 327/335, que concluiu que o segurado apresentava insuficiência coronariana crônica preexistente à contratação do seguro, doença esta diretamente relacionada com o seu óbito ocorrido em 21.10.2005.
+Contratado o seguro em 21 de outubro de 2004, deveria o segurado ter comunicado tal fato à seguradora, mas não o fez. A boa-fé na contratação do seguro fica comprometida pela declaração do falecido de que se encontrava em perfeitas condições de saúde, fls. 20.
+Mais não é preciso ser dito para que a sentença seja mantida. Houve violação do princípio da boa-fé, que deve reger o contrato de seguro.
+A questão da necessidade de exame médico prévio por parte da seguradora é matéria já exaustivamente debatida. No seguro de vida em grupo, parte-se das afirmações do segurado.
+Se, de um lado, as seguradoras mantém postura ideológica de negativa do direito do beneficiário, como é notório no Brasil, também existe a outra face da questão, que não permite que o segurado omita informações que não permitiriam a aceitação do contrato de seguro.
+Com efeito, como consabido, o dever de guardar a mais estrita boa-fé e veracidade acerca do objeto do contrato de seguro, bem como das circunstâncias e declarações concernentes, é imposto a ambas as partes da relação jurídica, ex vi do disposto no artigo 765 do Código Civil de 2002 (artigo 1.443 do Código Civil de 1916).
+Assim, "se o segurado, por si ou por seu representante, fizer declarações inexatas ou omitir circunstâncias que possam influir na aceitação da proposta ou na taxa do prêmio, perderá o direito à garantia, além de ficar obrigado ao prêmio vencido" (artigos 766 do Código Civil de 2002 e 1.444 do Código Civil de 1916 ).
+Nada obstante, a jurisprudência desta Corte é no sentido de que a seguradora não pode se eximir do dever de pagamento da cobertura securitária, sob a alegação de omissão de informações por parte do segurado, se dele não exigiu exames médicos prévios à contratação do seguro. Precedentes: AgRg no AgRg no AREsp 14.594/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 07.02.2012, DJe 13.02.2012; EDcl no Ag 1.162.957/DF, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 17.05.2011, DJe 24.05.2011; e REsp 1.230.233/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 11.05.2011.
+Nesse contexto, a alteração das conclusões firmadas pelo Tribunal local, acerca da existência de má-fé do segurado e de nexo causal entre a moléstia omitida e sua morte, reclama a incursão no conteúdo fático-probatório dos autos, o que é vedado ao STJ, no âmbito do julgamento de recurso especial, ante o óbice inserto na Súmula 7 ("A pretensão de simples reexame de prova não enseja recurso especial.").
+No mesmo sentido, já se decidiu:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. SEGURO. INDENIZAÇÃO. DOENÇA PREEXISTENTE. MÁ-FÉ DO SEGURADO CARACTERIZADA. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. DECISÃO MANTIDA.
+1. A alteração da conclusão do Tribunal de origem, que entendeu caracterizada a má fé do segurado, demandaria reexame do conteúdo fático-probatório, o que é vedado ante Súmula 7/STJ.
+2. Agravo regimental não provido. (AgRg no AREsp 269.486/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 05.03.2013, DJe 12.03.2013)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. SEGURO DE VIDA. RECUSA DA COBERTURA. DOENÇA PRÉ-EXISTENTE. MÁ-FÉ. ELISÃO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 07/STJ.
+1. Elidir as conclusões do aresto impugnado, reconhecendo a má-fé do segurado ao omitir doença pré-existente no momento da contratação, demandaria o revolvimento dos elementos de convicção dos autos, soberanamente delineados pelas instâncias ordinárias, providência vedada nesta sede especial a teor da súmula 07/STJ.
+2. Inviável a tese de dissídio jurisprudencial quando, para a comprovação da similitude dos casos confrontados, for necessário o reexame de prova.
+3. AGRAVO REGIMENTAL DESPROVIDO. (AgRg no REsp 1.297.364/SP, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 19.02.2013, DJe 25.02.2013)
+2. Por fim, destaca-se que esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+Nesse sentido, confiram-se os seguintes precedentes: AgRg no AREsp 786.906/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 26/04/2016, DJe 16/05/2016; AgRg no AREsp 662.068/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/05/2015, DJe 22/06/2015
+3. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, nego provimento ao agravo, majorando os honorários sucumbenciais, com base no art. 85, § 11, do NCPC, em R$ 100,00 (cem reais), a ser suportado exclusivamente pela parte recorrente, observadas as regras da gratuidade da justiça.
+Publique-se.
+Intimem-se.
