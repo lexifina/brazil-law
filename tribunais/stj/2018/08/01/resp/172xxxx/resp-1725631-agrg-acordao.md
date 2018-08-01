@@ -1,0 +1,50 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESCAMINHO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. CARACTERIZAÇÃO DA HABITUALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A reiteração delitiva afasta a aplicação do princípio da insignificância nos crimes de descaminho. Precedentes.
+2. Agravo regimental não provido.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator. Ausente, justificadamente, o Sr. Ministro Sebastião Reis Júnior.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+[NOME] interpõe agravo regimental contra decisão de fls. 429-434, na qual dei provimento ao recurso especial interposto pelo Ministério Público Federal, a fim de afastar o princípio da insignificância, ante a habitualidade delitiva.
+Nas razões recursais, a defesa alega que "o instituto do princípio da insignificância é uma circunstância que afasta a tipicidade da conduta e não adentra no campo de análise da pessoa do autor. E, sendo assim, o comportamento atípico deve ser considerado em todos os seus efeitos" (fl. 441).
+Aponta a existência de julgados nas Cortes Superiores em sentido contrário ao adotado na decisão recorrida.
+Sustenta que "HÁ EM DESFAVOR DO AGRAVANTE APENAS PROCESSOS ADMINISTRATIVOS FISCAIS, não havendo, portanto, condenação judicial criminal transitado em julgado para se estabelecer um juízo de certeza acerca da conjecturada contumácia delitiva" (fl. 444).
+Pleiteia, caso não haja reconsideração da decisão anteriormente proferida, seja o feito submetido à apreciação do Órgão Colegiado, para manter a decisão que rejeitou a denúncia.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESCAMINHO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. CARACTERIZAÇÃO DA HABITUALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A reiteração delitiva afasta a aplicação do princípio da insignificância nos crimes de descaminho. Precedentes.
+2. Agravo regimental não provido.
+
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ(Relator):
+Não obstante o esforço do agravante, os argumentos apresentados são insuficientes para infirmar a decisão agravada, cuja conclusão mantenho.
+No mérito, reafirmo que a Terceira Seção desta Corte Superior assentou, em sessão realizada no dia 9/12/2015, o entendimento de que, em regra, a reiteração criminosa impossibilita a aplicação do princípio da insignificância nos crimes de descaminho. Confira-se a ementa do julgado:
+ ..
+1. Descaminho: embora exista um patamar objetivamente fixado (10 mil reais) e tenham sido apontados vetores que orientam o exame da conduta e do comportamento do agente, bem como a lesão jurídica provocada, não há consenso sobre a possibilidade ou não de incidência do princípio da insignificância nos casos em que fica demonstrada a reiteração delitiva. Para a Sexta Turma, o passado delitivo do agente não impede a aplicação da benesse; para a Quinta Turma, entretanto, as condições pessoais negativas do autor inviabilizam o benefício.
+2. O princípio da insignificância é verdadeiro benefício na esfera penal, razão pela qual não há como deixar de se analisar o passado criminoso do agente, sob pena de se instigar a multiplicação de pequenos crimes pelo mesmo autor, os quais se tornariam inatingíveis pelo ordenamento penal. Imprescindível, assim, o efetivo exame das circunstâncias objetivas e subjetivas do caso concreto, porquanto, de plano, aquele que reitera e reincide não faz jus a benesses jurídicas.
+3. Nesse encadeamento de ideias, entendo ser possível firmar a orientação no sentido de que a reiteração criminosa inviabiliza a aplicação do princípio da insignificância nos crimes de descaminho, ressalvada a possibilidade de, no caso concreto, as instâncias ordinárias verificarem que a medida é socialmente recomendável.
+4. Apenas as instâncias ordinárias, que se encontram mais próximas da situação que concretamente se apresenta ao Judiciário, têm condições de realizar o exame do caso concreto, por meio da valoração fática e probatória a qual, na maioria das vezes, possui cunho subjetivo, impregnada pelo livre convencimento motivado. Dessa forma, não tendo as instâncias ordinárias apresentado nenhum elemento concreto que autorizasse a aplicação excepcional do princípio da bagatela, entendo que deve prevalecer o óbice apresentado nos presentes autos.
+5. Acolhidos os embargos de divergência para reformar o acórdão embargado, dando provimento ao agravo regimental para dar provimento ao recurso especial, determinando o retorno dos autos ao Juízo de origem, para que, superada a tese da insignificância, realize juízo de recebimento da denúncia.
+(EREsp n. 1.217.514/RS, Rel. Ministro Reynaldo Soares da Fonseca, 3ª S., DJe 16/12/2015, destaques do autor.)
+Em suma, não se aplica o princípio da insignificância ao delito de descaminho quando cometido com habitualidade, pois isso acabaria por servir como verdadeiro incentivo à prática delituosa.
+Além disso, reitero haver a Sexta Turma desta Corte Superior firmado a orientação de não incidir o princípio da insignificância nos casos em que o réu é reiteradamente autuado em processos administrativo-fiscais sem que isso caracterize ofensa à orientação da Súmula n. 444 do STJ. Confiram-se as ementas dos julgados:
+ ..  2. A jurisprudência desta Quinta Turma reconhece que o princípio da insignificância não tem aplicabilidade em casos de reiteração da conduta delitiva, porquanto tal circunstância denota maior grau de reprovabilidade do comportamento lesivo, sendo desnecessário perquirir o valor dos tributos iludidos pelo acusado.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.538.629/RS, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 27/3/2017)
+ ..
+1. O Tribunal Regional Federal da 4ª Região, ao manter a rejeição da denúncia pela prática do crime de descaminho, diante da aplicação do princípio da insignificância, divergiu da orientação jurisprudencial desta Corte Superior no sentido de que a existência de outras ações penais, inquéritos policiais em curso ou procedimentos administrativos fiscais é suficiente para caracterizar a habitualidade delitiva e, consequentemente, afastar a incidência do princípio da insignificância no delito de descaminho.
+2. No presente caso, há notícia nos autos de que o acusado já responde a outros procedimentos administrativos, comprovada pelo histórico de autuações aduaneiras, pela prática do crime de descaminho. Dessa forma, o afastamento do princípio da insignificância, como causa de não recebimento da denúncia, é medida que se impõe.
+3. Agravo regimental não provido. (AgRg no REsp n. 1.647.127/PR, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 27/3/2017)
+ ..
+1. A habitualidade na prática do crime do art. 334 do CP denota o elevado grau de reprovabilidade da conduta, obstando a aplicação do princípio da insignificância. Precedentes.
+2. A jurisprudência desta Corte é pacífica no sentido da não incidência do princípio da insignificância nos casos em que o réu é reiteradamente autuado em processos administrativo-fiscais, como é o caso dos autos, sem que isso caracterize ofensa à orientação da Súmula 444/STJ (AgInt no REsp 1601680/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 02/08/2016, DJe 23/08/2016).
+3. Agravo regimental improvido. (AgRg no AREsp n. 492.434/PR, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 29/11/2016)
+Cito, ainda, precedente do Supremo Tribunal Federal:
+Agravo regimental em habeas corpus. Penal. Crime de descaminho (CP, art. 334). Trancamento da ação penal. Pretensão à aplicação do princípio da insignificância. Impossibilidade. Contumácia delitiva cabalmente demonstrada. Precedentes. Registro de outros procedimentos administrativos fiscais da mesma natureza. Atinge o montante de R$ 57.978,89 reais a soma dos tributos elididos pelo agravante em suas autuações por suposto crime de descaminho. Agravo regimental não provido. (HC n. 144862 AgR, Rel. Ministro Dias Toffoli, 2ª T., DJe 26/10/2017)
+ ..  2. A notícia de que a paciente responde a outros procedimentos administrativos fiscais inviabiliza, neste habeas corpus, o pronto reconhecimento da atipicidade penal da conduta. A jurisprudência do Supremo Tribunal Federal firmou orientação no sentido de que a reiteração delitiva impede a adoção do princípio da insignificância penal, em matéria de crime de descaminho. Precedentes. 3. Agravo regimental não conhecido. (HC n. 137.749 AgR, Rel. Ministro Roberto Barroso, 1ª T., DJe 17/5/2017, destaquei)
+Na espécie, o Parquet Federal ofereceu denúncia contra o ora agravante pela prática do art. 334 do Código Penal, uma vez que foram apreendidas mercadorias de procedência estrangeira desprovidas da documentação comprobatória de sua regular importação, sem o recolhimento dos tributos no valor de R$ 3.660,22.
+Reitero que, embora o valor do tributo iludido seja inferior a R$ 20.000,00, consoante as orientações firmadas por este Tribunal Superior, há de se afastar a incidência do princípio da insignificância no caso em apreço, ante a habitualidade delitiva do réu, o qual "já foi flagrado em outras 5 (cinco) oportunidades, em circunstâncias semelhantes a aqui imputada" e, ainda, "responde à ação penal nº 0005526-96.2013.401.3307, em Vitória da Conquista, na Bahia, pela prática do delito da mesma espécie do presente caso" (fl. 358, destaquei).
+Ressalta-se, por fim, que não se trata de avaliar os antecedentes criminais do agravante, mas apenas de levar em consideração a prática omissiva em outras oportunidades, o que conduz à conclusão de que há reiteração na supressão ou elisão do pagamento de tributos, a justificar a continuidade da persecução penal, na esteira da firme jurisprudência desta Corte, tal como constou da decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
