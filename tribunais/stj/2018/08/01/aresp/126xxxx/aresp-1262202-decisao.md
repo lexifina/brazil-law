@@ -1,0 +1,20 @@
+DECISÃO
+1. Cuida-se de agravo em recurso especial de decisão denegatória de recurso especial interposto com fulcro no artigo 105, inciso III, alínea "a", da Constituição Federal.
+Alega a recorrente omissão, e que o acórdão recorrido lhe impõe o ressarcimento integral de despesas incorridas com internação em clínica de repouso não integrante da rede credenciada prestadora de serviços.
+Pondera que as condições clínicas da paciente à época da recusa não demandavam a continuidade da internação em regime home care.
+Sustenta que o valores pagos a título de reembolso corresponderão à sua tabela, devendo serem respeitados os limites de reembolso fixados no contrato firmado entre as partes.
+2. Inicialmente, observa-se que não se viabiliza o recurso especial pela indicada violação do artigo 535 do Código de Processo Civil de 1973. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+3. No tocante à necessidade de internação em regime home care, a Corte local apurou que foi produzido laudo pericial conclusivo no sentido de ser necessário.
+Com efeito, no ponto, a revisão do decidido esbarra no óbice intransponível da Súmula 7/STJ.
+4. Comporta parcial acolhida a irresignação, pois, " n ão sendo possível o atendimento na rede credenciada, é válida a cláusula que limita o reembolso à tabela da operadora de plano de saúde". (AgInt no REsp 1408219/MG, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 20/02/2018, DJe 27/02/2018)
+Note-se:
+DIREITO DO CONSUMIDOR. RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS. PLANO DE SAÚDE. REGIME FAMILIAR COM COPARTICIPAÇÃO. CLÁUSULA DE LIMITAÇÃO DO REEMBOLSO DE DESPESAS MÉDICO-HOSPITALARES. ATENDIMENTO EMERGENCIAL. HOSPITAL DE REFERÊNCIA E DE ALTO CUSTO EM OUTRA CAPITAL. PRINCÍPIO DA INFORMAÇÃO. CONTRATO DE ADESÃO. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REVISÃO DE FATOS E PROVAS. IMPOSSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS RECURSAIS. MAJORAÇÃO.
+ ..
+3. Entre as exigências mínimas de qualquer plano de saúde, o art. 12, VI, da Lei 9.656/98 estabelece que deve ser realizado pela operadora o reembolso, nos limites das obrigações contratuais, das despesas efetuadas pelo beneficiário com assistência à saúde, em casos de urgência ou emergência, quando não for possível a utilização dos serviços próprios, contratados, credenciados ou referenciados pelas operadoras, de acordo com a relação de preços de serviços médicos e hospitalares praticados pelo respectivo produto, pagáveis no prazo máximo de trinta dias após a entrega da documentação adequada.
+4. Ante a aplicação subsidiária do CDC nos contratos dos planos de saúde (art. 35-G, da LPS), toda cláusula que impõe limitação ao beneficiário deve ser redigida com destaque, permitindo sua imediata e fácil compreensão (art. 54, §4º, do CDC).
+5. O beneficiário de plano de saúde familiar com coparticipação, que escolhe hospital privado de referência em seu segmento, de outra capital e de alto custo para realização do diagnóstico e tratamento, ainda que emergencial, da sua doença, tem o respectivo ônus financeiro de custear com o pagamento das despesas decorrentes de sua opção. Nesses contornos, a operadora do plano de saúde contratado tem o dever de reembolsar os valores nos limites do que foi estabelecido contratualmente.
+ ..
+7. Recurso especial conhecido e não provido.
+(REsp 1679015/MS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 06/02/2018, DJe 15/02/2018)
+5. Diante do exposto, conheço do agravo para dar provimento ao recurso especial para reconhecer válida a limitação do reembolso à tabela da operadora de plano de saúde. Em vista da sucumbência recíproca, fixo os honorários em 14% por cento do valor atualizado da causa, e estabeleço que as custas e honorários advocatícios sucumbenciais incumbem 25% ao autor e 75% à ré, ora recorrente - observada eventual gratuidade de justiça.
+ Publique-se. Intimem-se.
