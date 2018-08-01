@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] contra decisão do Tribunal de Justiça do Estado do Espírito Santo que inadmitiu o seu apelo nobre.
+Consta dos autos que o agravante foi condenado à pena de 12 anos e 10 meses de reclusão, em regime inicial fechado, como incurso nas sanções do art. 121, § 2º, incisos I e III, c.c. art. 14, inciso II, ambos do Código Penal.
+Inconformada, a defesa apelou perante a Corte de origem, a qual, por maioria de votos, deu parcial provimento ao recurso a fim de redimensionar a pena para 11 anos, 10 meses e 20 dias de reclusão, mantidos os demais termos do édito condenatório.
+Interposto Recurso Especial com fulcro na alínea a do inciso III do art. 105 da Constituição Federal, este não foi admitido pela instância de origem, ensejando a presente insurgência, na qual o recorrente sustenta que o óbice indicado na decisão objurgada não incidiria na hipótese dos autos.
+Requer o acolhimento do agravo a fim de que seja admitido e provido o Recurso Especial.
+O Ministério Público Federal opinou pelo acolhimento da insurgência e pela negativa de seguimento ao apelo nobre.
+É o relatório.
+No Recurso Especial a parte sustenta violação aos arts. 14, inciso II e parágrafo único e 67, ambos do Código Penal, requerendo, em síntese, a preponderância da atenuante da confissão espontânea sobre a agravante relativa ao perigo comum e a aplicação da causa de diminuição de pena referente à tentativa no patamar de 1/2, pelo menos.
+Inicialmente, no que se refere ao pleito de prevalência da atenuante da confissão sobre a agravante do perigo comum, o recurso não merece conhecimento.
+Isso porque, o Tribunal estadual decidiu a questão por maioria de votos, e o apelo especial foi interposto sem a prévia provocação do competente Colegiado da origem, por meio do recurso de embargos infringentes, para fazer prevalecer o entendimento divergente favorável ao réu, o que configura o não exaurimento da instância ordinária e, por consequência, inviabiliza o acesso à via rara quanto ao tema.
+É pacífico o entendimento deste Sodalício no sentido de que, "Nas hipóteses de acórdão não unânime na origem e que cause prejuízo à defesa, é necessário a oposição de embargos infringentes para o exaurimento da instância. Incidência da Súmula 207 do STJ." (AgRg no AREsp 279.480/PE, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 08/05/2014, DJe 02/06/2014)
+A questão, como se vê, está sumulada no âmbito desta Corte, no Enunciado n. 207, segundo o qual "É inadmissível recurso especial quando cabíveis embargos infringentes contra o acórdão proferido no tribunal de origem".
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBRIAGUEZ AO VOLANTE. ALEGADA OFENSA AO ART. 619 DO CPP. AUSÊNCIA DE OMISSÃO. JULGAMENTO CONTRÁRIO AOS INTERESSES DA PARTE. AUSÊNCIA DE PRODUÇÃO DE PROVAS EM AUDIÊNCIA. RAZÕES DISSOCIADAS E QUE NÃO IMPUGNAM OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 284/STF. PLEITO DE ABSOLVIÇÃO. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. MODIFICAÇÃO DO REGIME INICIAL. AUSÊNCIA DE COMANDO NORMATIVO. SÚMULA 284/STF. SUBSTITUIÇÃO POR PENAS RESTRITIVAS DE DIREITOS. ACÓRDÃO RECORRIDO NÃO UNÂNIME. AUSÊNCIA DE EMBARGOS INFRINGENTES. SÚMULA 207/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR PROVIMENTO.
+ ..
+VI - A questão relativa à possibilidade de substituição da pena por restritivas de direitos não foi objeto de decisão unânime pelo eg. Tribunal de origem, razão pela qual caberia a oposição de embargos infringentes e de nulidade (art. 609, parágrafo único, do CPP). Diante da ausência de apresentação do recurso mencionado, não houve o exaurimento da instância a quo, atraindo a incidência da Súmula 207/STJ.
+Agravo regimental desprovido.
+(AgRg no AREsp 1262008/MS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 24/05/2018, DJe 30/05/2018)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRINCÍPIO DA FUNGIBILIDADE. RECURSO EM SENTIDO ESTRITO NÃO CONHECIDO. ACÓRDÃO PROFERIDO POR MAIORIA DE VOTOS. NÃO INTERPOSIÇÃO DE EMBARGOS INFRINGENTES. SÚMULA N. 207 DO STJ. VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. Nos termos da Súmula n. 207 do STJ, "É inadmissível recurso especial quando cabíveis embargos infringentes contra o acórdão proferido no Tribunal de origem".
+3. No caso dos autos, não houve o devido esgotamento de instâncias, uma vez que o recorrente não opôs embargos infringentes contra o acórdão recorrido, que foi aprovado por maioria de votos desfavoráveis ao réu.
+4. Agravo regimental não provido.
+(AgRg no REsp 1622169/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 22/08/2017, DJe 31/08/2017)
+Dessa forma, evidenciado o não esgotamento da instância ordinária, visto que ainda eram cabíveis os embargos infringentes e de nulidade, conforme previsto no art. 609, parágrafo único, do Código de Processo Penal, inviabilizado está o acesso à via especial.
+De outro lado, no que pertine à pretensão de aumento da fração de redução da pena pelo reconhecimento da tentativa, o recurso também não deve prosseguir.
+Quanto ao ponto, o Tribunal a quo, ratificando as razões expendidas pelo magistrado sentenciante, a partir da análise do acervo probatório, apontou motivos concretos para a aplicação da causa de diminuição no patamar de 1/3 (um terço), asseverando que "o acusado percorreu consideravelmente o iter criminis, a ponto de atingir a vítima mais de uma vez, somente não a matando ante ao socorro efetuado à ele" (e-STJ. fl. 1.166).
+Desse modo, para chegar a solução diversa da alcançada na origem seria necessário o revolvimento das provas colhidas nos autos, o que, consoante reiteradas decisões deste Sodalício Superior, é afastado pelo óbice da Súmula n. 7 desta Corte.
+A propósito:
+AGRAVO REGIMENTAL EM RECONSIDERAÇÃO DE DECISÃO PROFERIDA EM AGRAVO EM RECURSO ESPECIAL. PENAL. HOMICÍDIO SIMPLES COM CAUSA DE DIMINUIÇÃO TENTADO. ART. 121, CAPUT E § 1º, NA FORMA DO ART. 14, II, AMBOS DO CÓDIGO PENAL - CP. 1) MONTANTE DE REDUÇÃO DA PENA PELA TENTATIVA. ITER CRIMINIS. ÓBICE DO REVOLVIMENTO FÁTICO-PROBATÓRIO, CONFORME SÚMULA 7/STJ. 2) PRESCRIÇÃO DA PRETENSÃO PUNITIVA INTERCORRENTE OU SUPERVENIENTE. NECESSIDADE DE AVALIAÇÃO DO CABIMENTO DO AGRAVO EM RECURSO ESPECIAL E DO RECURSO ESPECIAL PARA DETERMINAR SE DATA DO TRÂNSITO EM JULGADO PARA A DEFESA RETROAGE AO ÚLTIMO DIA DE PRAZO PARA INTERPOSIÇÃO DO RECURSO ESPECIAL. EARESP 386.266/SP. APLICAÇÃO NA VIGÊNCIA DO CÓDIGO DE PROCESSO CIVIL DE 2015. 3) AGRAVO REGIMENTAL DESPROVIDO.
+1. Fixada a redução da pena em razão da tentativa com observância do iter criminis percorrido apurado nos autos, descabe em recurso especial a alteração da fração redutora, pois tal providência enseja o revolvimento fático-probatório, vedado pela Súmula 7/STJ.
+ ..
+(AgRg no AgRg no AREsp 734.373/DF, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/05/2018, DJe 08/06/2018)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. SUSTENTAÇÃO ORAL. IMPOSSIBILIDADE. HOMICÍDIO QUALIFICADO. DOSIMETRIA. ATENUANTE DA CONFISSÃO ESPONTÂNEA. OCORRÊNCIA. UTILIZADA PARA EMBASAR A CONDENAÇÃO. INCIDÊNCIA. SÚMULA 545/STJ. PENA-BASE. COMPENSAÇÃO DA CIRCUNSTÂNCIA JUDICIAL ATINENTE AO COMPORTAMENTO DA VÍTIMA COM AS CIRCUNSTÂNCIAS DO DELITO. IMPOSSIBILIDADE. COMPORTAMENTO DA VÍTIMA VALORADO POSITIVAMENTE. INVIABILIDADE DE EFETIVA REDUÇÃO DA PENA-BASE. FRAÇÃO DA TENTATIVA. QUANTUM DE 1/3 JUSTIFICADO. ALTERAÇÃO INVIÁVEL. NECESSIDADE DE REVOLVIMENTO FÁTICO PROBATÓRIO. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+ ..
+4. A alteração do julgado, para se concluir de modo diverso quanto ao iter criminis percorrido considerado pelo Tribunal de origem e, consequentemente, determinar qual seria a fração adequada a aplicar pela tentativa, necessitaria do revolvimento de fatos e provas dos autos, o que é vedado na via do habeas corpus.
+5. Agravo regimental parcialmente provido para reconhecer a atenuante da confissão espontânea.
+(AgRg no HC 409.275/RO, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 12/06/2018, DJe 19/06/2018)
+Por tais razões, afigurando-se inadmissível o apelo nobre, conhece-se do agravo para não conhecer o Recurso Especial, nos termos do artigo 34, VII, combinado com o artigo 253, parágrafo único, inciso II, alínea a, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se e intime-se.
+Cientifique-se o Ministério Público Federal.
