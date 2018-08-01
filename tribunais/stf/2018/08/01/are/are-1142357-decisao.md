@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra decisão que não admitiu recurso extraordinário, no qual se alega violação dos artigos 37, inciso X, e 169, § 1º da Constituição Federal e do artigo 17 da ADCT.
+    Insurge-se, no apelo extremo, contra acórdão que, em sede de incidente de uniformização de jurisprudência, reconheceu a autoaplicabilidade da Lei nº 11.738/2008, a qual instituiu o piso nacional do magistério.
+    Decido.
+    Não merece prosperar a irresignação, uma vez que o Plenário desta Suprema Corte, ao julgar a ADI nº 4.167/DF, Relator o Min. Joaquim Barbosa, reconheceu a constitucionalidade da Lei 11.738/08, que instituiu o piso nacional dos professores da educação básica. O julgado restou assim ementado:
+    “CONSTITUCIONAL. FINANCEIRO. PACTO FEDERATIVO E REPARTIÇÃO DE COMPETÊNCIA. PISO NACIONAL PARA OS PROFESSORES DA EDUCAÇÃO BÁSICA. CONCEITO DE PISO: VENCIMENTO OU REMUNERAÇÃO GLOBAL. RISCOS FINANCEIRO E ORÇAMENTÁRIO. JORNADA DE TRABALHO: FIXAÇÃO DO TEMPO MÍNIMO PARA DEDICAÇÃO A ATIVIDADES EXTRACLASSE EM 1/3 DA JORNADA. ARTS. 2º, §§ 1º E 4º, 3º, CAPUT, II E III E 8º, TODOS DA LEI 11.738/2008. CONSTITUCIONALIDADE. PERDA PARCIAL DE OBJETO. 1. Perda parcial do objeto desta ação direta de inconstitucionalidade, na medida em que o cronograma de aplicação escalonada do piso de vencimento dos professores da educação básica se exauriu (arts. 3º e 8º da Lei 11.738/2008). 2. É constitucional a norma geral federal que fixou o piso salarial dos professores do ensino médio com base no vencimento, e não na remuneração global. Competência da União para dispor sobre normas gerais relativas ao piso de vencimento dos professores da educação básica, de modo a utilizá-lo como mecanismo de fomento ao sistema educacional e de valorização profissional, e não apenas como instrumento de proteção mínima ao trabalhador. 3. É constitucional a norma geral federal que reserva o percentual mínimo de 1/3 da carga horária dos docentes da educação básica para dedicação às atividades extraclasse. Ação direta de inconstitucionalidade julgada improcedente. Perda de objeto declarada em relação aos arts. 3º e 8º da Lei 11.738/2008” (ADI 4.167/DF, Rel. o Min. Joaquim Barbosa, Plenário, DJe 27/4/2011).
+    Opostos embargos de declaração, esta Corte ainda modulou os efeitos da decisão, para considerar que o novo piso instituído somente produziria efeitos a partir de 27/04/2011, data do julgamento definitivo no Plenário sobre a constitucionalidade da norma.
+    Sobre o tema, anote-se o recente julgado:
+    “Agravo regimental no recurso extraordinário com agravo. 2. A matéria debatida no Tribunal de origem encontra guarida na cristalina jurisprudência do Supremo Tribunal Federal. 3. Aplicabilidade da Lei Federal nº 11.738/2008. Constitucionalidade. 4. Reajuste do piso salarial nacional do magistério. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento” (ARE nº 961.138/SE-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 7/2/17).
+    Seguindo essa orientação, destaco as seguintes decisões monocráticas que também tratam especificamente do tema versados nos presentes autos: ARE nº 1.032.681/SE, Relator o Ministro Gilmar Mendes, DJe de 4/4/17; ARE nº 1.025.820/SE, Relator o Ministro Roberto Barroso, DJe de 3/3/17; e ARE nº 1.012.306/SE, de minha relatoria, DJe de 30/11/16.
+    Dessa orientação, não divergiu o acórdão recorrido.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 1º de agosto de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
