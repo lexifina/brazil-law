@@ -1,0 +1,47 @@
+DECISÃO
+1. Trata-se de agravo em recurso especial interposto por [NOME] e [NOME] contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA que inadmitiu o seu apelo nobre.
+Consta dos autos que [NOME] e [NOME] foram condenados das imputações que lhe foram feitas inerentes ao artigo 157, § 2º, II, do Código Penal, à pena de 5 (cinco) anos e 4 (quatro) meses de reclusão, em regime semiaberto, e multa.
+Inconformados, interpuseram apelo nobre, com fulcro no inciso III do art. 105 da Constituição Federal, o qual não foi admitido na origem, com fundamento nas Súmulas n. 7 e 83 do Superior Tribunal de Justiça.
+No presente recurso, sustenta que não incidiria os referidos óbices à hipótese dos autos, visto que se encontra presente o dispositivo violado e a análise da questão recursal não demandaria o reexame das provas, mas apenas a revaloração destas, de modo a não mais incidir a majorante do concurso de pessoas e, além disso, pugnam pelo reconhecimento do crime de roubo em sua modalidade tentada.
+Requer o provimento do agravo para que seja admitido e acolhido o seu recurso especial.
+Parecer do Ministério Público Federal pelo conhecimento e desprovimento do agravo, às fls. 405/411 (e-STJ).
+É o relatório.
+2. A par dos fundamentos declinados pelo Tribunal de origem por ocasião do juízo de admissibilidade ali realizado, constata-se que, de fato, o recurso especial interposto não merece seguimento.
+Ao julgar a apelação, o TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA entendeu estarem presentes elementos suficientes a sustentar a condenação por infração ao art. 157, § 2º, II, do Código Penal, tendo acórdão restado assim ementado (e-STJ fl. 332):
+"A conduta ilícita atribuída aos Acusados foi assim descrita na peça exordial acusatória:
+(..) Consta no inquérito policial que serve de base a esta denúncia que, no dia 27 de janeiro do corrente ano, por volta das 19h30min, na rua [NOME], no bairro do Itaigara, nesta cidade, os Denunciados foram presos em flagrante delito pelo crime de roubo, figurando como vítima a Sra. [NOME].
+Narram os autos que a vítima se encaminhava para o ponto de ônibus nas imediações do Itaigara, sendo surpreendida por dois elementos que simulando estarem armados e sob ameaças, subtraíram-lhe sua bolsa nas cores marrom e cinza com chaveiro na mesma tonalidade, contendo os seguintes objetos: carteira com RG, dois cartões de conta corrente e poupança do banco Bradesco [CONTA], nº 1013920-1, sendo um seu e outro de sua genitora, cartão do Banco Itaú [CONTA], um chip da operadora TIM em desuso, fotos diversas, um aparelho celular marca Huawei Dual Chip, na cor preta com fone de ouvido branco com os chips das operadoras Vivo e Claro sob os números 71-99423604 e 71-81125750, respectivamente."
+Com efeito, da leitura do excerto acima transcrito, verifica-se que o Tribunal de origem, soberano na reanálise dos fatos e das provas, concluiu pela existência, nos autos, de elementos concludentes para fundamentar o decreto condenatório.
+Nesse aspecto, desconstituir o julgado, buscando uma desclassificação ou reclassificação da conduta criminosa analisada na origem, não encontra amparo na via eleita, dada a necessidade de revolvimento do conjunto fático-probatório, procedimento de análise exclusivo das instâncias ordinárias e vedado a este Superior Tribunal de Justiça, em sede de recurso especial, ante o óbice Sumular n. 7/STJ.
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO IMPRÓPRIO. ART. 157, § 1º, DO CP. DESCLASSIFICAÇÃO PARA O CRIME DE FURTO. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO PROBATÓRIO. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. Rever o entendimento externado pelas instâncias ordinárias, para afastar as elementares do crime de roubo impróprio (art. 157, § 1º, do CP), implicaria necessário reexame de provas, o que não se admite na via do recurso especial, tendo em vista o óbice da Súmula n. 7 desta Corte.
+2. Agravo regimental improvido.
+(AgRg no AREsp 718.983/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/03/2016, DJe 28/03/2016).
+Além do mais, para o conhecimento do apelo nobre é indispensável, que este preencha todos os requisitos de admissibilidade recursal, em especial deve a parte insurgente demonstrar que o ato judicial vergastado não está em consonância com a interpretação firmada pela jurisprudência deste Colegiado.
+É a orientação consolidada na Súmula n. 83 do STJ, que preconiza:
+Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida.
+No que se refere à solicitação do reconhecimento da tentativa, submetida ao crivo deste Sodalício, a Corte estadual assim decidiu (e-STJ fls. 335/336):
+Subsidiariamente, postulam os Recorrentes o reconhecimento do crime de roubo em sua modalidade tentada, ao argumento de que, no caso em tela, não ficou configurada a posse pacífica do bem, "ao contrário, os acusados foram presos em flagrante a poucos metros do local da prática do delito" O entendimento defendido pelos Apelantes, quanto ao tema em comento, resta, todavia, ultrapassado, tendo em vista o julgamento, pelo Superior Tribunal de Justiça, do Recurso Representativo da Controvérsia (REsp 1499050/RJ), oportunidade na qual ficou estabelecido:
+ ..
+Na hipótese sob análise, de acordo com as provas colhidas ao in folio, a prática delitiva transcorreu nos moldes considerados pelos Tribunais Superiores para estabelecer o momento em que se tem como consumado o crime de roubo, sendo incabível, assim, o deferimento do pleito que objetiva o reconhecimento do crime de roubo em sua modalidade tentada.
+Constata-se, pois, que o acórdão vergastado foi ao encontro da pacífica jurisprudência deste Superior Tribunal de Justiça sobre o tema, no sentido de que "O delito de roubo, assim como o de furto, consuma-se no momento em que o agente se torna possuidor da coisa alheia móvel, ainda que por poucos instantes, sendo prescindível a posse mansa, pacífica, tranquila e desvigiada do bem." (HC 362.436/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/09/2016, DJe 04/10/2016).
+Ressalte-se que o referido entendimento encontra-se consolidado pelo Enunciado n.º 582 da Súmula desta Corte, cujo teor é o que segue: "Consuma-se o crime de roubo com a inversão da posse do bem mediante emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida à perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada".
+No mesmo sentido, vejam-se:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 14, II, DO CP. ROUBO. MOMENTO CONSUMATIVO. POSSE MANSA, PACÍFICA E DESVIGIADA. DESNECESSIDADE. ACÓRDÃO RECORRIDO DE ACORDO COM O ENTENDIMENTO DO STJ. SÚMULA 582/STJ. (..). AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. "Consuma-se o crime de roubo com a inversão da posse do bem mediante emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida à perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada" (Súmula 582/STJ).
+(..)
+3. Agravo regimental a que se nega provimento. (AgRg nos EDcl no AREsp 1196212/RN, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 06/02/2018, DJe 15/02/2018)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO E TRÁFICO DE DROGAS. (..) - STJ. TEORIA DA APPREHENSIO. CONSUMAÇÃO DO DELITO NO MOMENTO DA POSSE DA COISA ALHEIA MÓVEL. INCIDÊNCIA DA SÚMULA N. 83 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+2. Os Tribunais superiores adotaram a teoria da apprehensio, também denominada de amotio, segundo a qual o crime de roubo, assim como o de furto, consuma-se no momento em que o agente se torna possuidor da coisa alheia móvel, pouco importando se por longo ou breve espaço temporal, sendo prescindível a posse mansa, pacífica, tranquila e/ou desvigiada.
+Agravo regimental desprovido. (AgRg no AREsp 1042361/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO MAJORADO.(..). CONSUMAÇÃO. INVERSÃO DA POSSE DO BEM, AINDA QUE POR BREVE TEMPO. REGIME PRISIONAL SEMIABERTO. ADEQUAÇÃO.
+(..)
+3. A Terceira Seção desta Corte, por ocasião do julgamento do Recurso Especial Repetitivo n. 1.499.050/RJ, (Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 9/11/2015), firmou entendimento segundo o qual "Consuma-se o crime de roubo com a inversão da posse do bem, mediante emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida a perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada".
+(..)
+5. Agravo regimental desprovido. (AgRg no REsp 1608835/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 27/02/2018, DJe 08/03/2018)
+Em função disso, constata-se que a pretensão da parte insurgente esbarra nos óbices previstos nos Enunciados n.º 7 e 83 da Súmula deste STJ, também aplicáveis ao recurso especial interposto com fundamento na alínea a do permissivo constitucional.
+3. Por tais razões, afigurando-se inadmissível o recurso especial, conhece-se do agravo para não conhecer o recurso especial, nos termos do artigo 34, VII, combinado com o artigo 253, parágrafo único, inciso II, alínea a, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se e intime-se.
+Cientifique-se o Ministério Público Federal.
