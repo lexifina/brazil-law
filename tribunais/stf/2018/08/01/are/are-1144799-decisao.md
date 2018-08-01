@@ -1,0 +1,19 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 5º, XXII, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O exame de eventual ofensa ao preceito constitucional indicado nas razões recursais (art. 5º da Lei Maior), demanda, em primeiro plano, a interpretação das normas infraconstitucionais aplicáveis à espécie, de tal modo que, se afronta ocorresse, seria indireta, o que não atende à exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal.
+    Ademais, o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual a aferição da ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”.
+    Por fim, a verificação da ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo demanda prévio reexame da interpretação conferida pelo Tribunal de origem a cláusulas contratuais, o que é vedado a esta instância extraordinária, a teor da Súmula 454/STF: “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário”. Nesse sentido:
+    “EMENTA Agravo regimental no recurso extraordinário com agravo. Direito Processual Civil. Contrato bancário. Indenização por danos morais. Prequestionamento. Ausência. Fatos e provas e cláusulas contratuais. Reexame. Impossibilidade. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. Não se admite o recurso extraordinário quando o dispositivo constitucional que nele se alega violado não está devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. Não se presta o recurso extraordinário para o reexame das provas constantes dos autos, de cláusulas contratuais ou da legislação infraconstitucional de regência. Incidência das Súmulas nºs 279, 454 e 636/STF. 3. Agravo regimental não provido.
+(ARE 881776 AgR, Relator(a): Min. DIAS TOFFOLI, Segunda Turma, julgado em 10/11/2015, PROCESSO ELETRÔNICO DJe-251 DIVULG 14-12-2015 PUBLIC 15-12-2015)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Civil. 3. Contrato bancário. Incidência dos Enunciados 279 e 454 da Súmula do STF. 4. Dano moral (ARE-RG 739.382, Tema 657); valor fixado a título de danos morais (ARE-RG 743.771, Tema 655); competência dos juizados especiais(ARE-RG 640.671, Tema 433); cerceamento de defesa (ARE-RG 748.371, Tema 660). Matérias de índole infraconstitucional. Ausência de repercussão geral. 5. Agravo regimental a que se nega provimento.
+(ARE 890373 AgR, Relator(a): Min. GILMAR MENDES, Segunda Turma, julgado em 27/10/2015, ACÓRDÃO ELETRÔNICO DJe-230 DIVULG 16-11-2015 PUBLIC 17-11-2015)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 01 de agosto de 2018.
+Ministra Rosa Weber
+Relatora
