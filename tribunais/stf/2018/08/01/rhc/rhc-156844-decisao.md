@@ -1,0 +1,18 @@
+Trata-se de recurso ordinário em habeas corpus com pedido de liminar, interposto em favor de Carlos Alberto de Souza Barboza, contra decisão do Ministro Nefi Cordeiro, do Superior Tribunal de Justiça – STJ, que concedeu parcialmente o HC 410.898/RS.
+    Consta dos autos que o paciente foi condenado à pena de 9 anos, 8 meses e 20 dias de reclusão, em regime inicialmente fechado, pela prática do crime de inserção de dados falsos em sistema de informações da Administração Pública, a fim de obter vantagem ilícita por meio do recebimento de aposentadorias concedidas de modo fraudulento (art. 313-A do Código Penal).
+    Ao analisar o writ, o Ministro Nefi Cordeiro concedeu parcialmente a ordem “para reduzir a pena imposta a 8 anos e 4 meses de reclusão, no regime fechado, mantidos os demais termos da condenação”.
+    Irresignada, a defesa interpôs o presente recurso ordinário, no qual sustenta que “a atenuante da confissão deve preponderar sobre a agravante, vez que diz respeito ao aspecto subjetivo - à personalidade do agente, enquanto que a agravante do 62, I diz respeito ao modo como o agente operava atividade criminosa” (pág. 72 do documento eletrônico 8).
+    Requer, por fim, o provimento do recurso “para que a atenuante da confissão espontânea prepondere sobre a agravante do art. 62, I, corrigindo-se, portanto, a compensação operada eis que se tratam de circunstâncias de natureza diversas” (pág. 72 do documento eletrônico 8).
+    Em contrarrazões, o Ministério Público Federal requereu o provimento do recurso ao sustentar que,
+    “[c]onforme alega o recorrente, a referida atenuante diz respeito à personalidade do agente e, portanto, é circunstância preponderante, conforme o art. 67 do Código Penal. Assim, a pena deve ser redimensionada de modo a que a atenuante da confissão espontânea prepondere à agravante do art. 62, I, do CP” (pág. 95 do documento eletrônico 8).
+    Instada a manifestar-se, a Procuradoria-Geral da República, em parecer da lavra da Subprocuradora-Geral da República Cláudia Sampaio Marques, opinou pelo não conhecimento do recurso, haja vista ter sido interposto contra decisão monocrática de ministro Relator do STJ (documento eletrônico 11).
+    É o relatório necessário. Decido.
+    Como se vê, o presente recurso ordinário volta-se contra decisão monocrática do Ministro Nefi Cordeiro, que concedeu parcialmente o pedido de habeas corpus.
+    Ocorre que a Constituição Federal atribui a este Supremo Tribunal Federal a competência para processar e julgar, originariamente, o recurso ordinário em habeas corpus, quando decidido em única instância pelos Tribunais Superiores, se denegatória a decisão (art. 102, II, a, da CF/1988).
+    Desse modo, este pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do Supremo Tribunal Federal, descritos no art. 102 da Constituição Federal, que pressupõem seja a coação praticada por Tribunal Superior.
+    Essa foi a orientação firmada pela Segunda Turma, quando do julgamento do HC 119.115/MG, de minha relatoria, ocasião na qual se decidiu que a não interposição de agravo regimental no Superior Tribunal de Justiça e, portanto, a ausência da análise da decisão monocrática pelo seu colegiado, impede o conhecimento do recurso ordinário em habeas corpus por esta Suprema Corte. Do contrário, permitiria ao jurisdicionado a escolha do Tribunal para conhecer e julgar a sua causa, o que configuraria evidente abuso do direito de recorrer.
+    Isso posto, com base no art. 21, § 1°, do RISTF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 1° de agosto de 2018.
+Ministro Ricardo Lewandowski
+Relator
