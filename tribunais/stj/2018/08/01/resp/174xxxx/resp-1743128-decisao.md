@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] CHAGAS DE LIMA FAUSTINO e [NOME] [NOME] [NOME] DA [NOME], com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça do Estado do Piauí.
+Conforme o contido nos autos, ao recorrente [NOME] CHAGAS DE LIMA FAUSTINO foi imposta as penas de 2 anos e 8 meses de reclusão, em regime semiaberto, e 30 dias-multa; e ao recorrente [NOME], as sanções de 3 anos e 5 meses de reclusão, em regime semiaberto, e 40 dias-multa, pela prática de furto qualificado pelo concurso de pessoas.
+A defesa interpôs apelação, à qual o Tribunal de origem, por unanimidade de votos, negou provimento, consoante esta ementa (e-STJ fl. 322):
+PENAL E PROCESSUAL PENAL - APELAÇÃO CRIMINAL - ART. 155, § 4º, IV, DO CP (FURTO QUALIFICADO) - RECURSO DEFENSIVO - REDIMENSIONAMENTO DA PENA - EXASPERAÇÃO PROPORCIONAL - CRITÉRIO ALBERGADO PELA JURISPRUDÊNCIA - REGIME INICIAL SEMIABERTO - CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS - POSSIBILIDADE - DETRAÇÃO - AUSÊNCIA DE INFORMAÇÕES - IMPOSSIBILIDADE - RECURSO CONHECIDO E IMPROVIDO, À UNANIMIDADE.
+1. No caso dos autos, o magistrado a quo exasperou a pena-base em 9 (nove) meses para cada circunstância judicial desfavorável, inexistindo, portanto, ilegalidade apta a ensejar a adoção de critério distinto por esta Corte de Justiça, até porque seguiu o critério que vem sendo albergado pela jurisprudência pátria, razão pela qual não há que se falar em reforma da dosimetria.
+2 A existência de circunstâncias judiciais desfavoráveis, notadamente as circunstâncias do crime, justifica a imposição do regime mais gravoso (semiaberto). Precedentes.
+3 Impossível a realização da detração por esta Corte, uma vez que não se pode precisar a data em que os apelantes foram soltos.
+4. Recurso conhecido e improvido, à unanimidade.
+Nas razões do recurso especial, a defesa apontou violação do art. 59 do Código Penal, alegando para tanto que "a análise da circunstância judicial da conduta social não tem relação com a vida criminal do acusado. O histórico criminal já é utilizado para aferir os antecedentes (primeira fase de aplicação da pena) ou a reincidência (segunda fase de aplicação da pena). A conduta social está relacionada com aspectos extrapenais" (e-STJ fl. 340).
+Ainda nesse sentido: aduziu, "ora, se condenações anteriores transitadas em julgado não podem ser utilizadas como conduta social desfavorável, muito menos apenas prisões anteriores" (e-STJ fl. 340). Requereu, assim, a positivação do citado vetor.
+Apontou a inidôneidade do sopesamento negativo das circunstâncias do crime, pois o fato de o delito ter sido cometido à noite já está contemplado pelo tipo qualificado, devendo, assim, a pena-base ficar no mínimo legal, e o regime aberto ser estabelecido para o início do cumprimento da sanção.
+Requereu a fixação do regime aberto, pois "os recorrentes não possuem nenhuma das 08 circunstâncias judiciais previstas no art. 59 do CP desfavorável à mesma e não persiste nenhuma agravante e sim atenuante da confissão espontânea" (e-STJ fl. 341).
+Por fim, alegou não ter sido observada pelo Juízo da condenação a condição econômica dos recorrentes para o fim de estabelecer o montante da pena de multa, devendo ser fixada no mínimo legal.
+Contrarrazões às e-STJ fls. 348/356.
+O Ministério Público Federal manifestou-se, às e-STJ fls. 378/383, pelo parcial provimento do recurso.
+O recurso especial não reúne condições de ser conhecido.
+O Tribunal estadual, por ocasião do julgamento da apelação, restringiu-se à apreciação da alegada desproporcionalidade do aumento da pena-base em decorrência da negativação de apenas dois vetores, não tendo analisado a tese ora trazida no bojo do recurso especial, relativa à inidoneidade dos fundamentos declinados pelo Juízo da condenação para negativar a conduta social e as circunstâncias do delito.
+Tanto é assim que da leitura atenta das razões da apelação verifica-se que a defesa dos recorrentes não cuidou de argui-la nessa oportunidade processual.
+Assim, o óbice da ausência do prequestionamento da matéria, sedimentado nas Súmulas n. 282 e 356, ambas do STF, mostra-se intransponível no caso.
+De igual modo, a alegada ausência de consideração da situação econômica dos recorrentes para o fim de estabelecer o montante da multa não foi apreciada pelo Tribunal estadual e não se opuseram os necessários embargos de declaração para o fim de instigá-lo a fazê-lo, sendo o obstáculo da falta de prequestionamento insuperável.
+Quanto ao pleito de fixação do regime aberto, fica prejudicado pelo não conhecimento da tese de ausência de justificativa idônea para o fim de negativar os vetores conduta social e circunstâncias do crime.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
