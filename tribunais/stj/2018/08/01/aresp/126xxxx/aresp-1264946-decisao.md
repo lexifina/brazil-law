@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto com fulcro no art. 105, III, alínea "a", da Constituição Federal.
+Consta dos autos que o ora agravante foi denunciado como incurso no art. 157, § 2º, incisos I e II, do Código Penal - CP (roubo majorado), e condenado às penas de 6 anos, 2 meses e 20 dias de reclusão, a ser cumprida inicialmente em regime semiaberto, e ao pagamento de 30 dias-multa, conforme a sentença às fls. 164-185.
+Irresignada, a defesa apelou, pretendendo a absolvição por insuficiência de provas ou a desclassificação para crime de furto, o decote da causa de aumento, o reconhecimento da tentativa e o direito de recorrer em liberdade.
+O Tribunal de origem negou provimento ao recurso, em acórdão assim ementado:
+"APELAÇÃO CRIMINAL. ROUBO MAJORADO. EMPREGO DE ARMA. CONCURSO DE PESSOAS.ABSOLVIÇÃO. IMPOSSIBILIDADE. CRIME DE ROUBO. EXCLUSÃO DAS CAUSAS DE AUMENTO IMPOSSIBILIDADE. DESCLASSIFICAÇÃO PARA O CRIME DE FURTO. INCABÍVEL. CAUSA DE DIMINUIÇÃO PREVISTA NO ART. 14, II, DO CP.NÃO CONFIGURADA. DIREITO DE RECORRER EM LIBERDADE. NÃO ACOLHIMENTO. DOSIMETRIA DA PENA. RATIFICADA. RECURSO CONHECIDO E NÃO PROVIDO.
+Diante da comprovação da autoria e materialidade delitiva, resta patente a impertinência do pugno absolutório.
+Demonstrado pelo lastro probatório a efetiva utilização da arma de fogo e o concurso de agentes na ação delituosa, resta pertinente a condenação do agente pelo crime de roubo majorado.
+Comprovada a existência de violência e/ou grave ameaça, incabível a desclassificação para o delito de furto.
+Confirmado nos autos que o agente se tornou indevido possuidor da res furtiva, ainda que por poucos instantes, patente a consumação do delito.
+Fundamentada a manutenção dos motivos ensejadores da segregação cautelar pela sentença condenatória, resta incabível a concessão do direito de recorrer em liberdade, garantindo-se a sua imediata inserção no regime menos gravoso fixado. Recurso conhecido e não provido" (fl. 328).
+Na petição de recurso especial, a defesa alega violação dos arts. 14, II, do Código Penal, 386, VII, do Código de Processo Penal e 5º, LVII, da Constituição Federal.
+Sustenta a insuficiência de provas para a condenação, sendo o caso de desclassificação da conduta para furto.
+Alega a impossibilidade de aumento da pena em razão do uso de arma de fogo, tendo em vista "a ausência de provas acerca da efetiva lesividade da arma em questão" (fl. 345), além da inaplicabilidade da majorante do concurso de pessoas.
+Assevera que "o Recorrente ficou muito distante da consumação do delito, o que justifica e fundamenta a diminuição da pena no patamar mais benéfico ao agente, ou seja, redução de 2/3 (dois terços) da pena em razão da tentativa" (fl. 347).
+Afirma que, no caso de ser mantida a condenação, o réu faz jus ao direito de recorrer em liberdade, atendendo ao consagrado princípio da presunção de inocência.
+A r. decisão agravada não admitiu o recurso especial haja vista a incidência das Súmulas ns. 7 e 83 desta Corte.
+Contraminuta às fls. 395-402.
+O Ministério Público Federal opina pelo não conhecimento do recurso (fls. 415-418).
+É o relatório. Decido.
+Conheço do agravo em recurso especial, visto que atacados os fundamentos da decisão agravada.
+Passo a apreciar o apelo raro.
+O recurso não merece provimento.
+Inicialmente, não compete ao Superior Tribunal de Justiça a análise de violação a dispositivo constitucional, motivo pelo qual não conheço desta parte do Recurso Especial. Cito precedente:
+"RECURSO ESPECIAL. TRÁFICO TRANSNACIONAL DE DROGAS. COAÇÃO MORAL IRRESISTÍVEL. CAUSA EXCLUDENTE DA CULPABILIDADE. NÃO CARACTERIZAÇÃO. ABSOLVIÇÃO. IMPOSSIBILIDADE. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. NULIDADES. AUSÊNCIA DE PREQUESTIONAMENTO. PENA-BASE. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. RECURSO CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.  ..
+4. Não compete a esta Corte Superior, por expressa determinação da Constituição Federal, a análise de suposta ofensa a dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+ ..
+9. Recurso especial parcialmente conhecido e, nessa extensão, não provido" (REsp 1.136.233/CE, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 29/02/2016).
+Quanto aos pleitos de absolvição ou desclassificação do delito, o acolhimento da pretensão recursal encontra óbice no enunciado n. 7 da Súmula do STJ, por demandar revolvimento do conteúdo fático-probatório dos autos, o que não se viabiliza em recurso especial. Nessa linha:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. NEGATIVA DE VIGÊNCIA AOS ARTS. 28 E 33, AMBOS DA LEI N.º 11.343/06 E AO ART. 386, VII, DO CPP. PLEITO DE ABSOLVIÇÃO. PLEITO DE DESCLASSIFICAÇÃO DO CRIME DE TRÁFICO DE DROGAS PARA O DELITO DE POSSE DE ENTORPECENTES PARA CONSUMO PRÓPRIO. REEXAME DE MATÉRIA FÁTICA. VEDAÇÃO. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a absolver, condenar, ou desclassificar a imputação feita ao acusado.
+2. Agravo regimental a que se nega provimento" (AgRg no AREsp 871.789/ES, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 14.6.2016).
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. ABSOLVIÇÃO. FALTA DE PROVAS. ART. 155, 226 E 386, VII, TODOS DO CPP. VERIFICAÇÃO. DOSIMETRIA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS 7 E 83 DO STJ. AGRAVO NÃO PROVIDO.
+1. Não há falar em negativa de vigência ao art. 226 do Código de Processo Penal, pois a orientação do Tribunal a quo está em consonância com a jurisprudência desta Corte sobre o tema, no sentido de que "o reconhecimento pessoal isolado não anula o ato, sendo que a presença de outras pessoas junto ao réu é uma recomendação legal e, não, uma exigência" (HC 41.813/GO, Ministro Gilson Dipp, Quinta Turma, DJ 30/5/2005).
+2. Para alterar a conclusão a que chegou as instâncias ordinárias, no sentido de se verificar a inexistência de elementos de autoria e de materialidade suficientes a desconstituir o decreto condenatório, ou se houve acerto ou desacerto no estabelecimento da dosimetria da pena, demandaria, necessariamente, revolvimento do acervo fático-probatório delineado nos autos, procedimento que encontra óbice na Súmula 7/STJ, que dispõe: "A pretensão de simples reexame de prova não enseja recurso especial."
+3. Agravo regimental não provido" (AgRg no AREsp 651.631/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 18/12/2015).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. VIOLAÇÃO AO ART. 402 DO CPP. NULIDADE. INEXISTÊNCIA DE COMPROVAÇÃO DOS PREJUÍZOS SUPORTADOS PELO RÉU. EIVA NÃO CONFIGURADA. ACÓRDÃO DO TRIBUNAL DE ORIGEM EM CONSONÂNCIA COM A ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE SUPERIOR. INCIDÊNCIA DO ENUNCIADO N.º 83 DA SÚMULA DO STJ.  ..
+DESCLASSIFICAÇÃO. NECESSIDADE DE REVOLVIMENTO APROFUNDADO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE NA VIA ELEITA. ENUNCIADO SUMULAR N.º 7/STJ. INSURGÊNCIA DESPROVIDA.
+1. A pretendida desclassificação da conduta imputada ao recorrente para a infração penal de estelionato ou de furto mediante fraude é questão que demanda aprofundada análise do conjunto probatório produzido em juízo, providência vedada na via eleita. Óbice do Enunciado n.º 7 da Súmula desta Corte Superior.
+2. Insurgência desprovida" (AgRg no AREsp 959.515/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 18/11/2016).
+Quanto ao art. 14, II, do Código Penal, os Tribunais superiores adotaram a teoria da apprehensio, também denominada de amotio, segundo a qual o crime de roubo, assim como o de furto, consuma-se no momento em que o agente se torna possuidor da coisa alheia móvel, pouco importando se por longo ou breve espaço temporal, sendo prescindível a posse mansa, pacífica, tranquila e/ou desvigiada, editando esta Corte, inclusive, a Súmula n. 582, verbis:
+"Consuma-se o crime de roubo com a inversão da posse do bem mediante emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida à perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada."
+Nesse sentido, o seguinte precedente desta Corte:
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO E TRÁFICO DE DROGAS. PLEITO ABSOLUTÓRIO. AUTORIA E MATERIALIDADE COMPROVADAS. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. TEORIA DA APPREHENSIO. CONSUMAÇÃO DO DELITO NO MOMENTO DA POSSE DA COISA ALHEIA MÓVEL. INCIDÊNCIA DA SÚMULA N. 83 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.  ..
+2. Os Tribunais superiores adotaram a teoria da apprehensio, também denominada de amotio, segundo a qual o crime de roubo, assim como o de furto, consuma-se no momento em que o agente se torna possuidor da coisa alheia móvel, pouco importando se por longo ou breve espaço temporal, sendo prescindível a posse mansa, pacífica, tranquila e/ou desvigiada.
+Agravo regimental desprovido." (AgRg no AREsp 1.042.361/SP, de minha relatoria, QUINTA TURMA, DJe de 9/6/2017).
+Por fim, verifica-se que o tema referente às majorantes não foi objeto de deliberação pelo Tribunal a quo. Contra o acórdão proferido em sede de apelação não foram opostos embargos de declaração a fim de se discutir a matéria. Carece, assim, o presente apelo extremo do requisito indispensável do prequestionamento, incidindo, na hipótese, as Súmulas 282 e 356 do STF.
+Diante do exposto, com fundamento no art. 932, inc. IV, do Código de Processo Civil c/c o art. 3.º do Código de Processo Penal, nego provimento ao recurso.
+Publique-se. Intimem-se.
