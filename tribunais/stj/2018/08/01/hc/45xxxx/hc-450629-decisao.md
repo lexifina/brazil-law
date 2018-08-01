@@ -1,0 +1,21 @@
+EMENTA
+HABEAS CORPUS. ROUBO MAJORADO E DENUNCIAÇÃO CALUNIOSA. ABSOLVIÇÃO. PRETENSÃO. ELEMENTOS FÁTICOS. REEXAME. IMPOSSIBILIDADE. REGIME FECHADO. GRAVIDADE ABSTRATA. FUNDAMENTAÇÃO INIDÔNEA. REGIME SEMIABERTO. FIXAÇÃO.
+Ordem parcialmente concedida a fim de fixar o regime semiaberto para o início do cumprimento da reprimenda.
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME] e [NOME], em que se aponta como órgão coator o Tribunal de Justiça de São Paulo.
+Consta dos autos que o Juízo da Primeira Vara Criminal da Comarca de Avaré/SP (Processo n. 3005453-46.2013.8.26.0073 - fls. 39/47) condenou os pacientes às penas de 7 anos e 4 meses de reclusão, a ser inicialmente cumprida em regime fechado, além do pagamento de 23 dias-multa, como incursos nas sanções do art. 157, § 2º, II, e art. 339, caput, na forma do art. 69, caput, todos do Código Penal, negado o recurso em liberdade.
+Irresignada, a defesa interpôs recurso de apelação (n. 3005453-46.2013.8.26.0073 - fls. 48/63), ao qual o Tribunal de origem, por unanimidade, negou provimento, em acórdão assim ementado (fl. 49):
+Roubo majorado e denunciação caluniosa - Apelos defensivos requerendo a absolvição por insuficiência probatória - Autoria e Materialidade suficientemente comprovadas - Palavras firmes e coerentes da vítima e testemunhas, aliadas com a confissão policial dos acusados - Penas bem aplicadas - Regime prisional que não pode ser abrandado ante a gravidade em concreto e periculosidade dos agentes - Recursos desprovidos.
+
+Impetrado, então, o presente habeas corpus, pretende a Defensoria Pública, em suma, a absolvição dos pacientes, com lastro no art. 386, III, do Código de Processo Penal, da imputação descrita no art. 339 do Código Penal, já que a conduta narrada na exordial acusatória não se subsumeria a este tipo; bem como a fixação do regime semiaberto para o início do cumprimento da reprimenda.
+Liminar indeferida (fls. 77/79), informações prestadas (fls. 85/103 e 104/122), o Ministério Público Federal opinou pelo não conhecimento do writ, em parecer que ostenta a seguinte ementa (fl. 124):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. DENUNCIAÇÃO CALUNIOSA. PLEITO ABSOLUTÓRIO. ALEGAÇÃO DE ATIPICIDADE DA CONDUTA. INVIABILIDADE DE RECONHECIMENTO. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. ROUBO MAJORADO. REGIME PRISIONAL FECHADO. GRAVIDADE EM CONCRETO DO DELITO. DECISÃO FUNDAMENTADA.
+- Parecer pelo não conhecimento do habeas corpus.
+É o relatório.
+As instâncias ordinárias entenderam configuradas a materialidade e autoria delitivas do crime de denunciação caluniosa pelos ora pacientes, tendo o acórdão impugnado ressaltado que a condenação dos acusados, nos termos da denúncia, era de rigor, sendo certo que restou demonstrado o delito tipificado no artigo 339 do Código Penal, já que atribuíram a [NOME] a falsa participação no delito em tela, dando causa à instauração de procedimento investigativo, tanto que foi ouvido às fls. 54 do inquérito (fl. 60).
+Dessa forma, para que fosse possível a revisão de tal conclusão, seria imprescindível o reexame dos elementos fáticos constantes dos autos, o que é defeso na via eleita, que possui rito célere e cognição sumária.
+Quanto ao regime, entretanto, assiste razão à defesa.
+Com efeito, verifico que foi fixado o regime fechado para o início do cumprimento da reprimenda tão somente com base na gravidade abstrata do crime de roubo majorado. Todavia, o posicionamento pacificado nesta Corte e no Supremo Tribunal Federal é no sentido de que se mostra inadmissível a estipulação de regime prisional mais rigoroso do que aquele previsto para a sanção corporal aplicada apenas com fundamento na gravidade abstrata do delito. Nesse sentido, as Súmulas 440/STJ e 718 e 719/STF.
+Assim, ante a ausência de motivação idônea para o estabelecimento do regime fechado, tratando-se de réus primários, que tiveram suas penas-base fixadas no mínimo legal, e condenados definitivamente à pena de 7 anos e 4 meses de reclusão, estabeleço o regime semiaberto para o início de seu cumprimento.
+Ante o exposto, concedo parcialmente a ordem tão somente a fim de fixar o regime semiaberto para o início do cumprimento da reprimenda.
+Publique-se. Intimem-se.
