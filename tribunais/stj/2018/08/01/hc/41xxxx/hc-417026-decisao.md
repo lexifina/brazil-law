@@ -1,0 +1,48 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de MAYONY PALHANO AIRES, contra acórdão proferido pelo Tribunal de Justiça do Estado do Pará no julgamento do HC n. 0008010-76.2017.8.14.0000.
+Extrai-se dos autos que o paciente foi preso em flagrante em 9/7/2016 por ter supostamente praticado o delito tipificado no art. 121, § 2º, II, do Código Penal (homicídio qualificado). Referida custódia foi convertida em preventiva. Houve pedido de relaxamento da prisão, indeferido em 12/12/2016.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem em acórdão assim ementado:
+HABEAS CORPUS. PRISÃO EM FLAGRANTE. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO. INEXISTÊNCIA DE MOTIVOS AUTORIZADORES DA CUSTÓDIA CAUTELAR. IMPROCEDÊNCIA. ORDEM DENEGADA. UNANIMIDADE.
+1. Conquanto observações do impetrante em torno dos predicados subjetivos da paciente, estes não se sobrepõem à presença dos preceitos dispostos no artigo 312 do Código de Processo Penal (Súmula nº 08/TJPA).
+2. A ordem da autoridade judiciária resta bem escrita e fundamentada, apoiada em elementos concretos. Nela, estão expostos os requisitos da tutela cautelar (fumus comissi delicti e periculum in libertatis). Nela, está demonstrada a adequação da prisão preventiva.
+3. É de se considerar ainda o principio da confiança do magistrado, o qual se encontra mais próximo à causa e possui melhores condições de avaliar a necessidade da segregação cautelar do paciente.
+4. Ordem denegada (fl. 247).
+No presente writ, alega a incidência de excludente de ilicitude. Aduz que o suposto delito foi cometido por legítima defesa ante injusta ameaça da vítima. Ressalta as condições pessoas favoráveis do paciente.
+Aponta excesso de prazo para a formação da culpa, porquanto a custódia cautelar perdura por mais de 1 ano e 2 meses sem que a instrução tenha sido encerrada.
+Indica inexistir complexidade do caso concreto a justificar a demora no andamento processual e salienta que a defesa não contribuiu para o atraso. Assevera que o paciente e as testemunhas de defesa ainda não foram ouvidos pelo Juízo deprecado.
+Invoca o princípio da presunção de inocência e sustenta ser suficiente, no caso concreto, a aplicação de medidas alternativas ao cárcere.
+Requer, assim, em liminar e no mérito, a revogação da prisão preventiva, se for o caso com a aplicação das medidas cautelares alternativas previstas no art. 319 do Código de Processo Penal.
+Liminar indeferida (fls. 352/354). Informações prestadas (fls. 359/369 e 379/398). O Ministério Público Federal opinou pelo não conhecimento do habeas corpus ou, se conhecido, pela denegação da ordem (fls. 400/405).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+Inicialmente, convém esclarecer que, demonstrados os pressupostos da materialidade e indícios de autoria, é inadmissível o enfrentamento, na via estreita do habeas corpus, da alegação de existência de uma excludente de ilicitude - legítima defesa -, tendo em vista a necessária incursão probatória, inadmissível na via eleita, devendo tal análise ser realizada pelo Tribunal do Júri. A propósito:
+PROCESSO PENAL. HABEAS CORPUS. TENTATIVA DE HOMICÍDIO. NULIDADE DO AUTO DE PRISÃO EM FLAGRANTE. SUPRESSÃO DE INSTÂNCIA. FUNDAMENTAÇÃO DA PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. REITERAÇÃO DELITIVA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. DISCUSSÕES ATINENTES À MATERIALIDADE, AUTORIA E ALEGADA LEGÍTIMA DEFESA. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NESTA ESTREITA VIA. WRIT PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DENEGADO.
+1. A questão da nulidade do auto de prisão em flagrante não foi apreciada pelo acórdão impugnado, o que impede o seu conhecimento por esta Corte Superior, sob pena de indevida supressão de instância.
+2. Não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade concreta dos fatos delituosos, tendo o juízo de primeiro grau destacado a "seriedade das lesões sofridas pela vítima, inclusive com a hospitalização e a perfuração do pulmão". Destacou-se, também, que a paciente "registra intenso histórico de anotações em sua FAP, preponderando atos de violência contra a pessoa, tentativa de homicídio, ameaça e lesões corporais", tudo a conferir lastro de legitimidade à medida extrema.
+3. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+4. Discussões atinentes à materialidade, autoria e alegada legítima defesa ultrapassam os estreitos limites desta via mandamental, por demandarem revolvimento do conjunto fático-probatório do processo que corre em primeira instância.
+5. Writ parcialmente conhecido e, nessa extensão, denegado (HC 411.988/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 04/10/2017).
+RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA DEVIDAMENTE JUSTIFICADA. RISCO CONCRETO DE REITERAÇÃO DELITIVA. MAUS ANTECEDENTES E REINCIDÊNCIA. FUGA DO DISTRITO DA CULPA. FUNDAMENTAÇÃO IDÔNEA. MEDIDAS CAUTELARES. INADEQUAÇÃO. COAÇÃO ILEGAL NÃO EVIDENCIADA. RECURSO DESPROVIDO.
+(..)
+4. A efetiva responsabilidade criminal do paciente e as circunstâncias da prática delitiva (legítima defesa) constituem matéria adstrita ao mérito da causa, reclamando, pois, ampla dilação probatória, insuscetível de ser analisada no âmbito restrito do habeas corpus, o qual, em razão do seu rito célere e cognição sumária, reclama prova pré-constituída do direito alegado.
+5. Recurso ordinário desprovido (RHC 82.775/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 01/09/2017).
+Por seu turno, quanto ao aventado excesso de prazo para a formação da culpa, observo que a impetração está prejudicada.
+Isso porque, em consulta ao site do Tribunal de origem, verifica-se que, na Ação Penal n. 0006036-18.2016.8.14.0136, a que se refere o presente feito, houve a prolação de sentença de pronúncia em 12/6/2018, tornando-se inócuo o pedido de revogação da prisão por excesso de prazo, nos termos da Súmula n. 21 desta Corte, que enuncia:
+Pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução.
+Dessa forma, inegável a perda superveniente do objeto do mandamus nesse ponto.
+Por fim, cumpre registrar que esta Corte Superior possui entendimento firme no sentido de que a presença de condições pessoais favoráveis do agente, como primariedade, ausência de antecedentes, domicílio certo e emprego lícito, não representa óbice, por si só, à decretação da prisão preventiva, quando identificados os requisitos legais da cautela.
+Além disso, o entendimento do Superior Tribunal de Justiça é no sentido de ser inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para manutenção da ordem pública. Nesse sentido:
+PROCESSUAL PENAL E PENAL. RECURSO EM HABEAS CORPUS. HOMICÍDIO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. MODUS OPERANDI. ILEGALIDADE. AUSÊNCIA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. APLICAÇÃO DE MEDIDAS ALTERNATIVAS À PRISÃO. INSUFICIÊNCIA À GARANTIA DA ORDEM PÚBLICA. RECURSO EM HABEAS CORPUS IMPROVIDO.
+ ..
+2. Na esteira do entendimento adotado por esta Corte Superior, a existência de condições pessoais favoráveis, tais como primariedade, residência fixa e ocupação lícita, não têm o condão de, isoladamente, ensejar a revogação da prisão cautelar, se há nos autos elementos suficientes a demonstrar sua necessidade.
+3. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. Precedentes.
+4. Recurso em habeas corpus improvido (RHC 96.208/PI, Relator Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 21/5/2018).
+RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO TRIPLAMENTE QUALIFICADO. CORRUPÇÃO DE MENORES. NEGATIVA DE PARTICIPAÇÃO NO ILÍCITO. MATÉRIA NÃO EXAMINADA PELA CORTE A QUO. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. SEGREGAÇÃO FUNDADA NO ART. 312 DO CÓDIGO DE PROCESSO PENAL. GARANTIA DA ORDEM PÚBLICA. CIRCUNSTÂNCIAS DO EVENTO CRIMINOSO. MODUS OPERANDI. GRAVIDADE EM CONCRETO DA CONDUTA PERPETRADA. FUNDADO RISCO DE REITERAÇÃO DELITIVA. AGENTE QUE RESPONDE A OUTRAS AÇÕES CRIMINAIS. CUSTÓDIA CAUTELAR JUSTIFICADA. COAÇÃO ILEGAL NÃO DEMONSTRADA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA E INADEQUAÇÃO. RECLAMO DESPROVIDO.
+ ..
+5. Condições pessoais favoráveis não têm, em princípio, o condão de, isoladamente, revogar a prisão cautelar, se há nos autos elementos suficientes a demonstrar a sua necessidade.
+6. Concluindo-se pela imprescindibilidade da preventiva, está clara a insuficiência das medidas cautelares diversas da prisão, cuja aplicação não se mostraria adequada para o restabelecimento da ordem pública.
+7. Recurso ordinário em habeas corpus desprovido (RHC 95.202/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 16/4/2018).
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea "a", do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
