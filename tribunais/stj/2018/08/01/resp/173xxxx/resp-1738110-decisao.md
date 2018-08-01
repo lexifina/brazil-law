@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto por TELEFÔNICA BRASIL S.A., contra acórdão assim ementado (fls. 189/190):
+RECURSO AGRAVO RETIDO - TELEFONIA - CONTRATO DE PARTICIPAÇÃO FINANCEIRA E INVESTIMENTO TELEFÔNICO - ERRO NA ADOÇÃO DO CRITÉRIO DE CÁLCULO DE CADA AÇÃO - RESÍDUO ACIONÁRIO - DOBRA ACIONÁRIA POR CISÃO - REPARAÇÃO DE DANOS. Decisão agravada aplicou o Código de Defesa do Consumidor à hipótese e inverteu o ônus probatório em desfavor da requerida. Decisão mantida. Cuidando-se de relação de consumo, imperiosa é a sua verificação sob a ótica protetiva do diploma consumerista, inclusive com a inversão probatória, dada a hipossuficiência técnica da consumidora acerca das informações contratuais.
+Recurso de agravo retido não provido.
+RECURSO APELAÇÃO CÍVEL - TELEFONIA - CONTRATO DE PARTICIPAÇÃO FINANCEIRA E INVESTIMENTO TELEFÔNICO - ERRO NA ADOÇÃO DO CRITÉRIO DE CÁLCULO DE CADA AÇÃO RESÍDUO ACIONÁRIO - DOBRA ACIONÁRIA POR CISÃO - REPARAÇÃO DE DANOS - MÉRITO. 1) "O direito à complementação de ações subscritas decorrentes de instrumento contratual firmado com sociedade anônima é de natureza pessoal, e, consequentemente, a respectiva pretensão prescreve nos prazos previstos nos artigos 177 do Código Civil/1916 (20 anos) e 205 do atual Código Civil (10 anos)" (REsp nº 829.835/RS). Prescrição não verificada no caso - 2. "Nos contratos de participação financeira para aquisição de linha telefônica, o Valor Patrimonial da Ação (VPA) é apurado com base no balancete do mês da integralização" (Súmula nº 371 do Egrégio Superior Tribunal de Justiça) - Inadimplemento configurado. Complementação acionária devida, com todos os consectários incidentes, inclusive dividendos. - 3. Cabimento de reparação pela dobra acionária decorrente da cisão da requerida, pois na época da cisão a autora ainda não havia negociado suas ações. Procedência Sentença reformada.
+Recurso de apelação provido.
+Os embargos de declaração opostos na origem foram rejeitados (fls. 217/221).
+Em suas razões, a recorrente alega ofensa aos arts. 489, II, 1.022, I e II, do Código de Processo Civil/2015, por omissão do Tribunal de origem, ao não se pronunciar sobre os "eventos societários e as peculiaridades dos contratos de PCT" (fl. 231).
+No mérito, arguem afronta aos arts. 7º, 8º e 170 da Lei n. 6.404/76, bem como dissídio jurisprudencial, afirmando que nos contratos na modalidade PCT, a integralização "só ocorria na data da "incorporação" da planta comunitária construída" (fl. 234).
+Passo a decidir.
+Assiste razão à recorrente.
+O acórdão recorrido efetivamente foi omisso, não abordando as questões supracitadas.
+Em face do exposto, prejudicada a análise dos demais pontos, nos termos do art. 34, XVIII, "c", do Regimento Interno do Superior Tribunal de Justiça, dou provimento ao recurso especial, determinando o retorno dos autos ao Tribunal de origem, com vistas ao julgamento das questões postas em discussão nos embargos de declaração.
+Intimem-se.
