@@ -1,0 +1,27 @@
+DECISÃO:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Sexta Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. CRIME DO ART. 337-A DO CÓDIGO PENAL. SONEGAÇÃO DE CONTRIBUIÇÃO PREVIDENCIÁRIA. CONSTITUIÇÃO DEFINITIVA. SÚMULAS VINCULANTES Nº 24 E 53. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. JUSTA CAUSA CONFIGURADA. EXTINÇÃO DA PUNIBILIDADE. PAGAMENTO. AUSÊNCIA DE COMPROVAÇÃO. ÔNUS DA DEFESA. MATERIALIDADE E AUTORIA DO LITO. AUSÊNCIA DE IMPUGNAÇÃO. DOSIMETRIA. REVISÃO DE OFÍCIO. APELO DEFENSIVO DESPROVIDO.
+    1 – Ação penal que preenche a condição inserta na Súmula Vinculante n° 24, pois a sentença condenatória proferida pela Justiça do Trabalho é título executivo das contribuições previdenciárias dela decorrentes e, portanto, naquela seara se discute o valor do tributo e após a liquidação, considera-se constituído o crédito tributário. Súmula Vinculante n° 53.
+    2 – Rejeitado o pedido de reconhecimento de extinção da punibilidade, formulado com espeque no art. 9°, § 2°, da Lei n° 10.684/2003, pois ausente demonstração de pagamento do crédito tributário. Ônus da defesa, nos termos do art. 156 do Código de Processo Penal.
+    3 – Materialidade e autoria do crime restaram incontroversas e não foram objeto de impugnação no recurso defensivo.
+    4 – Demonstrada, portanto, a responsabilidade penal do acusado quanto ao delito do art. 337-A, I, c.c. O art. 71, ambos do Código Penal, por ter omitido, na condição de sócio e administrador da pessoa jurídica empregadora, informações acerca da remuneração paga a um empregado, no período de 02/02/1992 a 10/02/2006, reduzindo, mediante tal conduta, contribuições previdenciárias no montante de R$ 71.815,35 (setenta e um mil oitocentos e quinze reais e cinco centavos).”
+    No recurso extraordinário sustenta-se violação do artigo 5º, inciso XL, da Constituição Federal.
+    Decido.
+    A Emenda Constitucional nº 45, de 30/12/04, que acrescentou o § 3º ao artigo 102 da Constituição Federal, criou a exigência da demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário.
+    A matéria foi regulamentada pela Lei nº 11.418/06, que introduziu os artigos 543-A e 543-B ao Código de Processo Civil de 1973, e o Supremo Tribunal Federal, através da Emenda Regimental nº 21/07, dispôs sobre as normas regimentais necessárias à sua execução. Prevê o artigo 323 do Regimento Interno do Supremo Tribunal Federal, na redação da Emenda Regimental nº 21/07, que, quando não for o caso de inadmissibilidade do recurso extraordinário por outra razão, haverá o procedimento para avaliar a existência de repercussão geral na matéria objeto do recurso.
+    Esta Corte, com fundamento na mencionada legislação, quando do julgamento da Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, firmou o entendimento de que os recursos extraordinários interpostos contra acórdãos publicados a partir de 3/5/07, data da publicação da Emenda Regimental nº 21/07, deverão demonstrar, em preliminar do recurso, a existência da repercussão geral das questões constitucionais discutidas no apelo.
+    No caso em tela, o recurso extraordinário foi interposto quando já era plenamente exigível a preliminar recursal para demonstrar a repercussão geral da matéria constitucional objeto do apelo.
+    A petição recursal, todavia, não possui a referida preliminar formal devidamente fundamentada, o que implica a impossibilidade do trânsito do presente recurso. Sobre o tema, anote-se:
+    “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL DA MATÉRIA CONSTITUCIONAL SUSCITADA. PRELIMINAR FORMAL E FUNDAMENTADA. NECESSIDADE DE DEMONSTRAÇÃO. ART. 543-A, § 2º, DO CÓDIGO DE PROCESSO CIVIL.
+    1. Inobservância ao que disposto no artigo 543-A, § 2º, do Código de Processo Civil, que exige a apresentação de preliminar sobre a repercussão geral na petição de recurso extraordinário, significando a demonstração da existência de questões constitucionais relevantes sob o ponto de vista econômico, político, social ou jurídico, que ultrapassem os interesses subjetivos das partes.
+    2. A ausência dessa preliminar na petição de interposição permite que a Presidência do Supremo Tribunal Federal negue, liminarmente, o processamento do recurso extraordinário, bem como do agravo de instrumento interposto contra a decisão que o inadmitiu na origem (13, V, c, e 327, caput e § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    3. Cuida-se de novo requisito de admissibilidade que se traduz em verdadeiro ônus conferido ao recorrente pelo legislador, instituído com o objetivo de tornar mais célere a prestação jurisdicional almejada.
+    4. O simples fato de haver outros recursos extraordinários sobrestados, aguardando a conclusão do julgamento de ação direta de inconstitucionalidade, não exime o recorrente de demonstrar o cabimento do recurso interposto.
+    5. Agravo regimental desprovido” (RE nº 569.476/SC-AgR, Tribunal Pleno, Relatora a Ministra Ellen Gracie, DJe de 25/4/08).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 1º de agosto de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
