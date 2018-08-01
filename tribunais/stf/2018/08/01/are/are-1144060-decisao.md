@@ -1,0 +1,26 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão da Turma Recursal Criminal do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 12, p. 02):
+    REVISÃO CRIMINAL. Ameaça. Alegação de implementação da decadência do direito de representação da vítima e nulidade da revelia. Pretensão revisional fundada no art. 621, I e III do Código de Processo Penal. Pedido revisional indeferido.
+    Os embargos de declaração foram desprovidos.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 1º, III; 5º, II, LIV e LV, e 93, IX, ambos da CF. Alega-se que: a) houve negativa de prestação jurisdicional, tendo em vista que o acórdão recorrido não enfrentou as teses defensivas e não analisou os documentos apresentados; b) não há provas suficientes para condenar a recorrente; c) a recorrente foi condenada com base em representação cujo prazo decadencial já tinha transcorrido; d) apesar de citada validamente, a recorrente não foi intimada para comparecer à audiência, devendo ser reconhecida a nulidade da revelia decretada.
+    Busca-se: a) o reconhecimento da nulidade do acórdão recorrido, por negativa de prestação jurisdicional; b) o reconhecimento da nulidade processual, por ausência de intimação válida; c) a declaração de extinção da punibilidade pela decadência do direito de representação do ofendido; d) a absolvição da recorrente por ausência de provas.
+    O Colégio Recursal Central dos Juizados Especiais do TJSP inadmitiu o recurso com base na Súmula 279 do STF.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    O Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral, que não há ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada, quando a violação é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário.
+    No tocante à ofensa ao dever constitucional de motivação das decisões, como bem apontado pelo Tribunal a quo, o Supremo Tribunal Federal reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão (AI-QO-RG 791.292, Relatoria do Ministro Gilmar Mendes, DJe 13.08.2010, Tema 339).
+    No caso, verifico que o acórdão está devidamente fundamentado, ainda que suas razões sejam contrárias ao interesse do recorrente.
+    Com efeito, a Turma Recursal afastou as teses defensivas sob estes fundamentos (eDOC 12, p. 03/04, grifei):
+    “A pretensão não comporta acolhimento.
+    A requerente fundamenta seu pleito revisional no artigo 621, I e III, do Código de Processo Penal, mas não demonstrou, nem minimamente, que a condenação foi contrária à prova dos autos, tampouco comprovou a verificação de novas provas de inocência ou circunstância que determine ou autorize a diminuição da pena.
+    Em primeiro lugar, repise-se, outra vez, que a representação foi materializada rigorosamente dentro do prazo fixado pelos artigos 103 do Código Penal e 38 do Código de Processo Penal. Vale dizer, não há como desprezar o conhecimento da autoria do fato pela vítima em 13 de julho de 2014, ao passo que a representação foi formalizada em 28 de julho de 2014, apenas quinze dias depois.
+    Portanto, não ocorreu decadência.
+    Por outro lado, não se verificou irregularidade no ato de citação, porquanto a requerente, comprovadamente, recebeu a contra-fé e teve inteira ciência da data designada para a audiência de instrução, debates e julgamento.
+    Essa insurgência, aliás, já foi objeto de perfeita e intocável apreciação pelo V. Acórdão.
+    Finalmente, não há como abrigar a tese de que sentença e acórdão contrariam a evidência dos autos. Neste aspecto, a requerente insiste equivocadamente na fragilidade da prova vocal alicerçada na palavra isolada do sujeito passivo do crime de ameaça, mas, em verdade, o laudo pericial do aparelho telefônico atestou a veracidade das mensagens por aquele recebidas, de modo que a ambas - palavra e laudo pericial - se somam para aperfeiçoar o conjunto justificador do desate condenatório. Diante desse quadro, força é convir, o V. Acórdão está lastreado em conjunto probatório suficientemente seguro e convincente que, acertadamente, reconheceu a autoria delitiva imputada à peticionária.”
+    Assim, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos, provas e da legislação aplicável à espécie (Código Penal), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF e a caracterização de ofensa meramente reflexa ao texto constitucional.
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 1º de agosto de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
