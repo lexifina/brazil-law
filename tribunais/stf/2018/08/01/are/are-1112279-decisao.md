@@ -1,0 +1,22 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo interposto contra a decisão que não admitiu o recurso extraordinário. A decisão agravada negou seguimento ao apelo extremo amparada nos seguintes fundamentos:
+    “(…)
+    Isto porque o Supremo Tribunal Federal, no julgamento do recurso extraordinário com agravo 901963/SC, da relatoria do ministro TEORI ZAVASCKI, por acórdão transitado em julgado em 04/11/2015, posicionou-se no sentido de que, diante do dispositivo genérico da sentença proferida na ação civil pública, a presente controvérsia não tem relação, propriamente, com a necessidade de autorização das associações para a representação de seus associados em juízo, dizendo respeito, na verdade, aos limites subjetivos da coisa julgada, matéria de natureza infraconstitucional.
+    (…)
+    Observe-se que o título judicial que ora se busca executar não estabeleceu restrição quanto ao alcance da decisão, conforme ficou definido pelo Superior Tribunal de Justiça no julgamento do recurso especial repetitivo 1391198/RS (Tema 724), da relatoria do ministro LUIS FELIPE SALOMÃO, por acórdão transitado em julgado em 10/08/2015, nos termos seguintes:
+    (…)
+    Ressalte-se, ainda, que a aplicação do entendimento firmado pelo Supremo Tribunal Federal no RE 573.232/SC (Rel. Min. RICARDO LEWANDOWSKI, Rel. p/ acórdão Min. MARCO AURÉLIO, DJe de 19/09/2014) foi expressamente afastada no próprio julgamento do ARE 901.963 RG/SC (Rel. Min. TEORI ZAVASCKI, DJe de 16/09/2015) pela absoluta falta de identidade entre a questão referente à necessidade de autorização das associações para representação de seus associados em Juízo (tema 82) e aquela afeta aos limites subjetivos de sentença proferida em ação civil pública (tema 848), neste caso, sem dimensão constitucional.
+    (…)
+    Por fim, alerte-se que assertivas de ofensa a dispositivos de lei federal não servem de suporte à interposição de recurso extraordinário.”
+    Decido.
+    Esta Suprema Corte firmou o entendimento de que deve a parte impugnar todos os fundamentos da decisão que não admitiu o recurso extraordinário, o que não ocorreu na espécie, uma vez que mantidas incólumes as motivações anteriormente reproduzidas.
+    Nesse caso, a jurisprudência de ambas as Turmas deste Tribunal, com amparo na norma do art. 544, § 4º, inc. I, do Código de Processo Civil, com a redação da Lei nº 12.322/10, é no sentido de não conhecer do agravo. Nesse sentido, os seguintes julgados: AI nº 488.369/RS-AgR, Primeira Turma, Relator Ministro Sepúlveda Pertence, DJ de 28/5/04; AI nº 330.535/SP-AgR, Segunda Turma, Relator o Ministro Maurício Corrêa, DJ de 21/9/01; ARE nº 637.373/MS-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 15/6/11; e ARE nº 704.986/PA-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 28/2/13, esse último assim ementado:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO POPULAR. ESCOLHA DE CIDADE SEDE DE EVENTO DA COPA DO MUNDO DE FUTEBOL DE 2014. FUNDAMENTOS DO DESPACHO DENEGATÓRIO DE ADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO NÃO IMPUGNADOS. AGRAVO NÃO CONHECIDO. ART. 544, § 4º, I, DO CPC. SÚMULA 283/STF. A teor do art. 544, § 4º, I, do CPC e da Súmula 283/STF, não se conhece de agravo contra despacho negativo de admissibilidade de recurso extraordinário quando, lastreada a decisão agravada em múltiplos fundamentos, independentes e suficientes para obstar o processamento do apelo extremo, não foram esgrimidos argumentos tendentes a desconstituir todos eles. Não importa em ofensa ao princípio constitucional da inafastabilidade da jurisdição (art. 5º, XXXV, da Constituição da República) a negativa de seguimento a recurso extraordinário, ou o não conhecimento de agravo, quando verificado o não-atendimento dos pressupostos extrínsecos ou intrínsecos de admissibilidade recursal, cuja observância pelas partes constitui verdadeira imposição da garantia constitucional do devido processo legal (art. 5º, LIV, da Lei Maior). Agravo regimental conhecido e não provido.”
+    Ressalte-se, por fim, que não se aplica ao caso dos autos a majoração dos honorários prevista no artigo 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais pela Corte de origem.
+    Ante o exposto, não conheço do agravo.
+    Publique-se.
+    Brasília, 1º de agosto de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
