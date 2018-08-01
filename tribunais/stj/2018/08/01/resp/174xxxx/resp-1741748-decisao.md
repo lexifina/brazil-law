@@ -1,0 +1,37 @@
+EMENTA
+RECURSO ESPECIAL. AÇÃO COMINATÓRIA. ABSTENÇÃO DE COBRANÇA DE COPARTICIPAÇÃO EM INTERNAÇÃO PSIQUIÁTRICA.
+1. Nos termos da jurisprudência desta Corte, "não é abusiva a cláusula de coparticipação, expressamente contratada e informada ao consumidor, para a hipótese de internação superior a 30 (trinta) dias decorrente de transtornos psiquiátricos, pois destinada à manutenção do equilíbrio entre as prestações e contraprestações que envolvem a verdadeira gestão de custos do contrato de plano de saúde" (AgInt no AREsp 774.936/DF, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13.09.2016, DJe 21.09.2016). Caso líder: REsp 1.511.640/DF, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 02.06.2015, DJe 18.06.2015).
+2. Na hipótese, o Tribunal de origem considerou que a cláusula que estipulou o dever de coparticipação do usuário do plano de saúde não foi redigida com destaque, o que dificultou sua imediata e fácil compreensão. Incidência das Súmulas 5 e 7 do STJ.
+3. Recurso especial não conhecido.
+DECISÃO
+1. Cuida-se de recurso especial interposto por Sul América Seguro Saúde S/A, com amparo na alínea "a" do permissivo constitucional, objetivando a reforma de acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO COMINATÓRIA. PLANO DE SAÚDE. INTERNAÇÃO PSIQUIÁTRICA. CDC. CLÁUSULA. COPARTICIPAÇÃO. ABUSIVIDADE. CONSUMIDOR. DESVANTAGEM EXAGERADA. CLÁUSULA LIMITATIVA TEMPORAL. AUSÊNCIA DE DESTAQUE. NULIDADE. SENTENÇA REFORMADA. SUCUMBÊNCIA INVERTIDA.
+1. A relação jurídica entre os planos e seguros privados de assistência à saúde e o segurado é tipicamente de consumo, submetendo-se às regras e princípios do CDC.
+2. É abusiva a cláusula que impõe coparticipação do consumidor em internação psiquiátrica superior a trinta dias, pois é contrária a própria natureza do contrato e às expectativas do consumidor quando celebra esse tipo de avença. Precedentes do STJ e deste TJDFT.
+3. O art. 54, § 4º do Código de Defesa do Consumidor é deveras claro ao afirmar que "as cláusulas que implicarem limitação de direito do consumidor deverão ser redigidas com destaque, permitindo sua , requisito que não foi cumprido no contrato em exame, motivo pelo qual imediata e fácil compreensão" deve ser declarada ilegal, nos termos do art. 51 do mesmo diploma consumerista.
+4. Recurso conhecido e provido.
+Nas razões do especial, a seguradora aponta violação dos artigos 757 e 760 do Código Civil; e 16, inciso VIII, da Lei 9.656/98. Sustenta, em síntese, não ser abusiva a cláusula de coparticipação do consumidor em internação psiquiátrica superior a trinta dias, a qual fora claramente estipulada na apólice do seguro saúde.
+Apresentadas contrarrazões ao apelo extremo, que recebeu crivo positivo de admissibilidade na origem.
+É o relatório. Decido.
+2. Não se revela cognoscível o reclamo.
+É certo que, nos termos da jurisprudência desta Corte, "não é abusiva a cláusula de coparticipação, expressamente contratada e informada ao consumidor, para a hipótese de internação superior a 30 (trinta) dias decorrente de transtornos psiquiátricos, pois destinada à manutenção do equilíbrio entre as prestações e contraprestações que envolvem a verdadeira gestão de custos do contrato de plano de saúde" (AgInt no AREsp 774.936/DF, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13.09.2016, DJe 21.09.2016).
+Eis a ementa do julgado que inaugurou tal exegese:
+RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR. SISTEMA DE COPARTICIPAÇÃO. PREVISÃO CONTRATUAL CLARA E EXPRESSA. ABUSIVIDADE. INEXISTÊNCIA.
+1. Demanda em que se pretende o reconhecimento de abusividade de cláusula contratual que estabelece a coparticipação do consumidor após o trigésimo dia de internação.
+2. O Tribunal de origem, ao decidir a questão devolvida, declinou de forma expressa todos os fundamentos que lhe serviram de razão de decidir, não havendo omissão nos termos do art. 535 do CPC.
+3. A legislação especial admite a configuração de planos de saúde com cláusula de copartipação, inclusive para todos os procedimentos utilizados (art. 16, VIII, do CDC), desde que contratados de forma clara e expressa.
+4. A imposição de interpretação mais favorável ao consumidor, bem como o sistema de proteção contra abusividade não correspondem à proibição genérica de limitações dos direitos contratados.
+5. Atendido o direito de informação, mediante a redação de forma clara e expressa da cláusula limitativa, bem como mantido o equilíbrio das prestações e contraprestações, não há que se cogitar de abusividade.
+6. A redução dos custos assumidos pelas operadoras de plano de saúde, por meio da formatação de diversos contratos disponibilizados no mercado, resultam em contraprestações igualmente inferiores, devendo prevalecer a autonomia da vontade, mantendo-se o sinalagma contratual e protegendo-se as legítimas expectativas de ambos os contratantes.
+7. Recurso especial provido. (REsp 1.511.640/DF, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 02.06.2015, DJe 18.06.2015)
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. CLÁUSULA LIMITATIVA DE TEMPO PARA INTERNAÇÃO EM INSTITUIÇÃO PSIQUIÁTRICA. PERCENTUAL DE 50%. LEGALIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do STJ possui entendimento no sentido de não se considerar abusiva a cláusula de coparticipação, desde que em percentual que não torne inócuo o próprio objeto da contratação, entendendo razoável o percentual de 50% (cinquenta por cento), como no caso dos autos. Precedentes.
+2. Agravo interno a que se nega provimento. (AgInt no AREsp 1.158.023/RJ, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 20/03/2018, DJe 27/03/2018)
+AGRAVO INTERNO NO AGRAVO (ART. 1042 DO NCPC) - AÇÃO DE OBRIGAÇÃO DE FAZER - PLANO DE SAÚDE - INTERNAÇÃO PSIQUIÁTRICA EMERGENCIAL - NEGATIVA DE ATENDIMENTO - EXIGÊNCIA INDEVIDA DE CARÊNCIA - CLÁUSULA DE COPARTICIPAÇÃO - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA, DE PLANO, DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL AFASTANDO, APENAS, A NULIDADE DA CLÁUSULA QUE PREVÊ COPARTICIPAÇÃO APÓS O TRIGÉSIMO DIA DE INTERNAÇÃO. INSURGÊNCIA DO AUTOR.
+1. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que não é abusiva a cláusula de coparticipação contratada e informada ao consumidor, para a hipótese de internação psiquiátrica superior a 30 (trinta) dias, pois destinada à manutenção do equilíbrio entre as prestações e contraprestações referentes à gestão dos custos dos contratos de planos de saúde. Precedentes de ambas as Turmas de Direito Privado.
+2. Agravo interno desprovido. (AgInt no AREsp 1.017.280/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/10/2017, DJe 10/11/2017)
+Na hipótese, o Tribunal de origem considerou que a cláusula que estipulou o dever de coparticipação do usuário do plano de saúde não fora redigida com destaque, o que dificultou sua imediata e fácil compreensão.
+Assim, para suplantar tal cognição, revelar-se-ia imprescindível o reexame do teor da cláusula contratual e, consequentemente, do contexto fático-probatório dos autos, providências inviáveis no âmbito do julgamento do recurso especial, ante os óbices das Súmulas 5 e 7 do STJ.
+3. Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
