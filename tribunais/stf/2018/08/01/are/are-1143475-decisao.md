@@ -1,0 +1,27 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Banco da Amazônia S.A. contra acórdão que, proferido pelo E. Tribunal Superior do Trabalho, está assim ementado:
+    “(...)
+    ENGENHEIROS. SALÁRIO PROFISSIONAL. FIXAÇÃO DO VALOR INICIAL DA REMUNERAÇÃO COM BASE NA LEI 4.950-A/1966 SEM DETERMINAR REAJUSTE AUTOMÁTICO VINCULADO AO SALÁRIO MÍNIMO. POSSIBILIDADE. 1. O Tribunal Regional manteve a decisão de primeiro grau – mediante a qual deferido o pagamento de diferenças salariais decorrentes da aplicação aos substituídos do piso salarial previsto na Lei 4.950-A de 1966 – por entender que a fixação do valor inicial da remuneração em múltiplos do salário-mínimo não é obstaculizada pelo art. 7º, VI, da Constituição Federal. 2. Acerca do tema, o entendimento deste Tribunal, cristalizado na OJ 71 da SDI-II, é no sentido de que ‘a estipulação do salário profissional em múltiplos do salário mínimo não afronta o art. 7º, inciso IV, da Constituição Federal de 1988, só incorrendo em vulneração do referido preceito constitucional a fixação de correção automática do salário pelo reajuste do salário mínimo’. 3. Da leitura do verbete transcrito, conclui-se que não há óbice à fixação do salário inicial em múltiplos do salário mínimo. O que se busca é coibir é a correção automática do salário do empregado por ocasião do reajuste do salário mínimo, hipótese essa – diversa da presente – em que se estaria a afrontar o artigo 7º, inciso IV, da Lei Maior. 4. Decisão regional em harmonia com a OJ 71-SDI-II a atrair a aplicação da Súmula 333/TST.
+    Agravo de instrumento conhecido e não provido.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 5º, II, XXXIV, XXXV, LIV e LV, e 7º, IV, da Constituição da República.
+    O exame da presente causa evidencia que o recurso extraordinário  revela-se inviável.
+    Com efeito, o acórdão questionado em sede recursal extraordinária ajusta-se, com integral fidelidade, à orientação jurisprudencial que o Supremo Tribunal Federal firmou quanto à matéria ora em exame (ARE 922.319-AgR/DF, Rel. Min. EDSON FACHIN – ARE 927.217/DF, Rel. Min. CÁRMEN LÚCIA – ARE 931.952/GO, Rel. Min. LUIZ FUX – ARE 1.058.003/RS, Rel. Min. DIAS TOFFOLI, v.g.):
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito do Trabalho. 3. Lei 4.950-A/66. Súmula Vinculante 4 e ADPF 53-MC/PI. 4. Salário profissional da categoria fixado em múltiplos do salário mínimo. Não há vedação, desde que inexistam reajustes automáticos. Jurisprudência do Supremo Tribunal Federal. 5. Agravo regimental ao qual se nega provimento.”
+    (ARE 1.077.517-AgR/GO, Rel. Min. LUIZ FUX)
+    “DIREITO DO TRABALHO. SALÁRIO PROFISSIONAL. DIFERENÇA SALARIAL. LEI Nº 4.950-A/66. ESTIPULAÇÃO EM MÚLTIPLOS DE SALÁRIO MÍNIMO. AUSÊNCIA DE INDEXAÇÃO. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. ALEGAÇÃO DE OFENSA AO ART. 7º, IV, DA CONSTITUIÇÃO DA REPÚBLICA E À SÚMULA VINCULANTE Nº 4 DO STF. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA NO SUPREMO TRIBUNAL FEDERAL. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/1973.
+    1. O entendimento assinalado na decisão agravada não diverge da jurisprudência firmada no Supremo Tribunal Federal. Compreensão diversa demandaria a reelaboração da moldura fática delineada no acórdão de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário.
+    2. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa a preceito da Constituição da República.
+    3. Agravo regimental conhecido e não provido.”
+    (ARE 1.078.014/SE, Rel. Min. ROSA WEBER)
+    Vale referir, por expressivo desse entendimento, julgamento da colenda Primeira Turma do Supremo Tribunal Federal proferido na Rcl 9.951-AgR/MS, Rel. Min. EDSON FACHIN, que restou consubstanciado em acórdão assim ementado:
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO.  LEI 4.950-A/66. SALÁRIO FIXADO EM MÚLTIPLOS DO SALÁRIO MÍNIMO. SÚMULA VINCULANTE 4. ADPF 53 MC.
+    1. Não há vedação para a fixação de piso salarial em múltiplos do salário mínimo, desde que inexistam reajustes automáticos.
+    2. O ato reclamado, ao aplicar a OJ 71, da SBDI-2 do TST, não afrontou a Súmula Vinculante 4, nem a ADPF 53 MC.
+    3. Agravo regimental a que se nega provimento.” (grifei)
+    Vê-se, desse modo, que a pretensão recursal extraordinária não se revela acolhível.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, nego provimento ao recurso extraordinário, por achar-se este em confronto com entendimento firmado por esta Suprema Corte (CPC, art. 932, IV, “b”).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Assinalo, para efeito de mero registro, que fiquei vencido no julgamento ora mencionado, pois entendia que a ausência de contrarrazões recursais, por não implicar “trabalho adicional”, desautorizava a majoração da verba honorária.
+    Publique-se.
+    Brasília, 1º de agosto de 2018.
+Ministro CELSO DE MELLO
+Relator
