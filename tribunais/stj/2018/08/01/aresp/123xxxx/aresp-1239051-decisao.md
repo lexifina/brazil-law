@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) contra decisão que negou seguimento ao recurso especial por incidência da Súmula n. 7/STJ (e-STJ fls. 1.097/1.098).
+O acórdão recorrido está assim ementado (e-STJ fls. 1.010):
+CERCEAMENTO DE DEFESA - NÃO OCORRÊNCIA - DOCUMENTOS NOS AUTOS SUFICIENTES PARA JULGAMENTO - DESNECESSÁRIA PRODUÇÃO DE PROVA ORAL - PRELIMINAR REJEITADA AÇÃO ANULATÓRIA C.C. RESCISÃO CONTRATUAL E INDENIZAÇÃO POR PERDAS E DANOS - ALEGAÇÃO DE QUE FOI COAGIDA A ASSINAR ALTERAÇÃO TEMPORÁRIA DE CONTRATO ICE REPRESENTAÇÃO COMERCIAL - APELANTE QUE TEVE CONHECIMENTO PRÉVIO DA CONDIÇÃO OFERTADA - CLÁUSULAS CLARAS, INCLUSIVE NO TOCANTE A DIMINUIÇÃO NOS PERCENTUAIS - EXPRESSA CONCORDÂNCIA DA AUTORA -AUSÊNCIA DE COAÇÃO OU DOLO HONORÁRIOS DE ADVOGADO ARBITRADOS EM R$ 2.000,00 - MAJORAÇÃO PARA R$ 15.000,00, JÁ CONSIDERADOS OS HONORÁRIOS RECURSAIS PREQUESTIONAMENTO - DESNECESSIDADE DE MENÇÃO EXPRESSA DOS DISPOSITIVOS - SENTENÇA IMPROCEDENTE - NEGADO PROVIMENTO AO RECURSO DA AUTORA, DADO PROVIMENTO PARCIAL AO RECURSO DA SOCIEDADE DE ADVOGADOS QUE REPRESENTOU A RÉ.
+No especial (e-STJ fls. 1.019/1.030), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alegou, além de divergência jurisprudencial, ofensa ao art. 85, §2º, do CPC/2015, aduzindo a necessidade de observância do percentual mínimo de 10 % na fixação dos honorários advocatícios.
+No agravo (e-STJ fls. 1.101/1.108), afirma a presença de todos os requisitos de admissibilidade do especial.
+A recorrida não apresentou contraminuta (e-STJ fl. 1.114).
+É o relatório.
+Decido.
+Cuida-se, na origem, de ação anulatória e de rescisão, alegando a parte autora, em síntese, que firmou negócio jurídico com a ré, consistente em contrato de representação comercial, e que teria sido coagida para a realização de uma certa alteração contratual, sofrendo prejuízos. Requereu a procedência dos pedidos para anular o negócio jurídico indicado, declarar a rescisão e a condenação às verbas indenizatórias. Deu à causa o valor de R$ 407.184,08 (quatrocentos e sete mil, cento e oitenta e quatro reais e oito centavos).
+A demanda foi julgada improcedente, sendo fixados honorários advocatícios nos seguintes termos (e-STJ fl. 1.015):
+Nas causas em que ,não há condenação, a verba honorária pode ser fixada em percentual do valor da causa ou em montante fixo de acordo com a apreciação equitativa do juiz.
+Os honorários de advogado foram arbitrados em R$ 2.000,00. Trata-se de valor irrisório para remunerar o serviço prestado.
+Por outro lado, a majoração entre 10% e 20% sobre o valor da causa, que é de R$ 407.184,08, se mostra excessivo.
+Para o arbitramento, levando-se em conta o tempo decorrido desde o ajuizamento da ação, a média complexidade da causa e as duas interposições de recursos, razoável majorar os honorários advocaticios em R$ 15.000,00, já considerados os honorários para a fase recursal.
+A decisão recorrida está em confronto com recente precedente desta Corte, no sentido de que - não se tratando de processos envolvendo a Fazenda Pública ou demandas cujo proveito econômico for inestimável ou irrisório, ou, ainda, quando o valor da causa for muito baixo - devem ser respeitados os limites mínimo e máximo estabelecidos no art. 85, § 2º, do CPC/2015 para os honorários advocatícios sucumbenciais, ressalvadas as exceções previstas nos §§ 3º e 8º do mesmo dispositivo legal. A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. CONDENAÇÃO. AUSÊNCIA. APRECIAÇÃO EQUITATIVA. IMPOSSIBILIDADE. LIMITES PERCENTUAIS. OBSERVÂNCIA. RECURSO PROVIDO.
+1. Ressalvadas as exceções previstas nos §§ 3º e 8º do art. 85 do CPC/2015, na vigência da nova legislação processual o valor da verba honorária sucumbencial não pode ser arbitrado por apreciação equitativa ou fora dos limites percentuais fixados pelo § 2º do referido dispositivo legal.
+2. Segundo dispõe o § 6º do art. 85 do CPC/2015, " o s limites e critérios previstos nos §§ 2º e 3º  do mesmo art. 85  aplicam-se independentemente de qual seja o conteúdo da decisão, inclusive aos casos de improcedência ou de sentença sem resolução de mérito".
+3. No caso concreto, ante o julgamento de improcedência dos pedidos deduzidos em reconvenção, não se tratando de demanda de valor inestimável ou irrisório, faz-se impositiva a majoração da verba honorária, estipulada em quantia inferior a 10% (dez por cento) do valor atribuído à causa.
+4. Recurso especial provido.
+(REsp n. 1731617/SP, de minha relatoria, QUARTA TURMA, julgado em 17/4/2018, DJe 15/5/2018.)
+Em tais condições, com o decreto de improcedência dos pedidos formulados pela recorrida na demanda, faz-se impositivo que a verba honorária sucumbencial fixada em favor dos advogados da recorrente observe os limites mínimo e máximo estipulados em dispositivo legal vigente.
+Ante o exposto, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial para reformar em parte o acórdão recorrido, majorando os honorários advocatícios devidos pela recorrida ao patrono da recorrente para o equivalente a 10% (dez por cento) do valor da causa.
+Publique-se e intimem-se.
