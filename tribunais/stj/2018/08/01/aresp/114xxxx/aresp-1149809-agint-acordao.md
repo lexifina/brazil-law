@@ -1,0 +1,43 @@
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO. NOVO CPC. PRECEDENTE DA CORTE ESPECIAL.
+1. "Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada" (AgInt no AREsp 957.821/MS, Rel. Ministro RAUL ARAÚJO, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 20/11/2017, DJe 19/12/2017).
+2. Agravo interno a que se nega provimento.
+ACÓRDÃO
+ A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Antonio Carlos Ferreira (Presidente), Marco Buzzi, Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) e Luis Felipe Salomão votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto em face de decisão proferida pela Presidência desta Corte, às fls. 402-403, que não conheceu do agravo em recurso especial, nos seguintes termos:
+Mediante análise aos autos, verifica-se que a parte Recorrente foi intimada do acórdão recorrido em 16/12/2016, sendo o recurso especial interposto somente em 10/2/2017.
+Dessa forma, o recurso é manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c.c. os arts. 1.003, § 5.º,1.029, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6.º do art. 1.003 do mesmo diploma legal, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso o que impossibilita a regularização posterior.
+Veja-se que a segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem a sexta-feira da paixão e, também, o dia de Corpus Christi, não são feriados forenses, previstos em lei federal, para os tribunais de justiça estaduais. Caso essas datas sejam feriados locais deve ser colacionado o ato normativo local com essa previsão, por meio de documento idôneo, no momento de interposição do recurso.
+Veja-se que a segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem a sexta-feira da paixão e, também, o dia de Corpus Chrísti, não são feriados forenses, previstos em lei federal, para os tribunais de justiça estaduais. Caso essas datas sejam feriados locais deve ser colacionado o ato normativo local com essa previsão, por meio de documento idôneo, no momento de interposição do recurso.
+Havendo previa fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, cm desfavor da parte recorrente, no importe de 15 % do valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º c 3.º do referido dispositivo legal, ressalvada a eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21 -E, V, do Regimento Interno do Superior Tribunal de Justiça, NÃO CONHEÇO do recurso.
+Nos embargos de declaração opostos às fls. 406-425 (e-STJ), a parte agravante sustentou, em síntese, omissão na referida decisão, uma vez que é "possível a comprovação posterior" do feriado local.
+Os embargos foram rejeitados, uma vez que a Presidência do STJ não verificou, em sua análise, obscuridade, contradição omissão ou erro material. (e-STJ, fl. 729).
+No agravo interno, a parte agravante reedita as razões expostas nos embargos de declaração, sustentando que o recurso foi interposto de forma tempestiva, sendo legítima a possibilidade de comprovação posterior de feriado local ou de suspensão de expediente forense no Tribunal de origem.
+CREFISA S/A CREDITO, FINANCIAMENTO E INVESTIMENTOS, regularmente intimada, pugnou pela rejeição do recurso.
+É o relatório.
+
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Inicialmente, cumpre transcrever a ementa do acórdão proferido pela Décima Segunda Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul, à fl. 316:
+APELAÇÃO CÍVEL NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL COM PEDIDO DE SUSPENSÃO DOS DESCONTOS EM FOLHA. CONTRATO DE EMPRÉSTIMO PESSOAL. PAGAMENTO DAS PARCELAS MEDIANTE DÉBITO EM CONTA CORRENTE. CONHECIMENTO PARCIAL DO RECURSO. Por se tratar de flagrante tentativa de inovação recursal, não se conhece da apelação em relação ao pedido de reconhecimento da impenhorabilidade dos valores percebidos a título de benefício previdenciário.
+LIMITAÇÃO DOS DESCONTOS. Os pagamentos de empréstimos, seja por consignação em folha de pagamento ou por débito em conta corrente, devem ser limitados a 30% do valor bruto auferido pelo titular do benefício previdenciário. Inteligência da Lei n. 10.820/2003. Precedentes. Percentual máximo extrapolado no caso concreto, que deve ser limitado.
+REPETIÇÃO DE INDÉBITO. Hipótese em que, além de além de não se tratar de quantia indevida pela autora, o que, por si só, já afasta a aplicabilidade do artigo 42, parágrafo único, do Código de Defesa do Consumidor ao caso em liça, não consta dos autos nenhum elemento dando conta da existência de má-fé na realização dos descontos e no recebimento dos valores respectivos pelo Banco demandado.
+DANOS EXTRAPATRIMONIAIS. Considerando que os documentos carreados aos autos revelam que a demandante contraiu o empréstimo pessoal impugnado na inicial, firmando autorização para a realização dos descontos em sua conta corrente - tendo conhecimento, portanto, tanto do valor percebido mensalmente como beneficiária previdenciária, como do montante de cada parcela contratada, de modo que poderia precisar o impacto em suas finanças pessoais não restam caracterizados os alegados danos morais sofridos em decorrência dos descontos realizados em percentual superior a 30% do seu rendimento mensal bruto.
+APELAÇÃO CONHECIDA E PROVIDA EM PARTE.
+ Observo que os argumentos desenvolvidos pela parte agravante não são suficientes para infirmar a conclusão da decisão impugnada, razão pela qual o presente recurso não merece prosperar.
+Conforme recente precedente desta Corte Especial, firmado por ocasião do julgamento do AgInt no AREsp 957821/MS, sob a relatoria para o acórdão da Ministra Nancy Andrighi, ficou sedimentado que, "seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada."
+Nesse contexto, a jurisprudência firmada sob a vigência do antigo Código processual não é aplicável ao caso, uma vez que o acórdão recorrido foi publicado já sob a égide do CPC/15.
+Assim, é incabível a comprovação da tempestividade do recurso em debate nos autos da petição do agravo interno.
+Confiram abaixo a ementa do mencionado julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo".
+4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido.
+(AgInt no AREsp 957.821/MS, Rel. Ministro RAUL ARAÚJO, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 20/11/2017, DJe 19/12/2017)
+Em face do exposto, nego provimento ao agravo interno.
+É o voto.
