@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544) interposto contra decisão da Presidência do TJRJ que inadmitiu o recurso especial, por considerá-lo deserto, ante a falta de apresentação das guias comprobatórias do recolhimento do preparo (e-STJ fls. 226 e 235/237).
+Em suas razões (e-STJ fls. 252/254), a agravante sustenta que os requisitos do recurso especial estariam preenchidos e que, por isso, o recurso deveria ser conhecido. Alega que a serventia do TJRJ não teria juntado aos autos a certidão identificando que haveria custas a serem supridas, não sendo dada publicidade ao ato. Assim, seria indevido decretar a deserção do recurso.
+Afirma não existir deserção, por ter recolhido o preparo ao interpor o recurso. Assim, ante a necessidade de complementar as custas, seria necessário dar publicidade à decisão determinando a regularização do feito.
+Assevera que, "sem a publicidade concedida pela 3ª Vice-Presidência do TJRJ, foi feito pela ora Agravante sem, no entanto, estar o processo na ordem normal, daí o pedido de chamamento do feito à ordem em sede Regional, porque se criou uma confusão processual a ponto de ter sido formulado pedido de FUNGIBILIDADE do Recurso de Agravo Regimental em Agravo nos Próprios Autos" (e-STJ fl. 253).
+Ao final, reitera as razões do recurso especial e pugna pelo conhecimento e provimento do recurso.
+Não foi apresentada contraminuta (e-STJ fls. 257/263).
+É o relatório.
+Decido.
+O recurso especial e o agravo foram interpostos com fundamento no Código de Processo Civil de 1973, por isso devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Para a compreensão da controvérsia contida no agravo nos próprios autos em fls. 252/254 (e-STJ), é necessário relatar o trâmite do feito.
+O TJRJ não conheceu do recurso especial (e-STJ fls. 217/219), protocolizado em 27/9/2013, ao assentar que a recorrente, no ato de sua interposição, não comprovou o recolhimento do preparo (e-STJ fl. 226).
+Em fl. 221 (e-STJ), a recorrente apresentou a GRU n. 18832-8, no valor de R$ 131,87 (cento e trinte e um reais e oitenta e sete centavos), paga em 27/9/2013.
+Em seguida, foi apresentada pela recorrente em fl. 232 (e-STJ) a GRU n. 10825-1, no valor de R$ 32,00 (trinta e dois reais), na data de 18/11/2013, seguida de petição de embargos de declaração (e-STJ fl. 233) opostos contra a decisão de fl. 226 (e-STJ), no qual a recorrente afirmou que a certidão de autuação não teria sido publicada e que, por isso, o recurso não teria sido conhecido.
+Requereu o chamamento do feito à ordem, a fim de que a petição apresentada em 18/11/2013 com as custas da GRU suprisse o teor da certidão de autuação em fl. 216 (e-STJ).
+A Presidência do TJRJ, em nova decisão de admissibilidade (e-STJ fls. 235/237), reiterou, com fundamento no art. 511 do CPC/1973, o não conhecimento do especial, assentando que, no caso, não se estava diante de preparo insuficiente - a demandar intimação para complementar as custas -, mas de deficiente comprovação do preparo, por não ter sido apresentada uma das Guias de Recolhimento da União - GRU, de código n. 10825-1.
+Contra a decisão foi interposto, em 16/12/2015, agravo regimental (e-STJ fl. 241), que não foi conhecido pelo TJRJ, por não se amoldar às hipóteses de cabimento de tal espécie de recurso, segundo previsão do Regimento Interno do TJRJ (e-STJ fls. 243/244).
+Mais uma vez, a agravante irresignada opôs embargos de declaração com efeitos infringentes (e-STJ fl. 246), postulando a aplicação do princípio da fungibilidade, a fim de que o agravo regimental fosse recebido como agravo nos próprios autos, previsto no art. 544 do CPC/1973.
+A Corte local, em decisão de fls. 248/249 (e-STJ), rejeitou os aclaratórios, assentando a impossibilidade de aplicar a fungibilidade recursal requerida, ante a inexistência de dúvida quanto ao recurso cabível à espécie.
+Contra a decisão, a recorrente apresentou o agravo nos próprios autos (e-STJ fls. 252/254), ora em exame, no qual afirma, em síntese, não existir deserção, por ter efetuado o preparo ao interpor o recurso e que, ante a necessidade de complementar as custas, seria necessário dar publicidade à decisão determinando a regularização do feito.
+Alega que, "sem a publicidade concedida pela 3ª Vice-Presidência do TJRJ, foi feito pela ora Agravante sem, no entanto, estar o processo na ordem normal, daí o pedido de chamamento do feito à ordem em sede Regional, porque se criou uma confusão processual a ponto de ter sido formulado pedido de FUNGIBILIDADE do Recurso de Agravo Regimental em Agravo nos Próprios Autos" (e-STJ fl. 253).
+É pacífico na jurisprudência da Segunda Seção do STJ, sedimentada na vigência do CPC/1973, ser manifestamente incabível a interposição de agravo regimental contra a decisão que inadmite o especial e que a oferta de tal recurso não suspende nem interrompe o prazo para a propositura do agravo previsto no art. 544 do CPC/1973, via adequada para questionar o juízo de inadmissibilidade do especial. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO DE AGRAVO REGIMENTAL CONTRA DECISÃO QUE INADMITIU RECURSO ESPECIAL. INCABÍVEL. NÃO INTERRUPÇÃO DO PRAZO. AGRAVO EM RECURSO ESPECIAL INTEMPESTIVO. INTERPOSTO FORA DO PRAZO LEGAL. 10 (DEZ) DIAS, PREVISTO NO ART. 544 DO CÓDIGO DE PROCESSO CIVIL. INTEMPESTIVIDADE VERIFICADA. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+(AgInt no AREsp n. 875.048/MG, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 13/12/2016, DJe 3/2/2017.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. PEDIDO DE RECONSIDERAÇÃO. NÃO INTERRUPÇÃO DO PRAZO PARA INTERPOSIÇÃO DO AGRAVO DO ART. 544 DO CPC. INTEMPESTIVIDADE. AGRAVO NÃO PROVIDO.
+1. É entendimento desta Corte Superior que o agravo é o único recurso cabível contra decisão que nega seguimento a recursos excepcionais.
+2. Consoante a jurisprudência sedimentada nesta Corte, o pedido de reconsideração nem interrompe nem suspende o prazo para a interposição do recurso cabível.
+3. É intempestivo o agravo em recurso especial interposto fora do prazo legal de 10 dias previsto no art. 544 do Código de Processo Civil.
+4. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no AREsp n. 638.013/RJ, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 6/10/2015, DJe 27/10/2015.)
+Ainda nessa linha: EDcl no AREsp n. 132.865/SC, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 25/9/2012, DJe 2/10/2012 e AgInt no AREsp n. 929.737/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 7/2/2017, DJe 16/2/2017.
+No caso em exame, constata-se que a agravante protocolou, em 16/12/2013, agravo regimental (e-STJ fl. 241) e, em seguida, em 24/3/2014, agravo nos próprios autos, previsto no art. 544 do CPC/1973 (e-STJ fls. 252/254), contra a decisão que, rejeitando a tese de fungibilidade recursal, inadmitiu o recurso.
+Em tais condições, segundo o entendimento firmado pelo STJ à luz do CPC/1973, conclui-se que o recurso não pode ser conhecido.
+Ademais, esclarece-se que a interposição de 2 (dois) recursos contra a mesma decisão pela recorrente é vedada, ante a ocorrência de preclusão, segundo o princípio da unirrecorribilidade recursal, visto que, segundo assente na jurisprudência do STJ, "o processo sempre segue uma marcha tendente a um fim. Por isso, nele não cabem dois recursos de mesma natureza contra uma mesma decisão, conforme o princípio da unirrecorribilidade" (AgInt no AREsp n. 1.221.972/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 17/4/2018, DJe 24/4/2018).
+No mesmo sentido:
+AGRAVO INTERNO. DOIS RECURSOS INTERPOSTOS CONTRA A MESMA DECISÃO. PRECLUSÃO. UNIRRECORRIBILIDADE. INTEMPESTIVIDADE DO RECURSO. SUSPENSÃO DOS PRAZOS PROCESSUAIS. NÃO COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO. ART. 1003, § 6º, CPC/2015. RECURSO NÃO PROVIDO.
+1 Revela-se defeso a interposição simultânea de dois recursos pela mesma parte contra o mesmo ato judicial, ante o princípio da unirrecorribilidade recursal.
+(..)
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.193.507/MG, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/5/2018, DJe 18/5/2018.)
+Assim sendo, a preclusão consumativa verificada devido ao protocolo do agravo regimental contra a decisão que inadmitiu o recurso especial, antes do agravo do art. 544 do CPC/1973, torna inviável o conhecimento do segundo recurso.
+Ante o exposto, NÃO CONHEÇO do agravo.
+Publique-se e intimem-se.
