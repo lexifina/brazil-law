@@ -1,0 +1,27 @@
+DECISÃO: O presente recurso extraordinário foi interposto pela União contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 4ª Região, está assim ementado:
+    “ADMINISTRATIVO. DESDOBRAMENTO DE CONHECIMENTO DE CARGA. DIREITO ANTIDUMPING. POSSIBILIDADE. PERDIMENTO DE BENS. ABANDONO DE PRODUTOS ORIUNDOS DO EXTERIOR. NÃO VERIFICAÇÃO. DISCUSSÃO JUDICIAL DE ENCARGOS.
+    1. Inexiste qualquer óbice ao desdobramento de Conhecimento de Carga, a fim de segregar os produtos que se submetem ao direito antidumping (sujeitando-se, por isso, à sobretaxa na Declaração de Importação) daqueles que a ele não se sujeitam, em homenagem aos princípios da legalidade (em sentido amplo) e do devido processo legal (artigo 5º, II e LIV, da CRFB).
+    2. Não se afigura razoável a aplicação da pena de perdimento por abandono de carga quando a manutenção do produto oriundo do exterior em posto alfandegário se dá por discussão judicial relativa aos encargos incidentes sobre a Declaração de Importação, sob pena de indevida mitigação política do princípio da acessibilidade (artigo 5º, XXXV, CRFB).
+    3. Apelação e remessa oficial improvidas.”
+    A parte recorrente, ao deduzir o apelo extremo, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 237 da Constituição Federal.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento.
+    Cumpre ressaltar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão ora impugnado, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Decreto-lei nº 1.455/76, Resolução CAMEX nº 53/2009 e Instrução Normativa SRF nº 680/2006), o que torna incognoscível o apelo extremo.
+    Cabe registrar, de outro lado, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido pela ora recorrente, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do recurso extraordinário, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em interpretação de dispositivos meramente legais e em aspectos fático-probatórios:
+    “A discussão travada no ‘mandamus’ diz respeito, sequencialmente, (a) à incidência do direito ‘antidumping’ sobre ‘seringas descartáveis para insulina’; (b) à possibilidade de desdobramento de conhecimento de carga e (c) à viabilidade do afastamento da pena de perdimento.
+    Quanto ao primeiro ponto, a questão não comporta maiores digressões, uma vez que o artigo 1º, parágrafo único, da Resolução n. 53, de 17 de setembro de 2009, da CAMEX é expressa ao afastar o regramento ’antidumping’ sobre ‘Seringas Descartáveis de Insulina’, ‘in verbis’:
+    …...................................................................................................
+    Como a impetrante/apelada comprovou que, junto ao material apreendido existem ‘Seringas Descartáveis de Insulina’, sobre elas não há que se falar em incidência do direito ‘antidumping’.
+    …...................................................................................................
+    Ademais, a Instrução Normativa n. 680/2006 da Secretaria da Receita Federal, em seu artigo 67, parágrafo único, permite o desmembramento do conhecimento de carga em situações justificadas (como a ora em apreço), nos seguintes termos:
+    …...................................................................................................
+    Por fim, quanto à possibilidade (ou não) de aplicação da pena de perdimento sobre os produtos retidos junto às autoridades alfandegárias, tenho por inaplicáveis as disposições do artigo 27 do Decreto-Lei n. 1.455/1976 (perdimento de mercadoria abandonada em recinto alfandegário), uma vez que a permanência dos produtos hospitalares oriundos da China (importação efetuada em nome da impetrante/apelada) em posto da Receita Federal do Brasil se deu exatamente porque a pessoa jurídica destinatária estava discutindo em juízo à tributação respectiva e a viabilidade de liberação dos produtos sem pagamento de sobretaxa na Declaração de Importação.”
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 1º de agosto de 2018.
+Ministro CELSO DE MELLO
+Relator
