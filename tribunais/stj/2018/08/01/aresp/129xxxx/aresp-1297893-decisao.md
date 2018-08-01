@@ -1,0 +1,32 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+SEGURO SAÚDE. Ação indenizatória. Autor portador de tumor na laringe. Necessidade de realização de sessões de radioterapia e quimioterapia no Hospital das Clínicas.
+Alegação de que não houve negativa de custeio. Fato comprovado nos autos. Deferimento da internação do autor em caráter emergencial e realização de cirurgia no próprio Hospital das Clínicas. Legitima expectativa do autor de que seu tratamento quimioterápico e radioterápico também seria custeado. Infringência ao princípio da boa-fé objetiva (art. 422 do CC). Caracterização de comportamento contraditório da ré (venire contra factum proprium). Dano moral in re ipsa.
+Indenização mantida em R$ 10.000,00, em consonância com os critérios legais e com os princípios da proporcionalidade e da razoabilidade. RECURSO DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 186, 927, 944 e 422 do CC. Sustenta que não praticou ato ilícito, pois agiu pautada no contrato. Além disso, entende que o valor indenizatório é exorbitante.
+Decido.
+2. O Tribunal de origem, diante das provas produzidas nos autos, concluiu que houve dano moral indenizável. A propósito, confira o seguinte trecho do acórdão recorrido:
+Portanto, inverídica a afirmação de que o custeio da quimioterapia e radioterapia foi deferido de forma espontânea e tempestiva. Os documentos de fls. 59/63 destes autos e os de fls. 77/82 e 116/132 do apenso são posteriores à ordem judicial deferida na ação cautelar em 23/05/2014. Outra peculiaridade do caso chama a atenção. Conforme os documentos de fls. 73/76 da cautelar, tanto a internação do autor em caráter emergencial no Hospital das Clínicas, como a realização do procedimento cirúrgico de "NASOFIBROLARINGOSCOPIA PARA DIAGNÓSTICO E/OU BIÓPSIA" - e não as sessões de quimioterapia e radioterapia, como quer fazer crer a ré - foram autorizados pelo plano de saúde em 15/04/2014 e 16/05/2014, respectivamente, em face do quadro de neoplasia maligna de esôfago do autor.
+Portanto, ao assim agir a ré gerou a legítima expectativa o para o autor de que seu tratamento anticancerígeno naquele hospital seria o integralmente autorizado e custeado. Consequentemente, a conduta da ré infringe o o o princípio da boa-fé objetiva albergado no artigo 422 do Código Civil, caracterizando inaceitável comportamento contraditório da contratada (venire contra factum proprium), sendo irrelevante o fato de existir na rede credenciada outros hospitais ou clínicas aptas para a realização do tratamento oncológico.
+(..)
+Assim, por qualquer ângulo que se examine o litígio a negativa de cobertura por parte do plano de saúde réu caracteriza ilícito contratual.
+Nesse contexto, o acolhimento da pretensão recursal exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+Merece destaque, sobre o tema:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. ART. 1.022/CPC. VIOLAÇÃO. NÃO OCORRÊNCIA. PLANO DE SAÚDE. COBERTURA. TRATAMENTO. NEGATIVA INDEVIDA. DANO MORAL. VALOR. CERCEAMENTO DE DEFESA. REEXAME. SÚMULA N. 7/STJ. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla e fundamentada, apenas que contrariamente ao pretendido pela parte, deve ser afastada a alegada violação ao art. 1.022 do Código de Processo Civil/2015.
+2. O contrato de plano de saúde pode limitar as doenças a serem cobertas não lhe sendo permitido, ao contrário, delimitar os procedimentos, exames e técnicas necessárias ao tratamento da enfermidade constante da cobertura.
+3. Não configura cerceamento de defesa o julgamento antecipado da lide quando o juízo embasa sua convicção em prova suficiente para fundamentar as deduções expostas na sentença.
+4. Consoante entendimento pacificado no âmbito desta Corte, o valor da indenização por danos morais só pode ser alterado na instância especial quando manifestamente ínfimo ou exagerado, o que não se verifica na hipótese dos autos.
+5. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1164672/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/06/2018, DJe 15/06/2018)
+3. É pacífico nesta Corte que, em sede de recurso especial, a revisão da indenização por dano moral apenas é possível quando o quantum arbitrado nas instâncias originárias se revelar irrisório ou exorbitante. Não estando configurada uma dessas hipóteses, não cabe examinar a justiça do valor fixado na indenização, uma vez que tal análise demanda incursão à seara fático-probatória dos autos, atraindo a incidência da Súmula 7/STJ. Precedentes: REsp 686050/RJ, 1ª Turma, Min. Luiz Fux, DJ de 27.06.2005; AgRg no Ag 605927/BA, Min. Denise Arruda, DJ de 04.04.2005; REsp 734.741/MG, Min. Teori Albino Zavascki, DJ de 27.03.2006.
+Na espécie, a quantia fixada pelo Tribunal de origem, qual seja, R$ 10.000,00 (dez mil reais) encontra-se em consonância com os precedentes desta Corte, não ensejando a sua majoração em sede de recurso especial. A propósito:
+PROCESSO CIVIL. AGRAVO INTERNO. PLANO DE SAÚDE. NEGATIVA DE COBERTURA INDEVIDA. DANOS MORAIS. OCORRÊNCIA. REVISÃO DO VALOR. IMPOSSIBILIDADE. TESE DO RECURSO ESPECIAL QUE DEMANDA REEXAME DE CONTEXTO FÁTICO E PROBATÓRIO DOS AUTOS. SÚMULA Nº 7/STJ. 1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado.
+Hipótese, todavia, em que o valor foi estabelecido na instância ordinária, atendendo às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e razoabilidade.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1144184/MA, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 03/05/2018, DJe 08/05/2018)
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
