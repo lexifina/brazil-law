@@ -1,0 +1,23 @@
+EMENTA
+RECURSO EXTRAORDINÁRIO INTERPOSTO CONTRA ACÓRDÃO DO TRF PERANTE O SUPERIOR TRIBUNAL DE JUSTIÇA. ERRO GROSSEIRO. IMPOSSIBILIDADE. RECURSO NÃO CONHECIDO.
+DECISÃO
+Vistos.
+Cuida-se de recurso extraordinário interposto por RONEY LOPES, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal Regional Federal da 3ª Região.
+Preliminarmente, a parte recorrente alega a existência de prequestionamento. No mérito, sustenta a ocorrência de contrariedade ao disposto no art. "93, IX, da Constituição Federal de 1988; das Súmulas 279 e 283, do STF e 07, do STJ, bem como dos artigos 101, III da Constituição Federal de 1946, 7º, da Lei nº 3.396/1958 e 190, § 1º, "a" e 193, do Regimento Interno do Supremo Tribunal Federal de 1940; cabimento excepcional pela alínea a, do inciso III, do artigo 102, da Constituição Federal" (fl. 4, e-STJ).
+Sem contrarrazões.
+É, no essencial, o relatório.
+Não conheço do presente recurso.
+Nos termos do art. 1.029, do CPC, cabe à presidência do Tribunal de origem o recebimento e o processamento de recurso especial ou recurso extraordinário a ser, após vista à parte contrária, encaminhado ou não ao Superior Tribunal de Justiça ou ao Supremo Tribunal Federal, a depender do juízo de admissibilidade, razão pela qual a interposição de recurso contra acórdão do TRF da 3ª Região diretamente neste Sodalício implica seu não conhecimento.
+A propósito:
+"AGRAVO REGIMENTAL. PETIÇÃO CONFUSA. AFIRMAÇÕES DESCONEXAS. SUM. 284/STF. RECURSO ESPECIAL INTERPOSTO PERANTE O SUPERIOR TRIBUNAL DE JUSTIÇA. IMPOSSIBILIDADE. NÃO CONHECIMENTO.
+1. As razões apresentadas no presente agravo regimental, em confusa petição, apresentam-se desconexas e dissociadas do que foi decidido na decisão monocrática, circunstância que caracteriza deficiência na fundamentação e atrai, por analogia, o óbice da Súmula 284 do eg. Supremo Tribunal Federal. 2. Recurso especial interposto diretamente no Superior Tribunal de Justiça, quando correta seria a apresentação do reclamo à Presidência do Tribunal de origem.
+3. Agravo regimental não conhecido." (AgRg no REsp 1.731.348/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/5/2018, DJe 25/5/2018.)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PETIÇÃO PROTOCOLADA DIRETAMENTE NESTA CORTE. INOBSERVÂNCIA DO ART. 26, DA LEI N. 8.038/1990. ERRO INESCUSÁVEL.
+I - A protocolização do Recurso Especial diretamente nesta Corte, sem a observância do comando previsto no art. 26, da Lei n. 8.038/1990, constitui erro inescusável.
+II - A decisão agravada não merece reparos, porquanto proferida em consonância com a jurisprudência desta Corte Superior.
+III - Agravo Regimental improvido." (AgRg no REsp 1.423.673/AM, Rel. Ministra REGINA HELENA COSTA, QUINTA TURMA, julgado em 8/5/2014, DJe 14/5/2014.)
+No mesmo sentido é a jurisprudência do Supremo Tribunal Federal:
+"AGRAVO REGIMENTAL NA PETIÇÃO. AGRAVO DE INSTRUMENTO EM RECURSO EXTRAORDINÁRIO INTERPOSTO DIRETAMENTE NO SUPREMO TRIBUNAL FEDERAL. ERRO GROSSEIRO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE. AUSÊNCIA DE ARGUMENTOS OU FATOS NOVOS CAPAZES DE INFIRMAR A DECISÃO RECORRIDA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO." (Pet 73.74 AgR, Relator Min. CÁRMEN LÚCIA (Presidente), Tribunal Pleno, julgado em 16/3/2018, PROCESSO ELETRÔNICO DJe-074 DIVULG 17/4/2018 PUBLIC 18/4/2018.)
+"EMBARGOS DECLARATÓRIOS CONVERTIDOS EM AGRAVO REGIMENTAL. AGRAVO CONTRA DECISÃO QUE INADMITIU RECURSO EXTRAORDINÁRIO INTERPOSTO DIRETAMENTE NO SUPREMO TRIBUNAL FEDERAL: IMPOSSIBILIDADE. ERRO GROSSEIRO. AGRAVO INTEMPESTIVO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. I - Os embargos de declaração recebidos como agravo regimental, uma vez que opostos de decisão monocrática. II - A agravante manejou o agravo disposto no art. 544 do CPC, o que é inadmissível, pois contra decisão monocrática do Presidente do Supremo Tribunal Federal cabe agravo regimental, no prazo de cinco dias (art. 317, caput, do RISTF). III - Inviável a conversão de agravo (art. 544, caput, do CPC), interposto contra a inadmissão de recurso extraordinário, em agravo regimental, pois a orientação jurisprudencial desta Suprema Corte é assente no sentido da impossibilidade de aplicação do princípio da fungibilidade quando a parte incorre em erro grosseiro. IV - Agravo regimental ao qual se nega provimento." (Pet 5.707 AgR-ED, Relator Min. RICARDO LEWANDOWSKI (Presidente), Tribunal Pleno, julgado em 3/3/2016, PROCESSO ELETRÔNICO DJe-049 DIVULG 15/3/2016 PUBLIC 16/3/2016.)
+Ante o exposto, não conheço do recurso extraordinário.
+Publique-se. Intimem-se.
