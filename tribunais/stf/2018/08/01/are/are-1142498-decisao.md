@@ -1,0 +1,28 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Matheus Phillipe Alves Hipólito contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado de Minas Gerais, está assim ementado:
+    “APELAÇÃO CRIMINAL. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. ABSOLVIÇÃO. IMPOSSIBILIDADE. TIPICIDADE CONFIGURADA. CRIME DE MERA CONDUTA. DESNECESSIDADE DE RESULTADO NATURALÍSTICO. MODIFICAÇÃO DO REGIME PRISIONAL PARA O ABERTO. IMPOSSIBILIDADE. RÉU REINCIDENTE. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE. RÉU REINCIDENTE. REQUISITOS LEGAIS NÃO PREENCHIDOS. ISENÇÃO DAS CUSTAS PROCESSUAIS. INVIABILIDADE. HIPOSSUFICIÊNCIA NÃO COMPROVADA. RESTITUIÇÃO DE VEÍCULO APREENDIDO. INVIABILIDADE. AUSÊNCIA DE PROVA ACERCA DA PROPRIEDADE DO VEÍCULO. RECURSO NÃO PROVIDO.
+    – Ainda que a arma estivesse desmuniciada tal fato não tornaria a conduta atípica, pois em se tratando de crime de mera conduta, não se exige qualquer resultado naturalístico para a sua configuração.
+    – Sendo o acusado reincidente o regime prisional mais brando possível é o semiaberto. Inteligência da Súmula 269/STJ.
+    – Inviável a substituição da pena privativa de liberdade por restritiva de direitos, uma vez que não preenchidos os requisitos legais.
+    – Tendo o apelante sido assistido por defensor constituído e não tendo colacionado aos autos declaração de hipossuficiência financeira, deve ser mantida a sua condenação nas custas processuais.
+    – Não havendo provas de ser o réu proprietário do bem apreendido, não é possível a sua restituição.
+    – Recurso não provido.”
+    A parte ora agravante sustenta, no apelo extremo em questão, que o Tribunal “a quo” teria transgredido os preceitos inscritos no art. 5º, II e XXXIX, da Constituição da República.
+    Passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento.
+    Cabe registrar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional, circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    Cumpre assinalar, de outro lado, que não se revela cabível proceder, em sede recursal extraordinária, a indagações de caráter eminentemente probatório, especialmente quando se busca discutir elementos fáticos subjacentes à causa penal.
+    No caso, a verificação da procedência, ou não, das alegações deduzidas pela parte recorrente implicará necessário reexame de fatos e de provas, o que não se admite na sede excepcional do apelo extremo.
+    Essa pretensão sofre as restrições inerentes ao recurso extraordinário, em cujo âmbito não se reexaminam fatos e provas, circunstância essa que faz incidir, na espécie, a Súmula 279 do Supremo Tribunal Federal.
+    Não custa enfatizar, consoante adverte o magistério da doutrina (ADA PELLEGRINI GRINOVER, ANTONIO MAGALHÃES GOMES FILHO e ANTONIO SCARANCE FERNANDES, “Recursos no Processo Penal”, p. 269/270, item n. 176, 1996, RT), que o reexame dos fatos e das provas constitui tema estranho ao âmbito de atuação do recurso extraordinário (Súmula 279/STF), ainda que se cuide, como no caso, de matéria de índole penal.
+    A mera análise do acórdão recorrido demonstra que o E. Tribunal de Justiça do Estado de Minas Gerais, no julgamento da apelação, sustentou as suas conclusões em dispositivos de ordem meramente legal e em aspectos fático-probatórios:
+    “No que tange ao pedido de absolvição por atipicidade da conduta, razão não assiste à defesa.
+    A posse ou porte ilegal de arma de fogo de uso restrito (art. 16, da Lei nº 10.826/03) é crime de mera conduta, ou seja, consuma-se com a simples realização dos elementos contidos no tipo penal objetivo, pouco importando a intenção do agente com aquele comportamento.
+    Ademais, o policial Wanderson José da Silva foi enfático em declarar que a arma foi encontrada municiada. Vejamos:
+    ‘(...) que o depoente e a policial Naira encontraram a arma; que a arma estava em bom estado de conservação, e estava municiada e, segundo se recorda, tinha um estojo deflagrado; que aparentemente a arma não tinha nenhum defeito; que um estojo estava dentro da arma, mas aparentemente ela funcionada. Que o estojo foi retirado facilmente; (...)’ (fl. 175).
+    Por sua vez, o laudo de eficiência e prestabilidade (fl. 195/197) também concluiu que: ‘Com a arma em questão, que apresentava vicissitudes, que prejudicavam a sequência normal de funcionamento, foram efetuados disparos e verificou-se que podia ser utilizada e vir a ofender a integridade física de alguém.’”
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo pela parte recorrente revela-se processualmente inviável.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Publique-se.
+    Brasília, 1º de agosto de 2018.
+Ministro CELSO DE MELLO
+Relator
