@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu o recurso especial, interposto com fulcro no art. 105, III, alínea "a", da Constituição Federal - CF.
+Consta dos autos que o agravante foi condenado pela prática dos delitos tipificados no art. 303 e no art. 306, caput, ambos da Lei n. 9.503/97 - Código de Trânsito Brasileiro - CTB, à pena de 2 anos e 4 meses de detenção, em regime aberto, 10 dias-multa e suspensão da habilitação para dirigir por 6 meses (fls. 140/141).
+A Defesa interpôs recurso de apelação que foi desprovido. O acórdão ficou assim ementado:
+Apelação. Crimes de lesão corporal culposa na condução de veículo automotor, e embriaguez ao volante. Absolvição por insuficiência de provas. Impossibilidade. Materialidade e autoria demonstradas. Redução da pena. Inviabilidade. Não provimento ao recurso (fl. 185).
+Em sede de recurso especial, a defesa alegou violação ao artigo 59 do CP, porquanto não teria havido justificativa idônea para a exasperação da pena-base. Destacou a utilização de elementos inerentes ao tipo penal e de inexistência de dano, pois não realizado laudo pericial. Requereu o provimento do recurso especial com retorno da pena-base ao mínimo legal.
+Contrarrazões (fls. 210/216).
+A r. decisão agravada não admitiu o recurso especial haja vista: a) ausência de prequestionamento, conforme Súmula 211/STJ; e b) óbice do revolvimento fático-probatório, conforme Súmula 7/STJ (fls. 226/227).
+Em agravo em recurso especial, a defesa destaca que o recurso especial possui a fundamentação necessária e que não pretende o reexame de provas.
+Contraminuta (fls. 247/252).
+O Ministério Público Federal opinou pelo desprovimento do agravo em recurso especial (fls. 279/285).
+É o relatório. Decido.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Sobre a violação ao art. 59 do CP, o Tribunal de origem manteve a pena, nos seguintes termos:
+Quanto à sanção penal, não há que se falar em excesso na primeira etapa de quantificação da pena, pois foi ele corretamente aplicada, atendendo às diretrizes do artigo 59 do Código Penal.
+Ademais, o Juiz prolator da sentença não está adstrito ao apenamento mínimo como regra. Ao contrário, pode escolher entre o minimo e o máximo da pena cominada, de acordo com as circunstâncias de cada situação, e aqui há de se convir que o Réu conduzia seu veiculo embriagado e em alta velocidade, fato que causou, além de lesões corporais, danos, tanto no veiculo da vitima (prejuizo que não foi ressarcido), quanto no estabelecimento comercial para onde o carro foi arremessado, tendo sido danificada a porta de aço daquele comércio, fatos que demonstram maior reprovabilidade da conduta do agente (fl. 190).
+Por seu turno, constou o seguinte na sentença:
+Na primeira fase, considerando as circunstâncias judiciais do artigo 59 do Código Penal, verifico que o réu é primário. As circunstâncias do delito são graves, pois o réu, bastante embriagado, transitou em alta velocidade e colidiu com a lateral de outro veículo. além de causar prejuízos a um estabelecimento comercial. Desse modo, fixo a pena-base dos delitos acima do mínimo legal em:
+a) Art. 303, caput, CTB: 01 ano de detenção e suspensão de obter a permissão ou a habilitação para dirigir veículo automotor pelo prazo de 06 meses;
+b) Art. 306, caput, CTB: 02 anos de detenção, pagamento de 10 dias-multa no mínimo legal e suspensão de obter a permissão ou a habilitação para dirigir veículo automotor pelo prazo de 06 meses (fl. 140)
+De início, assinalo que a dosimetria da pena somente pode ser revista em casos excepcionais de flagrante equívoco, porquanto deve ser respeitada a discricionariedade vinculada do julgador na análise dos fatos. Nesse sentido, cito precedentes:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE ROUBO CIRCUNSTANCIADO. ALEGAÇÃO DE VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE EM ÂMBITO DE RECURSO ESPECIAL. DOSIMETRIA DA PENA. REPRIMENDA BÁSICA ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO IDÔNEA.
+ ..
+2. A dosimetria da pena está inserida no âmbito de discricionariedade regrada do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+ ..
+5. Agravo regimental desprovido (AgRg no AREsp 864.464/DF, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 30/05/2017).
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. USO DE DOCUMENTO PÚBLICO FALSO (CP, ART. 304 C/C 297). VIOLAÇÃO DO ART. 619 DO CPP. NÃO OCORRÊNCIA. ART. 59 DO CP. DOSIMETRIA. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. FUNDAMENTAÇÃO.
+ ..
+3. A dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+ ..
+5. Agravo regimental não provido (AgRg no REsp 1538351/SE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 15/05/2017).
+Para ser idônea a exasperação da pena-base, as instâncias ordinárias devem justificá-la com elementos concretos, não inerentes ao tipo penal, que demonstrem a maior reprovabilidade da conduta. Cito precedente:
+RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. SENTENÇA CONDENATÓRIA. INTIMAÇÃO PESSOAL DO RÉU SOLTO. DESNECESSIDADE. FRAUDE CONTRA A RECEITA FEDERAL. DOSIMETRIA. FUNDAMENTAÇÃO. REGIME PRISIONAL. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. REGIME SEMIABERTO. PERDA DO CARGO PÚBLICO. FUNDAMENTAÇÃO VÁLIDA. VALOR DO DIA-MULTA. CONDIÇÃO SOCIOECONÔMICA DO RÉU. REEXAME DE PROVA.
+ ..
+2. A fixação da pena-base deve contar com fundamentação concreta, idônea e individualizada, nos termos do artigo 59 do Código Penal e da norma constitucional expressa no artigo 93, inciso IX da Constituição Federal, não bastando, para tanto, meras referências a termos genéricos como "culpabilidade intensa" ou a "exigibilidade de conduta diversa", "lucro fácil", "causando prejuízo à vítima", quando tais circunstâncias constituem elementares do próprio tipo penal.
+ ..
+6. Recurso parcialmente provido (REsp 1383921/RN, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 25/06/2015).
+No caso dos autos, a exasperação da pena-base decorreu do desvalor das circunstâncias e consequências do crime: dirigir embriagado, transitar em alta velocidade, colidir lateralmente em outro veículo e causar prejuízos. Os delitos imputados ao recorrente foram: conduzir sob influência de álcool e praticar lesão corporal culposa. Destarte, a circunstância dirigir embriagado é inerente ao tipo penal. A ocorrência das demais circunstâncias não é necessária para alcance do resultado dos referidos delitos, motivo pelo qual pode ser utilizada para desvalorar a pena-base. Ainda, para afastá-las, seria necessário o revolvimento fático-probatório, vedado conforme Súmula 7/STJ. Cito precedentes:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MALFERIMENTO AOS ARTS. 24 E 29, IX, AMBOS DA LEI Nº 8.625/93. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF. VIOLAÇÃO ao art. 619 DO CPP. NÃO INDICAÇÃO DE OMISSÃO NO ARESTO OBJURGADO. OFENSA AOS ARTS. 402 DO CPP, E 61 E 159, AMBOS DO CP. AUSÊNCIA DE RAZÕES JURÍDICAS DA VULNERAÇÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. NEGATIVA DE VIGÊNCIA AO ART. 78 DO CPP. MATÉRIA JÁ ANALISADA E DECIDIDA NO RHC 19.758/SP. PLEITO PREJUDICADO. CONTRARIEDADE AO ART. 41 DO CPP. INÉPCIA DA DENÚNCIA. SENTENÇA CONDENATÓRIA. TESE DE INÉPCIA DA INICIAL. PRECLUSÃO. PRECEDENTES. OFENSA AOS ARTS. 155, 239 E 386, VII, TODOS DO CPP, E 288 DO CP. ABSOLVIÇÃO. VILIPÊNDIO AOS ARTS. 59 E 68, AMBOS DO CP. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. INEXISTÊNCIA DE ILEGALIDADE. REEXAME DE MATÉRIA FÁTICA. VEDAÇÃO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. ARTS. 255/RISTJ E 1.029, § 1º, DO CPC/2015. INOBSERVÂNCIA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+5. É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a absolver, condenar ou desclassificar a imputação feita ao acusado, bem como a adequada pena-base a ser fixada ao réu, porquanto é vedado, na via eleita, o reexame de provas, conforme disciplina o enunciado 7 da Súmula desta Corte.
+ ..
+7. Agravo regimental a que se nega provimento (AgRg no AREsp 1217373/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 11/05/2018).
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO. DOSIMETRIA DA PENA. ART. 59 DO CÓDIGO PENAL - CULPABILIDADE E CONSEQUÊNCIAS DO CRIME. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. PENA DE RECLUSÃO SUPERIOR A 8 ANOS E CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. REGIME PRISIONAL SEMIABERTO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A dosimetria da pena somente pode ser reexaminada no especial quando verificado, de plano, erro ou ilegalidade na fixação da reprimenda, o que não ocorre nestes autos.
+2. O Tribunal a quo considerou que a culpabilidade e as consequências do crime justificaram a valoração negativa da pena-base, entender de forma diversa, como pretendido, demandaria o revolvimento das provas carreadas aos autos, procedimento sabidamente inviável na instância especial. Inafastável, assim, a aplicação do Enunciado n. 7 da Súmula desta Corte.
+ ..
+4. Agravo regimental desprovido (AgRg no REsp 1656759/TO, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, Je 09/03/2018).
+Enfim, passo ao refazimento da dosimetria da pena para afastar a circunstância de dirigir embriagado.
+Na primeira fase, para o art. 303, caput, do CTB, fica a pena estipulada em 10 meses e 15 dias de detenção. Para o delito do art. 306, caput, do CTB, fica a pena estipulada em 1 ano, 7 meses e 15 dias de detenção. Ausentes agravantes, atenuantes, causas de aumento e de diminuição, ficam mantidas as penas da primeira fase. Em razão do concurso formal, art. 70 do CP, aumento a pena do delito do art. 306, caput, do CTB, em 1/6 para alcançar 1 ano, 10 meses e 22 dias de detenção, pena que torno definitiva.
+Diante do exposto, com fundamento na Súmula 568/STJ, dou parcial provimento ao recurso especial para fixar a pena definitiva em 1 ano, 10 meses e 22 dias de reclusão.
+Publique-se. Intimem-se.
