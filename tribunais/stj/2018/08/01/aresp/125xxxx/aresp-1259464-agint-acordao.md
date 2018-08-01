@@ -1,0 +1,31 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. MANIFESTA INADMISSIBILIDADE. MULTA. RECURSO ESPECIAL. INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. APLICAÇÃO DO CPC/15.
+1. É manifestamente inadmissível o agravo interno que não impugna, especificamente, os fundamentos da decisão agravada.
+2. O art. 1.003, § 6º, do CPC/15, estabelece que o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior.
+3. Considerando que o recurso especial foi interposto sob a égide do novo regramento processual e deixando o agravante de comprovar a ocorrência de feriado local quando de sua interposição, não há como ser afastada a intempestividade do recurso.
+4. Agravo interno não conhecido, com imposição de multa.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, não conhecer do agravo, com aplicação de multa, nos termos do voto do(a) Sr(a) Ministro(a) Relator(a). Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+RELATORA: MINISTRA NANCY ANDRIGHI
+RELATÓRIO
+Cuida-se de agravo interno interposto por JCG CONSTRUTORA E INCORPORADORA LTDA. contra decisão unipessoal proferida pela Ministra Presidente do STJ, que não conheceu do agravo em recurso especial que interpusera, em virtude da intempestividade do recurso especial (e-STJ fls. 296/297).
+Ação: cumprimento de sentença de acordo judicial firmado em ação de reintegração de posse, ajuizada por [NOME] - ESPÓLIO e JOSE VIEIRA NASCIMENTO - ESPÓLIO, em face da agravante.
+Acórdão: deu provimento ao agravo de instrumento interposto pelos agravados, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA DE ACORDO JUDICIAL. ENTREGA DE UNIDADES IMOBILIÁRIAS. PRAZOS E ESPECIFICAÇÕES ESTABELECIDOS PARA OS IMÓVEIS. REGISTRO IMOBILIÁRIO DE EMPREENDIMENTO COM ESPECIFICAÇÕES DIVERSAS DO PACTUADO. IMPOSSIBILIDADE MATERIAL DE ENTREGA DOS APARTAMENTOS NOS MOLDES PACTUADOS EM RAZÃO DO EXÍGUO PRAZO RESTANTE. CONSTATAÇÃO. VENCIMENTO ANTECIPADO DA DÍVIDA. POSSIBILIDADE. CLÁUSULA RESOLUTIVA TÁCITA. PRESENÇA EM TODOS OS CONTRATOS BILATERAIS. APLICAÇÃO PRECEDENTE DO STJ. DECISÃO REFORMADA. VENCIMENTO ANTECIPADO DECLARADO. AGRAVO PROVIDO. (e-STJ fl. 183)
+Agravo interno no agravo em recurso especial: a agravante afirma que houve suspensão do prazo recursal entre os dias 09/02/2018 e 14/02/2018.
+É o relatório.
+RELATORA: MINISTRA NANCY ANDRIGHI
+VOTO
+A decisão agravada não conheceu do agravo em recurso especial da agravante, tendo em vista a intempestividade do recurso especial, nos termos da seguinte fundamentação:
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise dos autos, verifica-se que a parte Recorrente foi intimada do acórdão recorrido em 19/10/2017, sendo o recurso especial interposto somente em 13/11/2017.
+Dessa forma, o recurso é manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c.c. os arts. 1.003, § 5.º, 1.029, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6.º do art. 1.003 do mesmo diploma legal, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Veja-se que a segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem a sexta-feira da paixão e, também, o dia de Corpus Christi, não são feriados forenses, previstos em lei federal, para os tribunais de justiça estaduais. Caso essas datas sejam feriados locais deve ser colacionado o ato normativo local com essa previsão, por meio de documento idôneo, no momento de interposição do recurso.
+Da análise do presente recurso, verifica-se que a agravante deixou de rebater, pontualmente, o fundamento da decisão agravada, pois se limitou a sustentar a tempestividade do agravo em recurso especial, interposto em 15/02/2018, mas não impugnou o fundamento da decisão agravada, no sentido de que o recurso especial, interposto em 13/11/2017, é intempestivo.
+Assim, consoante jurisprudência pacífica desta Corte, não merece conhecimento o agravo que não impugna, especificamente, os fundamentos da decisão agravada, a teor do disposto na Súmula nº 182 do STJ.
+Ademais, ainda que assim não fosse, não seria possível afastar a intempestividade do recurso especial, pois o acórdão recorrido foi considerado publicado no Diário de Justiça Eletrônico no dia 19/10/2017 (e-STJ fl. 214) e o recurso especial somente foi interposto em 13/11/2017.
+A Corte Especial, ao concluir o julgamento do AREsp 957.821/MS, consolidou o entendimento no sentido de que o art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", assim, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+Por conseguinte, considerando que o recurso especial foi interposto sob a égide do novo regramento processual, e deixando a agravante de comprovar a ocorrência de feriado local quando de sua interposição, não há como ser afastada a intempestividade do recurso.
+Forte nessas razões, NÃO CONHEÇO do presente agravo.
+Tem-se como manifestamente inadmissível o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, como determina o art. 1.021, § 1º, do CPC/15, razão pela qual, na hipótese de não ser conhecido este recurso, à unanimidade, fixo multa de 1% sobre o valor atualizado da causa, com fulcro no § 4º do art. 1.021 do CPC/15.
