@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO ACRE em face de acórdão que negou provimento a agravo em execução.
+Sustenta o Parquet que, ao manter a decisão do Juízo da Execução que deixou de operar a regressão do regime prisional ao reeducando, a despeito da homologação de falta disciplinar de natureza grave, o Tribunal a quo contrariou o disposto no art. 118, I, da Lei de Execução Penal.
+Requer o provimento do recurso para que determinada a regressão do regime semiaberto para o fechado.
+Contra-arrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo provimento do recurso.
+É o relatório.
+Decido.
+Por oportuno, trago à colação os seguintes excertos contidos no acórdão recorrido (fls. 64/65):
+O Ministério Público do Estado do Acre interpôs o presente agravo em execução contra a decisão de fls. 33, da lavra do juízo da Vara de Execuções Penais da Comarca de Rio Branco, que indeferiu pedido de regressão de regime do reeducando [NOME] sob o argumento de excesso de prazo entre a falta grave e a conclusão do Procedimento Administrativo Disciplinar (PAD) n.º 115/2013.
+ ..
+Consta dos autos que o reeducando praticou falta grave em 04 de junho de 2013, tendo o PAD n.º 115/2013, instaurado para apurar tal conduta, sido concluído em 08 de novembro de 2013, após o que a Defensoria Pública requereu a progressão de regime, cujo requisito objetivo havia sido atingido em 18 de maio de 2013.
+O Ministério Público, em manifestação de fls. 31/32, apesar de reconhecer o preenchimento do requisito objetivo para a progressão de regime, ressaltou que o reeducando não preenchia o requisito subjetivo, haja vista a demonstração de comportamento prisional inadequado, pois sancionado em falta disciplinar de natureza grave nos PADs n.º 16/2013, por fato ocorrido em 10 de março de 2013, e n.º 115/2013, por fato ocorrido em 04 de junho de 2013, requerendo a homologação deste último, com a decretação de perda dos dias remidos e regressão para o regime fechado.
+O juízo a quo, muito embora tenha indeferido a progressão de regime e homologado o PAD n.º 115/2013, deixou de operar a regressão, limitando-se a lançar a falta para efeitos de novos cálculos da pena, determinando a perda de 1/3 (um terço) dos dias remidos.
+Analisando tal situação, há de se concordar com a manifestação da Procuradoria Geral de Justiça no sentido de que, considerando haver transcorrido mais de cinco meses entre a falta grave cometida e a conclusão do PAD n.º 115/2013, e tendo esta infração sido utilizada para indeferir o pedido de progressão de regime do reeducando, cujo requisito objetivo já havia sido atingido, afigura-se demasiadamente prejudicial ao reeducando impor-lhe a regressão de regime em razão da homologação do PAD n.º 115/2013, tal qual fundamentara o juízo a quo.
+Ademais disso, em consulta aos autos do Processo de Execução n.º 0019345-28.2012.8.01.0001, constata-se que, mesmo com a data-base para a progressão de regime alterada para o dia 04 de junho de 2013 (data da falta grave apurada no PAD n.º 115/2013), o reeducando novamente atingiu o requisito objetivo para a progressão de regime, prevista para o dia 08 de março de 2014, tendo o Ministério Público, naqueles autos, manifestado-se favoravelmente à progressão ao aberto, regime no qual o reeducando hoje se encontra.
+Dessa forma, prover o presente agravo para determinar a regressão de regime do apenado, com base em suposta obrigatoriedade de tal determinação, sem a observância das peculiaridades do caso concreto, frustraria os fins a que se destina a execução penal, uma vez que estar-se-ia a regredir de regime reeducando que hoje demonstra aptidão a ressocializar-se no regime aberto.
+Ante o exposto, vota-se pelo não provimento do agravo em execução.
+Denota-se que o acórdão impugnado encontra-se em dissonância com a jurisprudência deste Superior Tribunal de Justiça.
+Com efeito, o art. 118 da Lei de Execução Penal disciplina que a execução da pena privativa de liberdade ficará sujeita à forma regressiva, com a transferência para qualquer dos regimes mais rigorosos, quando o condenado: I - praticar fato definido como crime doloso ou falta grave.
+Verifica-se, portanto, que, de acordo com a regra contida na referida disposição, o reconhecimento de falta disciplinar de natureza grave tem como imperiosa consequência a regressão de regime, nos casos em que se encontre o sentenciado em cumprimento da reprimenda em modo diverso do fechado.
+A propósito do tema, os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. RECONHECIMENTO DA PRÁTICA DE FALTA DISCIPLINAR DE NATUREZA GRAVE. POSSE DE APARELHO DE CELULAR. REGRESSÃO DE REGIME PRISIONAL. REGRA DO ART. 118, I, DA LEP. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. Hipótese na qual foi reconhecida a prática de falta disciplinar de natureza grave pelo agravante, tendo o Tribunal estadual cassado a decisão do Magistrado da execução que determinou sua regressão ao regime fechado.
+2. A solução adotada pela Instância a quo está em dissonância com a jurisprudência deste Sodalício no sentido de que o cometimento de falta grave durante a execução da pena acarreta a transferência para qualquer dos regimes mais rigorosos, nos termos do art. 118, inciso I, da Lei n.º 7.210/84, não cabendo ao Magistrado analisar a possibilidade de mitigação da regra prevista no referido dispositivo de lei em cada caso.
+ ..
+2. Agravo regimental a que se nega provimento. (AgRg no AREsp 780.740/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 18/08/2016, DJe 26/08/2016).
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CONHECIMENTO DO WRIT. EXECUÇÃO PENAL. FALTA GRAVE. TESE DE OFENSA AO ART. 59 DA LEP E À SÚMULA 533/STJ. NÃO OCORRÊNCIA. FALTA GRAVE HOMOLOGADA JUDICIALMENTE. RECONHECIMENTO MEDIANTE PRÉVIO PROCESSO ADMINISTRATIVO DISCIPLINAR. TESE DE NULIDADE DO PAD POR INOBSERVÂNCIA DO PRAZO PARA SUA CONCLUSÃO. MERA IRREGULARIDADE. PREJUÍZO NÃO DEMONSTRADO. PRESCRIÇÃO DA FALTA GRAVE NÃO VERIFICADA. PLEITO DE AFASTAMENTO DO EFEITO INTERRUPTIVO PARA FINS DE BENEFÍCIOS. APLICAÇÃO DA INTERRUPÇÃO DO LAPSO TEMPORAL APENAS PARA A PROGRESSÃO DE REGIME. LIVRAMENTO CONDICIONAL, INDULTO E COMUTAÇÃO DE PENAS JÁ RESSALVADOS NO ACÓRDÃO. REGRESSÃO DE REGIME. DECORRÊNCIA LEGAL (ART. 118, I, DA LEP). CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+5. A regressão de regime prisional é decorrência legal da prática de falta grave. Inteligência do art. 118, I, da LEP.
+6. Habeas corpus não conhecido. (HC 351.348/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 01/08/2016).
+Merece prosperar, portanto, a presente pretensão recursal.
+Ante o exposto, dou provimento ao recurso especial para determinar seja aplicada ao recorrido a regressão de regime prisional.
+Publique-se.
+Intimem-se.
