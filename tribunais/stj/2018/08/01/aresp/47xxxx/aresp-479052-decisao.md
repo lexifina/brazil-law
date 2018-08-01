@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que negou seguimento a recurso especial, interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, impugnando acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 243, e-STJ):
+MANDATOS. AÇÃO ORDINÁRIA.
+Caso em que restou demonstrado que o advogado reteve indevidamente valores recebidos em razão do exercício de seu mandato. Demonstrada a nulidade dos recibos de quitação. Dever de restituir os valores. Mantida a autorização para abatimento de honorários advocatícios na ordem de 20%.
+APELO DESPROVIDO.
+Inicialmente, cumpre destacar que a decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Em relação ao juízo de admissibilidade realizado pelo Tribunal de origem, destaco que esta Corte possui entendimento no sentido de que "é admitida a incursão no mérito do recurso especial pelo Tribunal a quo para a verificação da admissibilidade do apelo nobre" (AgRg no Ag 1.034.534/SP, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, DJe 3.2.2009).
+Não admitido o especial na origem, pelas seguintes razões: a) não ser possível a análise do recurso por ofensa a dispositivos de resoluções, portarias, estatutos, regulamentos ou circulares, por não serem considerados lei federal; b) ausência de prequestionamento do art. 58, V, da Lei n. 8.906/1994, fazendo incidir as Súmula 282 e 356 do STF; e c) pela aplicação da Súmula 7 do STJ quanto às demais questões, limitou-se o agravante a defender que foram exauridas todas as instâncias ordinárias, realizado o devido prequestionamento das matérias constantes no apelo especial, o afastamento da Súmula 7 do STJ e o preenchimento de todos os pressupostos exigidos pelo juízo de admissibilidade.
+Assim, sem a impugnação específica e suficiente para infirmar os fundamentos da decisão agravada, por analogia se aplica o princípio do enunciado n. 182 da Súmula do STJ, reproduzido no art. 932, III, do CPC/2015.
+Em face do exposto, não conheço do agravo.
+Intimem-se.
