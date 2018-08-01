@@ -1,0 +1,57 @@
+EMENTA
+PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO MAJORADO. SENTENÇA PENAL SUPERVENIENTE. FUNDAMENTOS MANTIDOS. NÃO PREJUDICIALIDADE. PRISÃO PREVENTIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO DELITIVA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. RECURSO ORDINÁRIO DESPROVIDO.
+1. De acordo com a jurisprudência desta Quinta Turma, a sentença penal condenatória superveniente que não permite ao réu recorrer em liberdade somente prejudica o exame do recurso ordinário em habeas corpus quando contiver fundamentos diversos daqueles utilizados na decisão que decretou a prisão preventiva, o que não ocorreu no caso em apreço.
+2. A prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+3. No caso, segundo consta do decreto preventivo, o recorrente, ainda que tecnicamente primário, possui histórico criminal, porquanto responderia a processo anterior pela prática de crime com violência, o que justifica sua segregação cautelar para garantia da ordem pública, a fim de evitar a reiteração delitiva.
+4. É inviável a aplicação de medidas cautelares diversas da prisão, porquanto a periculosidade do recorrente indica que a ordem pública não estaria acautelada com sua soltura.
+5. Recurso ordinário em habeas corpus desprovido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso. Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de recurso ordinário em habeas corpus interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+Colhe-se dos autos que o recorrente teve a prisão em flagrante convertida em preventiva pela suposta prática do delito tipificado no art. 157, § 2º, I, do Código Penal.
+Neste recurso ordinário, o recorrente sustenta, em síntese, que: a) não estão presentes os requisitos autorizadores da prisão preventiva, previstos no art. 312 do CPP; b) seria suficiente a imposição de medida cautelar diversa da prisão; c) se vier a ser condenado, sua provável pena futura revela a desproporcionalidade da prisão preventiva.
+Pleiteia a revogação da custódia provisória.
+O pedido de medida liminar foi indeferido.
+O Juízo de origem informou, às fls. 88-105, que foi prolatada sentença, condenando o recorrente à pena privativa de liberdade de 5 (cinco) anos e 4 (quatro) meses de reclusão, em regime fechado.
+O Ministério Público Federal opinou pela prejudicialidade do recurso.
+É o relatório.
+EMENTA
+PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO MAJORADO. SENTENÇA PENAL SUPERVENIENTE. FUNDAMENTOS MANTIDOS. NÃO PREJUDICIALIDADE. PRISÃO PREVENTIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO DELITIVA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. RECURSO ORDINÁRIO DESPROVIDO.
+1. De acordo com a jurisprudência desta Quinta Turma, a sentença penal condenatória superveniente que não permite ao réu recorrer em liberdade somente prejudica o exame do recurso ordinário em habeas corpus quando contiver fundamentos diversos daqueles utilizados na decisão que decretou a prisão preventiva, o que não ocorreu no caso em apreço.
+2. A prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+3. No caso, segundo consta do decreto preventivo, o recorrente, ainda que tecnicamente primário, possui histórico criminal, porquanto responderia a processo anterior pela prática de crime com violência, o que justifica sua segregação cautelar para garantia da ordem pública, a fim de evitar a reiteração delitiva.
+4. É inviável a aplicação de medidas cautelares diversas da prisão, porquanto a periculosidade do recorrente indica que a ordem pública não estaria acautelada com sua soltura.
+5. Recurso ordinário em habeas corpus desprovido.
+
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Preliminarmente, cumpre destacar que, de acordo com a jurisprudência desta Quinta Turma, a sentença penal condenatória superveniente que não permite ao réu recorrer em liberdade somente prejudica o exame do recurso ordinário em habeas corpus quando contiver fundamentos diversos daqueles utilizados na decisão que decretou a prisão preventiva. Nessa linha: HC 433.009/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 5/4/2018, DJe 10/4/2018; e HC 419.815/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 5/4/2018, DJe 18/4/2018.
+Consoante se infere da sentença (e-STJ, fls. 96-105), apesar de o recorrente ter sido condenado em primeiro grau de jurisdição, não houve inovação no tocante às razões utilizadas para manter a custódia provisória. Por esse motivo, não há falar em novo título judicial a embasar a prisão cautelar.
+Passa-se, portanto, à análise do recurso.
+A prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+No caso dos autos, a custódia cautelar foi decretada pelos seguintes fundamentos:
+"Constato que o APF está formalmente em ordem, obedecendo as disposições do art. 304 e 306 do Código de Processo Penal, não sendo hipótese de relaxamento. Tampouco vislumbro possível a concessão de liberdade provisória. No caso em tela, o autuado já praticou crime com violência, o que indica que se colocado em liberdade novamente encontrará estímulos para voltar a delinquir, assim, entendo necessário a decretação da prisão para garantia da ordem pública, conforme fundamentado em gravação. Destarte, inadequada e insuficiente a aplicação de medidas cautelares diversas da prisão preventiva, que se faz necessária para a garantia da ordem pública, vulnerabilizada com sua reiteração criminosa. Assim, nos termos do art. 310, II, e presentes os requisitos do art. 312 c/c art. 313, I e II, todos do CPP. CONVERTO A PRISÃO EM FLAGRANTE de MARCOS [NOME] FERNANDES EM PRISÃO PREVENTIVA" (e-STJ, fl. 21).
+Como se vê, segundo consta do decreto preventivo, o recorrente, ainda que tecnicamente primário, possui histórico criminal, porquanto responderia a processo anterior pela prática de crime com violência, o que justifica sua segregação cautelar para garantia da ordem pública, a fim de evitar a reiteração delitiva.
+Nesse sentido:
+"PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ROUBO MAJORADO. ALEGAÇÃO DE INEXISTÊNCIA DE RECONHECIMENTO DA AUTORIA E NA PARTICIPAÇÃO DO PACIENTE NO CRIME. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO DELITIVA. MEDIDAS CAUTELARES. IMPOSSIBILIDADE. HABEAS CORPUS NÃO CONHECIDO.
+I - Não mais se admite, perfilhando o entendimento do col. Pretório Excelso e da eg. Terceira Seção deste Superior Tribunal de Justiça, a utilização de habeas corpus substitutivo quando cabível o recurso próprio, situação que implica o não conhecimento da impetração.
+Contudo, no caso de se verificar configurada flagrante ilegalidade, recomenda a jurisprudência a concessão da ordem, de ofício.
+II - A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+III - "A aferição da existência de indícios de autoria e materialidade delitiva demanda revolvimento fático-probatório, não condizente com a angusta via do writ, devendo ser a questão dirimida no trâmite da instrução criminal" (HC n. 363.791/MG, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 30/9/2016).
+IV - No caso, a decisão que decretou a prisão preventiva encontra-se devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública, notadamente se considerada a gravidade concreta do delito praticado com violência, bem como pelo fato ser o paciente contumaz na prática delitiva, uma vez que ostenta antecedentes criminais, circunstância apta a ensejar a custódia cautelar em virtude do fundado receio de reiteração delitiva (precedentes).
+V - Quanto a alegação de que "na hipótese de o paciente vir a ser condenado, a pena privativa de liberdade poderá ser dosada em montante substancialmente inferior ao mínimo legal, em regime inicial aberto ou semiaberto", deve-se ressaltar, que não se presta a via do habeas corpus para análise de desproporcionalidade da prisão em face de eventual condenação do réu, uma vez que tal exame só poderá ser realizado pelo Juízo de primeiro grau, após cognição exauriente de fatos e provas do processo, a fim de definir, se for o caso, a pena e o regime a serem aplicados.
+VI - Condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem ao paciente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+Habeas corpus não conhecido"
+(HC 422.320/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 6/3/2018, DJe 14/3/2018).
+"HABEAS CORPUS. ROUBO CIRCUNSTANCIADO E RECEPTAÇÃO. SENTENÇA. MANUTENÇÃO DA PRISÃO CAUTELAR. AGENTE QUE RESPONDE A OUTRO PROCESSO POR CRIME DE MESMA NATUREZA. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+1. No caso, o paciente foi condenado à pena de 6 anos e 4 meses de reclusão, em regime semiaberto, tendo o Magistrado singular mantido sua prisão cautelar quando da sentença com a determinação da expedição de guia de execução provisória, evidenciando que  ..  o indiciado, apesar de primário, responde a outro processo por crimes de roubo e associação criminosa.
+2. Evidenciado que o acusado responde a outro processo por crime de mesma natureza, inevidente o constrangimento ilegal alegado.
+Precedentes.
+3. Ordem denegada, cassando-se a liminar anteriormente deferida"
+(HC 412.909/GO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 19/4/2018, DJe 11/5/2018).
+Pelos mesmos motivos acima delineados, entendo que, no caso, é inviável a aplicação de medidas cautelares diversas da prisão, porquanto a periculosidade do recorrente indica que a ordem pública não estaria acautelada com sua soltura. Sobre o tema: RHC 91.896/BA, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 15/03/2018, DJe 23/03/2018; HC 426.142/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 5/4/2018, DJe 16/4/2018; e HC 400.411/SE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 7/12/2017, DJe 15/12/2017.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+É o voto.
