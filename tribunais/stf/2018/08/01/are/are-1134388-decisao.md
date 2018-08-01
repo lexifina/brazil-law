@@ -1,0 +1,29 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto contra acórdão assim ementado:
+    “APELAÇÃO CÍVEL. SERVIDOR PÚBLICO. MAGISTÉRIO ESTADUAL. APOSENTADORIA PROPORCIONAL POR IDADE. ALTERAÇÃO DO COEFICIENTE DE PROPORCIONALIDADE. IMPOSSIBILIDADE.
+    PRELIMINAR.
+    Rejeitada a preliminar de desconstituição da sentença por carência de fundamentação.
+    MÉRITO.
+    A Administração Pública submete-se à legalidade (art. 37, caput, da CF), constituindo-se parâmetro normativo importante para salvaguardar o Estado de Direito, por meio da compreensão de primazia da lei e reserva legal.
+    Em virtude da dispensa da função de Diretora, o Estado procedeu ao cálculo da aposentadoria sem computar a parcela referente a tal função gratificada.
+    No cálculo da aposentadoria proporcional da autora não foi aplicado o redutor de cinco anos (o cálculo refere ‘7251/10950 dias’), porquanto a legislação não prevê a hipótese de aposentadoria especial proporcional.
+    Para obtenção da aposentadoria especial, deve a professora comprovar 25 (vinte e cinco) anos de efetivo exercício nas funções de magistério.
+    No caso, a autora foi aposentada proporcionalmente, por idade, com base no art. 40, parágrafo 1º, inciso III, alínea ‘b’, da Constituição Federal, com 60 anos de idade e pouco mais de 19 anos de tempo de serviço.
+    A pretensão da apelante autora não encontra amparo na legislação, porquanto não se mostra possível mesclar as regras da aposentadoria especial do magistério com as da aposentadoria proporcional por idade.
+    RECÁLCULO DO VALOR DOS PROVENTOS. APLICAÇÃO DO LIMITADOR DO ARTIGO 1º, § 5º, DA LEI 10.887/2004.
+    A aposentadoria da autora ocorreu em 05/12/2011, ou seja, após a vigência da Emenda Constitucional nº 41/2003, de modo que o valor dos proventos deve regular-se segundo o estabelecido no atual art. 40, §§ 2º, 3º e 17, da Constituição Federal.
+    A apuração do valor dos proventos da servidora deve ser calculada em três momentos: primeiro a apuração do valor da média aritmética simples das maiores remunerações utilizadas como base para as contribuições do servidor, correspondentes a 80% (oitenta por cento) de todo o período contributivo desde a competência julho de 1994.
+    Segundo, a incidência do cálculo da proporcionalidade (7.251 dias de serviço) sobre a média das remunerações.
+    Terceiro, a aplicação do limite equivalente ao valor da última remuneração do servidor (artigo 1º, § 5º, da Lei 10.887/04).
+    FATOR DE CORREÇÃO DAS DIFERENÇAS.
+    No período anterior à vigência da Lei nº 11.960/09 deve ser o IGP-M como índice da correção monetária, e juros de mora de 6% ao ano. Posteriormente, tem aplicação a aludida legislação até a data de 25/03/2015, momento em que o Supremo Tribunal Federal modulou os efeitos do julgamento da ADI nº 4357-DF, cujos créditos a partir desta data deverão ser corrigidos pelo Índice de Preços ao Consumidor Amplo Especial (IPCA-E).
+    APELO PARCIALMENTE PROVIDO” (págs. 2-3 do documento eletrônico 10).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, ofensa aos arts. 5°, XXXI; e 93, IX, da mesma Carta (págs. 1-6 do documento eletrônico 13).
+    A pretensão recursal merece acolhida.
+    Isso porque o acórdão recorrido está em dissonância com o entendimento desta Corte firmado no sentido de que, em matéria previdenciária, a lei de regência é a vigente ao tempo em que reunidos os requisitos para a concessão do benefício, Súmula 359/STF. Nesse sentido, transcrevo os seguintes precedentes de ambas as Turmas:
+    “RECURSO EXTRAORDINÁRIO –  SERVIDOR – APOSENTADORIA  – REGÊNCIA. A  aposentadoria  é regida pela legislação em vigor na  data  em que implementados os  requisitos  necessários à inatividade – verbete nº 359 da Súmula do Supremo. HONORÁRIOS ADVOCATÍCIOS – FIXAÇÃO. Havendo interposição de recurso sob a regência do Código de Processo Civil de 2015, cabível é a fixação dos honorários de sucumbência recursal previstos no artigo 85, § 11, do diploma legal” (RE 1.000.578-AgR/PE, Rel. Min. Marco Aurélio, Primeira Turma - grifei).
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. ALEGADA CONTRARIEDADE AO ART. 5º, XXXVI, DA CONSTITUIÇÃO. OFENSA REFLEXA. ADMINISTRATIVO.  SERVIDOR  PÚBLICO.  APOSENTADORIA.  PREENCHIMENTO DOS REQUISITOS. NECESSIDADE DE REEXAME DE PROVAS E DE NORMAS LOCAIS. SÚMULAS 279 E 280 DO STF. APLICAÇÃO DA LEI VIGENTE AO TEMPO EM QUE REUNIDOS OS REQUISITOS PARA INATIVAÇÃO. SÚMULA  359  DO STF. AGRAVO A QUE SE NEGA PROVIMENTO. I – Ausência de prequestionamento das questões constitucionais suscitadas. Incidência da Súmula 282 do STF. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF. II – Esta Corte firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa ao princípio constitucional da coisa julgada, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. […] . V – Consoante a Súmula  359  desta Corte, a  aposentadoria  é regida pela lei vigente ao tempo em que reunidos os requisitos necessários à obtenção do benefício. VI – Agravo regimental a que se nega provimento” (ARE 750.700-AgR/BA, de minha relatoria, Segunda Turma).
+    Isso posto, dou parcial provimento ao recurso extraordinário (art. 21, § 1°, do RISTF) para que a revisão do benefício leve em consideração a data em que foram reunidos os requisitos para concessão da aposentadoria.
+    Publique-se.
+    Brasília, 1° de agosto de 2018.
+Ministro Ricardo Lewandowski
+Relator
