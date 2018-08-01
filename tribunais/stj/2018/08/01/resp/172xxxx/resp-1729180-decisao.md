@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+Obrigação de fazer. Plano de assistência médico-hospitalar coletivo/empresarial. Competência da Justiça Comum caracterizada. Pendência existente não abrange direito trabalhista, mas somente questão entre o ex-funcionário e a operadora do plano de saúde. Usuário que participara do plano por mais de dez anos e não fora demitido por justa causa. Aplicação do artigo 31 da Lei n.º 9.656/98. Relação de consumo caracterizada. Pagamento da integralidade do prêmio pelo ex-empregador configurava mera liberalidade, sem relevância para o direito do ex-funcionário. Pagamento integral por parte do apelado, a partir de então, inclusive observando o número de dependentes, deve sobressair. Apelo desprovido.
+Alega-se violação dos artigos 30 e 31 da Lei 9.656/98 e 458 da Consolidação das Leis Trabalhistas ao argumento de que o ex-empregado que não contribuiu diretamente nas mensalidades do plano de saúde não tem direito de ser nele mantido.
+Assim delimitada a controvérsia, passo a decidir.
+Esta Corte tem, de fato, entendimento no sentido de que o pagamento integral das mensalidades do plano de saúde pelo empregador afasta o direito do ex-empregado de permanecer no referido plano. Nem mesmo a coparticipação, como única forma de contribuição do empregado, é suficiente para preencher o requisito legal.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO EMPRESARIAL CUSTEADO EXCLUSIVAMENTE PELO EMPREGADOR. EX-EMPREGADO. REGIME DE CO-PARTICIPAÇÃO. DIREITO DE PERMANÊNCIA. IMPOSSIBILIDADE. PRECEDENTES. JURISPRUDÊNCIA CONSOLIDADA. SÚMULA 168/STJ. MANUTENÇÃO DA DECISÃO QUE INDEFERIU OS EMBARGOS. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+(AgInt nos EREsp 1620750/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 23/8/2017, DJe 30/8/2017)
+No caso dos autos, a Corte estadual concluiu "que o fato da ex-empregadora pagar integralmente a parcela mensal caracteriza mera liberalidade, não havendo nenhum óbice em relação ao direito do apelado de prosseguir como usuário do plano após o encerramento do vínculo empregatício" (e-STJ, fl. 270), contrariamente, portanto, ao entendimento do Superior Tribunal de Justiça.
+Diante do exposto, dou provimento ao recurso especial para julgar improcedentes os pedidos. Sucumbência invertida.
+Intimem-se.
