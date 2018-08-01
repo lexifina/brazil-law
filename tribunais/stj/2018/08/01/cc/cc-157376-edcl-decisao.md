@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ROSALI ANTONIETA GRANATTA NOBRE contra decisão monocrática proferida por este signatário, acostada às fls. 109/111 e-STJ, que, seguindo orientação da eg. Segunda Seção, declarou a competência da Justiça do Trabalho.
+Inconformada, a embargante, em sede de aclaratórios (fls. 115/119, e-STJ), tempestivamente opostos, sustenta que o r. decisum ora embargado omitiu-se em relação ao entendimento proferido nos autos do REsp 1695986/SP, Rel. Min. Ricardo Villas Bôas Cueva, no qual reconheceu a competência da Justiça Comum Estadual. (fls. 115/119)
+Sendo assim, requer o acolhimento dos presentes embargos de declaração.
+Sem impugnação.
+É o relatório.
+Decide-se.
+Os aclaratórios não merecem prosperar.
+1. Isso porque, consoante registrado no r. decisum ora embargado, a eg. Segunda Seção firmou entendimento nos casos em que a empregadora mantém o próprio plano de saúde em favor de seus empregados, na modalidade de autogestão, a discussão acerca do direito do recorrido de ser mantido no plano de saúde possui relação direta com o extinto contrato de trabalho, impondo-se a competência da Justiça do Trabalho.
+Nesse sentido, são inúmeros os precedentes da Corte. Confira-se: REsp 1.476314/SP, Rel. Min. Raul Araújo, DJe de 26/10/2015; Agint no REsp 1.595360/SP, Rel. Min. Maria Isabel Gallotti, DJe de 09/12/2016; AgRg no REsp 1.489.347/SP, Rel. Min. Maria Isabel Galloti, DJe de 28/11/2014; AgInt no REsp 1626415/SP, Rel. Min. MARCO BUZZI, QUARTA TURMA, julgado em 24/10/2017, DJe 10/11/2017; CC 157.366/SP (julgado em 08/05/2018, Relator Ministro RICARDO VILLAS BÔAS CUEVA); CC 156.749/RJ (julgado em 23/04/2018, Relatora Ministra NANCY ANDRIGHI); CC 157.380/SP (julgado em 07/05/2018, Relator Ministro MOURA RIBEIRO); CC 157.662/SP (julgado em 07/05/2018, Relatora Ministra MARIA ISABEL GALLOTTI); CC 157.376/SP, (julgado em 11/04/2018, Relator Ministro MARCO BUZZI) e CC 155.145/SP (julgado em 21/03/2018, Relator Ministro MARCO AURÉLIO BELLIZZE).
+Confira-se, a propósito, a seguinte ementa:
+AGRAVO INTERNO NO RECURSO ESPECIAL - MANUTENÇÃO DE EX-EMPREGADO EM PLANO DE SAÚDE EMPRESARIAL - MODALIDADE DE AUTOGESTÃO - DECISÃO MONOCRÁTICA - INCOMPETÊNCIA DA JUSTIÇA COMUM - REMESSA DOS AUTOS À JUSTIÇA DO TRABALHO. IRRESIGNAÇÃO DO AUTOR.
+1. "Nos casos em que a ex-empregadora mantém o próprio plano de saúde em favor de seus empregados, na modalidade de autogestão, a discussão acerca do direito do recorrido de ser mantido no plano de saúde possui relação direta com o contrato de trabalho extinto, impondo-se a competência da Justiça do Trabalho" (AgRg no REsp 1.476.314/SP, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 06/10/2015, DJe 26/10/2015).
+2. Agravo interno desprovido.
+AgInt no REsp 1626415/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/10/2017, DJe 10/11/2017.
+E ainda: AgInt no REsp 1.630.686/SP, Rel. Ministro MOURA RIBEIRO, Terceira Turma, j. 21/3/2017, DJe 3/4/2017; AgInt no REsp 1595360/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 01/12/2016, DJe 09/12/2016; AgRg no REsp n. 1.577.493/SP, relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 04/04/2016; AgInt no Resp 1577901/SP, Rel. Min. ANTÔNIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/11/2016, DJe 17/11/2016; AgInt no REsp 1614154/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/12/2016, DJe 03/02/2017.
+Não há, portanto, de fato, omissão a ser sanada, afastando-se, por conseguinte, o fundamento do aclaratórios porquanto nos estreitos lindes do art. 1.022, do Código de Processo Civil/2015, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontráveis em decisão, ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado.
+2. Do exposto, rejeito os presentes embargos de declaração.
+Publique-se. Intimem-se.
