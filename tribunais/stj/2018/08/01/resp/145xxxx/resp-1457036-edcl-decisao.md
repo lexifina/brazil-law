@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] e outros contra decisão mediante a qual dei parcial provimento ao recurso especial manejado pela Fundação Petrobrás de Seguridade Social - Petros, para declarar válida exigência da idade mínima de 55 anos para o pagamento do benefício de complementação de aposentadoria prevista no Decreto 81.240/1978.
+Afirmam os embargantes que a decisão embargada não se manifestou sobre a preliminar de preclusão consumativa do especial da Petros em razão de os embargos infringentes por ela interpostos não terem sido conhecidos, circunstância que entende impedir a impugnação do acórdão proferido na apelação.
+Indica, ainda, a existência de erro material, sob o argumento de que o acórdão recorrido não é o proferido na apelação, como constou na decisão embargada, mas aquele proferido nos embargos infringentes.
+Impugnação da embargada às fls. 1.065.1.072.
+Anoto, inicialmente, que o acórdão recorrido foi publicado antes da vigência da Lei 13.105/2015, estando, portanto, o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo STJ 2/2016.
+Sem pertinência alguma as alegações dos embargantes. E isso porque, julgadas as apelações da Petros e dos ora embargantes (fls. 585-616), a entidade, de fato, interpôs embargos infringentes (fls. 626-648), mas os autores opuseram os embargos de declaração de fls. 620-624, que foram rejeitados pelo acórdão de fls. 653-652, cuja ementa foi publicada no dia 13.8.2012.
+A Petros interpôs recurso especial, protocolado em 23.8.2012, tempestivamente, portanto, no qual se insurgiu contra o acórdão proferido na apelação, sendo certo, ademais, que em suas razões requereram expressamente a desistência dos embargos infringentes (fl. 752), sendo irrelevante a circunstância de o Tribunal de origem nada ter deliberado sobre essa pretensão e julgado e não conhecido esse recurso (fls. 819-833).
+E isso porque, nos termos da literalidade do art. 538, caput, do CPC/1973, em vigor na época dos fatos, reproduzido no art. 1026, caput, do CPC/2015, "os embargos de declaração interrompem o prazo para a interposição de outros recursos, por qualquer das partes".
+Diante disso, tem aplicação a consolidada orientação da Corte Especial deste Tribunal no sentido de que somente os embargos de declaração intempestivos não interrompem o prazo para interposição de outros recursos. Confiram-se:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. RECEBIMENTO DE EMBARGOS DE DECLARAÇÃO COM PEDIDO DE EFEITO MODIFICATIVO COMO MERO PEDIDO DE RECONSIDERAÇÃO. IMPOSSIBILIDADE. VIOLAÇÃO AO ART. 538 DO CPC. RECURSO PROVIDO.
+1. Configura violação ao art. 538 do CPC o recebimento de embargos de declaração como mero "pedido de reconsideração", ainda que contenham nítido pedido de efeitos infringentes.
+2. Tal descabida mutação: a) não atende a nenhuma previsão legal, tampouco aos requisitos de aplicação do princípio da fungibilidade recursal; b) traz surpresa e insegurança jurídica ao jurisdicionado, pois, apesar de interposto tempestivamente o recurso cabível, ficará à mercê da subjetividade do magistrado; c) acarreta ao embargante grave sanção sem respaldo legal, qual seja a não interrupção de prazo para posteriores recursos, aniquilando o direito da parte embargante, o que supera a penalidade objetiva positivada no art. 538, parágrafo único, do CPC.
+3. A única hipótese de os embargos de declaração, mesmo contendo pedido de efeitos modificativos, não interromperem o prazo para posteriores recursos é a de intempestividade, que conduz ao não conhecimento do recurso.
+4. Assim como inexiste respaldo legal para se acolher pedido de reconsideração como embargos de declaração, tampouco há arrimo legal para se receber os aclaratórios como pedido de reconsideração. Não se pode transformar um recurso taxativamente previsto no art. 535 do CPC em uma figura atípica, "pedido de reconsideração", que não possui previsão legal ou regimental.
+5. Recurso especial provido.
+(REsp 1.522.347/ES, Rel. Ministro Raul Araújo, DJ 16.12.2015).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. PLEITO PARA POSTERIOR JUNTADA DE SUBSTABELECIMENTO. INADMISSIBILIDADE. SÚMULA N. 115/STJ. ART. 37, DO CPC, INAPLICABILIDADE NA INSTÂNCIA SUPERIOR. ANTERIORES EMBARGOS DECLARATÓRIOS NÃO CONHECIDOS. NÃO INTERRUPÇÃO DO PRAZO. INTEMPESTIVIDADE.
+(..)
+2. A oposição dos embargos de declaração interrompe o prazo para interposição de outros recursos (art. 538, do CPC). Todavia, nos casos em que não são conhecidos por intempestividade, tal não ocorre, uma vez que o prazo recursal fluiu normalmente, operando-se a preclusão do direito de recorrer e, por conseguinte, o trânsito em julgado do decisum embargado.
+3. Embargos declaratórios não-conhecidos.
+(EDcl nos EDcl nos EDcl no AgRg nos EREsp 710.346/RJ, Rel. Ministro João Otávio de Noronha, DJ 08/02/2010)
+Anoto que essas mesmas razões demonstram ser descabida a alegação de erro material.
+Concluo, dessa forma, que os embargantes pretendem, não a correção dos vícios referidos no art. 535 do CPC/1973, correspondente ao art. 1.022 do CPC/2015, mas a modificação da conclusão da decisão embargada, o que é incompatível com a natureza dos embargos de declaração.
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
