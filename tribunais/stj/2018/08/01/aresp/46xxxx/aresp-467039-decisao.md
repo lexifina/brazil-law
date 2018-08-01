@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544) contra decisão que negou seguimento ao recurso especial sob o fundamento de incidência das Súmulas n. 5 e 7 do STJ (e-STJ fl. 976).
+O acórdão recorrido está assim ementado (e-STJ fl. 903):
+Previdência Privada - FEMCO - Beneficiários que receberam suplementação maior que a devida e passaram a devolver, em prestações, o que receberam a mais. Ação pretendendo a anulação desses descontos, com a conseqüente repetição daqueles valores, com a condenação da ré à indenização dos danos morais. Improcedência. É que a FEMCO não pode ser compelida a pagar valor maior que o ajustado. Por força da Lei 8.213/91 o INSS revisou o valor dos beneficios, pagos entre outubro de 88 e abril de 91. A Femco passou, então, a recuperar, em prestações, os valores pagos a mais. E que o art. 143 de seu Regulamento impunha o recálculo do valor da suplementação. A Femco é entidade de previdência privada que não visa lucros e deve administrar seus recursos de modo que a soma das contribuições, mais a renda das aplicações, corresponda aos pagamentos desembolsados aos participantes. Recurso não provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 920/924).
+Nas razões do recurso especial (e-STJ fls. 927/943), fundamentado no art. 105, III, "a", da CF, os recorrentes alegaram violação dos arts. 157 e 159 do CC/1916, sustentando, em síntese, a invalidade dos descontos efetuados nos benefícios dos autores da ação.
+No agravo (e-STJ fls. 979/1.000), afirmam a presença de todos os requisitos de admissibilidade do especial.
+A recorrida apresentou contraminuta (e-STJ fls. 1.012/1.036).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Correta a decisão de inadmissibilidade do especial.
+Vê-se, com relação à alegada ofensa aos arts. 157 e 159 do CC/1916, que os temas tratados nos dispositivos tidos por violados não foram enfrentados pelo acórdão recorrido.
+A simples indicação dos normativos considerados ofendidos, sem que o tema tenha sido enfrentado pelo acórdão impugnado, impede o conhecimento do recurso especial, por falta de prequestionamento. A insurgência encontra óbice na Súmula n. 211/STJ:
+Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+Além do mais, os recorrentes não desenvolveram argumentação de forma a demonstrar em que consiste a ofensa aos artigos de lei federal supostamente violados. Incide, pois, a Súmula n. 284/STF:
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Observa-se, por fim, que o acórdão recorrido negou provimento ao recurso dos recorrentes, mantendo a sentença de improcedência do pedido de devolução das parcelas descontadas, pelos seguintes fundamentos (e-STJ fl. 612):
+A ré, Femco, é entidade de previdência privada, a teor da Lei 6.435/77, revogada pela LC 109/2001 e, nos termos de seu Estatuto, suplementa beneficios previdenciários. Em havendo revisão do beneficio, pago pelo INSS, aumenta ou diminui o montante da suplementação. O art. 143 do Regulamento de Beneficios, de 22.10.96, impõe o recálculo sempre que ocorrerem alterações no valor ou na espécie do beneficio devido pela Previdência Social (fls. 153). No contrato, de adesão, há comutatividade - equivalência nas prestações. Como dito a fls. 64, "a soma das contribuições (mais a renda das aplicações), será igual aos pagamentos desembolsados aos participantes". Do contrário, haveria déficit que inviabilizaria o sistema. A Femco não tem fins lucrativos.
+A Lei 8.213/91, determinou em seu art. 144, que os beneficios concedidos pela Previdência Social, entre 05.10.88 e 05.04.91, tivessem sua renda mensal recalculada e reajustada de acordo com as regras estabelecidas naquela lei, até lº.06.92 A suplementação permitia que cada associado mantivesse a mesma renda ou remuneração percebida em atividade. Completava, assim, o valor pago pelo INSS, até o limite da remuneração percebida na ativa. Não podiam receber valor maior, daí a obrigação de devolver o que receberam a mais.
+Das razões do recurso especial, verifica-se que os agravantes não impugnaram tal fundamento, tendo se limitado a insistir na tese de necessidade de "anulação dos referidos descontos" para "sanar o defeito do ato jurídico" (e-STJ fl. 938), de modo que a insurgência encontra óbice na Súmula n. 283/STF, in verbis:
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
