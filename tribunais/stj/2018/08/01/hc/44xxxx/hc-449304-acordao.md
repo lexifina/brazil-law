@@ -1,0 +1,36 @@
+EMENTA
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. ROUBOS MAJORADOS TENTADOS. FUNDAMENTAÇÃO ABSTRATA. ILEGALIDADE FLAGRANTE. HABEAS CORPUS CONCEDIDO.
+1. O decreto prisional e a decisão que indeferiu o pedido de liberdade provisória encontram-se destituídos de fundamentação idônea, limitando-se a destacar circunstâncias já elementares do delito perseguido, sem apontar riscos concretos ao processo ou à sociedade.
+2. Habeas corpus concedido, para soltura dos pacientes MICHAEL RODRIGUES ORSINE e WALAX SOARES DA MOTA, o que não impede nova e fundamentada decisão cautelar penal, inclusive menos gravosa do que a prisão processual.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, conceder a ordem, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Maria Thereza de Assis Moura, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MICHAEL RODRIGUES ORSINE e WALAX SOARES DA MOTA, apontando-se como autoridade coatora o Tribunal de Justiça do Estado do Espírito Santo, que denegou o writ de origem.
+O acórdão do Tribunal a quo tem a seguinte ementa (fl. 257):
+HABEAS CORPUS - ROUBO - AUSÊNCIA DOS REQUISITOS DA PRISÃO PREVENTIVA - NÃO INCIDÊNCIA - PERICULOSIDADE DEMONSTRADA - GARANTIA DA ORDEM PÚBLICA - ORDEM DENEGADA. 1 - Demonstrada a existência de prova da materialidade e de indícios de autoria, presentes estão os pressupostos da prisão preventiva. 2 - Decisão devidamente fundamentada no caso concreto, já que há diversos indícios de participação do paciente nos crimes Imputados. 3 - Cabível a decretação de prisão preventiva ante a necessidade de se interromper ou diminuir a atuação dos acusados. 4 - Ordem denegada.
+O impetrante requer a revogação da prisão preventiva, com a alegação de excesso de prazo para encerramento da instrução criminal e de ausência dos requisitos ensejadores da medida constritiva.
+Os pacientes foram denunciados pela prática do delito tipificado no art. 157, § 2º, II, combinado com o art. 14, I, do Código Penal, por duas vezes.
+A liminar foi indeferida.
+As informações foram prestadas.
+O parecer do Ministério Público Federal foi no sentido da denegação do habeas corpus.
+Na origem, processo n. 00003277020178080059, foi realizada audiência em 17/4/2018, conforme informações processuais eletrônicas constantes no sítio do Tribunal a quo em 14/6/2018.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+A impetração objetiva a revogação da prisão preventiva, com a alegação de excesso de prazo para encerramento da instrução criminal e ausência dos requisitos ensejadores da medida constritiva.
+A decisão de prisão preventiva restou assim fundamentada (fls. 21/25):
+ .. . II - DA MEDIDA A SER APLICADA
+Ao compulsar detidamente os autos, ainda que num juízo de valoração inicial, depreende-se que ambos os nacionais acima citados apresentam risco à sociedade, ante a gravidade da conduta a eles imputadas, sobretudo pelo modo de agir dos mesmos, os quais utilizaram do concurso de agentes e da violência para praticarem os supostos roubos.
+O crime de roubo se encontra inserido no rol dos crimes contra o patrimônio. Esse crime possui as mesmas características do furto, porém, possui fatores que agregados ao elemento do tipo subtrair, geram um novo tipo penal. Há no roubo a subtração de coisa alheia móvel, para si ou para outrem, porém com a existência de grave ameaça ou com o emprego de violência contra a pessoa, os fatores que empregados fazem com que haja a entrega da coisa, são as circunstâncias especiais que relevam sua diferença para o furto.  .. .
+A tutela jurídica oferecida pelo tipo penal do roubo é a de acobertar o patrimônio contra terceiros. A essência do crime de roubo é a de ser um crime contra o patrimônio. Porém, convém, lembramos que este é um crime complexo,  .. . A proteção normativa se desdobra em dois planos distintos, porém, de existência vital, pois, são feridos dois bens jurídicos distintos. No primeiro ele visa à proteção do patrimônio contra eventual subtração por via da iminência da aplicação da sanção penal, que no tipo em estudo, se revela de alto teor. Em um segundo momento, podemos verificar que há a tutela a manutenção do estado do corpo-humano, zelando ora pela sua integridade física ora pela totalidade da existência da vida humana, evitando que este seja afrontado para obtenção de um bem material que gradação inferior a vida humana, que se encontra no ápice dos bens nos quais o direito tutela, conforme corolário constitucional.
+O concurso de duas ou mais pessoas qualifica o roubo, dada a maior periculosidade dos agentes, que se unem para a prática do crime, dificultando a defesa da vítima. Devidamente comprovada a participação de ambos os réus na prática do delito em verdadeira coaturoria, a afastar a tese da defesa de que Gabriel não praticou efetivamente a ação de violência ou grave ameaça, nos termos da remansosa jurisprudência que se amolda a hipótese em tela:
+ ..
+Diante do exposto, entendo que as prisões de MICHALE RODRIGUES ORSINE e WALAX SOARES DA MOTA, devem ser mantidas, pois presentes o fumus comissi delicti previsto no artigo 312 do CPP, vez que há prova da existência do crime - auto de apreensão às fls. 20 -, e indícios suficientes de autoria em relação aos indiciados, conforme se extrai das declarações prestadas pelas testemunhas no auto de prisão em flagrante, sobretudo pelos depoimentos prestadas pelas vítimas.
+Oportunamente, registro que nenhuma das medidas elencadas no artigo 319 do Código de Processo Penal são suficientes para assegurara a aplicação da lei penal e a ordem pública, se consideradas as peculiaridades já mencionadas.
+Ante o exposto, com base na Lei 12.403/11, que alterou dispositivos do Código de Processo Penal, relativas à prisão processual e à liberdade provisória, DECRETO A PRISÃO PREVENTIAV DOS INDICIADOS MICHALE RODRIGUES ORSINE e WALAX SOARES DA MOTA. .. .
+Como já adiantado no exame da liminar, o decreto de prisão não traz qualquer motivação do caso concreto, fazendo referência à gravidade do delito em abstrato ou de genérica regulação da prisão preventiva, bem como sustenta a medida pela presença de indícios de autoria e materialidade, o que indica a ausência de fundamentos para o decreto prisional.
+Esclareço que a descrição do roubo em coautoria, com simulacro de arma de fogo, é apenas indicação de elementos já constitutivos do próprio crime perseguido - roubo -, sem desvalor adicional (imprescindível) a justificar a prisão.
+Não havendo divergência nesta Sexta Turma do Tribunal a respeito desse tema, desde logo reconheço a ilegalidade arguida.
+Ademais, resta superada a análise do excesso de prazo, em razão da inexistência de fundamentação da prisão preventiva.
+Ante o exposto, voto por conceder o habeas corpus, para soltura dos pacientes MICHAEL RODRIGUES ORSINE e WALAX SOARES DA MOTA, o que não impede nova e fundamentada decisão cautelar penal, inclusive menos gravosa do que a prisão processual.
