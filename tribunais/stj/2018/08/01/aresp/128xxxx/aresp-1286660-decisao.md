@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto por SIAHT COMÉRCIO DE COMBUSTÍVEIS LTDA, em face de acórdão assim ementado (fl. 466):
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. EMBARGOS. PRESTAÇÃO DE SERVIÇO DE MÃO DE OBRA. PROVA EMPRESTADA. NULIDADE. NÃO OCORRÊNCIA. EXERCÍCIO DO CONTRADITÓRIO. ALEGAÇÃO DE MA PRESTAÇÃO DO SERVIÇO E QUITAÇÃO DOS VALORES DEVIDOS. NÃO COMPROVAÇÃO. ONUS QUE NÃO SE DESINCUMBIU. RECUROS CONHECIDO E NÃO PROVIDO.
+1. Admitida a prova emprestada, e respeitada a ampla defesa e o contraditório, não há que se falar em nulidade daquela prova.
+2. A prestação de serviço ainda que insatisfatória não obsta o recebimento da importância ajustada em favor do contratado, mormente se este comprovou que realizou o serviço objeto do contrato e a contratante não conseguiu demonstrar a ineficácia da execução.
+4. Recurso conhecido e não provido.
+Nas razões do especial, o ora agravante alega violação do art. 372 do Código de Processo Civil/2015; e 50 do Código Civil, arguindo que inválida a utilização de prova emprestada, tendo em vista que não garantido o contraditório. Acrescenta que "não há identidade de partes, pessoa física e jurídica não se confundem" (fl. 482).
+Ultrapassado o juízo de admissibilidade, passo a decidir.
+O Tribunal de origem, com base nos fatos e provas dos autos, concluiu pela validade de utilização da prova emprestada, assim se pronunciando (fl. 468):
+A sentença utilizou como base para apuração do montante devido, o laudo pericial instrumentalizado em outros autos, nos quais figuraram como partes o autor e a representante legal da ré, ora apelante.
+Primeiramente, ressalto que coaduno com o entendimento do Magistrado de primeiro grau quanto à utilização da prova emprestada, desde que seja dada a oportunidade da manifestação das partes.
+(..)
+A apelante alega que não foi exercido o seu direito do contraditório e ampla defesa, a respeito do laudo pericial emprestado. Entretanto a decisão saneadora de fls. 313/315, ao analisar a preliminar de csrância de ação em razão a suposta iliquidez da dívida, referiu-se à utilização do laudo pericial emprestado de outros autos, asseverando que, em se tratando de ação monitória, a prova escrita é suficiente e capaz de comprovar a existência da dívida, prescindido da comprovação da iliquidez e certeza.
+Assim sendo, nota-se que o advogado da apelante teve oportunidade de se manifestar sobre a prova, pois foi devidamente intimado do conteúdo da referida decisão (certidão fl. 317), mas quedou-se inerte.
+Ademais, o advogado peticionou à fI. 322, dando cumprimento a parte final da decisão saneadora, arrolando as testemunhas. Portanto, não merece prosperar a preliminar aventada em face da preclusão havida.
+A análise das razões do recurso, a fim de demover o que concluído pela origem, demandaria inevitável reexame de matéria fática, procedimento que encontra óbice no verbete 7 da Súmula desta Corte. Nesse sentido:
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC/1973) - AÇÃO DE MANUTENÇÃO DE POSSE - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS AGRAVANTES.
+1. Para acolhimento da pretensão, veiculada no apelo extremo, de ver reconhecida a existência de cerceamento de defesa e de posse mansa e pacífica dos recorrentes, seria imprescindível derruir as afirmações contidas no decisum atacado e as conclusões a que chegou o Tribunal local, o que, forçosamente, ensejaria em rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial. Precedentes.
+2. "É pacífico o entendimento do Superior Tribunal de Justiça quanto à legalidade da prova emprestada, quando esta foi produzida com respeito aos princípios do contraditório e da ampla defesa." (AgRg no AREsp 426.343/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/03/2014, DJe 18/03/2014).
+3. O magistrado tem liberdade para a apreciação da prova segundo a necessidade do caso, impondo-se a ele, tão-somente, a exposição dos motivos formadores do seu convencimento. O questionamento acerca da adequação desse juízo avaliatório esbarra no óbice da Súmula 7/STJ.
+Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 375.629/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 2/2/2017, DJe 9/2/2017)
+Ressalte-se, ademais, que, nos termos da jurisprudência desta Corte, não é "imprescindível a identidade de parte para o empréstimos de provas, desde que garantido o contraditório no processo no qual a prova será aproveitada, o que foi oportunizado no caso concreto" (RHC 91.833/RJ, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 5/4/2018, DJe 18/4/2018).
+Acrescente-se que não foram devidamente impugnadas as razões expostas pela origem, não havendo o recorrente combatido a afirmação de que foi inerte. Assim, inviável o provimento do especial, também, por aplicação da Súmula 283/STF.
+Dessa forma, encontrando-se o acórdão recorrido em consonância com a orientação desta Corte, não há o que se reformar, esbarrando o presente recurso no óbice da Súmula 83/STJ.
+Em face do exposto, não havendo o que reformar, nos termos do art. 34, XVIII, "b", do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao agravo e fixo os honorários deste recurso, a serem suportados pela parte recorrente, em 10% (dez por cento) dos honorários advocatícios já arbitrados em favor da parte recorrida, ressaltando que não deve ser aplicada a medida aos casos em que ultrapassados os limites dos §§ 2º e 3º do referido dispositivo, considerando-se suspensas as exigibilidades em caso de assistência judiciária gratuita.
+Intimem-se.
