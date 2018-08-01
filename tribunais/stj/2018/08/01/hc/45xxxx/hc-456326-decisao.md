@@ -1,0 +1,11 @@
+DECISÃO
+[NOME] alega sofrer coação ilegal em decorrência de decisão proferida por Desembargador do Tribunal de Justiça do Estado do Pará, que, ao denegar a ordem, negou pleito de extensão de benefício anteriormente concedido à corréu.
+Busca a paciente - presa preventivamente em regime domiciliar (possui filha de 3 anos de idade) pela suposta prática dos delitos contra a administração (cuja tipificação não é possível reconhecer ante a pobreza da instrução) - sejam estendidos os efeitos do benefício concedido aos corréus pelo Tribunal de Justiça do Estado do Pará nos HCs n. 0802724-50.2018.8.14.0000 e 0803111-65.2018.8.14.0000.
+Destaca a ilegalidade da decisão que indeferiu a liminar (fls. 25-26), visto que se encontra em condições idênticas a dos corréus beneficiados e, por isso, deve ser concedida a ela também a liberdade provisória.
+Decido.
+Inicialmente, consigno que o Desembargador relator do writ originário denegou a ordem, ante a ocorrência de reiteração de pedido, visto que já havia analisado o pleito no HC n. 0802703-74.2018.8.14.0000.
+Todavia, ao analisar os autos, verifico que a inicial do writ não veio acompanhada da cópia desse acórdão, o que prejudica a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, pois, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração. Na mesma diretriz: HC n. 235.131/MG, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 29/8/2013.
+Ademais, consigno que o STJ não tem competência para analisar pedido de extensão de decisão originalmente proferida por outro órgão jurisdicional, máxime do Colendo Supremo Tribunal Federal. Nesse sentido, mutatis mutandis: RHC n. 70.232/RJ, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 12/5/2017; HC n. 71.162/RJ, Rel. Ministro Jorge Mussi, 5ª T., DJe 1º/2/2017; HC n. 20.706/TO, Rel. Ministro Vicente Leal, 6ª T., DJ 19/8/2002.
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Publique-se e intimem-se.
