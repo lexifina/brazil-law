@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de declaração opostos em face da decisão de e-STJ fls. 781-783, que negou provimento ao agravo em recurso especial.
+Sustenta omissão quanto ao devido preparo, sendo que a falta de indicação do número do processo não impossibilitaria a identificação do feito no Tribunal de origem.
+Argumenta que as razões da petição de fls. 414/416 transporia a discussão, atendendo dessa forma ao disposto no art. 511 do Código de Processo Civil de 1973.
+Defende que o código de barras do comprovante de pagamento da instituição financeira conferiria com aquele indicado na respectiva guia de recolhimento, além de conter número de referência correspondente ao do processo junto ao Tribunal de origem.
+Intimada para se manifestar acerca da interposição do presente recurso, a parte contrária não apresentou impugnação.
+Assim delimitada a questão, aprecio os argumentos.
+Verifico que não estão presentes os vícios elencados no art. 1.022 do atual Código de Processo Civil, pois os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição ou for omitido ponto sobre o qual devia pronunciar-se o juiz ou tribunal.
+Vale ressaltar que os embargos de declaração possuem regramento próprio, voltado à complementação ou declaração do verdadeiro sentido de uma decisão eventualmente omissa, contraditória ou obscura, não sendo dotados, em regra, de efeito modificativo.
+A decisão embargada foi clara ao pontuar que o acórdão recorrido está em conformidade com o entendimento desta Corte no sentido de que "Como no CPC/73 não há regra correspondente à do art. 1.017 do CPC/15, que autoriza a parte a sanar irregularidade no preenchimento da guia de recolhimento do preparo, a jurisprudência desta Corte, em hipóteses como a dos autos, é no sentido de decretar a deserção do recurso" (REsp 1698816/SP, REL. MINISTRA NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 17/10/2017, DJe 20/10/2017).
+Segundo o princípio tempus regit actum, é aplicável a lei vigente ao tempo em que foi proferida a decisão.
+A apelação do embargante, no presente caso, tem seus requisitos de admissibilidade submetidos ao crivo do Código de Processo Civil de 1973. Isso porque a sentença foi publicada em 4/12/2014 (fl. 326 e-STJ) de modo que antes da entrada em vigor do Código de Processo Civil vigente (18/3/2016).
+Na interpretação sistemática do Código de Processo Civil anterior, o erro no preenchimento da guia de recolhimento de custas, como no caso, sem a identificação do número do processo original no campo próprio, implica a não comprovação oportuna do preparo, insanável posteriormente.
+Portanto, inafastável a pena de deserção do recurso de apelação confirmada no âmbito de agravo interno pelo Tribunal de origem, quando assim concluiu (fl. 616 e-STJ):
+E da leitura percuciente dos autos, verifica-se que o DARJ de fls. 373 não contém identificação do número do processo original no campo respectivo, dando ensejo à pena de deserção, ante a impossibilidade de se identificar a qual processo se destinava o recolhimento do preparo, independentemente de sua efetiva quitação.
+Não foi por outro motivo que, em consonância com a jurisprudência uníssona do Col. Superior Tribunal de Justiça, o Conselho de Magistratura acolheu proposição do i. Decano desta Corte, Des. Jones Figueirêdo Alves, para considerar desertos os recursos cujas guias de recolhimento não trouxerem o número do processo e/ou o nome da parte (proposição acolhida e publicada no DJe de 21.09.2015) - entendimento a ser aplicado até a entrada em vigor do CPC/2015.
+O referido entendimento se alinha com o posicionamento desta Corte Superior:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESERÇÃO. PREENCHIMENTO INADEQUADO DAS GUIAS DE PREPARO. VÍCIO INSANÁVEL. MATÉRIA QUE DEMANDA REEXAME DE PROVAS. SUMULA 7 DO STJ. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O recorrente não preencheu corretamente os dados necessários para sua identificação nas guias do preparo do recurso de apelação, pois as guias de recolhimento não contêm a indicação do número do processo, nem tampouco o nome da outra parte, o que se contrapõe ao que determina a jurisprudência. De acordo com o entendimento jurisprudencial desta Corte, não se pode conhecer do recurso interposto sem a comprovação do preparo nos moldes do art. 511, caput, do CPC/73. Precedentes.
+2. A reforma do acórdão recorrido no tocante à ausência de preparo da apelação, e incorreto preenchimento das guias do recurso, demandaria, necessariamente, o revolvimento do conjunto fático - probatório dos autos, o que é vedado em razão do óbice da Súmula 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1001546/BA, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 07/03/2017, DJe 16/03/2017)
+Vê-se, pois, que a pretensão contida nos embargos é unicamente a rediscussão do que já foi decidido, o que extrapola os limites previstos para o recurso de embargos de declaração.
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
