@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) contra decisão que negou seguimento ao recurso especial por inexistência de violação de lei federal e incidência da Súmula n. 7/STJ (e-STJ fls. 575/577).
+O acórdão recorrido está assim ementado (e-STJ fl. 505):
+CIVIL. COMISSÃO DE CORRETAGEM. OBRIGAÇÃO PESSOAL QUE NÃO VINCULA TERCEIROS, SALVO DISPOSIÇÃO EXPRESSA EM SENTIDO CONTRÁRIO. VINCULO JURÍDICO QUE TEVE INÍCIO A PARTIR DE CONTADO DOS VENDEDORES. IMPOSSIBILIDADE DE O CORRETOR COBRAR SUA COMISSÃO DIRETAMENTE DOS COMPRADORES. RES INTER ALIOS ACTA, ALLIS NEC PRODEST NEC NOCET. IMPROCEDÊNCIA MANTIDA.
+1. Se a obrigação fundamental do comitente "é pagar a comissão, na forma estipulada, ou segundo o que determina a lei ou os costumes (CC, art. 724)", não se cogita de responsabilização da parte contrária, que figura como terceiro não integrante da relação jurídica, salvo expressa disposição em sentido contrário.
+2. Na hipótese em apreço, ausente instrumento escrito vinculando o corretor com exclusividade, não se pode questionar que, ainda pudesse transigir com os proponentes/compradores o modo como seria realizado o pagamento de sua comissão, foi com a representante dos vendedores o contato inicial visando a intermediação na venda dos imóveis.
+3. Consequentemente, não concretizado o negócio jurídico da forma como inicialmente proposta, poderia o comprador, com quem o corretor de imóveis não possuía qualquer vínculo, realizar nova proposta de venda, desta vez por intermédio de profissional de sua confiança e com o qual celebrou contrato, ainda que informalmente.
+4. Por fim, cumpre ressaltar que não cabe ao colegiado analisar, em virtude dos limites subjetivos da lide, a existência de direito efetivo à comissão de corretagem, tampouco o responsável pelo pagamento, devendo se limitar ao fato de que a empresa requerida, pelo que restou demonstrado nos autos, não contratou a autora e, portanto, nada lhe deve a este título.
+5. Recurso improvido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 521/525).
+No especial (e-STJ fls. 528/538), fundamentado no art. 105, III, "a", da CF, a recorrente alegou ofensa ao art. 1.022 do CPC/2015, por negativa de prestação jurisdicional.
+Indicou ainda afronta aos arts. 722, 724, 725 e 727 do CC/2002, sustentando que a comissão de corretagem é devida, porque o negócio jurídico decorreu da intermediação dos corretores.
+No agravo (e-STJ fls. 580/588), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada pela recorrida (e-STJ fls. 591/614).
+É o relatório.
+Decido.
+Não há falar em contrariedade ao art. 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos. Ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação do referido dispositivo.
+Quanto à comissão de corretagem, o Tribunal de origem consignou que (e-STJ fls. 509/510):
+Toda a digressão doutrinária serve para concluir que, se a obrigação fundamental do comitente "é pagar a comissão, na forma estipulada, ou segundo o que determina a lei ou os costumes (Código Civil, art. 724)" 2 , não se cogita de responsabilização da parte contrária, que figura como terceiro não integrante da relação jurídica, salvo expressa disposição em sentido contrário.
+Na hipótese em apreço, ausente instrumento escrito vinculando o corretor com exclusividade, não se pode questionar que, ainda pudesse transigir com os proponentes/compradores o modo como seria realizado o pagamento de sua comissão, foi com a representante dos vendedores o contato inicial visando à intermediação na venda dos imóveis.
+Consequentemente, não concretizado o negócio jurídico da forma como inicialmente proposta, poderia o comprador, com quem o corretor de imóveis não possuía qualquer vínculo, realizar nova proposta de venda, desta vez por intermédio de profissional de sua confiança e com o qual celebrou contrato, ainda que informalmente.
+Destarte, sendo obtidas pelo corretor melhores condições para a concretização do negócio jurídico, nada impedia que, dentro desta nova proposta, viesse o comprador a custear a comissão de corretagem sem que isso represente confissão de que, na proposta anterior, assumiu idêntica obrigação. Afinal, pelo princípio da relatividade subjetiva dos contratos, "res inter alios acta, allis nec prodest nec nocet".
+Por fim, cumpre ressaltar que não cabe ao colegiado adentrar, em virtude dos limites subjetivos da lide, na existência de direito efetivo à comissão de corretagem, tampouco o responsável pelo pagamento, devendo se limitar ao fato de que a empresa requerida, pelo que restou demonstrado nos autos, não contratou a autora e, portanto, nada lhe deve a este título.
+Dissentir das conclusões do acórdão impugnado quanto aos limites subjetivos da lide, implicaria análise das cláusulas contratuais e reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, ante o disposto nas Súmulas n. 5 e 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
