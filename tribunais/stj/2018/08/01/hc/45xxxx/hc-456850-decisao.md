@@ -1,0 +1,16 @@
+DECISÃO
+Vistos, etc.
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], contra decisão indeferitória de provimento urgente proferida nos autos da impetração originária, em trâmite perante o Tribunal de Justiça do Estado do Ceará (HC n.º 0625389-66.2018.8.06.0000).
+Consta dos autos que o Paciente foi preso em flagrante, em 09/06/2018, pela suposta prática do delito tipificado no art. 33, caput, da Lei n.º 11.343/2006, porque na residência do Paciente foi encontrada "vasta quantia de droga nos bolsos da bermuda do investigado, após uma busca pessoal" e "policiais encontraram, no quintal da casa, uma lata de leite contendo peças maiores de crack e maconha" (fl. 69). A segregação foi convertida em preventiva (fls. 69-71).
+Neste writ, o Impetrante requer a superação da Súmula n.º 691 do Supremo Tribunal Federal, alegando ilegalidade e teratologia da prisão preventiva do Paciente, uma vez que carente de fundamentação idônea e que a quantidade de entorpecentes apreendida é ínfima.
+Requer, por fim, em medida liminar, a revogação da cautelar.
+É o relatório inicial. Passo a decidir o pedido liminar.
+O entendimento firmado pelo Supremo Tribunal Federal e pelo Superior Tribunal de Justiça é no sentido de não se admitir habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância.
+É o que está sedimentado no verbete sumular n.º 691/STF: " n ão compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar", aplicável, mutatis mutandis, a este Superior Tribunal de Justiça, v.g: HC 117.440/PE, Quinta Turma, Rel. Min. JORGE MUSSI, DJ de 21/06/2010; HC 142.822/SP, Quinta Turma, Rel. Min. ARNALDO ESTEVES LIMA, DJ de 07/12/2009; HC 134.390/MG, Sexta Turma, Rel. Min. OG FERNANDES, DJ de 31/08/2009.
+A despeito de tal óbice processual, tem-se entendido que, em casos excepcionais, deve preponderar a necessidade de se garantir a efetividade da prestação da tutela jurisdicional de urgência para que flagrante constrangimento ilegal ao direito de liberdade possa ser cessado - tarefa a ser desempenhada caso a caso.
+Todavia, esse atalho processual não pode ser ordinariamente usado, senão em situações em que se evidenciar decisão absolutamente teratológica e desprovida de qualquer razoabilidade, na medida em que força o pronunciamento adiantado da Instância Superior, subvertendo a regular ordem do processo.
+Na hipótese em apreço, não parece inidôneo justificar a prisão processual com fundamento na garantia da ordem pública, diante de elementos concretos que evidenciam a gravidade concreta da conduta, pois conforme consignou o Magistrado de primeiro grau, a residência do Paciente "vinha sendo utilizada para confecção de "trouxinhas" de droga pra venda" (fl. 70; grifos acrescidos).
+Assim, o caso em apreço não se enquadra nas hipóteses excepcionais passíveis de deferimento do pedido em caráter de urgência, por não veicular situação configuradora de abuso de poder ou de manifesta ilegalidade.
+Ante o exposto, INDEFIRO o pedido de liminar.
+Ouça-se o Ministério Público Federal.
+Publique-se. Intimem-se.
