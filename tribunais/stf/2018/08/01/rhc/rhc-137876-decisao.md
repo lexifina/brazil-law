@@ -1,0 +1,26 @@
+Trata-se de recurso ordinário em habeas corpus interposto em favor de Celso Lacerda Nogueira contra acórdão da Sexta Turma do Superior Tribunal de Justiça – STJ proferido nos autos do HC 347.091-AgR/RJ, de relatoria do Ministro Nefi Cordeiro, assim ementado:
+    “PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO. ARTS. 288, PARÁGRAFO ÚNICO, E 317, § 1º, TODOS DO CP. ALEGAÇÃO DE CRIME MILITAR E DE INCOMPETÊNCIA DA JUSTIÇA FEDERAL. NULIDADE AFASTADA. RECONHECIMENTO NAS INSTÂNCIAS ORDINÁRIAS DA CONDUTA DE SOLICITAR. INEXISTÊNCIA DE PREVISÃO DO NÚCLEO NO TIPO PREVISTO NO CÓDIGO PENAL MILITAR. APLICAÇÃO DO CÓDIGO PENAL. CORREÇÃO DO ENQUADRAMENTO TÍPICO PELA VIA DO WRIT. IMPOSSIBILIDADE. REVOLVIMENTO DA MATÉRIA FÁTICA. INADMISSIBILIDADE DA VIA ELEITA. AGRAVO REGIMENTAL IMPROVIDO.
+    1. Reconhecido no Tribunal de origem que o núcleo do tipo praticado foi a ‘solicitação’ e uma vez não tipificada a citada conduta no art. 308 do Código Penal Militar, infere-se que não se trata de crime militar, devendo ser aplicado o art. 317 do CP diante da adequação típica de subordinação imediata, o que afasta, por consequência, a competência da Justiça especializada, consoante art. 125, § 4º da CF.
+    2. Inexiste nulidade do processo, em razão de que compete à Justiça Federal processar e julgar crime de corrupção passiva conexo aos crimes de descaminho e contrabando, de competência federal, ainda que praticado por militar no exercício da função, nos termos do art. 109, IV, da CF e da Súmula 122 desta Corte.
+    3. Reverter a constatação do Tribunal de Justiça demandaria profundo reexame de prova, o que não é possível analisar por meio de habeas corpus.
+    4. Decisão agravada mantida por seus próprios fundamentos.
+    5. Agravo regimental improvido” (pág. 67 do documento eletrônico 4).
+    Em suas razões recursais, o recorrente alega que a conduta praticada amolda-se ao delito de corrupção passiva, tipificado tanto no art. 317 do Código Penal, quanto no art. 308 do Código Penal Militar e, que, por tratar-se de Coronel da Polícia Militar, agindo no exercício de suas funções como tal, a competência para processar e julgar a ação penal seria da Justiça Militar Estadual e não da Justiça Federal.
+    Requer, por fim, o provimento do recurso para declarar “a incompetência da Justiça Federal para julgar o crime militar de corrupção e a nulidade da condenação do paciente por tal crime” (pág. 104 do documento eletrônico 4).
+    Ao oferecer contrarrazões, o Ministério Público Federal - MPF manifestou-se pelo desprovimento do recurso.
+    Já no âmbito desta Suprema Corte, a Procuradoria-Geral da República, em parecer da Subprocuradora-Geral da República Cláudia Sampaio Marques, opinou pelo desprovimento do recurso (documento eletrônico 6).
+    É o relatório. Decido.
+    Bem examinados os autos, verifico que o recurso encontra-se prejudicado.
+    Isso porque, ao analisar o ARE 999.926/RJ, declarei a extinção da punibilidade em decorrência da prescrição da pretensão punitiva (art. 107, IV, do CP) em relação ao réu Celso Lacerda Nogueira, nos seguintes termos:
+    “[...]
+    Quanto ao agravante Celso Lacerda Nogueira, registro que foi condenado, como incurso nas penas do art. 288, parágrafo único, do Código Penal, a 3 anos de reclusão, e do art. 317, § 1°, do mesmo diploma legal, a 4 anos de reclusão e 200 dias-multa (págs. 133-135 do volume eletrônico 96). Não houve recurso da acusação. A apelação interposta pelo réu foi improvida. A Sexta Turma do Superior Tribunal de Justiça, em 25/11/2014, concedeu habeas corpus, de ofício, determinando o retorno dos autos à 4ª Vara Federal Criminal da Seção Judiciária do Rio de Janeiro/RJ, para que se profira novo julgamento no que tange à redação do parágrafo único do art. 288 do Código Penal, dada pela Lei 12.850/2013.
+    Desse modo, levando-se em conta as penas aplicadas, bem como o disposto no art. 109, IV, do CP, se o máximo da pena é superior a 2 anos e não excede a 4, a prescrição opera-se em 8 anos.
+    No caso sob exame, a sentença condenatória foi publicada em cartório em 7/1/2009 (conforme certificado à pág. 1 do volume eletrônico 97), sendo essa a última causa de interrupção do prazo prescricional ocorrida nos autos (art. 117, IV, do CP). Dessa forma, a prescrição da pretensão punitiva do Estado ocorreu em 6/1/2017.
+    Observo, ainda, que a concessão de habeas corpus pelo Superior Tribunal de Justiça não alterou esse prazo, em razão do princípio do non reformatio in pejus e do trânsito em julgado da sentença em relação ao Ministério Público Federal (pág. 74 do volume eletrônico 99), conforme Súmula 146/STF: ‘a prescrição da ação penal regula-se pela pena concretizada na sentença, quando não há recurso da acusação’.
+    […]
+    Isso posto, declaro a extinção da punibilidade em decorrência da prescrição da pretensão punitiva (art. 107, IV, do CP) em relação aos réus Fábio Menezes de Leão, Celso Lacerda Nogueira, Hélio Machado da Conceição, Carlos Henrique de Jesus e Lúlio César da Silva Cruz, e, nos termos do art. 21, IX, do RISTF, julgo prejudicados os respectivos agravos.”
+    Isso posto, julgo prejudicado o presente recurso ordinário em habeas corpus.
+    Publique-se.
+    Brasília, 1° de agosto de 2018.
+Ministro Ricardo Lewandowski
+Relator
