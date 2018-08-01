@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo desafiando decisão que não admitiu recurso especial interposto pelo BANCO DO BRASIL S/A, com fundamento no art. 105, III, c, da Constituição Federal, contra acórdão assim ementado:
+"EXTINÇÃO DO PROCESSO Falta de pressuposto de constituição e prosseguimento regular do processo (art. 485, inc. IV, do CPC/2015) Ausência de recolhimento de custas necessárias à citação do requerido Intimação regular do autor para promover as diligências cabíveis Inércia Cabimento:
+Cabível a extinção do processo por falta de pressuposto de constituição e prosseguimento regular do processo (art. 485, inc.
+IV, do CPC/2015), por ausência de recolhimento das custas necessárias à citação do requerido quando, mesmo depois de intimado para promover as diligências cabíveis, permanece o autor inerte.
+RECURSO NÃO PROVIDO." (fl. 137).
+No especial, a parte recorrente aponta ofensa ao art. 485, III, do NCPC/2.015, alegando necessidade de intimação pessoal da parte para dar andamento ao feito em 48 horas antes da extinção do processo.
+Afirma que, "(..) trazendo a literalidade do que prescreve o inciso III do art. 485 do CPC/15, o feito será extinto pela ausência de cumprimento de atos e diligencias que lhe incumbir o autor. Isto inclui o recolhimento de custas quer seja para condução do Senhor Oficial de Justiça quer seja para realização de pesquisa junto aos sistemas conveniados ao Tribunal, não sendo razoável equivaler o que prescreve o inciso IV do mesmo artigo, qual seja "verificar a ausência de pressupostos de constituição e de desenvolvimento válido e regular do processo" " (fls. 149/150).
+É o relatório. Passo a decidir.
+Na espécie, o processo foi extinto com fundamento no inciso IV do art. 485 do NCPC/2.015, por ausência de pressuposto de constituição e desenvolvimento válido e regular, em razão da ausência de recolhimento das custas necessárias à citação do requerido quando, mesmo depois de intimado para promover as diligências cabíveis, permanece o autor inerte.
+Nesse contexto, as razões recursais, sustentando a extinção do processo por abandono de causa, estão deficientemente fundamentadas, o que atrai a incidência da Súmula 284/STF.
+Como quer que seja, a extinção do processo com base no art. 267, IV, do CPC/73 não impõe a aplicação do art. 267, 1º, do CPC/73. A propósito:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. EXTINÇÃO DO FEITO SEM JULGAMENTO DE MÉRITO. AUSÊNCIA DE PRESSUPOSTO PROCESSUAL (FALTA DE CITAÇÃO). INTIMAÇÃO DA PARTE. DESNECESSIDADE. 1. A falta de citação do réu, embora transcorridos cinco anos do ajuizamento da demanda, configura ausência de pressuposto de desenvolvimento válido e regular do processo, ensejando sua extinção sem exame do mérito, hipótese que prescinde de prévia intimação pessoal do autor. 2. Agravo regimental desprovido" (AgRg no REsp 1302160/DF, Rel. Ministro JOÃO OTÁVIO DE NORONHA, 3ª Turam, DJe, 18.2.2016).
+Na espécie, tem-se que a decisão recorrida, a despeito de por fundamento diverso, deu-se de forma consentânea com a pacífica jurisprudência desta Casa, ao extinguir o feito pelo fato de o autor, ora recorrente, não ter procedido ao recolhimento das custas necessárias à citação do requerido réu, apesar de ter sido instado a tanto.
+Tem-se que, diante dos fatos narrados, à pretensão recursal incide o óbice da Súmula 83/STJ.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
