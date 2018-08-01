@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado, com fundamento no art. 105, I, "d", da Constituição Federal, entre o JUÍZO FEDERAL DA 1ª VARA DE GAUIRA - SJ/PR, o suscitante, e o JUÍZO DE DIREITO DE GUAIRA - PR, o suscitado.
+Na origem, constata-se a prisão em flagrante de [NOME] pela prática, em tese, de trafico internacional de drogas e porte de acessório de arma de fogo de uso restrito.
+A Justiça Estadual declinou da competência para analisar o feito e determinou a remessa dos autos à Justiça Federal, nos seguintes termos:
+"(..)
+1. O Delegado de Polícia em ofício nesta Comarca informou a este Juízo a prisão em flagrante de [NOME] pela prática, em tese, dos delitos previstos no artigo 33 da Lei 11.343/2006 e artigo 16 da Lei n. 10.826/03.
+2. Consta dos autos, notadamente dos depoimentos dos policiais militares responsáveis pela ocorrência (mov. 1.3 e 1.4), que, durante patrulhamento pela Rua Luiz Grassman, nesta cidade, avistaram o autuado em situação suspeita e realizaram revista pessoal, mas nada foi encontrado. Porém, segundo o depoimento dos policial, eles solicitaram-lhe que realizassem buscas em sua residência, o que foi por ele permitido, ocasião em que encontraram um tablete e meio de maconha (1,630 kg) e um acessório óptico de pontaria para arma de fogo, tipo luneta, sendo que o flagranteado
+assumiu a propriedade destes, afirmando que a droga apreendida seria para comercialização.
+Ao ser interrogado na Delegacia de Polícia Civil, o flagranteado admitiu ser proprietário da droga e do outro objeto apreendido, declinando, que adquiriu aquela há, aproximadamente, 3 meses, no Paraguai.
+Vê-se, assim, pelo interrogatório prestado pelo conduzido, que a droga teria sido trazida do Paraguai, não havendo nos autos qualquer informação em sentido diverso, ficando, com isso, caracterizada a transnacionalidade do suposto delito, cuja execução em tese se iniciou no estrangeiro e cujo resultado haveria de ser produzido no Brasil.
+A respeito do assunto, o artigo 70 da Lei n.º 11.343/06 dispõe que "O processo e o julgamento dos crimes previstos nos arts. 33 a 37 desta Lei, se caracterizado ilícito transnacional, são da competência da Justiça Federal" Na linha da lição doutrinária de [NOME] "por ilícito transnacional se compreende aquele que transcende o território brasileiro, ou seja, que envolve águas ou solo ou espaço aéreo que vão além do território nacional. Na hipótese de o crime ultrapassar os limites do território brasileiro, será considerado transnacional" (Legislação Criminal Especial Comentada, 2º edição, Editora Juspodivm: 2014, pag.774).
+Ademais, o fato de o caso abranger outra suposta infração, esta em tese de competência desta Justiça Estadual, não afasta a competência da Justiça Federal, a qual, deverá, nesse caso, processar e julgar ambos os fatos, conforme entendimento já consolidado na jurisprudência do Superior Tribunal de Justiça (súmula 122). Neste cenário, a competência para apuração da prática dos delitos perpetrados pelo autuado e, por conseguinte, a homologação do próprio é da Justiça Federal, auto de prisão em flagrante, conforme preza o artigo 109, inciso V, da Constituição Federal.
+3. Destarte, em decorrência da transnacionalidade da infração, reconheço a incompetência deste juízo para a homologação do auto de prisão em flagrante e determino a respectiva e imediata REDISTRIBUIÇÃO do feito à Justiça Federal - Subseção Judiciária de Guaíra" (e-STJ fls. 47-48).
+Por sua vez, o Juízo Federal suscitou o presente conflito ao seguinte entendimento:
+"Denota-se dos fatos narrados nos presentes autos que há indícios de que o indiciado buscou a droga apreendida no Paraguai, restando caracterizado, ao menos sumariamente, o delito de tráfico transnacional de drogas, o que atrai a competência da Justiça Federal, razão pela qual reconheço e firmo a competência deste Juízo Federal de Guaíra-PR para processar e julgar o presente feito e eventual ação penal no que tange ao delito previsto no artigo 33 da Lei 11.343/2006.
+Quanto ao delito de porte de acessório de arma de fogo de uso restrito sem autorização, não vislumbro a conexão com o crime de competência federal, pois a posse do acessório em questão (uma luneta) não gerava qualquer benefício à prática do tráfico.
+Além disso, não há indícios de que tenha o acessório sido adquirido juntamente com a droga, no país vizinho. Assim, suscito conflito negativo de competência, nos termos dos artigos 113 e seguintes do Código de Processo Penal, em relação ao delito previsto no artigo 16 da Lei 10.826/2003.
+Preclusa esta decisão, remeta-se cópia dos autos ao Colendo Superior Tribunal de Justiça" (e-STJ, fls. 77-82).
+Nessa instância, o Ministério Público Federal manifestou-se pelo conhecimento do conflito e pela declaração de competência do Juízo suscitado para julgar o crime de porte de acessório de arma de fogo de uso restrito.
+É o relatório.
+Decido.
+Cumpre registrar, inicialmente, que este conflito negativo de competência deve ser conhecido, porquanto se trata de incidente estabelecido entre juízes vinculados a tribunais diversos, nos termos do art. 105, I, "d", da Constituição Federal, razão pela qual passo ao seu exame.
+Dispõe o art. 109 da Constituição Federal:
+"Art. 109. Aos juízes federais compete processar e julgar:
+(..)
+IV - os crimes políticos e as infrações penais praticadas em detrimento de bens, serviços ou interesse da União ou de suas entidades autárquicas ou empresas públicas, excluídas as contravenções e ressalvada a competência da Justiça Militar e da Justiça Eleitoral."
+Destaca-se, ainda, que a conexão probatória se configura na hipótese em que a prova de uma infração puder, de alguma forma, influir na de outra (art. 76 do CPP).
+No caso, a conduta "tráfico internacional de drogas" não possui elemento conectivo com o crime de "porte ilegal de acessório de arma de fogo de uso restrito" (luneta de precisão).
+Assim, é de se reconhecer, neste momento processual, a inexistência de conexão probatória entre os delitos praticados pelo interessado, de forma que inaplicável, no caso em tela, a Súmula 122/STJ.
+Nesse sentido:
+"PROCESSUAL PENAL. CONFLITO NEGATIVO DE COMPETÊNCIA. CRIME AMBIENTAL E PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. AUSÊNCIA DE CONEXÃO PROCESSUAL. CONCURSO DE CRIMES QUE NÃO IMPLICA NECESSARIAMENTE CONEXÃO. NÃO INCIDÊNCIA DA SÚMULA 122/STJ.
+I - Não obstante a verificação dos crimes tenha ocorrido no mesmo contexto fático, não há elementos para se indicar a existência de conexão processual que atraia a competência da Justiça Federal, nos termos do Enunciado n. 122, da Súmula do Superior Tribunal de Justiça.
+II - A competência para o processamento do crime do art. 16, parágrafo único, IV, da Lei 10.826/03 deve recair sobre a Justiça Estadual, não havendo se falar em prejuízo à instrução com a cisão dos processos, pois a consumação dos crimes imputados se deu em momentos diferentes.
+Conflito conhecido para declarar a competência do d. Juízo de Direito da 2ª Vara de Bocaiúva- MG para apuração do crime previsto no art. 16, parágrafo único, IV, da Lei 10.826/03" (CC 140.649/MG, Rel. Ministro FELIX FISCHER, TERCEIRA SEÇÃO, DJe 09/11/2015 - grifou-se).
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito de Guaira - PR, o suscitado, para processar e julgar o crime de porte ilegal de acessório de arma de fogo de uso restrito.
+Comunique-se. Publique-se.
+Cientifique-se ao Ministério Público Federal e, oportunamente, encaminhem-se os autos ao Juízo competente.
