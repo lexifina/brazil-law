@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "c", da CF, interposto contra acórdão proferido pelo TJSP assim ementado (e-STJ fl. 954):
+SEGURO HABITACIONAL - Interesse da CEF na demanda não configurado, a impedir o deslocamento do feito para a Justiça Federal - Nas ações envolvendo seguros de mútuo habitacional no âmbito do Sistema Financeiro Habitacional - SFH, a Caixa Econômica Federal (CEF) possui; interesse jurídico para ingressar na lide somente nos contratos celebrados de 02.12.1988 a 29.12.2009 e, cumulativamente, quando o instrumento estiver vinculado ao Fundo de Compensação de Variações Salariais - FCVS (apólices públicas, ramo 66) - Manifestação da própria CEF nos autos, negando a presença do segundo requisito no caso em tela - Alegação de ilegitimidade passiva rejeitada - Prescrição verificada em relação a duas autoras, cujos contratos de financiamento aparentemente já estavam quitados há mais de um ano quando do ajuizamento da ação - Contrato de seguro de natureza acessória - Com a extinção dos financiamentos, encerra-se o pagamento dos prêmios e extinguem-se conjuntamente os contratos de seguro - Prescrição ânua da pretensão de re clamar indenização, com termo inicial na data da extinção do contrato principal - Ação improcedente em relação aos demais autores - Inexistência de responsabilidade da seguradora em relação a danos que tenham origem em defeito da construção - Apólices que circunscrevem o risco apenas a danos externos, e não a vícios construtivos ou decorrentes de má-conservação - Recurso dos autores não provido e recurso da ré provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 971/977).
+Em suas razões (e-STJ fls. 980/988), os recorrentes alegam que, "fazendo-se comparativo das conclusões de ambos acórdãos, tem-se que houve divergência de entendimento, um que o acórdão paradigma, concluiu pela cobertura da apólice aos danos e vicios construtivos, ao passo que o acórdão combatido não, ficando demonstrada a divergência jurisprudencial, a ensejar o acolhimento do presente recurso especial" (e-STJ fl. 987).
+Foram apresentadas contrarrazões (e-STJ fls. 1.048/1.057).
+É o relatório.
+Decido.
+O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente, bem como a demonstração do dissídio, mediante o cotejo analítico entre o acórdão recorrido e os paradigmas.
+Contudo, os recorrentes não indicaram o dispositivo legal ao qual teria sido atribuída a suposta interpretação divergente.
+Incide, portanto, a Súmula n. 284/STF. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DO ARTIGO VIOLADO. SÚMULA Nº 284 DO STF. DESPESAS REALIZADAS EM HOSPITAL NÃO CREDENCIADO. SÚMULAS 5 E 7/STJ. RECURSO NÃO PROVIDO.
+1. O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da demonstração analítica do dissídio jurisprudencial, a indicação dos dispositivos supostamente violados ou objeto de interpretação divergente. Súmula 284 do STF.
+(..)
+3. Agravo interno não provido.
+(AgInt no AREsp 1024730/PB, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/08/2017, DJe 21/08/2017.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. ERRO MÉDICO. DANO MORAL. NÃO CABIMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 282/STF. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO.
+(..)
+3. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional, nos termos do art. 541, parágrafo único, do CPC e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não sendo bastante a simples transcrição de ementas sem o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+4. Agravo regimental não provido.
+(AgRg no REsp n. 1.562.730/RS, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 5/4/2016, DJe 12/4/2016.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL - AÇÃO ORDINÁRIA DE REINTEGRAÇÃO DE POSSE - DECISÃO MONOCRÁTICA DA LAVRA DESTE SIGNATÁRIO QUE NEGOU SEGUIMENTO AO RECLAMO ANTE A AUSÊNCIA DE DEMONSTRAÇÃO DO DISSÍDIO JURISPRUDENCIAL NOS MOLDES LEGAIS E EM DECORRÊNCIA DA INCIDÊNCIA DAS SÚMULAS 282 E 356, DO SUPREMO TRIBUNAL FEDERAL, E 5 E 7, DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. IRRESIGNAÇÃO DOS AUTORES.
+1. É assente na jurisprudência desta Corte que a mera transcrição de ementas e excertos, desprovida da realização do necessário cotejo analítico entre os arestos confrontados, a fim de restarem demonstradas a similitude fática e a adoção de teses divergentes, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea "c" do permissivo constitucional. Precedentes.
+1.1. Não se trata de formalismo exacerbado não conhecer das irresignações amparadas na alínea "c" do permissivo constitucional quando não obedecido o que estabelecem os arts. 541, parágrafo único, do CPC, e 255, § 2º, do RISTJ. Precedentes desta Corte e do Supremo Tribunal Federal.
+(..)
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 1.287.223/SC, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/3/2016, DJe 31/3/2016.)
+Ainda que assim não fosse, de acordo com a jurisprudência do STJ, "nos contratos de seguro habitacional obrigatório no âmbito do Sistema Financeiro de Habitação, as seguradoras são responsáveis pelos vícios decorrentes da construção, desde que tal responsabilidade esteja prevista na apólice" (AgInt no REsp n. 1603731/PR, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/10/2016, DJe 18/10/2016). Confira-se a ementa do referido julgado:
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. VÍCIOS CONSTRUTIVOS. INTERESSE DA CAIXA ECONÔMICA FEDERAL. COMPETÊNCIA DA JUSTIÇA FEDERAL. APÓLICE PÚBLICA. GARANTIDA PELO FCVS. SÚMULA 7 DO STJ. VÍCIOS INERENTES À CONSTRUÇÃO. COBERTURA. FALTA DE PREVISÃO. SÚMULAS 5 E 7/STJ. RECURSO NÃO PROVIDO.
+1. O acórdão recorrido alinha-se à jurisprudência desta Corte, pois a Segunda Seção do Superior Tribunal de Justiça, ao julgar os recursos sujeitos aos efeitos do artigo 543-C do CPC (repetitivos), REsp 1.091.363/SC, DJe de 25/05/2009, consolidou o entendimento no sentido de não existir interesse da Caixa Econômica Federal a justificar a formação de litisconsórcio passivo necessário nas causas cujo objeto seja a pretensão resistida à cobertura securitária dos danos oriundos dos vícios de construção do imóvel financiado mediante contrato de mútuo submetido ao Sistema Financeiro da Habitação, quando não afetar o FCVS (Fundo de Compensação de Variações Salariais), sendo, portanto, da Justiça Estadual a competência para processar e julgar o feito.
+2. No caso, o Tribunal de origem consignou que o contrato discutido na demanda refere-se a apólice pública, garantida pelo FCVS, sendo da Justiça Federal a competência para processar e julgar o feito.
+3. O acolhimento da pretensão de que seja reconhecida a ausência de comprometimento do FCVS demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+4. Esta Corte pacificou o entendimento de que, nos contratos de seguro habitacional obrigatório no âmbito do Sistema Financeiro de Habitação, as seguradoras são responsáveis pelos vícios decorrentes da construção, desde que tal responsabilidade esteja prevista na apólice.
+5. Rever a conclusão do acórdão de que a apólice em tela não prevê cobertura de vícios inerentes à construção encontra óbice nas Súmulas 5 e 7/STJ. Precedentes.
+6. Agravo interno não provido.
+Também nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.
+SEGURO. VÍCIOS DE CONSTRUÇÃO. INEXISTÊNCIA DE COBERTURA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. "Esta Corte pacificou o entendimento de que, nos contratos de seguro habitacional obrigatório no âmbito do Sistema Financeiro de Habitação, as seguradoras são responsáveis pelos vícios decorrentes da construção, desde que tal responsabilidade esteja prevista na apólice" (AgInt no REsp n. 1.603.731/PR, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/10/2016, DJe de 18/10/2016).
+2. O recurso especial não comporta exame de questões que impliquem revisão de cláusulas contratuais e revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+3. No caso concreto, o Tribunal de origem examinou a prova dos autos, bem como as cláusulas contratuais, para concluir que o contrato de seguro não compreendia cobertura específica, correspondente aos vícios apontados pelos autores da ação. Alterar esse entendimento é inviável em recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1215427/RS, de minha relatoria, QUARTA TURMA, julgado em 12/06/2018, DJe 19/06/2018.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL E SFH. FINANCIAMENTO IMOBILIÁRIO. VÍCIO DE CONSTRUÇÃO. RESPONSABILIDADE DA SEGURADORA. NECESSIDADE DE PREVISÃO NA APÓLICE. INEXISTÊNCIA.
+APLICAÇÃO DA TEORIA DO RISCO INTEGRAL PELO TRIBUNAL DE ORIGEM. NÃO CABIMENTO. RECURSO NÃO PROVIDO.
+1. No seguro habitacional no âmbito do Sistema Financeiro da Habitação (SFH), as seguradoras, havendo previsão contratual, são responsáveis pelos vícios decorrentes da construção.
+ 2. No caso presente, entendeu o Tribunal de origem que seria aplicável a teoria do risco integral, responsabilizando a seguradora por todo e qualquer dano ocorrente no imóvel, mesmo aqueles não especificados na apólice, razão pela qual o recurso especial foi provido para afastar a determinação de pagamento da indenização securitária em relação aos sinistros não previstos na apólice.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1111823/SC, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/09/2017, DJe 02/10/2017.)
+Na hipótese dos autos, o Tribunal de origem, com base no contexto fático-probatório dos autos, concluiu que "embora tenha o laudo pericial constante dos autos (fls. 539/708), bem elaborado, verificado a existência de danos e vícios construtivos, e a sentença tenha circunscrito a reparação a tais danos, excluindo aqueles meramente estéticos, decorrentes de má-conservação ou sem causa determinada, fato é que nenhum desses vícios se encontra coberto pela apólice de seguro" (e-STJ fl. 963).
+Dessa maneira, a revisão de tal entendimento esbarra no óbice da Súmula n. 7/STJ. A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO SECURITÁRIA - DANOS CONSTRUTIVOS EM IMÓVEL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE RÉ.
+1. Consideram-se preclusas as matérias que, veiculadas no recurso especial e dirimidas na decisão agravada, não são reiteradas no agravo interno. Precedentes.
+2. Com base no princípio da dialeticidade recursal, não se conhece do agravo interno que veicula razões dissociadas dos fundamentos da decisão singular.
+3. A conclusão do acórdão recorrido, quanto à legitimidade ativa, adotada com base exclusivamente nos instrumentos anexos ao contrato de seguro, é insuscetível de reexame em sede de recurso especial, em razão do óbice da Súmula 5/STJ.
+4. Verificar se a apólice do seguro habitacional excluiria de modo válido a cobertura de vícios de construção demandaria na interpretação das cláusulas do ajuste, juízo obstado pelo óbice das Súmulas 5 e 7/STJ.
+5. Agravo interno conhecido em parte e, na extensão, desprovido.
+(AgInt no REsp 1581014/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/05/2018, DJe 28/05/2018.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO SECURITÁRIA. NEGATIVA DE COBERTURA. AUSÊNCIA DE PREVISÃO. APÓLICE. VÍCIOS DE CONSTRUÇÃO. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+1. A Corte local, analisando os fatos e as provas dos autos, asseverou que a demandada não pode ser responsabilizada pelos vícios construtivos alegados na exordial, por não estarem cobertos na apólice securitária, a qual, ainda que seja oriunda de pacto de adesão, possui cláusulas expressas.
+2. Infirmar a conclusão do Tribunal estadual (acerca da abrangência dos danos cobertos no contrato de seguro e da clareza de suas cláusulas) exigiria, indubitavelmente, o revolvimento fático-probatório destes autos, inclusive a interpretação de cláusulas contratuais, o que não se admite no âmbito do recurso especial, ante o disposto nas Súmulas 5 e 7 do STJ.
+3. Agravo interno improvido.
+(AgInt no AREsp 1184189/RS, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 06/03/2018, DJe 13/03/2018.)
+Ante o exposto, NEGO PROVIMENTO ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a gratuidade da justiça na origem, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
