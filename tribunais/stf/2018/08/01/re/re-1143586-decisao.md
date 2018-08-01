@@ -1,0 +1,23 @@
+Decisão:
+    Vistos.
+    Trata-se de recurso extraordinário no qual se alega violação dos artigos 2º, 5º, XXXVI e LIV e 37 da Constituição Federal e da Súmula Vinculante nº 3.
+    Anota-se a ementa do acórdão recorrido:
+    “ADMINISTRATIVO. MANDADO DE SEGURANÇA. PENSÃO POR MORTE. RESTABELECIMENTO DO VALOR DO BENEFÍCIO. POSSIBILIDADE. INOBSERVÂNCIA DO DEVIDO PROCESSO LEGAL. ART. 5º, LIV, CF/88. APELAÇÃO E REMESSA OFICIAL DESPROVIDAS. 1. Apelação e remessa oficial em face de sentença que concedeu a segurança, confirmando os termos da liminar, para determinar que seja restabelecida o valor da pensão anteriormente pago à impetrante, que fora reduzido em função de revisão administrativa efetuada pelo Ministério da Saúde. 2. No caso, a parte impetrante (92 anos) é pensionista de ex-servidor público federal do Ministério da Saúde, desde 2010; em abril/2016, por força de decisão do Tribunal de Contas da União (Acórdão nº 6959/2015 - 1ª Câmara), teve sua pensão reduzida, conforme se observa dos contracheques juntados aos autos. 3. Ainda que a pretexto de cumprir determinação oriunda do TCU, não poderia a Administração revisar o valor da pensão recebida pela apelada, reduzindo de imediato o montante auferido, antes mesmo de a beneficiária apresentar o contraditório e a ampla defesa. 4. A jurisprudência do STJ, seguindo orientação do Pretório Excelso, firmou entendimento no sentido de que a desconstituição da eficácia de qualquer ato administrativo, que repercuta no âmbito dos interesses individuais dos servidores ou administrados, deve ser precedido de instauração de processo administrativo, em obediência aos princípios constitucionais do devido processo legal e da ampla defesa, com todos os recursos a ela inerentes (EAR 3.732/SP, Rel. Ministro FELIX FISCHER, TERCEIRA SEÇÃO, julgado em 27/04/2016, DJe 05/05/2016). 5. Apelação e remessa oficial desprovidas.”
+    Opostos embargos declaratórios, foram desprovidos.
+    Decido.
+    O Plenário do Supremo Tribunal Federal, ao apreciar o Recurso Extraordinário nº 594.296/MG, de minha relatoria, reconheceu a existência da repercussão geral da matéria constitucional versada neste feito.
+    Trata-se da discussão relativa à necessária observância do devido processo legal para a anulação de ato administrativo que tenha repercutido no campo de interesses individuais de servidor público.
+    Em 21 de setembro de 2011, julgado o mérito do recurso, o Plenário desta Corte negou provimento ao mencionado recurso extraordinário em acórdão assim ementado:
+    “RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. EXERCÍCIO DO PODER DE AUTOTUTELA ESTATAL. REVISÃO DE CONTAGEM DE TEMPO DE SERVIÇO E DE QUINQUÊNIOS DE SERVIDORA PÚBLICA. REPERCUSSÃO GERAL RECONHECIDA.
+    1. Ao Estado é facultada a revogação de atos que repute ilegalmente praticados; porém, se de tais atos já decorreram efeitos concretos, seu desfazimento deve ser precedido de regular processo administrativo.
+    2. Ordem de revisão de contagem de tempo de serviço, de cancelamento de quinquênios e de devolução de valores tidos por indevidamente recebidos apenas pode ser imposta ao servidor depois de submetida a questão ao devido processo administrativo, em que se mostra de obrigatória observância o respeito ao princípio do contraditório e da ampla defesa.
+    3. Recurso extraordinário a que se nega provimento”.
+    Mostra-se, então, necessário, proceder-se à compatibilização entre o comando exarado pela Súmula nº 473 do STF, editada sob a égide da Constituição anterior e invocada pelo recorrente, em suas razões recursais, e o direito ao exercício pleno do contraditório e da ampla defesa, garantidos ao cidadão pela norma do art. 5º, inciso LV, de nossa vigente Constituição Federal.
+    No caso presente, a redução do valor da pensão da autora, ora recorrida, inegavelmente influiu em suas esferas de interesses. Indubitável, destarte, que essa retificação que lhes foi imposta deveria ter sido precedida de regular processo administrativo, em que deveriam ter sido respeitados seus direitos ao contraditório e à ampla defesa.
+    Assim decidindo, a Corte de origem ajustou-se à jurisprudência consolidada nesta Suprema Corte a respeito do tema.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso. Ressalte-se, por fim, que não se aplica ao caso dos autos a majoração dos honorários prevista no artigo 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais pela Corte de origem.
+    Publique-se.
+    Brasília, 1º de agosto de 2018.
+Ministro DIAS TOFFOLI
+Relator
+Assinado digitalmente
