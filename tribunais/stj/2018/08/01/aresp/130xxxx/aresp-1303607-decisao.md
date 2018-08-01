@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial, ante a incidência das Súmulas n. 7 e 83 do STJ (e-STJ fls. 185/188).
+O acórdão do TJMS está assim ementado (e-STJ fl. 132):
+EMENTA - APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO. POSSIBILIDADE DE REVISÃO DAS CLÁUSULAS CONTRATUAIS. TARIFA DE CADASTRO. COBRANÇA POR REGISTRO DO CONTRATO. VALIDADE. JULGAMENTO SOBRESTADO. HONORÁRIOS E DESPESAS EXTRAJUDICIAIS. LEGALIDADE. PREQUESTIONAMENTO EXPRESSO. DESNECESSIDADE. RECURSO PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, NÃO PROVIDO.
+O STJ, em sede de recurso repetitivo, decidiu que permanece válida a Tarifa de Cadastro expressamente tipificada em ato normativo padronizador da autoridade monetária, a qual somente pode ser cobrada no início do relacionamento entre o consumidor e a instituição financeira.
+Não tendo a parte autora demonstrado que houve cobrança da TAC - taxa de abertura de crédito, nem havendo previsão contratual expressa prevendo a cobrança da referida exação, mantém-se a sentença atacada que julgou improcedente o pedido de devolução de eventuais valores pagos a título de seu recolhimento.
+Em decisão proferida no REsp n. 1.578.526-SP, submetido ao rito dos recursos repetitivos, determinou-se, no Tribunal Superior, a suspensão dos recursos que tenham por objeto a abusividade da cobrança, em contratos bancários, de serviços prestados por terceiros, registro do contrato ou avaliação do bem dado em garantia.
+O Superior Tribunal de Justiça posiciona-se no sentido de que é válida a previsão contratual de repasse de despesas de cobrança extrajudicial e a incidência dos honorários advocatícios extrajudiciais quando esta obrigação for recíproca, isto é, entre a instituição financeira e o consumidor, todavia, tal cláusula mostra-se abusiva quando esta obrigação só alcança o consumidor.
+Não é necessário o prequestionamento da matéria debatida, se a apreciação das teses da parte autora e da parte requerida foram suficientemente esmiuçadas.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 155/162).
+Nas razões do recurso especial (e-STJ fls. 167/176), interposto com base no art. 105, III, "a", da CF, o recorrente apontou violação:
+(a) do art. 1.022 do CPC/2015, pois a Corte local teria se mantido omissa quanto à tese de ser possível adequar a tarifa de abertura de cadastro exigida nos autos, limitando-a à taxa média de mercado apurada pelo Banco Central (e-STJ fl. 169), uma vez que a simples transcrição da ementa não supriria a decisão da Corte de origem sobre o tema, sendo necessária expressa manifestação para considerar válida a fundamentação usada para manter a cobrança da tarifa acima da média de mercado (e-STJ fl.171), e
+(b) do art. 1.026, § 2º, do CPC/2015, alegando ser indevida a multa aplicada, porque os embargos opostos, a fim de sanar ponto a respeito do qual a Corte local não teria se manifestado, não seriam protelatórios e porque não estaria fundamentada a decisão que aplicou tal penalidade.
+Foram apresentadas contrarrazões (e-STJ fls. 179/183).
+No agravo (e-STJ fls. 192/198), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 201/205).
+É o relatório.
+Decido.
+Com relação à afronta ao art. 1.022 do CPC/2015 (CPC/1973, art. 535), importa esclarecer que os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material.
+O TJMS reconheceu, a partir do entendimento firmado pelo STJ no REsp n. 1.061.530/RS, ser legítima a estipulação da Tarifa de Abertura de Cadastro - TAC no contrato (e-STJ fls. 137/138), reiterando, ao apreciar os aclaratórios, a legalidade da tarifa exigida pelo recorrido, por estar prevista no contrato e não haver demonstração de que seria abusiva, conforme se extrai do trecho a seguir (e-STJ fls. 158/159):
+A toda evidência, constata-se, na hipótese, que não há fundamento algum na tentativa de se rediscutir a legalidade ou não da "tarifa de cadastro", visto que a matéria restou suficientemente esmiuçada no decisum objurgado, como pode-se vislumbrar do trecho que se segue:
+Com efeito, conforme entendimento supramencionado do Superior Tribunal de Justiça "Permanece válida a Tarifa de Cadastro expressamente tipificada em ato normativo padronizador da autoridade monetária, a qual somente pode ser cobrada no início do relacionamento entre o consumidor e a instituição financeira." Vejamos:
+(..)
+De pronto, não há omissão na análise da alegação de que a tarifa cobrada no contrato é abusiva, porquanto a decisão embargada fundamentou-se no entendimento firmado pelo Superior Tribunal de Justiça, o qual expôs expressamente acerca da referida tarifa:
+ ..
+7. A cobrança de tais tarifas (TAC e TEC) é permitida, portanto, se baseada em contratos celebrados até 30.4.2008, ressalvado abuso devidamente comprovado caso a caso, por meio da invocação de parâmetros objetivos de mercado e circunstâncias do caso concreto, não bastando a mera remissão a conceitos jurídicos abstratos ou à convicção subjetiva do magistrado.  .. -f. 138.
+No caso, o valor de R$ 329,77 informado pelo embargante, como sendo a taxa média do Banco Central, não representa qualquer abusividade diante do valor efetivamente cobrado no contrato, qual seja, R$ 400,00, de modo que, seguindo a orientação firmada pelo Superior Tribunal de Justiça, não verifico a existência de omissão.
+Por conseguinte, alega o embargante omissão no julgado quanto à análise da ausência de comprovação de que se trata de tarifa cobrada no início do relacionamento entre o Banco e o consumidor.
+Sem razão o embargante, pois aponta tese contrária àquela exposta na reconvenção apresentada, como pode-se vislumbrar do trecho que segue:
+Logo, ainda que comprovado estar sendo cobrada no início do relacionamento, verifica-se que a quantia cobrada pelo Banco reconvindo está totalmente abusiva, vindo a onerar o reconvinte no que diz respeito à cobrança da Tarifa de Cadastro, onde deveria no máximo ser cobrada a quantia de R$ 329,77. (f. 52)
+Dito isso, no mais, constato que o ora embargante pretende, na verdade, através dos presentes declaratórios, tão só provocar o reexame e prequestionar a matéria exaustivamente debatida no acórdão profligado.
+No caso dos autos, a Justiça local decidiu a matéria controvertida, ainda que contrariamente aos interesses da parte. Não há, portanto, omissão alguma a ser sanada.
+O TJMS assentou que os aclaratórios opostos detinham caráter protelatório, aplicando a penalidade prevista no art. 1.026, § 2º, do CPC/2015, tendo em vista que (e-STJ fls. 161/162):
+Por fim, os embargos se mostram claramente protelatórios, pelo que assim os declaro em atribuo ao embargante a multa de 1 % (um por cento) sobre o valor atualizado da causa, com fulcro no art. 1.026, § 2o2 do NCPC.
+No caso, não estando configurada nenhuma das hipóteses do art. 1022, do Código de Processo Civil de 2015, incabíveis os presentes embargos de declaração.
+A jurisprudência do STJ orientou-se no sentido de que, estando afastada a tese de afronta ao art. 535 do CPC/1973 (CPC/2015, art. 1.022) - por estar completa a prestação jurisdicional e não haver omissão, contradição ou obscuridade na decisão impugnada -, justifica-se a aplicação da multa do art. 538, parágrafo único, do CPC/1973 (CPC/2015, art. 1.026, § 2º), ante o caráter protelatório dos embargos de declaração.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BRASIL TELECOM S.A. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. ART. 538, PARÁGRAFO ÚNICO, DO CPC/1973. AFASTAMENTO DA MULTA. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973 quando o acórdão recorrido analisou todas as questões pertinentes para a solução da lide, pronunciando-se, de forma clara e suficiente, sobre a controvérsia estabelecida nos autos.
+2. A oposição de embargos declaratórios na origem, pretendendo a rediscussão do julgado, inclusive invocando questões expressamente decididas no acórdão embargado, caracteriza o manifesto intuito protelatório, sendo escorreita a aplicação da multa prevista no art. 538, parágrafo único, do CPC/1973.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 910.948/PR, de minha Relatoria, QUARTA TURMA, julgado em 8/11/2016, DJe 16/11/2016.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. NULIDADE DE HIPOTECA CUMULADA COM ADJUDICAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. CARÁTER MANIFESTAMENTE PROTELATÓRIO. APLICAÇÃO DA MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC. ART. 131 DO CPC. LIVRE CONVENCIMENTO MOTIVADO. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA Nº 284/STF.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. Não escapam os recorrentes da imposição da multa de que trata o parágrafo único do art. 538 do Código de Processo Civil ante a oposição de declaratórios de caráter manifestamente protelatório.
+(..)
+6. Agravo regimental não provido.
+(AgRg nos EDcl no REsp n. 1.369.687/RS, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 15/12/2015, DJe 4/2/2016.)
+Nesse contexto, após afastar a tese de ofensa ao art. 1.022 do CPC/2015 e reconhecer o intuito protelatório dos embargos, verifica-se que a Corte de origem, aplicando a multa prevista no art. 1.026, § 2º, do CPC/2015, decidiu em sintonia com a jurisprudência assente no STJ. Incide, portanto, a Súmula n. 83/STJ como óbice ao recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+O recurso especial e o agravo nos próprios autos foram interpostos na vigência do CPC/2015 (e-STJ fls. 163 e 189, respectivamente), sendo-lhes aplicável a disposição inserta no art. 85, § 11, da nova lei processual (conforme orientação emanada do Enunciado n. 7 aprovado no Plenário do STJ em 16/3/2016, segundo a qual somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível arbitrar honorários sucumbenciais recursais, na forma do art. 85, § 11, do CPC/2015).
+Em tal circunstância, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado (e-STJ fl. 141), fazendo-o com fundamento no art. 85, § 11, do CPC/2015, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Estando o recorrente amparado pelos benefícios da gratuidade da justiça, ressalva-se a aplicação do art. 98, §§ 2º e 3º, do CPC/2015.
+Publique-se e intimem-se.
