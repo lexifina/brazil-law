@@ -1,0 +1,9 @@
+DECISÃO
+1. Cuida-se de agravo interposto por ALIMENTOS WILSON LTDA - EM RECUPERAÇÃO JUDICIAL contra decisão que não admitiu o recurso especial manejado em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AGRAVO DE INSTRUMENTO - RECUPERAÇÃO JUDICIAL - Impugnação de crédito - Insurgência contra decisão que julgou improcedente o pedido - Agravante busca o reconhecimento de que parte do crédito do agravado se submeteria à recuperação judicial, porque o atual valor do objeto dado em garantia não seria suficiente para garantir toda dívida decorrente de cédula de crédito bancário, garantida por cessão judiciária, devidamente registrada -
+Crédito imune aos efeitos da recuperação judicial - Exegese do art. 49, § 3º, da Lei 11.101/2005 - Enquanto não consolidada a propriedade em favor do credor fiduciário e apurada a existência de eventual saldo, a garantia deve subsistir em sua totalidade, tornando o crédito garantido integralmente imune à recuperação judicial - Decisão mantida - Recurso improvido
+Nas razões do recurso especial, sustenta afronta aos arts. 41, 45, 49, § 3º, e 83 da Lei nº 11.101/2005, porquanto, "ao determinar a lei que os credores com garantia real terão o valor excedente incluso na classe quirografária, não determina o momento da inclusão", razão pela qual "não há qualquer óbice de que a apuração do valor do bem dado em garantia ocorra antes da alienação do bem ou consolidação da propriedade em favor do credor" - fls. 175-176
+É o relatório.
+DECIDO.
+2. Em face das circunstâncias que envolvem a controvérsia e para melhor exame do objeto dos recursos, com fundamento no artigo 34, inciso VII, do Regimento Interno do Superior Tribunal de Justiça, DOU PROVIMENTO aos agravos para determinar a sua conversão em recurso especial, sem prejuízo de novo exame acerca de seu cabimento, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
