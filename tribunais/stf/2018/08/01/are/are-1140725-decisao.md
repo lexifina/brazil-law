@@ -1,0 +1,23 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da 2ª Turma do Tribunal Regional Federal da 3ª Região, assim ementado:
+    “PROCESSUAL CIVIL. AGRAVO LEGAL. APLICAÇÃO DO ARTIGO 557, CAPUT, DO CPC. AUSÊNCIA DE NOVOS ARGUM NTOS PARA AUTORIZAR A REFORMA DA DECISÃO AGRAVADA.
+    1. A r. decisão impugnada foi proferida em consonância com o disposto no artigo 557, caput, do Código de Processo Civil.
+    2. A parte agravante não apresenta argumentos relevantes que autorizem ou justifiquem a reforma da r. decisão agravada.
+    3. Agravo legal desprovido.”
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário, sustenta-se violação dos artigos 5º, inciso II, e 134, §§ 1º, 2º e 3º, da Constituição Federal.
+    Decido.
+    O Plenário deste Supremo Tribunal Federal, em sessão realizada por meio eletrônico, no exame do RE nº 592.730/RS, Relator o Ministro Menezes Direito, concluiu pela ausência da repercussão geral da matéria constitucional análoga a esse feito. A decisão do Pleno está assim ementada:
+    EMENTA DIREITO PROCESSUAL CIVIL. DEFENSORIA PÚBLICA REPRESENTANDO LITIGANTE VENCEDOR EM DEMANDA AJUIZADA CONTRA O PRÓPRIO ESTADO AO QUAL O REFERIDO ÓRGÃO ESTÁ VINCULADO. HONORÁRIOS ADVOCATÍCIOS. CONDENAÇÃO INCABÍVEL. AUSÊNCIA DE REPERCUSSÃO GERAL (DJe de 21/11/08).
+    Aplicando essa orientação, em casos similares ao dos autos, destacam-se os seguintes precedentes de ambas as Turmas desta Corte:
+    RECURSO EXTRAORDINÁRIO COM AGRAVO (LEI Nº 12.322/2010) CONTROVÉRSIA SUSCITADA NO RE 592.730-RG/RS, REL. MIN. MENEZES DIREITO MATÉRIA A CUJO RESPEITO NÃO SE RECONHECEU A EXISTÊNCIA DE REPERCUSSÃO GERAL RECURSO DE AGRAVO IMPROVIDO (ARE nº 813.710/SC-AgR, Segunda Turma, Relator o Ministro Celso de Mello , DJe de 22/9/14).
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. HONORÁRIOS EM FAVOR DA DEFENSORIA PÚBLICA. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO RE Nº 592.730-RG. OFENSA À CLÁUSULA DE RESERVA DE PLENÁRIO. INOCORRÊNCIA. 1. Os honorários advocatícios em favor da Defensoria Pública, nas demandas ajuizadas contra o próprio ente federativo a que está vinculado o aludido órgão, não revela controvérsia que encerre repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do RE n. 592.730RG, da Relatoria do Min. Menezes Direito, DJe 21/11/2008. 2. A violação ao princípio da reserva de plenário exige que a norma seja declarada inconstitucional ou tenha sua aplicação negada pelo Tribunal de origem, o que não ocorre no caso sub examine, onde a controvérsia foi solucionada com apoio na interpretação conferida pelo Tribunal a quo à norma infraconstitucional que disciplina a matéria. Precedente: AI 783.609-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe de 24/6/2011. 3. In casu, o acórdão extraordinariamente recorrido assentou, in verbis: A Defensoria Pública da União, a despeito de sua autonomia administrativa, configura, apenas, órgão da União, sem personalidade jurídica própria. Assim, quando atuar em face de pessoa jurídica autarquia federal vinculada à mesma pessoa jurídica de direito público a qual pertence, no caso, a União Federal, incabível a condenação dos honorários de sucumbência em relação à mesma, uma vez que restará caracterizada a confusão entre credor e devedor, ocupando ambos os pólos da relação obrigacional estabelecida na sentença, por força do entendimento pacificado da Súmula nº. 421 do Superior Tribunal de Justiça. 4. Agravo regimental DESPROVIDO (ARE nº 757.999/SP-AgR, Primeira Turma, Relator o Ministro Luiz Fux , DJe de 21/8/14).
+    Ainda no mesmo sentido, em casos análogos, as seguintes decisões monocráticas: RE nº 1.056.318/MT, de minha relatoria, DJe de 10/8/17; RE nº 1.015.994/MT, Relator o Ministro Luiz Fux, DJe de 23/2/17; RE nº 987.569/MT, Relator o Ministro Edson Fachin, DJe de 20/2/17; RE nº 1.009.945/MT , Relator o Ministro Marco Aurélio, DJe de 24/11/16; ARE 962.785/RS, Relator o Ministro Gilmar Mendes, DJe de 25/5/16; e ARE 844.194/MT, Relator o Ministro Celso de Mello, DJe de 5/11/14.
+    Registre-se, por fim, que não se aplica ao caso dos autos a majoração dos honorários prevista no artigo 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais pela Corte de origem.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 1º de agosto de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
