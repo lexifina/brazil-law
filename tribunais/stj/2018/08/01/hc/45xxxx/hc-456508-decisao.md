@@ -1,0 +1,18 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. ALTERAÇÃO DA DATA-BASE PARA AQUISIÇÃO DE FUTUROS BENEFÍCIOS. AUSÊNCIA DE PREVISÃO LEGAL SÚMULA 441/STJ. INCIDÊNCIA. PRECEDENTES.
+Ordem concedida nos termos do dispositivo.
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME], apontando-se como autoridade coatora a Terceira Câmara de Direito Criminal do Tribunal de Justiça de São Paulo (Agravo em Execução n. 9000964-45.2017.8.26.0032).
+Infere-se dos autos que o Juízo da 1ª Vara de Execuções Criminais da comarca de Araçatuba/SP, homologando o cálculo de penas, observou o teor da Súmula 441/STJ e não considerou interrompido o lapso temporal pela prática do último delito (PEC n. 725.578).
+Interposto agravo em execução pelo Ministério Público Estadual, o Tribunal paulista deu provimento ao recurso para alterar o termo inicial de contagem de lapso temporal para efeito de livramento condicional, bem como indulto e comutação de penas como sendo da última prisão, nos termos da seguinte ementa (fl. 14):
+AGRAVO EM EXECUÇÃO - Unificação de penas - Impetração visando a reforma da decisão que determinou a elaboração de novo cálculo de penas, tomando como data-base a do cumprimento da última prisão, para efeito de livramento condicional, indulto e comutação de penas - Não aplicação da Súmula n. 441 do STJ - POSSIBILIDADE - Interrupção do lapso temporal pelo último evento, qual seja, o cumprimento do mandado de prisão referente ao último delito, para efeito de livramento condicional, indulto e comutação de penas - Inteligência dos artigos 75, § 2º. do CP, art. 106, § 2º e 111 e parágrafo único, ambos da LEP - Recurso provido.
+Daí o presente writ, em que a Defensoria Pública sustenta não ser razoável a decisão que estabelece o reinício do lapso para obtenção de livramento condicional, comutação e indulto, uma vez que afronta, flagrantemente, o princípio da legalidade, ferindo o direito de liberdade do paciente (fl. 2). Aponta ofensa às Sumulas 441 e 535 do Superior Tribunal de Justiça.
+Requer assim, inclusive em liminar, a concessão da ordem para que seja cassado o acórdão ora impugnado no que tange ao reinício da contagem do prazo para fins de obtenção de benefícios a partir da última infração ou falta grave (fl. 8).
+É o relatório.
+Da análise dos autos, verifico a existência de nítido constrangimento ilegal a ser sanado, o que autoriza a concessão da ordem in limine.
+Ao concluir pelo reinício da contagem do prazo para fins de aquisição dos benefícios acima mencionados, o Tribunal paulista foi de encontro ao entendimento pacífico do Superior Tribunal de Justiça a respeito do tema.
+Com efeito, a jurisprudência desta Corte Superior é no sentido de que o cometimento de falta grave decorrente de novo crime não interrompe o prazo para obtenção do livramento condicional (Súmula n. 411/STJ) e nem para comutação de pena ou indulto (Súmula n. 535/STJ). Nesse sentido o AgRg no HC 386.517/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 12/4/2018; e o HC 438.742/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 12/4/2018.
+Aliás, recentemente, a Terceira Seção do Superior Tribunal de Justiça, no julgamento do HC n. 381.248/MG, de minha relatoria para acórdão (Dje 3/4/2018), passou a manifestar entendimento no sentido de que inexiste respaldo legal para a alteração da data-base a fim da concessão de futuros benefícios na execução em razão da unificação das penas.
+Tal o contexto, concedo a ordem para determinar que a data-base para a concessão de livramento condicional, bem como indulto e comutação de penas, não se altere em decorrência da unificação de penas.
+Comunique-se.
+Publique-se.
