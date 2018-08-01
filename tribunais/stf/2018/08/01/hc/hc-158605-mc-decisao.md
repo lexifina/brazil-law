@@ -1,0 +1,22 @@
+DECISÃO
+EXECUÇÃO PENAL – ARTIGO 105 DA LEI Nº 7.210/1984 – GUIA DE RECOLHIMENTO – EXPEDIÇÃO – PACIENTE NÃO RECOLHIDO – INVIABILIDADE.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Dr. Gustavo Mascarenhas Lacerda Pedrina prestou as seguintes informações:
+    O Juízo da Primeira Vara Criminal da Comarca de Ribeirão das Neves/MG, no processo nº 0231.15.019843-1, condenou o paciente a 4 anos e 8 meses de reclusão, em regime inicial semiaberto, e ao pagamento de 178 dias-multa, pela prática das infrações previstas nos artigos 33, cabeça, combinado com o § 4º (tráfico de entorpecentes com causa de diminuição de pena em razão da primariedade, bons antecedentes, não integração a organização criminosa e ausência de dedicação a atividades ilícitas), da Lei nº 11.343/2006 e 16, parágrafo único, inciso IV (posse ilegal de arma de fogo com numeração suprimida), da Lei nº 10.826/2003.
+    A Sexta Câmara Criminal desproveu apelação da defesa. Determinou, reportando-se ao decidido pelo Pleno no habeas corpus nº 126.292, a execução provisória da pena. O acórdão transitou em julgado em 26 de abril de 2017.
+    Ante a ausência de cumprimento do mandado de prisão, o Juízo suspendeu o processo, aludindo ao artigo 105 da Lei de Execuções Penais.
+    A defesa requereu, perante o Juízo da execução, fosse expedida, independentemente da efetivação da custódia, guia de recolhimento. O pedido foi indeferido.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 412.243. O Relator inadmitiu-o, mas, de ofício, deferiu a ordem para determinar ao Juízo da execução que, considerado o § 2º do artigo 387 do Código de Processo Penal, procedesse à análise da detração do tempo de prisão cautelar para definir o adequado regime inicial de cumprimento da pena.
+    O impetrante assevera que a expedição de guia de recolhimento definitivo somente após a prisão constitui constrangimento ilegal, ressaltando impedir o imediato exame quanto ao implemento de benefícios. Consoante argumenta, o paciente, ao apresentar-se, será recolhido ao regime fechado para, quando houver vaga em estabelecimento próprio, ser transferido para o semiaberto. Sublinha a necessidade de interpretação sistemática dos artigos 105 e 107 da Lei de Execuções Penais em harmonia com o princípio da individualização da pena. Destaca que a decisão do Superior não afasta a possibilidade de o paciente, enquanto não se der o cadastramento da guia de execução, cumprir a sanção em regime mais gravoso.
+    No campo precário e efêmero, requer seja determinado ao Juízo a expedição de guia de execução definitiva, a fim de viabilizar a análise acerca da concessão de benefícios. Sucessivamente, busca a expedição de salvo-conduto para que o paciente possa se apresentar, de imediato, ao Juízo da execução. No mérito, pretende a confirmação da providência.
+    Consulta ao Banco Nacional de Mandados de Prisão, em 26 de julho de 2018, revelou que o relativo ao paciente não foi cumprido. Juntou-se atestado carcerário no qual informado que esteve preso preventivamente por 10 meses, de 18 de abril de 2015 a 18 de fevereiro de 2016.
+    A fase é de apreciação da medida acauteladora.
+    2. Os artigos 105 da Lei de Execuções Penais e 674 do Código de Processo Penal dispõem, em bom vernáculo, que a expedição de guia de recolhimento de execução definitiva constitui providência a ser implementada quando o condenado, após a preclusão maior do título condenatório, estiver ou vier a ser preso.
+    A guia de recolhimento consubstancia instrumento de informação e controle da situação prisional do reeducando no âmbito da execução penal. Não estando o paciente custodiado, descabe cogitar de início da execução e, consequentemente, concessão de benefícios. Ante o quadro, sem que iniciado o cumprimento efetivo da pena, mostra-se imprópria a expedição de guia de recolhimento.
+    Surge inadequado, porém, a colocação do paciente em regime mais gravoso do que o estabelecido pelo Juízo na condenação.
+    3. Defiro a liminar, não nos termos em que postulada, determinando, que, ao dar-se cumprimento à prisão imposta na sentença proferida no processo nº 0231.15.019843-1, da Primeira Vara Criminal da Comarca de Ribeirão das Neves/MG, o paciente seja imediatamente recolhido em estabelecimento condizente com o regime semiaberto ou, na ausência de vaga, em regime prisional mais benéfico.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 1º de agosto de 2018.
+Ministro MARCO AURÉLIO
+Relator.
