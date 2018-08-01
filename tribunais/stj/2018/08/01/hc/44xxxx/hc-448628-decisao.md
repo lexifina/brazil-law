@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, com pedido liminar, impetrado em favor de [NOME], contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no julgamento da Apelação Criminal n. 0022334-82.2017.8.26.0050.
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 8 anos e 4 meses de reclusão, em regime inicial fechado, e 33 dias-multa, pela prática do delitos previstos nos arts. 155, § 4º, I e II; 157, § 2º, I, e 299, caput, todos do Código Penal (e-STJ fls. 12/67).
+Inconformada, a defesa apelou e o Tribunal a quo negou provimento ao recurso, para manter incólume a sentença primeva (e-STJ fls. 68/74).
+Neste writ (e-STJ fls. 1/9), sustenta a impetrante haver constrangimento ilegal na incidência da majorante pelo emprego de arma de fogo, a qual não foi apreendida nem periciada, de forma que não restou demonstrada a sua potencialidade lesiva.
+Por fim, aduz que o regime inicial fechado foi aplicado com base na gravidade abstrata do delito, vulnerando os enunciados das Súmulas n. 440/STJ e 718/STF. Afirma, ainda, que o paciente é primário e a condenação não supera 8 anos de reclusão, razão pela qual faz jus à aplicação de regime inicial mais brando.
+Por isso, requer, liminarmente, a fixação do regime inicial semiaberto e, no mérito, o afastamento da majorante pelo emprego de arma de fogo e a confirmação do pedido liminar.
+O pedido liminar foi indeferido, às e-STJ fls. 80/81 e, por estarem os autos suficientemente instruídos, foi dispensado o envio de informações.
+O Ministério Público Federal, em parecer exarado às e-STJ fls. 86/90, opinou pelo não conhecimento do mandamus.
+É o relatório. Decido.
+De início, o presente habeas corpus não comporta conhecimento, pois impetrado em substituição a recurso próprio. Entretanto, nada impede que, de ofício, seja constatada a existência de ilegalidade que importe em ofensa à liberdade de locomoção do paciente.
+Busca-se, na presente impetração, o reconhecimento da ilegalidade no reconhecimento da majorante pelo emprego de arma de fogo, e a fixação do regime inicial menos gravoso.
+[NOME] incidência da causa de aumento pelo emprego de arma de fogo
+Preliminarmente, cumpre observar que a Terceira Seção deste Superior Tribunal de Justiça, por ocasião do julgamento dos Embargos de Divergência n. 961.863/RS, firmou o entendimento de que é despicienda a apreensão e a perícia da arma de fogo, para a incidência da majorante do § 2º, I, do art. 157 do CP, quando existirem, nos autos, outros elementos de prova que evidenciem a sua utilização no roubo.
+Nesse sentido, os seguintes julgados:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL RECONHECIDA SOMENTE EM AGRAVO REGIMENTAL. ERRO MATERIAL. ÚLTIMO DIA DO PRAZO RECURSAL QUE RECAIU NA SEXTA-FEIRA SANTA. NECESSIDADE DE APRECIAÇÃO DOS ARGUMENTOS DO AGRAVO REGIMENTAL. ROUBO QUALIFICADO (ART. 157, § 2º, I, II, E V, DO CP. OFENSA AO ART. 59 DO CP. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. USO DE ARMA DE FOGO. PALAVRA DAS VÍTIMAS. DESNECESSIDADE DE APREENSÃO E PERÍCIA, QUANDO PRESENTES OUTRAS PROVAS ATESTANDO O USO DO ARTEFATO. SÚMULA 83/STJ. FRAÇÃO DE AUMENTO PELAS MAJORANTES FIXADA ACIMA DO MÍNIMO. EXASPERAÇÃO EM 5/12. POSSIBILIDADE. CIRCUNSTÂNCIAS DO CASO CONCRETO. NÃO INCIDÊNCIA DO ENUNCIADO 443/STJ. EMBARGOS ACOLHIDOS, ATRIBUINDO-LHES EFEITOS INFRINGENTES, PARA O FIM DE DECLARAR A TEMPESTIVIDADE DO RECURSO ESPECIAL, NEGANDO-SE PROVIMENTO AO AGRAVO REGIMENTAL POR OUTROS FUNDAMENTOS.
+ ..
+5. A jurisprudência desta Corte está sedimentada no sentido de que a comprovação do uso de arma de fogo feita por quaisquer meios de prova é suficiente para a configuração da respectiva majorante, sendo dispensável sua apreensão e perícia.
+6. No caso concreto, as vítimas foram uníssonas em atestar o uso de farto armamento na invasão da residência, por diversos agentes, o que se revela suficiente para a incidência da qualificadora. A revisão dessa conclusão, nesta instância especial, encontra óbice na Súmula 7/STJ.
+ ..
+9. Embargos de declaração acolhidos, atribuindo-lhes efeitos infringentes, para o fim de declarar a tempestividade do recurso especial, negando-se provimento ao agravo regimental de ALEX RAMOS JOÃO por outros fundamentos. (EDcl no AgRg no AREsp n. 503.600/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 1º/3/2016, DJe 7/3/2016, grifei)
+HABEAS CORPUS. IMPETRAÇÃO SUBSTITUTIVA DE RECURSO ESPECIAL. IMPROPRIEDADE DA VIA ELEITA. ROUBO CIRCUNSTANCIADO E FALSA IDENTIDADE. CONDENAÇÃO EM SEDE DE APELAÇÃO. EXAME APROFUNDADO DAS PROVAS. IMPOSSIBILIDADE. CAUSA DE AUMENTO. APREENSÃO E PERÍCIA DA ARMA. DESNECESSIDADE. REGIME PRISIONAL. FALTA DE FUNDAMENTAÇÃO. GRAVIDADE ABSTRATA. REGIME SEMIABERTO. SÚMULAS 718 E 719 DO STF. SÚMULA 440 DO STJ. NÃO CONHECIMENTO. ORDEM DE OFÍCIO.
+ ..
+3. A Terceira Seção deste Superior Tribunal de Justiça, por ocasião do julgamento dos Embargos de Divergência n. 961.863/RS, firmou o entendimento de que é prescindível a apreensão e a perícia da arma para a comprovação de seu potencial lesivo, bastando, para a aplicação da causa de aumento, que seja devidamente comprovado o seu emprego para a prática do crime.
+ ..
+6. Writ não conhecido. Ordem concedida de ofício, a fim de a garantir ao paciente o início do desconto da sanção aqui tratada em regime semiaberto. (HC n. 325.107/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 13/10/2015, DJe 3/11/2015)
+Sob essas balizas, ao julgar o apelo defensivo, assim consignou o relator do voto condutor do acórdão no ponto (e-STJ fls. 71/73, destaquei):
+ ..
+A vítima Anderson (proprietário da adega) o reconheceu tanto na Delegacia quanto em Juízo, como autor do delito, com a segurança e certeza necessária. Descreveu que o apelante, portando uma arma de fogo, subtraiu-lhe a quantia que tinha consigo (R$ 300,00), evadindo-se em seguida; posteriormente, acionada a polícia, acabou detido nas proximidades. Na Delegacia, reconheceu os objetos do interior da mochila que ele portava, pertencente à oficina de seu vizinho, que também acionado, reconheceu a res furtiva.
+Assinale-se que em crimes contra o patrimônio a palavra da vítima tem especial importância, principalmente quando, como no caso presente, reconhece o autor sem sombra de dúvida e descreve de maneira coerente a ocorrência do delito.
+ ..
+Igualmente, a ocorrência da causa de aumento de pena pelo emprego de arma de fogo no roubo ficou sobejamente comprovada pela palavra da vítima, de todo irrelevante não tenha havido a apreensão do artefato e, por conseqüência, sua perícia (lembrando-se não ser obrigatória, por se tratar de instrumento de crime, não o próprio crime, ou seu "vestígio" - inteligência do artigo 158 do Código de Processo Penal), o que, conforme jurisprudência do Colendo Superior Tribunal de Justiça, basta para caracterizar a causa de aumento:
+ ..
+Portanto, seria prescindível a apreensão e submissão da arma à perícia, para esse fim. Seguindo forte entendimento jurisprudencial, repita-se, basta a declaração da vítima sobre o emprego de arma para a redução de sua capacidade de resistência e para a subtração dos bens, como ocorreu no caso.
+De rigor, portanto, a manutenção da condenação nos termos estabelecidos em Primeiro Grau.
+Como visto, a falta de apreensão da arma de fogo e a consequente impossibilidade de realização de perícia não afastam a causa de aumento da pena, se presentes outros elementos que demonstrem a sua efetiva utilização no crime de roubo, como na hipótese, em que há a comprovação testemunhal atestando o seu emprego, consubstanciado no depoimento da própria vítima em juízo.
+À vista do exposto, não reconheço nenhuma ilegalidade a ser sanada nesse ponto.
+II. Regime de cumprimento da pena
+No tocante ao resgate da reprimenda, não verifico nenhuma ilegalidade na fixação do regime inicial fechado, porquanto sua aplicação aos condenados a penas superiores a 8 anos de reclusão, como in casu - 8 anos e 4 meses - deriva de expressa previsão legal insculpida no art. 33, § 2º, "a", do CP.
+Assim, as pretensões formuladas pela impetrante encontram óbice na jurisprudência consolidada do Superior Tribunal de Justiça, e na legislação penal, sendo manifestamente improcedentes.
+Ante o exposto, com base no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Publique-se. Intimem-se.
