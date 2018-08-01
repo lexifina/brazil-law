@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo interno interposto por SUL AMÉRICA COMPANHIA DE SEGURO SAÚDE em face de decisão monocrática proferida por este signatário, que, com fundamento no art. 932 do NCPC e na Súmula 568/STJ, negou provimento ao recurso especial.
+Sustenta a parte agravante que, não obstante o reconhecimento da abusividade do índice de reajuste do plano de saúde coletivo, o Tribunal de origem não estaria autorizado a estipular como limite para tanto os índices aplicados aos seguros individuais, dada a natureza distinta dos respectivos regimes jurídicos.
+Sem impugnação (fls. 345).
+É o relatório.
+Decido.
+A agravante possui razão, em parte. A releitura dos autos demonstrou que o acórdão recorrido, da forma como fundamentado, não se atentou à jurisprudência desta Corte Superior que autoriza o reajuste dos planos de saúdes coletivos quando houver, comprovadamente, aumento da mensalidade paga pela empresa mantenedora, seja pela alteração dos custos ou do acréscimo da sinistralidade.
+É preciso, portanto, nova apreciação da controvérsia, considerando preclusa, por ausência de reiteração no agravo interno, a pretensão de execução dos segurado nos mesmos autos desta demanda.
+Trata-se de recurso especial interposto por SUL AMÉRICA COMPANHIA DE SEGURO SAÚDE, fundamentado nas alíneas "a" e "c" do permissivo constitucional, em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 236):
+CUMPRIMENTO DE SENTENÇA. Artigo 31 da Lei nº 9.656/98. Determinação de manutenção do autor e sua dependente no seguro saúde oferecido pela ré. Cobrança de prêmios em atraso nos mesmos autos. Indeferimento.
+Reconvenção inexistente. Obediência ao artigo 128 do CPC.
+Respeito aos limites delineados na exordial. Valor do prêmio.
+Apuração em laudo pericial. Aplicação dos índices voltados aos contratos individuais. Admissibilidade. Interlocutória mantida. AGRAVO DESPROVIDO.
+Em suas razões recursais (fls. 253/272), o recorrente aponta, além de dissídio jurisprudencial, ofensa aos arts. 535, I, 475-O, 475-P do CPC/1973; e 884 do Código Civil.
+Sustenta, em síntese: a) contradição do acórdão recorrido, "vez que nos contratos coletivos, os reajustes não são definidos pela ANS" (fl. 259); e b) nos planos de saúde coletivos, o índice de reajuste não é definido pela Agência Nacional de Saúde Suplementar, como ocorre nos planos individuais, mas pelo própria seguradora, em ajuste com o empregador patrocinador.
+Contrarrazões às fls. 283/286.
+É o relatório.
+Decido.
+A irresignação merece prosperar, em parte.
+1. A contradição que autoriza a oposição de embargos declaratórios, segundo pacífica jurisprudência do STJ, é apenas a interna, traduzida pela incompatibilidade argumentativa entre as premissas e as conclusões do acórdão recorrido.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. 1. OFENSA AO ART. 535 DO CPC.CONTRADIÇÃO INTERNA. OCORRÊNCIA. 2. AGRAVO NÃO PROVIDO.
+1. A contradição interna manifestada pelo descompasso entre os fundamentos adotados pelo acórdão recorrido e sua conclusão consubstancia vício previsto no art. 535 do CPC.
+2. Agravo regimental não provido.
+(AgRg no REsp 1527676/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/02/2016, DJe 01/03/2016)
+Na espécie, o Tribunal de origem reconheceu que a ANS não dispõe sobre critérios de reajuste dos planos de saúde coletivos, mas atestou, ante as circunstâncias da causa, a abusividade dos índices fixados pela seguradora, declarando-os nulos.
+Não há, como se vê, contradição alguma no julgado recorrido.
+2. Na forma da jurisprudência do STJ, é garantido ao trabalhador demitido sem justa causa ou ao aposentado que contribuiu para o plano de saúde em decorrência do vínculo empregatício o direito de manutenção como beneficiário nas mesmas condições de cobertura assistencial de que gozava quando da vigência do contrato de trabalho. Disso decorre que, ao permanecer gozando do benefício do plano de saúde coletivo, sujeita-se às mesmas alterações promovidas no plano de custeio originário, ainda mantido pelo ex-empregador, aí incluídas as regras relativas aos reajustes.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE COLETIVO EMPRESARIAL. TRABALHADOR APOSENTADO. MIGRAÇÃO PARA PLANO NOVO. EXTINÇÃO DO CONTRATO ANTERIOR. LEGALIDADE. REDESENHO DO MODELO DE CONTRIBUIÇÕES PÓS-PAGAMENTO E PRÉ-PAGAMENTO. COBERTURA ASSISTENCIAL PRESERVADA. RAZOABILIDADE DAS ADAPTAÇÕES. EXCEÇÃO DA RUÍNA. CLÁUSULA DE REAJUSTE DE MENSALIDADE POR MUDANÇA DE FAIXA ETÁRIA. ADMISSIBILIDADE. REQUISITOS OBSERVADOS.
+1. É garantido ao trabalhador demitido sem justa causa ou ao aposentado que contribuiu para o plano de saúde em decorrência do vínculo empregatício o direito de manutenção como beneficiário nas mesmas condições de cobertura assistencial de que gozava quando da vigência do contrato de trabalho, desde que assuma o seu pagamento integral (arts. 30 e 31 da Lei nº 9.656/1998). Os valores de contribuição, todavia, poderão variar conforme as alterações promovidas no plano paradigma, sempre em paridade com os que a ex-empregadora tiver que custear.
+2. Mantidos a qualidade e o conteúdo de cobertura assistencial do plano de saúde, não há direito adquirido a modelo de custeio, podendo o estipulante e a operadora redesenharem o sistema para evitar o seu colapso (exceção da ruína), desde que não haja onerosidade excessiva ao consumidor ou a discriminação ao idoso.
+3. A Segunda Seção do Superior Tribunal de Justiça, quando do julgamento do REsp nº 1.280.211/SP, firmou o entendimento de ser, em princípio, idôneo o reajuste de mensalidade de plano de saúde em razão da mudança de faixa etária do participante, pois com o incremento da idade há o aumento de risco de a pessoa vir a necessitar de serviços de assistência médica. Entretanto, para evitar abusividades, devem ser observados alguns parâmetros, como a expressa previsão contratual; não serem aplicados índices de reajuste desarrazoados ou aleatórios, que onerem excessivamente o consumidor, em manifesto confronto com a equidade e a cláusula geral da boa-fé objetiva e da especial proteção do idoso, dado que aumentos elevados sobretudo para essa última categoria poderá, de forma discriminatória, impossibilitar a sua permanência no plano; e serem respeitadas as normas expedidas pelos órgãos governamentais (Resolução CONSU nº 6/98 ou Resolução Normativa nº 63/2003 da ANS).
+4. Agravo regimental não provido.
+(AgRg no AREsp 558.918/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 15/10/2015, DJe 22/10/2015)
+Nada impede, no entanto, que as instâncias ordinárias, de modo fundamentado e diante das peculiaridades da causa, verifiquem eventual abusividade do reajuste aplicado à prestação do plano de saúde coletivo, mas apenas quando o índice utilizado pela seguradora esteja dissociado do aumento dos custos ou da sinistralidade do benefício.
+É esse o sentido da jurisprudência desta Corte Superior, que, atenta às peculiaridades do plano coletivo em face do plano de saúde individual, permite o reajuste do valor das mensalidades quando a prestação ficar mais cara ou se tornar inviável para os padrões da empresa contratante, seja por variação dos custos seja por aumento da sinistralidade.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. CONTRATO COLETIVO. REAJUSTE ABUSIVO. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS E CLÁUSULAS CONTRATUAIS. SUMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Observa-se que não se viabiliza o recurso especial pela indicada violação do artigo 535 do Código de Processo Civil de 1.973. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. O Tribunal de origem, amparado do conjunto fático-probatório dos autos, e cláusulas contratuais, concluiu que a parte recorrente não logrou comprovar o aumento da sinistralidade do grupo a fim de justificar o reajuste na mensalidade do plano de saúde; e reconheceu a abusividade no reajuste do referido plano. Assim, não é possível alterar as conclusões do acórdão recorrido, pois demandaria, necessariamente, reexame de fatos, provas, e cláusulas contratuais, o que é vedado em sede de recurso especial, em razão dos óbices das Súmulas 5 e 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1128422/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28/11/2017, DJe 01/12/2017)
+AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC 2015. NÃO OCORRÊNCIA. PLANO DE SAÚDE COLETIVO. REAJUSTES. ÍNDOLE ABUSIVA. AGRAVO IMPROVIDO.
+1. Não se constata a alegada violação ao art. 1.022 do Novo Código de Processo Civil, na medida em que a Corte de origem examinou os argumentos suscitados na apelação e adotou fundamentação clara e suficiente, decidindo integralmente a controvérsia.
+2. É "possível o reajuste de contratos de saúde coletivos sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, seja por variação de custos ou por aumento de sinistralidade" (AgRg nos EDcl no AREsp 235.553/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 02/06/2015, DJe de 10/06/2015).
+3. Tendo a índole abusiva do reajuste anual do plano de saúde coletivo sido deduzida com base nas provas produzidas nos autos, a revisão de tal conclusão esbarra no óbice da Súmula 7 do Superior Tribunal de Justiça.
+4. Agravo interno improvido.
+(AgInt no REsp 1661574/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 16/11/2017, DJe 23/11/2017)
+Na espécie, conforme se observa do precedente invocado como fundamento do acórdão recorrido, o Tribunal de origem entendeu abusiva a "imposição de reajuste na mensalidade por aumento da sinistralidade", em total descompasso com a jurisprudência desta Corte Superior.
+Diante desse contexto e sem risco de inobservar o enunciados das Súmulas 5 e 7/STJ, a decisão mais adequada ao caso é determinar o retorno dos autos ao Tribunal a quo, onde, se necessário, deverá ser reaberta a instrução com o fim de verificar se as provas apresentadas pela seguradora demonstram compatibilidade entre o índice do reajuste aplicado, a variação dos custos repassados à empresa contratante e o aumento da sinistralidade coberta pelo plano coletivo.
+3. Ante o exposto, com fundamento no art. 932 do NCPC e na Súmula 568/STJ, dou parcial provimento ao recurso especial para determinar o retorno dos autos ao Tribunal de Justiça do Estado de São Paulo, onde a controvérsia deverá ser novamente julgada à luz da jurisprudência desta Corte Superior acima destacada.
+Publique-se.
+Intimem-se.
