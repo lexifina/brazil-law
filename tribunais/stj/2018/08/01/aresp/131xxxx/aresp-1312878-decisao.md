@@ -1,0 +1,12 @@
+DECISÃO
+1. Cuida-se de agravo interposto por COOPERATIVA AGRÍCOLA MISTA DE ADAMANTINA em face de decisão que não admitiu o seu recurso especial.
+2. A irresignação não merece prosperar.
+A parte agravante não rebate, de forma específica, clara e fundamentada, os argumentos da decisão agravada, notadamente os seguintes:
+(a) a assertiva de ofensa a dispositivos constitucionais não serve de suporte à interposição de recurso especial por fugir às hipóteses versadas no art. 105, III e respectivas alíneas, da Constituição da República; e,
+(b) incidência da Súmula 282 do STF, uma vez que as matérias tratadas pelos artigos 48 da Lei 1.101 de 2005, 45, 966, 982, 971 do Código Civil de 2002, referentes aos pressupostos para a obtenção do benefício da recuperação judicial, não foram objeto de debate no acórdão hostilizado - vez que objeto de julgado proferido em anterior recurso (cf. Fls. 1567/1568) -, estando, portanto, ausentes da conclusão adotada, enquanto a matéria atinente à suposta preclusão pro judicato (arts. 471 e 473 do CPC de 1973) também não foi objeto de apreciação no acórdão recorrido, em observância ao princípio do duplo grau de jurisdição (cf. Fls. 1114).
+Essa circunstância obsta, por si só, a pretensão recursal, pois à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida.
+Era esse o entendimento segundo a inteligência do disposto no inciso I, do § 4º, do art. 544 do Código de Processo Civil de 1.973, incluído pela Lei nº 12.322/2010, que tratava da sistemática dos agravos contra os despachos denegatórios dos recursos dirigidos a esta Corte e consigna ser dever do agravante atacar especificamente os fundamentos da decisão agravada, sob pena de não conhecimento de sua irresignação. Nesse sentido: AgRg no Ag 1270282/RS, Rel. Min. Paulo de Tarso Sanseverino, Terceira Turma, DJe 17/02/2012 e AgRg no Ag 1327361/MG, Rel. Ministra Maria Isabel Gallotti, Quarta Turma.
+E continua a ser esse o entendimento na vigência do Novo Código de Processo Civil, ao estipular que o relator não deve conhecer de recurso que não tenha impugnado especificamente os fundamentos da decisão recorrida (art. 932, III, Novo CPC).
+Ressalte-se que o art. 253, parágrafo único, I, do RISTJ também estabelece como ônus do agravante a impugnação a todos os fundamentos da decisão recorrida, sob pena de ver o seu agravo não conhecido.
+3. Ante o exposto, não conheço do agravo.
+Publique-se. Intimem-se.
