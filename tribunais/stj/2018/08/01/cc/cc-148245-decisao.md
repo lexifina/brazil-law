@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo JUÍZO FEDERAL DA 1ª VARA DE SÃO JOSÉ DO RIO PRETO em face do JUÍZO DE DIREITO DA 1ª VARA DE MONTE APRAZÍVEL/SP.
+O Juízo suscitado, ao se manifestar nos autos, declinou de sua competência, invocando, para tanto, os seguintes fundamentos (e-STJ fls. 242/243):
+Os réus estão respondendo por, supostamente, terem cometido o crime de fraude à licitação, por diversas vezes, nos termos do artigo 90 da Lei nº 8.666/93, na forma do artigo 69 do Código Penal.
+Todavia, sabe-se que em outros feitos respondem além deste suposto crime, também, por formação de quadrilha (inclusive em feitos em trâmite na Justiça Federal).
+Não obstante a discussão a respeito da prevenção entre as comarcas de Monte Aprazível e Fernandópolis, a espécie aponta pela competência da Justiça Federal para o processamento e julgamento do feito.
+A Súmula 122 do Superior Tribunal de Justiça é cristalina a respeito:
+"Compete a Justiça Federal o processo e julgamento unificado dos crimes conexos de competência federal e estadual, não se aplicando a regra do artigo 78, II, "A " do Código de Processo Penal. "
+Compulsando os autos, extrai-se que durante as investigações foi apurado que as Prefeituras (supostamente houve fraude a licitação em sessenta e dois municípios paulistas) recebiam recursos do Estado e da União para as devidas contratações após as licitações, em tese, fraudulentas.
+Estabelece o artigo 109, inciso I, da Constituição Federal que:
+"Art. 109. Aos juizes federais compete processar e julgar: I - as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho;" l|
+Ora, se há repasse de verbas de natureza federal é impossível dissociar-se a conexão probatória que as ações guardam entre si, havendo de se observar a orientação materializada na citada súmula 122 do colendo Superior Tribunal de Justiça.
+Ademais, os autos contam com escutas telefônicas que indicam a possível participação de Prefeitos e Parlamentares nos esquemas que o Ministério Público diz fraudulentos, evidenciando-se eventual competência constitucional para o julgamento destes por prerrogativa de foro, o que restará melhor analisado em âmbito da esfera federal.
+Diante o exposto, e em virtude da incompetência material deste Juízo da comarca de Monte Aprazível para o processamento e julgamento da presente ação penal, determino a remessa dos autos a uma das Varas Federais da Subseção da Justiça Federal de Jales - SP.
+O Juízo suscitante, por sua vez, ao propor a instauração do presente incidente, asseverou que "as fraudes nesta ação penal fazem referência a malversação de verbas de origem unicamente estadual, tanto que a denúncia foi oferecida pelo Ministério Público Estadual" (e-STJ fl. 265).
+O Ministério Público Federal manifestou-se pela competência do Juízo suscitado em parecer assim ementado (e-STJ fl. 278):
+PENAL. PROCESSO PENAL. CONFLITO NEGATIVO DE COMPETÊNCIA. FRAUDE EM LICITAÇÕES PARA PAVIMENTAÇÃO ASFALTICA. LESÃO AO PATRIMÔNIO MUNICIPAL E ESTADUAL. AUSÊNCIA DE APORTE DE VERBA FEDERAL A ATRAIR A COMPETÊNCIA DA JUSTIÇA FEDERAL IN CASU. PARECER PELA FIXAÇÃO DA COMPETÊNCIA DO JUÍZO SUSCITADO.
+É, em síntese, o relatório.
+Cuida-se de incidente instaurado entre Juízes vinculados a Tribunais diversos, razão pela qual, nos termos do art. 105, I, d, da Constituição Federal, conheço do conflito.
+Os crimes que são objeto do presente incidente referem-se a supostas fraudes em licitações (art. 90 da Lei n. 8.666/93) realizadas no âmbito do município de Monte Aprazível/SP.
+O Juízo suscitado, ao declinar a competência, fez referência ao aporte de recursos federais nos referidos procedimentos.
+Contudo, como bem destacado pelo presentante do Parquet Federal, não há indícios de que tenha havido repasse de verbas federais, circunstância que, uma vez verificada, atrairia a competência da Justiça Federal, conforme remansosa jurisprudência desta Corte:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. PENAL E PROCESSO PENAL. FRAUDE EM LICITAÇÃO E DESVIO DE RECURSO PÚBLICO MUNICIPAL.
+INEXISTÊNCIA DE INDÍCIOS DE QUE OS FATOS INVESTIGADOS NAS AÇÕES PENAIS POSSUEM VINCULAÇÃO COM VERBAS FEDERAIS. COMPETÊNCIA DA JUSTIÇA ESTADUAL. PRECEDENTES. AGRAVO REGIMENTAL IMPROVIDO. 1. A inicial acusatória narra delitos relacionados à prática de fraudes em licitações e desvios de recursos municipais, não se verificando, neste momento processual, a vinculação com verbas federais.
+2. A inexistência de indícios de fluxo de valores entre as empresas objeto das ações penais e as empresas contratadas com recursos federais, assim como a ausência de indicativos de conexão entre tais fatos, impedem a fixação da competência da Justiça Federal.
+3. Agravo regimental improvido.
+(AgRg no CC 151.623/BA, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 11/10/2017, DJe 18/10/2017)
+Com efeito, a ausência de repasse de verbas federais ficou evidenciada na manifestação do Procurador da República atuante em São José do Rio Preto. Confira-se (e-STJ fls. 260/261):
+Em síntese, versa a denúncia sobre 16 certames licitatórios realizados pelo Município de Monte Aprazível, no período de 2008 a 2012, com grandes indicativos de fraude. Dos 16 certames, nenhum possui aporte de verba federal, não justificando portanto o declínio da competência. Ora, os 16 certames descritos na denúncia tiveram como base de pagamento recursos da própria prefeitura ou de órgãos do governo estadual, como a Secretaria de Economia e Planejamento.
+O simples fato do GRUPO de empresas que participou das fraudes narradas na denúncia, eventualmente, também poder ter fraudado outras licitações com repasse de verba federal não é por si só causa para o declínio da competência de julgar a presente ação.
+Ora, desde o início, as investigações da atuação deste GRUPO, conhecido como GRUPO DEMOP/SCAMATTI, foi feita com base na parceria de órgãos estaduais e federais, sem que a competência fosse unificada.
+Assim foi criada a força tarefa entre MINISTÉRIO PÚBLICO FEDERAL, MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO (GAECO) e POLÍCIA FEDERAL para acompanhar as investigações.
+Sabe-se que inicialmente cada uma das entidades integrantes da Força-Tarefa possuía um procedimento próprio destinado a apuração dos mencionados fatos delituosos. No MINISTÉRIO PÚBLICO FEDERAL havia a Operação "Ouro Negro " , no MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO existia a Operação "Asfalto Limpo " e na POLÍCIA FEDERAL, por sua vez, havia a Operação "Betume " , sendo que, após a oficialização da Força- Tarefa, as 3 (três) operações foram fundidas dando origem à Operação "Fratelli", fato que viabilizou a deflagração de operações distintas, mas de forma conjunta.
+Após a deflagração, ocorrida em 2013, colhidas as provas de interesse comum e outras de interesse específico de cada ente participante da união de esforços, os processos penais passam a ser tratados separadamente, ficando a iniciativa penal a cargo de cada um dos respectivos Ministérios Públicos.
+No âmbito federal, ficaram as apurações das fraudes relacionados ao aporte de recursos de origem federal, provenientes de repasse dos Ministérios da União, como o Ministério do Turismo e do Ministério das Cidades.
+Por outro lado, no âmbito estadual, restaram as apurações, onde as fraudes tinham como objeto verbas com origem estadual e municipal.
+Em decorrência disto foram deferidas quebras de sigilo, bem como outras medidas preventivas em ambas as esferas de atuação, existindo ações em trâmite tanto na Justiça Federal como na Estadual, respeitando-se a especificidade do bem jurídico tutelado.
+Não é diferente do que ocorre no presente caso, onde a apuração permaneceu no Ministério Público Estadual, que inclusive foi o autos da denúncia, justamente porque os fatos referiam-se tão somente à malversação de verbas de origem estadual e municipal.
+Ante o exposto, conheço do conflito e dou por competente o Juízo suscitado.
+Publique-se. Intime-se.
