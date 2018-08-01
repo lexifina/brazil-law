@@ -1,0 +1,27 @@
+DECISÃO
+1. Cuida-se de agravo em recurso especial interposto por [NOME] e TAMIRES DA COSTA, em face de decisão que negou seguimento ao seu apelo extremo, interposto com fulcro no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+COMPRA E VENDA - RESCISÃO CONTRATUAL - Relação de consumo - Partes que se adequam aos conceitos de fornecedor e consumidor, presentes no artigo 2º e 3* do CDC. Ilegitimidade passiva para restituição da taxa de corretagem - Questão já decidida em sede de agravo de instrumento interposto nestes autos - Preclusão. Resolução por iniciativa dos compradores - Devolução das quantias adimplidas - Percentual de devolução em K0% que se mostra adequado à hipótese - Posição reiterada deste E. Tribunal, que estabelece a retenção de apenas 20% como sendo razoável - Afastamento do enriquecimento sem causa - Inteligência das súmulas 1 e 2 desta Corte. Juros de mora afastados de ofício - Consectário legal que pressupõe mora da ré. Restituição das taxas de comissão Abusividade da cobrança- Aplicação dos Temas 938 e 939 do STJ. Apelo parcialmente provido. (fl. 264)
+Em suas razões de recurso especial, a recorrente aponta ofensa ao disposto nos arts. 389, 406 e 407, do Código Civil, 322, §1º e 491 do CPC/2015, bem como dissídio jurisprudencial. Sustenta, em síntese, que seriam devidos juros de mora sobre os valores a serem restituídos pela Construtora, ora recorrida, em razão da rescisão da promessa de compra e venda por culpa do promitente-comprador. Defende, ainda, que os juros de mora deveriam incidir desde a citação.
+DECIDO.
+2. O Tribunal de origem afastou a possibilidade de incidência de juros de mora sobre os valores a serem restituídos ao promitente-comprador, sob a seguinte fundamentação:
+Ainda, a devolução deverá ser feita de forma única, não se admitindo parcelamento, consoante o que dispõe a Súmula nº 2 deste E. Tribunal:
+"A devolução das quantias pagas em contrato de compromisso de compra e venda de imóvel deve ser feita de uma só vez, não se sujeitando à forma de parcelamento prevista para a aquisição." (grifo nosso).
+O acima exposto obedece a Súmula 543 do Superior
+Tribunal de Justiça, conforme segue:
+"Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento".
+Por fim, por se tratar de consectário legal e, portanto, passível de conhecimento de ofício, descabida a imposição de juros moratórios sobre o quantum a ser devolvido pela ré, tendo em vista que resolução contratual se deu em decorrência de iniciativa exclusiva dos autores. Desta forma, incidirá apenas a correção monetária sobre o importe ser restituído, a partir da data do desembolso. (fl. 268).
+Todavia, esse entendimento diverge da jurisprudência sedimentada neste Sodalício, no sentido de que na hipótese de rescisão do contrato de promessa de compra e venda de imóvel por iniciativa dos compradores, os juros de mora devem incidir a partir do trânsito em julgado.
+É o que se depreende dos seguintes julgados:
+DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL C/C PEDIDO DE REVISÃO DE CLÁUSULAS CONTRATUAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CLÁUSULA PENAL COMPENSATÓRIA. ARRAS. NATUREZA INDENIZATÓRIA. CUMULAÇÃO. INADMISSIBILIDADE. PREVALÊNCIA DAS ARRAS. JUROS DE MORA. TERMO INICIAL. TRÂNSITO EM JULGADO.
+ ..
+9. Os juros moratórios, na hipótese de resolução do compromisso de compra e venda de imóvel por iniciativa dos promitentes compradores, devem incidir a partir da data do trânsito em julgado, posto que inexiste mora anterior do promitente vendedor. Precedentes.
+10. Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido. (REsp 1617652/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 26/09/2017, DJe 29/09/2017)
+____________
+CIVIL E PROCESSUAL. CONTRATO DE PROMESSA DE COMPRA E VENDA. RESOLUÇÃO UNILATERAL PELO PROMITENTE- COMPRADOR INJUSTIFICADAMENTE. PARCELA A SER RESTITUÍDA. JUROS MORATÓRIOS. TERMO DE FLUIÇÃO. TRÂNSITO EM JULGADO.
+I. Na hipótese de resolução contratual do compromisso de compra e venda por simples desistência dos adquirentes, em que postulada, pelos autores, a restituição das parcelas pagas de forma diversa da cláusula penal convencionada, os juros moratórios sobre as mesmas serão computados a partir do trânsito em julgado da decisão.
+II. Inexistência de mora anterior da ré.
+III. Recurso especial conhecido e provido. (REsp 1008610/RJ, Rel. Ministro ALDIR PASSARINHO JUNIOR, SEGUNDA SEÇÃO, julgado em 26/03/2008, DJe 03/09/2008) original sem grifos
+____________
+3. Portanto, merece parcial acolhida a insurgência do agravante no tocante a incidência dos juros de mora. Isso porque, ao contrário do defendido pela parte, tais juros incidem somente a partir do trânsito em julgado e não da citação.
+4. Ante o exposto, conheço do agravo para dar parcial provimento ao recurso, a fim de determinar a incidência de juros de mora sobre a devolução dos valores ao promitente-comprador, em decorrência da rescisão contratual, os quais devem incidir a partir do trânsito em julgado.
+Publique-se. Intimem-se.
