@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo de [NOME] OUTROS contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - AÇÃO DE RESPONSABILIDADE SECURITÁRIA - COMPETÊNCIA DECLINADA À JUSTIÇA FEDERAL - CAIXA ECONÔMICA FEDERAL QUE COMPROVOU O COMPROMETIMENTO DO FCVS POR MEIO DE PROVA DOCUMENTAL CONFORME ENTENDIMENTO DO STJ - DECISÃO MANTIDA RECURSO DESPROVIDO
+Os embargos de declaração opostos foram rejeitados (fls. 1.099-1.104, e-STJ).
+Nas razões de recurso especial, alegam os ora agravantes divergência jurisprudencial e violação do artigo 50 do Código de Processo Civil de 1973.
+Sustentam a manutenção da competência da Justiça Estadual para processar e julgar o feito tendo somente a seguradora no polo passivo ou alternativamente que CEF integre a lide na qualidade de assistente simples.
+Argumenta que inexiste relação jurídica entre os mutuários e a CEF e, caso admitida como assistente simples, deve provar que efetivamente haverá um comprometimento dos recursos do FCVS quando do pagamento das indenizações.
+Apresentadas contrarrazões pela parte contrária (fls. 1.344-1.355, e-STJ), pugnando pelo não provimento do recurso.
+O recurso especial não foi admitido na origem, nos termos da decisão de fls. 1.359-1.361, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, cumpre destacar que a decisão recorrida foi publicada antes da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016, desta Corte.
+De início, anoto que os agravantes são beneficiários da justiça gratuita, conforme de verifica do despacho de fl. 243, e-STJ, o que vale para todas as instâncias.
+Versam os autos ação de responsabilidade obrigacional securitária de cobertura ou não de apólice de seguro habitacional - ramo 66 - dos danos físicos verificados no imóvel adquirido pelos agravantes.
+O Tribunal de origem determinou a remessa dos autos à Justiça Federal trilhando na mesma orientação jurisprudencial desta Corte já que a Caixa Econômica Federal no caso concreto comprovou documentalmente que os contratos se referem à apólice pública, bem como apresentou balanço que demonstra que as ações dessa natureza comprometem o FCVS.
+Assim, o acórdão recorrido sobrelevou a necessidade de intervenção da Caixa Econômica Federal nessa ação, encampando os documentos apresentados que denotam comprometimento do FCVS. No Juízo da Justiça Federal será definido o concreto interesse da CEF com a competência para o julgamento da causa.
+Invoco, por oportuno, a Súmula 150 do STJ em casos similares. A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - SEGURO HABITACIONAL - MANIFESTAÇÃO DE INTERESSE JURÍDICO DA CAIXA ECONÔMICA FEDERAL - COMPETÊNCIA DA JUSTIÇA FEDERAL - APLICAÇÃO DA SÚMULA Nº 150 DO STJ - PRECEDENTES DO STJ - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+IRRESIGNAÇÃO DA PARTE AUTORA.
+1. Apresentada manifestação de interesse da Caixa Econômica Federal no deslinde do feito, em obediência ao enunciado contido na Súmula 150 do STJ, compete à justiça federal decidir sobre a existência do interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas. Precedentes desta Corte Superior.
+2. Para a fixação da competência dos juizados especiais federais, nos termos do art. 3º, caput e § 3º, da Lei 10.259/01, em caso de litisconsórcio facultativo ativo, deve ser levado em consideração o valor pleiteado de maneira individual por cada autor, ou seja, dividindo-se o valor atribuído à causa pelo número de demandantes, sendo irrelevante se a soma desses valores ultrapassa o limite de sessenta salários mínimos, estabelecido em lei. Precedentes.
+3. Agravo interno desprovido. (AgInt no REsp 1632226/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/4/2018, DJe 26/4/2018)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO HABITACIONAL. LEI 12.409/2011. SÚMULA 150 DO STJ. CONTRADIÇÃO. NÃO OCORRÊNCIA. REJEIÇÃO.
+1. A superveniência da Medida Provisória 513/2010, convertida na Lei 12.409/2011, estabelecendo que a CEF irá representar judicial e extrajudicialmente o Fundo de Compensação de Variações Salariais (FCVS), faz incidir o enunciado de Súmula 150 do STJ, dado que somente a Justiça Federal poderá manifestar-se definitivamente sobre a sua própria competência.
+2. A contradição que rende ensejo à oposição de embargos de declaração é aquela interna do julgado, somente se verificando, pois, quando no contexto do próprio acórdão embargado estejam contidas proposições inconciliáveis entre si, dificultando-lhe a compreensão, o que não ocorre no presente caso.
+3. Embargos de declaração rejeitados. (EDcl no AgInt no AREsp 441.830/PR, de minha Relaroria, QUARTA TURMA, julgado em 5/12/2017, DJe 14/12/2017)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESPONSABILIDADE SECURITÁRIA. SISTEMA FINANCEIRO DE HABITAÇÃO. INTERESSE JURÍDICO DA CAIXA ECONÔMICA FEDERAL. COMPETÊNCIA DA JUSTIÇA FEDERAL. SÚMULA 150/STJ. AGRAVO IMPROVIDO.
+1. Nos termos da Súmula 150/STJ, compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas.
+2. Agravo interno a que se nega provimento. (AgInt no REsp 1681057/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 03/05/2018, DJe 09/05/2018)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. COMPETÊNCIA. SEGURO HABITACIONAL. FCVS. APLICAÇÃO DO ENUNCIADO 150/STJ.
+1. "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça." Enunciado administrativo n. 2/STJ. Inaplicabilidade do art. 1.025 do CPC/2015. Prequestionamento inexistente.
+2. Efetiva atração do enunciado 7/STJ, não se estando diante de revaloração de fatos, mas de pedido de verificação das provas acostadas.
+3. Aplicação do enunciado 150/STJ. Não é de competência do órgão recursal de 2ª instância federal o exame do interesse da CEF, não se podendo, ainda, submeter à Justiça Federal feito sentenciado pela Justiça Estadual. Sentença desconstituída de ofício, determinando-se o envio ao Juízo Federal de primeiro grau competente para o exame do interesse da CEF.
+4. AGRAVO INTERNO DESPROVIDO. (AgInt no REsp 1472413/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 21/09/2017, DJe 29/09/2017)
+Acrescento que a revisão do real interesse da CEF assentado pelo acórdão recorrido, exigiria o reexame de matéria fático-probatória, o que é vedado em recurso especial, a teor do óbice da Súmula 7 do STJ. Confiram-se os termos do voto-condutor:
+Assim, da análise dos presentes autos, extrai-se que a Caixa Econômica Federal se manifestou às fls. 723/728, informando que os contratos discutidos nos presentes autos referem-se à apólice pública, bem como apresentou o balanço que demonstra que as ações dessa natureza comprometem efetivamente o FCVS.
+In casu, sendo as apólices vinculadas ao ramo público e havendo efetivo comprometimento do FCVS, é de se reconhecer a competência da Justiça Federal para processar e julgar a ação originária. Neste ínterim, é de se manter a decisão agravada que determinou remessa dos autos à Justiça Federal.
+Sobre o tema, registro também o decidido no AREsp 1.608.790/RS:
+O fato de se reconhecer o ingresso da CEF como assistente simples não poderá afastar a competência da Justiça Federal em havendo um ente público federal na causa, na forma do art. 109, inciso I, da CF. Cumprirá à Justiça Federal dizer definitivamente do interesse da CEF e dos atos já realizados que deverão ser preservados. Inexiste, assim, a demonstração concreta de qualquer afronta ao art. 50 do CPC/73 (AREsp 1608790/RS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe 20/6/2018)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
