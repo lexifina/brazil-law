@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME], contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (HC n.º 1.0000 17.093811-2/000).
+Consta dos autos que o recorrente foi preso preventivamente, em 02/10/2016, pelo suposto cometimento do crime previsto no art. 157, §2º, I e II, do Código Penal, sendo a custódia convertida em preventiva, nos termos abaixo (fls. 196/197):
+A prisão, analisada pelos aspectos legais, não comporta aqui oportunidade para o relaxamento ou para a concessão de liberdade provisória. No caso em tela, o Autuado é reincidente em crimes contra o patrimônio ostentando condenação penal pela prática delitiva de furto. Ademais tem-se que as circunstâncias do crime são graves, tendo a subtração do celular se efetivado mediante concurso de agentes e com emprego de uma faca que foi apontada para a barriga da vítima, acarretando efetivo risco a sua integridade física a revelar a gravidade concreta do delito. Destarte, inadequada insuficiente a aplicação de medidas cautelares diversas da prisão preventiva, que se faz necessária para a garantia da ordem pública, vulnerabilizada com sua reiteração delitiva específica. Assim, nos termos do art. 310, II, e presentes os requisitos do art. 312 c/c art. 313,1 e II, todos do CPP, CONVERTO A PRISÃO EM FLAGRANTE de [NOME] DA [NOME] ALMEIDA EM PRISÃO PREVENTIVA
+Encerrada a instrução, o juízo da 3ª Vara Criminal de Belo Horizonte/MG proferiu sentença condenando o recorrente à pena de 5 anos e 6 meses de reclusão, em regime inicial semiaberto, e ao pagamento de 13 dias-multa, pela prática do delito descrito no art. 157, § 2º, I e II, do Código Penal (fls. 13/21). Foi-lhe vedado o apelo em liberdade, a teor dos seguintes fundamentos (fl. 194):
+Com relação à prisão dos réus, em atendimento ao disposto no art. 387, §1º, do CPP, registro que os sentenciados deverão continuar presos, porque assim permaneceram durante toda a instrução do processo, conforme orientação da Súmula 07 do TJMG, e porque ainda presentes os motivos que determinaram as suas segregações cautelares, não havendo, desde então, qualquer modificação fática ou jurídica que lhes beneficie. Ademais, os registros da CAC e FAC de Agno apontam para a reiteração delitiva. Assim, as suas custódias preventivas ainda são necessárias, como garantia da ordem pública. Recomendem-nos na prisão em que se encontram.
+Inconformada, a Defesa impetrou habeas corpus perante a Corte de origem, que denegou a ordem, em acórdão assim ementado:
+HABEAS CORPUS - ROUBO MAJORADO - NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE - TESE DE CARÊNCIA DE FUNDAMENTAÇÃO E AUSÊNCIA DOS REQUISITOS DA PRISÃO PREVENTIVA - MANTIDOS OS MOTIVOS DA SEGREGAÇÃO CAUTELAR - MOTIVAÇÃO PER RELATIONEM - POSSIBILIDADE - PRESENÇA DOS PRESSUPOSTOS E REQUISITOS DOS ARTIGOS 312 E SEGUINTES DO CPP - GARANTIA DA ORDEM PÚBLICA - GRAVIDADE CONCRETA DA CONDUTA - DENEGADA A ORDEM.
+- Tendo o réu permanecido preso durante todo o processo, a sua manutenção no cárcere é a regra.
+- Ao ressaltar que os motivos da segregação cautelar se mantiveram, o Juízo singular acaba por fazer remissão a outra manifestação constante dos autos, valendo-se da denominada motivação per relationem, técnica essa que, embora não recomendável, é plenamente admitida pelo Poder Judiciário.
+- Demonstrada a existência de indícios de autoria e materialidade delitiva, a prisão preventiva deve ser decretada, nos termos do art. 312 do CPP, se houver necessidade cautelar (fl. 138).
+No presente recurso, alega o recorrente, em síntese, que "a prisão cautelar (..) no presente caso, se mostra desproporcional, quando se verifica a possibilidade fixação de regime diverso do atual, conforme o direito sumulado por nossas Cortes Superiores (Súmulas 718 e 719/STF e 440/STJ), e permissão do recurso em liberdade" (fl. 163).
+Invoca os princípios da proporcionalidade e da homogeneidade das medidas cautelares, que "vedam seja aplicada prisão cautelar, em casos com prognósticos de que a pena ao final aplicada seja menos grave que o regime dessa cautelar" (fl. 163).
+Requer:
+a) liminarmente, a concessão da ordem, para permitir que (..) aguarde solto o julgamento da impetração, determinando a imediata expedição de salvo conduto;
+b) no mérito, a concessão da ordem para declarar desproporcional a medida cautelar em relação ao regime semiaberto, nos moldes acima formulados e determinar a expedição do alvará de soltura, permitindo que (..) se defenda solto até o transito em julgado da sentença e de eventuais recursos às Cortes Superiores (fl. 165).
+A liminar foi indeferida às fls. 174/176.
+Foram prestadas informações às fls. 184/226.
+Com vista dos autos, manifestou-se o Ministério Público Federal, em parecer da lavra do Subprocurador-Geral [NOME], pelo improvimento do recurso (fls. 228/235).
+Em consulta ao sítio eletrônico do Tribunal de Justiça do Estado de Minas Gerais, verifica-se que a apelação criminal já foi julgada e baixada à Vara de origem.
+É o relatório.
+Decido.
+Busca-se nesta impetração a liberdade do recorrente, sob a alegação de ausência de fundamentação idônea na sentença condenatória para a mantença da prisão cautelar.
+Contudo, notícias advindas aos autos dão conta de que o apelo defensivo foi julgado em 24.4.2018, sendo dado parcial provimento ao recurso (fls. 224/225).
+Nesse contexto, diante da alteração na realidade fática dos autos, forçoso reconhecer encontrar-se superada a discussão sobre a idoneidade dos fundamentos utilizados para a custódia cautelar do paciente. Nesse sentido, confira-se o seguinte precedente:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. SUPERVENIÊNCIA DE JULGAMENTO DA APELAÇÃO. NOVO TÍTULO JUDICIAL. JUÍZO DE COGNIÇÃO MAIS AMPLO. WRIT PREJUDICADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Com a superveniência do julgamento da apelação, fica prejudicado o writ anteriormente impetrado, uma vez que a medida, a partir de então, tem novo título judicial que alterou o cenário fático-processual.
+2. A decisão agravada, que julgou prejudicado o habeas corpus, por perda de objeto, não merece reparos, porquanto proferida em consonância com a jurisprudência desta Corte Superior.
+3. Agravo Regimental improvido."
+(AgRg no RHC 40.342/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/10/2015, DJe 05/11/2015)
+De fato, o encarceramento cautelar do acusado, agora, não mais decorre de decisão emanada pelo juízo de primeiro grau, mas sim do próprio esgotamento da segunda instância, a incidir na hipótese o entendimento do Supremo Tribunal Federal, o qual admite que, após o exaurimento da instância ordinária, as decisões que confirmem condenações criminais possam ser executada de imediato (HC n.º 126.292, Rel. Min. Teori Zavascki, Plenário, julgado em 17.02.2016, e medidas cautelares nas ações diretas de constitucionalidade n.º 43 e n.º 44).
+Dessarte, constata-se que o objeto deste writ encontra-se esvaído.
+Ante o exposto, com base no artigo 659 do Código de Processo Penal e no artigo 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus pela perda do seu objeto.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Sem recurso, devolvam-se os autos à origem.
