@@ -1,0 +1,17 @@
+Decisão
+    Trata-se de Agravo de decisão que inadmitiu Recurso Extraordinário interposto em face de acórdão proferido pela Quarta Turma Recursal dos Juizados Especiais do Estado do Paraná.
+    No apelo extremo, interposto com amparo no art. 102, III, da Constituição Federal, a parte recorrente sustenta que o art. 40, § 18, e o art. 150, II, da Constituição Federal foram violados.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+    Dessa forma, não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+    Ademais, o Juízo de origem entendeu que a aposentadoria e a pensão previdenciária são benefícios autônomos, sendo ilegítima a imposição da contribuição previdenciária sobre a soma de ambos.
+    Por seu turno, o Recurso Extraordinário defende que, quando há acúmulo de benefícios previdenciários, devem-se somar os valores percebidos para verificar se a parcela dos proventos excede o teto de pagamento de benefícios do RGPS (art. 40, §18, CF/88).
+    A solução dessa controvérsia, portanto, depende da análise da legislação local, Lei Estadual 17.435/2012, que rege a controvérsia em tela, o que é incabível em Recurso Extraordinário, conforme consubstanciado na Súmula 280/STF: Por ofensa a direito local não cabe recurso extraordinário.
+    Nesse sentido: ARE 975729, Relator(a): Min. DIAS TOFFOLI, DJe 30/06/2016; ARE 1075946, Relator(a): Min. EDSON FACHIN, DJe 18/06/2018.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO EM RECURSO EXTRAORDINÁRIO.
+    Publique-se.
+    Brasília, 1º de agosto de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
