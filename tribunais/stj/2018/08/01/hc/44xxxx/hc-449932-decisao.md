@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de REGIS SOARES REZENDE, apontando-se como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o Juízo das Execuções Penais deferiu ao paciente a progressão ao regime semiaberto, em 5/12/2017 (fl. 15).
+Elaborados novos cálculos de liquidação da pena, o Juízo de 1º grau considerou como data-base para cálculo de novos benefícios a data da concessão do regime semiaberto (5/12/2017) e não a data em que o agravante adquiriu o direito ao benefício, ou seja, 20/5/2017.
+Irresignada, a defesa interpôs agravo em execução, ao qual a Corte de origem negou provimento ao recurso (fls. 31-36).
+No presente writ, a impetrante sustenta, em síntese, que o paciente efetivamente preencheu os requisitos necessários à progressão de regime na data de 20/5/2017.
+Alega que se determinou a elaboração de novos cálculos de liquidação de pena, nos quais o magistrado de 1º grau considerou como data-base para cálculo de novos benefícios a data da concessão do regime semiaberto (5/12/2017) e não a data em que o paciente adquiriu o direito, em 20/5/2017.
+Desse modo, requer, inclusive liminarmente, que seja retificado o cálculo de liquidação das penas para que conste como data-base para cálculo de progressão ao regime aberto a data em que o paciente cumpriu o requisito objetivo para a progressão ao regime semiaberto e não a data da decisão que concedeu o benefício.
+Indeferida a liminar (fl. 41) e prestadas as informações (fls. 47-58), o Ministério Público Federal manifestou-se pela concessão da ordem de ofício (fls. 60-62).
+É o relatório.
+DECIDO.
+A Corte de origem indeferiu o pedido de alteração da data-base na ficha do paciente, fazendo constar a data da decisão que deferiu a progressão e não aquela em que este efetivamente preencheu o requisito objetivo para progredir ao regime semiaberto como marco para subsequente progressão. Eis os fundamentos da decisão (fls. 31-36):
+ ..
+Inconsistente o recurso.
+Aceitar o posicionamento da Defesa implicaria, na verdade, em aceitação da chamada "progressão por salto", situação vedada pelo ordenamento jurídico (por força da clara regra do artigo 112 da Lei de Execução Penal), e que foi reconhecida pela Súmula nº 491 do Superior Tribunal de Justiça.
+Prevalece, por isso, o posicionamento adotado por aquela Corte Superior no julgamento do HC nº 274.384/SP, Rel. Min. Nefi Cordeiro, 6a T., j. Em 26.04.2016  sem destaque no original:
+ ..
+A Lei de Execução Penal prevê um lapso temporal mínimo para o efetivo cumprimento da pena em determinado regime prisional. Passado esse período  frise-se: mínimo  , o condenado poderá progredir de regime, passando a descontar sua pena remanescente em regime prisional mais brando. Essa progressão, por sua vez, dependerá também da comprovação de seu merecimento.
+E nesse sentido o artigo 112 da Lei de Execução Penal é expresso, não cabendo interpretação diversa, dispondo que "a pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos um sexto da pena no regime anterior  .. ".
+Não é diferente o constante na Exposição de Motivos nº 213, de 09.05.1983, da Lei de Execução Penal, no item 120, afirmando que "Se o condenado estiver no regime fechado não poderá ser transferido diretamente para o regime aberto. Esta progressão depende do cumprimento mínimo de um sexto da pena no regime semiaberto, além da demonstração do mérito, compreendido tal vocábulo como aptidão, capacidade e merecimento, demonstrados no curso da execução".
+Já foi dito tudo, e nada mais precisa ser acrescido.
+Ante o exposto, nega-se provimento ao recurso.
+Verifica-se, desse modo, que o acórdão impugnado entendeu que não há que falar em alteração da data-base para o dia em que o reeducando atingiu o requisito objetivo, mas sim, para quando efetivamente foi transferido para o novo regime.
+Quanto ao tema em discussão, sabe-se que, anteriormente, prevalecia na Sexta Turma desta Corte o entendimento de que a data-base para obtenção de nova progressão de regime prisional seria a data em que o beneficiário efetivamente passasse a cumprir a pena em outro regime.
+Entretanto, tal posicionamento foi modificado, passando-se a considerar como data-base para subsequente progressão de regime, aquela em que o reeducando preencheu os requisitos do art. 112 da Lei de Execução Penal e não aquela em que o Juízo das Execuções deferiu o benefício (HC 369.774/RS, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/11/2016, DJe 7/12/2016).
+Aliás, nesse sentido já decidiu o Excelso Supremo Tribunal Federal:
+Habeas Corpus. 2. Execução Penal. Progressão de regime. Data-base. 3. Nos termos da jurisprudência do STF, obsta o conhecimento do habeas corpus a falta de exaurimento da jurisdição decorrente de ato coator consubstanciado em decisão monocrática proferida pelo relator e não desafiada por agravo regimental. Todavia, em casos de manifesto constrangimento ilegal, tal óbice deve ser superado. 4. Na execução da pena, o marco para a progressão de regime será a data em que o apenado preencher os requisitos legais (art. 112, LEP), e não a do início do cumprimento da reprimenda no regime anterior. 5. A decisão que defere a progressão de regime tem natureza declaratória, e não constitutiva. 6. Deve ser aplicada a mesma lógica utilizada para a regressão de regime em faltas graves (art. 118, LEP), em que a data-base é a da prática do fato, e não da decisão posterior que reconhece a falta. 7. Constrangimento ilegal reconhecido, ordem concedida. (HC 115254, Relator(a): Min. GILMAR MENDES, Segunda Turma, julgado em 15/12/2015, PROCESSO ELETRÔNICO DJe-036 DIVULG 25-2-2016 PUBLIC 26-2-2016.)
+Colhe-se do julgado que a natureza da decisão concessiva da progressão de regime é declaratória, e não constitutiva, razão pela qual o tempo em que o apenado fica no aguardo da análise do pedido será computado para fins de contagem do requisito objetivo temporal, sendo, pois, considerada, como termo a quo, a data em que o apenado teria direito, e não a data do efetivo ingresso no regime anterior.
+A nova concepção, a par de constituir, ainda que indiretamente, ofensa ao sistema progressivo, na medida em que passa a possibilitar a progressão per saltum, até então vedada, conforme Súmula 491/STJ, promove tratamento mais justo e mais digno ao apenado, que não mais será punido com a mora e a ineficiência do Estado.
+Fez-se assim necessária a revisão do entendimento até então adotado por ambas as Turmas Criminais deste STJ para seguir a nova orientação.
+A propósito, também o seguinte precedente:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROGRESSÃO DE REGIME. MARCO INICIAL. DATA DA EFETIVA DO PREENCHIMENTO DOS REQUISITOS DO ART. 112 DA LEP. PRECEDENTE DO STF. AGRAVO PROVIDO.
+1. Revisão da jurisprudência da Quinta Turma desta Corte Superior, para adequar-se ao posicionamento firmado pelo Supremo Tribunal Federal no HC 115.254, Rel. Ministro GILMAR MENDES, SEGUNDA TURMA, julgado em 15/12/2015, DJe 26/2/2016, no sentido de que a data inicial para a progressão de regime deve ser aquela em que o apenado preencheu os requisitos do art. 112 da Lei de Execução Penal, e não a data da efetiva inserção do reeducando no atual regime.
+2. Aplica-se à progressão de regime, por analogia, o regramento da LEP sobre a regressão de regime em caso de falta grave (art. 118), que estabelece como data-base a prática do fato, e não da decisão posterior que reconhece a infração.
+3. É de se considerar a necessidade de que os direitos sejam declarados à época adequada, de modo a evitar que a inércia estatal cause prejuízo ao condenado.
+4. Agravo regimental a que se dá provimento. (AgRg no Resp n. 1.582.285/MS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 24/8/2016.)
+Dessa forma, correto está o entendimento esposado pelo Impetrante na exordial.
+Ante o exposto, concedo o habeas corpus para considerar como data-base para concessão de futuros benefícios aquela em que o apenado preencheu os requisitos do art. 112 da LEP e não mais o dia em que efetivamente foi concedida a progressão.
+Comunique-se.
+Publique-se.
+Intimem-se.
