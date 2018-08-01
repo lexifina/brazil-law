@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042), interposto contra decisão que negou seguimento ao recurso especial por inexistência de violação de lei federal e incidência da Súmula n. 83 do STJ (e-STJ fls. 452/453).
+O acórdão recorrido está assim ementado (e-STJ fl. 388):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO POR QUANTIA CERTA. DECISÃO QUE AFASTA PRELIMINARES E ACOLHE O PEDIDO DE IMPENHORABILIDADE. INSURGÊNCIA DA EXEQUENTE. PENHORA DE HONORÁRIOS PROFISSIONAIS. VERBA DE NATUREZA ALIMENTAR. IMPENHORABILIDADE. RELATIVIZAÇÃO. ELEVADA MONTA. NÃO INCIDÊNCIA DA REGRA PREVISTA NO INC. IV DO ART. 649 DO CPC VIGENTE À ÉPOCA. RESGUARDO, CONTUDO, DE QUANTIA EQUIVALENTE A 50 (CINQÜENTA) SALÁRIOS MÍNIMOS PARA GARANTIR O SUSTENTO DO EXECUTADO E DE SUA FAMÍLIA. APLICAÇÃO ANALÓGICA DA EXEGESE DO § 2o DO ART. 833 DO CPC/2015.
+Os honorários profissionais, ao refletirem verba de natureza alimentar, são insuscetíveis de constrição, nos termos do quanto disposto no Código de Processo Civil (art. 649, inc. IV, do CPC/1973 e art. 833, inc. IV, do CPC/2015). Do mesmo modo que essa regra pode ser relativizada quando o valor revelar-se exorbitante ao mínimo existencial para o sustento próprio desse profissional e de sua família; circunstância em que essa verba perde a sua natureza alimentar e finalidade de sustento.
+RECURSO CONHECIDO E PROVIDO PARCIALMENTE.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 411/416).
+No especial (e-STJ fls. 419/425), fundamentado no art. 105, III, "a", da CF, a recorrente alegou ofensa aos arts. 326 e 489, § 1º, IV, do CPC/2015, por negativa de prestação jurisdicional. Sustentou a necessidade de apreciação do pedido subsidiário, argumentando que o "enfrentamento levaria à possibilidade de penhora inclusive do equivalente aos 50 salários mínimos tidos como verba alimentar" (e-STJ fl. 421).
+No agravo (e-STJ fls. 457/463), afirma a presença de todos os requisitos de admissibilidade do especial.
+O recorrido não apresentou contraminuta (e-STJ fl. 467).
+É o relatório.
+Decido.
+Cuida-se, na origem, de agravo de instrumento interposto contra decisão que acolheu o pedido de impenhorabilidade sob o fundamento de se tratarem de verbas alimentares.
+Nas razões do agravo, o exequente sustentou a penhorabilidade plena de verbas salariais por se tratar de acúmulo de capital não necessário à subsistência do devedor e de sua família e, sucessivamente, a penhorabilidade plena das verbas salariais quando se tratar de penhora para pagamento de outras verbas alimentares, independente de sua origem.
+O Tribunal de origem deu provimento parcial ao agravo para "possibilitar a penhora no rosto dos autos 023.07.135282-4, resguardando-se, contudo, quantia equivalente a 50 (cinquenta) salários mínimos em prol do agravado" (e-STJ fl. 394).
+Irresignada, a agravante opôs embargos de declaração para que fosse analisado, quanto ao valor tido como impenhorável pela Corte local - 50 (cinquenta) salários mínimos - a tese subsidiária no sentido de que a impenhorabilidade de verba alimentar não se aplica no caso de penhora para pagamento de prestação alimentícia.
+Contudo, o Tribunal a quo se limitou a consignar que "o acolhimento do pedido principal - ainda que parcialmente -, desobrigou este Juízo ad quem a enfrentar o pleito posterior, formulado em ordem sucessiva" (e-STJ fls. 415/416).
+Em tais condições, diante da omissão no acórdão recorrido, impõe-se o provimento do recurso especial para que o TJSC se pronuncie sobre a questão, sob pena de negar-se a prestação jurisdicional.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO MANDADO DE SEGURANÇA. OMISSÃO CONFIGURADA. PEDIDO SUCESSIVO NÃO ANALISADO. ATO IMPUGNADO DE AUTORIA DO SECRETÁRIO EXECUTIVO INTERINO DO MINISTÉRIO DAS COMUNICAÇÕES. INCOMPETÊNCIA DO STJ PARA O JULGAMENTO DO WRIT OF MANDAMUS. NÃO APLICAÇÃO DA TEORIA DA ENCAMPAÇÃO.
+1. Os embargos de declaração são cabíveis quando o provimento jurisdicional padece de omissão, contradição ou obscuridade, consoante o que dispõe o art. 535, I e II, do CPC, bem como para sanar a ocorrência de erro material.
+2. No caso sub examinem, os presentes embargos declaratórios merecem acolhimento. Deveras, o acórdão embargado, de fato, não analisou o pedido sucessivo da embargante, de modo que a omissão deve ser sanada.
+3. Na presente hipótese, não se trata de mero erro de endereçamento do writ of mandamus, mas de constatação de indicação equivocada da autoridade impetrada e, por isso mesmo, é defesa a remessa dos autos ao Juízo competente, porquanto essa providência importaria em indevida emenda à petição inicial da impetração quanto ao pólo passivo.
+4. Embargos de declaração acolhidos sem efeitos modificativos.
+(EDcl no AgRg no MS n. 15.266/DF, Relator Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 13/10/2010, DJe 20/10/2010.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL.
+OMISSÕES. ACOLHIMENTO PARCIAL. EFEITO INFRINGENTE. REEXAME NECESSÁRIO CONTRÁRIO À PRETENSÃO DO CONTRIBUINTE. OMISSÃO DA CORTE DE ORIGEM NO PERTINENTE A PEDIDO SUCESSIVO.
+1. Cuida-se de embargos de declaração em que se sustenta a falta de manifestação sobre os seguintes pontos: a) a violação ao art. 130 do CPC, pois a Corte de origem deixou de apreciar o agravo retido; (b) ausência de análise da violação dos arts. 458, 459 e 535 do CPC, uma vez que, ao dar provimento do recurso de ofício e afastar a pretensão de anular-se débito fiscal, não se manifestou sobre o pedido sucessivo que trata da exclusão dos valores atribuídos aos materiais e equipamentos (utilizados para a realização dos serviços) da base de cálculo para cobrança do ISSQN.
+2. No respeitante à omissão sobre a violação do art. 130 do CPC, observa-se que o recurso deve ser conhecido, mas não provido, pois não há violação ao referido dispositivo, haja vista o recurso retido ter sido conhecido e desprovido no bojo do julgamento dos embargos de declaração.
+3. Já no atinente à ausência de análise da violação dos arts. 458, 459 e 535 do CPC, razão assiste ao recorrente. A Corte de origem, ao julgar improcedente a ação anulatória de débito através de remessa necessária e entender prejudicado o recurso voluntário da Fazenda Municipal, deixou de se manifestar sobre pedido subsidiário da ora embargante feito na petição inicial, ratificado em contra-razões de apelação e reiterado nos embargos de declaração. Faz-se necessária a remessa dos autos ao Tribunal de origem a fim de que se manifeste sobre o pedido subsidiário, sob pena de negar-se a prestação jurisdicional. Precedente.
+4. Embargos de declaração parcialmente acolhidos, com efeitos modificativos, para conhecer parcialmente do recurso especial, e, nesta extensão, dar-lhe provimento.
+(EDcl no REsp n. 1004806/MG, Relator. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 10/3/2009, DJe 13/4/2009.)
+EMBARGOS DE DECLARAÇÃO - RECURSO ESPECIAL - OMISSÃO - PEDIDO SUCESSIVO DE INDENIZAÇÃO - RETORNO DOS AUTOS À ORIGEM - DESNECESSIDADE - HONORÁRIOS ADVOCATÍCIOS - ARTIGO 20, § 4º, DO CPC.
+I - Se, na inicial, o autor formulou pedido sucessivo, este deve ser apreciado se o relator, nesta Corte, acolhe o recurso especial da ré, para julgar improcedente o primeiro pedido.
+II - Uma vez conhecido o recurso especial, o relator pode julgar a causa, por inteiro, desde que presentes os elementos necessários, como no caso, sendo desnecessário o retorno dos autos à origem.
+III - A improcedência do pedido em relação a um dos réus, declarada nesta instância excepcional, não significa inversão automática dos ônus sucumbenciais, se estes foram fixados em percentual sobre a condenação, cabendo ao relator fixar o valor dos honorários, com base no artigo 20, § 4º, do Código de Processo Civil.
+Embargos de declaração do Município de Catanduva e da Construtora rejeitados.
+Embargos de declaração dos autores conhecidos e providos, para julgar procedente o pedido sucessivo.
+(EDcl no REsp N. 260.051/SP, Relatora Ministra NANCY ANDRIGHI, Relator p/ Acórdão Ministro CASTRO FILHO, TERCEIRA TURMA, julgado em 6/5/2003, DJ 18/8/2003, p. 201.)
+Diante do exposto, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial para determinar o retorno dos autos à Corte de origem para que se manifeste sobre o pedido sucessivo da recorrente.
+Publique-se e intimem-se.
