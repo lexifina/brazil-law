@@ -1,0 +1,27 @@
+Decisão:
+    Vistos.
+    Cuida-se de reclamação constitucional ajuizada por Valdemiro Bento da Silva, em face da Juíza de Direito da Central de Audiência de Custódia da Comarca do Rio de Janeiro, que teria afrontado a autoridade do Supremo Tribunal Federal no que decidido na Súmula Vinculante nº 11.
+    Aduz a defesa, em síntese, que durante a realização da sua audiência de custódia permaneceu algemado à míngua que fundamentação plausível para justificar a medida vexatória.
+    Requer-se, assim, o deferimento da liminar para que
+    “seja imediatamente declarada a nulidade da audiência de custódia/apresentação, o que implicará no relaxamento da prisão preventiva decretada pela RECLAMADA, pois a realidade ocorrida no mencionado ato não se mostrava excepcional tampouco veio a ser acompanhada de fundamentação idônea.”
+    Pede, a título subsidiário, o deferimento da liminar para determinar a “realização de novo ato – audiência de custódia/apresentação – sem que sejam empregadas algemas ou então que subsista concreta fundamentação.”
+    No mérito, pleiteia a procedência da ação para que seja reconhecida a “nulidade da prisão, uma vez que foi decretada em audiência de custódia/apresentação ilegal por violar a Súmula Vinculante nº 11.” (grifos do autor)
+    É o relatório.
+    Decido.
+    A autoridade reclamada assim fundamentou a necessidade do uso das algemas:
+    “(...)
+    Em 17 de julho de 2018, na sala de audiências deste Juízo, perante a MM. Dra. Juíza de Direito, Dra. CAROLINE ROSSY BRANDÃO FONSECA, realizou-se a Audiência de Custódia nestes autos, presentes a i. Membro do Ministério Público e o custodiado, acompanhado de sua supracitada defesa. Justificada a manutenção das algemas no custodiado em virtude da situação recente de flagrância, dimensões da sala de audiências, bem como pela necessidade de preservação da integridade física dos presentes. Aberta a audiência, foram os presentes cientificados da utilização do registro fonográfico/audiovisual. Após a Defesa ter se entrevistado reservadamente com o custodiado, procedeu-se à entrevista, conforme termo e registro audiovisual. As declarações hoje colhidas, gravadas, foram salvas no CD que acompanha esta assentada e será acautelado no Cartório da CEAC. Pelo Ministério Público foi requerida a conversão da prisão em flagrante em prisão preventiva, conforme mídia. Pela defesa do custodiado foi requerida a liberdade provisória dele, conforme registro em mídia. Pela MM. Dra. Juíza foi proferida a seguinte DECISÃO:
+    (…)
+    De fato, o crime em exame foi cometido sem violência ou grave ameaça, o acautelado indicou endereço fixo e é civilmente identificado, o que de forma genérica poderiam ser elementos aptos a ensejar o deferimento de sua liberdade provisória, como requerido pela defesa. Contudo, como bem ponderou o Ministério Público, o acautelado possui diversas anotações por crimes de furto e encontra-se evadido do sistema prisional, consoante sua FAC, caso que entendo que as condutas delitivas reiteradas do custodiado representam um escárnio à Justiça, pelo que infiro que seus atos indicam a evidente reiteração criminosa, fazendo-se necessária a prisão para garantia da ordem pública e assegurar a aplicação da lei penal, não sendo suficientes a imposição de cautelares diversas da prisão.” (anexo 7 – grifos nossos)
+    Conforme se verifica, embora sucinta, houve justificativa expressa da autoridade reclamada para o uso das algemas durante a realização do ato processual, que teve por base resguardar a integridade física dos presentes.
+     Essa circunstância, portanto, não implica em afronta à autoridade da Súmula Vinculante nº 11/STF, sendo certo, ademais, que esta ação não se qualifica como instrumento hábil para avaliar a ausência de periculosidade do reclamante e a sua repercussão no risco à incolumidade pessoal dos presentes ao ato processual, mormente se levarmos em conta a notícia de que ele estaria foragido do sistema prisional (v.g. Rcl nº 30.410/SP, Relator o Ministro Edson Fachin, DJe de 28/6/18)
+    Anote-se, ademais, que em caso semelhante esta Suprema Corte já decidiu não ser “possível admitir-se, em sede de reclamação, qualquer dúvida a respeito das questões de fato apontadas pela Juíza para negar o pedido da defesa de retirada das algemas do reclamante” (Rcl nº 6.870/GO, Relatora a Ministra Ellen Gracie, DJ de 6/11/08)
+    Perfilhando esse entendimento, destaco as seguintes decisões monocráticas: Rcl nº 9.469/RJ, DJe de 25/6/10 e Rcl nº 16.026/SP, DJe 2/5/14, ambas de minha relatoria; Rcl nº 8.156/RJ, Relator o Ministro Menezes Direito, DJe de 11/5/09; e Rcl nº 6.493/SP, Relator o Ministro Ricardo Lewandowski, DJe de 25/9/08, entre outras.
+    É de bom alvitre registrar, ademais, que
+    “a reclamação não se qualifica como sucedâneo recursal nem configura instrumento viabilizador do reexame do conteúdo do ato reclamado, eis que tal finalidade revela-se estranha à destinação constitucional subjacente à instituição dessa medida processual.” (Rcl nº 4.381/RJ-AgR, Tribunal Pleno, Relator o Ministro Celso de Mello, DJe de 5/8/11 - grifos nossos)
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno deste Supremo Tribunal, nego seguimento a presente reclamação, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 1º de agosto de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
