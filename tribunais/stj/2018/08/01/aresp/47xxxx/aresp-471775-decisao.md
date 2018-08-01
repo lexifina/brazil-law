@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544) interposto contra decisão que, sob fundamento de ausência de preparo, negou seguimento ao recurso especial (e-STJ fls. 246/248).
+O Tribunal de origem negou provimento à apelação da agravante em julgado que recebeu a seguinte ementa (e-STJ fl. 154):
+APELAÇÃO CÍVEL. AÇÃO DE ADIMPLEMENTO CONTRATUAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA ENTRE CONCESSIONÁRIA DE SERVIÇO DE TELEFONIA E PARTICULAR. COMPLEMENTAÇÃO NA SUBSCRIÇÃO DE AÇÕES. SENTENÇA QUE JULGOU PROCEDENTE O PEDIDO EXORDIAL. APELO DA BRASIL TELECOM S/A. PRELIMINARES. ILEGITIMIDADE ATIVA. REJEITADA. ILEGITIMIDADE PASSIVA AD CAUSAM. REJEITADA. CARÊNCIA DE AÇÃO EM RELAÇÃO AOS DIVIDENDOS. REJEITADA. PREJUDICIAL DE MÉRITO. PRESCRIÇÃO. INOCORRÊNCIA. MÉRITO. APLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR. POSSIBILIDADE. INOCORRÊNCIA DE VIOLAÇÃO AO ART. 5º, INCISO XXXVI DA CONSTITUIÇÃO FEDERAL. REALIZAÇÃO DE PROVA PERICIAL. DESNECESSIDADE. EMBARGOS PROTELATÓRIOS. MULTA MANTIDA. RECURSO CONHECIDO. PROVIMENTO NEGADO.
+Os embargos declaratórios opostos foram rejeitados, com imposição de multa (e-STJ fls. 184/189).
+Nas razões do recurso especial (e-STJ fls. 192/205), fundamentado no art. 105, III, "a", da CF, a recorrente alegou violação dos arts. 3º, 333, 357 e 535, II, do CPC/1973.
+Sustentou: (a) negativa de prestação jurisdicional e (b) ilegitimidade ativa e passiva.
+No agravo (e-STJ fls. 309/320), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Inicialmente, o recurso especial atende ao requisito do preparo, o qual pode ser demonstrado mediante a juntada de cópia das guias de pagamento extraídas da internet, conforme reiterada jurisprudência desta Corte Superior. Confira-se:
+EMBARGOS DE DIVERGÊNCIA. RECURSO ESPECIAL. PROCESSUAL CIVIL. PORTE DE REMESSA E RETORNO. RECOLHIMENTO VIA INTERNET. RECIBO EXTRAÍDO DA INTERNET. POSSIBILIDADE. AMPLA UTILIZAÇÃO DE MEIO ELETRÔNICO NA VIDA MODERNA. EMBARGOS DE DIVERGÊNCIA CONHECIDOS E PROVIDOS.
+1. Admite-se o recolhimento e a comprovação do preparo processual realizados pela Internet, desde que possível, por esse meio, aferir a regularidade do pagamento das custas processuais e do porte de remessa e de retorno.
+2. A guia eletrônica de pagamento via Internet constitui meio idôneo à comprovação do recolhimento do preparo, desde que preenchida com a observância dos requisitos regulamentares, permitindo-se ao interessado a impugnação fundamentada.
+3. Embargos de divergência conhecidos e providos para afastar a deserção.
+(EAREsp n. 423.679/SC, Relator Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 24/6/2015, DJe 3/8/2015.)
+Afastada a deserção, passo ao exame do mérito.
+O recurso especial e o agravo foram interpostos com fundamento no Código de Processo Civil de 1973, por isso devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas até então pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Não há falar em contrariedade ao art. 535 do CPC/1973, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos. Ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação do referido dispositivo e o conhecimento do recurso especial nessa parte.
+A Segunda Seção do STJ, no julgamento de recurso especial processado nos moldes do art. 543-C do CPC, decidiu que a empresa Brasil Telecom S.A. possui legitimidade passiva para responder pelos atos praticados pela Telesc quanto a credores cujo título não tiver sido constituído até o ato de incorporação, independentemente de se referir a obrigações anteriores, ante a sucessão empresarial (REsp 1.322.624/SC, Relator Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 12/6/2013, DJe 25/6/2013). Segue o precedente da Segunda Seção:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. BRASIL TELECOM. INCORPORAÇÃO DA TELESC. EXTINÇÃO DA PERSONALIDADE JURÍDICA DA INCORPORADA. DIREITOS E OBRIGAÇÕES TRANSMITIDOS À INCORPORADORA. BRASIL TELECOM TORNOU-SE SUBSTITUTA, POR INCORPORAÇÃO, DA TELESC. LEGITIMIDADE PASSIVA RECONHECIDA. CONSOLIDAÇÃO DA JURISPRUDÊNCIA SOBRE A COMPLEMENTAÇÃO DE AÇÕES DECORRENTE DE CONTRATO DE PARTICIPAÇÃO FINANCEIRA.
+1. Para fins do art. 543-C do CPC:
+1.1. A sucessão, por incorporação, de empresas, determina a extinção da personalidade jurídica da incorporada, com a transmissão de seus direitos e obrigações à incorporadora.
+1.2. Legitimidade passiva da Brasil Telecom S/A para responder pelos atos praticados pela Telesc, quanto a credores cujo título não tiver sido constituído até o ato de incorporação, independentemente de se referir a obrigações anteriores, ante a sucessão empresarial.
+2. Situação análoga à apreciada pela Segunda Seção desta Corte no julgamento de recurso repetitivo atinente à sucessão da Companhia Riograndense de Telecomunicações (CRT) pela Brasil Telecom (REsp. 1.034.255/RS, Rel. Ministro Luis Felipe Salomão, 2ª Seção, j. 28/04/2010, DJe 11/05/2010).
+3. RECURSO ESPECIAL DESPROVIDO.
+A Corte de origem afastou a alegada ilegitimidade da agravada sob os seguintes fundamentos (e-STJ fls. 155/156):
+Da análise dos documentos juntados aos autos, percebe-se que o contrato objeto do pedido inicial é aquele referente ao terminal telefônico n. [TELEFONE] e não àquele juntado aos autos pela ré (fl. 38).
+Tendo em vista que o magistrado singular deferiu a inversão do ônus da prova para a juntada dos documentos indicados na inicial e a instituição de telefonia deixou de fazê-lo, devem ser admitidos como verdadeiros os fatos que a autora pretendia provar por meio do contrato, nos termos do art. 359, I, do Código de Processo Civil.
+Ademais, como também fundamentou o togado sentenciante, "a teor do art. 333, II, do Código de Processo Civil incumbe à requerida o ônus da prova, quanto aos fatos modificativos, impeditivos ou extintivos do direito dos autores (..). No caso dos autos, em que pese a requerida apontar que a requerente adquiriu linha telefônica do acionista originário [NOME], consoante documento de fl. 38, não logrou êxito esta em demonstrar que a aquisição não transferiu o direito das ações, que resulta na possibilidade do terceiro demandar judicialmente para pleitear a complementação da diferença acionária ".
+Por essas razões; afasta-se a, preliminar.
+E, no julgamento dos aclaratórios, complementou (e-STJ fl. 187):
+In casu, apesar da Brasil Telecom S/A alegar que o acórdão embargado equivocou-se quanto à preliminar de ilegitimidade ativa, razão não lhe socorre, uma vez que a matéria foi devidamente abordada no tópico n. 01 da decisão, dispondo expressamente que a rejeição da preliminar deve-se ao fato de que, após a inversão do ônus da prova, não houve a juntada da radiografia do contrato referente ao terminal telefônico foco da demanda.
+Rever esse entendimento demandaria o reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
