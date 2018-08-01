@@ -1,0 +1,14 @@
+DECISÃO
+APOSENTADORIA COMPULSÓRIA – IDADE – POLICIAL – LEI COMPLEMENTAR 51/1985 – PRECEDENTE – PLENÁRIO – RECURSO EXTRAORDINÁRIO PROVIDO.
+    1. Afasto o suspensão anteriormente determinada.
+    2. O Colegiado de origem, confirmando o entendimento do Juízo, assentou não recepcionado pela Constituição o artigo 1º, inciso II, da Lei Complementar nº 51/1985, a versar sobre a aposentadoria compulsória do servidor policial aos 65 anos de idade. Destacou ofender o artigo 40, inciso II, da Constituição Federal. No extraordinário, a recorrente aponta a transgressão ao artigo 40, § 4º, da Constituição Federal, sustentando que o policial se insere na exceção constitucional, em virtude de exercer atividade de risco, o que autoriza o tratamento diferenciado dado pela legislação ordinária.
+    3. A decisão impugnada está em dissonância com o entendimento do Supremo. O Pleno, no recurso extraordinário nº 567.110, relatora ministra Cármen Lúcia, concluiu, sob o ângulo da repercussão geral, haver a Constituição Federal recepcionado a norma mencionada. Eis a síntese do pronunciamento, publicado no Diário da Justiça de 11 de abril de 2011:
+    RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PREVIDENCIÁRIO. RECEPÇÃO CONSTITUCIONAL DO ART. 1º, INC. I, DA LEI COMPLEMENTAR N. 51/1985. ADOÇÃO DE REQUISITOS E CRITÉRIOS DIFERENCIADOS PARA A CONCESSÃO DE APOSENTADORIA A SERVIDORES CUJAS ATIVIDADES NÃO SÃO EXERCIDAS EXCLUSIVAMENTE SOB CONDIÇÕES ESPECIAIS QUE PREJUDIQUEM A SAÚDE OU A INTEGRIDADE FÍSICA. 1. Reiteração do posicionamento assentado no julgamento da Ação Direta de Inconstitucionalidade n. 3.817, Relatora a Ministra Cármen Lúcia, da recepção do inc. I do art. 1º da Lei Complementar n. 51/1985 pela Constituição. 2. O Tribunal a quo reconheceu, corretamente, o direito do Recorrido de se aposentar na forma especial prevista na Lei Complementar 51/1985, por terem sido cumpridos todos os requisitos exigidos pela lei. 3. Recurso extraordinário ao qual se nega provimento.
+    Os requisitos e critérios para concessão de aposentadoria especial são definidos em lei complementar.
+    O citado diploma foi revogado pela Lei Complementar nº 152/2015. No entanto, consta da inicial que o recorrido atendeu às condições para aposentadoria quando vigente a norma pretérita. Mostra-se pertinente o teor do verbete nº 359 da Súmula do Supremo:
+    Ressalvada a revisão prevista em lei, os proventos da inatividade regulam-se pela lei vigente ao tempo em que o militar, ou o servidor civil, reuniu os requisitos necessários.
+    4. Provejo o extraordinário para, reformando o acórdão recorrido, julgar improcedente o pedido.
+    5. Publiquem.
+Brasília, 1º de agosto de 2018.
+Ministro MARCO AURÉLIO
+Relator
