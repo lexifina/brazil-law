@@ -1,0 +1,29 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Alisson Alves de Oliveira, apontando como autoridade coatora a Quinta Turma do Superior Tribunal de Justiça, que não proveu o RHC nº 92.306/MG, Relator o Ministro Ribeiro Dantas.
+    A impetrante sustenta, em síntese, que o paciente, denunciado como incurso no artigo 121, § 2º, incisos I e IV, do Código penal, estaria submetido a constrangimento ilegal por o excesso de prazo na sua custódia preventiva, haja vista que “está preso há 1 (um) ano em 6 (seis) meses em razão de processo em trâmite desde 2006, sem previsão nenhuma de encerramento”.
+    Requer, liminarmente, a concessão da ordem para que o paciente responda em liberdade ao processo criminal.
+    Examinados os autos, decido.
+    Transcrevo o teor do aresto questionado:
+    “PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. EXCESSO DE PRAZO NA INSTRUÇÃO CRIMINAL. RÉU PRONUNCIADO. INCIDÊNCIA DA SÚMULA 21/STJ. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. MATÉRIA NÃO DEBATIDA NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. RECURSO CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
+    1. Segundo orientação pacificada nos Tribunais Superiores, a análise do excesso de prazo na instrução criminal será feita à luz dos princípios da razoabilidade e da proporcionalidade, devendo ser consideradas as particularidades do caso concreto, a atuação das partes e a forma de condução do feito pelo Estado-juiz. Dessa forma, a mera extrapolação dos prazos processuais legalmente previstos não acarreta automaticamente o relaxamento da segregação cautelar do acusado.
+    2. Hipótese em que não se verifica o alegado excesso de prazo, pois, embora a prisão cautelar tenha sido decretada em 26/5/2009 e mantida na decisão de pronúncia de 16/12/2015, o mandado de prisão foi cumprido apenas em 25/1/2017, na Comarca de Novo Gama/GO, onde o recorrente está preso cautelarmente por outros delitos. E, desde então, o juiz sentenciante atua de forma diligente e o feito transcorre regularmente, tendo sido cumprida pelas partes a fase do art. 422 do Código de Processo Penal e, atualmente, aguarda-se apenas o recambiamento do recorrente para a Comarca de Montes Claros/MG, já solicitado e reiterado pelo magistrado aos órgãos competentes.
+    3. Ademais, nos termos da Súmula n. 21/STJ, ‘pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução’.
+    4. A pretensão de revogação da prisão cautelar por ausência de fundamentação não foi objeto de exame no acórdão impugnado, o que impede seu conhecimento por esta Corte, sob pena de indevida supressão de um grau de jurisdição.
+    5. Recurso conhecido em parte e, nessa extensão, não provido” (anexo 2).
+    Pelo que há no julgado proferido pela Quinta Turma do Superior Tribunal de Justiça não se vislumbra ilegalidade flagrante, abuso de poder ou teratologia. Pelo contrário, o entendimento emanado daquela Corte de Justiça encontra-se suficientemente motivado, restando justificado o convencimento formado.
+    Com efeito, consoante apontado pelo Ministro Ribeiro Dantas no voto condutor do acórdão,
+    “pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução.
+    Ademais, cabe destacar que, embora a prisão cautelar tenha sido decretada em 26/5/2009 e mantida na decisão de pronúncia de 16/12/2015, o mandado de prisão foi cumprido apenas em 25/1/2017, na Comarca de Novo Gama/GO, onde o recorrente está preso cautelarmente por outros delitos. E, desde então, as partes já cumpriram a fase do art. 422 do Código de Processo Penal, e o feito está pronto para o julgamento popular, aguardando apenas o recambiamento do recorrente para a Comarca de Montes Claros/MG.
+    Observa-se, ainda, que o juiz processante atua com extrema diligência a fim de conferir a devida celeridade ao feito, tanto que determinou a expedição de ofícios aos órgãos competentes solicitando a imediata transferência do recorrente ao Estado de Minas Gerais.
+    Segundo consta, o recorrente ‘responde a QUATRO processos de competência do Tribunal do Júri em trâmite nesta Vara, sendo que em dois deles os feitos aguardam só o [seu] recambiamento para que as sessões de julgamento sejam realizadas" (grifos do autor).
+    Com efeito, esse entendimento está em consonância com a jurisprudência da Corte no sentido de que “[a] alegação de excesso de prazo resta superada pela superveniência da sentença de pronúncia” (HC nº 142.011/RJ-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 30/6/17).
+    Ademais, consoante entendimento deste Supremo Tribunal, a notícia de que o processo criminal tem regular processamento na origem afasta o alegado constrangimento ilegal por excesso de prazo (v.g. HC nº 127.457/BA, Segunda Turma, de minha relatoria, DJe de 1º/7/15; HC 129.889/AgR-SP, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 25/9/15).
+    Especificamente sobre o tema dos autos, anote-se:
+    “HABEAS CORPUS. PROCESSUAL PENAL. PRISÃO PREVENTIVA. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA NÃO IMPUTÁVEL AO JUDICIÁRIO. FUGA DO RÉU DO DISTRITO DA CULPA. CAPTURA EM OUTRA UNIDADE DA FEDERAÇÃO. NECESSIDADE DE RECAMBIAMENTO. ORDEM DENEGADA. I - O excesso de prazo na formação da culpa, caso existente, deve-se ao fato de o paciente ter sido preso em outro Estado da Federação. II - Demora que não pode ser atribuída ao aparelho judiciário, que tem se empenhado em promover a conclusão do feito. III - Ordem denegada.” (HC nº 96.955/SP, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 14/8/09).
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 1º de agosto de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
