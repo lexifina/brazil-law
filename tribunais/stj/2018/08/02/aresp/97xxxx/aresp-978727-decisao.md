@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravos interpostos por [NOME] GROSSO - DISTRIBUIDORA DE ENERGIA S.A. e COOPERBEM - COOPERATIVA DE BENEFICIAMENTO DE ALGODÃO DO [NOME] GROSSO contra decisão do Tribunal de Justiça daquela unidade federativa, que não admitiu os recurso especiais que desafiam acórdão assim ementado (e-STJ fl. 319):
+"AGRAVO REGIMENTAL - PROPOSTO NO RECURSO DE APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA C/C REPETIÇÃO DE INDÉBITO - RECLASSIFICAÇÃO NA UNIDADE CONSUMIDORA - ELETRIFICAÇÃO RURAL - COMPROVAÇÃO - ATIVIDADE AGRÍCOLA - DEMONSTRADA - RESTITUIÇÃO DOS VALORES PAGOS INDEVIDAMENTE - FORMA SIMPLES - EXCLUSÃO DOS VALORES REPASSADOS PARA PAGAMENTO DE ICMS - HONORÁRIOS ADVOCATÍCIOS - REGRA DO ART. 20, § 4º DO CPC - MAJORADOS - RECURSO DESPROVIDO."
+Após negado provimento aos embargos de declaração opostos (e-STJ fls. 371/376), a primeira agravante interpôs recurso especial fundado na alínea "a" do permissivo constitucional, apontando violação dos arts. 458 e 535, II, do CPC/1973; 2º e 3º da Lei n. 9.427/1996; e 29 da Lei n. 8.987/1995.
+Alegou, em síntese, que o acórdão recorrido, além de negar a prestação jurisdicional, desconsiderou a forma de classificação dos consumidores de energia elétrica disciplinada pela ANEEL na Resolução n. 456/2000 (e-STJ fls. 379/390).
+De outro lado, a segunda agravante ofereceu recurso especial adesivo, com fulcro nas alíneas "a" e "c" do art. 105, III, da CF, ao argumento de que a Corte local teria negado vigência e dado interpretação divergente daquela adotada pelo STJ ao art. 42, parágrafo único, do CDC. Indicou, ainda, violação do art. 20, § 3º e § 4º, do CPC/1973 (e-STJ fls. 422/433).
+Apresentadas contrarrazões, o Tribunal a quo não admitiu o aeplo nobre da primeira agravante, julgando prejudicado o conhecimento do recurso adesivo (e-STJ fls. 472/476 e 477), o que desafiou a interposição dos presentes agravos (e-STJ fls. 481/491 e 494/499).
+Contraminutas.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Dito isso, registro que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, tanto nos termos do art. 544, § 4º, I, do CPC/1973, quanto nos moldes dos arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RISTJ.
+Nesse sentido, vide: AgRg no AREsp 834978/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 19/04/2016; AgInt no AREsp 1036445/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 04/04/2017, DJe 17/04/2017.
+In casu, o Juízo de prelibação proferido pelo Tribunal de origem negou seguimento ao apelo nobre da [NOME] [NOME] GROSSO pelos seguintes fundamentos: a) ausência de violação do art. 535 do CPC/1973; b) aplicação analógica da Súmula 280 do STF, face ao não cabimento de recurso especial contra decisão baseada em interpretação da ato normativo infralegal, no caso, a Resolução n. 456/2000 da ANEEL (e-STJ fls. 472/476).
+O agravante, contudo, não se desincumbiu de infirmar de forma clara e específica todos os fundamentos impeditivos do seguimento do especial, notadamente em relação à aplicação analógica do óbice sumular, em evidente desrespeito ao princípio da dialeticidade.
+Com efeito, nas razões do agravo, a parte limitou-se a repisar o mérito recursal acerca da violação dos dispositivos legais arrolados, sem contrapor frontalmente aquele fundamento de inadmissão (e-STJ fls. 489 e ss.)
+Não merece ser conhecido, portanto, o agravo em recurso especial interposto pela primeira agravante.
+Por via de consequência, forçoso também o não conhecimento do agravo em recurso especial adesivo interposto pela COOPERBEM, haja vista a subordinação deste à admissibilidade do principal.
+A propósito:
+PROCESSUAL CIVIL. INADMISSÃO DE RECURSO ESPECIAL E DE RECURSO ESPECIAL ADESIVO. AGRAVO DO RECURSO ESPECIAL PRINCIPAL NÃO PROVIDO. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL ADESIVO. IMPROVIMENTO DO AGRAVO REGIMENTAL DO RECORRENTE ADESIVO.
+1. Se o recurso especial principal não é admitido, também não se conhece do recurso especial adesivo (art. 500, III - CPC). A mesma sistemática (principal e acessório) se aplica ao agravo contra a decisão de inadmissão de ambos os recursos.
+2. Se o agravo do recurso especial principal não é provido, não se deve conhecer do agravo do recurso especial adesivo, dada a mesma relação de acessoriedade que impediu a admissão do recurso especial adesivo.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 500.565/DF, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), PRIMEIRA TURMA, julgado em 23/02/2016, DJe 02/03/2016)
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO dos agravos em recurso especial. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
