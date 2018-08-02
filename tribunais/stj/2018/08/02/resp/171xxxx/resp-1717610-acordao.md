@@ -1,0 +1,38 @@
+EMENTA
+ADMINISTRATIVO. SERVIDORA PÚBLICA PORTADORA DE DOENÇA GRAVE. NEOPLASIA MALIGNA. APOSENTADORIA POR INVALIDEZ COM PROVENTOS INTEGRAIS. REEXAME DAS PROVAS CONSTANTES NOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. No tocante à concessão do benefício de aposentadoria por invalidez, com proventos integrais, extrai-se do acórdão recorrido o seguinte (fl. 451, e-STJ): "Analisando os atestados médicos e os afastamentos concedidos à autora, verifica-se, que todos a priori, eles têm origem comum, qual seja a doença neoplásica por ela descoberta no ano de 2009. Assim, tendo sido a autora considerada incapaz para o exercício de suas funções pela Junta Médica da agravante, não se vislumbra a possibilidade de enquadramento em outra doença que não a neoplásica, ocasionadora das intervenções cirúrgicas, dos problemas oculares e psiquiátricos por ela desenvolvidos de forma subsequente. Não haveria, portanto, como se conceder a aposentadoria por invalidez por Doença não Especificada em Lei, com proventos proporcionais".
+2. Ao que se observa, o Tribunal de origem, de acordo com as provas constantes nos autos, reconheceu estar caracterizada a situação de invalidez da parte autora, portadora de patologia grave, qual seja, neoplasia maligna, enquadrando-se nas hipóteses de concessão do benefício previstas no art. 186, § 1º, da Lei 8.112/1990.
+3. Portanto, a alteração dessas conclusões, na forma pretendida pela recorrente, demandaria necessariamente a incursão no acervo fático-probatório dos autos. Contudo, tal medida encontra óbice na Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial.
+4. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Og Fernandes."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial, interposto contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+ PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. ANTECIPAÇÃO DE TUTELA. ANULAÇÃO DE ATO ADMINISTRATIVO. IMPOSSIBILIDADE. CARÁTER DE DEFINITIVIDADE DA PROVIDÊNCIA. DIREITO INCONTROVERSO À APOSENTADORIA.
+RETORNO AO SERVIÇO PÚBLICO. NÃO CABIMENTO. DOENÇA GRAVE. CONCESSÃO DE APOSENTADORIA POR INVALIDEZ. LEI Nº. 12.618/2012. AGRAVO PROVIDO EM PARTE.
+1. Agravo de instrumento interposto pela Fundação Universidade Federal de Sergipe contra decisão que, nos autos de ação ordinária, deferiu a antecipação de tutela requerida, declarando nula a Portaria nº 1.548, de 14/11/2016, que concedera aposentadoria proporcional à autora, e determinando que esta, de forma imediata, voltasse a ocupar o quadro de pessoal da UFS, na condição de professora titular do departamento de Psicologia.
+2. Deseja a recorrente a reforma da decisão agravada quando determinou a anulação da Portaria nº.
+1.548/16, a reintegração da servidora aos quadros do serviço público com e o seu consequente licenciamento, sem prejuízo de sua remuneração completa.
+3. Em sede de antecipação de tutela, não se deve determinar a anulação de ato administrativo (Portaria nº.
+1.548/16), em razão do caráter de definitividade que a providência ostenta, sendo, nestes casos, mais adequada a suspensão dos efeitos do ato, até a apreciação exauriente da matéria no processo principal.
+4. Na espécie, não se poderia conceder à recorrente aposentadoria por invalidez por "Doença não Especificada em Lei", com proventos proporcionais. É que, os atestados médicos e afastamentos colacionados aos autos, tem origem comum, qual seja, a doença neoplásica descoberta pela servidora no ano de 2009. Assim, tendo sido a autora considerada incapaz para o exercício de suas funções pela Junta Médica da própria agravante, não se vislumbra a possibilidade de enquadramento em outra doença que não a neoplásica, ocasionadora das intervenções cirúrgicas, dos problemas oculares e psiquiátricos por ela desenvolvidos de forma subsequente.
+5. Ante o incontroverso direito à aposentadoria da agravada - reconhecido pela própria universidade - não é possível o seu retorno ao quadro de pessoal daquela instituição de ensino.
+6. Reforma da decisão fustigada para determinar, até a prolação da sentença, a suspensão dos efeitos da Portaria nº. 1.5489, de 14.11.2016, assegurando-se à recorrida a percepção de proventos integrais, em razão de aposentadoria por invalidez decorrente de doença grave, mas com cálculo a ser realizado com base na Lei nº 12.618/2012.
+7. Agravo de instrumento provido em parte.
+Os Embargos de Declaração foram rejeitados às fls. 496-499, e-STJ.
+A recorrente, em suas razões, aponta violação do art. 186, § 1º, da Lei 8.112/1990. Sustenta (fl. 514):
+Dessa forma, como a doença de que é portadora a parte autora não consta no rol supratranscrito, o especificado no § 1º do art. 186 da Lei n.º 8.112/90, que é fato incontroverso nos mostra-se descabida a pretensão autoral de aposentadoria com proventos integrais.
+Contrarrazões às fls. 529-535, e-STJ.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 25.1.2018.
+A irresignação não merece acolhimento.
+No tocante à concessão do benefício de aposentadoria por invalidez, com proventos integrais, extrai-se do acórdão recorrido o seguinte (fl. 451, e-STJ):
+Analisando os atestados médicos e os afastamentos concedidos à autora, verifica-se, que todos a priori, eles têm origem comum, qual seja a doença neoplásica por ela descoberta no ano de 2009. Assim, tendo sido a autora considerada incapaz para o exercício de suas funções pela Junta Médica da agravante, não se vislumbra a possibilidade de enquadramento em outra doença que não a neoplásica, ocasionadora das intervenções cirúrgicas, dos problemas oculares e psiquiátricos por ela desenvolvidos de forma subsequente. Não haveria, portanto, como se conceder a aposentadoria por invalidez por "Doença não Especificada em Lei", com proventos proporcionais.
+Ademais, partindo da premissa de que o direito à aposentadoria da agravada se apresenta incontroverso - já que defendido pela servidora e reconhecido pela própria universidade -, penso não ser o caso de se determinar o retorno daquela ao quadro de pessoal da agravante, como decidido pela julgadora monocrática.
+A meu ver, portanto, há de se reformar a decisão recorrida para se determinar, até a prolação da sentença, a suspensão dos efeitos da Portaria nº 1.548, de 14/11/2016 - e não, a sua anulação -, assegurando-se à agravada a percepção de proventos integrais, em razão de aposentadoria por invalidez decorrente de doença grave, mas com cálculo a ser realizado com base na Lei nº 12.618/2012.
+Ao que se observa, o Tribunal de origem, de acordo com as provas constantes nos autos, reconheceu estar caracterizada a situação de invalidez da parte autora, portadora de patologia grave, qual seja, neoplasia maligna, enquadrando-se nas hipóteses de concessão do benefício previstas no art. 186, § 1º, da Lei 8.112/90.
+Portanto, a alteração dessas conclusões, na forma pretendida pela recorrente, demandaria necessariamente a incursão no acervo fático-probatório dos autos. Contudo, tal medida encontra óbice na Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial.
+Ante o exposto, não conheço do Recurso Especial.
+É como voto.
