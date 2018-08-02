@@ -1,0 +1,30 @@
+EMENTA
+PROCESSO CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535, II, DO CPC/1973. NÃO OCORRÊNCIA.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 5ª Região, assim ementado (fls. 260/261):
+ADMINISTRATIVO. USUCAPIÃO EXTRAORDINÁRIO. DOMÍNIO ÚTIL. TERRENO DE MARINHA. REGIME DE AFORAMENTO.ENFITEUSE NÃO REGISTRADOS. OCUPAÇÃO. IMPOSSIBILIDADE.
+I. Trata-se de apelação de sentença que julgou improcedente pedido de declaração de usucapião extraordinário do domínio útil do imóvel situado na Rua Duarte Coelho, nº 166-A e 166, SantaTereza, Olinda/PE.
+II. Sustentam os recorrentes, em suma, que residem no imóvel em questão há mais de 40 anos, possuindo de forma mansa, pacífica e ininterrupta com animus domini. Alegam que o bem foi adquirida por seu pai desde 1968. Defendem que a sentença deve ser anulada, uma vez que não lhes foi proporcionada a produção de provas, para a verificação se o imóvel é realmente terreno de marinha ou se já houve procedimento administrativo para tanto, do qual não foram notificados pessoalmente, nos termos do art. 11 do Decreto-lei nº 9.760/46.
+III. Em suas contrarrazões a União argumenta que existem dois documentos emitidos pela SPU que são os ofícios de fls. 78 e 113, cujos conteúdos declaram a natureza de terreno de marinha dos imóveis e que os atos administrativos gozam de legalidade e veracidade. Defende a inexistência de cerceamento de defesa nos autos, a legalidade do procedimento demarcatório e que não se faz possível na presente ação discutir a existência ou não de notificação dos ocupantes do imóvel do processo demarcatório, posto que extrapola o objeto da ação de usucapião.
+IV. Ao magistrado condutor do processo, cabe analisar a necessidade da dilação probatória, conforme os arts. 125, 130 e 131 do CPC. Assim, o julgador considerando a matéria contestada/impugnada na ação, pode indeferir ou não a realização da prova, por entendê-la desnecessária.
+V. Não dependendo a questão a ser decidida, pelo Juiz de realização trabalho técnico e documental, sendo suficiente a análise de provas carreadas aos autos, não há porque realização das mesmas, sendo o caso em tela, já que os autos já se encontram devidamente instruídos, entendendo-se tratar o imóvel de terreno de marinha.
+VI. Sobre a possibilidade de aquisição do domínio útil de bens públicos em regime de aforamento, via usucapião, este TRF já se manifestou, inclusive, com, a edição da Súmula 17: "possível a aquisição do domínio útil de bens públicos em regime de aforamento, via usucapião, desde que a ação seja movida contra particular, até então, enfiteuta, contra quem se operará a prescrição aquisitiva, sem abranger o domínio útil da União".
+VII. No caso, não há o registro de aforarnento para imóvel objeto da presente ação, sendo de mera ocupação o seu regime, conforme restou demonstrado na documentação acostada aos autos, oriunda da Superintendência de Patrimônio da União em Pernambuco, fls. 78 e 113.
+VIII. A ocupação possui natureza precária, absolutamente diversa da enfiteuse e não dá ensejo a usucapião. Não há na ocupação a dualidade existente no aforamento enfitêutico, no qual a nua propriedade se conserva com a Administração Pública, ao passo em que o particular detém o domínio útil, tendo em vista que:no intuito da ocupação, em que há uso precário do bem público, não tem o ocupante à sua disposição, o domínio útil do bem.
+IX. Não há como prosperar a alegação de nulidade do procedimento demarcatório que constituiu o imóvel usucapiendo em terreno de marinha, pois eventual ausência de notificação pessoal dos proprietários do imóvel não aproveitará aos autores que são meros .ocupantes e passaram a ter posse precária do imóvel somente após o término do procedimento demarcatório (Agresp 200801525963, Francisco Falcão, STJ - Primeira Turma, DJe 10/11/2008).
+X. Apelação impróvida.
+Embargos de declaração rejeitados
+Os recorrentes alegam violação do artigo 535, II, do CPC/1973, ao argumento de que a Corte de origem não se manifestou a respeito da ofensa ao art. 11 do DL nº 9.760/1946.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 302.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Não procede a alegação de ofensa ao artigo 535, II, do CPC/1973, pois os embargos de declaração têm como objetivo sanar eventual obscuridade, contradição ou omissão, vícios inexistentes, no acórdão do Tribunal de origem.
+Com efeito, não há omissão no acórdão recorrido, quando o Tribunal de origem pronuncia-se, de forma clara e precisa, sobre a questão posta nos autos, assentando-se em fundamentos suficientes para embasar a decisão, o que restou atendido, no presente caso.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC. NÃO OCORRÊNCIA. PLANO DE SAÚDE. RECUSA. DANO MORAL. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A reforma do julgado quanto à ocorrência de dano moral no caso de recusa de medicamento demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+3. Agravo regimental não provido". (AgRg no REsp 1535531/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/10/2015, DJe 14/10/2015).
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
