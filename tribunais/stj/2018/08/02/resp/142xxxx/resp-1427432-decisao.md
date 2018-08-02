@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso interposto por VALOR CAPITALIZAÇÃO S/A - EM LIQUIDAÇÃO contra acórdão que, ao negar provimento ao agravo interno, aplicou a multa processual prevista no art. 557, § 2º, do CPC/1973, na razão de 10% do valor corrigido da causa. (e-STJ fls. 110/113).
+Nas suas razões, a recorrente aponta violação dos arts. 186 do CTN, 18, "a", "d" e "f", da Lei n. 6.024/1974 e 332, 496, 515 e 557 do CPC/1973.
+Contrarrazões às e-STJ fls. 161/165.
+Decisão a quo de admissão do apelo nobre às e-STJ fls. 192/194.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita essa consideração, observa-se que não foram atendidos todos os pressupostos objetivos de admissibilidade para a interposição do especial.
+Com efeito, a Corte de origem condenou o ora recorrente ao pagamento de multa de 10% (dez por cento) sobre o valor atualizado da causa, com fundamento no art. 557, § 2º, do CPC/1973, por considerar manifestamente infundado o agravo interno lá interposto.
+Todavia, depreende-se dos autos, mais precisamente da certidão constante à e-STJ fl. 151, que o recorrente deixou de recolher o valor relativo à penalidade aplicada no momento da interposição do recurso especial, circunstância que inviabiliza o seu conhecimento, conforme entendimento pacífico desta Corte. A esse respeito, vide:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. EMBARGOS DE DIVERGÊNCIA. NÃO CONHECIMENTO ANTE O NÃO RECOLHIMENTO PRÉVIO DO VALOR DA MULTA APLICADA COM BASE NO ART. 557, § 2º, DO CPC.
+1. O prévio recolhimento da multa prevista no art. 557, § 2º, do CPC é pressuposto objetivo de admissibilidade de qualquer impugnação recursal, não se conhecendo do recurso manejado sem o seu pagamento, fazendo-se mister registrar que o novel Código de Processo Civil contém regra de idêntico teor (art. 1.021, § 5º). Precedentes.
+2. Embargos de declaração não conhecidos. (EDcl no AgRg no MS 22335/DF, Rel. Min. LUIS FELIPE SALOMÃO, Corte Especial, DJe 16/6/2016).
+No mesmo sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. MULTA IMPOSTA NO ACÓRDÃO. RECOLHIMENTO PRÉVIO. AUSÊNCIA. PRESSUPOSTO OBJETIVO. FAZENDA PÚBLICA. OBSERVÂNCIA.
+1. A jurisprudência desta Corte Superior, na esteira do entendimento do Supremo Tribunal Federal, orienta-se no sentido de que o prévio recolhimento da multa prevista no art. 557, § 2º, do CPC/1973 constitui pressuposto recursal objetivo, cuja exigência se aplica a todas as partes do processo, inclusive à Fazenda Pública.
+2. A multa em questão não se confunde com a isenção do pagamento das custas processuais prevista no art. 1º-A da Lei 9.494/1997, constituindo, pois, penalidade pelo uso abusivo do direito de recorrer, com características próprias e totalmente distintas do dispositivo mencionado pelo ora agravante.
+3. Agravo interno desprovido. (AgInt no REsp 1518736/PB, de minha relatoria, PRIMEIRA TURMA, julgado em 13/12/2016, DJe 17/02/2017). (negritos acrescidos).
+PROCESSUAL CIVIL. CIVIL. MULTA DO ART. 557, § 2º, DO CPC. NECESSIDADE DO DEPÓSITO PRÉVIO COMO CONDIÇÃO PARA INTERPOSIÇÃO DE QUALQUER OUTRO RECURSO. FAZENDA PÚBLICA. APLICABILIDADE. PRECEDENTES DO STF E DO STJ.
+1. Hipótese em que o Tribunal de origem, em juízo de admissibilidade, negou seguimento ao Recurso Especial sob a afirmação de que, "malgrado haja disposição expressa na parte dispositiva do julgado recorrido que eventual interposição de outros apelos exigiria o depósito da multa de 5% (art. 557, § 2º, do CPC), o Município do Natal se descurou em fazê-lo".
+2. O Supremo Tribunal Federal tem entendido ser aplicável à Fazenda Pública a necessidade do depósito prévio da multa prevista no art. 557, § 2º, do CPC, como condição para a interposição de qualquer outro recurso, orientação ressonante na jurisprudência do Superior Tribunal de Justiça. Precedentes. "É certo que a União, os Estados, os Municípios e as autarquias estão isentos do pagamento de custas processuais. Todavia, não se pode confundir o privilégio concedido à Fazenda Pública, consistente na dispensa de depósito prévio para fins de interposição de recurso, com a multa instituída pelo artigo 557, § 2º, do CPC, por se tratar de institutos de natureza diversa." Precedentes.
+3. Agravo Regimental não provido. (AgRg no AREsp 513.377/RN, Rel. Min. HERMAN BENJAMIN, Segunda Turma, DJe 15/8/2015).
+Por fim, cumpre salientar que "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC" (Enunciado Administrativo n. 7 do Plenário do STJ, sessão de 09/03/2016), o que não é o caso dos autos.
+Ante o exposto, NÃO CONHEÇO do recurso especial (art. 255, § 4º, I, do RISTJ).
+Publique-se. Intimem-se.
