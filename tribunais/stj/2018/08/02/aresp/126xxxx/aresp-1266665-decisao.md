@@ -1,0 +1,26 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. MILITAR. REFORMA. INCAPACIDADE DEFINITIVA. INVALIDEZ POR DOENÇA MENTAL. NEXO DE CAUSALIDADE. DESNECESSIDADE. REFORMA DO ACÓRDÃO RECORRIDO QUE SE IMPÕE. CONHECE-SE DO AGRAVO PARA DAR PROVIMENTO AO RECURSO ESPECIAL DO MILITAR.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto por OSVALDO MOREIRA DA [NOME], com fundamento no art. 105, III, alínea a da Constituição Federal, contra acórdão proferido pelo egrégio TRF da 2a. Região, assim ementado:
+APELAÇAO. ADMINISTRATIVO. MILITAR. REFORMA. DOENÇA MENTAL. PROVA PERICIAL DO JUÍZO. ECLOSÃO DURANTE O SERVIÇO MILITAR NÃO COMPROVADA.
+1 - De acordo com o entendimento desta Oitava Turma Especializada, comprovado que o militar é portador de doença mental incurável, que o incapacita definitivamente para toda e qualquer atividade laborativa, necessitando de assistência médica permanente, e que tal enfermidade eclodiu durante a prestação do serviço militar, faz jus à reforma com a remuneração correspondente ao grau hierárquico superior ao que ocupava na data do licenciamento e ao auxílio-invalidez (TRF-2  Região, Processo: 198951010100118, Apelação 451094, Rei. Juiz Federal Convocado à época [NOME], DJU 27/08/2010)
+2 - Com base no laudo emitido pelo perito do Juízo, o qual detém isenção e imparcialidade no caso, não havendo prova de que a doença eclodiu na prestação do serviço militar, deve ser mantida a sentença que julgou improcedente o pedido.
+3 - Apelação desprovida (fls. 190).
+2. Em suas razões recursais sustenta a parte agravante violação dos arts. 106, 108, III, IV, 109, 110 da Lei 6.880/1980 ao argumento de que a enfermidade adquirida guarda relação de causa e efeito com as atividades castrenses.
+3. O Apelo Raro foi inadmitido pela Presidência do Tribunal de origem (fls. 213/214), sobrevindo a interposição de Agravo (fls. 216/218).
+4. É o relatório, em síntese. Decido.
+5. No mérito, o Tribunal de origem consignou às fls. 188 que no entanto, com base no laudo emitido pelo perito do Juízo, o qual detém isenção e imparcialidade no caso, não havendo prova de que a doença eclodiu na prestação do serviço militar, deve ser mantida a sentença que julgou improcedente o pedido.
+6. A irresignação merece prosperar.
+7. A jurisprudência do Superior Tribunal de Justiça fixou o entendimento de que o Militar, temporário ou de carreira, que por motivo de doença ou acidente em serviço se tornou definitivamente incapacitado para o serviço ativo das Forças Armadas, faz jus à reforma, sendo despiciendo, em tal situação, que a incapacidade guarde relação de causa e efeito com a atividade exercida. Confira-se:
+ADMINISTRATIVO. MILITAR. REFORMA. DOENÇA INCAPACITANTE. ECLOSÃO DURANTE A PRESTAÇÃO DO SERVIÇO. NEXO DE CAUSALIDADE. DESNECESSIDADE. SÚMULA 168/STJ.
+1. O entendimento adotado no acórdão embargado encontra-se em consonância com a jurisprudência atual de ambas as Turmas da Primeira Seção, motivo pelo qual incide o disposto na Súmula 168/STJ: Não cabem embargos de divergência, quando a jurisprudência do tribunal se firmou no mesmo sentido do acórdão embargado.
+2. Tem direito à reforma militar o sujeito acometido por doença incapacitante que eclodiu durante a prestação do serviço castrense, independentemente da comprovação do nexo causal (AgRg no REsp 1.318.829/RJ, Rel. Min. ASSUSETE MAGALHÃES, Segunda Turma, DJe 25.3.2015; AgRg no AREsp 436.406/PR, Rel. Min. BENEDITO GONÇALVES, Primeira Turma, DJe 27.11.2014; AgRg no AREsp 510.553/RS, Rel. Min. HUMBERTO MARTINS, Segunda Turma, DJe 18.9.2014; AgRg no AREsp 440.995/RS, Rel. Min. SÉRGIO KUKINA, Primeira Turma, DJe 17.2.2014).
+3. Agravo Regimental não provido (AgRg nos EREsp 1.120.795/RS, Rel. Min. HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 6.5.2015, DJe 4.8.2015).
+
+DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. MILITAR. REFORMA. INCAPACIDADE PARA TODO E QUALQUER TRABALHO RECONHECIDA PELO TRIBUNAL DE ORIGEM. MATÉRIA FÁTICA. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. NEXO CAUSAL ENTRE INCAPACIDADE E ATIVIDADE CASTRENSE. DESNECESSÁRIO. AGRAVO IMPROVIDO.
+1. Tendo o Tribunal de origem, com base no conjunto probatório dos autos, firmado o entendimento de que o militar adquiriu a doença de chagas durante a prestação do serviço militar obrigatório, encontrando-se incapacitado para as atividades castrenses, rever tal posição demandaria o reexame de matéria fática, o que atrai o óbice da Súmula 7/STJ.
+2. Nos termos do art. 106, II, da Lei 6.880/1980, será aplicada a reforma ex officio ao militar que for julgado incapaz, definitivamente, para o serviço ativo das Forças Armadas.
+3. O militar que for considerado incapaz para o serviço militar em decorrência de qualquer das causas constantes do referido art. 108, V e VI, da Lei 6.880/1980 será reformado, independentemente de haver nexo causal entre a incapacidade e a atividade castrense.
+4. Agravo regimental improvido (AgRg no Ag 1030041/MG, Rel. Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, julgado em 4.12.2008, DJe 6.4.2009).
+8. Dessa forma, merece reforma o acórdão recorrido para que se adeque à jurisprudência desta Corte.
+9. Ante o exposto, conhece-se do Agravo para dar provimento ao Recurso Especial do Militar, nos termos da fundamentação acima.
+10. Publique-se. Intimações necessárias.
