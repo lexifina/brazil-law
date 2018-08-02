@@ -1,0 +1,34 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. COMPRA E VENDA DE VEÍCULO. ART. 1.022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. PRETENSÃO À INVERSÃO DO ÔNUS PROBATÓRIO. APRECIAÇÃO DA VEROSSIMILHANÇA DAS ALEGAÇÕES DO REQUERENTE OU DE SUA HIPOSSUFICIÊNCIA. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por [NOME], com base no art. 105, III, a, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 426):
+APELAÇÕES - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO - COMPRA E VENDA DE VEÍCULO - IMPROCEDÊNCIA - RECONVENÇÃO - RESCISÃO DO CONTRATO - DEVOLUÇÃO DO BEM - DANOS MATERIAIS - IMPROCEDÊNCIA - PROVA DO PAGAMENTO - AUSÊNCIA - CONTRATOORAL COMPRA E VENDA - RECONVINTE QUE NÃO COMPROVA FATO CONSTITUTIVO DO SEU DIREITO - SENTENÇA MANTIDA - RECURSOS DESPROVIDOS.
+A ausência de prova do pagamento, seja em relação a empresa que firmou o contrato de compra e venda, seja a emitente da nota fiscal de venda, impede a declaração de inexigibilidade do débito.
+Incumbe ao autor reconvinte a prova do fato constitutivo do seu direito (art. 373, I, CPC). Caso cm que os documentos colacionados pela reconvinte - considerada a narrativa dos fatos e a natureza do objeto negociado - não induzem que a negociação e a forma de pagamento tenham sido pactuada na forma alegada.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 459-467).
+Nas razões do recurso especial (e-STJ, fls. 472-480), o recorrente alegou violação aos arts. 6º do Código de Defesa do Consumidor; e 1.022 do Código de Processo Civil de 2015.
+Sustentou, preliminarmente, que o acórdão recorrido foi omisso quanto ao pedido de inversão do ônus da prova.
+Insurgiu-se, em suma, contra a não concessão do benefício da inversão do ônus da prova, um dos direitos básicos do consumidor.
+Ressaltou que todos os comprovantes carreados à peça inicial demonstram que suas alegações são verossímeis, aduzindo que é comprador de um veículo comercializado por empresas importadoras e vendedoras de superesportivos importados, o que revela sua relação de hipossuficiência técnica com as empresas recorridas.
+Postulou, ao final, a concessão da inversão do ônus da prova e a procedência da demanda para declarar a inexistência de débito com as recorridas, além de indenização por danos morais diante da cobrança indevida.
+A decisão da Vice-Presidência do Tribunal de Justiça do Estado do Mato Grosso deixou de admitir o recurso especial por ausência de violação ao art. 1.022 do CPC/2015 e por incidência da Súmula 7/STJ (e-STJ, fls. 497-500).
+Foi interposto agravo em recurso especial às fls. 504-513 (e-STJ), e contraminuta apresentada às fls. 519-522 (e-STJ).
+Brevemente relatado, decido.
+De início, é importante salientar que o presente recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, de maneira que é aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Dito isso, observa-se que não ficou caracterizada a violação ao art. 1.022 do Código de Processo Civil de 2015, visto que o aresto recorrido adotou fundamentação suficiente para dirimir integralmente a controvérsia, emitindo pronunciamento expresso no que tange à pretendida inversão do ônus probatório, consoante se extrai do seguinte trecho do acórdão que julgou os embargos de declaração (e-STJ, fls. 463-464):
+ Anota-se, por sua vez, que a inversão do ônus probatório previsto no art. 6º, inc. VIII do Código de Defesa do Consumidor, não é absoluto, porque condicionado a verossimilhança das alegações ou em caso de desequilíbrio na produção da prova, razão pela qual a parte autora não estaria isenta de comprovação de suas alegações, máxime se no caso, a discussão recai sobre o adimplemento e não em anomalias do veículo, ou ainda, onerosidade contratual.
+ Ademais, importa ressaltar que em verdade, não poderia mesmo as requeridas fazerem prova negativa do suposto e alegado pagamento, se nada recebeu.
+ Nesta linha, em que a parte autora não se desincumbiu da prova quanto ao adimplemento do veículo, restou ultrapassado o exame do pedido de inversão do ônus da prova. Realça-se: o ônus da prova do pagamento é da parte autora.
+ Logo, reconhecida a ausência de prova quanto ao pagamento, sem razão, por lógica, o exame quanto ao dano moral.
+Depreende-se, assim, que o Tribunal de origem concluiu pela impossibilidade da inversão do ônus da prova por não ter preenchido os requisitos autorizadores de sua concessão, referente à verossimilhança das alegações e hipossuficiência, ressaltando, ainda, que o ora agravante não se desincumbiu da prova de pagamento do veículo.
+Dessa forma, o entendimento acerca da inexistência de hipossuficiência ou da verossimilhança das alegações autorais foi fundado na apreciação de fatos e provas, atraindo a aplicação da Súmula 7/STJ.
+A propósito:
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA. BEM MÓVEL (AR CONDICIONADO). ARREPENDIMENTO NO PRAZO LEGAL (7 DIAS). DEVOLUÇÃO DOS BENS E RECEBIMENTO DO VALOR DA COMPRA. APELO NOBRE. (1) RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. (2) VIOLAÇÃO DOS ARTS. 131, 165, 458 E 535 DO CPC. OMISSÃO E FALTA DE FUNDAMENTAÇÃO INEXISTENTES. (3) ÔNUS DA PROVA. INVERSÃO. CRITÉRIO DO JUIZ. REFORMA. SÚMULA Nº 7 DO STJ. (4) TRIBUNAL A QUO QUE RECONHECEU A EXISTÊNCIA DE ABALO MORAL E FIXOU A REPARAÇÃO COM BASE NOS FATOS DA CAUSA. REFORMA DO JULGADO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.
+ ..
+3. A jurisprudência desta Corte firmou o entendimento de que a inversão do ônus da prova fica a critério do juiz, conforme apreciação dos aspectos de verossimilhança da alegação do consumidor e de sua hipossuficiência, conceitos intrinsecamente ligados ao conjunto fático-probatório dos autos delineado nas instâncias ordinárias, cujo reexame é vedado em especial, em função da aplicação da Súmula nº 7 do STJ.
+4. O Tribunal local, soberano na análise fático-probatória dos autos, reconheceu configurado o dano moral indenizável. A reforma de tal entendimento atrai o óbice da Súmula nº 7 do STJ.
+5. Agravo regimental não provido.
+(AgRg no AREsp 613.913/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/06/2016, DJe 23/06/2016)
+Diante do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários advocatícios em favor do advogado da parte ora recorrida em 5% (cinco por cento) sobre o valor da causa.
+Publique-se.
