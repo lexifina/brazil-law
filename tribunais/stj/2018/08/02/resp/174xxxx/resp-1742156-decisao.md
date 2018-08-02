@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial manejado por [NOME] com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 675):
+APELAÇÃO CÍVEL. AÇÃO DE IMPROBIDADE ADMINISTRATIVA. LEI Nº. 8.429192. APLICABILIDADE. LICITAÇÃO SIMULADA. DANOS INCONTROVERSOS. DOLO OU CULPA GRAVE. IRRELEVÂNCIA. VIOLAÇÃO AOS PRINCÍPIOS DA MORALIDADE E PUBLICIDADE. DEVER DE TRANSPARÊNCIA NOS ATOS DA GESTÃO PÚBLICA.
+A ação civil pública é a via adequada para resguardar o erário e garantir a observância dos princípios da legalidade,moralidade e impessoalidade no trato da coisa pública, tendo efeito sobre todos os agentes públicos, inclusive políticos, de que trata o art. 2.º da Lei n.º 8.429192.
+O artigo 10 da Lei n.º 8.429/92 tipifica como ato de improbidade qualquer conduta, dolosa ou culposa, que cause lesão ao erário, independentemente de o agente experimentar vantagem patrimonial.
+O Administrador Público que causa lesão aos cofres municipais deve ser condenado a ressarcir os prejuízos causados, independente de comprovação do dolo ou culpa grave, por ser o ordenador das despesas.
+Recursos conhecidos mas não providos.
+Opostos embargos declaratórios, foram rejeitados (fls. 740/743)
+A parte recorrente aponta a existência de dissídio jurisprudencial e violação aos seguintes dispositivos da legislação federal:
+(I) art. 535, I e II, do CPC/73, na medida em que o acórdão se recusou a sanar as omissões e contradições apontadas (delegação de atribuições, existência de sentença penal absolutória, ausência de contraditório quanto à prova apresentada, existência de enriquecimento sem causa da municipalidade);
+(II) arts. 134, I, IV e V, 135, I , II e V, e 138, I, todos do CPC/73, ao argumento de que a existência de ação de danos morais, ajuizada pela recorrida, como pessoa física, configura a hipótese de quebra de imparcialidade. Acrescenta que o simples fato da ação de danos morais ter transitado em julgado, não afasta o impedimento da recorrida em atuar nos feitos em que seja interessado;
+(III) arts. 65 do CPP, 301 do CPC/73 e 935 do Código Civil, afirmando que o acórdão proferido no Juízo Criminal, reconhecendo que o fato evidentemente não constitui crime, faz coisa julgada na esfera cível;
+(IV) arts. 333, I, 344, 416 e 452, II, todos do CPC/73, uma vez que foi condenado exclusivamente com fundamento no depoimento extrajudicial do corréu Walter, sem o crivo do contraditório;
+(V) art. 884 do Código Civil e 9º e 10, da Lei nº 8.429/1992, sob o fundamento de que os telefones foram entregues à municipalidade, não havendo, pois, que se falar em ressarcimento da quantia paga, importando em enriquecimento sem causa da municipalidade, que recebeu os aparelhos telefônicos, e agora, com a condenação, também receberia o valor dos mesmos. Aduz, ainda, que foi condenado sem que houvesse sido apontada qualquer lesão ao erário, tendo ademais, sido aplicadas sanções em excesso, desarrazoadas e desproporcionais.
+O Ministério Público Federal, em parecer ofertado pela Subprocuradora-Geral da República [NOME], opina pelo não conhecimento do recurso (fls. 1.024/1.027).
+É o relatório. Passo a decidir.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+A pretensão recursal merece acolhida pelo art. 535 do CPC/73, pois a parte recorrente, nas razões dos embargos de declaração e do recurso especial, alegou o seguinte:
+(I) "o processo de licitação ocorreu sem a participação dele, sendo que este não determinou qualquer procedimento fraudulento, ou mesmo falsificação de assinatura de proposta" (fl. 697);
+(II) o fato de "a RMP, na qualidade de pessoa física,ter ajuizado ação de danos morais" contra ele gera nulidade do feito (fl. 699);
+(III) "pelo mesmo fato objeto da presente ação foi denunciado criminalmente  Processo nº 0017785- 34.2010.8.13.0083). Sendo neste, a colenda 3ª Câmara Criminal do eg. TJMG, por maioria absolveu" (fl. 699);
+(IV) "a única suposta prova era o depoimento extrajudicial, sem o crivo do contraditório" (fl. 701);
+(V) "restituir o valor dos mesmos sem que tenha havido devolução a empresa contratada, importa em enriquecimento sem causa da municipalidade" (fl. 701)
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação, rejeitando os pertinentes aclaratórios do ora agravante, em franca violação ao art. 535 do CPC/73, porquanto não prestada a jurisdição de forma integral.
+Ante o exposto, dou provimento ao recurso especial para anular o acórdão que apreciou os embargos de declaração e, por conseguinte, determinar o retorno dos autos ao Tribunal de origem a fim de que seja realizado novo julgamento com o expresso enfrentamento das questões aqui tidas por omitidas.
+Publique-se.
