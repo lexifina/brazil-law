@@ -1,0 +1,76 @@
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. NEGATIVA DE FORNECIMENTO DE MEDICAMENTO. RECUSA INDEVIDA. ESTIPULAÇÃO CONTRATUAL. CLÁUSULA LIMITATIVA. ABUSIVIDADE. DECISÃO EM CONFORMIDADE COM O ENTENDIMENTO DO STJ. INCIDÊNCIA DA SÚMULA Nº 568 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+LUCIANE TAVIANO DONATO DO AMARAL (LUCIANE) ajuizou ação de obrigação de fazer contra UNIMED DE LONDRINA COOPERATIVA DE TRABALHO MÉDICO (UNIMED), julgada procedente para reconhecer o dever da operadora fornecer o medicamento pleiteado.
+O Tribunal local negou provimento ao recurso de apelação interposto pela UNIMED, conforme acórdão que ficou assim ementado:
+APELAÇÃO CÍVEL - PLANO DE SAÚDE - MEDICAMENTO EXPERIMENTAL - NULIDADE DA SENTENÇA POR CERCEAMENTO DE DEFESA - INOCORRÊNCIA - DILAÇÃO PROBATÓRIA DESNECESSÁRIA - COBERTURA NEGADA - AUTORA PORTADORA DE CÂNCER - TRATAMENTO PRESCRITO POR MÉDICO RESPONSÁVEL PELO ATENDIMENTO DA REQUERENTE LEGISLAÇÃO CONSUMERISTA - NULIDADE DE CLÁUSULA ABUSIVA - TRATAMENTO DE QUIMIOTERAPIA QUE POSSUI EXPRESSA COBERTURA - LIMITAÇÃO DO TRATAMENTO MÉDICO DESCABIDA - DEVER DE COBERTURA PELO PLANO DE SAÚDE - IMPERIOSO CUSTEIO DO MEDICAMENTO PRESCRITO PRECEDENTES DO STJ E DESTE TRIBUNAL.
+RECURSO DESPROVIDO (e-STJ, fls. 477/478).
+Os embargos de declaração opostos pela UNIMED foram rejeitados (e-STJ, fls. 513/534).
+Inconformada, a UNIMED interpôs recurso especial, com base no art. 105, III, a, da Constituição Federal, alegando violação dos arts. 47, 51, IV, e 54, §4º, do CDC, por entender, em suma, que não pode ser obrigada a fornecer medicamento de caráter experimental para o tratamento de câncer. Asseverou que o pacto firmado entre as partes foi redigido de forma clara e de fácil compreensão, logo deve ser preservado por não implicar em abusividade (e-STJ, fls. 537/544).
+Contrarrazões não apresentadas (e-STJ, fl. 550)
+Em juízo de admissibilidade, o apelo nobre foi inadmitido por incidência das Súmulas nºs 5, 7 e 83 do STJ (e-STJ, fls. 551/554).
+Contra essa decisão, a UNIMED manejou o presente agravo alegando, em suma, a violação de dispositivos de lei federal, bem como a inaplicabilidade dos óbices sumulares (e-STJ, fls. 557/562).
+Contraminuta não apresentada (e-STJ, fl. 564).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que o presente agravo em recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da alegada ofensa aos arts. 47, 51, IV, e 54, §4º, do CDC
+Cinge-se a controvérsia sobre legalidade da UNIMED recusar o fornecimento de medicamento de caráter experimental para o tratamento de câncer, sob o argumento de que o contrato estabelecido entre as partes deve ser preservado.
+A Corte de origem, ao manter a sentença de procedência do pedido de fornecimento do medicamento, assim consignou:
+Feitas tais considerações, verifica-se que as garantias asseguradas pelo Código de Defesa do Consumidor não foram respeitadas na hipótese dos autos.
+A autora é portadora de carcinoma ductal invasor em grau 2 - câncer de mama - e para seu tratamento médico foi indicada "12 sessões de quimioterapia com a seguinte medicação: TAXOTERE 75mg/m2  PERJETA 840mg (dose inicial, depois 420mg)  HERCEPTIN 8mg/kg (dose inicial, depois 6mg/kg)  KYTRIL 3mg Dl cada 21 dias" A cobertura do medicamento Perjeta foi negada pela requerida, sob a alegação de que o uso do medicamento era experimental, havendo no contrato exclusão expressa.
+Compulsando os autos, verifica-se que, de fato, a cláusula 10.1.1 do contrato de plano de saúde prevê como serviços não cobertos pelo seguro "tratamentos e cirurgias experimentais, exames e medicamentos não reconhecidos pelo Serviço Nacional de Fiscalização de Medicina e Farmácia (S.N.F.M.F.), cirurgias e tratamentos não éticos ou ilegais, cirurgia para mudança de sexo e inseminação artificial" (fl. 47).
+Contudo, tem-se que tal cláusula é nula, à luz do artigo 51 do Código Consumerista, porquanto estabelece limitação abusiva ao direito do consumidor.
+Vale ponderar que os serviços não cobertos pelo seguro, mesmo nas hipóteses previstas em Lei, não estão isentos da observância às normas impostas pelo Código de Defesa do Consumidor, destacando-se o dever de informação, a interpretação das cláusulas a favor do consumidor, o respeito à boa -fé objetiva e a transparência, mormente quando se está tratando de disposições restritivas de direitos, em pactos por adesão.
+Isso se justifica, principalmente, porque a maioria dos consumidores que concluem contratos pré -redigidos o fazem sem conhecer precisamente os seus termos.
+Geralmente o contratado não tem a oportunidade de estudar e analisar com cuidado as cláusulas do contrato, seja porque ele as receberá somente após concluí-lo, seja porque o instrumento contratual é longo, impresso em pequenas letras e em linguagem técnica, desestimulando a sua leitura e colaborando para que o consumidor se contente com as informações gerais prestadas pelo contratante.
+Destaca-se que a forma como está inserida uma cláusula limitativa, seu conteúdo em relação ao objeto do contrato, ou até a apresentação de Uma proposta simplificada na contratação, com a posterior entrega ao segurado do contrato, causam total desconhecimento das cláusulas - especialmente as limitativas - além de gerar profundo desequilíbrio entre o segurado que almeja a proteção pessoal ou patrimonial e o segurador, que necessita limitar os riscos para viabilização das indenizações.
+Nesse espeque, mesmo que o procedimento fosse considerado experimental, a cobertura pelo plano de saúde se torna necessária se este foi considerado pelos médicos responsáveis como o meio apto a proporcionar ao usuário do plano a sua melhora, certo que são profissionais habilitados e conhecedores dos avanços tecnológicos da medicina, que tendem a resguardar e recuperar o estado de saúde anterior do enfermo.
+Desse modo, as recomendações e conhecimentos médicos aplicáveis à reabilitação da paciente devem prevalecer sobre meras afirmações da seguradora, em prol do direito à saúde e à vida.
+Além disso, argumenta-se que um dia a penicilina também foi tratamento experimental; as cirurgias de mesmo modo o foram;
+e vários outros procedimentos. A ciência avança justamente pelos experimentos. Assim, igualmente, desenvolve-se a medicina.
+Logo, é possível afirmar que a cláusula restritiva do direito em questão deve ser tida por abusiva, não cabendo à ré o questionamento quanto ao tratamento prescrito pelo médico da paciente (e-STJ, fls. 493/496).
+ ..
+Some-se a isto que o Superior Tribunal de Justiça firmou entendimento de que os planos de saúde podem estabelecer quais doenças serão cobertas, mas não podem limitar o tipo de tratamento a ser ministrado ao paciente (e-STJ, fl. 502).
+ ..
+Dessa feita, como já mencionado anteriormente, compete ao médico que acompanha a paciente definir qual é o melhor tratamento para alcançar a cura ou amenizar os efeitos da enfermidade que a acomete, incluindo o uso de medicamentos ainda que ditos experimentais, motivo pelo qual o plano de saúde não pode se recusar a custear o fármaco prescrito (e-STJ, fl. 503).
+A propósito, registre-se voto proferido pelo saudoso Ministro CARLOS MENEZES DIREITO, no julgamento do RESP nº 668.216/SP:
+Todavia, entendo que deve haver uma distinção entre a patologia alcançada e a terapia. Não me parece razoável que se exclua determinada opção terapêutica se a doença está agasalhada no contrato. Isso quer dizer que se o plano está destinado a cobrir despesas relativas ao tratamento, o que o contrato pode dispor é sobre as patologias cobertas, não sobre o tipo de tratamento para cada patologia alcançada pelo contrato. Na verdade, se não fosse assim, estar-se-ia autorizando que a empresa se substituísse aos médicos na escolha da terapia adequada de acordo com o plano de cobertura do paciente. E isso, pelo menos na minha avaliação, é incongruente com o sistema de assistência à saúde, porquanto quem é senhor do tratamento é o especialista, ou seja, o médico que não pode ser impedido de escolher a alternativa que melhor convém à cura do paciente. Além de representar severo risco para a vida do consumidor. (..) Nesse sentido, parece-me que a abusividade da cláusula reside exatamente nesse preciso aspecto, qual seja, não pode o paciente, consumidor do plano de saúde, ser impedido de receber tratamento com o método mais moderno do momento em que instalada a doença coberta em razão de cláusula limitativa. É preciso ficar bem claro que o médico, e não o plano de saúde, é responsável pela orientação terapêutica. Entender de modo diverso põe em risco a vida do consumidor (sem destaques no original).
+E ainda, como bem ressaltou a Ministra MARIA ISABEL GALLOTTI, ao examinar o AgRg no AREsp nº 7.865/RO, delineado pelas instâncias de origem que o contrato celebrado entre as partes previa a cobertura para a doença que acometia a autor, é abusiva a negativa da operadora do plano de saúde de fornecimento dos medicamentos prescritos pelo médico que assiste o paciente.
+Nesse mesmo sentido, vejam-se os seguintes julgados:
+ESPECIAL. PLANO DE SAÚDE. TRATAMENTO. TÉCNICA MODERNA. CIRURGIA. NEGATIVA DE COBERTURA. CLÁUSULA ABUSIVA. VIOLAÇÃO AO ART. 535 DO CPC NÃO CONFIGURADA.
+ ..
+3. Delineado pelas instâncias de origem que o contrato celebrado entre as partes previa a cobertura para a doença que acometia o autor, é abusiva a negativa da operadora do plano de saúde de utilização da técnica mais moderna disponível no hospital credenciado pelo convênio e indicada pelo médico que assiste o paciente. Precedentes.
+4. Recurso especial provido.
+(REsp nº 1.320.805/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe 17/12/2013 - sem destaque no original).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. COBERTURA. NEGATIVA. MEDICAMENTO EXPERIMENTAL. INCIDÊNCIA DA SÚMULA 83/STJ.
+1. O acórdão recorrido está em conformidade com o entendimento desta Corte no sentido de que o plano de saúde pode estabelecer as doenças que terão cobertura, mas não pode limitar o tipo de tratamento a ser utilizado pelo paciente. Precedentes.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp nº 345.433/PR, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 28/8/2013 - sem destaque no original).
+PROCESSO CIVIL E CIVIL. PLANO DE SAÚDE. TRATAMENTO MÉDICO. COBERTURA. DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE APRECIAÇÃO. ANTECIPAÇÃO DE TUTELA. REQUISITOS LEGAIS. MATÉRIA FÁTICA. SÚMULA N. 7 DO STJ.
+ ..
+3. O plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de tratamento utilizado para a cura de cada uma delas.
+4. Agravo regimental desprovido.
+(AgRg no Ag nº 1.350.717/PA, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, DJe 31/3/2011 - sem destaque no original).
+Ademais, ressalte-se que até mesmo o rol da ANS é meramente exemplificativo e não representa a exclusão de tácita de cobertura contratual.
+Confiram-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. COBERTURA DE TRATAMENTO. CRIANÇA COM ENCEFALOPATIA CRÔNICA. CLÁUSULA CONTRATUAL. ABUSIVIDADE. URGÊNCIA NO TRATAMENTO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS NºS 5 E 7/STJ. PROCEDIMENTO. PREVISÃO. ROL DA AGÊNCIA NACIONAL DE SAÚDE. DESNECESSIDADE.
+1. A orientação jurisprudencial desta Corte é firme no sentido de que para se averiguar a existência ou a ausência de cláusulas limitadoras e abusivas seria necessária a análise do contrato, cujo revolvimento é inviável em recurso especial, haja vista o disposto nas Súmulas nºs 5 e 7/STJ.
+2. O tribunal de origem decidiu conforme o entendimento firmado por esta Corte, no sentido de não ser possível a exclusão de cobertura essencial à tentativa de recuperação da saúde do paciente.
+3. Como ressaltado pela instância ordinária, o direito ao tratamento postulado também se encontra assegurado em razão da urgência no procedimento, tendo em vista que o autor, ora agravado, corre o risco de sofrer lesões, piorando seu quadro de paralisia cerebral.
+4. A falta de previsão de procedimento médico solicitado no rol da ANS não representa a exclusão tácita da cobertura contratual.
+5. Agravo regimental não provido.
+(AgRg no AREsp nº 845.190/CE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe de 28/6/2016 - sem destaque no original).
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE COBERTURA DE PROCEDIMENTO MÉDICO. DOENÇA PREVISTA NO CONTRATO DE PLANO DE SAÚDE. PROCEDIMENTO NÃO PREVISTO NO ROL DA ANS. ROL EXEMPLIFICATIVO. COBERTURA MÍNIMA. INTERPRETAÇÃO MAIS FAVORÁVEL AO CONSUMIDOR. SÚMULA N. 83 DO STJ. DANO MORAL. NÃO IMPUGNAÇÃO DE FUNDAMENTO SUFICIENTE POR SI SÓ PARA A MANUTENÇÃO DA DECISÃO AGRAVADA. SÚMULA N. 283 DO STF. QUANTUM INDENIZATÓRIO. SÚMULA N. 182/STJ.
+1. Não é cabível a negativa de tratamento indicado pelo profissional de saúde como necessário à saúde e à cura de doença efetivamente coberta pelo contrato de plano de saúde.
+2. O fato de eventual tratamento médico não constar do rol de procedimentos da ANS não significa, per se, que a sua prestação não possa ser exigida pelo segurado, pois, tratando-se de rol exemplificativo, a negativa de cobertura do procedimento médico cuja doença é prevista no contrato firmado implicaria a adoção de interpretação menos favorável ao consumidor.
+3. É inviável agravo regimental que deixa de impugnar fundamento da decisão recorrida por si só suficiente para mantê-la. Incidência da Súmula n. 283 do STF.
+4. "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada" (Súmula n. 182 do STJ).
+5. Agravo regimental parcialmente conhecido e desprovido.
+(AgRg no AREsp nº 708.082/DF, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, DJe de 26/2/2016 - sem destaque no original).
+Logo, o acórdão recorrido está alinhado ao entendimento pacificado nesta Corte de Justiça que, consoante a Súmula nº 568 do STJ, O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema (Corte Especial, DJe 17/3/2016).
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Assim, considerando a aplicabilidade das regras do NCPC e o não conhecimento do recurso especial, MAJORO os honorários advocatícios anteriormente fixados em desfavor de UNIMED de R$ 4.000,00 (quatro mil reais) para R$ 4.200,00 (quatro mil e duzentos reais), nos termos do art. 85, § 11 do NCPC.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
