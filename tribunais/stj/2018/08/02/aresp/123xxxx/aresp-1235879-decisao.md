@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo manejado por Banco Santander (Brasil) S.A. contra decisão que inadmitiu recurso especial, este interposto com base no art. 105, III, a, da CF em face de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 201):
+EMENTA: APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO FISCAL - IPVA - ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO AUTOMOTOR - RESPONSABILIDADE SOLIDÁRIA DO DEVEDOR E CREDOR FIDUCIÁRIO - LEI 14.937/2003 - PRESCRIÇÃO PARCIAL DOS CRÉDITOS TRIBUTÁRIOS- ART.174 DO CTN- RECONHECIMENTO- SENTENÇA CONFIRMADA. 1. A responsabilidade pelo pagamento do IPVA incidente sobre veículo objeto de alienação fiduciária é solidária entre o devedor e o credor fiduciário, consoante o artigo 5o da Lei 14.937/2003. 2. Para a instituição do IPVA, as normas gerais atinentes ao fato gerador, base de cálculo e contribuintes hão de ser definidas por Lei Complementar, à luz do disposto no art. 146, III, "a", da CR/88. Todavia, é a própria Constituição que preceitua, no art. 24, §3º, que inexistindo legislação federal sobre normas gerais, assim como ocorre com o IPVA, podem os Estados e Distrito Federal exercer competência legislativa plena, para atender as suas particularidades. 3. Segundo o art. 174 do CTN o prazo prescricional para cobrança do crédito tributário é de cinco anos contados da sua constituição definitiva.
+Opostos embargos declaratórios, foram rejeitados (fls. 223/226).
+Nas razões do recurso especial, a parte agravante aponta ofensa aos artigos 535 do CPC/73; 110 CTN. Sustenta, em síntese: (I) o Tribunal de origem se manteve omisso sobre questões importantes ao deslinde da controvérsia, apesar da oposição dos aclaratórios; (II) " o Estado de Minas Gerais vem alterando o conceito de propriedade, ao arrepio do art. 110 do CTN, exigindo dos credores fiduciários, solidariamente aos devedores fiduciários, o pagamento de débito de IPVA, olvidando o fato de que o contribuinte do IPVA é o proprietário e a transferência de propriedade de que trata a alienação fiduciária em garantia nada mais é que ficção jurídica" (fl. 233).
+Contrarrazões às fls. 248/252.
+É o relatório.
+A irresignação não merece prosperar.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No mérito, verifica-se que o Tribunal de origem, ao decidir a controvérsia, valeu-se da interpretação das regras contidas na Lei Estadual nº 14.937/03, conforme se depreende do seguinte trecho do acórdão recorrido (fls. 203/206):
+ No presente caso, o recorrente integra o polo passivo da execução fiscal movida pelo Estado de Minas Gerais relativa a débito de IPVA dos anos de 2006 a 2010, por ser credor fiduciário do veículo que deu origem à dívida ativa. Devidamente citado, apresentou os presentes embargos à execução, que foram parcialmente acolhidos apenas para reconhecer a prescrição dos débitos anteriores a 10/01/2007.
+ Sabe-se que a alienação fiduciária é espécie contratual prevista nos artigos l .361 e seguintes do Código Civil e na Lei n. 4.728/65, com a redação que lhe foi dada pelo Decreto-Lei n. 911/69 e pela Lei n. 10.931/04, através da qual a propriedade resolúvel de um bem móvel é transferida do devedor para o credor, como garantia.
+ Logo, ao contrário do que afirma o apelante, o credor fiduciário é proprietário do bem até que haja o pagamento total do valor devido, quando haverá a transferência do domínio da coisa dada em garantia para o devedor fiduciário.
+ Por outro lado, pode-se afirmar que a competência para instituição do IPVA foi atribuída aos Estados e ao Distrito Federal, a teor do artigo 155, da CF, verbis:
+  ..
+ Assim, foi publicada a Lei 14.937 em 23 de dezembro de 2003, que dispõe sobre o IPVA no Estado de Minas Gerais:
+  ..
+ Passando ao pagamento do tributo, a Lei estabelece, em seu artigo 5o, a responsabilidade solidária entre o devedor fiduciário e proprietário pelo pagamento do Imposto sobre Propriedade Veículos Automotores, in verbis:
+  ..
+ Pela leitura do artigo supra transcrito, resta verificar quem é a figura do proprietário neste caso especifico.
+ Pois bem.
+ Consoante o caput do artigo 1.361 do Código Civil considera-se fiduciária a propriedade resolúvel de coisa móvel infungível que o devedor, com escopo de garantia, transfere ao credor.
+ Considerando, ainda, que o artigo 4o da legislação mencionada determina ser o contribuinte do IPVA, o proprietário de veículo automotor e, que até o cumprimento integral da obrigação, a propriedade do veículo é da instituição recorrente, não há como acolher o pleito exordial.
+ E nem se fale em princípio da capacidade contributiva, porque como dito, até o cumprimento da dívida, o veiculo se incorpora ao patrimônio das instituições financeiras, e não do devedor fiduciário.
+  ..
+ Outrossim, não merece prosperar a alegação do apelante de que a Lei nº 14.937/03 é inconstitucional por não possuir a competência para determinar o sujeito passivo da obrigação tributária.
+ É certo que para a instituição do IPVA, as normas gerais atinentes ao fato gerador, base de cálculo e contribuintes hão de ser definidas por Lei Complementar, à luz do disposto no art. 146, III, "a", da CR/88. Todavia, é a própria Constituição que preceitua, no art. 24, §3º, que inexistindo legislação federal sobre normas gerais, assim como ocorre com o IPVA, podem os Estados e Distrito Federal exercer competência legislativa plena, para atender as suas particularidades.
+ Por oportuno, ressalte-se que o Órgão Especial deste Tribunal, no julgamento do incidente de inconstitucionalidade nº 1.0024.11.301572-1 /002, de Relatoria do Des. Elias Camilo Sobrinho, rejeitou referida tese, restando assim ementado o acórdão:
+  ..
+ Destarte, a responsabilidade pelo pagamento do IPVA incidente sobre veículo objeto de alienação fiduciária é solidária entre o devedor e o credor fiduciário, consoante o artigo 5o da Lei 14.937/2003, sendo descabido o argumento de nulidade e inexigibilidade da CDA.
+Assim, nas razões de recurso especial interposto, conquanto o ora agravante aponte ofensa à legislação federal, o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
