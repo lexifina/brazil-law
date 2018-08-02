@@ -1,0 +1,13 @@
+DECISÃO
+Vistos, etc.
+Trata-se de habeas corpus substitutivo de recurso especial, com pedido de liminar, impetrado em favor de JOÃO [NOME] DOS [NOME] [NOME] contra acórdão do Tribunal de Justiça do Estado da Bahia (Apelação n.º 0014944-29.2012.8.05.0080).
+Consta dos autos que o Paciente foi condenado, pela prática do crime de tráfico de drogas, à pena de 05 (cinco) anos de reclusão, em regime inicial fechado.
+Na presente impetração, a Defesa assevera, em suma, que o Paciente faz jus à redução de pena prevista no art. 33, § 4.º, da Lei n.º 11.343/2006, porque preenche todos os requisitos legais para tanto. Principalmente, porque não teria ficado provado, na instrução criminal, que ele faria parte de organização criminosa. E, como a pena aplicada foi inferior a 08 (oito) anos de reclusão e a sentença foi desmotivada nesse ponto, entende que o Réu faz jus a iniciar o cumprimento da pena em regime mais brando.
+Postula a concessão de medida liminar, " ..  para suspender os efeitos da condenação até o final julgamento do presente pedido revisional" (fl. 5).
+É o relatório inicial.
+Decido.
+Acerca da pretensão recursal apresentada ao Tribunal a quo pelo ora Paciente, o aresto atacado aduz o seguinte:
+"Quanto aos [NOME] e [NOME], nas razões de fls. 1508/1511 e 1814/1817, afirmam que "o processo foi um palco de cerceamento de defesa aos patronos do réu, que não obtiveram acesso às escutas telefônicas interceptadas, bem como, a ocorrência do desrespeito ao devido processo legal, onde os acusados permaneceram mais de 01 ano para terem a sua sentença proferida" (sic, f1.510). Assim, insurgem contra a decisão a quo, requerendo suas absolvições. Ao final, pleiteam a desclassificação para as condutas previstas no art. 28 da Lei de Tóxicos, afirmando que são meros usuários de "maconha". Por fim, [NOME] alega que sua condenação, pelo crime de receptação, não se justifica, visto que não tinha ciência quanto a origem ilícita do veículo, bem como afirma que não tinha nenhuma munição guardada em sua casa" (fls. 16/17).
+Como se observa do excerto supratranscrito, as questões relativas à aplicação da minorante do art. 33, § 4.º, da Lei n.º 11.343/2006 e ao cabimento de regime prisional menos gravoso não foram objeto da irresignação recursal apresentada à Corte local e, por consequência, não foram tratadas na instância precedente, motivo pelo qual o debate, nesta Corte Superior, implicaria indevida supressão de instância, com explícita violação à competência originária para o julgamento de habeas corpus, definida no art. 105, inciso I, alínea c, da Constituição da República.
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
