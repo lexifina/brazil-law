@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSS, com fundamento no art. 105, a, da CF/88, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 127):
+EXECUÇÃO. APOSENTADORIA POR INVALIDEZ. DESCONTO DO PERÍODO DE PRESTAÇÃO LABORATIVA. AUSÊNCIA DE COMPENSAÇÃO NO TÍTULO EXECUTIVO OU FATO SUPERVENIENTE. OBEDIÊNCIA. COISA JULGADA. CORREÇÃO MONETÁRIA E JUROS DE MORA. APLICABILIDADE DO ART. 1º-F DA LEI Nº 9.494/97 COM REDAÇÃO DADA PELA LEI Nº 11.960/09. INCONSTITUCIONALIDADE DECLARADA NAS ADIS 4.357 E 4.425 RESTRITA A ATUALIZAÇÃO DOS REQUISITÓRIOS.
+- O magistrado, na fase de execução, está adstrito à imutabilidade da coisa julgada (art. 5o, XXXVI, da Constituição Federal) e ao conteúdo do título executivo.
+- O título judicial em execução não determinou a compensação do período de prestação laborativa. Obediência à coisa julgada.
+- No julgamento das ADIs 4.357 e 4.425, foi objeto de declaração de inconstitucionalidade por arrastamento o art. 1º-F da Lei 9.494/97, mas limitado apenas à parte em que o texto legal estava vinculado ao art. 100, § 12, da CF, incluído pela EC 62/2009, o qual se refere tão somente à atualização de valores de requisitórios.
+- A atualização monetária das condenações impostas à Fazenda Pública antes da expedição do requisitório ainda não foi objeto de pronunciamento expresso pelo colendo Supremo Tribunal Federal, no tocante à constitucionalidade, de sorte que continua em pleno vigor o art. 1º-F da Lei 9.494/97, com a redação dada pela Lei 11.960/09.
+Apelação do exequente parcialmente provida.
+Não foram opostos embargos de declaração.
+Em seu especial, aponta o recorrente ofensa aos arts. 462, 741 e 742 do CPC/73; 368, 876, 884 e 885 do CC; 42, 43, 46, 47, 59, 60, 101, 115, da Lei 8.213/91. Sustenta, em síntese, que ".. nada é devido ao exequentc durante o período em que trabalhou, ressaltando que não se pretende desconstituir a coisa julgada, mas sim justificar a vedação de pagamento cumulativo entre salário e benefício previdenciário por incapacidade, tendo em vista que este é substitutivo c não complementar da renda salarial, sendo evidente que se trata de mero acerto contábil para solucionar o impasse, na forma da lei, não sendo caso de aplicação do julgamento do Recurso Especial nº 1.235.513/AL, sob pena de afronta ao artigo 543-C, §7º, II, do CPC/73." (fls. 132/133).
+Contrarrazões às fls. 142/152.
+É o relatório.
+O recurso não prospera.
+Isso porque, no presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja (fls. 123/124):
+A autarquia previdenciária opôs os presentes embargos alegando excesso de execução, pois a parte autora exerceu atividade laborativa remunerada no período agosto/2013 a setembro/2014. Subsidiariamente, aduz inconsistências nos cálculos elaborados pelo exequente, tendo em vista a não aplicação da Lei nº 11.960/09, para fins de correção monetária e juros de mora.
+A Primeira Seção do Colendo Superior Tribunal de Justiça, em sessão de julgamento realizada em 27/06/2012, em sede de recurso representativo da controvérsia (Recurso Especial Repetitivo 1.235.513/AL, Rel. Min. Castro Meira), firmou orientação no sentido de que a compensação somente poderá ser alegada, em sede de embargos à execução, se houver impossibilidade da alegação no processo de conhecimento ou se fundar em fato superveniente à sentença, caso contrário haveria ofensa à coisa julgada.
+Logo, a pretensão esbarra, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
