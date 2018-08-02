@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso especial manejado pela Superintendência de Seguros Privados com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 419):
+ADMINISTRATIVO. EXECUÇÃO FISCAL. MULTA ADMINISTRATIVA. SOCIEDADE SEGURADORA. DECRETAÇÃO DA LIQUIDAÇÃO EXTRAJUDICIAL. INEXIGIBILIDADE SUPERVENIENTE DO CRÉDITO. EXTINÇÃO DO PROCESSO.
+1. A Lei nº 11.101/2005, em seu art. 2º, excluiu as sociedades seguradoras da sua abrangência, submetendo-as ao Decreto-Lei nº 73/66.
+2. Nos termos do art. 98 do DL nº 73/66, a decretação da liquidação extrajudicial da sociedade seguradora torna inexigível o débito relativo a penalidades de natureza administrativa, ocasionando a inevitável extinção do feito executivo, em razão da perda superveniente do objeto.
+A parte recorrente aponta violação aos arts. 29 da Lei n. 6.830/80; 18, a, 19 e 21, parágrafo único, da Lei n. 6.024/74. Sustenta, em síntese, que é possível a cobrança de multa administrativa de sociedade sujeita à liquidação extrajudicial. Discorre, ainda, sobre a aplicabilidade do art. 2º, caput, da Lei n. 6.830/80; 52 e 83 da Lei Complementar n. 109/2001.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+A matéria pertinente aos arts. 2º, caput, 29 da Lei n. 6.830/80; 18, a, 19 e 21, parágrafo único, da Lei n. 6.024/74; 2 e 83 da Lei Complementar n. 109/2001 não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
