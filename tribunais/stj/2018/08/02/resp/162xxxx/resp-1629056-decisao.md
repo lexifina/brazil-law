@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO, com fulcro na alínea "a" do permissivo constitucional, e que desafia acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (e-STJ fl. 278):
+PROCESSO CIVIL AGRAVO DE INSTRUMENTO. VALOR INCONTROVERSO. EXECUÇÃO DEFINITIVA. EXPEDIÇÃO DE PRECATÓRIO. POSSIBILIDADE. RETENÇÃO DE HONORÁRIOS CONTRATADOS. DISCUSSÃO JUDICIAL NÃO TRANSITADA EM JULGADO.
+1. O Superior Tribunal de Justiça já firmou posicionamento no sentido de que a execução da parcela da divida não impugnada pelo ente público deve ter regular prosseguimento, não havendo óbice à expedição de precatório (AgRg nos, EDcl no Resp 1497627/PR, Rel Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 14/04/2015, DJe 20/04/2015).
+2. Nessa linha de raciocínio, o precatório referente aos valores sobre os quais ainda pende discussão judicial não pode ser expedido Manutenção da decisão nesse aspecto.
+3. Agravo de instrumento provido parcialmente.
+Os embargos de declaração opostos foram rejeitados.
+O recorrente aponta violação dos arts. 535, II, e 730, I e II, do CPC/1973; e 100, § 5º, da CF/1988.
+Sustenta, preliminarmente, negativa de prestação jurisdicional. Alega, em síntese, que é incabível a expedição de requisição de pagamento anteriormente ao trânsito em julgado da decisão que discute o montante do débito da Fazenda Pública.
+Contrarrazões apresentadas.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Inicialmente, considera-se deficiente a fundamentação do recurso especial em que se aponta, genericamente, ofensa ao art. 535 do Código de Processo Civil sem a indicação clara e precisa do vício contido no acórdão acoimado, atraindo, nesse ponto, a aplicação da Súmula 284 do STF.
+A propósito, destaco precedentes:
+PROCESSUAL CIVIL E TRIBUTÁRIO. ICMS. IMPORTAÇÃO. NÃO INCIDÊNCIA. ARRENDAMENTO MERCANTIL. INEXISTÊNCIA DE CIRCULAÇÃO DE MERCADORIAS. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE EXAME NO RECURSO ESPECIAL. ANÁLISE DE LEI LOCAL. SÚMULA 280/STF. VIOLAÇÃO DO ART. 535 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA.
+1.  ..
+3. Não se conhece do Recurso Especial em relação à ofensa ao art. 535 do CPC quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF. 4. É inadmissível Recurso Especial quanto a questão inapreciada pelo Tribunal de origem (arts. 2º, § 1º, I, 4º, I, 12, IX, da Lei 87/1996), a despeito da oposição de Embargos Declaratórios. Incidência da Súmula 211/STJ.
+ ..
+6. Agravo Regimental não provido.
+(AgRg no AREsp 779.123/BA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 05/02/2016).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE ÁGUA. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 535 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. COBRANÇA POR ESTIMATIVA. IMPOSSIBILIDADE. SÚMULA 83/STJ. AFERIÇÃO ACERCA DA EXISTÊNCIA DE HIDRÔMETRO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. SUSPENSÃO DO FORNECIMENTO DE ÁGUA. DÍVIDAS PRETÉRITAS. IMPOSSIBILIDADE. SÚMULA 83/STJ.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+ ..
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 391.884/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 03/09/2015).
+Por outro lado, extrai-se que o Tribunal de origem deu parcial provimento ao agravo de instrumento para autorizar a execução provisória por entender que parte da dívida é incontroversa, inclusive com a concordância das partes, e não houve interposição de recurso nesse sentido. Confira-se (e-STJ fl. 273):
+No caso dos autos, a União apresentou agravo de instrumento em face de decisão que autorizou a retenção dos honorários advocatícios contratuais sobre a verba do FUNDEF. A parte da dívida que não foi objeto do recurso, portanto, é tida como incontroversa, não existindo óbice ao pagamento do valor reconhecido pela parte devedora.
+Destarte, o pedido de expedição do precatório em relação aos honorários de sucumbência, que é valor incontroverso, não depende do desfecho final do mencionado agravo, que trata, como vimos, da retenção de verba honorária contratada.
+O valor da condenação já foi devidamente apurado, com a concordância das partes inclusive, não havendo necessidade de apresentação de nova planilha de cálculos pelo credor; a mera atualização do crédito poderá ser realizada pela Contadoria do juízo.
+Contudo, nas razões do recurso especial, a recorrente não impugnou tal fundamento, desenvolvendo tese somente no sentido de que é vedada a expedição de precatório enquanto não houve trânsito em julgado da decisão, o que inviabiliza o conhecimento do apelo nobre quanto ao ponto, nos termos da Súmula 283 do Supremo Tribunal Federal, in verbis: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.".
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 535 DO CPC. OMISSÃO. EXISTÊNCIA. EFEITOS INFRINGENTES. CARÁTER EXCEPCIONAL. RECURSO QUE NÃO ATACOU FUNDAMENTO BASILAR QUE AMPARA O ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA 283/STF.
+EMBARGOS DE DECLARAÇÃO ACOLHIDOS COM EFEITOS MODIFICATIVOS. RECURSO ESPECIAL NÃO CONHECIDO.
+1. De acordo com a norma prevista no art. 535 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão da decisão recorrida. Ademais, os segundos embargos de declaração devem versar sobre vício existente no julgamento dos primeiros embargos de declaração e não no do acórdão principal (EDcl nos EDcl nos EREsp 636248/RS, Rel. Ministro Castro Meira, Primeira Seção, DJe 05/05/2008). Verificada a existência de omissão em ambos os julgados, dos primeiros embargos de declaração e do acórdão que julgou o recurso especial, relativamente ao fundamento basilar do acórdão do Tribunal de origem para afastar a prescrição intercorrente, devem ser acolhidos estes segundos embargos de declaração.
+2. A jurisprudência desta Corte Superior é firme no sentido de que, em caráter excepcional, pode-se atribuir efeitos infringentes aos embargos de declaração, para correção de premissa equivocada, sobre a qual tenha se fundado o julgado embargado, quando tal for decisivo para o resultado do julgamento (EDcl no AgRg no AREsp 151.216/SP, Rel. Ministro João Otávio de Noronha, Terceira Turma, DJe 20/09/2013; EDcl no AgRg no REsp 730.190/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 02/06/2010).
+3. O recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, a circunstância de que não houve o transcurso do prazo prescricional quinquenal em virtude da suspensão da execução fiscal para apreciação dos embargos à execução, esbarrando, pois, no óbice da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel.
+Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+4. Resta prejudicada a análise da divergência jurisprudencial se a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea a do permissivo constitucional.
+5. Embargos de declaração acolhidos com efeitos modificativos, com o consequente não conhecimento do recurso especial.
+(EDcl nos EDcl no REsp 1065691/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 09/06/2015, DJe 18/06/2015)
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
