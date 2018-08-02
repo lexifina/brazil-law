@@ -1,0 +1,57 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TENTATIVA DE HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE CONTRARIEDADE AO ART. 476 DO CÓDIGO DE PROCESSO PENAL. PRECLUSÃO CONSUMATIVA. AUSÊNCIA DE ALEGAÇÃO DA NULIDADE EM MOMENTO OPORTUNO. AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. PRECEDENTES.
+I - Consoante preceitua o art. 571, inciso VIII, do CPP, as nulidades ocorridas em plenário do Tribunal do Júri devem ser arguidas no momento próprio, ou seja, logo depois de ocorrerem, e registradas na ata da sessão de julgamento, sob pena de preclusão (precedentes), o que não ocorreu na hipótese.
+II - Ademais, no processo penal, vige o princípio pas de nullité sans grief, segundo o qual somente se declara a nulidade de um ato se em sua decorrência resultar prejuízo para a acusação ou para a defesa, o que não restou demonstrado na espécie. Precedentes.
+Agravo Regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jorge Mussi, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FELIX FISCHER: Trata-se de agravo regimental interposto por [NOME] contra decisão por mim proferida e assim ementada (fl. 559):
+"PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. TENTATIVA DE HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE CONTRARIEDADE AO ART. 476 DO CÓDIGO DE PROCESSO PENAL. PRECLUSÃO CONSUMATIVA. AUSÊNCIA DE ALEGAÇÃO DA NULIDADE EM MOMENTO OPORTUNO. AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. PRECEDENTES. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL."
+Nas razões recursais, o agravante alega que o v. acórdão do Tribunal de Justiça mineiro teria contrariado o art. 476 do Código de Processo Penal, sustentando a ocorrência de nulidades absolutas no julgamento em plenário do júri.
+Aduz, ainda, que "não prospera a alegação de que eventual ausência de consignação na ata de julgamento constitui óbice à declaração da pretendida nulidade pois aquelas classificadas como absolutas não se sujeitam a tal limitação" (fl. 579).
+Ademais, acrescenta que houve violação ao princípio da ampla defesa, pois o acusado foi interrogado antes de o representante do Ministério Público trazer tese alternativa em plenário.
+No mais, aduz que "ainda que a Defesa técnica não tenha se insurgido contra a descabida inovação quando da sessão de julgamento, só o fazendo quando das razões de apelação e memorial, cumpre a este Sodalício zelar pela garantia à autodefesa, irrenunciável no processo penal democrático e cuja salvaguarda independe de protesto da defesa técnica, bem como garantir a observância ao comando contido no art. 476 do CPP, segundo o qual a pronúncia é o limite da exposição do Parquet" (fl. 580).
+Por fim, sustenta a ocorrência de prejuízo, "pois impossível distinguir os votos favoráveis ao dolo direto (tese principal) daqueles que reconheciam o dolo eventual (como tese alternativa da Acusação)" (fl. 580).
+Requer a reconsideração da decisão agravada ou, caso contrário, a submissão da matéria ao Colegiado, a fim de que seja reconhecida e declarada a contrariedade ao art. 476 do CPP, tudo nos exatos termos do exposto ao longo do Recurso Especial.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TENTATIVA DE HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE CONTRARIEDADE AO ART. 476 DO CÓDIGO DE PROCESSO PENAL. PRECLUSÃO CONSUMATIVA. AUSÊNCIA DE ALEGAÇÃO DA NULIDADE EM MOMENTO OPORTUNO. AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. PRECEDENTES.
+I - Consoante preceitua o art. 571, inciso VIII, do CPP, as nulidades ocorridas em plenário do Tribunal do Júri devem ser arguidas no momento próprio, ou seja, logo depois de ocorrerem, e registradas na ata da sessão de julgamento, sob pena de preclusão (precedentes), o que não ocorreu na hipótese.
+II - Ademais, no processo penal, vige o princípio pas de nullité sans grief, segundo o qual somente se declara a nulidade de um ato se em sua decorrência resultar prejuízo para a acusação ou para a defesa, o que não restou demonstrado na espécie. Precedentes.
+Agravo Regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO FELIX FISCHER: A irresignação não prosperar.
+Depreende-se dos autos que o agravante foi denunciado e posteriormente pronunciado pela prática dos delitos descritos no art. 121, § 2º, inciso IV, na forma do art. 14, inciso II, ambos do Código Penal, sendo submetido ao julgamento pelo Tribunal do Júri (fls. 157-163), restando condenado a uma pena de 6 (seis) anos de reclusão, em regime inicial fechado (fls. 296-299).
+No recurso especial, alegou violação ao art. 476 do Código de Processo Penal, ao argumento de que a acusação teria trazido tese nova em plenário, ao sustentar além do dolo direto, a hipótese de dolo eventual, não descrito na denúncia, nem na pronúncia. Ademais, alegou violação ao princípio da ampla defesa.
+O eg. Tribunal a quo reformou parcialmente a sentença, modificando o regime inicial de cumprimento da pena para o semiaberto (fls. 369-394) e sobre a alegada nulidade assim se manifestou (fls. 373-376, grifei):
+"Em que pese o argumento defensivo, entendo que o presente feito não padece de irregularidade insanável, apta a ensejar a sua nulidade.
+Segundo o art. 571, VIII, do CPP, as nulidades ocorridas durante o julgamento em plenário, em audiência ou em sessão do tribunal, devem ser arguidas logo depois de ocorrerem, sob pena de preclusão.
+ ..
+In casu, não consta da ata do julgamento do Tribunal do Júri, acostada às f. 202/203, nenhum protesto por parte da Defesa quanto ao fato de o Ministério Público ter alegado tese alternativa de ocorrência de dolo eventual, o que demonstra que a Defesa concordou, naquele momento, com tal prática.
+Além disso, a Defesa não cuidou de demonstrar o prejuízo sofrido pelo acusado, ônus esse que lhe incumbia, nos termos do art. 563 do Código de Processo Penal.
+ ..
+Pois bem. No caso dos autos, não vejo qualquer prejuízo causado à Defesa do apelante, em razão de o i. RMP ter feito menção a um hipotético dolo eventual do acusado na execução delitiva. A uma, porque não foi formulado nenhum quesito referente à ocorrência de dolo eventual, sendo importante frisar que a Defesa manifestou "plena concordância com os quesitos e ordem de sua formulação, por estarem em consonância com as teses apresentadas pelo defensor em plenário e pelo acusado em seu interrogatório" (f. 202-v).
+E a duas, porque, conforme disposto no art. 18,1, do CP, "diz-se o crime doloso quando o agente quis o resultado ou assumiu o risco de produzi-lo", isto é, o dolo é único, sendo a intenção homicida direta legalmente equiparada com a assunção de tal risco.
+Desse modo, se foi imputada ao apelante a conduta dolosa de "matar alguém", pouco importa se sua intenção se deu de forma direta ou indireta, para que reste configurado o delito previsto no art. 121, do CP."
+Na decisão agravada, de minha relatoria, neguei provimento ao recurso especial, porque a alegada nulidade não constou da ata da sessão de julgamento perante o Tribunal do Júri, e o recorrente não se desincumbiu do ônus de demonstrar qualquer prejuízo.
+Neste regimental, o agravante não aduz qualquer argumento apto a ensejar a alteração da decisão ora agravada, a qual deve ser mantida por seus próprios fundamentos.
+Isso porque, ao contrário do que alega o agravante, o entendimento desta Corte é no sentido de que para se declarar a referida nulidade - por violação ao artigo 476 do CPP, no julgamento perante o Tribunal do Júri, seria necessária, além da sua alegação oportuna, a demonstração inequívoca do prejuízo causado à parte. Essa é a regra aplicável a todas as nulidades, sejam elas absolutas ou relativas, o que não ocorreu no caso dos autos.
+Sobre o tema consignei os seguintes precedentes:
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. ROUBO MAJORADO. CONTINUIDADE DELITIVA. TRIBUNAL DO JÚRI. PLENÁRIO. NULIDADE. AUSÊNCIA DE PREJUÍZO. PRINCÍPIO PAS DE NULLITÉ SANS GRIEF. MOMENTO DE ALEGAÇÃO DO PREJUÍZO. PRECLUSÃO CONSUMATIVA. PRECEDENTES. SÚMULA N. 568/STJ. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+Esta Corte Superior de Justiça possui entendimento consolidado no sentido de que, " ..  a declaração de nulidade exige a comprovação de prejuízo, em consonância com o princípio pas de nullite sans grief, disposto no art. 563 do Código de Processo Penal, consagrado no enunciado n. 523 da Súmula do col. Supremo Tribunal Federal." (HC n. 404.153/SP, Quinta Turma, de minha lavra, DJe de 19/12/2017).
+No que concerne ao momento de alegação de eventual prejuízo, este eg. Superior Tribunal sedimentou o entendimento de que "em atenção ao que estabelece o artigo 571, inciso VIII, do Código de Processo Penal, as nulidades ocorridas no Plenário do Júri, no que se refere à quesitação, devem ser apontadas no momento oportuno, sob pena de preclusão" (AgRg no REsp n. 1.654.881/SP, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 3/5/2017). Precedentes.
+Agravo regimental desprovido" (AgRg no AREsp 1191112/AL, Quinta Turma, de minha relatoria, DJe de 21/05/2018).
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO (ART. 121, § 2º, INCISO IV, DO CP). TRIBUNAL DO JÚRI. CONDENAÇÃO. PROLAÇÃO DE OFENSAS PESSOAIS ENTRE DEFESA E ACUSAÇÃO. NULIDADE DO JULGAMENTO. ARGUMENTO DE AUTORIDADE. INOCORRÊNCIA. ROL TAXATIVO. AUSÊNCIA DE PREJUÍZO.
+1. O art. 478 do CPP descreve as hipóteses que configuram nulidade processual pela utilização de certas decisões como argumento de autoridade, sendo que a prolação de ofensas pessoais recíprocas entre o Defensor e o Promotor de Justiça não se adequam a tais hipóteses, não havendo que se falar em ofensa à ampla defesa e, consequentemente, em nulidade.
+2. Nessa toada, a Corte de origem concluiu em harmonia com o entendimento deste Sodalício no sentido de que o rol previsto no art. 478 do Código de Processo Penal é taxativo, não comportando interpretações ampliativas.
+3. O princípio pas de nullité sans grief, há muito consagrado por esta Corte Superior, impede a declaração de nulidade sem a demonstração de prejuízo, o que notadamente não se verifica in casu.
+4. Agravo regimental não provido" (AgRg no AREsp 561.900/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe 04/05/2018).
+"RECURSO ESPECIAL. PENAL E PROCESSO PENAL. TRIBUNAL DO JURI. ACOLHIMENTO DA TESE DE TENTATIVA DE HOMICÍDIO. QUESITO SOBRE DESCLASSIFICAÇÃO PARA LESÃO CORPORAL. DESNECESSIDADE. PRECEDENTES. NULIDADE NA QUESITAÇÃO. FALTA DE ALEGAÇÃO NO MOMENTO OPORTUNO. PRECLUSÃO.
+ ..
+2. No mais, de acordo com entendimento pacífico deste Superior Tribunal de Justiça, em atenção ao que estabelece o artigo 571, inciso VIII, do Código de Processo Penal, as nulidades ocorridas no Plenário do Júri, no que se refere à quesitação, devem ser apontadas no momento oportuno, sob pena de preclusão.
+3. Agravo regimental improvido." (AgRg no REsp n. 1.654.881/SP, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 3/5/2017).
+Dessa forma, diante da ausência de consignação em ata da alegada nulidade, bem como da falta de demonstração de prejuízo, não foi possível verificar qualquer descompasso entre o v. acórdão e a jurisprudência desta Corte.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
