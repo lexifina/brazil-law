@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. ARTIGO 1.022, II, DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 455):
+ADMINISTRATIVO. TERRENO DE MARINHA. PROCEDIMENTO DE DEMARCAÇÃO. ADI 4264 STF. DESNECESSIDADE DE INTIMAÇÃO PESSOAL.
+Conforme previsão do art. 9º do Decreto Lei 9.760/461, a Secretaria do Patrimônio da União (SPU) possui competência exclusiva para verificar e determinar a posição das linhas do preamar médio de 1831 e das enchentes ordinária, referentes utilizados nos processos demarcatórios.
+Embargos de declaração acolhidos com efeitos modificativos, assim ementado (fl. 545):
+EMBARGOS DECLARATÓRIOS. ADMINISTRATIVO. TERRENO DE MARINHA. TIJUCAS. PROCESSO DEMARCATÓRIO. DECRETO-LEI Nº 9.760/46. REDAÇÃO ORIGINÁRIA. NOTIFICAÇÃO PESSOAL DOS INTERESSADOS CONHECIDOS. NECESSIDADE. NOTIFICAÇÃO POR EDITAL. IMPOSSIBILIDADE.
+1. O Superior Tribunal de Justiça, interpretando o art. 11 do DL 9.760/46 à luz dos princípios constitucionais da ampla defesa e do contraditório, firmou orientação no sentido de que os interessados devem ser intimados pessoalmente do procedimento demarcatório dos terrenos de marinha, sendo incabível a intimação por edital, salvo na hipótese de interessados incertos.
+2. Havendo averbação da transação imobiliária no competente ofício de registro de imóveis, não há falar em interessados incertos ao tempo de demarcação, a se permitir intimação editalícia.
+3. Não havendo intimação pessoal do procedimento demarcatório, quer dos apelantes, é mister a sua realização tendo em conta que a sistemática atribuída pela redação originária da legislação aplicável à espécie exigia tal procedimento com vistas à observância do contraditório e ampla defesa, princípios constitucionalmente garantidos.
+O recorrente alega violação dos artigos 489, § 1º, IV, e 1.022, II, e parágrafo único, II, do CPC/2015.
+Sustenta a negativa de prestação jurisdicional, diante da ausência de análise da seguinte questão: "a ocorrência de prescrição ao direito de ação de se insurgir contra atos administrativos realizados há mais de cinco anos do ajuizamento da ação, bem como ilegitimidade ativa e nulidade da sentença, eis que condicional" (fl. 586).
+Quanto às questões de fundo, sustenta ofensa aos artigos 492 do CPC/2015 e 1º do Decreto nº 20.910/1932, sob os seguintes argumentos:
+(a) Os autores interpuseram a presente ação sob o fundamento de que são possuidores de uma área de 231.774,48m2, localizada no Município de Tijucas/SC, a qual é objeto de uma ação de usucapião, em trâmite na 6ª Vara Federal da Subseção Judiciária de Florianópolis/SC, sob o nº 5018892-94.2013.404.7200. Ocorre que, a referida ação ( processo nº 5018892-94.2013.404.7200) foi julgada improcedente, reconhecendo-se que o imóvel encontra-se inserido em área de marinha, cujo trânsito em julgado deu-se em 02/02/2016.
+(b) "cabe ainda reconhecer-se a ilegitimidade ativa para a presente ação, uma vez que os autores são meros possuidores dos relatados terrenos de marinha. Assim, ao não possuirem a transcrição de suas propriedades em registros públicos, não podem reclamar a nulidade de procedimento administrativo que não tenha dado ciência pessoal aos interessados certos. Sim, porque somente se pode dar ciência pessoal aos interessados certos. Aos incertos o conhecimento deve ser por edital, nos expressos termos do art. 11 do Decreto- Lei nº 9.760/46" (fl. 589).
+(c) ocorrência de prescrição, nos termos do art. 1º do Dec. nº 20.910/1932, "uma vez que já se passaram mais do que cinco anos entre a homologação do procedimento administrativo que demarcou os terrenos de marinha no Município de Tijucas /SC ( 2000) e o ajuizamento da presente ação, 18/03/2015" (fl. 592).
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 619.
+É o relatório. Passo a decidir.
+Com efeito, o recorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento de que remanesce omisso o julgamento da controvérsia.
+Extrai-se dos autos que a recorrente argumentou e requereu a manifestação expressa do órgão julgador a respeito da seguinte questão: "a ocorrência de prescrição ao direito de ação de se insurgir contra atos administrativos realizados há mais de cinco anos do ajuizamento da ação, bem como ilegitimidade ativa e nulidade da sentença, eis que condicional" (fl. 586).
+Com efeito, evidencia-se que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional.
+A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 1.022, II, do CPC/2015, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+Prejudicada a análise das demais questões.
+Ante o exposto, dou provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a matéria articulada nos aclaratórios da UNIÃO.
+Publique-se. Intimem-se.
