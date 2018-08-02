@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de petição do Vice Procurador-Geral Eleitoral, que, no exercício do cargo de Procurador-Geral da República, buscava medida cautelar para obstar ordem de soltura do ex-presidente [NOME], a qual foi determinada pelo Desembargador Federal Plantonista do Tribunal Regional Federal da 4.ª Região.
+Sustenta o Parquet que "Como a prisão fora determinada pelo colegiado da 8.ª Turma do Tribunal Regional Federal da 4.ª Região - e já foi sujeita a controle do Superior Tribunal de Justiça e do Supremo Tribunal Federal - descabe sua impugnação em habeas corpus contra o juízo de primeiro grau que é mero executor de determinação do Tribunal Regional Federal da 4.ª Região" (fl. 02).
+Não obstante as fundadas razões do Ministério Público Federal, a questão envolvendo as ordens e contra-ordens de prisão foi, primeiro, resolvida pelo Presidente do Tribunal a quo, ao decidir monocraticamente o conflito positivo de competência entre o Desembargador Federal Plantonista e o Relator da ação penal originária, e, ato contínuo, por mim, ao decidir o Habeas Corpus n.º 457.922/PR, quando ficou consignada "a absoluta incompetência do Juízo Plantonista para deliberar sobre questão já decidida por este Superior Tribunal de Justiça e pelo Supremo Tribunal Federal."
+Nesse contexto, tendo sido superada a decisão apontada como ilegal por incompetência do órgão prolator, fica esvaziado o objeto desta Petição.
+Ante o exposto, JULGO PREJUDICADA a presente Petição.
+Publique-se. Intimem-se.
