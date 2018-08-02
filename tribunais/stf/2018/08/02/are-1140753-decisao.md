@@ -1,0 +1,16 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da 16ª Câmara Cível do Tribunal de Justiça do Estado do Paraná, assim ementado:
+    “AGRAVO DE INSTRUMENTO - AÇÃO DE CUMPRIMENTO DE SENTENÇA - AÇÃO CIVIL PÚBLICA AJUIZADA PELO IDEC - DECISÃO QUE REJEITOU A EXCEÇÃO DE PRÉ-EXECUTIVIDADE - PEDIDO DE SOBRESTAMENTO DO FEITO NEGADO - TRÂNSITO EM JULGADO DO RESP Nº.1.391.198/RS - LEGITIMIDADE DO POUPADOR PARA PROPOR O CUMPRIMENTO DE SENTENÇA, CUJOS EFEITOS ALCANÇAM INCLUSIVE AQUELES QUE NÃO SEJAM ASSOCIADOS AO IDEC - ALCANCE OBJETIVO E SUBJETIVO DA SENTENÇA COLETIVA, COM EXTENSÃO DE SEUS EFEITOS À COMPETÊNCIA TERRITORIAL DO FORO DO DOMICÍLIO DOS BENEFICIÁRIOS DESSE COMANDO JUDICIAL - DISPENSABILIDADE DO ELEMENTO PREÇO NA CESSÃO DE CRÉDITO - MATÉRIA DE FALSIDADE DOCUMENTAL QUE NÃO PODE SER APRECIADA EM EXCEÇÃO DE PRÉ- EXECUTIVIDADE - NECESSIDADE DE DILAÇÃO PROBATÓRIA - VIA INADEQUADA PARA TANTO. RECURSO CONHECIDO E NÃO PROVIDO.”.
+    No recurso extraordinário, sustenta-se violação do artigo 5º, inciso XXI, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, haja vista que o dispositivo constitucional indicado como violado no recurso extraordinário carece do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte. Nesse sentido, destaca-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AJUDA DE CUSTO. MILITAR. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. SÚMULA 636 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO. I – Ausência de prequestionamento. Incidência da Súmula 282 do STF. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. II – Esta Corte entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). III – Agravo regimental a que se nega provimento” (ARE nº 800.777/RS-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 29/5/14).
+    Ademais, o Plenário desta Suprema Corte, ao examinar o ARE nº 901.963/SC, Relator o Ministro Teori Zavascki, concluiu pela ausência da repercussão geral da discussão acerca da legitimidade ativa para a execução de sentença condenatória genérica proferida nos autos de ação civil pública promovida por associação da qual o exequente não fazia parte à época da propositura da demanda de conhecimento, dado o caráter infraconstitucional desse tema.
+    Ressalte-se, por fim, que não se aplica ao caso dos autos a majoração dos honorários prevista no artigo 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais pela Corte de origem.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 2 de agosto de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
