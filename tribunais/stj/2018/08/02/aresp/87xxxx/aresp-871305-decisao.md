@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial apresentado contra decisão que inadmitiu apelo nobre interposto com fundamento no art. 105, inciso III, "a" e "c", da Constituição Federal.
+De início, cumpre ressaltar que o Tribunal de origem, ao realizar o juízo de admissibilidade do recurso especial, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que se falar em usurpação da competência do STJ. Nesse sentido: AgRg no AREsp 173.359/AM, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/03/2015, DJe 24/03/2015, e AgInt no AREsp 933.131/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 25/10/2016, DJe 27/10/2016.
+Dito isso, mediante análise dos autos, verifico que a inadmissão do especial se deu com base na incidência da Súmula 7 do STJ.
+Embora tenha a parte agravante impugnado especificamente esse fundamento, entendo que, no caso concreto, a pretensão deduzida no recurso especial não ultrapassa a esfera do conhecimento, conforme ressaltado na decisão agravada, esbarrando, pois, no mencionado óbice.
+De fato, na hipótese em análise, o Tribunal de origem, com apoio nas provas dos autos, deixou de enquadrar como especial a atividade que o recorrente afirma ter exercido.
+Destaco do corpo do julgado a seguinte passagem (e-STJ fl. 167):
+In casu, em relação ao intervalo de 13/6/1986 a 5/3/1997, consta "Perfil Profissiográfico Previdenciário" (PPP) que aponta a exposição habitual e permanente à tensão elétrica superior a 250 volts - código 1.1.8 do anexo do Decreto n. 53.831/64.
+Contudo, no que tange ao lapso de 6/3/1997 a 12/9/2011, não obstante o PPP informar a exposição do autor à tensão elétrica superior a 250 volts, constata-se que a parte requerente desenvolvia, sobretudo, atividades de natureza administrativa. Com efeito, além da inexistência de habitualidade e permanência, não há menção a respeito da periculosidade e do risco à integridade física do segurado.
+Desse modo, não se justifica o enquadramento especial, nos termos do código 1.1.8 do anexo do Decreto n. 53.831/64, do período posterior à vigência do Decreto n. 2.172 (5/3/1997).
+Destarte, apenas o interstício de 13/6/1986 a 5/3/1997 deve ser enquadrado como atividade especial.
+Por conseguinte, é inviável a convolação do benefício para aposentadoria especial, por não se fazer presente o requisito temporal insculpido no artigo 57 da Lei n. 8.213/91.
+A alteração dessas conclusões do julgado demandaria o reexame do material fático-probatório dos autos, inviável em sede de recurso especial diante da vedação contida na Súmula 7 do STJ.
+Nesse sentido:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. ANÁLISE QUANTO À COMPROVAÇÃO DO EXERCÍCIO DE ATIVIDADE LABORAL EM CONDIÇÕES ESPECIAIS. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A alteração das conclusões adotadas pela Corte de origem, no sentido de que a parte agravante não exerceu atividade considerada especial, de forma habitual e permanente, no período controvertido, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1087982/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 05/10/2017, DJe 19/10/2017)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. APOSENTADORIA POR TEMPO DE SERVIÇO. AVERBAÇÃO DE TEMPO DE SERVIÇO SOB CONDIÇÕES ESPECIAIS. AUSÊNCIA DE COMPROVAÇÃO DA ATIVIDADE INSALUBRE. REEXAME DOS ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. O rol de atividades previstas nos Decretos 53.831/64 e 83.080/79 é exemplificativo, sendo possível que outras atividades não enquadradas sejam reconhecidas como insalubres, perigosas ou penosas, desde que tal situação seja devidamente comprovada.
+Precedentes: AgRg no AREsp 598.042/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 15/12/2014; AgRg no AREsp 534.664/RS, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 10/12/2014; e AgRg no REsp 1.280.098/RJ, Rel. Min. Rogério Schietti Cruz, Sexta Turma, DJe 01/12/2014.
+2. Hipótese em que o Tribunal de origem, soberano na análise das circunstâncias fáticas e probatórias da causa, concluiu que cabia à parte autora a apresentação do laudo técnico. Além disso que, em relação ao período de 7.7.1989 a 30.11.1996, não foi comprovado o exercício da atividade de trabalhador de via permanente sob condições especiais, tornando-se, assim, impossível o reconhecimento do tempo de serviço especial.
+3. Destarte, se a Corte de origem afirma que não houve o preenchimento dos requisitos necessários a demonstrar a submissão do trabalhador aos agentes nocivos, rever os fundamentos do voto condutor demanda reexame dos fatos e provas constantes nos autos, o que é vedado em Recurso Especial, ante o óbice da Súmula 7/STJ.
+4. Rever a distribuição dos ônus da prova envolve análise de questões de fato e de prova, consoante as peculiaridades de cada caso concreto, atraindo aplicação do referido Enunciado Sumular 7 do STJ.
+5. Agravo Interno não provido.
+(AgInt no REsp 1589004/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/08/2016, DJe 12/09/2016)
+Impende acrescentar que não cabe o apelo nobre, mesmo pela alínea "c" do permissivo constitucional, quando o exame da questão demandar o revolvimento do conjunto fático-probatório acostado aos autos, porquanto o citado recurso é admitido apenas para a análise de questões atinentes à interpretação de normas infraconstitucionais.
+Ilustrativamente:
+PROCESSUAL CIVIL. SÚMULA 106/STJ. NÃO ENQUADRAMENTO NO CONCEITO DE LEI FEDERAL. VEDADA ANÁLISE NO ÂMBITO DO STJ. AUSÊNCIA DE INDICAÇÃO DA NORMA VIOLADA. APLICAÇÃO. ANALOGIA. SÚMULA 284/STF. SÚMULA 106/STJ. SÚMULA 7/STJ. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA E NECESSIDADE DE REEXAME DO ACERVO PROBATÓRIO.
+ ..
+3. Descabe examinar a tese defendida no Recurso Especial - incidência da Súmula 106/STJ ao caso dos autos - porque necessário o revolvimento de matéria fático-probatória. Aplicação da Súmula 7/STJ.
+4. O STJ tem entendimento de que "a incidência da referida Súmula 7 impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa" (AgInt no AREsp 866.679/SP, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 26/4/2016, DJe 2/5/2016).
+5. Agravo Interno não provido (AgInt no AREsp 877.761/RO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 20/10/2016, DJe 28/10/2016).
+Registro, por oportuno, que o marco inicial de aplicação do Novo Código de Processo Civil é a intimação do decisum recorrido, a qual, no presente caso, foi realizada sob a égide do antigo Codex Processual. Assim, nos termos do Enunciado Administrativo nº 2 do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Por fim, não haverá arbitramento de honorários recursais, por se tratar de recurso interposto na vigência do Código de Processo Civil de 1973.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
