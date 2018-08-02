@@ -1,0 +1,43 @@
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA AS RELAÇÕES DE CONSUMO. AGRAVO INTEMPESTIVO. PRESTAÇÃO JURISDICIONAL ININTERRUPTA. READEQUAÇÃO TÍPICA. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. RECURSO NÃO PROVIDO.
+1.Conforme se extrai dos autos, a decisão que inadmitiu o recurso especial foi disponibilizada em 7.12.2017 (quinta-feira) e considerada publicada em 11.12.2017 (segunda-feira), dando início à fluência do prazo de quinze dias para interposição de agravo em recurso especial, protocolado em 23.1.2018.
+2. Esta Corte já detém entendimento no sentido de que em se tratando de feito criminal, não se aplica a suspensão dos prazos processuais no período de recesso forense estabelecido no artigo 220 do Código de Processo Civil. Sendo assim, não houve interrupção na contagem dos prazos processuais em matéria criminal no período de 8 a 19 de janeiro de 2018, de modo que o agravo em recurso especial foi apresentado fora do prazo estabelecido pela legislação de regência.
+3. Ainda que assim não fosse, o pleito de redimensionamento da pena com a aplicação da causa especial de diminuição prevista no art. 7º, parágrafo único, da Lei n. 8.137/90 não prospera, uma vez que a readequação típica da conduta, reconhecendo-se a forma culposa, depende de nova incursão no conjunto de fatos e provas, providência inviável em sede de recurso especial, a teor do enunciado sumular n. 7 desta Corte.
+4. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JORGE MUSSI: Trata-se de agravo regimental interposto por [NOME], nos termos do art. 258 do Regimento Interno do Superior Tribunal de Justiça, contra decisão proferida pela Presidência desta Corte (e-STJ, fls. 449-450), que rejeitou os embargos de declaração e manteve os termos da decisão que não conheceu do agravo em recurso especial, em razão da intempestividade do recurso.
+De acordo com a inicial, em 22.6.2011, o agravante praticou a conduta descrita no art. 7º, inciso III e IX, da Lei n. 8.137/90.
+Após o regular trâmite da ação penal, o réu foi condenado a 1 (um) ano e 4 (quatro) meses de detenção, em regime aberto. A defesa interpôs recurso de apelação, que foi parcialmente provido, substituindo a pena privativa de liberdade por duas restritivas de direitos.
+Em sede de recurso especial, a defesa pretendeu a redução da pena imposta, com esteio na previsão contida no parágrafo único do art. 7º da Lei n. 8.137/90. O recurso não foi admitido em face da necessidade de revolvimento de matéria fático-probatória para atender ao pleito formulado.
+O agravo em recurso especial também não obteve êxito para destrancar o recurso especial em razão de sua intempestividade. A defesa opôs, ainda, embargos de declaração, que foram rejeitados.
+Neste regimental, a defesa infirma o fundamento empregado para não conhecer do agravo, sustentando que o recurso foi apresentado no interstício legalmente estabelecido.
+Pugna, ao final, pela reconsideração da decisão agravada ou, subsidiariamente, pela apresentação do feito ao Colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JORGE MUSSI: Conforme se extrai dos autos, a decisão que inadmitiu o recurso especial foi disponibilizada em 7.12.2017 (quinta-feira) e considerada publicada em 11.12.2017 (segunda-feira), dando início à fluência do prazo de quinze dias para interposição de agravo em recurso especial, que foi protocolado em 23.1.2018 (e-STJ, fl. 409).
+Por decisão monocrática da Presidência, não se conheceu o recurso por intempestividade.
+Daí a apresentação deste regimental.
+A irresignação, porém, não merece prosperar.
+Esta Corte já detém entendimento no sentido de que em se tratando de feito criminal, não se aplica a suspensão dos prazos processuais no período de recesso forense estabelecido no artigo 220 do Código de Processo Civil. Sendo assim, não houve interrupção na contagem dos prazos processuais em matéria criminal no período de 8 a 19 de janeiro de 2018.
+A propósito, cumpre trazer à baila os seguintes precedentes desta Corte:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECESSO JUDICIÁRIO. SUSPENSÃO OU INTERRUPÇÃO DE PRAZOS PROCESSUAIS PENAIS. INOCORRÊNCIA. INTEMPESTIVIDADE. INCIDÊNCIA DO ARTIGO 798, CAPUT E § 3º, DO CPP. PRINCÍPIO DA ESPECIALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A suspensão do curso dos prazos processuais prevista no art. 220 do NCPC, regulamentada pela Resolução CNJ n. 244, de 19/9/2016, não incide sobre os processos de competência da Justiça Criminal, visto que submetidos, quanto a esse tema, ao regramento disposto no art. 798, caput e § 3º, do CPP. A continuidade dos prazos processuais penais é afirmada, no caso, pelo princípio da especialidade.
+2. Não por outra razão, a jurisprudência desta Corte Superior consolidou-se no sentido de que o recesso judiciário e o período de férias coletivas, em matéria processual penal, têm como efeito, em relação aos prazos vencidos no seu curso, a mera prorrogação do vencimento para o primeiro dia útil subsequente ao seu término, não havendo interrupção ou suspensão (AgRg no Inq 1.105/DF, Rel. Ministro HERMAN BENJAMIN, Corte Especial, julgado em 29/03/2017, DJe 19/04/2017).
+3. Agravo regimental desprovido. (AgRg no AREsp 1070415/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/05/2017, DJe 22/05/2017).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO CONTRA DECISÃO DENEGATÓRIA DE RECURSO ESPECIAL INTERPOSTO FORA DO PRAZO LEGAL. INTEMPESTIVIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Nos termos do entendimento desta Corte, nas ações que tratam de matéria penal ou processual penal não incidem as regras do artigo 219 do novo Código de Processo Civil, referente à contagem dos prazos em dias úteis, porquanto o Código de Processo Penal, em seu artigo 798, possui disposição específica a respeito da contagem dos prazos, in verbis: "Todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado".
+2. Agravo regimental a que se nega provimento. (AgRg no AREsp 962.681/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 27/09/2016, DJe 10/10/2016).
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. CONTAGEM DE PRAZO. ART. 798 DO CPP. CRITÉRIO DA ESPECIALIDADE. PRECEDENTE. AGRAVO EM RECURSO ESPECIAL INTEMPESTIVO. Agravo regimental improvido. (AgInt no AREsp 982.130/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 13/12/2016, DJe 19/12/2016).
+Ainda que se supere o óbice de natureza instrumental, o pleito não reúne condições de prosperar.
+O mérito recursal cinge-se à aplicação da causa especial de diminuição de pena prevista no art. 7º, parágrafo único, da Lei dos Crimes contra a Ordem Tributária, Econômica e contra as Relações de Consumo.
+Sobre o tema, o eg. Tribunal de origem se pronunciou, afirmando ser evidente o dolo na conduta do agente. Em sede de embargos, afirmou que o reconhecimento da causa especial de diminuição de pena prevista no dispositivo mencionado não se dá de forma automática, sendo necessária comprovação de imprudência, imperícia ou negligência.
+Assim, não há como desconstituir as conclusões a que chegou o eg. Tribunal de Justiça do Rio Grande do Sul sem nova e aprofundada análise do conjunto fático-processual, providência não comportada dentro dos estreitos limites do recurso especial, a teor do enunciado sumular n. 7 desta Corte.
+Em sentido semelhante:
+PENAL E PROCESSUAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRETENSÃO ABSOLUTÓRIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. DESCLASSIFICAÇÃO DA CONDUTA. ANÁLISE QUE DEMANDA REVOLVIMENTO DO ARCABOUÇO PROBATÓRIO. SÚMULA 7 DO STJ.
+A pretensão do agravante de reverter a condenação, para que seja absolvido dos delitos a ele imputados, implicaria, necessariamente, a análise do conjunto fático e probatório, o que é inviável na via do recurso especial, ante o óbice da Súmula 7 do STJ. Idêntico entendimento quanto à pretensão atinente à desclassificação do crime de receptação dolosa para culposa.
+Agravo regimental a que se nega provimento. (AgRg no AREsp 654.916/DF, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 07/05/2015, DJe 26/05/2015)
+Diante do exposto, nego provimento ao agravo regimental.
+É o voto.
