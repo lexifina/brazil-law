@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. MANIFESTO CARÁTER PROTELATÓRIO.
+1. Os embargos de declaração, a teor do art. 1.022 do CPC, constituem-se em recurso de natureza integrativa destinado a sanar vício de obscuridade, contradição, omissão ou erro material, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+2. Evidenciado o propósito manifestamente protelatório na oposição dos embargos de declaração, é imperativa a aplicação da multa prevista no art. 1.026,§ 2º do CPC/15.
+3. Embargos de declaração rejeitados, com aplicação de multa.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, rejeitar os embargos de declaração, com imposição de multa, nos termos do voto do(a) Sr(a) Ministro(a) Relator(a). Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de embargos de declaração opostos por SUL AMERICA COMPANHIA NACIONAL DE SEGUROS contra o acórdão que negou provimento ao agravo interno que interpusera, nos termos da seguinte ementa (e-STJ fl. 1.154):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. APLICAÇÃO DO CPC/15.
+1. O art. 1.003, § 6º, do CPC/15, estabelece que o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior.
+2. Considerando que o agravo em recurso especial foi interposto sob a égide do novo regramento processual e que a agravante deixou de comprovar a ocorrência de feriado local quando de sua interposição, não há como ser afastado o decreto de intempestividade.
+3. Agravo interno no agravo em recurso especial não provido.
+Nas razões do presente recurso, a embargante reitera a tempestividade do agravo em recurso especial, afirmando que não foi observada a ausência de expediente forense no TJPE nos dias 06 a 10 de outubro/2017 em virtude da instauração de Autoinspeção, bem como no dia 02/11/2017, feriado de Finados, e ainda, o dia 15/11/2017, feriado da Proclamação da República, conforme ATO 1.473/2016 do TJPE.
+É o relatório.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Nos termos do art. 1.022 do CPC/15, somente é cabível o recurso de embargos de declaração quando haja, no julgado impugnado, obscuridade, contradição, omissão ou erro material.
+Na hipótese dos autos, contudo, não se verifica quaisquer dos vícios acima elencados, sendo nítida a pretensão da embargante de se valer do presente recurso para a modificação da conclusão adotada no acórdão embargado.
+Com efeito, o julgado foi claro quanto à intempestividade do agravo em recurso especial e quanto à inviabilidade de posterior comprovação da ocorrência de feriado local, conforme disposto no art. 1.003, § 6º, do CPC/2015. A propósito, confira-se o seguinte excerto do aresto (e-STJ fl. 1.160):
+De fato, compulsando os autos, verifica-se que o agravo em recurso especial é intempestivo, pois a decisão agravada foi publicada no Diário de Justiça Eletrônico no dia 23/02/2017, de maneira que o prazo para interposição do recurso teve início em 24/02/2017, findando em 17/03/2017. Todavia, o agravo em recurso especial somente foi interposto na data de 21/03/2017.
+Quanto à comprovação posterior da tempestividade do recurso, cabe salientar, conforme destacado na decisão agravada, que, nos termos do art. 1.003, § 6º, do CPC/2015, o recorrente deve comprovar a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior, ao contrário do que entendia este Tribunal na vigência do CPC/73.
+Nesse sentido, a Corte Especial do STJ definiu, na sessão do dia 20/11/2017, ao julgar o AgInt no ARESP 957821, que "seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada" (AgInt no AREsp 957.821/MS, Corte Especial, DJe 19/12/2017).
+Por conseguinte, considerando que o presente agravo em recurso especial foi interposto sob a égide do novo regramento processual e que deixou a agravante de comprovar a ocorrência de feriado local quando da interposição, não há como ser afastado o decreto de intempestividade.
+Cabe salientar outrossim que, do excerto transcrito, constata-se a absoluta impertinência dos argumentos trazidos pela embargante na petição dos presentes aclaratórios, pois sequer há a correta indicação da data de interposição do agravo em recurso especial.
+Dessa maneira, considerando que o presente recurso não reúne os pressupostos específicos para o seu acolhimento, nos termos do art. 1.022 do CPC/2015, sendo manifesto, ademais, o seu caráter protelatório, impõe-se a sua rejeição, com a aplicação da penalidade prevista no art. 1.026, §2º, do CPC.
+Forte nessas razões, REJEITO os embargos de declaração, condenando a embargante ao pagamento, em favor da parte embargada, de multa equivalente a 3% do valor atualizado da causa, nos termos do art. 1.026, §2º, do CPC/2015.
