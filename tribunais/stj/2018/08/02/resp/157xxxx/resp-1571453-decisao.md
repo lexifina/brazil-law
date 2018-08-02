@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fulcro na alínea "c" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 223):
+CONTAGEM DE TEMPO DE SERVIÇO. CONTRIBUINTE INDIVIDUAL. INDENIZAÇÃO. LEGISLAÇÃO APLICÁVEL PARA O CÁLCULO. ART. 45-A DA LEI Nº 8.212/1991.
+1. O pagamento previsto no art. 45-A da Lei nº 8.212/1991 possui natureza nitidamente indenizatória, não se revestindo do caráter de tributo, por lhe faltar o atributo essencial dessa prestação pecuniária: a compulsoriedade. Em razão da decadência, a Fazenda Pública não pode constituir crédito tributário com o fito de exigir as contribuições atinentes ao período de atividade remunerada como contribuinte individual.
+2. É devida a indenização ao sistema previdenciário como contraprestação à possibilidade de cômputo do tempo de contribuição cujo recolhimento não foi realizado no tempo devido, para o fim de perceber benefício previdenciário.
+3. Em se tratando de indenização das contribuições, deve incidir a legislação em vigor na data do requerimento administrativo, calculando-se o valor devido de acordo com a remuneração atual do segurado, conforme o previsto no parágrafo 1º, inciso I, do art. 45-A da Lei 8.212/91.
+4. Não se está cobrando obrigação tributária inadimplida, motivo pelo qual não procede a pretensão de calcular a indenização em valor correspondente à época do fato gerador.
+Nas suas razões, o recorrente aponta dissídio jurisprudencial com relação à interpretação dada ao art. 45-A, §§ 1º e 2º, da Lei n. 8.212/1991 (Lei de Custeio da Previdência Social). Segundo defende, deve prevalecer o entendimento dado por esta Corte, segundo o qual o cálculo das indenizações de contribuições não recolhidas na época própria, observará a legislação em vigor na data da prestação do serviço (AREsp n. 667.951/SP).
+Sem contrarrazões (e-STJ fl. 265).
+Passo a decidir.
+De início, registro que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feito tal esclarecimento, verifico que
+Passo a decidir.
+De início, registro que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feito tal registro, verifica-se que a divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável, ainda, a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente.
+O desrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ) impede o conhecimento do Recurso Especial, com base na alínea "c" do inciso III do art. 105 da Constituição Federal, como ocorrido à espécie.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRATO ADMINISTRATIVO. EXECUÇÃO. INTERRUPÇÃO DO PRAZO PRESCRICIONAL EM VIRTUDE DE PROPOSITURA DE DEMANDA JUDICIAL PELO DEVEDOR NA QUAL O DÉBITO É IMPUGNADO. ALEGADA AUSÊNCIA DE PRECLUSÃO. RECURSO ANCORADO NA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL SOBRE O QUAL SUPOSTAMENTE RECAI A CONTROVÉRSIA. INCIDÊNCIA DA SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AGRAVO REGIMENTAL DESPROVIDO.
+ .. .
+3. Além do que, para se comprovar a divergência, não basta a mera transcrição de ementas, é indispensável o cotejo analítico entre os julgados, de modo que ressaia a identidade ou similitude fática entre os acórdãos paradigma e recorrido, bem como teses jurídicas contrastantes, a demonstrar a alegada interpretação oposta. 4. Agravo Regimental do IRGA desprovido. (AgRg no REsp 1.355.908/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 15/08/2014). (Grifos acrescidos).
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. RECURSO ESPECIAL FUNDAMENTADO NO ART. 105, III, C, DA CONSTITUIÇÃO FEDERAL. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA, NOS TERMOS DO ART. 541, PARÁGRAFO ÚNICO, DO CPC/73 (ART. 1.029, § 1º, DO ATUAL CPC) E DO ART. 255, §§ 1º E 2º, DO RISTJ. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS CASOS CONFRONTADOS. AGRAVO REGIMENTAL IMPROVIDO.
+ .. .
+III. Nos termos do art. 541, parágrafo único, do CPC/73 (art. 1.029, § 1º, do atual CPC) e do art. 255, §§ 2º 1º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, exigência não atendida, no caso, porquanto inexiste similitude fática entre os casos confrontados.
+ ..
+V. Agravo Regimental improvido (AgRg no AREsp n. 819.899/SP, Relatora Ministra ASSUSETE MAGALHÃES, Segunda Turma, DJe 29/04/2016).
+29/04/2016).
+No presente caso, o recorrente não procedeu ao cotejo analítico entre os acórdãos recorrido e paradigmas, na medida em que trouxe à colação apenas um julgado monocrático, inservível para efeito de demonstração de divergência entre colegiados.
+Por fim, não haverá majoração de honorários recursais, por se tratar de pleito deduzido na vigência do Código de Processo Civil de 1973.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
