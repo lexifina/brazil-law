@@ -1,0 +1,44 @@
+EMENTA
+PENAL. RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. COMPORTAMENTO DA VÍTIMA. CIRCUNSTÂNCIA NEUTRA. EXASPERAÇÃO INDEVIDA. FUNDAMENTAÇÃO INIDÔNEA. PRECEDENTES. SÚMULA N. 568/STJ. INCIDÊNCIA. PARECER FAVORÁVEL. VETORIAL DECOTADA. PENA-BASE REDUZIDA PROPORCIONALMENTE.
+I - "Esta Corte Superior considera o vetor do comportamento da vítima neutro, não podendo ser desfavorável ao apenado na dosimetria da pena. Precedentes." (AgRg no AREsp n. 473.972/GO, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 3/3/2017).
+Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jorge Mussi, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FELIX FISCHER: Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE ALAGOAS, contra a decisão de fls. 586-590 que conheceu conheceu e proveu o recurso espeical, cuja ementa é a seguinte:
+"PENAL. RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. COMPORTAMENTO DA VÍTIMA. CIRCUNSTÂNCIA NEUTRA. EXASPERAÇÃO INDEVIDA. FUNDAMENTAÇÃO INIDÔNEA. PRECEDENTES. SÚMULA N. 568/STJ. INCIDÊNCIA. PARECER FAVORÁVEL. VETORIAL DECOTADA. PENA-BASE REDUZIDA PROPORCIONALMENTE. RECURSO ESPECIAL CONHECIDO E PROVIDO."
+Consta dos autos que o recorrente foi condenado pelo juízo de primeiro grau como incurso no delito previsto no artigo 121, § 2º, incisos IV e V, do Código Penal, à pena de 18 (dezoito) anos, 7 (sete) meses e 3 (três) dias de reclusão, no regime inicial fechado (fls. 407-410).
+Irresignada, a defesa interpôs apelação, com vistas à reforma da sentença condenatória. No Tribunal de origem, o recurso foi parcialmente provido, para redimensionar a pena do recorrente ao patamar de 16 (dezesseis) anos e 6 (seis) meses de reclusão, no tudo o mais mantida a condenação (fls. 513-528).
+Nas razões do recurso especial, a parte recorrente sustenta violação ao artigo 59, do Código Penal, aos argumentos de que: "inarredável reconhecer que a qualificação jurídica atribuída pelo Tribunal a quo quanto ao "comportamento neutro da vítima", enquanto circunstância judicial desfavorável, não pode subsistir num sistema jurídico constitucional formado pela obrigatoriedade de respeito aos precedentes judiciais firmados por essa Augusta Corte Superior em matéria de legislação federal (..)  n esse diapasão, deve-se reformar a decisão do E. Tribunal a quo, adequando-a ao posicionamento consolidado por essa Colenda Corte de Justiça no sentido de valorar a conduta neutra do ofendido como circunstância judicial favorável" (fl. 542).
+Nas razões do presente agravo regimental, a parte recorrente repisa o aventado em sede de recurso especial e pugna, ao final, pela apresentação do recurso ao colegiado.
+É o relatório.
+EMENTA
+PENAL. RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. COMPORTAMENTO DA VÍTIMA. CIRCUNSTÂNCIA NEUTRA. EXASPERAÇÃO INDEVIDA. FUNDAMENTAÇÃO INIDÔNEA. PRECEDENTES. SÚMULA N. 568/STJ. INCIDÊNCIA. PARECER FAVORÁVEL. VETORIAL DECOTADA. PENA-BASE REDUZIDA PROPORCIONALMENTE.
+I - "Esta Corte Superior considera o vetor do comportamento da vítima neutro, não podendo ser desfavorável ao apenado na dosimetria da pena. Precedentes." (AgRg no AREsp n. 473.972/GO, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 3/3/2017).
+Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO FELIX FISCHER: O presente agravo não merece prosperar, devendo ser mantida a decisão recorrida por seus próprios fundamentos.
+Busca a parte recorrente, em síntese, nas suas razões recursais, a redução da pena-base em relação ao delito previsto no artigo 121, § 2º, incisos IV e V, do Código Penal.
+Confira-se, oportunamente, trecho do v. acórdão ora vergastado sobre o tema, verbis:
+"Por fim, sobre o comportamento da vítima, não assiste razão à Defesa, uma vez que esta Corte possui entendimento consolidado, aliado à doutrina e jurisprudência de outros tribunais, no sentido de que a circunstância judicial referente ao comportamento da vítima deve ser analisada em sentido amplo. Nas situações cm que a vítima em nada contribuiu com a ação do agente, a circunstância deve ser valorada em desfavor do réu. Assim, mantenho a valoração negativa desta circunstância.
+A par disso, considerando a previsão legal de pena de 12 a 30 anos para a prática do crime cm tela, bem como o reconhecimento de duas circunstâncias judiciais desfavoráveis ao ora apelante, quais sejam, culpabilidade e comportamento da vítima, mantenho a pena-base fixada pelo Juízo a quo cm 16 (dezesseis) anos e 06 (seis) meses" (fl. 527).
+Dá análise dos excertos acima transcritos, mostra-se incorreto o v. acórdão objurgado, tendo em vista que não se encontra em consonância com o entendimento estabelecido neste Superior Tribunal de Justiça, no sentido de que "Esta Corte Superior considera o vetor do comportamento da vítima neutro, não podendo ser desfavorável ao apenado na dosimetria da pena. Precedentes." (AgRg no AREsp n. 473.972/GO, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 3/3/2017).
+Como ressaltado pelo ilustre representante do Parquet Federal, em seu d. parecer: " ..  o argumento de que a vítima em nada contribuiu para a prática do crime é imprestável para marcar como negativa a circunstância judicial comportamento da vítima". E conclui, verbis: "ou a avaliação é positiva, qunado o ofendido contribui para o delito; ou neutra, quando em nada influencia na ação criminosa, conforme assevera a jurisprudência dessa Instância Superior. No caso, como a vítima em nada confluiu para a consecução delitiva, tal modulante deverá ser considerada neutra" (fl. 239).
+Nesse sentido, confira-se:
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. VIOLAÇÃO DO ART. 59, CP. PENA-BASE FIXADA NO MÍNIMO LEGAL. CONSEQUÊNCIAS E MOTIVOS PRÓPRIAS DO TIPO. FUNDAMENTOS INATACADOS. APLICAÇÃO DA SÚMULA 283/STF. COMPORTAMENTO DA VÍTIMA. NEUTRO. AGRAVO NÃO PROVIDO.
+ ..
+2. Esta Corte Superior considera o vetor do comportamento da vítima neutro, não podendo ser desfavorável ao apenado na dosimetria da pena. Precedentes.
+3. Agravo regimental a que se nega provimento." (AgRg no AREsp n. 473.972/GO, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 3/3/2017, grifei).
+"RECURSO ESPECIAL. DUPLO HOMICÍDIO QUALIFICADO CONSUMADO, PRATICADO EM CONCURSO MATERIAL. DOSIMETRIA. REDIMENSIONAMENTO PELO TRIBUNAL A QUO. CIRCUNSTÂNCIA JUDICIAL. AFASTAMENTO E MANUTENÇÃO. NOVOS FUNDAMENTOS. COMPORTAMENTO DAS VÍTIMAS. VETORIAL NEUTRA. AFASTAMENTO. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PROVIDO.
+ ..
+6. Consoante os precedentes desta Corte, "o comportamento neutro da vítima não justifica o acréscimo da pena-base" (HC n. 297.132/PE, Rel. Ministro Ericson Maranho - Desembargador convocado do TJ/SP, 6ª T., DJe 23/11/2015). Ele "apenas deve ser utilizado em benefício do réu, devendo tal circunstância ser neutralizada no caso de não interferência do ofendido na prática do crime" (HC n. 370.702/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 20/6/2017).
+7. O comportamento das vítimas, portanto, porque em nada contribuíram para a prática do seu próprio homicídio, não poderia, por isso, prejudicar o recorrente e ensejar a análise negativa da vetorial.
+8. Recurso especial parcialmente conhecido e, nessa extensão, provido, para redimensionar a reprimenda do recorrente de 38 para 30 anos de reclusão, a ser cumprida no regime inicial fechado." (REsp n. 1.279.962/AL, Sexta Turma, Rel. Min. Rogério Schietti Cruz, DJe de 20/9/2017).
+Assim, considerando que o acórdão recorrido não está em conformidade com a jurisprudência desta Corte Superior de Justiça acerca do tema, incide, in casu, a Súmula n. 568/STJ, que assim dispõe, verbis:
+"O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Desta feita, deve ser redimensionada a pena do recorrente em relação ao delito previsto no artigo 121, § 2º, incisos IV e V, do Código Penal.
+Na primeira fase, decotada a circunstância judicial comportamento da vítima e mantida a culpabilidade, fixo a pena-base em 14 (quatorze) anos e 3 (três) meses de reclusão, a qual torno definitiva em razão da ausência de agravante ou atenuantes na segunda fase bem como de causas modificadoras na terceira fase.
+Assim, deve ser mantida a decisão ora agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
