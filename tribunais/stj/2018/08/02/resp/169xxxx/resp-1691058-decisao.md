@@ -1,0 +1,6 @@
+DECISÃO
+Cuida-se de recursos especiais interpostos por [NOME], INPAR PROJETO LAGOA DOS INGLESES SPE LTDA e VIVER INCORPORADORA E CONSTRUTORA S/A , nos quais se discutem, dentre outras matérias, questão referente à possibilidade ou não de inversão, em desfavor da construtora (fornecedor), da cláusula penal estipulada exclusivamente para o adquirente (consumidor), nos casos de inadimplemento da construtora em virtude de atraso na entrega de imóvel em construção objeto de contrato ou de promessa de compra e venda.
+A questão de direito foi afetada para julgamento sob o rito dos recursos repetitivos (tema 971), o que impõe a suspensão do presente recurso perante o Tribunal de origem, até a publicação do acórdão paradigma, nos termos do art. 256-L, I, do RISTJ, incluído por meio da Emenda Regimental n. 24, de 28/09/2016.
+Salienta-se, por oportuno, que, após o pronunciamento desta Corte, o recurso especial deve ser analisado na forma prevista nos arts. 1.040 e 1.041, ambos do CPC/2015.
+Forte nessas razões, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que permaneça suspenso o recurso até a publicação do acórdão paradigma, nos termos dos arts. 1.036, § 1º, e 1.037, II, ambos do CPC/2015.
+Publique-se. Intimem-se.
