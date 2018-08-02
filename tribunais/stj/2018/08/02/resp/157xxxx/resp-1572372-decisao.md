@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado (e-STJ fl. 344):
+PROCESSUAL CIVIL PREV1DENC1ÁRI0. AGRAVO LEGAL ART. 557, § Io, CPC. FERROVIA PAULISTA S/A - FEPASA. REDE FERROVIÁRIA FEDERAL RFFSA. COMPETÊNCIA DA JUSTIÇA FEDERAL EM DECORRÊNCIA DA SUCESSÃO DA EMPRESA ESTATAL PELA UNIÃO. DECISÃO EM CONSONÂNCIA COM JURISPRUDÊNCIA CONSOLIDADA DO C. STJ E DESTA E. CORTE. AGRA VO DESPROVIDO.
+- A decisão agravada está em consonância com o disposto no artigo 557 do Código de Processo Civil, visto que supedaneada em jurisprudência consolidada do C. Superior Tribunal de Justiça e desta E. Corte.
+- O C. Superior Tribunal de Justiça consolidou entendimento no sentido de que a demanda relativa à aposentadoria e pensão de ferroviário acarreta a intervenção da União na lide, como sucessora processual da extinta RFFSA - Rede Ferroviária Federa! S/A, ensejando o deslocamento da competência para a Justiça Federal, a teor do inciso I do artigo 109 da Constituição da República, ainda que o feito encontre- se em fase de execução de sentença. Precedentes.
+  As razões recursais não contrapõem tal fundamento a ponto de demonstrar o desacerto do decisum, limitando-se a reproduzir argumento visando a rediscussão da matéria nele contida.
+- Agravo desprovido.
+Nas suas razões, a parte recorrente aponta violação dos arts. 3º, 267 e 557, § 1º-A do CPC/1973, 2.º, II e 17 da Medida Provisória n. 353/2007 e 2º, I e 17, II da Lei n. 11.483/2007. Aduz que houve violação do contraditório e da ampla defesa quando o acórdão que confirmou a decisão monocrática que julgou procedente o agravo de instrumento não lhe possibilitou a apresentação de defesa e que esta decisão não poderia ser julgada monocraticamente, pois não se encontra respaldada em consonância com a jurisprudência dos tribunais superiores.
+Por fim, alega que é parte ilegítima para figurar no presente feito, uma vez que a relação jurídica material descrita na inicial se dá única e exclusivamente entre os autores da ação e o Estado de São Paulo.
+Contrarrazões às e-STJ fls. 384/397.
+ Juízo positivo de admissibilidade pelo Tribunal de origem à e-STJ fl. 420.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Com efeito, quanto aos arts. 3.º, 267 e 557, § 1º-A do CPC/1973, da análise dos autos verifica-se a ausência de prequestionamento, tendo em vista que o acórdão de origem não tratou do tema objeto de irresignação do ora agravante. Assim, incide à espécie o entendimento consolidado na Súmula 282 do STF. Note-se, ainda, que sequer foram opostos embargos de declaração.
+Cumpre destacar que o recurso especial é apelo extremo, cuja fundamentação é vinculada, sendo defeso o exame de qualquer matéria, inclusive de ordem pública, caso esta não tenha sido objeto de discussão na origem. Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SISTEMA FINANCEIRO HABITACIONAL. AGENTE FIDUCIÁRIO. ILEGITIMIDADE PASSIVA. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. PREQUESTIONAMENTO. AUSENTE.
+1. Impossibilidade de inovação recursal em sede de embargos declaratórios.
+2. O Superior Tribunal de Justiça firmou entendimento de que o prequestionamento é indispensável ao conhecimento da questão veiculada no recurso especial, ainda que se trate de matéria de ordem pública.
+3. Não apresentação pela parte agravante de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada. 4. AGRAVO REGIMENTAL DESPROVIDO. (AgRg no REsp 1334308/SC, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe 15/09/2014).
+Quanto às demais alegações, trata-se de ação revisional de pensão de funcionários da extinta FEPASA  Ferrovia Paulista S/A, em que a União sustenta não ser parte legítima para figurar no pólo passivo da demanda.
+ Nesse ponto, conforme jurisprudência desta Corte "a União é parte legítima para figurar no polo passivo das demandas sobre complementação de aposentadoria dos ex-ferroviários da RFFSA, pois cabe a ela com exclusividade adimplir o mandamento legal" (STJ, REsp 1.598.149/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 06/09/2016).
+ Nesse mesmo sentido:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. EMBARGOS À EXECUÇÃO. AÇÃO REVISIONAL. PENSÃO RECEBIDA DA RFFSA. LEGITIMIDADE DA UNIÃO. ACORDO ENTRE A UNIÃO E O ESTADO DE SÃO PAULO. PREVALÊNCIA DA LEI FEDERAL N. 11.483/2007. COMPETÊNCIA DA JUSTIÇA FEDERAL. INCIDÊNCIA DO ART. 109, I, DA CF/88 E DA SÚMULA N. 365/STJ.
+1. A Lei n. 11.483/2007 estabelece a União como sucessora da Rede Ferroviária Federal S/A nos direitos, obrigações e ações judiciais nos quais a mencionada sociedade de economia mista seja autora, ré, assistente, opoente ou terceira interessada, ressalvadas, tão somente, as ações relativas aos empregados ativos da RFFSA e da Ferrovia Paulista S/A, nos termos do art. 17, II, do mencionado diploma legal.
+2. Tratando os autos de embargos à execução opostos contra ação revisional de pensão instituída por servidor da RFFSA, necessário o ingresso da União na lide, nos termos do mencionado diploma legal, não se podendo opor à legislação federal reguladora do tema contrato firmado entre a União e o Estado de São Paulo.
+3. Incidência do art. 109, I, da Constituição Federal e da Súmula n. 365/STJ, para declarar-se a competência da Justiça Federal.
+4. Agravo regimental a que se nega provimento" (STJ, AgRg nos EDcl no CC 111.325/SP, Rel. Ministro JORGE MUSSI, TERCEIRA SEÇÃO, DJe de 17/05/2013).
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. SUCESSÃO LEGAL DA RFFSA. INGRESSO DA UNIÃO NO FEITO. DESLOCAMENTO DA COMPETÊNCIA DO FEITO PARA A JUSTIÇA FEDERAL. COMPETÊNCIA RATIONE PERSONAE. ART. 109, I, DA CF/88. SÚMULA 365/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência do Superior Tribunal de Justiça reconhece a possibilidade de conversão dos embargos de declaração em agravo regimental, de acordo com o princípio da fungibilidade recursal. Precedentes.
+2. A Lei nº 11.483/07 estabeleceu que a União é sucessora da extinta RFFSA, que havia incorporada a FEPASA, ressalvando apenas as causas envolvendo pessoal da ativa.
+3. Nesse passo, entendo que não procede a alegação da União no sentido de que, no tocante à complementação das aposentadorias e pensões concedidas aos antigos funcionários da FEPASA, a empresa teria sido sucedida pelo Estado de São Paulo, porquanto o mencionado contrato firmado entre o Estado e a União não pode se sobrepor ao disposto na lei federal.
+ 4. Assim, considerando a legitimidade da União para atuar no feito como sucessora legal da extinta RFFSA, impõe-se reconhecer a competência da Justiça Federal, nos termos do art. 109, I, da CF/88, bem como do enunciado nº 365 da Súmula desta Corte.
+5. Agravo regimental a que se nega provimento" (STJ, EDcl no CC 105.228/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, DJe de 06/05/2011).
+Confira-se ainda a decisão monocrática: AREsp 700210/SP, Rel. Ministra ASSUSETE MAGALHÃES, Dje 16/05/2017.
+Aplica-se, in casu, a Súmula 83 do STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
