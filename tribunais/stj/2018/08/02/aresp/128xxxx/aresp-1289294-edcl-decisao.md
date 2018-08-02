@@ -1,0 +1,18 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS CONSTANTES DO ART. 1.022 DO CPC/2015. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são cabíveis somente quando houver na decisão judicial, obscuridade, contradição, omissão ou erro material, nos termos do art. 1.022 do CPC/2015. Na hipótese dos autos, não se consta nenhum vício a ser sanado.
+2. Considerando o caráter manifestamente protelatório dos embargos de declaração, aplicável a multa inserta no art. 1.026, §2º, do CPC/2015.
+3. Embargos de declaração no agravo em recurso especial rejeitados, com aplicação de multa.
+DECISÃO
+Cuida-se de embargos de declaração opostos por KIRRA INVESTIMENTOS IMOBILIÁRIOS LTDA E TECNISA S/A contra decisão unipessoal que conheceu do agravo para não conhecer do recurso especial interposto pelas embargantes, em razão da ausência de prequestionamento do art. 927, II, do CPC e da tese defendida pelos recorrentes para demonstrar sua vulneração, aplicando as Súmulas 211/STJ e 282/STF.
+No presente recurso, as embargantes alegam que houve omissão no julgado, visto que não houve apreciação do prazo prescricional para a cobrança dos valores à título da taxa SATI, defendendo que a prescrição por ser matéria de ordem pública pode ser alegada a qualquer momento.
+RELATADO O PROCESSO, DECIDE-SE.
+Nos termos do art. 1.022 do CPC/15, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja, no julgado impugnado, obscuridade, contradição, omissão ou erro material.
+A rigor, a questão apontada pelas embargantes não se constitui ponto omisso, mas mero inconformismo com os fundamentos adotados na decisão embargada.
+Da análise dos presentes aclaratórios, observa-se que as embargantes defendem que a questão atinente à prescrição não teria sido apreciada na decisão embargada. Acontece que essa foi devidamente apreciada, tendo sido consignado que acerca da violação ao art. 927, III, do CPC e tese defendida pela recorrente em suas razões recursais, esses não teriam sido examinadas pelo Tribunal de origem, aplicando-se à hipótese a Súmula 211 e 282/STF.
+E, conforme se observa da leitura do recurso especial, no tópico constante do apelo nobre que versa sobre a suposta violação do art. 927, III, CPC/2015, toda a tese nele veiculada trata acerca da prescrição, a qual, como claramente consignado, não foi objeto de apreciação pelo Tribunal de origem.
+Registre-se, por oportuno, que é assente o entendimento nesta Corte, segundo o qual, mesmas as questões de ordem pública necessitam ser debatidas na instância ordinária, para caracterização do prequestionamento. Acerca do assunto: AgRg nos EAREsp n. 253.828/SP, Terceira Turma, DJe 19/06/2018 e AgInt no AREsp n. 1.078.110/SP, Quarta Turma, DJe 21/05/2018
+Nesse contexto, não tendo sido demonstrada a suposta omissão no julgado, mas apenas a nítida pretensão das embargantes de se valerem dos embargos de declaração para rediscutir matéria já decidida, fazendo com que prevaleça o seu entendimento sobre o tema, intuito esse incompatível com a natureza desse recurso, não devem os aclaratórios serem acolhidos.
+Desse modo, considerando que o presente recurso não reúne os pressupostos específicos para o seu acolhimento, nos termos do art. 1.022 do CPC/2015 e, considerando o caráter manifestamente protelatório dos embargos de declaração condeno a embargante a pagar à embargada multa de 2% do valor atualizado da causa nos termos do art. 1.026, §2º, do CPC/2015.
+Forte nessas razões, REJEITO os embargos de declaração no agravo em recurso especial.
+Publique-se. Intimem-se.
