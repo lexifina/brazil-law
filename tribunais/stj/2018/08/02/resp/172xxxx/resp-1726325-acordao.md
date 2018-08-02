@@ -1,0 +1,34 @@
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. READEQUAÇÃO DE BENEFÍCIO. REVISÃO. TETOS DAS EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. QUESTÃO DIRIMIDA SOB ENFOQUE EMINENTEMENTE CONSTITUCIONAL. ANÁLISE VEDADA. USURPAÇÃO DA COMPETÊNCIA DO STF.
+1. A parte recorrente argumenta genericamente a infringência normativa, sem apontar qual dispositivo legal foi desrespeitado, tampouco o coteja com a decisão recorrida para demonstrar a alegada contrariedade. Incide a vedação de admissibilidade preceituada na Súmula 284/STF no ponto recursal, segundo a qual: "É inadmissível o Recurso Extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+2. O acórdão recorrido analisou a questão sob o enfoque de interpretação eminentemente constitucional. Dessarte, a apreciação da matéria em Recurso Especial fica inviabilizada, sob pena de usurpação da competência do STF.
+3. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão assim ementado:
+PREVIDENCIÁRIO. EMBARGOS À EXECUÇÃO. CÁLCULO DO SALÁRIO DE BENEFÍCIO. TETOS DAS EMENDAS CONSTITUCIONAIS 20/98 E 41/03.
+Vigorava - e ainda vigora - a redação dada pela Lei 9.876/99 que redefiniu salário-de-contribuição - para o caso de aposentadoria por tempo de contribuição - como a média aritmética simples multiplicada pelo fator previdenciário.
+O Plenário do Supremo Tribunal Federal, no julgamento do Recurso Extraordinário nrj 564354, tendo como relatora a Ministra Carmem Lúcia Antunes Rocha, entendeu, por ampla maioria de votos "que só após a definição do valor do benefício é que se aplica o limitador (teto). Ele não faz parte do cálculo do benefício a ser pago. Assim, se esse limite for alterado, ele é aplicado ao valor inicialmente calculado". Considerou o STF, portanto, que "o teto é exterior ao cálculo do benefício". Em outras palavras, o teto, segundo tal interpretação, tem por função apenas limitar o valor do benefício previdenciário no momento de seu pagamento, não impedindo que o valor eventualmente glosado em virtude de sua incidência venha a ser, total ou parcialmente, considerado por ocasião de um aumento real do valor do teto, o que ocorreu por intermédio das Emendas Constitucionais 20/98 e 41/03.
+Não houve Embargos de Declaração.
+A recorrente alega divergência jurisprudencial. Defende a aplicação, no primeiro reajuste anual, da diferença percentual entre a média e o teto, pois ficou comprovado que a média dos salários de contribuição é superior ao teto de benefícios. Aduz não haver decadência, uma vez que não pleiteia a revisão do benefício, mas a atualização conforme o art. 21 da Lei 8.880/1994.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste gabinete em 1º de março de 2018.
+A parte recorrente argumenta genericamente a infringência normativa, sem apontar qual dispositivo legal foi desrespeitado, tampouco o coteja com a decisão recorrida para demonstrar a alegada contrariedade. Incide a vedação de admissibilidade preceituada na Súmula 284/STF no ponto recursal, segundo a qual: "É inadmissível o Recurso Extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Não obstante, o recorrido está embasado em precedente de repercussão geral proferido pelo Supremo Tribunal Federal, RE 564.354. Dessa forma, saber se os tetos incidem em benefícios anteriores à Constituição de 1988, consoante o referido precedente, é tarefa do STF e não do STJ.
+Nesse sentido:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. BENEFÍCIO. TETO DO SALÁRIO DE BENEFÍCIO. ECS 20/1998 E 41/2003. REVISÃO. VIOLAÇÃO AO ART. 535 DO CPC NÃO CONFIGURADA. MATÉRIA CONSTITUCIONAL.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015.
+2. A questão relativa à aplicação dos tetos das Emendas Constitucionais 20/1998 e 41/2003 possui contornos constitucionais, tanto que é objeto de decisão sob o regime da Repercussão Geral na Corte Suprema (RE 564.354, Rel. Ministra Cármen Lúcia, DJ 15.2.2011).
+3. A discussão de matéria constitucional afasta a competência do STJ, já que o exame da violação de dispositivos da Constituição Federal é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional.
+4. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1658730/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/04/2017, DJe 27/04/2017)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. ACÓRDÃO DE ÍNDOLE EXCLUSIVAMENTE CONSTITUCIONAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A despeito da alegação de violação à legislação infraconstitucional federal nas razões de recurso especial, a controvérsia girou em torno da aplicação dos tetos das Emendas Constitucionais 20/1998 e 41/2003 aos benefícios concedidos anteriormente à vigência da CF/1988 e foi decidida sob enfoque eminentemente constitucional, com a aplicação do entendimento do STF, firmado nos autos do RE 564.354.
+2. A decisão agravada deve ser mantida pelos seus próprios fundamentos, pois aplicou a jurisprudência do Superior Tribunal de Justiça, firme no sentido de que a adoção pelo Tribunal de origem de fundamento exclusivamente constitucional na solução da lide, inviabiliza a apreciação da matéria em sede de recurso especial, sob pena de usurpação da competência do STF.
+3. Agravo regimental não provido.
+(AgRg no REsp 1539073/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 03/09/2015, DJe 18/09/2015).
+Por fim, em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios, anteriormente fixados em 3% (três por cento) ao INSS, para 5% (cinco por cento), respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Diante do exposto, não conheço do Recurso Especial .
+É como voto.
