@@ -1,0 +1,22 @@
+DECISÃO
+Vistos, etc.
+Trata-se de mandado de segurança, com pedido de concessão de liminar, impetrado por [NOME] contra a União, o Ministro de Estado da Educação e a Anhanguera - UNIDERP Polo Educacional Ltda., por meio do qual o impetrante busca a obtenção de bolsa do Programa Universidade para Todos - PROUNI, a fim de ingressar no curso de Contabilidade realizado pela Faculdade Anhanguera.
+Salienta o impetrante que foi aprovado no Enem 2017 e agraciado com a referida bolsa de estudos. No entanto, sem maiores explicações, teve sua inscrição indeferida por ausência de comparecimento, o que lhe impossibilitou o exercício do direito à educação.
+Aduz que "possui coeficiente de rendimento (nota) suficiente e cumpriu todos os prazos exigidos para ingressar nas vagas disponíveis, e devidamente entregou toda a documentação exigida em tempo hábil, no curso em que almeja na Anhanguera - UNIDERP  ..  e teve esse direito negado por ato da instituição, sob a alegação de que este realizou sua inscrição depois do prazo indicado no cronograma, ferindo diretamente o artigo 5º da Lei n. 11.096/2005, ao qual a faculdade está aderida ao PROUNI" (e-STJ, fl. 12).
+Requer o deferimento liminar da bolsa do programa PROUNI para que inicie, imediatamente, o curso de Ciências Contábeis.
+Pleiteia, ao final, a concessão definitiva da segurança, confirmando-se o seu direito ao ensino superior.
+O Juízo de primeira instância reconheceu a incompetência para o julgamento da lide em face da ilegitimidade da autoridade apontada coatora, determinando, por consequência, a remessa dos autos a esta Corte Superior.
+É o relatório.
+De acordo com a jurisprudência do STJ, o Ministro de Estado da Educação, bem como a União, não possui legitimidade para figurar no polo passivo de ação mandamental que visa discutir os critérios de seleção de candidatos à bolsa do PROUNI.
+Nos termos do Decreto n. 5.493/2005, que regulamentou a Lei n. 11.906/2005, compete à Secretaria de Educação Superior do Ministério da Educação - Sesu a implementação e a condução integral do processo seletivo de candidatos a bolsas do referido programa governamental. A propósito:
+AGRAVO REGIMENTAL NO MANDADO DE SEGURANÇA. ADMINISTRATIVO. PROUNI. PROCESSO SELETIVO. ILEGITIMIDADE PASSIVA DO MINISTRO DE ESTADO DA EDUCAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Narra a exordial, ter o impetrante se submetido ao Exame Nacional do Ensino Médio em outubro de 2014, tendo feito inscrição no Programa Nacional Universidade Para Todos de 2015. Como primeira opção de bolsa integral escolheu o curso de engenharia química e, como segunda, engenharia civil, ambos ofertados pela Universidade de Salvador - UNIFACS.
+2. Aprovado apenas para a segunda alternativa, quedou-se inerte na efetivação de sua matrícula por acreditar que ainda lhe restaria a possibilidade de ser convocado em sua primeira opção, por meio de lista de espera.
+3. Como já sedimentado no âmbito desta Corte, a legitimidade para figurar no pólo passivo do mandamus é da autoridade que detém atribuição para adoção das providências tendentes a executar o ato combatido e não daquele responsável pela edição da norma geral e abstrata.
+4. A Lei n. 11.096/2005, que instituiu o Programa Universidade para Todos - ProUni, destinado à concessão de bolsas de estudo em cursos de graduação, foi regulamentada pelo Decreto n. 5.493/2005 - que conferiu à Secretaria de Educação Superior do Ministério da Educação - SESu - competência para implementar e conduzir inteiramente o processo seletivo de candidatos.
+5. Em casos análogos, envolvendo discussão acerca dos critérios para seleção de candidatos à bolsa do ProUni, a Primeira Seção já se posicionou pela ilegitimidade passiva do Ministro de Estado da Educação. Nessa linha, citam-se os seguintes julgados: Precedentes da Primeira Seção: MS 14.242/DF, rel. Ministra Eliana Calmon, DJe 18/6/2009; MS 13.280/DF, rel. Ministro Herman Benjamin, DJe 19/12/2008.
+6. Agravo regimental não provido.
+(AgRg no MS 21.656/DF, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 13/5/2015, DJe 19/5/2015)
+Ante o exposto, com fulcro no art. 10 da Lei n. 12.016/2009, c/c o art. 485, I e VI, do CPC/2015, indefiro a inicial e denego a segurança, sem resolução de mérito, em razão da ilegitimidade da autoridade apontada coatora.
+Remetam-se os autos à autoridade judiciária de primeiro grau para análise do mandamus, levando-se em conta remanescer no polo passivo a Anhanguera - UNIDERP Polo Educacional Ltda.
+Publique-se. Intimem-se.
