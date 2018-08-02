@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO (FAZENDA NACIONAL) contra acórdão do TRF da 4ª região, assim ementado:
+TRIBUTÁRIO. COFINS E CSLL. PARCELAMENTO. LEI Nº 11.941/09.
+1. A Lei n. 11.941/09 e suas posteriores regulamentações trataram de forma exaustiva de como se daria o procedimento para inclusão dos tributos nas modalidades de parcelamento e de pagamento à vista com utilização de prejuízos fiscais e de bases de cálculo negativas da CSLL, não oferecendo maior detalhamento no que se refere à opção pelo pagamento à vista de forma diversa.
+2. Entretanto, isso não significa que somente o pagamento à vista nessas condições foi abrangido pela Lei n. 11.941/09. O § 2º do art. 1º da Lei não faz nenhuma restrição à forma como deveria ser feito o pagamento à vista para que possa o contribuinte usufruir as benesses legais.
+3. Hipótese em que os recolhimentos efetuados se incluem na previsão da Lei nº 11.941/2009, visto que o vencimento original de ambas as dívidas é anterior ao abrangido pelo diploma legal. Considerando que este dispõe que a sua entrada em vigor se deu na data de sua publicação, aplicável aos recolhimentos discutidos o art. 2º, I, de modo que é devida a redução de 100% (cem por cento) das multas de mora e de ofício, de 40% (quarenta por cento) das multas isoladas, de 45% (quarenta e cinco por cento) dos juros de mora e de 100% (cem por cento) sobre o valor do encargo legal.
+Nas razões do especial, a recorrente alegou violação do seguinte dispositivo legal:
+a) art. 535, II, do CPC/1973, sustentando que os pontos levantados pela União nos embargos de declaração não foram examinados, ante a rejeição do recurso pelo Tribunal de origem.
+Com contrarrazões, o recurso foi admitido pelo Tribunal de origem.
+Passo a decidir.
+Inicialmente, cumpre registrar que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 - STJ).
+Feita essa consideração, cabe ressaltar que o recurso especial origina-se de ação de repetição de indébito ajuizada pela parte recorrida, por meio da qual requereu que lhe fosse restituído o valor de R$ 14.440,41 (quatorze mil, quatrocentos e quarenta reais e quarenta e um centavos), referente ao pagamento de multa e juros de mora sobre recolhimentos de COFINS e CSLL.
+Em primeiro grau de jurisdição, o Juízo da 1ª Vara do Juizado Especial Federal de Porto Alegre - RS julgou parcialmente procedente o pedido para condenar a União à restituição do valor de R$ 11.883,98 (onze mil, oitocentos e oitenta e três reais e noventa e oito centavos), atualizados pela SELIC a partir de 09/09/2009.
+Irresignada, a Fazenda Nacional interpôs recurso de apelação que fora desprovido pelo TRF da 4ª Região. Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 120/122):
+A sentença não comporta reparos, pois aplicou com critério e acerto a legislação que rege à espécie e está fundada nas provas contidas nos autos. Transcrevo e adoto como razões de decidir os fundamentos da sentença:
+"Preliminar: Interesse de agir
+A demanda não discute valores que foram objeto da consolidação dos parcelamentos efetuados pela demandante, como sustenta a ré, mas sim valores que foram pagos à vista com base no regime instituído pela Lei nº 11.941/09, antes mesmo da consolidação realizada.
+Assim, não acolho a preliminar.
+Mérito:
+A Lei n.º 11.941/2009 instituiu, basicamente, duas modalidades distintas de parcelamento, consubstanciadas nos artigos 1º (débitos não parcelados anteriormente) e 3º (débitos decorrentes de saldos de parcelamentos anteriores), in verbis:
+(..)
+No caso dos autos, o autor ingressou nas duas modalidades de parcelamento em junho de 2009.
+Antes da consolidação de tais parcelamentos, que foi efetuada em 16/06/2011, realizou o recolhimento dos valores devidos a título de CSLL (3º Trimestre/2008) e COFINS Cumulativo (competência 10/2008) à vista, com a incidência de multa e juros, conforme demonstram as guias juntadas no evento 1 (PROCADM4, pp. 1 e 3). Sustenta o demandante que deve ser aplicado a tais recolhimentos o § 3º do art. 1º da Lei nº 11.941/2009, o que levaria à conclusão de que tais consectários são indevidos, requerendo a sua restituição.
+Assiste razão à parte autora.
+Observa-se que a Lei nº 11.941/09 e suas posteriores regulamentações trataram de forma exaustiva como se daria o procedimento para inclusão dos tributos nas modalidades de parcelamento e de pagamento à vista com utilização de prejuízos fiscais e de bases de cálculo negativas da CSLL, não oferecendo maior detalhamento no que se refere à opção pelo pagamento à vista de forma diversa.
+Entretanto, isso não significa que somente o pagamento à vista nessas condições foi abrangido pela Lei nº 11.941/09. O § 2º do art. 1º da Lei não faz nenhuma restrição à forma como deveria ser feito o pagamento à vista para que possa o contribuinte usufruir as benesses legais.
+Com efeito, os recolhimentos efetuados realmente se incluem na previsão da Lei nº 11.941/2009, visto que o vencimento original de ambas as dívidas é anterior ao abrangido pelo diploma legal. Considerando que o diploma referido dispõe que a sua entrada em vigor se deu na data de sua publicação, aplicável aos recolhimentos discutidos o art. 2º, I, de modo que é devida a redução de 100% (cem por cento) das multas de mora e de ofício, de 40% (quarenta por cento) das multas isoladas, de 45% (quarenta e cinco por cento) dos juros de mora e de 100% (cem por cento) sobre o valor do encargo legal.
+Os embargos de declaração opostos pela recorrente foram rejeitados.
+Pois bem.
+a) Da negativa de prestação jurisdicional
+Esta Corte Superior tem, reiteradamente, decidido que a alegação de violação do art. 535 do CPC/1973 ou do art. 1.022 do CPC/2015 deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado, sob pena de não conhecimento, à luz da Súmula 284 do STF. Nesse sentido: AgInt no AREsp 1.129.996/RJ, Rel. Ministro Luís Felipe Salomão, Quarta Turma, DJe 01/12/2017; AgInt no REsp 1.681.138/MS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 28/11/2017; REsp 1371750/PE, Rel. Ministro Og Fernandes, Primeira Seção, DJe 10/04/2015; AgRg no REsp 1182912/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 29/04/2016.
+Na hipótese, a recorrente deixou de indicar precisamente os pontos supostamente não enfrentados pelo Tribunal de origem, limitando-se a afirmar, genericamente, que os pontos levantados pela União nos embargos de declaração não foram examinados.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
