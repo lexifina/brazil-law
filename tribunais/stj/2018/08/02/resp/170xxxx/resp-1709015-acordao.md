@@ -1,0 +1,40 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. ITBI. BASE DE CÁLCULO. ANÁLISE DE LEI LOCAL. INVIABILIDADE. SÚMULA 280/STF.
+1. A solução do caso concreto demanda exegese da legislação local (Lei Municipal 11.154/1991), o que atrai a incidência da Súmula 280/STF. Precedentes do STJ: AgRg no REsp 1.518.150/SP, Rel. Ministra Assusete Magalhães, DJe de 30.11.2015; AgInt no AREsp 1.065.104/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 29.9.2017; REsp 1.659.106/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 11.5.2017; AgInt no AREsp 852.002/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 28.6.2016.
+2. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Francisco Falcão."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo cuja ementa é a seguinte (fl. 141, e-STJ):
+APELAÇÃO - MANDADO DE SEGURANÇA ITBI Município de São Paulo - Discussão acerca da correta base de cálculo do referido imposto - Majoração indevida, por meio de Decretos, da base de cálculo fixada na Lei Municipal nº 11.154/91 Base de cálculo que deve corresponder ao valor venal do imóvel ou ao valor da transação, prevalecendo o que for maior - Ilegalidade da apuração do valor venal com base no valor de referência - Inconstitucionalidade dos artigos 7º-A e 7º-B da Lei Municipal n.º 11.154/1991 reconhecida pelo Órgão Especial deste Egrégio Tribunal, os quais permitem a estimativa prévia e unilateral do valor e invertem a ordem do artigo 148 do CTN Manutenção da r. sentença de primeiro grau que se impõe - Recurso voluntário e recurso ex officio, que se considera interposto, desprovidos.
+O recorrente, nas razões do Recurso Especial, alega que ocorreu violação dos arts. 38, 97 e 148 do CTN. Afirma que "as disposições essenciais à cobrança do tributo estão previstas em lei" (fl. 155, e-STJ), motivo pelo qual entende que, ao contrário do que aduziu o acórdão recorrido, não houve ofensa ao princípio da legalidade. Defende inexistir vício no cálculo do ITBI discutido.
+Afirma (fl. 162, e-STJ):
+(..) o que fez a nova legislação do Município de São Paulo (Leis Municipais 14.125/05 e 14.256/06) foi modificar a forma de recolhimento do ITBI, permitindo que o contribuinte conheça desde logo o valor venal atualizado de seu imóvel, de modo a evitar o recolhimento a menor e o subsequente lançamento complementar da diferença, com imposição de multa punitiva.
+(..) Postas estas razões, bem se vê que o v. acórdão de apelação, ao pretender que a base de cálculo do ITBI seja não o valor venal dos bens imóveis objeto do negócio imobiliário noticiado nos autos, acabou por negar vigência ao art. 38 do Código Tributário Nacional e, por isso mesmo, terá de ser reformado, para que se reconheça que a base de cálculo do tributo é o valor venal dos bens, conforme arbitrado pelo Município nos termos dos artigos 38 e 148, ambos do CTN.
+Contrarrazões apresentadas às fls. 169-183, e-STJ.
+O recurso foi inadmitido na origem. Para melhor análise da controvérsia, foi dado provimento ao Agravo para determinar sua conversão em Recurso Especial.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 12.11.2017.
+A irresignação não merece prosperar.
+A solução do caso concreto demanda exegese da legislação local, o que atrai a incidência da Súmula 280/STF. Precedente do STJ: AgRg no REsp 1.518.150/SP, Rel. Ministra Assusete Magalhães, DJe 30/11/2015.
+No mesmo sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ITBI. VALOR VENAL. NECESSIDADE DE EXAME DE LEGISLAÇÃO LOCAL PARA SOLUÇÃO DA CONTROVÉRSIA. INCIDÊNCIA DA SÚMULA 280/STF. NÃO INTERPOSIÇÃO DO RECUSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA 126/STJ. AGRAVO INTERNO DO MUNICÍPIO DE SÃO PAULO/SP A QUE SE NEGA PROVIMENTO.
+1. Exame da controvérsia que demanda, necessariamente, o exame da Legislação Local (Decreto 46.228/2005 e Lei 11.154/1991, alterada pela Lei 14.256/2006, todos do Município de São Paulo/SP), medida vedada na via do Recurso Especial, a teor da Súmula 280/STF, aplicável por analogia. Precedentes: AgInt no AREsp. 871.034/SP, Rel. Min. ASSUSETE MAGALHÃES, DJe 2.6.2016; AgRg no AREsp. 768.845/BA, Rel. Min. HERMAN BENJAMIN, DJe 4.2.2016.
+2. Não consta dos autos a interposição do competente Recurso Extraordinário, a fim de impugnar a motivação de natureza constitucional, suficiente à manutenção do aresto. Incide, na hipótese, a Súmula 126 do STJ, segundo a qual é inadmissível Recurso Especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário. Precedentes: AgRg no AREsp. 47.576/MG, Rel. Min. HERMAN BENJAMIN, DJe 23.5.2012; AgRg no AREsp. 377.829/PR, Rel. Min. REGINA HELENA COSTA, DJe 13.2.2015.
+3. Agravo Interno do MUNICÍPIO DE SÃO PAULO/SP a que se nega provimento.
+(AgInt no AREsp 1065104/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 19/09/2017, DJe 29/09/2017)
+TRIBUTÁRIO. ITBI. BASE DE CÁLCULO. ACÓRDÃO AMPARADO EM LEI MUNICIPAL. PRECLUSÃO. SÚMULA 280/STF. NÃO CONHECIMENTO DO RECURSO ESPECIAL.
+1. Cuida-se, na origem, de Mandado de Segurança impetrado com a finalidade de afastar a base de cálculo apurada pelo Município em relação ao ITBI. 2. A sentença e o acórdão fundamentaram suas decisões nas Leis Municipais 10.235/1986, 11.152/1991, 11.154/1991 e 13.250/2001, bem como nos Decretos municipais 37.923/99, 27.771/1989 e 46.228/2005.
+3. O STJ tem reconhecido que, no caso dos autos, incide, por analogia, a Súmula 280 do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário" (AgInt no AREsp 1.016.146/SP, Relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 3/4/2017 e AgInt no AREsp 992905/SP, Relator Ministro Og Fernandes, Segunda Turma, DJe 22/3/2017).
+4. Recurso Especial não provido.
+(REsp 1659106/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/04/2017, DJe 11/05/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO DO PRESENTE RECURSO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. ITBI. VALOR VENAL. ACÓRDÃO RECORRIDO FULCRADO EM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL E EM LEI LOCAL. SÚMULA Nº 280/STF.
+1. O acórdão recorrido negou provimento ao apelo da municipalidade com base em fundamento constitucional - princípio da legalidade, insculpido no art. 150, I, da Constituição Federal - ao afirmar que a legislação local deixou o prévio estabelecimento da base de cálculo do ITBI ao crivo de um órgão do Poder Executivo (Secretaria Municipal de Finanças), o que implicou em majoração do tributo acima dos limites inflacionários do período, por mero ato infralegal.
+2. Inviável a análise da pretensão em sede de recurso especial, uma vez que a adoção pela instância ordinária de fundamento eminentemente constitucional na solução da lide, inviabiliza o conhecimento do recurso especial.
+3. Ademais, o Tribunal a quo valeu-se da interpretação de legislação local (Decreto Municipal 46.228/2005 e Leis Municipais 11.154/1991 e 14.256/2006) para decidir a controvérsia. Na esteira da jurisprudência desta Corte Superior, nesses casos, não há a abertura da via especial, em virtude do óbice contido na Súmula 280/STF.
+4. Agravo interno não provido.
+(AgInt no AREsp 852.002/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 21/06/2016, DJe 28/06/2016)
+Diante do exposto, não conheço do Recurso Especial.
+É como voto.
