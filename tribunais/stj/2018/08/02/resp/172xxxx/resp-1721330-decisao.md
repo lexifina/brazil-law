@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DE MINAS GERAIS com fulcro na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça daquela unidade da federação, assim ementado (e-STJ fls. 208):
+REEXAME NECESSÁRIO E APELAÇÃO CÍVEL - MANDADO DE SEGURANÇA - ADMINISTRATIVO - TRÂNSITO - APREENSÃO DE VEÍCULO - LIBERAÇÃO CONDICIONADA AO PAGAMENTO DE DESPESAS DE REMOÇÃO E ESTADA - LIMITAÇÃO DE 30 DIAS - POSIÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA - MANUTENÇÃO DA SENTENÇA.
+Nos termos do posicionamento do Superior Tribunal de Justiça, apreendido o veiculo, a exigência de pagamento de multas, tributos e despesas com remoção e estada no depósito para liberação de veiculo apreendido, somente poderão ser cobradas até os 30 primeiros dias. Sentença confirmada, no reexame necessário, prejudicado o recurso voluntário.
+Rejeitados os aclaratórios, com imposição de multa (e-STJ 223/227).
+Nas suas razões, o recorrente aponta violação dos arts. 1.022, II, e 1.026, § 2º, do Código de Processo de Civil de 2015, sustentando a nulidade do acórdão recorrido, por negativa de prestação jurisdicional, bem como a ilegalidade da multa aplicada em sede de embargos de declaração, uma vez que manejados com intuito de prequestionamento.
+Sem contrarrazões
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 247/249.
+O Ministério Público Federal opina pelo desprovimento do recurso.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Feita essa anotação, constata-se que o recurso não merece ser conhecido quanto à suposta violação do art. 1.022 do CPC/1973, porquanto esta Corte de Justiça tem decidido, reiteradamente, que a referida alegação deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado.
+No caso, o recorrente limita-se a afirmar que a Corte a quo não teria apreciado as questões ventiladas nos embargos de declaração, com amparo nos arts. 133, 232 e 271 do Código de Trânsito Brasileiro, sem indicar em que aspectos residiriam as omissões. Tal circunstância impede o conhecimento do recurso especial, à luz da Súmula 284 do Supremo Tribunal Federal.
+A propósito, cito os seguintes precedentes (EDcl no AgRg no AREsp 688.515/RO, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 20/10/2015, DJe 04/11/2015; AgRg no AREsp 68.600/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 19/12/2014; AgRg no AREsp 655.352/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 08/09/2015; AgRg no AREsp 271.586/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 13/05/2014.
+ Quanto à aplicação da multa com fundamento no art. 538, parágrafo único, do CPC/1973, assiste razão ao recorrente, porquanto os embargos declaratórios foram utilizados com o propósito de prequestionar dispositivos legais relacionados a questões enfrentadas pelo acórdão recorrido, atraindo o entendimento firmado na Súmula 98 do STJ, in verbis: "Embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório".
+Ante o exposto, com base no art. 255, § 4º, I e III, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PROVIMENTO para afastar a multa imposta nos embargos de declaração.
+Publique-se. Intimem-se.
