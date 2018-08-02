@@ -1,0 +1,15 @@
+DECISÃO
+Vistos, etc.
+Trata-se de carta rogatória pela qual a Justiça estadunidense solicita que se proceda à citação da empresa ESTRATÉGIA INVESTIMENTOS S.A. para uma ação de cobrança, segundo o texto rogatório.
+A intimação prévia da Interessada foi realizada no endereço constante na comissão (fl. 182).
+Em seguida, a parte Interessada apresentou impugnação, alegando, em síntese, deficiência na formação da carta rogatória, porque "não foi apurado nenhum relacionamento comercial entre a Estratégia Investimentos S.A. e o banco de Centrum de Zurique" (fl. 186) e, ademais, não seria possível "atestar a veracidade dos documentos acostados pelo Demandante nos anexos, em especial a comprovação de que o valor pretendido é líquido e certo, já que as citadas operações financeiras não foram objeto de registros contábeis junto a Demandada" (ibidem).
+Aduz, ainda, que, em razão do art. 18, alínea a, da Lei n.º 6.024/74, "a decretação da liquidação extrajudicial acarreta, de imediato, a suspensão das ações e execuções que têm repercussão direta no acervo da entidade liquidanda, não podendo ser intentadas quaisquer outras, enquanto durar a liquidação, não importando a origem do crédito ou que a execução tenha se iniciado antes da liquidação" (fl. 187).
+O Ministério Público Federal, em parecer à fl. 219, manifesta-se pela devolução do processo à origem devido ao cumprimento da diligência rogada com o comparecimento espontâneo da parte Interessada.
+É o relatório. Decido.
+De início, cabe esclarecer que a comissão foi encaminhada pela via diplomática, o que presume a autenticidade dos documentos. A tramitação oficial faz dispensar a tradução por profissional juramentado no Brasil e, nos presentes autos, os documentos que acompanham a comissão permitem a compreensão da controvérsia, não havendo comprometimento do direito de defesa.
+Ademais, cumpre salientar que as questões acerca do mérito da causa suscitadas na impugnação devem ser analisadas pelo Juízo rogante, pois transcendem os limites estabelecidos no art. 216-Q, § 2º, do Regimento Interno do Superior Tribunal de Justiça, o que impede o seu exame por este órgão julgador.
+Por fim, não merece prosperar a alegação da parte Interessada de que a presente diligência encontra óbice no art. 18, a, da Lei n.º 6.024/74, uma vez que a suspensão das ações, nos moldes do referido diploma, não se estende às demandas movidas no estrangeiro.
+Desse modo, o objeto da carta rogatória não atenta contra a soberania nacional nem contra a ordem pública, razão pela qual, com fundamento no art. 216-O, caput, do Regimento Interno do Superior Tribunal de Justiça, CONCEDO O EXEQUATUR.
+Diante do êxito na intimação prévia da parte Interessada e seu comparecimento espontâneo aos autos (fls. 184-217), considero consumado o objeto da comissão, mostrando-se desnecessária a remessa dos autos à Justiça Federal.
+Assim, tendo em vista o seu devido cumprimento e com fulcro no art. 216-X do Regimento Interno do Superior Tribunal de Justiça, determino a devolução dos autos à Justiça rogante por intermédio da autoridade central competente.
+Publique-se. Intimem-se.
