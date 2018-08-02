@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo da União, pretendendo admissão de recurso especial, no qual alega violação do art. 5º da Lei n. 9.960/2000, defendendo a legalidade da exigência de abertura de conta bancária no Banco da Amazônia para o fim de recadastramento de empresas na SUFRAMA.
+O recurso não foi admitido por encontrar óbice na Súmula 7 do STJ.
+Contraminuta apresentada pela parte recorrida.
+Passo a decidir.
+"Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do Plenário do STJ).
+Isso considerado, vejamos, no que interessa, o teor do voto condutor do acórdão recorrido (e-STJ fls. 180/181):
+A discussão dos autos diz respeito d a obrigatoriedade ou não de abertura de contabancária no Banco da Amazônia - BASA, para fins de débito automático das Taxas de Serviços Administrativos - TSA devidas, criada pelo Superintendência da Zona Franca de Manaus - SUIFRAMA.
+Lei 9.960/2000, em favor da Não merece reparos a sentença, pois que muito bem examinada a matéria controvertida, nos seguintes termos (fls. 121/124):
+(..) Para se chegar a uma conclusão definitiva, deve-se entender o que pretende a Resolução B2/2000 ao exigir a abertura de conta corrente junto ao BASA para o cadastramento na SUFRAMA. Analisando a portaria n. 213/2002 (sic) confirma-se a possibilidade de débito automático na conta bancária do contribuinte, mantida no BASA, do valor da dívida vencida, ou seja, TSA não recolhida (artigo 4o). Sendo a TSA um tributo pertencente a uma autarquia federal, sua cobrança após", vencimento deverá ser efetuada através de processo administrativo que garanta ao interessado o contraditório e a ampla defesa. Extrapolado esse procedimento, sem liquida  ão da dívida, procede-se a inscrição na dívida ativa e cobrança executiva A portaria 41/2000, dispõe assim.
+A não observância desse procedimento, com o débito automático na conta para liquidação da dívida, configura-se; como um confisco no patrimônio do interessado  pois não lhe foi ofertáda a oportunidade para se manifestar sobre os fatos que deramopg rí ao inadimplemento.
+Com esses esclarecimentos passo a decifrar que a exigência de abertura de conta corrente junto ao BASA, banco intermediário do recolhimento da TSA (artigo 1º Decreto n. 3.408/2000). É a forma que a SUFRAMA tem para recolher mais facilmente os tributos vencidos, evitando percorrer o caminho da cobrança judicial (executivo fiscal precedido de processo administrativo).
+Dessa forma, considero que o débito automático em conta corrente das TSA"s vencidas constitui uma apreensão em nome do fisco, incompatível com as normas constitucionais, tornando impertinente a exigência de abertura de conta bancária para cadastramento/recadastramento, pois visa tão somente esse fim.
+Ademais, como bem destacou o i. Procurador da Republica, fls. 119, sendo a TSA espécie de tributo, cujo fato gerador é o exercício regular do poder de polícia prestado ao contribuinte ou posto a sua disposição pela SUFRAMA, eventual inadimplência em seu pagamento deveria engendrar um processo administrativo, com posterior inscrição em dívida ativa, e não uma cobrança compulsória por meio de débito automático em conta corrente aberta para tal fim.
+Ante o exposto, NEGA-SE provimento à apelação da UNIÃO e à remessa oficial.
+Pois bem.
+Do que se observa, o recurso encontra mesmo óbice na Súmula 7 do STJ, porquanto o delineamento fático contido no acórdão recorrido não permite outra conclusão sem reexame do conjunto fático-probatório.
+De outro lado, nota-se que as razões recursais não trazem argumentos suficientes à impugnação dos fundamentos do acórdão recorrido recorrido. Aplicação do enunciado da Súmula 283 do STF.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
