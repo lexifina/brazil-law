@@ -1,0 +1,33 @@
+DECISÃO
+
+Trata-se de agravo interposto pela UNIÃO contra decisão do Tribunal Regional Federal da 1ª Região, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 364):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO ORDINÁRIA. REAJUSTE SOMENTE DEVIDOS AOS SERVIDORES ATIVOS. PAGAMENTO INDEVIDO AO AUTOR - INATIVO. ERRO DA ADMINISTRAÇÃO. RESTITUIÇÃO AO ERÁRIO. DESNECESSIDADE. VERBA ALIMENTAR PERCEBIDA DE BOA-FÉ. HONORÁRIOS REDUZIDOS.
+1. Como o pagamento do reajuste ao autor, servidor aposentado, no percentual devido aos servidores ativos decorreu de erro da Administração, sem a participação do beneficiário, e recebido de boa-fé, fica afastada a necessidade de restituição ao erário dos valores indevidamente recebidos.
+2. Mesmo que se constate a existência de erro da Administração no pagamento de vantagem a servidor público, sua supressão, por mais relevantes que sejam os motivos, ainda que sob o impulso do poder-dever de a Administração anular atos ilegais, tal conduta, por estancar, abruptamente, efeitos de caráter patrimonial verificáveis há anos, deve inexoravelmente ser antecedida, lógica e curialmente, do devido processo legal, o que não ocorreu na espécie.
+3. Os honorários advocatícios, nas ações movidas contra a Fazenda Pública, nos casos em que a matéria discutida já tem entendimento pacífico nos tribunais, não oferecendo maior complexidade, têm sido fixados por esta Corte em 5% (cinco por cento) sobre o valor da condenação. Mantidos como fixado pela sentença por ausência de irresignação do autor a respeito.
+4. Apelação desprovida.
+5. Remessa oficial, tida por interposta, parcialmente provida.
+Embargos declaratórios rejeitados (e-STJ fl. 393)
+No especial, a parte recorrente apontou violação dos arts. 46 e 114 da Lei n. 8.112/1990, 53 e 54 da Lei n. 9.784/1999, sustentando que é dever da administração anular seus atos viciados, não havendo direito adquirido a valores percebidos ilegalmente, conforme reconhecido no acórdão, de modo que seria incabível interpretação que obstasse a devolução de verba recebida, ainda que de boa-fé.
+Apresentadas as respectivas contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de incidência da Súmula 83 do STJ (e-STJ fls. 436/439).
+No presente agravo, a parte recorrente alega, em resumo, a inadequação dos aludidos fundamentos.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Com efeito, em relação à suposta infringência aos dispositivos invocados, é firme o entendimento desta Corte de que não é devida a devolução de verba paga indevidamente a servidor em decorrência de erro operacional, quando tiver natureza alimentícia e constatado o recebimento de boa-fé.
+Nessa esteira:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDORES MILITARES. ACRÉSCIMO DE 10% SOBRE O SOLDO DOS IMPETRANTES, RECEBIDOS POR FORÇA DE DECISÃO JUDICIAL, POSTERIORMENTE REFORMADA. POSSIBILIDADE DE RESTITUIÇÃO. PAGAMENTO EFETUADO APÓS A CIÊNCIA DO TRÂNSITO EM JULGADO DO ACÓRDÃO QUE CASSARA A CONCESSÃO DA SEGURANÇA. RESTITUIÇÃO, AO ERÁRIO, DO QUANTUM PERCEBIDO APÓS A CIÊNCIA DO TRÂNSITO EM JULGADO DO ACÓRDÃO QUE CASSARA O PAGAMENTO. PERÍODO NÃO ABRANGIDO PELA DECISÃO JUDICIAL. ERRO DA ADMINISTRAÇÃO. IMPOSSIBILIDADE DE DEVOLUÇÃO. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+IV. A Primeira Seção do STJ, no julgamento do REsp 1.244.182/PB, de relatoria do Ministro BENEDITO GONÇALVES, na sistemática do art. 543-C do CPC/73, reafirmou o entendimento de que não é lícito descontar diferenças pagas indevidamente a servidor ou pensionista, em decorrência de interpretação errônea, equivocada ou deficiente da lei, pela própria Administração Pública, ante a boa-fé do servidor público (STJ, REsp 1.244.182/PB, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe de 19/10/2012).
+  ..
+VII. Ademais, a Corte Especial do STJ reafirmou o entendimento de que não é lícito descontar diferenças recebidas indevidamente por servidor, de boa-fé, em decorrência de erro operacional da Administração (STJ, MS 19.260/DF, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, DJe de 11/12/2014). Nesse sentido: STJ, AgRg no REsp 1.560.973/RN, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 13/04/2016; AgRg no AREsp 766.220/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 12/11/2015; AgRg no AREsp 558.587/SE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 14/08/2015; AgRg no AREsp 422.607/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 17/03/2014; AgInt no REsp 1.598.380/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 30/09/2016.
+VIII. Agravo interno improvido.
+(AgInt no AREsp 418.220/DF, Rel. Ministra ASSUSETE MAGALHÃES, Segunda Turma, DJe 08/03/2017)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. ALEGAÇÃO DE PAGAMENTO INDEVIDO. ERRO OPERACIONAL DA ADMINISTRAÇÃO. RECEBIMENTO DE BOA-FÉ. DESCABIMENTO DA PRETENSÃO ADMINISTRATIVA DE RESTITUIÇÃO DOS VALORES. AGRAVO INTERNO DA UNIÃO A QUE SE NEGA PROVIMENTO.
+ ..
+2. O acórdão recorrido está em consonância com o entendimento desta Corte Superior quanto à impossibilidade de restituição de valores pagos a Servidor Público de boa-fé, por conta de erro operacional da Administração Pública, em virtude do caráter alimentar da verba, como na hipótese dos autos. Precedentes: AgInt no AREsp. 418.220/DF, Rel. Min. ASSUSETE MAGALHÃES, DJe 8.3.2017; AgRg no AREsp. 558.587/SE, Rel. Min. REGINA HELENA COSTA, DJe 14.8.2015. 3. Agravo Interno da UNIÃO a que se nega provimento.
+(AgInt no REsp 1514343/RN, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe 17/05/2017)
+Assim, aplica-se na espécie a Súmula 83 do STJ.
+Por fim, cumpre salientar que "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, §11, do novo CPC" (Enunciado Administrativo n. 7 do Plenário do STJ, sessão de 09/03/2016), o que não é o caso dos autos.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
