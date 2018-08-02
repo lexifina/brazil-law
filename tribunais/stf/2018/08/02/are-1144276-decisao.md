@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado (eDOC.5, e-STJ fl. 688):
+    APELAÇÃO CRIMINAL. CRIME DE CAUSAR POLUIÇÃO AMBIENTAL. ARTIGO 54, § 2º, INC. V, DA LEI 9.605/98. CONDENAÇÃO. PRETENSÃO ABSOLUTÓRIA. AFASTAMENTO. AUTORIA E MATERIALIDADE BEM DELINEADAS PELAS PROVAS DOS AUTOS. RÉU QUE DESPEJOU RESÍDUOS DE ÓLEO DIESEL NAS CANALETAS DO POSTO DE GASOLINA QUE ADMINISTRAVA. CAIXAS SEPARADORAS QUE NÃO SUPORTARAM O EXCESSO DE DEJETOS, TENDO ESCOADO GRANDE QUANTIDADE PARA UM CÓRREGO LOCAL. DOLO EVENTUAL CONFIGURADO. DESEQUILÍBRIOS AMBIENTAIS COM O VAZAMENTO DE AFLUENTES POTENCIALMENTE POLUIDORES. INFRINGÊNCIACLARA DAS NORMAS DE PROTEÇÃO AMBIENTAL. ELEMENTOS CONSTANTES NOS AUTOS QUE DEMONSTRAM A MATERIALIDADE E A AUTORIA DO CRIME AMBIENTAL. ARTS. 158 C/C 167 AMBOS DO CPP, EM COTEJO COM ART. 79 DA LEI 9.605/98. CONDENAÇÃO QUE SE MANTÉM. DOSIMETRIA. PENA TOTAL APLICADA NO MÍNIMO LEGAL DE UM ANO DE RECLUSÃO. SUBSTITUIÇÃO POR DUAS RESTRITIVAS DE DIREITO. INVIABILIDADE. FIXAÇÃO EX OFFICIO DE APENAS UMA PENA RESTRITIVA DE DIREITOS, CONSISTENTE EM PRESTAÇÃO DE SERVIÇOS À COMUNIDADE. ARTIGO 44, §2º, DO CÓDIGO PENAL. RECURSO DESPROVIDO, COM A FIXAÇÃO DE OFÍCIO DE APENAS UMA PENA RESTRITIVA DE DIREITOS.
+    Os embargos de declaração foram rejeitados.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se violação aos arts. 5º, LV; e 93, IX, ambos da Constituição Federal. Sustenta, em síntese, vício de fundamentação no acórdão condenatório e equivocada valoração da prova dos autos.
+    A 1ª Vice-Presidência do TJPR inadmitiu o recurso por ausência de preliminar formal e fundamentada de repercussão geral.
+    É o relatório. Decido.
+    Verifico que o agravo é intempestivo. Com efeito, a decisão de inadmissibilidade foi publicada em 21.02.2018 (quarta-feira). O prazo para recurso, por sua vez, iniciou-se em 22.02.2018 (quinta-feira), conforme certidão de eDOC.5, e-STJ fl. 783, e findou-se em 08.03.2018 (quinta-feira). Ocorre que o agravo foi interposto somente em 12.03.2018 (segunda-feira), quando já expirado o prazo de 15 (quinze) dias corridos.
+    Inexistindo previsão específica no CPP e no RISTF, à luz do preconizado no art. 3º do CPP, o prazo a ser observado na interposição do agravo destinado a impugnar a decisão de admissibilidade do recurso extraordinário é aquele da regra geral do art. 1.003, § 5º, do NCPC, ou seja, de 15 (quinze) dias.
+    Por outro lado, a despeito do que dispõe o art. 219, caput, do NCPC, que determina a contagem do prazo recursal em dias úteis, o caso em apreço trata de agravo em recurso extraordinário em matéria criminal, cujo processo penal é regido por regras processuais penais.
+    As regras do processo civil só se aplicam aos processos penais subsidiariamente, pela via do art. 3º do CPP, vale dizer, quando não houver regra processual penal expressa regulando a matéria.
+    Dessa forma, sempre que em conflito regras formalmente expressas em lei, há de ser aplicado o critério da especialidade. No caso, a contagem dos prazos no processo penal está prevista em regra específica do CPP, que dispõe:
+    Art. 798. Todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado.
+    Sendo assim, o novo Código de Processo Civil não regula o processo penal nesse particular. Tratando-se de matéria com regulamentação expressa, não demanda, portanto, aplicação subsidiária do NCPC.
+    Logo, diante da nova sistemática processual, o prazo para interposição do agravo que almeja destrancar recurso extraordinário criminal inadmitido na origem passou a ser de 15 (quinze) dias, face ao NCPC. Porém, a contagem continua regida pelo CPP.
+    Considerando que a intimação da decisão agravada se deu em 21.02.2018 e observado o prazo de 15 (quinze) dias, contados de forma contínua, é intempestivo o agravo interposto em 12.03.2018.
+    Ante o exposto, não conheço do agravo, nos termos do art. 21, § 1º, RISTF.
+    Publique-se.
+    Brasília, 02 de agosto de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
