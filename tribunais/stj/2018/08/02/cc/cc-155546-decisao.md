@@ -1,0 +1,28 @@
+DECISÃO
+1. Cuida-se de conflito negativo de competência instaurado entre o JUÍZO DA 2ª VARA DO TRABALHO DE DIADEMA/SP, suscitante, e o JUÍZO DE DIREITO DA 1ª VARA CÍVEL DE DIADEMA/SP, suscitado, nos autos de ação de cobrança ajuizada por ex-empregado em face de empresa de seguro de vida (Bradesco Vida e Previdência SA) e de seu ex-empregador objetivando pagamento de indenização decorrente de seguro de vida em razão de invalidez permanente por acidente de trabalho, nos termos do estabelecido no contrato firmado entre a empresa seguradora e seu empregador.
+A ação foi proposta inicialmente perante o Juízo de Direito da 1ª Vara Cível de Diadema/SP, que declinou de sua competência em favor do Juízo laboral, com esteio no artigo 114, incisos VI e IX, da CF, por entender que o autor visa indenização decorrente de relação de trabalho (fl.05).
+Por outro lado, o Juízo laboral suscitou o conflito ao fundamento de que "o cerne da controvérsia gira em torno do cumprimento/descumprimento do contrato de seguro" e, neste sentido, "trata-se de relação de natureza civil e de consumo, dirimida à luz dos Código Civil e Código de Defesa do Consumidor", não sendo a justiça especializada competente para o seu julgamento (fls. 415/416).
+O Juízo cível suscitado prestou informações (fls. 438/440).
+O Ministério Público Federal opinou pela competência da Justiça Comum (fls. 443/446):
+CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA EM FACE DE EX- EMPREGADORA E SEGURADORA. SEGURO DE VIDA EM GRUPO. INVALIDEZ PERMANENTE DECORRENTE DE ACIDENTE DE TRABALHO E DA CONDIÇÕES NAS QUAIS O LABOR ERA EXERCIDO. RELAÇÃO CONTRATUAL DE CUNHO CIVIL. PARECER PARA QUE SEJA DECLARADA A COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL.
+É o relatório.
+2. Prefacialmente, conheço do conflito, com fundamento no art. 105, inciso I, alínea "d", da Constituição Federal, por se tratar de incidente instaurado entre Juízos vinculados a Tribunais distintos.
+3. Segundo a jurisprudência pacífica desta Corte, a definição da competência para julgamento da demanda está adstrita à natureza jurídica da lide, definida em função do pedido e da causa de pedir.
+No caso, a pretensão deduzida não envolve discussão a respeito da relação de trabalho, mas sim direito ao recebimento de pagamento estipulado em apólice.
+Concerne ao pagamento de indenização decorrente da invalidez total ou parcial, prevista em contrato de seguro de vida em grupo firmado entre a empresa seguradora e seu ex-empregador, por força de norma coletiva.
+No ponto, embora o contrato de seguro tenha sido pactuado em virtude da relação de emprego, o vínculo jurídico existente entre autor e a seguradora é independente, de natureza civil, não se sujeitando o seu exame, portanto, à seara da Justiça Laboral.
+O segurado e a seguradora, como se nota, estabelecem relação distinta da existente entre o segurado e a sua empregadora, sendo certo que, na hipótese dos autos, o simples fato de a contratação do seguro ter sido decorrente do contrato de trabalho anteriormente estabelecido, com a opção voluntária do benefício pelo autor, não tem o condão de fixar a competência da Justiça Especializada, mesmo com a ampliação conferida pela Emenda Constitucional nº 45/2004 ao art. 114 da Carta Maior.
+A fim de corroborar tal assertiva, confiram-se os julgados provenientes desta Segunda Seção:
+CONFLITO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO E JUÍZO ESTADUAL. SEGURO DE VIDA E ACIDENTES EM GRUPO. AÇÃO DE COBRANÇA CUMULADA COM REPARAÇÃO DE DANOS MORAIS. ART. 114, VI, DA CF/88. EMENDA CONSTITUCIONAL 45/2004. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+1. In casu, há cobrança de indenização securitária cumulada com reparação por danos morais decorrentes do inadimplemento do contrato de seguro, situação na qual a relação de trabalho constitui elemento circunstancial, sendo competente, conseqüentemente, a Justiça Comum.
+2. "Compete à Justiça comum estadual processar e julgar as ações de cobrança de indenização securitária cumulada com reparação moral decorrente de descumprimento contratual de seguro de vida em grupo e acidentes pessoais." (CC 81285/SP, Rel. Ministro HUMBERTO GOMES DE BARROS, DJ 20.08.2007 p. 234).
+3. Conflito conhecido para declarar competente o Juízo de Direito da 5ª Vara Cível de Canoas/RS, suscitado.
+(CC 96.895/RS, Rel. Ministro CARLOS FERNANDO MATHIAS (JUIZ FEDERAL CONVOCADO DO TRF 1ª REGIÃO), DJe 20/03/2009).
+"CONFLITO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO E ESTADUAL. AÇÃO AJUIZADA CONTRA A EX-EMPREGADORA E A OPERADORA DO PLANO DE SAÚDE, OBJETIVANDO O CORRETO PAGAMENTO DO PRÊMIO A QUE FAZ JUS O BENEFICIÁRIO, EM RAZÃO DA SUA APOSENTADORIA POR INVALIDEZ, BEM COMO INDENIZAÇÃO POR DANOS MORAIS DECORRENTES DA INADIMPLÊNCIA DA SEGURADORA. PEDIDO DE NATUREZA CIVIL. COMPETÊNCIA DA JUSTIÇA COMUM.
+A natureza do pedido é civil, oriunda da relação existente entre o beneficiário e a operadora do plano de saúde, e diz respeito ao pagamento indevido do prêmio a que o primeiro faz jus, em razão da sua aposentadoria por invalidez, decorrente de acidente do trabalho.
+Conflito conhecido para declarar a competência do Juízo de Direito,
+ora suscitado." (CC 50.708/SP, Rel. Min. Cesar Asfor Rocha, DJ de
+2/3/2006).
+Em harmonia com o entendimento evidenciado, confiram-se as seguintes decisões monocráticas: CC 103.831/BA, Rel. Ministro João Otávio de Noronha, DJ de 06/05/2009, CC 102.541/BA, Rel. Ministro Sidnei Beneti, DJ de 31/03/2009, CC 48.516/SP, Rel. Ministro Aldir Passarinho Junior, DJ de 04/05/2005.
+3. Ante o exposto, conheço do conflito e declaro competente o Juízo de Direito da 1ª Vara Cível de Diadema/SP.
+Publique-se. Intimem-se.
