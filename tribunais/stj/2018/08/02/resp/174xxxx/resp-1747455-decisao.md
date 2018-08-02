@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INOMINADO. ART. 557, § 1º, DO CPC. FUNDAMENTOS DA DECISÃO AGRAVADA INAFASTADOS. MANUTENÇÃO DA DECISÃO.
+1. Para o manejo do agravo inominado previsto no artigo 557, §1º do Código de Processo Civil, é preciso o enfrentamento da fundamentação da decisão agravada, conforme precedentes.
+2. A decisão foi proferida em conformidade com a legislação cabível à espécie, fundada em jurisprudência dominante do C. Superior Tribunal de Justiça e desta E. Corte acerca da matéria.
+3. Limitou-se a agravante a manifestar seu inconformismo com a decisão proferida, não trazendo, entretanto, elementos aptos a sua reforma.
+4. Agravo inominado desprovido.
+Naquela decisão, tendo como pano de fundo o debate acerca da penhora eletrônica de ativos financeiros, foi decidido que é inviável a utilização do sistema BACENJUD em favor do credor antes da citação do executado.
+No presente recurso especial, a recorrente aponta violação dos arts. 1º, 7º, III, 10 e 11, I, todos da Lei n. 6.830/1980; 612, 655 e 655-A, todos do CPC/1973 e 185-A, do Código Tributário Nacional.
+Sustenta, em síntese, que é legalmente viável o arresto prévio dos bens por meio da utilização do sistema BACENJUD, mesmo que o procedimento seja realizado antes da citação do executado.
+É o relatório. Decido.
+O Superior Tribunal de justiça firmou entendimento no sentido de que, apenas quando o executado for validamente citado e não pagar nem nomear bens à penhora é que poderá ter seus ativos financeiros bloqueados por meio do sistema BACENJUD, sob pena de violação ao princípio do devido processo legal.
+Nesse diapasão, destaco os seguintes julgados:
+PROCESSUAL CIVIL. EXECUÇÃO. APLICAÇÃO DA PENHORA VIA BACENJUD ANTES DA CITAÇÃO DA PARTE EXECUTADA. IMPOSSIBILIDADE. VIOLAÇÃO DO PRINCÍPIO DO DEVIDO PROCESSO LEGAL.
+I - O Superior Tribunal de Justiça firmou entendimento no sentido de que, apenas quando o executado for validamente citado, e não pagar nem nomear bens à penhora, é que poderá ter seus ativos financeiros bloqueados por meio do sistema BACENJUD, sob pena de violação ao princípio do devido processo legal. Precedentes: AgRg no AREsp 507.114/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/08/2014, DJe 18/08/2014; AgRg no AREsp 512.767/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 26/05/2015, DJe 03/06/2015.
+II - Agravo interno improvido.
+(AgInt no REsp 1691646/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 05/12/2017, DJe 12/12/2017)
+PROCESSUAL CIVIL. TRIBUTÁRIO. OFENSA AO ART. 535 DO CPC NÃO DEMONSTRADA. EXECUÇÃO FISCAL. PENHORA. BACENJUD. AUSÊNCIA DE CITAÇÃO. IMPOSSIBILIDADE. INTELIGÊNCIA DO ART. 53 DA LEI 8.212/1991.
+1. Hipótese em que o Tribunal local consignou que "lançar mão da indisponibilidade dos bens da parte executada, antes da sua regular citação (prerrogativa processual igualmente prevista no art. 8º da Lei nº 6.830/80), não encontra abrigo na legislação de regência acima destacada".
+2. O Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+3. Esta Corte Superior consolidou o entendimento de que, nos termos do art. 53 da Lei 8.212/1991, a penhora deve ser realizada concomitantemente à citação, e não antes desse ato processual. Portanto, ao contrário do que alega a parte recorrente, a norma não autoriza a efetivação da penhora antes da citação. Precedente.
+4. Agravo Regimental não provido.
+(AgRg no AREsp 507.114/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/08/2014, DJe 18/08/2014)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ANULAÇÃO DE AUTO DE INFRAÇÃO. ARRESTO. SISTEMA BACENJUD. CITAÇÃO. IMPRESCINDIBILIDADE. PRECEDENTES DO STJ. AUSÊNCIA DOS REQUISITOS AUTORIZADORES DA MEDIDA. REEXAME DE MATÉRIA FÁTICA. INCIDÊNCIA DA SÚMULA 7 DO STJ. PRECEDENTES. AGRAVO REGIMENTAL IMPROVIDO.
+I. Na forma da jurisprudência, "apenas o executado validamente citado que não pagar nem nomear bens à penhora é que poderá ter seus ativos financeiros bloqueados por meio do sistema conhecido como BACEN-JUD, sob pena de violação ao princípio do devido processo legal" (STJ, EDcl no AgRg no AREsp 195.246/BA, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe de 04/02/2014).
+II. O Tribunal a quo, soberano na análise do material cognitivo produzido nos autos, concluiu que "a penhora on line pelo sistema BACEN-JUD não pode ser utilizada para fins do artigo 653 do CPC, sem que reste caracterizada a sua hipótese de incidência. O estágio procedimental da ação, circunscrito à ausência de citação do executado, não está a determinar medidas atinentes à própria penhora sob o rótulo de arresto, ainda mais quando inexistem quaisquer indícios da imprescindibilidade da medida extrema". Nesse contexto, a inversão do julgado exigiria, inequivocamente, incursão na seara fático-probatória dos autos, inviável, na via eleita, a teor do enunciado sumular 7/STJ. Precedentes.
+III. Consoante a jurisprudência, "a partir da análise do acórdão objurgado, percebe-se que o Tribunal a quo entendeu não estarem presentes os requisitos legais - previstos nos artigos 653 ou 813 do CPC - necessários para o deferimento da medida de urgência pretendida pela recorrente, mormente o periculum in mora, sendo que tal análise foi feita com base nas provas e documentos acostados aos autos. Dessarte, o acolhimento do Recurso Especial demanda prévia análise de fatos e provas, o que não se admite ante o óbice da Súmula 7/STJ. Precedentes" (STJ, AgRg no REsp 1.411.684/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 06/04/2015).
+IV. Agravo Regimental improvido.
+(AgRg no AREsp 512.767/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 26/05/2015, DJe 03/06/2015)
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
