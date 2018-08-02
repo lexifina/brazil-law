@@ -1,0 +1,64 @@
+EMENTA
+AGRAVOS EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL (CPC/73). PRESTAÇÃO DE SERVIÇO.
+1 - AGRAVO DE GLOBAL VILLAGE TELECOM S.A: PRESTAÇÃO DE SERVIÇO. PAGAMENTO DE VERBAS SALARIAIS. HORAS EXTRAS. AUSÊNCIA DE DOCUMENTOS E PROVAS. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. REVISÃO DA TEMÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. NEGO PROVIMENTO AO AGRAVO EM RECURSO ESPECIAL.
+2 - AGRAVO DE ETHICOMPANY SERVICOS TEMPORARIOS LTDA - EPP: PRESTAÇÃO DE SERVIÇOS. SUCUMBÊNCIA RECÍPROCA. ANÁLISE DETALHADA REALIZADA PELO TRIBUNAL DE ORIGEM. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. NEGO PROVIMENTO AO AGRAVO EM RECURSO ESPECIAL.
+3 - AGRAVOS EM RECURSO ESPECIAL DESPROVIDOS.
+DECISÃO
+Vistos, etc.
+Trata-se de agravos em recursos especiais manejados por GLOBAL VILLAGE TELECOM S.A e ETHICOMPANY SERVICOS TEMPORARIOS LTDA - EPP em face da decisão que negou seguimento ao recurso especial do segundo agravado, interposto contra acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO - CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE RECRUTAMENTO E ADMINISTRAÇÃO DE CONTRATOS TEMPORÁRIOS - PAGAMENTO DE VERBAS SALARIAIS - INTEGRAÇÃO DE DIÁRIAS, 13º SALÁRIOS E REFLEXOS IM PAGOS PELA CONTRATADA - PRETENSÃO JULGADA IMPROCEDENTE - HORAS EXTRAS QUE EXIGIAM NOTIFICAÇÃO DA CONTRATADA PARA PROPICIAR PAGAMENTO - PROVIDÊNCIA NÃO PROVADA - AUSÊNCIA DE PROVA CONSTITUTIVA DO DIREITO ALEGADO.
+- Dispondo expressamente o contrato acerca das obrigações a serem cumpridas pela contratante para propiciar o pagamento de verbas salariais específicas - horas extras. a falta de prova acerca do cumprimento acarreta a improcedência do pedido.
+- Tal improcedência, porém, não pode alcançar aquelas verbas cujo custeio incumbia à contratada, tal como se dá com relação àquelas relativas à incorporação das diárias e seus reflexos, RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+2. APELAÇÃO CNEI - AÇÃO DE INDENIZAÇÃO JULGADA IMPROCEDENTE - HONORÁRIOS DE SUCUMBÊNCIA FIXADOS POR EQUIDADE PELO JULGADOR - VALOR DA CAUSA - DESINFLUÊNCIA - MAJORAÇÃO DO VALOR ESTIPULADO - CABIMENTO.
+- Em casos de improcedência do pedido os honorários sucumbenciais devem ser fixados pelo Juiz, por equidade, conforme previsão do art. 20 do CPC, sendo desinfluente o valor dado à causa.
+RECURSO CONHECIDO E PROVIDO. (e-STJ, fls. 907/908)
+Os recursos serão analisados separadamente:
+1. Agravo em recurso especial de GLOBAL VILLAGE TELECOM S.A, em face de decisão do TJPR que negou seguimento ao recurso especial.
+A recorrente alega violação aos artigos 876, 884 e 855, do CC/02, sustentando que conforme expressamente pactuado entre as partes, era da agravada o ônus de custeio das verbas trabalhistas, notadamente em caso de propositura de ações trabalhistas, hipótese em que se obrigou ao ressarcimento das despesa eventualmente imputadas à contratante.
+Defende que o debate não tem por ponto nodal somente horas extras devidas aos empregados temporários, mas sim, todas as verbas decorrentes do vínculo que foram suportadas.
+Discorre acerca de documentos carreados aos autos, os quais se prestariam à comprovação de seus argumentos, pelo que requer ao final, a reforma da decisão para ver decretada a procedência de seus pedidos, com a consequente condenação da agravada ao pagamento da indenização pleiteada.
+É o relatório.
+Passo a decidir.
+As contrarrazões foram apresentadas (e-STJ, fls. 1.042/1.048).
+A pretensão recursal não merece ser acolhida.
+Primeiramente, cumpre esclarecer que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/1973 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça, conforme disposto no Enunciado Administrativo n. 2/STJ.
+De início, no que concerne à alegação da agravante de que deve ser ressarcida quanto a todos os valores exigidos, o Tribunal de origem consigna que:
+E desse fato - comunicação das horas extras realizadas pelos temporários - a apelante não faz prova nestes autos. Aliás, sequer tratou de trazer dos autos de reclamação trabalhista a fundamentação adotada pela Justiça laborai para a imposição da condenação. Evidente, portanto, que a apelante, no tocante ao tema, não produziu prova constitutiva do direito invocado, corno lhe impõe o regramento do art. 333, do CPC, o que inviabilizou o acolhimento de sua pretensão. (e-STJ, fls. 912/913 - grifou-se)
+Logo, o fundamento do Tribunal de origem quanto ao pagamento da indenização referente às horas extras, decorre da ausência de prova constitutiva do direito invocado.
+Contudo, a agravante sustenta apenas que deve ser ressarcida de todas as verbas trabalhistas pagas, deixando de impugnar este argumento central utilizado no acórdão recorrido.
+Desse modo, a subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, impede a admissão da pretensão recursal, a teor do entendimento da Súmula nº 283/STF: "é inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido, confira-se o precedente:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTO INATACADO. MULTA FIXADA EM CASO DE DESCUMPRIMENTO DE OBRIGAÇÃO DE FAZER. VALOR ARBITRADO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. PRAZO LIMITE DA MULTA. INOVAÇÃO RECURSAL.
+1. A ausência de impugnação dos fundamentos do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+2. A fixação das astreintes por descumprimento de decisão judicial baseia-se nas peculiaridades da causa. Assim, afastando-se a incidência da Súmula nº 7/STJ, somente comporta revisão por este Tribunal quando irrisória ou exorbitante, o que não ocorreu na hipótese dos autos, em que o valor foi arbitrado em R$ 500,00 (quinhentos reais). Precedentes.
+3. A alegação de que não foi estipulado prazo limite da multa não comporta análise, porquanto referida matéria foi suscitada apenas nas razões do regimental, caracterizando inovação recursal.
+4. Agravo regimental não provido.
+(AgRg no AREsp 207.587/SP, Terceira Turma, Rel. Min. Ricardo Villas Bôas Cueva, DJe 15/09/2014 - grifou-se)
+Ademais, resta a seguinte fundamentação do Tribunal de origem:
+Com efeito, a detida análise dos documentos encartados aos autos, em especial aqueles acostados às fls. 187/248 evidenciam que a apelante/autora suportou o pagamento de indenizações trabalhistas em demandas ajuizadas pelos empregados temporários contratatos pela apelada, que era integradas, essencialmente, por diárias incorporadas e horas extras. Pois bem, consoante se extrai do documento encartado às fls. 41/46, o pagamento de verbas salariais em favor dos empregados temporários era de incumbência exclusiva da contratada, ou seja, da ora apelada. Na parte que aqui interessa, diz o contrato que "Sem prejuízo dos salários mensais, a CONTRATADA se compromete a pagar aos seus empregados contratados urna diária no valor de RÉ 60,00 (sessenta reais), para fins de custear as despesas com alimentação o hospedagem dos mesmos." Referida verba, porque paga aos empregados de forma fixa, deveria integrar, para todos os fins, a remuneração mensal a eles paga, consoante estabelecido pelo art. 457, § da CLT. E por não se ter observado dita regra é a que a justiça laborai acabou impondo a condenação, o ônus dela resultante deve ser imposto à apelada, já que era dela o ônus de custeio das verbas salariais e seus reflexos. Condeno a apelada a ressarcir, em favor da apelante, os valores que foram pagos aos empregados temporários sob a rubrica de integração das diárias e respectivos reflexos, mantendo-se, quanto ao mais, a decisão combatida como prolatada. (e-STJ, fls. 911/915 - grifou-se)
+Assim, revela-se hipótese em que o Tribunal de origem, com base na análise do conjunto fático-probatório, entendeu ser necessário o ressarcimento da verba indenizatória referente apenas à integração das diárias e os seus respectivos reflexos.
+Aplica-se a Súmula n. 7 do STJ quando o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+Advirta-se, por fim, que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015, conforme Enunciado Administrativo n. 3/STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+ Intimem-se.
+2. Agravo no Recurso Especial de ETHICOMPANY SERVICOS TEMPORARIOS LTDA - EPP, em face de decisão do TJPR que negou seguimento a recurso especial.
+No recurso especial, o agravante alega violação ao artigo 21, do CPC/73, sustentando que não restou demonstrado o valor do proveito econômico obtido pela primeira agravante com a reforma parcial da sentença a justificar a partilha igualitária dos ônus sucumbenciais.
+E mais, argumenta que "sem remeter a qualquer dado concreto constante dos autos, presumiu que, porque foi dado parcial provimento à apelação de GVT, os ônus de sucumbência deveriam ser repartidos em 50% para cada parte, compensando-se".
+Apresenta cálculos que, segundo sustenta, demonstrariam que o proveito econômico obtido pela ora embargada não supera 10% de tudo quanto se pretendia com o recurso.
+É o breve relatório.
+Passo a decidir.
+As contrarrazões foram apresentadas (e-STJ, fls. 1.042/1.048).
+O recurso não merece ser provido.
+Primeiramente, cumpre esclarecer que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/1973 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça, conforme disposto no Enunciado Administrativo n. 2/STJ.
+Efetivamente, tem-se que sucumbência recíproca "ocorre quando uma das partes não obteve tudo o que o processo lhe proporcionar, de forma que as despesas processuais e os honorários de advogados deverão ser rateados entre as partes, na medida de sua parte na derrota, isto é, de forma proporcional" (in Código de Processo Civil Comentado, 11ª edição, Ed. Revista dos Tribunais, Nelson Nery Junior e Rosa Maria de Andrade Nery, p. 247).
+No caso, o Tribunal de origem consignou da seguinte forma:
+Porém, não é viável alterar o que foi decidido neste Colegiado. É que a ação, na instância inicial, foi julgada improcedente, advindo daí então que o sucumbimento foi exclusivo da embargante. Neste colegiado se deu parcial provimento ao apelo por ela interposto, exclusivamente para a finalidade de "ressarcir, cm favor da apelante, os valores que foram pagos aos empregados temporários sob a rubrica de integração das diárias e respectivos reflexos, mantendo-se, quanto ao mais, a decisão combatida corno prolatada." (fl. 814). Na mesma ocasião foi acolhido o pleito recursal da ora embargada para a finalidade de majorar os honorários fixados pelo Juízo para R$ 50.000,00. Nesse contexto, claro está que mesmo que se apure, futuramente - eis que a apuração do quantum devido à embargante por força do provimento parcial do seu recurso será aferido em oportuna liquidação - que o valor econômico da sua sucumbência seja inferior àquele suportado pela ora embargada, vê- se que também ela experimentou expressiva sucumbência. É que o que se pretendia, desde a inicial, era que fosse a embargada condenada a recompor "perdas e danos (..) lucros cessantes, ao ressarcimento de todos os ganhos, financeiros e económicos (..) danos morais (..).". E destas pretensões somente ínfima parte foi acatada neste Colegiado, o que justifica o partilhamento das verbas de sucumbência. (e-STJ, fls. 959/960 - grifou-se)
+Assim, no que tange a revisão da sucumbência recíproca, esta Corte já se manifestou no sentido de que não cabe recurso especial para pleitear acerca dessas questões, excetuando-se casos de condenação desproporcional, sob pena de afrontar o enunciado da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS DE ADVOGADO. SUCUMBÊNCIA RECÍPROCA. FIXAÇÃO. SÚMULA 7/STJ.
+1. A jurisprudência do STJ firmou entendimento de não ser possível, em sede de recurso especial, nem a revisão do percentual de honorários de advogado fixado nas instâncias ordinárias, ressalvadas as hipóteses de arbitramento em valores ínfimos ou exorbitantes, tampouco a revisão acerca do quantitativo em que autor e réu decaíram do pedido, para fins de aferição da ocorrência de sucumbência recíproca ou mínima, por implicar reexame de matéria fático-probatória, o que é vedado, nos termos da Súmula 7/STJ.
+2. Agravo regimental a que se nega provimento. (AgRg no AREsp 491.633/RJ, Segunda Turma, Rel. Ministro Og Fernandes, julgado em 18/06/2014, DJe 25/06/2014 - grifou-se).
+
+Advirta-se, por fim, que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015, conforme Enunciado Administrativo n. 3/STJ.
+Ante o exposto, nego provimento aos agravos em recurso especial.
+Intimem-se.
