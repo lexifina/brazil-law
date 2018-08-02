@@ -1,0 +1,26 @@
+DECISÃO
+ADMINISTRATIVO. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. DIFERENÇAS RECEBIDAS A TÍTULO DE GDASST ADMINISTRATIVAMENTE. POSSIBILIDADE DE COMPENSAÇÃO EM EXECUÇÃO. IDENTIDADE ENTRE CREDOR E DEVEDOR. RECURSO ESPECIAL DA UNIÃO A QUE SE DÁ PROVIMENTO.
+1. Trata-se de Recurso Especial interposto com fundamento na alínea a do art. 105, III da Constituição Federal, no qual se insurge contra acórdão do Tribunal Regional Federal da 4a. Região, assim ementado:
+ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DA SEGURIDADE SOCIAL E DO TRABALHO - GDASST. DEVOLUÇÃO DAS DIFERENÇAS PAGAS A MAIOR. DESCABIMENTO.
+Se a própria Administração não promoveu a cobrança dos valores indiscutivelmente pagos a maior, não há porque ser determinada a compensação da integralidade dos valores recebidos na via administrativa, devendo ser adotado o critério de cálculo de proporcionalização das diferenças devidas, ou seja, devem ser proporcionalizados os valores devidos, assim como os recebidos, para fins de compensação, evitando a aplicação de dois pesos e duas medidas.
+É remansosa a jurisprudência quanto ao descabimento da devolução de valores percebidos por servidor público de boa-fé, por força de interpretação errônea, má aplicação da lei ou erro da Administração.
+Agravo desprovido (fls. 421).
+2. Em suas razões recursais, sustentam violação dos arts. 535, I e II do CPC e 876 e 884 do CC, arguindo, em síntese, que os valores pagos administrativamente devem ser compensados.
+3. É o relatório. Decido.
+4. Inicialmente, não há como acolher a alegada violação ao art. 535 do CPC/1973, visto que a lide foi solvida com a devida fundamentação, ainda que sob ótica diversa daquela almejada pelo ora agravante. Todas as questões postas em debate foram efetivamente decididas, não tendo havido vício algum que justificasse o manejo dos Embargos Declaratórios. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+5. Quanto ao mérito, é firme a orientação desta Corte de que, a fim de evitar o pagamento em duplicidade, é válida a compensação dos valores pagos na via administrativa, em sede de Embargos à execução. Confiram-se:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS À EXECUÇÃO. OMISSÃO. INEXISTÊNCIA. COMPENSAÇÃO DE VALORES DEVIDOS EM TÍTULO JUDICIAL COM OS PAGOS ADMINISTRATIVAMENTE. CONSIDERAÇÃO DOS VALORES REMANESCENTES PARA TODO O PERÍODO. NÃO DEVOLUÇÃO DE VALORES PAGOS EM EXCESSO PELA ADMINISTRAÇÃO. CARÁTER ALIMENTAR DO BENEFÍCIO E BOA-FÉ DO SEGURADO. DECISÃO ULTRA PETITA. INEXISTÊNCIA. ÔNUS DE SUCUMBÊNCIA. RESTABELECIMENTO DA SENTENÇA.
+1. O acórdão recorrido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada. Sendo assim, não há que se falar em omissão do aresto.
+2. Na compensação de valores devidos em título judicial com os pagos administrativamente, deve-se compensar os negativos com os positivos em todas as competências, a fim de apurar se haveria direito a eventuais valores remanescentes no cômputo global.
+3. A Corte de origem alinhou-se ao entendimento deste Superior Tribunal de que constitui matéria de ordem pública a adequação do valor executado para extirpar-se o excesso. Ressalte-se que matéria de ordem pública pode ser arguida na instância ordinária a qualquer tempo, podendo inclusive ser conhecida de ofício, razão de não prosperar a alegação de julgamento ultra petita.
+4. Como houve pagamento em excesso pela administração, em razão do caráter alimentar do benefício previdenciário e da boa-fé do segurado, não cabe repetição de valores.
+5. Tendo a sentença sido reformada apenas quanto à forma de cálculo da compensação de valores, ponto esse revertido neste recurso especial, devem os ônus de sucumbência ser restabelecidos na forma indicada pelo juízo de primeiro grau.
+6. Recurso especial parcialmente provido (REsp. 1.416.903/PR, Rel. Min. OG FERNANDES, DJe 23.8.2017).
+
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. EXECUÇÃO DE VERBA SUCUMBENCIAL DEVIDA PELO INSS. SENTENÇA DE CONHECIMENTO QUE ESTABELECE PERCENTUAL SOBRE O VALOR DA CONDENAÇÃO. COMPENSAÇÃO COM VALORES PAGOS ADMINISTRATIVAMENTE. IMPOSSIBILIDADE.
+1. Segundo a jurisprudência, os valores pagos administrativamente devem ser compensados na fase de liquidação do julgado; entretanto, tal compensação não deve interferir na base de cálculo dos honorários sucumbenciais, que deverá ser composta pela totalidade dos valores devidos (REsp 956.263/SP, Rel. Min. Napoleão Nunes Maia Filho, Quinta Turma, DJ 3.9.2007).
+2. Dessa forma, eventual pagamento de benefício previdenciário na via administrativa, seja ele total ou parcial, não tem o condão de alterar a base de cálculo para os honorários advocatícios fixados na ação de conhecimento, que devem, portanto, ser adimplidos como determinado no respectivo título exequendo.
+3. Agravo Interno não provido (AgInt nos EDcl no REsp. 1.613.339/SC, Rel. Min. HERMAN BENJAMIN, DJe 18.4.2017).
+6. Ante o exposto, dá-se provimento ao Recurso Especial da UNIÃO.
+7. Publique-se.
+8. Intimações necessárias.
