@@ -1,0 +1,38 @@
+EMENTA
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SERVIÇOS PRESTADOS POR ASSOCIAÇÃO DE MORADORES. APLICAÇÃO DA TÉCNICA DA DISTINÇÃO (DISTINGUISHING). SIMILITUDE ENTRE A HIPÓTESE DOS AUTOS COM QUESTÃO DECIDIDA EM SEDE DE RECURSO REPETITIVO. NÃO OBRIGATORIEDADE DE PAGAMENTO DAS TAXAS DE MANUTENÇÃO POR QUEM NÃO É ASSOCIADO OU QUE A ELA NÃO ANUIU.
+1. Julgamento sob a égide do CPC/15.
+2. Aplicabilidade do precedente firmado em sede de recurso especial repetitivo (REsp 1.280.871/SP, 2ª Seção, DJe 22/05/2015) à hipótese dos autos, por meio da aplicação da técnica da distinção (distinguishing).
+3. As taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram. Precedente julgado sob o rito dos recursos repetitivos (Tema 882).
+4. Recurso especial parcialmente conhecido e, nessa parte, provido.
+DECISÃO
+Cuida-se de recurso especial interposto por ELIS LOPES DE ABREU e GIANE CRISTINA MASSON LOPES DE ABREU, com fundamento, exclusivamente, na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 30/06/2016.
+Conclusão ao Gabinete em: 05/07/2017.
+Ação: cobrança, ajuizada por ASSOCIACAO RESIDENCIAL JARDIM LEBLON, em face dos recorrentes, na qual pleiteia o pagamento de contribuição associativa/taxas de manutenção do condomínio, no importe de R$ 8.992,98, atinente ao período compreendido entre novembro de 2011 a setembro de 2014.
+Sentença: julgou parcialmente procedente o pedido, para condenar os recorrentes ao pagamento das contribuições associativas vencidas entre maio de 2014 (momento da associação dos recorrentes/demandados) a novembro de 2014 (momento da retirada dos recorrentes/demandados da associação), acrescidas de correção monetária e juros a partir de seus vencimentos. Diante da sucumbência recíproca, cada parte arcará com metade das custas e despesas processuais, não havendo condenação a honorários.
+Acórdão: deu provimento à apelação interposta pela recorrida, para condenar os recorrentes ao pagamento da totalidade das mensalidades devidas, com correção e juros conforme estabelecido na sentença, bem como das custas e despesas processuais e honorários fixados em 10% do valor da condenação, acrescida de todos os consectários, nos termos da seguinte ementa:
+Apelação - Custo de manutenção e conservação - Cobrança que encontra fundamento no princípio que veda o enriquecimento sem causa, pois o proprietário do lote se beneficia dos serviços prestados - Sentença modificada - Recurso a que se dá provimento. (e-STJ, fl. 286)
+Embargos infringentes: interpostos pelos recorrentes, foram rejeitados.
+Recurso especial: alega violação dos arts. 5º, XX, da CF/88 e 7º da Lei 4.591/64. Sustenta que:
+i) a recorrida não pode ser equiparada ao instituto do condomínio;
+ii) os recorrentes não são obrigados a se filiarem à associação recorrida, pois foi formada posteriormente à aquisição dos loteamentos por parte daqueles; e
+iii) a cobrança de taxa de manutenção (contribuição associativa) sem vinculação do morador à associação enseja o enriquecimento sem causa.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/15.
+- Da violação de dispositivo constitucional ou de súmula
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a", da CF/88.
+- Da existência de adequação entre a hipótese dos autos e a situação submetida a julgamento no âmbito do recurso repetitivo (REsp 1.280.871/SP - Tema 882)
+ Inicialmente, cabe frisar que a aplicação de um precedente judicial - na hipótese dos autos o recurso repetitivo REsp 1.280.871/SP (Tema 882) - apenas pode ocorrer após a aplicação da técnica da distinção (distinguishing), a qual se refere a um método de comparação entre a hipótese em julgamento e o precedente que se deseja a ela aplicar.
+A aplicação de tese firmada em sede de recurso repetitivo a uma outra hipótese não é automática, devendo ser fruto de uma leitura dos contornos fáticos e jurídicos das situações em comparação pela qual se verifica se a hipótese em julgamento é análoga ou não ao paradigma. Dessa forma, para aplicação de um precedente, é imperioso que exista similitude fática e jurídica entre a situação em análise com o precedente que visa aplicar.
+A jurisprudência deste STJ aplica a técnica da distinção (distinguishing), a fim de reputar se determinada situação é análoga ou não a determinado precedente. Nesse sentido: RE nos EDcl nos EDcl no REsp 1.504.753/AL (3ª Turma, DJe 29/09/2017), REsp 1.414.391/DF (3ª Turma, DJe 17/05/2016) e AgInt no RE no AgRg nos EREsp 1.039.364/ES (Corte Especial, DJe 06/02/2018).
+Necessário salientar que a hipótese dos autos refere-se à ação cobrança ajuizada associação de moradores, cuja causa de pedir está fundada na ausência de pagamento de contribuição associativa/taxa de manutenção por parte dos associados e no princípio da vedação do enriquecimento sem causa.
+Nesse sentir, a situação submetida a julgamento no bojo do recurso repetitivo REsp 1.280.871/SP (Tema 882), em razão de trata-se de ação de cobrança ajuizada por associação de moradores, cuja causa de pedir encontra-se fundamentada em estatuto de associação civil e no princípio da vedação do enriquecimento sem causa, reporta-se à hipótese dos autos.
+Nota-se, portanto, a existência de similitude entre as situações descritas, o que possibilita a aplicação do recurso repetitivo mencionado na hipótese dos autos.
+Por derradeiro, imperioso frisar que a jurisprudência deste STJ (AgInt no REsp 1.349.713/SP, 4ª Turma, DJe de 29/6/2017; e REsp 1.422.859/SP, 3ª Turma, DJe de 26/11/2015) afirma ser viável a cobrança de pagamento de taxas de manutenção ou de qualquer outra espécie por parte de administradora de loteamento a proprietário de imóvel nele localizado, se esse vínculo foi estabelecido pelo loteador em contrato-padrão levado a registro no respectivo cartório ao qual aderiu o adquirente, o que - nos termos acima expostos - não é a hipótese dos autos.
+- Da não obrigatoriedade de pagamento de taxas de manutenção criadas por associação de moradores (Súmula 568/STJ)
+O TJ/SP, ao condenar os recorrentes ao pagamento das contribuições relativas à fruição de serviços realizados pela associação de moradores, independentemente de serem ou não associados, contrariou a jurisprudência do STJ no sentido de que as taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram. Nesse sentido: REsp 1.280.871/SP, 2ª Seção, DJe de 22/5/2015.
+Nota-se que, no bojo do acórdão recorrido, não ficou consignado expressamente serem os recorrentes associados à recorrida ou terem anuído com o pagamento dos valores cobrados nesta ação, situação que não pode ser analisada por este STJ, em razão da incidência da Súmula 7/STJ.
+Nesse sentir, necessária devolução dos autos ao Tribunal de origem, para que - à luz da jurisprudência citada - se pronuncie sobre a questão atinente à associação ou não dos recorrentes, bem como sobre a anuência ou não desses em pagar os valores cobrados na presente demanda.
+Logo, o recurso especial merece provimento, com base na Súmula 568/STJ.
+Forte nessas razões, CONHEÇO PARCIALMENTE do recurso especial e, nessa parte, DOU-LHE PROVIMENTO, com fundamento no art. 932, III, V, "a", do CPC/15, bem como na Súmula 568/STJ, para determinar a remessa dos autos ao Tribunal de origem, a fim de que seja proferido novo julgamento do recurso de apelação interposto pela recorrida, à luz da citada jurisprudência do STJ.
+Publique-se. Intimem-se.
