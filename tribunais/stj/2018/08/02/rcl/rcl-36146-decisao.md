@@ -1,0 +1,11 @@
+DECISÃO
+Vistos, etc.
+Trata-se de reclamação ajuizada por ALFA SEGURADORA S.A. contra acórdão da TURMA RECURSAL DO JUIZADO ESPECIAL DO ESTADO DO PARANÁ.
+Alega a Reclamante que o acórdão atacado "está em contrariedade à jurisprudência pacífica deste Egrégio Superior Tribunal de Justiça" (fl. 6).
+É o breve relatório.
+Decido.
+O art. 1.º da Resolução STJ/GP n.º 3 publicada no dia 8 de abril de 2016 é claro ao dispor que é da competência dos tribunais de justiça estaduais o processamento e julgamento das reclamações "destinadas a dirimir divergência entre acórdão prolatado por Turma Recursal Estadual e do Distrito Federal e a jurisprudência do Superior Tribunal de Justiça, consolidada em incidente de assunção de competência e de resolução de demandas repetitivas, em julgamento de recurso especial repetitivo e em enunciados das Súmulas do STJ, bem como para garantir a observância de precedentes".
+Ressalte-se que o Supremo Tribunal Federal, ao examinar conflitos de competência suscitados pelos tribunais de justiça contra as decisões do STJ fundamentadas na Resolução STJ/GP n.º 3 de 7 de abril de 2016, firmou orientação de que "(..) Superior Tribunal de Justiça é órgão que se sobrepõe, hierarquicamente, às deliberações de Tribunal de Justiça. Desse modo, não há que se falar em conflito entre o STJ e tribunal inferior a ele subordinado por vínculo hierárquico. Nesse contexto, compete ao TJBA cumprir a determinação do STJ, para julgar a reclamação, não cabendo, por parte do tribunal destinatário, opor-se à determinação por via de conflito" (CC n.º 7.971/BA, Ministro Gilmar Mendes, DJ de 3/3/2017). No mesmo sentido vejam-se estes julgados: CC n.º 7.980/MG (Ministro Alexandre de Moraes, DJe de 15/5/2017); e CC n.º 7.968/MG (Ministro Ricardo Lewandowski, DJ de 8/2/2017).
+No Superior Tribunal de Justiça, merecem destaque as seguintes decisões monocráticas: Rcl n.º 33.148/MG (Ministro Marco Aurélio Bellizze, DJe de 7/3/2017) e Rcl n.º 33.293/MG (Ministro Antônio Carlos Ferreira, DJe de 13/2/2017).
+Desse modo, considerando que a reclamação foi ajuizada no dia 9/7/2018 (fl. 1), já na vigência da referida resolução, encaminhem-se os autos ao Tribunal de Justiça do Estado do Paraná para que aprecie o pedido como entender de direito.
+Publique-se. Intimem-se.
