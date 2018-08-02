@@ -1,0 +1,18 @@
+Trata-se de recurso extraordinário interposto em face de acórdão que possui a seguinte ementa:
+    “APELAÇÃO CÍVEL E REEXAME NECESSÁRIO – AÇÃO CIVIL PÚBLICA - REPASSES DE VERBAS DE SAÚDE DESTINADAS AOS PROGRAMAS DE SAÚDE - DEVER DO ESTADO - OMISSÃO EVIDENCIADA - CONDENAÇÃO DE OBRIGAÇÃO DE FAZER – EXCEPCIONALIDADE JUSTIFICADA EM FACE DO DESCUMPRIMENTO DO ENCARGO PÚBLICO PREVISTO NA CONSTITUIÇÃO DA REPÚBLICA - PRECEDENTE DO STF – RECURSO DESPROVIDO - SENTENÇA RATIFICADA. A Constituição da República consagra o direito à saúde como dever do Estado, que deverá, por meio de políticas sociais e econômicas, propiciar aos necessitados o tratamento mais adequado e eficaz (art. 196). Evidenciada a imprescindibilidade dos repasses destinados para a prestação dos serviços de saúde, é de ser mantida a decisão que determinou ao Estado a obrigação de efetuar os repasses em atraso aos Programas de Saúde. O Supremo Tribunal Federal sedimentou entendimento, por oportunidade do julgamento do ARE 947.823-AgR, quanto à possibilidade e dever de intervenção do Poder Judiciário em caso de inércia do Poder Executivo para a consolidação de políticas públicas nas questões relativas ao direito constitucional à saúde, sem que fique configurada violação ao princípio da separação dos Poderes” (pág. 81 do documento eletrônico 9).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se violação do art. 2° da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Bem examinado os autos, verifica-se que em caso análogo, a Segunda Turma desta Suprema Corte assim decidiu:
+    “RECURSO EXTRAORDINÁRIO – POLÍTICAS PÚBLICAS – DETERMINAÇÃO PELO PODER JUDICIÁRIO – PRINCÍPIO DA SEPARAÇÃO DOS PODERES – OFENSA NÃO CONFIGURADA – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, ANTE A AUSÊNCIA DE CONDENAÇÃO EM VERBA HONORÁRIA NA ORIGEM – AGRAVO INTERNO IMPROVIDO.
+    […]
+    A questão central da presente causa consiste em verificar se se revela possível ao Judiciário, sem que incorra em ofensa ao postulado da separação de poderes, determinar a adoção, pelo Estado, quando injustamente omisso no adimplemento de políticas públicas constitucionalmente estabelecidas, de medidas ou providências destinadas a assegurar, concretamente, à coletividade em geral, o acesso e o gozo de direitos afetados pela inexecução governamental de deveres jurídico-constitucionais.
+    […]
+    A incumbência de fazer implementar políticas públicas fundadas na Constituição poderá atribuir-se, ainda que excepcionalmente , ao Judiciário, se e quando os órgãos estatais competentes, por descumprirem os encargos político-jurídicos que sobre eles incidem em caráter vinculante, vierem a comprometer, com tal comportamento, a eficácia e a integridade de direitos individuais e/ou coletivos impregnados de estatura constitucional, como sucede na espécie ora em exame.
+    […]
+    Tratando-se de típico direito de prestação positiva, a proteção à vida e à segurança – que compreende todas as prerrogativas, individuais ou coletivas, referidas na Constituição da República – tem por fundamento regra constitucional cuja densidade normativa não permite que, em torno da efetiva realização de tal comando, o Poder Público disponha de um amplo espaço de discricionariedade que lhe enseje maior grau de liberdade de conformação, e de cujo exercício possa resultar, paradoxalmente, com base em simples alegação de mera conveniência e/ou oportunidade, a nulificação mesma dessa prerrogativa essencial” (RE 889.945-AgR/RS, Rel. Min. Celso de Mello).
+    Dessa orientação não divergiu o acórdão recorrido.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 2 de agosto de 2018.
+Ministro Ricardo Lewandowski
+Relator
