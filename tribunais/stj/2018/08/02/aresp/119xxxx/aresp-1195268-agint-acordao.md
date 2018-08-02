@@ -1,0 +1,44 @@
+EMENTA
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA INJUSTIFICADA DE COBERTURA. DANOS MORAIS. VALOR. RAZOABILIDADE. NÃO PROVIMENTO.
+1. Tendo a instância de origem concluído, a partir do exame das provas dos autos, que a recusa de cobertura pelo plano de saúde foi injustificada e ocorrida em momento de grave estado de saúde do beneficiário, causando danos morais, a revisão desse entendimento demanda reexame de matéria de fato, incabível no âmbito do recurso especial (Súmula 7).
+2. Consoante entendimento pacificado no STJ, o valor da indenização por danos morais só pode ser alterado na instância especial quando manifestamente ínfimo ou exagerado, o que não se verifica na hipótese dos autos.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Antonio Carlos Ferreira (Presidente), Marco Buzzi, Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) e Luis Felipe Salomão votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por [NOME], contra decisão de fls. 545-548, e-STJ, que negou provimento ao agravo em recurso especial.
+Em suas razões, afirma que não há falar em deficiência de fundamentação no recurso especial, uniformidade de entendimento quanto ao tema devolvido nesta Corte Superior ou em reexame do conjunto probatório para o deslinde da controvérsia, o que afasta a incidência das Súmulas 284 do Supremo Tribunal Federal, 7 e 83 do Superior Tribunal de Justiça.
+Requer a "remensuração dos danos morais no tocante ao valor de R$ 10.000,00" (fl. 558, e-STJ).
+Intimada, a agravada não apresentou impugnação (fl. 562, e-STJ).
+É o relatório.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O agravo não merece provimento.
+Os argumentos jurídicos trazidos nas razões do agravo interno não se prestam a modificar o posicionamento anteriormente adotado.
+A decisão ora agravada ficou assim redigida:
+"Trata-se de agravo em recurso especial interposto por [NOME], contra decisão que negou seguimento ao recurso especial, com fundamento na alínea "a" do inciso III do artigo 105 da Constituição Federal, contra acórdão assim ementado:
+APELAÇÃO CÍVEL - PLANO DE SAÚDE - NEGATIVA DE COBERTURA PARA RADIOTERAPIA HIPOFRACIONADA, PROCEDIMENTO INDICADO PELOS MÉDICOS DA PARTE AUTORA PARA TRATAMENTO DE TUMOR MALIGNO NO ANTEBRAÇO - PLENA APLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR À APELANTE - NATUREZA DE SOCIEDADE SEM FINS LUCRATIVOS NÃO AFASTA O CARÁTER DE PRESTADORA DE SERVIÇOS DE ASSISTÊNCIA À SAÚDE - ENTENDIMENTO JÁ PACIFICADO - MÉRITO: AUSÊNCIA DE PREVISÃO DO PROCEDIMENTO NO ROL DA ANS NÃO AUTORIZA A EXCLUSÃO DA COBERTURA - ROL MERAMENTE EXEMPLIFICATIVO, QUE NÃO SE PRESTA PARA RESTRINGIR DIREITOS DOS CONSUMIDORES - INTERPRETAÇÃO DO CONTRATO DE FORMA MAIS FAVORÁVEL AO CONSUMIDOR - AUSÊNCIA DE EXPRESSA EXCLUSÃO CONTRATUAL - CONDENAÇÃO AO CUSTEIO DO TRATAMENTO CORRETAMENTE DETERMINADA - OBRIGAÇÃO DE COBERTURA DO PROCEDIMENTO ESPECIAL INDISPENSÁVEL AO TRATAMENTO DA APELADA CONFIGURADO DANO MORAL NO CASO EM ANÁLISE, ANTE O CARÁTER EMERGENCIAL DO TRATAMENTO E A INEGÁVEL ANGÚSTIA DECORRENTE DA NEGATIVA DE COBERTURA - QUANTUM INDENIZATÓRIO CORRETAMENTE FIXADO EM PRIMEIRO GRAU - INCABÍVEL MINORAÇÃO - SENTENÇA MANTIDA
+Opostos embargos de declaração, foram rejeitados pelo Tribunal de origem, adotando-se a seguinte ementa:
+EMBARGOS DE DECLARAÇÃO - INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE - FALTA DE AMPARO LEGAL PARA INTERPOSIÇÃO DOS EMBARGOS - MATÉRIAS DEBATIDAS E FUNDAMENTADAS NO ACÓRDÃO GUERREADO - EMBARGOS REJEITADOS
+Nas razões do especial, a agravante alegou negativa de vigência dos artigos 186, 422, 927 e 944, do Código Civil, sob o argumento de que foi lícita a negativa de cobertura em face do que lhe é atribuído como obrigação estabelecida no plano de saúde, estando em conformidade com as normas que regem essa espécie de contrato, não havendo de se falar, assim, em indenização por danos morais. Afirma que o valor arbitrado a esse título (R$ 10.000,00 - dez mil reais) é exorbitante, merecendo redução.
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, destaco que a decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente agravo, verifico que este não merece provimento.
+O Tribunal de origem entendeu pela responsabilização da agravada, assim consignando (e-STJ fl. 373) :
+Deste modo, tem-se que o dano se origina no fato da negativa de cobertura ser indevida e do grave estado de saúde da parte, causando sofrimento, aflição e desespero ao paciente segurado, bem como à sua família, vendo-se frustrados na expectativa de cobertura do tratamento garantido pelo plano, honrado mensalmente, que se negou a prestar o objeto pactuado, ou seja, a possibilidade de cura ou mesmo controle do tumor maligno que acomete a autora.
+O sofrimento e o desconforto sofridos pela autora e por seus familiares, quando teve recusada a cobertura dos custos da radioterapia para tratamento do câncer, em caráter emerqencial, passa ao largo de ser considerado um mero dissabor. Evidencia-se claramente nesta situação a configuração do dano moral e a conseqüente necessidade de reparação.
+Observa-se que o acórdão recorrido encontra-se em consonância com a jurisprudência já consolidada deste Superior Tribunal de Justiça, razão pela qual o presente recurso esbarra no enunciado sumular nº 83, do STJ, aplicável aos recursos interpostos com base em ambas as alíneas (AgInt no AREsp 720.037/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 3/5/2016, DJe 11/5/2016).
+Isso porque, o fato de eventual tratamento médico não constar do rol de procedimentos da ANS não significa, per si, que a sua prestação não possa ser exigida pelo segurado, pois, tratando-se de rol exemplificativo, a negativa de cobertura do procedimento médico cuja doença é prevista no contrato firmado implicaria a adoção de interpretação menos favorável ao consumidor (AgRg no AREsp 708.082/DF, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 16/2/2016, DJe 26/2/2016).
+Quanto ao valor indenizatório arbitrado, é certo que a jurisprudência desta Corte considera deficiente a fundamentação do recurso que não aponta o dispositivo de lei federal violado pelo acórdão recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula 284 do STF. Confira-se:
+"AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DESCONSTITUTIVA c/c PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO, MANTENDO HÍGIDA A NEGATIVA DE SEGUIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DA RÉ.
+1. (..)
+2. (..)
+3. Em suas razões recursais, o recorrente limitou-se a apontar a impropriedade de sua condenação à devolução dos valores pagos a título de taxa condominial e de decoração, sem, contudo, indicar o dispositivo legal que teria sido violado, acarretando a deficiência da fundamentação do apelo, circunstância esta que atrai a aplicação analógica da Súmula 284 do STF.
+4. (..) 5. Agravo interno desprovido".
+(AgInt no AREsp 725986/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 29.6.2017).
+Ademais, o entendimento pacificado no Superior Tribunal de Justiça é de que o valor estabelecido pelas instâncias ordinárias a título de indenização por danos morais pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso.
+Na presente hipótese, em que estipulada indenização de R$ 10.000,00 (dez mil reais), em decorrência da recusa de tratamento de urgência do câncer da recorrida, penso que o montante fixado atende às circunstâncias de fato da causa, afigura-se condizente com os princípios da proporcionalidade e da razoabilidade e não constitui causa geradora de enriquecimento ilícito, motivo pelo qual não se justifica a excepcional intervenção desta Corte no presente feito.
+Em face do exposto, nego provimento ao agravo"
+No caso em exame, o Tribunal local confirmou a condenação fixada pela sentença a título de pagamento de indenização por danos morais em R$ 10.000,00 (dez mil reais), pelos danos sofridos pela agravada que, acometida de neoplasia no seu antebraço direito, recebeu negativa injustificada de cobertura para o tratamento de radioterapia hipofracionada, terapia necessária para restabelecimento de sua saúde.
+Não verifico, desse modo, ausência de razoabilidade no valor fixado a justificar a excepcional intervenção desta Corte.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
