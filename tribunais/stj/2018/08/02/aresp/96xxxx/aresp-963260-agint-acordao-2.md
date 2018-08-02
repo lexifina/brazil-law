@@ -1,0 +1,36 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELO NOBRE INTERPOSTO CONTRA APELAÇÃO JULGADA MONOCRATICAMENTE. AUSÊNCIA DE EXAURIMENTO DE INSTÂNCIA. SÚMULA 281/STF.
+1. Compete ao Superior Tribunal de Justiça, nos termos do inciso III do artigo 105 da Constituição Federal, julgar, em recurso especial, as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios.
+2. No caso em exame, o recurso especial interposto por [NOME] (fls. 540/546) foi protocolado contra decisão monocrática contra a qual caberia a interposição de agravo regimental na origem, ex vi do § 1º do art. 557 do CPC/73. Nesse contexto, o recurso especial não poderia ser conhecido, ante o óbice da Súmula 281/STF ("É inadmissível o recurso extraordinário, quando couber, na Justiça de origem, recurso ordinário da decisão impugnada.").
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno de [NOME], nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por [NOME] desafiando decisão pela qual neguei provimento ao agravo em recurso especial, sob o fundamento de que o apelo fora protocolado contra decisão monocrática contra a qual caberia a interposição de agravo regimental na origem, incidindo, portanto, o óbice da Súmula 281/STF.
+Em suas razões recursais, a parte recorrente sustenta que: (I) o julgamento da apelação por decisão monocrática do Relator caracteriza-se como sendo decisão de última instância pois da mesma não cabe mais nenhum recurso ordinário; (II) o recurso de Agravo Regimental ou Interno, não se encontra entre os recursos elencados pelo Código de Processo Civil como ordinários; (III) se é medida para provocar reexame de decisão de última instância, também é cabível a interposição de Recurso especial, que tem por objeto exatamente a revisão daquela decisão.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhida.
+Tal como consignado na decisão agravada, o recurso especial interposto por [NOME] (fls. 540/546) foi protocolado contra decisão monocrática contra a qual caberia a interposição de agravo regimental na origem, circunstância que impede o conhecimento do apelo, em razão da incidência da Súmula 281/STF.
+Ademais, ao contrário do que sustenta o agravante, há previsão expressa no Código de Processo Civil de 1973 quanto ao cabimento de agravo contra a decisão do relator que, monocraticamente, nega seguimento a recurso - incluindo-se, aqui, o recurso de apelação. Veja-se:
+Art. 557. O relator negará seguimento a recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou com jurisprudência dominante do respectivo tribunal, do Supremo Tribunal Federal, ou de Tribunal Superior.
+§ 1o Da decisão caberá agravo, no prazo de cinco dias, ao órgão competente para o julgamento do recurso, e, se não houver retratação, o relator apresentará o processo em mesa, proferindo voto; provido o agravo, o recurso terá seguimento.
+Diante dessas circunstâncias, considerando que a decisão contra a qual fora interposto o apelo especial ainda era passível de recurso perante o Tribunal de origem, torna-se inviável a abertura da via extraordinária, uma vez que o exaurimento de instância é requisito de admissibilidade da impugnação destinada a esta Corte de Justiça. No mesmo sentido, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO CONTRA DECISÃO MONOCRÁTICA. AUSÊNCIA DE EXAURIMENTO DA INSTÂNCIA. INCIDÊNCIA DA SÚMULA 281 DO STF, POR ANALOGIA. PRECEDENTES DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Agravo interno interposto contra decisão monocrática, publicada em 07/06/2016, que, por sua vez, julgara recurso interposto contra decisum publicado na vigência do CPC/73.
+II. Consoante a jurisprudência do STJ, é inviável o Recurso Especial interposto de decisão singular, passível de recurso, nas instâncias de origem, nos termos da Súmula 281 do STF. Nesse sentido: STJ, AgRg no AREsp 667.493/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 27/08/2015; AgRg no AREsp 647.073/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 1º/07/2015; AgRg no AREsp 692.476/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 1º/06/2015; AgRg no AREsp 610.024/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 14/04/2015.
+III. No caso, a Apelação do agravante foi julgada por decisão monocrática, com fundamento no art. 557, caput, do CPC/73, então vigente. Contudo, conforme previsão do § 1º do mencionado dispositivo legal, caberia à parte interpor Agravo interno, dirigido ao Órgão colegiado competente, para exaurir a instância ordinária, abrindo-se, então, a possibilidade para a interposição do Recurso Especial. Incidência da Súmula 281/STF, por analogia.
+IV. Agravo interno improvido.
+(AgInt no AREsp 905.414/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, Je 22/11/2016)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO DE APELAÇÃO JULGADO MONOCRATICAMENTE PELO RELATOR. FALTA DE EXAURIMENTO DA INSTÂNCIA DE ORIGEM. SÚMULA 281/STF. AGRAVO MANIFESTAMENTE IMPROCEDENTE. FIXAÇÃO DA MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC/2015. RECURSO IMPROVIDO, COM APLICAÇÃO DE MULTA.
+1. Não é admissível recurso especial contra decisão monocrática do relator do Tribunal de origem, porquanto necessário o exaurimento dos recursos ordinários cabíveis, conforme dispõe o enunciado n. 281 da Súmula do Supremo Tribunal Federal, o qual se aplica por analogia ao recurso especial.
+2. Agravo interno improvido, com aplicação de multa.
+(AgInt no AREsp 931.343/RO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 06/10/2016)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. APELAÇÃO JULGADA MONOCRATICAMENTE. AUSÊNCIA DE ESGOTAMENTO DAS VIAS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA Nº 281 DO STF. PRECEDENTES. DECISÃO MANTIDA.
+1. Aplicabilidade do novo Código de Processo Civil, devendo ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se conhece do recurso especial aviado de apelação decidida de forma unipessoal.
+3. Inexistência de exaurimento das vias ordinárias obrigatórias, o que atrai, de forma analógica, a incidência da Súmula nº 281 do Pretório Excelso.
+4. Agravo interno não provido.
+(AgInt no AREsp 931.690/RO, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 22/09/2016)
+Em face das razões expostas, nega-se provimento ao agravo interno.
+É como voto.
