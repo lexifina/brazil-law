@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo manejado por [NOME] que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região.
+Opostos embargos de declaração, foram rejeitados (fl. 211).
+Nas razões do apelo especial, aponta o recorrente, além de divergência jurisprudencial, violação aos arts. 535, I e II, 543-C, § 7º, II, e 543-B, § 3º do CP/73, 5º da Lei 5.890/73, 26 e 58 da CLPS/76, 21 e 23 do Decreto 89.312/84. Sustenta negativa de prestação jurisdicional.
+Aduz que "não se justifica, em hipótese alguma, a condição restritiva adotada pelo R. Juízo a quo, no sentido de que as garantias asseguradas pelo art. 14 da EC 20/1998. e pelo art. 5o da EC 41/2013, bem como a adequação do benefício ao estabelecido pelo Plenário desse E. STF no R.E. nº 564.354/SE, não se estenderia a benefícios concedidos anteriormente a 05/10/88 (quando a legislação específica então vigente já dispunha sobre as figuras dos tetos do Regime Geral de Previdência e quando esses tetos serviam de limitadores ao salário de benefício apurado nos cálculos primitivos)" (fl.238).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+A seguir, verifica-se, não ter ocorrido ofensa ao art. 535 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Quanto à questão de fundo, muito embora haja, no apelo nobre, a alegação de ofensa a dispositivo infraconstitucional, verifica-se que o Tribunal de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, matéria insuscetível de ser examinada em recurso especial, conforme se nota do seguinte excerto (fls. 161/162):
+Discute-se as alterações introduzidas pela edição das Emendas Constitucionais n. 20/98 e n. 41/03 incidentes ao caso.
+O Supremo Tribunal Federal, em sessão plenária, por ocasião do julgamento do Recurso Extraordinário 564.354, decidiu pela aplicação imediata das regras estabelecidas no artigo 14 da Emenda Constitucional 20, de 15.12.98, e artigo 5o, da Emenda Constitucional 41, de 19.12.03, aos benefícios previdenciários limitados em seu teto por ocasião do cálculo da renda mensal inicial, in verbis:
+(..).
+Estabelecidos os tetos, respectivamente, em 15.12.98 (EC 20/98) e 19.12.03 (EC 41/03), nos valores de R$ 1.200,00 (um mil e duzentos reais) e R$ 2.400,00 (dois mil e quatrocentos reais), deverão ser revistas as rendas mensais dos benefícios cujas datas de início ocorreram anteriormente à promulgação das referidas normas constitucionais e que sofreram limitação.
+Não obstante o julgado acima, a decisão não se aplica ao caso concreto. Isto porque o benefício de aposentadoria foi concedido em 2/11/1985 (fls. 81), anteriormente a Constituição Federal, não incidindo as disposições do julgado exarado pelo Supremo Tribunal Federal no RE 564.354/SE.
+Nesse sentido, cito julgado desta Corte:
+(..).
+Do exposto, nego provimento ao agravo.
+Publique-se.
