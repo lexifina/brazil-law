@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de Roraima, assim ementado (e-STJ fl. 181):
+EXCEÇÃO DE SUSPEIÇÃO. INTEMPESTIVIDADE. O RÉU DEVE ARGUIR A SUSPEIÇÃO NO PRAZO DE DEFESA, OU EM 15 DIAS A CONTAR DA DATA EM QUE TOMOU CONHECIMENTO DO FATO QUE GEROU A SUSPEIÇÃO. ART. 305, DO CPC. PRECEDENTES DO STJ. NESTE CASO, AINDA QUE SE CONSIDERE A SUSPEIÇÃO FUNDADA EM FATO SUPERVENIENTE, O EXCEPTO NÃO OBSERVOU O PRAZO DE QUINZE DIA PARA ARGUÍ-LA. ARGUIÇÃO INTEMPESTIVA.
+Os embargos de declaração opostos foram rejeitados.
+O recorrente aponta violação do art. 305 do CPC/1973.
+Sustenta, em síntese, que (e-STJ fl. 205): "somente com a concessão da liminar em 16.04.2013 nos autos do processo n.º 0000.12.001.488-1 (mandado de segurança) (que, repita-se, havia sido negada no limiar do processo um mês e um dia antes (em 15.03.2013)) é que se conseguiu constatar a presença da animosidade, que acabou sendo provada justamente por meio da juntada do julgamento da prestação de contas da esposa o e. Desembargador Excepto (Recorrido)".
+Sem contrarrazões.
+Manifestação do Parquet federal pelo desprovimento do recurso.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado 2).
+Isso considerado, de acordo com a jurisprudência desta Corte, o prazo para a oposição de suspeição tem início na data em que o excipiente tem conhecimento dos fatos que embasam a sua objeção quanto à imparcialidade do julgador.
+A propósito, destaco:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. EXCEÇÃO DE SUSPEIÇÃO DO PERITO. TERMO INICIAL. CONTAGEM DE PRAZO. CONHECIMENTO DOS FATOS. VERIFICAÇÃO. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. "Aplicam-se ao perito os motivos de impedimento e suspeição previstos para o juiz (CPC, art. 138, III), devendo o interessado arguir o incidente no prazo de 15 (quinze) dias contados da data em que tomou conhecimento dos fatos". (..)"(REsp 1433098/GO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 26/05/2015, DJe 15/06/2015).
+3. O recurso especial não é, em razão da Súmula 7/STJ, via processual adequada para questionar julgado que se afirmou explicitamente em contexto fático-probatório próprio da causa.
+4. Agravo interno não provido.
+(AgInt no AgInt nos EDcl no AREsp 1154060/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 17/05/2018, DJe 24/05/2018)
+Na espécie, observo que o Tribunal de origem rejeitou a exceção, ancorando-se nos seguintes fundamentos (e-STJ fl. 180):
+Entretanto, mesmo se considerarmos como marco inicial para a contagem do prazo, o dia em que foi publicado do Diário Oficial do Estado de Roraima, a primeira decisão colegiada do TCE, em que a consorte do Des. Mauro Campello foi condenada a ressarcir valores aos cofres públicos (fl. 94), qual seja, o dia 20/03/2013, ainda, assim, este incidente estará intempestivo, pois o termo final seria o dia 05/04/2013, sexta-feira, e a Exceção somente foi oposta no dia 18/04/2013.
+Ora, se o Excipiente considera que a condenação da esposa do Excepto gerou para este parcialidade para o julgamento do Mandado de Segurança, a partir de então começou a contar seu prazo para arguir a exceção de suspeição.
+Ora, dissentir da conclusão a que chegou a Corte de origem, de modo a considerar que o excipiente só teve ciência da situação após o julgado do Tribunal de Contas, implica inevitável revolver de aspectos fático-probatórios, providência inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+Nesse sentido, trago o precedente a seguir:
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE SUSPEIÇÃO. REJEIÇÃO. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO RECORRIDO. INEXISTÊNCIA. NECESSIDADE DE REEXAME FÁTICO PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Não se constata a alegada violação ao art. 535 do Código de Processo Civil de 1973, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas. De fato, inexiste omissão no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pela parte recorrente, manifestou-se expressamente acerca dos temas necessários à integral solução da lide.
+II - Para se reformar o entendimento adotado pelo Tribunal de origem, e se reconhecer a existência de prova ou razão que justifique a rejeição da exceção de suspeição, seria necessário o reexame de matéria de fato, o que é inviável em sede de recurso especial, tendo em vista o disposto no enunciado n. 7 da Súmula do STJ. Nesse sentido: REsp 1.425.791/MT, 2ª Turma, Rel. Min. Herman Benjamin, DJe de 19.3.2014; AgRg nos EDcl no AREsp 469.538/SP, 2ª Turma, Rel. Min. Mauro Campbell Marques, DJe de 12/05/2014; AgInt nos EDcl no REsp 1575152/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/12/2016, DJe 15/12/2016).
+III - Consoante a jurisprudência desta Corte, a aplicabilidade do enunciado n. 7 da Súmula do STJ, impede a análise do alegado dissídio jurisprudencial, ante a falta de identidade entre os paradigmas colacionados e os fundamentos do acórdão recorrido.
+IV - Agravo interno improvido.
+(AgInt no AREsp 992.828/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 04/04/2017, DJe 11/04/2017) (grifos acrescidos)
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
