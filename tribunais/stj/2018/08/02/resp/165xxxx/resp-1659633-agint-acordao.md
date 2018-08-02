@@ -1,0 +1,66 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CPFL. TRANSFERÊNCIA DO SISTEMA DE ILUMINAÇÃO PÚBLICA REGISTRADO PELA EMPRESA DISTRIBUIDORA DE ELETRICIDADE COMO ATIVO IMOBILIZADO EM SERVIÇO - AIS - PARA O PATRIMÔNIO DO MUNICÍPIO. RESOLUÇÃO NORMATIVA 414/2010 DA ANEEL. ANÁLISE EM RECURSO ESPECIAL. INVIABILIDADE. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. RECURSO NÃO PROVIDO.
+1. Observa-se nas razões do apelo nobre que eventual violação de lei federal seria meramente reflexa, e não direta, porque ao deslinde da controvérsia seria imprescindível a interpretação da Resolução 414/2010 da ANEEL, que não pode ser analisada pela estreita via do Recurso Especial.
+2. Ademais, a Corte de origem, soberana na análise das circunstâncias fáticas e probatórias da causa, consignou: "(..) não há qualquer evidência concreta nos autos de que a Municipalidade esteja apto a gerir os AIS que lhe seriam transferidos. Não há informação sobre previsão orçamentária, instituição de COSIP ou de presença de efetivo técnico capacitado para a manutenção dos ativos. Note-se que o ônus dessa prova é da ANEEL, na medida em que detém o dever legal de zelar pelo serviço prestado e, portanto, garantir que os AIS só sejam transferidos aos municípios uma vez estejam estes aptos a manter a qualidade do serviço, sob pena de danos sensíveis aos munícipes. Não o fazendo, atua de maneira ilegal, porque contrariamente às funções que lhe foram legalmente atribuídas" (fl. 444, e-STJ). A revisão deste entendimento esbarra na Súmula 7/STJ.
+3. Agravo Interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Francisco Falcão."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão monocrática (fls. 1605-1610, e-STJ) que desproveu o recurso.
+A parte agravante alega, em síntese, ser desnecessária a interpretação da Resolução 414/2010 para o deslinde da controvérsia.
+Afirma (fls. 1630-1633, e-STJ):
+III.1 Da violação direta a dispositivos de lei federal 10. A r. decisão recorrida houve por bem negar seguimento ao recurso especial interposto pela CPFL sob a alegação de que a violação de lei seria meramente reflexa, uma vez que, para o deslinde da controvérsia, seria imprescindível a interpretação da Resolução ANEEL 414/2010.
+11. Data vênia, tal entendimento não merece prosperar.
+12. Isso porque, conforme se aduz das razões de recurso especial, a questão trazida à apreciação desta C. Corte tem como fundamento a obrigação de caráter legal dos Municípios em realizar o serviço de iluminação pública.
+13. Conforme se depreende das alegações reiteradas em sede de recurso especial, a Resolução ANEEL 414/2010 (com alteração dada pela Resolução ANEEL 479/2012) não inovou em nosso ordenamento, uma vez que a responsabilidade pela iluminação pública sempre foi atribuída aos Municípios.
+14. Ao contrário do que afirma a r. decisão agravada, portanto, não há que se falar em necessidade de interpretação da Resolução 414/2010 da ANEEL para resolução da controvérsia, limitando-se a questão jurídica à responsabilidade pela manutenção dos ativos de iluminação pública.
+15. Sobre o ponto, a CPFL invocou a violação ao art. 5º do Decreto n. 41.019/57, que limita a atuação das concessionárias de distribuição de energia elétrica à atividade conceituada pelo dispositivo, que assim define - e limita - o serviços prestado:
+Art 5º. O serviço de distribuição de energia elétrica consiste no fornecimento de energia a consumidores em média e baixa tensão.
+16. No caso em comento, o v. acórdão recorrido, ao ampliar a atuação da CPFL a atividades que extrapolam o limite do serviço de distribuição de energia elétrica violou e negou vigência ao dispositivo transcrito acima, sendo evidente a existência de violação direta à legislação federal no caso em tela.
+17. Evidencia-se, pois, que o v. acórdão deixou de considerar que os ativos imobilizados - constituídos de componentes físicos voltados ao recebimento da energia elétrica, tais como lâmpadas, luminárias, reatores, bulbos, etc. - sempre pertencerão aos municípios, de modo que não guardam qualquer relação com os sistemas de distribuição implementados pela concessionária para a execução de suas atividades.
+18. Nesse contexto, a Resolução ANEEL 479/2012 apenas se incumbiu de atribuir prazo para que as concessionárias de distribuição de energia elétrica se adequassem à legislação vigente, deixando de prestar serviços que extrapolam o âmbito da concessão.
+19. Veja-se que, em que pese a impossibilidade de análise, em sede de recurso especial, do teor das resoluções emanadas pela ANEEL, a necessidade de preservação do poder regulatório das agências reguladoras (no caso, conforme os arts. 2º e 3º da Lei 9.427/96 c/c art. 29 da Lei n. 8.987/95) tem sido reiteradamente afirmada por este E. Tribunal.
+(..)
+21. Nestes termos, evidencia-se que a pretensão formulada em sede de recurso especial reside na demonstração de que (i) o serviço de iluminação pública, por definição legal, transcende o âmbito de atuação da CPFL e (ii) as agências reguladoras têm poder normativo assegurado por lei, resta demonstrada a existência de violação direta, pelo v. acórdão recorrido, aos arts. 5º do Decreto n. 41.019/57 e 2º e 3º da Lei 9.427/96 c/c 29 da Lei 8.987/95, não há que se falar em negativa de seguimento ao recurso especial por ofensa reflexa, sendo mister a reforma da r. decisão agravada.
+(..)
+Pugna pela reconsideração da decisão agravada ou pelo provimento, pelo colegiado, do Agravo Interno
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 6.9.2017.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Conforme já disposto no decisum combatido, observa-se na razão do apelo nobre que eventual violação de lei federal seria meramente reflexa, e não direta, porque ao deslinde da controvérsia seria imprescindível a interpretação da Resolução 414/2010 da ANEEL, que não pode ser analisada pela estreita via do Recurso Especial.
+Nesse sentido:
+PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 535 DO CPC/1973. INEXISTÊNCIA. ILUMINAÇÃO PÚBLICA. TRANSFERÊNCIA DE ATIVOS DAS CONCESSIONÁRIAS PARA OS MUNICÍPIOS (ATIVO IMOBILIZADO EM SERVIÇO - AIS). RESOLUÇÃO DA ANEEL. EXAME NO ESPECIAL. INVIABILIDADE.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Inexiste violação ao art. 535, II, do CPC/1973, muito menos negativa de prestação jurisdicional, quando o acórdão "adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, para decidir de modo integral a controvérsia posta" (AgRg no REsp 1340652/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/11/2015, DJe 13/11/2015), pois o magistrado não está obrigado a responder a todas as alegações das partes nem tampouco a rebater um a um todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie (AgRg no AREsp 163417/AL, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 29/09/2014).
+3. A via excepcional não se presta para análise de ofensa a resolução, portaria, regimento interno ou instrução normativa, atos administrativos que não se enquadram no conceito de lei federal. Precedentes.
+4. Caso em que o exame da legalidade da transferência dos ativos de iluminação pública das concessionárias de energia elétrica para os Municípios perpassa, necessariamente, pela interpretação das Resoluções n. 414/2010 e 479/2012 da ANEEL, sendo meramente reflexa a vulneração aos dispositivos legais indicados pelas agravantes.
+5. Agravo interno desprovido.
+(AgInt no REsp 1584984/PE, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 06/12/2016, DJe 10/02/2017)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. VIOLAÇÃO AO ART. 535 DO CPC. INOCORRÊNCIA. OFENSA À RESOLUÇÃO 414/2010, COM REDAÇÃO DADA PELA RESOLUÇÃO 479/2012 DA ANEEL. CONCEITO DE TRATADO OU LEI FEDERAL. NÃO ENQUADRAMENTO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 518/STJ.
+I - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+II - Consoante pacífica jurisprudência deste Superior Tribunal de Justiça, o conceito de tratado ou lei federal, previsto no art. 105, inciso III, a, da Constituição da República, deve ser considerado em seu sentido estrito, não compreendendo súmulas de Tribunais, bem como atos administrativos normativos. Incidência, por analogia, da Súmula n. 518 do Superior Tribunal de Justiça.
+III - A Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+IV - Agravo Regimental improvido.
+(AgRg no REsp 1.555.643/CE, Rel. Ministro REGINA HELENA COSTA, julgado em 16/11/2015, DJe de 18/11/2015)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÕES. DISPOSITIVOS LEGAIS NÃO PREQUESTIONADOS. SÚMULA 211/STJ. ANÁLISE DE NORMAS CONTIDAS EM LEI FEDERAL. INVIABILIDADE. REVISÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Não há falar em violação do artigo 535 do Código de Processo Civil, quando o aresto recorrido adota fundamentação suficiente para dirimir a controvérsia, sendo desnecessária a manifestação expressa sobre todos os argumentos apresentados pelos litigantes.
+(..).
+3. Em sede de apelo excepcional, não é possível realizar eventual interpretação de instruções normativas e de portarias, uma vez que não são abrangidas pela expressão "lei federal" presente no artigo 105, inciso III, alínea "a", da Constituição Federal.
+(..).
+5. Agravo regimental não provido. (AgRg no REsp 1.307.719/DF, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 28/2/2013).
+Ademais, a Corte de origem, soberana na análise das circunstâncias fáticas e probatórias da causa, consignou (fl. 444, e-STJ):
+(..) não há qualquer evidência concreta nos autos de que a Municipalidade esteja apto a gerir os AIS que lhe seriam transferidos. Não há informação sobre previsão orçamentária, instituição de COSIP ou de presença de efetivo técnico capacitado para a manutenção dos ativos. Note-se que o ônus dessa prova é da ANEEL, na medida em que detém o dever legal de zelar pelo serviço prestado e, portanto, garantir que os AIS só sejam transferidos aos municípios uma vez estejam estes aptos a manter a qualidade do serviço, sob pena de danos sensíveis aos munícipes. Não o fazendo, atua de maneira ilegal, porque contrariamente às funções que lhe foram legalmente atribuídas.
+Rever o entendimento supra requer revolvimento do conjunto fático-probatório, visto que a instância a quo utilizou elementos contidos nos autos para alcançar tal entendimento. Incidência da Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE FORNECIMENTO DE ENERGIA ELÉTRICA. ILUMINAÇÃO PÚBLICA. COBRANÇA POR ESTIMATIVA DE CONSUMO. CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DA SÚMULA 5/STJ. ANÁLISE DE RESOLUÇÃO DA ANEEL. ATO INFRALEGAL QUE NÃO ENSEJA O RECURSO ESPECIAL. PRODUÇÃO DE NOVA PROVA PERICIAL. DOCUMENTAÇÃO NOS AUTOS. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO DO MAGISTRADO. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL DA CEMIG E OUTROS A QUE SE NEGA PROVIMENTO.
+1. A lide foi resolvida com a devida fundamentação, ainda que sob ótica diversa daquela almejada pelos ora recorrentes.
+2. Insuscetível de revisão o entendimento da Corte de origem já que fundada nos elementos constantes do feito, que concluiu pela necessidade da prova questionada pelo ora agravado.
+3. A jurisprudência desta Corte pacificou o entendimento de que o Tribunal de origem é soberano na análise das provas.
+4. Não cabe Recurso Especial para análise de Resolução, ato infralegal.
+5. Agravo Regimental da CEMIG E OUTROS a que se nega provimento.
+(AgRg no AREsp 679.732/MG, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 27/06/2017, DJe 02/08/2017).
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
