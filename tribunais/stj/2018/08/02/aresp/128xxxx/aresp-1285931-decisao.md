@@ -1,0 +1,37 @@
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO MANIFESTADA NA VIGÊNCIA DO NCPC. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PLEITO DE AFASTAMENTO DAS ASTREINTES, SOB ALEGAÇÃO DE CUMPRIMENTO DA ORDEM JUDICIAL. TRIBUNAL LOCAL QUE RECHAÇOU A ALEGAÇÃO DA PARTE, RECONHECENDO QUE A ORDEM SOMENTE FOI CUMPRIDA MUITO TEMPO APÓS. REFORMA DO ENTENDIMENTO. NECESSIDADE DE REEXAME DOS FATOS DA CAUSA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
+DECISÃO
+QUALICORP ADMINISTRADORA DE BENEFÍCIOS S.A. (QUALICORP) interpôs agravo de instrumento contra decisão que, nos autos de ação de obrigação de fazer cumulada com danos morais, em sede de cumprimento provisório de sentença, movido por [NOME] ([NOME]), rejeitou impugnação e determinou o pagamento de astreintes que alcançaram o montante de R$ 800.000,00 (oitocentos mil reais).
+Ao julgar o agravo, a Corte bandeirante, deu-lhe parcial provimento, tão somente para reduzir o valor da multa à quantia de R$ 400.000,00 (quatrocentos mil reais), em acórdão a seguir ementado:
+Agravo de Instrumento Execução provisória Insurgência contra decisão que rejeitou impugnação ao cumprimento de sentença Multa por descumprimento de obrigação de fazer tem caráter coercitivo e não se confunde com indenização Desobediência Ordem judicial cumprida muito tempo depois do prazo estipulado, conforme se observa dos autos Pedido de redução acolhido Fixação de limite no importe de R$ 400.000,00 que condiz com a natureza inibitória da multa e com a capacidade econômica das partes Recurso parcialmente provido (e-STJ, fls. 467).
+Irresignada, QUALICORP interpôs recurso especial, com fundamento no art. 105, III, a e c, da Constituição Federal, alegando, a par de dissídio jurisprudencial, ofensa aos arts. 373, I e 798, I, do NCPC.
+Sustentou em suma, que a parte autora deixou de comprovar os fatos constitutivos do seu direito, que ensejariam a aplicação da suposta multa por descumprimento, enquanto a recorrente informou o cumprimento nos autos.
+Após apresentadas as contrarrazões, o recurso foi inadmitido na origem, em virtude da inexistência de violação a dispositivo de lei federal e pela incidência da Súmula nº 7 do STJ por ambas as alíneas do permissivo constitucional (e-STJ, fls. 513/518 e 519/520).
+Nas razões do agravo em recurso especial, QUALICORP afirmou que seu recurso merece trânsito, uma vez que cumpridos os requisitos necessários à admissibilidade, pugnando, ainda, pelo afastamento do óbice sumular aplicado na origem (e-STJ, fls. 469/476).
+Foi apresentada contraminuta (e-STJ, fls. 498/502).
+É o relatório.
+DECIDO.
+Presentes os requisitos necessários a admissibilidade, passo ao exame do apelo especial.
+De plano, vale pontuar que os presentes embargos de declaração foram opostos a decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Do valor da multa e seu cabimento (arts. 373, I e 798, I, do NCPC
+Não procede a alegação de que a parte autora não teria comprovado o fato constitutivo de seu direito.
+Isso porque a Corte de origem, ao apreciar o agravo de instrumento interposto pela QUALICORP reconheceu o cabimento das astreintes, nos termos da fundamentação abaixo:
+Recurso de Agravo, na modalidade de Instrumento, interposto contra decisão proferida em autos de Ação de Obrigação de Fazer, em sede de cumprimento provisório de sentença, que rejeitou impugnação e determinou o pagamento de astreintes que alcançam montante de cerca de R$ 800.000,00 (oitocentos mil reais).
+A Agravante alega, em síntese, que não houve prova do descumprimento da tutela deferida, tendo ocorrido presunção do fato pelo D. Juízo a quo. Pede a exclusão da multa fixada ou, subsidiariamente, sua redução.
+ .. .
+Trata-se de execução provisória de astreintes, que foram fixadas em decisão que deferiu tutela antecipada para determinar o restabelecimento do plano de saúde da Autora no prazo de três dias da intimação das Rés e que foi confirmada em sentença.
+O que se discute no agravo é o cabimento ou não das astreintes no caso, uma vez que a Agravante acusa o devido cumprimento da decisão que deferiu a tutela no prazo estipulado, sendo indevida a multa arbitrada.
+As imagens de tela de sistema interno apontadas na inicial do agravo (fls. 6) não são hábeis a comprovar o cumprimento da determinação judicial, dentro do prazo estipulado de três dias da intimação das Rés. São imagens de produção unilateral e que não foram trazidas aos autos originais quando da manifestação da Agravante a fls. 84/85 dos autos principais, alegando cumprimento integral da decisão.
+Aliás, como se vê, a Agravante argumentou cumprimento da decisão somente em novembro de 2013, embora dissesse tê-la cumprido desde julho de 2013. Caso assim tivesse feito de fato, deveria desde então demonstrar sua realização perante o D. Juízo a quo, porque do executado é o ônus de comprovar o cumprimento da ordem, no caso, o restabelecimento do plano no prazo de 3 (três) dias, o que ocorreu, porém em prazo muito superior ao determinado.
+A multa aplicada tem natureza coercitiva e visa obrigar a parte ao cumprimento da obrigação e não lucrativa, tampouco deve ser confundida com indenização, tendo chegado ao montante executado, em razão da desídia da Agravante em satisfazer sua obrigação.
+De se observar, no entanto, que o montante executado provisoriamente, de cerca de R$ 800.000,00 (oitocentos mil reais é demasiado e deve ser reduzido, uma vez que o valor se mostra totalmente desproporcional ao alegado prejuízo e a sua manutenção conduziria a verdadeiro enriquecimento sem causa.
+ .. .
+Destarte, considerando, de um lado o direito da Agravada e de outro a capacidade econômica da Agravante, entendo que deve ser estabelecido limite que atenda suficientemente a função inibitória da multa.
+Fixo-o em R$ 400.000,00 (quatrocentos mil reais). (e-STJ, fls. 467/472).
+Assim, para reformar o entendimento acima, de que, de fato, houve a mora da QUALICORP em cumprir a obrigação determinada, e que esta foi cumprida muito tempo após o prazo estipulado pelo juízo, mostra-se necessário o reexame do conteúdo fático-probatório dos autos, o que encontra óbice no enunciado da Súmula nº 7 do STJ.
+(2) Do dissídio jurisprudencial
+A jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissídio é apoiado em fatos e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c, do permissivo constitucional.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para CONHECER e NEGAR PROVIMENTO ao recurso especial.
+Advirto que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 77, §§ 1º e 2º, 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
