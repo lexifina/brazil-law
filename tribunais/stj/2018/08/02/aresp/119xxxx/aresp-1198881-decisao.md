@@ -1,0 +1,29 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. JORNADA DE TRABALHO. LEI DE DIRETRIZES E BASES DA EDUCAÇÃO - LDB. DEFINIÇÃO DA HORA DE TRABALHO. ANÁLISE DE RESOLUÇÃO. CONCEITO DE TRATADO OU LEI FEDERAL. NÃO ENQUADRAMENTO. ANÁLISE DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. AGRAVO EM RECURSO ESPECIAL DOS PARTICULARES A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto por [NOME], com fundamento no art. 105, III, alínea a da Constituição Federal, contra acórdão proferido pelo egrégio Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO CÍVEL - Ação Ordinária - Professores - Pretendida adequação da jornada de trabalho - Observação do limite máximo de 2/3 da carga horária com atividades de interação com alunos - Resolução SE 8/2012 - Legalidade - Observância da carga horária estabelecida na Lei 11.738/2008 - Sentença mantida - Recurso improvido (fls. 234).
+2. Os Embargos de Declaração opostos (fls. 247/259) foram rejeitados, por unanimidade (fls. 273/281).
+3. Em suas razões recursais sustenta a parte agravante violação do art. 2o., § 4o. da Lei 11.738/2008; 67, V da Lei Federal 9.394/1996; 11, III, c da Lei Complementar Federal 95/1998, aos seguintes fundamentos: (a) a Administração violou o direito líquido e certo da parte agravante quando atribuiu a jornada de trabalho conforme o disposto na Resolução SE 8/2012 em detrimento do disposto no § 4o. do art. 2o. da Lei 11.738/2008; (b) devem ser computados os 10 minutos finais da hora de trabalho no período extraclasse; e (c) equivocou-se o acórdão recorrido ao criar um novo elemento de composição da jornada de trabalho, ao sustentar o emprego da hora-classe (hora-aula) prevista no art. 10 da Lei Complementar Estadual 836/1997.
+4. O Apelo Raro foi inadmitido pela Presidência do Tribunal de origem (fls. 397), sobrevindo a interposição de Agravo (fls. 410/415).
+5. É o relatório, em síntese. Decido.
+6. No mérito, ao discorrer sobre a definição da hora a ser cumprida por profissionais da educação estadual, o Tribunal de origem assim consignou:
+A Lei Federal 11.738/2008, que instituiu o piso salarial profissional nacional para os profissionais do magistério público da educação básica, estabelece em seu art. 2o., § 4o. que:
+(..).
+Estabeleceu, ainda, que a jornada máxima de trabalho para o piso salarial da categoria é de 40 (quarenta) horas semanais.
+E para a adequação à referida lei, que foi declarada constitucional pelo STF, a Secretaria de Estado da Educação editou a Resolução SE 8/2012, que fixou a carga horária para o desempenho das atividades docentes, nos seguintes termos:
+(..).
+De sorte que a hora-aula passou a ser considerada de 50 minutos, havendo respeito aos limites impostos na lei de regência (fls. 235/238).
+7. Dessa forma, desconstituir a conclusão do acórdão recorrido de que o tempo dedicado às aulas não pode exceder 2/3 da jornada de trabalho, sem distinguir hora de trabalho dentro e fora da classe, implicaria, necessariamente, em análise da Resolução SE 8/2012 e da Lei Complementar Paulista 836/1997.
+8. Tais providências, no entanto, são vedadas em sede de Recurso Especial, respectivamente, pelo fato de Resolução não se enquadrar no conceito de tratado ou lei federal previstos no inciso III, do art. 105 da Carta Magna, e pelo óbice da Súmula 280/STF, por analogia, que veda a análise de legislação local. A esse propósito:
+PROCESSUAL CIVIL. SERVIDORES PÚBLICOS ESTADUAIS. PROFISSIONAIS DO MAGISTÉRIO. JORNADA DE TRABALHO. OFENSA AO ART. 535 DO CPC/1973. INEXISTÊNCIA. EXAME DE LEI LOCAL. SÚMULA 280/STF. DESLINDE DA CONTROVÉRSIA QUE EXIGE INTERPRETAÇÃO DE RESOLUÇÃO. ANÁLISE. INVIABILIDADE. RECURSO PARCIALMENTE CONHECIDO E, NESSA PARTE, NÃO PROVIDO.
+1. Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça. Inteligência do Enunciado Administrativo 2/STJ.
+2. Constata-se que não se configura a ofensa ao art. 535 do CPC/1973, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+3. O exame da controvérsia, tal como enfrentada pela instância ordinária, exige análise de dispositivos de legislação local (Lei Complementar Estadual 836/1997), pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF (Por ofensa a direito local não cabe recurso extraordinário).
+4. Ademais, quanto à suposta ofensa às Leis 11.738/2008 e 9.394/1996, esta seria meramente reflexa, pois o Tribunal de origem decidiu a lide com base na Resolução SE 08/2012. Assim, para o deslinde da controvérsia é imprescindível a interpretação desta Resolução.
+5. No entanto, o Recurso Especial não constitui via adequada para análise da questão, por não estar tal ato normativo compreendido na expressão lei federal constante da alínea a do inciso III do artigo 105 da Constituição Federal.
+6. Modificar a conclusão a que chegou a Corte Regional requer exame da Resolução SE 8/2012, pretensão insuscetível de ser apreciada em Recurso Especial.
+7. Recurso Especial parcialmente conhecido e, nessa parte, não provido (REsp. 1.684.461/SP, Rel. Min. HERMAN BENJAMIN, DJe 16.10.2017).
+9. Por fim, quanto à alegação de violação dos arts. 67, V da Lei Federal 9.394/1996 e 11, III, c da Lei Complementar Federal 95/1998, denota-se da leitura dos autos, que são matérias complementares às decididas no mérito, solvidas com base na Resolução 8/2012. Assim, inviável sua análise na via Especial.
+10. Ante o exposto, nego provimento ao Agravo em Recurso Especial dos Particulares.
+11. Publique-se.
+12. Intimações necessárias.
