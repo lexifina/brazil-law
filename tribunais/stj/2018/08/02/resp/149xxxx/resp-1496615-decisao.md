@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial manejado com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 168):
+ADMINISTRATIVO. LEI Nº 8.878194. ANISTIA. CONCEDIDA ANISTIA EM FAVOR DA AUTORA. READMISSÃO NO EMPREGO ANTERIORMENTE OCUPADO. POSSIBILIDADE.
+1. A remessa oficial é tida por interposta, por inexistir demonstração do valor econômico perseguido na lide, não ocorrendo, na espécie, a aplicação do artigo 475, § 2º, do CPC.
+2. Configurados os requisitos exigidos pela Lei nº 8.878/94, a autora faz jus à readmissão no emprego anteriormente ocupado. Precedentes desta Corte.
+3. Apelação do INSS e Remessa oficial, tida por interposta, parcialmente providas.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC/73 (fls. 176/181).
+A parte recorrente aponta violação aos arts. 538, parágrafo único do CPC/73; 1º e 9º do Decreto 20.910/32; 3º do Decreto 4.597/42; e 3º e 6º da Lei nº 8.878/1994. Sustenta que (I) a necessidade de se afastar a condenação em multa do art. 538 do CPC/73; (II) a ocorrência da prescrição do fundo de direito, sob o argumento de que a partir da edição da Lei nº 8.878/94 começou a fluir o prazo prescricional para o requerimento da anistia, de forma que "com a edição do ato que autorizou o retorno do recorrido ao serviço público, Portaria/INSS nº 4.336 de 31.12.1994, a prescrição pela metade consumou-se em 31.06.1997 (..) A Portaria em questão é ato que interrompe a prescrição e a partir daí se começa a fluir a prescrição pela metade" (fl. 201); e (III) que os efeitos financeiros decorrentes do retorno dos servidores ao quadro funcional somente são devidos a partir do início das atividades, não gerando qualquer efeito retroativo.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+A irresignação comporta parcial acolhida.
+Inicialmente, em relação à tese prescricional, verifica-se que Tribunal de origem não se manifestou sobre a alegação de que a Portaria/INSS 4.333 de 1994 interromperam a prescrição, voltando o prazo prescricional a correr pela metade, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ainda, a matérias pertinentes aos arts. 3º e 6º da Lei nº 8.878/94 também não foram apreciadas pela instância judicante de origem, não tendo sido opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide, o aludido verbete nº 282/STF.
+Por fim, no que toca à suposta afronta ao art. 538, parágrafo único, do CPC/73, a irresignação merece acolhida, pois a condenação à penalidade prevista no referido artigo de lei exige que os embargos aclaratórios sejam "manifestamente protelatórios", o que não se coaduna com a situação dos autos.
+Assim, na linha da firme jurisprudência do STJ, a multa imposta em razão da oposição dos aclaratórios (art. 538, parágrafo único, do CPC) deve ser afastada, nos termos da Súmula 98/STJ ("Embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório").
+A propósito:
+RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. VIOLAÇÃO DOS ARTS. 165 E 458, II, 535, II, DO CPC. NÃO OCORRÊNCIA. QUITAÇÃO. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. MULTA AFASTADA.
+1. Ação ajuizada em 24/01/14. Recurso especial interposto em 06/06/16 e concluso ao gabinete em 05/07/17. Julgamento: CPC/15.
+2. O propósito recursal consiste em definir: i) se há negativa de prestação jurisdicional, ii) se deve ser declarada a validade e eficácia da quitação do acordo celebrado entre os litigantes; iii) se deve ser afastada a multa por embargos protelatórios.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em negativa de prestação jurisdicional.
+4. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+6. Afasta-se a multa do parágrafo único do art. 538 do CPC/73 quando não se caracteriza o intento protelatório na interposição dos embargos de declaração.
+7. Recurso especial parcialmente conhecido e, nessa extensão, provido em parte.
+(REsp 1705964/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 19/06/2018, DJe 25/06/2018)
+Ante o exposto, conheço em parte do recurso especial e, na parte conhecida, dou-lhe parcial provimento, apenas para afastar a multa imposta com esteio no art. 538, parágrafo único, do CPC/73.
+Publique-se.
