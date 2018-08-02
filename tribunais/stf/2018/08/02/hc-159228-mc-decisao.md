@@ -1,0 +1,20 @@
+DECISÃO
+JULGAMENTO – SUPERIOR TRIBUNAL DE JUSTIÇA – DEMORA.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Dr. Gustavo Mascarenhas Lacerda Pedrina prestou as seguintes informações:
+    O Juízo da Terceira Vara Criminal da Comarca de São José dos Campos/SP, no processo nº 0025714-84.2017.8.26.05777, deixou de acolher manifestação do Ministério Público pela prisão preventiva do paciente e de outros acusados, em virtude do suposto cometimento dos delitos previstos nos artigos 35, cabeça (associação para o tráfico de drogas), combinado com o 50, incisos III, IV e VI (em unidades policiais, com causas de aumento de pena alusivas a emprego de violência, grave ameaça, uso de arma de fogo e participação de menor de idade), da Lei nº 11.343/2006, 2º, parágrafos 2º e 4º (integrar organização criminosa armada e em concurso com funcionário público), da Lei nº 12.850/2013 e 317, § 1º (corrupção passiva com causa de aumento), do Código Penal. Determinou o desmembramento do processo em relação ao paciente, autuado sob o nº 0030922-49.2017.8.26.0577.
+    O Ministério Público, ante o indeferimento do pedido, formalizou, no Tribunal de Justiça, a medida cautelar inominada em recurso em sentido estrito nº 2224365-13.2017.8.26.0000. A Sétima Câmara Criminal, concluindo pela adequação da medida processual, proveu-a. Apontou o envolvimento no grupo criminoso em razão de elementos de convicção obtidos por escuta telefônica, nos quais surgiram menções nominais ao paciente. Sublinhou, também indicando conversas interceptadas, indicativos do recebimento, a título de vantagem indevida, por duas vezes, de R$ 1.500,00.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 428.225. O Relator, em 6 de dezembro de 2017, indeferiu a liminar.
+    Os impetrantes sustentam estar caracterizado constrangimento ilegal, consistente na demora na apreciação, pelo Superior, do mérito da impetração. Aduzem encontrar-se o processo, após a juntada do parecer do Ministério Público Federal, em 21 de fevereiro de 2018, concluso ao Relator. Ressaltam a prioridade conferida por dispositivo regimental ao processamento de habeas corpus, dizendo ser desarrazoado o lapso de 4 meses.
+    Requerem, no campo precário e efêmero, a expedição de alvará de soltura; sucessivamente, postulam seja determinado ao Superior Tribunal de Justiça que examine, na primeira sessão subsequente ao conhecimento da decisão, o habeas. No mérito, buscam a confirmação da providência.
+    A Presidência do Supremo, em 4 de julho de 2018, concluindo pela inadequação do que veiculado com o artigo 13, inciso VIII, do Regimento Interno do Supremo, não apreciou a medida acauteladora.
+    Em consulta ao sítio do Superior, realizada em 25 de julho de 2018, verificou-se que o habeas corpus está pendente de julgamento.
+    A fase é de análise da liminar.
+    2. Os impetrantes, advogados regularmente inscritos na Ordem dos Advogados do Brasil, no tocante ao pedido alusivo à revogação da prisão cautelar, não fizeram constar, na inicial, as razões pelas quais a reputam reveladora de constrangimento ilegal, surgindo inviável o exame da pretensão.
+    Mostra-se relevante o que articulado quanto ao excesso de prazo na apreciação do mérito do habeas corpus nº 428.225, em trâmite no Superior Tribunal de Justiça. Observem que, em 21 de fevereiro de 2018, houve a juntada do parecer do Ministério Público Federal, estando o processo, desde então, concluso ao Relator, isto é, há mais de 5 meses. A par disso, o paciente encontra-se preso, aguardando o julgamento da impetração. Tem-se como adequado o implemento da medida acauteladora.
+    3. Defiro a liminar para determinar ao Relator do habeas corpus nº 428.225, ministro Ribeiro Dantas, que examine, na primeira sessão subsequente ao conhecimento desta decisão, o habeas. Remetam cópia deste pronunciamento a Sua Excelência, com as homenagens merecidas.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 2 de agosto de 2018.
+Ministro MARCO AURÉLIO
+Relator
