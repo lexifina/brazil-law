@@ -1,0 +1,38 @@
+EMENTA
+ADMINISTRATIVO E PROCESSO CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE NÃO CONHECEU DO AGRAVO EM RECURSO ESPECIAL ANTE A INCIDÊNCIA DA SÚMULA 182/STJ. REVEICULAÇÃO DAS ALEGAÇÕES MERITÓRIAS DO RECURSO ESPECIAL. ARGUMENTAÇÃO QUE VEICULA RAZÕES DISSOCIADAS DO FUNDAMENTO DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA 284/STF. PRECEDENTES DO STJ: AGINT NO RESP. 1.593.467/AC, REL. MIN. MAURO CAMPBELL MARQUES, DJE 26.2.2018 E AGINT NO ARESP. 910.286/PB, REL. MIN. GURGEL DE FARIA, DJE 21.11.2017. AGRAVO REGIMENTAL DO ESTADO DE RONDÔNIA NÃO CONHECIDO.
+1. A decisão agravada não conheceu do AREsp. forte na aplicação da Súmula 182/STJ. Entretanto, no agravo, as razões reveiculam os argumentos de mérito do Recurso Especial, deixando, pois, de se insurgir contra o fundamento da decisão agravada.
+2. A jurisprudência deste STJ já firmou entendimento de que a veiculação de razões recursais dissociadas do fundamento da decisão configura hipótese de aplicação da Súmula 284/STF a ensejar o não conhecimento do recurso.
+3. Agravo Regimental do ESTADO DE RONDÔNIA não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, não conhecer do Agravo Regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Regimental interposto pelo ESTADO DE RONDÔNIA, em face da decisão que não conheceu do seu Agravo em Recurso Especial, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DO DECISUM AGRAVADO. SÚMULA 182/STJ. MULTA POR LITIGÂNCIA DE MÁ-FÉ APLICADA NO JUÍZO DE ADMISSIBILIDADE. AFASTAMENTO. AGRAVO PARCIALMENTE CONHECIDO E, NESTA PARTE, PROVIDO (fls. 236).
+2. Em suas razões, o agravante sustenta, em síntese, que os fundamentos da decisão de inadmissibilidade do Recurso Especial foram atacados de forma satisfatória. Assevera que eventual deficiência formal do recurso deve ser analisada, no caso presente, conjuntamente com a constatação de que a jurisprudência dessa Corte admite a configuração do prequestionamento, mesmo que não haja menção expressa aos dispositivos legais tidos por violados.
+3. Pugna, desse modo, pela reconsideração da decisão ora atacada ou a apresentação do feito à Turma Julgadora para que seja provido o Recurso Especial.
+4. É o relatório.
+VOTO
+ADMINISTRATIVO E PROCESSO CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE NÃO CONHECEU DO AGRAVO EM RECURSO ESPECIAL ANTE A INCIDÊNCIA DA SÚMULA 182/STJ. REVEICULAÇÃO DAS ALEGAÇÕES MERITÓRIAS DO RECURSO ESPECIAL. ARGUMENTAÇÃO QUE VEICULA RAZÕES DISSOCIADAS DO FUNDAMENTO DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA 284/STF. PRECEDENTES DO STJ: AGINT NO RESP. 1.593.467/AC, REL. MIN. MAURO CAMPBELL MARQUES, DJE 26.2.2018 E AGINT NO ARESP. 910.286/PB, REL. MIN. GURGEL DE FARIA, DJE 21.11.2017. AGRAVO REGIMENTAL DO ESTADO DE RONDÔNIA NÃO CONHECIDO.
+1. A decisão agravada não conheceu do AREsp. forte na aplicação da Súmula 182/STJ. Entretanto, no agravo, as razões reveiculam os argumentos de mérito do Recurso Especial, deixando, pois, de se insurgir contra o fundamento da decisão agravada.
+2. A jurisprudência deste STJ já firmou entendimento de que a veiculação de razões recursais dissociadas do fundamento da decisão configura hipótese de aplicação da Súmula 284/STF a ensejar o não conhecimento do recurso.
+3. Agravo Regimental do ESTADO DE RONDÔNIA não conhecido.
+1. A despeito das bem lançadas alegações da parte agravante, razão não lhe assiste.
+2. Ocorre que tendo sido aplicada a Súmula 182/STJ, a maneira pela qual a parte dispõe para reverter tal determinação é através da efetiva demonstração de que no recurso anterior, no caso, no Agravo em Recurso Especial, apresentou argumentação específica contra todos os fundamentos da decisão hostilizada.
+3. Todavia, na espécie, não se verifica esta ocorrência, porquanto insiste a parte agravante em reavivar as teses sobre o mérito da causa, mesmo objetivando a reforma de decisão que não conheceu de seu recurso que se destinava a destrancar o primitivo Apelo Raro.
+4. Desta maneira, as razões recursais trazidas no Regimental estão dissociadas do fundamento da decisão recorrida, qual seja, a aplicação da Súmula 182/STJ.
+5. A jurisprudência deste STJ, reiteradamente, vem aplicando o óbice da Súmula 284/STF ao recurso que veicula razões recursais desalinhadas do conteúdo da decisão recorrido, como ocorre no presente caso. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. ENUNCIADO ADMINISTRATIVO N. 3/STJ. AGRAVO INTERNO NO RECURSO ESPECIAL. LICITAÇÃO. PREGÃO. VIOLAÇÃO DO ART. 535 DO CPC/1973. SÚMULA 284/STF. PRESTAÇÃO DE SERVIÇOS. NECESSIDADE DE PLANILHAS DETALHADAS DE QUANTIDADE E PREÇOS UNITÁRIOS DOS INSUMOS. FUNDAMENTAÇÃO NÃO IMPUGNADA. SÚMULA 283/STJ. PREGÃO. REGRAS. INEXISTÊNCIA DE CONTEÚDO NORMATIVO. SÚMULA 284/STF. CLÁUSULAS DO EDITAL. SÚMULA 5/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. A apontada violação ao art. 535 do COC/1973 (atual 1022 do CPC/2015) não foi suficientemente comprovada, vez que as alegações que fundamentam a pretensa ofensa são genéricas, sem discriminação dos pontos em que efetivamente houve omissão, contradição ou obscuridade ou sobre os quais tenha ocorrido erro material. Incidência da Súmula 284/STF.
+(..).
+4. Estando as razões do recurso dissociadas e cujos dispositivos contêm comando normativo incapaz de infirmar o que decidido no acórdão recorrido, é inadmissível o inconformismo por deficiência na sua fundamentação. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+(..).
+6. Agravo interno não provido (AgInt no REsp. 1.593.467/AC, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 26.2.2018).
+
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. IRRESIGNAÇÃO DEFICIENTE. SÚMULA 284 DO STF. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Não enfrentada no acórdão recorrido a ofensa ao dispositivo legal tido por violado (art. 8º, III, da Lei n. 6.830/1980), carece o apelo nobre do indispensável prequestionamento, a teor do disposto na Súmula 282 do STF.
+3. A deficiência das razões recursais, porquanto dissociadas do que foi efetivamente decidido pelo acórdão recorrido, enseja o não conhecimento do apelo especial, nos termos da Súmula 284 do STF.
+4. A revisão do julgado estadual sob a alegação de que a citação editalícia ocorrera dentro do prazo prescricional pressupõe reexame de matéria fática, inviável no âmbito do recurso especial, nos termos da Súmula 7 do STJ.
+5. Agravo interno não provido (AgInt no AREsp. 910.286/PB, Rel. Min. GURGEL DE FARIA, DJe 21.11.2017).
+6. Ante o exposto, não se conhece do Agravo Regimental do ESTADO DE RONDÔNIA. É como voto.
