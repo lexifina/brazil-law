@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe, assim ementado:
+    “RECURSO INOMINADO. AÇÃO DE COBRANÇA PELA LEI 12.159/09. SERVIDORES PÚBLICOS MUNICIPAIS. REAJUSTE SALARIAL. PISO NACIONAL DA EDUCAÇÃO BÁSICA. PERCENTUAIS DE REAJUSTE QUE DEVEM SER APLICADOS SOBRE O PISO SALARIAL, INCIDINDO-SE EM SEGUIDA OS ÍNDICES DE ESCALONAMENTO VERTICAL E HORIZONTAL DA CARREIRA PREVISTA NA LEGISLAÇÃO MUNICIPAL, LCM 32/2010. RECURSO CONHECIDO E DESPROVIDO.”
+    O recurso extraordinário busca fundamento no art. 102, III, c, da Constituição Federal. A parte recorrente alega violação aos arts. 18, caput; e 37, X e XIII, da CF.
+    A decisão agravada negou seguimento ao recurso pelos seguintes fundamentos: (i) “A decisão recorrida, ao manter a sentença que obrigou o recorrente ao proceder ao reajuste dos vencimentos de profissionais do magistério conforme o piso nacional estabelecido para professores da educação básica a partir da Lei Federal nº 11.738/2008, está de acordo com a jurisprudência do Supremo Tribunal Federal”; (ii) incide, no caso, a Súmula 280/STF.
+    O recurso é inadmissível, tendo em vista que, para chegar a conclusão diversa do acórdão recorrido, seria imprescindível a análise da legislação infraconstitucional pertinente, o que é inviável em recurso extraordinário. Nesse sentido, cito os seguintes precedentes: ARE 1.148.682, Rel. Min. Ricardo Lewandowski; ARE 1.111.197, Rel. Min. Marco Aurélio; e ARE 1.092.189, Rel. Min. Edsno Fachin.
+    Ademais, o Tribunal de origem não julgou válidos lei ou ato de governo local contestados em face da Constituição, o que inviabiliza o recurso extraordinário com base na alínea c do inciso III do art. 102 da CF. Nesse sentido, confira-se a ementa do AI 792.964-ED, julgado sob a relatoria da Ministra Cármen Lúcia:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. É INCABÍVEL O RECURSO EXTRAORDINÁRIO INTERPOSTO COM FUNDAMENTO NO ART. 102, INC. III, ALÍNEA C, DA CONSTITUIÇÃO DA REPÚBLICA QUANDO NÃO HÁ APLICAÇÃO DE LEI LOCAL EM DETRIMENTO DA CONSTITUIÇÃO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 02 de agosto de 2018.
+Ministro Luís Roberto Barroso
+Relator
