@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo, consubstanciado na seguinte ementa (e-STJ fl. 174):
+APELAÇÃO DA AUTARQUIA JULGADA DESERTA POR AUSÊNCIA DE RECOLHIMENTO DO PORTE DE REMESSA E RETORNO - OBRIGATORIEDADE POR IMPOSIÇÃO DA LEI ESTADUAL 11.608103 - DESERÇÃO.
+"O não recolhimento do porte de remessa e retorno previsto pela Lei 11.608103 no ato da interposição da apelação obsta o seu processamento".
+ACIDENTÁRIA  PROCEDÊNCIA  DIREITO PERSEGUIDO INFERIOR A 60 SALÁRIOS MÍNIMOS  REMESSA OFICIAL NÃO CONHECIDA  INTELIGÊNCIA DO §2º DO ARTIGO 475 DO CPC.
+Apelação da Autarquia julgada deserta e recurso oficial não conhecido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 192/199).
+Nas razões recursais, em primeiro lugar, o INSS aponta violação do art. 535 do CPC/73, pois entende que o acórdão dos aclaratórios teria deixado de analisar as questões propostas.
+Superado o tema, tem por violados o art. 475, I, § 2º, do CPC/73 e o art. 10 da Lei n. 9.469/1997, ao argumento de que é obrigatório o reexame necessário de sentença ilíquida proferida contra a União, os Estados, o Distrito Federal, os Municípios e as respectivas autarquias e fundações de direito público.
+Por fim, alega que o recurso de apelação não poderia ter sido declarado deserto, pois, nos termos do art. 27 do CPC/73, as despesas processuais da Fazenda Pública, aí incluído o porte de remessa e retorno, deveriam ser pagas apenas ao final da demanda pela parte vencida.
+Contrarrazões às e-STJ fls. 239/241.
+O Presidente da Seção de Direito Público do Tribunal de Justiça do Estado de São Paulo, em razão do julgamento pelo STJ do REsp 1.101.727/PR, Rel. Min. Hamilton Carvalhido, Corte Especial, DJe 23/08/2010, e do RE 594.116/SP, Rel. Min. Edson Fachin, DJe 05/04/2016, julgado pelo STF (Tema 135, Repercussão Geral), determinou o retorno dos autos à Turma Julgadora para fins do disposto no art. 1.040, II, do CPC/15.
+A decisão foi mantida (e-STJ fls. 256/261).
+Juízo positivo de admissibilidade do recurso especial pelo Tribunal de origem às e-STJ fls. 265/266.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado 2).
+No que diz respeito à indigitada ofensa ao art. 535 do CPC, observa-se que o acórdão impugnado apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, não se vislumbrando, na espécie, nenhuma contrariedade à norma invocada.
+Por oportuno, cito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC. DESVIO DE FUNÇÃO. NÃO COMPROVAÇÃO NA ORIGEM. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Não caracteriza violação do art. 535 do CPC quando a lide é decidida de modo claro, suficiente e fundamentado, ainda que o entendimento adotado seja contrário à pretensão deduzida pelo recorrente.
+2. O acórdão recorrido concluiu, levando em consideração depoimento pessoal e relato de testemunhas, que o servidor não laborava em desvio de função. Insuscetível de revisão o referido entendimento, por demandar reexame do conjunto fático-probatório, providência vedada pela Súmula 7/STJ.
+Agravo regimental improvido.
+(AgRg no REsp 1570382/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 03/03/2016, DJe 11/03/2016) (Grifos acrescidos).
+Ademais, consoante entendimento jurisprudencial pacífico, o órgão julgador não está obrigado a se manifestar sobre todos os argumentos levantados pelas partes para expressar a sua convicção, notadamente quando encontrar motivação suficiente ao deslinde da causa.
+Quanto à alegação de violação do art. 27 do CPC de 1973, tenho que o pleito da autarquia não merece conhecimento.
+Isso porque o Tribunal de origem decidiu a questão com fundamento na Lei estadual n. 11.608/03, de forma que a revisão do julgado esbarraria no óbice contido na Súmula 280 do STF, segundo a qual "por ofensa a direito local não cabe recurso extraordinário", aplicada à espécie por analogia.
+Ilustrativamente:
+PROCESSUAL CIVIL. APELAÇÃO INTERPOSTA PELO INSS. FALTA DE PAGAMENTO DO PORTE DE REMESSA E RETORNO. IMPOSIÇÃO DA LEI ESTADUAL 11.608/2003. AUSÊNCIA DE OMISSÃO, ART. 535, II, DO CPC.
+1. Não se configura a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+2. O Tribunal bandeirante consignou: "Com efeito, a Lei Estadual nº 11.608, de 29 de dezembro de 2003, que disciplina a taxa judiciária em nosso Estado Bandeirante, não deixa dúvida, ao assentar no seu artigo 6º, que as Autarquias Federais estão isentas do recolhimento de taxa judiciária. Todavia, essa mesma Lei, no inciso II do artigo 2º, posiciona expressamente que na taxa judiciária não se incluem ".. As despesas com o porte de remessa e de retorno dos autos, no caso de recurso, cujo valor será estabelecido por ato do Conselho Superior da Magistratura".
+3. A apreciação dos aspectos concernentes à Leis estadual 11.608/2003, no que concerne à cobrança do porte de remessa e retorno para interpor o Recurso de Apelação, demanda análise de Direito local, o que faz incidir, por analogia, o óbice constante da Súmula 280 do Supremo Tribunal Federal, in verbis: "Por ofensa a direito local não cabe recurso extraordinário".
+4. Recurso Especial conhecido parcialmente e, nessa parte, não provido.
+(REsp 1607048/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/06/2016, DJe 06/09/2016)
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. FAZENDA DO ESTADO DE SÃO PAULO. PORTE DE REMESSA E RETORNO. DESERÇÃO. ALEGAÇÃO DE DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO EXPRESSA DO DISPOSITIVO DE LEI FEDERAL TIDO POR VIOLADO. SÚMULA 284/STF. ACÓRDÃO RECORRIDO AMPARADO EM LEI ESTADUAL. INVIABILIDADE DE ANÁLISE DE LEI LOCAL. SÚMULA 280/STF. AGRAVO REGIMENTAL DA FAZENDA DO ESTADO DE SÃO PAULO DESPROVIDO.
+1. A interposição do Recurso Especial com fundamento na alínea c não dispensa a indicação do dispositivo de lei federal ao qual o Tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais.
+2. Ainda que assim não fosse, a controvérsia relativa à isenção do pagamento do porte de remessa e retorno foi solucionada pelo Tribunal a quo com amparo na Lei Estadual 11.608/2003. Incidência da Súmula 280/STF.
+3. Agravo Regimental da Fazenda do Estado de São Paulo desprovido.
+(AgRg no AREsp 192.979/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 26/08/2014, DJe 11/09/2014)
+Nesse mesmo sentido, as seguintes decisões monocráticas: REsp 1.715.189/SP, Rel. Min. Assusete Magalhães, DJe 02/02/2018, REsp 1.715.180/SP, Rel. Min. Assusete Magalhães, DJe 02/02/2018, REsp 1.712.370/SP, Rel. Min. Herman Benjamin, DJe 19/12/2017.
+O apelo da autarquia, no entanto, merece prosperar no que diz respeito à remessa necessária, pois, apesar da iliquidez da condenação imposta ao recorrente, o Tribunal de origem não conheceu do recurso necessário por entender que "o proveito econômico perseguido nos presentes autos não atinge 60 salários mínimos  .. " (e-STJ fl. 177).
+Sobre o tema, a Corte Especial do STJ, no julgamento do REsp n. 1.101.727/PR, proferido sob o rito do art. 543-C do CPC de 1973, firmou o entendimento segundo o qual é obrigatório o reexame da sentença ilíquida proferida contra a União, os Estados, o Distrito Federal, os Municípios e as respectivas autarquias e fundações de direito público.
+Na esteira da aludida compreensão foi editada a Súmula 490 do STJ: "A dispensa de reexame necessário, quando o valor da condenação ou do direito controvertido for inferior a sessenta salários mínimos, não se aplica a sentenças ilíquidas."
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC. INEXISTÊNCIA. SENTENÇA SUJEITA A REEXAME NECESSÁRIO. FALTA DE JULGAMENTO. INEFICÁCIA DO TÍTULO JUDICIAL. NULIDADE CONSTATADA PELO TRIBUNAL DE ORIGEM. SÚMULA 423/STF. MATÉRIA DE ORDEM PÚBLICA. ACÓRDÃO RECORRIDO EM SINTONIA COM O ENTENDIMENTO DO STJ. RECURSO NÃO PROVIDO.
+1. Não se viabiliza o Recurso Especial pela alegada violação do art. 1.022 do CPC. Isso porque, embora rejeitados os Embargos de Declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. 2. Afigura-se acertado o acórdão recorrido que, com fundamento na Súmula 423/STF, declarou nula a execução contra a Fazenda Pública, porquanto foi constatada a ausência de título executivo (sentença não submetida ao reexame necessário).
+3. Consigne-se que a questão concernente ao reexame necessário consiste em matéria de ordem pública, cognoscível de ofício em qualquer tempo e grau de jurisdição.
+4. O STJ possui o entendimento de que somente ser dispensado o reexame necessário com base no § 2º do art. 475 do CPC/1973 somente em casos em que a sentença seja líquida e o valor nela quantificado não exceda a 60 (sessenta) salários mínimos, o que não ocorre no caso, porque a sentença é ilíquida. Aplicação da Súmula 490/STJ.
+5. Recurso Especial não provido. (REsp 1.680.899/SC, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 09/10/2017)
+PROCESSO CIVIL. REEXAME NECESSÁRIO. SENTENÇA ILÍQUIDA. A sentença ilíquida proferida contra a União, o Estado, o Distrito Federal, o Município e as respectivas autarquias e fundações de direito público está sujeita ao duplo grau de jurisdição, não produzindo efeito senão depois de confirmada pelo tribunal; a exceção contemplada no § 2º do art. 475 do Código de Processo Civil supõe, primeiro, que a condenação ou o direito controvertido tenham valor certo e, segundo, que o respectivo montante não exceda de 60 (sessenta) salários mínimos. Recurso especial provido. (REsp 1.300.505/PA, Relator Ministro ARI PARGENDLER, PRIMEIRA TURMA, DJe 01/09/2014).
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PARCIAL PROVIMENTO ao recurso especial para determinar que o Tribunal de origem, conhecendo da remessa necessária, prossiga no julgamento da questão como entender de direito.
+Publique-se.
+Intimem-se.
