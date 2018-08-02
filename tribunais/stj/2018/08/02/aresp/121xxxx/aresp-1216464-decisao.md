@@ -1,0 +1,31 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. ADICIONAL DE INSALUBRIDADE. CONCESSÃO. REVISÃO. INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. IMPOSSIBILIDADE. AGRAVO EM RECURSO ESPECIAL DOS PARTICULARES A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto por [NOME] MARIA [NOME] E OUTROS, com fundamento no art. 105, III, alínea a da Constituição Federal, contra acórdão proferido pelo egrégio TRF da 2a. Região, assim ementado, por seu caput:
+APELAÇÃO CÍVEL. REMESSA NECESSÁRIA. ADMINISTRATIVO. SERVIDOR PÚBLICO. ADICIONAL DE INSALUBRIDADE. ÔNUS PROBATÓRIO DO DEMANDANTE. COMPROVAÇÃO DE EXERCÍCIO EM LOCAL INSALUBRE. LAUDO PERICIAL. CORREÇÃO MONETÁRIA. MANUAL DE CÁLCULOS DA JUSTIÇA FEDERAL PARA O PAGAMENTO DE PRECATÓRIOS. JUROS DE MORA. TAXA DE 0,5% (MEIO POR CENTO) AO MÊS TAMBÉM NO QUE SE REFERE AO PERÍODO POSTERIOR A JUNHO DE 2009. INCONSTITUCIONALIDADE, EM PARTE. POR ARRASTAMENTO. DO ART. 1o.-F DA LEI 9.494, COM A REDAÇÃO ATRIBUÍDA PELO ART. 5o. DA LEI 11.960, DE 29 DE JUNHO DE 2009. SUPREMO TRIBUNAL FEDERAL. ADIS 4.425 E 4.357. SENTENÇA REFORMADA EM PARTE (fls. 500).
+2. Aos Embargos de Declaração opostos (fls. 506/518) foram negados provimento, por unanimidade (fls. 530/540).
+3. Em suas razões recursais sustenta a parte agravante violação dos arts. 68 da Lei 8.112/1990; 12 da Lei 8.270/1991, aos seguintes fundamentos: (a) fazem jus à percepção do adicional de insalubridade por laborarem em contato direto com agentes insalubres; e (b) o acórdão recorrido não aplicou o percentual correto do adicional a que fazem jus, pretendendo, as partes agravantes, alterar de grau médio para grau máximo o percentual relativo ao adicional de [NOME], [NOME] e [NOME] e conceder o adicional no grau médio a [NOME] e [NOME]
+4. O Apelo Raro foi inadmitido pela Presidência do Tribunal de origem (fls. 582), sobrevindo a interposição de Agravo (fls. 584/598).
+5. É o relatório, em síntese. Decido.
+6. No mérito, o Tribunal de origem, com base nos elementos fático-probatórios constantes dos autos, chegou às seguintes conclusões:
+a) entendeu não ser devido o adicional de insalubridade em grau máximo para os recorrentes [NOME], [NOME] e [NOME], por não fazerem uso direto da substância cádmio;
+b) quanto à recorrente [NOME], entendeu não ter direito à percepção do adicional, à luz do laudo pericial constante dos autos, por não restar caracterizada a insalubridade na atividade por ela desempenhada;
+c) não fazer jus ao adicional a recorrente [NOME], pelo fato de a perícia realizada pelo método quantitativo, haver concluído não haver ultrapassado o limite de tolerância estabelecido Quadro 01 do Anexo 11 da NR 15 para as substâncias acetato de sódio e amônia;
+d) manter em grau médio, fundamentando-se em laudos periciais, o adicional para os recorrentes [NOME], [NOME] e [NOME] e [NOME], em conformidade com o Anexo 13 da NR 15.
+7. Dessa forma, desconstituir tais premissas, implicaria, necessariamente, em incursão no acervo fático-probatório constante dos autos, o que, no entanto, é vedado em sede de Recurso Especial. A esse propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO ESTADUAL. APOSENTADORIA ESPECIAL. INSALUBRIDADE. ACÓRDÃO CONSIGNOU QUE FICOU COMPROVADO O EXERCÍCIO DE ATIVIDADE INSALUBRE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No caso dos autos, o Tribunal de origem consignou que a parte agravada logrou êxito em demonstrar seu direito líquido e certo em obter a aposentadoria especial, decorrente do exercício de atividade insalubre. Assim, alterar tal entendimento requer o reexame de matéria de prova, que é inviável em sede de recurso especial (Súmula 7/STJ).
+2. Agravo interno não provido (AgInt no AREsp. 1.167.539/RN, Rel. Min. MAURO CAMPBELL MARQUES, DJe 3.5.2018).
+
+PROCESSUAL CIVIL E PREVIDENCIÁRIA. RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. ALEGADA OFENSA AOS ARTS. 130 E 333 DO CPC/1973. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. APOSENTADORIA ESPECIAL. INSALUBRIDADE NÃO RECONHECIDA. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+1. Cuida-se, na origem, de Ação de Revisão de Benefício Previdenciário movida por servidor público municipal, objetivando o reconhecimento do seu tempo de serviço prestado em condições de insalubridade, como contagem especial, para fins de aposentadoria.
+2. Não merece conhecimento o apelo no que se refere à contrariedade aos arts. 130 E 333 do CPC/1973. Isso porque o acórdão impugnado não emitiu juízo de valor acerca dos dispositivos infraconstitucionais tidos por violados, motivo pelo qual, à falta do prequestionamento, não se poderia conhecer do Recurso Especial, sendo aplicável ao caso o princípio estabelecido na Súmula 282/STF.
+3. Hipótese em que o Tribunal a quo consignou que a parte não comprovou o exercício de atividades insalubres. A revisão desse entendimento implica reexame de fatos e provas, obstado pelo teor da Súmula 7/STJ.
+4. Recurso Especial não conhecido (REsp. 1.694.445/SP, Rel. Min. HERMAN BENJAMIN, DJe 19.12.2017).
+
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TEMPO ESPECIAL. COMPROVAÇÃO. NEGATIVA DE USO DE FORMULÁRIO. ALEGAÇÃO DISSOCIADA DO JULGADO. SÚMULA 284/STF. ALEGAÇÃO DE EFETIVA EXPOSIÇÃO A AGENTES INSALUBRES. SÚMULA 7/STJ.
+1. A alegação de que o Tribunal de origem considerou insuficiente o formulário embasado em laudo técnico como meio de prova de exposição a agentes insalubres está dissociada do que consta dos autos, pois aquela Corte manifestou-se de forma contrária ao alegado, como demonstrado por transcrições do voto condutor do acórdão recorrido. Incidência da Súmula 284/STF.
+2. Como salientado pela decisão combatida, fundada a convicção da Corte a quo nos elementos de prova colacionados aos autos, somente poderia ser infirmada por meio da análise das provas, atraindo a incidência da Súmula 7/STJ.
+3. Agravo interno a que se nega provimento, com aplicação de multa de 2% do valor da causa, nos termos do art. 1.021, § 4o., do CPC/2015 (AgInt no AREsp. 542.145/PR, Rel. Min. OG FERNANDES, DJe 17.10.2017).
+8. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial dos Particulares.
+9. Publique-se.
+10. Intimações necessárias.
