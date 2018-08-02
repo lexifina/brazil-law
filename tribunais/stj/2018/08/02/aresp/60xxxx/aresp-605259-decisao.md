@@ -1,0 +1,26 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto com fundamento nas alíneas a e c do art. 105, III da Constituição Federal, no qual se insurge contra acórdão proferido pelo Tribunal Regional Federal da 4a. Região, assim ementado:
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. OBRIGAÇÃO DE FAZER. HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE CONTEÚDO ECONÔMICO.
+1. A parte exequente optou por ingressar com execuções distintas, uma execução da obrigação de pagar e outra execução da obrigação de fazer, o resultado não poderia ser outro que não fixação de honorários com base em valores distintos.
+2. A decisão transitada em julgado, ora executada, determina a incidência de honorários advocatícios em 15% sobre o valor exequendo. Considerando que a execução da obrigação de fazer não possui conteúdo econômico, deve-se adotar como base de cálculo o valor atribuído à causa.
+3. Agravo de instrumento provido (fls. 262).
+2. Nas razões do seu Apelo Nobre, o recorrente defende a fixação dos honorários advocatícios com base no valor da condenação, e não no valor da causa.
+3. É o relatório. Decido.
+4. O entendimento adotado pela Corte de origem encontra amparo na jurisprudência do STJ, conforme demonstram os seguintes precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AO ART. 1.022 DO CPC/1973. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. SERVIDOR PÚBLICO. EMBARGOS À EXECUÇÃO. GDASS. APOSENTADORIA PROPORCIONAL E INTEGRAL. DISTINÇÃO. AUSÊNCIA DE PREVISÃO LEGAL. PRECEDENTES DO STJ. HONORÁRIOS ADVOCATÍCIOS. REVISÃO EM RECURSO ESPECIAL. EXORBITÂNCIA E IRRISORIEDADE NÃO VERIFICÁVEIS DE PLANO. MAJORAÇÃO DO QUANTUM. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL DA UNIÃO.
+ (..).
+3. A Primeira Seção do STJ, por ocasião do julgamento do REsp 1.155.125/MG (em 10.3.2010, DJe 6.4.2010), relatoria do Ministro Castro Meira, submetido ao regime dos recursos repetitivos, reafirmou a orientação no sentido de que, "vencida a Fazenda Pública, a fixação dos honorários não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC, ou mesmo um valor fixo, segundo o critério de equidade".
+4. Hipótese em que a Corte de origem consignou: "Considerando se tratar de causa simples, que não demandou grande esforço nem tempo do advogado, razoável figura-se a quantia fixada de R$ 1.500,00 (um mil e quinhentos reais)".
+5. Rever o entendimento da Corte regional, relativamente ao quantum da verba honorária, demanda revolvimento do conjunto fático-probatório, visto que a instância a quo utilizou elementos contidos nos autos para alcançar tal entendimento. Incide, no ponto, o óbice da Súmula 7/STJ.
+6. Recursos Especial não providos (REsp. 1.695.279/PB, Rel. Min. HERMAN BENJAMIN, DJe 19.12.2017).
+
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. DISCUSSÃO ACERCA DA BASE DE CÁLCULO DA GRATIFICAÇÃO ESPECIAL DE LOCALIDADE. VERBA HONORÁRIA FIXADA EM MENOS DE 1% DO VALOR DA CAUSA. VALOR CONSIDERADO IRRISÓRIO PELO STJ. INAPLICABILIDADE DA SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE PROVIDO PARA FIXAR OS HONORÁRIOS DOS EMBARGOS À EXECUÇÃO EM 1% SOBRE O VALOR CONTROVERTIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. É absolutamente tranquilo o entendimento, proferido inclusive sob o rito do art. 543-C do CPC, de que a verba honorária arbitrada por equidade, com fundamento no art. 20, § 4o., do CPC, não está adstrita ao patamar entre 10 e 20% referido no § 3º desse dispositivo, podendo ser fixada em percentual do valor da causa ou da condenação ou, ainda, em valor fixo.
+2. Esta Corte tem se balizado na razoabilidade, de modo a coibir o aviltamento do labor do causídico, bem como a desproporcionalidade entre o valor fixado e os critérios adotados, quando estes acabam culminando na irrisoriedade ou na exorbitância. Em vista disso, a jurisprudência do STJ, quando verifica a ocorrência de excesso ou insignificância do valor arbitrado, tem mantido, em diversos casos, a verba honorária em valor que orbita o percentual de 1% do valor da causa, considerando irrisórios os valores que não atingem tal cifra. Esta tem sido a diretriz adotada por ambas as Turmas componentes da Primeira Seção. Precedentes: AgRg no AgRg no AREsp 290.468/AL, Rel. Min. OG FERNANDES, 2T, DJe 28.4.2014 e AgRg nos EDcl no AREsp 304.364/RN, Rel. Min. ARNALDO ESTEVES LIMA, 1T, DJe 5.11.2013.
+3. Diante das características da demanda, deve ser fixada a verba honorária dos Embargos à Execução em 1% sobre o valor controvertido, que atinge a cifra de R$ 1.022.441,12 (um milhão, vinte e dois mil, quatrocentos e quarenta e um reais e doze centavos).
+4. Agravo Regimental ao qual se nega provimento (AgRg no REsp. 1.220.255/PR, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 15.10.2015).
+5. Ademais, a alteração das conclusões da Corte de origem encontra óbice na Súmula 7/STJ.
+6. Diante dessas considerações, nega-se provimento ao Agravo em Recurso Especial.
+7. Publique-se.
+8. Intimações necessárias.
