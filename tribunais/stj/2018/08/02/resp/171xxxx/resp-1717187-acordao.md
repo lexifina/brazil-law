@@ -1,0 +1,51 @@
+EMENTA
+PROCESSUAL CIVIL E CIVIL. VIOLAÇÃO AOS ARTS. 165 E 458 DO CPC/1973. FALTA DE PREQUESTIONAMENTO. SÚMULA 282/STF. FORNECIMENTO DE ÁGUA EM RESIDÊNCIA. OBRIGAÇÃO DE FAZER. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Cuida-se, na origem, de Ação Ordinária proposta contra a Cedae - Companhia Estadual de Águas e Esgotos, objetivando a prestação do serviço de fornecimento regular de água potável à residência da autora.
+2. Não se pode conhecer da irresignação contra a ofensa aos arts. 165 e 458 do Código de Processo Civil de 1973, pois os referidos dispositivos legais não foram analisados pela instância de origem. Ausente, portanto, o indispensável requisito do prequestionamento, o que atrai, por analogia, o óbice da Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+3. O Tribunal a quo, na análise dos autos, constatou que houve falha na prestação do serviço, assim, é inviável analisar a tese defendida no Recurso Especial, a qual busca afastar as premissas fáticas estabelecidas pelo acórdão recorrido, pois inarredável a revisão do conjunto probatório dos autos. Aplica-se o óbice da Súmula 7/STJ.
+4. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro cuja ementa é a seguinte (fls. 77-79, e-STJ):
+APELAÇÃO CÍVEL. PROCESSO CIVIL. CEDAE. VILA INHOMIRIM. DISTRITO DE MAGÉ. AÇÃO DE OBRIGAÇÃO DE FAZER (ABASTECIMENTO DE ÁGUA) C/C INDENIZATÓRIA POR DANOS MORAIS. SENTENÇA DE EXTINÇÃO SEM JULGAMENTO DO MÉRITO COM RELAÇÃO À OBRIGAÇÃO DE FAZER POR ILEGITIMIDADE ATIVA "AD CAUSAM", DIANTE DO DIREITO COLETIVO ENVOLVIDO (NECESSIDADE DE EXPANSÃO DE TODA MALHA HIDROVIÁRIA), E DE IMPROCEDÊNCIA QUANTO AO PLEITO INDENIZATÓRIO POR DANOS MORAIS JÁ QUE NÃO CONFIGURADOS. APELO DA PARTE AUTORA REQUERENDO A PROCEDÊNCIA DO PEDIDO INICIAL DE OBRIGAÇÃO DE FAZER E DE CONDENAÇÃO POR DANO MORAL NO IMPORTE DE R$ 41.000,00 (QUARENTA E UM MIL REAIS). APELO QUE MERECE PROSPERAR, EM PARTE. A LEGITIMIDADE EXTRAORDINÁRIA PARA A DEFESA DE DIREITOS COLETIVOS NÃO RETIRA A LEGITIMIDADE ORDINÁRIA DA PESSOA LESADA. PARTE LEGÍTIMA. PEDIDO DE FORNECIMENTO DE ABASTECIMENTO DE ÁGUA QUE DEVE SER ATENDIDO. CONCESSIONÁRIA QUE DEVE PRESTAR O SERVIÇO, QUE É ESSENCIAL, DE FORMA EFICIENTE E ADEQUADA.
+INTELIGÊNCIA DO ART. 22 DO CDC. DANO MORAL QUE, NA HIPÓTESE, DECORRE "IN RE IPSA". "QUANTUM" INDENIZATÓRIO QUE ORA SE ARBITRA EM R$ 2.500,00 (DOIS MIL E QUINHENTOS REAIS). ÔNUS DE SUCUMBÊNCIA. CONDENAÇÃO DA RÉ NAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS, ESTES FIXADOS EM 10% SOBRE O VALOR DA CONDENAÇÃO (ARTIGO 85 § 2- DO CPC/15). RECURSO A QUE SE DÁ PARCIAL PROVIMENTO.
+A recorrente, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 165 e 458, II e III, do CPC/1973, do art. 2º do CDC (Lei 8.078/1978), Defende, em suma, que não há relação de consumo, pois o autor não é cliente da companhia de água. Aduz que não há ilícito e, portanto, não cabe indenização por danos morais.
+Apresentadas as contrarrazões, conforme fls. 187-191, e-STJ.
+O MPF opinou pelo não provimento do Recurso Especial às fls. 269-274, e-STJ.
+À fl. 263, e-STJ, foi dado provimento ao Agravo e determinada sua conversão em Recurso Especial, sem prejuízo de exame posterior mais profundo da admissibilidade.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 27.9.2017.
+Cuida-se, na origem, de Ação Ordinária proposta por Aparecida da Assuncao dos Anjos contra a CEDAE - Companhia Estadual de Águas e Esgotos, objetivando a prestação do serviço de fornecimento regular de água potável à sua residência e o pagamento de indenização por danos morais.
+O Tribunal a quo reconheceu a obrigação da companhia em fornecer água encanada à residência da autora sob os seguintes fundamentos (fls. 133-137, e-STJ, grifei):
+A detida análise dos autos demonstra que a própria ré informa (f 1.102 - indexador 000106), que "não existe rede de distribuição de água onde reside a Autora e o abastecimento da região está condicionado à conclusão das obras de implementação da rede, tais como construção de Estação de Tratamento de Água - ETA, assentamento de nova adutora, redes de tronco e distribuidores nas ruas onde não tem e substituição de outras onde o existente está subdimensionado ou danificado." (sic)
+Assim, verifica-se que a ré admite que não realizou as obras necessárias para ampliar a rede, mantendo-se inerte diante do aumento natural da demanda gerado pelo crescimento do número de residências e da população que necessita de seu abastecimento de água.
+Portanto, diante da declaração da própria ré, está caracterizada a falha na prestação de serviço, sendo irrelevante a tese defensiva de que a autora não comprovou que pleiteou administrativamente a instalação do seu serviço, uma vez que resta claro que, independente se foi ou não realizado o pedido, este não seria atendido diante da necessidade de realização de obra de grande monta para a extensão da rede de abastecimento.
+(..)
+Na espécie, o dano moral decorre "in re ipsa", não demandando maiores digressões acerca de sua repercussão, estando claramente configurado diante dos inúmeros transtornos (inércia em proceder ao fornecimento de água, inexistência de prestação de serviço essencial) aos quais a autora foi submetida.
+O quantum indenizatório deve representar compensação razoável pelo sofrimento experimentado, cuja intensidade deve ser considerada para fixação do valor, aliada a outras circunstâncias peculiares de cada conflito de interesses, sem jamais constituir-se em fonte de enriquecimento sem causa para o ofendido e, tampouco, em valor ínfimo que o faça perder o caráter pedagógico-punitivo ao ofensor.
+Nesse quadro, tem-se que o montante indenizatório de R$ 2.500,00 (dois mil e quinhentos reais), atende aos parâmetros da razoabilidade e da proporcionalidade, além de se adequar ao caso concreto.
+Como se percebe, a parte pretende, em verdade, remover as premissas fáticas estabelecidas pelo Tribunal a quo, o que encontra óbice na Súmula 7/STJ.
+Diante das considerações acima expostas de que o Tribunal a quo, na análise dos autos, contatou que houve falha na prestação do serviço, é inviável analisar a tese defendida no Recurso Especial, a qual busca afastar as premissas fáticas estabelecidas pelo acórdão recorrido, pois inarredável a revisão do conjunto probatório dos autos. Aplica-se o óbice da Súmula 7/STJ.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. (..) AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. FORNECIMENTO DE ÁGUA. (..) DEVER DE INDENIZAR. (..) REVISÃO FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+(..)
+2. O Tribunal de origem, com base no substrato fático-probatório, asseverou que houve falha na prestação do serviço gerando a obrigação de indenizar, sendo que a reforma de tal entendimento esbarraria na Súmula 7/STJ.
+(..)
+(AgRg no AREsp 510.285/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 01/06/2015, grifei).
+ADMINISTRATIVO E PROCESSUAL CIVIL. (..) SERVIÇO DE FORNECIMENTO DE ÁGUA. CONDENAÇÃO EM DANO MORAL. COMPROVAÇÃO. NECESSIDADE DE REEXAME DE PROVA. SÚMULA 7 DO STJ.
+(..)
+2. O acórdão asseverou, com base nos elementos de fato e na prova dos autos, que ficaram comprovados a deficiência no serviço prestado e o dano moral sofrido pelo ora agravado, bem como a razoabilidade do valor dado à indenização. A revisão do que foi decidido demanda necessariamente a incursão na seara fática dos autos, medida vedada na via especial a teor da Súmula 7/STJ. Precedentes.
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp 496.154/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 25/08/2014, grifei).
+Ademais, não se pode conhecer da irresignação contra a ofensa aos arts. 165 e 458 do Código de Processo Civil de 1973, pois os referidos dispositivos legais não foram analisados pela instância de origem. Ausente, portanto, o indispensável requisito do prequestionamento, o que atrai, por analogia, o óbice da Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Nessa linha:
+PROCESSUAL CIVIL E TRIBUTÁRIO. CONTRIBUIÇÃO DE MELHORIA. RECURSO ESPECIAL QUE TRAZ DISCUSSÃO NÃO TRATADA NO ACÓRDÃO, BEM COMO SUSTENTA VIOLAÇÃO A DISPOSITIVOS LEGAIS QUE, APÓS, AFIRMA REVOGADOS. AUSÊNCIA DE PREQUESTIONAMENTO E DEFICIÊNCIA DE FUNDAMENTAÇÃO.
+SÚMULAS 282/STF E 284/STF. CONTRIBUIÇÃO DE MELHORIA. VALORIZAÇÃO DO IMÓVEL. NÃO COMPROVAÇÃO. NECESSIDADE DE ANÁLISE DE PROVA. IMPOSSIBILIDADE. SÚMULA 7/STJ. 1. Hipótese em que que o Tribunal de origem não se manifestou sobre a alegação de revogação dos artigos 81 do CTN e 1º do Decreto-Lei 195/1967 em face da Emenda Constitucional 23/1983 ou, ainda, de ausência de previsão de limitação da base de cálculo da contribuição de melhoria no artigo 145, inciso III, da CF/1988. Aliás, nem sequer foram opostos Embargos de Declaração para suprir eventuais omissões.
+Portanto, à falta do necessário prequestionamento, incide a Súmulas 282 e 284/STF.
+2. Ainda que afastasse tais óbices, ressalto ser cediço que o fato gerador do tributo em análise é a valorização imobiliária decorrente da obra pública, a qual deve ser comprovada, não se podendo falar nem mesmo em presunção.
+3. Assim, não existindo prova da efetiva valorização imobiliária decorrente de obra pública, e levando-se em conta que a valorização não pode ser presumida, não cabe a cobrança da Contribuição de Melhoria. Incidência da Súmula 7/STJ.
+4. Recurso Especial não conhecido.
+(REsp 1698570/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/11/2017, DJe 19/12/2017)
+Por tudo isso, não conheço do Recurso Especial.
+É como voto.
