@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo Federal da 1ª Vara de Montes Claros - SJ/MG e o o Juízo de Direito da 1ª Vara Cível de Montes Claros - MG, em autos de ação previdenciária ajuizada por [NOME] em desfavor do Instituto Nacional do Seguro Social, na qual postula a revisão e a restauração de sua pensão por morte.
+O Juízo Estadual declinou de sua competência consignando que a União teria "interesse inegável e inafastável na lide", "por ser o requerido pessoa jurídica de direito público, bem como por se tratar de matéria previdenciária" (e-STJ fl. 2).
+O Juízo Federal, por sua vez, suscitou o conflito destacando que o benefício de pensão por morte teve origem em acidente de trabalho, razão pela qual a competência para o exame da questão seria da Justiça Estadual, nos termos do art. 109, I, da CF/88 (e-STJ fls. 4/6).
+O Ministério Público Federal opinou pela declaração da competência da Justiça Federal (e-STJ fls. 66/67).
+Passo a decidir.
+Como é cediço, a competência ratione materiae, em regra, é determinada em função da natureza jurídica da pretensão deduzida, sendo esta caracterizada pelo pedido e pela causa de pedir.
+Consoante as Súmulas 15 do STJ e 501 do STF compete à Justiça Estadual processar e julgar os litígios decorrentes de acidente do trabalho, nos termos do art. 109, I, da Constituição Federal de 1988.
+Foi nesse contexto que a Primeira Seção, em reformulação de anterior entendimento adotado pela Terceira Seção (de que é exemplo o CC 62.531/RJ), adotou interpretação ampliada ao sentido da expressão causas acidentárias, concluindo ser competência da Justiça Estadual processar e julgar tanto as ações concessivas quanto os pedidos de revisão de benefício de pensão por morte decorrente de acidente de trabalho.
+Ilustrativamente:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA INSTAURADO ENTRE JUÍZOS ESTADUAL E FEDERAL. BENEFÍCIO PREVIDENCIÁRIO. PENSÃO POR MORTE DECORRENTE DE ACIDENTE DE TRABALHO. ENTENDIMENTO REFORMULADO PELA 1ª SEÇÃO. ART. 109, I, DA CONSTITUIÇÃO FEDERAL. SÚMULAS 501/STF E 15/STJ. PRECEDENTES DO STF E STJ. COMPETÊNCIA DA JUSTIÇA ESTADUAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Compete à Justiça comum dos Estados apreciar e julgar as ações acidentárias, que são aquelas propostas pelo segurado contra o Instituto Nacional do Seguro Social, visando ao benefício, aos serviços previdenciários e respectivas revisões correspondentes ao acidente do trabalho. Incidência da Súmula 501 do STF e da Súmula 15 do STJ.
+2. Agravo regimental a que se nega provimento.
+(AgRg no CC 122.703/SP, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 22/05/2013, DJe 05/06/2013) (Grifos acrescidos).
+CONFLITO DE COMPETÊNCIA. JUSTIÇA FEDERAL E JUSTIÇA ESTADUAL. AÇÃO VISANDO A OBTER PENSÃO POR MORTE DECORRENTE DE ACIDENTE DE TRABALHO. ALCANCE DA EXPRESSÃO "CAUSAS DECORRENTES DE ACIDENTE DO TRABALHO".
+1. Nos termos do art. 109, I, da CF/88, estão excluídas da competência da Justiça Federal as causas decorrentes de acidente do trabalho. Segundo a jurisprudência firmada pelo Supremo Tribunal Federal e adotada pela Corte Especial do STJ, são causas dessa natureza não apenas aquelas em que figuram como partes o empregado acidentado e o órgão da Previdência Social, mas também as que são promovidas pelo cônjuge, ou por herdeiros ou dependentes do acidentado, para haver indenização por dano moral (da competência da Justiça do Trabalho - CF, art. 114, VI), ou para haver benefício previdenciário pensão por morte, ou sua revisão (da competência da Justiça Estadual).
+2. É com essa interpretação ampla que se deve compreender as causas de acidente do trabalho, referidas no art. 109, I, bem como nas Súmulas 15/STJ ("Compete à justiça estadual processar e julgar os litígios decorrentes de acidente do trabalho") e 501/STF (Compete à justiça ordinária estadual o processo e o julgamento, em ambas as instâncias, das causas de acidente do trabalho, ainda que promovidas contra a união, suas autarquias, empresas públicas ou sociedades de economia mista).
+3. Conflito conhecido para declarar a competência da Justiça Estadual.
+(CC 121.352/SP, Relator Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA SEÇÃO, DJe 16/4/2012).
+Diante dessa orientação, vislumbro a competência da Justiça Estadual porque se trata, aqui, de pedido revisional de pensão por morte oriunda de acidente de trabalho, circunstância que atrai a incidência das súmulas citadas.
+Ante o exposto, com base no art. 955, parágrafo único, I, do CPC/2015, CONHEÇO do presente conflito para DECLARAR COMPETENTE para a causa o Juízo de Direito da 1ª Vara Cível de Montes Claros - MG.
+Publique-se.
+Intimem-se.
