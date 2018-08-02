@@ -1,0 +1,20 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+2. Agravo conhecido. Recurso especial não conhecido.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por [NOME] - ESPÓLIO, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 06/11/2017.
+Concluso ao gabinete em: 07/06/2018.
+Ação: indenização por danos materiais e compensação por danos morais ajuizada por [NOME] e ANA NERI [NOME] em face da ORGANIZAÇÃO SOCIAL DE LUTO CURITIBA LTDA., alegando rescisão indevida de plano de assistência familiar e assistência funeral contratados.
+Sentença: julgou parcialmente procedente o pedido proposto, para declarar a nulidade do contrato de plano de assistência familiar e condenar a agravada à restituição dos valores pagos a título de taxa mensal, excluindo os valores atinentes ao seguro de vida em grupo.
+Acórdão: deu provimento à apelação interposta pela agravada para julgar improcedente a ação, nos termos da seguinte ementa:
+DIREITO CIVIL E ADMINISTRATIVO MUNICIPAL. APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE DE ATO JURÍDICO C.C INDENIZAÇÃO DE DANOS MATERIAIS E MORAIS ACOLHIMENTO PARCIAL EM 1º GRAU. CONTRATO DE ASSISTÊNCIA FUNERAL. DECLARAÇÃO DE NULIDADE PELA SENTENÇA RECORRIDA, POR ILICITUDE DE OBJETO. CÓDIGO CIVIL, ART. 166, II. SENTENÇA QUE AFIRMA A PREVISÃO DE DESEMPENHO DE ATIVIDADE EXCLUSIVA DE EMPRESA FUNERÁRIA NO CONTRATO PADRÃO DA APELANTE, DE ACORDO COM A LEI MUNICIPAL Nº 10.565/2002. APELAÇÃO DA EMPRESA QUE DEFENDE A DISTINÇÃO ENTRE AS ATIVIDADES DE ASSISTÊNCIA FUNERAL E FUNERÁRIA. ACOLHIMENTO DA IRREVERÊNCIA EMPRESÁRIA. DISTINÇÃO DE ATRIBUIÇÕES TÍPICAS, RECONHECIDA NA JURISPRUDÊNCIA DESTE TRIBUNAL. PRECEDENTES: "(..) ATIVIDADES EXERCIDAS PELOS PLANOS DE ASSISTÊNCIA FUNERÁRIA QUE NÃO SE CONFUNDEM COM A ATUAÇÃO DAS PRÓPRIAS FUNERÁRIAS, VEZ QUE REALIZAM SOMENTE A INTERMEDIAÇÃO ENTRE OS FAMILIARES CONSUMIDORES E AS FUNERÁRIAS EM SI, ESTAS QUE DEVEM SER ESCOLHIDAS ATRAVÉS DE RODÍZIO LEGALMENTE ESTABELECIDO PELA LEGISLAÇÃO MUNICIPAL (..)" ([NOME] - 5ª C. CÍVEL - ACR - 1352134-1 - CURITIBA - REL. DES. [NOME], J. 18.08.2015, [NOME]). CONTRATAÇÃO DE ASSISTÊNCIA FUNERAL VÁLIDA. DEMANDA TOTALMENTE IMPROCEDENTE, COM REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. RECURSO CONHECIDO E PROVIDO (e-STJ fls. 316/317).
+Recurso especial: alega violação do art. 166, II do CC/02. Alega que a agravada oferece serviços que a legislação local não permite. Sustenta que acórdão recorrido deu "valoração equivocada do contrato firmado" (e-STJ fl. 344). Assevera que a agravada não é permissionária de serviço funerário, e a partir da edição da Lei municipal 10.595/2002 parte do objeto do contrato tornou-se impossível.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, quanto ao fato de que "a atividade empresária da apelante não é a mesma atividade desenvolvida pelas funerárias" (e-STJ fl. 326); e que, à luz do contrato firmado o compromisso da agravada "é intermediar, em nome próprio, o fornecimento de bens e serviços" (e-STJ fl. 331), exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7 do STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 2.000,00 (dois mil reais) (e-STJ 332) para R$ 2.500,00 (dois mil e quinhentos reais), cuja exigibilidade fica suspensa na forma do art. 98, §3º do CPC/15 (e-STJ 37).
+Publique-se. Intimem-se.
