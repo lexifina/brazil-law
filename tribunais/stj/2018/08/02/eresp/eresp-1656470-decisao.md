@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de embargos de divergência opostos pela FUNDAÇÃO PETROBRÁS DE SEGURIDADE SOCIAL - PETROS, em face de acórdão da Terceira Turma, relatado pelo Excelentíssimo Senhor Ministro Paulo de Tarso Sanseverino, assim ementado:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO QUE DETERMINA O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM, PARA AGUARDAR JULGAMENTO DE RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA REPETITIVA. IRRECORRIBILIDADE. PRECEDENTES. AGRAVO INTERNO NÃO CONHECIDO.
+Alega a recorrente a existência de dissídio pretoriano quanto à imperiosidade de sobrestamento dos autos, na instância de origem, em relação à matéria pendente de apreciação sob o rito do recurso especial repetitivo, apontando como paradigma o acórdão proferido no EREsp n. 1.511.921/SC, relatado pela Excelentíssima Ministra Maria Thereza de Assis Moura, julgado na Corte Especial.
+É o relatório.
+Para a configuração do dissídio jurisprudencial é imprescindível a similitude fática entre os arestos confrontados.
+No caso em exame, o acórdão embargado, da Terceira Turma, entendeu ser irrecorrível a decisão que determina a devolução dos autos ao Tribunal de origem, a fim de aguardar-se o julgamento de matéria submetida ao rito dos recursos repetitivos nesta Corte Superior. Por isso, o agravo interno interposto perante aquele Colegiado sequer foi conhecido, com amparo no artigo 1.036 do CPC/2015.
+Já o aresto apontado como paradigma, oriundo da Corte Especial, contemplou tese diversa  examinada, inclusive, sob a ótica do CPC/1973  , no sentido de que a regra processual de suspensão dos recursos, quanto o tema neles versado está submetido à sistemática do recurso repetitivo, se aplica somente aos Tribunais de Segunda Instância, não havendo necessidade de sobrestamento dos feitos neste Sodalício.
+Depreende-se, pois, inexistir similitude fática e jurídica entre os arestos confrontados, restando desatendidos os requisitos do artigo 1.043, § 4º, do CPC/2015 e do artigo 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça, alterado pela Emenda Regimental n. 22/2016.
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. SERVIDÃO DE ÁGUA. CISÃO DO JULGAMENTO. DIVERGÊNCIA NÃO DEMONSTRADA COM OS PARADIGMAS QUE JUSTIFICAM A COMPETÊNCIA DA CORTE ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA ENTRE OS ARESTOS. INDEFERIMENTO DOS EMBARGOS DE DIVERGÊNCIA MANTIDO. REDISTRIBUIÇÃO DO FEITO À 2a. SEÇÃO PARA EXAME DA DIVERGÊNCIA ENTRE O ACÓRDÃO IMPUGNADO E AQUELES PROVENIENTES DA 4a. TURMA. AGRAVO INTERNO DO ESPÓLIO A QUE SE NEGA PROVIMENTO.
+1. Suscitada a divergência com paradigmas de Turmas da mesma Seção e de Turma de Seção diversa daquela de que provém o aresto embargado, ocorre a cisão do julgamento com primazia da Corte Especial, com posterior remessa à Seção competente em relação aos demais paradigmas.
+2. A comparação de acórdãos para o fim de demonstrar a divergência jurisprudencial pressupõe similitude fática e jurídica entre os casos confrontados e a adoção de teses jurídicas distintas, o que não acontece na hipótese dos autos.
+ ..
+(AgInt nos EREsp 1124506/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, CORTE ESPECIAL, julgado em 01/02/2018, DJe 09/02/2018)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ARESTOS EM CONFRONTO. AGRAVO INTERNO NÃO PROVIDO. I - Trata-se de agravo interno interposto contra decisão monocrática de indeferimento liminar dos embargos de divergência, diante da ausência de similitude fática entre o acórdão embargado e o julgado paradigma e incidência da súmula 168 do STJ.
+II - Descumpre o art. 1.021, § 1º, do CPC e a Súmula nº 182 do STJ, o agravo interno que não impugna integralmente os fundamentos da decisão agravada. III - A teor do enunciado contido na Súmula n. 182 do STJ, é inviável o agravo que deixa de atacar especificamente os fundamentos da decisão agravada. Precedentes.
+IV - A ausência de similitude fática impede o comparativo entre acórdão embargado e paradigma de modo a obstar a configuração do dissídio jurisprudencial supostamente alegado pela parte.
+Agravo Interno não provido.
+(AgInt nos EAREsp 1040547/SP, Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, julgado em 19/12/2017, DJe 06/02/2018)
+Ante o exposto, com fulcro no artigo 266-C do Regimento Interno do STJ, alterado pela Emenda Regimental n. 22/2016, INDEFERE-SE LIMINARMENTE OS EMBARGOS DE DIVERGÊNCIA.
+Publique-se.
+Intimem-se.
