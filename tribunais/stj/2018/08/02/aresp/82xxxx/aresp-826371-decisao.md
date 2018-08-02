@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo manejado pelo MUNICÍPIO DE NITEROI contra decisão que inadmitiu recurso especial interposto com apoio na alínea "a" do permissivo constitucional em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (e-STJ fl. 305):
+Agravo inominado na apelação. Deslizamento de terra em encosta. Chuvas. Município de Teresópolis. Obrigação legal do Poder Público Municipal na realização de obras de contenção de encostas. Inteligência do §1º, do artigo 303 da Lei Orgânica do Município de Niterói. Omissão específica, caracterizadora da responsabilidade objetiva. Inteligência do §6º, do artigo 37, da CRFB/88. Comprovada a omissão do apelante na realização de obras de contenção de encostas. Desabamento da residência que culminou no falecimento da genitora da apelada. Dano moral configurado. Quantum fixado em harmonia com os princípios da proporcionalidade e da razoabilidade. Precedentes deste E.Tribunal. Danos materiais a serem apurados em fase de liquidação de sentença. Agravo inominado desprovido. Art.557, § 1º-A, do CPC.
+Os embargos de declaração opostos foram rejeitados.
+No especial obstaculizado, o ora agravante apontou violação aos arts. 186, 188, I, 927 e seguintes, e 944, do CC/2002.
+Alegou, em síntese, que não foi comprovada a ação/omissão estatal pelo infortúnio ocorrido. Caso seja mantida a condenação, requer a redução da indenização, tendo em vista a sua exorbitância.
+Sustentou, ainda, que não é permitida a condenação genérica e incerta à indenização por danos materiais.
+Contrarrazões apresentadas.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem ao entendimento de que a matéria não foi prequestionada (Súmula 282 do STF).
+Em sua irresignação, o agravante infirma a incidência do óbice sumular mencionado e, no mais, reitera os argumentos articulados no recurso especial.
+Contraminuta apresentada.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado n. 2).
+Isso considerado, verifico que o julgado recorrido reconheceu a responsabilidade civil do agravante pelo infortúnio e os danos causados à autora, com os seguintes fundamentos (e-STJ fl. 307):
+Portanto, diante da sobredita legislação era dever do agravante, em caráter preventivo, a realização de obras de contenção na região de encostas a fim de evitar deslizamentos, como o ocorrido, ou ao menos, fiscalizar a ocupação irregular e desordenada do solo urbano, impedindo a construção de moradias em locais de risco para os moradores.
+Se o agravante não cumpriu com sua obrigação imposta em Lei Orgânica do Município de Niterói, a sua conduta omissiva é específica, o que caracteriza a responsabilidade objetiva do agravante, nos termos do §6º, do artigo 37, da CRFB/88.
+Ora, dissentir da conclusão a que chegou a Corte de origem implica inevitável revolver de aspectos fático-probatórios, providência inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+Acerca da hipótese, trago o precedente a seguir:
+ADMINISTRATIVO E PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC/1973 NÃO CONFIGURADA. RESPONSABILIDADE CIVIL. NEXO DE CAUSALIDADE. ATROPELAMENTO. FRATURA DE MEMBRO SUPERIOR. INTERNAÇÃO EM HOSPITAL MUNICIPAL. NECESSIDADE DE CIRURGIA DE EMERGÊNCIA. FALTA DE MATERIAL CIRÚRGICO. DANOS MORAIS. REDUÇÃO. SÚMULA 7/STJ.
+1. No que se refere à alegada afronta ao disposto no art. 535, inciso II, do CPC, verifico que o julgado recorrido não padece de omissão, porquanto decidiu fundamentadamente a quaestio trazida à sua análise, não podendo ser considerado nulo tão somente porque contrário aos interesses da parte.
+2. O Tribunal de origem, com base nas provas carreadas aos autos, reconheceu o nexo de causalidade entre a omissão do Estado (não autorização de procedimentos cirúrgicos de urgência) e o dano sofrido pelo ora recorrido. A alteração das conclusões adotadas no acórdão recorrido, tal como colocada a questão nas razões recursais, demanda o reexame de matéria fática, providência vedada em Recurso Especial, nos termos da Súmula 7/STJ.
+3. O STJ consolidou orientação de que a revisão do valor da indenização somente é possível quando exorbitante ou insignificante a importância arbitrada, em flagrante violação dos princípios da razoabilidade e da proporcionalidade, o que não é o caso dos autos. Desse modo, avaliar a extensão do dano, sua repercussão na esfera moral do recorrido, a capacidade econômica das partes, entre outros fatores considerados pelas instâncias ordinárias, implica afronta ao disposto na Súmula 7/STJ, por demandar a análise do conjunto fático-probatório dos autos.
+4. Agravo Interno não provido.
+(AgInt no AREsp 948.064/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/03/2017, DJe 20/04/2017).
+No que tange à redução da condenação, igualmente incide o óbice sumular citado, pois esta Corte entende que a revisão do quantum indenizatório somente é possível em hipóteses excepcionais, quando verificada a ofensa aos princípios da razoabilidade e proporcionalidade, situação não evidenciada nos autos (R$ 100.000,00 - cem mil reais, pelo óbito de sua genitora).
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUSPENSÃO NO FORNECIMENTO DE ÁGUA. DANO MORAL. MONTANTE INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça admite, em caráter excepcional, que o quantum arbitrado seja alterado, caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade. A parte agravante, contudo, não demonstrou que o valor arbitrado a título de danos morais é irrisório, de forma que o acórdão recorrido deve ser mantido.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 860.514/SE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 19/05/2016).
+Por fim, em relação à tese de que é vedada a condenação genérica e incerta, a parte agravante não indicou o dispositivo legal capaz de amparar o direito alegado. Incide, no ponto, a Súmula 284 do STF, por deficiência na fundamentação.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
