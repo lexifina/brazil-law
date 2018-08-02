@@ -1,0 +1,15 @@
+DECISÃO
+Vistos, etc.
+Trata-se de reclamação ajuizada por [NOME] e MARIAL ALVES [NOME] contra acórdão da TURMA RECURSAL DO JUIZADO ESPECIAL DO ESTADO DA BAHIA.
+Alegam os Reclamantes que " ..  foram fiadores de um contrato de locação e findo o mesmo, receberam declaração de quitação total de todos os encargos locatícios inclusive quitação dos alugueis, assim nada devem e estão em dia com suas responsabilidades" (fl. 3).
+Afirmam que " ..  souberam depois que houve uma prorrogação que não anuíram ou consentiram e nem assinaram, desta prorrogação restou supostas dívidas da relação locatícia e foram os fiadores IDOSOS, colocados na parte passiva de uma relação jurídica, e assim recorreu e obteve a improcedência do seu recurso, mesmo alegando que a decisão fere de morte a súmula 214 do Egrégio STJ - Superior Tribunal de Justiça" (ibidem).
+Ponderam que a decisão reclamada desrespeita a autoridade da Súmula n.º 214/STJ.
+Pugnam pela concessão dos benefícios da assistência judiciária gratuita.
+É o breve relatório.
+Decido.
+Inicialmente, defiro o pedido de assistência judiciária gratuita.
+O art. 1.º da Resolução STJ/GP n.º 3 publicada no dia 8 de abril de 2016 é claro ao dispor que é da competência dos tribunais de justiça estaduais o processamento e julgamento das reclamações "destinadas a dirimir divergência entre acórdão prolatado por Turma Recursal Estadual e do Distrito Federal e a jurisprudência do Superior Tribunal de Justiça, consolidada em incidente de assunção de competência e de resolução de demandas repetitivas, em julgamento de recurso especial repetitivo e em enunciados das Súmulas do STJ, bem como para garantir a observância de precedentes".
+Ressalte-se que o Supremo Tribunal Federal, ao examinar conflitos de competência suscitados pelos tribunais de justiça contra as decisões do STJ fundamentadas na Resolução STJ/GP n.º 3 de 7 de abril de 2016, firmou orientação de que "(..) Superior Tribunal de Justiça é órgão que se sobrepõe, hierarquicamente, às deliberações de Tribunal de Justiça. Desse modo, não há que se falar em conflito entre o STJ e tribunal inferior a ele subordinado por vínculo hierárquico. Nesse contexto, compete ao TJBA cumprir a determinação do STJ, para julgar a reclamação, não cabendo, por parte do tribunal destinatário, opor-se à determinação por via de conflito" (CC n.º 7.971/BA, Ministro Gilmar Mendes, DJe de 3/3/2017). No mesmo sentido são os seguintes precedentes: CC n.º 7.980/MG (Ministro Alexandre de Moraes, DJe de 15/5/2017); e CC n.º 7.968/MG (Ministro Ricardo Lewandowski, DJe de 8/2/2017).
+No Superior Tribunal de Justiça, merecem destaque as seguintes decisões monocráticas: Rcl n.º 33.148/MG (Ministro Marco Aurélio Bellizze, DJe de 7/3/2017) e Rcl n.º 33.293/MG (Ministro Antônio Carlos Ferreira, DJe de 13/2/2017).
+Ante o exposto, considerando que a reclamação foi ajuizada após a vigência da referida resolução, REMETAM-SE os autos ao Tribunal de Justiça do Estado da Bahia para que aprecie o pedido como entender de direito.
+Publique-se. Intimem-se.
