@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial apresentado contra decisão que inadmitiu apelo nobre interposto com fundamento no art. 105, inciso III, "a" e "c", da Constituição Federal.
+De início, cumpre ressaltar que o Tribunal de origem, ao realizar o juízo de admissibilidade do recurso especial, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que se falar em usurpação da competência do STJ. Nesse sentido: AgRg no AREsp 173.359/AM, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/03/2015, DJe 24/03/2015, e AgInt no AREsp 933.131/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 25/10/2016, DJe 27/10/2016.
+Dito isso, mediante análise dos autos, verifico que a inadmissão do especial se deu com base na incidência da Súmula 7 do STJ.
+Embora tenha a parte agravante impugnado especificamente esse fundamento, entendo que, no caso concreto, a pretensão deduzida no recurso especial não ultrapassa a esfera do conhecimento, conforme ressaltado na decisão agravada, esbarrando, pois, no mencionado óbice.
+De fato, o Tribunal de origem, para manter a sentença que não concedeu o benefício pleiteado, destacou que as provas produzidas nos autos, em especial o laudo pericial, revelam que não houve redução permanente da capacidade laborativa da recorrente. No ponto, vale transcrever (e-STJ fls. 378/379):
+No mais, em que pesem as ponderações expendidas pela suplicante, o seu recurso não merece acolhida, pois, no caso em lume, de acordo com a perícia médica judicial ultimada nos autos - fls. .54 240/248 -, elaborada, aliás, de modo escorreito, sem vícios ou contradições a autora não apresenta qualquer incapacidade laborativa ou doença profissional.
+Convém ressaltar, no particular, as considerações do perito judicial a fl. 248: ".. Atualmente, tanto ao exame físico como ultrassonográfico, não são observadas sequelas incapacitastes decorrentes do alegado na inicial, enquadráveis na lei acidentária vigente ..".
+Por fim, concluiu o acólito do Juízo: ".. Não há sequela incapacitante decorrente do alegado na inicial, enquadrável na lei acidentária vigente, não fazendo jus, por conseguinte, aos benefícios da referida lei .."(negritei).
+Diante desse quadro probatório, infere-se, com tranquilidade, que a autora não está incapacitada, sequer necessitando despender de maior esforço para a sua atividade habitual, não justificando, assim, o deferimento de beneficio acidentário.
+Cumpre lembrar que o fato do assistente técnico da obreira ter emitido um parecer contrário ao do jurisperito, em nada altera a solução do julgado, mesmo porque os argumentos por ele utilizados foram irrelevantes para afastar o robusto laudo pericial elaborado nestes autos, pois não conseguiram infirmar as sólidas conclusões do experto; ademais, trata-se o perito de pessoa de confiança do Juízo, sendo absolutamente imparcial em relação aos contendores.
+Em suma, no caso em epígrafe, para que a apelante pudesse fazer jus ao beneficio invocado, não bastaria a existência de uma moléstia, sendo indispensável, todavia, que ela fosse decorrente do exercício laboral e causasse uma incapacidade parcial e permanente para o trabalho, o que, entretanto, no caso em debate, não ocorre
+A revisão dessas conclusões demandaria o reexame do material fático-probatório dos autos, providência inviável em sede de recurso especial, diante do óbice da Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. REDUÇÃO DA CAPACIDADE. DEMONSTRAÇÃO. AUSÊNCIA. SÚMULA 7 DO STJ. MULTA PREVISTA NO ART. 538 DO CPC/1973. MANUTENÇÃO.
+1. A concessão do auxílio-acidente deve observar os requisitos do art. 86 da Lei n. 8.213/1991, ou seja, além da lesão, a necessidade de que a sequela acarrete uma diminuição efetiva e permanente da capacidade para a atividade que o segurado habitualmente exercia.
+Entendimento firmado pela Terceira Seção, que detinha a competência regimental para apreciar os recursos em matéria previdenciária antes da Emenda Regimental n. 14/2011, no julgamento dos REsps n.
+1.108.298/SC e n. 1.109.591/SC.
+2. Caso em que não há como modificar a conclusão da instância ordinária sem esbarrar no óbice da Súmula 7 do STJ, pois o acórdão recorrido considerou que a lesão de que foi vítima o recorrente não diminuiu sua capacidade para o labor.
+3. Descabe acolher a pretensão de afastamento da multa prevista no parágrafo único do art. 538 do CPC/1973, pois os autos evidenciam que a peculiaridade a respeito da lesão mínima foi abordada pelo Tribunal por ocasião do julgamento da apelação em conformidade com o entendimento do STJ, em recurso repetitivo.
+4. Agravo interno desprovido.
+(AgInt no REsp 1322513/SC, de minha relatoria, PRIMEIRA TURMA, julgado em 02/05/2017, DJe 16/06/2017).
+PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. DISACUSIA. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. In casu, a Corte local asseverou que "ausente a incapacidade para o trabalho, bem como o nexo de causalidade, de rigor a manutenção da r. sentença, que julgou o pedido improcedente".
+2. Assim, a inversão do julgado demandaria revolvimento do conteúdo fático-probatório dos autos, o que atrai a incidência da Súmula 7/STJ.
+3. Agravo Regimental não provido.
+(AgRg no AREsp 791.422/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 02/02/2016, DJe 20/05/2016)
+Impende acrescentar que não cabe o apelo nobre, mesmo pela alínea "c" do permissivo constitucional, quando o exame da questão demandar o revolvimento do conjunto fático-probatório acostado aos autos, porquanto o citado recurso é admitido apenas para a análise de questões atinentes à interpretação de normas infraconstitucionais.
+Ilustrativamente:
+PROCESSUAL CIVIL. SÚMULA 106/STJ. NÃO ENQUADRAMENTO NO CONCEITO DE LEI FEDERAL. VEDADA ANÁLISE NO ÂMBITO DO STJ. AUSÊNCIA DE INDICAÇÃO DA NORMA VIOLADA. APLICAÇÃO. ANALOGIA. SÚMULA 284/STF. SÚMULA 106/STJ. SÚMULA 7/STJ. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA E NECESSIDADE DE REEXAME DO ACERVO PROBATÓRIO.
+ ..
+3. Descabe examinar a tese defendida no Recurso Especial - incidência da Súmula 106/STJ ao caso dos autos - porque necessário o revolvimento de matéria fático-probatória. Aplicação da Súmula 7/STJ.
+4. O STJ tem entendimento de que "a incidência da referida Súmula 7 impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa" (AgInt no AREsp 866.679/SP, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 26/4/2016, DJe 2/5/2016).
+5. Agravo Interno não provido (AgInt no AREsp 877.761/RO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 20/10/2016, DJe 28/10/2016).
+Registro, por oportuno, que o marco inicial de aplicação do Novo Código de Processo Civil é a intimação do decisum recorrido, a qual, no presente caso, foi realizada sob a égide do antigo Codex Processual. Assim, nos termos do Enunciado Administrativo nº 2 do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
