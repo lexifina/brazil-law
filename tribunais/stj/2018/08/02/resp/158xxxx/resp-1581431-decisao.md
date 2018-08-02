@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela FAZENDA NACIONAL, na vigência do CPC/73, com base na alínea a do permissivo constitucional, em face de acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"MANDADO DE SEGURANÇA. ARROLAMENTO ADMINISTRATIVO DE BENS. ARTIGO 64 DA LEI Nº 9.532, DE 1997. AUSÊNCIA DE GRAVAME OU RESTRIÇÃO AO USO, ALIENAÇÃO OU ONERAÇÃO DOS BENS E DIREITOS DO DEVEDOR TRIBUTÁRIO. COMUNICAÇÃO AO FISCO. MANUTENÇÃO DA RESTRIÇÃO ADMINISTRATIVA. TERCEIRO ADQUIRENTE DE BOA-FÉ. INVIABILIDADE.
+1. O arrolamento de bens e direitos previsto no art. 64 da Lei nº 9.532, de 1997, não resulta em qualquer ônus sobre o patrimônio do contribuinte, em nada se confundindo com o instituto da penhora, tendo como único escopo permitir ao Fisco monitorar a evolução e a movimentação do patrimônio do contribuinte.
+2. Não constituindo o arrolamento restrição ao direito de propriedade, a única providência a cargo do devedor, quando pretende dispor de algum bem arrolado, é a comunicação ao Fisco previamente ao ato de disposição. Inexistindo impedimento legal à venda, não há como subsistir a anotação da restrição, em prejuízo ao terceiro adquirente de boa-fé" (fl. 203e).
+Opostos Embargos de Declaração, foram eles rejeitados (fls. 224/226e).
+Alega-se ofensa aos arts. 535, II, do CPC/73 e 64 da Lei 9.532/97, sustentando, em síntese, omissão não suprida em sede de declaratórios e que não há base legal para o cancelamento do arrolamento dos bens, no caso dos autos (fls. 234/244e).
+O Recurso Especial foi admitido, na origem (fl. 258e).
+O presente recurso não merece prosperar.
+Cinge-se a controvérsia dos autos em discutir a permanência da averbação do ato de arrolamento de bem, após a alienação pelo devedor tributário.
+Inicialmente, em relação ao art. 535 do CPC/73, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgRg no AREsp 408.492/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 24/10/2013; STJ, AgRg no AREsp 406.332/MS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/11/2013; STJ, AgRg no REsp 1360762/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/09/2013.
+Quanto à alegação de violação ao art. 64 da Lei 9.532/97, aplica-se o teor da Súmula 284 do STF, tendo em vista que a parte recorrente não desenvolveu, nas razões do Recurso Especial, argumentos para demonstrar de que modo tais dispositivos foram violados.
+Na forma da jurisprudência desta Corte, "a admissibilidade do recurso especial exige a clareza na indicação dos dispositivos de lei federal supostamente contrariados, bem como a explanação precisa da medida em que o acórdão recorrido teria afrontado cada um desses artigos, sob pena de incidência da Súmula nº 284 do STF" (STJ, AgInt no REsp 1.628.949/PI, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 07/03/2018).
+Ademais, ainda que não fosse o caso de se aplicar o referido óbice, o tema foi discutido nesse colendo Superior Tribunal de Justiça, tendo sido firmado o entendimento no sentido de que devem ser anulados os efeitos do arrolamento administrativo de bem regularmente adquirido do devedor tributário.
+Nesse sentido:
+"ADMINISTRATIVO E TRIBUTÁRIO. RECURSO ESPECIAL. AÇÃO ANULATÓRIA. ARROLAMENTO DE BENS E DIREITOS. ARTIGO 64 DA LEI N. 9.532/1997. ALIENAÇÃO DE BEM IMÓVEL ARROLADO. ANULAÇÃO DOS EFEITOS DO ATO DE ARROLAMENTO.
+1. Recurso especial no qual se discute a permanência da averbação do ato de arrolamento de bem imóvel no registro de imóveis após a alienação pelo devedor tributário.
+2. O bem imóvel regularmente adquirido do devedor tributário não mais pode constar de arrolamento administrativo, razão pela qual devem ser anulados seus efeitos, pois não mais poderá servir de garantia à satisfação do crédito tributário.
+3. Recurso especial não provido" (STJ, REsp 1.532.348/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 10/11/2015).
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço em parte do Recurso Especial, e, nessa parte, nego-lhe provimento.
+I.
