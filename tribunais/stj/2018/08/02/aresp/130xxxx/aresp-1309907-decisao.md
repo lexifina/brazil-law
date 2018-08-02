@@ -1,0 +1,19 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. OMISSÃO. AUSÊNCIA. DANOS MORAIS E MATERIAIS. CONCLUSÃO ESTADUAL NO SENTIDO DA OCORRÊNCIA. MATÉRIA FÁTICO-PROBATÓRIA E TERMOS CONTRATUAIS. SÚMULAS 5 E 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por CLÍNICA ODONTOLÓGICA SIMPLAN S.A., com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça de São Paulo assim ementado (e-STJ, fls. 334-343):
+Ação de rescisão contratual, indenizatória e declaratória - Procedência parcial confirmada - Tratamento odontológico - Prestação de forma inadequada - Ressarcimento do que o autor desembolsou com conserto - Necessidade - Rescisão e restituição dos valores pagos com tratamento dentário - Descabimento - Indenização por danos morais - Quantum mantido - Verba honorária também mantida - Apelos desprovidos.
+
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 358-362).
+No recurso especial, a recorrente apontou, além de divergência jurisprudencial, violação dos arts. 944 do Código Civil; e 1.022 do novo Código de Processo Civil.
+Esclareceu que se insurgiu contra sua condenação ao pagamento de danos morais no valor de R$ 7.000,00 (sete mil reais) e materiais consistentes na restituição dos valores despendidos pelo recorrido com o tratamento odontológico em outra clínica. Argumentou que não foi considerada a extensão dos danos, inclusive porque os implantes já haviam sido instalados, entretanto, foi deferida a reparação da integralidade do montante contratado com terceiros. Sustentou que o quantum da indenização por danos morais deve ser minorado para R$ 5.000,00 (cinco mil reais) (e-STJ, fls. 365-380).
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 404-411).
+Contraminuta apresentada, sustentando a manutenção do acórdão e a presença dos requisitos para a aplicação da multa por litigância e má-fé (e-STJ, fls. 393-399 e 414-418).
+Brevemente relatado, decido.
+Não há nenhuma omissão ou mesmo contradição a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa ao art. 1.022 do novo CPC. O julgado dirimiu a causa com base em fundamentação sólida, sem tais vícios, o que não se confunde com omissão ou contradição, tendo em vista que apenas resolveu a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+O acórdão concluiu pela ocorrência de danos morais e materiais, estabelecendo os valores a serem ressarcidos também com suporte em apreciação fático-probatória e em termos do contrato entabulado entre as partes.
+É importante frisar que, ao especificar o montante da condenação ao pagamento de danos materiais, o decisum firmou que a reparação deveria ser feita na integralidade dos valores gastos em outra clínica odontológica por os implantes efetivados não terem respeitado a técnica adequada. Conforme os autos, "os serviços foram prestados de forma inadequada, razão pela qual o ressarcimento do valor que o autor desembolsou com seu conserto é de rigor" (e-STJ, fl. 340).
+Logo, não há como conhecer do recurso especial. Acerca dos montantes das indenizações, nota-se que eles foram fixados dentro dos padrões da razoabilidade e proporcionalidade, o que atrai a aplicação das Súmulas 5 e 7/STJ.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 1% sobre o valor total da condenação.
+Publique-se.
