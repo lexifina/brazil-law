@@ -1,0 +1,29 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REINCIDÊNCIA. FRAÇÃO DE AUMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. REDUÇÃO PARA 1/6. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O agravante não apresentou elementos suficientes para infirmar os fundamentos consignados no decisum agravado, sobretudo porque, embora a legislação penal não haja estabelecido critérios para o agravamento da pena pela reincidência, a jurisprudência desta Corte Superior é clara ao asseverar a necessidade de fundamentação concreta para a exasperação em patamar superior a 1/6, o que não ocorreu na hipótese.
+2. Ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+3. Agravo regimental não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro, Maria Thereza de Assis Moura e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+O MINISTÉRIO PÚBLICO FEDERAL agrava de decisão em que concedi a ordem, de ofício, para alterar a fração de aumento da pena pela reincidência.
+Neste agravo regimental, o Parquet assere que "o Código Penal não estabeleceu balizas para o agravamento e atenuação da pena na segunda fase de sua aplicação" (fl. 568) e considera "proporcional o aumento da pena da acusada em 1 (um) ano e 8 (oito) meses  pela reincidência " (fl. 563-570).
+Requer, dessa forma, a reconsideração da decisão agravada ou a submissão do feito ao órgão colegiado, a fim de que seja restabelecido o acórdão prolatado pelo Tribunal a quo.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REINCIDÊNCIA. FRAÇÃO DE AUMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. REDUÇÃO PARA 1/6. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O agravante não apresentou elementos suficientes para infirmar os fundamentos consignados no decisum agravado, sobretudo porque, embora a legislação penal não haja estabelecido critérios para o agravamento da pena pela reincidência, a jurisprudência desta Corte Superior é clara ao asseverar a necessidade de fundamentação concreta para a exasperação em patamar superior a 1/6, o que não ocorreu na hipótese.
+2. Ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+No caso, observo que o agravante não apresentou elementos suficientes para infirmar os fundamentos consignados no decisum agravado, sobretudo porque, embora a legislação penal não haja estabelecido critérios para o agravamento da pena pela reincidência, a jurisprudência desta Corte Superior é clara ao asseverar a necessidade de fundamentação concreta para a exasperação em patamar superior a 1/6, como bem delineado às fls. 555-556. Confira-se (destaques no original):
+ ..
+Sobre o aumento de pena relativo à agravante da reincidência, cumpre salientar que o Código Penal não estabelece limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas, respectivamente. Na verdade, o art. 61 limitou-se a prever as circunstâncias que sempre agravam a pena, embora não haja mencionado qualquer valor de aumento. O mesmo ocorre com o disposto no art. 65, que estipula as circunstâncias que sempre atenuam a pena, sem, contudo, fazer nenhuma menção ao quantum de redução.
+A doutrina e a jurisprudência têm entendido que cabe ao magistrado, dentro do seu livre convencimento e de acordo com as peculiaridades do caso concreto, escolher a fração de aumento de pena pela incidência da agravante, em observância aos princípios da razoabilidade e da proporcionalidade.
+Assim, nos termos da jurisprudência deste Superior Tribunal, a aplicação de fração superior a 1/6 pela reincidência exige motivação concreta e idônea. Menciono, como exemplo, o HC n. 229.371/DF, Rel. Ministra Laurita Vaz, 5ª T., DJe 4/9/2013.
+Nesse ponto, destaco que, segundo entendimento do Supremo Tribunal Federal, "A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas. Às Cortes Superiores, no exame da dosimetria das penas em grau recursal, compete o controle da legalidade e da constitucionalidade dos critérios empregados, bem como a correção de eventuais discrepâncias, se gritantes ou arbitrárias, nas frações de aumento ou diminuição adotadas pelas instâncias anteriores" (RHC n. 115.654/BA, Rel. Ministra Rosa Weber, 1ª T., DJe 21/11/2013, destaquei).
+No caso, observo que o Juízo singular - no que foi acompanhado pelo Tribunal a quo - estabeleceu a fração de 1/3 por entender que a condenação pretérita caracterizadora da reincidência é mais gravosa do que aquela configuradora de maus antecedentes. Todavia, a análise da certidão de antecedentes da acusada evidencia o registro de uma única condenação anterior, pela prática do crime previsto no art. 304, c/c o art. 298, ambos do Código Penal, à pena de 1 ano e 2 meses de reclusão e 11 dias-multa, substituída a pena privativa de liberdade por duas restritivas de direitos (fls. 203-205).
+Assim, reconheço a ocorrência de ilegalidade na segunda etapa da dosimetria da pena e reduzo o quantum de aumento, pela reincidência, para 1/6.
+Portanto, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
