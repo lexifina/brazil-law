@@ -1,0 +1,38 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO SECURITÁRIA. CONCLUSÃO DO ACÓRDÃO. MÁ-FÉ DO SEGURADO. OMISSÃO DE INFORMAÇÕES. [NOME]. REVER O JULGADO. IMPOSSIBILIDADE. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por [NOME] e Clédio [NOME], com base no art. 105, III, c, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fls. 223-224):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. SEGURO DE VIDA. NEGATIVA DA SEGURADORA. DOENÇA PREEXISTENTE. INDENIZAÇÃO INDEVIDA.
+Da lei processual aplicável ao presente feito
+1. No caso em exame a decisão recorrida foi publicada após 17/03/2016. Assim, em se tratando de norma processual, há a incidência da legislação atual, na forma do art. 1.046 do Código de Processo Civil de 2015.
+Mérito do recurso em exame
+2. O contrato de seguro tem o objetivo de garantir o pagamento de indenização para a hipótese de ocorrer à condição suspensiva, consubstanciada no evento danoso previsto contratualmente, cuja obrigação do segurado é o pagamento do prêmio devido e de prestar as informações necessárias para a avaliação do risco. Em contrapartida a seguradora deve informar as garantias dadas e pagar a indenização devida no lapso de tempo estipulado. Inteligência do art. 757 do Código Civil.
+3. Igualmente, é elemento essencial deste tipo de pacto a boa-fé, caracterizado pela sinceridade e lealdade nas informações prestadas pelas partes e cumprimento das obrigações avençadas, nos termos do art. 422 da atual legislação civil.
+4. Contudo, desonera-se a seguradora de satisfazer a obrigação assumida apenas na hipótese de ser comprovado o dolo ou má-fé do segurado para a implementação do risco e obtenção da referida indenização.
+5. Assim, caso seja agravado intencionalmente o risco estipulado, ocorrerá o desequilíbrio da relação contratual, onde a seguradora receberá um prêmio inferior à condição de perigo de dano garantida, em desconformidade com o avençado e o disposto no art. 768 da lei civil, não bastando para tanto a mera negligência ou imprudência do segurado.
+6. No caso em exame não merece prosperar a alegação da parte autora, tendo em vista que o segurado tinha plena ciência das condições de saúde quando da contratação do seguro objeto da presente lide, prestando informações inexatas à seguradora. Violação aos artigos 765 e 766, ambos do Código Civil.
+7. Assim, descabe o pagamento pela seguradora do capital segurado contratado.
+Dos honorários recursais
+8. Honorários recursais devidos a parte que obteve êxito neste grau de jurisdição, independente de pedido a esse respeito, devido ao trabalho adicional nesta instância, de acordo com os limites fixados em lei. Inteligência do art. 85 e seus parágrafos do novel Código de Processo Civil.
+Negado provimento ao apelo.
+Nas razões do recurso especial (e-STJ, fls. 237-250), os recorrentes suscitaram divergência jurisprudencial no tocante à interpretação dos arts. 765 e 766 do Código Civil.
+Sustentaram, em síntese, a inexistência de má-fé por parte do segurado, afirmando que "a doença pré-existente à contratação do seguro não foi a causa determinante da sua morte, mas apenas fator contributivo para o resultado" (e-STJ, fl. 243).
+Ressaltaram que, embora a sentença e o acórdão recorrido tenham concluído que o contratante do seguro agiu de má-fé ao omitir que possuía o diagnóstico de obesidade mórbida, diabetes, insuficiência renal crônica, apnéia do sono e insuficiência cardíaca, a causa direta do falecimento foi choque séptico, pneumonia, insuficiência renal crônica, diabetes e sequela de acidente vascular cerebral. Ponderaram que "a debilidade física causada pelas patologias pré-existentes à contratação contribuíram apenas de forma indireta para a morte" (e-STJ, fl. 244).
+Citou precedente desta Corte que afasta a má-fé do segurado quando apenas há uma contribuição indireta das doenças preexistentes.
+Pugnaram, ao final, pela reforma do acórdão recorrido a fim de julgar procedente o pedido inicial de pagamento de indenização securitária.
+A decisão da Terceira Vice-Presidência do Tribunal de Justiça do Estado do Rio Grande do Sul deixou de admitir o recurso especial por incidência da Súmula 7/STJ e 283/STF (e-STJ, fls. 281-289).
+Foi interposto agravo em recurso especial às fls. 291-305 (e-STJ), e contraminuta apresentada às fls. 311-324 (e-STJ).
+Brevemente relatado, decido.
+De início, é importante salientar que o presente recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, de maneira que é aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No caso, o Tribunal de origem confirmou a sentença que afastou a indenização securitária com base nos seguintes fundamentos (e-STJ, fls. 229-231):
+ No entanto, no presente feito, não merece guarida a pretensão da parte apelante, tendo em vista que restou comprovado nos autos que a parte segurada tinha plena ciência de seu estado de saúde quando da contratação do seguro, uma vez que em 08/06/2009 esteve internado em razão de obesidade mórbida, diabetes, insuficiência renal crônica, apneia do sono e insuficiência cardíaca (fls. 32 e 106v).
+ Ainda, pouco antes da contratação, mas especificamente em 22/03/2011, a parte segurado sofreu AVC, como se pode observar do documento acostado às fls. 109/110 dos autos, sendo esta uma das causas da morte do contratante.
+ Portanto, não merece guarida as alegações da parte recorrente, tendo em vista que a parte segurada tinha plena ciência de sua enfermidade quando da contratação do seguro, o que restou no seu afastamento do grupo segurado.
+ ..
+ Dessa forma, houve o desatendimento ao princípio da boa-fé objetiva e agravamento do risco, nos termos do art. 766 do Código Civil, situação que afasta o dever de indenizar por parte da seguradora-ré.
+ Destarte, não merece qualquer reparo a sentença ora atacada, porquanto analisou de forma adequada questões discutidas no feito, aplicando com acuidade jurídica a legislação acerca do contrato de seguro.
+Como se depreende, toda a matéria foi solvida à luz do exame dos fatos e provas produzidos nos autos, tendo sido consignado pelo acórdão a má-fé do segurado ao omitir as informações quanto a seu estado de saúde no momento da contratação do seguro, de modo que a revisão dessa conclusão demandaria o inevitável reexame do conjunto probatório, procedimento vedado no âmbito do recurso especial, nos termos da Súmula n. 7 do STJ.
+Ressalte-se, por fim, que a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+Ademais, os recorrentes não cumpriram o disposto nos arts. 1.029, § 1º, do Código de Processo Civil de 2015 e 255, § 2º, do Regimento Interno do Superior Tribunal de Justiça, pois a demonstração da divergência não se perfaz com a simples transcrição de ementas, mas com o confronto entre trechos do acórdão recorrido e das decisões apontadas como divergentes, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, o que não foi feito na hipótese.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
