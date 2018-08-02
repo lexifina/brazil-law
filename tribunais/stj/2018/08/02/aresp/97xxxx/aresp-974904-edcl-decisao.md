@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] em face da decisão de fl. 658, que homologou o pleito de desistência do recurso da embargante formulado às fls. 467/468.
+A parte embargante sustenta que "o pedido de fls. 467-468, com o qual a União anuiu, requereu a desistência não apenas do agravo em recurso especial, mas da própria ação ajuizada perante a 20ª Vara Federal Cível de São Paulo, processo nº 2007.61.00.008252 - 8" (fls. 767/768).
+Aberta vista à embargada, a União apresentou a petição à fl. 653, asseverando que "na forma do art. 21 da Lei nº 9.028, de 2005 e da Lei Complementar nº 73/93, em atenção ao despacho de fl. 650 e-STJ, comparece à presença de Vossa Excelência para manifestar que não se opõe ao pedido de desistência".
+É o relatório.
+De acordo com o previsto no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão atacada ou para corrigir erro material.
+No caso, melhor compulsando os autos, verifica-se que, de fato, na petição de fls. 647/648, formulou-se pedido de desistência do recurso raro, e também de "ação ordinária ajuizada em 2007 (processo nº 2007.61.00.008252-8, perante a 20ª Vara Federal Cível de São Paulo) e que tinha por objeto a condenação da União a garantir a assistência jurídica integral e gratuita à autora, assegurando a contratação de um advogado na Finlândia que pudesse tomar as medidas judiciais cabíveis na tentativa de conferir para a autora a guarda de [NOME]", pela ocorrência da perda de objeto da presente ação, tendo em conta que o filho da autora já alcançou a maioridade.
+Assim, acolho os embargos de declaração, com efeitos infringentes, e homologo o pleito de desistência da ação e de renúncia ao direito em que ela se funda (ação ordinária com pedido de antecipação de tutela), extinguindo o feito com fulcro no art. 487, III, c, do CPC/2015.
+A parte requerente deverá arcar com as despesas processuais, nos termos do art. 90 do CPC/2015.
+Publique-se.
