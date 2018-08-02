@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo manejado pela UNIÃO contra decisão que inadmitiu recurso especial interposto com apoio na alínea "a" do permissivo constitucional contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ fl. 799):
+PROCESSO CIVIL. EMBARGOS A EXECUÇÃO. CUMPRIMENTO DA SENTENÇA. OBSERVÂNCIA DOS CRITÉRIOS DO TÍTULO EXECUTIVO TRANSITADO EM JULGADO. EXCESSO DE EXECUÇÃO NÃO DEMONSTRADO. CRITÉRIOS ADOTADOS SÃO COMPATÍVEIS COM O TÍTULO EXECUTIVO. HONORÁRIOS ADVOCATÍCIOS ARBITRADOS SEGUNDO CRITÉRIOS LEGAIS.
+Sentença de parcial procedência mantida.
+Apelação improvida.
+No especial obstaculizado, a agravante apontou violação dos arts. 20 e 460 do CPC/1973 e 492 do CPC/2015. Alegou, em síntese, que o Juiz de primeiro grau extrapolou os limites da lide, compelindo o ente federal a pagar quantia superior àquela indicada pelo próprio exequente, incorrendo, pois, em julgamento extra petita.
+Sustentou, ainda, que houve excesso de execução, em virtude do equivoco na interpretação do título executivo, pois o Tribunal de origem alterou a sentença proferida no processo de conhecimento, transitada em julgado, somente na parte relativa à inclusão da área non aedificandi e à majoração dos honorários advocatícios, cujo verba foi reduzida pelo STJ.
+Após contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de que a revisão do julgado demandaria novo exame fático-probatório dos autos (Súmula 7 do STJ).
+Em sua irresignação, a agravante infirma o óbice sumular mencionado e, no mais, reitera os argumentos articulados no apelo especial.
+Contraminuta apresentada.
+Manifestação do Parquet federal opinando pelo desprovimento do recurso especial.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado 2).
+Isso considerado, observa-se que o Tribunal de origem, soberano na análise das circunstâncias fáticas da causa, entendeu que (e-STJ fl. 798) "não houve excesso de execução, uma vez que o critério adotado pelo juízo está de conformidade com o título executivo, tendo sido devidamente apresentados os procedimentos adotados pelo juízo para interpretação do julgado e apuração pela Contadoria Judicial".
+Acrescentou, ainda, que a diferença dos valores encontrados nos pareceres técnicos da União e da Contadoria Judicial, "não decorre de erro de cálculo, mas de formas diferentes de interpretar o título executivo, e nisso parece ser mais adequado acolher o critério eleito pelo juízo, a partir do título executivo judicial transitado em julgado".
+E por fim, conclui que "além disso, não houve violação ao artigo 460 do CPC/1973, uma vez que essa questão foi bem resolvida na sentença, tendo o juízo adotado o critério adequado e determinado o prosseguimento da execução pelo valor correto, por motivo de economia processual, evitando que fosse necessária uma execução complementar para receber os mesmos valores, com prejuízo da própria União".
+Nessa quadra, forçoso convir que a modificação do referido entendimento implicaria, induvidosamente, o reexame de todo material cognitivo produzido nos autos, desiderato incompatível com a via especial, a teor da Súmula 7 do STJ.
+Nesse sentido, confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESAPROPRIAÇÃO. EMBARGOS À EXECUÇÃO. CÁLCULO CONFECCIONADO PELA CONTADORIA JUDICIAL. HOMOLOGAÇÃO. ALEGAÇÃO DE INCORREÇÃO. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS, EM RECURSO ESPECIAL. SÚMULA 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno interposto em 28/06/2016, contra decisão monocrática publicada em 22/06/2016, que, por sua vez, julgara recurso interposto contra decisão que inadmitira o Recurso Especial, publicada na vigência do CPC/73.
+II. Na origem, trata-se de Embargos à Execução opostos sob o fundamento de que os cálculos apresentados não correspondem ao valor constante do título executivo, em evidente excesso de execução.
+III. Esta Corte possui entendimento no sentido de que "é inviável analisar a tese defendida no Recurso Especial no tocante à suscitada incorreção dos cálculos realizados pela contadoria judicial tendo em vista a necessidade de reexame do acervo fático-probatório dos autos. Aplica-se o óbice da Súmula 7/STJ" (STJ, AgRg no AREsp 510.686/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/03/2015). Nesse sentido: STJ, AgRg no AREsp 263.268/PB, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 18/05/2016; AgRg no AREsp 828.590/RJ, Rel. Ministra DIVA MALERBI (Desembargadora Federal Convocada do TRF/3ª Região), SEGUNDA TURMA, DJe de 11/05/2016; AgRg no AREsp 695.992/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 12/08/2015.
+IV. Agravo interno improvido. (AgInt no AREsp 595.971/CE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 06/10/2016, DJe 04/11/2016)
+PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 535 DO CPC/1973. CUMPRIMENTO DE SENTENÇA. EXCESSO DE EXECUÇÃO. SÚMULA 7 DO STJ. INCIDÊNCIA.
+(..)
+ 3. A via do apelo excepcional não se presta para verificar excesso na execução de título judicial, pois essa medida demanda reexame do acervo fático-probatório dos autos, o que esbarra no óbice estampado na Súmula 7 do STJ.
+4. Agravo interno desprovido. (AgInt no AREsp 170.670/RJ, de minha relatoria, julgado em 15/08/2017, DJe 19/09/2017)
+Quanto à dita ofensa ao art. 20 do CPC/1973, a recorrente não desenvolveu tese a respeito, incidindo, no ponto, a Súmula 284 do STF, por deficiência na fundamentação.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
