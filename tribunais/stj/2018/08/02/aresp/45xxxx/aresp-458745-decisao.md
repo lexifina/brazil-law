@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DO PARANÁ, em que pretende a admissão de recurso especial que desafia acórdão assim ementado (e-STJ fl. 75):
+TRIBUTÁRIO. EXECUÇÃO FISCAL. REMISSÃO DA DÍVIDA (LEI ESTADUAL N. 14075/2003). EXTINÇÃO DE PARTE DA EXECUÇÃO. CUSTAS. SERVENTIA NÃO OFICIALIZADA. PAGAMENTO DEVIDO PELA FAZENDA. PRECEDENTES DO STJ. PRESCRIÇÃO TRIBUTÁRIA DA OUTRA PARTE DA EXECUÇÃO, CONSUMADA EM 2006. TRANSCURSO DO PRAZO QUINQUENAL. DESPACHO CITATÓRIO ANTERIOR À PROMULGAÇÃO DA LC 118/05. AUSÊNCIA DE CITAÇÃO DO EXECUTADO. INAPLICABILIDADE DE REMISSÃO CONCEDIDA EM 2008. CUSTAS PROCESSUAIS IMPUTADAS À EXEQUENTE. MANUTENÇÃO DA SENTENÇA, POR FUNDAMENTOS PARCIALMENTE DIVERSOS.
+RECURSO DESPROVIDO.
+Rejeitados os aclaratórios (e-STJ fls. 102/108).
+No apelo nobre (e-STJ fls. 112/119), o recorrente apontou violação dos arts. 471 e 515 do CPC/1973. Sustentou, em resumo, que o acórdão recorrido afrontou a coisa julgada formada na sentença irrecorrida que extinguira a execução fiscal em relação às CDAs 2518200-6, 2534177-5, 2541861-1 e 2559805-9, por remissão, sem ônus de pagamento de custas à Fazenda Pública. Aduz que "a sentença de fl. 30 que extinguiu parcialmente o feito com base no art. 26 da LEF, determinando o prosseguimento da execução fiscal apenas com relação à CDA 2567502-9, foi expressa no que concerne à custas: custas na forma da lei. Custas na forma do art. 26 da LEF significa sem custas para as partes".
+Sem contrarrazões (e-STJ fl. 137).
+O Tribunal de origem obstou o recurso especial com base na Súmula 282 do STF (e-STJ fl. 139), não concordando o agravante com essa fundamentação (e-STJ fls. 142/147).
+Sem contraminuta (e-STJ fl. 152).
+Passo a decidir.
+Inicialmente, destaco que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, sessão de 09/03/2016).
+Isso considerado, verifico que o recurso especial em comento não merece ser mesmo admitido, visto que os artigos de lei federal tidos por violados - art. 471 do CPC/1973, que cuida da preclusão pro judicado, e art. 515 do CPC/1973, que versa sobre o efeito devolutivo da apelação -, a despeito da oposição de embargos de declaração, não foram efetivamente analisados pelo acórdão recorrido, estando, dessa forma, desatendido o requisito do prequestionamento, nos termos da Súmula 211 do STJ.
+Com efeito, a Corte estadual nada disse acerca da existência de sentença anterior que teria dispensado a Fazenda Pública do pagamento de custas pela extinção das execução em relação às CDAs acima citadas.
+Diversamente disso, o julgado estadual limitou-se a falar da sentença objeto do recurso de apelação por ela apreciado, para concluir que "o Juízo a quo somente condenou o Estado do Paraná ao pagamento das custas ao final do processo (fl. 45), não sendo o caso de trânsito em julgado da decisão" (e-STJ fls. 102/108).
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial (art. 253, parágrafo único, II, "a", do RISTJ).
+Publique-se. Intimem-se.
