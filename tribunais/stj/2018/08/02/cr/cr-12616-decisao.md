@@ -1,0 +1,12 @@
+DECISÃO
+Vistos, etc.
+Trata-se de carta rogatória pela qual o Tribunal Regional de Naha - Seção de Nago, situado no Japão, solicita que se proceda à citação dos Interessados para apresentarem contestação até a data de 23 de janeiro de 2019 e notificação para comparecimento à audiência, a ser realizada no dia 30 de janeiro de 2019, segundo o texto rogatório.
+Foi realizada a intimação prévia dos Interessados, via postal, segundo os documentos de fls. 168-169, 173, 175, 176-177, 178-179 e 180-181.
+Em seguida, a parte Interessada, por intermédio de patrono devidamente constituído, apresentou impugnação às fls. 183-215, alegando: "i) a necessidade de intérprete apto a traduzir para a língua portuguesa todos os atos produzidos oralmente, no curso da Processo n.º (wa) 22/2017, bem como necessidade de tradutor apto a verter a língua portuguesa todos os atos produzidos por escrito no referido processo, de forma condizente com as respectivas condições financeiras dos Interessados; ii) a expressa manifestação da vontade dos Interessados em utilizar meios alternativos para solução do conflito, sem prejuízo da apresentação da defesa cabível; e iii) a impossibilidade econômica e financeira dos Interessados para arcarem com as custas e honorários decorrentes do presente feito, o que será economicamente comprovado".
+O Ministério Público Federal manifestou-se favoravelmente à concessão da ordem, com a imediata devolução do processo à origem, nos termos do parecer à fl. 217.
+É o relatório. Decido.
+Cumpre salientar que as questões acerca do mérito da causa suscitadas na impugnação devem ser analisadas pelo Juízo rogante, pois transcendem os limites estabelecidos no art. 216-Q, § 2.º, do Regimento Interno do Superior Tribunal de Justiça, o que impede o seu exame por este órgão julgador.
+O objeto da presente carta rogatória não atenta contra a soberania nacional, a dignidade da pessoa humana e/ou a ordem pública, razão pela qual, com fundamento no art. 216-O, c.c. o 216-P do Regimento Interno do Superior Tribunal de Justiça, CONCEDO O EXEQUATUR.
+Diante do êxito na intimação prévia das partes Interessadas e manifestação de fls. 183-215, considero consumado o objeto da comissão, mostrando-se desnecessária a remessa dos autos à Justiça Federal.
+Assim, tendo em vista o seu devido cumprimento e com fulcro no art. 216-X do Regimento Interno do Superior Tribunal de Justiça, determino a devolução dos autos à Justiça rogante por intermédio da autoridade central competente.
+Publique-se. Intimem-se.
