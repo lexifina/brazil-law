@@ -1,0 +1,62 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. GRATIFICAÇÃO POR TRABALHO EDUCACIONAL (GTE). MANDADO DE SEGURANÇA COLETIVO. EXECUÇÃO INDIVIDUAL. PRESCRIÇÃO. MARCO TEMPORAL. CONTAGEM A PARTIR DO TRÂNSITO EM JULGADO DA AÇÃO COLETIVA.
+1. Cuida-se na origem de execução de sentença proferida nos autos de Mandado de Segurança Coletivo, no qual se reconheceu o direito dos autores à percepção da Gratificação por Trabalho Educacional/GTE.
+2. No julgamento do REsp 1.388.000/PR, representativo de controvérsia, a Primeira Seção do STJ sedimentou o entendimento de que o prazo prescricional para a execução individual é contado do trânsito em julgado da sentença coletiva, sendo desnecessária a providência de que trata o art. 94 da Lei 8.078/1990.
+3. Recurso Especial provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, deu provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Og Fernandes."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão do Tribunal de Justiça de São Paulo cuja ementa é a seguinte:
+EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA - Gratificação por Trabalho Educacional (GTE) - Lei Complementar nº 874/00.
+Extinção com base no reconhecimento de prescrição. Substituto processual que atuou em proveito dos substituídos, dando início à execução dos atrasados.
+Não observância da regra contida no artigo 94 do Código de Defesa do Consumidor, aplicável por força do artigo 21 da Lei nº 7.347/85.
+Prescrição afastada.
+Recurso provido.
+A recorrente, nas razões do Recurso Especial, sustenta que ocorreu violação do art. 1º do Decreto 20.910/1932, do art. 94 do CDC e do art. 21 da Lei 7.347/1985, sob a argumentação de que o prazo prescricional é de cinco anos, devendo ser contado a partir do cumprimento da obrigação de fazer.
+Contrarrazões apresentadas às fls. 263-278, e-STJ.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 19.1.2018.
+Cuida-se na origem de execução de sentença proferida nos autos de Mandado de Segurança Coletivo, no qual se reconheceu o direito dos autores à percepção da Gratificação por Trabalho Educacional/GTE.
+O juízo de 1ª instância identificou a prescrição e julgou extinta a execução.
+O Tribunal local reformou a sentença, afastando a prescrição por inobservância do disposto no art. 94 do Código de Defesa do Consumidor. Eis o teor do acórdão recorrido (fls. 246-247, e-STJ):
+O título executivo judicial em que se funda a presente ação de execução individual decorre de habilitação promovida no mandado de segurança coletivo nº 1184/00, no qual se reconheceu o direito dos autores á percepção da gratificação denominada "gratificação por trabalho co educacional"  GTE, acrescidas de correção monetária e juros de 6% ao ano.
+Assim, o débito exequendo originou-se de decisão judicial favorável aos exequentes, proferida em sede de Mandado de Segurança Coletivo que transitou em julgado em 7 de abril de 2007. O Centro do Professorado Paulista, em defesa de seus associados, deu início à execução dos atrasados, requerendo a expedição de ofício à Autoridade impetrada, determinando-se o imediato cumprimento da ordem, para apostilar e pagar imediatamente a Gratificação por Trabalho Educacional aos aposentados associados da entidade.
+Com se vê, o Sindicato iniciou a execução do julgado. Assim, ainda que representados pela entidade, os exequentes buscam o recebimento de seus créditos desde então. Por isso o fato de a presente execução individual ter sido é ajuizada em 27 de setembro de 2012 não implica prescrição nem mesmo das parcelas.
+Aliás, a matéria foi exaustivamente analisada por este E. Tribunal de Justiça e, com a devida vênia, transcreve-se trecho de voto proferido no julgamento da apelação cível nº 0010974-20.2012.8.26.0053, relatada pelo eminente Des. Antônio Carlos Malheiros:
+"Não ocorreu a prescrição decretada na decisão monocrática. Considerando-se que não é possível a execução de verbas em atraso em sede de mandado de segurança, notadamente as parcelas anteriores à data da impetração, cabível o ajuizamento desta ação. a fim de obterem os autores, em decorrência do direito ao recebimento da GTE na ação mandamental coletiva, as parcelas em atraso, a contar dos respectivos apostilamentos.
+Na hipótese não se pode falar em ocorrência de prescrição, incidindo na espécie o comando inserto no artigo 94 do Código de Defesa do Consumidor, que determina:
+"Proposta a ação. será publicado edital no órgão oficial, a fim de que os interessados possam intervir no processo como litisconsortes, sem prejuízo de ampla divulgação pelos meios de comunicação social por parte dos órgãos de defesa do consumidor".
+A regra mencionada aplica-se ã hipótese por força do artigo 21 da Lei n. 7.347/85, que determina:
+"Aplicam-se à defesa dos direitos e interesses difusos, coletivos e individuais, no que for cabível, os dispositivos do Titulo III da lei que instituiu o Código de Defesa do Consumidor".
+E, não há noticia de que tal publicidade foi efetivada no presente caso - grifei.
+Contudo, no julgamento do REsp 1.388.000/PR, representativo de controvérsia, a Primeira Seção do STJ sedimentou o entendimento de que o prazo prescricional para a execução individual é contado do trânsito em julgado da sentença coletiva, sendo desnecessária a providência de que trata o art. 94 da Lei 8.078/1990.
+Eis a ementa do julgado:
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. AÇÃO CIVIL PÚBLICA. INÍCIO DA FLUÊNCIA DO PRAZO PRESCRICIONAL DA EXECUÇÃO SINGULAR. INÍCIO. TRÂNSITO EM JULGADO DA SENTENÇA PROFERIDA NA DEMANDA COLETIVA. DESNECESSIDADE DA PROVIDÊNCIA DE QUE TRATA O ART. 94 DO CDC. TESE FIRMADA SOB O RITO DO ART. 543-C DO CPC. PRESCRIÇÃO RECONHECIDA NO CASO CONCRETO.
+1. Não ocorre contrariedade ao art. 535, II, do CPC, quando o Tribunal de origem decide fundamentadamente todas as questões postas ao seu exame, assim como não há que se confundir entre julgado contrário aos interesses da parte e inexistência de prestação jurisdicional.
+2. O Ministério Público do Estado do Paraná ajuizou ação civil pública ao propósito de assegurar a revisão de pensões por morte em favor de pessoas hipossuficientes, saindo-se vencedor na demanda.
+Após a divulgação da sentença na mídia, em 13/4/2010, [NOME] promoveu ação de execução contra o Estado.
+3. O acórdão recorrido declarou prescrita a execução individual da sentença coletiva, proposta em maio de 2010, assentando que o termo inicial do prazo de prescrição de 5 (cinco) anos seria a data da publicação dos editais em 10 e 11 de abril de 2002, a fim de viabilizar a habilitação dos interessados no procedimento executivo.
+4. A exequente alega a existência de contrariedade ao art. 94 do Código de Defesa do Consumidor, ao argumento de que o marco inicial da prescrição deve ser contado a partir da publicidade efetiva da sentença, sob pena de tornar inócua a finalidade da ação civil pública.
+5. Também o Ministério Público Estadual assevera a necessidade de aplicação do art. 94 do CDC ao caso, ressaltando que o instrumento para se dar amplo conhecimento da decisão coletiva não é o diário oficial - como estabelecido pelo Tribunal paranaense -, mas a divulgação pelos meios de comunicação de massa.
+6. O art. 94 do Código de Defesa do Consumidor disciplina a hipótese de divulgação da notícia da propositura da ação coletiva, para que eventuais interessados possam intervir no processo ou acompanhar seu trâmite, nada estabelecendo, porém, quanto à divulgação do resultado do julgamento. Logo, a invocação do dispositivo em tela não tem pertinência com a definição do início do prazo prescricional para o ajuizamento da execução singular.
+7. Note-se, ainda, que o art. 96 do CDC - cujo teor original era "Transitada em julgado a sentença condenatória, será publicado edital, observado o disposto no art. 93" - foi objeto de veto pela Presidência da República, o que torna infrutífero o esforço de interpretação analógica realizado pela Corte estadual, ante a impossibilidade de o Poder Judiciário, qual legislador ordinário, derrubar o veto presidencial ou, eventualmente, corrigir erro formal porventura existente na norma. 8. Em que pese o caráter social que se busca tutelar nas ações coletivas, não se afigura possível suprir a ausência de previsão legal de ampla divulgação midiática do teor da sentença, sem romper a harmonia entre os Poderes.
+9. Fincada a inaplicabilidade do CDC à hipótese, deve-se firmar a tese repetitiva no sentido de que o prazo prescricional para a execução individual é contado do trânsito em julgado da sentença coletiva, sendo desnecessária a providência de que trata o art. 94 da Lei n. 8.078/90.
+10. Embora não tenha sido o tema repetitivo definido no REsp 1.273.643/PR, essa foi a premissa do julgamento do caso concreto naquele feito.
+11. Em outros julgados do STJ, encontram-se, também, pronunciamentos na direção de que o termo a quo da prescrição para que se possa aforar execução individual de sentença coletiva é o trânsito em julgado, sem qualquer ressalva à necessidade de efetivar medida análoga à do art. 94 do CDC: AgRg no AgRg no REsp 1.169.126/RS, Rel.
+Ministro Jorge Mussi, Quinta Turma, DJe 11/2/2015; AgRg no REsp 1.175.018/RS, Rel. Ministro Rogério Schietti Cruz, Sexta Turma, DJe 1º/7/2014; AgRg no REsp 1.199.601/AP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 4/2/2014; EDcl no REsp 1.313.062/PR, Rel. Ministro João Otávio de Noronha, Terceira Turma, DJe 5/9/2013.
+12. Considerando o lapso transcorrido entre abril de 2002 (data dos editais publicados no diário oficial, dando ciência do trânsito em julgado da sentença aos interessados na execução) e maio de 2010 (data do ajuizamento do feito executivo) é imperativo reconhecer, no caso concreto, a prescrição.
+13. Incidência da Súmula 83/STJ, que dispõe: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+14. Recursos especiais não providos. Acórdão submetido ao regime estatuído pelo art. 543-C do CPC e Resolução STJ 8/2008.
+(REsp 1388000/PR, Rel. Ministro Napoleão Nunes Maia Filho, Rel. p/ Acórdão Ministro Og Fernandes, Primeira Seção, DJe 12.4.2016)
+Ainda nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO (INDIVIDUAL) DE TÍTULO JUDICIAL. MANDADO DE SEGURANÇA COLETIVO. PRESCRIÇÃO. PRAZO. TERMO A QUO.
+1. Consoante pacífica jurisprudência desta Corte Superior, o prazo para propositura de execução contra a Fazenda Pública, nos termos do art. 1º do Decreto n. 20.910/1932 e da Súmula 150 do Supremo Tribunal Federal, é de cinco anos, contados do trânsito em julgado do processo de conhecimento, momento em que o título executivo se torna líquido e certo, incidindo o princípio da actio nata. Precedentes.
+2. No julgamento do REsp 1.388.000/PR, representativo de controvérsia, a Primeira Seção superou as divergências sobre o tema, ao definir que o prazo prescricional para a execução individual é contado do trânsito em julgado da sentença coletiva, sendo desnecessária a providência de que trata o art. 94 da Lei n. 8.078/1990.
+3. As Turmas da Seção de Direito Público do STJ decidiram que a prescrição da execução, assim como a prescrição da própria ação de repetição do indébito tributário, é de cinco anos, não havendo falar em prazo de dez anos (cinco mais cinco) (AgRg nos EDcl no AREsp 637.311/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 14/04/2015, DJe 17/04/2015).
+4. A pretensão executiva foi atingida pela prescrição, pois a execução da sentença foi iniciada em 31/08/2010, isto é, após cinco anos do trânsito em julgado do writ, em 28/02/2005.
+5. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 644.705/DF, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 7.2.2017).
+Diante do exposto, dou provimento ao Recurso Especial.
+É como voto.
