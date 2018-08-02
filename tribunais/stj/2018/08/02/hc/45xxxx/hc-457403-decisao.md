@@ -1,0 +1,22 @@
+DECISÃO
+Vistos, etc.
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JEFFERSON RODRIGO DA SILVA, em face de decisão indeferitória de pedido de urgência proferida por Desembargador do Tribunal de Justiça do Estado de São Paulo (HC n.º 2126607-97.2018.8.26.0000).
+Consta dos autos que o Paciente foi preso em flagrante delito, em 20/06/2018, tendo sido convertida em custódia preventiva, no dia 21/6/2018, pela suposta prática do delito de tráfico de entorpecentes, pois foi surpreendido na posse de 23 pinos de cocaína, pesando 18,7 gramas, além de vários pinos plásticos vazios, próprios para acondicionar a referida droga.
+Irresignada, a Defesa impetrou habeas corpus na origem, ficando indeferido o pedido liminar.
+No presente writ, a Impetrante sustenta, inicialmente, que se deve superar a Súmula n.º 691/STF, na hipótese vertente, em razão da ocorrência de manifesta ilegalidade, que a prisão foi levada a efeito em contrariedade ao regramento do art. 313 do Código de Processo Penal e que não foram, também, atendidos os requisitos do art. 312 do mesmo diploma legal.
+Requer, liminarmente, a concessão da ordem para revogar a prisão preventiva do Paciente, concedendo-lhe a liberdade provisória.
+É o relatório inicial.
+Decido o pedido urgente.
+Consoante posicionamento firmado pelo Supremo Tribunal Federal e por esta Corte, não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância.
+É o que está sedimentado na Súmula n.º 691/STF (" n ão compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar"), aplicável, mutatis mutandis, ao Superior Tribunal de Justiça (HC 323.373/AgRg-PR, Rel. Min. REYNALDO SOARES DA FONSECA, 5.ª Turma, DJe de 17/06/2015; HC 274.058/AgRg-RJ, 6.ª Turma, Rel. Min. ROGÉRIO SCHIETTI, DJe de 19/12/2013; HC 274.845/SP, 4.ª Turma, Rel. Min. NANCY ANDRIGHI, DJe de 29/11/2013; HC 260.126/SE, 4.ª Turma, Rel. Min. MARIA ISABEL GALLOTTI, DJe de 29/11/2013, v.g.).
+A despeito de tal óbice processual, tem-se entendido que, em casos excepcionais, deve preponderar a necessidade de se garantir a efetividade da prestação da tutela jurisdicional de urgência para que flagrante constrangimento ilegal ao direito de liberdade possa ser cessado - tarefa a ser desempenhada caso a caso.
+Todavia, esse atalho não pode ser ordinariamente admitido, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade, mormente por forçar o pronunciamento adiantado da instância superior, suprimindo a competência da inferior, subvertendo a regular ordem do processo.
+Em exame prelibatório, não constato excepcionalidade que pudesse ensejar a superação do óbice sumular acima referido, em especial porque o Paciente foi surpreendido na posse de 23 pinos de cocaína (substância com elevado potencial lesivo e que gera grave dependência), pesando 18,7 gramas, tendo sido preso em flagrante após denúncia anônima de que estaria comercializando drogas ilícitas (fl. 24), a justificar a prisão preventiva para garantia da ordem pública.
+A decisão atacada, a propósito, ressaltou que " ..  condições pessoais favoráveis do agente e pequena quantidade de droga são temas que poderão, eventualmente, ser apreciados pela douta Turma Julgadora, no momento oportuno" (fl. 30).
+Dessa forma, não há como se reconhecer, de plano, ilegalidade patente que autorize a mitigação da Súmula n.º 691 do Supremo Tribunal Federal, cuja essência vem sendo reiteradamente ratificada por julgados do Pretório Excelso e do Superior Tribunal de Justiça.
+Destaque-se que, não havendo notícia de que o Tribunal a quo tenha procedido ao exame meritório, reserva-se primeiramente àquele órgão a apreciação da matéria ventilada no habeas corpus originário, sendo defeso ao Superior Tribunal de Justiça adiantar-se nesse exame, sobrepujando a competência da Corte Estadual, mormente se o writ está sendo regularmente processado.
+Nesse diapasão, os seguintes precedentes: AgRg no HC 305.277/SP, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, DJe de 27/11/2014; AgRg no HC 238.461/SP, Rel. Ministra LAURITA VAZ, QUINTA TURMA, DJe de 23/10/2012.
+Ante o exposto, INDEFIRO o pedido liminar.
+Solicitem-se informações ao Tribunal de Justiça do Estado de São Paulo.
+Após, remetam-se os autos ao Ministério Público Federal para o parecer.
+Publique-se. Intimem-se.
