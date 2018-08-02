@@ -1,0 +1,31 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CORRUPÇÃO PASSIVA E FALSIDADE IDEOLÓGICA. CONDENAÇÃO CONFIRMADA PELO TRIBUNAL REGIONAL FEDERAL. EXECUÇÃO ANTECIPADA DA PENA. POSSIBILIDADE. VIOLAÇÃO AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA. INEXISTENTE. RECURSO ESPECIAL ADMITIDO. EFEITO SUSPENSIVO NÃO CONCEDIDO. AGRAVO IMPROVIDO.
+1. A Sexta Turma desta Corte, ao apreciar os EDcl no REsp 1.484.413/DF e no REsp 1.484.415/DF, adotou orientação fixada pelo Supremo Tribunal Federal (HC 126.292/MG, de 17/2/2016) de que a execução provisória da condenação penal, na ausência de recursos com efeito suspensivo, não viola o princípio da presunção de inocência, entendimento reafirmado no julgamento das Ações Declaratórias de Constitucionalidade 43 e 44, em 5/10/2016, pelo Pleno do Supremo Tribunal Federal.
+2. Confirmada a condenação em segundo grau de jurisdição, a prisão para cumprimento antecipado da pena não depende de requisitos ou fundamentos outros, porquanto fundamentada e confirmada a condenação.
+3. Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Maria Thereza de Assis Moura, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental interposto por [NOME], impugnando a decisão que denegou o habeas corpus, e manteve a execução antecipada determinada em acórdão do Tribunal Regional Federal da 4ª Região.
+Insurge-se em face da determinação de expedição de mandado de prisão, invocando, para tanto, o princípio da presunção de inocência e a ausência de fundamentação apta a justificar a imediata ordem de encarceramento.
+Assinala ter o acusado interposto recurso especial, em razão da ofensa ao critério do non reformatio in pejus e da individualização da pena, recurso admitido e pendente de remessa a esta Corte Superior.
+Requer seja reformada a decisão objurgada e seja concedida a ordem de habeas corpus para afastar a execução provisória da pena
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Consta dos autos que o agravante foi condenado em primeira instância, como incurso nas sanções dos artigos 299, c/c o parágrafo único e 71, 317, c/c o § 1º, todos do CP, à pena privativa de liberdade de 5 anos, 1 mês e 10 dias de reclusão, em regime inicial semiaberto, e multa.
+O Tribunal Regional Federal, ao julgar o recurso de apelação, elevou a pena para 12 anos, 6 meses e 10 dias de reclusão, em regime fechado e, por maioria, determinou a expedição imediata de mandado de prisão e carta de guia para execução provisória em desfavor do acusado.
+Os embargos infringentes foram improvidos, assim como os embargos de declaração opostos em face daquele acórdão (fls. 219/222).
+Sobre o tema, a Sexta Turma desta Corte, ao apreciar os EDcl no REsp 1.484.413/DF e no REsp 1.484.415/DF, na sessão de 3/3/2016, adotou a orientação firmada pelo Pleno do Supremo Tribunal Federal (HC 122.292/MG, de 17/2/2016) no sentido de que a execução antecipada da condenação penal, na ausência de recursos com efeito suspensivo, não viola o princípio constitucional da presunção de inocência.
+Os fundamentos do voto condutor do acórdão no Supremo Tribunal Federal, de relatoria do Ministro Teori Zavascki, encontram-se sintetizados na seguinte ementa:
+CONSTITUCIONAL. HABEAS CORPUS. PRINCÍPIO CONSTITUCIONAL DA PRESUNÇÃO DE INOCÊNCIA (CF, ART. 5º, LVII). SENTENÇA PENAL CONDENATÓRIA CONFIRMADA POR TRIBUNAL DE SEGUNDO GRAU DE JURISDIÇÃO. EXECUÇÃO PROVISÓRIA. POSSIBILIDADE. 1. A execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII da Constituição Federal. 2. Habeas corpus denegado (HC 126292, Rel. Min. TEORI ZAVASCKI, Tribunal Pleno, julgado em 17/02/2016, PROCESSO ELETRÔNICO DJe-100 de 17-05-2016).
+Em julgado ocorrido em 5/10/2016, o Pleno do Supremo Tribunal Federal, apreciando medida cautelar nas Ações Declaratórias de Constitucionalidade 43 e 44, por maioria, reafirmou o entendimento da possibilidade de execução provisória da pena, na ausência de recurso com efeito suspensivo.
+Conquanto, recentemente, alguns ministros do Supremo Tribunal Federal tenham se pronunciado pela necessidade de fundamentação nas hipóteses em que o réu respondera ao processo em liberdade, não houve decisão do plenário nesse sentido, prevalecendo o entendimento acima esposado.
+Assim, exaurida a instância ordinária e, na pendência de recursos especial ou extraordinário, somente casuísticos efeitos suspensivos concedidos - por cautelar ou habeas corpus -, impedirão a execução provisória, ainda que concedido o direito de recorrer em liberdade até o trânsito em julgado da condenação.
+Ressalto que esta Corte permanece cumprindo a decisão mencionada do precedente do plenário da Suprema Corte, inobstante as fortes razões em contrário contidas em decisões da segunda turma daquela egrégia Corte - dispensada indicação casuística de necessidade da cautelar, pois assim não exigida pelo precedente aqui seguido.
+Pois bem, consoante consulta processual eletrônica, não obstante a admissão do Recurso Especial, não há notícias de concessão de efeito suspensivos ao referido recurso.
+Ademais, ao analisar a o pedido de Tutela Provisória n. 1427/RS, na qual visava atribuir efeito suspensivo ativo ao recurso especial interposto, não se verificou flagrante ilegalidade a justificar a concessão de pleiteado efeito suspensivo.
+Vale ressaltar, por fim, que confirmada a condenação em segundo grau de jurisdição, a prisão para cumprimento antecipado da pena não depende de requisitos ou fundamentos outros, porquanto fundamentada e confirmada a condenação.
+Não há, portanto, falar em constrangimento ilegal, passível da concessão de habeas corpus, estando o acórdão atacado em consonância com a jurisprudência desta Corte Superior.
+Ante o exposto, voto por negar provimento ao agravo regimental.
