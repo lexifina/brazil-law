@@ -1,0 +1,50 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VÍCIOS DO ART. 619 DO CP. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Não prospera a preliminar de nulidade do acórdão embargado, pois a jurisprudência deste Superior Tribunal é firme em assinalar, nos termos dos arts. 159, IV, e 258, ambos do RISTJ, que o julgamento do agravo regimental prescinde de pauta e não comporta pedido de sustentação oral.
+2. Compete ao relator - sem necessidade de conversão do feito em recurso especial para julgamento em sessão apartada - apresentar agravo regimental em mesa para confirmar decisão proferida em agravo em recurso especial relacionada a não preenchimento de requisitos de admissibilidade ou a tese contrária à jurisprudência deste Superior Tribunal.
+3. Os embargos de declaração são inadmissíveis se, a pretexto de vícios do art. 619 do CPP, objetivam novo julgamento do caso.
+4. Não procede o recurso integrativo porque o acórdão da Sexta Turma, de forma expressa, assinalou que a condenação do réu está lastreada em provas produzidas em Juízo e que para absolvê-lo, ou desclassificar sua conduta, seria imprescindível o revolvimento do acervo fático e probatório, o que é vedado em recurso especial, a teor da Súmula n. 7 do STJ.
+5. Quanto à continuidade delitiva, consta do aresto embargado o registro de não é possível o reconhecimento de crime único, porquanto não preenchido o requisito objetivo do art. 71 do CP.
+6. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro, Maria Thereza de Assis Moura e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+SAVERIO AUGUSTO CRETELLA opõe embargos de declaração ao acórdão de fls. 2.284-2.289.
+Aponta o embargante "a nulidade do julgamento por erro material/por omissão/contradição referente ao julgamento do recurso especial sem marcação de pauta para fins de sustentação oral, conforme requerido no próprio agravo regimental, bem como deixar de tratar toda a matéria discutida de forma expressa" (fl. 2.295).
+Para a parte, "atacando os princípios do contraditório, ampla defesa, e devido processo legal, o agravo regimental foi levado em mesa para votação sem qualquer publicação", sem marcação de pauta para posterior julgamento de recurso especial.
+Ademais, segundo o réu, não houve pronunciamento sobre a ofensa ao princípio da persuasão racional das provas e o julgado deixou de observar que ele "teve diversas ações além dessa  .. , tendo sido requerida a união dos processos nessa ação". O Juiz "entendeu que isso acarretaria problemas na instrução", mas todos os fatos ocorreram no "mesmo local, na mesma época e da mesma forma", o que enseja a aplicação do crime continuado, em reação a "17 (dezessete) fatos" (fl. 2.298).
+O embargante busca "a descaracterização do crime de estelionato" para apropriação indébita, "pois o que de fato ocorreu foi ilícito civil" (fl. 2.299) e "não ocorreu dolo anterior" (fl. 2.299). Além disso, não houve observância do "princípio da correlação" e nem poderia "se pensar em aplicar ao caso o art. 384 do CPP" (fls. 2.300-2.301). Tem-se que "a absolvição  ..  é medida que se impõe" (fl. 2.301).
+Requer, "seja anulado o acórdão, com a designação de data de julgamento do recurso especial" (fl. 2.302) e a "apreciação das omissões apontadas para o fim de modificar as decisões guerreadas", com sua consequente absolvição ou "descaracterização do crime para o crime de apropriação indébita" ou, alternativamente, "sejam aplicadas as regras do crime continuado" (fl. 2.302).
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VÍCIOS DO ART. 619 DO CP. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Não prospera a preliminar de nulidade do acórdão embargado, pois a jurisprudência deste Superior Tribunal é firme em assinalar, nos termos dos arts. 159, IV, e 258, ambos do RISTJ, que o julgamento do agravo regimental prescinde de pauta e não comporta pedido de sustentação oral.
+2. Compete ao relator - sem necessidade de conversão do feito em recurso especial para julgamento em sessão apartada - apresentar agravo regimental em mesa para confirmar decisão proferida em agravo em recurso especial relacionada a não preenchimento de requisitos de admissibilidade ou a tese contrária à jurisprudência deste Superior Tribunal.
+3. Os embargos de declaração são inadmissíveis se, a pretexto de vícios do art. 619 do CPP, objetivam novo julgamento do caso.
+4. Não procede o recurso integrativo porque o acórdão da Sexta Turma, de forma expressa, assinalou que a condenação do réu está lastreada em provas produzidas em Juízo e que para absolvê-lo, ou desclassificar sua conduta, seria imprescindível o revolvimento do acervo fático e probatório, o que é vedado em recurso especial, a teor da Súmula n. 7 do STJ.
+5. Quanto à continuidade delitiva, consta do aresto embargado o registro de não é possível o reconhecimento de crime único, porquanto não preenchido o requisito objetivo do art. 71 do CP.
+6. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+I. Nulidade do acórdão - sustentação oral
+Preliminarmente, não prospera o pedido de nulidade do acórdão embargado, pois a jurisprudência deste Superior Tribunal é firme em assinalar, nos termos dos arts. 159, IV, e 258, ambos do RISTJ, que o julgamento do agravo regimental relativo a matéria penal prescinde de pauta e não comporta pedido de sustentação oral.
+Confira-se (destaquei):
+Art. 159. Não haverá sustentação oral no julgamento de:
+IV - agravo, salvo expressa disposição legal em contrário;
+Art. 258. A parte que se considerar agravada por decisão do Presidente da
+Corte Especial, de Seção, de Turma ou de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+A teor dos julgados desta Corte: "O agravo regimental é julgado em mesa, não havendo previsão regimental de sustentação oral. Precedentes" (AgRg no AREsp n. 1131067/MG, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 18/12/2017).
+Aplica-se à hipótese a compreensão de que:
+Segundo disposição expressa do Regimento Interno desta Corte Superior (art. 258), na parte em que trata do Agravo Regimental em Matéria Penal, o feito será levado em mesa, dispensando-se, assim, prévia comunicação de seu julgamento à parte, a qual, é de se ressaltar, é vedada, através de sua defesa constituída, a realização de sustentação oral, nos termos do disposto no art. 159, IV, do diploma legal aludido.
+(EDcl no AgRg no AREsp n. 620.058/DF, Rel. Ministro Jorge Mussi, 5ª T., DJe 15/9/2017).
+Cito, ainda, precedente da Sexta Turma: "Não prospera a arguida nulidade do acórdão ora impugnado, porquanto o julgamento de agravo regimental independe de prévia publicação da pauta para a intimação das partes, conforme o teor do art. 258 do RISTJ, uma vez que o feito é apresentado em mesa. O pleito de sustentação oral, da mesma forma, está expressamente vedado pelo inciso IV do art. 159 do RISTJ" (EDcl no AgRg no AREsp n. 996.640/SC, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 9/6/2017).
+Não há falar em conversão do feito em recurso especial para designar sessão de julgamento, uma vez que compete ao relator conhecer do agravo em recurso especial para concluir pelo não preenchimento de requisitos de admissibilidade ou resolver a controvérsia em consonância com a jurisprudência desta Corte Superior.
+II. Omissão - inexistência
+Dito isso, não há omissão a ser sanada no acórdão embargado, que se manifestou expressamente sobre todas as questões deduzidas pela parte.
+Quanto à pretensa ofensa ao princípio da persuasão racional, a tese defensiva foi afastada porque "O Tribunal registrou provas documental e testemunhal produzidas em Juízo para fundamentar sua persuasão racional e afastar as teses de ocorrência de mero ilícito civil ou de ausência de dolo" (fl. 2.285).
+Acerca da almejada desclassificação da conduta para o crime de apropriação indébita, constou do acórdão embargado que o Tribunal foi "firme em evidenciar a intenção do agente em lesar as vítimas, desde o início" (dolo anterior) e, para entender de modo diverso e desclassificar sua conduta para apropriação indébita (art. 168 do CP), seria imprescindível o revolvimento do acervo fático-probatório delineado nos autos, o que é vedado em recurso especial, a teor da Súmula n. 7 do STJ (fls. 2.227-2.288).
+Como não é possível mudar a tipificação legal do delito sem dirimir controvérsia fática, o recurso não comporta análise sobre a impossibilidade de "nova definição jurídica do fato, nos termos do art. 384 do CPP" no âmbito deste Superior Tribunal, a ensejar a absolvição do réu (fl. 2.299).
+Finalmente, na série delitiva tratada nestes autos, relacionado a cinco condutas (o Juiz reconheceu a continuidade delitiva entre o 1º, o 8º e o 5º fatos narrados na denúncia), o aresto da Sexta Turma concluiu ser "incabível a aplicação do art. 71 do CP, pois não está preenchido o requisito objetivo (idênticas condições de tempo), uma vez que o agente praticou os ilícitos em datas muito distantes umas das outras, em intervalos que superam 6 meses, a indicar verdadeira habitualidade criminosa. Imperativo, pois, o reconhecimento do concurso material" (fl. 2.289).
+Assim, nota-se que o acórdão embargado não padece de nenhuma omissão, e o embargante pretende, em verdade, é o rejulgamento do caso, insurgência que não se coaduna com a via do recurso integrativo.
+III. Dispositivo
+À vista do exposto, rejeito os embargos de declaração.
