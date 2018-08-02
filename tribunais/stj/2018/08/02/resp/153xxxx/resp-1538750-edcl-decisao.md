@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] contra decisão de minha lavra, proferida às e-STJ fls. 378/385, em que conheci parcialmente do recurso especial e, nessa extensão, negou-lhe provimento.
+Em suas razões, o embargante sustenta que "dentre as várias matérias tratadas no Especial, carece de manifestação um ponto em específico, no que toca ao reclamo acerca da não ocorrência de omissão de rendimentos, tendo em vista que o Recorrente apresentou DIRPF retificadora, na qual foram excluídas [NOME], [NOME] e [NOME] (cujos rendimentos a ora Recorrida pretende incluir na base de cálculo do imposto de renda suplementar do ano calendário de 2004 do Recorrente). Muito embora tenha a r. decisão indicado, nos termos do acórdão recorrido, que não teria havido demonstração de inobservância da tributação proporcional, fazendo incidir o óbice da Súmula 7-STJ, o Recorrente apresentou DIRPF retificadora o que afasta a aplicação do óbice para apreciação desta questão" (e-STJ fl. 388).
+Sem impugnação (e-STJ fl. 411).
+Passo a decidir.
+Nos termos do art. 1.022 do CPC, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material na decisão.
+In casu, não ocorreu nenhum dos vícios supracitados.
+Consoante explicitado, quanto à suposta contrariedade ao art. 27 do RIR/1999 (Decreto n. 3.000/1999), o recorrente argumenta que quando os rendimentos dos filhos menores é declarado em conjunto com qualquer dos pais, os rendimentos daqueles só responderão pela parcela do imposto proporcional à relação entre seus rendimentos tributáveis e o total da base de cálculo do imposto.
+A título de elucidação, translada-se o seguinte excerto do voto condutor do acórdão guerreado, quanto ao tema, in verbis:
+No tocante à omissão de rendimentos, melhor sorte não assiste ao autor. Segundo o art. 4º, § único, do RIR/99, aprovado pelo Decreto nº 3.000/1999, poderia o autor optar por declarar as filhas como dependentes ou então fazer uma declaração em separado para elas. Se optasse pela inclusão como dependentes, deveria acrescer os rendimentos das filhas aos seus próprios. Não se cuida, portanto, de erro de preenchimento, mas de infração à legislação do imposto de renda.
+Embora os valores recebidos pelas filhas do autor provenham de estágio, sem vínculo empregatício, igualmente haverá incidência de imposto de renda, consoante o art. 43, inciso I, do Decreto nº 3.000/1999. O limite de isenção aplicável aos rendimentos individuais das dependentes não se estende à declaração conjunta. No tocante ao disposto no art. 27 do Decreto nº 3.000/1999, o autor não demonstrou a inobservância da tributação proporcional à relação entre os rendimentos líquidos dos menores e o total da renda bruta declarada conjuntamente com os pais (Grifos acrescidos) (e-STJ fls. 245/246).
+Como se pode verificar, o Tribunal de origem, ao assentar de forma clara que o recorrente "não demonstrou a inobservância da tributação proporcional à relação entre os rendimentos líquidos dos menores e o total da renda bruta declarada conjuntamente com os pais", decidiu a questão ora ventilada com base na realidade que delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Assim, o vício alegado pelo embargante, na realidade, manifesta seu inconformismo com o resultado do julgamento, desiderato inadmissível em sede de embargos declaratórios.
+Nesse sentido, transcrevo precedente desta Corte Superior:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ART. 535, INCS. I E II, DO CPC. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 535, incs. I e II, do CPC, destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição existente no julgado, o que não ocorre na hipótese em apreço.
+2. As alegadas omissões tratam, em verdade, de fundamentos trazidos pelo recorrente, os quais foram rejeitados pelo acórdão, na medida em que se decidiu integralmente a controvérsia, de maneira sólida e fundamentada.
+3. A parte embargante objetiva apenas o reexame da causa com a atribuição de efeitos infringentes ao recurso, o que é inviável em sede de embargos de declaração
+4. Não há vício de embargabilidade quando o aresto recorrido decide integralmente a controvérsia, de maneira sólida e fundamentada.
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EAREsp n. 592.756/PR, relator Ministro OG FERNANDES, Corte Especial, DJe 18/12/2015).
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
