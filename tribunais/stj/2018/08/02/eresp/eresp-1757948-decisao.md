@@ -1,0 +1,27 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto contra decisão que deixou de admitir recurso especial interposto em face de acórdão do Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+DIREITO TRIBUTÁRIO. SÓCIOS DE EMPRESA DE RESPONSABILIDADE LIMITADA. ILEGITIMIDADE PASSIVA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA TRIBUTÁRIA E FISCAL. COMPENSAÇÃO TRIBUTÁRIA.
+Em decorrência do princípio da autonomia patrimonial, em regra, os sócios não respondem por obrigações da sociedade empresária de responsabilidade limitada. A relação civil contratual estabelecida entre as partes tendo por base um contrato de prestação de serviços se difere da relação jurídico-tributária entre a empresa contribuinte e o Fisco. Tendo as partes firmado contrato de prestação de serviços de assessoria tributária e fiscal em que os pagamentos se dariam após as compensações tributárias e estando incontroverso que as compensações estavam sendo feitas e o serviço estava sendo prestado, mostra-se descabido o pedido de rescisão do contrato e restituição dos valores pagos. Apelação desprovida. (fl. 992)
+Em sua petição recursal, a parte recorrente pleiteou:
+a) A anulação do acórdão em razão da violação ao artigo 1.022 do NCPC, antigo 535 do CPC, bem como a remessa dos autos para prolação de nova decisão, dessa vez apreciando todos os argumentos, uma vez que deixou de se pronunciar sob ponto crucial, qual seja: a inexistência de compensação efetivada, ou seja, reputando devida a cifra de RS 12.000.000,00 (doze milhões de reais) quando na verdade causou um prejuízo de quase R$ 100.000.000,00 (cem milhões de reais) à recorrente.
+b) Que o presente recurso especial seja conhecido e provido para reconhecer a afronta ao artigo 170-A do CIN, uma vez que o mesmo não foi aplicado ao caso, mesmo se tratando de evidente compensação antes do trânsito em julgado de decisão judicial;
+c) Que o presente recurso especial seja conhecido e provido para reconhecer a afronta ao artigo 66 da Lei nº 8.383/91, considerando que o mesmo não é aplicável ao caso, tendo em vista a inexistência de crédito líquido e certo a ser compensado (pendente de decisão judicial transitada em julgado);
+d) Que o presente recurso especial seja conhecido e provido para reconhecer a afronta ao artigo 104, II, do CC porque o objeto do contrato é ilícito, contrariando gravemente a legislação pátria, mais especificamente ao artigo 170 - A do CTN, bem como o princípio da boa-fé que deve reger o contrato, que não pode trazer benefício somente a uma das partes.
+e) Que o presente recurso especial seja conhecido e provido para reconhecer a afronta ao artigo 6o, inciso VIII, do Código de Defesa do Consumidor, considerando que caberia à Recorrida comprovar que a finalidade do contrato foi alcançada, ou seja, que houve efetiva compensação encontro de créditos e débitos;
+f) que seja conhecido o recurso pela divergência com Acórdão nº 957757/Recurso de Apelação nº 0200572-45.2012.8.21.7000 - Relator Ergio Roque Menine e dado provimento para prevalecer o entendimento do acórdão paradigma no sentido que a mera transmissão das compensações, em patente afronta à lei vigente, não gera direito à percepção de honorários, até mesmo porque inexiste qualquer compensação efetivamente realizada;
+Em contrarrazões, a parte recorrida alegou que o recurso especial encontraria óbice nas Súmula 5 e 7/STJ.
+O recurso especial foi inadmitido com base nas Súmulas 5 e 7/STJ.
+Nas razões do agravo, a parte agravante impugnou os fundamentos da decisão ora agravada.
+Por meio da TP 771/DF, a parte recorrente requereu agregação de efeito suspensivo ao recurso especial, noticiando a pendência de cumprimento de sentença no valor de 16 milhões de reais. Naquela ocasião, a tutela foi indeferida.
+Por meio da TP 1576/DF, noticiou-se a penhora de diversos imóveis da ora recorrente, e até mesmo a penhora dos frutos de imóvel de terceiro, para satisfazer o valor exequendo, que já ultrapassaria a cifra de 17 milhões de reais.
+É o breve relatório. Passo a decidir o presente agravo.
+Há controvérsia nos presentes autos acerca do regime de compensação tributária, previsto no art. 66 da Lei 8.383/1991 e aquele previsto no art. 170-A do Código Tributário Nacional, para se aferir a correta execução de contrato de assessoria tributária.
+Segundo dispõe o art. 66 da Lei 8.383/1991, o contribuinte pode efetuar a compensação tributária no período de recolhimento subsequente, nos casos de pagamento indevido ou a maior.
+Já o art. 170-A do Código Tributário Nacional estatui que "é vedada a compensação mediante o aproveitamento de tributo, objeto de contestação judicial pelo sujeito passivo, antes do trânsito em julgado da respectiva decisão judicial".
+Trata-se de controvérsia relevante, que foi inclusive objeto de tese firmada por esta Corte Superior pelo rito dos recursos especiais repetitivos, no Tema 346/STJ, segundo o qual a vedação do art. 170-A do CTN se aplica inclusive nas hipóteses de reconhecida inconstitucionalidade do tributo indevidamente recolhido.
+É de rigor, portanto, a conversão do agravo em recurso especial para que a controvérsia acerca da negativa de prestação jurisdicional, ou a própria controvérsia de fundo seja apreciada com profundidade adequada por esta Corte Superior.
+Destarte, a reautuação do agravo como recurso especial é medida que se impõe.
+Ante o exposto, DOU PROVIMENTO ao agravo para determinar a sua reautuação como recurso especial para melhor exame da controvérsia.
+À coordenadoria para as providências cabíveis.
+Intimem-se.
