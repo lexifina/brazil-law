@@ -1,0 +1,18 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Dr. Gustavo Mascarenhas Lacerda Pedrina prestou as seguintes informações:
+    O Juízo da Terceira Vara Criminal da Comarca de São José dos Campos/SP, no processo nº 0019247-26.2016.8.26.0577, converteu a prisão temporária da paciente, ocorrida em 28 de novembro de 2016, e de outros 28 investigados, em preventiva, em virtude do alegado cometimento das infrações versadas nos artigos 33 (tráfico de drogas) e 35 (associação para o tráfico) da Lei nº 11.343/2006, 1º (lavagem de dinheiro) da Lei nº 9.613/1998 e 2º (integrar organização criminosa) da Lei nº 12.850/2013. Enfatizou a existência de interceptações telefônicas a comprovarem a participação no comércio de entorpecentes, reportando-se ao consignado no ato relativo à custódia temporária. Assentou necessária a prisão para garantir a ordem pública, considerada a gravidade dos delitos, os prejuízos do tráfico para a sociedade e o risco de reiteração criminosa, ante o envolvimento com o grupo denominado Primeiro Comando da Capital (PCC). Entendeu imperiosa a custódia para preservar a instrução processual e a aplicação da lei penal, mencionando a possibilidade de fuga e a conveniência de resguardar a integridade dos elementos de prova.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas de nº 452.048/SP, inadmitido pelo Relator.
+    A impetrante sustenta a inidoneidade da fundamentação da decisão mediante a qual determinada a preventiva, tendo-a como genérica e abstrata. Afirma não haver prova da participação da paciente na prática delituosa, dizendo ser apenas mãe dos traficantes líderes da organização. Aponta o caráter excepcional da prisão cautelar, evocando o princípio da não culpabilidade. Menciona ausente risco à instrução processual ou à aplicação da lei penal. Argui viável o estabelecimento das medidas cautelares definidas no artigo 319 do Código de Processo Penal. Frisa as condições pessoais favoráveis – ocupação lícita, residência fixa e família constituída. Salienta que a paciente é idosa, com 61 anos de idade e saúde debilitada.
+    Requer, no campo precário e efêmero, a revogação da preventiva e, sucessivamente, a imposição de medida diversa. No mérito, busca a confirmação da providência.
+    Consulta ao sítio do Tribunal estadual, no dia 27 de julho de 2018, revelou encontrar-se o processo-crime na fase de instrução.
+    Vossa Excelência, em 3 de fevereiro de 2017, revogou a preventiva da paciente, considerada a insubsistência dos fundamentos, por extensão, ao apreciar a medida acauteladora no habeas corpus nº 139.654/SP, havendo a Primeira Turma indeferido a ordem no dia 20 de março de 2018.
+    A etapa é de exame da liminar.
+    2. Evolui em meu entendimento desde que implementei a medida acauteladora no habeas de nº 139.654. O Juízo, ao determinar a prisão preventiva, ressaltou tratar-se de cidadã supostamente integrante de organização criminosa, aludindo à participação no comércio de entorpecentes. Destacou interceptações telefônicas a comprovarem tais fatos. Sem prejuízo do princípio da não culpabilidade, a medida se impunha, ante a periculosidade, ao menos sinalizada. Daí ter-se como razoável e conveniente o ato atacado. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 2 de agosto de 2018.
+Ministro MARCO AURÉLIO
+Relator
