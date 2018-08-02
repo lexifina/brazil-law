@@ -1,0 +1,57 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO AO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. LICENÇA-PRÊMIO NÃO GOZADA. CONVERSÃO EM PECÚNIA. APOSENTADORIA. HONORÁRIOS ADVOCATÍCIOS. REDISCUSSÃO DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA 7/STJ. INCIDÊNCIA.
+1. Não ocorreu omissão no aresto combatido, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. "O início do cômputo prescricional do direito à conversão em pecúnia da licença-prêmio coincide com o dia posterior ao qual o ato de aposentadoria ganhou eficácia com o registro de vontade da Corte de Contas." (MS 17.406/DF, Rel. Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 15/08/2012, DJe 26/09/2012).
+3. A alteração das conclusões adotadas pela Corte de origem, acerca do valor fixado a título de honorários advocatícios, tal como proposta pelo recorrente, demandaria, necessariamente, novo exame do acervo probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto pelo DISTRITO FEDERAL, desafiando decisão que negou provimento a recurso especial, sob os seguintes fundamentos: (I) que o início do cômputo prescricional do direito à conversão em pecúnia da licença-prêmio coincide com o dia posterior ao qual o ato de aposentadoria ganhou eficácia com o registro de vontade da Corte de Contas; e (III) que a alteração das conclusões adotadas pela Corte de origem, quanto ao valor fixado a título de honorários advocatícios, demandaria novo exame do acervo fático-probatório constante dos autos, providência vedada pela Súmula 7/STJ.
+O agravante, em suas razões, repisa seus argumentos quanto à negativa de prestação jurisdicional pelo acórdão recorrido, sustentando, ainda, que a prescrição se inicia no instante da lesão ao direito, aduzindo que "a data relevante para fins da contagem da prescrição é aquela em que o servidor parou de prestar serviços e não foi contemplado com a conversão postulada." (fl. 159)
+Requer, por fim, a reforma quanto à verba honorária, a seu ver, fixada em discrepância dos parâmetros estabelecidos na norma processual.
+As razões do recurso não foram impugnadas (fl. 166).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Como atestado na decisão ora recorrida, verifica-se não ter ocorrido qualquer omissão no aresto combatido, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+A propósito, "Não há que se falar em negativa de prestação jurisdicional, visto que tal somente se configura quando, na apreciação de recurso, o órgão julgador insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi.  ..  A solução integral da controvérsia, com fundamento suficiente, não caracteriza negativa de prestação jurisdicional." (AgInt no AREsp 879.172/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 22/09/2016, DJe 28/09/2016).
+Neste sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 535 DO CPC/73. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. AÇÃO CIVIL PÚBLICA. MINISTÉRIO PÚBLICO. ATUAÇÃO COMO PARTE. INTERVENÇÃO COMO FISCAL DA LEI. DESNECESSIDADE. PRECEDENTES DO STJ. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. REQUISITOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. QUESTÃO DE MÉRITO AINDA NÃO JULGADA, EM ÚNICA
+OU ÚLTIMA INSTÂNCIA, PELO TRIBUNAL DE ORIGEM. EXAME. IMPOSSIBILIDADE. SÚMULA 735/STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. Não há falar, na hipótese, em violação ao art. 535 do CPC/73, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão dos Embargos Declaratórios apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução
+jurídica diversa da pretendida.
+ ..
+VII. Agravo interno improvido.
+(AgInt no AREsp 698.557/BA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 13/09/2016, DJe 27/09/2016).
+Quanto ao mérito, reitera-se que esta Corte possui entendimento atual de que "o início do cômputo prescricional do direito à conversão em pecúnia da licença-prêmio coincide com o dia posterior ao qual o ato de aposentadoria ganhou eficácia com o registro de vontade da Corte de Contas" (MS 17.406/DF, Rel. Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 15/08/2012, DJe 26/09/2012).
+Nesse sentido:
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. MANDADO DE SEGURANÇA. SERVIDORES PÚBLICOS ESTADUAIS. LICENÇA-PRÊMIO NÃO GOZADA E NEM UTILIZADA COMO TEMPO PARA APOSENTADORIA. CONVERSÃO EM PECÚNIA. MARCO INICIAL DA PRESCRIÇÃO PARA A SUA POSTULAÇÃO. DATA DO REGISTRO DO JUBILAMENTO NO TRIBUNAL DE CONTAS. PRESCRIÇÃO QUINQUENAL. NÃO OCORRÊNCIA NO CASO CONCRETO.
+1. A Primeira Seção do STJ, em sede de recurso repetitivo, entendeu que ".. a contagem da prescrição quinquenal relativa à conversão em pecúnia de licença-prêmio não gozada e nem utilizada como lapso temporal para a aposentadoria, tem como termo a quo a data em que ocorreu a aposentadoria do servidor público" (REsp 1.254.456/PE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe 02/05/2012).
+2. Já por sua Corte Especial, firmou o STJ a compreensão de que, ".. sendo o ato de aposentadoria um ato complexo, do qual se origina o direito à conversão em pecúnia da licença-prêmio, a prescrição somente se inicia a partir da integração de vontades da Administração. Assim, o início do cômputo prescricional do direito à conversão em pecúnia da licença-prêmio coincide com o dia posterior ao qual o ato de aposentadoria ganhou eficácia com o registro de vontade da Corte de Contas" (MS 17.406/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, DJe 26/09/2012).
+3. Da interpretação conjunta desses precedentes se extrai que o marco inicial para a contagem do prazo prescricional das ações que intentam converter em pecúnia a licença-prêmio não gozada e nem utilizada para a contagem do tempo de aposentação é a data do registro do ato da jubilação pela Corte de Contas.
+4. No recurso ordinário em mandado de segurança não cabe ao STJ se pronunciar sobre as questões de mérito não tratadas na Corte de origem, sob pena de indevida supressão de instância. Precedentes.
+5. Recurso ordinário em mandado de segurança parcialmente provido, em ordem a afastar a prescrição e determinar o retorno do feito à origem.
+(RMS 47.331/BA, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 12/12/2017, DJe 18/12/2017)
+ADMINISTRATIVO. SERVIDOR PÚBLICO. CONVERSÃO DE LICENÇA-PRÊMIO EM PECÚNIA. PRESCRIÇÃO. ATO COMPLEXO. TERMO INICIAL. HOMOLOGAÇÃO DO ATO DE APOSENTADORIA PELO TRIBUNAL DE CONTAS. 1. Consoante o entendimento desta Corte, por ser o ato de aposentação complexo, o prazo prescricional do direito do servidor requerer a conversão em pecúnia da licença-prêmio não gozada somente se inicia com o registro da aposentadoria no Tribunal de Contas. 2. Quando o agravo interno for declarado manifestamente inadmissível ou improcedente em votação unânime, o órgão colegiado, em decisão fundamentada, condenará o agravante a pagar ao agravado multa fixada entre um e cinco por cento do valor atualizado da causa (art. 1.021, § 4º, do CPC/2015).
+3. Agravo interno desprovido, com aplicação de multa.
+(AgInt no REsp 1641014/DF, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 12/12/2017, DJe 27/02/2018)
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. CONVERSÃO DE LICENÇA-PRÊMIO EM PECÚNIA. PRESCRIÇÃO. ATO COMPLEXO. TERMO INICIAL.
+HOMOLOGAÇÃO DO ATO DE APOSENTADORIA PELO TCU. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF.
+1. A Corte Especial do STJ, no julgamento do MS 17.406/DF (Rel. Min. Maria Thereza de Assis Moura, DJe 26.9.2012), decidiu que o direito à conversão em pecúnia das licenças-prêmio não gozadas ou não utilizadas para a contagem do tempo de serviço origina-se do ato de aposentadoria, que é complexo, de modo que o prazo prescricional tem início com o registro da aposentadoria pelo Tribunal de Contas.
+2. Não se conhece de Recurso Especial quanto a matéria que não foi especificamente enfrentada pelo Tribunal de origem, dada a ausência de prequestionamento. Incidência, por analogia, da Súmula 282/STF.
+3. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1653270/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/03/2017, DJe 18/04/2017)
+Correta a decisão, ainda, ao estabelecer que a jurisprudência do STJ orienta-se no sentido de que, em regra, não se mostra possível em recurso especial a revisão do valor fixado a título de honorários advocatícios, pois tal providência exigiria novo exame do contexto fático-probatório constante dos autos, o que é vedado pela Súmula 7/STJ.
+Todavia, o óbice da referida súmula pode ser afastado em situações excepcionais, quando for verificado excesso ou insignificância da importância arbitrada, ficando evidenciada ofensa aos princípios da razoabilidade e da proporcionalidade, hipóteses não configuradas nos autos.
+No caso, o Tribunal de origem majorou a verba honorária para R$ 1.000,00, considerando as peculiaridades fáticas do presente feito, no qual se atribuiu à causa o valor de R$ 60.000,00 (sessenta mil reais);
+Dessarte, não configurada a excepcionalidade exigida pela jurisprudência desta Corte, não se mostra possível a redução dos honorários advocatícios pleiteada pela parte ora agravante.
+A propósito, confira-se:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. HONORÁRIOS. IMPOSSIBILIDADE DE REVISÃO. ÓBICE DA SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A revisão do valor dos honorários advocatícios arbitrado, é, em princípio, vedado nesta instância, à luz da Súmula 7/STJ. Como cediço, é admitida sua revisão por esta Corte quando o valor arbitrado extrapola os limites da razoabilidade, o que, todavia, não se verifica no presente caso.
+2. A tese jurídica veiculada nas razões do regimental não é capaz de modificar o posicionamento anteriormente firmado no decisum ora impugnado, que persevera, na íntegra, por seus próprios fundamentos.
+3. Agravo regimental não provido.
+(AgRg no AREsp 171.013/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 07/03/2013, DJe 13/03/2013)
+Em face do exposto, nega-se provimento ao agravo interno.
+É o voto.
