@@ -1,0 +1,40 @@
+EMENTA
+PROCESSUAL CIVIL. RETORNO DOS AUTOS PARA RETRATAÇÃO. ART. 1.030, II, DO CPC/2015. PRECATÓRIOS. JUROS DE MORA. PERÍODO ENTRE A DATA DA CONTA E A EXPEDIÇÃO DO PRECATÓRIO. POSSIBILIDADE. ENTENDIMENTO FIXADO PELO STF NO RE 579.431/RS.
+1. O STJ seguia o entendimento firmado no REsp repetitivo 1.143.677/RS de que não incidem juros moratórios entre a elaboração dos cálculos e o efetivo pagamento da requisição de pequeno valor (RPV).
+2. Ocorre que, em sessão realizada em 19.4.2017, o Plenário do Supremo Tribunal Federal, no julgamento do RE 579.431/RS, da relatoria do Ministro Marco Aurélio, em regime de Repercussão Geral, fixou a tese de que "incidem os juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório".
+3. Assim, consoante o art. 1.040 do CPC/15, de rigor a reforma do acórdão recorrido para realinhar ao entendimento do STF acerca da incidência dos juros moratórios, razão pela qual não merece prosperar a irresignação trazida à apreciação do STJ.
+4. Agravo Regimental provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, deu provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Francisco Falcão."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Regimental interposto contra decisão monocrática (fls. 252-254, e-STJ) que deu provimento ao recurso do INSS para afastar a incidência dos juros de mora no período compreendido entre a data da homologação da conta de liquidação e a expedição do precatório ou da requisição de pequeno valor (RPV).
+O agravante, em breve síntese, alega que deve incidir juros moratórios e correção monetária no período compreendido entre a elaboração dos cálculos de liquidação e o final do prazo constitucional para o pagamento.
+Em 28.4.2015, a Segunda Turma negou provimento ao Agravo Regimental, nos seguintes termos (fl. 278, e-STJ):
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. JUROS DE MORA. PERÍODO COMPREENDIDO ENTRE A HOMOLOGAÇÃO DO CÁLCULO E A EXPEDIÇÃO DO PRECATÓRIO OU RPV. NÃO INCIDÊNCIA.
+1. Hipótese em que a parte agravante requer o provimento do recurso para que se assegure a incidência dos juros moratórios no período compreendido entre a elaboração dos cálculos e a expedição do precatório.
+2. A Corte Especial já firmou compreensão de que não incidem juros moratórios entre a data da elaboração da conta de liquidação e a do efetivo pagamento do precatório ou da requisição de pequeno valor (RPV), quando do julgamento do REsp 1.143.677/RS, Rel. Min. Luiz Fux, no rito do art. 543-C do CPC.
+3. Agravo Regimental não provido.
+O insurgente interpôs Recurso Extraordinário (fls. 270-276, e-STJ). O apelo foi sobrestado, nos termos do art. 328-A do Regimento Interno do Supremo Tribunal Federal - RISTF, até o julgamento do Recurso Extraordinário 579.431 (fls. 304-306, e-STJ).
+Com o julgamento do referido recurso, a Vice-Presidência desta Corte determinou a remessa dos autos à minha relatoria, nos termos do art. 1.030, II, do CPC/2015.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 24.11.2017.
+De fato, o STJ seguia o entendimento firmado no REsp repetitivo 1.143.677/RS de que não incidem juros moratórios entre a elaboração dos cálculos e o efetivo pagamento da requisição de pequeno valor (RPV).
+Ocorre que, em sessão realizada em 19.4.2017, o Plenário do Supremo Tribunal Federal, no julgamento do RE 579.431/RS, da relatoria do Ministro Marco Aurélio, em regime de Repercussão Geral fixou a tese de que "incidem os juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório".
+Em consulta ao sítio eletrônico da Suprema Corte, verifica-se que o novo entendimento foi noticiado no informativo 861 daquele Tribunal, conforme exposto abaixo:
+Incidem os juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório.
+Com base nesse entendimento, o Plenário, em conclusão, negou provimento a recurso extraordinário em que discutida a incidência dos juros de mora no período supracitado  v. Informativo 805.
+O Colegiado afirmou que o regime previsto no art. 100 da Constituição Federal (CF) consubstancia sistema de liquidação de débito, que não se confunde com moratória. A requisição não opera como se fosse pagamento nem faz desaparecer a responsabilidade do devedor. Assim, enquanto persistir o quadro de inadimplemento do Estado, devem incidir os juros da mora. Portanto, desde a citação  termo inicial firmado no título executivo  até a efetiva liquidação da Requisição de Pequeno Valor (RPV), os juros moratórios devem ser computados, a compreender o período entre a data da elaboração dos cálculos e a da requisição.
+Segundo o Colegiado, a Súmula Vinculante 17 não se aplica ao caso, pois não cuida do período de 18 meses referido no art. 100, § 5º, da CF, mas sim do lapso temporal compreendido entre a elaboração dos cálculos e a RPV.
+Além disso, o entendimento pela não incidência dos juros da mora durante o aludido prazo foi superado pela Emenda Constitucional 62/2009, que excluiu o § 12 ao art. 100 da CF.
+A Corte enfatizou que o sistema de precatório, a abranger as RPVs, não pode ser confundido com moratória, razão pela qual os juros da mora devem incidir até o pagamento do débito. Comprovada a mora da Fazenda até o efetivo pagamento do requisitório, não há fundamento para afastar a incidência dos juros moratórios durante o lapso temporal anterior à expedição da RPV.
+No plano infraconstitucional, antes da edição da aludida emenda constitucional, entrou em vigor a Lei 11.960/2009, que modificou o art. 1º-F da Lei 9.494/1997. A norma prevê a incidência dos juros para compensar a mora nas condenações impostas à Fazenda até o efetivo pagamento. Não há, portanto, fundamento constitucional ou legal a justificar o afastamento dos juros da mora enquanto persistisse a inadimplência do Estado.
+Ademais, não procede a alegação no sentido de que o ato voltado a complementar os juros da mora seria vedado pela regra do art. 100, § 4º, da CF, na redação da Emenda Constitucional 37/2002. Há precedentes do Supremo Tribunal Federal a consignar a dispensa da expedição de requisitório complementar  mesmo nos casos de precatório  quando houvesse erro material, inexatidão dos cálculos do precatório ou substituição, por força de lei, do índice empregado.
+Também é insubsistente o argumento de que o requisitório deve ser corrigido apenas monetariamente, ante a parte final da regra do art. 100, § 1º, da CF, na redação conferida pela Emeda Constitucional 30/2000. O fato de o constituinte haver previsto somente a atualização monetária no momento do pagamento não teria o condão de afastar a incidência dos juros da mora.
+RE 579431/RS, rel. Min. Marco Aurélio, julgamento em 19.4.2017. (RE-579431)
+Assim, consoante o art. 1.040 do CPC/2015, de rigor a reforma do acórdão recorrido para realinhar ao entendimento do STF acerca da incidência dos juros moratórios.
+In casu, observo que a posição adotada pelo STJ não se harmoniza com a orientação firmada pelo STF, razão pela qual se justifica, em juízo de retratação, a modificação do julgado para alinhar-se com o decidido pela Suprema Corte.
+Por fim, esclareço que, ante o Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC"), o presente grau de jurisdição inaugurou-se com a publicação do acórdão (fl. 256, e-STJ) que ensejou a interposição do próprio Recurso Especial antes da vigência do novo diploma processual civil.
+Diante do exposto, em juízo de retratação previsto no art. 1.040, II, do CPC/2015, dou provimento ao Agravo Regimental.
+É como voto.
