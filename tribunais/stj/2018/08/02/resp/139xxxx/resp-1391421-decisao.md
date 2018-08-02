@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] e OUTRO, fundado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão assim ementado (e-STJ fl. 95):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA. DESISTÊNCIA DA EXECUÇÃO POR UM DOS DEMANDANTES. PAGAMENTO ADMINISTRATIVO. HOMOLOGAÇÃO DA DESISTÊNCIA. DEVER DE DEVOLUÇÃO DOS VALORES PRINCIPAIS E HONORÁRIOS REFERENTES AO AUTOR DESISTENTE.
+A desistência de um dos demandantes na fase de execução devidamente homologada pelo juízo importa na devolução dos valores depositados em nome deste pela parte executada, diga-se, referente ao principal e honorários.
+A desistência da parte demandante na fase de execução em razão de possível acerto administrativo importa no valor total do débito, principal e honorários, sendo descabida a manutenção dos honorários diante da ausência do principal.
+O princípio da causalidade previsto no art. 26 do Código de Processo Civil importa em imputar a parte desistente o ônus da sucumbência, situação contrária a presente.
+No caso a devolução dos honorários deverá observar o percentual devido em razão do crédito do demandante desistente somente.
+AGRAVO DE INSTRUMENTO PROVIDO EM PARTE.
+Rejeitados os aclaratórios (e-STJ fls. 106/109).
+Nas suas razões (e-STJ fls. 121/132), os recorrentes, apontando divergência jurisprudencial e violação dos arts. 165 e 535 do CPC/1973 e 23 e 24 da Lei n. 8.906/1994, sustentam, em resumo, que a desistência de execução de sentença manifestada pela parte, para recebimento dos valores cobrados pela via administrativa, não atinge os honorários advocatícios deferidos em favor causídico na ação de conhecimento, mormente quando esse não assentiu com tal acordo extrajudicial entabulado com a Administração.
+Contrarrazões às e-STJ fls. 163/169.
+Decisão a quo de admissão do recurso especial às e-STJ fls. 175/177.
+Passo a decidir.
+Inicialmente, destaco que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, sessão de 09/03/2016).
+Dito isso, emerge dos autos que, em execução de sentença, um dos credores entendeu por bem entabular acordo com a entidade executada, a fim de receber os valores cobrados administrativamente.
+Nada obstante, a executada depositou o valor integral da condenação, englobando o crédito principal a e verba honorária.
+Na sequência, o advogado comunicou o fato ao juízo e devolveu o crédito principal, retendo consigo a quantia referente aos honorários.
+Confira-se (e-STJ fl. 96):
+(..). Compulsando os autos, verifico que o autor, Sr. [NOME] requereu a desistência da ação (fl. 89), a qual restou homologada (fl. 101). Houve expedição de alvará em favor da autora, do montante integral do débito (fls. 166/167 e 184). A autora peticionou nos autos, restituindo valores pertencentes ao autor [NOME] e acostando guai de depósito no valor de R$ 5.309,63. Entretanto, o cálculo acostado aos autos pela própria autora, discrimina os valores devidos à título principal e honorários, separadamente de cada autor (fl. 190), ou seja, a autora devolveu somente o valor principal R$ 5.309,63, deixando de acrescentar o valor de R$ 1.199,60, referente aos honorários advocatícios. (..)
+A controvérsia, então, reside em saber se o advogado deve devolver os valores relativos aos honorários advocatícios fixados na sentença exequenda em razão de seu cliente ter desistido de receber seus créditos pela via judicial.
+Acerca do tema, consignou o acórdão recorrido:
+No caso o autor [NOME] desistiu da demanda (fl. 39), o que restou homologado pelo juízo (fl. 43), prosseguindo a execução referente a demandante [NOME].
+O pedido de devolução importa na devolução dos valores depositados em nome do demandante [NOME], considerando não só o principal, mas também os honorários fixados pela sucumbência na ação principal.
+Registra-se que a previsão legal no artigo 26 do Código de Processo Civil é de situação contrária a ora postulada, pois imputa o pagamento do ônus da sucumbência à parte desistente.
+Esta não é a situação posta, sendo inaplicável, portanto.
+A desistência da parte demandante na fase de execução em razão de possível acerto administrativo importa no valor total do débito, principal e honorários da parte desistente, sendo descabida a manutenção diante da ausência do principal.
+Cumpre salientar que a execução se processava em nome do desistente [NOME] e da autora [NOME] MARIA, que permanece na lide, sendo os valores a título de honorários apurados em razão de ambos os créditos, consoante fls. 44-45.
+Assim, devida a apuração discriminada dos honorários decorrentes do crédito de cada autor, sendo devida a devolução somente quanto ao valor do demandante [NOME], o que não se confunde com a totalidade de R$ 1.199,60 (fl. 63).
+Do que se observa, a Corte estadual foi clara ao assentar o seu entendimento de que a desistência manifestada pela parte em sede de execução de sentença também atinge a parte relativa aos honorários fixados nesse mesmo título executivo, referente à fase de conhecimento.
+Afasto, pois, a alegada violação dos arts. 128 e 535 do CPC.
+Quanto ao juízo de reforma, melhor sorte assiste aos recorrentes.
+Com efeito, o entendimento adotado pelo acórdão recorrido destoa da orientação jurisprudencial deste Tribunal Superior, firmada em julgamento de recurso especial repetitivo, de que os honorários advocatícios de sucumbência pertencem ao advogado, sendo certo que esse direito pode ser exigido de forma autônoma pelo causídico. Eis a ementa desse julgado.
+CONSTITUCIONAL, ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC E RESOLUÇÃO STJ N. 8/2008. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS. DESMEMBRAMENTO DO MONTANTE PRINCIPAL SUJEITO A PRECATÓRIO. ADOÇÃO DE RITO DISTINTO (RPV). POSSIBILIDADE. DA NATUREZA DOS HONORÁRIOS ADVOCATÍCIOS.
+1. No direito brasileiro, os honorários de qualquer espécie, inclusive os de sucumbência, pertencem ao advogado; e o contrato, a decisão e a sentença que os estabelecem são títulos executivos, que podem ser executados autonomamente, nos termos dos arts. 23 e 24, § 1º, da Lei 8.906/1994, que fixa o estatuto da Ordem dos Advogados do Brasil.
+2. A sentença definitiva, ou seja, em que apreciado o mérito da causa, constitui, basicamente, duas relações jurídicas: a do vencedor em face do vencido e a deste com o advogado da parte adversa. Na primeira relação, estará o vencido obrigado a dar, fazer ou deixar de fazer alguma coisa em favor do seu adversário processual. Na segunda, será imposto ao vencido o dever de arcar com os honorários sucumbenciais em favor dos advogados do vencedor.
+3. Já na sentença terminativa, como o processo é extinto sem resolução de mérito, forma-se apenas a segunda relação, entre o advogado e a parte que deu causa ao processo, o que revela não haver acessoriedade necessária entre as duas relações. Assim, é possível que exista crédito de honorários independentemente da existência de crédito "principal" titularizado pela parte vencedora da demanda.
+4. Os honorários, portanto, constituem direito autônomo do causídico, que poderá executá-los nos próprios autos ou em ação distinta.
+5. Diz-se que os honorários são créditos acessórios porque não são o bem da vida imediatamente perseguido em juízo, e não porque dependem de um crédito dito "principal". Assim, não é correto afirmar que a natureza acessória dos honorários impede que se adote procedimento distinto do que for utilizado para o crédito "principal".
+ ..  (REsp 1.347.736/RS, Rel. Ministro CASTRO MEIRA, Rel. p/ Acórdão Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 09/10/2013, DJe 15/04/2014)
+Isso considerado, eventual desistência da parte exequente para receber os seus valores mediante acordo com o devedor não influencia no direito autônomo do advogado que não participou dessa avença de exigir os honorários advocatícios fixados no mesmo título executivo.
+Nesse mesmo sentido, vide:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. RENÚNCIA PELO AUTOR DA PARTE QUE EXCEDE O TETO PARA PAGAMENTO MEDIANTE RPV. HONORÁRIOS ADVOCATÍCIOS. NÃO INCLUSÃO. VERBA AUTÔNOMA. ART. 23 DA LEI 8.906/94. DISPENSA DE PAGAMENTO. NECESSIDADE DE MANIFESTAÇÃO EXPRESSA DO ADVOGADO.
+1. O recorrente sustenta que a renúncia manifestada pelo autor aos valores que excedem o teto para pagamento por meio de RPV incluem os honorários advocatícios.
+2. O acórdão estadual consignou que o pedido de renúncia deduzida pela parte autora não alcança os honorários advocatícios, pois, além de a renúncia não conter qualquer menção à verba honorária, não há, nos autos, declaração do advogado abdicando desse seu direito subjetivo.
+3. A tese adotada pelo acórdão recorrido está em conformidade com a jurisprudência do STJ, de que os honorários advocatícios pertencem exclusivamente ao advogado (art. 23 da Lei 8.906/94) e, por isso, apenas ele pode dela dispor. Assim, a renúncia ou acordo realizado entre as partes litigantes somente atinge a verba honorária se o causídico anuir com tal deliberação. Precedentes: AgRg no REsp 1.209.884/SE, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 10/6/2011; REsp 898.316/RJ, Rel. Ministra Laurita Vaz, Quinta Turma, DJe 11/10/2010; REsp 958.327/DF, Rel. p/ Acórdão Ministro Humberto Martins, Segunda Turma, DJe 4/9/2008.
+4. Agravo regimental não provido.
+(AgRg no REsp 1.178.558/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 06/03/2012, DJe 09/03/2012)
+EXECUÇÃO CONTRA A FAZENDA PÚBLICA. EMBARGOS À EXECUÇÃO DE SENTENÇA. VERBA AUTÔNOMA DO ADVOGADO. RENÚNCIA DO VALOR PRINCIPAL NÃO SE ESTENDE À EXECUÇÃO DOS HONORÁRIOS ADVOCATÍCIOS.
+1. "Conforme orientação firmada na QO no REsp 1.002.932/SP, a Primeira Seção do Superior Tribunal de Justiça não precisa paralisar a análise de matéria que vem sendo enfrentada pelo Supremo Tribunal Federal, com repercussão geral." (AgRg no Ag 907820/SC, Rel. Min.
+Mauro Campbell Marques, Segunda Turma, julgado em 15.4.2010, DJe 5.5.2010).
+2. A tese adotada pelo acórdão recorrido está em conformidade com a jurisprudência do STJ, de que os honorários advocatícios pertencem exclusivamente ao advogado (art. 23 da Lei 8.906/94) e, por isso, apenas ele pode dela dispor. Assim, a renúncia ou acordo realizado entre as partes litigantes somente atinge a verba honorária se o causídico anuir com tal deliberação.
+Agravo regimental improvido.
+(AgRg no REsp 1.416.588/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 05/12/2013, DJe 16/12/2013)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para assegurar ao advogado da parte exequente desistente a manutenção dos valores pagos pela entidade devedora a título de honorários advocatícios fixados na sentença exequenda.
+Publique-se. Intimem-se.
