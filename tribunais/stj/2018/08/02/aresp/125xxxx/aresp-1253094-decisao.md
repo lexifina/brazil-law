@@ -1,0 +1,27 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DANO AMBIENTAL. COMPENSAÇÃO. VALOR MÍNIMO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. AUSÊNCIA DE COMANDO NORMATIVO NOS DISPOSITIVOS INDICADOS. SÚMULA 284/STF. CONHEÇO DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 07 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fls. 593/594):
+AÇÃO CIVIL PÚBLICA AMBIENTAL - DESMATAMENTO DE LOTE - MATA ATLÂNTICA EM ESTÁGIO DE REGENERAÇÃO. A alegação de cerceamento de defesa por falta de oitiva de testemunhas para indicar quem teria procedido ao desmatamento do imóvel não se sustenta, porquanto as provas se destinam ao Magistrado, que pode indeferir as inúteis e inservíveis ao deslinde da questão debatida. A responsabilidade ambiental é objetiva e "propter rem", defluindo da coisa e seguindo-a contra quem quer que a detenha, observado o fato de que o proprietário, ao assumir o domínio, assume igualmente o passivo ambiental do imóvel.
+AÇÃO CIVIL PÚBLICA AMBIENTAL - DESMATAMENTO DE LOTE - MATA ATLÂNTICA EM ESTÁGIO DE REGENERAÇÃO - PERÍCIA QUE, "IN CASU", NÃO FOI ACOMPANHADA PELOS ASSISTENTES TÉCNICOS DAS PARTES, NÃO SE MOSTRA NULA, EIS QUE CONCEDIDA OPORTUNIDADE SUFICIENTE PARA DEBATE DA QUESTÃO LITIGIOSA, INCLUSIVE COM APRESENTAÇÃO DE LAUDOS PROVIDENCIADOS PELOS DEMAIS LITIGANTES.
+AÇÃO CIVIL PÚBLICA AMBIENTAL - DESMATAMENTO DE LOTE - MATA ATLÂNTICA EM ESTÁGIO DE REGENERAÇÃO - FOTOS EXISTENTES QUE DEMONSTRAM A RETIRADA DE COBERTURA VEGETAL PROTEGIDA POR LEGISLAÇÃO ESPECÍFICA. A procedência da ação é de rigor ante as provas dos autos, convertida a demolição da edificação em compensação ambiental na forma determinada no voto.
+RECURSO DE AGRAVO RETIDO AO QUAL SE NEGA PROVIMENTO.
+RECURSO DE APELAÇÃO AO QUAL SE DÁ PARCIAL PROVIMENTO. SENTENÇA PARCIALMENTE REFORMADA.
+Embargos de declaração acolhidos com efeitos modificativos, conforme ementa de fls. 843.
+EMBARGOS DE DECLARAÇÃO. Omissão. - Configura-se a omissão quando o acórdão não aprecia questão que deveria apreciar. A hipótese não implica propriamente em omissão, mas em obscuridade, e fica sanada nos termos indicados no acórdão. - Embargos acolhidos com função integrativa do acórdão embargado.
+No recurso especial os recorrentes alegam violação dos artigos 14, § 1º, da Lei n. 6.938/1981, 402, 884 e 927, do CC, ao argumento de impossibilidade de fixação de valor mínimo para a compensação do dano ambiental, sob o fundamento de que esta deve ser realizada de acordo com a exata extensão do dano que for apurado pelo órgão ambiental competente.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+Parecer do Ministério Público Federal, às fls. 903/905, pelo não conhecimento e improvimento do agravo.
+É o relatório. Decido.
+A pretensão não merece prosperar.
+Isso porque no que diz respeito aos artigos 14, § 1º, da Lei n. 6.938/1981 e 927, do CC, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que deve ser realizada a recomposição ambiental de forma indireta, através de compensação, fixando como valor mínimo o valor atualizado do imóvel, senão vejamos (e-STJ fls. 603/604):
+Todavia, observados os elementos existentes no caso concreto, vê-se que a demolição da residência não é a melhor solução, devendo ser determinada a recomposição ambiental de forma indireta, isto é, através de compensação, pela qual os apelantes vencidos deverão recompor o meio ambiente, providenciando a inserção de mudas nativas em local previamente indicado pelo órgão ambiental estadual, a quem competirá avaliar o estudo e proposta de recuperação adequada, fixado desde logo o valor mínimo da compensação como sendo o valor atualizado do imóvel, apurado oportunamente em liquidação de sentença.
+Para tanto, fica mantida a procedência da ação, devendo os interessados apresentar plano de compensação dos danos ambientais em 120 (cento e vinte) dias à autoridade ambiental competente, que avaliará tecnicamente a proposta, tanto em sua exequibilidade, quanto em sua capacidade de efetiva compensação, e uma vez aprovado o plano apresentado pelos vencidos, terão estes o prazo de 180 (cento e oitenta) dias para sua completa implantação, observado o montante mínimo da compensação retro imposta.
+Assim, tem-se que a revisão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide à hipótese a Súmula 7/STJ.
+Ademais, a pretensão é inadmissível, pois os recorrentes não impugnaram o fundamento do acórdão recorrido de recomposição ambiental de forma indireta. Essa situação enseja a aplicação da Súmula 283/STF.
+Em relação aos artigos 402 e 884 do CC não é possível conhecer do recurso especial, porquanto tais dispositivos indicados como malferidos não contêm comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Incabível a aplicação do artigo 85, §11, do CPC/2015 à hipótese, tendo em vista que não foram fixados honorários advocatícios nas instâncias ordinárias.
+Publique-se. Intimem-se.
