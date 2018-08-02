@@ -1,0 +1,43 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. REAJUSTE DE 28,86%. EXECUÇÃO DE SENTENÇA ORIUNDA DE AÇÃO CIVIL PÚBLICA, AJUIZADA APENAS CONTRA A UNIÃO. INCLUSÃO DO INSS NO POLO PASSIVO DA EXECUÇÃO. IMPOSSIBILIDADE. ILEGITIMIDADE PASSIVA AD CAUSAM. PRECEDENTES DO STJ. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de Recurso Especial interposto pelo INSS, com fundamento no art. 105, III, "a", da Constituição Federal contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ fl. 445):
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. REAJUSTE DE 28,86%. EMBARGOS À EXECUÇÃO DE SENTENÇA. PRESCRIÇÃO. PROTESTO INTERRUPTIVO.
+A execução de sentença contra a Fazenda Pública prescreve em cinco anos, contado do seu trânsito em julgado (Súmula nº 150 do STF). Havendo interrupção, recomeça o prazo pela metade.
+Os embargos de declaração foram parcialmente acolhidos para fins de prequestionamento (e-STJ fl. 469).
+No apelo especial, a parte recorrente alega que houve violação dos arts. 267, VI, 472, e 568, I, do Código de Processo Civil/1973, defendendo, em suma, que ocorreu a prescrição da pretensão executória e que "é parte ilegítima para figurar no polo passivo da presente execução, visto que não foi parte na ação civil pública que ensejou o presente título judicial" (e-STJ fls. 522-523).
+Com contrarrazões (e-STJ fls. 548-594).
+Decisão de admissibilidade à e-STJ fl. 597.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+O recurso merece prosperar.
+Constata-se que o acórdão recorrido está em confronto com a orientação desta Corte segundo a qual a Ação Civil Pública 97.00.12192-5/RS " ..  teve apenas a União como Ré, fez coisa julgada entre as partes envolvidas no litígio (art. 472 do CPC), gerando um título executivo judicial, no qual se reconhece apenas a União como parte legítima para figurar no polo passivo do processo de execução (art. 568, inciso I, do CPC)" (REsp 667.557/RS, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 19/05/2005, DJ 01/08/2005, p. 531).
+No mesmo sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRESSUPOSTOS DE ADMISSIBILIDADE DO RECURSO ESPECIAL INTERPOSTO, PELO INSS, AO QUAL FOI DADO PROVIMENTO. PREENCHIMENTO. REAJUSTE DE 28,86%. EXECUÇÃO DE SENTENÇA ORIUNDA DE AÇÃO CIVIL PÚBLICA, AJUIZADA APENAS CONTRA A UNIÃO. INCLUSÃO DO INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS NO POLO PASSIVO DA EXECUÇÃO. IMPOSSIBILIDADE. ILEGITIMIDADE PASSIVA AD CAUSAM. PRECEDENTES DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+(..)
+II. Na forma da jurisprudência, "o Instituto Nacional do Seguro Social-INSS, tendo em vista sua autonomia administrativa e financeira, não possui legitimidade para figurar no pólo passivo de execução de sentença proferida em Ação Civil Pública movida apenas contra a União, na qual restou reconhecido o direito de Servidores Públicos Federais residentes no Estado do Rio Grande do Sul ao reajuste de 28,86% de que tratam as Leis 8.622/93 e 8.627/93 (REsp 626.725/RS, Rel. Min. ARNALDO ESTEVES LIMA, DJ 28.05.2007)" (STJ, AgRg no REsp 1.233.392/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe de 26/10/2011).
+III. Agravo Regimental improvido.
+(AgRg no REsp 1339117/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 20/08/2015, DJe 03/09/2015).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVOS REGIMENTAIS NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. REAJUSTE DE 28,86%. AÇÃO CIVIL PÚBLICA MOVIDA CONTRA A UNIÃO. ILEGITIMIDADE DO INSS PARA FIGURAR NO PÓLO PASSIVO DA EXECUÇÃO. AGRAVOS REGIMENTAIS DESPROVIDOS.
+- A jurisprudência desta Corte orienta-se no sentido de que o INSS não possui legitimidade para figurar no pólo passivo da liquidação e execução de sentença genérica, em ação civil pública, proferida apenas contra União, na qual se objetivava o pagamento do reajuste de 28,86%, porquanto, por ser pessoa jurídica distinta da União, possui autonomia administrativa e financeira.
+Agravos regimentais desprovidos.
+(AgRg no REsp 1099936/RS, Rel. Ministra MARILZA MAYNARD (DESEMBARGADORA CONVOCADA DO TJ/SE), SEXTA TURMA, julgado em 22/04/2014, DJe 05/05/2014).
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. REAJUSTE DE 28,86%. AÇÃO CIVIL PÚBLICA MOVIDA SOMENTE CONTRA A UNIÃO FEDERAL. ILEGITIMIDADE DO INSS PARA FIGURAR NO PÓLO PASSIVO DA EXECUÇÃO. INCIDÊNCIA DA REGRA PROCESSUAL CONSOANTE A QUAL A LEGITIMIDADE PASSIVA NA EXECUÇÃO DE TÍTULO JUDICIAL É DA PARTE QUE FIGUROU COMO RÉ NO PROCESSO DE CONHECIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Instituto Nacional do Seguro Social-INSS, tendo em vista sua autonomia administrativa e financeira, não possui legitimidade para figurar no pólo passivo de execução de sentença proferida em Ação Civil Pública movida apenas contra a União, na qual restou reconhecido o direito de Servidores Públicos Federais residentes no Estado do Rio Grande do Sul ao reajuste de 28,86% de que tratam as Leis 8.622/93 e 8.627/93 (REsp 626.725/RS, Rel. Min. ARNALDO ESTEVES LIMA, DJ 28.05.2007).
+2. A regra civil é a de que a execução de título judicial se desenvolve entre as partes que figuraram no processo de conhecimento em que se formou a relação obrigacional objeto de implemento forcado.
+3. Agravo Regimental desprovido.
+(AgRg no REsp 1233392/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 06/10/2011, DJe 26/10/2011).
+PROCESSUAL CIVIL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. COBRANÇA DE ANUÊNIOS DECORRENTES DO RECONHECIMENTO DO TEMPO DE SERVIÇO LABORADO SOB O REGIME CELETISTA. FUNASA. ILEGITIMIDADE. EFICÁCIA SUBJETIVA DA COISA JULGADA. ART. 472 DO CPC.
+1. A Funasa não possui legitimidade para figurar no polo passivo de execução de sentença proferida em ação coletiva proposta contra a União - sucessora do extinto Inamps -, por meio da qual se objetiva o cômputo do tempo de serviço laborado sob o regime celetista e o pagamento dos respectivos anuênios.
+2. Nos termos do art. 472 do CPC, a sentença somente faz coisa julgada entre as partes que tenham figurado na relação processual a ela subjacente, não beneficiando nem prejudicando terceiros. É o que se convencionou chamar de eficácia subjetiva da coisa julgada.
+3. Não cabe à Funasa responder por dívida constituída em nome da União e compreensiva dos cinco anos anteriores ao próprio ajuizamento da demanda, período em que o autor sequer estava vinculado a essa autarquia.
+4. Os anuênios cobrados referem-se a período em que o embargado ainda estava vinculado ao extinto Inamps. Assim, são devidos pela União, como sucessora legal daquela autarquia, e não podem ser cobrados da Funasa, ainda que o embargado hoje a ela esteja vinculado, sobretudo se o trânsito em julgado operou-se exclusivamente contra a União. Precedentes das Turmas que compõem a Terceira Seção.
+5. Agravo regimental provido, divergindo do eminente Relator.
+(AgRg no REsp 1205549/RS, Rel. Ministro CESAR ASFOR ROCHA, Rel. p/ Acórdão Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 23/08/2011, DJe 06/09/2011).
+RECURSO ESPECIAL. MINISTÉRIO PÚBLICO FEDERAL. AÇÃO CIVIL PÚBLICA. UNIÃO. REAJUSTE DE 28,86%. CONDENAÇÃO GENÉRICA. LIQUIDAÇÃO PROPOSTA PELO SERVIDOR. INSS. PÓLO PASSIVO. ILEGITIMIDADE.
+I- A Autarquia federal não possui legitimidade para figurar no pólo passivo da liquidação e execução de sentença genérica, em ação civil pública, proferida contra União, na qual se objetivava o pagamento do reajuste de 28,86%, porquanto, por ser pessoa jurídica distinta da União, possui autonomia administrativa e financeira.
+II- O efeito erga omnes previsto no art. 16 da Lei nº 7.347, de 1985, não vai ao ponto de comprometer a situação jurídica de terceiro que não participou do pólo passivo da relação processual (art. 472, do CPC).
+Recurso especial provido.
+(REsp 462.847/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 10/10/2006, DJ 30/10/2006, p. 372).
+Ante o exposto, dou provimento ao recurso especial para, reformando o acórdão recorrido, julgar procedentes os embargos à execução propostos pelo INSS, ante a sua ilegitimidade passiva. Condeno os embargados nos ônus da sucumbência, fixando honorários advocatícios no valor de R$ 5.000,00 (cinco mil reais), observando-se o art. 12 da Lei 1.060/1950.
+Publique-se. Intimem-se.
