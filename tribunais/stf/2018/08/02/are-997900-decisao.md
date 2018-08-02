@@ -1,0 +1,33 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão da 1ª Turma Recursal dos Juizados Especiais da Seção Judiciária do Ceará, ementado nos seguintes termos:
+    “CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO. GRATIFICAÇÕES DE DESEMPENHO. REGIME PARITÁRIO. POSSIBILIDADE NO CASO CONCRETO. APOSENTADORIA INTEGRAL. PENSÃO INSTITUÍDA APÓS A EDIÇÃO DA EMENDA CONSTITUCIONAL N.º 41. REQUISITOS PREENCHIDOS. INSTITUIDOR PERCEBIA GDATA. PENSIONISTA REQUER GRATIFICAÇÃO DIVERSA (GDPTAS). GRATIFICAÇÕES INACUMULÁVEIS. RECURSO INOMINADO IMPROVIDO.”
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 40, § 3º e 7º, do texto constitucional, bem como à Emenda Constitucional 41/03.
+    Nas razões recursais, alega-se que como o benefício da autora foi concedido posteriormente à Emenda 41/03, mas deriva de aposentadoria fluente na data de promulgação da Emenda, aplicam-se as regras previstas no art. 7, parágrafo 10, inciso II, letra a, ou seja, deveriam ter recebido o percentual de 30-40% da GDPGTA. (eDOC 31, p. 8)
+    É o relatório.
+    Inicialmente, verifico que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 17.3.2016.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o Tribunal de origem, com base nas provas dos autos, consignou incabível a concessão da GDPGTAS por verificar que o instituidor da pensão, quando aposentado recebia a GDATA, e não a gratificação pleiteada, sendo que essas são inacumuláveis, nos termos da Lei nº 10.404/2002. Também registrou que a Lei nº 11.357/2006 – que substituiu a GDPGTAS pela GDPGPE - manteve a vedação à cumulação. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Compulsando os autos, verifica-se que o caso trazido a juízo se enquadra no item 4º acima, já que, aposentado com proventos integrais, o instituidor da pensão ingressou no serviço público em 01/01/1932 e preencheu os requisitos temporais ali previstos, conforme documentação constante nos autos, notadamente no anexo 5.
+    Desta feita, é de se reconhecer o direito da recorrente à paridade.
+    Ocorre que, analisando as fichas financeiras do instituidor (anexo 5), verifica-se que o mesmo, quando aposentado, recebia a GDATA - Gratificação de Desempenho de Atividade Técnico-Administrativa, regulamentada pela Lei n.º 10.404/2002, e não a GDPGTAS - Gratificação de Desempenho de Atividade Técnico-Administrativa e de Suporte, gratificação esta que constitui o pedido da autora.
+    Ademais, referido comando legal, em seu art. 1º, estabeleceu a não-cumulação da GDTA com qualquer vantagem que tenha como fundamento o desempenho profissional, individual ou institucional ou a produção, conforme se extrai a seguir:
+    ‘Art. 1o Fica instituída, a partir de 1o de fevereiro de 2002, a Gratificação de Desempenho de Atividade Técnico-Administrativa - GDATA, devida aos servidores alcançados pelo Anexo V da Lei nº 9.367, de 16 de dezembro de 1996, e pela Lei nº 6.550, de 5 de julho de 1978, que não estejam organizados em Carreira, que não tenham tido alteração em sua estrutura remuneratória entre 30 de setembro de 2001 e a data da publicação desta Lei, bem como não percebam qualquer outra espécie de vantagem que tenha como fundamento o desempenho profissional, individual ou institucional ou a produção, quando lotados e em exercício das atividades inerentes às atribuições do respectivo cargo nos órgãos ou entidades da administração pública federal.’
+    Da mesma forma, a Lei n.º 11.357/2006, que substituiu a GDPGTAS pela GDPGPE, também vedou a cumulação, senão vejamos:
+    ‘Art. 8º-A
+    (...)
+    § 1o A partir de 1o de janeiro de 2009, os integrantes do PGPE não farão jus à percepção das seguintes parcelas remuneratórias: (Incluído pela Lei nº 11,784, de 2008)
+    I - Gratificação de Atividade - GAE, de que trata a Lei Delegada no 13, de 27 de agosto de 1992; (Incluído pela Lei nº 11,784, de 2008)
+    II - Vantagem Pecuniária Individual - VPI, de que trata a Lei no 10.698, de 2 de julho de 2003; e (Incluído pela Lei nº 11,784, de 2008)
+    III - Gratificação de Desempenho de Atividade Técnico-Administrativa e de Suporte - GDPGTAS, de que trata o art. 7o desta Lei. (Incluído pela Lei nº 11,784, de 2008)
+    § 3o Os integrantes do PGPE não fazem jus à percepção da Gratificação de Desempenho de Atividade Técnico-Administrativa - GDATA, de que trata a Lei no 10.404, de 9 de janeiro de 2002, e não poderão perceber a GDPGPE cumulativamente com quaisquer outras gratificações que tenham como fundamento o desempenho profissional, individual, coletivo ou institucional ou a produção ou superação de metas, independentemente da sua denominação ou base de cálculo.’
+    Isso posto, verificando que a GDATA e a GDPGTAS/ GDPGPE são inacumuláveis, bem como que o instituidor, quando aposentado, percebia gratificação diversa da do objeto da presente demanda, a manutenção da sentença é medida que se impõe.” (eDOC 29, p. 5-6)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. PENSÃO POR MORTE. APOSENTADORIA COM PROVENTOS INTEGRAIS. GRATIFICAÇÃO DE TRANSPORTE. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO STF. AGRAVO INTERNO DESPROVIDO.” (RE-AgR 1076.068, Rel. Min. Luiz Fux, Primeira Turma, DJe 17.11.2017)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Policiais Militares. Gratificação. REPT. 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório. Súmulas 279 e 280 do STF. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento, majoro o valor da verba honorária fixada pela origem em 20%, observados os limites previstos nos parágrafos 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.” (ARE 1092363-AgR, de minha relatoria, Segunda Turma, DJe 10.5.2018)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 2 de agosto de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
