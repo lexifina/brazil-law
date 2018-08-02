@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 20, I e IV, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie, razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo inocorrente afronta ao apontado dispositivo da Constituição da República.
+    O Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual a aferição da ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”. Cito:
+    “DIREITO ADMINISTRATIVO. TAXA DE OCUPAÇÃO. TERRENO DE MARINHA. ATUALIZAÇÃO. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. ACÓRDÃO RECORRIDO DISPONIBILIZADO EM 22.4.2008. O exame da alegada ofensa ao art. 5º, XXXVI, LIV e LV, da Constituição Federal dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, o que refoge à competência jurisdicional extraordinária, prevista no art. 102 da Constituição Federal. Divergir do entendimento do Tribunal a quo acerca da atualização do valor da taxa de ocupação de terreno de marinha demandaria a análise da legislação infraconstitucional aplicável à espécie, inviável em sede recursal extraordinária. Precedentes. Agravo regimental conhecido e não provido.” (RE 783.926-AgR, da minha lavra, 1ª Turma, DJe 26.3.2014)
+     “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TERRENOS DE MARINHA. TITULARIDADE. DEMARCAÇÃO. NECESSIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. IMPRESCINDIBILIDADE DE EXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I - Para se chegar à conclusão contrária à adotada pelo Tribunal de origem, acerca da titularidade do imóvel, seria necessária a análise das normas infraconstitucionais aplicáveis à especie, bem como o reexame do conjunto fático probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Precedentes. II – Agravo regimental improvido.” (ARE 757.502-AgR, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 24.9.2013)
+    Nesse sentido, os seguintes julgados: ARE 971455, Rel. Min. Marco Aurélio, DJe 28.5.2018 e ARE 1093659, Rel. Min. Edson Fachin, DJe 14.02.2018.
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 02 de agosto de 2018.
+Ministra Rosa Weber
+Relatora
