@@ -1,0 +1,29 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “AGRAVO LEGAL. TRIBUTÁRIO. PROCESSUAL CIVIL. IMPOSTO DE RENDA RETIDO NA FONTE. REMESSA DE LUCROS AO EXTERIOR. ILEGITIMIDADE ATIVA. 1. No caso, a parte autora, na qualidade de empresa brasileira, pretende a restituição do Imposto de Renda Retido na Fonte, relativo à alíquota de 7% (sete por cento) incidente sobre as remessas de lucros às sócias domiciliadas no exterior (Alemanha), no período de 1990, nos termos do art. 36, parágrafo único, alínea b, da Lei n.º 7.713/88, com os acréscimos de correção monetária e juros. 2. O sujeito passivo do referido tributo é o beneficiário - pessoa física ou jurídica - residente ou domiciliado no exterior, sendo que a empresa que produziu e apurou o lucro fica obrigada ao recolhimento do imposto de renda na fonte, na condição de responsável tributário, conforme se evidencia do art. 121, inciso II, do CTN. 3. Ilegitimidade ativa da autora para questionar a alíquota aplicável, assim como pleitear a restituição das diferenças do imposto, cujo recolhimento entende indevido. 4. Não há elementos novos capazes de alterar o entendimento externado na decisão monocrática. 5. Agravo legal improvido” (pág. 220 do documento eletrônico 1).
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, sustenta-se violação dos arts. 5°, II e 150, I, da mesma Carta.
+    O Ministério Público Federal, em parecer da lavra do em. Subprocurador-Geral da República, Carlos Alberto Vilhena, opinou pelo conhecimento e desprovimento do agravo para sequer conhecer do recurso extraordinário.
+    A pretensão recursal não merece acolhida.
+    Destaca-se do voto condutor do acórdão recorrido, que confirmou a decisão anterior (págs. 214 e seguintes do documento eletrônico 1):
+    “O art. 36, parágrafo único, alínea b, da Lei n.º 7.713/88, prevê a incidência do IRRF sobre a remessa de lucros, quando o beneficiário for domiciliado no exterior, independentemente do imposto recolhido sobre o lucro líquido (ILL), à alíquota de 8% (oito por cento), conforme indica o art. 35 da referida lei. Eis o teor dos dispositivos mencionados:
+    [...]
+    No caso, a parte autora, na qualidade de empresa brasileira, pretende a restituição do Imposto de Renda Retido na Fonte, relativo à alíquota de 7% (sete por cento) incidente sobre as remessas de lucros às sócias domiciliadas no exterior (Alemanha), no período de 1990, nos termos do art. 36, parágrafo único, alínea b, da Lei n.º 7.713/88, com os acréscimos de correção monetária e juros.
+    O sujeito passivo do referido tributo é o beneficiário - pessoa física ou jurídica - residente ou domiciliado no exterior, sendo que a empresa que produziu e apurou o lucro fica obrigada ao recolhimento do imposto de renda na fonte, na condição de responsável tributário, conforme se evidencia do art. 121, inciso II, do CTN.
+    Afigura-se, portanto, a ilegitimidade ativa da autora para questionar a alíquota aplicável, assim como pleitear a restituição das diferenças do imposto, cujo recolhimento entende indevido.
+    Como bem fundamenta o r. Juízo a quo:
+    ‘O fato de ser responsável tributária não lhe confere legitimidade para pleitear direito alheio, posto que não é beneficiária nem teve direitos lesados em decorrência daquela relação jurídica. A lei também não a legitima para a ação. Confunde, outrossim, a autora entre representação e legitimidade. O fato de ter procuração para pleitear em juízo, direito dos verdadeiros legitimados, não a autoriza pleiteá-lo em nome próprio.’
+    Nesse sentido, esta E. Corte já se pronunciou, conforme o seguinte julgado:
+    [...]
+    De outra parte, o art. 166, do CTN reporta-se aos tributos indiretos, assim prescrevendo:
+    [...]
+    Na espécie sub judice, a empresa autora é mera retentora do tributo, o qual não comporta repercussão, sendo inaplicável, portanto, o art. 166 do CTN.
+    Em análise à hipótese semelhante, o E. Superior Tribunal de Justiça assim já se manifestou, conforme transcrição de ementa, in verbis:
+    [...]”.
+    Nesse contexto, constata-se que eventual divergência ao entendimento adotado pelo Juízo a quo, demandaria o reexame de fatos e provas e o da legislação infraconstitucional aplicável à espécie, de modo a inviabilizar o processamento do apelo extremo, tendo em vista o óbice da Súmula 279 desta Corte. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. CORREÇÃO MONETÁRIA DOS DIVIDENDOS DISTRIBUÍDOS ANTECIPADAMENTE AOS SÓCIOS. INCIDÊNCIA DO IMPOSTO DE RENDA, DO IMPOSTO SOBRE O LUCRO LÍQUIDO E DA CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO. NECESSIDADE DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 603.936-AgR, Rel. Min. Cármen Lúcia, Primeira Turma).
+    E com a negativa de provimento ao agravo interposto contra a decisão que negou seguimento ao recurso especial, pelo Superior Tribunal de Justiça, REsp 974.997/SP, com trânsito em julgado certificado em 8/3/2018 (pág. 127 do documento eletrônico 2), tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão recorrido, o que atrai a incidência da Súmula 283 desta Corte. Nesse sentido, cito os seguintes precedentes, entre outros: RE 587.089-AgR/MS, Rel. Min. Roberto Barroso; AI 785.229/PR e RE 827.447-AgR/RS, Rel. Min. Cármen Lúcia.
+    Registro, por fim, que este Tribunal entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal de origem.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 2 de agosto de 2018.
+Ministro Ricardo Lewandowski
+Relator
