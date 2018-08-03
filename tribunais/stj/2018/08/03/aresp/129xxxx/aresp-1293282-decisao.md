@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se de agravo interposto por [NOME] ROSA contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c" da Constituição Federal.
+Da análise dos autos, constata-se que a decisão agravada inadmitiu o recurso especial interposto pelo recorrente, com base nos seguintes fundamentos: i) ausência de violação do art. 489, §1º, II a IV e art. 1.022, I e II, do CPC; ii) aplicação das Súmulas 211/STJ e 282/STF; e iii) incidência da Súmula 83/STJ, quanto à impossibilidade de utilização de laudo pericial recente para justificar o diferimento do prazo para propositura de ação rescisória, por não constituir-se em prova nova.
+No entanto, da leitura do agravo em recurso especial interposto pelo agravante, observa-se que ele limita-se a defender a violação do artigo 489, §1º incisos II a VI, do CPC, o prequestionamento dos arts. 2º e 3º da Lei n. 10.741/2003, deixando de impugnar de maneira consistente a Súmula 83/STJ e de tecer quaisquer considerações acerca dos fundamentos da decisão agravada, realtivos à ausência de violação do art. 1.022, I e II, do CPC e à aplicação das Súmulas 211/STJ e 282/STJ, quanto ao não prequestionamento do art. 10, §§ 1º e 3º, da Lei n. 11.419/2006.
+Desse modo, deixando o recorrente de impugnar os fundamentos da decisão recorrida, aplicável se torna a Súmula 182 desta Corte.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 253, parágrafo único, I, do RISTJ .
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 300,00 (trezentos reais).
+Publique-se. Intimem-se.
