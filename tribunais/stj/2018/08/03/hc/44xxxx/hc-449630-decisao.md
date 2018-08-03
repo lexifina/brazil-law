@@ -1,0 +1,53 @@
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. CÁLCULO. BENEFÍCIOS. REINCIDENTE EM CRIME HEDIONDO. RETIFICAÇÃO DA GUIA. CONSTRANGIMENTO ILEGAL. INEXISTÊNCIA. ORDEM DENEGADA.
+1. Nos termos da orientação jurisprudencial desta Corte, se o sentenciado passou a ostentar a condição de reincidente, no curso da execução, o cálculo do lapso temporal para a obtenção dos futuros benefícios será realizado sobre o total das penas, considerando-se a fração determinada pela lei para os réus reincidentes, sendo irrelevante a existência de condenação anterior em que foi reconhecida a primariedade.
+2. Ordem denegada.
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul (Agravo em Execução n.º [CPF]- CNJ: 0340160-91.2017.8.21.7000).
+Consta dos autos que o juízo da execução, em relação ao pedido do parquet de reconhecimento da reincidência específica, proferiu a seguinte decisão, nos autos n.º 78396-0 (fls. 197-198):
+Quanto ao pedido do MP de reconhecimento da reincidência específica hedionda, para fins de livramento condicional, tenho por rever meu entendimento acerca da situação, pois descabido o lançamento de tal agravante sobre o total das penas, quando não se verifica sua ocorrência em todos os processos que estão sendo executados, uma vez que essa medida seria desproporcional e prejudicial ao condenado.
+Analisando o artigo 83, caput, do Código Penal, entendo que deverá ser cumprida integralmente somente a pena imposta por delito hediondo reincidente específico quando tal agravante ocorrer, aplicando-se às demais condenações os lapsos diferenciados, verificando-se se o apenado era primário em crime comum (1/3), primário em crime hediondo (2/3), ou reincidente em crime doloso comum (1/2) na data do cometimento do delito em execução nestes autos.
+Quando o apenado praticou o delito do processo nº 039/2.15.0004454-2 (hediondo) ainda possuía a pena do processo nº 039/2.11.0002044-1 (hediondo) em execução neste PEC, o que gerou a reincidência específica naquele feito.
+Nesse rumo, acolho parcialmente a promoção do Ministério Público e DETERMINO que a condição de reincidente específico seja lançada no campo do livramento condicional em relação ao processo n.º 039/2.15.0004454-2, pois neste feito restou configurada tal agravante, conforme artigo 64, inciso I, do Código Penal.
+Retifique-se a guia de recolhimento.
+Insatisfeito, o Ministério Público interpôs agravo em execução, ao qual o tribunal de origem deu provimento, em acórdão assim sintetizado:
+AGRAVO EM EXECUÇÃO (ARTIGO 197. DA LEP). REINCIDÊNCIA EM CRIMES HEDIONDOS OU EQUIPARADOS. LIVRAMENTO CONDICIONAL. RETIFICAÇÃO DE GUIA. INCONFORMIDADE MINISTERIAL.
+O apenado é reincidente específico em crime hediondo ou equiparado, de maneira que esta circunstância de caráter pessoal deve ser considerada sobre o montante de sua pena.
+Consoante dispõe o artigo 111 da LEP, a superveniência de nova condenação impõe a soma desta pena às demais. A reincidência, como circunstância de caráter pessoal, comunica-se a todas as penas impostas ao apenado, de maneira que o tempo total de sua pena a cumprir deve ser analisado com os patamares impostos pela reincidência específica em crime hediondo. Outrossim, tal circunstância deve ser observada na guia de execução penal do apenado, para fins de livramento condicional. Retificação de guia que se impõe.
+AGRAVO PROVIDO.
+No presente mandamus, alega a impetrante que "o benefício do livramento condicional, disciplinado no artigo 83, incisos I e II do Código Penal, será concedido mediante o cumprimento de um terço da pena, se o condenado não for reincidente em crime doloso e tiver bons antecedentes ou mediante de mais da metade se o condenado for reincidente em crime doloso".
+Aduz que, "quando há mais de uma condenação, como nos autos, à luz do princípio da proporcionalidade, imperioso faz-se conceder tratamento diferenciado ao apenado, determinando-lhe o cumprimento de lapso temporal mais gravoso, tão somente, quanto ao delito em que reconhecida a reincidência, mantendo-se a exigência do decurso de lapso temporal simples, de um terço, quanto ao delito em que ainda primário".
+Assere que, "se o paciente cumpre pena total por delitos de natureza diversa, com fracionamentos de livramento condicional diferenciados, as penas não podem ser equiparadas".
+Argumenta que "a soma das penas não determina a homogeneização de seu tratamento, preservando suas características originais, como por exemplo, a primariedade do agente, não podendo o processo de execução modificar para pior o título executivo".
+Ressalta que "as inconstitucionalidades das disposições da Lei n.º 8.072/90 - já reconhecidas amplamente pela doutrina e jurisprudência - deram azo ao, também inconstitucional, inciso V, parte final, do artigo 83 do Código Penal, que ressuscitou a figura da chamada reincidência específica, abolida da nossa legislação penal desde 1977 e tão criticada pela doutrina".
+Requer, liminarmente, a suspensão do acórdão estadual até o julgamento definitivo deste writ. No mérito, pretende seja cassado o acórdão ora impugnado, determinando-se a retificação da guia de execução da pena do ora paciente, de forma que lhe seja concedido o livramento condicional quando implementar "o lapso temporal necessário em cada condenação (fl. 10).
+Indeferida a liminar e solicitadas informações (fls. 243-245), estas foram juntadas aos autos às fls. 254-325.
+O Ministério Público Federal, às fls. 328-332, manifestou-se pelo parcial conhecimento do writ e, nessa extensão, pela denegação da ordem.
+É o relatório.
+Decido.
+Sustenta a impetrante que, "se o paciente cumpre pena total por delitos de natureza diversa, com fracionamentos de livramento condicional diferenciados, as penas não podem ser equiparadas".
+Pretende a retificação da guia de execução, "de forma que lhe seja concedido o livramento condicional quando implementar "o lapso temporal necessário em cada condenação".
+Entretanto, nos termos da orientação jurisprudencial desta Corte, se o sentenciado passou a ostentar a condição de reincidente, no curso da execução, o cálculo do lapso temporal para a obtenção dos futuros benefícios será realizado sobre o total das penas, considerando-se a fração determinada pela lei para os réus reincidentes, sendo irrelevante a existência de condenação anterior em que foi reconhecida a primariedade.
+Confiram-se, a propósito, os seguintes precedentes:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NOMEAÇÃO DO NÚCLEO DE PRÁTICA JURÍDICA EM JUÍZO. PROCURAÇÃO. DESNECESSIDADE. ENTENDIMENTO PACIFICADO PELA TERCEIRA SEÇÃO DO STJ. AGRAVO CONHECIDO. PROGRESSÃO DE REGIME. NOVA CONDENAÇÃO. UNIFICAÇÃO DE PENAS. CONDIÇÃO DE REINCIDENTE APLICÁVEL A TODAS AS CONDENAÇÕES. OFENSA À COISA JULGADA NÃO CARACTERIZADA. AGRAVO REGIMENTAL PROVIDO PARA CONHECER DO AGRAVO MAS NEGAR-LHE PROVIMENTO.
+1. O Núcleo de Prática Jurídica, por não se tratar de entidade de direito público, não se exime da apresentação de instrumento de mandato quando constituído pelo réu hipossuficiente a quem cabe a livre escolha do seu defensor, em consonância com o princípio da confiança.
+2. A Terceira Seção, no julgamento do EAREsp 798496, decidiu que a nomeação judicial do Núcleo de Prática Jurídica para patrocinar a defesa do réu dispensa a juntada de procuração, por não haver atuação provocada pelo assistido, mas sim exercício do munus público por determinação judicial, sendo, portanto, afastada a incidência da Súmula 115/STJ.
+3. O reconhecimento da reincidência nas fases de conhecimento e de execução penal produz efeitos diversos, de modo que a não constatação na primeira etapa não impede seu reconhecimento na fase executória, sem violação à coisa julgada.
+4. Sobrevindo novas condenações, a unificação das penas importa no reconhecimento da reincidência, mesmo que esta consideração não tenha ocorrido na etapa de conhecimento, fazendo incidir regras específicas da reincidência ao cumprimento da totalidade da reprimenda. Precedentes.
+5. Agravo regimental provido para conhecer do agravo em recurso especial mas negar-lhe provimento.
+(AgRg no AREsp 1192663/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 12/06/2018, DJe 22/06/2018)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO PENAL. ART. 83 DO CÓDIGO PENAL. LIVRAMENTO CONDICIONAL. REQUISITO OBJETIVO. UNIFICAÇÃO DE PENAS. FRAÇÃO APLICÁVEL. REINCIDÊNCIA. FRAÇÃO ÚNICA DE 1/2 SOBRE O TOTAL DAS PENAS REUNIDAS. PRECEDENTES.
+1. É pacífico nesta Corte Superior o entendimento segundo o qual a condição de reincidente se estende sobre a totalidade das penas somadas, aplicando-se fração única, inclusive na primeira condenação quando o réu ainda ostentava a condição de primário.
+2. Agravo regimental improvido.
+(AgRg no REsp 1723525/RO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 17/05/2018, DJe 01/06/2018)
+AGRAVO REGIMENTAL. HABEAS CORPUS. LIVRAMENTO CONDICIONAL. CÁLCULO DO TEMPO NECESSÁRIO AO BENEFÍCIO. INCIDENTE SOBRE O MONTANTE OBTIDO PELA REUNIÃO DAS EXECUÇÕES. ART. 84 DO CP. REINCIDÊNCIA EM CRIME DOLOSO. LAPSO DE 1/2 (UM MEIO). AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. DECISÃO MANTIDA PELOS PRÓPRIOS FUNDAMENTOS. RECURSO DESPROVIDO.
+1. É assente neste Tribunal o entendimento de que havendo várias condenações deve se proceder a soma das penas, realizando-se o cálculo do requisito objetivo exigido ao livramento condicional sobre o montante obtido (art. 84 do Código Penal).
+2. In casu, sendo o paciente reincidente em crime doloso, deve ser adotado o lapso preconizado no art. 83, II, do Código Penal, impondo-se o transcurso do patamar de 1/2 (um meio) da sanção para a obtenção da liberdade clausulada, não havendo de se cogitar na aplicação concomitante do patamar de 1/3 (um terço) para a execução de pena aplicada ao tempo em que o réu ostentava a primariedade e de 1/2 (um meio) para as demais execuções.
+3. Tendo sido proferida em consonância com o entendimento firmado neste Sodalício sobre o tema impugnado, deve ser mantida a decisão agravada pelos seus próprios fundamentos.
+4. Agravo regimental que se nega provimento.
+(AgRg no HC 383.231/MS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 27/06/2017, DJe 01/08/2017)
+O entendimento adotado pelo acórdão ora combatido, portanto, está em harmonia com a jurisprudência desta Corte, não se vislumbrando, portanto, constrangimento ilegal a ser sanado nesta via.
+Ante o exposto, denego a ordem, com fulcro no artigo 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intime-se.
