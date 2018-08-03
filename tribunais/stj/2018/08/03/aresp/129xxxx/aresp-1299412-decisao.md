@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da falta de demonstração da afronta aos dispositivos legais invocados e da falha na comprovação do dissídio jurisprudencial (e-STJ fls. 213/214).
+O acórdão recorrido está assim ementado (e-STJ fl. 113):
+AGRAVO DE INSTRUMENTO - Decisão que afasta alegação de ilegitimidade passiva e pedido de denunciação da lide - Pretensão à sua reforma - Inadmissibilidade - Inteligência do art. 88, do CDC - Agravante que pertence ao pool de seguradoras vinculadas ao SFH - Decisão mantida - AGRAVO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 130/134).
+Nas razões do recurso especial (e-STJ fls. 137/156), interposto com fundamento no art. 105, III, "a" e "c", da CF, a recorrente alegou, além de dissídio jurisprudencial, ofensa aos arts. 17 e 485, VI, do CPC/2015.
+Sustentou, em síntese, que não teria legitimidade para figurar no polo passivo da ação de indenização securitária, "o contrato de financiamento em nome da Recorrida encontra-se vigente e pertence ao ramo 68 da apólice de seguro habitacional, sendo a seguradora responsável atualmente, a Companhia Excelsior de Seguros" (e-STJ fl. 141).
+No agravo (e-STJ fls. 216/230), afirma a presença de todos os requisitos de admissibilidade do especial.
+Os recorridos apresentaram contraminuta (e-STJ fls. 233/251).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+O Tribunal de origem afirmou que, "além de a agravante não ter demonstrado, por meio de documentação idônea, subscrita pelo agente financeiro (CDHU) que a apólice dos agravados se vincula a outra seguradora (Companhia Excelsior), é sabido que pertence ao pool de seguradoras atuantes no Sistema Financeiro da Habitação" (e-STJ fl. 114).
+Dessa maneira, o acolhimento das alegações da recorrente - no sentido de que se trata de apólice do ramo 68 e, portanto, somente a Companhia Excelsior de Seguros teria legitimidade para figurar no polo passivo da ação de indenização securitária - demandaria o reexame do contexto fático-probatório dos autos e a interpretação das cláusulas contratuais, o que é vedado pelas Súmulas n. 5 e 7 do STJ. A propósito:
+CIVIL. RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA. SISTEMA FINANCEIRO DE HABITAÇÃO - SFH. MANIFESTAÇÃO DA CAIXA ECONÔMICA FEDERAL DE QUE NÃO TEM INTERESSE NA LIDE. INCIDÊNCIA DA SÚMULA 83 DO STJ. ILEGITIMIDADE PASSIVA DA RECORRENTE. VERIFICAÇÃO QUEM ENSEJA O REEXAME DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O acórdão recorrido alinha-se à jurisprudência desta Corte, pois a Segunda Seção do Superior Tribunal de Justiça, ao julgar os recursos sujeitos aos efeitos do artigo 543-C do CPC (repetitivos), REsp 1.091.363/SC, DJe de 25/05/2009, consolidou o entendimento no sentido de não existir interesse da Caixa Econômica Federal a justificar a formação de litisconsórcio passivo necessário nas causas cujo objeto seja a pretensão resistida à cobertura securitária dos danos oriundos dos vícios de construção do imóvel financiado mediante contrato de mútuo submetido ao Sistema Financeiro da Habitação, quando não afetar o FCVS (Fundo de Compensação de Variações Salariais), sendo, portanto, da Justiça Estadual a competência para processar e julgar o feito.
+2. No que diz respeito à ilegitimidade passiva da recorrente, verifica-se ser necessário o reexame das cláusulas do contrato de seguro e das cláusulas contratuais de mútuo habitacional para se concluir a respeito da legitimidade da recorrente quanto aos vícios de construção do imóvel financiado pelas regras do SFH, o que é vedado pelas Súmulas 5 e 7/STJ.
+3. Há jurisprudência desta Corte no sentido de que a seguradora possui legitimidade passiva, em se tratando de contrato de seguro habitacional obrigatório regido pelas regras do Sistema Financeiro Habitacional. Precedente.
+4. Agravo regimental não provido.
+(AgRg no AREsp 470.742/PR, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/03/2014, DJe 26/03/2014.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA. ILEGITIMIDADE PASSIVA DA SEGURADORA RECONHECIDA ANTE A APÓLICE TRATADA NOS AUTOS. ART. 131 DO CÓDIGO DE PROCESSO CIVIL DE 1973. ALEGAÇÃO DE MÁ VALORAÇÃO DA PROVA. LIVRE CONVENCIMENTO MOTIVADO DO JUIZ. PRECEDENTES. AGRAVO NÃO PROVIDO.
+1. Na hipótese, o acolhimento da pretensão recursal, no sentido de que a agravada teria legitimidade passiva para responder pela cobertura securitária, demandaria interpretação de cláusulas contratuais e novo exame do acervo probatório dos autos, providência que encontra óbice nas Súmulas 5 e 7 do STJ.
+2. Cabe esclarecer que a orientação jurisprudencial desta Corte Superior aduz que "vigora, no direito processual pátrio, o sistema de persuasão racional, adotado pelo Código de Processo Civil nos arts. 130 e 131, não cabendo compelir o magistrado a acolher com primazia determinada prova, em detrimento de outras pretendidas pelas partes, se pela análise das provas em comunhão estiver convencido da verdade dos fatos" (AgRg no REsp 1.251.743/SP, Rel.
+Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/09/2014, DJe de 22/9/2014) 3. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp 1044614/PR, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/05/2017, DJe 01/06/2017.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
