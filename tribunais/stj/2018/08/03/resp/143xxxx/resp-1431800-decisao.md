@@ -1,0 +1,18 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AUSÊNCIA DE VIOLAÇÃO DO ART. 535, II DO CPC/1973. MANDADO DE SEGURANÇA. IMPETRAÇÃO CONTRA ATO QUE NEGOU SEGUIMENTO A RECURSO ADMINISTRATIVO POR AUSÊNCIA DE DEPÓSITO RECURSAL PRÉVIO. CARÁTER REPRESSIVO. SUBMISSÃO AO PRAZO DECADENCIAL DE 120 DIAS. APLICAÇÃO DO ART. 23 DA LEI 12.016/2009. RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+1. Trata-se de Recurso Especial interposto por PWA IMPORTAÇÃO E COMÉRCIO LTDA., com fundamento nas alíneas a e c do art. 105, III da Constituição Federal, contra acórdão proferido pelo egrégio TRF da 4a. Região, assim ementado:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. ART. 23 DA LEI 12.016/2009. DECADÊNCIA.
+Decorridos 120 (cento e vinte) dias desde a data da ciência da impetrante acerca do ato impugnado, faz-se mister reconhecer a decadência do direito à impetração do presente writ. Aplicação do art. 23 da Lei 12.016/2009, considerado constitucional pela Excelsa Corte (Súmula n.º 632) (fls. 1.399).
+2. Os Embargos de Declaração opostos foram rejeitados (fls. 1.424).
+3. Em seu Apelo Especial, a parte recorrente aponta violação dos arts. 535, II do CPC/1973; 23 da Lei 12.016/2009 bem como divergência jurisprudencial. Sustenta, além de negativa de prestação jurisdicional, que o presente mandado de segurança possui caráter preventivo, pois visa coibir ato coator de inscrição em dívida ativa. Logo, não se submete ao prazo decadencial de 120 dias.
+4. Apresentadas as Contrarrazões (fls. 1.459/1.461), o recurso foi admitido na origem (fls. 1.464).
+5. É o relatório.
+6. De início, cumpre destacar que a alegada violação ao art. 535, II do CPC/1973 não ocorreu, tendo em vista o fato de que a lide foi resolvida nos limites propostos e com a devida fundamentação. As questões postas a debate foram decididas com clareza, não tendo havido qualquer vício que justificasse o manejo dos Embargos de Declaração. Observe-se, ademais, que o julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+7. No mérito, o Tribunal de origem, ao negar provimento à Apelação interposta pela ora Recorrente, consignou que a pretensão da impetrante consiste em obter ordem para que seja processado o recurso administrativo independentemente de depósito recursal prévio. A propósito, veja-se trecho do voto condutor do aresto:
+Na espécie, a pretensão da impetrante consiste em obter ordem para que seja processado o recurso administrativo n.º 10983.005689/98-00 independentemente de depósito recursal prévio, instituído no art. 33, § 2º do Decreto nº 70.235/72. Elencou decisões proferidas pelo Plenário do Supremo Tribunal Federal - STF, que afastaram a exigência de depósito prévio para o recebimento e o processamento de recurso administrativo (ADI 1.976 e súmula vinculante n.º 21).
+Portanto, o ato coator inquinado realmente é aquele que negou seguimento ao Recurso Voluntário interposto ao Conselho de Contribuintes do Ministério da Fazenda. Não há, como alegado, o caráter preventivo do mandamus.
+Tem-se, assim, que a impetrante veio a tomar conhecimento do indeferimento de processamento do recurso administrativo em 08.08.2000 (evento 11).
+Ocorre que o ajuizamento deste writ deu-se em 01.12.2010, o que, ineludivelmente, redunda na manutenção do entendimento do i. julgador singular (fls. 1.397).
+8. Realmente, não há como negar o caráter repressivo do presente mandamus, pois voltado contra ato da autoridade administrativa que negou seguimento ao recurso por ausência do depósito recursal. Logo, corretamente aplicado o prazo decadencial de 120 dias pela Corte a quo.
+9. Ante o exposto, nega-se provimento ao Recurso Especial da Contribuinte.
+10. Publique-se. Intimações necessárias.
