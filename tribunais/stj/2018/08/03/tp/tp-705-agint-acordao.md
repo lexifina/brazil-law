@@ -1,0 +1,33 @@
+EMENTA
+AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA. INÉPCIA. IMPUGNAÇÃO DA DECISÃO AGRAVADA. RECURSO MANIFESTAMENTE INADMISSÍVEL. MULTA.
+1. É manifestamente inadmissível o agravo interno que não impugna, especificamente, os fundamentos da decisão agravada.
+2. Agravo interno não conhecido, com imposição de multa.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, não conhecer do agravo, com aplicação de multa, nos termos do voto do(a) Sr(a) Ministro(a) Relator(a). Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+RELATORA: MINISTRA NANCY ANDRIGHI
+RELATÓRIO
+Cuida-se de agravo interno interposto por SUL AMERICA COMPANHIA NACIONAL DE SEGUROS contra decisão unipessoal que indeferiu a tutela provisória requerida.
+Ação: de obrigação de fazer, ajuizada por MARIA HOZANA DO NASCIMENTO, em desfavor da agravante, em virtude de supostos vícios construtivos constatados em imóvel adquirido por meio do SFH.
+Sentença: julgou procedente o pedido, para condenar a agravante a realizar as obras de reforma da residência da agravada.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. RESPONSABILIDADE SECURITÁRIA. CONTRATO DE SEGURO HABITACIONAL. SISTEMA FINANCEIRO DE HABITAÇÃO. PRELIMINARES. DA NECESSIDADE DE JULGAMENTO COM ARRIMO NO ART. 267, IV DO CPC. DA COMPETÊNCIA DA JUSTIÇA FEDERAL. DA ILEGITIMIDADE PASSIVA DA SEGURADORA RÉ. DA INÉPCIA DA INICIAL. DA INEXISTÊNCIA DE VÍNCULO COM O SFH. DA ILEGITIMIDADE ATIVA. DA CARÊNCIA DE AÇÃO PELA QUITAÇÃO DO CONTRATO. REJEITADAS. PREJUDICIAL DE MÉRITO. PRESCRIÇÃO. REJEITADA. RECURSO DA SEGURADORA RÉ. LAUDO PERICIAL CONCLUSIVO. COMPROVAÇÃO DAS FALHAS CONSTRUTIVAS. RESPONSABILIDADE DA SEGURADORA PELOS VÍCIOS DE CONSTRUÇÃO. SÚMULA 58 DO TJPE. EXCLUDENTE DE RESPONSABILIDADE DP ART. 784 DO CÓDIGO CIVIL. HONORÁRIOS ADVOCATÍCIOS. MANUTENÇÃO. IMPROVIMENTO DO APELO.
+(..) (e-STJ fls. 196-198).
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação de dispositivos legais, bem como dissídio jurisprudencial. Sustenta a incompetência da justiça estadual para o processamento do feito, sob a alegação de que a discussão acerca do interesse jurídico da CEF e a competência da Justiça Federal estão superadas pelo advento da Lei nº 13.000/2014, acentuando que a orientação firmada no REsp 1.091.393/SC, julgado sob o rito dos repetitivos, não se aplica à espécie. Afirma, ainda, a ausência de cobertura securitária para os defeitos de construção, a ocorrência de prescrição da pretensão da autora, a ilegitimidade passiva da seguradora e a ilegitimidade ativa da agravada.
+Pedido de tutela provisória: requer a atribuição de efeito suspensivo ao agravo em recurso especial - ainda pendente de distribuição. Afirma a agravante que se encontra sob iminente risco de sofrer execução provisória de sentença em valor milionário e desproporcional, sem possibilidade de requerer o pagamento diretamente ao FCVS, ainda que esta Corte esteja alterando o seu entendimento sobre o tema e exista reais chances de êxito de seu recurso especial.
+Decisão monocrática: indeferiu a tutela provisória requerida, pois não evidenciada, ao menos em tese, a existência de periculum in mora (e-STJ fls. 507-511).
+Agravo interno: sustenta que o as questões versadas nos recursos repetitivos (REsp 1.093.363/SC e REsp 1.091.393/SC) não guardam semelhança com a questão discutida nos presentes autos, pois naqueles não há qualquer menção à Lei 13.000/2014 e às mudanças inseridas pela Lei 12.409/2011. Aponta a necessidade de julgamento colegiado de seu recurso. No mais, reitera seus argumentos relativos à competência da justiça federal para analisar o interesse da CEF, o que evidenciaria a existência de fumus boni iuris. Assevera que está configurado, também, o requisito do periculum in mora.
+É o relatório.
+RELATORA: MINISTRA NANCY ANDRIGHI
+VOTO
+Julgamento: CPC/2015
+A decisão agravada indeferiu a tutela provisória requerida, ante a ausência do exigido requisito do periculum in mora, de acordo com os seguintes fundamentos:
+Vê-se, ao menos em tese, com base em juízo perfunctório, que os argumentos da requerente não evidenciam qualquer risco iminente de dano irreparável ou de difícil reparação, tendo em vista que se limita a, genericamente, afirmar que se encontra sob iminente risco de sofrer execução provisória de sentença.
+Ressalte-se que a própria execução provisória, por si só, não constitui, isoladamente, o periculum in mora exigido para a concessão de efeito suspensivo ao seu recurso especial, até mesmo porque esse procedimento possui mecanismos próprios para evitar prejuízos ao executado (AgRg na MC 25.558/RJ, 4ª Turma, Rel. Min. Marco Buzzi, DJe 31/03/2016; e AgRg na MC 18.633/RJ, 3ª Turma, Rel. Min. Ricardo Villas Bôas Cueva, DJe 13/02/2012).
+Com efeito, não foi indicado nenhum prejuízo que, concretamente, possa advir da demora no julgamento do agravo em recurso especial.
+Assim, não demonstrada a urgência da prestação jurisdicional, suficiente para inviabilizar o deferimento do pedido de efeito suspensivo, desnecessária se torna a análise do requerimento sob a ótica do fumus boni iuris (e-STJ fls. 510/511).
+Contudo, pela análise das questões recursais apresentadas, verifica-se que a agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Pelo contrário, limita-se a reiterar as mesmas razões já apresentadas quando da formulação do pedido de tutela provisória, apresentando argumentos genéricos, sem impugnar, de forma específica e consistente, os fundamentos da decisão agravada.
+Com efeito, deixou a agravante de impugnar especificamente o fundamento da decisão agravada de que a execução provisória, por si só, não constitui, isoladamente, o periculum in mora exigido para a concessão de efeito suspensivo ao seu recurso especial, até mesmo porque esse procedimento possui mecanismos próprios para evitar prejuízos ao executado.
+Forte nessas razões, NÃO CONHEÇO do presente agravo interno.
+Tem-se como manifestamente inadmissível o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, como determina o art. 1.021, § 1º, do CPC/15, razão pela qual, na hipótese de ser assim declarado à unanimidade, fixo multa de 3% (três por cento) sobre o valor atualizado da causa, com fulcro no § 4º do art. 1.021 do CPC/15.
