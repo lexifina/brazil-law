@@ -1,0 +1,41 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. IMPOSTO DE RENDA. REGIME DE COMPETÊNCIA. VERBAS RECEBIDAS ACUMULADAMENTE. FORMA DE CÁLCULO INSTITUÍDA PELO ART. 12-A DA LEI 7.713/1988, ALTERADA PELA LEI 12.350/2010. INAPLICABILIDADE A VALORES ANTERIORES A 2010. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto por [NOME], com fundamento na alínea a, do art. 105, III da CF/1988, objetivando a reforma do acórdão proferido pelo TRF da 4a. Região, assim ementado:
+EMBARGOS À EXECUÇÃO DE SENTENÇA. IRPF. VERBAS ACUMULADAS. REGIME DE COMPETÊNCIA. CORREÇÃO MONETÁRIA. FACDT. SELIC. APLICAÇÃO DO ART. 12-A DA LEI 7.713/88. AUSÊNCIA DE PREVISÃO NO TÍTULO EXECUTIVO. INAPLICABILIDADE RETROATIVA.
+1. O valor do imposto de renda, apurado pelo regime de competência e em valores originais, deve ser corrigido, até a data da retenção na fonte sobre a totalidade de verba acumulada, pelo mesmo fator de atualização monetária dos valores recebidos acumuladamente (em ação trabalhista, como no caso, o FACDT - fator de atualização e conversão dos débitos trabalhistas). A taxa SELIC, como índice único de correção monetária do indébito, incidirá somente após a data da retenção indevida.
+2. Descabe pretender-se a aplicação da sistemática estabelecida pelo art. 12- A da Lei 7.713/88, seja porque não há título garantindo nesse sentido, seja porque as verbas acumuladas foram recebidas anteriormente à novel legislação.
+3. Somente aos rendimentos recebidos de forma acumulada a partir de 1º de janeiro de 2010 pode ser aplicado o novo regime de tributação, exclusivo na fonte, do imposto de renda incidente sobre rendimentos percebidos de forma acumulada, quando correspondentes a períodos anteriores ao recebimento, conforme a previsão do § 7º do art.
+12-A da Lei 7.713/1988. (TRF4, Embargos Infringentes 5019718-91.2011.404.7200, 1ª SEÇÃO, Juiz Federal Francisco Donizete Gomes, por unanimidade, juntado aos autos em 08/07/2013) (fls. 278).
+2. Em suas razões recursais (fls. 287/299), a parte recorrente alega violação do art. 12-A da Lei 7.713/1988. Defende, em suma, que há motivação para aplicação do regime do art. 12-A da Lei 7.713/88 para o presente feito, ainda que ele refira a rendimentos anteriores a 2010, e a omissão na sua aplicação representa sim ofensa ao art. referido no seu caput e ao seu § 1º (fls. 298).
+3. Com contrarrazões (fls. 334/337), o recurso fora admitido na origem (fls.340).
+4. É o breve relatório.
+5. A pretensão recursal não merece prosperar, haja vista que o Tribunal de origem agiu em consonância com o entendimento consolidado nesta Corte Superior de que a redação do art. 12-A da Lei 7.713/1988, introduzida pela Lei 12.350/2010, restringiu a aplicação da nova sistemática de cálculo do Imposto de Renda aos rendimentos percebidos a partir do ano de 2010, consoante disposto em seu § 7o.. A propósito, citam-se os recentes julgados:
+TRIBUTÁRIO. REGIME DE COMPETÊNCIA. VERBAS RECEBIDAS ACUMULADAMENTE. FORMA DE CÁLCULO INSTITUÍDA PELO ART. 12-A DA LEI 7.713/1988, INTRODUZIDO PELA MP 497/2010 CONVERTIDA NA LEI 12.350/2010. INAPLICABILIDADE A VALORES ANTERIORES A 2010. SÚMULA 83/STJ.
+1. A sistemática de cálculo do imposto de renda sobre valores acumulados instituída pelo art. 12-A da Lei 7.713/88, introduzido pela MP 497/2010 convertida na Lei 12.350/2010, limita-se aos rendimentos auferidos cumulativamente após 2010, consoante determina o § 7o do referido artigo.
+2. O acórdão recorrido está em sintonia com o atual entendimento deste Tribunal Superior, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ.
+3. Recurso Especial não provido. (REsp. 1.638.893/RS, Rel. Min. HERMAN BENJAMIN, DJe 6.3.2017).
+
+TRIBUTÁRIO. REGIME DE COMPETÊNCIA. VERBAS RECEBIDAS ACUMULADAMENTE. FORMA DE CÁLCULO INSTITUÍDA PELO ART. 12-A DA LEI 7.713/88, INTRODUZIDO PELA MP 497/2010, CONVERTIDA NA LEI 12.350/2010. INAPLICABILIDADE A VALORES ANTERIORES A 2010.
+1. A sistemática de cálculo do imposto de renda sobre valores acumulados instituída pelo art. 12-A da Lei 7.713/88, introduzido pela MP 497/2010, convertida na Lei 12.350/2010, limita-se aos rendimentos auferidos cumulativamente após 2010, consoante determina o § 7º do referido artigo.
+2. O Tribunal a quo não admitiu a aplicação dessa regra, uma vez que o recebimento dos valores se deu em 27.10.2004 (fl. 88), ou seja, anteriormente à vigência da referida lei.
+3. Agravo Interno não provido. (AgInt no AREsp. 933.908/RS, Rel. Min. HERMAN BENJAMIN, DJe 8.11.2016).
+
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPOSTO DE RENDA. VERBAS RECEBIDAS ACUMULADAMENTE. PERÍODO ANTERIOR A JANEIRO DE 2010. APLICAÇÃO RETROATIVA DA SISTEMÁTICA DE CÁLCULO PREVISTA NO ART. 12-A DA LEI 7.713/1988. IMPOSSIBILIDADE.
+1. A jurisprudência do STJ tem entendimento firme no sentido de ser inaplicável o regime previsto no referido no art. 12-A da Lei 7.713/1988, incluído pela MP 497/2010, posteriormente convertida na Lei 12.350/2010, aos fatos geradores ocorridos antes de sua entrada em vigor, uma vez que a legislação tributária, na forma dos arts. 105 e 144 do CTN, aplica-se aos fatos geradores futuros e pendentes e o lançamento deve reportar-se à data da ocorrência do fato gerador, regendo-se pela lei então vigente, ainda que posteriormente modificada ou revogada. As exceções previstas no art. 106 do CTN não se aplicam ao caso dos autos. Precedentes: AgRg no REsp 1.509.194/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 23/6/2015; AgRg no REsp 1.506.756/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 17/11/2015; REsp 1.546.331/SC, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 12.4.2016.
+2. Agravo interno não provido. (AgInt no REsp. 1.380.063/RS, Rel. Min. BENEDITO GONÇALVES, DJe 15.8.2016).
+6. Outrossim, observa-se que o Recurso Especial foi interposto já na vigência do CPC/2015. Desse modo, mostra-se evidente o direito à majoração dos honorários sucumbenciais recursais.
+7. Tendo em vista o disposto no art. 85, § 11 do CPC/2015 e o Enunciado 241 do Fórum Permanente de Processualistas Civis, os honorários de sucumbência recursal serão somados aos honorários pela sucumbência em primeiro grau, observados os limites legais. Assim, fixam-se os honorários recursais em 1% sobre o proveito econômico, que deverão ser acrescidos ao montante total. Precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. DOCUMENTO NOVO. NÃO CARACTERIZAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. HONORÁRIOS ADVOCATÍCIOS RECURSAIS. APLICAÇÃO. MULTA.
+(..).
+4. Nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC (Enunciado Administrativo 7 do Plenário do STJ).
+5. Quando o agravo interno for declarado manifestamente inadmissível ou improcedente em votação unânime, o órgão colegiado, em decisão fundamentada, condenará o agravante a pagar ao agravado multa fixada entre um e cinco por cento do valor atualizado da causa (art. 1.021, § 4º, do CPC/2015).
+6. Agravo interno desprovido, com a majoração da verba honorária e aplicação de multa (AgInt no AREsp. 236.269/SC, Rel. Min. GURGEL DE FARIA, DJe 20.10.2016).
+
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. ONEROSIDADE EXCESSIVA. TEORIA DA IMPREVISÃO. NECESSIDADE DE REVOLVIMENTO FÁTICO. INCIDÊNCIA DA SÚMULA 7 DO STJ. REVALORAÇÃO DAS PROVAS. HIPÓTESE NÃO CONFIGURADA. HONORÁRIOS RECURSAIS. ART. 85, § 11, DO CPC/15.
+(..).
+3. O § 11 do art. 85 do Código de Processo Civil de 2015 tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos provenientes de decisões condenatórias antecedentes.
+4. Atendidos os limites legais dos §§ 2º e 3º do art. 85 do CPC/15, a majoração da verba honorária a título de honorários recursais é medida que se impõe.
+5. Agravo interno conhecido e desprovido (AgInt no AREsp. 196.789/MS, Rel. Min. JOÃO OTÁVIO DE NORONHA, DJe 18.8.2016).
+8. Diante do exposto, nega-se seguimento ao Recurso Especial de [NOME] [NOME].
+9. Em observância ao disposto no art. 85, § 11 do CPC/2015, fixam-se os honorários recursais em 1% sobre o proveito econômico do presente recurso.
+10. Publique-se. Intimações necessárias.
