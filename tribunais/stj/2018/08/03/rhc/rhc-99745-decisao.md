@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, sem pedido liminar, interposto por [NOME], contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região (HC n.º 5002580-63.2018.4.03.0000), que manteve a prisão preventiva do paciente, nos termos da seguinte ementa:
+"PROCESSO PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. ROUBO À ECT. INDÍCIOS DE REITERAÇÃO DELITIVA. GARANTIA DA ORDEM PÚBLICA. DESPROPORCIONALIDADE. INEXISTÊNCIA. ORDEM DENEGADA.
+1. Do auto de prisão em flagrante, com depoimento de testemunhas e do acusado e do auto de exibição e apreensão, extraem-se a prova de materialidade e indícios suficientes de autoria, cumprido o requisito do fumus commissi delicti.
+2. Observe-se que o paciente foi preso por ter sido flagrado com dois malotes que haviam sido roubados dos Correios 20 vinte minutos antes, consoante os termos do auto de prisão em flagrante.
+3. Note-se, portanto, que, segundo os termos do depoimento do paciente, teria havido cometimento, por este, do crime de roubo, praticado com grave ameaça à pessoa, ainda que se tratasse de simulação de uso de arma de fogo.
+4. Por outro lado, conquanto não haja prova de condenação penal transitada em julgado, há indicação nos autos de reiteração delitiva, inclusive nos termos do depoimento.
+5. Por fim, estando presentes os requisitos autorizadores previstos no diploma processual penal, a prisão cautelar poderá ser decretada, ainda que, em caso de condenação, venha a ser fixado regime de cumprimento menos gravoso, sendo além disso inviável antecipar a quantidade de pena a ser aplicada em apreciação de habeas corpus, conforme entendimento do Superior Tribunal de Justiça.
+6. Ordem denegada" (fls. 168/169).
+Na presente irresignação, pretende o recorrente, em suma, a revogação da prisão preventiva, carente de fundamentação idônea, porquanto não estariam presentes os requisitos legais autorizadores da medida extrema.
+É o relatório.
+Decido.
+Busca-se a revogação da prisão preventiva do recorrente.
+Contudo, informações colhidas do sítio eletrônico do Tribunal de origem noticiam a superveniência de sentença, proferida em 30.05.2018, que condenou o recorrente à pena de 6 anos de reclusão, em regime fechado, pela prática do delito previsto no artigo 157 do Código Penal, oportunidade em que se manteve a prisão do acusado.
+Se a sentença, que sobre a manutenção da prisão deve se manifestar (art. 387, parágrafo único, do Código de Processo Penal) não o fizer ou então não estiver devidamente fundamentada no ponto, contra esta nova situação deve o interessado insurgir-se.
+A propósito, confira-se o entendimento do Supremo Tribunal Federal, retratado no Informativo de Jurisprudência n.º 725, verbis:
+É causa de prejudicialidade de habeas corpus a superveniência de novo título judicial que mantém a prisão cautelar do paciente com base nos mesmos fundamentos expostos em decreto de prisão anterior. Com essa conclusão, a 1ª Turma, por maioria, não conheceu de habeas corpus impetrado contra decisão que assentara o prejuízo do writ. De início, em votação majoritária, indeferiu-se pedido de sustentação oral de estagiário do curso de Direito. Assinalou-se que o estatuto da OAB estabeleceria que o referido ato seria privativo de advogado. Além disso, referiu-se ao que disposto no RISTF ("Art. 124. As sessões serão públicas, salvo quando este Regimento determinar que sejam secretas, ou assim o deliberar o Plenário ou a Turma. Parágrafo único. Os advogados ocuparão a tribuna para formularem requerimento, produzirem sustentação oral, ou responderem às perguntas que lhes forem feitas pelos Ministros"). O Ministro Marco Aurélio complementou que não se viabilizaria o acesso à tribuna quer pelo estagiário, quer pelo cidadão comum. No ponto, vencido o Ministro Dias Toffoli, relator, que admitia a sustentação. Enfatizava que qualquer cidadão poderia impetrar habeas corpus. No mérito, o Colegiado reputou estar prejudicado o writ pela superveniência da sentença. Vencidos o relator e o Ministro Marco Aurélio, que concediam a ordem para que a Corte a quo enfrentasse o mérito da impetração. (HC 118317/SP, rel. orig. Min. Dias Toffoli, red. p/ o acórdão Min. Roberto Barroso, 22.10.2013).
+Assim, em razão da nova realidade fático-processual, forçoso reconhecer que o objeto do presente recurso encontra-se esvaído, nada mais havendo aqui a decidir.
+Diante do exposto, com fundamento no artigo 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intime-se.
+Sem recurso, à origem.
