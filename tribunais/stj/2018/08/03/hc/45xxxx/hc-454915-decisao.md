@@ -1,0 +1,29 @@
+EMENTA
+HABEAS CORPUS. HOMICÍDIO PRIVILEGIADO. DOSIMETRIA. PENA-BASE. MAJORAÇÃO. FUNDAMENTAÇÃO INIDÔNEA QUANTO A DUAS VETORIAIS. REDUÇÃO. PARECER ACOLHIDO.
+Ordem parcialmente concedida nos termos do dispositivo.
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], no qual se aponta como órgão coator o Tribunal de Justiça do Rio Grande do Sul (Apelação n. [CPF]).
+Colhe-se dos autos que o paciente foi condenado, pelo Juízo da 1ª Vara Criminal da comarca de Novo Hamburgo, à pena de 6 anos de reclusão, a ser cumprida em regime inicial semiaberto, pela prática do crime previsto no art. 121, § 1º, c/c o art. 65, II, d, todos do Código Penal (Processo n. 019/2.15.0004130-5).
+O Tribunal de origem negou provimento aos recursos interpostos pela defesa e acusação. Eis a ementa do julgado (fl. 324):
+JÚRI. DECISÃO CONTRÁRIA À PROVA DOS AUTOS. INEXISTENTE. CONDENAÇÃO MANTIDA. PENA. PUNIÇÃO APLICADA DE FORMA ADEQUADA. CONFIRMADA.
+I - Como é do conhecimento geral, os jurados julgam por íntima convicção, sem a necessidade de fundamentar suas decisões. Deste modo, podem utilizar, para seus convencimentos, quaisquer provas contidas nos autos, ainda que não sejam as mais verossímeis. Só se pode falar em decisão manifestamente contrária à prova dos autos, quando o conjunto probatório não trouxer nenhum elemento a embasar a tese aceita no julgamento, constituindo ela numa aberração, porque divorciada daquele (conjunto probatório). Não é o i caso dos autos, até porque o Colegiado, examinando recurso do apelante, afirmou que a pronúncia era viável. Por este motivo, mantém-s  a decisão condenatória, porque ela tem amparo na prova, tanto para condenação do réu quanto para o reconhecimento da privilegiadora.
+II - Diante da enorme carga de subjetivismo na aplicação da pena-base e acréscimos ou reduções em face às agravantes e atenuantes, deve-se, tanto quanto possível, aceitar aquela fixada na sentença. A alteração só deve acontecer, quando se verificar erro ou abuso na fixação da punição, como vêm orientando as Cortes Superiores. Situação não ocorrida aqui.
+DECISÃO: Apelos defensivos e ministerial desprovidos. Unânime.
+Aqui, a Defensoria Pública pretende o redimensionamento da pena-base ao mínimo legal, afastando-se os acréscimos decorrentes da negativação das circunstâncias judiciais referentes à culpabilidade, personalidade e conduta social.
+Para tanto, sustenta, em resumo, a ausência de fundamentação idônea, porquanto  ..  cingiram-se os julgadores a mencionar elementos que em nada desbordam daquilo que ordinariamente se encontra em delitos desta natureza (fl. 6).
+Sem pedido liminar, seguiram os autos ao Ministério Público Federal, que opinou pela parcial concessão da ordem (fls. 414/415).
+É o relatório.
+Quanto à dosagem da pena, assim dispôs a sentença, no que interessa (fl. 232):
+ ..
+A culpabilidade do réu, entendida como o grau de reprovação de sua conduta, e a partir das presentes circunstâncias judiciais, supera a ordinária; não registra antecedentes, conforme certidão de fls. 276-277; a personalidade do acusado mostra-se distorcida, porquanto há elementos nos autos, especialmente quanto à forma de cometimento do crime, que denotam a agressividade de sua personalidade; a conduta social do acusado é desfavorável, conquanto seu desprezo com a vida é perceptível, haja vista ter outro envolvimento com crime doloso contra a vida, em fato ocorrido anteriormente ao presente caso; os motivos restaram prejudicados; as circunstâncias foram afastadas; as conseqüências são do tipo; a vítima contribuiu para o delito.
+Nessas condições, fixo a pena-base em 08 (oito) anos e 6 (seis) meses de reclusão.
+ ..
+O Tribunal de origem em nada alterou a sentença de primeiro grau.
+Observa-se, como bem ponderou o Subprocurador-Geral da República Paulo [NOME], que  ..  dos três vetores valorados negativamente pelo Juízo (acima destacados), dois não apresentam fundamentação idônea (fl. 415).
+Quanto à culpabilidade, não foi apresentada argumentação apta à valoração negativa; em relação à conduta social, utilizou-se de crime anterior imputado ao paciente e que não foi julgado.
+Somente no que se refere à vetorial relacionada à personalidade houve referência a circunstâncias concretas do caso - agressividade acentuada, especialmente quanto à forma de cometimento do delito (ação premeditada, praticada contra vítima que se encontrava em via pública, distraída e alcoolizada).
+Com efeito,  ..  tendo o Magistrado sentenciante demonstrado, de forma concreta, as razões pelas quais considerou desfavorável a circunstância judicial referente à personalidade do agente, dada a sua agressividade, não há o que se falar em ilegalidade na sentença no ponto em que fixou a sanção-base acima do mínimo legalmente previsto, ou do acórdão que, justificadamente, a manteve (HC n. 118.760/MS, Ministro Jorge Mussi, Quinta Turma, DJe 14/2/2010).
+Assim, afasto a consideração negativa das moduladoras relacionadas à culpabilidade e conduta social, mantendo, entretanto, a análise desfavorável à personalidade do agente.
+Levando-se em consideração que a  ..  jurisprudência desta Corte é no sentido da proporcionalidade da fração de 1/6 de aumento, calculado, a partir da pena mínima abstratamente prevista, para cada vetorial negativa considerada na fixação da pena-base (AgRg no HC n. 428.622/MS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 12/4/2018) e ante a existência, portanto, de 1 vetorial desfavorável, fixo a pena-base em 7 anos de reclusão, mantenho, no mais, o que decidido pelas instâncias ordinárias, motivo pelo qual a pena é fixada, definitivamente, em 4 anos e 6 meses de reclusão.
+Ante o exposto, concedo parcialmente a ordem a fim de fixar a reprimenda em 4 anos e 6 meses de reclusão, mantendo-se, no mais, o que decidido pelas instâncias de origem.
+Publique-se.
