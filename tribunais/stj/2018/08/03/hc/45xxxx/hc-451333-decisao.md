@@ -1,0 +1,39 @@
+DECISÃO
+[NOME], paciente neste habeas corpus, alega sofrer coação ilegal em seu direito de locomoção, em face de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo na Apelação criminal n. 0003155-26.2015.8.26.0506.
+Nas razões deste mandamus, a impetrante pugna pelo afastamento da majorante do emprego de arma de fogo, uma vez que a suposta arma utilizada não foi apreendida, nem tampouco periciada.
+Postula, ainda, a revisão na dosimetria da pena, pois "condenações não transitadas em julgado não possuem o condão de exasperar a pena-base cominada, devendo a pena da recorrente ser mantida no mínimo legal" (fl. 10).
+Alega, por fim, que o regime foi fixado em desconformidade com as Súmulas 718 e 719 do STF e 440 do STJ.
+Requer a concessão da ordem, a fim de que seja revista a pena e estabelecido o regime mais brando como forma de resgate da sanção privativa de liberdade.
+Indeferida a liminar (fls. 55-56) e prestadas as informações (fls. 62-80), veio parecer do Ministério Público Federal, que opinou pela denegação da ordem (fls. 82-86).
+Decido.
+Depreende-se dos autos que o paciente foi condenado como incurso no art. 157, § 2º, II, do Código Penal, à pena de 5 anos e 4 meses de reclusão, em regime fechado, mais multa. A Corte estadual negou provimento ao apelo defensivo.
+No tocante ao emprego de arma, ficou consignado na sentença que "a vítima afirmou categoricamente que foi ameaçada pelo seu uso e, por este motivo, extremamente temerosa, foi subjugada e obrigada a ceder a todos os desejos do assaltante sem qualquer chance de reação" (fl. 22).
+A Corte de origem manteve a incidência da referida majorante, pois a sua comprovação "emerge do relato da vítima e da própria confissão judicial, pouco importando que a arma utilizada na empreitada delitiva não tenha sido apreendida e periciada" (fl. 48).
+Quanto à incidência da majorante prevista no art. 157, § 2º, I, do Código Penal, nas hipóteses em que a arma não foi apreendida e periciada e, via de consequência, não foi comprovado o seu efetivo poder vulnerante, a Terceira Seção deste Superior Tribunal, no julgamento dos EREsp n. 961.863/RS, de relatoria do Ministro Celso Limongi (Desembargador convocado do TJ/SP), com relator para acórdão o Ministro Gilson Dipp, DJe 6/4/2011, assentou o entendimento de que, para a incidência da causa especial de aumento, mostram-se prescindíveis a apreensão e a realização de perícia na arma utilizada no crime de roubo, desde que seja comprovada a sua utilização por outros meios de prova.
+Vale dizer, mesmo nas hipóteses em que não houver a apreensão e a perícia da arma para a prova do seu efetivo potencial de lesividade, é devida a incidência da majorante insculpida no art. 157, § 2º, I, do Código Penal quando existirem elementos que comprovem a utilização da arma na prática do delito, exatamente como ocorre na espécie, em que as instâncias ordinárias se apoiaram na prova oral colhida durante a instrução do feito para concluir pela utilização da arma no crime de roubo. Cito, por oportuno, o seguinte julgado do Supremo Tribunal Federal, que bem sintetiza a matéria:
+ ..
+I - Não se mostra necessária a apreensão e perícia da arma de fogo empregada no roubo para comprovar o seu potencial lesivo, visto que tal qualidade integra a própria natureza do artefato.
+II - Lesividade do instrumento que se encontra in re ipsa.
+III - A qualificadora do art. 157, § 2º, I, do Código Penal, pode ser evidenciada por qualquer meio de prova, em especial pela palavra da vítima - reduzida à impossibilidade de resistência pelo agente - ou pelo depoimento de testemunha presencial.
+IV - Se o acusado alegar o contrário ou sustentar a ausência de potencial lesivo da arma empregada para intimidar a vítima, será dele o ônus de produzir tal prova, nos termos do art. 156 do Código de Processo Penal.
+V - A arma de fogo, mesmo que não tenha o poder de disparar projéteis, pode ser empregada como instrumento contundente, apto a produzir lesões graves.
+VI - Hipótese que não guarda correspondência com o roubo praticado com arma de brinquedo.
+VII - Precedente do STF.
+VIII - Ordem indeferida. (HC n. 96.099, Rel. Ministro Ricardo Lewandowski, Tribunal Pleno, DJe 5/6/2009, grifei.)
+Assim, não identifico o apontado constrangimento ilegal, haja vista que as instâncias ordinárias decidiram em consonância com o entendimento dominante do Superior Tribunal de Justiça sobre o tema.
+Sobre à redução da pena-base, verifico que a Corte estadual considerou não comportar reparos, pois "foram fixadas nos patamares mínimos previstos para a espécie" (fl. 49), a evidenciar a ausência de interesse-utilidade nesse ponto da impetração.
+O Juiz de primeiro grau fixou o regime fechado, "como o único consoante com a finalidade de prevenção e repressão a temidos autores de assalto praticados com emprego de arma de fogo" (fl. 23).
+O Tribunal estadual manteve o regime mais gravoso, "único compatível com a gravidade do delito de roubo majorado pelo emprego de arma e a periculosidade pelo apelante demonstrada" (fl. 49).
+Quanto à almejada modificação do regime inicial para o semiaberto, cumpre enfatizar que esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, ao quantum de reprimenda imposto.
+É dizer, para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena (HC n. 279.272/SP, Rel. Ministro Moura Ribeiro, 5ª T., DJe 25/11/2013; HC n. 265.367/SP, Rel. Ministra Laurita Vaz, 5ªT., DJe 19/11/2013; HC n. 213.290/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/11/2013; HC n. 148.130/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 3/9/2012).
+Feitas essas premissas, verifico que as instâncias ordinárias não apontaram nenhum elemento dos autos (como o modus operandi e indicação de número excessivo de agentes, por exemplo) que, efetivamente, comprovasse a real exigência de fixação do modo inicialmente mais gravoso. Nesse sentido, entendo que os elementos apresentados não se revestem da devida idoneidade para sustentar a fixação do regime mais gravoso do que o permitido em razão da sanção aplicada, haja vista que refletem as elementares do próprio crime e sua majorante.
+Esse, aliás, é o entendimento consolidado nas Súmulas n. 440 do STJ, 718 e 719 do STF.
+Nesse sentido, confira-se o seguinte julgado desta Corte de Justiça:
+ ..
+8. O Tribunal local não apontou nenhum elemento dos autos (como o modus operandi, por exemplo) que, efetivamente, comprovasse a real exigência de fixação do modo inicialmente mais gravoso.
+9. O paciente, primário, sem registro de circunstância judicial desfavorável e condenado a 6 anos e 10 meses de reclusão, deve cumprir a pena em regime inicial semiaberto, a teor do art. 33, § 2º, "b", e § 3º, do CP.
+10. Ordem não conhecida. Habeas corpus concedido, de ofício, para, na terceira fase da dosimetria do crime de quadrilha ou bando (atual delito de associação criminosa), reduzir à metade o aumento de pena procedido em razão da majorante do parágrafo único do art. 288 do Código Penal, nos termos da Lei n. 12.850/2013, tornando a reprimenda do paciente definitivamente estabelecida em 6 anos e 10 meses de reclusão, a ser cumprida em regime semiaberto.
+(HC n. 217.000/BA, Rel. Ministro Rogerio Schietti, 6ª T., DJe 29/8/2016)
+Assim sendo, o paciente primário sem registro de circunstância judicial desfavorável e condenado à 5 anos e 4 meses de reclusão, deve cumprir a pena em regime inicial semiaberto, a teor do art. 33, § 2º,"b", e § 3º, do CP.
+À vista do exposto, concedo parcialmente a ordem, apenas para fixar o regime semiaberto.
+Publique-se e intimem-se.
