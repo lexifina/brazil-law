@@ -1,0 +1,22 @@
+DECISÃO
+ADMINISTRATIVO. PENHORA DE BEM INDIVISÍVEL. CO-PROPRIEDADE. CONSTRIÇÃO JUDICIAL QUE SOMENTE PODE RECAIR SOBRE A PARCELA DO EXECUTADO. RECURSO ESPECIAL A QUE SE DÁ PROVIMENTO.
+1. Trata-se de Recurso Especial interposto por [NOME], com fundamento na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 4a. Região, assim ementado:
+AGRAVO DE INSTRUMENTO PENHORA. BEM INDIVISÍVEL CO- PROPRIEDADE.
+No caso de bem indivisível deve a penhora ser levada a efeito sobre a totalidade do bem, garantindo-se, todavia, quando da arrematação, o valor correspondente à fração ideal do co-proprietário.
+2. Inconformado, o recorrente alega violação do art. 655-B do CPC/1973, sustentando a ilegalidade da penhora da totalidade de imóvel de que é co-proprietário, lhe cabendo apenas 12,5% do seu fracionamento. Defende, com isso, a necessidade de proteção da cota-parte de cada condômino.
+3. Contrarrazões às fls. 355/357.
+4. É o relatório. Decido.
+5. Assiste razão ao recorrente.
+6. Diferentemente do que ocorre com a meação de ex-cônjuge por força do art. 655-B do CPC/1973, a parcela de bem indivisível pertencente a terceiro não pode ser levada a hasta pública, admitindo-se a constrição judicial somente da fração de propriedade do executado. Esse é o entendimento deste STJ. Citem-se precedentes:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EMBARGOS DE TERCEIRO. CO-PROPRIEDADE. BEM INDIVISÍVEL. PENHORA. HASTA PÚBLICA. IMPOSSIBILIDADE.
+1. O Superior Tribunal de Justiça entende que, em execução, a fração ideal de bem indivisível pertencente a terceiro não pode ser levada a hasta pública, de modo que se submetem à constrição judicial apenas as frações ideais de propriedade dos respectivos executados.
+2. Recurso Especial provido (REsp. 1.196.284/RS, Rel. Min. HERMAN BENJAMIN, DJe 16.9.2010).
+
+PROCESSUAL CIVIL. PENHORA DE BEM INDIVISÍVEL. IMÓVEL DE PROPRIEDADE DE VÁRIOS IRMÃOS. BEM GRAVADO COM ÔNUS REAL DE USUFRUTO. VIOLAÇÃO AO ART. 535, II, DO CPC. NÃO OCORRÊNCIA. POSSIBILIDADE DE PENHORA DA FRAÇÃO IDEAL DE PROPRIEDADE DO EXECUTADO. PRECEDENTES.
+1. O Tribunal de origem se manifestou de forma clara e fundamentada no sentido de obstar a penhora do imóvel nomeado pela exequente, haja vista que o bem está gravado com ônus real (usufruto) e possui diversos proprietários, fatos que dificultariam a execução e, ainda, não satisfariam o direito do credor. O cabimento dos embargos de declaração está limitado às hipóteses de omissão, contradição ou obscuridade do julgado, cabendo, ainda, quando for necessária a correção de erro material ou premissa fática equivocada sobre a qual se embase o julgamento. Tais hipóteses não ocorreram no caso dos autos, pelo que não há que se falar em violação ao art. 535, II, do CPC.
+2. Em que pese a dificuldade na alienação do bem imóvel em questão, é certo que a execução é realizada em benefício do credor, nos termos do art. 612 do CPC. A indivisibilidade do bem e o fato de o imóvel estar gravado com ônus real, in casu, usufruto, não lhe retiram, por sí sós, a possibilidade de penhora, eis que os arts. 184 do CTN e 30 da Lei n. 6.830/80 trazem previsão expressa de que os bens gravados com ônus real também respondem pelo pagamento do crédito tributário ou dívida ativa da Fazenda Pública.
+3. Eventual arrematante deverá respeitar o ônus real que recai sobre o imóvel. Tal ônus, por óbvio, pode dificultar a alienação do bem, mas não pode justificar a recusa judicial da penhora, sobretudo porque a execução é feita no interesse do credor. Em casos tais quais o dos autos, pode interessar aos co-proprietários a arrematação da parcela da nua propriedade que não lhes pertence.
+4. Nos termos da jurisprudência desta Corte, a alienação de bem indivisível não recairá sobre sua totalidade, mas apenas sobre a fração ideal de propriedade do executado, o que não se confunde com a alienação de bem de propriedade indivisível dos cônjuges, caso em que a meação do cônjuge alheio à execução, nos termos do art. 655-B, do CPC, recairá sobre o produto da alienação do bem.
+5. Recurso especial parcialmente provido para reconhecer a possibilidade de penhora sobre a fração ideal do imóvel de propriedade do executado (REsp. 1.232.074/RS, Rel. Min. MAURO CAMPBELL MARQUES, DJe 4.3.2011).
+7. Ante o exposto, dá-se provimento ao Recurso Especial, para reconhecer a inviabilidade de que a penhora do imóvel recaia sobre as parcelas de co-proprietários em relação ao executado.
+8. Publique-se. Intimações necessárias.
