@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CACISA ADMINISTRACAO E PARTICIPACAO DE BENS SA contra decisão exarada pela il. 3ª Vice-Presidência do Tribunal de Justiça do Estado de Minas Gerais (TJ-MG), que inadmitiu o recurso especial.
+Cuidam os autos, na origem, de "ação de cobrança de honorários por serviços prestados com pedido de tutela antecipada" promovida por ROMEU TARCÍSIO CAMBRAIA contra CACISA ADMINISTRACAO E PARTICIPACAO DE BENS SA E OUTRA, cujo pedido foi julgado parcialmente procedente, conforme sentença de fls. 730-750, para condenar as demandadas ao "pagamento de honorários de prestação de serviços de assessoria e consultoria, que lhes foram prestados pelo requerente, de acordo com contrato verbal formalizado entre eles, que restou cabalmente comprovado, no valor de R$ 269.000,00 (duzentos e sessenta e nove mil reais), de acordo com relação que consta na inicial (fl. 06) que não foram pagos até a presente data pelas requeridas" e julgar improcedente "o pedido de cobrança incidente sobre valor de tickets de leite, de 10% sobre o valor de R$ 6.000.000,00(seis milhões de reais), no valor de R$ 600.000.00 (seiscentos mil reais).
+Diante disso, CACISA ADMINISTRACAO E PARTICIPACAO DE BENS SA interpôs apelação, a qual não foi provida pelo eg. TJ-MG, nos termos do v. acórdão, assim ementado:
+"EMENTA: APELAÇÃO CÍVEL - AÇÀO DE COBRANÇA - INTEMPESTIVIDADE DA CONTESTAÇÃO - PRELIMINAR PRECLUSA - PEDIDO EM CONTRARRAZÓES - VIA INADEQUADA - SERVIÇOS DE ASSESSORIA/CONSULTORIA ADMINISTRATIVA - COMPROVADOS - CONTRAPRESTAÇÃO PECUNIÁRIA - DEVIDA. Embora as matérias de ordem pública não se submetam a preclusão temporal, estão sujeitas a preclusão consumativa. Se a parte contrária também protender a reforma de capitulo da sentença, deve formular o respectivo requerimento em apelação autônoma ou adesiva, não sendo cabível o pedido na resposta recursal. Quando os documentos carreados aos autos, aliados ã prova testemunhal colhida durante a instrução, demonstram a contratação e prestação de serviços, ainda que inexista formalização de contrato escrito assinado por todos os representantes legais das empresas contratantes, impõe-se a obrigação de pagamento da respectiva contraprestação" (fl. 842)
+Opostos embargos de declaração, estes foram rejeitados (fls. 873-877).
+Inconformada, CACISA ADMINISTRACAO E PARTICIPACAO DE BENS SA interpôs recurso especial, com fulcro no art. 105, inciso III, alínea "a" da Constituição Federal, no qual alega violação ao art. 166, IV do Código Civil e aos arts. 510 e 1.026, § 2º, ambos do CPC/2015.
+Contrarrazões às fls. 896-899.
+Como dito, o apelo nobre foi inadmitido à fl. 912.
+Irresignada, CACISA ADMINISTRACAO E PARTICIPACAO DE BENS SA manejou o presente agravo em recurso especial, refutando os fundamentos da decisão que inadmitiu seu apelo nobre.
+Sem Contraminuta (vide certidão de fl. 928).
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+A irresignação merece prosperar em parte.
+Nas razões recursais, sustenta a recorrente vulneração aos arts. 166, IV do Código Civil e ao art. 510 do CPC/2015, em síntese, ao argumento de que "não há que se falar dívida líquida, certa e exequível (f. 14), porquanto o contrato apócrifo de f. 12 prevê porcentagens, ou seja, não há que se estabelecer a importância de R$ 269.000,00 (duzentos e sessenta e nove mil reais) como devida de imediato, eis que dependem de prova pericial"(fl. 884).
+Por sua vez, o eg. TJ-MG asseverou que restou comprovada a contratação discutida nos autos, além da ausência da respectiva contraprestação por parte da recorrente. É o que se verifica in verbis:
+"Todos esses elementos deixam indene de dúvidas a assessoria/consultona prestada pelo apelado e, por conseguinte, ele faz jus aos honorários.  ..
+ ..
+Resumindo, restou comprovada a contratação/prestação dos serviços e a ausência da respectiva contraprestação geraria inadmissível enriquecimento ilícito (art. 884 e ss. do Código Civil)" (fls. 850-851).
+Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido, acima transcrito, a fim de perquirir a ocorrência e regularidade da contratação objurgada e respectiva contraprestação, na forma em que ora se postula, demandaria o revolvimento do suporte fático-probatório dos autos, bem como o reexame de cláusulas contratuais, o que é inviável em sede de recurso especial, a teor do que dispõem as Súmulas n. 5 e 7/STJ.
+Portanto, o especial não merece conhecimento, no ponto.
+Noutro giro, quanto à alegada ofensa ao art. 1.026, § 2º do CPC/2015, pugna a recorrente pela exclusão da multa imposta pelo Tribunal de origem por ocasião da interposição dos embargos de declaração. Nessa parte, merece acolhimento o pleito recursal.
+Com efeito, a jurisprudência consolidada deste Superior Tribunal de Justiça posiciona-se no sentido de que não deve ser aplicada a multa do art. 1.026 do CPC/2015 aos embargos de declaração com nítido caráter prequestionador, em obediência à Súmula 98/STJ, que assim dispõe: "Embargos de declaração manifestados com notório propósito de prequestionamento não tem caráter protelatório". A esse respeito, destacam-se os seguintes julgados:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. REINTEGRAÇÃO DE POSSE. ESBULHO. COMPROVAÇÃO. LIMINAR CONCEDIDA. OMISSÃO DO ACÓRDÃO RECORRIDO CONFIGURADA. RECURSO ESPECIAL PROVIDO PARA ACOLHER A VIOLAÇÃO AO ART. 535 DO CPC/73. DECISÃO MANTIDA.
+(..)
+2. Na hipótese, observa-se que ambos os embargos de declaração foram opostos com o intuito de questionar a matéria ora considerada não apreciada e para fins de prequestionamento. Tal o desiderato dos embargos, não há por que inquiná-los de protelatórios; daí que, em conformidade com a Súmula 98 do Superior Tribunal de Justiça, deve ser afastada a multa aplicada pelo Tribunal local.
+3. Agravo interno a que se nega provimento".
+(AgInt no REsp 1215384/MG, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 12/12/2017, DJe 18/12/2017)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. VIOLAÇÃO AO ART. 535 DO CPC/1973. INOCORRÊNCIA. MULTA. CARÁTER PROTELATÓRIO. SÚMULA 98 DO STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211 DO STJ. TUTELA ANTECIPADA. AUSÊNCIA DE VEROSSIMILHANÇA. SÚMULA 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. PREJUDICADA.
+(..)
+3. A oposição de embargos de declaração na origem possui o notório propósito de prequestionamento, ausente o caráter protelatório, o que faz incidir a Súmula 98 do STJ.
+(..)
+6. Agravo interno a que se nega provimento".
+(AgInt no AREsp 904.153/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 08/11/2016, DJe 17/11/2016)
+No caso dos autos, constata-se que os embargos de declaração apresentados pela recorrente tiveram claro propósito de prequestionamento, ausente a intenção de protelação, por conseguinte, a incidir a Súmula 98/STJ.
+Nesse cenário, forte na jurisprudência ora colacionada, nessa parte, merece provimento o apelo especial, reformando o v. aresto estadual, no ponto, de modo a afastar a aplicação da multa do art. 1.026 do CPC/2015.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "a" e "c", do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, dar-lhe parcial provimento, tão-somente, para afastar a aplicação da multa do art. 1.026 do CPC/2015.
+Publique-se.
