@@ -1,0 +1,32 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. MILITAR. GRATIFICAÇÃO ORGÂNICA. ALTERAÇÃO DO PERCENTUAL DO ADICIONAL DE 40% A 10% PELA LEI 8.237/1991. PRESCRIÇÃO DO FUNDO DE DIREITO. INOCORRÊNCIA. RECURSO ESPECIAL DO MILITAR PARCIALMENTE PROVIDO.
+1. Trata-se de Recurso Especial interposto por [NOME], com fundamento no art. 105, III, alínea a da Constituição Federal, contra acórdão proferido pelo egrégio TRF 4a. Região, assim ementado:
+ADMINISTRATIVO. MILITAR. GRATIFICAÇÃO ORGÂNICA. LEI 8.237/91. REDUÇÃO PERCENTUAL. PRESCRIÇÃO DE FUNDO DE DIREITO.
+Com efeito, a alteração do percentual do adicional ocorreu com a entrada em vigor da Lei 8.237/1991, passando de 40% para 10%. Assim, tratando-se de evento único, configurou-se a prescrição do fundo de direito (fls. 145).
+2. Aos Embargos de Declaração opostos (fls. 152/153) foram negados provimento, por unanimidade (fls. 158/160).
+3. Em suas razões recursais sustenta a parte agravante violação dos arts. 1o. do Decreto 20.910/1932, 20, §§ 3o. e 4o. do CPC, às Leis 1.234/1950 e 8.237/1991, aos seguintes argumentos: (a) não ocorreu a prescrição do fundo de direito por tratar-se de parcelas de trato sucessivo, devendo considerar-se prescritas somente as parcelas anteriores aos 5 anos a contar da data do ajuizamento da ação; (b) houve redução injusta e ilegal do adicional garantido pela Lei 1.234/1950 à título de compensação orgânica pela exposição a radiação, passando de 40% para 10%; e (c) os honorários fixados em 10% devem ser minorados.
+4. É o relatório, em síntese. Decido.
+5. O Tribunal de origem, ao manifestar-se sobre a questão posta a debate, assim consignou:
+A controvérsia a ser solvida cinge-se a possibilidade de declaração do direito de perceber o adicional de compensação orgânica no percentual de 40%, com o ressarcimento de seus prejuízos financeiros.
+Cabe observar que não se trata apenas de obter revisão do benefício que a autora percebe mês a mês caracterizando uma relação de trato sucessivo. Se esta fosse a situação, a prescrição que incidiria seria aquela prevista na súmula 85 do STJ, porém, não é o caso.
+A prescrição rege-se pelo princípio da "actio nata". Quer isso dizer que, a partir do momento em que a ação pode ser exercitada, ou a partir do momento em que nasce, para o indivíduo, o direito de ação, começa a fluir o prazo prescricional.
+Com efeito, a alteração do percentual do adicional ocorreu com a entrada em vigor da Lei 8.237/1991, passando de 40% para 10%. Assim, tratando-se de evento único, configurou-se a prescrição do fundo de direito.
+Dispõe, o art. 1º do Decreto nº. 20.910, de 6 de janeiro de 1932:
+As dívidas passivas da União, dos Estados e dos Municípios, bem assim todo e qualquer direito ou ação contra a Fazenda Federal, estadual ou municipal, seja qual for a sua natureza, prescrevem em cinco anos contados do ato ou fato do qual se originaram.
+Assim, o curso prescricional, no presente caso, teve seu marco inicial a contar davigência da Lei 8.237/1991 que alterou o percentual devido, consumando-se cinco anos após, não se estando frente, apenas, à prescrição das parcelas vencidas antes do quinquênio relativo à propositura da ação, mas sim de prescrição de fundo de direito, uma vez que diz respeito a ato único de efeito concreto, na esteira, aliás, das seguintes decisões dos Tribunais pátrios: (..) (fls. 141/142).
+6. Verifica-se que o acórdão recorrido destoa do entendimento jurisprudencial desta Corte Superior de que, nos casos em que a pretensão envolve o pagamento de vantagem pecuniária, por se tratar de prestações de trato sucessivo que se renovam mensalmente, quando não tiver sido negado o próprio direito reclamado, não ocorre a prescrição do fundo de direito, mas tão somente das parcelas anteriores ao quinquênio que precedeu à propositura da ação, nos termos da Súmula 85 do STJ. A esse respeito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. ADICIONAL DE INSALUBRIDADE. EXTENSÃO AOS INATIVOS. PRESCRIÇÃO DO FUNDO DE DIREITO. NÃO OCORRÊNCIA. RELAÇÃO DE TRATO SUCESSIVO. SÚMULA 85/STJ.
+1. Conforme a orientação jurisprudencial firmada no Superior Tribunal de Justiça, nas causas em que se postula o pagamento de parcelas que se renovam mês a mês, não havendo negativa do direito reclamado pela Administração, a prescrição do direito de ação atinge tão somente as prestações vencidas há mais de cinco anos da propositura da ação, por se tratar de relação jurídica de trato sucessivo, nos termos da Súmula 85/STJ.
+2. Agravo interno a que se nega provimento (AgInt no REsp. 1.455.430/SP, Rel. Min. OG FERNANDES, DJe 25.4.2017).
+
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. FEPASA. COMPLEMENTAÇÃO DE APOSENTADORIA OU PENSÃO. PRESCRIÇÃO DO FUNDO DE DIREITO. INOCORRÊNCIA.
+1. Segundo assentado por esta Corte Superior, não há prescrição do fundo de direito nos casos em que servidores públicos aposentados ou pensionistas da extinta FEPASA buscam a complementação do benefício previdenciário. A propósito: AgRg no REsp 1.468.203/SP, Rel. Min. MAURO CAMPBELL MARQUES, DJe 24.9.2014; e AgRg no REsp 1.055.666/PR, Rel. Min. MARIA THEREZA DE ASSIS MOURA, DJe 27.6.2012).
+2. Agravo regimental não provido (AgRg nos EDcl no REsp. 1.356.965/SP, Rel. Min. BENEDITO GONÇALVES, DJe 7.10.2015).
+
+ADMINISTRATIVO. PENSIONISTA DA FEPASA. EXTENSÃO DE AUMENTOS GERAIS REPASSADOS AOS FERROVIÁRIOS DA CPTM DA ATIVA REFERENTE AOS ANOS DE 1999, 2000 E 2001. RELAÇÃO DE TRATO SUCESSIVO. SÚMULA 85/STJ.
+1. O conhecimento da matéria trazida a esta Corte prescinde do reexame de fatos e provas, porque unicamente de direito.
+2. Nos casos em que os servidores públicos aposentados e os pensionistas da extinta Fepasa buscam a complementação do benefício previdenciário, não ocorre a prescrição da pretensão ao fundo de direito, mas apenas das parcelas vencidas antes do quinquênio que precedeu o ajuizamento da ação, por incidência do disposto na Súmula 85/STJ.
+3. A violação do direito dos aposentados e/ou pensionistas se renova no tempo, porquanto decorrente da conduta omissiva de não se observar o principio constitucional da paridade. Precedentes.
+4. Agravo regimental não provido (AgRg no REsp. 1.468.203/SP, Rel. Min. MAURO CAMPBELL MARQUES, DJe 24.9.2014).
+7. Ante o exposto, dá-se parcial provimento ao Recurso Especial do Militar para afastar a prescrição determinando o retorno dos autos à origem para que prossiga ao julgamento do feito como entender de direito.
+8. Publique-se. Intimações necessárias.
