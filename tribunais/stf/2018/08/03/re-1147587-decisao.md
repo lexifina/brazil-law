@@ -1,0 +1,22 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão da 1ª Turma Cível do Colégio Recursal – Ribeirão Preto, do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 3, p. 16):
+    “Ementa: Funcionário Público – Diferença – URV – afastamento das teses da requerida – Pedido Procedente – Recurso da autora provido.”
+    Não foram opostos embargos de declaração.
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa ao princípio da segurança jurídica (art. 5º da Constituição Federal).
+    Nas razões recursais, sustenta-se, em suma, que o acórdão recorrido deixou de observar o entendimento desta Corte em processo sob o rito da repercussão geral sendo o qual o término da incorporação das eventuais diferenças obtidas pela conversão em URV deve ocorrer no momento em que a carreira do servidor passou por uma reestruturação remuneratória, porque, como decidido, não poderá haver direito à percepção ad aeternum da parcela (eDOC 3, p. 30-33).
+    A Presidência do Colégio Recursal – Ribeirão Preto, do TJ/SP, inicialmente, sobrestou o extraordinário até o julgamento definitivo do RE 561.836 por esta Corte (eDOC 3, p. 38). Contudo, em 11/8/2017, desproveu o recurso, sob o fundamento de que não restou evidenciado o suposto maltrato às normas constitucionais invocadas, bem como ao entendimento que incide à espécie do óbice da Súmula 279 do STF (eDOC 3, p. 41/42).
+    O Estado de São Paulo interpôs agravo interno argumentando, em suma (eDOC 3, p. 52/53):
+    “Todas as carreiras do Estado de São Paulo, porém, já sofreram reestruturações ou tiveram seu regime de vencimentos alterado posteriormente à edição da Lei 8.880/94.
+    No caso da parte (recorrida), professora, houve reestruturação remuneratória de seu cargo pela Lei Complementar nº 836/1997.”
+    O agravo interno foi provido pela 3ª Turma Cível do Colégio Recursal – Ribeirão Preto, do TJ/SP, determinando o seguimento do recurso extraordinário (eDOC 3, p. 67-70).
+    É o relatório. Decido.
+    A matéria discutida nestes autos já foi objeto de análise por esta Corte.
+    Verifica-se que o Supremo Tribunal Federal, ao apreciar o RE 561.836, da relatoria do Ministro Luiz Fux, DJe 10.2.2014, em julgamento sob a sistemática da repercussão geral, Tema 5, firmou o entendimento segundo o qual reconhecida a ocorrência de decréscimo nos estipêndios dos servidores em face das perdas decorrentes da conversão do padrão monetário de Cruzeiro Real em URV, é cabível a recomposição remuneratória. O reconhecimento do direito à reposição das perdas não restou limitado aos servidores dos Poderes Legislativo e Judiciário federal, mas àqueles que recebem seus vencimentos em momento anterior ao do término do mês trabalhado, tal como ocorre no âmbito dos mencionados Poderes.
+    Além disso, esta Corte, ao analisar o ARE 968.574-RG, Rel. Min. Teori Zavascki, DJe 12.9.2016, Tema 913, reconheceu a inexistência de repercussão geral da controvérsia relativa à verificação da ocorrência, ou não, de reestruturação remuneratória da carreira de servidores públicos para efeito de aplicação da orientação firmada no RE 561.836.
+    Na oportunidade, a ementa restou assim redigida:
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. ÍNDICE RELATIVO À PERDA SALARIAL DECORRENTE DA CONVERSÃO DO CRUZEIRO REAL EM UNIDADE REAL DE VALOR (URV). TERMO FINAL DA INCORPORAÇÃO. REESTRUTURAÇÃO REMUNERATÓRIA DA CARREIRA. VERIFICAÇÃO. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. Possui natureza infraconstitucional a controvérsia relativa à ocorrência ou não de reestruturação remuneratória da carreira de servidor público, para fins de estabelecimento do termo final da incorporação do percentual relativo à perda salarial decorrente da conversão do Cruzeiro Real em URV. 2. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna ocorra de forma indireta ou reflexa (RE 584.608-RG, Rel. Min. ELLEN GRACIE, DJe de 13/3/2009). 3. Ausência de repercussão geral da questão suscitada, nos termos do art. 1.035 do CPC/2015.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação à sistema da repercussão geral, nos termos do art. 1.036 do CPC, combinado com o art. 328 do RISTF.
+    Publique-se.
+    Brasília, 3 de agosto de 2018.
+Ministro EDSON FACHIN
+Relator
+Documento assinado digitalmente
