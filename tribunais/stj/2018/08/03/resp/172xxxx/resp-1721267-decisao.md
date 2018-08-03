@@ -1,0 +1,48 @@
+EMENTA
+RECURSO ESPECIAL. PENAL. VIOLAÇÃO DO ART. 155, § 1º, DO CP. FURTO QUALIFICADO. CAUSA DE AUMENTO. REPOUSO NOTURNO. COMPATIBILIDADE. JURISPRUDÊNCIA DO STJ. CAUSA DE AUMENTO QUE NÃO FOI ANALISADA PELO TRIBUNAL DE ORIGEM ANTE A ADOÇÃO DE TESE INCOMPATÍVEL. DETERMINAÇÃO DE RETORNO DOS AUTOS À ORIGEM.
+Recurso especial provido parcialmente.
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público de Minas Gerais, com fundamento na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça local que, na Apelação Criminal n. 1.0382.12.015870-6/001, reconheceu a qualificadora da escalada e afastou a causa de aumento do repouso noturno por entender que esta é incompatível com aquela.
+Esta, a ementa do acórdão recorrido (fl. 196):
+APELAÇÃO CRIMINAL - FURTO - AUTORIA E MATERIALIDADE COMPROVADAS - ESCALADA - QUALIFICADORA RECONHECIDA - MAJORANTE DO REPOUSO NOTURNO - INAPLICABILIDADE.
+Devidamente demonstradas a materialidade e a autoria delitivas, a condenação pelo crime de furto é de rigor.
+Havendo comprovação da qualificadora da escalada, é de ser considerada na condenação tal circunstância.
+Em condenação por furto qualificado não se deve aplicar a causa especial de aumento de pena consistente na prática delitiva durante o repouso noturno.
+Provimento parcial ao recurso que se impõe.
+V.V.
+APELAÇÃO CRIMINAL - FURTO - ESCALADA - ESFORÇO INCOMUM NÃO COMPROVADO - QUALIFICADORA NÃO COMPROVADA - REPOUSO NOTURNO - CASA DESABITADA - IRRELEVÂNCIA - ENTENDIMENTO PACIFICADO NO STJ. 01. Não havendo prova de que o agente, para alcançar a coisa visada, empregou esforço físico incomum para vencer o muro de proteção do imóvel, é de se decotar a qualificadora da escalada. 02. Se a ação delituosa é perpetrada em casa durante o horário do repouso noturno, é de se reconhecer a exasperante prevista no § 1º, do art. 155, do CP. 03. A jurisprudência do Superior Tribunal de Justiça firmou entendimento de que incide a majorante do repouso noturno quando o furto é praticado em imóvel habitado, desabitado ou mesmo em estabelecimento comercial, sendo indiferente o fato de a vítima estar ou não, efetivamente, repousando, basta que seja perpetrado em horário noturno, período em que al vigilância do local é menos eficiente e o patrimônio fica mais vulnerável.
+Opostos embargos infringentes, a Terceira Câmara Criminal do Tribunal de Justiça de Minas Gerais deu provimento ao recurso defensivo para reconhecer a prescrição da pretensão punitiva, absolvendo o réu.
+Em suas razões, alega o Parquet violação do art. 155, § 1º, do Código Penal, uma vez que a Terceira Câmara Criminal, por maioria, entendeu que a causa de aumento de pena do repouso noturno é incompatível com o delito do furto qualificado, previsto no art. 155, § 4º, do Código Penal.
+Ressalta que  ..  o critério a ser adotado para se averiguar a viabilidade de se cumular a causa de aumento do § 1º do art. 155 do CP com as qualificadoras do § 4º do citado dispositivo legal, é a compatibilidade existente entre elas, e não a precedência de um ou de outro dispositivo no tipo penal (critério topográfico) (fl. 286).
+Pede o provimento do recurso para que seja reconhecida a majorante prevista no § 1º do art. 155 do Código Penal.
+Oferecidas contrarrazões (fls. 329/333), o recurso especial foi admitido na origem (fls. 335).
+O Ministério Público Federal opina pelo provimento da insurgência, além de requerer a expedição de ofício ao Juízo da origem a fim de que se dê início à execução provisória da pena (fls. 347/355).
+RECURSO ESPECIAL. PENAL. PROCESSO PENAL. FURTO. NEGATIVA DE CUMULAÇÃO DA QUALIFICADORA DE ESCALADA SIMULTANEAMENTE COM A MAJORANTE DE REPOUSO NOTURNO. POSSIBILIDADE. PRECEDENTES DESSE SUPERIOR TRIBUNAL DE JUSTIÇA. PELO PROVIMENTO DO RECURSO ESPECIAL.
+É o relatório.
+Extrai-se do combatido aresto o seguinte trecho (fls. 199/200 - grifo nosso):
+ ..  Destarte, sendo reconhecida a qualificadora prevista no artigo 155, § 4º, II, do Código Penal, incabível o reconhecimento da causa especial de aumento de penas descrita no parágrafo 1º deste artigo, haja vista que esta majorante não deve ser aplicada ao crime na forma qualificada, para não incorrer em bis in idem, como lecionado:
+"(..) O legislador, reconhecendo o maior gravame, impõe um aumento de um terço para a pena, em quantidade fixa e predeterminada. Esta causa de aumento deve ser aplicada somente ao furto simples, isto é, à figura prevista no caput (..)" (NUCCI, [NOME]. Código Penal Comentado. São Paulo: 2003).
+Na 6a edição da mesma obra, o autor enfatiza:
+"Havíamos sustentado que o § 1º só se aplica à figura simples do caput não somente por sua posição sistemática no tipo penal, mas sobretudo porque as qualificadoras já punem suficientemente o réu, quando uma de suas hipóteses emerge. Não há razão plausível para aplicar uma pena bem maior (reclusão de 02 a 08 anos) acrescida de mais um terço, quando se sabe que, na maioria dos casos, o furto qualificado é praticado durante à noite".
+Assim também se apresenta o posicionamento jurisprudencial:
+"FURTO DUPLAMENTE QUALIFICADO - ROMPIMENTO DE OBSTÁCULO - DECOTE - INADMISSIBILIDADE - LAUDO PERICIAL E PALAVRAS DA VITIMA :- COMPROVAÇÃO - RECONHECIMENTO DA QUALIFICADORA DE REPOUSO NOTURNO - IMPOSSIBILIDADE. Comprovado por laudo pericial e esclarecimentos da vítima que o agente efetuou a subtração mediante rompimento de obstáculo, não há que se falar no decote da referida qualificadora. A majorante do repouso noturno é incompatível com a forma qualificada do furto, tendo aplicabilidade tão-somente com a figura do furto simples." (TJMG; Relator Des. WILLIAM SILVESTRINI, Apelação nº 1.0281.05.008021-3/001)
+Logo, não se reconhece a majorante relativa ao repouso noturno.  ..
+A insurgência merece prosperar.
+Segundo o entendimento jurisprudencial do Superior Tribunal de Justiça, a causa de aumento tipificada no § 1º do art. 155 do Código Penal, referente ao crime cometido durante o repouso noturno, é aplicável tanto na forma simples como na qualificada do delito de furto.
+A propósito, colaciono recentes precedentes de ambas as Turmas da Terceira Sessão desta Corte:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO AO ART. 155, §§ 1º E 4º, I, DO CP. FURTO QUALIFICADO. APLICAÇÃO DA CAUSA DE AUMENTO PELA PRÁTICA DO DELITO DURANTE O REPOUSO NOTURNO. POSSIBILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A causa de aumento prevista no § 1º do artigo 155 do Código Penal, que se refere à prática do crime durante o repouso noturno - em que há maior possibilidade de êxito na empreitada criminosa em razão da menor vigilância do bem, mais vulnerável à subtração -, é aplicável tanto na forma simples como na qualificada do delito de furto.
+2. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.658.584/MG, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 3/5/2017 - grifo nosso).
+RECURSO ESPECIAL. FURTO QUALIFICADO MEDIANTE ESCALADA. INCIDÊNCIA DA CAUSA DE AUMENTO DO REPOUSO NOTURNO. POSSIBILIDADE. RECURSO PROVIDO.
+I - As normas que estabelecem as qualificadoras do furto e a causa de aumento do repouso noturno são harmonizáveis, haja vista que o legislador tanto nas qualificadoras objetivas (§ 4º do art 155) como na referida causa de aumento apreciou e revalorou o desvalor da ação do agente, e não fez uma análise sob a ótica do desvalor do resultado.
+II - Numa graduação do injusto, é mais reprovável o delito de furto cometido, como in casu, mediante escalada e durante o repouso noturno (ocasião em que o bem jurídico tutelado tem menor vigilância por parte do dono ou possuidor) do que cometido no período diurno. Desta forma, em uma análise em concreto acerca da compatibilidade dos institutos, a norma estabelecida no § 4º e a do § 1º do art. 155 do CP são compatíveis entre si. Precedentes.
+Recurso especial provido para reconhecer a incidência da causa de aumento do repouso noturno no crime de furto qualificado.
+(REsp n. 1.624.292/SC, Ministro Felix Fischer, Quinta Turma, DJe 28/4/2017 - grifo nosso).
+Dessa forma, como se vê, o Tribunal de origem, ao afastar a majorante do repouso noturno, sob a fundamentação de que não cabe a sua aplicação ao furto qualificado, contrariou a jurisprudência desta Corte Superior, merecendo reparos nesse ponto.
+No caso concreto, entretanto, a cassação do fundamento do acórdão recorrido não importa no reconhecimento da causa de aumento de pena do repouso noturno.
+Isso porque a configuração da causa de aumento de pena do repouso noturno deixou de ser analisada pelo Tribunal de origem ante a adoção de tese incompatível, qual seja a de que a referida causa de aumento de pena não pode ser aplicada ao furto qualificado, tese essa que, como dito acima, encontra-se em total divergência com o posicionamento desta Corte.
+Nesse contexto, devem os autos retornar à origem para que o Tribunal prossiga no julgamento da apelação, desta feita reconhecendo a possibilidade de aplicar a causa de aumento de pena do repouso noturno ao furto qualificado pela escalada.
+Por fim, encontra-se prejudicado o requerimento de execução provisória da pena, uma vez que o Tribunal de origem ainda vai analisar a incidência da causa de aumento de pena e, consequentemente, o afastamento da prescrição da pretensão punitiva.
+Ante o exposto, com fundamento no art. 255, § 4º, II e III, do RISTJ, dou parcial provimento ao recurso especial para determinar ao Tribunal de origem que prossiga no julgamento da apelação criminal e proceda à verificação da causa de aumento prevista no art. 155, § 1º, do Código Penal, nos termos da presente decisão, como entender de direito.
+Publique-se.
