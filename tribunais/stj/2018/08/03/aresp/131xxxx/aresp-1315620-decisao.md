@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por CENTRAL GASES LTDA. contra a decisão que inadmitiu o recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurgiu-se contra o acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"APELAÇÕES CÍVEIS. AÇÃO INDENIZATÓRIA. RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO. COLISÃO ENTRE VEÍCULOS QUE CULMINOU COM A MORTE DO MARIDO E GENITOR DOS AUTORES. SENTENÇA DE PARCIAL PROCEDÊNCIA. AUSÊNCIA DE CULPA OU CULPA CONCORRENTE. CRUZAMENTO DA VIA PREFERENCIAL SEM A DEVIDA ATENÇÃO E CUIDADO. IMPRUDÊNCIA CARACTERIZADA. DEVER DE INDENIZAR EVIDENTE. MAJORAÇÃO DOS DANOS MORAIS. DANOS MATERIAIS. POSSIBILIDADE DE DEDUZIR OS VALORES RECEBIDOS PELO SEGURO DPVAT. PENSÃO MENSAL DEVIDA. REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. IMPOSSIBILIDADE DE DIMINUIR A VERBA HONORÁRIA. RECURSOS DOS AUTORES E DOS RÉUS CONHECIDOS E PARCIALMENTE PROVIDOS.
+I - CULPA. É exclusiva a culpa do motorista que, ao tentar cruzar a rodovia, intercepta a trajetória de motorista que estava trafegando na via preferencial. Eventual excesso de velocidade não prepondera sobre a referida conduta.
+II - DANOS MORAIS. Ao fixar o dano moral, deve o julgador mensurar as particularidades de cada caso, sopesando a situação económica das partes, o grau de culpa do ofensor, a extensão do dano e a sua repercussão. Aliado a isso, deve arbitrar o valor que entender justo, adequado, razoável e proporcional. In casu, o quantum merece majoração.
+III -.SEGURO DPVAT. Os valores recebidos pelo seguro DPVAT podem ser deduzidos da indenização judicialmente fixada quando comprovado o seu recebimento pela instrução processual probatória. Ademais, o Superior Tribunal de Justiça entendeu que a cobertura do DPVAT abrange os danos de ordem psicológica.
+IV - CORREÇÃO MONETÁRIA E JUROS DE MORA. Na indenização por dano moral, a correção monetária incide a partir do arbitramento, enquanto os juros de mora desde o evento danoso. Súmulas 43, 54 e 362 do Superior Tribunal de Justiça.
+V - CUMULAÇÃO DA PENSÃO MENSAL CIVIL E PENSÃO PREVIDENCIÁRIA POR MORTE. Diante das naturezas e origens diversas dos benefícios previdenciários e das indenizações civis, podem ser estes cumulados.
+VI - PENSÃO MENSAL. Está sedimentado o entendimento de que, em caso de morte do marido e genitor dos Autores, é devida pensão no montante de 2/3 (dois terços) do valor percebido pela vítima à época, desde que devidamente comprovado, dividido entre a esposa e os filhos, aquela até a data em que o ofendido completaria 70 anos e estes até que atinjam 25 anos.
+VII - CONSTITUIÇÃO DE CAPITAL. Em ação de indenização, procedente o pedido, é necessária a constituição de capital ou caução fidejussória para a garantia de pagamento da pensão, independentemente da situação financeira do demandado (STJ, Súmula 313).
+VIII - ÔNUS DE SUCUMBÊNCIA. Se cada litigante for em parte vencedor e vencido, serão recíproca e proporcionalmente distribuídos e compensados entre eles os honorários e as despesas (CPC, art. 21).
+IX - VERBA HONORÁRIA. A fixação dos honorários de sucumbência nas sentenças com carga condenatória deverá obedecer aos preceitos insculpidos nas alíneas "a", "b" e "c" do § 3º do art. 20 do Código de Processo Civil, o que ocorreu in casu" (fls. 466/467, e-STJ).
+Os embargos de declaração opostos pelos recorridos, LUCIMAR FONTANA DOS SANTOS e OUTROS, foram rejeitados e os opostos pela recorrida, SUL AMÉRICA COMPANHIA NACIONAL DE SEGUROS, foram parcialmente providos pelo julgado que recebeu a seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. DEMANDA AJUIZADA POR FAMILIARES (MÃE E FILHOS) DE PESSOA FALECIDA EM ACIDENTE DE TRÂNSITO. RESPONSABILIDADE CIVIL RECONHECIDA. DENUNCIAÇÃO DA LIDE À SEGURADORA DO VEÍCULO. EMBARGOS INTERPOSTOS PELOS DEMANDANTES. OMISSÃO QUANTO AO TERMO INICIAL DA PENSÃO E À SUA FORMA DE ATUALIZAÇÃO. MONTANTE DEVIDO DESDE O FALECIMENTO DA VÍTIMA. INCIDÊNCIA SOBRE AS PARCELAS VENCIDAS DE JUROS DESDE O EVENTO DANOSO E DE CORREÇÃO MONETÁRIA A PARTIR DO VENCIMENTO DE CADA PRESTAÇÃO. EMBARGOS INTERPOSTOS PELA LITISDENUNCIADA. OMISSÃO QUANTO À SUA RESPONSABILIDADE PELO PENSIONAMENTO MENSAL. OBRIGAÇÃO ABRANGIDA PELA CATEGORIA "DANOS MATERIAIS". VALORES DAS COBERTURAS A SEREM CORRIGIDOS DESDE A DATA DA CONTRATAÇÃO. JUROS CONTADOS A PARTIR DA CITAÇÃO DA SEGURADORA" (fl. 521, e-STJ).
+No recurso especial, foi alegada, além de divergência jurisprudencial, violação do artigo 407 do Código Civil.
+A recorrente sustenta que a indenização por danos morais foi arbitrada pelas instâncias ordinárias em montante manifestamente exagerado, o qual deve ser reduzido para melhor atender às circunstâncias do caso.
+Além disso, afirma que os juros de mora são contados a partir da data do arbitramento da indenização.
+Após a apresentação das contrarrazões (fls. 659/663, e-STJ), o recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+Preliminarmente, importante consignar que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+No que tange à pretendida redução da indenização por danos morais, constata-se a deficiência na fundamentação recursal pela não indicação dos dispositivos legais que teriam sido violados, o que atrai a incidência da Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. PRESCRIÇÃO. NÃO OCORRÊNCIA. ARTIGO 200 DO CÓDIGO CIVIL. APLICABILIDADE. DANO MORAL. REDUÇÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7/STJ. PENSÃO MENSAL. PAGAMENTO EM PARCELA ÚNICA. AFASTAMENTO. DISPOSITIVO VIOLADO. NÃO INDICAÇÃO. DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO.
+(..)
+3. Considera-se deficiente de fundamentação o recurso especial que não indica os dispositivos legais supostamente violados pelo acórdão recorrido, circunstância que atrai a incidência, por analogia, do enunciado nº 284 da Súmula do Supremo Tribunal Federal.
+4. Agravo regimental não provido" (AgRg no AREsp 580.041/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 15/12/2015, DJe 3/2/2016- grifou-se).
+Em relação ao art. 407 do CC, o acórdão recorrido está em consonância com a jurisprudência desta Corte no sentido de que o termo inicial dos juros de mora é a data do evento danoso, em se tratando de responsabilidade extracontratual, como no caso dos autos, em que os familiares de vítima de acidente que veio a óbito buscam a reparação a título de danos morais.
+No mesmo sentido:
+"RECURSOS ESPECIAIS. DIREITO CIVIL E PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO CONFIGURAÇÃO. ART. 538 DO CPC/1973. AGRAVO DE INSTRUMENTO. MULTA. PRÉVIO RECOLHIMENTO. APELAÇÃO. CONHECIMENTO NÃO CONDICIONADO. ACIDENTE AUTOMOBILÍSTICO. ATROPELAMENTO. DANOS MATERIAIS, MORAIS E ESTÉTICOS. (..) JUROS DE MORA. TERMO INICIAL. SÚMULA Nº 54/STJ.
+1. Ação indenizatória por danos materiais, morais e estéticos suportados por vítima de atropelamento por veículo automotor resultante da ação culposa de seu condutor. Vítima que passou a se locomover com ajuda de aparelhos, sendo acometido de sequelas permanentes em membros superiores e inferiores esquerdos, além de lesão cerebral causadora de falta de atenção e desvio de personalidade.
+(..)
+12. O juros moratórios fluem a partir do evento danoso em caso de responsabilidade extracontratual (Súmula nº 54/STJ).
+13. Recursos especiais parcialmente providos"(REsp 1.591.178/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 25/4/2017, DJe 2/5/2017).
+"CIVIL E PROCESSO CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL.
+RESPONSABILIDADE CIVIL DECORRENTE DE ACIDENTE AUTOMOTIVO. DANOS MORAIS. TERMO INICIAL DOS JUROS MORATÓRIOS. SÚMULA N. 54/STJ. ALEGAÇÃO DE CULPA EXCLUSIVA DA VÍTIMA NO EVENTO DANOSO. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INVIABILIDADE NA INSTÂNCIA ESPECIAL. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. Nas hipóteses de responsabilidade civil extracontratual, incluídas as indenizações por danos morais, o termo inicial dos juros moratórios é a data do evento danoso. Súmula n. 54/STJ. Precedentes.
+2. A necessidade do reexame de matéria fático-probatória, para se aferir a alegação de culpa exclusiva da vítima no acidente automobilístico, obsta o julgamento do recurso na instância superior. Súmula n. 7/STJ.
+3. Agravo regimental a que se nega provimento"(AgRg no REsp 1.430.888/CE, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 5/8/2014, DJe 20/8/2014).
+Nesse contexto, incide a Súmula nº 568/STJ no ponto.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Considerada a sucumbência recíproca fixada na origem, deixo de majorar os honorários advocatícios, nos termos do artigo 85, § 11, do CPC/2015.
+Publique-se.
+Intimem-se.
