@@ -1,0 +1,26 @@
+EMENTA
+PENAL. HABEAS CORPUS. DOSIMETRIA. REDUÇÃO DE PENA. SUPRESSÃO DE INSTÂNCIA. RECURSO DE APELAÇÃO PENDENTE DE JULGAMENTO. HABEAS CORPUS NÃO CONHECIDO.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado por [NOME], em seu próprio favor, apontando-se como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro.
+Colhe-se da petição inicial que o impetrante/paciente foi condenado à pena de 12 anos de reclusão, em regime inicial fechado, pela prática do crime de extorsão mediante sequestro (CP, art. 159, caput).
+Nesta via, pretende a redução da reprimenda para o mínimo legal, qual seja, de 8 anos de reclusão.
+É o sucinto relatório.
+Decido.
+Perlustrando os autos, verifico a existência de recurso de apelação pendente de julgamento perante o Tribunal de Justiça do Rio de Janeiro (cf. fls. 104/180), ilustrando indevida supressão de instância no tocante à tese de redução de pena.
+Nesse diapasão, é hipótese de não conhecimento do presente habeas corpus, tendo em vista a impossibilidade de apreciação da matéria diretamente por esta Corte. Nesse sentido:
+HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. FURTO EM CONCURSO MATERIAL COM ROUBO SIMPLES TENTADO. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. MATÉRIA NÃO ANALISADA PELO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA. PLEITO DE RECONHECIMENTO DA CONFISSÃO ESPONTÂNEA. CONFISSÃO PARCIAL. POSSIBILIDADE. ENUNCIADO N. 545 DA SÚMULA DESTA CORTE. APONTADA EXISTÊNCIA DE CONTINUIDADE DELITIVA. FURTO E ROUBO. IMPOSSIBILIDADE. DELITOS DE ESPÉCIES DIVERSAS E DEFINIÇÕES AUTÔNOMAS. PRECEDENTES.
+REGIME INICIAL. PENA-BASE ACIMA DO MÍNIMO. PENA FINAL QUE PERMANECE EM PATAMAR SUPERIOR A 4 ANOS. MANUTENÇÃO DO REGIME INICIAL FECHADO. CONSTRANGIMENTO ILEGAL EVIDENCIADO NA DOSIMETRIA DA PENA. REDIMENSIONAMENTO PELO RECONHECIMENTO DA CONFISSÃO ESPONTÂNEA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+- O Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, não tem admitido a impetração de habeas corpus em substituição ao recurso próprio, prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do writ, visto permitir a concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+- O tema do apontado constrangimento ilegal pela aplicação da pena-base acima do mínimo legal não foi devidamente enfrentado pelas instâncias ordinárias, o que impede a atuação desta Corte, pela vedação de supressão de instância.
+- A jurisprudência do Superior Tribunal de Justiça se firmou no sentido de que, quando utilizada pelo juiz para fundamentar a condenação, incide a atenuante prevista no art. 65, inciso III, alínea "d", do Código Penal, ainda que a confissão tenha sido parcial, entendimento que resultou na edição do enunciado n. 545 da Súmula desta Corte.
+- No caso, o Tribunal a quo deixou de aplicar a referida atenuante pelo fato de o paciente ter assumido a prática de delitos de furto, deixando de reconhecer o emprego da violência inerente ao delito de roubo. Entretanto, nos termos da jurisprudência desta Corte, embora a simples subtração configure crime diverso - furto -, também constitui uma das elementares do delito de roubo - crime complexo, consubstanciado na prática de furto, associado à prática de constrangimento, ameaça ou violência, daí a configuração de hipótese de confissão parcial (HC 396.503/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 24/10/2017, DJe 06/11/2017), de forma que a pena deve ser reduzida, pela aplicação do benefício, na segunda fase da dosimetria.
+- Quanto ao alegado constrangimento ilegal pela aplicação ao caso do concurso material de crimes, em detrimento do crime continuado, deve-se ressaltar que o crime continuado é ficção jurídica aplicável quando o agente, mediante mais de uma ação ou omissão, comete mais de um crime da mesma espécie, em conexão de tempo, lugar, maneira de execução e outras características, nos termos do art. 71, caput, do Código Penal.
+- Entretanto, em caso como o dos autos, nos quais foram cometidos os delitos de roubo e de furto, a jurisprudência desta Corte firmou-se no sentido de que não há como se reconhecer a continuidade delitiva entre os referidos delitos, pois são infrações penais de espécies diferentes e que têm definição legal autônoma. Precedentes.
+- Permanecendo a pena final em patamar superior a 4 anos, ante a existência de circunstância judicial desfavorável, tanto que a pena-base foi aplicada acima do mínimo legal, deve ser mantido o regime inicial fechado, nos termos do disposto no art. 33, §§ 2º e 3º, do Código Penal.
+- Habeas corpus não conhecido. Ordem concedida de ofício para reduzir as penas aplicadas ao paciente para 4 anos, 5 meses e 10 dias de reclusão e 24 dias-multa, mantidos os demais termos da condenação.
+(HC 299.516/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 21/06/2018, DJe 29/06/2018)
+Diante do exposto, com fundamento no art. 34, XVIII, "a", e XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intime-se.
+Sem recurso, ao arquivo.
