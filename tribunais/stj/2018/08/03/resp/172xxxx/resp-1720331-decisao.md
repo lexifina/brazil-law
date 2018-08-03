@@ -1,0 +1,51 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial, interposto pela União, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ, fl. 1.315):
+ADMINISTRATIVO. SERVIDOR PÚBLICO MILITAR. AERONÁUTICA. ANISTIA POLÍTICA.
+PROMOÇÃO A SUBOFICIAIS. SOLUÇÃO DA CONTROVÉRSIA PELO STF. RE 165.438/DF.
+1. Os autores, militares da aeronáutica, foram anistiados, sendo-lhes reconhecidas as promoções à graduação de Segundo -Sargento com os proventos da graduação de Primeiro -Sargento e as respectivas vantagens.
+2. O art. 8º do ADCT da CR/88, regulamentado pela Lei 10.559/2002, assegurou ao anistiado, na inatividade, a promoção a que teria direito como se estivesse na ativa, observando-se o cargo, o emprego, posto ou graduação, desde que sejam respeitadas as características e peculiaridades das carreiras específicas e respectivos regimes jurídicos.
+3. O C. Supremo Tribunal Federal ampliou a interpretação anteriormente conferida ao disposto no artigo 8º do ADCT, possibilitando ao anistiado político, não só as promoções por antiguidade, bem assim as a que faria jus por merecimento se permanecesse ativo no serviço militar, independentemente da aprovação em cursos ou avaliação de merecimento (STF, Pleno, RE 165.348/DF, Rel. Min. limar Gaivão, DJ de 5/5/2006).
+4. O pedido de promoção ao posto de Subofical, com proventos de Segundo -Tenente, solicitado pelos autores, merece prosperar, porque a anistia política tem como finalidade restituir os direitos que o militar poderia ter alcançado caso tivesse permanecido na ativa.
+5. Custas pela União, em reembolso; honorários advocatícios fixados no valor de R$ 5.000,00 (cinco mil reais), com esteio no art. 20, § 4º, do CPC, tendo em vista estar a lide restrita à questão de direito.
+6. A prescrição alcança as parcelas devidas anteriormente ao quinquênio que antecedeu à propositura da ação.
+7. Apelação dos autores provida.
+Os embargos de declaração foram rejeitados nos termos do acórdão de e-STJ, fls. 1.334/1.337.
+Alega a recorrente violação do art. 535 do CPC/1973; 6º da Lei n. 10.559/2002; e 1º-F da Lei n. 9.494/1997, ao argumento de que o acórdão combatido não se manifestou acerca da "existência de prova nos autos de que algum cabo já tenha alcançado a graduação de Suboficial, isto é, a comprovação concreta de que a graduação de maior frequência, dentre os que permaneceram na ativa, era a de Suboficial, de modo a se concluir que essa é, de fato, a situação funcional dos militares paradigmas (art. 6º, § 4º, da Lei n. 10.529/2002)" (e-STJ, fl. 1.346).
+Sustenta que caberia ao demandante provar nos autos que aqueles que permaneceram na ativa alcançaram a patente de suboficial.
+Defende que deve ser observado o requisito da observância dos paradigmas para fins de promoção dos militares anistiados.
+Contrarrazões às e-STJ, fls. 341/352.
+O recurso especial foi admitido na origem por força da decisão de e-STJ, fl. 1.413 e 1.416.
+É o relatório.
+A controvérsia presente nos autos diz respeito à concessão de promoções até a graduação de suboficial, com os proventos da graduação de Segundo-Tenente em decorrência do reconhecimento da condição de anistiado político.
+O Juízo de primeiro grau julgou improcedente o pedido dos autores, ora recorridos, nos termos da sentença de e-STJ, fls. 1.234/1.240.
+O TRF da 1ª Região deu provimento à apelação dos autores para, no que ora interessa, "condenar a União a proceder à promoção dos autores ao posto de Suboficial, com proventos de Segundo - Tenente, a partir da inatividade, bem como a concessão de todos os efeitos financeiros inerentes ao posto" (e-STJ, fl. 1.312).
+Sob os seguintes fundamentos (e-STJ, fl. 1.312):
+Assim, as promoções, na reserva, devem se restringir ao respectivo quadro de carreira a que pertencia o militar anistiado.
+Portanto, haveria óbice às promoções dos autores se almejassem ultrapassar a carreira de praça, visando ao oficialato, entretanto, acertadamente, visaram à graduação de Suboficial, último nível da carreira de praça.
+Ademais, a própria Comissão de Anistia tinha entendimento que vai ao encontro do requerido pelos autores, pois concedeu a cabos anistiados, com mais de 30 anos de serviço, a reserva remunerada no posto de Suboficial, com vencimentos de Segundo-Tenente (Portaria Dirap nº 3448/3RC de 5/10/2004) assim, conforme a supracitada relação, os paradigmas, em situação análoga à dos autores, obtiveram, pela própria Comissão de Anistia, a graduação aqui requerida.
+A União opôs aclaratórios alegando omissão e contradição no acórdão recorrido quanto aos seguintes pontos: (i) para a concessão da promoção deve ser observada a evolução da carreira dos militares paradigmas; (ii) os paradigmas indicados pelos autores galgaram sua promoção por força de anistia política, não havendo demonstração de que os militares ativos chegaram ao posto de Suboficial, logo inservível para o atender o critério de equiparação; (iii) cabia aos autores indicar nos autos paradigmas que atendesse o requisito legal, pois é seu o ônus de comprovar fato constitutivo de seu direito; (iv) houve indevida inversão do ônus da prova quanto à situação dos paradigmas, o que ofende o disposto no art. 333, I, do CPC/1973.
+O Tribunal local negou provimento aos aclaratórios sem qualquer manifestação acerca dos pontos reputados omissos e contraditórios.
+Sem razão a recorrente, tendo em vista que o Tribunal de origem decidiu, fundamentadamente, a questão essencial à solução da controvérsia, consoante se observa no excerto do acórdão acima transcrito.
+Nos termos constantes do acórdão recorrido, verifica-se que a Corte local adotou como fundamento o fato de que a própria administração, por meio da Comissão da Anistia, possui entendimento que ampara o pretendido pelos autores ora recorridos, tendo concedido a militares em situação análoga a dos recorridos a graduação aqui requerida.
+Com isso, não há falar em ofensa ao art. 535, II, do CPC/1973, diante da expressa manifestação do Tribunal local, apenas não tendo sido adotada a tese defendida pela recorrente.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. ACIDENTE EM RODOVIA FEDERAL. ALEGADA OFENSA AO ART. 535 DO CPC/73. INEXISTÊNCIA. ALEGADA OFENSA AO ART. 884 DO CÓDIGO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. FALTA DE IMPUGNAÇÃO, NO RECURSO ESPECIAL, DE FUNDAMENTO DO ACÓRDÃO COMBATIDO, SUFICIENTE PARA A SUA MANUTENÇÃO. INCIDÊNCIA DA SÚMULA 283/STF. LEGITIMIDADE PASSIVA DO DNIT. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DESTA CORTE. COMPROVAÇÃO DO DANO E DO NEXO CAUSAL. REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO REGIMENTAL IMPROVIDO.
+I. Agravo Regimental interposto em 10/02/2016, contra decisão publicada em 02/02/2016, na vigência do CPC/73.
+II. Não há falar, na hipótese, em violação ao art. 535 do CPC/73, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que o voto condutor do acórdão recorrido apreciou fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+ ..
+VIII. Agravo Regimental improvido. (AgRg no AREsp 371.039/PE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 24/5/2016, DJe 2/6/2016)
+PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. TERMO INICIAL DOS JUROS DE MORA E CORREÇÃO MONETÁRIA. ART. 398 DO CC. SÚMULAS 43 E 54/STJ. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+ ..
+7. Agravo Regimental não provido. (AgRg no AREsp 601.266/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 17/5/2016, DJe 2/6/2016)
+ADMINISTRATIVO. PROCESSUAL CIVIL. INEXISTÊNCIA DE VIOLAÇÃO DOS ARTS. 458 E 535 DO CPC. AÇÃO DE REPRESENTAÇÃO DE INCONSTITUCIONALIDADE. LEI ESTADUAL EM FACE DA CONSTITUIÇÃO DO ESTADO. INÉPCIA DA INICIAL AFASTADA PELA CORTE DE ORIGEM. ANÁLISE DAS NORMAS LOCAIS E DA CONSTITUIÇÃO FEDERAL. IMPOSSIBILIDADE. SÚMULA 280/STF.
+1. Não configura ofensa aos arts. 458, II, e 535, II, do CPC/73 o acórdão proferido por Tribunal que decide, de forma fundamentada, a matéria de direito, valendo-se dos elementos que julga aplicáveis e suficientes para a solução da lide. Omissão não verificada, uma vez que a tese arguída foi devidamente enfrentada e rechaçada.
+2. Na verdade, no presente caso, a questão não foi decidida conforme objetivava o recorrente, uma vez que foi aplicado entendimento diverso ao pretendido, de modo que a irresignação traduz-se em inconformação com a tese adotada.
+3. Cuida-se, na origem, de ação de representação de inconstitucionalidade arguida em face da Lei Estadual 6.483/2013, em razão de suposto vício de iniciativa e violação de dispositivos da Constituição Estadual do Rio de Janeiro. Embora a agravante tenha alegado, nas razões do especial, ter ocorrido violação de matéria infraconstitucional (arts. 3º e 4º da Lei 9.868/1999), segundo se observa dos fundamentos que serviram de base para a Corte de origem apreciar a controvérsia acerca da suposta inconstitucionalidade da Lei Estadual, o tema foi dirimido no âmbito local (análise da referida Lei Estadual e da Constituição do Estado do Rio de Janeiro), de modo a afastar a competência desta Corte Superior de Justiça para o deslinde do desiderato contido no recurso especial.
+Incidência da Súmula 280/STF.
+Agravo interno improvido. (AgInt no AREsp 862.445/RJ, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 5/5/2016, DJe 12/5/2016)
+Dessa feita, fica prejudicada a análise da suposta ofensa ao art. 6º da Lei n. 10.559/2002.
+Por fim, no tocante à alegada violação do art. 1º F da Lei n. 9.494/1997, constata-se que a recorrente, apesar de invocar violação do referido artigo, não desenvolveu tese que fundamentasse a aventada ofensa, o que atraí o enunciado da Súmula 284/STF.
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015, c/c art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
