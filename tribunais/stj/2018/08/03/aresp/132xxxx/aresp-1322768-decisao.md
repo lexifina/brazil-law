@@ -1,0 +1,43 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE VIGÊNCIA AOS ARTS. 41 DO CPP E 10 DA LEI N.º 7.347/85. REJEIÇÃO DA DENÚNCIA. AUSÊNCIA DE JUSTA CAUSA. REEXAME FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal Regional Federal da 2ª Região, ementado verbis:
+"PROCESSUAL PENAL. REJEIÇÃO DA DENÚNCIA. AUSÊNCIA DE JUSTA CAUSA. ART. 10 DA LEI N.º 7.347/85.
+1. Considerando que os documentos requisitados pelo Ministério Público do Trabalho não se enquadram como "dados técnicos" para fins penais, e que não demonstrada a respectiva imprescindibilidade para eventual propositura de ação civil, nos termos do art. 10 da Lei nº 7.347/85, deve ser mantida a decisão que rejeitou a denúncia por ausência de justa causa (art. 395, III, do CPP).
+2. Recurso desprovido" (fls. 225).
+Em seu recurso especial, às fls. 228/238, sustenta o recorrente afronta aos artigos 41 do Código de Processo Penal e 10 da Lei n.º 7.347/85, alegando que "no presente caso, resta evidente, da leitura da denúncia, que existem claros indícios de autoria e materialidade delitivas em desfavor do acusado, não se podendo falar, assim, em ausência de justa causa para a ação penal".
+Afirma que tendo sido "demonstrados na denúncia suficientes indícios de autoria e a materialidade do delito, com preenchimento dos requisitos constantes do art. 41 do Código de Processo Penal, impõe-se o seu recebimento, mormente em face da prevalência, nessa fase processual, do princípio in dubio pro societate".
+O Tribunal de origem, entretanto, negou seguimento ao recurso, às fls. 256/257, sob os seguintes fundamentos:
+"Não deve ser admitido o recurso. Nada há no acórdão impugnado que contrarie, in abstracto, os dispositivos infraconstitucionais alegadamente violados.
+O resultado do julgamento baseia-se em determinadas premissas fáticas. Admitidos os fatos, as conclusões não destoam da lei, daí que não cabe recurso especial, pois a aferição da ofensa a texto de lei teria que reanalisar os fatos, e isto é incabível.
+A luz da súmula nº 7 do Superior Tribunal de Justiça, é vedado, em sede de recurso especial, o reexame do conjunto fático-probatório constante dos autos ("A pretensão de simples reexame de prova não enseja recurso especial"). Significa dizer que a premissa equivocada deve ser demonstrada com o corpo teórico constatado pelo acórdão atacado, à luz das premissas de fato por ele vislumbradas.
+In casu, da análise dos autos, verifica-se que o órgão julgador decidiu a controvérsia após análise dos fatos, sendo certo que, para se chegar à conclusão diversa, seria imprescindível reexaminar todo o conjunto fático-probatório dos autos, o que, como visto, é vedado.
+Portanto, o debate no especial encontra óbice na súmula n.º 7 do STJ. Não restou demonstrado, sem necessidade de exame dos fatos e provas, que o julgado contrariou os dispositivos legais citados.
+Do exposto, INADMITO o recurso".
+Em seu agravo, às fls. 261/268, assevera o recorrente que "a questão debatida é eminentemente jurídica, não dependendo de análise do conjunto fático probatório".
+O Ministério Público Federal manifestou-se às fls. 296/301 pelo provimento do agravo em recurso especial.
+É o relatório.
+A insurgência não merece prosperar.
+Consta dos autos que o Ministério Público Federal ofereceu denúncia em desfavor do agravado pela prática do delito previsto no artigo 10 da Lei n.º 7.347/85, porquanto este, na qualidade de responsável legal pelo Abrigo São José Bento Cottoleno, deixou de fornecer dados técnicos indispensáveis à instrução de Inquérito Civil Público instaurado pelo Ministério Público do Trabalho, mesmo após o recebimento de requisições enviadas pela instituição nos dias 01/04/2015, 11/06/2015 e 21/07/2015.
+O magistrado de primeiro grau, contudo, rejeitou a denúncia, por entender que não havia justa causa para o exercício da ação penal (fls. 180/181).
+A Corte de origem, soberana na análise das circunstâncias fáticas da causa, por sua vez, manteve a decisão de rejeição da denúncia, em razão da "ausência de justa causa para a ação penal, na medida em que além de os documentos requisitados não constituírem dados técnicos para efeitos da lei penal, também não há qualquer indicação de que tais documentos seriam indispensáveis à propositura de alguma ação civil, da qual também nem sequer foi indicado qual seria o objeto" (fl. 224).
+Neste contexto, entender de modo diverso, no sentido do que pleiteia o agravante, de que a inicial não seria inepta e de que haveria justa causa para a deflagração da ação penal, implicaria, inevitavelmente, incursão no bojo do arcabouço fático probatório, procedimento esse incabível nas vias excepcionais.
+É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático probatório a fim de analisar se existe ou não justa causa para o exercício da ação penal. Dessa forma, verifica-se não possuir esta senda eleita espaço para a análise da matéria suscitada pelo recorrente, cuja missão pacificadora restara exaurida pelas instâncias anteriores.
+De fato, para se chegar a conclusão diversa da que chegou o Tribunal de origem, seria inevitável o revolvimento do arcabouço carreado aos autos, procedimento sabidamente inviável na instância especial. Com efeito, não se mostra plausível nova análise do contexto probatório por parte desta Corte Superior, a qual não pode ser considerada uma terceira instância recursal.
+No mais, referida vedação encontra respaldo no enunciado nº 7 da Súmula desta Corte, verbis: "A pretensão de simples reexame de prova não enseja Recurso Especial". Confiram-se, nesse sentido, os precedentes da Corte:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESACATO. REJEIÇÃO. DENÚNCIA. FALTA DE JUSTA CAUSA PARA O RECEBIMENTO DA DENÚNCIA. REEXAME DE FATOS. SÚMULA 7/STJ.
+O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita. (Súmula 07/STJ).
+Agravo regimental desprovido".
+(AgRg no REsp 1610451/GO, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 05/06/2018, DJe 08/06/2018)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 2º, § 1º, DA LEI N. 8.176/91. TRANSPORTE SEM AUTORIZAÇÃO LEGAL DE MATÉRIA-PRIMA PERTENCENTE A UNIÃO. DENÚNCIA REJEITADA. AUSÊNCIA DE JUSTA CAUSA. EXISTÊNCIA DE INDÍCIOS DO ELEMENTO SUBJETIVO DO TIPO PENAL. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. In casu, o afastamento da rejeição da denúncia por ausência de justa causa (indícios mínimos de autoria) demandaria o reexame fático-probatório, providência vedada pelo enunciado n. 7 da Súmula do Superior Tribunal de Justiça - STJ, pois o Tribunal de origem apresentou fundamentação concreta para asseverar que inexistem indícios do elemento subjetivo do tipo penal.
+2. Agravo regimental desprovido".
+(AgRg no AREsp 568.031/RJ, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 21/11/2017, DJe 01/12/2017)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME DE TRÁFICO DE INFLUÊNCIA. DENÚNCIA REJEITADA POR AUSÊNCIA DE JUSTA CAUSA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES. AGRAVOS IMPROVIDOS.
+1. Ao realizar o juízo de admissibilidade da denúncia, compete ao julgador a apreciação do acervo probatório fornecido pelo inquérito policial, procedimento preliminar ou pelas peças de informação, a fim de verificar a existência de indícios de autoria e de prova da materialidade do crime, porquanto, caso contrário, não haverá justa causa para a ação penal.
+2. Hipótese em que o acórdão recorrido rejeitou a inicial acusatória por ausência de lastro probatório mínimo para a persecução penal, razão pela qual a reversão das premissas adotadas pelo acórdão demandaria a incursão no conjunto fático-probatório dos autos, inadmissível na via eleita, a teor do enunciado da Súmula 7/STJ. Precedentes.
+3. Agravos regimentais improvidos".
+(AgRg no REsp 1229786/MS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 01/03/2016, DJe 09/03/2016)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso II, alínea "a", do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intime-se.
