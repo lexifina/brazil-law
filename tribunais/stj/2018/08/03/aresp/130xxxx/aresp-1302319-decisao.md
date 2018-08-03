@@ -1,0 +1,50 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. ASSOCIAÇÃO AO TRÁFICO. OFENSA À COISA JULGADA. REEXAME FÁTICO E PROBATÓRIO. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME], contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte, ementado verbis (fl. 1286):
+"PROCESSUAL PENAL E PENAL. APELAÇÃO CRIMINAL. ASSOCIAÇÃO PARA O TRÁFICO (ART. 35 DA LEI 11.343/06). OBJEÇÃO DE COISA JULGADA. HIPÓTESE NÃO EVIDENCIADA. DEMANDAS COM FATOS DISTINTOS. REJEIÇÃO. MATERIALIDADE E AUTORIA CARACTERIZADAS. ACERVO PROBANTE INSTRUÍDO COM DEGRAVAÇÕES E DEPOIMENTOS TESTEMUNHAIS. IMPROCEDÊNCIA DO PLEITO ABSOLUTÓRIO. CONHECIMENTO E DESPROVIMENTO".
+Foram, então, opostos embargos de declaração, os quais foram rejeitados com a seguinte ementa (fl. 1310):
+"PROCESSUAL PENAL. EMBARGOS DECLARATÓRIOS EM APELO CRIMINAL. ASSOCIAÇÃO PARA O TRÁFICO (ART. 35 DA LEI 11.343/06). ALEGATIVA DE OMISSÃO. MERA TENTATIVA DE REDISCUTIR O MERITUM CAUSAE. IMPOSSIBILIDADE PELA VIA ELEITA. PRECEDENTES DESTA CORTE E DO STJ. CONHECIMENTO E REJEIÇÃO".
+Em seu recurso especial, às fls. 1318/1330, sustentou o recorrente afronta aos artigos 337, inciso VII, § 1º e § 4º, e 505, todos do novo Código de Processo Civil, sob o argumento de que o acusado "foi julgado em duas ações penais distintas em razão da suposta prática do mesmo fato tido como delituoso" (fl. 1320).
+Destacou que "o ordenamento jurídico brasileiro veda a condenação da mesma pessoa, em relação a fato criminoso idêntico, em dois ou mais processos, coincidindo-se as partes, a causa de pedir e o pedido, sob pena de bis in idem. Na espécie, encontra-se configurada a identidade de partes (Ministério Público como sujeito ativo e o Sr. [NOME] como sujeito passivo) e de pedido (condenação em razão da prisão em flagrante efetuada em 05/08/2014)" (fl. 1321).
+Desse modo, requereu "à anulação da sentença condenatória proferida em Primeira Instância e chancelada pelo Tribunal a quo por ofensa à coisa julgada, vez que o Sr. [NOME] CEZAR [NOME] DA [NOME] já foi condenado pelo flagrante ocorrido em 05/08/2014 nos autos da ação penal nº 0101764-93.2014.8.20.0130, o que configura violação ao princípio ne bis in idem" (fl. 1330).
+O Tribunal de origem, entretanto, negou seguimento ao recurso, às fls. 1340/1342, ante a incidência da Súmula nº 7 do Superior Tribunal de Justiça.
+Em seu agravo, às fls. 1344/1353, assevera o recorrente que não há que se falar na aplicação da Súmula nº 7 do Superior Tribunal de Justiça, pois "há casos particulares em que é possível a revaloração da prova ou de dados explicitamente admitidos e delineados na decisão, da qual se recorre, que não correspondem ao reexame de fatos e provas, proibido pela mencionada súmula" (fl. 1348).
+O Ministério Público Federal manifestou-se às fls. 1378/1383, pelo não provimento do agravo em recurso especial, verbis (fl. 1378):
+
+"AGRAVO EM RECURSO ESPECIAL. ASSOCIAÇÃO PARA O TRÁFICO. ALEGAÇÃO DE VIOLAÇÃO AO ART. 337, VII, §§ 2º E 4º, E ART. 505 DO CÓDIGO DE PROCESSO CIVIL. OFENSA À COISA JULGADA. PLEITO DE ANULAÇÃO DA SENTENÇA CONDENATÓRIA. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. ÓBICE DA SÚM. 7/STJ. BIS IN IDEM. NÃO OCORRÊNCIA. CONHECIMENTO DO AGRAVO PARA NEGAR SEGUIMENTO AO RECURSO ESPECIAL.
+- A desconstituição do entendimento firmado pelo Tribunal de piso diante de suposta contrariedade a lei federal, buscando a anulação da sentença condenatória, sob a alegação de bis in idem na condenação e ofensa à coisa julgada, não encontra campo na via eleita, dada à necessidade de revolvimento do material probante, procedimento de análise exclusivo das instâncias ordinárias - soberanas no exame do conjunto fático-probatório -, e vedado ao STJ ao teor de sua Súmula 7.
+- Parecer pelo conhecimento do agravo para negar seguimento ao recurso especial".
+É o relatório.
+A insurgência não merece prosperar.
+No que tange à aventada afronta aos artigos 337, inciso VII, § 1º e § 4º, e 505, todos do novo Código de Processo Civil, sob o pleito de anulação da sentença por ofensa à coisa julgada, verifica-se que o Tribunal de origem, soberano na análise das circunstâncias fáticas da causa, afastou a objeção de coisa julgada, por entender que (fls. 1287/1288):
+"08. Quanto à primeira insurgência, é curial esclarecer que na Ação Penal 0101764-91.2014.8.20.0103, o ora Acusado foi preso e denunciado pelo tipo do art. 33 da Lei Antidrogas, não se tendo conhecimento até aquela oportunidade da sua militância em grupo de narcotraficantes.
+09. Tal participação, frise-se, só veio a lume após a interceptação telefônica dos envolvidos, onde se constatou ser o Recorrente um dos líderes da aludida associação e, assim, passível de ser apenado na forma do art. 35 da Lei 11.343/06.
+10. Diante desse contexto, é manifestamente improcedente a objeção de coisa julgada".
+Nesse contexto, verifica-se não possuir esta senda eleita espaço para a análise da matéria suscitada pelo recorrente, cuja missão pacificadora restara exaurida pelas instâncias anteriores.
+De fato, para se chegar a conclusão diversa da que chegou o Tribunal de origem, seria inevitável o revolvimento do arcabouço carreado aos autos, procedimento sabidamente inviável na instância especial.
+Com efeito, não se mostra plausível nova análise do contexto probatório por parte desta Corte Superior, a qual não pode ser considerada uma terceira instância recursal.
+Desse modo, não é possível, em sede de recurso especial, acolher a pretensão do recorrente, pois demandaria reexame de fatos e provas, o que é vedado nos termos da Súmula nº 7 do Superior Tribunal de Justiça: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Nesse sentido, confiram-se os seguintes precedentes:
+"PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. UNIRRECORRIBILIDADE. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. AÇÕES PENAIS INSTAURADAS EM DIFERENTES ESTADOS. ILÍCITOS PENAIS DISTINTOS. REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. PREVENÇÃO E COMPETÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E N. 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte possui entendimento pacífico no sentido de que a interposição de vários recursos pela mesma parte contra a mesma decisão inviabiliza o exame daqueles que tenham sido protocolizados por último, em razão da ocorrência de preclusão consumativa e ante a aplicação do princípio da unirrecorribilidade das decisões.
+2. O artigo apontado por violado refere-se à oposição de exceção de coisa julgada (art. 95, V, do CPP), e o que se argui nas razões recursais é a possibilidade de extensão das hipóteses de cabimento do RESE, o que gera deficiência na fundamentação e incidência da Súmula n. 284 do STF.
+3. O Tribunal chegou à conclusão de que, embora as Ações Penais instauradas nas Justiças Federais do Rio de Janeiro e de Curitiba tenham a mesma origem administrativa, abrangem ilícitos penais distintos. Modificar as conclusões do Tribunal Regional nesse sentido, implicaria em revolvimento de fatos e provas, o que encontra impeço nesta Corte pelo óbice da Súmula n. 7 do STJ.
+4. O pedido subsidiário relativo à competência/prevenção não foi solvido pela Corte originária, razão pela qual incide os enunciados n. 282 e n. 356 da Súmula do STF.
+5. Agravo regimental desprovido".
+(AgRg nos EDcl no REsp 1390325/PR, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/02/2018, DJe 02/03/2018).
+"EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL E PREVIDENCIÁRIO. INCORPORAÇÃO DOS EXPURGOS INFLACIONÁRIOS NAS RENDAS MENSAIS DOS BENEFÍCIOS. ERRO MATERIAL. DESCONFORMIDADE COM O TÍTULO EXECUTIVO. OFENSA À COISA JULGADA. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. A Corte regional, ao analisar a decisão proferida no processo de conhecimento, concluiu que houve erro material na aplicação dos expurgos inflacionários na revisão da renda mensal. Dessa forma, a inversão do julgado, de molde a verificar a ocorrência de coisa julgada ou o seu afastamento por ocorrência de erro material, necessitaria o reexame do conjunto probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+2. Embargos de declaração acolhidos sem efeitos modificativos".
+(EDcl no AgRg no REsp 1128301/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 08/09/2015, DJe 14/09/2015).
+"AGRAVO REGIMENTAL. RECURSO ESPECIAL. RECONHECIMENTO DE COISA JULGADA. REEXAME. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. PRECEDENTES. RECURSO NÃO PROVIDO.
+1. O afastamento da coisa julgada, na espécie, requer o revolvimento de fatos e provas, motivo pelo qual incide a Súmula n. 7/STJ.
+2. Agravo regimental a que se nega provimento".
+(AgRg no REsp 1182390/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 09/09/2014, DJe 16/09/2014).
+"AGRAVO REGIMENTAL. PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. EMBARGOS À EXECUÇÃO. REAJUSTE DE 28,86%. COMPENSAÇÃO COM PARCELAS PAGAS ADMINISTRATIVAMENTE. VIOLAÇÃO DA COISA JULGADA. REVOLVIMENTO DO ACERVO FÁTICO PROBATÓRIO. ÓBICE DA SÚMULA 7/STJ. PRECEDENTES.
+1. Inexiste negativa de prestação jurisdicional quando a matéria é devidamente enfrentada pelo Colegiado de origem, que sobre ela emite pronunciamento de forma fundamentada.
+2. A pretensão de que seja apreciada a correção dos cálculos apresentados, bem como a alegada afronta à coisa julgada, demandaria o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+3. Agravo regimental improvido".
+(AgRg no REsp 951.637/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 05/11/2013, DJe 20/11/2013).
+Ante o exposto, com fundamento no artigo 253, inciso II, alínea "a", do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
