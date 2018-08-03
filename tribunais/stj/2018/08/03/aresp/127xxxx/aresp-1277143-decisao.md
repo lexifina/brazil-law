@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÃO CÍVEL. MEDIDA CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. EXAURIMENTO DAS VIAS ADMINISTRATIVAS. NÃO COMPROVAÇÃO. RECENTE JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. INTERESSE PROCESSUAL. AUSÊNCIA. PROCESSO EXTINTO. SENTENÇA MANTIDA. I- O Superior Tribunal de Justiça, ao julgar o Recurso Especial nº 1.349.453/MS, sob a sistemática dos recursos repetitivos, consolidou o entendimento de que o ajuizamento da ação cautelar de exibição de documentos tem como pressuposto a demonstração de relação jurídica entre as partes, a comprovação de prévio pedido administrativo não acatado em prazo razoável e, ainda, quando exigido, o pagamento das despesas inerentes aos custos dos serviços. II- Ausentes os requisitos que justifiquem o interesse de agir na ação cautelar de exibição de documentos, aludidos na inovação trazida pelo Superior Tribunal de Justiça, o processo deve ser extinto sem a resolução do mérito, nos termos do art. 267, VI, do CPC/1973 (art. 485, VI do CPC/2015). III- Recurso conhecido e não provido" (fl. 135 e-STJ).
+No recurso especial, foi alegada violação do artigo 6º, inciso III, do Código de Defesa do Consumidor, para sustentar a tese de cabimento da ação cautelar de exibição de documentos como forma de obter a sua via do contrato de financiamento.
+Após a apresentação das contrarrazões (fls. 163/175 e-STJ), o recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+Preliminarmente, importante consignar que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O Tribunal de origem adotou como um dos fundamentos para embasar sua conclusão acerca da falta de interesse o seguinte:
+"Com a inicial, o apelante juntou aos autos uma notificação endereçada à instituição financeira apelada em 20.10.2015, na qual pede o envio da cópia do contrato ao endereço de seu advogado (doc. de ordem nº 06). Também juntou um aviso de recebimento dos Correios, destinado ao endereço da requerida, recebido em 03.11.2015, no qual há indicação de conteúdo, qual seja, "Solicitação beneficiário código 2015510 (doc. de ordem nº 02).
+A presente ação foi ajuizada em 16.02.2016.
+Contudo, não há nos autos do interesse de agir do apelante.
+A notificação em questão não pode ser tida como válida, eis que não acompanhada de procuração outorgada pelo apelante ao escritório Saliba & Saliba, cujo endereço constou no aviso de correspondência.
+Como a instituição financeira é obrigada a guardar sigilo dos dados do cliente, não era obrigada a encaminhar cópia de contrato para endereço diverso da residência do contratado, sem autorização expressa para tanto.
+Nessa hipótese, para a validade da notificação, eis que se trata de pedido de remessa de documento para endereço diverso daquele do domicílio do consumidor nele interessado, seria necessária a anexação da procuração, para demonstrar que o apelante outorgou poderes específicos para seu advogado pleitear o documento pretendido em nome dele, além da indicação do nome do profissional e da assinatura dele na carta remetida à requerida/apelada, com cópia dos documentos de RG e de comprovante de endereço.
+Isso porque a apelada não está obrigada a apresentar um documento sigiloso a advogado que, repita-se, não apresentou a procuração da parte contratante.
+Destarte, ausente prova de autorização do apelante para que a apelada enviasse a terceiros a cópia de seu contrato, é certo que o atendimento da solicitação implicaria em quebra de sigilo de dados.
+Registro que, nos termos do art. 5º, inciso XII, da CR/88, é assegurado o direito à preservação do sigilo de dados" (fls. 147/148 e-STJ).
+Por sua vez, o recorrente limitou-se a aduzir que
+"(..) o simples fato de o endereço de retorno do AR ser o endereço do escritório, não descaracteriza em nenhuma hipótese a solicitação administrativa de exibição do contrato pleiteado, assim caracterizando um pedido administrativo, e também agindo de boa fé, pois é notória a procura por um advogado para resolução de conflitos, mesmo que estes sejam a simples exibição de um contrato, QUE POR SUA VEZ JÁ DEVIA TER SIDO ENTREGUE CÓPIA NO MOMENTO DA ASSINATURA DO MESMO" (fl. 158 e-STJ).
+Observa-se que o fundamento do acórdão recorrido acima destacado não foi devidamente impugnado, haja vista que no único parágrafo que tratou do assunto o recorrente não apresentou nenhum dispositivo de lei que tivesse sido eventualmente violado e sequer foi demonstrada divergência jurisprudencial especificamente sobre esse aspecto.
+Esclareça-se, desde já, que não se vislumbra como o artigo 6º, inciso III, do Código de Defesa do Consumidor, no qual se embasou o recurso especial, até na mais ampliada interpretação possível, albergaria a tese genérica voltada contra o fundamento transcrito.
+Nesse contexto, considera-se deficientemente fundamentado o recurso, incidindo, com propriedade, o óbice da Súmula nº 283/STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de tratar da majoração dos honorários sucumbenciais determinada pelo artigo 85, § 11, do Código de Processo Civil de 2015, considerando que não houve condenação na origem a esse título.
+Publique-se.
+Intimem-se.
