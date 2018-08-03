@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo manejado pela União contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. ):
+APELAÇÃO CÍVEL. REEXAME NECESSÁRIO. ADMINISTRATIVO. PRESCRIÇÃO. DOMÍNIO PÚBLICO. TERRENO DE MARINHA. EXIGÊNCIA DE NOTIFICAÇÃO PESSOAL. RECURSO NÃO PROVIDO.
+1. Apelação e reexame necessário em face de sentença que, em autos de ação anulatória, invalidou processo administrativo, com relação aos demandantes; anulou as averbações já realizadas pelo cartório de Registros de Imóveis na matrícula do imóvel atingido pela demarcação cujos efeitos se invalidam; anulou a inscrição em dívida ativa de todos os débitos relativos ao não pagamento de foro, laudêmio e taxas de ocupação cobrados em razão da demarcação do terreno de marinha nos autos do processo administrativo.
+2. A falta de informações, nos registros públicos, de que a área seria caracterizada como terreno de marinha quando da aquisição do imóvel, tem como efeito que, somente a partir da notificação para o pagamento da taxa de ocupação, pode-se começar a contar o prazo para impugnar o débito lançado e a relação jurídica que o respalda. Precedentes do TRF2: 6" Turma Especializada, ApelReex 201050010053944, Rel. Des. Fed. [NOME], E-DJF2R 26.2.2014; 5" Turma Especializada, ApelReex 201150010126654, Rel. Des. Fed. ALUISIO GONÇALVES DE CASTRO MENDES, E-DJF2R 5.2.2014.
+3. A convocação dos interessados certos para se manifestarem acerca da demarcação da Linha Preamar feita por editais, de forma genérica, fere o princípio constitucional do devido processo legal, uma vez que não assegura o direito ao contraditório e à ampla defesa. Precedente: STF, ADI 4.264, Rel. Min.
+RICARDO LEWANDOWSKI, ale 30.5.2011.
+4. Não há relação jurídica entre as partes que legitime a cobrança de importâncias decorrentes da ocupação de bens públicos enquanto não for procedida a devida averbação da propriedade da União junto ao RGI.
+Precedente: TRF2, 6" Turma Especializada, AC 201350010100376, Rel. Des. Fed. GUILHERME CALMON NOGUEIRA DA GAMA, E-DJF2R 1.6.2016.
+5. Quanto à alegada necessidade de comprovação de prejuízo para a declaração de nulidade do procedimento de demarcação da LPM, verifica-se que tais alegações tratam-se de inovação em grau recursal, estranhas à matéria delimitada em sede de contestação.
+6. Recurso e remessa necessária não providos.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 11 do Decreto-Lei nº 9.760/46. Sustenta que a intimação pessoal só é obrigatória para procedimentos de demarcação ocorridos a partir de 16/3/2011, data em que o STF suspendeu a eficácia, com efeito ex nunc, do art. 1º da Lei nº 11.481/2007.
+É o relatório.
+Como destacado pela Corte de origem e pela própria parte agravante nas razões recursais, o procedimento de demarcação ora discutido foi realizado e concluído ainda sob a vigência da redação original do art. 11 do Decreto-Lei nº 9.760/46, isto é, antes da alteração realizada pela Lei nº 11.481/2007.
+Nesse contexto, é irrelevante a discussão acerca dos efeitos da ADI 4.264 MC no presente caso, uma vez que a ADI em questão versou sobre procedimentos que ocorreram após a referida mudança legislativa. Por essa razão, para solucionar a presente demanda, deve ser aplicado o entendimento do STJ relativo aos procedimentos que ocorreram sob o auspício da redação original do art. 11 do Decreto-Lei nº 9.760/46.
+Nessa toada, verifica-se que esta Corte possui entendimento pacífico no sentido de que, para os procedimentos de demarcação que ocorreram anteriormente à vigência da Lei nº 11.481/2007, a intimação pessoal é medida imprescindível, sob pena de nulidade.
+Veja-se, aliás, casos em que o STJ, face a casos análogos e à mesma tese ora arguida pela União, apresentou resposta semelhante:
+ADMINISTRATIVO. AGRAVO INTERNO SUBMETIDO AO ENUNCIADO ADMINISTRATIVO 3/STJ. TERRENO DA MARINHA. PROCEDIMENTO DEMARCATÓRIO REALIZADO NOS ANOS 1960. PROPRIETÁRIO CERTO E IDENTIFICADO. NOTIFICAÇÃO PESSOAL.
+1. A jurisprudência desta Corte Superior é no sentido de que, identificados os interessados no procedimento de demarcação dos terrenos de marinha, cabia à Administração Pública intimá-los pessoalmente a fim de oportunizar-lhes a defesa de seu título, o que eiva de nulidade o ato administrativo pertinente.
+2. O procedimento demarcatório discutido nos autos foi realizado ao tempo da redação original do art. 11 do Decreto-lei 11.960/1946, por isso desinfluente no caso concreto a orientação adotada pelo Supremo Tribunal Federal no julgamento da medida cautelar na ADI 4.264/PE.
+3. A alegação de que a exigência de intimação pessoal só pode ser exigida relativamente aos procedimentos demarcatórios iniciados sob a atual ordem constitucional, que assegurou o contraditório e ampla defesa na esfera administrativa constitui indevida inovação recursal.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.074.139/ES, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 17/8/2017, DJe 23/8/2017)
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. TERRENO DE MARINHA. DOTE DA PRINCESA DONA FRANCISCA. DATA DE CONHECIMENTO DA INSCRIÇÃO DO IMÓVEL COMO TERRENO DE MARINHA NO SPU. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283 DO STF. DEMARCAÇÃO. NECESSIDADE DE PRÉVIO E REGULAR PROCEDIMENTO ADMINISTRATIVO. INTIMAÇÃO PESSOAL DOS INTERESSADOS IDENTIFICADOS. ART. 11 DO DL 9.760/1946. REDAÇÃO ANTERIOR À ALTERAÇÃO PROMOVIDA LEI 11.481/2007. INAPLICABILIDADE DA ADI 4.264/PE. AGRAVO INTERNO DA UNIÃO DESPROVIDO.
+1.  ..
+2. Constata-se que a homologação do processo demarcatório ocorreu em 1990 (fls. 295), portanto, todo o procedimento administrativo de demarcação transcorreu na vigência da redação original do art. 11 do DL 9.760/1946, anteriormente à modificação ocorrida pela Lei 11.481/2007, objeto da ADI 4.264/PE.
+3. Mantém-se, portanto, a aplicação do entendimento exposto na decisão agravada, que está em consonância com a redação original do art. 11 do DL 9.760/1946 e com a jurisprudência desta Corte Superior, a qual determina que os interessados certos e identificados devem ser notificados pessoalmente para participarem do processo de demarcação, sob pena de nulidade.
+4. Agravo Interno da UNIÃO desprovido.
+(AgInt nos EDcl no REsp 1.314.931/SC, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 20/6/2017, DJe 28/6/2017)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. RECURSO ESPECIAL PARCIALMENTE PROVIDO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. TAXA DE OCUPAÇÃO RESULTANTE DA DEMARCAÇÃO DE TERRENO DE MARINHA. PROCESSO ADMINISTRATIVO DEMARCATÓRIO. AUSÊNCIA DE INTIMAÇÃO PESSOAL DOS INTERESSADOS IDENTIFICADOS E COM DOMICÍLIO CERTO. ART. 11 DO DECRETO-LEI N.
+9.760/46 (REDAÇÃO ANTERIOR À LEI N. 11.481/07). NULIDADE.
+I -  ..
+II - Conforme jurisprudência consolidada do STJ, nos procedimentos demarcatórios de terreno de marinha promovidos sob a égide da redação original do art. 11 do Decreto Lei n. 9.760/46, os interessados identificados e com domicílio certo devem ser notificados pessoalmente, por força de garantia do contraditório e da ampla defesa.
+III - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+IV - Agravo Interno improvido.
+(AgInt no REsp 1.563.503/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 23/5/2017, DJe 29/5/2017)
+Ante o exposto, nego provimento ao agravo.
+Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 10% (dez por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC/2015).
+Publique-se.
