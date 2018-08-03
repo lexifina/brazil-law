@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do NCPC), interposto por GUERTON SCHELL BENCK EIRELI - ME, contra decisão que não admitiu recurso especial (fl. 638/647, e-STJ).
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 411, e-STJ):
+APELAÇÃO CÍVEL E RECURSO ADESIVO.
+PROPRIEDADE INDUSTRIAL E INTELECTUAL.
+ECAD. ACADEMIA DE GINÁSTICA. PRESCRIÇÃO TRIENAL. COBRANÇA DEVIDA. SENTENÇA REFORMADA.
+Apelo provido; prejudicado o recurso adesivo.
+Opostos embargos de declaração, foram rejeitados.
+Em suas razões de recurso especial (fls. 605/616, e-STJ), a recorrente aponta ofensa aos artigos 97 do CTN; e 86 da Lei 9.610/98.
+Sustenta, em síntese, que "o montante apontado como devido foi estipulado livremente pelo ECAD, sem especificar de que forma realizou o cálculo até chegar ao montante e quais os parâmetros utilizados, sequer apresentou memória de cálculo, violando assim o princípio da legalidade".
+Afirma que "os direitos autorais são devidamente pagos pela prestadora de serviço de TV de modo que descabe ao ECAD arrecadar de ambos, sob pena de cobrança dúplice por um mesmo fato gerador, é dizer, bitributação".
+Contrarrazões (fls. 626/636, e-STJ).
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, sob o fundamento de incidência da Súmula 211/STJ.
+Daí o presente agravo (art. 1042 do NCPC), buscando destrancar o processamento daquela insurgência.
+Contraminuta às fls. 660/669 (e-STJ).
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Inicialmente, cabe ressaltar, para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+Com efeito, o conteúdo normativo inserto nos artigos 97 do CTN; e 86 da Lei 9.610/98, não foi objeto de exame pelo acórdão recorrido, razão pela qual, incide, na espécie, o óbice inscrito na Súmula 211/STJ, ante a ausência de prequestionamento.
+Tampouco cabe falar em prequestionamento ficto face ao art. 1025 do NCPC.
+Nos termos da jurisprudência desta Casa, para se possibilitar a sua incidência, cabe a parte alegar, quando de suas razões do recurso especial, a necessária ofensa ao art. 1022 do NCPC de modo a permitir sanar eventual omissão através de novo julgamento dos aclaratórios, caso existente, o que não foi feito no presente feito.
+Tal como dito, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+Sobre o tema:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ALEGADA ILIQUIDEZ DO TÍTULO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282/STF E 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. PRECEDENTE. RECURSO NÃO PROVIDO. 1. A matéria referente aos arts. 783 e 803, do CPC de 2015 não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ). 2. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento. 3. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017). 4. Agravo interno a que se nega provimento. (AgInt no AREsp 1098633/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/09/2017, DJe 15/09/2017)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA CUMULADA COM NULIDADE DE ATO JURÍDICO E COBRANÇA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356/STF. REVISÃO DO JULGADO. INVIABILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. É inadmissível o recurso especial quanto à questão que não foi apreciada pelo Tribunal de origem. Incidência das Súmulas n. 282 e 356/STF.
+ ..
+(AgRg no AREsp 748.084/GO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/11/2015, DJe 27/11/2015);
+2. Do exposto, com amparo no artigo 932 do NCPC c/c a Súmula 568/STJ, nego provimento ao recurso, majorando os honorários sucumbenciais, com base no art. 85, § 11, do NCPC, em 1% (um por cento) sobre o valor da condenação, a ser suportado exclusivamente pela parte recorrente (Enunciado Administrativo n. 7/STJ), observado o disposto no art. 98, § 3º, do NCPC .
+Publique-se.
+Intimem-se.
