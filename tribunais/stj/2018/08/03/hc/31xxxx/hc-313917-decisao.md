@@ -1,0 +1,34 @@
+EMENTA
+HABEAS CORPUS. CRIME DESCRITO NO ART. 33, CAPUT, DA LEI N. 11.343/2006. AUSÊNCIA DE INTIMAÇÃO PESSOAL DO DEFENSOR DATIVO. PROFISSIONAL QUE ASSINOU TERMO DE COMPROMISSO CONCORDANDO COM A INTIMAÇÃO PELA IMPRENSA OFICIAL. ILEGALIDADE MANIFESTA AUSENTE.
+1. Conquanto a intimação pessoal do defensor dativo seja a regra, in casu, ao assinar o Termo de Compromisso, o profissional concordou expressamente com a realização da intimação pela imprensa oficial. Desse modo, a defesa não pode, agora, arguir nulidade do ato processual, em observância ao disposto no art. 565 do Código de Processo Penal.
+2. Ordem denegada.
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], em que se aponta como órgão coator o Tribunal de Justiça de São Paulo (Apelação n. 0001722-88.2012.8.26.0280 - fls. 38/53).
+Consta que o Tribunal a quo, no julgamento de recurso de apelação da defesa, por unanimidade, manteve a condenação de primeiro grau (Processo n. 0001722-88.2012.8.26.0280 (Controle n. 377/2012) - fls. 16/19), que impôs ao paciente a pena de 6 anos e 8 meses de reclusão, em regime inicial fechado, mais pagamento de 666 dias-multa, em razão da prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, em acórdão assim ementado (Apelação n. 0001722-88.2012.8.26.0280 - fl. 40):
+TRÁFICO DE DROGAS - INSUFICIÊNCIA PROBATÓRIA - ABSOLVIÇÃO - INADMISSIBILIDADE - MATERIALIDADE E AUTORIA COMPROVADAS - PALAVRAS DOS POLICIAIS - VALIDADE - DECLARAÇÕES SEGURAS E COERENTES - CORROBORAÇÃO POR DEMAIS ELEMENTOS CARREADOS AOS AUTOS - QUANTIDADE, DIVERSIDADE E NATUREZA DOS ENTORPECENTES E CIRCUNSTÂNCIAS DA APREENSÃO QUE JUSTIFICAM O RECONHECIMENTO DO NARCOTRÁFICO CONDENAÇÃO MANTIDA - RECURSO NÃO PROVIDO.
+
+O impetrante argui, em suma, nulidade do processo, aduzindo que o defensor dativo do paciente não foi intimado pessoalmente da data designada para a sessão de julgamento do apelo defensivo.
+Ressalta, ademais, ser de rigor  ..  o retorno dos autos à segunda instância, para renovação do julgamento recursal, com atendimento das formalidades legais já apontadas, bem como o desentranhamento do v. acórdão nulo dos autos do processo (fl. 10).
+Requer, liminarmente e no mérito,  ..  a soltura imediata do paciente, visto que, com o trânsito em julgado do acórdão, está cumprindo pena decorrente de decisão condenatória eivada de nulidade (fl. 10).
+Liminar indeferida pela Vice-Presidente no exercício da Presidência, Ministra Laurita Vaz (fls. 60/61).
+O Presidente da Seção de Direito Criminal do Tribunal de Justiça de São Paulo prestou estas informações (fls. 73/74 - grifo nosso):
+ ..
+Nos autos da Ação Penal n. 0001722-88.2012.8.26.0280, Controle n. 377/2012, da Vara Única do Foro Distrital de Itariri, Comarca de Itanhaém, o ora paciente foi condenado como incurso no art. 33, caput, da Lei n. 11.343/06, às penas de 06 anos e 08 meses de reclusão, em regime inicial fechado, e 666 dias-multa, vedado o direito de recorrer em liberdade.
+Contra o édito condenatório insurgiu-se o Defensor Dativo nomeado para atuar no feito, Dr. [NOME], que assinou termo de compromisso manifestando concordância em ser intimado pela imprensa oficial dos atos e termos do processo até o trânsito em julgado.
+Intimado o Defensor Dativo da pauta da sessão de julgamento do reclamo por publicação no Diário da Justiça Eletrônico em 05 de maio de 2014, a Sexta Câmara de Direito Criminal, em sessão de julgamento realizada aos 08 de maio de 2014, por votação unânime, negou provimento ao recurso.
+O acórdão transitou em julgado para o Ministério Público aos 10 de junho de 2014 e os autos foram remetidos à Vara de origem, onde, após intimado pessoalmente o Defensor Dativo, ocorreu o trânsito em julgado aos 05 de agosto subsequente.
+Informo, ainda, que, buscando a desconstituição desse decisum, o paciente ingressou nesta Casa com pedido revisional, que foi autuado como expediente preparatório sob o número 0054912-59.2014.8.26.0000 e remetido à Vara de origem para apensamento dos autos da ação penal e oferecimento das razões, se o caso, nos termos do art. 3º, § 1º, da Portaria n. 7.622/08 da Seção Criminal deste Tribunal.
+Apresentadas as razões pela Defensoria Pública, foram os autos devolvidos a esta Corte, estando atualmente em fase de processamento do pleito.
+Encaminho, para conhecimento, cópia de peças da ação penal e da revisão criminal.
+ ..
+O Ministério Público Federal opinou pelo não conhecimento do pedido, caso conhecido, pelo seu indeferimento (fl. 167):
+DIREITO PENAL - CRIMES PREVISTOS NA LEGISLAÇÃO EXTRAVAGANTE - CRIMES DE TRÁFICO ILÍCITO E USO INDEVIDO DE DROGAS. PROCESSUAL PENAL. FALTA DE INTIMAÇÃO PESSOAL DO DEFENSOR DATIVO. ASSINATURA, PELO DEFENSOR, DE TERMO CONCORDANDO COM QUE AS INTIMAÇÕES, ATOS E TERMOS DO PROCESSO, ATÉ O TRÂNSITO EM JULGADO, FOSSE REALIZADA PELA IMPRENSA OFICIAL. AUSÊNCIA DE NULIDADE.
+PARECER PELO NÃO CONHECIMENTO DO PEDIDO. CASO CONHECIDO, DEVE SER INDEFERIDO.
+É o relatório.
+A controvérsia jurídica cinge-se ao reconhecimento da nulidade absoluta decorrente da ausência de intimação pessoal do defensor dativo para a sessão de julgamento do recurso de Apelação n. 0001722-88.2012.8.26.0280.
+O inconformismo não merece acolhimento.
+Das informações prestadas pelo Tribunal de Justiça de São Paulo tem-se que,  ..  contra o édito condenatório insurgiu-se o Defensor Dativo nomeado para atuar no feito, Dr. [NOME], que assinou termo de compromisso manifestando concordância em ser intimado pela imprensa oficial dos atos e termos do processo até o trânsito em julgado (fl. 73).
+Pois bem. É certo que, nos moldes da jurisprudência pacificada nesta Corte Superior, em obediência ao art. 370 do Código de Processo Penal e ao art. 5º, § 5º, da Lei n. 1.060/1950, a ausência de intimação pessoal do defensor público ou dativo, quanto à inclusão em pauta do recurso de apelação interposto, provoca, em regra, a nulidade do seu julgamento.
+Contudo, tal compreensão não alcança a situação destes autos, considerando que o defensor dativo optou expressamente pela via regular de comunicação dos atos processuais, não podendo a defesa, agora, arguir nulidade deste, em observância ao disposto no art. 565 do Código de Processo Penal. A propósito: HC n. 359.305/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 8/3/2018; HC n. 372.814/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 28/3/2017; HC n. 365.925/SP, Ministro Jorge Mussi, Quinta Turma, DJe 3/3/2017; RHC n. 68.886/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 14/10/2016; HC n. 360.140/SP, Ministro Jorge Mussi, Quinta Turma, DJe 31/8/2016; HC n. 334.626/SP, Ministro Joel Paciornik, Quinta Turma, DJe 16/5/2016; HC n. 331.432/SP, Ministro Ericson Maranho (Desembargador Convocado do TJ/SP), Sexta Turma, DJe 21/3/2016; e RHC n. 44.684/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 11/2/2015.
+Por tais razões, denego a ordem.
+Publique-se.
