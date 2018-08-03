@@ -1,0 +1,54 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. FIXAÇÃO DE REGIME MAIS GRAVOSO. FUNDAMENTAÇÃO IDÔNEA. ACÓRDÃO RECORRIDO DE ACORDO COM O ENTENDIMENTO DO STJ. SÚMULA 568/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME], contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, ementado verbis (fl. 274):
+"Apelação criminal. Roubo circunstanciado pelo concurso de pessoas. Art. 157, II, do CP. Pretensão, por parte da acusação, de alteração do regime carcerário para o fechado. Admissibilidade. Regime mais gravoso é o único adequado à gravidade do delito, de maneira concreta. Defesa pugna pela absolvição por insuficiência probatória. Impossibilidade. Materialidade e autoria comprovadas. Pena bem fixada e fundamentada. Recurso da defesa não provido. Acolhimento da insurgência ministerial".
+Em seu recurso especial, às fls. 288/296, sustentou o recorrente afronta ao artigo 33, § 2º, alínea "b" e § 3º, do Código Penal, sob o argumento de que não obstante o quantum de pena inferior a oito anos, a primariedade e as circunstâncias judiciais favoráveis, o Tribunal de origem fixou o regime mais gravoso para o início do cumprimento da pena com base na gravidade abstrata do delito, bem como, em elementos inerentes ao tipo penal de roubo circunstanciado pelo concurso de agentes.
+Citou a Súmula nº 440 do Superior Tribunal de Justiça.
+Requereu o restabelecimento do regime fixado na sentença.
+O Tribunal de origem, entretanto, negou seguimento ao recurso, às fls. 308/309, ante a incidência das Súmulas nº 7 do Superior Tribunal de Justiça e nº 284 do Supremo Tribunal Federal.
+Em seu agravo, às fls. 319/323, assevera o recorrente que não incide a Súmula nº 284 do Supremo Tribunal Federal, pois (fl. 321):
+"Contrariamente ao que apontou a r. decisão denegatória, o recurso especial, interposto às fls. 238/242, atende aos ditames do artigo 1.029 do Código de Processo Civil.
+De fato, foram expostas as razões de fato e de direito que levaram à interposição do recurso. Da mesma forma, foi apontado o seu cabimento, com base na alínea a do inciso III do artigo 105 da Constituição Federal. Ainda, as razões do pedido da reforma se encontram no próprio corpo do recurso, devidamente explicitadas.
+Foi exaustivamente explanada a ofensa aos artigos 33, § 2º "b" e § 3º do Código Penal.
+Não há, pois, que se falar em inadequação da via e incompreensão da controvérsia".
+Alega, também que não há falar-se na aplicação da Súmula nº 7 do Superior Tribunal de Justiça, porquanto "o agravante não pretende nova análise das provas, mas sim apontar a violação à norma federal insculpida no artigo 33, § 2º alínea "b", e § 3º, do Código Penal. Não se discute a ocorrência ou não dos fatos. Estes restaram incontroversos. Discute-se apenas o regime estabelecido para início do cumprimento da pena privativa de liberdade. Assim, é admissível o recurso:" (fl. 322).
+O Ministério Público Federal manifestou-se às fls. 343/348, nos seguintes termos (fl. 343):
+
+"AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. REGIME PRISIONAL. CONHECIMENTO DO AGRAVO E PROVIMENTO DO RECURSO ESPECIAL.
+1. As razões do agravante são suficientes para infirmar os fundamentos da r. decisão agravada, por inaplicáveis, ao caso em exame, os óbices das Súmulas nº 7/STJ e 284/STF, para o processamento do recurso especial interposto com vistas à análise do correto regime prisional, nos termos do art. 33 do Código Penal. Conhecimento do agravo.
+2. Fixado o regime inicial fechado pelo e. Tribunal Estadual, para desconto da pena de 5 anos e 4 meses de reclusão, pela prática do crime de roubo majorado pelo concurso de apenas, com amparo na gravidade abstrata de delito e em elementar do tipo. Negativa de vigência ao art. 33, §2º, b, e §3º, do CP.
+3. Recurso especial que merece provimento, para restabelecer os fundamentos da r. sentença condenatória, quanto à fixação do regime inicial para desconto da pena corporal.
+4. Parecer pelo conhecimento e provimento do recurso especial".
+É o relatório.
+A insurgência não merece prosperar.
+No que tange à alegada afronta ao artigo 33, § 2º, alínea "b" e § 3º, do Código Penal, constata-se que não obstante a estipulação da reprimenda definitiva pela prática do crime descrito no artigo 157, § 2º, inciso II, do Código Penal, em 05 anos e 4 meses de reclusão (fl. 200), encontra-se motivada a sujeição a regime mais gravoso eis que alicerçado em elementos concretos, notadamente o modo de execução do crime.
+Quanto ao ponto, confiram-se o trecho do acórdão à fl. 277:
+"Ainda que seja assim, tem-se que o regime inicial de cumprimento da pena comporta alteração para o fechado, tendo em vista o quantum concretizado da pena e o modo pelo qual executado o crime.
+Aquele que comete o delito de roubo circunstanciado, como no caso vertente, vale dizer, em concurso de pessoas, que enseja maior vulnerabilidade da vítima às determinações de seus algozes, revela extrema periculosidade, pois está disposto a tudo para conseguir seu objetivo e sair ileso, mormente em casos como o que se cuida, em que as circunstâncias fáticas concretas são graves, cumprindo ressaltar que a ofendida foi abordada por dois agentes, próximo às dez horas da noite, circunstâncias estas que a deixaram mais vulnerável, e revelam uma maior reprovação da conduta delitiva. Presentes esses elementos, necessário se faz que o Estado-juiz coíba essa difusão, pois, ao impor regime mais rigoroso, retirará do convívio aquele que causa grande intranquilidade social".
+De fato, na espécie, observa-se a ocorrência de particularidades fáticas na execução do crime que revelam um plus de reprovabilidade na conduta, mormente quando verifica-se que o recorrente, em concurso com outro agente não identificado, abordou a vítima e sua amiga, em via pública, com simulacro de arma de fogo e no período noturno, o que autoriza a sujeição ao regime mais gravoso.
+Nesse sentido:
+"HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. NÃO CABIMENTO. ROUBO CIRCUNSTANCIADO. PLEITO DE INCIDÊNCIA DA SÚMULA N. 440/STJ. INAPLICABILIDADE. REGIME FECHADO ESTABELECIDO MOTIVADAMENTE. GRAVIDADE CONCRETA DA CONDUTA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+(..)
+- Nos termos da jurisprudência pacífica desta Corte, a definição do regime prisional não está condicionada, de forma absoluta, à quantidade de pena aplicada, uma vez que se deve dar relevo aos demais elementos concretos do delito.
+- Na hipótese, não se verifica constrangimento ilegal na fixação do regime inicial fechado à paciente Bruna, pois foi aplicado com base na gravidade concreta do modus operandi do delito, o qual extrapolou a prática delituosa comum para o tipo, cometido em concurso de três agentes, com simulacro de arma de fogo, em via pública e no período noturno, ameaçando duas vítimas mulheres. Quanto ao paciente Eduardo, o regime mais gravoso foi fixado em razão da reincidência. Precedentes desta Corte.
+- A previsão inserida no § 2º do art. 387 do Código de Processo Penal não se refere à verificação dos requisitos para a progressão de regime, instituto que se restringe à execução penal, mas da possibilidade de o Juízo de 1º grau, no momento oportuno da prolação da sentença, estabelecer regime inicial mais brando, em razão da detração. No caso, ainda que realizado o desconto do quantum da pena, do período que os pacientes se mantiveram em custódia preventiva, não há constrangimento ilegal na fixação pelo magistrado de regime inicial mais gravoso, fundamentando-se na reincidência de um dos pacientes e no modus operandi do delito, que recomendam maior rigor no cumprimento da pena.
+- Habeas corpus não conhecido".
+(HC 355.088/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/06/2016, DJe 22/06/2016).
+"HABEAS CORPUS. ART. 157, § 2º, II, DO CP. ART. 244-B DO ECA. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. IMPROPRIEDADE DA VIA ELEITA. REGIME INICIAL FECHADO. GRAVIDADE CONCRETA. FUNDAMENTAÇÃO IDÔNEA. WRIT NÃO CONHECIDO.
+1. Tratando-se de habeas corpus substitutivo de recurso especial, inviável o seu conhecimento.
+2. Não obstante a estipulação da reprimenda final em patamar inferior a 8 (oito) anos de reclusão, encontra-se motivada a sujeição a regime mais gravoso quando alicerçado em elementos concretos, a despeito desses não terem sido empregados na fixação da pena-base, estabelecida no mínimo legal. Na espécie, o Tribunal a quo salientou particularidade fática, destacando "as circunstâncias do crime de roubo, praticado mediante o emprego de simulacro de arma de fogo e concurso de três agentes, um deles adolescente, que abordaram vítima mulher com sua filha de dez anos, revelando periculosidade incomum dos apelantes" (fl. 26), o que traz para o palco dos acontecimentos um plus de reprovabilidade, impedindo o abrandamento do regime inicial de cumprimento de pena.
+3. Habeas corpus não conhecido".
+(HC 380.450/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 15/12/2016, DJe 02/02/2017)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. 1. PRETENSÃO DE REGIME INICIAL MAIS BRANDO. IMPOSSIBILIDADE. GRAVIDADE CONCRETA. MODUS OPERANDI. USO DE ARMA DE FOGO. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES. 2. PRESENÇA DE DUAS MAJORANTES. FIXAÇÃO DA FRAÇÃO DE AUMENTO ACIMA DO MÍNIMO LEGAL. ARGUMENTOS CONCRETOS. AUSÊNCIA DE ILEGALIDADE. 3. RECURSO IMPROVIDO.
+1. A fixação do regime fechado é o apropriado sempre que presente fundamentação idônea a respaldar a aplicação do regime mais gravoso, como na hipótese.  ..
+3. Agravo regimental a que se nega provimento".
+(AgRg no HC 245117/SP, Rel. Ministro MOURA RIBEIRO, QUINTA TURMA, julgado em 18/02/2014, DJe 21/02/2014 )
+"HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. FIXAÇÃO DE REGIME PRISIONAL MAIS GRAVOSO. POSSIBILIDADE. CIRCUNSTÂNCIAS QUE EVIDENCIAM MAIOR REPROVABILIDADE DA CONDUTA.
+1. A fixação de regime prisional mais gravoso encontra-se devidamente justificada diante do modus operandi empregado no crime, a denotar maior reprovabilidade da conduta praticada.
+2. Ordem denegada".
+(HC 164.851/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 13/09/2011, DJe 28/09/2011).
+Dessa forma, estando o acórdão recorrido em conformidade com a jurisprudência dominante desta Corte Superior de Justiça acerca do tema, de rigor a aplicação da Súmula 568 deste Sodalício, que assim dispõe: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso II, alínea "b", do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intime-se.
