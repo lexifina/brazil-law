@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] e OUTROS contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 450):
+AÇÃO CIVIL PÚBLICA IMPROBIDADE ADMINISTRATIVA Provimento de cargo em comissão, através de portaria, com fundamento na Lei Complementar nº 12/01 do Município de Oscar Bressane Cargo instituído e provido em comissão que não se identifica com a permissão inscrita no inciso V do art. 37 da CF Afronta ao princípio da acessibilidade aos cargos públicos mediante concurso Lei Municipal que autorizava a contratação que foi declarada em parte inconstitucional por força do incidente de inconstitucionalidade suscitado Sentença que condenou os réus ao pagamento de multa que deve subsistir.
+Negado provimento ao recurso.
+No especial obstaculizado, os agravantes apontam violação dos arts. 11 e 12, III, da Lei n. 8.429/1992.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem em face da Súmula 7 do STJ (e-STJ fls. 495/496).
+Na presente irresignação, o agravante defende a regularidade do seu apelo nobre.
+Manifestação do MPF pelo desprovimento do recurso consta às e-STJ fls. 530/533, caso conhecido.
+Passo a decidir.
+Cumpre ressaltar, inicialmente, que o Tribunal de origem, ao realizar o juízo de admissibilidade do recurso especial, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que falar em usurpação da competência do STJ. Nesse sentido: AgRg no AREsp 173.359/AM, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 17/03/2015, DJe 24/03/2015, e AgInt no AREsp 933.131/SP, Rel. Ministro OG FERNANDES, Segunda Turma, julgado em 25/10/2016, DJe 27/10/2016.
+Dito isso, mediante análise dos autos, verifico que a inadmissão do especial se deu com base na incidência da Súmula 7 do STJ.
+Embora tenham os agravantes impugnado especificamente esse fundamento, entendo que, no caso concreto, a pretensão deduzida no recurso especial não ultrapassa a esfera do conhecimento, conforme ressaltado na origem, esbarrando, pois, no mencionado óbice.
+Tendo o Tribunal de origem reconhecido que o conjunto probatório foi hábil a demonstrar o enquadramento dos recorridos nos atos de improbidade administrativa, com a indicação expressa do elemento subjetivo (dolo), a reforma de tal julgado demandaria o reexame fático-probatório dos autos, inviável em sede de recurso especial. Igualmente se diga na parte alusiva à dosimetria da sanção imposta nas instâncias ordinárias.
+Registro, por oportuno, que o marco inicial de aplicação do Novo Código de Processo Civil é a intimação do decisum recorrido, a qual, no presente caso, foi realizada sob a égide do antigo Codex Processual. Assim, nos termos do Enunciado Administrativo n. 2 do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
