@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de Agravo, interposto por MARIA NEUSA PEREIRA, em 18/04/2018, contra decisão do Tribunal de Justiça do Estado de Goiás, que inadmitiu o Recurso Especial manejado em face de acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. SENTENÇA COLETIVA PROFERIDA EM AÇÃO CIVIL PÚBLICA. TAXAS DE MATRÍCULAS E MENSALIDADES INDEVIDAMENTE COBRADAS POR UNIVERSIDADE PÚBLICA. RESTITUIÇÃO DOS VALORES PAGOS. PRESCRIÇÃO. OCORRÊNCIA.
+I- O prazo para pleitear qualquer direito ou manejar ação contra a Fazenda Pública, seja qual for sua natureza, é de cinco anos, conforme a regra contida no art. 1º, do Decreto Federal nº 20.910/1932.
+II- Na hipótese, reconhecido o direito reclamado pela autora em relação a UEG, estão fulminados pela prescrição, os pagamentos que, à época do ajuizamento da ação, já contavam com mais de 05 (cinco) anos.
+III- Na situação em foco, é certo que o prazo de prescrição para a execução individual do título judicial iniciou-se a partir do momento em que não houve o cumprimento espontâneo da obrigação reconhecida na ação coletiva que, no caso, é o trânsito em julgado da sentença prolatada na Ação Civil Pública nº 200804192035, ocorrido em 02/02/2012, portanto, não há que se cogitar na propalada tese, eis que proposta a execução em 15/06/2015.
+IV- Na situação em tela, reconhecido o direito reclamado em relação à UEG, e em sendo relação de trato sucessivo, reconheço que, de fato, estão fulminados pela prescrição os pagamentos que à época do ajuizamento da ação civil pública (24/09/2008) já contavam com mais de cinco anos, quais sejam, as parcelas anteriores a 24/09/2003.
+V- Diante dessa circunstância, haja vista que o ressarcimento das parcelas de mensalidades e matrículas recolhidas indevidamente pela parte à UEG abrangem o período de 09/00 a 07/03, mister a declaração da propalada prescrição, mormente considerando a finalidade do referido instituto que é a proteção da segurança nas relações jurídicas e a não eternização dos conflitos.
+RECURSO CONHECIDO E PROVIDO. DECISÃO REFORMADA" (fl. 189e).
+O acórdão em questão foi objeto de Embargos de Declaração, rejeitados nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. VÍCIOS INEXISTENTES. PRETENSÃO DE REEXAME DA MATÉRIA. INADMISSIBILIDADE. PREQUESTIONAMENTO.
+I- Para a oposição de embargos declaratórios, necessário se faz a observância das hipóteses previstas no art. 1.022 do novo CPC.
+II- Se o acórdão embargado não contém qualquer das hipóteses legalmente previstas, e apenas reflete posicionamento contrário à pretensão recursal da parte embargante, resta claro o intuito de rediscussão de questões já decididas, o que é inviável por meio desta espécie recursal.
+III - O novo CPC reconhece a possibilidade de os embargos de declaração viabilizarem o prequestionamento ficto, ainda que inadmitidos ou rejeitados (CPC 1.025).
+EMBARGOS DE DECLARAÇÃO CONHECIDOS E REJEITADOS" (fl. 215e).
+Sustenta a parte agravante, nas razões do Recurso Especial, além de dissídio jurisprudencial, ofensa ao artigo 205 do Código Civil, sob a tese de que, "frente à lacuna existente, tanto na Lei 7.347/85, quanto no CDC, no que concerne ao prazo prescricional aplicável em hipóteses em que se discute a abusividade de cláusula contratual, e, considerando-se a subsidiariedade do Código Civil às relações de consumo, deve-se aplicar, na espécie, o prazo prescricional de 10 (dez) anos" (fl. 227e).
+Requer, ao final, o conhecimento e provimento do Recurso Especial.
+Não foram apresentadas contrarrazões.
+Negado seguimento ao Recurso Especial (fls. 239/240e), foi interposto o presente Agravo (fls. 245/251e).
+Em contraminuta, a parte agravada afirma que deve ser mantida a decisão de inadmissibilidade do Recurso Especial.
+A irresignação não merece acolhimento.
+Acerca da prescrição, manifestou-se o Tribunal de origem:
+"Desta feita, cabível a discussão acerca da prescrição em embargos à execução de sentença proferida em ação coletiva, pois é no momento da execução que se delimita o direito individual de cada um.
+Pois bem, feita essa ressalva, consigna-se que nos termos do artigo 1º do Decreto Federal nº 20.910/32, a toda pretensão exercida contra a Fazenda Pública aplica-se a prescrição quinquenal, in verbis:
+(..)
+Outrossim, vale salientar o raciocínio exposto na Súmula 85 do STJ, que dispõe que "nas relações de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação."
+Na situação em tela, reconhecido o direito reclamado em relação à UEG, e em sendo relação de trato sucessivo, reconheço que, de fato, estão fulminados pela prescrição os pagamentos que à época do ajuizamento da ação civil pública (24/09/2008) já contavam com mais de cinco anos, quais sejam, as parcelas anteriores a 24/09/2003.
+Diante dessa circunstância, haja vista que o ressarcimento das parcelas de mensalidades e matrículas recolhidas indevidamente pela parte à UEG abrangem o período de 09/00 a 07/03, mister a declaração da propalada prescrição, mormente considerando a finalidade do referido instituto que é a proteção da segurança nas relações jurídicas e a não eternização dos conflitos" (fls. 185/186e).
+Do exposto, constata-se que o Tribunal a quo adotou orientação em consonância com o entendimento firmado por esta Corte, no sentido de que a prescrição quinquenal prevista no art. 1º do Decreto 20.910/32 deve ser aplicada a todo e qualquer direito ou ação contra a Fazenda Pública, seja ela federal, estadual ou municipal, independentemente da relação jurídica. Nesse sentido:
+"TRIBUTÁRIO E PROCESSUAL CIVIL. RESSARCIMENTO POR PERDAS FINANCEIRAS DECORRENTES DA ANTECIPAÇÃO DE RECOLHIMENTO DO PIS (DECRETOS-LEIS 2.445/1988 E 2.449/1988). OFENSA AO ART. 535 DO CPC/1973. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. NATUREZA INDENIZATÓRIA DA AÇÃO. PRESCRIÇÃO QUINQUENAL. DECRETO 20.910/1932. ACÓRDÃO FUNDAMENTADO COM BASE NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. (..)
+4. O STJ, após o julgamento do REsp 1.251.993/PR, relator Ministro Mauro Campbell Marques, sob o rito dos Recursos Repetitivos, pacificou o entendimento de que a prescrição quinquenal prevista no art. 1º. do Decreto 20.910/1932 deve ser aplicada a todo e qualquer direito ou ação contra a Fazenda Pública, seja ela federal, estadual ou municipal, independentemente da natureza da relação jurídica.
+(..)
+8. Recurso Especial parcialmente conhecido e, nessa parte, não provido" (STJ, REsp 1.658.488/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 08/05/2017).
+"ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRATO ADMINISTRATIVO. VIOLAÇÃO DOS ARTIGOS 165, 458 e 535 DO CPC INEXISTENTE. PRESCRIÇÃO QUINQUENAL. PRECEDENTES. PAGAMENTOS EFETUADOS COM ATRASO. JUROS MORATÓRIOS E CORREÇÃO MONETÁRIA. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL E REEXAME DE PROVAS. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ.
+1. (..)
+2. "É entendimento desta Corte que a prescrição quinquenal prevista no art. 1º. do Decreto 20.910/32 deve ser aplicada a todo e qualquer direito ou ação contra a Fazenda Pública, seja ela federal, estadual ou municipal, independentemente da natureza da relação jurídica estabelecida entre a Administração Pública e o particular" (EDcl no REsp. 1.205.626/AC, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 04.03.2011).
+3. (..)
+4. Agravo regimental não provido" (STJ, AgRg no AREsp 133.094/PE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 20/03/2014).
+Além disso, conforme destacado pelo acórdão recorrido, nos termos da Súmula 85/STJ, "nas relações jurídicas de trato sucessivo em que a fazenda pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior a propositura da ação".
+Desse modo, estando o acórdão recorrido em sintonia com a jurisprudência desta Corte, deve ser aplicada ao caso a Súmula 83/STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida".
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, b do RISTJ, conheço do Agravo para negar provimento ao Recurso Especial.
+I.
