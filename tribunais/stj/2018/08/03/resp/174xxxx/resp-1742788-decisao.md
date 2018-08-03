@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por LÉO JOIAS LTDA. contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+PROCESSUAL CIVIL. COISA JULGADA.
+Repetindo esta ação o pedido e a causa de pedir de ação anterior, já transitada em julgado, cabível a extinção do processo sem julgamento do mérito, na forma do artigo 485, V, do Novo CPC.
+O recorrente alega violação dos arts. 301, §§1º, 2º e 4º, e 337 do CPC/2015, sustentando, em síntese, a necessidade de decretação da nulidade do auto de infração que deu origem a execução fiscal, em decorrência do reconhecimento da ilegalidade da coleta de provas obtidas através do Pedido de Busca e Apreensão Criminal nº 2008.71.13001793-3, afastando-se a causa impeditiva do julgamento da matéria pela Corte regional (coisa julgada) em razão da existência de fato superveniente como fator de diferenciação de causa de pedir (e-STJ fls. 657/670)
+Contrarrazões apresentadas pela FAZENDA NACIONAL, nas quais pede, preliminarmente, o não conhecimento do recurso e, no mérito, seu desprovimento (e-STJ fl. 680/682).
+Passo a decidir.
+"Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado n. 3 do Plenário do STJ).
+Isso considerado, vejamos, no que interessa, o que consignou e decidiu o TRF-5ª (e-STJ fls. 647/648):
+Coisa julgada
+A coisa julgada material se estabelece quando se repete ação que já foidecidida por sentença, de que não caiba recurso, sendo que uma demanda somente é idêntica à outra quando apresenta os mesmos elementos individualizadores, quais sejam, as mesmas partes, a mesma causa de pedir e o mesmo pedido (artigo 337, § 2º, do Novo CPC).
+No caso, como bem destacado na sentença, "a autora ingressou com a ação anulatória nº 53/1.12.0001329-9 (inicialmente distribuída na Justiça Federal, sob o nº 5007853-46.2012.404.17100), distribuída por dependência à Execução Fiscal nº 053/1.12.0000037-5, que tramitou perante a 2ª Vara Cível de Guaporé, na qual também postulava a anulação do Auto de Infração objeto do PAF nº 11020.003540/2009-70.
+Naquela ação, fundamentou a sua pretensão anulatória na ilicitude da prova que deu ensejo à lavratura do auto de infração, além de sustentar a ocorrência da decadência, cerceamento de defesa e excesso de execução. No primeiro grau, o pedido restou julgado improcedente, tendo sido rejeitada a exceção de pré-executividade, com determinação de prosseguimento da execução. Em sede de apelação (Apelação Cível nº 0014312- 80.2015.404.9999, o TRF da 4ª Região apenas reduziu o valor dos honorários advocatícios".
+Na presente ação, a autora "veicula a mesma pretensão anulatória, também sob o fundamento da ilicitude da prova que deu ensejo à lavratura do mesmo Auto de Infração, alegando o respaldo de suposto "fato novo", qual seja, o reconhecimento, pelo STJ, da ilegalidade no Pedido de Busca e Apreensão Criminal nº 2008.71.13.001793-3".
+Sublinhe-se que a suposto "fato novo" apontado pela apelante não se mostra hábil a ensejar a propositura desta nova ação. Como bem mencionado pelo magistrado singular, "o acórdão paradigma do STJ transitou em julgado em 17/09/2013, portanto, quase um ano antes da prolação da sentença proferida na ação anulatória nº 53/1.12.0001329-9. Assim, cabia ao autor, nos autos daquela ação, provocar o juiz para que o tomasse em consideração no momento de proferir a sentença. Poderia, ainda, ter invocado a questão em sede recursal, conforme autoriza a jurisprudência (Precedentes:
+REsp 847.831/SP, Rel. Min. Francisco Falcão, DJ 14.12.2008; EDcl no REsp 487784 / DF, Rel. Min. Paulo Gallotti, DJe 30.6.2008; e AgRg no REsp 1059503/PR, Rel. Min. Francisco Falcão, DJe 6.10.2008). Outrossim, haveria a possibilidade, ainda, da via da ação rescisória, prevista tanto no antigo CPC (art. 485, VII), como no novo (art. 966, VII)".
+Assim, em face do trânsito em julgado já ocorrido na ação anulatória nº 53/1.12.0001329-9 em 18/03/2016, não pode a matéria ser novamente veiculada nesta ação, sob pena de ofensa à coisa julgada, pelo que deve ser mantida a sentença.
+Como se observa, o Tribunal Regional Federal entendeu pela existência de coisa julgada a impedir a apreciação da matéria discutida na ação anulatória de auto de infração, tendo em vista o tema já ter sido objeto de apreciação pelo judiciário quando do julgamento, transitado em julgado, da ação anulatória nº 53/1.12.0001329-9 (inicialmente distribuída na Justiça Federal, sob o nº 5007853-46.2012.404.17100), não havendo fato novo a ensejar reapreciação da questão.
+Nesse contexto, o recurso especial não pode ser conhecido, como enuncia a Súmula 7 do STJ, pois a análise da pretensão do contribuinte depende do reexame da peça inicial da presente ação anulatória e de seu cotejo com a sentença extintiva da ação anulatória anterior, bem como dos elementos carreados naqueles autos, providência que esta Corte Superior tem externado configurar reexame fático-probatório.
+A respeito:
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. COISA JULGADA. FIXAÇÃO PELAS INSTÂNCIAS ORDINÁRIAS. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+ ..
+4. Enfim, o Tribunal de origem afirmou que, tendo em vista a decisão transitada em julgado, não há valor a ser executado.
+5. Modificar a conclusão a que chegou a Corte Regional, de modo a acolher a tese do recorrente, demanda reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ. Nesse sentido: AgRg no REsp 1.521.480/PE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 12/5/2015.
+ ..
+7. Recurso Especial não conhecido.
+(REsp 1676193/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/09/2017, DJe 13/09/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EMBARGOS À EXECUÇÃO DE SENTENÇA.  ..  REVISÃO DO TEOR DO TÍTULO EM EXECUÇÃO. SUMULA N. 7/STJ.
+ ..
+IV - In casu, rever o entendimento do Tribunal de origem, no sentido de concluir se houve violação à coisa julgada, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no REsp 1404856/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 15/08/2017, DJe 23/08/2017) (Grifos acrescidos).
+No mesmo sentido: REsp 1647586/SC, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 22/09/2017; AgInt no AREsp 437.058/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 01/09/2017; AgInt no AREsp 965.578/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 28/08/2017; AgInt nos EDcl no AREsp 1019558/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 18/08/2017.
+Finalmente, por força do art. 85, § 11, do CPC/2015, majoro a verba honorária de sucumbência arbitrada no acórdão (fixados nos percentuais mínimos do art. 85, §3º do CPC/2015) em 1%, respeitados os limites e critérios previstos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Ante o exposto, com base no art. 255, § 4º, I, do RI-STJ, NÃO CONHEÇO do recurso especial com a majoração da verba honorária de sucumbência em 1% sobre o valor arbitrado no acórdão, respeitados os limites e critérios previstos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Publique-se. Intimem-se.
