@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por EUROCAR VEICULOS LTDA. e outros contra decisão que inadmitiu recurso especial fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal. O apelo extremo insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. Decisão que deferiu arresto no rosto dos autos de ação de desapropriação e determinou a citação da sociedade titular do crédito discutido naquele processo, que não é parte na execução em cujo polo passivo figuraram os seus sócios, para o incidente de desconsideração da personalidade jurídica. Presença dos requisitos que autorizavam o arresto. Inexistência de violação ao contraditório ou às regras procedimentais referentes à desconsideração da personalidade jurídica. Recurso desprovido" (fl. 219 e-STJ).
+Nas razões recursais (fls. 227-238 e-STJ), a recorrente sustentou violação dos artigos 133, 135, 805, 850 e 851 do Código de Processo Civil de 2015 e 50 do Código Civil.
+Aduziu, em síntese, que o crédito da recorrida já estava amparado por penhora não sendo possível a ampliação da constrição fora das hipóteses legais. Destacou, ainda, que não é lícita a desconsideração da personalidade jurídica sem a instauração do incidente processual, pois viola o contraditório e ampla defesa. Por fim, aduziu que o arresto foi concedido sem a comprovação da plausibilidade do direito e do perigo da demora.
+Com fulcro nos argumentos expostos, pleiteou o provimento do recurso e o reconhecimento da ilegalidade e excesso da constrição.
+Contrarrazões apresentadas (fls. 243-260 e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+No mérito, ao apreciarem o recurso da recorrente, os magistrados da instância ordinária consignaram expressamente que "o Juízo a quo não decidiu pela a desconsideração da personalidade jurídica, mas apenas deferiu tutela provisória de natureza cautelar antes do exercício do contraditório, o que não viola o Código de Processo Civil" (fl. 223 e-STJ).
+Entretanto, nas razões recursais, não há resistência quanto ao referido fundamento que, ao persistir incólume, mostra-se suficiente para a manutenção do julgado, circunstância que atrai a aplicação, por analogia, da Súmula nº 283/STF.
+Nesse sentido:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. MAIS DE UM FUNDAMENTO. IRRESIGNAÇÃO QUE ATACA APENAS UM. INCIDÊNCIA DA SÚMULA 283-STF.
+1 - Se o acórdão objeto de recurso especial arrima-se em dois fundamentos bastantes para mantê-lo, a falta de impugnação de um deles, que fica incólume, atrai a incidência da súmula 283-STF, obstando aquela irresignação.
+2 - Embargos de divergência acolhidos" (EREsp 147.187/MG, Rel. Ministro
+FERNANDO GONÇALVES, CORTE ESPECIAL, DJ 12/8/2002).
+No que tange às nulidades de procedimento e aos requisitos do arresto, em cognição sumária, decidiu o Tribunal de origem que:
+"(..)
+Em primeiro porque, diversamente do quanto alegado, o Juízo a quo não ignorou a existência de regras procedimentais que devem ser observadas para a desconsideração da personalidade jurídica, tanto que determinou a expedição de carta de citação para que a sociedade Porto Velho Agropecuária S/A respondesse ao incidente de desconsideração da personalidade jurídica no prazo de 15 dias.
+Em segundo porque os documentos apresentados pela agravada realmente confirmam a existência de indícios de confusão patrimonial e risco para o êxito da execução, que justificavam o deferimento do arresto nos rosto dos autos antes de efetivada a citação da sociedade Porto Velho Agropecuária S/A.
+De fato, há indícios de que a referida sociedade deixou de exercer suas atividades no final ano de 2006, quando o imóvel foi desapropriado pelo INCRA (fls. 122/139), e de que embora disponha de personalidade jurídica sua existência é meramente formal, porquanto não desenvolve qualquer atividade empresária.
+E a documentação que instruiu o pedido formulado pela agravada comprova que em 02/12/2016 os únicos sócios da Porto Velho Agropecuária S/A eram o agravante [NOME] e [NOME] (fls. 153), sendo que a sociedade é sediada em imóvel de propriedade da agravante JMC Participações S/A (fls. 117/120), onde também funciona a sua sede (fls. 109/116).
+Além disso, em 22/09/2016 o agravante [NOME] foi nomeado procurador da Porto Velho Agropecuária S/A, recebendo poderes específicos para receber e dar quitação, celebrar contratos de corretagem, contratos de honorários de escritórios de advocatícia e assessores e escritura de cessão de crédito, em especial para transacionar os direitos creditórios objeto da ação judicial de desapropriação por interesse social de nº 2006.36.00.014667-6, em trâmite perante a 1ª Vara da Seção Judiciária de Mato Grosso e movida por INCRA Instituto Nacional de Colonização e Reforma Agrária (fls. 150/151) (grifos não originais).
+Diante de tais elementos conclui-se que, em sede de cognição sumária, o Juízo a quo estava mesmo autorizado a deferir o arresto no rosto dos autos da ação de desapropriação" (fls. 221-222 e-STJ).
+Assim, o acolhimento da pretensão recursal, nos termos em que posta, demandaria o reexame de matéria fática e das demais provas constantes dos autos, o que é inviável em recurso especial, consoante óbice da Súmula nº 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+Nesse sentido:
+"AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - MEDIDA CAUTELAR DE ARRESTO - DECISÃO QUE NEGOU PROVIMENTO AO AGRAVO. INSURGÊNCIA DA AUTORA.
+1. Rever o entendimento do Tribunal de origem acerca da inexistência do periculum in mora apto a possibilitar a procedência da medida cautelar de arresto, demandaria o reexame das provas dos autos, providência inviável na via do recurso especial, conforme consolidado na Súmula 7 deste STJ.
+1.1. A jurisprudência desta Corte entende que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade fática entre as premissas em que se baseou o acórdão recorrido e aquelas nas quais fundamentados os paradigmas ditos divergentes.
+2. Agravo regimental desprovido" (AgRg no AREsp 420.757/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 26/10/2015).
+Por fim, acrescente-se que a jurisprudência do STJ, à luz do disposto na Súmula 735/STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo. Apenas a violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa (AgRg no AREsp 348.724/MS, Relator Ministro Marco Buzzi, Quarta Turma, DJe 29/8/2017).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intime-se.
