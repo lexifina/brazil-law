@@ -1,0 +1,36 @@
+EMENTA
+RECURSO ESPECIAL. DIREITO PENAL. ART. 155, § 1º, DO CÓDIGO PENAL. FURTO PRATICADO DURANTE O PERÍODO NOTURNO. DELITO PRATICADO EM VIA PÚBLICA. IMPOSSIBILIDADE DA INCIDÊNCIA DA CAUSA ESPECIAL DE AUMENTO NO FURTO. INEXISTÊNCIA DE PRESSUPOSTOS. REFORMA DO ACÓRDÃO A QUO.
+Recurso especial provido.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Amazonas que, apesar do delito ser praticado em via pública às 19h, condenou o ora recorrente nos termos do art. 155, § 1º, do Código Penal - furto praticado durante o período noturno -, à pena de 1 ano e 4 meses de reclusão, a ser cumprida em regime inicial aberto, pois  ..  pouco importa o local em que o móvel foi subtraído, se em via pública, casa ou local habitado, estabelecimentos profissionais ou veículo. O que a norma de regência desse instituto jurídico-penal visa punir é o furto praticado no período noturno, por ser de maior vulnerabilidade (fl. 280).
+Esta, a ementa do acórdão estadual (fl. 277):
+PROCESSO PENAL. APELAÇÃO CRIMINAL. ART. 155, §1º DO CP. FURTO CIRCUNSTANCIADO. DOSIMETRIA DE PENA. PERÍODO NOTURNO. VIA PÚBLICA. POSSIBILIDADE.
+1. Para a incidência da causa especial de aumento prevista no § 1º do art. 155 do Código Penal, faz-se suficiente que a infração ocorra durante o repouso noturno, período de maior vulnerabilidade para as residências, lojas e veículos, entre outros. (AgRg no REsp n. 1.251.465/MG,da minha relatoria, Sexta Turma, julgado em 4/2/2014, DJe 20/2/2014).
+2. Apelação criminal conhecida e desprovida.
+No seu recurso especial, alega o recorrente que o acórdão local violou o art. 155, § 1º, do Código Penal, porque, de forma infundada, o acórdão estadual  ..  entendeu pela manutenção da majorante prevista no §1º, art. 155 do Código Penal. Por oportuno, fundamentou-se, tão somente, no fato de o mesmo ser perpetrado durante o repouso noturno (19 horas), ignorando que o local onde o delito foi cometido, apesar de suscitado pela defesa (fl. 293).
+Aduz que  ..  analisando-se as circunstâncias da metrópole amazonense, tem-se que o horário do delito (19h) não pode ser considerado como repouso noturno, já que neste momento, a cidade está longe de entrar em período de repouso. Mais adequado é tomar o horário a partir de 22h para ser considerado como repouso noturno (fl. 296).
+Na insurgência, requer em necessária síntese (fl. 298):
+ ..  Diante do exposto, requerem os recorrentes seja o presente recurso conhecido e provido, a fim de que seja afastada a majorante do §1º, art. 155, do Código Penal, posto que não há o requisito do repouso noturno e a reduzida vigilância por parte da vítima.
+ ..
+Contrarrazões (fls. 307/314).
+A Procuradoria-Geral da República manifestou-se pelo não provimento da insurgência recursal (fls. 331/335).
+É o relatório.
+O recurso especial merece ser conhecido, pois preenchidos os seus pressupostos de admissibilidade.
+Cinge-se a questão ao exame da possibilidade de afastamento da majorante prevista para o crime de furto cometido durante o repouso noturno, por ter sido praticado em via pública às 19h em uma metrópole (art. 155, § 1º, do CP).
+No caso, a conduta delitiva é descrita nos seguintes termos (fls. 46 e 47):
+ ..  Narram os autos que, no dia 2 de março de 2015, por volta das 19h, SIMÃO LIMA DE [NOME], dolosa e conscientemente, subtraiu a motocicleta Honda CG 125 Fan, de placa [PLACA], de propriedade de [NOME], que estava estacionada na rua Ouricana, Conj. Mutirão, [NOME].
+Em seguida, o denunciado conduziu a motocicleta furtada ao local onde reside, localizado no endereço supracitado, onde a desmontou e revendeu as peças aos mecânicos B M S, uma pessoa chamada THIAGO e o adolescente [NOME], que tinham pleno conhecimento da origem ilícita dos bens adquiridos.
+No dia 3.3.2015, mediante denúncia anônima, a autoridade policial tomou ciência de que a motocicleta furtada estava na residência do primeiro denunciado. Policiais militares foram ao local e apreenderam o bem subtraído, parcialmente desmontado.
+ ..
+O recorrente, como descrito no relatório, defende não ter havido a caracterização do repouso noturno no furto ora examinado, o fazendo com base em duplo fundamento, quais sejam, o horário do cometimento do furto e o local da prática delituosa.
+Erigida essa premissa, para a doutrina, repouso noturno  ..  é o intervalo que medeia dois períodos: aquele em que as pessoas se recolhem, e, posteriormente, o outro no qual despertam para a vida cotidiana. O critério para definir o repouso noturno é variável e deve considerar, necessariamente, os costumes de uma determinada localidade, não se confundido com a noite (MASSON, Cleber Rogério. Código Penal Comentado. São Paulo: Método, 4ª ed., 2016, p. 761 - grifo nosso).
+Logo, com a inclusão da causa de aumento prevista no art. 155, § 1º, do Código Penal, quis o legislador punir mais severamente o agente que se utiliza da diminuição da vigilância, própria do período de repouso noturno, no intuito de facilitar a prática ou ocultação da empreitada criminosa (AgRg no REsp n. 1.251.465/MG, da minha relatoria, Sexta Turma, DJe 20/2/2014).
+No caso, se, embora o furto tenha ocorrido durante a noite (19h), tal circunstância não contribuiu para a sua prática ou a ocultação, especialmente porque não havia diminuição da vigilância da vítima em relação à res furtiva, consequentemente não é cabível a aplicação da causa de aumento do furto noturno (fls. 277/280).
+Superado esse aspecto, o furto ocorreu em via pública, portanto não havia diminuição da vigilância sobre a res furtiva que, no caso, era a motocicleta Honda CG 125 Fan, de placa [PLACA] e, ainda, segundo consta dos autos, não estava configurada a situação de repouso, pois o delito foi praticado às 19h (fls. 277/280).
+Não é noutro sentido a orientação jurisprudencial, senão no de que o repouso noturno exige o recolhimento das pessoas ao local de descanso, de maneira a diminuir a vigilância sobre a res furtiva, sossego do qual se vale o agente para mais facilmente praticar o furto. Indiscutivelmente não foi este o caso em concreto, porquanto não havia recolhimento noturno da vítima, afora que a conduta delituosa foi vista por transeunte, que comunicou o furto ao proprietário do bem (fls. 277/280).
+Nesse sentido: HC n. 116.432/RJ, Ministra Laurita Vaz, Quinta Turma, DJe 28/6/2010.
+Com efeito, assiste razão ao recorrente quanto ao argumento de não restar configurado o repouso noturno em razão do horário da prática delituosa, 19h, somado a que o furto foi presenciado por terceira pessoa, a qual inclusive avisou à vítima em seguida (fls. 277/280).
+Dessa forma, deve-se dar provimento à insurgência recursal.
+Sendo repetidamente decidida a matéria debatida, conforme os precedentes citados, o presente recurso comporta pronta solução, nos moldes do art. 34 do RISTJ e do disposto na Súmula 568/STJ, com o fim de se agilizar a prestação jurisdicional.
+Ante o exposto, com fulcro no art. 34 do RISTJ e no disposto na Súmula 568/STJ, dou provimento ao recurso especial a fim de, ao reformar o acórdão a quo condenatório, determinar o afastamento da majorante do repouso noturno no furto praticado pelo ora recorrente (art. 155, § 1º, do CP), consoante os fundamentos desta decisão.
+Publique-se.
