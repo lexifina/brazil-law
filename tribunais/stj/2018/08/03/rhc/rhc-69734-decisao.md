@@ -1,0 +1,20 @@
+EMENTA
+RECURSO EM HABEAS CORPUS. TRANCAMENTO DE AÇÃO PENAL. PRESCRIÇÃO DE CRÉDITO TRIBUTÁRIO. MATÉRIA NÃO DEBATIDA PELA CORTE DE ORIGEM. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO TÍTULO.
+Recurso em habeas corpus não conhecido.
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto por [NOME] contra acórdão prolatado pela Terceira Turma do Tribunal Regional Federal da 1ª Região, que, por maioria, denegou a ordem no HC n. 0041075-29.2015.4.01.0000/MG (fl. 733):
+HABEAS CORPUS. DENÚNCIA RECEBIDA. DEFESA PRÉVIA. LANÇAMENTO DE CRÉDITO TRIBUTÁRIO. DECADÊNCIA. FALTA DE JUSTA CAUSA. ABSOLVIÇÃO SUMÁRIA. INDEFERIMENTO.
+1. O habeas corpus visa proteger a liberdade de locomoção sempre que alguém sofrer ou se achar violência ou coação em sua liberdade de ir e vir. Não é via apropriada para a proteção de outros direitos. Precedentes do Supremo Tribunal Federal.
+2. A discussão que envolve a ocorrência ou não de decadência do direito ao lançamento do crédito tributário, com vistas ao reconhecimento de falta de justa causa para a ação penal e seu trancamento, extrapola os limites do presente writ.
+3. Ordem denegada.
+O recorrente, em suas razões recursais, alega constrangimento ilegal por parte da Corte a quo, porquanto manteve ato do Juiz Federal da 35ª Vara da Seção Judiciária de Minas Gerais, que deu prosseguimento à Ação Penal 41276-04.2014.4.01.3800,  ..  mesmo diante da hipótese prevista no artigo 395, inciso III, do Código de Processo Penal, qual seja, a ausência de justa causa, caracterizada pela inexigibilidade de se punir a cobrança de tributos afetados pela decadência do lançamento de crédito tributário (fl. 739).
+Aduz que  ..  o cerne da discussão travada no aludido remédio constitucional reside na manifesta ausência de justa causa para a persecução criminal, tendo em vista: i) a constituição dos créditos tributários supostamente sonegados ter sido atingida pelo decurso do prazo decadencial qüinqüenal, para que o fisco efetuasse o lançamento de ofício substitutivo, a teor do que prescreve o art. 173, I, do Código Tributário Nacional; ii) a inexistência de tipificação do crime material previsto no art. 1º, I, da Lei n. 8.137/1990, imputado ao ora recorrente, uma vez que não há crédito tributário a ser cobrado deste, consoante aponta o Enunciado 24 da Súmula Vinculante do Supremo Tribunal Federal; motivos pelos quais a pretensão punitiva estatal está fulminada. Desse modo, o trancamento da ação penal em questão, com a conseqüente absolvição sumária do recorrente, é medida que se impõe (fl. 740).
+Requer seja conhecido e provido o presente recurso  ..  para determinar - reconhecida a ausência de justa causa - o trancamento da Ação Penal n. 41276-04.2014.4.01.3800 em trâmite perante o Juízo Federal da 35ª Vara da Seção Judiciária de Minas Gerais, com a conseqüente absolvição sumária do recorrente (fl. 761).
+Liminar indeferida (fls. 795/797).
+Informações prestadas (fls. 800/808), o Ministério Público Federal ofereceu parecer pelo não provimento do recurso (fls. 812/816).
+É o relatório.
+De pronto, verifica-se que a matéria ventilada no presente feito não pode ser analisada aqui e agora, tendo em vista que a irresignação não foi analisada pelo Tribunal de origem no acórdão ora combatido, fato que obsta a apreciação do tema por esta Corte Superior de Justiça, sob pena de indevida supressão de instância.
+Ademais, as informações obtidas na página eletrônica do Tribunal de origem dão conta de que em 22/6/2018, nos autos da Ação Penal n. 41276-04.2014.4.01.3800, foi proferida sentença condenando o recorrente.
+Com efeito,  ..  a jurisprudência do Supremo Tribunal Federal e desta Corte Superior de Justiça consolidaram o entendimento de que a superveniência de sentença penal condenatória inviabiliza a apreciação da alegação de ausência de justa causa e de atipicidade da conduta em sede mandamental (Precedentes) (AgRg no RHC n. 73.975/RO, Ministro Felix Fischer, Quinta Turma, DJe 26/5/2017 - grifo nosso).
+Ante o exposto, não conheço do recurso em habeas corpus.
+Publique-se.
