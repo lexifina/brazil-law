@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu o recurso especial interposto por UNIMED RIO COOPERATIVA DE TRABALHO MÉDICO DO RIO DE JANEIRO LTDA. O apelo extremo, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO. PLANO DE SAÚDE. ALIENAÇÃO DE CARTEIRA. REDUÇÃO REDE CREDENCIADA. DANOS MORAIS. MORTE DA BENEFICIÁRIA. EXTINÇÃO, SEM JULGAMENTO DO MÉRITO. SENTENÇA ANULADA. INTERESSE DE AGIR. ART. 515, §3º, CPC. RECURSO PARCIALMENTE PROVIDO.
+1 - Recurso interposto contra a sentença que reconheceu a carência superveniente dos pedidos, julgando extinto o feito sem resolução do mérito, com fundamento no art. 267, VI, do CPC/73.
+2 - Possibilidade de aplicação do art. 515, §3º, CPC/73. Causa madura para julgamento.
+3 - Inegável o prejuízo dos consumidores com a alienação da carteira de clientes à Unimed Rio, que não manteve a mesma rede credenciada. Responsabilidade da ré, que deverá manter a mesma qualidade dos serviços prestados pela Golden Cross.
+4 - Hipótese concreta que ultrapassa os limites do mero aborrecimento, uma vez que não houve comunicação sobre descredenciamento. Danos morais configurados.
+5 - O valor da indenização tem por finalidade impor o fator desestimulante ou sancionatório para a ausência de prudência da ré, que deu causa a situação ocorrida com o autor, sendo cabível a fixação em R$ 15.000,00, aplicando-se no caso os princípios da razoabilidade e da proporcionalidade.
+6 - Recurso parcialmente provido" (fl. 861 e-STJ).
+No recurso especial, a recorrente alegou violação do art. 927 do Código Civil.
+Sustentou, em síntese, que o mero inadimplemento contratual não enseja a reparação por dano moral.
+Com as contrarrazões e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O Tribunal de origem ao dirimir a controvérsia concluiu pela caracterização do dano moral, haja vista a ausência de comunicação sobre a redução da rede credenciada, nos seguintes termos:
+"(..) evidenciada está a frustração do contratante consumidor, quanto às legítimas expectativas oriundas do contrato firmado entre as partes, assim como a conduta desprovida de boa-fé da operadora de plano de saúde, que deixou de notificar aos usuários de seu plano de saúde e, em especial à autora, o descredenciamento do Hospital Albert Einstein e Laboratório Fleury, descumprindo o disposto no art. 17, § 1º, da Lei n.º 9.656/98, que trata de norma pertinente à informação ao consumidor:
+(..)
+Por oportuno e fazendo remissão a julgado do Superior Tribunal de Justiça (RECURSO ESPECIAL Nº 1.144.940/SP, Rel. Min. NANCY ANDRIGHI, DJe 11/04/2012), no tópico referente ao descredenciamento de médicos e hospitais, cumpria à ré, enquanto administradora de plano de saúde, atuar diligentemente e embasada em uma "boa-fé qualificada", que se traduz no dever de informação adequada e individual a cada um dos usuários de seus serviços, a fim de que, no caso específico dos autos, o consumidor ciente do descredenciamento ocorrido, pudesse sopesar a sua permanência ou não no plano de saúde, se haveria o cumprimento de suas expectativas em relação ao objeto contratado, o que se logrou denominar "consentimento informado" ou "vontade qualificada". Veja-se, a propósito, trecho extraído do mencionado v. Acórdão:
+(..)
+Se, por um lado, não se pode impedir que a operadora busque, no desenvolvimento de suas atividades, o aprimoramento de sua prestação de serviços e o melhor custo benefício, nem se possa exigir que os estabelecimentos prestadores de serviços de saúde permaneçam a ela vinculados por tempo indeterminado, por outro lado, o seu usuário deve ser informado, no decorrer da relação contratual, sobre a substancial alteração da rede referenciada, e, em substituição, deve-lhe ser disponibilizado estabelecimento hospitalar ou clínicas com qualidades equivalentes, o que, na hipótese dos autos, não comprovou a ré ter feito. Tudo consoante determinam o art. 17, § 1º, da Lei n. 9.656/98 e os arts. 6º, III, e 46, ambos do CDC.
+Não se deve desconsiderar, também, que a análise da rede conveniada (médicos, clínicas, laboratórios e hospitais) foi fator preponderante para a contratação do plano de saúde oferecido pela operadora.
+Ademais, se a própria corré Unimed enfrenta problemas quando se depara com pedido de descredenciamento formulado subitamente por estabelecimentos de saúde conveniados - que lhe prestam serviços há muitos anos - que dirá o usuário, que, acreditando poder usufruir da prestação de serviços de determinado hospital, laboratório, ou clínica médica, constantes da rede referenciada, no momento da contratação do plano, vê-se repentinamente desamparado quando mais necessita, frustrado quanto às expectativas criadas em torno do objeto contratado (cuidados e proteção a sua saúde e à vida).
+V) A conduta da operadora, no caso concreto, ao deixar a beneficiária sem atendimento médico em nosocômio a que sempre se dirigia, especialmente em caso de emergência, violou frontalmente o princípio básico da boa-fé objetiva, que rege todas as relações contratuais, e exige a observância dos deveres laterais de segurança, lealdade, ampla informação, etc, não podendo tal situação ser entendida como mero aborrecimento.
+Sob essa ótica, resta clara a frustração e o abalo moral da beneficiário que é impedida de realizar o acompanhamento médico em razão do súbito descredenciamento do Hospital Albert Einstein. Pior, a autora somente tomou conhecimento do fato por meio do atendente do hospital, que se viu impedido de autorizar seu atendimento" (fls. 864/869 e-STJ).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7/STJ.
+Registra-se, ainda, que, consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a", quanto pela alínea "c" do permissivo constitucional.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO EM RECURSO ESPECIAL. EXECUÇÃO. CONCURSO ESPECIAL. PREFERÊNCIA. PENHORA. SUB-ROGAÇÃO. EXISTÊNCIA. INVERSÃO DO JULGADO. SÚMULA 7/STJ. ALÍNEA C. APLICABILIDADE. AGRAVO IMPROVIDO.
+1. A inversão quanto às conclusões do acórdão recorrido de que teria se efetivado a penhora nos autos e de que houve decisão no concurso especial de credores, demandaria revolvimento de aspectos fático-probatórios, procedimento vedado pelo óbice da Súmula 7/STJ.
+2. Segundo a pacífica orientação jurisprudencial desta Corte Superior, o óbice da Súmula 7/STJ impede o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional.
+3. Agravo a que se nega provimento" (AgRg no AREsp nº 539.292/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 5/3/2015, DJe 16/3/2015).
+Por fim, o dissídio jurisprudencial não restou caracterizado nos moldes legal e regimental, diante da ausência de similitude fática entre as decisões confrontadas. O acórdão recorrido trata de descumprimento do disposto no art. 17, § 1º, da Lei nº 9.656/1998, norma pertinente à informação ao consumidor, em caso de emergência, enquanto que o acórdão paradigma não apresenta tais peculiaridades.
+A propósito:
+"AGRAVO REGIMENTAL. RECURSO ESPECIAL DIVERGÊNCIA JURISPRUDENCIAL. ACÓRDÃO DO MESMO TRIBUNAL. SÚMULA N. 13/STJ. AUSÊNCIA DE SIMILITUDE FÁTICA E COTEJO ANALÍTICO. (..)
+1. A admissibilidade de recurso especial fundado na alínea "c" do permissivo constitucional pressupõe que tribunais distintos tenham interpretado um mesmo tema de maneira divergente. Súmula n. 13/STJ.
+2. A transcrição do inteiro teor dos julgados tidos como divergentes é insuficiente para a comprovação de dissídio pretoriano viabilizador do recurso especial. (..)"
+(AgRg no REsp 1068737/DF, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 16/04/2009, DJe 27/04/2009).
+"AGRAVO REGIMENTAL. RECURSO ESPECIAL. DIREITO DE FAMÍLIA. ART. 557 DO CPC. PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. VIOLAÇÃO NÃO CONFIGURADA. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COMPROVAÇÃO. (..)
+3. Para a demonstração do dissídio pretoriano, na forma exigida pelos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ, são necessários a similitude fática e o cotejo analítico entre os acórdãos confrontados, que não se satisfaz com a mera transcrição de ementas dos arestos indicados como paradigmas. (..)."
+(AgRg nos EDcl no REsp 805.265/AL, Rel. Ministro Vasco Della Giustina, Desembargador Convocado do TJ/RS, Terceira Turma, julgado em 14/09/2010, DJe 21/09/2010).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de tratar dos honorários recursais (art. 85, § 11, do CPC/2015) devido à ausência de prévia fixação na origem (fl. 797 e-STJ).
+Publique-se.
+Intimem-se.
