@@ -1,0 +1,12 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Instituto Nacional do Seguro Social – INSS contra acórdão que, confirmado em sede de embargos de declaração pela Terceira Turma Recursal dos Juizados Especiais Federais de Pernambuco, está assim ementado:
+    “CONSTITUCIONAL E PREVIDENCIÁRIO. SEGURO ESPECIAL. APOSENTADORIA POR INVALIDEZ OU AUXÍLIO- -DOENÇA. INCAPACIDADE DECORRENTE DE ACIDENTE DE TRABALHO. COMPETÊNCIA DA JUSTIÇA FEDERAL. PRECEDENTE DA TERCEIRA TURMA. RECURSO PROVIDO. SENTENÇA ANULADA.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o órgão judiciário de origem teria transgredido o preceito inscrito no art. 109, I, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, ao julgar o RE 638.483-RG/PB, Rel. Min. CEZAR PELUSO, reconheceu existente a repercussão geral da matéria constitucional igualmente versada na presente causa e reafirmou a jurisprudência desta Corte sobre o tema, proferindo decisão consubstanciada em acórdão assim ementado:
+    “RECURSO. Extraordinário. Competência para processar e julgar. Benefícios previdenciários. Acidentes de trabalho. Repercussão geral reconhecida. Precedentes. Reafirmação da jurisprudência. Recurso provido. Compete à Justiça Comum Estadual processar e julgar as causas relativas ao restabelecimento de benefícios previdenciários decorrentes de acidentes de trabalho.”
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária diverge da diretriz jurisprudencial que esta Suprema Corte estabeleceu – e reafirmou – na matéria em referência.
+    Impõe-se observar, ainda, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 792.266/RS, Rel. Min. ROBERTO BARROSO – RE 770.733/RS, Rel. Min. TEORI ZAVASCKI, v.g.).
+    Sendo assim, e pelas razões expostas, ao apreciar o presente agravo, dou provimento ao recurso extraordinário a que ele se refere, por estar o acórdão recorrido em confronto com entendimento emanado do Plenário desta Suprema Corte (CPC, art. 932, V, “b”), em ordem a reconhecer a competência da Justiça Estadual para processar e julgar a causa.
+    Publique-se.
+    Brasília, 03 de agosto de 2018.
+Ministro CELSO DE MELLO
+Relator
