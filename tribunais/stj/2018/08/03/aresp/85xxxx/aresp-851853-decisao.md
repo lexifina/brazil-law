@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra decisão do Tribunal de Justiça de São Paulo, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e desafia acórdão assim ementado (e-STJ fl. 75):
+Acidente do Trabalho - Embargos à execução - Cumulação de benefícios - Apreciação do tema - Impossibilidade - Ausência de alegação no momento oportuno - Eficácia Preclusiva da Coisa julgada - Inteligência do art. 474, do Código de Processo Civil.
+Acidente do Trabalho - Embargos à execução - Auxílio - acidente concedido judicialmente, sem caráter vitalício - Reapreciação do tema - Inadmissibilidade - Coisa julgada.
+Os embargos de declaração foram rejeitados. Destaco a ementa do julgado (e-STJ fl. 94):
+Embargos de Declaração - Obscuridade - Inocorrência - Fundamentação suficiente - Propósito infringente - Rejeição.
+No especial obstaculizado, o recorrente aponta desrespeito ao art. 535 do CPC/73, por omissão do acórdão em analisar os vícios apontados nos declaratórios, especialmente a impossibilidade de cumulação "dos benefícios auxílio-doença, concedido administrativamente no curso da ação de conhecimento, com o auxílio-acidente deferido pela decisão judicial que se executa" (e-STJ fl. 103).
+Alega, ainda, violação ao disposto no art. 86, § 2º, da Lei 8.213/91, no art. 884 do Código Civil e nos arts. 741, II e V, e 743, I, ambos do Código de Processo Civil de 1973. Para tanto, aduz que "a norma do parágrafo 2º, do art. 86, da Lei 8.213/91, com a redação dada pela Lei 9.527, não deixa sombra de dúvida de que o beneficio auxílio-acidente não pode ser pago cumulativamente com o beneficio auxílio-doença, pois o aludido parágrafo 2º prevê expressamente que o termo inicial do citado beneficio é o dia imediatamente seguinte à data da cessão do auxílio-doença" (e-STJ fl. 104). Acrescenta que "não se trata, pois, de negar vigência à coisa julgada  ..  pois mencionado benefício será restabelecido após a cessação do auxílio-doença" (e-STJ fl. 105).
+As contrarrazões foram apresentadas às e-STJ fls. 108/116.
+O recurso não foi admitido em razão da incidência da Súmula 7 do STJ e diante da ausência de violação ao disposto no art. 535 do CPC/73 (e-STJ fls. 118/119).
+Na presente irresignação, o agravante refuta os fundamentos da decisão agravada alegando que o recurso não busca a discussão de matéria fática, mas a correta aplicação da legislação indicada.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feito tal esclarecimento, verifico que a pretensão recursal não merece acolhimento.
+Com efeito, ao contrário do que alega o recorrente, não há que se falar em violação do art. 535 do CPC/73, visto que a questão alegadamente omissa (impossibilidade de cumulação dos benefícios) já havia sido resolvida quando do julgamento do recurso de apelação, razão pela qual os embargos foram rejeitados. Do julgamento da apelação da Autarquia, destaco a seguinte passagem (e-STJ fls. 98/100):
+No processo de conhecimento foi estipulado, como termo inicial do auxílio-acidente, 19.05.2003, ou seja, o dia seguinte ao da cessação do auxílio-doença pago a partir de 15.08.2002. Também restou definido que aludido beneficio seria regido pela Lei nº 8.213/91, com as alterações impostas pela Lei nº 9.528/97 (cf. fls. 175/176 e 195/206 - apenso).
+Por outro lado, o auxílio-doença e a aposentadoria por invalidez foram concedidos antes do julgamento realizado por esta Colenda 17" Câmara de Direito Público (cf. 12, 15, 18 e 21 destes autos e fls. 233/240 - autos em apenso).
+Contudo, a comunicação quanto ao pagamento dos referidos beneficios foi efetivada somente no âmbito dos embargos à execução.
+Cumpre destacar que a cumulação dos beneficios e a ausência de vitaliciedade do auxílio-acidente não foram objeto de insurgência por qualquer das partes. Também não foram opostos embargos de declaração contra o v. acórdão de fls. 233/240 (apenso), que transitou em julgado em 16.04.2008 (cf. fls. 244 - autos em apenso), para suprir eventual omissão, contradição ou obscuridade sobre os temas postulados na fase de execução.
+O INSS tinha acesso às informações sobre os benefícios concedidos e, assim, deveria alegá-las no momento oportuno, qual seja, até a prolação do v. acórdão, porque anterior a ele.
+Consoante o entendimento jurisprudencial firmado pelo Colendo Superior Tribunal de Justiça, a discussão a respeito da cumulação de beneficios, no âmbito dos embargos à execução, quando o título executivo não a pronuncia, é admitida apenas quando for superveniente à formação do título executivo.
+ ..
+As partes se limitam a discutir teses jurídicas na etapa de conhecimento do processo e deixam de explorar as particularidades do caso concreto.
+Todavia, em razão da eficácia preclusiva da coisa julgada, ficam os litigantes impedidos de, na etapa de liquidação ou de execução, discutirem questões que, necessariamente, deveriam ter sido debatidas na fase de o conhecimento, a teor o disposto no art. 474, do Código de Processo Civil.
+No ponto, é reiterado o posicionamento desta Corte Superior no sentido de inexistir ofensa ao art. 535 do CPC/1973, quando o acórdão impugnado aprecia fundamentadamente a controvérsia, apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como constatado na hipótese.
+Nesse sentido:
+PREVIDENCIÁRIO. VIOLAÇÃO AO ART. 535, II, DO CPC/73. OMISSÃO. INEXISTÊNCIA. VALORES CONSIDERADOS PARA FINS DE CÁLCULO DE BENEFÍCIO PREVIDENCIÁRIO. SÚMULA 7/STJ 1. Como afirmado na decisão agravada, verifica-se não ter ocorrido ofensa ao art. 535, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Ademais, inarredável a aplicação do óbice previsto na Súmula 7/STJ, uma vez que a alteração das premissas fáticas adotadas pelas instâncias ordinárias, a fim de verificar se o salário-de-benefício da parte foi ou não limitado ao teto à época da concessão do benefício previdenciário, demandaria novo exame do acervo fático-probatório constante dos autos, providência incompatível com a via do recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 851.009/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 27/04/2017, DJe 09/05/2017)
+Superado esse tópico, verifico que o recurso especial do INSS também não merece provimento quando questiona a inacumulabilidade dos benefícios em questão.
+Com efeito, na ocasião do julgado recorrido, o Tribunal destacou que "em razão da eficácia preclusiva da coisa julgada, ficam os litigantes impedidos de, na etapa de liquidação ou de execução, discutirem questões que, necessariamente, deveriam ter sido debatidas na fase de o conhecimento, a teor o disposto no art. 474, do Código de Processo Civil" (e-STJ fl. 100)
+Nesse ponto, o entendimento do Tribunal de Justiça de São Paulo não diverge da jurisprudência do Superior Tribunal de Justiça, no sentido de não ser possível, em sede de execução de sentença, alegar matéria que deveria ter sido discutida no processo de conhecimento.
+Ilustrativamente:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. AUXÍLIO-ACIDENTE. CUMULAÇÃO COM APOSENTADORIA. EXECUÇÃO. PRECLUSÃO DA POSSIBILIDADE DE ALEGAÇÃO, EM EMBARGOS, DE MATÉRIA QUE DEVERIA TER SIDO LEVANTADA NA FASE DE CONHECIMENTO. PROCESSO DE EXECUÇÃO. ADSTRIÇÃO AOS LIMITES DO DISPOSITIVO DO TÍTULO JUDICIAL, SOB PENA DE OFENSA À COISA JULGADA.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+2. Verifica-se que o Tribunal Regional não dissentiu dos precedentes do STJ, firmados no sentido de não ser possível, no âmbito de Execução, alegar matéria que não foi oportunamente suscitada e discutida no processo de conhecimento, em razão da preclusão e da coisa julgada.
+3. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1689930/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/10/2017, DJe 20/10/2017)
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. AUXÍLIO-ACIDENTE. COMPENSAÇÃO. EXCESSO DE EXECUÇÃO. IMPOSSIBILIDADE. COISA JULGADA. OBSERVÂNCIA.
+1. Em sede de embargos à execução, não há falar em compensação dos valores recebidos a título de auxílio-doença e auxílio-acidente se não houve essa previsão no título judicial, tendo em conta o instituto da coisa julgada.
+2. Agravo regimental a que se nega provimento.
+(AgRg no Ag 1302703/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/11/2011, DJe 28/11/2011)
+Assim, a pretensão recursal não se mostra viável.
+Por fim, não haverá arbitramento de honorários recursais, por se tratar de recurso interposto na vigência do Código de Processo Civil de 1973.
+Ante o exposto, com base no art. 253, parágrafo único, II, "b", do RISTJ, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Publique-se e intimem-se.
