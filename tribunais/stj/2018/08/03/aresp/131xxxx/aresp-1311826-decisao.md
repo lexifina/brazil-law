@@ -1,0 +1,31 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA. INVIABILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. HONORÁRIOS. MAJORAÇÃO.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+4. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo conhecido. Recurso especial não conhecido, com majoração de honorários.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por ORYZA AGROINDUSTRIAL LTDA, NEUZA [NOME] DE [NOME] [NOME] e OLICE [NOME], contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e/ou "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 06/10/2017.
+Concluso ao gabinete em: 22/06/2018.
+Ação: monitória ajuizada por CASTOLDI DIESEL LTDA - EM RECUPERAÇÃO JUDICIAL em face dos agravantes, devido ao fato de que os cheques foram devolvidos por insuficiência de fundo, na qual pleiteia o pagamento no valor de R$ 68.106,62 (sessenta e oito mil, cento e seis reais e sessenta e dois centavos).
+Sentença: acolheu parcialmente os embargos monitórios, para reconhecer a ilegitimidade passiva de [NOME] (cheques 932369, 850768, 850769, e 850770), [NOME] (cheque 932369) e Oryza Brasil Agroindustrial Importação e Exportação Ltda(cheques 850769, 850769, e 850770) e, como conseqüência, julgando extinto o processo, com fundamento no art. 267, inciso VI, do Código de Processo Civil. Condenou o embargado ao pagamento de honorários advocatícios fixados em R$5.000,00 (cinco mil reais).
+Constituiu de pleno direito os títulos ([NOME] - cheques 850768, 870769 e 850770 e Oryza Brasil Agroindustrial Importação e Exportação Ltda - cheque 932369 )e determinou que na atualização do débito incidisse a correção monetária contada do vencimento de cada título, com juros de mora a partir da citação. Ainda, condenou o embargado ao pagamento das custas e despesas processuais, bem como honorários advocatícios fixados em R$ 3.500,00 (três mil e quinhentos reais).
+Considerando que os embargantes [NOME] e Oryza Brasil Agroindustrial Importação e Exportação Ltda. decaíram de parte mínima do pedido, determinou que o embargante responderá integralmente pelas custas, despesas processuais e honorários advocatícios.
+Acórdão: deu parcial provimento ao recurso interposto por CASTOLDI DIESEL LTDA, para constituir de pleno direito os títulos emitidos por [NOME], (cheques 850768. 870769 e 850770), e o título emitido por Oryza Brasil Agroindustrial Importação e Exportação Ltda, (cheque932369), e condenar os requeridos [NOME] e Oryza Brasil Agroindustrial Importação e Exportação Ltda, ao pagamento das custas e despesas processuais, bem como honorários advocatícios que fixou em R$ 3.500,00 (três mil e quinhentos reais); e negou provimento ao recurso adesivo interposto por ORYZABRASIL AGROINDUSTRIAL IMP. EXP. LTDA, NEUZA [NOME] DECARLI [NOME], e OLICE [NOME], conforme a seguinte ementa:
+RECURSO DE APELAÇÃO E RECURSO ADESIVO - AÇÃO MONITORIA - CHEQUE PRESCRITO - CORREÇÃO MONETÁRIA E JUROS DE MORA - TERMO INICIAL - CONTA BANCÁRIA CONJUNTA - ILEGITIMIDADE DO NÃO EMITENTE DA CÁRTULA - VÍCIO ULTRA PETITA DA DECISÃO DO JUÍZO DE PISO - INEXISTÊNCIA - ART. 21, PARÁGRAFO ÚNICO, CPC - RECURSO DE APELAÇÃO PARCIALMENTE PROVIDO - RECURSO ADESIVO DESPROVIDO - SENTENÇA REFORMADA.
+Embargos de Declaração: opostos pelo embargado, foram rejeitados.
+Recurso especial: alega violação dos arts. 128, 282, incisos III e IV, 286 e 460, todos do CPC/73, bem como dissídio jurisprudencial. Sustenta que, na presente hipótese, "o pedido inicial não relata a realidade do concedido pelo juízo singular e mantido pelo Tribunal local". Assim, aduz que o Tribunal de origem, de forma equivocada, manifestou-se acerca da legitimidade passiva, bem como a respeito do reconhecimento de vício no julgado que não observou os limites do pedido.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 282, incisos III e IV, 286, todos do CPC/73, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+ - Do reexame de fatos e provas
+ Alterar o decidido no acórdão impugnado, no que se refere a análise da legitimidade das partes, no que concerne à pretensão da parte, a respeito dos cheques e dos respectivos emitentes, quanto ao interesse de agir da parte, em relação à inadimplência das partes, no que tange ao julgamento e aos limites do que foi pedido na inicial, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgRg no AREsp 353947/SC, 3ª Turma, DJe de 31/03/2014 e EDcl no Ag 1162355/MG, 4ª Turma, DJe de 03/09/2013.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 964391/SP, 3ª Turma, DJe de 21/11/2016.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados em R$ 300,00 (trezentos reais).
+Publique-se. Intimem-se.
