@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interpostos por ICATU SEGUROS S.A. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+" RECURSOS DE APELAÇÃO - AÇÃO DE COBRANÇA - SEGURO DE VIDA - CLÁUSULA DE CARÊNCIA - Ausência de informação clara e precisa ao segurado nesse sentido - CONTRATO DE ADESÃO - Cláusula restritiva de direito que deve ser redigida com clareza e em destaque, o que não ocorreu - Artigo 54, §4º do CDC - Dever da ré de pagar a indenização pactuada - Correção monetária - Matéria de ordem pública, que pode ser alterada de ofício pelo Magistrado - Termo inicial é a data da contratação da apólice de seguro, conforme entendimento consolidado pelo STJ - DANOS MORAIS - Não configuração - Ausência de demonstração de que a conduta da ré tenha ensejado ofensa intensa e duradoura ao comportamento psicológico da demandante ou a direitos personalíssimos - Não comprovada situação de sofrimento ou humilhação, justificadora da compensação - Tendo em vista que cada litigante foi, em parte, vencedor e vencido, impõe-se a sucumbência recíproca, nos termos do art. 86, CPC - Negado provimento ao recurso da ré BV FINANCEIRA e recursos dos autores e da ré ICATU SEGUROS parcialmente providos" (fl. 379 e-STJ).
+Nas razões do especial, além de dissídio jurisprudencial, a agravante alegou violação do art. 797 do Código Civil.
+Sustentou, em síntese, que o sinistro ocorreu no período de carência, conforme cláusula expressa nas condições gerais do contrato de seguro firmado entre as partes.
+Com as contrarrazões e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+ É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+O Tribunal de origem, ao dirimir a controvérsia, considerou lícita a estipulação de prazo de carência, no entanto, com base nos elementos de provas dos autos, constatou que não houve informação clara e precisa ao segurado sobre a cláusula restritiva, nos seguintes termos:
+"(..)
+Nesse diapasão, o artigo 54, §4º, da legislação consumerista, prevê expressamente que, tratando-se o prazo de carência de cláusula que impõe limitação a direito em contrato de adesão, deverá ser redigido com clareza e em destaque, a fim de que reste indubitável a informação contida, assim como seu efetivo conhecimento pelo consumidor:
+(..)
+Assim, cabia às rés demonstrarem que o segurado foi ostensivamente informado acerca da existência de período de carência, ônus do qual não se desincumbiram.
+Verifica-se da ligação a partir da qual o seguro foi contratado que a atendente explicou as coberturas previstas na apólice ao segurado de forma rápida e genérica, limitando-se a informar que no primeiro ano haveria garantia para morte acidental, e a partir do segundo ano para morte natural, sem esclarecer os conceitos ou destacar a ausência de cobertura para morte natural durante o primeiro ano da contratação.
+Depois, ao tratar com o filho do segurado, repetiu as coberturas sem mencionar a questão da carência, incluindo dentre as garantias morte acidental, natural ou por qualquer outra causa, excetuando apenas aquelas que decorram de agravamento de risco. Ainda, em momento posterior, chegou a afirmar que "não tem carência, em 24 horas já começa a vigorar para ele".
+Insta salientar que as requeridas não apresentam apólice ou documento com as condições gerais do seguro devidamente assinada pelo segurado, o que demonstraria que tomou conhecimento e concordou com seu conteúdo.
+Dessa forma, as demandadas não comprovaram que cumpriram sua obrigação de informar o consumidor acerca das cláusulas restritivas de forma clara e precisa, não sendo suficiente para demonstrar a ciência das condições contratadas a simples menção de que as condições gerais do seguro estariam disponíveis na internet, conforme já decidido por esta Corte:
+(..)
+Dessa forma, ausente prova de que o prazo de carência teria sido devidamente informado ao aderente do contrato, não se pode permitir seja oposto ao segurado e seus beneficiários, prevalecendo o dever das rés de pagar a indenização integral a que resta obrigada em caso do sinistro" (fls. 386/388 e-STJ).
+Desse modo, rever as conclusões do acórdão recorrido, para averiguar a existência ou ausência de cláusulas limitadoras e abusivas, demandaria à análise das cláusulas contratuais, cujo revolvimento é inviável em sede de recurso especial, diante do que dispõem as Súmulas nºs 5 e 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO DE VIDA. CONTRATO DE SEGURO. MORTE NATURAL. ALEGAÇÃO DE INEXISTÊNCIA DE COBERTURA SECURITÁRIA NA APÓLICE. INCIDÊNCIA DOS ÓBICES DAS SÚMULAS 5 E 7/STJ. AGRAVO NÃO PROVIDO.
+1. Esta Corte Superior já firmou entendimento de que, nos contratos de adesão, as cláusulas limitativas ao direito do consumidor não são, por si sós, ilegais, devendo-se analisar, em cada caso, se foram escritas com clareza e destaque que permitam a exata ciência do seu conteúdo.
+2. No caso dos autos, a Corte de origem, analisando o acervo fático-probatório, principalmente o contrato firmado entre as partes, concluiu que a cláusula limitativa, que estabelece cobertura apenas de morte acidentária, afastando a morte natural, não foi redigida com destaque, de modo que não foram prestados ao segurado os necessários esclarecimentos atinentes às informações acerca do que seja seguro de vida de acidente pessoal ou por morte natural, fato gerador do evento de natureza externa ou interna, mormente porque se trata de contrato adesivo, celebrado com pessoa idosa, com mais de 70 anos de idade.
+3. Dessa forma, nos termos da jurisprudência desta Corte, dissentir do entendimento cristalizado no âmbito da instância originária no sentido de que a cláusula, no caso concreto, possui caráter abusivo, revela-se inviável, haja vista o teor das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+4. Agravo interno ao qual se nega provimento."
+(AgRg no AREsp 309.669/BA, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16/02/2017, DJe 07/03/2017)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento - fl. 257 e-STJ) sobre o valor da condenação (R$ 20.000,00 - indenização de seguro de vida), os quais devem ser majorados para 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
