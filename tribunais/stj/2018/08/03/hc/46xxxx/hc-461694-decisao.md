@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça do Rio Grande do Sul (Agravo em Execução n. 039074465201782170000) - fl. 76:
+AGRAVO EM EXECUÇÃO. RECURSO MINISTERIAL. DECISÃO QUE, EM FACE DA PRÁTICA DE FALTA GRAVE E DE DIVERSAS VIOLAÇÕES ÀS REGRAS DO MONITORAMENTO ELETRÔNICO. DEIXA DE IMPOR A REGRESSÃO DE REGIME. POR JULGAR SUFICIENTE AS DEMAIS SANÇÕES APLICADAS. CASO CONCRETO EM QUE A REGRESSÃO AO REGIME FECHADO SE REVELA NECESSÁRIA, ADEQUADA E PROPORCIONAL, DE MODO QUE
+VAI IMPOSTA. Recurso ministerial provido.
+Alega-se na impetração que o paciente, no período em que foi considerado foragido, não se envolveu em qualquer delito ou ocorrência policial, o que demonstra que, apesar de dever estar sob vigilância, apresenta plena possibilidade de retorno ao convívio social, tornando-se absolutamente desproporcional o reconhecimento da falta grave e a aplicação dos consectários legais, nos termos em que aplicados na decisão proferida pelo Eg. Tribunal de Justiça do Estado do Rio Grande do Sul. Aduz, ainda, que a regressão de regime não é corolário obrigatório do reconhecimento da prática de falta grave (fl. 3).
+Requer a concessão da ordem para que seja alterada a data-base para a concessão de futuros benefícios, bem como afastada a determinação de regressão de regime.
+É o relatório.
+As teses trazidas na impetração não encontram acolhida na jurisprudência desta Corte, incidindo ao caso a Súmula 534/STJ, verbis:
+A prática de falta grave interrompe a contagem do prazo para a progressão de regime de cumprimento de pena, o qual se reinicia a partir do cometimento dessa infração. (Súmula 534/STJ)
+Por outro lado, a determinação de regressão de regime contém ampla e suficiente fundamentação (fl. 80):
+O apenado cumpre pena total de vinte (28) anos de reclusão, por roubo bimajorado e latrocínio, possuindo elevado saldo de pena a cumprir, mais de dezesseis (16) anos. E ele cometeu diversas violações das regras de monitoração eletrônica, na última oportunidade vindo a deixar de descarregar totalmente a bateria do equipamento, passando à condição de foragido, só sendo capturado dias depois, em abordagem de rotina, pela Brigada Militar. Tenho que tais circunstâncias, demonstram sua inaptidão a cumprir pena no regime semiaberto, ao menos por ora, de modo que vai imposta a regressão ao regime fechado.
+ A propósito, vejamos, ainda, os precedentes desta Corte:
+AGRAVO REGIMENTAL. HABEAS CORPUS. EXECUÇÃO. FALTA GRAVE. INTERRUPÇÃO DO LAPSO PARA A PROGRESSÃO DE REGIME. POSSIBILIDADE. ENTENDIMENTO DA TERCEIRA SEÇÃO DESTA CORTE (ERESP N. 1.133.804/RS E 1.176.486/SP). 1. O cometimento de falta grave no curso da execução implica a interrupção do cômputo do tempo para a concessão de benefícios, salvo livramento condicional, indulto e comutação de pena (EREsp n.1.176.486/SP). Perda dos dias remidos limitada a 1/3. 2. Agravo regimental improvido. (AgRg no HC 268.073/SP, de minha relatoria, Sexta Turma, DJe 13/05/2013)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. DESCABIMENTO. EXECUÇÃO PENAL. PACIENTE CONDENADO AO REGIME ABERTO, SUBSTITUÍDA A PENA PRIVATIVA POR RESTRITIVA DE DIREITOS. COMETIMENTO DE NOVO DELITO NO CURSO DA EXECUÇÃO. PRISÃO PREVENTIVA DECRETADA. REGRESSÃO A REGIME MAIS RIGOROSO QUE O FIXADO NA SENTENÇA. POSSIBILIDADE. ART.
+118, I, DA LEI N. 7.210/84. OFENSA À COISA JULGADA. INOCORRÊNCIA.
+AUSÊNCIA DE ILEGALIDADE. HABEAS CORPUS NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado. 2. De acordo com o entendimento do Superior Tribunal de Justiça, o cometimento de crime doloso no curso da execução caracteriza falta grave conforme disposto no art. 52 da Lei de Execução Penal - LEP, sendo prescindível que haja sentença condenatória transitada em julgado.
+3. O cometimento de falta grave ou de crime doloso, no curso da execução da pena, autoriza a regressão do regime de cumprimento de pena do reeducando, mesmo que seja estabelecido de forma mais gravosa do que a fixada na sentença condenatória (LEP, art. 118, I), não havendo falar em ofensa a coisa julgada.
+4. Habeas corpus não conhecido.
+(HC n. 364.401/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 5/4/2017)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
