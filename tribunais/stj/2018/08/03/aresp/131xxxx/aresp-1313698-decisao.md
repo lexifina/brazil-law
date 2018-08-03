@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo desafiando decisão da Vice-Presidência do Tribunal Regional Federal da 4ª Região, que não admitiu recurso especial com base na conformação do acórdão recorrido com a jurisprudência do STJ (Súmula 83/STJ) e, ainda, sob o fundamento de ausência de prequestionamento quanto à tese de ser dever do credor de mitigar o próprio prejuízo.
+Neste agravo, a recorrente sustenta, em síntese, que o prolator da decisão agravada enfrentou, indevidamente, o próprio mérito recursal, ferindo a competência desta Corte, não sendo o caso de incidência da Súmula 83/STJ.
+Aduz o efetivo prequestionamento dos dispositivos citados como violados, não sendo, pois, o caso de aplicação das Súmulas 282 e 256/STF e 211/STJ.
+É o relatório.
+Inicialmente, não procede a alegação da agravante de que a instância de origem, ao realizar o juízo de admissibilidade do recurso especial, usurpou a competência do Superior Tribunal de Justiça. Isso porque, nos termos da Súmula 123/STJ ("A decisão que admite, ou não, o recurso especial deve ser fundamentada, com o exame dos seus pressupostos gerais e constitucionais."), é atribuição do Tribunal a quo, naquele momento processual, analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia. Confiram-se, nesse mesmo sentido, os seguintes precedentes: RCDESP no AREsp 211.716/SP, Rel. Ministro Raul Araújo, Quarta Turma DJe 25/9/2012; AgRg no Ag 1.424.298/MG, Rel. Ministro Humberto Martins, Segunda Turma, DJe 27/10/2011; AgRg no Ag 1.147.395/SP, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 12/11/2010; e AgRg no Ag 1.134.224/SP, Rel. Ministro Castro Meira, Segunda Turma, DJe 2/2/2010.
+Relativamente às teses de ilegitimidade da parte, proporcionalidade da gratificação e não incidência de correção monetária e juros, o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois não foram impugnados os motivos adotados pela Corte a quo para negar trânsito ao apelo especial.
+Tendo em conta que em relação aos referidos temas o recurso especial foi inadmitido tendo por base a Súmula 83/STJ, caberia à recorrente demonstrar que o entendimento jurisprudencial nesta Corte não está pacificado no mesmo sentido do acórdão recorrido, ou, ainda, que o precedente não se aplicaria ao caso dos autos. Nesse sentido: AgRg no REsp 1.254.077/SP (Rel. Ministro Humberto Martins, Segunda Turma, DJe 11/11/2011).
+A propósito:
+DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. INADMISSIBILIDADE DO RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE ESTÁ CONSOANTE JURISPRUDÊNCIA REITERADA DESTA CORTE. ÓBICE DA SÚMULA 83/STJ. AUSÊNCIA DE IMPUGNAÇÃO AO FUNDAMENTO ADOTADO. SÚMULA 182/STJ. INCIDÊNCIA.
+1. É inviável o agravo em recurso especial que deixa de atacar, de modo específico, os fundamentos adotados pelo Tribunal de origem para negar trânsito ao apelo especial. Incidência, por analogia, da Súmula 182 do STJ.
+2. Inadmitido o recurso especial diante do óbice contido na Súmula 83/STJ, cabe à parte agravante demonstrar que o entendimento jurisprudencial não está pacificado no mesmo sentido do acórdão recorrido, ou, ainda, que os precedentes indicados não se aplicariam ao caso dos autos.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 311.649/MA, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 28/8/2017 - grifos nossos)
+PROCESSUAL CIVIL. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE PROCESSAMENTO DO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+I - O Tribunal de origem, ao negar seguimento ao recurso especial, aplicou o óbice dos enunciados n. 7 e 83 da Súmula do STJ. No entanto, os agravantes limitaram-se a alegar a usurpação da competência do STJ, bem como reiteraram os fundamentos do recurso especial, omitindo-se da tarefa de infirmar as razões que levaram o Tribunal de origem a negar seguimento ao recurso especial, sendo então aplicado o óbice do enunciado n. 182 da Súmula do STJ.
+II - Inadmitido o recurso especial com base nos enunciados n. 7 e 83 da Súmula do STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles, bem como demonstrar a ausência de revolvimento fático-probatório.
+III - Agravo interno improvido.
+(AgInt no AREsp 961.028/RS, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 24/3/2017 - grifos nossos).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do recurso especial para que se conheça do respectivo agravo. Logo, a Súmula 182 desta Corte foi corretamente aplicada ao caso.
+2. Inadmitido o recurso especial com base na Súmula 83 do STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 905.415/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 21/9/2016 - grifos nossos).
+Incide, desse modo e por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Por sua vez, a tese relativa a "ser dever do credor mitigar o próprio prejuízo" não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Diante do exposto, nego provimento ao agravo.
+Publique-se.
