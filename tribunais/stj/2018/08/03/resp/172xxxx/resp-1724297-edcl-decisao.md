@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos à decisão de fls. 205/207 (e-STJ), por meio da qual dei provimento ao recurso especial "para reformar em parte o acórdão recorrido, majorando os honorários advocatícios devidos pelo recorrido ao patrono da recorrente para o equivalente a 10% (dez por cento) do proveito econômico obtido com a demanda (R$ 95.421,60, conforme alegado no recurso de apelação interposto pelo aqui recorrente  e-STJ, fl. 117  e não impugnado pelo recorrido, a despeito de sua regular intimação para responder ao recurso  e-STJ, fl. 119 )".
+Segundo o embargante, a decisão omite-se no exame do proveito econômico obtido pelo ora embargado. Seus argumentos vêm deduzidos nos seguintes termos (e-STJ, fl. 212/213):
+3. Uma vez que a Decisão embargada permitiu-se conhecer de matéria constante do recurso de apelação, compulsando os autos em busca das contrarrazões e da certidão de fl. 119, não se afasta do razoável entender que essa Relatoria deixou de observar que a Cédula de Produtor Rural, no valor de R$ 95.421,60, foi emitida por [NOME] e garantida, por meio de aval, por [NOME], esposa do Recorrente (veja Apelação, e-STJ fl. 114), sendo essa a omissão que se pretende seja sanada por meio dos presentes embargos.
+4. Ora, se acaso o Recorrente tivesse que arcar sozinho com a dívida, o que se diz apenas para argumentar, teria ele direito de regresso em face dos demais devedores solidários.
+5. Assim, deve a Decisão embargada manifestar-se e reconhecer que existem outros dois devedores solidários, informação também constante da apelação do Recorrente, o que levará à constatação, com natural efeito infringente, de que o proveito econômico não é o declarado, mas sim 1/3 (um terço) daquele valor. Para tanto, não se faz necessária qualquer impugnação, mas tão somente uma operação matemática.
+É o relatório.
+Decido.
+O pedido declaratório não comporta acolhida.
+Como demonstrado na decisão embargada, o valor do proveito econômico foi alegado nas razões de apelação (e-STJ, fl. 117) e, a despeito de regularmente intimada para fazê-lo (e-STJ, fl. 119), a ora embargante não respondeu ao recurso, deixando de impugnar esse argumento. De igual modo, o mesmo valor foi afirmado nas razões do recurso especial (e-STJ, fls. 159/161), todavia não impugnado por meio de contrarrazões (e-STJ, fl. 165). Trata-se, portanto, de questão incontroversa.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
