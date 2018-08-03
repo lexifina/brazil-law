@@ -1,0 +1,21 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO EM MANDADO DE SEGURANÇA. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. ACORDO. HOMOLOGAÇÃO POR SENTENÇA. POSTERIOR DESCUMPRIMENTO. IMPOSSIBILIDADE DE ANULAÇÃO PELA VIA DA APELAÇÃO. MANEJO DO WRIT NA ORIGEM. INDEFERIMENTO LIMINAR. ARBITRARIEDADE OU TERATOLOGIA NÃO CONSTATADAS. AUSÊNCIA DO DIREITO LÍQUIDO E CERTO ALEGADO. RECURSO A QUE SE NEGA PROVIMENTO.
+DECISÃO
+LEDOALDO ANTONIO SANTOS e CLARINDO TAVARES DA SILVA (LEDOALDO E CLARINDO) interpuseram recurso ordinário em mandado de segurança contra acórdão do Tribunal de Justiça do Paraná que manteve o indeferimento liminar da petição inicial e negou a segurança lá requerida em acórdão com ementa de seguinte teor:
+AGRAVO REGIMENTAL. INDEFERIMENTO DA PETIÇÃO INICIAL DE MANDADO DE SEGURANÇA IMPETRADO CONTRA ACÓRDÃOS PROFERIDOS POR ÓRGÃO FRACIONÁRIO DO TRIBUNAL. AUSÊNCIA DE TERATOLOGIA. DECISÕES TRANSITADAS EM JULGADO. SÚMULA N. 268 DO STF. QUESTÕES (VÍCIO DE QUÓRUM DE JULGAMENTO, APLICAÇÃO DE MULTA PELO CARÁTER PROTELATÓRIO DE EMBARGOS DE DECLARAÇÃO E SUPOSTA EXISTÊNCIA DE OMISSÃO) QUE DEVERIAM TER SIDO DISCUTIDAS NA VIA RECURSAL APROPRIADA. AUSÊNCIA DE JUSTIFICATIVA RELEVANTE PARA AUTORIZAR A EXCEPCIONALIDADE DA IMPETRAÇÃO.
+RECURSO NÃO PROVIDO.
+(e-STJ, fl. nº 144).
+LEDOALDO E CLARINDO sustentaram, em suma, que o recurso ordinário foi interposto pelas seguintes razões:
+A) porque o Acórdão aqui recorrido foi proferido com ofensa ao Princípio Constitucional do Juiz Natural, considerando válido Acórdão proferido com falta de quórum, desacatando ao arti- go 4º, inciso V, ao artigo 70, inciso V, e ao artigo 87, inciso IV, do Regimento In- terno do E. Tribunal de Justiça do Estado do Paraná;
+B) porque o Acórdão aqui recorrido foi proferido mediante a falta de entrega da devida prestação jurisdicional, negando vigência ao artigo 125 do Código Civil.
+(e-STJ, fl. nº 162).
+O Ministério Público Federal opinou pelo não conhecimento do recurso, ou, quando não, pelo seu desprovimento (e-STJ, fls. nºs 197/204).
+Este, em síntese, o relatório.
+DECIDO.
+De acordo com os autos, LEDOALDO E CLARINDO impetraram mandado de segurança contra ato da 11ª Câmara Cível do Tribunal de Justiça do Paraná alegando possuírem direito líquido e certo ao exame da condição suspensiva do art. 125 do Código Civil; ao juiz natural, pelo fato de que ocorreu julgamento com vício de quorum do órgão julgador e à prestação jurisdicional.
+O Desembargador-Relator do Mandado de Segurança manteve o indeferimento do writ asseverando que (1) não havia direito líquido e certo, porque não foram constatados erros judiciais graves, uma vez que o vício de quorum foi sanado com o julgamento dos segundos embargos de declaração interpostos, desta feita julgado pelo órgão em sua composição integral; (2) a matéria de fundo envolve o mérito da apelação que foi interposta e julgada, na qual se decidiu acerca da eficácia do negócio jurídico, não sendo na via do mandado de segurança a discussão a respeito de eventual ilegalidade ou desacerto do julgado; e, (3) não ficaram demonstradas a teratologia e omissão relevantes que permitissem um juízo de convicção a respeito da possibilidade concreta de modificação do resultado da decisão judicial combatida (e-STJ, fl. nº 156).
+A transcrição revela, portanto, que não havia mesmo nenhuma situação excepcional que justificasse o cabimento do mandado de segurança, pois a decisão judicial proferida não era absurda ou teratológica.
+Ademais, como salientado no parecer do Ministério Público Federal, o fundamento utilizado na decisão recorrida - incidência da Súmula 268/STF - não foi devidamente impugnado nas razões do recurso ordinário, porque os recorrentes se limitaram, como transcrito no relatório, se limitaram a atacar o ato coator originário, o que, longe de configurar impugnação específica à fundamentação do v. acórdão recorrido, não passa de mera repetição das teses deduzidas na inicial do "writ" (e-STJ, fl. nº 200).
+Nessas condições, NEGO PROVIMENTO ao recurso ordinário em mandado de segurança, acolhendo o parecer do Ministério Público Federal.
+Advirta-se, desde já, que eventual recurso contra esta decisão estará sujeito a multa (arts. 1.021, § 4º, e 1.026, § 2º, do NCPC).
+Publique-se.
