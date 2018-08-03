@@ -1,0 +1,18 @@
+EMENTA
+CONFLITO POSITIVO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ALIENAÇÃO FIDUCIÁRIA. BENS ESSENCIAIS À ATIVIDADE EMPRESARIAL. PRESERVAÇÃO DA EMPRESA. COMPETÊNCIA DO JUÍZO UNIVERSAL.
+1. Apesar de o credor titular da posição de proprietário fiduciário de bens móveis ou imóveis não se submeter aos efeitos da recuperação judicial, o juízo universal é competente para avaliar se o bem é indispensável à atividade produtiva da recuperanda. Nessas hipóteses, não se permite a venda ou a retirada do estabelecimento do devedor dos bens de capital essenciais à sua atividade empresarial (art. 49, §3º, da Lei 11.101/05). Precedentes.
+2. Conflito conhecido. Estabelecida a competência do juízo em que se processa a recuperação judicial.
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido liminar, suscitado por IBIA INDUSTRIA E COMERCIO DE ALIMENTOS LTDA. EM RECUPERACAO JUDICIAL em face do JUÍZO DE DIREITO DA 4ª VARA CIVEL DE APARECIDA DE GOIÂNIA - GO e do JUÍZO DE DIREITO DA 24ª VARA CÍVEL DE SÃO PAULO - SP.
+Ação em trâmite perante o Juízo de Direito da 4ª Vara Cível de Aparecida de Goiânia: processo de recuperação judicial da suscitante.
+Ação em trâmite perante o Juízo Federal da 24ª Vara Cível de São Paulo: execução de título extrajudicial.
+Conflito de competência: a suscitante sustenta, em síntese, que, uma vez concedida a recuperação judicial da empresa, não é dado ao juízo cível diverso promover atos que impliquem restrição a seu patrimônio.
+Pedido Liminar: foi deferido a fim de suspender a prática, pelo Juízo de Direito da 24ª Vara Cível de São Paulo - SP, de atos que impliquem constrição ao patrimônio das suscitantes, designando, outrossim, o Juízo onde tramita a Recuperação Judicial da suscitante para resolver, em caráter provisório, as medidas urgentes.
+Informações dos juízos suscitados: o Juízo da 24ª Vara Cível de São Paulo informou que determinou o desbloqueio dos valores penhorados e intimou a executada para que comprovasse a inclusão do crédito na recuperação judicial (e-STJ, fls. 226/228). O Juízo de Direito da 4ª Vara Cível de Aparecida de Goiânia informou que está em trâmite a recuperação judicial da empresa suscitante em fase de cumprimento do plano já aprovado (e-STJ, fls. 237/240).
+Parecer do MPF: o i. Subprocurador-Geral da República, [NOME], opina pela competência do juízo universal para prática de quaisquer atos constritivos referente à sociedade recuperanda (e-STJ, fls. 230/233).
+É O RELATÓRIO. DECIDO.
+A Segunda Seção do STJ já decidiu que apesar de credor titular da posição de proprietário fiduciário de bens móveis ou imóveis não se submeter aos efeitos da recuperação judicial, o juízo universal é competente para avaliar se o bem é indispensável à atividade produtiva da recuperanda.
+Nessas hipóteses, não se permite a venda ou a retirada do estabelecimento do devedor dos bens de capital essenciais à sua atividade empresarial (art. 49, § 3º, da Lei 11.101/05). Nesse sentido: CC 131.656/PE, julgado em 08/10/2014, DJe 20/10/2014; AgRg no CC 126.894/SP, julgado em 26/11/2014, DJe 19/12/2014 e CC 153.473, julgado em 09/05/2018, DJe de 26/06/2016.
+Dessa forma, a continuidade da constrição dos bens objeto de contrato de alienação fiduciária poderá implicar restrição de bens indispensáveis ao regular desenvolvimento das atividades da suscitante, inviabilizando o cumprimento do plano e violando o princípio de preservação da empresa.
+Forte nessas razões, CONHEÇO do conflito de competência para declarar a competência do Juízo de Direito da 4ª Vara Cível de Aparecida de Goiânia - GO para decidir acerca da prática de atos constritivos referentes aos bens objeto de contrato de alienação fiduciária.
+Publique-se. Intime-se. Oficie-se aos Juízos Suscitados.
