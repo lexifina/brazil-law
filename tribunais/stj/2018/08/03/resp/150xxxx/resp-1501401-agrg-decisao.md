@@ -1,0 +1,33 @@
+DECISÃO
+ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL APOSENTADO. COMPLEMENTAÇÃO DE PENSÕES E DE PROVENTOS DE APOSENTADORIA. FERROVIÁRIOS INATIVOS E PENSIONISTAS DA FEPASA. IPC MARÇO/1990 E ABRIL/1990. NÃO OCORRÊNCIA DA PRESCRIÇÃO DE FUNDO DE DIREITO. PRESTAÇÃO DE TRATO SUCESSIVO. SÚMULA 85 DO STJ. RECURSO ESPECIAL CONHECIDO E PROVIDO.
+1. Trata-se de Agravo Regimental interposto contra a decisão que negou seguimento ao seu Recurso Especial, por não ter a parte efetuado o pedido de extensão da assistência judiciária para a instância recursal.
+2. Pugna, a Agravante, pela reconsideração da decisão ora atacada ou a apresentação do feito à Turma Julgadora para que seja provido o Recurso Especial.
+3. É o relatório. Decido.
+4. Merecem acolhimento as alegações da parte agravante, sendo impositiva a reconsideração do decisório agravado.
+5. Isto porque a Corte Especial em 26.2.2015, no julgamento do EAREsp 86.915/SP, firmou entendimento no sentido de que uma vez concedida, a assistência judiciária gratuita prevalecerá em todas as instâncias e para todos os atos do processo, nos expressos termos do art. 9º da Lei 1.060/50. Confira-se:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. JUSTIÇA GRATUITA (LEI 1.060/50, ARTS. 4o., 6o. E 9o.). CONCESSÃO. EFICÁCIA EM TODAS AS INSTÂNCIAS E PARA TODOS OS ATOS DO PROCESSO. RENOVAÇÃO DO PEDIDO NA INTERPOSIÇÃO DO RECURSO. DESNECESSIDADE. AGRAVO PROVIDO.
+1. Uma vez concedida, a assistência judiciária gratuita prevalecerá em todas as instâncias e para todos os atos do processo, nos expressos termos do art. 9º da Lei 1.060/50.
+2. Somente perderá eficácia a decisão deferitória do benefício em caso de expressa revogação pelo Juiz ou Tribunal.
+3. Não se faz necessário para o processamento do recurso que o beneficiário refira e faça expressa remissão na petição recursal acerca do anterior deferimento da assistência judiciária gratuita, embora seja evidente a utilidade dessa providência facilitadora. Basta que constem dos autos os comprovantes de que já litiga na condição de beneficiário da justiça gratuita, pois, desse modo, caso ocorra equívoco perceptivo, por parte do julgador, poderá o interessado facilmente agravar fazendo a indicação corretiva, desde que tempestiva.
+4. Agravo interno provido, afastando-se a deserção. (AgRg nos EAREsp 86.915/SP, Rel. Min. RAUL ARAÚJO, DJe 4.3.2015).
+6. Assim, passo a análise do Recurso Especial interposto.
+7. Trata-se de Recurso Especial fundando na alínea a do art. 105, III da Constituição Federal, interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+PENSIONISTA DE EX-FERROVIÁRIO. APOSENTADO DA EXTINTA FEPASA. Pretensão voltada à extensão dos reajustes salariais do IPC de 84,93% para o mês de março/1990 e 44,80% para o mês de abril/1990 - Ocorrência da prescrição de fundo de direito - Decorrido mais de cinco anos entre a concessão dos reajustes e o ajuizamento da ação. Manutenção da sentença de improcedência.
+8. Em suas razões recursais, defende a recorrente, o afastamento da prescrição e o acolhimento da pretensão veiculada na inicial.
+9. Pois bem.
+10. Trata-se na origem de Ação Ordinária em que os Recorrentes, servidores aposentados do Estado de São Paulo, pleiteiam a declaração do direito ao recebimento das diferenças pertinentes à aplicação da correção monetária, de forma acumulada que devem ser aplicados sobre o benefício de complementação de Aposentadoria e Pensão.
+11. Contudo, a sentença julgou improcedentes os pedidos. O Tribunal de origem julgou extinto o processo ante o reconhecimento da ocorrência da prescrição do fundo de direito, considerando o transcurso do prazo quinquenal entre o ato de concessão da aposentadoria e o ajuizamento da ação.
+12. Verifica-se que o acórdão recorrido destoa do entendimento da jurisprudência desta Corte Superior de que, nos casos em que a pretensão envolve o pagamento de vantagem pecuniária, por se tratar de prestações de trato sucessivo que se renovam mensalmente, quando não tiver sido negado o próprio direito reclamado, não ocorre a prescrição do fundo de direito, mas tão somente das parcelas anteriores ao quinquênio que precedeu à propositura da ação, nos termos da Súmula 85 do STJ. A esse respeito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. FEPASA. COMPLEMENTAÇÃO DE APOSENTADORIA OU PENSÃO. PRESCRIÇÃO DO FUNDO DE DIREITO. INOCORRÊNCIA.
+1. Segundo assentado por esta Corte Superior, não há prescrição do fundo de direito nos casos em que servidores públicos aposentados ou pensionistas da extinta FEPASA buscam a complementação do benefício previdenciário. A propósito: AgRg no REsp 1.468.203/SP, Rel. Min. Mauro Campbell Marques, DJe 24.9.2014; e AgRg no REsp 1.055.666/PR, Rel. Min. Maria Thereza de Assis Moura, DJe 27.6.2012).
+2. Agravo regimental não provido (AgRg nos EDcl no REsp. 1.356.965/SP, Rel. Min. BENEDITO GONÇALVES, DJe 7.10.2015).
+
+ADMINISTRATIVO. COMPLEMENTAÇÃO DE PENSÕES E DE PROVENTOS DE APOSENTADORIA FERROVIÁRIOS INATIVOS E PENSIONISTAS DA FEPASA. IPC. MARÇO/1990 E ABRI/1990. PRESCRIÇÃO DO FUNDO DE DIREITO. NÃO OCORRÊNCIA. PRESTAÇÃO DE TRATO SUCESSIVO. SÚMULA 85/STJ.
+1. Esta Corte firmou o entendimento de que, no que tange a extensão de reajustes salariais sobre o benefício de complementação de aposentadoria, a prescrição, nos termos da Súmula 85/STJ, atinge apenas as parcelas anteriores ao quinquênio que precedeu o ajuizamento da ação. Precedentes.
+2. Agravo regimental não provido (AgRg no REsp 1510395/SP, Rel. Min. MAURO CAMPBELL MARQUES, DJe 30.6.2015).
+
+ADMINISTRATIVO. COMPLEMENTAÇÃO DE APOSENTADORIA. FEPASA. SEXTA-PARTE. PRESCRIÇÃO DO FUNDO DE DIREITO NÃO CONFIGURADA. RELAÇÃO DE TRATO SUCESSIVO. SÚMULA 85/STJ.
+1. Nos casos em que os servidores públicos aposentados e os pensionistas da extinta Fepasa buscam a complementação do benefício previdenciário, não ocorre a prescrição da pretensão ao fundo de direito, mas apenas das parcelas vencidas antes do quinquênio que precedeu o ajuizamento da ação, por incidência do disposto na Súmula 85/STJ.
+2. Recurso Especial provido para afastar a prescrição de fundo, retornando os autos à origem, para que julgue o caso como entender de direito (REsp. 1.508.994/SP, Rel. Min. HERMAN BENJAMIN, DJe 10.8.2015).
+13. Ante o exposto, dá-se provimento ao Recurso Especial a fim de afastar a prescrição do fundo de direito e determinar o retorno dos autos ao Tribunal de origem para que proceda ao julgamento do mérito do Recurso de Apelação, como entender de direito.
+14. Publique-se. Intimações necessárias.
