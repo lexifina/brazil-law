@@ -1,0 +1,33 @@
+EMENTA
+PROCESSUAL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO NA ÉGIDE DO NCPC. MEDIDA CAUTELAR INOMINADA E AÇÃO INDENIZATÓRIA EM TRÂMITE EM JUÍZOS DISTINTOS. CONTRATO DE FRANQUIA. VIOLAÇÃO AO ART. 535 DO CPC/73 INEXISTENTE. PREJUDICIALIDADE EXTERNA. PRETENSÃO RECURSAL QUE DEMANDA REVOLVIMENTO DE MATÉRIA FÁTICA E CLÁUSULA CONTRATUAL. SÚMULAS N S 5 E 7 DO STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E NESSA EXTENSÃO NEGAR-LHE PROVIMENTO.
+DECISÃO
+Da leitura da minuta de agravo de instrumento que deu origem ao presente recurso pode-se aferir que TELEMAR NORTE LESTE S.A. e outros (TELEMAR e outros) ajuizaram ação ordinária contra A.A. CASTRO COMÉRCIO E REPRESENTAÇÕES LTDA-ME ([NOME]), tendo por objeto contrato de franquia firmado entre as partes.
+[NOME] ajuizou medida cautelar inominada contra TELEMAR e outros na qual requereu o sobrestamento do feito alegando prejudicialidade externa entre as demandas.
+Foi proferida decisão indeferindo o pedido de sobrestamento do feito.
+Contra essa interlocutória [NOME] interpôs agravo de instrumento ao qual foi negado provimento conforme acórdão assim ementado:
+MEDIDA CAUTELAR INOMINADA E AÇÃO INDENIZATÓRIA EM TRÂMITE EM JUÍZOS DISTINTOS - CONTRATO DE FRANQUIA - INDEFERIMENTO DO SOBRESTAMENTO DO CURSO DA AÇÃO INDENIZATÓRIA - NÃO HÁ QUE SE COGITAR DE PREJUDICIALIDADE ENTRE AS DEMANDAS, CONSIDERANDO-SE QUE, NA AÇÃO CAUTELAR, OBJETIVAM A AGRAVANTE E DEMAIS FRANQUEADAS COMPELIR AS AGRAVADAS A SE ABSTER DE PRATICAR QUALQUER ATO QUE POSSA PRIVÁ-LAS, TOTAL OU PARCIALMENTE, DA EXCLUSIVIDADE NA ÁREA GEOGRÁFICA ONDE ATUAM, AO PASSO QUE A AÇÃO PROPOSTA PELAS FRANQUEADORAS, ORA AGRAVADAS, FUNDADA NA RUPTURA DO VÍNCULO CONTRATUAL POR FORÇA DA IN ADIMPLÊNCIA DAS FRANQUEADAS, TEM POR OBJETO A COBRANÇA DE MULTA PELO DESCUMPRIMENTO CONTRATUAL - DESPROVIMENTO DO RECURSO (e-STJ, fls. 513/514).
+Os embargos de declaração foram rejeitados (e-STJ, fls. 526/528).
+[NOME] desafiou recurso especial com base no art. 105, III, a, da CF, sob alegação de violação dos arts. 265, IV, a, e 535 do CPC/73, pelos fundamentos assim sintetizados (1) negativa de prestação jurisdicional; (2) ficou comprovada nos autos a prejudicialidade externa entre a ação principal aforada por TELEMAR e outros e a ação cautelar ajuizada pela recorrente.
+Foram apresentadas contrarrazões (e-STJ, fls. 547/555).
+O Tribunal estadual inadmitiu o apelo nobre por (1) ausência de ofensa ao art. 535 do CPC/73; (2) a pretensão recursal esbarra nas Súmulas nºs 5 e 7 do STJ;
+[NOME] ingressou com agravo em recurso especial onde alegou que (1) usurpação de competência pela Corte de origem; (2) ficou evidenciada a ofensa ao art. 535 do CPC/73; (3) não se aplicam as Súmulas nºs 5 e 7 do STJ.
+Foi apresentada contraminuta (e-STJ, fls. 584/593).
+É o relatório.
+DECIDO
+A irresignação não prospera.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da alegada ofensa ao art. 535 do CPC
+Segundo A.A. CASTRO o Tribunal de origem quedou-se omisso acerca do ajuizamento da ação principal.
+Não é o que se verifica dos termos do voto condutor do aresto estadual, assim consignados:
+A r. decisão proferida não merece reparo. De fato, não há que se cogitar de prejudicialidade entre as demandas, considerando-se que, na ação cautelar, objetivam a Agravante e demais franqueadas compelir as Agravadas a se abster de praticar qualquer ato que possa privá-las, total ou parcialmente, da exclusividade na área geográfica onde atuam  fls.37 -, ao passo que a ação ordinária proposta pelas franqueadoras, ora Agravadas, fundada na ruptura do vínculo contratual por força da inadimplência das franqueadas, tem por objeto a cobrança de multa pelo descumprimento contratual e a abstenção de uso de marca comercial  fls.110, item 05 e fls.124 -, ou seja, versam sobre questões distintas. Acrescente-se, de modo a corroborar a manutenção da r. decisão impugnada, a inexistência de notícia acerca do ajuizamento da ação principal, corolário da medida cautelar inominada em debate  fls.27/28 -.
+Pelo exposto, é de se negar provimento ao recurso (e-STJ, fl. 515).
+Como se vê, não ocorreu a omissão alegada, pois o acórdão foi expresso em afirmar a inexistência de notícia acerca do ajuizamento da ação principal, corolário da medida cautelar inominada em debate.
+E embora a agravante [NOME] tenha comprovado em seus embargos de declaração o ajuizamento da ação principal corolário da medida cautelar, tal fato por si só não impõe a modificação do julgado estadual, que não reconheceu a prejudicialidade alegada por fundamento diverso, ou seja, na ação cautelar proposta pela ora agravante [NOME] e demais franqueadas se objetiva compelir as agravadas TELEMAR e outras a se absterem de praticar qualquer ato que possa privá-las, total ou parcialmente, da exclusividade na área geográfica onde atuam  fls.37 -, ao passo que a ação ordinária proposta pelas franqueadoras, TELEMAR e outras, ora Agravadas, fundada na ruptura do vínculo contratual por força da inadimplência das franqueadas, tem por objeto a cobrança de multa por descumprimento contratual.
+Não há pois que se cogitar de vício no acórdão recorrido.
+(2) Da alegada infringência ao art. 265, IV, a, do CPC/73
+No ponto, a alegação recursal de que ficou comprovada a prejudicialidade externa está suportada no fundamento assim deduzido
+Não restam dúvidas, portanto, a respeito da prejudicialidade externa invocada pela RECORRENTE, a ensejar a violação ao art. 265, IV, "a", do CPC/1973,na medida em que se procedentes as demandas tidas como prejdiciais, considerar-se-á que o contrato de franquia entre as partes estava em pleno vigor, o que ceifaria pela raiz os pedidos deduzidos pelas RECORRIDAS nos autos originários, fundamentados na premissa de que tal avença já não mais vigia entre as partes (e-STJ, fl. 537 - destaque no original)
+Sendo assim, observa-se que a revisão do acórdão recorrido à luz da argumentação deduzida no apelo especial encontra óbice nas Súmulas nºs 5 e 7 do STJ.
+Nessas condições, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e nessa extensão NEGAR-LHE PROVIMENTO.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § º do NCPC).
+Publique-se. Intimem-se.
