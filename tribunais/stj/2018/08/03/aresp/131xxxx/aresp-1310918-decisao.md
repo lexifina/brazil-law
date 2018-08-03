@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] e outro, contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Ação de indenização por danos materiais e morais prestação de serviços advocatícios preliminar afastada recurso da autora que ataca os fundamentos da sentença autora que recebeu parcela da indenização não incidência da multa prevista no artigo 940 do Código Civil e não configurada a litigância de má-fé redução da quantia a ser devolvida à autora correta retenção de 20% de honorários advocatícios contratuais, cláusula ad exitum devolução na sua totalidade que acarreta enriquecimento ilícito excede limite da lide a discussão referente a valores adiantados para ação de usucapião não ajuizada recibo assinado pela autora com clara menção de que recebeu valores referente à ação trabalhista pretensão de incidência de multa sem respaldo legal ou contratual demora no repasse de verbas de natureza alimentar danos morais configurados sentença parcialmente reformada apelações parcialmente providas" (fl. 149 e-STJ).
+No recurso especial, os recorrentes alegaram, além de divergência jurisprudencial, violação dos arts. 489 do Código de Processo Civil de 2015, 187 e 940 do Código Civil.
+Defenderam, em síntese, que o acórdão é claro quanto à intensão da recorrente de cobrar judicialmente valores já recebidos, existindo contradição no afastamento do art. 940 do Código Civil. Destacaram, ainda, que o abuso de direito é uma forma de ilícito e deve ser sancionado. Por fim, pleitearam o provimento do recurso.
+Com contrarrazões, e não admitido o recurso na origem, adveio o presente agravo.
+É o relatório.
+DECIDO.
+A insurgência não merece prosperar.
+De início, verifica-se que o acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+No mérito, o Tribunal de origem, à luz da prova dos autos, consignou expressamente a ausência de má-fé da recorrida que, antes de pleitear a cobrança pretendia obter prestação de contas, merecendo destaque o seguinte trecho:
+"(..)
+O acórdão foi claro ao afastar a aplicação do artigo 940 do Código Civil, pois inexistiu no presente caso má-fé dos autores, já que requereram expressamente na petição inicial a prestação de contas dos valores recebidos, e a devolução apenas das quantias indevidamente retidas, fl. 11" (fl. 324 e-STJ).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. EXCESSO DE EXECUÇÃO. ART. 940 DO CÓDIGO CIVIL DE 2002. MÁ-FÉ DO EXEQUENTE RECONHECIDA PELO TRIBUNAL DE ORIGEM, EM FACE DAS PROVAS DOS AUTOS. SÚMULA 7/STJ. DESNECESSIDADE DE EXISTÊNCIA DE PREJUÍZOS. PRECEDENTES DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Nos termos do art. 940 do Código Civil de 2002, "aquele que demandar por dívida já paga, no todo ou em parte, sem ressalvar as quantias recebidas ou pedir mais do que for devido, ficará obrigado a pagar ao devedor, no primeiro caso, o dobro do que houver cobrado e, no segundo, o equivalente do que dele exigir, salvo se houver prescrição".
+II. O Tribunal de origem assentou que, "se o apelado pleiteou o beneficio com restrições, não podia executar as parcelas atrasadas, que não lhe haviam sido pagas, no valor integral. Assim agindo, revelou má-fé, pleiteando mais do que lhe era devido". Assim, entender de forma contrária demandaria o reexame do conteúdo fático-probatório dos autos, o que é vedado, em Recurso Especial, nos termos da Súmula 07/STJ. (..)
+III. Por outro lado, consoante a jurisprudência do STJ, "o art. 1.531 do CC/16, mantido pelo CC/02 em seu art. 940, institui uma autêntica pena privada, aplicável independentemente da existência de prova do dano" (STJ, REsp 1.286.704/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 28/10/2013).
+IV. Agravo Regimental improvido" (AgRg no AREsp 184.460/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 26/10/2015).
+Registre-se, outrossim, que, consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+É o que se observa do seguinte julgado:
+"Recurso Especial. Civil. Responsabilidade civil. Cirurgião e anestesiologista. Recurso com fundamento nas alíneas "a" e "c" do art. 105, III, da CF. Reexame fático-probatório. Súmula 07/STJ. Incidência.
+- A constatação de ter o médico cirurgião e o anestesista agido ou não com culpa no atendimento a paciente, nas modalidades negligência, imprudência ou imperícia, demanda necessariamente o reexame do conjunto fático-probatório da causa, o que é vedado pela Súmula 7 do STJ.
+- O reexame do conjunto fático-probatório da causa obsta a admissão do recurso especial tanto pela alínea "a", quanto pela "c" do permissivo constitucional.
+- Recurso especial não conhecido" (REsp 765.505/SC, Rel. Ministra Nancy Andrighi, Terceira Turma, DJ 20/3/2006 - grifou-se).
+Por fim, importante ressaltar que, respeitados os limites fáticos do acórdão, verifica-se que o entendimento adotado na origem é compatível com a orientação jurisprudencial deste Tribunal Superior, firmada no sentido de que "o disposto no artigo 940 do Código Civil somente é aplicável quando comprovada a má-fé do credor" (AgRg no AREsp 684.907/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 04/11/2016).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento - fl. 308) sobre o valor da condenação, os quais devem ser majorados para 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
