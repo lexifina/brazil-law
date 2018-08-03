@@ -25,3 +25,4 @@ XV - simplificação da legislação de parcelamento, uso e ocupação do solo e
 XVI - isonomia de condições para os agentes públicos e privados na promoção de empreendimentos e atividades relativos ao processo de urbanização, atendido o interesse social.
 XVII - estímulo à utilização, nos parcelamentos do solo e nas edificações urbanas, de sistemas operacionais, padrões construtivos e aportes tecnológicos que objetivem a redução de impactos ambientais e a economia de recursos naturais.
 XVIII - tratamento prioritário às obras e edificações de infraestrutura de energia, telecomunicações, abastecimento de água e saneamento.
+XIX - garantia de condições condignas de acessibilidade, utilização e conforto nas dependências internas das edificações urbanas, inclusive nas destinadas à moradia e ao serviço dos trabalhadores domésticos, observados requisitos mínimos de dimensionamento, ventilação, iluminação, ergonomia, privacidade e qualidade dos materiais empregados.
