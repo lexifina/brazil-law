@@ -1,0 +1,19 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO EM MANDADO DE SEGURANÇA. MANUTENÇÃO DE BENS EM DEPÓSITO. PEDIDO DE INDENIZAÇÃO. PLEITO PENDENTE DE APRECIAÇÃO DE RECURSO. PRETENSÃO NÃO PRECLUSA. IMPETRAÇÃO DE MANDADO DE SEGURANÇA. UTILIZAÇÃO COMO SUCEDÂNEO DO RECURSO MANEJADO. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. RECURSO A QUE SE NEGA PROVIMENTO.
+DECISÃO
+ELIANE DE FÁTIMA VARELA RAMOS (ELIANE) interpôs recurso ordinário em mandado de segurança contra acórdão do Tribunal de Justiça de São Paulo que manteve a denegou a segurança, em julgado que recebeu a seguinte ementa:
+AGRAVO INTERNO - Decisão monocrática que não conheceu do mandado de segurança - Ato impetrado contra decisão monocrática que não conheceu da Reclamação interposta e da decisão do Juiz da 3ª Vara Cível do Foro Regional do Tatuapé, que rejeitou embargos de declaração - Pretensão de condenação dos ora interessados ao pagamento das despesas com a manutenção dos seus bens móveis em deposito - Impugnação em razões de apelação e em ação indenizatória, ainda não apreciadas - Direito não precluso - Violação ao direito líquido e certo individual da impetrante, não verificado - Mantido indeferimento do mandado de segurança - Agravo interno desprovido.
+(e-STJ, fl. nº 192).
+ELIANE alegou, em suma, no recurso manejado, que o acórdão recorrido infringiu normas constitucionais, mais especificamente seu direito fundamental ao acesso à Justiça, na medida em que suprimiu da apreciação do Poder Judiciário a lesão ao seu direito (e-STJ, fls. nºs 116/154).
+Ouvido, o Ministério Público Federal opinou pelo não conhecimento do recurso (e-STJ, fls. nºs 215/220).
+Este, em síntese, o relatório.
+DECIDO.
+Constata-se que ELIANE impetrou mandado de segurança contra decisão de Desembargador-Relator da 2ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo que não conheceu de reclamação lá ajuizada e ato do Juízo da 3ª Vara do Foro Regional do Tatuapé - São Paulo/SP que rejeitou embargos de declaração interpostos em ação de revisão de cláusulas contratuais que propôs.
+O Desembargador-Relator do Mandado de Segurança manteve o indeferimento do mandado de segurança
+Salientou que (1) não ficou configurada violação a direito líquido e certo de ELIANE porque sua pretensão de receber indenização pelas despesas da manutenção de seus bens em depósito não havia precluído; e, (2) o fato de tal questão ter sido alegada em incidentes e outros recursos interpostos pela impetrante e não ter sido conhecida nessas circunstâncias não abre a porta do mandado de segurança, pois ainda pendente de julgamento em dois processos, um em fase recursal, o que levou à conclusão de que o mandado de segurança impetrado foi utilizado como sucedâneo do recurso interposto, o que não se admite (e-STJ, fl. nº 193 - sem destaque no original).
+Observa-se, assim, da transcrição que não há nenhuma situação excepcional que justificasse o cabimento do mandado de segurança, pois a decisão judicial proferida não é absurda ou teratológica, bem como era passível de recurso cabível.
+Frise-se, por oportuno, que a jurisprudência desta Corte Superior de Justiça e do Supremo Tribunal Federal são firmes no sentido de que o mandado de segurança visa à proteção de direito líquido e certo contra ato abusivo ou ilegal de autoridade pública, não podendo ser utilizado como sucedâneo recursal, pena de se desnaturar a sua essência constitucional (AgRg no MS nº 17.219, Ministro GILSON DIPP, DJe de 2/2/2012).
+Ademais, como observado pelo Ministério Público Federal, em suas razões recursais, a recorrente limita-se a alegar, genericamente, a violação a princípios constitucionais, sendo até mesmo deficiente a fundamentação do recurso ordinário interposto (e-STJ, fl. nº 217).
+Nessas condições, NEGO PROVIMENTO ao recurso ordinário em mandado de segurança.
+Advirta-se, desde já, que eventual recurso contra esta decisão estará sujeito a multa (arts. 1.021, § 4º, e 1.026, § 2º, do NCPC).
+Publique-se.
