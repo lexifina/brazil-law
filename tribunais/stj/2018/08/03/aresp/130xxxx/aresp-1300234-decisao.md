@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto por COOPERATIVA DE CREDITO RURAL ALFA - SICOOB/SC CREDIALFA contra a decisão que inadmitiu o recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurgiu-se contra o acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO BANCÁRIO. SENTENÇA DE IMPROCEDÊNCIA. RECURSO DOS EMBARGANTES. EXCESSO DE EXECUÇÃO. ALEGAÇÃO PROEMIAL DE COBRANÇAS INDEVIDAS EM RAZÃO DE CLÁUSULAS ABUSIVAS PRESENTES NO CONTRATO OBJETO DA AÇÃO EXECUTÓRIA. PEDIDO DE NATUREZA MISTA. PRETENSÃO DE REVISÃO CONTRATUAL ACOPLADA AO PLEITO DE EXCESSO DE EXECUÇÃO (ART. 745, III E V, DO CPC/1973 CORRESPONDENTES AO ART. 917, III E VI DO CPC/2015). PREPONDERÂNCIA DESTE ÚLTIMO. IMPRESCINDIBILIDADE DA DECLARAÇÃO DO VALOR QUE SE ENTENDE CORRETO E APRESENTAÇÃO DA RESPECTIVA MEMÓRIA DE CÁLCULO NA EXORDIAL DOS EMBARGOS. ÔNUS DO DEVEDOR. FALTA DE INDICAÇÃO QUE, VIA DE REGRA, ACARRETA REJEIÇÃO OU NÃO CONHECIMENTO DA ARGUIÇÃO DE EXCESSO DE EXECUÇÃO. EXEGESE DO ART. 739-A, §5º, DO ANTIGO DIPLOMA INSTRUMENTAL (CORRELATO AO ART. 525, §§ 1º, 4º E 5º, DO CPC/2015). SENTENÇA OBJURGADA QUE AFASTOU O PEDIDO DE REJEIÇÃO LIMINAR DOS EMBARGOS FORMULADO PELA CASA BANCÁRIA EM SEDE DE IMPUGNAÇÃO. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO PELA INTERESSADA/EXEQUENTE. PRECLUSÃO CONSUMATIVA DO PONTO QUE IMPOSSIBILITA A APLICAÇÃO DA ORIENTAÇÃO SUPRACITADA NO CASO SUB EXAMINE. MÉRITO RECURSAL. DEFENDIDA A APLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR AO CASO. AUSÊNCIA DE INTERESSE RECURSAL. TEMA DECIDIDO NA SENTENÇA NOS EXATOS TERMOS PLEITEADOS PELOS RECORRENTES. RECURSO NÃO CONHECIDO NO TÓPICO. JUROS REMUNERATÓRIOS. FIXAÇÃO EM PATAMAR SUPERIOR A 10% (DEZ POR CENTO) ACIMA DA TAXA MÉDIA DE MERCADO. PARÂMETRO EM DESCONFORMIDADE COM ORIENTAÇÃO FIRMADA PELO STJ E PRECEDENTES DESTA CÂMARA. ABUSIVIDADE VERIFICADA. SENTENÇA REFORMADA NO PONTO. CAPITALIZAÇÃO DOS JUROS E COMISSÃO DE PERMANÊNCIA. ANÁLISE DO CONTRATO EM CONJUNTO COM O DEMONSTRATIVO DE DÉBITO. AUSÊNCIA DE COBRANÇA DAS REFERIDAS RUBRICAS NA AÇÃO EXPROPRIATÓRIA. RECONHECIMENTO DA FALTA DE INTERESSE DE AGIR DOS EMBARGANTES. PEDIDO EXTINTO, COM SUPEDÂNEO NO ART. 267, INCISO VI, DO ANTIGO CÓDIGO DE PROCESSO CIVIL, CORRESPONDENTE AO ARTIGO 485, INCISO VI, DO CPC/2015. APELO DESPROVIDO NESTA PARTE. CORREÇÃO MONETÁRIA. INCIDÊNCIA DA TAXA REFERENCIAL (TR). POSSIBILIDADE DESDE QUE EXPRESSAMENTE PACTUADA. SÚMULA 295 DO STJ E ENUNCIADO N. VI DO GRUPO DE CÂMARAS DE DIREITO COMERCIAL DO TJSC. CABIMENTO NO CASO CONCRETO. EXISTÊNCIA DE INDICAÇÃO CLARA E EXPRESSA NA AVENÇA. RECURSO DESACOLHIDO NO TÓPICO. ÔNUS SUCUMBENCIAIS. SENTENÇA ALTERADA NESTE GRAU DE JURISDIÇÃO. REDISTRIBUIÇÃO DOS ENCARGOS. COMPENSAÇÃO VEDADA, COM FULCRO NO ART. 85, § 14, DO CPC/2015. RECURSO CONHECIDO EM PARTE E, NESTA, PARCIALMENTE PROVIDO" (fls. 130/131, e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, foi alegada, além de divergência jurisprudencial, a violação dos artigos 85, § 2º, e 917, §§ 3º e 4 º, I, do Código de Processo Civil de 2015.
+A recorrente sustenta que a inicial dos embargos, que versem sobre excesso de execução, deve declarar o valor que o devedor entende correto e ser acompanhada da planilha de cálculo atualizada.
+Além disso, aduz que os honorários de sucumbência devem ser arbitrados com base no valor controvertido da execução ou no possível proveito econômico obtido e não sobre o total da execução.
+Afirma, ainda, que a verba honorária arbitrada em favor dos patronos do recorrido é exorbitante em relação às circunstâncias concretas da causa.
+O recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+ Preliminarmente, importante consignar que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+No que tange aos art. 917, §§ 3º e 4 º, I, do CPC/2015, a matéria não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e não foram opostos embargos declaratórios com a finalidade de sanar omissão porventura existente. Por esse motivo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REEXAME DE FATOS. SÚMULA Nº 7/STJ. MATÉRIA DE ORDEM PÚBLICA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF.
+1. Rever questão decidida com base no exame das circunstâncias fáticas da causa esbarra no óbice da Súmula nº 7 do Superior Tribunal de Justiça.
+2. Ausente o prequestionamento, até mesmo de modo implícito, do dispositivo apontado como violado no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+3. As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+4. Agravo interno não provido" (AgInt no AgRg no AREsp 663.415/MS, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/12/2016, DJe 14/12/2016 - grifou-se).
+Em relação ao art. 85 do CPC/2015, a tese acerca do parâmetro de arbitramento da verba honorária não foi debatida pelas instâncias ordinárias, embora opostos embargos de declaração. Assim, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+No mais, o Tribunal de origem distribuiu os ônus de sucumbência da seguinte forma:
+"(..)
+Portanto, evidenciada a condição de vencedores e vencidos dos embargantes e da embargada, faz-se necessária a redistribuição dos ônus sucumbenciais entre as partes, conforme art. 86 da Lei n. 13.105/2015.
+Nesse passo, considerando que os embargantes não obtiveram sucesso na maioria dos pedidos formulados, devem suportar 80% (oitenta por cento) das despesas processuais, cabendo os 20% (trinta por cento) o remanescentes à casa bancária embargada.
+Tocante a verba honorária, mantém-se os parâmetros declinados na decisão de primeiro grau (20% sobre o valor da execução), até mesmo o porque, com relação ao quantum arbitrado a título de honorários advocatícios sucumbenciais, não houve insurgência das partes. Contudo, com a nova repartição realizada neste grau de jurisdição, a quantia fixada deve ser redistribuída nas proporções supracitadas.
+(..)" (fl. 148, e-STJ).
+Com efeito, a jurisprudência pacífica desta Corte é no sentido de que a revisão do quantitativo em que autor e réu decaíram do pedido para fins de aferição de sucumbência recíproca ou mínima implica reexame de matéria fático-probatório, incidindo a Súmula nº 7/STJ.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO DE SUBLOCAÇÃO COMERCIAL. FIANÇA. EXONERAÇÃO. COISA JULGADA. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. FUNDAMENTO NÃO ATACADO. SÚMULAS NºS 283 E 284/STF. HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA. REVISÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. PREJUDICADA.
+(..)
+3. A fixação da verba honorária pelas instâncias ordinárias resulta da avaliação subjetiva do julgador em face das circunstâncias fáticas dos autos, não podendo ser revista no recurso especial diante do óbice da Súmula nº 7/STJ, salvo quando irrisória ou excessiva.
+4. A revisão do quantitativo em que autor e réu decaíram do pedido para fins de aferição de sucumbência recíproca ou mínima implica o reexame de matéria fático-probatório, incidindo a Súmula nº 7/STJ.
+5. (..)
+6. Agravo interno não provido" (AgInt no AREsp 437.058/PR, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/8/2017, DJe 1º/9/2017 - grifou-se).
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TARIFAS BANCÁRIAS. ABUSIVIDADE. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. HONORÁRIOS RECURSAIS. ART. 85, § 11, DO CPC/2015. DECISÃO RECORRIDA PUBLICADA NA VIGÊNCIA DO CPC/2015. CABIMENTO. DECISÃO MANTIDA.
+1. (..)
+2. A aferição do quantum fixado a título de honorários advocatícios e do decaimento das partes em relação ao pedido, para fins de verificação da sucumbência recíproca ou mínima, importa no reexame de matéria fático-probatória, o que é vedado pela Súmula n. 7/STJ.
+3. (..)
+4. Agravo interno a que se nega provimento" (AgInt no AREsp 1.085.614/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/8/2017, DJe 16/8/2017 - grifou-se).
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REVISÃO DE CONTRATO BANCÁRIO. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL CONTRA DECISÃO FUNDAMENTADA EM POSIÇÃO FIRMADA EM REPETITIVO. ERRO GROSSEIRO. NÃO CABE APLICAR O PRINCÍPIO DA FUNGIBILIDADE. SUCUMBÊNCIA RECÍPROCA. REEXAME DE MATÉRIA FÁTICA.
+1. (..)
+2. Em sede de recurso especial, não cabe ao Superior Tribunal de Justiça (STJ) verificar os elementos circunstanciais dos autos para concluir se houve ou não sucumbência recíproca. Incide a Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento" (AgInt no AREsp 1.020.811/MS, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 16/5/2017, DJe 22/5/2017 - grifou-se).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Considerada a sucumbência recíproca fixada na origem, deixo de majorar os honorários advocatícios, nos termos do artigo 85, § 11, do CPC/2015.
+Publique-se.
+Intimem-se.
