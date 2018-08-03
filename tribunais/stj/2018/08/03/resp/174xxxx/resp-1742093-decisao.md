@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão que improveu o recurso de apelação.
+Sustenta o recorrente contrariedade ao art. 617 do CPP, pois, apesar de se reconhecer que o Tribunal possui, ao julgar Recurso de Apelação, amplo poder devolutivo, este não pode piorar a situação fático-processual do Apelante, conforme restará demonstrado (fl. 192).
+No ponto, assevera que o Tribunal de origem, reapreciando as circunstâncias foi claro ao afirmar que duas circunstâncias judiciais negativadas pelo juízo de piso foram valoradas de maneira equivocada, ilegal, portanto. Todavia, apesar de afastar tais circunstâncias, conservou a pena-base no mesmo patamar (fl. 195).
+Contra-arrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo desprovimento do recurso especial.
+É o relatório.
+Decido.
+Insurge-se o recorrente contra a fixação da pena-base acima do mínimo legal.
+Em regra, não se presta o recurso especial à revisão da dosimetria das penas estabelecidas pelas instâncias ordinárias. Contudo, a jurisprudência desta Corte admite, em caráter excepcional, o reexame da aplicação das penas, nas hipóteses de manifesta violação aos critérios dos arts. 59 e 68, do Código Penal, sob o aspecto da ilegalidade, nas hipóteses de falta ou evidente deficiência de fundamentação ou ainda de erro de técnica.
+Por oportuno, trago à colação os seguintes excertos do acórdão, em que se fixou a reprimenda básica:
+Nesse ponto, saliento que, não obstante assistir parcial razão ao apelante, em relação ao argumento de ausência de fundamentação idônea para a valoração desfavorável da culpabilidade e das consequências do crime, tal reconhecimento em nada influirá no quantum da reprimenda inicial fixada.
+Isso porque o juiz sentenciante considerou desfavorável, outra circunstância judicial - circunstâncias do crime -, corretamente, pois, embora o resultado morte seja inerente ao delito de latrocínio, o fato de o acusado ter ceifado a vida da vítima na frente dos seus filhos, demonstra que a forma de execução extrapolou qualquer limite.
+Desse modo, justifica-se a fixação da sanção acima do minimo legal, mormente porque é cediço que a presença de uma única circunstância judicial desfavorável já revela-se suficiente para elevar a pena-base acima do mínimo legal, com fulcro no que estabelece a Súmula nº 23 deste Tribunal (fl. 175).
+Com efeito, no presente caso, observa-se que o sentenciante fixou a pena-base em 25 anos de reclusão, mais 100 dias-multa, com fundamento na culpabilidade, consequências do crime e circunstâncias do crime.
+A Corte estadual, por sua vez, manteve o aumento da pena-base no mesmo patamar (5 anos do mínimo legal) fixado pelo juízo de primeiro grau, com esteio somente na vetorial das circunstâncias do crime.
+Nota-se, portanto, que, não obstante a exclusão das circunstâncias judiciais relativas à culpabilidade e às consequências do delito, manteve-se a pena-base no mesmo patamar. Assim, de rigor o provimento do recurso para diminuir proporcionalmente a pena-base, tendo em vista as circunstâncias judiciais afastadas.
+De fato, o Superior Tribunal de Justiça possui o entendimento de que, se a Corte de origem, apreciando o apelo defensivo, afasta alguma circunstância judicial da fixação da pena-base, impõe-se sua redução proporcional. Nesse sentido:
+RECURSO ESPECIAL. RESISTÊNCIA. PRESCRIÇÃO, DE OFÍCIO. TRÁFICO DE DROGAS. PENA-BASE. CULPABILIDADE, MOTIVOS E CIRCUNSTÂNCIAS DO CRIME. ARGUMENTAÇÃO INIDÔNEA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. EXTINÇÃO DA PUNIBILIDADE. RECURSO PROVIDO.
+ ..
+3. Embora a Corte de origem, em recurso exclusivo da defesa, tenha afastado a desfavorabilidade da circunstância judicial relativa aos motivos do delito (sopesando-a, então, favoravelmente ao recorrente), deixou de proceder à respectiva redução na reprimenda, motivo pelo qual se mostra de rigor a diminuição da pena-base nesse ponto, sob pena de ofensa ao princípio do ne reformatio in pejus e da proporcionalidade.
+4. Recurso especial provido, a fim de diminuir para o mínimo legal a pena-base imposta ao recorrente em relação ao crime previsto no art. 12, c/c o art. 18, III, ambos da Lei n. 6.368/1976 e, consequentemente, tornar definitiva a reprimenda do acusado, em relação a esse ilícito, em 4 anos de reclusão e pagamento de 66 dias-multa. De ofício, por força do art. 61 do Código de Processo Penal, é declarada extinta a punibilidade do recorrente, pela ocorrência da prescrição da pretensão punitiva estatal, em relação a ambos os crimes, com fundamento no art. 107, IV, c/c os arts. 109, IV e VI (com redação anterior à Lei n. 12.234/2010) e 110, § 1º, todos do Código Penal (REsp 859.251/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 03/02/2015, DJe 09/02/2015).
+Passo, então, à dosimetria.
+Das três circunstâncias judiciais consideradas desfavoráveis pelo sentenciante, apenas uma foi mantida pelo Tribunal - circunstâncias do crime -, razão pela qual, utilizando-se do mesmo critério da sentença, reduz-se a pena-base, proporcionalmente, a 21 anos e 8 meses de reclusão e 53 dias-multa.
+Ausentes circunstâncias atenuantes ou agravantes, tampouco causas de diminuição ou de aumento, tornam-se definitivas as penas nesse patamar, mantido, no mais, o édito condenatório.
+Ante o exposto, dou provimento ao recurso especial para reduzir as penas do recorrente para 21 anos e 8 meses de reclusão e 53 dias-multa.
+Publique-se.
+Intimem-se.
