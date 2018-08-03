@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"CHEQUE - Títulos que não podiam ter sido colocados em circulação, ante o desfazimento do negócio subjacente - Possibilidade da autora (apelada) de opor exceções pessoais em relação à apelante (cessionária), posto que as relações existentes entre estas implica em cessão civil, não sendo, portanto, regidas pelo direito cambial (art. 294, do CC) - Sentença mantida - Recurso improvido."
+(e-STJ, fl. 567)
+O Tribunal a quo inadmitiu o apelo extremo calcado nos seguintes fundamentos: (a) da ausência de demonstração das alegadas violações a leis federais; (b) no óbice da Súmula 7/STJ, e (c) na ausência de cotejo analítico.
+Nas razões do agravo em recurso especial, o agravante sustenta, em síntese, que: (a) o prequestionamento dos preceitos legais apontados como violados, e (b) desnecessidade de revolvimento do conjunto fático-probatório para se concluir pela procedência do recurso especial. Aduziu, no mais, argumentos de reforma do v. acórdão recorrido.
+É o relatório. Decido.
+De início, cumpre salientar que o presente recurso será examinado à luz do Enunciado nº 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O agravo não merece conhecimento.
+Observe-se que o agravo previsto no art. 1.042 do Código de Processo Civil tem por objetivo o processamento do recurso especial inadmitido pela Corte de origem. Para se viabilizar o seu conhecimento, é necessário, assim, que o agravante impugne, especificadamente, a integralidade dos fundamentos da decisão agravada.
+In casu, o agravante não rebateu, como lhe competia, os fundamentos da decisão agravada, especialmente aqueles relacionados à ausência de demonstração das alegadas violações a leis federais e ausência de cotejo analítico.
+Incide, na hipótese, a previsão contida no art. 932, III, do Código de Processo Civil, segundo a qual incumbe ao relator não conhecer de recurso que não tenha impugnado integralmente os fundamentos da decisão recorrida e, ainda, por analogia, o princípio cristalizado na Súmula 182 do Superior Tribunal de Justiça, que reputa inviável o agravo do art. 1.042 do Código de Processo Civil (art. 545 do CPC/1973) que deixa de atacar especificadamente os fundamentos da decisão agravada.
+Nesse sentido, recente decisão proferida pela Corte Especial deste Sodalício, no AgInt nos EAREsp nº 1040547/SP. Confira-se:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ARESTOS EM CONFRONTO. AGRAVO INTERNO NÃO PROVIDO.
+I - Trata-se de agravo interno interposto contra decisão monocrática de indeferimento liminar dos embargos de divergência, diante da ausência de similitude fática entre o acórdão embargado e o julgado paradigma e incidência da súmula 168 do STJ.
+II - Descumpre o art. 1.021, § 1º, do CPC e a Súmula nº 182 do STJ, o agravo interno que não impugna integralmente os fundamentos da decisão agravada.
+III - A teor do enunciado contido na Súmula n. 182 do STJ, é inviável o agravo que deixa de atacar especificamente os fundamentos da decisão agravada. Precedentes.
+IV - A ausência de similitude fática impede o comparativo entre acórdão embargado e paradigma de modo a obstar a configuração do dissídio jurisprudencial supostamente alegado pela parte.
+Agravo Interno não provido.
+(AgInt nos EAREsp 1040547/SP, Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, julgado em 19/12/2017, DJe 06/02/2018)
+Na mesma direção:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO APELO NOBRE PROFERIDA PELA CORTE DE ORIGEM. NÃO CONHECIMENTO DO RECLAMO. AGRAVO IMPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo em recurso especial devem infirmar os fundamentos da decisão de inadmissibilidade do apelo nobre, proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do artigo 932, III, do CPC/2015 (artigo 544, § 4º, I, do CPC/1973).
+2. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação dos agravantes ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese ora examinada.
+3. Conforme entendimento desta Corte: "A interposição de recursos cabíveis não  implica  em litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo" (AgRg nos EDcl no REsp n. 1.333.425/SP, Relatora a Ministra Nancy Andrighi, DJe 4/12/2012). 4. Agravo interno improvido."
+(AgInt no AREsp 993.261/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/08/2017, DJe 30/08/2017 - grifou-se)
+Diante do exposto, nos termos do art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se.
