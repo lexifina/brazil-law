@@ -1,0 +1,18 @@
+DECISÃO
+Ao apreciar o agravo interno interposto por [NOME], fiz o seguinte apanhado do caso, a contar do momento em que me foi distribuído:
+Após atento exame dos autos, proferi decisão por intermédio da qual indeferi liminarmente os embargos de divergência interpostos por [NOME]; em seguida, acolhi os embargos de declaração por ele opostos a fim de corrigir singelo erro material existente naquela decisão, mantido, contudo, o indeferimento.
+A decisão de acolhimento dos declaratórios foi publicada em 27/4/2017 (e-STJ, fl. 526) e, após esgotado o prazo legal sem apresentação de recurso, a Coordenadoria da Segunda Seção certificou o trânsito em julgado e informou a baixa dos autos eletrônicos à Corte de origem (e-STJ, fl. 528).
+Passados quase dois meses do trânsito em julgado e da consequente baixa, o embargante ingressou com agravo interno (Petição n. 350.640/2017), para cuja análise se fez necessária a formação do presente expediente avulso.
+Nos termos da decisão publicada em 6/2/2018, não conheci do agravo interno, e as razões que me levaram a assim decidir foram estas:
+Conforme relatado, tanto os embargos de divergência apresentados pelo ora agravante, quanto os subsequentes embargos de declaração, receberam a devida atenção deste relator: com base em clara e suficiente motivação, os primeiros foram indeferidos liminarmente; os segundos, acolhidos para correção de erro material.
+O prazo para a interposição de agravo interno contra a decisão de indeferimento liminar dos embargos de divergência começou a fluir com a divulgação da decisão que acolheu os embargos de declaração.
+Publicada que foi essa última decisão em 27/4/2017, o prazo recursal, de 15 (quinze) dias úteis, teve início em 28/4/2017 e findou em 19/5/2017.
+Ocorre que o agravo somente foi protocolizado em 11/7/2017, afigurando-se evidente a sua intempestividade.
+Mas o detalhe mais importante a ser notado é que o agravante não apresentou, nas razões recursais, nenhuma justificativa para o fato de o agravo interno haver sido apresentado tanto tempo depois de encerrada a prestação jurisdicional a cargo do Superior Tribunal de Justiça - poderia ter alegado, por exemplo, a descoberta também tardia de nulidade da intimação ou a existência de dúvida sobre a forma de contagem do prazo recursal.
+Em casos com tal configuração, em que o recorrente ingressa com novo recurso ignorando por completo a circunstância de a decisão contra a qual se insurge já haver transitado em julgado, sem apresentar qualquer justificativa para o fato de a interposição ter ocorrido com tão considerável atraso, não há necessidade de que o extemporâneo recurso seja levado à deliberação do colegiado, cabendo ao próprio relator dar-lhe solução.
+Ainda inconformado, o embargante apresentou este pedido de reconsideração, o qual, segundo alega, "reveste-se de necessidade extremada e iria ao encontro dos princípios da celeridade da justiça e da economia processual e alinhado ao direito contemporâneo com o advento do Novo Código de Processo Civil".
+Brevemente relatado, decido.
+Tendo repassado em minuciosa revisão as decisões que proferi nestes autos, nelas não encontrei nada que necessitasse de reforma. Aliás, muito pelo contrário, a convicção que emerge é a de que todos os pronunciamentos, redigidos de forma clara e objetiva, estão ancorados em sólida fundamentação.
+Concorde ou não o recorrente com os resultados dos julgamentos de seus sucessivos recursos, o fato é que o Superior Tribunal de Justiça entregou a prestação jurisdicional que lhe foi solicitada, estando finalizada a sua atuação.
+À míngua, portanto, de motivação plausível a autorizar o seu acolhimento, indefiro o pedido de reconsideração.
+Publique-se.
