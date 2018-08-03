@@ -1,0 +1,16 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO EM MANDADO DE SEGURANÇA. AÇÃO MONITÓRIA. COTAS CONDOMINIAIS. COBRANÇA. PROCEDÊNCIA. TRÂNSITO EM JULGADO. PAGAMENTO. PROPOSTA DE ACORDO. DESISTÊNCIA DA DEVEDORA. IMPOSSIBILIDADE DE HOMOLOGAÇÃO. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO À CONFIRMAÇÃO DA AVENÇA. RECURSO A QUE SE NEGA PROVIMENTO.
+DECISÃO
+NEI DE LOS SANTOS REPISO (NEI) interpôs recurso ordinário em mandado de segurança contra acórdão do Tribunal de Justiça do Paraná que denegou a segurança lá requerida em acórdão assim ementado:
+MANDADO DE SEGURANÇA. AÇÃO MONITÓRIA (COTAS CONDOMINIAIS). TRÂNSITO EM JULGADO DA SENTENÇA. CONSTITUIÇÃO DE TÍTULO EXECUTIVO. NOTÍCIA DE ACORDO NOS AUTOS. DAÇÃO EM PAGAMENTO, PELA COOPERATIVA REQUERIDA, DE 486 (QUATROCENTOS E OITENTA SEIS) UNIDADES RESIDENCIAIS. POSTERIOR INFORMAÇÃO DA REQUERIDA DE DESISTÊNCIA DO ACORDO. QUESTIONAMENTOS SOBRE A LEGITIMIDADE DO SÍNDICO E DA INEXISTÊNCIA DE PODERES DO CAUSÍDICO DA COOPERATIVA PARA FIRMAR DAÇÃO EM PAGAMENTO. IMPETRANTE, PATRONO DO CONDOMÍNIO, BENEFICIADO NO ACORDO COM RECEBIMENTO DE METADE DOS APARTAMENTOS. REVOGAÇÃO DA PROCURAÇÃO ANTES DA ANÁLISE DA HOMOLOGAÇÃO DO PACTO. INTERLOCUTÓRIO DEIXA DE HOMOLOGAR O ACORDO. FORMAL INCONFORMISMO. ADEQUAÇÃO RECURSAL. PERTINÊNCIA. IMPETRANTE INGRESSA COMO TERCEIRO PREJUDICADO. MÉRITO. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. DESISTÊNCIA DO ACORDO ANTES DA SUA HOMOLOGAÇÃO. SEGURANÇA DENEGADA.
+(e-STJ, fl. nº 671).
+NEI alegou, em suma, que a transação celebrada, que ocorreu sem máculas ou vícios de consentimento, deveria ter sido homologada, não se podendo falar em arrependimento posterior.
+O Ministério Público Federal entendeu por bem não opinar (e-STJ, fls. nºs 725/726).
+Este, em síntese, o relatório.
+DECIDO.
+De acordo com os autos, NEI impetrou mandado de segurança contra ato do Juízo da 10ª Vara Cível do Foro Central da Comarca da Região Metropolitana de Londrina/PR, que deixou de homologar acordo extrajudicial formulado pelas partes nos autos de ação monitória proposta para a cobrança de cotas condominiais que foi julgada procedente.
+O Desembargador-Relator do Mandado de Segurança denegou o writ considerando que (1) o juízo de primeiro grau salientou a impossibilidade de confirmação do acordo pela desistência de uma das partes e porque o advogado da desistente nem sequer apresentou poderes específicos para a confecção do ajuste; (2) no caso, não se visualiza direito líquido e certo do impetrante, pois antes da homologação do acordo a parte requerida ingressou com ação rescisória, noticiando a desistência da avença; e, (3) não é possível ao magistrado fazer valer um acordo que não se revela perfeito e acabado (e-STJ, fls. 678/681).
+A transcrição revela que não havia mesmo nenhuma situação excepcional que justificasse a segurança, pois a decisão judicial proferida pelo Juízo de primeiro grau não era absurda ou teratológica, não se podendo falar, no caso concreto, em direito líquido e certo à homologação de um acordo do qual uma das partes desistiu.
+Nessas condições, NEGO PROVIMENTO ao recurso ordinário em mandado de segurança.
+Advirta-se, desde já, que eventual recurso contra esta decisão estará sujeito a multa (arts. 1.021, § 4º, e 1.026, § 2º, do NCPC).
+Publique-se.
