@@ -1,0 +1,48 @@
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO NO RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS GUERREADOS. AGRAVO INTERNO DESPROVIDO.
+I - Segundo a jurisprudência deste Superior Tribunal de Justiça, os embargos de divergência tem como finalidade precípua a uniformização de teses jurídicas divergentes em relação à matéria de mérito, de modo que, ante a natureza vinculada de sua fundamentação, é vedado analisar qualquer outra questão que não tenha sido objeto de dissídio entre os acórdãos em cotejo.
+II - A ausência de similitude fática impede o comparativo entre acórdão embargado e paradigma de modo a obstar a configuração do dissídio jurisprudencial supostamente alegado pela parte.
+Agravo interno desprovido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Corte Especial do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Herman Benjamin, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves e Sérgio Kukina votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Francisco Falcão, Napoleão Nunes Maia Filho, Jorge Mussi, Og Fernandes e Raul Araújo.
+Convocado o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+O EXMO. SR. MINISTRO FELIX FISCHER: Trata-se de Agravo Interno interposto pela FUNDAÇÃO PETROBRAS DE SEGURIDADE SOCIAL  PETROS em face da decisão monocrática de minha relatoria, proferida às fls. 2.829/2.833, em que indeferi liminarmente os Embargos de Divergência opostos às fls. 2.802/2.825, com fulcro no artigo 266-C do RISTJ, por reputar ausente a similitude fática entre o presente feito e o caso decidido no acórdão paradigma, e não configurada a divergência apontada.
+Depreende-se dos autos que no julgamento do Agravo em Recurso Especial foi determinada a devolução dos autos à Corte de origem até a publicação do acórdão proferido no julgamento do recurso representativo da controvérsia, referente ao Tema 936 (fls. 2.765/2.767).
+Interposto Agravo Interno, restou não conhecido, em razão do entendimento da Terceira Turma de que a decisão que determina a devolução dos autos ao Tribunal de origem, a fim de aguardar o julgamento de tema dos recursos repetitivo, é irrecorrível, conforme a seguinte ementa (fl. 2795):
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO REPETITIVO. IRRECORRIBILIDADE DA DECISÃO QUE DETERMINA O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA AGUARDAR JULGAMENTO DE QUESTÃO REPRESENTATIVA DE CONTROVÉRSIA. AGRAVO INTERNO NÃO CONHECIDO.
+1. É irrecorrível a decisão que determina a devolução dos autos ao Tribunal de origem a fim de aguardar o julgamento de tema dos recursos repetitivos para posterior aplicação da sistemática prevista pelo art. 1.040 do CPC/2015. Precedentes.
+2. Agravo interno não conhecido."
+Irresignada, foram aviados os Embargos de Divergência (fls. 2.802/2.825), indicando como paradigma o acórdão proferido nos autos dos Embargos de Divergência em Recurso Especial nº 1.511.921/SC, de relatoria da em. Min. Maria Thereza de Assis Moura, da Corte Especial.
+O recurso de divergência foi liminarmente indeferido com fulcro no art. 266-C do RISTJ, assentando-se o julgado na ausência de similitude fática, e na falta da apontada divergência.
+No presente Agravo Interno (fls. 2.837-2.841), reiterando as razões aventadas nos recursos pretéritos, sustenta o recorrente a existência de similitude entre os arestos confrontados, de forma a atender o disposto no art. 1.043, § 4º, do CPC. Consigna que "o contexto fático em que proferidas as decisões paradigma e paragonada é o mesmo, obtendo-se interpretação diametralmente oposta quanto ao disposto pelo artigo 1.030, III, do CPC/2015, o que se observa do cotejo em análise. Tanto o v. acórdão recorrido quanto o paradigma discutem matéria processual, versando sobre a necessidade ou não de sobrestamento dos autos em trâmite perante o Superior Tribunal de Justiça até o julgamento do recurso representativo da controvérsia" (fl. 2.840).
+Assim, pretende o provimento do agravo, com a reconsideração da decisão que indeferiu liminarmente os embargos.
+Por manter a decisão agravada, submeto o feito a col. Corte Especial.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO NO RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS GUERREADOS. AGRAVO INTERNO DESPROVIDO.
+I - Segundo a jurisprudência deste Superior Tribunal de Justiça, os embargos de divergência tem como finalidade precípua a uniformização de teses jurídicas divergentes em relação à matéria de mérito, de modo que, ante a natureza vinculada de sua fundamentação, é vedado analisar qualquer outra questão que não tenha sido objeto de dissídio entre os acórdãos em cotejo.
+II - A ausência de similitude fática impede o comparativo entre acórdão embargado e paradigma de modo a obstar a configuração do dissídio jurisprudencial supostamente alegado pela parte.
+Agravo interno desprovido.
+
+VOTO
+O EXMO. SR. MINISTRO FELIX FISCHER: O presente agravo interno não merece prosperar.
+Com efeito, não obstante os combativos argumentos aduzidos pelo agravante na peça recursal, não se pode olvidar tratar-se a existência de similitude fática entre os julgados supostamente em confronto de requisito essencial para efetiva configuração da divergência jurisprudencial.
+Esse é o entendimento consolidado no âmbito desta Corte Superior, de modo que "A divergência que enseja a interposição dos embargos - destinados a dirimir eventual dissídio no âmbito deste Superior Tribunal de Justiça - é aquela ocorrida em hipóteses semelhantes, devendo ser demonstrado que em situações iguais foram dadas soluções diferentes" (AgRg nos EREsp n. 1.014.137/RS, Corte Especial, Rel.Min. Gilson Dipp, DJe de 28/8/2014). Veja-se:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. PRESCRIÇÃO. APLICAÇÃO ANALÓGICA DA LEI 4.717/65 (LEI DA AÇÃO POPULAR). ART. 266, § 1o. C/C 255, § 1o., DO RISTJ. AUSÊNCIA DE COMPROVAÇÃO DA DIVERGÊNCIA SUSCITADA. INDEFERIMENTO LIMINAR DO RECURSO. MANUTENÇÃO DA DECISÃO QUE INDEFERIU LIMINARMENTE A PRETENSÃO RECURSAL DA DIVERGÊNCIA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Os Embargos de Divergência possuem como fundamento a divergência de entendimento jurídico, de interpretação de Lei Federal, manifestado em face de uma mesma situação fática, porque se forem diversas as circunstâncias concretas da causa, as consequências jurídicas não podem ser idênticas.
+2. A parte embargante deve demonstrar, cabalmente, a identidade fática entre o acórdão embargado e decisões colegiadas, proferidas, em regra, em Recurso Especial, por outra Turma, Seção ou Corte Especial deste Tribunal Superior, bem como da tese jurídica, reproduzindo trechos precisos e claros de ambas as decisões, de maneira a indicar a semelhança e o dissenso entre os entendimentos esposados nos julgados.
+3. Tampouco trouxe o Agravante as cópias integrais dos acórdãos paradigmas para a necessária comprovação da divergência suscitada. Precedentes: AgRg nos EAREsp. 385.284/RS, Rel. Min. JORGE MUSSI, DJe 25.11.2016 e AgRg nos EREsp. 1.307.032/PR, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 5.8.2015, dentre outros.
+4. Agravo Regimental a que se nega provimento." (AgRg nos EAREsp 85.918/PR, Corte Especial, Rel. Min. Napoleão Nunes Maia Filho, julgado em 15/02/2017, DJe 03/03/2017, grifei).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. EXECUÇÃO DE SENTENÇA (CONTRA A FAZENDA PÚBLICA). PRAZO PRESCRICIONAL. AUSÊNCIA DE SIMILITUDE ENTRE OS CASOS CONFRONTADOS. PRAZO QUINQUENAL. PRECEDENTE.
+1. "Os embargos de divergência no Superior Tribunal de Justiça constituem a última etapa da uniformização jurisprudencial, e pressupõem casos idênticos ou assemelhados tais como dimensionados no acórdão embargado e no acórdão indicado como paradigma" (EREsp 1.177.349/ES, Corte Especial, Rel. Min. Ari Pargendler, DJe de 29.5.2013). Na hipótese, não se verifica tal condição, sendo manifesta a ausência de similitude entre os casos confrontados.
+2. A orientação da Primeira Seção desta Corte é firme no sentido de que a prescrição da execução, assim como a prescrição da própria ação de repetição do indébito tributário, é de cinco anos, não havendo falar em dez anos (cinco mais cinco) (EDcl nos EAREsp 653.465/DF, Rel. Ministro HUMBERTO MARTINS, PRIMEIRA SEÇÃO, julgado em 23/09/2015, DJe 30/09/2015).
+3. "Não cabem embargos de divergência, quando a jurisprudência do tribunal se firmou no mesmo sentido do acórdão embargado" (Súmula 168/STJ).
+4. Agravo regimental não provido." (AgRg nos EDcl nos EREsp 1406681/RS, Primeira Seção, Rel. Min. Mauro Campbell Marques, julgado em 25/02/2016, DJe 08/03/2016, grifei).
+Pois bem. Conforme asseverado no decisório monocrático, inexistente a indispensável similitude entre os julgados comparados. Isto, porque o julgado embargado baseou-se na irrecorribilidade da decisão que ordena a restituição dos autos ao Tribunal de origem, por não ser capaz de gerar qualquer prejuízo às partes. Já no paradigma entendeu-se pela desnecessidade de obrigatório sobrestamento dos processos na instância superior, nas hipóteses da matéria ter sido afetada ao rito dos repetitivos.
+Constata-se, portanto, não prosperar a via recursal eleita, ante a evidente ausência da necessária similitude fática entre os acórdãos apontados como divergentes, de modo a impossibilitar a configuração da alegado dissídio no âmbito desta Corte Superior.
+Ante o exposto, nego provimento ao presente agravo interno.
+É o voto.
