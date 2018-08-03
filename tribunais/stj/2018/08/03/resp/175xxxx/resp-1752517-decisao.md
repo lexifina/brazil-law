@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF interposto contra acórdão proferido pelo TJMG assim ementado (e-STJ fl. 113):
+APELAÇÃO CÍVEL - AÇÃO DE RESTITUIÇÃO DE VALORES DECORRENTES DE PAGAMENTO DE CONSÓRCIO - DESISTÊNCIA DO CONSÓRCIO - RESTITUIÇÃO DAS PARCELAS PAGAS EM ATÉ 30 DIAS DO ENCERRAMENTO DO GRUPO. De acordo com entendimento do STJ é devida a restituição de valores pagos, por Consorciado desistente, em até 30 (trinta) dias a contar do prazo previsto contratualmente para o encerramento do grupo, data esta que deve ser considerada como termo inicial dos juros de mora.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 135/142).
+Em suas razões (e-STJ fls. 145/154), o recorrente alega, além de dissídio jurisprudencial, ofensa aos arts. 49, parágrafo único, e 51, II e IV, do CDC.
+Sustenta, em síntese, que "não se desconhece o precedente citado no acórdão vergastado (REsp 1.119.300/RS - Rel. Min. Luis Felipe Salomão - 2ª Seção - Julgado em 14.04.10 - DJe 27.08.10), mas no caso, essa mesma Corte Superior vem entendendo, que; quando a parte aderiu ao plano de consórcio após a edição da Lei 11.795/08, como no caso, a determinação para devolução imediata dos valores vertidos não afronta o citado precedente repetitivo" (e-STJ fl. 152).
+Foram apresentadas contrarrazões (e-STJ fls. 158/164).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+O Tribunal de origem concluiu que "a restituição das parcelas pagas pelo consorciado excluído não deve ocorrer de imediato e sim após o encerramento do consórcio" (e-STJ fl. 116).
+Tal entendimento está em consonância com a jurisprudência do STJ, para a qual "os fundamentos que basearam a orientação consolidada pela Segunda Seção no julgamento do RESP. 1.119.300/RS, submetido ao rito dos recursos repetitivos (CPC/1973, art. 543-C), no sentido de que "é devida a restituição de valores vertidos por consorciado desistente ao grupo de consórcio, mas não de imediato, e sim em até trinta dias a contar do prazo previsto contratualmente para o encerramento do plano", aplicam-se aos contratos celebrados na vigência da Lei 11.795/2008". Confira-se a ementa do referido julgado:
+RECLAMAÇÃO. PROCESSAMENTO. RESOLUÇÃO 12/2009-STJ. DISTRIBUIÇÃO ANTERIOR À RESOLUÇÃO 3/2016-STJ. CONSÓRCIO. DESISTÊNCIA OU EXCLUSÃO. RESTITUIÇÃO DE PARCELAS. ENCERRAMENTO DO GRUPO. RECURSO REPETITIVO. CONTRATOS CELEBRADOS APÓS 6.2.2009, NA VIGÊNCIA DA LEI 11.795/2008. GRUPO DE CONSÓRCIO INICIADO NA VIGÊNCIA DA LEGISLAÇÃO ANTERIOR.
+1. A reclamação distribuída e pendente de apreciação antes da publicação da Resolução-STJ 3/2016, que delegou competência aos Tribunais de Justiça para processar e julgar as reclamações destinadas a dirimir divergência entre acórdão proferido por Turma Recursal estadual ou do Distrito Federal e a jurisprudência do STJ, deve ser processada e julgada por este Tribunal, na forma disciplina da pela Resolução-STJ 12/2009.
+2. Os fundamentos que basearam a orientação consolidada pela Segunda Seção no julgamento do RESP. 1.119.300/RS, submetido ao rito dos recursos repetitivos (CPC/1973, art. 543-C), no sentido de que "é devida a restituição de valores vertidos por consorciado desistente ao grupo de consórcio, mas não de imediato, e sim em até trinta dias a contar do prazo previsto contratualmente para o encerramento do plano", aplicam-se aos contratos celebrados na vigência da Lei 11.795/2008.
+3. Hipótese, ademais, em que o interessado aderiu, em dezembro 2009, a grupo de consórcio iniciado antes da entrada em vigor da Lei 11.795/2008.
+4. Reclamação procedente.
+(Rcl 16.390/BA, Relatora Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 28/06/2017, DJe 13/09/2017.)
+Também nesse sentido, os seguintes precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONSÓRCIO. DESISTÊNCIA DO CONSORCIADO. DEVOLUÇÃO DAS PARCELAS PAGAS. PRAZO. TRINTA DIAS APÓS O ENCERRAMENTO DO GRUPO. MATÉRIA DECIDIDA EM RECURSO ESPECIAL REPETITIVO. CONTRATOS CELEBRADOS APÓS 6/2/2009, NA VIGÊNCIA DA LEI 11.795/2008. APLICAÇÃO. RECURSO IMPROVIDO.
+1. Nos termos do julgamento proferido no REsp 1.119.300, processado nos termos do art. 543-C do CPC/1973, "é devida a restituição de valores vertidos por consorciado desistente ao grupo de consórcio, mas não de imediato, e sim em até trinta dias a contar do prazo previsto contratualmente para o encerramento do plano" (Rel. Min.
+LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, DJe de 27/8/2010).
+2. Consoante decidido pela Segunda Seção na Rcl 16.390/BA, "Os fundamentos que basearam a orientação consolidada pela Segunda Seção no julgamento do RESP. 1.119.300/RS, submetido ao rito dos recursos repetitivos (CPC/1973, art. 543-C), no sentido de que "é devida a restituição de valores vertidos por consorciado desistente ao grupo de consórcio, mas não de imediato, e sim em até trinta dias a contar do prazo previsto contratualmente para o encerramento do plano", aplicam-se aos contratos celebrados na vigência da Lei 11.795/2008" (Rel. Min. MARIA ISABEL GALLOTTI, DJe de 13/9/2017).
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1617560/DF, Relator Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 13/03/2018, DJe 19/03/2018.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL - CONSÓRCIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AUTORA.
+1. "Os fundamentos que basearam a orientação consolidada pela Segunda Seção no julgamento do RESP. 1.119.300/RS, submetido ao rito dos recursos repetitivos (CPC/73, art. 543-C), no sentido de que "é devida a restituição de valores vertidos por consorciado desistente ao grupo de consórcio, mas não de imediato, e sim em até trinta dias a contar do prazo previsto contratualmente para o encerramento do plano", aplicam-se aos contratos celebrados na vigência da Lei 11.795/2008". (Rcl 16.390/BA, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 28/06/2017, DJe 13/09/2017) 2. Agravo interno desprovido.
+(AgInt no REsp 1472319/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/05/2018, DJe 25/05/2018.)
+Incide, portanto, a Súmula n. 83/STJ, que se aplica como óbice tanto aos recursos interpostos com base na alínea "c", quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+Ante o exposto, NEGO PROVIMENTO ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a gratuidade da justiça na instância de origem, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
