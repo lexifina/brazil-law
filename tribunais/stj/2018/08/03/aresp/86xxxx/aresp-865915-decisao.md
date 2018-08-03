@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por HÉLCIO SUDOU - ME contra decisão do Tribunal de Justiça do Estado de Santa Catarina, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional, e que desafia acórdão assim ementado (e-STJ fl. 348):
+"AGRAVO PREVISTO NO ART. 557, § 1º, DO CPC. DECISÃO QUE NEGA SEGUIMENTO À APELAÇÃO. POSSIBILIDADE. SENTENÇA QUE SE ENCONTRA EM CONFORMIDADE COM JURISPRUDÊNCIA DOMINANTE DESTE TRIBUNAL. INTELIGÊNCIA DO ART. 557, CAPUT, DO CPC. RECURSO DESPROVIDO."
+Embargos de declaração rejeitados (e-STJ fls. 372/376).
+No especial obstaculizado, o ora agravante, além de divergência jurisprudencial, apontou violação dos arts. 535, II, 130, 480, 482 e 557, caput, do CPC/1973. Alegou, em síntese, que o aresto recorrido, além de omisso acerca de questões relevantes, teria cerceado o seu direito de defesa e se baseado em paradigma não unânime e ainda pendente de julgamento dos embargos infringentes (e-STJ fls. 380/388).
+Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ fls. 425/427), o que desafiou a interposição do presente agravo (e-STJ fls. 433/437).
+Sem contraminuta.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Dito isso, registro que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, tanto nos termos do art. 544, § 4º, I, do CPC/1973, quanto nos moldes dos arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RISTJ.
+Nesse sentido, vide: AgRg no AREsp 834978/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 19/04/2016; AgInt no AREsp 1036445/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 04/04/2017, DJe 17/04/2017.
+In casu, o Juízo de prelibação proferido pelo Tribunal de origem encontra-se assim motivado:
+a) ausência de violação do art. 535 do CPC/1973;
+b) quanto aos arts. 130, 480, 482 do CPC/1973 e 2º da Lei n. 9.427/1996, o reconhecimento da reclassificação tarifária da empresa recorrente esbarraria na Súmula 7 do STJ; e
+c) no que tange ao art. 20, § 3º, do CPC/1973, a revisão dos honorários implicaria o revolvimento do conjunto fático-probatório, pois o quantum fixado se mostrou adequado em relação ao valor envolvido na demanda, no importe de R$ 12.841,90 (e-STJ fls. 425/427).
+O agravante, contudo, não se desincumbiu de infirmar de forma clara e específica todos os fundamentos impeditivos do seguimento do especial, notadamente em relação à aplicação da Súmula 7 desta Corte, em evidente desrespeito ao princípio da dialeticidade.
+Com efeito, no intuito de impugnar o referido óbice sumular, a parte apresentou as seguintes razões (e-STJ fls. 436/437):
+"No tocante a decisão que negou o seguimento ao especial ao argumento de que a ofensa aos arts. 480/482 do CPC não poderia ser analisado por esta Corte, não procede. Vejam, Excelências, que o agravante suscitou o incidente de arguição de inconstitucionalidade já em sua peça apelativa, sendo que a rejeição dada na decisão monocrática levou em consideração uma decisão paradigma que teria rejeitado o incidente meramente por ter sido proposto em embargos de declaração, meio que seria considerado impróprio, o que não correu no presente caso.
+Logo, não existiria outro momento para o agravante arguir a inconstitucionalidade do art. 5º, § 4º da Resolução 414/2010 da ANEEL.
+Não obstante, para se analisar a ofensa ao art. 480/482 do CPC, com a inconstitucionalidade aventada, não importaria em reavaliação de fatos do processo, pois o processo poderia retomar ao Tribunal "a quo" para decisão, ou, caso houvesse entendimento de causa madura, a questão ser julgada por essa [NOME].
+Diga-se, por derradeiro, a análise a ofensa ao art. 2º da Lei 9427/96 não exige revolvimento de provas, sendo que na questão dos honorários, foi pedido o arbitramento de um percentual nos moldes do art. 20, § 3º do CPC para o caso de provimento do recurso, pois aí haveria uma condenação para a agravada, e, a sentença de 1º grau estipulou um valor fixo, pelo fato de não ter havido condenação.
+Partindo-se destes entendimentos, tais ofensas merecem ser analisadas por esta Corte. Neste sentido, Excelências, pugna o ora agravante pelo provimento do recurso, tendo em vista as razões acima expostas."
+Em que pesem os argumentos expendidos, verifica-se que estes não se contrapuseram frontalmente aos fundamentos de inadmissão apontados na decisão agravada.
+Na hipótese, em relação à Súmula 7 do STJ, é de rigor que a impugnação venha acompanhada de uma mínima contextualização do caso concreto e da tese jurídica objeto do recurso especial, bem assim das razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, o que não ocorreu no caso.
+Ante o exposto, o art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
