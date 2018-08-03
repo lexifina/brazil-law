@@ -1,0 +1,23 @@
+DECISÃO
+TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA RECOLHIDA EM RECLAMATÓRIA TRABALHISTA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+1. Trata-se de Recurso Especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, III, a da Constituição da República, contra acórdão proferido pelo egrégio Tribunal Regional Federal da 4a. Região, assim ementado:
+TRIBUTÁRIO. COISA JULGADA. INCOMPETÊNCIA ABSOLUTA DA JUSTIÇA FEDERAL. INOCORRÊNCIA. CONTRIBUIÇÃO PREVIDENCIÁRIA RECOLHIDA EM RECLAMATÓRIA TRABALHISTA. RESTITUIÇÃO. ATUALIZAÇÃO MONETÁRIA.
+1. Coisa julgada material não configurada, tendo em vista a inexistência dos três elementos que a caracterizam: identidade de parte, de causa de pedir e de pedido (art. 301, §§ 1º, 2º e 3º, do CPC).
+2. Afastada a arguição de incompetência do Juízo Federal, tendo em vista que o objeto da lide recai sobre a incidência de tributo instituído pela União (contribuição previdenciária recolhida em demanda trabalhista) e não sobre obrigação trabalhista.
+3. Hipótese em que a decisão proferida na Justiça do Trabalho autorizou a reclamada a efetuar a retenção de valor de R$ 118,97, referente aos descontos previdenciários. Incabível, portanto, a retenção do valor de R$ 108.814,86 a título de contribuição previdenciária promovida pelo Juízo Falimentar sobre o montante recebido pelo autor, porquanto o valor efetivamente devido estava expressamente indicado tanto na decisão homologatória dos cálculos de liquidação, quanto na Certidão de Crédito Trabalhista, devendo os valores cujo recolhimento foi indevido ser restituídos à parte autora, a teor do que dispõe o art. 165, inciso I, do Código Tributário Nacional.
+4. Os créditos deverão ser corrigidos pela Taxa SELIC, nos termos do § 4º do art. 39 da Lei nº 9.250/95 (fls. 219).
+2. Os Embargos de Declaração foram rejeitados (fls. 238).
+3. Nas suas razões recursais, a parte recorrente aponta violação dos arts. 20, 43, § 1o. da Lei 8.212/1991 e 879, § 3o. da CLT. Sustenta, em síntese, que a sentença homologou o acordo em valores globais e, com relação à certidão, por óbvio não se cogita de coisa julgada. Ademais, a sentença trabalhista autoriza os DESCONTO PREVIDENCIÁRIOS CABÍVEIS, por certo na forma da Lei e a certidão exarada consigna apenas os valores totais do crédito trabalhista para fins de habilitação na falência, não há qualquer determinação de que o desconta seja de apenas R$ 118,97 (fls. 245).
+4. Apresentadas as Contrarrazões (fls. 250/269), o recurso foi admitido na origem (fls. 273).
+5. É o relatório.
+6. A insurgência não merece prosperar.
+7. O Tribunal de origem, ao decidir a lide, assim consignou:
+Nas ações trabalhistas de que resultar o pagamento de direitos sujeitos à incidência de contribuição previdenciária, deixando de ser especificadas as quantias pagas, a incidência da contribuição previdenciária ocorre sobre o total, pois as contribuições previdenciárias são devidas independentemente da vontade das partes.
+No presente caso, a decisão proferida na Justiça do Trabalho autorizou a reclamada a efetuar a retenção de valor de R$ 118,97, referente aos descontos previdenciários. Ou seja, na própria decisão homologatória dos cálculos de liquidação da Justiça do Trabalho, houve menção expressa ao valor do desconto devido ao INSS.
+Salienta-se que os cálculos foram elaborados por contador, no qual constaram "todos os elementos da condenação imposta, assim como foram observados os critérios determinados por esse Juízo com relação às parcelas de Correção Monetária, Juros, FGTS e, igualmente, no que concerne aos descontos previdenciários incidentes, que deverão observar o limite máximo do salário-de-contribuição." (evento 14, SENT2).
+O Juízo trabalhista se deu por incompetente para apreciar os valores e base de cálculo do desconto relativo ao IRRF, nos termos do provimento 1/96 da Corregedoria Geral do TST.
+Assim, é incabível a retenção do valor de R$ 108.814,86 a título de contribuição previdenciária promovida pelo Juízo Falimentar, porquanto o valor efetivamente devido estava expressamente indicado tanto na decisão homologatória dos cálculos de liquidação, quanto na Certidão de Crédito Trabalhista (evento 1, CALC7 e CERT8).
+Em razão do exposto, restou caracterizada a ilegalidade do recolhimento da contribuição previdenciária sobre o montante recebido pelo autor no Juízo Falimentar (nº 019/1.05.0002279-8) (fls. 216/217).
+8. Assim, para alterar tal entendimento, necessário o reexame do suporte fático-probatório dos autos, o que é vedado em Recurso Especial, ante o óbice da Súmula 7/STJ.
+9. Ante o exposto, nega-se provimento ao Recurso Especial da FAZENDA NACIONAL.
+10. Publique-se. Intimações necessárias.
