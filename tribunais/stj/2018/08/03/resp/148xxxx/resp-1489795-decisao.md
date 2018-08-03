@@ -1,0 +1,31 @@
+DECISÃO
+PREVIDENCIÁRIO. RECURSO ESPECIAL. APOSENTADORIA POR IDADE. TRABALHADOR URBANO. PREENCHIMENTO DOS REQUISITOS. A CARÊNCIA MÍNIMA EXIGIDA, PARA CONCESSÃO DE APOSENTADORIA POR IDADE DOS SEGURADOS INSCRITOS NA PREVIDÊNCIA EM PERÍODO ANTERIOR À 1991, É AUFERIDA NO MOMENTO DE IMPLEMENTAÇÃO DO REQUISITO ETÁRIO. REQUISITOS NÃO PREENCHIDOS PELA PARTE AUTORA. RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+1. Trata-se de Recurso Especial interposto com fundamento na alínea a do art. 105, III da Constituição Federal, no qual se insurge contra acórdão do Tribunal Regional Federal da 3a. Região, assim ementado:
+PREVIDENCIÁRIO. AGRAVO. APOSENTADORIA POR IDADE. IMPLEMENTO DE CARÊNCIA. NÃO COMPROVAÇÃO.
+Restando incomprovado o recolhimento das contribuições previdenciárias pela segurada em lapso suficiente à implementação da carência exigida pelo art. 142 da Lei 8.213/91, fica elidido o direito à concessão do benefício previdenciário de aposentadoria por idade, levando à correta reforma da sentença prolatada pelo magistrado de primeiro grau.
+Agravo improvido.
+2. Em seu Apelo Especial, pleiteia o recorrente que sua aposentadoria seja recalculada segundo as regras vigentes ao tempo em que reuniu as condições para se aposentar, ou seja, a mesma base de cálculo para a concessão do abono.
+3. É o relatório. Decido.
+4. Cuida-se de ação em que se busca a concessão do benefício de aposentadoria por idade, negado pelas duas instâncias, ao fundamento de que a autora, no momento em que implementou a idade, não atendia ao requisito de carência exigido para a concessão do benefício.
+5. De acordo com a legislação previdenciária, a aposentadoria por idade é devida aos 65 anos, se homem, e 60 anos, se mulher, desde que cumprida a carência de 180 contribuições mensais, observada a regra transitória inscrita no art. 142 da Lei 8.213/1991, voltada para os trabalhadores já vinculados à Previdência em período anterior a 1991.
+6. Ao contrário do quer fazer crer a autora, os segurados inscritos no RGPS antes antes da edição da Lei 8.213/1991, que alterou de 60 meses para 180 meses a carência para concessão de aposentadoria urbana, tinham apenas expectativa de direito, razão pela qual o período de carência mínima é fixado pelo ano do cumprimento etário para a concessão do benefício, nos termos do art. 142 da Lei 8.213/1991.
+7. No caso dos autos, as instâncias ordinárias consignaram que a autora, quando do implemento da idade não apresentada as contribuições exigidas pela lei, razão pela qual é improcedente o pedido de concessão, não havendo que se falar em reforma do acórdão.
+8. Nesse sentido, os seguintes julgados:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. APOSENTADORIA POR IDADE URBANA. PREENCHIMENTO SIMULTÂNEO DOS REQUISITOS. DESNECESSIDADE. REGRA DE TRANSIÇÃO DO ART. 142 DA LEI DE BENEFÍCIOS. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O segurado que não implementa a carência legalmente exigida quando atingido o requisito etário, pode cumprí-la posteriormente pelo mesmo número de contribuições previstas para essa data. Não haverá nesta hipótese um novo enquadramento na tabela contida no art. 142 da Lei 8.213/1991, como entendeu o Tribunal a quo.
+2. Agravo regimental não provido (AgRg no AgRg no REsp. 1.456.209/RS, Rel. Min. MAURO CAMPBELL MARQUES, DJe 23.9.2014).
+
+PREVIDENCIÁRIO. RECURSO ESPECIAL. APOSENTADORIA POR IDADE URBANA. PREENCHIMENTO SIMULTÂNEO DOS REQUISITOS. DESNECESSIDADE. REGRA DE TRANSIÇÃO DO ART. 142 DA LEI DE BENEFÍCIOS. PRECEDENTES. RECURSO ESPECIAL CONHECIDO E PROVIDO.
+1. Tendo a parte recorrente sido filiada ao sistema antes da edição da Lei 8.213/1991, a ela deve ser aplicada, para fins de cômputo de carência necessária à concessão da aposentadoria por idade, a regra de transição disposta no art. 142 da Lei de Benefícios.
+2. Deve beneficiar-se da regra de transição o segurado que estava vinculado ao Regime Geral da Previdência Social, mas que, por ocasião da nova Lei não mantivesse a qualidade de segurado, desde que retorne ao sistema.
+3. A implementação dos requisitos para a aposentadoria por idade urbana pode dar-se em momentos diversos, sem simultaneidade. Mas, uma vez que o segurado atinja o limite de idade fixado, o prazo de carência está consolidado, não podendo mais ser alterado. A interpretação a ser dada ao art. 142 da referida Lei deve ser finalística, em conformidade com os seus objetivos, que estão voltados à proteção do segurado que se encontre no período de transição ali especificado, considerando o aumento da carência de 60 contribuições para 180 e que atinjam a idade nele fixada.
+4. Com o advento da Lei 10.666/2003, que passou a disciplinar especificamente a questão da dissociação dos requisitos para obtenção do benefício, a nova sistemática não faz distinção entre o tempo anterior e o posterior à perda da qualidade de segurado.
+5. O acórdão recorrido deve ser reformado, porque está em dissonância com a jurisprudência do STJ que admite a aplicação do art. 142 combinado com o § 1º do art. 3º da Lei 10.666/2003. Observância do incidente de uniformização de jurisprudência, Pet 7.476/PR.
+6. O segurado que não implementa a carência legalmente exigida quando atingido o requisito etário, pode cumprí-la posteriormente pelo mesmo número de contribuições previstas para essa data. Não haverá nesta hipótese um novo enquadramento na tabela contida no art. 142 da Lei 8.213/1991, como entendeu o Tribunal a quo.
+7. Recurso especial conhecido e provido, determinando-se ao INSS que refaça a contagem da carência com base na data em que a segurada atingiu a idade mínima. Inversão do ônus da sucumbência. Honorários advocatícios fixados em 10% sobre o valor da condenação (REsp. 1.412.566/RS, Rel. Min. MAURO CAMPBELL MARQUES, DJe 2.4.2014).
+
+PREVIDENCIÁRIO. APOSENTADORIA URBANA POR IDADE. PREENCHIMENTO SIMULTÂNEO DOS REQUISITOS. DESNECESSIDADE. REGRA DE TRANSIÇÃO DO ART. 142 DA LEI DE BENEFÍCIOS.
+1. Esta Corte, ao analisar o disposto no art. 102 da Lei de Benefícios, firmou a compreensão de que, em se tratando de aposentadoria por idade, prescindível que o preenchimento dos requisitos sejam simultâneos.
+2. Agravo regimental improvido (AgRg no AG 1.364.714/RS, Rel. Min. JORGE MUSSI, DJe 6.5.2011).
+9. Ante o exposto, nega-se provimento ao Recurso Especial.
+10. Publique-se. Intimações necessárias.
