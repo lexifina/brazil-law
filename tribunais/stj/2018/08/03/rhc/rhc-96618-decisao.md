@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME], desafiando acórdão do Tribunal de Justiça do Estado da Bahia (HC n. 0028566-51.2017.8.05.0000).
+Depreende-se dos autos que o ora recorrente foi preso em flagrante no dia 28/9/2017, custódia essa convertida em preventiva, pela prática, em tese, do delito inscrito no art. 33, caput, da Lei n. 11.343/2006, pois foi surpreendido com 997g (novecentos e noventa e sete gramas) de maconha, além de uma balança de precisão (e-STJ fl. 55).
+Impetrado prévio writ na origem, a ordem foi denegada em acórdão assim ementado (e-STJ fl. 111):
+HABEAS CORPUS. PROCESSO PENAL. PACIENTE FLAGRANTEADO PELA SUPOSTA PRÁTICA DA CONDUTA DELITIVA TIPIFICADA NO ART. 33 DA LEI Nº 11.343/2006. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. PRETENSÕES DA IMPETRAÇÃO:
+I) AUSÊNCIA DE APRECIAÇÃO DO PEDIDO DE RELAXAMENTO DA PRISÃO EM FLAGRANTE E NÃO REALIZAÇÃO DA AUDIÊNCIA DE CUSTÓDIA. TESES SUPERADAS. PRISÃO FLAGRANCIAL CONVERTIDA EM PREVENTIVA EM 18.10.2017. SUPLANTADA QUALQUER EVENTUAL IRREGULARIDADE OCORRIDA ANTES DE TAL DECRETO PRISIONAL, O QUAL, INCLUSIVE, POSSUI FUNDAMENTOS DIVERSOS DA CUSTÓDIA INICIAL. PRECEDENTES DO STJ.
+II) EXCESSO DE PRAZO PARA O CUMPRIMENTO DO MANDADO DE NOTIFICAÇÃO DO PACIENTE. PREJUDICADO. INFORMES DA AUTORIDADE INDIGITADA COATORA NOTICIANDO QUE O PACIENTE FOI NOTIFICADO EM 13.12.2017, E, DEVIDO O NÃO OFERECIMENTO DE DEFESA PRÉVIA, DETERMINOU A ABERTURA DE VISTAS À DEFENSORIA PÚBLICA ESTADUAL EM 17.01.2018, NOS TERMOS DO ART. 55, § 3º, DA LEI 11.343/06. CONSTRANGIMENTO ILEGAL SUPERADO NO TRÂMITE DESTE WRIT.
+III) AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA DO DECRETO CONSTRITIVO. DESCABIDA. PRESENTES O FUMUS COMISSI DELICTI E O PERICULUM LIBERTATIS À EMBASAR A SEGREGAÇÃO CAUTELAR DO PACIENTE. INDÍCIOS DE AUTORIA E MATERIALIDADE DELITIVA, BEM COMO EVIDENCIADA A REITERAÇÃO DELITIVA DO PACIENTE. NÃO INCIDÊNCIA DA SÚMULA Nº 444 DO STJ PARA EFEITO DE PRISÃO PREVENTIVA. ELEMENTOS QUE APONTAM PARA A NECESSIDADE DA SEGREGAÇÃO CAUTELAR PELA GARANTIA DA ORDEM PÚBLICA. PRECEDENTES DO STJ.
+WRIT CONHECIDO E ORDEM DENEGADA.
+Daí o presente recurso ordinário, no qual sustenta a defesa que "o aqui recorrente foi preso em flagrante no dia 28 de setembro de 2017, e até a presente data  ..  não fora levado a presença de juízo, restando claro o constrangimento ilegal no que sofre o recorrente, visto que a prisão em flagrante fora convertida em preventiva sem que tenha sido realizada a audiência de custódia" (e-STJ fl. 132).
+Alega, ainda, que o decreto de prisão carece de fundamentação idônea, uma vez que a prisão preventiva foi decretada com base na gravidade em abstrato do delito.
+Diante dessas considerações, pede, liminar e definitivamente, a revogação da prisão preventiva.
+Liminar indeferida às e-STJ fls. 149/151.
+Ouvido, o Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ fls. 186/189)
+É, em síntese, o relatório.
+Em consulta à página eletrônica do Tribunal de Justiça do Estado da Bahia, verifica-se que o recorrente, em 2 de maio de 2018, foi beneficiado com o relaxamento de sua prisão, por decisão de seguintes termos:
+Ante o exposto, determino o relaxamento da prisão do acusado, ora requerente, com fulcro nos supracitados motivos, e, considerando necessário, no caso em tela, para assegurar-se a realização da instrução criminal, aplico-lhe as medidas cautelares que se seguem: Proibição de ausentar-se da Comarca, por mais de 30 (trinta) dias, salvo Autorização Judicial; Recolhimento domiciliar no período noturno e nos dias de folga ao trabalho, até às 21:00 horas. Expeça-se Alvará de Soltura, se por al não estiver preso, e lavre-se o competente Termo de Compromisso.
+Nessas circunstâncias, havendo a superveniência de decisão judicial assegurando ao ora recorrente a expedição de alvará de soltura, o presente recurso perdeu seu objeto.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
