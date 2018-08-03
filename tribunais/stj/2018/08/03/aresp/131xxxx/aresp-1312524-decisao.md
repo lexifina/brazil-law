@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo manejado por [NOME] contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fls. 236/237):
+PROCESSO CIVIL. CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO RETIDO. CONCRETIZAÇÃO DO DIREITO FUNDAMENTAL À SAÚDE. ARTIGO 196, DA CONSTITUIÇÃO FEDERAL. SISTEMA ÚNICO DE SAÚDE. FORNECIMENTO DE MEDICAMENTO. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERATIVOS LEGITIMIDADE PASSIVA DA UNIÃO. RECURSO DE APELAÇÃO. DESNECESSIDADE DE ESGOTAMENTO DA VIA ADMINISTRATIVA. ATUAÇÃO DO PODER JUDICIÁRIO. POSSIBILIDADE. FIXAÇÃO DE MULTA DIÁRIA. DESNECESSIDADE. AUSÊNCIA DE RECALCITRÂNCIA POR PARTE DOS ENTES FEDERATIVOS.
+1 - A obrigação da União, dos Estados e dos Municípios, quanto ao dever fundamental de prestação de saúde, é solidária, de maneira que qualquer um dos referidos entes federativos pode figurar no polo passivo de demanda em que se objetiva o fornecimento ou custeio de medicamentos ou tratamento médico.
+Precedentes do Supremo Tribunal Federal e do Superior Tribunal de Justiça.
+2 - O desrespeito ao prévio procedimento administrativo, de observância geral, não obsta o deferimento do pedido de fornecimento dos medicamentos necessários ao adequado tratamento da parte autora, sobretudo porque a morosidade do trâmite burocrático não pode sobrepor-se ao direito fundamental à
+saúde.
+3 - O Plenário do Supremo Tribunal Federal, nos autos do Agravo Regimental na Suspensão da Tutela Antecipada nº 175, de Relatoria do Ministro Gilmar Mendes, assentou a possibilidade de, após a análise minuciosa das circunstâncias de cada caso concreto e a realização de juizo de ponderação, o poder judiciário garantir o direito à saúde por meio do fornecimento de medicamento ou tratamento indispensável para o aumento de sobrevida e a melhoria da qualidade de vida do paciente da rede pública de saúde.
+4 - O artigo 196, da Constituição Federal, não consubstancia mera norma programática, incapaz de produzir efeitos, não havendo dúvidas de que obriga o poder público a garantir o direito à saúde mediante políticas sociais e econômicas, bem como a exercer ações e serviços de forma a proteger, promover e recuperar a saúde
+5 - Embora o medicamento em questão (TYKERB - DITOSILATO DE LAPATINIBE) não se encontre abrigado por política pública de saúde, importante destacar que ele apresenta registro na Agência Nacional de Vigilância Sanitária - ANVISA e que o médico que acompanha a parte autora informou que o tratamento com o medicamento pleiteado é o tratamento indicado para a doença que a acomete Destaque-se. ainda, que os apelantes, em nenhum momento, apontaram outros recursos terapêuticos supostamente mais eficazes do que o ora pleiteado
+6 - O Superior Tribunal de Justiça firmou entendimento no sentido de que é permitida a aplicação de multa diária contra a Fazenda Pública quando caracterizado o atraso no cumprimento de obrigação de fazer ou de entregar coisa, nos termos dos artigos 461 e 461-A, do Código de Processo Civil.
+7 - Entretanto, em relação aos entes federativos, a providência deve ser vista com cautela, de maneira que sua aplicação somente se justifica nos casos em que esteja configurada a desidia ou recalcitrância em proceder ao cumprimento da decisão judicial.
+8 - Agravo retido interposto pela UNIÃO desprovido. Recurso de apelação interposto pelo MUNICÍPIO DE VILA VELHA desprovido. Remessa necessária e recurso de apelação interposto pela UNIÃO parcialmente provido.
+Opostos embargos declaratórios, foram improvidos.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 273, § 3º, 461, §§ 4º e 5º, 461-A, §§ 2º e 3º do CPC/73.
+Sustenta ter sido indevida a exclusão das astreintes, pois estas representam medida de apoio ao cumprimento da obrigação fixada na condenação de fornecimento de medicamentos.
+O MPF opinou pelo não provimento do agravo (fls. 519/523).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+O inconformismo não prospera.
+No caso, o Tribunal de origem concluiu pelo afastamento da multa diária fixada pela sentença a partir dos seguintes fundamentos (fl. 232):
+Entretanto, em relação aos entes federativos, a providência deve ser vista com cautela, de maneira que sua aplicação somente se justifica nos casos em que esteja configurada a desidia ou recalcitrância em proceder ao cumprimento da decisão judicial.
+Da detida análise dos autos, não se depreende resistência injustificada por parte dos entes federativos ao cumprimento da determinação judicial de fornecimento do medicamento pleiteado pela parte autora, não havendo nos autos sequer notícia de que a determinação judicial não vem sendo cumprida.
+Como se vê, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+A propósito:
+ADMINISTRATIVO E PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE MEDICAMENTOS. VIOLAÇÃO DO ART. 535 DO CPC/73. INOVAÇÃO RECURSAL. MULTA. REVISÃO. SÚMULA 7/STJ.
+1. A nulidade do acórdão recorrido por negativa de prestação jurisdicional na instância ordinária não se constituiu tema do recurso especial, sendo incabível o aditamento das razões recursais por ocasião do agravo interno.
+2. Rever os critérios utilizados pela Corte local, quanto à fixação da multa, implica o imprescindível reexame das provas constantes dos autos, o que é defeso em sede de recurso especial ante o que preceitua a Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 937.397/PE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 22/11/2016, DJe 28/11/2016)
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
