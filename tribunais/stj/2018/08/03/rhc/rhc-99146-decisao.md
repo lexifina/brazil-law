@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina (HC n. 4010857-67.2018.8.24.0000).
+Consta dos autos ter sido o recorrente preso em flagrante, custódia essa convertida em preventiva, pela suposta prática do crime de tráfico de entorpecentes.
+Impetrado habeas corpus no Tribunal de origem objetivando a liberdade do ora recorrente, a ordem foi denegada nos termos da seguinte ementa (e-STJ fl. 248):
+HABEAS CORPUS. PACIENTE PRESO EM FLAGRANTE EM RAZÃO DA PRÁTICA, EM TESE, DOS DELITOS DE TRÁFICO ILÍCITO DE ENTORPECENTES E ASSOCIAÇÃO PARA O MESMO FIM (ART. 33 E 35, "CAPUT ", DA LEI N. 11.343/06). CONVERSÃO DA PRISÃO EM FLAGRANTE EM PREVENTIVA. INDEFERIMENTO DO PEDIDO DE REVOGAÇÃO. PREENCHIMENTO DOS PRESSUPOSTOS E REQUISITOS DO ART. 312 DO CÓDIGO DE PROCESSO PENAL. INDÍCIOS SUFICIENTES PARA SUSTENTAR AS IMPUTAÇÕES FEITAS AO PACIENTE. NECESSIDADE DA SEGREGAÇÃO PARA GARANTIA DA ORDEM PÚBLICA E PARA EVITAR REITERAÇÃO DELITUOSA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO DA DECISÃO. NÃO ACOLHIMENTO. MAGISTRADO QUE EXPLICITOU OS ELEMENTOS CONCRETOS PARA A DECRETAÇÃO E MANUTENÇÃO DA CONSTRIÇÃO. PACIENTE PRESO EM FLAGRANTE, JUNTAMENTE COM PESSOA DE NACIONALIDADE ESTRANGEIRA, CONTRATADA PELO MESMO PARA TRANSPORTAR, EM SEU ESTÔMAGO, 100 (CEM) CAPSULAS DE COCAÍNA DO PARAGUAI PARA CHAPECÓ. AGENTE, QUE OSTENTA, AINDA, A CONDIÇÃO DE REINCIDENTE. POSSIBILIDADE DE REITERAÇÃO CRIMINOSA CARACTERIZADA. FUMUS COMISSI DELICTI E PERICULUM LIBERTATIS DEMONSTRADOS. SEGREGAÇÃO CAUTELAR QUE NÃO FERE O PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA. SUBSTITUIÇÃO DA PRISÃO PREVENTIVA PELA APLICAÇÃO DE MEDIDAS CAUTELARES. PROVIDÊNCIA QUE, NA HIPÓTESE, NÃO SE MOSTRA SUFICIENTE À GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM CONHECIDA E DENEGADA.
+Neste recurso, sustenta a defesa inexistir motivação idônea para a segregação antecipada, visto que não apontada, concretamente, a presença dos requisitos do art. 312 do Código de Processo Penal, asseverando a suficiência da imposição de medidas cautelares alternativas.
+Busca, inclusive liminarmente, seja concedida a liberdade ao recorrente.
+O Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ fls. 293/294).
+É, em síntese, o relatório.
+Pois bem. Informações extraídas do endereço eletrônico do Tribunal de origem noticiam a substituição, em 11/7/2018, da prisão preventiva do recorrente por medida cautelar alternativa.
+Assim, fica sem objeto este recurso.
+Veja-se, a propósito, o seguinte precedente:
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA SUBSTITUÍDA POR DOMICILIAR EM RELAÇÃO A UM DOS PACIENTES. WRIT PREJUDICADO. FUNDAMENTAÇÃO CONCRETA. ILEGALIDADE. AUSÊNCIA. QUANTIDADE DE DROGA APREENDIDA. HABEAS CORPUS PREJUDICADO EM RALAÇÃO A UM DOS PACIENTE, E DENEGADO EM RELAÇÃO AO OUTRO.
+1. Apresentada fundamentação concreta para a decretação da prisão preventiva, evidenciada na grande quantidade e diversidade de entorpecentes apreendidos com os pacientes, tratando-se de 150 (cento e cinquenta) gramas de maconha e 200 (duzentas) gramas de cocaína, não há que falar em ilegalidade da prisão.
+2. Resta prejudicado o presente writ em relação ao paciente, [NOME] GONÇALVES [NOME], pois foi deferido o pedido de substituição da prisão preventiva por domiciliar, na origem.
+3. Habeas corpus prejudicado em relação ao paciente [NOME], e denegado em relação ao paciente EDSLAN DAVID LISBOA [NOME].
+(HC 401.047/BA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 27/02/2018, DJe 03/04/2018)
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
