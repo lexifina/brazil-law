@@ -1,0 +1,29 @@
+DECISÃO
+Vistos.
+Cuida-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado de São Paulo, que, nos autos da impetração originária denegou a ordem suscitada por compreender que não estão presentes nos autos elementos suficientes à imediata concessão de liberdade, bem como à substituição da preventiva por medidas cautelares (fls. 56/57, e-STJ).
+
+No presente recurso, alega-se, em suma, a falta de fundamentação idônea para a decretação da prisão processual, porque inexistentes elementos concretos a justificá-la (fl. 68, e-STJ).
+Requer, liminarmente, a revogação da prisão preventiva.
+É, no essencial, o relatório.
+Não estão presentes os pressupostos autorizadores do acolhimento da pretensão liminar.
+ A concessão da tutela de emergência, em juízo de cognição sumária e singular, exige a demonstração, concomitante e em grau bastante satisfatório, da plausibilidade do direito arguído e do perigo na demora. Este pode até ser admitido; aquela, ao revés, não se evidencia estreme de dúvidas, porque o Tribunal a quo, ao manter a prisão preventiva, afirmou que a decisão que a decretou encontra-se bem fundamentada, presente os requisitos autorizadores da medida, nos seguintes termos (fls. 55/57, e-STJ):
+"A alegada primariedade do paciente não pode, isoladamente, justificar a revogação de sua prisão, inclusive porque há fundados indícios da autoria dos crimes.
+ ..
+Além do mais, o paciente evadiu-se do distrito da culpa, após a prática delitiva, encontrando-se foragido até a presente data.
+ ..
+Por fim, frise-se que, pelo fato de se tratar de tráfico de entorpecente, não se admite a concessão do beneficio da liberdade provisória, por força do art. 44, "caput", da Lei nº 11.343/06, dispositivo legal não derrogado pela Lei nº 11.464/07 e que está em perfeita sintonia com o art. 5º, inciso XLIII, da Constituição Federal, que prevê a inafiançabilidade dos crimes de tortura, tráfico ilícito de entorpecentes e drogas afms, do terrorismo e dos fatos definidos como crimes hediondos.
+Pelos mesmos motivos, inadmissível a substituição da prisão preventiva por uma das medidas cautelares previstas no art. 319 do Código de Processo Penal."
+Nesse cenário, "não há ilegalidade na manutenção da prisão preventiva quando demonstrado, com base em fatores concretos, que a segregação se mostra necessária, dada a gravidade da conduta incriminadora e o histórico penal do acusado" (HC 307.628/TO, Rel Ministro Jorge Mussi, QUINTA TURMA, julgado em 25/01/2014, DJe 05/12/2014).
+A alegação de ofensa à norma constitucional que garante a liberdade do acusado até o trânsito em julgado refere-se aos casos em que já há condenação. Ademais, o Supremo Tribunal Federal, ao julgar o HC 126.292, passou a adotar o entendimento de que não viola a presunção constitucional de não culpabilidade a execução provisória da pena quando pendente recurso sem efeito suspensivo, como são os recursos extraordinário e especial, nos quais não há mais possibilidade de discussão acerca da matéria de fato.
+Tal entendimento foi ratificado pelo Pleno da Corte no julgamento das ADCs 43 e 44, quando o Supremo decidiu que o art. 283 do CPP não impede o início da execução da pena após esgotadas as instâncias ordinárias, assentando que é coerente com a Constituição iniciar a execução criminal quando houver condenação confirmada em segundo grau, salvo atribuição expressa de efeito suspensivo ao recurso cabível.
+Neste sentido:
+"(..) 4. Trânsito em julgado em relação às outras penas aplicadas. Execução provisória da pena. O Plenário, em recente julgamento do HC 126.292/SP, relatoria do Min. Teori Zavascki (Ata nº 2, DJe 19.2.2016), firmou entendimento no sentido de ser possível o início da execução da pena na pendência de recurso extraordinário ou especial. Isso porque, no plano legislativo, o art. 637 do CPP afirma que os recursos extraordinários não têm efeito suspensivo. Logo, uma decisão condenatória de segunda instância poderia ser executada na pendência do recurso. Precedentes." (ARE 737.305 AgR, Relator Min. GILMAR MENDES, Segunda Turma, julgado em 28/6/2016, ACÓRDÃO ELETRÔNICO DJe-167 DIVULG 9/8/2016 PUBLIC 10/8/2016.)
+No mesmo sentido:
+"1. Quanto à determinação de prisão, o Tribunal a quo observou o que decidiu o Plenário do Supremo Tribunal Federal no julgamento do HC n. 126.292/SP, ocorrido em17/2/2016, Relator o Ministro Teori Zavascki, no sentido de que a execução provisória de acórdão penal condenatório proferido em julgamento de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência.
+2. A Suprema Corte reafirmou a jurisprudência no sentido de que é possível a execução provisória do acórdão penal condenatório proferido em grau recursal, mesmo que estejam pendentes recursos aos Tribunais Superiores. Ações Declaratórias de Constitucionalidade (ADCs) 43 e 44, considerando que o art. 283 do Código de Processo Penal não impede o início da execução da pena após condenação em segunda instância, e ARE n. 964.246, com repercussão geral reconhecida.
+3. Agravo regimental desprovido."
+(AgRg no HC 377.604/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 06/12/2016, DJe 16/12/2016.)
+Assim, as circunstâncias acima narradas desautorizam o afastamento, de plano, da conclusão a que chegou o Tribunal de Justiça do Estado de São Paulo de que o decreto de prisão encontra-se devidamente fundamentado, de modo que o caso em análise não se enquadra nas hipóteses excepcionais passíveis de deferimento do pedido em caráter de urgência, não veiculando situação configuradora de abuso de poder ou de manifesta ilegalidade sanável no presente juízo perfunctório, devendo a controvérsia ser decidida após a tramitação completa do feito.
+Ante o exposto, INDEFIRO o pedido liminar.
+Remetam-se os autos ao Ministério Público Federal para o parecer.
+Publique-se. Intimem-se.
