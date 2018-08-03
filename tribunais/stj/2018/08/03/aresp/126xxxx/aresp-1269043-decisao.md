@@ -1,0 +1,12 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. INCORPORAÇÃO DE DÉCIMOS. DIVERGÊNCIA JURISPRUDENCIAL. DISSÍDIO NÃO CARACTERIZADO. AGRAVO DO SERVIDOR A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que inadmitiu Recurso Especial interposto por NORIMAR MION E LIMA com fundamento no art. 105, III, c da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+RECURSO DE APELAÇÃO EM AÇÃO ORDINÁRIA. ADMINISTRATIVO. SERVIDORA PÚBLICA ESTADUAL. INCORPORAÇÃO DE DÉCIMOS. Servidora Pública que é titular de cargo efetivo de oficial administrativo tendo sido designada para exercer funções de direção. Administração que reconheceu o direito ao benefício disposto no artigo 133 da Constituição Estadual (incorporação de décimos) e efetua regularmente o pagamento.
+Cálculo efetuado corretamente, de acordo com a lei. Inteligência do disposto no artigo 8o. do Decreto 35.200/92. Aumento do valor da remuneração do cargo efetivo da servidora, sem alteração da remuneração do outro cargo, que acarretará diminuição da diferença do benefício, mas sem redução do valor integral dos vencimentos da servidora. Precedente desta C. 5a. Câmara de Direito Público. Sentença mantida. Recurso desprovido (fls. 89).
+2. Nas razões do Recurso Especial inadmitido, a parte recorrente alega divergência jurisprudencial, tendo em vista que a Constituição Paulista trata como direito adquirido a incorporação de cada décimo pelo recebimento de verba a maior em decorrência do exercício de outra função pelo servidor, sendo ilegal a supressão dos décimos incorporados.
+3. É o relatório do essencial.
+4. Inicialmente, cumpre reconhecer, que o presente recurso conquanto fundado na alínea c do inciso III do art. 105 da Constituição Federal não pode ser conhecido. Com efeito, o dissídio jurisprudencial não foi demonstrado na forma exigida, haja vista a ausência de cotejo analítico entre os julgados confrontados, tendo o recorrente se limitado à transcrição de ementas.
+5. Ademais, dessume-se da leitura do acórdão recorrido e das razões do Recurso Especial que a controvérsia dos autos demanda a análise de eventual ofensa a dispositivos legais emanados de legislação local, o que não é possível, a teor da Súmula 280 do STF.
+6. Ante o exposto, nega-se provimento ao Agravo do servidor.
+7. Publique-se.
+8. Intimações necessárias.
