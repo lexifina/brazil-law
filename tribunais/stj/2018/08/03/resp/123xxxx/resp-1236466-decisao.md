@@ -1,0 +1,68 @@
+DECISÃO
+ Trata-se de recurso especial interposto por MARIA IEDA FERREIRA E OUTRO, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"EMENTA: Locação de imóvel misto (residência dos locatários e pensão) - Ação de despejo por falta de pagamento, cumulada com cobrança de aluguéis e encargos - Sentença de improcedência - Reforma do julgado - Contrato verbal - Alegação defensiva de que o imóvel foi adquirido no ano de 1984 - Ausência de prova nesse sentido - Ação de usucapião pendente de julgamento - Irrelevância - Lide restrita à comprovação do vínculo locatício - Autor que apresentou contrato firmado com o ex-companheiro da ré, revelando o vínculo a partir do ano de 1995 e declarações da ré que demonstram conhecimento da existência do contrato verbal de locação desde o inicio da ocupação - Inteligência do art. 333, II, do CPC.
+Apelo do autor parcialmente provido e adesivo da ré desprovido.
+Agravo retido não conhecido." (e-STJ,fl.1325)
+Opostos embargos de declaração por ambas as partes, foram rejeitados os embargos da ré e acolhidos os do autor, sem alteração do julgado (e-STJ fl. 1353/1361).
+Em suas razões recursais, a recorrente aponta, preliminarmente, violação aos art. 330, 332, 336, 343 e 400 do CPC/73, por ter o acórdão cerceado o direito de defesa da recorrente, que teve tolhido o direito de produzir prova oral pelo julgamento antecipado da lide.
+Aduz, ainda, violação dos seguintes dispositivos: 1) art. 535 do CPC/73, porque o acórdão teria sido omisso ao deixar de citar expressamente os artigos tidos como violados; 2) art. 530, II, CC/16, por ter reconhecido o autor como proprietário do imóvel em questão; 3) art. 2º, 264,460 do CPC/73, por ter o acórdão se baseado em fato não mencionado na petição inicial; 4) art. 38, 349 do CPC/73 e art. 213 do CC, por ter o acórdão adotado como razão de decidir afirmações feitas por advogado sem poderes para confessar; 5) art. 550, 551 do CC/16, por não ter a Corte de origem considerado as provas de que a recorrente adquiriu a propriedade do imóvel e 6) art. 47, 315 e 448, II do CPC/73, por não ter o Tribunal de origem analisado a apelação adesiva da recorrente.
+Por fim, alega haver dissídio jurisprudencial, por não ter o Tribunal de origem considerado a necessidade de ratificação da apelação do autor após o julgamento dos embargos de declaração opostos pela ré.
+Apresentadas contrarrazões às fls. 1415/1438 (e-STJ).
+É o relatório. Passo a decidir.
+De início, no que diz respeito à alegada existência de dissídio jurisprudencial por não ter o Tribunal de origem considerado a necessidade de ratificação da apelação do autor após o julgamento dos embargos de declaração opostos pela ré, constata-se que a parte recorrente, nas razões do apelo especial, não indicou nenhum dispositivo legal supostamente contrariado pelo acórdão recorrido ou objeto de interpretação divergente pelos tribunais, o que atrai a incidência, por analogia, da Súmula 284 do Supremo Tribunal Federal. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ALÍNEAS "A" E "C" DO PERMISSIVO CONSTITUCIONAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF.
+1. Em relação à alínea "a", a alegação genérica, sem a particularização dos dispositivos legais eventualmente violados pelo aresto recorrido, implica deficiência de fundamentação, conforme pacífico entendimento deste STJ, atraindo a incidência, ao caso, da Súmula 284/STF.
+2. Quanto à alínea "c", a ausência de particularização do dispositivo de lei federal a que os acórdãos - recorrido e paradigma - teriam dado interpretação discrepante consubstancia deficiência bastante a inviabilizar a abertura da instância especial, também atraindo a incidência da Súmula n.º 284 do STF.
+3. Agravo regimental a que se nega provimento, com aplicação de multa. (AgRg no AREsp 675.968/DF, Relator o Ministro Luis Felipe Salomão, Quarta Turma, DJe de 17/4/2015.)
+Dito isto, cuidam os autos de ação de despejo por falta de pagamento cumulada com cobrança de aluguéis e encargos de locação mista movida por [NOME] em face da recorrente, na qual foi proferida sentença que julgou improcedente a pretensão deduzida e condenou o autor no pagamento das verbas sucumbenciais (e-STJ fl. 1157/1165).
+O Tribunal de origem, ao julgar apelações interpostas por ambas as partes, reformou a sentença, nos seguintes termos:
+"Ante o exposto, dou parcial provimento ao apelo do autor para condenar a ré no pagamento dos locativos e encargos da locação vencidos a partir de fevereiro de 1999, reajustados e acrescidos de multa moratória, conforme livremente pactuado (cláusula 50), com juros de mora legais a partir de cada vencimento.
+Declaro, outrossim, rescindido o contrato de locação e determino a desocupação do imóvel no prazo de 15 dias, sob pena de despejo forçado. Nego provimento ao recurso adesivo da ré e não conheço do agravo retido." (e-STJ fl. 1331/1332)
+No voto condutor do acórdão recorrido restou consignado ser inequívoca a existência do contrato de locação e a ciência da ré, desde o ano de 1984, da obrigação locatícia decorrente da ocupação do imóvel, desacolhida a tese defensiva da ré de que sempre residiu no imóvel com ânimo de proprietária, in verbis:
+"Assim é que inequívoca a existência do contrato de locação, que vinha sendo regularmente cumprido, com pagamento dos locativos mensais ao autor, conforme se depreende dos comprovantes de pagamento que estão copiados às fls. 820/827, relativos ao período de fevereiro de 1995 a julho de 1998, assim como a ciência, pela ré, desde o ano de 1984, sobre a obrigação locatícia decorrente da ocupação do imóvel, em nada servindo a singela tese defensiva no sentido de que sempre residiu ali com ânimo de proprietária.
+Com efeito, o direito de propriedade afirmado pela ré vem apoiado em único documento, copiado às fls. 326 (recibo de venda do passe do ponto do imóvel comercial), que, em verdade, revela a aquisição tão somente do ponto comercial, haja vista funcionar ali uma pensão, mas nunca do imóvel em si." (e-STJ fl. 1328/1329)
+Ocorre que a Corte de origem reformou o conteúdo da sentença de improcedência sem que tenham sido colhidas a prova oral requerida pela recorrente ainda em primeira instância, na inicial e em manifestações posteriores, ou indeferida sua produção, de forma fundamentada. Em seguida, expressamente consignou não ter a ré produzido as provas necessárias à comprovação de sua tese de defesa:
+"Nítido, portanto, que a ré não trouxe prova alguma sobre fato que seria extintivo, modificativo ou impeditivo do direito material do autor, como era seu ônus, a teor do art. 333, II, do Código de Processo Civil." (e-STJ fl. 1130/1131) .
+Ao assim proceder, o Tribunal de origem negou à recorrente o direito de comprovar suas alegações no sentido de que residia no imóvel em questão com ânimo de proprietária, bem como de que o autor jamais foi proprietário do imóvel.
+Com efeito, há entendimento firmado nesta eg. Corte no sentido de que não há cerceamento de defesa quando as instâncias ordinárias assentam que a demanda versa sobre matéria cujas provas se mostram suficientes à solução da controvérsia e, por essa razão, dispensam maior dilação probatória. Nesse sentido, confiram-se os seguintes julgados:
+"AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO ANULATÓRIA DE CAMBIAIS COM REPARAÇÃO DE DANOS. AUSÊNCIA DE VIOLAÇÃO AOS ARTIGOS 458, II E 535 DO CPC. ACÓRDÃO QUE CONFIRMOU A SENTENÇA DE IMPROCEDÊNCIA DA AÇÃO COM APOIO NO SUBSTRATO FÁTICO CONSTANTE DOS AUTOS. AGRAVO REGIMENTAL NÃO PROVIDO. APLICAÇÃO DE MULTA.
+(..)
+3. Não procede o alegado cerceamento ao direito de defesa porquanto cabe ao Tribunal de origem decidir se o feito foi corretamente instruído, deferindo as provas que entende necessárias à instrução do processo, bem como indeferindo aquelas que considerar inúteis ou protelatórias. Rever esse entendimento esbarra no óbice da Súmula 7/STJ.
+(..)
+6. Agravo regimental não provido com aplicação de multa."
+(AgRg no Ag 1376870/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/05/2012, DJe 22/05/2012)
+"ADMINISTRATIVO. FORNECIMENTO DE ENERGIA ELÉTRICA. PROVA PERICIAL. CERCEAMENTO DE DEFESA. SÚMULA 7/STJ.
+1. Hipótese em que o Tribunal de origem concluiu, com base na prova dos autos, que "não houve cerceamento de defesa como alegado, vez que a demanda versa sobre matéria na qual as provas produzidas nos autos se mostram suficientes à solução da controvérsia, sendo prescindível maior dilação probatória". A revisão desse entendimento implica reexame de fatos e provas, obstado pelo teor da Súmula 7/STJ.
+2. Agravo Regimental não provido."
+(AgRg no AREsp 129081/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/05/2012, DJe 24/05/2012)
+Não obstante, em sentido oposto, entende, também, esta eg. Corte, que há cerceamento de defesa quando ocorre o julgamento antecipado da lide e a ação é julgada improcedente, por falta de prova, justamente em desfavor da parte que requerera a produção de provas, recusadas pelo julgador. Nesse sentido, confiram-se os seguintes julgados:
+"DIREITO CIVIL E PROCESSUAL CIVIL. CONTRATO DE CORRETAGEM. COMPRA E VENDA DE IMÓVEIS. COMISSÃO DO CORRETOR. APROXIMAÇÃO DAS PARTES E INTERMEDIAÇÃO DO NEGÓCIO. INDEFERIMENTO DE PROVA TESTEMUNHAL.
+JULGAMENTO ANTECIPADO DA LIDE POR FALTA DE PROVAS. CERCEAMENTO DE DEFESA.
+1.- Esta Corte possui jurisprudência firme no sentido de que o julgador não pode indeferir a produção de prova requerida pela parte para, em seguida, seja em sede de julgamento antecipado da lide, seja em julgamento não antecipado, extinguir o processo sem exame do mérito por ausência da prova que ele próprio inviabilizou.
+(..)
+4.- Recurso Especial improvido."
+(REsp 1228751/PR, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 06/11/2012, DJe 04/02/2013)
+PROCESSUAL CIVIL. CERCEAMENTO DE DEFESA. JULGAMENTO ANTECIPADO DA LIDE. OCORRÊNCIA.
+- Há cerceamento de defesa quando, julgada antecipadamente a lide, o pedido é indeferido em virtude da ausência de prova da pretensão.
+- Agravo não provido.
+(AgRg no REsp 1232862/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 28/06/2011, DJe 01/08/2011)
+"AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULAS 05 E 07/STJ. JULGAMENTO EXTRA PETITA. INOCORRÊNCIA. INDEFERIMENTO DE PROVA PERICIAL. JULGAMENTO ANTECIPADO DA LIDE. SENTENÇA DE IMPROCEDÊNCIA. CERCEAMENTO DE DEFESA VERIFICADO. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA. AUSÊNCIA.
+(..)
+4. Correto o reconhecimento de cerceamento de defesa pois o magistrado de 1º grau, após indeferir a prova pericial requerida pela parte autora, julgou antecipadamente a lide, reconhecendo a improcedência do pedido justamente em face da insuficiência de provas. Precedentes.
+(..)
+6. AGRAVO REGIMENTAL DESPROVIDO."
+(AgRg no Ag 732.711/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 02/09/2010, DJe de 15/9/2010).
+Percebe-se que os julgados supracitados referem-se ao indevido julgamento antecipado da lide, com improcedência desta, ensejando cerceamento de defesa, quando julgado improcedente o pedido por falta de provas requeridas oportunamente pelo autor da demanda.
+O mesmo raciocínio deve ser aplicado nas hipótese em que o demandado na ação requer a produção de provas, o pedido é indeferido, julgando-se antecipadamente a lide, afirmando-se que o réu não provou suas alegações. Esse cenário é justamente o presente no caso em exame. Adotando o entendimento acima, tem-se:
+"PROCESSO CIVIL - RESCISÃO CONTRATUAL - JULGAMENTO ANTECIPADO DA LIDE - APELAÇÃO QUE INVERTE A SENTENÇA POR FALTA DE PROVA PELA RÉ - CONTRADIÇÃO - CERCEAMENTO DE DEFESA - OCORRÊNCIA - NULIDADE DA SENTENÇA - REABERTURA DA FASE COGNITIVA - PROVIMENTO.
+1 - Consoante entendimento desta Corte, ocorre cerceamento de defesa quando, proferido julgamento antecipado da lide, admite-se que não há prova do alegado pela ré.
+2 - Recurso especial conhecido e provido para cassar a decisão que julgou antecipadamente a lide, oportunizando a produção de provas, reabrindo-se, assim, a instrução processual."
+(REsp 898.123/SP, Rel. Ministro JORGE SCARTEZZINI, QUARTA TURMA, julgado em 13/02/2007, DJ 19/03/2007, p. 361)
+Desse julgado, valioso destacar, ainda, o seguinte excerto:
+ "Como se observa, resta nítida a existência de contradição, porquanto o Tribunal de Justiça do Estado de São Paulo validou o julgamento antecipado da lide e, ao mesmo tempo, reformou a sentença afastando a indenização por falta de comprovação da ocorrência dos prejuízos alegados pela recorrente, entendendo ser ônus que lhe competia.
+ Ou seja, uma vez reconhecendo que os fatos dependiam de provas - que não foram produzidas - o Tribunal a quo deveria, como alega o recorrente, ter considerado irregular o julgamento antecipado da lide, o que não ocorreu in casu.
+ Sendo assim, inafastável a ocorrência de cerceamento de defesa, devendo ser anulada a sentença proferida e oportunizada a produção de provas, reabrindo-se, assim, a instrução processual. (..)"
+Assim sendo, forçoso reconhecer a violação ao art. 330, I, do CPC/73, que acarretou cerceamento à defesa do ora recorrente.
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, dou provimento ao recurso especial para anular o acórdão recorrido, determinando o retorno dos autos à Corte de origem para que aprecie o pedido de produção de prova oral oportunamente apresentado pela ré, dando prosseguimento ao feito como entender de direito.
+Ficam prejudicadas as demais matérias trazidas no recurso especial.
+Publique-se.
