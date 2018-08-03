@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por HOSPITAL SANTA ELISA LIMITADA em face da decisão monocrática de fls. 535/537 que conheceu do agravo para negar provimento ao recurso especial, sob o fundamento da impossibilidade de analisar a ofensa aos arts. 186 e 927 do CC/02 ante a incidência da Súmula 7 do STJ.
+Em suas razões, a parte embargante afirma, em síntese, que padece de erro material a decisão objurgada, pois "(..) os honorários advocatícios sucumbenciais devem incidir sobre o valor da condenação, de modo que somente terão incidência sobre o valor atualizado da causa quando não for possível mensurar o proveito econômico obtido, o que, certamente, não é o caso da presente demanda, haja vista que a condenação contém valor certo e determinado".
+Devidamente intimada, a parte embargada apresentou impugnação (fls. 547/548), pela rejeição dos aclaratórios.
+É o relatório. Decido.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+É de bom alvitre ressaltar que o art. 1.023, da novel codificação processual, exige que conste na petição de embargos declaratórios a "indicação do erro, obscuridade, contradição ou omissão", sem a qual, repita-se, torna inviável o acolhimento da pretensão recursal.
+No presente caso, sustenta o embargante existir erro material na decisão objurgada, ao argumento de que os honorários advocatícios recursais deveriam incidir sobre o valor da condenação e não sobre o valor da causa, sob pena de a condenação ser superior ao patamar máximo legal de 20% (vinte por cento), consoante art. 85, § 2º, do CPC/2015.
+A decisão recorrida, por sua vez, majorou os honorários advocatícios de 15% (quinze por cento) para 16% (dezesseis por cento) sobre o valor da causa, à luz da fixação inicial feita na sentença (fls. 352/362).
+Ressalta-se que, conforme art. 85, § 11, do CPC/2015, os honorários recursais são majorados em consonância com a fixação feita nas instâncias originárias. Dessa modo, como a sentença arbitrou os honorários sobre o valor da causa, a decisão objurgada seguiu referida base de cálculo.
+Dessa forma, a decisão não padece de erro material, em especial porque o embargante sequer impugnou, oportunamente, a fixação feita pelo juízo a quo, de modo que sua pretensão encontra-se preclusa.
+Diante do exposto, rejeitam-se os embargos declaratórios.
+Publique-se.
