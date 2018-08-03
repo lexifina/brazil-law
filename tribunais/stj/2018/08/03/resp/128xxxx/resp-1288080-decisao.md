@@ -1,0 +1,23 @@
+DECISÃO
+ Trata-se de recurso especial interposto por IMOBILIÁRIA O M GOMES LTDA, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"AGRAVO INTERNO EM APELAÇÕES CÍVEIS. DECISÃO QUE NEGOU SEGUIMENTO AO APELO INTERPOSTO PELA ORA AGRAVADA (RÉ) E DEU PARCIAL PROVIMENTO DE PLANO AO APELO INTERPOSTO PELA ORA AGRAVANTE (AUTORA). AÇÃO DE RESCISÃO CONTRATUAL C/C REINTEGRAÇÃO DE POSSE C/C PERDAS E DANOS. INSTRUMENTO PARTICULAR DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. MANIFESTA INADIMPLÊNCIA DA ADQUIRENTE. RESCISÃO DA AVENÇA COM AMPARO NA REDAÇÃO DO ART. 1.092, PARÁGRAFO ÚNICO DO CC/1916. RETORNO DAS PARTES AO STATUS QUO ANTE. CONSEQÜENTE REINTEGRAÇÃO DE POSSE DO BEM À EMPRESA AUTORA. PERDAS E DANOS E TAXA DE OCUPAÇÃO DIÁRIA DEVIDAS, SOB PENA DE ENRIQUECIMENTO SEM CAUSA DA PROMITENTE COMPRADORA. TERMO INICIAL DA TAXA DE OCUPAÇÃO QUE DEVE CORRESPONDER À DATA DA NOTIFICAÇÃO PREMONITÓRIA. MANUTENÇÃO DA DECISÃO ALVEJADA. RECURSO CONHECIDO E IMPROVIDO. (e-STJ fl. 149).
+Em suas razões recursais, a recorrente aponta violação do art. 884, caput, do CC, por ter sido fixada como termo inicial da taxa de ocupação o décimo quinto dia após a notificação premonitória e não data de imissão da posse. Alega divergência jurisprudencial sobre o tema.
+Apresentadas contrarrazões às fls.231/235 (e-STJ).
+É o relatório. Passo a decidir.
+Ao se manifestar sobre o termo inicial do cálculo da taxa de ocupação a Corte de origem assim dispôs:
+"Por certo, o termo inicial de incidência da taxa de ocupação, diversamente do que sustenta o agravante, deve corresponder à data de efetivação da notificação premonitória, eis que somente neste momento restou configurada a mora do devedor, razão pela qual descabe o pleito recursal." (e-STJ fl. 152)
+Tal entendimento contraria a jurisprudência desta Corte Superior, que já se manifestou no sentido de que, desfeita compra e venda, com a restituição do imóvel e a devolução dos valores pagos, a taxa de ocupação deve incidir desde que o comprador foi imitido na posse do imóvel, a fim de evitar o seu enriquecimento sem causa. Neste sentido:
+"DIREITO CIVIL. RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO. DENÚNCIA PELO COMPROMISSÁRIO COMPRADOR EM FACE DA INSUPORTABILIDADE NO PAGAMENTO DAS PRESTAÇÕES. POSSIBILIDADE. DEVOLUÇÃO PARCIAL DO VALORES PAGOS. TAXA DE OCUPAÇÃO DEVIDA POR TODO O PERÍODO DE POSSE SOBRE O IMÓVEL. ENTENDIMENTO ADOTADO PARA EVITAR O ENRIQUECIMENTO SEM CAUSA DO COMPRADOR. JUROS MORATÓRIOS. TERMO INICIAL. DATA DO TRÂNSITO EM JULGADO. RECURSO ESPECIAL PROVIDO.
+1. O entendimento firmado no âmbito da Segunda Seção é no sentido de ser possível a resolução do compromisso de compra e venda, por parte do promissário comprador, quando se lhe afigurar economicamente insuportável o adimplemento contratual.
+2. Ocorrendo a resolução do compromisso por culpa do promissário comprador, este deverá ser ressarcido parcialmente sobre o valor pago.
+3. No caso em julgamento, considerando suas peculiaridades, a taxa de ocupação deve incidir desde o início da permanência no imóvel até sua efetiva devolução, tendo em vista a necessidade de não gerar enriquecimento sem causa por parte do promissário comprador.
+4. Na hipótese de resolução contratual do compromisso de compra e venda por desistência dos adquirentes, em que postulada, pelos autores, a restituição das parcelas pagas de forma diversa da cláusula penal convencionada, os juros moratórios serão computados a partir do trânsito em julgado da decisão.
+5. Recurso especial provido."
+(REsp 1211323/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/10/2015, DJe 20/10/2015)
+"AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. COMPROMISSO DE COMPRA E VENDA. INADIMPLEMENTO DO PROMITENTE-COMPRADOR. INDENIZAÇÃO PELO USO PROLONGADO DO IMÓVEL. RESTITUIÇÃO DAS PARCELAS PAGAS. PERCENTUAL.
+1. A desistência do negócio, por parte do promitente-comprador, deu-se após a entrega e uso prolongado do imóvel, circunstância apta a ensejar ressarcimento ao vendedor, em face do que poderia auferir a título de aluguéis durante o período de ocupação do imóvel pela parte inadimplente.
+2. Nos termos da reiterada jurisprudência desta Corte, o promitente-comprador tem direito à devolução dos valores pagos, com a retenção de 25% em favor da empresa alienante.
+3. Agravo regimental desprovido."
+(AgRg no Ag 1010279/MG, Rel. Ministro FERNANDO GONÇALVES, QUARTA TURMA, julgado em 12/05/2009, DJe 25/05/2009)
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, dou provimento ao recurso especial para determinar que a taxa de ocupação seja calculada a partir da imissão do recorrido na posse do imóvel.
+Publique-se.
