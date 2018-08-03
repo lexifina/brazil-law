@@ -1,0 +1,33 @@
+EMENTA
+PROCESSUAL PENAL. FOLHAS DE CHEQUE PRODUTO DE CRIME. CONTEÚDO ECONÔMICO. RECEPTAÇÃO. PRÁTICA EM TESE. TRANCAMENTO DA AÇÃO PENAL POR ATIPICIDADE DA CONDUTA. IMPOSSIBILIDADE.
+1 - Segundo decidido pela Terceira Seção deste Superior Tribunal de Justiça, folhas de cheque, produto de crime, têm conteúdo econômico, podendo render ensejo, em tese, ao crime de receptação.
+2 - Trancamento da ação penal, por atipicidade, que não pode ser acolhido.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MARISTELA GARCIA TEIXEIRA, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Recurso em sentido estrito n. 9001234-83.2015.8.26.0050).
+Consta dos autos que, em 8.6.2015, a paciente foi denunciada como incurso no art. 180, caput, do Código Penal, porque supostamente recebeu em proveito próprio folhas de cheque, ciente de que se tratava de produto de crime - Autos n. 0041065-97.2015.8.26.0050, da 20ª Vara Criminal da Comarca de São Paulo/SP.
+No dia 7.7.2015, o juiz a quo rejeitou a exordial acusatória, com fulcro no art. 395, incisos II e III, do Código de Processo Penal (fls. 18/19).
+Inconformado, o Ministério Público interpôs recurso em sentido estrito, ao qual o Tribunal Estadual, em 21.3.2018, deu provimento à insurgência, a fim de receber a denúncia, determinando o retorno à origem para regular prosseguimento.
+Eis os termos do acórdão (fls. 45/47):
+"O recurso comporta acolhimento.
+A acusação é de que a Recorrida, em data e local incertos, entre os dias 7 de fevereiro e 14 de maio de 2015, nesta Capital, adquiriu e recebeu em proveito próprio a folha de cheque nº AA-000452 Banco Itaú, [CONTA], [CONTA], da empresa "E.A.F. DA SILVA PET SHOP ME", e a folha de cheque nº SA-000037, Banco Itaú, [CONTA], [CONTA], de I.A.S. (auto de exibição e apreensão - fls. 16/17), que sabia ser produto de crime.
+Segundo o apurado, aos 20 de maio de 2014, por volta das 17h00min, a Av. Satélite, próximo ao nº 267, nesta Capital, E.A.S.G., proprietária da empresa "E.A.F. DA SILVA PET SHOP ME", realizava compras em um supermercado quando notou o sumiço de seus talões bancários, incluindo a folha de cheque nº AA-000452, do interior de sua bolsa (B.O. nº 622709/2014). Ainda, aos 7 de fevereiro de 2015, por volta das 22h30min, no bairro Guaianazes, quatro homens não identificados subtraíram, mediante grave ameaça exercida com arma de fogo, o veículo GM/Captiva, placas EML-50"70, além de diversos objetos que se encontravam em seu interior, incluindo a folha de cheque nº AA-000037, de I.A.S. M
+MARISTELA, ciente de que se tratava de produto de crime, recebeu as mencionadas cártulas, que foram achadas interior de sua bolsa, aos 14/5/15, durante abordagem policial veículo por ela ocupado.
+Como se vê, a denúncia ofertada imputou, de forma clara, fato previsto no CP, art. 180, caput, o que bastava ao recebimento, havendo indevida análise de mérito em fase inoportuna,
+Por enquanto, vigora o princípio do in dúbio pro societate, salientando-se que a rejeição da denúncia é medida excepcional, que somente se justifica quando a ausência de justa causa for manifesta e reconhecível prima facie, o que não é o caso.
+Diante do exposto, dá-se provimento ao recurso ministerial, para receber a denúncia, determinando-se o retorno à Origem para regular prosseguimento."
+No presente mandamus, o impetrante alega que a conduta é atípica, uma vez que as folhas de cheque recebidas pela acusada, por não possuírem valor econômico, não podem ser consideradas objeto material do delito de receptação.
+Colaciona julgados desta Corte Superior para sustentar sua tese.
+Requer, liminarmente, a suspensão da ação penal até o julgamento deste writ. No mérito, pugna pelo trancamento da ação penal por atipicidade da conduta.
+Indeferida a liminar (fls. 54/56) e prestadas informações (fls. 62/71), opina o Ministério Público Federal pela denegação da ordem (fls. 73/79).
+É o relatório.
+A súplica não encontra guarida, porquanto o acórdão atacado encontra-se em consonância com o entendimento majoritário desta Corte, pacificado na Terceira Seção, no sentido de que folhas de cheque, produto de crime, têm valor econômico, estando, portanto, caracterizado, em tese, o delito de receptação.
+Confira-se o julgado:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA FEDERAL. JUSTIÇA ESTADUAL. RECEPTAÇÃO. TALONÁRIO DE CHEQUES. VALOR ECONÔMICO. EXISTÊNCIA. POSTERIOR UTILIZAÇÃO FRAUDULENTA. VULNERABILIDADE DA VÍTIMA. PREJUÍZO AO TITULAR DO TALONÁRIO E BANCO DE NATUREZA PRIVADA. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+1. É de reconhecer-se potencialidade lesiva a um talonário de cheques, dado seu inegável valor econômico, aferível pela provável utilização das cártulas como meio fraudulento para a obtenção de vantagem ilícita por parte de seus detentores.
+2. A seu turno, consoante escólio de Magalhães Noronha, citado no bojo do voto condutor do Recurso Extraordinário n. 100.103/PR, DJ de 25.5.1984, da lavra do Ministro Francisco Rezek: "Uma coisa pode não ter valor para os outros, mas poderá tê-lo para o dono". É que, na sua consideração, há um lado psicológico que não deve ser desprezado. O valor é dado, principalmente, pelo espírito humano, e não pela natureza do objeto. Não compreendemos bem como se possa dizer não ter valor a coisa só porque no mercado não é suscetível de troca." 3. A competência para processar e julgar o feito seria da Justiça Federal se o bem fosse "explorado diretamente pela empresa pública - na forma de agência própria" (CC 122.596/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, 3S, DJe 22.8.2012). Isso porque, nos termos desse julgado, acerca da competência nos delitos praticados em detrimento da Empresa Brasileira de Correios e Telégrafos - EBCT, "a fixação da competência depende da natureza econômica do serviço prestado." 4. Na hipótese dos autos, não obstante a vítima direta do roubo haja sido o carteiro dos Correios - no desempenho de suas atribuições - eventual prejuízo decorrente da utilização fraudulenta dos cheques seria do particular, titular do talonário, e por consectário lógico, do banco emitente, à época Banco Bradesco, pessoa jurídica de direito privado.
+5. Conflito conhecido para declarar competente o Juízo de Direito da 3ª Vara Criminal de São Paulo-SP, ora suscitante.
+(CC 112.108/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Rel. p/ Acórdão Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 12/02/2014, DJe 15/09/2014)
+Ante o exposto, nos termos do art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, denego a ordem.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Sem recurso, arquivem-se estes autos.
