@@ -1,0 +1,38 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO. UNIFICAÇÃO DAS PENAS. DATA-BASE PARA OS DIREITOS DO SENTENCIADO. NÃO ALTERAÇÃO. ENTENDIMENTO PREVALECENTE NO JULGAMENTO DO RECURSO ESPECIAL Nº 1.557.461/SC E DO HABEAS CORPUS Nº 381.218/MG. ORDEM CONCEDIDA.
+DECISÃO
+Cuida-se de habeas corpus, sem pedido liminar, impetrado pela Defensoria Pública em favor de [NOME], apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Agravo em Execução Penal n.º 9000600-73.2017.8.26.0032).
+Consta dos autos que o juízo da execução, ao realizar a soma das penas, fixou o regime fechado e alterou a data-base para a concessão de novos benefícios executórios. O decisum consignou, verbis (fl. 23):
+Com relação ao cálculo de penas, impende consignar que a unificação de uma nova condenação às execuções criminais já em curso sempre altera o lapso para a concessão de novos benefícios executórios.
+(..)
+Atualize o cálculo de penas para fins de benefícios, o qual deverá considerar por termo inicial a existência de nova prisão ou falta grave, obedecendo-se ainda à determinação contida na Súmula 441 do STJ.
+O parquet, insatisfeito, interpôs agravo em execução, ao qual o tribunal de origem deu parcial provimento, em acórdão assim sintetizado:
+ Execução penal - Superveniência de nova condenação em razão do cometimento de outro crime - Interrupção da contagem do lapso temporal limitada à obtenção de benefícios diversos do indulto e da comutação de pena - Entendimento.
+A regra de que a superveniência de nova condenação em razão do cometimento de outro crime pelo reeducando interrompe a contagem do prazo para obtenção de benefícios não se aplica, quer aos pedidos de indulto, quer àqueles visando à comutação de penas, uma vez que os requisitos para a concessão de tais benesses vêm exaustivamente relacionados nos dispositivos constantes do Decreto Presidencial. Na medida em que o reeducando os preencha, torna-se de rigor o reconhecimento da existência de direito subjetivo ao benefício pleiteado.
+No presente mandamus, sustenta a impetrante, inicialmente, o cabimento deste writ, diante da ilegalidade patente constante dos autos.
+Aduz que "a autoridade coatora, ao determinar o reinício da contagem do lapso para fins de livramento condicional, praticou ato ilegal, ferindo o direito de ir e vir do paciente".
+Invoca o princípio da legalidade e o enunciado sumular 441 desta Corte.
+Argumenta que o art. 118 da Lei de Execução Penal, em momento algum, "estabelece, ainda que de forma indireta, o "reinício da contagem do prazo para concessão de benefícios" ".
+Requer a concessão da ordem para "anular a decisão proferida pela autoridade coatora, determinando a não interrupção do prazo para fins de livramento condicional".
+Solicitadas informações (fls. 27-28), estas foram juntadas aos autos às fls. 33-41.
+O Ministério Público Federal, às fls. 44-46, manfestou-se pela concessão da ordem, de ofício.
+É o relatório.
+Decido.
+No caso em apreço, o juízo singular realizou a soma das penas, fixou o regime fechado e estabeleceu como nova data-base para a aquisição dos direitos no curso da execução a data da última prisão ou falta grave, excepcionando o livramento condicional. O tribunal de origem, por sua vez, entendeu que o reinício da contagem do lapso temporal para os direitos do sentenciado, em razão da unificação das penas, não se aplica apenas aos pedidos de indulto e de comutação de penas.
+Conforme já consignei em outras oportunidades, em especial nos autos do Recurso Especial n.º 1.557.461/SC e do Habeas Corpus n.º 381.248/MG, entendo que, sobrevindo o trânsito em julgado de nova condenação no curso da execução penal, a data-base para a obtenção de eventuais direitos do apenado deve ser o dia do trânsito em julgado da nova condenação, seja por fato anterior ou posterior ao início do cumprimento da sanção.
+Todavia, nos julgamentos dos mencionados recurso e remédio heroico, concluídos em 22.2.2018, prevaleceu no âmbito da Terceira Seção deste Superior Tribunal de Justiça o entendimento de que, sobrevindo nova condenação no curso da execução penal, por delito praticado antes ou após o início da execução da pena, não há alteração da data-base para a obtenção de novos direitos, permanecendo como marco inicial para a contagem dos benefícios os mesmos marcos anteriormente estabelecidos.
+Ressaltou-se, no voto condutor do REsp n.º 1.557.461/SC que "a unificação de nova condenação definitiva já possui o condão de recrudescer o quantum de pena restante a ser cumprido pelo reeducando, logo, a alteração da data-base para concessão de novos benefícios, a despeito da ausência de previsão legal, configura excesso de execução, baseado apenas em argumentos extrajurídicos".
+Confira-se a ementa do acórdão do recurso especial:
+RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DE SENTENÇA CONDENATÓRIA. TERMO A QUO PARA CONCESSÃO DE NOVOS BENEFÍCIOS. AUSÊNCIA DE PREVISÃO LEGAL PARA ALTERAÇÃO DA DATA-BASE. ACÓRDÃO MANTIDO. RECURSO NÃO PROVIDO.
+1. A superveniência de nova condenação no curso da execução penal enseja a unificação das reprimendas impostas ao reeducando. Caso o quantum obtido após o somatório torne incabível o regime atual, está o condenado sujeito a regressão a regime de cumprimento de pena mais gravoso, consoante inteligência dos arts. 111, parágrafo único, e 118, II, da Lei de Execução Penal.
+2. A alteração da data-base para concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal. Portanto, a desconsideração do período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado depois e já apontado como falta disciplinar grave, configura excesso de execução.
+3. Caso o crime cometido no curso da execução tenha sido registrado como infração disciplinar, seus efeitos já repercutiram no bojo do cumprimento da pena, pois, segundo a jurisprudência consolidada do Superior Tribunal de Justiça, a prática de falta grave interrompe a data-base para concessão de novos benefícios executórios, à exceção do livramento condicional, da comutação de penas e do indulto. Portanto, a superveniência do trânsito em julgado da sentença condenatória não poderia servir de parâmetro para análise do mérito do apenado, sob pena de flagrante bis in idem.
+4. O delito praticado antes do início da execução da pena não constitui parâmetro idôneo de avaliação do mérito do apenado, porquanto evento anterior ao início do resgate das reprimendas impostas não desmerece hodiernamente o comportamento do sentenciado. As condenações por fatos pretéritos não se prestam a macular a avaliação do comportamento do sentenciado, visto que estranhas ao processo de resgate da pena.
+5. Recurso não provido.
+(REsp 1557461/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 22/02/2018, DJe 15/03/2018)
+As decisões proferidas pelas instâncias ordinárias, portanto, contrariam o novo entendimento jurisprudencial deste Superior Tribunal, o que configura manifesto constrangimento ilegal em face do paciente.
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, concedo a ordem para determinar a realização de novo cálculo das penas impostas ao paciente, diante de sua unificação, mantendo os marcos anteriormente estabelecidos, nos moldes do novel entendimento desta Corte.
+Comunique-se, com urgência, o teor desta decisão ao juízo de primeiro grau e ao tribunal de origem.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intime-se.
