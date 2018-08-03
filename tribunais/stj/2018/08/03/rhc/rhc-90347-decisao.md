@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por RICARDO CORNÉLIO GONÇALVES contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.17.060862-4/000).
+Consta dos autos ter sido o recorrente preso em flagrante, custódia essa convertida em preventiva, pela suposta prática dos crimes de tráfico de entorpecentes e de tentativa de homicídio.
+Impetrado habeas corpus no Tribunal de origem objetivando a liberdade do ora recorrente, a ordem foi denegada nos termos da seguinte ementa (e-STJ fl. 203):
+HABEAS CORPUS - TRÁFICO DE DROGAS - HOMICÍDIO TENTADO - ALEGADA ILEGALIDADE DO FLAGRANTE - PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA - NOVO TÍTULO JUDICIAL - QUESTÃO SUPERADA - ANÁLISE DA PROVA DA AUTORIA DELITIVA - VIA IMPRÓPRIA - PRESENÇA DOS PRESSUPOSTOS ELENCADOS NOS ARTIGOS 312 E 313 DO CÓDIGO DE PROCESSO PENAL - CONDIÇÕES PESSOAIS FAVORÁVEIS - INSUFICIÊNCIA PARA OBSTAR A CONSTRIÇAO CAUTELAR.
+1. Uma vez devidamente homologada a prisão em flagrante, e posteriormente convertida em prisão preventiva, via de regra, fica superada a alegação atinente a irregularidades ditas presentes na prisão flagrancial, visto que segregado o paciente por força de outro título. 2. A questão acerca da análise da prova da autoria delitiva diz respeito ao cerne da lide penal, inviável de ser aprofundada nos estreitos limites da ação de habeas corpus, notadamente quando presentes, de maneira concreta, indícios de autoria e materialidade delitivas. 3. Inexiste constrangimento ilegal na decisão judicial que decreta o acautelamento preventivo lastreada em elementos concretos dos autos e nos requisitos do artigo 312 do Código de Processo Penal, porquanto sua decretação se afigura necessária ao resguardo da ordem pública, tendo em vista as circunstâncias em que o crime ocorreu. 3. Os crimes de tráfico de drogas e homicídio, por cuja suposta autoria o paciente foi preso, encontram em seu preceito secundário penas privativas de liberdade superiores a quatro anos, atendendo ao comando normativo contido no inciso I do artigo 313 do Código de Processo Penal. 4. A presença de condições pessoais favoráveis, por si só, não é suficiente para inibir a custódia cautelar uma vez demonstrada a necessidade de sua manutenção.
+Neste recurso, sustenta a defesa inexistir motivação idônea para a segregação antecipada, visto que não foi apontada, concretamente, a presença dos requisitos do art. 312 do Código de Processo Penal.
+Busca, assim, seja revogada a custódia cautelar do recorrente.
+O Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ fls. 252/256).
+Informações juntadas às e-STJ fls. 260/304.
+É, em síntese, o relatório.
+Pois bem. Informações prestadas pelo Juízo de primeiro grau (e-STJ fls. 260/304) noticiam a superveniência, em 14/6/2018, de sentença condenatória em desfavor do ora recorrente.
+Assim, fica sem objeto este recurso à vista da superveniência de novo título a embasar a custódia, não submetido a pronunciamento do Tribunal de origem.
+A propósito:
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA QUE MANTENHA A CUSTÓDIA CAUTELAR. NOVO TÍTULO. PREJUDICIALIDADE DO RECURSO EM HABEAS CORPUS. AGRAVO REGIMENTAL IMPROVIDO.
+1. Cediço que não cabe a interposição de embargos de declaração contra decisão monocrática que julga prejudicado recurso, mas, em consonância ao princípio da fungibilidade recursal, há que se receber esta irresignação como agravo regimental.
+2. Prevalece no âmbito da Sexta Turma desta Corte o entendimento no sentido de que constitui novo título a expedição de sentença condenatória que mantenha a custódia preventiva, mesmo que não lance mão de novos fundamentos para a manutenção daquela. Precedentes.
+3. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.
+(EDcl no RHC 78.448/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/03/2017, DJe 23/03/2017, grifei)
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
