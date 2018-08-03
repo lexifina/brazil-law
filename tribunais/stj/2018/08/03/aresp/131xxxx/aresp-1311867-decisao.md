@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Agravo, interposto pela ASSOCIAÇÃO PRINCESA ISABEL DE EDUCAÇÃO E CULTURA, em 24/04/2017, contra decisão do Tribunal de Justiça do Estado de São Paulo, que inadmitiu o Recurso Especial manejado em face de acórdão assim ementado:
+"Agravo de Instrumento - Desapropriação Retificação da área a ser desapropriada em emenda da inicial - Desistência parcial da desapropriação - Possibilidade - Inexistência de imissão na posse - A declaração de utilidade pública não gera direito subjetivo à expropriação e não tem qualquer efeito sobre o direito de propriedade - Decisão mantida - Agravo não provido" (fl. 152e).
+Sustenta a parte agravante, nas razões do Recurso Especial, ofensa ao artigo 329 do CPC/2015, sob a tese de que o processo já se encontrava há três anos com causa de pedir relativa à desapropriação total do terreno, de modo que não poderia a recorrida ter pleiteado para que fosse feita a desapropriação em somente parte do imóvel, alterando, portanto, a causa de pedir, sem a concordância da recorrente, acarretando-lhe diversos prejuízos.
+Requer, ao final, o conhecimento e provimento do Recurso Especial.
+Em contrarrazões, a parte ora agravada assevera que deve ser negado seguimento ao Recurso Especial.
+Negado seguimento ao Recurso Especial (fls. 183/184e), foi interposto o presente Agravo (fls. 186/195e).
+Em contraminuta, a parte agravada afirma que deve ser mantida a decisão de inadmissibilidade do Recurso Especial.
+A irresignação não merece acolhimento.
+Com efeito, o Tribunal de origem adotou orientação em consonância com o entendimento desta Corte, segundo o qual é possível que o ente público desista da desapropriação, desde que o bem seja devolvido ao expropriado nas mesmas condições em que o expropriante o recebeu.
+Nesse sentido:
+"ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ARTIGO 535 DO CÓDIGO DE PROCESSO CIVIL. OFENSA NÃO VERIFICADA. DESISTÊNCIA DA DESAPROPRIAÇÃO. POSSIBILIDADE. PRECEDENTES. AUSÊNCIA DE IMISSÃO NA POSSE. CONCLUSÃO DO TRIBUNAL LOCAL PELA INEXISTÊNCIA DO DEVER DE INDENIZAR. ALTERAÇÃO DO ENTENDIMENTO. SÚMULA 7/STJ.
+1. Verifica-se não ter ocorrido ofensa ao art. 535 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Conforme entendimento do Superior Tribunal de Justiça, é cabível a desistência pelo ente público da desapropriação, desde que o bem expropriado seja devolvido nas mesmas condições em que o expropriante o recebeu.
+3. Na espécie, o Tribunal de origem, ancorado no substrato fático dos autos, concluiu pela inexistência do dever de indenizar o particular. Desse modo, a revisão das conclusões adotadas pela Corte local esbarra no óbice da Súmula 7/STJ, ante a necessidade de reexaminar matéria fático-probatória.
+4. Agravo Regimental a que se nega provimento" (STJ, AgRg no AREsp 88.259/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 28/03/2016).
+"PROCESSUAL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DESAPROPRIAÇÃO. DESISTÊNCIA HOMOLOGADA. POSSIBILIDADE DE DEVOLUÇÃO DO IMÓVEL NO STATUS QUO ANTE. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. PREJUÍZOS CAUSADOS AO EXPROPRIADO. NECESSIDADE DE AÇÃO PRÓPRIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DO ACÓRDÃO. SÚMULA 283/STF. HONORÁRIOS ADVOCATÍCIOS. ALEGADA VIOLAÇÃO DO ART. 27, § 1º, DO DL 3.365/41. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. NORMA INAPLICÁVEL AO CASO EM RAZÃO DA DESISTÊNCIA.
+1. A jurisprudência da Corte admite a desistência da ação expropriatória desde que seja possível devolver ao expropriado o imóvel no estado em que se encontrava antes do ajuizamento da ação.
+Não é possível aferir se era ou não viável a devolução do bem expropriado nas mesmas condições em que o expropriante o recebeu do proprietário, por depender do reexame do contexto fático-probatório dos autos. Aplicação da Súmula 7/STJ.
+2. É inadmissível o recurso especial quando a decisão recorrida assenta em mais de um fundamento suficiente e o recorrente não consegue infirmar todos eles. Incidência, por analogia, da Súmula 283/STF.
+3. Não se admite recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo. Súmula 211/STJ.
+4. Agravo regimental não provido" (STJ, AgRg no AREsp 27.408/RJ, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 19/06/2013).
+Na hipótese dos autos, constou expressamente do acórdão recorrido que "não houve imissão na posse e, por assim ser, óbvio concluir-se pela inexistência de qualquer alteração no estado físico do imóvel em questão" (fl. 155e), bem como que "os Agravantes alegam de modo genérico a existência de prejuízos" (fl. 154e).
+Desse modo, a modificação das conclusões do Tribunal a quo, implicaria, necessariamente, o revolvimento do conjunto fático-probatório dos autos, o que é vedado, em sede de Recurso Especial, pelo óbice enunciado na Súmula 7/STJ.
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, b do RISTJ, conheço do Agravo para negar provimento ao Recurso Especial.
+I.
