@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME] contra acórdão do Tribunal Regional Federal da 3ª Região (HC n. 0017261-31.2015.403.0000/SP).
+Consta dos autos que o recorrente foi denunciado por ter supostamente praticado o delito tipificado no art. 337-A, III, c/c o art. 71, ambos do Código Penal. A ação penal foi desmembrada em relação a ele, uma vez que reside em outro país.
+Irresignada, a defesa impetrou writ perante o Tribunal de origem, o qual não conheceu da ordem em acórdão assim ementado (e-STJ fl. 95):
+PROCESSO PENAL. HABEAS CORPUS. AUSÊNCIA DE AMEAÇA OU COAÇÃO A DIREITO DE LOCOMOÇÃO. INADEQUAÇÃO DA VIA ELEITA.
+1. Nos termos do inciso LXVIII do art. 5o, da Constituição da República, o habeas corpus será concedido sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder.
+2. Entende-se inadequado o habeas corpus quando ausente ameaça ou coação a direito de locomoção (STF, ED em HC em AgR n. 101136, Rei. Min. Luiz Fux, j. 21.08.12).
+3. Habeas Corpus não conhecido.
+No presente recurso, sustenta que o desmembramento nada mais é do que cópia do processo original, razão pela qual deve ser garantido à defesa atuar em ambos os processos. Em que pese a autonomia própria da ação penal desmembrada, há interesse em participar da prova oral produzida na ação original, porquanto os mesmos fatos são investigados e o Parquet indicou rol de testemunhas idêntico.
+Ressalta que a defesa do paciente foi intimada para as audiências de instrução da ação original, fato que corrobora com a tese aqui aventada.
+Pleiteia, assim, em liminar, o sobrestamento da ação penal original e, no mérito, a nulidade da audiência realizada dia 4/8/2015 e todos os atos subsequentes.
+O pleito liminar foi indeferido (e-STJ fls. 150/152).
+O Ministério Público Federal opinou pelo conhecimento e desprovimento do recurso (e-STJ fls. 157/159).
+É, em síntese, o relatório.
+Como bem anotou o parecer ministerial, o Tribunal de origem não apreciou a questão da suposta ofensa ao princípio da ampla defesa e do contraditório. Sendo assim, a análise do tema não pode ser submetida a esta Corte Superior, sob pena de configurar indevida supressão de instância.
+A propósito, confiram-se os precedentes:
+ ..  3. As alegações de deficiência de defesa técnica e de ausência de autodefesa não foram enfrentadas no acórdão combatido, o que impede a análise da matéria pelo Superior Tribunal de Justiça, sob pena de supressão de instância. Precedentes.  ..  (HC 262.860/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 12/4/2016, DJe 22/4/2016).
+ ..  1. O Tribunal de origem não analisou a suposta ausência de fundamentação idônea para a exasperação da pena-base, de forma que seu exame diretamente por esta Corte Superior acarretaria indevida supressão de instância.  ..  (HC 319.513/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 7/4/2016, DJe 20/4/2016).
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO TRIPLAMENTE QUALIFICADO. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL EM RAZÃO DA AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO DE PRISÃO PREVENTIVA. MATÉRIA NÃO APRECIADA PELA CORTE A QUO. SUPRESSÃO DE INSTÂNCIA. DEVOLUÇÃO DOS AUTOS PARA DECISÃO SOBRE O MÉRITO DA IMPUGNAÇÃO ORIGINÁRIA. RECURSO PARCIALMENTE PROVIDO.
+I - A prisão cautelar só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal. O juízo de piso, ao decreta-la, inevitavelmente, deverá se pronunciar sobre os seus motivos legitimadores, ainda que de maneira que depois se considere lacunosa ou deficiente.
+II - Na hipótese, o magistrado de primeira instância já opinou sobre os requisitos e os motivos ensejadores da prisão, quando a decretou originariamente, não sendo necessário que reitere as suas razões para que a possível ilegalidade seja levada ao conhecimento do Tribunal.
+III - Todavia, não tendo a eg. Corte a quo se pronunciado sobre a matéria, não pode este Superior Tribunal de Justiça enfrentar o tema, sob pena de incorrer em indevida supressão de instância. Recurso ordinário parcialmente provido, para determinar que os autos retornem ao eg. Tribunal de origem, devendo este decidir, como entender de direito, acerca da adequação da fundamentação da prisão cautelar do ora recorrente. (RHC 64.088/CE, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 12/4/2016, DJe 20/4/2016.)
+ ..  1. A alegação de nulidade do decreto de prisão preventiva, fundada no fato de não ter havido prévia representação da autoridade policial quanto à custódia cautelar, é questão que não foi enfrentada no acórdão impugnado, proferido em sede de habeas corpus, o que impede esta Corte Superior de conhecer dessa matéria, sob pena de supressão de instância.  ..  (RHC 68.334/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 7/4/2016, DJe 15/4/2016).
+Ante o exposto, não conheço do recurso.
+Publique-se. Intimem-se.
