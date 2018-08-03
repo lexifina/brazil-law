@@ -1,0 +1,29 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. OMISSÃO. EXISTÊNCIA. OFENSA AO ART. 489, § 1º, DO CPC. INAPLICÁVEL A SÚMULA 284/STF NO PONTO. INDICAÇÃO DOS INCISOS VIOLADOS. OMISSÃO. INÉPCIA DA DENÚNCIA. AUSÊNCIA DE MANIFESTAÇÃO ACERCA DA REDUÇÃO OU SUPRESSÃO DE TRIBUTO. MATÉRIA NÃO DEBATIDA NA ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 356/STF.
+Embargos de declaração parcialmente acolhidos apenas para suprir omissão, sem a atribuição de efeitos infringentes.
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] à decisão que reconsiderou a decisão proferida pela Presidência desta Corte para conhecer parcialmente do recurso especial e, na parte conhecida, negar-lhe provimento.
+Esta, a ementa da decisão embargada (fl. 1.507):
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSO PENAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. ART. 1º, I E II, DA LEI N. 8.137/1990. TEMPESTIVIDADE. COMPROVAÇÃO. RECONSIDERAÇÃO. PRESCRIÇÃO. TRIBUNAL QUE TERIA LANÇADO NOVOS FUNDAMENTOS PARA AFASTAR A PRESCRIÇÃO. POSSIBILIDADE. FUNDAMENTO NÃO ATACADO NO RECURSO ESPECIAL. SÚMULA 283/STF. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO ADEQUADA. AUSÊNCIA DE INDICAÇÃO DO INCISO VIOLADO. SÚMULA 284/STF. INCOMPETÊNCIA TERRITORIAL. FUNDAMENTOS NÃO IMPUGNADOS. DENÚNCIA. INÉPCIA. PROLAÇÃO DE SENTENÇA CONDENATÓRIA. PREJUDICIALIDADE. ALEGAÇÃO DE NULIDADE. INDEFERIMENTO DE PROVA PERICIAL. RAZÕES QUE NÃO INFIRMARAM A TOTALIDADE DA FUNDAMENTAÇÃO EMPREGADA NO ACÓRDÃO HOSTILIZADO. SÚMULA 283/STF.
+Decisão agravada reconsiderada. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+O embargante alega que a decisão embargada foi omissa no que se refere ao item b da decisão embargada, item esse que tratou da violação do art. 489, § 1º, do Código de Processo Civil.
+Aduz que, apesar de a decisão recorrida aplicar, no ponto, a Súmula 284/STF, ao fundamento de que a análise da controvérsia estaria dificultada, ante a não indicação dos incisos do § 1º do art. 489 do Código de Processo Civil que teriam sido violados, não é o que se observa da análise minuciosa do recurso especial, uma vez que se indicou contrariedade aos incisos III e IV do referido artigo.
+Sustenta, ainda, que a decisão embargada foi omissa por não analisar o questionamento da defesa acerca da inépcia da denúncia, em razão da ausência de descrição do resultado naturalístico não descrito na denúncia - se seria supressão ou redução do tributo.
+Pede, por fim, o conhecimento dos embargos  ..  para sanar a omissão indicada e se manifestar expressamente sobre a ausência, na denúncia, da descrição do resultado naturalístico consistente na redução ou supressão de tributo (fl. 1.523).
+É o relatório.
+Inicialmente, verifico que tem razão o embargante quando afirma que não seria o caso de aplicação da Súmula 284/STF ao item b, uma vez que realmente o indicou, no recurso especial, os incisos violados (III e IV).
+Contudo, como a incidência da Súmula 284/STF não foi o único argumento utilizado para negar provimento ao pleito de reconhecimento de contrariedade ao art. 489, § 1º, do CPC, mantenho o desfecho anterior.
+No mais, o embargante entende que a decisão embargada também foi omissa, pois não se manifestou expressamente sobre a ausência, na denúncia, da descrição do resultado naturalístico consistente na redução ou supressão de tributo.
+No entanto, vê-se que a referida matéria não foi prequestionada. Explico.
+Na apelação, o embargante alega inépcia da denúncia com base em três fundamentos (fl. 1.206):
+ ..  A inépcia decorre de três vícios: 1) ausência de descrição de conduta minimamente detalhada do APELANTE, inclusive do elemento subjetivo do tipo; 2) ausência de descrição do DEVER e do PODER de agir, elementos do tipo por força da norma de extensão do artigo 13, §2º, do CP, obrigatoriamente utilizada quando o crime é omissivo para que seja dada relevância causal para a omissão; 3) ausência de descrição de resultado naturalístico consistente na redução ou supressão de tributo.  ..
+No entanto, ao analisar a matéria, o Tribunal a quo se debruça apenas sobre o primeiro vício apontado, veja-se (fls. 1.265/1.266):
+ ..  Quanto à alegada inépcia da denúncia, também melhor sorte não está reservada à parte recorrente.
+A inicial narra satisfatoriamente os fatos, não se exigindo descrição precisa e minuciosa da conduta atribuída ao denunciado. A defesa, assim, tomou conhecimento da imputação e pôde exercer o seu mister.
+Acrescento, por oportuno, o seguinte julgado, que também se aplica ao caso dos autos:
+DIREITO PROCESSUAL PENAL. TRANCAMENTO DA AÇÃO PENAL.
+INÉPCIA DA DENÚNCIA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. IMPOSSIBILIDADE.
+A alegação de inépcia da denúncia perde força diante da superveniência de sentença condenatória. o trancamento da ação penal por inépcia da exordial acusatória não se afigura cabível diante da prolação de sentença, pois o juizo singular, ao examinar abrangentemente as provas dos autos, entendeu serem suficientes para embasar o decisum condenatório. O édito condenatório afasta a dúvida quanta à existência de elementos suficientes para a inauguração do processo penal como também para a própria condenação. Precedentes citados do STF: HC-88.963-RJ, DJe 11/4/2008; do STJ: HC 111.720 -PE, DJe 15/6/2011, e EDcl no HC 130.499 - BA, DJe 28/2/2011. HC n. 122.296/MG, Ministro Og Fernandes, julgado em 16/10/2012 ..
+E, mesmo diante da ausência de debate sobre o referido tema, na origem, o atual embargante deixou de opor embargos de declaração a fim de que a matéria fosse conhecida nos termos do art. 1.025 do CPC. Sendo assim, o tema carece de prequestionamento, nos termos da Súmula 356/STF.
+Ante o exposto, acolho parcialmente os embargos de declaração apenas para suprir omissão, sem a atribuição de efeitos infringentes.
+Publique-se.
