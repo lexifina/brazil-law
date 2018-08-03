@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial, interposto por [NOME] e OUTRO, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios, assim ementado (fls. 166/167, e-STJ):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AGRAVO INTERNO. ILEGITIMIDADE PASSIVA. MULTA POR LITIGÂNCIA DE MÁ-FÉ. GRATUIDADE DE JUSTIÇA. RECOLHIMENTO. PREPARO. PRECLUSÃO LÓGICA. INADMISSIBILIDADE DO RECURSO. ROL TAXATIVO DO ART. 1015 CÓDIGO DE PROCESSO CIVIL.
+1. Não cabe agravo de instrumento da decisão que rejeita a alegação de ilegitimidade passiva suscitada pelos réus, nem a de multa por litigância de má-fé, haja vista trata-se de rol taxativo relacionado no art. 1015 do CPC.
+2. Embora haja a previsão de gratuidade de justiça no referido artigo, o recolhimento do preparo é conduta incompatível com o pedido formulado, operando-se a preclusão lógica.
+3. Agravo interno conhecido e desprovido.
+Nas razões do recurso especial os recorrentes apontam violação aos artigos 99, 356, § 5º, e 1015, incisos II, IV, V e VII, do NCPC; e à Lei n.º 1.060/50, sustentando, em suma, que o rol de hipóteses de cabimento do recurso de agravo de instrumento é exemplificativo.
+Alegam que "a doutrina e jurisprudência já vêem admitindo uma interpretação extensiva do art. 1015 do CPC nos casos em que a norma não se adéqüe perfeitamente ao objeto de análise, cabendo ao intérprete avaliar caso a caso quanto à possibilidade do cabimento do agravo de instrumento, consoante ocorre no caso in comento, sendo certo que a rejeição da preliminar de ilegitimidade foi fundamentada em razão do consenso do julgador em proceder a desconsideração da personalidade jurídica da empresa de fato responsável pelo suposto débito" (fl. 185, e-STJ).
+Afirmam que o recolhimento de preparo não configura ato incompatível com o pedido de gratuidade de justiça.
+Contrarrazões apresentadas às fls. 216/219 (e-STJ) e, após decisão de admissão do recurso especial (fls. 225/226, e-STJ), os autos ascenderam a esta egrégia Corte Superior de Justiça.
+É o relatório.
+Decido.
+1. O presente recurso especial versa, dentre outras matérias, sobre tema afetado à Segunda Seção desta Corte, nos autos dos Recursos Especiais representativos da controvérsia n.os 1.696.396/MT e 1.74.520/MT, para julgamento segundo o rito previsto nos arts. 1.036 a 1.041 do CPC/2015, a fim de definir sobre a "natureza do rol do art. 1015 do CPC/2015 e verificar possibilidade de sua interpretação extensiva, para se admitir a interposição de agravo de instrumento contra decisão interlocutória que verse sobre hipóteses não expressamente versadas nos incisos do referido dispositivo do Novo CPC" (Tema n.º 988/STJ).
+Logo, nos termos do art. 256-L do RISTJ, o recurso especial distribuído nesta Corte Superior que tenha como fundamento idêntica questão de direito afetada será devolvido ao Tribunal de origem, para nele permanecer suspenso. Assim, por razões de economia processual e em atenção aos objetivos das regras que disciplinam a matéria, faz-se necessário remeter os autos à origem, até o pronunciamento definitivo do Superior Tribunal de Justiça sobre os recursos especiais representativos da controvérsia.
+2. Ante o exposto, determino a devolução dos autos à origem para que o presente recurso especial permaneça suspenso até o pronunciamento definitivo do STJ sobre o tema 988, nos termos do artigo 1.037, inciso II, do CPC/2015 e, após, observe-se a sistemática prevista nos artigos 1.040 e 1.041 do CPC/2015.
+Publique-se.
+Intimem-se.
