@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por DGB ENGENHARIA E CONSTRUÇÕES LTDA, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA DE RESSARCIMENTO. FASE DE EXECUÇÃO DO JULGADO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. REJEIÇÃO NO PRIMEIRO GRAU.
+Afirma a Agravada que nada recebeu daquele crédito adjudicado de R$ 1.112.164,21, e que a "última atualização do quantum" debeatur foi de R$ 3.278.794,93, sendo que a penhora realizada é que está realmente garantindo a execução do julgado e deve ser mantida, pois do contrário, mais uma vez a executada, ora Agravante, irá enriquecer-se ilicitamente, como já ocorrido".
+Indaga-se: O crédito de terceiro, adjudicado pela exeqüente e, segundo ela, não recebido, deve ser cancelado para se re-incluir no montante do débito de volta, aquele valor de R$ 1.112.164,21, como fez a exeqüente na liquidação de fl. 392, ou não
+A resposta é negativa. É que, consoante o disposto no art. 685-B do Código de Processo Civil: "A adjudicação considera-se perfeita e acabada com a lavratura e assinatura do auto pelo juiz, pelo adjudicante, pelo escrivão e, se for presente, pelo executado, expedindo-se a respectiva carta, se bem imóvel, ou mandado de entrega ao adjudicante, se bem imóvel".
+Frustrada a adjudicação perfeita e acabada, a questão se resolverá em indenização. Recurso provido para excluir da liquidação o valor objeto da adjudicação, bem como a multa de 10% incidente sobre ele (art. 475-J, do CPC), prosseguindo-se a fase executória, como de direito.
+Deram provimento ao recurso." (fls. 775 e-STJ).
+Os embargos de declaração foram rejeitados (fls. 796-801 e-STJ).
+Nas razões recursais (fls. 804-814 e-STJ), a ora recorrente indica violação dos arts. 655-B, 673, § 2º, e 694, § 1º, II, do Código de Processo Civil/1973.
+Alega que, frustrada a adjudicação, deve ocorrer a ampliação da penhora no bojo da própria execução para satisfazer o crédito perseguido.
+Defende que tal situação não pode ser resolvida com a propositura de ação indenizatória, mas, como afirmado, por meio da penhora de outros bens.
+Afirma que, por tratar-se de direito de crédito, o dispositivo legal aplicável é o art. 673, § 2º do CPC/1973, o qual garante o prosseguimento da execução com a constrição de bens suficientes para o adimplemento da dívida.
+Após a apresentação das contrarrazões (fls. 822-838 e-STJ), o Tribunal de origem não admitiu o apelo especial (fl. 840 e-STJ), ascendendo os autos a esta Corte com o agravo em recurso especial (fls. 844-851 e-STJ).
+Diante das peculiaridades da causa, esta relatoria deu provimento ao agravo para determinar a conversão em recurso especial para melhor análise da controvérsia (fls. 881-882 e-STJ).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+Acerca da controvérsia, o Tribunal de origem assentou que a anulação de adjudicação perfeita e acabada deve ser realizada por meio de ação própria, consoante os seguinte fundamentos:
+"(..) Teve início a fase de execução do julgado com posterior adjudicação em favor da exeqüente dos direitos que a executada possuía, junto ao DER, no contrato nº8709-9, na ordem de R$ 1.112.164,21, prosseguindo-se o feito em relação ao saldo devedor.
+Na resposta (fls. 380/381), a exeqüente, aqui Agravada disse que "o crédito adjudicado em favor da exeqüente foi na ordem de R$ 1.112.164,21, importância essa que o DER informou que a empresa executada era titular no contrato penhorado n. 8709-9 e não R$ 1.489.302,98 como referido na sua petição, que sobre ela ora se manifesta".
+Sustentou a DGB "que o crédito que a executada possuía correspondente a um saldo no contrato 8709-9 penhorado junto ao DER e posteriormente adjudicado em favor da credora, ora exeqüente, não foi pago pelo DER, na dependência até hoje de decisão governamental, bem como não consta dos autos qualquer depósito por parte daquele órgão, que foi intimado de que qualquer pagamento deveria ser feito perante este Egrégio Juízo". (..)
+Nesta altura a questão que se coloca é a seguinte. O crédito de terceiro, adjudicado pela exeqüente e, segundo ela não recebido, deve ser cancelado para se incluir no montante do débito, de volta, aquele valor de R$ 1.112.164,21, como fez a exeqüente na liquidação defl. 392, ou não
+De ressaltar, que a famigerada quantia de R$ 1.112.164,21 já foi objeto de ação de cobrança movida pela DGB contra o DER, justamente com o fundamento da sub-rogação dos direitos da cedente Cemento, mas que não vingou porque a MMa Juíza decretou a extinção do processo, sem a aprecição do mérito, por entender a ocorrência da ilegitimidade de parte ativa (v. acórdão de fls. 664/671), cujo Recurso Especial teve negado provimento pelo C. Superior Tribunal de Justiça (fls. 674/683).
+Talvez, por isso, é que a exeqüente vem agora pretender o "desfazimento" da adjudicação daquele crédito, porque impossibilitada de receber.
+Agora respondendo aquela pergunta inicial, entende este ralator que a resposta é negativa, data vênia.
+É que, consoante o disposto no art. 685-B do Código de Processo Civil: "A adjudicação considera-se perfeita e acabada com a lavratura e assinatura do auto pelo juiz, pelo adjudicante, pelo escrivão e, se for presente, pelo executado, expedindo-se a respectiva carta, se bem imóvel, ou mandado de entrega ao adjudicante, se bem móvel".
+Ora, uma vez regularizada a adjudicação, na forma do artigo mencionado, não haverá mais chance de se reverter a situação. O eventual prejuízo do adjudicante deverá ser resolvido em indenização.
+Esclareça-se que aquelas ações de cobrança não vingaram, porque da forma como proposta deu-se a impressão de que" se postulava a cobrança dupla do crédito, uma nesta execução em andamento, e a outra naquela ação dá 3a Vara da Fazenda Pública.
+O que se deve cobrar, no entanto, a meu ver, s.m.j., é o crédito frustro decorrente da adjudicação e cuja quitação foi dada na execução (art. 708, II, do CPC), quando se recebeu o valor em adjudicação definitiva. Se for assim, evidentemente que não tem razão a exeqüente, e, por isso, não merece prosperar a r. decisão agravada. Ante o exposto, meu voto reforma a r. decisão monocrática, para o fim de julgar procedente a impugnação e excluir do crédito objeto da execução o valor da adjudicação, excluindo-se, também, sobre este valor a multa de 10% prevista no art. 475-J do CPC, prosseguindo-se pelo valor restante, como de direito.
+Em hipóteses análogas, a jurisprudência desta Corte Superior sufragou o entendimento no sentido de que o desfazimento da adjudicação deve ser formulado em ação autônoma anulatória.
+Nesse sentido:
+"DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL. CARTA DE ARREMATAÇÃO EXPEDIDA E TRANSCRITA NO REGISTRO DE IMÓVEIS. ANULAÇÃO DE ADJUDICAÇÃO JUDICIAL. NECESSIDADE DE AJUIZAMENTO DE AÇÃO AUTÔNOMA.
+1. Expedida a carta de arrematação e transcrita no registro imobiliário, o pedido de desfazimento da alienação somente poderia ser acolhido, se o caso, em ação autônoma anulatória, nos termos do artigo 486 do CPC. Precedentes do STJ.
+2. Agravo regimental não provido."
+(AgRg no REsp 1.1377.61/CE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 1º/12/2011, DJe 7/12/2011 - grifou-se)
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. TERMO DE ADJUDICAÇÃO. INVALIDAÇÃO. CONSTATAÇÃO DE DETERIORAÇÃO DOS BENS APÓS A ASSINATURA DO AUTO DE ADJUDICAÇÃO. IMPOSSIBILIDADE. ART. 215 DO CPC. RESPONSABILIZAÇÃO DO DEPOSITÁRIO QUE DEVE SER BUSCADA POR AÇÃO AUTÔNOMA. OFENSA AO ART. 535 DO CPC REPELIDA.
+1. Trata-se de agravo de instrumento interposto pela FAZENDA DO ESTADO DE SÃO PAULO contra decisão que, em sede de execução fiscal, indeferiu requerimento de desfazimento da adjudicação de bens penhorados sobre os quais pairavam indícios de descura e fraude pelo fiel depositário. O TJSP negou provimento ao agravo sob o entendimento de que a constatação posterior do estado dos bens, por si só, não induz à nulidade do termo de adjudicação, devendo a exeqüente buscar em ação autônoma a reparação de eventuais prejuízos suportados. Recurso especial apontando violação dos arts. 535 e 150 do CPC e 629 do CC, defendendo que a adjudicação pode ser anulada ante a comprovada culpa do depositário, que não conservou os bens.
+2. Não há de ser reconhecida violação do art. 535 do CPC quando inexistentes os requisitos elencados em seu bojo. A utilização da via aclaratória é para integração, visando ao afastamento de vício a macular a compreensão do julgado.
+3. Após a assinatura do auto, a adjudicação reputa-se perfeita e acabada, podendo ser anulada, mas pela via adequada: ação de nulidade. Nesse passo, a questão argüida em sede deste apelo extremo, concernente à responsabilização do depositário (arts. 629 do CC e 150 do CPC), cede ao disposto no art. 215 do CPC, pois está ressalvada, por via da tutela adequada, a reparação dos prejuízos alegados.
+4. Recurso especial não-provido."
+(REsp 785.522/SP, Rel. Ministro JOSÉ DELGADO, PRIMEIRA TURMA, julgado em 15/12/2005, DJ 20/2/2006 - grifou-se)
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
