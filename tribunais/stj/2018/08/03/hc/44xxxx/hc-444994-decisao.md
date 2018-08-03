@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de habeas corpus, sem pedido liminar, impetrado pela Defensoria Pública em favor de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça do Distrito Federal e dos Territórios (Recurso de Agravo n.º 2018002000977-0).
+Consta dos autos que o Juízo da VEC/DF (Autos n.º 11379-38) proferiu a seguinte decisão (fls. 11-12):
+Cuida-se de Inquérito Disciplinar, instaurado para apurar a prática de falta grave, prevista no artigo art. 50 da LEP. O Ministério Público pugnou pela homologação das sanções e regressão para o regime fechado. A defesa ofereceu manifestação em sentido diverso. É o breve e necessário relatório. DECIDO. Verifica-se que o sentenciado se acha cumprindo pena em regime semiaberto, tendo praticado, no cumprimento da pena, falta classificada como GRAVE. Os fatos ensejadores da punição se acham suficientemente comprovados e se deve dar crédito ao que foi apurado no inquérito disciplinar. HOMOLOGO as punições administrativamente aplicadas, para referendá-las. Declaro, por conseguinte, a perda de 1/6 dos dias remidos anteriores à falta, com fulcro no art. 127 da LEP, e com fundamento no art. 118, I, c/c art. 52, 50, III, VII, ambos da Lei de Execução Penal, DECLARO REGREDIDO o sentenciado ao regime FECHADO, com efeitos retroativos à data da falta, conforme ID n.º 185/2016.
+Tendo em vista o atendimento aos requisitos legais, para nova progressão, DEFIRO A PROGRESSÃO AO REGIME SEMIABERTO, a partir de 16/09/2017, bem como a autorização para trabalho externo e saídas temporárias. Indefiro o pedido de livramento condicional, à falta de requisito subjetivo. Em seguida, a Defesa interpôs Agravo e nova vista para razões, tanto em relação à conclusão do ID quanto em virtude do indeferimento do livramento condicional. Em seguida, pelo MM Juiz foi proferida a seguinte decisão: Autue-se o Agravo e dê-se vista para apresentação das razões. Publicada em audiência. Intimados os presentes. Nada mais havendo, encerrou-se o presente termo que, lido e achado conforme, vai devidamente subscrito. Eu, [NOME], o digitei.
+Interposto recurso de agravo pela defesa, o tribunal de origem negou-lhe provimento, em 22.3.2018. Eis a ementa do acórdão (fls. 111-112):
+AGRAVO EM EXECUÇÃO. PRETENSÃO DE AFASTAR A HOMOLOGAÇÃO DE FALTA GRAVE. IMPROCEDÊNCIA. NEGATIVA DE LIVRAMENTO CONDICIONAL. COMPORTAMENTO CARCERÁRIO INSATISFATÓRIO. AUSÊNCIA DO REQUISITO SUBJETIVO. DECISÃO MANTIDA.
+1 O Juízo da Vara de Execuções Penais reconheceu o cometimento de falta grave pelo reeducando e negou-lhe o livramento condicional, porque trazia consigo três porções de crack e um cigarro de maconha. A apreensão dos entorpecentes por dois Agentes Penitenciários durante revista pessoal possui presunção relativa de legitimidade e credibilidade, não havendo elementos aptos a afastá-la.
+2 Há independência e autonomia entre as esferas administrativa e judicial, o que garante a aplicação da pena no processo administrativo-disciplinar, desde que respeitando o contraditório e a ampla defesa, sujeitando-se ao crivo homologatório do Juízo da Execução.
+3 A avaliação do comportamento satisfatório do condenado não pode se limitar ao último semestre, mas considerar todo período de execução da pena, sendo certo que a falta grave evidencia que o sentenciado não apresentou comportamento carcerário compatível com a concessão do benefício.
+4. Agravo não provido.
+Nesta via, a impetrante afirma que não foi concedido livramento condicional ao paciente, em que pese a reabilitação da falta greve.
+Sustenta que se afigura desarrazoado e ofensivo à ressocialização da pena impedir o livramento condicional com base em falta grave antiga, praticada há mais de 18 meses.
+Ressalta que, não sendo o livramento condicional regime de cumprimento de pena, não há que se falar em vedação de progressão per saltum.
+Requer sejam cassadas as decisões das instâncias ordinárias, determinando-se juízo da execução que aprecie o pleito de livramento condicional, nos estritos termos da lei.
+Solicitadas informações (fls. 128-129), estas foram juntadas aos autos às fls. 132-168, 171-208 e 210-264.
+O Ministério Público Federal, às fls. 266-272, manifestou-se pela denegação da ordem.
+É o relatório.
+Da análise das informações prestadas às fls. 225-227, verifica-se que o juízo singular, diante da notícia da prática de novas faltas graves pelo paciente, em 2.4.2018 e em 6.4.2018, suspendeu os benefícios externos anteriormente concedidos, por meio de decisão proferida em 23.4.2018. O magistrado destacou que há informações de que o paciente foi preso em flagrante em 6.4.2018 e a prisão em flagrante foi convertida em preventiva.
+Diante da alteração substancial da realidade fático-processual noticiada na inicial da impetração, esvaiu-se o objeto do presente mandamus.
+Ante o exposto, com fundamento no art. 659 do Código de Processo Penal, e no art. 34, XI e XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intime-se.
+Sem recurso, ao arquivo.
