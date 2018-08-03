@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DO PARANÁ, em que pretente a admissão de recurso especial, no qual, entre outras questões, defende a aplicação da limitação temporal prevista no art. 33, I, da LC n. 87/1996 ao creditamento de ICMS referente às entradas de bens de uso e consumo na proporção das saídas destinadas à exportação.
+Contraminuta foi apresentada às e-STJ fls. 850/857.
+Parecer do Ministério Público Federal pelo desprovimento do recurso consta às e-STJ fls. 873/877.
+Passo a decidir.
+O Supremo Tribunal Federal, no julgamento do RE 704.815/SC, Relator Ministro Luiz Fux, sessão de 14/02/2013, reconheceu a existência de repercussão geral da questão jurídica objeto do apelo extremo interposto na origem, nos termos da seguinte ementa:
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ICMS. AQUISIÇÃO DE BEM DE USO E CONSUMO. CADEIA PRODUTIVA. CREDITAMENTO. OPERAÇÃO DE EXPORTAÇÃO. IMUNIDADE. APROVEITAMENTO DOS CRÉDITOS DAS ETAPAS ANTERIORES. CRITÉRIO MATERIAL OU FINANCEIRO. INTELIGÊNCIA DO ART. 155, § 2º, INCISO X, ALÍNEA A, E INCISO XII, ALÍNEA C, CF/88. ARTIGO 33 DA LEI COMPLEMENTAR 87/96, REPERCUSSÃO GERAL RECONHECIDA.
+Assim, por medida de economia processual e para evitar decisões dissonantes entre a Corte Suprema e o Superior Tribunal de Justiça, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução no recurso extraordinário afetado, o que viabiliza, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial, se for o caso, deverá ser encaminhado a este Órgão Superior, para que possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+ Registre-se que essa medida visa evitar, também, o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou unicidade recursal.
+Ante o exposto, DETERMINO A DEVOLUÇÃO DOS AUTOS ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso com repercussão geral reconhecida e em observância aos arts. 1.039 e 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pela Suprema Corte; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema submetido à repercussão geral.
+Publique-se. Intimem-se.
