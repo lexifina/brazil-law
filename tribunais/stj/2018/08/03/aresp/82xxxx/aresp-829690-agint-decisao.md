@@ -1,0 +1,68 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. RECONSIDERAÇÃO. TEMPESTIVIDADE DO RECURSO ESPECIAL RECONHECIDA. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. ENCERRAMENTO DE CONTA. COBRANÇA DE ENCARGOS. NÃO INDICAÇÃO DE DISPOSITIVOS DE LEI FEDERAL. DEFICIÊNCIA DA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. APLICAÇÃO DA SÚMULA Nº 284 DO STF. JUROS REMUNERATÓRIOS. TAXA MÉDIA DE MERCADO. INCIDÊNCIA DAS SÚMULAS NºS 5 E 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+[NOME] ([NOME]) promoveu ação revisional de contrato bancário cumulada com pedidos de restituição de indébito e de indenização por danos morais contra HSBC BANK BRASIL S. A. - BANCO MÚLTIPLO (HSBC), narrando que possuía conta corrente no estabelecimento bancário desde agosto de 2002, mas que este praticou condutas que a lesaram. Explicou que encerrou sua conta aos 13/7/2006, tendo pagado todos os débitos. Afirmou que HSBC debitou de sua conta um cheque que havia sido adulterado, mas que posteriormente reconheceu o equívoco e realizou o estorno, mas que seu nome foi inscrito no cadastro de inadimplentes. Sustentou que, realizada perícia extrajudicial, ficou constatada a existência de diversas irregularidades como juros acima do permissivo legal, capitalização de juros, cobrança de comissão de permanência e multa moratória acima do limite estabelecido pelo CDC.
+HSBC apresentou reconvenção, alegando ser credor de [NOME] de certa quantia líquida e certa.
+Em primeira instância, os pedidos da ação principal foram julgados parcialmente procedentes para (1) determinar a revisão do contrato firmado entre as partes e declarar ilegal a incidência da cláusula de comissão de permanência cumulada com outros encargos, com restituição a [NOME], de forma simples, dos valores indevidamente cobrados; (2) determinar que seja recalculado o período de movimentação da conta corrente de [NOME] para afastar a cobrança de juros superiores à taxa média de mercado e a sua cobrança de forma capitalizada, com restituição, de forma simples, dos valores eventualmente pagos em excesso; e, (3) condenar HSBC ao pagamento de R$ 10.000,00 (dez mil reais) a título de indenização por danos morais.
+Por seu turno, o pedido reconvencional foi julgado improcedente.
+Em virtude da sucumbência recíproca, mas mínima de [NOME], HSBC foi condenado ao pagamento das custas processuais e dos honorários advocatícios arbitrados em 10% do valor da condenação. HSBC foi, ainda, condenado, no pedido reconvencional, ao pagamento das custas processuais e dos honorários advocatícios fixados em R$ 800,00 (oitocentos reais).
+Interposta apelação por HSBC, o Tribunal de origem deu parcial provimento ao recurso apenas para afastar sua condenação ao pagamento de indenização por danos morais, em acórdão assim ementado:
+Revisional. Contrato de conta corrente. Interesse recursal. Litigância de má-fé. Limitação dos juros remuneratórios. Capitalização de juros. Comissão de permanência. Repetição de indébito. Indenização por danos morais. Fatos não comprovados. Ônus do autor. Sucumbência.
+1. É admissível o recurso que cumpra as exigências do artigo 514 do CPC.
+2. Sem comprovação da prática de atos incompatíveis com a lealdade e boa-fé processual, não tem lugar a aplicação de multa por litigância de má-fé.
+3. Inexistindo nos autos evidência de que o banco tenha praticado juros além das taxas médias de mercado, tem-se como válida a taxa aplicada pelo banco.
+4. Sendo a cobrança de juros capitalizados admitida pelo banco, é devida a sua exclusão, com o cômputo dos juros de forma simples, na medida em que não foi juntado aos autos contrato demonstrando a sua pactuação em qualquer periodicidade.
+5. É legal a cobrança de comissão de permanência, quando prevista como encargo do período após o vencimento da dívida, substituindo os juros remuneratórios e moratórios, a correção monetária e a
+multa.
+6. Verificada a cobrança de encargos ilegais, é devida a compensação quando persistir saldo devedor, ou restituição caso não houver mais débito, a fim de evitar o enriquecimento indevido da instituição financeira.
+7. Sem que a parte autora tenha demonstrado que a inscrição de seu nome nos órgãos que cadastram maus pagadores ocorreu em virtude de débitos mensais de tarifas, juros e outros valores realizados pelo banco réu após o encerramento de sua conta corrente, é indevida a indenização por danos morais.
+8. Diante da sucumbência recíproca, dividem-se as despesas processuais entre as partes na proporção de suas vitórias e derrotas.
+Apelação provida em parte (e-STJ, fls. 458/459).
+[NOME] opôs embargos de declaração que foram rejeitados.
+[NOME] interpôs, então, recurso especial, amparado no art. 105, III, alíneas a e c, da CF, alegando ofensa aos arts. 333, II, do CPC/73 e 6º, VIII, do CDC, além de divergência jurisprudencial. Sustentou que (1) cabia ao HSBC comprovar que praticou taxa média de juros divulgada pelo BACEN; (2) HSBC desistiu da produção da prova pericial; (3) foi deferida, pelo juízo a quo, a inversão do ônus da prova e, por isso, HSBC deveria comprovar suas alegações; (4) ocorreu abusividade na prática dos juros acima da média de mercado; e, (5) ficou comprovado, nos autos, o encerramento de sua conta corrente, o que impede a cobrança de encargos após o período de 6 (seis) meses de inatividade.
+O apelo nobre interposto por [NOME] não foi admitido em virtude do reconhecimento da deserção.
+Dessa decisão, foi interposto agravo em recurso especial, ao qual foi negado seguimento, em monocrática, com amparo no art. 1º da Resolução STJ nº 17/2013, por ter sido reconhecido deserto o apelo nobre.
+[NOME] interpôs agravo interno, que foi recebido pela Presidência do STJ, em decisão unipessoal, como embargos de declaração, para reconhecer não estar deserto o recurso, mas mantendo a negativa de seguimento, em virtude da intempestividade do apelo nobre.
+Neste agravo interno, [NOME] alegou a tempestividade do recurso especial, porque, por força da Resolução nº 115/2014, do Tribunal de Justiça do Estado do Paraná, houve recesso forense no período de 20 de dezembro de 2014 a 6 de janeiro de 2015.
+Houve impugnação ao recurso (e-STJ, fls. 585590).
+É o relatório.
+DECIDO.
+O recurso especial, protocolado aos 7/1/2015, é tempestivo, nos termos da documentação acostada aos autos.
+Dessa forma, reconsidero a decisão agravada e passo a análise do recurso especial interposto por [NOME].
+Em seu recurso especial, [NOME] sustentou ofensa à legislação federal, bem como divergência jurisprudencial, nos termos dos fundamentos já expostos acima.
+Contrarrazões (e-STJ, fls. 519/523).
+O recurso não merece prosperar.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+Da alegada divergência jurisprudencial no tocante à inatividade da conta e a impossibilidade de cobrança de encargos
+O conhecimento do recurso especial interposto com fundamento na alínea c do permissivo constitucional exige, além da demonstração analítica do dissídio jurisprudencial, a indicação a indicação clara e precisa dos dispositivos de lei federal supostamente violados ou objeto de interpretação divergente. Ausentes tais requisitos, incide o óbice da Súmula nº 284 do STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Ademais, como se isso não bastasse, para o conhecimento do apelo nobre com base na alínea c do inciso III do art. 105 da CF, além de indicar o dispositivo legal e transcrever os julgados apontados como paradigmas, é necessário realizar o cotejo analítico, com a demonstração da identidade das situações fáticas e da interpretação diversa dada ao questionado dispositivo legal, o que não ocorreu.
+Da análise do recurso interposto, foi possível verificar que [NOME] não se desincumbiu dessa tarefa, não atendendo, portanto, os requisitos dos arts. 541, parágrafo único, do CPC/73 e 255 do RISTJ, o que inviabiliza o exame da apontada divergência.
+(1) Da violação aos arts. 333, II, do CPC/73 e 6º, VIII, do CDC
+Nos termos da jurisprudência do STJ, os juros remuneratórios devem ser limitados à taxa média de mercado quando cabalmente comprovada, no caso concreto, a significativa discrepância entre a taxa pactuada e a taxa de mercado para operações similares (REsp nº 1.061.530/RS, Rel. Ministra Nancy Andrighi, Segunda Seção, j. 22/10/2008, DJe de 10/3/2009, apreciado sob o rito dos recursos representativos de controvérsia).
+Dessa forma, a Corte local concluiu não ter ficado comprovado nos autos estarem as taxas aplicadas pela instituição financeira além daquela praticada pelo mercado, nos seguintes termos:
+Isto porque, mesmo na hipótese de o contrato bancário não prever taxa de juros, uma vez sendo incontroversa a incidência dos juros remuneratórios, para que sejam desconsideradas as taxas cobradas pela instituição financeira é imprescindível que fique caracterizado nos autos terem os juros sido cobrados além da taxa média de mercado.
+E, no caso, não restou demonstrado nos autos que houve cobrança de juros acima da taxa média de mercado.
+Tanto é assim, que o Juiz a quo determinou que fosse apurado em liquidação de sentença "se houve a cobrança de juros superiores à taxa média de mercado". Ou seja, a sentença, mesmo sem ter elementos para afirmar se o banco apelante cobrou juros superiores à taxa média de mercado, acabou condicionando o resultado de sua decisão à posterior comprovação dos fatos constitutivos do direito da parte autora para a fase de liquidação.
+Assim, sem que tenha sido comprovado nos autos estarem as taxas aplicadas pela instituição financeira além daquela praticada pelo mercado, tem-se como válida aquela aplicada, a qual fica mantida com reforma da sentença neste tópico (e-STJ, fls. 465/466).
+Nesse sentido, o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos e a revisão contratual, o que se mostra inviável ante a natureza excepcional da via eleita, a teor das Súmulas nºs 5 e 7 do STJ.
+Confira-se a jurisprudência desta Corte a respeito do tema:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. ALIENAÇÃO FIDUCIÁRIA. JUROS REMUNERATÓRIOS. ALTERAÇÃO. INVIABILIDADE. SÚMULAS NºS 5 E 7/STJ. MORA.
+CARACTERIZAÇÃO. COBRANÇA INDEVIDA. ENCARGO DA NORMALIDADE. ENTENDIMENTO JURISPRUDENCIAL CONSOLIDADO. RECURSO REPRESENTATIVO DA CONTROVÉRSIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ)
+2. Os juros remuneratórios devem ser limitados à taxa média de mercado quando cabalmente comprovada, no caso concreto, a significativa discrepância entre a taxa pactuada e a taxa de mercado para operações similares. Recurso representativo da controvérsia.
+3. A reforma do julgado demandaria a revisão do acervo fático-probatório e a análise de cláusulas contratuais, procedimento vedado na estreita via do recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+4. A constatação do abuso na exigência de encargos durante o período da normalidade contratual afasta a configuração da mora, consoante iterativa jurisprudência desta Corte.
+5. Agravo interno não provido.
+(AgInt no AREsp 1.183.999/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 26/6/2018, DJe 29/6/2018 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. ALIENAÇÃO FIDUCIÁRIA. REVISIONAL. JUROS REMUNERATÓRIOS. ABUSIVIDADE. RECONHECIMENTO. TAXA ACIMA DA MÉDIA DE MERCADO. PRECEDENTES. DESCARACTERIZAÇÃO DA MORA. AGRAVO INTERNO DESPROVIDO.
+1. As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto n. 22.626/33), Súmula n. 596/STF; e a estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade (REsp n.
+1.061.530/RS, representativo da controvérsia, Relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 22/10/2008, DJe 10/3/2009).
+2. A verificação de abusividade do percentual dos juros remuneratórios contratados não se baseia no simples fato de ultrapassar a taxa média de mercado, devendo-se observar a razoabilidade a partir desse patamar, de modo que a vantagem exagerada, justificadora da limitação judicial, deve ficar cabalmente demonstrada em cada situação. Reconhecida pelo Tribunal de origem a abusividade da taxa de juros contratada, considerando as peculiaridades do caso, impossível a modificação desse entendimento tendo em vista os óbices das Súmulas 5 e 7 do STJ.
+3. A cobrança de encargos abusivos no período da normalidade enseja a descaracterização da mora.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.118.462/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 20/2/2018, DJe 1º/3/2018)
+Nessas condições, NÃO CONHEÇO do recurso especial.
+No caso, por ser inaplicável o novo Código de Processo Civil, deixo de apreciar tema referente a honorários advocatícios.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
