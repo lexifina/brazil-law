@@ -1,0 +1,16 @@
+Trata-se de habeas corpus impetrado contra decisão do Ministro Nefi Cordeiro, do Superior Tribunal de Justiça – STJ, que indeferiu liminarmente o HC 455.399/SP.
+    Consta dos autos (documento eletrônico 9) que o paciente foi preso temporariamente pela suposta tentativa de homicídio qualificado (art. 121, § 2º, IV, combinado com o art. 14, II, do CP).
+    Questionando os fundamentos da prisão processual, a defesa impetrou habeas corpus no Tribunal de Justiça do Estado de São Paulo – TJSP, ocasião em que o Desembargador Relator indeferiu o pedido de liminar (documento eletrônico 9). Na sequência, manejou outro HC no Superior Tribunal de Justiça, mas o Ministro Relator indeferiu liminarmente a impetração (documento eletrônico 10).
+    É contra essa decisão que se insurge o impetrante neste habeas corpus.
+    Registra, inicialmente, que “o investigado é homem primário, trabalha com carteira assinada, tem residência fixa e está desesperado com a situação que a polícia o colocou, sem sequer, apresentar uma prova cabal” de sua participação no fato que lhe é imputado (fl. 8 da petição inicial).
+    Argumenta, em seguida, que “a manutenção da prisão do acusado não merece prosperar, uma vez que este não preenche os requisitos e feriu o que dispõe os incisos do artigo 1º da Lei 6970-89 que regulamenta a prisão temporária” (fl. 11 da petição inicial).
+    Requer, ao final, liminarmente, “a expedição CONTRAMANDADO DE PRISÃO TEMPORÁRIA de prisão, para que o paciente […] possa comparecer no dia e local determinado pela autoridade policial para ser ouvido como foram os outros investigados” (fl. 17 da petição inicial).
+    É o relatório necessário. Decido.
+    Embora o impetrante não tenha instruído a impetração com o inteiro teor da decisão ora questionada, é possível acessá-la por meio do sítio eletrônico do Superior Tribunal de Justiça. Verifica-se, com efeito, que o Ministro Relator indeferiu liminarmente o HC 455.399/SP, por considerar que não existe “manifesta ilegalidade apta a autorizar a mitigação da Súmula 691/STF, sendo necessária a análise apurada do caso, o que será melhor realizado pelo Tribunal a quo, quando da análise do mérito do writ originário”.
+    Desse modo, este pleito não merece igualmente seguimento, uma vez que o exame da questão implicaria indevida supressão de instância e extravasamento dos limites de competência desta Suprema Corte descritos no art. 102 da Constituição Federal, que pressupõem seja a coação praticada por Tribunal Superior.
+    Essa foi a orientação firmada pela Segunda Turma, quando do julgamento do HC 119.115/MG, de minha relatoria, ocasião na qual se decidiu que a não interposição de agravo regimental no Superior Tribunal de Justiça e, portanto, a ausência da análise da decisão monocrática pelo colegiado, impede o seguimento do habeas corpus nesta Suprema Corte, pois, do contrário, permitiria ao jurisdicionado a escolha do Tribunal para conhecer e julgar a sua causa, o que configuraria evidente abuso do direito de recorrer.
+    Isso posto, nego seguimento ao habeas corpus (RISTF, art. 21, § 1º). Prejudicado o exame da liminar.
+    Publique-se.
+    Brasília, 3 de agosto de 2018.
+Ministro Ricardo Lewandowski
+Relator
