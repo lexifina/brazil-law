@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Recurso Especial, fundamentado na alínea a do permissivo constitucional, interposto pela FAZENDA NACIONAL, na vigência do CPC/73, contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+"AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. INCIDENTE DE IMPUGNAÇÃO DO VALOR DA CAUSA. SUPERVENIENTE PROLAÇÃO DE SENTENÇA DE MÉRITO. TRÂNSITO EM JULGADO. PERDA DE OBJETO. OCORRÊNCIA. PROVIMENTO.
+1. Agravo interno de decisão monocrática que deu provimento ao agravo de instrumento da UNIÃO/FAZENDA NACIONAL, para rever o valor da causa fixado pelo juízo a quo.
+2. Cinge-se a controvérsia, em síntese, à possível perda de objeto de incidente de impugnação ao valor da causa, em razão da superveniência e prolação de sentença de mérito no feito originário.
+3. No momento em que proferida a sentença, arbitrando-se verba honorária de 10% (dez por cento) sobre o valor da causa, o incidente de impugnação ao valor da causa já havia fixado o valor desta em R$ 1.000.00 (hum mil reais), tendo o Juízo a quo exercido juízo valorativo sobre esta quantia.
+4. A interpretação literal da norma processual, como bem pontuado na decisão vergastada, que determina que o valor atribuído à causa deve corresponder ao verdadeiro significado econômico pretendido pelo autor, sem referência ao princípio constitucional do acesso ao judiciário, afronta os direitos fundamentais.
+5. Agravo interno de SCHENEIDER E CIA. LTDA. a que se dá provimento para, revendo a monocrática lançada, manter a decisão de Primeiro Grau, no sentido de que a execução do julgado prossiga no percentual de 10% (dez por cento) sobre o valor da causa atualizado, considerado este o montante histórico de R$ 1.000,00 (mil reais), isso se o valor hoje obtido não for irrisório, em atenção ao princípio da bagatela" (fl. 912e).
+O acórdão em questão foi objeto de Embargos de Declaração, rejeitados, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO. OMISSÃO. INOCORRÊNCIA. PREQUESTIONAMENTO.
+1. Inexiste a omissão apontada, uma vez que as questões relevantes para o deslinde da causa foram enfrentadas no acórdão embargado.
+2. Na hipótese vertente, com base em alegação de omissão, deseja a recorrente modificar o julgado por não-concordância, sendo esta a via inadequada.
+3. Para fins de prequestionamento, basta que a questão tenha sido debatida e enfrentada no corpo do acórdão, sendo desnecessária a indicação de dispositivo legal ou constitucional (STF, RTJ 152/243; STJ, Corte Especial, RSTJ 127/36; ver ainda: RSTJ 110/187).
+4. Embargos de declaração conhecidos e desprovidos" (fl. 931e).
+Alega-se, nas razões do Recurso Especial, violação aos arts. 467, 468, 474 e 535, I e II, todos dos CPC/73. Para tanto, sustenta, in verbis:
+"IV - DAS RAZÕES DO PEDIDO DE ANULAÇÃO DO ACÓRDÃO:
+Ao negar provimento aos embargos declaratórios de fls. 874/878 - opostos com o propósito de sanar omissão verificada no acórdão embargado, a saber, a aplicação à espécie dos artigos 467, 468 e 474 do CPC o acórdão de fl. 888 colide com o princípio do due process of law e com aqueles que instruem o processo civil moderno, ofendendo, assim, o art. 535, I e II, do CPC.
+Com efeito, exercendo função social de imensurável relevância na Instituição Democrática, e vedado ao magistrado se silenciar quanto ao direito. Pelo princípio do livre convencimento motivado, indispensável se torna a explicitarão por parte do juiz das razões que lhe impulsionaram a chegar a uma determinada decisão. Neste sentido dispõe a letra da lei fundamental:
+(..)
+Como se sabe, há firme e pacífico entendimento dos Tribunais Superiores acerca do cabimento de Embargos de Declaração para se provocar o prequestionamento, requisito necessário para a propositura dos recursos especial c extraordinário, que a Constituição Federal expressamente prevê.
+Deste modo, ó indispensável a supressão de omissão no conteúdo decisório de acórdão que não se manifesta quanto ao direito o qual a parte afirma pela aplicabilidade. Nesse sentido, citam-se as Súmulas 282 e 356 do STF, além da já mencionada Súmula 98 deste Egrégio Tribunal. A propósito, veja-se o que dispõe julgados desta mesma Corte:
+(..)
+Logo, revela-se perfeitamente admissível o presente recurso, dada a firme posição deste Tribunal a respeito da matéria, inexistindo, no Estado Democrático de Direito, espaço para obscura c desmotivada jurisdição.
+V - DAS RAZÕES DO PEDIDO DE REFORMA DO ACÓRDÃO RECORRIDO
+O acórdão ora recorrido resulta cm clara violação da coisa julgada.
+Isto porque viola frontalmente a decisão da mesma Corte que, nos autos do agravo de instrumento nº 2009.02.01.011981-3, fixou expressamente o valor da causa em R$ 6.329.134,43. De fato, o valor da causa, vale dizer, o benefício patrimonial que pretendia a embargada obter com o provimento judicial, já linha sido resolvido por decisão anterior fixada pelo próprio TRF da 2a Região.
+É mister ressaltar, conforme afirmou a União na peça exordial, que "salta aos olhos a inércia da autora, ora agravada, na defesa de seus interesses, eis que a mesma deixou transcorrer in albis o prazo para recorrer contra a decisão que fixou o originalmente valor da causa".
+Pode-se dizer que o entendimento adotado no v. acórdão ora recorrido conduz inevitavelmente à desestabilização da ordem c da segurança jurídica, uma vez que acaba por inviabilizar por completo o instrumento da impugnação ao valor da causa, utilizando corretamente pela União Federal.
+Deveras, somente através do instrumento processual próprio - ação rescisória - poderia a recorrida desconstituir a coisa julgada. A simples impugnação ao processo de execução, como no caso presente, não é instrumento adequado para retirada do mundo jurídico o acórdão transitado em julgado no processo nº 2009.02.01.01198-3, que corretamente fixou o valor da causa" (fls. 940/943e).
+Requer, ao final, "o provimento do presente recurso, para que seja anulado o acórdão recorrido, por violação ao art. 535, I e II, do Código de Processo Civil. Contudo, caso entenda a Colenda Turma julgadora ter sido a questão apreciada pelo Egrégio Tribunal Regional Federal, requer a reforma do acórdão, por violação ao disposto nos 467, 468, 474, todos do CPC" (fl. 944e).
+Foram apresentadas contrarrazões (fls. 949/954e).
+A irresignação não merece acolhimento.
+Destaco, de plano, que, quanto à violação ao art. 535, I e II, do CPC/2015, o recorrente não apontou, especificamente, quais pontos ou questões obscuros, contraditórios ou omissos, atraindo, nesse aspecto, a incidência, por analogia, da Súmula 284/STF:
+"É INADMISSÍVEL O RECURSO EXTRAORDINÁRIO, QUANDO A DEFICIÊNCIA NA SUA FUNDAMENTAÇÃO NÃO PERMITIR A EXATA COMPREENSÃO DA CONTROVÉRSIA".
+Por outro lado, os arts. 467, 468 e 474, todos dos CPC/73, não possuem comando capaz de infirmar os fundamentos do acórdão recorrido. Na forma da jurisprudência desta Corte, "a impertinência do dispositivo legal apontado como violado, no sentido de ser incapaz de infirmar o aresto recorrido, revela a deficiência das razões do recurso especial, fazendo incidir a Súmula 284 do STF" (STJ, AgRg no AREsp 144.399/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 18/06/2012).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
