@@ -1,0 +1,16 @@
+DECISÃO
+PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. BENEFÍCIO ASSISTENCIAL. LEI 8.742/1993. CONDIÇÃO DE VULNERABILIDADE SOCIAL DA PARTE AUTORA DEMONSTRADA. REQUISITOS PARA A CONCESSÃO DO BENEFÍCIO PREENCHIDOS. ACÓRDÃO EM CONSONÂNCIA COM A ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE. AGRAVO A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto com fundamento nas alíneas a e c do art. 105, III da Constituição Federal, no qual se insurge contra acórdão proferido pelo Tribunal Regional Federal da 4a. Região, que julgou procedente o pedido de concessão de benefício assistencial à parte autora.
+2. Nas razões do Recurso Especial inadmitido, sustenta a recorrente, além de dissídio jurisprudencial, violação ao art. 20 da Lei 8.742/1993, ao argumento de que a autora não faz jus ao recebimento do benefício assistencial uma vez ausente os requisitos para obtenção do benefício.
+3. É o relatório.
+4. Com efeito, a Constituição Federal prevê, em seu art. 203, caput e inciso V, a garantia de um salário mínimo de benefício mensal, independente de contribuição à Seguridade Social, à pessoa portadora de deficiência e ao idoso que comprovem não possuir meios de prover à própria manutenção ou de tê-la provida por sua família, conforme dispuser a lei.
+5. Regulamentando o comando constitucional, a Lei 8.742/1993, alterada pela Lei 12.435/2011, dispõe:
+Art. 20. O benefício de prestação continuada é a garantia de um salário-mínimo mensal à pessoa com deficiência e ao idoso com 65 (sessenta e cinco) anos ou mais que comprovem não possuir meios de prover a própria manutenção nem de tê-la provida por sua família.
+§ 1o Para os efeitos do disposto no caput, a família é composta pelo requerente, o cônjuge ou companheiro, os pais e, na ausência de um deles, a madrasta ou o padrasto, os irmãos solteiros, os filhos e enteados solteiros e os menores tutelados, desde que vivam sob o mesmo teto. (Redação dada pela Lei nº 12.435, de 2011)
+§ 2o Para efeito de concessão deste benefício, considera-se pessoa com deficiência aquela que tem impedimentos de longo prazo de natureza física, mental, intelectual ou sensorial, os quais, em interação com diversas barreiras, podem obstruir sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas.
+§ 6º A concessão do benefício ficará sujeita à avaliação da deficiência e do grau de impedimento de que trata o § 2o, composta por avaliação médica e avaliação social realizadas por médicos peritos e por assistentes sociais do Instituto Nacional de Seguro Social - INSS.
+6. No caso dos autos, o pedido foi julgado procedente pelas instâncias ordinárias, por reconhecer, com base no conjunto fático-probatório dos autos, a condição de necessidade da autora, baseado em análise social que não limita-se ao exame da renda per capita.
+7. Dessa forma, tendo a parte autora logrado comprovar sua condição de necessidade, faz jus à concessão do benefício assistencial pleiteado.
+8. Ademais, a alteração dessa conclusão somente seria possível através do reexame de prova, o que, entretanto, encontra óbice na Súmula 7 do STJ. A propósito, os seguintes julgados:
+9. Ante o exposto, com fundamento no art. 932, inciso IV, alínea a do CPC/2015, nega-se provimento ao Agravo.
+10. Publique-se. Intimem-se.
