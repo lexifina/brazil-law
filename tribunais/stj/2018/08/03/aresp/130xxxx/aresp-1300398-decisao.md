@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por ROSA DE BASSI GRÁFICA E EDITORA LTDA. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná assim ementado:
+" AGRAVO DE INSTRUMENTO EM EXECUÇÃO POR TÍTULO EXTRAJUDICIAL. DISCUSSÃO SOBRE O CABIMENTO DA DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA, VISANDO A RESPONSABILIZAÇÃO DOS INTEGRANTES DO QUADRO SOCIAL PELO CUMPRIMENTO DAS OBRIGAÇÕES DAQUELA.
+O encerramento irregular das atividades por parte da sociedade empresário, de per si, não autoriza estender aos integrantes do respectivo quadro social a responsabilidade pelo cumprimento das obrigações dela. Para isso, é necessária, consoante exige o artigo 50 do Código Civil, prova de que os sócios tenham, dolosamente, cometido fraude, agido com abuso de poder ou desvirtuado os fins da sociedade. Precedentes do STJ e desta Corte RECURSO CONHECIDO E NÃO PROVIDO" (fl. 442 e-STJ).
+Nas razões do especial, a agravante alegou, em preliminar, violação dos arts. 1.022, II, do Código de Processo Civil de 2015, por negativa de prestação jurisdicional, haja vista a falta de pronunciamento a respeito pontos relevantes que demonstram o abuso da personalidade jurídica.
+No mérito, apontou dissídio jurisprudencial quanto à interpretação da desconsideração da pessoa jurídica quando há prova do abuso.
+Sem as contrarrazões e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+ É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Quanto à alegada violação do artigo 1.022 do Código de Processo Civil de 2015, observa-se que o Tribunal de origem se manifestou objetivamente sobre o cabimento da desconsideração da personalidade jurídica, visando a responsabilização dos integrantes do quadro social pelo cumprimento das obrigações da empresa.
+Eis o excerto do julgamento dos aclaratórios:
+"(..)
+Sustenta a embargante que houve omissão no acórdão impugnado em relação à prática de atos administrativos que acarretaram a restrição da pessoa jurídica, e o esvaziamento de seu patrimônio, bem como que não foram analisados os efeitos decorrentes da inaptidão da empresa posterior ao ajuizamento da execução e perante terceiros.
+Verifica-se, no entanto, que não há omissão, contradição ou obscuridade a ser superada, uma vez o decisum de fls. 434/437, enfrentou as questões suscitadas, in verbis:
+(..) o mero encerramento irregular das atividades não se encaixa nas hipóteses discriminadas no artigo 50 do Código Civil e não valida a desconsideração da personalidade jurídica da empresa.
+(..) Não socorre a Agravante, frise-se o fato de a Agravada ter sido autuada pela Receita Federal em razão da realização de operação irregular de comércio exterior, diante da ausência de indícios de que essa mesma operação tenha alguma ligação com a dívida motivadora do ajuizamento da presente execução.
+De fato, eventual infração ao contrato social ou fraude cometida pelo integrante do quadro social só é passível de invocação, para fins de responsabilização dele, por parte da vítima de sua atitude dolosa, não gerando o mesmo direito para terceiros.
+(..) Enfim, considerando que, nos termos da jurisprudência dominante, a simples dissolução irregular da sociedade ou sua insolvência não ensejam a desconsideração da personalidade jurídica, o que se alia à circunstância de nenhuma das hipóteses do artigo 50 do Código Civil ter ficado demonstrada, voto pelo não provimento do recurso" (fls. 463/464 e-STJ).
+Tendo a Corte de apelação dirimido toda e qualquer dúvida acerca dos motivos nos quais se baseou para solucionar a controvérsia, não há falar em deficiência na prestação jurisdicional.
+A propósito:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO RESCISÓRIA. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. AÇÃO RESCISÓRIA QUE BUSCA DESCONTITUIR DECISÃO QUE HOMOLOGA RENÚNCIA AO DIREITO SOBRE O QUAL SE FUNDA A AÇÃO. CABIMENTO. SENTENÇA DE MÉRITO. 1. Ação ajuizada em 16/09/2013. Recurso especial concluso ao gabinete em 12/07/2017. Julgamento: CPC/2015.
+2. O propósito recursal é definir, além da suposta ocorrência de negativa de prestação jurisdicional, se a ação rescisória é via adequada para desconstituir sentença que homologa a renúncia ao direito sobre que se funda a ação.
+3. Não há que se falar em violação dos arts. 535 do CPC/73 e 1.022 do CPC/2015 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+4. A decisão que homologa a renúncia ao direito em que se funda a ação tem natureza de sentença de mérito, desafiando, para a sua impugnação, o ajuizamento de ação rescisória.
+5. Recurso especial conhecido e parcialmente provido."
+(REsp 1674240/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 05/06/2018, DJe 07/06/2018)
+"AGRAVO INTERNO EM RECURSO ESPECIAL. MEDIDA CAUTELAR. MULTA COMINATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA Nº 284/STF. FUNDAMENTO NÃO ATACADO. SÚMULA Nº 283/STF. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. MULTA DIÁRIA. VALOR. RAZOABILIDADE. EMBARGOS DE DECLARAÇÃO. CARÁTER MANIFESTAMENTE PROTELATÓRIO. APLICAÇÃO DA MULTA DO ART. 1.026, § 2º, DO CPC/2015.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+(..)
+9. Agravo interno não provido.
+(AgInt no REsp 1.717.507/MT, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 5/6/2018, DJe 12/6/2018)
+Além disso, o recurso especial fundamentado em dissídio jurisprudencial exige, em qualquer caso, que tenham os acórdãos - recorrido e paradigma - examinado a questão sob o enfoque do mesmo dispositivo de lei federal.
+Com efeito, se a divergência não é notória, e nas razões de recurso especial não há sequer a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da eventual ofensa à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284/STF, a inviabilizar o conhecimento do recurso também pela alínea "c" do permissivo constitucional.
+Confiram-se:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. ENUNCIADO SUMULAR. INCAPACIDADE PARA DEMONSTRAR DISSÍDIO JURISPRUDENCIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. DIVERGÊNCIA NÃO DEMONSTRADA. SÚMULA Nº 284/STF.
+1. Enunciados sumulares possuem natureza essencialmente abstrata, não se prestando à demonstração de divergência diante da impossibilidade de cotejamento com o caso concreto. Precedentes.
+2. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional, nos termos do art. 541, parágrafo único, do Código de Processo Civil e do art. 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, requisita comprovação e demonstração, a qual não foi configurada na presente hipótese em virtude da ausência de similitude fática entre o paradigma e o acórdão impugnado.
+3. Se a divergência não é notória, e nas razões de recurso especial não há sequer a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da eventual ofensa à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284 do Supremo Tribunal Federal, a inviabilizar o conhecimento do recurso pela alínea "c" do permissivo constitucional. Precedentes.
+4. Agravo regimental não provido." (AgRg no AREsp 440.785/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 25/3/2014, DJe 31/3/2014)
+"ALVARÁ DE LOCALIZAÇÃO E FUNCIONAMENTO. ENQUADRAMENTO DE COOPERATIVA COMO INSTITUIÇÃO FINANCEIRA. NORMA MUNICIPAL. SÚMULA 280/STF. DIVERGÊNCIA NÃO CARACTERIZADA. ALEGADA VIOLAÇÃO AO ARTIGO 458 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. I - Tendo o acórdão recorrido decidido a questão acerca do enquadramento da cooperativa como instituição financeira para fins de cobrança de alvará de localização e funcionamento com base no código tributário municipal, tem-se de rigor a incidência da súmula 280 do STF.
+II - De outro giro, mesmo que afastado o empeço do verbete sumular 280/STF, tem-se impositivo observar que o recorrente ao indicar a suposta divergência não apontou quais os dispositivos de lei federal que teriam tido interpretação jurisprudencial divergente, inviabilizando a uniformização da interpretação. Aplicação da súmula 284 do STF.
+III - Tendo a suposta ofensa à lei federal, in casu, a alegada deficiência de fundamentação, ocorrido no âmbito do julgamento do próprio acórdão recorrido, tem-se de rigor a oposição de embargos de declaração para provocar a manifestação específica do Tribunal, o que não ocorreu na hipótese, inviabilizando o acesso à instância especial diante da ausência do devido prequestionamento.
+IV - Agravo regimental improvido." (AgRg no REsp 1.200.649/MG, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA TURMA, julgado em 22/11/2011, DJe 6/12/2011)
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANOS MORAIS. REVISÃO DO QUANTUM INDENIZATÓRIO. RECURSO ESPECIAL COM FUNDAMENTO NA ALÍNEA "C". DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA E DEMONSTRADA. JULGADOS DO MESMO TRIBUNAL. SÚMULAS NºS 284/STF e 13/STJ.
+1. Por força legal, a divergência jurisprudencial, autorizativa do recurso especial interposto com fundamento na alínea "c" do inciso III do artigo 105 da Constituição Federal, requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo, como bastante, a simples transcrição de ementas.
+2. A falta de particularização do dispositivo de lei federal a que os acórdãos - recorrido e paradigma - tenham dado interpretação discrepante consubstancia deficiência bastante, com sede própria nas razões recursais, a inviabilizar o conhecimento do apelo especial, pela incidência do enunciado nº 284 da Súmula do Supremo Tribunal Federal.
+(..)
+4. Agravo regimental improvido."" (AgRg no REsp 1.127.998/DF, Rel. Ministro HAMILTON CARVALHIDO, Primeira Turma, julgado em 18/3/2010, DJe 7/4/2010)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial, mas negar-lhe provimento.
+Deixo de tratar dos honorários recursais (art. 85, § 11, do CPC/2015) porque o recurso especial é oriundo de acórdão proferido em julgamento de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
