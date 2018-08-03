@@ -1,0 +1,18 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por [NOME] contra a decisão de fls. 371/372, que não conheceu do recurso.
+Em suas razões, sustenta a parte Embargante, em síntese, que "consoante corrobora o comprovante de envio em anexo, na data de 13/09/2017, o Embargante encaminhou a petição de recurso especial por meio de fac-símile ao e. Tribunal de Justiça de Santa Catarina" (fl. 377).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte Embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+Despacho às fls. 385 encaminhando os autos à Coordenadoria de Recebimento, Controle e Indexação de Processos Recursais para verificação de eventual falha na digitalização, uma vez que ausente a petição de recurso especial via fac-símile alegada pelo Embargante às fls. 375/379.
+Certidão do Tribunal de origem às fls. 389 acerca da inexistência, nos autos físicos, de petição de recurso especial interposta via fac-símile.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Não se desconhece a possibilidade do uso do fac-símile, como modo de interposição do recurso, conforme faculta a Lei n.º 9.800/99. No entanto, da análise dos autos, não se verifica que houve a apresentação do referido recurso por esse meio, conforme noticia a parte. Inclusive há certidão do Tribunal a quo às fls. 389 na qual confirma a inexistência, nos autos físicos, da petição alegada; bem como a inexistência de falha na virtualização do processo.
+Nos termos do art. 4º da referida lei, "Quem fizer uso de sistema de transmissão torna-se responsável pela qualidade e fidelidade do material transmitido, e por sua entrega ao órgão judiciário."
+Assim, "Inexistente o recurso interposto via fac símile este não tem o condão de suspender o prazo para a apresentação da petição recursal original" (AgRg no Ag 1121897/RS, Rel. Ministro CELSO LIMONGI (DESEMBARGADOR CONVOCADO DO TJ/SP), SEXTA TURMA, julgado em 04/08/2009, DJe 24/08/2009.)
+Ademais, veja-se que "O juízo de admissibilidade do recurso especial é bifásico. A decisão proferida pelo Tribunal de origem não vincula o Superior Tribunal de Justiça na aferição dos pressupostos de admissibilidade do recurso especial. Isso porque compete a esta Corte, órgão destinatário do recurso especial, o juízo definitivo de admissibilidade" (AgInt no REsp 1684240/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/02/2018, DJe 28/02/2018.)
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp 1315507/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/08/2014, DJe 28/08/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, REJEITO os embargos de declaração e advirto a parte Embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2.º, do Código de Processo Civil).
+Publique-se. Intimem-se.
