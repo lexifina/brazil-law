@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo manejado por [NOME], que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 296):
+PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. BENEFÍCIO CONCEDIDO ANTES DA CONSTITUIÇÃO FEDERAL DE 1988.
+1. As provas colacionadas e produzidas nos autos são suficientes ao deslinde da questão.
+2. O benefício concedido anteriormente à Constituição Federal de 1988 se submeteu à observância de outros limitadores, com reposição integral da renda mensal inicial, motivo pelo qual, não se aplica a readequação aos tetos constitucionais das EC 20/98 e 41/03, conforme jurisprudência pacífica desta Corte Regional (TRF3, AC 0012760-80.2013.4.03.6183, Relator Desembargador Federal Sérgio Nascimento, 10a Turma e-DJF3 23/12/2015; AC 0002044-91.2013.4.03.6183, Relatora Desembargadora Federal Tania Marangoni, 8a Turma, C-DJF3 11/9/2015; AC 0012850-88.2013.4.03.6183, Relator Desembargador Federal Fausto de Sarictis, 7a Turma, e-DJF3 12/11/2015).
+3. Agravo retido e apelação desprovidos.
+Opostos embargos de declaração, foram rejeitados (fl. 313).
+Nas razões do apelo especial, aponta o recorrente violação aos arts. 1.022, II, 1039, caput, e 1.040, II, do CPC/2015, 14 da EC 20/98 e 5º da EC 41/2003. Sustenta, além de negativa de prestação jurisdicional, que "seja determinado que a C. Turma aplique a tese firmada no RE nº 564.354/SE, afastando o entendimento de que estão excluídos dos direitos decorrentes da referida tese os beneficios concedidos antes da vigência da CF/88 e calculados de acordo com a sistemática anterior à lei nº 8.213/91" (fl. 339).
+Sem contrarrazões.
+É o relatório.
+A irresignação não merece prosperar.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Quanto à tese de que seriam aplicáveis os tetos constitucionais ao caso concreto, a irresignação também não prospera, pois, muito embora haja, no apelo nobre, a alegação de ofensa a dispositivo infraconstitucional, verifica-se que o Tribunal de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, matéria insuscetível de ser examinada em recurso especial, conforme se nota do seguinte excerto (fls. 291/293):
+Após exaustiva discussão nos Tribunais Superiores pátrios, o Supremo Tribunal Federal fulminou a controvérsia acerca do limite legalmente imposto, decidindo por sua constitucionalidade.
+Nos anos de 1998 e 2003, o teto máximo de pagamento da Previdência foi alterado, respectivamente, pelas emendas Constitucionais nº 20/98 (Art. 14) e nº 41 /03 (Art. 5o).
+O Egrégio Supremo Tribunal Federal firmou entendimento no sentido de que a aplicação do novo valor teto aos benefícios já concedidos não viola o ato jurídico perfeito.
+(..).
+A divergência naquela e. Corte, manifestada no voto proferido pelo Exmo. Ministro Dias Toffoli, entendia que o cálculo do benefício é ato único, não passível de recálculo mensal para adequação aos novos tetos, de modo que a parte excedente ao salário-de-benefício não poderia ser reincorporada quando das modificações dos tetos, sob pena de violação ao ato jurídico perfeito.
+Os Ministros que acompanharam a Exma. Relatora assentaram posicionamento no sentido de que o redutor é elemento externo ao cálculo do benefício, pelo que, sempre que o teto máximo de pagamento de benefícios for modificado, fará jus o segurado ao novo teto, considerando-se o cálculo originário, ou seja, as contribuições corrigidas do PBC.
+Considerando que o benefício está sujeito, não apenas ao redutor quando do pagamento do benefício, mas também ao redutor quando da definição do SB (média dos salários-de-contribuição corrigidos), tem-se, pelo precedente do Excelso Pretório, que aqueles que tiveram o salário-de-benefício limitado pelo teto vigente na data da concessão do benefício são os destinatários do julgado em questão.
+Esclareça-se, ademais, que há casos em que o INSS fez incidir o valor máximo do salário-de-contribuição da Previdência Social sobre as contribuições que integraram o período básico de cálculo, razão pela qual os segurados enquadrados nesta situação, também devem ser contemplados por aquele julgado.
+Ressalte-se, portanto, que a questão não se traduz como aumento da renda na mesma proporção do reajuste do valor do teto dos salários de contribuição. Não se trata de reajuste do benefício, mas de readequação aos novos tetos, ou seja, absorção do valor resultante do redutor pelos novos tetos.
+Entretanto, no caso dos autos, o benefício do autor foi concedido em 30/9/1988 (fls. 17), anteriormente à Constituição Federal de 1988, que se submeteu à observância de outros limitadores, com reposição integral da renda mensal inicial, motivo pelo qual, não faz jus à readequação aos tetos constitucionais, conforme jurisprudência pacífica do TRF da 3a Região, abaixo transcrita:
+(..).
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
