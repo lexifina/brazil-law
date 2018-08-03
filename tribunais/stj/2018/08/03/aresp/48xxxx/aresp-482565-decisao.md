@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto pela FAZENDA DO ESTADO DE SÃO PAULO, pretendendo a admissão de recurso especial que desafia acórdão assim ementado (e-STJ fl. 262):
+Agravo de Instrumento - Execução fiscal - Decisão da Douta Magistrada de Primeiro Grau que, entre outras providências, determinou a expedição de ofício ao CADIN para que seja excluído do registro do cadastro da agravante, referente à presente ação - Agravo contra essa decisão - Desprovimento que se impõe - Presentes os requisitos autorizadores da tutela pleiteada - No caso concreto, a decisão atacada está devidamente fundamentada, foi prolatada no âmbito do livre convencimento da Digna Magistrada e não se afigura inconstitucional, ilegal, ou mesmo abusiva - Demais questões suscitadas no agravo que, sob o crivo do contraditório, poderão ser melhor apreciadas pelo Digno Juízo de Primeiro Grau - Decisão mantida - Agravo desprovido.
+No apelo nobre (e-STJ fls. 270/279), a recorrente aponta violação do art. 151 do CTN e sustenta que, consoante o que disciplina a lei local de regência (Lei estadual n. 12.799/2008), "é necessário, concomitantemente à garantia da execução por penhora, também o atendimento aos requisitos do artigo 151 do CTN, para exclusão de empresa devedora tributária do CADIN estadual".
+Contrarrazões foram apresentadas às e-STJ fls. 282/289.
+O Tribunal de origem obstou o recurso especial com base nas Súmulas 7 do STJ e 280 do STF (e-STJ fl. 291), não concordando a agravante com essa fundamentação (e-STJ fls. 294/297).
+Contraminuta foram apresentadas às e-STJ fls. 300/304.
+Passo a decidir.
+Inicialmente, destaco que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, sessão de 09/03/2016).
+Considerado isso, vejamos o que decidiu a Corte estadual:
+Embora, ao contrário do que ocorre no âmbito da União (Lei Federal nº 10.522/2002), a Lei Estadual nº 12.799/2008, em seu art. 8º, não inclua, entre as hipóteses de suspensão da inclusão do devedor no CADIN, a discussão judicial do débito com idônea garantia do Juízo, esta deve ser admitida, no caso, sob pena de causar excessivo prejuízo ao agravado antes de dirimida, definitivamente, a questão acerca da prescrição do crédito tributário ora cobrado.
+Do que se observa, o dispositivo de lei federal tido por violado (art. 151 do CTN) não foi efetivamente analisado pelo acórdão recorrido, carecendo o recurso especial do requisito do prequestionamento nos termos da Súmula 282 do STF.
+Não o bastante, constata-se que, em verdade, a pretensão recursal funda-se no direito local que regula o Cadin estadual, o qual é insuscetível de análise pela via do recurso, consoante inteligência da Súmula do 280 do STF.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial (art. 253, parágrafo único, II, "a", do RISTJ).
+Publique-se. Intimem-se.
