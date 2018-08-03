@@ -1,0 +1,70 @@
+EMENTA
+PENAL E PROCESSO PENAL. RECURSO ESPECIAL. CORRUPÇÃO ATIVA. DOSIMETRIA. AGRAVANTE GENÉRICA. ART. 61, II, B, DO CP. FINALIDADE: ASSEGURAR A EXECUÇÃO DE CONTRABANDO. INCIDÊNCIA. RECURSO PROVIDO.
+
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL, com fundamento na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal Regional Federal da 3ª Região, in verbis (fls. 879):
+PENAL. PROCESSO PENAL CONTRABANDO. CORRUPÇÃO ATIVA. ERRO DE PROIBIÇÃO. INOCORRÊNCIA. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO CABIMENTO. AUMENTO DA PENA-BASE DO DELITO DE CONTRABANDO. CONSEQUÊNCIAS DO DELITO. CABIMENTO. AFASTAMENTO DA CONFISSÃO. IMPOSSIBILIDADE. SÚMULA 545 DO STJ.
+1. Evidenciado o pleno conhecimento do caráter ilícito da conduta perpetrada pelo réu, não há que se falar que este incorreu em erro de proibição.
+2. O princípio da insignificância é inaplicável aos delitos de contrabando e corrupção ativa. Precedentes.
+3. O grande volume de cigarros apreendidos ofende de forma mais intensa o bem jurídico tutelado pelo tipo do contrabando, e enseja o aumento da pena-base em razão das consequências do delito.
+4. A circunstância atenuante da confissão deve ser aplicada quando embasar o decreto condenatório, a teor da Súmula 545 do STJ.
+5. Recurso da defesa desprovido e da acusação provido em parte.
+O recorrente alega violação ao artigo 61, II, b, do Código Penal. Para tanto afirma que "agrava-se a pena se o crime é cometido para facilitar ou assegurar: (i) a execução de outro crime; (ii) a ocultação de outro crime; (iii) a impunidade de outro crime; (iv) a vantagem de outro crime" (fl. 972).
+Salienta que "ainda que se considerasse que o valor tenha sido oferecido apenas para liberar a carga, há de se convir que: (i) estaria configurada a situação ensejadora da agravante em tela, à luz do texto legal, seja pela intenção de ocultar a materialidade, seja pelo objetivo de assegurar a vantagem do crime; e (ii) mesmo que a agravante estivesse necessariamente vinculada à autoria, sem a prova da materialidade do crime de contrabando, não haveria como comprovar a autoria ou condenar qualquer dos agentes pela prática do crime de contrabando. A liberação da mercadoria tornaria impossível a persecução criminal de qualquer infração, impossibilitando a punição dos réus, assegurando, desse modo, a sua impunidade" (fl. 973).
+Requer, ao final, o provimento do recurso.
+As contrarrazões foram apresentadas às fls. 978/990.
+O Tribunal de origem admitiu o recurso às fls. 1011/1013.
+O Ministério Público Federal manifestou-se às fls. 1030/1034, pelo provimento do recurso especial.
+É o relatório.
+A insurgência merece prosperar.
+Narra a inicial acusatória que (fls. 185/187):
+Vislumbra da análise dos autos que, em 02.10.2007, [NOME] [NOME] GONÇALVES, transportou, do Paraguai, irregularmente, 370 caixas de cigarros de variadas marcas, além de, ilegalmente, trazer consigo uma arma de fogo.
+Para o transporte da carga, este contou com o auxílio, atuando como "batedor de estrada", de [NOME] [NOME] [NOME] [NOME], preso após oferecer aos policiais R$ 20,000 para liberação da carga e do condutor do veículo.
+Na referida data o denunciado [NOME] [NOME] GONÇALVES foi preso por agentes da Policia Militar, na Rodovia MS 162, em Sidrolândia, transportando, na carroceria de um caminhão, 378 caixas (com 50 pacotes cada uma) de cigarros adquiridos no Paraguai de marcas variadas, e, na cabine, sem a regular autorização (f. 144) uma arma de fogo, tipo revólver, calibre "3.57", acabamento niquelado, marca Taurus, municiada com oito cartuchos intactos (fl. 2 e 3), além um rádio transmissor que era utilizado para contatar o "batedor de estrada". Este, posteriormente identificado como sendo [NOME] [NOME] [NOME] [NOME] (sobrinho de VERGILIANO), mas ainda não preso naquela ocasião, fazia a vanguarda ao caminhão com o fim de evitar eventuais barreiras policiais.
+Ato contínuo, após estacionarem o caminhão apreendido no pátio do quartel da Polícia Militar, os policiais [NOME] e [NOME], que participaram da operação, pelo rádio transmissor instalado nesse, receberam oferta de [NOME] [NOME] [NOME] [NOME], o "batedor de estrada", que propôs a estes o pagamento de R$ 20,000.00 pela liberação do caminhão e do condutor do veículo.
+No intuito de capturarem o denunciado [NOME] [NOME] [NOME] [NOME], os policiais militares combinaram, para o mesmo dia, local e hora para entrega do dinheiro.
+Conforme proposto pelo policiais, [NOME] [NOME] [NOME] [NOME] concordou em realizar a "entrega" do dinheiro às 14:30 horas em frente ao Centro de Tradição Gaúcha - CTG, em Sidrolândia. Chegado o momento, no interior de um veículo Fiat Fiorino, o denunciado exibiu aos policiais uma sacola com o proposto valor de R$20,000,00, como assim constatou-se posteriormente (fl. 44). Realizada a prisão do "batedor de estrada" e vistoriado o seu veículo, este confessou que o rádio de comunicação era utilizado para contatar o condutor do caminhão que transportava os cigarros, [NOME] [NOME] GONÇALVES (fl 06).
+[NOME] [NOME] [NOME] [NOME], disse, ainda, no interrogatório, que ofereceu R$20,000,00 aos policiais para evitar prejuízos maiores, já que a mercadoria havia custado, no Paraguai, R$ 57,000,00.
+Após a instrução criminal, o magistrado julgou procedente a ação penal e, em relação ao delito de corrupção ativa, condenou o réu à pena de 2 anos de reclusão.
+Ao analisar a incidência da agravante genérica contida no artigo 61, II, b, do Código Penal, o Tribunal de origem asseverou que (fl. 877):
+Não prospera o pedido da acusação de que seja aplicada a agravante disposta no art. 61, II, "b", do Código Penal, ao argumento de que o réu praticou corrupção ativa com o escopo de garantir a impunidade do crime de contrabando.
+A aludida agravante refere-se à hipótese de conexão consequencial, em que o agente realiza a segunda infração com intuito de ocultar a autoria da primeira. No caso em apreço, o escopo do réu [NOME], ao praticar corrupção ativa, foi a liberação da mercadoria, o que afasta a incidência da agravante em questão.
+É incontroverso nos autos que [NOME] foi preso por agentes da Policia Militar, transportando, na carroceria de um caminhão, 378 caixas (com 50 pacotes cada uma) de cigarros adquiridos no Paraguai de marcas variadas. Em seguida, o réu [NOME] ofereceu aos policiais o pagamento de R$ 20.000,00 pela liberação do caminhão e do condutor do veículo.
+Quanto ao delito de corrupção ativa, o Código Penal estabelece que:
+Art. 333 - Oferecer ou prometer vantagem indevida a funcionário público, para determiná-lo a praticar, omitir ou retardar ato de ofício
+Assim, para a configuração do crime de corrupção ativa, basta que o agente realize a conduta de oferecer ou prometer vantagem indevida a um funcionário público, com o intuito de fazê-lo praticar, omitir ou retardar ato de ofício.
+Diversas razões podem levar a prática do crime de corrupção ativa, não sendo exigida nenhuma finalidade espúria para o reconhecimento dessa prática delitiva.
+O Ministério Público reclama a incidência da agravante genérica contida no artigo 61, II, b, do Código Penal, que disciplina:
+Art. 61 - São circunstâncias que sempre agravam a pena, quando não constituem ou qualificam o crime:
+II - ter o agente cometido o crime:
+b) para facilitar ou assegurar a execução, a ocultação, a impunidade ou vantagem de outro crime;
+A referida agravante genérica majora a pena diante da conduta de um agente que insiste na prática delitiva para assegurar a execução, a ocultação, a impunidade ou a vantagem de outro crime, configurando, portanto, uma finalidade espúria para o delito. Exige-se uma conexão entre os dois delitos, que poderá ser teleológica (meio/fim) ou consequencial (causa/efeito).
+Sobre o tema, assim leciona Paulo César Busato:
+Essa é, sem dúvida, uma modalidade de torpeza, pois se trata de um agente que, após cometer um crime, não reluta em cometer outro, para melhor possibilitar a vantagem, a impunidade, a ocultação e, até mesmo, a conclusão do outro crime. Resta clara a maior reprovabilidade do móvel de sua conduta.
+(BUSATO, Paulo Cesar, DIREITO PENAL - PARTE GERAL  2. ed.  São Paulo: Atlas, 2015, pg. 893)
+No caso concreto, o delito foi praticado com uma motivação especial, qual seja, encobrir o crime de contrabando praticado anteriormente, garantindo a vantagem obtida com o ingresso ilegal da mercadoria. Há, portanto, uma conexão teleológica, ou seja, uma vez que o crime de contrabando foi descoberto, praticou-se a corrupção ativa para assegurar a prática do contrabando, e assim conseguir a impunidade do delito, além de usufruir de suas vantagens.
+Dessa forma, deverá incidir, no caso concreto, a agravante prevista no artigo 61, II, b, do CP.
+A propósito, mutatis mutandis, confiram-se os seguintes precedentes:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CORRUPÇÃO ATIVA. PENA-BASE ACIMA DO MÍNIMO LEGAL. CRIME PRATICADO PARA ASSEGURAR A EXECUÇÃO E A IMPUNIDADE DE OUTRO DELITO. FUNDAMENTAÇÃO IDÔNEA.
+1. Para a consumação do crime de corrupção ativa, exige-se apenas que a conduta de oferecer ou prometer vantagem indevida seja dirigida a um funcionário público, com a finalidade de determiná-lo a praticar, omitir ou retardar ato de ofício.
+2. No caso dos autos, o agravante, juntamente com outros corréus, parou espontaneamente numa fiscalização de rotina da polícia rodoviária federal e, afirmando que uma carreta e um caminhão se aproximavam da barreira policial, ofereceu a quantia de R$1.000,00 (mil reais) para que os policiais liberassem os referidos veículos de transporte sem realizar a fiscalização (e-STJ fl. 490).
+3. A circunstância de o crime de corrupção ativa ter sido praticado para assegurar a execução e a impunidade do delito de contrabando de cigarros configura fundamento concreto válido para a elevação da pena-base, uma vez que desborda dos elementos integrantes do tipo. Precedente.
+4. Agravo regimental desprovido.
+(AgRg no REsp 1561446/PR, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 26/09/2017, DJe 09/10/2017)
+HABEAS CORPUS. SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. CORRUPÇÃO ATIVA. DOSIMETRIA DA PENA. CULPABILIDADE EXACERBADA. AUMENTO IDÔNEO. MAUS ANTECEDENTES CRIMINAIS COM BASE EM AÇÕES EM ANDAMENTO. OFENSA À SÚMULA 444/STJ. CIRCUNSTÂNCIA JUDICIAL DA PERSONALIDADE DO RÉU. CONSIDERAÇÃO DE AUSÊNCIA DE ARREPENDIMENTO. IMPOSSIBILIDADE. SUBSTITUIÇÃO DE PENAS. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+1. O Supremo Tribunal Federal e o Superior Tribunal de Justiça, em recentes decisões, não admitem mais a utilização do habeas corpus como sucedâneo do meio processual adequado, seja o recurso próprio ou a revisão criminal, salvo em situações excepcionais.
+2. O Superior Tribunal de Justiça possui entendimento no sentido da impossibilidade de mensurar matematicamente o aumento da pena-base, de forma a se atribuir igual acréscimo de pena para cada circunstância judicial considerada negativa, pois a lei confere ao julgador certo grau de discricionariedade na análise das circunstâncias judiciais, de modo que o que deve ser avaliado é se a fundamentação exposta é proporcional e autoriza a fixação da pena-base no patamar escolhido.
+3. Há motivação idônea na sentença para o aumento da pena-base, decorrente da culpabilidade exacerbada, pois a paciente praticou o crime de corrupção ativa com a finalidade encobrir outros delitos. Várias razões podem levar uma pessoa a praticar o crime de corrupção ativa, sendo mais reprovável a conduta de quem o faz para se livrar de crimes pelos quais está sendo investigado.
+4. As instâncias ordinárias consideraram ações penais em andamento para valorar negativamente a circunstância judicial dos antecedentes criminais, em dissonância ao disposto na Súmula 444/STJ.
+5. Dentre os fundamentos que explicam a reprovabilidade do fato em âmbito penal, já se encontra incluída a ausência de arrependimento pelo cometimento do crime, pois é o que ordinariamente acontece.
+Assim, o simples fato de a paciente não se mostrar arrependida não conduz à mensuração negativa de sua personalidade.
+6. Afastado o fundamento que determinou a negativa de substituição de penas (presença de antecedentes criminais), deve ser deferido à paciente tal benefício.
+7. Writ não conhecido. Ordem de habeas corpus concedida de ofício, para reduzir a reprimenda-base da paciente, resultando a pena definitiva em 2 anos e 8 meses de reclusão, mais 14 dias-multa, à razão mínima, sendo substituída a pena corporal por duas restritivas de direitos, a serem escolhidas pelo Juízo da Vara de Execuções Penais.
+(HC 280.294/PE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/02/2015, DJe 28/04/2015)
+Necessário refazer a dosimetria da pena para o delito de corrupção ativa.
+Na primeira fase, mantenho a pena-base no mínimo legal, qual seja, 2 anos de reclusão. Na segunda etapa, mantenho a compensação da atenuante da confissão espontânea com a agravante da reincidência. No entanto, reconheço a incidência da agravante genérica prevista no artigo 61, II, b, do CP, majorando a pena em 1/6. Não havendo causas de aumento ou diminuição de pena a serem considerada, torno a pena definitiva em 2 anos e 4 meses de reclusão, mantido, no mais, o acórdão impugnado.
+Assim, estando o acórdão recorrido em confronto com a jurisprudência há muito consolidada desta Corte Superior de Justiça acerca do tema, de rigor o provimento do recurso especial, nos termos da Súmula 568 deste Sodalício, que assim dispõe:
+Súmula 568. O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Ante o exposto, com fundamento no artigo 932, V, "a", do Código de Processo Civil em vigor (Lei nº 13.105/2015), dou provimento ao recurso especial para, reconhecendo a incidência da agravante prevista no artigo 61, II, b, do Código Penal, fixar a pena do réu no delito de corrupção ativa em 2 anos e 4 meses de reclusão, mantido, no mais, o acórdão impugnado.
+Publique-se.
+Intimem-se.
