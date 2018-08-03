@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interno interposto pela FAZENDA DO ESTADO DE SÃO PAULO contra decisão exarada pela Presidência do STJ, às e-STJ fls. 338/339, que não conheceu do recurso, com base no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, por intempestividade.
+A parte agravante aponta que o recurso é tempestivo em razão da suspensão dos prazos processuais durante o período de 20 de dezembro de 2014 a 18 de janeiro de 2015, consoante previsto nos Provimentos ns. 1948/2012 e 2216/2014 do Conselho Superior da Magistratura.
+Passo a decidir.
+ Da análise dos autos, verifica-se que assiste razão à agravante.
+A Corte Especial, em 19/02/2012, no julgamento do AgRg no AREsp 137.141/SE, firmou orientação segundo a qual "a comprovação da tempestividade do recurso especial, em decorrência de feriado local ou de suspensão de expediente forense no Tribunal de origem que implique prorrogação do termo final para sua interposição, pode ocorrer posteriormente, em sede de agravo regimental". In casu, em razão do recesso forense, comprovado às e-STJ fls. 345/361, exsurge certo que o apelo extremo foi interposto dentro do prazo recursal.
+Assim, reconsiderando a decisão de e-STJ fls. 338/339, passo à nova análise do agravo em recurso especial.
+Cuida-se de agravo interposto pela FAZENDA DO ESTADO DE SÃO PAULO contra decisão do Tribunal de Justiça local, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 312):
+AÇÃO DE RESSARCIMENTO - Programa Bolsa Mestrado  Pedido de exoneração do bolsista-réu - Descumprimento do prazo de dois anos de permanência pós-obtenção do titulo acadêmico - Art. 2o, § 2o, do Decreto 48.298/2003 - Ressarcimento ao erário - Medida de rigor - Consectários  Juros de Mora - R. sentença que estabeleceu a incidência de juros de mora em doze por cento ao ano, nos termos do art. 406 do Código Civil c/c art. 161, § Io, do Código Tributário Nacional, desde a citação - Marco inicial - Manutenção do julgado - Medida de rigor - Data da notificação extrajudicial do réu - Inaplicabilidade in casu do art. 397, parágrafo único, do Código Civil - Dívida que não pode ser considerada líquida e positiva - Inteligência do art. 219 do CPC c/c 405 do Código Civil a revelar a correção do estabelecimento da citação como marco inicial do cômputo de juros moratórios - Precedentes em caso análogo - R. sentença mantida. Recurso improvido.
+No especial obstaculizado, a parte recorrente apontou violação do art. 397 do Código Civil. Aduziu, em síntese, que a fluência dos juros moratórios na hipótese de dívidas liquidas e certas deve ocorrer a partir da notificação extrajudicial e não a partir da citação da ação de cobrança.
+Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ fl. 327).
+No presente agravo, a parte recorrente ataca os fundamentos da decisão agravada.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+A irresignação recursal não comporta acolhida.
+Quanto à violação ao art. 397 do Código Civil, o acórdão recorrido consignou expressamente que não havia se falar em dívida líquida, conforme se depreende do trecho transcrito (e-STJ fl. 315):
+Deveras, o descumprimento da obrigação imposta pelo art. 2º, § 2º, do Decreto 48.298/2003 - permanecer no magistério público estadual por, pelo menos, 02 (dois) anos, após a obtenção do título de Mestre ou Doutor - somente foi divisado com segurança após o exaurimento da cognição judicial.
+Além disso, cabe acrescentar que o Réu contestou a ação, sobretudo o seu dever de ressarcir integralmente ao Erário os valores cobrados, porquanto reputados excessivos (fls. 110/122).
+Portanto, não havia falar-se em obrigação líquida.
+Sendo assim, o marco inicial para cômputo dos juros é de fato a citação. (Grifos nossos)
+ Dessa forma, alterar a conclusão a que chegou a Corte de origem enseja o inevitável revolvimento de aspectos fático-probatórios, vedado nos termos da Súmula 7 do STJ.
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 338/339 e, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado Administrativo n. 7 do STJ.
+ Publique-se. Intimem-se.
