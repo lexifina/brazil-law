@@ -1,0 +1,34 @@
+EMENTA
+RECURSO ESPECIAL. PENAL E PROCESSO PENAL. CRIME AMBIENTAL. COMERCIALIZAÇÃO DE 145 QUILOS DE PEIXES. ESPÉCIE COM RISCO DE EXTINÇÃO. EXPRESSIVIDADE DA LESÃO JURÍDICA PROVOCADA. ATIPICIDADE MATERIAL DA CONDUTA AFASTADA. RECURSO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público Federal, com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região assim ementado:
+PENAL. CRIME AMBIENTAL. ABSOLVIÇÃO SUMÁRIA. APELAÇÃO. DESPROVIMENTO.
+I - Apelação interposta à Sentença proferida nos autos de Ação Criminal, que absolveu os Réus, sumariamente, da imputação do Crime previsto no artigo 34, parágrafo único, III, da Lei n. 9.605/1998, com base no artigo 397, III, do Código de Processo Penal, em razão da Atipicidade da Conduta.
+II - Embora se trate de imputação alusiva à proibição de comercialização de espécie de peixe considerada em risco de extinção (agulhão branco), a quantidade apreendida do pescado implica dano ambiental inexpressivo, a ensejar a aplicação do Princípio da Insignificância. Precedente do Tribunal Regional Federal da 5ª Região.
+III - Desprovimento da Apelação.
+Alega o recorrente negativa de vigência aos arts. 34 da Lei nº 9.605/98. Para tanto, afirma que "não há como deixar de reconhecer o equívoco do magistrado de primeiro grau, bem assim do tribunal a quo ao aplicarem, in casu, o princípio da insignificância ao delito de comercialização de espécie de peixe classificada como em risco de extinção, como acima consignado, sendo o caso de reconhecer a inaplicabilidade dessa solução ao delito em ótica, por ser crime formal e de perigo abstrato" (fl. 298).
+Requer, ao final, o provimento do recurso especial.
+Apresentadas as contrarrazões e admitido o recurso, manifestou-se o Parquet pelo seu provimento.
+É o relatório.
+Predomina nesta Corte entendimento no sentido da possibilidade de aplicação do princípio da insignificância aos crimes ambientais, devendo ser analisadas as circunstâncias específicas do caso concreto para se verificar a atipicidade da conduta em exame.
+Na hipótese em análise, tem-se que os recorridos foram denunciados pela comercialização de 145 quilos de agulhão branco (tetraptúrus albidus), espécie com risco de extinção.
+Na linha do entendimento deste Superior Tribunal de Justiça, não há falar em inexpressividade da lesão jurídica provocada a justificar o reconhecimento do caráter bagatelar da conduta, considerando a grande quantidade de peixes apreendidos (145 quilos), além de ser uma espécime em risco de extinção.
+A esse respeito, confiram-se os seguintes precedentes deste Sodalício:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PESCA EM ÉPOCA E COM PETRECHOS PROIBIDOS. APREENSÃO DE 12 CAMARÕES. PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+1. Não é insignificante a conduta de pescar em época proibida, e com petrechos proibidos para pesca (tarrafa, além de varas de pescar), ainda que pequena a quantidade de peixes apreendidos." (REsp 1.685.927/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 12/9/2017, DJe 27/10/2017).
+2. Agravo regimental desprovido.
+(AgRg no REsp 1455086/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 24/05/2018, DJe 30/05/2018)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME AMBIENTAL. ART. 34 DA LEI N. 9.605/1998. CRIME FORMAL. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. ATIPICIDADE DE CONDUTA. INOCORRÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A criação das Unidades de Conservação Federal de Uso Sustentável tem por escopo compatibilizar a preservação de seus recursos naturais com o seu uso pela comunidade, ou seja, regrar o exercício de atividades que constituam fontes alternativas de renda, de maneira que sejam trabalhadas dentro de preceitos sustentáveis e que envolvam a gestão participativa dessas populações, mas de forma a preservar o meio-ambiente ali existente.
+2. Inviável, pois, a absolvição sumária, para, por aplicação do princípio da insignificância, reconhecer a atipicidade material da conduta prevista no art. 34 da Lei n. 9.605/1988 daquele que, agindo em desacordo com as exigências legais ou regulamentares, é flagrado pescando em local proibido pela legislação vigente. Trata-se de crime formal, de perigo abstrato, a prescindir, portanto, de qualquer resultado danoso para sua configuração, decorrendo a tipificação penal meramente da potencialidade de risco à reprodução das espécies da fauna local.
+3. De mais a mais, "para se aferir a plausibilidade jurídica das teses de absolvição e desclassificação, seria necessária uma cognição mais aprofundada do suporte probatório que lastreou a acusação, providência que não se coaduna com a estreita cognição inerente ao habeas corpus." (HC n. 267.502/RJ, Rel. Ministro Sebastião Reis Júnior, 6ª T, DJe 12/9/2013) 4. Agravo regimental não provido.
+(AgRg no RHC 55.689/RO, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 21/09/2017, DJe 02/10/2017)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL E PROCESSO PENAL. CRIME AMBIENTAL. PESCA DE 25 QUILOS DE PEIXES EM RESERVA INDÍGENA COM A FINALIDADE DE COMÉRCIO. EXPRESSIVIDADE DA LESÃO JURÍDICA PROVOCADA. ATIPICIDADE MATERIAL DA CONDUTA AFASTADA. REEXAME DE PROVAS. DESNECESSIDADE. RECURSO A QUE SE NEGA PROVIMENTO.
+1. Não tem incidência o óbice contido no verbete sumular nº 7 desta Corte quando o provimento do recurso se dá a partir dos fatos incontroversos estabelecidos pelas instâncias de origem.
+2. Na linha do entendimento deste Superior Tribunal de Justiça, não há falar em inexpressividade da lesão jurídica provocada a justificar o reconhecimento do caráter bagatelar da conduta, se se levar em conta a grande quantidade de peixes apreendidos (25 quilos), o local em que praticada (Reserva Indígena Kalafate - área de proteção da União, conforme art. 231 da CF), bem como a confissão do acusado de que tinha pleno conhecimento de que desenvolvia a atividade dentro da reserva indígena em troca de proveito econômico resultante da comercialização do pescado. 3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1675013/RO, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 05/09/2017, DJe 18/09/2017)
+Dessa forma, estando o acórdão recorrido em confronto com a jurisprudência dominante desta Corte Superior de Justiça acerca do tema, de rigor o provimento do recurso especial, nos termos da Súmula 568 deste Sodalício, que assim dispõe:
+Súmula 568. O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Ante o exposto, com fundamento no artigo 932, inciso V, alínea "a", do Código de Processo Civil em vigor (Lei nº 13.105/2015) c/c artigo 3º do Código de Processo Penal, dou provimento ao recurso especial para, afastando a incidência do princípio da insignificância, determinar o prosseguimento do feito.
+Publique-se.
+Intimem-se.
