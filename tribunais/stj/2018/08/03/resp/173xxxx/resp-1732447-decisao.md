@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial, interposto por BV FINANCEIRA SA CRÉDITO FINANCIAMENTO E INVESTIMENTO, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 24, e-STJ):
+AGRAVO DE INSTRUMENTO. RELAÇÃO DE CONSUMO. DECISÃO EM FASE DE CUMPRIMENTO DE SENTENÇA QUE REJEITOU OS EMBARGOS DE DECLARAÇÃO OPOSTOS PELO EXECUTADO, ORA AGRAVANTE. IRRESIGNAÇÃO DO EXECUTADO.
+APLICAÇÃO DO NOVO CÓDIGO DE PROCESSO CIVIL. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. DECISÃO QUE NÃO É PASSÍVEL DE AGRAVO POR SE ENCONTRAR FORA DO ROL TAXATIVO DO ARTIGO 1.015 DO CPC/2015. AGRAVO DE INSTRUMENTO QUE SE MOSTRA MANIFESTAMENTE INADMISSÍVEL. PRECEDENTES DESTE E. TRIBUNAL DE JUSTIÇA. RECURSO NÃO CONHECIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a recorrente aponta violação ao art. 1.015, parágrafo único, do NCPC, sustentando, em suma, o cabimento do recurso de Agravo de Instrumento contra decisão interlocutória de 1º grau de jurisdição em sede de cumprimento de sentença.
+Contrarrazões apresentadas às fls. 71/76 (e-STJ) e, após decisão de admissão do recurso especial (fls. 61/62, e-STJ), os autos ascenderam a esta egrégia Corte Superior de Justiça.
+É o relatório.
+Decido.
+1. O presente recurso especial versa, dentre outras matérias, sobre tema afetado à Segunda Seção desta Corte, nos autos dos Recursos Especiais representativos da controvérsia n.os 1.696.396/MT e 1.74.520/MT, para julgamento segundo o rito previsto nos arts. 1.036 a 1.041 do CPC/2015, a fim de definir sobre a "natureza do rol do art. 1015 do CPC/2015 e verificar possibilidade de sua interpretação extensiva, para se admitir a interposição de agravo de instrumento contra decisão interlocutória que verse sobre hipóteses não expressamente versadas nos incisos do referido dispositivo do Novo CPC" (Tema n.º 988/STJ).
+Logo, nos termos do art. 256-L do RISTJ, o recurso especial distribuído nesta Corte Superior que tenha como fundamento idêntica questão de direito afetada será devolvido ao Tribunal de origem, para nele permanecer suspenso. Assim, por razões de economia processual e em atenção aos objetivos das regras que disciplinam a matéria, faz-se necessário remeter os autos à origem, até o pronunciamento definitivo do Superior Tribunal de Justiça sobre os recursos especiais representativos da controvérsia.
+2. Ante o exposto, determino a devolução dos autos à origem para que o presente recurso especial permaneça suspenso até o pronunciamento definitivo do STJ sobre o tema 988, nos termos do artigo 1.037, inciso II, do CPC/2015 e, após, observe-se a sistemática prevista nos artigos 1.040 e 1.041 do CPC/2015.
+Publique-se. Intimem-se.
