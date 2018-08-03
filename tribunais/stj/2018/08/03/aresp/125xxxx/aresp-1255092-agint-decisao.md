@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interno interposto por [NOME] contra a decisão da Presidência do Superior Tribunal de Justiça (fls. 375-376 e-STJ) que não conheceu do agravo, porquanto intempestivo.
+Em suas razões (fls. 380-395 e-STJ), o agravante sustenta a tempestividade do recurso em razão de suspensão de expediente forense no tribunal de origem, devidamente comprovada no ato de interposição do recurso.
+É o relatório.
+DECIDO.
+Assiste razão ao recorrente.
+Isso porque, o § 6º do art. 1.003 do CPC/2015 dispõe que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso". A partir da redação do referido dispositivo legal, conclui-se que eventual documento idôneo apto a comprovar a ocorrência de feriado local ou a suspensão de expediente forense deve ser colacionado aos autos no momento de sua interposição, para fins de aferição da tempestividade do recurso, o que ocorreu na presente hipótese (fl. 345 e-STJ).
+Desse modo, em razão de o recorrente haver demonstrado a tempestividade recursal, reconsidero a decisão de fls. 375-376 (e-STJ) e passo a julgar o recurso.
+O apelo nobre, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA. FASE DE CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO À PENHORA. INCIDÊNCIA DOS HONORÁRIOS APENAS SOBRE O VALOR DA CONDENAÇÃO EM DANOS MORAIS. OBSERVÂNCIA DOS CRITÉRIOS DEFINIDOS NO TÍTULO EXECUTIVO JUDICIAL.
+I. No caso concreto, não há falar em preclusão, pois, o despacho que aplica as sanções do art. 523, § 1º, do CPC (multa de 10% e honorários), não implica na homologação do cálculo apresentado pelo exequente. Ademais, o prazo para a apresentação de impugnação pelo executado se inicia após o transcurso do prazo previsto no aludido art. 523, do CPC, na forma do art. 525, deste diploma legal, o que somente ocorreu em 01.11.2016.
+II. De outro lado, a forma de cálculo do débito deve seguir exatamente os critérios definidos no título executivo judicial, sob pena de afronta à coisa julgada. E, no caso concreto, a decisão do egrégio STJ arbitrou a verba honorária em 15% apenas sobre a condenação por danos morais, razão pela qual deve ser mantida a decisão que acolheu a impugnação.
+AGRAVO DESPROVIDO" (fl. 236 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 263-268 e-STJ).
+No especial, além da divergência jurisprudencial, o recorrente alega violação aos arts. 535, 458, 128, 20, § 3º, do Código de Processo Civil de 1973 e 489, 505, 507, 85, §§ 1º e 2º, do Novo Código de Processo Civil. Sustentam, em síntese, negativa de prestação jurisdicional, e, no mérito, a preclusão da matéria relativa à base de cálculo da verba honorária e que a sucumbência deve incidir sobre o valor total da condenação.
+Contudo, a irresignação não merece prosperar.
+Primeiramente, impõe-se reconhecer que agiu corretamente o Tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição ou obscuridade no aresto embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+Acrescente-se que a jurisprudência desta Corte há muito se encontra pacificada no sentido de que "se os fundamentos do acórdão não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (AgRg no Ag 56.745/SP, Rel. Ministro Cesar Asfor Rocha, Primeira Turma, julgado em 16/11/1994, DJ 12/12/1994).
+Quanto à ventilada preclusão e sobre a base de incidência dos honorários sucumbenciais, no acórdão recorrido restou consignado o seguinte:
+"(..)
+Pois bem. Primeiramente, não há falar em preclusão, pois, conforme constou na própria decisão agravada, o despacho que aplica as sanções do art. 523, § 1º, do CPC (multa de 10% e honorários), não implica na homologação do cálculo apresentado pelo exequente.
+Aliás, o prazo para a apresentação de impugnação pelo executado se inicia após o transcurso do prazo previsto no aludido art. 523 do CPC, na forma do art. 525 deste diploma legal, o que somente ocorreu em 01.11.2016 (fl. 163).
+De outro lado, a forma de cálculo do débito deve seguir exatamente os critérios definidos no título executivo judicial, sob pena de afronta à coisa julgada. E, no caso concreto, verifico a decisão do egrégio STJ arbitrou a verba honorária em 15% apenas sobre a condenação por danos morais (fls. 99/102).
+Nestas circunstâncias, deve ser mantida a decisão que acolheu a impugnação, reconhecendo que o crédito remanescente é de R$ 20.038,65, em 01.12.2012, até porque não houve impugnação específica neste agravo em relação a este valor" (fls. 240-241 e-STJ).
+Da leitura atenta das razões recursais extrai-se a deficiência na fundamentação, pois o recorrente não rebate concretamente os fundamentos do acórdão recorrido. Ao contrário, colaciona série de precedentes genéricos que tratam de preclusão e da base de incidência da sucumbência, e que não guardam semelhança com o caso dos autos, o que configura a deficiência na fundamentação a atrair a incidência das Súmulas nºs 283 e 284/STF.
+De fato, "a interposição do recurso especial à moda de apelação, deixando a parte recorrente de efetivamente demonstrar no que consistiu a violação da lei federal e de infirmar especificamente os fundamentos do acórdão, limitando-se a reiterar as razões dos recursos anteriores, atrai a incidência das Súmulas nºs 283 e 284 do Supremo Tribunal Federal" (AgRg no AgRg no AREsp 171.093/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/8/2013, DJe 26/8/2013 - grifou-se).
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Publique-se.
+Intimem-se.
