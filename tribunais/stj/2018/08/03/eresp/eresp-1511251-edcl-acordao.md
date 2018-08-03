@@ -1,0 +1,66 @@
+EMENTA
+EMBARGOS DECLARATÓRIOS. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. ARTIGO 1.022 DO CPC/2015. ERRO MATERIAL. CORREÇÃO. INEXISTÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. ACLARATÓRIOS PARCIALMENTE ACOLHIDOS, SEM EFEITO MODIFICATIVO.
+1. Nos limites estabelecidos pelo artigo 1.022 do CPC/2015, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material eventualmente existentes no acórdão impugnado, não se prestando, via de regra, para o reexame da controvérsia. Precedentes da Corte Especial.
+2. Correção de erro material no voto embargado, o qual se referiu ao artigo 266, § 3º, do Regimento Interno, quando deveria ter se reportado ao artigo 266-C do RISTJ, incluído pela Emenda Regimental n. 22/2016.
+3. Demais argumentos suscitados nas razões dos declaratórios que não merecem acolhida, pela inexistência de qualquer um dos vícios que permitam o manejo da presente insurgência, evidenciando-se o seu descabimento, pois objetivam as partes embargantes, na verdade, nova análise da controvérsia pelo Colegiado Maior deste Superior Tribunal de Justiça.
+4. Embargos declaratórios parcialmente acolhidos, sem efeito modificativo, apenas para a correção do erro material acima apontado.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Corte Especial do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, acolher parcialmente os embargos de declaração, sem efeito modificativo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Sérgio Kukina, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Herman Benjamin e Napoleão Nunes Maia Filho votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Felix Fischer, Francisco Falcão e Raul Araújo.
+Convocado o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+O EXMO. SR. MINISTRO JORGE MUSSI: [NOME] DEUSA PEREIRA DE [NOME] opõem embargos declaratórios em face do seguinte acórdão da Corte Especial:
+PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ADVOGADO SEM PROCURAÇÃO NOS AUTOS. ENUNCIADO ADMINISTRATIVO N. 2/STJ. APLICAÇÃO DA JURISPRUDÊNCIA RELATIVA AO CPC/1973. INCIDÊNCIA DA SÚMULA N. 168/STJ. INOCORRÊNCIA DE LITIGÂNCIA DE MÁ-FÉ. RECURSO IMPROVIDO.
+1. Incide no presente recurso o Enunciado Administrativo n. 2 do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17/03/2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+2. No caso dos autos, o acórdão embargado  proferido pela Terceira Turma deste Sodalício na vigência do Código de Processo Civil de 1973  negou provimento a agravo regimental ante a incidência da Súmula 115/STJ, sob o fundamento de que não ultrapassa a admissibilidade o recurso interposto por advogado sem procuração nos autos, conforme o entendimento remansoso deste Tribunal Superior e das respectivas turmas que o compõem.
+3. Embargos de divergência interpostos contra acórdão que adotou posicionamento sintonizado com a jurisprudência pacífica desta Corte podem ser liminarmente indeferidos, nos termos da Súmula n. 168/STJ.
+4. Inaplicabilidade da multa por litigância de má-fé, porque o agravo interno, embora de forma singela, impugnou especificamente os fundamentos da decisão agravada, descabendo a incidência automática do referido dispositivo legal quando exercitado o regular direito de recorrer. Precedentes das Turmas deste Superior Tribunal de Justiça.
+5. Agravo interno ao qual se nega provimento.
+Alegam os embargantes, em síntese, a ocorrência dos seguintes vícios no aresto acima transcrito:
+(a) contradição, pois existe divergência concreta entre o acórdão objeto dos embargos de divergência, oriundo da Terceira Turma, e o Recurso Especial n. 507.536/DF, no qual não foram aplicadas as Súmulas n. 115/STJ e n. 168/STJ;
+(b) obscuridade e erro material, porque utilizado na decisão singular dessa relatoria o artigo 266-C do Regimento Interno do Superior Tribunal de Justiça, incluído pela Emenda Regimental n. 22/2016, para se negar provimento aos embargos de divergência, e no voto ora embargado há referência ao § 3º do artigo 266 do RISTJ, o qual, na verdade, autoriza a admissão do referido recurso uniformizador;
+(c) obscuridade, pois deve ser aplicado ao feito o CPC/2015, conforme previsão expressa do artigo 1.046 do referido diploma legal, determinando sua incidência aos processos pendentes;
+(d) omissão, por não constar do acórdão embargado a necessidade do envio dos autos à Segunda Seção, conforme se depreende na decisão singular de fls. 416/420; e
+(e) omissão, quanto à matéria do acórdão objeto dos embargos de divergência, conforme retratado no decisum monocrático referido no item acima, nas razões do agravo interno (fls. 432/462), devendo ser declarada a nulidade de todos os atos e acórdãos do conflito de competência julgado no Tribunal de Justiça do Estado do Tocantins, pela existência de repercussão geral sobre o tema central da controvérsia.
+A parte embargada apresentou impugnação (fls. 522/531), defendendo o não conhecimento dos declaratórios e, por eventualidade, o improvimento deste recurso, pela ausência dos vícios apontados, pleiteando, ainda, a aplicação de multa por litigância de má-fé, diante do nítido caráter protelatório da presente insurgência, e a determinação da certificação do trânsito em julgado e baixa dos autos, conforme precedentes da Corte Especial.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JORGE MUSSI (Relator): Nos limites estabelecidos pelo artigo 1.022 do CPC/2015, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado combatido, bem como a corrigir erro material.
+Neste sentido, os seguintes arestos da Corte Especial:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. AGRAVO INTERNO JULGADO IMPROCEDENTE POR UNANIMIDADE. MULTA DO ART. 1.021, § 4º, DO CPC. CABIMENTO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos declaratórios são cabíveis nas hipóteses de haver omissão, contradição, obscuridade ou erro material na decisão embargada.
+2. No caso dos autos, há omissão no julgado. Isso porque o acórdão negou provimento ao agravo interno por unanimidade, sem contudo se manifestar quanto à incidência da multa do art. 1.021 do Código de Processo Civil.
+3. O art. 1.021, § 4º, do CPC estabelece que é cabível a aplicação de multa ao agravante quando o recurso for declarado manifestamente inadmissível ou improcedente em votação unânime, que dever ser fixada esta entre um e cinco por cento do valor atualizado da causa.
+Embargos de declaração acolhidos com efeitos infringentes.
+(EDcl no AgInt no RE nos EDcl no AgInt no AREsp 475.819/SP, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 07/03/2018, DJe 23/03/2018)
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 03/STJ. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE VÍCIOS NO JULGADO. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. IMPOSSIBILIDADE.
+1. Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura ou contraditória. Não são destinados à adequação do decisum ao entendimento da parte embargante, nem ao acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, à rediscussão de questão já resolvida. Precedentes.
+2. A análise das razões recursais revela a pretensão da parte em alterar o resultado do julgado, o que é inviável nesta seara recursal.
+3. Tendo em vista que tanto o acórdão proferido no agravo interno quanto os acórdãos proferidos nos embargos de declaração anteriores já haviam se manifestado de forma clara e fundamentada sobre as questões acerca das quais a embargante alega omissão, é de se reconhecer o manifesto propósito protelatório dos presentes aclaratórios a atrair a incidência da multa prevista no art. 1.026, § 2º do CPC/2015, fixada, na hipótese, em 1% sobre o valor atualizado da causa.
+4. Embargos de declaração rejeitados, com imposição de multa.
+(EDcl nos EDcl nos EDcl no AgInt nos EDcl nos EREsp 1491187/SC, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 07/03/2018, DJe 23/03/2018)
+No caso dos autos, de todas as extensas alegações recursais, apenas assiste razão aos embargantes o argumento sobre a existência de pequeno erro material no voto ora embargado, onde se foi feita a seguinte referência ao artigo 266, § 3º, do RISTJ. Confira-se (fl. 482):
+Ultrapassado este ponto, destaca-se que a incidência do § 3º do artigo 266 do Regimento Interno do Superior Tribunal de Justiça na hipótese  que possibilita o indeferimento liminar dos embargos de divergência  decorreu da aplicação da Súmula n. 168/STJ.
+Em verdade, deveria o voto condutor do julgado ter se reportado ao artigo 266-C do RISTJ  incluído pela Emenda Regimental n. 22/2016  , dispositivo que foi adotado para o improvimento dos embargos de divergência, conforme destacado na parte dispositiva decisão singular de fls. 416/420.
+Nesse ponto, são acolhidos os declaratórios para a correção do erro material acima apontado, sem qualquer alteração no resultado do julgamento ocorrido no acórdão ora embargado.
+Em relação à remessa dos autos à Segunda Seção, após finalizado o exame da controvérsia pela Corte Especial  conforme consta expressamente da decisão singular de fls. 416/420  , não há omissão ou erro material no acórdão ora impugnado, porque essa providência é cumprida automaticamente pela Secretaria Judiciária do STJ, desde que referida determinação integre a prestação jurisdicional ofertada nos embargos de divergência, seja na decisão singular, seja no voto do agravo interno, seja em ambos.
+Feitas essas análises, os demais argumentos suscitados nas razões dos declaratórios não merecem acolhida, pela inexistência de qualquer um dos vícios que permitam o manejo da presente insurgência, evidenciando-se o seu descabimento, pois objetivam as partes embargantes, na verdade, o reexame da controvérsia, devidamente analisada pelo Colegiado Maior deste Superior Tribunal de Justiça, o qual confirmou por unanimidade a decisão singular de fls. 416/420.
+Na espécie, o acórdão ora embargado chancelou a aplicação da Súmula n. 115/STJ em controvérsia submetida às disposições do CPC/1973  segundo o Enunciado Administrativo n. 2 do STJ  , restando suficientemente fundamentada a não adoção do CPC/2015 à hipótese, conforme se pode inferir da seguinte transcrição do referido aresto, no que importa (fls. 481/489):
+Vale dizer, discute-se, no caso exame, matéria examinada à luz do CPC/1973 com a respectiva jurisprudência, segundo o mencionado Enunciado Administrativo n. 2/STJ.
+Neste prisma, os seguintes julgados da Corte Especial:
+ ..
+Quanto à tese de que o acórdão agravado deveria ter sido submetido à apreciação pela Corte Especial, tal argumento não merece prosperar, pois, nos moldes do artigo 259 do RI/STJ, o relator só submeterá ao órgão colegiado sua decisão quando, havendo interposição de agravo interno, inexistir reconsideração do julgado anterior.
+Ultrapassado este ponto, destaca-se que a incidência do § 3º do artigo 266 do Regimento Interno do Superior Tribunal de Justiça na hipótese  que possibilita o indeferimento liminar dos embargos de divergência  decorreu da aplicação da Súmula n. 168/STJ.
+Isso porque, o entendimento exarado pela Terceira Turma, no sentido de inadmitir recurso subscrito por advogado sem a devida procuração nos autos, aplicando o óbice da Súmula 115/STJ, reflete a jurisprudência pacífica desta Corte Superior quanto aos processos sob a vigência do Código de Processo Civil de 1973.
+Corroborando os termos do acórdão embargado, pode-se destacar, ilustrativamente, os seguintes precedentes da Corte Especial, julgados à luz do CPC/1973:
+ ..
+As Turmas que compõem este Sodalício tem vários precedentes no mesmo sentido do acórdão embargado, ratificando a aplicação da Súmula 115/STJ para os processos julgados sob a égide do CPC/1973.
+Confira-se:
+ ..
+Dessa forma, perfeitamente aplicável, na hipótese, a Súmula n. 168/STJ para o indeferimento liminar dos embargos de divergência interpostos em face de acórdão que adotou entendimento sintonizado com a jurisprudência pacífica desta Corte Superior sobre o tema, interpretando o CPC/1973.
+A propósito:
+  ..
+Em verdade, da leitura das razões dos embargos de declaração depreende-se que os ora recorrentes não aceitam a distinção entre a devida utilização do CPC/1973 na admissibilidade do seu recurso especial, com base no Enunciado n. 2/STJ, e a resolução destes embargos de divergência, recurso interposto já na vigência do CPC/2015.
+Ante o exposto, acolhem-se parcialmente os embargos declaratórios, somente para reconhecer o erro material retromencionado, sem conceder a este recurso, contudo, efeito modificativo.
+Diante do acolhimento parcial da presente insurgência, não há como atender, nessa assentada, os pedidos efetuados pela parte embargada em sua impugnação.
+É o voto.
