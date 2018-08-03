@@ -1,0 +1,43 @@
+EMENTA
+PENAL E PROCESSO PENAL. RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL E OFENSA AO ART. 62, IV, DO CP. OCORRÊNCIA. CRIME DE CONTRABANDO. PAGA OU PROMESSA DE RECOMPENSA. AGRAVANTE. INCIDÊNCIA. POSSIBILIDADE. CIRCUNSTÂNCIAS NÃO INERENTES AO TIPO. ACÓRDÃO RECORRIDO EM DESCOMPASSO COM A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. RECURSO ESPECIAL PROVIDO.
+
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL, com fundamento na alínea "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal Regional Federal da 5ª Região, in verbis (fls. 449/450):
+PENAL. PROCESSO PENAL. APELAÇÃO CRIMINAL. CONTRABANDO. ART. 334-A, § 1º, INC. V, CP. CIGARROS. AUTORIA E MATERIALIDADE COMPROVADAS. AUTO DE PRISÃO EM FLAGRANTE. DOSIMETRIA. AGRAVANTES ART. 62, INCS. I E IV, CO. PAGA OU PROMESSA DE RECOMPENSA. INERENTE. NÃO COMPROVAÇÃO DE POSIÇÃO DE LIDERANÇA DE UM DOS RÉUS. RECURSO IMPROVIDO.
+1. Cuida-se de apelação interposta pelo Ministério Público Federal diante da sentença que condenou os réus pela prática do crime capitulado no art. 334-A, § 1º, do CP, por terem sido presos em flagrante delito quando transportavam 82 (oitenta e duas) caixas de cigarros desacompanhadas da necessária documentação fiscal e de comercialização proibida.
+2. Postula o Ministério Público Federal a majoração da pena imputada aos réus [NOME] e [NOME], condenados, respectivamente, às penas de 03 (três) anos, 07 (sete) meses e 15 (quinze) dias de reclusão e 2 (dois) anos, 4 (quatro) meses e 15 (quinze) dias de reclusão, a fim de que sejam consideradas as agravantes previstas no caso de concurso de pessoas (art. 62, do CP, incisos IV e I, respectivamente).
+3. A jurisprudência pátria tem se posicionado no sentido de que a prática do contrabando mediante paga ou promessa de recompensa é ínsita ao delito, motivo pelo qual não incide a agravante prevista no art. 62, IV, do Código Penal na dosimetria da pena feita em relação ao réu [NOME]. Precedentes.
+4. Não restou demonstrado vínculo de forma organizada, estável e com a finalidade de cometer o ilícito ao se aferir a função específica de cada co-réu. Quando da discriminação da conduta de cada réu, evidencia-se que eles possuíam papéis diferenciados no cometimento do delito perpetrado, sem que reste claro, todavia, que o acusado [NOME], [NOME] tenha efetivamente dirigido a conduta dos demais corréus, exercendo função de liderança no grupo criminoso, a ponto de merecer a reprimenda mais severa prevista pelo legislador ao estabelecer a modalidade de agravante prevista no art. 62, inciso I, do Código Penal.
+5. De mais a mais, a denúncia, além de omissa quanto ao recebimento de vantagem por [NOME] para o transporte da mercadoria, não traçou descrição que permitisse inferir que [NOME] teria dirigido e organizado a empreitada delituosa.
+6. Apelação improvida.
+O recorrente alega violação ao artigo 62, IV, do Código Penal. Para tanto afirma "ser possível a incidência da agravante prevista no art. 62, IV, do Código Penal ao delito de descaminho/contrabando, se caracterizada a paga ou promessa de recompensa, por não se tratarem de circunstâncias inerentes ao tipo penal" (fl. 464).
+Requer, ao final, o provimento do recurso, "a fim de que seja reconhecida a incidência da agravante do art. 62, IV, do Código Penal, ao crime de contrabando (art. 334-A, CP) cometido por [NOME]" (fl. 466).
+As contrarrazões foram apresentadas às fls. 479/489.
+O Tribunal de origem admitiu o recurso às fls. 491.
+O Ministério Público Federal manifestou-se às fls. 500/504, pelo provimento do recurso especial.
+É o relatório.
+A insurgência merece prosperar.
+Em primeiro lugar, verifica-se que o recorrido foi condenado em primeira instância como incurso nas sanções do artigo 334-A, § 1º, V, do Código Penal, à pena de 3 anos, 7 meses e 15 dias de reclusão, a ser descontada no regime inicial fechado. (fls. 339/340)
+Analisando a sentença de primeiro grau, colhe-se entre as ponderações relacionadas à dosimetria da pena do réu, que o magistrado condutor do feito afastou a incidência da agravante prevista no artigo 62, inciso IV, do Código Penal, nos seguintes termos (fl. 338):
+Ademais, não merece amparo a aplicação da agravante do art. 62, IV, do Código Penal, conforme postula o Parquet Federal. Ainda que o réu [NOME] tenha afirmado que recebeu contraprestação para realizar o transporte da mercadoria, a promessa de recompensa não agrava a pena, pois, em se tratando de contrabando, o pagamento àquele que transporta mercadorias é inerente ao tipo penal.
+A Corte de origem manteve esse posicionamento sob a seguinte fundamentação (fl. 444):
+Inicialmente, em relação ao pedido de majoração da pena imputada ao réu [NOME], a jurisprudência pátria tem se posicionado no sentido de que a prática do contrabando mediante paga ou promessa de recompensa é insita ao delito, motivo pelo qual não incide a agravante prevista no rt. 62, IV, do Código Penal, senão vejamos:
+Da leitura do excerto transcrito, constata-se que a conclusão das instâncias de origem em vai de encontro à jurisprudência desta Corte, que se assentou no sentido de que o objetivo de lucro ou vantagem econômica não são inerentes aos delitos de contrabando ou descaminho, razão pela qual a agravante da paga ou promessa de recompensa prevista no inciso IV do artigo 62 do mesmo Codex incide nos referidos crimes.
+Neste sentido:
+"PENAL. AGRAVO INTERNO NO RECURSO ESPECIAL. CRIMES DE DESCAMINHO E CONTRABANDO. PAGA OU PROMESSA DE RECOMPENSA. AGRAVANTE. POSSIBILIDADE. CIRCUNSTÂNCIAS NÃO INERENTES AO TIPO. PRECEDENTE DO STJ. AGRAVO IMPROVIDO.
+1. Admite-se a incidência da agravante prevista no art. 62, IV, do CP ao delito do art. 334 do CP, se caracterizada a paga ou promessa de recompensa, por não se tratarem de circunstâncias inerentes ao tipo penal.
+2. Quem deixa de recolher os tributos aduaneiros, cometendo o ilícito do descaminho, pode perfeitamente assim o executar, por meio de paga, ato que antecede ao cometimento do crime, ou por meio de recompensa, ato posterior à execução do crime, ou até mesmo desprovido de qualquer desses propósitos (REsp 1317004/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/09/2014, DJe 09/10/2014).
+3. Agravo interno improvido".
+(AgInt no REsp 1457834/PR, Rel. Min. NEFI CORDEIRO, SEXTA TURMA, DJe 25/05/2016)
+"RECURSO ESPECIAL. PENAL E PROCESSO PENAL. DESCAMINHO. TRANSPORTE DE CIGARROS. PAGA OU PROMESSA DE RECOMPENSA. AGRAVANTE. ARTIGO 62, IV, DO CÓDIGO PENAL. INCIDÊNCIA. AUSÊNCIA DE INTERPOSIÇÃO DE APELAÇÃO. PRECLUSÃO CONSUMATIVA. RECONHECIMENTO DE FLAGRANTE ILEGALIDADE. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. REINCIDÊNCIA. COMPENSAÇÃO COM A ATENUANTE DA CONFISSÃO. POSSIBILIDADE.
+1. É cabível a agravante prevista no art. 62, IV, do Código Penal a incidir no delito de descaminho, quando caracterizado que o crime ocorreu mediante paga ou promessa de pagamento, por não constituir elementar do tipo previsto no artigo 334 do Código Penal.
+(..)
+Habeas corpus concedido de ofício para, na segunda fase da dosimetria da pena, proceder à compensação entre a agravante da reincidência e a atenuante da confissão espontânea, tornando a reprimenda definitiva em 1 ano e 6 meses de reclusão".
+(REsp 1317004/PR, Rel. Min. ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 09/10/2014)
+Assim, de rigor a incidência da agravante prevista no inciso IV do artigo 62 do CP, devendo ser realizada a adequação da pena referente ao réu [NOME].
+Na primeira fase, mantenho a pena-base fixada nas instâncias ordinárias, qual seja, 3 anos, 1 mês e 15 dias de reclusão. Na segunda etapa, mantenho o aumento de 6 meses decorrente da incidência da agravante da reincidência e majoro em mais 6 meses em razão da incidência da agravante prevista no artigo 62, IV, do Código Penal. Não havendo causas de aumento ou diminuição a serem consideradas, torno a pena definitiva em 4 anos, 1 mês e 15 dias de reclusão, mantido, no mais, o acórdão impugnado.
+Assim, estando o acórdão recorrido em confronto com a jurisprudência há muito consolidada desta Corte Superior de Justiça acerca do tema, de rigor o provimento do recurso especial, nos termos da Súmula 568 deste Sodalício, que assim dispõe:
+Súmula 568. O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Ante o exposto, com fundamento no artigo 932, V, "a", do Código de Processo Civil em vigor (Lei nº 13.105/2015), dou provimento ao recurso especial para, reconhecendo a incidência da agravante prevista no artigo 62, IV, do Código Penal, fixar a pena do réu [NOME] em 4 anos, 1 mês e 15 dias de reclusão, mantido, no mais, o acórdão impugnado.
+Publique-se.
+Intimem-se.
