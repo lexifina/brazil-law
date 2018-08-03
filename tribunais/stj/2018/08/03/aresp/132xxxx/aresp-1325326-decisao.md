@@ -1,0 +1,27 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] e OUTROS contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, assim ementado:
+APELAÇÃO CÍVEL. INTERDITO PROIBITÓRIO. AÇÃO INADEQUADA. AUSÊNCIA DOS REQUISITOS PREVISTOS NO ART. 932, DO CPC. INVASÃO PELOS AUTORES DOS IMÓVEIS QUE AINDA NÃO POSSUÍAM O "HABITE-SE". PROCEDIMENTO IRREGULAR DOS REQUERENTES. SENTENÇA MANTIDA. APELO DESPROVIDO.
+Para que o indivíduo possa utilizar o interdito proibitório é necessário que haja alguns requisitos como: a posse, o justo receio de turbação ou de esbulho. Pelo exame das provas produzidas e das alegações das partes, no caso, não se pode falar em Ação de Interdito, porquanto a posse, pressuposto essencial para as ações possessórias, é inexistente.
+Em detida análise daquilo que foi narrado pelas partes, não foi constatada a prática de qualquer ato por parte dos Apelados que indicasse que eles pretendiam de alguma forma molestar a aquisição dos Recorrentes. O que se pode constatar do feito, em verdade, é que os Autores, indignados com o atraso das obras, deixaram de pagar as parcelas previstas no contrato e ainda mudaram-se para os apartamentos, como se houvesse proteção legal para esse tipo de comportamento.
+Não pode o Judiciário, a esta altura, reconhecer a boa-fé dos Acionantes sobre as unidades que ocupam, sobretudo porque, como dito alhures, diante da inadimplência confessa dos Autores, nem sequer a posse restou caracterizada.
+Nestas condições, considerando que a propositura da Ação de Interdito não é a via apropriada, visto que não há a presença dos requisitos autorizadores, e levando em conta que não existe boa-fé nos Autores, porquanto não cumpriram com as suas obrigações contratuais, entendo que deve ser mantida a improcedência do pleito inaugural.
+Sentença mantida. Apelo desprovido.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto no art. 932 do CPC de 1973.
+Alegam, em síntese, que foram atendidos os requisitos previstos no dispositivo legal, sendo cabível o manejo da ação de interdito proibitório. Enfatizam que a posse exercida é justa e de boa-fé.
+É o relatório. DECIDO.
+2. Ao apreciar a controvérsia, o Tribunal de origem não reconheceu a presença dos requisitos autorizadores para a propositura da ação de interdito proibitório:
+Em detida análise daquilo que foi narrado pelas partes, não foi constatada a prática de qualquer ato por parte dos Apelados que indicasse que eles pretendiam de alguma forma molestar a aquisição dos Recorrentes. O que se pode constatar do feito, em verdade, é que os Autores, indignados com o atraso das obras, deixaram de pagar as parcelas previstas no contrato e ainda mudaram-se para os apartamentos, como se houvesse proteção legal para esse tipo de comportamento.
+Não pode o Judiciário, a esta altura, reconhecer a boa-fé dos Acionantes sobre as unidades que ocupam, sobretudo porque, como dito alhures, diante da inadimplência confessa dos Autores, nem sequer a posse restou caracterizada.
+Acerca deste ponto, a Magistrada de piso se manifestou da seguinte forma:
+"Os autores, que tiveram cumprido com as suas obrigações pecuniárias, no período de construção do imóvel indicado no contrato, podem buscar os seus direitos, através de ações adequadas, contudo o judiciário não pode agora reconhecer boa-fé dos mesmos sobre os apartamentos que ocupam, porque além da inadimplência no cumprimento das obrigações assumidas quando firmaram o contrato, eles informam que o edifício não recebeu o habite-se, ou seja, os apartamentos não podiam ainda serem entregues aos requerentes.
+Assim, não há como ser reconhecida a boa fé dos autores sobre os apartamentos que ocupam, já que sabem que não pagaram o valor total dos mesmos e que não foi fornecido o habite-se pela Prefeitura."
+Nestas condições, considerando que a propositura da Ação de Interdito não é a via apropriada, visto que não há a presença dos requisitos autorizadores, e levando em conta que não existe boa-fé nos Autores, porquanto não cumpriram com as suas obrigações contratuais, entendo que deve ser mantida a improcedência do pleito inaugural.
+Nesse contexto, verifico que o acolhimento da pretensão recursal, a fim de verificar as alegações da parte agravante, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INTERDITO PROIBITÓRIO. AUSÊNCIA DOS REQUISITOS PARA CONCESSÃO DA TUTELA POSSESSÓRIA. REVISÃO. ÓBICE DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+2. O Tribunal de origem, com base nos elementos probatórios, concluiu pela falta de provas quanto à alegada posse, bem como quanto ao comodato, razão pela qual indeferiu o pedido de proteção possessória. Alterar esse entendimento é inviável em recurso especial a teor do que dispõe a referida súmula.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 419.713/ES, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 25/11/2014, DJe 02/12/2014)
+3. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
