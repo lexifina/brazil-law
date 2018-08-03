@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Habeas Corpus n. 2094980-17.2014.8.26.0000).
+Consta dos autos que o paciente foi condenado às penas de 9 (nove) anos, 7 (sete) meses e 15 (quinze) dias de reclusão, em regime fechado, e 23 dias-multa, pela prática do crime do art. 157, § 2º, I e II, do CP (e-STJ fl. 151).
+Irresignada, a defesa recorreu, sendo que a apelação criminal defensiva não foi sequer conhecida, com fundamento no art. 594 do CPP (então vigente à época), em razão de o paciente não ter sido localizado.
+Houve, portanto, o manejo de habeas corpus a fim de que o recurso fosse recebido. O Tribunal de origem, contudo, denegou a ordem, em ementa cujo teor transcrevo a seguir (e-STJ fl. 256):
+HABEAS CORPUS ALEGAÇÃO DE QUE O PACIENTE SOFRE CONSTRANGIMENTO ILEGAL, POSTO QUE INTERPOSTO APELO EM SEU FAVOR, TAL NÃO FOI RECEBIDO, DIANTE DA SUA NÃO LOCALIZAÇÃO, TENDO SIDO CERTIFICADO O TRÂNSITO EM JULGADO PARA ELE EM 21/11/2005, TODAVIA O RECURSO DEVE SER PROCESSADO, PORQUE A LEI Nº 11.719/08 REVOGOU O ARTIGO 594, DO CPP. CASO EM QUE À ÉPOCA DA PROLAÇÃO DA DECISÃO HOSTILIZADA, O ARTIGO SUPRARREFERIDO SE ENCONTRAVA EM PLENA VIGÊNCIA.
+Ordem denegada.
+No presente writ, a defesa argumenta nulidade do feito ante a inaplicabilidade do art. 594 do CPP à época, pois ficou "assentado de forma pacífica que o referido dispositivo estava em desacordo com os princípios da ampla defesa e do duplo grau de jurisdição, bem como com a ordem constitucional" (e-STJ fl. 2).
+Requer a nulidade do trânsito em julgado para que seja recebido, processado e, ao final, julgado o recurso de apelação interposto pela defesa.
+Ouvido, o Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ fls. 288/292). Eis a ementa do parecer:
+PENAL E PROCESSUAL. HABEAS CORPUS. CRIME DE ROUBO QUALIFICADO (ART.157, § CONDENAÇÃO. RECOLHIMENTO DO RÉU PARA APELAÇÃO. POSSIBILIDADE DE VINCULAÇÃO DA ADMISSIBILIDADE DO RECURSO INTERPOSTO AO PRÉVIO RECOLHIMENTO DO ACUSADO À PRISÃO. ANTIGO ART. 594, DO CÓDIGO DE PROCESSO PENAL, VIGENTE À ÉPOCA DO TRÂNSITO EM JULGADO DA CONDENAÇÃO. REVOGAÇÃO POSTERIOR PELA LEI N.º 11.719/08. NORMAS PROCESSUAIS TÊM INCIDÊNCIA IMEDIATA SOBRE OS PROCESSOS EM CURSO, OU SEJA, NÃO POSSUEM EFICÁCIA RETROATIVA. AS ALTERAÇÕES EFETUADAS PELA LEI N.º 11.719/08 SÓ INCIDEM SOBRE OS PROVIMENTOS JURISDICIONAIS PROFERIDOS APÓS SUA VIGÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PARECER PELA DENEGAÇÃO DA ORDEM.
+É o relatório.
+Não assiste razão à defesa.
+De fato, não subsiste mais o disposto no art. 594 do CPP, revogado em 2008 pela Lei n. 11.719.
+No entanto, como é cediço, o referido preceito possuía natureza processual, e, consoante jurisprudência há muito consagrada nesta Corte Superior de Justiça, "as normas processuais tem incidência imediata sobre os processos em curso, ou seja, não possuem eficácia retroativa. As alterações efetuadas pela Lei n.º 11.719/08 só incidem sobre os provimentos jurisdicionais proferidos após sua vigência. Na hipótese, o trânsito em julgado da sentença condenatória ocorreu em 27/04/2007, antes, portanto, da edição e vigência da referida norma" (HC n. 157.551/RJ, rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 12/4/2011, DJe 4/5/2011).
+Nesse sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO. CONDENAÇÃO. EXIGÊNCIA DE RECOLHIMENTO DO RÉU PARA RECORRER, À ÉPOCA DA VIGÊNCIA DO ART. 594 DO CPP. ATO PROCESSUAL PRATICADO HÁ MAIS DE DEZ ANOS. PRETENSÃO DE CONHECIMENTO DO MÉRITO DA APELAÇÃO INTERPOSTA. LEI PROCESSUAL PENAL. APLICAÇÃO IMEDIATA, SEM PREJUÍZO DA VIGÊNCIA DOS ATOS PRATICADOS NA VIGÊNCIA DA LEI ANTERIOR. CONSTRANGIMENTO ILEGAL. INEXISTÊNCIA.
+1. Deve ser mantida por seus próprios fundamentos a decisão que denega ordem de habeas corpus em que se pleiteia a retroatividade de lei processual mais benéfica em relação a ato processual praticado há mais de dez anos.
+2. Segundo o art. 2º do Código de Processo Penal, a lei processual penal aplicar-se-á desde logo, sem prejuízo da validade dos atos realizados sob a vigência da lei anterior.
+3. Agravo regimental improvido.
+(AgRg no HC 189.307/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 02/08/2012, DJe 20/08/2012)
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. ROUBO MAJORADO. APELAÇÃO NÃO RECEBIDA. EXIGÊNCIA DE RECOLHIMENTO À PRISÃO PARA APELAR. ART. 594 DO CPP. DESERÇÃO. POSTERIOR REVOGAÇÃO DO MENCIONADO DISPOSITIVO DE LEI. TEMPUS REGIT ACTUM. MODIFICAÇÃO DE CUNHO PROCESSUAL. IRRETROATIVIDADE. NORMA CONSIDERADA NÃO RECEPCIONADA PELO SUPREMO TRIBUNAL FEDERAL. PRECLUSÃO. EXTEMPORANEIDADE. QUESTIONAMENTO QUASE SETE ANOS DEPOIS. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+III - Normas de cunho processual, sob a égide do princípio do tempus regit actum, não retroagem para alterar o curso dado ao processo penal à época de sua tramitação.
+IV - Verifica-se que, no momento da interposição do recurso de apelação, em março de 2005, estava em vigência o art. 594 do CPP e ainda válida a Súmula 9/STJ ("A exigência da prisão provisoria, para apelar, não ofende a garantia constitucional da presunção de inocência"), de modo que, não tendo se recolhido à prisão, juridicamente sustentável era decisão que não conheceu da insurgência.
+V - Não se desconhece decisão do Supremo Tribunal Federal que entendeu por não recepcionados os revogados arts. 594 e 595 do CPP. Contudo, igualmente firme o entendimento do próprio Excelso Pretório no sentido de que, passado longo tempo para se apontar a eventual nulidade (in casu, quase 7 anos), preclusa ela se revelará, em homenagem ao princípio da segurança jurídica.
+Habeas corpus não conhecido.
+(HC 321.222/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 23/02/2016, DJe 29/02/2016)
+No caso vertente, a sentença foi prolatada no ano de 2005 (e-STJ fl. 152), época em que vigia o precitado dispositivo processual, que determinava que o réu deveria se recolher à prisão para que pudesse apelar da sentença condenatória.
+Como bem consignou o acórdão ora combatido, "não obstante o zelo da Defensoria, o pedido não merece guarida, conforme manifestação ofertada pela douta representante da Procuradoria Geral de Justiça, às fls. 243/245, isso porque, à época da prolação da decisão pela qual não foi recebido o recurso de apelação interposto, ainda não havia sido revogado o artigo 594, do Código de Processo Penal (fls. 159 e 180)" - e-STJ fl. 258.
+Não há, portanto, ilegalidade a ser sanada por meio da presente impetração.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
