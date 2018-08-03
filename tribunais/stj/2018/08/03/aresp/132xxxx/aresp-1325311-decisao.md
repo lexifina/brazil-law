@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GAFISA S/A, doravante GAFISA, contra decisão exarada pela il. Presidência do eg. Tribunal de Justiça do Estado do Rio de Janeiro (TJ-RJ), que inadmitiu o recurso especial.
+Cuidam os autos, na origem, de ação indenizatória proposta por ELIO JORGE DE VASCONCELOS e CARMEM COSSU DE VASCONCELOS em desfavor de GAFISA.
+O il. Magistrado julgou procedentes os pedidos (sentença às fls. 311/319).
+Diante disso, GAFISA interpôs apelação, a qual foi desprovida pelo eg. TJ-RJ, nos termos do v. acórdão, assim ementado (fls. 468/469):
+APELAÇÃO CÍVEL. RELAÇÃO DE CONSUMO. COMPRA E VENDA IMOBILIÁRIA. AGRAVO RETIDO INTERPOSTO SOB A ÉGIDE DO CÓDIGO DE PROCESSO CIVIL DE 1973 REITERADO. TEORIA DO ISOLAMENTO DOS ATOS PROCESSUAIS. DECISÃO QUE INDEFERIU O PEDIDO DE DEPOIMENTO PESSOAL E PROVA PERICIAL. PROVA IRRELEVANTE PARA O DESLINDE DA CONTROVÉRSIA. APLICAÇÃO DO ARTIGO 130 DO CÓDIGO DE PROCESSO CIVIL DE 1973. AGRAVO RETIDO DESPROVIDO. COMPRA E VENDA DE UNIDADE IMOBILIÁRIA. VENCIMENTO DE PARCELA A SER PAGA MEDIANTE FINANCIAMENTO BANCÁRIO QUE NÃO FOI QUITADA NO PRAZO POR CULPA DA CONSTRUTORA VENDEDORA. CORREÇÃO MONETÁRIA NADA ACRESCENTA AO VALOR DA MOEDA, SERVINDO APENAS PARA RECOMPOR O SEU PODER AQUISITIVO, CORROÍDO PELOS EFEITOS DA INFLAÇÃO, CONSTITUINDO FATOR DE REAJUSTE INTRÍNSECO ÀS DÍVIDAS DE VALOR.
+MODIFICAÇÃO DO JULGADO PARA QUE CONSTRUTORA SEJA CONDENADA A APLICAR AO SALDO DEVEDOR, DURANTE O PERÍODO DA MORA, COMPUTADO ENTRE A DATA CONTRATADA 31/03/2012 E A ASSINATURA DO CONTRATO DE FINANCIAMENTO 31/01/2013, O ÍNDICE QUE MAIS FAVOREÇA OS AUTORES (INCC, IPCA OU IGP-M), DEVENDO RESTITUIR, DE FORMA SIMPLES, EVENTUAIS VALORES COBRADOS A MAIOR EM DECORRÊNCIA DA APLICAÇÃO DO INCC AO SALDO DEVEDOR DURANTE O PERÍODO DE MORA. DANO MORAL CONFIGURADO PELO ATRASO SUPERIOR A 01 (UM) ANO PARA A ENTREGA DO BEM E PELA INSCRIÇÃO INDEVIDA DO NOME DO COMPRADOR NOS CADASTROS DE PROTEÇÃO AO CRÉDITO. SÚMULA Nº 89 DO PJERJ. LESÃO À HONRA E DIGNIDADE DA PESSOA IDOSA. PROTEÇÃO CONSTITUCIONAL E INFRACONSTITUCIONAL AO IDOSO (ARTIGO 230 DA CR, ARTIGO 39, INCISO IV, DO CDC E LEI Nº 10.741/2003). QUANTUM FIXADO DE R$ 6.000,00 PARA CADA AUTOR QUE SE MOSTRA MODESTO, DEVENDO SER MANTIDO EM RAZÃO DA AUSÊNCIA DE RECURSO PARA MAJORAÇÃO. RECURSO PARCIALMENTE PROVIDO.
+Inconformado, GAFISA interpôs recurso especial, com fulcro no art. 105, inciso III, alíneas "a", da CF/88, no qual alega violação dos arts. 884 e 944 do CC/02.
+Como dito, o apelo nobre foi inadmitido às fls. 566/569.
+Irresignado, GAFISA manejou o presente agravo em recurso especial refutando os fundamentos da decisão que inadmitiu seu apelo nobre.
+Não foi apresentada contraminuta (certidão de fl. 674).
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+No apelo nobre que pretende trânsito, sustenta o recorrente violação dos arts. 884 e 944 do CC/02, ao argumento de que o mero inadimplemento do contrato não enseja reparação por danos morais. O eg. TJ-RJ, contudo, aplicou a condenação por dano extrapatrimonial devido à inscrição indevida do nome do recorrido no cadastro de inadimplentes. À título elucidativo, colacionam-se os trechos a seguir (fl. 479):
+"A par de recente decisão do Superior Tribunal de Justiça, no sentido de que o atraso de cinco meses na entrega do imóvel por si só não é capaz de gerar dano de ordem moral ao consumidor (REsp 1634847), na presente hipótese, além do já verificado atraso na entrega do bem, o consumidor teve seu nome inscrito nos cadastros de proteção ao crédito, indevidamente, posto que o atraso no pagamento do saldo do preço se deu por culpa da construtora.
+Neste prumo, a inscrição do nome do consumidor nos cadastros de proteção ao crédito resta indevida, evidenciando, sem sombra de dúvida, a falha do serviço, exsurgindo a necessidade de reparar os danos.
+(..)
+Ademais, tratando-se de pessoa, que adquire imóvel pronto com expectativa de imissão na posse em 31/03/2012, a qual somente se efetivou em 27/05/2013, portanto com atraso superior a um ano, inegável que a frustração de legítima expectativa do consumidor, por período tão alongado, ultrapassa a esfera do mero aborrecimento, justificando a indenização por danos morais".
+Por seu turno, da leitura das razões posta no apelo nobre, infere-se que o recorrente não impugnou o fundamento usado relativo à inscrição do recorrido no cadastro de inadimplentes. Nesse cenário, havendo fundamento autônomo e suficiente, por si só, para manter o v. acórdão estadual, o apelo nobre encontra óbice na Súmula n. 283/STF, aplicada por analogia. Nessa mesma linha de intelecção, destacam-se os seguintes julgados:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO DE SENTENÇA. PRETENSÃO DE COMPLEMENTAÇÃO DO LAUDO PERICIAL E JUNTADA DE DOCUMENTOS. NECESSIDADE DE REALIZAÇÃO DE AUDIÊNCIA COM O INTUITO DE ESCLARECER QUESTÕES ATINENTES ÀS AMORTIZAÇÕES REALIZADAS. REEXAME FÁTICO DOS AUTOS. SÚMULA N. 7/STJ. FUNDAMENTO DO TRIBUNAL DE ORIGEM NÃO IMPUGNADO. SÚMULA N. 283 DO STF.
+(..)
+2. É inadmissível o recurso especial que não impugna os fundamentos do acórdão recorrido, suficientes, por si só, à manutenção da conclusão a que chegou o Tribunal de origem (Súmula n. 283/STF).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 451.336/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 01/06/2017, DJe 08/06/2017 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM" RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+(..)
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1035112/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/05/2017, DJe 12/05/2017 - grifou-se)
+Assim, forçoso reconhecer que o presente apelo não merece prosperar.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
