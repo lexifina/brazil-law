@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto por CASA DE SAUDE SANTA MARIA S A, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de Minas Gerais, proferido em sede de embargos infringentes, assim ementado:
+"EMENTA: AGRAVO INTERNO - NÃO CONHECIMENTO DE AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA DECISÃO QUE VERSA SOBRE SUSPENSÃO DO PROCESSO - HIPÓTESE NÃO PREVISTA NO ROL TAXATIVO DO ART.1015 DO CPC/2015 - NÃO CABIMENTO DO RECURSO.
+É incabível a interposição de agravo de instrumento contra decisão que suspende o processo, pois hipótese não constante daquelas taxativamente enumeradas no art. 1.015 do CPC/2015."
+(e-STJ, fl. 147)
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 167/170).
+Em suas razões recursais, o recorrente aponta violação do art. 354, parágrafo único, do Código de Processo Civil, sustentando, em síntese, que a decisão que determinou a suspensão do processo em razão de um dos recorridos estar em procedimento de liquidação extrajudicial é análoga à que decide, em parte, o mérito do processo, com a extinção do feito, somente sendo passível de ser impugnada via agravo de instrumento. Apontou, outrossim, que a matéria foi afetada para julgamento sob a sistemática dos recursos especiais repetitivos - Tema 988 (REsp 1704520/MT) - , motivo pelo qual requereu a suspensão do processo até que a seja apreciada pelo STJ.
+Decorrido o prazo legal sem apresentação de contrarrazões (e-STJ, fl. 203).
+É o relatório. Passo a decidir.
+Conforme apontado pela recorrente, a matéria relativa à natureza do rol do art. 1.015 do CPC/15 e à possibilidade de sua interpretação extensiva, para se admitir a interposição de agravo de instrumento contra decisão interlocutória que verse sobre hipóteses não expressamente versadas nos incisos de referido dispositivo do Novo CPC, foi afetada pela Corte Especial do STJ para julgamento pelo rito do artigo 1.036 do NCPC, (ProAfR no REsp 1.696.396/MT, Rel. Ministra NANCY ANDRIGHI, Corte Especial, julgado em 20/2/2018), (ProAfR no REsp 1.704.520/MT, Rel. Ministra NANCY ANDRIGHI, Corte Especial, julgado em 20/2/2018.
+Inobstante o referido órgão julgador, por unanimidade, não tenha decidido pela suspensão do processamento dos recursos de agravo de instrumento e eventuais recursos especiais que versem sobre idêntica questão, em tramitação no território nacional, é possível ao relator, levando em consideração razões de economicidade processual, aprecie o recurso especial apenas quando exaurida a competência das instâncias ordinárias, na forma do artigo 1.040, II e III, do CPC/2015 e 34, XXIV, do RISTJ.
+Diante do exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 1.040 e seguintes do CPC/2015, após a publicação do acórdão do respectivo recurso excepcional representativo da controvérsia:
+a) negue seguimento ao recurso, se a decisão recorrida coincidir com a orientação emanada pelo Superior Tribunal de Justiça, ou
+b) proceda ao juízo de retratação, na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se.
