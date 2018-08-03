@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de recurso especial interposto por SUPERVIA - CONCESSIONÁRIA DE TRANSPORTE FERROVIÁRIO S.A. com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO. INDENIZAÇÃO. COMPLEMENTAÇÃO DO DEPÓSITO. EXECUÇÃO. CONDENAÇÃO EM SALÁRIOS MÍNIMOS. DEPÓSITO EFETUADO COM BASE NO SALÁRIO MÍNIMO VIGENTE NO INÍCIO DA EXECUÇÃO. DIFERENÇA DEVIDA. SENDO A INDENIZAÇÃO FIXADA EM SALÁRIOS MÍNIMOS, O DEPÓSITO DEVE TER POR BASE O VALOR VIGENTE NA ÉPOCA DO PAGAMENTO, E NÃO DO INÍCIO DA EXECUÇÃO. PROVIMENTO DO RECURSO" (fl. 46, e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+A recorrente alega a violação dos artigos 1.022, II, do Código de Processo Civil de 2015, 884 do Código Civil e 7º, IV, da Constituição Federal.
+De início, aduz a existência de negativa de prestação jurisdicional no julgamento dos aclaratórios.
+No mérito, sustenta ser incabível a utilização da variação do salário mínimo como indexador para a atualização de débitos, sob pena de enriquecimento sem causa do credor.
+Por fim, alega que o salário mínimo, caso seja utilizado como base de cálculo da indenização, deve corresponder ao valor vigente na época da sentença, com atualização pelos índices oficiais, e não ao valor da época do pagamento.
+Contrarrazões foram apresentadas (fls. 107/119, e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação merece prosperar em parte.
+De início, nos termos do art. 105, III, da Constituição Federal, compete ao Superior Tribunal de Justiça, em sede de recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável invocar nesta seara a violação de dispositivos constitucionais ainda que para fins de prequestionamento, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal (art. 102, III, da Carta Magna).
+No tocante à violação do art. 1.022 do CPC/2015, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, o seguinte precedente:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REVISÃO DE ENCARGOS FINANCEIROS E RESTITUIÇÃO DE VALORES. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS. SUMULAS 5 E 7 DO STJ. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ . AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do artigo 1022 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+(..)
+5. Agravo interno não provido" (AgInt no AREsp 1.035.430/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 9/5/2017, DJe 16/5/2017- grifou-se).
+No que tange ao art. 884 do CC, a Corte local determinou a atualização dos cálculos de liquidação da indenização por danos morais com base no salário mínimo vigente na data do efetivo pagamento pela recorrente, com base nos seguintes fundamentos:
+"(..)
+Inicialmente deve-se consignar que a sentença foi prolatada há mais de duas décadas, quando era comum a utilização de parâmetro para arbitramento de indenizações o valor do salário mínimo, como indexador de atualização.
+Baixados os autos à vara de origem, os agravantes deram início à execução do julgado quando o salário mínimo da época era de R$120,00 (cento e vinte reais).
+Contudo após duas longas décadas veio aos autos principais, às fls. 636/638, apresentando em Garantia do título executivo judicial, a Carta de Fiança, em substituição imediata da penhora, que havia sido deferida pelo Juízo a quo, de sua conta-corrente. Após 5 anos, a devedora veio integralizou o débito, através do depósito no valor de R$658.537,53 (seiscentos e cinquenta e oito mil, quinhentos e trinta e sete reais e cinquenta e três centavos).
+Compulsando os autos, constata-se que após o depósito da referida quantia, a exequente peticionou, juntando planilha atualizada do débito, pois até então não tinha havido penhora para garantir a execução e, dessa forma, o pagamento do débito somente veio a ocorrer quando do depósito acima mencionado, ocasião em que o valor do salário mínimo já era de R$880,00 e que os juros passaram de 6% para 12% em virtude da entrada em vigor do Código Civil de 2002.
+Nesse diapasão, verifica-se que na indenização fixada em salários mínimos, a liquidação deve basear-se no valor do efetivo pagamento, caso contrário o julgador, quando a fixasse, o faria de outro modo, estipulando o índice de reajuste (qualquer que fosse, IPCA, IGPM, tabela do TJRJ), e, não do julgado, nem muito menos, do início da execução, por conter em si a permanente atualização, no propósito de cumprimento integral da obrigação de reparar os danos morais e IMPEDIR O enriquecimento sem causa do devedor, conforme artigos 884 e 2035 do Código Civil.
+(..)
+In casu, entre a data da sentença confirmada, em sede de Tribunal de Justiça, e a data do efetivo pagamento passaram-se 19(dezenove) anos. Logo, o valor do salário mínimo a ser considerado é o do pagamento e não da sentença, sob pena de premiar o devedor procrastinador.
+Por fim, há de se consignar o fato de que todo o débito não pago, ao ser quitado, deve ser atualizado, sob pena do pagamento causar locupletamento ilícito do devedor em prejuízo do credor. A atualização do valor devido se faz pela forma em que ficou fixada no julgado, ou seja, a correção do valor arbitrado em salários mínimos possui caráter de manutenção do poder aquisitivo da moeda, caso contrário estar-se-á prestigiando o enriquecimento sem causa, já que para que este esteja configurado, não é necessário que o agente cometa ato ilícito ou antijurídico para auferir vantagem em desfavor de outro, mas apenas que obtenha uma vantagem, em face de um empobrecimento de outro sujeito, sem que haja um motivo que justifique tal deslocamento patrimonial.
+(..)" (fls. 48/51,e-STJ - grifou-se).
+No entanto, tal entendimento diverge da jurisprudência desta Corte firmada no sentido de que "a expressão monetária do valor do ressarcimento em salários mínimos serve apenas como referência de fixação da indenização e deve ser convertido no momento do arbitramento em moeda corrente e a partir daí incidir a correção monetária, nos termos da Súmula n. 362 do STJ" (AgInt no REsp 1.656.959/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/6/2017, DJe 1º/8/2017).
+No mesmo sentido, as seguintes ementas:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DANO MATERIAL. INDENIZAÇÃO FIXADA EM MOEDA ESTRANGEIRA. IMPOSSIBILIDADE. CONVERSÃO EM MOEDA NACIONAL NA DATA DO EVENTO. ATUALIZAÇÃO MONETÁRIA. DANOS MORAIS. REVISÃO. POSSIBILIDADE. DESPROPORCIONALIDADE. INDEXAÇÃO AO SALÁRIO MÍNIMO. INVIABILIDADE. CORREÇÃO MONETÁRIA. TERMO. ARBITRAMENTO. SÚMULA 362/STJ. NÃO PROVIMENTO.
+(..)
+3. Adotado nesta Corte o entendimento de que o salário mínimo não pode servir como fator de indexação para a indenização por danos morais. Precedente.
+4. "A correção monetária do valor da indenização do dano moral incide desde a data do arbitramento" (Súmula 362/STJ).
+5. Agravo regimental a que se nega provimento" (AgRg no AREsp 136.660/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/3/2016, DJe 21/3/2016 - grifou-se).
+"PROCESSO CIVIL E CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. ACOLHIMENTO DOS EMBARGOS COM EFEITOS INFRINGENTES. POSSIBILIDADE. RESPONSABILIDADE CIVIL. DANOS MORAIS E ESTÉTICOS. VALOR. REVISÃO EM SEDE DE RECURSO ESPECIAL. POSSIBILIDADE, DESDE QUE O MONTANTE SE MOSTRE ÍNFIMO OU EXAGERADO.
+(..)
+4. A utilização do salário mínimo como indexador do quantum estabelecido a título de indenização por danos morais e/ou estéticos se mostra impossível. Precedentes.
+5. Considerando que o salário mínimo tem servido de base para o cálculo de danos morais e estéticos, cumpre ao STJ, na condição de uniformizador da jurisprudência infraconstitucional pátria, manter-se atento à evolução da referida verba, em termos nominais e reais, para que a sua utilização como parâmetro indenizatório não implique distorções.
+6. Na hipótese sob exame, em que a vítima, então com 08 anos de idade, sofreu amputação do membro inferior esquerdo, afigura-se razoável a fixação dos danos morais e estéticos em R$360.000,00, atualmente correspondente a cerca de 500 salários mínimos.
+7. Embargos de declaração no recurso especial acolhidos com efeitos modificativos" (EDcl no AgRg no REsp 1.345.471/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 11/2/2014, DJe 24/2/2014 - grifou-se).
+"RECURSO ESPECIAL. AGRAVO REGIMENTAL. AUSÊNCIA DE REPRESENTAÇÃO DO AGRAVADO. PRECLUSÃO. SALÁRIO MÍNIMO FATOR DE CORREÇÃO MONETÁRIA. INADMISSIBILIDADE.
+I.- (..)
+II.- É possível a fixação do valor da indenização em salários mínimos, sendo, porém, vedada a utilização daquele parâmetro como indexador para a atualização do quantum indenizatório.
+III.- Agravo Regimental improvido" (AgRg nos EDcl no REsp 1.174.486/SP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 28/9/2010, DJe 14/10/2010 - grifou-se).
+"CIVIL. AÇÃO DE INDENIZAÇÃO. INSCRIÇÃO INDEVIDA NOS CADASTROS DE PROTEÇÃO AO CRÉDITO. DANO MORAL. FIXAÇÃO EM QUANTITATIVO DE SALÁRIOS MÍNIMOS. IMPOSSIBILIDADE. CONVERSÃO PARA MOEDA CORRENTE. DISSÍDIO JURISPRUDENCIAL. VALOR DO RESSARCIMENTO. RAZOABILIDADE.
+I. Orientou-se a jurisprudência tanto do Egrégio Supremo Tribunal Federal, como a do STJ, no sentido de inadmitir a fixação de valor de indenização em quantitativo de salários mínimos, que não serve como indexador para efeito de correção monetária.
+II. Indenização fixada em valor razoável, não justificando a excepcional intervenção do STJ a respeito.
+III. Recurso especial conhecido e parcialmente provido, para determinar a conversão pelo valor equivalente em moeda corrente à data do acórdão recorrido, monetariamente corrigido, a partir daí, pelos índices oficiais" (REsp 1.140.213/SP, Rel. Ministro ALDIR PASSARINHO JUNIOR, QUARTA TURMA, julgado em 24/8/2010, DJe 10/9/2010 - grifou-se).
+Nesse contexto, a divergência do acórdão recorrido com a jurisprudência desta Corte atrai a incidência da Súmula nº 568/STJ.
+Ante o exposto, dou provimento ao recurso especial para determinar que o valor da indenização a título de danos morais, fixado no equivalente a 100 (cem) salários mínimos, seja convertido em moeda corrente pelo salário mínimo vigente à data do arbitramento, sendo corrigido monetariamente, a partir daí, pelos índices oficiais.
+Publique-se.
+Intimem-se.
