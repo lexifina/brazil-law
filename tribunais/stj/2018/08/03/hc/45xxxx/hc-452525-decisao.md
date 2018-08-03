@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LEANDRO MARTINS DOS SANTOS ALENCAR, em face de decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente foi condenado à pena de 6 anos, 2 meses e 20 dias de reclusão, em regime inicial fechado, mais 14 dias-multa, pela prática do delito previsto no art. 157, § 2º, I, do Código Penal.
+Ato seguinte, a defesa interpôs recurso de apelação perante a Corte de origem, a qual lhe proveu parcialmente para 5 anos, 9 meses e 10 dias de reclusão, mais 13 dias-multa.
+No presente habeas corpus, alega a ocorrência de constrangimento ilegal sob o argumento de que deveria ser compensada integralmente a atenuante da confissão espontânea com a agravante da reincidência. Aduz, também, que com a publicação da Lei n. 13.654, de 23 de abril de 2018, que modificou o Código Penal nos dispositivos referentes aos crimes de furto e roubo, houve a supressão da previsão contida no inciso I do § 2º, do art. 157, que apresentava a hipótese de causa especial de aumento de pena relativa ao emprego de arma.
+Requer a concessão da ordem constitucional para que seja redimensionada a reprimenda.
+Indeferida a liminar, prestadas as informações, o Ministério Público Federal manifestou-se pela concessão da ordem.
+É o relatório.
+DECIDO.
+No concernente ao pleito de compensação integral da atenuante da confissão espontânea com a agravante da reincidência, tem-se que a Corte de origem entendeu que (fls. 41):
+Na segunda fase, foram reconhecidas as circunstâncias agravante (reincidência) e atenuante (confissão espontânea), bem como a preponderância daquela, majorando as penas em 1/6.
+Nos termos do art. 67, do Código Penal, a circunstância agravante da reincidência deve preponderar sobre a atenuante decorrente da confissão espontânea, e esse fato inviabiliza a compensação.
+Sem prejuízo, sendo a reincidência, isoladamente considerada, apta o suficiente para majorar as penas em 1/6 (condenação precedente por crime de receptação - fls. 106/107), a confissão espontânea, embora sem força o suficiente para compensação, ao menos se presta à mitigação daquele incremento.
+Assim, incidindo, no caso dos autos, a circunstância preponderante da reincidência, ressalvada a atenuante da confissão espontânea, entendo justificável que o acréscimo, na segunda fase de aplicação das penas se dê em 1/12, totalizando 04 anos e 04 meses de reclusão e 10 dias-multa.
+No que toca à compensação da atenuante da confissão com a agravante da reincidência, a Terceira Seção do STJ, em 23/05/2012, por ocasião do julgamento do EREsp n. 1.154.752/RS, de relatoria do Ministro SEBASTIÃO REIS JÚNIOR, pacificou o entendimento segundo o qual a atenuante da confissão espontânea, na medida em que compreende a personalidade do agente, é circunstância preponderante, devendo ser compensada com a agravante da reincidência, igualmente preponderante. Nesse mesmo sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. ROUBO MAJORADO. DOSIMETRIA. CORREÇÃO DE ERRO MATERIAL QUE ELEVA AS PENAS DO ACUSADO. APELAÇÃO EXCLUSIVA DA DEFESA. REFORMATIO IN PEJUS. CONSTRANGIMENTO ILEGAL EVIDENCIADO. COMPENSAÇÃO INTEGRAL DA REINCIDÊNCIA COM A CONFISSÃO ESPONTÂNEA. IGUAL PREPONDERÂNCIA. REFAZIMENTO DA DOSIMETRIA. OBSERVÂNCIA DOS PATAMARES MÁXIMOS FIXADOS EM SENTENÇA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do Superior Tribunal de Justiça - STJ. Contudo, ante as alegações expostas na inicial, afigura-se razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+2. Tratando-se de apelação exclusiva da defesa, constitui flagrante ilegalidade a correção de erro material que redunde no aumento de pena do réu, por se tratar de reformatio in pejus, vedada no sistema processual pátrio. Diante da ausência de impugnação do Ministério Público à sentença, impõe-se o estabelecimento das penas então fixadas, de 5 anos e 3 meses de reclusão e 12 dias-multa, como patamares máximos de apenação do ora paciente.
+3. A Terceira Seção desta Corte Superior, no julgamento dos Embargos de Divergência n. 1.154.752/RS, em 23/5/2012, pacificou o entendimento de que a atenuante da confissão espontânea deve ser compensada integralmente com a agravante da reincidência, reconhecendo que ambas as causas são igualmente preponderantes.
+Cumpre ressaltar que não se cuida de hipótese de multirreincidência ou reincidência específica, situações em que esta Corte vem admitindo a preponderância da agravante.
+4. Dosimetria refeita. Observância dos limites superiores de pena impostos no primeiro grau.
+Habeas corpus não conhecido. Ordem concedida, de ofício, para restabelecer as penas fixadas em sentença.
+(HC 366.323/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 10/11/2016, DJe 21/11/2016)
+Assim, o entendimento do Tribunal nos sentido de que não seria devida a compensação integral da agravante da reincidência com a atenuante da confissão espontânea, por reputar preponderante a reincidência sobre a confissão, diverge do entendimento desta Corte superior, merecendo reforma, no ponto, a decisão atacada.
+Com relação ao pleito de afastamento da causa de aumento referente à arma, em razão do abolitio criminis, tem-se que a Corte de origem entendeu indevida a exclusão, nos seguintes termos (fls. 41/42):
+Na terceira fase, foi reconhecida a causa de aumento de pena decorrente do emprego de arma, majorando as penas em 1/3, resultando em 05 anos, 09 meses e 10 dias de reclusão e 13 dias-multa, que devem se tornar definitivas, e se mostram como necessárias e suficientes para a reprovação e prevenção do crime.
+De todo impertinente a pretensão de afastamento da causa de aumento de pena respectiva, eis que as facas foram devidamente apreendidas e periciadas, conforme Laudo Pericial juntado às fls. 142/144.
+Constata-se que a majorante aplicada ao caso pelo emprego de faca, antes prevista no inciso I do parágrafo 2º do artigo 157 do Código Penal, foi revogada com o advento da Lei n. 13.654/2018.
+Assim, considerando que o emprego de arma branca deixou de ser causa de aumento de pena específica do delito de roubo, em face de norma penal mais favorável, que deve ser aplicada retroativamente, nos termos do parágrafo único do artigo 2º do Código Penal, afasto a referida causa de aumento.
+Assim, passo ao redimensionamento da pena.
+A pena-base foi fixada no mínimo legal, 4 anos de reclusão e 10 dias-multa (fl. 40), e inalterada na segunda fase diante da compensação entre a agravante da reincidência e a atenuante da confissão espontânea, que, torna-se definitiva, ante a exclusão da causa de aumento referente ao emprego de arma branca.
+O regime inicial deve ser abrandado para o semiaberto, em razão da reincidência do paciente, ainda que a reprimenda final tenha sido reduzida para 4 anos de reclusão, em conformidade com a Súmula 269/STJ.
+Ante o exposto, concedo o habeas corpus para reduzir as reprimendas a 4 anos de reclusão, mais 10 dias-multa, e alterar o regime inicial para o semiaberto.
+Comunique-se.
+Publique-se.
+Intimem-se.
