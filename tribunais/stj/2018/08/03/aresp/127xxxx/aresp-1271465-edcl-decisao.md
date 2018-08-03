@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por BANCO SAFRA S A em face da decisão de fls. 120/121, que não conheceu do recurso.
+Em suas razões, o embargante alega que: "como podemos observar a nobre Ministra foi induzida ao erro e não se atentou para que as duas petições que foram protocoladas. A primeira com as custas de preparo e a segunda com as procurações" (fl. 126).
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, conforme já consignado na decisão ora embargada, que agora se repete, que a parte Recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes à subscritora do agravo em recurso especial, Dra. [NOME] ([OAB]-A).
+É firme o entendimento desta Corte no sentido de que a ausência da cadeia completa de procurações impossibilita o conhecimento do recurso, consoante se depreende do contido na Súmula n.º 115/STJ.
+Ademais, percebeu-se, nessa Corte, a irregularidade na representação processual, razão pela qual houve a intimação da parte Recorrente para que o referido vício fosse sanado. Apesar disso, mesmo tendo sido regularmente intimada para efetuar o saneamento, a parte não regularizou. Dessa forma, a representação processual do recurso não foi devida e oportunamente regularizada.
+Não se desconhece a petição de fls. 115/117. No entanto, ela não pode ser conhecida para os fins a que se destina, uma vez que, com a apresentação da petição de fls. 112/114, ocorreu a preclusão consumativa da prática do ato.
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp 1315507/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/08/2014, DJe 28/08/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, REJEITO os embargos de declaração e advirto a parte Embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2.º, do Código de Processo Civil).
+Publique-se. Intimem-se.
