@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544) interposto por ALIMENKO IMPORTADORA E EXPORTADORA LTDA. contra decisão que inadmitiu o recurso especial porque não demonstrada a violação a dispositivos infraconstitucionais (e-STJ fl. 626).
+O acórdão recorrido está assim ementado (e-STJ fls. 387/388):
+Ação de cobrança - Recurso de apelo interposto pela ré - Preliminar de cerceamento de defesa - Não configuração - Julgamento antecipado da lide se deu de forma acertada - Ao juiz, na condição de destinatário final das provas, cabe indeferir medidas inúteis e meramente protelatórias - Prova documental suficiente para a resolução da controvérsia - Preliminar afastada.
+Ação de cobrança - Recurso de apelo interposto pela ré - Preliminar de inépcia da inicial pela impossibilidade jurídica do pedido - A contratação em moeda estrangeira é válida, desde que o pagamento possa ser efetivado em moeda nacional - Precedentes STJ - Preliminar afastada.
+Ação de cobrança - Recurso de apelo interposto pela ré - Preliminar de inépcia da inicial por ausência de causa de pedir - Mérito da exordial narrado de forma satisfatória - A inicial e os documentos que a acompanham possuem informações suficientes para a apreciação do mérito - Preliminar afastada.
+Ação de cobrança - Mérito - Recurso de apelo interposto pela autora - Transporte marítimo - Sobreestadia de contêiner - Prazo prescricional ânuo - Interpretação analógica do artigo 22 da Lei nº 9.611/98 - Tratamento isonômico para os contratos de transporte multimodal e monomodal - Prescrição afastada apenas com relação ao equipamento MSCU1787880 - ref. BL MSCUIK 424746 - Sentença mantida. Recurso não provido.
+Ação de cobrança - Mérito - Recurso de apelo interposto pela ré - Transporte marítimo - Sobreestadia de contêiner - Ré não desincumbiu do seu ônus de demonstrar que o contêiner foi devolvido dentro do prazo de free time fixado ou que a tarifa de sobreestadia não é devida (Artigo 333, II, do Código de Processo Civil) - Adesão tácita aos termos do contrato de transporte no momento em que foi efetuada a retirada do contêiner - Evidenciada a mora da ré em decorrência do atraso na devolução do equipamento - Tarifa de sobreestadia devida nos moldes fixados pela sentença apelada - Manutenção da verba honorária fixada pelo Juízo a quo - Quantum arbitrado com base nos parâmetros impostos pelo Artigo 20, §3º, do Código de Processo Civil - Sentença integralmente mantida. Recurso não provido.
+Negado provimento aos recursos de apelo interpostos pelas partes.
+Os embargos de declaração foram rejeitados (e-STJ fls. 425/427).
+Nas razões do recurso especial (e-STJ fls. 525/537), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alegou ofensa ao art. 427 do CC/2002 porque não tem responsabilidade na reparação de danos experimentados pela recorrida, uma vez que inexistiu previsão contratual, além de ser outra a empresa responsável pela indenização.
+Defendeu não haver prova do atraso na devolução de container, ônus que era da recorrida, de acordo com os arts. 332 e 333 do CPC/1973.
+Afirmou que deveria existir documento escrito entre as partes com definição de valores, prazos, taxas, preços e responsabilidades para a cobrança de sobreestadia de container, nos termos dos arts. 421, 423, 424 e 427 do CC/2002, para que a recorrida tivesse o direito de cobrança em relação à recorrente.
+Sustentou ser inviável o contrato firmado em moeda estrangeira, de acordo com o art. 1º da Lei n. 857/1969, sendo inepta a inicial.
+No agravo (e-STJ fls. 634/643), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada pela recorrida (e-STJ fls. 647/660).
+É o relatório.
+Decido.
+O recurso especial e o agravo foram interpostos com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+A respeito do atraso na devolução de container e a necessidade de indenizar, os julgadores concluíram (e-STJ fls. 397/398):
+Os termos que regulam a hipótese sobreestadia são claros e se encontram na cláusula 14.9 do Contrato de Transporte (..)
+Não obstante, consta expressamente nas cláusulas G e H do Termo de Compromisso de Responsabilidade de Devolução de Contêiner (Fls. 108), a integral concordância da ré com as condições e procedimentos a serem adotados com relação à devolução dos contêineres, bem como com o valor a ser cobrado pela tarifa de sobreestadia.
+Evidenciada, portanto, a relação jurídica existente entre as partes, assim como a mora da ré pelo atraso na devolução do contêiner, a autora faz jus a indenização pelo tempo em que esteve privada do uso de seu equipamento, nos moldes fixados pela sentença apelada.
+Como se verifica, a Turma julgadora esclareceu haver contrato firmado entre as partes regulando a questão da sobreestadia e da responsabilidade das partes, bem como a existência da mora. Concluir diversamente demandaria a análise do contrato e das provas existentes nos autos, o que é inviável nesta sede, nos termos das Súmulas n. 5 e 7 do STJ.
+Sob outro aspecto, descabe a alegação de que seria outra a empresa responsável pela indenização, pois (e-STJ fl. 399):
+(..) registre-se que a dívida que supostamente pertence à empresa Comercial Importadora de Generos Alimentícios Flor de Liz Ltda., conforme alegado pela autora, se refere ao contêiner em que foi reconhecida a prescrição (fls. 50/53), dispensada a análise nesta oportunidade.
+Incidente a Súmula n. 7 do STJ a obstar entendimento diverso.
+Sobre o contrato firmado em moeda estrangeira, a Turma julgadora esclareceu (e-STJ fl. 391):
+Ao contrário do quanto suscitado pela ré, ao formular os pedidos na petição inicial, a autora requereu expressamente a condenação da postulada ao pagamento em moeda nacional do valor correspondente em dólar americano (fls. 07).
+Em relação ao tema, esta Corte tem entendimento no sentido da validade do contrato firmado em moeda estrangeira, desde que o pagamento se dê pela conversão em moeda nacional. A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E BANCÁRIO. CONTRATOS FIRMADOS EM MOEDA ESTRANGEIRA. CONVERSÃO EM MOEDA CORRENTE NA DATA DO PAGAMENTO. POSSIBILIDADE. LEGALIDADE DOS ENCARGOS DO PERÍODO DA NORMALIDADE CONTRATUAL. MORA CONFIGURADA. PROVIMENTO NEGADO.
+1. Segundo a orientação jurisprudencial deste Tribunal Superior, são legítimos os contratos celebrados em moeda estrangeira, desde que o pagamento se efetive pela conversão em moeda nacional, que deve ocorrer na data do efetivo pagamento.
+2. Consoante pacífica jurisprudência desta Corte Superior de Justiça, a mora do devedor é descaracterizada quando a índole abusiva decorrer da cobrança dos chamados encargos do "período da normalidade" (REsp 1.061.530/RS, Rel. Min. NANCY ANDRIGHI, Segunda Seção, DJe de 10/3/2009; AgRg no REsp 1.115.213/RS, Rel. Min. VASCO DELLA GIUSTINA (Des. Convocado do TJRS), Terceira Turma, DJe de 10/5/2010; EREsp 860.460/RS, Rel. Min. FERNANDO GONÇALVES, Segunda Seção, DJe de 22/5/2009).
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 538.171/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/10/2015, DJe 9/11/2015.)
+DIREITO CIVIL. CONTRATO DE EMPRÉSTIMO CELEBRADO EM MOEDA ESTRANGEIRA E INDEXADO AO DÓLAR. ALEGADA INEXISTÊNCIA DO PACTO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. PAGAMENTO MEDIANTE CONVERSÃO EM MOEDA NACIONAL. CÁLCULO COM BASE NA COTAÇÃO DA DATA DA CONTRATAÇÃO.
+1. O recurso especial não pode ser conhecido quando a indicação expressa do dispositivo legal violado está ausente.
+2. O art. 1º da Lei 10.192/01 proíbe a estipulação de pagamentos em moeda estrangeira para obrigações exequíveis no Brasil, regra essa encampada pelo art. 318 do CC/02 e excepcionada nas hipóteses previstas no art. 2º do DL 857/69. A despeito disso, pacificou-se no STJ o entendimento de que são legítimos os contratos celebrados em moeda estrangeira, desde que o pagamento se efetive pela conversão em moeda nacional.
+3. A indexação de dívidas à variação cambial de moeda estrangeira é prática vedada desde a entrada em vigor do Plano Real, excepcionadas as hipóteses previstas no art. 2º do DL 857/69 e os contratos de arrendamento mercantil celebrados entre pessoas residentes e domiciliadas no País, com base em captação de recursos provenientes do exterior (art. 6º da Lei 8.880/94).
+5. Quando não enquadradas nas exceções legais, as dívidas fixadas em moeda estrangeira deverão, no ato de quitação, ser convertidas para a moeda nacional, com base na cotação da data da contratação, e, a partir daí, atualizadas com base em índice oficial de correção monetária.
+6. Recurso especial conhecido em parte e parcialmente provido.
+(REsp n. 1.323.219/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 27/8/2013, DJe 26/9/2013.)
+Assim, havendo pagamento em moeda nacional, inafastável a validade do contrato. Incidência da Súmula n. 83 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
