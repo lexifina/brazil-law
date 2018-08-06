@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de PAULO GOMES DE MELO, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Agravo em Execução Penal n. 7002517-98.2017.8.26.0344).
+Consta dos autos que o paciente cumpre pena de 12 anos de reclusão, pelo cometimento dos delitos previstos nos arts. 121, §2º, II e IV, e 304, c/c o art. 297, todos do Código Penal.
+Formulado pedido de progressão ao regime semiaberto, foi ele deferido pelo Juízo de piso.
+Inconformado, o Ministério Público interpôs agravo em execução, objetivando a determinação de realização de exame criminológico para aferição do requisito subjetivo para que o paciente pudesse progredir de regime.
+O Tribunal de origem deu parcial provimento ao recurso, nos termos da seguinte ementa (e-STJ fl. 28):
+AGRAVO EM EXECUÇÃO - HOMICÍDIO QUALIFICADO e USO DE DOCUMENTO FALSO - Recurso Ministerial para cassar a progressão de regime prisional. Necessidade de realização do exame criminológico antes de apreciar o mérito. Crimes graves, sendo um deles hediondo, demonstrando a necessidade de melhor avaliação do sentenciado antes de reinserí-lo no meio social - AGRAVO PARCIALMENTE PROVIDO, determinando-se a realização do exame criminológico.
+No presente writ, sustenta a defesa, em linhas gerais, que o paciente sofre constrangimento ilegal, tendo em vista que o acórdão estadual teria determinado a realização de exame criminológico apenas tendo em conta a gravidade do delito, sem apresentar motivação suficiente. Invoca, a propósito, a Súmula n. 439/STJ.
+Requer, liminarmente, que seja o paciente imediatamente transferido para o regime semiaberto sem a realização de exame criminológico. No mérito, pugna pelo restabelecimento da decisão proferida pelo Juízo singular, para que seja o paciente beneficiado com a progressão ao regime semiaberto.
+O pleito urgente foi indeferido (e-STJ fls. 37/39).
+As informações foram prestadas (e-STJ fls. 43/47).
+O Ministério Público Federal opinou pela concessão da ordem, a fim de que se restabeleça a decisão do Juízo das Execuções Criminais (e-STJ fls. 50/55).
+É, em síntese, o relatório.
+A questão posta a deslinde refere-se à necessidade de realização de exame criminológico para aferir se o paciente está apto a ser beneficiado com a progressão ao regime semiaberto.
+Com a nova redação dada ao art. 112 da Lei n. 7.210/1984, pela Lei n. 10.792/2003, suprimiu-se a realização de exame criminológico como expediente obrigatório, mantendo-se apenas como requisitos legais o cumprimento de determinada fração da pena aplicada e o bom comportamento carcerário, a ser comprovado pelo diretor do estabelecimento.
+Confira-se:
+Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos 1/6 (um sexto) da pena no regime anterior e ostentar bom comportamento carcerário, comprovado pelo diretor do estabelecimento, respeitadas as normas que vedam a progressão.
+Contudo, a despeito de o exame não ser requisito obrigatório para a progressão do regime prisional, em hipóteses excepcionais, os Tribunais Superiores vêm admitindo a sua realização para a aferição do mérito do apenado.
+Segundo esse entendimento, o Magistrado de primeiro grau, ou mesmo o Tribunal, diante das circunstâncias do caso concreto, pode determinar a realização da referida prova técnica para a formação de seu convencimento. Aliás, tal entendimento foi consolidado no enunciado da Súmula n. 439 desta Corte:
+Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada.
+O tema também foi objeto da Súmula Vinculante n. 26 do Supremo Tribunal Federal:
+Para efeito de progressão de regime no cumprimento de pena por crime hediondo, ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º da Lei n. 8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo determinar, para tal fim, de modo fundamentado, a realização de exame criminológico.
+No caso dos autos, o Juízo da Vara das Execuções Criminais da Comarca de São Vicente/SP deferiu o pedido de progressão do paciente ao regime semiaberto, entendendo estarem preenchidos os requisitos objetivo e subjetivo (e-STJ fls. 14/17).
+O Tribunal de origem, contudo, ao julgar o agravo interposto pelo Ministério Público, reformou a decisão de primeiro grau, deixando assente que (e-STJ fls. 29/30):
+Em que pese os respeitáveis argumentos usados na fundamentação da r. decisão objurgada, entendo que a longa pena ainda por cumprir e a gravidade em concreto dos crimes cometidos pelo agravado (em especial o homicídio) recomendam maior cautela antes de se conceder a progressão de regime.
+Neste aspecto, entendo ser o caso de, antes de decidir acerca do merecimento da benesse, determinar-se a realização do exame criminológico no agravado para. comprovar se o mesmo reúne condições de vivenciar um regime mais brando.
+A realização do exame criminológico deixou de ser obrigatória com o advento da Lei 10.792/200.1, sendo que o entendimento firmado por esta C. Câmara Criminal é no sentido da constitucionalidade da referida norma.
+Não se pode negar, contudo, que o exame criminológico, embora não mais obrigatório, serve de importante substrato ao julgador na concessão de benefícios.
+É certo, também, que cabe ao juízo a determinação de sua realização, se assim entender necessário.
+Na espécie, em função da gravidade em concreto dos crimes pelos quais o sentenciado foi condenado - homicídio qualificado, hediondo, portanto há a necessidade de melhor avaliação do mérito pessoal do condenado por meio de perícia antes de sua reinserção no meio social.
+Como se vê, a Corte local, ao determinar a realização do exame criminológico, não logrou fundamentar a necessidade do referido exame, deixando de invocar elementos concretos dos autos que pudessem justificar a sua realização, levando em conta apenas a gravidade do crime e a longa pena a cumprir. Ademais, consta das informações prestadas pela Vara de Execuções Criminais de Marília/SP que o paciente, enquanto cumpria pena no regime semiaberto, usufruiu de saída temporária e retornou sem incidentes, não havendo, ainda, registro de falta disciplinar no cumprimento recente da pena (e-STJ fl. 43).
+Dessa forma, não havendo nenhuma circunstância que demonstre, efetivamente, a necessidade de realização de exame criminológico, deve ser reconhecida a ilegalidade da sua exigência.
+Ante o exposto, concedo a ordem para cassar o acórdão proferido no julgamento do Agravo em Execução Penal n. 7000957-62.2017.8.26.0590, e, consequentemente, restabelecer a decisão de primeiro grau que deferiu ao ora paciente a progressão ao regime semiaberto.
+Publique-se. Intimem-se.
