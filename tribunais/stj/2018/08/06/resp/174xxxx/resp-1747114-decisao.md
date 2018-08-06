@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com amparo no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que manteve o regime inicial fechado para o início de cumprimento de reprimenda.
+Sustenta o recorrente violação do artigo 33, § 2º, "c", do Código Penal, sob o fundamento de que não há motivação idônea para a fixação do regime fechado para o início do cumprimento de sua pena, haja vista a consideração favorável de todas as circunstâncias judiciais e a pena aplicada não superar 4 anos de reclusão.
+Requer, assim, o provimento do recurso especial, a fim de que seja aplicado o regime aberto.
+Contrarrazões apresentadas (e-STJ, fls. 254-267) e admitido o inconformismo, os autos ascenderam ao STJ.
+O Ministério Público Federal manifestou-se pelo parcial provimento do recurso (e-STJ, fls. 282-283).
+É o relatório.
+Decido.
+Consta dos autos que o recorrente foi condenado ao cumprimento de 4 (quatro) anos de reclusão, no regime fechado, em razão da prática do crime previsto no artigo 157, caput, do Código Penal.
+Interposta apelação defensiva, pleiteando pela fixação do regime inicial aberto, o Tribunal de origem negou provimento ao recurso, com o seguinte fundamento:
+"O regime deve ser estabelecido em atenção às circunstâncias judiciais indicadas no artigo 59, do Código Penal, observado o que dispõe o artigo 33, § 3º, do mesmo Diploma.
+E, no caso, o regime mais adequado para o cumprimento da pena reclusiva imposta ao réu é mesmo o fechado, porquanto condenado pela prática de roubo, infração penal repugnante que, por suas circunstâncias e consequências, desassossega a sociedade e causa traumas profundos em suas vítimas, sendo irrelevante a primariedade do réu.
+ ..
+De mais a mais, a conduta do apelante revelou periculosidade concreta e efetiva, haja vista que, em plena luz do dia, de maneira ousada e irresponsável, abordou e ameaçou a vítima, simulando estar armado, colocando em evidente risco sua integridade física, acabando por subtrair seu veículo e as peças de roupa que estavam no seu interior, o que justifica a mantença, ao menos inicialmente, do regime mais rigoroso." (e-STJ, fls. 211-212).
+Sobre o tema, cumpre ressaltar que a Súmula 440/STJ dispõe que "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito".
+No mesmo sentido, o Verbete n. 718 da Suprema Corte, afirma que "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+Na hipótese dos autos, como se observa, o regime prisional mais grave foi estabelecido com amparo em argumentos genéricos, sem a indicação concreta da maior gravidade do fato ou periculosidade real do agente, o que viola o disposto no art. 33, §§ 2º e 3º, do Código Penal e contraria os enunciados sumulares acima indicados.
+Desse modo, tratando-se de réu primário e tendo sido valoradas como favoráveis as circunstâncias judiciais, a pena privativa de liberdade deve ser cumprida, desde logo, em regime aberto, por força do disposto no art. 33, §§ 2º, alínea "c", e 3º, do Código Penal.
+Convém anotar que, uma vez considerado pelo Tribunal de origem que as circunstâncias fáticas do delito não desbordam das ínsitas ao crime de extorsão, tanto que fixada a pena-base no mínimo legal, afigura-se desarrazoada a imposição de regime prisional mais rigoroso do que o indicado pela quantidade de pena.
+A seguir os seguintes precedentes que respaldam tal entendimento:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ROUBO MAJORADO TENTADO. REGIME DE CUMPRIMENTO DE PENA. RÉU PRIMÁRIO. PENA-BASE FIXADA NO MÍNIMO LEGAL. SÚMULA 440/STJ. REGIME ABERTO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. A Terceira Seção deste Superior Tribunal de Justiça, por ocasião do julgamento dos Embargos de Divergência n. 961.863/RS, firmou o entendimento de que é despicienda a apreensão e a perícia da arma de fogo para a incidência da majorante, quando existirem, nos autos, outros elementos de prova que evidenciem a sua utilização nos crimes de roubo e extorsão, como na hipótese, em que há farta comprovação testemunhal atestando o seu emprego.
+3. De acordo com a Súmula 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito"; e com a Súmula 719/STF, "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+4. Os fundamentos genéricos utilizados no decreto condenatório não constituem motivação suficiente para justificar a imposição de regime prisional mais gravoso que o estabelecido em lei (art. 33, §§ 2º e 3º, do Código Penal), contrariando a Súmula 440 deste Superior Tribunal. Nesse diapasão, tratando-se de réu primário, cujas circunstâncias judiciais foram favoravelmente valoradas, por força do disposto no art. 33, §§ 2º, alínea "b", e 3º, do Código Penal, deve a reprimenda ser cumprida, desde logo, em regime aberto.
+5. Habeas corpus não conhecido. Ordem concedida, de ofício, para fixar o regime prisional aberto para o desconto da sanção corporal, salvo se, por outro motivo, o paciente estiver descontando pena em regime mais severo.
+(HC 411.423/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 07/12/2017, DJe 14/12/2017)
+"PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO MAJORADO PELO CONCURSO DE AGENTES E EMPREGO DE ARMA. REGIME INICIAL. ANÁLISE DOS ARTIGOS 33, § 2º, ALÍNEA C, E § 3º, E DO ARTIGO 59, AMBOS DO CÓDIGO PENAL. RÉU PRIMÁRIO. PENA-BASE FIXADA NO MÍNIMO LEGAL. AUSÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. QUANTUM DE PENA INFERIOR A 4 ANOS. REGIME ABERTO.
+A adoção do regime inicial fechado a réu primário, condenado a sanção inferior a 4 anos, cuja pena-base foi estabelecida no mínimo legal por ausência de circunstâncias desfavoráveis, tão somente em virtude da gravidade abstrata do delito de roubo majorado pelo concurso de agentes e emprego de arma, não se admite, nos termos das Súmulas 440/STJ, 718 e 719/STF (AgRg no REsp n. 1.479.875/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 12/2/2015).
+Agravo regimental desprovido."
+(AgRg no REsp 1.547.858/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 24/05/2016, DJe 03/06/2016).
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para fixar o regime inicial aberto de cumprimento de pena.
+Publique-se. Intimem-se.
