@@ -1,0 +1,34 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. CUMPRIMENTO DE SENTENÇA. EXCEÇÃO DE PRÉ EXECUTIVIDADE. TRANSPORTE INTERNACIONAL. CAPACIDADE E REPRESENTAÇÃO PROCESSUAL. IRREGULARIDADE. AUSÊNCIA. INVALIDADE DO TÍTULO. INEXISTÊNCIA. ALTERAÇÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. QUESTÕES NÃO IMPUGNADAS NO RECURSO ESPECIAL. SÚMULA Nº 283 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+BASKA ASSESSORIA SERVICOS E COMISSARIOS ADUANEIROS TDA (BASKA) interpôs agravo de instrumento da decisão que, em exceção de pré executividade por ele proposta nos autos do cumprimento de sentença proposto por HAPAG-LLOYD BRASIL AGENCIAMENTO MARITIMO LTDA (HAPAG-LLOYD), indeferiu seu pedido de tutela provisória.
+O tribunal de origem negou provimento ao recurso, conforme se verifica do acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - Defeito de representação processual e vício de documento indispensável à propositura da ação - Questões que deveriam ter sido discutidas na fase de conhecimento por não se tratar de fato superveniente à formação do título executivo judicial - Preclusão - Inteligência do art. 245 do CPC - Recurso não provido (e-STJ, fls. 761).
+Inconformada, BASKA interpôs recurso especial, com fundamento no art. 105, III, a e c, da CF, alegando violação dos arts. 157, 267 § 3º e 301, § 4º, do CPC/73. Sustentou 1) nulidade do processo de execução ante a falta de capacidade postulatória e processual da recorrida; questões de ordem pública que podem ser suscitadas a qualquer tempo, sendo descabido falar em preclusão do direito à sua alegação e apreciação; 2) iliquidez dos títulos objeto da demana (e-STJ, fls. 656/688).
+Contrarrazões oferecidas (e-STJ, fls. 721/734).
+O apelo nobre não foi admitido na origem (e-STJ, fls. 735/736).
+Interposto agravo em recurso especial por TNX (e-STJ, fls. 815/849).
+Foi apresentada contraminuta (e-STJ, fls. 852/856).
+É o relatório.
+Decido.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A irresignação não merece prosperar.
+1) Da falta de capacidade postulatória e processual, e ausência de preclusão
+A agravante alega falta de capacidade processual e postulatória da agravada, bem como que referidas questões por serem de ordem pública, não estariam acobertadas pela preclusão, pois podem ser suscitadas e apreciadas a qualquer tempo.
+A esse respeito, a Corte estadual, afastou as alegações por entender que a questão já estaria consolidada pelo manto da preclusão, pois não discutidas em sede cognitiva como deveriam, por se não se caracterizar como nulidade a ser reconhecida de ofício pelo juiz, nos termos do trecho a seguir:
+Não pode a agravante querer modificar questão já consolidada pelo manto da preclusão, considerando-se que deixou de discutir os assuntos ora apresentados em sede cognitiva.
+Conforme dispõe do artigo 245 do CPC, "a nulidade dos atos deve ser alegada na primeira oportunidade em que couber a parte falar nos autos, sob pena de preclusão". As questões aqui levantadas pela agravante não se caracterizam como nulidade a ser reconhecida de ofício pelo juiz, de forma que deveriam ter sido discutidas na fase de conhecimento por não se tratarem de fatos supervenientes à formação do título executivo judicial.
+Saliente-se que as procurações e substabelecimento apresentados gozam de presunção de validade, incumbindo à parte contrária impugná-los na primeira oportunidade em que couber manifestar-se nos autos, sob pena de preclusão (e-STJ, fls. 640) grifo nosso.
+Assim, ultrapassar a conclusão a que chegou o eg. Tribunal a quo, acerca da inexistência de nulidades passiveis de serem apreciadas a qualquer tempo, demandaria nova incursão no arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, pois vedado pela Súmula 7 desta Corte: A pretensão de simples reexame de prova não enseja recurso especial.
+Outrossim, relativamente aos fundamentos de que referidas nulidades deveriam ter sido discutidas na fase de conhecimento por não se tratarem de fatos supervenientes, pois já existentes à época da formação do título executivo, e de que as procurações e substabelecimentos apresentados gozam de presunção de validade, cabendo à agravante refutá-los, verifica-se a ausência de impugnação nas razões do recurso especial, o que atrai a incidência da Súmula nº 283 do STF.
+2) Da invalidade do título
+Relativamente à alegação de invalidade do título, extrai-se do acórdão recorrido:
+Por sua vez, a jurisprudência do STJ possui orientação no sentido de ser dispensável a tradução juramentada de documento redigido em língua estrangeira quando o idioma estrangeiro não representa óbice a sua compreensão e valoração, principalmente quando a validade e conteúdo desses documentos não fora contestada pela parte interessada, e a falta não resulte em prejuízo para quaisquer das partes ou para a correta instrução do feito.
+Precedentes: REsp 924.992/PR, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe 26/05/2011; REsp 616.103/SC, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJ 27/09/2004, REsp 616.103/SC, Rel. Min. TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, DJUde 27/09/2004; e REsp 151.079/SP, Rel. Min. BARROS MONTEIRO, QUARTA TURMA, DJU de 29/11/2004.
+Nessa esteira, por meio de exceção de pré executividade não é mais possível levantar discussões desse viés.
+Diante dessas considerações, a r. decisão fica mantida (e-STJ, fls. 640).
+Alterar o entendimento acerca do preenchimento dos requisitos para aceitação do título e sua validade, bem como à ausência de prejuízo para qualquer das partes, também demandaria o reexame fático-probatório dos autos, obstado pela Súmula 7 do STJ.
+Outrossim, o fundamento relativo à impossibilidade de discussão acerca da validade do título em sede de exceção de pré executividade, não foi impugnado no recurso especial, a atrair, mais uma vez, a incidência da Súmula nº 283 do STF, também quanto ao ponto.
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
