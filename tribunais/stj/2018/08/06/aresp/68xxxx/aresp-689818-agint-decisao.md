@@ -1,0 +1,24 @@
+DECISÃO
+À vista das razões do agravo interno de fls. 611/616, reconsidero a decisão de fls. 602/607, tornando-a sem efeito, e passo à nova análise do recurso.
+Trata-se de agravo interposto por COMPANHIA PAULISTA DE TRENS METROPOLITANOS - CPTM - contra decisão que negou seguimento ao recurso especial, fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado em face de acórdão proferido pela Décima Oitava Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 443):
+AÇÃO DE INDENIZAÇÃO. Acidente de trem. Vítima fatal. Improcedência decretada em primeiro grau.
+Culpa concorrente caracterizada. A concessionária age com negligência quando deixa de fiscalizar e evitar a irregular circulação de transeuntes na linha férrea.
+Dano moral arbitrado em R$ 80.000,00.
+Ação parcialmente procedente. Sentença reformada.
+RECURSO PARCIALMENTE PROVIDO.
+A agravante sustenta, nas razões de recurso especial, ofensa aos artigos 21, caput, 165, 458, II e 535, I e II, do Código de Processo Civil de 1973; 1.062 e 1.063 do Código Civil de 1916; 6º da Lei de Introdução às Normas do Direito Brasileiro; 405, 406 e 1.536, § 2º, do Código Civil de 2002; e 7º, IV da Constituição Federal, bem como divergência jurisprudencial, alegando a ocorrência de negativa de prestação jurisdicional com a rejeição dos embargos de declaração e, no mérito, que a responsabilidade em indenizar decorrente de acidente em linha férrea tem cunho contratual, e, portanto, os juros não deveriam incidir a partir do evento danoso, que o percentual utilizado quanto aos juros de mora deveria ser o previsto no Código Civil de 1916, de 0,5% ao mês e não o do Código Civil de 2002 (1% ao mês) adotado na origem, eis que o acidente teria ocorrido em 21/7/1997, e, por fim, a necessidade de redução do valor da condenação dos danos morais e materiais para a metade, tendo em vista o reconhecimento de culpa concorrente, e também sua influência sobre os ônus da sucumbência.
+Assim delimitada a controvérsia, passo a decidir.
+Depreende-se dos autos que a sentença julgou improcedente os pedidos efetuados com fundamento em excludente de responsabilidade, isto é, na culpa exclusiva da vítima, porquanto viajava irregularmente do lado de fora da composição.
+O acórdão recorrido, com base no argumento de que, à época dos fatos, "as medidas de segurança existentes não eram tão eficientes a ponto de impedir o acesso irregular de pessoas nas composições" (fl. 453), deu provimento ao recurso de apelação para condenar a ré no pagamento de danos materiais e morais, fixando a verba honorária em 10% (dez por cento) sobre o valor da condenação.
+A ré, por sua vez, opôs embargos de declaração, suscitando esclarecimentos sobre a limitação do pedido inicial, no sentido de que a pensão fosse fixada em 2/3 dos rendimentos da vítima sobre o termo final do pensionamento; a forma de cálculo do salário mínimo; os juros de mora e a influência do reconhecimento da culpa concorrente sobre as parcelas fixadas e os ônus da sucumbência.
+Ocorre que os embargos de declaração foram rejeitados de forma genérica, afirmando que não havia vício a sanar.
+Verifico, entretanto, que os pontos suscitados são importantes para delimitação clara e o posterior cumprimento do provimento jurisdicional. As balizas dos danos materiais devem ser melhor esclarecidas, inclusive no que concerne ao argumento de ocorrência de julgamento ultra petita, e o efeito da concorrência de culpas sobre as indenizações fixadas e a sucumbência.
+Assim, foram suscitadas questões importantes para o deslinde da controvérsia, sem, contudo, obter pronunciamento jurisdicional a respeito, o que caracteriza ofensa ao artigo 535 do CPC/73, atualmente previsto no art. 1.022 do CPC/15.
+Confira-se, nesse sentido, o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL RECONHECIDA EM RELAÇÃO A UM DOS RECURSOS. PRETENSÃO DE REFORMA DO DECISUM. IMPROCEDÊNCIA DAS ALEGAÇÕES. NECESSIDADE DE ENFRENTAMENTO DAS MATÉRIAS SUSCITADAS NOS ACLARATÓRIOS PELO TRIBUNAL DE ORIGEM. AGRAVO DESPROVIDO.
+1. O não enfrentamento pelo Tribunal de origem de tese suscitada pelo agravado nos aclaratórios caracteriza negativa de prestação jurisdicional, impondo-se o retorno dos autos à origem a fim de que seja sanado o vício apontado, independentemente da compreensão a ser alcaçada.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 476.736/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 22.6.2017);
+Com o acolhimento da preliminar de negativa de prestação jurisdicional, ficam prejudicadas as demais ofensas suscitadas no recurso especial.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial, a fim de determinar o retorno dos autos para que o Tribunal de origem supra as omissões e obscuridades apontadas.
+Intimem-se.
