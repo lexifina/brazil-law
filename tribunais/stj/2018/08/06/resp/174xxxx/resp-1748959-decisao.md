@@ -1,0 +1,29 @@
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. PRESCRIÇÃO. INCAPACIDADE ABSOLUTA. ART. 3º DO CC. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social contra acórdão proferido pelo TRF-4ª Região, assim ementado:
+PREVIDENCIÁRIO. REMESSA NECESSÁRIA. BENEFÍCIO ASSISTENCIAL. CONSECTÁRIOS LEGAIS. CUSTAS. HONORÁRIOS. MAJORAÇÃO.
+1. O art. 59 da Lei n.º 8.213/91 estabelece que o auxílio-doença será devido ao segurado que, havendo cumprido, quando for o caso, o período de carência exigido na referida lei, ficar incapacitado para o seu trabalho ou para a sua atividade habitual por mais de 15 (quinze) dias consecutivos.
+2. O direito ao benefício assistencial de prestação continuada instituído pelo art. 203, V, da Constituição Federal e regulamentado pela Lei nº 8.742/3 (LOAS) é assegurado à pessoa portadora de deficiência e ao idoso (idade de 65 anos ou mais), desde que qualquer deles esteja em situação de risco social, quer porque a renda familiar per capita é inferior a 1/4 do salário mínimo (art. 20, § 3º, da Lei nº 8.742/93), quer porque o conjunto probatório demonstra essa situação de miserabilidade.
+3. Em consonância com o entendimento fixado pelo Plenário do STF no Tema 810, oriundo do RE 870947, a correção monetária incidirá a contar do vencimento de cada prestação e será calculada pelos índices oficiais e aceitos na jurisprudência, quais sejam:
+a) INPC (de 04-2006 a 29-06-2009, conforme o art. 31 da Lei n.º 10.741/03, combinado com a Lei n.º 11.430/06, precedida da MP n.º 316, de 11-08-2006, que acrescentou o art. 41-A à Lei n.º 8.213/91); b) IPCA-E (a partir de 30-06-2009, conforme RE 870.947, j. 20-09- 2017). Já os juros de mora serão de 1% (um por cento) ao mês, aplicados a contar da citação (Súmula 204 do STJ), até 29-06-2009. A partir de 30-06-2009, segundo os índices oficiais de remuneração básica e juros aplicados à caderneta de poupança, conforme art. 5º da Lei 11.960/09, que deu nova redação ao art. 1º-F da Lei nº 9.494/97.
+4. Nos termos do art. 85, § 11, do CPC, "O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento."
+Em suas razões de recurso especial, sustenta o INSS que o Tribunal a quo negou vigência aos artigos 3º, 189 e 198 do CC, porquanto somente serão considerados absolutamente incapazes os menores de 16 anos, o que não é a situação dos autos.
+Em contrarrazões ao recurso especial, sustenta-se a manutenção do acórdão recorrido.
+Noticiam os autos que [NOME], representado por [NOME], ajuizou ação em face do INSS, objetivando um benefício por incapacidade ou benefício assistencial.
+A sentença julgou o pedido procedente reconhecendo o direito ao benefício assistencial.
+A parte ora recorrente apelou, tendo o Tribunal a quo negado provimento ao recurso, nos termos da ementa supratranscrita.
+O INSS opôs embargos de declaração, acolhidos para sanar omissão, sem efeito modificativo.
+É o relatório, decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A tese central do recurso consiste em reconhecer que a parte autora não deve ser enquadrada como absolutamente incapaz, tendo em vista a alteração do artigo 3º do CC promovida pela Lei n. 13.146/2015, e, portanto, não pode ser beneficiada com a não incidência da prescrição do artigo 198 do Código Civil.
+O Tribunal a quo, concluiu que o processo de interdição, com a nomeação do curador ocorreu antes da alteração do artigo 3º do Código Civil de modo que o autor, ora recorrido, pode ser reconhecido como absolutamente incapaz, fundamento que por si só mantém a improcedência do recurso de apelação do INSS, que não foi impugnado em sede de recurso especial, atraindo o óbice da Súmula 283/STF.
+Ilustrativamente:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALTA DE IMPUGNAÇÃO, NO RECURSO ESPECIAL, DOS FUNDAMENTOS DO ACÓRDÃO COMBATIDO, SUFICIENTES PARA A SUA MANUTENÇÃO. INCIDÊNCIA DA SÚMULA 283/STF. AUXÍLIO-ACIDENTE. NEXO CAUSAL AFASTADO, PELO TRIBUNAL A QUO, À LUZ DAS PROVAS DOS AUTOS. REVISÃO DA CONCLUSÃO ADOTADA NA ORIGEM. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Não merece prosperar o Recurso Especial, quando a peça recursal não refuta determinado fundamento do acórdão recorrido, suficiente para a sua manutenção, em face da incidência da Súmula 283 do STF ("é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+II. Considerando a fundamentação adotada, na origem, quanto à inexistência de nexo causal entre as atividades desenvolvidas pelo autor e a moléstia incapacitante, o acórdão recorrido somente poderia ser modificado mediante o reexame dos aspectos concretos da causa, o que é obstado, no âmbito do Recurso Especial, pela Súmula 7 desta Corte.
+II. Agravo Regimental improvido.
+(AgRg no AREsp 784.396/SP, Segunda Turma, Relatora Ministra Assusete Magalhães, DJe 29/3/2016)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Quanto ao ônus da sucumbência, em observância ao artigo 85 do CPC/2015 c/c Enunciado Administrativo 7/STJ, fixo honorários de advogado recursais no valor correspondente a R$ 600,00 (seiscentos reais).
+Publique-se e intimem-se.
