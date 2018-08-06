@@ -1,0 +1,22 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO EM RECURSO ESPECIAL QUE NÃO INFIRMA TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA, INCIDÊNCIA DO ART. 932, III, DO NCPC. AGRAVO NÃO CONHECIDO.
+DECISÃO
+Da leitura da minuta de agravo de instrumento que deu origem ao presente recurso, pode-se aferir que ACF INDÚSTRIA DE PLÁSTICOS LTDA. ME em RECUPERAÇÃO JUDICIAL (ACF) apresentou pedido de quebra de trava bancária em contrato celebrado com o BANCO DO BRASIL S.A. (BB).
+Foi proferida decisão pelo juízo da recuperação judicial indeferindo o pedido da ACF que, inconformada interpôs agravo de instrumento ao qual foi negado provimento por meio de decisão monocrática (e-STJ, fls. 1012/1015).
+ACF interpôs agravo regimental apreciado conforma acórdão assim ementado:
+Agravo interno. Decisão monocrática em agravo de instrumento. Pode o Relator, com base nas disposições do art. 557, do Código de Processo Civil, negar seguimento ou dar provimento a recurso. Recuperação judicial. Contrato de cessão e aquisição de direitos creditórios. Crédito que não se subsume a recuperação judicial, consoante § 3º do artigo 49 da Lei nº 11.10112005. Contrato registrado no Cartório de Títulos e Documentos antes do ajuizamento do pedido de recuperação judicial. Precedentes da Corte. Não trazendo a parte agravante qualquer argumento novo capaz de modificar o entendimento adotado na decisão monocrática hostilizada, apenas reeditando a tese anterior, improcede o recurso interposto. Agravo interno não provido (e-STJ, fl. 1027).
+Os embargos de declaração foram rejeitados (e-STJ, fls. 1044/1048).
+ACF desafiou recurso especial com base no art. 105, III, a e c, da CF, sob a alegação de violação dos arts. 535 do CPC/73; 49, § 3º, da Lei 11.101/2005, pelos fundamentos assim sintetizados (1) que o contrato a que se refere à correspondência do BB não possui garantia performada para fins de incidência do art. 49, § 3º, da LRJ, mas de mera cessão de direitos creditórios sem garantia pré-constituída; (2) a eliminação da trava bancária é medida de relevância tendo em vista o princípio da preservação da empresa; (3) o referido crédito está submisso à recuperação judicial; (4) o acórdão padece de vício de omissão.
+O Tribunal local inadmitiu o apelo nobre por (1) inexistência de ofensa ao art. 535 do CPC/73; (2) aplicação das Súmulas nºs 7 e 83 do STJ; (3) não configuração do dissídio jurisprudencial.
+ACF ingressou com agravo em recurso especial sustentando que (1) ficou demonstrada a ofensa ao art. 535 do CPC/73; (2) não se aplica a Súmula nº 83 do STJ; (3) a pretensão recursal não esbarra na Súmula nº 7 do STJ; (4) o dissídio jurisprudencial ficou demonstrado.
+Sem contraminuta.
+Parecer ministerial pelo não provimento do agravo (e-STJ, fls. 1137/1143)
+É o relatório.
+A irresignação não comporta conhecimento.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Da leitura das razões recursais, observo que o inconformismo não se dirigiu de forma específica contra o fundamento da decisão agravada atinente à incidência da Súmula nº 83 do STJ.
+Na hipótese em que se pretende impugnar, em agravo no recurso especial, a incidência da Súmula nº 83 do STJ, é necessária a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, ou, que a divergência é atual.
+Nessas condições, com fundamento no art. 932, III, do NCPC, NÃO CONHEÇO do agravo.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 77, §§ 1º e 2º, 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
