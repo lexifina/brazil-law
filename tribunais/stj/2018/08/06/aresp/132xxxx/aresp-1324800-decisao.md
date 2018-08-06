@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto pela Companhia Estadual de Águas e Esgotos - CEDAE, desafiando decisão do Tribunal de Justiça do Estado do Rio de Janeiro que não admitiu o recurso especial sob os seguintes fundamentos: (I) rever a conclusão da Turma julgadora, no tocante à suposta ilegitimidade da recorrente, conforme colocado nas razões recursais, exigiria a interpretação dos termos de concessão celebrada com a municipalidade, providência vedada em recurso especial, o que atrai a incidência das Súmulas 5 e 7/STJ; e (II) na incidência da Súmula 284/STF à espécie, porquanto, "os argumentos da recorrente, no sentido da legalidade da tarifa cobrada, não se relacionam em nada com o contexto dos autos, que cuidam do seu dever de exibir as faturas relativas ao consumo de água e esgoto" (fl. 390).
+É o relatório.
+De plano, verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois a parte agravante não impugnou todos os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial, deixando de rebater, de modo específico, a apontada aplicação do óbice previsto na Súmula 5/STJ ("a simples interpretação de cláusula contratual não enseja recurso especial"), fundamento autônomo e suficiente para a manutenção da decisão ora agravada.
+A propósito:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. IPTU E TCDL. COMPENSAÇÃO DE CRÉDITOS. EXTINÇÃO DA EXECUÇÃO. ÔNUS SUCUMBENCIAIS. OFENSA AO ART. 535 DO CPC/1973. NÃO CARACTERIZADA. CONTRATO. NECESSIDADE DE REEXAME DE PROVA. SÚMULA 7/STJ. ANÁLISE DE CLÁUSULAS CONTRATUAIS. SÚMULA 5/STJ. ANÁLISE DE LEI LOCAL. INVIABILIDADE. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 280/STF. FUNDAMENTO INATACADO. SÚMULA 283/STF.
+1. Não se configura a ofensa ao art. 535 do CPC/1973, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram.
+2. Para modificar as conclusões da Corte local, seria imprescindível o reexame das provas constantes dos autos, bem como das cláusulas contratuais ajustadas, o que é defeso em Recurso Especial, nos termos preconizados nas Súmulas 5 e 7/STJ.
+3. Verifica-se que a demanda foi dirimida no acórdão recorrido com base em Direito local, in casu, a Lei Estadual 3.350/1999 e a Lei Municipal 5.261/2011. Logo, é inviável sua apreciação em Recurso Especial, em face da incidência, por analogia, da Súmula 280 do STF: "Por ofensa a direito local não cabe recurso extraordinário."
+4. Por fim, constato que não foi impugnado fundamento do acórdão recorrido, no caso, a aplicação do art. 123 do CTN, o que atrai a incidência da Súmula 283/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp 896.170/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/11/2016, DJe 17/11/2016)
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Diante do exposto, não conheço do agravo.
+Publique-se.
