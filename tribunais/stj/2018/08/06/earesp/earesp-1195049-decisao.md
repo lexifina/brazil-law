@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por [NOME] e outros contra acórdão proferido pela Segunda Turma desta Corte, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ. AGRAVO INTERNO. RECURSO QUE NÃO IMPUGNA, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ E ART. 1.021, § 1º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO, COM APLICAÇÃO DA MULTA, PREVISTA NO ART. 1.021, § 4º, DO CPC/2015.
+I. Agravo interno aviado contra decisão monocrática publicada em 12/12/2017, que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. No caso, o Recurso Especial não foi admitido, na origem, pela incidência dos óbices das Súmulas 211 e 13 do STJ. O Agravo em Recurso Especial interposto não impugnou todos os fundamentos do decisum, o que conduziu ao seu não conhecimento, cuja decisão ora é agravada regimentalmente.
+III. No presente Agravo interno a parte recorrente apresenta razões outras, deixando de impugnar, novamente, de modo específico, os fundamentos da decisão agravada.
+IV. Interposto Agravo interno com fundamentação deficiente, constituem óbices ao conhecimento do inconformismo a Súmula 182 desta Corte e o art. 1.021, § 1º, do CPC/2015.
+V. Renovando-se, no Agravo interno, o vício que comprometia o conhecimento do Agravo em Recurso Especial, inarredável a edição de novo juízo negativo de admissibilidade.
+VI. Segundo entendimento firmado pela Segunda Turma desta Corte, "o recurso que insiste em não atacar especificamente os fundamentos da decisão recorrida seguidamente é manifestamente inadmissível (dupla aplicação do art. 932, III, do CPC/2015), devendo ser penalizado com a multa de 1%, sobre o valor atualizado da causa, prevista no art. 1.021, §4º, do CPC/2015" (STJ, AgInt no AREsp 974.848/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 13/03/2017). Nesse mesmo sentido: AgInt no AREsp 960.285/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 15/12/2016; AgInt no AREsp 920.112/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 25/10/2016.
+VII. Agravo interno não conhecido, com aplicação da multa, prevista no art. 1.021, § 4º, do CPC/2015, de 1% (um por cento) sobre o valor atualizado da causa, por se tratar de recurso manifestamente inadmissível.
+É o relatório.
+Não há como dar curso à irresignação.
+A par da argumentação deduzida no presente recurso se mostrar dissociada do fundamento adotado pelo acórdão embargado (que se limitou a não conhecer do agravo interno com base no fundamento de que a motivação adotada pela decisão agravada não foi atacada), bem assim não terem sido minimamente atendidos os requisitos para demonstração de suposta divergência entre Turmas integrantes da Primeira Seção do STJ, a jurisprudência da Corte Especial deste Tribunal Superior, firmou a compreensão de que os embargos de divergência são cabíveis apenas contra acórdãos proferidos em recurso especial e recurso extraordinário. Contudo, relativamente aos agravos previstos no art. 544 do CPC, é possível a oposição de embargos de divergência nas hipóteses em que forem conhecidos para dar provimento ao recurso especial.
+Nesse sentido, confiram-se:
+De acordo com os arts. 546, I, do CPC e 266 do RISTJ, os embargos de divergência somente são cabíveis contra acórdão proferido em recurso especial.
+A jurisprudência desta Corte, no entanto, admite, de forma excepcional, a oposição de embargos contra acórdão exarado em sede de agravo em recurso especial, quando a decisão, fundamentada na autorização prevista no art. 544, § 4º, "c", do CPC, conhece do agravo para dar provimento ao recurso especial. Isso se dá porque, nessa hipótese, ocorre verdadeiro julgamento do mérito do apelo excepcional, dispensando-se a reautuação do feito, em reverência aos princípios da celeridade e economia processual.
+A contrario sensu, se conhecido o agravo para, tão somente, negar seguimento ao recurso especial, não se admite a interposição de embargos de divergência, mormente porque não houve o enfrentamento do mérito da irresignação. Incide, na hipótese, o óbice contido na Súmula 315/STJ, assim redigida: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+Agravo não provido.
+(AgRg nos EAREsp 243.145/MG, Rel. Ministro ARI PARGENDLER, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 06/05/2015, DJe 24/06/2015)
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO DE INSTRUMENTO. ENUNCIADO N. 315 DA SÚMULA/STJ. EMBARGOS NÃO CONHECIDOS.
+- Nos termos do art. 546, incisos I e II, do Código de Processo Civil e do art. 266 do RISTJ, cabem embargos de divergência, apenas, contra acórdão proferido em recurso especial e em recurso extraordinário.
+- São cabíveis embargos de divergência, ainda, diante da exceção criada pela jurisprudência da Corte, nas hipóteses em que se conhece do agravo de instrumento previsto no art. 544, caput, do Código de Processo Civil para dar provimento ao recurso especial na forma do § 3º do mesmo dispositivo. É que, nesse caso, embora dispensada a reautuação do feito, o próprio recurso especial terá sido julgado.
+- Inadmitido o recurso especial na origem e desprovidos o agravo de instrumento (atual agravo em REsp) e o respectivo agravo regimental nesta Corte, mesmo que adotada fundamentação que passe pelo exame do mérito do apelo extremo, descabe a interposição de embargos de divergência, incidindo a vedação contida no enunciado n. 315 da Súmula/STJ.
+Embargos de divergência não conhecidos.
+(EAg 1.186.352/DF, Rel. Ministro TEORI ALBINO ZAVASCKI, Rel. p/ Acórdão Ministro CESAR ASFOR ROCHA, CORTE ESPECIAL, julgado em 21/03/2012, DJe 10/05/2012)
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO.
+INADMISSIBILIDADE.
+A teor da Súmula nº 315 do Superior Tribunal de Justiça, "não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+Esse entendimento, na linha do que decidiu a Corte Especial no EAg nº 1.186.352, DF, só pode ser mitigado na hipótese em que se conhece do agravo para dar provimento ao próprio recurso especial, o que não ocorreu na espécie.
+Agravo regimental desprovido.
+(AgRg nos EAREsp 275.432/PE, Rel. Ministro ARI PARGENDLER, CORTE ESPECIAL, julgado em 07/08/2013, DJe 14/08/2013)
+Assim, não se enquadrando a hipótese em apreço dentre aquelas que autorizam a oposição dos embargos de divergência, porquanto não se deu provimento ao subjacente recurso especial da parte embargante, não conheço do presente recurso.
+Publique-se.
