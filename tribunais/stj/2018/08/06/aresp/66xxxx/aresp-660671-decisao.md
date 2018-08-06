@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo manejado pela Viação Salutaris e Turismo S/A contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 392):
+DIREITO ADMINISTRATIVO. SERVIÇO PÚBLICO. TRANSPORTE COLETIVO DE PASSAGEIROS. EXIGÊNCIA DE LICITAÇÃO. EXERCÍCIO, SEM ESSE REQUISITO, PELAS DUAS EMPRESAS. CONCORRÊNCIA DESLEAL. PROTEÇÃO. INEXISTÊNCIA DE DIREITO.
+1. De acordo com o art. 175 da Constituição, "incumbe ao poder público, na forma da lei, diretamente ou sob regime de concessão ou permissão, sempre através de licitação, a prestação de serviços públicos".
+2. As duas empresas estão executando o serviço sem permissão ou concessão baseada em processo licitatório. Logo, nenhuma delas tem, contra a outra, direito de impedir o que considera concorrência desleal, muito menos por meio da aplicação de multa de R$ 1.500.000,00 e bloqueio desse valor via BacenJud.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC/73 (fls. 425/432).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 128, 460, 461, §6º, 471, 473, 535, II, do CPC/73. Para tanto, sustenta, em síntese, além da negativa de prestação jurisdicional, que "ao afastar a multa aplicada, o acórdão objurgado violou a coisa julgada e os artigos 128 e 460 do CPC/73" - (fl. 451)
+O Ministério Público Federal, em parecer, opinou pelo desprovimento do agravo (fls. 511/515).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Feita essa observação, verifica-se, inicialmente, não ter ocorrido ofensa ao art. 535, II, do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ainda, a questão de mérito posta nos autos diz respeito à possibilidade de o magistrado alterar o valor fixado a título de multa na hipótese em que constatar que a mesma se tornou excessiva.
+Foi o que ocorreu na hipótese caso dos autos, em que Tribunal a quo concluiu que o montante fixado a título de tutela inibitória configuraria verdadeiro confisco. Nessa seara, modificou o valor das astreintes, com base nesses fundamentos (fls. 78/79)
+Todavia, quanto ao valor do bloqueio, R$ 1.500.000,00 (um milhão e quinhentos mil reais), considero que o juiz a quo agiu com muito rigor.
+A jurisprudência desta Corte, na esteira de precedentes do Supremo Tribunal Federal, procura evitar a fixação de multa excessiva, que se caracterize como verdadeiro confisco. Nesse sentido, cito as seguintes decisões: ADI 551/RJ, Rel. Min. limar Galvão; ADI 1075-MC/DF, Rei. Min. Celso de Mello; RE 91.707/MG, Rei. Min. Moreira Alves; RE 81.550/MG, Rei. Min. Xavier de Albuquerque" (RE 556545 / MG, rei. Min. Ricardo Lewandowski, DJe 19/12/2008).
+O Supremo Tribunal Federal, inclusive, já se manifestou pela diminuição de multas excessivas e desproporcionais: RE 591969/MG, Rei. Min. Joaquim Barbosa, DJe- 05/03/2009; RE 596008/SC, Rei. Min. Eros Grau, DJe- 04/02/2009.
+(..)
+Assim, embora esteja demonstrado nos autos a necessidade da aplicação da tutela inibitória de modo a coibir a conduta da agravante, proibida por decisão judicial desde dezembro de 2006, considero que o valor da multa por dia de descumprimento deve ser reduzido para R$ 400.000,00 (quatrocentos mil reais). O valor bloqueado deverá ser dividido: R$ 200.000,00 (duzentos mil reais) para a ANTT e R$ 200.000,00 (duzentos mil reais) para a agravada, Viação Salutaris e Turismo S/A.
+Verifica-se, pois, que a redução do valor da montante da multa se deu na forma autorizada pelo art. 461, § 6º, do CPC/73, que assim dispõe: "O Juiz poderá, de ofício, modificar o valor ou a peridiocidade da multa, caso verifique que se tornou insuficiente ou excessiva."
+Assim, no caso concreto, a alteração do montante decorreu da análise do contexto probatório delineado nos autos, de modo que a revisão das conclusões do Tribunal de origem esbarra no óbice da Súmula 7/STJ.
+A propósito do tema, confira-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. FORNECIMENTO DE REMÉDIO. ASTREINTES. POSSIBILIDADE. REDUÇÃO DO VALOR. REEXAME DE FATOS E PROVAS. SÚMULA 7 DO STJ.
+1. Se o agravante não demonstra ter indicado, no recurso especial, as supostas omissões cometidas pela instância inferior de modo claro e objetivo, é deficiente também a fundamentação do agravo interno.
+Incidência da Súmula 284/STF.
+2. A Primeira Seção do Superior Tribunal de Justiça, no julgamento do REsp 1.474.665/RS, afetado ao rito do art. 543-C do CPC/1973, estabeleceu a possibilidade de imposição de multa diária à Fazenda Pública na hipótese de descumprimento da obrigação de fornecer medicamento.
+3. Admite-se a diminuição do valor das astreintes quando considerado desproporcional em relação à obrigação principal. A irrazoabilidade, porém, não pode ser aferida pelo simples cotejo entre os valores perseguidos na ação original e o montante acumulado da penalidade, devendo a avaliação tomar em conta as circunstâncias do caso concreto.
+4. Na hipótese, é impossível afirmar a injustiça da solução apresentada pela instância de origem sem nova análise de fatos e provas. Incidência da Súmula 7/STJ.
+5. Agravo interno a que se nega provimento.
+(AgRg no AREsp 725.480/PE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 20/06/2017, DJe 23/06/2017)
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
