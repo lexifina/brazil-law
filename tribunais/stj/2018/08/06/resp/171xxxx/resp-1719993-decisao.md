@@ -1,0 +1,82 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pela União, com fundamento na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (e-STJ, fl. 397):
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA COLETIVA. OBRIGAÇÃO DE PAGAR QUANTIA CERTA.
+- Os juros de mora nas sentenças condenatórias da Justiça Federal nas quais o devedor se enquadra na categoria de Fazenda Pública devem ser apurados nos seguintes termos: até dez/2002, à taxa de 0,5% ao mês, capitalizados de forma simples; de jan/2003 a jun/2009 pela taxa SELIC, capitalizados de forma simples; de jun/2009 a abr/2012 à taxa de 0,5% ao mês, capitalizados de forma simples; a partir de maio/2012, observando-se o mesmo percentual de juros incidentes sobre a caderneta de poupança (correspondentes a  i 0,5% ao mês, caso a taxa SELIC ao ano seja superior a 8,5%, e a  ii 70% da taxa SELIC ao ano, mensalizada, nos demais casos), capitalizados de forma simples.
+- No que se refere à capitalização dos juros, sendo estabelecido que a atualização monetária deve ser apurada com base em índice diverso do aplicado à poupança, diferentemente, portanto, dos juros, resta claro que as rubricas incidem de forma separada, afastando-se a possibilidade de capitalização composta dos juros, como ocorre no caso da poupança.
+Opostos embargos de declaração, estes foram acolhidos, em parte, para corrigir erro material constatado no aresto embargado (e-STJ, fls. 424-433).
+Nas razões do especial, aduz a parte interessada que a Corte de origem negou vigência ao art. 535, I e II, do CPC/1973, correspondente ao art. 1.022, I e II, do CPC/2015. Aponta a existência de omissão e contradição no acórdão recorrido acerca de questões tidas por essenciais para o deslinde da controvérsia, em especial, a respeito da tese de inépcia da petição inicial e da inobservância da Lei n. 11.960/2009, em virtude do afastamento da aplicação da TR na correção monetária incidente na condenação contra a Fazenda Pública.
+Alega, outrossim, contrariedade ao art. 535, § 1º, III, do CPC/2015, sob o argumento de inexigibilidade do título executivo em virtude de inépcia da petição inicial por ausência de condenação.
+Afirma que não consta dos autos que originou o processo executivo em epígrafe a obrigação de pagamento retroativo do adicional de periculosidade. Prossegue sustentando que se percebe "da inicial da execução que a Parte exequente inclusive não menciona a origem do valor executado, o critério de fixação do percentual do adicional de periculosidade, nem tão pouco explica a origem do período executado" (e-STJ, fl. 471).
+Aponta, por fim, contrariedade ao art. 1.040 do CPC/2015, pois o Tribunal local enfrentou o tema relativo à aplicação da TR como índice de correção monetária antes do trânsito em julgado do acórdão paradigma.
+Contrarrazões apresentadas às e-STJ, fls. 472-475.
+Admitido o recurso especial na origem (e-STJ, fl. 488), subiram os autos a esta Corte de Justiça.
+É o relatório.
+A irresignação não merece acolhida.
+Registro, de logo, que não merece prosperar a tese de violação do art. 535, I e II, do CPC/1973, reproduzido no art. 1.022, I e II, do CPC/2015, porquanto o acórdão combatido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+Confiram-se os trechos do julgado (e-STJ, fls. 390-395):
+Não cabe, como visto, o reconhecimento da inépcia da inicial por inexequibilidade do título ou inexigibilidade da obrigação.
+Com efeito, observa-se do item "a" da petição inicial do processo de conhecimento pedido para imediata reimplantação da parcela de adicional de periculosidade na remuneração dos servidores listados e, do consecutivo item "c", pleito para a condenação da demandada ao restabelecimento do pagamento mensal do aventado adicional, efetuando-se todos os pagamentos que deixaram de ser feitos a título de adicional de periculosidade (evento 1, TIT_EXEC_JUD6, fls. 14/15).
+Na seqüência, sobreveio sentença de improcedência do pedido, constando do seu respectivo relatório que havia pretensão condenatória contra a União para pagamento das prestações que deixou de adimplir a título de adicional de periculosidade no período em que perdurar a combatida suspensão de pagamentos (eventol, TIT_EXEC_JUD6, fl. 53).
+Em seguida, por maioria, esta Corte negou provimento ao apelo da União, tendo sido registrado, entretanto, no voto vencido, a condenação da União ao restabelecimento do pagamento mensal do adicional de periculosidade, bem como das prestações vencidas, corrigidas monetariamente pelo INPC, desde quando devidas, e acrescidas, desde a citação, de juros de mora de 12% ao ano (eventol, TIT_EXEC_JUD6, fls. 65/68).
+Por derradeiro, no julgamento do RE ns 656125/DF, o STF considerou que este Tribunal divergiu do entendimento desta Corte ao considerar que o adicional de periculosidade poderia ser suprimido (eventol, TIT_EXEC_JUD6, fl. 114).
+Sendo assim, afasto a arguição de inépcia da inicial por ausência de condenação transitada em julgada no título executivo ao pagamento do adicional de periculosidade, tendo por base o mencionado voto vencido do julgamento desta Corte, dado que em consonância com o pronunciamento exarado pelo STF.
+Sob outro prisma, a coisa julgada formada na ação coletiva beneficia a todos os servidores da respectiva categoria profissional, possuindo eles, portanto, ainda que não indicados na inicial do processo de conhecimento ou mesmo filiados à entidade de classe, legitimidade para promover a execução individual do título judicial.
+ ..
+Destarte, as ações coletivas ajuizadas pelos sindicatos abrangem, regra geral, todos os membros da categoria que estejam ou venham a estar em situação semelhante, inclusive não associados, inexistindo limitação subjetiva da eficácia da sentença a eventuais substituídos indicados na inicial do processo de conhecimento ou àqueles que possuam domicílio no âmbito da competência territorial do órgão prolator.
+Por conseqüência, reconheço a legitimidade ativa da parte exequente.
+Em relação aos juros moratórios aplicáveis às sentenças condenatórias da Justiça Federal referentes a créditos de servidores públicos, quando o devedor se enquadra no conceito de Fazenda Pública, consoante inclusive determinado no Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal (aprovado pela Resolução 134, de 21 de dezembro de 2010), devem observar os seguintes critérios:
+PERÍODO
+TAXA MENSAL
+OBS.
+Até dezembro/2002
+0,5% - simples
+Arts. 1.062,1.063 e 1.064 CC 1916
+De janeiro/2003 a junho/2009
+SELIC
+Art 406 CC 2002
+De junho/2009
+a
+abril/2012
+0,5% - simples
+Art. 1º-F da Lei 9.494/97, com a
+redação dada pela Lei 11.960/2009,
+c.c. a Lei 8.177/98
+A partir de maio/2012
+O mesmo percentual de juros incidentes sobre a caderneta
+de poupança, capitalizados
+de forma simples
+(correspondentes a  I  0,5% ao mês, caso a taxa SELIC ao ano seja superior a 8,5%, e a  II  70% da taxa SELIC ao ano, mensalizada, nos demais casos).
+Art. 1º-F da Lei 9.494/97, com a redação dada pela Lei 11.960/2009, c.c. a Lei 8.177/98, com as alterações da MP 567/2012,convertida na Lei 12.703/2012
+Deve ser registrado que segundo entendimento firmado pelo Superior Tribunal de Justiça a partir do julgamento do RESP 1.270.439 (sob a sistemática dos recursos repetitivos), as decisões tomadas pelo Plenário do Supremo Tribunal Federal no julgamento das ADIs 4.357 e 4.425 não interferiram com a taxa de juros aplicável às condenações da Fazenda Pública. Com efeito, como consignado pela Ministra Eliana Calmon quando da apreciação do MS 18.217, "No julgamento do Resp 1,270.439/PR, sob a sistemática dos recursos repetitivos, esta Corte, diante da declaração de inconstitucionalidade parcial do art. 1B-F da Lei 9.494/99 no que concerne à correção monetária, ratificou o entendimento de que nas condenações impostas à Fazenda Pública após 29.06.2009, de natureza não tributária, os juros moratórios devem ser calculados com base na taxa de juros aplicáveis à caderneta de poupança".
+Assim, quanto aos juros de mora, deve haver a incidência, a contar de 01/07/2009, do mesmo percentual dos juros incidentes sobre a caderneta de poupança, observada, ainda, a Lei 12.703/2012 a contar de maio de 2012.
+No que se refere à capitalização dos juros, sendo estabelecido que a atualização monetária deve ser apurada com base em índice diverso do aplicado à poupança, diferentemente, portanto, dos juros, resta claro que as rubricas incidem de forma separada, afastando-se a possibilidade de capitalização composta dos juros, como ocorre no caso da poupança.
+Pelo exposto, os juros de mora nas sentenças condenatórias da Justiça Federal referentes a créditos de servidores públicos, quando o devedor se enquadra no conceito de Fazenda Pública, devem ser apurados nos seguintes termos:
+- até julho de 2001 à taxa de 1,0% ao mês, capitalizados de forma simples;
+- de agosto de 2001 até abril de /2012 à taxa de 0,5% ao mês, capitalizados de forma simples;
+- a partir de maio/2012, observando-se o mesmo percentual de juros incidentes sobre a caderneta de poupança (correspondentes a  i 0,5% ao mês, caso a taxa SELIC ao ano seja superior a 8,5%, e a  ii 70% da taxa SELIC ao ano, mensaiizada, nos demais casos), capitalizados de forma simples.
+Sob outra perspectiva, consoante a orientação do STJ (REsp n9 1.112.746/DF, Rei. Min. Castro Meira, DJU 31/08/2009), a adoção na fase de execução de índices de correção monetária ou mesmo de juros de mora diversos dos estipulados no título exequendo, em virtude de legislação superveniente, não afronta a coisa julgada.
+Das razões apresentadas pelo voto condutor do acórdão, observa-se que todos os questionamentos suscitados pela recorrente, em especial a respeito do índice de correção monetária que deve ser aplicado ao caso, foram devidamente enfrentados pela Corte de origem.
+Sendo assim, não há falar em omissão do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pela recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração.
+Colaciono precedente desta Corte Superior sobre o assunto:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DESAPROPRIAÇÃO INDIRETA. CRIAÇÃO DA ESTAÇÃO ECOLÓGICA DO CHAUÁS. INEXISTÊNCIA DE VIOLAÇÃO DOS ARTS. 458 E 535 DO CPC. EFICÁCIA DO REGISTRO IMOBILIÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ASPECTOS RELACIONADOS À EXATA LOCALIZAÇÃO DO IMÓVEL E À ALEGADA OFENSA À COISA JULGADA. NECESSIDADE DO REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Não ocorre ofensa aos arts. 458 e 535, II, do CPC, se o Tribunal de origem decide, fundamentadamente, as questões essenciais ao julgamento da lide.
+2. Não se admite recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo. Súmula 211/STJ.
+3. A conclusão adotada pelas instâncias ordinárias, de que o imóvel dos autores não foi atingido pela criação da Estação Ecológica do Chauás, resultou da análise de uma complexa prova pericial, cujo reexame é vedado na via do recurso especial, consoante o disposto na Súmula 7/STJ.
+4. O mesmo óbice impede a aferição da alegada ofensa à coisa julgada formada em anterior ação discriminatória, na medida em que as instâncias de origem não delimitam os exatos termos do referido título.
+5. Recurso especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.203.035/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 11/6/2013, DJe 19/6/2013)
+Já no que concerne à tese de inexigibilidade do título executivo ou da obrigação, verifico que a Corte regional enfrentou as insurgências apresentadas em juízo com base nos elementos de prova constantes dos autos, oportunidade em que afastou as irregularidades apontadas pela recorrente.
+Nesse contexto, não se mostra cabível nesta via do especial rever o entendimento firmado no acórdão combatido, de modo a albergar as peculiaridades do caso e verificar a presença ou não dos requisitos do título executivo ou da obrigação, pois demandaria, inequivocamente, o revolvimento do acervo fático-probatório dos autos, providência vedada por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+A propósito, colaciono ementa de aresto específico desta C. Segunda Turma, de minha relatoria, no mesmo sentido ao dos autos:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CONTRARIEDADE AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA ALEGAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. EXIGIBILIDADE DO TÍTULO EXECUTIVO JUDICIAL. REQUISITOS CONFIGURADOS NA ORIGEM. REEXAME. IMPOSSIBILIDADE. NECESSIDADE DE ANÁLISE DO CONTEXTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. PRECEDENTES.
+1. É deficiente a fundamentação do recurso especial em que a alegada ofensa ao art. 1.022 do CPC/2015 se faz sem a demonstração objetiva dos pontos omitidos pelo acórdão recorrido, individualizando o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos. Incidência da Súmula 284/STF.
+2. Na via especial, não cabe a análise de tese recursal que demande a incursão na seara fático-probatória dos autos. Incidência da orientação fixada pela Súmula 7 do STJ.
+3. No caso, concluiu o Tribunal a quo, soberano na análise do material cognitivo produzido nos autos, pelo afastamento da tese de inépcia da inicial por inexequibilidade do título ou inexigibilidade da obrigação. Nesse contexto, a inversão do julgado exigiria, inequivocamente, incursão na seara fático-probatória dos autos, o que é inviável, na via eleita, nos termos do enunciado sumular n. 7/STJ. Precedentes.
+4. Em igual sentido os seguintes arestos monocráticos: AREsp 1.133.646/SP, Ministra Assusete Magalhães, 23/8/2017; REsp 1.679.639/RJ, Ministro Sérgio Kukina, 12/12/2017; AREsp 1.198.312/SP, Ministro Marco Aurélio Bellizze, 6/12/2017.
+5. Recurso especial não conhecido.
+(REsp 1.708.886/RS, de minha relatoria, SEGUNDA TURMA, julgado em 6/3/2018, DJe 13/3/2018)
+Em igual sentido as seguintes decisões monocráticas: AREsp 1.133.646/SP, Ministra Assusete Magalhães, 23/8/2017; REsp 1.679.639/RJ, Ministro Sérgio Kukina, 12/12/2017; AREsp 1.198.312/SP, Ministro Marco Aurélio Bellizze, 6/12/2017.
+Por fim, afasto a alegada ofensa ao art. 1.040 do CPC/2015, pois "a Suprema Corte possui entendimento no sentido de que a existência de decisão de mérito julgada sob a sistemática da repercussão geral autoriza o julgamento imediato de causas que versarem sobre o mesmo tema, independente do trânsito em julgado do paradigma (ARE 977.190 AgR, Relator Min. Ricardo Lewandowski, Segunda Turma, julgado em 9/11/2016, processo eletrônico DJe-249, divulgado em 22/11/2016, publicado em 23/11/2016.)" (AgInt no RE nos EDcl no AgRg no AREsp 593.452/RS, Rel. Ministro Humberto Martins, Corte Especial, julgado em 20/6/2018, DJe 29/6/2018).
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
