@@ -1,0 +1,13 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por TIAGO SERPA DOS SANTOS contra decisão que negou seguimento ao seu recurso especial, fundado no art. 105, inciso III, alínea c, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+Nas razões do nobre apelo, o ora Agravante suscitou dissídio jurisprudencial no que tange aos honorários sucumbenciais.
+É o relatório.
+Decido.
+Alteração da distribuição dos honorários sucumbenciais:
+Esta Corte Superior de Justiça possui entendimento pacificado no sentido de que a alteração da distribuição da sucumbência fixada pelas instâncias ordinárias demanda necessário revolvimento do conteúdo fático probatório dos autos, o que atrai a incidência da Súmula 7/STJ, assim redigida: A pretensão de simples reexame de prova não enseja recurso especial. Precedentes:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. CAPITALIZAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC. NÃO OCORRÊNCIA. REEXAME DE PROVAS. SÚMULAS NºS 5 E 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS NºS 282 E 356/STJ. (..) 6. Esta Corte possui entendimento pacificado no sentido de que a alteração da distribuição da sucumbência fixada pelas instâncias ordinárias demanda necessário revolvimento do conteúdo fático-probatório dos autos, o que atrai a incidência da Súmula nº 7/STJ. 7. Agravo regimental não provido." (AgRg no AREsp 537.989/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 28/05/2015.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. DANO MORAL. INSCRIÇÃO NO CADASTRO DE INADIMPLENTES. POSTAGEM DA CORRESPONDÊNCIA COMPROVADA. ADIMPLEMENTO DA OBRIGAÇÃO CONTIDA NO ART. 42, § 3º, DO CDC. APLICAÇÃO DO ART. 543-C, § 7º, DO CPC. NÃO CABIMENTO DE AGRAVO. DISTRIBUIÇÃO DO ÔNUS DA SUCUMBÊNCIA. HONORÁRIOS. VALOR ARBITRADO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N.7/STJ. (..) 3. A revisão do entendimento do órgão julgador a quo acerca da distribuição do ônus de sucumbência e do valor arbitrado a título de honorários demanda o reexame do conjunto fático-probatório dos autos, procedimento vedado nos termos da Súmula n. 7 do STJ. 4. Agravo regimental desprovido." (AgRg no AREsp 638.788/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA,DJe 11/05/2015.)
+Ante o exposto, conheço do agravo para NÃO CONHECER do recurso especial.
+Por fim, deixo de majorar os honorários advocatícios nos termos do artigo 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o recurso especial foi interposto contra acórdão publicado ainda na vigência do Código de Processo Civil de 1973.
+Publique-se. Intime-se.
