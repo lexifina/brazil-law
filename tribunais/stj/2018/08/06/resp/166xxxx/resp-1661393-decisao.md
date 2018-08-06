@@ -1,0 +1,24 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 85, §§2º E 8º, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ACÓRDÃO COM FUNDAMENTOS AUTÔNOMOS NÃO IMPUGNADOS. SÚMULA 283/STF. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL E AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO INDICADO. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJSC assim ementado (fl. 177):
+Apelação cível. Embargos à execução fiscal. Extinção do procedimento a pedido do executado, ante o pagamento integral do débito. Honorários advocatícios. Pleito de majoração do quantum arbitrado. Fixação adequada aos parâmetros da actio. Sentença mantida. Recurso desprovido.
+O recorrente alega violação dos arts. 20, §§3º e 4º, do CPC/1973 e 85, §§2º e 8º, do CPC/2015, ao argumento de que os honorários fixados em R$10.000,00 são irrisórios, representando quantia desproporcional ao proveito econômico obtido na demanda, visto que o valor original do débito, em 12/6/2012, alcançava R$441.072,29.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 189-190.
+É o relatório. Passo a decidir.
+No que diz respeito ao art. 85, §§2º e 8º, do CPC/2015 (e às teses a eles vinculadas), verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Lado outro, o acórdão recorrido consignou o seguinte (fls. 179-180):
+"Oportunamente, convém destacar que a matéria abordada no recurso, além de singela, já foi exaustivamente examinada por esta Corte de Justiça, havendo inclusive vários precedentes da lavra do signatário, tratando de casos assemelhados ao presente, dos quais, destaca-se:
+(..).
+A teor desse precedente, concluiu-se que o pedido de alteração da verba honorária não se sustenta, na medida em que o magistrado não está obrigatoriamente atrelado ao valor da causa na quantificação equitativa da verba do causídico.
+A propósito, a atuação do patrono do recorrente durante o processamento dos embargos opostos à execução se limitou à peça de impugnação, não exigindo nenhuma atividade considerada mais complexa do procurador a justificar a majoração da verba do causídico fixada na sentença.
+Quanto a este aspecto, ademais, se mostra pertinente ao caso privilegiar a aplicação do princípio da confiança no juiz da causa, o qual por ter atuado próximo das partes durante o trâmite do feito, analisando sobretudo a atuação de ambos os patronos, detém, em tese, melhores condições de aferir e quantificar o importe relativo aos honorários advocatícios.
+Assim, sopesando os fatores que nortearam a decisão e observando, ainda, que a equidade não pressupõe a modicidade, tampouco, excessividade na condenação, tem-se por razoável a manutenção dos honorários conforme fixados na sentença, na medida que representa quantia suficiente in casu para remunerar o serviço prestado, sem onerar demasiadamente o vencido, ou mesmo, desprestigiar o trabalho do patrono do vencedor, restando perfeitamente atendidas as diretrizes do art. 20, §4º, do Código Instrumental.
+Ademais, convém lembrar que a arbitragem dos honorários com fulcro no § 4o do art. 20 do CPC não parte de critérios objetivos, mas equitativos, ou seja, de princípios de valoração moral. Segundo Denti, colocando-se, o juiz, na posição de intérprete da consciência social, pois "a exigência perene expressa pela equidade consiste na contraposição entre a livre valoração moral e o julgamento secundum ius, ou seja o julgamento de conformidade com a norma" (apud Yussef Said Cahali. Honorários Advocatícios. 2. ed. São Paulo: Revista dos Tribunais, 1990. p. 584).
+Logo, a manutenção do decisum é medida que se impõe."
+Ocorre que o recorrente não impugnou a referida fundamentação nas razões do recurso especial que, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Aplica-se ao caso a Súmula 283/STF.
+Ademais, no caso dos autos, o recorrente apresentou argumentos genéricos, vagos a respeito da suposta ofensa aos artigos indicados, e que se encontram dissociados dos fundamentos aplicados pelo acórdão recorrido, situação que não permite a exata compreensão da controvérsia e impede o conhecimento do recurso. Aplica-se à hipótese a Súmula 284/STF.
+Por fim, não é possível conhecer do recurso especial que apresenta suposta violação do art. 85, § 8º, do CPC/2015, pois o dispositivo indicado como malferido não contém comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido. Incide à hipótese, mais uma vez, a Súmula 284/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
