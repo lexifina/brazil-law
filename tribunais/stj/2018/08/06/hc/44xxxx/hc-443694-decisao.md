@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado pela em favor de [NOME], contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, no Habeas Corpus n. 2022861-19.2018.8.26.0000.
+Depreende-se dos autos que o paciente foi condenado à pena de 1 (um) anos, 11 (onze) meses e 10 (dez) dias de reclusão, em regime inicialmente fechado, como incurso nas sanções do art. 33, caput, e §4º, ambos da Lei n. 11.343/06 (fls. 16-25).
+Inconformada, a defesa do paciente impetrou habeas corpus perante o eg. Tribunal de origem, requerendo a concessão da ordem para que fosse fixado o regime inicial aberto, devendo, ainda, promover a detração da pena.
+O eg. Tribunal a quo indeferiu o processamento do writ aduzindo que ele não poderia ser utilizado em substituição ao recurso de apelação, meio adequado para análise da questão, nos termos v. acórdão assim ementado:
+"HABEAS CORPUS Sentença condenatória contra a qual foi interposto recurso de apelação Inconformismo quanto ao regime inicial de cumprimento Impossibilidade de cognição ampla de prova em sede de habeas corpus Via eleita inadequada Inexistência da demonstração de ilegalidade manifesta Ordem não conhecida." (fl. 26).
+Daí o presente writ, no qual o impetrante alega que o paciente estaria sofrendo evidente constrangimento ilegal em decorrência da " ..  evidente ofensa a garantia constitucional da liberdade, humanização da pena, e a decisão " ilegal " que esbarra no óbice das súmulas 718 e 719 do STF, isto porque o paciente além de ter sido submetido a regime prisional mais gravoso do que o permitido em lei, repita-se, prática esta vedada em nosso ordenamento jurídico, de outro lado já preencheu há muito tempo os requisitos necessários para a devida progressão de regime, conforme consta no boletim informativo anexo que revela que o paciente já cumpriu aproximadamente 1/3 da reprimenda, e ainda assim permanece no regime fechado cumprindo pena." (fls. 8-9)
+Sustenta, ainda, que ao determinar o regime inicial fechado para cumprimento da pena, a autoridade coatora deixou de aplicar a Súmula n. 440 desta Corte e das Súmulas ns. 718 e 719 do Supremo Tribunal Federal.
+Requer, ao final, a concessão da ordem para que seja fixado o regime inicial aberto para cumprimento de pena, e, subsidiariamente, seja reconhecido o direito de detração da pena para promover a progressão de regime do paciente.
+Pedido liminar indeferido à fl. 32.
+Informações prestadas às fls. 37-52.
+O Ministério Público Federal, às fls. 54-62, manifestou-se pelo não conhecimento do writ. Eis a ementa do parecer:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. PENAL. PROCESSO PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. PEDIDO DE ALTERAÇÃO DO REGIME DO CRIME DE TRÁFICO. IMPOSSIBILIDADE DE ANÁLISE DE MÉRITO. DEFICIÊNCIA DA INSTRUÇÃO. E PENDÊNCIA DE RECURSO DE APELAÇÃO QUE IMPEDEM O CONHECIMENTO DO HABEAS CORPUS.
+1. A matéria objeto do habeas corpus não foi enfrentada pelo Juízo originariamente competente, sendo inviável o seu conhecimento por esta Corte Superior, sob pena de indevida dupla supressão de instância. A jurisprudência dessa Corte Especial, em consonância ao entendimento firmado perante o STF, entende que a súmula 691/STF somente pode ser afastada em casos raríssimos, cujas decisões ensejadoras do habeas corpus sejam teratológicas, o que não é o caso.
+2 - O Ministério Público Federal pugna pelo não conhecimento do presente habeas corpus. " (fl. 54).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Verifica-se no v. acórdão ora impugnado que os pedidos de fixação do regime inicial aberto para cumprimento de pena, bem como o de detração e consequente progressão de regime, não foram analisados pelo eg. Tribunal de origem, porquanto foi indeferido o processamento do writ lá impetrado ao argumento de que não poderia ser utilizado em substituição ao recurso próprio.
+Assim, o eg. Tribunal a quo sequer se manifestou acerca da quaestio ventilada na presente impetração, ficando impedida esta Corte de proceder à análise desta, sob pena de indevida supressão de instância.
+Nesse sentido é o entendimento das Turmas que compõem a Terceira Seção desta Corte de Justiça, in verbis:
+"AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. NÃO CONHECIMENTO DO WRIT. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME PARA O SEMIABERTO. MANUTENÇÃO DO PACIENTE EM REGIME MAIS RIGOROSO. PLEITO DE REGIME ABERTO. AUSÊNCIA DE POSTULAÇÃO EM 1º GRAU. ILEGALIDADE INEXISTENTE. TEMA NÃO ENFRENTADO NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. A questão referente à manutenção do paciente no regime mais gravoso do que aquele judicialmente determinado não foi apreciada pelas instâncias ordinárias, o que impede seu conhecimento por esta Corte, sob pena de indevida supressão de instância.
+3. Agravo regimental em recurso ordinário em habeas corpus improvido" (AgRg no RHC 48.623/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 4/9/2014).
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO-CABIMENTO. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL E DESTE SUPERIOR TRIBUNAL DE JUSTIÇA: MATÉRIA DE DIREITO ESTRITO. MODIFICAÇÃO DE ENTENDIMENTO DO STJ, EM CONSONÂNCIA COM O DO STF. RECEPTAÇÃO QUALIFICADA, ADULTERAÇÃO DE SINAL IDENTIFICADOR E FORMAÇÃO DE QUADRILHA. NÃO RECONHECIMENTO DO DIREITO DE APELAR EM LIBERDADE. INDICAÇÃO DE JUSTIFICATIVA CONCRETA PARA A MANUTENÇÃO DA PRISÃO PROCESSUAL. PACIENTE SEGREGADO DESDE O FLAGRANTE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO, NO PONTO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. MATÉRIA NÃO APRECIADA PELO JUÍZO DAS EXECUÇÕES. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DE CONCESSÃO DA ORDEM DE OFÍCIO. ORDEM DE HABEAS CORPUS NÃO CONHECIDA.
+ ..
+5. O pedido de progressão de regime não foi formulado perante o Juízo das Execuções, razão pela qual não pode ser conhecido originariamente por esta Corte, sob pena de indevida supressão de instância.
+6. Ausência de ilegalidade flagrante que permita concessão da ordem de ofício.
+7. Ordem de habeas corpus não conhecida" (HC 220.468/PE, Quinta Turma, Rel. Min. Laurita Vaz, DJe 17/4/2013).
+Ademais, consigno que nas informações prestadas pelo eg. Tribunal de origem foi consignado que "a Defesa insurgiu-se contra o r. édito condenatório, estando os autos da apelação criminal conclusos ao Revisor" (fl. 38, grifei), de maneira que a resposta jurisdicional requerida será apreciada no exame do citado recurso.
+Ante o exposto, não conheço do writ.
+P. e I.
