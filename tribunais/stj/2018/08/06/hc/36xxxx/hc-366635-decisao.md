@@ -1,0 +1,10 @@
+DECISÃO
+[NOME] LAGO alega sofrer coação ilegal em decorrência de decreto de prisão preventiva exarado por Desembargador do Tribunal de Justiça do Estado do Piauí, no curso do Procedimento Investigatório n. 0006412-47.2015.8.18.0000.
+Este habeas corpus foi inicialmente distribuído à relatoria do Ministro Sebastião Reis Júnior, que deferiu a liminar para substituir a prisão do paciente por medidas cautelares alternativas.
+Posteriormente, os autos foram a mim encaminhados, por prevenção, uma vez que prolatei voto vencedor no HC n. 365.677/PI. Entretanto, depois das informações de primeiro grau verifica-se não mais subsistir ato judicial válido e legítimo apto a embasar eventual constrição da liberdade do paciente.
+Deveras, durante investigação realizada pelo Ministério Público do Estado do Piauí (Operação Déspota), o Desembargador do Tribunal local decretou a prisão preventiva do paciente, em julho de 2016. Por força de liminar proferida nestes autos, o suspeito foi submetido a medidas cautelares menos gravosas.
+O Parquet ofereceu denúncia. Em 6/12/2016, o Desembargador do TJPI reconheceu sua incompetência absoluta e determinou a remessa dos autos ao Juízo de primeiro grau da Comarca de Bom Jesus/PI.
+Cabia à autoridade de primeiro grau, ao receber os autos, ratificar ou não os atos decisórios anteriores. Ocorre que, desde 18/5/2017 (há mais de um ano), os autos foram distribuídos à Comarca de Bom Jesus sem haver nenhuma confirmação do édito prisional, que não é mais válido ou eficaz.
+Nesse cenário, é de rigor declarar a nulidade do édito prisional exarado pelo Desembargador do TJPI, uma vez que não houve a ratificação ou renovação do ato judicial pelo Juízo competente para processar e julgar o paciente.
+À vista do exposto, com fundamento nos arts. 567 e 654, § 2º, ambos do CPP, declaro a nulidade do decreto de prisão preventiva exarado por Desembargador, não ratificado pelo Juiz competente, e afasto todos os seus efeitos jurídicos. Em consequência, reconheço a prejudicialidade deste habeas corpus, no qual a parte postula a revogação/substituição da cautela. Liminar cassada.
+Publique-se e intimem-se.
