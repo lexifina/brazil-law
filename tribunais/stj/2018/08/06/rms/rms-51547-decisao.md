@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de recurso ordinário em mandado de segurança interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra acórdão do TJMG no julgamento do MS n. 1.0000.15.072807-9/000. É esta a ementa do julgado:
+"MANDADO DE SEGURANÇA - ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO EM SENTIDO ESTRITO - NÃO CABIMENTO - INEXISTÊNCIA DE DIREITO LÍQUIDO, CERTO E DETERMINADO - SEGURANÇA DENEGADA" (fl. 96).
+Daí o presente recurso, no qual alega ser equivocada a interpretação que vem sendo dada à matéria pelo Tribunal a quo, posto possível em situações excepcionais o uso do mandado de segurança para a obtenção de efeito suspensivo a recurso em sentido estrito.
+Parecer ministerial, às fls. 128/130, pela desprovimento do recurso.
+É o relatório.
+Decido.
+Na hipótese, a meu sentir, não há direito líquido e certo a ser assegurado via presente recurso. É que o aresto hostilizado encontra-se em consonância com a orientação jurisprudencial do Superior Tribunal de Justiça firmada no sentido de que não cabe a impetração de mandado de segurança para conferir efeito suspensivo a recurso em sentido estrito interposto contra decisão que revoga a prisão preventiva. Confiram-se os seguintes precedentes:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. RECURSO EM SENTIDO ESTRITO. EFEITO SUSPENSIVO. MANDADO DE SEGURANÇA. NÃO CABIMENTO. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte possui entendimento pacificado no sentido de não ser cabível mandado de segurança impetrado com o intuito de conferir efeito suspensivo a recurso em sentido estrito o qual, por sua vez, tenha sido interposto contra decisão que concedera liberdade provisória.
+2. Agravo regimental não provido."(RMS 54.107/BA, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 13/6/2018)
+"PENAL E PROCESSO PENAL. HABEAS CORPUS CONTRA DEFERIMENTO DE LIMINAR. SUPERAÇÃO DA SÚMULA N. 691 DO STF. LIBERDADE PROVISÓRIA CONCEDIDA PELO JUIZ DE PRIMEIRO GRAU EM AUDIÊNCIA DE CUSTÓDIA. MANDADO DE SEGURANÇA IMPETRADO PARA CONFERIR EFEITO SUSPENSIVO AO RECURSO EM SENTIDO ESTRITO INTERPOSTO PELO MINISTÉRIO PÚBLICO LOCAL. LIMINAR QUE RESTABELECE A PRISÃO CAUTELAR SEM RAZÕES DE DECIDIR. NÃO CABIMENTO. NECESSIDADE DE MOTIVAÇÃO DAS DECISÕES JUDICIAIS. ORDEM CONCEDIDA.
+1. Consoante a jurisprudência desta Corte, não é cabível, em regra, a impetração de mandado de segurança para fins de obter efeito suspensivo a recurso em sentido estrito interposto contra decisão que deferiu liberdade provisória ao acusado. Precedentes.
+2. A teor do art. 93, IX, da Constituição Federal, todas as decisões judiciais devem ser fundamentadas, até mesmo para servir de controle sobre a atividade intelectual do julgador, padecendo de teratologia apta a superar o óbice da Súmula n. 691 do STF a decisão de relator de mandado de segurança que, em liminar, determina a prisão cautelar do réu sem evidenciar, minimamente, a necessidade e a adequação da medida extrema à luz dos parâmetros do art. 312 do CPP.
+3. Habeas corpus concedido para cassar a liminar concedida no MS n. 2221562-28.2015.8.26.0000 e restabelecer os efeitos da decisão que deferiu ao paciente a liberdade provisória, sem prejuízo do ulterior julgamento de mérito a ser proferido no recurso em sentido estrito do Ministério Público local." (HC 341.147/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 2/3/2016)
+Ante o exposto, nego provimento ao recurso em mandado de segurança.
+Publique-se. Intimem-se.
