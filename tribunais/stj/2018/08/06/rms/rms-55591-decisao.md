@@ -1,0 +1,32 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. RECURSO ORDINÁRIO CONTRA ACÓRDÃO DE APELAÇÃO EM MANDADO DE SEGURANÇA. NÃO CABIMENTO. RECURSO NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto com fundamento no art. 105, II, b, da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul cuja ementa é a seguinte:
+APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA. ICMS. REGIME ESPECIAL DE FISCALIZAÇÃO. "DEVEDOR CONTUMAZ".
+1. Entendimento da Câmara manifestado por ocasião do julgamento do AI nº [CPF] interposto em face da decisão que indeferiu o pedido liminar formulado no mandado de segurança, alinhando-se à decisão do Órgão Especial desta Corte no julgamento dos incidentes de inconstitucionalidade nº [CPF] e nº [CPF], pelo quorum qualificado de 2/3, que reconheceu a constitucionalidade do Regime Especial de Fiscalização - REF previsto na Lei Estadual nº 13.711/2011, com eficácia vinculante, por aplicação do disposto no artigo 211 do Regimento Interno do TJRS.
+2. O direito líquido e certo é aquele que se apresenta manifesto na sua existência, delimitado na sua extensão e apto a ser exercitado no momento da impetração do mandamus.
+3. Não há falar em cometimento de ilegalidade por parte da autoridade apontada como coatora, pois a impetrante não logrou êxito em comprovar o direito alegado no mandamus.
+RECURSO DESPROVIDO.
+O recorrente sustenta, que, ao contrário do que decidido, restou demonstrado seu direito líquido e certo de ser retirado do rol dos devedores contumazes, para ser incluído no Regime Especial de Fiscalização, para consequentemente não lhe ser exigido o pagamento antecipado do tributo, de modo a possibilitar o exercício das atividades em todo o Estado, afastando assim a suposta coação ilegal, e restabelecendo os seus direito garantidos pela Constituição Federal.
+O Ministério Público Federal, por meio do parecer de fls. 292/294, opina pelo não provimento do recurso ordinário.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Deveras, o presente recurso não comporta conhecimento.
+Isto porque, a presente irresignação foi interposta contra decisão proferida em sede de apelação, não encontrando amparado no art. 105, II, b, da Constituição, que prevê o cabimento de recurso ordinário contra decisão denegatória proferida em única instância pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios.
+Logo assiste razão ao Agravante, porquanto verifica-se, na espécie, a ausência de requisito de regularidade formal a evidenciar ser manifestamente incabível o Recurso Ordinário interposto, pois ataca o acórdão que julgou a apelação, não sendo, portanto, provimento judicial de única instância, como prevê o art. 105, II, da Constituição da República: "julgar, em Recurso Ordinário, os mandados de segurança decididos em única instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando denegatória a decisão"
+Ilustrativamente:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. RECURSO ORDINÁRIO CONTRA ACÓRDÃO DE APELAÇÃO EM MANDADO DE SEGURANÇA. CABIMENTO DE RECURSO ESPECIAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL.
+IMPOSSIBILIDADE. ERRO GROSSEIRO.
+1. É incabível a interposição de recurso ordinário contra acórdão que nega provimento a recurso de apelação em mandado de segurança, sendo inviável, ainda, a aplicação do princípio da fungibilidade recursal.
+Precedentes.
+2. Agravo interno a que se nega provimento."(AgInt no Ag 1433737/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 19/09/2017, DJe 25/09/2017).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. RECURSO ORDINÁRIO CONTRA ACÓRDÃO QUE DECIDIU APELAÇÃO. INCABIMENTO. AUSÊNCIA DE DECISÃO DE ÚNICA INSTÂNCIA. ERRO GROSSEIRO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. AGRAVO INTERNO CONTRA DECISÃO A QUAL RECONHECEU A CONFIGURAÇÃO DE ERRO GROSSEIRO NA INTERPOSIÇÃO DE RECURSO. MANIFESTA INADMISSIBILIDADE. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. CABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o presente Agravo Interno, embora o Recurso Ordinário e o Agravo Interno estivessem sujeitos ao Código de Processo Civil de 1973.
+II - É incabível o Recurso Ordinário em Mandado de Segurança contra acórdão que julga apelação, porquanto ausente provimento judicial de única instância, como prevê o art. 105, II, da Constituição da República: "julgar, em Recurso Ordinário, os mandados de segurança decididos em única instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando denegatória a decisão".
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação.
+V - Considera-se manifestamente inadmissível e enseja a aplicação da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 nos casos em que o Agravo Interno foi interposto contra decisão a qual reconheceu como inadequado o recurso interposto, sem possibilidade de aplicação do princípio da fungibilidade recursal, por tratar-se de erro grosseiro.
+VI - Agravo Interno improvido, com aplicação de multa de 5% (um por cento) sobre o valor atualizado da causa.
+(AgInt no Ag 1433563/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 24/10/2017, DJe 10/11/2017)
+Diante do exposto, com base no art. 932, III, do CPC, não conheço do recurso ordinário.
+Publique-se. Intimem-se.
