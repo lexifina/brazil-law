@@ -1,0 +1,10 @@
+DECISÃO
+JULIMAR PEREIRA BORGES alega sofrer coação ilegal no seu direito de locomoção, em decorrência de decreto de prisão preventiva exarado por Desembargador do Tribunal de Justiça do Estado do Piauí, no curso do Procedimento Investigatório n. 0006412-47.2015.8.18.0000.
+Este habeas corpus foi inicialmente distribuído à relatoria do Ministro Sebastião Reis Júnior, que deferiu a liminar para substituir a prisão do paciente por medidas cautelares alternativas.
+Posteriormente, os autos foram a mim redistribuídos, por prevenção, uma vez que prolatei voto vencedor no HC n. 365.677/PI. Entretanto, verifico não subsistir nenhum ato judicial válido e legítimo a embasar eventual constrição da liberdade do paciente.
+Deveras, durante investigação realizada pelo Ministério Público do Estado do Piauí (Operação Déspota), Desembargador do Tribunal local decretou a prisão preventiva do paciente, em julho de 2016. Por força de liminar de Ministro deste Superior Tribunal, o suspeito foi submetido a medidas cautelares menos gravosas.
+O Parquet ofereceu denúncia, não juntada neste writ. Em 6/12/2016, o Desembargador do TJPI reconheceu sua incompetência absoluta e determinou a remessa dos autos ao Juízo de primeiro grau da Comarca de Bom Jesus/PI.
+A autoridade de primeiro grau, ao receber os autos, deveria ratificar ou não os atos decisórios anteriores. Ocorre que, desde que os autos foram distribuídos à Comarca de Bom Jesus, há mais de um ano, não houve confirmação do édito prisional.
+Nesse cenário, é de rigor reconhecer a nulidade do édito prisional exarado pelo Desembargador do TJPI, uma vez que o ato decisório não foi ratificado pelo Juízo competente para processar e julgar o paciente.
+À vista do exposto, com fundamento nos arts. 567 e 654, § 2º, ambos do CPP, concedo o habeas corpus para declarar a nulidade do decreto de prisão preventiva não ratificado e afasto todos os seus efeitos jurídicos. Em consequência, reconheço a prejudicialidade do pedido de revogação/substituição da cautela. Liminar cassada.
+Publique-se e intimem-se.
