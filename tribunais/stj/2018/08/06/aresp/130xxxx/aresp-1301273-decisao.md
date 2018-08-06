@@ -1,0 +1,38 @@
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 2/STJ. TESE DE VISA A APLICAÇÃO DO ARTIGO 917 DO CPC/1973. RAZÕES DO RECURSO ESPECIAL DISSOCIADAS DO FUNDAMENTO DO ACÓRDÃO DE ORIGEM. SÚMULA 283/STF. AGRAVO CONHECIDO PARA NÃO SE CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o processamento de recurso especial em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, cuja ementa assim estabelece:
+PROCESSO CIVIL. PROCEDIMENTO ESPECIAL DE PRESTAÇÃO DE CONTAS. PROCEDIMENTO COMPOSTO POR DUAS FASES. AUSÊNCIA DE SENTENÇA SOBRE EVENTUAL EXISTÊNCIA DE OBRIGAÇÃO DO APELADO DE PRESTAR CONTAS. AUSÊNCIA DE CONTAS NA FORMA MERCANTIL. RECURSO DE APELAÇÃO PROVIDO.
+1. Cinge-se a questão em saber se o apelado tem obrigação de prestar contas ao apelante e se existe, de acordo com os documentos acostados aos autos, crédito em favor do apelante.
+2. O procedimento especial de prestação de contas divide-se em dois momentos: no primeiro, verifica-se se existe a obrigação de prestar contas do demandado, sendo este preliminar ao segundo; e, no segundo, apenas seja constatada a necessidade de o demandado prestar contas, apura-se eventual saldo devedor em favor de qualquer uma das partes, dado o caráter dúplice do referido procedimento especial.
+3. A princípio, não haveria problema em se passar diretamente à verificação de eventual saldo, caso o apelado tivesse realmente apresentado as contas, sem contestar a pretensão do apelante. Contudo, o apelado, em sua contestação, refutou sua obrigação de prestar contas ao apelante, sem juntar aos autos qualquer conta, seja sob sua forma "mercantil" ou não.
+4. Tanto o procedimento administrativo trazido aos autos (fls.59/391), quanto os valores indicados pelo apelante, às fls. 394/395, não constituem prestação de contas, já que não foram apresentados sob a forma mercantil, conforme exigido pelo art.917, do Código de Processo Civil.
+5. "As contas apresentadas de forma não mercantil podem ser consideradas se forem apresentadas de maneira clara e inteligível de forma a atingir as finalidades do processo", o que nâo ocorrera no caso concreto.
+6. Faz-se necessária a anulação da sentença para que o juízo a quo possa apreciar se há, ou não, a obrigação do apelado em prestar contas para, posteriormente - e acaso confirmada referida obrigação -, possam as contas ser apresentadas, nos moldes do que preconiza o art.917, do Código de Processo Civil.
+7. Recurso de apelação provido.
+Os embargos de declaração foram rejeitados.
+Nas razões de recurso especial, fundamentado no artigo 105, III, a, do permissivo constitucional o recorrente alega a violação aos artigos 37 e 70, da Constituição Federal e 917 do CPC/1973, ao sustentar que o processo administrativo de tomada de contas não obedeceu a forma "mercantil", conforme exigido pelo artigo 917 do CPC/1973.
+O prazo para a apresentação de contrarrazões ao recurso especial transcorreu in albis.
+Em decisão interlocutória, o Tribunal de origem inadmitiu o processamento do apelo especial.
+Nas razões do agravo, o recorrente rechaçou os fundamentos de inadmissão do apelo especial.
+Sem a apresentação de contraminuta ao agravo em recurso especial.
+É o relatório. Passo a decidir.
+Antes de mais nada, necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 2/STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+A tese do recorrente afiram que no processo de tomada de contas em desfavor da recorrida, deve obedecer o procedimento que adote a forma "mercantil" consoante os termos do artigo 917 do CPC/1973.
+Afirma ainda que as contas elaboradas pelo recorrido não servem para analisar o mérito da ação de prestação de contas ajuizada pelo Centro Educacional.
+O Tribunal de origem cassou a decisão de primeira instância, determinando o retorno do processo à instância a quo para que "possa apreciar se há, ou não, a obrigação do apelado em prestar contas para, posteriormente - e acaso confirmada referida obrigação -, possam as contas ser apresentadas, nos moldes do preconiza o artigo 917 do Código de Processo Civil"
+Como se pode notar, o Tribunal de origem anulou a decisão de primeira instância, determinando que se reabra o campo probatório e processada a análise sobre a possibilidade de aplicação do artigo 917 do CPC/1973.
+Portanto, não estamos diante da violação do sobredito artigo do Código de Processo Civil, uma vez que o acórdão determinou a retomada da instrução probatória para posteriormente se analisar a incidência do 917 do CPC/1973.
+Neste sentido, as razões deste recurso especial se antecipa a algo que ainda não ocorreu, qual seja, a violação de fato do artigo 917 do CPC/1973. Assim, verifica-se que a fundamentação do apelo especial está dissociada da razões determinantes proferidas pelo acórdão recorrido, pois o Tribunal de origem cassou a sentença para que o juízo de primeira instância analise em campo probatório se cabe a aplicação do artigo 917 do CPC/1973.
+Logo, a subsistência de fundamento inatacado apta a manter a conclusão do aresto vergastado impõe o não conhecimento da pretensão recursal, conforme o entendimento disposto na Súmula 283/STF.
+A propósito:
+
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ICMS. BASE DE CÁLCULO EFETIVA INFERIOR À PRESUMIDA. DESCONFORMIDADE COM ORIENTAÇÃO FIRMADA PELO STF EM REPERCUSSÃO GERAL NO RE 593.849/MG. REQUISITOS. ART. 1.022 DO CPC/2015. CONTRADIÇÃO. EXISTÊNCIA. EMBARGOS ACOLHIDOS, COM EFEITOS INFRINGENTES.
+1. Os embargos declaratórios, nos termos do art. 1.022 do CPC/2015, são cabíveis quando houver: a) obscuridade; b) contradição; c) omissão no julgado, incluindo-se nesta as condutas descritas no art. 489, § 1º, que configurariam a carência de fundamentação válida; ou d) erro material. No caso dos autos, verifica-se a existência de contradição.
+2. No ponto, o Tribunal de origem afirmou que a sociedade embargada não demonstrou ter assumido o encargo financeiro relacionado ao tributo. Para afastar o entendimento a que chegou a Corte a quo, de modo a albergar as peculiaridades do caso e verificar se a embargada assumiu o encargo financeiro, seja pela eventual não ocorrência do fato gerador ou por sua ocorrência com base de cálculo reduzida, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em apelo excepcional por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+3. Constata-se, ainda, que o aresto combatido se encontra sedimentado na inexistência de suportes jurídico e fático ao pedido da sociedade empresária. No entanto, a insurgência limita-se a impugnar apenas um desses fundamentos, qual seja, a ausência de suporte jurídico, deixando incólume a justificativa pela ausência de lastro fático.
+4. A não impugnação de fundamento suficiente para manter o acórdão recorrido atrai a aplicação do óbice da Súmula 283/STF, inviabilizando o conhecimento do apelo extremo.
+5. Embargos de declaração acolhidos, com efeitos infringentes, para não conhecer do recurso especial.
+(EDcl no REsp 659.150/DF, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 21/06/2018, DJe 27/06/2018)
+Diante do exposto, com fundamento no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
