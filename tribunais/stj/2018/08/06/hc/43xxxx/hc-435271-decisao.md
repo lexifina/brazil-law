@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, no qual se busca a revogação da prisão preventiva, com a alegação de não estarem presentes os requisitos autorizadores da segregação cautelar, ou a aplicação de medidas alternativas.
+O acórdão combatido foi assim ementado (fl. 33):
+HABEAS CORPUS - FURTO QUALIFICADO, ASSOCIAÇÃO CRIMINOSA E PORTE ILEGAL DE ARTEFATO EXPLOSIVO OU INCENDIÁRIO - PRISÃO PREVENTIVA - PRESENÇA DOS REQUISITOS PARA MANUTENÇÃO DA PRISÃO CAUTELAR - DECISÃO SUFICIENTEMENTE FUNDAMENTADA NOS TERMOS DO ART. 93, IX, DA CONSTITUIÇÃO FEDERAL - DEMONSTRADA A NECESSIDADE DA GARANTIA DA ORDEM PÚBLICA - IMPOSSIBILIDADE DE APLICAÇÃO DAS MEDIDAS CAUTELARES DO ART. 319 DO CPP - IRRELEVÂNCIA DAS CONDIÇÕES PESSOAIS FAVORÁVEIS - ORDEM DENEGADA.
+O paciente, IZAEL HORA DOS SANTOS, responde pela prática do delito tipificado no artigo 155, § 4º, I e IV, do Código Penal, c/c o artigo 288 do mesmo diploma legal, bem como o artigo 16, III da Lei 10.826/2003.
+A liminar foi indeferida.
+As informações foram prestadas.
+O Ministério Público manifestou-se pelo não conhecimento habeas corpus.
+Na origem, o processo n. 0001241-25.2017.8.25.0007 encontra-se em fase de instrução, tendo sido marcada audiência para o dia 31/8/2018, conforme informações processuais eletrônicas do site do Tribunal a quo, consultadas em 11/7/2018.
+É o relatório.
+DECIDO.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A decisão de prisão preventiva restou assim fundamentada (fls. 38/42):
+ .. .No caso dos autos, no tocante ao primeiro requisito, encontram-se suficientemente comprovadas a materialidade delitiva e indícios de autoria, a teor do próprio depoimento do flagranteado, onde reconhece de forma minuciosa a ação criminosa de explosão dos terminais eletrônicos do BRADESCO da cidade de Riachão do Dantas, ocorrida no dia de ontem. Sem dúvida, presentes os indícios suficientes da autoria. A materialidade por sua vez é atestada pelo auto de apreensão dos materiais bélico e explosivo encontrados em posse do flagrado, e pela expressiva quantia em dinheiro proveniente da subtração perpetuada.
+Quanto ao requisito do periculum libertatis, este se encontra respaldado na garantia da ordem pública, uma vez que os delitos ora apurados são de extrema gravidade e reprovação social, causando, sem sombra de dúvida, um grave sentimento de temor na população local, e pondo em xeque mesmo a ordem e segurança pública, neste sentido a jurisprudência preleciona:
+(..)
+Insta salientar que, não obstante a alteração da lei 12.403/2011, não vislumbro os requisitos para a concessão da liberdade provisória, ao revés, entendo que no caso em apreço admite-se e faz-se necessária, como acima fundamentada, a decretação da custódia cautelar, eis que a conduta narrada neste feito é de crime de furto qualificado, em concurso com formação de quadrilha ou bando e posse de artefato explosivo sem autorização, cuja penas privativas de liberdade somadas, em seus maiores patamares, superam, e muito, o teto exigido de 04 anos para fixação da prisão preventiva.
+Conforme dispõe o art. 313, com alteração da Lei nº 12.403/11:
+(..)
+Por todo o exposto, em atenção ao disposto no art. 310, II c/c art. 312 e art. 313, I, todos do CP, CONVERTO a prisão em flagrante do indicaido IZAEL HORA DOS SANTOS em PRISÃO PREVENTIVA. .. .
+Como já adiantado no exame da liminar, integra a decisão de prisão fundamento concreto, explicitado no modus operandi do delito, pois o Juiz de primeiro grau ressaltou que a conduta narrada neste feito é de crime de furto qualificado, em concurso com formação de quadrilha ou bando e posse de artefato explosivo sem autorização, e, em parágrafos anteriores, informou apreensão dos materiais bélico e explosivo encontrados em posse do flagrado, e pela expressiva quantia em dinheiro proveniente da subtração perpetuada.
+Com efeito, a jurisprudência desta Corte Superior é pacífica no sentido de que a constrição cautelar impõe-se pela gravidade concreta da prática criminosa, causadora de grande intranquilidade social, revelada no modus operandi do delito, e diante da acentuada periculosidade do acusado, evidenciada na propensão à prática delitiva e conduta violenta. Confira-se: HC n. 299762/PR - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 2/10/2014; HC n. 169996/PE - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 1º/7/2014; RHC n. 46707/PE - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 18/6/2014; RHC n. 44997/AL - 6ª T. - unânime - Rel. Min. Marilza Maynard (Des. convocada do TJSE) - DJe 12/5/2014; RHC n. 45055/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 31/3/2014.
+Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
