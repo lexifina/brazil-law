@@ -1,0 +1,7 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO FEDERAL, ora recorrente, alega sofrer constrangimento ilegal em decorrência de acórdão prolatado pelo Tribunal Regional Federal da 5ª Região no MS n. 0800356-58.2015.4.0000.
+Depreende-se dos autos que o Parquet Federal pleiteou ao Magistrado de origem, na Ação Penal n. 0000164-72.2015.4.05.8500, fossem requisitadas as certidões e folhas de antecedentes criminais do denunciado constantes nos bancos de dados da Secretaria de Segurança Pública de Sergipe e do Departamento de Polícia Federal, bem como as certidões do que houver existentes nas Secretarias Criminais dos foros das Comarcas integrantes da circunscrição territorial pertencentes à Vara Federal da Seção Judiciária de Sergipe. O pedido foi indeferido.
+Irresignado, o Ministério Público Federal impetrou mandado de segurança perante a Instância a quo, que denegou a segurança, o que ensejou este recurso ordinário.
+Em consulta à página eletrônica do Tribunal de origem, verifico que, em 16/12/2015, na ação penal aludida, o denunciado foi absolvido das condutas que lhe foram imputadas, com trânsito em julgado para a acusação, em 11/1/2016, circunstância que evidencia a perda de objeto desta insurgência.
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 246, ambos do RISTJ, julgo prejudicado este recurso em mandado de segurança, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
