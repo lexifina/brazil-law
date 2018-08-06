@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535, INC. II, DO CPC/1973. NÃO OCORRÊNCIA. ART. 13 DA LEI 9.065/1995. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. VIOLAÇÃO DA COISA JULGADA. NÃO OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. ARTS. 470, 472 E 473 DO CPC/1973. AUSÊNCIA DE COMANDO NORMATIVO. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 7/STJ.
+O apelo nobre obstado enfrenta acórdão assim ementado (fl. 109):
+PROCESSUAL CIVIL. APELAÇÃO CÍVEL EM EMBARGOS À EXECUÇÃO. RESTITUIÇÃO DE CRÉDITO TRIBUTÁRIO. JUROS DE MORA NÃO INCLUÍDOS NOS CÁLCULOS. EXCESSO DE EXECUÇÃO NÃO DEMONSTRADO.
+1. Os embargos à execução opostos pela União Federal fundamentan-se em cálculo efetuato pela Receita Federal do Brasil, que encontrou valor menor que aquele encontrado pela exequente.
+2. No descritivo de cálculos, como também na planilha acostada, não se verifica que a Receita Federal do Brasil tenha feito incidir os juros de mora determinados na sentença.
+3. A contadoria do juízo informa também que há erro nos cálculos da embargante ao aplicar a UFIR de conversão de janeiro de 1996, quando o correto seria a aplicação do índice de janeiro de 1997.
+4. O somatório dos erros indicados determina a diferença - a menor, do valor resultante dos cálculos apresentados pela embargada, elaborados pela Receita Federal do Brasil, sem observar todos os dispositivos do comando sentencial, atendo-se somente à forma de cálculo oferecida pela tabela prática disponível no sítio do INSS na internet.
+5. O erro de cálculo da embargante é grosseiro, tornando improcedentes os embargos à execução e irreparável a sentença apelada.
+6. Recurso que se conhece e, no mérito, se nega provimento.
+Embargos de declaração parcialmente acolhidos, sem efeitos modificativos.
+No recurso especial, a recorrente alega violação do art. 535, inc. II, do CPC/1973, ao argumento de que a Corte local não se manifestou a respeito das seguintes questões: a) legislação que rege a matéria; b) violação da coisa julgada; c) incidência dos expurgos, sendo que o título judicial em execução os exclui expressamente.
+Quanto à questão de fundo, sustenta ofensa aos arts. 467, 468, 470, 471, 472 e 473 do CPC/1973 e 13 da Lei 9.065/1995, sob os seguintes argumentos: a) o acórdão em execução, transitado em julgado, exclui a aplicação dos expurgos inflacionários, porque esses índices não são aplicados na cobrança da contribuição; b) estão incorretos tanto os cálculos da parte autora quanto os da Contadoria Judicial, por incluir os expurgos inflacionários, violando a coisa julgada; c) os cálculos da DRFB não aplicaram juros de mora porque já aplicaram a Taxa SELIC, sendo indevida a sua aplicação cumulativa com juros de mora.
+Com contrarrazões.
+Neste agravo, afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontra presente o óbice apontado na decisão agravada.
+É o relatório. Decido.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016).
+Afasta-se a alegada violação do art. 535, inc. II, do CPC/1973, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No caso dos autos, observa-se assentado à fl. 120: "O quantum debeatur a ser apurado deve limitar-se ao comando inserto na sentença exeqüenda, sendo indevida a incidência de novos critérios, sob pena de ofensa à coisa julgada. (..) Todavia, na presente hipótese, não cabe falar em ofensa à coisa julgada, tendo em vista houve mero erro de cálculo, não ultrapassando os limites da sentença exeqüenda, conforme já esclarecido pela Contadoria Judicial.".
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao dispositivo indicado.
+Lado outro, no que diz respeito ao art. 13 da Lei 9.065/1995 (e à tese a ele vinculada), verifica-se que, a despeito da oposição dos embargos de declaração, não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Incide ao caso a Súmula 211/STJ.
+Já no que diz respeito ao tema "coisa julgada", a Corte de origem, após ampla análise do conjunto fático-probatório, como visto, firmou compreensão no sentido da inocorrência de ofensa à coisa julgada, vez que respeitados os limites impostos pela sentença exequenda.
+Assim, tem-se que a revisão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Por fim, acrescenta-se que não é possível conhecer do recurso especial que apresenta suposta violação dos arts. 470, 472 e 473 do CPC/1973, pois eles não contêm comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido. Aplica-se à hipótese, também, a Súmula 284/STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
