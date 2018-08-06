@@ -1,0 +1,19 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. INTERVENÇÃO DO ESTADO NA PROPRIEDADE. DESAPROPRIAÇÃO POR UTILIDADE PÚBLICA. ARBITRAMENTO DA INDENIZAÇÃO. EXORBITÂNCIA. PETIÇÃO RECURSAL DEFICIENTE. FALTA DE INDICAÇÃO DE PRECEITO LEGAL FEDERAL VIOLADO. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+O Município de Passo Fundo agrava da decisão denegatória de seguimento ao recurso especial interposto com fundamento no art. 105, inciso III, da Constituição da República, contra o acórdão prolatado pelo Eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. DESAPROPRIAÇÃO. AVALIAÇÃO JUDICIAL. ART. 26 DO DECRETO 3.365/41. VALOR CONTEMPORÂNEO À AVALIAÇÃO. HONORÁRIOS. JUROS COMPENSATÓRIOS. BASE DE CÁLCULO.
+1. Nos termos do art. 26 do Decreto nº 3.365/41, o valor da indenização, nos feitos que tratam de desapropriação, será contemporâneo à avaliação. Precedentes do STJ.
+2. Os honorários, nas ações de desapropriação, devem ser fixados entre 0,5% e 5% da diferença entre o valor ofertado e o valor da condenação.
+3. A base de cálculo dos juros compensatórios deve ser o valor da diferença entre 80% da quantia ofertada e o valor final da indenização, nos termos do decidido pelo STF no julgamento de medida cautelar na ação direta de inconstitucionalidade nº 2.332-2. Precedentes. APELAÇÃO PARCIALMENTE PROVIDA.
+(Apelação Cível Nº [CPF], Quarta Câmara Cível, Tribunal de Justiça do RS, Relator: Francesco Conti, Julgado em 26/04/2017)
+Trata-se de ação de desapropriação em que determinada a condenação da municipalidade ao pagamento de R$ 321.951,06 (trezentos e vinte e um mil, novecentos e cinquenta e um reais e seis centavos) a título de indenização, valor tal que, por ser bastante superior à oferta de R$ 78.533,12 (setenta e oito mil, quinhentos e trinta e três reais e doze centavos), ensejou a interposição de recurso especial cujas razões apregoam a exorbitância do montante, isso a caracterizar o enriquecimento sem causa da parte desapropriada.
+A inadmissibilidade do apelo raro pautou-se pelo óbice da Súmula 07/STJ, ponto devidamente refutado na minuta do agravo (e-STJ fls. 519/522 e 529/532, respectivamente).
+Contraminuta em e-STJ fls. 541/545.
+É o relatório.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Quanto ao agravo em si, conheço dele porquanto refutada a motivação utilizada no juízo de admissibilidade da origem, mas o recurso especial não comporta trânsito regular.
+Há prevalecer para esse resultado que o recurso especial constitui modalidade de impugnação de fundamentação estrita e vinculada à demonstração de contrariedade ou de negativa de vigência a preceito de tratado ou de lei federal, de sorte a ser necessário, portanto, que as razões do apelo raro evidenciem em que medida o acórdão da origem incorreu, quer diretamente, quer por julgamento de validade de ato de governo local em face de lei federal ou, ainda, por interpretação divergente daquela atribuída por outro tribunal, na dita malversação de preceito legal federal.
+No caso concreto, contudo, as razões do apelo raro manejado pela municipalidade ressentem-se de texto recursal nesse sentido, daí por que deficientes e ensejadoras do óbice da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Assim, com fulcro no art. 932, inciso III, do CPC/2015, e no art. 253, parágrafo único, inciso II, alínea "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
