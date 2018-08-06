@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO INDENIZATÓRIA.
+DANO MORAL. EXECUÇÃO. PROSSEGUIMENTO. DÉBITO QUITADO.
+O reconhecimento à compensação por dano moral exige a prova de ato ilícito, a demonstração do nexo causal e o dano indenizável que se caracteriza por gravame ao direito personalíssimo, situação vexatória ou abalo psíquico duradouro.
+Não se justifica ação com pleito de reparação moral por penhora ou impulso indevido da execução. O pagamento quando efetuado no decorrer da execução tem como única conseqüência a extinção do processo e respectivas conseqüências processuais. - Circunstância dos autos em que se impõe manter a sentença.
+RECURSO DESPROVIDO." (fl. 224)
+Nas razões do recurso especial, a parte agravante alega violação aos arts. 186 e 927, do Código Civil, sustentando, em síntese, isto: a) a parte agravada procedeu de forma ilícita, uma vez que manteve andamento de demanda judicial com intuito de cobrar dívida já adimplida; b) os autores foram vítimas de um ato ilícito constituindo em abalo moral de forma absolutamente inequívoca.
+É o relatório. Decido.
+No que se refere à responsabilidade civil, a Corte de origem, ao dirimir a controvérsia, mediante o exame dos elementos informativos dos autos, entendeu não configurado o dever de indenizar em razão de não se justificar ação com reparação moral por penhora ou impulso indevido da execução, consignando, na oportunidade, o seguinte:
+"No caso dos autos, a parte autora recorre sustentando que por ser titular do direito de exercício da ação visando o recebimento do seu crédito, o credor também tem o dever de informar o juízo o perecimento desse direito, em especial nas hipóteses de sua extinção pelo pagamento/adimplemento do débito pelo devedor, que o dever de indenizar surge a partir de um fato ilícito, e não do tempo durante o qual esse fato ocorreu; que a parte ré deve ser condenada pelos danos morais sofridos.
+No entanto, a sentença é sonante com os fundamentos já lançados, cabendo transcrever, em aditamento:
+(..)
+De qualquer sorte, em que pese tenha sido afastado a preliminar da falta de interesse de agir, entendo que a parte autora, teria a faculdade nos autos do processo executivo, após a comunicação do juízo da quitação do débito, ter requerido, como obrigação de fazer, o levantamento da restrição, podendo, inclusive, postular astreintes em caso de inércia, pois o descumprimento da obrigação de fazer no âmbito da respectiva execução gera a liquidação das perdas e danos incidentes, sem prejuízo de eventual multa, a qual representaria a composição de danos morais. Contudo, assim não procedeu. Entendo, portanto, que a parte autora poderia sim ter diligenciado e dirimido eventual prejuízo que sustenta ter suportado. Importante mencionar que cabia à parte autora provar eventuais danos, capazes de provocar algum abalo psicológico e prejuízos patrimoniais efetivos, o que não ocorre no caso concreto. Nas palavras de [NOME].
+(..)
+Na lide sub judice, não se constata a ocorrência de danos morais, à medida que as circunstâncias demonstradas mediante a prova documental carreada não traduz abalo ao bem-estar da parte autora, a qual poderia ter agido de modo a minimizar a demora na elucidação da demanda executiva ou ter como sustentado acima diligenciado, entretanto, assim não procedeu.
+Quanto aos danos materiais, trago à baila a lição doutrinária de [NOME].
+(..)
+Imediatamente, como já sustentado inexiste eventual ato ilícito cometido pela ré. No mais, não se observa que a parte autora tenha acostado documento(s) iddneo(s) capaz(es) de sustentar o alegado a efetiva perda.
+Refiro que meras alegações, sem a devida comprovação, não detêm o condão de caracterizar-se como meio probatório por si só. Outrossim, mesmo que acostados documentos, estes devem estar correlacionado ao fato, demonstrando a conexão deste com o evento danoso. Ausente a efetiva demonstração, afugento a pretensão postulada. Assim, a improcedência da ação é a medida que se impõe.
+Assim, a sentença aplicou a medida de direito adequada ao caso concreto.
+Com efeito, o reconhecimento à compensação por dano moral exige a prova de ato ilícito, a demonstração do nexo causal e o dano indenizável que se caracteriza por gravame ao direito personalíssimo, situação vexatória ou abalo psíquico duradouro. Não se justifica ação com pleito de reparação moral por penhora ou impulso indevido da execução. O pagamento quando efetuado no decorrer da execução tem como única conseqüência a extinção do processo e respectivas conseqüências processuais.
+Circunstância dos autos em que se impõe manter a sentença de improcedência." (e-STJ, fls. 230/232)
+Ademais, infirmar as conclusões do julgado, como ora postulado, para reconhecer que ficou demonstrada a prova de ato ilícito, existindo, assim, o dever de indenizar, demandaria o revolvimento do suporte fático-probatório dos autos, o que encontra vedação no enunciado da Súmula nº 7 deste Superior Tribunal de Justiça.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Majoro os honorários advocatícios, com fundamento no art. 85, §11, do CPC/15, de 15% (quinze por cento) para 16% (dezesseis por cento) sobre o valor da causa, ressalvada eventual gratuidade de justiça.
+Publique-se.
