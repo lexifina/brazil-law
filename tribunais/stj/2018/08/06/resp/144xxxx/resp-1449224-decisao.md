@@ -1,0 +1,37 @@
+DECISÃO
+TRIBUTÁRIO. EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. MULTA APLICADA PELO TRIBUNAL DE CONTAS. APLICAÇÃO DO PRAZO PRESCRICIONAL QUINQUENAL PREVISTO NO DECRETO 20.910/1932. RECURSO ESPECIAL PROVIDO.
+1. Trata-se de Recurso Especial interposto por ROMEU MARTINS RIBEIRO, com fundamento nas alíneas a e c do art. 105, III da Constituição Federal, contra acórdão proferido pelo egrégio TJ/RS, assim ementado:
+APELAÇÃO CÍVEL. DIREITO PÚBLICO NÃO ESPECIFICADO. EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CERTIDÃO DO TRIBUNAL DE CONTAS.
+I. A decisão do Tribunal de Contas que impõe imputação de débito ou multa eficácia de titulo executivo extrajudicial, nos termos do que disposto no art. 71, § 3o. da Constituição Federal.
+II. Inocorrência da prescrição. Praz decenal. Débito não-tributário. Inaplicabilidade do Decreto 20910/32.
+III. Anatocismo não demonstrado.
+IV. Juros de mora devidos desde o inadimplemento do parcelamento firmado pelo embargante.
+2. Os Embargos de Declaração opostos foram rejeitados (fls. 358).
+3. Em seu Apelo Especial, a parte recorrente aponta violação do art. 515 do CPC/1973 bem como divergência jurisprudencial. Sustenta, em síntese, a aplicação do prazo prescricional quinquenal previsto no Decreto 20.910/1932, para os casos de execução de multa de natureza não tributária.
+4. Sem Contrarrazões, o recurso foi admitido na origem (fls. 434/437).
+5. É o relatório.
+6. A insurgência merece prosperar.
+7. Verifica-se que o acórdão recorrido adotou entendimento em dissonância com a jurisprudência desta Corte, a qual entende pela aplicação do prazo prescricional quinquenal previsto no Decreto 20.910/1932, para os casos de execução de multa aplicada pelo Tribunal de Contas. Nesse sentido:
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. MULTA APLICADA PELO TRIBUNAL DE CONTAS. VIOLAÇÃO DO ARTIGO 6º DA LINDB. MATÉRIA DE NATUREZA CONSTITUCIONAL. VIOLAÇÃO AO ART. 535 DO CPC. NÃO OCORRÊNCIA. DISPOSITIVOS DE LEI FEDERAL NÃO PREQUESTIONADOS. SÚMULA 211/STJ. PRESCRIÇÃO NÃO CONFIGURADA. DECRETO 20.910/32. OFENSA AO PRINCÍPIO DA AMPLA DEFESA. REEXAME DE PROVAS. IMPOSSIBILIDADE. COISA JULGADA. FUNDAMENTOS DO ACÓRDÃO RECORRIDO INATACADOS. SÚMULA 283/STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA.
+1. Em recurso especial não cabe invocar violação a norma constitucional.
+2. De acordo com a jurisprudência iterativa desta Corte, a matéria contida no art. 6º da LINDB (ato jurídico perfeito, direito adquirido e coisa julgada) é de cunho eminentemente constitucional, pois, apesar de estar estampada em norma infraconstitucional, consiste em mera reprodução do art. 5º, XXXVI, da CF.
+3. Não se verifica a ofensa ao art. 535 do CPC, quando o Tribunal de origem dirime, fundamentadamente, as questões que lhe são submetidas, apreciando integralmente a controvérsia posta nos autos, não se havendo falar em omissão.
+4. O Tribunal de origem não se pronunciou sobre a matéria versada nos artigos 128, 460, 467, 468, 471, 474 do CPC; 6º, § 3º, da LINDB; 286 da Lei 6.404/76, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, pois, incide o óbice da Súmula 211/STJ.
+5. A Corte local decidiu em conformidade com os precedentes desta Corte, no sentido de que o ajuizamento da execução fiscal para a cobrança de multa aplicada pelo Tribunal de Contas deve observar o prazo quinquenal previsto no Decreto 20.910/32.
+6. No que se refere à violação ao art. 130 do CPC, a alteração do entendimento esposado pelo aresto recorrido, demandaria, necessariamente, novo exame do acervo fático constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+7. Acerca da indicada ofensa à coisa julgada, o recurso especial não impugnou fundamentos basilares que amparam o acórdão recorrido, esbarrando, pois, no obstáculo da Súmula 283/STF.
+8. Por fim, o recurso especial não pode ser conhecido no tocante à alínea c do permissivo constitucional. Isso porque o dissídio jurisprudencial não foi demonstrado na forma exigida pelos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+9. Agravo regimental a que se nega provimento (AgRg no REsp. 1.070.761/RS, Rel. Min. SÉRGIO KUKINA, DJe 1o.3.2016).
+
+TRIBUTÁRIO. SERVIDOR PÚBLICO. CONTRIBUIÇÃO PREVIDENCIÁRIA. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.
+Nos termos da jurisprudência pacífica do STJ, o prazo prescricional nas ações de cobrança de multa aplicada pelo Tribunal de Contas, devido a infração administrativa, é de cinco anos, contado do momento em que se torna exigível o crédito, nos termos do art. 1º do Decreto n. 20.910/32. Súmula n. 83/STJ. Precedentes: AgRg no REsp 1.409.183/PR, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, julgado em 16/6/2014; AgRg no REsp 1.475.455/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, julgado em 23/10/2014; AgRg no AREsp 65.111/RN, Rel. Min. Benedito Gonçalves, Primeira Turma, julgado em 23/4/2013; AgRg no REsp 1.176.888/RJ, Rel. Min. Ari Pargendler, Primeira Turma, julgado em 05/03/2013.
+Agravo regimental improvido (AgRg no AREsp. 685.695/RS, Rel. Min. HUMBERTO MARTINS, DJe 25.6.2015).
+
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. O PRAZO PRESCRICIONAL PARA AJUIZAR-SE A EXECUÇÃO FISCAL DE MULTA ADMINISTRATIVA É QUINQUENAL E CONTADO DO MOMENTO EM QUE SE TORNA EXIGÍVEL O CRÉDITO (ART. 1o. DO DECRETO-LEI 20.910/32). RESP. 1.105.442/RJ, REL. MIN. HAMILTON CARVALHIDO, DJE 22.02.2011, REPRESENTATIVO DA CONTROVÉRSIA. INOCORRE, NO CASO, A PRESCRIÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. É de cinco anos o prazo prescricional para o ajuizamento da execução fiscal de cobrança de multa de natureza administrativa, contado do momento em que se torna exigível o crédito - art. 1o. do Decreto 20.910/32. Recurso representativo da controvérsia: REsp. 1.105.442/RJ, Rel. Min. HAMILTON CARVALHIDO, DJe 22.02.2011. No caso dos autos, o crédito exeqüendo oriundo da multa administrativa aplicada pelo Tribunal de Contas estadual foi constituído em 15.04.2004, a execução fiscal ajuizada em 13.11.2006 e a citação por edital realizada em 14.04.2010.
+2. Ao julgar o REsp 1.120.295/SP, Rel. Min. LUIZ FUX, DJe 21.05.2010, representativo da controvérsia, esta Corte Superior fixou o entendimento de que nas execuções fiscais a citação retroage à data da propositura da ação para o fim de interromper a prescrição, a teor do art. 219, § 1o. do CPC, desde que a citação tenha ocorrido em condições regulares, ou que, havendo mora, seja esta imputável aos mecanismos do Poder Judiciário.
+3. O acórdão combatido revela que o Tribunal de origem não se manifestou a respeito da responsabilidade pelo tempo decorrido entre a propositura da demanda e a citação editalícia, de modo que não se pode, nesta sede, imputá-la à exequente, mesmo porque o presente caso não se mostra violador da razoabilidade, afinal, foram três anos e cinco meses para a citação por edital. Em suma: a verificação de responsabilidade pela demora na prática dos atos processuais implica indispensável reexame de matéria fático-probatória, o que é vedado a esta Corte Superior, na estreita via do Recurso Especial, ante o disposto na Súmula 07/STJ. Recurso representativo da controvérsia: REsp. 1.102.431/RJ, Rel. Min. LUIZ FUX, DJe 01.02.2010.
+4. Agravo Regimental desprovido (AgRg no REsp. 1.409.183/PR, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 6.8.2014).
+8. Ante o exposto, dá-se provimento ao Recurso Especial do particular para reconhecer a aplicação do prazo prescricional quinquenal.
+9. Publique-se.
+10. Intimações necessárias.
