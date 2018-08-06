@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro, relatora a Desembargadora Gizelda Leitão Teixeira, Apelação Criminal n. 0234671-04.2016.8.19.0001.
+Foi o paciente condenado, pela conduta descrita no art. 16, caput, da Lei n. 10.826/2003, à pena de 3 (três) anos de reclusão, a ser cumprida inicialmente no regime fechado, bem assim ao pagamento de 10 (dez) dias-multa.
+Contra o édito condenatório insurgiram-se as partes.
+Em sessão de julgamento realizada em 6 de fevereiro de 2018, os desembargadores integrantes da Quarta Câmara de Direito Criminal, por unanimidade de votos, negaram provimento ao recurso da defesa e deram provimento ao inconformismo ministerial para aumentar a reprimenda a 3 (três) anos e 6 (seis) meses de reclusão, mais 11 (onze) dias-multa, mantidas as demais disposições da sentença condenatória.
+No Superior Tribunal de Justiça, busca a Defensoria Pública a compensação, na segunda etapa da dosimetria, da atenuante da confissão espontânea com a agravante da reincidência.
+Não houve pedido liminar.
+Ouvido, o Ministério Público Federal manifestou-se pela concessão da ordem (e-STJ fls. 74/76).
+É, em síntese, o relatório.
+Na espécie, o colegiado local, para dar provimento ao recurso ministerial e afastar a compensação entre a agravante da reincidência e a atenuante da confissão espontânea, apresentou estas justificativas (e-STJ fls. 14/17):
+O magistrado sentenciante compensou a agravante da reincidência com a atenuante da confissão, agindo equivocadamente.
+Com intuito de elucidar o tema, torna-se pertinente esclarecer que o artigo 67 do Código Penal determina que, no concurso de agravantes e atenuantes, a pena deve aproximar-se do limite indicado pelas circunstâncias preponderantes, entendendo-se como tais as que resultam dos motivos determinantes do crime, da personalidade do agente e da reincidência.
+Assim, entre as circunstâncias atenuantes e agravantes, devem prevalecer nesta ordem: os motivos determinantes do crime, a personalidade do agente e a reincidência. Observa-se, portanto, que a reincidência, como expressa circunstância preponderante, predomina sobre a confissão, devendo a pena, quando as duas coexistirem, ser mais agravada do que reduzida.
+Desta forma, embora não possa ser desprezada a atenuante em questão na aplicação da pena aflitiva, pois a prevalência da reincidência não significa a sua exclusão, deve o magistrado, na segunda fase do sistema trifásico de aplicação da pena, majorá-la em função da preponderância da reincidência, mas de maneira mais branda do que o faria se o réu não tivesse confessado.
+A regra ditada pelo artigo 67 do Código Penal não autoriza o juiz a deixar de aplicar uma atenuante reconhecida na sentença por entender preponderante outra agravante também presente no caso concreto. A preponderância de uma circunstância sobre a outra, apenas autoriza que aquela que prepondera seja mais valorada do que a outra. Vejamos a lição de José Antonio Paganella Boschi em sua obra "Das Penas e seus critérios de aplicação":
+ ..
+Repisa-se que a reincidência, nos termos do art. 67 do Código Penal, é uma circunstância agravante que prepondera, sobre as atenuantes, com exceção daquelas que resultam dos motivos determinantes do crime ou da personalidade do agente, o que não é o caso da confissão espontânea, que consiste apenas na postura adotada pelo apelante como mera conveniência e estratégia para sua própria defesa. Ademais, no presente caso, não houve confissão, considerando o enunciado da Súmula 545 do STJ. Portanto, não há que se falar em compensação entre reincidência e confissão, pois esta última não existiu. Por todo o exposto, com razão o Órgão Ministerial, devendo a agravante da reincidência preponderar sobre a atenuante da confissão.
+Ressalto, inicialmente, que o entendimento desta Corte Superior era, de fato, de que a reincidência, como circunstância preponderante, deveria prevalecer sobre a atenuante da confissão espontânea, nos termos do art. 67 do Código Penal, não sendo admissível a compensação.
+Entretanto, a partir do julgamento dos Embargos de Divergência n. 1.154.752/RS, de relatoria do Ministro Sebastião Reis Júnior, julgado em 23 de maio de 2012, a Terceira Seção do Superior Tribunal de Justiça assentou o entendimento de que é possível a mencionada compensação das circunstâncias.
+Nesse sentido:
+PENAL. HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. FURTO PRATICADO DURANTE O REPOUSO NOTURNO. AGRAVANTE DA REINCIDÊNCIA E ATENUANTE DA CONFISSÃO ESPONTÂNEA. CIRCUNSTÂNCIAS IGUALMENTE PREPONDERANTES. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+ ..
+03. Ao julgar, sob o rito de "recurso repetitivo" (CPC, art. 543-C), os Embargos de Divergência em Recurso Especial n. 1.154.752/RS, decidiu a Terceira Seção do Superior Tribunal de Justiça que "é possível, na segunda fase do cálculo da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o art. 67 do Código Penal" (Rel. Ministro Sebastião Reis Júnior, julgado em 23/05/2012).
+04. Habeas corpus não conhecido. Concessão da ordem, de ofício, para redimensionar a pena privativa de liberdade aplicada ao paciente. (HC 294.343/RS, Rel. Ministro NEWTON TRISOTTO, DESEMBARGADOR CONVOCADO DO TJ/SC, QUINTA TURMA, julgado em 07/05/2015, DJe 19/05/2015, grifei.)
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. LEI 11.343/06. ART. 33, CAPUT, ART. 40, III. COMPENSAÇÃO DA CONFISSÃO ESPONTÂNEA COM A AGRAVANTE DA REINCIDÊNCIA. POSSIBILIDADE. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+III - A col. Terceira Seção deste eg. Superior Tribunal de Justiça, por ocasião do julgamento do Recurso Especial Repetitivo nº 1.341.370/MT (Rel. Min. Sebastião Reis Júnior, DJe de 17/4/2013), firmou entendimento segundo o qual "é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência."
+ ..
+Habeas corpus não conhecido. Ordem concedida de ofício para determinar a compensação da agravante da reincidência com a atenuante da confissão espontânea. (HC 311.153/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 05/05/2015, DJe 15/05/2015, grifei.)
+Evidente, portanto, o constrangimento ilegal.
+Passo, desse modo, à readequação da dosimetria da pena.
+Na primeira fase, mantenho a pena-base no mínimo legal - 3 (três) anos de reclusão e 10 (dez) dias-multa.
+Na segunda fase, a pena permanece naquele patamar, tendo em vista a compensação da agravante da reincidência com a atenuante da confissão.
+Na terceira etapa, ausentes causas de aumento e de diminuição, torno a reprimenda definitiva em 3 (três) anos de reclusão e 10 (dez) dias-multa.
+Ausentes circunstâncias judiciais desfavoráveis, embora reincidente o réu, possível a modificação do regime inicial de cumprimento da sanção para o semiaberto, tendo em vista o disposto no enunciado n. 269 da Súmula desta Casa.
+Ante o exposto, concedo a ordem para compensar, na segunda etapa do cálculo da reprimenda, a agravante da reincidência com a atenuante da confissão espontânea, e assim reduzir a pena definitiva aplicada ao paciente para 3 (três) anos de reclusão e 10 (dez) dias-multa, a ser cumprida inicialmente no regime semiaberto, mantido, no mais, o acórdão local.
+Publique-se. Intimem-se.
