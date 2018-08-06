@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão que concedeu a ordem de habeas corpus.
+Nas razões recursais, aponta o Ministério Público violação dos arts. 312, 647 e 648, todos do Código de Processo Penal.
+Sustenta que estão presentes os requisitos para a manutenção da prisão cautelar do recorrido, sendo indevido falar-se em excesso de prazo.
+Menciona que o Desembargador-Relator, porquanto utilizou-se dos fundamentos exarados no aresto nº [CPF], tendo em vista tratar-se de caso análogo, limitou-se a arbitrar, aritmeticamente, o prazo de 240 (duzentos e quarenta) dias de prisão como o máximo necessário à formação da culpa, propondo que a decorrência de lapso superior deve conduzir à soltura do paciente, que não poderia ser penalizado pela demora no andamento do feito, sendo acompanhado em tal conclusão pela Desembargadora Rosaura Marques Borba.
+Assinala que olvidou-se o Tribunal a quo de examinar se os requisitos ensejadores da decretação da prisão preventiva - previstos no artigo 312 do Código de Processo Penal, cuja vigência foi vulnerada - estavam, efetivamente, preenchidos no caso dos autos, passando ao largo do enfrentamento de questões cruciais para o deslinde da controvérsia  .. .
+Ressalta que o feito em tela não está vinculado a uma associação de traficantes qualquer, mas sim a um grupo criminoso organizado, vinculado à facção "os manos", atuando em diversos municípios deste Estado, e, que, ainda, além da prática de atos de mercancia de drogas, é acusado de diversos outros delitos.
+Requer o provimento do recurso a fim de restabelecer a prisão cautelar do recorrido.
+Contra-arrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo provimento do recurso.
+É o relatório.
+Decido.
+O Tribunal a quo revogou a prisão preventiva imposta ao recorrido, por excesso de prazo na formação da culpa, impondo-lhe medidas cautelares diversas da prisão, manifestando-se nos seguintes termos (fls. 1.099/1.103, com destaques):
+ ..  Adianto que concedo em parte a ordem impetrada, ratificando a liminar anteriormente deferida.
+Assim me manifestei, ao despachar a inicial:
+"Vistos.
+Adianto que é caso de concessão do pedido de liminar.
+Em sessão realizada na data de 25AGO2017, esta 2ª Câmara Criminal, por maioria de votos, concedeu as ordens de habeas corpus impetradas em favor dos corréus L.S.O., J.K.H., J.S.R., M.F.B., M.M.P, A.Q., D.S.C, R.R.S.A e J.F.M. 1 , diante do reconhecimento do excesso de prazo.
+Por todos, colaciono a ementa do aresto de n.º [CPF]:
+HABEAS CORPUS.
+PACIENTE DENUNCIADO PELO DELITO DE ORGANIZAÇÃO CRIMINOSA - ARTIGO 2º, §§ 2º E 4º, INCISO IV, DA LEI Nº 12.850/13, BEM COMO DELITO DO ARTIGO 12, DA LEI Nº 10.826/03.
+ARGUIÇÃO DE EXCESSO DE PRAZO ACOLHIDA.
+Tenho como possível a concessão da medida pleiteada.
+No caso, o ora paciente foi preso em 26SET2016.
+Efetivamente, mostra-se alongado em demasia o tempo decorrido, desde a efetivação da prisão do ora paciente até a data do presente julgamento, sem que tenha havido qualquer audiência.
+Não me parece adequado prolongar indefinidamente o encarceramento antecipado, relevando salientar que o atraso da marcha processual não pode ser imputado à defesa.
+O feito se encontra tramitando, não estando inerte, como se percebe da movimentação processual; demais disso, não se desconhece a circunstância de se tratar de feito com extenso número de réus e fatos criminosos; contudo, ao réu não pode ser imposto o ônus de aguardar por tempo demasiado, relevando salientar que ainda não houve a realização de qualquer audiência, estando o paciente preso, neste feito, desde setembro de 2016.
+Tendo sido a preventiva decretada em 09SET2016, sendo dita prisão efetivada em 26SET2016 e tendo sido aprazada audiência de instrução apenas para 17 de outubro de 2017, configura-se flagrante o excesso de prazo, extrapolado o prazo que deve nortear seu reconhecimento, como previsto na Lei 12.850/13, em seu artigo 22, parágrafo único.
+O paciente foi denunciado pelo delito de organização criminosa (além do delito do artigo 12 da Lei nº 10.826/03), mostrando-se razoável o decurso de até 240 dias de prisão, mediante decisão devidamente fundamentada a justificar tal encarceramento por este período, no que diz com o primeiro delito acima mencionado.
+No caso, a complexidade da causa justificava que o prazo se prorrogasse em até o dobro do preconizado na lei; contudo, tendo em vista que não foi realizada qualquer audiência no presente feito, dita circunstância autoriza o reconhecimento do excesso de prazo, até porque duvidosa a realização da solenidade na data aprazada, quando já decorrido mais de um ano da custódia do paciente.
+Não se desconhece a gravidade do delito em apreço, bem como a circunstância de que o feito envolve inúmeros réus, além de expedição de cartas precatórias, dentre outros elementos tidos como justificadores da exigência de uma maior maleabilidade dos prazos processuais, porém, não a ponto de se entender como razoável a constrição ora posta.
+Destarte, diante do excesso de prazo na custódia do paciente, concedo a ordem impetrada, assegurando-lhe o direito de responder ao restante do feito em liberdade.
+Nessas condições, concedo a liberdade provisória ao acusado M.F., essencialmente diante do reconhecimento do excesso de prazo.
+Diante do exposto, relaxo a constrição cautelar imposta ao paciente M.F.B., se sua situação pessoal assim o permitir, mediante as seguintes condições, cujo descumprimento acarretará a revogação do benefício: comparecer mensalmente a juízo, para informar e justificar suas atividades; manter endereço atualizado nos autos e fazer-se presente a todos os atos do processo, sempre que intimado. Voto vencido.
+Assim, caracterizado o excesso de prazo na segregação posta, cabível a concessão da ordem impetrada, assegurando-se ao paciente o direito de responder em liberdade ao restante do feito, se por outro motivo não estiver preso. Voto vencido.
+Voto vencido.
+ORDEM CONCEDIDA, POR MAIORIA
+Diante desse contexto, encontrando-se o paciente em situação similar, já que preso preventivamente desde 26SET2016, tenho que é medida de equidade dar-se ao paciente o mesmo tratamento processual dispensado aos corréus, especialmente por estarem presos praticamente pelo mesmo período de tempo, considerado excessivo por esta Corte. Pela pertinência, anoto:
+ ..  Diante do exposto, defiro em parte a liminar postulada, para o fim de relaxar a constrição cautelar do paciente ELIZANDRO DA COSTA CRUZ, ante o reconhecimento do excesso de prazo, devendo ser posto em liberdade, se por "AL" não estiver preso, mediante as seguintes condições, cujo descumprimento acarretará o seu recolhimento ao cárcere: manter endereço atualizado nos autos; fazer-se presentes a todos os atos da instrução, sempre que intimado; comparecer mensalmente a juízo, dando conta de sua conduta e ocupação, bem como não se ausentar da comarca de sua residência, por mais de trinta dias, sem prévia autorização da autoridade processante.
+É uníssona a jurisprudência desta Corte no sentido de que o constrangimento ilegal por excesso de prazo só pode ser reconhecido quando injustificável a demora e que os prazos fixados na legislação para a prática de atos processuais servem apenas de parâmetro, não podendo deduzir o excesso apenas pela soma aritmética dos mesmos, impondo-se, portanto, adoção de critérios de razoabilidade no exame da ocorrência de constrangimento ilegal.
+Em contato telefônico com a Vara Criminal da Comarca de Sapiranga/RS, obteve-se a informação de que a audiência de instrução, prevista para o dia 2/7/2018, foi redesignada para 31/10/2018.
+Dessa forma, a referência de que o recorrido se encontrava preso desde 26/9/2016, aliada ao fato de que não houve audiência de instrução e julgamento, denota a ocorrência de excesso de prazo, na linha do entendimento adotado pela Corte estadual. A propósito:
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. DELONGA INJUSTIFICADA NA PRESTAÇÃO JURISDICIONAL. INSURGENTE PRESO PROVISORIAMENTE HÁ MAIS DE DOIS ANOS. AUSÊNCIA DE RESPONSABILIDADE DA DEFESA. CONSTRANGIMENTO ILEGAL. OCORRÊNCIA. RECURSO PROVIDO.
+1. A celeridade processual é ideia-força imanente ao Estado Democrático de Direito, transcendendo, portanto, ao princípio da razoabilidade a delonga na prestação jurisdicional não ocasionada pela defesa.
+2. In casu, sobressai que a prisão provisória perdura indevidamente por mais de dois anos, inexistindo nos autos elementos aptos a justificar a letargia do feito, a se obstar o reconhecimento do excesso de prazo, vigorando na hipótese, portanto, a previsão garantista da realização do processo em tempo hábil, ainda mais quando inexiste sequer a previsão para o encerramento da instrução criminal ou mesmo, caso haja pronúncia, para a submissão do réu ao julgamento pelo Tribunal do Júri.
+3. Recurso provido a fim de o recorrente possa aguardar em liberdade a prolação da sentença nos autos do processo criminal, se por outro motivo não estiver preso, sem prejuízo de que o Juízo a quo, de maneira fundamentada, examine se é caso de aplicar uma das medidas cautelares implementadas pela Lei n.º 12.403/11, ressalvada, inclusive, a possibilidade de decretação de nova prisão, caso demonstrada sua necessidade.
+(RHC 92.536/AL, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 19/04/2018, DJe 11/05/2018.)
+Estando, portanto, o acórdão recorrido em consonância com o entendimento firmado pelo Superior Tribunal de Justiça, impõe-se a incidência da Súmula 83/STJ, a obstar o processamento do recurso especial.
+Ante o exposto, nego provimento ao recurso.
+Publique-se.
+Intimem-se.
