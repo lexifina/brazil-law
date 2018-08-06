@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO SANTANDER BRASIL S/A contra acórdão proferido pelo TJRS assim ementado (e-STJ fl. 101):
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. PEDIDO DE CANCELAMENTO DE REGISTRO EM CADASTRO DE INADIMPLENTES. COMUNICAÇÃO PRÉVIA. ENUNCIADO N. 359 DA SÚMULA DO STJ.
+Consoante a orientação da jurisprudência do STJ, cuja função constitucional precípua é a uniformização da interpretação da legislação infraconstitucional (Constituição da República, art. 105, inc. III), a mera expedição prévia de correspondência ao devedor informando-o acerca da possível inclusão de seu nome em cadastros de proteção ao crédito satisfaz á norma do § 2º do art. 43 do Código de Proteção e Defesa do Consumidor.
+Hipótese em que a parte-ré não logrou êxito em comprovar a efetiva comunicação da parte-autora acerca dos registros ora controvertidos, o que caracteriza a prática de ato ilícito - criação irregular de cadastros, impondo-se, por consequência, o seu imediato cancelamento.
+POR UNANIMIDADE, DERAM PROVIMENTO AO RECURSO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 117/121).
+Nas razões do recurso especial (e-STJ fls. 163/173), interposto com fundamento no art. 105, III, "a" e "c", da CF, o recorrente alega que a responsabilidade pela notificação do devedor acerca da inscrição do seu nome em cadastro de inadimplentes é do arquivista e não da instituição financeira. Menciona jurisprudência.
+Juízo de admissibilidade positivo (e-STJ fls. 196/202).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+A respeito do tema tratado nos presentes autos, esclareceu a Turma julgadora que (e-STJ fls. 118/119):
+Observo ao embargante que, em que pese reiteradas decisões no sentido de que a comunicação prévia do devedor quanto à inscrição de seu nome no rol de inadimplentes é responsabilidade do órgão que administra os cadastros de proteção ao crédito em razão do descumprimento do art. 43, § 2º, do CDC, por serem tais instituições responsáveis pelo repasse das informações que lhe são fornecidas pelos credores, posicionamento firmado na súmula 359 do STJ, tal entendimento não é de ser adotado perante o presente caso concreto, já que se tratam de cheques devolvidos por insuficiência de fundos, caso no qual a responsabilidade do banco é solidária.
+Com efeito, em que pese serem pessoas jurídicas diversas, a empresa de restrição ao crédito demandada e o Banco demandado, foram responsáveis "in casu" pelos sistemas de comunicação onde recebem e divulgam informações creditícias constantes em seus bancos de dados, de tal sorte que, igualmente, devem responder pela atividade desempenhada de forma inadequada ou incorreta, seja pela anotação, arquivamento ou publicação de dados duvidosos, incorretos ou inadequados.
+Com efeito, é nesse sentido o entendimento desta Corte, como demonstrado no seguinte julgado em sede de recurso repetitivo:
+RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA (CPC, ART. 543-C). PROCESSUAL CIVIL. BANCÁRIO. CONSUMIDOR. AÇÃO DE INDENIZAÇÃO. INSCRIÇÃO NO CADASTRO DE EMITENTES DE CHEQUES SEM FUNDOS - CCF. AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA. BANCO DO BRASIL. ILEGITIMIDADE PASSIVA. OPERADOR E GESTOR DO SISTEMA. COMPARAÇÃO DO CCF COM MERO SERVIÇO DE PROTEÇÃO AO CRÉDITO. IMPROCEDÊNCIA. RECURSO IMPROVIDO.
+1. Para fins do art. 543-C do Código de Processo Civil: "O Banco do Brasil, na condição de mero operador e gestor do Cadastro de Emitentes de Cheques sem Fundos - CCF, não detém legitimidade passiva para responder por danos resultantes da ausência de notificação prévia do correntista acerca de sua inscrição no referido cadastro, obrigação que incumbe ao banco sacado, junto ao qual o correntista mantém relação contratual".
+2. Mostra-se equivocada a comparação entre a função, de interesse predominantemente privado, de serviço de proteção ao crédito comercial, que opera com recursos privados de cada empresário ou sociedade empresária, sem risco sistêmico, e a função, de interesse público relevante, desempenhada pelo operador do CCF, de proteção de todo o sistema financeiro, o qual opera com recursos captados com a população (economia popular).
+3. Recurso especial desprovido.
+(REsp n. 1.354.590/RS, Rel. Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 9/9/2015, DJe 15/9/2015 - grifei.)
+Diante do exposto, NEGO PROVIMENTO ao recurso especial.
+Publique-se e intimem-se.
