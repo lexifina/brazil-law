@@ -1,0 +1,39 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SERVIDOR PÚBLICO ESTADUAL. PARCELA AUTÔNOMA DO MAGISTÉRIO. PRESCRIÇÃO DO FUNDO DE DIREITO. SÚMULA 85/STJ. PRECEDENTES. SÚMULA 568/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo Estado do Rio Grande do Sul em face de decisão do Tribunal de Justiça do Estado do Rio Grande do Sul, que negou admissibilidade a recurso contra acórdão assim ementado:
+APELAÇÃO CÍVEL E REMESSA NECESSÁRIA. POLÍTICA SALARIAL. LEI ESTADUAL N.º 10.395/95. REAJUSTE DO PERCENTUAL DA FRAÇÃO DE 20% DA PARCELA AUTÔNOMA INCORPORADA AO VENCIMENTO BÁSICO. PRESCRIÇÃO DO FUNDO DE DIREITO. INOCORRÊNCIA. MÉRITO. ACOLHIMENTO DOS REAJUSTES PREVISTOS NOS INCISOS I A V DO ART. 8º DA LEI 10.395/95. APOSENTADORIA PELAS MÉDIAS HÁ MAIS DE CINCO ANOS DO AJUIZAMENTO DA AÇÃO, NO VÍNCULO 02. RECÁLCULO DOS PROVENTOS. PRESCRIÇÃO QÜINQÜENAL. TERMO FINAL DA CONDENAÇÃO. CRITÉRIOS DE CORREÇÃO MONETÁRIA E JUROS DE MORA. HONORÁRIOS ADVOCATÍCIOS RECURSAIS. SENTENÇA MANTIDA.
+1. Servidor aposentado pelo regime das médias. Direito ao reajuste da fração de 20% da parcela autônoma incorporada ao vencimento básico, nos termos do art. 8º, incisos I a V, da Lei nº 10.395/95, relativamente ao vínculo 2.
+2. Inocorrência da prescrição do fundo de direito. Prescrição qüinqüenal incidente sobre as parcelas vencidas preteritamente ao qüinqüênio anterior à propositura da ação.
+3. Descabida a limitação do pagamento dos valores retroativos à data da aposentadoria do servidor, ainda que este tenha se aposentado pelo regime das médias, sob pena de afronta aos princípios da legalidade, do direito adquirido e da irredutibilidade de vencimentos, na medida em que não haviam sido implantados os reajustes sobre a parcela autônoma quando do cálculo dos proventos em relação à matrícula em que ocorreu a aposentadoria pelas médias. Assim, deve ser efetuado o recálculo dos proventos (média aritmética), observado o termo final estabelecido na sentença.
+4. Juros a contar da citação, nos termos da Lei 11.960/09, e correção monetária conforme entendimento do Supremo Tribunal Federal em sede de modulação dos efeitos das ADIs 4.425 e 4.357: aplicação do IGP-M anteriormente ao período de 30/06/2009; do índice oficial de remuneração básica da caderneta de poupança (TR) entre 30/06/2009 e 25/03/2015; e do IPCA-E, a contar de 26/03/2015.
+5. Sucumbência recíproca. Honorários ao procurador das partes que serão arbitrados quando liquidado o julgado, conforme preceitua o art. 85, §4º, II, do CPC, suspensa a exigibilidade em face do autor.
+APELO DESPROVIDO E SENTENÇA MANTIDA EM REMESSA NECESSÁRIA.
+Os embargos de declaração foram rejeitados.
+Em suas razões de recurso especial, sustenta a parte recorrente violação do art. 1º do Decreto nº 20.910/1932, na medida em que teria ocorrido a prescrição do fundo de direito.
+Apresentadas contrarrazões.
+A decisão agravada negou seguimento ao especial sob a compreensão de que o acórdão recorrido está em sintonia com a jurisprudência do STJ, a atrair a Súmula 83/STJ.
+Sustenta a parte agravante que deve ser conhecido o recurso especial, porque a jurisprudência citada na decisão agravada não se aplica ao presente caso.
+Ofertada contraminuta.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O agravante impugnou o fundamento adotado na decisão de inadmissibilidade, razão pela qual, passo a análise do recurso especial.
+A Corte de origem afastou a tese de prescrição do fundo de direito, pelos seguintes fundamentos:
+A Súmula 85 do STJ refere que nas relações jurídicas de trato sucessivo, quando não negado o próprio direito, a prescrição atinge apenas as prestações vencidas antes do qüinqüênio anterior à propositura da ação.
+Impende salientar que o fato de a aposentadoria ter ocorrido pelo regime da média salarial não afasta a incidência de reajustes, vez que esses não foram observados no momento em que foi calculada a média.
+Descabido, portanto, o reconhecimento da prescrição do fundo de direito da pretensão de incidência dos reajustes previstos na Lei n. 10.395/95 sobre o percentual de 20% da parcela autônoma incorporada ao vencimento básico, uma vez que a prescrição incidente é a qüinqüenal, como acertadamente foi reconhecido na sentença.
+Nesse contexto, o aresto estadual está em sintonia com a orientação jurisprudencial deste Superior Tribunal, segundo a qual, nas ações em que se discute o recebimento de vantagem pecuniária, inexistindo manifestação expressa da Administração Pública negando o direito reclamado, não ocorre a prescrição do chamado fundo de direito, mas tão-somente das parcelas anteriores ao qüinqüênio que precedeu à propositura da ação, ficando caracterizada relação de trato sucessivo (Súmula 85/STJ).
+A propósito, confiram-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. PARCELA AUTÔNOMA DO MAGISTÉRIO - PAM. INTERESSE DE AGIR. IMPOSSIBILIDADE DE ANÁLISE DE LEI LOCAL. SÚMULA 280/STJ. PRESCRIÇÃO DE FUNDO DE DIREITO. MANUTENÇÃO DA DECISÃO AGRAVADA POR FUNDAMENTO DIVERSO. INCIDÊNCIA DA SÚMULA 85/STJ.
+I - Consoante a orientação firmada pela 1ª Seção deste Superior Tribunal de Justiça, no julgamento do Recurso Especial n. 1.336.216/RS, sob o rito do art. 543-C, analisar a alegada inexistência de interesse de agir da parte autora demanda o exame da legislação estadual que tratou da parcela autônoma dos vencimentos básicos dos professores (Leis estaduais ns. 10.395/1995, 11.662/2001 e 12.961/2008), encontrando óbice na Súmula 280/STF, bem como não há que se falar da prescrição do fundo de direito, nos casos em que se discute a incorporação da PAM aos vencimentos dos Agravados, incidindo a regra geral da Súmula 85/STJ.
+II - O Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+III - Agravo Regimental improvido.
+(AgRg no AREsp 239.149/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 23/06/2015, DJe 04/08/2015)
+PROCESSUAL CIVIL E ADMINISTRATIVO. OMISSÃO NÃO CONFIGURADA. SERVIDOR PÚBLICO ESTADUAL. GRATIFICAÇÃO. VANTAGENS PECUNIÁRIAS. LEI ESTADUAL 1.102/90. PRESCRIÇÃO. RELAÇÃO DE TRATO SUCESSIVO. SÚMULA 85/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Não há omissão no acórdão recorrido, quando o Tribunal de origem pronuncia-se, de forma clara e precisa, sobre a questão posta nos autos, assentando-se em fundamentos suficientes para embasar a decisão.
+II. Conforme a jurisprudência do STJ, "nas discussões acerca do recebimento de vantagens pecuniárias em que não houve negativa inequívoca do próprio direito reclamado, tem-se relação de natureza sucessiva. Desse modo, a prescrição apenas alcança as parcelas vencidas anteriormente aos cinco anos que precedem o ajuizamento da ação. Aplicação da Súmula 83/STJ" (STJ, AgRg no Ag 1.396.234/MS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 26/09/2011).
+III. Agravo Regimental improvido.
+(AgRg no REsp 1.189.388/MS, Rel. Ministra ASSUSETE MAGALHÃES, SEXTA TURMA, julgado em 06/02/2014, DJe 11/03/2014)
+Aplicável, portanto, o teor da Súmula 568/STJ, verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
