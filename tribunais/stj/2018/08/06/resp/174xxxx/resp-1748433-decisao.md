@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão que deu parcial provimento ao recurso de apelação de ambos os recorrentes, apenas para reduzir a pena de multa imposta, mantendo, no mais, a sentença condenatória pelo crime do art. 157, § 2º, I e II, por três vezes.
+Sustentam os recorrentes, além de divergência jurisprudencial, negativa de vigência ao art. 157, § 2º, do Código Penal, ao argumento de que a pena foi majorada acima do mínimo legal, na terceira fase da dosagem da pena, quanto ao 1º, 2º e 3º fatos, apenas pelo número de majorantes, com base em critério matemático.
+Requerem o provimento do recurso para que sejam redimensionadas as penas.
+Contra-arrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo improvimento do recurso.
+É o relatório.
+Decido.
+A controvérsia posta à debate limita-se em definir se escorreita a dosagem da pena na terceira fase da dosimetria, que foi aumentada acima do mínimo legal, segundo os recorrentes, sem fundamentação idônea. Manifestou-se o Tribunal a quo, quanto à questão ora aventada, nos seguintes termos (fls. 1380/1381):
+E não prospera o pleito defensivo de afastamento das majorantes referentes ao emprego de arma e o concurso de agentes.
+No caso em tela, o ostensivo emprego de diversas armas na prática dos crimes restou amplamente atestado nos autos. As seis vítimas, desde os seus depoimentos policiais, e, posteriormente, em suas inquirições judiciais, declararam que os criminosos as mantiveram constantemente sob a mira de armas de fogo e armas brancas. Convém destacar que uma das vítimas, inclusive, foi baleada durante o crime, e outra teve um pedaço de sua orelha cortada por uma faca (fl. 224 e 415).
+E segundo o entendimento tranquilo desta Câmara, são prescindíveis para a configuração da majorante em discussão a apreensão da arma e a certificação de sua efetiva potencialidade lesiva, se nos autos do processo criminal restou suficientemente comprovado, por outros meios, a utilização do artefato para a intimidação das vítimas.
+Com relação a concurso de agentes, a prova dos autos não deixa quaisquer dúvidas da realização da conduta típica por mais de um agente, evidenciando claramente a conjunção de esforços e a divisão de tarefas e, por consequência, a configuração do concurso de pessoas.
+Os acusados agiram em coautoria, ambos com pleno domínio funcional do fato. A atuação foi conjunta e os agentes realizaram os verbos nucleares do tipo dentro da distribuição de tarefas. Os ofendidos referiram em juízo, com clareza, que vários indivíduos participaram da violenta empreitada criminosa, sendo que cada um deles tinha uma atuação bem definida. Enquanto alguns dos delinquentes mantinham parte das vítimas amarradas e sob ameaça das armas, outros acompanhavam os demais lesados pela casa, obrigando-os a informar onde estavam os bens que pretendiam subtrair. Em determinado, momento, os acusados chegaram até mesmo a se dividir para ir a outra residência "buscar" mais vítimas.
+Após refutar a pretensão da defesa de afastamento de ambas as majorantes do crime, consigna o Tribunal a quo, ao dosar as penas para ambos os réus e para os três fatos, na terceira fase, que, na derradeira etapa, pelo reconhecimento das majorantes peio emprego de arma e concurso de agentes, correto o aumento da pena relativa ao crime de roubo na fração de 3/8, consentâneo aos critérios de necessidade e suficiência.
+Assim, ao contrário do alegado, o estabelecimento de fração acima da mínima legal, na terceira fase da dosimetria, encontra respaldo no acórdão, ocorrendo, não em razão da incidência do número de majorantes, mas em fração que julgou consentânea aos critérios de necessidade e suficiência, considerando o número de agentes e de vítimas - foram diversos agentes e seis vítimas -, a quantidade de armas empregadas na empreitada criminosa - o ostensivo emprego de diversas armas na prática dos crimes - bem como em razão da violência empregada contra as vítimas - os criminosos as mantiveram constantemente sob a mira de armas de fogo e armas brancas. Convém destacar que uma das vítimas, inclusive, foi baleada durante o crime, e outra teve um pedaço de sua orelha cortada por uma faca - e a divisão de tarefas entre os agentes que chegaram até mesmo a se dividir para ir a outra residência "buscar" mais vítimas. Havendo, pois, fundamentação concreta, não se verifica a alegada violação à Súmula 443/STJ. Nesse mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. PENA-BASE. BIS IN IDEM PELA UTILIZAÇÃO DE CIRCUNSTÂNCIAS USADAS PARA O AUMENTO DAS MAJORANTES ACIMA DE 1/3. INEXISTÊNCIA. TERCEIRA FASE DA DOSIMETRIA.
+FRAÇÃO FUNDAMENTADA. ENUNCIADO 443/STJ. NÃO INCIDÊNCIA. RESTRIÇÃO À LIBERDADE DAS VÍTIMAS. PRETENSÃO DE AFASTAMENTO. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. A pena-base foi aumentada em razão das consequências e do modus operandi da conduta. O aumento em 1/2, pela incidência de três majorantes, considerou a quantidade de agentes (3) e de armas (2) e o tempo de restrição à liberdade das vítimas, não havendo falar em bis in idem.
+ ..
+6. Agravo Regimental desprovido.
+(AgRg no REsp 1606239/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/09/2016, DJe 06/09/2016)
+ PENAL E PROCESSUAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. VIA INADEQUADA. ROUBO CIRCUNSTANCIADO. AUMENTO DE PENA EM FACE DAS MAJORANTES. FUNDAMENTAÇÃO CONCRETA. OFENSA À SÚMULA 443 DO STJ NÃO EVIDENCIADA.
+ ..
+2. Para aumentar a pena, na fração de 1/2, pela presença das majorantes, o decreto condenatório avaliou o número de agentes (quatro) e a quantidade de armas empregadas (duas), elementos esses concretos e idôneos que revelam a periculosidade mais acentuada da empreitada criminosa e justificam a elevação da reprimenda em proporção maior do que o mínimo legal cominado.
+3. Habeas corpus não conhecido.
+(HC 305.125/RJ, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 01/10/2015, DJe 19/10/2015)
+Estando, portanto, o acórdão recorrido em consonância com o entendimento firmado pelo Superior Tribunal de Justiça, impõe-se a incidência da Súmula 83/STJ, a obstar o processamento do recurso especial.
+Ante o exposto, nego provimento ao recurso especial.
+Intimem-se.
+Publique-se.
