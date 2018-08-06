@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] contra acórdão proferido pelo TJPR, assim ementado (e-STJ fl. 172):
+Cheque. Inexigibilidade. Ação dirigida contra o banco sacado. Ilegitimidade passiva. Dano moral. Falha na prestação de serviço. Ausência de nexo causal entre a alegada falha, e o protesto. Sentença de improcedência mantida.
+Independente do código da devolução que o banco possa ter consignado para devolver o cheque, cujo talonário o correntista alega ter sido furtado, era possível ao portador protestá-lo, considerando que para o protesto a Lei 9.492/97 apenas exige a prévia apresentação do título ao banco. Assim, como a inicial foi dirigida exclusivamente ao banco sacado e não ao portador, a par da ilegitimidade daquele para responder pela inexigibilidade do cheque, há ausência de nexo causal para ser pedida a indenização por falha na prestação do serviço quando, a despeito do código adotado pelo banco na devolução do cheque, tal não impediria o protesto.
+Apelação não provida.
+Nas razões do recurso especial (e-STJ fls. 179/188), interposto com fundamento no art. 105, III, "a" e "c", da CF, a recorrente alega que os cheques deveriam ter sido devolvidos por furto, não por falta de fundos, havendo óbice para o protesto, de acordo com os arts. 1º e 9º da Lei n. 9.492/1997 e 14 do CDC. Afirma ter havido comunicação ao banco em relação ao crime, inexistindo necessidade de que o portador fizesse parte do processo.
+Juízo de admissibilidade positivo (e-STJ fls. 202/203).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+A questão tratada nos autos foi assim examinada pela Turma julgadora (e-STJ fl. 175):
+Além do fundamento adotado pela sentença de que a apelante não demonstrou ter o banco falhado ao devolver o cheque, quando consignou haver devolução devido à oposição do correntista e não pela existência do alegado furto do talonário, é evidente a ausência de nexo causal entre o protesto e a devolução do cheque, como também não poderia ser declarada a inexigibilidade da cártula sem a intervenção no processo de seu portador, que foi quem, afinal, apresentou o título a cartório.
+O banco, como foi frisado, não levou o cheque da apelante ao protesto e a, imputada falha no atendimento, mesmo que comprovado ficasse, o que não foi, não importaria em causa ou causa concorrente para a existência do protesto. O cheque, como ordem de pagamento à vista, como um título de crédito líquido, certo e exigível, habilita seu portador, desde que faça constar prova de apresentação ao banco sacado (art. 6º da Lei 9.492197), a encaminhá-lo a protesto, em cujo fato o banco representa entidade totalmente alheia.
+Como se observa, concluiu a Turma julgadora inexistir comprovação de falha do banco que ensejasse a fixação de indenização. Referida decisão foi tomada com base na análise dos elementos de prova constantes dos autos. Assim, considerar de forma diversa demandaria o seu reexame, o que não é viável em recurso especial, de acordo com a Súmula n. 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao recurso especial.
+Publique-se e intimem-se.
