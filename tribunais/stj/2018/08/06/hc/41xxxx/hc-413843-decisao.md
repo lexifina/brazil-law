@@ -1,0 +1,23 @@
+EMENTA
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. TERCEIRA ETAPA DO CÁLCULO DA PENA. PRESENÇA DE DUAS MAJORANTES. EXASPERAÇÃO DA REPRIMENDA ALÉM DA FRAÇÃO MÍNIMA LEGAL. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. INCIDÊNCIA DA SÚMULA 443/STJ. EVIDENTE CONSTRANGIMENTO ILEGAL. REGIME INICIAL FECHADO. POSSIBILIDADE. REINCIDÊNCIA.
+Ordem parcialmente concedida para reduzir a pena dos pacientes na terceira etapa da dosimetria, nos termos do dispositivo.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado pela Defensoria Pública de São Paulo em favor de [NOME] e [NOME], apontando-se como autoridade coatora a Décima Terceira Câmara Criminal do Tribunal de Justiça de São Paulo (Apelação Criminal n. 0065335-54.2016.8.26.0050).
+Consta dos autos que os pacientes foram condenados pelo Juízo da 11ª Vara Criminal da comarca de São Paulo às penas de 5 anos e 6 meses de reclusão, em regime inicial fechado, e 13 dias-multa, por incursos no art. 157, § 2º, I e II, do Código Penal (fls. 16/25).
+A defesa e a acusação interpuseram apelação criminal. O Tribunal estadual negou provimento ao recurso defensivo e deu provimento ao apelo do Parquet, para, no tocante ao réu [NOME], fixar a pena-base acima do mínimo legal e compensar parcialmente a circunstância agravante da reincidência com a circunstância atenuante da confissão espontânea, ficando condenado às penas de 7 anos, 5 meses e 25 dias de reclusão, e 16 dias-multa, mantendo, no mais, a sentença de primeiro grau (fls. 26/33).
+Daí a presente impetração, em que a Defensoria Pública sustenta que a elevação da pena dos pacientes com base no índice de 3/8, em razão da presença de duas causas de aumento, não tem fundamentação idônea.
+Alega, ainda, que o regime inicial de cumprimento da privativa de liberdade imposto à paciente [NOME] merece reparos, pois  ..  a decisão atacada não demonstra quais as condições subjetivas da paciente que demandariam a fixação do regime mais severo, limitando-se a considerar a gravidade em abstrato do crime pelo qual fora condenado (fl. 7).
+Requer, liminarmente, que possa a paciente [NOME] aguardar o julgamento deste writ em regime menos gravoso.
+No mérito, pugna seja concedida a ordem para estipular  ..  o regime intermediário para o início da segregativa à paciente [NOME] e imposto o aumento de um terço em razão das causas de aumento de pena a ambos os apelantes (fl. 12).
+Indeferido o pedido liminar (fls. 38/40).
+Informações às fls. 40/50 e 89/90.
+Parecer do Ministério Público Federal opinando pelo não conhecimento do writ (fls. 77/84).
+É o relatório.
+Na hipótese, enxergo constrangimento ilegal a ser reparado relativamente ao aumento na terceira fase da dosimetria. Observa-se que a instância a quo se utilizou de fundamentação inidônea para exasperação da reprimenda em patamar superior ao mínimo. Veja-se (fls. 32/33 - grifo nosso):
+ ..
+Já na terceira etapa, em razão da existência de duas qualificadoras (emprego de arma e concurso de agentes), o sentenciante aumentou as penas em 3/8, resultando em 05 anos e 06 meses de reclusão e 13 dias-multa para a ré [NOME] e, agora, em 07 anos, 05 meses e 25 dias de reclusão e 16 dias-multa, para o réu [NOME], o que, no caso dos autos, efetivamente se revelou adequado, não somente por terem sido duas qualificadoras, mas, sobretudo, por ter sido utilizada arma de fogo, que tem maior potencial ofensivo que a arma branca, que já seria suficiente para caracterizar a qualificadora.
+ ..
+Ora,  ..  forçoso destacar que o emprego de arma de fogo, por si só, não permite a imposição de fração de aumento superior a 1/3, nos termos da jurisprudência deste Tribunal. Ofensa ao disposto na Súmula 443 desta Corte (HC n. 441.763/SP, Quinta Turma, DJe 15/6/2018).
+Quanto ao regime fechado imposto à paciente [NOME], ausente ilegalidade manifesta, uma vez que  ..  o simples fato de ter sido realizada a compensação da agravante da reincidência com a atenuante da confissão espontânea não afasta os demais efeitos deletérios da recidiva, pois embora a pena tenha permanecido inalterada na segunda etapa do critério trifásico, tal circunstância foi devidamente valorada e constitui fundamento idôneo para o recrudescimento do regime prisional, conforme o disposto no art. 33, § 2º, do Estatuto Repressor (HC n. 373.035/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 1º/2/2017).
+Ante o exposto, concedo parcialmente a ordem para reduzir a fração de aumento na terceira etapa da dosimetria a 1/3, ficando as penas da paciente [NOME] estabelecidas em 5 anos e 4 meses de reclusão, e 13 dias-multa; e do paciente [NOME] em 7 anos, 3 meses e 3 dias de reclusão, e 16 dias-multa; mantidos, no mais, os termos do acórdão.
+Publique-se.
