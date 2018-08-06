@@ -1,0 +1,42 @@
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. PENSÃO POR MORTE. DECADÊNCIA. NÃO OCORRÊNCIA. PRINCÍPIO DA ACTIO NATA.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. O entendimento de ambas as Turmas que integram a Primeira Seção firmou-se no sentido de que o marco inicial do prazo decadencial do art. 103 da Lei n. 8.213/1991 nas ações previdenciárias que postulam a revisão da aposentadoria do falecido instituidor, com reflexo no cálculo da renda mensal da pensão por morte, deve ser a concessão do benefício derivado, em observância ao princípio da actio nata, registrando-se a ressalva do entendimento pessoal do relator.
+3. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça , por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS contra decisão de minha lavra em que neguei provimento ao recurso especial da autarquia, em juízo de retratação, ante a novel orientação da Primeira Turma no julgamento do REsp. n. 1.576.274/SC.
+Segundo consignado no decisum, a pretensão de rever o benefício não foi atingida pelo prazo prescricional de dez anos previsto no art. 103 da Lei n. 8.213/1991, alterado pela MP 1.523-9/1997, convertida na Lei n. 9.528/1997.
+O agravante alega, em preliminar, que o tema em apreço encontra-se pendente de decisão da Primeira Seção, uma vez que o julgamento dos Embargos de Divergência no REsp n. 1.605.554/PR foi interrompido com pedido de vista.
+No mérito, reitera sua tese no sentido de que o início do prazo decadencial deve começar a fluir a partir da concessão do benefício originário, sob pena de o entendimento destoar do firmado nos Recursos Especiais repetitivos n. 1.326.114/SC e 1.309.529/PR. Requer, assim, a reconsideração do decisum impugnado.
+Intimada, a parte agravada não formulou impugnação (e-STJ fl. 161).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feito tal registro, verifica-se que não merece reparo a decisão agravada porque, a contar da alteração de orientação da Primeira Turma no julgamento do REsp. n. 1.576.274/SC, o entendimento de ambas as Turmas que integram a Primeira Seção passou a ser unânime em sentido contrário à pretensão recursal da autarquia.
+Dessa forma, prevalece a compreensão de que o marco inicial do prazo decadencial do art. 103 da Lei de Benefícios nas ações previdenciárias que postulam a revisão da aposentadoria do falecido instituidor, com reflexo no cálculo da renda mensal da pensão por morte, deve ser a concessão do benefício derivado, em observância ao princípio da actio nata.
+Confiram-se:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. REGIME GERAL DE PREVIDÊNCIA SOCIAL. REVISÃO DE PRESTAÇÕES. DECADÊNCIA. ART. 103, CAPUT, DA LEI 8.213/1991. NÃO INCIDÊNCIA.
+1. No caso, a autora ajuizou ação de revisão de pensão por morte, objetivando o recálculo da renda mensal inicial do benefício originário de aposentadoria de seu falecido marido.
+2. Tal situação denota que a pretensão veiculada na presente ação consiste na revisão do ato de concessão do benefício de pensão por morte.
+3. Não merece acolhida a irresignação quanto à alegada violação ao artigo 103, caput, da Lei 8.213/1991. O início do prazo decadencial se deu após o deferimento da pensão por morte, em decorrência do princípio da actio nata, tendo em vista que apenas com o óbito do segurado adveio a legitimidade da parte recorrida para o pedido de revisão, já que, por óbvio, esta não era titular do benefício originário, direito personalíssimo.
+4. Ressalte-se que a revisão da aposentadoria gera efeitos financeiros somente pela repercussão da alteração de sua RMI (renda mensal inicial na pensão por morte subsequente.
+5. Recurso Especial não provido. (REsp 1.529.562/CE, Segunda Turma, Relator Ministro Herman Benjamin, DJe 11/9/2015)
+PREVIDENCIÁRIO. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. PENSÃO DERIVADA DE APOSENTADORIA OBTIDA JUNTO AO INSS. VIÚVA TITULAR DE PENSÃO POR MORTE DE MARIDO APOSENTADO. MAJORAÇÃO DA PENSÃO MEDIANTE A REVISÃO DA RENDA MENSAL INICIAL (RMI) DA PRETÉRITA APOSENTAÇÃO. PRINCÍPIO DA ACTIO NATA. INÉRCIA NÃO CONFIGURADA. DECADÊNCIA AFASTADA. AGRAVO INTERNO PROVIDO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 no julgamento do Agravo Interno.
+II - A Autora, somente com o falecimento do titular da aposentadoria, e, consequentemente, com a concessão da pensão por morte, adquiriu legitimidade para questionar o ato de concessão do benefício originário recebido pelo falecido marido, cujos reflexos financeiros afetam diretamente o cálculo da renda mensal inicial do
+benefício derivado - pensão por morte.
+III - De acordo com o princípio da actio nata, não há falar em decadência em relação à pretensão da parte autora de revisão da pensão por morte por intermédio da revisão da renda mensal inicial da aposentadoria, se proposta a ação antes de decorridos 10 anos contados do ato de concessão do benefício derivado.
+IV - O prazo extintivo do direito só pode ser imputado àquele que se manteve silente e inerte no decorrer do tempo quando poderia ter atuado. Logo, a inércia do titular da aposentadoria não pode prejudicar o titular do benefício derivado em buscar a revisão da renda mensal inicial da pensão morte por intermédio da revisão do benefício originário de aposentadoria, porque, antes do óbito do segurado, a pensionista, por óbvio, não possuía legitimidade para discutir o ato de concessão da aposentadoria e seus efeitos patrimoniais no benefício derivado.
+V - No caso em tela, entre a data de concessão da pensão por morte que a Autora pretende ver recalculada (DIB em 26.08.2011) e o ajuizamento da presente ação (em 09.04.2015) não transcorreu o prazo decadencial previsto no art. 103, caput, da Lei n. 8.213/91.
+VI - Agravo Interno provido. (AgInt no REsp 1576274/SC, Rel. Ministro SÉRGIO KUKINA, Rel. p/ Acórdão Ministra REGINA HELENA COSTA, Primeira Turma, DJe 11/12/2017).
+PREVIDENCIÁRIO. PENSÃO POR MORTE. BENEFÍCIO ANTERIORMENTE RECEBIDO PELO INSTITUIDOR. REVISÃO DE VALORES. DECADÊNCIA. NÃO INCIDÊNCIA. PRINCÍPIO DA ACTIO NATA.
+1. É entendimento assente na Segunda Turma deste Superior Tribunal de que o início do prazo decadencial para revisão do valor do benefício originário da pensão por morte se dá após o deferimento desta, em decorrência do princípio da actio nata, tendo em vista que apenas com o óbito do instituidor adveio a legitimidade da pensionista para o pedido de revisão, já que, por óbvio, não era titular do benefício originário de seu marido, direito personalíssimo. Precedente.
+2. Recurso especial a que se nega provimento. (REsp 1675120/SC, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 09/08/2017).
+Como se extrai dos autos, a aposentadoria do falecido foi concedida em 06/03/1991, a pensão por morte da autora foi deferida desde 23/10/2005 e a presente ação foi ajuizada em 21/07/2010.
+Desse modo, com a ressalva do entendimento pessoal do relator, merece ser mantida a decisão agravada, porquanto a pretensão de rever o benefício não foi atingida pelo prazo decadencial de 10 anos previsto no art. 103 da Lei de Benefícios, alterado pela MP n. 1.523-9/1997, convertida na Lei n. 9.528/1997.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
