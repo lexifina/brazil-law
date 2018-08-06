@@ -1,0 +1,25 @@
+EMENTA
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. VIOLAÇÃO DO ART. 1.022 DO CPC/15. ÓBICE DA SÚMULA N. 284/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial de [NOME] fundado nas alíneas "a" e "c" do permissivo constitucional interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+ADMINISTRATIVO. SERVIDOR PÚBLICO CIVIL. DESVIO DE FUNÇÃO. JUSTIÇA ELEITORAL. OFICIAL DE JUSTIÇA AD HOC. HABITUALIDADE NÃO CARACTERIZADA. AUSÊNCIA DE IRREGULARIDADE. GAE. INDEVIDA.
+1. A teor da Súmula n. 378 do STJ, "reconhecido o desvio de função, o servidor faz jus às diferenças salariais decorrentes".
+2. Para a caracterização do desvio de função, necessária a comprovação do efetivo e habitual desempenho pelo servidor público de atribuições de cargo diverso, estranhas ao seu cargo originário, não configurando irregularidade o exercício eventual e esporádico de atividades de outro cargo.
+3. Não comprovado o desvio de função entre o cargo de Técnico Judiciário - Sem Especialidade e o de Analista Judiciário - Oficial de Justiça Avaliador.
+4. A designação, por portaria, como oficial de justiça ad hoc não é suficiente, por si só, para configurar o desvio de função, mormente diante do reduzido número de diligências efetivamente realizadas pela parte autora naquela condição, revelando atuação de forma esporádica, eventual.
+5. A Gratificação de Atividade Externa - GAE é devida exclusivamente aos ocupantes do cargo de Analista Judiciário enquadrado na especialidade Oficial de Justiça Avaliador Federal, nos termos dos artigos 16 e 4º, § 1º, da Lei n. 11.416/2006, não sendo devida na hipótese dos autos, em que não restou caracterizado o alegado desvio de função.
+Opostos embargos de declaração, foram eles rejeitados.
+Nas razões de recurso especial, o recorrente apontou, além do dissídio jurisprudencial, violação dos arts. 489 e 1.022 do CPC e 4º da LINDB, aduzindo negativa de prestação jurisdicional.
+Houve contrarrazões (e-STJ fls. 358/374).
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A insurgência não merece prosperar.
+Isso porquanto, acerca da negativa de prestação jurisdicional o recorrente sustentou apenas que (e-STJ fls. 332/333):
+Não bastasse a interposição de embargos de declaração, com o fito de prequestionar efetivamente a matéria, o recurso aclarador foi rejeitado pelo Tribunal Regional Federal da 4ª Região.
+Em face disso, caso entenda este Superior Tribunal de Justiça não estar devidamente satisfeito o requisito do prequestionamento, muito embora a matéria recorrida tenha sido decidida no acórdão, requer seja declarada a nulidade do acórdão a quo por violação aos arts. 489 e 1.022 do CPC, diante da negativa de prestação jurisdicional para manifestação expressa dos pontos indicados no recurso aclarador, os quais são absolutamente essenciais ao deslinde do feito, de modo que devia o Tribunal ter se pronunciado sobre. Não o fazendo, a decisão violou os dispositivos legais acima referidos, incorrendo em nulidade.
+Assim sendo, para o caso de Vossas Excelências não reputarem suficientemente prequestionada a matéria que constitui o objeto do presente recurso, deve ser decretada a nulidade da decisão proferida pelo Tribunal a quo nos embargos declaratórios, por negativa de prestação jurisdicional e violação aos arts. 489 e 1.022 do CPC, com a determinação de baixa dos autos ao Tribunal de origem para que seja proferida nova decisão.
+Para o acolhimento da violação do art. 1.022 do CPC não basta a simples oposição dos aclaratórios na origem. É necessária a demonstração, de forma fundamentada que: (a) a questão supostamente omitida foi tratada na apelação, no agravo ou nas contrarrazões a estes recursos, ou, ainda, que se cuida de matéria de ordem pública a ser examinada de ofício, a qualquer tempo, pelas instâncias ordinárias; (b) houve interposição de aclaratórios para indicar à Corte local a necessidade de sanear a omissão; (c) a tese omitida é fundamental à conclusão do julgado e, se examinada, poderia levar à sua anulação ou reforma.
+In casu, o recorrente quedou-se inerte inerte quanto à demonstração das razões pelas quais o dispositivo teria sido violado pelo acórdão a quo. Incide, pois, o óbice da Súmula 284 do Supremo Tribunal Federal, segundo o qual "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+No mais, resta prejudicada a análise do dissídio jurisprudencial alegado em virtude do óbice aplicado o qual obstou o conhecimento do recurso pela alínea "a".
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
