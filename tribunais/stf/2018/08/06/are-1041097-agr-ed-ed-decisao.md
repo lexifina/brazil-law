@@ -1,0 +1,19 @@
+Vistos etc.
+    Referente à Petição STF nº 22.630/2018:
+    Contra o acórdão mediante o qual não conhecidos os embargos de declaração (evento 116, julgado em 23.3.2018, DJe 12.4.2018) – em razão do não recolhimento da multa do art. 1.021, § 4º, do CPC/2015 –, opõe novos embargos de declaração Welliton Escarião Nóbrega.
+    Com amparo no art. 1.022 do CPC/2015, repisa, em síntese, “erros materiais manifestos prejudiciais, omissões, contradições e obscuridades” no decisum impugnado. Defende, neste petitório de reiteração dos declaratórios, recolhida a quantia referente à penalidade em 18.4.2018 (evento 118).
+    É o relatório. Decido.
+    Nada a prover.
+    Os primeiros embargos de declaração não foram conhecidos, forte na orientação deste Supremo Tribunal Federal, segundo a qual o depósito prévio da multa do art. 1.021, § 4º, do CPC/2015 consubstancia pressuposto objetivo de recorribilidade. Isso ocorre porque a mera oposição de embargos não tem o condão de suspender a condenação ao pagamento de multa imposta de forma unânime pela Primeira Turma do Supremo Tribunal Federal.
+    A esse respeito, torno a salientar que não constou dos autos, quando da oposição dos primeiros aclaratórios, o comprovante de pagamento da penalidade fixada no acórdão.
+    A rigor, o montante decorrente da sanção processual cominada à parte somente foi recolhido após o julgamento dos primeiros embargos de declaração, de modo que incólume o acórdão atacado no sentido do não conhecimento do recurso. Nesse diapasão, as seguintes decisões singulares: RE 993775 AgR-ED, Rel.: Min. Edson Fachin, DJe 29.8.2017, ARE 1009533 AgR-ED, Rel. Min. Edson Fachin, Dje 25.5.2017, ARE 985815 AgR-ED, Rel. Min. Ricardo Lewandowski, Dje 7.3.2017, AI 864916 AgR-ED, Rel. Min. Cármen Lúcia, Dje 24.2.2017.
+    Nesse contexto, consoante a jurisprudência desta Corte, o recurso manifestamente incabível não tem o condão de produzir o efeito interruptivo. É dizer, o prazo para impugnação ao decisum então fustigado fluiu até seu termo final, a legitimar a certificação de trânsito em julgado.
+    Por conseguinte, exaurida a prestação jurisdicional desta Suprema Corte, após o que incognoscíveis sucessivos expedientes protocolados pela parte. Nesse diapasão, colaciono os seguintes julgados, inter plures (grifei):
+    “Ementa: Direito processual civil. Embargos declaratórios em agravo interno em mandado de segurança. Multa prevista no art. 1.021, § 4º, CPC. Recolhimento não comprovado. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de não conhecer do recurso quando não recolhida a multa anteriormente aplicada ao recorrente. Precedentes. 2. Embargos de declaração não conhecidos, com determinação de trânsito em julgado e de baixa imediata dos autos.” (MS 35522 AgR-ED, Tribunal Pleno, Rel. Min. Roberto Barroso, Dje 4.6.2018)
+    “Ementa: DIREITO TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. MULTA PREVISTA NO ART. 557, § 2º, DO CPC/1973. AUSÊNCIA DE RECOLHIMENTO. EMBARGOS NÃO CONHECIDOS. 1. Diferentemente do disposto no CPC/2015, o art. 557, § 2º, do CPC/1973 não exigia que a decisão do colegiado fosse unânime para aplicação da multa. 2. A jurisprudência desta Corte é firme no sentido de não conhecer de recurso quando não recolhida a multa aplicada à parte recorrente com base no art. 557, § 2º, do CPC/1973. 3. Embargos de declaração não conhecidos, com determinação de trânsito em julgado e de baixa imediata dos autos.” (AI 823853 AgR-ED, Primeira Turma, Rel. Min. Roberto Barroso, Dje 22.9.2017)
+    Ante o exposto, não conheço da petição em epígrafe. À Secretaria, para certificação do trânsito em julgado. Baixem-se, imediatamente, os autos à origem, independentemente de publicação.
+    Publique-se.
+    À Secretaria Judiciária.
+    Brasília, 6 de agosto de 2018.
+Ministra Rosa Weber
+Relatora
