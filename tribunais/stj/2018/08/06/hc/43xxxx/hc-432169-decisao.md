@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUAN MEDEIROS DA COSTA, FELIPE ALEXANDRE DA COSTA e ALESSANDRA DA COSTA, apontando como autoridade coatora o Tribunal Regional Federal da 1ª Região.
+Consta dos autos que os pacientes tiveram suas prisões preventivas decretadas pelo juízo Federal da 3ª Vara da Seção Judiciária do Estado de Rondônia no âmbito da "Operação Epístola", instaurada para investigar atividades de suposta organização criminosa voltada, em tese, ao tráfico internacional de drogas, à associação para o tráfico, à lavagem de dinheiro e a outros delitos, liderada por [NOME], vulgo "FERNANDINHO BEIRA-MAR" de dentro da Penitenciária Federal de Porto Velho/RO.
+Irresignados com a demora no julgamento dos HCs n. 0030661-98.0017.4.01.0000, n. 0032778-62.2017.4.01.0000 e n. 0042363-41.2017.4.01.0000 pelo Tribunal Regional Federal da 1ª Região, os impetrantes asserem na presente impetração que "os HHCC impetrados em favor dos pacientes no Tribunal Regional Federal da Região, inobstante estarem maduros para julgamento desde 18/08/2017, 21/08/2017 e 30/10/2017 ainda não foram julgados, o que caracterizara o excesso de prazo na conclusão do feito" (e-STJ fl. 3).
+E ainda aduzem que, "no bojo do HC 149.922, do Supremo Tribunal Federal, o ilustre Relator, MINISTRO MARCO AURÉLIO, deferiu parcialmente a medida liminar a fim de que o Tribunal Regional Federal da 1ª Região imprimisse a preferência no julgamento do Habeas Corpus impetrado em favor do corréu, [NOME]. Não resta a menor dúvida que a situação dos pacientes se afigura idêntica à do referido corréu, razão pela qual há de ser conferido o mesmo tratamento processual" (e-STJ fl. 3).
+Assim, pugnam, liminarmente e no mérito, pela concessão da ordem "a fim de que seja determinado que o Desembargador Relator dos HHCC 0030661-98.2017.4.01.0000, 0032778-62.2017.4.01.0000 e 0042363-41.2017.4.01.000  ..  julgue esses procedimentos no prazo máximo de 10 (dez) dias" (e-STJ fl. 10).
+O pedido liminar foi indeferido, em 4/1/2018, pela Ministra Presidente Laurita Vaz (e-STJ fls. 343/344).
+Informações prestadas às e-STJ fls. 347/348 e 350/888.
+O Ministério Público Federal manifestou-se pela denegação da ordem em parecer assim ementado (e-STJ fl. 893):
+HABEAS CORPUS. PROCESSO PENAL. OPERAÇÃO EPÍSTOLA. ORGANIZAÇÃO CRIMINOSA. TRÁFICO INTERNACIONAL DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. LAVAGEM DE DINHEIRO. EXCESSO DE PRAZO NO JULGAMENTOS DOS HABEAS CORPUS IMPETRADOS PERANTE O TRIBUNAL REGIONAL NÃO CONFIGURADO.
+- Os prazos estabelecidos em matéria processual penal não tem as características de fatalidade e de improrrogabilidade, fazendo- se imprescindível realizar um juízo de razoabilidade para definir possível excesso de prazo.
+- Hipótese em que a proximidade do julgamento dos habeas corpus anunciada pelo Tribunal de origem, aliada à alta complexidade dos feitos, afastam, por ora, a alegação de excesso de prazo.
+- Parecer pela denegação da ordem.
+É, em síntese, o relatório.
+Consoante informações obtidas no sítio eletrônico do Tribunal Regional Federal da 1ª Região, os HCs n. 0030661-98.0017.4.01.0000, n. 0032778-62.2017.4.01.0000 e n. 0042363-41.2017.4.01.0000 foram julgados em 3/4/2018, 28/2/2018 e 28/2/2018, respectivamente, tendo a ordem sido denegada em todos.
+Fica, portanto, sem objeto o pedido contido neste writ, em que a defesa insurgia-se contra a demora no julgamento do mérito das impetrações originárias. Não há mais interesse processual, por não existir necessidade e utilidade da prestação jurisdicional.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
