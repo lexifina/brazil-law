@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça local, cuja ementa é a seguinte (e-STJ fl. 1442):
+EMENTA: APELAÇÃO - HOMICÍDIO QUALIFICADO - ALEGAÇÃO DE CERCEAMENTO DE DEFESA - INOCORRÊNCIA - ALEGAÇÃO DE DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS - INOCORRÊNCIA - REDUÇÃO DA PENA - CABIMENTO. V. V. REDUÇÃO DA REPRIMENDA - IMPOSSIBILIDADE - PENA-BASE DEVIDAMENTE FIXADA - UTILIZAÇÃO DE UMA QUALIFICADORA PARA QUALIFICAR O
+CRIME E DA OUTRA COMO CIRCUNSTÂNCIA AGRAVANTE.
+Interpostos embargos de declaração, esses foram rejeitados (e-STJ fls. 1468/1474).
+Nas razões do recurso especial, alega a parte recorrente violação dos artigos 61, inciso II, alínea "c", e 68 do CP. Sustenta que, havendo mais de uma circunstância qualificadora, uma deve formar o tipo qualificado, enquanto as outras podem ser consideradas agravantes genéricas (quando expressamente previstas como tais), ou circunstâncias judiciais desfavoráveis, de forma residual.
+Não tendo sido apresentadas as contrarrazões (e-STJ fl. 1516), o recurso foi admitido (e-STJ fls. 1518/1519), manifestando-se o Ministério Público Federal, nesta instância, pelo provimento do recurso especial (e-STJ fls. 1532/1537).
+Nesta instância, instado a se manifestar, a parte recorrida, por meio da Defensoria Pública, apresentou contrarrazões (e-STJ fls. 1599/1607).
+É o relatório. Decido.
+O recurso merece acolhida.
+O Tribunal a quo considerou um erro o procedimento de aplicar apenas uma circunstância como qualificadora e usar a segunda como agravante.
+Ocorre que tal entendimento encontra-se contrário a jurisprudência desta Corte Superior no sentido de que, se tratando de crime de homicídio, com pluralidade de qualificadoras, uma poderá qualificar o delito, enquanto as demais poderão ser consideradas como circunstâncias desfavoráveis, seja para agravar a pena na segunda etapa da dosimetria, seja para elevar a pena-base na primeira fase do cálculo.
+Nessa linha, os seguintes julgados:
+ PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. PENA-BASE. CIRCUNSTÂNCIAS JUDICIAIS NÃO ANALISADAS. OCORRÊNCIA DE BIS IN IDEM. EFEITOS INFRINGENTES. CABIMENTO. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. NÃO CABIMENTO. EMBARGOS ACOLHIDOS COM EFEITOS INFRINGENTES.
+ ..
+3. No homicídio duplamente qualificado, a circunstância utilizada para qualificar o delito não pode ser utilizada também para exasperar a pena-base, sob pena de bis in idem. Todavia, inexiste óbice para que a qualificadora remanescente possa ser adotada como circunstância judicial desfavorável.
+4. São incabíveis embargos de declaração para que o Superior Tribunal de Justiça enfrente matéria constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+5. Embargos declaratórios acolhidos, com efeitos infringentes, para reduzir a exasperação da pena-base, com reflexos na pena definitiva. (EDcl no AgRg no AREsp 466.477/PE, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 15/12/2016, DJe 10/02/2017).
+HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. NÃO CABIMENTO. HOMICÍDIO DUPLAMENTE QUALIFICADO. PACIENTE CONDENADO À PENA CORPORAL DE 20 ANOS DE RECLUSÃO, EM REGIME INICIAL FECHADO. PLEITO DE REDUÇÃO DA PENA-BASE. INVIABILIDADE. PENA-BASE ACIMA DO MÍNIMO LEGAL COM FULCRO NA QUALIFICADORA SOBEJANTE E NAS CIRCUNSTÂNCIAS DO DELITO. FUNDAMENTAÇÃO CONCRETA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+- Consoante a jurisprudência desta Corte, em se tratando de crime de homicídio, com pluralidade de qualificadoras, uma poderá qualificar o delito, enquanto as demais poderão caracterizar circunstância agravante, se forem previstas como tal ou, residualmente, circunstância judicial.
+- No caso, infere-se que a exasperação da pena-base operou-se com lastro não somente na qualificadora sobejante, mas, também, com fulcro na valoração desfavorável das circunstâncias do delito, praticado na presença da mãe, irmã e dos dois filhos da vítima, de tenra idade. Considerou-se, também, a personalidade agressiva do acusado, o qual diversas vezes agrediu a vítima - tendo em certa oportunidade destruído sua residência - e seus familiares, com ameaça concreta a vários deles, provocando temor e intranquilidade no lar.
+- Assim, descabido o argumento de que a exasperação da pena-base estaria desprovida de fundamentação idônea, pois o afastamento do mínimo legal operou-se com lastro em elementos concretos existentes nos autos.
+- Habeas corpus não conhecido. (HC 294.594/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/06/2016, DJe 22/06/2016).
+PENAL E PROCESSUAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. INADEQUAÇÃO DA VIA ELEITA. HOMICÍDIO QUALIFICADO. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO IDÔNEA. PRESENÇA DE QUALIFICADORAS. UTILIZAÇÃO DE UMA PARA QUALIFICAR O CRIME E DE OUTRAS DUAS PARA EXASPERAR A REPRIMENDA. POSSIBILIDADE. RECONHECIMENTO DE MAUS ANTECEDENTES. CONDENAÇÃO DEFINITIVA POR FATO ANTERIOR COM TRÂNSITO EM JULGADO POSTERIOR AO DELITO EM EXAME. VIABILIDADE.
+(..)
+3. Hipótese em que a pena-base imposta ao paciente encontra-se fundamentada com base em elementos concretos e dentro do critério da discricionariedade vinculada do julgador, tendo sido fixada acima do mínimo legal em razão de circunstâncias judiciais desfavoráveis: exarcebada culpabilidade do acusado, das circunstâncias do crime perpetrado e dos maus antecedentes do réu.
+4. In casu, havendo o Conselho de Sentença do Tribunal do Júri reconhecido três qualificadoras, as instâncias ordinárias sopesaram duas (motivo fútil e com emprego de tortura ou outro meio insidioso ou cruel) como circunstâncias judiciais desfavoráveis, enquanto a outra (recurso que dificultou a defesa da vítima) foi considerada na fixação da pena-base.
+5. Conforme orientação jurisprudencial desta Corte, havendo mais de uma circunstância qualificadora reconhecida no decreto condenatório, apenas uma deve formar o tipo qualificado, enquanto as outras devem ser consideradas circunstâncias agravantes, quando expressamente previstas como tais, ou circunstâncias judiciais desfavoráveis, de forma residual.
+(..)
+7. Habeas corpus não conhecido (HC 290.261/SP, Rel. Ministro GURGEL DE FARIA, Quinta Turma, julgado em 10/12/2015, DJe 17/2/2016).
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CONHECIMENTO DO WRIT. CRIMES DE HOMICÍDIO QUALIFICADO E OCULTAÇÃO DE CADÁVER. PENA-BASE. EXASPERAÇÃO. UTILIZAÇÃO DA QUALIFICADORA SOBEJANTE. POSSIBILIDADE. REINCIDÊNCIA CONFIGURADA.
+AUMENTO SUPERIOR A 1/6 PELA RECIDIVA. FUNDAMENTO IDÔNEO. OCORRÊNCIA. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. Não há falar em ofensa ao sistema trifásico, ante a utilização das qualificadoras sobejantes, que não foram utilizadas para qualificar o delito, como circunstância judicial do art. 59 do Código Penal, na primeira fase, portanto. Precedentes.
+3. Nos termos da jurisprudência desta Corte, o aumento, na segunda fase da dosimetria, pela agravante da reincidência, em patamar superior a 1/6, requer fundamento concreto e idôneo. Precedentes.
+4. Habeas corpus não conhecido. (HC 197.682/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 19/11/2015, DJe 03/12/2015).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. EXISTÊNCIA DE DUAS QUALIFICADORAS. UTILIZAÇÃO DE UMA DELAS COMO AGRAVANTE, NOS TERMOS DO ART. 61, INCISO II, ALÍNEA C, DO CÓDIGO PENAL. POSSIBILIDADE. INSURGÊNCIA DESPROVIDA.
+1. Quando incide mais de uma qualificadora do delito, é cabível que uma delas seja utilizada como tal e as demais sejam consideradas como circunstâncias desfavoráveis, seja para agravar a pena na segunda etapa da dosimetria (caso conste no rol do art. 61, II, do CP), seja para elevar a pena-base na primeira fase do cálculo.
+2. Na hipótese, tratando-se de circunstância prevista como agravante de pena no art. 61, inciso II, alínea c, do CP, inexiste óbice para computá-la na segunda etapa da dosimetria.
+3. Agravo regimental desprovido (AgRg no REsp 1521289/MG, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 5/11/2015, DJe 17/11/2015).
+In casu, havendo o Conselho de Sentença do Tribunal do Júri reconhecido duas qualificadoras (motivo torpe e recurso que dificultou a defesa da vítima), o Juízo sentenciante sopesou uma como qualificadora, enquanto a outra foi considerada como agravante na segunda fase da dosimetria, o que não configura qualquer ilegalidade.
+Assim, passo à nova dosimetria da pena, mantidos os critérios das instâncias ordinárias.
+Na primeira fase, mantenho a pena-base no mínimo legal de 12 anos de reclusão. Na segunda fase, em razão da agravante consistente no emprego de recurso que dificultou a defesa da vítima, aumento a pena em 1/6, restando em 14 anos de reclusão, que torno definitiva por inexistir causas de aumento e diminuição.
+Ante o exposto, com fundamento no art. 932, inciso V, alínea a, do CPC, e no art. 255, § 4º, inciso III, do RISTJ e na Súmula n. 568/STJ, dou provimento ao recurso especial, para redimensionar a pena para 14 anos de reclusão, mantidos os demais termos da sentença.
+Publique-se. Intimem-se.
