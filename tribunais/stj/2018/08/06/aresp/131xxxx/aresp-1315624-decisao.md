@@ -1,0 +1,38 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. ENUNCIADO ADMINISTRATIVO 3/STJ. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. PRECEDENTES. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial da UNIVERSIDADE ESTADUAL DE GOIÁS fundado na alínea "a" do permissivo constitucional interposto contra acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado:
+EMENTA: AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA.
+LIQUIDAÇÃO DE SENTENÇA COLETIVA. RESTITUIÇÃO DOS VALORES PAGOS PELOS ALUNOS. PRESCRIÇÃO AFASTADA.
+JUROS DE MORA E CORREÇÃO MONETÁRIA APLICÁVEIS À FAZENDA PÚBLICA. PROVIMENTO PARCIAL.
+1 - O beneficiário de sentença proferida em sede de ação coletiva tem o prazo de 5 (cinco) anos para ajuizar a execução individual, contados a partir do trânsito em julgado da sentença.
+2 - Tratando-se de condenação imposta à Fazenda Pública, para restituição de valores pagos a título de taxa de matrícula e de mensalidade, deve incidir correção monetária pelo INPC desde o pagamento até 29.06.2009, e juros de mora no percentual de 1% ao mês, a contar da citação na ação de conhecimento, e a partir de então, a correção monetária e os juros de mora obedecerão aos índices oficiais de remuneração básica e juros aplicados à caderneta de poupança, nos termos do art. 1º-F da Lei nº 9.494/97, com a nova redação dada pela Lei nº 11.960/2009.
+3 - Agravo provido em parte.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a recorrente aponta violação aos artigos 1º e 3º do Decreto federal n. 20.910/1932, bem como a Súmula 85 do STJ.
+Sobreveio juízo negativo de admissibilidade ao argumento de que: a) o recurso especial não é sede própria para discussão de ofensa a súmula de tribunal, uma vez que a hipótese constitucional de seu cabimento é restrita à violação de tratado ou lei federal, não abrangendo, por conseguinte, o direito sumulado; b) o acórdão recorrido se firmou no mesmo sentido da orientação do Superior Tribunal de Justiça, incidindo, na espécie, o óbice da Súmula 83 do STJ.
+Nas razões de agravo, postula o processamento do recurso especial, haja vista ter cumprido todos os requisitos necessários à sua admissão.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A pretensão não merece acolhida.
+Dessume-se dos autos que a decisão que negou seguimento ao recurso especial se baseou nos seguintes argumentos: a) o recurso especial não é sede própria para discussão de ofensa a súmula de tribunal, uma vez que a hipótese constitucional de seu cabimento é restrita à violação de tratado ou lei federal, não abrangendo, por conseguinte, o direito sumulado; e b) não se conhece do Recurso Especial quando o acórdão recorrido se firmou no mesmo sentido da orientação do Superior Tribunal de Justiça - incide, na espécie, o óbice da Súmula 83 do STJ (STJ, AgInt no AREsp 992408/SC, Relator: Min. Raul Araújo, Órgão Julgador: 4ª Turma, DJe 12/05/2017).
+Contudo, do exame do agravo interposto, observa-se que a agravante se furtou de impugnar específica e suficientemente os fundamentos em que se pautou o Tribunal de origem.
+Quanto a incidência da Súmula 83/STJ, competia a agravante demonstrar que o entendimento adotado pelo acórdão recorrido está em descompasso com o entendimento do STJ, colacionando, para tanto, precedentes jurisprudenciais em sentido favorável à tese recursal, ou que o precedente invocado na decisão de inadmissibilidade não se aplicaria ao caso; o que não aconteceu.
+Ademais, não houve qualquer impugnação nas razões do agravo acerca do argumento do Tribunal de origem de que o recurso especial não é sede própria para discussão de ofensa a súmula de tribunal.
+Assim, o agravo em recurso especial carece de fundamentação, atraindo as consequências previstas no art. 932, III, do CPC, segundo o qual não se conhecerá do agravo que não tenha atacado especificamente os fundamentos da decisão de inadmissibilidade.
+A jurisprudência do STJ é assente no sentido de que impugnação à fundamentação contida na decisão agravada deve ser específica e suficientemente fundamentada e atacar todos os pontos do decisum.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE AFRONTA A DISPOSITIVOS CONSTITUCIONAIS, EM SEDE DE RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 7/STJ, EM RELAÇÃO AO VALOR FIXADO A TÍTULO DE DANOS MORAIS. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+II. Interposto Agravo interno com razões que não impugnam, especificamente, os fundamentos da decisão agravada - mormente quanto à impossibilidade de apreciação de afronta a dispositivos constitucionais, em sede de Recurso Especial, e à incidência da Súmula 7/STJ, quanto ao valor fixado a título de indenização por danos morais -, não prospera o inconformismo, quanto aos pontos, em face da Súmula 182 desta Corte.
+III. O entendimento firmado, à luz da prova dos autos, pelo Tribunal a quo - no sentido de que "é evidente que a prestação do serviço pelos correios foi defeituoso, na medida em que foi oferecido em local sem segurança, que veio a desabar e causar o óbito de consumidora" - não pode ser revisto, pelo Superior Tribunal de Justiça, em sede de Recurso Especial, sob pena de ofensa ao comando inscrito na Súmula 7 desta Corte. Precedentes do STJ.
+IV. Agravo interno improvido.
+(AgInt no AREsp 337.900/SC, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 13/06/2017, DJe 27/06/2017)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. JUÍZO PRÉVIO DE ADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 182/STJ. ART. 544, § 4º, I, DO CPC. AGRAVO NÃO PROVIDO.
+1. A ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do agravo de instrumento, atraindo por analogia a Súmula 182/STJ.
+2. A agravante não infirmou, de forma incisiva e específica, os fundamentos da decisão que inadmitiu o recurso especial, limitando-se a aduzir que a Súmula 83 do STJ seria inaplicável aos recursos especiais interpostos com base em violação a dispositivo legal e a trazer argumentação genérica quanto à alegada ofensa aos artigos 165 e 458, ambos do CPC.
+3. É dever do agravante demonstrar o desacerto do magistrado ao fundamentar a decisão impugnada, atacando especificamente e em sua totalidade o seu conteúdo, nos termos do art. 544, § 4º, I, do CPC, o que não ocorreu na espécie, uma vez que as razões apresentadas contra a decisão de inadmissibilidade do recurso especial têm conteúdo genérico.
+4. A inobservância dessa exigência conduz ao não conhecimento do recurso de agravo, ante a incidência, por analogia, da Súmula 182 do Superior Tribunal de Justiça. 5. Agravo regimental não provido. (AgRg no AREsp 101.105/RJ, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 21/06/2012, DJe 02/08/2012)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
