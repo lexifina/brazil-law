@@ -1,0 +1,32 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. CRIME DE RESISTÊNCIA. PEDIDO DA DEFESA DE REDUÇÃO DA PENA. CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. CONDUTA SOCIAL E PERSONALIDADE. CONDENAÇÃO TRANSITADA EM JULGADO. ELEVAÇÃO DA PENA EM 1 ANO DE RECLUSÃO. AFASTAMENTO DA CIRCUNSTÂNCIA JUDICIAL PERSONALIDADE. REDIMENSIONAMENTO DA PENA.
+Ordem concedida nos termos do dispositivo.
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], em que se aponta como autoridade coatora a Primeira Câmara Criminal do Tribunal de Justiça do Rio de Janeiro.
+Na sentença, o paciente foi condenado à pena de 1 ano e 8 meses de reclusão, em regime semiaberto, por ter sido incurso no art. 329, § 1º, do Código Penal, e absolvido, com base no art. 386, VI, do Código de Processo Penal, pelo delito previsto no art. 12, da Lei n. 10.826/2003 (fls. 23/29).
+Em sede de apelação, a defesa pediu a absolvição, por insuficiência probatória, bem como o redimensionamento da reprimenda, com a fixação da pena-base no piso mínimo, e o reconhecimento da atenuante de menoridade. A Primeira Câmara Criminal do Tribunal de Justiça do Rio de Janeiro negou provimento ao recurso de apelação (Apelação Criminal n. 0114717-61.2016.8.19.0001 - fls. 37/47). Esta, a ementa do julgado (fl. 37):
+Apelação. Art. artigo 329, § 1º, do Código Penal c artigo 15, da Lei nº 10.826/03. Condenação nas penas do crime de resistência e absolvição do disparo de arma de fogo. Prova segura que o acusado se opôs a execução de ato legal e possibilitou a fuga dos elementos do tráfico. Depoimentos dos policiais que não deixam dúvidas da materialidade, autoria e culpabilidade. Correto o incremento da pena base ante os maus antecedentes configurados pela condenação por tráfico e associação para o tráfico transitada em julgado após o delito destes autos. A atenuante da menoridade relativa, foi devidamente reconhecida na sentença. Regime semiaberto mantido. Recurso desprovido.
+No presente writ, a Defensoria Pública requer a redução da pena-base, pelo crime de resistência, a patamar mais próximo ao mínimo legal, com os consequentes reflexos na fixação do regime de cumprimento.
+Decisão deste Relator indeferindo a liminar (fl. 51).
+Parecer ministerial pela denegação da ordem.
+É o relatório.
+Na sentença, esta foi a dosimetria feita pelo Juízo de primeira instância, que considerou desfavoráveis a personalidade e a conduta do paciente, nos seguintes termos (fls. 27/28):
+ ..  Atendendo as diretrizes dos artigos 59 e 68, ambos do Código Penal, verifico que apesar do réu não ser reincidente, pesa em seu desfavor a sua personalidade e conduta social, uma vez que ostenta anotações e condenações criminais e insiste na prática delitiva.
+Com efeito, a primeira anotação da FAC do acusado (fl. 56) o mesmo veio a ser condenado pela prática de crimes de tráfico de entorpecentes e associação para o tráfico, com trânsito em julgado em data de 22/09/2015 (proc. 0210665-35.2013.8.19.0001 - 27a Vara Criminal desta Comarca). Ostenta outra condenação criminal, oriunda deste Juízo (proc. 0434536-42.2015.8.19.0001), por infração aos artigos 33 e 35, ambos da Lei 11.343/06, ainda, pendente de recurso (fl. 57).
+Responde a outra ação penal por crime doloso contra a vida, que está em andamento - proc. 0023988-23.2015.8.19.0001 da 3a Vara Criminal desta Comarca (fl. 56 verso).
+Diante disso vislumbro a necessidade de fixar as suas penas além do mínimo legal, ou seja, em 02 (dois) anos de reclusão.
+ ..
+O regime inicial de pena é o semiaberto, com fundamento no art. 33, § 3º do CP, haja vista que as condições judiciais não são favoráveis ao réu.
+ ..
+Sendo 1 ano a pena-base mínima para o crime previsto no art. 329, § 1º, do Código Penal, e a máxima 3 anos de reclusão, entendo que a fixação da reprimenda em 2 anos de reclusão pela consideração de duas circunstâncias judiciais não está adequada, uma vez que o Magistrado apresentou motivação relativa a três processos em desfavor do paciente, sendo apenas um deles já transitado em julgado, ou seja, houve concreta fundamentação apenas quanto a uma circunstância judicial.
+Então, há constrangimento ilegal no acórdão hostilizado, proferido pela Primeira Câmara Criminal do Tribunal de Justiça do Rio de Janeiro, em que o Julgador entendeu correta a elevação da pena por condenação anterior por tráfico e associação para o tráfico transitada em julgado após a prática do delito discutido, valorando tanto a conduta social e a personalidade.
+Foram avaliadas desfavoravelmente duas circunstâncias judiciais e não apenas uma. Para tanto, foram consideradas uma condenação pendente de recurso, uma ação penal em curso e uma condenação definitiva, por delito anterior ao ora discutido, que transitou em julgado em 22/9/2015, ou seja, após a data do crime de resistência do caso dos autos (18/10/2014), tendo assim o paciente continuado na prática delitiva. Possível a valoração negativa em relação a uma circunstância judicial, conduta social. A propósito:
+RECURSO ESPECIAL. ROUBO MAJORADO. DOSIMETRIA DA PENA. CONDENAÇÕES ANTERIORES. CUMPRIMENTO OU EXTINÇÃO HÁ MAIS DE CINCO ANOS. CONDENAÇÕES COM TRÂNSITO EM JULGADO APÓS O DELITO EM APURAÇÃO. MAUS ANTECEDENTES. CONFIGURAÇÃO.
+1. As condenações criminais cujo cumprimento ou extinção da pena ocorreu há mais de 5 anos, a despeito de não implicarem reincidência nos termos do que dispõe o art. 64, I, do CP, são hábeis a caracterizar maus antecedentes.
+2. Esta Corte também já se manifestou no sentido de que "a condenação por crime anterior, com trânsito em julgado posterior à prática delitiva em apuração, justifica a valoração negativa da circunstância judicial dos antecedentes, conduta social ou personalidade do agente, lastreando a exasperação da pena-base" (AgInt no AREsp n. 721.347/DF, Ministro Nefi Cordeiro, Sexta Turma, julgado em 10/10/2017, DJe 23/10/2017).
+3. Recurso provido.
+(REsp n. 1.717.020 / RJ, Ministro Jorge Mussi, Quinta Turma, DJe 28/6/2018)
+Deve assim ser decotada uma delas, a personalidade, perfazendo a pena o total de 1 ano e 6 meses de reclusão apenas em razão da conduta social.
+Quanto ao regime semiaberto, não há ilegalidade, pois, sendo possível a fixação do regime aberto, o agravamento para o semiaberto traz adequada motivação, em razão da circunstância judicial desfavorável, art. 33, § 3º, do Código Penal, e o entendimento de ter o paciente continuado a praticar delitos.
+Ante o exposto, concedo a ordem, a fim de redimensionar a pena do paciente para 1 ano e 6 meses de reclusão, em regime semiaberto.
+Publique-se.
