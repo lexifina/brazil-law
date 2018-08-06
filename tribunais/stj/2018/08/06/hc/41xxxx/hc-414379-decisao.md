@@ -1,0 +1,24 @@
+DECISÃO
+LUCAS HENRIQUE DOS SANTOS RIBEIRO e GUSTAVO HENRIQUE DA SILVA estariam sofrendo coação ilegal em seu direito a locomoção, em face de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, na Apelação Criminal n. 001224-86.2015.8.26.0635.
+Consta nos autos que o Juízo de primeiro grau julgou improcedente a pretensão punitiva apresentada na denúncia para, com fundamento no art. 386, VII, do CPP, absolver os pacientes.
+Inconformado, o Ministério Público Estadual interpôs apelação criminal, que foi provida pela 8.ª Câmara Criminal do Tribunal de origem, para condená-los à pena de 5 anos e 6 meses de reclusão, em regime fechado, pela prática do crime previsto no art. 157, § 2.º, I e II, do Código Penal.
+Nas razões deste mandamus, o impetrante sustenta "que a manutenção do v. acórdão combatido implicará impreterivelmente no cumprimento de grande parte da reprimenda imposta sem que houvesse qualquer prova de autoria", bem como a ilegalidade da fixação do regime inicial de pena, visto que primários e com bons antecedentes.
+Requer, inclusive liminarmente, a absolvição ou, subsidiariamente, seja fixado o regime semiaberto.
+Indeferida a liminar, foram os autos enviados ao Ministério Público Federal, que oficiou pelo conhecimento do writ e, no mais, pela concessão da ordem para fixar o regime inicial semiaberto (fls. 51-60).
+Decido.
+Inicialmente, consigno a impossibilidade de conhecer da alegação de condenação contrária à prova dos autos, cujo pedido - absolvição - exige inescapavelmente o revolvimento do conjunto fático-probatório, vedado na via estreita do writ.
+Quanto ao pedido de modificação do regime inicial de cumprimento de pena, cumpre enfatizar que esta Corte tem decidido que ele não está vinculado, de forma absoluta, ao quantum de reprimenda imposto.
+É dizer, para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena (HC n. 279.272/SP, Rel. Ministro Moura Ribeiro, 5ª T., DJe 25/11/2013; HC n. 265.367/SP, Rel. Ministra Laurita Vaz, 5ªT., DJe 19/11/2013; HC n. 213.290/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/11/2013; HC n. 148.130/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 3/9/2012).
+A Corte de origem, a despeito de considerar favoráveis aos pacientes todas as circunstâncias judiciais e fixar a pena-base ao mínimo legal (fl. 22) manteve a imposição do regime fechado com fundamento na gravidade abstrata do roubo (fl. 26)
+Assim, observo que as instâncias de origem não apontaram nenhum elemento dos autos (como o modus operandi e indicação de número excessivo de agentes, por exemplo) que, efetivamente, comprovasse a real exigência de fixação do modo inicialmente mais gravoso. Nesse sentido, entendo que os elementos apresentados não se revestem da devida idoneidade para sustentar a fixação do regime mais gravoso do que o permitido em razão da sanção aplicada.
+Esse, aliás, é o entendimento consolidado nas Súmulas n. 440 do STJ, 718 e 719 do STF.
+Nesse sentido, confira-se o seguinte julgado desta Corte de Justiça:
+ ..
+7. Para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena.
+8. O Tribunal local não apontou nenhum elemento dos autos (como o modus operandi, por exemplo) que, efetivamente, comprovasse a real exigência de fixação do modo inicialmente mais gravoso.
+9. O paciente, primário, sem registro de circunstância judicial desfavorável e condenado a 6 anos e 10 meses de reclusão, deve cumprir a pena em regime inicial semiaberto, a teor do art. 33, § 2º, "b", e § 3º, do CP.
+10. Ordem não conhecida. Habeas corpus concedido, de ofício, para, na terceira fase da dosimetria do crime de quadrilha ou bando (atual delito de associação criminosa), reduzir à metade o aumento de pena procedido em razão da majorante do parágrafo único do art. 288 do Código Penal, nos termos da Lei n. 12.850/2013, tornando a reprimenda do paciente definitivamente estabelecida em 6 anos e 10 meses de reclusão, a ser cumprida em regime semiaberto.
+(HC n. 217.000/BA, Rel. Ministro Rogerio Schietti, 6ª T., DJe 29/8/2016)
+Assim sendo, o paciente primário sem registro de circunstância judicial desfavorável e condenado a 5 anos e 6 meses de reclusão, deve cumprir a pena em regime inicial semiaberto, a teor do art. 33, § 2º,"b", e § 3º, do CP.
+À vista do exposto, conheço parcialmente do habeas corpus e, no mais, concedo parcialmente a ordem para fixar o regime semiaberto aos pacientes.
+Publique-se e intimem-se.
