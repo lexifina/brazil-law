@@ -1,0 +1,47 @@
+EMENTA
+TRIBUTÁRIO. RECURSO ESPECIAL. SIMPLES NACIONAL. EXISTÊNCIA DE DÉBITOS. EXCLUSÃO. POSSIBILIDADE. TRIBUNAL DECIDIU COM BASE EM FATOS. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. IMPOSSIBILIDADE. EMPRESAS OPTANTES PELO SIMPLES NACIONAL E FEDERAL. PARCELAMENTOS INSTITUÍDOS PELAS LEIS N. 10.522/2002 E 11.941/2009. ADESÃO. IMPOSSIBILIDADE. PRECEDENTES. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e"c", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 136):
+TRIBUTÁRIO. EXCLUSÃO DO SIMPLES NACIONAL. EXIGÊNCIA DE REGULARIDADE FISCAL. CONSTITUCIONALIDADE DO ART. 17, INC. V, DA LC 123/06. PARCELAMENTO. LEI 10.522/2002.
+1. O art. 17, V, da LC n.º 123/2006 não afronta o art. 146, inciso III, alínea d, da Constituição, com a redação dada pela EC n.º 42/2003.
+2. A regra estatuída no inciso V do art. 17 da LC 123/2006, que veda o ingresso e permanência no simples nacional às microempresas e às empresas de pequeno porte que possuam dividas tributárias com o INSS ou com as Fazendas Públicas Federal, Estadual ou Municipal, cuja exigibilidade não está suspensa, não desrespeita o princípio da isonomia tributária previsto no inciso II do art. 150 do Estatuto Político de 1988.
+3. Constitucionalidade afirmada pela Corte Especial deste Tribunal na sessão de 28.02.13, nos autos da Arguição de Inconstitucionalidade n. 5014802- 46.2012.404.0000.
+4. O pedido de parcelamento, a ser requerido diretamente na via administrativa, está sujeito aos requisitos estabelecidos na legislação correspondente. A vedação de inclusão dos débitos do Simples Nacional no parcelamento previsto na Lei n.º 10.522/02 insere-se no espectro de discricionariedade conferido à Administração, haja vista envolver, além dos débitos federais, também débitos estaduais e municipais.
+Os embargos de declaração foram rejeitados, conforme fls. 154-156.
+No apelo especial (e-STJ fls. 163-188), o recorrente alega violação a diversos dispositivos legais. Pugna, em síntese, por sua reinclusão no SIMPLES NACIONAL, argumentando a ilegalidade de sua exclusão decorrente da existência de débitos; e requer a inclusão dos débitos do Simples Nacional no parcelamento da Lei nº 10.522/2002.
+Decisão de admissibilidade à fl. 204.
+Com contrarrazões.
+É o relatório. Decido.
+Com efeito, a jurisprudência desta Corte é no sentido de que a existência de débitos enseja a exclusão da microempresa e da empresa de pequeno porte do Simples Nacional.
+Nesse sentido:
+TRIBUTÁRIO. PARCELAMENTO ESPECIAL. LEI N. 10.522/02. VEDAÇÃO ÀS EMPRESAS OPTANTES DO SIMPLES NACIONAL. SÚMULA 83 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+ ..
+3. Não existe na referida Lei Complementar qualquer previsão para tanto. Inclusive, importante salientar que a existência de débitos enseja a exclusão da microempresa e da empresa de pequeno porte do mencionado regime tributário diferenciado.
+ ..
+Agravo regimental improvido (AgRg no REsp 1.315.371/RS, Rel. Min. Humberto Martins, Segunda Turma, DJe 22/06/2012, grifo nosso).
+Na hipótese, assim se manifestou a Corte de origem sobre a exclusão da Recorrente do Simples Nacional (e-STJ fl. 133):
+ ..
+Pois bem, na hipótese aventada nos autos, não há indícios de irregularidade no ato de exclusão do Simples Nacional, visto que, a autora admite encontrar-se em situação irregular perante o ente tributante.
+ ..
+Sendo assim, foi com base no contexto fático probatório dos autos que o Tribunal a quo decidiu pela legalidade da exclusão da Recorrente do Simples Nacional, rever tal entendimento esbarra no óbice da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E TIBUTÁRIO. SIMPLES NACIONAL. ATO DE EXCLUSÃO. EXISTÊNCIA DE DÉBITOS. INTIMAÇÃO PELO DIÁRIO OFICIAL. VALIDADE. AUSÊNCIA DE ILEGALIDADE. TRIBUNAL DECIDIU COM BASE EM FATOS. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. IMPOSSIBILIDADE
+ ..
+2. Hipótese em que o Tribunal de origem, com base no conjunto fático-probatório, assentou que não houve ilegalidade no ato de exclusão da recorrente do Simples Nacional. In verbis: "Consta dos autos que a autora tinha débitos relativos a tributo mobiliário da esfera municipal, qual seja, taxa dc licença de fiscalização do exercício de 2000. A autora admitiu a existência do débito, inclusive o quitou em 10/10/2008, após a exclusão ora combatida. Segundo informação da Subsecretária da Receita Municipal de fls. 88, tal débito estava inscrito em dívida ativa desde 15/02/2005. A via adotada, portanto, está cm consonância com a legislação de regência. Foi publicada no Diário Oficial da Cidade de São Paulo de 07/11/2007, com efeitos a partir de 01/01/2008, e dela constou expressamente a possibilidade de impugnação" (e-STJ, fls. 508-511). Rever tal entendimento esbarra na Súmula 7 do STJ.
+3. Recurso Especial parcialmente conhecido e, nessa parte, não provido (REsp 1.688.482/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 16/10/2017, grifo nosso).
+Por fim, esta Corte possui entendimento segundo o qual é vedado às empresas optantes pelo Simples Nacional e Federal aderirem aos parcelamentos instituídos pelas Leis n. 10.522/02 e 11.941/09, porquanto apenas lei complementar poderia criar parcelamento de débitos que englobam tributos de outros entes da federação, a teor do disposto no art. 146 da Constituição da República.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. INCIDÊNCIA DA SÚMULA 284/STF. PARCELAMENTO INSTITUÍDO PELA LEI 11.941/2009. EMPRESAS OPTANTES DO SIMPLES NACIONAL. IMPOSSIBILIDADE DE ADESÃO. AGRAVO INTERNO DA CONTRIBUINTE A QUE SE NEGA PROVIMENTO.
+1. Consoante entendimento consolidado no STJ, nos recursos interpostos com fundamento tanto pela alínea a quanto pela alínea c do permissivo constitucional, é necessária a indicação do dispositivo da legislação infraconstitucional federal violado, o que não se verifica na hipótese dos autos. Incidência da Súmula 284/STF, por analogia (fundamentação deficiente). Precedentes: AgRg no REsp. 1.327.582/RS, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJe 13.11.2015; AgRg no REsp. 1.347.791/DF, Rel. Min. OG FERNANDES, DJe 19.11.2015; AgRg no AREsp. 22.776/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 16.11.2015.
+2. O acórdão recorrido encontra-se em consonância com o entendimento desta Corte de que é vedado às empresas optantes pelo Simples Nacional e Federal aderirem aos parcelamentos instituídos pelas Leis ns. 10.522/2002 e 11.941/2009, porquanto apenas lei complementar poderia criar parcelamento de débitos que englobam tributos de outros entes da Federação, a teor do disposto no art. 146 da Constituição da República (REsp. 1.604.341/PR, Rel. Min. REGINA HELENA COSTA, DJe 21.9.2016).
+3. Agravo Interno da Contribuinte a que se nega provimento (AgInt no REsp 1.389.300/SC, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 18/12/2017, grifo nosso).
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. DÉBITOS TRIBUTÁRIOS. REGIME DE RECOLHIMENTO DENOMINADO SIMPLES. ADESÃO AO PARCELAMENTO PREVISTO PELA LEI 11.941/2009. IMPOSSIBILIDADE. PRECEDENTES. PORTARIA 6/2009. LEGALIDADE.
+1. A jurisprudência desta Corte firmou-se no sentido de que as Leis 10.522/2002 e 11.941/2009 não permitem o parcelamento de débitos apurados sob o regime de recolhimento denominado SIMPLES, seja o Federal, anteriormente regulado pela Lei 9.317/1996, a qual expressamente vedava a concessão do benefício; seja o nacional, que substituiu o anterior, regulado pela LC 123/2006, a qual abrange tanto tributos federais quanto outros não alcançados pelos referidos parcelamentos. Precedentes: AgInt no RESP 1.640.194/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 8/5/2017; AgRg no REsp 1.565.979/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 23/5/2016; AgRg no REsp 1.323.824/PR, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 18/8/2014; e REsp 1.317.736/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 27/6/2012.
+2. Agravo interno a que se nega provimento (AgInt no REsp 1.431.753/RS, Rel. Min. Og Fernandes, Segunda Turma, DJe 05/12/2017, grifo nosso).
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. OFENSA À PORTARIA CONJUNTA PGFN/RFB N. 13/14. NÃO ENQUADRAMENTO NO CONCEITO DE TRATADO OU LEI FEDERAL. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. EMPRESAS OPTANTES PELO SIMPLES NACIONAL E FEDERAL. PARCELAMENTOS INSTITUÍDOS PELAS LEIS N. 10.522/2002 E 11.941/2009. ADESÃO. IMPOSSIBILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+ ..
+V - Esta Corte possui entendimento consolidado segundo o qual é vedado às empresas optantes pelo Simples Nacional e Federal aderirem aos parcelamentos instituídos pelas Leis n. 10.522/02 e 11.941/09, porquanto apenas lei complementar poderia criar parcelamento de débitos que englobam tributos de outros entes da federação, a teor do disposto no art. 146 da Constituição da República.
+ ..
+VII - Agravo Interno improvido (AgInt no REsp 1.640.194/RS, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 08/05/2017, grifo nosso).
+Ante o exposto, nego seguimento ao Recurso Especial.
+Publique-se. Intimem-se.
