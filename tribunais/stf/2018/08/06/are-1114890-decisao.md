@@ -1,0 +1,10 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado do Rio Grande do Norte, está assim ementado:
+    “CONSTITUCIONAL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. REGIME ESPECIAL DE RECOLHIMENTO DE ICMS, NÃO ATENDIMENTO DOS REQUISITOS EXIGIDOS NO DECRETO REGULAMENTAR. AUTORIDADE FISCAL QUE OBEDECEU A LEGISLAÇÃO TRIBUTÁRIA APLICÁVEL. VINCULAÇÃO AO PRINCÍPIO DA LEGALIDADE. ALEGADO DESCONHECIMENTO DA LEI PELO CONTRIBUINTE NÃO ILIDE A RESPONSABILIZAÇÃO PELA INFRAÇÃO (ART. 136 DO CTN). MULTA APLICADA. EXCESSIBILIDADE. AUSÊNCIA DE RAZOABILIDADE E PROPORCIONALIDADE. APLICAÇÃO DO PRINCÍPIO DA VEDAÇÃO AO CONFISCO TRIBUTÁRIO (ART, 150, IV DA CF/88). CONCESSÃO PARCIAL DA SEGURANÇA.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar, desde logo, que o Plenário do Supremo Tribunal Federal, em sessão realizada por meio eletrônico, apreciando o RE 736.090/SC, Rel. Min. LUIZ FUX, reconheceu existente a repercussão geral da questão constitucional nele suscitada, e que coincide com a mesma controvérsia jurídica ora versada na presente causa, fazendo-o em acórdão assim ementado:
+    “RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. MULTA FISCAL QUALIFICADA. SONEGAÇÃO, FRAUDE E CONLUIO. 150% SOBRE A TOTALIDADE OU DIFERENÇA DO IMPOSTO OU CONTRIBUIÇÃO NÃO PAGA, NÃO RECOLHIDA, NÃO DECLARADA OU DECLARADA DE FORMA INEXATA (ATUAL § 1º C/C O INCISO I DO ‘CAPUT’ DO ARTIGO 44 DA LEI FEDERAL Nº 9.430/1996). VEDAÇÃO AO EFEITO CONFISCATÓRIO. MATÉRIA CONSTITUCIONAL. QUESTÃO RELEVANTE DOS PONTOS DE VISTA ECONÔMICO E JURÍDICO. TRANSCENDÊNCIA DE INTERESSES. REPERCUSSÃO GERAL RECONHECIDA.”
+    Isso significa que se impõe, quanto ao Tema nº 863/RG, nos termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, a devolução dos presentes autos ao Tribunal de origem.
+    Publique-se.
+    Brasília, 06 de agosto de 2018.
+Ministro CELSO DE MELLO
+Relator
