@@ -1,0 +1,71 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por [NOME] contra decisão que negou seguimento ao seu recurso especial, fundado no art. 105, inciso III, alínea a, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+Nas razões do nobre apelo, o ora Agravante debate os seguintes temas: a) possibilidade de revisão judicial dos contratos bancários; b) aplicação do Código de Defesa do Consumidor; c) ilegalidade da capitalização mensal de juros; d) afastamento da cobrança da comissão de permanência; e) ilicitude da cobrança das tarifas de abertura de crédito e emissão de carnê, e; e) negativação perante os órgãos de proteção ao crédito.
+É o relatório.
+Decido.
+Possibilidade de revisão judicial dos contratos bancários:
+Esta Corte Superior pacificou entendimento no sentido de que a legislação consumerista permite a manifestação acerca da existência de eventuais cláusulas abusivas, o que acaba por relativizar o princípio do pacta sunt servanda.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRATO BANCÁRIO. INCIDÊNCIA DO CDC. POSSIBILIDADE. MITIGAÇÃO DO PRINCÍPIO PACTA SUNT SERVANDA. COMISSÃO DE PERMANÊNCIA. INVIABILIDADE DE CUMULAÇÃO COM OS DEMAIS ENCARGOS MORATÓRIOS. AGRAVO NÃO PROVIDO.
+1. No pertinente à revisão das cláusulas contratuais, a legislação consumerista, aplicável à espécie, permite a manifestação acerca da existência de eventuais cláusulas abusivas, o que acaba por relativizar o princípio do pacta sunt servanda. Precedentes.
+(..).
+3. Agravo regimental a que se nega provimento." (AgRg no REsp n. 1.422.547/RS, Rel. Min. LUIS FELIPE SALOMÃO, DJe de 14/03/2014.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. REVISIONAL. PACTA SUNT SERVANDA. RELATIVIZAÇÃO. RELAÇÃO DE CONSUMO. CAPITALIZAÇÃO MENSAL DOS JUROS. PACTUAÇÃO EXPRESSA. FUNDAMENTO CONSTITUCIONAL. INVIABILIDADE DO REEXAME DA QUESTÃO EM SEDE DE RECURSO ESPECIAL.
+1. A legislação consumerista permite a manifestação acerca da existência de eventuais cláusulas abusivas, relativizando o princípio do pacta sunt servanda.
+(..)
+3. Agravo regimental desprovido." (AgRg no AREsp n. 349.273/RN, Rel. Min. JOÃO OTÁVIO DE NORONHA, DJe de 07/10/2013.)
+"AGRAVO REGIMENTAL. RECURSO ESPECIAL. ARRENDAMENTO MERCANTIL. "PACTA SUNT SERVANDA". MITIGAÇÃO. PROTEÇÃO AO CONSUMIDOR. BEM REINTEGRADO. DEVOLUÇÃO DO VALOR RESIDUAL GARANTIDO. VIABILIDADE. PERDAS E DANOS. COMPROVAÇÃO. SUMULA 7/STJ.
+1. "É possível ao magistrado manifestar-se sobre eventuais cláusulas abusivas do contrato bancário, diante da incidência do Código de Defesa do Consumidor, relativizando o princípio do pacta sunt servanda (cf. AgRg no Resp 732.179, Quarta Turma, Rel. Min. Jorge Scartezzini, DJ 15.05.06)". (AgRg no REsp 849.442/RS, Rel. Min. HÉLIO QUAGLIA BARBOSA, QUARTA TURMA, julgado em 22/05/2007, DJ 04/06/2007, p. 368)
+(..)
+4. Decisão agravada mantida pelos seus próprios fundamentos.
+5. AGRAVO REGIMENTAL DESPROVIDO." (AgRg no REsp n. 1.245.399/SC, Rel. Min. PAULO DE TARSO SANSEVERINO, DJe de 04/03/2013.)
+Ademais, o presente recurso não comporta conhecimento quanto à apontada ofensa ao art. 5.º, incisos XXXII e XXXV, da Constituição Federal, uma vez que a violação a dispositivos constitucionais não pode ser objeto de recurso especial, porquanto matéria própria de apelo extraordinário para a eg. Suprema Corte, consoante disposto no art. 102, inciso III, da Constituição Federal.
+Aplicabilidade do Código de Defesa do Consumidor:
+A Segunda Seção desta Corte Superior pacificou seu entendimento no sentido de que aplica-se aos contratos bancários o Código de Defesa do Consumidor, neste sentido o enunciado sumular n.º 297 do STJ: "O Código de Defesa do Consumidor é aplicável às instituições financeiras". No entanto, a sua efetiva aplicação depende da comprovação de eventual abusividade no caso concreto.
+Capitalização dos juros:
+A Segunda Seção do Superior Tribunal de Justiça consolidou seu entendimento acerca da capitalização mensal dos juros, sob o rito dos recursos especiais repetitivos, vinculado ao Tema n.º 246/STJ, nos termos do acórdão assim ementado:
+"CIVIL E PROCESSUAL. RECURSO ESPECIAL REPETITIVO. AÇÕES REVISIONAL E DE BUSCA E APREENSÃO CONVERTIDA EM DEPÓSITO. CONTRATO DE FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. CAPITALIZAÇÃO DE JUROS. JUROS COMPOSTOS. DECRETO 22.626/1933 MEDIDA PROVISÓRIA 2.170-36/2001. COMISSÃO DE PERMANÊNCIA. MORA. CARACTERIZAÇÃO.
+1. A capitalização de juros vedada pelo Decreto 22.626/1933 (Lei de Usura) em intervalo inferior a um ano e permitida pela Medida Provisória 2.170-36/2001, desde que expressamente pactuada, tem por pressuposto a circunstância de os juros devidos e já vencidos serem, periodicamente, incorporados ao valor principal. Os juros não pagos são incorporados ao capital e sobre eles passam a incidir novos juros.
+2. Por outro lado, há os conceitos abstratos, de matemática financeira, de "taxa de juros simples" e "taxa de juros compostos", métodos usados na formação da taxa de juros contratada, prévios ao início do cumprimento do contrato. A mera circunstância de estar pactuada taxa efetiva e taxa nominal de juros não implica capitalização de juros, mas apenas processo de formação da taxa de juros pelo método composto, o que não é proibido pelo Decreto 22.626/1933.
+3. Teses para os efeitos do art. 543-C do CPC:
+- "É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada."
+- "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada".
+(..)
+6. Recurso especial conhecido em parte e, nessa extensão, provido." (REsp 973.827/RS, Rel. Ministro LUIS FELIPE SALOMÃO, Rel. p/ Acórdão Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 08/08/2012, DJe 24/09/2012.)
+Na espécie, o Tribunal de origem decidiu em conformidade com essa orientação ao permitir a capitalização mensal dos juros em da expressa pactuação contratual (fl. 147).
+Destaco que é inviável a reforma do acórdão neste particular pois, para tanto, seria necessário o revolvimento do conjunto fático-probatório dos autos, bem como interpretação de cláusula contratual, o que é vedado pelas Súmulas 5 e 7 do STJ.
+Ressalta-se, ainda, que não há como se conhecer do nobre apelo, uma vez que o recorrente, visando afastar a aplicação da Medida Provisória n. 2.170-36/2001, trouxe também argumentos de índole constitucional, cuja análise se torna impossível em sede de recurso especial, visto que o exame de tal matéria é de competência do Pretório Excelso.
+Acerca do assunto, destaco:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NEGÓCIOS JURÍDICOS BANCÁRIOS. ALEGAÇÃO DE VIOLAÇÃO AO ARTIGO 11, INCISO III, ALÍNEA "A" DA LEI COMPLEMENTAR Nº 95. INCIDÊNCIA DAS SÚMULAS NºS 282 E 356/STF. AUSÊNCIA DE PREQUESTIONAMENTO. INCONSTITUCIONALIDADE DA MP 2.170-32/2000. RECURSO ESPECIAL. VIA INAPTA. DECISÃO MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL DESPROVIDO." (AgRg no AREsp 435.776/MS, Rel. Ministro PAULO DE TARSO SANSEVERINO, DJe 15/09/2014.)
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO - CAPITALIZAÇÃO MENSAL - POSSIBILIDADE - MP 1.963-17/2000 - INCONSTITUCIONALIDADE - MATÉRIA DE ÍNDOLE CONSTITUCIONAL - COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL - DECISÃO AGRAVADA MANTIDA - AGRAVO IMPROVIDO.
+(..)
+2.- Outrossim, "a alegação de inconstitucionalidade de Medida Provisória é matéria de índole constitucional, escapando aos lindes do recurso especial" (AgRg no REsp 740.744/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 28/06/2011, DJe 01/07/2011).
+3.- O recurso não trouxe nenhum argumento capaz de modificar a conclusão do julgado, a qual se mantém pelos seus próprios fundamentos.
+4.- Agravo Regimental improvido." (AgRg no AREsp 488.632/MS, Rel. Ministro SIDNEI BENETI, DJe 19/05/2014.)
+Comissão de Permanência:
+A Segunda Seção deste Superior Tribunal de Justiça consolidou o entendimento acerca da comissão de permanência, nos moldes do art. 543-C do CPC/1973, no exame do Tema n.º 52, conforme acórdão assim ementado:
+"DIREITO COMERCIAL E BANCÁRIO. CONTRATOS BANCÁRIOS SUJEITOS AO CÓDIGO DE DEFESA DO CONSUMIDOR. PRINCÍPIO DA BOA-FÉ OBJETIVA. COMISSÃO DE PERMANÊNCIA. VALIDADE DA CLÁUSULA. VERBAS INTEGRANTES. DECOTE DOS EXCESSOS. PRINCÍPIO DA CONSERVAÇÃO DOS NEGÓCIOS JURÍDICOS. ARTIGOS 139 E 140 DO CÓDIGO CIVIL ALEMÃO. ARTIGO 170 DO CÓDIGO CIVIL BRASILEIRO.
+1. O princípio da boa-fé objetiva se aplica a todos os partícipes da relação obrigacional, inclusive daquela originada de relação de consumo. No que diz respeito ao devedor, a expectativa é a de que cumpra, no vencimento, a sua prestação.
+2. Nos contratos bancários sujeitos ao Código de Defesa do Consumidor, é válida a cláusula que institui comissão de permanência para viger após o vencimento da dívida.
+3. A importância cobrada a título de comissão de permanência não poderá ultrapassar a soma dos encargos remuneratórios e moratórios previstos no contrato, ou seja: a) juros remuneratórios à taxa média de mercado, não podendo ultrapassar o percentual contratado para o período de normalidade da operação; b) juros moratórios até o limite de 12% ao ano; e c) multa contratual limitada a 2% do valor da prestação, nos termos do art. 52, § 1º, do CDC.
+4. Constatada abusividade dos encargos pactuados na cláusula de comissão de permanência, deverá o juiz decotá-los, preservando, tanto quanto possível, a vontade das partes manifestada na celebração do contrato, em homenagem ao princípio da conservação dos negócios jurídicos consagrado nos arts. 139 e 140 do Código Civil alemão e reproduzido no art. 170 do Código Civil brasileiro.
+5. A decretação de nulidade de cláusula contratual é medida excepcional, somente adotada se impossível o seu aproveitamento.
+6. Recurso especial conhecido e parcialmente provido." (REsp nº 1.058.114/RS e REsp nº 1.063.343/RS, Rel. p/ acórdão o Ministro JOÃO OTÁVIO DE NORONHA, DJe de 16/11/2010.)
+Ou seja, a comissão de permanência abrange, na verdade, três encargos: os juros remuneratórios, à taxa média de mercado, nunca superior àquela contratada para o empréstimo, os juros moratórios e a multa contratual (AgRg no REsp nº 986.508/RS, Rel. Min. Ari Pargendler, DJe de 5/8/2008).
+Na esteira desse entendimento foi editada a Súmula nº 472 deste c. Superior Tribunal de Justiça, a cujo teor: "A cobrança de comissão de permanência - cujo valor não pode ultrapassar a soma dos encargos remuneratórios e moratórios previstos no contrato - exclui a exigibilidade dos juros remuneratórios, moratórios, e da multa contratual".
+In casu, o aresto impugnado decidiu em conformidade com esse entendimento (fl. 147).
+Tarifas de abertura de crédito e emissão de carnê:
+Quanto às tarifas de abertura de crédito e emissão de carnê, verifica-se que o acórdão recorrido decidiu a controvérsia nos seguintes termos:
+"Segundo entendimento do E. Superior Tribunal de Justiça em sede de julgamento de incidente repetitivo (REsp n. 1.251.331/RS), em contratos bancários celebrados antes de 30.04.2008 (pois nesta data deixou de vigorar a Resolução CMN 2.303/96) é válida a pactuação da tarifa de abertura de crédito (TAC) e da tarifa de emissão de carnê (TEC), ou outra denominação para o mesmo fato gerador, qualquer delas podendo ser afastada se demonstrado consubstanciar-se vantagem exagerada por parte do agente financeiro, a redundar no desequilíbrio da relação jurídica.
+A partir de 30.04.2008 (início da vigência da Resolução CMN 3.518/2007), a cobrança por serviços bancários prioritários para pessoas físicas ficou limitada às hipóteses taxativamente previstas em norma padronizadora expedida pela autoridade monetária. Desde então, não mais tem respaldo legal a contratação da tarifa de emissão de carnê (TEC) e da tarifa de abertura de crédito (TAC), ou outra denominação para o mesmo fato gerador.
+Assim, em casos como o presente, deve verificar-se se existe eventual abusividade em sua cobrança, para tanto utilizando parâmetros objetivos de mercado, ou seja, analisando se os valores da tarifa de abertura de crédito (TAC) e da tarifa de emissão de carnê (TEC) estão em harmonia com o valor médio de mercado divulgado pelo Banco Central do Brasil para o período da contratação, ou se o superam expressamente, caso em que serão considerados abusivos.
+No caso concreto, a parte autora não demonstrou a incidência da tarifa de abertura de crédito (TAC) e da tarifa de emissão de carnê (TEC), e, não havendo previsão das mesmas no contrato bancário, resta prejudicada a análise de tal ponto. " (fl. 149).
+O recorrente, todavia, deixou de atacar a questão relativa à ausência de demonstração da incidência das tarifas no contrato, de forma que aplicável ao caso o teor da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Negativação perante os órgãos de proteção ao crédito:
+O reconhecimento da abusividade dos encargos exigidos no período da normalidade contratual descaracteriza a mora do devedor (REsp nº 1.061.530/RS, Rel. Min. Nancy Andrighi, DJe de 10/3/2009).
+Por outro lado, "a inscrição/manutenção do nome do devedor em cadastro de inadimplentes decidida na sentença ou no acórdão observará o que for decidido no mérito do processo. Caracterizada a mora, correta a inscrição/manutenção" (REsp nº 1.061.530/RS, Rel. Min. Nancy Andrighi, DJe de 10/03/2009).
+No caso dos autos, reconhecida a exigibilidade dos encargos remuneratórios, resta caracterizada a mora. Em razão disso, fica permitida a inscrição do nome do devedor nos cadastros de inadimplentes.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Por fim, deixo de majorar os honorários advocatícios nos termos do artigo 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o recurso especial foi interposto contra acórdão publicado ainda na vigência do Código de Processo Civil de 1973.
+Publique-se. Intime-se.
