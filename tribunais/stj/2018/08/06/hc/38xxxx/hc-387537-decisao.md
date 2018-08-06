@@ -1,0 +1,26 @@
+EMENTA
+HABEAS CORPUS. HOMICÍDIO PRIVILEGIADO. DOSIMETRIA DA PENA. PENA-BASE. AUMENTO. ANTECEDENTES. FUNDAMENTAÇÃO INIDÔNEA. SÚMULA 444/STJ. INCIDÊNCIA. EXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem parcialmente concedida a fim de fixar a reprimenda em 4 anos de reclusão, a ser inicialmente cumprida em regime semiaberto.
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], em que se aponta como órgão coator o Tribunal de Justiça do Maranhão (Apelação criminal n. 0015827-59.2004.8.10.0001 - 001871/2013 fls. 64/84).
+Narram os autos que o Juízo de Direito da 4ª Vara do Tribunal do Júri da Comarca de São Luís - MA condenou o paciente como incurso no art. 121, caput, do Código Penal, às penas de 5 anos e 4 meses de reclusão, a ser inicialmente cumprida no regime semiaberto (fls. 32/37).
+Inconformada, a defesa interpôs recurso de apelação, ao qual a Corte de origem negou provimento, em acórdão assim ementado (fl. 66):
+APELAÇÃO CRIMINAL. HOMICÍDIO PRIVILEGIADO. REDIMENSIONAMENTO DA PENA. DESCONSIDERAÇÃO DA CULPABILIDADE E ANTECEDENTES COMO CIRCUNSTÂNCIAS DESFAVORÁVEIS. IMPOSSIBILIDADE. PROPORCIONALIDADE ENTRE A PENA E A GRAVIDADE DO DELITO. VÍTIMA PERSEGUIDA. IMPROVIMENTO.
+1. A deficiência na fundamentação do julgador não é causa de diminuição ou aumento, principalmente quando a pena guarda proporcionalidade com a gravidade do delito e está no intervalo legalmente estabelecido no preceito secundário pelo tipo penal (art. 59 do Código Penal), como demonstrado pelos fatos e circunstâncias postos nos autos e no próprio corpo da sentença nas razões de decidir.
+2. O fato da vítima ter sido perseguida pelo Apelante é circunstância negativa que deve ser levada em consideração para a manutenção da pena do Apelante.
+3. Improvimento.
+Daí a presente impetração, na qual se pretende, em suma, a fixação da pena-base no mínimo legal.
+Liminar indeferida (fls. 91/93), o Ministério Público Federal opinou pela prejudicialidade do presente habeas corpus (fl. 98).
+É o relatório.
+A dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+No caso, o Tribunal de origem manteve a dosimetria fixada pelo Juízo de primeiro grau, entendendo desfavorável a vetorial da culpabilidade com base em fundamentação idônea, ou seja, pelo fato de o ora paciente ter perseguido a vítima, nestes termos (fl. 69):
+"(..) Que logo que terminou as pedras, novamente ela (a vítima) saiu dali correndo, nisto o interrogando jogou o seu facão a uma distância de uns cinco metros e atingiu as costelas dela (..) Que no momento em que o interrogando lançou o facão, a vítima esta de costas correndo (..)".
+No acórdão impugnado, foi registrado, ainda, que o fato da vítima ter sido perseguida pelo Apelante é circunstância negativa que deve ser levada em consideração para a manutenção da pena do Apelante, bem como que o homicídio ocorreu em decorrência de desentendimento por conta de drogas (fl. 70).
+O Tribunal de origem também manteve a análise negativa da vetorial dos antecedentes. Todavia, a sentença condenatória afirma expressamente que o paciente ostenta maus antecedentes, embora não possua ainda condenações (fl. 36). Assim, de acordo com a jurisprudência desta Casa, inquéritos policiais ou ações penais em andamento ou sem certificação do trânsito em julgado, ou mesmo condenações transitadas em julgado por fatos posteriores, não podem ser considerados como maus antecedentes, má conduta social ou personalidade desajustada, sob pena de malferir o princípio constitucional da presunção de não-culpabilidade. Exegese do enunciado 444 da Súmula deste STJ, verbis: "É vedada a utilização de inquéritos policiais e de ações penais em curso para agravar a pena-base" (AgRg no AREsp n. 894.405/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 13/06/2016 - grifo nosso).
+Dessa forma, restando apenas uma vetorial desfavorável (culpabilidade), a pena-base deve ser acrescida de 1/6, apenas, uma vez que a jurisprudência desta Corte é no sentido da proporcionalidade da fração de 1/6 (um sexto) de aumento, calculado, a partir da pena mínima abstratamente prevista, para cada vetorial negativa considerada na fixação da pena-base (AgRg no HC n. 428.622/MS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 12/04/2018).
+Assim, fixo a pena-base em 7 anos de reclusão.
+Na segunda etapa, presente a atenuante da confissão espontânea, a pena retorna ao mínimo legal, ou seja, 6 anos de reclusão.
+Na terceira fase, presente a causa especial de diminuição da pena prevista no art. 121, § 1º, do Código Penal (crime cometido sob o domínio de violenta emoção), mantenho a redução da pena em 1/3, tal como fizeram as instâncias ordinárias, fixando a pena definitivamente em 4 anos de reclusão.
+Tendo em vista a existência de circunstância judicial negativa, mantenho a fixação do regime semiaberto para o início do cumprimento da reprimenda, nos termos do art. 33, § 3º, do Código Penal.
+Ante o exposto, concedo parcialmente a ordem a fim de fixar a reprimenda do paciente em 4 anos de reclusão, a ser inicialmente cumprida em regime semiaberto.
+Publique-se.
