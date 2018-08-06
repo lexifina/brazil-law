@@ -1,0 +1,19 @@
+EMENTA
+HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. CIRCUNSTÂNCIAS DO CRIME. REITERAÇÃO DELITIVA. GRANDE QUANTIDADE APREENDIDA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO TÍTULO. PERDA DO OBJETO.
+Writ prejudicado.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME] e [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça de Mato Grosso (HC n. 1006265-28.2017.8.11.0000).
+Os autos me foram distribuídos por prevenção ao HC n. 423.231/MT, manejado em favor dos pacientes e indeferido liminarmente em 31/10/2017.
+Ocorre que o presente writ perdeu o objeto.
+Isso porque, de acordo com as informações extraídas do portal eletrônico do Tribunal de origem, nota-se que, em 9/2/2018, nos autos da Ação Penal n. 0006561-22.2017.8.11.0015, da 2ª Vara Criminal da comarca de Sinop/MT, foi proferida sentença condenando os pacientes, ou seja, posteriormente ao acórdão vergastado.
+Consoante reiterada jurisprudência desta Corte Superior de Justiça, a superveniência de sentença penal condenatória, por constituir novo título judicial a embasar a constrição cautelar do acusado, torna prejudicado o exame de writ que questiona decreto de prisão preventiva anterior (HC n. 365.344/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 28/8/2017).
+Afinal,  ..  a prolação de sentença condenatória em que se reconheceu, ainda que em decisão sujeita a recurso, mas em cognição exauriente, a culpa do paciente, ocasião em que a adequação da medida cautelar imposta foi reexaminada à luz de um espectro fático-processual de maior amplitude e profundidade. Assim, o estado de liberdade, atualmente, é alvo de ato jurisdicional superveniente, autônomo, de requisitos específicos e que desafia impugnação própria. (STF: HC n. 138.238/PR, Ministro Edson Fachin, DJe 22/2/2017).
+De qualquer maneira, o primitivo decreto de prisão não revelava nenhuma ilegalidade aparente, uma vez que baseado em fator real de cautelaridade, em razão das circunstâncias do crime, a quantidade de drogas apreendidas e o risco de reiteração delitiva.
+Além disso, quanto ao pedido de extensão, como mencionado na decisão liminar, o Tribunal a quo ressaltou que os pacientes não se encontram na mesma situação processual do corréu que teve a custódia cautelar revogada, nestes termos (fl. 83):
+ ..
+Embora estejam denunciados no mesmo feito, a cópia da denúncia encartada no anexo eletrônico Id 874050, pp. 341-363, revela que Alexandre e Ricardo, além de responderem pela prática do delito de tráfico de drogas e associação para este fim (arts. 33 e 35, da Lei n. 11.343/2006), respondem também pela majorante prevista no artigo 40, inciso V, da Lei Antidrogas, porque diferentemente do paciente Guilherme, que é acusado somente por tráfico de drogas, estes seriam, em tese, os responsáveis por negociar e adquirir grandes quantidades de substâncias entorpecentes no Estado de Mato Grosso do Sul e providenciar o transporte da droga até o município de Sinop, inclusive contratando terceiras pessoas, popularmente conhecidas como "mulas" para trazerem a substância ilícita, a fim de abastecerem as "bocas de fumo" locais.
+Confere-se que enquanto o paciente Guilherme - pelo que consta nos termos da inicial acusatória (Id 874050) - seria apenas uma "mula", os requerentes Alexandre e Ricardo seriam, supostamente, os líderes do grupo, os quais adquiriam exorbitantes quantidades de droga cm outras Unidades da Federação para disseminar no município de Sinop.
+Diante desse contexto e pelo que consta dos termos da denúncia, é indubitável que as circunstâncias e o contexto fático envolvendo o paciente e os ora requerentes são bem diversos.
+ ..
+Pelo exposto, julgo prejudicado o presente writ (art. 34, XVIII, a, do RISTJ).
+Publique-se.
