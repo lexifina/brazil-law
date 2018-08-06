@@ -1,0 +1,24 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. MOTIVAÇÃO INIDÔNEA. GRAVIDADE ABSTRATA. PRESENÇA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+Ordem concedida nos termos do dispositivo.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo.
+Consta dos autos que, no dia 26/12/2017, o paciente foi preso em flagrante pela prática, em tese, do crime de tráfico de drogas (60,77 g de maconha - fl. 29).
+Impetrado writ na origem, foi deferida a liberdade ao paciente, em razão do acolhimento de medida liminar, concedida nos autos do Habeas Corpus n. 0000945-60.2018.8.26.0000. Posteriormente, o paciente foi preso, em razão da denegação da ordem, com a cassação da liminar. Eis a ementa da decisão (fl. 14):
+Habeas Corpus. Tráfico de entorpecentes. Apreensão de 60,77g de maconha. Paciente que seria conhecido nos meios policiais como responsável pela distribuição de estupefacientes na cidade. Alegação de constrangimento ilegal. Suposta ausência de fundamentação. Descabimento. Indicadores de materialidade e autoria. Decisão suficientemente escorada em dados objetivos contidos nos autos, não se há falar em constrangimento ilegal, descabida cautelar alternativa em razão de indicadores de ocorrência que deixa perplexa a população ordeira. Impossibilidade de se descartar, nesta quadra, sem motivo plausível, palavras de agentes do Estado, apenas em razão e suas condições funcionais. Ordem denegada.
+Aqui, alega-se constrangimento ilegal consistente na fundamentação deficiente do decreto preventivo.
+Sustenta-se que  ..  não foi apreendido com o paciente qualquer apetrecho para tráfico (balança e embalagens), bem como nenhum outro tipo de droga, a não ser a maconha que se destinava ao seu consumo. Situação que torna frágil demais a imputação de mercancia de droga ao paciente, retirando desta forma os pressupostos da prisão preventiva (fl. 5).
+Postula-se, então, a concessão liminar da ordem para que seja revogada a prisão preventiva imposta ao paciente.
+Em 23/4/2018, deferi o pedido liminar para assegurar ao paciente o direito de aguardar em liberdade o julgamento do mérito do presente writ (fls. 113/116).
+Prestadas as informações (fls. 122/123 e 136/137), o Ministério Público Federal opinou pela concessão da ordem (fls. 140/144).
+É o relatório.
+Da análise dos autos, verifica-se a possibilidade de concessão da ordem.
+Ao decretar a prisão preventiva, o Tribunal de origem não apontou indício concreto de como o paciente teria colocado em risco a ordem pública, apenas assinalando a quantidade de droga apreendida (60,77 g de maconha - fl. 18) e que  ..  a custódia provisória apresentou-se devidamente informada pelos pressupostos da prisão preventiva, tais como o fumus commissi delicti e o periculum libertatis, em perfeita conformidade com os preceitos dos arts. 312 e 315, ambos do CPP e 93, inciso IX da CF de 1988, afigurando-se irrelevantes a primariedade, bons antecedentes, residência fixa e ocupação lícita, atributos que se espera de todo e qualquer cidadão (fl. 21).
+Contudo, com razão o Ministério Público Federal, com cujo parecer estou de acordo. Vejamos, no ponto, o que interessa (fl. 144 - grifo nosso):
+ ..
+Como visto, o decreto de prisão preventiva pautou-se pela gravidade abstrata do delito (é dizer, pela "tipificação verberada na prisão em flagrante"), atendo-se a referências genéricas e deficientes quanto à necessidade de garantia da ordem pública e de garantia de aplicação da lei penal. Na realidade, em vez de apresentar algum elemento concreto capaz de justificar a segregação provisória, o Juízo de 1º grau limitou-se a embasar o decisum em generalidades, as quais não legitimam a constrição à liberdade do paciente.
+Ademais, o Tribunal inferior não estava autorizado a agregar novas razões ao decreto de prisão preventiva, no âmbito de habeas corpus, em reforço de fundamentação (HC n. 409.005/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/10/2017; HC n. 325.523/MG, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 17/8/2015).
+ ..
+Nesse sentido, a propósito, já decidiu a Sexta Turma que  ..  a jurisprudência desta Corte Superior é firme em assinalar que a determinação de segregar cautelarmente o réu deve efetivar-se apenas se indicada, em dados concretos dos autos, a necessidade da cautela (periculum libertatis), à luz do disposto no art. 312 do CPP (HC n. 384.923/SP, Ministro Rogerio Schietti Cruz, DJe 16/3/2017).
+Ante o exposto, à vista do parecer e do precedente, concedo a ordem para revogar a prisão preventiva do paciente, assegurando-lhe o direito de aguardar em liberdade o julgamento da ação penal, salvo se por outra razão estiver preso e ressalvada a possibilidade de haver decretação de nova prisão, caso se apresente motivo novo e concreto para tanto.
+Publique-se.
