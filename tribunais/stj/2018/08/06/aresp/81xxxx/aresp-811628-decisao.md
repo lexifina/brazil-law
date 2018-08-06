@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo manejado pela União (Fazenda Nacional) contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 135):
+PROCESSUAL CIVIL. AGRAVO DO ART. 557, PARÁGRAFO 1º, DO CPC. AGRAVO DE INSTRUMENTO. COMPATIBILIDADE DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA DOMINANTE.
+I. A teor do artigo 557, caput, do CPC, o relator, procedendo ao cotejo da decisão recorrida com Súmula ou jurisprudência dominante do Tribunal respectivo ou de Tribunal Superior, negará seguimento ao recurso manifestamente improcedente, inadmissível ou prejudicado.
+II. O agravo do art. 557, §1º, do CPC deve se ater à incompatibilidade da jurisprudência dominante para a hipótese e não a discussão do mérito. Precedentes do C. STJ e da Quarta Turma desta Eg. Corte.
+III. Agravo desprovido.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC/73.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 535 do CPC/73 e 50 do CC. Sustenta que: (I) o Tribunal de origem não se manifestou sobre questões relevantes para o deslinde da controvérsia; (II) houve a dissolução irregular da sociedade, razão pela qual deve o sócio responder pelas obrigações pendentes.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Feita essa observação, verifica-se não ter ocorrido ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Quanto ao mérito, a Corte regional confirmou decisão monocrática do relator, assim proferida (fls. 130/131):
+A despeito de não ter sido colacionada cópia da sentença, denota-se que a União está a executar, na forma do artigo 475-J do C"PC, verba honorária fixada na sentença.
+Apresentado pela União o valor de R$ 30.382,77, atualizado até dezembro/2008, certificou o oficial de justiça, quando do cumprimento do mandado de penhora, não ter encontrado as autoras e bens.
+Tal fato culminou com o pedido de redirecionamento da execução à pessoa do sócio gerente, sustentando a União que as executadas teriam encerrado suas atividades irregularmente, furtando-se ao cumprimento de suas obrigações.
+Entrementes, o fato de o sócio ter sido administrador das empresas, as quais teriam encerrado suas atividades, não lhe atribui responsabilidade por pagamento de verba honorária de terceiros (empresas).
+Com efeito, a responsabilidade decorre exclusivamente de lei. Sua previsão existe apenas quanto à execução fiscal, na qual foi comprovada excesso ou fraude no exercício da atividade econômica.
+Inexiste norma jurídica a permitir a desconsideração da personalidade jurídica, para fins de cobrança ao sócio de verba honorária de terceiros.
+No presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, "Inexiste norma jurídica a permitir a desconsideração da personalidade jurídica, para fins de cobrança ao sócio de verba honorária de terceiros." (fl. 131), esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
