@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por BANCO MERCANTIL DO BRASIL SA em face da decisão de fls. 204/205, que não conheceu do recurso.
+Em suas razões, a parte Embargante alega que "Entretanto, conforme certidão constantes dos autos, verifica-se que foi certificada a regularidade do preparo do Recurso Especial interposto no TJMG." (fl. 209).
+Continua a parte recorrente no parágrafo subsequente, aduzindo que " Inclusive, o Recurso Especial deixou de ser conhecido no Tribunal a quo, não porque ele não encontrava-se devidamente preparado, mas sim em razão do entendimento de que a sua apreciação demandaria reexame de fatos e provas, o que não seria permitido por essa via recursal, conforme orientação contida na súmula nº 7.(fl. 209).
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer que a petição de recurso especial foi protocolada, na origem, sem a guia de custas e o respectivo comprovante de pagamento, razão pela qual houve a intimação para que o feito fosse regularizado (fls. 155 e 157).
+No entanto, mesmo devidamente intimada a parte deixou o prazo transcorrer sem manifestação. Registre-se que, apesar de a parte alegar que houve erro de publicação da oportunidade de regularização (fls. 161/162), a certidão de fl. 186 confirma que a intimação para regularização se deu de forma regular.
+A regularização trazida às fls. 161/162, portanto, não pode ser conhecida porque apresentada fora do prazo concedido para regularização.
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n.º 187 deste Tribunal, o que leva à deserção do recurso.
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp 1315507/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/08/2014, DJe 28/08/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, REJEITO os embargos de declaração e advirto a parte Embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2.º, do Código de Processo Civil).
+Publique-se. Intimem-se.
