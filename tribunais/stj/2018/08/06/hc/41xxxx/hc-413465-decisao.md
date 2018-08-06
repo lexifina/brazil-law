@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], em face de acórdão do Tribunal de Justiça de São Paulo.
+Consta dos autos que o paciente foi condenado à pena de 1 ano e 13 dias de reclusão e ao pagamento de 4 dias-multa, em regime inicial semiaberto, por infração ao art. 155, §§ 1º e 4º, incisos I e II, combinado com o art. 14, inciso II, ambos do Código Penal.
+Inconformada, a Defesa interpôs apelação criminal, requerendo a absolvição do então recorrente com base na suposta fragilidade das provas ou na atipicidade da conduta, em virtude da alegada incidência do princípio da insignificância.
+A Décima Primeira Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo, de forma unânime, deu parcial provimento ao apelo para afastar a causa de aumento de pena do § 1º do art. 155 do Código Penal, reduzindo a pena imposta a [NOME] COSTA DA [NOME] para nove meses e dez dias de reclusão, em regime inicial semiaberto, e pagamento de três dias-multa, no valor unitário mínimo, atualizado, mantendo, no mais, a r. Sentença condenatória (fls. 19-42).
+Postula a impetrante, em suma, o reconheciemento da atipicidade da conduta, em vista da alegada incidência do princípio da insignificância. Requer, assim, liminarmente e no mérito, a absolvição do Paciente, determinando-se, por conseguinte, o trancamento da ação penal.
+Indeferida a liminar e prestadas as informações, o Ministério Publico Federal ofertou parecer pelo não conhecimento do habeas corpus e pela não concessão da ordem de ofício.
+É o relatório.
+DECIDO.
+No que se relaciona à tese de atipicidade material da conduta, assim manifestou-se o Tribunal de Justiça (fl. 23):
+Infere-se do quadro probatório que, no dia 06 de agosto de 2015, por volta das 2h, no estabelecimento comercial sito na Rua Portugal, nº 89, bairro Recanto Elizabeth, cidade e Comarca de Bragança Paulista, o apelante tentou subtrair, para si, mediante escalada e rompimento de obstáculo, cinco pares de luvas, avaliados, conjuntamente, em R$ 67,00 (sessenta e sete reais  fls. 51), pertencentes a [NOME].
+ ..
+Inviável o reconhecimento da atipicidade da conduta, sob o prisma da insignificância econômica dos bens subtraídos, isto porque se trata de réu reincidente, conforme comprova a certidão juntada às fls. 108, sendo inaplicável tal principio na hipótese vertente.
+Acerca da matéria, sedimentou-se a orientação jurisprudencial no sentido de que a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a) a mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) o reduzidíssimo grau de reprovabilidade do comportamento e d) a inexpressividade da lesão jurídica provocada.
+Na espécie, constata-se que o paciente tentou, no dia 6/8/2015, subtrair 5 pares de luvas de um estabelecimento comercial, avaliados em R$ 67,00 (sessenta e sete reais), equivalente a menos de 8,5 % do salário mínimo então vigente.
+O acórdão do TJ entendeu pela inaplicabilidade do princípio da insignificância, tendo em vista a reincidência do paciente.
+A subsidiariedade do direito penal, porém, não permite tornar o processo criminal instrumento de repressão moral, de condutas reprováveis mas sem efetivo dano. A falta de interesse estatal pelo reflexo social da conduta, por relevante dado à esfera de direitos da vítima, torna inaceitável a intervenção estatal-criminal.
+Na espécie, o não grande valor dos objetos, aliado especialmente à própria natureza do bem que se tentou furtar (5 pares de luvas), de vítima com proporcionalmente relevante capacidade financeira, faz ver que a esta o dano não foi relevante e, considerando a própria restituição da res furtiva, verifico que nenhum interesse social existe na onerosa intervenção estatal, sendo caso de se excepcionar mesmo a condição de reiteração delitiva do agente. Nesse sentido:
+PROCESSUAL PENAL. HABEAS CORPUS CONTRA ACÓRDÃO DE APELAÇÃO. SUCEDÂNEO RECURSAL. IMPROPRIEDADE. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICABILIDADE. FLAGRANTE ILEGALIDADE. EXISTÊNCIA. IMPETRAÇÃO NÃO CONHECIDA. CONCEDIDA A ORDEM EX OFFICIO.
+1. É imperiosa a necessidade de racionalização do emprego do habeas corpus, em prestígio ao âmbito de cognição da garantia constitucional e em louvor à lógica do sistema recursal. In casu, foi impetrada indevidamente a ordem contra acórdão de apelação, como se fosse um indevido sucedâneo recursal.
+2. Consoante entendimento jurisprudencial, o "princípio da insignificância - que deve ser analisado em conexão com os postulados da fragmentaridade e da intervenção mínima do Estado em matéria penal - tem o sentido de excluir ou de afastar a própria tipicidade penal, examinada na perspectiva de seu caráter material.
+(..) Tal postulado - que considera necessária, na aferição do relevo material da tipicidade penal, a presença de certos vetores, tais como (a) a mínima ofensividade da conduta do agente, (b) a nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada - apoiou-se, em seu processo de formulação teórica, no reconhecimento de que o caráter subsidiário do sistema penal reclama e impõe, em função dos próprios objetivos por ele visados, a intervenção mínima do Poder Público" (HC n.º 84.412- 0/SP, STF, Min. Celso de Mello, DJU 19.11.2004).
+3. No caso, o paciente subtraiu 2 frascos de desodorante e 2 de sabonete líquido, bens avaliados em R$ 57,60 (equivalente a cerca de 12% do salário mínimo da época) que foram devolvidos, sem prejuízo material para a vítima, uma drogaria.
+4. Reconhece-se, então, o caráter bagatelar do comportamento imputado, não havendo falar em afetação do bem jurídico patrimônio.
+5. Flagrante ilegalidade detectada.
+6. Impetração não conhecida, mas concedida a ordem, ex officio, para, reconhecendo a atipicidade material da conduta, cassar a condenação proferida na Ação Penal n.º 050.09.026564-5, controle nº 493/09, da 11ª Vara Criminal da Comarca de São Paulo/SP.
+(HC 237.720/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 05/08/2014, DJe 18/08/2014)
+Ante o exposto, concedo o habeas corpus, para, reconhecendo a atipicidade da conduta, trancar a ação penal nº 0007252-29.2015.8.26.0099, da 1ª Vara Criminal da Comarca de Bragança Paulista/SP.
+Comunique-se.
+Publique-se.
+Intimem-se.
