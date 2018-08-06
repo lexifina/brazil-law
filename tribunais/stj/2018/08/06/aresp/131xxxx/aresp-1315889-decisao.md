@@ -1,0 +1,18 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC/2015. AGRAVO NÃO CONHECIDO.
+DECISÃO
+Cuida-se de agravo interposto por Banco do Brasil S.A. contra a decisão de fls. 477-483 (e-STJ), proferida em juízo provisório de admissibilidade, a qual negou seguimento ao seu recurso especial.
+O apelo extremo foi deduzido em desafio ao acórdão prolatado pelo Tribunal de Justiça do Estado de Mato Grosso que, no julgamento de agravo interno, confirmou a decisão assim ementada (e-STJ, fls. 336-337):
+AÇÃO REVISIONAL - CÉDULAS DE CRÉDITO RURAL QUITADAS - AUSÊNCIA DE JUNTADA DA CÓPIA DO CONTRATO - LIMITAÇÃO DOS JUROS REMUNERATÓRIOS - IMPOSSIBILIDADE DE CAPITALIZAÇÃO - VEDAÇÃO À COBRANÇA DA COMISSÃO DE PERMANÊNCIA - HONORÁRIOS ADVOCATÍCIOS MAJORADOS - RECURSO DO BANCO DO BRASIL DESPROVIDO - RECURSO DO ADVOGADO DA PARTE VENCEDORA PROVIDO.
+1 - As notas de crédito rural, comercial e industrial submetem-se a regramento próprio (Lei n. 6.840/1980 e Decreto-Lei n. 413/1969), que confere ao Conselho Monetário Nacional o dever de fixar os juros a serem praticados. Havendo omissão desse órgão, adota-se a limitação de 12% ao ano prevista no Decreto n. 22.626/1933.
+2 - Descabida a capitalização dos juros remuneratórios no caso face à ausência de prova da pactuação e devido ao fato de as cédulas de crédito rural terem sido celebradas antes da Medida Provisória n. 1963-17, de 30 de março de 2000 (atualmente Medida Provisória n. 2170-30/2001).
+3 - O posicionamento pacificado no STJ é o de que não se admite comissão de permanência nas espécies bancárias de crédito rural.
+4 - Os critérios estabelecidos no revogado artigo 20, § 3º do CPC, não podem ser valorados de forma abstrata sem qualquer conotação com o caso concreto. Na espécie, os critérios legais avaliados levam à majoração da verba honorária de R$ 1.500,00 para R$ 5.000,00.
+Nas razões do apelo nobre, fundamentado nas alíneas a e c do permissivo constitucional, o banco insurgente apontou violação dos arts. 2º-A da Lei n. 9.494/1997; 189 do CC/2002; 240, 503 e 509, II, do CPC/2015, além de dissídio jurisprudencial.
+A Corte de origem deixou de admitir o recurso, com base na incidência das Súmulas 282 e 356/STF (falta de prequestionamento); 284/STF (deficiência na fundamentação); Súmula 83/STJ (não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida); e ausência de demonstração analítica do dissídio jurisprudencial.
+Contra-arrazoado (e-STJ, fls. 463-471), o recurso não foi admitido (e-STJ, fls. 477-483), ensejando a interposição do presente agravo (e-STJ, fls. 486-493), ao qual foi oferecida resposta (e-STJ, fls. 498-507).
+Brevemente relatado, decido.
+À luz da dialeticidade recursal, o agravante deve contestar motivadamente todos os fundamentos da decisão agravada, não sendo suficiente a apresentação de afirmações genéricas ou em sentido contrário ao julgado impugnado, nem a mera reiteração de argumentos já examinados por ocasião do julgamento do recurso anteriormente interposto (AgInt no AREsp n. 884.901/SP, Relatora a Ministra Regina Helena Costa, Primeira Turma, DJe de 27/5/2016 e AgRg no AREsp n. 773.710/SP, Relator o Ministro Marco Buzzi, Quarta Turma, DJe de 17/5/2016).
+No caso dos autos, o agravante deixou de impugnar, especificamente, os fundamentos de incidência da Súmula 83/STJ e ausência de demonstração analítica do dissídio, circunstância que impede o conhecimento do agravo, conforme o disposto no art. 932, III, do CPC/2015.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
