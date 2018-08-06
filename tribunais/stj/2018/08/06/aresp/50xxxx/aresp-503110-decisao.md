@@ -1,0 +1,10 @@
+DECISÃO
+AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. REAJUSTE REMUNERATÓRIO. IMPOSSIBILIDADE DE ANÁLISE DE VIOLAÇÃO DE DISPOSITIVO DA CONSTITUIÇÃO FEDERAL. APONTADA VIOLAÇÃO DOS ARTS. 4o. E 5o. DO CC/2002. AUSÊNCIA DE DEMONSTRAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. AGRAVO EM RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto por RONALD CEZAR THEDIM DIAS e OUTROS, com fundamento nas alíneas a e c do art. 105, III da Constituição Federal, no qual se insurgem contra acórdão proferido pelo egrégio TJRJ.
+2. Em suas razões recursais, os recorrentes apontam violação dos arts. 535 do CPC, 37 e 39 da CF/88 e 4o. e 5o do CC, defendendo, em suma, fazerem jus ao reajuste de 24% concedido aos Servidores do Estado do Rio de Janeiro.
+3. É o relatório. Decido.
+4. De início, cumpre destacar que a alegada violação ao art. 535, II do CPC não ocorreu, tendo em vista o fato de que a lide foi resolvida nos limites propostos e com a devida fundamentação. As questões postas a debate foram decididas com clareza, não tendo havido qualquer vício que justificasse o manejo dos Embargos de Declaração. Observe-se, ademais, que o julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+5. Quanto à violação dos arts. 37 e 39 da CF/88, registre-se que a análise de matéria de cunho constitucional é, por força do art. 102, III da Carta Maior, exclusiva da Suprema Corte, sendo, portanto, vedado a este Superior Tribunal de Justiça conhecer da suposta infringência, ainda que para fins de prequestionamento.
+6. Por fim, no que diz respeito à suposta violação dos arts. 4o. e 5o do CC, observa-se que os Recorrentes limitaram-se a argumentar, nas razões de seu Apelo Nobre, que o julgado do Tribunal de origem teria contrariado os referidos dispositivos, sem sequer discriminarem de que modo teria ocorrido tal violação, o que impede a exata compreensão da questão, atraindo, assim, a incidência da Súmula 284 do STF, aplicada por analogia.
+7. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial.
+8. Publique-se. Intimações necessárias.
