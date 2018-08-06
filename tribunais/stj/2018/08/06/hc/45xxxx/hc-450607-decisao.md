@@ -1,0 +1,10 @@
+DECISÃO
+[NOME], ora paciente, alega sofrer constrangimento ilegal diante de acórdão prolatado pelo Tribunal de Justiça do Estado de Goiás no HC n. 0039453-49.2018.8.09.0000.
+Nesta Corte, a defesa sustenta a ausência de motivação idônea para converter a prisão em flagrante do réu, pela suposta prática do crime de feminicídio tentado, em custódia preventiva. Ressalta que a própria vítima afirmou, em âmbito policial, "que convive com o paciente por cerca de três anos e que nunca tiveram uma discussão, o que demonstra que foi um fato isolado no relacionamento" (fl. 6).
+Requer, liminarmente e no mérito, a revogação da prisão preventiva ou sua substituição por cautelares diversas.
+Indeferida a liminar (fls. 276-278) e prestadas as informações (fls. 283-285 e 287-300), veio o parecer do Ministério Público Federal que opinou "pelo não conhecimento do Habeas Corpus. Se conhecido, porém, opino pela sua denegação" (fl. 306).
+Decido.
+Em pesquisa realizada no sítio eletrônico do Tribunal de origem, verificou-se que, em 2/7/2018, o paciente foi pronunciado por incursão nos arts. 121, § 2º, II, IV e VI, c/c o art. 14, II, e 147, todos do Código Penal e 16 da Lei n. 10.826/2003, ocasião em que o Juízo de primeiro grau, nos termos do art. 413, § 3º, do Código de Processo Penal, emitiu nova avaliação sobre a imprescindibilidade da custódia cautelar, o que evidencia a prejudicialidade deste habeas corpus, por meio do qual busca o impetrante a revogação da prisão preventiva ou sua substituição por cautelares diversas.
+As razões deduzidas - ou não - pelo Juízo de primeiro grau nesse novo decisum devem ser submetidas previamente ao crivo da Corte estadual, porquanto defesa sua imediata apreciação pelo Superior Tribunal de Justiça, sob pena de incorrer em indevida supressão de instância. Nesse sentido: AgRg no HC n. 251.260/MG, Rel. Ministro Og Fernandes, 6ª T., DJe 24/6/2013 e HC n. 243.953/MG, Rel. Ministro Marco Aurélio Bellizze, 5ª T., DJe 13/3/2013.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, julgo prejudicado este habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
