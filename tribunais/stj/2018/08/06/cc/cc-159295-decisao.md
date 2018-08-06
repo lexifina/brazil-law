@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de conflito negativo de competência instaurado nos autos de execução fiscal proposta pelo Conselho Regional de Farmácia do Estado de Santa Catarina - CRF/SC em face de Lerita de Cassia Vieira.
+O Juízo da 1ª Vara Federal de Itajaí - Seção Judiciária de Santa Catarina, ao qual a ação foi inicialmente distribuída, expediu carta precatória, para distribuição e cumprimento da execução, para o Juízo de Direito da Vara da Fazenda Pública da Comarca de Balneário Camboriú/SC, local do domicílio da parte executada, onde não há sede da Justiça Federal.
+A seu turno, o Juízo de Direito da Vara da Fazenda Pública da Comarca de Balneário Camboriú/SC recusou o cumprimento da carta precatória, sustentando, em síntese, que "razão não há para cumprimento de precatória originada em tais feitos pela Justiça Estadual, mormente no presente caso, em que não há distância significativa entre os Juízos Federais, podendo, perfeitamente, a Subseção de Itajaí cumprir o ato deprecado" (fl. 61); e que, "como nosso município é integrante de referida Unidade Judiciária, não vejo razão para que este juízo estadual dê cumprimento ao ato deprecado" (fl. 63).
+Foi então que, ao receber os autos, o Juízo Federal da 1ª Vara de Itajaí - Seção Judiciária de Santa Catarina suscitou o presente conflito, afirmando que "a comarca indicada na carta precatória não é sede da Justiça Federal" (fl. 71) e citando precedentes no sentido de que, "independentemente de haver Juízo federal com jurisdição sobre a comarca, as cartas precatórias, citatórias, probatórias, executórias e cautelares, expedidas pela Justiça Federal, poderão ser cumpridas nas comarcas do interior da Justiça Estadual" (fl. 71).
+O Ministério Público Federal, em parecer ofertado pela Subprocuradora-Geral da República [NOME], opinou pelo reconhecimento da competência do juízo deprecado (fls. 83/86).
+É o breve relatório. Passo a decidir.
+Nos termos da jurisprudência desta Corte, firmada na vigência do CPC/73, a recusa ao cumprimento de cartas precatórias estava restrita às hipóteses do art. 209 daquele diploma processual. Leia-se, nesse sentido, a seguinte ementa:
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. CARTA PRECATÓRIA EM EXECUÇÃO FISCAL. JUÍZO ESTADUAL.  ..  ART. 209 DO CPC. TAXATIVIDADE.
+ ..
+2. O art. 209 do CPC, sendo taxativo, somente permite ao juízo deprecado recusar cumprimento à carta precatória, devolvendo-a com despacho motivado, quando não estiver revestida dos requisitos legais, quando carecer de competência em razão da matéria ou da hierarquia ou quando tiver dúvida acerca de sua autenticidade. Não se insere nas hipóteses de recusa razão fundada em argumento de ordem territorial, como o de que a comarca do juízo deprecado encontra-se abrangida pela jurisdição federal.
+3. Precedentes.
+4. Conflito conhecido para declarar-se competente o Juízo de Direito da 1ª Vara da Fazenda Pública de Ribeirão Pires/SP, o suscitado.
+(CC 40.406/SP, Rel. Ministro Castro Meira, Primeira Seção, DJ 15/3/2004)
+Na mesma linha, merecem destaque os seguintes precedentes: CC 143.266/SC, Relª. Ministra Isabel Gallotti, DJe 19/10/2015; CC 139.445/SC, Rel. Ministro Moura Ribeiro, DJe 5/8/2015; CC 139.501/SC, Rel. Ministro João Otávio de Noronha, DJe 25/6/2015.
+Pois bem, como o art. 209 do CPC/73 corresponde, em linhas gerais, ao art. 267 do CPC/15, tenho que o entendimento perfilhado por esta Corte na vigência do anterior diploma processual é plenamente aplicável ao caso ora em exame.
+Ante o exposto, considerando que no presente caso não se faz presente qualquer das hipóteses aptas a justificar a recusa ao cumprimento da carta precatória, conheço do conflito e declaro competente o Juízo de Direito da Vara da Fazenda Pública da Comarca de Balneário Camboriú/SC (suscitado).
+Dê-se ciência aos Juízos envolvidos.
+Publique-se.
