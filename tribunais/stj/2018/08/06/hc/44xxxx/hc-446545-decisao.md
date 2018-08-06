@@ -1,0 +1,6 @@
+DECISÃO
+LADIMIR GONÇALVES DOS SANTOS alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, que manteve a sua prisão preventiva no HC n. [CPF].
+Verifico, às fls. 292-299, que o Ministro Gilmar Mendes, relator do HC 156.376, considerando que, até aquele momento, "o acusado não fo ra  apresentado à autoridade judicial em audiência de custódia", concedeu ordem de habeas corpus de ofício, em 24/5/2018, nos termos do art. 192 do RISTF, "tão somente para determinar a realização da audiência de custódia, no prazo de 24 horas, contado da comunicação desta decisão, devendo o magistrado reapreciar a manutenção, ou não, da prisão preventiva, bem como a necessidade de aplicação das medidas cautelares diversas da prisão dispostas no artigo 319 do CPP".
+Constato, ainda, na página de internet da Corte local, que a audiência de custódia foi realizada pelo Juízo de primeira instância em 26/5/2018, tal como determinado pelo STF, evidenciando-se, assim, a substituição da decisão que originalmente decretara a custódia preventiva pela exarada no âmbito do referido ato judicial e, por consequência, a perda do objeto deste writ.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, julgo prejudicado este habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
