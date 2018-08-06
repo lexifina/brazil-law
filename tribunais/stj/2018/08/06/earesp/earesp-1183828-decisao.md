@@ -1,0 +1,60 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE DISSÍDIO JURISPRUDENCIAL ENTRE OS ACÓRDÃOS EM COTEJO.
+1. A admissão dos embargos de divergência reclama a comprovação do dissídio jurisprudencial na forma prevista no RISTJ, com a demonstração das circunstâncias fáticas e processuais que assemelham os casos confrontados, bem como a adoção de soluções diversas aos litígios.
+2. No caso, é evidente a inexistência de similitude fático-processual uma vez que, o acórdão embargado aplicou a nova posição da Corte Especial acerca da impossibilidade de comprovação posterior da tempestividade do recurso, tendo sido interposto o recurso especial em maio de 2017, já sob a vigência do novel CPC. No julgado divergente, foi intentado o recurso especial em 23/11/2014, sob a égide do CPC/1973, o que levou o órgão julgador à aplicação da tese então em vigor.
+3. Embargos de divergência não conhecidos.
+DECISÃO
+1. Trata-se de embargos de divergência interpostos contra acórdão proferido pela Quinta Turma, assim ementado:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO NA VIGÊNCIA DO NOVO CPC SEM A DEVIDA COMPROVAÇÃO DA OCORRÊNCIA DE FERIADO LOCAL NO ATO DE INTERPOSIÇÃO. ART. 1.003, § 6º, DO CPC DE 2015. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. INTEMPESTIVIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. De acordo com os Enunciados Administrativos do STJ nº 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, ou, se publicada após 18 de março de 2016, os preconizados no Código de Processo Civil de 2015. Na espécie, discute-se a tempestividade de recurso interposto contra decisão publicada na vigência do CPC de 2015.
+2. Publicado o despacho de inadmissibilidade em 15/6/2017, apresenta-se intempestivo o agravo em recurso especial protocolado em 6/7/2017, uma vez que apresentado fora do prazo de 15 (quinze) dias corridos, conforme art. 994, VI, c.c.
+os arts. 1.003, § 5.º e 1.029 do CPC, bem como o art. 798 do CPP.
+3. Nos termos do § 6.º do art. 1.003 do CPC, o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior.
+4. O entendimento jurisprudencial desta Corte que permite a comprovação da tempestividade do recurso especial, em decorrência de feriado local ou de suspensão de expediente forense no Tribunal de origem que implique prorrogação do termo final para sua interposição, em momento posterior, foi construído na vigência do Código de Processo Civil de 1973, não se aplicando aos recursos interpostos na vigência do novo Código, diante de determinação expressa.
+5. A Corte Especial, no julgamento do AREsp 957.821/MS, realizado no dia 20/11/2017, decidiu, por maioria, não admitir a comprovação do feriado local em momento posterior à interposição do recurso, quando este for interposto contra decisão publicada na vigência do CPC de 2015, em respeito ao art. 1003, § 6º, do novo CPC.
+6. Agravo regimental não provido.
+Sustenta o embargante dissídio jurisprudencial, quanto à possibilidade de comprovação posterior da tempestividade do recurso, com o seguinte aresto:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECESSO FORENSE. AUSÊNCIA DE DOCUMENTO PARA COMPROVAR A TEMPESTIVIDADE DO RECURSO.
+1. A Corte Especial do STJ, no julgamento do AgRg no AREsp 137.141/SE, ocorrido em 19/9/2012, passou a adotar o entendimento de que a comprovação da tempestividade do recurso, em decorrência de feriado local ou de suspensão de expediente forense no Tribunal de origem que implique prorrogação do termo final para sua interposição, pode ocorrer posteriormente, em agravo regimental.
+2. Conforme entendimento jurisprudencial firmado por esta Corte, para fins de demonstração da tempestividade do recurso, incumbe à parte comprovar, por meio de documento oficial idôneo ou certidão expendida pelo Tribunal de origem, a ocorrência de suspensão ou interrupção dos prazos processuais que impliquem a prorrogação do termo final para a interposição .
+3. A parte agravante não se desincumbiu de seu ônus de provar a aludida suspensão ou interrupção dos prazos processuais, motivo pelo qual deve a decisão recorrida ser mantida pelos seus próprios fundamentos.
+4. Após a edição da Emenda Constitucional 45/2004, foram vedadas as férias coletivas nos juízos e tribunais de segundo grau. O Conselho Nacional de Justiça, buscando regular o expediente forense no período de fim e início de ano, editou a Resolução nº 8, possibilitando que os Tribunais de Justiça dos Estados definam as datas em que o expediente estará suspenso, no período entre 20 de dezembro e 6 de janeiro. Nesse contexto, para fins de comprovar a tempestividade do recurso interposto nessa época do ano, é necessário que o recorrente demonstre qual o período de recesso estabelecido pelo respectivo Tribunal, pois sem essa providência a atividade jurisdicional é tida como ininterrupta, nos termos da EC/45.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1074562/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 20/02/2018, DJe 26/02/2018)
+Assere que o novo entendimento da Corte Especial, no AREsp 957.821/MS se deu posteriormente à interposição do recurso, devendo incidir ao caso concreto o posicionamento vigente à época, retratado no AgRg no AREsp 137.141/SE, também proferido pela Corte Especial, consoante decidido no aresto paradigma.
+Recurso admitido às fls. 1.171-1.173.
+Impugnação apresentada às fls. 1.180-1.188 e parecer do Ministério Público, às fls. 1.194-1.198, opinando pelo não acolhimento dos embargos de divergência:
+EMBARGOS DE DIVERGÊNCIA. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE. COMPROVAÇÃO. MOMENTO DA INTERPOSIÇÃO. PARADIGMA. QUESTÃO DE DIREITO DIFERENTE.
+1. Não é possível a utilização de paradigma para comprovar a existência de divergência a utilização de precedente que permite a comprovação da tempestividade em momento posterior à interposição do recurso, quando este deu-se sob a égide do CPC de 1973 e o caso em questão está sob o comando do CPC/2015, por não caracterizar a mesma questão de direito.
+2. Parecer pelo não acolhimento dos embargos de divergência.
+É o relatório.
+2. A admissão dos embargos de divergência reclama a comprovação do dissídio jurisprudencial na forma prevista pelo RISTJ, com a demonstração das circunstâncias que assemelham os casos confrontados, caracterizando-se a divergência jurisprudencial quando, na realização do cotejo analítico entre os acórdãos paradigma e recorrido, destaca-se a adoção de soluções diversas a litígios com molduras fáticas semelhantes.
+Com efeito, o acórdão embargado foi proferido posteriormente à nova posição da Corte Especial acerca da impossibilidade de comprovação posterior da tempestividade do recurso, tendo sido interposto o recurso especial em maio de 2017, já sob a vigência do novel CPC, razão pela qual lhe foi aplicado tal entendimento.
+No julgado divergente, foi intentado o recurso especial em 23/11/2014, sob a égide do CPC/1973, o que levou o órgão julgador à aplicação da tese então em vigor.
+Patente, portanto, a inexistência de similitude fático-processual entre os julgados, inviabilizando a admissão dos embargos de divergência.
+3. Ademais, o entendimento firmado pelo acórdão embargado encontra-se em consonância com a jurisprudência mais recente da Corte Especial, segundo a qual, na vigência do novo CPC, a falta de comprovação prévia da tempestividade do recurso, em razão de feriado ou recesso forense local, configura vício insanável, de modo que não pode ser feita posteriormente, no agravo interno.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo".
+4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido.
+(AgInt no AREsp 957.821/MS, Rel. Ministro RAUL ARAÚJO, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 20/11/2017, DJe 19/12/2017)
+Dessarte, não estando configurada a divergência jurisprudencial, ante a superação do entendimento exarado no aresto paradigma, impõe-se a incidência da Súmula 168 do STJ, que dispõe que "não cabem Embargos de Divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado".
+Nesse sentido:
+AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE ARESTOS RECORRIDO E PARADIGMAS. NÃO CABIMENTO DOS EMBARGOS DE DIVERGÊNCIA.
+1. A admissibilidade dos embargos de divergência está atrelada à demonstração de que os arestos confrontados partiram de similar contexto fático para atribuir conclusões jurídicas dissonantes.
+2. Na espécie, inexiste divergência jurisprudencial a ser dirimida na hipótese em que o acórdão embargado não conhece do recurso especial por ausência de requisitos de admissibilidade, sem exame do mérito da causa. A Sexta Turma negou provimento ao agravo regimental, o qual fora interposto contra a decisão monocrática que não conheceu dos agravos em recurso especial. Incide, pois, na hipótese, a Súmula 315 deste Superior Tribunal de Justiça, segundo a qual "não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+3. Ademais, a divergência não subsiste, tendo em vista que o acórdão paradigma apontado (Embargos de Divergência 159.317/DF) possui entendimento já superado, sendo a jurisprudência atual no mesmo sentido da decisão embargada.
+4. Agravo regimental a que se nega provimento.
+(AgRg nos EAREsp 529.724/SP, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 26/02/2015, DJe 11/03/2015)
+--
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PRETENSÃO PELO ACOLHIMENTO DA TESE SEGUNDO A QUAL É DESNECESSÁRIO O PRÉVIO REQUERIMENTO DO BENEFÍCIO PREVIDENCIÁRIO NA VIA ADMINISTRATIVA PARA O AJUIZAMENTO DA AÇÃO. ENTENDIMENTO DO ACÓRDÃO PARADIGMA SUPERADO NESTA CORTE E NO STF. RE 631.240/MG. RESP 1.369.834/SP.
+1. Agravo regimental no qual se pleiteia a admissão dos embargos de divergência a fim de que prevaleça o entendimento segundo o qual é desnecessário o prévio requerimento administrativo do benefício previdenciário para fins de demonstração do interesse de agir em juízo.
+2. Não é cabível o recurso de embargos de divergência quando o entendimento do acórdão anunciado como paradigma já se encontra superado nesta Corte Superior. Precedentes.
+3. Agravo regimental não provido.
+(AgRg nos EREsp 1351792/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 13/05/2015, DJe 19/05/2015)
+4. Ante o exposto, com base no art. 266-C do RISTJ, indefiro liminarmente os presentes embargos de divergência. Sem honorários na origem.
+Publique-se. Intimem-se.
