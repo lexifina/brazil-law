@@ -1,0 +1,29 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. ART. 33, § 4º, DA LEI N. 11.343/2006. ATIVIDADES CRIMINOSAS. DEDICAÇÃO. ELEMENTOS FÁTICOS. REVISÃO. IMPOSSIBILIDADE. MINORANTE. NÃO INCIDÊNCIA. CONVERSÃO DAS PENAS. IMPOSSIBILIDADE. QUANTUM SUPERIOR A 4 ANOS. REGIME FECHADO. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. REGIME SEMIABERTO.
+Ordem parcialmente concedida tão somente a fim de estabelecer o regime semiaberto para o início do cumprimento da reprimenda.
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Endrew Patrick de Paula Ribeiro, em que se aponta como órgão coator o Tribunal de Justiça de São Paulo.
+Depreende-se dos autos que o paciente foi condenado à pena de 5 anos de reclusão, em regime inicial fechado, e ao pagamento de 500 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006, vedado o recurso em liberdade (Processo n. 0011082-44.2015.8.26.0635 - fls. 26/34).
+Irresignada, a defesa interpôs de recurso de apelação, postulando a absolvição, por insuficiência probatória e, subsidiariamente, a desclassificação da conduta para o delito do art. 28 da lei de Drogas; ou a aplicação do redutor de penas previsto no art. 33, § 4º, da Lei n. 11.343/2006; a fixação de regime mais brando para o início de cumprimento da pena corporal; e a fixação da pena corporal por restritiva de direitos. O Tribunal a quo, por unanimidade, negou provimento ao recurso defensivo, mantendo, na íntegra, a sentença recorrida.
+Nesta via, o defensor público almeja, em sede de liminar,  ..  a imediata transferência do paciente para o regime aberto, ou, ao menos, semiaberto (fl. 12). No mérito, conceder a ordem de habeas corpus, a fim de reconhecer a aplicação do redutor do art. 33, § 4º, da Lei de Drogas, em patamar máximo; de fixar o regime inicial aberto, ou, ao menos, semiaberto para cumprimento da pena, observando-se a possibilidade de substituição da pena privativa de liberdade por restritiva de direitos (fl. 12).
+Em 7/8/2018, deferi o pedido liminar para que o paciente aguarde, no regime inicial semiaberto, o julgamento deste writ (fls. 53/55).
+Prestadas as informações, o Ministério Público Federal opinou pela denegação da ordem (fls. 106/108).
+É o relatório.
+O acórdão impugnado entendeu que o ora paciente se dedica a atividades criminosas, motivo pelo qual afastou a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, nestes termos (fls. 43/44 - grifo nosso):
+ ..
+Na espécie, observa-se que a variedade de drogas apreendidas, bem como as demais circunstâncias fáticas, não permitem a desclassificação para o delito previsto no artigo 28 da Lei nº 11.343/06.
+No tocante às reprimendas impostas, verifica-se que foram criteriosamente dosadas, observadas as especificidades do caso concreto e de acordo com o livre e prudente convencimento do MM. Juízo de Primeiro Grau, que fixou a pena no patamar mínimo legal.
+Mister ressaltar ser incabível a aplicação do redutor previsto no artigo 33, §4º, da Lei de Tóxicos, porquanto o acusado foi surpreendido na posse de considerável quantidade de entorpecentes, observando, ainda, que foi condenado por outro delito de tráfico (fls. 97), cujo recurso de apelação foi julgado em 06 de dezembro de 2016, tendo sido negado provimento ao apelo da defesa. Fatos estes que demonstram seu envolvimento com o crime organizado e sua dedicação a atividades criminosas.
+ ..
+Dessa forma, para que fosse possível a revisão de tal conclusão, seria imprescindível o reexame dos elementos fáticos da lide, o que não é possível no âmbito do habeas corpus, que possui rito célere e cognição sumária.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CAUSA DE DIMINUIÇÃO DA PENA PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. PACIENTE QUE SE DEDICA À ATIVIDADE CRIMINOSA. AFERIÇÃO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INVIABILIDADE.
+1. De acordo com o art. 33, § 4º, da Lei de Drogas, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja primário, portador de bons antecedentes, não se dedique a atividades criminosas nem integre organização criminosa.
+2. A Corte local deixou de aplicar a minorante respeitando os critérios legais estabelecidos pelo art. 33, § 4º, da Lei n. 11.343/2006 e, ainda, com observância aos pormenores da situação concreta, que demonstraram que o paciente dedicava-se à atividade criminosa, excluindo a possibilidade de aplicação do pretendido redutor, destacando, em especial a quantidade e natureza do entorpecente apreendido em poder do réu - 96g (noventa e seis gramas) de cocaína. Precedentes.
+3. Desconstituir os fundamentos adotados pelas instâncias ordinárias demanda ampla incursão no acervo fático-probatório dos autos, tarefa para a qual não se presta o habeas corpus.
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 397.346/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 05/04/2018)
+Observo, no entanto, que o Tribunal de origem não apresentou fundamentação idônea para fixar o regime fechado para o início do cumprimento da reprimenda (fls. 48/49), sendo que o posicionamento pacífico desta Corte e do Supremo Tribunal Federal é no sentido de que se mostra inadmissível a estipulação de regime prisional mais rigoroso do que aquele previsto para a sanção corporal aplicada, apenas com fundamento na hediondez ou na gravidade abstrata do delito. Nesse sentido, as Súmulas 440/STJ e 718 e 719/STF.
+Registre-se, por fim, que não há que se falar em substituição da privativa de liberdade por restritivas de direitos, em razão de a pena ter sido fixada em quantum superior a 4 anos de reclusão (art. 44, I, do CP).
+Ante o exposto, concedo parcialmente a ordem tão somente a fim estabelecer o regime semiaberto para o início do cumprimento da reprimenda.
+Publique-se.
