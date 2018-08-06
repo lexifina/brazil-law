@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial manejado com fundamento no art. 105, III, c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 353):
+ADMINISTRATIVO E PROCESSUAL CIVIL. FORNECIMENTO DE MEDICAMENTOS. NÃO DEMONSTRAÇÃO DA IMPRESCINDIBILIDADE DO FÁRMACO. ESTUDOS CIENTÍFICOS PELA NÃO INDICAÇÃO.
+Somente fará jus ao fornecimento do medicamento pelo Poder Público a parte que demonstra a respectiva imprescindibilidade, que consiste na conjugação da necessidade e adequação do fármaco e da ausência de alternativa terapêutica.
+Havendo parecer de órgãos técnicos que atestam pela não indicação do mesmo, informando ausência de vantagem terapêutica em relação aos tratamentos disponibilizado pelo SUS, tem-se que não há evidência nos autos da presença dos requisitos autorizadores da tutela pretendida.
+A parte recorrente aponta dissídio jurisprudencial com julgado do próprio TRF4. Sustenta que o fornecimento do medicamento é cabível, na espécie.
+É o relatório.
+Na interposição do recurso especial com base na alínea c do permissivo constitucional é imperiosa a indicação do dispositivo federal sobre o qual recai a suposta divergência jurisprudencial, o que não ocorreu no caso em tela. Assim, não pode ser conhecido o presente recurso especial, nos termos da Súmula 284/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.". Nesse mesmo sentido, destacam-se os seguintes precedentes: AgRg no AREsp 123.219/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 22/5/2012; AgRg no AREsp 83.349/RJ, Rel. Ministro Francisco Falcão, Primeira Turma, DJe 7/5/2012.
+Não bastasse isso, no que toca à alegada divergência jurisprudencial com o acórdão paradigma do TRF4, não pode ser conhecido o recurso especial, uma vez que aplicável o disposto na Súmula 13 desta Corte, segundo a qual "a divergência entre julgados do mesmo Tribunal não enseja recurso especial".
+Ante o exposto, não conheço o recurso especial.
+Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC/2015), observando-se, contudo, o disposto no art. 98, § 3º, do CPC/2015, em razão da concessão do benefício da assistência judiciária gratuita.
+Publique-se.
