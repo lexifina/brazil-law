@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME], no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+Consta dos autos que o ora paciente foi condenado à pena de 02 (dois) meses e 10 (dez) dias de detenção, em regime aberto, pela prática do crime tipificado no art. 147, caput, do CP.
+Embora incabível a substituição da pena privativa de liberdade por restritiva de direito, o réu foi beneficiado com a suspensão condicional da pena pelo prazo de 02 (dois) anos, porém, entendeu o juiz sentenciante que a detração do período em que o acusado permaneceu preso cautelarmente só poderia ser analisada pelo Juízo Executório.
+Inconformado, o Ministério Público interpôs recurso de apelação, requerendo a extinção da punibilidade do réu, alegando que, detraído o período em que o acusado ficou preso cautelarmente, a reprimenda imposta já teria sido cumprida.
+Oferecidas contrarrazões pela defesa, foi requerido o conhecimento e provimento do apelo da acusação.
+Todavia, o Tribunal-Coator, analisando os argumentos apresentados, desproveu o recurso por considerar que o mencionado pedido só poderia ser analisado pelo Juízo Executório.
+No presente mandamus, a impetração alega a existência de constrangimento ilegal, pois considera inexistir impedimento para o juiz sentenciante analisar pedido de detração do tempo de prisão cautelar, para fins de declaração da extinção da punibilidade do paciente.
+Afirma que os Tribunais Superiores entendem que o tempo de prisão provisória não pode ser desconsiderado no cálculo da pena.
+Desse modo, requer a concessão da ordem, a fim de sanar a ilegalidade apontada.
+Liminar indeferida à fl. 28.
+Informações às fls. 37/154.
+Parecer ministerial às fls. 160/161.
+É o relatório.
+A princípio, o pedido deduzido na inicial não comporta conhecimento na via eleita, já que formulado em flagrante desrespeito ao sistema recursal vigente no âmbito do Direito Processual Penal pátrio, tendo em vista a impetração se destinar a atacar acórdão contra o qual seria cabível a interposição de recurso específico para tal fim, nos termos do artigo 105, inciso II, alínea "a", da Constituição Federal.
+Nesses termos, o entendimento pacífico no âmbito deste Sodalício:
+HABEAS CORPUS. TENTATIVA DE HOMICÍDIO QUALIFICADO. CONDENAÇÃO. SUBSTITUIÇÃO A RECURSO PRÓPRIO. IMPROPRIEDADE DA VIA ELEITA. PENA-BASE ESTABELECIDA NO MÍNIMO LEGAL. REGIME PRISIONAL MAIS GRAVOSO. POSSIBILIDADE, EM TESE. ANÁLISE DE CADA CASO. FUNDAMENTAÇÃO CONCRETA. CIRCUNSTÂNCIAS DO DELITO. AUSÊNCIA DE ILEGALIDADE. NÃO CONHECIMENTO. MATÉRIA AFETADA À SEÇÃO.
+1. Tratando-se de habeas corpus substitutivo de recurso próprio, inviável o seu conhecimento, cabendo a análise de flagrante ilegalidade.  ..
+3. Hipótese em que não há flagrante ilegalidade, haja vista que a Corte estadual invocou concretamente as circunstâncias do delito para justificar o regime prisional fechado, em consonância com a jurisprudência deste Superior Tribunal de Justiça e do Supremo Tribunal Federal. Foi indicada a concreta gravidade do crime (tentativa de matar mulher grávida de 4 meses, valendo-se das relações domésticas, mediante meio cruel e motivo fútil, inclusive na presença do filho de 4 anos da vítima e mediante "roleta russa").
+4. Writ não conhecido. (HC 362.535/MG, Rel. Ministro FELIX FISCHER, Rel. p/ Acórdão Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, julgado em 14/12/2016, DJe 08/03/2017)
+Entretanto, o constrangimento apontado na inicial será analisado, a fim de se verificar a existência de flagrante ilegalidade que justifique a atuação de ofício por este Superior Tribunal de Justiça.
+No caso dos autos, o ora paciente alega estar sofrendo constrangimento ilegal com a negativa de detração do tempo de prisão cautelar para fins de reconhecimento do cumprimento da pena aplicada.
+Acerca do tema, este Superior Tribunal de Justiça entende que as questões referentes à detração da pena do tempo de prisão cautelar devem ser analisados pelo Juízo da Execução, o qual, diante dos elementos existentes nos autos, possui competência de verificar os incidentes inerentes ao cumprimento da pena.
+Nesse sentido, confiram-se os seguintes precedentes:
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. RECEPTAÇÃO QUALIFICADA. CORRUPÇÃO ATIVA. REGIME INICIAL DE CUMPRIMENTO DA REPRIMENDA. DETRAÇÃO. AUSÊNCIA DE INFORMAÇÕES SUFICIENTES. COMPETÊNCIA CONCORRENTE DO JUÍZO DAS EXECUÇÕES PARA QUE AVALIE. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - Esta Corte Superior de Justiça, possui entendimento no sentido de que se estiverem ausentes, nos autos, os elementos necessários à aplicação do disposto no art. 387, § 2º, do Código de Processo Penal, caberá ao Juízo das Execuções examinar se o tempo de prisão cautelar do paciente autoriza a fixação de regime mais brando. Precedentes.
+III - Na hipótese, o Tribunal de origem ao julgar o recurso de apelação, em consonância com o entendimento desta Corte, reconheceu que a detração, já que não aplicada pelo juiz sentenciante, deverá ser pleiteada e analisada pelo juízo das execuções, porquanto este tem, de fato, mais elementos para avaliar a possibilidade do recorrente iniciar o cumprimento da pena em regime mais brando, considerando o tempo de prisão cautelar.
+Habeas corpus não conhecido.
+(HC 443.498/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 12/06/2018, DJe 15/06/2018)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DETRAÇÃO. COMPETÊNCIA DO JUÍZO DAS EXECUÇÕES. DOSIMETRIA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. PENA-BASE. EXASPERAÇÃO. POSSIBILIDADE. TENTATIVA. ESCOLHA DA FRAÇÃO DE REDUÇÃO. ANÁLISE DO ITER CRIMINIS PERCORRIDO. PLEITO DE APLICAÇÃO DO PATAMAR MÁXIMO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+I - As alterações trazidas pela Lei n. 12.736/2012 não afastaram a competência concorrente do juízo das execuções para a detração, nos termos do art. 66 da Lei n. 7.210/1984, sempre que o magistrado sentenciante não houver adotado tal providência.
+II - A exasperação encontra-se lastreada em dados empíricos, extraídos dos autos, e que demonstram, indene de dúvidas, que a conduta do agente faz jus à resposta estatal mais rigorosa, de modo a prevenir e reprimir o crime praticado, em consonância com o entendimento exarado por esta col. Corte de Justiça.
+III - Quanto à fração de 1/2 (metade) fixada pela tentativa de homicídio, denota-se que o v. acórdão combatido fundamentou adequadamente o percentual de redução em decorrência do reconhecimento da tentativa com base em circunstâncias concretas e na extensão do iter criminis percorrido, encontrando-se devidamente fundamentado, não havendo que se falar, neste ponto, em contrariedade à norma federal. Ademais, para se chegar a conclusão diversa da que chegou o Tribunal de origem e aplicar a tentativa no grau máximo seria imprescindível o revolvimento fático-probatório dos autos, o que é inviável na presente instância recursal, haja vista o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova no enseja Recurso Especial".
+Agravo regimental desprovido.
+(AgRg no AREsp 1222204/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 24/05/2018, DJe 04/06/2018)
+In casu, diante dos argumentos acima delineados, constata-se que a decisão da instância ordinária encontra-se em sintonia com a jurisprudência vigentes nesta Corte Superior.
+Ante o exposto, com fundamento no artigo 34, inciso XX, do RI/STJ, não se conhece do habeas corpus.
+Publique-se. Intimem-se.
+Após a ciência do Ministério Público Federal, arquivem-se os autos.
