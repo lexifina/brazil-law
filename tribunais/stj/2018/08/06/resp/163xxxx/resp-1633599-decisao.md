@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por ZWINGLIO FERREIRA JUNIOR e NILZA GRACA FURLAN FERREIRA, com fulcro na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado (e-STJ fl. 380):
+ADMINISTRATIVO. REGIME DE DIREÇÃO FISCAL. ADMINISTRADORES DE PLANO DE SAÚDE. INDISPONIBILIDADE DE BENS. PROMESSA DE COMPRA E VENDA NÃO REGISTRADA. LEGALIDADE DO ATO.
+1. Por meio da Resolução Operacional - RO nº 316, de 30.09.2005, foi instaurado regime de direção fiscal na operadora Paz Med Plano de Saúde S/C LTDA., posteriormente convertido em Regime de Liquidação Extrajudicial, por força da Resolução Operacional nº 617 de 07.04.2009. Nesse contexto, diante do disposto no art. 24-A da Lei n. 9.656/98, os bens dos administradores do referido plano de saúde ficaram indisponíveis, o que acabou atingindo imóvel objeto da promessa de compra e venda firmado entre uma administradora, seu marido e os autores, ora apelados.
+2. O ato da ANS que decretou a indisponibilidade do bem objeto de promessa de compra e venda não registrada no Registro Geral de Imóveis, mas apenas no Cartório de Registro de Notas, está amparado pela legislação concernente à matéria, porquanto o imóvel continua a ser de propriedade da administradora do plano de saúde sujeito a regime de direção fiscal, e, posteriormente, a liquidação extrajudicial, não se aplicando nenhuma das exceções do art. 24-A, § 5º, da Lei nº 9.656/98.
+3. Apelação e remessa providas.
+Embargos de declaração foram rejeitados (e-STJ fl. 403).
+Nas suas razões, a parte recorrente aponta violação dos arts. 24-A, § 5º, da Lei n. 9.656/1998, 1.227, 1.245, § 1º, do Código Civil, 20 e 267, VI, do CPC/1973.
+Para tanto, sustenta que "há documentos públicos, dos anos de 1997 e 1999, reconhecidos pelas instâncias ordinárias, que comprovam a aquisição, pelos Autores, ora Recorrentes, em 31 de julho de 1985, do imóvel registrado na Matrícula nº 9.311 do 2º CRI de São José do Rio Preto - SP; de modo que a indisponibilidade que recaiu sobre o mesmo se apresenta de todo ilegítima" (e-STJ fl. 443).
+Contrarrazões foram apresentadas às e-STJ fls. 448/452.
+Juízo positivo de admissibilidade pelo Tribunal a quo (e-STJ fl. 458).
+Passo a decidir.
+Inicialmente, cumpre destacar que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do Plenário do STJ).
+Considerado isso, verifico que a irresignação recursal não comporta conhecimento.
+Quanto à alegada contrariedade dos arts. 20 e 267, VI, do CPC/1973, a pretensão recursal não merece prosperar, uma vez que o ora agravante não apontou como o acórdão recorrido teria violado tais dispositivos legais, o que revela a deficiência de sua fundamentação, justificando a incidência da Súmula 284 do STF.
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AOS ARTS. 165, 458 E 515, §1º, E 535, II, DO CÓDIGO DE PROCESSO CIVIL DE 1973. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. VIOLAÇÃO A DISPOSITIVOS DA CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE DE ANÁLISE EM SEDE DE RECURSO ESPECIAL. COMPETÊNCIA DO STF. CRÉDITOS RELATIVOS AO EMPRÉSTIMO COMPULSÓRIO SOBRE A ENERGIA ELÉTRICA. CONVERSÃO EM AÇÕES. ABUSO DE DIREITO NÃO CONFIGURADO. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+ ..
+II - A jurisprudência desta Corte considera que, quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+ ..
+VIII - Agravo Interno improvido.
+(AgInt no REsp 1.564.937/SC, Rel. Ministra REGINA HELENA COSTA, Primeira Turma, julgado em 04/05/2017, DJe 11/05/2017)
+Por outro lado, em relação ao mérito, extrai-se do julgado o seguinte trecho (e-STJ fls. 375/378):
+Por meio da Resolução Operacional - RO nº 316, de 30.09.2005 (fl. 125 do processo eletrônico), foi instaurado regime de direção fiscal na operadora Paz Med Plano de Saúde S/C LTDA., posteriormente convertido em Regime de Liquidação Extrajudicial, por força da Resolução Operacional nº 617 de 07.04.2009 (fl. 126 do processo eletrônico).
+Nesse contexto, diante do disposto no art. 24-A da Lei n. 9.656/98, os bens de [NOME] ficaram indisponíveis, tendo em vista que ela era administradora do referido plano de saúde. A indisponibilidade acabou atingindo o imóvel objeto da promessa de compra e venda firmado entre a administradora, seu marido e os autores, ora apelados, em 31.07.1985 (fls. 144/153 do processo eletrônico), cerca de 20 anos antes da decretação do Regime de Direção Fiscal.
+Com efeito, o art. 24-A, § 5º, da Lei nº 9.656/98 excepciona da indisponibilidade os bens objeto de promessa de compra e venda, desde que os respectivos instrumentos tenham sido levados ao competente registro público. Vejamos:
+Art. 24-A. Os administradores das operadoras de planos privados de assistência à saúde em regime de direção fiscal ou liquidação extrajudicial, independentemente da natureza jurídica da operadora, ficarão com todos os seus bens indisponíveis, não podendo, por qualquer forma, direta ou indireta, aliená-los ou onerá-los, até apuração e liquidação final de suas responsabilidades.
+(..)
+§ 5º A indisponibilidade também não alcança os bens objeto de contrato de alienação, de promessa de compra e venda, de cessão ou promessa de cessão de direitos, desde que os respectivos instrumentos tenham sido levados ao competente registro público, anteriormente à data da decretação da direção fiscal ou da liquidação extrajudicial.
+Em que pese ter havido registro do negócio no Cartório de Registro de Notas (fls. 43/47 do processo eletrônico), a promessa de compra e venda não foi registrada no Registro Geral de Imóveis (fl. 119 do processo eletrônico), que seria o registro competente, razão pela qual o imóvel foi alcançado pela indisponibilidade.
+Cumpre ressaltar que, o art. 1.227 do Código Civil estabelece que "os direitos reais sobre imóveis constituídos, ou transmitidos por atos entre vivos, só se adquirem com o registro no Cartório de Registro de Imóveis dos referidos títulos". Complementado o dispositivo mencionado, o art. 1.245, § 1º, também do Código Civil, dispõe que "enquanto não se registrar o título translativo, o alienante continua a ser havido como dono do imóvel."
+Portanto, o ato da ANS que decretou a indisponibilidade dos bens da Sra. [NOME] findou por atingir bem objeto de promessa de compra e venda não registrada no Registro Geral de Imóveis, na qual ela figurava como promitente-vendedora e os apelados como compromissários-compradores, está amparado pela legislação concernente à matéria, porquanto o imóvel continua a ser de propriedade da administradora do plano de saúde.
+Confira-se o seguinte julgado, a contrario sensu:
+ ..
+5 - Segundo preceitua o art. 1.245, §1º, do Código Civil, sem o registro, a escritura apenas gera direitos obrigacionais entre os contratantes, não possuindo efeitos erga omnes. É que, nos termos do dispositivo em comento, a transferência da propriedade se opera mediante o registro do título translativo no Registro de Imóveis, não bastando, portanto, a existência de escritura de compra e venda.
+ ..
+Ante o exposto, dou provimento à apelação e à remessa para julgar improcedente o pedido. Inverto os ônus de sucumbência para condenar os autores em custas e honorários advocatícios, que fixo em R$ 2.000,00. (grifos acrescidos)
+Como se vê, em face das premissas fáticas assentadas no acórdão objurgado, a modificação do entendimento firmado pelas Instâncias ordinárias no sentido do não preenchimento dos requisitos para o levantamento da indisponibilidade de bens demandaria, induvidosamente, o reexame de todo material cognitivo produzido nos autos, desiderado incompatível com a via especial nos termos da Súmula n. 7 do STJ.
+Nessa linha de raciocínio, confiram-se precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CAUTELAR. DECRETAÇÃO DA INDISPONIBILIDADE DOS BENS. REVISÃO. SÚMULA 7/STJ.
+1. Rever o entendimento firmado pelo Tribunal de origem, no tocante à decretação da indisponibilidade dos bens, implica o imprescindível reexame das provas constantes dos autos, o que é defeso em recurso especial, ante o que preceitua a Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+ ..
+4. Agravo interno a que se nega provimento. (AgInt no AREsp 1045364/MS, Rel. Ministro OG FERNANDES, Segunda Turma, julgado em 22/08/2017, DJe 25/08/2017).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
