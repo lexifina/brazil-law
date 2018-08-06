@@ -1,0 +1,20 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE RONDÔNIA interpõe recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia (Agravo de Execução Penal n. 0003840-39.2017.8.22.0000), assim ementado:
+Agravo em execução de pena. Remição. Trabalho artesanal. Relatório. Ausência de requisitos exigidos por Portaria. Inviabilidade. Recurso não provido.
+Havendo confecção de trabalhos artesanais, a remição será realizada. Deve ser considerado válido e legítimo o relatório apresentado pelo diretor do estabelecimento prisional, não obstante esteja em desacordo com a Portaria 3158/GERES/GAB/SEJUS/RO, que regulamenta o trabalho artesanal dos reeducandos no Estado de Rondônia, uma vez que o apenado não pode ser prejudicado por eventual equívoco cometido pela administração.
+Recurso não provido.
+Depreende-se dos autos que o Juízo das Execuções, em decisão confirmada pelo Tribunal de Justiça, reconheceu a remição dos dias de trabalho artesanal ao recorrido. Irresignado, o Parquet afirma que o aresto incorreu em violação aos arts. 28, 33 e 126, § 1º, II, todos da Lei n. 7.210/1984, uma vez que não houve fiscalização do trabalho realizado, nos termos da portaria local.
+Requer o provimento do recurso para que seja cassada a remição.
+Contrarrazões às fls. 186-190 e decisão de admissibilidade à fl. 192.
+O Ministério Público Federal, às fls. 203-206, manifestou-se pelo provimento do recurso especial.
+Decido.
+Consta dos autos que as instâncias ordinárias reconheceram a remição de 27 dias de trabalho artesanal, haja vista a legitimidade e a validade de relatório de atividades laborais apresentado pelo diretor do estabelecimento prisional, uma vez que a falta de atendimento de todos os requisitos da portaria local não poderia prejudicar o apenado, porquanto ele não foi responsável pelo equívoco cometido pela administração.
+Confira-se trecho do aresto estadual: "deve ser considerado válido e legítimo o relatório apresentado pelo diretor do estabelecimento prisional". A remição está fundada em "relatório de atividades laborais  .. , no qual o diretor administrativo informa apenas os dias em que o reeducando trabalhou nos meses de outubro a dezembro no ano de 2016 e janeiro/fevereiro do ano de 2017, além das horas". Nesse cenário, "o reeducando não deve ser prejudicado em razão de eventual equívoco cometido pelo servidor público e, estando devidamente comprovado que  ..  trabalhou no período certificado pelo diretor da unidade prisional  .. , não há óbice para que a remição da pena seja aceita" (fl. 139).
+O recorrente não impugnou o principal fundamento do acórdão, de que o recorrido não pode ser prejudicado em razão de ineficiência da administração em cumprir os termos da Portaria 315/GERES/GAB/SEJUS. Incide, por analogia, o óbice da Súmula n. 283 do STF, pois é inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso especial não abrange todos eles.
+Ademais, esta Corte já considerou que:
+2. Cabe ao Estado ao Estado administrar o cumprimento do trabalho no âmbito carcerário, não sendo razoável imputar ao sentenciado qualquer tipo de desídia na fiscalização ou controle desse meio.
+3. No caso em apreço, observa-se que o reeducando efetivamente exerceu o trabalho artesanal, tendo sido essa tarefa devidamente atestada pela administração carcerária. Por tal motivo, descabe ao intérprete opor empecilhos praeter legem à remição pela atividade laboral, prevista pelo citado art. 126 da Lei de Execução Penal, uma vez que a finalidade primordial da pena, em fase de execução penal, é a ressocialização do reeducando.
+ ..
+(AgRg no REsp n. 1.720.785/RO, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/5/2018).
+À vista do exposto, com fundamento no art. 932, III, do Código de Processo Civil de 2015, c/c o art. 3º do Código de Processo Penal, e no art. 34, XVIII, "a", do RISTJ, não conheço do recurso especial.
+Publique-se e intimem-se.
