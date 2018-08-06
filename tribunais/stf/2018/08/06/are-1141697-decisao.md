@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. O Colegiado de origem, reformando o entendimento do Juízo, julgou improcedente o pedido de pagamento de parcela extra anual, nos termos da legislação de regência. No extraordinário cujo trânsito busca alcançar, o recorrente alega violados os artigos 5º, incisos XXXV, XXXV e LV, e 7º, incisos V, VI, X e XXX ,da Constituição Federal. Afirma estar o Distrito Federal deixando de repassar a parcela de complemento do piso salaria da categoria. Diz feridos os princípios da legalidade e do direito adquirido. Argumenta com a inobservância dos direitos sociais.
+    2. Eis a síntese do acórdão recorrido:
+    JUIZADO ESPECIAL DA FAZENDA PÚBLICA. ADMINISTRATIVO. SERVIDOR. AGENTE COMUNITÁRIO DE SAÚDE. PARCELA EXTRA ANUAL. IMPOSSIBILIDADE DE PAGAMENTO. RECURSO CONHECIDO E NÃO PROVIDO.
+    1. Alega a parte autora que, nos termos da Lei Federal 11.350/2006, alterada pela Lei 12.994/2014, é devido aos Agentes Comunitários de Saúde do Distrito Federal parcela extra anual, em razão de repasse de valores pela União aos Estados, Distrito Federal e Municípios.
+    2. O repasse do valor descrito no art. 9º-C da Lei 11.350/2006, com a redação dada pela Lei 12.994/2014, se destina ao cumprimento do piso salarial, garantindo-se a observância do piso pelos entes federativos com comprovada necessidade e mediante adequação a parâmetros estabelecidos em decreto.
+    3. No caso dos Agentes Comunitários de Saúde, o art. 9º-A, §1º da Lei 11.350/2006 prevê o piso salarial de R$ 1.014,00 (mil e quatorze reais). Contudo, conforme contracheques juntados aos autos, comprova-se que os Agentes Comunitários de Saúde do Distrito Federal recebem mais que o piso salarial da categoria, descaracterizando, portanto, a necessidade de auxílio financeiro da União.
+    4. Recurso CONHECIDO e NÃO PROVIDO. Sem recolhimento de custas e preparo diante da gratuidade de justiça concedida (Id. 3290972). Condeno a recorrente vencida ao pagamento de custas e honorários, estes fixados em 10% do valor atualizado da causa, ficando a exigibilidade de tais verbas suspensa na forma do art. 98, § 3º do CPC. Súmula de julgamento que servirá de acórdão, consoante disposto no art. 46 da Lei 9.099/95.
+    O acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo órgão julgador. O recurso padece da ausência de prequestionamento, esbarrando nos verbetes nº 282 e 356 da Súmula do Supremo.
+    3. Conheço do agravo e o desprovejo. Fixo os honorários  recursais em 5% sobre o valor da causa, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015. Tendo a parte agravante litigado sob o pálio da assistência judiciária gratuita, arcará com o ônus dos  honorários  caso ocorra a recuperação do poder aquisitivo no prazo de cinco anos.
+    4. Publiquem.
+Brasília, 6 de agosto de 2018.
+Ministro MARCO AURÉLIO
+Relator
