@@ -1,0 +1,31 @@
+DECISÃO
+Vistos.
+Cuida-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, que negou provimento ao habeas corpus na origem nos termos da seguinte ementa (fl. 51, e-STJ):
+"HABEAS CORPUS. ARTIGO 273, §12-B, INCS. I E VI, DO CP. ALEGADA AUSÊNCIA DE JUSTA CAUSA PARA A AÇÃO PENAL. INOCORRÊNCIA.
+1. Há falta de justa causa para a ação penal apenas diante da inexistência de indícios mínimos de autoria e materialidade, a tornar injustificável a instauração da ação penal. No presente caso, os elementos de prova colhidos até o momento denotam a existência de indícios de autoria e materialidade, não se afigurando possível concluir, de plano, pela alegada posse para consumo próprio.
+2. Não há identidade entre os fatos apurados em inquéritos policiais distintos, pois praticados em locais diversos e com apreensões distintas. ORDEM DENEGADA"
+No presente recurso, alega o recorrente, em suma, que sofre constrangimento ilegal por ato da autoridade coatora que manteve a persecução penal contra o recorrente, mesmo diante da "inequívoca falta de justa causa" (fl. 75, e-STJ)
+Ainda, em suas razões sustenta
+"No presente caso não há dúvida que a conduta do PACIENTE É ATÍPICA, já que dos elementos de prova "incontroversos" do inquérito policial restou demonstrado tratar para USO PRÓPRIO, que não é considerado crime no nosso sistema penal; poderia apenas caracterizar ilícito civil. Mas, que, não é o caso. Não houve, pois, o ânimo definitivo de VENDA do bem por total ausência dos pressupostos que são imprescindíveis à caracterização do delito. Conseqüência indissociável dessas assertivas é a necessidade de que seja reconhecida a falta de justa causa para a persecução penal, não havendo outro fundamento válido para o prosseguimento da ação penal instaurada em desfavor do paciente.
+ ..
+A ausência de justa causa que se pretende seja reconhecida, emerge, desde logo, da simples verificação das "provas pré-constituídas" que dão conta de "fatos incontroversos", portanto, sem qualquer necessidade de dilação probatória ou realização de diligências a fim de evidenciá-los, a denotar, ainda que, na hipótese é dispensável que os fatos aqui relatados sejam submetidos a amplo debate em contraditório no curso da ação penal (STJ, HC nº 24.966/R7, DIU 11/04/2005 e STF, HC nº 82.393/RI, DIU 22/08/2003).
+Assim, plenamente demonstrado o constrangimento ilegal que está sofrendo o PACIENTE, que deve ser imediatamente afastado por meio do presente Habeas Corpus, já que é inequívoca a "falta de justa causa" que deu ensejo à instauração da ação penal em epígrafe pela incidência de COISA JULGADA MATERIAL JÁ TRANSITADA EM JULGADO" (fls. 74-75, e-STJ).
+Requer o deferimento da liminar para que seja decretado o trancamento da ação penal em razão da ausência de justa causa à persecução penal (fl. 80, e-STJ).
+É, no essencial, o relatório.
+Não estão presentes os pressupostos autorizadores do acolhimento da pretensão liminar.
+Consoante entendimento jurisprudencial, a concessão de liminar em habeas corpus "é medida absolutamente excepcional, reservada para casos em que se evidencie, de modo flagrante, coação ilegal ou derivada de abuso de poder, em detrimento do direito de liberdade, exigindo demonstração inequívoca dos requisitos autorizadores: o periculum in mora e o fumus boni iuris" (STF, HC n. 116.638, Rel. Ministro Teori Zavascki).
+No mesmo sentido:
+"A liminar em sede de habeas corpus é medida excepcional, admitida tão-somente pela doutrina e jurisprudência e sem dispensa da satisfação cumulativa dos requisitos do fumus boni iuris e do periculum in mora" (AgRg no HC 22.059/SP, Rel. Ministro HAMILTON CARVALHIDO, SEXTA TURMA, julgado em 28/5/2002, DJ 10/3/2003, p. 315).
+Na espécie, o acórdão recorrido descreveu a existência dos elementos necessários à propositura da ação penal e a ausência de constrangimento ilegal nos seguintes termos (fls. 57, e-STJ):
+ "No presente caso, a prova colhida até o momento aponta a existência de indícios mínimos de autoria e materialidade do crime denunciado, não se afigurando possível concluir, de plano, pela alegada posse para consumo próprio. Trata-se de matéria de prova, que deve ser analisada no curso da instrução criminal.
+No que se refere à alegação de que os fatos imputados ao ora paciente foram objeto de inquérito policial já arquivado, igualmente não merece prosperar.
+Como bem referido pelo Juízo a quo, embora os fatos referidos pelos impetrantes tenham ocorrido no mesmo dia - pois decorrentes de operação policial que cumpriu mandados de busca e apreensão na mesma data -, foram praticados em endereços diversos, além de ter resultado em apreensões distintas. Assim, não há falar em identidade de fatos.
+Não se verificando a existência de ilegalidade na persecutio crim/nis, é de ser negada a ordem de trancamento da ação por falta de justa causa.
+Pelo exposto, denego a ordem."
+Nesse sentido, verifica-se que a orientação se coaduna com a jurisprudência:
+"Esta Corte Superior pacificou o entendimento segundo o qual, em razão da excepcionalidade do trancamento da ação penal, tal medida somente se verifica possível quando ficar demonstrado - de plano e sem necessidade de dilação probatória - a total ausência de indícios de autoria e prova da materialidade delitiva, a atipicidade da conduta ou a existência de alguma causa de extinção da punibilidade" (RHC 89.541/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 12/12/2017, DJe 19/12/2017).
+Desse modo, os fundamentos utilizados pelo Tribunal a quo não se mostram, em princípio, desarrazoados, não revelando situação configuradora de abuso de poder ou de manifesta ilegalidade sanável no presente juízo perfunctório, mormente porque o deslinde da controvérsia para fins de reconhecer a viabilidade de trancamento da ação penal demandaria o aprofundamento do exame de circunstâncias fático-processuais, tarefa insuscetível de ser realizada em juízo singular e prelibatório.
+Reserva-se, portanto, ao Colegiado, órgão competente para o julgamento do mandamus, a apreciação definitiva da matéria depois de devidamente instruídos os autos.
+Ante o exposto, INDEFIRO o pedido liminar.
+Remetam-se os autos ao Ministério Público Federal para o parecer.
+Publique-se. Intimem-se.
