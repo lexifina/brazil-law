@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado do Paraná, assim ementado:
+APELAÇÃO CÍVEL - CÓDIGO DE PROCESSO CIVIL DE 1973 APLICÁVEL AO FEITO - AÇÃO DECLARATÓRIA DE PRESCRIÇÃO DE COBRANÇA - PEDIDO DE PRESCRIÇÃO DAS PARCELAS 1NADIMPLIDAS IMPOSSIBILIDADE - PARCELAS NÃO PRESCRITAS - PRÉVIO AJUIZAMENTO DE AÇÃO REVISIONAL- AÇÃO QUE INTERROMPE O PRAZO PRESCRICIONAL - CONDENAÇÃO DA AUTORA AOS ÔNUS SUCUMBENCIAIS - CORRETA APLICAÇÃO - SENTENÇA MANTIDA - RECURSO NÃO PROVIDO.
+O ajuizamento da ação rcvisional interrompe a prescrição, cujo o lapso temporal volta a fluir da data do trânsito ein julgado da decisão. (e-STJ, fl. 247)
+Nas razões do recurso especial, a agravante alega, além de divergência jurisprudencial, violação ao art. 4º da Lei 1.060/50, sustentando, em síntese, que o ajuizamento da ação revisional não interrompe o prazo prescricional, o qual é de 5 anos no presente caso.
+É o relatório.
+Decido.
+A irresignação não prospera.
+Nas razões recursais, a parte recorrente apontou violação ao art. 4º da Lei 1.060/50, entretanto, não desenvolveu argumentação que evidenciasse a ofensa, tornando patente a falha de fundamentação do apelo especial, circunstância que atrai a incidência da Súmula 284 do Supremo Tribunal Federal. A propósito:
+"AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. RECURSO QUE DEIXA DE IMPUGNAR OS FUNDAMENTOS DA DECISÃO QUE NEGOU PROVIMENTO AO AGRAVO DE INSTRUMENTO. SÚMULA Nº 182/STJ. EMBARGOS DE DECLARAÇÃO.RECORRENTE QUE NÃO DEFINE NEM DEMONSTRA EM QUE CONSISTE A OMISSÃO. SÚMULA Nº 284/STF. ARTIGOS 496 E 513 DO CÓDIGO DE PROCESSO CIVIL. NÃO DEMONSTRAÇÃO DA VIOLAÇÃO DOS DISPOSITIVOS DE LEIS FEDERAIS. SÚMULA Nº 284/STF. AGRAVO IMPROVIDO.
+1. "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." (Súmula do STJ, Enunciado nº 182).
+2. "É possível o juízo de admissibilidade adentrar o mérito do recurso, na medida em que o exame da sua admissibilidade, pela alínea "a", em face dos seus pressupostos constitucionais, envolve o próprio mérito da controvérsia." (AgRgAg nº 228.787/RJ, Relator Ministro Sálvio de Figueiredo Teixeira, in DJ 4/9/2000).
+3. Em tema de violação do artigo 535 do Código de Processo Civil, a não indicação expressa das questões apontadas como omitidas vicia a motivação do recurso especial, inviabilizando o seu conhecimento.Incidência do enunciado nº 284 da Súmula do Supremo Tribunal Federal.
+4. Ao apontar a violação dos artigos 496, inciso I, e 513 do Código de Processo Civil, nas razões do recurso especial, a agravante não define nem demonstra no que consistiu a alegada violação dos dispositivos legais, deixando de explicitar, de forma clara e precisa, a negativa de vigência de lei federal, atraindo a incidência do enunciado nº 284 da Súmula do Supremo Tribunal Federal.
+5. Agravo regimental improvido."
+(AgRg no Ag 1.292.758/MG, Rel. Ministro HAMILTON CARVALHIDO, PRIMEIRA TURMA, julgado em 18/05/2010, DJe de 04/06/2010)
+Além disso, no que tange à tese de que o ajuizamento de ação revisional não interrompe o prazo prescricional, observa-se que a parte recorrente não indica qual ou quais dispositivos entende violados, tornando patente a falta de fundamentação do apelo especial, circunstância que atrai, novamente, a incidência da Súmula 284 do Supremo Tribunal Federal.
+A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. QUEIMA DE CANA DE AÇÚCAR - REEXAME DE PROVA. SÚMULA 7 DO STJ. FUNDAMENTAÇÃO DEFICIENTE. SUMULA 284 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A reforma do julgado quanto à ocorrência ou não do dano, que gerou a obrigação de indenizar, demanda inegável necessidade de incursão nas provas constantes dos autos, o que é vedado em sede de recurso especial. Incidência do óbice da Súmula 7 desta Corte.
+2. A alegação de ofensa genérica à lei, sem a particularização dos dispositivos eventualmente violados pelo aresto recorrido, implica deficiência de fundamentação, conforme pacífico entendimento desta Corte Superior, fazendo incidir o enunciado da Súmula 284/STF.
+3. A admissibilidade do recurso especial pressupõe-se uma argumentação lógica, demonstrando de plano a violação do dispositivo legal pela decisão recorrida, a fim de demonstrar a vulneração existente, o que não ocorreu na hipótese da alegada violação ao art.
+38, § 4º, da Lei 12.651/12.
+4. Agravo regimental não provido." (AgRg no AREsp 721.287/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2015, DJe de 27/08/2015)
+Outrossim, o recurso não merece prosperar pela alínea "c" do permissivo constitucional, em razão do descumprimento do disposto nos arts. 541, parágrafo único, do CPC/73 e 255, § 2º, do RISTJ. Com efeito, para a caracterização da sugerida divergência jurisprudencial, não basta a simples transcrição de ementas. Devem ser mencionadas e expostas as circunstâncias que identificam ou assemelham os casos confrontados, sob pena de não serem atendidos, como na hipótese, os requisitos previstos nos mencionados dispositivos.
+Confiram-se os seguintes julgados:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. QUITAÇÃO DE OBRIGAÇÃO TRIBUTÁRIA. TÍTULOS DA DÍVIDA PÚBLICA. DAÇÃO EM PAGAMENTO. IMPOSSIBILIDADE. FALTA DE PREVISÃO LEGAL. PRECEDENTES. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+(..)
+III - Já é firme o entendimento desta Corte, segundo o qual a simples transcrição de ementas não basta para que se configure a divergência jurisprudencial alegada. Impõe-se a demonstração do dissídio com a reprodução dos segmentos assemelhados ou divergentes entre os paradigmas colacionados e o aresto hostilizado, o que inocorreu no presente caso.
+IV - Agravo regimental improvido." (AgRg no REsp 738.797/RS, Relator o eminente Ministro FRANCISCO FALCÃO, DJ de 03.10.2005)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AFRONTA AO ART. 535 DO CPC. EMBARGOS DE DECLARAÇÃO. OMISSÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. EXAME DE MATÉRIA CONSTITUCIONAL E DE LEI LOCAL. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL NÃO CARACTERIZADO. ART. 255 DO RISTJ.
+(..)
+IV - Em casos nos quais só a comparação das situações fáticas evidencia o dissídio pretoriano, indispensável que se faça o cotejo analítico entre a decisão reprochada e os paradigmas invocados. A simples transcrição de ementas, sem que se evidencie a similitude das situações, não se presta como demonstração da divergência jurisprudencial.
+Agravo regimental desprovido." (AgRg no REsp 754.475/AL, Relator o eminente Ministro FELIX FISCHER, DJ de 26.09.2005)
+Não bastasse, jurisprudência desta Corte firmou-se no sentido de que a propositura de ação declaratória ou anulatória em que se discuta a dívida interrompe o prazo prescricional para cobrança do valor nela materializado. A propósito:
+PROCESSO CIVIL. RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. 1. CÔNJUGE. PRESCRIÇÃO DA DÍVIDA. LEGITIMIDADE RECONHECIDA. INTERPRETAÇÃO ANALÓGICA DO ART. 1.046, § 3.º, DO CÓDIGO DE PROCESSO CIVIL. 2. DEMANDA PROPOSTA PELO DEVEDOR. DEFESA JUDICIAL DO CRÉDITO. INÉRCIA DO CREDOR. AFASTADA. CITAÇÃO. PRAZO PRESCRICIONAL. INTERRUPÇÃO. RECURSO PROVIDO.
+1. Na esteira dos precedentes do STJ, a intimação do cônjuge enseja-lhe a utilização tanto da via dos embargos à execução, por meio dos quais se admite a discussão da própria causa debendi e a defesa do patrimônio como um todo, como da via dos embargos de terceiro, para defesa de sua meação.
+2. Entre os dois instrumentos processuais, desde que respeitado o prazo próprio para oposição, aplica-se a fungibilidade, garantindo a instrumentalização do procedimento na concretização do direito material resguardado.
+3. A objeção de pré-executividade, por se tratar de criação jurisprudencial destinada a impedir a prática de atos tipicamente executivos, em face da existência de vícios ou matérias conhecíveis de ofício e identificáveis de plano pela autoridade judicial, é meio processual adequado para deduzir a prescrição do título em execução.
+4. Assim, reconhecida a legitimidade ampla do cônjuge para defesa do patrimônio do casal pela via dos embargos à execução, deve-se ser estendida a ele, igualmente, a utilização da exceção ou objeção de pré-executividade.
+5. A prescrição é instituto jurídico destinado a sancionar a inércia do detentor de um direito, reconhecendo o desinteresse no exercício de sua posição jurídica e tornando definitivo o estado das coisas.
+6. Nos termos do art. 202 do CC, o decurso do prazo prescricional interrompe-se, uma única vez, quando presente qualquer das hipóteses definidas no art. 202 do CC.
+7. A propositura de demanda em que se debate o próprio crédito - seja ela anulatória, revisional ou cautelar de sustação de protesto - denota o conhecimento do devedor do interesse do credor em exigir seu crédito. Ademais, a atuação judicial do credor em defesa de seu crédito implica o inevitável afastamento da inércia.
+8. Desse modo, aplica-se a interrupção do prazo prescricional, nos termos do art. 202, I, do CC, ainda que a judicialização da relação jurídica tenha sido provocada pelo devedor.
+9. Recurso especial provido.
+(REsp 1522093/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/11/2015, DJe 26/11/2015, g. n.)
+RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CHEQUE. SUSTAÇÃO DE PROTESTO. AÇÃO DECLARATÓRIA. PRESCRIÇÃO. INTERRUPÇÃO DO PRAZO. ADMISSIBILIDADE.
+1. Inviável o reconhecimento de violação ao art. 535 do CPC quando não verificada no acórdão recorrido omissão, contradição ou obscuridade apontadas pela recorrente.
+2. A ausência de decisão sobre os dispositivos legais supostamente violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial. Incidência da Súmula 211/STJ.
+3. A propositura de demanda judicial pelo devedor, seja anulatória, seja de sustação de protesto, que importe em impugnação do débito contratual ou de cártula representativa do direito do credor, é causa interruptiva da prescrição.
+4. A manifestação do credor, de forma defensiva, nas ações impugnativas promovidas pelo devedor, afasta a sua inércia no recebimento do crédito, a qual implicaria a prescrição da pretensão executiva; além de evidenciar que o devedor tinha inequívoca ciência do interesse do credor em receber aquilo que lhe é devido.
+5. O art. 585, §1º, do CPC deve ser interpretado em consonância com o art. 202, VI, do Código Civil. Logo, se admitida a interrupção da prescrição, em razão das ações promovidas pelo devedor, mesmo que se entenda que o credor não estava impedido de ajuizar a execução do título, ele não precisava fazê-lo antes do trânsito em julgado dessas ações, quando voltaria a correr o prazo prescricional.
+6. Negado provimento ao recurso especial.
+(REsp 1321610/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 21/02/2013, DJe 27/02/2013, g. n.)
+AGRAVO REGIMENTAL - AÇÃO REVISIONAL DE CONTRATO BANCÁRIO EM FASE DE CUMPRIMENTO DE SENTENÇA - INSTAURAÇÃO DE PROCEDIMENTO PARA AFERIÇÃO DO QUANTUM DEVIDO EM CONSONÂNCIA AOS NOVOS PARÂMETROS NEGOCIAIS DEFINIDOS NA DECISÃO TRANSITADA EM JULGADO. DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO A RECURSO ESPECIAL DOS DEMANDANTES. INSURGÊNCIA.
+1. Pretensão recursal dos autores buscando ver reconhecida a prescrição dos juros remuneratórios incidentes no contrato que sofreu revisão judicial, sob o fundamento de que a casa bancária deixou de promover ação de cobrança do saldo devedor. Rejeição. Proposta a demanda revisional, interrompe-se e suspende-se o prazo prescricional para manejo de eventuais ações por iniciativa do credor, até advento do trânsito em julgado da sentença a ser proferida na contenda ajuizada pelo mutuário.
+ 2. Agravo regimental não provido.
+(AgRg no Ag 1244895/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/03/2012, DJe 09/04/2012, g. n.)
+Dessarte, o acórdão recorrido não merece reforma, porquanto está em sintonia com o entendimento desta Corte, nos termos das Súmulas 83 e 568/STJ.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de R$ 1.000,00 (mil reais) para R$ 1.100,00 (mil e cem reais), observado o disposto no art. 12 da Lei nº 1.060/50, dada a eventual concessão de justiça gratuita.
+Publique-se.
