@@ -1,0 +1,18 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por [NOME], com fundamento no artigo 105, inciso III, alínea c, da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o Recorrente foi condenado à pena de 5 (cinco) anos de reclusão, em regime inicial fechado, por ser reincidente, e ao pagamento de 14 (quatorze) dias-multa, pela prática do crime previsto no art. 157, caput, c.c. o art. 14, inciso II, ambos do Código Penal, (fls. 176/181).
+A Defesa interpôs apelação criminal, que foi desprovida em acórdão assim ementado:
+"APELAÇÃO CRIMINAL. Roubo simples. Sentença condenatória. Defesa requer, preliminarmente, a nulidade do reconhecimento pessoal ou, alternativamente, pelo fato de não ter presenciado a declaração da vítima e por não ter sido autorizado ao apelante dirigir-se até a sede da Defensoria Pública para que fosse entrevistado por um defensor. No mérito, requer a desclassificação para o crime de furto tentado e, subsidiariamente, redução da pena-base, reconhecimento da tentativa, concessão de regime mais brando, aplicação da detração penal e possibilidade de aguardar o julgamento do recurso em liberdade. Não há nulidade. Reconhecimento realizado sob o crivo do contraditório. Vítima tem o direito de depor sem a presença do acusado, conforme art. 217 do Código de Processo Penal. Possibilitada a prévia entrevista reservada entre o apelante e seu defensor, não importando o local onde foi feita. Ausência de demonstração de prejuízo sofrido.
+Preliminares afastadas. No mérito, a condenação lastreada em seguro e convincente arcabouço probatório. Réu reconhecido pela vítima como autor do crime patrimonial. Parcial confissão. A dosimetria da pena não comporta reparos. A imposição do regime inicial fechado bem se justificou nas circunstâncias concretas do delito em comento, na reincidência e "quantum" de pena aplicada. Incabível, in casu, a detração penal. Prisão cautelar que se mostra justa e adequada. Recurso improvido." (fl. 279)
+Opostos embargos de declaração, que foram rejeitados (fls. 318/323).
+Inconformada, a Defesa interpôs recurso especial alegando negativa de vigência ao art. 65 do Código Penal, e dissídio jurisprudencial na interpretação conferida ao art. 67 do Código Penal, sob o fundamento de que a confissão sempre atenua a pena e é possível a compensação da atenuante da confissão espontânea com a agravante da reincidência.
+O recurso especial foi parcialmente admitido na origem (fls. 360/361).
+É o relatório. Decido.
+A Terceira Seção do Superior Tribunal de Justiça, no julgamento do Tema n.º 585, vinculado ao Recurso Especial Repetitivo n.º 1.341.370/MT (Rel. Min. Sebastião Reis Júnior, DJe de 17/04/2013), firmou entendimento no sentido de que "é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência", nos termos da seguinte ementa:
+"RECURSO ESPECIAL. REPRESENTATIVO DA CONTROVÉRSIA (ART. 543-C DO CPC). PENAL. DOSIMETRIA. CONFISSÃO ESPONTÂNEA E REINCIDÊNCIA. COMPENSAÇÃO. POSSIBILIDADE.
+1. É possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência.
+2. Recurso especial provido."
+Na espécie, o acórdão combatido destoa da orientação pacificada no Superior Tribunal de Justiça na medida em que decidiu que há a preponderância da agravante da reincidência sobre a atenuante da confissão espontânea.
+Ante o exposto, DOU PROVIMENTO ao recurso especial para compensar a atenuante da confissão com a agravante da reincidência, determinando o retorno dos autos ao Tribunal de origem para o redimensionamento da pena.
+Publique-se. Intimem-se.
