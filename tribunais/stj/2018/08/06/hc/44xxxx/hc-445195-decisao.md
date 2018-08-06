@@ -1,0 +1,24 @@
+DECISÃO
+1. Trata-se de habeas corpus impetrado em favor de VALDIR ANTONIO DE ALMEIDA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+No mandamus, sustenta a impetrante a ocorrência de constrangimento ilegal ao argumento de que VALDIR ANTONIO DE ALMEIDA teria preenchido os requisitos legais exigidos para obter o benefício de indulto, pois teria cumprido os critérios pertinentes, sendo que a falta grave que cometeu não poderia vir em seu prejuízo, já que a homologação foi posterior à edição do Decreto n. 8.615/2015.
+Requer, desta forma, a concessão de ordem para afastar a ilegalidade apontada.
+A liminar foi indeferida.
+Informações prestadas.
+O MPF manifestou-se pela denegação da ordem.
+É o relatório.
+2. Cumpre pontuar, inicialmente, que esta Corte Superior de Justiça não mais admite a utilização do habeas corpus em substituição ao recurso cabível, como ocorre na hipótese, circunstância que impede o seu formal conhecimento.
+No entanto, o alegado constrangimento ilegal será analisado para a verificação da eventual possibilidade de atuação ex officio, nos termos do artigo 654, § 2.º, do Código de Processo Penal.
+No caso vertente, as instâncias de origem reconhecerem a existência de falta grave cometida nos doze meses anteriores à edição do Decreto n. 8.615/2015, porém assentando que sua homologação foi posterior à edição do referido regramento.
+Estabelecida a premissa fática, tem-se que o art. 5.º do Decreto Presidencial 8.615/2015 determina que " A declaração do indulto e da comutação de penas previstos neste Decreto fica condicionada d inexistência de aplicação de sanção, reconhecida pelo juízo competente, em audiência de justificação, garantido o direito ao contraditório e a ampla defesa, por falta disciplinar de natureza grave, prevista na Lei de Execução Penal, cometida nos doze meses de cumprimento da pena. contados retroativamente a data de publicação deste Decreto" (grifou-se).
+A referida legislação é clara ao exigir como requisito para a concessão do indulto e da comutação nela previstos a ausência de cometimento de falta disciplinar de natureza grave nos doze meses anteriores à data de sua publicação, não havendo previsão de que a sua homologação, com a aplicação da respectiva sanção, deva ocorrer no indigitado período. O que se impõe é que a infração disciplinar grave seja apurada e homologada para fins de constituir óbice à concessão das benesses aludidas, o que se verifica, in casu.
+Interpretar em sentido diverso implicaria tornar a norma sem efeito, além de significar efetiva imunidade a todos os apenados que cometam falta grave em período próximo ao final do ano, já que, nessa hipótese, a apuração da infração dificilmente poderá ser concluída antes da edição do tradicional decreto de indulto natalino.
+Nesse sentido:
+EXECUÇÃO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. COMUTAÇÃO DE PENAS. DECRETO 8.380/2014. FALTA GRAVE COMETIDA NO PERÍODO DO ATO PRESIDENCIAL E HOMOLOGADA POSTERIORMENTE. POSSIBILIDADE. RECURSO DESPROVIDO.
+I - Segundo a jurisprudência desta Corte, para a análise do pedido de indulto, o magistrado deve restringir-se ao exame do preenchimento dos requisitos previstos no decreto presidencial, uma vez que os pressupostos para a concessão da benesse são da competência privativa do Presidente da República.
+II - In casu, as instâncias anteriores valeram-se unicamente do disposto no Decreto presidencial para indeferir o pleito de comutação, levando em conta a falta grave (descumprimento da pena restritiva de direitos) cometida nos doze meses anteriores à publicação da referida norma.
+III - O art. 5º do Decreto n. 8.380/2014 dispõe que as faltas graves praticadas nos doze meses anteriores à sua publicação, e judicialmente homologadas, obstam a concessão da benesse. Todavia, não estabelece o referido ato normativo que a homologação deva ocorrer até a data da sua publicação. O que se exige, enfim, é a homologação pelo juízo competente, antes ou depois do ato presidencial (precedentes).
+Recurso desprovido.
+(RHC 63.038/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 03/11/2015, DJe 26/11/2015 - grifou-se).
+Em função disso, não se observa evidente ilegalidade a ser sanada, de ofício, por esta Corte.
+3. Ante o exposto, por se afigurar manifestamente incabível, com fundamento no artigo 34, inciso XX, do RISTJ, não se conhece do writ.
+Publique-se. Intime-se.
