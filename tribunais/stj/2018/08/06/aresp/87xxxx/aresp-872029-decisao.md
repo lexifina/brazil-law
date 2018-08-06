@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município da Estância de Atibaia contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 384):
+APELAÇÃO. IMÓVEL DA EXTINTA REDE FERROVIÁRIA FEDERAL - RFFSA. LEI 11.483. BEM PERTENCENTE À UNIÃO FEDERAL. VEDADA DESAPROPRIAÇÃO SEM PRÉVIA AUTORIZAÇÃO, POR DECRETO DO PRESIDENTE DA REPÚBLICA. DECRETO-LEI N.º 3.365, ART. 2 o, PARÁGRAFO 3o.
+É vedado ao município desapropriar bens pertencentes à União Federal sem prévia autorização, por decreto, do Presidente da República. (DL n.º 3.365, art. 2o, parágrafo 3o)
+Caso concreto em que o Município da Estância de Atibaia busca a desapropriação de imóvel anteriormente pertencente à extinta RFFSA, cujos bens, por força da Lei 11.483, foram repassados à União Federal, não sendo, portanto, passíveis de desapropriação pela parte autora.
+Apelação a que se nega provimento.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 130, 267, I e VI, 295, parágrafo único, III, 458, II, 535, I e II do CPC/73; 8º da Lei 12.348/10; 2º do Decreto Lei 3.365/41. Para tanto, sustenta, em síntese, além da negativa de prestação jurisdicional, que: (i) incorreu o julgado em cerceamento de defesa, pois "à municipalidade não fora dado a oportunidade de fazer a prova da posse reclamada no art. 8º da Lei 12.348/10 no decorrer de regular instrução processual" - (fl. 456)
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Feita essa observação,verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 458, II e 535, I e II do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Além disso, o Tribunal de origem não se manifestou sobre a alegação de cerceamento de defesa, tampouco foi a referida matéria suscitada nos embargos declaratórios opostos às fls. 387/391. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
