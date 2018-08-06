@@ -1,0 +1,47 @@
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. ICMS. SUSPENSÃO DE LIMINAR. DECISÃO DE NATUREZA POLÍTICA. DESCABIMENTO DO APELO EXTREMO. PRECEDENTES DO STJ. AGRAVO CONHECIDO PARA SE NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por JBS S/A, contra decisão que inadmitiu o processamento de recurso especial em face de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, cuja ementa assim estabelece:
+AGRAVO INTERNO. SUSPENSÃO DE LIMINAR EM MANDADO DE SEGURANÇA. LIMINAR DEFERIDA EM OUTRO PROCESSO. PEDIDO DE ADITAMENTO. COINCIDÊNCIA COM O OBJETO DA LIMINAR SERVIDA DE PARADIGMA. EXTENSÃO DOS EFEITOS DA SUSPENSÃO DEFERIDA.
+AGRAVO INTERPOSTO POR TERCEIRO. AUSÊNCIA DE INTERESSE E DE LEGITIMIDADE RECURSAL. NÃO CONHECIMENTO. Ausente o prejuízo jurídico em decorrência do pronunciamento judicial em voga, a desafiar o presente agravo interno, o qual se revela, pois, em medida inútil, à vista dos fatos e fins colimados constantes na peça recursal, o não conhecimento do recurso é medida que se impõe.
+Posteriormente em novo agravo interno, o Tribunal de Justiça do Estado de Minas Gerais, assim se manifestou: "REJEITARAM A PRELIMINAR E NEGARAM PROVIMENTO AO AGRAVO INTERNO, POR MAIORIA"
+Nas razões de recurso especial, fundamentado no artigo 105, III, a, do permissivo constitucional o recorrente alega a violação ao artigo 4º da Lei 8.437/1992, ao sustentar em síntese: a ausência de lesão à economia pública hábil a justificar o deferimento da suspensão dos efeitos da liminar concedida em mandado de segurança.
+Contrarrazões ao recurso especial às fls. 1.633/1.655 (e-STJ).
+Em decisão interlocutória, o Tribunal de origem inadmitiu o processamento do Apelo Especial.
+No agravo, o recorrente rechaçou as razões de inadmissão do apelo especial.
+Contraminuta ao agravo em recurso especial às fls. 1.844/1.854 (e-STJ).
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O Superior Tribunal de Justiça tem entendimento consolidado segundo o qual não é cabível recurso especial interposto contra decisão proferida no âmbito de suspensão de liminar, ante o caráter político que ostenta, excepcionando tal orientação apenas na hipótese de o pedido apresentar nítida feição técnico-jurídica.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. TRATAMENTO DE ESGOTO. INDEFERIDA SUSPENSÃO DO PEDIDO DE LIMINAR. DECISÃO COM NATUREZA POLÍTICA. NÃO CABIMENTO DO APELO EXTREMO. PRECEDENTES.
+1. Constatado que a Corte de origem empregou fundamentação adequada e suficiente para dirimir a controvérsia, é de se afastar a alegada violação do art. 535 do CPC.
+2. A jurisprudência desta Corte já se posicionou no sentido de ser incabível interposição de recurso especial de decisões proferidas no âmbito do pedido de suspensão de segurança, tendo em vista que o apelo extremo visa combater argumentos que digam respeito a exame de legalidade, ao passo que o pedido de suspensão ostenta juízo político. Nesse sentido: AgRg no REsp 1284520/GO, Rel. Min. Humberto Martins, Segunda Turma, DJe 08/03/2013; AgRg no REsp. 821.431/RJ, Rel. Min. Teori Albino Zavascki, DJe 26/05/2011.
+3. Agravo regimental não provido.
+(AgRg no AREsp 175.697/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 18/11/2014, DJe 25/11/2014, destaque meu)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. INTERDIÇÃO DE ESTABELECIMENTO PRISIONAL. SUSPENSÃO DE LIMINAR. DECISÃO DE NATUREZA POLÍTICA. DESCABIMENTO DO APELO EXTREMO. PRECEDENTES DO STJ.
+1. Incabível a interposição de Recurso Especial de decisões proferidas no âmbito do pedido de suspensão, haja vista que o apelo extremo visa combater argumentos que digam respeito a exame de legalidade, ao passo que o pedido de suspensão ostenta juízo político.
+2. In casu, conforme se depreende do acórdão proferido pelo Tribunal de origem, o juízo realizado para conceder a suspensão de liminar foi meramente político e não técnico-jurídico, razão pela qual não se pode admitir a interposição do Recurso Especial.
+3. Agravo Regimental não provido.
+(AgRg no AREsp 755.464/BA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/10/2015, DJe 17/11/2015, destaque meu)
+PROCESSUAL CIVIL. MEDIDA CAUTELAR. ACÓRDÃO EM PEDIDO DE SUSPENSÃO DE SEGURANÇA. DECISÃO COM NATUREZA POLÍTICA. NÃO CABIMENTO DO APELO EXTREMO.
+1. A jurisprudência desta Corte Superior é no sentido de não ser cabível o recurso especial de decisões proferidas no âmbito do pedido de suspensão de segurança, uma vez que o apelo extremo visa combater argumentos que digam respeito a exame de legalidade, ao passo que o pedido de suspensão ostenta juízo político.
+2. "Ainda que o pleito, no recurso especial, recaia sobre questões formais no procedimento de suspensão de liminar, tal fato não possui o condão de alterar a natureza jurídica da decisão que concede ou nega a suspensão. Eventuais irregularidades formais constituem ilegalidade a ser enfrentada na via mandamental, e não no recurso especial" (AgRg no REsp 1207495/RJ, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 14/04/2011, DJe 26/04/2011).
+3. De acordo com recente julgado, tal entendimento não é aplicado quando na atividade exercida no julgamento do pedido de suspensão de segurança há nítida feição judicial, e não política ou administrativa, em que pese o objeto envolver a análise de conceitos jurídicos indeterminados, como segurança, ordem, saúde e economia.
+Precedente: AgRg no REsp 1284520/GO, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 04/09/2012, DJe 08/03/2013.
+4. No presente caso, não convém excepcionar a regra, porquanto o juízo realizado para conceder a Suspensão foi meramente político e não técnico-jurídico.
+5. Recurso especial não conhecido.
+(REsp 1379717/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 24/09/2013, DJe 02/10/2013, destaque meu)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SUSPENSÃO DE MEDIDA ANTECIPATÓRIA DA TUTELA. SOCIEDADE DE ECONOMIA MISTA. LEGITIMIDADE ATIVA. RECONHECIMENTO. PROPOSITURA COMO SUCEDÂNEO RECURSAL. NÃO CONSTATAÇÃO.
+1. O Superior Tribunal de Justiça tem firmado o entendimento de que, em regra, é descabida a interposição de recurso especial contra decisões proferidas em sede de suspensão de segurança, haja vista o caráter eminentemente político que é emitido nesse tipo de procedimento incidental.
+2. Não incide aquela orientação quando "na atividade exercida no julgamento do pedido de suspensão de segurança há nítida feição judicial, e não política ou administrativa, em que pese o objeto envolver conceitos jurídicos indeterminados, como segurança, ordem, saúde e economia" (REsp 1.379.717/DF, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 02/10/2013).
+3. Esta Corte reconhece a legitimidade ativa das pessoas jurídicas de direito privado prestadoras de serviço público (empresas públicas, sociedades de economia mista, concessionárias e permissionárias de serviço público) para a propositura de pedido de suspensão, quando na defesa do interesse público primário (AgRg no AgRg na SLS 1.955/DF, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 18/03/2015, DJe 29/04/2015).
+4. Caso em que o Tribunal de origem reconheceu a legitimidade ativa das agravadas, pois, a despeito da "existência de interesse na defesa de seu próprio patrimônio", ficou comprovado "que a decisão que antecipou os efeitos da tutela também prejudica o interesse público, na medida em que afeta a prestação de serviço de energia elétrica", conclusão que não admite revisão sem o revolver de aspectos fático-probatórios, providência sabidamente inviável no âmbito do recurso especial (Súmula 7 desta Corte).
+5. Identificado, nas instâncias ordinárias, o risco de lesão aos bens jurídicos tutelados na Lei n. 8.437/1992, em face da presença dos pressupostos legais que autorizam o deferimento da contracautela requerida, afasta-se a alegação de feição recursal do instrumento, cujo mérito tem seu exame vedado no especial.
+6. Agravo desprovido.
+(AgRg no AREsp 784.604/MG, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 03/05/2016, DJe 25/05/2016, destaque meu)
+No caso, o Recorrente pretende, mediante o Recurso Especial, discutir a existência ou não de grave lesão à ordem ou à economia públicas, consoante os elementos fáticos da situação analisada, razão pela qual não incide a exceção admitida pela jurisprudência desta Corte.
+Ao fim, nos termos da Súmula 568/STJ, "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quanto houver entendimento dominante acerca do tema". Neste sentido, e considerando a jurisprudência reiterada sobre o tema, resta prejudicado o conhecimento do recurso especial pela alínea "c" do permissivo constitucional.
+Ante o exposto, com fundamento no art. 932, IV, do CPC/2015 c/c o artigo 253, parágrafo único, II, b do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
