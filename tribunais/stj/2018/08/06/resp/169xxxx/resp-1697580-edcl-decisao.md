@@ -1,0 +1,11 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO opõe embargos de declaração à decisão de minha relatoria, em que dei parcial provimento ao recurso especial interposto pelo embargado, a fim de fixar o regime semiaberto para o crime de roubo e para o crime de tráfico de drogas.
+O embargante suscita contradição no julgado, "pois em um determinado momento da decisão  .. , ficou consignado que o regime seria o semiaberto, salvo se houvesse interferência da somatória das penas superando o patamar de 8 anos, mas a parte dispositiva teria permitido o cumprimento das penas em regime semiaberto" (fl. 610).
+Requer o acolhimento dos embargos de declaração, para "excluir da parte dispositiva a possibilidade de cumprimento de ambas as penas em regime inicial semiaberto" (fl. 611).
+Decido.
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração almeja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material.
+Na hipótese, a decisão salientou de forma clara e objetiva ser "cabível  ..  o regime semiaberto para cada um dos delitos, isoladamente considerados, o que não interfere na aplicação do regime fechado após a soma das penas, as quais, juntas, superam 8 anos de reclusão" (fl. 599 - grifei).
+Não há, por conseguinte, contradição entre a fundamentação e o dispositivo, e sim complementação, haja vista a interpretação deste último ser inseparável da motivação que o sustenta. Nesses termos, em conclusão válida também para o processo penal: "Para interpretar uma sentença, não basta a leitura de seu dispositivo. O dispositivo deve ser interpretado de forma integrada com a fundamentação, que lhe dá o sentido e o alcance" (REsp n. 1.653.151/SP, Rel. Ministra Nancy Andrighi, 3ª T., DJe 12/06/2017).
+Apenas com o propósito de afastar qualquer obscuridade, reitero que a decisão embargada fixou o regime semiaberto para cada um dos delitos imputados (roubo e tráfico de drogas), mas não impediu, em nenhum momento, o estabelecimento do regime fechado ao embargado como consequência do somatório das penas de ambos, tendo em vista que o concurso de crimes, no caso, conduz a pena superior a oito anos de reclusão.
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
