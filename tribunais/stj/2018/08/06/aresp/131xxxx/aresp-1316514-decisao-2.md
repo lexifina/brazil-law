@@ -1,0 +1,41 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO. NULIDADE DE INTIMAÇÃO. PROCURADOR FALECEU NO CURSO DO PROCESSO. AUSÊNCIA DE COMUNICAÇÃO DO ÓBITO PELO MUNICÍPIO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial manejado pelo Município de Itaperuna em face de decisão do Tribunal de Justiça do Estado do Rio de Janeiro, que negou admissibilidade a recurso contra acórdão assim ementado:
+AGRAVO INOMINADO EM APELAÇÃO CÍVEL. AGRAVO CONTRA DECISÃO MONOCRÁTICA DO RELATOR QUE DEU PROVIMENTO AO RECURSO. AGRAVO CONTRA DECISÃO MONOCRÁTICA DO RELATOR QUE DEU PROVIMENTO AO RECURSO. TRIBUTÁRIO. APELAÇÃO CÍVEL NOS EMBARGOS DO DEVEDOR. EXECUÇÃO EM FACE DA FAZENDA PÚBLICA. CONSTITUCIONAL E ADMINISTRATIVO. LEI MUNICIPAL QUE RESPALDA A EQUIPARAÇÃO DO VENCIMENTO DO IMPETRANTE AOS VENCIMENTOS DOS SECRETÁRIOS MUNICIPAIS. SENTENÇA EM MANDADO DE SEGURANÇA TRANSITADA EM JULGADO. EMENDA CONSTITUCIONAL Nº 41/2003. INCIDÊNCIA IMEDIATA. POSSIBILIDADE. PRECEDENTES DESTA CORTE E DO STF. NO CASO DOS AUTOS O VENCIMENTO DO IMPETRANTE DEVERÁ SER EQUIPARADO AOS VENCIMENTOS DOS SECRETÁRIOS MUNICIPAIS, RESPEITADO O TETO REMUNERATÓRIO. ALEGAÇÃO DE EXCESSO DE EXECUÇÃO NÃO CONFIGURADA, CONFORME SE VERIFICA DOS CÁLCULOS DO CONTADOR. IMPROCEDÊNCIA DOS EMBARGOS. INCIDÊNCIA DE JUROS MORATÓRIOS E HONORÁRIOS SUCUMBENCIAIS QUE MERECEM REFORMA. DE OFÍCIO, REPARAÇÃO QUANTO À CORREÇÃO MONETÁRIA. PARCIAL PROVIMENTO AO RECURSO.
+1. O STF tem indicado a possibilidade de incidência imediata do teto remuneratório estabelecido pela EC nº 41/2003, apesar de divergente o tema.
+2. Inexistindo normas constitucionais de eficácia absoluta, os princípios da segurança jurídica, da confiança e da irredutibilidade de vencimentos devem ser ponderados com os demais princípios constitucionais que concorrem na hipótese.
+3. Precedentes desta Corte de Justiça e do E. STF.
+4. Na hipótese, a decisão que conferiu o direito à equiparação do vencimento do impetrante aos vencimentos dos Secretários Municipais já transitou em julgado.
+5. Cálculo do contador que afastou a alegação de excesso de execução. Contudo, equivocou-se quando da aplicação dos juros moratórios e da correção monetária.
+7. Valor fixado a título de honorários sucumbenciais que não se encontram razoáveis ao caso em tela, por se tratar de condenação da Fazenda Pública, necessitando ser adequado.
+8. Dou parcial provimento ao apelo, na forma do artigo 557, § 1º-A, do CPC, para reduzir a verba honorária para o valor de R$ 800,00 (oitocentos reais) e ajustar a incidência de juros de mora e de correção monetária, determinando que os juros de mora observem o percentual de 0,5% (meio por cento) ao mês, a partir da MP nº 2.180-35/2001 até o advento da Lei nº 11.960, de 30/6/2009, que deu nova redação ao art. 1º-F da Lei nº 9.494/97, bem como que a remuneração da caderneta de poupança, a partir da vigência da Lei nº 11.960/2009, a contar da data da citação, e, de ofício, que a correção monetária seja calculada com base na variação do IPCA, a contar de cada pagamento a menor até o efetivo pagamento, mantendo no mais a sentença prolatada.
+AUSÊNCIA DE ARGUMENTO NOVO QUE JUSTIFIQUE A REVISÃO DO JULGADO. NEGA-SE PROVIMENTO AO RECURSO.
+O Município interpôs agravo interno, que ficou ementado da seguinte forma:
+PROCESSO CIVIL. EMBARGOS À EXECUÇÃO. AGRAVO INTERNO CONTRA DECISÃO UNIPESSOAL DO RELATOR QUE INDEFERIU O PEDIDO DE REPUBLICAÇÃO DA DECISÃO MONOCRÁTICA. DESPROVIMENTO.
+1. A publicação feita em nome do procurador falecido não trouxe qualquer prejuízo ao Município, que vem acompanhando o processo regularmente, tendo inclusive oferecido apelação.
+2. O próprio Município afirma que o procurador faleceu em 2008, caberia à parte requerer a regularização da representação processual na primeira oportunidade, não sendo crível alegar nulidade processual em momento posterior. "Nulidade de algibeira".
+3. Ao contrário do que alega o agravante, o referido procurador atuou sim nos autos dos embargos à execução e tendo em vista o seu falecimento ocorrido em 2008 no curso do processo, caberia ao Município informar, o que não foi feito.
+4. Desprovimento do recurso.
+No especial, fundamentado no artigo 105, III, "a", da Constituição Federal, o agravante apontou contrariedade ao art. 5º, LV, da CF/1988, art. 280 c/c art. 75, III, do CPC/2015, alegando em síntese que a intimação do acórdão foi feita em nome de um procurador do Município que já faleceu, prejudicando o ente.
+Apresentadas contrarrazões.
+O Tribunal de origem não admitiu o recurso especial por entender que a análise da tese suscitada demanda reexame de fatos e provas, o que encontra óbice na Súmula 7/STJ.
+O agravante rechaça o fundamento mencionado.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O agravante impugnou os fundamentos adotados na decisão de inadmissibilidade, razão pela qual, passo a análise do recurso especial, o qual não merece prosperar.
+Isso porque o Tribunal de origem, soberano na análise dos fatos, entendeu que (fl. 599-e):
+Ao contrário do que alega o agravante verifico que na petição inicial dos embargos à execução às fls. 02/11-000002 consta a assinatura do procurador [NOME].
+Logo, o referido procurador atuou sim nos autos dos embargos à execução e tendo em vista o seu falecimento ocorrido em 2008 no curso do processo, caberia ao Município informar, o que não foi feito.
+Também não merece prosperar a alegação de que o erro na publicação ocorreu somente após a apelação, uma vez que constam diversas publicações na demanda em data posterior ao falecimento do procurador.
+Como bem ressaltado pela decisão ora agravada, o Município vem acompanhando o processo regularmente, caberia à parte requerer a regularização da representação processual na primeira oportunidade, não sendo crível alegar nulidade processual em momento posterior.
+Assim, tendo a Corte a quo concluído que cabia ao Município informar o falecimento de seu Procurador para que o processo fosse regularizado, alterar esse entendimento, como requer a edilidade, no sentido de que é nula a intimação feita em nome do advogado falecido, demanda o reexame do conjunto fático-probatório dos autos, o que atrai a incidência da Súmula 7/STJ.
+No mesmo sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. NULIDADE DE INTIMAÇÃO. ALEGADA NEGATIVA DE PRESTAÇÃO JURISDICIONAL INEXISTENTE. FUNDAMENTAÇÃO CONSTITUCIONAL E INFRACONSTITUCIONAL. RECURSO EXTRAORDINÁRIO NÃO INTERPOSTO. APLICAÇÃO DA SÚMULA 126/STJ. QUESTÃO DECIDIDA PELO TRIBUNAL DE ORIGEM COM BASE NO SUPORTE FÁTICO DOS AUTOS. IMPOSSIBILIDADE DE ALTERAÇÃO DO JULGADO. AGRAVO INTERNO DA EMPRESA DESPROVIDO.
+1. Alegada negativa de prestação jurisdicional inexiste, visto que a Corte de origem apreciou todas as questões relevantes ao deslinde da controvérsia de modo integral e adequado, com fundamentos suficientes, mediante consideração de disciplinas normativas e cotejo ao posicionamento jurisprudencial aplicável à espécie, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+2. O Tribunal de origem, ao julgar o recurso de Apelação, utilizou fundamento constitucional (Princípio da Ampla Defesa e do Contraditório) e infraconstitucional. Contudo, não consta dos autos a interposição do competente Recurso Extraordinário, a fim de impugnar essa motivação, suficiente à manutenção do aresto. Incide, na hipótese, a Súmula 126/STJ.
+3. A análise da controvérsia qual seja, a nulidade da intimação, demanda, necessariamente, o reexame de matéria probatória constante dos autos, o que é inviável em sede de Recurso Especial.
+4. Agravo Interno da empresa desprovido.
+(AgInt no REsp 1608254/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 12/09/2017, DJe 22/09/2017)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
