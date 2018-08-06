@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de OZEQUIEL MORAES em face do acórdão proferido pelo Tribunal de Justiça de Santa Catarina, que indeferiu revisão criminal na origem.
+Requer a concessão da ordem para que seja reconhecida a absolvição imprópria com aplicação de medida de segurança (fl. 5).
+Consta dos autos que o paciente foi condenado pela prática do delito previsto no art. 250, § 2º, II, a, do Código Penal, a 4 anos de reclusão em regime aberto, pena que foi substituída por duas restritivas de direitos, tendo interposto recurso de apelação que foi improvido pela Corte local.
+Após o trânsito em julgado da sentença, a defesa ajuizou revisão criminal que não foi conhecida, motivo pelo qual foi impetrado o HC n. 328.763/SC, no qual a ordem foi concedida para o Tribunal apreciasse o mérito da ação autônoma, que novamente indeferiu o pedido revisional, por acórdão assim ementado (fl. 386):
+REVISÃO CRIMINAL - PRETENDIDA A MODIFICAÇÃO DA SENTENÇA CONDENATÓRIA - APRESENTAÇÃO DE PROVA NOVA - LAUDO MÉDICO ATESTANDO A INIMPUTABILIDADE DO REEDUCANDO À ÉPOCA DA PRÁTICA DO ATO DELITUOSO - AUSÊNCIA DE SUBSUNÇÃO DO PLEITO COM AS HIPÓTESES AUTORIZADORAS DA AÇÃO REVISONAL (CPP, ART. 621, I A III) - CASO, NO MÁXIMO, DE ISENÇÃO DE PENA E DE APLICAÇÃO DE MEDIDA DE SEGURANÇA - COMPETÊNCIA DO JUÍZO DA EXECUÇÃO PENAL - PEDIDO INDEFERIDO.
+A liminar foi indeferida e as informações foram prestadas.
+O Ministério Público Federal manifestou-se pelo não conhecimento ou pela concessão da ordem.
+Na origem, conforme as informações eletrônicas disponíveis em 30/7/2018, foi proferida decisão interlocutória determinando que o apenado fosse encaminhado ao CAPS de Chapecó, para a realização de tratamento ambulatorial para a esquizofrenia, enquanto não decidida a revisão criminal, com a suspensão da prestação de serviços à comunidade.
+É o relatório.
+DECIDO.
+O acórdão que indeferiu a revisão criminal possui os seguintes fundamentos (fls. 388/390):
+ .. . O objeto da presente revisão limita-se em verificar se, na data dos fatos, o acusado efetivamente detinha condição de incapacidade absoluta para entender o caráter delituoso do ato cometido e de determinar-se de acordo com esse entendimento, circunstância que, no entender do requerente, autorizaria sua absolvição imprópria.
+De início, convém destacar que, diante da relevância constitucional do instituto da coisa julgada (CF/88, art. 5º, XXXVI), as hipóteses legais autorizadoras do ajuizamento da revisão criminal (CPP, art. 621, I a III) devem ser interpretadas restritivamente, de modo a obstar sua utilização como verdadeiro sucedâneo recursal.
+Dentre os casos relacionados à revisão criminal, destaca-se o
+disposto no inciso III do artigo 621 do Código de Processo Penal, assim disposto:
+ ..
+Na situação em tela, conforme destacado quando da apreciação da revisão criminal anterior, os fundamentos da postulação circundam-se na existência de nova prova hábil a reformar a sentença condenatória, qual seja, a confecção de laudo pericial médico (insanidade mental -fls. 106/113).
+Acerca desse tema, importante destacar o ensinamento de [NOME]:
+ ..
+Desse modo, autoriza-se a revisão se novas provas possuírem força capaz de indicar a absolvição do condenado ou a redução da sua pena.
+Fixada referida premissa, cumpre destacar que o indeferimento do pedido revisional é medida que se impõe.
+Isso porque, verifica-se que o reeducando pugna pela revisão do decisum de primeiro grau para fins de reconhecimento de sua inimputabilidade, com o respectivo decreto de absolvição (própria ou imprópria), nos termos do laudo médico juntado às fls. 106/113, entretanto, tal situação, não encontra amparo em quaisquer hipóteses autorizadoras da ação impugnativa (CPP, art. 621, I a III).
+Com efeito, a nova prova descoberta, relacionada à condição de insanidade mental do requerente, configura, no máximo, caso de isenção de pena, nos termos do art. 98 do Código Penal, tratando-se, pois, de situação diversa da alegada inocência, hipótese elencada no inciso III do art. 621 do CPP. Além disso, não obstante a nova situação fática reconhecida pelo exame pericial acostado aos autos, tal descoberta sequer autoriza a diminuição da pena do requerente, conforme disposição expressa do art. 26 do Código Penal.
+Desse modo, diante da confirmação do caráter de inimputável atribuído ao reeducando após a prolação da sentença condenatória transitada em julgado, a solução cabível é a aplicação do disposto no art. 98 do Código Penal, ou seja, em face da necessidade de especial tratamento curativo ao condenado, poderá o magistrado substituir a pena privativa de liberdade estabelecida por medidas de segurança, tais como a internação ou tratamento ambulatorial, por um período mínimo de 1 (um) a 3 (três) anos.
+E, nesse contexto, conquanto a nova prova juntada não tenha o condão de inocentar o requerente, tampouco determinar a redução da reprimenda fixada, a possibilidade da modificação da pena privativa de liberdade por medidas de segurança deverá ser objeto de apreciação pelo Juízo da Execução Penal, em razão da competência firmada no art. 66, inciso V, alínea "d", da LEP.
+Registre-se, ainda, segundo explicitado pela Procuradoria-Geral de Justiça às fls. 111/115, que "constatada a inimputabilidade ab initio o magistrado não deverá proferir decisão absolutória, pois afasta apenas a culpabilidade por ausência de entendimento do caráter ilícito do fato ou de auto-determinação de acordo com o entendimento, mas não há exclusão do crime, porque permite a aplicação de medida de segurança em benefício do réu ou para seu tratamento.".
+À vista do exposto, o voto é no sentido de indeferir o pedido. .. .
+Como se vê, o Tribunal a quo decidiu que, embora tenha sido comprovada a inimputabilidade do paciente, não estaria configurada a hipótese prevista no inciso III do art. 621 do CPP, considerando que caberia ao magistrado substituir a pena privativa de liberdade estabelecida por medidas de segurança, motivo pelo qual indeferiu o pedido revisional.
+Contudo, consoante se extrai do acórdão impugnado, verifica-se que o pleito revisional funda-se na existência de nova prova decorrente da comprovação da insanidade mental por meio de laudo pericial, de modo que se mostra cabível a pretensão por meio da revisão criminal, nos termos do art. 621, III, do CPP, tendo em vista a possibilidade da absolvição imprópria.
+Vejam-se, a propósito, os precedentes da Suprema Corte:
+EMENTA: - Habeas corpus. 2. Art. 12, da Lei n.º 6.368/76. Crime de ação múltipla. 3. Pretensa inimputabilidade. A dependência, por si só, não exclui o tráfico, se o agente goza plenamente das faculdades mentais, como atestam os laudos periciais. 4. Juntada de novos laudos. Inviabilidade de exame em habeas corpus. Matéria que somente poderá ser deduzida em revisão criminal. 5. Habeas corpus indeferido.
+(HC 73841, Relator(a): Min. NÉRI DA SILVEIRA, Segunda Turma, julgado em 10/06/1996, DJ 06-10-2000 PP-00080 EMENT VOL-02007-01 PP-00115).
+COMPETÊNCIA - HABEAS-CORPUS - ATO DE TRIBUNAL DE ALÇADA CRIMINAL. Na dicção da ilustrada maioria, em relação à qual guardo reservas, compete ao Supremo Tribunal Federal julgar todo e qualquer habeas-corpus dirigido contra ato de tribunal, ainda que não possua a qualificação de superior. Convicção pessoal colocada em segundo plano, em face de atuação em Órgão fracionário. INIMPUTABILIDADE - ESTADO DE MORBIDEZ - DESCONHECIMENTO DO JUÍZO. Não tendo sido empolgada a inimputabilidade do acusado, descabe cogitar de constrangimento ilegal, no que o Juízo não adentrou no campo da realização da perícia. O habeas-corpus pressupõe ato de constrangimento. Viabilidade, em tese, de a matéria vir a ser ferida em revisão criminal.
+(HC 73716, Relator(a): Min. MARCO AURÉLIO, Segunda Turma, julgado em 24/09/1996, DJ 14-11-1996 PP-44470 EMENT VOL-01850-03 PP-00448).
+Nesse mesmo sentido, confira-se entendimento desta Corte:
+CRIMINAL. HC. LESÃO CORPORAL GRAVE. NULIDADE AB INITIO DO PROCESSO CRIMINAL. INIMPUTABILIDADE DO PACIENTE À ÉPOCA DA PRÁTICA DELITUOSA. SUPRESSÃO DE INSTÂNCIA. REVISÃO CRIMINAL POSSÍVEL, PERANTE O TRIBUNAL A QUO. WRIT NÃO-CONHECIDO.
+Evidenciado que a questão ora levantada não foi ventilada nas instâncias ordinárias, não se conhece da alegada nulidade ab initio do processo criminal, por inimputabilidade do paciente à época dos fatos delituosos, sob pena de indevida supressão de instância.
+Tema que deve ser examinado por quem detenha a jurisdição criminal plena do feito, podendo ser suscitado em sede de revisão criminal, a ser interposta perante o e. Tribunal a quo, se for o caso - o que, em princípio, é possível, tendo em vista o trânsito em julgado do acórdão ora atacado, proferido em 17/04/1985.
+Writ não-conhecido.
+(HC 22.150/SP, Rel. Ministro GILSON DIPP, QUINTA TURMA, julgado em 21/11/2002, DJ 03/02/2003, p. 327).
+Desse modo, comprovada a inimputabilidade do acusado (fls. 50/56), anulo a sentença condenatória, para absolver o paciente, com a fixação de medida de segurança, a ser estabelecida pelo Juízo de Execução.
+Ante o exposto, concedo o habeas corpus, para anular a sentença condenatória e absolver o paciente OZEQUIEL MORAES, com a fixação de medida de segurança, a ser estabelecida pelo Juízo de Execução.
+Comunique-se.
+Publique-se.
+Intimem-se.
