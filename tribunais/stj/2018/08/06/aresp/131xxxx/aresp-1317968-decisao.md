@@ -1,0 +1,37 @@
+EMENTA
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. FORNECIMENTO DE MEDICAMENTOS. FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL NÃO IMPUGNADOS. ARTIGO 932, III, DO CPC/2015. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo Estado da Bahia, em face de decisão proferida pelo Tribunal de Justiça do Estado da Bahia que inadmitiu o recurso especial manejado contra acórdão assim ementado (fl. 189 e-STJ):
+ADMINISTRATIVO E CONSTITUCIONAL. APELAÇÃO CÍVEL EM AÇÃO CIVIL PÚBLICA MOVIDA PELO MINISTÉRIO PÚBLICO DO ESTADO DA BAHIA. DECISÃO RECORRIDA QUE, AO RATIFICAR OS TERMOS DA ANTECIPAÇÃO DOS EFEITOS DA TUTELA, DETERMINOU QUE OS REQUERIDOS CUSTEASSEM TODAS AS DESPESAS COM TRATAMENTO MÉDICO DO APELANTE. DIREITO À SAÚDE. NECESSIDADE DEMONSTRADA.
+1. Os entes públicos, conforme disposição legal expressa e na esteira do entendimento jurisprudencial, são solidariamente responsáveis pela prestação do direito à saúde, cabendo ao requerente formular em face de qualquer deles a pretensão.
+2. O Judiciário pode, e deve, intervir em situações nas quais o Poder Executivo não efetive os direitos fundamentais do indivíduo. Trata-se de exercício de sua missão constitucional de fazer cumprir e respeitar as normas legais em vigor no art. 5º, inciso XXXV, da Constituição Federal, ou seja, o princípio da inafastabilidade do judiciário.
+3. Apelo conhecido e improvido.
+Houve a oposição de embargos de declaração, os quais foram rejeitados nos seguintes termos (fl. 206 e-STJ):
+DIREITO PROCESSUAL CIVIL E DO CONSUMIDOR. EMBARGOS DE DECLARAÇÃO. ARTIGO 535 DO CÓDIGO DE PROCESSO CIVIL. OMISSÃO, CONTRADIÇÃO E/OU OBSCURIDADE. INOCORRÊNCIA. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. FUNDAMENTAÇÃO VINCULADA. PELO NÃO ACOLHIMENTO.
+1. O artigo 535 do Código de Processo Civil é suficientemente claro ao estabelecer que são cabíveis os embargos de declaração quando houver, na sentença ou no acórdão, obscuridade ou contradição ou quando for omitido ponto sobre o qual devia pronunciar-se o juiz ou tribunal.
+2. Para haver omissão, mister que o acórdão recorrido não tenha tratado das questões relevantes para o julgamento, suscitadas pelas partes ou examináveis de oficio, o que não ocorreu, pois que, conforme se depreende da leitura dos trechos retirados do acórdão de fls. 162-166, todos os pontos referidos pelo embargante foram exaustivamente tratados quando do julgamento.
+3. Verifica-se que, em realidade, pretende o embargante rediscutir a matéria já decidida, situação não admitida em sede de embargos de declaração, recurso cuja fundamentação é vinculada. Precedentes.
+4. Pelo conhecimento e não acolhimento dos aclaratórios.
+A recorrente interpôs recurso especial com fundamento no artigo 105, III, alínea "a" do permissivo constitucional, alegando violação aos seguintes artigos: a) 535, II, do CPC/1973, eis que o Tribunal de origem não se manifestou acerca de todas as teses suscitadas pelo recorrente; b) 19-T, caput e inciso I, da Lei 12.401/2011, sustentando que o medicamento em questão não foi incorporado pelo SUS, motivo pelo não pode ser despendido pelo Estado; c) 1º da Lei 8.437/92, uma vez que a antecipação de tutela no caso em análise é ilegal, pois ocorreu sem que fosse oportunizada a manifestação do Estado da Bahia.
+Contrarrazões às fls. 257/287 e-STJ.
+A Corte de origem inadmitiu o recurso especial sob o fundamento de que: a) não há falar em negativa de prestação jurisdicional; b) os dispositivos indicados como violados não foram prequestionados; c) a pretensão demanda o revolvimento do conjunto fático-probatório dos autos, o que é vedado pela Súmula 7/STJ; d) o entendimento do Tribunal de origem está em consonância com a orientação desta Corte Superior sobre o tema.
+Nas suas razões de agravo, o agravante alega que o agravo em recurso especial reúne todas as condições para seu conhecimento.
+Contraminuta às fls. 351/389 e-STJ.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A decisão agravada negou seguimento ao recurso especial sob o fundamento de que: a) não há falar em negativa de prestação jurisdicional; b) os dispositivos indicados como violados não foram prequestionados; c) a pretensão demanda o revolvimento do conjunto fático-probatório dos autos, o que é vedado pela Súmula 7/STJ; d) o entendimento do Tribunal de origem está em consonância com a orientação desta Corte Superior sobre o tema.
+Com efeito, a parte agravante limitou-se a defender a violação ao art. 535 do CPC/1973, que o julgado colacionado pela decisão de inadmissibilidade não guarda identidade com a hipótese dos autos e que a mera leitura do apelo nobre evidencia como os dispositivos indicados foram violados. Além disso, trouxe fundamentação doutrinária e jurisprudencial sobre a revaloração das provas em sede de recurso especial, mas em momento algum indicou como seria possível aplicar tal técnica às razões do acórdão recorrido, o que denota um combate genérico à incidência da Súmula 7/STJ.
+Observa-se, portanto, que, além de não ter combatido a alegada ausência de prequestionamento, o agravante trouxe fundamentação genérica quanto aos demais óbices apontados pela decisão de inadmissibilidade.
+Conforme disposição dos artigos 932, III, do CPC/2015, e 253, parágrafo único, inciso I, do RISTJ, o agravo que não afasta todos os fundamentos que levaram à inadmissão do recurso especial, não deve ser conhecido. A propósito:
+Art. 932. Incumbe ao relator:
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente.
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá:
+I - não conhecer do agravo que for manifestamente inadmissível, intempestivo, infundado ou prejudicado, ou que não tiver atacado especificamente todos os fundamentos da decisão agravada; (RISTJ)
+Nesse sentido, ressalta-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM. INSUFICIÊNCIA DE ALEGAÇÃO GENÉRICA. AGRAVO NÃO PROVIDO.
+1. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 544, § 4º, inc. I, do CPC/1973 (art. 932, III, do CPC/2015) e art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado. Precedentes.
+2. Agravo interno não provido.
+(AgInt no AREsp 939.050/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/10/2016, DJe 28/10/2016)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
