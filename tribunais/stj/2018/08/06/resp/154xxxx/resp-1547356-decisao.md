@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA - ANEEL com fulcro na(s) alínea(s) "a" do permissivo constitucional, contra acórdão assim ementado:
+AGRAVO. ANULAÇÃO DE MULTA. CLAUSULA DE FORO. INAPLICABILIDADE. ANEEL. CONCESSIONÁRIA.
+É inaplicável ao caso dos autos a cláusula de eleição do foro, porquanto ela é destinada, exclusivamente, para dirimir as dúvidas e controvérsias por ventura surgidas entre a concessionária e a concedente, em vista de divergência na interpretação ou na execução do contrato de concessão, tal como claramente disposto no contrato. Vê-se, portanto, que em se tratando de simples pedido de anulação de multa aplicada pela ANEEL por descumprimento de suas resoluções normativas, que por certo, não envolve discussão acerca das cláusulas do contrato de concessão, não há falar na competência da Justiça Federal de Brasília/DF, sendo competente, sim, a Justiça Federal de Curitiba/PR.
+Rejeitados os aclaratórios.
+Nas suas razões, o (a) recorrente aponta violação dos seguintes dispositivos legais: 111 e 535 do CPC/1973, e 55 da Lei n. 8.666/1993. Defende, em suma, a validade da cláusula de eleição do foro prevista no contrato.
+Contrarrazões às e-STJ fls. 176/180.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado 2).
+Isso considerado, destaco que o Superior Tribunal de Justiça firmou o entendimento de que não há violação do art. 535, II, do CPC/1973, muito menos negativa de prestação jurisdicional, quando o acórdão "adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, para decidir de modo integral a controvérsia posta" (AgRg no REsp 1340652/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/11/2015, DJe 13/11/2015).
+Acerca do tema, conferir, ainda: REsp 1388789/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 15/12/2015, DJe 04/03/2016, e AgRg no REsp 1545862/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 10/11/2015, DJe 18/11/2015.
+No caso, o julgado recorrido decidiu de forma suficientemente fundamentada sobre o tema acerca do qual se considerou maculado aquele preceito legal.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes nem tampouco a rebater um a um todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie (AgRg no AREsp 163417/AL, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 29/09/2014).
+Dito isso, constato que o Regional manteve decisão que rejeitara exceção de incompetência por reputar inaplicável ao caso a cláusula de eleição do foro prevista em contrato, porquanto seria "destinada, exclusivamente, para dirimir as dúvidas e controvérsias por ventura surgidas entre a concessionária e a concedente, em vista de divergência na interpretação ou na execução do contrato de concessão, tal como claramente disposto no contrato."
+Daí concluiu que, como na hipótese havia "simples pedido de anulação de multa aplicada pela ANEEL por descumprimento de suas resoluções normativas," seria competente para dirimir a questão a Justiça Federal de Curitiba/PR (e-STJ fls. 139/140).
+Destarte, induvidoso que o discordar daquelas conclusões impõe nova interpretação das cláusulas contratuais, providência sabidamente vedada no âmbito do apelo nobre em face do teor da Súmula 5 desta Corte.
+Sobre o tema:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE OFENSA AO ART. 535 DO CPC/1973. DEVIDA PRESTAÇÃO JURISDICIONAL. ELEIÇÃO DE FORO. CLÁUSULA LIMITATIVA. INEXISTÊNCIA. SÚMULA N. 5/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973 quando o acórdão recorrido analisou todas as questões pertinentes para a solução da lide, pronunciando-se, de forma clara e suficiente, sobre a controvérsia estabelecida nos autos.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contrato firmado entre as partes (Súmula n. 5 do STJ). 3. No caso concreto, o Tribunal de origem analisou o contrato para concluir que inexistente cláusula restritiva da eleição de foro. Alterar esse entendimento demandaria reexame do contrato, vedado em recurso especial.
+4. Agravo interno desprovido.
+(AgInt no AREsp 585.686/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/04/2018, DJe 02/05/2018)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. COMPETÊNCIA. AUTARQUIA FEDERAL. VALIDADE DA CLÁUSULA DE ELEIÇÃO DE FORO. SÚMULAS 5 E 7/STJ.
+1. É firme a jurisprudência do STJ no sentido de que nas controvérsias entre concessionária e autarquia é válida a cláusula de eleição de foro.
+2. O Tribunal de origem consignou: "Conforme a referida cláusula contratual, as partes elegeram livremente e de comum acordo o Foro da Justiça Federal da Subseção Judiciária de Brasília/DF para dirimir questões relativas ao pacto firmado entre as partes. Assim, a cláusula de eleição de foro é válida, não havendo razões para deixar de reconhecer a validade do aludido foro de eleição, nos termos do disposto no art. 111, do CPC, e da Súmula nº 335 do STF".
+3. Desse modo, rever tal entendimento, com o objetivo de acolher a pretensão recursal, para excluir a cláusula de eleição de foro demanda interpretação de cláusula contratual, o que é inadmissível na via estreita do Recurso Especial, ante o óbice da Súmula 5/STJ: "A simples interpretação de cláusula contratual não enseja recurso especial".
+4. Recurso Especial não provido.
+(REsp 1524292/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/12/2016, DJe 06/03/2017)
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Publique-se. Intimem-se.
