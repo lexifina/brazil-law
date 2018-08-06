@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por D G M Eletro-moveis Ltda., desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 77):
+Agravo Inominado, com base no art. 557, § 12, do CPC. Agravo de Instrumento. Execução fiscal. Decisão que determinou a expedição do mandado de penhora de renda diária da executada no montante
+de 5% (cinco por cento), no prazo de 48 (quarenta e oito) horas. Decisão não teratológica. Ausência de violação ao princípio da menor onerosidade para o devedor. Não demonstração de qu o ato de constrição deferido importará na alegada inviabilização do desenvolvimento da atividade empresarial. Negou-se seguimento ao recurso na forma do artigo 557, caput, do CPC. Agravo Inominado a que se nega provimento.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 620 e 655 do CPC/73. Sustenta, em síntese, que: "a penhora não deva recair sobre o faturamento diário da receita Bruta da Executada ou mensalmente, reconhecendo- se, ainda, que o percentual de 5% da arrecadação bruta da recorrente coloca em risco as atividades da empresa, percentual este que NÃO encontra respaldo nos princípios da proporcionalidade e da razoabilidade, até porque, como se viu, os interesses do credor podem ser satisfeitos PLENAMENTE E DA MESMA FORMA EM DINHEIRO e de outra forma que não vem a violar os princípios do artigo 620 e Sumula 417 do STJ assim como suas R. decisões REPETITIVAS" (fl. 110)
+É o relatório.
+Registre-se, de logo, que a decisão recorrida foi publicada na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+No que diz respeito à alegada penhora sobre o faturamento da empresa, o Tribunal de origem se manifestou da seguinte forma (fl. 82):
+Assim se decide porque, a penhora de 5% sobre a renda da agravante, não viola o princípio da menor onerosidade para o devedor, devendo a execução ser realizada no interesse do credor, não se podendo permitir que este venha a sofrer entraves na perseguição de seu crédito. Saliente-se que, não há demonstração da alegada inviabilidade da manutenção das atividades da empresa, sendo o percentual razoável e compatível com o prosseguimento dos seus negócios.
+Nesse sentido, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais acerca da correta aplicação do princípio da menor onerosidade, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+À propósito:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. PENHORA SOBRE O FATURAMENTO DA EMPRESA. ART. 620 DO CPC. PRINCÍPIO DA MENOR ONEROSIDADE. SÚMULA 7/STJ. INEXISTÊNCIA DE JULGAMENTO EXTRA PETITA. AGRAVO NÃO PROVIDO.
+1. A verificação da não observância ao art. 620 do CPC, que cuida do princípio da menor onerosidade, demandaria, no caso, o reexame de matéria fática, o que encontra óbice no enunciado sumular 7/STJ.
+2. "Não há vício da sentença "quando a decisão proferida corresponde a um minus em relação a ambas as pretensões em conflito" (RTJ 86/367), nem se julgada procedente em parte a ação, porque no pedido mais abrangente se inclui o de menor abrangência (RE n.
+100.894-6-RJ, Rel. Min. Moreira Alves)" (REsp 121.344/RJ, Rel. Min.
+JOÃO OTÁVIO DE NORONHA, Segunda Turma, DJ 9/2/05).
+3. Agravo regimental não provido.
+(AgRg no Ag 1.423.469/MG, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, julgado em 2/5/13, DJe 10/5/13)
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
