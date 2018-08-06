@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ADAO RAMOS NOGUEIRA JUNIOR, em face de decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o juízo de primeiro grau declarou a extinção da punibilidade do paciente pela ocorrência da prescrição.
+Ato seguinte, o Ministério Público interpôs recurso em sentido estrito perante a Corte de origem, a qual lhe julgou procedente afastando a prescrição. A defesa opôs embargos de declaração, os quais foram rejeitados.
+No presente habeas corpus, alega a ocorrência de constrangimento ilegal sob o argumento de que deveria ser reconhecida a prescrição, porquanto somente pode ser considerado acórdão condenatório e, consequentemente, interromper o prazo de prescrição, aquele que modifica a sentença de primeiro grau parcial ou integralmente, o que não ocorreu no caso em que envolve o paciente.
+Requer a concessão da ordem constitucional para que seja declarada a extinção da punibilidade do paciente.
+Prestadas as informações, manifestou-se o Ministério Público Federal pela concessão da ordem.
+É o relatório.
+DECIDO.
+No concernente ao pleito de reconhecimento da prescrição da pretensão punitiva, tem-se que o Tribunal a quo proveu o recurso em sentido estrito, nos seguintes termos (fls. 27/33):
+É dos autos que o recorrido Adão foi denunciado e, posteriormente, condenado como incurso no artigo 168, § 1o, inciso III, do Código Penal, às penas de 01 (um) ano e 04 (quatro) meses de reclusão, além do pagamento de 13 (treze) dias-multa, no piso legal, substituída a pena privativa de liberdade em uma restritiva de direitos (prestação de serviços à comunidade), por sentença publicada em 14/09/2010 (fls. 94/98 e 99). A defesa interpôs recurso de apelação, o qual foi julgado improcedente, mantendo-se a condenação conforme proferida (fls. 128/134). O v. acórdão foi publicado em 12/03/2014 (fls. 135).
+Com razão o inconformismo ministerial.
+Deste cenário, conclui-se pela inocorrência da prescrição da pretensão punitiva como afirmado na r. decisão vergastada, posto que, entre a publicação da r. sentença condenatória recorrível e a publicação do v. acórdão que a manteve, bem como desta até a presente data, não decorreu lapso superior a 04 (quatro) anos, prazo aplicável em razão da pena em concreto.
+A publicação de acórdão que mantém a condenação consiste em marco interruptivo da prescrição, nos termos do artigo 117, inciso IV, do Código Penal, na medida em que é acordão condenatório.
+Como decorrência do efeito substitutivo, inerente a qualquer espécie de recurso, o acórdão proferido substitui a decisão condenatória recorrida, independente de alterar ou mantê-la. Assim, nesta hipótese, certamente se está diante de acórdão condenatório. posto que, por certo, de absolutório não se cuida.
+Ademais, ao estabelecer a "publicação de acórdão condenatório" como marco interruptivo da prescrição, o legislador ordinário não fez qualquer distinção entre as decisões colegiadas que reformam sentença absolutória ou as que apenas confirmam o desate condenatório proposto pelo juízo "a quo", razão pela qual é vedado ao intérprete fazê-lo.
+Não reconhecer a publicação do "acórdão confirmatório da condenação" como marco interruptivo da prescrição, tal como pretende a n. defensora, ensejaria a interposição de reiterados recursos (embargos de declaração, recurso especial e/ou recurso extraordinário), com mero intuito procrastinatório. com o escopo, unicamente, de se obter a extinção da punibilidade por tal instituto, sem sequer o condenado cumprir efetivamente a reprimenda, principalmente em condenações por crimes cometidos sem violência ou grave ameaça contra a pessoa, com imposição de pena não substancial, casos estes que, em regra, não se impõe prisão cautelar.
+ ..
+Conclui-se, portanto, pela inocorrência da prescrição da pretensão punitiva, vez que não decorreu o lapso prescricional aplicável à espécie entre a publicação da r. sentença condenatória recorrível e a publicação do v. acórdão que a manteve, bem como desta até a presente data.
+Com efeito, nota-se que o Tribunal de origem afastou a prescrição da pretensão punitiva anteriormente reconhecida por considerar que a publicação de acórdão que mantém a condenação consiste em marco interruptivo da prescrição, nos termos do artigo 117, inciso IV, do Código Penal, na medida em que é acordão condenatório.
+O entendimento, contudo, está em desacordo com a compreensão desta Corte superior, no sentido de que o acórdão do Tribunal que confirma a sentença condenatória não constitui marco interruptivo da prescrição, conforme os seguintes julgados:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. MARCOS INTERRUPTIVOS. ACÓRDÃO CONFIRMATÓRIO DA CONDENAÇÃO. NÃO OCORRÊNCIA DE INTERRUPÇÃO DO LAPSO PRESCRICIONAL. INSURGÊNCIA DESPROVIDA.
+1. O acórdão proferido por Tribunal, que mantém a condenação imposta pelo Juízo de primeiro grau, não constitui marco interruptivo do prazo prescricional. Precedentes.
+2. Na hipótese dos autos, em recurso exclusivo da defesa, o Tribunal de origem manteve a condenação nos exatos termos da sentença. Com efeito, tal ato jurisdicional não se conforma teleologicamente com o conceito de acórdão condenatório, conforme o previsto no artigo 117, inciso IV, segunda parte, do Código Penal, tendo em vista que a pretensão condenatória já fora alcançada na sentença singular.
+3. Agravo regimental desprovido.
+(AgRg no REsp 1706083/MS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 24/04/2018, DJe 04/05/2018)
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. O ACÓRDÃO QUE CONFIRMA A CONDENAÇÃO NÃO INTERROMPE O LAPSO PRESCRICIONAL. AUSÊNCIA DE CONDENAÇÕES ANTERIORES COM TRÂNSITO EM JULGADO. SÚMULA N. 444/STJ. APLICABILIDADE. SÚMULA 7/STJ. NÃO INCIDÊNCIA.
+1. O curso da prescrição interrompe-se pela publicação da sentença ou do acórdão condenatório recorríveis, o que ocorrer em primeiro lugar (art. 117, IV, do Código Penal).
+2. A Corte Especial deste Tribunal Superior, no julgamento do AgRg no RE nos EDcl no REsp 1301820/RJ, Rel. Ministro Humberto Martins, DJe 24/11/2016, pacificou o entendimento de que o acórdão confirmatório da condenação não constitui novo marco interruptivo prescricional, ainda que modifique a pena fixada.
+3. No caso, tendo em vista que a pena imposta ao agravado não excede a 4 anos e que, à época dos fatos, contava com menos de 21 anos de idade, transcorreu o prazo prescricional de 4 anos (arts. 109, IV, e 115, ambos do Código Penal) entre a sentença condenatória e a presente data, sendo forçoso reconhecer a prescrição da pretensão punitiva estatal.
+4. A existência de inquéritos policiais ou de ações penais em andamento não possui o condão de exasperar a reprimenda-base, consoante o enunciado na Súmula n. 444 deste Superior Tribunal. Não incidência da Súmula 7/STJ.
+5. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1436467/MT, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 10/04/2018, DJe 16/04/2018)
+Nesse contexto, inegável a prejudicialidade do presente writ, ante a superveniência da prescrição da pretensão punitiva estatal.
+Na hipótese, o impetrante foi condenado à pena de 1 ano e 4 meses de reclusão pela prática do crime descrito no art. 168, § 1º, III, do Código Penal, substituída a pena privativa de liberdade por restritiva de direitos, sendo tal reprimenda mantida pelo Tribunal estadual. A sentença transitou em julgado para o Ministério Público em 20/9/2010 (fl. 63).
+Nos termos do art. 109, V, do Código Penal, prescreve em 4 anos a pretensão punitiva estatal, se o máximo da pena é igual a 1 ano ou, sendo superior, não excede a dois.
+Assim, transcorrido lapso temporal superior a 4 anos entre a publicação da sentença condenatória, em 14/9/2010 (fl. 63), último marco interruptivo da prescrição, até a presente data, configura-se a perda da pretensão punitiva estatal, nos termos dos arts. 107. IV, 109, V e 110, § 1º, todos do Código Penal.
+Ante o exposto, declaro extinta a punibilidade de ADÃO RAMOS NOGUEIRA JUNIOR, com fundamento nos arts. 107, IV, 109, V, e 110, § 1º, todos do Código Penal, e, em consequência, julgo prejudicado o presente writ.
+Comuniquem-se.
+Publique-se.
+Intimem-se.
