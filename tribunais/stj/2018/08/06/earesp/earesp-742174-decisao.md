@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo manejado por [NOME], contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 373):
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL. DECISÃO INTERLOCUTÓRIA. AUSÊNCIA DE ILEGALIDADE OU ABUSO DE PODER. RECURSO DESPROVIDO.
+- Questão de ordem rejeitada, porquanto as questões alegadas implicam bis in idem, por já estarem contidas na exceção de impedimento e agravo interno, a serem apreciadas no momento próprio.
+- Ausência de prejuízo na intimação realizada no nome de um dos advogados da parte autora (artigo 249, § Io, do CPC).
+- Suspensão do feito mantida, até julgamento da exceção de impedimento.
+- Agravo desprovido. Decisão mantida.
+Não foram opostos embargos declaratórios.
+Nas razões do recurso especial, aponta a recorrente, além de divergência jurisprudencial, violação aos arts. 138, § 1º e 306 do CPC/73 c/c 107 e 118 da LOMAN (LC nº 35/79) 4º da Resolução nº 72 do CNJ/2009, 51, § 3º, do RI/TRF3ª Região, sustentando que "a convocação para auxílio não confere poder jurisdicional de segundo grau ao juiz federal de 1a instância convocado" (fl. 380).
+Afirma que "manejou o agravo regimental do artigo 250 do R1/TRF3ª Região, para que fosse apreciado pela 3a Seção do regional federal e não pelo impedido relator juiz federal de 1a instância convocado para auxilio, a presente questão de ordem rejeitada indevidamente nos autos da Apelação Cível nº. 0005700-98.2006.4.03.6119/SP" (fl. 380).
+Aduz que "o ilustre juiz federal de 1a instância convocado para auxílio na 9ª Turma está flagrantemente impedido de apreciar e proferir voto como relator na questão de ordem, uma vez que a sua designação não observou o comando legal dos artigos 107 e 118 da Lei Complementar nº 3&79 - LOMAN, c.c. com os
+Alega que "incumbe a 3ª Seção do TRF3ª/Região, declarar no art. 249 do CPC a nulidade das publicações disponibilizadas dos dias 12/09/2013 e 08/11/2013, e que atos são atingidos, haja vista o pedido de requerimento expresso de intimação exclusiva de dois advogados, o que "in casu" não ocorreu e o seu desatendimento implicou em ofensa ao disposto no artigo 236 § 1º do CPC, portanto, manifesta a nulidade das referida intimações" (fl. 394).
+Sem contrarrazões.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+A seguir, o recurso especial não pode ser conhecido no tocante à alegada ofensa aos arts. artigos 1º e 4º da Resolução nº 72, de 31 de março de 2009 - CNJ, e na norma regimental § 3º do artigo 51 e o disposto no artigo 280 ambos RI/TRF3a/Região. Isso porque os referidos atos normativos não se enquadram no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF. Confiram-se, a propósito, os seguintes precedentes: AgRg no Ag 1.203.675/PE, Segunda Turma, Rel. Ministro Humberto Martins, DJe de 10/3/2010; e AgRg no REsp 1.040.345/RS, Primeira Turma, Rel. Ministro Luiz Fux, DJe 9/2/2010.
+Quanto à questão de fundo, o Tribunal de origem, ao decidir a controvérsia, adotou as seguintes razões de decidir (fl. 371):
+As teses apresentadas apresentam-se desprovidas de mínima razoabilidade, agindo o recorrente inclusive com má-fé, ao transcrever portaria de designação de convocação diversa da ora vigente e relativa a este juiz convocado (f. 358).
+A alegação de nulidade das intimações (08/11/2003 e 12/9/2013) não prospera.
+Publicada em nome de um dos patronos com procuração nos autos (advogado [NOME]), não se evidencia qualquer prejuízo ao devido processo legal ou à ampla defesa, aplicando-se ao caso o disposto no artigo 249, § Io, do CPC.
+A própria interposição do recurso já demonstra que não houve prejuízo ou cerceamento à parte autora.
+Quanto à rejeição limitar na "questão de ordem", mesmo antes do julgamento da exceção, nenhuma irregularidade resta praticada, mesmo porque as alegações, despropositadas, ali contidas, serão julgadas via incidente próprio.
+A recorrente, por seu turno, limitando-se a sustentar nulidade no acórdão recorrido, não rebateu, de modo específico, os fundamentos acima identificados. Incide, desse modo, o óbice da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+Do exposto, nego provimento ao agravo.
+Publique-se.
