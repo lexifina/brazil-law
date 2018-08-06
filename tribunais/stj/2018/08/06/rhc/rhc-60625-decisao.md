@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus interposto por [NOME], contra acórdão do Tribunal de Justiça do Estado de Mato Grosso, proferido no julgamento do HC n. 16435/2015, assim ementado:
+"HABEAS CORPUS - TRÁFICO DE DROGAS - ALEGADA ILEGALIDADE NO FLAGRANTE - ILICITUDE DAS PROVAS DERIVADAS - INOCORRÊNCIA DE INVIOLABILDADE DOMICILIAR - GARANTIA QUE NÃO SE MOSTRA ABSOLUTA - CRIME PERMANENTE - ESTADO DE FLAGRÂNCIA QUE PERDURA ENQUANTO NÃO CESSAR A PERMANÊNCIA - ART. 303 DO CPP - SUPERVENIÊNCIA DE SENTENÇA PENAL CONDENATÓRIA - CONSTRANGIMENTO ILEGAL INEXISTENTE - ORDEM DENEGADA.
+A análise da matéria posta em debate depende de análise substancial do contexto fático-probatório, uma vez que se vincula à nulidade da prisão em flagrante e de todas as provas obtidas em razão daquele ato, o que não é passível de análise na via estreita do habeas corpus.
+Caracterizada conduta criminosa de natureza permanente, torna-se legítima a busca domiciliar em qualquer horário e sem a necessidade de mandado judicial, porquanto o estado de flagrância vigora enquanto durar a permanência do delito, inexistindo, portanto, qualquer violação ao domicílio, tampouco contaminação das provas colhidas.
+Ademais, com a prolação da sentença penal condenatória, restou superada qualquer alegação de irregularidade na prisão em flagrante, sendo indiferente, no atual momento processual, que tenha havido alguma nulidade na realização do referido ato." (fls. 147/148)
+O recorrente defende a nulidade do flagrante, posto que sua casa teria sido invadida por policiais, ao argumento de que estava em situação de flagrante do crime de tentativa de homicídio, todavia foi preso por supostamente estar praticando tráfico de drogas.
+O Ministério Público Federal opinou pelo desprovimento do recurso. (fls. 206/210)
+É o relatório.
+Decido.
+O voto condutor, ao denegar a ordem na origem, assentou:
+"Ressai dos autos que o paciente [NOME] foi condenado, em sentença prolatada pelo Juízo da 13ª Vara Criminal da Comarca de Cuiabá no bojo do processo penal n. 3491-18.2014.811.0042, pela prática do crime previsto no art. 33 da Lei n. 11.343/2006. Em virtude da condenação, foram lhe impostas a pena privativa de liberdade de 03 (três) anos e 06 (seis) meses de reclusão, convertida em duas penas restritivas de direitos, e a pena de 350 (trezentos e cinquenta) dias-multa, na razão de 1/30 (um trigésimo) do maior salário mínimo vigente à época dos fatos (fls. 84-92).
+A denúncia, nos termos da qual o paciente foi condenado, narra que a diligência policial que resultou na sua prisão em flagrante teve como objeto inicial a apuração de um crime de tentativa de homicídio ocorrido no dia 20 de janeiro de 2014.
+Suspeitava-se que o crime teria sido praticado pelo paciente, conforme declinaram alguns populares que vislumbraram a ocorrência material do crime (fl. 16).
+As investigações prosseguiram, no entanto, até o dia seguinte aos fatos, quando o serviço de inteligência do 1º Batalhão de Polícia Militar repassou informações para a guarnição militar, relatando que outro indivíduo, identificado como Thiago, também estaria envolvido no crime. Os policiais militares lograram êxito em localizar Thiago, que lhes informou o endereço exato do paciente.
+De posse da informação, adentraram no domicílio indicado, encontraram Ricardo e apreenderam em seu quarto uma porção de maconha, uma porção de substância análoga a ácido bórico e o valor de R$ 103,00 (cento e três reais) em espécie.
+Com isso, decretaram a prisão em flagrante do paciente em 21 de janeiro de 2014, por volta das 15 horas." (fls. 150/151)
+Não se desconhece que a jurisprudência do Pretório Excelso exige a existência de justa causa para a busca e apreensão domiciliar sem mandado judicial, sob pena de eventual flagrante ser considerado nulo, bem como todas as provas daí decorrentes.
+Veja-se:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. CRIME PERMANENTE. FLAGRANTE DELITO. BUSCA E APREENSÃO DOMICILIAR SEM MANDADO JUDICIAL. AUSÊNCIA DE FUNDADAS RAZÕES. ILEGALIDADE DA MEDIDA. PROVA ILÍCITA. ABSOLVIÇÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. A jurisprudência pacífica deste Tribunal é firme de que, sendo o crime de tráfico de drogas, nas modalidades guardar e ter em depósito, de natureza permanente, assim compreendido aquele cuja consumação se protrai no tempo, não se exige a apresentação de mandado de busca e apreensão para o ingresso dos policiais na residência do acusado, quando se tem por objetivo fazer cessar a atividade criminosa, dada a situação de flagrância, conforme ressalva o art. 5º, XI, da Constituição Federal. Precedentes.
+2. O Pleno do Supremo Tribunal Federal já se manifestou nesse mesmo sentido, com o alerta de que, para a adoção da medida de busca e apreensão sem mandado judicial, faz-se necessária a caracterização de justa causa, consubstanciada em razões as quais indiquem a situação de flagrante delito (RE 603.616/RO, Relator Ministro GILMAR MENDES, Tribunal Pleno, DJe 10/5/2016).
+3. Hipótese em que na ausência de elementos concretos ou investigações prévias que confirmassem a denúncia anônima acerca da ocorrência do tráfico de drogas na residência do réu, é ilícita a prova colhida mediante violação domiciliar. Precedentes.
+4. Agravo regimental não provido. (AgRg no REsp 1704746/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 21/03/2018)
+Todavia, a entrada dos policiais na residência do recorrente estava devidamente justificado, em virtude de fundadas suspeitas da prática de tentativa de homicídio.
+A propósito, confira-se o seguinte precedente:
+"PENAL. RECURSO EM HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTOS PARA A PRISÃO PREVENTIVA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. BUSCA NA RESIDÊNCIA. PROVA ILÍCITA. AUSÊNCIA DE ILEGALIDADE. COMPROVADA A NECESSIDADE.
+1. Na presente hipótese, os policiais foram à residência do recorrente com base em diversas denúncias de que naquele local eram preparadas e comercializadas substâncias entorpecentes, além de terem percebido exacerbado nervosismo do paciente quando da ocorrência do flagrante, ou seja, ficou comprovada a necessidade de realização de busca na residência.
+2. A fundamentação é suficientemente idônea para manter a segregação cautelar do recorrente, pois se ampara na jurisprudência do Superior Tribunal de Justiça, a qual entende que a natureza, quantidade e diversidade de entorpecentes são hábeis a decretar a prisão preventiva.
+3. Recurso em habeas corpus improvido." (RHC 86.285/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 12/03/2018)
+Ante o exposto, nego provimento ao presente recurso ordinário.
+Publique-se.
+Intimações necessárias.
