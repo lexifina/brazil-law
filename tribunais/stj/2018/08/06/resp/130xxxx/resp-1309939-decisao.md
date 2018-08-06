@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial manejado pela União com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Reigão, assim ementado (fl. 460):
+ADMINISTRATIVO. CIVIL. PROCESSUAL CIVIL. CONTRATO FIRMADO COM A ADMINISTRAÇÃO EM PADRÃO MONETÁRIO ANTIGO - CRUZEIRO REAL. LEI N. 8.880/94, ART. 15. DETERMINAÇÃO DE CONVERSÃO DO MONTANTE EM UNIDADE REAL DE VALOR (URV). NORMA COGENTE.
+1. O art. 15 da Lei n. 8.880/1994 disciplinou, de forma cogente, a conversão para a URV das obrigações decorrentes de contratos celebrados com a Administração Pública direta e indireta da União, dos Estados, do Distrito Federal e dos Municípios para aquisição ou produção de bens para entrega futura, execução de obras, prestação de serviços, locação, uso e arrendamento, vigentes em 1º de abril de 1994.
+2. Direito da autora, desse modo, à conversão de valores estabelecidos em contrato celebrado com a Telemig, do padrão monetário antigo (cruzeiro real) para a URV, por força da aplicação do art. 15 da Lei n. 8.880/1994. Inexistência, todavia, de direito ao pagamento de "diferenças verificadas nos meses já transcorridos", por falta de pedido, nesse sentido, na inicial.
+Sentença confirmada.
+Apelações desprovidas.
+Opostos embargos declaratórios pela União, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC/73.
+A parte recorrente aponta violação aos arts. 3º e 267 do CPC/73. Sustenta, em síntese, que não tem legitimidade para figurar no polo passivo da ação.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Ao rejeitar a alegação de ilegitimidade passiva da União, a Corte regional consignou (fls. 457/458)
+ No que concerne à preliminar de ilegitimidade passiva das rés União e Telebrás, tenho que melhor sorte não lhes assiste, pois, se a União possui competência exclusiva para exportar os serviços de telecomunicações (Constituição Federal, art. 21, XI), e a Telebrás foi criada como o objetivo de desenvolver tais serviços, estas possuem legitimidade para figurar no polo passivo da lide.
+Verifica-se, no caso, que o tema da ilegitimidade passiva da União foi rejeitado com base em fundamento eminentemente constitucional, matéria insuscetível de ser apreciada em sede de recurso especial, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Ressalte-se, ademais, que a matéria não foi decidida com enfoque nos dispositivos tidos por violados (arts. 3º e 267 do CPC/73), apesar da oposição dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 535 do CPC/73, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo.").
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
