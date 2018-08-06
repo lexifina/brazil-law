@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] em face de acórdão do Tribunal de Justiça do Estado de São Paulo, que deu provimento ao agravo em execução do Ministério Público Federal para reconhecer a agravante da reincidência na fase da execução (fls. 77-80).
+Alega o impetrante, em síntese, que há impossibilidade de reforma para prejudicar o réu. Salienta que a execução criminal não pode extrapolar o título, ainda que se trate de erro material, sob pena de excesso de execução.
+Requer a concessão da ordem para cassar a decisão proferida pela Corte estadual, mantendo a decisão de primeira instância que considerou o paciente primário.
+Indeferida a liminar (fl. 94) e prestadas as informações (fls. 100-171), manifestou-se o Ministério Público Federal pelo não cabimento do habeas corpus (fl. 173).
+É o relatório.
+DECIDO.
+O Tribunal de origem proveu o agravo em execução do Ministério Público nos seguintes termos (fls. 77-80):
+Dá-se provimento ao agravo em execução.
+Com efeito, o fato de não ter sido reconhecida a reincidência do ora agravado por ocasião do julgamento da ação penal no processo de conhecimento não impede que o Juiz da execução agora o faça.
+Isso porque se tratam de Juízos autônomos, de forma que o Magistrado da execução está vinculado tão somente à parte dispositiva das condenações exequendas. Como dita a teoria geral do processo, motivos não transitam em julgado.
+Enquanto no processo de conhecimento a reincidência é considerada um fator de dosimetria da pena, quantificando-a e qualificando-a, dentre outros efeitos, no de execução influencia no tempo necessário para o deferimento dos institutos próprios, ampliando a fração necessária de cumprimento da pena, além de inúmeras outras conseqüências porventura negativas ao agravado.
+Com efeito, observa-se que, nos autos da Ação Penal nº 0005661-97.2011.8.26.0575, da 2a Vara da Comarca de São José do Rio Pardo, [NOME] foi condenado como incurso no artigo 155, caput do Código Penal à pena de um (1) ano de reclusão, em regime inicialmente aberto, substituída a pena privativa de liberdade por uma restritiva de direito, dando origem a Execução nº 0000624-60.2016.8.26.0496, ocorrido o trânsito em julgado para a acusação em 27 de julho de 2015 e para a defesa em 23 de novembro de 2015.
+No entanto, na data de 14 de novembro de 2016, ou seja, antes de passados cinco anos, [NOME] voltou a delinquir, sendo preso em flagrante delito pelo crime de furto qualificado e corrupção de menores, iniciando-se a Ação Penal nº 0000386-78.2016.8.26.0613, na qual acabou definitivamente condenado as penas de três (3) anos, três (3) meses e vinte (20) dias de reclusão, em regime prisional semiaberto, dando origem a Execução nº 0002274-11.2017.8.26.0496.
+Destarte, de fato cuida-se de sentenciado reincidente, visto que o segundo crime foi praticado após o trânsito em julgado da sentença penal condenatória do primeiro e, portanto, antes de passados cinco anos do término previsto para a pena do primeiro crime.
+Ora, tem-se aí dados nem sempre acessíveis  ou por alguma razão nem sempre acessados  pelos juízo de conhecimento. Mas, comprovado em sede de execução que há certamente um quadro de reincidência técnica, a partir disso a pena unificada  inclusive a primeira, imposta quando o sentenciado era ainda certamente primário  rege-se pelos lapsos tributáveis aos reincidentes. Aliás, reincidente ninguém propriamente é: passa-se a ser desde um dado momento, por força de dado fenômeno.
+Em face do exposto, dá-se provimento ao agravo em execução interposto pelo Ministério Público do Estado de São Paulo, para reconhecer a presença da agravante genérica da reincidência do sentenciado [NOME].
+Como se vê, a Corte de origem cassou a decisão do Juízo das Execuções Penais que desconsiderou a condição de reincidente do ora paciente para fins de cálculo do tempo de pena cumprida.
+De fato, entende este Superior Tribunal de Justiça que A reincidência é circunstância pessoal que interfere na execução como um todo (HC n. 307.180/RS, Ministro Felix Fisher, Quinta Turma, DJe 13/5/2015).
+Saliente-se que o reconhecimento da reincidência nas fases de conhecimento e de execução penal produz efeitos diversos, de modo que sua não incidência na primeira etapa não impede sua aplicação na fase executória, notadamente porque num primeiro momento esta condição pessoal conduz ao agravamento da reprimenda, sendo que na execução aplica-se ao reincidente regras específicas ao cumprimento da sanção, motivo pelo qual não há falar em violação à coisa julgada.
+Cito, à propósito, julgado no mesmo sentido:
+HABEAS CORPUS SUBSTITUTIVO. INADMISSIBILIDADE. EXECUÇÃO PENAL. RECONHECIMENTO DA REINCIDÊNCIA PELO JUÍZO DA EXECUÇÃO. AFRONTA A COISA JULGADA. INOCORRÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+1. O Superior Tribunal de Justiça, em recentes decisões, não tem mais admitido a utilização do habeas corpus como sucedâneo do meio processual adequado, seja o recurso ou a revisão criminal, salvo em situações excepcionais.
+2. A reincidência é circunstância pessoal que interfere na execução como um todo (HC n. 307.180/RS, Ministro Felix Fisher, Quinta Turma, DJe 13/5/2015).
+3. Não há que se falar em constrangimento ilegal quando a condenação com trânsito em julgado, que o réu possui, embora tenha sido usada pelo Juiz sentenciante para agravar a pena-base a título de maus antecedentes, foi utilizada pelo Juízo da Execução Penal para fins de progressão de regime. Inexiste, no caso, reformatio in pejus ou afronta à coisa julgada.
+4. Habeas corpus não conhecido.
+(STJ - HC 357.357/ES - Relator Ministro SEBASTIÃO REIS JÚNIOR - Sexta Turma - Julgado em 14.02.2017 - Dje de 23.02.2017)
+Por tal contexto, tem-se que sobrevindo novas condenações, a unificação das penas leva ao reconhecimento da reincidência, mesmo que não tenha havido esta consideração na etapa de conhecimento, fazendo incidir ao caso regras específicas ao cumprimento da totalidade da reprimenda.
+Veja-se os julgados desta Corte Superior:
+EXECUÇÃO PENAL. HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. PROGRESSÃO DE REGIME. CRIME HEDIONDO. REINCIDÊNCIA. LAPSO TEMPORAL DE 3/5 (TRÊS QUINTOS). ART. 111 DA LEP. UNIFICAÇÃO DAS PENAS. HABEAS CORPUS NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem de ofício.
+2. A Lei n. 11.464/2007, introduzindo nova redação ao art. 2º, § 2º, da Lei dos Crimes Hediondos, previu lapsos mais gravosos à progressão de regime ao estabelecer que a promoção ao novo regime prisional dar-se-á após o resgate de 2/5 (dois quintos) da pena corporal, se o condenado for primário, e 3/5 (três quintos), se reincidente.
+3. In casu, ostentando o paciente a condição de reincidente, que emergiu com a prática de novo crime em 9/10/2008, após o trânsito em julgado do primeiro (16/9/2008), deve ser observado o lapso temporal de 3/5 de pena cumprida para fins de obtenção da progressão de regime, conforme determina o art. 2º, § 2º, da Lei n. 8.072/1990.
+4. Não há falar em aplicação do percentual de 2/5 (dois quintos) para a progressão de regime, em relação à primeira condenação, pois, unificada as penas, conforme determina o art. 111 da LEP, a reincidência deve incidir sobre o somatório das penas e não apenas na segunda condenação.
+5. Habeas corpus não conhecido.
+(HC 235.337/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 17/11/2015, DJe 23/11/2015)
+RECURSO ESPECIAL. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. CÁLCULO DO BENEFÍCIO. MONTANTE OBTIDO PELA UNIFICAÇÃO DAS PENAS. ART. 84 DO CP. REINCIDÊNCIA EM CRIME DOLOSO. ART. 83, II, DO CP. LAPSO TEMPORAL DE 1/2.
+1. Havendo pluralidade de condenações, as penas devem ser unificadas, realizando-se o cálculo do livramento condicional sobre o montante obtido, nos termos do art. 84 do CP.
+2. Reconhecida a reincidência, o apenado passa a ostentar a condição de reincidente, gerando efeitos, de imediato, no cálculo dos futuros benefícios da execução criminal, inclusive quanto à incidência da fração de 1/2 para a concessão do livramento condicional (art. 83, II, do CP). Não há falar na aplicação concomitante do patamar de 1/3 para a execução de pena aplicada ao tempo em que era primário e de 1/2 para as demais execuções.
+3. Recurso especial provido." (STJ - REsp 1492726/RS, Rel. Ministro NEFI CORDEIRO Sexta Turma - Julgado em 14.04.2015 - DJe de 24.04.2015)
+Ante o exposto denego o habeas corpus.
+Publique-se.
+Intimem-se.
