@@ -1,0 +1,39 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO NCPC. PRETENSÃO DE REEXAME DA CAUSA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+IRACEMA SCHOENFELDER (IRACEMA) promoveu ação de cobrança contra OI [NOME] (OI), objetivando que esta providencie a complementação da subscrição de ações, oriundas da cisão parcial com incorporação pela Telesc Celular S. A., de parcela cindida de Telecomunicações de Santa Catarina S. A. - TELESC, denominada dobra acionária, bem como sua condenação ao pagamento de indenização por perdas e danos e indenização equivalente ao valor dos dividendos, bonificações e juros sobre capital próprio.
+Em primeira instância, os pedidos foram julgados procedentes para condenar a OI ao pagamento do valor correspondente à diferença de ações, utilizando para sua conversão em pecúnia a cotação de fechamento da ação, pela Bovespa, na data em que transitar em julgado a sentença, acrescida, desde então, de correção monetária pelo INPC e juros de mora de 1% ao mês, inclusive englobando os dividendos, bonificações e juros sobre o capital próprio referentes à diferença das ações não emitidas na data da integralização. A OI foi, ainda, condenada ao pagamento das despesas processuais e dos honorários advocatícios fixados em 10% da condenação atualizada.
+Os embargos de declaração opostos foram parcialmente acolhidos para condenar OI ao pagamento de juros sobre o capital próprio e bonificações inerentes às ações que deveriam ter sido emitidas.
+Interpostas apelações por IRACEMA e pela OI, o Tribunal de origem deu parcial provimento ao recurso da primeira apenas para majorar a verba honorária para 15% sobre a condenação, tendo negado provimento ao apelo da OI, em acórdão assim ementado:
+PARTICIPAÇÃO FINANCEIRA. Complementação da dobra acionária. Insurgência de ambas as partes. Código de Defesa do Consumidor. Incidência. Contrato. Exibição devida. Agravo retido desprovido. Ilegitimidade passiva. Preliminar rejeitada. Prescrição. Inocorrência. Portarias ministeriais e responsabilidade da União. Alegações referentes à demanda anterior. Ações da telefonia móvel. Quantidade. Idêntica à telefonia fixa. Ausente interesse no reparo à sentença neste tema. Correção monetária. Termo inicial. Trânsito em julgado. Juros de mora. Citação. Honorários advocatícios. Majoração para quinze por cento. Prequestionamento. Apelo da requerida conhecido em parte e negado provimento. Apelo da autora provido parcialmente (e-STJ, fl. 333).
+Os embargos de declaração foram rejeitados.
+Inconformada, IRACEMA manejou recurso especial, amparado no art. 105, III, alínea a, da CF, alegando ofensa ao art. 1.022, I e II, do NCPC. Sustentou que o aresto recorrido incorreu em omissão e contradição, uma vez que não se pronunciou quanto ao número de ações referente à dobra acionária.
+Sem contrarrazões (e-STJ, fl. 434).
+O apelo nobre interposto por IRACEMA não foi admitido, porque não se verificou ofensa ao art. 1.022 do NCPC e por força da incidência da Súmula nº 284 do STF.
+Nas razões do presente agravo em recurso especial, IRACEMA insistiu nos temas meritórios suscitados no apelo nobre e afirmou não ser caso de incidência da Súmula nº 284 do STF.
+Sem contraminuta (e-STJ, fl. 459).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da alegada violação do art. 1.022 do NCPC
+Não merece respaldo a assertiva de que o acórdão não teria se manifestado sobre o número de ações referente à dobra acionária, uma vez que o Tribunal de origem deixou bem claro que a sentença teria reconhecido o direito de IRACEMA quanto ao mesmo número de ações da telefonia fixa não emitidas no momento da capitalização, diante da ocorrência de cisão. Ficou, ainda, destacado que IRACEMA teria formulado novo pedido quanto às ações da telefonia móvel somente nas razões da apelação, o que configura inovação recursal, conforme o seguinte trecho assim destacado:
+No caso em tela, a embargante sustentou que o acórdão embargado teria sido contraditório ao não conhecer do pleito de pagamento a dobra acionária em quantidade idêntica às ações que teria direito da telefonia fixa quando da aquisição da linha telefônica. Extrai-se do recurso de apelação interposto pela embargante que fora requerido o reconhecimento do direito à totalidade das ações da telefonia móvel na mesma quantidade que detinha da telefonia fixa quando da aquisição da linha telefônica (fls. 258-260 - autos digital). A sentença apelada reconheceu o direito ao mesmo número de ações da telefonia fixa não emitidas no momento da capitalização, diante da ocorrência da cisão (fls. 167 - autos digital).
+O acórdão embargado, por sua vez, deixou de conhecer o pedido por entender ausente o interesse recursal diante do atendimento do pedido quando da prolação da sentença atacada (fl. 10 - autos físico).
+Dito isto, há que se reconhecer o vício alegado ante a ausência de manifestação do Juízo ad quem acerca do pleito.
+Contudo, importante asseverar que o pedido em discussão só foi requerido quando da interposição do recurso de apelação, o que caracteriza inovação recursal.
+Isso porque, da analise da exordial denota-se que há apenas pedido da diferença das ações não emitidas referente à dobra acionária, veja-se:
+Desta forma, no momento que a TELESC S/A cindiu parcialmente seu capital social, o Requerente deveria ter recebido a mesma quantidade e espécie dos títulos da TELESC CELULAR S/A. ASSIM, EM FUNÇÃO DA SUBSCRIÇÃO ACIONÁRIA TER SIDO DEFICITÁRIA NA TELESC S/A DECORRENTE DO CONTRATO DE PARTICIPAÇÃO FINANCEIRA EM SERVIÇO DE TELEFONIA. A DOBRA ACIONÁRIA TAMBÉM OCORREU A MENOR. (fl. 04 - autos digital).
+Sabe-se que o Código de Processo Civil em seu artigo 517 (correspondente ao art. 1.014 do CPC/2015) autoriza a propositura de questões de fato na apelação apenas se houver prova de que a parte deixou de alegar na inicial por motivo de força maior.
+ ..
+Assim, como não se trata de matéria de ordem pública, que pode ser reconhecida de ofício a qualquer tempo, e por não haver comprovação da ausência de alegação acerca do pedido na exordial por motivo de força maior, o não conhecimento do pleito é medida que se impõe.
+ ..
+Logo, reconhece-se o vício alegado no acórdão embargado, no entanto não se conhece do pedido de reconhecimento do direito à totalidade das ações da telefonia móvel na mesma quantidade que detinha da telefonia fixa quando da aquisição da linha telefônica constante no apelo ante a inovação recursal.
+Ante todo o exposto, conhece-se dos embargos de declaração e nega-se-lhe provimento (e-STJ, fls. 353/355 - destaques no original).
+Desta forma, não há que se falar em negativa de prestação jurisdicional, pois o tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte.
+Assim, constata-se que não há quaisquer dos vícios elencados no art. 1.022 do NCPC.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Não obstante a aplicabilidade do NCPC, deixo de apreciar tema referente à verba honorária, considerando que IRACEMA não foi condenada ao pagamento de honorários advocatícios.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
