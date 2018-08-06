@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], em face de acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco.
+Consta dos autos que o paciente foi condenado à pena de 12 anos e 4 meses de reclusão, mais 40 dias de multa, por infração aos arts. 157, §2º, II; 304 c/c o art. 297; art. 311, caput e art. 333, caput, c/c o art. 69, todos do Código Penal.
+Alega a impetrante que, após o julgamento da apelação, o paciente não foi intimado pessoalmente, sendo apenas realizada publicação do acórdão, endereçada ao advogado então constituído, que não lhe comunicou o resultado, tampouco se manifestou nos autos.
+Assim, em 16/12/2015, foi certificado o trânsito em julgado, sendo expedido mandado de prisão em desfavor do paciente, cumprido em 24/11/2016, sem que pudesse manifestar seu desejo em recorrer.
+Requer, liminarmente e no mérito, que se conceda o benefício de anular o trânsito em julgado da decisão ora atacada e aguardar em liberdade o desenrolar de seu processo, com a reabertura do prazo para recurso, sendo expedido alvará de soltura para o paciente (fl. 5).
+Liminar indeferida (fl. 44), foram prestadas informações (fls. 50-52, 54-63 e 73-82), sendo ofertado parecer ministerial pela denegação da ordem (fls. 66-69).
+É o relatório.
+DECIDO.
+Consta dos autos que o paciente foi condenado pela prática dos crimes de roubo majorado, falsificação de documento público, uso de documento falso e adulteração de sinal identificador de veículo automotor, em concurso material, às penas de 12 anos e 4 meses de reclusão, em regime inicial fechado, e 40 dias-multa (fls. 25/29), sendo-lhe concedido o direito de apelar em liberdade.
+A sentença foi confirmada integralmente pelo Tribunal a quo (fl. 127).
+O acórdão transitou em julgado para a defesa em 16/12/2015 (fl. 10).
+Neste writ, busca-se a devolução do prazo recursal com a imediata anulação do trânsito em julgado da condenação, sob o argumento de que não houve intimação pessoal do paciente, mas somente de seu advogado constituído, via edital, que se manteve inerte, não informando ao paciente acerca do resultado do julgamento da apelação a fim de possibilitar a impugnação da decisão.
+Esta Corte de Justiça firmou o entendimento de que a intimação pessoal do acusado, nos termos do artigo 392, incisos I e II, do Código de Processo Penal, é indispensável apenas sobre o teor da sentença condenatória proferida no primeiro grau de jurisdição, obrigatoriedade que não se verifica com relação aos acórdãos proferidos pelos Tribunais pátrios, cuja publicidade de satisfaz com a publicação do seu teor na Imprensa Oficial em nome do defensor do acusado, ou mediante intimação pessoal, caso se trate de defensor público ou dativo (HC 220.138/DF, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 27/11/2012, DJe 03/12/2012).
+Na espécie, extrai-se das informações prestadas pelo Tribunal de origem, em 11/01/2017, que o acórdão da apelação foi publicado no Diário de Justiça de 18/11/2015 (fls. 54-63).
+Considerando que houve a devida intimação do causídico constituído, quando da publicação do acórdão invectivado na imprensa oficial, não há falar-se em cerceamento de defesa. Nesse sentido:
+HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO CONFIRMADA EM SEDE DE APELAÇÃO. TRÂNSITO EM JULGADO. OCORRÊNCIA. VIA INDEVIDAMENTE UTILIZADA EM SUBSTITUIÇÃO A REVISÃO CRIMINAL. ALEGAÇÃO DE AUSÊNCIA DE INTIMAÇÃO DO DEFENSOR CONSTITUÍDO DA SESSÃO DE JULGAMENTO. NÃO OCORRÊNCIA. CAUSÍDICO DEVIDAMENTE INTIMADO PELA IMPRENSA OFICIAL. NULIDADE. INEXISTÊNCIA. AUSÊNCIA DE INTERESSE PROCESSUAL PARA O MANEJO DO WRIT, NO PONTO. NÃO CONHECIMENTO. CAUSA ESPECIAL DE DIMINUIÇÃO. QUANTUM DE INCIDÊNCIA. ILEGALIDADE MANIFESTA. INEXISTÊNCIA. QUANTIDADE DA DROGA. FIXADO REGIME INICIAL FECHADO E NEGADA A SUBSTITUIÇÃO DA PENA COM BASE NA HEDIONDEZ DO DELITO. ILEGALIDADE MANIFESTA. OCORRÊNCIA. REGIME ABERTO E SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. POSSIBILIDADE EM TESE. AFERIÇÃO IN CONCRETO DEVE SER REALIZADA PELO JUÍZO DAS EXECUÇÕES. NÃO CONHECIMENTO. CONCESSÃO DE OFÍCIO.
+ ..
+2. Não há falar em nulidade por ausência de intimação do defensor constituído da sessão de julgamento do recurso de apelação, haja vista que, a teor das informações prestadas pelo Tribunal de origem e dos documentos constantes dos autos, o causídico foi devidamente intimado do julgamento do recurso pela imprensa oficial. Ausente, portanto, o interesse processual para o manejo do writ, no ponto.
+ ..
+(HC 261.038/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 08/05/2014, DJe 30/05/2014).
+PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. AUSÊNCIA. INTIMAÇÃO PESSOAL DA DEFENSORIA PÚBLICA DEVIDAMENTE ATESTADA NOS AUTOS. PRISÃO CAUTELAR. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE. RISCO DE REITERAÇÃO DELITIVA. GARANTIA DA ORDEM PÚBLICA. RÉU QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO. CAUSA DE DIMINUIÇÃO DA PENA. INAPLICABILIDADE. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. CONCLUSÃO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INVIABILIDADE. REGIME PRISIONAL FECHADO. RÉU REINCIDENTE. QUANTUM DA PENA. QUANTIDADE E QUALIDADE DA DROGA. ADEQUAÇÃO. SUBSTITUIÇÃO DA PENA. IMPOSSIBILIDADE. DESCUMPRIMENTO DO REQUISITO OBJETIVO.
+1. Hipótese em que Defensoria Pública da União foi devidamente intimada do julgamento do habeas corpus originário, conforme se depreende do teor da certidão acostada aos autos, na qual consta ciência firmada pelo Defensor Público Federal, restando afastada a alegação de nulidade do acórdão a quo.
+ ..
+(RHC 68.817/DF, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 09/08/2016, DJe 24/08/2016).
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
