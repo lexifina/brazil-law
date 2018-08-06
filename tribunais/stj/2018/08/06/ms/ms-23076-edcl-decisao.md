@@ -1,0 +1,35 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO MANDADO DE SEGURANÇA. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. ANISTIA POLÍTICA. AUSÊNCIA DOS VÍCIOS PREVISTOS NO ART. 1022 DO CPC/15. ACLARATÓRIOS REJEITADOS.
+DECISÃO
+Trata-se de embargos de declaração no mandado de segurança opostos pelo MINISTÉRIO PÚBLICO FEDERAL em face de decisão assim ementada (e-STJ fl. 400):
+MANDADO DE SEGURANÇA. PROCESSUAL E ADMINISTRATIVO. ATO OMISSIVO DE NATUREZA CONTINUADA. DECADÊNCIA. NÃO OCORRÊNCIA. MANDADO DE SEGURANÇA NÃO SUBSTITUTIVO DE AÇÃO DE COBRANÇA. INAPLICAÇÃO DAS SÚM. N. 269 E 271, AMBAS DO STF. ANISTIA DE MILITAR. REPARAÇÃO ECONÔMICA. PARCELAS PRETÉRITAS. PAGAMENTO NÃO REALIZADO DENTRO DO PRAZO DE 60 DIAS. MATÉRIA PACIFICADA EM SEDE DE REPERCUSSÃO GERAL. RE 553.710/DF. ORDEM PARCIALMENTE CONCEDIDA.
+Nas razões dos aclaratórios, a parte Embargante sustenta omissão quanto à necessidade de sobrestamento da ação até o julgamento do RE n. 817.338/DF, que trata da ausência de decadência para o exercício de autotutela quando o ato administrativo nulo não observa preceitos constitucionais. Para tanto, assevera que a Administração Pública poderia rever a concessão de anistia ao ora impetrado independentemente do tempo, de tal modo que se o militar não for considerado mais anistiado político, nada mais teria a receber.
+Aponta também que houve contradição, posto que seria "inconsequente determinar o imediato pagamento de títulos cuja suspeita de fraude está sendo objeto de inúmeros processos, tanto que essa Corte Superior de Justiça, mais sensata, autoriza o pagamento sob a condição de não sobrevir decisão administrativa anulando ou revogando o ato da concessão da anistia, o que ocorreu in casu" (e-STJ fl. 433).
+No mais, reiterou que houve contrariedade ao art. 8º, do Ato das Disposições Constitucionais Transitórias, bem como aos arts. 5º, LXIX e 167, II, do Texto Constitucional.
+Pede, ao final, o acolhimento dos presentes aclaratórios para que seja suspenso o pagamento dos valores retroativos a anistiados políticos até o julgamento do RE nº 817.338/df pelo Supremo Tribunal Federal..
+É o relatório. Passo a decidir.
+Incide o Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Nos termos do art. 1.022, do CPC/2015, os embargos de declaração são cabíveis para "I - esclarecer obscuridade ou eliminar contradição; II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e/ou III - corrigir erro material".
+No caso em concreto, tenho que nenhuma das hipóteses acima está presente.
+Isso porque a decisão ora embargada, ao conceder parcialmente a segurança pleiteada, ressalvou expressamente a necessidade de existência de recursos orçamentários e a hipótese de decisão administrativa superveniente revogando ou anulando o ato de concessão da anistia.
+Senão vejamos (e-STJ fl. 405):
+Ante o exposto, concedo parcialmente a segurança para: I - havendo recursos orçamentários disponíveis, determinar o pagamento imediato do valor nominal estabelecido em ato administrativo; II - não havendo dotação orçamentária disponível, determinar a expedição de precatório para pagamento do valor devido no exercício subsequente, ressalvado a hipótese de decisão administrativa superveniente revogando ou anulando o ato de concessão da anistia.
+Portanto, a decisão foi clara e coerente ao conceder parcialmente a segurança, ressalvando a necessidade de disponibilidade de recursos orçamentários, bem como eventual decisão administrativa superveniente que venha a revogar ou anular a concessão da anistia. No mesmo sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. ANISTIA POLÍTICA. PRETENSÃO DE SOBRESTAMENTO DO PROCESSO EM FACE DA AFETAÇÃO DO TEMA 839 NO SUPREMO TRIBUNAL FEDERAL (RE 817.338/DF). FALTA DE DETERMINAÇÃO NESSE SENTIDO E AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUDICIALIDADE. AGRAVO DESPROVIDO.
+1. O Tema 839/STF, cuja repercussão geral foi reconhecida, versa sobre: (a) possibilidade de um ato administrativo, caso evidenciada a violação direta ao texto constitucional, ser anulado pela administração pública quando decorrido o prazo decadencial previsto na Lei n. 9.784/1999; e (b) saber se portaria que disciplina tempo máximo de serviço de militar atende aos requisitos do art. 8º do ADCT. Contudo, tais questões não estão em discussão no presente mandamus, mostrando-se inviável o seu sobrestamento.
+2. "Do acórdão proferido no RE 817.338/DF, de relatoria do Ministro Dias Toffoli, não constou nenhuma determinação para suspender processos que tenham como objeto a anistia política" (EDcl no AgRg no MS 20.255/DF, Rel. Ministro Sérgio Kukina, Primeira Seção, julgado em 13/12/2017, DJe 18/12/2017).
+3. Consta expressamente da decisão recorrida a ressalva de que, "se sobrevier decisão administrativa anulando ou revogando o ato de concessão da anistia, restará prejudicado o pagamento do correspondente precatório" (MS 15.706/DF, Rel. Ministro Castro Meira, Primeira Seção, DJe 11/5/2011).
+4. No caso, a recorrente intenta promover discussão que extrapola a esfera dos autos, sem provar que o impetrante teve sua portaria de anistia anulada.
+5. Agravo interno a que se nega provimento.
+(AgInt no MS 23.940/DF, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 23/05/2018, DJe 29/05/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ANISTIA. REPERCUSSÃO GERAL RECONHECIDA. NÃO AFETAÇÃO DOS RECURSOS EM TRÂMITE NO STJ.
+REPERCUSSÃO GERAL RECONHECIDA. NÃO AFETAÇÃO DOS RECURSOS EM TRÂMITE NO STJ. SOBRESTAMENTO. NÃO OBRIGATORIEDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART.
+1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A jurisprudência desta Corte é pacífica no sentido de que o reconhecimento de repercussão geral, no âmbito do Supremo Tribunal Federal, em regra, não impõe o sobrestamento do trâmite dos recursos nesta Corte.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no MS 19.595/DF, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, julgado em 13/06/2018, DJe 22/06/2018)
+Ante o exposto, REJEITO os EMBARGOS DE DECLARAÇÃO.
+Publique-se. Intimem-se.
