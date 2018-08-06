@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça da respectiva unidade federativa (n. 0093002-49.2015.8.26.00) assim ementado (e-STJ, fl. 249):
+Porte de arma de fogo de uso permitido. Art. 14, caput, da Lei nº 10.826/03. Materialidade comprovadas.
+Absolvição confirmada. Atipicidade material da conduta. Mero ilícito administrativo. Documentação originária da arma em ordem, já atualizada. Recurso improvido.
+Opostos aclaratórios (e-STJ, fls. 259-272), foram rejeitados (e-STJ, fls. 276-278).
+Nas razões do apelo nobre (e-STJ, fls. 283-315), o insurgente aponta, além de dissídio jurisprudencial, violação ao art. 14 da Lei n. 10.826/2003.
+Em síntese, alega ser típica a conduta do agente, pois a existência de registro não é circunstância apta a descaracterizar a tipicidade penal.
+Sustenta que houve o transporte de arma de fogo em via pública, razão pela qual está caracterizada a figura típica do art. 14 do Estatuto do Desarmamento.
+Defende que "o pagamento de anuidade de clube de tiro, como citado no acórdão, não autoriza ou supre o porte de arma de fogo dado apenas pelo Ministério da Defesa" (e-STJ, fl. 290).
+Aduz que "o caso dos autos nada tem a ver com porte ou transporte para ir a um estande de tiro. O recorrido estava armado, após as 21hs00, porque tinha dinheiro e iria pagar o mecânico, como ele mesmo admitiu" (e-STJ, fl. 290).
+Pondera que o fundamento utilizado pela Corte originária é estranho ao tipo penal e aplicável, apenas, às hipóteses de posse de arma de fogo.
+Afirma que "o argumento de que o certificado de registro da arma apresentado pelo recorrido, ainda que permitisse seu transporte, para fins de atividades de colecionador, uso desportivo de atirador e tiro prático, não o habilitava ao porte de arma, ou, transporte, indiscriminado, dentro de seu veículo, fora das hipóteses de estar em trânsito a stand de tiro ou a eventos" (e-STJ, fl. 292).
+Requer a reforma do acórdão recorrido.
+Não foram apresentadas contrarrazões (e-STJ, fl. 329).
+Após juízo de admissibilidade (e-STJ, fls. 332-333), os autos ascenderam a esta Corte Superior.
+O Subprocurador-Geral da República, [NOME], opinou pelo provimento do inconformismo (e-STJ, fls. 345-354).
+É o relatório.
+A irresignação merece prosperar.
+Na origem, [NOME] foi denunciado por ter praticado a conduta prevista no art. 14 da Lei n. 10.826/2003.
+O Juízo de Direito de primeiro grau absolveu o réu por ausência de tipicidade (e-STJ, fls. 139-141).
+A sentença absolutória foi mantida pelo Tribunal de Justiça bandeirante.
+Daí o presente recurso especial interposto pelo Órgão Ministerial.
+Inicialmente, cumpre registrar que não se pode confundir porte de arma de fogo - autorização para transitar com ela - com o registro do artefato bélico.
+O art. 10, caput, § 1º, III, da Lei n. 10.826/2003 condiciona a emissão do porte de arma ao registro desta. Assim, primeiramente, deve-se obter o registro, por meio de autorização do Sinarm, que expedirá autorização de compra de arma de fogo, nos termos dos arts. 3º, caput, e 4º, § 1º, do Estatuto do Desarmamento.
+Assinale-se que o art. 5º do referido diploma legal disciplina que o registro da arma de fogo limita a manutenção desta, exclusivamente, no interior da residência ou do domicílio, ou de dependência do proprietário da arma, ou, ainda, no seu local de trabalho, desde que ele seja o titular ou o responsável legal pelo estabelecimento ou empresa.
+A par disso, verifica-se que a jurisprudência desta Corte Superior considera típica, para efeitos do art. 14 da Lei n. 10.826/2003, a conduta de portar arma de fogo de uso permitido sem o porte expedido pelo órgão competente, ainda que o agente tenha registro da arma.
+Confiram-se os seguintes julgados:
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIME DE PORTE DE ARMA DE FOGO DE USO PERMITIDO. TRANSPORTE DE ARMA REGISTRADA. AUSÊNCIA DE PORTE. ALEGAÇÃO DE ATIPICIDADE CONGLOBANTE. INOCORRÊNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A Lei 10.826/03 prevê que, além do registro da arma de fogo, necessário também a autorização de porte, que não se confundem, porquanto disciplinados em capítulos próprios o registro (capítulo II) e o porte (capítulo III).
+2. Considerando que o paciente transportava arma de fogo registrada, fora de sua residência ou local de trabalho, sem autorização de porte, em desacordo com determinação legal ou regulamentar, resta caracterizada a tipicidade da conduta descrita no art. 14 da Lei 10.826/03.
+3. Não há falar-se em atipicidade conglobante frente as disposições previstas na Lei 10.826/03, porquanto a defesa não demonstrou qualquer norma que fomente ou determine o porte de arma de uso permitido.
+4. Decisão agravada mantida por seus próprios fundamentos.
+5. Agravo regimental improvido. (AgRg no HC 360.857/RR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 06/10/2016, DJe 25/10/2016 - sem grifo no original)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. ART. 14 DA LEI N. 10.826/2003. NORMA PENAL EM BRANCO. LEIS DISTRITAIS N. 1.398/97, 2.176/98, 2.990/2002 E 3.190/2003. AUDITOR DE TRÂNSITO DO DETRAN/DF. PORTE DA ARMA FORA DA RESIDÊNCIA E DO EXERCÍCIO DO CARGO. CONDUTA TÍPICA. TRANCAMENTO DA AÇÃO PENAL. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.
+1. O trancamento da ação penal no âmbito de habeas corpus é medida excepcional, somente cabível quando demonstrada a absoluta ausência de provas da materialidade do crime e de indícios de autoria, a atipicidade da conduta ou a existência de causa extintiva da punibilidade.
+2. Para atender ao princípio da legalidade, e denominar típica a conduta descrita no art. 14 da Lei n. 10.826/2003, impõe-se ao agente o porte da referida arma sem a devida autorização ou em desobediência a determinação legal ou regulamentar.
+3. Por autorização entende-se deter o respectivo certificado de registro federal de arma de fogo emitido pelo Sistema Nacional de Armas (SINARM) do Departamento de Polícia Federal (art. 10 da Lei n. 10.826/2003).
+4. No caso dos autos, o acusado é possuidor do aludido certificado, emitido por órgão da Polícia Federal - ainda na validade e colacionado à fl 83 destes autos -, o qual atesta que a pistola marca Glock, modelo G25, n. VPE790, calibre 380, com a qual foi surpreendido o paciente, encontra-se registrada em seu nome, sob o n. 002394950.
+5. Como consectário lógico do art. 5º da Lei n. 10.826/2003, típica deve ser a conduta se o sujeito mantiver sob guarda arma de fogo registrada em qualquer local, diverso da residência ou de trabalho. Precedentes.
+6. O art. 14 da Lei n. 10.826/2003 é norma penal em branco, a qual exige complementação por meio de ato regulador, que forneça parâmetros e critérios legais, para a penalização das condutas ali descritas.
+7. A situação funcional do recorrente é regida pelas Leis distritais n. 1.398/1997, 2.176/1998, 2.990/2002 e 3.190/2003, as quais circunscrevem a conduta do acusado, de modo a emoldurá-la no tipo previsto no art. 14 da Lei n. 10.826/2003.
+8. Não é razoável atribuir a qualidade de livre - na acepção ampla da palavra - ao porte de arma àquele que, simplesmente, detém o certificado de registro válido da arma, não bastando o mero critério da autorização emitida por órgão da Polícia Federal, para que o sujeito, casualmente, transite com o artefato, ou o ostente em situação estranha ao exercício das funções ligadas ao cargo.
+9. Os arts. 5º da Lei distrital n. 1.398/1997 e 5º da Lei distrital n. 3.190/2003 são claros ao restringir a autorização para porte de arma de fogo de uso permitido aos agentes de trânsito quando em exercício das atribuições do cargo, vedada a condução ostensiva do artefato em locais onde haja reuniões com aglomerações de pessoas.
+10. Nos termos da denúncia, a arma foi apreendida em poder do ora recorrente, que, sob efeito de álcool e motivado por ciúme da namorada, ostentava o artefato em uma festa particular, circunstâncias que, nos termos deste voto, não permitem - na fase processual em que a ação se encontra - o afastamento da tipicidade do delito.
+11. Recurso ordinário em habeas corpus não provido. (RHC 51.739/DF, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 02/12/2014, DJe 17/12/2014)
+Ademais, "a prática esportiva de tiro é atividade que conta com disciplina legal. Para o transporte da arma, nesse contexto, além do registro, é necessária a expedição de "guia de tráfego" (que não se confunde com "porte de arma"). Atendidos esses requisitos, e respeitados os termos da autorização fornecida pelo Exército, é plenamente possível o traslado da arma para a realização de treinos e competições" (AgRg no AREsp 1069131/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/05/2017, DJe 22/05/2017).
+De outro lado, "o entendimento firmado pelo Superior Tribunal de Justiça no julgamento da APn n. 686/AP (Rel. Ministro JOÃO OTÁVIO DE NORONHA, Corte Especial, DJe 29/10/2015) é restrito ao delito de posse ilegal de arma de fogo de uso permitido (art. 12 da Lei 10.826/2003), não se aplicando ao crime de porte ilegal de arma de fogo (art. 14 da Lei 10.826/2003), cuja elementar é diversa e a reprovabilidade mais intensa" (RHC 63.686/DF, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/02/2017, DJe 22/02/2017).
+Ciente disso, verifica-se que o réu, segundo a situação fática delineada pela Corte originária, portava, em via pública, no interior de seu veículo, arma de fogo permitida com registro vencido, sem possuir guia de tráfego ou autorização de porte.
+Desta feita, "o simples fato de portar ilegalmente arma de fogo caracteriza a conduta descrita no artigo 14 da Lei 10.826/2003, por se tratar de crime de perigo abstrato, cujo objeto imediato é a segurança coletiva" (HC 356.198/SP, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 5/10/2016).
+Ante o exposto, dou provimento ao recurso especial para considerar típica a conduta do réu e, por conseguinte, condená-lo como incurso nas penas do art. 14 da Lei n. 10.826/2003. Determino que a Corte de origem proceda a dosimetria da pena do condenado.
+Publique-se. Intimem-se.
