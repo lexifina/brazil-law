@@ -1,0 +1,44 @@
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015. NÃO CARACTERIZAÇÃO. DIREITO LÍQUIDO E CERTO. VERIFICAÇÃO. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO PARA NESTA PARTE NEGAR-LHE PROVIMENTO.
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, cuja ementa assim estabelece:
+TRIBUTÁRIO E ADMINISTRATIVO. APELAÇÃO EM MANDADO DE SEGURANÇA. PARCELAMENTO. O CONTRIBUINTE QUE ADERIR AO PROGRAMA DE PARCELAMENTO SERÁ EXIGIDA A REGULARIDADE DE TODAS AS PRESTAÇÕES DEVIDAS ATÉ A DATA DA CONSOLIDAÇÃO ( ART. 17, §§ 2º E 3º DA LEI 12.865/2013). MULTA AFASTADA.OS EMBARGOS DE DECLARAÇÃO NÃO TÊM NATUREZA PROTELATÓRIA. APELAÇÃO PARCIALMENTE PROVIDA PARA AFASTAR A MULTA E ASSEGURAR A SUSPENSÃO DO PAGAMENTO DAS PARCELAS VINCENDAS
+Os embargos de declaração foram rejeitados.
+Nas razões de recurso especial, fundamentado no artigo 105, III, a, do permissivo constitucional o recorrente alega a violação aos artigos 1.022, II, do CPC/2015, 1º da Lei nº 12.016/2009, 17 e 1.022 do CPC/2015, 155-A do CTN, 17, §§ 2º e 3º, da Lei nº 12.865/2013, ao sustentar em síntese: (i) a omissão do acórdão recorrido, ante a rejeição dos embargos de declaração; (ii) que o recorrido não detêm direito líquido e certo para provocar a suspensão do parcelamento fiscal.
+Contrarrazões ao recurso especial às fls. 401/408 (e-STJ).
+Em decisão interlocutória, o Tribunal de origem inadmitiu o processamento do recurso especial.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+De início, quanto à alegada ofensa ao artigo 1.022 do CPC/2015, depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou da questão suscitada, resolvendo, portanto, de modo integral a controvérsia posta.
+Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional, nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO - CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE O DÉCIMO-TERCEIRO SALÁRIO - CÁLCULO EM SEPARADO - REGIME DAS LEIS 8.212/91 E 8.620/93 - POSSIBILIDADE - CPC, ART. 535, II - AUSÊNCIA DE VIOLAÇÃO.
+1. Não ocorre ofensa ao art. 535, II, do CPC, se o Tribunal de origem analisa, ainda que implicitamente, a tese objeto dos dispositivos legais apontados pela parte.
+2. A eg. Primeira Seção pacificou o entendimento de que, na vigência da Lei n.º 8.620/93, é legítimo o cálculo em separado da contribuição previdenciária sobre o décimo-terceiro salário (EREsp 442.781, Rel. Min. Teori Albino Zavascki, julgado em 14.11.2007, DJ de 10.12.2007).
+3. Recurso especial provido.
+(REsp 868.242/RN, Segunda Turma, Rel. Ministra Eliana Calmon, DJe 12/6/2008)
+Rejeitada, portanto, a preliminar de violação do art. 1.022 do CPC/2015.
+Quanto ao mérito, o recorrente sustenta a ausência dos requisitos para a concessão de liminar em mandado de segurança, pois não haveria a comprovação, nos autos, do fumus boni iuris que aponte suposta ilegalidade praticada pela autoridade administrativa.
+A Fazenda Nacional ressalta inexistir qualquer ato ilegal por parte da Receita Federal porquanto não há imposição no sentido de que a parte impetrante continue a efetuar os recolhimentos do parcelamento, devendo, isso sim, aguardar o prazo legal para fornecer as informações necessárias à regularização do ajuste.
+Com efeito, o Tribunal de origem ao solucionar a controvérsia extinguiu o mandamus, em razão da configuração de litispendência, nos seguintes termos, in verbis:
+Há, contudo, que reconhecer a ameaça de lesão ao direito do contribuinte de ser excluido do parcelamento em virtude de deixar de recolher as parcelas até o momento da consolidação, o que resultaria em dano patrimonial, devido à cobrança do débito originário com correção, juros e multa.
+Relativamente à multa aplicada, esta deve ser afastada, porquanto o direito do contribuinte de peticionar para defender sua tese e apresentar irresignação quanto à decisão judicial , esclarecendo os pontos que considerou omissos, obscuros ou contraditórios não pode ser confundido com a má-fé e ardil visando a protelar os trabalhos do judiciário. Há um enorme vácuo entre estas ações.
+Com estas considerações, dou parcial provimento à apelação para afastar a multa imposta pelo MM Juízo de origem e para assegurar a suspensão do pagamento das parcelas vincendas até o momento da consolidação, sem a consequência da exclusão do parcelamento, mas ressalvado o poder de a Fazenda cobrar diferença a seu favor que venha a ser apurada.
+Como analisado pelo Tribunal de origem, há ameaça de perigo inconteste ao contribuinte, se este, paralisar unilateramente os pagamentos do parcelamento fiscal. Assim, neste sentido, os precedentes deste Tribunal Superior são pacíficos em apontar que é incabível, em Recurso Especial, o exame da presença ou não dos pressupostos autorizadores da impetração do Mandado de Segurança, referentes ao direito líquido e certo e ao reexame de eventual desnecessidade de realização de dilação probatória. Incide, na espécie, a Súmula 7 deste Tribunal.
+Ilustrativamente:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. REGIME ESPECIAL. DRAWBACK. ACÓRDÃO RECORRIDO FIRMADO EM PREMISSA FÁTICA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Nos termos do que decidido pelo Plenário do STJ, " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. A alteração das conclusões adotadas pela Corte de origem, no sentido de que não ficou comprovado o direito líquido e certo para a suspensão dos tributos incidentes sobre a operação de importação, pois os motivos apresentados revelaram-se insuficientes para a justificativa de conduta irregular, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no REsp 1343985/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 10/11/2016, DJe 25/11/2016)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. FORNECIMENTO DE MEDICAMENTOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 211/STJ. FUNDAMENTO AUTÔNOMO NÃO ATACADO. SÚMULA 283/STF. COMANDO NORMATIVO INADEQUADO. SÚMULA 284/STF. MANDADO DE SEGURANÇA. CABIMENTO. DIREITO LÍQUIDO E CERTO. VERIFICAÇÃO. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+1. O prequestionamento não exige que haja menção expressa dos dispositivos infraconstitucionais tidos como violados, entretanto, é imprescindível que no aresto recorrido a questão tenha sido discutida e decidida fundamentadamente, sob pena de não preenchimento do requisito do prequestionamento, indispensável para o conhecimento do recurso. Incidência das Súmulas 282/STF e 211/STJ.
+2. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles (Súmula 283/STF).
+3. O dispositivo indicado como violado atrelado à tese de que a responsabilidade pela dispensação do fármaco em questão seria da União, não possui comando normativo capaz de infirmar as conclusões do acórdão recorrido no sentido de que todos os entes federados são solidariamente legítimos para compor o polo passivo da demanda.
+Incidência, por analogia, da Súmula 284/STF.
+4. O Tribunal de origem, ao analisar a controvérsia, concluiu expressamente pela adequação da via mandamental ante a comprovação da necessidade do medicamento pleiteado. A reversão desse entendimento demanda o reexame do conjunto fático-probatório dos autos, o que não é possível em sede de recurso especial, em face do óbice da Súmula 7/STJ.
+5. Agravo interno não provido.
+(AgInt no REsp 1607124/PI, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 06/10/2016, DJe 14/10/2016)
+Ante o exposto, com fulcro no art. 932,IV, do CPC/2015 c/c o art. 255, § 4º,II, do RISTJ, conheço parcialmente do recurso especial para lhe negar provimento.
+Publique-se.
+Intimem-se.
