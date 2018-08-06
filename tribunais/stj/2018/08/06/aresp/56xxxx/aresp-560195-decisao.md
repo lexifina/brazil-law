@@ -1,0 +1,21 @@
+DECISÃO
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS FIXADOS EM VALOR IRRISÓRIO (R$ 5.000,00), CONSIDERANDO O VALOR DA EXECUÇÃO FISCAL (R$ 980.783,54). RECURSO ESPECIAL PROVIDO PARA MAJORAR A VERBA PARA 3% DO VALOR DA EXECUÇÃO. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Trata-se de Agravo em Recurso Especial interposto por ISAURA MARLY ROSADO CANTIDIO E OUTROS, em face de decisão que não admitiu Recurso Especial, manifestado com fundamento na alínea a do art. 105, III da CF/1988, contra acórdão proferido pelo TRF 5a. Região, assim ementado:
+EMENTA: PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA EM AÇÃO COLETIVA. SÚMULA N.O 345 DO STJ. ARBITRAMENTO DA VERBA HONORÁRIA NA FASE DE EXECUÇÃO. FIXAÇÃO EM VALOR EXCESSIVO. IMPOSSIBILIDADE. REDUÇÃO DA VERBA HONORÁRIA QUE SE IMPÕE. ART. 20, §§ 30 E 40, DO CPC.
+1. E cediço que "são devidos honorários advocatícios pela Fazenda Pública nas execuções individuais de sentença proferida em ações coletivas, ainda que não embargadas" (Súmula n0 345, do STJ).
+2. Nas execuções contra a Fazenda Pública o juiz deverá arbitrar os honorários mediante apreciação equitativa, levando em consideração o grau de zelo do profissional, o lugar de prestação do serviço, a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço, conforme inteligência do art. 20, § 40, do CPC.
+3. Entretanto, in casu, observa-se que os honorários advocatícios, arbitrados em 3% (três por cento) sobre o valor total da execução  $980.783,54 (novecentos e oitenta mil, setecentos e oitenta e três reais e cinquenta e quatro centavos), consubstanciam valor excessivo, não condizente com os princípios da razoabilidade e da proporcionalidade, onerando demasiadamente a parte executada.
+4. Desse modo, mister se faz reduzir a verba em referência para R$5.000,00 (cinco mil reais), valor este em consonância com o disposto no art. 20, §§ 30 e 40, do CPC.
+5. Precedentes desta Corte.
+6. Agravo de instrumento provido (fls. 207).
+2. Nas razões do Recurso Especial, a Recorrente alega violação do art. 20, § 4o., do CPC. Aduz, em suma, ser irrisória a verba honorária arbitrada pelas instâncias ordinárias.
+3. É o relatório. Decido.
+4. Insurge-se a parte recorrente contra o valor fixado a título de honorários advocatícios, pugnando pela sua majoração, em face das características da demanda e do trabalho desenvolvido pelo causídico no feito.
+5. O critério para a fixação da verba honorária deve levar em conta, sobretudo, a razoabilidade do seu valor, em face do trabalho profissional advocatício efetivamente prestado; a remuneração do Advogado há de refletir, também, o nível de sua responsabilidade, os esforços despendidos na defesa do seu cliente, não devendo se orientar, somente, pelo número ou pela extensão das peças processuais que elaborar ou apresentar.
+6. Nessa linha, entendo que o valor fixado, qual seja R$ 5.000,00, não condiz com o trabalho desenvolvido pelo profissional na causa, especialmente considerando o valor da execução, no montante de R$ 980.783,54 em 10.9.2013, razão pela qual entendo que deve ser majorado para 3% sobre o valor atribuído à Execução Fiscal, assim como havia decidido o Magistrado de primeiro grau, por ser mais apropriado à espécie. Nesse mesmo sentido, o seguinte precedente desta Corte:
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. VALOR ÍNFIMO. MAJORAÇÃO. NÃO INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO REGIMENTAL PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça orienta no sentido de que, em sede de recurso especial, é inviável a re-análise dos valores arbitrados a título de honorários advocatícios, salvo quando tenham sido fixados em valores ínfimos ou exacerbados. Precedentes desta corte.
+2. No caso em concreto, a fixação dos honorários no valor de R$ 100,00 (cem reais) revela-se quantia ínfima, a possibilitar a revisão desta quantia na via recursal eleita.
+3. Agravo regimental a que se nega provimento (AgRg no REsp. 1.312.306/MG, Rel. Min. MAURO CAMPBELL MARQUES, DJe 29.5.2012).
+7. Ante o exposto, conhece-se do Agravo para dar provimento ao Recurso Especial, fixando os honorários advocatícios em 3% sobre o valor da Execução Fiscal.
+8. Publique-se. Intimações necessárias.
