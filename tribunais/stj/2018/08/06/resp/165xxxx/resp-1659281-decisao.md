@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fulcro na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado (e-STJ fl. 113):
+APELAÇÃO. EXECUÇÃO FISCAL. PRESCRIÇÃO RECONHECIDA. AUSÊNCIA DE CITAÇÃO VÁLIDA NOS AUTOS.
+1 - A Primeira Seção do STJ, no julgamento do REsp 1.120.295/SP, na sistemática do art. 543-C do CPC, firmou o entendimento de que a citação efetivada retroage à data da propositura da ação para efeitos de interrupção da prescrição, na forma do art. 219, § 1º, do CPC.
+2 - No caso dos autos, não havendo notícia da data da entrega da declaração, temos que considerar o vencimento da obrigação que se deu em 05/02/1998 e o ajuizamento da ação em 27/07/2005. Em 10/01/2006, houve suspensão do processo e determinação de arquivamento dos autos, caso decorresse o prazo in albis (fl. 07). Pedido de nova citação em 01/02/2007, o que foi feito em 03/08/2007. Redirecionamento da execução ao sócio em 10/10/2011 (fl. 76). Não houve citação válida nos autos até a presente data. Após, a sentença foi proferida em 09/10/2012.
+3 - Desta maneira, verifica-se que decorreu lapso temporal maior que cinco anos entre o vencimento da obrigação tributária e a presente data, haja vista não ter ocorrido citação válida no processo executivo, razão pela qual deve ser reconhecida a ocorrência de prescrição extintiva do crédito tributário em comento.
+4 - Recurso de Apelação improvido.
+Embargos de declaração rejeitados (e-STJ fls. 145/156).
+Nas suas razões, a parte recorrente aponta violação dos arts. 219, § 1º e 535, I e II, do CPC/1973, 40 da Lei n. 6.830/80 e 174 do Código Tributário Nacional.
+Para tanto, sustenta que: (I) o Tribunal de origem não se manifestou sobre pontos essenciais à solução da controvérsia, em especial sobre a ausência de inércia do ente público; (II) deve ser afastada a prescrição do crédito público.
+Sem contrarrazões (e-STJ fl. 174).
+Juízo positivo de admissibilidade pelo Tribunal a quo (e-STJ fl. 182).
+Passo a decidir.
+Inicialmente, cumpre destacar que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do Plenário do STJ).
+Considerado isso, verifico que a irresignação recursal merece prosperar.
+O art. 535 do Código de Processo Civil/1973 prevê que os embargos de declaração são cabíveis quando houver, no acórdão ou na sentença, omissão, contrariedade ou obscuridade, in verbis:
+Art. 535. Cabem embargos de declaração quando:
+I - houver, na sentença ou no acórdão, obscuridade ou contradição;
+II - for omitido ponto sobre o qual devia pronunciar-se o juiz ou tribunal.
+Para a admissão do recurso especial com base no referido dispositivo, a omissão tem que ser manifesta, ou seja, imprescindível para o enfrentamento da quaestio.
+No presente caso, tem razão a parte recorrente, tendo em vista que o Tribunal de origem, mesmo após provocado por embargos de declaração, não se manifestou sobre o seguinte argumento:
+"especificamente no caso em apreço a ação foi ajuizada no prazo previsto no CTN, eis que o lançamento se deu por auto de infração em 1998, mas a empresa recorreu administrativamente objetivando afastar a autuação, tendo o acórdão da Delegacia de Julgamento da Receita Federal em Juiz de Fora sido proferido em 07 de novembro de 2003, com a ciência do executado em dezembro do mesmo ano (trânsito em julgado), conforme assentou a União nas razões de apelação à fl. 85. Assim, ajuizada a execução em 10.12.2004. não há que se aventar em prescrição da pretensão executória, eis que o ajuizamento respeitou o prazo de cinco anos" (e-STJ fls. 163/164).
+No caso, para a solução de litígio, é imprescindível verificar as eventuais causas suspensivas e/ou interruptivas da prescrição suscitadas pela parte recorrente, o que não foi examinado pelo Tribunal de origem, a despeito da oposição de embargos de declaração.
+Assim, estando configurada a violação do art. 535 do Código de Processo Civil/1973, faz-se necessária a declaração de nulidade do acórdão que apreciou os embargos declaratórios, para que o vício seja sanado pelo Tribunal de origem.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. QUESTÃO RELEVANTE SUSCITADA EM EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE PRONUNCIAMENTO NO ACÓRDÃO RECORRIDO. VIOLAÇÃO AO ART. 535 DO CPC/1973. RETORNO DOS AUTOS À CORTE DE ORIGEM.
+1. Incide em violação ao art. 535 do CPC/1973 o órgão julgador que, instado a se pronunciar sobre questão relevante para o deslinde da controvérsia, permanece silente a seu respeito, causando prejuízo à parte embargante.
+2. Deve-se reconhecer a existência de omissão no acórdão impugnado; daí a necessidade de que seja proferido novo julgamento dos Embargos, analisando-se, desta vez, os pontos apresentados: a) o documento só poderia ter sido juntado na Apelação porque foi o único momento em que o Estado pôde exercer amplamente o contraditório e a ampla defesa, porque a sentença extinguiu o feito sem ouvir o exequente, o que violaria o art. 25 da Lei 6.830/1980; b) os fatos geradores se reportam ao período de maio de 1994, houve parcelamento em 1997, que é causa de interrupção da prescrição, e a ação foi ajuizada em 2001, portanto dentro do prazo prescricional; c) na Certidão de Dívida Ativa já constava a sua alteração em razão do parcelamento e, por ela ter fé pública, somente poderia ser desconstituída com prova em contrário, o que não ocorreu no caso dos autos; e d) no caso dos autos não ocorreu nem a prescrição comum nem a intercorrente.
+3. Recurso Especial parcialmente provido, determinando-se o retorno dos autos ao Tribunal de origem para que se manifeste sobre o ponto suscitado nos aclaratórios.
+(REsp 1695035/BA, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 19/10/2017, DJe 19/12/2017).
+TRIBUTÁRIO. ISSQN. EXECUÇÃO FISCAL. VIOLAÇÃO DO ART. 535 DO CPC. OCORRÊNCIA. AUSÊNCIA DE MANIFESTAÇÃO DA CORTE A QUO, A DESPEITO DA OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO, SOBRE QUESTÃO RELEVANTE PARA O DESLINDE DA CONTROVÉRSIA. RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO DOS ACLARATÓRIOS.
+ ..
+2. A jurisprudência deste Superior Tribunal de Justiça é firme no entendimento de que deve a parte vincular a interposição do recurso especial à violação do art. 535 do Código de Processo Civil, quando, mesmo após a oposição de embargos declaratórios, o tribunal a quo persiste em não decidir questões que lhe foram submetidas a julgamento, por força do princípio tantum devolutum quantum appellatum ou, ainda, quando persista desconhecendo obscuridade ou contradição arguidas como existentes no decisum.
+3. Por restar configurada a agressão ao disposto no art. 535 da legislação processual, impõe-se a declaração de nulidade do acórdão que julgou os embargos declaratórios, a fim de que o vício no decisum seja sanado.
+4. Recurso especial provido para anular o acórdão dos embargos de declaração, determinando o retorno dos autos à Corte de origem, a fim de que se manifeste, expressamente, a respeito do quanto alegado em sede declaratória.
+(REsp 1313492/SP, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), Segunda Turma, julgado em 17/03/2016, DJe 31/03/2016).
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PARCIAL PROVIMENTO ao recurso especial, para anular o acórdão prolatado em sede de embargos declaratórios de e-STJ fls. 145/156 e determinar o retorno dos autos ao Tribunal a quo, a fim de que seja analisada a questão omissa, como entender de direito.
+Publique-se. Intimem-se.
