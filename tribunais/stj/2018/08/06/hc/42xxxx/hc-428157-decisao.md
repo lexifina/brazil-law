@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+Consta dos autos que o juízo das execuções reconheceu a prática de falta grave pelo paciente, em razão do cometimento de novo crime pelo paciente no curso da execução e aplicou-lhe os consectários legais (fls. 13-15).
+O Tribunal a quo negou provimento ao recurso da defesa (fl. 53-62).
+Sustenta a impetrante que não se pode reconhecer a falta grave, tendo em vista que não há sentença condenatória transitada em julgado pelo novo delito em tese cometido, violando-se, assim, o princípio da presunção de inocência.
+Defende que a regressão de regime não é corolário obrigatório do reconhecimento da falta grave.
+Alega que a data-base não deve ser alterada, quando não há condenação por prática de crime posterior ao início da execução da pena.
+Consigna, ainda, que a perda dos dias remidos não é automática e deve ser acompanhada de fundamentação exaustiva e análise da proporcionalidade de modo individualizado, sob pena de caracterizar coação à liberdade do paciente.
+Requer, liminarmente e no mérito,que seja afastado o reconhecimento da falta grave e demais consectários legais, bem como que seja inalterada a data-base, afastada a regressão de regime e mantidos os dias remidos na integralidade.
+Indeferida a liminar (fl. 74) e prestadas as informações (fls. 82-86, 89-108), manifestou-se o Ministério Público Federal pela denegação do habeas corpus (fl. 110-116).
+É o relatório.
+DECIDO.
+O Tribunal de origem negou provimento ao agravo defensivo e determinou a regressão cautelar do regime de cumprimento de pena do paciente e a alteração da data-base para benefícios da execução, exceto comutação, indulto e livramento condicional. Eis a decisão (fls. 53-62):
+Não assiste razão ao agravante.
+Como se vê, o apenado cumpria pena pelo delito de trafico de entorpecentes (processo n. 012/2.16.0001018-0), em regime semi-aberto, oportunidade em que sobreveio notícia de nova condenação. Segundo se constata da Guia de Execução juntada aos autos, foi o apenado condenado provisoriamente na ação penal nº 012/2.16.0001648-0 à pena de 09 anos de reclusão, em regime fechado, pela pratica do mesmo delito (tráfico de drogas).
+Com efeito, em face da nova condenação, operou o juízo a quo a devida soma das penas - o saldo da anterior com a nova -, nos termos do art. 111, parágrafo único, da LEP1, totalizando uma pena de 14 anos e seis meses de reclusão.
+Diante do cômputo supracitado, impositiva a modificação da data-base para benefícios, uma vez que a concessão de tais benefícios levará em conta o novo quantitativo de pena e com base em uma nova data.
+Isso também se aplica ao livramento condicional, que, nos termos do art. 84 do Código Penal2, será regulado pela soma das penas.
+Cumpre salientar, ainda, que desimporta se a condenação superveniente é referente a delito praticado antes ou depois do início da execução da pena que estava em andamento.
+Lado outro, esta Câmara vem entendendo que, em se tratando de condenação provisória e, por tratar-se de medida mais benéfica ao reeducando, a alteração da data base deve ser fixada na data da publicação da decisão:
+ ..
+No caso dos autos o Magistrado alterou a data-base para a data em que o condenado foi preso provisoriamente no feito respectivo (data da prática do fato delituoso), decisão que, por ser mais benéfica ao réu e, inexistindo recurso Ministerial quanto ao tema, deve ser mantida.
+No tocante a falta grave, conforme já referido, o agravante envolveu-se em crime doloso (tráfico de drogas) no curso da execução, visto que cumpria pena em regime semi-aberto, que ensejou a instauração do processo n.º 012/2.16.0001648-0, onde foi condenado provisoriamente.
+À exegese do art. 52, da Lei de Execuções Penais, comete falta grave aquele que pratica fato previsto como crime doloso no curso da execução penal, independentemente de trânsito em julgado de eventual sentença condenatória.
+Em relação à (des)necessidade de trânsito em julgado da sentença penal condenatória em ação penal que apura a prática de crime doloso no curso da execução, este órgão fracionário possui entendimento de que a notícia de cometimento do delito é hábil para configurar falta grave, não havendo violação a princípio constitucional que assegura ao suspeito da prática de crime não ser considerado culpado até o trânsito em julgado da sentença penal condenatória.
+ ..
+Assim, caracterizada a falta grave.
+Reconhecida a prática de falta grave durante a execução de pena carcerária, a regressão de regime, bem como a alteração da data-base para fins de cálculo para nova progressão, são medida cogente.
+ ..
+Assim, nada a alterar na decisão recorrida.
+Diante do exposto, nego provimento ao agravo.
+Inicialmente, quanto à alegação de que não há condenação por prática de crime posterior ao início da execução, a jurisprudência deste Superior Tribunal de Justiça, no julgamento do REsp 1.336.561/RS, representativo de controvérsia, consolidou o entendimento no sentido de que o reconhecimento da falta grave, consistente na prática de fato definido como crime doloso, prescinde de condenação com trânsito em julgado relativamente a este novo delito (Súmula 526/STJ). Por oportuno, confira-se a ementa do referido julgado:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ARTIGO 543-C DO CPC. EXECUÇÃO PENAL. FALTA GRAVE. FATO DEFINIDO COMO CRIME DOLOSO. TRÂNSITO EM JULGADO DA SENTENÇA PENAL CONDENATÓRIA. DESNECESSIDADE.
+1. O reconhecimento de falta grave decorrente do cometimento de fato definido como crime doloso no cumprimento da pena prescinde do trânsito em julgado de sentença penal condenatória no processo penal instaurado para apuração do fato.
+2. Recurso especial representativo de controvérsia provido para afastar a nulidade proclamada e reconhecer a prática de falta grave independentemente do trânsito em julgado de sentença penal condenatória. Acórdão sujeito ao regime do art. 543-C do CPC e da Resolução STJ 08/2008.
+(REsp 1336561/RS, Rel. Ministra LAURITA VAZ, Rel. p/ Acórdão Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, julgado em 25/9/2013, DJe 01/4/2014).
+Nesse ponto, portanto, o acórdão do Tribunal de origem está em consonância com a jurisprudência desta Corte, no sentido de que é possível, de fato, o reconhecimento da prática de falta grave independentemente do trânsito em julgado da condenação na esfera criminal.
+Assim, concluindo-se que os atos praticados no interior do estabelecimento prisional configuram falta disciplinar de natureza grave (prática de fato considerado como crime doloso - posse de maconha, celulares e facas no interior da unidade prisional), o pretendido reconhecimento de sua atipicidade ou de ausência de provas para o reconhecimento da conduta faltosa demandaria profunda incursão na seara fático-probatória, insuscetível na via estreita do writ.
+Quanto aos consectários legais, ante o reconhecimento da prática da falta disciplinar, verifica-se que as instâncias ordinárias determinaram a regressão de regime, a perda de 1/3 dos dias remidos e a alteração da data-base para fins de cálculo para a nova progressão (fl. 61), nos exatos termos do entendimento da Terceira Seção desta Corte, no julgamento do Recurso Especial n. 1.364.192/RS, sob o rito de recurso repetitivo (CPC, art. 543-C), consolidado nas Súmulas 441, 535 e 534 do STJ.
+Neste sentido:
+HABEAS CORPUS. EXECUÇÃO PENAL. PRÁTICA DE CRIME DOLOSO. FALTA GRAVE. APURAÇÃO MEDIANTE PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. EXIGÊNCIA OBSERVADA. PRESCINDIBILIDADE DE CONDENAÇÃO COM TRÂNSITO EM JULGADO. SÚMULA N. 526 DO STJ. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. WRIT NÃO CONHECIDO.
+1. Conforme se extrai da documentação acostada ao writ, houve realização do devido procedimento administrativo disciplinar para apuração da falta grave imputada ao paciente. Desse modo, restou plenamente observado o entendimento consagrado na Súmula n. 533 do Superior Tribunal de Justiça - STJ, segundo a qual a instauração de PAD é imprescindível para o reconhecimento da falta grave.
+2. Consoante a jurisprudência iterativa desta Corte, a prática de crime doloso no curso da execução da pena permite o reconhecimento da falta disciplinar de natureza grave e a incidência de seus corolários, antes que sobrevenha o trânsito em julgado da ação penal ensejadora da infração disciplinar. Nesse sentido, a inteligência da Súmula n. 526 do STJ. Habeas corpus não conhecido.
+(HC 359.022/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 27/09/2016, DJe 10/10/2016)
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. INADEQUAÇÃO DA VIA ELEITA. PRÁTICA DE NOVO CRIME DOLOSO NO CURSO DA EXECUÇÃO DA PENA. RECONHECIMENTO DE FALTA GRAVE. REGRESSÃO DE REGIME. NOVO MARCO PARA BENEFÍCIOS - EXCETO LIVRAMENTO CONDICIONAL, COMUTAÇÃO E INDULTO. PERDA DOS DIAS REMIDOS NO PERCENTUAL MÁXIMO. POSSIBILIDADE. TRÂNSITO EM JULGADO DE SENTENÇA PENAL CONDENATÓRIA. DESNECESSIDADE. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - Esta Corte de Justiça firmou entendimento no sentido de que, a teor do art. 118, I, da LEP, o reeducando que comete fato definido como crime doloso no curso da execução penal, comete falta grave, nos termos do art. 52 da mesma lei. III - São consectários do reconhecimento da prática de falta grave a regressão do regime prisional, o estabelecimento de novo marco para benefícios da execução - exceto livramento condicional, comutação e indulto -, bem como a perda dos dias remidos, independente do trânsito em julgado de eventual sentença penal condenatória referente ao delito cometido no curso da execução. IV - A natureza especialmente grave da falta disciplinar - prática de roubos majorados pelo emprego de arma - justifica a adoção do percentual máximo de perda dos dias remidos (art. 127, da LEP).
+Habeas corpus não conhecido.
+(HC 399.472/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 19/10/2017, DJe 30/10/2017)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intime-se.
