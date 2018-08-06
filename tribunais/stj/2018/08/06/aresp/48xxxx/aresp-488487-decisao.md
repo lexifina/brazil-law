@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE PALMAS, em que pretende admissão de recurso especial, no qual discute a incidência do imposto de renda sobre o terço constitucional de férias.
+Passo a decidir.
+A Primeira Seção, no julgamento do REsp 1.459.779/MA, repetitivo, decidiu pela incidência do imposto de renda sobre o adicional de férias gozadas. Vide:
+TRIBUTÁRIO. RECURSO ESPECIAL. IMPOSTO DE RENDA. ADICIONAL DE 1/3 (UM TERÇO) DE FÉRIAS GOZADAS. INCIDÊNCIA DA EXAÇÃO.
+1. A jurisprudência tradicional do STJ é pacífica quanto à incidência do imposto de renda sobre o adicional (1/3) de férias gozadas. Precedentes: Pet 6.243/SP, Rel. Ministra Eliana Calmon, Primeira Seção, DJe 13/10/2008; AgRg no AREsp 450.899/MS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 11/03/2014; AgRg no AREsp 367.144/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 28/02/2014; AgRg no REsp 1.112.877/SP, Rel. Ministro Luiz Fux, Primeira Turma, DJe 03/12/2010; REsp 891.794/SP, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 30/03/2009; entre outros.
+2. A conclusão acerca da natureza do terço constitucional de férias gozadas nos julgamentos da Pet 7.296/PE e do REsp 1.230.957/RS, por si só, não infirma a hipótese de incidência do imposto de renda, cujo fato gerador não está relacionado com a composição do salário de contribuição para fins previdenciários ou com a habitualidade de percepção dessa verba, mas, sim, com a existência, ou não, de acréscimo patrimonial, que, como visto, é patente quando do recebimento do adicional de férias gozadas.
+3. Recurso especial provido, divergindo do voto do Sr. Ministro Relator.
+(REsp 1.459.779/MA, Rel. Ministro MAURO CAMPBELL MARQUES, Rel. p/ Acórdão Ministro BENEDITO GONÇALVES, Primeira Seção, julgado em 22/04/2015, DJe 18/11/2015).
+Nesse contexto, julgado o tema pela sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem retornar ao Tribunal de origem para que este faça o juízo de conformação nos termos do que dispõe o art. 34, XXIV, do RISTJ.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que aplique as medidas cabíveis previstas no art. 1.040 do CPC/2015, conforme o caso.
+Publique-se. Intimem-se.
