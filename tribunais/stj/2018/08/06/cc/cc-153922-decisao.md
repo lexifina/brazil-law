@@ -1,0 +1,13 @@
+DECISÃO
+CONFLITO DE COMPETÊNCIA INSTAURADO ENTRE JUÍZOS FEDERAIS VINCULADOS A TRIBUNAIS REGIONAIS FEDERAIS DIVERSOS. MANDADO DE SEGURANÇA CONTRA ATO DE AUTORIDADE FEDERAL. ART. 109, § 2o. DA CONSTITUIÇÃO FEDERAL. CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO FEDERAL DA 9a. VARA DA SEÇÃO JUDICIÁRIA DO ESTADO DO RIO DE JANEIRO.
+1. Trata-se de Conflito de Competência negativo suscitado pelo JUÍZO FEDERAL DA 17a. VARA DA SEÇÃO JUDICIÁRIA DO DISTRITO FEDERAL em face do JUÍZO FEDERAL DA 9a. VARA DA SEÇÃO JUDICIÁRIA DO ESTADO DO RIO DE JANEIRO, nos autos de Mandado de Segurança impetrado contra o Chefe do INSS.
+2. O writ foi originariamente impetrado perante o JUÍZO FEDERAL DA 9a. VARA DA SEÇÃO JUDICIÁRIA DO ESTADO DO RIO DE JANEIRO, que declarou sua incompetência e ordenou a remessa dos autos para o JUÍZO FEDERAL DA 17a. VARA DA SEÇÃO JUDICIÁRIA DO DISTRITO FEDERAL.
+3. Por sua vez, o JUÍZO FEDERAL DA 17a. VARA DA SEÇÃO JUDICIÁRIA DO DISTRITO FEDERAL declarou-se incompetente, suscitou o presente Conflito de Competência e determinou a remessa dos autos a este egrégio Tribunal Superior.
+4. É o relatório.
+5. Conforme estabelece o § 2o. do art. 109 da Constituição Federal, as causas intentadas contra a União poderão ser aforadas na seção judiciária em que for domiciliado o autor, naquela onde houver ocorrido o ato ou fato que deu origem à demanda ou onde esteja situada a coisa, ou, ainda, no Distrito Federal.
+6. Assim, levando-se em conta a expressa determinação constitucional e em homenagem à garantia do amplo acesso à jurisdição deve ser reconhecida a competência do JUÍZO FEDERAL DA 9a. VARA DA SEÇÃO JUDICIÁRIA DO ESTADO DO RIO DE JANEIRO. Neste sentido:
+CONSTITUCIONAL E DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. JURISDIÇÃO E COMPETÊNCIA. MANDADO DE SEGURANÇA. UNIÃO. FORO DE DOMICILIO DO AUTOR. APLICAÇÃO DO ART. 109, § 2o. DA CONSTITUIÇÃO FEDERAL.
+1. A jurisprudência do Supremo Tribunal Federal está pacificada no sentido de que as causas intentadas contra a União poderão ser aforadas na seção judiciária em que for domiciliado o autor, naquela onde houver ocorrido o ato ou fato que deu origem à demanda ou onde esteja situada a coisa, ou, ainda, no Distrito Federal.
+2. Agravo regimental improvido (STF, AgRg no RE 509.442/PE, Rel. Min. ELLEN GRACIE, SEGUNDA TURMA, DJe de 19.8.2010).
+7. Em face do exposto, a teor do art. 120, parág. único do CPC, conhece-se do presente Conflito de Competência e declara-se competente para processar e julgar a presente demanda o JUÍZO FEDERAL DA 9a. VARA DA SEÇÃO JUDICIÁRIA DO ESTADO DO RIO DE JANEIRO.
+8. Publique-se. Intimações necessárias.
