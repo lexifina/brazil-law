@@ -1,0 +1,16 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. VERIFICAÇÃO. OCORRÊNCIA.
+Embargos de declaração acolhidos para declarar extinta a punibilidade do embargante pela prescrição da pretensão punitiva, nos termos do art. 107, IV c/c os arts. 109, V, 110, § 1º e 115, todos do Código Penal.
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] contra a decisão de fls. 295/299, na qual conheci do agravo para desprover o recurso especial por ele interposto contra acórdão do Tribunal de Justiça Mineiro na Apelação Criminal n. 1.0079.13.067352-2/001. Eis a ementa respectiva (fl. 295):
+AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. CONDENAÇÃO. ORIGEM LÍCITA DOS BENS. ALEGADA INVERSÃO DO ÔNUS DA PROVA. INOCORRÊNCIA. RÉU ENCONTRADO NA POSSE DA RES FURTIVA. ACÓRDÃO EM CONSONÂNCIA COM ENTENDIMENTO DOMINANTE DESTA CORTE DE JUSTIÇA. PRECEDENTES. SÚMULA 568/STJ.
+Agravo conhecido para desprover o recurso especial.
+Em suas razões, a defesa do embargante alega que verificou matéria de ordem pública a ser analisada nos autos: prescrição da pretensão punitiva (fl. 306). Sustenta que, considerando a pena aplicada (1 ano de reclusão) e sendo o acusado menor de 21 à época do fato, o lapso prescricional seria de 2 anos, devendo ser declarada a extinção da punibilidade uma vez que da data do fato (10.09.2013) até a data da publicação da sentença (28.03.2016), transcorreram 2 (dois) anos e 6 (seis) meses (fl. 307).
+Instado a manifestar-se (fl. 310), o Ministério Público Federal opinou pelo acolhimento dos embargos com a decretação da extinção da punibilidade do crime imputado ao agravante, pelo advento da prescrição da pretensão punitiva (fls. 317/319).
+É o relatório.
+Considerando a reprimenda aplicada, bem como a menoridade relativa do réu à época do fato criminoso, observo que a prescrição da pretensão punitiva na presente hipótese é de 2 anos, a teor do artigo 109, V, c/c o art. 115 do Código Penal (fl. 449). Outrossim, com o trânsito em julgado para a acusação (fl. 257), nos termos do art. 110, § 1º, do Código Penal, a prescrição passou a ser regulada pela pena aplicada.
+Diante disso, verifico que entre a publicação da sentença condenatória - 2/5/2016 (fl. 156) - até o presente momento já se passaram mais de 2 anos, impondo-se, nos termos do art. 107, IV c/c os arts. 109, V, 110, § 1º e 115, todos do Código Penal, a declaração da extinção da punibilidade ante o reconhecimento do transcurso do prazo prescricional.
+Destaco, por oportuno, que, nos termos da orientação jurisprudencial sedimentada nesta Corte, o acórdão que apenas confirma a condenação não constitui marco interruptivo da prescrição (AgRg no HC n. 394.467/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 26/2/2018).
+Também não seria caso de incidir o entendimento firmado no julgamento do EAREsp n. 386.266/SP, no sentido de retroagir o trânsito em julgado para fins de prescrição, pois, do que se infere da decisão monocrática de fls. 295/299, o recurso especial do réu foi conhecido, ainda que desprovido, o que afasta a aplicabilidade do referido entendimento à espécie.
+Ante o exposto, acolho os embargos de declaração para declarar extinta a punibilidade do embargante pela prescrição da pretensão punitiva, nos termos do art. 107, IV c/c os arts. 109, V, 110, § 1º e 115, todos do Código Penal.
+Publique-se.
