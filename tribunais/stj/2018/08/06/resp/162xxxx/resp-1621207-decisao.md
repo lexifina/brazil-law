@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de recurso especial manejado por FAZENDA NACIONAL com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 200):
+MANDADO DE SEGURANÇA. SERVIÇOS NOTARIAIS E DE REGISTRO. TITULARIDADE. ALTERAÇÃO. CNPJ. NOVA INSCRIÇÃO. POSSIBILIDADE.
+Exigindo a Receita Federal do Brasil que uma pessoa física (notário ou registrador) se inscreva no CNPJ como se fosse uma pessoa jurídica, deve então admitir que, mudando a pessoa física responsável pela atividade delegada (atividade notarial ou de registro), o novo notário obtenha nova inscrição no CNPJ. A recusa de nova inscrição não é razoável por implicar o embaraço do exercício da atividade, em vez de facilitá-la.
+A parte recorrente aponta violação aos arts. 1º, 3º, 4º e 5º da Lei nº 5.614/70. Sustenta, em síntese, que "caso vingue o entendimento contrário de que "A lei nº 5.614/70 não restringe a inscrição no Cadastro Geral de Contribuintes do Ministério da Fazenda" ou mesmo se a ratio dessa lei e dos atos normativos que lhe são derivados não é propriamente restringir a inscrição no CGC/CNPJ, melhor seria passá-lo, de uma vez por todas, ao controle de alguma instituição particular, tal como é o cadastro do Serviço de Proteção ao Crédito, por exemplo. (..) Logo, impõe-se o rígido controle das condições (pré-requisitos indispensáveis) que deverão ser necessariamente obedecidas para o processamento e o deferimento das inscrições e atualização dos elementos cadastrais. Não é nada razoável o entendimento que confunde a inobservância a uma condição para inscrição no CGC/CNPJ com o cerceamento do livre exercício de atividade econômica." (fl. 213)
+Ouvido o MPF, este opinou pelo não conhecimento do recurso (fls. 253/258).
+É o relatório.
+A matéria pertinente 1º, 3º, 4º e 5º da Lei nº 5.614/70 não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
