@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], no qual se aponta como autoridade autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foi condenado à pena de 5 (cinco) anos de reclusão a ser cumprida inicialmente no regime semiaberto, pela prática do delito tipificado no art. 180, § 1º, c/c o art. 297, caput, ambos do Código Penal, sendo-lhe concedido o direito de recorrer em liberdade (e-STJ fls. 59/80).
+Interposta apelação, os desembargadores da Quarta Câmara Criminal Extraordinária reconheceram de ofício a prescrição do crime de falsificação de documento, com fulcro no art. 107, IV, do Código Penal, e, no mérito, negaram provimento ao recurso defensivo (e-STJ fls. 92/102).
+Recebeu o acórdão esta ementa (e-STJ fl. 98):
+APELAÇÃO - FALSIFICAÇÃO DE DOCUMENTO PÚBLICO - RECEPTAÇÃO SIMPLES - PRESCRIÇÃO - RECONHECIMENTO DE OFÍCIO - Condenação a penas inferiores a dois anos - Trânsito em julgado para a Justiça Pública - Prescrição que ocorre em quatro anos - Art. 109, inciso V, do Código Penal - Lapso ultrapassado entre a data da publicação da Sentença e o julgamento deste recurso - Prescrição reconhecida - Exame do mérito recursal prejudicado - EXTINGUE-SE A PUNIBILIDADE DOS RÉUS ÁLVARO TRECCO JUNIOR E [NOME] [NOME] FÉLIX DA [NOME], ESTE COM RELAÇÃO AO CRIME DE FALSIFICAÇÃO DE DOCUMENTO PÚBLICO, NOS TERMOS DO ART. 107, INCISO IV, DO CÓDIGO PENAL.
+RECEPTAÇÃO QUALIFICADA - CONDENAÇÃO - PROVA - SUFICIÊNCIA - Materialidade e autoria delitivas comprovadas - Apreensão de grande quantidade de produtos de origem ilícita - Negativa não comprovada - Condenação mantida - Penas bem dosadas - RECURSOS DE APELAÇÃO NÃO PROVIDOS
+No Superior Tribunal de Justiça, a defesa alega, em confusa e prolixa petição, que a pena-base do delito de receptação foi fixada no mínimo legal, razão pela qual o paciente tem direito ao regime aberto, bem como substituição por pena restritiva de direitos.
+Ressalta que o feito durou treze anos sem que houvesse registro de outros crimes cometidos pelo paciente, acometido por doença grave de modo a autorizar, inclusive, a prisão domiciliar.
+Dessa forma, requer, em liminar e no mérito, a substituição da pena privativa de liberdade por restritiva de direitos e, subsidiariamente, a concessão da ordem para que o paciente cumpra a pena em prisão domiciliar (e-STJ fls. 1/13).
+O pedido liminar foi indeferido (e-STJ fls. 131/133).
+Prestadas as informações (e-STJ fls. 138/183 e 186/215), os autos foram encaminhados ao Ministério Público Federal, que se manifestou pela concessão da ordem a fim de que o Juízo das Execuções Penais avaliasse a possibilidade de fixação de regime prisional mais brando, bem como a viabilidade de substituição da medida constritiva por penas alternativas (e-STJ fls. 219/224).
+É, em síntese, o relatório.
+Consoante informações atualizadas prestadas pelo Tribunal de Justiça, "o paciente, aos 29 de março de 2016, foi beneficiado com o regime aberto e, aos 30 de janeiro de 2017, foi declarada extinta a pena privativa de liberdade, por deferimento do indulto previsto no Decreto nº 8.940/16, expedindo-se alvará de soltura clausulado" (e-STJ fl. 240).
+Fica, portanto, sem objeto o pedido contido neste reclamo, em que a defesa postulava a substituição da pena privativa de liberdade por restritivas de direitos e, subsidiariamente, a possibilidade de cumprimento da pena em domicílio.
+Assim, não há mais interesse processual, por não existir necessidade e utilidade da prestação jurisdicional.
+Ante o exposto, com base no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado a presente ordem de habeas corpus.
+Publique-se. Intimem-se.
