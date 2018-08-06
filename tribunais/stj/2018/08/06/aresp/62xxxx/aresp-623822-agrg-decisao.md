@@ -1,0 +1,20 @@
+DECISÃO
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA CONCEDIDA NA ORIGEM. DESNECESSIDADE DE RENOVAÇÃO DO PEDIDO NA INSTÂNCIA RECURSAL. SUSPEIÇÃO DE MAGISTRADO. REVOLVIMENTO DE MATÉRIA PROBATÓRIA. INVIABILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. DECISÃO REVISTA. AGRAVO DESPROVIDO.
+1. Trata-se de Agravo Regimental interposto contra a decisão que negou seguimento ao seu Agravo em Recurso Especial, por não ter a parte efetuado o pedido de extensão da assistência judiciária para a instância recursal.
+2. Pugna o agravante pela reconsideração da decisão ora atacada ou a apresentação do feito à Turma Julgadora para que seja provido o Recurso Especial.
+3. É o relatório. Decido.
+4. Merecem acolhimento as alegações da parte agravante, sendo impositiva a reconsideração do decisório agravado.
+5. Isto porque a Corte Especial em 26.2.2015, no julgamento do EAREsp 86.915/SP, firmou entendimento no sentido de que uma vez concedida, a assistência judiciária gratuita prevalecerá em todas as instâncias e para todos os atos do processo, nos expressos termos do art. 9º da Lei 1.060/50. Confira-se:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. JUSTIÇA GRATUITA (LEI 1.060/50, ARTS. 4o., 6o. E 9o.). CONCESSÃO. EFICÁCIA EM TODAS AS INSTÂNCIAS E PARA TODOS OS ATOS DO PROCESSO. RENOVAÇÃO DO PEDIDO NA INTERPOSIÇÃO DO RECURSO. DESNECESSIDADE. AGRAVO PROVIDO.
+1. Uma vez concedida, a assistência judiciária gratuita prevalecerá em todas as instâncias e para todos os atos do processo, nos expressos termos do art. 9º da Lei 1.060/50.
+2. Somente perderá eficácia a decisão deferitória do benefício em caso de expressa revogação pelo Juiz ou Tribunal.
+3. Não se faz necessário para o processamento do recurso que o beneficiário refira e faça expressa remissão na petição recursal acerca do anterior deferimento da assistência judiciária gratuita, embora seja evidente a utilidade dessa providência facilitadora. Basta que constem dos autos os comprovantes de que já litiga na condição de beneficiário da justiça gratuita, pois, desse modo, caso ocorra equívoco perceptivo, por parte do julgador, poderá o interessado facilmente agravar fazendo a indicação corretiva, desde que tempestiva.
+4. Agravo interno provido, afastando-se a deserção. (AgRg nos EAREsp 86.915/SP, Rel. Min. RAUL ARAÚJO, DJe 4.3.2015).
+6. Assim, passo a análise do Agravo em Recurso Especial interposto.
+7. Cuida-se de Agravo interposto contra decisão que inadmitiu Recurso Especial interposto por [NOME], em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+PROCESSO CIVIL. EXCEÇÃO DE SUSPEIÇÃO. Inocorrência de qualquer das hipóteses previstas no artigo 135 do Código de Processo Civil que poderiam ensejar o afastamento do Magistrado para a apreciação da lide. Sucessivos expedientes adotados pelo excipiente no sentido de ver configurada a parcialidade do julgador, que não restou caracterizada. Nítido inconformismo da parte com as teses jurídicas explicitadas em decisões que lhe foram desfavoráveis, as quais tenta reverter a todo custo. EXCEÇÃO QUE SE REJEITA.
+8. Nas razões do Apelo Nobre, o recorrente alegou violação do art. 135, I e V do CPC/1973 c/c o art. 36, III da LOMAN, sustentando a necessidade de se reconhecer a suspeição de Desembargador relator de Mandados de Segurança por ele impetrados, em razão de suposta inimizade capital e por ter, contra o Magistrado, formulado representação no CNJ.
+9. O exame das alegações, por certo, demandariam o revolvimento do conteúdo fático-probatório dos autos, medida vedada em sede de Recurso Especial, ante à conclusão da Corte de origem de que não teria sido devidamente demonstrados os fatos suscitados que ensejariam a referida suspeição. Incide na espécie o óbice da Súmula 7/STJ.
+10. Ante o exposto, revisando a decisão de fls. 151, nega-se provimento ao Agravo, por motivo diverso.
+11. Publique-se.
+12. Intimações necessárias.
