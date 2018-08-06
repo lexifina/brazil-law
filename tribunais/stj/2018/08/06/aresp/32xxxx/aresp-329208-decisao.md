@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544) interposto por AGRO PASTORIL CARACOL LTDA. contra decisão que inadmitiu o recurso especial por ausência de violação ao art. 535 do CPC/1973, inexistência de vulneração a dispositivos legais e não comprovação do dissídio (e-STJ fls. 606/608).
+O acórdão recorrido está assim ementado (e-STJ fl. 487):
+Bem móvel - Ação de revisão e rescisão de contratos de compra e venda de cana de açúcar c.c. Indenização - Fixação de multa diária por descumprimento das ordens judiciais (depósito de 70% do preço da cana alienada a terceiros e apresentação dos contratos firmados com terceiros), em anterior acórdão - Alegação de descumprimento da agravada Caracol que, embora tenha recebido valores com a venda da cana a terceiros, não depositou o valor da venda em juízo, conforme determinado no Acórdão, tornando exigível a multa diária - Pedido para que a multa diária seja computada a partir da publicação do Acórdão que a fixou - Falta de interesse recursal, tendo em vista já estar claramente fixada a incidência da multa diária - Não conhecimento nesta parte - Pedido para início de imediata execução provisória - Cabimento, por conta e risco dos agravantes - Agravo provido, na parte conhecida.
+Os embargos de declaração foram rejeitados (e-STJ fls. 513/514).
+Nas razões do recurso especial (e-STJ fls. 517/555), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alegou ofensa aos arts. 165, 458 e 535 do CPC/1973 por contradição e omissão na incidência de multa diária, ausência de interesse e legitimidade recursal dos recorridos, julgamento extra petita e descumprimento de decisão judicial anterior.
+Afirmou violação dos arts. 502 e 522 do CPC/1973, pois inexistente interesse recursal diante da ausência de conteúdo decisório da decisão agravada. Trouxe dissídio.
+Indicou infringência aos arts. 28, 460 e 475-O do CPC/1973 por ocorrência de julgamento extra petita ao ser permitida execução provisória sem que houvesse pedido expresso.
+Asseverou inexistência de descumprimento de obrigação legal para a fixação de multa diária, de acordo com os arts. 165, 184, § 2º, e 240 do CPC/1973.
+Mencionou existência de questão de ordem pública não apreciada pelo acórdão recorrido, fundada na ausência de interesse e legitimidade dos recorridos nos termos dos arts. 3º, 267, VI, 499 e 567, II, do CPC/1973 e 290 do CC/2002, pois a cana de açúcar em nenhum momento teria sido comprometida em favor deles.
+No agravo (e-STJ fls. 611/648), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada pelos recorridos (e-STJ fls. 651/676).
+É o relatório.
+Decido.
+O recurso especial e o agravo foram interpostos com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, conforme dispõe o art. 535, I e II, do CPC/1973.
+Inexiste afronta ao art. 535 do CPC/1973 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+Desse modo, não assiste razão ao recorrente, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente aos seus interesses, não incorrendo em nenhum dos vícios previstos nos arts. 458, II, e 535, II, do CPC/1973.
+Além do mais, não há nulidade no acórdão recorrido, o qual possui fundamentação suficiente à exata compreensão das questões apreciadas.
+Sob outro aspecto, houve conteúdo decisório na decisão agravada a ser impugnado por recurso (e-STJ fl. 195). Apesar de fixada multa, buscava o agravante sua execução, pedido que não foi atendido pelo julgador monocrático. Afastado, portanto, o dissídio em relação ao tema.
+Outrossim, não houve julgamento além do pedido, pois a parte foi expressa ao requerer a "imediata execução provisória" (e-STJ fl. 24).
+O mérito da multa diária não foi analisado pela Turma julgadora, que apenas determinou o cumprimento de decisão anterior que a fixou, nos seguintes termos (e-STJ fls. 489/490):
+Examinando-se o V. Acórdão, cuja cópia esta juntada a fls. 316/322, ficou claramente estabelecida a "fixação de multa diária no valor de R$30.000,00 (trinta mil reais),a contar da data da intimação da parte pelo DJE deste Acórdão" (sem grifos na cópia de fls. 322). Não há qualquer dúvida com relação a tal ponto e, por isto mesmo, não há interesse da parte para tal tipo de pedido, ou seja, fixar o que já está claramente fixado e que não foi alterado por qualquer decisão judicial do nobre Magistrado.
+Assim, descabe a análise da questão trazida no recurso especial a respeito da inexistência de descumprimento de obrigação contratual ou comprometimento de cana de açúcar, uma vez que a multa havia sido anteriormente fixada, analisando-se tais aspectos em julgado anterior, descabendo nova discussão sobre os temas.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
