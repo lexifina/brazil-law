@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544) interposto por GANG COMERCIO DO VESTUÁRIO LTDA. contra decisão que inadmitiu o recurso especial por ausência de ofensa ao art. 535 do CPC/1973 e incidência da Súmula n. 7 do STJ (e-STJ fls. 1.126/1.132).
+O acórdão recorrido está assim ementado (e-STJ fl. 1.063):
+Apelação cível. Propriedade intelectual. Ação cautelar de produção antecipada de provas visando a constatação de produtos expostos com o uso indevido da marca "Gang". Inocorrência de ofensa à coisa julgada a sentença que extinguiu a ação, ainda que o agravo de instrumento não tenha sido conhecido no TJRS da decisão de nomeação do perito. A preclusão é pro judicato e não para o órgão julgador. A decisão de nomeação de perito suspeito viola do artigos 420, 439 e 850 do Código de Processo Civil. O profissional indicado pelo autor não tem como ser imparcial, sendo também maculado o art. 139 do CPC e fere a isonomia de tratamento entre as partes, já que o juízo teria que nomear também como perito o assistente técnico que fosse indicado pelo réu. Apelo não provido, por maioria.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.082/1.086).
+Nas razões do recurso especial (e-STJ fls. 1.097/1.107), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alegou ofensa aos arts. 165, 458 e 535 do CPC/1973 pela omissão na análise da necessidade de arguição de suspeição em incidente próprio e preclusão em relação à nomeação do perito.
+Considerou violados os arts. 422 e 424 do CPC/1973, pois o perito é um assistente judicial e sua suspeição demandaria o ajuizamento de incidente próprio, podendo haver substituição apenas nos casos legalmente previstos.
+Defendeu infringência ao art. 471 do CPC/1973 porque a questão da nomeação do perito havia sido anteriormente apreciada em agravo não conhecido por deficiência em sua formação, havendo ofensa à coisa julgada e preclusão. Menciona dissídio.
+No agravo (e-STJ fls. 1.136/1.152), afirma a presença de todos os requisitos de admissibilidade do especial.
+A parte recorrida não apresentou contraminuta (e-STJ fl. 1.154).
+É o relatório.
+Decido.
+O recurso especial e o agravo foram interpostos com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, conforme dispõe o art. 535, I e II, do CPC/1973.
+Inexiste afronta ao art. 535 do CPC/1973 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+Desse modo, não assiste razão à recorrente, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente aos seus interesses, não incorrendo em nenhum dos vícios previstos no art. 535, II, do CPC/1973.
+A questão da necessidade de discussão da suspeição em demanda própria, por sua vez, foi trazida apenas nos embargos de declaração e no recurso especial posterior, não sendo objeto de discussão na apelação. Assim, tratando-se de tema novo, descabia sua análise pelo Tribunal de origem. Ausente o prequestionamento, não é possível a discussão do tema nesta Corte. A ausência de debate prévio da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o conhecimento do recurso, diante da incidência da Súmula n. 211 do STJ.
+Sob outro aspecto, ao afastar a coisa julgada e a preclusão, a Turma julgadora assim se posicionou (e-STJ fls. 1.069/1.070):
+(..) Foi perita nomeada pelo juiz a própria assistente técnica indicada pelo autor.
+(..)
+Não considero ofensa à coisa julgada a sentença que extinguiu a ação, ainda que o agravo de instrumento não tenha sido conhecido no TJRS da decisão de nomeação do perito. A preclusão é pro judicato e não para o órgão julgador. E se o agravo de instrumento não foi conhecido, porque faltou a juntada de peça obrigatória, na verdade não houve validação da prova e da nomeação do perito suspeito pelo TJRS, em grau recursal.
+A decisão de nomeação de perito suspeito viola do artigos 420, 439 e 850 do CPC. O profissionais indicado pelo autor não tem como ser imparcial, sendo também maculado o art. 139 do CPC e fere a isonomia de tratamento entre as partes, já que o juízo teria que nomear também como perito o assistente técnico que fosse indicado pelo réu.
+E como a sentença no caso é homologatória da regularidade formal do processo, essa sentença não pode ser prolatada, porque estar-se-ia chancelando uma ilegalidade, violados ao artigos 420 a 439 do CPC.
+Tais fundamentos, relativos à aplicação dos princípios da imparcialidade e isonomia, não foram impugnados. Assim, remanescendo inatacado fundamento suficiente à manutenção das conclusões do acórdão recorrido, incide o óbice da Súmula n. 283 do STF, quer com base na alínea "a", quer na alínea "c" do permissivo constitucional.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
