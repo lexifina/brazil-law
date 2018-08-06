@@ -1,0 +1,26 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 2/STJ. SERVIDOR PÚBICO. ADICIONAL DE INSALUBRIDADE. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ. INTERPRETAÇÃO DE DIREITO LOCAL. SÚMULA 280/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto pelo Município de Monsenhor Tabosa, com fundamento no art. 105, III, "a", da CF/1988, contra acórdão do Tribunal de Justiça do Estado do Ceará, nesses termos ementado:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM FACE DE DECISÃO QUE DEU PROVIMENTO AO APELO. SERVIDOR PÚBLICO MUNICIPAL. ADICIONAL DE INSALUBRIDADE. CABIMENTO. ALEGAÇÃO DE IMPOSSIBILIDADE DE PAGAMENTO DIANTE DE INEXISTÊNCIA DE LEGISLAÇÃO LOCAL QUE DISCIPLINE O TEMA. TESE REJEITADA. AFRONTA À CONSTITUIÇÃO FEDERAL E AO POSICIONAMENTO DO STF. CONCESSÃO DO ADICIONAL DE INSALUBRIDADE DEVIDA. INTELIGÊNCIA DO ARTIGO 7º, INCISO XXIII DA CF/1988. DECISÃO MANTIDA. AGRAVO CONHECIDO MAS NÃO PROVIDO.
+1. Na origem trata-se de Ação Ordinária proposta pelas ora agravadas, em desfavor do Município de Monsenhor Tabosa/CE, meio pelo qual pleitearam a condenação da municipalidade ao pagamento do adicional de insalubridade devido, correspondente à realização de trabalho insalubre, conforme destacado à exordial.
+2. Não prospera a tese recursal do município agravante no que pertine ao não cabimento do pagamento do adicional de insalubridade às promoventes pela inexistência de legislação pertinente, bem como pela ausência de comprovação de realização de trabalho em condições insalubres.
+3. Verifica-se a comprovação de realização de trabalho insalubre por parte das promoventes, conforme atesta a investigação realizada pelo Ministério Público do Trabalho (laudos anexos aos autos). No caso, não há falar em inidoneidade da perita que constatou o grau de insalubridade à função, sendo esta técnica competente para a realização de tal laudo.
+4. Assim, nos termos dos artigos 269, I, 330, I, 458 e 458 do Código de Processo Civil, c/c os arts. 1º, inciso XXIII e inciso XXXV, da Constituição Federal , arts. 189, 190, § único, e 192, da Consolidação das Leis do Trabalho, item 15.1.3 da NR nº 15, anexo nº 14, arts. 79, §§ 1º e 2º da Lei Orgânica do Município de Monsenhor Tabosa/CE, artigo 5º, da Lei Municipal nº 274/2009 e art. 4º da Lei de Introdução do Código Civil Brasileiro, verifica-se devido o adicional de insalubridade pleiteado.
+Precedentes do Supremo Tribunal Federal.
+5. O pagamento será calculado em 20% (vinte por cento) sobre o vencimento básico (salário base) dos servidores públicos. Ressalve-se que, diante da prescrição qüinqüenal aplicada às pretensões contra a Fazenda Pública (Decreto nº 20.910/1932), verifica-se que a concessão do adicional deverá observar o limite de 05 (cinco) anos anteriores à propositura da demanda, respeitadas as datas de ingresso de cada servidora nos respectivos cargos públicos.
+6. Assim, não há razões para afastar o entendimento anteriormente adotado, mormente pois amparado em vasta jurisprudência (precedentes do STF), devendo, assim, ser mantida a decisão monocrática proferida.
+7. Agravo Regimental conhecido e não provido.
+Em suas razões de recurso especial, sustenta a parte recorrente "por meio da Lei Municipal nº. 274/2009, o Município de Monsenhor Tabosa, determinou a previsão do adicional de insalubridade para seus servidores. Contudo, a referida lei não prevê como beneficiário o ocupante da função de gari. Neste caso, cabe destacar que a Lei Municipal nº. 274/2009, em seus artigos 1º a 5º discrimina os servidores beneficiários do adicional de insalubridade e respectivos percentuais" (e-STJ fl. 321).
+Aduz ainda que "em que pese existir um laudo pericial nos autos, atestando a função de gari como nociva no grau máximo, trata-se de prova produzida unilateralmente pela parte autora. Não há a CONSTATAÇÃO DE TAL ATIVIDADE COMO INSALUBRE POR MEIO DE UM LAUDO TÉCNICO ESPECIFICO".
+Não foram apresentadas contrarrazões.
+Juízo positivo de admissibilidade.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 2/STJ:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça.
+A irresignação não merece prosperar.
+Compulsando os autos, observo que a Corte de Origem ao apreciar a presente demanda, entendeu pela realização de trabalho em condições insalubres, nos seguintes termos:
+Quanto à comprovação de estarem trabalhando sob condições insalubres, as apelantes se desincumbiram de tal ônus, juntando laudo pericial idôneo, assinado por uma Analista Pericial em Medicina do Trabalho, técnica competente para a elaboração de tal laudo (fls.46/50, e-SAJ).
+Com efeito, a inversão do julgado, a fim de atender a pretensão recursal, demandaria, necessariamente, incursão no conjunto probatório dos autos, bem como, interpretação de direito local (Lei Municipal nº 274/2009), sendo vedado a este Superior Tribunal de Justiça, em decorrência da aplicação do disposto nas Súmulas 7/STJ e 280/STF .
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
