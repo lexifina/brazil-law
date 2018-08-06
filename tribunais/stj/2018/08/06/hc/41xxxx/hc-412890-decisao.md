@@ -1,0 +1,19 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E CORRUPÇÃO ATIVA. ALEGAÇÃO DE EXCESSO NA PENA-BASE. AUSÊNCIA DE DISCUSSÃO NO ACÓRDÃO HOSTILIZADO. APELAÇÃO QUE ABORDOU APENAS A ABSOLVIÇÃO. NÃO PREQUESTIONAMENTO. SUPRESSÃO DE INSTÂNCIA.
+Writ não conhecido.
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], em que se aponta como autoridade coatora a Terceira Câmara Criminal do Tribunal de Justiça do Rio de Janeiro.
+Segundo a denúncia, o paciente transportava e trazia consigo a quantidade de 542 g de maconha, acondicionados em 175 sacolés (fls. 7/9). Na sentença, [NOME] foi condenado como incurso no art. 33, caput, da Lei n. 11.343/2006, e art. 333 do Código Penal, na forma do art. 69 do Código Penal, à pena de 9 anos de reclusão, em regime fechado, e 660 dias-multa (fls. 17/36).
+Em sede de apelação, a defesa recorreu, pedindo a absolvição, por insuficiência probatória, por ter sido a prova baseada no depoimento dos policiais militares que efetuaram a prisão. A Terceira Câmara Criminal do Tribunal de Justiça do Rio de Janeiro negou provimento ao recurso (fls. 37/45).
+No presente writ, a impetrante alega excesso na fixação da pena, que teve a pena-base elevada por maus antecedentes, em 1/5 (um quinto), em face do crime previsto no art. 33 da Lei de Drogas, e 1/2 (metade), quanto ao crime previsto no art. 333 do Código Penal, em razão de uma única anotação transitada em julgada, em 4/3/08, em que teve uma condenação de 6 anos de reclusão (fls. 1/6).
+Parecer ministerial, opinando pelo não conhecimento do writ, por não ter o Tribunal se manifestado acerca da elevação da pena.
+É o relatório.
+A impetrante aponta constrangimento ilegal em relação à circunstância judicial dos antecedentes e alega que houve excessivo aumento por parte do Magistrado na sentença.
+Quando interposto o recurso de apelação, nada mencionou a defesa acerca do excessivo aumento da pena-base, mas tão somente pediu a absolvição, por fragilidade probatória, por ter sido a prova baseada em depoimento de policial militar. Da mesma forma, a Terceira Câmara Criminal do Tribunal de Justiça do Rio de Janeiro não analisou a dosimetria da pena, não podendo agora, em sede de habeas corpus, esta Corte Superior incorrer em supressão de instância. A propósito:
+ ..
+3. Diferentemente do que argumenta o agravante, não é possível, nem em recurso especial nem em habeas corpus, o reexame de fatos e provas, devendo a análise se limitar à análise de eventual constrangimento ilegal perpetrado pela Corte local. Com efeito, assim como o recurso especial demanda prequestionamento, o habeas corpus não pode incidir em supressão de instância, razão pela qual o julgamento se limita ao que decidido pela Corte local. A diversidade das classes processuais se revela, em verdade, na formalidade para seu efetivo conhecimento, uma vez que os óbices recursais são inúmeros. Nada obstante, a profundidade no exame do mérito é relativamente a mesma, uma vez que o Superior Tribunal de Justiça não pode ser considerado terceira instância recursal. Portanto, necessário que o recurso especial aponte efetiva violação à lei e que o habeas corpus revele manifesto constrangimento ilegal. Os temas já analisados no recurso especial denotam a ausência de afronta à lei e, por conseguinte, a ausência de constrangimento ilegal, motivo pelo qual não há se falar em análise do mesmo tema, em instrumentos processuais diferentes, uma vez que o entendimento sobre a matéria apresentada já foi efetivamente firmado. Portanto, reitero a parcial prejudicialidade do habeas corpus. De igual forma, inviável desconstituir a conclusão da origem sobre a não comprovação da causa excludente da culpabilidade.
+4. Agravo regimental improvido.
+ ..
+(AgRg no HC n. 434.403/PE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 30/5/2018 - grifo nosso)
+Ante o exposto, não conheço do writ.
+Publique-se.
