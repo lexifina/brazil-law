@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de CRISTIANO [NOME] DA [NOME], no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado, juntamente com um corréu, como incurso no art. 157, § 2º, I e II, do Código Penal, às penas de 6 (seis) anos de reclusão, em regime inicial fechado, e pagamento de 15 dias-multa.
+Irresignada, a defesa interpôs recurso de apelação, desprovido nos termos do acórdão de e-STJ fls. 44//53.
+Transitada em julgado a condenação, foi aviado pedido de revisão criminal, deferido para reduzir as penas para 5 (cinco) anos e 4 (quatro) meses de reclusão, e pagamento de 13 dias-multa (e-STJ fls. 54/62).
+No presente writ o impetrante requer nova dosimetria penalógica.
+Informações prestadas às e-STJ fls. 29/35 e 37/79.
+Manifestação da Defensoria Pública do Estado de São Paulo às e-STJ fls. 83/84.
+Parecer ministerial pela denegação da ordem às e-STJ fls. 87/89.
+É, em síntese, o relatório.
+De início, convém alertar que a jurisprudência pátria vem se firmando no sentido de que o habeas corpus não é a via apropriada para a discussão da dosimetria penalógica, quando há a necessidade de revolvimento dos dados fáticos do processo. Nesse sentido, julgados de ambas as Turmas integrantes da Terceira Seção:
+HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. ENORME QUANTIDADE DA DROGA. EXASPERAÇÃO JUSTIFICADA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. NÃO INCIDÊNCIA. CONCLUSÃO DE QUE O PACIENTE DEDICAVA-SE ÀS ATIVIDADES CRIMINOSAS. AFERIÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE. REGIME INICIAL DIVERSO DO FECHADO. IMPOSSIBILIDADE. PENA SUPERIOR A 8 ANOS DE RECLUSÃO. DENEGAÇÃO DA ORDEM.
+1. A dosimetria é uma operação lógica, formalmente estruturada, de acordo com o princípio da individualização da pena. Tal procedimento envolve profundo exame das condicionantes fáticas, sendo vedado revê-lo em sede de habeas corpus, salvo em situações excepcionais.
+ ..
+5. Habeas corpus denegado. (HC 398.702/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 05/09/2017, DJe 18/09/2017.)
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. RECEPTAÇÃO QUALIFICADA. DOSIMETRIA. REGIME INICIAL DE CUMPRIMENTO DE PENA. RÉU REINCIDENTE. MOTIVAÇÃO IDÔNEA PARA A IMPOSIÇÃO DO REGIME FECHADO. DETRAÇÃO DO TEMPO DE CUSTÓDIA CAUTELAR. SENTENÇA CONDENATÓRIA TRANSITADA EM JULGADO. COMPETÊNCIA CONCORRENTE DO JUÍZO DAS EXECUÇÕES. WRIT NÃO CONHECIDO E ORDEM CONCEDIDA DE OFÍCIO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. A individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades. Dessarte, salvo flagrante ilegalidade, o reexame das circunstâncias judiciais e os critérios concretos de individualização da pena mostram-se inadequados à estreita via do habeas corpus, pois exigiriam revolvimento probatório.
+ ..
+9. Writ não conhecido e habeas corpus concedido, de ofício, para determinar que o Juízo das Execuções proceda ao exame da possibilidade de detração do tempo de prisão cautelar, nos moldes do art. 387, § 2º, do CPP. (HC 401.931/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 10/10/2017, DJe 17/10/2017.)
+Nessa tessitura, a correção da reprimenda penal nesta angusta via é absolutamente extraordinária, sendo que, no presente caso, não vislumbro manifesto constrangimento ilegal a excepcionar o referido posicionamento.
+No que tange à dosimetria da pena, o Tribunal de origem deixou assente que (e-STJ fls. 62/63):
+A pena, todavia, comporta alteração. Partindo da pena-base fixada no mínimo legal, o Magistrado impôs o acréscimo de metade (1/2), referindo-se, exclusivamente, à circunstância de serem duas as qualificadoras. Agora, nos termos da Súmula 443 do Egrégio Superior Tribunal de Justiça, o aumento é reduzido para 1/3 (um terço), resultando em 5 (cinco) anos e 4 (quatro) meses de reclusão e pagamento de 13 (treze) dias-multa, no piso mínimo.
+O regime inicial fechado, contudo, é mantido e foi bem fundamentado na sentença, com destaque para o número de agentes e a violência efetiva empregada na prática do roubo, circunstâncias que são incompatíveis com solução mais branda.
+Por força da regra do artigo 580 do Código de Processo Penal, estende-se ao correu [NOME] a solução no tocante à redução da pena.
+Com efeito, no que toca à dosimetria da pena, cumpre destacar que é o momento em que o magistrado, dentro dos limites abstratamente previstos na lei, aplica de forma fundamentada o quantum ideal de reprimenda a ser imposta ao condenado, obedecendo a um sistema trifásico.
+A fixação das penas revela um labor regulado por princípios e regras constitucionais e legais, previstos no artigo 5º, inciso XLVI, da Constituição Federal, nos artigos 59 e 68 do Código Penal e no artigo 387 do Código de Processo Penal.
+Nessa toada, para chegar a uma aplicação justa e equânime da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve ater-se às singularidades do caso concreto, para entregar a devida e substancial prestação jurisdicional.
+A ponderação das oito circunstâncias judiciais contidas no art. 59 do Código Penal não se resume a uma simples operação aritmética, uma conta matemática que fixa pesos estratificados a cada uma delas. Tal ponderação enseja um verdadeiro processo que impõe ao magistrado apontar, de forma motivada, as balizas para a fixação da pena-base e aplicar a reprimenda que melhor servirá para a prevenção e repressão do fato delituoso.
+BITTENCOURT, ao citar [NOME], descreve as circunstâncias judiciais como "condições acessórias, que acompanham o fato punível, mas não penetram na sua estrutura conceitual e, assim, não se confundem com os seus elementos constitutivos" (BITENCOURT, Cezar Roberto. Manual de Direito Penal: parte geral, v. 1., 7. ed. rev. e atual. São Paulo: Saraiva, 2002, p. 550).
+A análise do decidido pela instância ordinária deixa assente que a basal foi fixada com estrita observância às particularidades do caso, sendo a pena aplicada com proporcionalidade e razoabilidade, inexistindo flagrante ilegalidade a ser sanada. A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIME DE TRÂNSITO. EMBRIAGUEZ AO VOLANTE. PLEITO DE REVISÃO DA DOSIMETRIA DA PENA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE.
+1. Deve ser mantida por seus próprios e jurídicos fundamentos a decisão monocrática que denegou a ordem de habeas corpus.
+2. O Tribunal a quo, no uso de sua discricionariedade, e com base nas particularidades do caso, aplicou a pena com proporcionalidade, não havendo flagrante ilegalidade a ser sanada.
+3. Agravo regimental improvido. (AgRg no HC 401.200/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 06/02/2018, DJe 15/02/2018.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O NARCOTRÁFICO. DOSIMETRIA. PENA-BASE. DISCRICIONARIEDADE. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A dosimetria da pena configura matéria restrita ao âmbito de certa discricionariedade do magistrado e é regulada pelos critérios da razoabilidade e da proporcionalidade, de maneira que deve ser mantida inalterada a reprimenda-base aplicada ao agravante, a qual, aliás, foi estabelecida em apenas 1 ano acima do mínimo legal em decorrência da apreensão de mais de 70 quilos de cocaína.  ..
+3. Agravo regimental não provido. (AgRg no HC 370.617/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 21/11/2017, DJe 28/11/2017.)
+Tal o contexto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
