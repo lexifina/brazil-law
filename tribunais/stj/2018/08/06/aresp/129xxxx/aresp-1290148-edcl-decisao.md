@@ -1,0 +1,25 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por [NOME] S/A CRÉDITO IMOBILIÁRIO contra a decisão de fls. 139/140 que não conheceu do recurso.
+Em suas razões, sustenta a parte Embargante, em síntese, que: "Verifica-se pelo andamento processual anexo (DOC II) que a intimação eletrônica fora expedida em 12/09/2017, todavia a data que a lei reconhece como recebimento é a da intimação tácita que ocorreu no dia 22/09/2017, conforme certidão de intimação tácita acostada (DOC III)." (fl. 144).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte Embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer que consta dos autos certidão de publicação (fl. 113). Nesses casos, quando há intimação eletrônica e publicação, esta última prevalece, pois, "nos termos da legislação citada a publicação em Diário de Justiça eletrônico substitui qualquer outro meio de publicação oficial para quaisquer efeitos legais" (AgRg no AREsp 726.124/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/06/2016, DJe 01/07/2016.)
+Nesse sentido, ainda:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INTEMPESTIVIDADE. PREVALÊNCIA DA PUBLICAÇÃO DO DIÁRIO DA JUSTIÇA ELETRÔNICO. EMBARGOS REJEITADOS.
+1. Não merecem acolhimento os embargos de declaração opostos sem a indicação de obscuridade, contradição, omissão ou erro material (CPC/2015, arts. 1.022 e 1.023), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas no aresto embargado, já que não são cabíveis para provocar novo julgamento da lide.
+2. Havendo intimação eletrônica e publicação da decisão no Diário da Justiça Eletrônico, prevalece a última, porquanto a Lei 11.419/2006 dispõe que a publicação em Diário de Justiça eletrônico substitui qualquer outro meio de publicação oficial para quaisquer efeitos legais.
+3. Embargos de declaração rejeitados."
+(EDcl no AgInt no AREsp 861.128/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 06/04/2017, DJe 03/05/2017.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. LEI Nº 11.419/2006. INTIMAÇÃO TÁCITA. PREVALÊNCIA DA PUBLICAÇÃO DO DIÁRIO DE JUSTIÇA ELETRÔNICO.
+1. Ocorrendo a intimação eletrônica e a publicação da decisão no Diário de Justiça eletrônico, prevalece esta última, uma vez que nos termos da legislação, a publicação em Diário de Justiça eletrônico substitui qualquer outro meio de publicação oficial para quaisquer efeitos legais.
+2. Agravo interno não provido."
+(AgInt no AREsp 945.234/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 14/03/2017, DJe 27/03/2017.)
+Veja-se que o entendimento previsto na Lei n. 11.419/06, de que a publicação em Diário de Justiça eletrônico substitui qualquer outro meio de publicação oficial para quaisquer efeitos legais, foi mantido pelo Conselho Nacional de Justiça na edição da Resolução n.º 234, de 13 de julho de 2016, que regulamenta as publicações e intimações sob a égide do Código de Processo Civil de 2015.
+A resolução estabelece em seu art. 5.º, § 1.º que "a publicação do DJEN substitui qualquer outro meio de publicação oficial, para fins de intimação, à exceção dos casos em que a lei exija vista ou intimação pessoal". Assim, é irrelevante existir a intimação eletrônica nos autos, uma vez que há certidão de publicação.
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp 1315507/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/08/2014, DJe 28/08/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, REJEITO os embargos de declaração e advirto a parte Embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2.º, do Código de Processo Civil).
+Publique-se. Intimem-se.
