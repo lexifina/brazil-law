@@ -1,0 +1,24 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ARTS. 128, 460 E 505 DO CPC/1973. AUSÊNCIA DE PREQUESTIONAMENTO E DE COMANDO NORMATIVO. SÚMULAS 211/STJ E 284/STF. HONORÁRIOS ADVOCATÍCIOS. OFENSA À RAZOABILIDADE E PROPORCIONALIDADE. POSSIBILIDADE DE REVISÃO DO JUÍZO DE EQUIDADE. EXCEPCIONALIDADE CONFIGURADA. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NA EXTENSÃO, PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF3 assim ementado (fl. 218):
+TRIBUTÁRIO. EXECUÇÃO FISCAL. REMESSA OFICIAL. DESCABIMENTO. CANCELAMENTO DA INSCRIÇÃO DA DÍVIDA ATIVA. EXTINÇÃO. ART. 26, DA LEI N. 6.380/80. CONDENAÇÃO AO PAGAMENTO DE CUSTAS E HONORÁRIOS ADVOCATÍCIOS.
+I - A sentença não está sujeita ao reexame necessário, porquanto o duplo grau de jurisdição obrigatório aplica-se tão somente ao processo de conhecimento. Outrossim, o disposto no art. 475, inciso II, do Código de Processo Civil refere-se à sentença de procedência dos embargos, os quais, no caso, não foram opostos.
+II - Na hipótese de extinção de execução fiscal fundada no art. 26, da Lei n. 6.830/80, o cabimento da condenação da Fazenda Pública ao pagamento das custas e dos honorários advocatícios deve ser analisado à luz do princípio da causalidade.
+III - Constatado o indevido ajuizamento da execução fiscal, a União Federal deverá arcar com os ônus da sucumbência, nos termos do art. 20, do Código de Processo Civil, sendo irrelevante a ausência de embargos à execução.
+IV - Honorários advocatícios reduzidos ao valor de R$ 1.200,00 (um mil e duzentos reais), consoante o entendimento da 6ª Turma desta Corte.
+V - Remessa oficial não conhecida. Apelação da União parcialmente provida.
+Embargos de declaração rejeitados.
+O recorrente alega violação dos arts. 20, §§3º e 4º, 128, 460, 505 e 515 do CPC/1973, sob os seguintes argumentos: a) como reconhecido no acórdão, a sentença não estava sujeita à remessa oficial, razão pela qual o tribunal de origem apenas poderia conhecer a matéria contida na apelação da ora recorrida; b) no seu recurso, a Fazenda Nacional não tratou do montante fixado a título de honorários, mas apenas da incidência da sucumbência em si, face ao art. 26 da LEF; c) logo, o acórdão decidiu fora dos limites contidos na apelação fazendária; d) a redução da verba foi arbitrada de forma desarrazoada, sendo fixado valor irrisório (R$1.200,00, correspondentes a 0,0146% do valor original executado, R$8.184.855,84), que não atende aos critérios legais.
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 280-281.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016).
+De pronto, evidencia-se que os arts. 128, 460 e 505 do CPC/1973 (e as teses a eles vinculadas) não foram apreciados pela Corte de origem, inclusive após terem sido opostos os embargos de declaração, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se à hipótese a Súmula 211/STJ.
+Lado outro, observa-se que os referidos dispositivos e o art. 515 do CPC/1973 não contêm comando normativo capaz de infirmar o juízo formulado no acórdão recorrido. Incide no caso a Súmula 284/STF.
+No que diz respeito ao art. 20, §§3º e 4º, do CPC/1973, a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que os valores fixados a título de honorários advocatícios somente podem ser modificados em situações excepcionais, quando se mostrarem irrisórios ou exorbitantes, de modo a afrontar os parâmetros da razoabilidade.
+No presente caso, o Tribunal de origem, ao analisar os elementos fáticos dos autos, concluiu que o montante de R$ 1.200,00 é suficiente para retribuir o trabalho dos procuradores da parte.
+Ocorre que se trata, originariamente, de cobrança de débito fiscal inscrito em dívida ativa no total de R$8.184.855,84, inscrição esta que foi cancelada em razão da anulação do débito, sendo extinta a execução fiscal com base no art. 26 da LEF. Deste modo, evidencia-se que os honorários arbitrados representam apenas 0,01% do valor da causa, percentual este, a bem de ver, desproporcional ao proveito econômico discutido, equivalendo, de fato, a valor irrisório, em clara ofensa aos princípios da razoabilidade e proporcionalidade.
+Assim, cabível a majoração pretendida, a qual determino em 1% do valor atribuído à causa.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, dou-lhe provimento, a fim de majorar os honorários advocatícios fixados, nos termos da fundamentação.
+Publique-se. Intimem-se.
