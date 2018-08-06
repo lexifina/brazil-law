@@ -1,0 +1,20 @@
+EMENTA
+HABEAS CORPUS. ART. 289, § 1º, DO CP. PENA INFERIOR A 4 ANOS. IMPOSIÇÃO DO REGIME INICIAL FECHADO EM FUNÇÃO DA REINCIDÊNCIA. AUSÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. INCIDÊNCIA DA SÚMULA 269/STJ. EVIDENTE CONSTRANGIMENTO ILEGAL.
+Ordem concedida para modificar o regime inicial de cumprimento da pena imposta ao paciente nos Autos n. 0803507-20.2017.4.05.8000, da 3ª Vara Federal de Maceió/AL, para o semiaberto.
+DECISÃO
+Por meio deste writ, pretende-se a imediata modificação do regime de início de cumprimento da pena a que foi condenado [NOME] no Processo n. 0803507-20.2017.4.05.8000, da 3ª Vara Federal da Subseção Judiciária de Maceió/AL, para o semiaberto, pelo reconhecimento da ocorrência de bis in idem na segunda fase da dosimetria.
+Indeferi o pedido liminar, com a determinação de apensamento dos presentes autos aos do HC n. 414.662/AL, no qual foi acolhida a pretensão de afastamento do bis in idem e determinada a realização de nova dosimetria da pena pelo Tribunal a quo.
+Opinou o Ministério Público Federal pelo não conhecimento do writ, nos termos do parecer às fls. 60/62.
+É o relatório.
+Há constrangimento ilegal apto de ser reparado por esta via.
+Segundo as informações prestadas nos autos do HC n. 414.662/AL, o Tribunal a quo, ao realizar nova dosimetria e reduzir a pena do paciente a 3 anos de reclusão, manteve o regime inicial fechado em razão da reincidência. Confira-se o que disse o Relator (fls. 57/58):
+ ..
+Atento às regras do sistema trifásico, abrigado no artigo 68, do Código Penal, reduzo a pena-base para o mínimo legal de três anos de reclusão, ante a inexistência de qualquer circunstância judicial em desfavor do réu, já que o fato de estar respondendo a processo criminal não lhe desabona a conduta, à vista do princípio constitucional da presunção de inocência, estampado no já referido epítome da Súmula 444, do Superior Tribunal de Justiça.
+Passando à segunda fase do apenamento, mantenho a elevação decorrente da aplicação da agravante da reincidência (artigo 61, inciso I, do Código Penal), por ser incontroverso que o réu foi condenado por sentença transitada em julgado nos autos de n.º 7000112-22.2014.8.26.0771.0001 na comarca de Itapevi/SP, pelo crime previsto no art. 293, § 3º, do Código Penal, com sentença transitada em julgado no dia 10/05/2013, e, reafirmando a elevação da pena-base em um sexto, agravando a pena-base em um sexto, chegando, assim, a três anos e seis meses de reclusão.
+Este acréscimo, entretanto, deve ser compensando com a atenuante da confissão espontânea (artigo 65, inciso III, do Código Penal), o que faz a sanção retornar para três anos de reclusão, pena que torno definitiva, à míngua de outras alterações a serem realizadas.
+Quanto à pena de multa, reduzo-a para dez dias-multa, porém, mantenho incólume o valor do dia-multa em um quinto do salário mínimo então vigente, visto que seu cálculo deve atender às condições econômicas do condenado (artigo 49, do Código Penal), que não foram alteradas pela decisão ora em apreço.
+Finalmente, observando a inteligência das normas hospedadas no artigo 33, § 2º, combinado com o artigo 44, inciso II, também do Estatuto Repressor, por ser o réu reincidente em crime doloso, deixo de substituir a pena privativa de liberdade por restritiva de direitos, bem como confirmo o regime fechado para o início do cumprimento da reprimenda.
+Sucede que diz nossa sedimentada jurisprudência que  ..  é admissível a adoção do regime prisional semi-aberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais (Súmula 269/STJ).
+No caso, a ausência de circunstâncias desfavoráveis fez com que a pena-base fosse fixada no mínimo legal. Apesar de reincidente, o paciente foi condenado a sanção inferior a 4 anos de reclusão, sendo adequada, portanto, a fixação do regime inicial semiaberto.
+Ante o exposto, com base na jurisprudência, concedo a ordem para modificar o regime inicial de cumprimento da pena imposta ao ora paciente no Processo n. 0803507-20.2017.4.05.8000, da 3ª Vara Federal de Maceió, para o semiaberto.
+Publique-se.
