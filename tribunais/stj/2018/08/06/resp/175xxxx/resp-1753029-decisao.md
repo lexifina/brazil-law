@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial manejado por Oi Móvel S/A, com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso, assim ementado (fl. 434):
+CUMPRIMENTO DE SENTENÇA  ASTREINTES  EXCESSIVIDADE  REDUÇÃO  POSSIBILIDADE  JUROS E CORREÇÃO  CABIMENTO  DECISÃO MANTIDA  RECURSO DESPROVIDO.
+A imposição de multa diária disposta no art. 537 do NCPC (art. 461, § 4º, do CPC/73), tem por objetivo forçar o devedor a cumprir o comando judicial emanado, sendo ela perfeitamente admissível quando ocorre o seu descomprimemto, ou seja, a astreintes possui a função de coagir o devedor a prestar certa obrigação.
+A luz do art. 537, § 1º; inc. I, do CPC/15 e dos princípios da equidade, razoabilidade e proporcionalidade, é possível a redução das astreintes, caso verificado o excesso.
+Não há que se falar em trânsito em julgado do valor da multa diária. É plenamente possível a revisão da quantia arbitrada a título de multa.
+A incidência de juros e correção é totalmente cabível na multa cominatória devida, por se tratar de pagamento em pecúnia.
+Irresignada, a parte recorrente aponta divergência jurisprudencial. Para tanto, sustenta que é incabível a incidência de juros moratórios sobre a multa cominatória, sob pena de bis in idem.
+É o relatório.
+No que diz respeito à alínea a do permissivo constitucional, cumpre observar que a parte recorrente não amparou o inconformismo na violação de qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Nesse diapasão: AgRg no AREsp 157.696/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 22/11/2012; AgRg nos EDcl no Ag 1.289.685/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 6/8/2010.
+De igual modo, na interposição do recurso especial com base em dissídio jurisprudencial, é imperiosa a indicação do dispositivo federal sobre o qual recai a suposta divergência jurisprudencial, o que não ocorreu no caso em tela. Assim, não pode ser conhecido o presente recurso especial, nos termos da Súmula 284/STF. Nesse mesmo sentido, destacam-se os seguintes precedentes: AgRg no AREsp 123.219/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 22/5/2012; AgRg no AREsp 83.349/RJ, Rel. Ministro Francisco Falcão, Primeira Turma, DJe 7/5/2012.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
