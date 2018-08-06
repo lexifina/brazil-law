@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por [NOME], contra acórdão proferido pelo Tribunal de Justiça do Estado da Bahia no julgamento do HC n. 0025196-64.2017.8.05.0000.
+Extrai-se dos autos que o recorrente foi preso em flagrante em 28/8/2017 (fl. 50), por ter supostamente praticado os delitos tipificados no art. 33, da Lei n. 11.343/06 (tráfico de entorpecentes), e art. 12 da Lei n. 10.826/03 (posse irregular de arma de fogo de uso permitido). Referida custódia foi convertida em prisão preventiva em 30/8/2017 (fl. 50) e o pedido de sua revogação foi indeferido (fls. 38/40).
+Irresignada, a defesa impetrou writ perante o Tribunal de origem, o qual denegou a ordem em acórdão que restou assim ementado, in verbis:
+PROCESSO PENAL. HABEAS CORPUS LIBERATÓRIO. PREVENTIVA. TRÁFICO DE DROGAS E PORTE DE ARMA DE FOGO DE USO PERMITIDO.
+ASSERTIVAS DE INIDONEIDADE DA MOTIVAÇÃO EXPOSTA NO ÉDITO PRISIONAL E AUSÊNCIA DOS REQUISITOS PARA IMPOSIÇÃO DA MEDIDA EXTREMA. NÃO ACOLHIMENTO. DECISÃO GUERREADA QUE DELINEOU ELEMENTOS CONCRETOS E APTOS A DEMONSTRAR A NECESSIDADE DA CONSTRIÇÃO CAUTELAR DOS PACIENTES. FUMUS COMISSI DELICTI E PERICULUM LIBERTATIS DEVIDAMENTE COMPROVADOS. GRAVIDADE CONCRETA DA CONDUTA IMPUTADA AO INCREPADO. APREENSÃO DE EXPRESSIVA QUANTIDADE DE DROGA, ALÉM DE APETRECHOS E INSUMOS PRÓPRIOS DO COMERCIO ILÍCITO DE ENTORPECENTES. ACUSADO PRESO EM FLAGRANTE POR SUPOSTAMENTE MANTER EM DEPOSITO 12 (DOZE) TABLETES DE MACONHA, COM MASSA BRUTA DE 10.620;00G (DEZ MIL E SEISCENTOS E VINTE GRAMAS); 03 (TRÊS) MUNIÇÕES CALIBRE .38 SPL; E 20 (VINTE) PAPELOTES CONTENDO COCAÍNA, COM PESO DE 24,68G (VINTE E QUATRO GRAMAS E SESSENTA E OITO CENTIGRAMAS). PACIENTE QUE RESPONDE A OUTRAS AÇÕES PENAIS DO DISTRITO DA CULPA MEDIDA EXTREMA ADEQUADA E PROPORCIONAL AO CASO CONCRETO, DENTRO DOS LIMITES LEGAIS DOS ARTIGOS 282 E 312, AMBOS DO CPP, COM O OBJETIVO DE RESGUARDAR A ORDEM PÚBLICA E OBSTAR A REITERAÇÃO DELITIVA DO PACIENTE. CONDIÇÕES PESSOAIS FAVORÁVEIS INSUFICIENTES, POR SI SÓS PARA REVOGAÇÃO DA PREVENTIVA.
+WRIT CONHECIDO E DENEGADO (fl. 61).
+No presente recurso, sustenta, inicialmente a existência de irregularidades no exame do pedido de revogação da prisão preventiva.
+No mérito, alega ausência dos requisitos autorizadores da custódia cautelar previstos no art. 312 do Código de Processo Penal - CPP. Aponta que a imposição da custódia cautelar não estaria suficientemente justificada e pautada exclusivamente na gravidade abstrata do delito. Invoca o princípio da presunção de inocência.
+Ressalta as condições pessoais favoráveis do recorrente e afirma a suficiência da aplicação de medida cautelar diversa da prisão.
+Destaca que a vedação à concessão de liberdade provisória ao acusado pela prática do delito de tráfico de entorpecentes, prevista no art. 44 da Lei 11.343/06, foi declarada inconstitucional pelo Supremo Tribunal Federal.
+Pugna, assim, em liminar e no mérito, pela revogação da prisão preventiva.
+Sem petição de contrarrazões, o recurso foi remetido a esta Corte Superior (fl. 88). O pedido de liminar foi indeferido (fls. 95/97).
+As informações foram prestadas pelas instâncias ordinárias (fls. 103/106 e 109/119). O Ministério Público Federal opinou pelo desprovimento do recurso (fls. 122/126).
+É o relatório.
+Decido.
+O pedido está prejudicado.
+Isso porque, conforme informações obtidas no endereço eletrônico do Tribunal de origem, verificou-se que, em 7/6/2018, foi proferida sentença, condenando o paciente às penas de 8 anos de reclusão, em regime inicial semiaberto, tendo sido indeferido o recurso em liberdade. Constatou-se, ainda, que a condenação imposta transitou em julgado em 29/6/2018.
+Nesse contexto, é certa a perda do objeto do presente recurso, no qual se discute a prisão preventiva, tendo em vista que a prisão do ora recorrente passou a decorrer do cumprimento definitivo de pena.
+Diante do exposto, com fundamento no art. 34, XI, do Regimento Interno do Superior Tribunal de justiça, julgo prejudicado o recurso ordinário em habeas corpus.
