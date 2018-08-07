@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de agravo (artigo 1.042, CPC/15), interposto por VRG LINHAS AEREAS S.A (fls. 576-590, e-STJ), em face de decisão que não admitiu o recurso especial interposto pela companhia aérea.
+O apelo nobre, amparado no artigo 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fls. 415, e-STJ):
+APELAÇÕES CÍVEIS. AÇÃO INDENIZATÓRIA. TRANSPORTE AÉREO. EXTRAVIO DE BAGAGEM NO RETORNO DE VIAGEM INTERNACIONAL. FALHA NA PRESTAÇÃO DO SERVIÇO PÚBLICO. DANOS MORAIS E MATERIAIS EVIDENCIADOS. DECRETO DE PARCIAL PROCEDÊNCIA. RECURSO DA RÉ. PRETENDIDO O AFASTAMENTO DO DANO MORAL. NÃO ACOLHIMENTO. PERDA DE QUATRO BAGAGENS QUE ULTRAPASSA O MERO DISSABOR. EVIDENTE ABALO MORAL. DEVER DE INDENIZAR. JUROS DE MORA. TERMO INICIAL ADEQUADAMENTE ESTIPULADO. INCIDÊNCIA DA SÚMULA N. 54 DO STJ. SENTENÇA MANTIDA. APELO DOS AUTORES. LUCROS CESSANTES. INOVAÇÃO RECURSAL. NÃO CONHECIMENTO. ALMEJADA MAJORAÇÃO DO QUANTUM INDENIZATÓRIO FIXADO A TÍTULO DE DANOS MORAIS. DESACOLHIMENTO. MONTANTE PROPORCIONAL, RAZOÁVEL E ADEQUADO COM AS PECULIARIDADES DO CASO. PRETENSO RECONHECIMENTO DE LITIGÂNCIA DE MÁ-FÉ. INOCORRÊNCIA. A empresa aérea responde pela indenização de danos materiais e morais experimentados objetivamente pelos passageiros decorrente do extravio de sua bagagem. Não existem critérios fixos para a quantificação do dano moral, devendo o órgão julgador ater-se às peculiaridades de cada caso concreto, de modo que a reparação seja estabelecida em montante que desestimule o ofensor a repetir a falta, sem constituir, de outro lado, enriquecimento sem causa (STJ, AgRg no AREsp 261.339/RS, rel. Min. Marco Buzzi, DJe 24-11-2015).
+Nas razões do recurso especial (fls. 462-476, e-STJ), a insurgente apontou violação aos artigos aos artigos 4º e 5º da LINDB; aos artigos 186, 393, 403, 738, 734, 743, 744, 745, 750, 884, 886, 927 e 946 do CC/02 e ao artigo 14, § 3º, do CDC.
+Contrarrazões apresentadas às fls. 505-512, e-STJ.
+Em juízo de admissibilidade (fls. 529-531, e-STJ), o Tribunal de piso inadmitiu o reclamo, por entender que são aplicáveis, à hipótese, o teor das Súmulas 7 do STJ e 284 do STF.
+Daí o presente agravo (fls. 576-590, e-STJ), buscando destrancar o processamento daquela insurgência, no qual a agravante refuta os referidos óbices.
+O recurso especial interposto pela parte adversa fora admitido, consoante decisão acostada às fls. 527-528, e-STJ.
+É o relatório.
+Decido.
+1. Atendidos os pressupostos de admissibilidade do agravo. Da análise do recurso especial, constata-se a relevância das razões deduzidas, o que autoriza a reautuação dos autos, nos termos do artigo 34, inciso XVI, do RISTJ, sem prejuízo do ulterior juízo definitivo de admissibilidade acerca do apelo extremo.
+2. Do exposto, dou provimento ao agravo para determinar a reautuação dos autos como recurso especial, para melhor exame da controvérsia.
+Publique-se. Intimem-se.
