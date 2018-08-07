@@ -1,0 +1,24 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal de Justiça de São Paulo, assim ementado:
+ROUBO MAJORADO - Materialidade e autoria comprovadas. Declarações da vítima e depoimentos dos policiais militares em harmonia com o conjunto probatório. Negativa do réu isolada. Crime praticado em concurso de agentes, com emprego de arma de fogo e restrição da liberdade. Condenação mantida.
+PENAS e REGIME DE CUMPRIMENTO - Bases nos mínimos legais. Reincidência. Acréscimo na fração de 1/6. Três causas de aumento. Elevação na fração de 5/12. Razoabilidade e proporcionalidade - Regime inicial fechado - Apelo desprovido. (e-STJ fl. 277)
+Aponta a defesa a violação dos arts. 187, § 2º, do Código Penal e 381, III, do Código de Processo Penal alegando, em síntese, que o aumento na fração de 5/12 (cinco doze avos) operado na terceira fase da dosimetria deu-se unicamente pelo número de majorantes, o que não se admite.
+Contrarrazões às e-STJ fls. 318/328.
+Manifestação do Ministério Público Federal pelo não conhecimento do recurso às e-STJ fls. 365/368.
+Na oportunidade, requer a remessa dos autos originais à primeira instância para a execução da pena, tendo em vista o novel entendimento firmado pelo STF, por ocasião do julgamento do HC n. 126.292, de que a execução provisória não fere o princípio constitucional da presunção de inocência quando a sentença condenatória for confirmada pelo Tribunal e estiverem pendentes de julgamento o recurso especial ou o recurso extraordinário.
+É o relatório. Decido.
+A irresignação não prospera.
+Os elementos existentes nos autos informam que o Tribunal de Justiça de São Paulo negou provimento ao apelo defensivo e manteve a condenação do recorrente à pena de 6 (seis) anos, 7 (sete) meses e 10 (dez) dias de reclusão, em regime fechado, pelo cometimento do crime do art. 157, § 2º, I, II e V, do Código Penal.
+Não procede a insurgência da defesa quanto ao acréscimo de 5/12 (cinco doze avos) operado na terceira fase da dosimetria da pena, porquanto referido aumento decorreu de peculiaridades concretas do crime, conforme se verifica do seguinte trecho do acórdão recorrido:
+Na terceira fase, as penas intermediárias foram elevadas com proporcionalidade na fração de 5/12 (cinco doze avos), resultando definitivas em 06 (seis) anos, 07 (sete) meses e 10 (dez) dias de reclusão e 15 (quinze) dias-multa. A uma, pela comprovação das três causas de aumento imputadas (concurso de agentes, emprego de arma e restrição da liberdade). A duas, pela ousadia demonstrada, visto que o apelante e comparsa, valendo-se da superioridade numérica e física, em total desprezo para com a liberdade individual, surpreenderam a vítima, em plena via pública, com arma de fogo em punho, inclusive obrigando-a acompanhá-los. Enfim, suficiente e razoável a individualização feita, respeitados o patamar e o teto previstos em lei. (e-STJ fl. 284 - grifo nosso)
+Nesse sentido, já se decidiu:
+HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. ROUBO CIRCUNSTANCIADO. TERCEIRA FASE DA DOSIMETRIA. APLICAÇÃO DE FRAÇÃO SUPERIOR A 1/3. FUNDAMENTAÇÃO CONCRETA. ENUNCIADO N. 443/STJ. NÃO APLICAÇÃO. REGIME FECHADO. PACIENTE HAMILTON. POSSIBILIDADE. PENA-BASE ACIMA DO MÍNIMO. PACIENTE CARLOS. PENA-BASE FIXADA NO MÍNIMO LEGAL. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA PARA A FIXAÇÃO DE REGIME INICIAL MAIS GRAVOSO. HABEAS CORPUS NÃO CONHECIDO. CONCESSÃO DA ORDEM, DE OFÍCIO.
+ ..
+2. Nos termos do disposto no enunciado n. 443 da Súmula desta Corte, "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+3. Na hipótese, o aumento da pena em fração superior ao mínimo, em razão da incidência de duas majorantes, decorreu de peculiaridades concretas do crime - três agentes envolvidos na empreitada criminosa, com emprego de arma de fogo. Em tais condições, fica afastada a aplicação do enunciado n. 443 da Súmula desta Corte.
+ ..
+4. Habeas corpus não conhecido. Ordem concedida, de ofício, apenas para fixar o regime semiaberto para o paciente CARLOS. (HC 362.784/SP, desta Relatoria, DJe 23/09/2016)
+Incidência do Enunciado n. 568 deste Tribunal.
+Quanto ao pedido do Ministério Público (e-STJ fl. 368), determino a comunicação do presente decisum ao Tribunal de origem para que tome as providências que entender necessárias, inclusive no tocante ao início da execução provisória da pena do agravante, nos termos da Resolução n. 113/2007  CNJ, com a redação dada pela Resolução n. 180/2013 (arts. 8º/11).
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
