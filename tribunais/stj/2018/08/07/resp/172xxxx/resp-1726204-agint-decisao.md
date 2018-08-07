@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, contra decisão da minha lavra que não conheceu o recurso especial. A título de ilustração, confira-se a ementa do decisum:
+PENAL E PROCESSO PENAL. RECURSO ESPECIAL. HOMICÍDIO. EXCLUSÃO DE QUALIFICADORA. FALTA DE INSURGÊNCIA CONTRA TODOS OS FUNDAMENTOS DO ARESTO RECORRIDO. SÚMULA 283/STF. RECURSO NÃO CONHECIDO.
+
+No agravo regimental, o recorrente alega que "não há cogitar-se da existência de fundamentação inatacada, porquanto foram impugnados todos os fundamentos da decisão recorrida. Somente haveria violação aos princípios da correlação, do contraditório e da ampla defesa, caso fosse reconhecida qualificadora que não tivesse sido minimamente descrita na inicial acusatória, o que, como visto, não é absolutamente o caso dos autos" (fl. 741).
+É o relatório.
+Extrai-se dos autos que, nas razões do recurso especial, pleiteou a defesa a reforma do acórdão recorrido alegando: a) eventual inépcia da denúncia só pode ser acolhida quando demonstrada inequívoca deficiência a impedir a compreensão da acusação, em flagrante prejuízo à defesa do acusado; b) inviável extirpar da pronúncia o motivo torpe narrado na peça acusatória, porquanto apenas as qualificadoras manifestamente improcedentes podem ser subtraídas da apreciação dos jurados e que a prática delitiva por vingança, decorrente de desavenças anteriores entre denunciado e vítima, é suficiente para a imputação da qualificadora do motivo torpe.
+Em decisão de fls. 727/729 neguei seguimento ao recurso especial por entender que não havia sido impugnado o argumento de que o reconhecimento da qualificadora do motivo torpe na decisão de pronúncia ensejaria a violação ao princípio da correlação.
+No entanto, após nova análise percuciente dos presentes autos, verifico que o referido argumento foi impugnado ao afirmar que eventual inépcia da denúncia só pode ser acolhida quando demonstrada inequívoca deficiência a impedir a compreensão da acusação, em flagrante prejuízo à defesa do acusado.
+Quanto ao tema, verifico que a denúncia descreve o motivo torpe sob a seguinte fundamentação (fl. 2):
+Os denunciados agiram por motivo torpe, uma vez que agiram para desforrar-se de desentendimentos anteriores havidos com a vítima e sua família.
+O Tribunal de origem entendeu que o motivo torpe não ficou bem esclarecido na inicial acusatória, trazendo prejuízos à ampla defesa do réu, ao argumento de que (fls. 653):
+Os embargos infringentes devem ser acolhidos, com a devida vênia.
+Sequer a denúncia descreve, suficientemente, a motivação torpe do delito imputado ao embargante, vez que refere apenas que o crime foi cometido "em razão de desentendimentos anteriores" entre réu, vítima e seus familiares.
+Ora, presume-se, como regra, a existência de alguma animosidade entre o homicida e sua vítima, salvo situações excepcionais.
+É preciso mais para configuração da motivação torpe como circunstância qualificadora. Na esteira do voto minoritário, imprescindível evidenciar quais as razões pelas quais se deram os desentendimentos que culminaram com a morte da vítima. Somente a partir daí é que seria possível aferir se o motivo do delito de homicídio era, de fato, torpe, no sentido de vil, repugnante.
+Ainda que no decorrer da instrução tenham sido angariados elementos que indiquem as razões do desentendimento (a vítima teria participado da morte de um familiar do réu), o reconhecimento da qualificadora pela sentença de pronúncia ensejaria violação ao princípio da correlação, corolário do contraditório e da ampla (no caso, plena) defesa, lembrando que o réu se defende dos fatos descritos na exordial.
+De fato, a denúncia apenas remete a desentendimentos anteriores entre os réus e a vítima, sem, contudo, especificar em que consistiriam esses desentendimentos. Imputar ao réu, neste momento processual, que a desavença refere-se ao fato de a vítima ter participado da morte de um familiar do réu, como que a descrever uma vingança privada como motivo torpe, vai além do que foi descrito na inicial acusatória, o que viola o princípio da correlação entre a acusação e a pronúncia.
+Assim, a denúncia não descreveu de forma suficiente circunstâncias relevantes imputadas ao réu para configurar o motivo torpe, devendo, portanto, ser excluído da decisão de pronúncia, conforme realizado pelo Tribunal de origem.
+Nesse sentido, mutatis mutandis, confiram-se recentes julgados deste Superior Tribunal de Justiça:
+PROCESSUAL PENAL. DISPENSA ILEGAL DE LICITAÇÃO E FRAUDE AO CARÁTER COMPETITIVO DO CERTAME. DENÚNCIA. DESCRIÇÃO FÁTICA INSUFICIENTE. INÉPCIA. OCORRÊNCIA. AÇÃO PENAL. TRANCAMENTO POR FALTA DE MÍNIMA BASE EMPÍRICA. NÃO DEMONSTRAÇÃO PATENTE. VIA ELEITA INADEQUADA.
+1. Não suficientemente descritos os fatos delituosos (indícios de autoria e materialidade), é inepta a denúncia.
+2. O habeas corpus não se apresenta como via adequada ao trancamento da ação penal, quando o pleito se baseia em falta justa causa (ausência de suporte probatório mínimo à acusação), não relevada, primo oculi. Intento que demanda revolvimento fático-probatório, não condizente com a via restrita do writ.
+3. Recurso parcialmente provido, apenas para para declarar nula a denúncia, por inépcia, sem prejuízo de que outra seja apresentada, desde que com obediência aos ditames do art. 41 do Código de Processo Penal.
+(RHC 95.097/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 12/06/2018, DJe 22/06/2018)
+RECURSO EM HABEAS CORPUS. FALSIDADE IDEOLÓGICA. TRANCAMENTO DO PROCESSO. INÉPCIA DA DENÚNCIA. NARRATIVA INSUFICIENTE. RECURSO EM HABEAS CORPUS PROVIDO.
+1. O trancamento do processo no âmbito de habeas corpus é medida excepcional, apenas cabível quando demonstrada a absoluta ausência de provas da materialidade do crime e de indícios de autoria, a atipicidade da conduta ou a existência de causa extintiva da punibilidade.
+2. Somente é apta a iniciar a ação penal a denúncia que, atenta aos requisitos previstos no art. 41 do Código de Processo Penal, descreve os fatos criminosos atribuídos à denunciada com todas as suas circunstâncias relevantes, de modo a permitir à imputada compreender os termos da acusação e dela defender-se, sob o contraditório judicial.
+3. Na hipótese dos autos, a denúncia, de forma genérica, atribuiu à recorrente a prática do delito de falsidade ideológica, sem, no entanto, descrever em qual documento foi inserida declaração falsa ou o dolo específico de alterar a verdade sobre fato juridicamente relevante.
+4. Sem a descrição, na peça inicial, de elementos do tipo, a denúncia é formalmente inepta, por impossibilitar a desembaraçada reação defensiva à acusação apresentada.
+5. Na verdade, o que a denúncia descreve é o uso de documento com prazo de validade vencida, o que é atípico.
+6. Recurso em habeas corpus provido, para reconhecer a inépcia da denúncia, a atipicidade da conduta imputada à insurgente e, por conseguinte, determinar o trancamento do processo - Ação Penal n.
+0282329-92.2014.8.19.0001, da 23ª Vara Criminal da Comarca da Capital - RJ.
+(RHC 68.894/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 05/12/2017, DJe 12/12/2017)
+Ante o exposto, reconsidero a decisão de fls. 727/729, porém, com fundamento no artigo 932, IV, "a", do Código de Processo Civil em vigor (Lei nº 13.105/2015) c/c artigo 3º do Código de Processo Penal, e no artigo 34, XVIII, "b", parte final, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
