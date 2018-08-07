@@ -1,0 +1,78 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA VIGÊNCIA DO NCPC. ADIMPLEMENTO CONTRATUAL. TELEFONIA. AUSÊNCIA DE OFENSA AO ART. 1.022 DO NCPC. ILEGITIMIDADE ATIVA. POSSIBILIDADE DE INVERSÃO DO ÔNUS DA PROVA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+MARIA ELEDIR ZEN DJAZI (MARIA) ajuizou ação de inadimplemento contratual contra BRASIL TELECOM S.A. e BRASIL TELECOM PARTICIPAÇÕES S.A. (BRASIL TELECOM), julgada improcedente.
+O Tribunal local deu provimento ao recurso de apelação interposto por MARIA, conforme acórdão que ficou assim ementado:
+CÍVEL. APELAÇÃO. AÇÃO DE ADIMPLEMENTO CONTRATUAL COM PEDIDO INCIDENTAL DE EXIBIÇÃO DE DOCUMENTOS. TELEFONIA. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. INVERSÃO DO ÔNUS DA PROVA INDEFERIDA APENAS NA SENTENÇA. NECESSIDADE DE OPORTUNIZAR PREVIAMENTE ÀS PARTES A PRODUÇÃO DE PROVAS NA MEDIDA DO ÔNUS QUE LHES É ATRIBUÍDO. CASO CONCRETO, ADEMAIS, NO QUAL ESTÃO INEQUIVOCAMENTE PRESENTES OS REQUISITOS LEGAIS PARA A INVERSÃO DO ÔNUS DA PROVA. PARTE AUTORA QUE APRESENTOU INDÍCIOS SUFICIENTES DA EXISTÊNCIA DE RELAÇÃO CONTRATUAL ENTRE AS PARTES. SENTENÇA ANULADA. RECURSO DE APELAÇÃO PROVIDO (e-STJ, fl. 444).
+Os embargos de declaração opostos por OI S.A., atual denominação de BRASIL TELECOM, foram desprovidos (e-STJ, fls. 459/462).
+Inconformada, OI S.A. interpôs recurso especial, com base no art. 105, III, a, da Constituição Federal, alegando violação de dispositivos de lei federal (arts. 1.022, II, do NCPC e 6º, VIII, do CDC), por entender que (1) não foram sanadas as omissões apontadas acerca da ilegitimidade ativa da recorrida; (2) o CDC é inaplicável ao caso e a inversão do ônus da prova foi indevida, pois ausentes os requisitos autorizadores (e-STJ, fls. 465/473).
+Contrarrazões não apresentadas (e-STJ, fl. 497).
+Em juízo de admissibilidade, o apelo nobre foi inadmitido por ausência de ofensa ao art. 1.022, II, do NCPC e incidência da Súmula nº 7 do STJ (e-STJ, fls. 498/500).
+Contra essa decisão, OI S.A. manejou o presente agravo alegando, em suma, a violação dos dispositivos de lei federal, além da inaplicabilidade do óbice sumular. Afirmou que o Tribunal a quo usurpou da competência exclusiva do STJ por adentrar no mérito recursal. No mais, repisou as razões contidas no especial (e-STJ, fls. 502/511).
+Contraminuta apresentada (e-STJ, fls. 515/517).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que o presente agravo em recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Do juízo de admissibilidade
+Quanto ao juízo de admissibilidade, é relevante afirmar que o Tribunal a quo, ao realizá-lo, atendeu perfeitamente aos ditames legais, não podendo se defender que o fato de incursionar no mérito do especial se configure em usurpação de competência desta Corte.
+Ressalte-se que o referido juízo é bifásico, ou seja, o primeiro juízo realizado no Tribunal de origem não tem o condão de vincular a decisão de admissibilidade do STJ, a qual é soberana àquele.
+A propósito, vejam-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRESSUPOSTOS DE ADMISSIBILIDADE ATENDIDOS. ANÁLISE DE MÉRITO DO ESPECIAL. CONTROLE BIFÁSICO. APELAÇÃO. 514, II, DO CPC. ATENDIMENTO.
+1. O juízo de admissibilidade do recurso especial é bifásico e, como tal, a decisão proferida pelo tribunal de origem não vincula esta Corte, que tem competência plena para verificar, novamente, o preenchimento dos pressupostos recursais.
+2. O exame de mérito do apelo nobre já traduz o entendimento de que foram atendidos os requisitos extrínsecos e intrínsecos de sua admissibilidade, inexistindo necessidade de pronunciamento explícito a esse respeito.
+3. "A reprodução, na apelação, dos argumentos já lançados na petição inicial ou na contestação não é, em si, obstáculo bastante para negar conhecimento ao recurso" (AgRg no AREsp nº 175.517/MS, Relator Ministro Sidnei Beneti, Terceira Turma, DJe 27/6/2012).
+4. Agravo regimental não provido.
+(AgRg no AREsp 489.138/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 16/9/2014, DJe 26/9/2014)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. SÚMULA 216/STJ. JUÍZO DE ADMISSIBILIDADE BIFÁSICO. STJ NÃO VINCULADO.
+ ..
+2. O juízo de admissibilidade do recurso especial é bifásico. A decisão proferida pelo Tribunal de origem não vincula o Superior Tribunal de Justiça na aferição dos pressupostos de admissibilidade do recurso especial. Isso porque compete a esta Corte, órgão destinatário do recurso especial, o juízo definitivo de admissibilidade. Precedentes.
+3. "A tempestividade de recurso interposto no Superior Tribunal de Justiça é aferida pelo registro no protocolo da secretaria e não pela data da entrega na agência do correio." (Súmula 216/STJ).
+4. O recurso mostra-se manifestamente infundado, a ensejar a aplicação da multa prevista no artigo 557, § 2º, do CPC.
+5. Embargos de declaração recebidos como agravo regimental a que se nega provimento, com aplicação de multa.
+(EDcl no AREsp 289.109/MG, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 15/5/2014, DJe 21/5/2014)
+ (1) Da alegada ofensa ao art. 1.022 do NCPC
+OI S.A. sustentou que o Tribunal a quo foi omisso, uma vez que não apreciou as matérias apresentadas nos embargos de declaração acerca da ilegitimidade ativa de MARIA para postular direito acionário.
+O Tribunal de origem, ao apreciar os embargos declaratórios, assim se manifestou:
+Isto porque constou expressamente no acórdão acerca da necessidade de se esclarecer, perante o juízo de primeiro grau e através de uma melhor instrução probatória, a existência do direito da autora à indenização pela emissão deficitária de ações da companhia telefônica ré, haja vista a existência de claros indícios de que entre as partes há relação jurídica consubstanciada em contrato de participação financeira.
+Ficou ressalvado, inclusive, que o esclarecimento quanto às questões fáticas apontadas no acórdão poderá influir justamente na conclusão sobre a ilegitimidade ativa da autora embargada.
+Extrai-se do acórdão embargado:
+"Veja-se que diante dos elementos probatórios juntados pela autora (M. 1.34 - fs.
+242/246 dos autos físicos), há claros indícios da existência de relação contratual entre ela e a requerida.
+Quanto à linha telefônica nº 2244117, por exemplo, deverá ser melhor esclarecido se a autora efetivamente firmou o contrato em conjunto com seu falecido cônjuge, uma vez que o extrato de ações (M. 1.34 -f. 244 dos autos físicos) está em nome do de cujus enquanto a posterior fatura telefônica foi encaminhada à autora. A análise da matéria poderá influir na conclusão acerca da legitimidade ativa da autora.
+Em relação às demais linhas telefônicas, por outro lado, diante da cessão de direitos, será necessário verificar se a autora permaneceu como titular do direito às ações, posto que não há nos autos provas acerca da quitação (leia-se integralização de capital) dos contratos de participação financeira.
+Assim, com fundamento nas razões acima expostas, deve ser anulada a sentença para que os autos retornem ao primeiro grau, quando então o juízo deverá analisar o requerimento de inversão do ônus da prova e, após, oportunizar novamente às partes a produção das provas necessárias para que se desincumbam de seu ônus probatório".
+Está claro, portanto, que a análise acerca da ilegitimidade ativa da autora embargada deverá ocorrer após o esclarecimento das questões fáticas ainda obscuras no processo, não havendo que se falar na existência de omissão no acórdão (e-STJ, fls. 461/462).
+Com efeito, o Tribunal a quo, analisou as questões necessárias para o deslinde da controvérsia, consignando que o esclarecimento quanto às questões fáticas apontadas no acórdão poderá influir justamente na conclusão sobre a ilegitimidade ativa da autora embargada (e-STJ, fl. 461). Desta forma, anulou a sentença e determinou o retorno dos autos ao juízo de piso para que se proceda à análise do requerimento de inversão do ônus da prova, oportunizando às partes a produção das provas necessárias para o deslinde da controvérsia.
+Assim, verifica-se que o acórdão foi fundamentado de forma a não ensejar dúvidas acerca das razões de ordem jurídica que lhe deram sustentação.
+O princípio da persuasão racional habilita o magistrado a valer-se do seu convencimento, à luz dos fatos, provas, jurisprudência, aspectos pertinentes ao tema e da legislação que entender aplicável ao caso concreto.
+Assim, tem-se que inexistiu a omissão apontada nas razões do especial. Registre-se que o fato da decisão recorrida ter sido fundamentada de forma contrária à pretensão da parte recorrente não causa ofensa ao art. 1.022 do NCPC.
+(2) Da alegada ofensa ao art. 6º, VIII, do CDC
+Acerca da inversão do ônus da prova, o Tribunal de origem assim se manifestou:
+Em relação à inversão do ônus da prova, a jurisprudência do STJ, seguida por este Tribunal, vem admitindo a aplicação do CDC a casos semelhantes ao presente. Assim, é possível, em tese (ou seja, se presentes os requisitos do art. 6º, VIII, do CDC), a inversão do ônus da prova (e-STJ, fl. 446).
+ ..
+No caso sob exame, a verossimilhança das alegações decorre da juntada aos autos de cópia da fatura telefônica da linha nº 2244117 (M. 1.34 - f. 242 dos autos físicos), que está em nome da autora.
+Além disso, foram juntados também termos de "Solicitação de Transferência Definitiva de Direito de Usos de Terminal Telefônico" referentes a outras duas linhas telefônicas. No primeiro deles (M. 1.34 - f. 245 dos autos físicos), a autora consta como cedente do direito de uso da linha telefônica, enquanto que no segundo termo (M. 1.34 - f. 246 dos autos físicos) a autora aparece como cessionária.
+Em ambos os documentos constam as cláusulas 1.02 e 1.03, que possuem a seguinte redação:
+1.02 O direito às ações é transferido automaticamente para o CESSIONÁRIO, também, através deste documento, quando o contrato de promessa de aquisição do direito de uso do terminal telefônico objeto desta transferência não estiver quitado.
+1.03 O direito às ações relativas a contrato quitado não é transferido através deste documento.
+No entanto, como não há elementos acerca da quitação (ou não) dos contratos transferidos, não há como saber se a autora possui, ao menos em tese, direito à complementação de ações não subscritas.
+Já a hipossuficiência da autora é inequívoca, sendo certo que a requerida 01 S.A. reúne melhores condições de produzir a prova documental consistente na juntada dos contratos de participação financeira, documentos, aliás, que deveria manter em seus arquivos.
+Logo, era perfeitamente possível que o juízo de primeiro grau invertesse o ônus da prova. Na verdade, diante dos elementos acima descritos e em razão do requerimento da autora, a inversão do ônus da prova era imprescindível, posto que não se trata de uma faculdade do magistrado quando atendidos os requisitos previstos em lei.
+Sucede que, apesar de possível a inversão do ônus probatório no caso em tela, o indeferimento da medida pelo juízo de primeiro grau foi anunciado apenas na sentença, conduta que surpreendeu as partes e causou prejuízos processuais a ambas.
+Embora a distribuição do ônus probatório constitua, por um lado, regra de julgamento, na medida em que orienta a prolação da sentença quando o material probatório produzido pelas partes é escasso e não permite uma razoável convicção sobre os fatos controversos alegados em juízo, por outro vértice, é também uma regra de instrução, posto que orienta a conduta processual das partes.
+Logo, por possuir duplo caráter e, especialmente, por influir decisivamente na conduta processual das partes, a forma como o ônus da prova será distribuído deve ser anunciada anteriormente à prolação da sentença, de modo que as partes sejam previamente cientificadas acerca do ônus probatório que terão e possam dele se desincumbir adequadamente (e-STJ, fls. 448/449).
+ ..
+A questão assume relevante contorno para o julgamento da presente lide porque, como visto, estão presentes os requisitos para a inversão do ônus da prova e, com o retorno dos autos ao primeiro grau, sobre a companhia telefônica recorrida recairá um ônus probatório que antes não existia, devendo a ela ser concedida a oportunidade de dele se desincumbir.
+Veja-se que diante dos elementos probatórios juntados pela autora (M. 1.34 - fs. 242/246 dos autos físicos), há claros indícios da existência de relação contratual entre ela e a requerida.
+Quanto à linha telefônica nº 2244117, por exemplo, deverá ser melhor esclarecido se a autora efetivamente firmou o contrato em conjunto com seu falecido cônjuge, uma vez que o extrato de ações (M. 1.34 - f. 244 dos autos físicos) está em nome do de cujus enquanto a posterior fatura telefônica foi encaminhada à autora. A análise da matéria poderá influir na conclusão acerca da legitimidade ativa da autora.
+Em relação às demais linhas telefônicas, por outro lado, diante da cessão de direitos, será necessário verificar se a autora permaneceu como titular do direito às ações, posto que não há nos autos provas acerca da quitação (leia-se integralização de capital) dos contratos de participação financeira.
+Assim, com fundamento nas razões acima expostas, deve ser anulada a sentença para que os autos retornem ao primeiro grau, quando então o juízo deverá analisar o requerimento de inversão do ônus da prova e, após, oportunizar novamente às partes a produção das provas necessárias para que se desincumbam de seu ônus probatório.
+Acrescente-se que não há como simplesmente deferir a inversão do ônus da prova e, na sequência, analisar o mérito da lide em grau recursal, justamente porque tal conduta violaria o direito da requerida de se desincumbir do seu ônus probatório (e-STJ, fls. 450/451).
+Tem-se que o Tribunal de origem, analisando o conjunto fático-probatório e as peculiaridades do caso concreto, entendeu que houve indícios da existência de relação contratual entre as partes litigantes, ressaltando a necessidade de melhor instrução probatória para o esclarecimento das questões fáticas apontadas pela parte recorrente. Assim, anulou a sentença para que o requerimento acerca da inversão do ônus da prova seja analisado pelo juízo singular, oportunizando as partes a produção das provas necessárias.
+Assim, ultrapassar a conclusão a que chegou o eg. Tribunal a quo, demandaria nova incursão no arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, pois vedado pela Súmula 7 desta Corte: A pretensão de simples reexame de prova não enseja recurso especial.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para CONHECER EM PARTE do recurso especial (1) e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Deixo de majorar os honorários advocatícios sucumbenciais, porquanto não fixados pelo Tribunal a quo.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se.
+Intimem-se.
