@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de SERGIO MARCOS DOS SANTOS, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente encontra-se preso, desde 21/3/2016, suspeito da prática dos crimes capitulados no "artigo 2º, parágrafo 2º, da Lei n. 12.850/2013; artigo 157, parágrafo 3º, in fine (latrocínio) c/c artigo 14, inciso II; artigo 157, parágrafo 2º, incisos I e II e artigo 180, caput , todos do Código Penal (por seis vezes); e artigo 311, caput (por seis vezes), todos do Código Penal, tudo na forma do artigo 69, do Código Penal" (e-STJ fl. 573).
+Irresignada, a defesa impetrou habeas corpus, cuja ordem foi denegada (e-STJ fls. 572/576).
+Na presente impetração a defesa assere que, "conforme se verifica nos autos, o réu foi preso e permanece detido na Penitenciaria I de Mirandópolis/SP desde o dia 21/03/2016 e até a presente data não foi proferida sua sentença. O réu foi denunciado em 07 de Abril de 2016. Recebida a denuncia o réu foi citado para apresentar resposta a acusação; Apresentada sua defesa, foi mantido o recebimento da denuncia e designada audiência de instrução debates e julgamento. Na referida audiência foram ouvidas as testemunhas de acusação e defesa e os réus foram interrogados, os debates orais foram convertidos em convertida em memoriais escritos; apresentados os memoriais os autos aguardam injustificadamente a aproximadamente 8 meses a prolação da sentença" (e-STJ fl. 4).
+Diante disso, pleiteia a defesa, em tema liminar e no mérito, o reconhecimento do excesso de prazo para a formação da culpa, com a consequente revogação da prisão cautelar do paciente.
+O pedido liminar foi indeferido (e-STJ fls. 586/588).
+Prestadas as informações, o Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ fls. 607/610).
+É, em síntese, o relatório.
+Em consulta à página eletrônica do Tribunal de origem, verifica-se que, em 18/7/2018, o paciente foi condenado, como incurso "no artigo 2º, parágrafo 2º, da Lei nº 12.850/2013; artigo 157, parágrafo 3º, in fine (latrocínio) c.c. artigo 14, inciso II; artigo 157, parágrafo 2º, incisos I e II; artigo 180, caput, c.c. artigo 71 e artigo 311, caput, também c.c. artigo 71, todos do Código Penal, tudo na forma do artigo 69 do mesmo Código, a 24 (vinte e quatro) anos e 10 (dez) meses de reclusão e 59 (cinquenta e nove) dias-multa", a serem cumpridos inicialmente em regime fechado, negado o direito de recorrer em liberdade.
+Fica, portanto, sem objeto o pedido contido na inicial.
+Tal o contexto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
