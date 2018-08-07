@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO DO BRASIL S.A., com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Sentença  Nulidade  Ausência de fundamentação - Inocorrência  Atendimento aos requisitos inseridos no art. 489, I a III, do atual CPC  Decisão suficientemente motivada, em conformidade com o art. 93, IX, da CF.
+Prescrição intercorrente  Execução por título extrajudicial  Contrato de abertura de crédito fixo  Ação julgada extinta em razão da prescrição intercorrente - Prazo prescricional quinquenal  Processo paralisado por falta de impulso processual atribuível ao banco exequente pelo tempo de prescrição da pretensão executiva  Termo inicial da prescrição intercorrente iniciado a partir do último ato processual sem providência do interessado.
+Prescrição intercorrente  Execução por título extrajudicial  Determinado, em 21.8.2008, que o banco exequente indicasse bens para garantir o juízo, bem como que, em caso de inércia, os autos em questão aguardassem provocação no arquivo - Certificado o decurso do prazo sem manifestação - Banco exequente que, apenas em 3.8.2016, quando já verificada a prescrição quinquenal da pretensão executiva, regularizou a sua representação processual, assim como requereu a concessão de prazo para o seu procurador analisar e dar andamento ao feito - Processo que ficou paralisado o por lapso superior ao prazo prescricional a que alude o art. 206, § 5º I, do CC em virtude de inércia injustificada do banco exequente  Reconhecimento da prescrição intercorrente que se mostrou legítimo  Observado o princípio do contraditório - Apelo do banco exequente desprovido" (fl. 133 e-STJ).
+Nas razões recursais, o recorrente, além de indicar dissídio jurisprudencial, aponta violação dos arts. 14 e 1.056 do Código de Processo Civil de 2015 os quais impedem a aplicação retroativa das novas regras introduzidas pelo Sistema Processual Civil. Aduz que o atual regramento sobre prescrição intercorrente deve incidir apenas nas execuções ajuizadas após a entrada em vigor do CPC/2015 e cita como paradigma o REsp 1.620.919/PR de relatoria do em. Ministro Luis Felipe Salomão.
+Argumenta que não foi observado o caráter indispensável da prévia intimação pessoal da parte autora para dar andamento ao processo (art. 485, § 1º do CPC/2015), para que seja legítima a determinação do extinção da execução por prescrição intercorrente.
+Alega que é aplicável ao caso o art. 775 do CPC/2015 e o teor da Súmula nº 240/STJ. Sustenta que o credor tem a faculdade de desistir da execução, independentemente do assentimento da parte contrária e alega que extinção do processo por abandono de causa do autor depende de requerimento do réu.
+Requer o provimento do recurso especial para que a execução tenha prosseguimento.
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+Inicialmente, verifica-se que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ), sendo esta a legislação aplicável.
+Verifica-se que as matérias versadas nos arts. 14, 775 e 1.056 do CPC/2015 não foram objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e não foram opostos embargos declaratórios com a finalidade de sanar vício porventura existente.
+Assim, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Importante consignar que as questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+À propósito:
+"PROCESSUAL CIVIL. FORNECIMENTO DE GÁS NATURAL. RESTITUIÇÃO DE VALORES ADIANTADOS EM CONTRATO. VIOLAÇÃO AO ART. 535 DO CPC/1973. INEXISTÊNCIA. RECONVENÇÃO. ILEGITIMIDADE PASSIVA. SÚMULAS 5 E 7 DO STJ. APLICAÇÃO. SÚMULAS 282 E 283 DO STF. INCIDÊNCIA.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Inexiste violação ao art. 535 do CPC/1973 quando o Tribunal de origem enfrenta a omissão alegada nos embargos de declaração e emite pronunciamento fundamentado, ainda que contrário à pretensão da recorrente.
+3. A Corte estadual reconheceu a ilegitimidade passiva do Município/agravado na demanda reconvencional mediante a análise da documentação trazida aos autos, notadamente os termos contratuais ali mencionados, de modo que o acolhimento das razões do especial, no ponto, esbarra nos óbices insertos nas Súmulas 7 e 5 do STJ, respectivamente.
+4. Não enfrentada no acórdão recorrido a ofensa aos dispositivos legais mencionados, carece o apelo nobre do indispensável prequestionamento, a teor do disposto na Súmula 282 do STF, requisito também exigido em relação às matérias de ordem pública, como a prescrição. Precedentes.
+5. A não impugnação do segundo argumento sustentado no acórdão recorrido (a distinção temporal entre as dívidas cobradas na ação principal e na reconvenção) atrai a incidência, na hipótese, da Súmula 283 do STF.
+6. Agravo interno desprovido".
+(AgInt no AgInt no AREsp 230.474/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 28/3/2017, DJe 3/5/2017 - grifou-se)
+"ADMINISTRATIVO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DAS HIPÓTESES PREVISTAS DO ART. 10.022 DO CPC/2015. PRETENSÃO DE REEXAME E ADOÇÃO DE TESE DISTINTA. REPERCUSSÃO GERAL. SOBRESTAMENTO. DESNECESSIDADE.
+1. Nos termos do art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual se deveria pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+2. Não são cabíveis os embargos de declaração cujo objetivo é ver reexaminada e decidida a controvérsia de acordo com tese distinta.
+3. O acórdão embargado foi categórico ao afirmar que mesmo as matérias de ordem pública necessitam estar devidamente prequestionadas para ensejar o conhecimento do recurso especial. Hipótese em que a tese relativa à prescrição não foi analisada pelo Tribunal de origem, o que atrai a incidência das Súmulas 282 e 356 do STF.
+4. O reconhecimento da repercussão geral pelo STF, nos termos do art. 543-B do CPC, não enseja o sobrestamento do julgamento dos recursos especiais que tramitam nesta Corte. Precedentes.
+Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1.468.858/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 9/6/2016, DJe 17/6/2016 - grifou-se)
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
+Intimem-se.
