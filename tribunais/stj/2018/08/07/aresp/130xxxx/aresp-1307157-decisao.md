@@ -1,0 +1,69 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. FURTO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. RÉU MULTIREINCIDENTE E EM LIVRAMENTO CONDICIONAL. COMPENSAÇÃO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA COM A REINCIDÊNCIA. MULTIREINCIDÊNCIA QUE AFASTA O BENEFÍCIO. PRECEDENTES. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo de [NOME] manejado contra a decisão que inadmitiu o recurso especial interposto perante o eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+O juízo singular condenou o agravante como incurso nas sanções dos artigos 155, caput, e 397, na forma do artigo 69, todos do Código Penal, às penas de 1 (um) ano, 5 (cinco) meses e 29 (vinte e nove) dias de reclusão bem como 4 (quatro) meses e 14 (quatorze) dias de detenção, ambas no regime inicial aberto (fls. 158-172).
+Irresignada, a defesa interpôs apelação, com vistas à reforma da sentença condenatória. No Tribunal de origem, o recurso teve negado o provimento (fls. 295-312).
+Os embargos de declaração opostos foram rejeitados (fls. 326-332).
+No recurso especial, interposto com fulcro na alínea a do permissivo constitucional, a defesa alega ofensa aos artigos 61, inciso I, 65, inciso III, alínea d, 67 e 155, caput, todos do Código Penal, aos argumentos de que:
+a) artigo 155, do CP:
+(i) " o  caso em estudo traz de forma inquestionável uma lesão ao bem jurídico protegido claramente insignificante. O valor do objeto material é claramente irrisório, eis que representado por uma embalagem contendo pilhas, como, aliás, reconhecido pelo próprio acórdão recorrido" (fl. 341);
+(ii) "o acórdão impugnado considerou que o princípio da insignificância não teria aplicabilidade no fato em exame, na medida em que o recorrente é reincidente. Ora, o princípio da legalidade tem existência num sistema principiológico, devendo ter conformação com os demais princípios, notadamente o princípio da proporcionalidade. Não seria demais afirmar que, enquanto a legalidade estabelece a forma da tutela jurídico-penal, a proporcionalidade determina o conteúdo dessa mesma tutela" (fl. 342);
+b) artigos 61, inciso I, 65, inciso III, alínea d, 67, todos do CP:
+(i) " n ão há fundamentação idônea no acórdão ao reconhecer a preponderância da reincidência diante da confissão e o consequente aumento na existência de mais de uma condenação anterior. Ora, o próprio acórdão reconheceu, assim como a sentença apelada (..) que apenas uma condenação estaria sendo considerada para motivar faticamente a reincidência, pois as demais ou foram utilizadas para o reconhecimento de maus antecedentes ou simplesmente desprezadas" (fl. 349-350);
+(ii) "a quantidade de aumento mantida é claramente desproporcional, eis que foi mantida a quantidade de aumento de pena provisória, ainda que existente atenuante também de caráter preponderante" (fl. 350).
+Contrarrazões às fls. 359-370.
+O recurso especial foi inadmitido pelo Tribunal de origem em razão do óbice da Súmula 7 do STJ (fl. 371).
+Nas razões do presente agravo, a parte alega que não incide o referido óbice (fls. 374-378).
+O Ministério Público Federal opinou pelo parcial provimento do agravo (fls. 393-397).
+É o relatório.
+Decido.
+Tendo em vista os relevantes fundamentos apontados pela parte agravante, conheço do agravo e passo a examinar os requisitos do recurso especial.
+Busca a parte recorrente, em princípio, nas suas razões recursais, a aplicação do princípio da insignificância em relação ao delito previsto no artigo 155, do Código Penal.
+Confira-se, oportunamente, trecho do v. acórdão ora vergastado, no punctum salines:
+"A despeito das alegações da defesa, entendo que a conduta imputada ao apelante também não comporta a aplicação do princípio da insignificância.
+Explico.
+Apesar de eu entender admissível a aplicação do princípio da insignificância, para o emprego desse postulado, os Tribunais Superiores, em reiterados precedentes, têm entendido como necessário o atendimento dos requisitos consistentes na mínima ofensividade da conduta, nenhuma periculosidade social da ação, reduzido grau de reprovabilidade do comportamento e a inexpressividade da lesão jurídica provocada. Cabe, também, a avaliação da vida pregressa do agente.
+Com efeito, na hipótese em exame, além de a conduta do acusado se amoldar à tipicidade formal, que é a perfeita subsunção à norma incriminadora, e à tipicidade subjetiva, pois restou comprovado o dolo da agente, de igual forma se reconhece presente a tipicidade material, que consiste na relevância penal da conduta e do resultado típico em face da significância da lesão produzida no bem jurídico tutelado pelo Estado.
+Embora o valor dos bens subtraídos pelo acusado não seja elevado, as peculiaridades dos autos, conforme bem entendeu o juiz, mostram que a conduta do acusado revela reprovabilidade mais que suficiente para justificar uma persecução penal.
+Na hipótese, não se verifica o desinteresse estatal à repressão do delito praticado pelo apelante, que é contumaz na prática de crimes contra o patrimônio. Isso porque o funcionário do estabelecimento comercial furtado afirmou em juízo que o réu esteve diversas vezes no local para furtar mercadorias. Como se não bastasse, o sentenciante registrou que "o acusado ostenta diversas condenações pelas práticas do mesmo delito e ainda pela prática do crime de roubo", o que encontra amparo na certidão de antecedentes de fls. 102/110. Acresça-se que o próprio acusado afirmou, em juízo, "que suas condenações, somadas, davam 29 anos e 2 meses, tendo cumprido 16 anos e sido beneficiado pelo indulto" (fl. 100).
+ ..
+De fato, a lei seria inócua se fosse tolerada a reiteração, do mesmo delito, seguidas vezes, em frações que, isoladamente, não superassem certo valor tido por insignificante, mas o excedesse na soma. E mais: seria um verdadeiro incentivo ao descumprimento da norma legal, mormente tendo em conta os autores que fazem da criminalidade um meio de vida.
+Nesse contexto, a conduta do réu não deve ser tida como penalmente irrelevante, mas como comportamento altamente reprovável a ser combatido pelo Direito Penal, tornando impossível o afastamento da tipicidade material.
+ ..
+Sob todos os ângulos, não contemplam os autos hipótese recomendável da aplicação do princípio da insignificância." (fls. 302-304)
+Esta Corte tem entendimento pacificado no sentido de que não se há falar em atipicidade material da conduta pela incidência do princípio da insignificância quando não estiverem presentes todos os vetores para sua caracterização, quais sejam: (a) mínima ofensividade da conduta; (b) nenhuma periculosidade social da ação; (c) reduzido grau de reprovabilidade do comportamento, e; (d) inexpressividade da lesão jurídica provocada.
+Na linha da jurisprudência do eg. Supremo Tribunal Federal (HC n. 101.998/MG, Rel. Min. Dias Toffoli, DJe de 31/3/2011 e HC n. 103.359/RS/MG, Relª. Ministra Cármen Lúcia, DJe de 22/3/2011) e desta eg. Corte (HC n. 143.304/DF, Relª. Ministra Laurita Vaz, DJe 4/5/2011 e HC n. 182.754/MG, Rel. Min. Jorge Mussi, DJe de 27/5/2011), a alegação de pequeno valor da res furtiva, por si só, não se revela suficiente para o reconhecimento do crime de bagatela. Nessa linha, deve-se observar, também, as peculiaridades do caso concreto e as características do autor.
+In casu, verifica-se que, apesar de ser de pequeno valor a res furtiva, - duas caixas de martelo -, o crime ter sido tentado e a coisa ter sido devolvida à vítima, a absolvição por atipicidade material mostra-se incompatível com o princípio da insignificância considerando-se o quadro de reincidência anotado no v. acórdão ora vergastado e, ademais, o fato de o recorrente estar em livramento condicional.
+Nesse sentido, precedentes desta eg. Corte:
+"PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. RES FURTIVA. VALOR NÃO IRRISÓRIO. REINCIDÊNCIA. INAPLICABILIDADE.  ..
+II - Ademais, na linha da jurisprudência desta eg. Corte, ressalvado o meu entendimento pessoal, mostra-se incompatível com o princípio da insignificância a conduta ora examinada, haja vista que o agravante é reincidente (precedentes).
+Agravo regimental não provido." (AgRgt no REsp n. 1.683.364/MG, Quinta Turma, de minha lavra, DJe de 25/9/2017, grifei).
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. REINCIDÊNCIA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Quinta Turma reconhece que o princípio da insignificância não tem aplicabilidade em casos de reiteração da conduta delitiva, salvo excepcionalmente, quando as instâncias ordinárias entenderem ser tal medida recomendável diante das circunstâncias concretas do caso, o que não se infere na hipótese em apreço, máxime por se tratar de réu reincidente. Precedentes.
+2. Agravo regimental não provido." (AgRg no AREsp n. 1.040.868/MG, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 18/8/2017, grifei).
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. MULTIRREINCIDÊNCIA ESPECÍFICA. NÃO INCIDÊNCIA DO PRINCÍPIO BAGATELAR.
+1. Não se aplica a insignificância em crimes de furto, como ocorre na espécie, quando o autor do delito, não somente seja reincidente específico, mas quando tem também reiterados envolvimentos em delitos deste jaez.
+2. Agravo regimental improvido." (AgRg no REsp n. 1.1.683.320/RS, Sexta Turma, Rel. Min. Maria Thereza de Assis Moura, DJe de 18/8/2017, grifei).
+Em relação à compensação da reincidência com a confissão, o Tribunal de origem destaco o seguinte:
+"Na segunda fase, reconheço a circunstância atenuante da confissão espontânea e a agravante da reincidência (autos n.º 0024.03.012.184-2 - fl. 102).
+Embora se tratem de duas circunstâncias preponderantes, deixo de compensá-las por não julgar razoável frente às múltiplas condenações definitivas que o acusado sustneta (fl. 102/110)."
+Sobre o tema, deve-se frisar, primeiramente, que a jurisprudência dessa Corte pacificou o entendimento no sentido de ser possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência. Insta apontar, a propósito, acórdão oriundo da Terceira Seção que, em sede de recurso especial repetitivo, assim consignou:
+"RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA (ART. 543-C DO CPC). PENAL. DOSIMETRIA. CONFISSÃO ESPONTÂNEA E REINCIDÊNCIA. COMPENSAÇÃO. POSSIBILIDADE.
+1. É possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência.
+2. Recurso especial provido" (REsp n. 1.341.370/MT, Terceira Seção, Rel. Min. Sebastião Reis Júnior, DJe de 17/04/2013).
+Entretanto, a hipótese dos autos tem particularidades importantes.
+Isso porque, conforme consignado no v. acórdão recorrido, o réu possui mais de uma condenação definitiva transitada em julgado o que, na linha da jurisprudência deste Tribunal Superior, afasta a possibilidade de compensação total entre a confissão e a reincidência, por se tratar de réu multirreincidente.
+Nesse sentido:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. ESTELIONATO. EXASPERAÇÃO DA PENA-BASE. MAUS ANTECEDENTES, CONDUTA SOCIAL E PERSONALIDADE. ANOTAÇÕES CRIMINAIS DESMEMBRADAS. IMPOSSIBILIDADE. BIS IN IDEM. REDIMENSIONAMENTO DA PENA. PLEITO DE RECONHECIMENTO DA ATENUANTE DA CONFISSÃO. CABIMENTO. CONFISSÃO UTILIZADA COMO ELEMENTO PARA A CONDENAÇÃO. PACIENTE MULTIRREINCIDENTE. COMPENSAÇÃO INTEGRAL DA ATENUANTE DA CONFISSÃO ESPONTÂNEA COM A AGRAVANTE DA REINCIDÊNCIA. INVIABILIDADE. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+6. Esta Corte Superior pacificou o entendimento de que, observadas as peculiaridades do caso concreto, "É possível, na segunda fase da dosimetria da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o artigo 67 do Código Penal" REsp 1.341.370/MT (Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 17/4/2013).
+7. Na espécie, trata-se de réu multirreincidente, razão pela qual admite-se a preponderância da agravante da reincidência sobre a atenuante da confissão espontânea.
+8. Habeas corpus não conhecido. Ordem concedida, de ofício, para redimensionar a pena do paciente" (HC n. 381148/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 07/04/2017).
+"PROCESSUAL PENAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. DOSIMETRIA DA PENA. COMPENSAÇÃO DA AGRAVANTE DA REINCIDÊNCIA COM A ATENUANTE DA CONFISSÃO. RÉU MULTIRREINCIDENTE. PREPONDERÂNCIA DA AGRAVANTE.
+I - Esta Corte firmou entendimento no sentido de que a agravante da reincidência e a atenuante da confissão espontânea são igualmente preponderantes, devendo haver a compensação entre elas, observadas as peculiaridades do caso concreto.
+II - In casu, o agravante ostenta múltiplas condenações por fatos praticados antes daquele objeto de apuração nestes autos, motivo pelo qual a compensação integral deixa de ser possível, devendo-se observar os princípios da proporcionalidade e da individualização da pena.
+Agravo interno desprovido." (AgInt no AREsp 778.778/DF, Quinta Turma, de minha relatoria, DJe 31/08/2016, grifei)
+Dessa forma, verifica-se que o acórdão do Tribunal de origem está em consonância com o entendimento desta Corte Superior de Justiça acerca do tema, pois aplicou com preponderância a agravante da reincidência, incidindo a Súmula 568/STJ, que assim dispõe: " o  relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso, quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, b, do Regimento Interno do STJ, conheço do agravo para negar provimento ao recurso especial.
+P. e I.
