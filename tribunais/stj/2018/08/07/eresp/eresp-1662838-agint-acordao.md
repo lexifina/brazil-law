@@ -1,0 +1,47 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. REVISÃO DE APOSENTADORIA. PRESCRIÇÃO. FUNDO DE DIREITO. NÃO OCORRÊNCIA DE RENÚNCIA TÁCITA À PRESCRIÇÃO PELA EDIÇÃO DAS ORIENTAÇÕES NORMATIVAS N. 3 E 7, DE 2007, DO MPOG. PRECEDENTES.
+I - Nos termos da jurisprudência desta Corte, nos casos em que há pedido de revisão do ato de aposentadoria, a pretensão se submete à denominada prescrição do fundo de direito, prevista no art. 1o. do Decreto n. 20.910/32, tendo como termo inicial para fins de contagem do prazo prescricional a concessão do benefício pela administração. Precedentes: AgInt no REsp 1563493/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 09/03/2017, DJe 15/03/2017; AgInt no REsp 1595920/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 04/10/2016, DJe 13/10/2016; E AgRg no REsp. 1.218.863/RS, Rel. Ministro BENEDITO GONÇALVES, DJe 3.11.2014.
+II - O ato de concessão de aposentadoria se deu em 28/02/2007, e a presente ação só foi proposta em 11/01/2016, portanto após o transcurso do prazo prescricional.
+III - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes e Mauro Campbell Marques votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, a Sra. Ministra Assusete Magalhães.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Na origem, trata-se de ação ordinária ajuizada por [NOME] contra a União, objetivando revisão de aposentadoria. Atribuiu-se à causa o valor de R$ 55.506,58 (cinquenta e cinco mil, quinhentos e seis reais e cinquenta e oito centavos).
+Sentenciada a ação e julgado improcedente o pedido, apelou o autor ao ao Tribunal Regional Federal da 4ª Região, o qual negou provimento ao recurso em acórdão assim ementado:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. ATO DE APOSENTADORIA. REVISÃO. CONTAGEM DE TEMPO DE SERVIÇO ESPECIAL. PRESCRIÇÃO DE FUNDO. OCORRÊNCIA.
+A pretensão de revisão da aposentadoria encontra óbice no art. 1º do Decreto n. 20.910/32, na medida em que o termo inicial da prescrição é o ato de concessão do benefício.
+Opostos embargos declaratórios, foram eles rejeitados.
+Aberta a via do recurso especial, admitido na origem, o recurso não foi provido ao argumento de que a jurisprudência desta Corte consolidou-se no sentido de que não ocorre renúncia da Administração Pública à prescrição referente à ação de revisão de aposentadoria na hipótese em que reconhece, por meio das Orientações Normativas 3 e 7, de 2007, do MPOG, o direito à contagem de tempo de serviço especial para aposentadoria de servidor público.
+Opostos embargos declaratórios pela União, pugnando a majoração dos honorários advocatícios, nos termos do art. 85, § 11, do Código de Processo Civil 2015, estes foram integralmente acolhidos para integrar a decisão embargada, majorando-se os honorários advocatícios em R$ 600,00 (seiscentos reais).
+Opostos embargos declaratórios pela parte autora, em razão de sua feição de agravo interno, foi determinada sua convolação em agravo interno, nos termos do art. 1.021, § 2º, do Código de Processo Civil de 2015.
+Desse modo, a parte agravante apresenta agravo interno, ao argumento de que a decisão agravada tomou por base sua análise o ato administrativo errado, pois equivocadamente considerou a publicação da aposentadoria originária ocorrida em 28.02.2007, sem observar que a aposentadoria teve seus fundamentos legais alterados por publicação oficial constante do DOU de 22/11/2012.
+Por fim, aduz que a homologação pelo TCU da aposentadoria ocorreu apenas em 20/08/2013, de modo que pugna pelo provimento do seu recurso.
+Contraminuta da parte agravada em que requer o improvimento do recurso e conseqüente manutenção da decisão agravada por seus próprios fundamentos.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Não assiste razão à parte agravante.
+No presente caso, o autor aposentou-se em 28/2/2007 com proventos integrais e nada requereu, administrativa ou judicialmente, com a edição das ONs 03 e 07/2007, e a presente ação só foi proposta em 11/01/2016, portanto após o transcurso do prazo prescricional.
+Em que pese em 13/8/2012 tenha havido retificação da portaria da aposentadoria da parte autora, essa modificação não trouxe alteração do seu direito, uma vez que já aposentado com proventos integrais, havendo apenas reenquadramento legal.
+Dessa forma, a jurisprudência desta Corte consolidou-se no sentido de que não ocorre renúncia da Administração Pública à prescrição referente à ação de revisão de aposentadoria na hipótese em que reconhece, por meio das Orientações Normativas 3 e 7, de 2007, do MPOG, o direito à contagem de tempo de serviço especial para aposentadoria de servidor público. Isso porque não foram expressamente incluídos por aqueles atos administrativos os servidores que, à época, já se encontravam aposentados e tiveram suas pretensões submetidas aos efeitos da prescrição (AgRg no AgRg no REsp 1.405.953/RS, Rel. Ministro Herman Benjamin, DJe 5/12/2013), como é o caso dos autos, tendo em vista que a parte se aposentou em 28/02/2007.
+Nesse sentido:
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. REVISÃO DE APOSENTADORIA PARA CONTAGEM DE TEMPO DE SERVIÇO DE FORMA INSALUBRE. NÃO OCORRÊNCIA DE RENÚNCIA TÁCITA À PRESCRIÇÃO PELA EDIÇÃO DAS ORIENTAÇÕES NORMATIVAS N. 3 E 7, DE 2007, DO MPOG.
+1. A jurisprudência desta Corte consolidou-se no sentido de que "não ocorre renúncia da Administração Pública à prescrição referente à ação de revisão de aposentadoria na hipótese em que reconhece, por meio das Orientações Normativas 3 e 7, de 2007, do MPOG, o direito à contagem de tempo de serviço especial para aposentadoria de servidor público. Isso porque não foram expressamente incluídos por aqueles atos administrativos os servidores que, à época, já se encontravam aposentados e tiveram suas pretensões submetidas aos efeitos da prescrição" (AgRg no AgRg no REsp 1.405.953/RS, Rel. Ministro Herman Benjamin, DJe 5/12/2013), como é o caso dos autos, tendo em vista que a parte se aposentou em 27/4/2005.
+(..)
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1563493/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 09/03/2017, DJe 15/03/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 03/STJ. SERVIDOR PÚBLICO FEDERAL. REVISÃO DE APOSENTADORIA. VIOLAÇÃO DO ART. 535 DO CPC/1973. INOCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 320/STJ. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DOMINANTE NESTE E.STJ. INCIDÊNCIA DA SÚMULA 568/STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. "Não ocorre renúncia da Administração Pública à prescrição referente a ação de revisão de aposentadoria na hipótese em que reconhece, através das Orientações Normativas MPOG 3 e 7, de 2007, o direito à contagem de tempo de serviço especial para aposentadoria de servidor público, pois não foram expressamente incluídos por aqueles atos administrativos os servidores que, à época, já se encontravam aposentados e tiveram suas pretensões submetidas aos efeitos da prescrição" (AgRg no REsp 1.218.863/RS, Rel. Ministro BENEDITO GONÇALVES,1ª Turma, julgado em 23/10/2014, DJe 03/11/2014). Aplicação das Súmulas 83 e 568 do STJ.
+(..)
+7. Agravo interno não provido.
+(AgInt no REsp 1595920/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 04/10/2016, DJe 13/10/2016)
+ADMINISTRATIVO. SERVIDOR PÚBLICO APOSENTADO. REVISÃO DE APOSENTADORIA. CONTAGEM DE TEMPO DE SERVIÇO ESPECIAL. PRESCRIÇÃO DO FUNDO DE DIREITO. OCORRÊNCIA.
+1. A jurisprudência desta Corte firmou-se no sentido de que a revisão do ato de aposentadoria para a contagem especial do tempo de serviço insalubre exercido durante o regime celetista submete-se ao prazo prescricional de cinco anos contados da concessão do benefício, nos termos do art. 1º do Decreto 20.910/1932. Precedentes: AgRg no AREsp 232.845/PR, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 17/09/2013; AgRg no AREsp 228.972/SC, Rel. Ministra Diva Marlerbi (Desembargadora convocada do TRF 3ª Região), Segunda Turma, DJe 11/3/2013; AgRg no AREsp 11.331/RS, Rel.Ministro Humberto Martins, Segunda Turma, DJe 4/6/2012.
+2. Não ocorre renúncia da Administração Pública à prescrição referente a ação de revisão de aposentadoria na hipótese em que reconhece, através das Orientações Normativas MPOG 3 e 7, de 2007, o direito à contagem de tempo de serviço especial para aposentadoria de servidor público, pois não foram expressamente incluídos por aqueles atos administrativos os servidores que, à época, já se encontravam aposentados e tiveram suas pretensões submetidas aos efeitos da prescrição. Precedentes: AgRg no REsp 978.991/RS, Relª. Minª. Alderita Ramos de Oliveira (Desembargadora convocada do TJ/PE, Sexta Turma, DJe 22/04/2013 e EDcl no AgRg no REsp 1.115.292/RS, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe 22/11/2012.
+3. Agravo regimental não provido. (AgRg no REsp. 1.218.863/RS, Rel. Ministro BENEDITO GONÇALVES, DJe 3.11.2014).
+Logo, ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o agravo que contra ela se insurge.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
