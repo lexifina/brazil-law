@@ -1,0 +1,22 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SERVIDOR PÚBLICO. VIOLAÇÃO ÀS LEI 12.016/2009 E 10.887/2004. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial de PARAÍBA PREVIDÊNCIA fundado na alínea "a" do permissivo constitucional interposto contra acórdão do Tribunal de Justiça do Estado da Paraíba, assim ementado:
+EMBARGOS À EXECUÇÃO. MANDADO DE SEGURANÇA. DIFERENÇAS APURADAS DESDE A IMPETRAÇÃO DO WRIT. DISPOSIÇÃO NO ACÓRDÃO. PAGAMENTO DEVIDO. MULTA DIÁRIA (ASTREINTES) DECISÃO APLICA DE FORMA PESSOAL ÀS AUTORIDADES COATORAS. ILEGITIMIDADE ATIVA AD CAUSAM DA PBPREV, NESSE ASPECTO. VALORES APURADOS NOS CÁLCULOS DEVIDOS À EMBARGADA. EMBARGOS IMPROCEDENTES.
+- Não tem o ente público legitimidade para responder à execução para a cobrança de astreintes se a decisão fixou, expressamente, a responsabilidade pessoal das autoridades, razão pela qual prevalece a legitimidade ativa para oposição de embargos à execução apenas no que se refere ao pagamento das diferenças a que faz jus a embargada desde a data da impetração do mandamus.
+No recurso especial, a parte recorrente aponta violação dos seguintes dispositivos:
+(a) art. 6º da lei n. 12.016/2009, aduzindo que o impetrante deverá indicar, além da autoridade coatora, a pessoa jurídica que esta integra, à qual se acha vinculada ou da qual exerce atribuições; (b) arts. 4º, §1º, VII da lei n. 10.887/2004.
+Houve contrarrazões.
+Sobreveio juízo negativo de admissibilidade fundado na incidência da Súmula 211/STJ.
+Insurge a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial reúne condições de ser processado.
+Houve contraminuta pela parte agravada.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Conheço do agravo, porquanto refutada a motivação utilizada no juízo de admissibilidade.
+A insurgência não prospera.
+A parte recorrente alega malferimento das lei supramencionadas. Ocorre que, ao exame da controvérsia, o acórdão recorrido quedou-se silente no ponto referente a congeneridade da forma de ingresso nas instituições de ensino superior pelo fato de esta não ter a recorrente apontado norma legal apta a fundamentar tal pretensão.
+É bem verdade que, enfrentada a questão/tese pelo Tribunal a quo, haverá prequestionamento. No entanto, se a questão não houver sido examinada por esse, não obstante ter sido instada a se manifestar - ainda que em sede de embargos declaratórios - é dever da parte recorrente interpor recurso especial por violação ao art. 535 do CPC, demonstrando em qual ponto o exame de tal dispositivo seria capaz de comprometer a verdade posta nos autos. Quedando-se inerte quanto a tal providência, incide, sim, à espécie o enunciado sumular nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+Ademais, quanto à alega violação à lei 10.887/2004, a argumentação da recorrente baseia-se em mera indicação genérica de ofensa do acórdão da origem a preceitos de lei federal, sem no entanto a demonstração de como o Tribunal "a quo" teria interpretado esses normativos e de como os teria contrariado, não cumpre o ônus da dialeticidade nem se presta a autorizar o processamento do apelo extremo.
+É pacífico o entendimento desta Corte Superior no sentido de que a simples alegação de violação genérica de preceitos e normas infraconstitucionais desprovida de fundamentação que demonstre de que maneira houve a negativa de vigência do dispositivo legal pelo Tribunal de origem, não é suficiente para fundar recurso especial, atraindo a incidência da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
