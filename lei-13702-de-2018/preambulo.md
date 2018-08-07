@@ -1,0 +1,2 @@
+Altera a Lei nº 12.787, de 11 de janeiro de 2013, que dispõe sobre a política nacional de irrigação, para estabelecer exceção à sanção de retomada da unidade parcelar em projetos públicos de irrigação, caso o imóvel esteja hipotecado em favor de instituições financeiras oficiais que tenham prestado assistência creditícia ao agricultor irrigante, e as Leis nº s 12.873, de 24 de outubro de 2013, 6.088, de 16 de julho de 1974, e 13.502, de 1º de novembro de 2017.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
