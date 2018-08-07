@@ -1,0 +1,20 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pela Fundação Nacional de Saúde – FUNASA contra acórdão que, proferido pela 6ª Turma Recursal dos Juizados Especiais Federais – Seção Judiciária do Rio de Janeiro, está assim ementado:
+    “ADMINISTRATIVO. RESPONSABILIDADE CIVIL. FUNASA. SERVIDOR. EMPRÉSTIMO BANCÁRIO NÃO CONTRATADO. DESCONTOS EM FOLHA. LEGITIMIDADE PASSIVA. AUSÊNCIA DE AUTORIZAÇÃO. DEVER DE FISCALIZAR. DANOS MORAIS CONFIGURADOS. ENUNCIADOS Nº 8 E 111 DAS TURMAS RECURSAIS/RJ. RECURSO DA FUNASA CONHECIDO E IMPROVIDO.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o órgão judiciário de origem teria transgredido os preceitos inscritos nos arts. 5º, V, e 37, § 6º, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que o órgão judiciário de origem, ao proferir a decisão questionada, apoiou as suas conclusões em aspectos fático-probatórios:
+    “A parte autora afirmou que nunca solicitou empréstimo junto ao Banco Santander. Consignou aos autos os contra-cheques que demonstram a retenção da importância de R$ 109,40.
+    No caso concreto, diante da ausência de comprovação por parte da Funasa, de que a parte autora solicitou o empréstimo, bem como o desconto da respectiva importância, mesmo após ter sido notificada para não mais descontá-lo, vislumbra-se, ao meu ver, falha na prestação do serviço prestado, causando prejuízo à autora, que se viu privada indevidamente da totalidade de sua renda mensal, necessária ao seu sustento.
+    …...................................................................................................
+    No mais, o ato causador do dano se refere à própria consignação levada a cabo pela recorrida, que não comprovou ter o servidor anuído com a contratação, nos termos como lhe é exigido pela Lei 8.112/90.
+    …...................................................................................................
+    Quanto ao dano moral, não resta dúvida de sua ocorrência, dada a natureza alimentar da verba descontada indevidamente e pelo fato em si de ver-se envolvido em situação como esta que, com um mínimo de cautela, não ocorreria.”
+    Vê-se, portanto, que a pretensão deduzida pela parte ora agravante revela-se processualmente inviável, pois o recurso extraordinário não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, se mostram condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 07 de agosto de 2018.
+Ministro CELSO DE MELLO
+Relator
