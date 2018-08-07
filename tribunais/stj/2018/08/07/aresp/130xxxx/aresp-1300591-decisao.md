@@ -1,0 +1,16 @@
+DECISÃO
+Vistos, etc.
+Trata-se de AGRAVO EM RECURSO ESPECIAL interposto contra decisão que inadmitiu recurso especial.
+É o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise dos autos, verificou-se que o recurso especial não foi instruído com a guia de custas e o respectivo comprovante de pagamento.
+Diante dessa irregularidade no recolhimento do preparo houve a intimação da parte Recorrente para que o referido vício fosse sanado (fl. 355). Apesar disso, mesmo tendo sido regularmente intimada para efetuar o saneamento, a parte não regularizou.
+Veja-se que, diante da abertura de prazo para regularização, ao invés de proceder à regularização do feito, a parte limitou-se a "REAFIRMAR A NECESSIDADE DE GRATUIDADE DE JUSTIÇA QUE JÁ FORA CONCEDIDO PELA VOSSA MINISTRA EM OUTRAS AÇÕES QUE TRAMITAM AI NO STJ, TENDO QUE VISTA QUE A SITUAÇÃO DE MISÉRIA E PENÚRIA PERSISTE ATÉ O PRESENTE MOMENTO" (fl. 542).
+Acontece, porém, que o referido pedido não tem efeito prático algum.
+Mesmo que seja deferido o benefício da gratuidade nesse momento processual, a suposta benesse somente teria efeitos futuros, não sendo capaz de isentar a parte requerente das custas processuais referentes aos atos anteriores, ou seja, mesmo que seja deferido o benefício, não terá o condão de retroagir para regularizar o recolhimento das custas do recurso especial. Apesar de o pedido de justiça gratuita poder ser formulado a qualquer tempo e instância, ele "não retroage para alcançar encargos processuais anteriores" (AgRg no REsp 1.144.627/SC, 5ª Turma, Rel. Min. Marco Aurélio Bellizze, DJe de 29/5/2012).
+Por outro lado, mostra-se impossível a abertura de prazo para que a parte recolha as custas. É importante registrar que, no momento da interposição do recurso não havia pedido de justiça gratuita, tampouco houve o recolhimento das verbas, razão pela qual já houve a intimação, com base no § 4.º, do art. 1.007, do Código de Processo Civil (fl. 355).
+Dessa forma, a parte já foi intimada com base no § 4.º, do art. 1.007, do Código de Processo Civil para efetuar o recolhimento, não podendo ser novamente intimada, por causa da vedação prevista no § 5.º do mesmo artigo de lei acima citado.
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n.º 187 deste Tribunal, o que leva à deserção do recurso.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte Recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, NÃO CONHEÇO do recurso.
+Publique-se. Intimem-se.
