@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] HENRIQUE RESENDE GUERRA em face de acórdão do Tribunal de Justiça do Paraná.
+Consta dos autos que o juízo das execuções declarou a perda de 67 dias, ou seja, 1/3 dos dias que foram declarados remidos com base em trabalho e estudo realizados até 24/10/2015 (fls. 141-143).
+O Tribunal a quo negou provimento ao recurso de agravo em execução da defesa (fls. 7-11).
+Sustenta a impetrante que a revogação dos dias remidos se trata de faculdade do juiz e deverá ser concretamente fundamentada.
+Defende que, tendo em vista os arts. 57 e 127 da LEP, em caso de falta grave, o juiz poderá descontar até 1/3 dos dias remidos, mas considerará, fundamentadamente, a natureza, os motivos, as circunstâncias e as consequências do fato, bem como a pessoa do faltoso e seu tempo de prisão (fl. 2).
+Alega que a revogação dos dias remidos acima do mínimo legal - acima de 1 (um dia) - deverá ser levada a cabo com a devida fundamentação judicial, de sorte que não se deve mencionar genericamente a perda de 1/3 dos dias remidos ou a gravidade em abstrato da falta cometida (fl. 3).
+Requer, liminarmente e no mérito, que seja declarado nulo o acórdão que manteve a perda dos dias remidos no patamar de 1/3 sem a devida fundamentação, devendo ser reformada a decisão para declarar a perda de apenas 1 dia remido e, subsidiariamente, que seja declarado nulo o acórdão, devendo outra decisão, devidamente motivada, ser proferida pelo Tribunal (fl. 5).
+Indeferida a liminar (fl. 21) e prestadas as informações (fls. 27-182), manifestou-se o Ministério Público Federal pela denegação do habeas corpus (fl. 184-191).
+É o relatório.
+DECIDO.
+O Juízo da execução reconheceu a prática de falta grave pelo paciente e determinou a perda de 1/3 dos dias remidos (fls. 141-143):
+ ..
+Pelo trabalho e estudo realizados até 24/10/2015 (última falta grave homologada judicialmente) [NOME] obteve 203 (duzentos e três) dias de remição de pena. Portanto, a perda dos dias remidos terá por vbase esse montante.
+De acordo com o art. 127 da Lei de Execução Penal, ao cometer falta grave dentro do cárcere (ou fora dele, desde que durante o cumprimento de pena) o apenado poderá ter declarados perdidos até 1/3 (um terço) do tempo remido com base em trabalho e estudo realizados anteriormente ao cometimento da falta, veja-se:
+Art. 127. Em caso de falta grave, o juiz poderá revogar até 1/3 (um terço) do tempo remido, observado o disposto no art. 57, recomeçando a contagem a partir da data da infração disciplinar.
+Nota-se que ao definir a extensão da perda o magistrado deverá observar o teor do art. 57 da Lei de Execução Penal, o qual preceitua que:
+Art. 57. Na aplicação das sanções disciplinares, levar-se-ão em conta a natureza, os motivos, as circunstâncias e as conseqüências do fato, bem como a pessoa do faltoso e seu tempo de prisão.
+ ..
+A conduta carcerária do reeducando tem conflitado com as normas disciplinares do cárcere.
+De fato, analisando a pessoa do faltoso e sua conduta (art. 57 da Lei de Execução Penal), conclui-se que a perda de 1/3 (um terço) dos dias remidos é medida necessária, adequada e suficiente para o caso, haja vista que após a realização do trabalho e estudo o sentenciado descumpriu diversas vezes as regras do Sistema Penitenciário Estadual.
+3. Dispositivo:
+Dessa forma, considerando que o sentenciado [NOME] HENRIQUE RESENDE GUERRA, durante sua permanência do Sistema Penitenciário Estadual, praticou diversas faltas disciplinares (graves, médias e leves), inclusive após a última falta grave cometida (24/10/2015), demonstrando conduta social e carcerária reprovável, com fundamento no art. 127 da LEP, declaro perdidos 67 (sessenta e sete) dias, ou seja, 1/3 (um terço) dos dias que foram declarados remidos com base em trabalho e estudo realizados até 24/10/2015).
+A decisão foi mantida pelo Tribunal de origem com base nos seguintes fundamentos (fls. 7/11):
+Sem razão.
+A partir da vigência da Lei n.º 1 2.433, de 29 de junho de 2011, que alterou a redação ao art. 127 da Lei de Execuções Penais, consta que, em caso de falta grave, poderá o Juiz revogar até o limite de 1/3 da totalidade do tempo remido, cuja fração a ser aplicada no caso em concreto levará em conta o disposto no art. 57, da Lei de Execuções Penais.
+Em que pesem os esforços da combativa Defensora Pública, ainda que conste no dispositivo a expressão "poderá", tal não deve ser interpretada como se fosse uma faculdade cedida ao Magistrado, mas sim entendida como o poder-dever que é, ficando a discricionariedade restrita somente ao que concerne à fixação do tempo perdido.
+Este é o entendimento consolidado no Informativo de Jurisprudência nº 559 do Superior Tribunal de Justiça1, seguido por esta c Câmara Criminal, respectivamente:
+ ..
+Ato contínuo, observa-se que o r. Juízo a quo, embora sucinto, fundamentou adequadamente a necessidade de fixar a fração da perda em 1/3 (um terço) dos dias remidos contabilizados fazendo alusão principalmente à conduta carcerária do apenado, reveladora de incompatível postura com as normas disciplinares do cárcere, visto que ele possui outras duas faltas graves (31/07/2011 e 03/08/2013), bem como 05 (cinco) faltas médias e outras 04 (quatro) faltas leves.
+A propósito, vale transcrever o parecer da douta Procuradoria
+Geral de Justiça, na parte que aqui interessa:
+ ..
+Incontestável, pois, que o a r. decisão agravada observou, a rigor, o disposto no art. 57, da LEP e os princípios constitucionais da razoabilidade e da proporcionalidade, mediante adequada fundamentação.
+Não havendo, neste contexto, irregularidades a serem sanadas na r. decisão proferida, esta deve ser mantida integralmente, razão pela qual nego provimento ao recurso.
+O Tribunal de origem manteve a decisão (fls. 7-11) que determinou o perdimento de 1/3 dos dias remidos, em razão da prática de falta grave, com motivação idônea e fundamentação concreta.
+Com o advento da Lei 12.433/11, foi dada nova redação ao art. 127 da Lei de Execuções Penais, que passou a dispor que o cometimento de falta grave não mais acarretaria a perda da integralidade do tempo remido, somente podendo atingir o limite de 1/3.
+No que respeita ao quantum a ser fixado pelo juízo das execuções penais, conquanto lhe caiba certa dose de discricionariedade, devem ser levados em conta os critérios estabelecidos no art. 57 da novel legislação, quais sejam: a natureza, os motivos, as circunstâncias e as consequências do fato, bem como a pessoa do faltoso e seu tempo de prisão, não constituindo fundamento idôneo a simples indicação do dispositivo legal correspondente. A propósito, os seguintes precedentes:
+HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. DESVIRTUAMENTO. EXECUÇÃO PENAL. FALTA GRAVE. PERDA DE 1/3 DOS DIAS REMIDOS. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. MANIFESTO CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+ ..
+2. A Lei de Execução Penal estipula como um dos seus vetores o mérito do apenado, cuja avaliação realizar-se-á a partir do cumprimento de seus deveres (art. 39), da disciplina praticada dentro do estabelecimento prisional (art. 44) e, por óbvio, do comportamento observado quando em gozo dos benefícios previstos na aludida norma de regência, quais sejam, o trabalho externo (arts. 36 a 37), as saídas temporárias (arts. 122 a 125), o livramento condicional (art. 131), a progressão de regime (art. 112), a anistia e o indulto (arts. 187 a 193).
+3. Caracteriza coação ilegal a decretação da perda dos dias remidos na fração máxima de 1/3, sem fundamentação concreta.
+4. Ordem não conhecida. Habeas corpus concedido, de ofício, tão somente para que o Juízo da Vara de Execuções Criminais da Comarca de Santa Rosa/RS fundamente, de maneira concreta, a fração da perda dos dias remidos aplicável ao caso (HC 282.265/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 22/4/2014, DJe 2/5/2014).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. EXECUÇÃO PENAL. FALTA GRAVE. CARACTERIZAÇÃO. PLEITO DE ABSOLVIÇÃO. VIA IMPRÓPRIA. INTERRUPÇÃO NA CONTAGEM DO LAPSO TEMPORAL PARA A CONCESSÃO DE BENEFÍCIO DE PROGRESSÃO DE REGIME PRISIONAL. ENTENDIMENTO DO TRIBUNAL A QUO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. NOVA REDAÇÃO DO ART. 127 DA LEI DE EXECUÇÕES PENAIS. PERDA DE ATÉ 1/3 (UM TERÇO) DOS DIAS REMIDOS. APLICAÇÃO, PELO JUÍZO DE PRIMEIRA INSTÂNCIA, DO PATAMAR MÁXIMO ESTABELECIDO, SEM A DEVIDA FUNDAMENTAÇÃO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. WRIT NÃO CONHECIDO. ORDEM DE HABEAS CORPUS CONCEDIDA DE OFÍCIO.  ..
+5. A partir da vigência da Lei n.º 12.433, de 29 de junho de 2011, que alterou a redação ao art. 127 da Lei de Execuções Penais, a penalidade consistente na perda de dias remidos pelo cometimento de falta grave passa a ter nova disciplina, não mais incidindo sobre a totalidade do tempo remido, mas apenas até o limite de 1/3 (um terço) desse montante, cabendo ao Juízo das Execuções, com certa margem de discricionariedade, aferir o quantum, levando em conta "a natureza, os motivos, as circunstâncias e as conseqüências do fato, bem como a pessoa do faltoso e seu tempo de prisão", consoante o disposto no art. 57 da Lei de Execuções Penais.
+6. Na hipótese dos autos, o Juízo de primeira instância decretou a perda de 1/3 dos dias remidos, ou seja o patamar máximo, sem a devida fundamentação, o que configura evidente constrangimento ilegal.
+7. Writ não conhecido. Ordem de habeas corpus concedida, de ofício, apenas para determinar o retorno dos autos ao Juízo das Execuções Penais, a fim de que complemente o julgamento, na parte referente à perda dos dias remidos, motivando a escolha do patamar da penalidade, à luz da disciplina do art. 127 da Lei de Execuções Penais (HC 242.634/SP, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 18/03/2014, DJe 28/3/2014).
+Na hipótese dos autos, a Corte de origem consignou que o Juízo a quo, embora sucinto, fundamentou adequadamente a necessidade de fixar a fração da perda em 1/3 (um terço) dos dias remidos contabilizados fazendo alusão principalmente à conduta carcerária do apenado, reveladora de incompatível postura com as normas disciplinares do cárcere, visto que ele possui outras duas faltas graves (31/07/2011 e 03/08/2013), bem como 05 (cinco) faltas médias e outras 04 (quatro) faltas leves, não se revelando o constrangimento ilegal aventado pela defesa.
+Dessa forma, não há ilegalidade a ser reconhecida, estando adequadamente fundamentada a perda dos dias remidos.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
