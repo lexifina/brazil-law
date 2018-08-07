@@ -1,0 +1,19 @@
+DECISÃO
+Expediente avulso referente à Petição n.º 316291/2018:
+Por meio da petição de fls. 3/24, que deu origem ao presente expediente avulso nos autos do AREsp 1.266.885/RS, o Requerente afirma que o procurador do agravante somente tomou conhecimento de que o agravo em recurso especial não foi conhecido por essa Corte quando recebeu nota de expediente da 1ª instância informando o trânsito em julgado do recurso" e que "Ao tentar entender o que motivou o não recebimento especificamente das publicações do presente agravo, já que nunca deixou de receber as publicações vinculadas aos processos em que atua, constatou que o nome do procurador do agravante, [NOME] [NOME], está cadastrado erroneamente no sítio do Superior Tribunal de Justiça como [NOME] HERSCHERDORFER, o que impediu que o sistema rastreasse as publicações. O print da tela abaixo colacionado comprova esse fato" (fl. 4 do expediente avulso).
+Em razão disso, sustenta a nulidade da publicação do despacho de abertura de prazo para regularização e da decisão que não conheceu do recurso.
+Relatados. Decido.
+Com efeito, conforme certificado nos autos, "Ao se consultar o arquivo digital do processo, verificou-se que as petições de recurso especial (fl. 180) e de agravo em recurso especial (fl. 247), foram assinadas por [NOME] ([OAB]). O processo foi registrado, contudo com [NOME] HERSCHERDORFER E OUTRO(S) - [OAB] como advogados do agravante" (fl. 25 do expediente avulso).
+No entanto, a jurisprudência desta Corte Superior já pacificou, há algum tempo, que não gera nulidade da publicação de decisum eventual incorreção da grafia do nome do advogado, se o erro é insignificante, sendo, por outros meios, possível a identificação do feito, utilizando-se, por exemplo, o número da OAB, nome das partes e número do processo. Nesse sentido, os seguintes precedentes da Corte Especial:
+"PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. INTIMAÇÃO. ERRO NA GRAFIA DO NOME DO ADVOGADO. NULIDADE NÃO ACOLHIDA. POSSIBILIDADE DE IDENTIFICAÇÃO DO PROCESSO.
+1. "Não se deve declarar a nulidade da publicação de acórdão do qual conste, com grafia incorreta, o nome do advogado se o erro é insignificante (troca de apenas uma letra) e é possível identificar o feito pelo exato nome das partes e número do processo" (REsp 254.267/SP, Rel. Min. Eliana Calmon, 2ª Turma, DJ de 08.04.2002). Precedentes.
+2. Agravo regimental não provido."
+(AgRg nos EDcl nos EAREsp 140.898/SP, Corte Especial, Rel. Min. Eliana Calmon, DJe de 10/10/2013).
+"EMBARGOS DE DIVERGÊNCIA. PROCESSUAL CIVIL. EQUÍVOCO NA GRAFIA DO SOBRENOME DO ADVOGADO NA PUBLICAÇÃO DO ATO PROCESSUAL. ACRÉSCIMO DE UMA LETRA. PRENOME DO CAUSÍDICO, NOME DAS PARTES E NÚMERO DO PROCESSO ESCRITOS CORRETAMENTE. POSSIBILIDADE DE IDENTIFICAÇÃO DO FEITO. AUSÊNCIA DE NULIDADE. RECURSO DESPROVIDO.
+1. Não há nulidade na publicação do ato processual em razão do acréscimo de uma letra no sobrenome do causídico, porquanto o seu prenome, o nome das partes e o número do processo foram cadastrados corretamente, dados esses suficientes para a identificação do feito, além de terem sido observados os prazos processuais referentes as intimações anteriores.
+2. Embargos de divergência a que se nega provimento."
+(EREsp 1356168/RS, Corte Especial, Rel. Min. Sidnei Beneti, Rel. p/ Acórdão Min. Jorge Mussi, DJe de 12/12/2014).
+Veja-se que, conforme a própria certidão de fl. 25, os demais dados do processo foram disponibilizados corretamente, sendo suficientes para sua identificação. Nesse sentido, (RCD no REsp 1294546/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/05/2013, DJe 12/06/2013.)
+Ante o exposto, não havendo qualquer irregularidade no que diz respeito à intimação do Requerente, INDEFIRO O PEDIDO.
+Tendo em vista que os autos já foram baixados, determino, após o transcurso do prazo legal, o arquivamento, bem como a remessa de cópia do presente expediente avulso à origem.
+Publique-se. Intimem-se.
