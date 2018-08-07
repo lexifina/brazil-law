@@ -1,0 +1,55 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por [NOME] contra decisão denegatória do seu recurso especial, fundado no artigo 105, inciso III, alíneas a e c, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+Nas razões do nobre apelo, o ora Agravante discute os seguintes temas: a) juros remuneratórios limitados à taxa média de mercado; b) ilegalidade da capitalização mensal de juros por ausência de pactuação; c) nulidade de cobrança das Tarifas de Abertura de Crédito e de Emissão de Carnê (TAC e TEC); d) vedação da Tarifa de Serviço de Terceiros; e) nulidade do Imposto sobre Operações Financeiras (IOF) diluído nas prestações; f) vedação da cobrança da comissão de permanência cumulada com outros encargos de mora; g) repetição do indébito em dobro; g) proibição de inscrição do nome do agravante nos cadastros de proteção ao crédito; h) redimensionamento dos honorários advocatícios; e i) ilegalidade da compensação de honorários.
+É o relatório.
+Decido.
+Juros remuneratórios:
+A Segunda Seção do Superior Tribunal de Justiça consolidou o entendimento acerca dos juros remuneratórios, no julgamento dos Temas n.os 24 a 27, sob o rito dos recursos especiais repetitivos, conforme o acórdão assim ementado:
+"ORIENTAÇÃO 1 - JUROS REMUNERATÓRIOS
+a) As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto 22.626/33), Súmula 596/STF;
+b) A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade;
+c) São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/02;
+d) É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada  art. 51, §1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto.(..)." (REsp 1.061.530/RS, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 22/10/2008, DJe 10/03/2009.)
+Na espécie, o Tribunal a quo, analisando as peculiaridades do caso concreto, decidiu em conformidade com esse entendimento ao limitar os juros remuneratórios à taxa média de mercado, sob os seguintes fundamentos (fl. 256):
+"No caso em tela, a taxa anual de 42,576%, em janeiro/2012, era consideravelmente superior à taxa média de mercado da época, esta de 25,49% ao ano, segundo consulta efetuada no site do BACEN.
+Diante disso, cabe a limitação dos juros remuneratórios à taxa média de mercado, conforme definido na sentença."
+Portanto, resta prejudicado o pleito do ora Agravante de limitar os juros remuneratórios à taxa média de mercado, ante a ausência de interesse recursal.
+Capitalização de juros:
+A Segunda Seção do Superior Tribunal de Justiça, sob o rito dos recursos especiais repetitivos, no julgamento do Recurso Especial n.º 973.827/RS, vinculado aos Temas 246 e 247, consolidou o entendimento acerca da capitalização mensal dos juros nos termos do acórdão assim ementado:
+"CIVIL E PROCESSUAL. RECURSO ESPECIAL REPETITIVO. AÇÕES REVISIONAL E DE BUSCA E APREENSÃO CONVERTIDA EM DEPÓSITO. CONTRATO DE FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. CAPITALIZAÇÃO DE JUROS. JUROS COMPOSTOS. DECRETO 22.626/1933 MEDIDA PROVISÓRIA 2.170-36/2001. COMISSÃO DE PERMANÊNCIA. MORA. CARACTERIZAÇÃO.
+1. A capitalização de juros vedada pelo Decreto 22.626/1933 (Lei de Usura) em intervalo inferior a um ano e permitida pela Medida Provisória 2.170-36/2001, desde que expressamente pactuada, tem por pressuposto a circunstância de os juros devidos e já vencidos serem, periodicamente, incorporados ao valor principal. Os juros não pagos são incorporados ao capital e sobre eles passam a incidir novos juros.
+2. Por outro lado, há os conceitos abstratos, de matemática financeira, de "taxa de juros simples" e "taxa de juros compostos", métodos usados na formação da taxa de juros contratada, prévios ao início do cumprimento do contrato. A mera circunstância de estar pactuada taxa efetiva e taxa nominal de juros não implica capitalização de juros, mas apenas processo de formação da taxa de juros pelo método composto, o que não é proibido pelo Decreto 22.626/1933.
+3. Teses para os efeitos do art. 543-C do CPC:
+- "É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada."
+- "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada".
+ ..
+6. Recurso especial conhecido em parte e, nessa extensão, provido." (REsp 973.827/RS, Rel. p/ acórdão Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 08/08/2012, DJe 24/09/2012.)
+Verifica-se que Tribunal a quo, a analisar a questão, decidiu em consonância com a orientação desta Corte Superior, nos seguintes termos (fls. 257/258):
+"Segundo atual orientação do Superior Tribunal de Justiça, admite-se a capitalização mensal dos juros quando expressamente avençada e desde que o contrato tenha sido firmado após a vigência da Medida Provisória nº 1.963-17/2000 (31.03.2000), reeditada pela Medida Provisória 2.170/36.
+(..)
+Dessa forma, em relação ao contrato revisando, verifica-se a pactuação expressa da capitalização (cláusula 1 - fl. 40), restando autorizada a cobrança."
+Destaco que é inviável a reforma do acórdão neste particular pois, para tanto, seria necessário o revolvimento do conjunto fático-probatório dos autos, bem como interpretação de cláusula contratual, o que é vedado pelas Súmulas n.os 5 e 7 do STJ.
+Tarifas de abertura de crédito e de emissão de carnê (TAC e TEC):
+O v. acórdão recorrido apontou que não foram previstas no contrato a cobrança da tarifa de abertura de crédito e a tarifa de emissão de carnê (fl. 260).
+Ocorre que as razões do recurso especial deliram dos fundamentos adotados nesse julgado, que entendeu que não houve a cobrança das referidas tarifas, aduzindo o Agravante, em seu recurso, serem elas ilegais, o que caracteriza deficiência na fundamentação do apelo nobre, fazendo incidir o óbice da Súmula n.º 284 do Supremo Tribunal Federal.
+Imposto sobre Operações Financeira (IOF):
+A jurisprudência consolidada neste Superior Tribunal de Justiça, nos moldes do art. 543-C do CPC, relativamente às mencionadas tarifas administrativas e ao IOF, tratados nos Temas 618 a 621, é no seguinte sentido:
+"CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. CONTRATO DE FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. DIVERGÊNCIA. CAPITALIZAÇÃO DE JUROS. JUROS COMPOSTOS. MEDIDA PROVISÓRIA 2.170-36/2001. RECURSOS REPETITIVOS. CPC, ART. 543-C. TARIFAS ADMINISTRATIVAS PARA ABERTURA DE CRÉDITO (TAC), E EMISSÃO DE CARNÊ (TEC). EXPRESSA PREVISÃO CONTRATUAL. COBRANÇA. LEGITIMIDADE. PRECEDENTES. MÚTUO ACESSÓRIO PARA PAGAMENTO PARCELADO DO IMPOSTO SOBRE OPERAÇÕES FINANCEIRAS (IOF). POSSIBILIDADE.
+(..)
+- 3ª Tese: Podem as partes convencionar o pagamento do Imposto sobre Operações Financeiras e de Crédito (IOF) por meio de financiamento acessório ao mútuo principal, sujeitando-o aos mesmos encargos contratuais.
+10. Recurso especial parcialmente provido." (REsp"s 1.251.331/RS e 1.255.573/RS, Rel. Min. MARIA ISABEL GALLOTTI, .DJe de 24/10/2013.)
+Na hipótese dos autos, quanto ao financiamento do IOF, o Tribunal a quo decidiu pela legalidade da cobrança financiada, em conformidade com a orientação desta Corte Superior (fls. 259/260).
+Comissão de permanência, Tarifa de serviço de terceiros e compensação de honorários:
+Verifica-se que o acórdão recorrido não debate sobre essas questões, razão pela qual não se pode conhecer do nobre apelo, nos pontos, em face da ausência do prequestionamento viabilizador da instância extraordinária. Aplicação das Súmulas 282 e 356 do STF.
+Repetição do indébito em dobro:
+No que diz respeito ao pleito da repetição do indébito resta prejudicado, uma vez que que o Tribunal de origem reconheceu a legalidade dos encargos contratuais cobrados pela instituição financeira.
+Vedação de inclusão nos cadastros de inadimplentes:
+Em relação à proibição de inscrição do nome nos cadastros de proteção ao crédito, verifica-se que a insurgência do Agravante não merece prosperar, tendo em vista que o acórdão recorrido já afastou a possibilidade de anotação negativa nos cadastros (fl. 263), mostrando-se inadmissível a interposição de recursos visando resultado já alcançado, ante a evidente ausência de interesse recursal.
+Honorários advocatícios:
+O Superior Tribunal de Justiça possui entendimento pacificado no sentido de que a alteração da distribuição da sucumbência fixada pelas instâncias ordinárias demanda necessário revolvimento do conteúdo fático probatório dos autos, o que atrai a incidência da súmula n.º 7 do Superior Tribunal de Justiça, assim redigida: "a pretensão de simples reexame de prova não enseja recurso especial". Precedentes:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. CAPITALIZAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC. NÃO OCORRÊNCIA. REEXAME DE PROVAS. SÚMULAS NºS 5 E 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS NºS 282 E 356/STJ. (..) 6. Esta Corte possui entendimento pacificado no sentido de que a alteração da distribuição da sucumbência fixada pelas instâncias ordinárias demanda necessário revolvimento do conteúdo fático-probatório dos autos, o que atrai a incidência da Súmula nº 7/STJ. 7. Agravo regimental não provido." (AgRg no AREsp 537.989/RS, Rel. Min. RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/05/2015, DJe 28/05/2015.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. DANO MORAL. INSCRIÇÃO NO CADASTRO DE INADIMPLENTES. POSTAGEM DA CORRESPONDÊNCIA COMPROVADA. ADIMPLEMENTO DA OBRIGAÇÃO CONTIDA NO ART. 42, § 3º, DO CDC. APLICAÇÃO DO ART. 543-C, § 7º, DO CPC. NÃO CABIMENTO DE AGRAVO. DISTRIBUIÇÃO DO ÔNUS DA SUCUMBÊNCIA. HONORÁRIOS. VALOR ARBITRADO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N.7/STJ. (..) 3. A revisão do entendimento do órgão julgador a quo acerca da distribuição do ônus de sucumbência e do valor arbitrado a título de honorários demanda o reexame do conjunto fático-probatório dos autos, procedimento vedado nos termos da Súmula n. 7 do STJ. 4. Agravo regimental desprovido." (AgRg no AREsp 638.788/SP, Rel. Min. JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 05/05/2015, DJe 11/05/2015.)
+Ante o exposto, CONHEÇO do agravo para CONHECER em parte do recurso especial e, nesta extensão, NEGAR-LHE PROVIMENTO.
+Por fim, deixo de majorar os honorários advocatícios nos termos do artigo 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o recurso especial foi interposto contra acórdão publicado ainda na vigência do Código de Processo Civil de 1973.
+Publique-se. Intimem-se.
