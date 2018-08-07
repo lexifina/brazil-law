@@ -1,0 +1,14 @@
+DECISÃO
+EDVALDO ADELINO SABINO, paciente neste habeas corpus, alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 0004741-14.2012.8.26.0568).
+Consta dos autos que o paciente foi condenado à pena de 9 anos e 4 meses de reclusão, em regime inicial fechado, mais multa, pela prática dos crimes previstos nos arts. 33, caput, e 35, caput, ambos c/c o art. 40, VI, todos da Lei n. 11.343/2006.
+Busca-se, por meio deste writ, seja aplicada a causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006 e, por conseguinte, seja fixado o regime inicial semiaberto.
+A liminar foi indeferida e, diante da suficiente instrução dos autos, foi dispensada a solicitação de informações à autoridade apontada como coatora.
+O Ministério Público Federal manifestou-se pelo não conhecimento da impetração e, caso conhecida, pela denegação da ordem.
+Decido.
+A Corte estadual, ao dar provimento à apelação interposta pelo Ministério Público, afastou a aplicação da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, sob o argumento de que, "tratando-se de réus associados para o tráfico de drogas, bem como se considerando a quantidade e a natureza da substância apreendida, não é de se cogitar da aplicação da regra estampada no artigo 33, § 4º, da Lei nº 11.343/06 - que, aliás, é incompatível com a figura prevista no artigo 35, da mesma lei" (fl. 33).
+De fato, uma vez que foi demonstrada, concretamente, a estabilidade e a permanência da associação criminosa - tanto que o paciente também foi condenado pela prática do crime previsto no art. 35 da Lei n. 11.343/2006 -, não há como reconhecer a incidência da minorante prevista no art. 33, § 4º, da Lei de Drogas em seu favor.
+Cumpre salientar que a Terceira Seção deste Superior Tribunal possui o entendimento de que é inviável a aplicação da causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei de Drogas, quando o agente foi condenado também pela prática do crime previsto no art. 35 da Lei de Drogas, por restar evidenciada a sua dedicação a atividades criminosas ou a sua participação em organização criminosa, no caso, especialmente voltada para o cometimento do narcotráfico.
+Exemplificativamente: HC n. 371.353/PI, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 16/12/2016; HC n. 422.709/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 19/12/2017.
+Consequentemente, diante do insucesso da tese defensiva que poderia levar à redução da reprimenda, fica mantida a imposição do regime inicial fechado de cumprimento de pena, ex vi do disposto no art. 33, § 2º, "a", do Código Penal (sanção superior a 8 anos de reclusão).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
