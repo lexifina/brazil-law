@@ -1,0 +1,54 @@
+EMENTA
+PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO SIMPLES. DECISÃO DE PRONÚNCIA. VIOLAÇÃO AO ART. 155, CAPUT, DO CPP. ALEGAÇÃO DE FALTA DE PROVAS PRODUZIDAS EM JUÍZO. PRESENÇA DA MATERIALIDADE E DOS INDÍCIOS SUFICIENTES DE AUTORIA. PROVAS CORROBORADAS EM JUÍZO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA. PRECEDENTES. SÚMULA 568/STJ. INCIDÊNCIA. AGRAVO EM RECURSO ESPECIAL CONHECIDO PARA DESPROVER O RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão proferida pelo eg. Tribunal de Justiça do Estado de Alagoas que inadmitiu recurso especial fundamentado na alínea a do permissivo constitucional.
+O MM. Juízo de 1º Grau pronunciou o ora recorrente como incurso nas sanções do art. 121, caput, do Código Penal (fls. 177-181). O eg Tribunal de origem, em decisão unânime, negou provimento ao recurso em sentido estrito ali interposto pela Defesa, para manter a decisão de pronúncia recorrida (fls. 257-265). Eis a ementa do acórdão:
+"PENAL. PROCESSO PENAL. RECURSO EM SENTIDO ESTRITO. TRIBUNAL DO JÚRI. HOMICÍDIO SIMPLES. PRONÚNCIA. IRRESIGNAÇÃO DEFENSIVA. PEDIDOS DE IMPRONÚNCIA. ALEGAÇÃO AUSÊNCIA DE PROVAS SUFICIENTES PARA SUBMISSÃO AO TRIBUNAL DO JÚRI. JUÍZO DE ADMISSIBILIDADE. FUNDAMENTAÇÃO BASEADA NA CONFISSÃO DO RÉU E DEPOIMENTOS TESTEMUNHAIS. TESE ACUSATÓRIA SUFICIENTEMENTE FUNDAMENTADA PARA LEVAR O RECORRENTE AO TRIBUNAL DO JÚRI. IMPERATIVIDADE. RECURSO CONHECIDO E IMPROVIDO. DECISÃO UNÂNIME.
+I - A decisão de pronúncia encerra simples juízo de admissibilidade da acusação, exigindo o ordenamento jurídico somente o exame da ocorrência do crime e de indícios de sua autoria, não se demandando aqueles requisitos de certeza necessários à prolação de um édito condenatório, sendo que as dúvidas, nessa fase processual, resolvem-se a favor da sociedade. Inteligência do artigo 413 do CPP.
+II - In casu, o magistrado de origem, ao proferir decisão de pronúncia, fez referência ao laudo de exame de corpo de delito, confissão do réu e outros depoimentos testemunhais que apontavam o recorrente como o provável autor do crime descrito na denúncia, para concluir pela existência de indícios da autoria do delito.
+III - Em se tratando de processos em que se apuram crimes dolosos contra a vida, cuja competência é reservada, constitucionalmente, ao Tribunal do Júri, somente é possível retirar a causa de seu julgamento quando o feito se encontra de tal maneira preparado que sobejam provas a reclamar uma pronta decisão do magistrado.
+IV - Recurso conhecido e improvido."
+Sobreveio recurso especial, interposto com fulcro na alínea a do permissivo constitucional, no qual o recorrente alega violação ao art. 155, caput, do Código de Processo Penal (fls. 274-279). Para tanto, argumenta que:
+a) " ..  a decisão de 1º grau e o v. acórdão que a confirmou mantiveram a pronúncia do recorrente baseando-se, exclusivamente, no tocante à ilicitude do fato, em elementos colhidos na fase do inquérito policial" (fl. 277).
+b) " ..  não existe nenhuma prova nos autos, nem sequer um indício (a não ser elementos colhidos no inquérito), capaz de contrariar a tese defensiva exposta pelo recorrente em seu interrogatório" (fl. 278).
+c) "a única prova - tecnicamente falando - referida na pronúncia e no acórdão confirmatório foi o interrogatório judicial do recorrente, o qual serve de lastro para a tese defensiva (legítima defesa) e não para a acusatória" (fl. 279).
+Contrarrazões apresentadas pelo Parquet (fls. 287-288).
+O especial foi inadmitido na origem pela Súmula n. 7/STJ (fls. 290-294).
+Daí o presente agravo, no qual o agravante repisa os argumentos expendidos no apelo nobre e rebate o fundamento da decisão que o inadmitiu (fls. 303-307). Alega que não incide o óbice da Súmula n. 7/STJ, pois "ao contrário, tal recurso restringe-se à discussão de matéria jurídica" (fl. 305).
+Contraminuta apresentada (fls. 313-314).
+O Ministério Público Federal, em seu d. parecer, opina pelo desprovimento do agravo (fls. 328-330).
+É o relatório.
+Decido.
+Superadas as questões relativas ao conhecimento do agravo, passa-se à análise do recurso especial.
+O recurso não merece prosperar.
+O eg. Tribunal a quo, ao negar provimento ao recurso em sentido estrito ali interposto pela Defesa, analisou a quaestio com a seguinte fundamentação, verbis:
+"Neste recurso, a defesa persegue a despronúncia do réu sob o argumento de inexistência de provas para leva-lo ao Tribunal do Júri. O recurso deve ser improvido, vejamos por quê.
+Registre-se incialmente que foram ouvidos durante o auto de prisão em flagrante [NOME], [NOME], [NOME] e o recorrente (fls. 4/6).
+ ..
+Gevaldo [NOME], proprietário de um bar localizado nas proximidades do crime, narrou que não presenciou o exato momento do crime, todavia ouviu os estampidos e viu o criminoso a correr com a arma após o crime consumado (fls. 5).
+[NOME], relatou que estava dormindo no calçadão em frente a oficina mecânica (Garaldo Auto Peças) ao lado da praça da independência, quando subutamente acordou com um estampido próprio de disparo de arma de fogo e constatou que a aproximadamente 20 metros encontrava-se o corpo, tendo logo tomado conhecimento de que o crime foi praticado pelo acusado.
+ ..
+Acerca dos indícios de autoria, ao contrário do alegado pela defesa, entendo que os relatos das testemunhas colhidos em fase policial, justamente com o interrogatório do réu perante a autoridade policial, juntamente com a prova da materialidade do crime e o auto de apresentação e apreensão da arma, são bastante para a pronúncia, na medida em que delineiam um cenário em que o réu teria desferido um disparo de arma de fogo na vítima, motivado por assaltos que ela tinha sofrido.
+Frise-se, ademais, que há entendimento do Superior Tribunal de Justiça no sentido de possibilitar que a decisão de pronúncia se funde em elementos de informação colhidos durante o inquérito judicial. Senão vejamos:
+ ..
+In casu, os elementos de informação colhidos durante o inquérito policial são corroborados pelo interrogatório do réu perante a autoridade judicial, o que revela indícios suficientes para a pronúncia.
+Com efeito, apesar de o réu negar a intenção de matar a vítima, há outros depoimentos testemunhais dando conta de que o acusado, no momento em que desferiu o disparo, já se encontrava preparado para agir, o que corrobora pelas lesões descritas acima, são suficientes para a pronúncia.
+Como se sabe, o artigo 413 do CPP, dispõe que o acusado será pronunciado se provada a materialidade do fato, juntamente com a existência de indícios suficientes de autoria ou participação. Senão vejamos o comando do legislador:
+ ..
+Nesse diapasão, acompanhando o pronunciamento do Ministério Público de segundo grau, conheço do presente Recurso em Sentido Estrito para, no mérito, NEGAR-LHE PROVIMENTO, mantendo-se, na íntegra, a decisão que julgou procedente a denúncia pra pronunciar o recorrente." (fls. 257-265, sem grifos no original).
+Dá análise dos excertos acima transcritos, mostra-se correto o v. acórdão objurgado, tendo em vista que se encontra em consonância com o entendimento estabelecido nesta Corte Superior de Justiça, no sentido de que "a decisão de pronúncia comporta juízo de admissibilidade da acusação, para o qual devem concorrer a prova da existência do fato (materialidade) e os indícios acerca da autoria ou participação do agente, consoante dispõe o art. 413 do CPP. Constitui a pronúncia, portanto, juízo fundado de suspeita, que apenas e tão somente admite a acusação. Não profere juízo de certeza, necessário para a condenação, motivo pelo qual o óbice do art. 155 do CPP não se aplica à referida decisão" (HC n. 435.977/RS, Quinta Turma, de minha relatoria, DJe 24/5/2018).
+Nesse sentido, confira-se:
+"HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRIBUNAL DO JÚRI. TENTATIVA DE HOMICÍDIO. MATERIALIDADE PROVADA. INDÍCIOS DE AUTORIA AFERÍVEIS COM BASE EM ELEMENTOS DE INFORMAÇÃO DO INQUÉRITO POLICIAL E PROVAS COLHIDAS DURANTE O SUMÁRIO DE CULPA. PRONÚNCIA. POSSIBILIDADE. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. Nos termos da jurisprudência desta Corte Superior, é admissível o uso do inquérito policial como parâmetro de aferição dos indícios de autoria imprescindíveis à pronúncia, sem que isto represente violação ou negativa de vigência ao art. 155 do CPP. Precedentes.
+3. Se há o reconhecimento de que elementos colhidos na fase extrajudicial demonstram indícios de autoria do crime doloso contra a vida, ainda que de maneira tênue, o juízo de pronúncia deve considerá-los, sob pena de contrariar as disposições do art. 413 do CPP, bem como o princípio do in dubio pro societate.
+4. Considerando o fato de que as instâncias ordinárias admitiram a existência de indícios de autoria decorrentes das informações que defluem do inquérito policial, bem como da instrução judicial do sumário de culpa, a pronúncia do réu é medida que se impõe.
+5. Habeas corpus não conhecido." (HC n. 362.113/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 23/9//2016, grifei).
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AFRONTA AOS ARTS. 155 E 413, AMBOS DO CPP. PRONÚNCIA. JUÍZO DE ADMISSIBILIDADE DA ACUSAÇÃO. PROVA PRODUZIDA NA SEARA INQUISITIVA. POSSIBILIDADE. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. OFENSA AO ART. 414 DO CPP. PLEITO DE IMPRONÚNCIA. REEXAME FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. "Segundo a jurisprudência deste Tribunal, a decisão de pronúncia, por possuir conteúdo meramente declaratório, pode se valer de elementos probatórios colhidos na fase inquisitorial, por não configurar juízo de certeza". (AgRg no REsp 1202124/RS, Rel. Min. SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 18/09/2012, DJe 01/10/2012).
+2. É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes para absolver sumariamente, pronunciar, desclassificar, ou ainda, impronunciar o réu, porquanto é vedado na via eleita o reexame de fatos e provas. Súmula nº 7/STJ.
+3. Agravo regimental a que se nega provimento." (AgRg no AREsp n. 524.017/MG, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 3/9/2014, grifei).
+Dessa forma, estando o v. acórdão prolatado pelo eg. Tribunal a quo em conformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso o enunciado da Súmula n. 568/STJ, in verbis:
+"O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial, nos termos do art. 253, parágrafo único, inciso II, alínea b, do Regimento Interno deste Superior Tribunal de Justiça.
+P. e I.
