@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em favor de LEANDRO DOS SANTOS, apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro (relator o Desembargador João Ziraldo Maia).
+Consta dos autos ter sido o paciente preso cautelarmente pela suposta prática do crime previsto no art. 157, § 2º, II, do Código Penal. Narra a denúncia que o paciente "e seu comparsa, utilizando uma motocicleta preta de placa não identificada, abordaram a vítima em via pública, anunciaram o assalto, e mediante ameaça de morte, simulando estarem armados e prontos a efetuar disparos caso a ofendida reagisse à investida criminosa, exigiram a entrega da bolsa da vítima, e empreenderam fuga da localidade na posse da res furtiva" (e-STJ fl. 21).
+Impetrado habeas corpus no Tribunal de origem objetivando a soltura do paciente, a ordem foi denegada nos termos da seguinte ementa (e-STJ fl. 50):
+HABEAS CORPUS. ROUBO (ARTIGO 157, §2º, II, DO CÓDIGO PENAL). ALEGAÇÃO DEFENSIVA DE CONSTRANGIMENTO ILEGAL CONSUBSTANCIADO NA AUSÊNCIA DOS REQUISITOS LEGAIS PARA DECRETAÇÃO DA PRISÃO PREVENTIVA. ALEGAÇÃO DE NULIDADE POR RECONHECIMENTO FOTOGRÁFICO EM SEDE POLICIAL. POSSIBILIDADE. PRECEDENTES JURISPRUDENCIAIS. NÃO ACOLHIMENTO. PRISÃO QUE SE ENCONTRA DEVIDAMENTE FUNDAMENTADA. PRESENÇA DE FUMUS COMISSI DELICTI E PERICULUM LIBERTATIS. ATIVIDADE QUE ESTÁ IMPLICITAMENTE REVESTIDA DE VIOLÊNCIA E DE PERICULOSIDADE, O QUE CONSTITUI INCONTESTÁVEL AMEAÇA À ORDEM SOCIAL. GRAVIDADE CONCRETA DO DELITO. PRECEDENTES JURISPRUDENCIAIS. RESIDÊNCIA FIXA. OCUPAÇÃO LÍCITA. ELEMENTOS QUE, DE PER SI, NÃO AUTORIZAM A REVOGAÇÃO DA PRISÃO. CONSTRANGIMENTO ILEGAL INOCORRENTE. ORDEM CONHECIDA E DENEGADA.
+No presente writ, sustenta a impetrante inexistir motivação idônea para a segregação antecipada, visto que não apontada, concretamente, a presença dos requisitos do art. 312 do Código de Processo Penal, asseverando que o paciente não foi preso em flagrante, de modo que a afirmativa nesse sentido na decisão de primeiro grau demonstra que o Magistrado não analisou devidamente a questão.
+Aduz que a preservação da custódia está amparada na gravidade abstrata do delito e "em mero reconhecimento fotográfico", destacando, ainda, a suficiência da imposição de medidas cautelares alternativas.
+Busca, inclusive liminarmente, seja revogada a custódia cautelar do paciente.
+Liminar indeferida (e-STJ fls. 67/69) e prestadas as informações, o Ministério Público Federal opinou pela denegação da ordem (e-STJ fls. 96/101).
+É, em síntese, o relatório.
+Pois bem. Informações extraídas do endereço eletrônico do Tribunal de origem noticiam a superveniência, em 10/7/2018, de sentença condenatória em desfavor do paciente.
+Assim, fica sem objeto este writ, à vista da superveniência de novo título a embasar a custódia, não submetido a pronunciamento do Tribunal de origem.
+A propósito:
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA QUE MANTENHA A CUSTÓDIA CAUTELAR. NOVO TÍTULO. PREJUDICIALIDADE DO RECURSO EM HABEAS CORPUS. AGRAVO REGIMENTAL IMPROVIDO.
+1. Cediço que não cabe a interposição de embargos de declaração contra decisão monocrática que julga prejudicado recurso, mas, em consonância ao princípio da fungibilidade recursal, há que se receber esta irresignação como agravo regimental.
+2. Prevalece no âmbito da Sexta Turma desta Corte o entendimento no sentido de que constitui novo título a expedição de sentença condenatória que mantenha a custódia preventiva, mesmo que não lance mão de novos fundamentos para a manutenção daquela. Precedentes.
+3. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.
+(EDcl no RHC 78.448/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/03/2017, DJe 23/03/2017, grifei)
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
