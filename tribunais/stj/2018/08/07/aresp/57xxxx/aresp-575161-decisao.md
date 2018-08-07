@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da incidência da Súmula n. 7 do STJ e da ausência de omissão no acórdão recorrido.
+O acórdão recorrido está assim ementado (e-STJ fl. 565):
+SEGURO. Indenização. Veículo furtado. Circunstâncias a indicar fraude contra a seguradora. Extravio de chaves sem posterior modificação das fechaduras. Demora de quarenta dias para comunicar o furto à empresa responsável por equipamento de localização e bloqueio instalado no veículo furtado, objeto do contrato de seguro. Ato privativo do segurado. Ademais, a prova produzida no curso do processo de conhecimento, amparada na prova judiciária e produzida em inquérito policial, revela indícios sérios de ocorrência de ato ilícito. Ação improcedente, com reflexos na disciplina sucumbencial. Recurso da ré provido, desprovido o da autora.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 587/591).
+Nas razões do recurso especial (e-STJ fls. 595/624), interposto com fundamento no art. 105, III, "a" e "c", da CF, a recorrente alegou ofensa aos arts. 2º e 3º do CDC e 765 e 768 do CC/2002, bem como divergência jurisprudencial, argumentando, em síntese, que o contrato firmado com a recorrida submete-se às norma do CDC, devendo-se interpretar os termos contratuais de maneira mais favorável à consumidora.
+Nesse contexto, afirmou ainda que, "para o segurado perder o direito à garantia por agravamento do risco, a seguradora tem de provar que o segurado agiu de modo intencional para agravar o risco objeto do contrato. (..) Ato de terceiro ou mero indícios de prova da conduta do segurado não são suficientes para o segurado perder o direito à garantia" (e-STJ fl. 620).
+Suscitou ainda afronta ao art. 535 do CPC/1973, pois o TJSP não teria se manifestado quanto às alegadas violações legais, sendo, portanto, omisso o acórdão recorrido.
+No agravo (e-STJ fls. 643/659), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+O recurso foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 2/STJ).
+Inexiste ofensa ao art. 535 do CPC/1973, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há falar em omissão quando os fundamentos usados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu na lide.
+O Tribunal de origem, mesmo considerando a aplicabilidade do CDC ao presente caso, entendeu pela improcedência da ação de cobrança, pois, com base na prova testemunhal e técnica produzida no processo de conhecimento, bem como no inquérito policial que apurou o furto do veículo segurado, além das regras de experiência, concluiu que o motorista do veículo furtado, preposto da empresa ora recorrente, teria agravado o risco segurado, justificando assim a negativa de cobertura pela seguradora (e-STJ fls. 569/573).
+Assim, é inviável alterar a conclusão do Tribunal de origem quanto ao tema, pois, para tanto, seria necessário reexaminar o conjunto fático-probatório, bem como as cláusulas do contrato, providências vedadas a esta Corte, de acordo com as Súmulas n. 5 e 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
