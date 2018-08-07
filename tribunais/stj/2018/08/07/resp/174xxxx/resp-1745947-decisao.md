@@ -1,0 +1,25 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pelo BANCO SANTANDER S/A contra decisão denegatória de seu recurso especial, fundado no artigo 105, inciso III, alínea c, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+Nas razões do nobre apelo, o ora Agravante sustenta: a) ausência de prestação jurisdicional (violação do art. 1.022 do CPC); e b) legalidade da cobrança da capitalização mensal de juros porque expressamente pactuada.
+É o relatório. Decido.
+Violação do art. 1.022 do CPC:
+A suposta afronta ao mencionado dispositivo do Código de Processo Civil de 2015, não subsiste, uma vez que o acórdão hostilizado solucionou a quaestio juris de maneira clara e coerente, apresentando todas as razões que firmaram o seu convencimento.
+Dessa forma, ainda que a recorrente entenda equivocadas ou insubsistentes as razões de decidir que alicerçam o acórdão atacado, isso não implica, necessariamente, que essas sejam desprovidas de fundamentação. Há significativa distinção entre a decisão que peca pela inexistência de alicerces jurídicos e aquela que traz resultado desfavorável à pretensão do litigante.
+Capitalização de juros:
+A Segunda Seção deste Superior Tribunal de Justiça consolidou o entendimento acerca da possibilidade de cobrança da capitalização mensal de juros com base no art. 5º da Medida Provisória n. 2.170-36/2001, no julgamento dos Temas 246 e 247, sob o rito dos recursos especiais repetitivos, conforme os termos que se seguem:
+"CIVIL E PROCESSUAL. RECURSO ESPECIAL REPETITIVO. AÇÕES REVISIONAL E DE BUSCA E APREENSÃO CONVERTIDA EM DEPÓSITO. CONTRATO DE FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. CAPITALIZAÇÃO DE JUROS. JUROS COMPOSTOS. DECRETO 22.626/1933 MEDIDA PROVISÓRIA 2.170-36/2001. COMISSÃO DE PERMANÊNCIA. MORA. CARACTERIZAÇÃO.
+1. A capitalização de juros vedada pelo Decreto 22.626/1933 (Lei de Usura) em intervalo inferior a um ano e permitida pela Medida Provisória 2.170-36/2001, desde que expressamente pactuada, tem por pressuposto a circunstância de os juros devidos e já vencidos serem, periodicamente, incorporados ao valor principal. Os juros não pagos são incorporados ao capital e sobre eles passam a incidir novos juros.
+2. Por outro lado, há os conceitos abstratos, de matemática financeira, de "taxa de juros simples" e "taxa de juros compostos", métodos usados na formação da taxa de juros contratada, prévios ao início do cumprimento do contrato. A mera circunstância de estar pactuada taxa efetiva e taxa nominal de juros não implica capitalização de juros, mas apenas processo de formação da taxa de juros pelo método composto, o que não é proibido pelo Decreto 22.626/1933.
+3. Teses para os efeitos do art. 543-C do CPC:
+- "É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada."
+- "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada".
+(..)
+6. Recurso especial conhecido em parte e, nessa extensão, provido." (REsp 973.827/RS, Rel. Ministro LUIS FELIPE SALOMÃO, Rel. p/ Acórdão Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 08/08/2012, DJe 24/09/2012.)
+Destaco, que nos termos da jurisprudência consolidada neste Superior Tribunal de Justiça, no sentido de que a capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara, bem como de que a previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada, legítima a cobrança da taxa efetiva anual dos juros remuneratórios, tal como convencionada.
+No mesmo sentido é o AgInt no AREsp 1157501/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/03/2018, DJe 20/03/2018, e o AgInt no AgInt no AREsp 929720/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/02/2017, DJe 01/03/2017.
+Na espécie, o Tribunal de origem decidiu em conformidade com essa orientação ao proibir a capitalização mensal dos juros em razão da ausência de demonstração da sua pactuação (fl. 260 e 337).
+Destaco que é inviável a reforma do acórdão neste particular pois, para tanto, seria necessário o revolvimento do conjunto fático-probatório dos autos, bem como interpretação de cláusula contratual, o que é vedado pelas Súmulas 5 e 7 do STJ.
+Ante o exposto, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nesta extensão, NEGAR-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte Recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observada a eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
