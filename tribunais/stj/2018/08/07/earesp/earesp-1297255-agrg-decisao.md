@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo regimental interposto contra decisão prolatada às fls. 282/283, em que a Presidência desta Corte não conheceu do recurso especial, porquanto não impugnados todos os fundamentos da decisão agravada.
+Nas razões, a defesa do agravante sustenta que apontou todos os dispositivos legais aos quais se negou vigência, bem como não pretende o reexame de provas e sim seja garantido a ampla defesa e o contraditório.
+Pretende, ao final, a reconsideração da decisão agravada ou a remessa do feito à Turma para que o agravo seja conhecido e provido o recurso especial.
+O Ministério Público Federal opinou pelo conhecimento e provimento do agravo regimental e pelo desprovimento do recurso especial (fls. 580/583).
+É o relatório. Decido.
+Reconsidero a decisão de fls. 551/552 e passo a analisar o agravo em recurso especial.
+Trata-se de agravo em recurso especial contra decisão que não admitiu o recurso especial, interposto com fulcro no art. 105, III, alíneas "a" e "c", da Constituição Federal.
+Consta dos autos que o ora agravante foi condenado como incurso no art. 33, § 4º, Lei n. 11.343/2006 (tráfico de drogas), às penas de 4 (quatro) anos e 2 (dois) meses de reclusão, em regime inicial semiaberto, e pagamento de 416 dias-multa, pelo crime de tráfico, conforme a sentença de fls. 206/212.
+Tanto a defesa como a acusação interpuseram apelação.
+O Tribunal de origem negou provimento ao recurso defensivo, e deu parcial provimento ao apelo ministerial, para afastar o redutor de pena e fixar o regime fechado (fls. 3528/362).
+Os embargos de declaração foram rejeitados (fls. 398/402).
+Em sede de recurso especial, a defesa alega violação dos arts. 381, III, e 619 do Código de Processo Penal e 33, § 4º, da Lei n. 11.343/2006.
+Sustenta omissão por parte da Corte originária no tocante às questões trazidas a exame nos embargos de declaração opostos.
+Alega que não há fundamentação para o afastamento da causa de diminuição prevista no art. 33, § 4º, da Lei de Drogas. Aduz que o agravante é primário, pois foi absolvido em primeiro grau tendo sido mantida no Tribunal a quo. Afirma que não há embasamento fático para o afastamento do redutor.
+Requer a redução da pena e a fixação de regime aberto.
+O Ministério Público Federal opina pelo desprovimento do agravo (fls. 580/583).
+É o relatório. Decido.
+O recurso não merece provimento.
+Anoto que não procede a alegação da defesa de ofensa ao art. 619 do CPP, porquanto o acórdão recorrido enfrentou de maneira clara e fundamentada todas as questões postas. Ressalta-se que "omissão no julgado e entendimento contrário ao interesse da parte são conceitos que não se confundem" (EDcl nos EDcl no AgRg no REsp 1.129.183/DF, Rel. Min. HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 28.8.2012).
+Quanto à causa especial de diminuição de pena do § 4º do art. 33 da Lei n. 11.343/2006, o Tribunal de origem consignou (fls. 358/359):
+Em seguida, o castigo de RAFAEL foi diminuído na proporção de 1/6, diante do reconhecimento da causa de diminuição prevista no artigo 33, parágrafo 4º, da Lei nº 11.343/06, totalizando 4 anos e 2 meses de reclusão, além do pagamento de 416 dias-multa, no limiar. Contudo, assiste razão ao Promotor de Justiça, quando afirma que RAFAEL foi indevidamente beneficiado com esse privilégio.
+É que, nos termos do referido dispositivo, o julgador poderá reduzir a pena fixada ao agente - de um sexto a dois terços - desde que este seja primário, não possua antecedentes criminais, não se dedique a atividades criminosas, nem integre organização criminosa.
+Cuida-se, pois, de faculdade que o Juiz de Direito usará ou não, tendo em vista as circunstâncias do caso concreto, e não direito subjetivo do acusado. Contudo, RAFAEL possui maus antecedentes criminais (por tráfico de drogas), o que revela sua dedicação a atividades criminosas e, por consequência, impede-o de ser beneficiado por esse redutor.
+Fica, portanto, excluída essa causa de diminuição. Diante disso, a reprimenda de RAFAEL totaliza, em definitivo, 5 anos de reclusão, além do pagamento de 500 dias-multa, no piso.
+Verifica-se que a instância ordinária negou a aplicação da causa especial de diminuição de pena do § 4º do art. 33 da Lei n. 11.343/2006, considerando que o réu se dedicava à atividade criminosa, notadamente em razão dos antecedentes, de modo que o recorrente não preenche os requisitos para a diminuição da pena. Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DOSIMETRIA. TRÁFICO DE DROGAS. MAUS ANTECEDENTES. EXASPERAÇÃO DA PENA-BASE E INAPLICABILIDADE DA MINORANTE. BIS IN IDEM. INOCORRÊNCIA. REGIME INICIAL SEMIABERTO. REGISTRO DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A aplicação da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/06, exige que o condenado preencha cumulativamente os requisitos legais, quais sejam, ser primário, ter bons antecedentes, não se dedicar às atividades criminosas e nem integrar organização criminosa.
+2. Na espécie, verifica-se que as instâncias de origem negaram a incidência da referida minorante, em razão dos maus antecedentes do réu. Assim, não há falar em bis in idem na utilização dos maus antecedentes para exasperar a pena-base e, ao mesmo tempo, afastar a aplicação da causa de diminuição do tráfico privilegiado, por expressa previsão legal.
+3. O art. 33, § 3º, do CP dispõe que "a determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 deste Código". Assim, conquanto a pena tenha sido fixada em 4 anos de reclusão, revela-se correta a fixação do regime inicial semiaberto, nos termos do art. 33, § 2º, "b", do CP, tendo em vista o registro de circunstância judicial negativa (maus antecedentes) na primeira fase da dosimetria.
+4. Agravo regimental não provido (AgRg no AREsp 684.527/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 20/06/2018).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. COMPROVAÇÃO POSTERIOR DA TEMPESTIVIDADE DO RECURSO. SUSPENSÃO DOS PRAZOS NO TRIBUNAL DE ORIGEM. POSSIBILIDADE. TRÁFICO DE DROGAS. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. MAUS ANTECEDENTES E NATUREZA DAS DROGAS. DESPROPORCIONALIDADE NÃO CONFIGURADA. MINORANTE DO ART. 33, § 4º, DA LEI DE DROGAS. MAUS ANTECEDENTES. BIS IN IDEM. NÃO OCORRÊNCIA. REGIME PRISIONAL MAIS GRAVOSO. FUNDAMENTAÇÃO CONCRETA. POSSIBILIDADE. AGRAVO REGIMENTAL PROVIDO PARA CONHECER DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
+ ..
+2. A Lei n. 11.343/2006 veda a aplicação da minorante do tráfico privilegiado ao réu possuidor de maus antecedentes, não caracterizando bis in idem a sua valoração concomitante, na primeira fase da dosimetria, para exasperar a pena-base.
+3. Estabelecida pena superior a 4 anos de reclusão e inferior a 8, admite-se a imposição do regime inicial fechado, em virtude da existência de circunstância judicial desfavorável e da variedade de droga apreendida, nos termos do art. 33, § 3º, do CP.
+4. Agravo regimental provido para conhecer do recurso especial e negar-lhe provimento (AgRg no REsp 1.605.505/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 7/11/2016).
+Ademais, para se concluir de forma diversa do entendimento do Tribunal de origem, seria inevitável o revolvimento do acervo probatório dos autos, procedimento sabidamente inviável na instância especial. A referida vedação encontra respaldo no enunciado n. 7 da Súmula desta Corte, verbis: "A pretensão de simples reexame de prova não enseja recurso especial".
+Confira-se, nesse sentido, o precedente desta Corte:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. APREENSÃO DE GRANDE QUANTIDADE DE ENTORPECENTES E APETRECHOS RELACIONADOS COM A TRAFICÂNCIA. CONCLUSÃO DE DEDICAÇÃO À ATIVIDADE CRIMINOSA. REDUTOR DA PENA PREVISTO NO § 4º DO ART. 33 DA LEI N. 11.343/2006. APLICAÇÃO. SÚMULA 7/STJ. REGIME FECHADO. PENA SUPERIOR A 4 E INFERIOR A 8 ANOS. PENA-BASE MAJORADA E GRAVIDADE CONCRETA DO DELITO. ART. 42 DA LEI N. 11.343/06 E ART. 33, § 3º, DO CÓDIGO PENAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Como a Corte de origem concluiu que o agente dedicava-se à atividade criminosa e a modificação deste entendimento depende do reexame do conjunto fático-probatório, incide o óbice da Súmula n. 7/STJ, verbis: "A pretensão de simples reexame de prova não enseja recurso especial".
+2. Em virtude de a pena-base ter sido fixada acima do mínimo legal e as circunstâncias do crime serem desfavoráveis ao réu, mostra-se devidamente fundamentado o regime fechado para o início de cumprimento de reprimenda superior a quatro e inferior a oito anos.
+Agravo regimental desprovido (AgRg no AREsp 1.219.589/SP, por mim relatado, QUINTA TURMA, DJe 16/3/2018).
+Diante do exposto, reconsidero a decisão agravada e com fundamento no art. 932, inc. IV, do Código de Processo Civil c/c o art. 3.º do Código de Processo Penal, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
