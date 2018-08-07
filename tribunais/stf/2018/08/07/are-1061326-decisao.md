@@ -1,0 +1,21 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. PROFESSOR DA EDUCAÇÃO BÁSICA. APRESENTAÇÃO DO ESPELHO DA SOLUÇÃO DAS RESPOSTAS. CONTROVÉRSIA ACERCA DO DEFERIMENTO OU INDEFERIMENTO DE MEDIDAS CAUTELARES, PROVIMENTOS LIMINARES OU ANTECIPAÇÃO DE TUTELA. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA 735 DO STF. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MANDADO DE SEGURANÇA. INAPLICABILIDADE DO ARTIGO 85, § 11, DO CPC/2015. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “AGRAVO DE INSTRUMENTO. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. PROFESSOR DA EDUCAÇÃO BÁSICA. APRESENTAÇÃO DO ESPELHO DA SOLUÇÃO DAS RESPOSTAS. CRITÉRIOS DE VALORAÇÃO. MÉRITO ADMINISTRATIVO. INTERFERÊNCIA DO PODER JUDICIÁRIO. EXAME DA LEGALIDADE. PRECEDENTES JURISPRUDENCIAIS. I. Em sede de concurso público, a apreciação pelo Poder Judiciário restringe-se ao exame da legalidade das normas do edital e dos atos praticados pela Comissão Examinadora, sendo-lhe vedado manifestar-se sobre o conteúdo e critérios adotados na elaboração e correção das provas. II. Os critérios utilizados pela Banca Examinadora para a formulação e correção das questões não se sujeitam à análise do Poder Judiciário, pois dizem respeito ao mérito administrativo. Entendimento diferente levaria à quebra do princípio da isonomia entre os candidatos, todos sujeitos aos mesmos critérios estabelecidos pela Banca.” (Doc. 2, fl. 107)
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, LV, 37, caput, e 93, IX, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que encontra óbice na Súmula 735 do STF.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Esta Suprema Corte firmou jurisprudência no sentido de que não cabe recurso extraordinário contra decisão que defere ou indefere provimento liminar ou antecipação dos efeitos da tutela, por vedação expressa da Súmula 735 deste Tribunal, de seguinte teor: “Não cabe recurso extraordinário contra acórdão que defere medida liminar”. Nesse sentido, confiram-se, à guisa de exemplo, os seguintes julgados:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INCIDÊNCIA DA SÚMULA 735 DO STF.
+    1. A jurisprudência do STF consolidou o entendimento segundo o qual as decisões que concedem ou denegam antecipação de tutela, medidas cautelares ou provimentos liminares, passíveis de alteração no curso do processo principal, não configuram decisão de última instância a ensejar o cabimento de recurso extraordinário. Súmula 735 do STF.
+    2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC. Inaplicável o art. 85, § 11, do CPC, visto que não houve fixação prévia de honorários advocatícios no presente feito.” (ARE 988.731-AgR, Rel. Min. Edson Fachin, Primeira Turma, DJe de 7/12/2016)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. SÚMULA 735 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO. MULTA APLICADA.
+    I – Em regra é incabível a interposição de recurso extraordinário para combater decisão que concede ou denega pedido de medida cautelar ou de antecipação de tutela, porque esses provimentos judiciais não são definitivos e, assim, não se ajustam a um dos requisitos do art. 102, III, da Constituição.
+    II – Agravo regimental a que se nega provimento, com aplicação de multa (art. 1.021, § 4°, do CPC).” (ARE 987.342-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 23/2/2017)
+    Por fim, observo que o presente agravo foi interposto sob a égide da nova lei processual. Nada obstante, por se tratar de mandado de segurança, não há falar em majoração de honorários advocatícios (Súmula 512 do STF).
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 932, VIII, do CPC/2015 c/c o artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 7 de agosto de 2018.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
