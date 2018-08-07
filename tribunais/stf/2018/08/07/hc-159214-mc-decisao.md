@@ -1,0 +1,17 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – INSUBSISTÊNCIA.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Décima Sexta Vara Criminal – Foro Central Criminal da Barra Funda – da Comarca de São Paulo/SP, ao receber a denúncia no processo nº 0040254-40.2015.8.26.0050, determinou a prisão preventiva do paciente, ocorrida em 15 de maio de 2018, ante a suposta prática da infração versada no artigo 171 (estelionato) do Código Penal. Aludiu aos indícios de autoria, afirmando necessária a custódia para garantir a ordem pública. Consignou o risco de reiteração delitiva, salientando que, solto, o paciente encontraria estímulos para voltar a delinquir. Deixou de acolher pedido de liberdade provisória.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 449.585/SP, inadmitido pela Quinta Turma.
+    O impetrante alega inidônea a decisão que implicou a preventiva, dizendo-a carente de fundamentação. Ressalta tratar-se de paciente primário, com bons antecedentes, residência fixa e ocupação lícita. Aponta a inobservância da presunção da não culpabilidade, do disposto no artigo 93, inciso IX, da Constituição Federal e dos requisitos previstos no 312 do Código de Processo Penal. Sublinha a excepcionalidade da medida constritiva.
+    Requer, no campo precário e efêmero, a revogação da custódia, com a expedição de alvará de soltura. No mérito, busca a confirmação da providência.
+    Em consulta ao sítio do Tribunal de Justiça, realizada no dia 6 de agosto de 2018, verificou-se ter o Juízo determinado a citação em 12 de junho último, não havendo informações sobre o início da instrução processual.
+    A fase é de exame da liminar.
+    2. A análise do ato por meio do qual imposta a preventiva revela haver-se considerado a imputação. Inexiste a prisão automática tendo em conta a infração possivelmente cometida, levando à inversão da ordem do processo-crime, que direciona, presente o princípio da não culpabilidade, a apurar para, selada a culpa, prender, em verdadeira execução da pena. Os indícios de autoria são, por si sós, elementos neutros, insuficientes a respaldarem o argumento alusivo à preservação da ordem pública. Esta fica vinculada à observância da legislação em vigor, devendo a custódia cautelar basear-se no artigo 312 do Código de Processo Penal. Quanto ao risco de reiteração delitiva, há de ser indicado dado concreto, individualizado, apto a demonstrar a indispensabilidade da preventiva. O Juízo partiu da capacidade intuitiva, olvidando que a presunção seria de postura digna, por achar-se o paciente submetido aos holofotes da Justiça. Tem-se a insubsistência das premissas lançadas.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não se encontre recolhido por motivo diverso da prisão preventiva formalizada no processo nº 0040254-40.2015.8.26.0050, da Décima Sexta Vara Criminal – Foro Central Criminal da Barra Funda – da Comarca de São Paulo/SP. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do homem integrado à sociedade.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 7 de agosto de 2018.
+Ministro MARCO AURÉLIO
+Relator
