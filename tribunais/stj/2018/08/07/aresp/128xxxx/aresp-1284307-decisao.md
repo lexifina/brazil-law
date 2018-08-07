@@ -1,0 +1,28 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO MANIFESTADA NA VIGÊNCIA DO NCPC. COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. ATRASO NA ENTREGA DA OBRA. DISCUSSÃO ACERCA DA POSSIBILIDADE DE CUMULAÇÃO DE MULTA MORATÓRIA COM LUCROS CESSANTES. MATÉRIA AFETADA NOS TERMOS DOS ARTS. 1.036 E 1.037 DO NCPC (TEMA 970) PENDENTE DE JULGAMENTO. DETERMINADA A DEVOLUÇÃO DOS AUTOS À CORTE DE ORIGEM.
+DECISÃO
+JULIANO SILVA DE ASSIS CARNEIRO e CRISTINA PINHEIRO COSTA LAGE (JULIANO e CRISTINA) ajuizaram ação de cobrança de multa e indenização por danos materiais contra [NOME] GUARA II EMPREENDIMENTOS IMOBILIÁRIOS S.A. (CONSTRUTORA) em virtude de atraso na entrega de imóvel em construção.
+Em primeira instância os pedidos foram julgados procedentes a fim de condenar a ré a pagar aos autores (1) a quantia de R$ 2.663,07 (dois mil, seiscentos e sessenta e três reais e sete centavos) mensais, a título de lucros cessantes, durante o período compreendido entre 27/2/2013 e 13/6/2013, atualizados monetariamente desde o dia em que respectivamente se fizerem devidos, e acrescidos de juros de mora de 1% (um por cento) ao mês a partir da citação; e, (2) a multa contratual, prevista na cláusula 7.3 do contrato, de 1% do valor do imóvel, por mês de atraso, pelo período de 26/02/2013 (data final já com a prorrogação para entrega do imóvel) até 13/06/2013 (data da entrega do imóvel, cf. fl. 47), com a respectiva incidência de correção monetária dos respectivos meses e de juros de mora desde a citação. As rés foram igualmente condenadas ao pagamento das custas processuais e honorários advocatícios fixados em 10% sobre o valor da condenação (art. 20, § 3º, do CPC/73).
+O Tribunal a quo negou provimento ao apelo das rés, em acórdão a seguir ementado:
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. DIREITO CIVIL. DIREITO PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. IMOBILIÁRIO. PROMESSA DE COMPRA E VENDA. ENTREGA DO IMÓVEL. ATRASO NA ENTREGA. CULPA DA CONSTRUTORA. LUCROS CESSANTES. DEVIDOS. MULTA MORATÓRIA. PACTA SUNT SERVANDA. RECURSO CONHECIDO E NÃO PROVIDO. SENTENÇA MANTIDA.
+1. Aplica-se o Código de Defesa do Consumidor nos casos de compra e venda de imóveis na planta, considerando-se que as partes se enquadram no conceito de consumidor e fornecedor.
+2. Transcorrido o prazo estabelecido no contrato para entrega do imóvel e não tendo sido configurado caso fortuito ou de força maior, necessário entender-se pela inadimplência da construtora.
+3. No caso do atraso não justificado na entrega do imóvel gera a mora para a construtora/incorporadora e consequente dever de ressarcir o comprador em lucros cessantes, referente aos alugueres que o autor deixou de poder aferir por não estar na posse do imóvel.
+4. A multa moratória está prevista no contrato firmado pelas partes, sendo devida pela parte inadimplente, no percentual de 1% sobre o valor atualizado do contrato, inexistindo qualquer irregularidade em sua aplicação tal qual estabelecida, em favor do comprador.
+5. Recurso conhecido e não provido. Sentença mantida (e-STJ, fl. 270/271).
+Os embargos de declaração foram rejeitados (e-STJ, fls. 297/303).
+Irresignada, a CONSTRUTORA interpôs recurso especial, com fundamento no art. 105, III, a, da CF, alegando violação dos arts. 413 e 416 do CC/02.
+Sustentou, em suma, (1) a impossibilidade de cumulação da multa moratória (2%) com o pagamento de lucros cessantes, sob pena de incorrer em bis in idem, pois se trata de penalidades oriundas do mesmo fato gerador; (2) a redução do valor da multa, face ao cumprimento substancial do contrato; (3) a necessidade de sobrestamento do feito em função da afetação da matéria discutida nos autos à sistemática dos recursos repetitivos (Resp 1.498.484/DF - Tema 970).
+Após apresentadas as contrarrazões, o recurso foi inadmitido na origem, ante a incidência da Súmula nº 211 do STJ e 282 do STF (e-STJ, fls. 322/329 e 337/339).
+No agravo em recurso especial, a CONSTRUTORA reafirmou a necessidade de sobrestamento do feito, aduzindo, no mais, as razões lançadas no recurso especial (e-STJ, fls. 340/344).
+Foi apresentada contraminuta (e-STJ, fls. 349/353).
+É o relatório.
+DECIDO.
+É o caso de suspensão do presente feito.
+O recurso especial discute, entre outras questões, a possibilidade ou não de cumulação da indenização por lucros cessantes com a cláusula penal, nos casos de inadimplemento do vendedor em virtude do atraso na entrega de imóvel em construção objeto de contrato ou promessa de compra e venda, matéria afetada pelo Ministro LUIS FELIPE SALOMÃO, sob o rito dos Recursos Representativos de Controvérsia, à Segunda Seção do Superior Tribunal de Justiça nos autos dos Resps nº 1.635.428/SC e 1.498.484/DF (DJe 3/5/2017), vinculados aos Tema nº 970.
+Assim, é imperiosa a devolução dos autos ao Tribunal de origem para observância da sistemática dos recursos repetitivos, consoante determina o art. 256, L, inciso I, do Regimento Interno do Superior Tribunal de Justiça, a saber:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Nessas condições, DETERMINO a devolução dos autos à origem para que o recurso especial subjacente permaneça suspenso até o pronunciamento definitivo do STJ sobre o Tema n. 970, nos termos do art. 1.037, inciso II, do CPC/2015 e, após, observe-se a sistemática prevista nos arts. 1.040 e 1.041 do CPC/2015.
+Publique-se. Intimem-se.
