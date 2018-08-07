@@ -1,0 +1,36 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. MATÉRIA COM REPERCUSSÃO GERAL NO SUPREMO TRIBUNAL FEDERAL - TEMA 247. DEVOLUÇÃO AO TRIBUNAL DE ORIGEM. AGRAVO CONHECIDO PARA SOBRESTAR O RECURSO ESPECIAL NA ORIGEM.
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu o processamento de recurso especial interposto pelo Município de Montauri, em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, cuja ementa assim estabelece:
+APELAÇÃO. DIREITO TRIBUTÁRIO. ISS. BASE DE CÁLCULO. DEDUÇÃO DOS VALORES RELATIVOS AOS MATERIAIS EMPREGADOS EM OBRAS DE CONSTRUÇÃO CIVIL. POSSIBILIDADE.
+A matéria em exame encontra-se sedimentada nos Tribunais Superiores, que firmaram entendimento no sentido "da possibilidade da dedução da base de cálculo do 155 dos materiais empregados na construção civil" (STF, RE 603.497).
+Condenação à repetição limitada às notas fiscais acostadas aos autos, que comprovam o recolhimento do ISS diretamente pela parte autora, no valor integral. Sentença de procedência dos pedidos mantida.
+APELO DESPROVIDO. UNÂNIME.
+Nas razões de recurso especial, fundamentado no artigo 105, III, a, do permissivo constitucional o recorrente alega a violação do artigo 7º da Lei Complementar 116/2003, ao sustentar que o valor do ISS incide sobre o custo integral do serviço, em se tratando de empreitadas, não sendo admitida a subtração de valores correspondentes aos materiais utilizados.
+Contrarrazões ao recurso especial às fls. 169/178 (e-STJ).
+Em decisão interlocutória, o Tribunal de origem inadmitiu o processamento do recurso especial.
+No agravo, o recorrente rechaçou as razões de inadmissão do apelo especial.
+Contraminuta ao agravo em recurso especial às fls. 210/215 (e-STJ).
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A matéria deduzida no presente recurso, qual seja Incidência do ISS sobre materiais empregados na construção civil, é objeto de análise pelo Supremo Tribunal Federal no RE603497, TEMA 247, sob o regime de repercussão geral.
+Diante disso, torna-se impositiva a suspensão dos feitos pendentes que tratem da mesma matéria, nos termos do art. 1.036 do CPC/2015.
+Por sua vez, os arts. 1.040 e 1.041, ambos do CPC/2015, dispõem sobre a atuação do Tribunal de origem após o julgamento do recurso extraordinário submetido ao regime de repercussão geral ou do recurso especial submetido ao regime dos recursos repetitivos.
+De acordo com tais dispositivos, há a previsão da negativa de seguimento dos recursos, da retratação do órgão colegiado para alinhamento das teses ou, ainda, a manutenção do acórdão divergente, com a remessa dos recursos aos Tribunais correspondentes.
+Nesse panorama, cabe ao Ministro Relator, no Superior Tribunal de Justiça, determinar a devolução dos autos ao Tribunal de origem para que, após o julgamento do paradigma, seja reexaminado o acórdão recorrido e realizada a superveniente admissibilidade do recurso especial.
+No mesmo sentido, destacam-se os seguintes julgados:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. IMPOSTO DE RENDA SOBRE JUROS DE MORA. RECONHECIMENTO DE REPERCUSSÃO GERAL QUANTO AO TEMA. SOBRESTAMENTO DO RECURSO ESPECIAL COM DEVOLUÇÃO À CORTE DE ORIGEM PARA EVENTUAL E OPORTUNO JUÍZO DE CONFORMAÇÃO. POSSIBILIDADE.
+1. A análise dos autos denota que a pretensão da recorrente, embora envolva a incidência de imposto de renda sobre depósitos judiciais, diz respeito à discussão relacionada ao que foi decidido nos autos do REsp 1.089.720/RS, no sentido de que, se a verba principal for isenta do imposto de renda, o seu assessório também o seria.
+2. A controvérsia relacionada à incidência do imposto de renda sobre juros de mora teve repercussão geral reconhecida pelo Supremo Tribunal Federal (Tema 808).
+3. É irrelevante o fato de os juros de mora em questão não decorrem das mesmas verbas a que se refere o recurso extraordinário afetado, pois juros de mora são "juros de mora" em qualquer circunstância. Precedente: REsp 1.223.268/PR, de minha relatoria, Segunda Turma, DJe 21/6/2017.
+4. Encontrando-se a matéria com repercussão geral reconhecida, por medida de economia processual e para evitar decisões dissonantes entre a Corte Suprema e esta Corte Superior, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução no recurso extraordinário afetado, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015. Precedentes: AgInt no AREsp 707.487/RJ, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 13/10/2017 AgInt no AgInt no REsp 1.603.061/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 28/6/2017.
+5. Somente depois de realizada essa providência, a qual representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado, em sua totalidade, a este Tribunal Superior, a fim de que possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento da Corte a quo.
+6. Agravo interno a que se nega provimento.
+(AgInt no AgInt no REsp 1473147/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 27/02/2018, DJe 08/03/2018)
+AGRAVO INTERNO EM RECURSO ESPECIAL. TRIBUTÁRIO. PROCESSUAL CIVIL. RECONHECIMENTO DE REPERCUSSÃO GERAL QUANTO AO TEMA VERSADO NO APELO ESPECIAL. SOBRESTAMENTO DESTE ÚLTIMO COM DEVOLUÇÃO À CORTE DE ORIGEM PARA EVENTUAL E OPORTUNO JUÍZO DE CONFORMAÇÃO. POSSIBILIDADE.
+1. Podendo a ulterior decisão do STF, em repercussão geral já reconhecida, afetar o julgamento da matéria veiculada no recurso especial, faz-se conveniente que o STJ, em homenagem aos princípios processuais da economia e da efetividade, determine o sobrestamento do especial e devolva os autos ao Tribunal de origem para que ali, em se fazendo necessário, seja oportunamente realizado o ajuste do acórdão local ao que vier a ser decidido na Excelsa Corte.
+2. A parte agravante não logrou demonstrar, no caso concreto, a ausência de similitude entre o tema trazido em seu especial e o tema pendente de julgamento no STF com repercussão geral, pelo que se impõe a manutenção do sobrestamento ora combatido.
+3. Agravo interno a que se nega provimento.
+(AgInt no AgInt no REsp 1603061/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 08/06/2017, DJe 28/06/2017)
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia, realize um novo juízo de admissibilidade, nos termos do art. 1.040 do CPC/2015.
+Publique-se. Intimem-se.
