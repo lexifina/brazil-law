@@ -1,0 +1,38 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial aos seguintes fundamentos: (i) necessidade de incursão no contexto fático-probatório, medida que encontraria óbice na Súmula 7/STJ; (ii) a decisão está em consonância com a jurisprudência do STJ.
+O recurso especial foi interposto por Sociedade Beneficente Israelita Brasileira Hospital Albert Einstein, com base no art. 105, inc. III, alíneas "a" e "c", da CF/1988, em oposição ao acórdão do TRF da 3ª Região, assim ementado (e-STJ, fls. 397/398):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. IMPOSTOS E CONTRIBUIÇÕES SOCIAIS. IMUNIDADE. ENTIDADE ASSISTENCIAL DE CARÁTER BENEFICENTE. ARTS. 150, VI, "C" E 195, § 7º, DA CF. AUSÊNCIA DE COMPROVAÇÃO DOS REQUISITOS LEGAIS PARA OBTENÇÃO DA IMUNIDADE TRIBUTÁRIA. APELAÇÃO E REMESSA OFICIAL TIDA POR INTERPOSTA PROVIDAS.
+- Trata-se de remessa oficial, e apelação em mandado de segurança, com pedido de liminar, objetivando o desembaraço de mercadoria importada, independentemente do recolhimento da Contribuição ao Programa de Integração Social - PIS e da Contribuição para o Financiamento da Seguridade Social - COFINS.
+- A controvérsia trazida na presente impetração diz respeito ao reconhecimento da condição de entidade assistencial de caráter beneficente da impetrante, a fim de afastar a incidência dos impostos e contribuições incidentes na importação.
+- No tocante aos impostos, o artigo 150, VI, "c" e § 4º, da Constituição Federal traz uma hipótese de imunidade tributária, protegendo o patrimônio de entidades assistenciais sem objetivo de lucro, pondo-os a salvo da tributação por impostos.
+- De outra parte, no que se refere as contribuições sociais, a imunidade das entidades beneficentes de assistência social está prevista no artigo 195, § 7º, da Constituição Federal.
+- Contudo, devem ser observados pela entidade assistencial, cumulativamente, os requisitos previstos no § 4º do artigo 150 da Constituição Federal, bem assim os constantes dos artigos 9º, inciso IV, e 14 do Código Tributário Nacional e do artigo 12 da Lei n" 9.532, de 1997, para que possa fazer jus à imunidade fiscal.
+- Ademais, quanto à natureza de entidade de educação e de assistência social sem objetivo de lucro, há que se observar o disposto no artigo 3º da Lei nº 8.742. de 1993, que dispõe sobre o conceito de entidades de assistência social.
+- O C. Superior Tribunal de Justiça entende que não basta a apresentação do Certificado de Entidade Beneficente de Assistência Social (CEBAS) para a comprovação dos requisitos legais, consoante a dicção da Súmula n. 352, in verbis: "A obtenção ou a renovação do Certificado de Entidade Beneficente de Assistência Social (Cebas) não exime a entidade do cumprimento dos requisitos legais supervenientes."
+- Com efeito, em homenagem ao teor da Súmula 352 do STJ é de rigor exigir, além dos certificados, os demais requisitos legais pai a a obtenção da imunidade tributária, que a impetrante não se desincumbiu de apresentar. Nesse diapasão, ausentes os documentos probatórios, não existem fundamentos jurídicos válidos que possam justificar a obtenção da imunidade fiscal pretendida.
+- Apelação e remessa oficial tida por interposta providas.
+Os embargos de declaração opostos à aludida decisão foram rejeitados.
+Alega a recorrente, nas razões do recurso especial, existência de violação dos arts. 9º e 14 do CTN sob o argumento de que a apresentação do Cebas é suficiente para demonstração do direito à imunidade tributária.
+Afirma, ainda, haver divergência jurisprudencial acerca do tema.
+É o relatório.
+O Tribunal de origem afirmou que a sociedade empresária recorrente não logrou êxito em demonstrar documentalmente o cumprimento dos requisitos necessários ao reconhecimento da imunidade tributária pretendida.
+Confira-se (e-STJ, fls. 393/394):
+Deveras, anote-se que o impetrante trouxe documentação com a petição inicial no sentido de comprovar a obtenção Certificado de Entidade Beneficente de Assistência Social - CNAS que, na época, tinha validade até 31.12.2009, prorrogada em decorrência da apresentação tempestiva do pedido de renovação, nos termos do artigo 24 da Lei n. 12.101/2009 e do artigo 6º da Portaria nº 3.355/2010 do Ministério da Saúde, tendo demonstrado, ainda, em relação ao Certificado de Entidade Beneficente de Assistência Social - CEBAS, com validade até 33.12.2009, que havia deduzido pedido tempestivo de renovação, conforme certidão emitida pelo Ministério do Desenvolvimento Social e Combate à Fome - Conselho Nacional de Assistência Social.
+Com efeito, em homenagem ao teor da Súmula nº 352 do STJ é de rigor exigir, além dos certificados, os demais requisitos legais para a obtenção da imunidade tributária, que o impetrante não se desincumbiu de apresentar.
+Nesse diapasão, ausentes os documentos probatórios, não existem fundamentos jurídicos válidos que possam justificar a obtenção da imunidade fiscal pretendida.
+Para afastar o entendimento a que chegou a Corte a quo, de modo a albergar as peculiaridades do caso e verificar se os requisitos da imunidade tributária se encontram presentes, como sustentado neste apelo, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em recurso especial por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+A propósito:
+PROCESSUAL E TRIBUTÁRIO. IMUNIDADE DA ENTIDADE BENEFICENTE. PREENCHIMENTO DOS REQUISITOS. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Consignado pelo acórdão recorrido que houve comprovação dos requisitos necessários ao deferimento da imunidade tributária, incabível alterar a conclusão do julgado em razão do óbice da Súmula 7 do STJ.
+2. Recurso Especial não conhecido.
+(REsp 1.724.782/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 25/5/2018)
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. IMUNIDADE TRIBUTÁRIA. REQUISITOS NECESSÁRIOS PARA CONCESSÃO DO BENEFÍCIO. ACÓRDÃO EMBASADO EM PREMISSAS FÁTICAS. REVISÃO. SÚMULA N. 7/STJ. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se o Código de Processo Civil de 2015 para o presente Agravo Interno, embora o Recurso Especial estivesse sujeito ao Código de Processo Civil de 1973.
+II - In casu, rever o posicionamento do tribunal de origem de que a ora Agravada, entidade privada sem fins lucrativos, preencheu os requisitos legalmente exigidos para a outorga da imunidade tributária demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no REsp 1.698.982/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 5/12/2017)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
