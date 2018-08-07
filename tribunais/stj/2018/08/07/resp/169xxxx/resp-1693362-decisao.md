@@ -1,0 +1,29 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. MILITAR. REVISÃO DE REMUNERAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF. PRESCRIÇÃO DE FUNDO DE DIREITO. OCORRÊNCIA. PRECEDENTES. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRF da 5ª Região, assim ementado (fl. 143):
+PROCESSO CIVIL. MILITAR. REVISÃO DE REMUNERAÇÃO. PRESCRIÇÃO DO FUNDO DE DIREITO.
+1. Ação de revisão de remuneração, alegando o autor ter sido prejudicado nos anos de 2004 e 2008, motivo pelo qual deseja o pagamento da diferença de soldo neste período.
+2. Nos termos do artigo 1º do Decreto n.º 20.910/32, prescrevem em cinco anos da data do ato ou fato originário do direito, as dívidas passivas da União, dos Estados e dos Municípios, bem assim todo e qualquer direito ou ação contra a Fazenda Federal, Estadual ou Municipal, seja qual for a sua natureza.
+3. Considerando que se passaram bem mais de cinco anos após o período a que se refere a suposta diferença, a prescrição atinge o próprio fundo de direito.
+4. Apelação não provida.
+O recorrente alega violação: a) do 1º do Decreto 20.910/1932, ao argumento de que descabida a incidência da prescrição de fundo de direito, pois pretende a revisão de sua remuneração, com o pagamento das diferenças vencidas compreendidas no quinquenio que antecedeu o ajuizamento da ação, nos termos da Súmula 85/STJ (fl. 190); b) dos arts. 10, 20, §1º do art. 240 do CPC/2015, no ponto em que fixa a violação do direito em Ação Declaratória de Condenação em obrigação de indenizar em caso de cometimento de atos violado c/c art. 3º e inc. IV da Portaria nº 487- AGU, de 27 JUL 2016, publicado no DOU nº 144, Seção 1, de 28 JUL 2016.
+Aponta, ainda, divergência jurisprudencial acerca do tema.
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 239.
+É o relatório. Passo a decidir.
+No que diz respeito aos arts. arts. 10, 20, §1º do art. 240 do CPC/2015, no ponto em que fixa a violação do direito em Ação Declaratória de Condenação em obrigação de indenizar em caso de cometimento de atos violado c/c art. 3º e inc. IV da Portaria nº 487- AGU, de 27 JUL 2016, publicado no DOU nº 144, Seção 1, de 28 JUL 2016, verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Frise-se, por oportuno, que sequer foram opostos embargos de declaração na origem com o intuito de sanar eventual vício relativo à aplicação dos aludidos dispositivos legais.
+Quanto a questão de fundo e a incidência da prescrição de fundo de direito, a conclusão alcançada pela Corte de origem está em sintonia com o entendimento firmado por este e.STJ, segundo o qual "quando se busca a revisão dos atos de promoção no curso da carreira de militar, com o objetivo de retificar as datas das promoções e consequentes efeitos financeiros, opera-se a prescrição do fundo de direito, sendo inaplicável a Súmula n. 85 desta Corte" (EDcl no AgRg nos EDcl no AREsp 255.075/SC, Rel. Min. Regina Helena Costa, 1ª Turma, DJe 17/03/2017).
+Ainda no mesmo sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR MILITAR. REFORMA. PROMOÇÃO. PRESCRIÇÃO DO FUNDO DE DIREITO. 1. Os recursos interpostos com fulcro no CPC/1973 sujeitam-se aos requisitos de admissibilidade nele previstos, conforme diretriz contida no Enunciado Administrativo n. 2 do Plenário do STJ.
+2. A jurisprudência desta Corte consolidou-se no sentido de que nas ações em que o militar postula sua promoção ocorre a prescrição do próprio fundo de direito após o transcurso de mais de cinco anos entre o ato de concessão e o ajuizamento da ação. Inaplicabilidade da teoria do trato sucessivo. Precedentes.
+3. Agravo regimental não provido. (AgRg no AREsp 490.656/CE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 08/08/2017, DJe 17/08/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. MILITAR. PROMOÇÃO EM RESSARCIMENTO DE PRETERIÇÃO. PRAZO PRESCRICIONAL. PRESCRIÇÃO DO FUNDO DE DIREITO. TERMO INICIAL. REEXAME DE PROVA. SÚMULA 7 DO STJ.VIOLAÇÃO AO ART. 535 DO CPC.CONTRADIÇÃO. NÃO OCORRÊNCIA
+1. Verifica-se não ter ocorrido ofensa ao art. 535 do Código de Processo Civil, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+2. A alteração das conclusões adotadas pela Corte de origem, acerca do termo inicial da prescrição, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. "A jurisprudência desta Corte firmou-se no sentido de que ocorre a prescrição do fundo de direito quando ultrapassados mais de 5 anos entre o ajuizamento da ação e o ato administrativo questionado pelo demandante, nos termos do art. 1.º do Decreto 20.910/32 Precedentes: Edcl nos EREsp 1.343.302/SC, Rel Ministro Humberto Martins, Primeira Seção, DJe 6/11/2013; EDcl nos EAREsp 305.543/PR, Rel. Ministro Og Fernandes, Primeira Seção, DJe 5/12/2013. " (AgRg no AREsp 359.853/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 10/06/2014, DJe 20/06/2014)
+5. Agravo interno a que se nega provimento. (AgInt no AREsp 1008852/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 21/02/2017, DJe 06/03/2017)
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Defiro ao recorrente a Gratuidade de Justiça
+Publique-se. Intimem-se.
