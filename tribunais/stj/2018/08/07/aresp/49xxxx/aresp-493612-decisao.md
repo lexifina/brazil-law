@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] e OUTROS, pretendendo a admissão de recurso especial que desafia acórdão assim ementado (e-STJ fl. 242):
+AGRAVO EM AGRAVO DE INSTRUMENTO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. AÇÃO COLETIVA. LITISCONSÓRCIO ATIVO FACULTATIVO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS.
+Não obstante o direito do procurador em executar a verba honorária, que lhe pertence (art. 23 do Estatuto da OAB/RS), de forma autônoma, não pode recebê-la de maneira fracionada na execução de cada filiado substituído, sob pena de afronta ao disposto no § 8º do art. 100 da Constituição Federal.
+Foram rejeitados os aclaratórios (e-STJ fls. 257/263).
+No apelo nobre (e-STJ fls. 270/300), os recorrentes apontaram divergência jurisprudencial e violação dos arts. 23 da Lei n. 8.906/1994, 95, 97, 98, 99 e 100, do CDC, 92 do Código Civil e 458, II, e 535, II, do CPC/1973. Sustentaram, em resumo, "o cabimento da execução dos honorários advocatícios juntamente com os créditos de cada beneficiário da ação coletiva, podendo ser proposta inclusive em nome da parte".
+Requerem o provimento do recurso para que seja determinado "o prosseguimento da execução dos honorários de sucumbência da ação coletiva em conjunto com os créditos dos exequentes, observando-se, para efeito de classificação como precatório ou RPV, o valor correspondente a soma de cada crédito individual com os honorários sobre ele incidentes".
+Contrarrazões foram apresentadas às e-STJ fls. 364/368.
+O Tribunal de origem obstou o recurso especial por entender que não há ocorrência da alegada infringência aos arts. 458 e 535 do CPC/1973 e que incidem as Súmulas 83 e 211 do STJ (e-STJ fls. 377/387), não concordando os agravantes com essa fundamentação (e-STJ fls. 426/463).
+Contraminuta foram apresentadas às e-STJ fls. 467/474.
+Passo a decidir.
+Inicialmente, destaco que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, sessão de 09/03/2016).
+Considerado isso, afasto, desde logo, as alegadas violações dos arts. 485 e 535 do CPC/1973, tendo em vista a clareza da fundamentação de natureza constitucional adotada pelo acórdão recorrido, dispensando, assim, o pronunciamento acerca da aplicação dos dispositivos de lei federal suscitados nos embargos de declaração aviados na origem.
+Com efeito, o Tribunal a quo decidiu pela impossibilidade de a verba honorária fixada na sentença coletiva ser executada individualmente na proporção do sucesso de cada beneficiário, por entender que a verba de sucumbência relativa ao processo coletivo é una e indivisível e, por isso, não comporta desdobramento, sob pena de configurar indevido fracionamento tendente a burlar a sistemática do precatório. É o que se depreende do que foi assim consignado pelo voto condutor (e-STJ fl. 246):
+Nesse passo, não obstante o direito do procurador em executar a verba honorária, que lhe pertence (art. 23 do Estatuto da OAB/RS), de forma autônoma, não pode recebê-la de maneira fracionada na execução de cada filiado substituído, sob pena de afronta ao disposto no § 8º do art. 100 da Constituição Federal.
+Assim, o crédito de verba honorária deverá ser executado de forma integral, em demanda proposta pelo próprio procurador, não sendo permitido que seja fracionado proporcionalmente nas execuções movidas por cada litisconsorte.
+Nesse sentido, o entendimento deste colenda Câmara ao afirmar que o crédito referente aos honorários advocatícios em litisconsórcio ativo é uno, devendo ser considerado em sua totalidade, sendo vedada a execução individual da parcela proporcional com cada litisconsorte, sob pena de fracionamento.
+Do que se observa, o acórdão recorrido não negou o direito autônomo do advogado à percepção da verba honorária, a ensejar a alegada violação dos arts. 20, 23 e 24 da Lei n. 8.906/1994, mas apenas decidiu que a cobrança dos honorários advocatícios estabelecidos na sentença coletiva deve ser feita em procedimento único, não podendo ser exigida de maneira fragmentada nas diversas execuções individuais, pois tal expediente configuraria o fracionamento vedado pelo art. 100, § 8º, da Constituição Federal.
+Tem-se, portanto, que o fundamento condutor do acórdão recorrido é mesmo eminentemente de índole constitucional, insuscetível, portanto, de revisão pela via do recurso especial.
+Nesse mesmo sentido, vide:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COLETIVA. HONORÁRIOS. FRACIONAMENTO. ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO EXCLUSIVAMENTE CONSTITUCIONAL. EXAME. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. Tendo o Tribunal de origem decidido a controvérsia com base em fundamento exclusivamente constitucional, mostra-se incabível sua impugnação por meio de recurso especial, sob pena de invasão da competência reservada ao Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição da República.
+2. Agravo regimental improvido.
+(AgRg no AREsp 414.486/RS, Relator Ministro Arnaldo Esteves Lima, Primeira Turma, DJ 30/04/2012).
+PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. AÇÃO COLETIVA. LITISCONSÓRCIO. EXECUÇÃO DOS HONORÁRIOS SUCUMBENCIAIS. FRACIONAMENTO DA VERBA. FUNDAMENTO CONSTITUCIONAL.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+2. A Corte local consignou ser "Vedada a cobrança de parcela de honorários calculada sobre o crédito de cada litisconsorte/filiado substituído pela entidade de classe, pois configura indevido fracionamento, vedado pelo art. 100, § 8o da CF, na medida em que a verba honorária fixada na ação é única".
+3. O acórdão impugnado possui como fundamento matéria eminentemente constitucional, porquanto o deslinde da controvérsia deu-se à luz do art. 100, § 8º, da Constituição da República, de modo que a via especial não se presta a modificar os termos do aresto a quo, sob pena de invadir a competência exclusiva da Suprema Corte.
+4. Agravo Interno não provido.
+(AgInt no AREsp 933.894/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 25/10/2016).
+Ante o exposto, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO (art. 253, parágrafo único, II, "a" e "b", do RISTJ).
+Publique-se. Intimem-se.
