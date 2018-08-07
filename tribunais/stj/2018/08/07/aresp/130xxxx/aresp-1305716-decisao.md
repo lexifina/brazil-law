@@ -1,0 +1,16 @@
+DECISÃO
+Vistos, etc.
+Trata-se de AGRAVO EM RECURSO ESPECIAL interposto contra decisão que inadmitiu recurso especial.
+É o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Cumprido o despacho de fls. 414, prossigo na análise dos demais requisitos de admissibilidade.
+Mediante análise dos autos verifica-se que foi percebido pelo tribunal de origem que havia irregularidade na representação do recurso especial (fl. 306), razão pela qual houve a intimação da parte Recorrente para que o referido vício fosse sanado.
+Apesar disso, mesmo tendo sido regularmente intimada para efetuar o saneamento, a parte não regularizou.
+Veja-se que na petição que pretensamente pretendia regularizar o feito (fl. 332/333), conforme consignado pelo tribunal de origem (fls. 342 e 306), a parte trouxe aos autos um substabelecimento com a assinatura digitalizada da Dra. [NOME].
+Assim, o substabelecimento juntado aos autos, que outorgaria poderes ao referido causídico, para representar a parte, não tem validade, uma vez que a rubrica nele constante trata-se apenas de uma assinatura digitalizada ou escaneada e não de uma assinatura digital.
+Conforme jurisprudência desta Corte, a "assinatura digitalizada - ou escaneada -, por se tratar de mera inserção de imagem em documento, não se confunde com a assinatura digital baseada em certificado digital emitido por Autoridade Certificadora credenciada, prevista no art. 1º, § 2º, III, a, da Lei n. 11.419/2006" (AgRg no AREsp 471.037/MG, 4ª Turma, Rel. Min. Luis Felipe Salomão, DJe de 3/6/2014).
+Ademais, "a reprodução de uma assinatura, por meio do escaneamento, sem qualquer regulamentação, é arriscada na medida em que pode ser feita por qualquer pessoa que tenha acesso ao documento original e inserida em outros documentos. Não há garantia alguma de autenticidade, portanto. A aplicação do princípio da instrumentalidade das formas, invocado pelas recorrentes, deve encontrar limites exatamente no princípio da segurança jurídica. Não se trata de privilegiar a forma pela forma, mas de conferir aos jurisdicionados, usuários das modernas ferramentas eletrônicas, o mínimo de critérios para garantir a autenticidade e integridade de sua identificação no momento da interposição de um recurso ou de apresentação de outra peça processual" (REsp 1.442.887/BA, 3ª Turma, Rel. Min. Nancy Andrighi, DJe de 14/5/2014).
+Dessa forma, a assinatura do recurso não foi devida e oportunamente regularizada.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte Recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, NÃO CONHEÇO do recurso.
+Publique-se. Intimem-se.
