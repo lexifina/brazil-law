@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por LETICIA DE FREITAS CARDOSO em face da decisão de fls. 566/567, que não conheceu do recurso.
+Em suas razões, a parte Embargante alega que:
+Ciente de que teve os benefícios da justiça gratuita indeferido, a embargante, ao recorrer da decisão originária do TJMG pagou as custas recursais no valor de R$ 280,92 (duzentos e oitenta reais e noventa e dois centavos) (e-STJ Fl.490 - 491).
+(..)
+Dessa forma, a embargante manifestou tempestivamente em 04/05/2018 explicando que o preparo (custas recursais) havia sido recolhido e devidamente comprovado no Recurso, conforme comprovante de manifestação em anexo. Assim em 17/05/2018 o TJMG remeteu a petição de comprovação de preparo ao STJ (conforme comprovante em anexo).
+Porém, o STJ marcou decurso de prazo da embargante em 09/05/2018 em fl. 563, mesmo que a mesma tenha manifestado dentro do prazo, e tenha sido recebida a petição pelo STJ.
+(..)
+Como demonstrado, o preparo foi devidamente pago pela embargante.
+Não obstante, caso entendesse como custas pagas de forma insuficiente, a recorrente deveria ser intimada para suprir a insuficiência no prazo de 5 (cinco) dias de forma simples nos termos do art. 1.007, § 2º do CPC, já que a recorrente não deixou de recolher custas, já que comprovou por 2 (duas) vezes que o preparo foi recolhido (e-STJ Fl.490 - 491)" (fls. 570/572).
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer que a petição de recurso em mandado de segurança foi protocolada, na origem, sem a guia de recolhimento e o respectivo comprovante de pagamento das custas devidas ao STJ.
+Em razão dessa irregularidade, nos termos do § 4.º, art. 1.007, do Código de Processo Civil, foi determinada a intimação da parte Recorrente para realizar o recolhimento em dobro do preparo, no prazo de 5 (cinco) dias, sob pena de não conhecimento do recurso (fl. 559).
+Impende observar, neste primeiro ponto, que não assiste razão ao ora Embargante no que tange à argumentação de que deveria ter sido aberto prazo para regularização com base no do § 2.º do art. 1.007, uma vez que já havia sido feito algum recolhimento nos autos (fls. 490/492).
+Com efeito, a complementação da verba do preparo deve ser entendida por meio de uma concepção ampla, de acordo com o ideal do acesso à Justiça, desde que recolhida alguma das verbas quando devida (custas locais, custas ao STJ, ou porte de remessa e retorno dos autos) e não recolhidas as demais.
+No presente caso, porém, nenhuma verba foi recolhida corretamente, não dando ensejo à intimação com base no do § 2.º do art. 1.007, do Código de Processo Civil, mas sim, como corretamente feito, com baldrame no § 4.º, art. 1.007, do mesmo Código.
+Veja-se que a verba trazida aos autos quando da interposição do recurso em mandado de segurança não foi devidamente comprovada, pois verifica-se que não foi colacionado aos autos o comprovante de pagamento do preparo recursal. Veja-se que o documento de fls. (491/492) não se trata de efetivo comprovante de pagamento, apto a comprovar a quitação da obrigação da parte Recorrente, uma vez que não contém a sequência numérica do código de barras.
+Essa exigência tem respaldo na necessidade de constar o número do código de barras e o do processo, viabilizando a comparação com aqueles lançados na GRU apresentada, para que não haja dúvida acerca da validade do documento e do seu efetivo recolhimento.
+Registre-se que este Superior Tribunal de Justiça consolidou o entendimento de que "a falta de correspondência entre o número do código de barras da guia de recolhimento e o comprovante bancário demonstra irregularidade no preparo do recurso especial, tornando-o, portanto, deserto" (EDcl no AREsp 181.119/RS, 4ª Turma, Rel. Min. Maria Isabel Gallotti, DJe de 25/2/2013).
+Nesse sentido, ainda: AgRg no AREsp 222.834/RN, 1.ª Turma, Rel. Min. Ari Pargendler, DJe de 16/4/2013; AgRg no AREsp 202.005/DF, 4.ª Turma, Rel. Min. Antonio Carlos Ferreira, DJe de 4/3/2013, e; PET no AREsp 157.706/SC, 4.ª Turma, Rel. Min. Luis Felipe Salomão, DJe de 17/8/2012.
+Assim, como não houve a comprovação do recolhimento de nenhuma verba corretamente, a intimação de fls. 559 foi feita corretamente.
+Não fosse isso, a parte alega que protocolizou a petição de regularização no tribunal de origem. Dois pontos precisam ser considerados: não há notícia dessa petição nos autos, bem como, o protocolo deveria ter sido realizado nesta Corte, não na origem.
+Mediante análise dos autos, não se verifica o alegado pela parte, ou seja, não há nos autos a referida petição de regularização.
+Por outro lado, o protocolo da petição de regularização, conforme alegado pela parte ora Embargante, foi efetuado no tribunal de origem, no entanto, o recurso tramita no STJ. Veja-se que a tempestividade de recurso ou manifestação apresentado contra decisão exarada por esta Corte Superior é aferida pelo registro no protocolo da Secretaria deste Tribunal, sendo certo que a protocolização do recurso no tribunal de origem, ainda que no prazo legal, não possui o condão de afastar sua intempestividade.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO. VIA ORIGINAL. INTEMPESTIVIDADE. PROTOCOLO. APRESENTAÇÃO EM TRIBUNAL DIVERSO. IMPOSSIBILIDADE.
+1. A tempestividade de recurso interposto com o objetivo de impugnar decisão proferida pelo STJ é aferida com base na data da entrada da petição no protocolo da secretaria dessa Corte, não se admitindo o protocolo, no prazo previsto, em outro Tribunal.
+2. Agravo regimental não conhecido."
+(AgRg nos EAg 1239908/SP, Corte Especial, Rel. Min. João Otávio de Noronha, DJe de 12/8/2013).
+Assim, mesmo havendo abertura de prazo para regularização, a parte não sanou o vício, o que culmina com o não conhecimento do recurso, por causa da deserção, conforme corretamente feito na decisão de fls. 566/567.
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp 1315507/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/08/2014, DJe 28/08/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, REJEITO os embargos de declaração e advirto a parte Embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2.º, do Código de Processo Civil).
+Publique-se. Intimem-se.
