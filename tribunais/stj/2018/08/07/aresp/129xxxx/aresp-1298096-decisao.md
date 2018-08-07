@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LEONALDO ARAUJO DA SILVA, contra decisão proferida pela Presidência do Tribunal de Justiça do Estado da Paraíba, que não admitiu seu apelo nobre.
+Consta dos autos que o ora recorrente fora condenado à pena de 25 (vinte e cinco) anos de reclusão, em regime fechado, pela prática de diversas infrações penais.
+Alegando primariedade em relação à condenação imposta pelo delito de homicídio qualificado, a defesa pleiteou a retificação do cálculo de pena para fins de constar a exigência da fração de 2/5 (dois quintos) para futura concessão de progressão de regime.
+Analisando os argumentos defensivos, o magistrado singular indeferiu o pedido, determinando a incidência de 3/5 (três quintos) para fins de contagem para concessão de progressão de pena, considerando o Juízo Executório que a reincidência do apenado deve incidir em toda pena unificada.
+Irresignado, o recorrente interpôs agravo em execução, o qual restou desprovido pelo Tribunal de origem.
+Inconformada, a defesa interpôs recurso especial, com fulcro na alínea "a" do permissivo constitucional, sustentando violação ao artigo 63 do Código Penal sob o argumento de que, à época da condenação pelo delito hediondo, o recorrente não ostentava a condição de reincidente, devendo ser exigida a fração de 2/5 (dois quintos) para futura concessão de progressão de regime.
+Ao ser analisada a admissibilidade da insurgência, o Tribunal a quo reconheceu estar impedida a análise do mérito recursal, em virtude da questão debatida esbarrar no óbice previsto na Súmula 7/STJ.
+Diante desta decisão, a defesa interpõe o presente agravo, no qual sustenta que o óbice indicado na decisão objurgada não incidiria ao caso em tela, ante o desnecessário reexame de elementos fático-probatórios para correção da violação apontada no recurso especial.
+Afirma que a matéria debatida no apelo nobre é estritamente de direito.
+Assevera que a questão defendida no recurso especial já foi devidamente analisada em julgamentos proferidos em outros recursos excepcionais.
+ Desse modo, requer o provimento do agravo para que seja admitido o recurso especial interposto.
+O Ministério Público Federal, na condição de custos legis, opinou pelo desprovimento do recurso (fls. 173/182).
+É o relatório.
+No apelo nobre, interposto com base na alínea "a" do permissivo constitucional, alega o recorrente violação ao artigo 63 do CP, sustentando que a condição de reincidente deve ser avaliada de maneira separada para as diferentes condenações impostas.
+Ocorre que, a insurgência foi inadmitida por entender a Corte de origem que a análise da tese defendida no apelo nobre pelo recorrente esbarraria no teor da Súmula 7/STJ, o qual impede o exame de elementos fático-probatórios.
+Feita a delimitação fática supramencionada, constata-se não merecer acolhida a insurgência.
+Acerca da tese referente à contagem diferenciada do lapso temporal exigido para a concessão de progressão de regime, esta Corte Superior possui o entendimento de que a "condição de reincidente, uma vez adquirida pelo sentenciado, estende-se sobre a totalidade das penas somadas, não se justificando a consideração isolada de cada condenação e tampouco a aplicação de percentuais diferentes para cada uma das reprimendas (precedentes)" (HC 307.889/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 01/09/2015, DJe 10/09/2015).
+ Nesse sentido, confiram-se os seguintes precedentes:
+PENAL E PROCESSO PENAL. HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO. PLEITO DE RETIFICAÇÃO DA GUIA DE EXECUÇÃO QUANTO AO REQUISITO OBJETIVO PARA FINS DE LIVRAMENTO CONDICIONAL. PLEITO DE APLICAÇÃO DA FRAÇÃO DE 1/3. VISTA AO MP. PEDIDO INDEFERIDO APÓS PARECER MINISTERIAL CONTRÁRIO. TESE DE CERCEAMENTO DE DEFESA ANTE A NÃO CONCESSÃO DE VISTA À DEFESA APÓS O PARECER. NÃO OCORRÊNCIA. DESNECESSIDADE. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. PLURALIDADE DE CONDENAÇÕES. UNIFICAÇÃO DAS PENAS. CÁLCULO DO BENEFÍCIO SOBRE O MONTANTE OBTIDO. CONDIÇÃO DE REINCIDENTE APLICÁVEL A TODAS AS CONDENAÇÕES A PARTIR DO SEU RECONHECIMENTO. HC NÃO CONHECIDO.
+1. Ressalvada pessoal compreensão diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+2. O § 1º do art. 112 da Lei de Execuções Penais prevê que a decisão acerca da progressão de regime será sempre motivada e precedida de manifestação do Ministério Público e do defensor, consoante previsão expressa do § 2º do mesmo dispositivo, devendo ser adotado na concessão de livramento condicional, indulto e comutação de penas.
+3. Em se tratando de requerimento formulado pelo apenado, o contraditório se instala com a notificação do órgão ministerial para apresentar manifestação, sendo desnecessária nova vista a defesa.
+4. É firme a orientação do STJ no sentido de que, havendo pluralidade de condenações, as penas devem ser unificadas, realizando-se o cálculo do livramento condicional sobre o montante obtido, nos termos do art. 84 do CP.
+5. Reconhecida a reincidência, passa o apenado a ostentar a condição de reincidente, gerando efeitos, de imediato, no cálculo dos futuros benefícios da execução criminal, inclusive quanto à incidência da fração de 1/2 para a concessão do livramento condicional, não havendo falar em aplicação concomitante do patamar de 1/3 para a execução de pena aplicada ao tempo em que era primário e de 1/2 para as demais execuções. Precedentes.
+6. Habeas corpus não conhecido.
+(HC 306.921/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 14/02/2017, DJe 23/02/2017)
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO CRIMINAL. LIVRAMENTO CONDICIONAL. CÁLCULO DO TEMPO NECESSÁRIO AO BENEFÍCIO. SOMATÓRIO DAS PENAS. ART. 84 DO CP. DECISÃO MONOCRÁTICA CONFIRMADA. RECURSO IMPROVIDO.
+1. É assente neste Tribunal o entendimento de que havendo pluralidade de condenações deve se proceder a soma das penas, realizando-se o cálculo do requisito objetivo exigido à concessão do livramento condicional sobre o montante obtido (art. 84 do Código Penal).
+2. Agravo Regimental improvido.
+(AgRg no RHC 43.743/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 06/11/2014, DJe 14/11/2014)
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. EXECUÇÃO DA PENA. LIVRAMENTO CONDICIONAL. CÁLCULO DO TEMPO NECESSÁRIO AO BENEFÍCIO. INCIDENTE SOBRE O MONTANTE OBTIDO PELA REUNIÃO DAS EXECUÇÕES. ART. 84, DO CP. REINCIDÊNCIA EM CRIME DOLOSO. LAPSO DE 1/2 (METADE). EMBARGOS ACOLHIDOS, SEM EFEITOS MODIFICATIVOS.
+1. A presença de omissão no julgado, autoriza, em sede de embargos de declaração, a respectiva corrigenda.
+2. Esta Corte possui orientação no sentido de que ao sentenciado "reincidente em crime doloso, deve ser adotado o lapso preconizado no art. 83, II, do Código Penal, impondo-se o transcurso do patamar de 1/2 (um meio) da sanção para a obtenção da liberdade clausulada, não havendo de se cogitar na aplicação concomitante do patamar de 1/3 (um terço) para a execução de pena aplicada ao tempo em que o réu ostentava a primariedade e de 1/2 (um meio) para as demais execuções" (HC nº 95.505/RS, Rel. Ministro JORGE MUSSI, DJe 1º.2.10).
+3. Embargos declaratórios acolhidos, sem efeitos modificativos.
+(EDcl no HC 267.328/MG, Rel. Ministro MOURA RIBEIRO, QUINTA TURMA, julgado em 03/06/2014, DJe 06/06/2014)
+In casu, tendo o recorrente 4 (quatro) condenações em seu histórico criminal, o quantum estabelecido em lei para o deferimento da progressão de regime deve considerar o somatório de todas as sanções penais aplicadas ao apenado, não havendo se falar em fração diferenciada para o delito anterior à constatação da reincidência.
+ Nesse sentido, constata-se que a pretensão da parte insurgente esbarra no óbice previsto no Enunciado da Súmula n.º 83/STJ, pois a decisão impugnada por meio do recurso especial encontra-se em sintonia com a jurisprudência vigente nesta Corte Superior.
+Por tais razões, afigurando-se inadmissível o apelo nobre, conhece-se do agravo para não conhecer o recurso especial, nos termos do artigo 34, VII, combinado com o artigo 253, parágrafo único, inciso II, alínea "a", ambos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.
+Intimem-se.
