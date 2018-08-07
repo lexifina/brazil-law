@@ -1,0 +1,13 @@
+DECISÃO
+[NOME] opõe embargos de declaração em face de decisão que deu provimento ao recurso especial para reconhecer a tipicidade da conduta do crime de contrabando e afastar a aplicação do princípio da insignificância, determinando, assim, o retorno dos autos para o prosseguimento da ação penal.
+Sustenta o embargante que o recurso especial não merecia sequer ser conhecido, tendo em vista haver incongruência entre o signatário do recurso e aquele que o protocolou, servidora do órgão que sequer tem capacidade postulatória. Ressalta que a interposição de recurso é função indelegável do membro da Procuradoria da República, como também o é, o protocolo deste mesmo recurso; a conclusão lógica desse raciocínio, é a de que, irrefutavelmente, não pode a atividade ministerial ser "terceirizada". Isto porque, tanto aquela fase (elaboração do recurso) como esta (protocolo do recurso), são atividades do Estado, do que decorre a indelegabilidade dos serviços (fl. 191).
+Requer, assim, que seja esclarecida a omissão ou contradição apontada, haja vista a inexistência de recurso da acusação.
+É o relatório.
+Nos termos do art. 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando houver, no acórdão, ambiguidade, obscuridade, contradição ou omissão.
+Na hipótese, não há falar em omissão na decisão embargada, pois a matéria foi decidida nos limites do recurso interposto, com a devida e clara fundamentação, sufragando-se o entendimento assente nesta Corte de que a internação de arma de pressão, mercadoria de proibição relativa, sem a prévia autorização ou licença da autoridade administrativa, configura o delito de contrabando, por tutelar não apenas interesse econômico, mas também a segurança e a incolumidade pública, afastando a incidência do princípio da insignificância.
+Tampouco se verifica a alegada contradição. Observe-se que a contradição que autoriza os embargos de declaração é aquela ínsita ao acórdão, ou seja, verificada entre a sua fundamentação e a conclusão do mesmo, e não aquela que possa existir entre o julgado e texto de lei ou com a decisão de outros Tribunais.
+Em realidade, o embargante traz a tona matéria de admissibilidade do recurso especial, sobre a qual não se manifestou nas contrarrazões do recurso, como lhe competia, o que a torna preclusa.
+Ademais, ainda que fossem superados tais óbices, observa-se que a petição de recurso especial está assinada digitalmente pelo Procurador Regional da República, [NOME], fls. 100/117, tendo sido enviada ao Tribunal por servidora do Ministério Público Federal, fl. 99, o que não compromete a validade do documento, afastando, assim, a incidência da Súmula 115/STJ.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
