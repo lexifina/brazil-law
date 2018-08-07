@@ -1,0 +1,32 @@
+EMENTA
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial do Instituto Nacional do Seguro Social, fundado na alínea "a" do permissivo constitucional e interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+ADMINISTRATIVO. CUMPRIMENTO DE SENTENÇA. GRATIFICAÇÃO DE DESEMPENHO. GDAP. PRESTAÇÕES VENCIDAS. INCIDÊNCIA DE JUROS DE MORA E CORREÇÃO MONETÁRIA. CABIMENTO.
+1. Ainda que nos autos do mandado de segurança que concedeu a inclusão das diferenças vencimentais pleitadas em folha de pagamento, tenha sido afastada a incidência de juros de mora e correção monetária, a determinação de implantação das diferenças vencimentais não foi cumprida imediatamente, o que acabou por gerar a existência de prestações vencidas.
+2. Assim, conclui-se que a situação posta na presente ação de cobrança das parcelas vencidas difere do momento processual em que restou indeferido o pedido de incidência de juros e correção monetária. Ademais, a não atualização monetária das parcelas em atraso implicaria em enriquecimento sem causa por parte da administração pública, que deixou de cumprir imediatamente a determinação judicial.
+Não foram opostos embargos de declaração.
+No recurso especial, o recorrente alega violação do art. 508 do CPC, aduzindo desrespeito à coisa julgada. Sustenta a autarquia que a sentença do processo de conhecimento excluiu expressamente a incidência de juros e correção monetária.
+Houve contrarrazões (e-STJ fls. 69/75).
+Sobreveio juízo negativo de admissibilidade pela incidência das Súmulas n. 83 e 211 do STJ e 282 e 356 do STF.
+Insurge-se a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial possui condições de admissão.
+Houve contraminuta pela parte agravada (e-STJ fls. 99/101).
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A agravante deixou de impugnar os fundamentos adotados na decisão de inadmissibilidade.
+Observo que, no que diz respeito à impugnação da Súmula n. 83/STJ, a parte agravante limitou-se a alegar que o Tribunal de Origem não pode adentrar no mérito recursal. No entanto, é entendimento consolidado no âmbito do STJ que não há que se falar em usurpação da competência quando, em sede de juízo de admissibilidade, a Instância a quo adentra no mérito, por constituir atribuição do Tribunal examinar os pressupostos específicos e constitucionais relacionados ao mérito da controvérsia. Cito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.  ..  2. Nos termos da Súmula 123/STJ, é possível ao Tribunal de origem, em exame de admissibilidade, analisar o mérito do recurso especial sem que isso configure usurpação de competência. Precedentes. 3. Agravo regimental a que se nega provimento. (AgRg no AREsp 229.193/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 21/02/2013, DJe 26/02/2013)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ. EXAME DE MÉRITO DO RECURSO ESPECIAL PELA CORTE DE ORIGEM. POSSIBILIDADE.  ..  2. A jurisprudência desta Corte pacificou o entendimento segundo o qual a emissão de juízo sobre o mérito do recurso especial, pelo Tribunal de origem, por ocasião do exame provisório de admissibilidade, não implica usurpação da competência do Superior Tribunal de Justiça. Precedentes. 3. Agravo regimental não provido. (AgRg no AREsp 205.921/SP, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 18/12/2012, DJe 08/02/2013)
+In casu, cabia à parte demonstrar que o acórdão encontrava-se contrário à jurisprudência dessa Corte Superior, o que afastaria o óbice aplicado.
+Também não restou impugnada a ausência de prequestionamento (Súmulas n. 211 do STJ e 282 e 356 do STF). Isso porquanto deveria ter sido demonstrado, nas razões do agravo, que a matéria de fundo restou suficientemente debatida na origem, o que não ocorreu no caso em questão.
+Por fim, na parte final de seu Agravo, a parte apenas transcreveu novamente a peça do Recurso Especial. Novamente, na esteira do entendimento desta Corte Superior, não obedece ao comando do art. 932, III, do CPC/2015 (correspondente ao art. 544, § 4.º, inciso I, do CPC/1973), o agravo que desenvolve a mesma tese adotada nas razões do recurso especial. Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REPETIÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ.
+1. Da mesma forma que é inviável agravo regimental que deixa de impugnar integralmente a decisão recorrida, também o agravo cujos argumentos são a mera repetição do recurso especial não pode ser provido. Em ambas as situações, verifica-se a ausência de manifestação específica sobre os fundamentos adotados pelo relator para desprover o agravo.
+2. Agravo interno desprovido.
+(AgInt no AREsp 197.061/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 18/08/2016, DJe 05/09/2016)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA. SÚMULA 182/STJ. AGRAVO NÃO PROVIDO.
+1. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para sua negativa, consoante expressa previsão contida no art. 932, III, do CPC de 2015 e art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente a mera repetição das razões do recurso extremo e alegações genéricas de não aplicabilidade do óbice invocado. Precedentes.
+2. Agravo interno não provido.
+(AgInt no AREsp 920.726/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/09/2016, DJe 07/10/2016)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
