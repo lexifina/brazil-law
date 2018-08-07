@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à declaração de extinção da punibilidade do réu, considerado o cumprimento integral da pena privativa de liberdade, mesmo pendente o pagamento de sanção pecuniária, considerada a legislação de regência. No extraordinário, o recorrente aponta a violação do artigo 5º, inciso XLVI, alínea c, da Constituição Federal. Discorre sobre a natureza penal da multa, aludindo à extinção da punibilidade somente após a respectiva quitação.
+    2. Transcrevo os fundamentos do acórdão recorrido:
+    De fato. A questão, submetida à sistemática do artigo 543-C do Código de Processo Civil, foi registrada no sistema dos recursos repetitivos (Tema 931), tendo sido assim ementada:
+    "RECURSO ESPECIAL. PROCESSAMENTO SOB O RITO DO ART. 543-C DO CÓDIGO DE PROCESSO CIVIL. RECURSO REPRESENTATIVO DE CONTROVÉRSIA. CUMPRIMENTO DA PENA PRIVATIVA DE LIBERDADE OU DE RESTRITIVA DE DIREITOS SUBSTITUTIVA. INADIMPLEMENTO DA PENA DE MULTA. EXTINÇÃO DA PUNIBILIDADE. POSSIBILIDADE. RECURSO PROVIDO.
+    1. Recurso Especial processado sob o regime previsto no art. 543-C, § 2% do CPC, c/c o art. Y do CPP, e na Resolução n. M CM E22 8/2008 do STJ.
+    2. Extinta pelo seu cumprimento a pena privativa de liberdade ou a restritiva de direitos que a substituir, o inadimplemento da pena de multa não obsta a extinção da punibilidade do apenado, porquanto, 3 após a nova redação dada ao art. 51 do Código Penal pela Lei n. 9.268/1996, a pena pecuniária passou a ser considerada dívida de valor e, portanto, possui caráter extrapenal, de modo que sua execução é de competência exclusiva da Procuradoria da Fazenda Pública.
+    3. Recurso especial representativo da controvérsia provido, para declarar extinta a punibilidade do recorrente, assentando-se, sob rito do art. 543-C do CPC a seguinte TESE: Nos casos em que haja condenação a pena privativa de liberdade e multa, cumprida a primeira (ou a restritiva de direitos que eventualmente a tenha substituído), o inadimplemento da sanção pecuniária não obsta o reconhecimento da extinção da punibilidade." (REsp 1519777/SP, Rel. Ministro Rogerio Schietti Cruz, e W Terceira Seção, julgado em 26.08.2015, DJe 10.09.2015 - grifei).
+    Este E. Tribunal de Justiça vem adotando o mesmo posicionamento:
+    "EXECUÇÃO PENAL — INADIMPLEMENTO DA PENA DE MULTA — EXTINÇÃO PELO CUMPRIMENTO DA PENA PRIVATIVA DE LIBERDADE — PRECEDENTE — RECURSO REPRESENTATIVO DE CONTROVÉRSIA — RECURSO ESPECIAL N° 1.519.777/SP — Nos casos em que haja condenação a pena privativa de liberdade e multa, cumprida a primeira (ou a restritiva de direitos que eventualmente a tenha substituído), o inadimplemento da sanção pecuniária não obsta o reconhecimento da extinção da punibilidade — AGRAVO PROVIDO" (Agravo em execução n° 0036970-77.2015.8.26.0000, Rel. Desembargador Willian Campos, 15' Câmara de Direito Criminal, julgado em 17.12.2015).
+    "AGRAVO EM EXECUÇÃO — Extinção da punibilidade, independente do adimplemento da multa — Necessidade — Posicionamento revisto — Perfilhação ao entendimento do STJ em Recurso ó Repetitivo. Recurso provido" (Agravo em execução n° 0057583-21.2015.8.26.0000, Rel. Desembargador Camilo Léllis, 4' Câmara W de Direito Criminal, julgado em 01.12.2015).
+    O acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 7 de agosto de 2018.
+Ministro MARCO AURÉLIO
+Relator
