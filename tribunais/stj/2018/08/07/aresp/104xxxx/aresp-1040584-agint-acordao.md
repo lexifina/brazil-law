@@ -1,0 +1,71 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 131 DO CPC/1973. AUSÊNCIA DE PREQUESTIONAMENTO. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO ARTIGO A QUE SE TERIA DADO INTERPRETAÇÃO DIVERGENTE. ÓBICE DA SÚMULA 284/STF. RECURSO NÃO PROVIDO.
+1. Fica inviabilizado o conhecimento de temas trazidos na petição de recurso especial, mas não debatidos e decididos nas instâncias ordinárias, tampouco opostos embargos declaratórios para sanar eventual omissão, porquanto ausente o indispensável prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+2. Não se aplica o prequestionamento ficto do art. 1.025 do CPC/2015 a recurso especial interposto sob a égide do CPC/1973. Inteligência do Enunciado 2 do Plenário do STJ.
+3. O conhecimento do recurso especial pela alínea "c" do permissivo constitucional exige a indicação de qual dispositivo legal teria sido objeto de interpretação divergente, sob pena de incidência da Súmula 284 do Supremo Tribunal Federal. Precedentes do STJ.
+4. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (Relator):
+Trata-se de agravo interno interposto por [NOME] e OUTROS contra decisão monocrática desta Relatoria que conheceu do agravo para não conhecer do recurso especial.
+Fundamentou-se a decisão monocrática: (a) na ausência de prequestionamento do art. 131 do Código de Processo Civil de 1973, atraindo a censura das Súmulas 282 e 356/STF e 211/STJ; e (b) na não particularização, no recurso especial, dos dispositivos legais acerca dos quais haveria divergência interpretativa, inviabilizando a abertura da instância especial, a teor da Súmula 284/STF.
+Os agravantes, em suas razões recursais, sustentam, em síntese, que: (a) o art. 131 do Código de Processo Civil de 1973 deve ser tido por prequestionado, à luz do art. 1.025 do Código de Processo Civil de 2015, e que "o prequestionamento já existe, posto que foi levada a violação ao Artigo 206 do Código Civil à apreciação pelo Tribunal "a quo" (e-STJ, fl. 1.132); e (b) a divergência jurisprudencial foi devidamente associada ao dispositivo legal apontado como violado.
+Impugnação às fls. e-STJ 1.140/1.156, pelo não conhecimento e, sucessivamente, pelo improvimento do apelo.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (Relator):
+Não merece provimento o agravo interno.
+Da leitura dos acórdãos de apelação (e-STJ, fls. 833/838) e de embargos de declaração (e-STJ, fls. 852/855), constata-se que, realmente, não houve debate acerca do conteúdo normativo do art. 131 do Código de Processo Civil de 1973 no Tribunal a quo, ainda que de maneira implícita, tampouco foi a Corte de origem provocada a sobre ele se manifestar, nos embargos declaratórios opostos. Dessa forma, à falta do indispensável prequestionamento, incidem os óbices das Súmulas 282 e 356 do STF, como apontado da decisão monocrática agravada. Nesse sentido:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE ILEGALIDADE DE COBRANÇA DE VALORES C/C REVISIONAL DE CONTRATO E PEDIDO DE REPETIÇÃO DE INDÉBITO. CONTA CORRENTE. TARIFAS E LANÇAMENTOS TIDOS POR INDEVIDOS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282 E 356 DO STF. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF. REEXAME DE PROVA. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. ENUNCIADOS 5 E 7 DA SÚMULA DO STJ.
+1. Incidem os enunciados 282 e 356 da Súmula do STF quanto aos temas insertos nos textos da legislação federal apontados, pois são estranhos ao julgado recorrido, a eles faltando o indispensável prequestionamento, do qual não estão isentas sequer as questões de ordem pública.
+2. Nos casos em que a arguição de ofensa a dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se ao recurso especial, por analogia, o entendimento da Súmula 284 do Supremo Tribunal Federal.
+3. Inviável o recurso especial cuja análise das razões impõe reexame do contexto fático-probatório da lide, bem como interpretação de cláusulas contratuais, nos termos da vedação imposta pelas Súmulas 5 e 7 do STJ.
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 613.606/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 09/05/2017, DJe de 17/05/2017 - grifou-se)
+"RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. COMPRA E VENDA DE FAZENDA SUPOSTAMENTE INQUINADA POR VÍCIO DE ERRO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. DESCOMPASSO OBJETIVO ENTRE AS PRESTAÇÕES ASSUMIDAS. AUSÊNCIA DE PREQUESTIONAMENTO. ERRO NÃO SUBSTANCIAL. IMPOSSIBILIDADE DE ANULAÇÃO DO NEGÓCIO JURÍDICO. PRESERVAÇÃO DO EQUILÍBRIO CONTRATUAL. RECURSO ESPECIAL NÃO PROVIDO.
+1. Não é possível anular o acórdão estadual com fundamento no art. 535 do CPC/73 quando o erro material que teria inquinado o aresto não é determinante para o resultado do julgamento.
+2. O Tribunal de origem não analisou a possibilidade de anular o contrato com base na existência de desequilíbrio objetivo entre as prestações assumidas, razão pela qual o tema carece do devido prequestionamento. Incidência das Súmulas nºs 282 e 356 do STF.
+3. De acordo com o art. 138 do CC/02, não é necessário que o erro seja escusável ou justificável para que se dê a anulabilidade do negócio jurídico.
+4. No caso concreto, não se pode reconhecer a invalidade do contrato com fundamento no erro, porque este, caso existente, não seria substancial.
+5. Além disso, a anulação parcial do contrato, ou melhor, de cláusula relativa ao pagamento da fazenda, prejudicaria o equilíbrio do negócio jurídico, porque o adquirente nada pagaria, embora mantido na posse do imóvel.
+6. Recurso especial não provido."
+(REsp 1.492.611/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 22/08/2017, DJe de 31/08/2017 - grifou-se)
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+(..)
+3. Agravo regimental desprovido." (AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe de 25/11/2014)
+Não há que se falar, outrossim, no prequestionamento ficto do art. 1.025 do Código de Processo Civil de 2015, já que o acórdão dos embargos de declaração recorrido foi publicado em 14/10/2015 (e-STJ, fl. 856), devendo o recurso especial ser analisado à luz do Código de Processo Civil de 1973. Aplicável, in casu, o Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça". A propósito:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA AGRAVANTE.
+1. A não impugnação, no agravo interno, de capítulos autônomos da decisão recorrida apenas induz a preclusão das matérias não impugnadas. 2. Depreende-se dos autos que o conteúdo normativo do arts. 124, XIX, 129 e 130, inciso III, da Lei n.º 9.279/96, tidos por violados, não foi analisado pelo Tribunal local, carecendo de prequestionamento, porquanto tais dispositivos não tiveram o competente juízo de valor aferido, nem interpretado ou a sua aplicabilidade afastada ao caso concreto pelo Tribunal de origem.
+Aplicáveis, assim, as Súmulas 282 e 356 do STF. Precedentes.
+2.1. Considerando que o acórdão recorrido foi publicado na vigência do Código de Processo Civil de 1973, não há falar em aplicação do disposto no artigo 1.025 do CPC/2015, o qual admite o chamado prequestionamento ficto, a teor do Enunciado Administrativo n. 2 do STJ. Precedentes.
+3. A jurisprudência do STJ entende que não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, haja vista a natureza precária da decisão, a teor do que dispõe a Súmula 735/STF. Ademais, rever as conclusões a que chegou o Tribunal de origem quanto a não estarem presentes os requisitos ensejadores da concessão de tutela provisória demandaria o reexame de matéria fático-probatória, o que não é possível nesta via recursal, nos termos da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 932.503/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 10/04/2018, DJe de 17/04/2018 - grifou-se)
+No que se refere ao dissídio jurisprudencial, constata-se que, de fato, não houve a particularização inequívoca, no recurso especial, dos dispositivos legais acerca dos quais haveria a divergência interpretativa.
+A jurisprudência pacífica desta Casa dispõe que a ausência de particularização dos dispositivos legais a que os acórdãos - recorrido e paradigma - teriam dado interpretação discrepante consubstancia deficiência insanável, inviabilizando a abertura da instância especial, a incidir, no ponto, a censura da Súmula 284 do STF. Confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. EXECUÇÃO POR QUANTIA CERTA. PENHORABILIDADE DE PROVENTOS. APELO NOBRE FUNDADO NA ALÍNEA C DA PERMISSÃO CONSTITUCIONAL. AUSÊNCIA DE INDICAÇÃO DO PRECEITO LEGAL. DEFICIÊNCIA DA FUNDAMENTAÇÃO RECURSAL. APLICAÇÃO ANALÓGICA DA SÚMULA Nº 284 DO STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA NOS MOLDES LEGAIS. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO NÃO PROVIDO, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O recurso especial fundado na alínea c demanda que a parte recorrente indique o dispositivo de lei federal sobre o qual se alega a divergência jurisprudencial invocada, sob pena de incidência da Súmula nº 284 do STF.
+3. A não observância dos requisitos dos arts. 1.029, § 1º, do NCPC, e 255, § 1º, do RISTJ torna inadmissível o conhecimento do recurso com fundamento na alínea c do permissivo constitucional.
+4. Em virtude do não provimento do presente recurso, e da anterior advertência em relação a aplicabilidade do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+5. Agravo interno não provido, com imposição de multa.
+(AgInt no AREsp 1.213.361/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 08/05/2018, DJe de 18/05/2018 - grifou-se)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. A ausência de indicação do dispositivo de lei que haja interpretação divergente, por outros tribunais, não autoriza o conhecimento do recurso especial pela alínea "c" do inciso III do artigo 105 da Constituição Federal. Incidência, por analogia, da Súmula 284 do STF.
+2. Agravo interno desprovido.
+(AgInt no REsp 1.680.845/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 10/04/2018, DJe de 19/04/2018 - grifou-se)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DO ARTIGO VIOLADO. SÚMULA Nº 284 DO STF. DESPESAS REALIZADAS EM HOSPITAL NÃO CREDENCIADO. SÚMULAS 5 E 7/STJ.
+RECURSO NÃO PROVIDO. .
+1. O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da demonstração analítica do dissídio jurisprudencial, a indicação dos dispositivos supostamente violados ou objeto de interpretação divergente. Súmula 284 do STF.
+2. O Tribunal de origem concluiu que o ajuste firmado seria patrocinado em todo o Sistema Nacional Unimed, bem como que cabe aos usuários escolher os médicos e hospitais, desde que cooperados com o plano. Para desconstituir a convicção formada pelas instâncias ordinárias a esse respeito, far-se-ia necessário incursionar no substrato fático-probatório dos autos, bem como proceder à interpretação de cláusulas contratuais, o que é defeso a esta Corte Superior ante o teor das Súmulas 5 e 7 do STJ.
+3. Agravo interno não provido."
+(AgInt no AREsp 1.024.730/PB, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/08/2017, DJe de 21/08/2017 - grifou-se)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA. ATRASO NA REGULARIZAÇÃO DO IMÓVEL. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284 DO STF. AUSÊNCIA DE COTEJO ANALÍTICO. DISSÍDIO NÃO CONFIGURADO. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ.
+1. A ausência de indicação do dispositivo de lei que haja interpretação divergente, por outros tribunais, não autoriza o conhecimento do recurso especial pela alínea "c" do inciso III do art. 105 da Constituição Federal (Súmula 284 do STF). Necessário, ainda, o cotejo analítico com a demonstração de similitude fática entre o acórdão recorrido e os paradigmas confrontados.
+2. Inviável o recurso especial cuja análise das razões impõe reexame de matéria fática da lide, nos termos da vedação imposta pela Súmula n. 7 do STJ.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 820.096/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 1º/12/2016, DJe de 07/12/2016 - grifou-se)
+Pelo exposto, nega-se provimento ao agravo interno.
+É como voto.
