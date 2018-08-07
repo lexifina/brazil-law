@@ -1,0 +1,18 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no art. 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal de Justiça de Minas Gerais, assim ementado:
+APELAÇÃO CRIMINAL - FURTO QUALIFICADO - ABSOLVIÇÃO - IMPOSSIBILIDADE - AUTORIA E MATERIALIDADE COMPROVADAS - PRINCÍPIO DA INSIGNIFICÂNCIA - IN APLICABILIDADE - REDUÇÃO DA PENA-BASE APLICADA - DECOTE DA QUALIFICADORA - PERÍCIA SUPRIDA PELA PROVA TESTEMUNHAL. Mostrando-se robustas as provas a comprovarem a autoria e a materialidade do delito, não há que se falar em absolvição. O princípio da insignificância leva em conta principalmente a lesividade, as condições pessoais do acusado e as circunstâncias do delito, e não apenas o valor de mercado da res furtiva. Deve ser aplicada a qualificadora do rompimento de obstáculo, mesmo que não haja laudo pericial constatando o arrombamento, desde que este esteja sobejamente comprovado pelos depoimentos testemunhais, sobretudo nos casos em que a vitima conserta o dano causado. A exasperação da pena-base, quando há a presença de apenas uma circunstância judicial desfavorável, não pode se dar de forma exacerbada, sem a fundamentação competente. (e-STJ fl. 184)
+Aponta a defesa a violação do art. 59 do Código Penal alegando, em síntese, ausência de fundamentação idônea para a valoração negativa do vetor judicial da conduta social.
+Contrarrazões às e-STJ fls. 227/231.
+Manifestação do Ministério Público Federal pelo provimento do recurso às e-STJ fls. 260/265.
+É o relatório. Decido.
+A irresignação merece prosperar.
+Os elementos existentes nos autos informam que o recorrente foi condenado à pena de 2 (dois) anos, 7 (sete) meses e 15 (quinze) dias de reclusão, pelo cometimento do crime do art. 155, § 4º, I, do Código Penal.
+A defesa se insurge contra a valoração negativa do vetor judicial da conduta social. Sobre a questão o Tribunal de origem assim se pronunciou:
+Conforme se vê da CAC de fls. 74/77, o acusado Tiago tem contra si duas condenações transitadas em julgado, uma anterior aos fatos, que configura a agravante da reincidência, e outra posterior Embora essa segunda condenação não seja apta a macular os antecedentes criminais, ela demonstra seu comportamento desvirtuado em sociedade, devendo ser considerada quando da análise da conduta social do réu.
+Assim, correto o reconhecimento de uma circunstância judicial desfavorável ao acusado, motivo pelo qual a pena-base deve ser fixada um pouco acima do mínimo legal cominado. (e-STJ fl. 212 - grifo nosso)
+Com razão a defesa quanto à avaliação desfavorável do vetor judicial da conduta social, isso porque "nos termos da jurisprudência consolidada desta Corte, não é possível considerar a condenação transitada em julgado, correspondente a fato posterior ao narrado na denúncia, para valorar negativamente antecedentes, conduta social ou personalidade do agente" (ut, HC 410.047/PE, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 10/05/2018).
+Nesse contexto, necessária nova dosimetria da pena.
+Na primeira fase, afastada a avaliação negativa do vetor judicial da conduta social fica a pena-base estabelecida em 2 (dois) anos.
+Mantidos os demais cálculos realizados pelas instâncias de origem (e-STJ fl. 191), a pena final fica estabelecida em 2 (dois) anos e 4 (quatro) meses de reclusão.
+Ante o exposto, com amparo no art. 932, VII, do CPC, c/c o art. 253, parágrafo único, II, "c", parte final, do RISTJ, conheço do agravo para dar provimento ao recurso especial, fixando a pena do recorrente em 2 (dois) anos e 4 (quatro) meses de reclusão.
+Publique-se. Intime-se.
