@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado, com fundamento no art. 105, I, "d", da Constituição Federal, entre o JUÍZO FEDERAL DA 10ª VARA DA SJ/DF, o suscitante, e o JUÍZO DE DIREITO DA 4ª VARA CRIMINAL DE BRASÍLIA - DF, o suscitado.
+Colhe-se dos autos que, "Em 19/05/2009, a Divisão Especial de Repressão ao Crime Organizado da Polícia Civil do Distrito Federal instaurou inquérito policial para apurar a autoria e materialidade do suposto crime de estelionato em que os investigados [NOME] e [NOME] teriam tentado sacar, com uso de uma procuração falsa e auxiliados pelo gerente do Banco do Brasil [NOME], o valor de R$ 200.000,00 (duzentos mil reais) da conta da falecida [NOME]".
+A Justiça do DF declinou da competência para analisar o feito e determinou a remessa dos autos à Justiça Federal, por entender que:
+"(..) Desta forma, inexistem elementos de convicção aptos a embasar a pretensão punitiva pela prática dos delitos de furto tentado ou uso de documento falso.
+Todavia, o termo de declarações de fls. 08/09 e o documento de fls. 36 comprovam que o indiciado [NOME], à época gerente do Banco do Brasil, violou sigilo bancário, na medida em que, após consultar a conta pertencente a [NOME], ele repassou os respectivos dados a [NOME] e [NOME], conduta que se amolda ao tipo penal inscrito no artigo 10 da Lei Complementar nº 105/2001, de competência da Justiça Federal." (e-STJ, fl. 160).
+Por sua vez, o Ministério Público ofereceu denúncia apontando a prática pelo interessado da conduta descrita no art. 18 da Lei n. 7.429/1986 (quebra de sigilo bancário), nos seguintes termos:
+"(..) segundo documento de fl. 36 e depoimento de fls. 13-14, o ora réu, no exercício da função de gerente de pessoa física do Banco do Brasil, [CONTA], acessou, por 4 (quatro) vezes, nas datas acima referidas, informações cadastrais e extrato de conta corrente (45.646) da cliente de outra agência (0597-5) LÚCIA DA [NOME] FONSECA [NOME] [NOME], já falecida (certidão de óbito 37), repassando-as a [NOME] DOS REIS COTTS SÁ (depoimento fls. 8-9).
+Estranhamente, dois dias após tais fatos, em 15/5/2009, lavrou-se procuração pública no Cartório de Registro Civil e Tabelionato de Notas do Município e Comarca de Santo Antônio do Descoberto/GO - município do entorno do DF - em que pessoa que se apresentou como LÚCIA DA [NOME] FONSECA [NOME] [NOME] (carteira de identidade fl. 34) outorgou poderes a terceiro para movimentar os recursos da conta corrente acima referida, sendo que tal documento foi posteriormente entregue ao denunciado." (e-STJ, fls. 411-416).
+De seu turno, o Juízo Federal suscitou o presente conflito ao seguinte entendimento:
+"(..) Das informações constantes dos autos, sobretudo o Parecer DIREP (fl. 239), IPL (fls. 2 e segs.) e oitivas em Juízo (fls. 180, 195 e 236), concluo que o crime cometido pelos autores se trata do delito de estelionato, na sua foram tentada, em face do Banco do Brasil, não havendo que se falar, portanto, em crime contra o sistema financeiro nacional.
+Isso porque o réu LÁZARO [NOME] DA COSTA, com unidade de desígnios em relação a [NOME] [NOME] ROCHA e [NOME] DOS REIS [NOME] SÁ, acessou e repassou informações sigilosas com informações sigilosas com o fim de praticar o crime de estelionato.
+( ) Percebo que não restou demonstrado o elemento subjetivo autônomo para a quebra de sigilo (infração menos grave), ficando esta absorvida pelo estelionato (mais grave).
+( ) Portanto, o crime-fim visado (estelionato contra o Banco do Brasil) não se amolda às hipóteses do art. 109 da CF, cabendo ao Juízo Federal deliberar sobre a configuração ou não de crime de sua competência."
+Nessa instância, o Ministério Público Federal manifestou-se pelo conhecimento do conflito e pela declaração de competência do Juízo suscitado (e-STJ, fls. 417-420).
+É o relatório.
+Decido.
+Cumpre registrar, inicialmente, que este conflito negativo de competência deve ser conhecido, porquanto se trata de incidente estabelecido entre juízes vinculados a tribunais diversos, nos termos do art. 105, I, "d", da Constituição Federal, razão pela qual passo ao seu exame.
+Dispõe o art. 109 da Constituição Federal:
+"Art. 109. Aos juízes federais compete processar e julgar:
+(..)
+IV - os crimes políticos e as infrações penais praticadas em detrimento de bens, serviços ou interesse da União ou de suas entidades autárquicas ou empresas públicas, excluídas as contravenções e ressalvada a competência da Justiça Militar e da Justiça Eleitoral."
+Há muito firmou-se jurisprudência nesta Corte Superior no sentido de que "A Lei Complementar n.º 105/2001 não revogou o art. 26 da Lei n.º 7.492/86, remanescendo a competência da Justiça Federal para processar e julgar os crimes de violação de sigilo das operações de instituições financeiras." (CC 118.973/PR, Rel. Ministra LAURITA VAZ, TERCEIRA SEÇÃO, DJe 27/03/2012).
+Contudo, no caso, fortes os indícios de que se trata de crime patrimonial (possível estelionato contra o Banco do Brasil) e não contra o Sistema Financeiro, afastando, ao menos por ora, a competência da Justiça Federal.
+ Nesse sentido, destaco a manifestação do Juízo Federal suscitante:
+"(..) Ao contrário do que consta da denúncia, o crime previsto no art. 18 da Lei 7.492/86, ou mesmo previsto no art. 10 da LC 105/01, teria sido praticado como um delito-meio, cuja intenção precípua era a prática do estelionato (crime-fim) em face da sociedade de economia mista.
+( ) Com efeito, dos documentos constantes no processo, denoto que o réu atuou com o domínio comum do fato típico, porquanto, conforme consta à fl. 239, este teria ido inclusive à residência de um dos investigados a fim de participar do golpe descrito no IPL.
+Percebo que não restou demonstrado o elemento subjetivo autônomo para a quebra de sigilo (infração menos grave), ficando esta absorvida pelo estelionato (mais grave).
+Nessa toada, houve aqui a figura da coautoria delitiva. Vale dizer: não é necessário que todos os agentes pratiquem o verbo descrito no tipo; basta que a sua conduta, atípica, se isoladamente observada, seja essencial para a realização do fato típico. Dessa forma, em se tratando de coautoria, todos os agentes respondem pela prática do mesmo delito praticado."(e-STJ fls. 2-8)
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da 4ª Vara Criminal de Brasília - DF, o suscitado.
+Comunique-se. Publique-se.
+Cientifique-se ao Ministério Público Federal e, oportunamente, encaminhem-se os autos ao Juízo competente.
