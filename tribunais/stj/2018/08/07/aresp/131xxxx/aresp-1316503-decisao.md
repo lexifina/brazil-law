@@ -1,0 +1,49 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO NA VIGÊNCIA DO NCPC. COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. RESCISÃO CONTRATUAL POR INADIMPLÊNCIA DA PROMITENTE COMPRADORA. PERCENTUAL DE RETENÇÃO. 10%. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DOMINANTE DESTA CORTE. INCIDÊNCIA DA SÚMULA Nº 568 DO STJ. JUROS DE MORA. TERMO INICIAL. TRÂNSITO EM JULGADO. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO E PARCIALMENTE PROVIDO.
+DECISÃO
+CONSTRUTORA DANIEL HORNOS LTDA (CONSTRUTORA) ajuizou ação de rescisão contratual c/c reintegração de posse contra MARIA DO PERPETUO SOCORRO M DOS SANTOS (MARIA) objetivando o encerramento contratual por inadimplência da autora e a reintegração de posse do imóvel objeto de contrato de compromisso de compra e venda firmado entre as partes (e-STJ, fls. 2-11).
+A sentença foi de parcial provimento, para tornar definitiva a liminar de reintegração de posse; declarar a rescisão do contrato e condenar a ré ao pagamento de indenização por perdas e danos, devidamente compensados com os valores que lhe deveriam ser devolvidos, e ao pagamento das custas e honorários, estes fixados em 10% sobre o valor da condenação (e-STJ, fls. 419/423).
+Interposta apelação pela CONSTRUTORA, o Tribunal de origem deu parcial provimento ao recurso, nos termos do acórdão a seguir ementado:
+APELAÇÃO. Ação de rescisão de contrato de venda e compra. Sentença de parcial o w o procedência. Inconformismo da autora. om 0.- Juros de mora que são devidos a partir da VIM No M, citação, por se tratar de o, o, responsabilidade contratual. Devida a ..) oo -- indenização pelo período em que a ré ocr o 00 oe, privou o autor de usar o bem desde o ua inadimplemento. Indenização que deve o cxo corresponder a 0,5% ao mês sobre o valor om or..
+o , do contrato. Cláusula penal que o, oo estabelece multa de 10% do valor do ocm 2m contrato em virtude de rescisão abusiva. C13 1-- ocsi Manutenção do percentual de 10% do valor %a ci.g,J adimplido pela ré. Litigância de má-fé, não configurada. Recurso a que se dá It, Lr) 0.4" parcial provimento (e-STJ, fl. 473).
+Os embargos de declaração foram rejeitados (e-STJ, fls.487/489).
+Irresignada, a CONSTRUTORA interpôs recurso especial, com fundamento no art. 105, II, a e c, da Constituição Federal, alegando violação dos arts. 389, 394, 395, 397, 402, 403, 404, 406, 416, 475, 884 e 885 do CC/02. Sustentou, em suma, 1) que o percentual de retenção deve ser majorado para 25% conforme pactuado; 2) que o termo inicial dos juros de mora com relação aos valores pagos pela recorrida, a serem restituídos, dever ser a partir do trânsito em julgado (e-STJ, fls. 492/513).
+Contrarrazões oferecidas (e-STJ, fls. 551/557).
+Inadmitido o recurso na origem (e-STJ, fls. 559/560).
+Foi apresentada contraminuta (e-STJ, fls. 563/576).
+É o relatório.
+DECIDO.
+Presentes os requisitos necessários a admissibilidade, passo ao exame do apelo especial.
+O inconformismo merece parcial acolhimento.
+De plano, vale pontuar que os presentes embargos de declaração foram opostos a decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+1) Do percentual de retenção
+A CONSTRUTORA alegou que a retenção dos valores pagos na razão de 10% não se mostra apta para suprir as despesas da promitente vendedora, pugnando pela manutenção do percentual pactuado, de 25%.
+Com relação ao tema, a jurisprudência desta Corte Superior está orientada no sentido de permitir a retenção no percentual entre 10% e 25% dos valores pagos quando houver resolução do compromisso de compra e venda por culpa do promitente comprador (como é o caso dos autos), bem como proibir a revisão do valor estabelecido nesta circunstância, por implicar reexame fático-probatório.
+A propósito, confiram-se os julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL.  .. . RETENÇÃO DE PERCENTUAL DOS VALORES PAGOS EM CASO DE RESOLUÇÃO CONTRATUAL POR CULPA DO COMPRADOR. SÚMULAS 7 E 83 DO STJ. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+ .. .
+2. A jurisprudência desta Corte Superior está orientada no sentido de permitir a retenção no percentual entre 10% e 25% dos valores pagos quando houver resolução do compromisso de compra e venda por culpa do compromitente comprador, bem como proibir a revisão do valor estabelecido nesta circunstância, por implicar reexame fático-probatório. Caso concreto no qual a multa contratualmente estabelecida para a supracitada hipótese foi reduzida pelo Tribunal de origem para 20% dos valores pagos, com base na suficiência reparatória do montante arbitrado.
+3. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+(AgInt no AREsp 1140299/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 5/12/2017, DJe 19/12/2017).
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. CONCLUSÃO, NO ACÓRDÃO ESTADUAL, NO SENTIDO DE AUSÊNCIA DE COAÇÃO PELA RECORRIDA ENSEJADORA DA RESILIÇÃO CONTRATUAL. DISTRATO QUE SE OPEROU POR CULPA DO PROMITENTE COMPRADOR. ENTENDIMENTO FIRMADO COM BASE EM FATOS, PROVAS E TERMOS CONTRATUAIS. SÚMULAS 5 E 7/STJ. RETENÇÃO DE 20% DO VALOR PAGO. POSSIBILIDADE. JULGADO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+ .. .
+2. Em caso de extinção de contrato de promessa de compra e venda por atuação do promitente comprador, é razoável que a devolução do valor pelo promitente vendedor ocorra com retenção 10% a 20% das prestações pagas a título de indenização pelas despesas decorrentes do próprio negócio. Precedentes. Incidência da Súmula 83/STJ.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 989.906/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 24/10/2017, DJe 30/10/2017, sem destaque no original).
+A Corte de origem, por sua vez, manteve a sentença que fixou o percentual de retenção em 10% dos valores pagos, conforme se vê das razões abaixo.
+Aceitável é a limitação da penalidade para o equivalente a 10% do valor adimplido pela ré e não do contrato, como bem anotou o magistrado sentenciante, pouco importando se a d miriuição não tenha sido estabelecida pelas partes, uma vez que o artigo 413 do Código Civil é tratado como uma disposição imperativa, a saber: "A penalidade deve ser reduzida equitativamente pelo juiz se a obrigação principal tiver sido cumprida em parte, ou se o montante da penalidade for manifestamente excessivo, tendo-se em vista a natureza e a finalidade do negócio" (e-STJ, fl. 476).
+Assim, tendo sido fixado na origem o valor de retenção em 10%, ou seja, dentro dos parâmetros estabelecidos neste Sodalício para caos tais (entre 10% e 25% dos valores pagos), não merece reparos o acórdão recorrido, pois encontra-se em plena consonância com a jurisprudência desta Corte, incidindo, no ponto, a Súmula nº 568 do STJ, segundo a qual, o relator, monocraticamente e no Superior Tribunal de Justiça poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+2) Do termo inicial dos juros de mora
+O Tribunal a quo, ao determinar a restituição de 90% dos valores pagos, devidamente atualizados, com termo inicial dos juros de mora a partir da citação, dissentiu do entendimento firmado no âmbito desta Corte, no sentido de que, na hipótese de resolução do compromisso de compra e venda de imóvel por iniciativa dos promitentes compradores, os juros devem incidir a partir da data do trânsito em julgado, posto que inexiste mora anterior do promitente vendedor.
+Nesse sentido, veja-se o julgado:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA. RESCISÃO. RESTITUIÇÃO DAS PARCELAS PAGAS. JUROS DE MORA. TERMO INICIAL. TRÂNSITO EM JULGADO. AGRAVO IMPROVIDO.
+1. Segundo a orientação jurisprudencial das Turmas que compõem a Segunda Seção, nos casos de rescisão de contrato de promessa de compra e venda, os juros moratórios devem incidir sobre o valor determinado para restituição a partir da data do trânsito em julgado da decisão.
+2. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.552.449/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 15/12/2015, DJe 2/2/2016).
+Com igual entendimento, confiram-se, ainda: AgInt no REsp 1.596.064/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, j. 7/3/2017, DJe 16/3/2017; e, AgRg no REsp 1222042/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 6/10/2015, DJe 19/10/2015.
+Desse modo, conclui-se que a solução jurídica dada à espécie está em desacordo com a jurisprudência dominante desta Corte, incidindo, no ponto, a Súmula nº 568 do STJ, segundo a qual, o relator, monocraticamente e no Superior Tribunal de Justiça poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Assim, o presente recurso merece parcial provimento, a fim de reconhecer que os juros de mora incidentes sobre os valores a serem restituídos a MARIA sejam fixados a partir do trânsito em julgado, nos termos dos precedentes acima destacados.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para CONHECER e DAR PARCIAL PROVIMENTO ao recurso especial, apenas para fixar o termo inicial dos juros de mora a partir do trânsito em julgado da decisão.
+Por fim, advirto que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 77, §§ 1º e 2º, 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
