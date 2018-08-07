@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto com fulcro no art. 105, III, alínea "a", da Constituição Federal.
+Consta dos autos que o réu foi denunciado pela prática do delito tipificado no art. 33, caput, c.c. art. 40, VI, da Lei n. 11.343/2006 (tráfico de drogas com causa de aumento), e condenado às penas de 5 (cinco) anos de reclusão, em regime inicial fechado, além de pagamento de 500 dias-multa, conforme a sentença de fls. 177-186.
+A defesa apelou, pleiteando a desclassificação do delito ou a redução da pena pela aplicação da minorante da Lei Antidrogas, a modificação do regime e a conversão da pena corporal, além da isenção das custas.
+O Tribunal de origem deu parcial provimento ao recurso defensivo, por maioria, conforme o acórdão assim ementado:
+APELAÇÃO CRIMINAL - TRÁFICO ILÍCITO DE ENTORPECENTES - DEPOIMENTO POLICIAL - CONDENAÇÃO MANTIDA - DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS - PRIVILÉGIO INCABÍVEL - DELITO EQUIPARADO A HEDIONDO - REGIME INICIAL FECHADO MANTIDO - PENA SUPERIOR A QUATRO ANOS - IMPOSSIBILIDADE DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS RECURSO NÃO PROVIDO.
+1- Comprovado, pelo depoimento policial, que o acusado trazia consigo e guardava substância entorpecente, a manutenção da condenação pelo crime tipificado no art. 33 da Lei 11.343/06 é medida que se impõe.
+2- O réu que se dedica às atividades criminosas não faz jus ao privilégio previsto no art. 33, § 4º, da Lei 11.343/06.
+3- Ao condenado pelo delito tipificado no art. 33, caput, da Lei 11.343/06, equiparado a hediondo, deve ser fixado o regime inicial fechado de cumprimento de pena.
+4- Fixado quantum de pena superior a 04 (quatro) anos, não é cabível a substituição da pena privativa de liberdade por restritivas de direitos.
+V.v. APELAÇÃO. TRÁFICO DE ENTORPECENTES. REGIME DIVERSO DO FECHADO. POSSIBILIDADE. PRECEDENTE DO STF (fl. 255).
+Os embargos de divergência foram rejeitados (fls. 286-293).
+Na sequência, a defesa interpôs recurso especial, no qual alega violação dos arts. 33 da Lei n. 11.343/2006 e 33, § 2º, e 59 do Código Penal.
+Sustenta, em síntese, que deve ser fixado o regime semiaberto, pois o recorrente é tecnicamente primário e as circunstâncias judiciais são favoráveis.
+A r. decisão agravada não admitiu o recurso especial haja vista que o acórdão recorrido está em consonância com a jurisprudência desta Corte.
+Contraminuta às fls. 329-333. O Ministério Público Federal opinou pelo não conhecimento do agravo (fls. 345-347).
+Conheço do agravo em recurso especial, visto que atacado o fundamento da decisão agravada.
+É o relatório. Decido.
+O recurso não merece provimento.
+Com efeito, no tocante ao regime de pena, embora o acórdão tenha mencionado o fundamento inidôneo da hediondez do delito, constata-se que o recorrente é reincidente, não ocorrendo a alegada afronta ao disposto no art. 33, § 2º, "b", do Código Penal. Nesse sentido:
+HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. ART. 33 DA LEI 11.343/2006. PACIENTE CONDENADO À SANÇÃO CORPORAL DEFINITIVA DE 5 ANOS DE RECLUSÃO. REINCIDÊNCIA. COMPROVAÇÃO. DESNECESSIDADE DE CERTIDÃO CARTORÁRIA. PRECEDENTES. TRÁFICO PRIVILEGIADO. NÃO RECONHECIMENTO. PACIENTE REINCIDENTE. NÃO ATENDIMENTO DOS REQUISITOS PREVISTOS NO ART. 33, § 4º, DA LEI N. 11.434/2006. IMPOSSIBILIDADE DE APLICAÇÃO DO ART. 44 DO CÓDIGO PENAL ANTE O PATAMAR DA PENA. REGIME PRISIONAL FECHADO FIXADO, NA SENTENÇA, COM BASE NA HEDIONDEZ DO CRIME E NA REINCIDÊNCIA. FUNDAMENTAÇÃO DA HEDIONDEZ AFASTADA. REINCIDÊNCIA. MANUTENÇÃO DO REGIME FECHADO. HABEAS CORPUS NÃO CONHECIDO. -
+ ..
+- Por decorrer de expressa previsão legal, não há que se falar em bis in idem pelo uso da reincidência para agravar a pena e impedir a aplicação do redutor previsto no § 4º do art. 33 da Lei n. 11.434/2006.
+- É de ser mantido o não reconhecimento do tráfico privilegiado, ante a reincidência do paciente e, como bem ressaltado pelo acórdão recorrido, pela quantidade da droga apreendida, fundamentação que se encontra em consonância aos julgados desta Corte Superior de Justiça. - Mantido o não reconhecimento do tráfico privilegiado e, em decorrência, inalterada a pena corporal, fica prejudicado o pleito de substituição da pena, uma vez que o patamar de 5 anos de reclusão não atende ao requisito objetivo do art. 44, I, do Código Penal.
+- O Plenário do Supremo Tribunal Federal, em 27/7/2012, ao julgar o HC 111.840/ES, por maioria, declarou incidentalmente a inconstitucionalidade do art. 2º, § 1º, da Lei n. 8.072/1990, com a redação que lhe foi dada pela Lei n. 11.464/2007, afastando, dessa forma, a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados. Diante disso, há de ser afastado o fundamento da hediondez do delito na fixação do regime fechado.
+- Por outro lado, nos termos do art. 33, § 2º, "b", do Código Penal, inexiste coação ilegal na fixação do regime fechado a acusado reincidente que, pela prática do delito de tráfico de entorpecentes, teve sua sanção corporal definitiva estabelecida em 5 anos de reclusão. - Habeas corpus não conhecido. (HC 306.873/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 30/03/2016).
+ ..
+FIXAÇÃO DO REGIME PRISIONAL. DECLARAÇÃO DE INCONSTITUCIONALIDADE DO ARTIGO 2º, § 1º, DA LEI 8.072/1990, COM A REDAÇÃO CONFERIDA PELA LEI 11.464/2007. IMPOSSIBILIDADE DE ESTABELECIMENTO DE MODO DIVERSO DO FECHADO. ACUSADOS REINCIDENTES. GRAVIDADE CONCRETA DO DELITO. COAÇÃO ILEGAL INEXISTENTE.
+1. Diante da declaração de inconstitucionalidade pelo Plenário do Supremo Tribunal Federal do artigo 2º, § 1º, da Lei 8.072/1990, com a redação que lhe foi conferida pela Lei 11.464/2007, que estabelecia o modo inicial fechado para o resgate da reprimenda firmada em relação aos delitos hediondos cometidos após a sua entrada em vigor, o regime prisional para esses tipos de crimes deve agora ser fixado de acordo com o previsto no artigo 33 do Código Penal.
+2. Mesmo afastado o fundamento no qual as instâncias de origem se embasaram para estabelecer o regime inicial fechado, a sua manutenção é medida que se impõe, dada a reincidência dos acusados e a gravidade concreta da conduta que lhes foi assestada, evidenciada pela quantidade do tóxico encontrado.
+3. Habeas corpus não conhecido (HC 340.615/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 4/5/2018).
+Diante do exposto, com fundamento no art. 932, inc. IV, do Código de Processo Civil c/c o art. 3.º do Código de Processo Penal, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
