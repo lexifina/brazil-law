@@ -1,0 +1,68 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pela UNIÃO, contra acórdão prolatado, por unanimidade, pelo Pleno do Tribunal Regional Federal da 5ª Região no julgamento de Impugnação ao Valor da Causa em Ação Rescisória, assim ementado (fls. 25/31e):
+PROCESSO CIVIL. IMPUGNAÇÃO AO VALOR DA CAUSA. AÇÃO RESCISÓRIA. VALOR QUE DEVE CORRESPONDER AO DA DEMANDA ORIGINÁRIA, ATUALIZADO. PECULIARIDADES DO CASO. IMPUGNAÇÃO REJEITADA.
+- Deve o Poder Judiciário inibir o comportamento do litigante que, enquanto autor de ação originária, subestima o valor da causa para evitar maiores sacrifícios, mas, ao figurar como réu em ação rescisória, pretende que a esta se atribua valor correspondente ao montante pleiteado já na execução do julgado.
+- Entendimento que merece valer tanto para o particular quanto para o ente público, devedores que são de mútua lealdade processual. Inteligência do art. 14, II, do CPC. Precedentes desta Corte.
+- Impugnação rejeitada. Manutenção do valor atribuído à ação rescisória, correspondente ao da demanda originária, com as devidas atualizações.
+Opostos embargos de declaração, foram rejeitados (fls. 43/49e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos arts. 258, 259 e 535, II, do Código de Processo Civil de 1973, alegando-se, em síntese, que:
+a) o tribunal de origem, "ao rejeitar os embargos de declaração, negou-se a prestar uma escorreita jurisdição" (fl. 58e);
+b) "conquanto atribuindo à demanda o valor de R$ 13.408,50 (treze mil, quatrocentos e oito reais e cinquenta centavos), os impugnados buscam a rescisão de acórdão proferido em ação de embargos à execução cujo valor alcançava o montante de R$ 2.513,956,41 (dois milhões, quinhentos e treze mil, novecentos e cinquenta e seis reais e quarenta e um centavos - atualizado em janeiro de 2003). Nesse contexto, considera que o valor econômico da pretensão do autor deve corresponder àquele que pretende obter com a demanda, sendo, portanto, inadmissível o valor arbitrariamente atribuído pelos impugnados à rescisória, na medida em que não atende ao disposto no art. 258 do CPC e nem traduz a realidade do pedido" (fl. 54e, destaque do original);
+c) "é inadmissível o valor arbitrário atribuído a causa pelos Impugnado, posto que não atende ao disposto legalmente e não traduz a realidade do pedido, ou seja, a vantagem que pretendem auferir, repercutindo nas custas processuais, que têm natureza tributária e, portanto, não podem ter sua exigibilidade afastada, senão em virtude de lei" (fl. 60e);
+d) "a jurisprudência pátria firmou-se no sentido de que é imprescindível que o valor da causa corresponda ao conteúdo econômico do objeto pretendido" (fl. 60e); e
+e) "considerando que o valor pretendido pelo autor, cuja pretensão representada pela execução corresponde a R$ 2.513,956,41 (dois milhões, quinhentos e treze mil, novecentos e cinquenta, e seis reais e quarenta e um centavos - atualizado em janeiro de 2003), sobre esta quantia é que se deve atribuir o valor da causa e sobre ele também deverá ser calculado o depósito previsto no art. 488, II, do Código de Processo Civil, sob pena de extinção do feito sem julgamento do mérito" (fl. 63e, destaque do original).
+Com contrarrazões (fls. 69/81e), o recurso foi admitido (fl. 95e).
+Manifestação do Ministério Público Federal às fls. 105/108e pelo provimento do Recurso Especial.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, caput, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+Não se pode conhecer a apontada violação ao art. 535 do Código de Processo Civil, porquanto o recurso cinge-se a alegações genéricas e, por isso, não demonstra, com transparência e precisão, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai o óbice da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, no âmbito desta Corte.
+Nesse sentido:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. AFASTAMENTO. AUSÊNCIA DE INÉRCIA DO CREDOR. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO NÃO COMPROVADO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+(..)
+(AgRg no REsp 1450797/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 05/06/2014, DJe 11/06/2014)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC. SÚMULA 284/STF. SERVIDOR PÚBLICO. PROFISSIONAL DA ÁREA DA SAÚDE. IMPOSSIBILIDADE DE ACUMULAÇÃO DE CARGOS. ACÓRDÃO COM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. INCOMPATIBILIDADE DE HORÁRIOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ELEITA. SÚMULA 7/STJ. PRECEDENTES DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Quanto à alegação de negativa de prestação jurisdicional, verifica-se que, apesar de apontar como violado o art. 535 do CPC, a agravante não evidencia qualquer vício no acórdão recorrido, deixando de demonstrar no que consistiu a alegada ofensa ao citado dispositivo, atraindo, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal ("é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Nesse sentido: STJ, AgRg no AREsp 422.907/RJ, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 18/12/2013; AgRg no AREsp 75.356/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 21/10/2013.
+(AgRg no AREsp 318.883/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 18/06/2014, DJe 01/07/2014, destaque meu).
+No caso em tela, o tribunal de origem enfrentou a controvérsia sob os seguintes fundamentos (fls. 27/29e):
+Existem numerosos precedentes no sentido de que o valor da ação rescisória não pode ser determinado arbitrariamente pelas partes. Deve representar, tanto quanto possível, o benefício econômico da relação litigiosa que se almeja obter mediante a propositura da ação.
+O valor da causa, objeto desta impugnação, refere-se a uma ação rescisória onde se busca desconstituir acórdão proferido em apelação interposta de sentença que acolheu embargos à execução, reconhecendo excesso de execução que representaria um bis in idem, na medida em que os exeqüentes já haviam recebido o reajuste de 26,66%, referentes aos 28,86% sobre a RAV.
+Os impugnados atribuíram à ação rescisória o valor de R$ 13.408,50 (treze mil, quatrocentos e oito reais e cinquenta centavos), questionado pela impugnante, à consideração de que a execução alcançava, à época, o montante de R$ 2.513.956,41 (dois milhões, quinhentos e treze mil, novecentos e cinquenta e seis reais e quarenta e um centavos), devendo ser esse, em sua ótica, o valor a ser fixado, por corresponder, justamente, ao benefício econômico perseguido.
+Pois bem. Conquanto essa tese possa encontrar adeptos, penso que existe uma peculiaridade a ser considerada: a UNIÃO, ora impugnante, ao aforar os embargos à execução, atribuiu à causa o valor de R$. 10.000,00 (dez mil reais) (fl. 27 do volume 5 dos apensos), deveras distante do excesso de execução que ali se apontava.
+Ora, se o beneficio econômico almejado nos embargos à execução consistia, precisamente, no afastamento da quantia cobrada em demasia, não há dúvidas de que àquela demanda se deveria atribuir valor correspondente ao excesso, mas, repita-se, não foi isso o que sucedeu.
+Como costuma acontecer, a impugnante subestimou o valor dos embargos para litigar sem maiores sacrifícios, e agora pretende que se atribua à ação rescisória o valor pleiteado na execução do julgado.
+Após muito refletir sobre a matéria, resolvi modificar a forma como vinha decidindo em hipóteses assim, e passo a me acostar à jurisprudência desta Corte Regional em que se busca evitar esse tipo de "sabedoria", fazendo prevalecer o valor atribuído à causa originária, conforme ilustra o seguinte precedente do Pleno deste TRF:
+(..)
+Não desconheço que a jurisprudência deste TRF também registra numerosos arestos em sentido diverso, oportunamente alardeados pela agravante. No entanto, considero que a linha de raciocínio acima desenvolvida merece valer tanto para o particular quanto para o ente público, devedores que são de mútua lealdade processual, o que se depreende da simples leitura do art. 14, II, do CPC.
+Com essas considerações, REJEITO a impugnação, mantendo o valor atribuído à ação rescisória.
+É como voto.
+Verifico que a Recorrente deixou de impugnar especificamente o único fundamento do acórdão recorrido, qual seja, a adoção do valor dos execução à execução como valor da causa na ação rescisória em face do princípio da lealdade processual, considerando que a Embargante subestimou tal valor, atribuindo à causa o valor de R$. 10.000,00 (dez mil reais), deveras distante do excesso de execução que ali se apontava.
+Desse modo, o recurso não merece prosperar, ante a ausência de pressuposto recursal genérico, consistente na impugnação específica do fundamento da decisão recorrida, o que equivale à conclusão de que a fundamentação do próprio recurso é deficiente, atraindo o óbice da Súmula 284 do Supremo Tribunal Federal, segundo a qual "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO COLETIVA. ENTIDADE SINDICAL. INADEQUAÇÃO DA VIA ELEITA. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO AUTÔNOMO.
+DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS 283 E 284/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+(..)
+3. A fundamentação utilizada pelo Tribunal a quo para firmar seu convencimento não foi inteiramente atacada pela parte recorrente e, sendo apta, por si só, para manter o decisum combatido, permite aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+4. Ademais, a revisão do entendimento adotado no acórdão recorrido implica reexame de fatos e provas, obstado pelo teor da Súmula 7/STJ.
+5. Agravo Regimental não provido.
+(AgRg no REsp 1406678/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/08/2014, DJe 18/08/2014)
+TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXIGÊNCIA DE SALDO REMANESCENTE. AUSÊNCIA DE DESCONSTITUIÇÃO INTEGRAL DO DÉBITO NO PROCESSO ADMINISTRATIVO. FUNDAMENTO INATACADO. SÚMULA 283/STF. ALCANCE DESSE PROCESSO. SÚMULA 7/STJ.
+1. O fundamento central do acórdão recorrido foi o fato de que não houve a desconstituição integral do lançamento tributário no processo administrativo - sendo que permaneceu válida a exigência dos juros de mora e da multa -, aplicando-se, desse modo, a inteligência do verbete sumular 283 do Supremo Tribunal Federal, pois a recorrente não atacou esse fundamento, tecendo apenas comentários referente à impossibilidade de alteração do critério de interpretação legal em lançamento já realizado, ignorando, por completo referido fundamento do acórdão de que a cobrança refere-se aos valores remanescentes dos juros e da multa.
+(..)
+3. Agravo regimental não provido.
+(AgRg no REsp 1237714/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 27/03/2014, DJe 02/04/2014)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 535 DO CPC. VIOLAÇÃO GENÉRICA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. ART. 42 DO CDC. DEVOLUÇÃO EM DOBRO DA TARIFA COBRADA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. FUNDAMENTO DO ACÓRDÃO RECORRIDO INATACADO. INCIDÊNCIA DA SÚMULA 283/STF.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+(..)
+4. Em relação à legalidade da tarifa progressiva, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido sobre o tema e, por isso, o apelo extremo esbarra no obstáculo da Súmula 283/STF.
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 402.148/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 20/03/2014, DJe 28/03/2014)
+PROCESSO CIVIL - RECURSO ESPECIAL - AGRAVO REGIMENTAL - FGTS - ART. 29-C DA LEI 8.036/90 - FUNDAMENTO INATACADO - SÚMULA 284 DO STF.
+1. Recurso especial que não atacou o fundamento utilizado pelo tribunal de origem. Falta de pressuposto recursal genérico.
+2. Agravo regimental improvido.
+(AgRg no REsp 662.152/CE, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 03/05/2005, DJ 13/06/2005, p. 259)
+Isto posto, com fundamento no art. 557, caput, do Código de Processo Civil, NEGO SEGUIMENTO ao Recurso Especial.
+Publique-se e intimem-se.
