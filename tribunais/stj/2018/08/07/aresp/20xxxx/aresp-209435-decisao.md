@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto pelo KUNIO YAMAGA E OUTRO contra decisão que negou seguimento ao recurso especial (e-STJ fls. 1.559/1.563).
+O acórdão recorrido está assim ementado (e-STJ fl. 1.403):
+EMENTA: APELAÇÃO CÍVEL. DÉBITOS COM VALORES DISTINTOS. INOCORRÊNCIA DE REVELIA. MODIFICAÇÃO DO VALOR DOS HONORÁRIOS ADVOCATÍCIOS. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+1. Apesar de constar das certidões e da, perícia que existiam contratos distintos, com valores distintos, as demais provas dos autos, mormente a testemunhal, demonstram que havia dúvidas sobre o objeto da transação, principalmente em razão dos valores que foram vendidos os postos de gasolina fornecidos pelos recorrentes para quitação do débito com os apelados.
+2. Com efeito, a sentença de primeiro grau, no que concerne aos danos morais, encontra-se escorreita, já que o direito que entende ter o autor/apelante não está configurado nos autos, já que paira dúvidas se o acordo formalizado em juízo envolveu ambos os débitos.
+3. A alegação de revelia do Banco Bamerindus do Brasil, não há como acatá-la, uma vez que apesar de não haver nos autos mandato expresso do advogado que subscreveu a contestação, constato que há mandato tácito, uma vez que o advogado participou da audiência designada pelo juízo de primeiro grau, como representante do requerido Bamerindus.
+4. Apesar do nobre trabalho efetivado pelos causídicos dos recorridos, o valor arbitrado pelo juízo a quo foi excessivo e em desacordo com o que determina os §§3º e 4º do artigo 20 do Código de Processo Civil.
+5. Assim Considerando-se o grau de zelo dos profissionais, o lugar da prestação de serviço, trabalho e tempo exigido para o serviço do advogado julgo justo o valor de R$ 10.000,00 (dez mil reais) uma vez que o processo perdura desde 2001 e os causídicos apresentaram defesa e peças processuais, além de comparecerem a todos os atos do processo e, ainda, a constituição de perícia, fato que demonstra a diligência e o elevado grau de zelo com que e atuaram nos autos.
+6. Recurso conhecido e parcialmente provido.
+No especial (e-STJ fls. 1.487/1.498), fundamentado no art. 105, III, "a" e "c" , da CF, os recorrentes alegaram, além de dissídio jurisprudencial, ofensa aos arts. 93, IX, da CF, 333, II, e 535 do CPC/1973.
+Sustentaram negativa de prestação jurisdicional ao deixar de apreciar prova trazida pelo autor, no decorrer da instrução processual. Destacaram que não foi devidamente analisado o depoimento prestado pela testemunha indicada pelos recorrentes, a saber, do Sr. [NOME].
+Afirmaram que "o autor efetivamente se desincumbiu do ônus probatório, quer pela prova pericial, quer pela prova TESTEMUNHAL" (e-STJ fl. 1.491).
+Por fim, aduziram ser necessária a redução dos honorários advocatícios.
+No agravo (e-STJ fls. 1.599/1.612), afirmam a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada pelo recorrido (e-STJ fls. 1.624/1.655).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+No que diz respeito ao art. 93, IX, da CF, compete ao STJ velar pela aplicação uniforme da legislação infraconstitucional, não se conhecendo, portanto, do recurso especial que sustente ofensa à Constituição, sob pena de usurpação da competência do STF (art. 102, III, da CF).
+Não há falar em ofensa ao art. 535 do CPC/1973, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu na hipótese.
+No que diz respeito ao ônus probatório assim decidiu a Corte de origem (e-STJ fl. 1.406):
+Analisando os autos, verifico que o apelante possuía com o recorrido dois débitos, cujos contratos ni. [CPF]-1 e n.0900182212-6 (fls. 547/548) foram objeto de ação de prestação de contas e de execução promovidas pelos recorridos.
+A ação de prestação de contas envolveu ambos os contratos, contudo, a ação executiva apenas o de n. 0900172775-1.
+Após a propositura das ações, as partes resolveram transacionar e, apesar da reunião dos processos, o acordo foi formalizado no de execução (fls 44/48) e pelo que se constata, envolveu apenas o contrato objeto da execução, eis que não há na sentença homologatória qualquer referência a ação de prestação de contas ou ao contrato n.º 0900182212-6.
+Além disso, o laudo pericial (fls. 568) informa que o acordo foi formalizado no processo de execução, que envolveu o contrato n.º 0900172775-1, o que faz concluir, juntamente com as demais, provas dos autos, que efetivamente o acordo não envolveu ambos os contratos, mas apenas o de n.º [CPF]-1.
+Entretanto, vislumbro através das provas testemunhais (fls. 1102) que pairam dúvidas se efetivamente o acordo formalizado envolveu apenas um contrato ou ambos, contudo, não há como afirmar categoricamente tal fato.
+Assim, não há como saber diante .das provas dos ,autos, se efetivamente o débito foi ou não quitado em seu valor integral. Tal fato impede a condenação dos apelados em danos morais, eis que não há corno definir se a inscrição no cadastro de inadimplentes foi realmente indevida.
+Da mesma forma, indevida a condenação do apelante em multa por litigância de má-fé, eis que as provas dos autos demonstram estava na dúvida do débito que possuía com os recorridos.
+Com efeito, entendo que a sentença de primeiro grau, no que concerne aos danos morais, encontra-se escorreita, já que o direito que entende ter o autor/apelante não está configurado nos autos, já que paira dúvidas se o acordo formalizado em juízo envolveu ambos os débitos.
+Isto porque, apesar de constar das certidões de (fls. 547/548) e da perícia de (fl.568) que existiam contratos distintos, com valores distintos, as demais provas dos autos, mormente a testemunhal, demonstram que havia dúvidas sobre o objeto da transação, principalmente em razão dos valores que foram vendidos os postos de gasolina fornecidos pelos recorrentes para quitação do débito com os apelados (fl. 1102).
+Desta feita, não há como acatar o pedido do autor de inversão do ônus da prova, já que para tal fato necessário que a alegação seja verossímil ou que haja hipossuficiência do consumidor.
+No caso dos autos, não há o preenchimento de tais requisitos, uma vez que as alegações não estão bem claras nos autos e o apelante quando da efetivação da transação não estava em posição de hipossuficiência, já que ao realizá-la o fez em igualdade de condições com o recorrido, eis que realizada em juízo.
+Assim, caberia ao autor/apelante ter o cuidado de ao realizar a avença, fixar e englobar as dívidas que possuía com o seu credor, uma vez que era a parte mais interessada na transação.
+Com efeito, não há como imputar ao recorrido o ônus de provar o pagamento do débito, já que não tem como retirar tal obrigação do autor/apelante, pois além de ser fato constitutivo do seu direito, é quem tem maiores condições de provar a quitação, uma vez que é quem recebe o recibo de pagamento da dívida.
+Para desconstituir a premissa fixada pelo TJRS - ausência de prova do pagamento da dívida - implicaria análise do conjunto fático-probatório dos autos, o que é vedado em recurso especial, ante o disposto na Súmula n. 7 do STJ.
+Por fim, quanto aos honorários advocatícios, os recorrentes não apontaram qual dispositivo de lei federal teria sido supostamente violado. Incidente, portanto, a Súmula n. 284/STF, por deficiência na fundamentação recursal.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
