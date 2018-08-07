@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. A Turma Recursal confirmou o entendimento do Juízo quanto à improcedência do pedido de revisão de vencimentos em decorrência da URP de abril de maio de 1988, considerada a prescrição. No extraordinário cujo trânsito busca alcançar, o recorrente alega violado o artigo 5º, inciso XXXVI, da Constituição Federal. Diz inobservado o verbete n° 671 da Súmula do Supremo. Requer o recebimento da parcela referente à URP dos meses de abril e maio de 1988. Afirma possuir direito adquirido ao percentual pleiteado. Aponta a não absorção dos índices pelos posteriores planos de carreira implementados.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese da decisão recorrida:
+    URP. CONFIRMAÇÃO DA SENTENÇA PELOS SEUS PRÓPRIOS FUNDAMENTOS. ARTIGO 46 DA LEI Nº 9.099/95 COMBINADO COM O ARTIGO 1º DA LEI Nº 10.259/2001.
+    1. Trata-se de recurso inominado interposto pela parte autora contra sentença que pronunciou a prescrição e julgou improcedente o pedido inicial. Insurge-se, em síntese, o recorrente contra a não caracterização de prescrição do fundo de direito tendo como base precedente do STJ.
+    2. Verifica-se que o juízo a quo proferiu decisão em conformidade com a jurisprudência da TNU: URP de abril e maio de 1988. Decreto-Lei nº 2.335/87. Prescrição. Já se encontram prescritas as diferenças decorrentes da aplicação das URPs de abril e de maio de 1988 e respectivos reflexos sobre a remuneração dos servidores públicos em relação às ações ajuizadas depois de outubro de 1993. Incidente conhecido e desprovido.( PEDILEF 200741009019078). Neste sentido, ainda, inúmeros outros precedentes daquela Corte (PEDILEF 200741009019609, PEDILEF 200741009018967, PEDILEF 200741009018134)
+    3. Denote-se que o percentual devido deixou de ser utilizado somente nos meses de abril a outubro de 1988 e não gerou reflexos nos vencimentos para os meses seguintes. Em sendo assim, ainda que aplicada a sistemática da prescrição qüinqüenal, não há parcelas devidas nos cinco anos que antecederam ao ajuizamento da ação. Desta feita, confirmo a sentença exarada por seus próprios fundamentos, com fulcro no art. 46 da Lei nº 9.099/95, combinado com o art. 1º da Lei nº 10.259/2001.
+    4. Tenho por prequestionados os dispositivos legais e constitucionais aventados.
+    5. Condenação em honorários advocatícios em R$100,00 (cem reais), condicionada a execução da verba à prova da superveniência da capacidade de pagamento, no prazo de 05 (cinco) anos, nos termos da Lei nº 1.050/60. 6. Recurso conhecido e desprovido.
+    No caso, as razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo. Majoro os honorários recursais em R$ 50,00 (cinquenta reais), nos termos do artigo 85, § 11, do Código de Processo Civil de 2015.
+    4. Publiquem.
+Brasília, 7 de agosto de 2018.
+Ministro MARCO AURÉLIO
+Relator
