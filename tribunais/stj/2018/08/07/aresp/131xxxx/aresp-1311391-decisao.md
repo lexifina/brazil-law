@@ -1,0 +1,19 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+PENAL. PROCESSUAL PENAL. FURTO QUALIFICADO. CONCURSO DE AGENTES E FRAUDE. REPOUSO NOTURNO. INSIGNIFICÂNCIA. INOCORRÊNCIA. CAUSA DE AUMENTO DE PENA DE NATUREZA OBJETIVA. DOSIMETRIA. REDUÇÃO. RECURSO PARCIALMENTE PROVIDO.
+1. Sendo conjunto probatório forte e coeso no sentido de que o réu praticou o crime de furto qualificado pelo concurso de agentes e fraude durante o repouso noturno, é de rigor a manutenção da condenação.
+2. A causa de aumento de pena referente ao repouso noturno deve ser entendida como uma circunstância objetiva, que depende apenas do horário em que a conduta foi praticada, sendo irrelevante qualquer contorno fático peculiar como presença de sistema de alarme, horário de funcionamento do estabelecimento, crime praticado por empregado durante a jornada de trabalho etc.
+3. A qualificadora da fraude empregada na prática do crime em exame - abastecer em posto de combustível e sair correndo para não pagar pela gasolina no valor de R$ 70,00 - retira a insignificância da conduta praticada pelo acusado, haja vista que tal circunstância demonstra o altíssimo grau de reprovabilidade da conduta e o acentuado grau de periculosidade da ação, pois furtar posto de gasolina por meio da fraude perpetrada na hipótese dos autos viola severamente o princípio da confiança reinante nas relações comerciais tornando altamente reprovável o ato praticado, o que também evidencia a periculosidade da ação delitiva.
+4. Tendo a pena sido fixada de forma desproporcional, a revisão na instância recursal é medida que se impõe. Na hipótese, em razão de o crime ter sido praticado mediante fraude, exasperou-se a pena pelo crime de furto qualificado na primeira fase em 9 (nove) meses reclusão. Tal proceder se mostra exagerado, impondo redimensionamento na instância revisora.
+5. Recurso conhecido e parcialmente provido. (e-STJ fls. 205/206)
+Sustenta a defesa a violação do art. 155, § 1º, do Código Penal alegando, em síntese, que a causa de aumento relativa ao repouso noturno não deve incidir no caso concreto, porquanto não ficou comprovada a situação de menor vigilância.
+Manifestação do Ministério Público Federal pelo desprovimento do recurso às e-STJ fls. 270/275.
+É o relatório. Decido.
+A irresignação não prospera.
+Os elementos existentes nos autos nos quais o Tribunal de Justiça do Distrito Federal e dos Territórios deu parcial provimento ao apelo defensivo para reduzir a pena do recorrente para 3 (três) anos e 8 (oito) meses e reclusão para o cometimento do crime do art. 155, §§1º e 4º, do Código Penal.
+A defesa se insurge contra o reconhecimento da causa de aumento relativa ao repouso noturno alegando que não ficou comprovada a situação de menor vigilância.
+Sem razão, porquanto esta Corte Superior já decidiu que incide a causa de aumento de pena referente à prática do crime de furto durante o repouso noturno ainda que o local dos fatos seja estabelecimento comercial ou residência desabitada, tendo em vista a maior vulnerabilidade do patrimônio (ut, AgRg no REsp 1582497/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, DJe 28/08/2017).
+Ainda nesse sentido: AgRg no AREsp 882.249/ES, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 19/10/2016.
+Maiores digressões acerca do tema demandariam reexame minucioso do conjunto fático-probatório, o que é defeso em sede de recurso especial ante o óbice da Súmula n. 7/STJ.
+Diante do exposto, com fundamento no art. 932, VII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intime-se.
