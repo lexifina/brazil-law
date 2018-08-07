@@ -1,0 +1,29 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, ementado nos seguintes termos:
+    “APELAÇÃO. SERVIDOR PÚBLICO ESTADUAL INTEGRANTE DO MAGISTÉRIO. LITISPENDÊNCIA. COISA JULGADA. EXTINÇÃO DA SEGUNDA AÇÃO QUE NÃO MERECE SUBSISTIR. TRÍPLICE IDENTIDADE NÃO CONFIGURADA.” (eDOC 1, p. 85)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, alínea “a”, da Constituição Federal, aponta-se violação aos arts. 5º, caput, LIV, LV e XXXV; 37, caput; 39, § 1º; e 93, IX, do texto constitucional.
+    Nas razões recursais, sustenta-se, em síntese, negativa de prestação jurisdicional, bem como ofensa aos princípios do contraditório e da ampla defesa.
+    Aduz-se, nesse sentido, que não se está postulando direitos decorrentes da simples aplicação da Lei nº 10.395 – sobre os quais, segundo a decisão recorrida, haveria coisa julgada, mas sim a incidência, nas parcelas de trato sucessivo percebidas pelas autoras, dos mesmos padrões remuneratórios pagos à maior a outros integrantes da mesma carreira e dos mesmos cargos.
+    Decido.
+    O recurso não merece prosperar.
+    Inicialmente, registre-se que o acórdão recorrido está devidamente fundamentado, sendo pacífico o entendimento desta Corte no sentido de ser desnecessário o enfrentamento específico de todos os argumentos trazidos pelo recorrente. Assim, não há que se falar em negativa de prestação jurisdicional.
+    Saliente-se, ainda, que esta Corte reconheceu a repercussão geral da questão constitucional acima discutida, no tema 339, nos seguintes termos:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.” (AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010)
+    Na espécie, o Tribunal de orgiem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses da parte recorrente.
+    No entanto, ainda que superado esse óbice, melhor sorte não assistiria à parte recorrente.
+    Isso porque o Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Código de Processo Civil e Leis 10.395/95, 10.420/95 e 12.961/08), consignou a impossibilidade de aplicação de reajustes em razão da coisa julgada material. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    Desta forma, resta caracterizado o instituto da cosia julgada material, a qual não pode ser alterada (arts. 467 e 471 do CPC) tanto no processo em que foi proferida a decisão, quanto em processo futuro;
+    (…)
+    Quanto à citada Lei 12.961/2008, apenas veio autorizar a implantação dos reajustes previstos na Lei 10.395/95 e 10.420/95, em relação aos percentuais ainda não pagos.
+    A Lei 12.961/2008, não alterou a legislação anterior apenas restabeleceu a eficácia, até então suspensa, daquela.
+    Portanto, não é possível dar o alcance à nova legislação para afastar a coisa julgada.” (eDOC 1, p. 89-91)
+    Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. REAJUSTES REMUNERATÓRIOS LEGALMENTE DEFINIDOS. LEIS 4.620/2005, 5.144/2007 E 5.334/2008 DO ESTADO DO RIO DE JANEIRO. EFEITOS FINANCEIROS. NECESSIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCIDÊNCIA DA SÚMULA 280 DO STF. PRECEDENTES. VIOLAÇÃO À CLÁUSULA DE RESERVA DE PLENÁRIO. INOCORRÊNCIA. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. AGRAVO INTERNO DESPROVIDO.” (RE-AgR 1055.692, Rel. Min. Luiz Fux, Primeira Turma, DJe 27.10.2017)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO DO ESTADO DO RIO GRANDE DO SUL. REAJUSTE DE VENCIMENTOS. LEI CAMATA E LEI ESTADUAL n. 10.395/95. Ambas as Turmas do Supremo Tribunal Federal firmaram entendimento de que é inviável, em recurso extraordinário, o debate a respeito da eficácia da Lei Estadual n. 10.395/95, em face da Lei Complementar n. 82/1995 [Lei Camata], vez que tal discussão encontra-se no âmbito infraconstitucional. Eventual violação da Constituição do Brasil seria indireta. Agravo regimental a que se nega provimento” (RE nº 447.720/RS-AgR, Segunda Turma, Rel. Min. Eros Grau, DJ de 30/6/06).
+    Cumpre destacar ainda que, no tocante à suposta ofensa aos princípios da ampla defesa e do contraditório, o Supremo Tribunal Federal já apreciou essa matéria no ARE-RG 748.371 (tema 660), de minha relatoria, DJe 1º.8.2013, oportunidade em que rejeitou a repercussão geral, tendo em vista a natureza infraconstitucional da questão quando a solução depender da prévia análise da adequada aplicação das normas infraconstitucionais.
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 7 de agosto de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
