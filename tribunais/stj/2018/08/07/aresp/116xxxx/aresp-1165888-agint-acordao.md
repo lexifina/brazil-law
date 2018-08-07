@@ -1,0 +1,24 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO RESPALDADO EM FUNDAMENTAÇÃO DE ÍNDOLE CONSTITUCIONAL. REVISÃO. IMPOSSIBILIDADE.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, sessão de 09/03/2016).
+2. O recurso especial não se presta para desafiar acórdão lastreado em fundamentação de índole constitucional.
+3. Hipótese em que o acórdão recorrido decidiu a questão dos juros de mora incidentes sobre o débito tributário com base em declaração de inconstitucionalidade, pelo Órgão especial do Tribunal de origem, da lei local que estabeleceu índices superiores à taxa Selic.
+4. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça , por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno manejado pelo ESTADO DE SÃO PAULO contra decisão proferida pela Presidência desta Corte Superior, constante às e-STJ fls. 547/549, que, ao identificar a natureza constitucional da fundamentação adotada pelo acórdão recorrido, conheceu do agravo para não conhecer do recurso especial.
+Nas suas razões (e-STJ fls. 557/559), o agravante sustenta, em resumo, que a questão suscitada no recurso especial "não envolve análise de matéria constitucional", pois "defende a tese de que é possível a fixação, por meio de lei do ente federativo no âmbito do exercício de sua competência tributária, de taxa de juros diversa daquela estipulada pra os tributos federais, tendo em vista expressa autorização legal nesse sentido, consubstanciada no disposto no § 1º do art. 161 do CTN".
+A parte agravada apresentou impugnação (e-STJ fls. 562/575).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+De início, destaco que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, sessão de 09/03/2016).
+Isso considerado, tenho que os argumentos ora deduzidos não convencem, visto que, consoante assentado pela decisão agravada, o acórdão recorrido decidiu a questão dos juros de mora incidentes sobre o débito tributário cobrado pela Fazenda agravante com base em fundamentação de índole exclusivamente constitucional, relacionada com a declaração de inconstitucionalidade, pelo Órgão especial do TJSP, da lei local que estabeleceu índices superiores à taxa Selic. Confira-se:
+Assim, sustentando a ilegalidade praticada pelo Fisco Estadual, postula provimento judicial que declare a inexistência de relação jurídico-tributária entre as partes no que diz respeito à aplicação da taxa de juros sobre os créditos de ICMS nos termos do artigo 96, da Lei 6.374/89, na redação das Leis 13.918/2009 e 10.619/2000, bem como postula a aplicação da taxa Selic e a restituição dos valores que entende indevidamente recolhidos a título de juros de mora fixados nos termos do artigo 96, da Lei 6.374/89 por ocasião de sua adesão ao PEP - ICMS referente aos créditos tributários oriundos do auto de infração.
+Destarte, o Colendo Órgão Especial deste Egrégio Tribunal de Justiça declarou inconstitucional a interpretação e aplicação que estava sendo dada pelo Estado aos artigos 85 e 96, da Lei Estadual nº 6.374/89, com a redação dada pela Lei Estadual nº 13.918/09, sem alterá-los gramaticalmente. Assim, fora determinado que o alcance valorativo dos dispositivos fique adequado à Constituição Federal, ou seja, que a taxa de juros adotada (que na atualidade engloba a correção monetária), seja igual ou inferior à utilizada pela legislação federal para os tributos da competência da União.
+Como cediço, o recurso especial não se presta para desafiar acórdão lastreado em fundamentação de índole constitucional.
+Por fim, embora não merecedor de acolhimento, tenho que o presente inconformismo não representa interposição de agravo interno manifestamente inadmissível ou improcedente, a ensejar, por decisão unânime do Colegiado, a multa processual prevista no § 4º do art. 1.021 do CPC/2015
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
