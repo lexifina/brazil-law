@@ -1,0 +1,27 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO DE SERVIÇOS. CONTRATO PARA IMPLANTAÇÃO DE GESTÃO EMPRESARIAL DE PROGRAMA DE COMPUTADOR. AÇÃO DE RESCISÃO CONTRATUAL COM DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO. SENTENÇA DE IMPROCEDÊNCIA DO PEDIDO MANTIDA PELO TRIBUNAL DE ORIGEM POR AUSÊNCIA DE PROVAS A CORROBORAR AS ALEGAÇÕES DA PARTE AUTORA. ALTERAÇÃO DAS PREMISSAS E DAS CONCLUSÕES ADOTADAS. REEXAME DE FATOS E PROVAS INVIABILIDADE. SÚMULAS 5 E 7 DO STJ. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles" (Súmula 283/STF).
+2. O inconformismo recursal mostra-se direcionado ao revolvimento do conjunto probatório e das cláusulas contratuais, o que é vedado no âmbito estreito do recurso especial, pelas Súmulas 5 e 7 do STJ.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Exmo. Sr. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator:
+Trata-se de agravo interno contra decisão de fls. 459/460 que conheceu do agravo para negar provimento ao recurso especial, com fundamento nas Súmulas 283/STF, 5 e 7/STJ.
+Afirma a agravante, em síntese, que não pretende o reexame de provas, mas sim "valoração/interpretação do conjunto probatório constante dos autos" (fl. 467). Requer, ao final, a reforma do decisum para que seja julgado procedente o pedido de rescisão contratual por falha no serviço de instalação, suporte e manutenção de sistema de informática cumulado com pedido de afastamento das cobranças pelo serviço já prestado.
+Devidamente intimada, a parte agravada não se manifestou.
+É o relatório.
+VOTO
+Exmo. Sr. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator:
+A irresignação não merece prosperar.
+No caso, a decisão ora agravada asseverou que o col. Tribunal de origem, ao aplicar o disposto nos arts. 475 do CC e 373 do CPC/1973, concluiu que "a apelante alega e nada prova quanto à efetiva má prestação de serviços por parte da apelada ou que o programa não funcionou satisfatoriamente, tendo em vista que o depoimento pessoal do representante da autora apontou que a empresa não conseguiu se colocar no mercado e encerrou as atividades" (fl. 376, e-STJ).
+Contudo, tal fundamento, autônomo e suficiente à manutenção do v. acórdão recorrido, não foi impugnado nas razões do recurso especial, convocando, na hipótese, a incidência da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+O referido óbice permanece incólume, porquanto não refutado pela recorrente, o que, por si só, inviabiliza a pretensão.
+Ademais, a decisão monocrática, em reforço de fundamentação, asseverou que, "ainda que superado referido óbice o recurso não teria provimento, pois a alteração das premissas adotadas pelas instâncias ordinárias exige análise do substrato probatório, providência vedada na via estreita do recurso especial pelas Súmulas 5 e 7 do STJ" (fl. 460, e-STJ).
+De fato, o caso é de reexame de provas, e não de reavaliação, como alega a agravante. Senão vejamos:
+A sentença de improcedência do pedido de rescisão de contrato para implantação de gestão empresarial de programa de computador com declaratória de inexigibilidade de débito foi mantida pelo col. Tribunal de origem, que, com base em novo exame do substrato probatório dos autos, concluiu que a parte autora não comprovou as alegações de falha/má prestação do serviço e de inexigibilidade da cobrança.
+Eis o teor do voto condutor:
+Verifica-se da análise do conjunto probatório dos autos que restou demonstrado que a requerida prestou os serviços, tendo sido solicitado pela apelante a instalação de mais programas. Mais: a demandada prestou o serviço de assistência técnica, por sinal avaliado, pelos funcionários da apelante, de forma satisfatória, em quadro onde se positivou que os serviços foram prestados e não quitados, conforme os documentos juntados com a contestação. Porém, a apelante alega e nada prova quanto à efetiva má prestação de serviços por parte da apelada ou que o programa não funcionou satisfatoriamente, tendo em vista que o depoimento pessoal do representante da autora apontou que a empresa não conseguiu se colocar no mercado e encerrou as atividades. Assim, não houve continuidade no serviço da apelante, mas o contrato celebrado entre as partes deve ser cumprido, pois a rescisão se deu por culpa da recorrente, não tendo sido demonstrada a má prestação de serviços da apelada, ônus do qual a autora não se desincumbiu. (..) Assim, de rigor a manutenção da r. sentença de improcedência, por seus próprios fundamentos. (fls. 373/380, e-STJ, grifou-se).
+Constata-se, portanto, que todo o inconformismo recursal mostra-se direcionado ao revolvimento do conjunto probatório, o que é vedado no âmbito estreito do recurso especial, pelas Súmulas 5 e 7 do STJ.
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
