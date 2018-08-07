@@ -1,0 +1,69 @@
+DECISÃO
+ROBERTO [NOME] [NOME], paciente neste habeas corpus, alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso na Apelação Criminal n. 61538/2017.
+Nesta Corte, a defesa sustenta ser desproporcional a exasperação da pena-base em 2/3 com fundamento, apenas, na quantidade de droga apreendida.
+Requer, liminarmente e no mérito, a redução da pena.
+Indeferida a liminar, o Ministério Público Federal manifestou-se pelo não conhecimento da impetração.
+Decido.
+I. Contextualização
+O paciente foi condenado à pena de 15 anos, 6 meses e 20 dias de reclusão, em regime inicial fechado, e 2.331 dias-multa, como incurso nos arts. 33, caput, e 35, ambos c/c o art. 40, V, todos da Lei n. 11.343/2006. De acordo com a sentença, foram apreendidos cerca de 450 kg de cocaína na data dos fatos (fl. 14). A reprimenda foi assim individualizada (fls. 24-29, grifei):
+Em relação à aplicação da pena, observo inexistir circunstância judicial (artigo 59 do Código Penal) desfavorável, mas há aquelas do artigo 42 da Lei de Drogas desfavoráveis, que são a do potencial lesivo do entorpecente, e a expressiva quantidade de cocaína apreendida, substância altamente tóxica e de fácil dependência.
+Acerca do elevado potencial lesivo dessa substancia, a medicina esclarece:
+ ..
+Assim, não há dúvidas acerca da elevadíssima toxidade dessa substância e o elevado grau lesivo deve sim, ser valorado nessa fase da dosimetria.
+Da mesma forma a quantidade do entorpecente apreendido deve ser valorado, tanto é que estamos diante de 450,05 (quatrocentos e cinquenta quilos e cinco gramas) de cocaína, sendo 168kg (cento e sessenta e oito quilogramas) de pasta-base de cocaína e 282kg (duzentos e oitenta e dois quilogramas) de cloridrato de cocaína, vulgarmente conhecido por "cocaína em pó".
+Destaca-se que a droga apreendida renderia aos acusados cerca de R$ 5.376.000,00, isso se considerando a informação da inteligência da PM local de que nesta região de fronteira o quilograma de pasta-base de cocaína custa R$ 8.500,00 e o quilograma de cloridrato de cocaína custa R$ 14.000,00.
+Certamente, tal quantidade apreendida levaria cerca de 450 mil usuários ao consumo do entorpecente, pois em regra e, pela mesma fonte, a compra da cocaína nesta região ocorre na proporção de um grama por usuário, o que causaria grande dano social as famílias dos usuários envolvidos.
+Por todo o exposto, e em vista das circunstâncias presentes a todos os acusados, é que entendo que a pena base deve ser fixada em um patamar dois terços (2/3) acima do mínimo legal, o que pauta-se pelo postulado da razoabilidade e da individualização das penas.
+Na segunda fase de aplicação da pena, observo não figurar nenhuma agravante em desfavor dos réus.
+ ..
+Assim, devidamente comprovado o "animus associativo" e a divisão de atividades dentro da organização criminosa, de forma permanente, entendo que a condenação é medida de rigor.
+Em relação à aplicação das penas, conforme já observado no delito de tráfico acima, observo inexistir circunstância judicial (artigo 59 do Código Penal) desfavorável, mas há aquelas do artigo 42 da Lei de Drogas desfavoráveis, que são a do potencial lesivo do entorpecente (cocaína), e a expressiva quantidade de cocaína apreendida (450,05 quilos), substância altamente tóxica e de fácil dependência.
+Evitando-se repetições desnecessárias, reporto-me àquelas mesmas observações do artigo 42 da Lei de Drogas já expostas ao delito de tráfico de drogas.
+Finalmente, cabe destacar o poderio econômico/financeiro da quadrilha, pois considerando que o quilo de cocaína vale, aproximadamente, R$ 8.500,00, para a pasta-base e R$ 14.000,00 para o cloridrato de cocaína, nesta região, pela quantidade de droga apreendida observa-se que a associação criminosa movimentou-se cerca de R$ 5.376.000,00 (cinco milhões, trezentos e setenta e seis mil reais).
+Por todo o exposto, e em vista das circunstâncias presentes a todos os acusados, é que entendo que a pena base deve ser fixada em um patamar dois terços (2/3) acima do mínimo legal.
+ ..
+DOSIMETRIA. TRÁFICO DE DROGAS. [NOME].
+Em relação ao crime imputado ao denunciado, considerando as diretrizes dos artigos 59 do Código Penal e 42 da Lei 11.343/06, denoto que o acusado agiu com culpabilidade normal à espécie, nada tendo a se valorar; não possui maus antecedentes; inexiste nos autos elementos suficientes a aferir sua conduta social, razão por que deixo de valorá-la; quanto à personalidade não há elementos suficientes para analisá-la, razão pela qual deixo de valorá-la; os motivos, as circunstâncias e as consequências do delito são próprias do tipo, não merecendo valoração; o comportamento da vítima (a sociedade, no caso) em nada contribuiu para a prática delitiva; o potencial lesivo e a quantidade de substância apreendidas devem ser valorados, também, nos termos da fundamentação.
+À vista dessas circunstâncias analisadas individualmente é, nos termos da fundamentação, acresço dois terços (2/3) ao mínimo legal para fixar a pena-base privativa de liberdade em 8 (oito) anos e 4 (quatro) meses de reclusão e 833 dias-multa.
+Inexistindo atenuantes ou agravantes, nos termos da fundamentação, mantenho a pena provisória em 8 (oito) anos e 4 (quatro) meses de reclusão e 833 dias-multa.
+Presente a causa de aumento, nos termos da fundamentação, aumento a pena em um sexto (1/6) para fixa-la em definitivo, em 9 (nove) anos, 8 (oito) meses e 20 (vinte) dias de reclusão e 971 dias-multa, esta à base 1/30 (um trigésimo) do salário mínimo vigente à época dos fatos, por necessária e suficiente à prevenção e reprovação do delito.
+DOSIMETRIA. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. [NOME].
+Em relação ao crime imputado ao denunciado, considerando as diretrizes dos artigos 59 do Código Penal e 42 da Lei 11.343/06, denoto que o acusado agiu com culpabilidade normal à espécie, nada tendo a se valorar; não possui maus antecedentes; inexiste nos autos elementos suficientes a aferir sua conduta social, razão por que deixo de valorá-la; quanto à personalidade não há elementos suficientes para analisá-la, razão pela qual deixo de valorá-la; os motivos, as circunstâncias e as consequências do delito são próprias do tipo, não merecendo valoração; o comportamento da vítima (a sociedade, no caso) em nada contribuiu para a prática delitiva; o potencial lesivo e a quantidade de substância apreendidas devem ser valorados, também, nos termos da fundamentação.
+À vista dessas circunstâncias analisadas individualmente e, nos termos da fundamentação, acresço dois terços (2/3) ao mínimo legal para fixar a pena-base privativa de liberdade em 5 (cinco) anos de reclusão e 1166 dias-multa.
+Inexistindo atenuantes ou agravantes, nos termos da fundamentação, mantenho a pena provisória em 5 (cinco) anos de reclusão e 1166 dias-multa.
+Presente a causa de aumento, nos termos da fundamentação, aumento a pena em um sexto (1/6) para fixa-la em definitivo, em 5 (cinco) anos e 10 (dez) meses de reclusão e 1360 dias-multa, esta à base 1/30 (um trigésimo) do salário mínimo vigente à época dos fatos, por necessária e suficiente à prevenção e reprovação do delito.
+DO CONCURSO MATERIAL E FIXAÇÃO DE REGIME.
+Incidindo a regra do cúmulo material do artigo 69 do Código Penal às penas em análise, deve o réu cumprir 15 (quinze) anos, 6 (seis) meses e 20 (vinte) dias de reclusão e 2331 dias-multa.
+Ressalto que apenas o tráfico de drogas é equiparado a hediondo, logo, quando do cálculo de penas, deverá o tráfico ser calculado à razão de 2/5 (dois quintos) para progressão de regime, e a associação para o tráfico à razão de 1/6 (um sexto) para fins de progressão de regime.
+Analisando os autos, em atenção ao artigo 387, § 2º do CPP, para o fim de influir na aplicação de seu regime inicial de cumprimento de pena, observo que não há necessidade em detrair o tempo de prisão provisória da pena aplicada, uma vez que não haverá alteração do regime.
+Em conformidade com o artigo 33, § 2º, "a", do Código Penal, já que o quantum da pena não autoriza a adoção de regime mais benéfico, observado o disposto no artigo 34 do Código Penal, fixo o regime fechado, para início do cumprimento da pena.
+Irresignada, a defesa recorreu. O Tribunal a quo negou provimento ao apelo.
+Feito esse registro, examino a tese defensiva.
+II. Redução da pena-base
+Registro, de início, que a pretensão defensiva limita-se ao exame da proporcionalidade do acréscimo, no patamar de 2/3 acima do mínimo legal, operado pelas instâncias ordinárias, com base na quantidade e na natureza da droga apreendida - cerca de 450 kg de cocaína.
+A respeito do tema, a jurisprudência deste Tribunal Superior é firme em garantir a discricionariedade do julgador, sem a fixação de critério aritmético, na escolha da reprimenda a ser estabelecida na primeira etapa da dosimetria da pena. Isso significa dizer que o magistrado, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto, decidirá o quantum de exasperação da pena-base, em observância aos princípios da razoabilidade e da proporcionalidade.
+Destaco, ainda, precedente da Sexta Turma do Superior Tribunal de Justiça, da relatoria da Ministra Maria Thereza de Assis Moura, proferido no AgRg no REsp n. 1.433.071/AM (DJe 6/5/2015). O voto condutor do acórdão consigna que "a confecção da dosimetria da pena não é uma operação matemática, e nada impede que o magistrado fixe a pena-base no máximo legal, ainda que tenha valorado tão somente uma circunstância judicial, desde que haja fundamentação idônea e bastante para tanto" (destaquei).
+Da mesma forma, há julgados do Supremo Tribunal Federal que consideram válida a imposição da pena-base no limite superior, mesmo que valorada negativamente uma única circunstância judicial, desde que haja indicação de fundamentos idôneos. Confiram-se:
+ ..
+1. É adequada e suficiente a fundamentação que exaspera a pena-base em razão da intensa ação do paciente em todas as fases do crime.
+2. A exasperação da reprimenda assentada unicamente na maior reprovação da conduta não destoa da ordem jurídica, pois a fixação da pena em patamar máximo, consoante jurisprudência desta Corte, prescinde da avaliação negativa de todas as vetoriais do art. 59 do CP.
+3. Recurso ordinário em habeas corpus desprovido.
+(RHC n. 140.539/CE, Rel. Ministro Edson Fachin, 2ª T., DJe 20/6/2017, grifei)
+ ..
+A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas. Às Cortes Superiores, no exame da dosimetria das penas em grau recursal, compete apenas o controle da legalidade e da constitucionalidade dos critérios empregados, bem como corrigir, eventualmente, discrepâncias gritantes e arbitrárias nas frações de aumento ou diminuição adotadas pelas instâncias anteriores. Tanto a concorrência de diversas vetoriais negativas como a existência de uma única vetorial negativa de especial gravidade autorizam pena base bem acima do mínimo legal. Não se presta o habeas corpus, enquanto não permite ampla avaliação e valoração das provas, como instrumento hábil ao reexame do conjunto fático-probatório que leva à fixação das penas.
+Recurso ordinário em habeas corpus não provido.
+(RHC n. 101.576/SP, Rel. Ministra Rosa Weber, 1ª T., DJe 14/8/2012, destaquei)
+No caso em exame, noto que o Juízo singular, além de mencionar a elevada quantidade de droga (450 kg) e a sua natureza nociva (cocaína), ressaltou o poderio econômico do grupo criminoso integrado pelo réu - pois a venda de tal quantidade de entorpecentes, segundo a autoridade policial, renderia lucro superior a R$ 5 milhões - e o grande número de porções que resultariam do fracionamento da droga - "cerca de 450 mil  .. , pois em regra e, pela mesma fonte  polícia , a compra de cocaína nesta região ocorre na proporção de um grama por usuário" (fl. 24, grifei).
+Assim, considero devidamente motivada a exasperação da pena-base e, diante das peculiaridades anteriormente descritas - notadamente a apreensão de 450 kg de cocaína -, julgo proporcional o acréscimo da pena-base em 2/3.
+Menciono, por oportuno, julgado desta Corte Superior em que, diante da apreensão de montante inferior de drogas, manteve-se o aumento da pena-base em fração superior à do caso dos autos. Confira-se:
+ ..
+1. A individualização da pena é uma atividade vinculada a parâmetros abstratamente cominados na lei, sendo, contudo, permitido ao julgador atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, às Cortes Superiores é possível, apenas, o controle da legalidade e da constitucionalidade na dosimetria.
+2. Hipótese em que foram aferidas, nos termos do art. 42 da Lei de Drogas, a natureza e a gigantesca quantidade de droga apreendida (300 kg de cocaína) para aumentar a pena-base em 7/6, quanto ao delito de tráfico de drogas, o que não se mostra desproporcional. Já, em relação ao crime de associação, foi considerado o número de agentes, o percurso e rota do grupo criminoso, assim como a quantidade de droga por eles movimentada e comercializada, para majorar a pena inicial em 1/2.
+3. Não sendo idênticos os argumentos utilizados para o incremento da pena inicial, fica afastada a obrigatoriedade de adoção dos mesmos índices para o aumento da sanção corporal pelos delitos de tráfico e de associação.
+ ..
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 626.946/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 1º/6/2018, destaquei)
+Desse modo, não acolho o pedido.
+III. Dispositivo
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
