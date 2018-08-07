@@ -1,0 +1,33 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. VÍCIOS. INEXISTÊNCIA.
+1. Devem ser rejeitados os embargos de declaração quando inexiste qualquer vício a ser sanado no acórdão embargado.
+2. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, rejeitar os embargos de declaração nos termos do voto do(a) Sr(a) Ministro(a) Relator(a). Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Embargos de declaração, opostos por [NOME], contra acórdão que negou provimento ao recurso especial que interpusera e que foi assim ementado:
+RECURSO ESPECIAL. DIREITO CIVIL E DO CONSUMIDOR. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. ERRO MÉDICO. CIRURGIA DE VASECTOMIA REALIZADA POR NEGLIGÊNCIA MÉDICA. PROCEDIMENTO CONTRATADO ERA APENAS DE RETIRADA DE FIMOSE. HOSPITAL E OPERADORA DE PLANO DE SAÚDE. LEGITIMIDADE PASSIVA AD CAUSAM. CONFIGURADA. QUANTO AO MÉRITO INEXISTÊNCIA DE VÍNCULO DE SUBORDINAÇÃO ENTRE O MÉDICO E O HOSPITAL. CONTRATAÇÃO PARTICULAR DA CIRURGIA SEM VÍNCULO COM O PLANO DE SAÚDE. RESPONSABILIDADE SUBJETIVA EXCLUSIVA DO MÉDICO CIRURGIÃO. DANO MORAL. ARBITRAMENTO. EXORBITÂNCIA OU IRRISORIEDADE. NÃO VERIFICADAS. ÔNUS DA SUCUMBÊNCIA. READEQUAÇÃO.
+1. Ação ajuizada em 08/03/05. Recurso especial concluso ao gabinete da Relatora em 09/08/17. Julgamento: CPC/73.
+2. O propósito recursal consiste em definir: i) a legitimidade passiva para a causa de hospital e operadora de plano de saúde; ii) a configuração de dano material e moral indenizável; iii) os limites da responsabilidade do hospital, da operadora e do médico, em razão de erro médico na cirurgia de paciente; iv) a revisão do valor da compensação por danos morais no particular.
+3. Ação de indenização por danos materiais e compensação por danos morais, ajuizada por paciente que se submeteu à cirurgia de retirada de fimose, mas foi surpreendido durante sua execução com a equivocada cirurgia de vasectomia.
+4. As condições da ação são averiguadas de acordo com a teoria da asserção, razão pela qual, para que se reconheça a legitimidade passiva "ad causam", os argumentos aduzidos na inicial devem possibilitar a inferência, em um exame puramente abstrato, de que o réu pode ser o sujeito responsável pela violação do direito subjetivo do autor.
+5. A responsabilidade objetiva para o prestador de serviço, prevista no art. 14 do CDC, na hipótese de tratar-se de hospital, limita-se aos serviços relacionados ao estabelecimento empresarial, tais como estadia do paciente (internação e alimentação), instalações, equipamentos e serviços auxiliares (enfermagem, exames, radiologia).
+6. Se o dano decorre de falha técnica restrita ao profissional médico, que não possui qualquer vínculo com o hospital - seja de emprego ou de mera preposição - não cabe atribuir ao nosocômio a obrigação de indenizar a vítima.
+7. Ausente vínculo entre o profissional causador do dano e a operadora de plano de saúde, em razão da contratação em caráter exclusivamente particular, não se pode imputar a esta a responsabilidade pelo ilícito para o qual não contribuiu de nenhuma maneira.
+8. A argumentação tecida pelo médico-recorrente de inexistência de dano ao paciente - inclusive destacando trechos do laudo pericial que, em tese, amparam sua pretensão - encontra óbice na Súmula 7/STJ, pois inadmissível em recurso especial a revisão de fatos e provas que atestaram os danos de ordem material e moral, decorrentes do erro médico na realização da cirurgia contratada.
+9. Em relação ao valor arbitrado pelo Tribunal de origem a título de compensação por danos morais, a jurisprudência desta Corte orienta que apenas em hipóteses excepcionais, em que configurado evidente exagero ou irrisoriedade da quantia, o recurso especial seria a via adequada para nova fixação excepcional. Circunstâncias não verificas na hipótese concreta.
+10. Recurso especial interposto pelo médico e pelo paciente conhecido e não provido. Recurso especial interposto pelo hospital e pela operadora de plano de saúde conhecido e provido.
+No presente recurso, o embargante afirma que o acórdão deve se manifestar "no tocante ao entendimento de que não houve exagero na quantia arbitrada a título de indenização (100 salários mínimos), explicitamente quanto à negativa de vigência dos artigos 944, do CC e 14, §3º, I, da Lei 8.078/90" (e-STJ fl. 678).
+Impugnação apresentada às fls. 681-683 (e-STJ).
+É o relatório.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+O acórdão recorrido se manifestou sobre a configuração e o arbitramento do dano moral no particular, como se nota no seguinte excerto:
+Todos os litigantes se insurgiram em relação ao valor arbitrado pelo Tribunal de origem a título de compensação por danos morais. Em controvérsias desse jaez, a jurisprudência desta Corte orienta que apenas em hipóteses excepcionais, em que configurado evidente exagero ou irrisoriedade da quantia, o recurso especial seria a via adequada para nova fixação excepcional.
+No particular, entretanto, não se identifica circunstância apta a justificar a atuação excepcional desta Corte para modificar o valor de R$ 62.200,00 (sessenta e dois mil e duzentos reais) fixado pelo TJ/SP, por não ser quantia exorbitante e nem irrisória.
+Primeiro e segundo graus de jurisdição convergiram acerca da proporcionalidade do valor arbitrado, de maneira que não se visualiza elemento de insensibilidade às reais e concretas angústias vividas pelo paciente, nem tampouco postura demasiadamente reativa dos magistrados, atendendo-se no particular a razoável expectativa na solução de um caso de dor e efetivo sofrimento.
+Como visto, não há omissão a ser sanada no acórdão embargado, pois o valor arbitrado pelo Tribunal de origem não se revelou exorbitante ou irrisório, a autorizar a sua modificação por meio de recurso especial.
+De igual modo, houve completo enfrentamento das teses recursais relevantes ao julgamento, ainda que não mencionado expressamente cada dispositivo legal que embasou o raciocínio do colegiado.
+Assim, seja em relação à configuração do dano, seja em relação à responsabilidade civil do hospital, da operadora de plano de saúde e do médico cirurgião, o acórdão embargado resolveu integralmente a controvérsia, sem equívocos de ordem material ou quaisquer dos vícios do art. 1.022, do CPC.
+Forte nessas razões, REJEITO os embargos de declaração.
