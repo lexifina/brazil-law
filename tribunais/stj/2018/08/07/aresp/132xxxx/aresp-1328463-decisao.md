@@ -1,0 +1,8 @@
+DECISÃO
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O Superior Tribunal de Justiça, nos autos do REsp 1.340.553/RS (Rel. Min. Mauro Campbell Marques, DJe de 31.8.2012), submeteu à Primeira Seção/STJ a questão relativa à aplicação do art. 40, caput e parágrafos, da Lei nº 6.830/80 - no que se refere ao prazo prescricional e às respectivas causas impeditivas - para fins de reconhecimento da prescrição intercorrente em sede de execução fiscal, a fim de que tal recurso seja julgado na forma dos recursos repetitivos, cujo julgamento ainda não foi concluído.
+A admissão de recurso especial como representativo da controvérsia impõe que os recursos interpostos (na Corte de origem), que tratem da mesma questão central, fiquem suspensos até o pronunciamento definitivo deste Tribunal.
+Posteriormente, tais recursos devem ter seguimento negado (na hipótese de o acórdão recorrido coincidir com a orientação do Superior Tribunal de Justiça) ou devem ser novamente examinados pelo Tribunal de origem (na hipótese de o acórdão recorrido divergir da orientação do Superior Tribunal de Justiça).
+Por tais razões, ficou prejudicado o exame do presente agravo.
+Assim, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após publicado o acórdão relativo ao recurso representativo da controvérsia, o recurso especial seja submetido ao procedimento acima referido.
+Publique-se. Intimem-se.
