@@ -1,0 +1,60 @@
+EMENTA
+ADMINISTRATIVO. RECURSO ESPECIAL. EFEITO SUSPENSIVO. CONDIÇÃO. CABIMENTO AO TRIBUNAL SUPERIOR. RECURSO ESPECIAL PENDENTE DE JUÍZO DE ADMISSIBILIDADE. DECISÃO DE ORIGEM NÃO CONSIDERADA COMO TERATOLÓGICA.
+I - Consoante o Código de Processo Civil de 2015, é cabível ao tribunal superior conferir efeito suspensivo ao recurso especial na seguinte condição (g.n.): Art. 1029. O recurso extraordinário e o recurso especial, nos casos previstos na Constituição Federal, serão interpostos perante o presidente ou vice-presidente do tribunal recorrido, em petições distintas que conterão:  ..  § 5º. O pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido; I - ao tribunal superior respectivo, no período compreendido entre a publicação da decisão de admissão do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo.
+II - A hipótese dos autos não permite o enquadramento do presente pedido de tutela provisória no referido dispositivo, uma vez que o recurso especial em questão ainda pende do juízo de admissibilidade. Neste sentido: AgInt no TP 265/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/05/2017, DJe 10/05/2017); AgInt no TP 41/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 14/02/2017, DJe 20/02/2017; TP n. 1166/SC, Rel. Ministro MAURO CAMPBELL MARQUES, DJe 14/02/2018.
+III - Essa é a hipótese dos autos, não havendo como fugir à regra constante no citado dispositivo, situação admissível somente em casos de decisão teratológica, considerada como tal aquela verdadeiramente absurda.
+IV - O acórdão recorrido especialmente considerou a existência do contrato de concessão existente entre as partes em litígio para conceder a ordem pleiteada, mostrando-se distante de se caracterizar como teratológico.
+V - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes e Mauro Campbell Marques votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, a Sra. Ministra Assusete Magalhães.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de agravo interno interposto contra monocrática que decidiu O Município de Duque de Caxias - RJ formula o presente pedido de tutela provisória com o objetivo de atribuir efeito suspensivo ao seu recurso especial, pendente de admissibilidade no juízo de origem, interposto contra acórdão assim ementado pelo Tribunal de Justiça do Estado do Rio de Janeiro (fl. 328):
+MANDADO DE SEGURANÇA. AGRAVO INTERNO PREJUDICADO. CONTRATO DE CONCESSÃO DE SERVIÇOS FUNERÁRIOS COM CLÁUSULA DE EXCLUSIVIDADE NO ÂMBITO DO MUNICÍPIO DE DUQUE DE CAXIAS, PREVIAMENTE PREVISTA DO EDITAL DE LICITAÇÃO. CONSTRUÇÃO DE NOVO CEMITÉRIO PELA MUNICIPALIDADE OBJETIVANDO EXERCER A PRESTAÇÃO DIRETA DOS SERVIÇOS CONTRATADOS E REGULARMENTE CONCEDIDOS AO PARTICULAR, SOB PLENA EXECUÇÃO. DISFARÇADA INTERFERÊNCIA NAS CONDIÇÕES ECONÔMICAS CONTRATADAS E ESTABELECIDAS ORIGINARIAMENTE. DIREITO DO CONCESSIONÁRIO À MANUTENÇÃO DA HIGIDEZ CONTRATUAL, COM PREVISÃO CONSTITUCIONAL. ART. 37, XXI. PODER CONCEDENTE QUE DEVE OBSERVAR E CUMPRIR OS TERMOS DO EDITAL DE LICITAÇÃO BEM COMO DO CONTRATO DE CONCESSÃO DE SERVIÇO PÚBLICO. PREJUÍZO AO IMPETRANTE, GERADO PELA DESLEAL CONCORRÊNCIA EVIDENCIADA PELA PRESTAÇÃO DIRETA DOS SERVIÇOS PELO PODER PÚBLICO MUNICIPAL. PRECEDENTE DESTA CORTE DE JUSTIÇA, RECONHECENDO O DESVIO DE FINALIDADE CONFIGURADO POR ATO PRETÉRITO DA AUTORIDADE AQUI TAMBÉM IMPETRADA, VISANDO NITIDO PROPÓSITO NA DECRETAÇÃO DA INTERRUPÇÃO UNILATERAL DO VIGENTE CONTRATO DE CONCESSÃO, A QUALQUER CUSTO EM FLAGRANTE DESAPREÇO ÀS DECISÕES JUDICIAIS. A NECESSIDADE SUPERVENIENTE DE ASSUNÇÃO DOS SERVIÇOS CONCEDIDOS NÃO CONFERE O PODER ABSOLUTO E UNILATERAL AO MUNICÍPIO CONCEDENTE DE RETOMÁ-LOS E PASSAR A PRESTÁ-LOS DIRETAMENTE, SEM PREVIA INDENIZAÇÃO OU SEM A REALIZAÇÃO DE NOVA EQUAÇÃO ECONÔMICA DO CONTR ATO CELEBRADO COM O PARTICULAR. DIREITO LIQUIDO E CERTO DO CONCESSIONÁRIO DO SERVIÇO. PREJUDICADO O AGRAVO.
+Em suas razões recursais especiais, a municipalidade alega violação das Leis ns. 12.016/2009; 8.975/95 e 8.666/93, dispondo, em síntese, sobre: a inexistência de direito líquido e certo tutelável por mandado de segurança; a inexistência de exclusividade em se tratando de concessão de serviços públicos e que a criação de novo cemitério público, de caráter gratuito, não importaria em maiores custos ao impetrante.
+Alega, no presente inconformismo, que a ora requerida, a despeito de possuir a respectiva concessão pública, vinha prestando os serviços cemiteriais em péssimas condições, situação que gerou a celebração de Termo de Ajustamento de Conduta que, no entanto, não foi suficiente para solucionar a questão, o que motivou o Município a construir um cemitério público municipal, de caráter gratuito. Irresignada, a parte contrária impetrou a ação mandamental originária.
+Requer, assim, a concessão do efeito suspensivo ao recurso especial interposto, evitando-se o monopólio na exploração dos serviços cemiteriais do município.
+A decisão monocrática tem o seguinte dispositivo:
+Ante o exposto, à míngua de competência do Superior Tribunal de Justiça para apreciação do presente pedido de tutela provisória de urgência, com fundamento no art. 34, XVIII, a, do RI/STJ, nego seguimento ao presente pedido.
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão recorrida.
+A parte agravada foi intimada para apresentar impugnação ao recurso.
+É relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso de agravo interno não merece provimento.
+Nos termos do enunciado n. 568 da Súmula desta Corte Superior e do art. 255, § 4º, inciso III, do RISTJ, o relator está autorizado a decidir monocraticamente quando houver jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça. Assim, não há que se falar em ilegalidade relativamente a este ponto.
+A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida.
+Sem razão a parte agravante.
+Consoante o Código de Processo Civil de 2015, é cabível ao tribunal superior conferir efeito suspensivo ao recurso especial na seguinte condição (g.n.):
+Art. 1029. O recurso extraordinário e o recurso especial, nos casos previstos na Constituição Federal, serão interpostos perante o presidente ou vice-presidente do tribunal recorrido, em petições distintas que conterão:
+ ..
+§ 5º. O pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido;
+I - ao tribunal superior respectivo, no período compreendido entre a publicação da decisão de admissão do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo.
+A hipótese dos autos não permite o enquadramento do presente pedido de tutela provisória no referido dispositivo, uma vez que o recurso especial em questão ainda pende do juízo de admissibilidade.
+Este vem sendo o entendimento preconizado pela jurisprudência do STJ:
+AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA - AGRAVO DE INSTRUMENTO NOS AUTOS DE AÇÃO DECLARATÓRIA DE EXISTÊNCIA DE CONTRATO VERBAL DE HONORÁRIOS ADVOCATÍCIOS - DECISÃO MONOCRÁTICA QUE INDEFERIU O PLEITO LIMINAR ANTE A AUSÊNCIA DOS REQUISITOS PARA A CONCESSÃO DA TUTELA DE URGÊNCIA. IRRESIGNAÇÃO DOS AGRAVANTES.
+1. Nos termos do art. 1029, § 5º, III, do CPC/2015, é da competência do Presidente ou do Vice-Presidente do Tribunal de origem atribuir efeito suspensivo a recurso especial no período compreendido entre a interposição do recurso e a publicação da decisão de admissibilidade do reclamo. Incidência, por analogia, das Súmulas 634 e 635 do STF.
+2. Nesses casos, apenas em situações excepcionais esta Corte Superior tem admitido a apreciação de medida cautelar/tutela de urgência que vise à concessão do efeito suspensivo a recurso especial, condicionando sua procedência à demonstração da presença concomitante dos requisitos do fumus boni iuris e periculum in mora: o primeiro relativo à plausibilidade, aferida em juízo sumário, da pretensão recursal veiculada no apelo extremo (sua probabilidade de êxito) e o segundo consubstanciado no risco de dano irreparável que, em uma análise objetiva, revele-se concreto e real.
+3. Na hipótese, não restou demonstrada a presença concomitante dos requisitos referidos, ante a inexistência de omissões no acórdão recorrido e a ausência de prequestionamento do artigo 23 do CPC/73 (incidência da Súmula 211/STJ).
+4. Agravo interno desprovido.
+(AgInt no TP 265/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/05/2017, DJe 10/05/2017)
+AGRAVO INTERNO. TUTELA PROVISÓRIA. RECURSO ESPECIAL. PENDÊNCIA DE JUÍZO DE ADMISSIBILIDADE PELO TRIBUNAL DE ORIGEM. INCOMPETÊNCIA DESTA CORTE SUPERIOR. MANUTENÇÃO DE POSSE. LIMINAR INDEFERIDA. POSSE INJUSTA. INVASÃO DO IMÓVEL PELOS ORAS AGRAVANTES. CIRCUNSTÂNCIA APURADA PELO TRIBUNAL "A QUO". TERATOLOGIA. NÃO OCORRÊNCIA.
+1. Competência do Tribunal de origem para apreciar pedido de tutela provisória referente a recurso especial pendente de admissibilidade, "ex vi" do art. 1.029, § 5º, inciso III, do Código de Processo Civil de 2015.
+2. Inocorrência de teratologia no acórdão recorrido.
+3. AGRAVO INTERNO DESPROVIDO.
+(AgInt no TP 41/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 14/02/2017, DJe 20/02/2017)
+TUTELA PROVISÓRIA. LICITAÇÃO. CASSAÇÃO DE LICENÇA PARA SERVIÇO DE TÁXI. SUJEIÇÃO A PROCESSO ADMINISTRATIVO. APELO ESPECIAL PENDENTE DE ADMISSIBILIDADE PERANTE O TRIBUNAL A QUO. INCOMPETÊNCIA DO STJ PARA A APRECIAÇÃO DA MEDIDA. INDEFERIMENTO DO PEDIDO.
+DECISÃO
+Trata-se de pedido de tutela provisória formulado por [NOME] objetivando a concessão do efeito suspensivo ao recurso especial interposto na origem contra acórdão prolatado pelo Tribunal de Justiça do Estado de Santa Catarina.
+ ..
+O caso é de indeferimento do pedido. Explica-se.
+Consoante dicção literal do § 5º, inciso III, do art. 1029 do CPC/2015 o pedido de concessão de efeito suspensivo "será dirigido ao presidente ou ao vice-presidente do tribunal recorrido, no período compreendido entre a interposição do recurso e a publicação da decisão de admissão do recurso."
+Ocorre que a detida análise dos autos evidencia que tal providência não foi realizada pelo impetrante, sendo que não há sequer notícia nos autos quanto ao fato de o apelo especial já ter sido admitido na origem, o traduz em incompetência deste Tribunal para o exame do pedido em tela.
+Note-se que em situações excepcionais tem o STJ relativizado a aplicação da referida regra, mas só o faz quando há prova de ser a decisão impugnada, via recurso pendente, teratológica ou manifestamente ilegal (AgInt no TP 534/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/09/2017, DJe 09/10/2017, AgInt no TP 265/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 10/05/2017), o que não ocorre na hipótese dos autos.
+Ante o exposto, indefiro o pedido de tutela provisória.
+(TP n. 1166/SC, Rel. Ministro MAURO CAMPBELL MARQUES, DJe 14/02/2018).
+Essa é a hipótese dos autos, não havendo como fugir à regra constante no citado dispositivo, situação admissível somente em casos de decisão teratológica, considerada como tal aquela verdadeiramente absurda.
+O acórdão recorrido especialmente considerou a existência do contrato de concessão existente entre as partes em litígio para conceder a ordem pleiteada, mostrando-se distante de se caracterizar como teratológico.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
