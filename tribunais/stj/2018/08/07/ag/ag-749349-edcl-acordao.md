@@ -1,0 +1,38 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. INOVAÇÃO RECURSAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. CARÁTER INFRINGENTE. IMPOSSIBILIDADE. REJEIÇÃO DOS EMBARGOS.
+1. A questão da aplicação do prazo decenal da prescrição não foi argüida na petição de recurso especial, configurando, portanto, verdadeira inovação recursal descabida no presente momento, sobretudo porque o caso trata de reexame do recurso para adequação à tese fixada pelo Supremo Tribunal Federal em repercussão geral sobre a possibilidade de restituição do excesso de ICMS recolhido por substituição tributária pra frente quando a base de cálculo real for inferior à base de cálculo presumida, nos estritos termos do inciso II do art. 1.040 do CPC/2015.
+2. Não há que se falar, portanto, em negativa de prestação jurisdicional, visto que tal somente se configura quando, na apreciação de recurso, o órgão julgador insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi. É cediço que a motivação contrária ao interesse da parte não se traduz em maltrato ao artigo 1.022 do CPC/2015.
+3. Os embargos de declaração constituem instrumento processual com o escopo de eliminar do julgamento obscuridade, contradição ou omissão sobre tema cujo pronunciamento se impunha pelo acórdão ou, ainda, de corrigir evidente erro material, servindo, dessa forma, como instrumento de aperfeiçoamento do julgado. Não havendo omissão, obscuridade ou contradição, impõe-se a sua rejeição.
+4. Embargos de declaração rejeitados.
+
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Turma, por unanimidade, rejeitou os embargos de declaração, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)."
+Os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, a Sra. Ministra Assusete Magalhães.
+RELATÓRIO
+O SENHOR MINISTRO MAURO CAMPBELL MARQUES (Relator): Cuida-se de embargos de declaração manejados por COMERCIAL JADE LTDA em face de acórdão desta Segunda Turma resumido da seguinte forma:
+PROCESSO CIVIL. TRIBUTÁRIO. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 2 DO STJ. ICMS. SUBSTITUIÇÃO TRIBUTÁRIA PRA FRENTE. RESTITUIÇÃO DA DIFERENÇA ENTRE A BASE DE CÁLCULO PRESUMIDA E A BASE DE CÁLCULO REAL. POSSIBILIDADE RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL EM SEDE DE REPERCUSSÃO GERAL (RE 593.849).
+1. Publicado o acórdão proferido pelo STF em sede de repercussão geral, aplicam-se os efeitos do artigo 543-B, § § 3º e 4º, do CPC/1973 (art. 1.040, II, do CPC/2015), retornando os autos para novo exame.
+2. O Supremo Tribunal Federal, em sede de repercussão geral reconhecida nos autos do RE nº 593.849, fixou tese no sentido de que "É devida a restituição da diferença do Imposto sobre Circulação de Mercadorias e Serviços - ICMS pago a mais no regime de substituição tributária para frente se a base de cálculo efetiva da operação for inferior à presumida".
+3. Juízo de retratação exercido, na forma do art. 1.040, II, do CPC/2015 (antigo art. 543-B, § 3º, do CPC/1973), para conhecer do agravo a fim de dar provimento ao recurso especial.
+A embargante alega omissão em relação ao prazo prescricional decenal, tendo em vista que a ação teria sido ajuizada antes da vigência da LC nº 118/2005, consoante a orientação adotada pelo Supremo Tribunal Federal em sede de repercussão geral nos autos do RE 566.621.
+Impugnação às fls. 294 e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. INOVAÇÃO RECURSAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. CARÁTER INFRINGENTE. IMPOSSIBILIDADE. REJEIÇÃO DOS EMBARGOS.
+1. A questão da aplicação do prazo decenal da prescrição não foi argüida na petição de recurso especial, configurando, portanto, verdadeira inovação recursal descabida no presente momento, sobretudo porque o caso trata de reexame do recurso para adequação à tese fixada pelo Supremo Tribunal Federal em repercussão geral sobre a possibilidade de restituição do excesso de ICMS recolhido por substituição tributária pra frente quando a base de cálculo real for inferior à base de cálculo presumida, nos estritos termos do inciso II do art. 1.040 do CPC/2015.
+2. Não há que se falar, portanto, em negativa de prestação jurisdicional, visto que tal somente se configura quando, na apreciação de recurso, o órgão julgador insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi. É cediço que a motivação contrária ao interesse da parte não se traduz em maltrato ao artigo 1.022 do CPC/2015.
+3. Os embargos de declaração constituem instrumento processual com o escopo de eliminar do julgamento obscuridade, contradição ou omissão sobre tema cujo pronunciamento se impunha pelo acórdão ou, ainda, de corrigir evidente erro material, servindo, dessa forma, como instrumento de aperfeiçoamento do julgado. Não havendo omissão, obscuridade ou contradição, impõe-se a sua rejeição.
+4. Embargos de declaração rejeitados.
+
+VOTO
+O SENHOR MINISTRO MAURO CAMPBELL MARQUES (Relator): Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A irresignação não merece acolhida.
+É que a questão da aplicação do prazo decenal da prescrição não foi argüida na petição de recurso especial, configurando, portanto, verdadeira inovação recursal descabida no presente momento, sobretudo porque o caso trata de reexame do recurso para adequação à tese fixada pelo Supremo Tribunal Federal em repercussão geral sobre a possibilidade de restituição do excesso de ICMS recolhido por substituição tributária pra frente quando a base de cálculo real for inferior à base de cálculo presumida, nos estritos termos do inciso II do art. 1.040 do CPC/2015.
+Não há que se falar, portanto, em negativa de prestação jurisdicional, visto que tal somente se configura quando, na apreciação de recurso, o órgão julgador insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi. É cediço que a motivação contrária ao interesse da parte não se traduz em maltrato ao artigo 1.022 do CPC/2015.
+Desta forma, indubitável que o aresto ora atacado abordou todos os pontos necessários à composição da lide, oferecendo conclusão conforme a prestação jurisdicional solicitada, encontrando-se alicerçado em premissas que se apresentam harmônicas com o entendimento adotado e desprovido de obscuridades ou contradições, o que impõe a rejeição dos presentes embargos. Verifica-se, na verdade, que o objetivo da embargante é obter um novo julgamento de mérito do recurso, sendo absolutamente inaceitável na via aclaratória.
+Os embargos de declaração constituem instrumento processual com o escopo de eliminar do julgamento obscuridade, contradição ou omissão sobre tema cujo pronunciamento se impunha pelo acórdão ou, ainda, de corrigir evidente erro material, servindo, dessa forma, como instrumento de aperfeiçoamento do julgado. Não havendo omissão, obscuridade ou contradição, impõe-se a sua rejeição.
+Registro que a reiteração de embargos de declaração sobre questões já resolvida nos autos poderá ensejar a aplicação da multa prevista no § 2º do art. 1.026 do CPC/2015.
+Pelas razões expostas, REJEITO os aclaratórios.
+É como voto.
