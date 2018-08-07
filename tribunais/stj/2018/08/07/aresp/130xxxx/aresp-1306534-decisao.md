@@ -1,0 +1,54 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL E RECURSO ESPECIAL MANEJADOS SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. OBRIGAÇÃO DE FAZER. ASTREINTES. LIMITAÇÃO A SESSENTA DIAS. RECURSO ESPECIAL INTERPOSTO PELA ALÍNEA C. DISPOSITIVO DE LEI FEDERAL NÃO APONTADO. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. PEDIDO SUBSIDIÁRIO. NOVA PERÍCIA. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 282 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Da leitura da minuta de agravo de instrumento interposto que deu origem a este recurso, pode-se inferir que [NOME] MARIN BOGOSSIAN (ANA [NOME]) propôs ação contra CONDOMÍNIO EDIFÍCIO MARIMÁ (CONDOMÍNIO).
+No curso da demanda, em fase de cumprimento de sentença, diante da inexecução da obrigação consistente na realização de reparos na unidade condominial de [NOME], foi reconhecida a postulação das astreintes fixadas, limitadas, contudo, a sessenta dias (e-STJ, fls. 74/76).
+Essa decisão interlocutória foi desafiada por agravo, na forma de instrumento, no qual CONDOMÍNIO sustentou que providenciou todas as medidas necessárias para sanar os problemas apresentados levando a efeito os reparos elencados na sentença condenatória e ainda realiza manutenções periódicas para evitar a reincidência das referidas patologias estruturais, motivo pelo qual pleiteou o afastamento da aplicação das astreintes fixadas no montante de R$ 1.000,00 (mil reais) por dia, além do prazo estipulado de trinta dias.
+O Tribunal de origem deu parcial provimento ao recurso de agravo de instrumento interposto por CONDOMÍNIO, com a seguinte ementa:
+AGRAVO DE INSTRUMENTO - AÇÃO DE OBRIGAÇÃO DE FAZER - CUMPRIMENTO DE SENTENÇA - ASTREINTES - Execução devida ainda que a obrigação de fazer tivesse sido cumprida a contento, dado o atraso para tanto - A efetividade da tutela jurisdicional, valor que a multa visa a proteger, depende não só do cumprimento, mas também da tempestividade da observância das ordens judiciais - Redução, porém, do valor devido a título de multa coercitiva - Cabimento - Levando-se em conta os bens jurídicos tratados nesta demanda, bem como a proporcionalidade e razoabilidade, impedindo a caracterização de enriquecimento sem causa - Recurso parcialmente provido (e-STJ, fl. 507).
+Inconformado, CONDOMÍNIO interpôs recurso especial (e-STJ, fls. 519/551), com fundamento na alínea c do permissivo constitucional, alegando dissenso jurisprudencial acerca da impossibilidade de condenação ao pagamento de multa diária quando do cumprimento da ação de obrigação de fazer. De forma que, considerando que efetivou todas as medidas necessárias para sanar os reparados elencados na sentença, além de realizar manutenções periódicas, inexiste descumprimento de ordem judicial, devendo ser afastada a aplicação das astreintes. Subsidiariamente, pediu a realização de nova perícia, com base no art. 465 do NCPC, e a redução da quantia fixada a título de multa diária.
+Os embargos de declaração opostos por CONDOMÍNIO foram rejeitados (e-STJ, fls. 618/623).
+As contrarrazões ao recurso especial foram apresentadas (e-STJ, fls. 629/632).
+O Tribunal de Justiça do Estado de São Paulo inadmitiu o apelo nobre diante da falta de demonstração, de forma analítica, da similitude de situações com soluções jurídicas diversas entre os acórdãos paragonado e paradigmas (e-STJ, fls. 634/635).
+Nas razões do agravo em recurso especial, CONDOMÍNIO aduziu que foi demonstrado o dissídio jurisprudencial (e-STJ, fls. 638/669).
+A contraminuta ao agravo em recurso especial foi apresentada (e-STJ, fls. 672/676).
+Em atendimento ao art. 1.042, § 4º, do CPC/15, o Tribunal de Justiça do Estado de São Paulo manteve a decisão agravada (e-STJ, fl. 677).
+É o relatório.
+DECIDO.
+De início, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto, ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na Sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/15 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A irresignação não comporta acolhimento.
+Isso porque, para a configuração do dissídio jurisprudencial invocado, é imprescindível que, no recurso especial sejam particularizados, de forma inequívoca, os normativos federais supostamente contrariados pelo Tribunal de origem, sob pena de incidência da Súmula nº 284 do STF.
+A propósito, vejam-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTAÇÃO DEFICIENTE. RECURSO ESPECIAL COM FUNDAMENTO NA ALÍNEA "C". INTERPRETAÇÃO DIVERGENTE. AUSÊNCIA DE DEMONSTRAÇÃO. SÚMULA Nº 284/STF.
+ ..
+2. Se a divergência não é notória, e nas razões de recurso especial não há a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da divergência de interpretação à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284 do Supremo Tribunal Federal, a inviabilizar o conhecimento do recurso pela alínea "c" do permissivo constitucional. Precedentes.
+3. Agravo interno não provido.
+(AgInt no AREsp 934.850/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 18/10/2016, DJe 21/10/2016 - sem destaque no original)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. COBRANÇA INDEVIDA. DANO MORAL. REVISÃO DO VALOR. FALTA DE INDICAÇÃO DE DISPOSITIVO LEGAL TIDO POR VIOLADO. SÚMULA 284/STF. INOVAÇÃO. INADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. NÃO PROVIMENTO.
+1. A falta de indicação de dispositivo de lei a respeito de cuja interpretação divergiu o acórdão recorrido implica deficiência na fundamentação do recurso especial, o que atrai a incidência da Súmula nº 284 do STF.
+ ..
+5. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.413.542/RS, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 17/3/2016, DJe 22/3/2016 - sem destaque no original)
+Na espécie, verifica-se que CONDOMÍNIO não indicou, nas razões do especial, nenhum dispositivo eventualmente violado, fazendo incidir à hipótese o teor da Súmula nº 284 do STF.
+Quanto ao pedido subsidiário de realização de nova perícia, com base no art. 465 do NCPC, tem-se que tal matéria não foi objeto de debate pelo Tribunal de origem, sequer apontada eventual omissão nos embargos de declaração opostos.
+É assente na Corte o entendimento de que é condição sine qua non ao conhecimento do especial que os dispositivos legais indicados como malferidos nas razões de recurso tenham sido ventilados no contexto do acórdão objurgado, emitindo-se, sobre cada um deles, juízo de valor, interpretando-se-lhes o sentido e a compreensão.
+Assim, verifica-se que suscitar no especial a ofensa da referida norma, sem que o Tribunal a quo tenha analisado a tese jurídica de que ora se controverte, seria frustrar a exigência constitucional do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância.
+Deste modo, em atenção ao que dispõe o enunciado das Súmulas nºs 282 e 356, ambas do STF, o recurso especial não pode ser analisado.
+Há que se ressaltar que, nos termos do art. 1.025 do NCPC, consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de prequestionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade.
+De forma que, para que fosse admitido o prequestionamento ficto, CONDOMÍNIO deveria ter apontado a eventual omissão nos embargos de declaração opostos e indicado a violação ao art. 1.022 do NCPC, o que inocorreu no presente caso.
+A propósito, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO DE REINTEGRAÇÃO DE POSSE. ART. 1.021, § 3º, DO CPC/2015. INEXISTÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. APELAÇÃO INTEMPESTIVA. PRAZO SUSPENSO EM DIA QUE RECAIU NO CURSO DO LAPSO RECURSAL. AUSÊNCIA DE PRORROGAÇÃO. AGRAVO IMPROVIDO.
+1. Não tendo sido enfrentadas a questão ou a tese relacionada ao artigo apontado como violado pelo acórdão recorrido, fica obstado o conhecimento do recurso especial pela ausência de prequestionamento, incidindo os óbices das Súmulas n. 282 e 356 do STF.
+2. De fato, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp n. 1.639.314/MG, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/4/2017, DJe 10/4/2017).
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.171.590/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 6/3/2018, DJe 13/3/2018 - sem destaques no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DEVEDORA EM PROCESSO DE LIQUIDAÇÃO EXTRAJUDICIAL. SUSPENSÃO DA EXECUÇÃO. CABIMENTO. PRETENSÃO DE DEVOLUÇÃO DE QUANTIAS JÁ LEVANTADAS E DESCONSTITUIÇÃO DE PENHORA. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS. INTERPRETAÇÃO CONFERIDA AO ART. 1.025 DO CPC/2015. AGRAVO NÃO PROVIDO.
+1. Esta Corte de Justiça, ao interpretar o art. 1.025 do Código de Processo Civil de 2015, concluiu que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe de 10/04/2017), o que não se verifica na hipótese dos autos.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.120.645/GO, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), Quarta Turma, j. 20/2/2018, DJe 27/2/2018 - sem destaque no original)
+Diante disso, não é possível o conhecimento do recurso, também neste ponto, em razão da ausência de prequestionamento.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 77, §§ 1º e 2º, 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
