@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] DE [NOME] MARTINS e [NOME] [NOME] [NOME] contra decisão do eg. Tribunal de Justiça do Paraná, que inadmitiu o recurso especial por eles interposto.
+Consta dos autos que os agravantes foram denunciados pela prática dos crimes previstos nos art. 33 da Lei de Drogas e art. 12 da Lei 10.826/2003. Após regular trâmite processual, foram condenados pelo delito de tráfico de drogas.
+ [NOME] foi condenada a 5 (cinco) anos de reclusão e 500 (quinhentos) dias-multa, em regime inicial fechado. [NOME] recebeu pena de 6 (seis) anos de reclusão e 600 (seiscentos) dias-multa, em regime inicial fechado.
+Inconformada, a defesa apelou perante a Corte Estadual, tendo o reclamo, por unamidade, sido desprovido.
+Seguiu-se a interposição de recurso especial, em virtude de violação aos artigos 29 do Código Penal e 33, § 4º, da Lei 11.343/2006. O apelo nobre não foi admitido pelo óbice aos Enunciados Sumulares n.7 e n.282 desta Corte Superior de Justiça.
+Sobreveio, então, agravo, por meio do qual a defesa infirma os óbices indicados pela Corte estadual para trancar o recurso especial, além de reafirmar os argumentos anteriormente apresentados.
+É o relatório.
+A par dos fundamentos declinados pelo Tribunal de origem por ocasião do juízo de admissibilidade ali realizado, constata-se que, de fato, o recurso especial interposto não merece seguimento.
+No recurso especial, os insurgentes pugnam pela reforma do acórdão em relação ao agravante [NOME]. A defesa argumenta que não há demonstração nos autos da participação do agravante na conduta delituosa confessada pela corré. Assevera que o fato de conviverem juntos não autoriza a conclusão de que o acusado tinha qualquer conhecimento acerca das atividades ilícitas desenvolvidas pela acusada.
+Sobre esse tema, extrai-se, da sentença exarada pela Corte recorrida, o seguinte excerto:
+"Veja-se, prima facie, que a versão da ré [NOME] desvela, parcialmente, a realidade fática ao admitir que guardava drogas. Contudo, natural reconhecer que nesta perspectiva, ciente de que seu esposo havia acabado de deixar o cárcere, tenha assumido a guarda das drogas a fim de isentar seu marido.
+Porém, ao que se provou nos autos, não se está diante de uma situação ou circunstância isolada de mera guarda de drogas para quitação de uma dívida. Em verdade, pelos elementos é possível constatar que, em verdade, as práticas de efetivo comércio das substâncias ocorriam há tempos.
+A localização de balança de precisão usada para pesar cocaína e maconha, as anotações procedidas em caderno de contabilidade e a quantidade relevante de drogas variadas dão conta de que o vínculo de ambos os acusados com o crime tinha largo lapso temporal.
+É cediço que a venda de drogas, a exemplo de profissões lícitas, possui um caminho a ser trilhado por quem pretende "crescer" na atividade.
+Tanto que os chamados vapores do tráfico nunca andam com grandes quantidades de drogas.
+Todavia, para aqueles que são ambientados no mundo do crime e, a fim de movimentar a máquina delitiva com maior astúcia, é comum verificar que os chamados traficantes medianos consigam de seus fornecedores quantidades cada vez maiores de drogas para repasse.
+E aqui urge uma pontual situação: até que ponto é viável conceber que neste contexto de itens de traficância, quantidade e variedade de drogas e bloqueador de sinais, se pode admitir que [NOME] desconhecia a realização daquelas atividades por sua esposa
+Ora, na espécie não estamos diante de uma ou duas pequenas buchas de cocaína envoltas e escondidas num armário. Temos, em verdade, quase 01 kilograma de drogas. E nesta perspectiva reconheço que as declarações da ré [NOME] buscando isentar [NOME] e, ainda, que a negativa de [NOME] se quedam isoladas e despidas de qualquer elemento empírico que sugira, de modo mínimo, a veracidade da situação sustentada.
+Sustenta a doutrina que para se concluir pela prática do crime de tráfico, não basta, em princípio, a quantidade (ou qualidade) da droga apreendida. Deve-se atentar, ainda, para outros fatores, tais como o local e as condições em que se desenvolveu a ação criminosa, as circunstâncias da prisão, a conduta, a qualificação e os antecedentes do agente 3 .
+E ao menos para o caso em concreto verifico que, como fundamentado acima, praticamente todos os fatores sopesam negativamente aos acusados.
+Pelo exposto, a alegação de insuficiência de provas ventilada por [NOME] fica rejeitada." (e-STJ: fls. 250-251)
+Infere-se da análise do excerto supra que a instância antecedente, após o reexame dos elementos colhidos no curso da instrução criminal, concluiu pela existência, nos autos, de elementos concludentes para fundamentar o decreto condenatório do insurgente.
+Dessa forma, desconstituir o julgado, por suposta violação à lei federal, no intuito de abrigar o pleito defensivo, não encontra espaço na via eleita, porquanto seria necessário a este Sodalício aprofundado revolvimento do contexto fático-probatório, providência exclusiva das instâncias ordinárias, incabível em sede de recurso especial, conforme já assentado pelo Enunciado n.º 7 da Súmula desta Corte.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TESE DE ABSOLVIÇÃO ANTE A AUSÊNCIA DE PROVAS IDÔNEAS DA AUTORIA DO DELITO DE ESTELIONATO PELA AGRAVANTE. NECESSIDADE DE ANÁLISE DE FATOS E PROVAS. ÓBICE INTRANSPONÍVEL DA SÚMULA 7 DESTA CORTE. AGRAVO IMPROVIDO.
+1. Ao contrário do afirmado pela agravante, os argumentos declinados nas razões do recurso especial a fim de sustentar a tese de inexistência de comprovação idônea da autoria do crime de estelionato demandariam sim a análise dos fatos, das circunstâncias e das provas amealhadas aos autos, mostrando-se insuperável o obstáculo da Súmula 7.
+(..) (AgRg no AREsp 698.434/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 30/06/2015, DJe 03/08/2015)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. DELITO CONTRA ENTIDADE DE DIREITO PÚBLICO. PRETENSÃO ABSOLUTÓRIA. GRADUAÇÃO DA PENA-BASE. CIRCUNSTÂNCIAS JUDICIAIS. LIVRE CONVENCIMENTO DO MAGISTRADO. SÚMULA 7 DESTE TRIBUNAL SUPERIOR. INCIDÊNCIA.
+1. A impugnação alusiva à materialidade e autoria do crime demandaria necessariamente o reexame do conjunto fático-probatório dos autos, procedimento vedado em recurso especial, ante o óbice da Súmula 7 desta Corte, in verbis: "A pretensão de simples reexame de prova não enseja recurso especial."
+2. A instância a quo fez a utilização de dados concretos contidos nos autos para estabelecer a pena-base acima do mínimo, tendo, ainda, procedido a uma causa de aumento, em 1/3 (um terço), consoante a qualificadora prevista no art. 171, § 3º, do Código Penal. Precedentes.
+(..) (AgRg no AREsp 647.537/SP, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 30/06/2015, DJe 04/08/2015)
+Relativamente ao reconhecimento do tráfico privilegiado, sabe-se que o § 4º do art. 33 da Lei n.º 11.343/06 dispõe que para o crime de tráfico de entorpecentes e suas figuras equiparadas as penas poderão ser reduzidas de um sexto a dois terços, desde que: a) o agente seja primário; b) com bons antecedentes; c) não se dedique às atividades criminosas; e d) não integre organização criminosa.
+O objetivo deste benefício foi o de conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida. A lei, porém, não determinou quais os parâmetros deveriam ser adotados para modular a redução da pena, limitando-se a estabelecer as frações mínimas e máximas de diminuição.
+No caso destes autos, a causa especial de diminuição de pena foi afastada pelo Colegiado estadual sob os fundamentos que reproduzo a seguir:
+No que se refere à aplicação da minorante do § 4º do art. 33 da Lei 11.343/2006, necessária a ausência dos requisitos ali mencionados de maneira cumulativa: ser primário, ter bons antecedentes, não se dedicar a atividades criminosas nem integrar organização criminosa.
+No presente caso, nota-se que diante da quantidade de droga apreendida (quase 1 quilograma de drogas, somando cocaína e maconha, o que incorreu na valoração negativa das circunstâncias do crime) e dos demais objetos encontrados na casa, tais como, balança, rádio e caderneta, impossível afastar a conclusão de que os apelantes não se dedicam à atividade criminosa de tráfico.
+Ainda, um dos policiais afirmou em Juízo que a casa estava sob investigação por ter sido objeto de várias denúncias como ponto de venda de drogas.(e-STJ, fl. 427).
+Na hipótese, observa-se que as instâncias de origem, com esteio no conjunto probatório acostado aos autos, concluíram que a insurgente se dedica ao tráfico de entorpecentes, motivo pelo qual deixou de aplicar a causa especial de diminuição de pena em testilha, entendimento que se encontra de acordo com a jurisprudência deste Superior Tribunal de Justiça:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO DE DROGAS. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA (ART. 33, § 4º, DA LEI N. 11.343/06). DEDICAÇÃO DO PACIENTE À ATIVIDADE CRIMINOSA. CIRCUNSTÂNCIAS DO DELITO E QUANTIDADE DE DROGA APREENDIDA. (..).
+(..)
+2. Os fundamentos utilizados pela Corte estadual para não aplicar ao caso concreto a causa de diminuição de pena prevista no § 4º do art.
+33 da Lei n. 11.343/06, em razão da dedicação do paciente à atividade criminosa, evidenciada sobretudo pelas circunstâncias do delito e pela quantidade de drogas apreendidas (33,7g de "maconha", distribuída em 18 embalagens), está em consonância com o entendimento desta Corte.
+Ademais, para se acolher a tese de que o paciente não se dedica às atividades criminosas, é necessário o reexame aprofundado das provas, inviável em habeas corpus.
+(..)
+Habeas corpus não conhecido. Ordem concedida de ofício para fixar o regime inicial semiaberto. (HC 289.065/RJ, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/08/2016, DJe 02/09/2016)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO DE DROGAS. PLEITO DE RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. (..) PACIENTES GRACIELLE E EDMILSON. CONCLUSÃO DO TRIBUNAL A QUO, COM BASE NO ACERVO PROBATÓRIO, NO SENTIDO DE QUE SE DEDICAVAM A ATIVIDADES CRIMINOSAS. (..) HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+(..)
+3. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que não há ilegalidade na negativa de aplicação da causa especial de diminuição prevista no § 4º do art. 33 da Lei n.
+11.343/2006 quando as circunstâncias do delito permitem aferir que o agente se dedica às atividades criminosas.
+(..)
+11. Habeas corpus não conhecido. Contudo, ordem concedida, de ofício, apenas para fixar o regime semiaberto para o paciente EDMILSON. (HC 312.499/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/08/2016, DJe 30/08/2016)
+HABEAS CORPUS SUBSTITUTIVO. (..) CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA (ART. 33, § 4º, DA LEI N. 11.343/2006). AFASTAMENTO DA MINORANTE COM FUNDAMENTO EM ELEMENTOS FÁTICOS DE QUE O PACIENTE SE DEDICA À ATIVIDADES CRIMINOSAS. CONCLUSÃO EM SENTIDO INVERSO. INVIABILIDADE. (..).
+(..)
+4. Não há que se falar em aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006 quando o Magistrado de piso e a Corte estadual, apreciando todas as circunstâncias do caso concreto, entenderam que o paciente se dedicava a atividade criminosa.
+(..)
+7. Habeas corpus não conhecido. (HC 353.774/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 16/08/2016, DJe 01/09/2016)
+Por tais razões, afigurando-se inadmissível o apelo nobre, conhece-se do agravo para negar provimento ao recurso especial, nos termos do artigo 34, inciso VII, combinado com o artigo 253, parágrafo único, inciso II, alínea a, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se e intime-se.
