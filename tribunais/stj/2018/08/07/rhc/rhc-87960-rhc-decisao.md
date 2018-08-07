@@ -1,0 +1,7 @@
+DECISÃO
+A ORDEM DOS ADVOGADOS DE MINAS GERAIS postula a extensão dos efeitos dos acórdãos proferidos pela Sexta Turma desta Corte Superior nestes autos e no HC n. 426.205/MG - nos quais foi substituída a custódia preventiva dos requerentes por prisão domiciliar - "a todos os advogados acautelados na Penitenciária Nelson Hungria" (fl. 436).
+Apesar do equívoco decorrente da juntada do pedido a estes autos - visto que o requerente postulou a distribuição por dependência aos processos anteriormente mencionados -, deixo de determinar sua correção por verificar que o pleito não comporta conhecimento.
+Com efeito, o pedido de extensão não individualiza os eventuais beneficiários de decisão concessiva, a traduzir pretensão coletiva, cabível apenas em hipóteses excepcionais, como bem delineado pelo Supremo Tribunal Federal ao conhecer do Habeas Corpus Coletivo n. 143.641/SP.
+No mesmo sentido, a Sexta Turma desta Corte Superior afirmou, em recente julgado: "Não constitui o habeas corpus via adequada para análise de pleito deduzido em benefício de todos os presos de determinado estabelecimento prisional, sem a devida individualização dos pacientes, uma vez que não é cabível a impetração de habeas corpus visando a defesa de direitos coletivos" (AgRg no HC 370.669/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 6/11/2017, grifei).
+À vista do exposto, não conheço do pedido de extensão.
+Publique-se e intimem-se.
