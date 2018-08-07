@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544) interposto por [NOME] contra decisão que inadmitiu o recurso especial sob o fundamento de incidência das Súmulas n. 7 e 83 do STJ (e-STJ fls. 1.860/1.865).
+O acórdão recorrido está assim ementado (e-STJ fls. 1.596/1.597):
+APELAÇÃO. AÇÃO REVISIONAL CONTRATO DE CONFISSÃO DE DÍVIDAS E ADITIVOS. CUMPRIMENTO DE SENTENÇA. SIMPLES CÁLCULO ARITMÉTICO. INADMISSIBILIDADE. LIQUIDAÇÃO POR ARBITRAMENTO. NECESSIDADE DE REVISÃO DE CONTRATOS E LANÇAMENTOS. NATUREZA DO OBJETO DA LIQUIDAÇÃO COMPLEXA. PERÍCIA. NECESSIDADE. ENTENDIMENTO DO ART. 475, INCS. I E II DO CPC. EXIGÊNCIA PARA APRECIAR O OBJETO DA DEMANDA. INEXIGIBILIDADE DO TÍTULO EXECUTIVO JUDICIAL. MATÉRIA CONHECIDA DE OFÍCIO. DESNECESSIDADE DE ESTAR SEGURO O JUÍZO. PARTE ILÍQUIDA DA SENTENÇA. PENHORA SEM ANTES TORNAR O TÍTULO EXIGÍVEL POR MEIO DA LIQUIDAÇÃO DE SENTENÇA, É MEDIDA EXCESSIVAMENTE ONEROSA AO DEVEDOR, NOTADAMENTE QUANDO A PARTE LÍQUIDA JÁ FOI LEVANTADA PELO CREDOR. (STJ-3aT.REsp 758.275/RJ, Rel. Ministra NANCY ANDRIGHI, DJ 27/03/2006 p. 270) PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA NÃO VERIFICADA. INTERRUPÇÃO. ENTENDIMENTO DO ART. 202, I, CC (ART.172, I E IV, CC/16). LITIGÂNCIA DE MÁ FÉ AFASTADA. AUSÊNCIA DOS REQUISITOS CONTEMPLADOS NO ART. 17. CPC. HONORÁRIOS ADVOCATÍCIOS EM CUMPRIMENTO DE SENTENÇA. CABIMENTO. MAJORAÇÃO ACOLHIDA. PREQUESTIONAMENTOS. MATÉRIA DEVIDAMENTE TRATADA. RECURSO DO BANCO NÃO PROVIDO, PARCIALMENTE PROVIDO O OFERTADO PELOS AUTORES. RECURSO ADESIVO NÃO CONHECIDO. RECURSO ADESIVO. PARTE QUE PROPÔS RECURSO AUTÔNOMO NÃO PODE RECORRER ADESIVAMENTE. NÃO CONHECIDO.
+Os dois embargos de declaração opostos foram rejeitados (e-STJ fls. 1.631/1.637 e 1.654/1.668).
+Nas razões do recurso especial (e-STJ fls. 1.672/1.721), fundamentado no art. 105, III, "a" e "c", da CF, o recorrente alegou dissídio jurisprudencial e ofensa aos arts. 20, § 3º, 125, I. 293, 315, 458, III, 460, 475-N, I, 535, I e II, e 585, § 1º, do CPC/1973 e 202, caput e I, do CC/2002. Sustentou: (a) negativa de prestação jurisdicional, (b) impossibilidade de uma segunda interrupção da prescrição ou da interrupção desta pelo ajuizamento de ação pela parte contrária, (c) ofensa ao princípio da congruência, (d) julgamento extra petita, (e) necessidade de interpretação restritiva dos pedidos, (e) impossibilidade de a parte ré proceder à execução da sentença proferida em autos da ação declaratória ajuizada pela parte contrária, sem que tenha havido pedido de reconvenção e (f) necessidade de fixação da verba honorária conforme disposto no § 3º do art. 20 do CPC/1973.
+Foram apresentadas contrarrazões (e-STJ fls. 1.834/1.845).
+No agravo (e-STJ fls. 1.878/1.896), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+O Tribunal a quo decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses do recorrente, não se identificando omissão, contradição ou obscuridade no acórdão impugnado.
+Nada obstante, no que se refere às teses de impossibilidade de uma segunda interrupção da prescrição, ou da interrupção desta pelo ajuizamento de ação pela parte contrária, de ofensa ao princípio da congruência, de julgamento extra petita e de necessidade de interpretação restritiva dos pedidos, observa-se que as questões jurídicas controvertidas, tais como apresentadas no recurso especial, não foram enfrentadas pelo acórdão recorrido, pois não foram objeto do recurso de apelação do recorrente, tendo sido alegadas somente nos embargos de declaração, em clara inovação recursal.
+A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pela decisão recorrida, impede o conhecimento do recurso especial, por falta de prequestionamento. A insurgência encontra óbice na Súmula n. 211/STJ:
+Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+Quanto à questão de mérito, este Superior Tribunal possui o entendimento de que as sentenças declaratórias que atestem, de forma exauriente, a existência de uma obrigação certa e exigível são dotadas de força executiva, constituindo-se título executivo judicial, nos termos do art. 475-N, I, do CPC/1973, introduzido pela Lei n. 11.232/2005, admitida sua prévia liquidação e execução nos próprios autos, consoante se infere dos seguintes precedentes:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CPC/1973. AÇÃO ANULATÓRIA JULGADA IMPROCEDENTE. EXECUTIVIDADE DA SENTENÇA. ART. 475-N, INCISO I, DO CPC/1973. PRECEDENTE DA CORTE ESPECIAL FIRMADO SOB O RITO DO ART. 543-C DO CPC. DOUTRINA SOBRE O TEMA.
+1. Controvérsia acerca da executividade de uma sentença de improcedência de uma ação anulatória de confissão de dívida.
+2. Aplicação do disposto no art. 475-N do CPC/1973, estatuindo que constitui título executivo judicial a sentença proferida no processo civil que reconheça a existência de obrigação de fazer, não fazer, entregar coisa ou pagar quantia (I)".
+3. "A sentença, qualquer que seja sua natureza, de procedência ou improcedência do pedido, constitui título executivo judicial, desde que estabeleça obrigação de pagar quantia, de fazer, não fazer ou entregar coisa, admitida sua prévia liquidação e execução nos próprios autos" (REsp 1.324.152/SP, CORTE ESPECIAL, rito do art.
+543-C do CPC/1973).
+4. "Com a atual redação do art. 475-N, inc. I, do CPC, atribuiu-se "eficácia executiva" às sentenças "que reconhecem a existência de obrigação de pagar quantia" (REsp 1.261.888/RS, PRIMEIRA SEÇÃO, rito do art. 543-C do CPC/1973).
+5. Reconhecimento, no caso concreto, da executividade da sentença de improcedência.
+6. RECURSO ESPECIAL DESPROVIDO.
+(REsp 1560584/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 25/10/2016, DJe 9/11/2016.)
+RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO REVISIONAL. CUMPRIMENTO DE SENTENÇA. AÇÃO DECLARATÓRIA. FORÇA EXECUTIVA. FORMAÇÃO DE TÍTULO EXECUTIVO EM FAVOR DO RÉU. POSSIBILIDADE. PRECEDENTE DA TERCEIRA TURMA DESTA CORTE. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+1.- As sentenças de cunho declaratório podem ter força executiva, se presentes os elementos necessários à execução, como exigibilidade e certeza da relação. Precedentes.
+2.- A sentença declaratória em ação de revisão de contrato pode ser executada pelo réu, mesmo sem ter havido reconvenção, tendo em vista a presença dos elementos suficientes à execução, o caráter de "duplicidade" dessas ações, e os princípios da economia, da efetividade e da duração razoável do processo (REsp nº 1.309.090/AL).
+3.- O Agravo não trouxe nenhum argumento novo capaz de modificar o decidido, que se mantém por seus próprios fundamentos.
+4.- Agravo Regimental improvido.
+(AgRg no REsp 1.446.433/SC, Relator Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 27/5/2014, DJe 9/6/2014.)
+Incide, portanto, a Súmula n. 83 do STJ, que se aplica tanto aos recursos interpostos com base na alínea "c" quanto aqueles fundamentados pela alínea "a" do permissivo constitucional:
+Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida.
+Esta Corte pacificou o entendimento segundo o qual, em regra, o reexame do valor dos honorários advocatícios arbitrados pelo Tribunal de origem encontra óbice na Súmula n. 7/STJ, pois demanda o revolvimento do contexto fático-probatório dos autos.
+Apenas em hipóteses excepcionais, quando manifestamente irrisória ou exorbitante a quantia fixada, é possível afastar o referido óbice para a revisão do valor.
+Os precedentes deste Tribunal Superior têm considerado irrisórios os honorários advocatícios fixados com base no § 4º do art. 20 do CPC/1973 em quantia inferior a 1% (um por cento) do valor da causa principal. Confiram-se:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. HONORÁRIOS ADVOCATÍCIOS ARBITRADOS EM QUANTIA INFERIOR A 1% (UM POR CENTO) DO VALOR DA CAUSA. DECISÃO MONOCRÁTICA QUE RECONHECEU A INSUFICIÊNCIA DO QUANTUM FIXADO, PROCEDENDO A SUA MAJORAÇÃO.
+1. Hipótese em que a verba honorária, baseada no artigo 20, § 4º, do CPC, restou fixada em patamar inferior a 1% do valor da causa, afigurando-se, no caso dos autos, insuficiente a remunerar condignamente o causídico.
+(..)
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.226.683/PR, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 8/10/2013, DJe 25/10/2013.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS DO DEVEDOR. VIOLAÇÃO AO ART. 535 DO CPC. INEXISTÊNCIA. OFENSA AOS ARTS. 20, §§ 3º E 4º, E 125, I, DO CPC. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO EM VALOR IRRISÓRIO. NECESSIDADE DE MAJORAÇÃO RECONHECIDA.
+(..)
+- A jurisprudência do STJ firmou-se no sentido de que o montante fixado pelas instâncias ordinárias a título de honorários advocatícios somente pode ser alterado se patente seu exagero ou quando fixado de forma irrisória, sob pena de incidência da Súmula 7/STJ.
+- Igualmente, encontra-se pacificado nesta Corte o entendimento de que, nas causas onde não há condenação, os honorários advocatícios devem ser fixados com base nos parâmetros do art. 20, § 4º, do CPC, consoante apreciação equitativa do Juiz.
+(..)
+- A jurisprudência do STJ tem considerado irrisórios honorários fixados em patamar inferior a 1% sobre o valor da causa. A fixação de honorários em R$ 100.000,00, numa execução de 26.833.608,91, portanto, comporta revisão.
+- A revisão dos honorários deve se basear nos seguintes parâmetros, previstos no § 3º do art. 20 do CPC: a) o grau de zelo do profissional; b) o lugar de prestação do serviço; c) a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+Recurso especial provido para fixar os honorários devidos aos advogados da recorrente em R$ 1.500.000,00 (um milhão e quinhentos mil de reais).
+(REsp n. 1.042.946/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 1º/12/2009, DJe 18/12/2009.)
+Com fundamento em tais precedentes, constata-se que o percentual estabelecido pelas instâncias de origem, com fundamento no art. 20, § 4º, do CPC/1973, no presente cumprimento de sentença - 1,5% (um vírgula cinco por cento) sobre o valor da execução, de R$ 8.180.144.66 (oito milhões, cento e oitenta mil, cento e quarenta e quatro reais e sessenta e seis centavos) -, não enseja a intervenção do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
