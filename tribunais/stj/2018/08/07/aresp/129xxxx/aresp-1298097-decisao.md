@@ -1,0 +1,20 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no art. 105, inciso III, alínea "a", da Carta Federal, contra acórdão do Tribunal de Justiça do Rio Grande do Sul, assim ementado:
+CÓDIGO PENAL. CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA. ART. 312. PECULATO.
+Acusação de utilização de veículos do Município (dois caminhões, e um automóvel) para se apropriarem de aproximadamente 3.384,60 litros de óleo diesel da Prefeitura Municipal de Pedras Altas, desviando-os e consumindo-os em proveito próprio.
+REJEIÇÃO DA DENÚNCIA.
+Sentença que rejeitou a denúncia, uma vez que a utilização dos veículos, e o consumo de combustível, teria sido mero crime meio para a prática do crime de extração de areia, do rio Jaguarão, objeto de denúncia no âmbito da Justiça Federal.
+APELO DO MINISTÉRIO PÚBLICO IMPROVIDO. UNÂNIME. (e-STJ fl. 752)
+Aponta o recorrente a violação do art. 312, caput, do Código Penal insurgindo-se, em síntese, contra a aplicação do princípio da consunção entre os crimes de peculato e extração ilegal de areia (crime ambiental).
+Ressalta ser "evidente que o crime de peculato trata-se de infração penal de maior gravidade do que aqueles crimes que visam à proteção da ordem econômica e do meio ambiente, em razão de o legislador ter cominado abstratamente pena superior àquele primeiro, restando, por este motivo, impossível a aplicação do princípio da consunção ao caso vertente, por somente ter lugar na hipótese de o crime mais grave absorver o mais leve, e não o contrário." (e-STJ fls. 805/806)
+ Contrarrazões às e-STJ fls. 814/820.
+Manifestação do Ministério Público Federal pelo não provimento do recurso às e-STJ fls. 894/898.
+É o relatório. Decido.
+A irresignação não prospera.
+A questão referente à aplicação do princípio da consunção foi assim enfrentada pelo Tribunal de origem:
+Segundo se percebe dos elementos apresentados, e da própria denúncia, a finalidade dos agentes, ao utilizarem os veículos do Município, era apenas e tão somente extrair areia. Se desviaram combustíveis, com o uso do maquinário, o foi para o cometimento do delito ambiental e contra o patrimônio da União, não por qualquer outra razão. A denúncia apresentada junto à Justiça Federal (fls. 681/684) é também significativa.
+Carece de autonomia o delito de peculato imputado. Na realidade, o desvio inseriu-se no desdobramento da prática de outros delitos pelos agentes, verdadeiramente desejados. É certo que a extração de areia pode dar-se sem o maquinário da municipalidade. Ocorre que, na específica hipótese dos autos, os acusados só utilizaram os veículos para o possível cometimento do delito ambiental. Não se portaram de modo intencional e deliberado a se apropriar de combustível, mas a extrair areia das margens do rio Jaguarão. Tendo se valido para tanto de bens públicos, seu apenamento para o delito ambiental, e para o crime contra o patrimônio da União, almejados, deve ser mais severo, todavia não se pode reconhecer a figura típica autônoma do peculato. (e-STJ fl. 755 - grifo nosso)
+Modificar a conclusão do Tribunal de origem acerca da inexistência de autonomia entre as condutas, demandaria aprofundada análise do acervo fático-probatório, providência incabível na via do recurso especial. Incidência do Enunciado n. 7 da Súmula do STJ. Nessa linha: AgRg no RHC 96.187/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, DJe 27/04/2018 e AgRg no AgRg no AREsp 713.473/PR, desta Relatoria, DJe 12/08/2016.
+Registre-se, por oportuno, que o princípio da consunção pode ser aplicado mesmo diante de delitos com diversidade de bem jurídicos tutelados, ou quando o delito abstratamente mais grave - com maior pena - é absorvido pelo menos grave, hipótese que, inclusive, deu origem ao enunciado n. 17 da Súmula desta Corte Superior de Justiça. A propósito: HC 388.543/SP, Rel. Ministro NEFI CORDEIRO, Sexta Turma, DJe 08/03/2018 e AgRg no REsp 1620908/RO, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 28/04/2017.
+Ante o exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
