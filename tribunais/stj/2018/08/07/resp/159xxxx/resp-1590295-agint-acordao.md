@@ -1,0 +1,44 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. EQUIDADE. REVISÃO. INVIABILIDADE.
+1. "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" - Enunciado 2.
+2. Não é viável na instância especial a revisão do juízo de equidade realizado para a fixação do valor da verba honorária (art. 20, § 4º, do CPC/1973), porquanto esse mister guarda relação com a percepção subjetiva do julgador e exige o reexame do histórico processual, o que esbarra no óbice da Súmula 7 desta Corte.
+3. O Superior Tribunal de Justiça só admite a reapreciação de honorários advocatícios quando arbitrados em valor irrisório ou exorbitante, em flagrante violação da norma processual de regência, o que não é o caso dos autos.
+4. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça , por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno interposto por [NOME] contra decisão de e-STJ fls. 144/147, que negou provimento ao recurso especial, nos termos do art. 932, IV, do CPC/2015, c/c o art. 255, § 4º, II, do RISTJ, ao entendimento de que a verba honorária fixada em patamar correspondente a 20% do valor da condenação não se mostra desarrazoada, de modo que o seu reexame esbarra no óbice da Súmula 7 do STJ.
+Na presente irresignação, o agravante alega que, em casos idênticos, esta Corte, deixando de considerar o valor da condenação, tem afastado a incidência da sua Súmula 7 para majorar honorários (e-STJ fls. 153/164).
+Impugnação às e-STJ fls. 170/175.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" - Enunciado 2.
+Feito o registro, tem-se que, não obstante os argumentos despendidos, a decisão deve ser mantida por seus próprios fundamentos.
+Com efeito, vale salientar que, em regra, não é viável na instância especial a revisão do juízo de equidade realizado pelo magistrado para fixar o valor da verba honorária, nos termos do art. 20, § 4º, do CPC/1973, porquanto esse mister, além de exigir o reexame do histórico processual, notadamente para mensurar o trabalho realizado pelo advogado, não guarda relação direta com a legalidade da decisão atacada, mas sim com a percepção do julgador, que é de cunho estritamente subjetivo.
+Excepcionalmente, todavia, esta Corte Superior admite o apelo especial para reapreciar honorários advocatícios quando arbitrados em valor irrisório ou exorbitante, pois, nesses casos, a violação à aludida norma processual exsurge de maneira flagrante, a justificar a intervenção deste Sodalício como meio de preservar a aplicação da lei federal de regência.
+Acerca do tema, assim decidiu a Corte Especial no julgamento do AgRg nos EDcl no Ag n. 1.409.571/RS, relator Ministro Napoleão Nunes Maia Filho, Corte Especial, DJe 06/05/2013.
+Na hipótese do autos, o Estado de Minas Gerais foi condenado, em ação de cobrança, ao pagamento de R$ 500,00 ao agravante (defensor dativo). No julgamento da apelação, o Tribunal de origem deu parcial provimento ao recurso, ao seguinte entendimento, no que se refere ao honorários do advogado (e-STJ fl. 83):
+ ..
+No que tange à verba honorária sucumbencial, vale anotar que, nas ações em que for vencida a Fazenda Pública, os honorários devem ser arbitrados por apreciação equitativa, observados o grau de zelo do profissional, o lugar da prestação do serviço e a natureza e importância da causa, além do trabalho realizado pelo advogado e o tempo exigido para o serviço, nos termos do § 4º do art. 20 do CPC.
+No caso dos autos, é de se ver que a demanda não reclamou dilação probatória e, tampouco, maiores diligências por parte do advogado, diante da tramitação rápida do processo e da reiterada jurisprudência a respeito da matéria, razão pela qual entendo merecer reforma a sentença, para que sejam reduzidos os honorários de sucumbência para R$ 100,00 (cem reais).
+Com efeito, tenho que a fixação da verba honorária, na forma como definida pela Corte a quo, não se mostra desarrazoada, mantendo meu entendimento no sentido de que o apelo nobre deve ser obstado em face do enunciado da Súmula 7 do STJ.
+A propósito, consultem-se os seguintes precedentes:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 535 DO CPC/1973. VIOLAÇÃO. INOCORRÊNCIA. CDA. REQUISITOS LEGAIS. VERIFICAÇÃO. INVIABILIDADE. HONORÁRIOS ADVOCATÍCIOS. JUÍZO DE EQUIDADE. VALOR RAZOÁVEL. REVISÃO.
+IMPOSSIBILIDADE. 1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. O acolhimento de recurso especial por violação do art. 535 do CPC/1973 pressupõe a demonstração de que a Corte de origem, mesmo depois de provocada mediante embargos de declaração, deixou de sanar vício de integração contido em seu julgado, o que não ocorreu na espécie.
+3. A verificação acerca do preenchimento dos requisitos de validade da Certidão de Dívida (CDA) pressupõe o reexame de matéria fático-probatória, o que é inviável no âmbito do recurso especial, ante o óbice da Súmula 7 do STJ. Precedentes.
+4. Via de regra, não se admite o apelo especial para reapreciar honorários advocatícios fixados por equidade, em face do óbice da Sumula 7 do STJ, exceto quando quantificados em valor irrisório ou exorbitante, o que não é o caso dos autos.
+5. Agravo interno desprovido. (AgInt no AREsp n. 302.564/RJ, de minha relatoria, PRIMEIRA TURMA, DJe 07/05/2018).
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. HONORÁRIOS
+ADVOCATÍCIOS SUCUMBENCIAIS. REVISÃO. PRETENSÃO DE REEXAME DE PROVA. SÚMULA N. 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+I - A jurisprudência da Segunda Turma do STJ é no sentido de que o juízo relativo ao montante abusivo ou irrisório não pode ser extraído simplesmente mediante cotejo entre o valor da causa e o percentual arbitrado nas instâncias de origem.
+II - Hipótese em que o Tribunal a quo, após análise dos elementos fáticos dos autos e fundado em juízo de equidade, fixou o valor da verba honorária considerando as peculiaridades da demanda. Diante dessas considerações assentadas por órgão julgador soberano na análise de matéria fático-probatória, não há como concluir pela irrisoriedade.
+III - Nesse contexto, alterar os honorários advocatícios fixados pelo Tribunal de origem consoante apreciação equitativa afronta, inevitavelmente, o teor do enunciado n. 7 da Súmula do STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+IV - A Segunda Turma do STJ, no julgamento do AgRg no AREsp n. 532.550/RJ, convencionou que a desproporção entre o valor da causa e o valor arbitrado a título de honorários advocatícios não denota, necessariamente, irrisoriedade ou exorbitância da verba honorária, que deve se pautar na análise da efetiva complexidade da causa e do trabalho desenvolvido pelo causídico no patrocínio dos interesses de seu cliente.
+V - Agravo interno improvido. (AgInt no AREsp n. 1.185.828/RJ, relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 21/03/2018).
+Impende destacar, por fim, que os julgados citados pelo agravante como divergentes não se assemelham ao caso vertente. Com efeito, nos REsp"s n. 1.397.690, 1.474.133, 1.290.520, todos de MG, os honorários foram arbitrados pelas instâncias ordinárias em quantias inferiores a 5% dos valores das respectivas causas, circunstância que demonstra a ausência de similitude fática entre os arestos confrontados.
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
