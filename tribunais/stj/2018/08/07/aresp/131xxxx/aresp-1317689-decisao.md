@@ -1,0 +1,34 @@
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AÇÃO ORDINÁRIA. CONTRATO DE PROMOÇÃO DE VENDAS. TELEFONIA CELULAR. ALEGAÇÃO DE NATUREZA JURÍDICA DE REPRESENTAÇÃO COMERCIAL. INTERPOSIÇÃO DO RECURSO ESPECIAL PELA ALÍNEA "C" DO PERMISSIVO CONSTITUCIONAL. DISPOSITIVO DE LEI FEDERAL NÃO APONTADO. AUSÊNCIA DE COTEJO ANALÍTICO. SÚMULA Nº 284, DO STF, POR ANALOGIA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+SERVIZIO CONSULTORIA E TREINAMENTO LTDA (SERVIZIO) promoveu contra CLARO S.A. (CLARO) ação ordinária em que pleiteou indenização por resilição de contrato de promoção de vendas de serviços de telefonia celular. Alegou que, embora não esteja explícito na avença, a natureza jurídica seria de representação comercial. Sustentou, ademais, que a ré estornou indevidamente as comissões recebidas pelas vendas efetuadas sob a justificativa de saída prematura de clientes.
+O pedido foi julgado improcedente (e-STJ, fls. 162/168).
+SERVIZIO apelou e o Tribunal de Justiça do Rio Grande do Sul não deu provimento ao recurso em acórdão assim ementado:
+CONTRATO DE AGÊNCIA/DISTRIBUIÇÃO. SERVIÇOS DE TELEFONIA. NÃO INCIDÊNCIA DA LEI QUE REGRA OS CONTRATOS DE REPRESENTAÇÃO COMERCIAL. AFASTAMENTO DO PEDIDO DE INDENIZAÇÃO POR RESCISÃO DO CONTRATO NOS MOLDES DA LEI N. 4.886/1968. ALEGAÇÃO DE CLÁUSULA ABUSIVA QUANTO AO ESTORNO DAS COMISSÕES. NÃO VERIFICADA ABUSIVIDADE. MANTIDO O JULGAMENTO DE IMPROCEDÊNCIA DA AÇÃO. MAJORAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS. APELO DA AUTORA DESPROVIDO. APELO DA RÉ PROVIDO (e-STJ, fl. 250).
+Inconformada, SERVIZIO interpôs recurso especial com base no art. 105, III, c, da Constituição Federal, por violação do art. 27, j, e § 1º, da Lei 4.886/1965. Alegou divergência jurisprudencial quanto à tipificação do contrato objeto da lide, que teria a natureza jurídica de representação comercial (e-STJ, fls. 263/277)
+Em juízo de admissibilidade, a vice-presidência do Tribunal de origem inadmitiu o apelo nobre. Dessa decisão, foi interposto o presente agravo em recurso especial.
+Contraminuta apresentada (e-STJ, fls. 330/332).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Conheço do agravo e passo à apreciação do recurso especial.
+A irresignação não merece prosperar.
+A recorrente interpôs o apelo nobre pela alínea c do permissivo constitucional, mas deixou de apontar o dispositivo de lei sobre o qual se funda a alegação de divergência jurisprudencial. Com efeito, a indicação do art. 27 da Lei 4.886/1965 não corresponde ao alegado dissídio, uma vez que se trata da fixação, por contrato, da indenização por eventual rescisão contratual.
+Ademais, não houve o devido cotejo analítico entre a decisão objurgada e o julgado apontado como paradigma, com a demonstração da identidade das situações fáticas e da interpretação diversa dada ao mesmo dispositivo. A simples transcrição da ementa dos precedentes paradigmas não atende às exigências dos artigos 1.029, § 1º, do NCPC e 255, § 1º e § 2º, do RISTJ. Incide, assim, o enunciado da Súmula nº 284 do STF, por analogia. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PEDIDO DE MAJORAÇÃO DO VALOR ARBITRADO A ESSE TÍTULO. RECLAMO FUNDADO EM DISSENSO JURISPRUDENCIAL. DISSÍDIO NÃO DEMONSTRADO. COTEJO ANALÍTICO NÃO EFETUADO. AUSÊNCIA DE INDICAÇÃO DOS ARTIGOS CUJA INTERPRETAÇÃO SEJA DIVERGENTE. INCIDÊNCIA DA SÚMULA 284 DO STF. INTERPOSIÇÃO DE DOIS AGRAVOS INTERNOS CONTRA A MESMA DECISÃO JUDICIAL. IMPOSSIBILIDADE. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE RECURSAL. AGRAVO INTERNO DE FLS. 365-380 DESPROVIDO. AGRAVO INTERNO DE FLS. 381-396 NÃO CONHECIDO.
+ ..
+2. O dissídio jurisprudencial não foi comprovado, pois a parte agravante não efetuou o devido cotejo analítico entre as hipóteses apresentadas como divergentes, com transcrição dos trechos dos acórdãos confrontados, bem como menção das circunstâncias que os identifiquem ou assemelhem, nos termos dos arts. 541, parágrafo único, do CPC/1973 (ou 1.029, § 1º, do CPC/2015) e 255, §§ 1º e 2º, do RISTJ.
+3. Para interposição do apelo extremo com base na alínea c do permissivo constitucional também é necessária a indicação do dispositivo legal tido por vulnerado, sob pena de incidência do enunciado n. 284 da Súmula do Supremo Tribunal Federal. Precedentes.
+4. Razões recursais insuficientes para a revisão do julgado.
+5. Agravo interno de fls. 365-380 desprovido. Agravo interno de fls.
+381-396 não conhecido.
+(AgInt no AREsp 1178689/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 27/2/2018, DJe 9/3/2018, sem destaques no original)
+AGRAVO INTERNO NO AGRAVO (ART. 1.042 DO CPC/15) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DA RÉ.
+1. O conhecimento da divergência jurisprudencial demanda o preenchimento dos seguintes requisitos: i) a indicação do dispositivo legal objeto de interpretação divergente; ii) a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados; iii) a realização do cotejo analítico entre elas, nos moldes exigidos pelo art. 1.029, §1º, do NCPC (art. 541, parágrafo único, do CPC/1973).
+2. Incide a Súmula 284/STF ao recurso especial interposto pela alínea "c" do permissivo constitucional quando a parte não indica o dispositivo de lei interpretado de forma dissonante pelos arestos paradigma e paragonado, conforme entendimento pacífico do STJ. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1147897/SP, Rel. Ministro MARCO BUZZI, Quarta Turma, julgado em 20/2/2018, DJe 27/2/2018, sem destaques no original)
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo, para NÃO CONHECER do recurso especial.
+Considerando-se a aplicabilidade das regras do NCPC e o não conhecimento do recurso especial, MAJORO os honorários advocatícios anteriormente fixados em desfavor de SERVIZIO em 5%, nos termos do § 11 do art. 85 do NCPC.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º, e 1.026, § 2º).
+Publique-se. Intimem-se.
