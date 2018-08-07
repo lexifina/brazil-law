@@ -1,0 +1,18 @@
+Trata-se de agravo contra decisão em que se negou seguimento ao recurso extraordinário interposto em face de acórdão no qual se julgou impertinente a discussão sobre capitalização de juros em contratos de arrendamento mercantil, por não envolver financiamento, mas mero arrendamento com opção de compra ao final do prazo fixado contratualmente.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 59, 62, § 1°, III, e 192 da mesma Carta, sob o argumento de que é inconstitucional a cobrança da capitalização de juros em periodicidade inferior a um ano, conforme previsto no art. 5º da Medida Provisória 2.170/2001.
+    A pretensão recursal não merece acolhida.
+    O Tribunal de origem dirimiu a controvérsia sobre a capitalização de juros com apoio nos seguintes fundamentos:
+    “Em relação ao pedido de reconhecimento da ilegalidade da cobrança de juros capitalizados, razão não assiste ao apelante.
+    É de se ressaltar que não consta do instrumento da avença (fls. 47/49) qualquer previsão de pagamento de prestações periódicas a título de amortização, com incidência de juros remuneratórios sobre valores emprestados, situação necessária à caracterização do contrato de financiamento.
+    Impende destacar que, em que pese a r. sentença objurgada ter considerada legítima a capitalização mensal, entendo inviável qualquer discussão acerca dessa matéria nos contratos de arrendamento mercantil, justamente por não envolver financiamento, mas mero arrendamento com opção de compra ao final do prazo fixado contratualmente.
+    (...)
+    Enfatize-se que a discussão a respeito da constitucionalidade ou inconstitucionalidade do artigo 5o da MP 2.170-36, de 23 de agosto de 2001, que admite a capitalização de juros com periodicidade inferior a um ano nas operações realizadas pelas instituições integrantes do Sistema Financeiro Nacional, mostra-se inócua para o exame da higidez do contrato de arrendamento mercantil” (págs. 47 e 51 do documento eletrônico 3).
+    O recorrente, todavia, não impugnou esses fundamentos, cingindo-se a alegar a inconstitucionalidade da capitalização de juros prevista na MP 2.170/2001.
+    Desse modo, incide na espécie a Súmula 284 desta Corte, tendo em vista a deficiente fundamentação do apelo extremo. Nesse sentido, destaco o ARE 707.117-AgR/MG, Rel. Min. Rosa Weber, cuja ementa segue transcrita:
+    “Ementa: DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. REPRESENTAÇÃO SINDICAL. SUBSTITUTO PROCESSUAL. ILEGIMIDADE ATIVA AD CAUSAM. ENTIDADE SINDICAL ESPECÍFICA. RECURSO EXTRAORDINÁRIO QUE NÃO ATACA OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA 284/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 03.8.2010. Deficiência na fundamentação por ausência de ataque, nas razões do recurso extraordinário, aos fundamentos do acórdão recorrido. Aplicação da Súmula 284/STF: ‘É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.’ Agravo regimental conhecido e não provido” (grifei).
+    Ademais, para divergir do acórdão recorrido quanto ao entendimento de que a hipótese em análise, por tratar de arrendamento mercantil, não enseja a capitalização de juros, seria necessário o reexame de provas e de cláusulas contratuais, o que é vedado pelas Súmulas 279/STF e 454/STF. No mesmo sentido, cito as seguintes decisões, entre outras: ARE 1.096.526/SP, Rel. Min. Edson Fachin; AI 816.553/RS, de minha relatoria; ARE 949.061/SP, Rel. Min. Gilmar Mendes; ARE 980.561/SP, Rel. Min. Cármen Lúcia; e ARE 974.653/MS, Rel. Min. Dias Toffoli.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do CPC).
+    Publique-se.
+    Brasília, 7 de agosto de 2018.
+Ministro Ricardo Lewandowski
+Relator
