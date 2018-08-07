@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO ACRE, contra decisão que não admitiu recurso especial ofertado de acórdão do Tribunal de Justiça do Estado do Piauí, manejado com base no art. 105, III, alínea "a", da Constituição Federal.
+Sustenta o agravante, nas razões do recurso especial, violação do art. 121, § 2º, I e IV c/c 14, II, e 25, ambos do Código Penal.
+Alega, em síntese que: a) ""o Tribunal do Júri ao absolver o recorrido, exarou decisão manifestamente contrária à prova dos autos, diante da conduta incontroversa de que o recorrido tentou matar a vítima pelo simples fato do ofendido tentar impedir que o recorrido adentrasse na residência, para agredir sua esposa, circunstância que afasta a excludente da legitima defesa, ante a ausência do requisito legal da injusta agressão atual ou iminente""; b) o acórdão combatido ""deixou de tipificar corretamente a conduta incontroversa do recorrido""; c) ""não se aplica a Súmula 07, do STJ, uma vez que o recorrente não pretende o reexame da matéria fático-probatória, e sim a correta adequação típica da conduta incontroversa do recorrido, reconhecida no acórdão impugnado"".
+Requer a anulação do julgamento em questão, determinando-se a realização de novo Júri.
+Apresentadas as contrarrazões (e-STJ, fls.210-218).
+O recurso foi inadmitido com fundamento na Súmula 7/STJ (e-STJ, fls. 219-220).
+O Ministério Público Federal opinou pelo desprovimento do agravo (e-STJ, fls. 250-254).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+Na análise do crime, formalmente considerado, reconhecido o fato típico, pela teoria da indiciariedade de Mayer, gera indícios de ilicitude. Essa presunção relativa inverte o ônus da prova no que diz respeito às descriminantes, sendo ônus da defesa provar os requisitos.
+No rito do júri, ao término da primeira fase, uma das possibilidades do Juiz sumariante é a absolvição sumária, com base no artigo 415 do Código de Processo Penal, com redação dada pela Lei n. 11.689, de 2008, in verbis:
+"Art. 415, CPP: O juiz, fundamentadamente, absolverá desde logo o acusado, quando:
+I - provada a inexistência do fato;
+II - provado não ser ele autor ou partícipe do fato;
+III - o fato não constituir infração penal;
+IV - demonstrada causa de isenção de pena ou de exclusão do crime.
+Parágrafo único. Não se aplica o disposto no inciso IV do caput deste artigo ao caso de inimputabilidade prevista no caput do art. 26 do Decreto-Lei n. 2.848, de 7 de dezembro de 1940 - Código Penal, salvo quando esta for a única tese defensiva."
+Por se tratar de questão que envolve o mérito da ação penal, julgando improcedente a pretensão punitiva do Estado, e pela dúvida não militar em favor do acusado nessa fase do procedimento, exige-se um juízo de certeza para absolver sumariamente.
+Ao analisar o recurso do parquet, o Tribunal de origem, cotejando os elementos fáticos e os probatórios, manteve a presença da legítima defesa, excludente da antijuridicidade, assim consignando:
+" ..
+Nesse passo, a anulação do julgamento, com fundamento na alínea "d" do inciso III, do artigo 593 do Código de Processo Penal, isto é, quando a decisão dos jurados for manifestamente contrária às provas dos autos, deve ser restrito as hipóteses em que o Conselho de Sentença decide absolutamente divorciado do conjunto probatório, e não quando confere as provas interpretações divergentes do Tribunal Togado, sob pena de violação do princípio constitucional da soberania dos veredictos do júri.
+Assim, não há que se falar em julgamento contrário as provas dos autos, sendo que a possibilidade do Tribunal do Juri acolher a tese defensiva não contraria o acervo probatório, visto a viabilidade de interpretação diversa daquela pretendida pela acusação.
+Noutro viés, em se tratando de delitos de competência constitucional do Tribunal do Juri, deve-se observar o princípio da soberania dos vereditos, de modo que inexiste, a meu ver, qualquer julgamento contrário ao acerco probatório produzido na ação penal sob análise, que culmine em submissão a novo julgamento, sob pena de que, em caso de provimento do recurso, se incorre em ofensa ao postulado mencionado.
+A soberania do Júri, de feição constitucional, autoriza ao Conselho de Sentença decidir pela versão que lhe parecer mais plausível, sendo imperiosa a obrigação de respeito à decisão dos jurados que optaram por uma das teses lhes apresentadas.
+A decisão dos jurados, no caso em tela, não destoa do conjunto probatório, ao revés, possui com o mesmo perfeita harmonia, não se sustentando assim a alegação recursal, de anulação do julgamento.
+Outrossim, na ocasião do julgamento, quando o jurado respondeu o 4º quesito, extrai-se que os mesmos responderam que absolvem o acusado [NOME].
+Ressalte-se que a própria vítima [NOME], quando ouvida em juízo, assim declarou;
+"Que estava no portão da casa de sua avó, quando o acusado chegou procurando a esposa que lá se encontrava, e quis adentrar no portão, ocasião em que desferiu-lhe uma ripada por cima do ombro e continuou a batendo-lhe no chão, quando sentiu que recebeu golpes de faca".
+ .. ." (e-STJ, fls. 187-188).
+Como é sabido, o Tribunal do Júri é soberano para decidir com fundamento nas provas produzidas no processo judicial, as quais serão submetidas ao crivo do contraditório e da ampla defesa.
+No caso dos autos, a Corte a quo decidiu pela manutenção do decisum proferido pelo Conselho de Sentença, por entender que ""a possibilidade do Tribunal do Juri acolher a tese defensiva não contraria o acervo probatório, visto a viabilidade de interpretação diversa daquela pretendida pela acusação"".
+Nos termos da jurisprudência desta Corte Superior de Justiça, o "recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias no âmbito dos recursos extraordinários." (AgRg no AREsp 451.725/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 19/05/2015, DJe 27/05/2015).
+Ademais, não se mostra plausível nova análise do contexto probatório por parte desta Corte Superior, a qual não pode ser considerada uma terceira instância recursal. No mais, referida vedação encontra respaldo no enunciado 7 da Súmula desta Corte Superior de Justiça, verbis: "A pretensão de simples reexame de prova não enseja Recurso Especial"
+A propósito:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA. TESE DE AUSÊNCIA DE INDÍCIOS DE AUTORIA. REEXAME DE PROVAS. SÚMULAS 7/STJ. I - Para examinar a tese de violação ao art. 414 do CPP de que inexiste indícios suficientes a respaldar a pronúncia do ora agravante, seria imperioso reexaminar o conjunto fático-probatório, providência vedada nos termos da Súmula 7/STJ.
+II - "É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes para absolver sumariamente, pronunciar, desclassificar, ou ainda, impronunciar o réu, porquanto é vedado na via eleita o reexame de fatos e provas. Súmula 7/STJ" (AgRg no AREsp n. 683.092/MT, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 10/6/2015). Agravo regimental improvido" (AgRg no REsp n. 1.388.381/MT, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 3/8/2015).
+Agravo regimental não provido." (AgRg no AREsp 1071699/PA, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 03/08/2017, DJe 18/08/2017; grifou-se).
+"PENAL. AGRAVO REGIMENTAL EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. HOMICÍDIOS DUPLAMENTE QUALIFICADOS E HOMICÍDIOS TENTADOS. MOTIVO TORPE. RECURSO QUE DIFICULTOU A DEFESA DAS VÍTIMAS. DECISÃO DO CONSELHO DE SENTENÇA. ALEGAÇÃO DE JULGAMENTO CONTRÁRIO À PROVA DOS AUTOS. SOBERANIA. ACOLHIMENTO DE UMA DAS TESES. CONJUNTO PROBATÓRIO. SÚMULA 7/STJ. DOSIMETRIA. AUSÊNCIA DE ILEGALIDADE. FUNDAMENTOS ADEQUADOS. ALEGAÇÃO DE NULIDADES PROCESSUAIS. NÃO OCORRÊNCIA. SÚMULA 284/STF.1.
+ ..
+2. Modificar as conclusões consignadas no acórdão impugnado para concluir de forma diversa, quanto ao total da fração fixada para o aumento pelo crime continuado, necessitaria a incursão no conjunto fático-probatório das provas e nos elementos de convicção dos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7/STJ.
+3. Se a decisão do Júri se encontra amparada em uma das versões constantes nos autos, como ocorrido na presente hipótese, deve ser respeitada, consagrando o princípio da soberania dos veredictos do Tribunal do Júri.4. Agravo regimental improvido" (AgRg no AREsp 903051 / SP; Relator(a) Ministro SEBASTIÃO REIS JÚNIOR (1148), Sexta Turma, julgado em 13/9/2016, DJe 22/9/2016).
+"AGRAVO REGIMENTAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. PENAL. PROCESSUAL PENAL. HOMICÍDIO. SENTENÇA DE PRONÚNCIA. AUSÊNCIA DE INDÍCIOS DE AUTORIA, DE MATERIALIDADE E DAS QUALIFICADORAS. IMPRONÚNCIA. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DO STJ. SÚMULA 83/STJ. ACÓRDÃO FUNDADO NOS ELEMENTOS PROBATÓRIO DOS AUTOS. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Não há como abrigar agravo regimental que não logra desconstituir os fundamentos da decisão atacada.
+2. Inexistindo dúvida quanto à ausência de indícios da qualificadora, não há falar em aplicação do princípio do in dubio pro societate.
+3. É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes para absolver sumariamente, pronunciar, desclassificar, ou ainda, impronunciar o réu, porquanto é vedado na via eleita o reexame de fatos e provas. Súmula 7/STJ (AgRg no AREsp n. 683.092/MT, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 10/6/2015).
+4. Agravo regimental improvido." (AgRg no REsp 1388381/MT, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 18/06/2015, DJe 03/08/2015; grifou-se).
+Ante o exposto, conheço do agravo, para, com fulcro no art. 932, III, do Código de Processo Civil, combinado com o art. 253, parágrafo único, II, a, do RISTJ, não conhecer do recurso especial.
+Publique-se. Intimem-se.
