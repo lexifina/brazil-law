@@ -1,0 +1,402 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 10
+
+07/08/2018
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.125.439
+MINAS GERAIS
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MIN. CELSO DE MELLO
+: JULIANO AZEVEDO DE CARVALHO
+: LUIZ FERNANDO VALLADAO NOGUEIRA
+: MINISTÉRIO PÚBLICO DO ESTADO DE MINAS
+GERAIS
+: PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DE
+MINAS GERAIS
+: MARGARIDA DOS SANTOS BELTRÃO
+: GERALDO ANTÔNIO CLARET BELTRÃO
+: GIOVANNI LOPES BACELAR
+
+E M E N T A: RECURSO EXTRAORDINÁRIO COM AGRAVO –
+MATÉRIA PENAL – REEXAME DE FATOS E PROVAS –
+IMPOSSIBILIDADE – SÚMULA 279/STF – OFENSA AO ART. 93, IX,
+DA CONSTITUIÇÃO DA REPÚBLICA – INOCORRÊNCIA – AGRAVO
+INTERNO IMPROVIDO.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros do
+Supremo Tribunal Federal, em Sessão Virtual da Segunda Turma, na
+conformidade da ata de julgamentos, por unanimidade de votos, em
+negar provimento ao recurso de agravo, nos termos do voto do Relator.
+Brasília, Sessão Virtual de 29 de junho a 06 de agosto de 2018.
+CELSO DE MELLO – RELATOR
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 748021414.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 2 de 10
+
+07/08/2018
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.125.439
+MINAS GERAIS
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MIN. CELSO DE MELLO
+: JULIANO AZEVEDO DE CARVALHO
+: LUIZ FERNANDO VALLADAO NOGUEIRA
+: MINISTÉRIO PÚBLICO DO ESTADO DE MINAS
+GERAIS
+: PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DE
+MINAS GERAIS
+: MARGARIDA DOS SANTOS BELTRÃO
+: GERALDO ANTÔNIO CLARET BELTRÃO
+: GIOVANNI LOPES BACELAR
+
+RE LAT Ó RI O
+
+O SENHOR MINISTRO CELSO DE MELLO – (Relator): Trata-se
+de agravo interno, tempestivamente interposto, contra decisão que, ao
+apreciar o ARE, não conheceu do recurso extraordinário a que ele se refere,
+por ser este manifestamente inadmissível.
+Inconformada com esse ato decisório, a parte ora agravante interpõe
+o presente agravo interno, postulando o provimento do recurso que
+deduziu.
+Por não me convencer das razões expostas, submeto à apreciação
+desta colenda Turma o presente recurso de agravo.
+É o relatório.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 748021415.
+
+Supremo Tribunal Federal
+Voto - MIN. CELSO DE MELLO
+
+Inteiro Teor do Acórdão - Página 3 de 10
+
+07/08/2018
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.125.439
+MINAS GERAIS
+
+VOTO
+O SENHOR MINISTRO CELSO DE MELLO – (Relator): Não
+assiste razão à parte ora recorrente, eis que a decisão agravada ajusta-se,
+com integral fidelidade, à diretriz jurisprudencial firmada pelo Supremo
+Tribunal Federal na matéria ora em exame.
+Na realidade, os argumentos apresentados pela parte agravante
+mostram-se insuficientes para alterar o ato impugnado, pois consistem
+em mera reiteração dos fundamentos anteriormente deduzidos e que
+foram devidamente refutados na decisão que se busca reformar, razão
+pela qual deve ser mantido o julgamento em referência, eis que o suporte
+argumentativo em que se apoia o ato decisório mencionado é suficiente
+para justificar a resolução do litígio recursal.
+Com efeito, tal como ressaltado na decisão ora impugnada, o
+recurso extraordinário deduzido nestes autos foi interposto por Juliano
+Azevedo de Carvalho contra acórdão que, confirmado em sede de
+embargos de declaração pelo E. Tribunal de Justiça do Estado de Minas
+Gerais, está assim ementado:
+“APELAÇÃO CRIMINAL – PRELIMINAR – NULIDADE
+NA FORMULAÇÃO DOS QUESITOS – INVERSÃO DA
+ORDEM – NÃO OCORRÊNCIA – PRELIMINAR REJEITADA –
+HOMICÍDIO QUALIFICADO – DECISÃO CONTRÁRIA À
+PROVA DOS AUTOS – NÃO OCORRÊNCIA – EXCLUSÃO DE
+QUALIFICADORA – IMPOSSIBILIDADE – CUSTAS –
+SUSPENÇÃO DA EXIGIBILIDADE.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 748021416.
+
+Supremo Tribunal Federal
+Voto - MIN. CELSO DE MELLO
+
+Inteiro Teor do Acórdão - Página 4 de 10
+
+ARE 1125439 AGR / MG
+O § 4º do art. 483 do CPP permite ao juiz formular quesito
+quanto à desclassificação do delito após o quesito relativo à autoria ou
+após o quesito relativo à absolvição. Tendo o juiz formulado tal quesito
+após o quesito da autoria, não há que se falar em irregularidade.
+Preliminar rejeitada.
+O fato de o Tribunal do Júri não ter acolhido as teses defensivas,
+especialmente quanto a ausência de autoria em relação ao réu, não se
+mostra com substância que permita encaminhar o Júri para o âmbito
+do nulo.”
+
+A parte ora agravante, ao deduzir o apelo extremo em questão,
+sustentou que a decisão recorrida teria vulnerado os preceitos inscritos
+nos arts. 5º, XXXVIII, “c”, e 93, IX, da Constituição Federal.
+O exame dos autos evidencia que o recurso extraordinário não se
+revela viável.
+Cumpre salientar, desde logo, que não se revela cabível proceder, em
+sede recursal extraordinária, a indagações de caráter eminentemente
+probatório, especialmente quando se busca discutir elementos fáticos
+subjacentes à causa penal.
+No caso, a verificação da procedência, ou não, das alegações
+deduzidas pela parte recorrente implicará necessário reexame de fatos e
+de provas, o que não se admite na sede excepcional do apelo extremo.
+Essa pretensão sofre as restrições inerentes ao recurso
+extraordinário, em cujo âmbito não se reexaminam fatos e provas,
+circunstância essa que faz incidir, na espécie, a Súmula 279 do Supremo
+Tribunal Federal.
+Não custa enfatizar, consoante adverte o magistério da doutrina
+(ADA PELLEGRINI GRINOVER, ANTONIO MAGALHÃES GOMES
+FILHO e ANTONIO SCARANCE FERNANDES, “Recursos no Processo
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 748021416.
+
+Supremo Tribunal Federal
+Voto - MIN. CELSO DE MELLO
+
+Inteiro Teor do Acórdão - Página 5 de 10
+
+ARE 1125439 AGR / MG
+Penal”, p. 269/270, item n. 176, 1996, RT), que o reexame dos fatos e das
+provas constitui tema estranho ao âmbito de atuação do recurso
+extraordinário (Súmula 279/STF), ainda que se cuide, como no caso, de
+matéria de índole penal.
+A mera análise do acórdão recorrido demonstra que o
+E. Tribunal de Justiça do Estado de Minas Gerais, no julgamento da
+apelação, sustentou as suas conclusões em aspectos fático-probatórios:
+“No mérito, requereu a anulação do júri por entender ser a
+decisão tomada pelo Conselho de Sentença contrária à prova dos autos,
+tanto em relação à autoria, quanto em relação ao dolo eventual.
+Alternativamente, requer a reforma da decisão excluindo a
+qualificadora do motivo fútil que não restou demonstrada nos autos e
+que é, segundo a defesa, incompatível com o dolo eventual.
+…...................................................................................................
+A tese de que a decisão proferida pelo Conselho de Sentença se
+articulou manifestamente contrária à prova dos autos não convence
+por faltar a fonte em que alicerçado o argumento.
+O fato de o Tribunal do Júri não ter acolhido as teses defensivas,
+especialmente quanto à ausência de autoria e quanto ao dolo eventual,
+não se mostra com substância que permita encaminhar o Júri para o
+âmbito do nulo.
+Apesar de o réu afirmar que colidiu algumas vezes no veículo
+das vítimas, porém sem intenção e sem assumir o risco de produzir o
+resultado morte, sua versão está dissociada da realidade dos autos
+(fl. 877/878):
+…...................................................................................................
+A vítima sobrevivente Anderson Alexandre de Souza, que
+também estava no interior do veículo Celta, afirmou que o réu o
+perseguiu após a batida em Campanha e provocou diversas colisões no
+Celta, sendo que uma delas fez com o veículo capotasse:
+Anderson Alexandre de Souza (fls. 866/867):
+‘que o veículo dirigido pela vítima JOSÉ LOURENÇO
+em que o declarante se encontrava, foi perseguido pelo veículo
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 748021416.
+
+Supremo Tribunal Federal
+Voto - MIN. CELSO DE MELLO
+
+Inteiro Teor do Acórdão - Página 6 de 10
+
+ARE 1125439 AGR / MG
+dirigido pelo réu JULIANO, até o momento em que ocorreu o
+acidente; que o acidente ocorreu em razão das freqüentes batistas
+(sic) ocasionadas pelo veículo Fiat Stilo, conduzido pelo réu
+JULIANO, na traseira do veículo Celta, que era conduzido pela
+vítima JOSÉ LOURENÇO; que a vítima JOSÉ LOURENÇO
+apesar de estar apavorada, naquele momento, mantinha a
+velocidade do veículo em que conduzia, chegando a frear as
+vezes o veículo, mas as colisões dadas pelo veículo conduzido
+pelo réu JULIANO no veículo da vítima JOSÉ LOURENÇO
+eram intencionais; que em razão das batistas o veículo
+conduzido pela vítima JOSÉ LOURENÇO, em que o declarante
+também se encontrava, saiu da pista de rolamento e capotou
+(...)’.
+A vítima sobrevivente viu como todos os fatos ocorreram e
+narrou os fatos de maneira firme, convincente e pormenorizada.
+Assim, quanto à autoria não há que se falar que a decisão dos
+jurados contrariou a prova dos autos, sendo que foram produzidas
+provas dos dois sentidos (presença e ausência de autoria) sendo os
+jurados livres para concluir, pautados na íntima convicção, pela tese
+que lhes pareceu mais verossímil.
+A atitude do réu de colidir por diversas vezes no veículo das
+vítimas, enquanto este estava em movimento, por si só, é passível de
+demonstrar que o réu agiu com dolo eventual, sendo que ao colidir em
+um veículo em movimento a possibilidade do condutor de tal veículo
+perder o controle da direção e sofrer um acidente grave, podendo
+inclusive levar até sua morte, é altíssima e pode ser deduzida por
+qualquer pessoa de diligência comum.”
+
+É importante referir, por relevante, que o entendimento ora exposto
+tem sido observado em julgamentos proferidos por esta Suprema Corte
+(ARE 966.674/SP, Rel. Min. EDSON FACHIN – ARE 1.054.895/BA, Rel.
+Min. MARCO AURÉLIO, v.g.):
+“AGRAVO
+REGIMENTAL
+EM
+AGRAVO
+DE
+INSTRUMENTO, QUE TEVE O SEGUIMENTO NEGADO.
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 748021416.
+
+Supremo Tribunal Federal
+Voto - MIN. CELSO DE MELLO
+
+Inteiro Teor do Acórdão - Página 7 de 10
+
+ARE 1125439 AGR / MG
+ANULAÇÃO DE DECISÃO ABSOLUTÓRIA DE TRIBUNAL DO
+JÚRI. ALEGAÇÃO DE VIOLAÇÃO DA REGRA QUE
+ASSEGURA A SOBERANIA DOS VEREDICTOS DO JÚRI. NÃO
+OCORRÊNICA. RECURSO NÃO PROVIDO.
+Esta Corte tem entendido que a anulação de decisão do tribunal
+do júri, por manifestamente contrária à prova dos autos, não viola a
+regra constitucional que assegura a soberania dos veredictos do júri
+(CF, art. 5º, XXXVIII, c). Nesse sentido, o HC 73.349 (red. p/ acórdão
+min. Maurício Corrêa, DJ de 1º.12.2000) e o RE 166.896 (rel. min.
+Néri da Silveira, DJ de 17.05.2002).
+Além disso, a análise da questão constitucional suscitada nas
+razões recursais demanda o reexame aprofundado dos fatos e provas
+que sustentaram o acórdão atacado, o que inviabiliza o conhecimento
+do extraordinário, ante a vedação contida na Súmula 279 do Supremo
+Tribunal Federal.
+Agravo regimental não provido.”
+(AI 728.023-AgR-segundo/RS, Rel. Min. JOAQUIM
+BARBOSA)
+“DIREITO PENAL. AGRAVO REGIMENTAL EM
+RECURSO EXTRAORDINÁRIO COM AGRAVO. SOBERANIA
+DO VEREDICTO DO JÚRI. CONTROVÉRSIA DECIDIDA
+COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL
+E NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS.
+SÚMULA 279/STF.
+1. Para chegar a conclusão diversa do acórdão recorrido, seria
+necessária a análise da legislação infraconstitucional pertinente e uma
+nova apreciação dos fatos e do material probatório constante dos autos
+(Súmula 279/STF), o que é inviável em recurso extraordinário.
+Precedentes.
+2. Agravo regimental a que se nega provimento.”
+(ARE 946.614-AgR/RJ, Rel. Min. ROBERTO BARROSO)
+
+Impõe-se registrar, finalmente, no que se refere à alegada transgressão
+ao postulado constitucional que impõe, ao Poder Judiciário, o dever de
+motivar suas decisões (CF, art. 93, IX), que o Supremo Tribunal Federal –
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 748021416.
+
+Supremo Tribunal Federal
+Voto - MIN. CELSO DE MELLO
+
+Inteiro Teor do Acórdão - Página 8 de 10
+
+ARE 1125439 AGR / MG
+embora sempre enfatizando a imprescindibilidade da observância dessa
+imposição da Carta Política (RTJ 170/627-628) – não confere, a tal
+prescrição constitucional, o alcance que lhe pretende dar a parte ora
+recorrente, pois, na realidade, segundo entendimento firmado por esta
+própria Corte, “O que a Constituição exige, no art. 93, IX, é que a decisão
+judicial seja fundamentada; não, que a fundamentação seja correta, na
+solução das questões de fato ou de direito da lide: declinadas no julgado as
+premissas, corretamente assentadas ou não, mas coerentes com o dispositivo
+do acórdão, está satisfeita a exigência constitucional” (RTJ 150/269, Rel.
+Min. SEPÚLVEDA PERTENCE – grifei).
+Vale ter presente, a propósito do sentido que esta Corte tem dado à
+cláusula inscrita no inciso IX do art. 93 da Constituição, que os
+precedentes deste Tribunal desautorizam a abordagem hermenêutica feita
+pela parte ora agravante, como se dessume de diversos julgados
+(AI 529.105-AgR/CE, Rel. Min. JOAQUIM BARBOSA – AI 637.301-AgR/GO,
+Rel. Min. CÁRMEN LÚCIA – AI 731.527-AgR/RJ, Rel. Min. GILMAR
+MENDES – AI 838.209-AgR/MA, Rel. Min. GILMAR MENDES –
+AI 840.788-AgR/SC, Rel. Min. LUIZ FUX – AI 842.316-AgR/RJ, Rel. Min.
+LUIZ FUX – RE 327.143-AgR/PE, Rel. Min. CARLOS VELLOSO, v.g.),
+notadamente daquele, emanado do Plenário do Supremo Tribunal
+Federal, em que se acolheu questão de ordem para reafirmar essa mesma
+jurisprudência no sentido que venho de expor:
+“Questão de ordem. Agravo de Instrumento. Conversão
+em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação
+de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do
+art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da
+Constituição Federal exige que o acórdão ou decisão sejam
+fundamentados, ainda que sucintamente, sem determinar,
+contudo, o exame pormenorizado de cada uma das alegações ou
+provas, nem que sejam corretos os fundamentos da decisão.
+4. Questão de ordem acolhida para reconhecer a repercussão geral,
+reafirmar a jurisprudência do Tribunal, negar provimento ao
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 748021416.
+
+Supremo Tribunal Federal
+Voto - MIN. CELSO DE MELLO
+
+Inteiro Teor do Acórdão - Página 9 de 10
+
+ARE 1125439 AGR / MG
+recurso e autorizar a adoção dos procedimentos relacionados à
+repercussão geral.”
+(AI 791.292-QO-RG/PE, Rel. Min. GILMAR MENDES –
+grifei)
+
+Sendo assim, e em face das razões expostas, nego provimento ao
+presente agravo interno, mantendo, em consequência, por seus próprios
+fundamentos, a decisão recorrida.
+É o meu voto.
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 748021416.
+
+Supremo Tribunal Federal
+Extrato de Ata - 07/08/2018
+
+Inteiro Teor do Acórdão - Página 10 de 10
+
+SEGUNDA TURMA
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.125.439
+PROCED. : MINAS GERAIS
+RELATOR : MIN. CELSO DE MELLO
+AGTE.(S) : JULIANO AZEVEDO DE CARVALHO
+ADV.(A/S) : LUIZ FERNANDO VALLADAO NOGUEIRA (47254/MG)
+AGDO.(A/S) : MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS
+PROC.(A/S)(ES) : PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DE MINAS
+GERAIS
+AGDO.(A/S) : MARGARIDA DOS SANTOS BELTRÃO
+AGDO.(A/S) : GERALDO ANTÔNIO CLARET BELTRÃO
+ADV.(A/S) : GIOVANNI LOPES BACELAR (89535/MG)
+Decisão: A Turma, por unanimidade, negou provimento ao recurso
+de agravo, nos termos do voto do Relator. Segunda Turma, Sessão
+Virtual de 29.6.2018 a 6.8.2018.
+Composição: Ministros Ricardo Lewandowski (Presidente), Celso
+de Mello, Gilmar Mendes, Dias Toffoli e Edson Fachin.
+Marcelo Pimentel
+Secretário
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 747915891
