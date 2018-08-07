@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo manejado interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Paraná, assim ementado (fls. 348/349):
+DIREITO PREVIDENCIÁRIO. APELAÇÕES CÍVEIS E REEXAME NECESSÁRIO DE SENTENÇA PROFERIDA EM NOMINADA "AÇÃO PREVIDENCIÁRIA". SENTENÇA DE PROCEDÊNCIA DOS PEDIDOS INICIAIS.
+RECURSO DO INSS E REEXAME NECESSÁRIO. 1. ALEGADA INOCORRÊNCIA DA INTERRUPÇÃO DO PRAZO PRESCRICIONAL PARA A PROPOSITURA DA AÇÃO INDIVIDUAL EM RAZÃO DO AJUIZAMENTO DA AÇÃO CIVIL PÚBLICA Nº 0004911-28.2011.4.03.6183 - AÇÃO COLETIVA PRECEDENTE, COM OBJETO ASSEMELHADO, NA QUAL A AUTARQUIA FOI DEVIDAMENTE CITADA - INTERRUPÇÃO DA PRESCRIÇÃO VERIFICADA - PRECEDENTES. 2. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO CONCEDIDO ANTES DAS EC 20/98 E 41/03 - READEQUAÇÃO DE RENDA MENSAL DE BENEFÍCIO PREVIDENCIÁRIO CONSIDERANDO-SE OS TETOS PREVISTOS NAS EMENDAS CONSTITUCIONAIS 20/98 E 41/03. MATÉRIA JÁ DECIDIDA PELO STF, EM RECURSO EXTRAORDINÁRIO 564.354/SE. READEQUAÇÃO DO BENEFÍCIO DEVIDA. RECURSO CONHECIDO E DESPROVIDO. REEXAME NECESSÁRIO. CONDENAÇÃO AO PAGAMENTO DE VALORES - CORREÇÃO MONETÁRIA: INCIDÊNCIA DA TR ATÉ 25/03/2015, QUANDO O DÉBITO DEVE SER CORRIGIDO PELO IPCA-E. MODULAÇÃO ESTABELECIDA PELO STF. RECURSO DA AUTORA. PEDIDO DE MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. VALOR QUE NÃO SE MOSTRA EXCESSIVO - ADEQUADA INTERPRETAÇÃO DO ARTIGO 20, §§ 3º E 4º, DO CÓDIGO DE PROCESSO CIVIL. RECURSO CONHECIDO E DESPROVIDO.
+RECURSO DO INSS CONHECIDO E DESPROVIDO.
+RECURSO DA AUTORA CONHECIDO E DESPROVIDO.
+SENTENÇA PARCIALMENTE REFORMADA EM REEXAME NECESSÁRIO.
+Opostos embargos de declaração, foram rejeitados (fl. 387)
+Nas razões do apelo especial, sustenta o recorrente que "o prazo prescricional da presente ação individual não foi interrompido pela ACP nº 4911-28.2011.4.03.6183/SP, pronunciando-se a prescrição das parcelas que venceram antes do quinquênio que antecede a propositura da presente ação" (fl. 406).
+Devidamente intimada, a parte recorrida não apresentou contrarrazões ao recurso especial, conforme certidão de fl. 408.
+É o relatório.
+A irresignação não merece acolhimento.
+Isso porque, no que diz respeito à tese de que não houve interrupção da prescrição, cumpre observar que a parte recorrente não amparou o inconformismo na violação de qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Nesse diapasão: AgRg no AREsp 157.696/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 22/11/2012; AgRg nos EDcl no Ag 1.289.685/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 6/8/2010.
+Do exposto, nego provimento ao agravo.
+Publique-se.
