@@ -1,0 +1,46 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Rúbio Gomes de Moraes Júnior Locadora de Veículos, com fundamento nas alíneas "a" e "b" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (e-STJ, fl. 200):
+Apelação em mandado de segurança impetrado com o objetivo de obter autorização para que veículos - que realizam transporte remunerado sem licença e sem autorização da autoridade competente (DETRO) - sejam apreendidos. Sentença que denegou a ordem. O fato de os veículos possuírem registro no Departamento Nacional de Registro de Comércio não exime o impetrante/apelante da obrigação de cadastrar os automóveis junto ao DETRO/RJ para realizar transporte de passageiros. Impossibilidade de se coibir que o legítimo órgão estatal exerça o poder de polícia no que diz respeito ao transporte público. Correta a sentença.
+Não provimento do recurso.
+Os embargos de declaração foram rejeitados (e-STJ, fl. 222).
+Alega a parte recorrente, nas razões do especial, contrariedade aos arts. 128, 131, 332, 333, I, 396, 460, 463, I e II e 535 do Código de Processo Civil/1973; 565, 566, I, do Código Civil/2002; e 96, III, "d", 107 e 135 do Código de Trânsito Brasileiro.
+Defende, em síntese: i) nulidade por omissão; ii) nulidade por julgamento alheio ao pedido, na medida em que visava garantir a não apreensão de veículos objeto de locação e não empregados em contrato de transporte de pessoas; e iii) dispensa de licenciamento prévio das empresas locadoras de veículos.
+Apresentadas contrarrazões (e-STJ, fls. 262-271 e 272-274), o recurso especial foi admitido por decisão desta Corte (e-STJ, fl. 313).
+Parecer pelo não conhecimento (e-STJ, fls. 326-329).
+Processo com prioridade legal (art. 12, § 2º, VII, do CPC/2015).
+É o relatório.
+O recurso não prospera.
+Inicialmente, quanto à alegada violação do art. 535 do CPC/1973, verifico que a parte insurgente não logrou êxito em demonstrar objetivamente os pontos omitidos pelo acórdão combatido, individualizando o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos.
+Tal circunstância atrai, portanto, a incidência analógica da Súmula 284/STF: "Inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA 284/STF. ÔNUS DA PROVA DE PAGAMENTO. FUNDAMENTAÇÃO DEFICIENTE DO ACÓRDÃO RECORRIDO. PRESUNÇÃO DE LIQUIDEZ E CERTEZA DA CDA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 DO STF E 211 DO STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. Quanto à alegação de negativa de prestação jurisdicional, verifica-se que, apesar de apontar como violado o art. 535 do CPC/73, a parte recorrente não evidenciou qualquer vício, no acórdão recorrido, deixando de demonstrar no que consistiu a alegada ofensa ao citado dispositivo, atraindo, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal ("é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+ ..
+VII. Agravo interno improvido.
+(AgInt no AREsp 1.001.267/PB, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 17/8/2017, DJe 24/8/2017)
+ADMINISTRATIVO. POLICIAL MILITAR. PROCEDIMENTO DISCIPLINAR. EXPULSÃO. CONSELHO DISCIPLINAR. VIOLAÇÃO AO ART. 535 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. CERCEAMENTO DE DEFESA. LIVRE CONVENCIMENTO. REEXAME DE FATOS. INVIABILIDADE. SÚMULA 7/STJ. ATIVIDADE DE CONSULTORIA. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO ADOTADO PELA CORTE DE ORIGEM. SÚMULA 283/STF. SÚMULA 284/STF. HONORÁRIOS DE SUCUMBÊNCIA EM FAVOR DA FAZENDA PÚBLICA. EXIGIBILIDADE SUSPENSA (ART. 12 DA LEI N.º 1.060/50). ASSISTÊNCIA JUDICIÁRIA GRATUITA.
+1. Mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+ ..
+8. Agravo interno a que se nega provimento.
+(AgInt no AREsp 579.011/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 27/6/2017, DJe 3/8/2017)
+Quanto ao julgamento de matéria diversa da pretendida, o acórdão assim se manifestou (e-STJ, fls. 200-201):
+O impetrante/apelante acredita não ser necessário o cadastramento no DETRO para exercer a atividade de transporte intermunicipal de passageiros por ser o mesmo sob o regime de locação e atividade turística.
+Ainda que seus veículos sejam cadastrados no Departamento Nacional de Registro de Comércio, imprescindível o cadastramento junto à autarquia competente, no caso, o DETRO. Esta é uma exigência que visa a segurança dos passageiros, ainda que se trate de veiculo que faça transporte turístico, exigência esta que é autorizada à autarquia pela Lei Estadual 1.221/87.
+Portanto, deve o apelante regularizar seus veículos, cumprindo as exigências do Código de Trânsito Brasileiro e as Leis Estaduais pertinentes.
+Além disso, como destaca o parecer do Ministério Público Federal (e-STJ, fls. 326-329), a sentença assim definiu a questão em julgamento (e-STJ, fls. 139-142):
+RÚBIO GOMES DE MORAES JÚNIOR LOCADORA DE VEÍCULOS ME impetrou mandado de segurança contra ato a ser praticado pelo PRESIDENTE DO DEPARTAMENTO DE TRÂNSITO DO RIO DE JANEIRO, PRESIDENTE DO DEPARTAMENTO DE TRÂNSITO RODOVIÁRIO e SECRETÁRIO MUNICIPAL DE TRANSPORTES DO RIO DE JANEIRO pleiteando que estes se abstenham de apreender seus veículos por transporte remunerado sem licença ou sem autorização da autoridade competente. Pleiteia, ainda, que em caso descumprimento da decisão sejam os impetrados obrigados a liberar os veículos sem ônus.
+Alega o impetrante que trabalha prestando serviço de transporte com motorista para empresas privadas e órgãos públicos, possuindo para tanto dois veículos,  ..
+Sustenta que nas operações contra o transporte alternativo sem licença realizadas por agentes de trânsito, estaria sofrendo constantes prejuízos em razão destes criarem dificuldades para liberação de seus automóveis, além de cobrarem pagamento de multas, diárias e taxa de reboque, apesar de estar exercendo sua atividade na forma da Lei.
+ ..
+Trata-se de mandamus através do qual o impetrante deseja impedir a apreensão de seus veículos por realizar transporte de passageiros sem licença sob a alegação de que loca serviço de transporte a sociedades privadas, bem como a órgãos públicos.
+Em que pese ser a locação de veículos para eventos o objeto social da sociedade impetrante, tal fato não legitima por si só o transporte coletivo de passageiros, cabendo ao Poder Público autorizar a exploração de tal serviço desde que preenchidos objetivamente os requisitos previstos na lei e decretos regulamentares, nos termos do art. 1 35, do CTB3.
+Ademais, prevê o art. 107 do CTB que:
+Os veículos de aluguel, destinados ao transporte individual ou coletivo de passageiros, deverão satisfazer, além das exigências previstas neste Código, às condições técnicas e aos requisitos de segurança, higiene e conforto estabelecidos pelo poder competente para autorizar, permitir ou conceder a exploração dessa atividade.
+Assim, dúvida não há quanto a necessidade do autor possuir a devida licença permitindo a exploração do transporte de passageiros, devendo ser salientado que, em âmbito estadual, tal licença deve ser concedida pelo DETRO, conforme prevê a Lei no 1.221/87, não sendo suficiente licença concedida pelo Ministério do Turismo ou da Indústria e Comércio Exterior, por não se tratarem de órgãos de fiscalização de trânsito, além de não possuírem atribuição para realizar fiscalização do transporte coletivo de passageiros no âmbito do Estado do Rio de janeiro.
+Assim, por um lado, a análise envolveria exame direto de provas para desconstituir o contexto fático delineado pelas instâncias ordinárias. De outro, os dispositivos legais tidos como violados não foram objeto de discussão na origem, faltando-lhes o requisito constitucional do prequestionamento.
+Nessa linha, o recurso esbarra nos óbices das Súmulas 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial"; 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Quanto à dispensa à luz do CTB, verifica-se que a determinação decorreu não só do art. 135 mas também do art. 107 da mesma norma e, ainda, de norma estadual. A revisão desta última em recurso especial é vedada consoante a Súmula 280/STF: "Por ofensa a direito local não cabe recurso extraordinário"; e a pretensão recursal, no ponto, é impedida pelo disposto na Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
