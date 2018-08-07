@@ -1,0 +1,55 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. DESAPROPRIAÇÃO PARA FINS DE REFORMA AGRÁRIA. REMESSA NECESSÁRIA. ART. 13, § 1º, DA LC 76/96. VALOR DA INDENIZAÇÃO MENOR QUE O LIMITE DE 50% DO VALOR OFERTADO. NÃO CABIMENTO. VALOR DAS BENFEITORIAS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. JUÍZO DE RETRATAÇÃO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+DECISÃO
+Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 791):
+PROCESSUAL CIVIL. ADMINISTRATIVO. DESAPROPRIAÇÃO PARA FINS DE REFORMA AGRÁRIA. REMESSA NECESSÁRIA. ART. 13, § 1º, DA LC 76/96. VALOR DAS BENFEITORIAS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO PROVIDO.
+O agravante alega que o Tribunal de origem que não é caso de remessa obrigatório pois o valor fixado a título de indenização foi superior a 50% superior à oferta.
+Aduz que não poderia tratar dos temas referentes à base de cálculo, percentual de incidência, termo a quo ou ad quem dos juros compensatórios, já que o INCRA só devolveu ao Tribunal a questão atinente ao cabimento ou não dos juros em razão da improdutividade do imóvel desapropriado, menos ainda poderia o INCRA interpor o recurso especial para tratar do percentual e termo a quo ou ad quem dos juros compensatórios, também sob pena de supressão de instância.
+Por fim, defende que não é necessário o reexame fático-probatório para fixar o valor da benfeitorias no tocante à inclusão do fatores de risco, quais sejam: funcionalidade, tempo de uso e estado de conservação.
+Com impugnação.
+É o relatório.
+Verifica-se que o Tribunal de origem consignou que deve ser considerada a remessa oficial, pois proferida sentença em desfavor de autarquia, fato suficiente para justificar o reexame necessário.
+Destaca-se trecho do acórdão (fl. 584):
+As alterações do art. 475 do CPC prevêem a sujeição ao duplo grau de jurisdição também para as sentenças proferidas contra autarquias e, antes disso, o STJ já vinha entendendo, nos termos do art. 118 da Lei 4.504/64 (Estatuto da Terra) combinado com os arts. 20 e 30 do DL n. 1. 110, de 09.07.70, que criou o INCRA, que qualquer sentença proferida contra essa autarquia deveria ser submetida ao duplo grau.
+A jurisprudência desta Corte firmou entendimento segundo o qual nas ações de desapropriação para fins de reforma agrária, incide a norma do § 1º do artigo 13 da Lei Complementar 76/93, a qual dispõe que somente haverá reexame obrigatório quando a sentença condenar o expropriante em quantia superior a cinquenta por cento sobre o valor oferecido.
+Nesse sentido:
+PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO. ART. 535, II, DO CPC.
+EMBARGOS À EXECUÇÃO. FALTA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. COMPETÊNCIA DO STF. APRECIAÇÃO DE MATÉRIA CONSTITUCIONAL. DESAPROPRIAÇÃO PARA REFORMA AGRÁRIA.
+REEXAME OBRIGATÓRIO. PROVA PERICIAL. REEXAME DE PROVAS.
+SÚMULA 7 DO STJ.
+1. Não se configura a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+2. A indicada afronta dos arts. 165 e 458 do CPC e do art. 12, IV, da Lei 8.629/1993 não pode ser analisada, pois o Tribunal de origem não emitiu juízo de valor sobre esses dispositivos legais. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+3. É importante registrar a impossibilidade de o STJ apreciar ofensa aos artigos da Carta Magna, uma vez que compete exclusivamente ao Supremo Tribunal Federal o exame de violação a dispositivo da Constituição da República, nos termos do seu art.
+102, III, "a".
+4. O STJ pacificou o entendimento de que, nas ações de desapropriação para fins de reforma agrária, incide a norma do § 1º do artigo 13 da Lei Complementar 76/93, a qual dispõe que somente haverá reexame obrigatório quando a sentença condenar o expropriante "em quantia superior a cinquenta por cento sobre o valor oferecido na inicial" REsp 1.320.013/BA, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 24/10/2013).
+5. O TRF, com base na prova pericial produzida nos autos, que avaliou o preço do imóvel segundo o mercado da região e teve como referência seis fontes de pesquisa, chegou ao valor correto da indenização. Nesse contexto, o acolhimento da pretensão recursal, para que se examine se o Laudo Técnico do assistente do Incra possui o preço justo, pressupõe revolvimento fático-probatório, o que é vedado no âmbito do Recurso Especial (Súmula 7/STJ).
+6. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.305.850/MA, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, DJe 03/02/2016).
+DESAPROPRIAÇÃO. REMESSA OFICIAL. ART. 13, § 1º, DA LC 76/93. INDENIZAÇÃO QUE NÃO SUPERA O LIMITE DE 50% DO VALOR OFERTADO. REMESSA OFICIAL. DESCABIMENTO.
+I - O art. 13, § 1º, da LC nº 76/93 dispõe que: "A sentença que condenar o expropriante, em quantia superior a cinqüenta por cento sobre o valor oferecido na inicial, fica sujeita ao duplo grau de jurisdição."
+II - In casu, consoante bem exposto pelo Parquet Federal, o INCRA ofereceu R$ 248.168,69 (duzentos e quarenta e oito mil, cento e sessenta e oito reais e sessenta e nove centavos), tendo sido a indenização fixada pela Corte a quo em R$ 317.380,14 (trezentos e dezessete mil, trezentos e oitenta reais e catorze centavos).
+III - O valor fixado pelo aresto recorrido, mesmo tendo majorado o quantum determinado pela r. sentença monocrática, não ultrapassou o percentual de 50% indicado pelo referido artigo 13, § 1º, da LC nº 76/93, razão pela qual não se impunha, na hipótese, o reexame necessário.
+IV - Recurso Especial improvido.
+(REsp 885.991/DF, Rel. Min. FRANCISCO FALCÃO, PRIMEIRA TURMA, DJe 23/04/2008).
+ No caso dos autos, o INCRA ofertou o valor de R$ 614.240,13 (seiscentos e quatorze mil, duzentos e quarenta reais e treze centavos)no tocante à terra nua e as benfeitorias da Fazenda Santo Amaro e Colorado e a indenização fixada foi de R$ 738.581,28 (setecentos e trinta e oito mil, quinhentos e oitenta e um reais e vinte e oito centavos). No que tange à Fazenda Flor do Vale foi ofertado o valor de R$ 891.781,96 (oitocentos e noventa e um mil, setecentos e oitenta e um reais e noventa e seis centavos) e foi fixado o valor de R$ 1.084.651,06 (um milhão, oitenta e quatro mil seiscentos e cinquenta e um reais e seis centavos). Não ultrapassando, portanto, a razão de cinquenta por cento sobre o valor oferecido.
+Logo, não é cabível a remessa necessária dos autos.
+No que concerne ao valor das benfeitorias, o Tribunal de origem, consignou que os critério e métodos utilizados refletem o justo preço do imóvel e que o recorrente não demonstrou a inconsistência dos valores apontados na avaliação judicial.
+Destaco trecho do acórdão (fls. 589/590):
+Colhe-se, ainda, do termo de depoimento do perito judicial (fI. 280), que a utilização.
+das planilhas aplicadas aos projetos de financiamento do Banco do Nordeste do Brasil SIA, como critério de avaliação, ocorreu em razão das respectivas planilhas servirem tanto para referência como para avaliação de garantia de bens como de financiamento.
+Ademais, a parte expropriada, embora discorde dos critérios adotados pelo perito judicial na avaliação das benfeitorias, não trouxe aos autos prova a demonstrar a inconsistência dos valores apontados na avaliação judicial.
+Assim, tenho que a avaliação das benfeitorias, promovida pelo vistor oficial na forma em que delimitada na perícia judicial, constitui meio objetivo de aferição dos valores acolhidos na sentença recorrida.
+Dessa forma, impertinente a pretensão da parte expropriada vindicada em sua peça Superior Tribunal de Justiça de apelação quanto ao método e critérios utilizados pelo vistor oficial na avaliação das benfeitorias.
+Quanto à alegação da parte expropriada de que não teriam sido considerados, na avaliação feita no laudo oficial, 300 (trezentos) hectares de capim Jaraguá, da Fazenda Colorado, em mau estado de conservação, melhor sorte não socorre os apelantes.
+Com efeito, verifica-se do laudo do vistor oficial que houve avaliação de 200 hectares de capim Jaraguá mecanizado, conforme registrado à fl. 183. Não há registro nos demais laudos (laudo do Vitor oficial, laudo administrativo e do assistente técnico do expropriante) e/ou notícia da existência de outros 300 (trezentos) hectares de capim Jaraguá, da Fazenda Colorado, em mau estado de conservação.
+Dessa forma, mantenho o valor da indenização na forma em que estabelecida na sentença recorrida.
+Vê-se, portanto, que a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. VIOLAÇÃO AO ART. 535 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. DESAPROPRIAÇÃO DE IMÓVEL PARA IMPLANTAÇÃO DE USINA HIDRELÉTRICA. VALORES DAS BENFEITORIAS RECONHECIDAS MAS NÃO PAGAS. INDENIZAÇÃO DEVIDA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+III - In casu, rever o entendimento do Tribunal de origem, que manteve a sentença do Juízo de Primeiro Grau que julgou procedente o pedido de indenização no valor de R$ 9.803,70 (nove mil, oitocentos e três reais e setenta centavos) relativa a benfeitorias edificadas pelos requerentes sobre a propriedade rural expropriada que pertencia a [NOME], demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+IV - Os Agravantes não apresentam, no regimental, argumentos suficientes para desconstituir a decisão agravada. V - Agravo Regimental improvido.
+(AgRg no REsp 1.285.088/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 27/6/2016).
+Ante o exposto exerço juízo de retratação, para dar parcial provimento ao recurso especial a fim de tornar sem efeito as decisões de e-STJ fls. 786/790 e e-STJ fls. 791/795, dando provimento ao recurso dos expropriados reputando-se como não interposta a remessa necessária, excluindo-se qualquer modificação quanto à forma de incidência dos juros compensatórios.
+Publique-se. Intimem-se.
