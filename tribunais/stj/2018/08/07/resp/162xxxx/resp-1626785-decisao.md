@@ -1,0 +1,7 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ABONO "ADIANTAMENTO DO PCCS" INCORPORADO AOS VENCIMENTOS DOS SERVIDORES A PARTIR DE SETEMBRO DE 1992, COM A EDIÇÃO DA LEI 8.460/92. TEMA 951, RE n. 1.023.750/SC. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM, COM A DEVIA BAIXA.
+DECISÃO
+Na origem, o recorrido objetiva a condenação da UNIÃO e do INSS ao pagamento das diferenças mensais de remuneração apuradas entre os meses de janeiro de 1991 e junho 2010, relativas à parcela denominada adiantamento pecuniário ou PCCS, referente ao reajuste de 47,11% conferido em janeiro de 1988, o qual foi reconhecido na Reclamatória Trabalhista nº. 8.157/97, eis que se trata de servidor(a) substituído(a) naquela ação.
+Ocorre que o Plenário Virtual do STF, por maioria, em 23/06/2017, no RE 1.023.750/SC, interposto pela União contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, reconheceu a repercussão geral do tema referente ao direito dos servidores públicos "às diferenças relacionadas ao reajuste de 47,11% sobre a parcela denominada adiantamento do PCCS após a mudança do regime celetista para o estatutário".
+Dessa forma, determino a devolução do feito ao Tribunal local, com a devida baixa, para que permaneça suspenso até a publicação do acórdão do referido recurso extraordinário, a fim de que se proceda, posteriormente, ao juízo de conformidade, nos termos do art. 1.035, § 5º, do CPC/2015.
+Publique-se. Intimem-se.
