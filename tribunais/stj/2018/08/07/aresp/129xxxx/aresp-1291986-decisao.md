@@ -1,0 +1,19 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal de Justiça de Mato Grosso do Sul, assim ementado:
+APELAÇÃO CRIMINAL - RECURSO DA DEFESA - TRÁFICO DE DROGAS - AUSÊNCIA DOS REQUISITOS DO TRÁFICO PRIVILEGIADO - REGIME INICIALMENTE SEMIABERTO MANTIDO IMPOSSIBILIDADE DE ABRANDAMENTO - SUBSTITUIÇÃO DA PENA CORPÓREA - INVIÁVEL - PREQUESTIONAMENTO ATENDIDO - RECURSO CONHECIDO E DESPROVIDO, COM O PARECER.
+1. Para se aplicar a causa de diminuição de pena, consistente no tráfico privilegiado, deve o acusado preencher cumulativamente os requisitos do art. 33, §4º, da Lei nº 11.434/06, quais sejam, primariedade. bons antecedentes, não dedicação a atividades criminosas e não integração com organização criminosa, sendo que, na ausência de um destes, inviável a aplicação da benesse legal.
+2. Em se tratando de traficância de vultosa quantidade de maconha (53,4 kg), incabível a fixação do regime aberto para o início do cumprimento da pena.
+3. Incabível a substituição da pena privativa de liberdade na ausência de preenchimento dos requisitos constantes do art. 44, I, do Código Penal.
+4. É assente na jurisprudência que, se o julgador aprecia integralmente as matérias que lhe são submetidas, se torna despicienda a manifestação expressa acerca de dispositivos legais utilizados pelas partes como sustentáculo às suas pretensões. (e-STJ fl. 279)
+Aponta a defesa a violação dos arts. 33, § 2º, do Código Penal e 33, § 4º da Lei n. 11.343/2006 alegando, em síntese, que as recorrentes fazem jus ao redutor previsto na Lei de Drogas, porquanto não há provas de que integrem organização criminosa. Atendido o pleito anterior, pede o abrandamento do regime prisional com a substituição da pena corporal por restritiva de direitos.
+As contrarrazões foram apresentadas (e-STJ fls. 325/330) e o Tribunal local negou seguimento ao recurso especial (e-STJ fls. 332/334).
+Manifestação do Ministério Público Federal pelo desprovimento do agravo (e-STJ fls. 381/385)
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+Os elementos existentes nos autos informam que as recorrentes foram condenadas às penas de 5 (cinco) anos e 10 (dez) meses de reclusão, em regime semiaberto, pelo cometimento do crime do art. 33, caput, c/c 40, V, da Lei n. 11.343/2006.
+A defesa alega que as recorrentes preenchem os requisitos para a aplicação da causa especial de diminuição prevista no art. 33, § 4º, da Lei de Drogas, porquanto não há provas de que integrem organização criminosa.
+O acórdão recorrido à e-STJ fl. 181 registra que o referido redutor não foi aplicado, dentre outras razões, ante a importante quantidade do entorpecente apreendido (mais de 55 quilos de maconha), o que está em harmonia com a jurisprudência deste Tribunal Superior que já decidiu que a quantidade, a variedade e a nocividade das drogas apreendidas, aliadas às circunstâncias em que ocorreu o delito, evidenciam a dedicação à atividade criminosa e, em decorrência, podem embasar o não reconhecimento da minorante do § 4º do art. 33 da Lei n. 11.343/2006. Nessa linha: HC 306.019/SP, desta Relatoria, DJe 22/6/2016 e HC 345.942/SP, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, DJe 24/6/2016.
+Ressalta-se, por oportuno, que para se perquirir acerca da participação ou não das recorrentes em organização criminosa é necessário o revolvimento de fatos e provas, providência inadmissível em recurso especial, ante o óbice do verbete n. 7 da Súmula deste Tribunal.
+Prejudicada a análise das demais questões.
+Diante do exposto, com fundamento no art. 932, VII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
