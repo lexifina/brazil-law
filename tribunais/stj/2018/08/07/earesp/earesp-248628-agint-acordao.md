@@ -1,0 +1,56 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. A teor do disposto no art. 544, § 4º, I, do CPC/1973 e nos arts. 253, parágrafo único, I, do RISTJ, e 932, III, do CPC/2015, compete às partes agravantes infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+3. Hipótese em que os recorrentes não se desincumbiram do ônus de impugnar, de forma clara e objetiva, as razões que levaram à inadmissibilidade do apelo nobre.
+4. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça , por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno manejado por AGROPECUÁRIA JUBRAN S.A. e OUTROS parar desafiar decisão de minha lavra, proferida às e-STJ fls. 1.858/1.859, em que não conheci do agravo em recurso especial, visto que as partes agravantes deixaram de impugnar especificamente os fundamentos da decisão agravada, no caso, a ausência de obscuridade/contradição/omissão e a divergência não comprovada.
+No presente agravo interno, sustentam os agravantes, às e-STJ fls. 2.008/2.079, em suma, que, ao contrário do consignado, foram infirmados os fundamentos da decisão de inadmissibilidade do recurso especial.
+Requerem, assim, a reconsideração do decisum impugnado ou a submissão do feito ao Órgão colegiado.
+Impugnação às e-STJ fls. 2.082/2.083.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Registre-se, de início, que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+No caso, o agravo em recurso especial foi examinado à luz do Código de Processo Civil de 1973, visto que interposto contra decisão publicada anteriormente à vigência do Código de Processo Civil de 2015 (e-STJ fl. 1.784).
+Dito isso, tenho que o inconformismo sob exame não merece prosperar.
+De fato, as partes agravantes não trouxeram nenhum argumento capaz de alterar o decisum atacado, proferido em sintonia com a jurisprudência deste Tribunal Superior, no sentido de que a parte deve infirmar especificamente os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge contra todos eles, a teor do disposto nos arts. 544, § 4º, I, do Código de Processo Civil de 1973, e 253, parágrafo único, I, do RISTJ, e 932, III, do CPC/2015.
+Nas razões do agravo em recurso especial, os agravantes não infirmaram de forma clara e específica os fundamentos da decisão agravada, notadamente em relação à ausência de obscuridade/contradição/omissão e à divergência não comprovada (não observância das disposições do art. 541, parágrafo único, do CPC/1973, bem como inexistência de comprovação da similitude fática entre os julgados), em evidente desrespeito ao princípio da dialeticidade.
+Com efeito, em relação à ausência de obscuridade/contradição/omissão, as partes limitaram-se a alegar, no agravo em recurso especial, entre outras razões, que (e-STJ fls. 1.791/1.792):
+Ocorre, porém, que sobre as questões levantadas nos Embargos de Declaração o v. acórdão NADA DECIDIU, infringindo, dessa feita, o disposto nos artigos 535, I e II, do Código de Processo Civil, razão pela qual, no Recurso Especial interposto os ora agravantes expressamente pleitearam a anulação dos vv. acórdãos recorridos, para que outro fosse proferido em atenção às provas carreadas aos autos.
+Em conclusão, os dispositivos processuais invocados no Recurso Especial foram malferidos por ocasião da prolação dos vv. acórdãos recorridos, razão pela qual, inexistiu o prequestionamento da matéria no âmbito das apelações. Todavia, nos termos da Súmula 98 desse E.STJ foram interpostos Embargos Declaratórios, que deixaram de ser atendidos, com expressa violação ao artigo 535, I e II do CPC.
+Daí emerge o desacerto do r. despacho e agravado na Medida que deixou de apreciar o Recurso Especial sob o enfoque da violação a dispositivos legais no momento da prolação dos vv. acórdãos recorridos. Mas, por lástima isso não é tudo.
+De efeito, o r. despacho agravado, vale repetir, olvidou que o Recurso Especial está igualmente fundamentado na violação do disposto no artigo 535, I e II do CPC, constituindo-se, também, essa omissão, em forte motivo para a sua reforma.
+De fato, o r. despacho agravado, em suas razões de decidir, não dirigiu uma palavra sequer à questão da violação ao artigo 535, I e II do CPC, limitando-se a declarar que os vv. acórdãos estão fundamentados.
+De resto, impõe-se não olvidar que não se cuidava de travar discussão sobre eventual argumento da parte (a que o magistrado não está obrigado a responder um a um) ou mesmo de pontos irrelevantes da decisão, e sim no objeto principal do recurso, que o magistrado está sim obrigado a apreciar e julgar, sob pena de negar a prestação jurisdicional.
+Entretanto, no tocante à suposta ocorrência de obscuridade/contradição/omissão, é exigível das partes que especifiquem quais seriam as questões que eventualmente deixaram de ser adequadamente enfrentadas pelo Tribunal de origem e, principalmente, a sua relevância para o resultado da demanda, o que não ocorreu no caso.
+Referente à impugnação da divergência não comprovada, os agravantes assim consignaram, no agravo em recurso especial (e-STJ fls. 1.792/1.793):
+Deveras, ao discorrer sobre as normas legais acima elencadas, os agravantes o fizeram de maneia pormenorizada, demonstrando de for ma pontual onde, e como as mesmas foram malferidas, obedecendo o fechado comando legal disposto no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Com relação à alínea "c" do artigo 105, inciso 111, os agravantes promoveram o cotejo entre o acórdão recorrido com outros precedentes do E. Colendo Superior Tribunal de Justiça, comprovando minuciosamente o dissídio jurisprudencial, com a devida análise comparativa dos julgados confrontados, a saber:
+a) Recurso Especial n. 1.066.409-RS (2008.0129741-!8), relatado pela Ministra Eliana Calmon, que versa sobre a questão do cerceamento de defesa;
+b) Recurso Especial n. 499.649-PR (2003/0020652-3), relatado pelo Ministro José Augusto Delgado, que também versa "sobre a questão do julgamento antecipado da lide;
+c) Apelação Cível n. [CPF] do Egrégio Tribunal de Justiça do Rio Grande do Sul, relatado pelo Desembargador Octávio Augusto de Freitas Barcelios, sobre a questão da indevida utilização da prova emprestada;
+d) Recurso Especial nO 97.634-RS (1996/0035472-3), relatado pelo Ministro Castro e Filho, que versava sobre a inversão no ônus da prova em demanda que tem como objeto o reconhecimento de terras devolutas.
+Ocorre, porém, que o r. despacho agravado, ao negar seguimento ao recurso especial interposto pelos ora agravantes, fez tábula rasa de todos os sólidos argumentos nele dispendidos, pois não é necessário ingressar em matéria de cunho fático para concluir que na hipótese vertente houve o cerceamento da defesa, a utilização indevida da prova emprestada, assim como a inversão no ônus da prova.
+Verifico, pois, que não houve impugnação de todo o conteúdo do fundamento, em especial quanto à demonstração da similitude fática e jurídica e à ausência de cotejo analítico, nos termos previstos no artigo 541, parágrafo único, do Código de Processo Civil, e 255, §1º, do Regimento Interno do STJ.
+Cabe ressaltar que o não preenchimento de apenas um dos requisitos necessários à comprovação do dissídio jurisprudencial é suficiente para obstar o recurso especial, de modo que a impugnação deve inevitavelmente abranger todos aqueles mencionados pela decisão de inadmissibilidade.
+Sendo assim, de rigor o desprovimento do presente agravo interno.
+Nesse sentido, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 03/STJ. SERVIDOR PÚBLICO FEDERAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL. INTELIGÊNCIA DO ART. 544, § 4º, I, 2ª PARTE, DO CPC/1973, ART. 253, PARÁGRAFO ÚNICO, INC. I, DO RISTJ E ART. 932, III, DO CPC/2015. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se conhece do agravo em recurso especial que deixa de atacar especificamente e fundamentadamente todos os fundamentos da decisão de inadmissibilidade. Inteligência do art. 544, § 4º, I, do CPC/1973, do art. 253, I, do RISTJ e do art. 932, III, do CPC/2015.
+2. Agravo interno não provido.
+(AgInt no AREsp 856.456/AL, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 10/05/2016, DJe 16/05/2016)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. USURPAÇÃO DE COMPETÊNCIA DESTA CORTE NO EXERCÍCIO DE ADMISSIBILIDADE DO RECURSO. INOCORRÊNCIA. SÚMULA N. 123/STJ. DECISÃO QUE INADMITIU O RECURSO ESPECIAL. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ART. 544, § 4º, I, DO CPC.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+II - É necessário a aferição de pressupostos específicos relacionados ao mérito da controvérsia, quando realizado o exercício do juízo de admissibilidade do Recurso Especial pelo Tribunal de origem, nos termos da Súmula n. 123/STJ.
+III - Nos termos do art. 544, § 4º, I, do Código de Processo Civil, não se conhece do agravo que não tenha atacado especificamente os fundamentos da decisão que inadmitiu, na origem, o recurso especial.
+IV - O Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+V - Agravo Regimental improvido.
+(AgRg no AREsp 795.738/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 26/04/2016, DJe 11/05/2016)
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
