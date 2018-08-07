@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DAVID FERREIRA DE [NOME] REIS, apontando como autoridade coatora a Desembargadora Maria Luíza de Marilac da 3ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de Minas Gerais que, no HC n. 1.0000.18.078935-6/000, indeferiu o pedido liminar.
+Colhe-se dos autos que o paciente teve a prisão preventiva decretada em razão da suposta prática do delito previsto no art. 121, caput, c/c o art. 14, inciso II, ambos do Código Penal (e-STJ fls. 74/76).
+Formulado pedido de revogação da prisão, foi ele indeferido pelo Juízo de primeira instância (e-STJ fl. 128).
+Irresignada, a defesa impetrou prévio writ perante o Tribunal de origem, sustentando a ausência dos requisitos autorizadores da segregação cautelar.
+O pedido liminar, no entanto, foi indeferido (e-STJ fls. 148/149).
+No presente habeas corpus, o impetrante repisa as razões lançadas no writ originário, sustentando, inicialmente, "que, conforme se depreende da ORDEM DE SERVIÇO da PCMG  .. , o investigado, ora Paciente, foi procurado na Rua Onze, nº. 185 no Vale Verde, enquanto, conforme se faz provar por comprovantes de residência e declarações de vizinhos anexo, o mesmo era residente e domiciliado na RUA ONZE, nº. 183, Vale Verde, Ipaba/MG em companhia de sua genitora, [NOME]"; que "Em 11 de outubro de 2017 o Paciente casou-se com [NOME] e passou a residir com sua esposa em um imóvel financiado por sua genitora na rua Ministro Alkimim, nº. 1797, bairro João Aguiar, cidade de São Francisco, Minas Gerais", e que, "desde a decretação da PRISÃO PREVENTIVA em 02/05/2011  .. , a Autoridade Policial não ordena nenhuma diligência ou ordens de serviços para a localização do Paciente" (e-STJ fls. 6/7).
+Aduz, nesse sentido, que o paciente possui circunstâncias pessoais favoráveis, bem como que "O simples fato de o pretenso crime reclamar pena elevada e, mais, o Paciente não ter sido devidamente procurado e não encontrado não é razoável para concluir-se uma "possível fuga" ou "possível futura aplicação da lei penal". Assim, inexiste motivo a justificar, por si só, a prisão acautelatória em estudo" (e-STJ fl. 17).
+Pondera, ainda, a possibilidade de substituição da prisão preventiva por medidas cautelares diversas (e-STJ fls. 25/32), e requer, liminarmente, a expedição de alvará de soltura em benefício do paciente.
+No mérito, pugna pela confirmação da liminar, concedendo-se a ordem para revogar a prisão preventiva decretada em desfavor do paciente.
+É, em síntese, o relatório.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus ante decisão que indefere liminar, a não ser que fique demonstrada flagrante ilegalidade (enunciado n. 691 da Súmula do STF), o que não ocorre na espécie.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SUMULA 691/STF. COMPETÊNCIA DESTA CORTE QUE AINDA NÃO SE INAUGUROU. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PROVA DO ALEGADO CONSTRANGIMENTO ILEGAL.
+1. Não cabe habeas corpus perante esta Corte contra o indeferimento de liminar em writ impetrado no Tribunal de origem. Aplicação da Súmula 691 do Supremo Tribunal Federal.  ..
+3. Agravo regimental improvido. (AgRg no HC 349.925/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/3/2016, DJe 16/3/2016.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PEDIDO DE EXPEDIÇÃO DE CONTRAMANDADO DE PRISÃO TEMPORÁRIA. PACIENTE NO EXTERIOR. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, não se observa manifesta ilegalidade na decisão que indeferiu o pleito liminar no prévio mandamus, tampouco na decisão primitiva. Na espécie, não há nos autos informações comprobatórias de que todas as diligências requeridas foram cumpridas, valendo ressaltar, ainda, que o decreto prisional, expedido no bojo da mesma decisão, não se efetivou porque o paciente não teria sido localizado, porquanto "potencialmente" estaria no exterior.
+3. Agravo regimental improvido. (AgRg no HC 345.456/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/2/2016, DJe 24/2/2016.)
+A questão em exame necessita de averiguação mais profunda pelo Tribunal estadual, que deverá apreciar a argumentação da impetração e as provas juntadas ao habeas corpus no momento adequado.
+Sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+Entendo, portanto, não ser o caso de superação do enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com base no art. 210 do Regimento Interno do STJ, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
