@@ -1,0 +1,15 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. DEDICAÇÃO À ATIVIDADE CRIMINOSA. ENVOLVIMENTO COM A CRIMINALIDADE LOCAL. REEXAME PROBATÓRIO. OUTRA CONDENAÇÃO PELO MESMO DELITO. PERÍODO DEPURADOR. CONFIGURAÇÃO DOS MAUS ANTECEDENTES. INVIABILIDADE DE APLICAÇÃO DA MINORANTE DO ART. 33, § 4º, DA LEI N. 11.343/2006. PRECEDENTES. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
+DECISÃO
+Estes autos foram a mim distribuídos por prevenção (HC n. 286.492 e AREsp n. 85.947).
+Após o trânsito em julgado da condenação (Processo n. 0004281-78.2013.8.26.0572, da 1ª Vara da comarca de São Joaquim da Barra/SP), a defesa de [NOME] impugna o acórdão proferido pelo Tribunal de Justiça de São Paulo na apelação e vem requerer a aplicação da benesse prevista no art. 33, § 4º, da Lei de Drogas e a consequente fixação do regime inicial aberto.
+Em síntese, alega que o paciente é primário e portador de bons antecedentes à luz da Súmula 444/STJ, bem como que sua condenação anterior, relativa ao crime de tráfico praticado em 2002 (Processo n. 335/2002, da 1ª Vara de Ituverava/SP), é incapaz de gerar a reincidência.
+É o relatório.
+A ilegalidade passível de justificar a impetração do writ deve ser manifesta, de constatação evidente, não dependente de dilação probatória nem de exame aprofundado de fatos e de provas, o que, na espécie, não ocorre.
+No caso, o Juiz, na sentença, afirmou que o ora paciente exerce o tráfico de entorpecentes naquela comarca há longa data, estando intrinsecamente ligado à criminalidade local, não fazendo jus ao benefício legal em questão (fl. 28).
+E o Tribunal, no acórdão, ao manter a pena superior a 4 anos, expôs que o apelante já foi condenado por tráfico e os policiais tiveram a informação de que ele continuava a praticar tal crime na pequena cidade de São Joaquim da Barra, fatos que deixam bem claro que não se trata de traficante ocasional, sendo que a pena com o redutor não se mostrará suficiente para a repressão e prevenção ao crime de tráfico ilícito de drogas. Esta redução destina-se ao pequeno e ocasional traficante, não podendo beneficiar aquele que se dedica ao nefando comércio. Conforme já dito linhas acima, o réu já vinha praticando o comércio de drogas, fazendo dele um meio de vida. E quem a ele se dedica, não pode ser beneficiado, só pelo fato de ser tecnicamente primário (fl. 16).
+Quer dizer, para modificar a conclusão das instâncias ordinárias e aplicar a minorante pretendida, seria imprescindível o reexame fático-probatório, providência incabível na via eleita.
+Além disso, a jurisprudência deste Tribunal é assente no sentido de que as condenações alcançadas pelo período depurador de 5 anos, previsto no art. 64, inciso I, do Código Penal, afastam os efeitos da reincidência, mas não impedem a configuração de maus antecedentes. 2. Sendo o agravante possuidor de maus antecedentes, não há como ser beneficiado com a minorante prevista no § 4º do art. 33 da Lei de Drogas (AgRg no AREsp n. 1.124.693/MG, Ministro Nefi Cordeiro, Sexta Turma, DJe 2/5/2018).
+Diante do exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
