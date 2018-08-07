@@ -1,0 +1,12 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DO RELATOR, QUE INDEFERIU MEDIDA DE URGÊNCIA EM MANDAMUS ORIGINÁRIO. SÚMULA 691/STF. APLICABILIDADE. PRETENSÃO DE REVOGAÇÃO DA PRISÃO CAUTELAR. TERATOLOGIA OU ILEGALIDADE. AUSÊNCIA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, em benefício de [NOME] - preso preventivamente pela suposta prática dos delitos de tráfico e associação para o tráfico de drogas -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo que denegou a liminar no writ ali impetrado (Habeas Corpus n. 2157270-29.2018.8.26.0000), mantendo a prisão preventiva do paciente decretada pelo Juízo de Direito da Vara Criminal da comarca de Cruzeiro/SP (Processo n. 1500108-08.2018.8.26.0621).
+Alega o impetrante, em síntese, ausência de fundamentação na decisão que decretou a prisão preventiva do acusado.
+Postula, ao final, a superação da Súmula 691/STF, para que, deferida a liminar, seja revogada a prisão preventiva imposta.
+É o relatório.
+As Turmas integrantes da Terceira Seção desta Corte, na esteira do preceituado no enunciado n. 691 da Súmula do Pretório Excelso, têm entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada perante os Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta.
+Em juízo de cognição sumária, afigura-se inviável o acolhimento da pretensão, porquanto o Magistrado singular apontou a periculosidade do agente, ao destacar que  ..  o denunciado, em liberdade, fatalmente comprometeria a instrução criminal, tanto que há evidencias de que ele encabeça parte da distribuição de drogas no município, tendo, consoante relatado pela d. Autoridade Policial, o corréu Bruno como um de seus colaboradores, tudo a indicar, ainda, mesmo com a prisão de Bruno, não se fez cessar a nefasta atividade criminosa por parte de seu parceiro  ..  (fl. 27), razão pela qual não vislumbrei constrangimento ilegal ou teratologia apta a justificar a intervenção deste Superior Tribunal neste momento.
+Ante o exposto, inexistindo a excepcionalidade necessária ao abrandamento do enunciado na Súmula 691/STF, com fundamento no art. 38 da Lei n. 8.038/1990 e no art. 210 do RISTJ, indefiro liminarmente a petição inicial.
+Publique-se.
