@@ -1,0 +1,19 @@
+DECISÃO
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS FIXADOS EM R$ 2.000,00. VALOR CONSIDERADO RAZOÁVEL. DESNECESSIDADE DE REVISÃO. AGRAVO CONHECIDO PARA NEGAR SEGUIMENTO AO RECURSO ESPECIAL.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto, com fundamento na alínea a do art. 105, III da Constituição Federal, contra acórdão do TRF da 3a. Região, assim ementado:
+AGRAVO LEGAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EXCLUSÃO DE SÓCIO. HONORÁRIOS ADVOCATÍCIOS. AGRAVO IMPROVIDO.
+1. A decisão agravada foi proferida em consonância com o entendimento jurisprudencial do C. STJ e desta Eg. Corte, com supedâneo no art. 557, do CPC, inexistindo qualquer ilegalidade ou abuso de poder.
+2. Tendo em vista a exclusão dos sócios do polo passivo da ação executiva, entende-se devidos os honorários advocatícios, com a condenação da exequente ao pagamento da referida verba em R$ 2.000,00 (dois mil reais), nos termos autorizados pelo parágrafo 4" do artigo 20 do Código de Processo Civil, considerando-se que a questão jurídica suscitada já se encontra sedimentada nos tribunais superiores, portanto, de baixa complexidade e com natureza repetitiva.
+3. Agravo improvido (fls. 248).
+2. Nas razões do seu Apelo Nobre inadmitido, a Recorrente apontou violação do art. 20 do CPC/1973, asseverando ser irrisório o valor fixado a título de honorários advocatícios.
+3. Apresentadas contrarrazões (fls. 296/303), sobreveio juízo negativo de admissibilidade (fls. 313/315).
+4. É o breve relatório. Decido.
+5. Firmou-se a orientação, nesta Corte Superior, de que a revisão dos honorários advocatícios fixados pelas instâncias ordinárias somente é admissível em situações excepcionais, quando o valor se revelar manifestamente irrisório ou excessivo. Constatada a irrisoriedade ou a excessividade, é possível o julgamento do Recurso Especial pelo Relator, nos termos do art. 544, § 4o., II, c, ou do art 557, § 1o.-A, ambos do CPC.
+6. O critério para a fixação da verba honorária deve levar em conta, sobretudo, a razoabilidade do seu valor, em face do trabalho profissional advocatício efetivamente prestado, não devendo altear-se a culminâncias desproporcionais e nem ser rebaixado a níveis claramente demeritórios, não sendo determinante para tanto apenas e somente o valor da causa.
+7. Acerca da questão, assim se manifestou o Tribunal de origem:
+Destarte, tendo em vista a exclusão dos sócios do polo passivo da ação executiva, entendo serem devidos os honorários advocatícios, cabendo, portanto, a condenação da exequente ao pagamento da referida verba, que ora arbitro em R$ 2.000,00 (dois mil reais), nos termos autorizados pelo parágrafo 4o do artigo 20 do Código de Processo Civil, considerando-se que a questão jurídica suscitada já se encontra sedimentada nos tribunais superiores, portanto, de baixa complexidade e com natureza repetitiva (fls. 247).
+8. Como se observa, o presente caso não comporta a exceção que admite a revisão da verba sucumbencial, uma vez que foram sopesadas as circunstâncias necessárias e arbitrado quantum que se mostra razoável à remuneração adequada da atividade advocatícia desenvolvida.
+9. Ademais, da leitura do trecho supra, verifica-se que não há como se apurar o valor da causa e os critérios de equidade previstos no art. 20, § 3o. do CPC, para avaliar a razoabilidade dos honorários advocatícios, porquanto tais elementos não foram mencionados nas razões de decidir do acórdão local e não foram opostos Embargos de Declaração com o objetivo de sanar eventual omissão. Carecem, portanto, de prequestionamento, requisito indispensável ao acesso às instâncias excepcionais. Aplicáveis, assim, as Súmulas 282 e 356 do STF.
+10. Ante o exposto, conhece-se do Agravo para negar seguimento ao Recurso Especial.
+11. Publique-se.
+12. Intimações necessárias.
