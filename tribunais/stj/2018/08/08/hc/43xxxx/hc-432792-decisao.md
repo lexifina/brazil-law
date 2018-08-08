@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra decisão indeferitória de pedido urgente proferida por Desembargador do Tribunal de Justiça do Estado do Paraná, proferido no Habeas Corpus n. 0000288-97.2018.8.16.0000.
+Consta dos autos que o Paciente foi condenado, definitivamente, com incurso nos arts. 147, caput (1º fato) e 150, § 1.º (2º fato), c.c. o art. 61, alínea f, na forma do art. 69, do Código Penal, à pena de 1 (um) ano de detenção, a ser cumprida em regime semiaberto. Em 12/9/2017, o Juízo das Execuções Penais deferiu-lhe a progressão ao regime aberto, mas o sentenciado descumpriu, em tese, algumas das medidas impostas na decisão concessiva, deixando de se apresentar para audiência admonitória e de comparecer bimestralmente em juízo, bem como deixou de comunicar a eventual mudança de endereço residencial. Diante disso, o Juízo de origem suspendeu cautelarmente o regime aberto, determinando a expedição de mandado de prisão em desfavor do apenado.
+Sustenta o Impetrante, em suma, a ilegalidade das decisões impugnadas, visto que o Paciente foi recapturado em 4/1/2018 e se encontra preso até a data desta impetração em regime fechado. Isso porque, segundo afirma, o sentenciado está recolhido em delegacia de polícia, local destinado a presos provisórios, que não condiz com a sua situação processual, pois foi condenado a cumprir pena em regime semiaberto.
+Requer, liminarmente, a expedição de alvará de soltura.
+Indeferido o pleito liminar (e-STJ fls. 31/34) e prestadas as informações solicitadas (e-STJ fls. 45/111), opinou o Ministério Público Federal pela prejudicialidade do pedido (e-STJ fl. 114).
+É o relatório. Decido.
+Como bem esclareceu o Parquet Federal, o ato supostamente ilegal apontado na presente impetração - prisão no regime fechado, embora o paciente tenha sido condenado no regime semiaberto - não mais subsiste, tendo em vista que, em 4/1/2018, o Juízo de 1º grau determinou a expedição de alvará de soltura em favor do paciente (e-STJ fls. 46/47).
+Sendo assim, a presente impetração perdeu o seu objeto.
+Ante o exposto, julgo prejudicado o habeas corpus (art. 34, XI, do RISTJ).
