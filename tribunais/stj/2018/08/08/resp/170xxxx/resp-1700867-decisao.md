@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial manejado por Intermédica Sistema de Saúde S/A com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 126):
+Agravo de Instrumento - Prestação de serviços - Ação declaratória cumulada com repetição do indébito em fase de cumprimento do julgado - Homologação de cálculo com erro material - Possibilidade de correção nos termos do art. 463, inciso I do CPC  Necessidade de adequação dos cálculos ao dispositivo do acórdão, sob pena de ofensa à coisa julgada  Agravo de instrumento provido  Agravo regimental prejudicado.
+A parte recorrente aponta violação ao art. 463, I, do CPC/73. Sustenta, em síntese, que os cálculos apresentados não poderiam ser corrigidos, tendo em vista que "O ERRO se deu por culpa exclusiva da Recorrida e do Julgado" (fl. 136).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Ao dirimir a controvérsia, o Tribunal de origem consignou (fl.
+ Atendendo a determinação do juízo, a agravante, por manifesto equívoco, apresentou seus cálculos computando a correção monetária a partir de cada desembolso, quando a incidência deveria ocorrer a partir do ajuizamento da ação, em obediência ao V. Acórdão executado, já transitado em julgado.
+ Não há que se falar em preclusão, pois o pleito da agravante se funda em adequação dos cálculos ao comando emanado do dispositivo do acórdão reproduzido a fls. 33/39, não sendo possível aplicar critério de correção monetária diverso daquele definido na decisão exeqüenda, sob pena de ofensa à coisa julgada.
+Verifica-se que o Tribunal local, com base no arcabouço probatório dos autos, concluiu pela possibilidade de se revisar critérios de cálculos de execução, a fim de ajustar a conta ao comando do título judicial transitado em julgado. Assim, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. CUMPRIMENTO DE SENTENÇA. CÁLCULO COM BASE NO SBR. INEXISTÊNCIA DE PREVISÃO NO TÍTULO EXECUTIVO. REVISÃO. DESCABIMENTO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Tendo as instâncias ordinárias, soberanas no exame do acervo fático-probatório dos autos, concluído que os cálculos do laudo pericial estavam de acordo com os critérios estabelecidos no título executivo, notadamente em relação à ausência de determinação expressa acerca da condenação com base no SRB, afastando, assim, a alegação de ofensa à coisa julgada, não se mostra possível modificar tal conclusão ante o óbice do enunciado n. 7 da Súmula desta Corte Superior.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1099644/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/10/2017, DJe 26/10/2017)
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
