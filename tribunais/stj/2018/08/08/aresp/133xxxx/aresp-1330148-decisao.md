@@ -1,0 +1,40 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO E RECURSO ESPECIAL INTERPOSTOS SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO. RESPONSABILIDADE CIVIL. REEXAME DE PROVAS. SUMULA 7 DO STJ. DISPOSITIVO LEGAL APONTADO COMO VIOLADO NÃO É APTO PARA AFASTAR O FUNDAMENTO DO ACÓRDÃO A RESPEITO DO VALOR DA INDENIZAÇÃO. SÚMULA 284 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+[NOME] ([NOME]) ajuizou ação indenizatória contra REAL AUTO ÔNIBUS LTDA. (REAL), que foi julgada procedente.
+A apelação interposta por REAL não foi provida pelo Tribunal de origem, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. SENTENÇA (INDEX 152), INTEGRADA PELA DECISÃO DOS EMBARGOS DE DECLARAÇÃO (INDEX 172), QUE JULGOU PROCEDENTE O PEDIDO PARA CONDENAR A RECLAMADA (I) AO PAGAMENTO DE COMPENSAÇÃO POR DANOS MORAIS, NO VALOR DE R$ 5.000,00 (CINCO MIL REAIS), BEM COMO (II) AO PAGAMENTO DA QUANTIA DE R$ 79,00 (SETENTA E NOVE REAIS), REFERENTE AOS TRÊS DIAS DE INCAPACIDADE DO AUTOR PARA O TRABALHO. RECURSO DA RÉ A QUE SE NEGA PROVIMENTO. Somente a Requerida recorreu, pretendendo a improcedência do pleito compensatório, ou, alternativamente, a redução do quantum fixado a tal título. É de sabença notória que no contrato de transporte de passageiros está implícita a obrigação do transportador de conduzi-los incólumes até o seu destino, nos termos do art. 730 do Código Civil. Os documentos carreados tornam evidente a falha no serviço prestado pela Suplicada, cujo preposto não agiu com o zelo que seria esperado. Faltou-lhe o dever de cuidado com a integridade física do consumidor, restando desrespeitada, assim, a cláusula de incolumidade. Desta forma, caracterizada a responsabilidade da Ré e o dever de indenizar. Configurado o dano moral, o critério de arbitramento deve ser condizente com a narrativa dos fatos, sopesados os desdobramentos e a repercussão decorrente, porte financeiro do causador da mácula, sem olvidar a natureza punitivo-pedagógica do instituto. Assim, considera-se que a verba compensatória fixada em R$5.000,00 (cinco mil reais) atende às circunstâncias do caso em estudo, bem como aos princípios da proporcionalidade e razoabilidade. Quanto aos danos materiais, impõe-se a reparação pelos três dias em que o Reclamante ficou impossibilitado de exercer sua atividade laborai. Não havendo comprovação do salário mensal percebido pelo Autor, a reparação será quantificada com base no valor do salário mínimo. (e-STJ fls. 226/227)
+Os embargos de declaração de [NOME] e REAL foram rejeitados. (e-STJ fls. 247/256)
+Inconformada, REAL interpôs recurso especial, com fundamento no art. 105, III, a e c, da CF, alegando violação dos arts. 14, § 3º, inc. II, do CDC e 186 do CC, ao sustentar que (1) a colisão ocorreu por culpa de terceiro; (2) a recorrida não observou as normas de segurança e não se segurou nos locais apropriados no interior do coletivo, tratando-se de fato exclusivo da vítima; e, (3) o valor da indenização por danos morais deve ser reduzido.
+O apelo nobre não foi admitido em virtude da incidência da Súmula 7 do STJ.
+Nas razões do presente agravo em recurso especial, REAL sustentou que não é caso de incidência da referida súmula.
+Foi apresentada impugnação (e-STJ, fls. 325/334).
+É o relatório.
+Decido.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A irresignação não merece prosperar.
+(1) (2) Da responsabilidade civil
+A Corte estadual, após análise do conjunto fático probatório dos autos, concluiu que houve falha na prestação de serviço por parte da ora recorrente, assim consignando:
+Os documentos carreados tornam evidente a falha no serviço prestado pela Suplicada, cujo preposto não agiu com o zelo que seria esperado. Faltou-lhe o dever de cuidado com a integridade física do consumidor, restando desrespeitada, assim, a cláusula de incolumidade.
+O Boletim de Ocorrência (fl. 21, index 002) e o Boletim de Atendimento Médico (index 116) não deixam dúvidas acerca da condição de passageiro do Reclamante, da ocorrência do acidente e dos danos sofridos, estabelecendo o nexo causai.
+O laudo do Expert do Juízo (fls. 99/104, index 002) confirma que os danos sofridos pelo Suplicante são condizentes com a narrativa do fato e atesta a incapacidade laborativa do Demandante por três dias. (e-STJ 230/231)
+Assim, ultrapassar a conclusão a que chegou o eg. Tribunal a quo, demandaria nova incursão no arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, pois vedado pela Súmula 7 desta Corte: A pretensão de simples reexame de prova não enseja recurso especial.
+(3) Do quantum indenizatório
+Nas razões do especial, a agravante pretende, em suma, que o valor da indenização seja reduzido, apontando para tanto, violação ao artigo 186 do CC, que assim dispõem:
+Art. 186. Aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito.
+Note-se contudo, que referido dispositivo legal trata dos requisitos subjetivos da responsabilidade civil, não sendo imperativo legal apto a desconstituir o fundamento declinado no acórdão recorrido no que se refere ao valor da indenização por danos morais, atraindo a incidência da Súmula nº 284 do STF. A propósito:
+AGRAVO REGIMENTAL - AGRAVO EM RECURSO ESPECIAL - APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA - PLANO DE SAÚDE - HOME CARE - SOLICITAÇÃO DE ALTERAÇÃO DE TITULARIDADE DO PLANO NAS MESMAS CONDIÇÕES CONTRATUAIS JÁ FIRMADAS, DIANTE DA MORTE DO TITULAR - RECUSA NA COBERTURA DE TRATAMENTO - DANO MORAL - OCORRÊNCIA - QUANTUM - INCONFORMISMO DA RECORRENTE APONTOU DISPOSITIVOS LEGAIS QUE NÃO CONSTITUEM IMPERATIVOS LEGAIS APTOS A DESCONSTITUÍREM OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO - VIOLAÇÃO AO ARTIGO 535 DO CPC - INEXISTÊNCIA - RESTITUIÇÃO EM DOBRO DAS QUANTIAS COBRADAS DO TITULAR DO PLANO JÁ FALECIDO - REEXAME DE PROVAS - CERCEAMENTO DE DEFESA - INCIDÊNCIA DA SÚMULA 7/STJ - DECISÃO AGRAVADA MANTIDA
+1.-  ..
+2.- Os artigos 186 e 884 do Código Civil não constituem imperativos legais aptos a desconstituírem os fundamentos declinados no Acórdão no que se refere ao inconformismo quanto ao valor arbitrado a título de danos morais.
+3.-  ..
+4.-  ..
+5.-  ..
+(AgRg no AREsp 354.527/RJ, Rel. Ministro SIDNEI BENETI, Terceira Turma, julgado em 22/10/2013, DJe 6/11/2013)
+PROCESSUAL CIVIL. ART. 535 DO CPC. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. ART. 258 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF.
+1.  ..
+2. "O artigo 258 do Código de Processo Civil diz simplesmente que a toda causa deve ser atribuído um valor certo, não estabelece um critério específico ou um parâmetro concreto para fixação do valor da causa. O referido dispositivo legal tido por violado não representa, por isso, imperativo legal apto à desconstituição do acórdão recorrido na parte em que este chancelou o valor da causa atribuído na sentença. Incidência da Súmula 284/STF." (AgRg no Ag 1051685/MS, Rel. Min. Sidnei Beneti, Terceira Turma, DJe 4.5.2011.) Agravo regimental improvido.
+(AgRg nos EDcl no REsp 1294304/RJ, Rel. Ministro HUMBERTO MARTINS, Segunda Turma, julgado em 24/4/2012, DJe 2/5/2012)
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% os honorários advocatícios anteriormente fixados em desfavor de REAL, limitados a 20%, nos termos do art. 85, §§ 2º e 11, do NCPC.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
