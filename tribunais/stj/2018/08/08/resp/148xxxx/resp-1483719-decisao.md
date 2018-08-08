@@ -1,0 +1,33 @@
+EMENTA
+PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. OMISSÕES. VIOLAÇÃO DO ART. 535 DO CPC/73. CONFIGURAÇÃO. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Consta dos autos que M DE J S E OUTROS (MENORES), representados por M S DE J (M S DE J) propuseram ação de reparação de danos decorrente de acidente de veículo contra POSTO 4 COMÉRCIO DE COMBUSTÍVEIS LTDA (POSTO 4).
+O juízo de piso julgou parcialmente procedente a ação para condenar a réu parte a ação a pagar aos autores o valor de R$ 76.680,00 (setenta e seis mil e seiscentos e oitenta reais) a título de danos materiais; R$ 40.000,00 (quarenta mil reais) a título de danos morais; R$ 4.558,00 (quatro mil, quinhentos e cinquenta e oito reais) a título de indenização pela perda da moto da vítima; R$ 3.000,00 (três mil" reais); a título de despesas com funeral, além das custas e honorários advocatícios (e-STJ, fls. 99/103).
+O Tribunal de origem negou provimento ao recurso de apelação interposto pelo POSTO 4 em acórdão assim ementado:
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. ATROPELAMENTO E MORTE. PRELIMINARES DE ILEGITIMIDADE ATIVA, INADEQUAÇÃO DO RITO E NULIDADE, POR CERCEAMENTO DE DEFESA. AFASTADAS. CULPA EXCLUSIVA DA VÍTIMA NÃO DEMONSTRADA. ÔNUS DO RÉU. ART. 333, II, CPC. RECURSO IMPROVIDO.
+O argumento de que somente o espólio tem capacidade para ingressar em juízo na defesa de seus interesses não prospera. Isso porque, a ação indenizatória de reparação de danos, em acidente de trânsito, é de legitimidade daqueles que viviam sob a dependência do de cujus e sofreram com sua perda, tratando-se de dano com natureza personalíssima.
+Também sem acolhimento, por ausência de fundamentação legal, a afirmação de que a ação de ressarcimento por acidente de veículo não guarda identidade com a condenação em danos morais. O rito processual sumário adotado para a espécie, adequa-se ao quanto estabelecido pelo art. 275, II, alínea d, do CPC.
+Se o indeferimento da oitiva das testemunhas arroladas pelo réu ocorreu em audiência, naquela assentada, caberia interposição de agravo retido, na forma oral, nos termos do art. 523, § 3º do CPC. A inércia ou interposição a destempo implica preclusão do direito à referida prova.
+No mérito, os argumentos do apelante de que o acidente ocorrera por culpa exclusiva da vítima, que dirigia alcoolizada e executou manobra irregular, não encontram ressonância nos elementos de prova dos autos. As conclusões do laudo pericial apontaram como causa do acidente "a conduta imprópria do motorista da unidade de tráfego de placa [PLACA] articulado com o [PLACA], por estar realizando manobra de conversão à esquerda, sem observar se as condições de tráfego lhe eram favoráveis, interceptando a trajetória da motocicleta [PLACA] e dando origem ao sinistro ora relatado. Lado outro, laudo de exame cadavérico indicou a presença de 0,01 g/L (um centigrama de álcool etílico por litro de sangue), sendo forçoso concluir tratar-se de quantidade insignificante e inapta à alterar a percepção e o reflexo do condutor.
+Os laudos periciais constituem meio de prova suficiente para concluir pela culpabilidade do responsável pelo acidente. Se os fatos, supostamente, ocorreram de forma diversa, caberia ao apelante a desconstituição da força probante do laudo de exame cadavérico e do laudo pericial, nos termos do artigo 333, inciso II, do CPC, sendo certo que, na espécie, não se desincumbiu de fazê-lo.
+Em responsabilidade extracontratual, os juros de mora e a correção monetária incidirão, respectivamente, a partir da data do evento danoso e desde a data da fixação do valor definitivo para a condenação. Incidência das súmulas 54 e 362 do STJ. Recurso improvido (e-STJ, fls. 176/177).
+Os embargos de declaração opostos pelo POSTO 4 foram rejeitados (e-STJ, fls. 208/216).
+Inconformado, POSTO 4 interpõe recurso especial com fundamento nas alíneas a e c do permissivo constitucional, sob o fundamento de que, além de dissídio jurisprudencial, houve violação dos arts. 12, 40, 165, 234, 244, 250, 267, 275, 292, 332, 333, 398, 400, 412, 420, 427, 458, 523 e 535, II, do CPC/73 e 7º da Lei nº 8.906/94, sob o argumento de (1) negativa de prestação jurisdicional, pois o Tribunal de origem não se manifestou acerca da aplicação dos arts. 734, 735 e 927 do CC/02; e, (2) culpa exclusiva da vítima.
+O recurso especial não foi admitido (e-STJ, fls. 273/274), tendo seguimento por força de agravo provido (e-STJ, fl. 335).
+É o relatório.
+DECIDO.
+O inconformismo merece prosperar.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+O Tribunal de origem, ao analisar os embargos de declaração, deixou de se manifestar acerca da aplicação dos arts. 734, 735 e 927 do CC/02.
+É condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenham sido analisadas pelo acórdão objurgado. Assim, recusando-se a Corte de origem a se manifestar sobre as questões federais terminou por negar prestação jurisdicional ao Recorrente.
+A propósito:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE.
+1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC.
+2. Agravo regimental não provido.
+(AgRg no REsp 1187807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/6/2012, DJe 28/6/2012)
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Fica prejudicada a analise das demais questões.
+Ante o exposto, DOU PROVIMENTO ao recurso especial, determinando o retorno dos autos ao Tribunal de origem para que analise as questões trazidas nos embargos de declaração, como entender de direito.
+Por fim, advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º do NCPC).
+Publique-se. Intimem-se.
