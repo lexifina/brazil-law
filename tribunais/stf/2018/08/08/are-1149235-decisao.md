@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado da Bahia, assim ementado:
+    “RECURSO INOMINADO. JUIZADO ESPECIAL. FAZENDA PÚBLICA. DIREITO ADMINISTRATIVO. POLICIAL CIVIL. INDEFERIMENTO DE PROMOÇÃO FUNCIONAL. NECESSIDADE DE PREENCHIMENTO DE REQUISITOS LEGAIS. POLICIAL INDICIADO EM PROCESSO ADMINISTRATIVO DISCIPLINAR. FATO IMPEDITIVO. OBSERVÂNCIA DE LEI ESTADUAL. INOCORRÊNCIA DE ILEGALIDADE NO ATO ADMINISTRATIVO. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, EX VI DO ART. 46, DA LEI 9.099/95. RECURSO CONHECIDO E NÃO PROVIDO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, II, XXXV, LVII; e 37, caput e XV, da CF.
+    A decisão deve ser mantida. O Tribunal de origem concluiu que o recorrente não preencheu todos os requisitos para a promoção pleiteada. Dissentir da conclusão do acórdão recorrido demandaria o reexame dos fatos e do material probatório constante dos autos, bem como uma nova análise da legislação local aplicável ao caso (Lei estadual nº 12.601/2012). Nessas hipóteses, incidem as Súmulas 279 e 280/STF.
+    Em se tratando especificamente de supostas ofensas ao princípio da legalidade, o que se pode questionar nesta sede, em linha de princípio, é o eventual descumprimento da própria reserva legal, ou seja, da exigência de que determinada matéria seja disciplinada por lei, e não por ato secundário. Não é disso que se trata nos autos. A hipótese, portanto, atrai a incidência da Súmula 636/STF:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.”
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. Tal verba, contudo, fica com sua exigibilidade suspensa em razão do deferimento da assistência judiciária gratuita ao agravante, nos termos do art. 98, § 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 08 de agosto de 2018.
+Ministro Luís Roberto Barroso
+Relator
