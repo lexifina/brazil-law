@@ -1,0 +1,35 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO. INCÊNDIO OCORRIDO EM ARMAZÉM AÇUCAREIRO. IMPROCEDÊNCIA DA AÇÃO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022, II DO NCPC E INVERSÃO DO ÔNUS DA PROVA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 282 DO STF, POR ANALOGIA. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+ADILSON RODRIGUES DOS SANTOS (ADILSON) promoveu contra COPERSUCAR S.A, ação de indenização decorrente de incêndio ocorrido aos 18/10/2013, em armazém açucareiro da mesma, razão pela qual foram lançadas ao mar, toneladas de resíduos de açúcar, causando a morte de grande quantidade de peixe no canal do Porto de Santos, local onde exercia atividade pesqueira para sua subsistência como pescador profissional artesanal.
+O pedido foi julgado improcedente, condenando-se ADILSON ao pagamento dos honorários advocatícios fixados em R$ 2.000,00 (dois mil reais) (e-STJ, fls. 442/445).
+Interposta apelação por ADILSON, o Tribunal de origem negou-lhe provimento, em acórdão assim ementado:
+APELAÇÃO CÍVEL - Ação Indenizatória - Incêndio ocorrido em armazém açucareiro - Competência das Câmaras de Direito Privado, conforme já estabelecido pelo C. Órgão Especial deste E. Tribunal - Cerceamento de defesa não ocorrido - Elementos constantes dos autos e circunstâncias do caso concreto que revelam a improcedência do pedido de reparação - Não demonstração de nexo causai, ainda que reconhecida a responsabilidade objetiva - Alegação de diminuição dos rendimentos da parte autora (pescadora artesanal) que não se sustenta, porque podia e pode se servir de outros locais da região para exercer sua atividade, o que é fato notório, aliás - Sentença de improcedência mantida, inclusive por seus bastantes fundamentos - Apelo não provido (e-STJ, fl. 755).
+Irresignado, ADILSON interpôs recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, alegando violação de dispositivos de lei federal (art. 1.022, I e II, do NCPC; e, arts. 21 da Lei nº 7.347/86 e 6º, VIII, do CDC), por entender, em suma, que (1) houve omissão do aresto recorrido no que se refere à distribuição do ônus da prova; (2) houve negativa de prestação jurisdicional no tocante à ocorrência de cerceamento de defesa; (3) deve haver a inversão do ônus da prova.
+Contrarrazões apresentadas (e-STJ, fls. 783/797).
+O Presidente do Tribunal da Justiça do Estado de São Paulo deixou de admitir o recurso interposto pela ausência de omissão no aresto recorrido, falta de demonstração de ofensa à legislação infraconstitucional e incidência da Súmula nº 07 do STJ (e-STJ, fls. 849/850).
+Interposto o agravo em recurso especial, NELSON refutou os fundamentos da decisão agravada.
+Contraminuta foi apresentada (e-STJ, fls. 892/908).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) e (3) Da violação do art. 1.022, II do NCPC e da inversão do ônus da prova
+Observa-se que, ao contrário do afirmado nas razões do especial, ADILSON não interpôs embargos de declaração contra o acórdão da apelação. Assim, o tema referente ao art. 1.022, II, do NCPC não foi apreciado pelo acórdão objurgado, não tendo ocorrido o necessário prequestionamento. Na mesma linha, tem-se que os arts. 21 da Lei 7.347/86 e 6º, VIII, da Lei 8.078/90 também não tiveram seus conteúdos normativos analisados pelo Tribunal de origem e tampouco foram opostos embargos de declaração, estando ausente o indispensável debate prévio. Inexistente o prequestionamento, fica obstaculizada a via de acesso ao apelo excepcional.
+Inafastável, aqui, a incidência da Súmula nº 282 do STF, aplicada por analogia: é inadmissível o recurso extraordinário quando não ventilada, na decisão recorrida, a questão federal suscitada.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANOS MORAIS. FRAUDE DE TERCEIRO. 1. VIOLAÇÃO AO ART. 535 DO CPC/1973. INEXISTÊNCIA. 2. SÚMULAS 282/STF E 211/STJ. 3. ART. 70, III, DO CPC/1973. DENUNCIAÇÃO DA LIDE. FALTA DE OBRIGATORIEDADE NO CASO. SÚMULAS 7 E 83/STJ. 4. FALHA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS. CARACTERIZAÇÃO DO DANO MORAL. REVISÃO OBSTADA PELA SÚMULA 7/STJ. 5. AGRAVO IMPROVIDO.
+1. Não ocorre violação ao art. 535 do CPC/1973 quando o julgador decide a lide, como no caso examinado, de forma fundamentada, indicando os motivos de seu convencimento, ainda que o resultado seja contrário ao esperado pela parte.
+2. Não se conhece de recurso especial se, mesmo opostos embargos de declaração, não ocorreu o prequestionamento dos preceitos legais ditos violados. Incidência das Súmulas 282 do STF e 211 do STJ.
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 894.587/BA, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 18/08/2016, DJe 29/8/2016 - sem destaque no original).
+(2) Da alegação de ofensa ao art. 1.022, I, do NCPC - cerceamento de defesa
+Não há que se falar em negativa de prestação jurisdicional, pois o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte.
+Conforme se extrai do acórdão recorrido, o Tribunal de origem concluiu que não ocorreu o cerceamento de defesa, uma vez que o juiz singular, considerando o conjunto fático-probatório dos autos e as circunstâncias do caso, entendeu ser viável o julgamento da causa.
+Assim, tem-se que não houve ofensa ao art. 1.022, I, do NCPC, pois a matéria referente ao cerceamento de defesa foi devidamente enfrentada pela Corte de origem, que emitiu pronunciamento de forma segura e clara, ainda que em sentido contrário à pretensão da recorrente, destacando as razões que levaram à conclusão do julgado.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para CONHECER EM PARTE do recurso especial, e, nessa extensão, NEGAR-LHE PROVIMENTO.
+MAJORO os honorários advocatícios anteriormente fixados em desfavor de ADILSON de R$ 2.000,00 (dois mil reais) para R$ 2.100,00 (dois mil e cem reais), nos termos do art. 85, § 11, do NCPC. Ressalte-se não ser aplicável, no caso, o limite previsto no § 2º do mesmo artigo, porque a verba honorária foi estipulada com base na equidade.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
