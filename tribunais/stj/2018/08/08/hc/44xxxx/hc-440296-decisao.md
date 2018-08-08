@@ -1,0 +1,6 @@
+DECISÃO
+1. Trata-se de habeas corpus por meio do qual a Defensoria Pública estadual pleiteia, em síntese, a revogação da segregação processual decretada em desfavor de ELLEN DA SILVA VIEIRA.
+2. Entretanto, das informações obtidas na página eletrônica do Tribunal de origem, verifica-se que, em 24/12/2017, foi prolatada sentença condenando a ora paciente como incursa nos arts. 147, caput, c.c. art. 61, inciso II, alínea "e", 147, caput, c.c. art. 61, inciso II, alínea "h", nos termos do art. 70, e 250, § 1º, inciso II, alínea "a", c.c. art. 61, inciso II, alíneas "a" e "h", nos termos do art. 70, todos do Código Penal, às penas de 6 (seis) anos, 4 (quatro) meses e 25 (vinte e cinco) dias de reclusão, em regime inicial semiaberto, mais pagamento de 15 (quinze) dias-multa, ocasião em que concedeu à paciente o direito de apelar em liberdade, com a expedição do competente alvará de soltura, circunstância que evidencia a perda do objeto do presente apelo.
+3. Ante o exposto,com fulcro no art. 34, inciso XX, do Regimento Interno deste Superior Tribunal de Justiça, julga-se prejudicado o presente habeas corpus.
+Publique-se e intimem-se.
+Após ciência do Ministério Público Federal e o trânsito em julgado desta decisão, arquivem-se os autos.
