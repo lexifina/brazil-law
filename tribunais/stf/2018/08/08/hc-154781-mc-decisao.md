@@ -1,0 +1,19 @@
+DECISÃO
+PENA – REGIME DE CUMPRIMENTO – CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS – ARTIGO 33, § 3º, DO CÓDIGO PENAL – OBSERVÂNCIA.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Dr. Gustavo Mascarenhas Lacerda Pedrina prestou as seguintes informações:
+    O Juízo da Quarta Vara Criminal da Comarca de Osasco/SP, no processo nº 1.832/11, condenou o paciente a 5 anos e 4 meses de reclusão, em regime inicial fechado, e ao pagamento de 13 dias-multa, em virtude da prática da infração definida no artigo 157, § 2º, incisos I e II (roubo circunstanciado em concurso de agentes), do Código Penal. Reportando-se à primariedade, ausência de antecedentes e à circunstância de o delito não haver sido com emprego de efetiva violência contra o ofendido, fixou a pena-base no mínimo legal – 4 anos. Fez incidir, na terceira fase da individualização, as causas de aumento atinentes ao concurso de agentes e emprego de arma, exasperando a sanção no patamar de 1/3. Impôs o regime fechado, ante o caráter didático da pena e a compulsão criminosa, que reportou revelada pelo paciente, mencionando o artigo 59 do Código Penal.
+    Interposta apelação pela defesa, a Sétima Câmara Criminal deu-lhe parcial provimento apenas para conceder o benefício de justiça gratuita. Concluiu, em razão da periculosidade, necessária a estipulação do regime fechado. Apontou a adequação do regime mais gravoso para fins de acautelamento da sociedade, aterrorizada pelo cometimento de crimes contra o patrimônio. O acórdão transitou em julgado em 7 de julho de 2016.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 432.584. O Relator, mediante decisão individual, inadmitiu a impetração. Destacou o cabimento do regime fechado, tendo em vista que o paciente, em concurso de agentes e por meio de emprego de arma de fogo, abordou a vítima em via pública.
+    O impetrante ressalta estar a imposição do regime inicial fechado destituída de fundamentação, dizendo-a lastreada em afirmações genéricas e abstratas. Articula com a violação dos artigos 93, inciso IX, da Constituição Federal, e 33, § 2º, alínea “b”, do Código Penal. Evoca o teor dos verbetes nº 718 e nº 719 da Súmula do Supremo. Sublinha não se haver extrapolado os núcleos de tipologia do crime.
+    Requer, no campo precário e efêmero, seja estabelecido, até o julgamento final desta impetração, o regime semiaberto. No mérito, busca a confirmação da providência.
+    A fase é de apreciação da medida acauteladora.
+    2. O Juízo, ao estipular a pena-base, considerado o mínimo de 4 anos e o máximo de 10, veio a fixá-la em 4 anos, destacando serem favoráveis as circunstâncias judiciais do artigo 59 do Código Penal. Na sequência, reportando-se ao caráter didático da sanção e ao mesmo artigo 59 do Código Penal, impôs o regime inicial fechado. Surge a insubsistência das premissas lançadas. É contraditória a dupla tomada do artigo 59, primeiro aludido de maneira benéfica, a fim de estabelecer a pena-base no mínimo legal, para, em seguida, fixar-se regime mais gravoso.
+    Atentem para a disciplina legal referente à imposição do regime inicial de cumprimento. Norteia-o o patamar da condenação e as circunstâncias judicias, consoante dispõe, em bom vernáculo, o artigo 33, § 3º, do Código Penal.
+    No caso, observada a estipulação da pena-base no mínimo legal, bem como a quantidade de sanção estabelecida – 5 anos e 4 meses –, revela-se inviável a imposição do regime inicial fechado, ante o versado nos dispositivos legais citados, surgindo adequado o semiaberto.
+    3. Defiro a liminar para implementar, até o julgamento do mérito desta impetração, o regime semiaberto ou, caso atendidos os requisitos à progressão, o aberto.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 8 de agosto de 2018.
+Ministro MARCO AURÉLIO
+Relator
