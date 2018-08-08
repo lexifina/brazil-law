@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial manejado por SERGIPEL PRODUTOS ELETRÔNICOS LTDA com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fl. 188):
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. CONTINÊNCIA RECONHECIDA. APLICAÇÃO DOS ARTS. 56 E 57 DO CPC/2015. MANUTENÇÃO DA EXTINÇÃO DO FEITO SEM JULGAMENTO DO MÉRITO. IMPROVIMENTO DO RECURSO.
+1. Trata-se de apelação contra sentença que, em sede de Mandado de Segurança, extinguiu o presente feito sem resolução do mérito, nos termos dos arts. 57 e 485, X, do CPC/2015, pelo reconhecimento da continência.
+2. O instituto da continência está previsto no art. 56 do CPC/2015, dispondo que "dá-se a continência entre 2 (duas) ou mais ações quando houver identidade quanto às partes e à causa de pedir, mas o pedido de uma, por ser mais amplo, abrange o das demais.". É o que se verifica no caso concreto.
+3. O presente Mandado de Segurança e o Mandado de Segurança distribuído anteriormente, de nº. 0801153-74.2017.4.05.8500, possuem as mesmas partes, mesma causa de pedir, referente à inclusão do ICMS na base de cálculo do PIS/COFINS, porém o pedido do primeiro feito é mais amplo, tratando do direito de compensação do impetrante nos últimos cinco anos, enquanto que nesse segundo processo, a compensação refere-se apenas aos últimos dois anos. Há litispendência, considerando que o primeiro mandado de segurança e o presente possuem tríplice identidade.
+4. Existindo outro processo no qual se pleiteia algo mais amplo, que já abrange o pedido do presente processo, não é possível que o impetrante persiga o provimento do seu recurso. Dado que o pedido do primeiro obsta a pretensão do presente , daí a correta extinção do presente feito sem julgamento do writ mérito, nos termos do art. 57, do NCPC.
+5. Reconhecimento do instituto da continência deste feito com o outro processo referido que se impõe.
+Sentença mantida em todos os seus termos.
+6. Apelação improvida.
+A parte recorrente aponta violação aos arts. 56, 57 e 485, X do CPC/2015, além de dissídio jurisprudencial. Sustenta, em síntese, que os referidos mandados de segurança não possuem a mesma causa de pedir e pedidos, não podendo, pois, ser objeto de litispendência ou continência.
+Ouvido o MPF, este opinou pelo não conhecimento do recurso (fls. 299/303).
+É o relatório.
+Colhe-se do acórdão recorrido a seguinte fundamentação quanto à ocorrência de litispendência e continência, verbis (fls. 187/188):
+O instituto da continência está previsto no art. 56 do CPC/2015, dispondo que "dá-se a continência entre 2 (duas) ou mais ações quando houver identidade quanto às partes e à causa de pedir, mas o pedido de uma, por ser mais amplo, abrange o das demais.". É o que se verifica no caso concreto.
+O presente Mandado de Segurança e o Mandado de Segurança distribuído anteriormente, de nº. 0801153-74.2017.4.05.8500, possuem as mesmas partes, mesma causa de pedir, referente à inclusão do ICMS na base de cálculo do PIS/COFINS, porém o pedido do primeiro feito é mais amplo, tratando do direito de compensação do impetrante nos últimos cinco anos, enquanto que nesse segundo processo, a compensação refere-se apenas aos últimos dois anos. Há litispendência, considerando que o primeiro mandado de segurança e o presente possuem tríplice identidade.
+Por sua vez, existindo outro processo no qual se pleiteia algo mais amplo, que já abrange o pedido do presente processo, não é possível que o impetrante persiga o provimento do seu recurso. Dado que o pedido do primeiro obsta a pretensão do presente, daí a correta extinção do presente feito sem writ julgamento do mérito, nos termos do art. 57, do NCPC.
+Portanto, reconheço o instituto da continência deste feito com o outro processo referido, devendo ser mantida a sentença de 1º grau em todos os seus termos.
+Nesse contexto, o acolhimento da alegação deduzida, no que tange à verificação da ocorrência ou não de litispendência e continência, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
