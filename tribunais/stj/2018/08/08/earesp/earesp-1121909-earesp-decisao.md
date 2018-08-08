@@ -1,0 +1,26 @@
+EMENTA
+DIREITO CIVIL. EMBARGOS DE DIVERGÊNCIA. AÇÃO DE RESCISÃO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL C/C PEDIDO DE DEVOLUÇÃO DAS PARCELAS PAGAS. JUROS DE MORA. TERMO INICIAL. TRÂNSITO EM JULGADO.
+1. "Na hipótese de resolução contratual do compromisso de compra e venda por simples desistência dos adquirentes, em que postulada, pelos autores, a restituição das parcelas pagas de forma diversa da cláusula penal convencionada, os juros moratórios sobre as mesmas serão computados a partir do trânsito em julgado da decisão" (REsp 1.008.610/RJ, 2ª Seção, DJe de 03/09/2008).
+2. Embargos de divergência conhecidos e providos.
+DECISÃO
+Cuida-se de embargos de divergência opostos por ESSER HOLANDA EMPREENDIMENTO IMOBILIARIO - SPE LTDA contra acórdão proferido pela 4ª Turma do STJ.
+Ação: de rescisão contratual, ajuizada por SONIA HITOMI KAWAMURA e EDUARDO KIYOSHI KAWAMURA, em face da embargante, na qual requerem o desfazimento de promessa de compra e venda de imóvel firmada entre as partes, com a consequente devolução dos valores pagos.
+Sentença: julgou parcialmente procedente o pedido, para declarar resolvida a avença e condenar a embargante à restituição de 75% das quantias pagas pelos promitentes compradores, com correção monetária e juros de mora de 1% ao mês a contar do trânsito em julgado.
+Acórdão: conheceu em parte da apelação interposta pelos embargados e, nessa extensão, deu-lhe parcial provimento, para determinar a devolução de 85% dos valores pagos pelos embargados, com incidência de juros de mora de 1% ao mês a partir da citação.
+Recurso especial: foi interposto pela embargante com fundamento nas alíneas "a" e "c" do permissivo constitucional. Alegou violação dos arts. 396 e 405 do CC/02, bem como dissídio jurisprudencial, sustentando: (i) a validade do percentual estipulado como cláusula penal (40%); (ii) a incidência dos juros moratórios a partir do trânsito em julgado.
+Prévio juízo de admissibilidade: o TJ/SP negou seguimento ao recurso especial.
+Acórdão: manteve a decisão unipessoal do Relator que conheceu de agravo para negar provimento ao recurso especial, nos termos da seguinte ementa (e-STJ fl. 321):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO. RETENÇÃO. PERCENTUAL DE 15%. RAZOABILIDADE. MELHOR PERCENTUAL A SER RETIDO. SÚMULAS 5 E 7 DO STJ. JUROS MORATÓRIOS DA CITAÇÃO. CABIMENTO. SÚMULA 83 DO STJ. RECURSO NÃO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é no sentido de que, nas hipóteses de rescisão de contrato de promessa de compra e venda de imóvel por inadimplemento do comprador, tem admitido a flutuação do percentual de retenção pelo vendedor entre 10% e 25% do total da quantia paga. Precedentes.
+2. No caso, o percentual de 15% do valor pago a ser retido pelo vendedor foi fixado pelas instâncias ordinárias com base nas particularidades do caso concreto. Saber qual seria o percentual mais condizente com a realidade do processo demanda a revisão de todo o substrato probatório, providência obstada no recurso especial pelas Súmulas 5 e 7 do STJ.
+3. Acórdão recorrido em sintonia com a jurisprudência do STJ no sentido de que, "tratando-se de responsabilidade contratual, e sendo a promitente vendedora a única responsável pelo descumprimento da avença, o termo inicial para a incidência dos juros moratórios é a data da citação" (AgInt no AREsp 978.519/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/08/2017, DJe de 25/08/2017). Incidência da Súmula 83 do STJ.
+4. Agravo interno a que se nega provimento.
+Embargos de divergência: apontam dissonância entre o entendimento do acórdão embargado e a orientação adotada pela 3ª Turma no AgRg no REsp 1.342.255/SP, no tocante à incidência dos juros de mora a partir do trânsito em julgado na hipótese de rescisão contratual por culpa dos compradores.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: CPC/2015
+- Da jurisprudência consolidada no âmbito do STJ
+O acórdão embargado, ao entender que os juros de mora são devidos a partir da citação, por se tratar de responsabilidade contratual, divergiu da orientação há muito consolidada pela 2ª Seção deste Tribunal, no sentido de que "na hipótese de resolução contratual do compromisso de compra e venda por simples desistência dos adquirentes, em que postulada, pelos autores, a restituição das parcelas pagas de forma diversa da cláusula penal convencionada, os juros moratórios sobre as mesmas serão computados a partir do trânsito em julgado da decisão", eis que inexiste anterior mora da promitente vendedora (REsp 1.008.610/RJ, 2ª Seção, DJe de 03/09/2008).
+A propósito, confiram-se também: REsp 1.617.652/DF, 3ª Turma, DJe de 29/09/2017 e REsp 1.211.323/MS, 4ª Turma, DJe de 20/10/2015.
+Assim, a teor da Súmula 568/STJ, os presentes embargos comportam acolhimento, para o fim de se adequar o julgado embargado à jurisprudência consolidada do Tribunal.
+Forte nessas razões, com fundamento no art. 932, V, "a", do CPC/2015, CONHEÇO e DOU PROVIMENTO aos embargos de divergência para reformar em parte o acórdão embargado e, consequentemente, determinar que, sobre as parcelas a serem restituídas, incidam juros de mora de 1% ao mês a partir da data do trânsito em julgado.
+Publique-se. Intimem-se.
