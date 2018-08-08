@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME] contra acórdão do Tribunal de Justiça do Estado de São Paulo (HC n. 2055029-74.2018.8.26.0000).
+Consta dos autos que o paciente foi preso em flagrante no dia 17/3/2018 (prisão convertida em preventiva), e foi denunciado como incurso nas sanções do art. 33, caput, da Lei n. 11.343/2006, porque, guardava e tinha em depósito, para fins de tráfico, 54 (cinquenta e quatro) eppendorfs contendo 17,9 gramas de cocaína (e-STJ fl. 46).
+Inconformada, a defesa impetrou habeas corpus na Corte estadual alegando, em síntese, a ausência dos requisitos autorizadores da custódia cautelar, bem como que a decisão combatida carece de motivação idônea, eis que o Magistrado se valeu da gravidade em abstrato do delito para fundamentar a prisão do paciente (e-STJ fl. 50). O Tribunal de origem, contudo, denegou a ordem. A decisão colegiada recebeu a seguinte ementa (e-STJ fl. 49):
+"Habeas Corpus" Tráfico de Drogas Decretação da Prisão Preventiva Descabimento da concessão de liberdade provisória ou substituição da custódia cautelar por outras medidas Decisão do MM. Juízo que se fundamentou no caso concreto Apreensão de diversas porções de cocaína Excepcionalidade do cabimento da liberdade provisória às hipóteses do tráfico de drogas, ante a inegável gravidade concreta do delito Eventuais condições pessoais favoráveis que, por si só, não afastam a necessidade da custódia cautelar Presentes os requisitos necessários para a segregação cautelar, sua manutenção é de rigor Ausência de constrangimento ilegal Ordem denegada.
+Na presente oportunidade, o impetrante alega que nada de ilícito foi encontrado com o paciente, reitera os argumentos de falta de fundamentação concreta e dos requisitos autorizadores da prisão preventiva. Ressalta, ainda, que o paciente é primário, de bons antecedentes, possui trabalho lícito e não tem envolvimento com organização criminosa.
+Diante do exposto, pede, liminarmente e no mérito, a concessão da liberdade provisória em favor do paciente, com ou sem a imposição de medidas cautelares diversas.
+A liminar foi indeferida (e-STJ fls. 58/60).
+As informações foram prestadas (e-STJ fls. 64/66) e o Ministério Público Federal, previamente ouvido, manifestou-se pela denegação da ordem, em parecer assim resumido (e-STJ fl. 69):
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADA. REQUISITOS. NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. PARECER PELA DENEGAÇÃO.
+É o relatório, decido.
+Consoante informações colhidas do site do Tribunal de Justiça do Estado de São Paulo, em 4/7/2018 sobreveio sentença de absolvição penal. Confira-se o dispostivo (Ação Penal n. 0000055-31.2018.8.26.0612, grifei):
+Ante o exposto, julgo IMPROCEDENTE a ação penal, para ABSOLVER [NOME] [NOME] DE ALMEIDA, da acusação de tráfico de entorpecentes, com fulcro no art. 386. VII. do CPP.
+Expeça-se alvará de soltura, com urgência.
+O réu e beneficiário da assistência judiciária, estando isento do pagamento de custas. Pedido da defesa que se defere nesta oportunidade.
+Com o trânsito em julgado, providencie o cartório, se o caso: A) Extração da tarja vermelha identificadora de réu preso, bem como a atualização dos dados no sistema informatizado: B) as comunicações de praxe (Delpol. IIRGD e TRE): C) guia de recolhimento definitiva; D) certidão de honorários, se o caso: E) encaminhamento de cópia da sentença à vítima (art. 201. § 2o, CPP): F) cálculo da multa e manifestação das partes.
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
