@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Agravo, interposto por DEPARTAMENTO DE EDIFICACOES E ESTRADAS DE RODAGEM DO ESTADO DE MINAS GERAIS - DEER-MG, em 27/02/2018, contra decisão do Tribunal de Justiça do Estado de São Paulo, que inadmitiu o Recurso Especial interposto contra acórdão assim ementado:
+"EMBARGOS À EXECUÇÃO - PRESCRIÇÃO INTERCORRENTE - Precatório não integralmente cumprido - Apuração de saldo credor em favor dos exequentes - Determinação de expedição de ofício requisitório complementar Admissibilidade - Não se opera a prescrição se o credor demonstrou interesse no recebimento, sem abandono do trâmite processual - Os exequentes estavam aguardando o pagamento do ofício requisitório complementar - Inocorrência de prescrição intercorrente - Precedentes do C. STJ e deste E. Tribunal - Sentença mantida - Recurso improvido" (fl. 148e).
+Alega a parte recorrente, nas razões do especial, violação ao art. 3º do Decreto 4.597/42, sustentando que:
+"A recorrente apresentou embargos à execução, com fundamento na consumação da prescrição e do excesso de execução dos valores de atualização do precatório ES 1115/89, OC 73190.
+Frisa-se que o saldo ora cobrado era de R$ 719.397,60, e foi objeto do ofício EP 2961/95, expedido com fundamento no artigo 337, VII, do RITJESP, após apuração pelo DEPRE dentro do processo administrativo de requisição de pagamentos.
+Destaca-se que o pedido de depósito do valor atualizado do débito foi formulado pela exequente em 05/09/2008, correndo um lapso temporal de mais de 12 anos, vez que o ofício requisitório complementar foi expedido, para pagamento em 90 dias, em 20/03/95.
+Logo, fora de dúvidas o decurso do prazo previsto no art. 3º do Decreto -Lei 4.597/42:
+(..)
+Verifica-se assim claramente a ocorrência do prazo prescricional de qualquer pretensão do recorrido, na medida em que, como visto, permaneceu inerte sem promover a cobrança do seu crédito por mais de 2 anos e meio.
+Caberia à parte impugnar os cálculos apresentados e demonstrar eventual insuficiência do pagamento.
+Diversas são as decisões do Superior Tribunal de Justiça reconhecendo a prescrição do saldo de precatório quando há inércia do exequente, contado o prazo da data do último depósito:" (fls. 158/167e).
+Ao final, requer, o provimento do recurso.
+Apresentadas contrarrazões (fls. 170/171e).
+Negado seguimento ao Recurso Especial (fls. 176/177e), foi interposto o presente Agravo (fls. 180/183e).
+Apresentada contraminuta (fls. 190/194e).
+A irresignação não merece acolhimento.
+Quanto ao cerne da controvérsia, eis os termos do acórdão recorrido:
+"Como se sabe, prescrição é a perda do direito de ação pela inércia do interessado em exercitá-lo no tempo preconizado em lei.
+No vertente feito, importa salientar que o DER bate-se pelo reconhecimento da prescrição intercorrente sob o argumento de que os exequentes foram inertes na condução do feito e deixaram de adotar qualquer providência mesmo entendendo insuficientes os depósitos.
+Ora, a questão em comento já fora objeto de extensos debates neste Tribunal de Justiça, sendo certo que prevalece como dominante o entendimento segundo o qual não se pode considerar inertes os credores da Fazenda Pública porquanto se trata de execução de julgado com expedição de precatório/ofício requisitório e posterior discussão acerca de questões atinentes à insuficiência de pagamento e complementação de depósitos em execuções contra a autarquia estadual.
+Neste quadro, imperioso se faz o reconhecimento da suspensão da execução e, portanto, sem curso o prazo prescricional.
+(..)
+Ora o crédito exequendo, segundo relata a embargante, é decorrente de valor atualizado de "ofício requisitório complementar" EP 2961/95, expedido com fundamento no artigo 337, VII, do RITJESP, após apuração pelo DEPRE de insuficiência no pagamento do precatório original ES 1115/89, protocolado para pagamento em 90 dias em 20/03/1995. Assim, protocolado o "ofício requisitório complementar", nenhuma outra conduta há de se exigir do credor, tão somente aguardar o pagamento.
+Deste modo, não pode a Fazenda Pública se esquivar do pagamento dos valores que são devidos e que foram judicialmente reconhecidos" (fls. 147/155e).
+Consubstanciado nos fundamentos adotados pelo acórdão recorrido, verifica-se que o Tribunal de Justiça afastou a prescrição intercorrente após o exame pormenorizado das provas dos autos, assim revisar ou modificar o entendimento proclamado pela Corte de origem, demandaria, necessariamente, o reexame do conjunto probatório dos autos, o que é inviável, em Recurso Especial, diante a incidência da Súmula 7 do STJ.
+Nesse sentido, confiram-se alguns julgados:
+"ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ARTIGO 1º, § 1º, DA LEI 9.783/99. PRESCRIÇÃO INTERCORRENTE NO PROCESSO ADMINISTRATIVO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+1. Para se chegar à conclusão diversa daquela alcançada pela Corte de origem, de que restou caracterizada a paralisação do processo administrativo, seria necessário novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto na Súmula 7 do Superior Tribunal de Justiça.
+2. Agravo regimental a que se nega provimento" (AgRg no AREsp 710232 / PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 18/08/2015).
+"PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRESCRIÇÃO DA PRETENSÃO EXECUTIVA. AFASTAMENTO PELO TRIBUNAL A QUO. PARTE EXEQUENTE QUE TOMOU DIVERSAS PROVIDÊNCIAS PARA IMPULSIONAR O FEITO. DEMORA POR MOTIVOS INERENTES AO MECANISMO DA JUSTIÇA. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE PROVAS E FATOS. SÚMULA 7/STJ.
+1. O Superior Tribunal de Justiça, ao julgar casos análogos, na sistemática do art. 543-C do CPC, quando do julgamento do REsp 1.102.431/RJ, de relatoria do Ministro Luiz Fux, consolidou o entendimento no sentido de que a verificação de responsabilidade pela demora na prática dos atos processuais implica indispensável reexame de matéria fático-probatória, o que é vedado a esta Corte Superior, na estreita via do recurso especial, ante o disposto na Súmula 7/STJ.
+2. In casu, o Tribunal a quo, soberano na análise do contexto fático-probatório dos autos, afastou a ocorrência da prescrição, tendo em vista que a demora na execução dos atos judiciais não se deveu à parte autora, tendo se mostrado diligente durante todo o andamento processual. Desse modo, é inviável, em recurso especial, o reexame da matéria fático-probatória constante dos autos, por incidência do óbice da Súmula 7 do STJ.
+3. Agravo regimental não provido" (STJ, AgRg no REsp 1295249/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 27/09/2013).
+Em face do exposto, com fundamento no art. 253, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios anteriormente fixados em R$ 500,00 (quinhentos reais) para R$ 700,00 (setecentos reais), levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
