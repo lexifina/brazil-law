@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Federal da 2ª Região, ementado nos seguintes termos:
+    “AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXEUÇÃO INDIVIDUAL DE TÍTULO JUDICIAL COLETIVO. COMPETÊNCIA CONCORRENTE. INCIDÊNCIA DA REGRA PREVISTA NO CDC. AUSÊNCIA DE NECESSIDADE DE COMPROVAÇÃO DE DOMICÍLIO NO LOCAL ONDE SE DEU A FORMAÇÃO DO TÍTULO JUDICIAL. DECISÃO REFORMADA.” (eDOC 10, p. 6)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, alínea “a”, da Constituição Federal, aponta-se violação aos arts. 5º, LIII e LIV; e 109, § 2º, do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, violação aos princípios do devido processo legal e do juiz natural. Aduz-se, ainda, que estando o recorrido domiciliado fora do Rio de Janeiro, nada justifica que proponha ação em Juízo Federal da Seção Judiciária do Rio de Janeiro.
+    Decido.
+    O recurso não merece prosperar.
+    Inicialmente, cumpre ressaltar que a jurisprudência desta Corte é firme no sentindo de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório, da prestação jurisdicional e dos limites da coisa julgada, quando a verificação dessas alegações depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. A repercussão geral da matéria foi rejeitada no julgamento do ARE 748.371, de minha relatoria, DJe 1.8.2013, correspondente ao tema 660 da sistemática da repercussão geral, assim ementado:
+    Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.
+    Ademais, o Tribunal de origem não dissentiu do entendimento firmado por esta Corte, quanto aos limites territoriais da eficácia de decisão prolatada em ação coletiva. A repercussão geral da matéria foi rejeitada no julgamento do ARE 796.473, de minha relatoria, DJe 21.10.2014, correspondente ao tema 715 da sistemática da repercussão geral, assim ementado:
+    “PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. LIMITES TERRITORIAIS DA COISA JULGADA. ALEGAÇÃO DE VIOLAÇÃO AOS ARTIGOS 18 E 125 DA CONSTITUIÇÃO FEDERAL. INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS. IMPOSSIBILIDADE. REPERCUSSÃO GERAL REJEITADA.”
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Código de Defesa do Consumidor e Código de Processo Civil de 1973), consignou que a execução poderá acontecer em ambos o foro de domicílio do exequente e o foro em que tramitou a ação coletiva. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “O CPC/73 estabelecia que a execução, quando fundada em título judicial, deveria ser processada no mesmo juízo onde se firmou o título judicial. Tal regra, nas execuções oriundas de títulos firmados em ações coletivas, foi mitigada pela jurisprudência que passou a admitir a sua livre distribuição com o escopo de evitar o congestionamento do juízo sentenciante.
+    Vale destacar que o Código de Defesa ao Consumidor (CDC), quando dispõe sobre a execução individual das sentenças coletivas, determina a livre distribuição pelo domicílio do exequente. Trata-se, contudo, de competência concorrente que visa beneficiar o exequente, facilitando o seu acesso à Justiça.
+    (…)
+    Portanto, cabe ao exequente, ao promover a execução individual de julgado proferido em sede de ação coletiva, escolher entre o foro no qual tramitou a ação coletiva e o foro de seu domicílio.” (eDOC 10, p. 4,5)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente, observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 8 de agosto de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
