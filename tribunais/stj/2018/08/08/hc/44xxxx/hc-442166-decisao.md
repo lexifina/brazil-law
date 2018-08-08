@@ -1,0 +1,36 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME PRISIONAL FECHADO. PLEITO DE ABRANDAMENTO DO REGIME E SUBSTITUIÇÃO DA PENA. PENA-BASE FIXADA NO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. QUANTUM INFERIOR A 4 ANOS. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+Ordem parcialmente concedida nos termos do dispositivo.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando-se como autoridade coatora a Décima Quinta Câmara de Direito Criminal do Tribunal de Justiça de São Paulo (Apelação Criminal n. 0010419-80.2011.8.26.0362 - fl. 123).
+Narram os autos que o Juízo da Vara Criminal da comarca de Mogi Guaçu/SP condenou o paciente como incurso no art. 33, caput, da Lei n. 11.343/2006, à pena de 1 ano e 8 meses de reclusão, em regime inicial fechado, e 166 dias-multa. Foi-lhe permitido recorrer em liberdade (fls. 83/86).
+À apelação criminal interposta pela defesa o Tribunal estadual negou provimento, mantendo, integralmente, a sentença recorrida (fls. 123/130).
+Daí o presente mandamus, em que o impetrante sustenta que,  ..  em casos como o dos autos, não é necessário invocar a hediondez para impor regime mais severo para o cumprimento da pena ou para impedir a concessão de certos benefícios (fls. 7/8).
+Requer, liminarmente, a concessão da ordem para que o paciente possa iniciar o cumprimento da pena em regime aberto, substituindo-a por duas penas restritivas de direitos e, por fim, seja reduzida a pena de multa aplicada.
+Em 26/3/2018, deferi o pedido liminar para que seja observado o regime aberto para cumprimento da pena do paciente.
+Às fls. 239/249, o Ministério Público Federal opinou pela concessão da ordem.
+É o relatório.
+O Tribunal de Justiça manteve o regime fechado com base na gravidade abstrata do delito. Vejamos (fl. 128 - grifo nosso):
+ ..
+O regime prisional inicial fechado foi fixado com absoluto acerto, não só por previsão legal - artigo 2º, § 1º, da Lei nº 8.072/90, com a redação dada pela Lei nº 11.464/07 - como, também, pela gravidade do crime, de catastróficas consequências à saúde pública, e responsável, também, pela desagregação familiar e social.
+O crime de tráfico de entorpecentes é equiparado aos delitos hediondos, portanto os mais graves dentre os elencados no Código penal e em Leis Especiais.
+Logo, soa, no mínimo, incongruente a fixação de regime diverso do fechado para o crime de tráfico de drogas.
+ ..
+Todavia, de um lado, há muito o § 1º do art. 2º da Lei n. 8.072/1990, com a redação dada pela Lei n. 11.464/2007, foi declarado inconstitucional pelo Supremo Tribunal Federal. E, por outro lado, o posicionamento pacífico desta Corte e do STF é no sentido de que se mostra inadmissível a estipulação de regime prisional mais rigoroso do que aquele previsto para a sanção corporal aplicada, apenas com fundamento na hediondez ou na gravidade abstrata do delito. Nesse sentido, as Súmulas 440/STJ, e 718 e 719/STF.
+Dessa forma, tratando-se de réu primário, que teve sua pena-base fixada no mínimo legal, condenado à pena definitiva de 1 ano e 8 meses de reclusão, e não havendo fundamentação idônea para o estabelecimento de regime mais gravoso, deve ser fixado o regime aberto para seu cumprimento.
+Pelos mesmos motivos, deve ser concedida a substituição da privativa de liberdade por duas restritivas de direitos a serem estipuladas pelo Juízo das execuções.
+A propósito:
+HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. CAUSA ESPECIAL DE DIMINUIÇÃO. QUANTUM DE INCIDÊNCIA. ILEGALIDADE. OCORRÊNCIA. APLICAÇÃO EM METADE. RAZOABILIDADE. REGIME INICIAL ABERTO. SUBSTITUIÇÃO DA PENA. POSSIBILIDADE. CONCESSÃO DA ORDEM, EM MENOR EXTENSÃO.
+1. Razoável, diante da quantidade da droga apreendida - 62,4 g de cocaína -, a aplicação da minorante em metade, redimensionando-se a pena para 2 anos e 6 meses de reclusão e 250 dias-multa.
+2. Fixada a pena-base no mínimo legal, ante a ausência de motivos para a sua exasperação, e aplicada a causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n.º 11.343/06 no patamar de 1/2, sendo a reprimenda final 2 anos e 6 meses de reclusão, é possível o estabelecimento do regime inicial aberto e a substituição da pena privativa de liberdade por restritivas de direitos, a teor do disposto no art. 33, § 2º, c, e 44 e incisos, ambos do Código Penal.
+3. Ordem concedida, em menor extensão, a fim de reduzir a pena do paciente para 2 anos e 6 meses de reclusão e 250 dias-multa, bem como fixar o regime inicial aberto, possibilitando, ainda, a substituição da pena privativa de liberdade por restritivas de direitos, a serem fixadas pelo Juízo das Execuções.
+(HC n. 427.424/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 14/03/2018 - grifo nosso)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. POSSIBILIDADE. REGIME E SUBSTITUIÇÃO DA PENA. FAVORABILIDADE DAS CIRCUNSTÂNCIAS DO CASO ANALISADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Embora a diversidade e a quantidade de substâncias apreendidas constituam, de fato, elementos concretos a serem sopesados para concluir que o réu se dedicava - à época dos fatos - a atividades criminosas e, consequentemente, afastar o redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006, o Tribunal de origem, em nenhum momento, afirmou, textualmente, que não caberia a diminuição de pena por integrar o réu organização criminosa ou se dedicar a atividades criminosas.
+2. Especificamente no caso dos autos, a conclusão pela incidência da referida minorante não demanda o revolvimento de matéria fático-probatória, procedimento, de fato, vedado na via estreita do habeas corpus. O caso em análise, diversamente, demanda apenas a revaloração de fatos incontroversos que já estão delineados nos autos e das provas que já foram devidamente colhidas ao longo de toda a instrução probatória, bem como a discussão, meramente jurídica, acerca da interpretação a ser dada ao art. 33, § 4º, da Lei n. 11.343/2006.
+3. Uma vez que o acusado era tecnicamente primário ao tempo do delito, teve a pena-base fixada no mínimo legal, foi condenado a reprimenda inferior a 4 anos de reclusão e foi agraciado com a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 - a qual visa, justamente, a beneficiar o "traficante ocasional" -, o regime aberto é, efetivamente, o que se mostra mais adequado para a prevenção e a repressão do delito praticado, nos termos do art. 33, § 2º, "c", e § 3º, do Código Penal, notadamente porque a quantidade de drogas apreendidas não foi tão elevada. A favorabilidade dessas mesmas circunstâncias evidencia que a substituição da pena por restritiva de direitos se mostra medida socialmente recomendável.
+4. Agravo regimental não provido.
+(AgRg no HC n. 363.855/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 19/12/2017 - grifo nosso)
+Quanto ao pedido de redução da pena de multa aplicada, o Tribunal local não analisou a referida insurgência, incorrendo, assim, sua análise pelo Superior Tribunal de Justiça em indevida supressão de instância.
+Ante o exposto, concedo parcialmente a ordem a fim de fixar o regime aberto para o cumprimento da pena, bem como para determinar que a privativa de liberdade seja substituída por duas restritivas de direitos a serem estabelecidas pelo Juízo das execuções.
+Publique-se.
