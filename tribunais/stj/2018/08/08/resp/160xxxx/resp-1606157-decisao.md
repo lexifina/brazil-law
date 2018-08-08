@@ -1,0 +1,67 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO. ACIDENTE VEÍCULO. ILEGITIMIDADE. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 282 DO STF, POR ANALOGIA. RITO ORDINÁRIO. AUSÊNCIA DE PREJUÍZO. POSSIBILIDADE. PRECEDENTES. PEDIDO DE LIMINAR. ANTECIPAÇÃO DE TUTELA. ANÁLISE DO MÉRITO DA AÇÃO PRINCIPAL. IMPOSSIBILIDADE DE REEXAME DOS PRESSUPOSTOS PARA CONCESSÃO. SÚMULAS NºS 735 DO STF E 7 DO STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, NÃO PROVIDO
+DECISÃO
+Da acurada análise do agravo de instrumento pode-se depreender que RITA DE CASSIA LOPES BEZERRA CHALEGRE (RITA DE CASSIA) ajuizou ação de indenização com pedido de antecipação de tutela contra MASSAYO TRANSPORTES E TURISMO LTDA. (MASSAYO TRANSPORTES) requerendo o pagamento de despesas médicas e dos danos ocorridos no acidente causado pela requerida.
+O Juiz de piso concedeu a tutela antecipada determinando que a MASSAYO TRANSPORTES custeie o tratamento médico da RITA DE CASSIA.
+Contra essa decisão, MASSAYO TRANSPORTES interpôs agravo de instrumento requerendo a reforma da decisão porque não comprovado o nexo de causalidade e, ainda, o reconhecimento da nulidade do rito ordinário.
+O Tribunal de origem negou provimento ao recurso em acórdão, assim ementado:
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. ÔNIBUS. PROCEDIMENTO. MATÉRIA DE ORDEM PÚBLICA. INDISPONIBILIDADE RELATIVA. ADOÇÃO DO RITO ORDINÁRIO AO INVÉS DO SUMÁRIO. POSSIBILIDADE, DESDE QUE NÀO TRAGA PREJUÍZO AO RÉU. DECISÃO LIMINAR QUE DETERMINOU CUSTEIO DE TRATAMENTO MÉDICO. ALEGAÇÃO DE AUSÊNCIA DE NEXO DE CAUSALIDADE AFASTADA. VALOR DA MULTA DIÁRIA EXCESSIVO. REDUÇÃO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. DECISÃO UNÂNIME (e-STJ, fl. 157).
+Irresignada, a MASSAYO TRANSPORTES interpôs recurso especial com fulcro no art. 105, III, a, da CF, sustentando a violação dos arts. (1) 3º, 267, IV, 3º, CPC/73 e 405, § 2º, II, 4º, do CC/02 no que se refere à sua ilegitimidade passiva diante da ausência de comprovação da relação de causalidade entre as lesões e o suposto acidente; (2) 275, do CPC/73 e da necessidade de adoção do rito sumário; e (3) 333 do CPC/73 e da impossibilidade de concessão da antecipação da tutela por ausência de provas.
+Houve contrarrazões (e-STJ, fls. 199/206).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+(1) Da ilegitimidade
+MASSAYO TRANSPORTES sustentou a violação dos arts. 3º, 267, IV, 3º, CPC/73 e 405, § 2º, II, 4º, do CC/02 no que se refere à sua ilegitimidade passiva diante da ausência de comprovação da relação de causalidade entre as lesões e o suposto acidente.
+Contudo, da acurada análise do acórdão recorrido, verifica-se que a tese elencada no apelo nobre quanto não foi analisada pelo Tribunal de origem.
+Incide, quanto ao tema, o óbice da Súmula nº 282 do STF, por analogia.
+(2) Do rito ordinário
+MASSAYO TRANSPORTES afirmou a violação do arts. 275, do CPC/73 e da necessidade de adoção do rito sumário.
+O Tribunal de origem consignou que a adoção do rito ordinário não causa prejuízo à parte na medida que não mitiga seu direito ao exercício da ampla defesa e do contraditório, fazendo-o nos seguintes termos:
+22. Na demanda cm apreço, verifico que o argumento em questão, embora seja verdadeiro não implica em nulidade. Explico.
+23. O Código de Processo Civil dispõe no art. 275, II, que se processam pelo rito sumário as causas, qualquer que seja o valor, dc ressarcimento por danos causados cm acidente de veículo de via terrestre.
+24. E bem verdade que o art. 295, V, do CPC, prevê que a petição inicial deve ser indeferida "quando o tipo de procedimento, escolhido pelo autor, não corresponder à natureza da causa, ou ao valor da ação; caso em que só não será indeferida, se puder adaptar-se ao tipo de procedimento legal". (Grifos Aditados).
+25. Ocorre, no entanto, que as disposições constantes do art. 295 não se aplicam ao caso cm apreço, mesmo porque a utilização do rito ordinário não causa prejuízo à parte agravante, na medida em que não mitiga seu direito ao exercício da ampla defesa e do contraditório, ao contrário, trata-se de procedimento mais amplo que o do sumário assegurando às partes uma maior dilação probatória.
+26. A adoção do rito ordinário, ao invés de trazer qualquer prejuízo à parte agravante, irá propiciar a produção de todas as provas necessárias ao deslinde da causa, seja prova pericial, documental, testemunhai c depoimento pessoal, não havendo, pois, que se falar em nulidade, não ensejando, portanto, o indeferimento da exordial, como pretende a parte agravante.
+27. Ademais, impende salientar que o processo não é um fim cm si mesmo. Assim, para que um ato processual seja considerado nulo, faz-se necessário que tenha havido um efetivo prejuízo às partes. Desse modo, "não há nulidade processual sem prejuízo (pas de nullité sans griefi"1. Entende-se que há prejuízo quando a finalidade que um ato deveria atingir, não foi alcançada. Isso decorre do princípio da instrumentalidade das formas, consagrado no art. 244 do CPC, o qual determina que "quando a lei prescrever determinada forma, sem cominação de nulidade, o juiz considerará válido o ato se, realizado de outro modo, lhe alcançar a finalidade "  ..  (e-STJ, fls. 161/162).
+Assim o fazendo, o Tribunal de origem adotou o entendimento firmado nesta Corte quanto à inexistência de nulidade na adoção do rito ordinário, se não houver prejuízo.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANO MORAL. ACIDENTE DE TRÂNSITO. CONVERSÃO DO RITO SUMÁRIO EM ORDINÁRIO. POSSIBILIDADE. SÚMULA N. 83/STJ. NÃO DEMONSTRAÇÃO DE PREJUÍZO PARA AS PARTES. PRESUNÇÃO RELATIVA DE CULPA. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Inexistindo prejuízo para a defesa, não há nulidade na conversão do rito sumário em ordinário, sendo este de cognição mais ampla, pois permite profunda dilação probatória.
+2. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese versada no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+3. A transcrição da ementa ou do inteiro teor dos julgados tidos como divergentes é insuficiente para a comprovação de dissídio pretoriano viabilizador do recurso especial.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 179.262/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. 5/6/2014, DJe 11/6/2014)
+Incide, portanto, quanto ao ponto o óbice da Súmula nº 568 do STJ.
+(3) Da tutela antecipada
+MASSAYO TRANSPORTES sustentou a violação do art. 333 do CPC/73 e da impossibilidade de concessão da antecipação da tutela por ausência de provas.
+O Tribunal de origem reconheceu a presença dos requisitos para a concessão da tutela antecipada e a existência de nexo de causalidade entre as patologias alegadas e o acidente sofrido, confira-se:
+30. No que diz respeito ao nexo de causalidade entre as patologias alegadas pela parte agravada/demandante e o acidente sofrido dentro do ônibus pertencente à parte agravante, também não há razão para a insurgência.
+31. Ao contrário do que alega a empresa recorrente, consta nos autos boletim de ocorrência (p. 90), relatando que a parte agravada no dia 12.8.2014, por volta das 06:46 (seis horas e quarenta e seis minutos), estava como passageira no ônibus da empresa Massayo Transporte c Turismo Ltda., quando sofreu um acidente dentro do veículo, tendo que ser socorrida pelo SAMU e conduzida ao HGE.
+32. Observo, ainda, que às pp. 70 e 74, constam receituários médicos indicando fratura de Cl (vertebra), recibos de pagamentos de despesas médicas e de transporte em nome da parte agravante (pp. 80/83). A parte agravante, inclusive, em suas razões, relata que "os socorros imediatos e relacionados a lesão apontada foram suportadas pela agravante em períodos anteriores a própria interposição da demanda p. 11
+33. Ora, restou satisfatoriamente comprovado, por meio dos documentos acostados aos autos, que a parte agravada, de fato, foi vítima de acidente quando trafegava, como passageira, dentro do ônibus da empresa agravante, bem como que esta sofreu lesões cm razão do impacto do acidente, fato reconhecido pela própria parte agravante  ..  (e-STJ, fl. 163).
+Registra-se que a controvérsia se refere à pedido de concessão da tutela antecipada e, portanto, de cognição sumária.
+A jurisprudência do STJ firmou-se no sentido de que apenas a violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa.
+Nesse sentido, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. TUTELA ANTECIPADA. INDISPENSABILIDADE DA ALEGAÇÃO DE OFENSA DIRETA E IMEDIATA A PRECEITO NORMATIVO QUE DISCIPLINA A CONCESSÃO DA MEDIDA. INVIABILIDADE DE REEXAME DOS PRESSUPOSTOS PARA CONCESSÃO.
+1. A jurisprudência do STJ entende que não cabe, sob o pretexto de discutir a verossimilhança do direito, invocar violação a norma que diga respeito ao próprio mérito da causa, a cujo respeito, nessa fase, o juízo efetuado nas instâncias ordinárias é apenas de verossimilhança.
+2. Ademais, para aferir o acerto ou não da decisão proferida pelo Tribunal a quo, este STJ teria que, obrigatoriamente, analisar a presença dos requisitos autorizadores da tutela antecipatória, o que ensejaria reexame de matéria fático-probatória, vedado pela Súmula 7/STJ, assim redigida: "A pretensão de simples reexame de prova não enseja recurso especial".
+3. Recurso Especial não conhecido.
+(REsp 1.676.532/SP, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, j. 8/8/2017, DJe 12/9/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSUAL CIVIL. CONCURSO PÚBLICO. EXONERAÇÃO DOS CANDIDATOS APROVADOS. CONTRADITÓRIO E AMPLA DEFESA. TUTELA ANTECIPADA. REINTEGRAÇÃO AO CARGO. LIMITES DA SUA REVISIBILIDADE POR RECURSO ESPECIAL. INVIABILIDADE DE REEXAME DOS PRESSUPOSTOS DA RELEVÂNCIA DO DIREITO E DO RISCO DE DANO. PRECEDENTES DO STJ. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ.
+1. O recurso especial interposto contra aresto que julgou a antecipação de tutela ou liminar deve limitar-se aos dispositivos relacionados aos requisitos da tutela de urgência, notadamente em casos em que o seu deferimento ou indeferimento importa ofensa direta às normas legais que disciplinam tais medidas. Dessa forma fica obstada a análise de suposta violação de normas infraconstitucionais relacionadas ao mérito da ação principal, porquanto as instâncias ordinárias não decidiram definitivamente sobre o tema, sendo proferido, apenas e tão somente, um juízo provisório sobre a questão (AgRg no AREsp 103.274/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 4/9/2012).
+2. Não pode ser conhecido o recurso especial quanto à alegação de ofensa a dispositivos de lei relacionados com a matéria de mérito da causa, que, em liminar, é tratada apenas sob juízo precário de mera verossimilhança. Quanto a tal matéria, somente haverá "causa decidida em única ou última instância" com o julgamento definitivo. (REsp 765.375/MA, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJ 08/05/2006).
+3. A alteração das conclusões adotadas pela Corte de origem, no sentido de aferir a presença, ou não, dos requisitos para a concessão da tutela antecipada, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 571.339/PE, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, j. 8/6/2017, DJe 19/6/2017)
+PROCESSO CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. COBRANÇA DE PONTO EXTRA NOS SERVIÇOS DE TV POR ASSINATURA. ANTECIPAÇÃO DE TUTELA. ANÁLISE DO MÉRITO DA AÇÃO PRINCIPAL. IMPOSSIBILIDADE. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS. AUSÊNCIA. NÃO CONHECIMENTO.
+- É obstada a análise de suposta violação de normas infraconstitucionais relacionadas ao mérito da ação principal, em função do caráter precário da decisão que julgou a antecipação de tutela (Súmula 735 do STF).
+ ..
+- Agravo interno não conhecido.
+(AgInt no REsp 1.413.057/SC, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 9/3/2017, DJe 23/3/2017)
+Portanto, incide ao caso os óbices das Súmulas nsº 735 do STF e 7 do STJ porque obstada a análise de suposta violação de normas infraconstitucionais relacionadas ao mérito da ação principal, em função do caráter precário da decisão que julgou a antecipação de tutela.
+Nessas condições, CONHEÇO PARCIALMENTE do recurso especial e, nesta extensão, NEGO-LHE PROVIMENTO.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intime-se.
