@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de conflito de competência entre o JUÍZO DE DIREITO DA VARA ÚNICA DE MISSÃO VELHA - CE, ora suscitante, e o JUÍZO DA 1ª VARA DO TRABALHO DA REGIÃO DO CARIRI - CE, ora suscitado.
+Consta dos autos que foi proposta reclamação trabalhista por [NOME], contratada para exercer o cargo de Coordenadora Pedagógica - emprego em comissão -, postulando verbas rescisórias no Juízo Trabalhista que declarou a incompetência da Justiça Laboral e remeteu os autos para a Justiça Comum (e-STJ fls. 12/16).
+Por sua vez, o Juízo Estadual suscitou o presente conflito de competência (e-STJ fls. 22/24).
+Manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo Trabalhista (e-STJ fls. 35/37).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado 2).
+Nos termos do art. 955, parágrafo único, incisos I e II, do novo Código de Processo Civil, o relator poderá julgar de plano o conflito de competência quando sua decisão se fundar em súmula do Supremo Tribunal Federal, do Superior Tribunal de Justiça ou em tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência.
+Por sua vez, a Corte Especial deste Tribunal editou a Súmula 568, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema", aplicável, por analogia, ao caso em concreto.
+Feito o registro, o Supremo Tribunal Federal, quando do julgamento da ADI n. 3.395-6/DF, suspendeu toda e qualquer interpretação conferida ao inciso I do art. 114 da CF, na redação dada pela EC 45/2004, que inclua na competência da Justiça do Trabalho a "apreciação de causas que sejam instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo".
+Nesse sentido, conferir ainda: Rcl 6.527 AgR-segundo, Relator  Min. LUIZ FUX, Primeira Turma, DJe 16/10/2015, Rcl 7.857 AgR/CE, Rel. Ministro DIAS TOFFOLI, Tribunal Pleno, DJe 1º/03/2013.
+Perfilhando aquele posicionamento, esta Corte tem entendido que "o exercício de cargo em comissão, com regular nomeação e posse, atrai a competência da Justiça Comum para julgamento de demanda decorrente dessa relação jurídica". (CC 145.393/ ES, Rel. Min. ASSUSETE MAGALHÃES, Primeira Seção, DJe 12/04/2016).
+Nessa linha, foi editada a Súmula 218, que assim prescreve: "Compete à Justiça dos Estados processar e julgar ação de servidor estadual decorrente de direitos e vantagens estatutárias no exercício de cargo em comissão."
+Ocorre que o reclamante foi contratado para aquela função sob o pálio do regime celetista, conforme Lei Orgânica do Município de Missão Velha (e-STJ fl. 22), o que atrai a competência da Justiça Obreira para julgar o feito.
+Ante o exposto, com arrimo no art. 955, parágrafo único, I, do CPC/2015, CONHEÇO do conflito para declarar a competência do JUÍZO DA 1A VARA DO TRABALHO DA REGIÃO DO CARIRI - CE, ora suscitado.
+Publique-se. Intimem-se.
