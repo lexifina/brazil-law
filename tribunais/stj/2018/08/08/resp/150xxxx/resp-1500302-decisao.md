@@ -1,0 +1,45 @@
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO CPC/73. AÇÃO DE EXECUÇÃO. AGRAVO DE INSTRUMENTO. HOMOLOGAÇÃO DE CÁLCULOS. OBSTÁCULO JUDICIAL. NECESSIDADE DE REEXAME DE FATOS E PROVAS. SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. DESCABIMENTO. PRECEDENTES. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Da minuta de agravo de instrumento, extrai-se que SOMEP SOCIEDADE MINEIRA DE EQUIPAMENTOS PESADOS LTDA (SOMEP) propôs ação monitória contra VALE FERTILIZANTES S.A. (VALE).
+O juízo de piso indeferiu o pedido de SOMEP de que fossem incluídos nos cálculos de liquidação o expurgo inflacionário de fevereiro de 1991 e a capitalização anual de juros moratórios, bem como deixou de receber os embargos de declaração opostos à primeira, que teve como intempestivos, homologando os cálculos feitos pela Contadoria e julgando extinta a execução.
+O Tribunal de origem deu provimento ao agravo de instrumento interposto por SOMEP em acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO. HOMOLOGAÇÃO DE CÁLCULOS. OBSTÁCULO JUDICIAL. AUTOS ENVIADOS À CONTADORIA NO PRAZO RECURSAL. JUSTA CAUSA. TEMPESTIVIDADE DECLARADA. DECISÃO CASSADA. Aplica-se a autorização contida no artigo 183, § 2º, do Código de Processo Civil, para permitir a interposição dos embargos, a partir do momento em que os autos voltaram a ser disponibilizados em secretaria, diante da verificada justa causa impeditiva de realização do ato no prazo recursal (e-STJ, fl. 330).
+Os embargos de declaração opostos pela VALE foram rejeitados (e-STJ, fls. 355/357).
+Inconformada, a VALE interpõe recurso especial, com fundamento nas alíneas a e c do permissivo constitucional, no qual alega, além de dissídio jurisprudencial, ofensa aos arts. 162, §§ 1º e 2º, 183, § 2º, 496, I, 513, 522, 794, I, e 795 do CPC/73, sob o argumento de que (1) o recurso cabível da decisão que extingue o cumprimento de sentença é o de apelação; e, (2) intempestividade dos embargos declaratórios e do agravo de instrumento interpostos pela SOMEP, pois o momento para a apresentação da justa causa deve ser em até (5) cinco dias após cessado o impedimento, sob pena de preclusão.
+As contrarrazões do apelo nobre foram apresentadas (e-STJ, fls. 420/432).
+O recurso especial foi admitido na origem (e-STJ, fls. 438/439).
+É o relatório.
+DECIDO.
+Não merece prosperar a presente irresignação.
+De plano, vale pontuar que as disposições do  NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+O Tribunal mineiro cassou a decisão agravada e a sentença terminativa, declarando a tempestividade dos embargos de declaração interpostos, determinando que fossem conhecidos diante da constatação da existência de justa causa impeditiva de realização do ato no prazo recursal, sob os seguintes fundamentos:
+Diante da extinção da execução, o recurso próprio seria o de apelação, mas diante da impropriedade de solução dos embargos de declaração opostos contra a decisão interlocutória anteriormente proferida, junto com a sentença de extinção, em princípio, entendo cabível a fungibilidade do recurso, cuja interposição se deu dentro do prazo do recurso próprio.
+Conforme está certificado à f. 36-TJ, os autos do processo estiveram fora de Secretaria no período de 21/06/13 a 04/07/13, enviados que foram ao Contador, o que impediu às partes o conhecimento do inteiro teor da decisão publicada no dia 24/06/13. Como as partes somente voltaram a ter acesso aos autos com a publicação seguinte, ocorrida aos 09/07/13, o prazo para a interposição dos embargos de declaração em face da decisão de fls. 488/492 somente teve fluência a partir do dia 10 daquele mês, expirando-se no dia 15/07/13, data em que for protocolada a peça de fls. 28/30-TJ, tempestivamente.
+Aplico aqui a autorização contida no artigo 183, § 2o, do Código de Processo Civil, para permitir a interposição dos embargos a partir do momento em que os autos voltaram a ser disponibilizados em secretaria, diante da verificada justa causa impeditiva de realização"dó ato no prazo recursal ..
+ ..
+Assim, a decisão pelo não recebimento dos embargos se mostra equivocada, de forma que, é nulo o processo a partir de então, inclusive da sentença terminativa proferida na mesma assentada (e-STJ, fls. 332/333).
+Com efeito, consignada pelo Tribunal de origem a existência de justa causa a inviabilizar a realização do ato no prazo recursal, conclusão em sentido contrário demandaria reexame do acervo fático-probatório dos autos, inviável em sede de recurso especial, sob pena de violação da Súmula 7 do STJ.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. POSSIBILIDADE. REINTEGRAÇÃO DE POSSE. CONTRADIÇÃO EM APONTAR INEXISTÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC E DECIDIR PELA AUSÊNCIA DE PREQUESTIONAMENTO. INEXISTÊNCIA. DECISUM ANCORADO EM OUTROS FUNDAMENTOS. AGRAVO NÃO PROVIDO.
+1. Os embargos de declaração que objetivam exclusivamente o novo exame do mérito da decisão impugnada devem ser recebidos como agravo regimental, em homenagem ao princípio da fungibilidade recursal.
+2. Não há contradição em afastar a violação do art. 535 do CPC e, ao mesmo tempo, não conhecer do mérito da demanda por ausência de prequestionamento, desde que o acórdão recorrido esteja suficientemente fundamentado.
+3. O Tribunal estadual, analisando o contexto fático-probatório da lide, reconheceu a ocorrência de preclusão nos termos do art. 183 do CPC. Incidência da Súmula 7/STJ.
+4. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento" (EDcl no AREsp 643.370/SP, Relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 19/3/2015, DJe 26/3/2015.)
+Acrescente-se que, ante a incidência de referido enunciado sumular, não é possível o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AÇÃO CIVIL PÚBLICA. IDEC. EXPURGOS INFLACIONÁRIOS. CADERNETA DE POUPANÇA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. ILEGITIMIDADE DA PARTE RECONHECIDA. INEXISTÊNCIA DE MENÇÃO EXPRESSA NO TÍTULO JUDICIAL ACERCA DO SEU ALCANCE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. IMPOSSIBILIDADE DE APRECIAÇÃO DADA A INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1.  ..
+2.  ..
+3. Consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+4. Agravo interno improvido.
+(AgInt no AREsp 965.951/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 13/12/2016, DJe 1/2/2017, sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO PROVISÓRIA DE SENTENÇA. LAUDO PERICIAL. OFENSA AO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. TUTELA ANTECIPADA INDEFERIDA. INEXISTÊNCIA DE PROVA INEQUÍVOCA DE VEROSSIMILHANÇA E DE FUNDADO RECEIO DE DANO IRREPARÁVEL. ALTERAÇÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+1.  ..
+2. A Corte de origem, analisando o acervo fático-probatório dos autos, concluiu pela ausência de prova inequívoca de verossimilhança e fundado receio de dano irreparável, pois não constam nos autos elementos de convicção suficientes para afastar, de plano, laudo pericial devidamente fundamentado e complementado por esclarecimentos às impugnações formuladas pelas partes quanto ao método de avaliação dos imóveis objeto da lide. A alteração da conclusão a que chegou a Corte de origem demandaria, necessariamente, o revolvimento de matéria fático-probatória, providência obstada em sede de recurso especial pela Súmula 7 do Superior Tribunal de Justiça.
+3. A incidência da Súmula 7/STJ é óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 877.696/SP, Rel. Ministro RAUL ARAÚJO, Quarta Turma, julgado em 02/02/2017, DJe 10/2/2017, sem destaque no original)
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), NÃO CONHEÇO do recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intime-se.
