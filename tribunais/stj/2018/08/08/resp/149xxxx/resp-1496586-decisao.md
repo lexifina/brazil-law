@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E MORAIS CUMULADA COM DECLARATÓRIA DE USO INDEVIDO DE MARCA. OMISSÕES. VIOLAÇÃO DO ART. 535 DO CPC/73. CONFIGURAÇÃO. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Consta dos autos que INSULFILM DO BRASIL LTDA (INSULFILM) ajuizou ação de reparação de danos materiais e morais cumulada com declaratória de uso indevido de marca pelo rito ordinário contra VENTUNO CONCESSIONÁRIA RENAULT (CONCESSIONÁRIA) E RENAULT DO BRASIL S.A. (RENAULT), requerendo que as requeridas se abstivessem de utilizar o nome da marca da INSULFILM em suas propagandas, além do pagamento de danos pelo uso indevido da marca.
+Em primeiro grau, a ação foi julgada parcialmente procedente, determinando à CONCESSIONÁRIA o pagamento de indenização por danos morais e materiais. A ação foi julgada improcedente em relação à RENAULT (e-STJ, fls. 480/484).
+Interposta apelação por ambas as partes, o Tribunal de origem deu parcial provimento apenas ao recurso da INSULFILM para que a RENAULT também seja condenada solidariamente ao pagamento de danos morais e materiais negou provimento ao recurso da ISULFILM e negou provimento ao da CONCESSIONÁRIA, em acórdão assim ementado:
+Indenização por danos materiais e morais, cumulada com declaratória de abstenção de uso indevido de marca. Marca registrada Insufilm. Propriedade industrial. Sentença de procedência parcial que excluiu a ré Renault do Brasil S.A., montadora, do polo passivo da ação. Apelação das partes. Recurso da autora que merece parcial provimento diante da solidariedade entre a montadora e a concessionária. Autora que detém marca notória, que passou a integrar o léxico, mas nem por isso perde a proteção legal. Impossibilidade de concessionária e montadora de veículos lançarem campanha publicitária prometendo instalar gratuitamente Insufilm nos veículos e usar produto similar fabricado por concorrente. Correta determinação de abstenção do uso. Ocorrência de danos materiais e morais, os primeiros a serem apurados em liquidação por arbitramento. Recurso da autora parcialmente provido apenas para que a ré Renault do Brasil S.A. também seja condenada solidariamente ao pagamento de danos morais e materiais. Recurso da autora parcialmente provido, negando-se provimento ao recurso da ré. Sucumbência a cargo das rés (e-STJ, fl. 612).
+Os embargos de declaração opostos pela RENAULT foram rejeitados (e-STJ, fls. 635/640).
+Inconformada, RENAULT interpõe recurso especial com base no art. 105, III, a e c, da Constituição Federal, sustentando, além de dissídio jurisprudencial, violação dos arts. 535, I e II do CPC/73 e 265 do CC/02. Sustenta que (1) houve negativa de prestação jurisdicional, pois o Tribunal de origem foi omisso no tocante à aplicação do art. 265 do CC/02, bem como sobre a eventual premissa equivocada de que a marca INSUFILM possuiria atribuição especial de notoriedade no INPI; e, (2) não se pode imputar solidariedade às empresas rés, pois inaplicável o CDC ao caso sob análise.
+As contrarrazões ao recurso especial foram apresentadas (e-STJ, fls. 677/685).
+O Tribunal de origem não admitiu o apelo nobre (e-STJ, fls. 687/689), decisão contra a qual foi interposto agravo em recurso especial que foi provido em decisão monocrática de minha relatoria para determinar sua conversão em recurso especial (e-STJ, fl. 751).
+É o relatório.
+DECIDO.
+O inconformismo merece prosperar.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+O Tribunal de origem, ao analisar os embargos de declaração, deixou de se manifestar acerca da aplicação do art. 265 do CC/02, bem como sobre a eventual premissa equivocada de que a marca INSUFILM possuiria atribuição especial de notoriedade no INPI
+É condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenham sido analisadas pelo acórdão objurgado. Assim, recusando-se a Corte de origem a se manifestar sobre a questão federal terminou por negar prestação jurisdicional à Recorrente.
+A propósito:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE.
+1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC.
+2. Agravo regimental não provido.
+(AgRg no REsp 1187807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/6/2012, DJe 28/6/2012)
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Fica prejudicada a analise das demais questões.
+Ante o exposto, DOU PROVIMENTO ao recurso especial, determinando o retorno dos autos ao Tribunal de origem para que analise as questões trazidas nos embargos de declaração, como entender de direito.
+Por fim, advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º do NCPC).
+Publique-se. Intimem-se.
