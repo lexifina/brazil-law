@@ -1,0 +1,17 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por MANOEL GOMES DO NASCIMENTO NETO em face da decisão que não conheceu recurso.
+Em suas razões, sustenta a parte Embargante, em síntese, que o acréscimo do percentual fixados em sede recursal ao percentual já fixado pelo Tribunal de origem extrapolaria os limites legais.
+A parte Embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+Os embargos não comportam acolhimento.
+O novo Código de Processo Civil, ao prever o instituto da majoração dos honorários advocatícios em razão do julgamento de recurso, condicionou sua aplicação, aos processos cíveis, desde que haja prévia fixação de honorários pela instância a quo.
+Ademais, conforme dicção do Enunciado Administrativo n.º 7 deste Superior Tribunal de Justiça, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+No presente caso, tendo em vista que estão preenchidos os requisitos acima delineados, correta a majoração dos honorários recursais.
+Ressalte-se que os honorários recursais foram fixados em desfavor da parte Recorrente de forma clara, no importe de 15% sobre o montante já arbitrado, ou seja, os honorários sucumbenciais fixados nas instâncias ordinárias, seja de forma equitativa, seja em percentual sobre o valor da condenação, da causa ou do proveito econômico obtido, servirão como base de cálculo sobre a qual incidirão os 15% da majoração, observados, sempre que aplicáveis, os limites previstos nos §§ 2.º e 3.º do art. 85 do Código de Processo Civil.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, REJEITO os embargos de declaração e advirto a parte Embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2.º, do Código de Processo Civil).
+Quanto à petição do agravo (fls. 2.978/2.994), assim dispõe o art. 21-E, § 2.º, do Regimento Interno do Superior Tribunal de Justiça:
+"§ 2.º Interposto agravo interno contra a decisão do Presidente proferida no exercício das competências previstas neste artigo, os autos serão distribuídos, observado o disposto no art. 9.º deste Regimento, caso não haja retratação da decisão agravada."
+Não sendo, portanto, caso de retratação, determino a DISTRIBUIÇÃO do agravo.
+Publique-se. Intimem-se.
