@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME], contra acórdão do Tribunal de Justiça do Estado de São Paulo, proferido no julgamento do HC n. 20443281-45.2018.8.26.0000.
+Consta dos autos que o paciente foi denunciado e preso preventivamente por ter supostamente praticado o delito tipificado no art. 121, § 2º, I, III, IV e VI, e § 2º-A, I; c.c. o artigo 14, II, do Código Penal (homicídio qualificado tentado).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem em acórdão assim ementado (fl. 60):
+HABEAS CORPUS - Homicídio qualificado tentado (121, § 2º, I, III, IV e VI, e § 2º-A, I; c.c. o artigo 14, II, do Código Penal) - Pleito de liberdade provisória. Pressupostos da segregação cautelar presentes. Inócuas outras medidas do artigo 319 do CPP - Constrangimento ilegal não caracterizado - Ordem denegada.
+No presente mandamus, sustenta o impetrante ausência dos requisitos previstos no art. 312 do Código de Processo Penal, de modo que a custódia cautelar não estaria suficientemente fundamentada.
+Ressalta as condições pessoais do réu.
+Alega ausência de produção de prova pericial.
+Requer, assim, a revogação da prisão preventiva, aplicando-se, caso se entenda necessário, medidas cautelares menos gravosas.
+Indeferida a liminar (fls. 75/76) e informações prestadas (fls. 82/96 e 110/113), o Ministério Público Federal opinou pelo não conhecimento do writ (fls. 103/108).
+É o relatório.
+Decido.
+Dos informes prestados pelo Juízo singular às fls. 110/113, constata-se a superveniência de sentença de pronúncia nos autos da Ação Penal n. 0008683-71.2017.8.26.0635, que aqui se cuida. Todavia, não é possível aferir o teor do julgado.
+É cediço que esta Quinta Turma firmou posicionamento no sentido de que a manutenção da custódia cautelar por ocasião de sentença superveniente não possui o condão de tornar prejudicado o writ em que se busca sua revogação, quando não agregados novos e diversos fundamentos ao decreto prisional primitivo. Nesse sentido: RHC 53.194/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/03/2016, DJe 28/03/2016.
+O entendimento revela-se substancialmente claro: a superveniência de sentença que mantém a prisão cautelar constitui título novo, que substitui - e supera - o decreto prisional impugnado mediante habeas corpus, exceto se o Magistrado sentenciante não adota fundamentos novos e diversos daqueles apresentados por ocasião da decretação da segregação preventiva.
+In casu, a manutenção da custódia cautelar afigura-se verossímil, pois dos informes prestados pelo magistrado de primeiro grau verifica-se que a custódia cautelar restou mantida.
+Todavia, não há como aferir se a segregação antecipada foi mantida sem a adoção de novos e diversos fundamentos para a cautela - requisito indispensável ao prosseguimento do recurso que busca revogá-la, diante da notícia da produção de novo título judicial que examinou a necessidade de manutenção da constrição.
+Tratando-se o habeas corpus de rito célere, no qual não se admite a dilação probatória e cuja devida instrução compete ao impetrante, a este incumbiria, diante da superveniência de fato novo, a diligência de acostar aos autos o novo título judicial produzido no feito principal, a fim de demonstrar que o aludido julgado não tem o condão de afastar, no caso concreto, a impugnabilidade da decisão combatida pelo presente reclamo.
+Constatado o silêncio do recorrente, afigura-se forçoso entender pela perda, quanto ao ponto, de objeto do presente habeas corpus, diante da prolação de novo título.
+Por adotar idêntico raciocínio, faço menção à recente decisão prolatada nos autos do RHC n. 63.337/MG, Rel. Ministro GURGEL DE FARIA, Quinta Turma, DJe 5.2.2016.
+Noutro firo, verifica-se que a aventada ausência de exame pericial não foi analisada pelo Tribunal de origem, não podendo esta Corte de Justiça realizar uma análise direta das novas alegações, sob pena de incidir em indevida supressão de instância.
+Nesse sentido:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. SEQUESTRO E CÁRCERE PRIVADO E LESÃO CORPORAL. NULIDADES. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DO DELITO. MODUS OPERANDI. INTENSA REPROVABILIDADE. MOTIVAÇÃO IDÔNEA. AUSÊNCIA DE ILEGALIDADE MANIFESTA. INDIVIDUALIZAÇÃO DA CONDUTA. AUSÊNCIA DE ILEGALIDADE. NÃO CONHECIMENTO.
+1. Se as apontadas nulidades no trâmite processual - informações anônimas, ausência de fundamentação para o recebimento da denúncia, revelia, vicio na oitiva de testemunha e impropriedade no laudo pericial -, deixaram de ser questionadas e debatidas perante a Corte originária, não merece conhecimento o writ nestes pontos, sob pena de supressão de instância. Precedentes.
+2. A prisão processual deve ser configurada no caso de situações extremas, em meio a dados sopesados da experiência concreta, porquanto o instrumento posto a cargo da jurisdição reclama, antes de tudo, o respeito à liberdade 3. Hipótese em que não há flagrante ilegalidade a ser reconhecida. A custódia cautelar foi decretada para o resguardo da ordem pública, em razão da gravidade in concreto dos fatos delituosos, cujo modus operandi evidencia a intensa reprovabilidade da conduta.
+4. In casu, as instâncias ordinárias destacaram a "violência provocada pelos representados, em área conflagrada por disputa de terras entre grupos organizados de "quilombolas" e fazendeiros", além da existência de um poder paralelo exercido pelos mesmos, de modo a dificultar a ação do aparato repressor do Estado.
+5. É assente na jurisprudência desta Superior Corte de Justiça o entendimento de que em delito de autoria coletiva a necessidade de minuciosa individualização da conduta de cada acusado é mitigada diante da complexidade do caso, bastando que haja descrição fática suficiente a demonstrar a existência do crime e o vínculo entre o acusado e a empreitada criminosa, o que ocorreu no caso concreto.
+6. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+7. Recurso ordinário conhecido em parte e, nesta extensão, não provido.
+(RHC 42.294/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 22/04/2014, DJe 05/05/2014)
+Ante o exposto, com fundamento no art. 34, inciso XVIII, a, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se.
