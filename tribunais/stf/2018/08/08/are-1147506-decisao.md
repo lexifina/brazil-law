@@ -1,0 +1,29 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal Regional Federal da 4ª Região assentou ser atribuição do Departamento Nacional de Infraestrutura de Transporte a aplicação de multa por excesso de velocidade em rodovias federais. No extraordinário cujo trânsito busca alcançar, o recorrente alega a violação do artigo 144, § 2º, da Constituição Federal. Consoante afirma, o legislador constituinte conferiu exclusivamente à polícia rodoviária federal a atribuição de fiscalizar a velocidade de veículos nas respectivas rodovias.
+    2. De início, o que sustentado no extraordinário relativamente ao artigo 144, § 2º, da Constituição Federal, não foi enfrentado pelo Órgão julgador. Padece o recurso da ausência de prequestionamento, esbarrando nos verbetes nº 282 e 356 da Súmula do Supremo. Verifica-se a não interposição de embargos declaratórios, ficando afastada a possibilidade de concluir-se pela ofensa ao artigo 93, inciso IX, da Carta de 1988.
+    No mais, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. Confiram com os seguintes trechos:
+    […]
+    Ademais, o dirigente máximo do DNIT é 'autoridade de trânsito', conforme definido no Anexo I do CTB, de modo que os agentes da autarquia por ele regularmente credenciados têm competência para lavrar autos de infração de trânsito (CTB, art. 280-§ 4º).
+    Como antes afirmado, esse foi o entendimento recentemente adotado pelas duas turmas do Superior Tribunal de Justiça que tratam da matéria, ao interpretar a Lei nº 10.233/2001, conforme se depreende dos julgados abaixo transcritos:
+    ADMINISTRATIVO. PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, ART. 535, II, DO CPC. COMPETÊNCIA DO DNIT. APLICAÇÃO. MULTA DE TRÂNSITO. EXCESSO DE VELOCIDADE. RODOVIA FEDERAL. UTILIZAÇÃO. INTERPRETAÇÃO RESTRITIVA.
+    1. (...).
+    2. A competência da Polícia Rodoviária Federal para aplicar multas de trânsito nas rodovias federais não é exclusiva, pois, segundo o art. 21 do CTB, os órgãos e entidades executivos rodoviários da União, dos Estados, do Distrito Federal e dos Municípios podem exercê-la.
+    3. A Lei 10.233/2001, que dispõe sobre a reestruturação dos transportes aquaviário e terrestre, cria o Conselho Nacional de Integração de Políticas de Transporte, a Agência Nacional de Transportes Terrestres, a Agência Nacional de Transportes Aquaviários e o Departamento Nacional de Infraestrutura de Transportes e dá outras providências, trouxe uma ampliação das funções exercidas pelo DNIT em seu art. 82, § 3º, inclusive a de aplicar penalidades de trânsito por excesso de velocidade em rodovias federais.
+    4. Não é permitido ao intérprete da lei restringir a competência do DNIT, quando a norma jurídica quis ampliá-la. No caso sub judice, a mera interpretação gramatical é apta a trazer o sentido da norma para o mundo dos fatos, portanto, depreende-se que o órgão administrativo possui competência para fiscalizar o trânsito e aplicar multas por excesso de velocidade nas rodovias federais.
+    5. Recurso Especial parcialmente provido.
+    (STJ, RESP 1.592.969, Segunda Turma, Min. Herman Benjamin, julgado em 05/05/2016, DJE 25/05/2016)
+    ADMINISTRATIVO. RECURSO ESPECIAL. INFRAÇÃO DE TRÂNSITO POR EXCESSO DE VELOCIDADE. RODOVIA FEDERAL. COMPETÊNCIA DO DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTE-DNIT PARA EXECUTAR A FISCALIZAÇÃO DE TRÂNSITO, APLICAR E ARRECADAR MULTAS.
+    1. Da conjugada exegese dos arts. 82, § 3º, da Lei nº 10.233/01 e art. 21, VI, da Lei nº 9.503/97 (CTB), depreende-se que o DNIT detém competência para executar a fiscalização de trânsito, autuar, aplicar as penalidades de advertência, por escrito, e ainda as multas e medidas administrativas cabíveis, notificando os infratores e arrecadando as multas que aplicar. Precedente: REsp 1.592.969/RS, Rel. Ministro HERMAN BENJAMIN, 2.ª Turma, DJe 25/5/2016.
+    2. Recurso especial do DNIT provido.
+    (REsp 1583822/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 23/06/2016, DJe 30/06/2016)
+    Na esteira desse entendimento, também a 4ª Turma deste Tribunal, em sua composição estendida conforme previsto no art. 942 do nCPC, adotou tal posicionamento, consoante julgado abaixo:
+    ADMINISTRATIVO. INFRAÇÃO DE TRÂNSITO. EXCESSO DE VELOCIDADE. FISCALIZAÇÃO. MULTA. COMPETÊNCIA DO DNIT. 1) A competência da Polícia Rodoviária Federal para aplicar multas de trânsito nas rodovias federais não é exclusiva, pois, segundo o art. 21 do CTB, os órgãos e entidades executivos rodoviários da União, dos Estados, do Distrito Federal e dos Municípios podem exercê-la. 2) A Lei 10.233/2001 trouxe uma ampliação das funções exercidas pelo DNIT em seu art. 82, § 3º, inclusive a de aplicar penalidades de trânsito por excesso de velocidade em rodovias federais (TRF4, Apelação Cível Nº 5017063-82.2016.404.7100, 4ª Turma, Rel. Des. Federal Luís Alberto D Azevedo Aurvalle, por maioria, juntado aos autos em 15/08/2016)
+    Concluindo, sendo o DNIT legalmente competente para fiscalizar o trânsito nas rodovias federais, inclusive para autuar condutores infratores por excesso de velocidade e aplicar as multas correspondentes, resulta inviável o acolhimento da pretensão formulada nesta ação.
+    [...]
+    À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo. Fixo os honorários recursais no patamar de R$ 150,00 (cento e cinquenta reais), nos termos do artigo 85, § 11, do Código de Processo Civil. Tendo o agravante litigado sob o pálio da assistência judiciária gratuita, arcará com o ônus dos honorários caso ocorra a recuperação do poder aquisitivo no prazo de cinco anos.
+    4. Publiquem.
+Brasília, 8 de agosto de 2018.
+Ministro MARCO AURÉLIO
+Relator
