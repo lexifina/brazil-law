@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação n.º 0000769-24.2015.8.26.0247).
+Consta dos autos que o ora paciente foi condenado como incurso no art. 33, caput, da Lei n.º 11.343/2006 e no art. 329 do Código Penal, às penas de 7 (sete) anos de reclusão, em regime inicial fechado, e 3 (três) meses de detenção, em regime semiaberto.
+A defesa, insatisfeita, interpôs recurso de apelação, ao qual o tribunal de origem negou provimento, em acórdão assim sintetizado:
+APELAÇÃO - TRÁFICO DE DROGAS e RESISTÊNCIA - Materialidade e autoria delitivas nitidamente demonstradas - Versão do réu que restou isolada nos autos - Falas dos policiais militares firmes e coerentes - Depoimentos que se revestem de fé pública, corroborados pelo conjunto probatório - Ausência de provas de que teriam intuito de prejudicar o réu - Condenação era de rigor - Desclassificação para o art. 28 da Lei de Drogas - Inviabilidade - Penas e regime bem dosados - Sentença mantida - Recurso defensivo improvido.
+No presente mandamus, alega o impetrante que o paciente está preso desde fevereiro de 2015 e ainda não foi expedida a guia de recolhimento, o que impede o sentenciado de auferir eventuais direitos da execução. Consigna que o paciente já cumpriu mais da metade de sua pena e já poderia estar em um regime mais brando.
+Requer, liminarmente e no mérito, que o paciente seja posto em liberdade, em regime aberto, e que se determine a expedição da guia de recolhimento provisória.
+Estes autos foram distribuídos por prevenção ao HC n.º 461.538/SP, também ajuizado em favor do ora paciente.
+É o relatório.
+Não há como prosperar a irresignação.
+Da análise dos autos, observa-se que a questão relativa à ausência de expedição de guia de recolhimento provisória em favor do ora paciente não foi submetida às instâncias ordinárias, o que inviabiliza seu exame por esta Corte, sob pena de indevida supressão de instância. Nesse sentido, a remansosa jurisprudência:
+EXECUÇÃO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. SURSIS. PRESTAÇÃO DE SERVIÇOS COMUNITÁRIOS E PRESTAÇÃO PECUNIÁRIA APLICADAS COMO CONDIÇÕES DA SUSPENSÃO DA PENA. CONVERSÃO DAS PENAS RESTRITIVAS DE DIREITO EM PRIVATIVA DE LIBERDADE PELO NÃO COMPARECIMENTO DO APENADO EM AUDIÊNCIA ADMONITÓRIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO ORDINÁRIO PARCIALMENTE CONHECIDO E DESPROVIDO.
+I - A jurisprudência deste Tribunal entende que, para a conversão de medidas restritivas de direito em pena privativa de liberdade, de regra, é indispensável a intimação do condenado, assegurando-lhe o direito ao contraditório e à ampla defesa (precedentes). Na hipótese, apesar de determinada a intimação pessoal, nos endereços informados nos autos, para dar início ao cumprimento das penas alternativas fixadas como condição da suspensão da pena, o recorrente não foi localizado, não havendo se falar em cerceamento de defesa pela inexistência de exaurimento das tentativas de sua localização.
+II - In casu, o não comparecimento do recorrente em audiência admonitória, circunstância que já autorizaria a revogação definitiva do sursis, com maior razão legitima o restabelecimento provisório da pena originária de prisão, enquanto não realizada nova audiência admonitória.
+III - A eg. Corte de origem não se pronunciou acerca da inaplicabilidade da prestação de serviços à comunidade como condição do sursis, quando a pena privativa de liberdade imposta for inferior a seis meses, assim, não pode este Superior Tribunal conhecer, originariamente, da matéria em indevida supressão de instância.
+Recurso ordinário parcialmente conhecido e desprovido.
+(RHC 74.667/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 28/03/2017, DJe 05/04/2017)
+PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. OPERAÇÃO TRAVESSIA. PRISÃO PREVENTIVA. EXCESSO DE PRAZO PARA OFERECIMENTO DA DENÚNCIA. SUPRESSÃO DE INSTÂNCIA. FUNDAMENTAÇÃO. GRAVIDADE DO CRIME. MODUS OPERANDI DELITIVO. ARTICULADA ORGANIZAÇÃO. ELEMENTOS CONCRETOS A JUSTIFICAR A MEDIDA. FUNDAMENTAÇÃO IDÔNEA. OCORRÊNCIA. RECURSO DESPROVIDO.
+1. A tese referente a eventual excesso de prazo para o oferecimento da denúncia deixou de ser debatida perante a instância precedente, não sendo possível examiná-la nesta via, sob pena de indevida supressão de instância.
+2. A necessidade da custódia cautelar restou demonstrada, com espeque em dados concretos dos autos, conforme recomenda a jurisprudência desta Corte, estando o decisum proferido na origem motivado pela participação em articulado esquema criminoso, que fomenta o tráfico ilícito de forma intensa, atuando em região fronteiriça, sendo o recorrente apontado como fornecedor de entorpecentes e outros materiais ilícitos aos demais membros do grupo.
+3. Registrou-se, ainda, inúmeras apreensões de entorpecentes realizadas no decorrer das investigações, especialmente de maconha, não raro em quantidades na casa das centenas de quilos.
+4. Recurso a que se nega provimento.
+(RHC 81.262/RS, de minha relatoria, SEXTA TURMA, julgado em 30/03/2017, DJe 07/04/2017)
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno deste Tribunal, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
