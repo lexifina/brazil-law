@@ -1,0 +1,19 @@
+DECISÃO:
+    Vistos.
+    Trata-se de agravo da decisão que não admitiu recurso extraordinário interposto contra acórdão da Primeira Turma Recursal do Rio Grande do Sul, o qual manteve, por seus próprios fundamentos, a sentença que julgou procedente o pedido autoral.
+    Opostos embargos de declaração, foram providos para fins de prequestionamento.
+    No recurso extraordinário, sustenta-se violação do artigo 5º, inciso XXXVI, da Constituição Federal. Pleiteia-se, em síntese, que “seja modificado o acórdão recorrido, de maneira a extinguir o processo com julgamento do mérito, em razão da decadência”.
+    Decido.
+    A irresignação não merece prosperar, haja vista que o acolhimento da pretensão recursal não prescinde da análise da legislação infraconstitucional pertinente, notadamente do artigo 103, caput, da Lei nº 8.213/91, e do conjunto fático-probatório dos autos, ao que não se presta o recurso extraordinário. Incidência das Súmulas nºs 279 e 636/STF. Nesse sentido, anote-se:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Previdenciário. Revisão de benefício. Decadência. RE nº 626.489/SE-RG. Repercussão geral reconhecida. Inaplicabilidade. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inviável, em recurso extraordinário, a interpretação da legislação infraconstitucional, bem como o reexame dos fatos e das provas da causa. Incidência das Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido” (ARE nº 910.691/RS-AgR, Segunda Turma, de minha relatoria, DJe de 7/3/16).
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. REVISÃO DE BENEFÍCIOS PREVIDENCIÁRIOS CONCEDIDOS APÓS A ENTRADA EM VIGOR DA MEDIDA PROVISÓRIA 1.523-9/1997. DECADÊNCIA. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA OU REFLEXA À CONSTITUIÇÃO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (ARE nº 730.395/RS-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 10/9/13).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. REVISÃO DE APOSENTADORIA. BENEFÍCIO CONCEDIDO APÓS PREVISÃO LEGAL DA DECADÊNCIA. MEDIDA PROVISÓRIA N. 1.523/1997, CONVERTIDA NA LEI N. 9.528/1997. DISCUSSÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 689.729/RS-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 3/6/13).
+    “DIREITO PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. REVISÃO DE BENEFÍCIO CONCEDIDO APÓS A EDIÇÃO DA MEDIDA PROVISÓRIA 1.523/1997. DECADÊNCIA. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. ACÓRDÃO PUBLICADO EM 12.5.2011. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao âmbito infraconstitucional do debate, a inviabilizar o trânsito do recurso extraordinário. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento”
+(ARE nº 690.967/RS-ED, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 11/4/13).
+    Nesse mesmo sentido, em casos análogos: RE nº 1.109.161/RS, Relator o Ministro Gilmar Mendes, DJe de 16/3/18; RE nº 1022.849/RS, Relator o Ministro Ricardo Lewandowski, DJe de 15/3/18; RE nº 1.070.717/RS, Relator o Ministro Alexandre de Moraes; DJe de 14/3/18; RE nº 1.102.526/RS, Relator o Ministro Edson Fachin, DJe de 8/3/18; ARE nº 1101.487/SP, Relatora a Ministra Rosa Weber, DJe de 5/3/18.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 8 de agosto de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
