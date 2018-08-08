@@ -1,0 +1,23 @@
+DECISÃO
+ Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS contra a decisão que negou seguimento ao recurso especial fundado no art. 105, inciso III, alínea a, da Constituição Federal, o qual visa reformar o acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado:
+"APELAÇÃO CÍVEL - DIREITO PREVIDENCIÁRIO - PRETENSÃO DE CONCESSÃO DE AUXÍLIO-ACIDENTE - SENTENÇA PELA IMPROCEDÊNCIA DA AÇÃO - AMPUTAÇÃO DO 42 DEDO DA MÃO ESQUERDA - EVIDENTE REDUÇÃO DA CAPACIDADE PARA O TRABALHO DE AUXILIAR DE SERVIÇOS GERAIS - ATIVIDADE EXERCIDA EM MAQUINÁRIO - LAUDO QUE AFIRMA A INEXISTÊNCIA DE INCAPACIDADE PARA O TRABALHO HABITUAL, MAS AFIRMA A REDUÇÃO DE 10% (DEZ POR CENTO) DA CAPACIDADE GERAL - CONTUDO, ANÁLISE DO CASO CONCRETO QUE INDICA A EXISTÊNCIA DE NECESSIDADE DE MAIOR ESFORÇO - AUXÍLIO- ACIDENTE DEVIDO - CORREÇÃO MONETÁRIA PELO INPC - JUROS APLICÁVEIS À CADERNETA DE POUPANÇA - RECURSO CONHECIDO E PROVIDO." (fl. 304).
+A autarquia previdenciária aponta a violação ao art. 86 da Lei n.º 8.213/1991 sob o fundamento de que não restou demonstrada a redução da capacidade laboral do requerido para seu trabalho habitual.
+É o relatório.
+Decido.
+A Terceira Seção deste Superior Tribunal de Justiça, no julgamento do Tema n.º 416, vinculado ao Recurso Especial Repetitivo n.º 1.109.591/SC, (Rel. Min. Celso Limongi, Desembargador convocado do TJ/SP, DJe de 8/9/2010), firmou entendimento no sentido de que "o nível do dano e, em consequência, o grau do maior esforço, não interferem na concessão do benefício, o qual será devido ainda que mínima a lesão", nos termos do acórdão assim ementado:
+"PREVIDENCIÁRIO. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. AUXÍLIO-ACIDENTE. LESÃO MÍNIMA. DIREITO AO BENEFÍCIO.
+1. Conforme o disposto no art. 86, caput, da Lei 8.213/91, exige-se, para concessão do auxílio-acidente, a existência de lesão, decorrente de acidente do trabalho, que implique redução da capacidade para o labor habitualmente exercido.
+2. O nível do dano e, em consequência, o grau do maior esforço, não interferem na concessão do benefício, o qual será devido ainda que mínima a lesão.
+3. Recurso especial provido."
+In casu, a Corte de origem concluiu pela possibilidade de concessão do auxílio-acidente em conformidade com essa orientação, conforme se extrai da seguinte fundamentação do julgado, in verbis:
+"Da leitura do laudo, constata-se que houve a perda do 4º (quarto) dedo da mão esquerda, acima da falange proximal, sendo assim, é evidente a existência de sequela, bem como a consolidação da lesão.
+ ..
+Já a questão da redução da capacidade específica para o exercício das funções auxiliar de serviços gerais, não se olvida as afirmações do perito no sentido de inexistência, porém, no meu entender, não há como manter o entendimento exarado pelo magistrado singular.
+É que independentemente de outras conjecturas, a incapacidade referida não se subsume somente à esfera privada do suplicante. Isso porque, em que pese a contradição do perito ao informar que inexistiria repercussão da redução da capacidade do demandante em sua atividade rotineira, o laudo assim consignou:
+"QUESITOS DO INSS 4. O periciado pode continuar trabalhando em sua última atividade laborai  Há alguma redução de eficiência que se possa quantificar  Qual e quanto
+Sim. Sim, residual de uns 10% pois o quarto dedo não faz parte do movimento de prensa da mão."
+Sabe-se que a redução da capacidade laborativa deve ser para a atividade que o segurado desempenhava à época do acidente, e, exatamente sob este viés, é inconcebível que a perda de um dedo não reduza em nada ou ao menos não exija maior esforço do trabalhador para o exercício da profissão de auxiliar de serviços gerais. Havendo trabalho manual é evidente que a perda de um dedo reduz capacidade para o trabalho.
+Ressalta-se que, em momento algum, se está a afirmar a existência de incapacidade para continuar na mesma atividade, afinal se isso ocorresse seria o caso de reabilitação do segurado. O que ocorre aqui é apenas a redução da capacidade, ou seja, no mínimo o demandante terá de despender maior esforço para o exercício do mesmo trabalho." (fls. 307/310).
+Assim, a reforma do julgado exigiria o reexame da prova, inviável em sede de recurso especial (Súmula n.º 07/STJ).
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte Recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal.
