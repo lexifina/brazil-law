@@ -1,0 +1,29 @@
+EMENTA
+PROCESSO CIVIAL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. INTEMPESTIVIDADE. NÃO OCORRÊNCIA. RECURSO ESPECIAL. INTERPOSTO NA VIGÊNCIA DO NCPC. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7, DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL
+DECISÃO
+ONEZIMO LEME BUZO opôs embargos de terceiro nos autos da ação de execução promovida por CLÁUDIA MARIA CLEVE BOESE VIEIRA POVEL (CLÁUDIA) em razão de penhora realizada em imóvel por ele adquirido e onde reside.
+Os embargos foram julgados procedentes, tendo sido determinado o levantamento da penhora realizada sobre o imóvel, condenando-se CLÁUDIA ao pagamento das custas processuais e honorários advocatícios fixados em 10% sobre o valor da causa (e-STJ, fls. 529/535).
+Interposta apelação por CLÁUDIA, o Tribunal de origem negou-lhe provimento, em acórdão assim ementado:
+EMBARGOS DE TERCEIRO. Ausência de prova de comprovação da má-fé do adquirente, a embasar a tese da exequente de fraude à execução. Apelo da embargada. Preliminar de intempestividade dos embargos de terceiro. Descabimento. No caso em exame, houve somente a penhora na matrícula do imóvel, sendo certo que ainda não houve a arrematação do bem, e muito menos imissão do arrematante na posse do imóvel, de modo que ainda não começou nem sequer a fluir o prazo para interposição dos embargos. Fraude à execução. Não ocorrência. Terceiro de boa-fé. Ausência de averbação de constrição junto à matrícula do imóvel. Súmula 375 do STJ. Requisitos traçados pelo STJ para a caracterização de fraude à execução, em sede de Recurso Especial nº 956.943-PR. Sentença mantida. RECURSO NÃO PROVIDO (e-STJ, fl. 591).
+Os embargos de declaração opostos por CLÁUDIA foram rejeitados (e-STJ, fls. 619/622).
+Inconformada, CLÁUDIA interpôs recurso especial com base no art. 105, III, a, da Constituição Federal, sustentando a ocorrência de violação do art. 1.048 do CPC/73, alegando, em síntese, a intempestividade dos embargos de terceiro.
+Em juízo de admissibilidade, a presidência da seção de direito privado do Tribunal de origem inadmitiu o apelo nobre. Dessa decisão, foi interposto o presente agravo em recurso especial.
+Sem contraminuta.
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Os embargos de terceiro visam preservar a posse de bens daqueles atingidos por ato de constrição ilegítima. Trata-se de ação autônoma submetida ao rito especial de jurisdição contenciosa.
+O art. 1.048 do CPC fixa dois momentos para sua propositura: (1) a qualquer tempo no processo de conhecimento enquanto não transitada em julgado a sentença; e, (2) no processo de execução, até 5 dias depois da arrematação, adjudicação ou remição, mas sempre antes da assinatura da respectiva carta.
+Na espécie, a Corte de origem, após análise dos autos, concluiu que não haveria que se falar em intempestividade dos embargos nos seguintes termos:
+Não há que se falar em intempestividade dos embargos de terceiros ajuizados pelo embargante, em razão da penhora do bem.
+Nesse aspecto, o artigo 1.048 do Código de Processo Civil de 1973, vigente à época dos fatos, determinava que "os embargos podem ser opostos a qualquer tempo no processo de conhecimento enquanto não transitada em julgado a sentença, e, no processo de execução, até 5 (cinco) dias depois da arrematação, adjudicação ou remição, mas sempre antes da assinatura da respectiva carta".
+Na lição de NELSON NERY JUNIOR E ROSA MARIA DE ANDRADE NERY (Código de Processo Civil Comentado e Legislação Extravagante, 14ª ed., p. 1.512), "o prazo final para a oposição dos embargos, no processo de execução, é de até cinco dias depois da arrematação, mas sempre antes da assinatura da respectiva carta. Opostos, por exemplo, no dia seguinte à arrematação, não serão admissíveis se já tiver sido assinada a carta".
+Quanto ao termo inicial de fluência do prazo, a jurisprudência é pacífica no sentido de que o prazo dos embargos se iniciará na data da turbação".
+ .. .
+No caso em exame, consta somente a penhora na matrícula do imóvel, sendo certo que ainda não houve a arrematação do bem, e muito menos imissão do arrematante na posse do imóvel, de modo que ainda não começou nem sequer a fluir o prazo para interposição dos embargos (e-STJ, fls. 593/594).
+Assim, ultrapassar a conclusão a que chegou o eg. Tribunal a quo, demandaria nova incursão no arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, pois vedado pela Súmula 7 desta Corte: A pretensão de simples reexame de prova não enseja recurso especial.
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Assim, considerando a aplicabilidade das regras do NCPC e o não conhecimento do recurso especial, MAJORO os honorários advocatícios anteriormente fixados em desfavor de CLÁUDIA de 10% para 15% sobre o valor da causa, nos termos do art. 85, § 11 do NCPC, observado, se o caso, o art. 98, § 3º do NCPC. Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
