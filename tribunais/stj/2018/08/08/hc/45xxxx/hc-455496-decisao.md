@@ -1,0 +1,62 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de DAVI [NOME], contra acórdão do Tribunal de Justiça do Estado de São Paulo, proferido nos autos da Apelação n. 3116508-59.2012.8.26.0050.
+Consta dos autos que o paciente foi condenado à pena de 11 meses e 20 dias de reclusão, em regime inicial fechado, além do pagamento de 8 dias multa, como incurso no art. 155 c/c o art. 14, inciso II, ambos do Código Penal (furto tentado).
+Por oportuno, confira-se o acórdão atacado no presente writ:
+Roubo impróprio - Grave ameaça não configurada - Desclassificação para o crime de furto pertinente - Crime, porém, que deve ser reconhecido na modalidade tentada - Recurso defensivo parcialmente provido - Réu portador de maus antecedentes e reincidente específico - Regime fechado que se afina à hipótese - Apelo ministerial provido. (fl. 13)
+
+Neste mandamus, a defesa afirma que deve ser aplicado o princípio da insignificância, além de aduzir que, se acaso mantida a condenação, deve ser fixado o regime aberto.
+Requer, assim, em liminar, a expedição de contramandado de prisão.
+Indeferido o pedido liminar, o Ministério Público Federal opinou pela extinção da impetração e, sucessivamente, pela denegação da ordem, conforme parecer de fls. 84/88.
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+Conforme relatado, a impetrante sustenta a atipicidade material da conduta e, subsidiariamente, a possibilidade de fixação do regime aberto.
+Quanto à primeira controvérsia, o Supremo Tribunal Federal e esta Corte possuem o entendimento de que, para a aplicação do princípio da insignificância, deverão ser observados os seguintes vetores: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) inexpressividade da lesão jurídica e d) reduzido grau de reprovabilidade do comportamento do agente.
+No caso, esse último vetor não se mostra presente, pois se trata de agente que possui recente condenação definitiva pela prática do mesmo delito, além de outras duas outras condenações por crimes patrimoniais cujas punibilidades foram extintas pela concessão de indulto. Confira-se, a propósito, o seguinte trecho do acórdão impugnado:
+In casu, não há se falar em ausência de periculosidade social da ação. O réu ostenta condenação definitiva pela prática de furto (cf. certidão de tis. 181), de modo que a aplicação do princípio da insignificância seria inadequadamente estimuladora (fl. 17).
+Sendo assim, não é possível a aplicação do referido princípio.
+Nesse sentido, confiram-se os seguintes julgados:
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. FURTO. TRANCAMENTO DA AÇÃO PENAL. ATIPICIDADE DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA.
+INAPLICABILIDADE.
+I - A jurisprudência do excelso Supremo Tribunal Federal, bem como desta Corte, há muito, já se firmaram no sentido de que o trancamento da ação penal por meio do habeas corpus é medida excepcional, que somente deve ser adotada quando houver inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito.
+II - Na linha da jurisprudência desta eg. Corte, ressalvado o meu entendimento pessoal, mostra-se incompatível com o princípio da insignificância a conduta ora examinada, haja vista que, a despeito da reduzida expressividade do valor subtraído, o paciente é reincidente. Precedentes.
+Ordem denegada.
+(HC 361.002/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 25/10/2016, DJe 22/11/2016)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. FURTO TENTADO. PEDIDO DE RELAXAMENTO DE PRISÃO PREJUDICADO. LIBERDADE PROVISÓRIA JÁ CONCEDIDA PELO JUIZ DE PRIMEIRA INSTÂNCIA. TRANCAMENTO DA AÇÃO PENAL PELA APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. PACIENTE REINCIDENTE EM CRIMES PATRIMONIAIS. RELEVÂNCIA DA CONDUTA NA ESFERA PENAL. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ E SUPREMO TRIBUNAL FEDERAL - STF. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+- No que diz respeito ao trancamento da ação penal pela atipicidade material da conduta, o STF já consagrou o entendimento de que, para a aplicação do princípio da insignificância, devem estar presentes, de forma cumulada, os seguintes requisitos: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento do agente; e d) inexpressividade da lesão jurídica provocada (STF, HC n. 112.378/SP, Segunda Turma, Relator Ministro Joaquim Barbosa, DJe 18/9/2012).
+- In casu, o paciente é contumaz na prática de delitos, porquanto ostenta condenações com trânsito em julgado, inclusive por delitos contra o patrimônio (furto), conforme consignado nas decisões das instâncias ordinárias, que decretaram a prisão preventiva (em primeira instância) e que indeferiram o pedido liminar no habeas corpus originário (em segunda instância), bem como pela certidão de antecedentes criminais juntada aos autos às fls. 37/43. Nesse contexto, a reiteração no cometimento de infrações penais se reveste de relevante reprovabilidade e não se mostra compatível com a aplicação do princípio da insignificância, reclamando a atuação do Direito Penal. Deve-se enfatizar, por oportuno, que o princípio da bagatela não pode servir como um incentivo à prática de pequenos delitos.
+Habeas Corpus não conhecido.
+(HC 320.133/SP, Rel. Ministro ERICSON MARANHO (DESEMBARGADOR CONVOCADO DO TJ/SP), SEXTA TURMA, julgado em 25/08/2015, DJe 15/09/2015)
+HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO AO RECURSO PREVISTO NO ORDENAMENTO JURÍDICO. 1. NÃO CABIMENTO. MODIFICAÇÃO DE ENTENDIMENTO JURISPRUDENCIAL. RESTRIÇÃO DO REMÉDIO CONSTITUCIONAL. EXAME EXCEPCIONAL QUE VISA PRIVILEGIAR A AMPLA DEFESA E O DEVIDO PROCESSO LEGAL. 2. CRIME DE FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. REITERAÇÃO DELITIVA. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. 3. ORDEM NÃO CONHECIDA.
+ ..
+2. O trancamento da ação penal, por ser medida de exceção, somente é cabível quando se demonstrar, à luz da evidência, a atipicidade da conduta, a extinção da punibilidade ou outras situações comprováveis de plano, suficientes para o prematuro encerramento da persecução penal, o que não ocorre no caso em tela.
+3. Na espécie, não há como reconhecer o reduzido grau de reprovabilidade ou a mínima ofensividade da conduta, de forma a ser possível a aplicação do princípio da insignificância, pois, independentemente do valor atribuído ao bem subtraído, extrai-se dos autos a contumácia delitiva do paciente, uma vez que o Tribunal de origem afirmou ser ele "amante do patrimônio alheio, já tendo sido condenado pela prática, também, de outros dois delitos (roubo qualificado), sendo, pois, reincidente quanto aos mesmos, além de registrar outros processos referentes a roubos".
+4. Habeas corpus não conhecido.
+(HC 286.940/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, julgado em 25/03/2014, DJe 02/04/2014)
+Quanto ao regime inicial de cumprimento de pena, embora a reprimenda não tenha ultrapassado 4 anos, as circunstâncias judiciais desfavoráveis e a reincidência justificam a fixação do regime inicial fechado, segundo a jurisprudência desta Corte.
+Confira-se, a propósito, o seguinte trecho do acórdão que reformou a sentença condenatória:
+ ..
+Definida a sorte do litígio, ingressa-se no sancionamento.
+Na primeira etapa, merece atendimento o pleito ministerial, porquanto os antecedentes desabonadores do réu (cf. folha de antecedente de fls. 185/205) justificam o arbitramento da basal acima do mínimo.
+No aspecto, anota-se que. a princípio, quando não secundada por certidão(ões) do(s) Cartório(s) judicial(is) respectivo(s), a folha de antecedentes não serve à comprovação da vida pregressa do agente. Todavia, daquela aos autos juntada se extrai todos os elementos necessários à caracterização dos maus antecedentes (condenações por crimes de furtos nos processos nº 458/93. 164/95 e 153/96, cujas punibilidades foram extintas pela concessão de indulto em 29/01/1998).
+Assim, e não se olvidando também que, na esteira do entendimento assentado na Súmula 444 do Superior Tribunal de Justiça, apenas inquéritos policiais e ações penais sem notícia de trânsito em julgado não podem ser cotejados para o arbitramento da pena básica, nada impede que, no particular, a mencionada folha de antecedentes seja utilizada como prova da vida pregressa do apelante.
+Desta feita, majoro a pena-base na fração de 1/6 (um sexto), a culminar em 01 (um) ano e 02 (dois) meses de reclusão, e 11 (onze) dias-multa.
+Na etapa seguinte, a incidência da agravante cia reincidência específica, atestada pela certidão de fls. 181 (condenação por crime de furto - processo nº 47291/07), foi compensada com a atenuante da confissão espontânea.
+Todavia, valendo-se dos argumentos suso referidos, é caso de se reconhecer que o acionado é triplamente reincidente, vez que ostenta mais duas condenações definitivas transitadas em julgado em 05/09/2008 (processo nº 58361/06) e em 10/12/2012 (processo nº 79503/07), conforme se infere de sua folha de antecedentes (fls. 200/203).
+Assim, devido o recrudescimento da sanção na fração de 1/4 (um quarto), a resultar em 01 (um) ano, 05 (cinco) meses e 15 (quinze) dias de reclusão, e 13 (treze) dias-multa.
+Note-se, ainda, ser inviável, ante a reincidência, cogitar da figura privilegiada do §2º do art. 155 do Código Penal.
+Por fim, pelo conatus, reputo adequada a redução da pena no percentual de 1/3 (um terço), proporcional ao iter criminis percorrido, tendo em vista que o acionado já havia se apoderado res, bem como se distanciado da loja de onde extraída. A conclusão do malfeito, ademais, só não eclodiu graças à pronta intervenção do lojista e à chegada dos milicianos. Pena definitiva, portanto, de 11 (onze) meses e 20 (vinte) dias de reclusão, e 08 (oiío) dias-multa, no mínimo legal.
+E acerca do regime de cumprimento, a recidiva em crime patrimonial, assomada à vida pregressa do réu, que sem dúvida alguma fez do crime seu meio de vida, torna acertado o estabelecimento do fechado, mormente pelo aspecto específico da incidência (fls. 18/19).
+Quanto ao tema, trago à colação os seguintes julgados:
+HABEAS CORPUS. FURTO SIMPLES. (I) BENS AVALIADOS EM R$ 290,80 (DUZENTOS E NOVENTA REAIS E OITENTA CENTAVOS). RÉ REINCIDENTE. PRINCÍPIO DA INSIGNIFICÂNCIA. ATIPICIDADE MATERIAL. NÃO OCORRÊNCIA. (II) PENA-BASE TRÊS VEZES ACIMA DO MÍNIMO LEGAL. DESPROPORCIONALIDADE. (III) REINCIDÊNCIA ESPECÍFICA. COMPENSAÇÃO INTEGRAL COM A ATENUANTE DA CONFISSÃO ESPONTÂNEA. INVIABILIDADE. (IV) REGIME INICIAL. SÚMULA N. 269/STJ. INAPLICABILIDADE. PRESENÇA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS.
+ ..
+8. Permanece o regime fechado para o início do cumprimento da sanção aplicada, pois, embora a pena imposta à paciente seja inferior a 4 (quatro) anos de reclusão, a reincidência da ré, somada à análise desfavorável da circunstância judicial relativa aos antecedentes, impede a aplicação do disposto no enunciado n. 269 da Súmula desta Casa. Precedentes.
+9. Ordem parcialmente concedida para reduzir o aumento aplicado na primeira fase da dosimetria, redimensionando a reprimenda definitiva da paciente para 2 (dois) anos de reclusão e 16 (dezesseis) dias-multa, mantido, no mais, o acórdão estadual (HC 401.329/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 31/08/2017).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO MEDIANTE FRAUDE. DESCLASSIFICAÇÃO PARA ESTELIONATO. AUSÊNCIA DE VONTADE DO DESPOJAMENTO DO BEM. REGIME FECHADO. POSSIBILIDADE. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEL E REINCIDÊNCIA. INAPLICABILIDADE DA SÚMULA 269/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+Apresenta-se inaplicável à espécie o disposto na Súmula 269/STJ, e isto porque, embora condenado a pena inferior a quatro anos, o agravante é reincidente e teve a pena-base fixada acima do mínimo legal, em face da valoração negativa das circunstâncias judiciais.
+3. Agravo regimental a que se nega provimento (AgRg no AREsp 986.850/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 30/08/2017).
+Ante o exposto, não conheço do presente writ.
+Publique-se.
+Intimações necessárias.
