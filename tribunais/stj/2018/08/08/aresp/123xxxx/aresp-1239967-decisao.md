@@ -1,0 +1,51 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 523 E 535 DO CPC/1973. EXECUÇÃO DE SENTENÇA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. DECISÃO INTERLOCUTÓRIA. AGRAVO RETIDO. NÃO CABIMENTO. NECESSIDADE DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO. INCOMPATIBILIDADE DO AGRAVO RETIDO COM A SISTEMÁTICA DO PROCESSO DE EXECUÇÃO. SÚMULA 83//STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por [NOME], com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 523):
+Cumprimento (execução) de sentença.
+Descabimento de agravo retido contra decisão proferida em seu âmbito, por incompatibilidade com a sistemática desse processo, em que não há sentença apelável em que possa ser reiterado e examinado como preliminar. Decisão de primeiro grau nesse sentido, deixando de dar curso ao agravo retido, atacada por agravo de instrumento. Jurisprudência do STJ a respeito. Decisão monocrática de relator, tomada no momento processual ao "caput" do art. 557 do CPC de 1973, pelo desprovimento de agravo de instrumento.
+Agravo interno julgado consoante o Código Buzaid a que se nega provimento.
+Acrescenta-se, ainda mais, à vista do disposto no § 3 o do art. 1.021 do NCPC, que, se as razões recursais são as mesmas deduzidas no agravo de instrumento, podem ser rejeitadas pelos mesmos fundamentos da monocrática agravada. A regra não se aplica senão quando são agregados fundamentos novos pela parte agravante.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 280-286).
+Em suas razões de recurso especial (e-STJ, fls. 310-318), o recorrente alegou ofensa aos arts. 523 e 535 do Código de Processo Civil de 1973 e 1.025 do Código de Processo Civil de 2015.
+Sustentou, em síntese, a ausência de prestação jurisdicional, uma vez que deixou de se manifestar sobre o argumento de que o juízo definitivo da admissibilidade do agravo retido é do Tribunal. Alegou, ainda, excesso nos cálculos oficiais - matéria arguida no agravo retido não conhecido na origem - e que, por ser matéria de ordem pública, podendo ser conhecida ex-officio pelo Tribunal.
+Não foram apresentadas contrarrazões (e-STJ, fl. 322).
+O Tribunal de origem não admitiu o processamento do recurso especial em virtude da falta de violação dos dispositivos apontados (e-STJ, fls. 323-324).
+Brevemente relatado, decido.
+Preliminarmente, a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Dessa maneira, registro que a matéria em exame foi devidamente enfrentada pelo Colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão do recorrente.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1022 DO CPC NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE. INVIABILIDADE. IMPOSIÇÃO DA MULTA DO ART. 1.026, § 2º, DO CPC.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1022 do CPC.
+2. Os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito.
+3. Os segundos Embargos Declaratórios opostos com o intuito de modificar o julgado, inovando com argumentos preclusos, revela nítido caráter procrastinatório, pelo que é admissível a aplicação da multa prevista no art. 1.026, § 2º, do CPC.
+4. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl nos EDcl no AgRg no AREsp n. 822.269/SP, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 8/11/2016, DJe 17/11/2016).
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC/1973) - APELAÇÃO CONSIDERADA DESERTA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE REJEITOU ANTERIORES ACLARATÓRIOS COM APLICAÇÃO DE MULTA, MANTENDO A NEGATIVA DE PROVIMENTO AO AGRAVO REGIMENTAL FACE A ADEQUAÇÃO DA DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA DAR PROVIMENTO AO RECURSO ESPECIAL, A FIM DE ANULAR OS ACÓRDÃOS PROFERIDOS NA ORIGEM, COM A DETERMINAÇÃO DO RETORNO DOS AUTOS AO TRIBUNAL A QUO PARA QUE PROCEDA À ANÁLISE DO MÉRITO DA APELAÇÃO COMO ENTENDER POR DIREITO, POR TER A PARTE RECORRENTE, UMA VEZ INTIMADA PARA COMPLEMENTAR O RECURSO ATENDIDO À DETERMINAÇÃO. INSURGÊNCIA DO AUTOR.
+1. Os embargos de declaração somente são cabíveis quando houver no julgado, obscuridade, contradição, omissão ou erro material (art. 1022 do NCPC).
+2. Os aclaratórios, em regra, não permitem rejulgamento da causa, sendo que a atribuição de efeito modificativo somente é possível em hipóteses excepcionais, uma vez comprovada a existência dos mencionados vícios no julgado, que não se encontram presentes na presente hipótese.
+3. Restou delineado que o recolhimento insuficiente do preparo do recurso de apelação não enseja a deserção se a parte recorrente, intimada para que o complemente, atende à intimação e recolhe a totalidade do valor, ou demonstra que tal já foi realizado no momento oportuno, o que expressamente ocorreu no caso conforme mencionado pelo magistrado a quo, "na medida em que veio aos autos comprovar que já havia efetuado o recolhimento não só das custas referentes ao porte de remessa, mas também do porte de retorno e das custas recursais, de forma a comprovar o integral preparo realizado na data da interposição do apelo". Inteligência do artigo 511, § 2º, do CPC/73. Precedentes.
+4. Embargos de declaração rejeitados.
+(EDcl nos EDcl nos EDcl no AgRg no AREsp n. 803.611/PR, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/9/2016, DJe 24/10/2016).
+Consoante se extrai dos autos, o Tribunal de origem, ao julgar os embargos de declaração opostos pelo ora recorrente, consignou o seguinte (e-STJ, fl. 283):
+(..)
+O agravante interpôs agravo de instrumento para discutir o cabimento do recurso de agravo retido contra decisão interlocutória proferida na fase de cumprimento de sentença.
+Como reiteradamente decidido pelo Tribunal seja de forma monocrática pelo D. Relator ou colegiada, no julgamento do agravo interno pela Turma Julgadora, o agravo retido não é compatível com a fase de cumprimento de sentença, inexistindo razão para, depois de encerrada a fase de conhecimento, postergar a apreciação da matéria.
+É a orientação da jurisprudência do Egrégio Superior Tribunal de Justiça: STJ - AgRg no REsp 1571217 / PR - rel. Ministro Herman Benjamin - 03/ 03/ 2016; STJ - REsp 418349/ PR - rel. Ministro Paulo Furtado - DJe 10/ 12/ 2009; STJ - AgRg no AREsp 5997/ RS - rel. Ministro Benedito Gonçalves - DJe 16/ 03/ 2012; STJ - RMS 27.194/ RS - rel. Ministro Arnaldo Esteves Lima, DJe 15/ 03/ 2010.
+Essa matéria está vencida pela decisão monocrática do D. Relator confirmada no julgamento do agravo interno. Não há razão para modificar o quanto foi decidido, especialmente em sede de embargos de declaração.
+No mais, verifica-se que o referido "pedido alternativo" feito pelo agravante, na verdade diz respeito àquelas matérias que certamente constaram das razões do agravo retido, quando deveriam ter sido impugnadas mediante interposição do recurso adequado à fase de cumprimento de sentença, seguindo entendimento da jurisprudência, a saber, o recurso de agravo de instrumento. É o que basta para não admitir o recurso.
+E não obstante os juros de mora incidentes sobre o saldo devedor enseje matéria de ordem pública, cognoscível em qualquer fase do processo e grau de jurisdição, não está em discussão propriamente a aplicação do encargo, tampouco o critério definido pela sentença já transitada em julgado, mas o entendimento adotado pelo D. Magistrado ao decidir a impugnação apresentada, a respeito da data a partir da qual deve cessar o acréscimo dos consectários legais inerentes aos débitos judiciais (se com o bloqueio e depósito judicial das quantias, ou se da data do ingresso da quantia no patrimônio do credor):
+(..)
+Tal matéria, à evidência, está sujeita à preclusão, porque foi efetivamente decidida e contra a respectiva decisão não foi interposto o recurso adequado. (Sem grifo ou destaque no original).
+Desse modo, verifica-se que o recorrente não se desincumbiu de demonstrar as razões pelas quais considera violada a norma legal apontada e tampouco impugnou os fundamentos do acórdão recorrido, incidindo, por analogia, os enunciados n. 283 e 284 do STF, que dispõem respectivamente: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles" e "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ademais, o acórdão impugnado está em consonância com o entendimento desta Corte, no sentido de que o agravo retido é incompatível com a sistemática do processo de execução, sendo que, contra decisão interlocutória proferida em ação de execução, o recurso cabível é o agravo de instrumento.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. DECISÃO INTERLOCUTÓRIA. AGRAVO RETIDO. NÃO CABIMENTO. NECESSIDADE DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO. INCOMPATIBILIDADE DO AGRAVO RETIDO COM A SISTEMÁTICA DO PROCESSO DE EXECUÇÃO.
+1. Hipótese em que se discute o cabimento do recurso de agravo retido contra decisão interlocutória proferida no curso do processo de execução de sentença.
+2. A jurisprudência desta Corte é no sentido de que, contra decisão interlocutória proferida em processo de execução é cabível agravo de instrumento, mesmo após o advento da Lei 11.187/05, por ser o agravo retido incompatível com a sistemática do processo de execução.
+Precedente: RMS 27.194/RS, Rel. Ministro Arnaldo Esteves Lima, DJe 15/03/2010.
+3. Agravo não provido.
+(AgRg no AREsp n. 5.997/RS, Relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 13/3/2012, DJe 16/3/2012).
+Na hipótese dos autos, constata-se que o acórdão recorrido aplicou entendimento em harmonia com a jurisprudência desta Corte Superior, atraindo, portanto, a incidência da Súmula n. 83/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
