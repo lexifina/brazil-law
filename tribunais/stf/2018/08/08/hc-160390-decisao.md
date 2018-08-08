@@ -1,0 +1,24 @@
+Decisão:
+Ementa: Processual penal eleitoral. Habeas corpus. Prisão preventiva. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão do Tribunal Superior Eleitoral, da Relatoria do Ministro Tarcisio Vieira de Carvalho Neto, assim ementado:
+    “HABEAS CORPUS. AÇÃO PENAL. ART. 353 C.C O ART. 350 DO CÓDIGO ELEITORAL. RECEBIMENTO DA DENÚNCIA. RÉU NÃO ENCONTRADO. CITAÇÃO EDITALÍCIA. SUSPENSÃO DO PROCESSO E DO PRAZO PRESCRICIONAL. RECURSO CRIMINAL. PRISÃO PREVENTIVA DECRETADA. CONSTRANGIMENTO ILEGAL. INEXISTÊNCIA. ORDEM DENEGADA.
+    1. Na origem, recebida a denúncia pela prátia dos crimes, em tese tipificados no art. 353, caput, c.c. o art. 350, ambos do Código Eleitoral – por suposta inserção de declaração falsa ou diversa da que deveria constar no requerimento de alistamento eleitoral -, não foi possível concretizar, após inúmeras diligências na tentativa de localizá-lo, a citação pessoal do paciente, o que ensejou a citação editalícia e a posterior suspensão do processo e do prazo prescricional, a teor do que dispõe o art. 366 do CPP.
+    2. Em que pese não ter sido interposto recurso ordinário do acórdão pelo qual o Tribunal Regional Eleitoral de São Paulo, ao prover recurso, decretou a prisão preventiva do paciente, é de se conhecer do habeas corpus, ante a possibilidade de concessão da ordem de ofício; se constatada eventual teratologia ou ilegalidade.
+    3. Na espécie, trata-se de acusado que possui histórico de condenação proferida pela Justiça Federal em virtude de crime semelhante ao apurado na seara eleitoral, além de já ter sido condenado por tráfico internacional de drogas na Alemanha, apresentar antecedentes criminais no Kuwait e ser investigado no Estado de Minas Gerais por supostos crimes de falsidade.
+    4. Não há constrangimento ilegal ao direito de locomoção na decisão que decreta a prisão preventiva para resguardar a ordem pública, tendo em vista o fundado receio de reiteração das práticas delituosas – demonstrado pelo histórico de feitos criminais a que o paciente responde e/ou pelos quais foi condenado, nacional e internacionalmente -, e, ainda, para garantir a instrução criminal e aplicação da lei penal (art. 312 do CPP).
+    5. Ordem de habeas corpus denegada.”
+    2. Extrai-se dos autos que o paciente foi denunciado pelo crime previsto no artigo 353, caput, c/c o artigo 350, ambos do Código Eleitoral.
+    3. Frustradas as tentativas de localizar o acusado, o juiz singular determinou a citação por edital e a suspensão do processo, bem como ordenou a produção antecipada de provas, nos termos do artigo 366 do Código de Processo Penal. Contudo, o magistrado indeferiu o pedido do Ministério Público para que fosse decretada a prisão preventiva do acusado.
+    4. Dessa essa decisão, o Ministério Público interpôs recurso em sentido. O Tribunal Regional Eleitoral de São Paulo deu provimento ao recurso a fim de decretar a prisão preventiva do paciente.
+    5. Na sequência, foi impetrado habeas corpus no Tribunal Superior Eleitoral. A ordem foi denegada.
+    6. Neste habeas corpus, a parte impetrante sustenta a ausência de fundamentação idônea para a decretação da custódia preventiva. Daí o pedido de concessão da ordem a fim de revogar a prisão processual do acionante.
+    Decido.
+    7. O habeas corpus não deve ser concedido.
+    8. A orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que a fundada probabilidade de reiteração criminosa justifica a decretação da custódia preventiva (vg. HC 131.005-AgR, Rel. Min. Edson Fachin; HC 131.002, Rel. Min. Gilmar Mendes; HC 115.930, Rel. Min. Ricardo Lewandowski; HC 111.009, Relª. Minª. Cármen Lúcia).
+    9. No caso de que se trata, a autoridade impetrada não divergiu desse entendimento ao assentar que “trata-se de acusado que possui histórico de condenação proferida pela Justiça Federal em virtude de crime semelhante ao apurado na seara eleitoral, além de já ter sido condenado por tráfico internacional de drogas na Alemanha, apresentar antecedentes criminais no Kuwait e ser investigado no Estado de Minas Gerais por supostos crimes de falsidade”. De modo que “Não há constrangimento ilegal ao direito de locomoção na decisão que decreta a prisão preventiva para resguardar a ordem pública, tendo em vista o fundado receio de reiteração das práticas delituosas – demonstrado pelo histórico de feitos criminais a que o paciente responde e/ou pelos quais foi condenado, nacional e internacionalmente -, e, ainda, para garantir a instrução criminal e aplicação da lei penal (art. 312 do CPP)”.
+    10. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 08 de agosto de 2018.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
