@@ -1,0 +1,33 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. INCIDÊNCIA DO REAJUSTE DE 28,86% SOBRE ANUÊNIOS. POSSIBILIDADE. RECURSO ESPECIAL DA UNIÃO A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto pela UNIÃO, com fundamento no art. 105, III, a da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4a. Região, assim ementado:
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. AGRAVO RETIDO. RAZÕES DISSOCIADAS. NÃO CONHECIMENTO. SERVIDOR PÚBLICO. ANUÊNIOS. BASE DE CÁLCULO. LIMITES DO TÍTULO EXECUTIVO.
+1. Não se conhece do agravo retido, cujas razões são dissociadas do conteúdo da decisão recorrida.
+2. Tendo a Administração estendido o direito ao reajuste de 28,86% a todos os servidores públicos, civis e militares (MP nº 1.704/98), as diferenças remuneratórias daí decorrentes, compensados os acréscimos concedidos pelas Leis 8.622/93 e 8.627/93, devem ser incluídas na base de cálculo dos anuênios.
+3. Não há decisão ultra petita quando o juiz homologa cálculo, elaborado pela Contadoria, que aponta como correto valor inferior àquele indicado pela embargante, porquanto devem ser observados os termos e limites da decisão exequenda (fls. 1.346).
+2. Opostos Embargos de Declaração, foram eles parcialmente acolhidos para fins de prequestionamento.
+3. Nas razões do Recurso Especial, alega ofensa aos arts. 535, II, 741, V, 467, 468, 473 e 474 do CPC/1973, argumentando, em síntese, haver excesso de execução e violação à coisa julgada tendo em vista a indevida incidência do reajuste de 28,86% sobre os anuênios, porquanto a base de cálculo do adicional é o vencimento básico do servidor.
+4. É o relatório do essencial.
+5. Inicialmente, em relação à suposta contrariedade ao art. 535, II do CPC/1973, inexiste a violação apontada. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que o julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+6. Quanto à incidência do percentual de 28,86% sobre os anuênios, esta Corte fixou a orientação de que a base de cálculo do reajuste é a remuneração do Servidor, devendo abranger, portanto, os anuênios.
+7. Ilustrando tal orientação, os seguintes julgados:
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. 28,86%. BASE DE CÁLCULO. REMUNERAÇÃO. ANUÊNIOS. INCIDÊNCIA SOBRE BASE DE CÁLCULO NÃO REAJUSTADA PELO MESMO ÍNDICE. AGRAVO INTERNO DA UNIÃO PARCIALMENTE PROVIDO.
+1. Nos termos da jurisprudência pacífica desta Corte, o reajuste de 28,86% deve incidir sobre a base de cálculo do adicional por tempo de serviço, porquanto a base de cálculo do reajuste é a remuneração do Servidor, devendo abranger, portanto, os anuênios. Cabe a ressalva de que tal incidência só é cabível nos casos em que a verba incida sobre a base de cálculo não reajustada pelo mesmo índice, sob pena de bis in idem (AgRg nos EDcl no REsp. 1.457.873/PR, Rel. Min. HUMBERTO MARTINS, DJe 25.3.2015).
+2. Agravo Interno da UNIÃO parcialmente provido, apenas para ressalvar que tal incidência só é cabível nos casos em que a verba incida sobre a base de cálculo não reajustada pelo mesmo índice, sob pena de bis in idem (AgInt no REsp. 1.320.433/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 23.5.2017).
+
+ADMINISTRATIVO E PROCESSUAL CIVIL. REAJUSTE DE 28,86%. BASE CÁLCULO. REMUNERAÇÃO. ANUÊNIOS. INCIDÊNCIA SOBRE BASE DE CÁLCULO NÃO REAJUSTADA PELO MESMO ÍNDICE. IMPOSSIBILIDADE. BIS IN IDEM EMBARGOS DE DECLARAÇÃO. OMISSÃO. ART. 535 DO CPC. INTEGRAÇÃO DO JULGADO.
+1. Os embargos declaratórios são cabíveis para a modificação do julgado que se apresenta omisso, contraditório ou obscuro, bem como para sanar eventual erro material na decisão.
+2. Nos termos da jurisprudência desta Corte, o reajuste de 28,86% deve incidir sobre a base de cálculo do adicional por tempo de serviço, porquanto a base de cálculo do reajuste é a remuneração do servidor, devendo abranger, portanto, os anuênios.
+3. Necessário esclarecer que a incidência do reajuste de 28,86% sobre os anuênios só pode ocorrer nos casos em que a verba incide sobre base de cálculo não reajustada pelo mesmo índice, sob pena de bis in idem.
+Embargos de declaração acolhidos, sem efeito modificativos, para esclarecer que a incidência do reajuste de 28,86% sobre os anuênios só pode ocorrer nos casos em que a verba incide sobre base de cálculo não reajustada pelo mesmo índice, sob pena de bis in idem (EDcl no AgRg no REsp. 1.347.396/PR, Rel. Min. HUMBERTO MARTINS, DJe 1.7.2014).
+
+ADMINISTRATIVO E PROCESSUAL CIVIL. EXECUÇÃO INDIVIDUAL DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA. PRESCRIÇÃO. INEFICÁCIA DO PROTESTO INTERRUPTIVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. NÃO ALEGAÇÃO DE VIOLAÇÃO DO ARTIGO 535 DO CPC. REAJUSTE DE 28,86%. BASE CÁLCULO. REMUNERAÇÃO. ANUÊNIOS. POSSIBILIDADE.
+1. A Corte de origem, ao enfrentar a preliminar de prescrição da ação de execução, não analisou, ainda que implicitamente, o argumento da ineficácia do protesto interruptivo interposto pelo sindicato quando supostamente já decorridos mais de cinco anos do trânsito em julgado da ação coletiva.
+2. Descumprido o indispensável exame dos artigos invocados pelo acórdão recorrido, apto a viabilizar a pretensão recursal da recorrente, a despeito da oposição dos embargos de declaração. Incidência da Súmula 211/STJ.
+3. Imprescindível a alegação de violação do artigo 535 do Código de Processo Civil, quando da interposição do recurso especial com fundamento na alínea "a" do inciso III do artigo 105 da Constituição Federal, quando a recorrente entende persistir algum vício no acórdão impugnado, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+4. Nos termos da jurisprudência desta Corte, o reajuste de 28,86% deve incidir sobre a base de cálculo do adicional por tempo de serviço, porquanto a base de cálculo do reajuste é a remuneração do servidor, devendo abranger, portanto, os anuênios.
+5. Referido entendimento não contraria o exarado no REsp 990284/RS, da relatoria da Ministra Maria Thereza de Assis Moura, julgado em 26/11/2008, segundo o qual a base de cálculo do reajuste de 28,86%, incide sobre a remuneração do servidor, o que inclui o vencimento básico (servidor público civil) ou o soldo (militar), acrescido das parcelas que não os têm como base de cálculo, a fim de evitar a dupla incidência do reajuste.
+Agravo regimental improvido (AgRg no REsp. 1.347.396/PR, Rel. Min. HUMBERTO MARTINS, DJe 15.5.2014).
+8. Ante o exposto, nega-se seguimento ao Recurso Especial interposto pela UNIÃO.
+9. Publique-se.
+10. Intimações necessárias.
