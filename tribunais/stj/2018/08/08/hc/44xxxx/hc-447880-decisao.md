@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO.
+Informa o impetrante que o paciente foi condenado pela prática do delito de tráfico de drogas e porte ilegal de armas. A defesa postula, neste writ, a revisão da dosimetria da pena aplicada, sustentando não haver fundamentos jurídicos idôneos para sustentar a exasperação da sanção imposta ao acusado, bem como a progressão de regime, ao argumento de que o paciente teria preenchido os requisitos legais exigidos para obtenção da benesse.
+Alega ausência de provas, diante da inexistência de materialidade e autoria na prática do crime atribuído ao paciente, incorrendo, portanto, em ofensa ao devido processo legal.
+Desse modo, requer a concessão da ordem constitucional a fim de sanar a ilegalidade apontada.
+Liminar às fls.88/89.
+Informações às fls. 109/127.
+Parecer ministerial às fls. 102/104.
+É o relatório.
+A princípio, o pedido deduzido na inicial não comporta conhecimento na via eleita, já que formulado em flagrante desrespeito ao sistema recursal vigente no âmbito do Direito Processual Penal pátrio, tendo em vista que a impetração se destina a atacar acórdão proferido em sede de agravo em execução penal, contra o qual seria cabível a interposição do recurso especial.
+Entretanto, o constrangimento apontado na inicial será analisado, a fim de que se verifique a existência de flagrante ilegalidade que justifique a atuação de ofício por este Superior Tribunal de Justiça.
+No que tange ao benefício de progressão de pena, verifica-se que tal questão não foi objeto de exame pela Corte de origem no acórdão impugnado, o que impede a sua apreciação diretamente por este Superior Tribunal, dada sua incompetência para tanto e sob pena de indevida supressão de instância, consoante reiterados julgados desse Sodalício.
+A propósito:
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO, PELO CONCURSO DE PESSOAS (ART. 157, § 2º, II, POR TRÊS VEZES, NA FORMA DO ART. 70, CAPUT, AMBOS DO CÓDIGO PENAL). UTILIZAÇÃO DO REMÉDIO CONSTITUCIONAL COMO SUCEDÂNEO DE RECURSO. NÃO CONHECIMENTO DO WRIT. PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL E DO SUPERIOR TRIBUNAL DE JUSTIÇA. PENA PRIVATIVA DE LIBERDADE INFERIOR A 8 ANOS. PACIENTE PRIMÁRIO. PENA-BASE ESTABELECIDA NO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. FIXAÇÃO DE REGIME INICIAL FECHADO, COM BASE NA GRAVIDADE ABSTRATA DO DELITO. NA INCIDÊNCIA DAS SÚMULAS 440 DO STJ e 718 e 719 DO STF. EXISTÊNCIA DE ILEGALIDADE. HABEAS CORPUS NÃO CONHECIDO. CONCESSÃO DA ORDEM, DE OFÍCIO.
+ ..
+V. Se todas as circunstâncias judiciais foram consideradas favoráveis ao paciente, primário, sendo-lhe fixada a pena-base no mínimo legal e pena definitiva de 6 (seis) anos, 4 (quatro) meses e 24 (vinte e quatro) dias de reclusão, não há como manter o regime inicial fechado, invocando a gravidade abstrata do delito de roubo circunstanciado pelo concurso de agentes, razão pela qual deve ser-lhe fixado o regime inicial semiaberto, com fundamento no art.
+33, §§ 2º, b, e 3º, do Código Penal. Incidência das Súmulas 440 do STJ e 718 e 719 do STF.
+VI. O pleito de progressão de regime prisional - em razão do fato de que o paciente faria jus à detração da pena - não merece ser conhecido, porquanto a questão não foi objeto de exame, pelo Tribunal de origem, não tendo, ao que consta, sequer sido deduzida perante o Juízo das Execuções, razão pela qual não pode ser apreciada, por esta Corte, sob pena de supressão de instância.
+VII. Habeas corpus não conhecido.
+VIII. Ordem concedida, de ofício, para fixar, ao paciente, o regime inicial semiaberto para o cumprimento da pena privativa de liberdade (art. 33, §§ 2º, b, e 3º, CP) relativa ao delito de que cuida o presente Habeas corpus.
+(HC 274.285/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEXTA TURMA, julgado em 05/11/2013, DJe 10/12/2013)
+Ademais, verifica-se que o presente mandamus foi impetrado desprovido de documentação, visto que a parte impetrante deixou de juntar a cópia da decisão proferida pelo Juízo de origem, inviabilizando, assim, o deslinde da controvérsia.
+Como se sabe, o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência do aventado constrangimento ilegal suportado, decorrente de Tribunal sujeito a jurisdição desta Corte Superior, providência não efetivada no caso sub examine.
+Nesse sentido:
+HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. DIREITO DE RECORRER EM LIBERDADE. PACIENTE PRESO COM MAIS DE 12KG DE MACONHA. PRISÃO PREVENTIVA MANTIDA DURANTE TODA A INSTRUÇÃO CRIMINAL. COAÇÃO ILEGAL NÃO EVIDENCIADA. HABEAS CORPUS NÃO CONHECIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. Não se verifica constrangimento ilegal em hipótese na qual o magistrado indeferiu o direito de recorrer em liberdade por considerar estarem mantidos os motivos pelo qual a prisão fora anteriormente decretada, e recomendando o paciente na prisão em que se encontrava.
+3. Fica inviável a análise da idoneidade dos fundamentos expostos no decreto preventivo originário, uma vez que a defesa não juntou a decisão aos autos.
+4. O rito do habeas corpus pressupõe prova pré-constituída, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+5. Não obstante, mostra-se devida a prisão cautelar em hipótese na qual o paciente foi condenado pela prática de tráfico ilícito de entorpecentes, tendo sido apreendido com mais de 12kg de maconha, quantidade que reveste o delito de maior gravidade e evidencia a necessidade da segregação antecipada.
+6. No mesmo sentido, se o paciente respondeu preso a toda a ação penal, fica reforçada a necessidade da segregação, uma vez que a existência de sentença condenatória enfraquece sua presunção de não culpabilidade, de modo que seria incoerente, não havendo alterações do quadro fático, conceder, nesse momento, a liberdade.
+7. Writ não conhecido.
+(HC 340.763/PE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 02/06/2016, DJe 07/06/2016)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. PEDIDO DE CONCESSÃO DE HABEAS CORPUS, PARA REVOGAR A PRISÃO PREVENTIVA DO PACIENTE, MANTIDA PELO TRIBUNAL A QUO. AUSÊNCIA DE CÓPIA DO ACÓRDÃO IMPUGNADO E DO DECRETO PRISIONAL, NECESSÁRIOS PARA A VERIFICAÇÃO DOS MOTIVOS QUE ENSEJARAM A DECRETAÇÃO E MANUTENÇÃO DA CUSTÓDIA CAUTELAR. EXIGÊNCIA DE PROVA PRÉ-CONSTITUÍDA. ÔNUS DO IMPETRANTE. PRECEDENTES DO STF E STJ.
+I. Constitui ônus do impetrante a correta instrução do habeas corpus, mediante prova pré-constituída, cabendo-lhe colacionar, quando da impetração, as peças necessárias ao deslinde da controvérsia, de sorte a demonstrar o alegado constrangimento ilegal. Precedentes do STF e do STJ.
+II. Não tendo sido juntado aos autos, pelo impetrante, o inteiro teor do acórdão impugnado e do decreto prisional - necessário para a verificação dos motivos que ensejaram a decretação e manutenção da custódia cautelar -, resta inviabilizada a apreciação da pretendida revogação da prisão preventiva, porquanto impossível verificar-se o alegado constrangimento ilegal.
+III. Agravo Regimental improvido. (AgRg no HC 277.159/BA, Rel. Ministra ASSUSETE MAGALHÃES, SEXTA TURMA, julgado em 10/12/2013, DJe 10/02/2014)
+Ante o exposto, nos termos do art. 34, inciso XX, do Regimento Interno deste STJ, não conheço do habeas corpus.
+Publique-se.
