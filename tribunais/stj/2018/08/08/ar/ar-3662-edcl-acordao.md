@@ -1,0 +1,52 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NA AÇÃO RESCISÓRIA. FALÊNCIA DA ENCOL. PEDIDO DE INCIDÊNCIA DA MULTA POR LITIGÂNCIA DE MÁ-FÉ. SUPRESSÃO DA OMISSÃO. ARGUMENTAÇÃO AUTORAL SUPOSTAMENTE INVERÍDICA. DESINFLUÊNCIA NA SOLUÇÃO DA CAUSA. EMBARGOS ACOLHIDOS SEM ALTERAÇÃO DO JULGADO.
+1. Ainda que superado o conhecimento do alegado erro de fato, a afirmação alegadamente inverídica feita pela autora, não deferimento da concordata por ausência dos fundamentos legais, não poderia ter o condão de influir na solução da ação rescisória que haveria de ser, como foi, decidida com base em outro fundamento, a data do protocolo do pedido de concordata, fato incontroverso nos autos.
+2. O exagero na fundamentação ou afirmações que são meramente marginais à estrutura decisória do acórdão embargado não dão ensejo à incidência de multa por má-fé.
+3. Embargos de declaração acolhidos, sem alteração do julgado.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Segunda Seção, por unanimidade, acolher os embargos de declaração, sem alteração do julgado, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nancy Andrighi, Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator:
+Trata-se de embargos de declaração opostos por BANCO BARCLAYS E GALÍCIA S/A contra acórdão que julgou improcedente a ação rescisória, assim ementado:
+"AÇÃO RESCISÓRIA NO RECURSO ESPECIAL. FALÊNCIA DA ENCOL. TERMO LEGAL. DATA DO PRIMEIRO PROTESTO POR FALTA DE PAGAMENTO OU DATA DA DISTRIBUIÇÃO DO PEDIDO DE CONCORDATA PREVENTIVA. ALEGAÇÃO DE ERRO DE FATO. NÃO CABIMENTO. ACÓRDÃO RESCINDENDO QUE OSTENTA EXPRESSO PRONUNCIAMENTO ACERCA DO FATO. VIOLAÇÃO A LITERAL DISPOSIÇÃO DE LEI NÃO DEMONSTRADA. RAZOÁVEL INTERPRETAÇÃO DA NORMA. AÇÃO RESCISÓRIA IMPROCEDENTE.
+1. A ação rescisória fundada em erro de fato pressupõe que a sentença admita um fato inexistente ou considere inexistente um fato efetivamente ocorrido, sendo indispensável, em ambos os casos, que não tenha havido controvérsia, nem pronunciamento judicial a esse respeito.
+2. No caso em análise, o aresto rescindendo expressamente adotou a data do pedido de concordata como marco para a fixação do termo legal da falência, nos exatos moldes de disposição legal, ocorrendo, portanto, expresso pronunciamento judicial acerca do tema.
+3. Do mesmo modo, não configurada a alegada violação a disposição literal de lei, pois, segundo o pacífico entendimento da doutrina e da jurisprudência desta Corte, "entende-se como "violação literal" a que se mostrar de modo evidente, flagrante, manifesto, não se compreendendo como tal a interpretação razoável da norma, embora não a melhor" (Teori Albino Zavascki, in Ação rescisória em matéria constitucional, Revista de Direito Renovar, nº 27).
+4. O art. 14 do Decreto-Lei 7.661/45, pretérita Lei de Falências vigente à época dos fatos, previa que a sentença declaratória da falência deveria fixar, "se possível, o termo legal da falência, designando a data em que se tenha caracterizado esse estado, sem poder retrotraí-lo por mais de sessenta dias, contados do primeiro protesto por falta de pagamento, ou do despacho ao requerimento inicial da falência (arts. 8º e 12), ou da distribuição do pedido de concordata preventiva".
+5. O ordenamento jurídico então vigente à época da falência da ENCOL não obrigava, como visto, o Magistrado sentenciante a adotar a data do primeiro protesto por falta de pagamento como marco para a fixação do termo legal da quebra, como alega a autora, não havendo falar, portanto, em violação a disposição literal de lei.
+6. Ação rescisória improcedente" (nas fls. 1.940/1.941).
+A embargante aduz, em síntese, omissão no tocante à análise do pedido de imposição de multa por litigância de má-fé à autora da ação rescisória (nas fls. 1.958/1.963).
+Requer o acolhimento dos embargos de declaração.
+A parte embargada não apresentou impugnação (nas fls. 1.967/1.968).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator:
+Os embargos de declaração merecem acolhida para supressão da assinalada omissão, embora sem alteração do julgado.
+A instituição financeira embargante alegou, em sede de contestação, que "a autora, ao argumentar que a concordata da Encol não foi deferida, tendo, apenas, tido o seu processamento deferido, parece, com a devida vênia, estar faltando com a seriedade que deve caracterizar o comportamento das partes em uma demanda judicial" (na fl. 1.587).
+Afirmou, todavia, que, "para verificar que a concordata da Encol foi, sim, deferida, tendo a falência da empresa, aliás, sido decretada justamente porque não houve o pagamento da primeira parcela da concordata" e que , "diante do flagrante descabimento da alegação acima mencionada, se faz necessário não só o julgamento de total improcedência da ação rescisória, como, também, a condenação da autora como litigante de má-fé, nos termos dos arts. 17 e 18 do CPC" (grifou-se, na fl. 1.588).
+A agravante afirmou, a título de erro de fato, que "o v. acórdão rescindendo (RESP 299111) cometeu ainda erro de fato (artigo 485. IX, §1º do CPC), pois considerou que a concordata preventiva da ENCOL teria sido concedida, o que permitiria a fixação do termo legal em desacordo com o disposto no artigo 14, III, da Lei de Falências", mas que, todavia, "a concordata preventiva da ENCOL não foi concedida, apenas teve o seu processamento deferido, o que invalida esse fundamento do acórdão rescindendo para a fixação do termo legal da falência com base na distribuição do requerimento da concordata preventiva" (na fl. 20).
+No entanto, não obstante a afirmação não corresponder à realidade, segundo assegura a parte embargante, esse fato não poderia, efetivamente, conduzir esta Corte a erro de julgamento, porquanto a alegação da ocorrência de erro de fato foi afastada porque sobre a questão o acórdão rescindendo pronunciou-se expressamente. Confira-se:
+"Inicialmente, afasta-se a alegação da ocorrência de erro de fato, previsto no art. 485 do CPC/73, porque, conforme a abalizada lição doutrinária de [NOME] e [NOME], são quatro os requisitos para o cabimento da ação rescisória sob a alegação de erro de fato, em especial aquele que exige que sobre o assinalado erro não tenha havido pronunciamento judicial.
+Confira-se:
+"Devem estar presentes os seguintes requisitos para que se possa rescindir sentença por erro de fato:
+a) a sentença deve estar baseada no erro de fato;
+b) sobre ele não pode ter havido controvérsia entre as partes;
+c) sobre ele não pode ter havido pronunciamento judicial;
+d) que seja aferível pelo exame das provas já constantes dos autos da ação matriz, sendo inadmissível a produção, na rescisória, de novas provas para demonstrá-lo." (Nelson Nery Júnior e Rosa Maria de Andrade Nery, in Código de Processo Civil Comentado e Legislação Extravagante, 9ª ed., Ed. Revista dos Tribunais, 2006, pág. 681).
+Nesse passo, saliente-se que a autora afirmou que "a concordata preventiva da ENCOL não foi concedida, apenas teve o seu processamento deferido, o que invalida esse fundamento do acórdão rescindendo para a fixação do termo legal da falência com base na distribuição do requerimento da concordata preventiva" (na fl. 20).
+E foi exatamente nesses moldes que o aresto rescindendo definiu que, "sobrevindo à concordata a falência, o termo legal desta deve ser contado da data em que foi distribuído o pedido daquela" (na fl. 48).
+Logo, no caso em análise, o aresto rescindendo expressamente adotou a data do pedido de concordata como marco para a fixação do termo legal da falência, nos exatos moldes de disposição legal, ocorrendo, portanto, expresso pronunciamento judicial acerca do tema" (nas fls. 1.942/1.951).
+Outrossim, ainda que superado o conhecimento dessa específica questão, constata-se que a afirmação alegadamente inverídica não teria mesmo o condão de influir na solução da ação rescisória, porquanto o marco legal utilizado para se determinar o termo legal da falência é o simples pedido da concordata, mas não seu deferimento.
+A propósito, os seguintes fundamentos do aresto embargado:
+"No hipótese em análise, como anteriormente salientado, o art. 14 do Decreto-Lei 7.661/45, vigente á época dos fatos, permitia que a sentença declaratória da falência fixasse, se possível, o termo legal da quebra, sem poder recuá-lo por mais de sessenta dias, contados a partir: (a) da data do primeiro protesto por falta de pagamento; (b) da data do despacho ao requerimento inicial da falência; ou (c) da data da distribuição do pedido de concordata preventiva.
+Ora, conforme reconhece a própria autora, "o que esse dispositivo determina é que o juiz, ao fixar o termo legal, designe a data em que ocorreu o estado de quebra, tendo liberdade para escolher 01 (um) dentre os 3 (três) eventos sugeridos aquele que possa cumprir esse papel" (grifou-se, na fl. 12).
+Assim, a pretérita Lei de Falências não obrigava que o Magistrado sentenciante adotasse somente a data do primeiro protesto por falta de pagamento como marco para a fixação do termo legal da quebra. Confira-se, novamente, a redação do dispositivo legal:
+Art. 14. "Praticadas as diligências ordenadas pela presente lei, o juiz, no prazo de vinte e quatro horas, proferirá a sentença, declarando ou não a falência.
+Parágrafo único. A sentença que declarar a falência:
+I - (..);
+II - (..);
+III - fixará, se possível, o termo legal da falência, designando a data em que se tenha caracterizado esse estado, sem poder retrotraí-lo por mais de sessenta dias, contados do primeiro protesto por falta de pagamento, ou do despacho ao requerimento inicial da falência (arts. 8º e 12), ou da distribuição do pedido de concordata preventiva" (grifou-se).
+Em conclusão, não se faz presente na hipótese a alegada violação literal dos arts. 14, 140 e 158 do Decreto-Lei 7.661/45" (nas fls. 1.942/1.951).
+Em conclusão, como a alegação de que a concordata da Encol não teria sido deferida não poderia induzir esta Corte a erro, pois não poderia influir no julgamento da presente, deve ser considerada apenas como tolerável desvio de argumentação.
+Diante do exposto, acolho os embargos declaratórios, sem alteração do julgado.
+É como voto.
