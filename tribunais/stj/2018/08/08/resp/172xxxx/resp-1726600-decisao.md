@@ -1,0 +1,43 @@
+EMENTA
+PENAL. PROCESSUAL PENAL. AGRAVO EM EXECUÇÃO PENAL. RECURSO ESPECIAL. LIVRAMENTO CONDICIONAL. MARCO INICIAL. SOMATÓRIO DE TODAS AS CONDENAÇÕES. REINCIDÊNCIA. APLICAÇÃO NO TOTAL DA PENA UNIFICADA. PRECEDENTES. SÚMULA 568/STJ. INCIDÊNCIA. RECURSO ESPECIAL DESPROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra o v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado de Rondônia, cuja ementa registra, verbis (fl. 61):
+"Agravo de execução de penal. Livramento condicional. Somatório das penas. Sentenciado que ostenta mais de uma condenação. Reincidente. Pleito de aplicação concomitante do patamar de 1/3 para a execução da pena aplicada ao tempo em que o sentenciado ostentava a primariedade. Inviabilidade. Recurso não provido"
+Nas razões do recurso especial, interposto com fulcro na alínea a, do permissivo constitucional, a parte recorrente sustenta a violação do art. 83, inciso I do Código Penal. Para tanto, argumenta que:
+a) "a confusão terminológica a que se sujeitou o TJ/RO, no momento em que assumiu que a unificação de penas prevista no Artigo 75, do Código Penal, influenciaria em aspectos outros da execução penal, com a concessão do livramento condicional" (fl. 75);
+b) "se o cálculo de unificação de penas não interfere os cálculos para a concessão do livramento condicional, não deve também interferir no que se refere aos prazos previstos no Artigo 83, do Código Penal" (fl. 75).
+Apresentadas as contrarrazões (fls. 80-86), o recurso foi admitido na origem (fl. 88) e os autos encaminhados a esta Corte Superior.
+A d. Subprocuradoria-Geral da República, em seu d. parecer, manifestou-se pelo desprovimento do recurso especial (fls. 100-102).
+É o relatório.
+Decido.
+A alegação cinge-se na possibilidade de se considerar o somatório das penas impostas em face de diversas condenações, para delimitar o marco inicial de concessão do livramento condicional, bem como dos efeitos da reincidência.
+O v. acórdão impugnado está fundamentado nos seguintes termos (fls. 61-66):
+"Por sua vez, o art. 84 do CP, disciplina "as penas que correspondem a infrações diversas devem somar-se para efeito de livramento".
+Na hipótese, consoante certidão dos cálculos mencionada, o agravante/reeducando é reincidente, e procedida a unificação das penas, para se beneficiar do livramento condicional deverá cumprir mais da metade sobre a totalidade da pena, a teor do que dispõe o art. 83, II, c/c art. 84, ambos do CP.
+ ..
+Nesse passo, procedida a unificação de penas, não há falar em fracionamento para reconhecer a primariedade em relação à parte da condenação para fins de concessão de benefício da execução penal, devendo a reincidência incidir sobre o montante da pena resultante da unificação;
+Ademais, vale registrar que a reincidência é circunstância de natureza pessoal que, uma vez reconhecida e constatada, passa a reger todo o cumprimento da pena, resultando consequentemente, no atendimento e imposição de frações mais elevadas para o alcance de benefícios, tendo como exemplo o livramento condicional, como já mencionado.
+ ..
+Logo, sem razão o pleito que pretendia a aplicação concomitante do patamar de 1/3 para a execução de pena aplicada ao tempo em que era primário.
+Diante do exposto, nego provimento ao recurso e mantenho inalterada a decisão agravada.
+É como voto" (fls. 61-66)
+Da análise do excerto colacionado verifica-se, ao contrário do alegado pela defesa, a inexistência da qualquer ilegalidade a amparar o provimento do presente inconformismo, uma vez que as conclusões do acórdão recorrido estão em sintonia com o entendimento deste Superior Tribunal de Justiça. Com efeito, cediço o entendimento de que a reincidência do acusado incide sobre a pena unificada, atraindo a aplicação do art. 83, inciso II, do CP, que condiciona a concessão de livramento condicional ao condenado reincidente em crime doloso ao cumprimento da metade da pena.
+Nesse sentido:
+"PROCESSUAL PENAL. EXECUÇÃO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. LAPSO TEMPORAL NECESSÁRIO À OBTENÇÃO DO LIVRAMENTO CONDICIONAL. INCIDÊNCIA SOBRE O MONTANTE RESULTANTE DA SOMA DAS EXECUÇÕES. REINCIDÊNCIA NA PRÁTICA DE CRIME DOLOSO. ART. 83, II, DO CP. LAPSO TEMPORAL DE 1/2. AGRAVO REGIMENTAL DESPROVIDO.
+1. Havendo pluralidade de condenações, as penas devem ser unificadas, realizando-se o cálculo do livramento condicional sobre o montante obtido. Reconhecida a reincidência, deve ser adotado o lapso temporal previsto no art. 83, II, do Código Penal, que exige, para a aquisição do referido benefício, o cumprimento de metade da pena imposta, não havendo falar da aplicação concomitante do patamar de um terço para a execução de pena imposta, quando o réu ostentava a primariedade, e de metade, para as demais execuções.
+2. Agravo regimental a que se nega provimento." (AgRg no REsp 1720625/RO, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 11/5/2018, grifei).
+"RECURSO ESPECIAL. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. CÁLCULO DO BENEFÍCIO. MONTANTE OBTIDO PELA UNIFICAÇÃO DAS PENAS. ART. 84 DO CP. REINCIDÊNCIA EM CRIME DOLOSO. ART. 83, II, DO CP. LAPSO TEMPORAL DE 1/2.
+1. Havendo pluralidade de condenações, as penas devem ser unificadas, realizando-se o cálculo do livramento condicional sobre o montante obtido, nos termos do art. 84 do CP.
+2. Reconhecida a reincidência, o apenado passa a ostentar a condição de reincidente, gerando efeitos, de imediato, no cálculo dos futuros benefícios da execução criminal, inclusive quanto à incidência da fração de 1/2 para a concessão do livramento condicional (art. 83, II, do CP). Não há falar na aplicação concomitante do patamar de 1/3 para a execução de pena aplicada ao tempo em que era primário e de 1/2 para as demais execuções.
+3. Recurso especial provido." (REsp 1492726/RS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 24/4/2015, grifei).
+"EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. CRIMES DE FURTO E ROUBO. LIVRAMENTO CONDICIONAL. RETIFICAÇÃO DO CÁLCULO DE PENAS. APENADO REINCIDENTE. FRAÇÃO DE METADE QUE DEVE INCIDIR SOBRE A TOTALIDADE DAS REPRIMENDAS UNIFICADAS. CORREÇÃO. REQUISITO SUBJETIVO. HISTÓRICO DE FALTAS DISCIPLINARES GRAVES. NÃO CUMPRIMENTO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+II - Por determinação expressa do art. 84 do Código Penal, as penas que correspondem a infrações diversas devem somar-se para efeito do livramento condicional.
+III - Na hipótese, sendo o apenado reincidente em crime doloso, e consistindo a reincidência em condição pessoal que, uma vez adquirida pelo sentenciado, influi sobre o requisito objetivo dos benefícios da execução, com relação a todas as sanções a ele aplicadas, deve o percentual de 1/2 (metade), exigido como lapso temporal para o livramento condicional, nos termos do art. 83, inciso II, do Código Penal, incidir sobre a totalidade das reprimendas unificadas. (Precedentes).
+IV - Para a concessão do benefício do livramento condicional, nos termos do art. 83 do Código Penal, deve o reeducando preencher também os requisitos de natureza subjetiva (comportamento satisfatório durante a execução da pena, bom desempenho no trabalho que lhe foi atribuído e aptidão para prover ao próprio sustento de maneira lícita), podendo as instâncias ordinárias, excepcionalmente, diante das peculiaridades do caso concreto, determinar a realização de exame criminológico para aferir o mérito do apenado, desde que essa decisão seja adequadamente motivada. (Súmula n. 439/STJ; Súmula vinculante n. 26/STF; v.g.).
+V - In casu, a eg. Corte estadual afastou a configuração do requisito subjetivo com fundamentação idônea, fazendo remissão a fatos concretos ocorridos no curso do desconto da reprimenda pelo paciente, notadamente, às anotações, constantes de seu histórico carcerário, da prática de faltas disciplinares de fuga - datadas de 4/4/2009, 4/4/2012 e 14/9/2013 - e à notícia de que o livramento condicional que lhe fora concedido, em primeira instância, foi cautelarmente suspenso em razão do cometimento de novo crime doloso.
+Habeas corpus não conhecido." (HC 379.007/RS, Quinta Turma, de minha relatoria, DJe 15/3/2017).
+Dessa forma, estando o v. acórdão prolatado pelo eg. Tribunal a quo em conformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso o enunciado da Súmula 568/STJ, in verbis:
+"O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Ante o exposto, com fulcro no art. 255, § 4º, inciso II, do Regimento Interno do STJ, nego provimento ao recurso especial.
+P. e I.
