@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que não admitiu recurso especial.
+O apelo nobre, fundamentado no art. 105, III, alíneas "a" e "c", da Constituição Federal desafia acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. PESCA PROFISSIONAL PREJUDICADA PELA CONSTRUÇÃO E ATIVIDADES DA USINA HIDRELÉTRICA FOZ DO CHAPECÓ. SENTENÇA DE IMPROCEDÊNCIA NA ORIGEM. IRRESIGNAÇÃO DO AUTOR. PRELIMINARES DE ILEGITIMIDADE ATIVA AD CAUSAM, COISA JUGADA MATERIAL E NECESSIDADE DA PRODUÇÃO DE PROVA PERICIAL AFASTADAS. MÉRITO. RESPONSABILIDADE CIVIL OBJETIVA DAQUELE QUE EXPLORA ATIVIDADE GERADORA DE DEGRADAÇÃO AMBIENTAL E PREJUÍZOS DE ORDEM MATERIAL E IMATERIAL. DANO, AUTORIA E NEXO CAUSAL ENTRE O ALEGADO PREJUÍZO E A ATIVIDADE DESEMPENHADA PELA CONCESSIONÁRIA NÃO EVIDENCIADOS. PROVA PERICIAL E DOCUMENTAL INDICADORAS DA IMPROCEDÊNCIA DA PRETENSÃO. PRECEDENTES. ENTENDIMENTO CONSOLIDADO PELO GRUPO DE CÂMARAS DE DIREITO CIVIL. DEVER DE INDENIZAR NÃO CONFIGURADO. RECURSO CONHECIDO E DESPROVIDO.
+A Bacia do Rio Uruguai é reconhecida pelo grande potencial hidrelétrico, e possui uma das maiores relações energia por quilômetro quadrado do mundo.
+Assim, a exploração desse potencial energético vem ao encontro da necessidade permanente da expansão da oferta de energia para a população e empresas, gênero de primeira necessidade no mundo moderno.
+A Constituição Federal em vigor estabeleceu em favor da coletividade o direito ao meio ambiente ecologicamente equilibrado, porque essencial à sadia qualidade de vida do povo, impondo ao Poder Público e à sociedade o dever de proteção (art. 225).
+Todavia, do comando constitucional não se pode extrair interpretação castrante de atividade econômica desenvolvida em nome do Estado e no interesse da coletividade, devendo de se harmonizar os conflitos surgidos entre os particulares e a atividade impactante ao meio ambiente.
+As hidrelétricas constituem exemplo da conjugação de esforços para a realização do objetivo nacional de alcançar o bem-estar à população, com o fornecimento de energia elétrica de qualidade e contínua, com a produção do menor dano possível ao meio ambiente, pois sua instalação e operação trazem, por si só, prejuízo à fauna e flora da região em que localizadas.
+Nesse passo, se a autorização do Poder Público para a implantação de uma Usina Hidrelétrica pressupõe a aprovação de prévios estudos de impacto ambiental e medidas de compensação, bem como regras de funcionamento minimizadoras de novos danos, a responsabilização civil por prejuízos exige a prova segura de conduta operacional da empresa que extrapole os limites estabelecidos para sua atuação ao tempo da concessão.
+Com efeito, tratando-se de responsabilidade objetiva, somente quando sobejamente comprovado que a ação desconforme da Usina, em desalinho às normas de proteção ao meio ambiente assumidas, conduta ilícita portanto, foi o fato gerador do prejuízo demonstrado pelo interessado, se estabelece o imprescindível nexo causal justificador da imposição do dever de indenizar" (fls. 1.455/1.456 e-STJ).
+Nas razões do especial, o agravante alega, além de divergência jurisprudencial, violação dos arts. 1.022 do Código de Processo Civil de 2015, 927, parágrafo único, do Código Civil e 14, § 1º, da Lei nº 6.938/1981.
+Sustenta o recorrente que o acórdão estadual é omisso.
+A pretensão diz respeito à indenização por dano material proveniente da diminuição de pescado em razão da construção da Hidroelétrica Foz do Chapecó.
+ É o relatório.
+DECIDO.
+Observa-se que a natureza do pedido indicado na presente demanda, referente a danos materiais decorrentes da construção de usina hidroelétrica, se insere na competência das Turmas integrantes da Egrégia Primeira Seção, por se tratar de responsabilidade civil extracontratual do Estado.
+A propósito, confiram-se os seguintes precedentes: Aresp nºs 1.279.663/SC; 1.272.144/SC; 1.234.879/SC; 1.222.614/SC.
+Ante o exposto, determino a remessa dos autos à Coordenadoria de Classificação de Processos Recursais para a redistribuição do feito a uma das Turmas integrantes da Primeira Seção.
+Publique-se.
+Intimem-se.
