@@ -1,0 +1,30 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados, impede o conhecimento do recurso especial.
+2. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo conhecido. Recurso especial não conhecido.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por BARBARA IZABEL MARQUES VALLE GORANSSON, contra decisão que negou seguimento a recurso especial fundamentado, nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 06/03/2018.
+Concluso ao gabinete em: 20/06/2018.
+Ação: cobrança de seguro de vida ajuizada por BARBARA IZABEL MARQUES VALLE GORANSSON em face de ITAÚ SEGUROS S/A, por ter sido acometida por uma neoplasia maligna que culminou com sua incapacidade laboral definitiva.
+Sentença: julgou procedente o pedido proposto pela agravante, condenando o agravado ao pagamento de R$ 42.000,00 (quarenta e dois mil reais).
+Acórdão: deu provimento à apelação interposta pelo agravado, reformando a sentença, nos termos da seguinte ementa:
+CIVIL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. PRESCRIÇÃO. INOCORRÊNCIA. SEGURO DE VIDA EM GRUPO. COBERTURA. INVALIDEZ FUNCIONAL PERMANENTE E TOTAL POR DOENÇA. INCAPACIDADE FUNCIONAL NÃO CONFIGURADA. PAGAMENTO DA INDENIZAÇÃO INDEVIDO. RECURSO PROVIDO. 1. A seguradora não conseguiu comprovar que a segurada tinha plena ciência da sua condição incapacitante quando requereu a indenização administrativamente, não se podendo presumir a ciência da invalidez com base apenas nessa circunstância. Em verdade, o que se apresenta induvidoso nos autos é que somente após passar por uma junta médica do órgão previdenciário, a apelada teve conhecimento da incapacidade em continuar a exercer as atividades do seu cargo. Prejudicial de mérito da prescrição afastada. 2. Não é abusiva a cobertura securitária de ivalidez funcional permanente total por doença (IFPD) que garante o pagamento da indenização no caso de invalidez por doença que cause a perda da existência independente do segurado, ocorrida quando o quadro clínico incapacitante inviabilizar de forma irreversível o pleno exercício das relações autonômicas do segurado, conforme disposição do art. 17, da Circular SUSEP nº 302/2005. Precedentes do C STJ. 3. O reconhecimento por parte do órgão previdenciário de que a segurada tem direito de se aposentar por incapacidade laboral não a exonera de fazer a demonstração de que, efetivamente, também se encontra incapacitada totalmente para fins de percepção da indenização indicada no contrato de seguro. 4. Recurso provido. Sentença reformada (e-STJ fls. 193).
+Recurso especial: alega violação dos arts. 187, 422, 759 e 765 do CC/02; 6º, 47 e 51 do CDC, bem como dissídio jurisprudencial. Sustenta, em síntese, que ao não considerar o diagnóstico de neoplasia maligna grave aferida por perícia oficial, que constatou a incapacidade da agravante para as atividades laborais, a agravada violou a boa fé objetiva imposta aos contratantes ao limitar o pagamento do seguro somente nas hipóteses de incapacidade funcional. Assevera que "a Seguradora negou a indenização, com base em própria avaliação arbitrária sobre prognóstico da doença, calcada em cláusula ultra restritiva em contrato de adesão" (e-STJ fl. 212).
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 187, 422, 759 e 765 do CC/02; 6º, 47 e 51 do CDC, indicados como violados. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Da existência de fundamento não impugnado
+A agravante não impugnou o fundamento utilizado pelo TJ/ES, quanto ao argumento de que "a oferta do produto está em consonância às regras da SUSEP" (e-STJ fl. 200), razão pela qual deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, quanto aos riscos cobertos no contrato de seguro de vida estabelecido (e-STJ fls. 200) e a falta de ilegalidade ou abusividade do contrato (e-STJ fl. 200), exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, §1º do CPC/2015 e 255, § 1º, do RISTJ.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 964391/SP, 3ª Turma, DJe de 21/11/2016.
+Fortes nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% (dez por cento) sobre o valor da condenação (e-STJ fls. 144 e 201) para 12% ( doze por cento).
+Publique-se. Intimem-se.
