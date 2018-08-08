@@ -1,0 +1,19 @@
+DECISÃO
+LUCAS LOPES ZIMMERMANN COIMBRA e CESAR AUGUSTO ZIMMERMANN COIMBRA alegam sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro (Apelação n. 0038368-51.2015.8.19.0001).
+Afirma o impetrante que os pacientes foram condenados "pela suposta prática dos crimes previstos no artigo 2º, caput, e § 1º, §§ 2º e 4º, inciso II, da Lei nº 12.850/2013; e no artigo 158, § 1* do Código Penal; sendo LUCAS também pelo crime previsto no artigo 316 do Código Penal, todos os crimes em concurso material" (fl. 1).
+Nas razões deste mandamus, a defesa aponta ilegalidade quanto à "impossibilidade de uma pessoa acusada de integrar organização criminosa caput da Lei nº 12.850/2013), incidir, também, nas penas do crime de embaraço à investigação, previsto no mesmo 2º, § 1º, da Lei nº 12.850/2013".
+Nestas circunstâncias, sustenta ser inconstitucional o art. 2º, § 1º, do citado diploma legal e enfatiza que "a imputação conjunta a um mesmo indivíduo dos delitos de organização criminosa (art. 2º, caput, da Lei 12.850/13) e obstrução de investigação de organização criminosa (art. 2º, § 1º, da Lei 12.850/13) viola o princípio constitucional do ne bis in idem" (fl. 10).
+Por tais razões, a defesa requer, liminarmente, "seja determinada a suspensão, até o julgamento desse writ, dos efeitos da sentença e do acórdão que condenaram os pacientes nas penas do crime do art. § lº, da Lei 12.850/13" e, no mérito, a declaração de "inconstitucionalidade do art. 2º, § 1º, V da Lei 12.850/13" (fl. 24).
+Decido.
+Primeiramente, é imperioso salientar que o Superior Tribunal de Justiça, na esteira do que vem decidindo o Supremo Tribunal Federal - "prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do writ" (HC n. 320.306/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., Dje 11/10/2016) -, não admite que o remédio constitucional seja utilizado em substituição ao recurso próprio (apelação, recurso especial, recurso ordinário), tampouco à revisão criminal ou à medida cautelar, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus.
+No caso dos autos, em consulta ao endereço eletrônico do Tribunal de origem, verificou-se que foram opostos embargos declaratórios, em 26/7/2018, a evidenciar que ainda não foi esgotado o prazo para o oferecimento do recurso especial.
+Sob tal premissa, verifica-se o manejo da via adequada para a obtenção do intento defensivo ou, ao menos, de uma resposta jurisdicional do Tribunal de Justiça.
+Logo, qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado pela impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e no alargamento inconstitucional de sua competência para julgamento de habeas corpus.
+Ademais, cumpre salientar que esta Corte Superior firmou orientação no sentido de que o habeas corpus não é o meio adequado para a arguição de inconstitucionalidade de dispositivo legal, ainda que considerado em desarmonia com a Constituição Federal, devendo tal questão ser suscitada pela via processual adequada e perante o Supremo Tribunal Federal, nos termos do art. 102 da Carta Magna.
+Neste sentido:
+ ..
+1. O habeas corpus não é o meio adequado para a arguição de inconstitucionalidade de dispositivo legal, devendo tal questão ser dirimida pela via processual própria e perante o Tribunal competente, qual seja, o Supremo Tribunal Federal, nos termos do art. 102 da Constituição Federal. Precedentes.
+ ..
+4. Recurso ordinário em habeas corpus improvido. (RHC n. 38.402/MG, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 21/10/2013)
+À vista do exposto, nos termos do art. 210, do RISTJ, indefiro liminarmente este habeas corpus.
+Publique-se e intimem-se.
