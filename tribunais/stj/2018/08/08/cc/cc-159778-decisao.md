@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo de Direito da Vara de Nova Prata - RS, suscitante, e o Juízo Federal do Juizado Especial Cível da 2ª Unidade Avançada de Atendimento em Nova Prata SJ/RS, suscitado, em ação ajuizada por [NOME], com o objetivo de concessão de auxílio-doença ou aposentadoria por invalidez.
+O Juízo Federal declinou da competência e determinou a remessa dos autos à Justiça Estadual, ao fundamento de que "em 24/01/2018, a demandante distribuiu, perante este Juízo Federal, a ação ne 5000023-90.2018.4.04.7141 pretendendo a concessão de auxílio-doença, em razão da mesma patologia, a qual foi declinada a competência para a Justiça Estadual de Nova Prata, em M 3/03/2018, por ser decorrente de acidente do trabalho" (fl. 34).
+À sua vez, o Juízo Estadual suscitou o presente conflito, por entender que "o caso não retrata propriamente acidente de trabalho, mas doença que pode ou não ter relação com o trabalho, com atividades que não guardam relação com o exercício das atividades laborais, ou mesmo decorrentes do avanço etário (fl. 43).
+É o relatório.
+A questão trazida a apreciação desta Corte é a mesma que animou o Conflito de Competência n. 159.779/RS, em que ficou declarada a competência do Juízo Federal do Juizado Especial Cível da 2ª Unidade Avançada de Atendimento em Nova Prata SJ/RS, o suscitado de ambos os conflitos. Por essa razão, resta prejudicado a apreciação do presente conflito de competência, pelo que dele não conheço.
+Dê-se ciência aos Juízos envolvidos e ao Ministério Público Federal.
