@@ -1,0 +1,23 @@
+Vistos etc.
+    Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por Wilson Judice Maria Neto, representado neste ato pela Defensoria Pública do Estado do Rio de Janeiro, contra acórdão do Superior Tribunal de Justiça que negou provimento ao agravo regimental no HC 425.315/RJ.
+    O Recorrente foi condenado pelo Tribunal de Justiça do Estado do Rio de Janeiro, em ação penal originária, à pena de 1 (um) ano e 2 (dois) meses de reclusão, e à pena de 9 (nove) anos e 1 (um) mês de detenção, em regime inicial semiaberto, pela prática dos crimes de dispensa de licitação fora das hipóteses previstas em lei, de fraude à licitação e de associação criminosa (arts. 89 e 90 da Lei 8.666/1993 e 288 do Código Penal).
+    Submetida a questão à apreciação do Superior Tribunal de Justiça no HC 425.315/RJ, o Ministro Reynaldo Soares da Fonseca, via decisão monocrática, negou seguimento ao writ. Ato contínuo, interposto agravo regimental, não provido pela Corte Superior.
+    No presente recurso ordinário, sustenta a Defesa, em síntese, a ilegalidade da condenação, porquanto “narra fato absolutamente atípico”. Alega que “a simples emissão de parecer opinativo é ato impossível de aderir à determinado feito criminal”. Requer, em medida liminar, a suspensão da execução da pena. No mérito, pugna pelo trancamento da ação penal na origem.
+    É o relatório.
+    Decido.
+    Extraio do acórdão recorrido:
+    “PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. AÇÃO PENAL ORIGINÁRIA. PEDIDO DE TRANCAMENTO. AUSÊNCIA DE EXCEPCIONALIDADE. 2. FRAUDE À LICITAÇÃO. EMISSÃO DE PARECER. AUSÊNCIA DE DOLO. NÃO VERIFICAÇÃO. PROPÓSITO DELITIVO DEMONSTRADO. 3. EXISTÊNCIA DE QUADRILHA. ATUAÇÃO PREORDENADA. DIVISÃO DE TAREFAS. CONVALIDAÇÃO DAS ILEGALIDADES POR MEIO DE PARECER. 4. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. CONTRADITÓRIO E AMPLA DEFESA ASSEGURADOS. IMPOSSIBILIDADE DE REVOLVIMENTO NA VIA ELEITA. 5. AGRAVO REGIMENTAL IMPROVIDO.
+    1. O trancamento da ação penal somente é possível na via estreita do habeas corpus em caráter excepcional, quando se comprovar, de plano, a inépcia da denúncia, a atipicidade da conduta, a incidência de causa de extinção da punibilidade ou a ausência de indícios de autoria ou de prova da materialidade do delito.
+    2. Como é cediço, "a imputada colaboração em crime de fraude a licitações pela emissão de pareceres exige fundada indicação de preorientada atuação com desvio de finalidade, para que que não se persiga o procurador municipal pela atuação funcional - de conteúdo sempre livre" (HC 85.724/MG, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 09/06/2015, DJe 18/06/2015).
+    3. Pela leitura da denúncia e da sentença em sua integralidade, que há elementos nos autos que denotam o conluio existente entre os condenados, a revelar que os pareceres não se tratavam de mera atuação profissional, mas de verdadeira omissão orientada para a convalidação das ilegalidades perpetradas. Com efeito, as circunstâncias dos autos, relativas ao ardil do falso estado de emergência do município, da ficta especialização da empresa adjudicada em serviços de iluminação e da inverídica insuficiência de mercado concorrencial, além do fato de toda a documentação relativa à contratação, inclusive o próprio contrato, possuir data anterior à formalização dos procedimentos, revelam o propósito delitivo, vinculando, assim, subjetivamente, o paciente.
+    4. Não se pode descurar que as alegações de inépcia e de ausência de justa causa ficam enfraquecidas, uma vez que a prolação de sentença denota a aptidão da inicial acusatória para inaugurar a ação penal, implementando-se a ampla defesa e o contraditório durante a instrução processual, que culmina na condenação lastreada no arcabouço probatório dos autos. Portanto, não se pode falar em ausência de aptidão da denúncia nos casos em que os elementos carreados aos autos autorizam a prolação de sentença.
+    5. Agravo regimental a que se nega provimento.”
+    Ressalto que, para fins de apreciação do pedido de medida liminar, é necessário avaliar se o acórdão atacado teve o condão de caracterizar patente constrangimento ilegal.
+    Ao exame dos autos, verifico que o acórdão proferido pela Corte Superior se encontra fundamentado, apontando as razões de seu convencimento para rechaçar a tese defensiva.
+    Em análise de cognição sumária, não detecto a presença dos pressupostos autorizadores da concessão da medida liminar com a imediata suspensão da execução da pena.
+    Ante o exposto, indefiro o pedido de liminar.
+    Ao Ministério Público Federal para manifestação.
+    Publique-se.
+    Brasília, 08 de agosto de 2018.
+Ministra Rosa Weber
+Relatora
