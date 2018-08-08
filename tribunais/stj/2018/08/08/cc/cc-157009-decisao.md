@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de conflito de competência suscitado por Costeira Transportes e Serviços Eireli - em recuperação judicial, com pedido de liminar, em face do Juízo de Direito da 5ª Vara Cível de Guarulhos/SP e do Juízo da 2ª Vara do Trabalho de Jaboatão dos Guararapes/PE.
+Afirma a suscitante que o Juízo da 2ª Vara do Trabalho de Jaboatão dos Guararapes/PE, nos autos de reclamação trabalhista determinou o bloqueio de valores pertencentes à suscitante, o que foi efetivado, sem que, contudo, atentasse ao fato de que a empresa teve seu pedido de recuperação judicial deferido, em 30.6.2017, pelo Juízo de Direito da 5ª Vara Cível de Guarulhos/SP.
+Sustenta, pois, que, com o deferimento do pedido de processamento da recuperação judicial, o Juízo de Direito da 5ª Vara Cível de Guarulhos/SP tornou-se competente para o processamento de todas as ações de interesse da empresa, conforme disposto na Lei n. 11.101/05 e já decidido em diversas ocasiões por esta Corte.
+Liminar deferida às fls. 62/66, informações dos Juízos suscitados às fls. 77/81 e 84/85. Parecer do Ministério Publico Federal às fls. 87/89 opinando pelo não conhecimento do conflito, em razão do reconhecimento, pelo Juízo do Trabalho, da competência do Juízo da recuperação judicial.
+Eis os fundamentos pelos quais deferi a liminar:
+Assim postos os fatos, verifico que a questão discutida nos autos já foi, reiteradamente, decidida por esta Corte que entendeu que, "com a edição da Lei 11.101/05, respeitadas as especificidades da falência e da recuperação judicial, é competente o juízo universal para prosseguimento dos atos de execução, tais como alienação de ativos e pagamento de credores, que envolvam créditos apurados em outros órgãos judiciais (..)", (CC 110941/SP, Rel. Ministra NANCY ANDRIGHI, Segunda Seção, DJe 1º/10/2010).
+Tal entendimento tem como finalidade dar efetividade aos princípios norteadores do instituto da recuperação judicial, notadamente ao disposto no art. 47 da Lei nº 11.101/05, segundo o qual "a recuperação judicial tem por objetivo viabilizar a superação da situação de crise econômico-financeira do devedor, a fim de permitir a manutenção da fonte produtora, do emprego dos trabalhadores e dos interesses dos credores, promovendo, assim, a preservação da empresa, sua função social e o estímulo à atividade econômica".
+Desse modo, são, pois, incompatíveis com a recuperação judicial os atos de execução proferidos por outros órgãos judiciais de forma simultânea com o curso da recuperação ou da falência da empresa devedora.
+Nesse sentido são, dentre outros, os seguintes acórdãos:
+AGRAVO INTERNO NO CONFLITO POSITIVO DE COMPETÊNCIA SUSCITADO POR EMPRESA EM RECUPERAÇÃO JUDICIAL EM FACE DE JUÍZO DO TRABALHO. COMPETÊNCIA DO JUÍZO FALIMENTAR.
+1. A execução individual trabalhista e a recuperação judicial apresentam nítida incompatibilidade concreta, porque uma não pode ser executada sem prejuízo da outra.
+2. O Juízo universal é o competente para julgar as causas em que estejam envolvidos interesses e bens da empresa recuperanda, inclusive para o prosseguimento dos atos de execução, ainda que o crédito seja anterior ao deferimento da recuperação judicial, devendo, portanto, se submeter ao plano, sob pena de inviabilizar a recuperação. Precedentes do STJ.
+3. Competência do Juízo de Direito da 1.ª Vara Cível de Santa Helena de Goiás/GO, para o prosseguimentos de execuções trabalhistas.
+4. Agravo interno desprovido.
+(AgInt no CC 148.536/GO, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 08/03/2017, DJe 15/03/2017)
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO TRABALHISTA. PROSSEGUIMENTO. ATOS DE CONSTRIÇÃO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
+1. O tema não é novo nesta Corte, que já firmou entendimento no sentido de que, após o deferimento da recuperação judicial, é do Juízo de falências e recuperação judicial a competência para o prosseguimento dos atos de execução relacionados a reclamações trabalhistas movidas contra a empresa.
+2. Nesses casos, a competência da Justiça do Trabalho se limita à apuração do respectivo crédito (processo de conhecimento), sendo vedada a prática, pelo citado Juízo, de qualquer ato que comprometa o patrimônio da empresa em recuperação (procedimento de execução).
+3. Agravo interno não provido.
+(AgInt no CC 144.592/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 26/10/2016, DJe 03/11/2016)
+CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÕES TRABALHISTAS. ATRATIVIDADE. LEI N. 11.101/05. INTERPRETAÇÃO SISTEMÁTICO-TELEOLÓGICA DOS SEUS DISPOSITIVOS. MANUTENÇÃO DA ATIVIDADE ECONÔMICA.
+A manutenção de execuções trabalhistas individuais, aplicando-se isoladamente o disposto no art. 6º, §5º, da LF n. 11.101/05, afrontaria os princípios reitores da recuperação judicial.
+Prevalência do princípio da preservação da empresa (art 47). Competência do juízo universal.
+..
+(CC 111074/DF, rel. Ministro PAULO DE TARSO SANSEVERINO, Segunda Seção, DJe de 04/10/2010)
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. AGRAVO REGIMENTAL. JUÍZO DE DIREITO E JUÍZO DO TRABALHO. RECUPERAÇÃO JUDICIAL. RECLAMAÇÃO TRABALHISTA. ATOS DE EXECUÇÃO. MONTANTE APURADO. SUJEIÇÃO AO JUÍZO RECUPERAÇÃO JUDICIAL. ART. 6º, § 4º, DA LEI N. 11.101/05. RETOMADA DAS EXECUÇÕES INDIVIDUAIS. AUSÊNCIA DE RAZOABILIDADE. COMPETÊNCIA DA JUSTIÇA ESTADUAL. DECISÃO AGRAVADA MANTIDA.
+1. Com a edição da Lei n. 11.101, de 2005, respeitadas as especificidades da falência e da recuperação judicial, é competente o respectivo Juízo para prosseguimento dos atos de execução, tais como alienação de ativos e pagamento de credores, que envolvam créditos apurados em outros órgãos judiciais, inclusive trabalhistas, ainda que tenha ocorrido a constrição de bens do devedor.
+2. Se, de um lado, há de se respeitar a exclusiva competência da Justiça laboral para solucionar questões atinentes à relação do trabalho (art. 114 da CF); por outro, não se pode perder de vista que, após a apuração do montante devido ao reclamante, processar-se-á no juízo da recuperação judicial a correspondente habilitação, ex vi dos princípios e normas legais que regem o plano de reorganização da empresa recuperanda.
+3. A Segunda Seção do STJ tem entendimento jurisprudencial firmado no sentido de que, no estágio de recuperação judicial, não é razoável a retomada das execuções individuais após o simples decurso do prazo legal de 180 dias de que trata o art. 6º, § 4º, da Lei n. 11.101/05.
+4. Decisão agravada mantida por seus próprios fundamentos.
+5. Agravo regimental desprovido.
+(AgRg no CC 110287/SP, rel. Ministro JOÃO OTÁVIO DE NORONHA, Segunda Seção, DJe de 29/03/2010)
+No presente caso, está comprovado que a empresa suscitante, teve seu pedido de recuperação judicial deferido pelo Juízo de Direito da 5ª Vara Cível de Guarulhos/SP (fl. 36), e que o Juízo da 2ª Vara do Trabalho de Jaboatão dos Guararapes/PE determinou o prosseguimento da execução trabalhista referida nos autos, inclusive com a constrição de valores pertencentes à suscitante via Bancenjud (fls.21/31).
+O Juízo da 2ª Vara do Trabalho de Jaboatão dos Guararapes/PE manifestou-se informando ter reconsiderado seu entendimento, determinado a transferência do valor bloqueado para o Juízo da recuperação judicial, a quem caberá decidir sobre o seu destino, em vista da sua competência para tanto, demonstrando, assim, ter ocorrido a perda superveniente de objeto do incidente.
+Em face do exposto, revogo a liminar deferida e não conheço do conflito em razão da sua perda de objeto.
+Intimem-se.
