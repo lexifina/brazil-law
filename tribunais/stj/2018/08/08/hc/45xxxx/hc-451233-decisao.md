@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME] contra acórdão do Tribunal de Justiça do Estado do Espírito Santo.
+Consta dos autos que o Juízo da 2ª Vara Criminal de Viana/ES reconheceu falta grave cometida pelo ora paciente.
+Irresignada, a defesa interpôs agravo em execução junto ao TJES, o qual negou provimento ao recurso em decisão assim ementada (e-STJ fl. 17):
+AGRAVO EM EXECUÇÃO PENAL - CRIME DE DANO - FALTA GRAVE CARACTERIZADA E RECONHECIDA EM DECISÃO FUNDAMENTADA - NECESSIDADE - RECURSO IMPROVIDO. Comprovadas a autoria e a materialidade do ato caracterizador de falta grave, essa deve ser reconhecida judicialmente. No caso em tela, a falta grave restou devidamente comprovada, tanto a materialidade quanto a autoria, incluindo a cópia das declarações do reeducando.
+Recurso Improvido.
+Na presente impetração, alega a Defensoria Pública que tal decisão impõe constrangimento ilegal ao paciente, uma vez que reconhece como falta grave uma conduta apontada como "dano ao patrimônio público", sem que restasse configurado o dolo específico imprescindível para a tipificação da conduta.
+Argumenta que, "ao contrário do que afirmam a sentença e o acórdão impugnados, o crime de dano não restou configurado, porque ausente o dolo específico de causar prejuízo ao patrimônio estatal, imprescindível para a tipificação da conduta no artigo 163 do Código Penal".
+Sustenta que, "apesar de ter havido a destruição de coisa alheia, essa se deu de maneira acidental, após o paciente descontar sua raiva em objeto que se encontrava a sua frente, quando do recebimento de notícia dada por sua advogada, de modo que a ausência de anitnus nocendi evidencia a atipicidade da sua conduta".
+Requer, assim, a concessão da ordem, para cassar a decisão do Tribunal a quo e absolver o paciente do crime de dano que ensejou o reconhecimento da falta grave.
+Prestadas as informações solicitadas (e-STJ fls. 33/60), opinou o Ministério Público Federal pelo não conhecimento do writ (e-STJ fls. 63/67).
+É o relatório. Decido.
+Acompanhando a orientação da Primeira Turma do Supremo Tribunal Federal, a jurisprudência desta Corte Superior firmou-se no sentido de que o habeas corpus não pode ser utilizado como substituto de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+Nesse sentido, encontram-se, por exemplo, estes julgados: HC 313.318/RS, Quinta Turma, Rel. Min. Felix Fischer, julgamento em 7/5/2015, DJ de 21/5/2015; HC 321.436/SP, Sexta Turma, Rel. Min. Maria Thereza de Assis Moura, julgado em 19/5/2015, DJ de 27/5/2015.
+Assim, de início, incabível o presente habeas corpus substitutivo de recurso especial. Todavia, em homenagem ao princípio da ampla defesa, passa-se ao exame da insurgência, para verificar a existência de eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+No presente mandamus, a Defensoria Pública do Estado do Espírito Santo sustenta a ocorrência de constrangimento ilegal no reconhecimento da falta grave consistente no crime de dano, por ausência do animus nocendi.
+Da leitura do acórdão impugnado, observa-se que o tema apresentado na presente impetração - necessidade de dolo específico para configurar a falta grave no curso da execução penal - não foi objeto de debate na Corte de origem, o que impede esta Corte Superior de conhecer da insurgência, sob pena de indevida supressão de instância.
+A propósito, confira-se o seguinte julgado desta Corte Superior:
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. DUPLA TENTATIVA DE HOMICÍDIO QUALIFICADO. NULIDADES NO INQUÉRITO POLICIAL. SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO. DECRETO PRISIONAL FUNDAMENTADO. GRAVIDADE CONCRETA DA CONDUTA. PERICULOSIDADE DO AGENTE. RECURSO ORDINÁRIO CONHECIDO EM PARTE E DESPROVIDO.
+I - A tese recursal relativa à eventuais nulidades ocorridas no inquérito policial sequer foi analisada pelo eg. Tribunal a quo, ao fundamento de que não foram apresentados documentos comprobatórios do alegado, razão pela qual o mandamus impetrado na eg. Corte de origem foi parcialmente conhecido.
+II - Assim sendo, fica impedida esta eg. Corte de analisar a quaestio ventilada no recurso, sob pena de indevida supressão de instância, já que o eg. Tribunal a quo não se manifestou acerca das alegadas nulidades.
+ ..  Recurso ordinário conhecido em parte e, nesta parte, desprovido. (RHC 45.246/RS, Rel. Min. FELIX FISCHER, Quinta Turma, julgado em 2/10/2014, DJe 13/10/2014).
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. NULIDADE. CERCEAMENTO DE DEFESA E DEFICIÊNCIA DE DEFESA TÉCNICA. MATÉRIAS NÃO EXAMINADAS PELO TRIBUNAL DE ORIGEM. INDEVIDA SUPRESSÃO DE INSTÂNCIA. PREJUÍZO NÃO DEMONSTRADO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Conforme entendimento deste Superior Tribunal de Justiça, o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte.
+3. As teses de nulidade da ação por ausência de notificação do paciente para apresentar defesa prévia, bem como por deficiência na defesa técnica, não foram objeto de julgamento pela Corte de origem, o que impede seu conhecimento por este Tribunal, sob pena de indevida supressão de instância. Precedentes.
+4. "A alegação de deficiência da defesa deve vir acompanhada de prova de inércia ou desídia do defensor, causadora de prejuízo concreto à regular defesa do réu" (RHC 39.788/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 25/2/2015), o que não se verifica no caso em exame.
+5. Writ não conhecido. (HC 287.808/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 18/05/2017, DJe 25/05/2017).
+Ante o exposto, nego seguimento ao presente habeas corpus.
+
+Publique-se. Intime-se.
