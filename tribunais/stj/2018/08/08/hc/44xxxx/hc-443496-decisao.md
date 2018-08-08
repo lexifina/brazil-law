@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de [NOME], contra acórdão do Tribunal de Justiça do Estado do Paraná (HC n. 0004897-26.2018.8.16.0000).
+Extrai-se dos autos que o paciente foi preso em flagrante em 1º/10/2015 por ter supostamente praticado os delitos tipificados nos arts. 14, 16, caput e 16, parágrafo único, inciso IV, todos da Lei n. 10.826/2003 (porte ilegal de arma de fogo de uso permitido; posse ilegal de arma de fogo de uso restrito e porte de arma de fogo com numeração suprimida); art. 157, § 2º, incisos I, II e III (por três vezes), na forma do art. 70 (três roubos circunstanciados em concurso formal impróprio de crimes); art. 311 (adulteração de sinal identificador de veículo automotor) e art. 288, parágrafo único (associação criminosa armada), na forma dos arts. 29 e 69 (concurso de agentes e concurso material de crimes), todos do Código Penal. Referida custódia foi convertida em preventiva (fls. 42/46).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+HABEAS CORPUS - CRIMES DE ROUBO CIRCUNSTANCIADO, ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR, PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO, POSSE DE ARMA DE FOGO DE USO RESTRITO E ASSOCIAÇÃO CRIMINOSA - EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA - INOCORRÊNCIA - COMPLEXIDADE DA CAUSA - AUSÊNCIA DE DESÍDIA DO MAGISTRADO - CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO - ORDEM DENEGADA (fl. 30).
+No presente mandamus, a impetrante repisa a alegação de excesso de prazo para formação da culpa, porquanto a custódia cautelar perdura por mais de 2 anos e 6 meses sem que a instrução tenha sido concluída.
+Aduz que a complexidade do processo e a pluralidade de réus não justificam a demora processual. Assevera que o prazo máximo legal de 60 dias para o encerramento da instrução foi demasiadamente extrapolado.
+Invoca os princípios da dignidade, da humanidade, da celeridade e da razoável duração do processo. Sustenta a suficiência da aplicação de medidas cautelares alternativas, nos termos do art. 319 do Código de Processo Penal.
+Pugna, assim, em liminar e no mérito, pela expedição de alvará de soltura.
+Liminar indeferida (fls. 52/54). Informações prestadas (fls. 59/62 e 66/182). O Ministério Público Federal opinou pela denegação do habeas corpus (fls. 184/185).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+Conforme relatado, busca-se, no presente mandamus, a revogação da prisão preventiva imposta ao paciente sob a alegação de excesso de prazo no encerramento da instrução processual.
+Dos informes prestados pelas instâncias ordinárias, verifica-se que o processo teve trâmite regular, não havendo falar em inércia do Poder Judiciário. O maior prazo para o julgamento da ação penal decorre das peculiaridades do feito, notadamente em razão da pluralidade de réus e da necessidade de expedição de cartas precatórias para oitiva das testemunhas, bem como para interrogatório de corréus.
+Ademais, nos termos de novas informações ofertadas pelo magistrado de piso, que ora faço juntar aos autos, extrai-se que, em 15/6/2018, o feito passou à fase de alegações finais, tendo sido encerrada a instrução processual, o que atrai ao caso a incidência da Súmula 52 deste Superior Tribunal de Justiça, in verbis:
+Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo.
+No mesmo sentido:
+RECURSO EM HABEAS CORPUS. ROUBO QUALIFICADO. ASSOCIAÇÃO CRIMINOSA. EXCESSO DE PRAZO PARA ENCERRAMENTO DA INSTRUÇÃO. NÃO OCORRÊNCIA. RECURSO NÃO PROVIDO.
+1. É entendimento consolidado nos tribunais que os prazos indicados na legislação processual penal para a conclusão dos atos processuais não são peremptórios; assim, eventual demora no término da instrução criminal deve ser aferida levando-se em conta as peculiaridades do caso concreto.
+2. Fica afastada a alegação de excesso de prazo porque se trata de feito complexo, com quatorze réus, alguns dos quais foram citados por carta precatória, além de haver diversidade de advogados.
+3. O Juízo de primeiro grau dirigiu o andamento do processo com a diligência necessária, a evidenciar a busca de celeridade na tramitação, tanto que o feito está em fase de alegações finais, o que, inclusive, atrai a incidência da Súmula n. 52 do STJ: "encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo".
+4. Recurso não provido (RHC 92.350/PA, Relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 29/05/2018).
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. ROUBO MAJORADO. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO PRISIONAL. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. HABITUALIDADE NA PRÁTICA DE DELITOS. RISCO DE REITERAÇÃO DELITIVA. EXCESSO DE PRAZO. ALEGAÇÕES FINAIS. SÚMULA 52/STJ. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+V - Conforme informação prestada pelo d. Juízo de origem, verifica-se que a instrução já foi encerrada e a ação penal encontra-se em fase de alegações finais, razão pela qual fica superada a alegação de excesso de prazo para a formação da culpa, nos termos do enunciado n. 52 da Súmula deste Tribunal (precedentes).
+VI - Por fim, a presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese. Pela mesma razão, não há se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+Habeas corpus não conhecido (HC 408.669/BA, Relator Ministro FELIX FISCHER, QUINTA TURMA, DJe 17/10/2017).
+Ante o exposto, nos termos do art. 34, XVIII, "a", do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intime-se.
