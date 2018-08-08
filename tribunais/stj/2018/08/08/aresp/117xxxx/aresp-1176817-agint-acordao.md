@@ -1,0 +1,32 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREPARO. NÃO COMPROVAÇÃO. GUIA DE RECOLHIMENTO. COMPROVANTE DE PAGAMENTO. DIVERGÊNCIA. DESERÇÃO.
+1. "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 da março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado n. 2 do Pleno do STJ, sessão de 09/03/2016).
+2. "Nos recursos tempestivos interpostos com fundamento do CPC/1973 (relativos a decisões publicadas até 17 de março de 2016), não caberá a abertura de prazo prevista no art. 932, parágrafo único, c/c o art. 1.029, § 3º, do novo CPC" (Enunciado Administrativo n. 5).
+3. À luz do art. 511 do CPC/1973, esta Corte Superior firmou o entendimento de que a divergência existente entre o código de barras da guia de recolhimento das custas e o do comprovante de pagamento implica a não comprovação oportuna do preparo e, por conseguinte, o reconhecimento da deserção do recurso, sendo inviável sanar essa deficiência posteriormente, em face da preclusão consumativa.
+4. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça , por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno manejado por COMPANHIA DO METROPOLITANO DE SÃO PAULO METRÔ que desafia decisão de lavra da Presidência do STJ, proferida às e-STJ fls. 562/563, que reconheceu a deserção do recurso especial.
+Em suas razões, a agravante afirma que, por equívoco, houve a troca do recibo de pagamento da guia deste recurso especial com aquele interposto nos autos da apelação de n. 0128298-07.2007.8.26.0053/50000, conforme documento juntado nesta oportunidade.
+Acrescenta que "a troca tão somente da guia não conduz na falta de recolhimento ensejador da deserção do recurso, tendo em vista estar demonstrado o pagamento das custas de preparo no prazo determinado pela legislação em vigor, bem como a inexistência de qualquer prejuízo ou lesão quer jurídica, financeira ou patrimonial" (e-STJ fl. 567/568).
+Requer, ao final, a reconsideração da decisão agravada ou, caso isso não seja concedido, a submissão do feito a julgamento do Órgão colegiado.
+Decorrido o prazo sem impugnação (e-STJ fls. 575).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Inicialmente, cumpre registrar que o Plenário do STJ, na sessão de 09/03/2016, assentou que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 da março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado n. 2).
+Ademais, considerando que o recurso especial em análise foi interposto em 18/03/2014 (e-STJ fl. 486), deve ser aplicado, na espécie, o Enunciado Administrativo n. 5 do Plenário do STJ, segundo o qual "nos recursos tempestivos interpostos com fundamento do CPC/1973 (relativos a decisões publicadas até 17 de março de 2016), não caberá a abertura de prazo prevista no art. 932, parágrafo único, c/c o art. 1.029, § 3º, do novo CPC".
+Dito isso, a decisão recorrida não merece reparos.
+Com efeito, o Superior Tribunal de Justiça, à luz do disposto no art. 511 do CPC/1973, firmou o entendimento de que a divergência existente entre o código de barras da guia de recolhimento das custas e o do comprovante de pagamento implica a não comprovação oportuna do preparo e, por conseguinte, o reconhecimento da deserção do recurso, sendo inviável sanar essa deficiência posteriormente, em face da preclusão consumativa.
+A propósito, confiram-se os seguintes precedentes:
+TRIBUTÁRIO. PROCESSUAL CIVIL. RECURSO ESPECIAL FUNDADO NO CPC/73. GUIA DE RECOLHIMENTO E COMPROVANTE DE PAGAMENTO. CÓDIGOS DE BARRAS. NÚMEROS DIVERGENTES. PREPARO. NÃO COMPROVAÇÃO.
+1. Nos termos da jurisprudência pacífica desta Corte, considera-se deserto o recurso especial interposto quando não há correspondência entre o número do código de barras da guia de recolhimento das custas e o comprovante de pagamento bancário, não se podendo sanar posteriormente referida irregularidade no preparo recursal em razão da preclusão consumativa. Precedentes.
+2. Agravo interno a que se nega provimento. (AgInt nos EDcl no REsp 1.575.093/PR, Relator Ministro SÉRGIO KUKINA, Primeira Turma, DJe 03/08/2017).
+PROCESSUAL CIVIL. ADMINISTRATIVO. DESAPROPRIAÇÃO POR UTILIDADE PÚBLICA. AUSÊNCIA DE CÓDIGO DE BARRAS NO COMPROVANTE DE PAGAMENTO. REGULARIZAÇÃO POSTERIOR. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. SÚMULA N. 187/STJ. DESERÇÃO. PRECEDENTES. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+I - Ainda que o presente julgamento ocorra quando já em vigor o Código de Processo Civil de 2015, como o acórdão sobre o qual foi interposto o recurso especial foi publicado sob a égide da legislação processual civil anterior, quanto ao cabimento, aos demais pressupostos de admissibilidade e ao processamento do recurso, aplicam-se as regras do Código de Processo Civil de 1973, diante do fenômeno da ultratividade e do enunciado administrativo n. 2 do Superior Tribunal de Justiça.
+II - A jurisprudência do STJ, firmada sob a vigência do CPC/73, é pacífica no sentido de que "a falta de correspondência entre o número do código de barras da guia de recolhimento e o comprovante bancário demonstra irregularidade no preparo do recurso especial, tornando-o, portanto, deserto". (EDcl no AREsp 181.119/RS, 4ª Turma, Rel. Min. Maria Isabel Gallotti, DJe de 25/2/2013). Precedentes: AgInt no REsp 1.535.206/GO, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 15/8/2017, DJe 30/8/2017; AgInt nos EDcl no REsp 1.575.093/PR, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 27/6/2017, DJe 3/8/2017 e AgInt no AREsp 985.632/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 7/3/2017, DJe 13/3/2017.
+III - Agravo interno improvido. (AgInt no AREsp 1.118.583/GO, Relator Ministro FRANCISCO FALCÃO, Segunda Turma, DJe 26/02/2018).
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
