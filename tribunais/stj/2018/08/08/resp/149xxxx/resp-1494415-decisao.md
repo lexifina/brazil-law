@@ -1,0 +1,32 @@
+DECISÃO
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. APOSENTADORIA POR TEMPO DE SERVIÇO/CONTRIBUIÇÃO. REVISÃO DE RENDA MENSAL INICIAL. ABONO DE PERMANÊNCIA. RECÁLCULO. RETROAÇÃO À ÉPOCA DA CONCESSÃO DO ABONO DE PERMANÊNCIA EM SERVIÇO. ACÓRDÃO RECORRIDO EM CONFRONTO COM A JURISPRUDÊNCIA DESTA CORTE. RECURSO ESPECIAL DO SEGURADO PROVIDO.
+1. Trata-se de Recurso Especial interposto com fundamento na alínea a do art. 105, III da Constituição Federal, no qual se insurge contra acórdão do Tribunal Regional Federal da 2a. Região, assim ementado:
+DIREITO PREVIDENCIÁRIO. AGRAVO INTERNO. ABONO DE PERMANÊNCIA EM SERVIÇO. EQUIVALÊNCIA SALARIAL. APOSENTADORIA.
+O critério de equivalência salarial como fato de atualização dos benefícios previdenciários teve aplicação restrita ao período em que vigorou o art. 58 do ADCT.
+Não existe direito à equivalência entre os valores recebidos a título de abono de permanência em serviço e a renda mensal inicial de aposentadoria, por expressa vedação legal.
+Agravo Interno desprovido.
+2. Em seu apelo especial inadmitido, sustenta o recorrente violação dos arts. 5o., XXXVI da CF; 21, II e § 4o., 23, II e III e § 1o. e 33 do Decreto 89.312/84 e 36, parágrafo único, 40, II e 41, IV, b do Decreto 83.080/79, requerendo que sua aposentadoria seja recalculada segundo as regras vigentes ao tempo em que reuniu as condições para se aposentar, ou seja, a mesma base de cálculo para a concessão do abono.
+3. É o relatório. Decido.
+4. O acórdão recorrido destoa da jurisprudência desta Corte que garante ao Segurado o direito de ter a renda mensal inicial de sua aposentadoria efetuada com base na legislação vigente à época em que preenchidos os requisitos para jubilação, não importando em renúncia a esse direito o fato de o segurado ter permanecido em atividade e recebido abono de permanência.
+5. A propósito, os seguintes julgados:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. SÚMULA 211/STJ. INCIDÊNCIA. CÁLCULO DA RENDA MENSAL INICIAL. LEGISLAÇÃO VIGENTE À ÉPOCA EM QUE PREENCHIDOS OS REQUISITO PARA A OBTENÇÃO DO BENEFÍCIO. ENTENDIMENTO PACIFICADO.
+I - A Súmula n. 211 deste Superior Tribunal de Justiça enuncia ser inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo, de modo que inviável a análise de matéria não tratada no acórdão recorrido.
+II - Não se deve confundir a data de início do pagamento com a data do cálculo da renda mensal inicial dos proventos da aposentadoria, sendo que esta, segundo entendimento desta Corte e do STF, deve ser calculada com base na legislação vigente na época em que preenchidos os requisitos aptos ao jubilamento, não importando em renúncia a esse direito o fato de o segurado ter permanecido em atividade e recebido abono de permanência. (AgRg no REsp 1282407/RS, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 14/11/2012).
+III - Embargos de divergência acolhidos, para negar provimento ao recurso especial interposto pelo INSS, restabelecendo-se os termos da sentença singular e do acórdão proferido pelo Tribunal de origem (EREsp. 1.142.553/RJ, Rel. Min. NEFI CORDEIRO, DJe 5.3.2015).
+
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. REPERCUSSÃO GERAL RECONHECIDA PELO STF. DIREITO ADQUIRIDO AO MELHOR BENEFÍCIO.
+1. No julgamento do RE n. 630.501/RS, julgado sob o regime de repercussão geral firmou-se a tese do "direito adquirido ao melhor benefício, assegurando-se a possibilidade de os segurados verem seus benefícios deferidos ou revisados, de modo que correspondam à maior renda mensal inicial possível, no cotejo entre aquela obtida e as rendas mensais que estariam percebendo na mesma data, caso tivessem requerido o benefício em algum momento anterior".
+2. Agravo regimental não provido (AgRg no REsp. 1.135.788/SP, Rel. Min. ROGERIO SCHIETTI CRUZ, DJe 24.11.2014).
+
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. SOBRESTAMENTO DO FEITO. REPERCUSSÃO GERAL NO STF. DESNECESSIDADE. DECADÊNCIA. ART. 103 DA LEI Nº 8.213/91. INAPLICABILIDADE. DESAPOSENTAÇÃO. MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE NA VIA ELEITA. APOSENTADORIA. RMI. REGRAS VIGENTES QUANDO DA REUNIÃO DOS REQUISITOS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+1. Esta Corte não está adstrita ao julgamento do Excelso Pretório, por força do art. 543-B da lei processual civil, não possuindo os julgados daquela Corte efeito vinculante para com os desta.
+2. De acordo com inúmeros precedentes desta Corte, o prazo decadencial previsto no art. 103 da Lei 8.213/91, a partir da MP 1.523/97, que resultou na Lei 9.528/97, não atinge as relações jurídicas constituídas anteriormente.
+3. A via especial não se presta à análise de dispositivos constitucionais, sob pena de usurpação da competência do Pretório Excelso
+4. Não se deve confundir a data de início do pagamento com a data do cálculo da renda mensal inicial dos proventos da aposentadoria, sendo que esta, segundo entendimento desta Corte e do STF, deve ser calculada com base na legislação vigente na época em que preenchidos os requisitos aptos ao jubilamento, não importando em renúncia a esse direito o fato de o segurado ter permanecido em atividade e recebido abono de permanência.
+5. Não há que se falar em retroação da data de início do benefício, mas, sim, de cálculo da renda mensal inicial de acordo com as regras vigentes quando implementados os requisitos para obtenção do benefício.
+6. Agravo regimental ao qual se nega provimento (AgRg no REsp. 1.282.407/RS, Rel. Min. MARIA THEREZA DE ASSIS MOURA, DJe 14.11.2012).
+7. Tal orientação, foi confirmada pelo Supremo Tribunal Federal, em sede de repercussão geral,nos autos do Recurso Extraordinário 630.501, nos termos da seguinte ementa:
+APOSENTADORIA - PROVENTOS - CÁLCULO. Cumpre observar o quadro mais favorável ao beneficiário, pouco importando o decesso remuneratório ocorrido em data posterior ao implemento das condições legais. Considerações sobre o instituto do direito adquirido, na voz abalizada da relatora - ministra Ellen Gracie -, subscritas pela maioria. (RE 630.501, Relator(a): Min. ELLEN GRACIE, Rel. p/Acórdão: Min. MARCO AURÉLIO, DJe 26.8.2013).
+8. Diante do exposto, dá-se provimento ao Recurso Especial, reconhecendo o direito ao recálculo da RMI de aposentadoria com base na legislação vigente na data de concessão do abono de permanência. Invertidos os ônus sucumbenciais.
+9. Publique-se.
+10. Intimações necessárias.
