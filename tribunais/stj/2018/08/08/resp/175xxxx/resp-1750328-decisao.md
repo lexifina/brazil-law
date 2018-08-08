@@ -1,0 +1,42 @@
+EMENTA
+RECURSO ESPECIAL. PENAL. ROUBO SIMPLES. DISSÍDIO JURISPRUDENCIAL E VIOLAÇÃO DOS ARTS. 33, § 2º, B, E § 3º; E 65, III, D, AMBOS DO CP. PLEITOS DE RECONHECIMENTO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA E DE COMPENSAÇÃO COM A AGRAVANTE DA REINCIDÊNCIA; DE AFASTAMENTO DE ALUDIDO EXCESSO DE EXASPERAÇÃO NA SEGUNDA FASE DA DOSIMETRIA; E DE ABRANDAMENTO DO REGIME PRISIONAL. QUESTÕES PREJUDICADAS. DECISÃO PROFERIDA NO HC N. 426.225/SP.
+Recurso especial não conhecido.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento nas alíneas a e c do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça de São Paulo na Apelação Criminal n. 0000710-74.2016.8.26.0320 (fls. 229/239).
+Roubo simples - Uso de algemas - Decisão justificada durante a audiência de instrução - Ausência de impugnação da Defesa - Observância da Súmula Vinculante nº 11, do Supremo Tribunal Federal - Nulidade - Inocorrência;
+Roubo simples - Reconhecimento - Inobservância da regra do art. 226, do Código de Processo Penal - Exigência apenas quando possível - Nulidade - Inocorrência - Preliminar rejeitada;
+Roubo simples - Prisão em flagrante na posse da res furtiva - Palavra da vítima - Reconhecimento na delegacia e confirmado pela ofendida e pelo policial militar em juízo - Prova segura - Condenação mantida;
+Roubo simples - Retirada do celular e dinheiro da vítima - Inversão da posse - Prisão do acusado graças à eficiente atuação dos policiais militares - Tentativa - Inocorrência - Precedentes jurisprudenciais - Réu reincidente - Crime praticado com simulação de emprego de arma de fogo - Regime fechado - Possibilidade - Recurso improvido.
+Sustenta o recorrente que diferente do que feito pelo juízo de piso, deve ser levada em consideração e valorada a atenuante da confissão espontânea. De fato, não se pode afastar a atenuante única e exclusivamente pelo fato do acusado não ter admitido os fatos exatamente como previstos na denúncia (fls. 252/253).
+Alega, ainda, que ainda que não se entenda pelo reconhecimento da atenuante da confissão e a sua compensação com agravante reincidência, é de rigor se reconhecer que a exasperação realizada, no patamar de 1/3, mostra-se excessiva, não sendo esta a correta interpretação do artigo 61, inciso I do Código Penal (fl. 254).
+Aduz, por fim, que consoante o artigo 33, § 2º, alínea "b" do Código Penal, c/c artigo 33, § 3º e artigo Súmula 269 do STJ e Súmulas 718 e 719 do STF, o paciente poderia iniciar o cumprimento da pena em regime semiaberto, e, reconhecida atenuante da confissão e, consequentemente, compensada a reincidência, o paciente faria jus ao regime aberto (fl. 255).
+Pede o conhecimento e provimento do recurso especial para que seja reconhecida a incidência da atenuante da confissão espontânea e compensada com a agravante da reincidência, ou subsidiariamente, que seja reconhecido o excesso de exasperação da pena pela agravante da reincidência, devendo a mesma ser aplicada na proporção de 1/6 da pena; e, que, consequentemente, em qualquer dos casos, que seja fixado o regime inicial de cumprimento de pena menos gravoso.
+Oferecidas contrarrazões (fls. 264/271), o recurso especial foi parcialmente admitido na origem (fls. 274/276).
+O Ministério Público Federal opina pela prejudicialidade da insurgência (fls. 287/299).
+RECURSO ESPECIAL INTERPOSTO COM FUNDAMENTO NO ARTIGO 105, III, A E C, DA CONSTITUIÇÃO FEDERAL. VIOLAÇÃO AOS ARTIGOS 33, §§, 2º, B, E 3º E 65, III, D, DO CÓDIGO PENAL, E À SÚMULA 269 DO STF. SUPERVENIÊNCIA DE DECISÃO MONOCRÁTICA NO HABEAS CORPUS PREVENTO (426225/SP) QUE DENEGOU A ORDEM. PERDA DO OBJETO. PREJUDICIALIDADE.
+Em decisão monocrática datada de 18 de dezembro de 2017, o Eminente Ministro Relator denegou a ordem (Habeas Corpus prevento 426225/SP), que alegava, em síntese, constrangimento ilegal: a) pelo não reconhecimento da atenuante da confissão espontânea, uma vez que condicionar o reconhecimento de referida atenuante a que o acusado descreva exatamente a conduta que lhe é imputada é desconsiderar completamente o seu direito de defesa; b) pela não compensação da atenuante da confissão espontânea com a agravante da reincidência ou, caso assim não se entenda, pela majoração, na segunda fase, em fração superior a 1/6; c) pela fixação do regime inicial fechado. Postulou, liminarmente e no mérito, a concessão da ordem para que fosse reduzida a reprimenda, fixando-se regime inicial diverso do fechado.
+Assim, restam superadas as alegações expendidas no recurso especial.
+Parecer pela prejudicialidade do recurso especial.
+É o relatório
+Com efeito, os pedidos constantes no presente recurso especial encontram-se prejudicados, haja vista terem sido apreciados no Habeas Corpus n. 426.225/SP, de minha relatoria, no qual o recorrente figurou como paciente (DJe 19/12/2017).
+Essa foi a fundamentação lançada na decisão proferida do mencionado writ:
+ ..
+Ao confirmar a dosimetria da pena, asseverou o Tribunal a quo (fls. 59/60 - grifo nosso):
+Resta, então, analisar a pena imposta.
+Nesse mister, o que se vê é que a pena foi estabelecida no mínimo legal, e em seguida, em razão da reincidência (fls. 65 Execuções nº 1 e 2), o aumento de 1/3 foi bem justificado, não merecendo qualquer correção.
+Observe-se, finalmente, que a atenuante da confissão não poderia mesmo ser considerada, na medida em que o acusado, conforme bem observou o Magistrado sentenciante, não assumiu a autoria do crime, pois negou a subtração e o emprego da grave ameaça contra a ofendida durante a subtração.
+Vale dizer, não revelou absoluta sinceridade, já que procurou fazer crer que praticou crime mais leve, motivo pelo qual não faz jus ao reconhecimento dessa atenuante.
+Ademais, diga-se, para finalizar, esse fato sequer foi determinante para a condenação, que derivou da prisão em flagrante e das palavras seguras da vítima.
+Finalmente, o regime fechado para o início de cumprimento da pena imposta é aquele que se afigura como justo e suficiente à reprovação da conduta, já que é reincidente. Ademais, é autor de crime praticado com grave ameaça contra a pessoa, tudo recomendando o tratamento mais rigoroso, que é aquele que se ajusta à reprovação de sua conduta.
+Em suma, o improvimento do recurso é medida que se impõe à correta solução do caso em questão.
+De início, afasto o pleito de incidência da atenuante.
+Segundo o enunciado da Súmula 545/STJ, a confissão espontânea tem incidência apenas quando for utilizada para a formação do convencimento do julgador, o que, conforme bem asseverou o Tribunal a quo não ocorreu na hipótese vertente, pois o juízo condenatório se encontra fundamentado na evidência decorrente do flagrante - momento em que a res foi encontrada na posse do réu -, bem como no depoimento da vítima e dos policiais. Segundo asseverou o magistrado sentenciante a autoria é amplamente demonstrada principalmente pelo teor das declarações da vítima e dos depoimentos dos policiais militares responsáveis pela prisão do acusado, com o qual estava o bem subtraído (fl. 16).
+De outro lado, melhor sorte não socorre o paciente, no que se refere ao pleito de redução da fração de aumento decorrente da reincidência.
+Com efeito, consoante a jurisprudência desta Corte, apesar de não estabelecida pela norma penal a quantidade de aumento de pena em decorrência das agravantes genéricas, deve ela se pautar pelo percentual mínimo fixado para as majorantes, que é de 1/6. Entretanto, é admitida como razoável a adoção de percentual superior mediante fundamentação concreta (multirreincidência, reincidência específica) - (HC n. 258.693/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 28/3/2016).
+Por fim, escorreita a fixação do regime. Como cediço, aos condenados reincidentes a regra é a fixação de regime inicial fechado, conforme determina o § 2º do art. 33 do Código Penal.
+O Superior Tribunal de Justiça flexibiliza o rigor da legislação penal, adotando o regime prisional semiaberto aos reincidentes, apenas nas hipóteses em que a pena fixada é igual ou inferior a quatro anos, se favoráveis as circunstâncias judiciais (Súmula 269/STJ).
+No caso ora em análise, mantida a pena de 5 anos e 4 meses de reclusão, e pagamento de 13 dias-multa, não há ilegalidade a ser sanada.
+Ante o exposto, denego a ordem.
+ ..
+Ante o exposto, em razão da constatada prejudicialidade dos pedidos formulados, e com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se.
