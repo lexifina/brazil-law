@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], contra acórdão do Tribunal de Justiça do Estado de São Paulo (HC n. 2067766-12.2018.8.26.0000).
+Consta dos autos que o paciente foi preso preventivamente, em 15/10/2017, pela suposta prática do crime previsto no artigo 121, § 2º, incisos II e IV, do Código Penal pois, em tese, impelido de ânimo homicida, chegou ao local dos fatos munido com uma arma de fogo e efetuou dois disparos contra a vítima, que estava na parte externa do estabelecimento, momento em que esta, alvejada, correu para o interior do local, ocasião em que o denunciado a perseguiu e, com a vítima já caída ao solo, disparou mais vezes, acertando-a e causando sua morte (e-STJ fl. 93).
+Irresignada com o excesso de prazo da prisão preventiva, a defesa impetrou habeas corpus perante o Tribunal estadual. A ordem, contudo, foi denegada (e-STJ fls. 387/391).
+ Na presente impetração (e-STJ fls. 1/19), a defesa reitera o argumento de configuração de constrangimento ilegal diante do excesso de prazo, afirmando que o decreto de prisão preventiva fora cumprido em 16.10.2017, portanto o Paciente esta preso há 241 dias, aguardando o final o prolatar da sentença (e-STJ fl. 7).
+Alega que o paciente é primário, com bons antecedentes, residência fixa e emprego e que, apesar de o paciente ter se evadido do local do crime após os fatos, compareceu espontaneamente à delegacia.
+Declara que o fato ocorrera exclusivamente por culpa da vítima, usuária de drogas (e-STJ fl. 15) e "acostumada a arrumar confusões" pois, antes dos fatos, esta já havia ameaçado e agredido o recorrente.
+Ressalta que, no caso, não justifica a prisão cautelar já que o Paciente não apresenta periculosidade, nem ameaça a garantia da ordem pública, até mesmo pois a instrução criminal já se encerrara e o Paciente aguarda a prolação da sentença, o que nada lhe impede de aguardar em liberdade (e-STJ fl. 17).
+Diante disso, pede, liminarmente e no mérito, a expedição do alvará de soltura.
+A liminar foi indeferida (e-STJ fls. 420/424).
+As informações foram prestadas (e-STJ fls. 429/433) e o Ministério Público Federal manifestou-se pela prejudicialidade do writ, em parecer assim resumido (e-STJ fl. 434):
+PENAL. PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO. DESCABIMENTO. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. SUPOSTO EXCESSO DE PRAZO NA INSTRUÇÃO CRIMINAL. INOCORRÊNCIA. RÉU PRONUNCIADO. SÚMULA 21/STJ. PARECER PELA PREJUDICIALIDADE DO WRIT.
+É o relatório, decido.
+Com razão do parecer ministerial. Consoante informações colhidas do site do Tribunal de Justiça do Estado de São Paulo, em 28/6/2018 foi publicada a sentença de pronúncia proferida no dia 4/6/2018 (Ação Penal n. 0015052-83.2017.8.26.0602):
+Ante o exposto e considerando o que mais dos autos consta, acolho a acusação para PRONUNCIAR o réu [NOME], qualificado nos autos, para que seja julgado pelo E. Tribunal do Júri, por infração, em tese, ao artigo 121, §2º, incisos II e IV, do Código Penal.Fica mantida a prisão preventiva do acusado, conforme fundamentação supra. Recomende-se no presídio em que se encontra.Preclusa a presente decisão, certifique-se e tornem conclusos, para as providências dos artigos 422 e seguintes, do Código de Processo Penal. P.R.I.C. Sorocaba, 04 de junho de 2018.
+Nesse contexto, incide o enunciado n. 21 da Súmula desta Corte: "PRONUNCIADO O REU, FICA SUPERADA A ALEGAÇÃO DO CONSTRANGIMENTO ILEGAL DA PRISÃO POR EXCESSO DE PRAZO NA INSTRUÇÃO.".
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
