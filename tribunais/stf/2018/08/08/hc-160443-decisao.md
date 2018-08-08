@@ -1,0 +1,25 @@
+Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Mateus Soares em favor de Francis Júnior de Sousa do Espírito Santo, contra decisão monocrática da lavra do Ministro Jorge Mussi, do Superior Tribunal de Justiça, que indeferiu a liminar no HC 461.257/SP.
+    Extraio do ato dito coator:
+    “(...)
+    Não prospera o pedido de medida liminar.
+      Primeiro, porque o Supremo Tribunal Federal e o Superior Tribunal de Justiça têm entendimento de que não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância.
+      É o que está sedimentado na Súmula 691/STF ("Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar"), aplicável, mutatis mutandis, ao STJ (HC 117.440/PE, Quinta Turma, Rel. Min. JORGE MUSSI, DJ de 21/6/2010; HC 142.822/SP, Quinta Turma, Rel. Min. ARNALDO ESTEVES LIMA, DJ de 7/12/2009; HC 134.390/MG, Sexta Turma, Rel. Min. OG FERNANDES, DJ de 31/8/2009).
+      Segundo, porque a concessão de liminar em habeas corpus "é medida absolutamente excepcional, reservada para casos em que se evidencie, de modo flagrante, coação ilegal ou derivada de abuso de poder, em detrimento do direito de liberdade, exigindo demonstração inequívoca dos requisitos autorizadores: o periculum in mora e o fumus boni iuris" (STF, HC n. 116.638, Rel. Ministro Teori Zavascki). No mesmo sentido:
+    (…).
+    Com efeito, da detida leitura da peça recursal, observa-se que o impetrante não demonstrou a presença dos requisitos para concessão da liminar (fumus boni iuris e periculum in mora), limitando-se a consignar, genericamente, o seu deferimento, o que torna a liminar insuscetível de apreciação.
+      Terceiro, porque o reconhecimento da ausência de requisitos da segregação cautelar demandaria o aprofundamento do exame de circunstâncias fático-processuais, tarefa insuscetível de ser realizada em juízo singular e prelibatório de liminar, até porque "é cediço que, no âmbito desta Corte de Justiça, a presença de primariedade, bons antecedentes e residência fixa não autorizam, por si só, a concessão de liberdade provisória" (HC 388.487/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 20/4/2017, DJe 19/5/2017).
+      Reserva-se, portanto, ao Colegiado, órgão competente para o julgamento do writ, a apreciação definitiva da matéria, depois de devidamente instruídos os autos.
+      Ante o exposto, INDEFIRO o pedido de liminar”.
+    No presente writ, o Impetrante pugna pelo afastamento da Súmula 691/STF. Pontua que o paciente teve o flagrante convertido em prisão preventiva pela suposta prática do crime de furto tentado (arts. 155, c/c 14, II, do Código Penal). Alega inidônea a fundamentação do decreto prisional, porquanto lastreada na gravidade abstrata do delito, além de ausentes seus requisitos autorizadores. Requer, em medida liminar e no mérito, a liberdade provisória, com a expedição do competente alvará de soltura em favor do paciente.
+    É o relatório.
+    Decido.
+    À falta de pronunciamento final do colegiado do Superior Tribunal de Justiça, a pretensão esbarra na Súmula nº 691/STF: Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.
+    A compreensão expressa em tal verbete sumular tem sido abrandada em julgados desta Corte em hipóteses excepcionais, de flagrante ilegalidade ou abuso de poder na denegação da tutela de eficácia imediata. Nesse sentido, v.g, as seguintes decisões colegiadas: HC 138.565/SP, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 03.8.2017; HC 137.078/SP, de minha relatoria, 1ª Turma, DJe 24.4.2017; HC 136.296/SP, de minha relatoria, 1ª Turma, DJe 24.10.2016; e HC 134.104/SP, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 19.8.2016.
+    Ao exame dos autos, não detecto a ocorrência de situação autorizadora do afastamento do mencionado verbete, pois, de acordo com o ato dito coator, “da detida leitura da peça recursal, observa-se que o impetrante não demonstrou a presença dos requisitos para concessão da liminar (fumus boni iuris e periculum in mora), limitando-se a consignar, genericamente, o seu deferimento, o que torna a liminar insuscetível de apreciação”.
+    À míngua de pronunciamento judicial conclusivo pela Corte Superior quanto à matéria trazida nestes autos, inviável a análise do writ pelo Supremo Tribunal Federal, sob pena de indevida supressão de instância. Cito, nessa linha, precedentes: HC 134.957-AgR/MG, Rel. Min. Luiz Fux, 1ª Turma, DJe 24.02.2017; RHC 136.311/RJ, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 21.02.2017; RHC 133.974/RJ, Rel. Min. Dias Toffoli, 2ª Turma, DJe 03.3.2017; e HC 136.452-ED/DF, de minha relatoria, 1ª Turma, DJe 10.02.2017.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 08 de agosto de 2018.
+Ministra Rosa Weber
+Relatora
