@@ -1,0 +1,21 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL POR VEICULAÇÃO DE MATÉRIA JORNALÍSTICA TELEVISIVA. CONDUTA ILÍCITA E DANOS MORAIS. REVISÃO DA CONFIGURAÇÃO. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por [NOME] PORÃ LTDA. contra decisão de inadmissibilidade do recurso especial, por sua vez, apresentado, com fundamento no art. 105, III, a, da CF, em desafio a acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS - VEICULAÇÃO DE IMAGEM EM MATÉRIA JORNALÍSTICA SEM CONSENTIMENTO OU AUTORIZAÇÃO - CANAL DE TELEVISÃO ABERTA - IMAGEM ASSOCIADA AO MAU ATENDIMENTO DISPENSADO POR VENDEDORES EM COMÉRCIO LOCAL - ARTIGO 186 DO CC - DANOS MORAIS CONFIGURADOS - QUANTUM INDENIZATÓRIO - FIXAÇÃO DENTRO DOS PATAMARES DA RAZOABILIDADE E PROPORCIONALIDADE - RECURSO CONHECIDO E PROVIDO.
+1. A responsabilização civil de qualquer pessoa, seja física ou jurídica, depende de comportamento voluntário ilícito e que tal conduta tenha gerado um dano seja de índole moral ou material, consoante preconiza o artigo 186, do Código Civil.
+2. A indevida utilização da imagem da parte autora no exercício de seu labor de vendedora no comércio local, aliada ao fato de que a matéria jornalística vinculou a sua imagem a uma suposta má conduta no atendimento de clientes, evidencia a prática de ato ilícito ensejador do dever de indenizar.
+3. O valor arbitrado a título de indenização por danos morais deve representar uma compensação à vítima e também uma punição ao ofensor, guardando-se proporcionalidade entre o ato lesivo e o dano moral sofrido.
+Em suas razões de recurso especial, a recorrente alegou violação aos arts. 186 e 188, I, do CC e 1º da Lei 5.250/1967, defendendo a inexistência: a) de ilicitude em sua conduta regular de informar, pois, no caso, a imagem da recorrida em lugar público foi exposta sem prévia autorização da parte durante três segundos, mas desprovida de emissão de juízo de valor ou referência direta à pessoa e com finalidade de abertura da matéria sobre a crise de consumo enfrentada pelo comércio de Dourados; e b) de dano moral, ante a falta de provas do abalo sofrido.
+Contrarrazões apresentadas às fls. 126-128 (e-STJ).
+Em decorrência da inadmissão do recurso pela origem, foi interposto o presente agravo, o qual foi objeto de contraminuta às fls. 178-180 (e-STJ).
+Brevemente relatado, decido.
+A pretensão recursal de revisão da configuração da ilicitude da conduta e do dano moral experimentado pela recorrida não pode ser conhecida, por incidência do óbice da Súmula 7/STJ.
+Isso porque o Tribunal de origem, por maioria, considerou que a imagem da autora veiculada sem sua autorização teve conotação pejorativa, por associá-la ao mau atendimento de clientes por vendedores do comércio local, motivo pelo qual houve a exposição à situação vexatória.
+Confira-se o excerto do voto vencedor do acórdão recorrido (e-STJ, fl. 101):
+Ora, não se pode negar que a utilização da imagem da autora, associando-a ao mau comportamento e atendimento de vendedores que trabalham no comércio local, à expôs a situação vexatória, dando a entender que estaria ela usando das más práticas comerciais mencionadas na matéria jornalística.
+Assim, o direito à indenização deve ser resguardado em razão da indevida utilização da imagem da autora, sem a sua autorização, aliada ao fato de que a matéria vinculou sua imagem a uma suposta má conduta no atendimento de clientes.
+Desse modo, o acolhimento do recurso não prescindiria do reexame direto das provas dos autos, notadamente da gravação da reportagem exibida, a fim de estabelecer conclusão em sentido contrário àquela que conduziu o resultado do acórdão recorrido, providência manifestamente proibida nesta instância, nos termos do referido óbice sumular.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 5% sobre o valor atualizado da condenação, considerando o montante indenizatório arbitrado e o trabalho desenvolvido até esta fase recursal, inclusive mediante o oferecimento de contrarrazões aos recursos dirigidos a esta instância.
+Publique-se.
