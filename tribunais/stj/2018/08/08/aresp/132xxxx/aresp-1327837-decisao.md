@@ -1,0 +1,42 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INTERPOSTO NA VIGÊNCIA DO NCPC. COBRANÇA E REPARAÇÃO DE DANOS. AGRAVO QUE NÃO INFIRMA TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO NÃO CONHECIDO.
+DECISÃO
+ANNALISA PORFILIO, HALEY JOVI CAZARINI BUENO e MARIA INES CAZARINI BUENO (ANNALISA e outros) promoveram ação de cobrança, c/c reparação de danos, contra CONSTRUTORA TRÊS O LTDA. (CONSTRUTORA), BRAZILIAN MORTGAGES COMPANHIA HIPOTECÁRIA (BRAZILIAN), OSVALDO ANTÔNIO PINTO TAVARES, OSVALDO PINTO TAVARES e OTÁVIO HENRIQUE PINTO TAVARES (OSVALDO e outros). A demanda foi julgada parcialmente procedente para condenar a CONSTRUTORA ao pagamento de quantia referente à multa contratual e aluguel não percebido. BRAZILIAN foi condenada ao pagamento das custas processuais remanescentes e ao pagamento de honorários em favor do procurador da parte autora, arbitrados em R$ 1.000,00. OSVALDO e outros foram excluídos do polo passivo da demanda (e-STJ, fls. 778/783).
+O Tribunal local negou provimento ao recurso de apelação interposto por BRAZILIAN e não conheceu do apelo da CONSTRUTORA e do recurso adesivo interposto por ANNALISA e outros. O acórdão ficou assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA C/C REPARAÇÃO DE DANOS. DEMANDA JULGADA PARCIALMENTE PROCEDENTE. APELAÇÃO1 E RECURSO ADESIVO. CONCESSÃO DO BENEFÍCIO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA SEM EFEITOS RETROATIVOS. REQUISIÇÃO DE JUSTIÇA GRATUITA NO BOJO DA APELAÇÃO. IMPOSSIBILIDADE. ART. 6º DA LEI 1.060/50.AUSÊNCIA DE PREPARO. DESERÇÃO. RECURSOS NÃO CONHECIDOS. APELAÇÃO2. INEFICÁCIA DA HIPOTECA. INTELIGÊNCIA DA SÚMULA 308 DO STJ. ÔNUS DE SUCUMBÊNCIA. MANTIDOS. RECURSO DE APELAÇÃO2. CONHECIDO E NÃO-PROVIDO (e-STJ, fls. 944/945).
+Inconformada, BRAZILIAN interpôs recurso especial, com base no art. 105, III, a e c, da Constituição Federal, alegando violação de dispositivos de lei federal (arts. 485, IV e VI, do NCPC) e dissídio jurisprudencial, por entender que foi lícita a conduta de registrar a hipoteca. Afirmou que os recorridos admitiram nos autos a ausência de quitação do preço de compra, o que torna inaplicável a Súmula nº 308 do STJ. Afirmou, ainda, que os recorridos concordaram expressamente com as cláusulas contratuais estipuladas. Apontou dissídio jurisprudencial acerca da eficácia da hipoteca diante da ausência de quitação do preço de compra (e-STJ, fls. 989/990).
+Contrarrazões não apresentadas (e-STJ, fls. 988/988).
+Em juízo de admissibilidade, o apelo nobre foi inadmitido por inexistência de argumento capaz de afastar a aplicação da Súmula nº 308 do STJ e incidência da Súmula nº 83 do STJ (e-STJ, fls. 989/990).
+Contra essa decisão, BRAZILIAN manejou o presente agravo afirmando que houve usurpação da competência do STJ, pois o Tribunal a quo, ao negar provimento ao recurso interposto, deixou de observar a aplicabilidade dos dispositivos de lei federal e a divergência jurisprudencial (e-STJ, fls. 1.001/1.008).
+Contraminuta não apresentada (e-STJ, fls. 1.016).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que o presente agravo em recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A irresignação não ultrapassa o conhecimento.
+Do juízo de admissibilidade
+Inicialmente, acerca do juízo de admissibilidade, é relevante afirmar que o Tribunal a quo, ao realizá-lo, atendeu perfeitamente aos ditames legais, não podendo se defender que o fato de incursionar no mérito do especial se configure em usurpação de competência desta Corte.
+Ressalte-se que o referido juízo é bifásico, ou seja, o primeiro juízo realizado no Tribunal de origem não tem o condão de vincular a decisão de admissibilidade do STJ, a qual é soberana àquele.
+A propósito, vejam-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRESSUPOSTOS DE ADMISSIBILIDADE ATENDIDOS. ANÁLISE DE MÉRITO DO ESPECIAL. CONTROLE BIFÁSICO. APELAÇÃO. 514, II, DO CPC. ATENDIMENTO.
+1. O juízo de admissibilidade do recurso especial é bifásico e, como tal, a decisão proferida pelo tribunal de origem não vincula esta Corte, que tem competência plena para verificar, novamente, o preenchimento dos pressupostos recursais.
+2. O exame de mérito do apelo nobre já traduz o entendimento de que foram atendidos os requisitos extrínsecos e intrínsecos de sua admissibilidade, inexistindo necessidade de pronunciamento explícito a esse respeito.
+3. "A reprodução, na apelação, dos argumentos já lançados na petição inicial ou na contestação não é, em si, obstáculo bastante para negar conhecimento ao recurso" (AgRg no AREsp nº 175.517/MS, Relator Ministro Sidnei Beneti, Terceira Turma, DJe 27/6/2012).
+4. Agravo regimental não provido.
+(AgRg no AREsp 489.138/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 16/9/2014, DJe 26/9/2014)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. SÚMULA 216/STJ. JUÍZO DE ADMISSIBILIDADE BIFÁSICO. STJ NÃO VINCULADO.
+ ..
+2. O juízo de admissibilidade do recurso especial é bifásico. A decisão proferida pelo Tribunal de origem não vincula o Superior Tribunal de Justiça na aferição dos pressupostos de admissibilidade do recurso especial. Isso porque compete a esta Corte, órgão destinatário do recurso especial, o juízo definitivo de admissibilidade. Precedentes.
+3. "A tempestividade de recurso interposto no Superior Tribunal de Justiça é aferida pelo registro no protocolo da secretaria e não pela data da entrega na agência do correio." (Súmula 216/STJ).
+4. O recurso mostra-se manifestamente infundado, a ensejar a aplicação da multa prevista no artigo 557, § 2º, do CPC.
+5. Embargos de declaração recebidos como agravo regimental a que se nega provimento, com aplicação de multa.
+(EDcl no AREsp 289.109/MG, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 15/5/2014, DJe 21/5/2014)
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Da leitura das razões recursais, observa-se que o inconformismo não se dirigiu de forma específica contra todos os fundamentos da decisão agravada, pois o agravante não infirmou devidamente seus esteios.
+Não houve o adequado enfrentamento dos fundamentos da decisão agravada no que pertine à incidência da Súmula nº 83 do STJ. Tampouco trouxe argumentação suficiente para demonstrar a inaplicabilidade da Súmula nº 308 do STJ.
+Assim, na hipótese em que se pretende impugnar, em agravo no recurso especial, deve o agravante demonstrar a inaplicabilidade dos óbices sumulares, combatendo todos os fundamentos da decisão impugnada.
+Ressalte-se que, na hipótese em que se pretende impugnar, em agravo no recurso especial, a incidência da Súmula nº 83 do STJ, deve a parte agravante demonstrar que o precedente indicado na decisão agravada não se aplicava ao caso ou, então, trazer precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, ou, que a divergência é atual, o que deixou de fazer. Ressalte-se que não basta apenas repisar as razões contidas no especial ou afirmar que houve a usurpação da competência exclusiva desta Corte Superior.
+Assim, o recurso não se mostra viável, o que enseja a sua inadmissão.
+Nessas condições, com fundamento no art. 932, III, do NCPC, NÃO CONHEÇO do agravo.
+MAJORO os honorários advocatícios anteriormente fixados em desfavor de BRAZILIAN de R$ 1.000,00 (um mil reais) para R$ 1.100,00 (um mil e cem reais), nos termos do art. 85, § 11 do NCPC. Ressalte-se não ser aplicável, no caso, o limite previsto no § 2º do mesmo artigo, porque a verba honorária fora fixada com base em equidade.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º, ambos do NCPC).
+Publique-se. Intimem-se.
