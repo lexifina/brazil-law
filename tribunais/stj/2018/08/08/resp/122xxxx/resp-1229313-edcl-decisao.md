@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por BANCO REGIONAL DE DESENVOLVIMENTO DO EXTREMO SUL, em face da decisão acostada às fls. 430-437, da lavra deste signatário, que deu provimento ao agravo regimental para reconsiderar a decisão monocrática de fls. 412-413 a fim de: a) afastar a incidência do Código de Defesa do Consumidor; b) possibilitar a cobrança de capitalização mensal de juros; e c) considerar caracterizada a mora no caso dos autos e, consequentemente, julgar procedente a ação de busca e apreensão, consolidando a posse e a propriedade dos bens no patrimônio do credor fiduciário.
+Inconformado (fls. 440-446), o embargante opõe embargos de declaração, alegando, em síntese, obscuridade e erro material na distribuição dos ônus sucumbenciais relativamente aos embargos à execução.
+Sem impugnação da parte ex adversa.
+É o relatório.
+Decide-se.
+A irresignação merece prosperar.
+1. Nos estreitos lindes do art. 1022, incisos I e II, do Código de Processo Civil de 2015, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontráveis em decisão, ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO - ANÁLISE DE MATÉRIA CONSTITUCIONAL - USURPAÇÃO DA COMPETÊNCIA ATRIBUÍDA AO PRETÓRIO EXCELSO - OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO - INEXISTÊNCIA - EFEITOS MODIFICATIVOS - EXCEPCIONALIDADE - IMPOSSIBILIDADE NA ESPÉCIE - EMBARGOS DECLARATÓRIOS REJEITADOS.
+1. Em sede de recurso especial, a competência deste Tribunal Superior se limita a interpretar e uniformizar o direito infraconstitucional federal, a teor do disposto no art. 105, inciso III, da Constituição Federal. Nesses termos, resta impossibilitado o exame de eventual violação do art. 5º, II, XXXIV e LV, da Constituição Federal, sob pena de usurpação da competência atribuída ao augusto Supremo Tribunal Federal.
+2. Os embargos de declaração constituem a via adequada para sanar omissões, contradições, obscuridades ou erros materiais do decisório embargado, admitida a atribuição de efeitos infringentes apenas quando esses vícios sejam de tal monta que a sua correção necessariamente infirme as premissas do julgado.
+3. Embargos de declaração rejeitados. (EDcl no AgRg no Ag 863857/MG, Relator Ministro MASSAMI UYEDA, QUARTA TURMA, DJ 11/02/2008)
+No caso em tela, sustenta o embargante existir obscuridade e erro material a macular o julgado, relativamente à distribuição dos ônus sucumbenciais.
+Quanto aos pedidos constantes da peça inaugural dos embargos à execução, extrai-se do acórdão recorrido:
+[NOME] opôs embargos à execução em face de Banco Regional de Desenvolvimento do Extremo Sul BRDE, alegando que estava passando por dificuldades financeiras e aduzindo que as cobranças realizadas pela embargada eram excessivas, como: (i) impossibilidade de atualização monetária pelos índices da TJLP; (ii) capitalização de juros; (iii) impossibilidade de cobrança após o vencimento de cada parcela de juros moratórios de 1% a.a., mais 3,50% a.a., visto que não pactuado; (iv) impossibilidade de cobrança de multa de 10%, também não contratada. Levantou, ainda, preliminar de carência da ação e inépcia da inicial, pela ausência de planilha. Requereu, ademais, a aplicação do Código de Defesa do Consumidor.
+Nesse contexto, verifica-se a ocorrência de sucumbência recíproca, sendo essa sofrida em maior grau pelos ora embargados, que somente obtiveram êxito no afastamento da comissão de permanência e da multa contratual.
+Assim, de rigor a reforma da decisão embargada, ante a inadequação da distribuição dos ônus sucumbenciais.
+2. Ante o exposto, acolho os embargos de declaração, com efeitos infringentes, para afastar a obscuridade/erro material apontada e, de pronto, redistribuir os ônus sucumbenciais fixados na decisão agravada, a serem arcados na proporção de 70% (setenta por cento) pelos ora embargados e 30% (trinta por cento) pelo ora embargante.
+Publique-se. Intimem-se.
