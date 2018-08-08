@@ -1,0 +1,12 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – AUSÊNCIA DE PREQUESTIONAMENTO – AGRAVO –DESPROVIMENTO.
+    1. Afasto a suspensão anteriormente determinada.
+    2. O Colegiado de origem assentou a possibilidade da cobrança de contribuição previdenciária sobre os proventos do recorrente, militar inativo, quanto a parcela excedente a R$ 2.400,00 (dois mil e quatrocentos reais), considerada a existência de legislação específica estadual permitindo a cobrança. No extraordinário, cujo trânsito busca alcançar, o recorrente alega a inconstitucionalidade da Lei Estadual nº 4.275/2004, por violação aos artigos 84, inciso IV, e 150, inciso I, da Constituição Federal. Sustenta a ocorrência de inobservância aos limites do poder regulamentar e usurpação de competência da União.
+    3. Atentem não para o apego à literalidade do verbete nº 356 da Súmula do Supremo, mas para a razão de ser do prequestionamento e, mais ainda, para o teor do verbete nº 282 da referida Súmula. O instituto do prequestionamento significa o debate e a decisão prévios do tema jurídico constante das razões apresentadas. Se o ato impugnado nada contém sobre o que versado no recurso, descabe assentar o enquadramento deste no permissivo constitucional. Assim concluiu o Supremo no julgamento do agravo regimental no agravo de instrumento nº 541.696-6/DF, de que fui relator, com acórdão publicado no Diário da Justiça de 24 de fevereiro de 2006, resumido na seguinte ementa:
+    RECURSO EXTRAORDINÁRIO PREQUESTIONAMENTO CONFIGURAÇÃO RAZÃO DE SER. O prequestionamento não resulta da circunstância de a matéria haver sido arguida pela parte recorrente. A configuração do instituto pressupõe debate e decisão prévios pelo Colegiado, ou seja, emissão de juízo sobre o tema. O procedimento tem como escopo o cotejo indispensável a que se diga do enquadramento do recurso extraordinário no permissivo constitucional. Se o Tribunal de origem não adotou entendimento explícito a respeito do fato jurígeno veiculado nas razões recursais, inviabilizada fica a conclusão sobre a violência ao preceito evocado pelo recorrente.
+    No caso, o que sustentado pelo recorrente, quanto à alegada extrapolação dos limites do poder regulamentar e usurpação de competência da União, não foi enfrentado pelo Órgão julgador. Não houve a interposição de embargos declaratórios, não havendo debate e decisão prévios sobre a sobre a articulação do precedente ao caso.
+    4. Conheço do agravo e o desprovejo.
+    5. Publiquem.
+Brasília, 8 de agosto de 2018.
+Ministro MARCO AURÉLIO
+Relator
