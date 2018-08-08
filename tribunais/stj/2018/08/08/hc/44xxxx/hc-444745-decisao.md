@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de OSEAS ORTIZ, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina (HC n. 4029840-51.2017.8.24.0000).
+Extrai-se dos autos que o paciente foi preso em flagrante em 03/12/2017 pela suposta prática dos delitos previstos no art. 147, no art. 121, § 2º, inciso VI, c/c o art. 14, inciso II, e no art. 129, caput, todos do Código Penal (ameaça, homicídio qualificado tentado e lesão corporal). Referida custódia foi convertida em preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+HABEAS CORPUS. PACIENTE DENUNCIADO PELA PRÁTICA, EM TESE, DOS DELITOS DE AMEAÇA, FEMINIClDIO NA MODALIDADE TENTADA E LESÃO CORPORAL (ARTIGOS 147; 121, § 2o, INCISO VI, C/C 14, INCISO II: E 129. TODOS DO CÓDIGO PENAL). CONVERSÃO DA PRISÃO EM FLAGRANTE EM PREVENTIVA. INDEFERIMENTO DO PEDIDO DE REVOGAÇÃO. PREENCHIDOS OS PRESSUPOSTOS E REQUISITOS DO ARTIGO 312 DO CÓDIGO DE PROCESSO PENAL. INDÍCIOS SUFICIENTES PARA SUSTENTAR A IMPUTAÇÃO FEITA AO PACIENTE. NECESSIDADE DA SEGREGAÇÃO PARA GARANTIA DA ORDEM PÚBLICA, ALEM DE GARANTIR A INTEGRIDADE FÍSICA DAS VÍTIMAS. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO DAS DECISÕES. NÃO ACOLHIMENTO. MAGISTRADO QUE EXPLICITOU OS ELEMENTOS CONCRETOS PARA A DECRETAÇÃO E MANUTENÇÃO DA CONSTRIÇÃO CAUTELAR. ADEMAIS. EXIGÊNCIA DE FUNDAMENTAÇÃO TÃO SOMENTE EM RELAÇÃO À DECISÃO QUE DECRETA, SUBSTITUI OU DENEGA A PRISÃO PREVENTIVA. INTELIGÊNCIA DO ARTIGO 315 DO CÓDIGO DE PROCESSO PENAL. PRECEDENTES DESTA CORTE DE JUSTIÇA. BONS PREDICADOS PESSOAIS QUE NÃO OBSTAM A MANUTENÇÃO DA PRISÃO PREVENTIVA. PRINCÍPIO DA CONFIANÇA NO JUIZ DA CAUSA. MANUTENÇÃO DA SEGREGAÇÃO CAUTELAR QUE SE IMPÕE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM DENEGADA.
+1. Sempre que restarem presentes a prova da materialidade e indícios de autoria, o juiz está autorizado a manter o réu segregado para, dentre outras finalidades, assegurar a garantia da ordem pública (art. 312 do Código de Processo Penal).
+2. Inexiste ilegalidade na prisão quando a autoridade dita como coatora explicita suficiente e fundamentadamente as razões fáticas e jurídicas pelas quais determina ou mantém a prisão preventiva.
+3. Quanto à alegada falta de fundamentação do indeferimento do pedido de revogação da prisão preventiva, cumpre dizer que "(..  é prescindível a fundamentação da decisão proferida em pedido de reconsideração, porquanto deve ser exigida apenas em relação àquela que decreta ou denega a prisão cautelar, a teor do que estabelece o art. 315 do Código de Processo Penar. (TJSC - Habeas Corpus n. 2010.068084-7. de Lages, Rei. Des. Roberto Lucas Pacheco, j. em 16/11/2010).
+4. Os predicados subjetivos do paciente não constituem óbice à manutenção da sua segregação cautelar. desde que presentes os requisitos da prisão preventiva.
+5. Cumpre lembrar o princípio da confiança no juiz da causa, que, por estar mais próximo dos fatos e das pessoas envolvidas, melhor pode avaliar a necessidade da providência cautelar. (fls. 10/11).
+No presente mandamus, ressalta as condições pessoais favoráveis do paciente e alega ausência dos requisitos autorizadores da custódia cautelar previstos no art. 312 do Código de Processo Penal. Assevera que o decreto prisional está fundado exclusivamente na gravidade abstrata do delito.
+Invoca o caráter excepcional da prisão. Argumenta que não há indícios de periculosidade do paciente ou de que sua liberdade representaria risco para a testemunha.
+Requer, assim, em liminar e no mérito, o reconhecimento da ilegalidade da prisão a fim de que o paciente responda à ação penal em liberdade.
+Liminar indeferida (fls. 40/42). Informações prestadas (fls. 48/98 e 104/106). O Ministério Público Federal opinou pela prejudicialidade do writ (fl. 108).
+É o relatório.
+Decido.
+A impetração está prejudicada.
+Isso porque, nos termos das informações prestadas pelo Juízo de primeiro grau, em 18/4/2018, sobreveio a sentença de pronúncia, ocasião em que o paciente foi posto em liberdade provisória mediante o cumprimento de medidas cautelares alternativas ao cárcere. O cumprimento do alvará de soltura se deu em 19/4/2018 (fl. 106).
+Dessa forma, inegável a perda superveniente do objeto do mandamus.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
