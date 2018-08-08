@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, sem pedido de liminar, impetrado em benefício de [NOME] contra acórdão do Tribunal de Justiça do Estado do Espírito Santo (Agravo em Execução n. 0019844-70.2016.8.08.0035).
+Infere-se dos autos que foi concedida ao paciente a comutação de 1/4 de sua pena remanescente referente à Guia de Execução n. 126.094, com base no art. 2º do Decreto Presidencial n. 7.648/2011 (fls. 26/28).
+Irresignado, o Parquet estadual interpôs agravo em execução perante o Tribunal a quo, que deu provimento ao recurso para indeferir a comutação da pena por ausência de requisito objetivo, nos termos da seguinte ementa:
+
+AGRAVO EM EXECUÇÃO CRIMINAL - COMUTAÇÃO DE PENAS - DECRETO  7.873/2012 - DESCONSIDERAÇÃO DE CONDENAÇÃO TRANSITADA EM JULGADO POR NÃO CONSTAR COM GUIA DE EXECUÇÃO EXPEDIDA AO TEMPO DE VIGÊNCIA DO DECRETO  7.648/2011 - NÃO PREENCHIMENTO DO REQUISITO OBJETIVO - SENTENÇA REFORMADA PARA INDEFERIR O BENEFÍCIO. RECURSO PROVIDO.
+1. A controvérsia dos autos consiste em saber se o cálculo para o benefício da comutação da pena deve usar como base de cálculo somente as penas unificadas ao tempo da decisão que concede a comutação ou se poderiam ser incluídas nessa base de cálculo todas condenações transitadas em julgado, a despeito de não contarem com Guia de Execução expedida ao tempo do Decreto Presidencial que permite a comutação.
+2. Para averiguar a presença do requisito objetivo do benefício da comutação devem ser consideradas todas as condenações transitadas em julgado para a acusação no período de vigência do Decreto Presidencial concessivo da benesse.
+3. Recurso conhecido e provido para reformar a sentença que concedeu a comutação ao agravado por ausência do requisito objetivo (fl. 52).
+No presente writ, a impetrante sustenta que o Decreto foi publicado em 25/12/2011 e que os requisitos objetivos e subjetivos para concessão da comutação devem ser analisados até essa data. Dessa forma, não consta nenhuma informação de que a guia de execução de nova condenação teria sido expedida anteriormente a esta data.
+Requer, assim, o restabelecimento da decisão que concedeu a comutação da pena ao paciente.
+As informações foram prestadas pela autoridade coatora (fls. 90/108) e o Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 110/115).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Passo à análise das alegações expostas na inicial tão somente para verificar se existe flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Conforme relatado, busca-se o restabelecimento da decisão que concedeu ao paciente a comutação da pena.
+O Juízo de primeiro grau concedeu ao paciente a comutação da pena, com base no Decreto Presidencial n. 7.648/2011.
+O Tribunal a quo, ao apreciar o agravo de execução interposto pelo Ministério Público estadual, deu provimento ao recurso para reformar a decisão e indeferir a comutação da pena, por ausência de requisito objetivo, em razão da reincidência do paciente, sob os seguintes fundamentos:
+Conforme relatado, trata-se de agravo em execução interposto pelo MINISTÉRIO PÚBLICO ESTADUAL em face da sentença, colacionada às fls. 12/13, que reconheceu o direito do apelante à comutação da pena referente à GE 126.094, com base no Decreto Presidencial 7.648/2011.
+Nas razões do presente recurso de Agravo em Execução, o Ministério Público sustenta que o agravado não havia preenchido o requisito para obter a comutação das penas, porquanto contava com uma condenação transitada em julgado para a acusação e que não foi somada à demais GE 135.123 para aferir o requisito objetivo para concessão da benesse prevista no Decreto Presidencial de nº 7.873/2012.
+Argumenta o Parquet que o equívoco ocorreu porque a aludida condenação transitou em julgado em 04.04.2011. sendo a respectiva GE (nº 135.123) somente expedida no ano de 2012, ou seja, após a data do Decreto Presidencial nº 7.648/2011
+Aduz o Ministério Público que após a condenação transitar em julgado para a acusação já é possível conceder o benefício do indulto e comutação, na forma do art. 5o e 7º do Decreto Presidencial de nº 7.648/2011, razão pela qual também é possível somá-la para aferir o requisito objetivo para concessão do benefício.
+Assim, a controvérsia dos autos consiste em saber se o cálculo para o benefício da comutação da pena deve usar como base de cálculo somente as penas unificadas ao tempo da decisão que analisa a comutação ou se poderiam ser incluídas nessa base de cálculo todas condenações transitadas em julgado, a despeito de não contarem com Guia de Execução ao tempo do Decreto Presidencial que permite a comutação.
+A Guia de Execução Penal trata-se de uma formalidade para o cumprimento da pena, sendo documento que atesta a imposição de uma pena e que não se confunde com o título executivo (sentença condenatóría). Maierovitch, Walter Fanganiello. Apontamentos sobre o direito da execução penal. Revista de Processo, v. 66, p. 175, São Paulo, abr. 1992. IN: Roig, Rodrigo Duque Estrada, Execução Penal: teoria critica, 3 ed. São Paulo: Saraiva:2017.
+Assim, para a concessão do indulto ou da comutação, não há exigência de que o condenado possua Guia de Execução Penal expedida. Os decretos que regulamentam a matéria exigem, além de outros requisitos, a existência de uma condenação transitada em julgado para a acusação, senão vejamos:
+Art. 5º O indulto e a comutação de penas de que trata este Decreto são cabíveis, ainda que:
+I - a sentença tenha transitado em julgado para a acusação, sem prejuízo do julgamento de recurso da defesa na instância superior;
+II - haja recurso da acusação que não vise a majorar a quantidade da pena ou as condições exigidas para a declaração dQ in.duIto ou da comutação de penas:
+III - a pessoa condenada esteja em livramento condicional; ou
+IV - a pessoa condenada responda a outro processo criminal, mesmo que tenha por objeto um dos crimes previstos no art. 8º.
+O art. 7o do mesmo normativo ainda dispõe que "As penas correspondentes a infrações diversas devem somar-se, para efeito do indulto e da comutação de penas, até 25 de dezembro de 2011."
+Do cotejo das normas, é possível concluir que no cálculo para aferição do requisito objetivo devem ser consideradas todas as condenações transitadas em julgado para a acusação no período de vigência do Decreto Presidencial concessivo do benefício.
+ ..
+Diante de todas essas considerações, é possível concluir que o magistrado a quo deixou de considerar a condenação transitada em julgado durante a vigência do Decreto Presidencial nº 7.648/2011, cuja soma com as demais condenações levaria ao não preenchimento do requisito objetivo para a concessão da comutação.
+Dessa forma, CONHEÇO o recurso e, no mérito, DOU-LHE PROVIMENTO para reformar a decisão proferida às fls. 12/13 que, no bojo da Guia de Execução Penal nº 0003662-82.2011.8.08.0035, reconheceu a comutação das penas do reeducando com fundamento no Decreto Presidencial nº 7.648/2011 e, por conseqüência, indeferir a comutação por ausência de requisito objetivo (fls. 54/60).
+O Decreto Presidencial n. 7.648/2011 dispõe que a comutação dar-se-á, da pena remanescente à época do Decreto, na fração de 1/5, se reincidente, a pessoa condenada a pena privativa de liberdade (art. 2º). Estabelece, ainda, que as penas de infrações diversas somar-se-ão até 25 de dezembro de 2011 (art. 7º).
+Confira-se o teor do Decreto:
+Art. 2º As pessoas condenadas a pena privativa de liberdade, não beneficiadas com a suspensão condicional da pena que, até 25 de dezembro de 2011, tenham cumprido um quarto da pena, se não reincidentes, ou um terço, se reincidentes, e não preencham os requisitos deste Decreto para receber indulto, terão comutada a pena remanescente de um quarto, se não reincidentes, e de um quinto, se reincidentes, aferida em 25 de dezembro de 2011.
+§ 1º O cálculo será feito sobre o período de pena já cumprido até 25 de dezembro de 2011, se o período de pena já cumprido, descontadas as comutações anteriores, for superior ao remanescente.
+ ..
+Art. 5º Os benefícios previstos neste Decreto são cabíveis, ainda que:
+I - a sentença tenha transitado em julgado para a acusação, sem prejuízo do julgamento de recurso da defesa na instância superior;
+II - haja recurso da acusação que não vise a majorar a quantidade da pena ou as condições exigidas para a concessão do indulto e da comutação;
+III - a pessoa condenada esteja em livramento condicional; ou
+IV - a pessoa condenada responda a outro processo criminal, mesmo que tenha por objeto um dos crimes previstos no art. 8º.
+ ..
+Art. 7º As penas correspondentes a infrações diversas devem somar-se, para efeito do indulto e da comutação, até 25 de dezembro de 2011.
+Verifica-se, portanto, que para a concessão da comutação não há necessidade de que o condenado possua Guia de Execução Penal expedida, sendo suficiente a existência de condenação transitada em julgado para a acusação, como no caso em análise, que sobreveio condenação transitada em julgado em 4/4/2011.
+Dessa forma, o entendimento do Tribunal de origem está em consonância com o desta Corte Superior sobre o tema. O recorrente apresenta duas condenações, o que demanda a soma de todas as penas com a aplicação da fração de 1/5 (um quinto) sobre a totalidade encontrada.
+Vejam-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. COMUTAÇÃO DE PENAS. APENADO REINCIDENTE. TRÂNSITO EM JULGADO DA SENTENÇA PARA A ACUSAÇÃO. EXECUÇÃO PROVISÓRIA. REQUISITO OBJETIVO. CÁLCULO DO LAPSO TEMPORAL SOBRE A TOTALIDADE DA PENA.
+1. A Terceira Seção, por ocasião do julgamento do Recurso Especial n. 1.364.192/RS, representativo da controvérsia, firmou entendimento de que a concessão do indulto/comutação de penas ""deverá observar o cumprimento dos requisitos previstos no decreto presidencial pelo qual foram instituídos"".
+2. Com efeito, em termos de indulto e comutação de penas, devem ser observados, tão somente, os requisitos elencados no decreto presidencial respectivo, não competindo ao juiz criar novas regras ou estabelecer outras condições além daquelas já previstas na referida norma. Tal proceder ofenderia o princípio da legalidade, por se tratar de competência exclusivamente do Presidente da República a tarefa de estabelecer os limites para a concessão das benesses.
+3. Estabelecem os arts 6º, incisos I e II, e 8º, do Decreto Presidencial n 8.380/2014, verbis: Art 6º O Indulto e a comutação de penas de que trata este Decreto são cabíveis, ainda que: I - a sentença tenha transitado em julgado para a acusação, sem prejuízo do Julgamento de recurso da defesa na instância superior; II - haja recurso da acusação que não vise a majorar a quantidade da pena ou as condições exigidas para a declaração do indulto ou da comutação de penas. (..) Art. 8º As penas correspondentes a infrações diversas devem somar-se, para efeito da declaração do indulto e da comutação de penas, até 25 de dezembro de 2014.
+4. Portanto, tendo a sentença transitado em julgado para a acusação, como na espécie, ainda que inexista o trânsito em julgado em definitivo da sentença penal condenatória, deve ser considerada a totalidade das penas impostas ao reeducando, para fins de contagem do lapso temporal (requisito objetivo) necessário à concessão da comutação de penas.
+5. Agravo regimental não provido (AgRg no HC 342.094/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 13/06/2016).
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO PENAL. COMUTAÇÃO DE PENA. DECRETO N. 8.380/2014. REQUISITO OBJETIVO NÃO IMPLEMENTADO. CONSIDERAÇÃO DE GUIA DE EXECUÇÃO DISTRIBUÍDA EM MOMENTO POSTERIOR AO DECRETO. POSSIBILIDADE. TRÂNSITO EM JULGADO DA CONDENAÇÃO EM MOMENTO ANTERIOR À PUBLICAÇÃO DO DECRETO PRESIDENCIAL. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Para fins de apuração do requisito objetivo à concessão de comutação da pena devem ser apuradas todas as condenações definitivas com trânsito em julgado anterior à data da publicação do decreto presidencial.
+2. O fato da guia de execução penal ter sido juntada em momento posterior à publicação do Decreto 8.380/2014 não impede a consideração de referida condenação para fins de aferição do requisito objetivo, uma vez que o seu trânsito em julgado ocorreu em momento anterior. Precedentes.
+3. Segundo o disposto na Súmula 568 desta Corte, "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+4. Agravo Regimental desprovido (AgRg no REsp 1630465/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 23/10/2017).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimações necessárias.
