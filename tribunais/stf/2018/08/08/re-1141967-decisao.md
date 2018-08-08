@@ -1,0 +1,18 @@
+Decisão
+    Trata-se de Recurso Extraordinário interposto contra decisão do Tribunal Regional Federal da 4ª Região assim ementado (Doc. 10, e-STJ fl. 687):
+    “CONTRIBUIÇÃO SOCIAL. EMPREGADOR RURAL PESSOA FÍSICA. RECEITA BRUTA DA PRODUÇÃO. FOLHA DE SALÁRIOS. LEIS NºS 8.540, DE 1992, E 10.256, DE 2001. DIREITO DE RESTITUIÇÃO DA DIFERENÇA.
+    É indevida a contribuição social sobre a receita bruta da comercialização da produção, ao empregador rural pessoa física, por força das leis nº 8.540, de 1992, e 10.256, de 2001, tendo ele o direito de obter a restituição da diferença entre os valores recolhidos a tal título e os valores correspondentes à contribuição social sobre a folha de salários, contribuição essa cuja exigência ficou restaurada por força do reconhecimento da inconstitucionalidade das referidas leis”.
+    No apelo extremo, com amparo no artigo 102, III, a, da Constituição Federal, o recorrente sustenta que o acórdão recorrido violou dispositivos constitucionais.
+    É o relatório. Decido.
+    Quanto à irresignação do recorrente acerca de eventual compensação determinada pelo Juízo a quo para que tenha direito à repetição de indébito, verifica-se que esta CORTE, no julgamento do RE 718.874-RG (Rel. Min. ALEXANDRE DE MORAES, Tema 669), fixou a seguinte tese:
+    “É constitucional formal e materialmente a contribuição social do empregador rural pessoa física, instituída pela Lei 10.256/2001, incidente sobre a receita bruta obtida com a comercialização de sua produção”.
+    Eis a ementa do julgado:
+    “TRIBUTÁRIO. EC 20/98. NOVA REDAÇÃO AO ARTIGO 195, I DA CF. POSSIBILIDADE DE EDIÇÃO DE LEI ORDINÁRIA PARA INSTITUIÇÃO DE CONTRIBUIÇÃO DE EMPREGADORES RURAIS PESSOAS FÍSICAS INCIDENTE SOBRE A COMERCIALIZAÇÃO DA PRODUÇÃO RURAL. CONSTITUCIONALIDADE DA LEI 10.256/2001. 1.A declaração incidental de inconstitucionalidade no julgamento do RE 596.177 aplica-se, por força do regime de repercussão geral, a todos os casos idênticos para aquela determinada situação, não retirando do ordenamento jurídico, entretanto, o texto legal do artigo 25, que, manteve vigência e eficácia para as demais hipóteses. 2.A Lei 10.256, de 9 de julho de 2001 alterou o artigo 25 da Lei 8.212/91, reintroduziu o empregador rural como sujeito passivo da contribuição, com a alíquota de 2% da receita bruta proveniente da comercialização da sua produção; espécie da base de cálculo receita, autorizada pelo novo texto da EC 20/98. 3. Recurso extraordinário provido, com afirmação de tese segundo a qual É constitucional formal e materialmente a contribuição social do empregador rural pessoa física, instituída pela Lei 10.256/01, incidente sobre a receita bruta obtida com a comercialização de sua produção.”
+    O acórdão recorrido não divergiu desse entendimento devendo, portanto, ser mantido.
+    Quanto à discussão acerca da constitucionalidade da incidência da contribuição destinada ao SENAR sobre a receita bruta proveniente da comercialização da produção rural, esta SUPREMA CORTE, no RE 816.830-RG, Rel. Min. DIAS TOFFOLI, Tema 801, reconheceu a repercussão geral da matéria.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO e, quanto à contribuição destinada ao SENAR sobre a receita bruta proveniente da comercialização da produção rural, com fundamento no art. 1.036 e seguintes do Código de Processo Civil de 2015 e no art. 328, parágrafo único, do Regimento Interno do STF, determino a DEVOLUÇÃO dos autos ao Juízo de origem para que aguarde a decisão de mérito do Supremo no precedente (Tema 801).
+    Publique-se.
+    Brasília, 8 de agosto de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
