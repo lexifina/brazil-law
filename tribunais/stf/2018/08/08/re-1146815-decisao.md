@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Estado de São Paulo. Aparelhado o recurso na violação do art. 40, §§ 1º, 3º, 8º e 17, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, no sentido da possibilidade da concessão de aposentadoria especial a policiais civis nos termos da Lei Complementar nº 51/1995, recepcionada pela Constituição Federal de 1988, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PREVIDENCIÁRIO. RECEPÇÃO CONSTITUCIONAL DO ART. 1º, INC. I, DA LEI COMPLEMENTAR N. 51/1985. ADOÇÃO DE REQUISITOS E CRITÉRIOS DIFERENCIADOS PARA A CONCESSÃO DE APOSENTADORIA A SERVIDORES CUJAS ATIVIDADES NÃO SÃO EXERCIDAS EXCLUSIVAMENTE SOB CONDIÇÕES ESPECIAIS QUE PREJUDIQUEM A SAÚDE OU A INTEGRIDADE FÍSICA. 1. Reiteração do posicionamento assentado no julgamento da Ação Direta de Inconstitucionalidade n. 3.817, Relatora a Ministra Cármen Lúcia, da recepção do inc. I do art. 1O da Lei Complementar n. 51/1985 pela Constituição. 2. O Tribunal a quo reconheceu, corretamente, o direito do Recorrido de se aposentar na forma especial prevista na Lei Complementar 51/1985, por terem sido cumpridos todos os requisitos exigidos pela lei. 3. Recurso extraordinário ao qual se nega provimento.” (RE 567110, Relator(a): Min. CÁRMEN LÚCIA, Tribunal Pleno, REPERCUSSÃO GERAL - MÉRITO DJe 11-04-2011)
+    Compreensão diversa exigiria a análise da legislação infraconstitucional aplicável e o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO SERVIDOR PÚBLICO ESTADUAL. POLICIAL CIVIL. APOSENTADORIA ESPECIAL. LEI COMPLEMENTAR 51/1985. POSSIBILIDADE. RE 567.110. TEMA 26. INTEGRALIDADE E PARIDADE. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL E DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MANDADO DE SEGURANÇA. INAPLICABILIDADE DO ARTIGO 85, § 11, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.” (ARE 1098111 AgR, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 04/04/2018, PROCESSO ELETRÔNICO DJe-073 DIVULG 16-04-2018 PUBLIC 17-04-2018)
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 08 de agosto de 2018.
+Ministra Rosa Weber
+Relatora
