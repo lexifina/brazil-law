@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo manejado pelo Instituto Nacional de Colonização e Reforma Agrária, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 1.032):
+CIVIL E PROCESSUAL CIVIL. AÇÃO REINVIDICATÓRIA DE DOMÍNIO. INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA (INCRA). BEM IMÓVEL DE PROPRIEDADE DA UNIÃO. ILEGITIMIDADE ATIVA.
+1. "Versando a controvérsia instaurada nos autos acerca da alegação de domínio, e havendo discussão quanto ao seu legítimo titular, como no caso, não dispõe o Instituto Nacional de Colonização e Reforma Agrária - INCRA de legitimidade para ingressar no feito, ainda que na condição de assistente do promovido, sob o fundamento de que a área pertenceria à União Federal, na medida em que não pode postular, em nome próprio, a defesa da suposta proprietária, em face do que dispõe o art. 62 do CPC" (TRF - 12 Região, AC 2006.36.03.003541-9/MT, Rel. Desembargador Federal Souza Prudente, 52 Turma, e-DJF1 11/05/2012, p. 1452).
+2. Apelação a que se dá provimento.
+Nas razões do recurso especial, a parte agravante sustenta que a área em comento foi destinada à reforma agrária, sendo o INCRA, como representante legal da União, parte legítima para propor a presente ação reivindicatória.
+O Ministério Público Federal, no parecer às fls. 1.155/1.160, opinou pelo desprovimento do agravo.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Feita essa observação, tenho que o agravo não deve prosperar.
+Discute-se nos autos a legitimidade ativa do INCRA para discutir, em ação reivindicatória, terras cujo domínio é da União.
+Sobre o tema, a jurisprudência desta Corte já se pacificou no sentido de que "o INCRA não é parte legítima para discutir em juízo questões possessórias relativas a domínio de imóvel que não lhe pertence, inclusive quando se tratar de bens supostamente da União, como no caso dos autos" (AgInt no REsp 1.405.489/MT, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 20/02/2018, DJe 05/03/2018).
+Em igual sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO DE CONTRATO DE ALIENAÇÃO DE TERRAS PÚBLICAS E CANCELAMENTO, EM FAVOR DA UNIÃO, DE REGISTRO IMOBILIÁRIO, COM PEDIDO DE IMISSÃO NA POSSE. IMÓVEL RURAL DE DOMÍNIO DA UNIÃO. AÇÃO AJUIZADA PELO INCRA. ILEGITIMIDADE ATIVA AD CAUSAM DO INCRA. JURISPRUDÊNCIA DOMINANTE DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão monocrática publicada em 21/08/2017, que julgara recurso interposto contra decisum publicado na vigência do CPC/73.
+II. Trata-se, na origem, de ação de resolução de contrato de alienação de terras públicas e cancelamento, em favor da União, de registro imobiliário, com pedido de imissão na posse, ajuizada pelo Instituto Nacional de Colonização e Reforma Agrária - INCRA em face de [NOME] e outros. O acórdão recorrido deu pela ilegitimidade ativa do INCRA "para propor ação em nome da União, visando, defender o domínio de terras públicas da União, ainda que tenha legitimidade para implantar as políticas públicas de reforma agrária e de assentamentos rurais, por força de regulamentação legal". Aduziu, ainda, que, "sendo o INCRA uma autarquia federal, dotada de personalidade jurídica e de patrimônio autônomos e distintos dos da União Federal, não detém legitimidade para discutir, em nome próprio, o domínio do bem imóvel questionado nos autos, sob pena de violação ao que dispõe o art. 6º do Código de Processo Civil".
+III. De acordo com a orientação jurisprudencial do STJ, "o INCRA não é parte legítima para discutir em juízo questões possessórias relativas a domínio de imóvel de propriedade da União. Precedente: REsp 1.063.139/MA, Rel. Ministro HERMAN BENJAMIN, Rel. p/Acórdão Ministra ELIANA CALMON, SEGUNDA TURMA, DJe 27/3/2009.)" (STJ, AgRg no REsp 1.403.417/MT, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 19/08/2014). Em igual sentido: STJ, AgRg no AREsp 655.485/RR, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 25/09/2015.
+IV. Estando o acórdão recorrido em consonância com a jurisprudência sedimentada nesta Corte, merece ser mantida a decisão ora agravada, em face do disposto no enunciado da Súmula 568 do STJ.
+V. Agravo interno improvido.
+(AgInt no REsp 1.404.187/RO, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 10/04/2018, DJe 17/04/2018)
+PROCESSUAL CIVIL E ADMINISTRATIVO - AÇÃO REIVINDICATÓRIA - POSSEIROS - REFORMA AGRÁRIA - ILEGITIMIDADE DO INCRA.
+1. O INCRA é parte ilegítima para discutir judicialmente questão possessória fundada em domínio.
+2. Reconhecendo o Tribunal a ilegitimidade ativa do INCRA, não examinou as demais questões pela inutilidade de assim proceder.
+3. Recurso especial não provido.
+(REsp 1.063.139/MA, Rel. Ministro HERMAN BENJAMIN, Rel. p/ Acórdão Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 11/11/2008, DJe 27/03/2009)
+Desse modo, estando o acórdão recorrido em consonância com a jurisprudência desta Corte, o presente agravo não tem como prosperar.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
