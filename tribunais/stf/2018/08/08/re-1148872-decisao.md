@@ -1,0 +1,21 @@
+RECURSO EXTRAORDINÁRIO. DIREITO PREVIDENCIÁRIO. REAJUSTE DE BENEFÍCIO. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. RECURSO DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que afastou o transcurso de prazo decadencial de revisão de benefício previdenciário concedido anteriormente à edição da Medida Provisória 1.523/1997.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, caput e XXXVI e 201, § 1º, da Constituição Federal.
+    Em primeiro exame de admissibilidade, o Tribunal de origem determinou o retorno dos autos ao relator do recurso no segundo grau de jurisdição para a apreciação da controvérsia à luz do entendimento firmado pelo Supremo Tribunal Federal na análise do Tema 313 da repercussão geral (doc. 58).
+    Em sede de juízo de retratação, a Turma julgadora houve por bem manter a decisão anteriormente proferida (doc. 64).
+    É o relatório. DECIDO.
+    O recurso não merece prosperar.
+    O Tribunal de origem assentou que, na hipótese dos autos, não se pretende a revisão do ato de concessão do benefício previdenciário.
+    Assim, acolher a pretensão da parte recorrente e divergir do entendimento firmado pelo acórdão recorrido, no presente caso, demandaria o reexame do conjunto fático-probatório do autos, o que se revela inviável em sede de recurso extraordinário, a teor da Súmula 279 do Supremo Tribunal Federal, que dispõe, in verbis: “Para simples reexame de prova não cabe recurso extraordinário“. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. DECADÊNCIA. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA E IMPOSSIBILIDADE DE REEXAME DE PROVAS: SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. ALEGADA OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL: INEXISTÊNCIA DE REPERCUSSÃO GERAL (TEMA 660). VERBA HONORÁRIA MAJORADA EM 1%, PERCENTUAL QUE SE SOMA AO FIXADO NA ORIGEM, OBEDECIDOS OS LIMITES DOS §§ 2º, 3º E 11 DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL, RESSALVADA EVENTUAL CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA, E MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 1104780-AgR, Rel. Min. Cármen Lúcia, Tribunal Pleno, DJe de 13/06/2018)
+    “DIREITO PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. DECADÊNCIA. ALEGAÇÃO DE OFENSA AO ART. 5º, XXXVI, DA CONSTITUIÇÃO FEDERAL. ATO JURÍDICO PERFEITO, COISA JULGADA E DIREITO ADQUIRIDO. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 09.9.2014.
+    1. O exame da alegada ofensa ao art. 5º, XXXVI, da Lei Maior, nos moldes com que solvida a controvérsia pelas instâncias de origem, bem como observados os limites com que devolvida a matéria à apreciação deste Supremo Tribunal Federal demandaria vedada incursão na legislação infraconstitucional aplicada ao caso (art. 102 da Constituição da República).
+    2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa direta e literal a preceito da Constituição da República.
+    3. Agravo regimental conhecido e não provido.” (ARE 879.239-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 8/9/2015).
+    Por fim, observo que o presente recurso foi interposto sob a égide da nova lei processual, o que impõe a aplicação de sucumbência recursal.
+    Ex positis, DESPROVEJO o recurso, com fundamento no artigo 932, VIII, do Código de Processo Civil de 2015 c/c o artigo 21, § 1º, do RISTF, e CONDENO a parte sucumbente nesta instância recursal ao pagamento de honorários advocatícios majorados ao máximo legal (artigo 85, § 11, do CPC/2015).
+    Publique-se.
+    Brasília, 8 de agosto de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmen’te
