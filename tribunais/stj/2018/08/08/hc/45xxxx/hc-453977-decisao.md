@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME] contra acórdão por meio do qual o Tribunal de Justiça do Estado de Minas Gerais denegou o writ impetrado perante aquela instância (autos de n. 0054111-38.2016.8.13.0194) (e-STJ fl. 44):
+APELAÇÕES CRIMINAIS - TRÁFICO DE DROGAS - NULIDADE DO PROCESSO DECLARADA DE OFÍCIO - NECESSIDADE - OFENSA AO ARTIGO 400 DO CÓDIGO DE PROCESSO PENAL - PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL E DO SUPERIOR TRIBUNAL DE JUSTIÇA. Nos termos da decisão do Pleno do Supremo Tribunal Federal (HC 127.900/AM), independentemente dos ritos processuais estabelecidos na legislação especial, é obrigatório que o interrogatório do réu seja realizado ao final da instrução, na forma do disposto no artigo 400 do Código de Processo Penal, em observância aos princípios constitucionais do contraditório e da ampla defesa. A Suprema Corte decidiu, ainda, que se aplicará o novo entendimento somente aos processos nos quais a instrução ainda não tiver sido encerrada até a publicação da ata do referido julgamento, que se deu em 11/03/2016. Constatado que o interrogatório do réu não ocorreu ao final da instrução e que o ato processual se deu posteriormente à publicação da ata do julgamento do habeas corpus pelo Pleno do Supremo, é necessário anular o processo a partir da audiência de instrução e julgamento.
+A defesa alega, em síntese, que está configurado o constrangimento ilegal, tendo em vista que o prazo já longo da segregação, efetivada em 28/9/2016, será somado ao novo curso do processo, que retornará à audiência de instrução e julgamento, devido à anulação parcial do feito, de ofício, pela Corte de origem.
+Em liminar e no mérito, pede que seja revogada a prisão preventiva.
+O pleito urgente foi indeferido (e-STJ fls. 58/59).
+Prestadas as informações (e-STJ fls. 64/66), o Ministério Público Federal manifestou-se pela prejudicialidade do writ (e-STJ fl. 173).
+É o relatório. Decido.
+Consoante as informações prestadas pelo Juiz a quo, em 28/6/2018 foi relaxada a prisão preventiva do réu, ora paciente, reconhecendo-se o excesso de prazo na duração da custódia (e-STJ fl. 65).
+Assim, fica sem objeto o pedido contido na inicial, em que a defesa se insurgia contra a custódia cautelar do paciente.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique. Intime-se.
