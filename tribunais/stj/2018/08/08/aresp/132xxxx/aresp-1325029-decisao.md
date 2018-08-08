@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo manejado pelo MUNICÍPIO DE JEQUIÉ contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado da Bahia, assim ementado (fl. 76):
+CONSTITUCIONAL E PROCESSUAL CIVIL. AÇÃO DE COBRANÇA DE DIFERENÇA DE 13º SALÁRIO (GRATIFICAÇÃO NATALINA) JULGADA PROCEDENTE. RECURSO DE APELAÇÃO.
+I - A Autora/Apelada é servidora municipal concursada e, por este motivo, não recebe qualquer remuneração variável. Pelo contrário, sua remuneração é fixada em Lei, razão pela qual o artigo 2º, do Decreto 57.155/1965 não pode ser aplicado no caso concreto.
+Assevere-se, ainda, que o Município Apelante nem mesmo demonstrou quais seriam as parcelas variáveis que integrariam a remuneração da Autora e poderiam configurar a hipótese prevista na norma acima citada.
+II - É necessário destacar que os contracheques carreados aos autos pela Autora (fls. 10/16) evidenciam que os valores que esta percebia a título de gratificação natalina eram pagos em valor menor, não considerando a remuneração integral, violando os preceitos estabelecidos nos artigos 7º, inciso VIII; e 39, § 3º, da Constituição Federal de 1988.
+III - Com referência ao pedido de redução dos honorários advocatícios sucumbenciais, não assiste razão a pretensão do Recorrente, posto que a verba honorária fixada, no valor de 10% (dez por cento) sobre o valor do débito atualizado, mesmo sendo a Fazenda Pública vencida, guarda proporcionalidade ao grau de zelo do profissional, a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço, estando em consonância com a regra prevista no artigo 20, §4º, do Código de Processo Civil.
+RECURSO CONHECIDO E IMPROVIDO.
+Opostos embargos declaratórios, foram rejeitados (fls. 96/102).
+Nas razões do recurso especial, a parte agravante aponta violação ao artigo 535, II, do Código de Processo Civil, sustentando ter havido "omissão acerca de ponto essencial ao deslinde do feito referente à efetiva aplicação do art. 1º, da Lei nº 4.090/62 c/c art. 2º do Decreto nº 57.155/65, uma vez que o cálculo do 13º salário realizado pelo Município de Jequié utilizou como base as determinações das referidas normas infraconstitucionais" (fl. 109).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+A irresignação não merece prosperar.
+A respeito do pagamento de diferenças relativas ao 13º salário, colhe-se do acórdão atacado a seguinte fundamentação (fl. 79):
+Examinando os fólios, em especial os documentos colacionados aos autos pela Autora/Apelada (fls. 05/16), constato que a mesma é servidora municipal concursada e, por este motivo, não recebe qualquer remuneração variável. Pelo contrário, sua remuneração é fixada em Lei, razão pela qual o dispositivo citado não pode ser aplicado no caso concreto.
+Assevere-se, ainda, que o Município Apelante nem mesmo demonstrou quais seriam as parcelas variáveis que integrariam a remuneração da Autora e poderiam configurar a hipótese prevista na norma acima transcrita.
+Ademais, é necessário destacar que os contracheques carreados aos autos pela Autora (fls. 10/16) evidenciam que os valores que esta percebia a título de gratificação natalina eram pagos em valor menor, não considerando a remuneração integral, violando os preceitos estabelecidos nos artigos 7º, inciso VIII; e 39, § 3º, da Constituição Federal de 1988:
+ ..
+Ademais, no julgamento dos embargos declaratórios, a Corte de origem maifestou-se (fls. 98/99):
+Na hipótese, constata-se que inexistem vícios de omissão, obscuridade ou contradição no julgado que, todavia, deslindou a contenda de forma contrária aos interesses do Embargante.
+Consoante restou demonstrado no acórdão vergastado, a remuneração da Embargada, por ser servidora pública municipal, é fixada em Lei, não havendo possibilidade de recebimento de qualquer remuneração variável. Outrossim, o Embargante "nem mesmo demonstrou quais seriam as parcelas variáveis que integrariam a remuneração da Autora e poderiam configurar a hipótese prevista" no art. 2º, do Decreto n. 57.155/1965.
+Constata-se, por conseguinte, que o acórdão recorrido, de maneira explícita e clara, tratou do suposto vício de omissão apontado pelo Embargante, porquanto asseverou expressamente que "os contracheques carreados aos autos pela Autora (fls. 10/16) evidenciam que os valores que esta percebia a título de gratificação natalina eram pagos em valor menor, não considerando a remuneração integral, violando os preceitos estabelecidos nos artigos 7º, inciso VIII; e 39, § 3º, da Constituição Federal de 1988" (fl. 77/78).
+Assim, verifica-se não ter ocorrido ofensa ao art. 535 do CPC, na medida em que o Tribunal de origem considerou que o ente municipal não comprovou as alegações de regularidade nos pagamentos efetuados, apreciando integralmente a controvérsia posta nos presentes autos.
+Não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVOS REGIMENTAIS EM RECURSOS ESPECIAIS. ART. 535, II, DO CPC. INEXISTÊNCIA DE VÍCIOS NO ACÓRDÃO RECORRIDO.
+1. Não se vislumbra a ocorrência de nenhum vício do artigo 535 do CPC a reclamar a anulação do julgado, estando o acórdão recorrido devidamente fundamentado. A jurisprudência desta Corte é uníssona no sentido de que decisão contrária ao interesse da parte não configura ausência de fundamentação ou negativa de prestação jurisdicional.
+2. Agravos regimentais não providos.
+(AgRg no REsp 1516817/PE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 17/03/2016, DJe 01/04/2016)
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
