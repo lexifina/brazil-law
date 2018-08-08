@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por Guarani S/A, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 184/185):
+APELAÇÃO CÍVEL. 5ª CÂMARA EXTRAORDINÁRIA DE DIREITO PÚBLICO. Embargos à execução fiscal. Multa ambiental. Queima de palha de cana-de-açúcar sem autorização. Danos ambientais. Sentença de primeiro grau que julgou improcedentes os embargos.
+1. Objeção. Aventada nulidade da r. sentença de primeiro grau por cerceamento de defesa. Não ocorrência. Produção de provas vindicada que carecem de plausibilidade. Objeção rechaçada.
+2. Mérito. Processo Administrativo. Nulidade. Inadmissibilidade do reconhecimento nesse momento. Artigo 103, do Decreto Estadual nº 8.468/76, que condiciona o conhecimento do recurso administrativo ao recolhimento prévio da multa. Hipótese em que, todavia, a embargante deixou de buscar oportunamente as medidas cabíveis a fim de ver a defesa administrativa intentada conhecida, de sorte que descabe, nesse momento, seja reconhecida a nulidade da CDA e, consequentemente, da execução. Inaplicabilidade, no caso, da Súmula Vinculante nº 21, do Pretório Excelso, conquanto descabida a atribuição de efeitos retroativos à mesma. Precedentes desta Corte.
+2.1. Infração corretamente capitulada, uma vez que infringidos na hipótese, incontroversamente, disposições do Decreto Estadual nº 8.468/76, no instante em que constatado que a queima de palha de cana-de-açúcar realizada pela embargante implicou em poluição ambiental e incômodos à população. Não incidência, no caso, das disposições da Lei Estadual nº 10.547/00, conquanto não se verificou afronta à referida norma.
+2.2. Multa. Aplicação realizada com esteio na legislação de regência, notadamente, o Decreto Estadual nº 8.468/76, tendo se observado com retidão as circunstâncias que permeiam o caso. Inexistência de afronta à razoabilidade e proporcionalidade. Empresa autuada que é reincidente na infração. Inadmissibilidade de redução da multa nos termos do permissivo previsto no § 2o, do artigo 102, do Decreto Estadual nº 8.468/76, uma vez que não demonstrou a embargante a adoção de qualquer medida tendente a sanar os danos causados.
+3. Sentença que julgou improcedentes os embargos mantida.
+Recurso não provido.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC/73.
+Nas razões do recurso especial, a parte agravante aponta divergência jurisprudencial e violação ao art. 2º, § 2º, da Lei de Introdução às Normas do Direito Brasileiro, sustentando, em resumo, que devem ser aplicadas as disposições do Decreto Estadual nº 47.700/03 quanto à sanção de multa, por serem mais específicas que as do Decreto Estadual nº 8.468/76.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Feita essa observação, verifica-se que o inconformismo não merece prosperar.
+Isso porque a matéria pertinente ao art. 2º, § 2º, da Lei de Introdução às Normas do Direito Brasileiro não foi apreciada pela instância judicante de origem, tampouco constou dos embargos declaratórios opostos para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. EMBARGOS À EXECUÇÃO DE SENTENÇA. URP. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. VIOLAÇÃO À COISA JULGADA. ACÓRDÃO RECORRIDO ASSENTADO NO CONJUNTO FÁTICO-PROBATÓRIO DO FEITO. REEXAME. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+ ..
+2. Carece do necessário prequestionamento, a matéria não apreciada nem decidida pela Corte de origem, e que não foi objeto dos embargos de declaração opostos na origem. Incide ao caso a Súmula 282/STF.
+ ..
+5. Agravo interno não provido.
+(AgInt no REsp 1.647.724/RN, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 7/6/2018, DJe 15/6/2018)
+Não bastasse isso, observa-se que a pretensão é incabível na presente via recursal ante a incidência da Súmula 280/STF, tendo em vista que a controvérsia relativa ao presente feito foi dirimida à luz de interpretação de lei local, de forma que eventual violação de lei federal seria reflexa, e não direta, porque, para o deslinde da controvérsia, seria imprescindível a interpretação das normas estaduais, descabendo, portanto, o exame da questão em sede de recurso especial.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
