@@ -1,0 +1,35 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO NÃO CONHECIDO.
+1. É inviável o agravo interno que deixa de impugnar especificamente os fundamentos da decisão agravada (CPC/2015, art. 1.021, § 1º).
+2. Recurso manifestamente inadmissível, a ensejar a aplicação da multa prevista no art. 1.021, § 4º, do CPC, no montante equivalente a 1% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º do citado artigo de lei.
+3. Agravo interno não conhecido, com aplicação de multa.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, não conhecer do agravo interno, com aplicação de multa, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator:
+Trata-se de agravo interno contra decisão de fls. 751/755, da lavra desta relatoria, que conheceu do agravo para não conhecer do recurso especial, ante a incidência dos óbices da Súmula 211/STJ e da Súmula 283/STF.
+Irresignada, a parte agravante sustenta, em síntese: "requer o provimento do recurso, diante de ofensa do artigo 105, III, a, Constituição da República, abusiva perda ilegítima da casa do recorrente, trauma psicoemocional sofrido. Não pago preço do lance na expropriação forçada da propriedade fls. 426/452/523, ofendido direito adquirido, ofendido ato jurídico perfeito fls 452 "excetuado lanço por preço vil (inferior a 65% da avaliação)". Invalida arrematação, não pago preço do lance fls. 452, praça realizada por falso edital de praça fls 486. Efeito negativo ao Art. 102, III, a, CR, ofendido. Causa de perda ilegítima da casa do recorrente, expropriação forçada da propriedade do imóvel realizada por falso edital de praça fis. 486 "pelo maior preço oferecido", não criado dentro do processo, não originado por decisão judicial; não publicado no órgão oficial ato ladrão, ato de Estado inepto, ato de império inválido, ato do juiz improbo corrupto a ordem da Constituição da República disponível PROJUDITJPR de livre consulta, processo eletrônico 0001818-66.2000.8.16.0001,Vara Civil da Comarca de Curitiba" (fl. 823).
+Sem impugnação da parte agravada (fl. 826).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator:
+O agravo foi conhecido para não conhecer do apelo nobre, ante a incidência dos óbices da Súmula 211/STJ e da Súmula 283/STF.
+Entretanto, as razões de agravo interno não infirmam os fundamentos utilizados na decisão ora agravada, tampouco a parte agravante defende a existência do prequestionamento dos temas devolvidos no recurso especial, nem sustenta um possível enfrentamento, nas razões do apelo nobre, de todos os fundamentos constantes do v. acórdão recorrido, como forma de repelir a incidência dos óbices sumulares em questão.
+Nesse contexto, o inconformismo não observa a regra prevista no art. 1.021, § 1º, do CPC/2015, que estabelece:
+Art. 1.021. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.
+§ 1º Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada.
+Ressalte-se que o respeito a tal regra não se trata de mero formalismo processual. Ante o princípio processual da dialeticidade, é necessário sejam impugnados, especificamente, todos os fundamentos da decisão agravada, sob pena de não conhecimento do recurso. Registre-se, ainda, que a necessidade de impugnação dos fundamentos da decisão agravada está sedimentada na Súmula 182/STJ, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante a ausência de impugnação específica dos fundamentos da decisão agravada, constata-se a manifesta inadmissibilidade do agravo interno, ensejando não só o seu não conhecimento, mas também a aplicação da multa pecuniária prevista no § 4º do art. 1.021 do CPC/2015, que dispõe:
+Art. 1.021. (..)
+§ 4º Quando o agravo interno for declarado manifestamente inadmissível ou improcedente em votação unânime, o órgão colegiado, em decisão fundamentada, condenará o agravante a pagar ao agravado multa fixada entre um e cinco por cento do valor atualizado da causa.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INCIDÊNCIA DA SÚMULA 182 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, CPC. AGRAVO NÃO CONHECIDO.
+1. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Incide na espécie a Súmula 182/STJ.
+2. O recurso mostra-se manifestamente inadmissível, a ensejar a aplicação da multa prevista no artigo 1.021, § 4º, do CPC, no percentual de 1% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º, do citado artigo de lei.
+3. Agravo regimental não conhecido, com aplicação de multa. (AgRg no AREsp 842.889/RS, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe de 11.4.2016).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. APLICAÇÃO ANALÓGICA DA SÚMULA 182/STJ. RECURSO MANIFESTAMENTE INFUNDADO. IMPOSIÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC/2015. AGRAVO NÃO CONHECIDO.
+1. Nos termos do art. 1021, § 1º, do CPC/2015, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada. Incidência, por analogia, da Súmula n. 182/STJ.
+2. A interposição de recurso manifestamente inadmissível ou improcedente autoriza a imposição de multa, com fundamento no art. 1.021, § 4º, do CPC/2015.
+3. Agravo interno não conhecido, com a condenação da agravante ao pagamento de multa no percentual de 1% (um por cento) sobre o valor corrigido da causa, ficando condicionada a interposição de qualquer outro recurso ao depósito do respectivo valor (art. 1.021, § 5º, do CPC/2015). (AgInt no AREsp 158.605/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, DJe de 12.9.2016).
+Ante o exposto, não conheço do agravo interno, aplicando à parte agravante a multa do art. 1.021, § 4º, do CPC/2015, no importe de 1% (um por cento) sobre o valor atualizado da causa, ressalvando que a interposição de qualquer outro recurso está condicionada ao depósito prévio da respectiva quantia, na forma do § 5º do mesmo dispositivo legal.
+É como voto.
