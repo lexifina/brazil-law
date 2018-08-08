@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial manejado por [NOME], Mesa e Banho Ltda. - EPP com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 352):
+EXECUÇÃO FISCAL. PENHORA SOBRE PERCENTUAL DO FATURAMENTO. CABIMENTO.
+A penhora sobre o faturamento da empresa é admitida em casos em que se mostre necessária ou adequada a medida.
+Opostos embargos declaratórios, foram rejeitados (fls. 373/376).
+A parte recorrente aponta violação aos arts. 1.022, II, 11 e 489, §1º, IV, e 805 do CPC/2015. Sustenta que: (I) a despeito dos embargos de declaração, o Tribunal de origem quedou-se silente em relação às teses nele suscitadas e (II) "a penhora sobre o faturamento somente é admitida quando esgotados todos os meios de localização de bens livres e desembaraçados, restando comprovada a inexistência de qualquer bem que possa garantir a demanda. No entanto, resta incontroverso nos autos, através da leitura do próprio acórdão recorrido que a Recorrente não está com suas atividades paralisadas, bem como, possui bens que servem para a garantia total da presente demanda, tendo inclusive nomeado em duas oportunidades bens, que foram rejeitados pela União" (fl. 392)
+É o relatório.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, verifica-se que a Corte de origem deferiu a medida em razão da constatação de que houve o cumprimento de diligências necessárias antes que fosse possível o deferimento da referida penhora, conforme se observa dos seguintes trechos do aresto recorrido (fls. 349/350):
+A penhora sobre o faturamento da empresa não está vedada pelo ordenamento jurídico, tendo, inclusive, sua validade reconhecida por diversos acórdãos desta Corte e do STJ desde que seja comprovada a inexistência de outros bens ou a possibilidade de se frustrar o procedimento executório. sendo certo que se trata de medida extrema, não devendo ser deferida quando da existência de outros bens a serem constritos. Assim, existindo outros bens penhoráveis, não há falar, a princípio, em possibilidade de penhora sobre o faturamento. No sentido do expendido:
+ ..
+Entretanto, no caso vertente, inobstante a própria empresa executada ter oferecido à penhora bens móveis, impraticável a constrição dos mesmos. Consoante bem esclarecido pela União (evento 10), os bens ofertados são de difícil alienação (fronhas e lençóis), o que impossibilita o acolhimento da nomeação à penhora. O percentual fixado na decisão agravada está em harmonia com o que vem sendo adotado pela Corte, em casos similares, consoante ilustra o seguinte julgado:
+ ..
+Desse modo, para afastar a decretação da penhora sobre o faturamento, como pleiteado pela parte agravante, seria necessária a incursão no quadro fático-probatório dos autos, o que é vedado nesta Corte Superior ante o óbice da Súmula 7/STJ.
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PENHORA SOBRE FATURAMENTO. VIOLAÇÃO AOS ARTS. 458 E 535, INC. II, DO CPC. NÃO OCORRÊNCIA. OBSERVÂNCIA AOS REQUISITOS PARA DETERMINAÇÃO DA MEDIDA CONSTRITIVA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Não há falar em violação aos arts. 458 e 535 do CPC, quando a Corte de origem analisa e decide devidamente os recursos apresentados, ressaltando-se que não está o órgão julgador obrigado a manifestar-se sobre todos os argumentos apresentados.
+2. Havendo o Tribunal de origem registrado a observância aos requisitos necessários à adoção da medida constritiva e que esta não importou em ônus excessivo à recorrente, infirmar dita conclusão demandaria o revolvimento do acervo fático-probatório dos autos, providência que encontra óbice na Súmula 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 758.508/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 20/10/2015, DJe 05/11/2015)
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
