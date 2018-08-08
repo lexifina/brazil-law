@@ -1,0 +1,25 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC/2015. AGRAVO NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo interposto contra decisão do Tribunal de Justiça de Mato Grosso que não admitiu o recurso especial apresentado por Unimed Norte Mato Grosso Cooperativa Trabalho Médico, com base no art. 105, III, c, da CF, desafiando acórdão assim ementado (e-STJ, fl. 409):
+APELAÇÃO CÍVEL  AÇÃO REVISIONAL E DECLARATÓRIA DE NULIDADE DE CLÁUSULAS ABUSIVAS  CONTRATO ANTERIOR À LEI 9.656/98  NÃO COMPROVAÇÃO DA POSSIBILIDADE DE ADEQUAÇÃO DO PLANO  ART. 35 DA LEI N. 9.656/98  APLICAÇÃO DESTA  LIMITAÇÃO DO TEMPO DE INTERNAÇÃO, EXAMES E MEDICAMENTOS  IMPOSSIBILIDADE  SÚMULA N. 302 DO STJ  RECURSO DESPROVIDO.
+Nos termos do Art. 35 da Lei n. 9.656/98, deve ser oportunizado ao consumidor que pactuou contrato de plano de saúde anterior a citada Lei a possibilidade de adequar seu contrato a ela.
+"Súmula n. 302 do STJ: É abusiva a cláusula contratual de plano de saúde que limita no tempo a internação hospitalar do segurado."
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 480-487).
+Em suas razões de recurso especial (e-STJ, fls. 490-506), a recorrente alegou a existência de dissídio jurisprudencial, sustentando a legitimidade da negativa da cobertura contratual, uma vez que estava expressa no contrato, de acordo com a legislação consumerista. Aduziu, ainda, a exorbitância do valor da astreinte.
+Foram apresentadas contrarrazões (e-STJ, fls. 588-601).
+O Tribunal de origem não admitiu o processamento do recurso especial em virtude da ausência de indicação do dispositivo supostamente violado, incidindo a Súmula n. 284/STF, sendo necessário tal procedimento mesmo nos casos de divergência jurisprudencial (e-STJ, fls. 612-614).
+Ao interpor o presente agravo, a agravante repisou os argumentos do recurso especial alegando, em síntese, que "em que pese o r. entendimento houve a interposição tempestiva do recurso de Embargos de Declaração sob nº. 19627/2017, contra a r. decisão que desproveu unanimemente o Recurso de Apelação" e que "para a jurisprudência do STJ, mesmo regidos pelo Código de Defesa do Consumidor, os contratos de planos de saúde podem restringir os direitos dos consumidores com cláusulas expressas e de fácil compreensão" (e-STJ, fls. 301-305).
+Brevemente relatado, decido.
+De início, é importante salientar que o presente agravo foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil (e-STJ, fl. 728), de maneira que é aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O Superior Tribunal de Justiça tem entendimento firmado de que cabe à agravante, nas razões do agravo em recurso especial, trazer argumentos para contestar a decisão do Tribunal de origem que negou seguimento ao recurso, justificando, tese a tese, o cabimento do apelo nobre, sob pena de não conhecimento (art. 932, III, do CPC/2015).
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DO ART. 932, III, DO CPC/2015.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - Razões de agravo interno que não impugnam especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus do Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, do CPC/2015.
+III - Agravo interno não conhecido.
+(AgInt no AREsp n. 884.901/SP, Relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 17/5/2016, DJe 27/5/2016).
+À luz da dialeticidade recursal, a agravante deve contestar motivadamente todos os fundamentos da decisão agravada, não sendo suficiente a apresentação de afirmações genéricas ou em sentido contrário ao julgado impugnado, nem a mera reiteração de argumentos já examinados por ocasião do julgamento do recurso anteriormente interposto (v.g. AgRg no Ag n. 1.056.913/SP, Relatora Ministra Eliana Calmon, Segunda Turma, julgado em 6/11/2008, DJe 26/11/2008; AgInt no AREsp n. 884.901/SP, Relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 17/5/2016, DJe 27/5/2016; e AgRg no AREsp n. 773.710/SP, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 10/5/2016, DJe 17/5/2016).
+No presente caso, a agravante deixou de impugnar, em suas razões do agravo, especificamente, o óbice da Súmula n. 284 do STF, uma vez que não demonstrou quais os dispositivos da legislação federal foram objeto do dissídio apontado no recurso especial.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
