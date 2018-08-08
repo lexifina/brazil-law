@@ -1,0 +1,51 @@
+DECISÃO
+TRIBUTÁRIO. RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC/1973. PIS/COFINS. ADMINISTRAÇÃO DE CARTÃO DE CRÉDITO E DÉBITO. CONCEITO DE FATURAMENTO. MATÉRIA CONSTITUCIONAL. RECURSO ESPECIAL DO CONTRIBUINTE A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto por BONANZA SUPERMERCADOS LTDA, com fundamento na alínea a do art. 105, III da CF/1988, objetivando a reforma do acórdão proferido pelo egrégio TRF da 5a. Região, assim ementado:
+TRIBUTÁRIO. INCIDÊNCIA DO PIS E DA COFINS. TAXA DE ADMINISTRAÇÃO DE CARTÃO DE CRÉDITO E DÉBITO. LEIS 9.718/98, 10.637/2002 E 10.833/2003.
+2. Nas razões do seu Apelo Nobre, a parte recorrente aponta, além de divergência jurisprudencial, violação do art. 535 do CPC, arts. 7o., 9o. e 97 do CTN, às Leis 9.718/1998, 10.637/2002 e 10.833/2003. Sustenta, em síntese, a ilegalidade da inclusão da taxa de administração dos cartões de crédito e de débito na base de cálculo do PIS e da COFINS.
+3. É o relatório.
+4. A insurgência não merece prosperar.
+5. Observa-se que o Tribunal de origem, ao contrário do alegado, manifestou-se fundamentadamente a respeito de todas as questões postas à sua apreciação e, ao final, decidiu contrariamente aos interesses da parte, que buscou, com os Embargos de Declaração, a reapreciação do mérito da causa. Logo, em virtude da não ocorrência de omissão, contradição, obscuridade e ausência de fundamentação não se verifica ofensa à regra ora invocada.
+6. É cediço, no STJ, que o juiz não fica obrigado a se manifestar sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu.
+7. Ademais, verifica-se que a matéria versada no presente Recurso Especial, por ser de cunho eminentemente constitucional, não pode ser decidida pelo STJ, consoante já decidiu esta Corte ao julgar casos análogos, em que também se discutia a incidência do PIS e da COFINS sobre a Taxa de Administração dos Cartões de Crédito e Débito. Confiram-se os julgados a seguir:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TAXA DE ADMINISTRAÇÃO DE CARTÕES. EXCLUSÃO DA BASE DE CÁLCULO DO PIS E COFINS. CONCEITO DE FATURAMENTO. TEMA ESTRITAMENTE CONSTITUCIONAL.
+1. A jurisprudência desta Corte consolidou-se no sentido de que a verificação se a taxa de administração dos cartões de débito e crédito deve integrar a base de cálculo do PIS e da COFINS incorre, fatalmente, na definição do conceito de faturamento previsto no art. 195, I, "b", da Constituição Federal, revestindo-se de matéria estritamente constitucional, cuja apreciação por meio de recurso especial fica vedada a esta Corte de Justiça, sob pena de invasão de competência atribuída ao STF. Precedentes: AgRg no REsp 1.431.640/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 28/8/2015; AgRg nos EDcl no REsp 1.427.892/SE, Rel. Ministro Humberto Martins, Segunda Turma, DJe 22/4/2015; AgRg no REsp 1.381.091/PE, Rel. Ministra Assussete Magalhães, Segunda Turma, DJe 3/12/2014; AgRg no REsp 1.377.482/PE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/4/2014.
+2. Agravo regimental não provido (AgRg no REsp. 1.377.295/PE, Rel. Min. BENEDITO GONÇALVES, DJe 28.10.2015).
+
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. TRIBUTÁRIO. AUSÊNCIA DE VIOLAÇÃO AO ART. 535, CPC. LEIS 9.718/98, 10.637/2002 E 10.833/2003. TAXA DE ADMINISTRAÇÃO DE CARTÃO DE CRÉDITO. EXCLUSÃO DA BASE DE CÁLCULO DO PIS E COFINS. CONCEITO DE FATURAMENTO. TEMA CONSTITUCIONAL.
+1. Analisar a possibilidade de incidência do PIS e COFINS sobre a taxa de Administração dos Cartões de Débito e Crédito implica análise do conceito de faturamento e receita bruta da contribuinte, pois depende da interpretação desses conceitos à luz do art. 195, I, da CF em sua redação original e atual. Exame inviável em sede de Recurso Especial.
+2. Agravo regimental não provido (AgRg no REsp. 1.377.482/PE, Rel. Min. MAURO CAMPBELL MARQUES, DJe 9.4.2014).
+
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO AO ART. 535, II, DO CPC. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. PIS E COFINS. TAXA DE ADMINISTRAÇÃO DE CARTÃO DE CRÉDITO. EXCLUSÃO DA BASE DE CÁLCULO DO PIS E DA COFINS. CONCEITO DE FATURAMENTO, MATÉRIA EMINENTEMENTE CONSTITUCIONAL. PRECEDENTES DO STJ. AGRAVO REGIMENTAL EM RECURSO ESPECIAL IMPROVIDO.
+(..).
+II. Nos termos da jurisprudência consolidada do STJ, a verificação se a taxa de administração dos cartões de débito e crédito deve integrar a base de cálculo do PIS e da COFINS incorre, necessariamente, na definição de faturamento. A análise esta vedada a esta Corte Superior por se tratar de matéria eminentemente constitucional, sob pena de usurpação da competência do STF (STJ, AgRg no REsp 1.416.351/PE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 15/09/2014). Em igual sentido: STJ, AgRg no REsp 1.377.482/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 09/04/2014; AgRg no AREsp 314.177/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 01/08/2013; AgRg no REsp 1224734/RN, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, DJe de 13/06/2012.
+III. Agravo Regimental improvido (AgRg no REsp. 1.381.091/PE, Rel. Min. ASSUSETE MAGALHÃES, DJe 3.12.2014).
+
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TAXA DE ADMINISTRAÇÃO DE CARTÃO DE CRÉDITO E DÉBITO. BASE DE CÁLCULO DO PIS E DA COFINS. CONCEITO DE FATURAMENTO. MATÉRIA EMINENTEMENTE CONSTITUCIONAL.
+1. A verificação se a taxa de administração dos cartões de débito e crédito deve integrar a base de cálculo do PIS e da COFINS incorre, necessariamente, na definição de faturamento. A análise esta vedada a esta Corte Superior por se tratar de matéria eminentemente constitucional, sob pena de usurpação da competência do STF.
+2. Agravo regimental a que se nega provimento (AgRg no REsp. 1.416.351/PE, Rel. Min. OG FERNANDES, DJe 15.9.2014).
+
+PROCESSUAL CIVIL E TRIBUTÁRIO. PIS/COFINS. CONCEITO DE FATURAMENTO. MATÉRIA CONSTITUCIONAL.
+1. O STJ tem entendido que a interpretação do conceito de faturamento para fins de incidência de contribuição ao PIS e à Cofins é matéria eminentemente constitucional, que foge da sua competência no âmbito do Recurso Especial. Precedentes: REsp. 1.017.645/CE, Rel. Ministro Mauro Campbell Marques, DJe 10.9.2010; AgRg no REsp 1.224.734/RN, Rel. Ministro Arnaldo Esteves Lima, DJe 13.6.2012.
+2. Agravo Regimental não provido (REsp. 1.298.394/RS, Rel. Min. HERMAN BENJAMIN, DJe 7.3.2013).
+8. A demonstração do dissenso interpretativo suscitado, aperfeiçoa-se, tão somente, a partir da comparação analítica entre os julgados apontados como paradigmas e aquele que se pretende ver reformado; sendo imprescindível a similitude fática dos casos confrontados.
+9. Com efeito, além do sugerido dissídio jurisprudencial não ter sido analiticamente demonstrado de acordo com os arts. 255, § 2o. do RISTJ e 541, parág. único do CPC, não há similitude fática dos casos confrontados. A propósito:
+ PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ANÁLISE DE LEI LOCAL. SÚMULA 280/STF. ALÍNEA C. NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA.
+1. É inadmissível Recurso Especial quanto a questão inapreciada pelo Tribunal de origem, a despeito da oposição de Embargos Declaratórios. Incidência da Súmula 211/STJ.
+2. A análise da violação da legislação estadual é obstada em Recurso Especial, por analogia, nos termos da Súmula 280/STF: Por ofensa a direito local não cabe Recurso Extraordinário.
+3. A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ) impede o conhecimento do Recurso Especial com base na alínea c do inciso III do art. 105 da Constituição Federal.
+4. Agravo Interno não provido (AgInt no AREsp. 923.357/PB, Rel. Min. HERMAN BENJAMIN, DJe 14.10.2016).
+
+PROCESSUAL CIVIL. ADMINISTRATIVO. OFENSA AO ART. 535 DO CPC/1973. ALEGAÇÕES GENÉRICAS. INCIDÊNCIA DA SÚMULA 284 DO STF. MATÉRIA SUSCITADA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. REVISÃO DO JULGADO. REVOLVIMENTO FÁTICO - PROBATÓRIO. NECESSIDADE. ÓBICE DA SÚMULA 7/STJ. RECURSO ESPECIAL INTERPOSTO PELA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. SIMILITUDE FÁTICA. INEXISTÊNCIA. DISSÍDIO NÃO DEMONSTRADO.
+(..).
+3. A análise das conclusões do julgador da Corte de origem demandaria, necessariamente, o revolvimento fático-probatório dos autos para se decidir sobre eventual necessidade e pertinência de produção de prova oral ou, ainda, da existência de um mínimo de prova nos autos. Óbice da Súmula 7/STJ.
+4. No que tange ao recurso especial interposto com fulcro na alínea c do permissivo constitucional, não há similitude fática entre os julgados confrontados para se configurar o dissídio jurisprudencial suscitado.
+ Agravo interno improvido (AgInt no AREsp. 848.314/RJ, Rel. Min. HUMBERTO MARTINS, DJe 30.8.2016).
+
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA. MULTA ADMINISTRATIVA. PROCON. VALOR. ADEQUAÇÃO. PRETENSÃO QUE ENCONTRA ÓBICE NA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS.
+(..).
+2. Não se conhece do recurso especial interposto com base na alínea c do permissivo constitucional quando a divergência não é demonstrada nos termos em que exigido pela legislação processual de regência (art. 541, parágrafo único, do CPC, c/c art. 255 do RISTJ). No caso, a recorrente não demonstrou a existência de similitude fática e jurídica entre os arestos confrontados.
+3. Agravo regimental não provido (AgRg no AREsp. 836.916/SP, Rel. Min. BENEDITO GONÇALVES, DJe 30.3.2016).
+10. Ante o exposto, nega-se seguimento ao Recurso Especial interposto pelo Contribuinte.
+11. Publique-se.
+12. Intimações necessárias.
