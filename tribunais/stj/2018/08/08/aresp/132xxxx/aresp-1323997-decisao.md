@@ -1,0 +1,43 @@
+EMENTA
+CIVIL. PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. ANTECIPAÇÃO DE TUTELA. IMPOSSIBILIDADE DE ANÁLISE DA MEDIDA EM RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA Nº 735 DO STF E DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+
+DECISÃO
+CLÁUDIO ELEOTÉRIO (CLÁUDIO) ajuizou ação de obrigação de fazer com pedido de tutela antecipada contra FORD MOTOR COMPANY BRASIL LTDA. (FORD), objetivando a manutenção do plano de saúde após a extinção do vínculo de trabalho, nas mesmas condições vigentes à época em que trabalhava na empresa.
+O Juízo de piso julgou parcialmente procedente o pedido de antecipação da tutela, para determinar a manutenção do plano de saúde em favor de CLÁUDIO, mediante o pagamento integral, sendo sua quota-parte e a quota-parte da FORD.
+Inconformada, FORD interpôs agravo de instrumento, julgado improcedente pelo Tribunal de origem, nos termos do acórdão assim ementado:
+Agravo de Instrumento - Empregado aposentado - Pretensão de manutenção do plano de saúde nas mesmas condições em que gozava quando da vigência do contrato de trabalho - Insurgência contra decisão que deferiu parcialmente o pleito formulado em sede de antecipação de tutela para a manutenção do plano de saúde mediante pagamento integral da contraprestação - Possibilidade - Inteligência do artigo 31 da Lei nº 9.656/98 - Pagamento integral da contraprestação - A lei não exige a opção pela manutenção no plano de saúde no momento da adesão ao PDV - Decisão mantida - Recurso improvido. (e-STJ, fl. 392)
+Os embargos de declaração opostos por FORD foram rejeitados (e-STJ, fls. 403/404).
+Irresignada, FORD interpôs recurso especial, com base no art. 105, III, a, da CF, sustentando, em síntese, violação dos arts. 158, 269, 334, 368 e 372 do CPC, 104 do CC, 6º da LINDB e 31 da Lei nº 9.656/98, porque CLÁUDIO não faria jus à manutenção do plano de saúde (e-STJ, fls. 407/425).
+O apelo nobre não foi admitido porque não teria ficado demonstrado o dissídio jurisprudencial sobre a matéria (e-STJ, fls. 432/433).
+Irresignada, FORD interpôs agravo em recurso especial, sustentando o afastamento do mencionados óbice (e-STJ, fls. 434/456) .
+É o relatório.
+DECIDO.
+De plano, vale pontuar que, embora o presente agravo tenha sido interposto sob a égide do NCPC, o recurso especial foi interposto na vigência do CPC/73, motivo pelo qual, em relação a este, devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça.
+O apelo nobre objetiva desconstituir acórdão que negou provimento ao agravo de instrumento em face da decisão que deferiu a concessão da medida liminar requerida por CLÁUDIO, para determinar a manutenção do plano de saúde em favor de CLÁUDIO, mediante o pagamento integral, sendo sua quota-parte e a quota-parte da FORD.
+Ocorre que, na linha da jurisprudência desta eg. Corte Superior, em regra, não é cabível recurso especial com o objetivo de reexaminar acórdão que defere ou indefere tutela de urgência, em virtude da natureza precária do provimento jurisdicional concedido pela origem, e que está sujeito a modificação a qualquer tempo.
+Incidência, por analogia, da Súmula nº 735 do STF, verbis: não cabe recurso extraordinário contra acórdão que defere medida liminar.
+A propósito, confiram-se os seguinte precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. TOMBAMENTO. INDEFERIMENTO DE LIMINAR NA ORIGEM. REEXAME. SÚMULA 735/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 356/STF.
+1. É inviável recurso especial interposto contra acórdão que concede/convalida ou indefere antecipação de tutela ou liminar. A uma, porque as questões processuais relativas ao mérito da demanda devem aguardar a solução definitiva na origem e, ainda, porque, para o exame dos requisitos da tutela de urgência, no caso, seria necessário a incursão na seara fática da causa. Incidência da Súmula 735 do Excelso Pretório.
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.463.903/MG, Rel. Ministro OG FERNANDES, Segunda Turma, DJe 26/2/2018)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL (ART. 544 DO CPC). AÇÃO DE REVISÃO DE CONTRATO. AGRAVO DE INSTRUMENTO (ART. 522 DO CPC) CONTRA DECISÃO QUE DEFERIU TUTELA ANTECIPADA PARA ABSTENÇÃO DE INSCRIÇÃO DO NOME DOS RECORRIDOS NOS CADASTROS RESTRITIVOS DE CRÉDITO, SOB PENA DE PAGAMENTO DE MULTA COMINATÓRIA. MANUTENÇÃO DO DECISUM PELO TRIBUNAL. IMPOSSIBILIDADE DE REVISÃO DA QUESTÃO EM SEDE DE RECURSO ESPECIAL. JUÍZO PROVISÓRIO. AUSÊNCIA DE "CAUSA DECIDIDA". INTELIGÊNCIA DA SÚMULA 735/STF. AGRAVO REGIMENTAL NÃO PROVIDO
+1. O recurso especial interposto contra aresto que julga a antecipação de tutela ou liminar deve limitar-se aos dispositivos relacionados aos requisitos da tutela de urgência, notadamente em casos em que o seu deferimento ou indeferimento importa ofensa direta às normas legais que disciplinam tais medidas. Dessa forma fica obstada a análise de suposta violação de normas infraconstitucionais relacionadas ao mérito da ação principal, porquanto as instâncias ordinárias não decidiram definitivamente sobre o tema, sendo proferido, apenas e tão somente, um juízo provisório sobre a questão.
+2. "Não pode ser conhecido o recurso especial quanto à alegação de ofensa a dispositivos de lei relacionados com a matéria de mérito da causa, que, em liminar, é tratada apenas sob juízo precário de mera verossimilhança. Quanto a tal matéria, somente haverá "causa decidida em única ou última instância" com o julgamento definitivo".
+(REsp 765.375/MA, Rel. Ministro Teori Albino Zavascki, Primeira Turma, julgado em 06/04/2006, DJ 08/05/2006, p. 176) 3. Inteligência da Súmula 735 do STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar".
+4. Agravo regimental não provido.
+(AgRg no AREsp 764.603/PR, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 5/11/2015 - sem destaque no original)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEFICÁCIA DE RESCISÃO CONTRATUAL CUMULADA COM REPARAÇÃO DE DANOS MATERIAIS E COMPENSAÇÃO DE DANOS MORAIS. ANTECIPAÇÃO DE TUTELA. IMPOSSIBILIDADE DE DISCUSSÃO DOS REQUISITOS AUTORIZADORES À CONCESSÃO DA MEDIDA EM SEDE DE RECURSO ESPECIAL. SÚMULA 7/STJ.
+1. Ação ajuizada em 06/02/2014. Recurso especial concluso ao gabinete em 26/08/2016. Julgamento: CPC/73.
+2. O propósito recursal é definir se deve ser restabelecida a decisão proferida pelo juízo de origem que deferiu a antecipação dos efeitos da tutela pleiteada pela recorrente.
+3. Salvo situações verdadeiramente excepcionais, a jurisprudência deste Superior Tribunal de Justiça tem sempre se orientado no sentido de não admitir, em recurso especial, a discussão dos requisitos autorizadores à concessão da antecipação de tutela ou de medida liminar, por força da aplicação da Súmula 7/STJ e, por extensão, da Súmula 735/STF.
+4. Na hipótese dos autos, conquanto o acórdão recorrido teça considerações acerca dos requisitos autorizadores à concessão da tutela antecipada, elenca situações que, na espécie, afastam a configuração de tais requisitos, isto é, justificam o indeferimento do pleito antecipatório.
+5. Todas essas reflexões, calcadas na análise fática promovida pela Corte local acerca dos requisitos da medida antecipatória, não comportam controle pela via do recurso especial.
+6. Recurso especial conhecido e não provido.
+(REsp 1.658.695/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, DJe 25/8/2017 - sem destaque no original)
+É de se ressaltar que, tendo o Tribunal a quo concluído pelo preenchimento dos requisitos necessários à antecipação dos efeitos da tutela, a inversão do que foi decidido, tal como propugnada nas razões do apelo especial, demandaria, necessariamente, novo exame do acervo fático-probatório dos autos, providência, todavia, que encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Deixo de majorar os honorários advocatícios, vez que tal medida é inaplicável à espécie.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intime-se.
