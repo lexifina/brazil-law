@@ -1,0 +1,31 @@
+Decisão: Trata-se de reclamação com pedido de medida liminar, ajuizada por Fabrício Flávio Rodrigues Pereira e Souza (eDOC 1, p. 1-26), fundada nos arts. 103-A, § 3º, da Constituição Federal; 988, inciso III, do CPC; e 156 a 162 do RI/STF, em face do acórdão proferido pela Segunda Turma do Tribunal de Justiça do Distrito Federal e dos Territórios que, ao negar provimento ao recurso de apelação do reclamante (Proc. 2015.4.1.012763-9), também “negou acesso da defesa aos termos de acordo de colaboração premiada firmado entre a Polícia Civil do Distrito Federal e a corré Simone de Oliveira Magalhães e, por conseguinte, não declarou a nulidade do feito com o retorno do processo-crime à fase de recebimento da denúncia” (eDOC 1, p. 1).
+    Preliminarmente, consta dos autos o seguinte:
+    “O reclamante Fabrício Flávio Rodrigues Pereira e Souza foi condenado a 4 anos de reclusão, em regime aberto, e 20 dias-multa, pelo crime do art. 317, §1°, do Código Penal, além da pena acessória da perda do cargo. A defesa interpôs apelação arguindo preliminar de cerceamento de defesa.
+    A sentença, na apelação, foi mantida. Opostos embargos de declaração, foram esses providos parcialmente para retificar erros materiais relacionados aos nomes dos acusados Fabrício Flávio Rodrigues Pereira e Souza e Gilson Pio dos Santos.”. (eDOC 51, p. 33)
+    Na presente reclamação, sustenta-se, em síntese, ofensa à Súmula Vinculante 14, “na medida em que, a todo tempo, foi negado acesso da defesa ao conteúdo da colaboração premiada, a qual esteve vigente durante toda a tramitação do processo-crime em primeiro grau” (eDOC 1, p. 14; grifos originais)
+    Ao final, o reclamante pede, em liminar, o sobrestamento da Apelação Criminal 2015.4.1.012763-9, em trâmite no TJ/DF, até o julgamento final desta reclamação. No mérito, requer:
+     “(...) o integral provimento desta Reclamação, para o fim de levantar o sigilo judicial dos autos que contém o acordo de colaboração premiada firmada entre a Polícia Civil do Distrito Federal e a corré Simone de Oliveira Magalhães, permitindo acesso à defesa do Reclamante a todos os documentos já encartados àqueles autos. Por consequência, que seja decretada a nulidade processual decorrente da violação à Súmula Vinculante n. 14, determinando o retorno do processo à fase de recebimento da denúncia, para que seja exercida efetivamente a garantia constitucional da ampla defesa e do contraditório, com acesso do Reclamante aos termos da colaboração premiada em questão;” (eDOC 1, p. 26)
+    Solicitei informações (eDOC 45, p. 1) ao Juízo da 1ª Vara Criminal da Circunscrição Especial do Gama/DF (Ação Penal 2015.04.1.012763-9) e ao Tribunal de Justiça do Distrito Federal e dos Territórios (Apelação Criminal 2015.04.1.012763-9), as quais foram prestadas (eDOCs 50-51).
+    É o relatório.
+    Decido.
+    A reclamação constitucional é ação destinada a verificar a violação às decisões do STF ou a usurpação de sua competência (art. 102, inciso I, alínea “l” , da CF, c/c o art. 156 do RI/STF).
+    Assim, diante dos argumentos apresentados pelo reclamante (eDOC 1), em face das informações prestadas pelas autoridades reclamadas (eDOCs 50-51), e do que consta dos autos, afasto eventual alegação de ofensa à garantia da autoridade das decisões deste Tribunal, mormente, no caso, à Súmula Vinculante 14/STF, nos termos do art. 102, I, “l”, da Constituição Federal.
+    Para tanto, destaco das informações prestadas pelo juízo sentenciante:
+    “No que tange à delação premiada feita pela corré SIMONE, ressalto que as declarações desta mencionadas no acordo de delação premiada não serviram de instrução, pois não surtiram qualquer efeito probatório.
+    Ademais, o acordo de colaboração premiada feito por aquela foi rescindido e tornado em efeito, nos termos do § 11 do art. 4º da Lei 12.850/13.
+    Frise-se, ainda, que, na mencionada delação, não houve qualquer menção a fatos atribuídos ao reclamante.” (eDOC 51, p. 34; grifos nossos).
+    Com efeito, o juízo a quo, ao proferir a sentença, já consignara que, “na delação nada foi trazido à baila com referência aos fatos atribuídos ao acusado FABRÍCIO nestes autos” (eDOC 18, p. 19). Além disso, ao rejeitar os embargos de declaração opostos pelo reclamante, asseverou:
+    “Ainda a respeito das razões de FABRÍCIO, no que concerne à disponibilização do acordo de delação premiada da corré SIMONE, importa registrar que, conforme registrado na sentença, houve sua rescisão, não tendo, assim, sido obtida e valorada qualquer prova nestes autos, a partir de relatos de SIMONE na delação rescindida.” (eDOC 22, p. 60; grifos nossos).
+    Ademais, porque pertinente, assevere-se o contido no voto do Relator, no TJ/DF, ao julgar referida Apelação Criminal 2015.04.1.012763-9:
+    “1. 14. DO CERCEAMENTO DE DEFESA (DA DELAÇÃO PREMIADA)
+    Assevera a Defesa do apelante FABRICIO FLÁVIO RODRIGUES PEREIRA E SOUZA, que muito embora tenha sido firmado e homologado judicialmente acordo de delação premiada pela ré SIMONE, no qual, em tese, teria ela deliberado pela narrativa dos fatos apurados no presente processo, não houve, em nenhum momento, oportunidade da análise e manifestação, pela defesa, de seu teor.
+    Aduz que não foi oportunizado ao recorrente o conhecimento das informações constantes do termo de acordo, de modo que foi tolhido da defesa o uso de informações eventualmente favoráveis, mantendo-se o referido acordo, mesmo após as alegações finais, em caráter sigiloso.
+    Com efeito, tenho como inaplicável no presente caso o disposto no artigo 7º, § 3º, da Lei 12.850/2013, pois diferentemente dos demais casos, o acordo da colaboração premiada não surtiu qualquer efeito (…)
+    Ora, se as declarações da corré delatora não serviram para a instrução criminal, nem tampouco exerceram qualquer efeito de instrumento probatório, não podem, sobe nenhum ângulo, configurar violação do direito ao contraditório e à ampla defesa.
+    Diante destes argumentos e fundamentos, impõe-se rejeitar as preliminares acima suscitadas pelas defesas técnicas dos recorrentes.” (eDOC 51, p. 88-89)
+    Do exposto, com fundamento no art. 21, § 1º, do RI/STF, julgo improcedente o pedido formulado nesta reclamação.
+    Publique-se.
+    Brasília, 8 de agosto de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
