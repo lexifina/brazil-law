@@ -1,0 +1,32 @@
+EMENTA
+RECURSO ESPECIAL. CRIMES CONTRA O PATRIMÔNIO. ALEGADA VIOLAÇÃO DA LEI 12.850/2013. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL TIDO POR VIOLADO. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra o v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fls. 2.468-2.469):
+"REVISÃO CRIMINAL  1. NULIDADE DA INTIMAÇÃO E DE ATOS PROCESSUAIS SUBSEQUENTES ADVINDOS DA PUBLICAÇÃO DE ACÓRDÃO  RENOVAÇÃO DO PRAZO RECURSAL  CARÊNCIA DE PRESSUPOSTO LEGAL  INTELIGÊNCIA DO ARTIGO 621 DO CPP  PEDIDO NÃO CONHECIDO. 2.  ATUAÇÃO EX OFICIO  INEXISTÊNCIA DA INTIMAÇÃO PESSOAL DO ADVOGADO DATIVO RELATIVA AO ACÓRDÃO DO RECURSO DE APELAÇÃO  NULIDADE CARACTERIZADA  CONSTRANGIMENTO ILEGAL VERIFICADO  RECONHECIDA A NULIDADE DA CERTIDÃO DE TRÂNSITO EM JULGADO DO ACÓRDÃO  HABEAS CORPUS DE OFÍCIO  DETERMINADA. NOVA INTIMAÇÃO  EM CONSONÂNCIA COM O PARECER MINISTERIAL  RECURSO EXTINTO SEM JULGAMENTO DE MÉRITO COM PROVIDÊNCIAS DE OFICIO.
+1. É requisito essencial para admissibilidade da revisão criminal a ocorrência de .uma das hipóteses demudas nos incisos I, II e III do art. 621 do Código de Processo Penal, além, do preenchimento dos requisitos formais específicos do art. 625, § 10, do CPP. Não se conhece da interposição se a exordial da Ação de Revisão Criminal não atender aos requisitos respectivos, como é a hipótese dos autos.
+2. Se à época do julgamento do recurso de apelação, não foi o defensor dativo intimado, pessoalmente,. do teor do acórdão condenatório, são nulos os atos processuais que da inexistente intimação dependerem, como a certidão do trânsito em julgado, pois, elaborada em desconformidade com o disposto no art. 370 do CPP, acarretando evidente cerceamento de defesa.
+3. Concede-se, de ofício, ordem de Habeas Corpus, com fundamento legal no art.. 654, § 2.º do CPP, quando em exame de Revisão Criminal, interposta sem os requisitos previstos no art. 621 e incisos do CPP, constata-se flagrante constrangimento ilegal decorrente de intimação inválida de defensor público,  de que, decorreu certidão de trânsito em julgado de acórdão pelo qual se aumentou a pena imposta ao réu."
+Opostos embargos de declaração, estes foram rejeitados.
+Nas razões do recurso especial, a parte recorrente sustenta a violação da Lei n. 12.850/2013, que substituiu a Lei 9.034/95, haja vista que o aresto deveria aplicado a nova lei.
+Afirma ainda que a exclusão dos benefícios não ocorreria se fosse considerada a Lei n. 12.850/2013, pois a conduta do recorrente se enquadraria no conceito de organização criminosa. Aduz, também, que a referida norma prevê a revisão da aplicação da pena em dobro para o crime de quadrilha armada, requerendo, ao final, que a pena seja revista de acordo com as regras da nova legislação trazida à lume.
+Apresentadas as contrarrazões (fls. 2591-2601), o recurso foi admitido na origem e os autos encaminhados a esta Corte Superior.
+A d. Subprocuradoria-Geral da República apresentou parecer pelo não conhecimento do recurso especial (fls. 2655-2667).
+É o relatório.
+Decido.
+Consta dos autos que o recorrente foi condenado, em primeiro grau, à pena de à pena de 08 (oito) anos e 06 (seis) meses de reclusão, em regime fechado, pela prática dos delitos previstos no art. 155, § 4o, IV (uma vez), do art. 157, § 2o, I e II (duas vezes em continuidade delitiva entre elas nos termos do art.71, § único), bem como do art. 288, § único c/c art. 69 todos do Código Penal.
+Em segunda instância, o eg. Tribunal a quo deu provimento ao apelo ministerial para retirar a causa de diminuição de pena prevista no art. 6º da Lei nº 9.034/95 e redimensionar a pena para 18 (dezoito) anos, 09 (nove) meses e 24 (vinte e quatro) dias de reclusão.
+Havendo o trânsito em julgado na segunda instância, a defesa ajuizou revisão criminal, por não ter sido intimada pessoalmente da decisão proferida no acórdão do Tribunal a quo. A ação não foi conhecida, entretanto concedido ordem de habeas corpus de ofício para anular a certidão de trânsito em julgado e abrir prazo recursal à defesa do recorrente.
+Analisando as razões expendias no apelo nobre, verifico que a defesa não apontou os dispositivos legais que teriam sido supostamente violados, trazendo somente, de maneira genérica, a violação à Lei n. 12.850/2013.
+Incide à espécie a Súmula 284 do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO TENTADO. TESES DE VALIDADE DA PROVA ORAL UTILIZADA PELO TRIBUNAL A QUO E DE NECESSIDADE DE REALIZAÇÃO DE EXAME DE CORPO DE DELITO. INOVAÇÃO RECURSAL. AUSÊNCIA DE DEMONSTRAÇÃO CLARA E OBJETIVA DA ALEGADA VIOLAÇÃO DOS ARTS. 155, 156 E 214 DO CÓDIGO DE PROCESSO PENAL. INCIDÊNCIA DA SÚMULA N. 284 DO STF. PLEITO DE DESCLASSIFICAÇÃO PARA DELITO DE DISPARO DE ARMA DE FOGO EM VIA PÚBLICA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO VIOLADO. INCIDÊNCIA DA SÚMULA N. 284 DO STF. IMPRONÚNCIA. NECESSIDADE DE REVOLVIMENTO DO CONTEXTO FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. Nos termos da jurisprudência desta Corte Superior, a ausência de indicação do dispositivo de lei federal supostamente contrariado na instância ordinária caracteriza deficiência na fundamentação, o que dificulta a compreensão da controvérsia, atraindo a incidência da Súmula n. 284 do STF. Precedentes.
+5. Agravo regimental não provido" (AgRg no AREsp 1.014.654/BA, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 09/10/2017).
+"PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. MAJORAÇÃO PELO CRIME CONTINUADO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL TIDO POR VIOLADO. SÚMULA 284/STF. CIRCUNSTÂNCIAS JUDICIAIS. SÚMULA 7/STJ.
+AGRAVO NÃO PROVIDO.
+1. Conforme jurisprudência reiterada desta Tribunal Superior, verificado que o recorrente não indicou, expressamente, qual dispositivo de lei federal foi objeto de violação, não há como conhecer do recurso especial, nos termos da Súmula n. 284 do STF.
+ ..
+4. Agravo regimental não provido." (AgRg no REsp 1.619.162/ES, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 01/08/2017)
+Ante o exposto, com fulcro no art. 255, parágrafo § 4º, inciso I, do Regimento Interno do STJ, não conheço do recurso especial.
+P. e I.
