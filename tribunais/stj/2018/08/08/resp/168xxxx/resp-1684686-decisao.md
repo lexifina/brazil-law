@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial, interposto pelo BANCO VOTORANTIM S.A, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, impugnando acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado (fl. 249):
+APELAÇÕES CÍVEIS - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS - PRESCRIÇÃO QUINQUENAL POR SE TRATAR DE RELAÇÃO DE CONSUMO - INÍCIO DA CONTAGEM DO PRAZO PRESCRICIONAL A PARTIR DA RETIRADA DO EXTRATO DISPONIBILIZADO PELO INSS - PREJUDICIAL AFASTADA - MÉRITO - EMPRÉSTIMOS COM DESCONTO EM BENEFÍCIO PREVIDENCIÁRIO DE PESSOA INDÍGENA, IDOSA E ANALFABETA - INVALIDADE DO CONTRATO PARTICULAR FIRMADO À ROGO - NECESSIDADE DA CONTRATAÇÃO SE REALIZAR POR MEIO DE INSTRUMENTO PÚBLICO - DESCONTOS INDEVIDOS EM BENEFÍCIO DO INSS - DANO MORAL CARACTERIZADO EM RAZÃO DA RESPONSABILIDADE OBJETIVA DA INSTITUIÇÃO FINANCEIRA - QUANTUM INDENIZATÓRIO MAJORADO PARA ATENDER SEU CARÁTER PEDAGÓGICO E PUNITIVO - RESTITUIÇÃO DOS VALORES DESCONTADOS NA FORMA SIMPLES - AUSÊNCIA DE MÁ-FÉ DO AGENTE FINANCEIRO - SUBSTITUIÇÃO DE ASTREINTES PELA EXPEDIÇÃO DE OFÍCIO AO INSS PARA SUSPENSÃO DOS DESCONTOS - IMPOSSIBILIDADE - LIMITAÇÃO TEMPORAL IMPOSTA ÀS ASTREINTES PARA QUE NÃO ATINJA VALOR EXOR BITANTE - HONORÁRIOS SUCUMBENCIAIS MAJORADOS - RECURSOS PARCIALMENTE PROVIDOS.
+Embargos de declaração opostos e acolhidos para sanar a omissão apontada, de forma que a parte dispositiva do acórdão passou a ter a seguinte redação:
+"Posto isto, conheço do recurso interposto pelo agente financeiro e dou-lhe parcial provimento, apenas para limitar a aplicação da multa diária em até 20 (vinte) dias para o caso de descumprimento da obrigação, ficando mantido o valor diário da referida multa (R$ 300,00). Com relação ao apelo interposto por [NOME], conheço do recurso e dou-lhe parcial provimento para: a) Afastar a prejudicial de prescrição do contrato n. 190509329; b) majorar o quantum indenizatório para R$ 10.000,00 (dez mil reais) a título de indenização por danos morais, com correção monetária pelo IPGM/FGV a contar da data da publicação do acórdão e juros de mora de 1% (um por cento) ao mês a contar da data do evento danoso; e c) majorar os honorários sucumbenciais para o valor de R$ 1.000,00 (mil reais). Defiro o pedido de retificação do polo passivo da presente ação e determino neste átimo para que dele passe a constar BV Financeira S/A - Crédito, Financiamento e Investimento. Mesmo com a reforma parcial a sentença, a parte autora continuou decaindo de parte mínima dos pedidos, devendo a parte ré arcar com o pagamento das custas e honorários sucumbenciais, nos termos do art. 21, parágrafo único, do CPC/1973."
+Nas razões do recurso especial (fls. 275/330), a parte recorrente indicou, além de dissídio jurisprudencial, ofensa aos arts. arts. 206, § 3º, V, do Código Civil; 27 do Código de Defesa do Consumidor; 186, 187, 188, I, 422, 944, parágrafo único, e 945 do Código Civil; e 536 do CPC/73.
+Sustentou, em síntese, que: a) a pretensão de reparação civil prescreve em 3 ou, no máximo, em 5 anos, aplicadas as regras do CDC; b) ofensa à boa-fé objetiva, pois o autor pretende anular relação jurídica plenamente válida; c) inexiste dever de indenizar, porquanto a instituição financeira agiu em exercício regular de direito; c) indenização fixada em valor excessivo; d) indevida cominação de astreintes para eventual descumprimento da ordem de suspensão dos descontos nos proventos do autor; e) os juros moratórios incidem a partir do arbitramento do dano moral.
+Contrarrazões às fls. 347/355.
+Admitido o apelo, os autos subiram ao exame do STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Conforme reiterados precedentes desta Corte Superior, a pretensão de reparação civil prescreve em 3 (três) anos.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO DE PROVIMENTO DO AGRAVO. POSTERIOR JUÍZO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. POSSIBILIDADE. DECISÃO MONOCRÁTICA. OFENSA AO PRINCÍPIO DO COLEGIADO. INEXISTÊNCIA. AUSÊNCIA DE PREJUÍZO. REPARAÇÃO CIVIL. PRESCRIÇÃO TRIENAL. AGRAVO IMPROVIDO.
+1. O Relator, ao analisar o recurso especial, não fica vinculado ao juízo de admissibilidade que deu provimento ao agravo em recurso especial, para melhor exame da matéria.
+2. Segundo a jurisprudência do STJ e seu Regimento Interno (art. 255, § 4º, III), a decisão monocrática proferida pelo relator com fundamento em sua jurisprudência dominante não implica prejuízo ao recorrente nem ofende o Princípio do Colegiado, o qual deverá reexaminar a matéria em caso de interposição de agravo interno.
+3. O direito à reparação civil está sujeito ao prazo prescricional de três anos, nos termos do art. 206, § 3º, III, do Código Civil.
+4. Agravo interno improvido.
+(AgInt no AgInt no REsp 1420787/RS, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 19/06/2018, DJe 26/06/2018)
+Resta, portanto, afastada a tese de prescrição quinquenal do art. 27 do CDC, limitado às situações de acidente de consumo (Seção II do código).
+Na espécie, no entanto, tendo em vista que o termo a quo do prazo prescricional foi 13/02/2014, data na qual o autor teve ciência inequívoca dos efeitos do ato ilícito, conforme expressa afirmação do Tribunal de origem (fl. 255), o ajuizamento da ação em 31/10/2014 afasta por completo a tese de prescrição da pretensão.
+Fica mantido o acórdão recorrido, nesse aspecto.
+2. A fraude bancária constitui fortuito interno, gerando a responsabilidade objetiva da instituição financeira.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. INSCRIÇÃO INDEVIDA EM CADASTRO RESTRITIVO DE CRÉDITO. FALHA NA PRESTAÇÃO DO SERVIÇO. RESPONSABILIDADE OBJETIVA DA INSTITUIÇÃO FINANCEIRA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DESTA CORTE. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. "As instituições bancárias respondem objetivamente pelos danos causados por fraudes ou delitos praticados por terceiros - como, por exemplo, abertura de conta-corrente ou recebimento de empréstimos mediante fraude ou utilização de documentos falsos -, porquanto tal responsabilidade decorre do risco do empreendimento, caracterizando-se como fortuito interno" (REsp 1.197.929/PR, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, DJe de 12.9.2011). 2. O Tribunal de origem julgou nos moldes da jurisprudência desta Corte.
+Incidente, portanto, a Súmula 83/STJ.
+3. Não cabe, em recurso especial, reexaminar matéria de fato (Súmula 7/STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1158721/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 08/05/2018, DJe 15/05/2018)
+Assim, uma vez comprovada a contratação de empréstimos consignados em nome do autor sem a autorização/assinatura deste, deve a instituição financeira responder pelos danos causados.
+Ademais, não compete a esta Corte Superior revolver as provas dos autos, para verificar se houve a prática de ato ilícito pela financeira. Incidência da Súmula 7/STJ.
+3. Em geral, o recurso especial não se presta a redimensionar o valor fixado a título de indenização por danos morais, em razão do óbice da Súmula 7/STJ.
+Na espécie, a indenização arbitrada em R$ 10.000,00 não se mostra excessiva, a ponto de determinar a necessidade de sua revisão, pois, conforme registrado na sentença, a fraude bancária praticada contra o autor, indígena com pouca instrução e de baixa renda, prejudicou o sustento de sua família.
+Rejeita-se o pedido de redução da indenização por danos morais.
+4. A necessidade ou não de fixação de astreintes, bem como o juízo quanto ao cumprimento da respectiva obrigação de fazer ou não fazer, é juízo próprio das instâncias ordinárias, insuscetível de reexame em sede de recurso especial. Incidente, no ponto, o óbice da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. VIOLAÇÃO DO ARTIGO 535. NÃO OCORRÊNCIA. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do art. 1.022 do CPC/2015. Isso porque, embora rejeitados os embargos de declaração, todas as matérias foram devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. No presente caso, o Tribunal de origem, amparado no acervo fático - probatório dos autos, concluiu que não há motivos para eximir a recorrente do cumprimento da tutela antecipada para restituição de documentos, e da multa diária imposta, tendo em vista a existência de documentos que demonstram a efetiva prestação de serviços advocatícios pelos recorridos em favor do recorrente, e de vínculo com o grupo CAOA. Assim, não é possível alterar o entendimento do acórdão recorrido pois demandaria, necessariamente, reexame de fatos e provas, o que é vedado em razão do óbice da Súmula 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1182177/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/03/2018, DJe 02/04/2018)
+5. Os juros moratórios, em ações de responsabilidade civil extracontratual, contam-se do ato ilícito, e não do arbitramento da indenização (v. Súmula 54/STJ).
+Fica mantido o cômputo dos juros moratórios, conforme fixado no acórdão recorrido.
+6. Do exposto, com fundamento no art. 932 do NCPC c/c a Súmula 568/STJ, nego provimento ao recurso especial.
+Majoro os honorários de sucumbência para R$ 1.500,00 (mil e quinhentos reais).
+Publique-se. Intimem-se.
