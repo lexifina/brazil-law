@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+"COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. Ação condenatória.
+- Preliminares de ilegitimidade passiva e falta de interesse de agir afastadas.
+- Atraso na entrega do imóvel verificado. Validade do período de tolerância e impossibilidade de considerar-se o "habite-se" como data da entrega do imóvel.
+- Devida a incidência de multa moratória em desfavor das vendedoras, por reciprocidade. Percentual que deve incidir sobre o valor total do contrato. Juros moratórios, que possuem natureza indenizatória. Pagamento devido, uma vez que não foram somados ao pagamento de aluguéis em favor do compromissário comprador durante o período de mora das rés.
+- Correção monetária no preço do imóvel. Incidência do INCC que apenas pode se dar até data prevista para a entrega, considerando o período de tolerância, ou até a efetiva entrega das chaves do imóvel, se anterior. Posteriormente, devida a incidência do IGP-M pela previsão contratual referente ao período pós fase de construção. Condenação ao ressarcimento das diferenças da aplicação dos índices devida, também de forma simples.
+- Tendo as empresas requeridas dado azo ao procedimento, deverão arcar com a sucumbência e os honorários advocatícios, ora arbitrados em 15% sobre o valor da condenação.
+Recurso da ré desprovido e recurso do autor parcialmente provido."
+Verifico que se discute, no presente recurso, a "possibilidade ou não de inversão, em desfavor da construtora (fornecedor), da cláusula penal estipulada exclusivamente para o adquirente (consumidor), nos casos de inadimplemento da construtora em virtude de atraso na entrega de imóvel em construção objeto de contrato ou de promessa de compra e venda", tema esse que foi afetado à Segunda Seção, sob o rito dos repetitivos - artigo 1.036 do Código de Processo Civil de 2015 -, nos autos dos REsps 1.614.721/DF e 1.631.485/DF (DJe 3/5/2017), de relatoria do Ministro Luis Felipe Salomão, vinculados ao Tema 971.
+Desse modo, caracterizada a identidade de questão de direito submetida à sistemática dos recursos repetitivos, devem ser devolvidos os autos ao Tribunal de origem, nos termos do artigo 256, L, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+Em face do exposto, nos termos do artigo 1.037, II, do Código de Processo Civil, determino a devolução destes autos ao Tribunal de origem, com a respectiva baixa, para nele permanecerem sobrestados até o julgamento do mérito do recurso recebido como representativo da controvérsia (Tema 971), e, após, que se proceda em conformidade com os comandos dos artigos 1.040 e 1.041 do Código de Processo Civil.
+Intimem-se.
