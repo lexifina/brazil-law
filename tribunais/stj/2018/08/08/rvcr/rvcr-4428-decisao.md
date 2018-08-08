@@ -1,0 +1,15 @@
+DECISÃO
+Vistos, etc.
+Trata-se de Revisão Criminal, escrita de próprio punho por JORGE ALEXANDRE PEDRO, que requer o encaminhamento da revisão para o Tribunal de Justiça do Estado de São Paulo, bem como a progressão ao regime semiaberto e sua transferência para a Colônia de Mogi Mirim/SP, para cumprimento da pena.
+É o relatório. Decido.
+De plano, percebe-se a incompetência deste Tribunal Superior para análise da presente revisão criminal, uma vez que, no caso, não há julgado desta Corte a ser revisado por meio da presente ação autônoma de impugnação.
+Conquanto a certidão de fls. 17/21 registre a existência, nesta Corte, de 10 (dez) processos relacionados à presente Revisão Criminal (RvCr 2.331/SP, RvCr 2.403/SP, HC 366.266/SP, HC 403.102/SP, PET 10.128/SP, HC 316.499/SP, HC 318.296/SP e HC 322.928/SP, Rv Cr 4357 e [NOME] 4386), esclareça-se que a PET 10.128/SP foi julgada prejudicada, os sete processos seguintes não passaram do juízo de admissibilidade, e as Rv Cr 4357 e 4386 pretenderam, respectivamente, a remissão de pena e a progressão de regime, sendo que na primeira (Rv Cr 4357) foi declarada a incompetência desta Corte Superior de Justiça e, a segunda (Rv Cr 4386), foi indeferida liminarmente, (in: www.stj.jus.br).
+E, nos termos do art. 105, inciso I, alínea e, da Constituição Federal, compete a esta Corte processar e julgar, em sede de revisão criminal, tão somente seus próprios julgados.
+Nesse sentido, o seguinte precedente:
+"REVISÃO CRIMINAL. ROUBO DUPLAMENTE CIRCUNSTANCIADO EM CONTINUIDADE DELITIVA (ART. 157, § 2o., I e II, C/C O ART. 71, PARÁG. ÚNICO, TODOS DO CPB). INEXISTÊNCIA DE JULGADO DESTA CORTE PASSÍVEL DE REVISÃO. INCOMPETÊNCIA DO STJ. INTELIGÊNCIA DO ART. 105, I, A DA CF. NÃO CONHECIMENTO.
+1. Por força do art. 105, inciso I, alínea e da Constituição Federal, a competência desta Corte para processar e julgar Revisão Criminal limita-se às hipóteses de seus próprios julgados; assim, inexistindo nesta Corte julgamento de mérito passível de revisão em relação à condenação sofrida pelo recorrente, forçoso o reconhecimento da incompetência deste Tribunal para o julgamento do presente pedido.
+2. Revisão Criminal não conhecida." (RvCr 1.029/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, TERCEIRA SEÇÃO, julgado em 28/10/2009, DJe 10/12/2009.)
+De se registrar, ainda, que a revisão criminal não é a via adequada para se buscar a progressão de regime prisional, bem como a pretendida transferência de unidade prisional, as quais devem ser perseguidas mediante a provocação do Juízo da Vara de Execuções Penais competente.
+O pleito revisional deve ser utilizado para se desconstituir o édito penal condenatório, caso esteja configurada uma das hipóteses previstas no art. 621 do Código de Processo Penal.
+Ante o exposto, com fundamento no art. 21-E, inciso IV, do Regimento Interno do Superior Tribunal de Justiça, declaro a incompetência desta Corte para processar a presente revisão criminal e determino a remessa dos autos ao Tribunal de Justiça do Estado de São Paulo, recomendando-se o envio de cópia dos autos à Defensoria Pública local, para adotar as providências pertinentes.
+Publique-se. Intimem-se.
