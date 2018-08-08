@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJRJ assim ementado (e-STJ fl. 329):
+Apelação Cível. Rito ordinário. Ação Indenizatória. Plano de previdência privada. Prevenção desta Câmara. REFER.
+Autor pleiteia o recebimento da diferença de correção monetária decorrente dos expurgos inflacionários do período de 1987 a 1994. Sentença de procedência.
+Recurso do réu requerendo que seja declarada a prescrição e/ou a improcedência dos pedidos e/ou que a correção das contribuições a título de reserva de poupança seja a partir do ajuizamento da ação, apenas nos índices determinados pela súmula 252 do STJ.
+Recurso do autor, requerendo a reforma parcial da sentença para que os valores devidos a título de condenação sejam apurados através de cumprimento de sentença.
+Apelação do réu interposta antes da apreciação dos embargos opostos pelo autor. Ausência de reiteração do recurso. Aplicação da súmula 418 do STJ. Precedentes deste TJERJ. Inadmissibilidade manifesta, ante a extemporaneidade do apelo.
+Entendimento deste Tribunal de Justiça no sentido de que a liquidação de sentença relativa a expurgos inflacionários pode ser realizada mediante simples cálculo aritmético.
+Aplicação do Enunciado nº 14, aprovado no encontro de Desembargadores com competência em matéria cível - Aviso nº 83/2009 RECURSO DO RÉU QUE NÃO SE CONHECE
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 436/440).
+Nas razões do recurso especial (e-STJ fls. 450/470), interposto com fundamento no art. 105, III, "a" e "c", da CF, a recorrente alega dissídio jurisprudencial e ofensa ao art. 1.024, § 5º, do CPC/2015. Sustenta, em síntese, a tempestividade do apelo, pois não haveria necessidade de ratificação de recurso interposto na pendência de embargos declaratórios quando não há alteração na conclusão do julgamento anterior.
+Foram apresentadas contrarrazões (e-STJ fls. 548/555).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 2015, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 3/STJ).
+Cinge-se a controvérsia à tempestividade do recurso de apelação interposto na pendência do julgamento de embargos de declaração opostos à sentença.
+No caso, o Tribunal de origem aplicou, por analogia, a Súmula n. 418/STJ ao apelo em questão.
+A Corte Especial do STJ, ao analisar a Questão de Ordem no REsp n. 1.129.215/DF, de relatoria do Ministro LUIS FELIPE SALOMÃO, publicada no DJe em 3/11/2015, firmou entendimento de que o enunciado da referida súmula deverá incidir quando, ao se julgarem os aclaratórios, houver alteração na conclusão do juízo que os antecedeu, caso em que se deverá confirmar o interesse no seguimento do recurso interposto na pendência dos embargos de declaração. A propósito:
+QUESTÃO DE ORDEM. RECURSO ESPECIAL. PROCESSO CIVIL. CORTE ESPECIAL. RECURSO INTERPOSTO ANTES DO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. NÃO ALTERAÇÃO DA DECISÃO EMBARGADA. DESNECESSIDADE DE RATIFICAÇÃO. INSTRUMENTALISMO PROCESSUAL. CONHECIMENTO DO RECURSO. INTERPRETAÇÃO DA SÚMULA 418 DO STJ QUE PRIVILEGIA O MÉRITO DO RECURSO E O AMPLO ACESSO À JUSTIÇA.
+1. Os embargos de declaração consistem em recurso de índole particular, cabível contra qualquer decisão judicial, cujo objetivo é a declaração do verdadeiro sentido de provimento eivado de obscuridade, contradição ou omissão (artigo 535 do CPC), não possuindo a finalidade de reforma ou anulação do julgado, sendo afeto à alteração consistente em seu esclarecimento, integralizando-o.
+2. Os aclaratórios devolvem ao juízo prolator da decisão o conhecimento da impugnação que se pretende aclarar. Ademais, a sua oposição interrompe o prazo para interposição de outros recursos cabíveis em face da mesma decisão, nos termos do art. 538 do CPC.
+3. Segundo dispõe a Súmula 418 do STJ "é inadmissível o recurso especial interposto antes da publicação do acórdão dos embargos de declaração, sem posterior ratificação".
+4. Diante da divergência jurisprudencial na exegese do enunciado, considerando-se a interpretação teleológica e a hermenêutica processual, sempre em busca de conferir concretude aos princípios da justiça e do bem comum, é mais razoável e consentâneo com os ditames atuais o entendimento que busca privilegiar o mérito do recurso, o acesso à Justiça (CF, art. 5º, XXXV), dando prevalência à solução do direito material em litígio, atendendo a melhor dogmática na apreciação dos requisitos de admissibilidade recursais, afastando o formalismo interpretativo para conferir efetividade aos princípios constitucionais responsáveis pelos valores mais caros à sociedade.
+5. De fato, não se pode conferir tratamento desigual a situações iguais, e o pior, utilizando-se como discrímen o formalismo processual desmesurado e incompatível com a garantia constitucional da jurisdição adequada. Na dúvida, deve-se dar prevalência à interpretação que visa à definição do thema decidendum, até porque o processo deve servir de meio para a realização da justiça.
+6. Assim, a única interpretação cabível para o enunciado da Súmula 418 do STJ é aquela que prevê o ônus da ratificação do recurso interposto na pendência de embargos declaratórios apenas quando houver alteração na conclusão do julgamento anterior.
+7. Questão de ordem aprovada para o fim de reconhecer a tempestividade do recurso de apelação interposto no processo de origem."
+(REsp n. 1.129.215/DF, Relator Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 16/9/2015, DJe 3/11/2015.)
+In casu, não houve integração da sentença proferida pelo juízo de origem ao se julgarem os embargos declaratórios, haja vista sua rejeição. Portanto, não há falar em intempestividade da apelação.
+Diante do exposto, DOU PROVIMENTO ao recurso especial, a fim de afastar a intempestividade da apelação interposta por FUNDAÇÃO REDE FERROVIÁRIA DE SEGURIDADE SOCIAL REFER e determinar o retorno dos autos ao Tribunal de origem, para julgar o recurso como entender de direito.
+Publique-se e intimem-se.
