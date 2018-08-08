@@ -1,0 +1,96 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO E RECURSO ESPECIAL INTERPOSTOS SOB A ÉGIDE DO NCPC. RESPONSABILIDADE CIVIL. PUBLICAÇÃO DE IMAGEM EM REVISTA SEM AUTORIZAÇÃO. AUSÊNCIA DE OFENSA AO ART. 1.022 DO NCPC. DANO MORAL CONFIGURADO. QUANTUM FIXADO EM VALOR QUE NÃO PODE SER CONSIDERADO EXORBITANTE. ALTERAÇÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. RESPONSABILIDADE EXTRACONTRATUAL. JUROS MORATÓRIOS. TERMO INICIAL. DECISÃO EM CONFORMIDADE COM O ENTENDIMENTO DESTA CORTE. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
+
+DECISÃO
+LEONARDO CESAR DE OLIVEIRA MARINHO (LEONARDO) ajuizou ação de indenização contra EDITORA CONFIANÇA LTDA. (EDITORA), que foi julgada improcedente (e-STJ, fls. 125/127).
+O Tribunal a quo negou conhecimento aos agravos retidos interpostos pela EDITORA e deu provimento ao apelo de LEONARDO, nos seguintes termos:
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. PUBLICAÇÃO EM REVISTA EXIBINDO IMAGEM DO AUTOR, ORA APELANTE, SEM SUA AUTORIZAÇÃO. SENTENÇA DE IMPROCEDÊNCIA. IRRESIGNAÇÃO DO AUTOR. AGRAVOS RETIDOS INTERPOSTOS PELA RÉ, ORA APELADA, NÃO CONHECIDOS. INEXISTÊNCIA DE REQUERIMENTO EXPRESSO PARA SUA APRECIAÇÃO. ART. 523, § 1º, DO ANTIGO CPC. MATÉRIA INTITULADA "MERCENÁRIOS MADE IN BRAZIL", PUBLICADA EM 31/01/2007 PELA REVISTA CARTA CAPITAL, DE PROPRIEDADE DA RÉ, ORA APELADA, REFERENTE A CIDADÃO ITALIANO APONTADO COMO TREINADOR DE MILITARES BRASILEIROS DA RESERVA VISANDO À FORMAÇÃO DE GRUPOS DE SEGURANÇA MERCENÁRIOS PARA ATUAREM NA GUERRA DO IRAQUE. MATÉRIA ILUSTRADA COM FOTOGRAFIA EXIBINDO A IMAGEM DO AUTOR, ORA APELANTE, PARTICIPANDO DE UMA SIMULAÇÃO DE SEQUESTRO DURANTE TREINAMENTO NO CAMPO DE GERICINÓ. PONDERAÇÃO ENTRE A LIBERDADE DE EXPRESSÃO E INFORMAÇÃO DE UM LADO, E OS DIREITOS À IMAGEM DE OUTRO. CONQUANTO HAJA EVIDENTE INTERESSE PÚBLICO NA DIVULGAÇÃO DOS FATOS NOTICIADOS NA MATÉRIA INQUINADA, NÃO APENAS POR SEU PRÓPRIO CONTEÚDO MAS TAMBÉM EM RAZÃO DE ELES TEREM OCORRIDO EM INSTALAÇÕES DE RESPONSABILIDADE DO EXÉRCITO BRASILEIRO, O FATO DE A MATÉRIA PUBLICADA NÃO SE REFERIR AO AUTOR, ORA APELANTE, QUE SEQUER TEVE SEU NOME PUBLICADO NA MATÉRIA INQUINADA, EVIDENCIAM A DESNECESSIDADE DA PUBLICAÇÃO DA SUA IMAGEM NA REFERIDA REPORTAGEM. INEXISTÊNCIA DE AUTORIZAÇÃO DO AUTOR, ORA APELANTE, PARA A DIVULGAÇÃO DA SUA IMAGEM. ENTENDIMENTO DO E. STJ DE QUE OS DANOS MORAIS, EM VIRTUDE DE VIOLAÇÃO DO DIREITO À IMAGEM, DECORREM DO SEU PRÓPRIO USO INDEVIDO. SÚMULA Nº 403 DO E. STJ. VERBA EXTRAPATRIMONIAL FIXADA EM R$ 10.000,00 (DEZ MIL REAIS).
+CORREÇÃO MONETÁRIA DO JULGADO E JUROS DE MORA DO EVENTO DANOSO. SÚMULA Nº 54 DO E.STJ. SENTENÇA REFORMADA. NEGADO CONHECIMENTO AOS AGRAVOS RETIDOS INTERPOSTOS PELA ORA APELADA E DADO PROVIMENTO À APELAÇÃO, CONDENANDO-SE A RÉ, ORA APELADA, A DANOS MORAIS (e-STJ fls. 152/153).
+Os embargos de declaração opostos pela EDITORA não foram rejeitados (e-STJ, fls. 235/241).
+Inconformada, a EDITORA interpôs recurso especial, com fundamento no art. 105, III, a, da CF, alegou violação aos dispositivos de lei federal (art. 1.022, II, do NCPC; e, arts. 186, 187, 188, I, 927, 944 e 407 do CC/02). Sustentou, em suma, que (1) não foram sanadas as omissões apontadas no embargos declaratórios; (2) não há que se falar em obrigação de indenizar, pois ausente qualquer prática de ato ilícito capaz de dar ensejo ao dano moral; (3) a indenização foi fixada de forma desproporcional ao alegado dano, porquanto excessivo o valor da condenação; (4) os juros moratórios devem ser fixados a partir da data do arbitramento da indenização (e-STJ, fls. 263/297).
+Contrarrazões apresentadas (e-STJ, fls. 354/361).
+O Presidente do Tribunal da Justiça do Rio de Janeiro deixou de admitir o recurso interposto por ausência de violação do art. 1.022 do NCPC, incidência das Súmulas nºs 7 e 83 do STJ (e-STJ, fls. 365/374).
+Interposto o agravo em recurso especial, a EDITORA refutou os fundamentos da decisão agravada (e-STJ, fls. 485/529).
+A contraminuta foi apresentada (e-STJ, fls. 559/567).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+ (1) Da alegada ofensa ao art. 1.022 do NCPC
+A EDITORA sustentou que o Tribunal a quo foi omisso, uma vez que não apreciou as matérias apresentadas nos embargos de declaração acerca da licitude da utilização da imagem de pessoa pública fotografada no exercício de sua função.
+O Tribunal de origem, ao apreciar os embargos declaratórios, assim se manifestou:
+Não se verifica no v. acórdão embargado qualquer omissão quanto às questões reputadas relevantes pela Embargante e que conduziriam à conclusão de ausência dos pressupostos da sua responsabilidade civil na hipótese presente, consoante se verifica dos seguintes trechos do aresto alvejado:
+(..) Conquanto a matéria não se refira ao Autor, ora Apelante, tampouco mencione seu nome, verifica-se que ela foi ilustrada na pág. 40 com uma fotografia contendo sua imagem participando de uma simulação de sequestro durante treinamento aplicado no Campo de Gericinó (fl. 22), sendo certo que a imagem do Autor, ora Apelante, foi publicada sem sua devida autorização. (fl. 156)
+(..) Conquanto haja evidente interesse público na divulgação dos fatos noticiados na referida matéria, não apenas por seu próprio conteúdo mas também em razão de eles terem ocorrido em instalações de responsabilidade do Exército Brasileiro, o fato de a matéria publicada não se referir ao Autor, ora Apelante, que sequer teve seu nome publicado na matéria, evidenciam a desnecessidade da publicação da sua imagem na reportagem inquinada.
+A reprodução da imagem de qualquer pessoa depende, em regra, da autorização de seu titular, sobretudo em se tratando de pessoa que não tem vida pública ou notoriedade e que não foi objeto da matéria inquinada, sendo essa a hipótese do Autor, ora Recorrente, cuja privacidade é tutelada de forma mais ampla.
+A reprodução da imagem de qualquer pessoa depende, em regra, da autorização de seu titular, sobretudo em se tratando de pessoa que não tem vida pública ou notoriedade e que não foi objeto da matéria inquinada, sendo essa a hipótese do Autor, ora Recorrente, cuja privacidade é tutelada de forma mais ampla. (fl. 157)
+(..)
+A pretensão indenizatória do Autor, ora Apelante, é procedente, haja vista que o entendimento do E. STJ é de que os danos morais, em hipóteses semelhantes, decorrem do uso indevido do direito à imagem, verificado na hipótese presente em razão da inexistência de autorização do Autor, ora Apelante, para a divulgação da sua imagem na matéria publicada pela revista da Ré, ora Apelada. (fl. 159)
+Outrossim, a alegação de que o mesmo fato foi analisado em outra demanda indenizatória proposta por terceiro, que também teve sua imagem publicada na mesma matéria inquinada, e cuja pretensão indenizatória foi julgada improcedente na primeira instância, não tem qualquer repercussão sobre o aresto alvejado visto que é consabido que o Juízo ad quem não está vinculado ao decidido no Juízo a quo, consectário lógico do duplo grau de jurisdição (e-STJ, fls. 238/239).
+Com efeito, o Tribunal a quo, ao analisar as questões necessárias para o deslinde da controvérsia, consignou que a imagem do autor participando de uma simulação de sequestro durante treinamento foi ilustrada em revista e publicada sem a devida autorização de LEONARDO, apesar da matéria não se referir a ele ou mencionar seu nome. Ressaltou que a reprodução da imagem de qualquer pessoa depende, em regra, da autorização de seu titular, sobretudo em se tratando de pessoa que não tem vida pública ou notoriedade e que não foi objeto da matéria inquinada, sendo essa a hipótese do Autor (e-STJ, fl. 157).
+Desta forma, concluiu que houve dano passível de indenização, em virtude de violação do direito à imagem, que não exige a comprovação da existência de dano ou prejuízo.
+Assim, verifica-se que o acórdão foi fundamentado de forma a não ensejar dúvidas acerca das razões de ordem jurídica que lhe deram sustentação.
+O princípio da persuasão racional habilita o magistrado a valer-se do seu convencimento, à luz dos fatos, provas, jurisprudência, aspectos pertinentes ao tema e da legislação que entender aplicável ao caso concreto.
+Assim, tem-se que inexistiram as omissões apontadas nas razões do especial. Registre-se que o fato da decisão recorrida ter sido fundamentada de forma contrária à pretensão da parte recorrente não causa ofensa ao art. 1.022 do NCPC.
+(2) Do dano moral
+A EDITORA sustentou, em suma, que não há que se falar em obrigação de indenizar, pois ausente o ato ilícito.
+O Tribunal local, por sua vez, entendeu que os danos morais decorrente do uso indevido do direito à imagem foram configurados, pois ausente a autorização de LEONARDO para a divulgação de sua imagem em revista publicada.
+O Tribunal local, analisando o conjunto fático-probatório e as peculiaridades do caso concreto, entendeu que houve dano passível de indenização, com o consequente dever de indenizar a parte recorrida pelos danos morais sofridos.
+Como se observa, as conclusões do Tribunal local acerca da ocorrência de abuso do direito por parte da EDITORA, que publicou imagem do autor sem a devida autorização, encontram-se coligidas nas provas e fatos consubstanciados nos autos.
+ Rever o posicionamento adotado, demandaria o reexame do conjunto fático probatório dos autos, o que é inadmissível nesta via especial ante o óbice da Súmula nº 7 do STJ.
+(3) Do quantum indenizatório.
+Insurge-se a EDITORA alegando que a indenização foi fixada de forma desproporcional ao alegado dano, porquanto excessivo o valor da condenação.
+Na linha dos precedentes desta Corte, o valor fixado a título de compensação por danos morais somente pode ser modificado em grau de recurso especial quando manifestamente abusivo ou irrisório.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. ACIDENTE DE CONSUMO. FALHA NA PRESTAÇÃO DE SERVIÇOS MÉDICOS. VIOLAÇÃO DO ART. 535 DO CPC. ALEGAÇÃO DE OMISSÃO. AFASTADA. RESPONSABILIDADE CIVIL. SOLIDARIEDADE. CADEIA DE CONSUMO. INCIDÊNCIA. APLICAÇÃO DO CDC. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83/STJ. REVISÃO DE INDENIZAÇÃO POR DANOS MORAIS E HONORÁRIOS ADVOCATÍCIOS. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+3. A revisão dos valores fixados a título de indenização decorrente de danos morais, bem como a proporcionalidade da distribuição da sucumbência, somente é admitida no âmbito do recurso especial em situações excepcionais, em que a irrisoriedade ou o excesso é evidente, o que não é a hipótese dos autos.
+4. Agravo regimental não provido.
+(AgRg no AREsp 826.772/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 9/9/2016);
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS. VALOR DA INDENIZAÇÃO. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+ ..
+2. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice, para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal de origem não se mostra excessivo, a justificar a reavaliação, em recurso especial, da verba indenizatória fixada.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 785.643/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, DJe 6/9/2016)
+No caso dos autos, tendo em vista o constrangimento suportado por LEONARDO, não se mostra exorbitante o quantum indenizatório fixado pelo Tribunal de origem em R$ 10.000,00 (dez mil reais).
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. MATÉRIA JORNALÍSTICA. NOTIFICAÇÃO PARA PRESERVAÇÃO DA GRAVAÇÃO. HONORÁRIOS ADVOCATÍCIOS. DANOS MORAIS. TERMO INICIAL DOS JUROS DE MORA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283 DO STF. QUANTUM INDENIZATÓRIO. ALEGADA EXORBITÂNCIA. PLEITO DE REDUÇÃO. IMPOSSIBILIDADE DE ACOLHIMENTO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Considerando que nem todos os fundamentos do acórdão recorrido foram objeto de impugnação específica nas razões do recurso especial, é imperiosa a incidência, à hipótese, do óbice da Súmula n. 283 do STF.
+2. Nesse caso, em que a indenização pelos danos morais foi arbitrada em R$ 50.000,00 (cinquenta mil reais), não se verifica a exorbitância que justificaria a sua revisão, incidindo a Súmula 7 do STJ a impedir o conhecimento do recurso.
+3. Agravo interno improvido.
+(AgInt no AREsp 1.268.969/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 26/6/2018, DJe 29/6/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PUBLICAÇÃO DE INFORMAÇÃO INVERÍDICA. DANO MORAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. VALOR DA INDENIZAÇÃO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. O Tribunal de origem concluiu pela existência de danos morais geradores do dever de indenizar. No caso concreto, alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento da Súmula n. 7/STJ, para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal de origem não se mostra excessivo, a justificar sua reavaliação em recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 775.194/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 1/6/2017, DJe 16/6/2017)
+Portanto, incide-se, à hipótese, a Súmula nº 7 do STJ.
+(4) Do termo inicial dos juros de mora
+A EDITORA sustentou que os juros moratórios devem ser fixados a partir da data do arbitramento da indenização.
+O Tribunal local, por sua vez, entendeu que, por se tratar de responsabilidade extracontratual, o termo inicial dos juros de mora é a data do evento danoso.
+Em se tratando de responsabilidade extracontratual, a jurisprudência dessa Corte firmou o entendimento de que os juros moratórios, incidem desde a data do evento danoso, na forma da Súmula nº 54 do STJ: Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS. DECISÃO MONOCRÁTICA. ART. 544 DO CPC. POSSIBILIDADE. INSCRIÇÃO INDEVIDA EM ÓRGÃO DE RESTRIÇÃO AO CRÉDITO. RESPONSABILIDADE PELOS DANOS. MATÉRIA DE PROVA. SÚMULA 7/STJ. QUANTUM INDENIZATÓRIO RAZOÁVEL. JUROS DE MORA. TERMO INICIAL. EVENTO DANOSO. APLICAÇÃO DA SÚMULA 54/STJ. OFENSA A DISPOSITIVOS DA CARTA MAGNA. COMPETÊNCIA DO STF. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+4. A jurisprudência sedimentada deste Tribunal Superior é no sentido de que, em se tratando de dano decorrente de responsabilidade extracontratual, como no caso dos autos, aplica-se o entendimento do enunciado sumular 54/STJ: "Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual." 5. A análise de suposta ofensa a dispositivos da Constituição Federal é incabível em sede de recurso especial, sob pena de usurpação da competência do eg. STF, nos termos do que dispõe o art.
+102, III, da Magna Carta.
+6. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 360.063/PE, Rel. Ministro RAUL ARAÚJO, Quarta Turma, j. 11/2/2014, DJe 11/3/2014)
+AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA. DANOS MORAIS. MATÉRIA JORNALÍSTICA. EMISSÃO DE JUÍZO DE VALOR CONDENATÓRIO. EXERCÍCIO REGULAR DE DIREITO. NÃO RECONHECIMENTO NA ORIGEM. DEVER DE INDENIZAR. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. VALOR DA INDENIZAÇÃO. RAZOABILIDADE. SÚMULA Nº 7/STJ. JUROS MORATÓRIOS. TERMO INICIAL.
+1. Consoante a jurisprudência sedimentada nesta Corte Superior, os direitos à informação e à livre manifestação do pensamento, apesar de merecedores de relevante proteção constitucional, não possuem caráter absoluto, encontrando limites em outros direitos e garantias constitucionais não menos essenciais à concretização da dignidade da pessoa humana, tais como o direito à honra, à intimidade, à privacidade e à imagem.
+2. No desempenho da nobre função jornalística, o veículo de comunicação não pode descuidar de seu compromisso ético com a veracidade dos fatos narrados e, menos ainda, assumir postura injuriosa ou difamatória com o simples propósito de macular a honra de terceiros.
+3. A desconstituição das conclusões a que chegaram as instâncias ordinárias - no tocante ao conteúdo ofensivo e antecipatório de injusto juízo de valor contra a honra e a imagem do autor da demanda e à responsabilidade dos réus pelo dever de indenizar os danos morais - ensejaria incursão no acervo fático-probatório da causa, o que, como consabido, não se coaduna com a via do recurso especial, a teor do que dispõe a Súmula nº 7/STJ.
+4. O Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado o montante fixado pelas instâncias ordinárias a título de danos morais apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso.
+5. Indenização fixada em R$ 50.000,00 (cinquenta mil reais), compreendendo a divulgação descuidada da matéria jornalística tanto no noticiário radiofônico como no televisivo, fixando-se um só valor para as ambas as condutas.
+6. A atualização monetária da indenização fixada e o acréscimo decorrente da incidência de juros legais de mora não servem ao propósito de demonstrar sua eventual exorbitância para fins de redução na via especial.
+7. Em se tratando de responsabilidade extracontratual, os juros moratórios incidem a partir da data do fato. Súmula nº 54/STJ.
+8. Agravo interno não provido.
+(AgInt no REsp 1.238.093/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 22/8/2017, DJe 6/9/2017)
+Estando o acórdão recorrido de acordo com a jurisprudência dominante do STJ, aplicável, no caso concreto, a Súmula 568 do STJ.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para CONHECER EM PARTE do recurso especial, e, nessa extensão, NEGAR-LHE PROVIMENTO.
+MAJORO em 5% os honorários advocatícios anteriormente fixados em desfavor da EDITORA, nos termos do art. 85, § 11 do NCPC.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se.
+Intimem-se.
