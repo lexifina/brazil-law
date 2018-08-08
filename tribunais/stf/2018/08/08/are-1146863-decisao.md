@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão da 1ª Turma Recursal dos Juizados Especiais Cíveis do Estado do Rio Grande do Sul, ementado nos seguintes termos:
+    “RECURSO INOMINADO. PRIMEIRA TURMA RECURSAL DA FAZENDA PÚBLICA. SERVIDOR PÚBLICO ESTADUAL. CONTRATO TEMPORÁRIO. DEPÓSITO DE FGTS. VÍNCULO ADMINISTRATIVO. DIREITO NÃO EVIDENCIADO. 1. Trata-se de ação em que pretende a parte autora seja determinado ao requerido o pagamento/depósito do FGTS em razão de nulidade do contrato emergencial de trabalho. 2. A parte demandante manteve-se vinculada aos quadros públicos por força de contrato temporário de trabalho. tal figura encontra amparo no texto constitucional, restando enunciado no artigo 37, IX, da CRFB/88, que a lei estabelecerá os casos de contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público. 3. Aqui não há como se negar o vínculo administrativo a que submetido a parte demandante, não havendo falar em contrato trabalhista, pelo que afastados os institutos que salvaguardam o labor regrado pela CLT. 4. Sentença de improcedência mantida por seus próprios fundamentos. RECURSO INOMINADO DESPROVIDO.” (eDOC 2, p. 19)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, alínea “a”, da Constituição Federal, aponta-se violação ao art. 37, IX, do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, que são devidos os valores a título de FGTS durante o período em que o autor laborou com contrato emergencial, frente a nulidade do contrato temporário firmado pela administração. (eDOC 4, p. 13)
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o Tribunal de origem, com base nas provas dos autos, consignou que a parte autora não faz jus ao depósito de FGTS. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Aqui não há como se negar o vínculo administrativo a que submetido a Parte Demandante, não havendo falar em contrato trabalhista, pelo que afastados os institutos que salvaguardam o labor regrado pela CLT.” (eDOC 2, p. 21)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. CONTRATAÇÃO TEMPORÁRIA. FGTS. AUSÊNCIA DE NULIDADE NO CONTRATO. SÚMULA 279/STF. 1. A solução da controvérsia pressupõe, necessariamente, o reexame dos fatos e do material probatório constantes dos autos (Súmula 279/STF), o que torna inviável o processamento do recurso extraordinário.” (RE-AgR 967.539, Rel. Min. Roberto Barroso, Primeira Turma, DJe 17.3.2017)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONTRATO TEMPORÁRIO. FGTS. LEI 8.036/1990 E LEI ESTADUAL 10.254/1990. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA INDIRETA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 279 E 280 DO STF. HONORÁRIOS ADVOCATÍCIOS MAJORADOS. AGRAVO A QUE SE NEGA PROVIMENTO.” (RE-AgR 965.893, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 8.5.2017)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente, observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 8 de agosto de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
