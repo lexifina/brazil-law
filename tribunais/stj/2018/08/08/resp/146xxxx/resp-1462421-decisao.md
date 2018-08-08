@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial fundado no CPC/73, manejado por Industrial Boituva de Alimentos S.A., com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 6.604):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. LIMINAR. SENTENÇA SUPERVENIENTE. PERDA DE OBJETO. RECURSO PREJUDICADO.
+Diante da superveniência de sentença nos autos do processo de origem, resta prejudicado o agravo de instrumento interposto contra decisão interlocutória, pois sem a suspensão da eficácia da decisão interlocutória impugnada pela via do agravo de instrumento, o processo segue seu curso, sem prejuízo dos atos subseqüentes, entre eles o pronunciamento de mérito.
+O efeito meramente devolutivo do agravo e a coisa julgada não se condicionam ao provimento do agravo de instrumento, pois a eficácia do comando da sentença não se subordina ao julgamento de agravo interposto anteriormente ante a inadmissibilidade da sentença condicional. Precedentes do STJ.
+Foram opostos dois embargos declaratórios (fls. 6.624/6.627 e 6.657/6.660).
+A parte recorrente aponta violação aos arts. 522, 527 e 535 do CPC/73. Sustenta, em resumo, que: (I) a despeito dos embargos de declaração, o Tribunal a quo remanesceu omisso acerca das questões neles suscitadas; e (II) não houve perda do objeto do agravo de instrumento, tendo em vista que a sentença não abordou a questão do referido recurso.
+É o relatório.
+Registre-se, de logo, que a decisão recorrida foi publicada na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Colhe-se dos autos que o presente recurso especial foi tirado de agravo de instrumento interposto pela ora agravante contra decisão de Juiz Singular.
+Conforme registrado nos presentes autos: "Verificada a superveniência de sentença nos autos do processo originário, resta prejudicado o agravo de instrumento, bem como os embargos declaratórios, ante a perda de objeto dos recursos" (fl. 6.499).
+Nesse panorama, nos termos da jurisprudência desta Corte Superior, fica prejudicado, pela perda de objeto, o recurso especial interposto contra acórdão que examinou agravo de instrumento, quando se verifica a prolação da sentença de mérito, haja vista que nela a cognição é exauriente. A esse respeito, confiram-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO CIVIL POR ATO DE IMPROBIDADE ADMINISTRATIVA. PEDIDO LIMINAR. INDISPONIBILIDADE DE BENS. SUPOSTA INOBSERVÂNCIA DE PROCEDIMENTO ESPECÍFICO. POSTERIOR JULGAMENTO DA AÇÃO PRINCIPAL. APELAÇÃO JULGADA PELO TRIBUNAL DE ORIGEM. NATUREZA INCIDENTAL. PERDA DE OBJETO. PREJUDICIALIDADE CONFIGURADA. PRECEDENTES DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A "pretensão veiculada no agravo de instrumento, que originou o recurso especial sub examine, não mais subsiste em decorrência da prolação de sentença de mérito na Ação Civil Pública" (AgRg no REsp 986.460/RJ).
+2. Há considerar a natureza incidental do agravo de instrumento, tendo em vista que o julgamento definitivo da lide originária põe termo, por perda de objeto, ao recurso especial ora manejado.
+3. Não há falar em negativa de tutela jurisdicional pela manutenção da decisão recorrida, uma vez que à parte restou assegurado o direito de impugnar, pelas vias ordinária e extraordinária, o entendimento firmado por ocasião do julgamento da apelação que rejeitou a preliminar e manteve a sentença.
+4. "As questões processuais e materiais suscitadas no recurso especial serão objeto de apreciação, em caráter definitivo e sob cognição exauriente, pelo Tribunal de Justiça no julgamento do recurso de apelação. Daí porque eventual decisão contrária às pretensões do ora agravante poderá ser objeto de novo recurso especial, sede processual própria para se analisar a questionada validade da r. sentença, que, expressamente, manteve a tutela antecipada em todos os seus termos" (AgRg no Ag 880.632/PA).
+5. Agravo regimental não provido.
+(AgRg no REsp 1095553/MG, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 5/8/2010, DJe 20/8/2010) (grifou-se).
+ADMINISTRATIVO E PROCESSO CIVIL - IMPROBIDADE ADMINISTRATIVA - INDISPONIBILIDADE DE BENS - MEDIDA LIMINAR DEFERIDA EM SEDE DE AGRAVO DE INSTRUMENTO JULGADO NO TRIBUNAL LOCAL - SUPERVENIÊNCIA DA SENTENÇA - PERDA DO OBJETO DO RECURSO ESPECIAL.
+1. "A superveniência de sentença acarreta a inutilidade da discussão a respeito do cabimento ou não da medida liminar, ficando prejudicado eventual recurso, inclusive o especial, relativo à matéria." (REsp 828059/MT, Min. Teori Zavascki, DJ 14.9.2006).
+2. Iterativos precedentes da Corte.
+Recurso especial prejudicado.
+(REsp 734.535/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 10/10/2006, DJ 30/10/2006, p. 272)
+Ante o exposto, não conheço do recurso especial de Industrial Boituva de Alimentos S.A..
+Publique-se.
