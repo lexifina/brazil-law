@@ -1,0 +1,16 @@
+Despacho:
+    Vistos.
+    Glauco Roberto Soares Figueira e outros interpõem petição (STF nº 49920/2018) na qual pleiteiam
+    “a retirada do [presente agravo regimental] da pauta de julgamento nº 48/2018, com vistas a redistribuição, por prevenção, dos presentes autos à Ministra Rosa Weber, (…) tendo em vista a decisão de sua relatoria já transitada em julgado (…) nos autos do RE 1.114.798/PA, que negou seguimento ao Recurso Extraordinário interposto pelo Estado do Pará, o qual possui o mesmo Tema da Repercussão Geral, no caso, o Tema 686, apurado no RE 745.811/PA, de relatoria do Ministro Gilmar Mendes (...), a saber: a Gratificação de 50% aos Servidores da Educação Especial do Estado do Pará.”
+    Decido.
+    O pleito não merece acolhimento, pois, não há qualquer motivo que justifique a redistribuição do feito como pretendem os agravantes.
+    Consoante se verifica do andamento processual, os autos foram a mim distribuídos, por prevenção, com fundamento no art. 69, caput, do RISTF, em razão de decisões que proferi nos autos do ARE nº 769.098/PA, o qual deu origem ao presente recurso extraordinário com agravo. Assim, não há falar em redistribuição do presente feito, tão somente pela suposta similitude da matéria ora em exame com processo da relatoria de outro Ministro.
+    Não bastasse isso, nos termos do art. 67, § 6º, do Regimento Interno do Supremo Tribunal Federal, a prevenção deve ser alegada pela parte na primeira oportunidade que se lhe apresente, sob pena de preclusão. Na hipótese deveria ter sido alegada logo após a distribuição do recurso e não após a decisão que a ele negou seguimento.
+    Nesse sentido, anote-se.
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO CRIMINAL. PREVENÇÃO DE OUTRO MINISTRO. PRECLUSÃO. ALEGADA VIOLAÇÃO AOS ARTS. 5º, XXXV, LIV, LV E 93, IX, DA CONSTITUIÇÃO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. SUSCITADA CONTRARIEDADE AO ART. 93, IX, DA LEI FUNDAMENTAL. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. AGRAVO IMPROVIDO. I – Improcedente a alegação de nulidade da decisão ora recorrida, especialmente porque o recorrente poderia ter alegado a prevenção no momento em que o agravo de instrumento foi distribuído, e não esperado o julgamento do recurso para posterior questionamento. Incide, na espécie, o § 1º do art. 69, combinado com o § 6º do art. 67, ambos do RISTF. II – A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais do devido processo legal, da ampla defesa e do contraditório, da motivação dos atos decisórios, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa. Precedentes. III – A exigência do art. 93, IX, da Constituição, não impõe seja a decisão exaustivamente fundamentada. O que se busca é que o julgador informe de forma clara e concisa as razões de seu convencimento. IV – Agravo regimental improvido” (AI nº 817.289/DF-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 10/3/11 – grifei).
+    Ante o exposto, indefiro o pedido formulado pelos agravantes.
+    Publique-se.
+    Brasília, 8 de agosto de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
