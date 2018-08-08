@@ -1,0 +1,16 @@
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO DE RESPONSABILIDADE CIVIL. INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR. POSSIBILIDADE DE AJUIZAMENTO DA DEMANDA NO DOMICÍLIO DO AUTOR (CDC, ART. 101, I). CLÁUSULA DE ELEIÇÃO DE FORO ABUSIVA NO CASO CONCRETO.
+Conflito conhecido para declarar a competência do Juízo de Direito da 23ª Vara Cível de Brasília - DF, o suscitado.
+DECISÃO
+Colhe-se dos autos que [NOME] e outro ajuizaram ação de danos materiais c/c danos morais contra Gold Santorini Empreendimentos Imobiliários SPE Ltda. e outros, na qual pleitearam o direito de serem indenizados "pelo abatimento proporcional ao preço do imóvel pago pela metragem comprada e não recebida e pela desvalorização do imóvel no momento de sua revenda, acrescido de correção monetária" (e-STJ, fl. 12).
+O feito foi distribuído ao Juízo de Direito da 23ª Vara Cível de Brasília - DF, o qual declinou da competência para o foro de situação do imóvel.
+Recebidos os autos, o Juízo de Direito da 1ª Vara Cível, Família, Sucessões, Infância e Juventude de Valparaíso de Goiás - GO suscitou o presente conflito de competência, sob o fundamento de que, por se tratar de demanda que versa sobre relação de consumo, pode o consumidor optar pelo ajuizamento no foro do local de seu domicílio, como ocorrido na espécie.
+Ademais, consignou que, "em que pese a existência de cláusula elegendo o foro da situação do imóvel para dirimir controvérsias acerca do respectivo contrato, insta observar que a remansosa jurisprudência pátria se posicionou no sentido de que nos contratos de adesão a cláusula de eleição de foro é considerada abusiva" (e-STJ, fl. 16), sobretudo no presente caso em que "os requerentes possuem domicílio no Distrito Federal (Asa Sul) e os requeridos, por sua vez, também encontram-se estabelecidos em Brasília - DF, no SRTVS, Qd. 701" (e-STJ, fl. 19).
+Brevemente relatado, decido.
+Entendo que a razão está com o Juízo suscitante.
+De início, não se olvida que, "apesar da proteção contratual do consumidor estabelecida pelo CDC, o benefício do foro privilegiado estampado no art. 101, I, do CDC não resulta, per se, em nulidade absoluta da cláusula de eleição de foro estabelecida contratualmente", somente podendo "ser considerada inválida quando demonstrada a hipossuficiência ou a dificuldade de acesso da parte ao Poder Judiciário" (REsp n. 1.675.012/SP, Relatora a Ministra Nancy Andrighi, DJe de 14/8/2017).
+No presente caso, todavia, ficou devidamente demonstrada pelo Juízo suscitante a dificuldade de acesso ao Poder Judiciário local pelos autores (consumidores), ao consignar que ambas as partes possuem domicílio no Distrito Federal, além do que "aos requerentes foi deferida a gratuidade de justiça, sendo que seu deslocamento a esta Comarca  de Valparaíso de Goiás - GO  além dos transtornos como tempo e distância, ainda acarretará em flagrante prejuízo financeiro" (e-STJ, fl. 19).
+Por essas razões, deve prevalecer o disposto no art. 101, I, do CDC, que permite ao consumidor demandar em seu domicílio o fornecedor de produtos e serviços em ações de responsabilidade civil, como no caso, reconhecendo-se a abusividade da cláusula de eleição de foro estabelecida contratualmente.
+Ante o exposto, conheço do conflito e declaro competente o Juízo de Direito da 23ª Vara Cível de Brasília - DF, o suscitado.
+Dê-se ciência ao Juízo suscitante.
+Publique-se.
