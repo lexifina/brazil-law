@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JOSEAINE VIANA, no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de Mato Grosso do Sul.
+Narra a denúncia que (e-STJ fls. 17/18):
+1º Fato: Consta do incluso Inquérito Policial que no dia 02 de março de 2016, por volta das 02h00min, na Rua Marques de Barbacena, 188, no Bairro Jardim Los Angeles, nesta cidade, a denunciada JOSEAINE VIANA foi presa em flagrante, pois trazia consigo, para fins de mercancia, 35 porções de pasta de base de cocaína, totalizando 43,5g (quarenta e três gramas e cinco decigramas) e 03 (três) porções de maconha, totalizando 44,4g (quarenta e quatro gramas e quatro decigramas), sem autorização e em desacordo com determinação legal ou regulamentar.
+2º Fato: Consta, ainda, que na mesma ocasião do fato anterior, constatou-se que a denunciada JOSEAINE VIANA, em data que não se pode precisar, havia adquirido, em proveito próprio, um aparelho celular da marca Samsung, numero de série 355691061804321, de cor branca, pertencente à Francilaine Balbin Mendoca, ciente de que o objeto era produto de crime. (Grifei.)
+Por esses fatos foi condenada à pena de 5 (cinco) anos e 10 (dez) meses de reclusão, mais 583 (quinhentos e oitenta e três) dias-multa, pela prática do delito tipificado no art. 33, caput, da Lei n. 11/343/2006, bem assim à reprimenda de 1 (um) ano e 2 (dois) meses de reclusão, além do pagamento de 11 (onze) dias-multa, em razão do crime previsto no art. 180, caput, do Código Penal, na forma do art. 69 do mesmo diploma legal, totalizando a sanção definitiva em 7 (sete) anos de reclusão e 594 (quinhentos e noventa e quatro) dias-multa (e-STJ fls. 197/202).
+Interposta apelação, os desembargadores da Segunda Câmara Criminal negaram provimento ao recurso defensivo (e-STJ fls. 266/275).
+Os embargos infringentes interpostos foram rejeitados (e-STJ fls. 344/349). Recebeu o acórdão esta ementa (e-STJ fl. 344):
+EMBARGOS INFRINGENTES EM APELAÇÃO CRIMINAL - CRIMES DE TRÁFICO DE DROGA E DE RECEPTAÇÃO - PRINCÍPIO DA CONSUNÇÃO - CONDUTAS INDEPENDENTES - CIRCUNSTÂNCIA NÃO CARACTERIZADA. ATENUANTE DA CONFISSÃO ESPONTÂNEA - CONFISSÃO QUE NÃO EXPRESSA A VERDADE REAL - PARCIALIDADE - TESE REJEITADA. RECURSO DESPROVIDO.
+I - Restando demonstrada a independência das condutas praticadas pelo agente, inviável a aplicação do princípio da consunção.
+II - O agente que confessa conduta diversa daquela que efetivamente cometeu não faz jus ao benefício da redução da pena com base na atenuante da confissão espontânea, prevista no art. 65, III, d, do CP.
+III - Com o parecer, rejeita-se os embargos.
+No Superior Tribunal de Justiça, a Defensoria Pública aponta constrangimento ilegal decorrente do não reconhecimento da confissão espontânea.
+Sustenta que, apesar de ter sido utilizada como elemento para fundamentar a condenação da acusada, a atenuante não foi reconhecida pelo Tribunal local.
+Afirma que "na fase extrajudicial a Paciente confessou que além de ser usuária, também estava comercializando a substância entorpecente" (e-STJ fl. 11), o que foi confirmado pelo policial [NOME], condutor de sua prisão em flagrante.
+Dessa forma, requer a concessão da ordem a fim de que seja reconhecida a existência da atenuante da confissão espontânea, com base no art. 65, III, d, do Código Penal (e-STJ fls. 1/16).
+Sem pedido liminar.
+Prestadas as informações (e-STJ fls. 362/394), os autos foram encaminhados ao Ministério Público Federal, que se manifestou pela denegação da ordem (e-STJ fls. 397/398).
+É, em síntese, o relatório.
+Objetiva a defesa, na presente impetração, o reconhecimento da confissão espontânea, nos moldes do art. 65, III, d, do Código Penal, sob o argumento de que foi realizada extrajudicialmente e serviu com fundamento para a condenação da paciente.
+Na primeira instância registrou-se que (e-STJ fl. 199):
+Interrogada, a acusada afirmou ser a proprietária do entorpecente, no entanto, a droga se destinava ao consumo. (Grifei.)
+Em apelação, prevaleceu o voto do Desembargador revisor, nos termos abaixo transcritos (e-STJ fls. 273 e 275):
+Quanto ao reconhecimento, de ofício, da circunstância atenuante da confissão espontânea.
+Nesse ponto, o Des. Relator reconheceu e aplicou a atenuante da confissão espontânea, art. 65, inciso III, alínea "d", do Código Penal, sustentando que o magistrado de primeiro grau utilizou o fato de a apelante ter reconhecido a propriedade da droga (afirmando que era para o seu uso pessoal) para fundamentar a sua condenação.
+Cabe ressaltar, que em razão do informativo n. 551 de 3 de dezembro de 2014 do STJ, depois de bem meditar sobre os argumentos nele assentados, passei a adotar o posicionamento nele expresso, no sentido de que a confissão qualificada dá ensejo à incidência da atenuante do artigo 65, III, "d" do CP, quando efetivamente utilizada pelo sentenciante como elemento de convicção.
+Contudo, reavaliando o que já foi decidido anteriormente em processos dessa mesma natureza, para acompanhar o posicionamento do Superior Tribunal de Justiça, estou concluindo que não deve ser admitida a incidência da atenuante da confissão espontânea quando o acusado por tráfico de drogas confessa a posse da droga, mas como usuário. Para a configuração da confissão espontânea exige-se que o réu confesse o fato pelo qual está sendo processado. A confissão de crime diverso do que foi denunciado, faz com que não incida a atenuante da confissão espontânea  .. .
+Nesse contexto, considerando que a apelante não assumiu a prática do delito que lhe foi atribuído, não há como se aplicar a atenuante prevista no art. 65, III, "d", do Código Penal. (Grifei.)
+O que foi mantido no julgamento dos embargos infringentes (e-STJ fl. 348):
+Quanto à atenuante da confissão espontânea, a embargante efetivamente não confessou o crime tal como descrito na denúncia, mas apenas o consumo da droga, tanto que a sentença não considerou tal instituto para formar juízo condenatório. É o que consta da decisão (f. 183): "Interrogada, a acusada afirmou ser a proprietária do entorpecente, no entanto, a droga se destinava ao consumo".
+Com efeito, não pode ser considerada para fins de atenuação da pena.
+O agente que confessa conduta diversa daquela que efetivamente cometeu, não faz jus ao benefício da redução da pena com base na atenuante da confissão espontânea, prevista no art. 65, III, d, do CP.
+Na espécie, observa-se que a paciente confessou ser proprietária do entorpecente apreendido na condição de usuária, e não pelo delito de tráfico que lhe foi imputado.
+Assim, não vislumbro constrangimento ilegal capaz de ensejar a concessão da ordem, uma vez que, para a aplicação da atenuante, o agente deve confessar os fatos conforme ensejou sua condenação, sem a atribuição de conduta típica diversa da qual foi sentenciado.
+Logo, a decisão proferida pelo Tribunal a quo encontra-se em consonância com a jurisprudência firmada por esta Corte, senão vejamos:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. TRÁFICO DE DROGAS. ATENUANTE DE CONFISSÃO ESPONTÂNEA. AGENTE QUE NEGOU A PRÁTICA DO DELITO DE TRÁFICO E AFIRMOU SER USUÁRIO DE DROGAS. DECISÃO MANTIDA. AGRAVO DESPROVIDO.
+1. O entendimento desta Corte Superior é no sentido de que, em se tratando do crime de tráfico de entorpecentes, a confissão espontânea do acusado que admite a propriedade da droga, no entanto afirma ser destinada a consumo próprio, sendo mero usuário, impossibilita o reconhecimento da atenuante prevista no art. 65, inciso III, alínea "d", do Código Penal - CP. Precedentes.
+Agravo regimental desprovido (AgRg no HC 442.885/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 07/06/2018, DJe 20/06/2018).
+PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. REVISÃO CRIMINAL. TRÁFICO DE DROGAS. APLICAÇÃO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. INVIABILIDADE. ALEGAÇÃO DE SER MERO USUÁRIO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DOMINANTE DESTA CORTE SUPERIOR. SÚMULA 568/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, para a configuração da atenuante da confissão espontânea, o acusado deve admitir a prática do fato criminoso que lhe é imputado. O simples fato de admitir a propriedade da droga, alegando ser destinada à consumo próprio, impossibilita o reconhecimento da atenuante prevista no art. 65, inciso III, d, do Código Penal. Precedentes.
+2. Agravo regimental improvido (AgRg no AREsp 1053378/MS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 20/04/2017, DJe 28/04/2017).
+Ante o exposto, denego a presente ordem de habeas corpus.
+Publique-se. Intimem-se.
