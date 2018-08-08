@@ -1,0 +1,62 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO. APLICAÇÃO DO CDC. TEORIA FINALISTA. RELAÇÃO DE CONSUMO NÃO CARACTERIZADA. ACÓRDÃO RECORRIDO CONFORME A JURISPRUDÊNCIA DO STJ. VULNERABILIDADE. RECONHECIMENTO. HONORÁRIOS ADVOCATÍCIOS. REVISÃO DO QUANTUM. IMPOSSIBILIDADE. SÚMULA Nº 7 DO STJ. RECURSO ESPECIAL NÃO PROVIDO
+DECISÃO
+CBR - CONDOR ASSESSORIA EM SEGURANCA E SERVICOS LTDA. - ME (CBR) ajuizou ação declaratória de inexigibilidade de débito contra TIM CELULAR S.A. (TIM CELULAR) afirmando que utilizou o serviço de telemetria da requerida mas que passou a receber cobranças por serviços que não foram prestados.
+Em primeiro grau, a ação foi julgada procedente, tendo sido declarada a inexigibilidade dos débitos.
+A TIM CELULAR apelou afirmando que não incide o CDC; que os serviços foram devidamente prestados e pleiteou, ainda, a redução da verba honorária.
+O Tribunal de origem negou provimento ao recurso em acórdão. Assim ementado:
+APELAÇÃO DECLARATÓRIA - CONTRATO DE TELEFONIA - CDC - TEORIA FINALISTA APROFUNDADA VULNERABILIDADE - COBRANÇA INDEVIDA - MANIFESTAÇÃO DA VONTADE - AUSÊNCIA DE UTILIZAÇÃO OU ADESÃO - INEXIGIBILIDADE DE VALORES - HONORÁRIOS - EQUIDADE.
+- Código de Defesa do Consumidor: plena subsunção das partes à qualificação trazida pelos artigos 2o e 3o, da Lei 8.078, de 1990. O uso do serviço como fomento a atividade da empresa não permite afastar a qualidade dc "destinatário final" da autora - notável a VULNERABILIDADE da consumidora (interpretação teleológica do artigo 4o, I, do CDC), a partir da teoria finalista aprofundada - precedentes;
+- Ato jurídico que pressupõe (requisito de existência) a manifestação de vontade - serviços cobrados sem a adesão (expressa ou tácita) do consumidor - inexistência do contrato e inexigibilidade dos valores;
+- Inexigibilidade dos serviços, cuja utilização não fora comprovada pela ré, a quem competia provar a demonstrar a higidez da cobrança (artigo 6o, VIII, do CDC, e art. 333, II, do CPC). Preclusão da prova da efetiva utilização do serviço - incompatibilidade daquele contratado com os demais cobrados indevidamente;
+- Honorários fixados razoavelmente com fulcro no artigo 20,4o, do Código de Processo Civil. Quantia arbitrada por equidade, em razão do labor dos patronos, da complexidade da causa e do número de demandas;
+- Manutenção da decisão por seus próprios e bem lançados fundamentos - artigo 252 do Regimento Interno do Tribunal de Justiça de São Paulo;
+RECURSO NÃO PROVIDO (e-STJ fls. 844).
+Irresignada, a TIM CELULAR interpôs recurso especial com fulcro no art. 105, III, a e c, da CF, sustentando a violação dos arts. (1) 2º do CDC e da inaplicabilidade da legislação consumeirista ao caso porque o serviço foi contratado para potencializar os lucros da recorrida, ainda, que exista a vulnerabilidade ou hipossuficiência; e, (2) 20, § 3º, do CPC/73 e a exorbitância do valor fixado.
+Houve contrarrazões (e-STJ, fls. 893/901).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+(1) Da incidência do CDC
+TIM CELULAR sustentou a violação do art. 2º do CDC e da inaplicabilidade da legislação consumeirista ao caso porque o serviço foi contratado para potencializar os lucros da recorrida, ainda, que exista a vulnerabilidade ou hipossuficiência.
+Quanto ao tema o Tribunal de origem consignou que o CDC incidiria ao caso em virtude da existência de vulnerabilidade da empresa, uma vez que era possível afirmar a sua hipossuficiência técnica e financeira em relação à TIM CELUALR que detêm a expertise na fabricação e manutenção do produto objeto da demanda, confira-se:
+Inicialmente, cumpre destacar que a relação entre as partes deve ser interpretada sob a égide do Código de Defesa do Consumidor. Conforme iterativa jurisprudência, inclusive do C. Superior Tribunal de Justiça, o conceito de destinatário final do artigo 2o, da Lei n. 8.078, de 1990, sofreu evolução, inadmissível a interpretação finalista pura pretendida pela ré.
+Doutrina e jurisprudência ora convergem na ampliação da tutela protetiva do consumidor, com fulcro na análise da VULNERABILIDADE - presunção absoluta e princípio basilar da mens legis do Código de Defesa do Consumidor. Exsurge a teoria finalista aprofundada (híbrida ou mitigada cf. GlANCOLI, Brunno Pandori; ARAÚJO JÚNIOR, Marco Antônio. Direito do Consumidor: difusos e coletivos. São Paulo: Revista dos Tribunais, 2009, p. 27).
+Nos exatos termos do artigo 3o, da Lei 8.078, de 1990, a ré é fornecedora, pessoa jurídica de direito privado, prestadora de serviços de telecomunicações, serviço público da União (art. 21, inciso XI, da Constituição Federal), cuja exploração se dá mediante concessão.
+Igualmente, a autora se qualifica como consumidora em conformidade com o artigo 2o, do Código de Defesa do Consumidor. E, apesar de pessoa jurídica e da utilização do serviço de telefonia em destaque para incremento de sua atividade, não se permite desqualificá-la como destinatária final do produto.
+A incidência da legislação protetiva decorre do pressuposto da vulnerabilidade (art. 4o, I, do Código de Defesa do Consumidor). Isto porque, os elementos dos autos permitem verificar a disparidade, tanto na ciência de seus direitos (vulnerabilidade jurídica), quanto na capacidade de prová-los (vulnerabilidade técnica).
+Ainda, no caso concreto pode-s afirmar a hipossuficiência técnica e financeira da autora em face da empresa que detém a expertise na fabricação e manutenção do produto objeto da demanda. Destarte, ainda que haja efetiva atividade empresarial, não há qualquer dúvida quanto à aplicabilidade do CDC - para corroborar, exemplifico:  ..  (e-STJ, fls. 845/846).
+A jurisprudência desta Corte Superior tem mitigado os rigores da teoria finalista, de modo a estender a incidência das regras consumeristas para a parte que, embora sem deter a condição de destinatária final, apresente-se em situação de vulnerabilidade.
+No caso dos autos, o Tribunal de origem afirmou a vulnerabilidade da CBR não sendo possível a revisão das conclusões alcançadas porque exigiria a análise do conjunto fático-probatório e das circunstâncias do caso, situação que encontra óbice na Súmula nº 7 do STJ.
+Nesse sentido, confiram-se os seguintes precedentes:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. APLICAÇÃO DO CDC. TEORIA FINALISTA. RELAÇÃO DE CONSUMO NÃO CARACTERIZADA. ACÓRDÃO RECORRIDO CONFORME A JURISPRUDÊNCIA DO STJ. VULNERABILIDADE. RECONHECIMENTO. SÚMULA N. 7/STJ. CAPITALIZAÇÃO MENSAL DOS JUROS. POSSIBILIDADE. PACTUAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DECISÃO MANTIDA.
+1. O posicionamento adotado no acórdão recorrido coincide com a orientação desta Corte Superior, a saber: "o Código de Defesa do Consumidor não se aplica no caso em que o produto ou serviço é contratado para implementação de atividade econômica, já que não estaria configurado o destinatário final da relação de consumo (teoria finalista ou subjetiva)" (AgRg no AREsp n. 557.718/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/5/2016, DJe 10/6/2016).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos e interpretação de cláusulas contratuais (Súmulas n. 5 e 7 do STJ).
+3. O reconhecimento da situação de vulnerabilidade, a fim de se aplicar o CDC, exigiria reexame de questões fáticas.
+4. No caso concreto, o Tribunal de origem, a partir do exame dos elementos de prova e da interpretação das cláusulas contratuais, concluiu pela existência de cláusula prevendo a capitalização mensal dos juros.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.218.885/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 7/6/2018, DJe 19/6/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ALEGADA OFENSA AO ART. 1.022 DO CPC/2015. NÃO CONFIGURAÇÃO. AUSÊNCIA DE OMISSÃO. INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR. PESSOA JURÍDICA. PREMISSA DE QUE A RECORRIDA É DESTINATÁRIA FINAL DE RELAÇÃO DE CONSUMO E OSTENTA VULNERABILIDADE NA RELAÇÃO DE CONSUMO. REVISÃO. INVIABILIDADE. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. ADEQUAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp 1.046.439/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, j. 22/5/2018, DJe 1º/6/2018)
+O recurso não merece ser provido quanto ao ponto.
+(2) Dos honorários advocatícios
+A TIM CELULAR afirmou, ainda, a violação do art. 20, § 3º, do CPC/73 e a exorbitância do valor fixado.
+O Tribunal de origem manteve a sentença quanto ao ponto, ressaltando que os processos tramitam há mais de 4 anos e foram julgadas em conjunto múltiplas demandas (e-STJ, fl. 848).
+No que se refere à revisão de valores fixados a título de honorários advocatícios, a jurisprudência desta Corte é firme no sentido de que a pretendida modificação implica o revolvimento de matéria fático-probatória, além das peculiaridades do caso concreto, salvo quando os honorários se revelem irrisórios ou exorbitantes, por se distanciarem dos critérios legais e dos padrões da razoabilidade, passando a questão a ser de direito.
+Na fixação da verba honorária arbitrada com base na equidade, o julgador não está adstrito a nenhum critério ou nos limites do art. 20, § 3º, do CPC/73, podendo valer-se de percentuais tanto sobre o montante da causa quanto sobre o da condenação, bem como fixar os honorários em valor determinado.
+O Tribunal de origem fixou os honorários no valor de R$ 10.000,00 (dez mil reais) em virtude das particularidades do caso - trâmite há mais de 4 anos e julgamento em conjunto múltiplas demandas.
+Assim, não é possível a revisão dos critério adotados pelo Tribunal de origem quanto ao tema em virtude do óbice da Súmula nº 7 do STJ.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. HONORÁRIOS SUCUMBENCIAIS. CRITÉRIOS DE DIREITO INTERTEMPORAL. TEORIA DO ISOLAMENTO DOS ATOS PROCESSUAIS. DECISÃO PUBLICADA NA VIGÊNCIA DO ANTIGO CPC. CRITÉRIO DE EQUIDADE. REVISÃO DA VERBA FIXADA. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Tendo sido os honorários advocatícios fixados com base na apreciação equitativa da prestação do serviço pelo advogado, sua revisão impõe incontornável reexame dos aspectos fáticos da lide.
+Incidência do enunciado 7 da Súmula do STJ.
+2. Não cabe a condenação ao pagamento de honorários advocatícios recursais no âmbito do agravo interno, conforme os critérios definidos pela Terceira Turma deste Tribunal Superior nos EDcl no AgInt no REsp 1.573.573/RJ, desta relatoria, julgado em 4/4/2017, DJe de 8/5/2017.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação da agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese examinada.
+4. Agravo interno improvido.
+(AgInt no REsp 1.720.435/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 12/6/2018, DJe 25/6/2018)
+O recurso não merecer provimento quanto ao ponto.
+Nessas condições, com fundamento no art. 255 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), NEGO PROVIMENTO ao recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intime-se.
