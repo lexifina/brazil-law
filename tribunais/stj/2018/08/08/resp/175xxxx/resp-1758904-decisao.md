@@ -1,0 +1,15 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por [NOME], contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. PROMESSA DE COMPRA E VENDA. AÇÃO DECLARATÓRIA DE QUEBRA DE CONTRATO. RECONVENÇÃO. DESCUMPRIMENTO CONTRATUAL. PRELIMINARES. INTEMPESTIVIDADE. INOCORRÊNCIA. PENA DE CONFISSÃO. INAPLICABILIDADE. EXTINÇÃO DO PROCESSO POR FALTA DE COMPLEMENTAÇÃO DE CUSTAS. DESCABIMENTO. ÕNUS PROBATÓRIO. ADIMPLEMENTO SUBSTANCIAL.
+As diversas publicações equivocadas do cartório causaram tumulto processual indesejável, o que impede julgar que o apelo foi intempestivo.
+O preposto que compareceu à audiência era conhecedor dos fatos da causa e respondeu a todas as perguntas a ele dirigidas com naturalidade e sem qualquer oposição, ao contrário do que normalmente ocorre nos casos em que é decretada a confissão ficta, onde os prepostos nada sabem sobre os fatos relativos à lide, mesmo estando, do ponto de vista formal, habilitados a depor. Ainda que decretada a confissão, esta seria ficta, e a decisão necessariamente consideraria os demais elementos de prova.
+A alegação do compromisso da apelada pagar diretamente ao banco, por se tratar de fato extintivo, impeditivo ou modificativo do direito da autora, era ônus probatório das apelantes, que dele não se desincumbiram.
+Por outro lado, houve comprovado adimplemento substancial do contrato por parte da apelada, o que implica na manutenção da sentença atacada.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ fls. 984/989).
+Em seu recurso especial, a parte recorrente alega violação aos arts. 1022 do CPC/2015; 257 e 346 do CPC/1973 e 320 do CC, sustentando, em síntese, negativa de prestação jurisdicional quanto a) à complementação das custas, que foram recolhidas com base em valor menor do que o fixado na impugnação ao valor da causa, b) à análise sobre a alegação de que a carta de preposição não foi assinada por nenhum dos representantes legais da demandada, não tendo sido concedidos poderes especiais para confessar e c) à manifestação sobre o disposto no art. 346 do CPC, tendo o depoente se omitido perante os fatos; aplicação da pena de confissão; necessidade de cancelamento da distribuição ante o recolhimento das custas complementares passados mais de trinta dias depois de elaborado o respectivo cálculo e também pelo não pagamento da diferença das custas devidas em virtude do acolhimento da impugnação ao valor da causa e necessidade de que as recorrentes apenas sejam obrigadas a devolver os valores efetivamente recebidos por si ou por pessoas autorizadas a receberem.
+É o relatório. Passo a decidir.
+Merece guarida a pretensão recursal.
+Com efeito, diante da relevância da questão suscitada, merece provimento o agravo para melhor analisar o recurso especial interposto, procedendo-se à devida conversão.
+Ante o exposto, dou provimento ao agravo em recurso especial, procedendo-se à conversão.
+Intime-se.
