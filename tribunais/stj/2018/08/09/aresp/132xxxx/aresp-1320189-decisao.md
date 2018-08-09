@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de Tibagi contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fls. 240/241):
+DIREITO ADMINISTRATIVO. APELAÇÕES CÍVEIS E REEXAME NECESSÁRIO. APELAÇÃO CÍVEL 1. AÇÃO DE COBRANÇA. SERVIDOR PÚBLICO MUNICIPAL. ADICIONAL DE INSALUBRIDADE.BASE DE CÁLCULO. SALÁRIO MÍNIMO VIGENTE. ILEGALIDADE. PREVISÃO EXPRESSA DE UTILIZAÇÃO DO VENCIMENTO BÁSICO. INCIDÊNCIA DO ART. 137 DA LEI MUNICIPAL N.º 1.392/1993 (ESTATUTO DOS SERVIDORES DO MUNICÍPIO). PAGAMENTO DAS DIFERENÇAS DEVIDAS. SENTENÇA CONDENATÓRIA MANTIDA. APELAÇÃO CÍVEL 2. PRESCRIÇÃO QUINQUENAL DAS PARCELAS ANTERIORES À PROPOSITURA DA DEMANDA. EXISTÊNCIA DE REQUERIMENTO ADMINISTRATIVO. AUSÊNCIA DE DECISÃO ADMINISTRATIVA. SUSPENSÃO DA PRESCRIÇÃO ATÉ O AJUIZAMENTO DA DEMANDA. PRECEDENTES DO STJ. PRESCRIÇÃO AFASTADA. REDISTRIBUIÇÃO DA SUCUMBÊNCIA. CONDENAÇÃO DO MUNICÍPIO AO PAGAMENTO INTEGRAL DAS CUSTAS PROCESSUAIS E DOS HONORÁRIOS ADVOCATÍCIOS. REEXAME NECESSÁRIO. CONDENAÇÃO ILÍQUIDA DA FAZENDA PÚBLICA. REMESSA NECESSÁRIA CONHECIDA DE OFÍCIO. DUPLO GRAU DE JURISDIÇÃO OBRIGATÓRIO. CORREÇÃO MONETÁRIA E JUROS DE MORA. ÍNDICES E TERMOS INICIAIS DE INCIDÊNCIA. ADEQUAÇÃO.
+APELAÇÃO CÍVEL 1 CONHECIDA E NÃO PROVIDA.
+APELAÇÃO CÍVEL 2 CONHECIDA E PROVIDA.
+SENTENÇA PARCIALMENTE REFORMADA EM REEXAME NECESSÁRIO CONHECIDO DE OFÍCIO.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC.
+Nas razões do recurso especial, a parte agravante aponta, além de dissídio jurisprudencial, violação aos arts. 1º, 2º e 3º do Decreto 20.910/32. Sustenta a ocorrência da prescrição, sob o argumento de que "não há que se falar que o requerimento administrativo suspendeu o prazo prescricional nos termos do artigo 4º, do Decreto 20.910/32, uma vez que, ao contrário do que ficou consignado no acórdão de fls. - O entendimento do STJ é o de que ocorre a prescrição das parcelas anteriores ao qüinqüênio que antecedeu o ajuizamento da ação súmula, cf. Súmula 85/ STJ" (fl. 265).
+É o relatório.
+A irresignação não comporta acolhida.
+Inicialmente, as matérias pertinentes aos arts. 2º e 3º do Decreto 20.910/32 não foram apreciadas pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+De outro lado, o Tribunal de origem afastou a ocorrência da prescrição, com base nas seguintes razões (fls. 250/254):
+Em suas razões recursais, a parte autora inicialmente pleiteia o afastamento da prescrição quinquenal, pronunciada em relação ao período anterior a 30.03.2010. Para tanto, alega que o prazo prescricional restou suspenso desde 24.03.2009, com o requerimento administrativo, em relação ao qual não obteve resposta.
+Pois bem.
+De acordo com o art. 1º do Decreto n.º 20.910/1932, as dívidas passivas da União, dos Estados e dos Municípios, bem assim todo e qualquer direito ou ação contra a Fazenda federal, estadual ou municipal, seja qual for a sua natureza, prescrevem em cinco anos contados da data do ato ou fato do qual se originarem.
+Nesse sentido, dispõe a Súmula n.º 85 do Superior Tribunal de Justiça:
+Nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação.
+Anota-se que o requerimento administrativo suspende o prazo prescricional, de acordo com o art. 4º do Decreto n.º 20910/1932:
+Art. 4º Não corre a prescrição durante a demora que, no estudo, ao reconhecimento ou no pagamento da dívida, considerada líquida, tiverem as repartições ou funcionários encarregados de estudar e apurá-la.
+Parágrafo único. A suspensão da prescrição, neste caso, verificar- se-á pela entrada do requerimento do titular do direito ou do credor nos livros ou protocolos das repartições públicas, com designação do dia, mês e ano.
+Ademais, insta salientar que o prazo prescricional permanece suspenso até que sobrevenha resposta ao pedido administrativo.
+(..)
+No caso em apreço, a parte autora pleiteia o recebimento das diferenças do adicional de insalubridade desde 24.03.2004.
+Anota-se que a demanda foi ajuizada em 30.03.2015, de modo que, a princípio, conforme sustentado pelo requerido no curso do processo, as parcelas anteriores a 30.03.2010 estariam prescritas.
+Todavia, restou incontroverso que houve requerimento administrativo formulado pela parte autora, através do Sindicato dos Servidores Públicos do município, pleiteando o pagamento das referidas diferenças, sendo que até o momento não houve decisão administrativa a esse respeito.
+Cumpre mencionar, que não se descura que o documento de fl. 69 não indica o dia e nem o mês do recebimento do requerimento pelo Município de Tibagi, mas apenas o número de ordem do protocolo (242) e o ano em que foi recebido (2009).
+Tal circunstância, porém, não afasta a conclusão de que o requerimento implicou em suspensão da prescrição, sobretudo porque o questionamento acerca da data em que se deu a suspensão da prescrição só foi trazida aos autos pelo Município apelante em sede de contrarrazões.
+Não se pode olvidar que, de acordo com o art.
+411, inciso III do Código de Processo Civil, considera-se autêntico o documento quando não houver impugnação da parte contra quem ele foi produzido.
+Nesse contexto, deve-se considerar que o protocolo se deu na data em que o requerimento foi peticionado, ou seja, em 23.03.2009, quando houve o início de suspensão da prescrição, cujo prazo não se retomou ante a ausência de resposta ao requerimento administrativo.
+Assim, impõe-se reconhecer que as parcelas de todo o período pleiteado na exordial (24.03.2004 até 09.12.2011) não estão abrangidas pela prescrição quinquenal.
+Destarte, o acórdão recorrido está em conformidade com a jurisprudência deste Superior Tribunal, firme no sentido de que "a teor do disposto no art. 4º do Decreto 20.910/32, o curso do prazo prescricional aplicável às ações contra a Fazenda Pública é suspenso durante a pendência de requerimento administrativo, e somente torna a correr com a decisão final ou ato que põe fim ao processo administrativo" (AgRg no AREsp 419.690/ES, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 04/11/2015).
+Em reforço:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. ABONO DE PERMANÊNCIA. ADICIONAL DE INSALUBRIDADE. GRATIFICAÇÃO DE TITULAÇÃO. ABONO DE FÉRIAS. REQUERIMENTO ADMINISTRATIVO. SUSPENSÃO DO LAPSO PRESCRICIONAL.
+1. Os recursos interpostos com fulcro no CPC/1973 sujeitam-se aos requisitos de admissibilidade nele previstos, conforme diretriz contida no Enunciado Administrativo n. 2 do Plenário do STJ.
+2. "A teor do disposto no art. 4º do Decreto 20.910/32, o curso do prazo prescricional aplicável às ações contra a Fazenda Pública é suspenso durante a pendência de requerimento administrativo, e somente torna a correr com a decisão final ou ato que põe fim ao processo administrativo" (AgRg no AREsp 419.690/ES, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 4/11/2015). Em igual sentido: AgRg no REsp 1.362.580/RJ, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 8/5/2017; AgInt no AgInt no AREsp 883.636/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 27/10/2016; AgRg no REsp 1.450.490/GO, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 9/10/2014.
+3. Agravo regimental não provido.
+(AgRg no AREsp 376.965/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/10/2017, DJe 20/10/2017)
+Ante o exposto, nego provimento ao agravo. Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC/2015).
+Publique-se.
