@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] e outros contra decisão que não admitiu, na origem, recurso especial manejado, com base no art. 105, III, a, da CF, em face de acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 212):
+ADMINISTRATIVO. REINTEGRAÇÃO DE POSSE. DEFENSORIA PÚBLICA. INTIMAÇÃO PESSOAL. ARTIGO 128, I, LC N. 80/94 C/C ARTIGO 5º, §5º DA LEI 1.060/50. PRÓPRIO NACIONAL. BEM PÚBLICO. DECRETO LEI 9.760/46. NOTIFICAÇÃO EXTRAJUDICIAL. ESBULHO POSSESSÓRIO. APELAÇÃO DESPROVIDA.
+1. Constatando-se a ausência de oportuna intimação após a sentença, há que se conhecer da apelação interposta, ainda que posteriormente ao julgado proferido em remessa necessária.
+2. Não tendo havido prejuízo à parte que deixou de ser intimada, não há que se pronunciar a declaração de nulidade do julgamento realizado em sede de remessa necessária, considerando o disposto no art. 249, §2º, do CPC.
+3. No mérito da apelação, cabe ressaltar que o Próprio Nacional é bem público, de modo que o militar que dele usufrui encontra-se em situação de mera detenção, de natureza precária, conforme se extrai do DL 9.760/46, podendo a União reavê-lo a qualquer tempo, em atenção ao interesse público.
+4. Ocupando o militar próprio nacional, na condição de militar ativo, cessada a atividade, deve desocupar o imóvel que lhe foi cedido naquela condição, sendo sua permanência posterior considerada esbulho possessório.
+5. No caso dos autos, não tendo a parte ré, esposa do militar transferido à reserva remunerada, desocupado o imóvel no prazo de 90 dias estabelecido no art. 89, §3º, "a", do DL 9.760/46, conforme se verifica das notificações extrajudiciais recebidas (fls. 18/21), resta caracterizado o esbulho possessório, pelo que a reintegração de posse é medida que se impõe.
+6. Apelação desprovida.
+Opostos embargos declaratórios, foram rejeitados.
+Irresignada, a parte recorrente aponta violação aos arts. 535, II, e 267, VI, ambos do CPC/73. Para tanto, sustenta que o aresto integrativo deveria ser anulado, porque não teria sanado vício indicado nos aclaratórios. Por fim, aduz que o imóvel não pertenceria à União, o que tornaria a possessória incabível.
+É o relatório.
+De pronto, cumpre frisar que é deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC/73 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF. Nesse mesmo sentido são os seguintes precedentes: AgRg no REsp 1.084.998/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 12/3/2010; AgRg no REsp 702.802/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma DJe 19/11/2009, e REsp 972.559/RS, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, DJe de 9/3/2009.
+Quanto à suposta violação ao art. 267, VI, do CPC/73, melhor sorte não socorre a parte agravante, pois a análise das certidões registrais do imóvel, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se.
