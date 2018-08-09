@@ -1,0 +1,22 @@
+EMENTA
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA COMUM ESTADUAL E JUSTIÇA FEDERAL. EMBARGOS DE TERCEIRO OPOSTOS PELA CAIXA ECONÔMICA FEDERAL. EXECUÇÃO ENTRE PARTICULARES. COMPETÊNCIA ABSOLUTA. CONEXÃO. IMPOSSIBILIDADE.
+1 - Compete à Justiça Federal processar e julgar embargos de terceiro opostos pela Caixa Econômica Federal, nos termos do art. 109, I, da CF/88.
+2 - Não sendo possível a conexão perante o Juízo Estadual, deve a execução em trâmite no juízo estadual ser suspensa até o trânsito em julgado dos referidos embargos para evitar o risco de decisões conflitantes.
+3 - Conflito conhecido para declarar competente o Juízo suscitado.
+DECISÃO
+ Trata-se de conflito negativo de competência suscitado pelo JUIZO DE DIREITO DA 1ª VARA DE SÃO JOÃO BATISTA - SC em face do JUÍZO FEDERAL DA 1A VARA DE BRUSQUE - SJ/SC.
+Ação: Embargos de Terceiro opostos pela Caixa Econômica Federal em razão de penhora de imóvel constrito nos autos de ação de cobrança proposta por Condomínio Residencial São João Batista em face de [NOME] em trâmite na Justiça Estadual.
+Decisão do Juízo Federal: determinou a devolução dos autos ao Juízo Estadual, porquanto o juízo federal é incompetente para o julgamento de embargos de terceiro opostos pela CEF quando se busca a desconstituição de ato executório praticado por juízo estadual.
+Decisão do Juízo Estadual: suscitou o presente conflito sob o fundamento de que o Juízo Federal é único competente para julgar demanda em que é parte empresa pública federal, nos termos do art. 109, I, da CF/88.
+Parecer do MPF: o i. Sub-Procurador Geral da República, [NOME], opina pela competência do Juízo Federal.
+RELATADO O PROCESSO, DECIDE-SE.
+A Segunda Seção do STJ já possui entendimento firmado no sentido de que os embargos de terceiro opostos pela Caixa Econômica Federal em ações de execução em trâmite na Justiça Federal devem ser julgados pela Justiça Federal, em obediência ao art. 109, I, da CF/88, suspendendo-se o processo de execução na Justiça Comum para se evitar o risco de decisões conflitantes.
+"CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA COMUM ESTADUAL E JUSTIÇA FEDERAL. AÇÃO DE EXECUÇÃO AJUIZADA PERANTE A JUSTIÇA ESTADUAL. EMBARGOS DE TERCEIRO OPOSTOS PELA CAIXA ECONÔMICA FEDERAL. INEXISTÊNCIA DE CONEXÃO. AÇÃO DE EXECUÇÃO SOBRESTADA NA COMPETÊNCIA DA JUSTIÇA COMUM. EMBARGOS DE TERCEIRO. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+I. A reunião de processos por conexão, como forma excepcional de modificação de competência, só ocorre quando as causas supostamente conexas estejam submetidas a juízos, em tese, competentes para o julgamento das duas demandas.
+II. É competente a Justiça Federal para o julgamento dos embargos de terceiro opostos pela Caixa Econômica Federal, devendo ser sobrestada na Justiça Estadual, a ação de execução, até julgamento dos referidos embargos, pela Justiça Federal, para evitar prolação de decisões conflitantes. Conflito de competência conhecido declarando-se competente para o julgamento dos embargos de terceiro o Juízo Federal da 24ª Vara da Seção Judiciária do Estado de Minas Gerais, ora suscitante." (CC 93.969/MG, 2ª Seção, DJe 05/06/2008);
+"PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. EXECUÇÃO. EMBARGOS DE TERCEIRO. CONEXÃO. CAIXA ECONÔMICA FEDERAL. ASSISTÊNCIA. JUSTIÇA FEDERAL. COMPETÊNCIA. IMPRORROGABILIDADE. CONSTITUIÇÃO FEDERAL, ART. 109, [NOME] De acordo com a disposição constitucional inserta no art. 109, I, cabe à Justiça Federal o processamento e o julgamento de ações em que se configure interesse de ente federal, na condição de autor, réu, assistente ou opoente, não se lhe aplicando a conexão prevista no Código de Processo Civil se não atendida aquela condição.
+II. Precedentes.
+III. Determina-se, em hipóteses como a presente, porém, o sobrestamento da execução até o trânsito em julgado dos embargos que se lhes sejam prejudiciais, com a finalidade de prevenir eventuais decisões conflitantes ou irreversíveis.
+IV. Conflito conhecido, fixando-se a competência do Juízo estadual para julgar a execução, que ficará sustada até o trânsito em julgado dos embargos de terceiro na Justiça Federal." (CC 31.696/MG, SEGUNDA SEÇÃO, julgado em 09/05/2001, DJ 24/09/2001, p. 233)
+Forte nessas razões, CONHEÇO do conflito para determinar a competência do JUÍZO FEDERAL DA 1ª VARA DE BRUSQUE - SJ/SC para julgamento dos embargos de terceiro opostos pela Caixa Econômica Federal, devendo a execução em trâmite no Juízo Estadual ficar suspensa até o trânsito em julgado dos embargos de terceiro.
+Publique-se. Intime-se. Oficie-se.
