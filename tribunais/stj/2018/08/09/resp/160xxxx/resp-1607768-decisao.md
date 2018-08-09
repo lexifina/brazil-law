@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL - PRESTAÇÃO DE CONTAS - SEGUNDA FASE - CONTRATO DE ABERTURA DE CRÉDITO EM CONTA CORRENTE. SENTENÇA DE PROCEDÊNCIA, COM A CONDENAÇÃO DO REQUERIDO À RESTITUIÇÃO AO AUTOR DOS VALORES COBRADOS INDEVIDAMENTE. RECURSO MANEJADO PELO BANCO RÉU (HSBC). PRETENSÃO REVISIONAL. NÃO OCORRÊNCIA. JUROS REMUNERATÓRIOS. APLICAÇÃO DA MÉDIA DE MERCADO EM FUNÇÃO DA AUSÊNCIA DE COMPROVAÇÃO DA CONTRATAÇÃO. CAPITALIZAÇÃO DE JUROS. AUSÊNCIA DE PREVISÃO CONTRATUAL. EXCLUSÃO. CORREÇÃO MONETÁRIA DO VALOR A SER RESTITUÍDO. PEDIDO DE INCIDÊNCIA A PARTIR DO TRÂNSITO EM JULGADO. IMPOSSIBILIDADE. RECURSO CONHECIDO E NÃO PROVIDO.
+APELAÇÃO CÍVEL (MEDINÓX)
+DA PRETENSÃO DE SEREM ACEITAS COMO BOAS AS CONTAS APRESENTADAS. DECISÃO MONOCRÁTICA QUE CONCLUIU PELA NECESSIDADE DA REALIZAÇÃO DE PROVA PERICIAL CONTÁBIL PARA AFERIR AS CONTAS APRESENTADAS PELAS PARTES. PROVA PERICIAL QUE NÃO REALIZOU. IMPOSSIBILIDADE DE ACOLHIMENTO DAS CONTAS COMO BOAS E BEM PRESTADAS.
+CAPITAUZAÇÃO ANUAL DE JUROS. AUSÊNCIA DE PROVA DA CONTRATAÇÃO. AFASTAMENTO.
+TARIFAS BANCÁRIAS. AUTORIZAÇÃO CONTRATUAL NÃO EVIDENCIADA. REPETIÇÃO SIMPLES DOS VALORES CORRESPONDENTES. SÚMULA 44 DO TJPR. - CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS FIXADOS ADEQUADAMENTE.
+COMPENSAÇÃO MANTIDA.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+A parte recorrente sustenta que, na prática, a ação de prestação de contas foi utilizada para revisar os encargos cobrados pela instituição financeira no contrato objeto do pedido, providência que não encontra guarida na jurisprudência do STJ.
+Destaca-se que a decisão recorrida foi publicada antes da entrada em vigor da Lei 13.105/2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+O tema oferecido a debate já foi examinado pela Segunda Seção do STJ, no julgamento, sob o rito dos recursos especiais repetitivos (artigo 543-C do Código de Processo Civil de 1973) do REsp n. 1.497.831/PR (DJe 7/11/2016), assim ementado:
+PROCESSUAL CIVIL. RECURSO ESPECIAL REPETITIVO. AÇÃO DE PRESTAÇÃO DE CONTAS. SEGUNDA FASE. CONTRATO DE ABERTURA DE CRÉDITO EM CONTA CORRENTE. JUROS REMUNERATÓRIOS E CAPITALIZAÇÃO DOS JUROS. IMPOSSIBILIDADE DE REVISÃO DOS ENCARGOS CONTRATUAIS, QUE DEVEM SER MANTIDOS NOS TERMOS EM QUE PRATICADOS NO CONTRATO BANCÁRIO SEM PREJUÍZO DA POSSIBILIDADE DE AJUIZAMENTO DE AÇÃO REVISIONAL.
+1. Tese para os efeitos do art. 543-C do Código de Processo Civil de
+1973: - Impossibilidade de revisão de cláusulas contratuais em ação
+de prestação de contas.
+2. O titular da conta-corrente bancária tem interesse processual para propor ação de prestação de contas, a fim de exigir do banco que esclareça qual o destino do dinheiro que depositou, a natureza e
+o valor dos créditos e débitos efetivamente ocorridos em sua conta, apurando-se, ao final, o saldo credor ou devedor. Exegese da Súmula 259.
+3. O rito especial da ação de prestação de contas não comporta a pretensão de alterar ou revisar cláusula contratual, em razão das limitações ao contraditório e à ampla defesa.
+4. Essa impossibilidade de se proceder à revisão de cláusulas contratuais diz respeito a todo o procedimento da prestação de contas, ou seja, não pode o autor da ação deduzir pretensões revisionais na petição inicial (primeira fase), conforme a reiterada jurisprudência do STJ, tampouco é admissível tal formulação em impugnação às contas prestadas pelo réu (segunda fase).
+5. O contrato de conta-corrente com abertura de limite de crédito automático (cheque especial) é negócio jurídico complexo. Se o cliente não utiliza o limite de crédito, não há dúvida de que o banco está empregando o dinheiro do correntista na compensação dos cheques, ordens de pagamento e transferências por ele autorizadas. Havendo utilização do limite do cheque especial, concretiza-se contrato de empréstimo, cuja possibilidade era apenas prevista no contrato de abertura da conta.
+6. A taxa de juros do empréstimo tomado ao banco não diz respeito à administração dos recursos depositados pelo autor da ação. Ela compreende a remuneração do capital emprestado e flutua, conforme as circunstâncias do mercado e as vicissitudes particulares, em cada momento, da instituição financeira e do cliente. A taxa de juros em tal tipo de empréstimo é informada por meios diversos, como extratos, internet e atendimento telefônico.
+7. Não se sendo a ação de prestação de contas instrumento processual adequado à revisão de contrato de mútuo (REsp. 1.293.558/PR, julgado sob o rito do art. 543-C do CPC/1973, relator Ministro Luís Felipe Salomão), da mesma forma não se presta esse rito especial para a revisão de taxas de juros e demais encargos de empréstimos obtidos por meio de abertura de limite de crédito em conta-corrente.
+8. O contrato bancário que deve nortear a prestação de contas e o
+respectivo julgamento - sem que caiba a sua revisão no rito especial
+- não é o simples formulário assinado no início do relacionamento, mas todo o conjunto de documentos e práticas que alicerçaram a
+relação das partes ao longo dos anos. Esse feixe de obrigações e direitos não cabe alterar no exame da ação de prestação de contas.
+9. Caso concreto: incidência do óbice da Súmula n. 283 do STF, no
+tocante à alegação de decadência quanto ao direito de impugnar as contas. No mérito, o Tribunal de origem, ao decidir substituir a taxa de juros remuneratórios aplicada ao longo da relação contratual e excluir a capitalização dos juros, ao fundamento de que não houve comprovação da pactuação de tais encargos, efetuou, na realidade, revisão do contrato de abertura de crédito em conta corrente, o que não é compatível com o rito da prestação de contas.
+10. Recurso especial a que se dá parcial provimento para manter os juros remuneratórios e a capitalização nos termos em que praticados no contrato em exame, sem prejuízo da possibilidade de ajuizamento de ação revisional.
+Com efeito, o exame do acórdão recorrido revela que, a despeito de afirmar o contrário, o Tribunal de origem efetuou revisão da relação contratual havida entre as partes, com a alteração da taxa de juros praticada e a exclusão da capitalização, o que não se comporta no âmbito da ação de prestação de contas.
+À luz do exposto, dou provimento ao recurso especial para manter os juros remuneratórios e a capitalização nos termos em que praticada no contrato bancário em exame, sem prejuízo da possibilidade de ajuizamento de ação revisional. A parte recorrida arcará com as custas e honorários advocatícios arbitrados em R$ 1.000,00 (mil reais).
+Intimem-se.
