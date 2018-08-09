@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo manejado por Tacom Projetos de Bilhetagem Inteligente LTDA. contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco, assim ementado (fl. 290):
+ADMINISTRATIVO E PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. APELAÇÕES CONTRA SENTENÇA QUE EXTINGUIU O PROCESSO SEM JULGAMENTO DO MÉRITO EM FACE DA ILEGITIMIDADE PASSIVA. LEI 13.235/2007. ASSUNÇÃO DO PASSIVO DA ANTIGA EMTU PELO ESTADO DE PERNAMBUCO, ATRAVÉS DA PERPART. AUSÊNCIA DE PROVA DE QUE O CONSÓRCIO DE TRANSPORTES DA REGIÃO METROPOLITANA DO RECIFE RECEBEU EXPRESSAMENTE O CONTRATO COM A TACOM. ILEGITIMIDADE PASSIVA MANTIDA. HONORÁRIOS ADVOCATÍCIOS. VALOR FIXADO PELO JUÍZO DE PRIMEIRO GRAU MANTIDO. RECURSOS NÃO PROVIDOS.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1.022 do CPC/2015.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 371, 489, II, 1.022, I e II; e 6º, § 3º, da Lei Estadual nº 13.235/2007. Sustenta que: (I) o Tribunal de origem, ao entender pela ilegitimidade passiva da parte agravada, foi omissa em relação à prova dos autos e não fundamentou devidamente a decisão
+O recurso especial não foi admitido pela origem com base na: (I) ausência de omissão; (II) ausência de prequestionamento (Súmula 282/STF) das matérias relativas aos arts. 489 e 371 do CPC/2015.
+Nas razões do agravo, a parte repisa os argumentos expendidos em sede de recurso especial, ressaltando: (I) a ocorrência de omissão; (II) a desnecessidade do reexame probatório e o caráter exclusivo de de direito da decisão.
+É o relatório.
+Verifica-se, inicialmente, que o inconformismo nem sequer ultrapassa a barreira do conhecimento no que tange aos arts. 371 e 489 do CPC/2015, pois não foi impugnado o motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial, qual seja, a aplicação do óbice previsto na Súmula 282/STF, fundamento autônomo e suficiente para a manutenção da decisão ora agravada nesses pontos.
+Incide, quanto a esses dispositivos, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Quanto à alegação de afronta ao art. 6º, § 3º, da Lei Estadual nº 13.235/2007, o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário."). Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENSÃO POR MORTE. SOBRINHO. CONTROVÉRSIA RESOLVIDA COM BASE EM LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE DE EXAME EM RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 280/STF. DISSÍDIO PREJUDICADO.
+1. O exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de lei local, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário." ).
+2.  ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.263.805/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 21/6/2018, DJe 26/6/2018)
+Por fim, verifica-se, não ter ocorrido ofensa ao art. 1.022 do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento e interpretação probatória desfavorável ao interesse da parte com negativa ausência de prestação jurisdicional.
+O Tribunal de origem manifestou-se expressamente acerca da ausência de legitimidade da parte agravada com base na prova dos autos, inclusive sob a ótica do dispositivo de legislação local tido por ignorado. Veja-se (fls. 291/292):
+Compulsando os autos verifico, de fato, a ilegitimidade passiva GRANDE RECIFE - CONSÓRCIO DE TRANSPORTES DA REGIÃO METROPOLITANA DO RECIFE e explico.
+A Lei nº 13.235/2007, em seu art. 6º, §2º e 3º, estabelece que:
+ ..
+Conforme se observa da leitura do dispositivo acima mencionado, a execução de título extrajudicial, visando o pagamento de débito oriundo de contrato realizado entre a TACOM e antiga EMTU, jamais poderia ter como sujeito passivo o CONSÓRCIO DE TRANSPORTES DA REGIÃO METROPOLITANA DO RECIFE, pois o passivo da antiga EMTU foi assumido integralmente pelo ESTADO DE PERNAMBUCO, através da Pernambuco Participações e Investimentos - PERPART.
+Ainda, não há nos autos prova de que o CONSÓRCIO DE TRANSPORTES DA REGIÃO METROPOLITANA DO RECIFE recepcionou expressamente o contrato cujas eventuais dívidas são objetos de litígio da presente execução, devendo a ação ser manejada em face do Estado de Pernambuco, sucessora da EMTU, conforme determina a Lei 13.235/2007.
+Afasta-se, assim, a alegada omissão ou negativa de prestação jurisdicional tão somente pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte. Sobre o tema:
+ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PUBLICIDADE INSTITUCIONAL MANUSEADA COM A FINALIDADE DE DENEGRIR A IMAGEM DE ADVERSÁRIOS POLÍTICOS. ATIVIDADE JUDICIAL PRESTADA INTEGRALMENTE. ELEMENTO SUBJETIVO COMPROVADO. REVISÃO DE SANÇÕES. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional 2. Para a configuração do ato de improbidade, faz-se necessária a análise do elemento volitivo, consubstanciado pelo dolo, ao menos genérico, de agir no intuito de infringir os princípios regentes da Administração Pública (REsp 951.389/SC, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 4/5/2011).
+3.  ..
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 793.579/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 12/6/2018, DJe 19/6/2018)
+Ante o exposto, conheço parcialmente o agravo e, nesse ponto, nego-lhe provimento.
+Publique-se.
