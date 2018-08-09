@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Departamento Estadual de Trânsito do Ceará - Detran/CE, com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do referido Estado, assim ementado (fl. 213):
+EMENTA: DIREITO ADMINISTRATIVO. REEXAME NECESSÁRIO. RECURSOS DE APELAÇÃO INTERPOSTO POR DETRAN/CE E AMC. AUSÊNCIA DA DUPLA NOTIFICAÇÃO DE SUPOSTAS MULTAS DE TRÂNSITO. INADMISSÍVEL. LICENCIAMENTO DE VEÍCULO CONDICIONADO AO PAGAMENTO DE MULTAS. SANÇÃO POLÍTICA. IMPOSSIBILIDADE. RECURSOS CONHECIDOS E DESPROVIDOS.
+1. Não comprovada a notificação válida das multas alusivas às infrações de trânsito, inadmissível é condicionar o licenciamento do veículo ao prévio pagamento das referidas multas. Súmulas 312 e 127 do STJ e Súmula 28 do TJCE.
+2. No presente caso, não merece reforma a sentença de primeiro grau, posto que inexistem provas acerca da validade da notificação das multas; portanto, inadmissível a conduta dos recorrentes ao vincularem o licenciamento do veículo ao pagamento de multas cuja notificação não observou as determinações normativas.
+Sentença confirmada.
+Irresignada, a parte recorrente aponta, além da divergência jurisprudencial, violação aos arts. 3º, do CPC/73; 6º, 131, § 2º, e 281 do CTB. Para tanto, sustenta que somente a autoridade de trânsito que lavrou a multa, no caso a Autarquia Municipal de Trânsito, Serviços Públicos e Cidadania de Fortaleza - AMC, detém legitimidade para atuar em demanda que objetiva anular o auto de infração, de forma que o Detran/CE seria parte ilegítima ad causam.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Feita essa observação, cumpre observar que a matéria pertinente aos arts. 3º, do CPC/73; 6º, 131, § 2º, e 281 do CTB não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Em razão do mencionado óbice sumular, não se conhece do dissídio jurisprudencial suscitado.
+Ante o exposto, nego seguimento do recurso especial.
+Publique-se.
