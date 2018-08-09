@@ -1,0 +1,51 @@
+EMENTA
+PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. CITAÇÃO POR EDITAL. RÉ NÃO ENCONTRADA. EFEITOS. SUSPENSÃO DO PROCESSO E DO CURSO DO PRAZO PRESCRICIONAL. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA. PRECEDENTES. SÚMULA 568/STJ. INCIDÊNCIA. ALEGAÇÃO DE NULIDADE DO FEITO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356, AMBAS DO STF. AGRAVO EM RECURSO ESPECIAL CONHECIDO PARA DESPROVER O RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por MARLENE FERNANDES CESÁRIO contra decisão que inadmitiu o seu recurso especial manejado em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o eg. Tribunal de origem, em decisão unânime, negou provimento ao recurso em sentido estrito ali interposto pela Defesa (fls. 1.306-1.312). Eis a ementa do acórdão:
+"RECURSO EM SENTIDO ESTRITO - Preliminar - Pleito de reconhecimento de nulidade da decisão que determinou a suspensão do processo - Descabimento - Ré citada por edital que não constituiu advogado - Hipótese de incidência do artigo 366 do Código de Processo Penal - Suspensão do processo e do prazo prescricional de rigor.
+PRELIMINAR REJEITADA.
+MÉRITO - Inconformismo da ré, pronunciada por homicídio qualificado (motivo torpe e recurso que dificultou a defesa da vítima) - Prova de materialidade e indícios de autoria que autorizam a submissão ao Tribunal do Júri - Pedido de reconhecimento de coação moral irresistível - Impossibilidade - Excludente que não ficou inequivocamente demonstrada - Questão a ser dirimida pelos jurados - Qualificadoras que não se mostram descabidas, não podendo, portanto, serem excluídas neste momento.
+RECURSO DESPROVIDO."
+Sobreveio, então, recurso especial, interposto com fundamento no art. 105, inciso III, alínea a, do permissivo constitucional, no qual se sustentou violação ao art. 366, do Código de Processo Penal. Para tanto, argumenta que:
+a) " ..  em despacho datado de 07/06/2001, conforme fls. 275 o MM. Juiz determinou a separação do processo em relação à acusada Marlene, suspendendo-se o processo e o prazo de prescrição nos termos do artigo 366 do CPP" (fl. 1.320);
+b) " ..  a acusada POSSUÍA à época do despacho de fls. 275 Defensor constituído, motivo pelo qual o artigo 366 do CPP não se aplicava e a suspensão do processo não se justificava" (fl. 1.322);
+c) "o MM. Juiz ao proferir essa decisão fundamentou-se no sentido de que a ré citada por edital não compareceu nem constituiu defensor e os fatos ocorreram em data anterior a vigência da Lei 9271/96 (fls. 275 item2)" (fl. 1.322).
+O eg. Tribunal de origem inadmitiu o apelo nobre com fundamento na Súmula n. 7/STJ e na Súmula n. 284/STF (fls. 1.334-1.335).
+No presente agravo, repisam-se os fundamentos apresentados em sede de recurso especial e refutam-se os argumentos expendidos para negar-lhe trânsito (fls. 1.337-1.341).
+Contraminuta apresentada (fls. 1.343-1.344).
+O Ministério Público Federal, em seu d. parecer, manifestou-se pelo desprovimento do agravo (fls. 1.358-1.361).
+É o relatório.
+Decido.
+Superadas as questões relativas ao conhecimento do agravo, passa-se à análise do recurso especial.
+Inicialmente, no que concerne à alegação de que houve, in casu, violação ao art. 366, do CPP, no sentido de que " ..  a acusada POSSUÍA à época do despacho de fls. 275 Defensor constituído, motivo pelo qual o artigo 366 do CPP não se aplicava e a suspensão do processo não se justificava" (fl. 1.322), identifico que o recurso não merece prosperar.
+O eg. Colegiado a quo, ao julgar o recurso em sentido estrito ali interposto pela Defesa, no que importa ao caso, ao afastar a preliminar de nulidade, assim se manifestou, verbis:
+"2. A preliminar não comporta acolhimento.
+Ao contrário do alegado pela defesa, a decisão que determinou a suspensão do feito foi acertada.
+Preconiza o artigo 366 do Código de Processo Penal que, na hipótese de citação do acusado por edital, se ele não comparecer, nem constituir advogado, ficarão suspensos o processo e o curso do prazo prescricional.
+E, de fato, este era o caso dos autos, uma vez que a ré foi citada por edital - inclusive quando do aditamento da denúncia (fls. 130 e 278) - e deixou de constituir advogado, não se podendo suprir este requisitos pela nomeação de defensor dativo pelo Juízo, especialmente nas circunstâncias do caso concreto, em que mesmo os atos praticados por tal defensor foram renovados quando do prosseguimento do processo criminal, até mesmo com apresentação de resposta à acusação (fls. 517/522)" (fls. 1.306-1.312, grifei).
+Dá análise dos excertos acima transcritos, mostra-se correto o v. acórdão objurgado, tendo em vista que se encontra em consonância com o entendimento estabelecido nesta Corte Superior de Justiça, no sentido de que "Sendo o acusado citado por edital, não tendo comparecido nem nomeado advogado para representá-lo em juízo, o processo e o curso do prazo prescricional restam suspensos, nos termos do art. 366 do Código de Processo Penal" (AgRg no AREsp n. 466.438/DF, Quinta Turma, Rel. Min. Gurgel de Faria, DJe de 4/8/2015, grifei).
+Nesse sentido, confira-se:
+"PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. APROPRIAÇÃO INDÉBITA. CONDENAÇÃO CONFIRMADA PELO TRIBUNAL A QUO. ALEGADO VÍCIO NA CITAÇÃO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PAS DE NULLITÉ SANS GRIEF. AUSÊNCIA DE PREJUÍZO. NULIDADE NÃO SUSCITADA NO MOMENTO OPORTUNO. CONVALIDAÇÃO. ART. 571, II, DO CPP. WRIT NÃO CONHECIDO.
+ ..
+4. No caso em exame, verifica-se que foram realizadas quatro tentativas de citação do paciente, sendo que todas restaram infrutíferas. Em razão disso, o Juízo singular determinou a citação do paciente por edital e, logo após, determinou a suspensão do processo e do prazo prescricional, nos termos do art. 366 do Código de Processo Penal. Posteriormente, o Ministério Público requereu nova tentativa de citação, o que efetivamente ocorreu.
+ ..
+8. Habeas corpus não conhecido." (HC n. 353.588/MS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 30/8/2017, grifei).
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ESTELIONATO. PRETENSÃO DE ABSOLVIÇÃO. AUSÊNCIA DE DOLO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 07/STJ. VIOLAÇÃO DO ART. 366 DO CPP. INOCORRÊNCIA. SUSPENSÃO DO PROCESSO OBRIGATÓRIA. INCOMPATÍVEL COM ATO DECISÓRIO. DOSIMETRIA. ANTECEDENTES CRIMINAIS. EXISTÊNCIA DE CONDENAÇÃO COM TRÂNSITO EM JULGADO. SÚMULA 07/STJ. EXECUÇÃO PROVISÓRIA DA PENA. POSSIBILIDADE. ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS.
+ ..
+II - Na hipótese, um dos corréus não foi encontrado para a realização da citação pessoal e, citado por edital, não indicou advogado para apresentar resposta à acusação. Dessa forma, deve ser aplicado o disposto no art. 366 do Código de Processo Penal ("Se o acusado, citado por edital, não comparecer, nem constituir advogado, ficarão suspensos o processo e o curso do prazo prescricional, podendo o juiz determinar a produção antecipada das provas consideradas urgentes e, se for o caso, decretar prisão preventiva, nos termos do disposto no art. 312"), não se admitindo o prosseguimento da ação criminal até sentença final.
+ ..
+Agravo regimental desprovido." (AgRg no REsp n. 1.691.140/ES, Quinta Turma, de minha relatoria, DJe de 25/5/2018, grifei).
+Dessa forma, estando o v. acórdão prolatado pelo eg. Tribunal a quo em conformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso o enunciado da Súmula n. 568/STJ, in verbis:
+"O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Por fim, no que diz respeito à alegação de que "o MM. Juiz ao proferir essa decisão fundamentou-se no sentido de que a ré citada por edital não compareceu nem constituiu defensor e os fatos ocorreram em data anterior a vigência da Lei 9271/96 (fls. 275 item2)" (fl. 1.322), de igual modo, diviso que o pleito não merece acolhimento.
+Dá análise dos autos, constato que o recurso não reúne condições de admissibilidade, pois o referido tema, nos termos do que mencionado no apelo nobre, não foi objeto de específico debate pelo Colegiado a quo, quando do julgamento do recurso em sentido estrito ali apresentado pela Defesa, o que inviabiliza, neste Superior Tribunal de Justiça, o conhecimento do pedido em sede de recurso especial, devido à ausência de prequestionamento.
+Como bem ressaltado pelo ilustre representante do Parquet Federal, em seu d. parecer: "quanto à suposta nulidade do despacho que determinou a suspensão do processo e do prazo prescricional por terem os fatos ocorridos em data anterior à vigência da Lei n. 9.271/96, a matéria não foi objeto de debate na Corte de origem" (fl. 1.361).
+Assim, ausente a manifestação do eg. Tribunal de origem sobre o tema, sem sequer terem sido opostos embargos de declaração pela Defesa para suprir a suposta omissão, tem-se que o recurso especial não reúne condições de prosperar, em face do indispensável prequestionamento da matéria, a teor do enunciado sumular n. 282 do eg. Supremo Tribunal Federal.
+Nesse sentido, confira-se:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. ART. 12 DA LEI N. 6.368/76. ABSOLVIÇÃO. REVOLVIMENTO DE PROVAS. ÓBICE DA SÚMULA N. 7/STJ. DEPOIMENTO DE POLICIAIS. MEIO DE PROVA. VALIDADE. DOSIMETRIA. ELEMENTOS CONCRETOS. ELEVADA QUANTIDADE DE DROGA. PENA-BASE. EXASPERAÇÃO. POSSIBILIDADE. AFRONTA AO ART. 59 DO CP. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 282 E 356/STF. INSURGÊNCIA DESPROVIDA.
+ ..
+6. A questão relativa ao disposto no art. 59 do Código Penal não foi objeto de discussão na instância de origem, não tendo sido opostos embargos de declaração pela defesa para sanar qualquer omissão no julgado, bem como no recurso especial não se apontou afronta ao art. 619 do Código de Processo Penal de modo a acusar eventual negativa de prestação jurisdicional, esbarrando o pleito recursal no óbice das Súmulas n. 282 e 356/STF, diante da ausência de prequestionamento do tema.
+7. Agravo regimental desprovido." (AgRg no REsp n. 1.514.101/SP, Quinta Turma, de minha lavra, DJe de 24/5/2017).
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial, nos termos do art. 253, parágrafo único, inciso II, alínea b, do Regimento Interno deste Superior Tribunal de Justiça.
+P. e I.
