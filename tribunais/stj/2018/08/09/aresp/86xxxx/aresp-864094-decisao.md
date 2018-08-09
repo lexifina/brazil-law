@@ -1,0 +1,8 @@
+DECISÃO
+PROCESSUAL CIVIL. INTIMAÇÃO DO RECORRENTE PARA APRESENTAR DOCUMENTO QUE COMPROVE TEMPESTIVIDADE DO RECURSO. ENVIO DE OFÍCIO POR ESTA CORTE SUPERIOR AO TRIBUNAL DE ORIGEM PARA FORNECIMENTO DE DADOS QUANTO À DATA DE INTERPOSIÇÃO DO AGRAVO. INFORMAÇÕES, PORÉM, NÃO PRESTADAS PELO TRIBUNAL DE ORIGEM. DETERMINAÇÃO DE DEVOLUÇÃO DOS AUTOS AO TJ/MT PARA A DEVIDA CERTIFICAÇÃO QUANTO À DATA DE INTERPOSIÇÃO DO RECURSO DE AGRAVO EM RECURSO ESPECIAL.
+1. Às fls. 551, a parte insurgente foi intimada nos seguintes termos: tendo em vista o imperativo de celeridade do julgamento, bem como a necessidade de oportunizar a regularização do vício acima citado, determino a intimação do ora agravante/recorrente para, no prazo improrrogável de 5 (cinco) dias, apresentar documento idôneo que comprove a tempestividade dos recursos.
+2. Contudo, o lapso temporal conferido pela Presidência desta Corte Superior fluiu sem qualquer manifestação da parte recorrente.
+3. Porém, compulsando os autos, verifica-se que esta Corte Superior previamente solicitou ao TJ/MT, por ofício, a prestação de informações quanto à data de interposição da petição de Agravo em Recurso Especial (fls. 545), por repetidas vezes (fls. 546), o que não foi atendido pelo Tribunal local (fls. 549).
+4. Mercê do exposto, determina-se a devolução dos autos ao Tribunal de Justiça do Estado de Mato Grosso, para que preste as informações conforme solicitadas nos ofícios encartados nestes autos quanto à data de interposição do Agravo em Recurso Especial, prosseguindo o feito em seus ulteriores termos.
+5. Publique-se.
+6. Intimações necessárias.
