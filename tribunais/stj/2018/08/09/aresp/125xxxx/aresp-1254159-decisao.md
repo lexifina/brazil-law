@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto pelo [NOME], contra decisão que não admitiu recurso especial ofertado de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, manejado com base no art. 105, III, alínea "a", da Constituição Federal.
+Sustenta o agravante, nas razões do recurso especial, violação do art. 489, §1º, II, do Código de Processo Civil.
+Alega, em síntese que o Tribunal de origem, ""embora tenha reconhecido a intenção do acusado em resistir à abordagem, deixou de desclassificar os delitos em análise em razão da distinção das objetividades jurídicas dos tipos penais". Sustenta que ""não há no que se falar em autonomia do crime de disparo de arma de fogo, visto que se trata de uma única conduta, tendo o réu efetuado o disparo com o intuito único de opor-se à execução de sua prisão em flagrante"". Afirma que ""considerando que a própria denúncia informa que o disparo foi realizado durante a fuga do denunciado, e, em obediência ao princípio da correlação da sentença com a denúncia, bem como em razão do réu se defender dos fatos descritos na peça exordial e não do dispositivo em que é incurso, é inadmissível sua condenação pelo delito de disparo de arma de fogo, sendo, assim, impositiva a desclassificação para o delito de resistência, previsto no art. 329, do Código Penal, visto que o sujeito passivo de sua conduta foi a autoridade policial e o disparo não foi efetuado em um contexto vago"".
+Requer o provimento do recurso para ""reconhecer a violação (i) do art. 489, §1º, II, do Código de Processo Civil, visto o emprego de conceitos jurídicos indeterminados na decisão em que desacolheu o pedido de desclassificação do delito de disparo de arma de fogo para o delito de resistência, sem explicar o motivo concreto de sua incidência no caso"" (e-STJ, fls. 471)
+Apresentadas as contrarrazões (e-STJ, 464-472).
+O recurso foi inadmitido com fundamento na Súmula 7/STJ (e-STJ, fls. 500-505) .
+O Ministério Público Federal opinou pelo não conhecimento do agravo em recurso especial (e-STJ, fls. 538-540).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+Acerca da matéria impugnada, o Tribunal assim se manifestou:
+"" ..
+quanto ao crime descrito no artigo 15, caput, da Lei nº 10.826/2003, denota-se que o policial militar foi incisivo ao afirmar que o acusado [NOME] disparou a arma de fogo durante a perseguição, o que se encontra corroborado pelo laudo pericial de fl. 116, que atestou que a arma de fogo estava acompanhada de dois estojos deflagrados da marca CBC, calibre 32, e um cartucho com marca percussão da marca CBC, calibre 32, e que o artefato estava em condições de uso e funcionamento.
+Do mesmo modo, entendo que na presente hipótese, não há falar em princípio da consunção, uma vez que a conduta de disparo de arma de fogo foi praticada em momento totalmente distinto ao roubo duplamente majorado (no instante em que os acusados foram flagrados pela autoridade policial), não havendo, ainda, qualquer relação de subordinação com o delito patrimonial, não integrando o seu iter ciminis.
+ ..
+Igualmente, afasto o pleito defensivo quanto à desclassificação do delito de disparo de arma de fogo para o crime de resistência", pois ainda que a ação do acusado [NOME] objetivasse resistir à abordagem dos policiais militares, a autonomia do crime antecedente (artigo 15, caput, da Lei nº 10.826/2003) jamais ficou abalada, sobretudo diante da nítida distinção das objetividades jurídicas dos tipos penais.
+ .. "" (e-STJ, fls. 375-378, grifou-se).
+Como se vê, o Tribunal de origem, com base no acurado exame do material fático-probatório dos autos, concluiu que "o acusado [NOME] disparou a arma de fogo durante a perseguição, o que se encontra corroborado pelo laudo pericial de fl. 116, que atestou que a arma de fogo estava acompanhada de dois estojos deflagrados da marca CBC, calibre 32, e um cartucho com marca percussão da marca CBC, calibre 32, e que o artefato estava em condições de uso e funcionamento". Sobre o tema pontuou "ainda que a ação do acusado [NOME] objetivasse resistir à abordagem dos policiais militares, a autonomia do crime antecedente (artigo 15, caput, da Lei nº 10.826/2003) jamais ficou abalada, sobretudo diante da nítida distinção das objetividades jurídicas dos tipos penais"".
+Assim para desconstituir o entendimento firmado pelo Tribunal de origem, a fim de desclassificar o delito de disparo de arma de fogo para o crime de resistência, seria necessário o revolvimento do conjunto de fatos e provas, procedimento vedado na via especial, conforme o teor da Súmula 7/STJ.
+A corroborar esse entendimento, confiram-se os seguintes precedentes desta Corte:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRIBUNAL DO JÚRI. DESCLASSIFICAÇÃO PRÓPRIA. CONDENAÇÃO. DISPARO DE ARMA DE FOGO. ALEGADA AUSÊNCIA DO DOLO ESPECÍFICO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Efetivando-se a desclassificação própria, não estaria o Juiz Presidente sujeito a qualquer vinculação, especialmente no que se refere ao dolo do agente e à classificação do novo delito a ele imputado, "algo que sequer tenha sido deliberado pelo Conselho de Sentença".
+2. Para se afastar a conclusão a que chegaram as instâncias ordinárias e considerar que o dolo do agente seria voltado somente a expor a vida ou a saúde de uma vítima à perigo direto e iminente, seria necessário o revolvimento das provas amealhadas aos autos, o que é vedado em recurso especial, consoante o enunciado da Súmula n.
+7 do STJ.
+3. Agravo regimental não provido."
+(AgRg no AREsp 685.281/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 27/06/2017, DJe 01/08/2017).
+"PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO. VIOLÊNCIA DIRIGIDA À COISA. PEDIDO DE DESCLASSIFICAÇÃO PARA O CRIME DE ROUBO. REVOLVIMENTO DO CONTEÚDO PROBATÓRIO. INADMISSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Constatado pelo Tribunal de origem, após detida análise dos fatos, a prática do delito de furto porque a violência empregada pelo agente, durante a ação criminosa, recaiu sobre à coisa objeto da subtração e não foi dirigida à vítima, a fim de reduzir-lhe a capacidade de resistência, o acolhimento da pretensão deduzida neste recurso especial - a desclassificação da conduta do agravado para o crime de roubo - demanda o reexame do conteúdo probatório dos autos, o que é inadmissível em recurso especial (Súmula 7/STJ).
+2. Agravo regimental não provido."
+(AgRg no REsp 1430455/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 01/12/2015, DJe 09/12/2015).
+Ante o exposto, com fundamento no art. 932, III, do CPC c/c art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
