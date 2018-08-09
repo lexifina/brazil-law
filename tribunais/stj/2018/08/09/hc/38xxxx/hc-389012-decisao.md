@@ -1,0 +1,54 @@
+DECISÃO
+[NOME] JACQUELINE SOARES GOMES, paciente neste habeas corpus, alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação n. 0002110-72.2013.8.26.0274).
+Depreende-se dos autos que a paciente foi condenada à pena de 10 anos e 6 meses de reclusão, em regime inicial fechado, pela prática dos delitos descritos nos arts. 33, caput, c/c o art. 40, VI, e 35, caput, c/c art. 40, VI, todos da Lei n. 11.343/2006.
+O impetrante sustenta a ocorrência de constrangimento ilegal, ao argumento de que não há provas suficientes para a condenação da acusada pelo delito de tráfico de drogas.
+Na sequência, afirma que deve ser aplicada a causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 em favor da paciente, por estarem preenchidos todos os requisitos legais para sua incidência.
+Assegura, ainda, que a paciente faz jus ao cumprimento da pena em regime inicial menos gravoso, bem como tem direito à substituição da pena privativa de liberdade por restritiva de direitos.
+Requer, liminarmente e no mérito: a) a absolvição da paciente pelo delito de tráfico de drogas; b) a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006; c) a fixação do regime inicial menos gravoso; e d) a substituição da pena privativa de liberdade por restritiva de direitos.
+A liminar foi indeferida e, prestadas as informações, os autos foram remetidos ao Ministério Público Federal, que manifestou-se pela denegação da ordem.
+Decido.
+I. Impossibilidade de absolvição (crime de tráfico de drogas)
+O Juiz sentenciante entendeu devidamente comprovadas a autoria e a materialidade do delito de tráfico de drogas, consoante a seguir descrito (fls. 125-128, grifei):
+A autoria do crime de tráfico pela ré restou induvidosa. Conforme provas dos autos, [NOME] era amásia do réu [NOME] e atuava ativamente na parte logística do tráfico. Era ela quem organizava as pessoas que buscavam entorpecentes em outras cidades junto aos fornecedores, além de desempenhar outra funções.
+Ficou devidamente demonstrado que a ré ocupa importante posição na organização, porquanto além de prima do falecido THIAGO HENRIQUE SOARES GOMES (Birinha), é companheira de [NOME] [NOME], atuando em plena sintonia e de forma conjunta com ele no tráfico de entorpecente. Nota-se que o telefone utilizado por [NOME] e que fora objeto de interceptação telefônica (16-9133-0895), estava cadastrado em seu nome (vide informações de fls. 99/13 de 09.10.13 e 99/13 de 14.10.13). Ademais, é sabido que a ré utilizava-se de sua filha, a adolescente Franciele, para o transporte de substâncias trazidas de outras cidades.
+As interceptações telefônicas autorizadas judicialmente não deixam dúvidas acerca do tráfico praticado pela acusada, conjuntamente com os demais. Há diversas transcrições acostadas aos autos, todas elas envolvendo a acusado ao comércio ilícito entorpecentes, a saber:  ..
+ ..
+Com efeito, como bem mencionado pelos Promotores de Justiça conclusão que chegaram os agentes públicos, no sentido de que a ré estava associada com os demais agentes na prática do tráfico ilícito, bem como que era responsável pela logística do trafico, torna-se cristalina ao se analisar, o teor das principais degravações relacionadas telefone utilizado, por [NOME].
+Como dito, a transcrição das interceptaçõcs telefônicas demonstram que a agente [NOME] efetivamente trabalhava para a mantença da quadrilha, com a venda da substância entorpecente, fazendo disto seu meio de vida.
+ ..
+Portanto, devidamente comprovada a autoria da ré [NOME], que agia juntamente com seu amásio [NOME] no comando do tráfico de drogas desta cidade.
+A Corte de origem, por sua vez, manteve a condenação da acusada, conforme trechos abaixo (fls. 179-203):
+Por outro lado, a autoria dos crimes, em relação aos apelantes [NOME], [NOME], MARCELO RODRIGUES, [NOME] JACQUELINE SOARES GOMES, VALDINEI PAULINO, também é induvidosa, nos termos exatos prolatados na r. sentença condenatória.
+ ..
+Desta forma, diante do conjunto probatório constante dos autos, não restaram dúvidas do envolvimento dos réus [NOME], VALDINEI, [NOME], MARCELO e GILSON na associação criminosa.
+ ..
+Além disso, o arcabouço probatório constante dos autos logrou demonstrar que [NOME] auxiliava [NOME] no comando da organização criminosa. O celular utilizado por ambos acusados, que estava cadastrado no nome da [NOME], bem como as conversas interceptadas, onde a ré se autodenomina por diversas vezes como "[NOME]", "cunhada" ou "mulher do cascavel", demonstram a sua participação na quadrilha voltada ao tráfico de drogas, e o seu constante auxílio aos atos praticados pelo réu [NOME].
+Conforme se denota das interceptações telefônicas, [NOME] cuidava da logística do tráfico de drogas na região, sendo responsável pela organização e pelo fornecimento dos entorpecentes aos revendedores que atuavam sob o comando de [NOME]. Assim, [NOME] tinha ciência e compactuava com todos os atos praticados por [NOME], tendo, inclusive, ciência das drogas apreendidas na residência de NAYARA.
+Pelos trechos anteriormente transcritos, verifico que as instâncias ordinárias, após toda a análise do conjunto fático-probatório amealhado aos autos, concluíram pela existência de elementos concretos e coesos a ensejar a condenação da paciente pelo crime tipificado no art. 33, caput, da Lei n. 11.343/2006.
+Para tanto, o Juiz sentenciante consignou que "[NOME] era amásia do réu [NOME] e atuava ativamente na parte logística do tráfico. Era ela quem organizava as pessoas que buscavam entorpecentes em outras cidades junto aos fornecedores, além de desempenhar outra funções" (fl. 125). E ressaltou que "as interceptações telefônicas autorizadas judicialmente não deixam dúvidas acerca do tráfico praticado pela acusada, conjuntamente com os demais" (fl. 126).
+O Desembargador relator concluiu que "diante do conjunto probatório constante dos autos, não restaram dúvidas do envolvimento dos réus [NOME], VALDINEI, [NOME], MARCELO e GILSON na associação criminosa" (fl. 210).
+Por essas razões, mostra-se inviável a absolvição da acusada, sobretudo em se considerando que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente, exatamente como verificado nos autos.
+Importante salientar o entendimento deste Superior Tribunal de que é válido o depoimento dos agentes policiais ou de quaisquer outras testemunhas, ainda que colhidas na fase inquisitorial, desde que em conformidade com o conjunto probatório produzido nos autos, conforme consignado pelo julgado recorrido.
+Ainda que assim não fosse, registro que, para entender-se pela absolvição, seria imprescindível o reexame do acervo fático-probatório amealhado aos autos, procedimento vedado em recurso especial, por força do enunciado sumular n. 7 do Superior Tribunal de Justiça.
+Nesse sentido:
+ ..
+2. Considerando que as instâncias ordinárias atestaram a ocorrência do tráfico de drogas com fundamento no conjunto fático-probatório dos autos, mostra-se impossível desconstituir a decisão em recurso especial, em razão do óbice previsto no enunciado n. 7 da Súmula desta Corte.
+ ..
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 516.097/MT, Rel. Ministro Marco Aurélio Bellizze, 5ª T., DJe 18/8/2014)
+II. Minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006
+No que tange à almejada aplicação, em favor da paciente, da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, o Juiz sentenciante entendeu indevida a incidência da benesse, consoante a seguir descrito (fl. 166, grifei):
+Afasto a incidência da causa de diminuição prevista no § 4º do artigo 33, pois, embora seja réu primário, pelos elementos constantes dos autos permite-se concluir-se que pertence à organização criminosa.
+O Tribunal de origem, por sua vez, manteve a não incidência do redutor, nos termos da sentença condenatória.
+Com efeito, segundo o disposto no § 4º do art. 33 da Lei n. 11.343/2006, in verbis:
+§ 4º Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+Sobre a matéria posta em discussão, cumpre destacar que a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, cometendo um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+Por isso mesmo, para a aplicação da minorante em comento, são exigidos, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa e nem se dedique a atividades delituosas.
+No caso, não obstante a paciente fosse tecnicamente primária ao tempo do delito e possuidora de bons antecedentes, verifico que as instâncias ordinárias entenderam indevida a incidência da causa especial de diminuição de pena, com base nas circunstâncias do caso concreto, as quais levaram a crer que a acusada se dedicava a atividades criminosas, notadamente ao narcotráfico, tanto que foi condenada também pelo cometimento do crime previsto no art. 35 da Lei n. 11.343/2006 (associação para o narcotráfico).
+Aliás, cumpre salientar que a Terceira Seção deste Superior Tribunal de Justiça possui o entendimento de que é inviável a aplicação da causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei de Drogas, quando o agente foi condenado também pela prática do crime previsto no art. 35 da Lei de Drogas, por ficar evidenciada a sua dedicação a atividades criminosas ou a sua participação em organização criminosa, no caso, especialmente voltada para o cometimento do narcotráfico.
+Dessa forma, não identifico nenhum constrangimento ilegal também no ponto em que, fundamentadamente, foi negada à paciente a aplicação da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei de Drogas.
+III. Regime de cumprimento de pena e substituição da pena privativa de liberdade por restritiva de direitos
+Diante do insucesso da tese que poderia levar à redução da reprimenda privativa de liberdade, permanece mantida a imposição do regime inicial fechado, nos termos do art. 33, § 2º, "a", do Código Penal, bem como a negativa de substituição da pena privativa de liberdade por restritiva de direitos, por ausência de preenchimento do requisito objetivo previsto no art. 44, I, do Código Penal.
+IV. Dispositivo
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
