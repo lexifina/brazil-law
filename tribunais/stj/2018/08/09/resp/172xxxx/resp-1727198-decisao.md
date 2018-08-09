@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], fundamentado na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial às e-STJ fls. 103/106, in verbis:
+Depreende-se dos autos que o Tribunal de Justiça do Estado de Rondônia, por unanimidade, negou provimento ao recurso de agravo em execução interposto em favor do apenado [NOME]. Eis, por sua ementa, o acórdão:
+EMENTA
+Agravo em execução de pena. Livramento condicional. Reincidência em crime doloso. Unificação das penas. Lapso temporal de 1/2. Art. 83, II, e 84 do CP. Recurso não provido. A condição de reincidente, uma vez adquirida pelo apenado, altera o requisito objetivo para a concessão do livramento condicional, devendo o percentual de 1/2 incidir sobre a totalidade das reprimendas unificadas, e não de forma isolada em cada condenação, tampouco a aplicação de percentuais diferenciados para cada uma das penas (precedente do STJ)." (fls. 65)
+Dessa decisão, a Defesa interpôs o presente recurso especial no qual aponta, em síntese, contrariedade ao art. 83, I, do Código Penal, por ter sido negado o pedido de concessão do livramento condicional ao recorrente com fundamento em requisitos não previstos na legislação pátria.
+Requer que o presente recurso seja conhecido e provido, a fim de conceder ao apenado o benefício do livramento condicional.
+Decisão de admissibilidade às Fls. 91.
+Ao final, o Parquet opinou pelo desprovimento do recurso especial (e-STJ fls. 103/106).
+É o relatório. Decido.
+Assim decidiu a Corte estadual (e-STJ fls. 68/70):
+Extrai-se dos autos que o agravante possui 07 condenações pela prática de diversos crimes, sendo que a soma das penas aplicadas resultou em 13 anos 05 meses e 14 dias de reclusão e, para fins de projeção do benefício do livramento condicional , restou considerada a fração de 1/2, em razão da reincidência, consoante cálculo (fls. 28/31).
+O agravante pleiteia o reconhecimento de sua primariedade em relação à condenação de nº 1, bem como seja considerada a fração de 1/3, para fins de livramento condicional.
+Sem razão o agravante.
+ ..
+Na hipótese, consoante cálculo de liquidação de penas, o agravante/reeducando é reincidente, e procedida a unificação das penas, para se beneficiar do livramento condicional, deverá cumprir mais da metade sobre a totalidade da pena, a teor do que dispõe o art. 83, II, c/c art. 84, ambos do CP.
+No mesmo sentido:
+STJ - (..) Nos termos do dispositivo do art. 84 do Código Penal, as penas que correspondem a infrações diversas devem somar-se para efeito do livramento condicional e, sendo o apenado reincidente em crime doloso, o beneficio é concedido quando cumprida mais da metade da pena (art. 83, II, do CP).
+3. A jurisprudência desta Corte Superior possui entendimento pacífico de que a condição de reincidente, uma vez adquirida pelo apenado, altera o requisito objetivo para a concessão do livramento condicional, devendo o percentual de 1/2 incidir sobre a totalidade das reprimendas unificadas, e não de forma isolada em cada condenação, tampouco a aplicação de percentuais diferenciados para cada uma das penas (precedentes).
+4. Habeas corpus não conhecido. (HC 350.385/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 06/10/2016, DJe 26/10/2016)
+De fato, procedida a unificação de penas, não há falar em fracionamento para reconhecer a primariedade em relação à parte da condenação para fins de concessão de benefício da execução penal, devendo a reincidência incidir sobre o montante da pena resultante da unificação.
+Ademais, vale registrar que a reincidência é circunstância de natureza pessoal, que, uma vez reconhecida e constatada, passa a reger todo o cumprimento da pena, resultando, consequentemente, no atendimento e imposição de frações mais elevadas para o alcance de benefícios, tendo como exemplo o livramento condicional, como já mencionado.
+Sobre o tema, eis a jurisprudência pacifica do STJ:
+ ..  4. É firme a orientação do STJ no sentido de que, havendo pluralidade de condenações, as penas devem ser unificadas, realizando- se o cálculo do livramento condicional sobre o montante obtido, nos termos do art. 84 do CP. 5. Reconhecida a reincidência, passa o apenado a ostentar a condição de reincidente, gerando efeitos, de imediato, no cálculo dos futuros benefícios da execução criminal, inclusive quanto à incidência da fração de 1/2 para a concessão do livramento condicional, não havendo falar em aplicação concomitante do patamar de 1/3 para a execução de pena aplicada ao tempo em que era primário e de 1/2 para as
+demais execuções. Precedentes. 6. Habeas corpus não conhecido. (HC 306.921/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 14/02/2017, DJe 23/02/2017). (g.n.).
+No mesmo sentido - AgRg no RHC 43.743/SP, Rel. Min. Jorge Musssi, 5a Turma, DJE 14/11/2014.
+Nesse passo, reconhecida a reincidência, automaticamente passa o apenado a ostentar a condição de reincidente, gerando efeitos, de imediato, no cálculo dos futuros benefícios da execução criminal, dentre eles a incidência da fração de 1/2 para a concessão do livramento condicional.
+Logo, sem razão o pleito que pretendia a aplicação concomitante do patamar de 1/3 para a execução de pena aplicada ao tempo em que era primário. (grifei)
+O recorrente pede a concessão do benefício do livramento condicional, considerando-se no cálculo do requisito objetivo a fração de 1/3 para as duas condenações em que foi reconhecida a sua primariedade.
+Contudo, a jurisprudência do Superior Tribunal de Justiça consolidou-se no sentido de que, existindo infrações diversas, deve-se somar as reprimendas aplicadas para fins de livramento condicional, exigindo-se para o preenchimento do requisito objetivo o cumprimento de mais de um terço do total das penas se o apenado não for reincidente em crime doloso; e, em caso de reincidência do condenado, o cumprimento de mais da metade das reprimendas, a teor dos arts. 83, incisos II e III, e 84, ambos do Código Penal, que assim dispõem:
+Art. 83 - O juiz poderá conceder livramento condicional ao condenado a pena privativa de liberdade igual ou superior a 2 (dois) anos, desde que:
+I - cumprida mais de um terço da pena se o condenado não for reincidente em crime doloso e tiver bons antecedentes;
+II - cumprida mais da metade se o condenado for reincidente em crime doloso.
+Art. 84 - As penas que correspondem a infrações diversas devem somar-se para efeito do livramento.
+Dessa forma, reconhecida a reincidência do apenado em uma das condenações, tem-se que os efeitos dela decorrentes incidem sobre todas as outras sanções, razão pela qual não há que se falar em cálculo do requisito objetivo para fins de livramento condicional com a fração de 1/3 para as condenações em que foi reconhecida a primariedade e com a de 1/2 para aquelas em que o paciente foi considerado reincidente.
+Nesse sentido, confiram-se os seguintes precedentes:
+HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. REQUISITO OBJETIVO. CONDENAÇÕES DIVERSAS. SOMA DAS REPRIMENDAS. REINCIDÊNCIA. EXIGÊNCIA DE 1/2 (METADE). INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. WRIT NÃO CONHECIDO.
+ ..
+2. A jurisprudência deste Superior Tribunal de Justiça consolidou-se no sentido de que existindo infrações diversas, deve-se somar as reprimendas aplicadas para fins de livramento condicional, exigindo-se para o preenchimento do requisito objetivo o cumprimento de mais de um terço do total das penas se o apenado não for reincidente em crime doloso; e, em caso de reincidência do condenado, o cumprimento de mais da metade das reprimendas, a teor dos arts. 83, incisos II e III, e 84, ambos do Código Penal.
+3. Reconhecida a reincidência do apenado em uma das condenações, têm-se que os efeitos dela decorrentes incidem sobres todas as outras sanções, razão pela qual não há que se falar em cálculo do requisito objetivo para fins de livramento condicional a fração de 1/3 (um terço) para as condenações em que foi reconhecida a primariedade e de 1/2 (metade) para aquelas em que o paciente foi considerado reincidente.
+4. No caso dos autos, o Tribunal de origem manteve a decisão do Juízo da Execução que, reconhecida a reincidência do apenado, considerou como cálculo para o requisito objetivo o cumprimento de 1/2 (metade) do total das reprimendas impostas para fins de livramento condicional, em harmonia com a jurisprudência desta Corte Superior, inexistindo, portanto ilegalidade no acórdão impugnado que justifique a concessão do writ de ofício.
+5. Ordem não conhecida. (HC 315.592/RS, de minha relatoria, SEXTA TURMA, julgado em 16/08/2016, DJe 26/08/2016, grifei.)
+RECURSO ESPECIAL. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. REINCIDÊNCIA EM CRIME DOLOSO. VÁRIAS CONDENAÇÕES. FRAÇÃO DE 1/2 APLICÁVEL AO SOMATÓRIO DAS PENAS. ART. 83, II, DO CP. RECURSO PROVIDO.
+1. As penas relacionadas a condenações diversas devem somar-se para efeito do livramento condicional, a teor do art. 84 do CP.
+2. Esta Corte possui a orientação de que sendo o apenado reincidente em crime doloso comum e havendo pluralidade de condenações, é aplicável a fração de 1/2 sobre a soma de todas as penas sob execução, ainda que primário ao tempo de algumas sentenças, pois a condição de reincidente passa a reger todo o cálculo de benefícios, impondo o atendimento de fração mais elevada para o alcance do livramento condicional.
+3. Não se aplica, de forma separada, o patamar de 1/3 para a execução de penas referentes ao tempo em que o paciente era primário e de 1/2 para as demais execuções.
+4. Recurso especial provido. (REsp 1596738/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 30/06/2016, DJe 01/08/2016, grifei.)
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CONHECIMENTO DO WRIT. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. CÁLCULO DO BENEFÍCIO. MONTANTE OBTIDO PELA UNIFICAÇÃO DAS PENAS. ART. 84 DO CP. REINCIDÊNCIA EM CRIME DOLOSO. ART. 83, II, DO CP. LAPSO TEMPORAL DE 1/2.  ..
+2. Havendo pluralidade de condenações, as penas devem ser unificadas, realizando-se o cálculo do livramento condicional sobre o montante obtido, nos termos do art. 84 do CP.
+3. Uma vez reconhecida a reincidência, o apenado passa a ostentar tal condição, o que gera efeitos, de imediato, no cálculo dos futuros benefícios da execução criminal, inclusive quanto à incidência da fração de 1/2 para a concessão do livramento condicional (art. 83, II, do CP), não havendo falar na aplicação concomitante do patamar de 1/3 para a execução de pena aplicada ao tempo em que era primário e de 1/2 para as demais execuções.
+4. Habeas corpus não conhecido. (HC n. 336.860/RS, Relator o Ministro Nefi Cordeiro, SEXTA TURMA, DJe de 16/2/2016, grifei.)
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
