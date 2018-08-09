@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo - Conselheiro Furtado assim ementado:
+"PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO JUDICIAL. PENHORA DE FATURAMENTO MENSAL. POSSIBILIDADE EM ABSTRATO. PRECEDENTES DO STJ. IMPOSSIBILIDADE DE CUMPRIMENTO NO CASO CONCRETO. PARALISAÇÃO DAS ATIVIDADES DA EMPRESA. INEXISTÊNCIA DE FATURAMENTO MENSAL. DECISÃO AGRAVADA MANTIDA.
+1. A concordata não inviabiliza a penhora de faturamento, devendo, todavia, ser levada em consideração na estipulação do percentual objeto da constrição. Ocorre que, no caso concreto, o comissário informou que a concordatária não está mais mantendo suas atividades em 19/01/2012, ao passo que o oficial de Justiça descreveu a real situação da sede da concordatária, e constatou que a fábrica parou suas atividades de prestação de serviços em setembro de 2011.
+2. Demonstrada a inexistência de faturamento mensal da empresa - ante a paralisação de suas atividades, a alienação de seu maquinário e o abandono de suas plantas -, não haveria mesmo como subsistir a ordem de penhora de 10% de seu faturamento, porque impossível o seu cumprimento. Outra alternativa não há senão a habilitação do crédito do agravante nos autos da concordata preventiva, onde será classificado conforme a ordem de preferências da lei, exatamente o que determinou a r. decisão agravada.
+3. Recurso improvido" (fl. 1.761 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 1.794/1.797 e-STJ).
+No recurso especial, foi alegada violação dos artigos 165 do Código de Processo Civil de 1973, 183 do Código de Processo Civil de 1973 (artigo 223 do CPC/2015), 473 do Código de Processo Civil de 1973 (artigo 507 do CPC/2015), 474 do Código de Processo Civil de 1973 (artigo 508 do CPC/2015), 535, inciso II, do Código de Processo Civil de 1973, 592, inciso II, do Código de Processo Civil de 1973 (artigo 790, inciso II, do CPC/2015), 6º, § 3º, do Decreto-lei 4.657/1942, 186 do Código Tributário Nacional e 50 do Código Civil.
+O recorrente sustentou que o julgado recorrido encontra-se deficientemente fundamentado e que o Tribunal de origem se omitiu quanto às questões aventadas nos aclaratórios oportunamente opostos.
+Argumentou que a coisa julgada acabou violada em virtude de, até o presente momento, não ter ter sido efetivada a penhora sobre o faturamento da empresa, procedimento que teria sido deferido em decisão que, inclusive, teria afastado a habilitação do crédito decorrente de acidente de trabalho no processo de concordata da empresa devedora.
+Defendeu que a demanda originária deveria prosseguir com a desconsideração da personalidade jurídica da devedora e com a penhora de bens dos seus respectivos sócios.
+Sem que fossem apresentadas contrarrazões (fl. 183 e-STJ), o recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+Preliminarmente, importante consignar que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+No que tange à alegada deficiência na jurisdição prestada no caso concreto, observa-se que o recorrente se limitou a tecer argumentações genéricas para justificar seu inconformismo, sem, no entanto, indicar objetivamente quais pontos mereceriam uma melhor apreciação.
+Note-se, ainda, que na parte em que tratou da violação do artigo 535, inciso II, do Código de Processo Civil de 1973, não foi indicada especificamente qual tese aventada nos aclaratórios, fundamental para um desfecho diverso da controvérsia, teria sido olvidada pelo Tribunal de origem.
+Assim caracterizada a insuficiência das razões recursais nesse aspecto, aplica-se o óbice da Súmula nº 284/STF.
+Quanto à alegada violação dos artigos 183 do Código de Processo Civil de 1973 (artigo 223 do CPC/2015), 473 do Código de Processo Civil de 1973 (artigo 507 do CPC/2015), 474 do Código de Processo Civil de 1973 (artigo 508 do CPC/2015), e 6º, § 3º, do Decreto-lei 4.657/1942, o conhecimento do recurso fica inviabilizado em virtude da flagrante ausência do devido prequestionamento, requisito o qual não se pode dar por preenchido, na presente hipótese, sequer de forma implícita. Aplica-se, nesse ponto, o óbice da Súmula nº 282/STF.
+Ademais, o recorrente sequer conseguiu demonstrar como a coisa julgada teria sido violada, haja vista que, conforme ficou consignado no acórdão recorrido, foi efetivamente determinada a penhora sobre o faturamento da empresa, que só não se perfectibilizou em virtude da constatação de que as atividades empresarias estariam paralisadas em definitivo.
+Nota-se que o fundamento calcado na inexequibilidade do comando judicial sequer foi especificamente impugnado.
+No que tange ao redirecionamento da execução fiscal sugerido, o Tribunal de origem desconsiderou tal possibilidade por entender tratar-se de inovação em sede recursal e tal fundamento não foi objetivamente impugnado nas razões recursais.
+Nesse contexto, tem aplicação os enunciados das Súmulas nºs 283 e 284/STF, por analogia.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de tratar dos honorários recursais (artigo 85, § 11, do CPC/2015), haja vista que o recurso especial em apreço é oriundo de acórdão proferido por ocasião de julgamento de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
