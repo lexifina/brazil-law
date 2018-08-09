@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de pedido de tutela provisória formulado por [NOME] DA CANHOTA, com o objetivo de conferir efeito suspensivo a recurso de agravo em recurso especial por ela interposto (fls. 338/352).
+Por sua vez, o apelo nobre foi manejado contra v. acórdão, proferido pelo eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), assim ementado (fls. 192):
+"EMBARGOS DE TERCEIRO - FRAUDE À EXECUÇÃO CARACTERIZADA - ADQUIRENTES QUE NÃO EXIBIRAM AS CERTIDÕES NECESSÁRIAS PARA GARANTIR A EFETIVIDADE DA ALIENAÇÃO - BOA-FÉ AFASTADA - RECURSO PROVIDO.
+Há presunção de fraude à execução quando o adquirente de imóvel dispensa certidão do distribuidor cível do domicilio do vendedor relativa a feitos ajuizados".
+A il. Presidência da Seção de Direito Privado do TJ-SP negou seguimento, em parte, ao recurso especial com base no art. 1.030, I, b, CPC, em razão do Recurso Especial Repetitivo n. 956.943/PR e, quanto à alegação de ofensa aos arts. 535 e 472 do CPC/73, não admitiu o apelo nobre, motivando a interposição de agravo em recurso especial, ao qual a parte requerente almeja a concessão de eficácia suspensiva.
+Aduz a requerente, a título de demonstração da probabilidade do direito, que "a Veneranda Decisão proferida pelo Tribunal de Justiça de São Paulo, que negou seguimento ao Recurso Especial, se valeu de tese de recurso repetitivo inversamente do que deveria, pois, é o recurso especial que está em consonância com o STJ e não o acórdão recorrido" (fl. 27). Por outro lado, consigna que "o "periculum in mora" consubstancia-se na possibilidade do bem imóvel penhorado; pertencente a terceiros de boa fé, não responsáveis pela dívida e tampouco praticantes da fraude à execução, que já foi avaliado ser arrematado, através leilão ejetrônico, conforme determinado nos autos de primeiro grau" (fl. 33).
+É o relatório. Passo a decidir.
+Acerca da tutela provisória, o Código de Processo Civil de 2015 assim dispõe:
+"Art. 294. A tutela provisória pode fundamentar-se em urgência ou evidência.
+Parágrafo único. A tutela provisória de urgência, cautelar ou antecipada, pode ser concedida em caráter antecedente ou incidental."
+"Art. 299. A tutela provisória será requerida ao juízo da causa e, quando antecedente, ao juízo competente para conhecer do pedido principal.
+Parágrafo único. Ressalvada disposição especial, na ação de competência originária de tribunal e nos recursos a tutela provisória será requerida ao órgão jurisdicional competente para apreciar o mérito."
+"Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo."
+Especificamente no que se refere à concessão de efeito suspensivo a recurso especial, o Código de Processo Civil, com as alterações estabelecidas pela Lei nº 13.256/2016, estabelece que:
+"Art. 1.029. O recurso extraordinário e o recurso especial, nos casos previstos na Constituição Federal, serão interpostos perante o presidente ou o vice-presidente do tribunal recorrido, em petições distintas que conterão:
+(..)
+§ 5º. O pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido:
+I - ao tribunal superior respectivo, no período compreendido entre a publicação da decisão de admissão do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo;
+II - ao relator, se já distribuído o recurso;
+III - ao presidente ou ao vice-presidente do tribunal recorrido, no período compreendido entre a interposição do recurso e a publicação da decisão de admissão do recurso, assim como no caso de o recurso ter sido sobrestado, nos termos do art. 1.037."
+Fazendo-se uma interpretação sistemático-teleológica dos dispositivos legais ora transcritos, pode-se aferir que a concessão de efeito suspensivo a recurso especial, bem como ao agravo em recurso especial, assim como no anterior sistema processual, exige a presença concomitante de fumus boni iuris, consistente na plausibilidade do direito invocado no recurso especial, e de periculum in mora, cuja caracterização exige a demonstração de risco de dano irreparável ou de difícil reparação decorrente de eventual demora na solução da causa.
+No caso em espécie, partindo de uma análise superficial do recurso a que se pretende emprestar eficácia suspensiva, própria desta fase processual, verifica-se a ausência do fumus boni juris, tendo em vista que a Corte local, embora tenha afirmado ter sido verificada a fraude à execução em outra demanda, examinou o preenchimento dos requisitos elencados no art. 593 do CPC/73 (diploma vigente à época), especialmente a existência de citação válida do devedor e a má-fé do terceiro adquirente, de modo a afastar, em tese, a alegada ofensa aos arts. 535 e 472 do CPC/73.
+Nesses termos, considerando que, conforme já dito, o deferimento da tutela de urgência para conferir efeito suspensivo a recurso especial somente é possível quando presentes, concomitantemente, o fumus boni iuris e o periculum in mora, ausente um desses requisitos, o pedido não comporta deferimento.
+Ante o exposto, indefiro o pedido, nos termos do art. 288, § 2º, do RISTJ.
+Publique-se.
