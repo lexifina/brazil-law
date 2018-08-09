@@ -1,0 +1,41 @@
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO NOVO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com o previsto no artigo 1.022 do Novo CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado, ou para corrigir-lhe erro material.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos declaratórios que, a pretexto dos alegados vícios do acórdão embargado, traduzem, na verdade, o inconformismo da parte embargante com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+4. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO SÉRGIO KUKINA: Trata-se de embargos declaratórios opostos pela União Federal em face de acórdão prolatado pela Primeira Turma do STJ, assim ementado (fls. 647/648):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.FUNASA. SERVIDOR QUE UTILIZAVA INSETICIDA EM CAMPANHAS DE COMBATE A ENDEMIAS. INDENIZAÇÃO POR DANOS MORAIS. PRESCRIÇÃO AFASTADA. RETORNO DOS AUTOS À ORIGEM PARA EXAME DO MÉRITO.
+1. A jurisprudência deste Superior Tribunal assenta entendimento de que no ordenamento jurídico pátrio, o termo inicial da prescrição surge com o nascimento da pretensão (actio nata), assim considerada a data a partir da qual a ação poderia ter sido ajuizada"(REsp 1.355.636/PE, Rel. o Ministro Mauro Campbell Marques, Segunda Turma, julgado em 11/12/2012, DJe 17/12/2012).
+2. Nessa linha de raciocínio, o julgado proferido no REsp 1.236.863/ES, de relatoria do Ministro Herman Benjamin, DJe 27/02/2012, firmou orientação segundo a qual, no caso da responsabilidade civil sanitário-ambiental, "o dano somente se perfaz, em tese, com o surgimento e identificação das lesões ou patologias alegadas. Antes disso, inexiste pretensão indenizatória propriamente dita e, via de consequência, descabe falar em prescrição, uma vez que a aplicação de inseticida ou utilização de substância tóxica não caracteriza, quando vista isoladamente, o evento danoso.
+3. O fundamento exarado pelas instâncias originárias no sentido de que suposta doença posterior à aposentadoria não altera o termo de prescrição, pois os fatos que ensejariam a indenização já eram de conhecimento do autor quando da prestação do serviço e decorreriam dessa prestação conforme os próprios termos da inicial, contraria, frontalmente, a jurisprudência do STJ, a qual considera, em situações análogas, que a pretensão indenizatória surge apenas com a identificação das lesões ou patologias.
+4. Afastado o decreto prescricional, devem ser remetidos os autos à de origem, a fim de que proceda o exame do mérito.
+5. Agravo interno a que se nega provimento.
+A embargante afirma que o julgado não atentou para o fato de que o TRF reconheceu que o pedido inicial trata de direito à indenização por ausência de fornecimento de EPI e tratamento adequado e não para danos morais decorrentes de sequela a exposição a agentes nocivos. Como visto, o caso não trata de danos morais decorrentes de sequelas, mas sim da falta de EPI e de treinamento adequado.
+Aduz que em nenhum momento as instâncias ordinárias trataram de pedido de indenização por dano moral decorrente de sequelas à exposição a agentes nocivos. Assim o pedido se recume a indenização por ausência de fornecimento de equipamentos de segurança individuais, não tratando de indenização por dano moral decorrente de sequelas ou doenças pela exposição a agentes nocivos.
+Assevera ser irrelevante o pedido feito em sede de recurso especial, face a impossibilidade de emenda a inicial em sede recursal.
+É o relatório.
+VOTO
+O SR. MINISTRO SÉRGIO KUKINA (Relator): A insurgência não comporta acolhida.
+De acordo com o previsto no artigo 1.022 do Novo CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado, bem como para corrigir-lhe erro material.
+Entretanto, no caso, o acórdão ora atacado dirimiu, de forma objetiva e fundamentada, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos. Consoante consignado, a instância ordinária consignou que a controvérsia a ser solvida cinge-se à possibilidade de condenação da FUNASA e da União à indenização por danos morais sofridos pela parte autora em razão de serviços prestados sob condições insalubres em face de utilização de inseticidas. Daí porque, aplicada ao caso vertente a jurisprudência deste Superior Tribunal, firme no sentido de que no ordenamento jurídico pátrio, o termo inicial da prescrição surge com o nascimento da pretensão (actio nata), assim considerada a data a partir da qual a ação poderia ter sido ajuizada"(REsp 1.355.636/PE, Rel. o Ministro Mauro Campbell Marques, Segunda Turma, julgado em 11/12/2012, DJe 17/12/2012). Alinhado a esse raciocínio, mostrou-se o julgado proferido no REsp 1.236.863/ES, de relatoria do Ministro Herman Benjamin, DJe 27/02/2012, segundo o qual, no caso da responsabilidade civil sanitário-ambiental, "o dano somente se perfaz, em tese, com o surgimento e identificação das lesões ou patologias alegadas. Antes disso, inexiste pretensão indenizatória propriamente dita e, via de consequência, descabe falar em prescrição, uma vez que a aplicação de inseticida ou utilização de substância tóxica não caracteriza, quando vista isoladamente, o evento danoso.
+Assim, não podem ser acolhidos embargos declaratórios que traduzem, na verdade, o inconformismo da parte embargante com a decisão tomada, pretendendo rediscutir o que já foi decidido. Nesse panorama, inexistente qualquer obscuridade, contradição ou omissão no julgado embargado, conforme exige o art. 1.022 do Novo CPC/2015 , impõe-se a rejeição dos presentes embargos de declaração.
+A propósito, destacam-se os seguintes julgados:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. NÃO OCORRÊNCIA DE OMISSÃO NA PARTE DISPOSITIVA DO JULGADO.
+1. A segunda Turma desproveu o recurso com fundamento claro e suficiente, inexistindo omissão, contradição ou obscuridade no acórdão embargado.
+2. Os argumentos da embargante denotam mero inconformismo e intuito de rediscutir a controvérsia, não se prestando os segundos aclaratórios a esse fim.
+3. Tratando-se de recurso de fundamentação vinculada, o conhecimento dos aclaratórios pressupõe que a parte demonstre haver, pelo menos, um dos vícios previstos no art. 1022 do CPC de 2015.
+4. O prequestionamento do art. 37 da Constituição da República não se mostra cabível nesta via, seja porque esse dispositivo legal nem sequer foi discutido no julgamento, seja porque não incumbe ao STJ o exame de norma constitucional, competência reservada ao Excelso Supremo Tribunal nos termos do art. 102, III, da Carta Magna.
+5. Embargos de Declaração rejeitados.
+(EDcl no REsp 1589550/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 29/9/2016)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015.
+APLICABILIDADE. OMISSÃO. AUSÊNCIA DE VÍCIOS.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - A fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição de embargos de declaração, nos termos do art. 1.022 do CPC/2015.
+III - Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 680.900/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 23/9/2016)
+Ante o exposto, rejeitam-se os embargos declaratórios.
+É como voto.
