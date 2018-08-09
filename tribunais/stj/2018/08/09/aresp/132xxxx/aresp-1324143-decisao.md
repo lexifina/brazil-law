@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 02/STJ. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. APURAÇÃO DE DIFERENÇAS. DISCUSSÃO SOBRE A OCORRÊNCIA DE PRECLUSÃO. QUESTÃO ATRELADA AO REEXAME DE PROVA. ENFOQUE CONSTITUCIONAL DA MATÉRIA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo cuja ementa é a seguinte:
+AGRAVO DE INSTRUMENTO - Ação indenizatória em fase de execução - Pedido de suspensão de pagamento de valores depositados, relativos a precatório complementar - Impossibilidade - Questão já decidida - Coisa julgada - Inaplicabilidade das restrições trazidas pelas ADI"s 1,098/SP e 2.924/SP ao caso em concreto - Decisão mantida - Recurso desprovido.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base na alínea a do permissivo constitucional, o ora agravante aponta ofensa aos arts. 475-L, II e § 1º, c/c o art. 741, II e parágrafo único, do CPC/73, alegando, em síntese, que:
+Depósitos decorrentes de Ofício Requisitório Complementar expedido em contrariedade às decisões do Supremo Tribunal Federal são irregulares, e não podem prevalecer. A irregularidade decorre da não observância do que restou decidido nas ADIN"S N."S 1.098/SP E 2.924/SP (INCONSTITUCIONALIDADE DE COMPLEMENTAÇÕES NÃO DECORRENTES DE ERRO MATERIAL E/OU INEXATIDÂO DE CÁLCULO - DECISÕES COM EFEITO VINCULANTE).
+(..) E, considerando a jurisprudência firmada pelo STF, verifica-se que os cálculos que determinaram os valores objeto do Ofício Requisitório Complementar, não se coadunam com a definição de erro material ou aritmético ou de inexatidão de cálculo do precatório. Deveria ter sido expedido novo oficio requisitório.
+Assim, o pagamento de ofício requisitório complementar ofende o que restou decidido nas ADIns 1.098 e 2.924, que sabidamente possuem efeito erga omnes e vinculante (ex vi RE n.º 592.327-AgR, Relatora Min. CÁRMEN LÚCIA, Primeira Turma, julgado em 24.08.2010), além de desafiar a autoridade das decisões do STF, ainda subverte o regramento constitucional disciplinador da ordem de pagamento dos requisitórios judiciais, afetando a própria ordem em que estes devem ser realizados.
+O recurso foi inadmitido pela decisão de fl. 273, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 2/STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+Constou do acórdão recorrido que:
+Verifica-se, portanto, que as questões objeto do presente recurso já foram fartamente discutidas e decididas, inclusive por instância superior, estando acobertadas pelo manto da coisa julgada.
+Ora, pretende o agravante rediscutir cálculos já homologados e apenas atualizados pelo DEPRE, bem como, acerca da forma de expedição do ofício requisitório e ciência do ente público da decisão que determinou o pagamento, questões exauridas há mais de dez anos em decisões anteriores.
+(..) Ademais, vale ressaltar que quanto à alegada restrição que as ADI"s 1.098/SP e 2.924/SP provocariam à expedição de ofício requisitório complementar no caso em análise, tal argumento não merece acolhida, pois referidos julgados decidiram por não alterar o texto da norma regimental impugnada na ação, admitindo a complementação não de maneira restritiva, mas em conformidade com os escopos da norma.
+Verifica-se que, para se adotar qualquer conclusão em sentido contrário ao que ficou expressamente consignado no acórdão atacado  e se reconhecer a não ocorrência da preclusão  , é necessário o reexame de matéria de fato, o que é inviável em sede de recurso especial, tendo em vista o disposto na Súmula 7/STJ.
+Além disso, verifica-se que o acórdão recorrido baseia-se em fundamentos de natureza eminentemente constitucional.
+Ressalte-se que não compete ao Superior Tribunal de Justiça, em sede de recurso especial, analisar eventual contrariedade a preceito contido na CF/88, nem tampouco uniformizar a interpretação de matéria constitucional.
+A corroborar esse entendimento, destaca-se:
+TRIBUTÁRIO. PRECATÓRIO. COMPENSAÇÃO ENTRE ENTES DIVERSOS. QUESTÃO ANALISADA À LUZ DA LEI ESTADUAL N. 9.127/90. INCIDÊNCIA POR ANALOGIA DO ENUNCIADO N. 280 DA SÚMULA DO STF. FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. RECURSO ESPECIAL NÃO CONHECIDO.
+I - Não se conheceu do recurso especial por ser incabível a análise em instância especial da ofensa ao art. 368 do Código de Processo Civil 1973, pois a compensação tributária entre pessoas jurídicas de direito público de natureza diversa foi autorizada pelo Tribunal de origem com fundamento na Lei Estadual n. 9.127/90, incidindo, por analogia, o óbice do enunciado n. 280 da Súmula do STF.
+II - O Tribunal de origem fundamentou, em dispositivo constitucional, o direito da parte à compensação tributária - art.
+78, § 2º, do ADCT e art. 100 da Constituição Federal de 1988 -, afastando a competência desta Corte Superior para o exame da matéria III - Agravo interno improvido.
+(AgInt no REsp 1613398/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 20/04/2017, DJe 27/04/2017)
+Diante do exposto, com fundamento no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
