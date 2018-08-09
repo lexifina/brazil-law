@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO ORDINÁRIA. SERVIDORA APOSENTADA DO ESTADO DE MINAS GERAIS. QUADRO DE MAGISTÉRIO DA SECRETARIA DA EDUCAÇÃO. INCLUSÃO DA GRATIFICAÇÃO DE REGIME ESPECIAL DE TRABALHO - RET NA BASE DE CÁLCULO DOS QUINQUÊNIOS. PRESCRIÇÃO. INOCORRÊNCIA. RELAÇÃO DE TRATO SUCESSIVO. INCIDÊNCIA DA SÚMULA 85/STJ. PRECEDENTES, EM SITUAÇÃO SEMELHANTE. RECURSO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento no artigo 105, III, "c", da CF, contra acórdão oriundo da Oitava Câmara Cível do Tribunal de Justiça de Minas Gerais, assim ementado (fls. 100-112):
+AGRAVO DE INSTRUMENTO - ADMINISTRATIVO - PROCESSUAL CIVIL - AÇÃO ORDINÁRIA - SERVIDORA APOSENTADA DO ESTADO DE MINAS GERAIS - REVISÃO DO PRÓPRIO ATO CONCESSIVO DA APOSENTADORIA - PRESCRIÇÃO DO FUNDO DE DIREITO - OCORRÊNCIA.
+1. Se a pretensão submetida a juízo resulta na modificação do próprio ato concessivo da aposentadoria, ela se sujeita à prescrição do fundo de direito (art. 1º do Decreto nº 20.910132), ao passo que, se o pedido importa meramente a revisão do valor dos proventos, há a denominada prescrição de trato sucessivo (art. 3º do mesmo diploma). 2. Ao se verificar que o ajuizamento da ação na qual se pretende a inclusão da Gratificação por Regime Especial de Trabalho na taxação dos proventos de aposentadoria, com fulcro no art. 72 da Lei nº 11.050/93, ocorreu mais de cinco anos após a concessão da jubilação, deve ser reconhecida a prescrição do fundo de direito.
+Os embargos de declaração opostos pela autora foram rejeitados (fls. 131-134).
+A recorrente aponta divergência jurisprudencial acerca do artigo 1º do Decreto n. 20.910/1932, argumentando que houve, por parte da Fazenda Pública, ato omissivo em lhe conceder a Gratificação do Regime Especial de Trabalho, para qual existe previsão legal, nos termos do art. 72 da Lei n. 11.050/1993.
+Sustenta também que a pretensão diz respeito unicamente quanto ao quantum do seus proventos, inexistindo a prescrição do fundo de direito conforme a jurisprudência desta Corte. Colaciona como paradigma o julgamento no AgRg no RESP n. 1.492.150/MG.
+Às fls. 178-184, o Estado de Minas Gerais se contrapõe, dizendo que o recurso não merece ser conhecido pelo óbice da Súmula 280/STF. No mérito, pugna pela manutenção do acórdão ao argumento de que, quando do ajuizamento da ação, já havia transcorrido prazo superior a cinco anos da data da aposentadoria, "com a não inclusão da Gratificação nos proventos".
+Crivo positivo de admissibilidade às fls. 187-192.
+É o relatório. Passo a decidir.
+Na origem, a parte autora ajuizou ação ordinária e face do Estado de Minas Gerais, objetivando a inclusão da Gratificação de Regime Especial de Trabalho - RET no valor dos seus proventos de aposentadoria.
+O acórdão reformou a sentença em reexame necessário, a fim de declarar a prescrição do fundo de direito, prejudicados os recurso voluntários.
+Esclarece-se inicialmente ser inaplicável o óbice apontado nas contrarrazões, pois, para o enfrentamento da questão de fundo - prescrição -, não se faz necessário a análise de lei local.
+No mais, o STJ, em situação que se assemelha ao caso dos autos, tem decidido reiteradamente no sentido de que não há falar em prescrição do fundo de direito, porquanto houve omissão administrativa ao não se incorporar a Gratificação de Regime Especial de Trabalho (RET) nos proventos dos servidores por ocasião de sua aposentadoria, incidindo, na espécie o teor da Súmula 85/STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIVERGÊNCIA JURISPRUDENCIAL. ALEGAÇÃO DE NÃO COMPROVAÇÃO PELA PARTE ADVERSA. DESCABIMENTO.
+1. Considera-se demonstrada a divergência jurisprudencial quando o recorrente expõe, de maneira suficiente, a adoção de soluções jurídicas distintas para casos semelhantes.
+2. Na hipótese, o acórdão recorrido foi comparado com o julgamento proferido pelo STJ no REsp 1.261.981/MG, que aborda questão absolutamente idêntica à examinada no autos - prescrição da pretensão de acréscimo da Gratificação de Regime Especial de Trabalho (RET) na base de cálculo dos quinquênios - e atribui resultado distinto ao questionamento.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp 914.849/MG, Rel. Ministro Og Fernandes, Segunda Turma, DJe 8/2/2017)
+ADMINISTRATIVO. SERVIDOR PÚBLICO. QUADRO DE MAGISTÉRIO DA SECRETARIA DE ESTADO DA EDUCAÇÃO. INCLUSÃO DA GRATIFICAÇÃO DE REGIME ESPECIAL DE TRABALHO - RET NA BASE DE CÁLCULO DOS QUINQUÊNIOS. PRESCRIÇÃO. RELAÇÃO DE TRATO SUCESSIVO. INCIDÊNCIA DAS SÚMULAS 83 E 85/STJ.
+1. O aresto recorrido encontra-se em harmonia com a orientação desta Casa Julgadora na linha de que, nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito vindicado, a prescrição atinge somente as prestações vencidas antes do quinquênio anterior à propositura da ação. Incidência das Súmulas 83 e 85/STJ.
+2. Em casos similares ao presente, as seguintes decisões monocráticas: REsp 1.227.136/MG, Rel. Min. Napoleão Nunes Maia, Dje 05/10/2011; Resp 1.229.453/MG, Rel. Min. Hermann Benjamin, Dje 15/02/2011.
+3. Recurso especial não conhecido. (REsp 1.261.981/MG, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 17/11/2011)
+No mesmo sentido, os seguintes julgamentos monocráticos: AREsp 889.588/MG, Rel. Ministro Humberto Martins, DJe 26/4/2016; AREsp 826.305/MG, Rel. Ministro Herman Benjamim, DJe 8/3/2016; AgRg no REsp 1.486.595/MG, Rel. Ministro Og Fernandes, DJe 21/5/2015; AREsp 648.027/MB, Rel. Ministro Mauro Campbell Marques, DJe 19/2/2015.
+Ante o exposto, dou provimento ao recurso especial, determinando à instância de origem o prosseguimento da ação.
+Publique-se. Intimem-se.
