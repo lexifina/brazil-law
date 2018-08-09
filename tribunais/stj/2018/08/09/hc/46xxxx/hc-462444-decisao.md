@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício próprio por [NOME], apontando como autoridade coatora o Desembargador relator do Tribunal Regional Federal da 2ª Região que, no HC n. 0008147-90.2018.4.02.0000, indeferiu o pedido liminar.
+Consta dos autos que o paciente foi denunciado pela suposta prática do delito previsto no art. 171, §3º, do Código Penal. Segundo narra a denúncia (e-STJ fls. 4/6):
+No dia 14/09/2010, CARLOS [NOME] BALIEIRA, consciente e voluntariamente, obteve, para si, vantagem ilícita, consistente em beneficio previdenciário de Pensão por Morte (NB 1538188489), concedido pelo ex-servidor [NOME], mediante o uso de documentação falsa, induzindo a erro a Autarquia previdenciária.
+Conforme dados obtidos pela APERG/RJ, o Sr. CARLOS [NOME] BALIEIRA compareceu a APS de São João de Meriti para obtenção do beneficio de pensão por morte na qualidade de companheiro da segurada falecida ANGELA MARIA DE PONTES BEZERRA, obtendo o despacho de concessão pelo servidor [NOME] SOARES [NOME] no dia 01/10/2010.
+ ..
+Assim, restou evidenciado que CARLOS [NOME], dolosamente, fez uso de documentação falsa perante o INSS, para induzir e manter a Autarquia em erro, afirmando falsamente ter sido companheiro da segurada falecida ANGELA MARIA, com o fim de obter a concessão do beneficio de pensão por morte, tendo sido auxiliado diretamente pelo servidor [NOME] SOARES [NOME] no dia 01/10/2010.
+Por sua vez, [NOME] SOARES [NOME], na qualidade de servidor do INSS, agiu como partícipe do crime de estelionato previdenciário ao inserir, conscientemente, dados falsos no sistema de benefícios da Autarquia, referente à qualidade de dependente, na condição de companheiro, do denunciado [NOME], concedendo e mantendo, de forma irregular, o beneficio de pensão por morte nº 1538188489.
+Cumpre ressaltar que [NOME] SOARES [NOME] já responde a ações penais nº 0809749-53.2011.4.02.5101, 0000968-14.2012.4.02.5110, 08002616-07.2010.4.02.5101 e 0002136- 51.2012.4.02.5110 pela prática de crimes análogos.
+Além disso, [NOME] foi indiciado nas Operações Miragem e Caixa Preta no qual participou de diversas fraudes a concessão de benefícios previdenciários.
+Finda a instrução probatória, restou devidamente comprovado que os denunciados CARLOS [NOME] BALIEIRA, beneficiário final do crime, e [NOME] SOARES [NOME], servidor do INSS e partícipe do crime, praticaram o delito previsto no art. 171, § 3o, do Código Penal, c/c art. 29 do mesmo Código.
+Irresignada, a defesa impetrou prévio writ, pugnando pela suspensão da tramitação da ação penal originária ou pela expedição de salvo conduto ao ora paciente, para que não fosse preso antes do trânsito em julgado de eventual sentença condenatória, ou, em caso de decretação da prisão preventiva, que essa custódia fosse transformada em prisão domiciliar.
+A liminar foi indeferida (e-STJ fl. 29).
+No presente writ, afirma o impetrante/paciente que estaria sofrendo constrangimento ilegal, sustentando, inicialmente, a ausência de justa causa para a ação penal (e-STJ fls. 12/14).
+Alega que, dos fatos narrados na exordial acusatória, pode-se verificar que ele agiu no estrito cumprimento de seu dever legal (e-STJ fl. 15), e que "É de se observar que, para que seja recebida a denúncia, com a instauração da ação penal, torna-se necessário a existência de indícios que demonstrem ser o acusado o autor ou co-autor dos delitos, o que não ocorre no caso dos autos" (e-STJ fl. 18).
+Pondera, alternativamente, a possibilidade de expedição de salvo-conduto em seu benefício, em caso de decretação da custódia cautelar, para que essa custódia seja convertida em prisão domiciliar, por ser ele advogado, "visto que não há Sala de Estado Maior, ou por ter filho menor de 12 anos de Idade" (e-STJ fl. 23) ou ainda que seja substituída a custódia por medidas cautelares diversas da prisão (e-STJ fls. 25/27).
+Requer, inclusive liminarmente, a concessão da ordem para trancar a ação penal na origem, ou para que seja expedido em seu benefício salvo-conduto, determinando-se a substituição de eventual prisão preventiva por medidas cautelares diversas ou prisão domiciliar.
+É o relatório.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus ante decisão que indefere liminar, a não ser que fique demonstrada flagrante ilegalidade (enunciado n. 691 da Súmula do STF).
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SUMULA 691/STF. COMPETÊNCIA DESTA CORTE QUE AINDA NÃO SE INAUGUROU. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PROVA DO ALEGADO CONSTRANGIMENTO ILEGAL.
+1. Não cabe habeas corpus perante esta Corte contra o indeferimento de liminar em writ impetrado no Tribunal de origem. Aplicação da Súmula 691 do Supremo Tribunal Federal.  ..
+3. Agravo regimental improvido.
+(AgRg no HC 349.925/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/3/2016, DJe 16/3/2016.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PEDIDO DE EXPEDIÇÃO DE CONTRAMANDADO DE PRISÃO TEMPORÁRIA. PACIENTE NO EXTERIOR. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, não se observa manifesta ilegalidade na decisão que indeferiu o pleito liminar no prévio mandamus, tampouco na decisão primitiva. Na espécie, não há nos autos informações comprobatórias de que todas as diligências requeridas foram cumpridas, valendo ressaltar, ainda, que o decreto prisional, expedido no bojo da mesma decisão, não se efetivou porque o paciente não teria sido localizado, porquanto "potencialmente" estaria no exterior.
+3. Agravo regimental improvido.
+(AgRg no HC 345.456/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/2/2016, DJe 24/2/2016.)
+Deve-se asseverar, ademais, que a extinção prematura da ação penal, pela via do habeas corpus, somente se dá em hipóteses excepcionais, nas quais seja patente a atipicidade da conduta, a ausência de indícios mínimos de autoria e materialidade do delito, ou a presença de alguma causa extintiva de punibilidade, requisitos que, ao menos neste juízo de cognição sumária, não verifico presentes, impedindo o deferimento da medida de urgência.
+A questão em exame, portanto, necessita de averiguação mais profunda pelo Tribunal estadual, que deverá apreciar a argumentação da impetração e as provas juntadas ao habeas corpus no momento adequado.
+Sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+Entendo, portanto, não ser o caso de superação do enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com base no art. 210 do Regimento Interno do STJ, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
