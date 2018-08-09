@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “ADMINISTRATIVO E CIVIL. ENSINO SUPERIOR. RESPONSABILIDADE CIVIL. VIZIVALI. RECUSA DE REGISTRO DE DIPLOMA. LEGITIMIDADE PASSIVA DA UNIÃO. JUÍZO DE RETRATAÇÃO. ART. 543-C DO CPC. INDENIZAÇÃO POR DANOS MORAIS.
+     1- ‘Em se tratando de demanda em que se discute a ausência/obstáculo de credenciamento da instituição de ensino superior pelo Ministério da Educação como condição de expedição de diploma aos estudantes, é inegável a presença de interesse jurídico da União, razão pela qual deve a competência ser atribuída à Justiça Federal, nos termos do art. 109, I, da Constituição Federal de 1988’ (STJ, REsp repetitivo n.º 1.344.771)
+     2- Em juízo de retratação, reconhecida a legitimidade passiva da União e a consequente competência da justiça federal.
+     3- Prescrição não configurada.
+     4- ‘Conquanto o art. 80 da Lei de Diretrizes e Bases da Educação (Lei n.º 9.394/1996) atribua à União a competência para o credenciamento de instituições de ensino no âmbito dos programas de ensino à distância, em todos os níveis e modalidades de ensino, e de educação continuada, o art. 87, do mesmo diploma legal, determinou - expressamente e em caráter transitório - ao Distrito Federal, aos Estados, aos Municípios e apenas supletivamente à União, a realização de programas de capacitação para todos os professores em exercício, inclusive com os recursos da educação à distância. Além de não restringir o universo dos destinatários da norma transitória (p.ex., a 'professores com vínculo empregatício devidamente comprovado'), o art. 87 não referiu a necessidade de autorização federal para as modalidades não presenciais. E era razoável que assim não o fizesse à época, haja vista a urgência na qualificação de um número significativo de profissionais em todo o território nacional até o final da 'Década da Educação'.’ (TRF 4ª Região, AC 5000112.11-2010.404.7007, 4ª Turma, Rel. Des. Vivian Caminha, julgado em 17-12-2013)
+     5- Comprovada a condição de docente com vínculo junto a uma instituição de ensino, bem como a conclusão de curso de nível médio ou de diploma na modalidade Normal ou equivalente, deve a União ser condenada ao pagamento de indenização por dano moral.”
+    O recurso não deve ser admitido, tendo em vista que, para dissentir do entendimento firmado pelo Tribunal de origem, é imprescindível uma nova análise dos fatos e provas constantes dos autos, procedimento vedado neste momento processual, nos termos da Súmula 279/STF.
+    Nesse sentido e sobre a mesma controvérsia, vejam-se os seguintes precedentes: RE 847.763, Relª. Minª. Rosa Weber; RE 848.865-AgR, Rel. Min. Luiz Fux; e RE 852.598, Relª. Minª. Cármen Lúcia.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 09 de agosto de 2018.
+Ministro Luís Roberto Barroso
+Relator
