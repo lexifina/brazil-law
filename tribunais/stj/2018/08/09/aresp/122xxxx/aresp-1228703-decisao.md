@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que sob fundamento de incidência da Súmula n. 7 do STJ negou seguimento ao recurso especial.
+A decisão colegiada recorrida apresenta a seguinte ementa (e-STJ fl. 416):
+APELAÇÃO CÍVEL E AGRAVO RETIDO EM AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA. NÃO REITERAÇÃO DA APRECIAÇÃO DO AGRAVO RETIDO EM CONTRARRAZÕES. NÃO CONHECIMENTO. PLANO DE SAÚDE. NEGATIVA DE COBERTURA PARA TRATAMENTO DE EMENTA: APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE UNICOOPER II. RESCISÃO UNILATERAL. ILEGALIDADE. PREQUESTIONAMENTO. IMPOSSIBILIDADE. 1. Considerando que o contrato em análise foi firmado sob a denominação "Plano Individual/Familiar UNICOOPER II", o que deixa evidente sua natureza individual, não pode a contratada se valer das normas regulamentadoras dos contratos coletivos para justificar a rescisão unilateral do pacto. 2. A rescisão ou alteração abrupta das condições do plano de saúde, pactuado há 16 (dezesseis) anos, ofende os princípios da boa-fé objetiva, da cooperação, da confiança e da lealdade, que deve orientar a interpretação dos contratos reguladores de relações de consumo. 3. Ao Poder Judiciário não é dada a atribuição de órgão consultivo, descabendo a este manifestar-se expressamente sobre cada dispositivo legal mencionado pelos litigantes, devendo apenas resolver a questão posta em juízo.
+RECURSO DE APELAÇÃO CÍVEL CONHECIDO, PORÉM DESPROVIDO
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 434/449).
+Sobreveio o recurso especial (e-STJ fls. 452/470), fundado no art. 105, III, "a" e "c", da CF, no qual a recorrente sustentou, além de divergência jurisprudencial, afronta aos arts. 1º da Lei n. 9.961/2000 e 17-A da Lei n. 9.656/1998, argumentando, em síntese, que seria lícita a rescisão unilateral do plano de saúde pela operadora, nos termos das normas da ANS, ante a natureza coletiva do convênio contratado pelos recorridos.
+No agravo (e-STJ fls. 490/500), afirma a presença dos requisitos de admissibilidade do recurso especial.
+É o relatório.
+Decido.
+Ao reconhecer a ilegalidade da rescisão contratual, entendeu o Tribunal de origem que os recorridos contrataram convênio médico individual/familiar, sendo inaplicáveis as normas da ANS que admitem a rescisão unilateral apenas de plano coletivo de saúde. Afirmou ainda que, segundo os documentos juntados nos autos, não subsiste a alegação da recorrente de que o contrato firmado com os beneficiários teria natureza coletiva (e-STJ fls. 401/414).
+Constata-se que a conclusão sobre a natureza do contrato de plano de saúde se deu a partir do exame de questões fáticas e probatórias, além da interpretação das cláusulas da apólice. Assim, a alteração desse entendimento esbarra no óbice das Súmulas n. 5 e 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
