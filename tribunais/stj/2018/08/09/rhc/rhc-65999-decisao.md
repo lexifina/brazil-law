@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul no julgamento do HC n. 0279410-9410-94.2015.8.21.7000.
+O recorrente foi denunciado pela suposta prática do delito descrito no art. 108 da Lei n. 10.741/03, Estatuto do Idoso (lavrar ato notarial que envolva pessoa idosa sem discernimento de seus atos, sem a devida representação legal).
+Irresignada, a defesa impetrou writ perante o Tribunal a quo, que denegou a ordem, em acórdão assim ementado (fl. 927) :
+HABEAS CORPUS. ESTATUTO DO IDOSO. ART. 108. LAVRAR ATO NOTARIAL QUE ENVOLVA PESSOA IDOSA SEM DISCERNIMENTO DE SEUS ATOS, SEM A DEVIDA REPRESENTAÇÃO LEGAL. AUSÊNCIA DE JUSTA CAUSA PARA A AÇÃO PENAL. TRANCAMENTO INVIÁVEL. Não se desvelando, primus ictus oculi, a falta de justa causa à tramitação regular da ação penal pela qual responde o paciente, inviável a concessão do writ, ação de cognição sumária, de estreitos limites, que não permite o cotejo do material probatório colacionado. Eventual inépcia da denúncia só pode ser acolhida quando demonstrada inequívoca deficiência a impedir a compreensão da acusação, em flagrante prejuízo ã defesa. Hipótese não ocorrente nos autos, no qual pormenorizadamente descrita a conduta imputada ao paciente, viabilizando o exercício pleno da defesa, a questão do dolo sendo atinente ã produção de provas, a ser analisada em cognição exauriente. Possibilidade de o Ministério Público, em ação regular de vistoria de instituição destinada ao acolhimento de idosos, tomar, de pronto, medidas necessárias a sanar eventuais irregularidades encontradas - art. 74 do Estatuto do Idoso. Prisão em flagrante da administradora do local, pelos crimes de exposição de idoso a risco - art. 99 do Estatuto do Idoso - e exercício ilegal da medicina - art. 282 do CP, que possibilitavam a apreensão de todos os documentos encontrados e que pudessem elucidar os crimes praticados, ainda que diversos daqueles que ensejaram o flagrante - descoberta fortuita de provas. Fenômeno da serendipidade. Precedente do E. STJ. Demais questões, atinentes à regularidade ou não das procurações firmadas pelos idosos, outorgando poderes à administradora do abrigo, que demandam incursão na prova, ao que não se presta o presente "writ". Trancamento da ação penal que não se justifica.
+ORDEM DENEGADA.
+No presente recurso, a defesa sustenta a inépcia da denúncia, porquanto a peça acusatória limitou-se a transcrever literalmente o art. 108 do Estatuto do Idoso, bem como os poderes que foram outorgados na escritura pública lavrada, sendo deficiente quanto ao elemento objetivo e subjetivo do tipo penal.
+Alega que o presente feito teve nascedouro em uma inspeção realizada por Promotor de Justiça que foi marcada por "desrespeito, truculência, violência física, presunção de culpabilidade e prepotência." (fl. 966)
+Relata que "o então Promotor de Justiça da Comarca, em legítima inspeção a instituição de longa permanência de idosos, transborda de sua competência e obriga as funcionárias, sem a presença da representante legal da casa a lhe franquearem acesso ao escritório, onde eram mantidos documentos pessoais dos paciente, da proprietária e institucionais do Lar." (fl. 697)
+Aponta suposta nulidade da prova que embasa a denúncia relativamente ao acusado, defendendo que o processo deve ser trancado por ausência de justa causa.
+Pleiteia, assim, em liminar, a suspensão do Processo Criminal n. 0001482-97.2015.8.21.0130, e, no mérito, o seu trancamento em relação ao recorrente.
+A liminar foi indeferida às fls. 1002/1003.
+Informações prestadas às fls. 1016/1881 e 1883/1906.
+O Ministério Público Federal opinou pelo conhecimento do recurso e, no mérito, pelo não provimento.
+É o relatório.
+Decido.
+O presente recurso está prejudicado.
+Isso porque, em consulta realizada no site do Tribunal de origem, constatou-se que, em 12/12/2017, foi julgado improcedente o pedido formulado na denúncia. Desse modo, constata-se a perda superveniente do objeto do reclamo.
+Ante o exposto, com fundamento no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se.
+Intime-se.
