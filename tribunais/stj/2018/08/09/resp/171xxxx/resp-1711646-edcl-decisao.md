@@ -1,0 +1,101 @@
+DECISÃO
+Trata-se de Embargos de Declaração no Recurso Especial, opostos por VALMOR NUNCIO, em 04/05/2018, a decisão de minha relatoria, que se encontra assim fundamentada:
+"Trata-se de Recurso Especial, interposto por VALMOR NUNCIO, na vigência do CPC/2015, com base nas alíneas a e c do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"PREVIDENCIÁRIO. PROCESSUAL CIVIL. COISA JULGADA. OCORRÊNCIA. IDENTIDADE ENTRE AÇÕES. EXTINÇÃO DE PROCESSO.
+1. Nos termos do artigo 502, do Código de Processo Civil, denomina-se coisa julgada material a autoridade que torna imutável e indiscutível a decisão de mérito não mais sujeita a recurso.
+2. Apelo improvido" (fl. 273e).
+Opostos Embargos de Declaração, foram rejeitados (fls. 294/297e).
+Alega o recorrente, nas razões do Recurso Especial, divergência jurisprudencial e ofensa ao art. 301, § 2º, do CPC/73, requerendo o provimento do recurso "para que seja afastada a alegação de litispendência/coisa julgada eis que ausente o indispensável TRÍPLICE REQUISITO" (fl. 319e).
+Não foram apresentadas contrarrazões (fl. 321e).
+O Recurso Especial foi admitido pelo Tribunal de origem (fl. 328e).
+Sem razão a parte recorrente.
+Ao manter a sentença que reconheceu a ocorrência de coisa julgada e extinguiu o feito, o Tribunal de origem, instância soberana na análise de matéria fática, assim dirimiu a controvérsia:
+"Nos termos do artigo 502, do Código de Processo Civil/2015, denomina-se coisa julgada material a autoridade que torna imutável e indiscutível a decisão de mérito não mais sujeita a recurso.
+No caso, ocorre a identidade entre as demandas.
+O MM. Juiz a quo realizou análise percuciente da matéria, razão pela qual peço vênia para transcrever a sentença recorrida:
+(..)
+Com efeito, na ação 5013242-10.2011.404.7112 requereu a parte autora "a revisão de seu benefício previdenciário, concedido em 03/10/1991 (evento 1), com o recálculo da renda mensal inicial, a fim de obter o benefício mais vantajoso que seria devido quando implementados os requisitos para sua fruição."
+A parte discorreu sobre direito adquirido, afirmando ter sido prejudicada por ter retardado o pedido de concessão do benefício.
+A sentença julgou improcedente o pedido.
+Remetidos os autos a esta Corte, a 6ª Turma, em sessão realizada em 30 de julho de 2014, por unanimidade, conheceu de parte do recurso do INSS e, nessa extensão, negou-lhe provimento, deu provimento à remessa oficial para reconhecer a decadência do direito de revisão do ato administrativo concessório do benefício previdenciário e julgou prejudicado o recurso da parte autora, em acórdão assim ementado:
+(..)
+O trânsito em julgado ocorreu em 02/10/2014.
+Na presente ação, a tese também é de retroação da DIB para momento mais vantajoso, com base no direito adquirido ao melhor benefício.
+As duas ações apresentam a mesma tese (direito adquirido ao melhor benefício).
+Tem razão o juízo ao dizer que "qualquer discussão sobre a alteração de DIB para data pretérita, seja qual nome deseje dar o ilustre advogado da parte autora à tese apresentada, encontra-se acobertada pela coisa julgada material."
+Já foi reconhecida a impossibilidade de revisão em razão de decadência.
+Assim, verificada a identidade dos elementos identificadores das ações entre as demandas (partes, pedidos e causa de pedir), razão pela qual se impõe a extinção do processo" (fls. 268/271e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+A propósito:
+"PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO NO RECURSO ESPECIAL. MATÉRIA CONSTITUCIONAL. EXAME. IMPOSSIBILIDADE. SUPOSTA OFENSA AO ART. 535, II, DO CPC/1973. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 148 E 182 DA LEI 8.112/1990. AUSÊNCIA DE COMANDO NORMATIVO. SÚMULA 284/STF. OFENSA REFLEXA. COISA JULGADA. AFERIÇÃO. INVIABILIDADE. SÚMULA 7/STJ. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE, NO CASO. SÚMULA 7/STJ.
+(..)
+5. É firme o entendimento do STJ no sentido de que a discussão acerca da existência ou não da coisa julgada é inviável no âmbito do recurso especial, por demandar, igualmente, o reexame do conjunto fático-probatório dos autos, vedado pela Súmula 7/STJ (REsp 977.348/RS, Rel. Ministro Francisco Falcão, Primeira Turma, DJU 19/11/2007).
+(..)
+8. Agravo interno parcialmente conhecido e, nessa parte, não provido" (STJ, AgInt no REsp 1433983/CE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 05/03/2018).
+"ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS - ANP. PODER NORMATIVO DA AUTARQUIA. AUTO DE INFRAÇÃO. ALEGAÇÃO DE COISA JULGADA MATERIAL. ACÓRDÃO RECORRIDO QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA SUA NÃO OCORRÊNCIA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+(..)
+III. O entendimento firmado pelo Tribunal a quo, à luz das provas dos autos, no sentido da inexistência de coisa coisa julgada material, não pode ser revisto, pelo Superior Tribunal de Justiça, em sede de Recurso Especial, sob pena de ofensa ao comando inscrito na Súmula 7 desta Corte. Precedentes do STJ.
+IV. Agravo interno improvido" (STJ, AgInt no AREsp 1106353/PR, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 15/12/2017).
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. VIOLAÇÃO AO ART. 535, II, DO CPC. INOCORRÊNCIA. APONTADA VIOLAÇÃO À COISA JULGADA. IMPOSSIBILIDADE. NECESSIDADE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Inexiste violação do art. 535, II, do CPC, na medida que não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente porque o Tribunal a quo apreciou a demanda de forma clara e precisa, estando bem delineados os motivos e fundamentos que a embasam.
+2. No tocante à suposta violação dos artigos 468, 471, 473, 474 e 475-G, todos do CPC, no pertinente à alegação de ofensa à coisa julgada pela inobservância da decisão transitada em julgado oriunda dos embargos à execução, no qual se questionara a inclusão de expurgos inflacionários, incidência de GOE sobre o 13º (décimo terceiro) e alteração da base de cálculo sobre a qual incidiria a gratificação, incabível o conhecimento do recurso especial porquanto implicaria no revolvimento de documentação acostada aos autos, o que é vedado em sede de recurso especial nos termos da Súmula 7/STJ. Precedentes do STJ.
+3. Agravo regimental não provido" (STJ, AgRg no AREsp 307.624/AL, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 20/05/2013).
+"PROCESSUAL CIVIL. INDEFERIMENTO DE CITAÇÃO. ENCERRADA A EXECUÇÃO. QUESTÃO ACOBERTADA PELA MANTO DA COISA JULGADA. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF.
+1. O Tribunal de origem, soberano na análise fática, consignou que a execução estava acobertada pelo manto da coisa julgada, descabendo reabri-la. Assim, rever esse posicionamento implica, reexame de provas, inadmissível em Recurso Especial, tendo em vista o óbice da Súmula 7/STJ.
+2. Não se pode conhecer da insurgência contra a ofensa aos arts. 77, 730 e 467 do Código de Processo Civil, pois os referidos dispositivos legais não foram analisados pela instância de origem.
+Ausente, portanto, o indispensável requisito do prequestionamento, o que atrai, por analogia, o óbice da Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+3. Agravo Regimental não provido" (STJ, AgRg no REsp 1.521.038/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 05/08/2015).
+Confira-se, ainda, a seguinte decisão monocrática, em que foi apreciada demanda análoga à presente: STJ, REsp 1.678.392/RS, Rel. Ministra REGINA HELENA COSTA, DJe de 07/02/2018.
+Assinale-se, também, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a, servem de justificativa quanto à alínea c do permissivo constitucional.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios, anteriormente fixados em 10% (dez por cento) do valor da causa, para 11% (onze por cento) do valor da causa, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Ressalte-se que, em caso de reconhecimento do direito à gratuidade de justiça, permanece suspensa a exigibilidade das obrigações decorrentes de sua sucumbência, nos termos do § 3º do art. 98 do CPC/2015" (fls. 339/343e).
+Inconformada, sustenta a parte embargante que:
+"A douta decisão monocrática ora embargada entendeu que para ver afastada a coisa julgada, demandaria necessário revolvimento de matéria fática, o que é inviável nesta via.
+Com a máxima vênia, o embargante vem demonstrar que não há necessidade alguma de se debruçar em fatos, sendo aqui, a matéria exclusivamente de direito.
+Tal assertiva de demonstra do próprio trecho do acórdão recorrido transcrito por Vossa Excelência, onde o embargante, em cima dele, mostrará que para a solução da controvérsia, não há necessidade de revolver conjunto probatório, até porque a matéria de mérito tratada nesta ação, não é matéria fática, e sim de direito.
+(..)
+Existe aqui preocupante contradição fática e lógica, conforme será adiante pormenorizado.
+Veja um dos trechos sublinhados:
+(..)
+Então um pedido que busca um cálculo de benefício em datas DIVERSAS é IGUAL  O que vaticina o CPC
+Tríplice identidade. Pedidos m datas diversas, são pedidos DIVERSOS, não
+A decisão recorrida (TRF4), além de cometer preocupante imperícia no que tange a conceituação da litispendência (antigo § 3º, do art. 301, do CPC), cai em contradição entre a premissa de fato, e a conclusão que chegou diante da premissa de direito, além de completamente omissa, pois cingiu-se a assertiva quanto de que a alteração da DIB não muda nada.
+Demonstraremos isso de forma cristalina frente às duas proposições apresentadas em forma de premissas, culminando na terceira, que levou a equivocada conclusão de que a ação tida por idêntica (a qual por lei, requer, imperiosamente, IDÊNTICA causa de pedir e pedido) preenche o tríplice requisito fático/jurídico.
+Uma ação com a causa de pedir que busca a melhor RMI dentre todas as possíveis forte no direito adquirido (artigo 5º, XXXVI) constitucionalmente assegurado ( CAUSA DE PEDIR DO TEMA 334 DO STF ).
+É IGUAL A AÇÃO QUE BUSCA ..
+.. forte na extensão de regra legal já existente (art. 42 § 2º - artigo 29 ambos da Lei 8.213/91) e dirigida tão-somente a um grupo de segurados (benefícios de risco / e com falhas contributivas no PBC);
+Não, não é. Nem a causa de pedir nem o pedido. Uma (esta aqui) busca a melhor RMI, a outra (aquela lá) o melhor SB (salário de benefício).
+Não pode o acórdão recorrido se basear na suposta igualdade do TRIPLICE REQUISITO no fato de que toda e qualquer revisão de retroação da DIB é igual, independentemente da DIB e da causa de pedir (fundamento jurídico).
+Por derradeiro, entende o embargante perfeitamente possível o afastamento da alegada litispendência sem adentrar no conteúdo fático, exatamente como fez a Primeira Seção no aresto abaixo transcrito:
+(..)
+Trazendo a ratio decidendi e o procedimento acima adotado para este processo, temos a seguinte situação:
+Uma ação com a causa de pedir que busca a melhor RMI dentre todas as possíveis forte no direito adquirido (artigo 5º, XXXVI) constitucionalmente assegurado ( CAUSA DE PEDIR DO TEMA 334 DO STF ).
+É IGUAL A AÇÃO QUE BUSCA ..
+.. forte na extensão de regra legal já existente (art. 42 § 2º - artigo 29 ambos da Lei 8.213/91) e dirigida tão-somente a um grupo de segurados (benefícios de risco / e com falhas contributivas no PBC);
+Lembrando que conforme o próprio TRF4 afirmou, AMBAS COM DATAS DE RECÁLCULO DIVERSA" (fls. 346/349e).
+Requer, ao final, "seja conhecido e provido o presente declaratório, eis que devidamente demonstrado não ser necessário a analise dos fatos para se debruçar sobre a alegação de litispendência, eis que a ação trata de matéria exclusivamente de direito e o próprio aresto recorrido declarar com todas as letras que o mero fato de ser requerido o cálculo do benefício em datas diferentes não tem o condão de transformar um pedido em outro, assertiva esta que de plano, e sem maior esforço, afastam a tríplice identidade" (fl. 349e).
+Intimada a parte embargada (fl. 355e), não foi apresentada impugnação.
+De início, nos termos do art. 1.022 do CPC/2015, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+Na lição de JOSÉ CARLOS BARBOSA MOREIRA, "há omissão quando o tribunal deixa de apreciar questões relevantes para o julgamento, suscitadas pelas partes ou examináveis de ofício (..), ou quando deixa de pronunciar-se acerca de algum tópico da matéria submetida à sua cognição, em causa de sua competência originária, ou obrigatoriamente sujeita ao duplo grau de jurisdição (art. 475), ou ainda mediante recurso, inclusive quanto a ponto acessório, como seria o caso de condenações em despesas processuais e honorários advocatícios (art. 20), ou de sanção que se devesse impor (por exemplo, as previstas no art. 488, nº II, e no art. 529)" (in Comentários ao Código de Processo Civil, Volume V, Forense, 7ª edição, p. 539).
+Constata-se a contradição quando, no contexto do decisum, estão contidas proposições inconciliáveis entre si, dificultando-lhe a compreensão.
+Assim, a contradição que rende ensejo à oposição de Embargos de Declaração é aquela interna do julgado, cumprindo trazer à luz o entendimento de PONTES DE MIRANDA acerca do tema, in verbis:
+"A contradição há de ser entre enunciados do acórdão, mesmo se o enunciado é de fundamento e outro é de conclusão, ou entre a ementa e o acórdão, ou entre o que vitoriosamente se decidira na votação e o teor do acórdão, discordância cuja existência se pode provar com os votos vencedores, ou a ata, ou outros dados" (in Comentários ao Código de Processo Civil, Tomo VII, 3ª edição, Forense, 1999, p. 322).
+Para ANTÔNIO CARLOS DE ARAÚJO CINTRA, "a rigor, há de se entender que o erro material é aquele que consiste em simples lapsus linguae aut calami, ou de mera distração do juiz, reconhecível à primeira vista. Sempre que o suposto erro constitui o resultado consciente da aplicação de um critério ou de uma apreciação do juiz, ainda que inócua, não haverá erro material no sentido que a expressão é usada pela disposição em exame, de modo que sua eventual correção deve ser feita por outra forma, notadamente pela via recursal" (in Comentários ao Código de Processo Civil. Rio de Janeiro: Forense, 2003, Volume IV, p. 301). Na mesma linha, o escólio de EDUARDO TALAMINI: "O erro material reside na expressão do julgamento, e não no julgamento em si ou em suas premissas. Trata-se de uma inconsistência que pode ser clara e diretamente apurada e que não tem como ser atribuída ao conteúdo do julgamento - podendo apenas ser imputada à forma (incorreta) como ele foi exteriorizado" (in Coisa Julgada e sua Revisão, RT, 2005, p. 527).
+A obscuridade, por sua vez, verifica-se quando há evidente dificuldade na compreensão do julgado. Ocorre quando há a falta de clareza do decisum, daí resultando a ininteligibilidade da questão decidida pelo órgão judicial. Em última análise, ocorre a obscuridade quando a decisão, no tocante a alguma questão importante, soluciona-a de modo incompreensível. É o que leciona VICENTE GRECO FILHO:
+"A obscuridade é o defeito consistente na difícil compreensão do texto da sentença e pode decorrer de simples defeito redacional ou mesmo de má formulação de conceitos. Há obscuridade quando a sentença está incompreensível no comando que impõe e na manifestação de conhecimento e vontade do juiz. A obscuridade da sentença como os demais defeitos corrigíveis por meio de embargos de declaração prejudicando a intelecção da sentença prejudicará a sua futura execução.
+A dúvida é o estado de incerteza que resulta da obscuridade. A sentença claramente redigida não pode gerar dúvida" (in Direito Processual Civil Brasileiro, vol. 2, São Paulo: Saraiva, 2000, p. 241).
+Infere-se, portanto, que, não obstante a orientação acerca da natureza recursal dos Declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum, em casos, justamente, nos quais eivado de obscuridade, contradição, omissão ou erro material; não têm, pois, de regra, caráter substitutivo ou modificativo, mas aclaratório ou integrativo.
+In casu, o embargante, nas suas razões recursais, deixou de apontar, efetivamente, a existência de qualquer omissão, contradição ou obscuridade na decisão ora combatida, o que atrai o óbice contido na Súmula 284 do Supremo Tribunal Federal, aplicável a qualquer recurso: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Nesse sentido: AgRg no AREsp 422.907/RJ, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 18/12/2013; STJ, AgRg no AREsp 75.356/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 21/10/2013.
+De fato, da simples leitura das razões dos Embargos de Declaração opostos, verifica-se o nítido propósito de obter o reexame da questão, à luz da tese invocada, na busca de decisão infringente, pretensão manifestamente incabível, em sede de embargos declaratórios, cujos limites encontram-se previstos no art. 1.022 do Código de Processo Civil vigente.
+Deve-se ressaltar que, seja à luz do CPC/73 ou do CPC vigente, os Embargos de Declaração não constituem veículo próprio para o exame das razões atinentes ao inconformismo da parte, tampouco meio de revisão, rediscussão e reforma de matéria já decidida.
+Nesse sentido:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RECLAMAÇÃO. RESOLUÇÃO STJ N. 12/2009. OMISSÃO. ACOLHIMENTO.
+1. Os embargos de declaração são cabíveis quando o provimento jurisdicional padece de omissão, contradição ou obscuridade, bem como quando há erro material a ser sanado.
+2. Embargos declaratórios acolhidos sem efeitos infringentes" (STJ, EDcl nos EDcl na Rcl 28.977/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, DJe de 11/03/2016).
+"PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA. HIPÓTESES DO ART. 535 DO CPC. AUSÊNCIA. REDISCUSSÃO DA MATÉRIA DECIDIDA. IMPOSSIBILIDADE.
+1. Os embargos de declaração apenas são cabíveis para sanar omissão, contradição ou obscuridade do julgado recorrido, admitindo-se também esse recurso para se corrigir eventuais erros materiais constantes do pronunciamento jurisdicional.
+2. No caso, está evidenciado o intuito do embargante em rediscutir a matéria já integralmente decidida pelo órgão judicial recorrido, o que não se admite nos estreitos limites do art. 535 do CPC.
+3. Embargos de declaração rejeitados" (STJ, EDcl no AgRg nos EAREsp 540.453/RS, Rel. Ministra DIVA MALERBI (Desembargadora Federal Convocada do TRF/3ª Região), PRIMEIRA SEÇÃO, DJe de 04/03/2016).
+Pelo exposto, à míngua de vícios, rejeito os Embargos Declaratórios.
+I.
