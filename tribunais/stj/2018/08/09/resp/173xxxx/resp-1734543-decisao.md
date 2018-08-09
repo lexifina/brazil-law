@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (e-STJ fls. 361/362):
+EMENTA: AGRAVO DE INSTRUMENTO. EXCEÇÃO DE COMPETÊNCIA. CONTRATO DE FRANQUIA. CLÁUSULA DE ELEIÇÃO DE FORO. RELAÇÃO PARITÁRIA E NEGOCIAL. PRÁTICAS COMERCIAIS ABUSIVAS. DESNATURAÇÃO DA RELAÇÃO COMERCIAL. HIPOSSUFICIÊNCIA. VULNERABILIDADE COMPROVADA. INVALIDADE DA CLÁUSULA DE ELEIÇÃO DE FORO. RECURSO CONHECIDO E IMPROVIDO.
+1. O presente recurso versa sobre a competência para dirimir a validade de contrato de franquia firmado entre as empresas agravantes e agravadas.
+2. A tese firmada pelos agravantes discorre sobre os termos do art. 100, IV, do CPC/73, atual art. 53, III, da Lei nº. 13.105/2015, devendo ser mantida a cláusula de eleição de foro disposta no contrato de franquia. Noutro giro, as empresas agravadas rebatem a tese disposta, relatando que a avença fora firmada sob o palio da adesão, sem possibilidade de negociação das cláusulas dispostas, havendo abusividade na prática comercial perpetrada pelas empresas franqueadoras.
+3. O contrato de franquia encontra-se regido pela Lei nº. 8.955, de 15 de dezembro de 1994. De acordo com o regramento, a franquia representa "sistema pelo qual um franqueador cede ao franqueado o direito de uso de marca ou patente, associado ao direito de distribuição exclusiva ou semi-exclusiva de produtos ou serviços e, eventualmente, também ao direito de uso de tecnologia de implantação e administração de negócio ou sistema operacional desenvolvidos ou detidos pelo franqueador, mediante remuneração direta ou indireta, sem que, no entanto, fique caracterizado vínculo empregatício".
+4. Sob tal perspectiva, as empresas franqueadora e franqueada não se encontram em patamares díspares, devendo haver entre as mesmas uma relação paritária e negocial, sob pena de desnaturar-se o vínculo da franquia, estabelecendo-se uma mera relação de dependência comercial, a ensejar a subordinação ou subserviência total às regras impostas pelo franqueador.
+5. O Juízo a quo declarou a nulidade da cláusula de eleição de foro estipulada no contrato de adesão de franquia, uma vez configurada a vulnerabilidade ou a hipossuficiência dos aderentes. No caso em apreço, em observância aos contratos de franquia firmados entre as empresas litigantes pode-se apontar práticas abusivas perpetradas pelas empresas agravantes, no papel de franqueadoras.
+6. Tais práticas comerciais apontam a desigualdade na avença comercial firmada, fato evidenciado nas disposições contratuais, a apontar indícios de desnaturação do vínculo de franquia, pois evidente a desproporcionalidade das práticas negociais impostas aos franqueados, limitativa da própria esfera empresarial, a indicar a alteração do formato de negociação para a constituição da franqueada em filial da empresa franqueadora, dispositivo diverso do planejado contratualmente.
+7. Assim, resta claro a hipossuficiencia das partes agravadas na relação comercial estabelecida, e ante tal premissa não se pode declarar válida ou legítima a cláusula de eleição do foro de Franca/SP para dirimir as questões relacionadas ao contrato, ante a vulnerabilidade impressa aos agravados.
+8. Recurso conhecido e improvido.
+O recurso especial (e-STJ fls. 374/378), fundamentado no art. 105, III, alínea "a", da CF, aponta ofensa ao art. 53, III, "a", do CPC/2015, sob o argumento de que o foro competente para discutir contrato de franquia é o do lugar da sede da pessoa jurídica ré, ou seja, em Franca - SP.
+Não foram apresentadas contrarrazões (e-STJ fl. 384).
+É o relatório.
+Decido.
+O recurso não merece provimento.
+Discute-se a competência para processar e julgar demanda relacionada a contrato de franquia. O Tribunal de origem, analisando o pacto, considerou hipossuficiente a agravada, anulando a cláusula de eleição de foro e estabelecendo a competência do Juízo de Fortaleza - CE.
+Entretanto, o acórdão recorrido não emitiu juízo de valor sobre a tese do recurso especial - foro da sede da pessoa jurídica ré - nos termos do art. 53, III, "a", do CPC/2015 (e-STJ fls. 368 e 371):
+Tais práticas comerciais apontam a desigualdade na avença comercial firmada, fato evidenciado nas disposições contratuais, a apontar indícios de desnaturação do vínculo de franquia, pois evidente a desproporcionalidade das práticas negociais impostas aos franqueados, limitativa da própria esfera empresarial, a indicar a alteração do formato de negociação para a constituição da franqueada em filial da empresa franqueadora, dispositivo diverso do planejado contratualmente.
+Assim, resta claro a hipossuficiência das partes agravadas na relação comercial estabelecida, e ante tal premissa não se pode declarar válida ou legítima a cláusula de eleição do foro de Franca/SP para dirimir as questões relacionadas ao contrato, ante a vulnerabilidade impressa aos agravados.
+Vide precedentes neste sentido:
+ ..
+Assim, a decisão vergastada não merece ser retificada, uma vez comprovada a hipossuficiência dos agravados na relação comercial, sendo plausível a declaração de nulidade da cláusula de eleição de foro, bem como a rejeição da exceção de competência, mantendo-se o do foro na Comarca de Fortaleza para dirimir a lide.
+Por estas razões, CONHEÇO do recurso interposto, mas para NEGAR-LHE provimento, mantendo-se a declaração de nulidade da cláusula de eleição de foro, bem como a rejeição da exceção de competência e o reconhecimento da competência do Juízo de plano para dirimir a presente lide.
+É como voto.
+A falta de manifestação sobre o tema acarreta ausência de prequestionamento e impede o conhecimento do recurso. Incide a Súmula n. 282/STF.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
