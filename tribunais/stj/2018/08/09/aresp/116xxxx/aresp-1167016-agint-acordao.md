@@ -1,0 +1,47 @@
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO INFRACONSTITUCIONAL SOBRE O QUAL RECAIA DISSÍDIO JURISPRUDENCIAL. SÚMULA 284/STF. INSCRIÇÃO INDEVIDA EM ÓRGÃO DE RESTRIÇÃO AO CRÉDITO. DANOS MORAIS CONFIGURADOS. DIMINUIÇÃO DO VALOR. RAZOABILIDADE E PROPORCIONALIDADE OBSERVADOS. SÚMULA Nº 7/STJ.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. A ausência de indicação de dispositivo infraconstitucional sobre o qual recaia o dissídio jurisprudencial atrai a aplicação do óbice contido na Súmula nº 284/STF.
+3. A tese defendida no recurso especial demanda reexame do contexto fático e probatório dos autos, vedado pela Súmula nº 7/STJ.
+4. Agravo interno a que se nega provimento.
+ACÓRDÃO
+ A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Antonio Carlos Ferreira (Presidente), Marco Buzzi, Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) e Luis Felipe Salomão votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto em face de decisão por meio da qual neguei provimento ao agravo interno.
+Sustentou a parte agravante que não são aplicáveis os óbices contidos nas Súmulas 284, do STF, e 7, do STJ, reiterando as razões contidas no recurso especial.
+A parte agravada, regularmente intimada, não se manifestou.
+É o relatório.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Observo que os frágeis argumentos desenvolvidos pelo agravante não têm plausibilidade jurídica para infirmar a aplicação dos óbices sumulares, porque em nenhum momento foi desenvolvido raciocínio no sentido de demonstrar incorreção na incidência dos mencionados verbetes ao caso dos autos.
+ Como salientado, verifico que o ora recorrente sequer apontou quais dispositivos de lei federal entendeu que recairia dissídio jurisprudencial, de modo a permitir o conhecimento do recurso especial com espeque na alínea "c" do inciso III do artigo 105 da Constituição Federal.
+Assim sendo, imperioso concluir pela incidência da súmula nº 284, do Egrégio Supremo Tribunal Federal, visto que a deficiência na fundamentação do recurso não permitiu a exata compreensão da controvérsia.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RECURSO ESPECIAL INTERPOSTO COM FULCRO NA ALÍNEA "C" DO ART. 105, III DA CONSTITUIÇÃO FEDERAL. FALTA DE PARTICULARIZAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. ALEGAÇÕES GENÉRICAS. INCIDÊNCIA DA SÚMULA 284 DO STF. FUNDAMENTO INATACADO DO ACÓRDÃO RECORRIDO. SÚMULA 283 DO STF. AGRAVO NÃO PROVIDO.
+1. O agravo em recurso especial está sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 do Plenário do Superior Tribunal de Justiça (AgRg no AREsp 849.405/MG, Quarta Turma, Julgado em 5/4/2016).
+2. A jurisprudência consolidada deste Superior Tribunal determina que na interposição do recurso especial pela alínea ""c" do permissivo constitucional é preciso particularizar o dispositivo de lei federal violado para a análise da divergência jurisprudencial entre os acórdãos recorrido e paradigma. A falta deste pressuposto recursal enseja deficiência na fundamentação e inviabiliza do conhecimento do apelo nobre, ante a incidência, por analogia, da Súmula 284 do STF, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+3. "Sem a expressa indicação do dispositivo de lei federal nas razões do recurso especial, a admissão deste pela alínea "c" do permissivo constitucional importará na aplicação, nesta Instância Especial, sem a necessária mitigação, dos princípios jura novit curia e da mihi factum dabo tibi ius, impondo aos em. Ministros deste Eg. Tribunal o ônus de, em primeiro lugar, de ofício, identificarem na petição recursal o dispositivo de lei federal acerca do qual supostamente houve divergência jurisprudencial" (..) "A mitigação do mencionado pressuposto de admissibilidade do recurso especial iria de encontro aos princípios da ampla defesa e do contraditório, pois criaria para a parte recorrida dificuldades em apresentar suas contrarrazões, na medida em que não lhe seria possível identificar de forma clara, precisa e com a devida antecipação qual a tese insculpida no recurso especial" (AgRg no REsp 1346588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, julgado em 18/12/2013, DJe 17/03/2014).
+4. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado, impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283 do STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles." 5. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 925.438/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/11/2016, DJe 23/11/2016)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. VÍTIMA FATAL. TERMO INICIAL DOS JUROS DE MORA. EVENTO DANOSO. SÚMULA 54/STJ. TERMO FINAL DO PENSIONAMENTO. SÚMULA 284/STF. DANOS MORAIS. VALOR RAZOÁVEL.
+1. Segundo o entendimento majoritário da Segunda Seção, sufragado no REsp 1.132.866/SP (julgado em 23.11.2011), no caso de indenização por dano moral puro decorrente de ato ilícito os juros moratórios legais fluem a partir do evento danoso (Súmula 54 do STJ). Ressalva do ponto de vista pessoal da Relatora.
+2. Aplica-se a orientação contida no enunciado n. 284 da Súmula do STF quando a tese defendida no recurso especial interposto com base nas alíneas "a" e "c" do art. 105, III, da CF não vem embasada em alegação de violação a dispositivo de lei federal dito violado ou em divergência jurisprudencial.
+3. A jurisprudência do Superior Tribunal de Justiça admite, excepcionalmente, em recurso especial, o reexame do valor fixado a título de danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que a verba indenizatória, consideradas as circunstâncias de fato da causa, foi estabelecida pela instância ordinária em conformidade com os princípios da proporcionalidade e razoabilidade.
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1432383/GO, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/6/2014, DJe 1/8/2014)
+Ademais, reitero que a Corte estadual, ao analisar as circunstâncias contidas nos autos e o conjunto fático-probatório produzido no caso concreto, entendeu que foi comprovada a falha na prestação dos serviços oferecidos pela recorrente ao inscrever indevidamente a recorrida em cadastro de inadimplentes, em decorrência de fraude, razão pela qual a indenização pelos danos morais é devida, pois ultrapassou o mero dissabor do cotidiano.
+Por fim, destaco que a diminuição do valor da indenização a título de danos morais demandaria nova investigação acerca dos fatos e provas contidos no processo, de modo que o recurso especial também esbarra na súmula nº 7/STJ.
+Não desconheço que a jurisprudência do STJ, excepcionalmente, admite a revisão dos valores estipulados pelas instâncias ordinárias, quando ínfimos ou exagerados.
+Na presente hipótese, em que estipulada indenização de R$ 5.000,00 (cinco mil reais), em decorrência de inscrição indevida em cadastro de inadimplentes, penso que o montante fixado atende às circunstâncias de fato da causa, afigura-se condizente com os princípios da proporcionalidade e da razoabilidade e não constitui causa geradora de enriquecimento ilícito.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS NÃO IMPUGNADOS. ARTIGO 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015. INSCRIÇÃO INDEVIDA EM ÓRGÃO DE RESTRIÇÃO AO CRÉDITO. DANOS MORAIS PRESUMIDOS. SÚMULA Nº 83/STJ. PRECEDENTES. DIMINUIÇÃO DO VALOR. RAZOABILIDADE E PROPORCIONALIDADE OBSERVADOS. SÚMULA Nº 7/STJ.
+1. Nos termos do artigo 1.021, § 1º, do Código de Processo Civil/2015 é inviável o agravo interno que deixa de impugnar especificadamente os fundamentos da decisão agravada.
+2. O dano moral, oriundo de inscrição ou manutenção indevida em cadastro de inadimplentes ou protesto indevido, prescinde de prova, configurando-se in re ipsa, visto que é presumido e decorre da própria ilicitude do fato. Precedentes. Súmula nº 83/STJ.
+3. O valor fixado a título de danos morais, quando razoável e proporcional, não enseja a possibilidade de revisão, no âmbito do recurso especial, ante o óbice da Súmula 7 do STJ.
+4. Agravo interno não conhecido.
+(AgInt no AREsp 1026841/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 5/10/2017, DJe 19/10/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL. CADASTRO DE INADIMPLENTES. INSCRIÇÃO INDEVIDA. DANO MORAL. OCORRÊNCIA. INDENIZAÇÃO. VALOR EXORBITANTE. NÃO VERIFICAÇÃO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. PRECEDENTES.
+1. A fixação da indenização por danos morais baseia-se nas peculiaridades da causa. Assim, afastando-se a incidência da Súmula nº 7/STJ, somente comporta revisão por este Tribunal quando irrisória ou exorbitante, o que não ocorreu na hipótese dos autos, em que o valor foi arbitrado em R$ 20.000,00 (vinte mil reais).
+2. Agravo interno não provido.
+(AgInt no AREsp 646.664/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/9/2017, DJe 5/10/2017)
+Em face do exposto, nego provimento ao agravo interno.
+É o voto.
