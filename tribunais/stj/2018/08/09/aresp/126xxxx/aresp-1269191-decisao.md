@@ -1,0 +1,16 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR. PLEITO DE EXCLUSÃO DA CAUSA DE AUMENTO POR OMISSÃO DE SOCORRO. NECESSIDADE DE REVOLVIMENTO FÁTICO. INVIABILIDADE. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer de recurso especial.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra a decisão que inadmitiu o recurso especial interposto pela alínea a do permissivo constitucional, dirigido contra o acórdão do Tribunal de Justiça do Rio de Janeiro na Apelação Criminal n. 0004395-26.2007.8.19.0021, cuja ementa transcrevo (fl. 448):
+APELAÇÃO CRIMINAL. HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR. ARTIGO 302, PARÁGRAFO 1º, INCISO III, DO CÓDIGO DE TRÂNSITO BRASILEIRO. CONDENAÇÃO. RECURSO DEFENSIVO. PEDIDO DE AFASTAMENTO DA CAUSA ESPECIAL DE AUMENTO DE PENA REFERENTE À OMISSÃO DE SOCORRO. Impossibilidade. Reconhecimento da majorante ancorado nos depoimentos de oito testemunhas, todos no sentido de que o apelante não prestou socorro à vítima, embora pudesse fazê-lo. Ofendido que possuía apenas 09 anos de idade. Dever de solidariedade humana não observado pelo causador do delito.
+RECURSO AO QUAL SE NEGA PROVIMENTO.
+Contra referido acórdão foi interposto recurso especial (fls. 463/481), apontando ofensa ao art. 302, § 1º, III, do Código de Trânsito Brasileiro. Pretende a defesa o afastamento da causa de aumento, alegando que do interrogatório do acusado e do depoimento de uma das testemunhas percebe-se que não houve omissão de socorro, uma vez que o Acusado telefonou para a autoridade pública com a intenção de solicitar socorro imediato, o que retira da omissão o seu requisito subjetivo, qual seja, o dolo (fl. 477). Afirma ainda que a lei não exige que o autor do fato preste ele mesmo socorro à vítima, mas sim que providencie tal auxílio, o que de fato foi feito pelo Recorrente que, ao constatar o atropelamento, imediatamente utilizou seu telefone celular para solicitar ajuda à polícia e aos bombeiros (fl. 480).
+Apresentadas contrarrazões (fls. 486/492), o recurso especial foi inadmitido pela Corte de origem por aplicação da Súmula 7/STJ (fls. 495/498), tendo o recorrente manejado o agravo em análise (fls. 507/516), com contraminuta ofertada às fls. 520/524.
+O Ministério Público Federal opinou pelo desprovimento do agravo (fls. 541/546).
+É o relatório.
+Tenho que a insurgência não merece abrigo, uma vez que a pretensão deduzida exige revolvimento fático, o que encontra óbice no teor da Súmula 7/STJ.
+Com efeito, ao manter a causa de aumento decorrente da omissão de socorro, o Tribunal estadual expressamente assentou que todas as testemunhas foram unânimes ao afirmar que o apelante não prestou socorro à vítima, sendo certo que o socorro prestado por terceiro, no caso a testemunha [NOME], não o exime do seu dever legal, fundado na solidariedade humana, mormente porque a vítima possuía apenas 09 anos de idade (fl. 454).
+Nesse contexto, a reversão da conclusão alcançada pelas instâncias ordinárias só seria possível mediante nova apreciação dos fatos ocorridos no caso, o que é vedado em sede de recurso especial. Nesse sentido, confira-se: AgRg no REsp 1544401/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 13/06/2018.
+Ante o exposto, com fundamento no art. 253, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
