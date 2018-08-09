@@ -1,0 +1,37 @@
+Decisão:
+    Vistos.
+    Cuida-se de reclamação constitucional, com pedido de liminar, ajuizada por Lenine Araújo de Souza, contra ato do Juízo de Direito da 1ª Vara Judicial da Comarca de Valparaíso de Goiás e do Juiz Federal da 11ª Vara Criminal de Goiânia, que teriam usurpado a competência do Supremo Tribunal Federal.
+    Segundo a defesa,
+    “[e]m investigação criminal, intitulada de ‘Operação Monte Carlo’ deflagrada pela r. Polícia Federal, o Reclamante foi alvo – em conjunto com o Senador da República Demóstenes Torres – de interceptação telefônica e de dados, tendo ambos, sido interceptados, tanto o terminal telefônico do Reclamante, quanto do aludido Senador.
+    O aludido Senador, assim como o Reclamante e diversas outras pessoas, estavam sendo investigados pela hipotética prática de vários delitos, particularmente para a presente Reclamação, por formação de quadrilha tipificada no art. 288, do CP.
+    Logo, estava se investigando entre o Reclamante, o aludido Senador e diversas outras pessoas, um suposto liame subjetivo, habitual, estável e consensual, constitutivo de uma suposta sociedade criminosa, da qual todos – inclusive o Parlamentar – seriam membros, com a pretensa finalidade de cometer crimes.
+    Pelo Juízo monocrático, a investigação foi inconstitucionalmente cindida tendo em vista a qualidade de Senador da República da pessoa de Demóstenes Torres.
+    No entanto, com o máximo respeito aquele d. Magistrado ao invés de cindir as investigações, ‘recortando os autos’, o d. Juízo monocrático deveria ter encaminhado a este c. STF toda a investigação, para que, se fosse o caso, esta c. Suprema Corte determinasse o retorno deste para o juízo de 1ª instância.”
+    Na sua visão,
+    “por violação do foro por prerrogativa de função do aludido Parlamentar e, decorrente, usurpação de competência deste e. STF, para decidir quanto à cisão – ou não – dos autos, são manifestamente nulos os deferimentos judiciais das interceptações telefônicas e as interceptações telemáticas do Reclamante (...)”
+    Afirmam os defensores, ainda, que
+    “as e. Autoridades Reclamadas jamais poderiam ter deferido as interceptações telefônicas e as diretamente decorrentes interceptações telemáticas em face do Reclamante, sem antes haver decisão deste e. STF quanto à competência, que obviamente não ocorreu.
+    Entretanto, mesmo assim as Autoridades ora Reclamadas promoveram e mantiveram a cisão da aludida investigação com o que permaneceram indiretamente apurando a conduta do aludido Senador da República em manifesta desconsideração ao respectivo foro por prerrogativa de função.
+    Por evidente que, as Autoridades Reclamadas não tinham competência para promover referida cisão, de maneira que usurparam a competência deste e. STF, cuja situação impõe a presente Reclamação, com efeito de anular as medidas invasivas de interceptação telefônica e diretamente decorrente interceptação telemática por elas inconstitucionalmente deferidas.”
+    Requerem, nesse sentido, o deferimento da liminar para
+    “SUSTAR O ANDAMENTO PROCESSUAL das ações penais por ele supridas, a saber: (a) – Ação Penal n.º 36660.81.2012.4.01.3500; (b) – Ação Penal n.º 0016713.70.2014.4.01.3500; ambas atualmente em trâmite perante o MM Juiz Federal da 11ª Vara Criminal de Goiânia; e, (c) – Ação Penal n.º 9272.09.2012.4.01.3500, atualmente em trâmite perante o e. TRF1.”
+    No mérito, pleiteiam a procedência da ação, a fim de que seja declarada a nulidade
+    “das interceptações telefônicas e telemáticas in causa ordenadas na investigação criminal in causa (Operação Monte Carlo) nos autos da aludida medida cautelar criminal; como também declarar a nulidade e consequentemente inutilização de todo o material interceptado e dos elementos de prova dele decorrente; e, assim, que os áudios e as degravações in causa; e, também, as peças processuais e documentos formais que lhes façam remissão, transcrevam ou analisem, sejam desentranhadas dos nos autos da Medida Cautelar, inicialmente, autuada sob o nº 408553-95.2010.8.09.0162, que tramitou perante o MM. Juízo da 1ª Vara Judicial da Comarca de Valparaíso de Goias/GO; e, posteriormente, autuada sob o nº 13.279-78.2011.4.01.3500, perante o MM. Juiz Federal da 11ª Vara Criminal de Goiânia/GO; bem como, de todos os demais feitos conexos ou por ela supridos, a saber: (a) – Ação Penal n.º 36660.81.2012.4.01.3500; (b) – Ação Penal n.º 0016713.70.2014.4.01.3500; ambas atualmente em trâmite perante o MM Juiz Federal da 11ª Vara Criminal de Goiânia; e, (c) – Ação Penal n.º 9272.09.2012.4.01.3500, atualmente em trâmite perante o e. TRF1, em fase de Apelação; e, assim, inutilizadas, conforme incidente de inutilização previsto no art. 9º, parágrafo único, da Lei 9296/96.”
+    Examinados os autos, decido.
+    Examinados os autos, decido.
+    Vislumbra-se do entendimento da Corte que “a usurpação da competência do STF traz como consequência a inviabilidade de tais elementos operarem sobre a esfera penal do denunciado” (Inq nº 2.842/DF, Tribunal Pleno, Relator o Ministro Ricardo Lewandowski, DJe de 27/2/14). Essa conclusão, todavia, conforme assentado no julgado citado, “não alcança os acusados destituídos de foro por prerrogativa de função.” (grifos nossos)
+    Logo, consoante reconheceu o Tribunal Pleno no precedente em questão, a declaração de imprestabilidade dos elementos de prova angariados em usurpação da competência criminal do Supremo Tribunal Federal não alcança necessariamente os acusados destituídos de foro por prerrogativa de função, como no caso em apreço.
+    Perfilhando esse entendimento:
+    “Agravo regimental na reclamação. Usurpação de competência. Não ocorrência. Informações do juízo reclamado de que autoridade com foro por prerrogativa de função não foi alvo de nenhuma medida cautelar autorizada por aquele juízo no curso da persecução penal, bem como de que os fatos verificados sobre o parlamentar não tinham relação direta com o objeto da investigação em desfavor do agravante. Inviabilidade do uso da reclamação para se operar o reexame do conteúdo do ato reclamado e de todo o conjunto fático-probatório para se chegar a conclusão diversa. Precedentes. Eventual declaração de imprestabilidade dos elementos de prova angariados em suposta usurpação da competência criminal do Supremo Tribunal Federal não alcança aqueles destituídos de foro por prerrogativa de função. Precedentes. Regimental não provido” (Rcl nº 25.497/RN-AgR, Segunda Turma, de minha relatoria, DJe de 13/3/17 – grifos nossos).
+    No mesmo sentido o RHC nº 135.683/GO, Segunda Turma, de minha relatoria, DJe de 31/3/17.
+    Não vislumbro, portanto, a presença do fumus boni iuris necessário ao deferimento da medida liminar, razão jurídica essa pela qual a indefiro.
+    Verifica-se, ainda, que a petição inicial não indica o valor da causa.
+    É caso de ofensa direta aos arts. 291 e 319, V, do Código de Processo Civil.
+    Ante o exposto, com fundamento no art. 321 do Código de Processo Civil, determino a emenda da inicial, no prazo de 15 (quinze) dias, sob pena de seu indeferimento.
+    Cumprida essa exigência legal, nos termos do art. 157 do Regimento Interno do Supremo Tribunal Federal, solicitem-se informações às autoridades reclamadas.
+    Após, dê-se vista dos autos à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 9 de agosto de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
