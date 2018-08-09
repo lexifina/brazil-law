@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo regimental interposto por [NOME], contra decisão monocrática, às fls. 814/816, que negou provimento ao recurso por entender não ter havido violação ao artigo 535 do Código de Processo Civil/73 e o acórdão recorrido estar de acordo com a jurisprudência desta eg. Corte.
+Na petição do presente agravo regimental, a parte agravante busca demonstrar a plausibilidade da sua tese meritória e, também, defende a necessidade de se sobrestar o presente processo até o julgamento do recurso repetitivo - REsp nº 1.525.327/PR.
+Devidamente intimada, as agravadas apresentaram impugnação ao agravo regimental, às fls. 842/848, 849/857 e 858/862.
+É o relatório.
+Da análise dos autos, constata-se que, dentre outas questões, discute-se necessidade ou não de suspensão das ações individuais em que se pleiteia indenização por dano moral em razão de suposta exposição à contaminação ambiental, decorrente da exploração de jazida de chumbo no município de Adrianópolis-PR, até o julgamento das Ações Civis Públicas (5004891-93.2011.404.7000 e 2001.70.00.019188-2), em trâmite perante a Vara Federal Ambiental, Agrária e Residual de Curitiba.
+Não obstante, observa-se que esta matéria foi afetada pelo Ministro LUIS FELIPE SALOMÃO, sob o rito dos recursos repetitivos, à Segunda Seção do Superior Tribunal de Justiça nos autos do REsp nº 1.525.327/PR (DJe 22/04/2015) vinculado ao Tema nº 923.
+Tendo em vista que a controvérsia devolvida ao exame desta Corte Superior, por meio do aludido apelo nobre, envolve matéria recentemente afetada à Segunda Seção, sob o regime de recursos repetitivos, resta imperiosa a devolução dos autos ao Tribunal de origem para observância da sistemática dos recursos repetitivos, consoante determina o art. 2º da Resolução STJ n.º 17, de 4 de setembro de 2013, verbis:
+Art. 2º Verificada a subida de recursos fundados em controvérsia idêntica a controvérsia já submetida ao rito previsto no art. 543-C do Código de Processo Civil, o presidente poderá:
+I - determinar a devolução ao tribunal de origem, para nele permanecerem sobrestados os casos em que não tiver havido julgamento do mérito do recurso recebido como representativo de controvérsia;
+II - determinar a devolução dos novos recursos ao tribunal de origem, para os efeitos dos incisos I e II do § 7º do art. 543-C do Código de Processo Civil, ressalvada a hipótese do § 8º do referido artigo, se já proferido julgamento do mérito do recurso representativo da controvérsia.
+Dessa forma, constata-se a relevância das razões deduzidas neste agravo regimental, o que autoriza a reconsideração a decisão unipessoal.
+Diante do exposto, reconsidero a decisão monocrática proferida às fls. 814/816, para, tornando-a sem efeito, determinar a devolução dos autos à origem, a fim de que lá permaneça suspenso o recurso especial até o pronunciamento definitivo desta Corte Superior sobre o Tema 923 , nos termos do artigo 1.037, inciso II, do CPC/2015.
+Após, observe-se a sistemática dos arts 1.040 e 1.041 do CPC/2015.
+Publique-se.
