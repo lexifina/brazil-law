@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+Contrato de financiamento imobiliário. Embargos à execução e repetição de indébito. Reajuste das prestações. Amortização do saldo devedor. Ônus da prova. Perícia.
+1 - Prestados esclarecimentos sobre o laudo pericial, por escrito, a não designação de audiência para oitiva do perito não implica cerceamento de defesa, sobretudo se a parte que a requereu não indica, de forma especificada, a omissão, contradição ou inconsistência do laudo pericial que pretende seja esclarecida na audiência.
+2 - O juiz, no exercício de seu livre convencimento motivado, não está adstrito ao laudo pericial, podendo decidir de forma contrária às suas conclusões, desde que motive, segundo critérios lógicos adequados, o resultado a que chegou mediante o exame da prova constante nos autos (CPC/15, art. 479).
+3 - O ônus da prova incumbe ao autor, quanto ao fato constitutivo do seu direito (art. 333, I, do CPC/73, art. 373, I, CPC/15). E, ainda que se trate de relação de consumo - onde a inversão do ônus da prova não é automática, mas condicionada à verossimilhança das alegações e à hipossuficiência do consumidor - se não estão presentes os requisitos para inversão, o ônus da prova deve seguir as regras processuais comuns.
+4 - Não demonstrado que o saldo devedor e as prestações do financiamento imobiliário foram corrigidos ou reajustados em desconformidade com o contrato, não procede a alegação de excesso de execução e nem procede pedido de repetição do indébito feito pelo mutuário.
+5 - Apelação da ré provida. Prejudicada a da autora.
+Nas razões de recurso especial, alega a parte agravante violação dos artigos 480 e 489, § 1º, II, IV e V, do Código de Processo Civil de 2015, além de divergência jurisprudencial. Sustenta que o acórdão recorrido é desprovido de fundamentação adequada, além de não conter motivação sobre a decisão de não ouvir o perito em audiência.
+Assim posta a questão, observo que o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+Confira-se, a propósito, o que consta do acórdão recorrido (e-STJ fl. 994):
+Dispunha o art. 435 do CPC/73 que a parte que desejar esclarecimento do perito requererá ao juiz que mande intimá-lo a comparecer em audiência, formulando desde logo as perguntas, sob a forma de quesitos.
+Nada impede, contudo, que o perito preste os esclarecimentos de forma escrita, sendo dispensável a sua oitiva em audiência.
+Apresentado o laudo pericial, as partes apresentaram considerações de seus assistentes técnicos e requereram esclarecimentos do perito. Prestados os esclarecimentos, as partes novamente apresentaram impugnações, tendo o perito prestado novos esclarecimentos (fls. 394, 453, 455/65 e 484/5).
+Não houve cerceamento de defesa. As partes tiveram mais de uma oportunidade de impugnar o laudo pericial, e o fizeram. O fato de os esclarecimentos terem sido prestados de forma escrita não os invalida.
+A propósito, consoante a nova disciplina que foi dada à matéria pelo CPC/15, esclarecidos os pontos divergentes ou sobre os quais haja dúvida, somente "se ainda houver necessidade de esclarecimentos, a parte requererá ao juiz que mande intimar o perito ou o assistente técnico a comparecer à audiência de instrução e julgamento, formulando, desde logo, as perguntas, sob forma de quesitos"(art. 477, § 3º).
+Além do mais, é necessário que a parte indique, de forma especificada, a omissão, contradição ou inconsistência do laudo pericial que pretende seja esclarecida na audiência, sobretudo se o perito já prestou esclarecimentos.
+A autora, ao requerer fosse designada audiência, limitou-se a alegar, de forma genérica, que complexos os cálculos apresentados e que havia omissões nas respostas aos quesitos.
+Suficiente a fundamentação apresentada, rejeito a alegação de contrariedade dos arts. 480 e 489 do CPC.
+O dissídio jurisprudencial não ficou caracterizado, pois não destacadas as circunstâncias que assemelhassem os casos confrontados.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
