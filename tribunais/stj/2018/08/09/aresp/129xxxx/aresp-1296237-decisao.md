@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da ausência de cotejo analítico.
+O acórdão recorrido está assim ementado (e-STJ fl. 228):
+PLANO DE SAÚDE - AÇÃO DE OBRIGAÇÃO DE FAZER C.C. INDENIZAÇÃO (FASE DE CUMPRIMENTO DE SENTENÇA) - Decisão que determinou a alteração do polo passivo, excluindo a Golden Cross e incluindo a agravante, [NOME] - Cabimento - Cessão da carteira de clientes a esta última - Fato incontroverso - Responsabilidade da cessionária/adquirente pelo cumprimento das relações jurídicas entre a operadora originária e os beneficiários do plano de saúde (incluindo ações já em curso) - Aplicação analógica dos arts. 42, § 3º e 568, II, do CPC - Agravante que reconhece a agravada como sua cliente - Obrigação constante do título executivo que, ademais, resume-se ao tratamento oncológico daquela, especialmente cobertura do exame PET-CT - Precedentes, inclusive desta Câmara - Decisão mantida - Recurso improvido.
+Nas razões do recurso especial (e-STJ fls. 233/240), interposto com fundamento no art. 105, III, "c", da CF, a parte recorrente alegou divergência jurisprudencial em torno do art. 71 do CPC/1973, argumentando que não seria cabível a denunciação da lide na fase de execução de sentença.
+No agravo (e-STJ fls. 252/257), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+O Tribunal de origem, analisando os fatos e as provas dos autos, entendeu que a parte recorrente era responsável pela pretensão do beneficiário do plano, pois, "em outubro de 2013, adquiriu a carteira de clientes da GOLDEN CROSS, mediante cessão  fato por ela admitido, assumindo a obrigação quanto aos contratos de plano de saúde originariamente firmados com esta última, incluindo responsabilidade por supostos danos causados aos consumidores, até mesmo em data anterior à aquisição da sobredita carteira de clientes (aplicação analógica do art. 42, § 3º, do CPC c.c. 558, II, do mesmo Estatuto)" (e-STJ fl. 229).
+Nesse contexto, verifica-se que o Tribunal a quo não se pronunciou sobre o alegado dissídio em relação ao art. 71 do CPC/1973, sequer tendo havido embargos declaratórios tendentes a tal manifestação. Assim, o recurso não merece conhecimento, nos termos das Súmulas n. 282 e 356 do STF.
+Além disso, é inviável alterar a conclusão do Tribunal de origem quanto à responsabilidade da recorrente, pois, para tanto, seria necessário reexaminar o conjunto fático-probatório, providência vedada a esta Corte, de acordo com a Súmula n. 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando os limites dos §§ 2º e 3º do referido dispositivo. Deferida a gratuidade da justiça, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
