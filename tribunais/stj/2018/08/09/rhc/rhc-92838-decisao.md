@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de recurso em habeas corpus, com pedido liminar, interposto por [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, no julgamento do HC n. 0225910-45.2017.8.21.7000.
+Extrai-se dos autos que o recorrente foi preso em em flagrante em 05/09/14, convertida em preventiva e denunciado pela prática dos crimes do art. 121, § 2º, V, quatro vezes, c/c os arts. 29 e 70, do Código Penal; no art. 157, § 2.º, I e II c/c o art. 14, II e no art. 157, § 2.º, I e II, todos do Código Penal (homicídio qualificado e roubo).
+Concluída a instrução, foi proferida sentença pronunciando o réu nos termos da denúncia. Entretanto, em recurso em sentido estrito, o Tribunal de origem deu parcial provimento à irresignação defensiva, absolvendo sumariamente o ora recorrente apenas no que diz respeito à acusação de homicídio qualificado na forma tentada, retornando os autos à origem, para o prosseguimento do feito, mantendo a segregação antecipada.
+Irresignada com a manutenção da custódia cautelar, a defesa impetrou writ perante o Tribunal de origem, o qual denegou a ordem em acórdão que restou assim ementado:
+HABEAS CORPUS. TENTATIVA DE HOMICÍDIO QUALIFICADO. ROUBO MAJORADO. 1. Não foram juntados ao habeas documentos suficientes para analise da regularidade da custódia do paciente. Ausente prova pré-constituída do constrangimento ilegal alegado, não merece conhecimento o writ no ponto. 2. A duração do processo, nos exatos termos da norma constitucional (art. 5º, inciso LXXVIII, da CF), deve ser razoável, impondo-se a interpretação da demora no curso da instrução através da ponderação com o princípio da proporcionalidade, que em seu sentido estrito autoriza a maior dilação dos prazos processuais quando a ação penal apresentar maior complexidade. O paciente está preso desde 05 de setembro de 2014. A sentença de pronúncia, no entanto, foi proferida em junho de 2016, transcorrido lapso considerado normal para o procedimento, que demandou expedição de carta precatória inquiritória. Diante das peculiaridades do caso concreto, portanto, não encontro o constrangimento ilegal ventilado, ante a ausência de demora injustificada, atribuível ao aparelho judiciário. Não constatada Injustificada demora processual, aplica-se a Súmula nº 21 do STJ. Excesso de prazo não configurado. HABEAS PARCIALMENTE CONHECIDO. E. NA PARTE CONHECIDA, DF NEGADA A ORDEM. (fl. 22).
+No presente feito, repisa a alegação de excesso de prazo para formação da culpa e ausência de razoabilidade para manutenção da constrição cautelar, uma vez que o recorrente está preso há mais de três anos sem que tenha havido sentença penal condenatória.
+Afirma que a manutenção da custódia, no caso, viola a dignidade da pessoa humana, aduzindo que não há elementos que justifiquem o tempo excessivo da prisão.
+Reitera o pedido para que seja concedida a liberdade provisória ao recorrente, se for o caso com aplicação de medidas cautelares alternativas, nos termos do art. 319 do Código de Processo Penal.
+O pedido liminar foi indeferido (fls. 58/60).
+Informações prestadas às fls. 69/71 e 74/122, o Ministério Público Federal opinou pela prejudicialidade da impetração (fls. 125).
+Novas informações prestadas às fls. 131/133.
+É o relatório.
+Decido.
+O presente recurso está prejudicado.
+De acordo com as informações prestadas pelo Juízo de primeiro grau e confirmadas na página eletrônica da Corte de origem, constata-se que em 31/10/2017, depois da interposição da presente demanda, o paciente foi submetido a julgamento pelo Tribunal do Júri, sobrevindo sentença na qual foi condenado à pena de 9 anos, 7 meses e 15 dias de reclusão, em regime inicialmente fechado, estando pendente julgamento da apelação.
+Nesse contexto, considerando o encerramento da instrução processual com a superveniência de sentença penal condenatória, fica superada a alegação de excesso de prazo para formação da culpa, nos termos do que dispõe a Súmula 52 deste Superior Tribunal de Justiça, que prevê:
+Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo.
+Diante do exposto, com fundamento no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se.
+Intimem-se.
