@@ -1,0 +1,46 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por EVEN - SP 25/10 EMPREENDIMENTOS IMOBILIÁRIOS LTDA E OUTRA contra decisão que denegou Recurso Especial, fundado no artigo 105, inciso III, alíneas a e c, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado de São Paulo.
+Nas razões do apelo nobre (fls. 287/311), as recorrentes discutem os seguintes temas: a) a legalidade da cobrança do valor relativo à comissão de corretagem e sua atribuição ao consumidor; e b) a ilegitimidade passiva ad causam da empresa incorporadora, bem como ausência de responsabilidade solidária das Recorrentes para a restituição dos valores pagos a título de comissão de corretagem.
+É o relatório. Decido.
+Validade do pagamento da comissão de corretagem:
+A Segunda Seção do Superior Tribunal de Justiça, sob o rito dos recursos especiais repetitivos, no julgamento do Recurso Especial n.º 1.599.511/SP, vinculado ao Tema n.º 938/STJ, consolidou o entendimento acerca da validade do pagamento da comissão de corretagem pelo consumidor "desde que previamente informado o preço total da aquisição da unidade autônoma, com o destaque do valor da comissão de corretagem", nos termos do acórdão assim ementado:
+"RECURSO ESPECIAL REPETITIVO. DIREITO CIVIL E DO CONSUMIDOR. INCORPORAÇÃO IMOBILIÁRIA. VENDA DE UNIDADES AUTÔNOMAS EM ESTANDE DE VENDAS. CORRETAGEM. CLÁUSULA DE TRANSFERÊNCIA DA OBRIGAÇÃO AO CONSUMIDOR. VALIDADE. PREÇO TOTAL. DEVER DE INFORMAÇÃO. SERVIÇO DE ASSESSORIA TÉCNICO-IMOBILIÁRIA (SATI). ABUSIVIDADE DA COBRANÇA.
+I - TESE PARA OS FINS DO ART. 1.040 DO CPC/2015:
+1.1. Validade da cláusula contratual que transfere ao promitente-comprador a obrigação de pagar a comissão de corretagem nos contratos de promessa de compra e venda de unidade autônoma em regime de incorporação imobiliária, desde que previamente informado o preço total da aquisição da unidade autônoma, com o destaque do valor da comissão de corretagem.
+1.2. Abusividade da cobrança pelo promitente-vendedor do serviço de assessoria técnico-imobiliária (SATI), ou atividade congênere, vinculado à celebração de promessa de compra e venda de imóvel.
+II - CASO CONCRETO:
+2.1. Improcedência do pedido de restituição da comissão de corretagem, tendo em vista a validade da cláusula prevista no contrato acerca da transferência desse encargo ao consumidor. Aplicação da tese 1.1.
+2.2. Abusividade da cobrança por serviço de assessoria imobiliária, mantendo-se a procedência do pedido de restituição. Aplicação da tese 1.2.
+III - RECURSO ESPECIAL PARCIALMENTE PROVIDO." (REsp 1599511/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 24/08/2016, DJe 06/09/2016.)
+Na hipótese dos autos, a Corte de origem decidiu em conformidade com a orientação consolidada no Superior Tribunal de Justiça, restando consignado que:
+"Oportuno enfatizar que nada obsta a cobrança de comissão de corretagem em negócios envolvendo a compra e venda de bem imóvel, uma vez que as partes podem livremente pactuar quem ficará obrigado pelo pagamento dessa verba, desde que não haja dúvida acerca dessa obrigação e qual o valor a ser despendido. Além disso, o consumidor deverá ser informado previamente do pagamento a ser desembolsado, em obediência ao princípio da informação.
+"In casu", no contrato firmado entre as partes não há cláusula transferindo aos compradores a obrigação de pagar tais despesas. Por conseguinte, o repasse de valores relativos à corretagem não se afigura regular.
+Os documentos acostados às fls. 148/162 não se coadunam com o que restou determinado pelo STJ.
+Logo, não restou comprovada a livre opção do consumidor para contratação dos serviços, pois não há instrumento contratual de conteúdo claro e expresso sobre o encargo, em atendimento ao dever de informação previsto no artigo 31 do Código de Defesa do Consumidor, norma cogente que rege a questão.
+Com relação à taxa assessoria imobiliária SATI, embora se tenha entendido que o repasse ao consumidor se trata de abusividade, verifica-se do acórdão anteriormente proferido pela Turma Julgadora que "não há documento algum, nem mesmo a declaração de recebimento as fls. 65 que justifique a devolução de valor atinente à taxa SATI no valor de R$5.000,00. Os documentos colacionados as fls. 66/67 e 148/149 dão conta de que a autora pagou comissões de corretagem às rés que somam a quantia de R$ 32.543,49 e é este valor, cuja importância paga foi devidamente comprovada, que deve ser devolvido à apelada" (fls. 268)." (fls. 412/413).
+Ressalto que, para se concluir em sentido contrário ao que restou expressamente consignado no acórdão recorrido, seria necessário o revolvimento do conjunto fático-probatório dos autos, bem como interpretação de cláusula contratual, inviável no âmbito desta instância especial, incidindo os óbices das Súmulas n.º 5 e n.º 7 do Superior Tribunal de Justiça.
+Legitimidade passiva da construtora para responder pela restituição da comissão de corretagem e da taxa de assessoria técnico-imobiliária (taxa SATI):
+A Segunda Seção do Superior Tribunal de Justiça, no julgamento do Recurso Especial n.º 1.551.968/SP, sob o rito dos recursos especiais repetitivos, vinculado ao Tema n.º 939/STJ, consolidou o entendimento acerca da "legitimidade passiva "ad causam" da incorporadora, na condição de promitente-vendedora, para responder pela restituição ao consumidor dos valores pagos a título de comissão de corretagem e de taxa de assessoria técnico-imobiliária, nas demandas em que se alega prática abusiva na transferência desses encargos ao consumidor", nos termos do acórdão assim ementado:
+"RECURSOS ESPECIAIS REPETITIVOS. CIVIL E PROCESSUAL CIVIL. ADMISSIBILIDADE PELO CPC/1973. ENUNCIADO ADMINISTRATIVO N. 2/STJ. PROCESSAMENTO PELO CPC/2015. CORRETAGEM. INCORPORAÇÃO IMOBILIÁRIA. RITO DOS ARTS. 1.036 E SEGUINTES DO CPC/2015.
+I - RECURSO ESPECIAL DA INCORPORADORA. LEGITIMIDADE PASSIVA "AD CAUSAM". TEORIA DA ASSERÇÃO. PRESCRIÇÃO E CASO FORTUITO. ALEGAÇÃO GENÉRICA. ÓBICE DA SÚMULA284/STF.
+II - RECURSO ESPECIAL ADESIVO DOS CONSUMIDORES. INOCORRÊNCIA DE DANO MORAL. ATRASO DA OBRA. CURTO PERÍODO. MERO INADIMPLEMENTO. INDENIZAÇÃO POR LUCROS CESSANTES. ÓBICE DA SÚMULA 7/STF. REPETIÇÃO EM DOBRO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+III - TESE PARA OS FINS DO ART. 1.040 DO CPC/2015:
+3.1. Legitimidade passiva "ad causam" da incorporadora, na condição de promitente-vendedora, para responder a demanda em que é pleiteada pelo promitente-comprador a restituição dos valores pagos a título de comissão de corretagem e de taxa de assessoria técnico-imobiliária, alegando-se prática abusiva na transferência desses encargos ao consumidor.
+IV. RECURSO ESPECIAL DA INCORPORADORA:
+4.1. Aplicação da tese ao caso concreto, rejeitando-se a preliminar de ilegitimidade passiva.
+4.2. Incidência do óbice da Súmula 284/STF no que tange às alegações de prescrição e de caso fortuito, tendo em vista o caráter genérico das razões recursais.
+V. RECURSO ESPECIAL ADESIVO DOS CONSUMIDORES:
+5.1. Inocorrência de abalo moral indenizável pelo atraso de alguns meses na conclusão da obra, em razão das circunstâncias do caso concreto.
+5.2. Incidência do óbice da Súmula 7/STJ, no que tange à pretensão de condenação da incorporadora ao pagamento de indenização por lucros cessantes durante o curto período do atraso na entrega da obra.
+5.3. Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal "a quo" (Súmula 211/STJ).
+5.4. Ausência de prequestionamento da questão referente à repetição em dobro dos valores da comissão de corretagem e do serviço de assessoria imobiliária.
+VI - RECURSOS ESPECIAIS DESPROVIDOS."
+(REsp 1551968/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 24/08/2016, DJe 06/09/2016.)
+Na hipótese dos autos, a Corte de origem decidiu em conformidade com a orientação consolidada neste Superior Tribunal de Justiça ao reconhecer a legitimidade solidária da incorporadora (promitente vendedora) para responder pela restituição dos valores pagos a título de comissão de corretagem e de taxa SATI, restando assim consignado:
+"Preliminarmente, rejeita-se a arguição de ilegitimidade de parte para figurar no polo passivo da presente demanda, uma vez que a pretensão evoca discussão acerca da exigibilidade da comissão de corretagem e da assessoria técnico-imobiliária, cujos valores foram pagos juntamente com o preço do imóvel incorporado e construído pelas empresas requeridas.
+Ademais, a presente relação apresenta inequívoco caráter consumerista, de modo que todos aqueles envolvidos na cadeia de consumo são solidariamente responsáveis pelos eventuais danos causados aos consumidores." (fls. 265/266).
+Portanto, quanto ao tema, não merece reparo o decisum impugnado.
+Ante o exposto, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nesta extensão, NEGAR-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte Recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos no § 2.º do referido dispositivo legal, bem como a eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
