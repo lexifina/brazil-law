@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado do Ceará.
+Consta dos autos que o Juízo da Vara de Execuções Criminais determinou a realização de avaliação multidisciplinar para fins de progressão de regime (e-STJ fls. 38/39).
+Interposto agravo em execução pelo Ministério Público, o Tribunal de origem indeferiu a liminar e solicitou informações ao Juízo de origem (e-STJ fls. 61/64).
+No presente writ, a defesa sustenta, em síntese, que o apenado sofre constrangimento ilegal, uma vez que preenche os requisitos legais para a progressão: boa conduta carcerária e resgate do lapso necessário.
+Aduz que o Juízo de primeiro grau limitou-se a fundamentar de forma genérica e abstrata a necessidade da realização de exame criminológico para a progressão de regime.
+Requer, nesse diapasão, liminarmente e no mérito, seja cassada a decisão impugnada, para afastar a exigência de exame criminológico, devendo o juízo de execução dar prosseguimento à apreciação do pedido de progressão ao regime semiaberto.
+É o relatório. Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar. No mesmo sentido, confira-se o seguinte precedente:
+CRIMINAL. HC. QUADRILHA. FURTO QUALIFICADO. PRISÃO PREVENTIVA. FALTA DE FUNDAMENTAÇÃO. ATO DE DESEMBARGADOR. INDEFERIMENTO DE LIMINAR. SÚMULA N.º 691/STF. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. ORDEM NÃO CONHECIDA. 1- Não cabe habeas corpus contra indeferimento de liminar, exceto em casos de evidente e flagrante ilegalidade, sob pena de indevida supressão de instância, uma vez que o mérito da ordem originária ainda não foi apreciado no Tribunal a quo. 2- Súmula n.º 691 que teve sua validade reafirmada pelo Supremo Tribunal Federal, com a ressalva de que o enunciado não impede o conhecimento de habeas corpus, se evidenciado flagrante constrangimento ilegal. 3- Não sendo possível constatar qualquer ilegalidade na decisão recorrida, deve o paciente aguardar a apreciação do mérito da questão aduzida em 2º grau. 4- Ordem não conhecida (HC 82.163/SP, Rel. Min. JANE SILVA, Desembargadora Convocada do TJ/MG, DJe 1o/10/2007).
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos.
+Na espécie, não há ilegalidade flagrante, abuso de poder ou teratologia a autorizar a concessão da ordem de ofício.
+Com efeito, ressaltou o eminente Relator, verbis (e-STJ fls. 61/64):
+POSTO ISTO, considerando todos os fatos e argumentos narrados acima, bem como com o que reza a Doutrina e Jurisprudência atinente à espécie, REQUER a esta Colenda Câmara que se digne em conhecer e conceder da ordem impetrada, ou até mesmo conceder de ofício, em caso de não conhecimento do remédio constitucional, confirmando a liminar em caso de deferimento, no sentido determinar o afastamento da necessidade da realização do exame criminológico devendo o juízo de 1ª instância prosseguir com a análise do pedido de progressão anteriormente requestado, por ser de inteira justiça.
+(..)." (Páginas 1/27).
+A concessão de liminar em sede de Habeas Corpus ressente-se de previsão legal, cuidando-se de prestação jurisdicional excepcionalmente admitida pela doutrina e jurisprudência na hipótese de estarem robustamente demonstrados, no caso concreto, os pressupostos cumulativos das medidas cautelares, quais sejam, o fumus boni iuris e o periculum in mora.
+O Periculum in Mora é a possibilidade de que o tempo normal de trâmite da ação acarrete dano grave ou de difícil reparação ao bem jurídico que se busca garantir, frustrando ou tornando inócua a prestação jurisdicional pretendida.
+Traduzido literalmente como "fumaça do bom direito", está presente o Fumus Boni Iuris quando, no caso concreto, observa-se de plano a alta probabilidade ou a intensa verossimilhança do direito que se alega possuir.
+Ademais, confundindo-se o mérito da ação habeas corpus com a fundamentação do pedido de concessão liminar da ordem, é de bom alvitre apreciá-lo com maior aprofundamento, no momento do julgamento definitivo.
+(..)
+Observa-se, na espécie, que o direito alegado pelo impetrante não se encontra de plano evidenciado, uma vez que a confecção de Exame Criminológico, Parecer Psicológico e Relatório Social é medida que se coaduna com a prudência, servindo à orientação do magistrado na decisão sobre a progressão de regime.
+Isto posto, indefiro a liminar requerida.
+Oficie-se ao Juízo apontado como coator para que preste as informações de estilo no prazo de dez dias.
+É certo, de todo modo, que as questões suscitadas pela defesa serão tratadas oportunamente pela instância de origem, por ocasião do julgamento de mérito do mandamus, sem o qual esta Corte fica impedida de apreciar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+Em resumo, entendo não configurada hipótese excepcional de flagrante ilegalidade que justifique a superação da Súmula n. 691 do Supremo Tribunal Federal, resultando incabível a presente impetração.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente a petição inicial do presente habeas corpus.
+Publique-se. Intimem-se.
+Sem recurso, arquivem-se os autos.
