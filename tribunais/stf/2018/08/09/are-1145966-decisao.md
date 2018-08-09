@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Superior do Trabalho, assim ementado:
+    “AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. RECURSO ANTES DA ÉGIDE DA LEI 13015/2014. DISPENSA OBSTATIVA – STOCK OPTIONS. VIOLAÇÃO AOS ARTS. 122 E 129 DO CCB. PROVIMENTO. Ante a razoabilidade da tese de violação aos arts. 122 e 129 do CCB, impõe-se o processamento do recurso de revista, para exame da matéria veiculada em suas razões. Agravo de Instrumento conhecido e provido.
+    RECURSO DE REVISTA. RECURSO ANTES DA ÉGIDE DA LEI 13015/2014. DISPENSA OBSTATIVA – STOCK OPTIONS. VIOLAÇÃO AOS ARTS. 122 E 129 DO CCB. O plano de compra de ações estabelecido pela empregadora, ao prever que o desligamento do autor, mesmo sem justa causa, implica em automática extinção do direito de opção da compra de ações, deixa ao arbítrio da empresa a possibilidade de permitir ao empregado o exercício do direito, ou seja, pode uma das partes a seu critério impedir que uma das condições do Plano se concretize, o que a configura como condição defesa, a teor do art. 122 do CCB. Por consequência, há que se considerar efetivada a carência, quando do desligamento do autor, nos termos do citado art. 129 do CCB, garantindo-se ao empregado o direito à indenização postulada. Recurso de Revista conhecido e provido.
+    […].”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 1º, IV; 5º, XXXVI; 114; e 170; todos da CF. Requer a reforma do acórdão recorrido, de modo a “afastar a condenação ao pagamento da indenização postulada no item ‘b’ da petição inicial”.
+    O recurso extraordinário é inadmissível. Os arts. 5º, XXXVI, e 114 da Constituição tidos por violados não foram objetos de análise pelo Tribunal de origem. Tampouco foram suscitados nos embargos de declaração para suprir eventual omissão, de modo que o recurso, quanto aos referidos preceitos, carece de prequestionamento (Súmulas 282 e 356/STF).
+    Ademais, a solução da controvérsia pressupõe, necessariamente, a análise da legislação infraconstitucional aplicada, bem como o reexame dos fatos e do material probatório contantes dos autos (Súmula 279/STF) e a interpretação de cláusulas contratuais (Súmula 454/STF), o que torna inviável o processamento do recurso extraordinário.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve fixação de honorários advocatícios.
+    Publique-se.
+          Brasília, 09 de agosto de 2018.
+Ministro Luís Roberto Barroso
+Relator
