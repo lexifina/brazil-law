@@ -1,0 +1,20 @@
+EMENTA
+RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OCORRÊNCIA. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por UNIÃO, com fundamento na alínea a do permissivo constitucional, contra acórdão do Tribunal Regional da 4ª Região, assim ementado:
+AÇÃO DE EXECUÇÃO. ENTREGA DE COISA. JUSTIÇA ESTADUAL. INTERESSE DA UNIÃO. REMESSA DIRETA DOS AUTOS À JUSTIÇA FEDERAL. ANULAÇÃO DECISÃO PROFERIDA NO ÂMBITO ESTADUAL. NECESSIDADE. QUESTÃO DE ORDEM.
+Em que pese haja interesse da União na lide, a execução está sendo processada perante a Justiça Estadual, tendo o Tribunal de Justiça do Estado do Rio Grande do Sul remetido o feito diretamente a esta Corte para a apreciação do agravo de instrumento.
+Não cabe a esta Corte (federal) examinar recurso interposto contra decisão proferida por juiz estadual no exercício de competência própria. Impõe-se o retorno dos autos ao Tribunal de Justiça do Estado do Rio Grande do Sul, para que, reconhecida a competência federal, manifeste-se sobre a validade da decisão recorrida e, se assim entender, encaminhe o feito a uma das Varas Federais da Seção Judiciária do Estado do Rio Grande do Sul.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 636-646).
+Alega a recorrente, no recurso especial, ofensa aos arts. 64, § 4º, 489, § 1º, IV, e 1.022, II, do Código de Processo Civil de 2015; 113, § 2º, do Código de Processo Civil de 1973.
+Sustenta, em síntese, que o acórdão recorrido foi omisso no que tange aos arts. 64, § 4º, do CPC de 2015 e 113, § 2º, do CPC/1973. Alega que, em se tratando de competência absoluta, a declaração de incompetência do TJRS e a assunção da competência pelo TRF4 devolvem a este total jurisdição para decidir sobre os atos praticados no processo de execução, inclusive quanto à validade da sentença recorrida.
+Após serem apresentadas as contrarrazões (e-STJ, fls. 688-691), o Tribunal de origem admitiu o processamento do apelo nobre (e-STJ, fls. 695-696).
+Brevemente relatado, decido.
+No que concerne ao pedido de anulação da decisão do Juízo estadual que reconheceu a preferência do exequente no recebimento do produto colhido por tratar-se de credor pignoratício, em prejuízo da União, faz-se necessário transcrever o que ficou consignado no acórdão do Tribunal estadual sobre o tema (e-STJ, fls. 585-586):
+Todavia, não cabe a esta Corte (federal) examinar recurso interposto contra decisão proferida por juiz estadual no exercício de competência própria.
+À vista de tais considerações, impõe-se o retorno dos autos ao Tribunal de Justiça do Estado do Rio Grande do Sul, para que, reconhecida a competência federal, manifeste-se sobre a validade da decisão recorrida e, se assim entender, encaminhe o feito a uma das Varas Federais da Seção Judiciária do Estado do Rio Grande do Sul.
+Saliente-se, por fim, que a ação de execução foi redistribuída ao Juízo Federal da 1ª Vara Federal de Porto Alegre, por decisão proferida pelo Juízo Estadual em sede de embargos de declaração que reconheceu a conexão do feito com o de nº 5001705- 98.2012.7106, em trâmite naquela Vara. O magistrado singular, em atenção à decisão proferida pelo Tribunal de Justiça nos autos do presente agravo de instrumento, remeteu os autos a esta Corte, cujo expediente foi distribuído perante este Juízo sob o número 5055632-89.2015.4.04.7100/RS.
+Contudo, não consta dos autos manifestação do Tribunal de origem sobre os arts. 64, § 4º, do CPC de 2015 e 113, § 2º, do CPC/1973, que, segundo alega a recorrente, certificaria a competência da Justiça Federal para decidir sobre a validade da decisão da Justiça Comum que reconheceu a preferência do exequente no recebimento do produto colhido, em prejuízo da União .
+Assim, revela-se caracterizada a violação do art. 1.022 do CPC/2015, impondo-se a reforma ou complementação do acórdão recorrido.
+Diante do exposto, dou parcial provimento ao recurso especial a fim de, reconhecendo a violação do art. 1.022 do CPC/2015, determinar o retorno dos autos ao Tribunal Regional da 4ª Região, para que julgue as questões suscitadas nos aclaratórios como entender de direito.
+Publique-se.
