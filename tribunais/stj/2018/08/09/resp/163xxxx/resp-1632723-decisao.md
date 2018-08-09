@@ -1,0 +1,39 @@
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE DEBÊNTURES. 1. OMISSÃO NO ACÓRDÃO RECORRIDO. INEXISTÊNCIA. 2. INCIDÊNCIA DO PRAZO PRESCRICIONAL DA LEI DAS SOCIEDADES ANÔNIMAS. AUTOR QUE É ACIONISTA DA EMPRESA RÉ. APLICAÇÃO DO ART. 287 DA LEI N. 6.404/1976. 3. REDUÇÃO DO PERCENTUAL DE HONORÁRIOS ADVOCATÍCIOS. FALTA DE PREQUESTIONAMENTO. INDEVIDA INOVAÇÃO RECURSAL. 4. RECURSO CONHECIDO, EM PARTE, E, NESSA EXTENSÃO, DESPROVIDO.
+DECISÃO
+Na origem, o Banco do Nordeste do Brasil S/A ajuizou ação de cobrança contra Ilha Agropecuária S/A, buscando receber o pagamento no valor de R$ 639.259,32 (seiscentos e trinta e nove mil, duzentos e cinquenta e nove reais e trinta e dois centavos), alegando ser credor desse valor em razão de debêntures emitidas pela empresa em favor do Fundo de investimento do Nordeste - FINOR, repassados pela Superintendência de Desenvolvimento do Nordeste - SUDENE.
+O Juízo de primeiro grau extinguiu o feito, com resolução de mérito, em decorrência do reconhecimento da prescrição.
+Em apelação do autor, o Tribunal de Justiça do Maranhão deu parcial provimento ao recurso, cujo acórdão ficou assim ementado:
+PROCESSO CIVIL. AÇÃO DE COBRANÇA DE DEBÊNTURES. OCORRÊNCIA DE CONVERSÃO PARA AÇÕES SOCIETÁRIAS. CARACTERIZAÇÃO DE INGRESSO COMO SÓCIO DA EMPRESA EMITENTE. PRESCRIÇÃO DA PRETENSÃO EM 03 (TRÊS) ANOS. ART. 287, DA LEI 6.404/76. RECURSO CONHECIDO E PARCIALMENTE PROVIDO PARA EXCLUIR A APLICAÇÃO DA MULTA POR EMBARGOS PRETENSAMENTE PROTELATÓRIOS.
+I - Conforme as normas contidas nas escrituras das debêntures emitidas, assim como nas leis reguladoras, as mesmas podem ser convertidas em ações das empresas emitentes, de modo a viabilizar sua negociação como tal, nos termos do art. 50, I, da Medida Provisória 2.199/2001, o que torna a instituição financeira conversora integrante do corpo societário da companhia que obteve o empréstimo.
+II - Desse modo, embora a referida instituição financeira não tivesse inicialmente optado por esta sistemática, consta às fls. 163, 173, 174, 179/181, que resolveu realizar este ato, tornando-se, por conseguinte, aplicável também a Lei das Sociedades Anônimas, no 6.404/76, para o caso concreto.
+III - Nesse diapasão, consta no art. 287, do mencionado diploma, que prescreve em 3 (três) anos a ação movida pelo acionista contra a companhia, qualquer que seja o seu fundamento, assim percebendo que a presente ação somente fora ajuizada depois de transcorrido o prazo prescricional, a ação deve ser extinta com julgamento de mérito.
+IV - Todavia, não entendo como protelatórios os embargos de declaração que deu causa à aplicação da multa processual, por entender ser direito do litigante ajuizamento de recurso que vise corrigir decisão que a seu ver encontra-se omissa, devendo assim a multa de 1% (um por cento) ser excluída.
+V - Recurso conhecido e parcialmente provido.
+Daí o presente recurso especial, em que o Banco do Nordeste do Brasil S/A afirma que o acórdão recorrido violou o art. 535, II, do Código de Processo Civil de 1973, pois o Tribunal de origem não analisou a questão referente à aplicação do prazo prescricional de 5 (cinco) anos.
+Quanto à questão de fundo, aponta que houve negativa de vigência ao art. 206, § 5º, I, do Código Civil, porquanto "o argumento lançado pelo acórdão recorrido no sentido que o prazo deve ser o estabelecido pelo art. 287 da Lei n. 6.404/76, em razão que as debêntures "podem ser convertidas em ações das empresas emitentes" não prospera, haja vista que isso não afasta a natureza de título de crédito das debêntures. Repise-se que o que está sendo cobrado são debêntures e não direitos dos acionistas em relação a companhia" (e-STJ, fl. 754).
+Aduz, por fim, violação do art. 20, §§ 3º e 4º, do CPC/1973, tendo em vista que, "nas sentenças que não possuem natureza condenatória, os honorários advocatícios têm que ser arbitrados com base na equidade, nos termos do art. 20, 4º, do CPC, e não sobre o valor da causa, adotando-se, para tanto, o art. 20, § 3º do CPC, conforme feito equivocadamente na respeitável decisão ora embargada" (e-STJ, fl. 757).
+Brevemente relatado, decido.
+1. Da alegação de violação do art. 535 do CPC/1973
+Da leitura do acórdão recorrido, verifica-se que o Tribunal de origem expressamente se manifestou acerca da incidência da norma contida no art. 287 da Lei n. 6.404/1976, que estabelece o prazo prescricional de 3 (três) anos, afastando, com isso, o prazo do art. 206, § 5º, I, do Código Civil, de 5 (cinco) anos.
+Logo, não há qualquer omissão no decisum, não havendo que se falar, portanto, em violação ao respectivo dispositivo legal.
+2. Da alegação de violação do art. 206, § 5º, I, do Código Civil
+Alega o recorrente que "o que está sendo cobrado são debêntures, que tiveram como vencimento final a data de 24/05/2002, que o rito utilizado foi a ação ordinária e a ação foi ajuizada em 23/11/2005" (e-STJ, fl. 753), logo, o prazo prescricional a ser observado é de 5 (cinco) anos, a teor do que dispõe o art. 206, § 5º, I, do Código Civil.
+Reforça que "o argumento lançado pelo acórdão recorrido no sentido de que o prazo deve ser o estabelecido pelo art. 287 da Lei n. 6.404/1976, em razão que as debêntures "podem ser convertidas em ações das empresas emitentes" não prospera, haja vista que isso não afasta natureza de título de crédito das debêntures. Repise-se que o que está sendo cobrado são debêntures e não direitos dos acionistas em relação a companhia" (e-STJ, fl. 754).
+Não obstante os referidos argumentos, o recurso especial não merece prosperar nesse ponto.
+Confira-se, a propósito, trecho do acórdão recorrido na parte que interessa:
+(..), conforme as normas contidas na escritura emitida, as mesmas podem ser convertidas em ações das empresas emitentes, de modo a viabilizar sua negociação como tal, nos termos do art. 50, I, da Medida Provisória 2.199/2001, o que a meu ver torna a conversora integrante do corpo societário da companhia que obteve o empréstimo.
+Desse modo, como bem salientado pela Apelada, embora a referida instituição financeira não tivesse inicialmente optado por esta sistemática, consta às fls. 163, 173, 174, 179/181, que resolveu realizar este ato, tornando-se, por conseguinte, vigente também a Lei das Sociedades Anônimas, no 6.404/76, para o caso concreto.
+Nesse diapasão, consta no art. 287, do mencionado diploma, o seguinte dispositivo:
+Art. 287. Prescreve:
+II - em 3 (três) anos:
+g) a ação movida pelo acionista contra a companhia, qualquer que seja o seu fundamento.
+Ora, uma vez reconhecido que o BNB, representante do FINOR, figura como sócio cotista da Empresa Ilha Agropecuária S/A. ele deveria aguardar no máximo os referidos 03 (três) anos para pleitear o recebimento das quantias consignadas nos títulos.
+Nesse sentido, percebendo que a presente ação somente fora ajuizada depois de transcorrido o prazo prescricional, a ação deve ser extinta com julgamento de mérito.
+Como visto, conforme bem consignado pelo Tribunal de origem, o Banco do Nordeste tornou-se acionista da sociedade Ilha Agropecuária S/A, o que faz incidir a Lei das Sociedades Anônimas no tocante ao prazo prescricional, e não o Código Civil, tendo em vista o princípio da especialidade.
+Por essa razão, revela-se correta a adoção do prazo prescricional de 3 (três) anos, previsto no art. 287, II, g, da Lei n. 6.404/1976.
+3. Da alegação de violação do art. 20, §§ 3º e 4º, do CPC/1973
+Quanto ao referido dispositivo legal, constata-se que o Tribunal de origem não teceu qualquer consideração acerca do percentual fixado para os honorários advocatícios, tampouco houve pedido nas razões de apelação nesse sentido.
+Logo, não há como conhecer do recurso especial nesse ponto, em razão da falta de prequestionamento, bem como por se tratar de indevida inovação recursal.
+Ante o exposto, conheço, em parte, do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se.
