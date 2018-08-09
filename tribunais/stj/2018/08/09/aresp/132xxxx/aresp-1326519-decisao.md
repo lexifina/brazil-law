@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de Agravo, interposto por FARMISA FAZENDAS REUNIDAS MIRANDA S/A, em 12/07/2017, contra decisão do Tribunal Regional Federal da 2ª Região, que inadmitiu o Recurso Especial interposto contra acórdão assim ementado:
+"TRIBUTÁRIO. PROCESSUAL CIVIL. APELAÇÃO. HONORÁRIOS ADVOCATÍCIOS. REDUÇÃO. IMPOSSIBILIDADE. SENTENÇA MANTIDA. PERDA DE OBJETO. PRINCÍPIO DA CAUSALIDADE.
+1. Sentença, que extinguiu o processo, nos termos do artigo 267, VI, do antigo CPC.
+2. A Embargante requereu a desistência dos embargos em razão de parcelamento. Contudo, o Juízo a quo decidiu que o feito não comportava a extinção fulcrada na manifestação de desistência, ante a ausência de anuência da parte adversa, e no mérito verificou que não havia mais motivos para o prosseguimento dos embargos, haja a vista a perda superveniente de objeto, configurando a falta de interesse processual.
+3. A Embargante foi condenada em honorários fixados em 10% (dez por cento), em razão do Princípio da Causalidade.
+4. A Recorrente requer a redução dos honorários para R$ 2.000,00 (dois mil reais).
+5. Valor da causa: R$ 92.301.09 (noventa e dois mil, trezentos e um reais e nove how centavos). Honorários fixados: 10% (dez por cento) sobre o valor da causa.
+6. O valor arbitrado em honorários deve imperar, pois não onera demasiadamente o vencido e remunera merecidamente o patrono do vencedor na demanda. Tendo em vista, que no caso dos autos, por tratar-se de matéria de média complexidade, a verba honorária foi arbitrada corretamente.
+7. Os honorários devem refletir a importância da causa, recompensando não apenas o trabalho efetivamente realizado, mas também a responsabilidade assumida pelo advogado ao defender a causa.
+8. O STJ consolidou o entendimento segundo o qual a verba honorária poderá ser excepcionalmente revista, quando for fixada em patamar exagerado ou irrisório.
+9. A jurisprudência do STJ firmou-se no sentido de que os honorários advocatícios fixados à luz do art. 20 do CPC/73 são passíveis de modificação na instância especial quando se mostrarem irrisórios ou exorbitantes, o que não ocorreu, in casu" (fl. 514e).
+Nas razões do Recurso Especial, aduz a parte recorrente violação ao art. 20, parágrafos 3º e 4º, do CPC/73, argumentando que "os honorários de sucumbência montam, em valores atuais, em muito mais e R$ 10.000,00, para remunerar urna impugnação à embargos à execução e uma contrarrazão de agravo", e que "é irrelevante se demorou três anos entre a distribuição dos embargos e o proferimento da sentença de extinção do processo, pois nesse meio tempo só houve duas petições da Recorrida, que, segundo tal arbitramento de honorários, seria de de R$ 5.000,00, por petição" (fl. 524e).
+Requer, ao final, o provimento do recurso.
+Apresentadas as contrarrazões (fls. 532/539e), negado seguimento ao Recurso Especial (fls. 545/548e), foi interposto o presente Agravo (fls. 550/560e).
+Apresentada a contraminuta a fls. 562/525e.
+A irresignação não merece acolhimento.
+Com efeito, consabido é que, em princípio, descabe ao Superior Tribunal de Justiça revisar valores de sucumbência, fixados nas instâncias ordinárias, tendo em conta que eles são arbitrados em consideração àquilo que se desenvolveu no processo e mediante juízo de equidade, circunstâncias que não podem ser reavaliadas nesta Corte, nos termos da Súmula 7/STJ. Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SISTEMA ÚNICO DE SAÚDE. DEFENSORIA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO DO QUANTUM FIXADO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. É firme a jurisprudência do STJ no sentido de não ser possível, por meio de recurso especial, a revisão do critério de justiça e equidade utilizado pelas instâncias ordinárias para fixação da verba advocatícia, por depender tal providência da reapreciação dos elementos fático-probatórios do caso concreto.
+2. Excetuadas as hipóteses em que o valor afigura-se manifestamente ínfimo ou exorbitante, o que não se verifica na espécie, eis que os honorários foram fixados no valor de R$250,00 (duzentos e cinquenta reais), em razão baixa complexidade e repetitividade da causa, sua majoração ou redução atrai a incidência da Súmula 7/STJ.
+3. Agravo regimental não provido" (STJ, AgRg no AREsp 472.319/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 02/05/2014).
+Na espécie, os honorários de advogado foram fixados pelas instâncias ordinárias em 10% (dez por cento) sobre o valor da causa (R$ 92.301,09), com base nos princípios da equidade e da razoabilidade.
+Nesse contexto, a análise quanto ao acerto de sua fundamentação demandaria o reexame do conteúdo fático-probatório dos autos, o que encontra óbice no enunciado da Súmula 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial").
+Consoante a jurisprudência, "ressalvadas as hipóteses de imposição de honorários em patamar exorbitante ou irrisório em relação à complexidade ou valor da demanda, o Superior Tribunal de Justiça firmou entendimento de não ser cabível, em sede de recurso especial, rever o montante arbitrado à luz dos critérios de equidade previstos no § 3º do art. 20 do CPC, sob pena de incidência no óbice da Súmula 7/STJ" (STJ, AgRg no REsp 926.527/GO, Rel. Ministro OG FERNANDES, SEXTA TURMA, DJe de 18/06/2012).
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+I.
