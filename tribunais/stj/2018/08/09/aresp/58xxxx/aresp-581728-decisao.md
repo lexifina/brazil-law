@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento ao recurso especial interposto em face de acórdão assim ementado:
+SFH. TR. PES. SALDO DEVEDOR. AMORTIZAÇÃO. CAPITALIZAÇÃO. JUROS. CES. DECRETO-LEI Nº 70/66.
+1. Não há qualquer ilegitimidade na aplicação da TR, tendo em vista que o contrato explicitamente elegeu o índice da caderneta de poupança para a correção do saldo devedor.
+2. Para os contratos posteriores à L. 8.692/1993 o limite para a taxa efetiva de juros é de 12% ao ano, conforme o disposto no art. 25 do diploma legal.
+3. A chamada amortização negativa, ocorrência comum no SFH, no caso, não se verifica, porque as prestações mensais contemplam pagamento dos juros e amortização, não sendo incorporado ao saldo devedor nenhuma parcela de juros.
+4. Quanto à sistemática de amortização do saldo devedor, as parcelas de amortização não devem ser deduzidas antes da atualização do saldo de devedor, tendo em vista que o art. 6º, "c", da Lei 4.380/64.
+5. É legal a cobrança do Coeficiente de Equiparação Salarial - CES no cálculo da integralidade do encargo mensal, mesmo antes do advento da Lei n. 8.692/93.
+6. A execução extrajudicial do Decreto-lei 70/66 é compatível com a atual Constituição.
+Verifico que se discute, no presente recurso, a "existência de capitalização de juros vedada pelo Decreto 22.626/33 na própria fórmula matemática da Tabela Price, o que implicaria, inevitavelmente, e, em abstrato, a ilegalidade de seu emprego como forma de amortização de financiamentos no sistema jurídico brasileiro em contratos bancários diversos anteriores à edição da MP 1.963-17/00 e em financiamentos habitacionais anteriores à Lei 11.977/2009", tema esse que foi afetado à Corte Especial, sob o rito dos repetitivos - artigo 543-C do Código de Processo Civil de 1973 -, nos autos do REsp 951.894/DF (DJe 26/10/2015), de minha relatoria, vinculado ao Tema 909. O novo Código de Processo Civil manteve a diretriz para o julgamento dos recursos repetitivos.
+Desse modo, caracterizada a identidade de questão de direito submetida à sistemática dos recursos repetitivos, devem ser devolvidos os autos ao Tribunal de origem, nos termos do artigo 256, L, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+Em face do exposto, nos termos do artigo 1.037, II, do Código de Processo Civil, determino a devolução destes autos ao Tribunal de origem, com a respectiva baixa, para nele permanecerem sobrestados até o julgamento do mérito do recurso recebido como representativo da controvérsia (Tema 909), e, após, que se proceda em conformidade com os comandos dos artigos 1.040 e 1.041 do Código de Processo Civil.
+Intimem-se.
