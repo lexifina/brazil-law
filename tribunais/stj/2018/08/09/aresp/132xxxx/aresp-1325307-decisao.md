@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Agravo, interposto pelo MUNICÍPIO DE CURITIBA, contra decisão do Tribunal de Justiça do Estado do Paraná, que inadmitiu o Recurso Especial manifestado contra acórdão, proferido na vigência do CPC/2015, assim ementado:
+"TRIBUTÁRIO. APELAÇÃO CÍVEL. IPTU. EXECUÇÃO FISCAL. EXERCÍCIO DE 1998. PRESCRIÇÃO CONFIGURADA. INTERRUPÇÃO DA PRESCRIÇÃO DO CRÉDITO TRIBUTÁRIO SOMENTE COM A CITAÇÃO DO DEVEDOR. EXECUÇÃO AJUIZADA ANTES DA LC 118/2005, QUE ALTEROU O ART. 174 DO CTN. TRANSCURSO DE MAIS DE 10 (DEZ) ANOS, SEM A OCORRÊNCIA DA CITAÇÃO DA PARTE. DESÍDIA QUE NÃO PODE SER IMPUTADA EXCLUSIVAMENTE AO PODER JUDICIÁRIO. INAPLICÁVEL A SÚMULA 106 DO STJ. CUSTAS PROCESSUAIS. PROCESSAMENTO E JULGAMENTO EM VARA ESTATIZADA QUE NÃO PRESSUPÕE IMPOSSIBILIDADE DE CONDENAÇÃO DA FAZENDA PÚBLICA AO PAGAMENTO DE CUSTAS PROCESSUAIS. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA N. 1.329.914-8/01. SENTENÇA QUE ACERTADAMENTE EXCLUIU A TAXA JUDICIÁRIA. PRECEDENTES DESSA CORTE QUANTO A ISENÇÃO DA MESMA. PEDIDO ALTERNATIVO DO MUNICÍPIO PARA CONDENAR AO PAGAMENTO DO FUNJUS E DO OFÍCIO DISTRIBUIDOR. REQUERIMENTO PREJUDICIAL À PRÓPRIA MUNICIPALIDADE E INCOMPATÍVEL COM O ENTENDIMENTO DESTA CÂMARA CÍVEL.
+Recurso não provido" (fls. 75/76e).
+Nas razões do Recurso Especial aponta a insurgente violação aos arts. 25 da Lei 6.830/80 e 174 do CTN, sustentando, em síntese, que o despacho que ordenou a citação interrompeu a prescrição e que a demora no processamento deve ser imputada ao Judiciário.
+Aduziu, ainda, que não se manifestou nos autos devido a ausência de intimação pessoal, nos termos do art. 25 da Lei 6.830/80.
+Transcorrido in albis o prazo para apresentação de contrarrazões, foi o Recurso Especial inadmitido na origem (fls. 111/113e), daí a interposição do presente Agravo (fls. 119/131e).
+Não houve contraminuta.
+A irresignação não merece acolhimento.
+O Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que, in verbis:
+"A questão a ser analisada diz respeito à ocorrência da prescrição da pretensão. Para a cobrança do crédito tributário, tem o fisco o prazo prescricional de cinco anos para o ajuizamento da ação, contados da data da sua constituição definitiva (CTN, art. 174) e não da sua inscrição em dívida ativa.
+Nestas condições, o IPTU sendo um tributo sujeito ao lançamento de ofício, o termo inicial para a contagem do prazo prescricional ocorre com a constituição definitiva do crédito tributário, quando nasce o direito de ação para o credor. No caso, conta-se o prazo prescricional a partir do dia seguinte ao vencimento da dívida, interrompendo-se com a citação pessoal do devedor, uma vez que a ação foi ajuizada antes da edição da LC 118/2005.
+Muito bem.
+A execução fiscal foi ajuizada em 23/06/1999 (fl. 03). Determinada a citação, no dia 28/05/2010 o Sr. Oficial de Justiça certificou ter deixado de citar o executado, bem como ter procedido o arresto do imóvel objeto da execução (fl. 08).
+Após permanecer mais de um ano com os autos em carga, em maio de 2016 o Município requereu a citação da parte, via AR (fl. 11).
+Conforme se pode constatar, a culpa pela demora de mais de 5 (cinco) anos do ajuizamento da ação para a citação da parte, que não ocorreu, não pode ser imputada exclusivamente ao Poder Judiciário, para justificar a aplicação da Súmula 106 do STJ.
+As determinações legais foram cumpridas pelo juízo de origem, não podendo responder sozinho pela demora no andamento do processo.
+(..)
+Cabe observar ainda, que apesar do exequente possuir algumas benesses, como por exemplo a intimação pessoal determinada pelo artigo 25 da LEF, isso não lhe retira o dever de promover as diligências necessárias para o andamento do processo, e isso independentemente de intimação, sobretudo em casos como o dos autos. O princípio do impulso oficial não é absoluto.
+(..)
+Inaplicável, portanto, a Súmula 106 do STJ.
+(..)
+Por fim, a culpa não podendo ser imputada somente aos mecanismos do Judiciário, inaplicável o artigo 219, § 1º do CPC, que como é sabido, se interpreta junto com o § 2º, ou seja, se por culpa do Fisco o executado não é citado no prazo de 10 (dez) dias, não pode ocorrer a retroação prevista no § 1º" (fl. 77/81e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Nesse sentido:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO. MORA DO JUDICIÁRIO. VERIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. 1. O Plenário do STJ decidiu que aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça  (Enunciado Administrativo n. 2).
+2. A verificação da responsabilidade pela demora para a realização da citação do devedor, para fins de aplicação ou de afastamento da Súmula 106 do STJ, por demandar reexame de matéria fático-probatória, esbarra no óbice da Súmula 7 do STJ. Precedentes.
+3. Agravo interno desprovido" (STJ, AgInt no AREsp 903.537/PE, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 15/12/2017).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL DE DÍVIDA ATIVA NÃO TRIBUTÁRIA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ACÓRDÃO DO TRIBUNAL DE ORIGEM QUE, DIANTE DO ACERVO PROBATÓRIO, AFASTOU A PRESCRIÇÃO QUINQUENAL, COM BASE NA PREMISSA FÁTICA DE QUE A DEMORA NA CITAÇÃO NÃO PODE SER IMPUTADA À PARTE EXEQUENTE. INCIDÊNCIA DAS SÚMULAS 7 E 106 DO STJ. AGRAVO INTERNO IMPROVIDO.
+(..)
+III. Diante das premissas fáticas constantes do acórdão recorrido - insindicáveis, em sede de Recurso Especial -, o Tribunal de origem, soberano no exame de matéria fática, concluiu que a demora na citação não pode ser imputada à parte exequente e que incide, na espécie, a Súmula 106/STJ. Nesse contexto, a verificação de responsabilidade pela demora na prática dos atos processuais implica indispensável reexame de matéria fático-probatória, o que é vedado a esta Corte, na estreita via do Recurso Especial, nos termos da Súmula 7/STJ, consoante assentado pela Primeira Seção do STJ, ao julgar, sob o rito do art. 543-C do CPC/1973, o REsp 1.102.431/RJ (Rel. Ministro LUIZ FUX, DJe de 01/02/2010).
+(..)
+V. Agravo interno improvido" (STJ, AgInt no AREsp 1.085.209/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 24/08/2017).
+Outrossim, o acórdão está em perfeita consonância com o entendimento desta Corte Superior, no sentido de que tendo a ação sido ajuizada antes da entrada em vigor da LC 118/2005, a prescrição somente se interrompe com a citação pessoal do devedor.
+Em face do exposto, com fundamento do art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, tendo em vista que, na origem, não houve prévia fixação de honorários sucumbenciais.
+I.
