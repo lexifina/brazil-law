@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 37, II e IX, da Constituição da República.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual a aferição da ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO EM 23.4.2016. CORREÇÃO DE ERRO MATERIAL NA DECISÃO AGRAVADA (CPC, ART. 494, I). SERVIDOR PÚBLICO CONTRATADO. RECOLHIMENTO DO FGTS. NATUREZA DO VÍNCULO COM A ADMINISTRAÇÃO. INCIDÊNCIA DAS SÚMULAS 279 E 280/STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ARTS. 1.021, §1º, CPC, E 317, § 1º, do RISTF. 1. É ônus do recorrente impugnar de modo específico todos os fundamentos da decisão agravada, nos termos do art. 1.021, § 1º, CPC. A parte agravante não impugnou o fundamento pertinente à Súmula 280. 2. Agravo regimental parcialmente provido, para corrigir inexatidão material.” (RE 951567 AgR, Relator(a): Min. EDSON FACHIN, Segunda Turma, julgado em 11/09/2017, PROCESSO ELETRÔNICO DJe-238 DIVULG 18-10-2017 PUBLIC 19-10-2017)
+    “DIREITO DO TRABALHO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONTRATO NULO. FGTS. PRECEDENTES. COMPETÊNCIA. ANÁLISE DO VÍNCULO. SÚMULA 279/STF. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de reconhecer ao trabalhador contratado pela Administração Pública, sem concurso público, o direito ao levantamento do depósito do Fundo de Garantia do Tempo de Serviço. Precedentes. 2. As discussões sobre a origem do vínculo entre as partes ultrapassam os limites cognitivos do STF. Incidência da Súmula 279/STF. 3. Agravo regimental a que se nega provimento.” (ARE 834965 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 26/04/2016, PROCESSO ELETRÔNICO DJe-098 DIVULG 13-05-2016 PUBLIC 16-05-2016)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 09 de agosto de 2018.
+Ministra Rosa Weber
+Relatora
