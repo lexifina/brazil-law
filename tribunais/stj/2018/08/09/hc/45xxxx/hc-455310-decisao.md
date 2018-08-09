@@ -1,0 +1,61 @@
+EMENTA
+DIREITO PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. REGIME INICIAL FECHADO. PENA IGUAL A 5 ANOS E 4 MESES DE RECLUSÃO. PRIMARIEDADE. CIRCUNSTÂNCIAS JUDICIAS FAVORÁVEIS. SÚMULAS 718 E 719 DO STF E SÚMULA Nº 440 DESTA CORTE. DIREITO AO REGIME INICIAL SEMIABERTO. ORDEM CONCEDIDA.
+1. Para exasperação do regime fixado em lei é necessária motivação idônea. Súmulas nº 718 e nº 719 do Supremo Tribunal Federal e Súmula nº 440 deste Superior Tribunal de Justiça. Na espécie, não há elementos concretos que justifiquem a aplicação do regime inicial fechado, razão pela qual se estabelece o regime mais brando, tendo em vista a primariedade do agente, o quantum de pena estipulado e ausência de circunstâncias judiciais desfavoráveis.
+2. Ordem concedida, para estabelecer o regime inicial semiaberto.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] RAY [NOME] DE [NOME], apontando-se como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 0087835-17.2016.8.26.0050).
+Consta dos autos que, por fatos datados de 27.7.2016, o paciente foi condenado, em 16.1.2017, à pena de 5 (cinco) anos e 4 (quatro) meses de reclusão, a ser cumprida no regime inicial fechado, por infração ao disposto no art. 157, § 2º, incisos I e II, do Código Penal - fls. 12/24 (Processo n.0087835-17.2016.8.26.0050, da 13ª Vara Criminal da Comarca de São Paulo/SP).
+Inconformada, a defesa interpôs recurso de apelação, tendo o Tribunal de origem negado provimento ao apelo em 15.3.2018. Eis os termos do acórdão (fls. 29/36):
+A acusação acolhida é a de que [NOME], previamente ajustado e com unidade de desígnios com outro indivíduo não identificado, mediante grave ameaça exercida com emprego de arma de fogo, subtraiu 1 (um) veículo Chevrolet/Onix, placa [PLACA], 1  um  instrumento musical  cavaquinho), 1 (um) aparelho celular Samsung/S3-Mini, 1 (um) aparelho celular Motorola/Moto-G, 1 (uma) mochila da marca Adidas, 1 (um) notebook Dell, 1 (um) óculos Ray-ban, 1 (um) tênis Olympicus, 1 (um) perfume [NOME], 1 (uma) mala de mão Nike, diversas roupas, além de carteira com documentos pessoais e cartões bancários, tudo pertencente à vítima [NOME].
+(..)
+Inalterada a reprimenda.
+A dosimetria foi assim estabelecida: a pena-base foi fixada no mínimo legal e majorada em 1/3, diante de duas causas de aumento (emprego de arma e concurso de agentes), tornando-se, assim, à míngua de causas modificadoras, definitiva em 5 anos e 4 meses de reclusão, mais o pagamento de 13 dias-multa, no piso.
+Reputam-se inafastáveis as circunstâncias previstas no artigo 157, § 2º, incisos I e II, do Código Penal. As palavras da vítima, suficientes para a incriminação do agente, pelo delito, tem valia e eficácia probatória também para esclarecimento dos pormenores complementares, mormente quanto ao uso de arma. Ressalte-se que o acréscimo de 3/8, pela presença duas causas de aumento (concurso de agentes e emprego de arma), é o que melhor atende ao critério da proporcionalidade na hipótese do roubo duplamente circunstanciado, entretanto, fica mantida a majoração de 1/3, diante da resignação ministerial.
+Não se vislumbrando erro técnico ou excessivo rigor, a punição fica mantida tal como monocraticamente estabelecida.
+O regime prisional é mesmo o inicialmente fechado, pois é o que mais se coaduna à espécie, na medida em que "tratando-se de crime de roubo qualificado, é correta a fixação do regime inicial fechado, mesmo se os réus forem primários e não houver prova da existência de maus antecedentes, pois devem-se levar em conta as circunstâncias do delito que, no caso, vem causando grande comoção social" (Júlio Fabbrini Mirabete, in "Execução Penal", Ed. Atlas, 11ª edição, 2008, pág. 326).
+Importante consignar, a propósito, que não há qualquer ilegalidade na fixação do regime inicial como fechado, e nem ofensa às Súmulas 718 e 719, do Excelso Supremo Tribunal Federal, pois os fatos concretos e as circunstâncias judiciais concretamente aferidas (dois agentes e emprego de arma de fogo), devidamente extraídos dos autos, demonstram não ser recomendável a adoção de regime prisional mais brando, sobretudo para não se provocar afrouxamento excessivo e intolerável estímulo ao criminoso, forjando, em seu espírito, a sensação de uma ilusória impunidade.
+Ante o exposto, NEGO PROVIMENTO ao apelo de [NOME], mantida, assim, a r. Sentença apelada, por seus próprios e jurídicos fundamentos. Nos termos do decidido recentemente pelo Augusto Plenário do Supremo Tribunal Federal, no julgamento do HC 126.292/SP, expeça-se ofício de recomendação.
+Daí o presente mandamus, no qual a impetrante alega a ocorrência de constrangimento ilegal decorrente da fixação, sem motivação idônea, do regime fechado para o início do cumprimento da pena do paciente.
+Assevera ser incabível a fixação do regime mais gravoso com base na gravidade abstrata do delito.
+Destaca que as circunstâncias judiciais são favoráveis, a pena-base foi fixada no mínimo legal e o paciente é primário.
+Invoca os enunciados sumulares n. 718 e n. 719 do Supremo Tribunal Federal e n. 440 desta Corte Superior.
+Requer, liminarmente e no mérito, a alteração do regime inicial de cumprimento da sanção para o semiaberto.
+Registre-se que estes autos foram a mim distribuídos por prevenção ao HC n. 412.189/SP, impetrado em prol do ora paciente, cuja ordem restou concedida, a fim de declarar a nulidade absoluta do acórdão proferido nos autos da apelação criminal para que o referido recurso fosse novamente julgado.
+O pedido liminar foi indeferido às fls. 41/43.
+O Ministério Público Federal apresentou parecer, fls. 77/83, opinando pelo não conhecimento da impetração.
+É o relatório.
+Decido.
+Busca-se com a presente impetração seja modificado o regime inicial para o semiaberto.
+Eis o édito condenatório no ponto pertinente (fls. 21/22):
+Na fase do artigo 59 do Código Penal, não vislumbro motivo a justificar a majoração da pena-base, fixada em quatro anos de reclusão e dez dias-multa. Comprovadas as duas causas de aumento descritas na denúncia, exaspero a pena para cinco anos e quatro meses de reclusão e treze dias-multa. Não havendo outras circunstâncias a apreciar, tomo definitiva a pena acima. Dada a natureza do delito, cometido mediante grave ameaça com emprego de arma de fogo e em concurso de agentes, do tipo que abala severamente a ordem pública desta Comarca, causando verdadeiro pânico social, entendo que o único regime adequado ao início do cumprimento da pena é o fechado, porque se mostra suficiente diante das peculiaridades do caso, guardada a devida proporção com a gravidade do fato e, ademais, somada a culpabilidade demonstrada.
+
+Colhe-se do aresto impugnado (fls. 34/35):
+A dosimetria foi assim estabelecida: a pena-base foi fixada no mínimo legal e majorada em 1/3, diante de duas causas de aumento (emprego de arma e concurso de agentes), tornando-se, assim, à míngua de causas modificadoras, definitiva em 5 anos e 4 meses de reclusão, mais o pagamento de 13 dias-multa, no piso.
+Reputam-se inafastáveis as circunstâncias previstas no artigo 157, § 2º, incisos I e II, do Código Penal.
+As palavras da vítima, suficientes para a incriminação do agente, pelo delito, tem valia e eficácia probatória também para esclarecimento dos pormenores complementares, mormente quanto ao uso de arma.
+Ressalte-se que o acréscimo de 3/8, pela presença duas causas de aumento (concurso de agentes e emprego de arma), é o que melhor atende ao critério da proporcionalidade na hipótese do roubo duplamente circunstanciado, entretanto, fica mantida a majoração de 1/3, diante da resignação ministerial.
+Não se vislumbrando erro técnico ou excessivo rigor, a punição fica mantida tal como monocraticamente estabelecida.
+O regime prisional é mesmo o inicialmente fechado, pois é o que mais se coaduna à espécie, na medida em que "tratando-se de crime de roubo qualificado, é correta a fixação do regime inicial fechado, mesmo se os réus forem primários e não houver prova da existência de maus antecedentes, pois devem-se levar em conta as circunstâncias do delito que, no caso, vem causando grande comoção social" (Julio Fabbrini Mirabete, in "Execução Penal", Ed. Atlas, 11ª edição, 2008, pág. 326).
+Importante consignar, a propósito, que não há qualquer ilegalidade na fixação do regime inicial como fechado, e nem ofensa às Súmulas 718 e 719, do Excelso Supremo Tribunal Federal, pois os fatos concretos e as circunstâncias judiciais concretamente aferidas (dois agentes e emprego de arma de fogo), devidamente extraídos dos autos, demonstram não ser recomendável a adoção de regime prisional mais brando, sobretudo para não se provocar afrouxamento excessivo e intolerável estímulo ao criminoso, forjando, em seu espírito, a sensação de uma ilusória impunidade."
+Com efeito, já foi decidido inúmeras vezes por este Sodalício que a gravidade abstrata do delito não é idônea a legitimar a fixação de regime prisional mais rigoroso do que o permitido por lei. Assim, causa espécie fixar-se a pena-base no mínimo legal e, posteriormente, deixar-se de estabelecer o regime inicial menos gravoso aplicável ao paciente, conforme o disposto no art. 33, §§ 2º e 3º, do Código Penal.
+Dessarte, tendo em vista o quantum definitivo de pena (inferior a 8 anos), a primariedade do paciente, a ausência de fundamentação idônea, bem como a consideração favorável das circunstâncias judiciais, de rigor o estabelecimento do regime inicial intermediário.
+Confiram-se, a propósito, alguns julgados sobre o tema:
+(..)
+3. É firme neste Tribunal a orientação de que é necessária a apresentação de motivação concreta para a fixação de regime mais gravoso, fundada nas circunstâncias judiciais do art. 59 do Código Penal - CP. Nesse sentido, foi elaborado o enunciado n. 440 da Súmula desta Corte, que prevê: fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+4. Reconhecidas as circunstâncias judiciais favoráveis e a primariedade do réu, a quem foi imposta reprimenda definitiva inferior a 8 anos de reclusão, cabível a imposição do regime semiaberto para iniciar o cumprimento da sanção corporal, à luz do art. 33, §§ 2º e 3º, do Código Penal.
+Habeas corpus não conhecido, mas concedida a ordem, de ofício, para reduzir, à fração de 1/3, o aumento da pena do paciente, decorrente das majorantes do art. 157, § 2º, I e II, do Código Penal, e fixar o regime inicial semiaberto para o seu cumprimento.
+(HC 368.450/RJ, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 10/11/2016, DJe 21/11/2016)
+(..)
+4. Não é possível a imposição de regime mais severo que o fixado em lei com base apenas na gravidade abstrata do delito. Para exasperação do regime fixado em lei é necessária motivação idônea. Súmulas n.º 718 e n.º 719 do Supremo Tribunal Federal e Súmula n.º 440 deste Superior Tribunal de Justiça.
+5. Habeas corpus não conhecido. Ordem concedida, de ofício, a fim de reduzir a pena do paciente para 6 (seis) anos, 2 (dois) meses e 20 (vinte) dias de reclusão, mais 15 (quinze) dias-multa, estabelecendo o regime inicial semiaberto, mantidos os demais termos da sentença e do acórdão.
+(HC 370.708/SP, de minha relatoria, SEXTA TURMA, julgado em 06/10/2016, DJe 21/10/2016)
+Outro não é o entendimento do Supremo Tribunal Federal, sumulado nos enunciados nº 718 e n.º 719:
+Enunciado nº 718: A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+Enunciado nº 719: A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Nesse mesmo sentido, confira-se o teor da Súmula nº 440 desta Corte:
+Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, concedo a ordem para estabelecer o regime inicial semiaberto.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intime-se.
+Sem recurso, arquivem-se os autos.
