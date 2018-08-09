@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto de acórdão que recebeu a seguinte ementa (e-STJ fl. 223/224):
+APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. NEGÓCIOS JURÍDICOS BANCÁRIOS. CUMULAÇÃO DE COMISSÃO DE PERMANÊNCIA COM JUROS MORATÓRIOS E MULTA, ABUSIVIDADE. DO AGRAVO RETIDO. PROVA DOCUMENTAL. EXTRATOS BANCÁRIOS DE CLIENTES. PRESCINDIBILIDADE.
+AUSÊNCIA DE INTERESSE PROCESSUAL. Não há falar em ausência de interesse processual quando necessário e útil o ajuizamento da demanda. Ainda que alterada, pelo Banco, em 15/02/2012, a cláusula padrão que previa a cumulação da comissão de permanência com juros remuneratórios, moratórios e multa, remanesce o interesse em ver afastada eventual cobrança abusiva levada a efeito com base nas contratações anteriores a essa data, respeitada a prescrição quinquenal.
+LEGITIMIDADE PARA A PROPOSITURA DA AÇÃO CIVIL PÚBLICA. Legitimidade do IDCC para o ajuizamento da ação civil pública que decorre do disposto nos arts. art. 5º, V, "b" da Lei 7.347/85 e 82, IV do CDC, corroborada pelo interesse social do direito tutelado e pelo grande número de direitos lesados, como dá notícia a inicial desta demanda.
+IMPOSSIBILIDADE JURÍDICA DO PEDIDO.
+Inquestionável a viabilidade da revisão de contratos extintos pelo pagamento ou novados, como decorre da Súmula 286 do STJ, é de ser afastada a preliminar de impossibilidade jurídica do pedido.
+PREVISÃO DE COBRANÇA DE COMISSÃO DE PERMANÊNCIA CUMULADA COM JUROS REMUNERATÓRIOS, MORATÓRIOS E MULTA.
+ABUSIVIDADE. Válida a cláusula contratual que prevê a cobrança da comissão de permanência, calculada pela taxa média de mercado apurada pelo Banco Central do Brasil, de acordo com a espécie da operação, tendo como limite máximo o percentual contratado (Súmula nº 294/STJ).
+Referida cláusula é admitida apenas no período de inadimplência, desde que pactuada e não cumulada com os encargos da normalidade (juros remuneratórios e correção monetária) e/ou com os encargos moratórios (juros moratórios e multa contratual). Inteligência das Súmulas nº 30 e nº 296/STJ (AgRg no Agravo em Recurso Especial nº 332.456 - RS e Resp 1.058.114/RS).
+PUBLICAÇÃO DA SENTENÇA EM JORNAL DE CIRCULAÇÃO LOCAL. A determinação de publicação do dispositivo sentenciai em três jornais de circulação local encontra amparo nos arts. 84, § 5º e 94 do CDC. Ao dar ciência do decisum a todos os lesados, evita-se a proliferaçãO de demandas desnecessárias, o que, por certo, viria de encontro à máxima efetividade da prestação jurisdicional.
+VERBA HONORÁRIA. MAJORAÇÃO. Ausente decaimento recíproco entre as parte, não há falar em redistribuição da verba honorária, que vai majorada, contudo, por força do art. 85, §11, do NCPC.
+Apelo desprovido. Unânime.
+Dentre os temas invocados no recurso especial, encontra-se a necessidade de prova do erro no pagamento para que seja acolhido o pleito de repetição de indébito.
+A questão encontra-se afetada ao regime dos recursos repetitivos, sob rito do art. 1.036 e seguintes do Código de Processo Civil (Recursos Especiais nºs 1.644.767/RS e 1.663.971/SP.
+Em face do exposto, nos termos do art. 1.037, II, do Código de Processo Civil, determino a devolução destes autos ao Tribunal de origem, com a respectiva baixa, para nele permanecerem sobrestados até o julgamento do mérito do recurso recebido como representativo da controvérsia (Tema 935), e, após, que se proceda em conformidade com os comandos dos arts. 1.040 e 1.041 do Código de Processo Civil.
+Intimem-se.
