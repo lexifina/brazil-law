@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da ausência de omissão no aresto impugnado e da incidência da Súmula n. 7 do STJ.
+O acórdão recorrido está assim ementado (e-STJ fl. 141):
+AÇÃO DE COBRANÇA - SEGURO DE VIDA E ACIDENTES PESSOAIS. Pretensão do segurado ao recebimento de indenização pela morte da sua esposa, a qual figura na apólice na condição de beneficiária impossibilidade - ausência de interesse de agir - a indenização por morte somente seria devida na hipótese de morte do Autor, segurado, e não de sua esposa - r. sentença reformada de ofício - extinção da ação , sem resolução do mérito, com fulcro no art. 267, VI, do CPC. RECURSO DO AUTOR NÃO PROVIDO; SENTENÇA REFORMADA DE OFÍCIO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 154/159).
+Nas razões do recurso especial (e-STJ fls. 162/181), interposto com fundamento no art. 105, III, "a", da CF, o recorrente alegou ofensa ao art. 535 do CPC/1973, argumentando que o acórdão impugnado teria sido omisso ao apenas ratificar a sentença e não se pronunciar sobre a alegação de erro in judicando, referente ao exame de apólice que não teria sido contratada pelo recorrente, ao invés de julgar a demanda tendo por base a proposta efetivamente pactuada com a seguradora (proposta n. 041.365.690).
+Alegou ainda afronta aos arts. 267, IV, do CPC/1973, e 758, 759, 760, 789 e 790 do CC/2002, sob argumento de que teria interesse para pleitear a indenização securitária decorrente da morte de sua esposa, nos termos da apólice efetivamente contratada (proposta 041.365.690 e apólice n. 093.00.13018), a qual não se confunde com versão examinada pelas instâncias de origem (proposta n. 041.139.936).
+No agravo (e-STJ fls. 197/213), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+O recurso foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 2/STJ).
+Da análise dos autos, verifica-se que, de fato, ocorreu afronta ao art. 535 do CPC/1973.
+O Tribunal de origem manteve a sentença apelada afirmando que não teria o autor interesse de agir em cobrar a indenização securitária, pois sua esposa, falecida, não era segurada e sim apenas beneficiária da apólice no caso de óbito do recorrente (e-STJ fls. 144/146).
+Ocorre que, em seu recurso, a parte autora, ora recorrente, expressamente alegou que o magistrado sentenciante teria firmado seu convencimento com base em apólice não contratada, sendo "manifesto o error in judicando realizado pelo magistrado a quo, uma vez que utiliza como fundamento, para julgar improcedente a ação, a proposta n. 041.139.936, sendo que o apelante sustenta sua causa de pedir remota na proposta n. 041.365.690" (e-STJ fl. 112).
+Esse argumento foi reiterado nos embargos de declaração opostos ao acórdão recorrido (e-STJ fl. 149).
+No entanto, o Tribunal de origem não examinou o referido tema, mesmo diante da oposição dos aclaratórios, os quais foram rejeitados, sob alegação de ausência dos vícios previstos no art. 535 do CPC/1973 (e-STJ fls. 300/307).
+Com efeito, ao julgar a apelação do recorrente, a Corte de origem apenas manteve o reconhecimento de carência da ação indenizatória, sem analisar a possibilidade de ter havido erro in judicando do juiz sentenciante quanto à apólice efetivamente contratada perante a seguradora.
+Assim, o acórdão recorrido apresenta omissão, na medida em que o exame da apólice alegadamente contratada poderia, em tese, justificar o interesse de agir do recorrente.
+Ante o vício da decisão recorrida, impõe-se o conhecimento do agravo nos próprios autos e o provimento do recurso especial para que o Tribunal a quo se pronuncie sobre a questão, sanando, assim, o vício apontado.
+A propósito:
+PROCESSO CIVIL. DIREITO DAS OBRIGAÇÕES. NOVAÇÃO. POSSIBILIDADE DE ANÁLISE DO NEGÓCIO JURÍDICO ANTECEDENTE. MITIGAÇÃO DO PRINCÍPIO PACTA SUNT SERVANDA. SÚMULA 286 DO STJ. VIOLAÇÃO DO ART. 535 DO CPC CONFIGURADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. A violação do art. 535 do CPC configurou-se, no caso dos autos, uma vez que, a despeito da oposição de embargos de declaração, nos quais os recorrentes apontam a existência de omissões, mormente no tocante à possibilidade de exame judicial de supostas ilegalidades substanciais nos contratos celebrados anteriormente à alegada
+novação com a instituição financeira (fls. 1.052-1.053), o Tribunal não se manifestou de forma satisfatória sobre o apontado vício, consoante se infere do voto condutor às fls. 1.061-1.066.
+2. A novação, conquanto modalidade de extinção de obrigação em virtude da constituição de nova obrigação substitutiva da originária, não tem o condão de impedir a revisão dos negócios jurídicos antecedentes, máxime diante da relativização do princípio do pacta sunt servanda, engendrada pela nova concepção do Direito Civil, que impõe o diálogo entre a autonomia privada, a boa-fé e a função social do contrato. Inteligência da Súmula 286 do STJ.
+3. Recurso especial provido para determinar o retorno dos autos ao Tribunal de origem.
+(REsp n. 866.343/MT, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 2/6/2011, DJe 14/6/2011.)
+Diante do exposto, CONHEÇO EM PARTE do agravo e DOU PROVIMENTO PARCIAL ao recurso, para anular o acórdão recorrido e determinar o retorno dos autos ao Tribunal de origem a fim de que seja analisada a questão omissa pelo acórdão recorrido. Prejudicadas as demais alegações recursais.
+Publique-se. Intimem-se.
