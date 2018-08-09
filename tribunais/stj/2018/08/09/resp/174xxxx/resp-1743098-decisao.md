@@ -1,0 +1,13 @@
+DECISÃO
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. REEXAME NECESSÁRIO. ENTENDIMENTO FIRMADO NO RESP. 1.101.727/PR, REPRESENTATIVO DA CONTROVÉRSIA. ART. 27 DO CPC. FAZENDA PÚBLICA GOZA DA PRERROGATIVA DE PAGAMENTO DAS DESPESAS PROCESSUAIS AO FINAL DO JULGAMENTO DA AÇÃO. RECURSO ESPECIAL DO INSS PROVIDO.
+1. Trata-se de Recurso Especial fundado na alínea a do art. 105, III da Constituição Federal, interposto em face de Acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO DA AUTARQUIA JULGADA DESERTA POR AUSÊNCIA DE RECOLHIMENTO DO PORTE DE REMESSA E RETORNO - OBRIGATORIEDADE POR IMPOSIÇÃO DA LEI ESTADUAL 11.608/03 - DESERÇÃO.
+"O não recolhimento do porte de remessa e retorno previsto pela Lei 11.608103 no ato da interposição da apelação obsta o seu processamento".
+Apelação da Autarquia julgada deserta e recurso adesivo prejudicado.
+2. Opostos Embargos de Declaração, foram eles rejeitados.
+3. Em seu apelo especial, sustenta o INSS violação dos arts. 27, 475, II e § 2o., 458, II e 535 do CPC, e 10 da Lei 9.469/1997, sob os seguintes fundamentos: (a) o acórdão permaneceu omisso a despeito da oposição de Embargos Declaratórios; (b) na hipótese de a condenação ou o direito controvertido não possuir valor certo, como no caso dos autos, não tem aplicação a citada exceção à obrigatoriedade de reexame necessário; e (c) nas ações judiciais envolvendo a Fazenda Pública o pagamento de qualquer despesa processual é postergado para o final do processo.
+4. É o relatório. Decido.
+5. O acórdão recorrido encontra-se em dissonância com o entendimento pacificado pela Corte Especial do STJ, no julgamento do REsp. 1.101.727/PR, representativo de controvérsia, de que, tratando-se de sentença ilíquida, como no caso, deverá ser ela submetida ao reexame necessário, uma vez que, por não ter valor certo, não se inclui na exceção prevista no art. 475, § 2o. do CPC.
+6. Em relação à violação do art. 27 do CPC, a irresignação também merece prosperar. No julgamento do citado REsp. 1.101.727/PR, representativo de controvérsia, firmou-se a orientação de que, embora não esteja a Autarquia Previdenciária isenta de custas na presente hipótese, é de se reconhecer que, a teor do art. 27 do CPC, a Fazenda Pública goza da prerrogativa de pagamento das despesas processuais ao final do julgamento da ação, caso seja vencida.
+7. Diante disso, dá-se provimento ao Recurso Especial do INSS, para anular o acórdão recorrido e determinar o retorno dos autos ao Tribunal de origem, a fim de que submeta a sentença ao reexame necessário e que julgue o recurso voluntário como entender de direito, garantindo ao recorrente o pagamento das despesas processuais ao final do processo, caso seja vencido.
+8. Publique-se. Intimações necessárias.
