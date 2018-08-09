@@ -1,0 +1,60 @@
+EMENTA
+PREVIDENCIÁRIO. RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. REVISÃO DE BENEFÍCIO. ART. 103 DA LEI N. 8.213/1991. DECADÊNCIA. NÃO OCORRÊNCIA. IRSM DE FEVEREIRO/94. TERMO INICIAL. DATA DA MEDIDA PROVISÓRIA 201/2004, CONVERTIDA NA LEI 10.999/2004. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 116, e-STJ):
+Revisional. Aposentadoria por invalidez precedida de auxílio-doença ininterrupto. Salário-de-benefício aferido quando do deferimento do primeiro benefício que merece manutenção. Incidência do art. 29, §5º da lei 8.231/91 prejudicada. Recálculo descabido. Recurso do obreiro improvido.
+Revisional. Alegada inobservância do IRSM de fevereiro de 1994 que supostamente implicou em reflexos deficitários no cálculo de RMI. Decadência. Reconhecimento. Benefício cuja revisão é perseguida deferido previamente à lei 9.528/97. Diploma legal cuja vigência serviu de termo inicial de contagem do prazo decadencial decenal de revisão. Decênio escoado. Decadência reconhecida. Reexame oficial acolhido.
+Sentença mantida. Recurso do obreiro improvido.
+Embargos de declaração rejeitados.
+O recorrente alega que o acórdão vergastado diverge da jurisprudência assente do STJ, bem como da de outros Tribunais, no que tange à subsunção dos art. 103 da Lei n. 8.213/1991 e 269, IV, do CPC/1973. Aduz (fl. 128, e-STJ):
+Ocorre que, a colenda Câmara, não se atentou, ao fato de que em relação aos pedidos revisionais da RMI, quando já determinada anteriormente a revisão administrativa do benefício previdenciário por expresso reconhecimento da ilegalidade da administração, o dever do INSS é de agir de ofício, independentemente do requerimento do segurado, já que se trata de ato vinculado à lei.
+Da mesma forma, não atentou à peculiaridade concernente ao caso em tela, haja vista que a referida revisão, passou a ser reconhecida por meio da MP 201 de 23/07/2004, convertida na Lei nº 10.999 em 15/12/2004.
+Sendo assim, no caso presente deve-se aplicar a exceção da regra de decadência, em virtude de ser reconhecida a ilegalidade pela própria administração na aplicação DO ÍNDICE IRSM DE FEVEREIRO/94.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 163-164, e-STJ.
+É o relatório. Passo a decidir.
+No que tange ao termo inicial do prazo decadencial, insta consignar que, não obstante a Primeira Seção desta Corte no julgamento dos Recursos Especiais n. 1.309.529/PR e n. 1.326.114/SC, proferidos sob o rito do art. 543-C do CPC/1973, tenha fixado como marco a vigência da Medida Provisória n. 1.523-9/1997, convertida na Lei 9.528/1997, o presente caso trata de hipótese diversa.
+Com efeito, a pretensão veiculada nos autos consiste na revisão da renda mensal inicial do benefício pela aplicação integral do IRSM de fevereiro/1994, segundo previsão da Medida Provisória n. 201, de 23/07/2004, convertida na Lei 10.999/2004, que expressamente garantiu a revisão dos benefícios previdenciários pela inclusão de tal índice no fator de correção dos salários de contribuição anteriores a março de 1994.
+O presente caso não envolve, portanto, revisão do ato administrativo que analisou o pedido de deferimento da prestação previdenciária, estando ancorado na incidência de novel legislação posterior à data de concessão do benefício. Desse modo, o termo inicial para a contagem do prazo decadencial deve ser a edição da Medida Provisória 201, de 23/07/2004, conforme já assentado pela jurisprudência desta Corte Superior de Justiça.
+A propósito, confiram-se:
+PROCESSO CIVIL. PREVIDENCIÁRIO. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. REVISÃO DA RMI. IRSM DE FEVEREIRO DE 1994. DECADÊNCIA. TERMO INICIAL. EDIÇÃO DA MP N. 201/2004, CONVERTIDA NA LEI N. 10.999/2004. INOCORRÊNCIA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 1973.
+II - Esta Corte adotou entendimento segundo o qual o termo inicial do prazo decadencial para a revisão da renda mensal inicial do benefício previdenciário, com a aplicação integral do IRSM do mês de fevereiro de 1994, é a data da edição da MP n. 201/2004, convertida na Lei n. 10.999/2004. Precedentes.
+III - Recurso especial desprovido.
+(REsp 1445016/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 28/09/2017)
+PREVIDENCIÁRIO. RECURSO ESPECIAL. REVISÃO DE RENDA MENSAL INICIAL. INCLUSÃO DO IRMS DE FEVEREIRO DE 1994. DIREITO À REVISÃO RECONHECIDO NA LEI 10.999/2004. NÃO CONFIGURAÇÃO DA DECADÊNCIA NA HIPÓTESE DE REVISÃO PREVISTA EM LEI. ATO OMISSIVO DA ADMINISTRAÇÃO. RECURSO ESPECIAL DO INSS A QUE SE NEGA PROVIMENTO.
+1. No período compreendido em janeiro/1993 e fevereiro/1994, os salários de contribuição foram corrigidos pela variação do IRSM para fins de apuração do valor do salário de benefício.
+2. Em março de 1994, com a entrada do Plano Real, o índice de atualização passou a ser a URV, a teor do que dispôs a Lei 8.880/1994. Ocorre que no momento de conversão dos salários de benefício em URV não se aplicou a inflação verificada no mês de fevereiro de 1994, que alcançou o índice de 39,67%.
+3. Reconhecendo tal situação, em 2004, foi editada MP 201/2004, posteriormente convertida na Lei 10.999/2004, garantindo a inclusão do percentual de 39,67% (correspondente à variação do IRSM de fevereiro de 1994) na atualização monetária dos salários de contribuição anteriores a março de 1994 que integrem o PBC.
+4. A revisão dos benefícios previdenciários concedidos com data de início posterior a fevereiro de 1994, nos termos acima expostos, deve ser realizada, como se verifica, por força de expressa disposição legal, impondo um comportamento positivo à Administração Pública, quanto à revisão do ato administrativo com vistas a atender esse direito fundamental.
+5. Nesse contexto, a ação revisional em tela não busca propriamente o reconhecimento da ilegalidade do ato de concessão do benefício, mas, antes, fazer atuar a lei reconhecedora da violação do direito previdenciário e da necessária revisão do ato administrativo.
+6. Não se cuida de típica ação revisional que teria como condição a iniciativa do interessado, e, sim, de revisão reconhecida em expressa determinação legal, não sendo admissível atribuir a inércia ao particular, quando a omissão é da Administração.
+7. Forçoso destacar que a Autarquia Previdenciária em sua IN 45/2010, reconhecia expressamente que as revisões determinadas em dispositivos legais, ainda que decorridos mais de 10 anos da data em que deveriam ter sido pagas, deveriam ser processadas, observando-se somente a prescrição quinquenal.
+8. Recurso Especial do INSS a que se nega provimento.
+(REsp 1612127/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 03/05/2017)
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 535 DO CPC. NÃO OCORRÊNCIA. REVISÃO DE BENEFÍCIO. APLICAÇÃO IMEDIATA DOS TETOS PREVISTOS NAS ECS 20/98 E 41/2004. NORMAS SUPERVENIENTES. PRAZO DECADENCIAL PREVISTO NO ART. 103 DA LEI 8.213/91. NÃO INCIDÊNCIA.
+1. Não ocorre ofensa ao art. 535 do CPC, quando o Tribunal de origem dirime, fundamentadamente, as questões que lhe são submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A teor do entendimento consignado pelo STF e no STJ, em se tratando de direito oriundo de legislação superveniente ao ato de concessão de aposentadoria, não há falar em decadência.
+3. No caso, a aplicação dos novos tetos surgiu somente com as EC"s 20/98 e 41/03, motivo pelo qual se revela de rigor o afastamento da decadência.
+4. Recurso especial a que se nega provimento
+(REsp 1420036/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 14/05/2015).
+PREVIDENCIÁRIO. RECURSO ESPECIAL. APOSENTADORIA POR TEMPO DE SERVIÇO. REVISÃO DA RENDA MENSAL INICIAL. IRSM DE FEVEREIRO/94.
+DECADÊNCIA. NÃO OCORRÊNCIA. TERMO INICIAL. DATA DA MEDIDA PROVISÓRIA 201, DE 23/7/2004, CONVERTIDA NA LEI 10.999/2004. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
+1. De acordo com os Recursos Especiais Repetitivos 1.309.529/PR e 1.326.114/SC, incide o prazo de decadência do artigo 103 caput da Lei 8.213/1991, instituído pela Medida Provisória 1.523-9/1997, convertida na Lei 9.528/1997, ao benefício concedido anteriormente a esse preceito normativo, com termo a quo a contar da sua vigência, isto é, 28/6/1997.
+2. É possível afirmar que por ato de concessão deve ser entendida toda matéria relativa aos requisitos e critérios de cálculo do benefício submetida ao INSS no requerimento do benefício, do que pode resultar o deferimento ou indeferimento do pleito.
+3. No presente caso, a pretensão veiculada consiste na revisão da renda mensal inicial do benefício pela aplicação integral do IRSM de fevereiro/1994 porque a Medida Provisória 201, de 23/7/2004, convertida na Lei 10.999/2004, expressamente garantiu a revisão dos benefícios previdenciários pela inclusão de tal índice no fator de correção dos salários de contribuição anteriores a março de 1994. O presente caso não envolve revisão do ato administrativo que analisou o pedido de deferimento da prestação previdenciária.
+4. O termo inicial para a contagem do prazo decadencial deve ser a edição da Medida Provisória 201, de 23/7/2004, convertida na Lei 10.999/2004. A ação neste caso foi ajuizada em 11/10/2011, portanto, não se passaram mais de dez anos entre o termo inicial e o ajuizamento da ação.
+5. Recurso especial conhecido e não provido.
+(REsp 1501798/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 28/05/2015)
+PREVIDENCIÁRIO. REGIME GERAL DE PREVIDÊNCIA SOCIAL. APLICAÇÃO DOS TETOS DAS EC 20/1998 E 41/2003. DECADÊNCIA. ART. 103, CAPUT, DA LEI 8.213/1991. NÃO INCIDÊNCIA.
+1. Trata-se de Recurso Especial questionando a aplicação dos tetos previstos nas Emendas Constitucionais 20/1998 e 41/2003 a benefícios concedidos anteriormente à vigência de tais normas. O INSS defende que essas ações são de revisão do ato de concessão do benefício previdenciário, o que faria incidir a decadência prevista no art. 103 da Lei 8.213/1991.
+2. O escopo do prazo decadencial da Lei 8.213/1991 é o ato de concessão do benefício previdenciário, que pode resultar em deferimento ou indeferimento da prestação, consoante se denota dos termos iniciais de contagem do prazo constante no art. 103, caput, da Lei 8.213/1991.
+3. Por ato de concessão deve ser entendida toda matéria relativa aos requisitos e critérios de cálculo do benefício submetida ao INSS no pedido de benefício, do que pode resultar o deferimento ou indeferimento do pleito.
+4. A pretensão veiculada na presente ação consiste na revisão das prestações mensais pagas após a concessão do benefício para fazer incidir os novos tetos dos salários de benefício, e não do ato administrativo que analisou o pedido de deferimento da prestação previdenciária.
+5. Por conseguinte, não incide a decadência prevista no art. 103, caput, da Lei 8.213/1991 nas pretensões de aplicação dos tetos das Emendas Constitucionais 20/1998 e 41/2003 a benefícios previdenciários concedidos antes dos citados marcos legais, pois consubstanciam mera revisão das prestações supervenientes ao ato de concessão.
+6. Não se aplica, na hipótese, a matéria decidida no REsp 1.309.529/PR e no REsp 1.326.114/SC, sob o rito do art. 543-C do CPC, pois naqueles casos o pressuposto, que aqui é afastado, é que a revisão pretendida se refira ao próprio ato de concessão.
+7. Recurso Especial não provido.
+(REsp 1.447.551/PR, Segunda Turma, Relator Ministro Herman Benjamin, DJe 26/11/2014).
+In casu, a ação foi ajuizada em 2013 (fls. 5, e-STJ), quando ainda não transcorridos dez anos do termo inicial da decadência.
+Ante o exposto, dou provimento ao recurso especial.
+Publique-se. Intimem-se.
