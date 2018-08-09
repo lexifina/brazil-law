@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo manejado por Universal da Penha Calçados Ltda. desafiando decisão da Presidência do Tribunal Regional Federal da 2ª Região que não admitiu recurso especial com base na incidência da Súmula 7/STJ.
+É o relatório.
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois a parte agravante não impugnou o motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial, deixando de rebater, de modo específico, a apontada aplicação do óbice previsto na Súmula 7/STJ, fundamento autônomo e suficiente para a manutenção da decisão ora agravada.
+Por outro lado, é insuficiente para impugnar a referida incidência da Súmula 7/STJ à espécie a afirmação genérica de que "não se trata de mero reexame, e sim de valoração da prova, não havendo de se falar em reexame tático probatório, e sim em questão de direito com afronta direta à norma Constitucional, e que abre precedente para apreciação em sede de Recurso Especial e Extraordinário" (fl. 263) e a ocorrência de erro in procedendo e erro in judicando. Isso porque tais alegações não tem o condão de infirmar o juízo formulado pela decisão agravada, à míngua da demonstração de situação particular do caso concreto que justificasse o afastamento do referido óbice.
+Assim, ressalta-se que o agravante não rebateu, de modo específico, o fundamento adotado pela decisão recorrida para negar trânsito ao apelo especial, incidindo, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Ante do exposto, não conheço do agravo.
+Publique-se.
