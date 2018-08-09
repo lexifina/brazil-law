@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por [NOME] e ROSALBA INÊS MUFFATO [NOME]. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"APELAÇÃO CÍVEL. COISAS E PROCESSUAL CIVIL. A- ÇÃO DE REINTEGRAÇÃO DE POSSE. - PROCEDÊNCIA NA ORIGEM.
+(1) REQUISITOS DO ART. 927 DO CPC/1973. EXERCÍ- CIO POSSESSÓRIO PELA AUTORA E ESBULHO PELOS RÉUS. DEMONSTRAÇÃO.
+- Observados os requisitos da reintegração de posse - posse anterior, ato espoliativo e perda da posse (art. 927 do Código de Processo Civil de 1973) -, tem-se por necessária a manutenção da sentença de procedência.
+(2) SUCUMBÊNCIA RECIPROCA. IMPOSSIBILIDADE.
+PRINCÍPIO DA CAUSALIDADE. DEMANDADOS QUE DE- RAM CAUSA AO AJUIZAMENTO. MANUTENÇÃO.
+- Em decorrência do princípio da causalidade, devem os demandados arcar com as custas processuais e os honorári- os advocatícios, porquanto deram causa ao ajuizamento da demanda.
+SENTENÇA MANTIDA. RECURSO DESPROVIDO" (fl. 509, e-STJ).
+Nas razões do especial, os agravantes alegam violação do arts. 1.200, 1.201, 1.202 e 1.208 do CC; 21 e 927 do CPC/1973; e 489, § 1º, IV, do CPC/2015. Requerem, em síntese, a reintegração de posse do imóvel em questão.
+Com as contrarrazões e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+ É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+De início, verifica-se que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+As instâncias ordinárias enfrentaram a matéria posta em debate na medida necessária para o deslinde da controvérsia, não havendo falar em negativa de prestação jurisdicional.
+Outrossim, impende asseverar que cabe ao julgador apreciar os fatos e provas da demanda segundo seu livre convencimento, declinando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, não há falar em deficiência de fundamentação da decisão o não acolhimento de teses ventiladas pelo recorrente, mormente se o acórdão abordar todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 03/STJ. SERVIDOR PÚBLICO FEDERAL. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. ANÁLISE. IMPOSSIBILIDADE. INOVAÇÃO EM SEDE DE AGRAVO INTERNO. IMPOSSIBILIDADE. REENQUADRAMENTO FUNCIONAL. PRESCRIÇÃO DO FUNDO DE DIREITO. ATO CONCRETO. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. CONTROVÉRSIA QUE EXIGE ANÁLISE DE PORTARIA. MATÉRIA INSUSCETÍVEL DE APRECIAÇÃO EM RECURSO ESPECIAL. HONORÁRIOS SUCUMBENCIAIS. TITULARIDADE DO ADVOGADO PÚBLICO. LEI 13.327/2016. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexiste violação aos artigos 489 e 1.022 do CPC/2015, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda de forma clara e precisa.
+2. É vedado, em sede de agravo interno, ampliar-se o objeto do recurso especial, aduzindo-se questões novas, não suscitadas no momento oportuno, em virtude da ocorrência da preclusão consumativa.
+3. A prescrição da pretensão, por ser de reenquadramento funcional, atinge o próprio fundo de direito e está em sintonia com a jurisprudência firmada no âmbito deste e. STJ.
+4. A via especial é inadequada para análise de Portarias, Resoluções, Regimentos, ou qualquer outro tipo de norma que não se enquadre no conceito de Lei Federal.
+5. Os honorários advocatícios de sucumbência das causas em que forem parte a União, as autarquias e as fundações públicas federais pertencem ao advogado público.
+6. Agravo interno não provido" (AgInt no AREsp 801.104/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 04/10/2016, DJe 13/10/2016 - grifou-se).
+Ademais, o Tribunal de origem consignou:
+"Inicialmente, ressalva-se que os argumentos ventilados pelos recor- rentes em torno da propriedade do imóvel em discussão são irrelevantes para o deslinde da questão submetida à apreciação do Judiciário na presente demanda, porquanto o que fundamenta a reintegratória é a posse do bem e não seu título o dominial.
+De outro turno, acerca dos requisitos gerais para deferimento da proteção possessória, tem-se que restaram devidamente comprovadas:  a  a o o posse exercida sobre a coisa, extraída dos seguintes documentos:  a.1  "Instrumento Particular de Promessa de Compra e Venda" (fls. 22/25), firmado ro pela demandante com a construtora que adquiriu o imóvel dos acionados o (contrato às fls. 17/21);  a.2  recibo da construtora do valor total correspondente z ao contrato firmado com a demandante (fl. 26); e  a.3  prestações de contas condominiais, comprovantes de pagamento de taxas condominiais, atas de assembléias de condomínio e faturas de energia elétrica (fls. 39/200); e  b  a existência o do ato atentatório e a perda da posse, consistente no esbulho praticado pelos réus ao retomarem a posse do bem munidos do contrato de distrato entabulado com a construtora, com a alteração das fechaduras do imóvel.
+Há que se destacar que alguns dos documentos elencados no item o "a.3" acima foram emitidos em nome do pai da demandante, [NOME], porém eram enviados ao endereço daquela, sendo suficientes, portanto, para a comprovação da posse, mormente se considerado que outros documentos estão em seu e o próprio nome.
+Por derradeiro, saliente-se que as alegações a respeito da ausência o de posse do imóvel em razão do conhecimento do esbulho dias após a sua ocorrência não serve para o afastamento das constatações acima delineadas, na medida em que a posse não se caracteriza somente pela permanência constante no imóvel, mas sim pelo exercício, de fato, de algum dos poderes inerentes à propriedade. Ademais, é público e notório que o Município de Itapema é local escolhido por diversas famílias para ter imóvel de veraneio, habitado somente em períodos específicos.
+Nesse contexto, conclui-se que demonstrados, enquanto ônus da prova da autora (art. 333, inc. I, do Código de Processo Civil de 1973), porquanto fatos constitutivos de seu direito, os requisitos gerais necessários ao deferimento da proteção possessória -  a  posse, direta ou indireta, exercida sobre a coisa;  b  existência do ato atentatório (turbação, esbulho ou ameaça); e  c  continuação (na manutenção e no interdito) ou perda (na reintegração) da posse (arts. 927, incs. I, II e IV, e 933 do Código de Processo Civil de 1973) - e, por outro lado, enquanto ônus da prova dos réus (art. 333, inc. II, do Código de Processo Civil de 1973), não aportados fatos impeditivos, modificativos ou extintivos do direito da autora, imperativa é a manutenção da procedência exarada" (fls. 520/521, e-STJ).
+Rever as conclusões do acórdão recorrido demandaria o reexame de cláusulas contratuais e de matéria fático-probatória, procedimento inadmissível em recurso especial, nos termos das Súmulas nºs 5 e 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intime-se.
