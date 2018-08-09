@@ -1,0 +1,59 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. EMBARGOS REJEITADOS.
+DECISÃO
+Cuida-se de embargos de declaração opostos por [NOME] à decisão monocrática assim ementada (e-STJ, fl. 782):
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. CAUTELAR DE ATENTADO. REINTEGRAÇÃO DE POSSE. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+
+Em suas razões, sustenta a embargante a existência de omissão no julgado embargado quanto ao objeto do recurso, que versa sobre a adequação do especial para julgamento no STJ e não sobre rediscussão de provas que nunca foram produzidas, porquanto impertinentes, uma vez que a lide deveria ser revolvida com base no melhor título, pouco importando os demais elementos de posse. Alega afronta à Súmula n. 487/STF, aduzindo que a decisão ora embargada deve deixar de lado matérias de fato invocadas pelo Tribunal de origem que deturpam a condução racional e lógica do processo (e-STJ, fls. 790-799).
+Busca, assim, que sejam sanadas as omissões e contradições apontadas.
+Foi apresentada impugnação (e-STJ, fls. 804-812).
+Brevemente relatado, decido.
+Razão não assiste à embargante.
+É cediço que a constatação da omissão ou contradição pressupõe a ausência de manifestação do julgador sobre questão formulada nas razões recursais, o que não se verifica na espécie, haja vista que o recurso especial foi devidamente analisado, como consignado na decisão embargada, conforme o seguinte excerto (e-STJ, fls. 783-787):
+Preliminarmente, a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Dessa maneira, registro que a matéria em exame foi devidamente enfrentada pelo Colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1022 DO CPC NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE. INVIABILIDADE. IMPOSIÇÃO DA MULTA DO ART. 1.026, § 2º, DO CPC.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1022 do CPC.
+2. Os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito.
+3. Os segundos Embargos Declaratórios opostos com o intuito de modificar o julgado, inovando com argumentos preclusos, revela nítido caráter procrastinatório, pelo que é admissível a aplicação da multa prevista no art. 1.026, § 2º, do CPC.
+4. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl nos EDcl no AgRg no AREsp n. 822.269/SP, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 8/11/2016, DJe 17/11/2016).
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC/1973) - APELAÇÃO CONSIDERADA DESERTA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE REJEITOU ANTERIORES ACLARATÓRIOS COM APLICAÇÃO DE MULTA, MANTENDO A NEGATIVA DE PROVIMENTO AO AGRAVO REGIMENTAL FACE A ADEQUAÇÃO DA DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA DAR PROVIMENTO AO RECURSO ESPECIAL, A FIM DE ANULAR OS ACÓRDÃOS PROFERIDOS NA ORIGEM, COM A DETERMINAÇÃO DO RETORNO DOS AUTOS AO TRIBUNAL A QUO PARA QUE PROCEDA À ANÁLISE DO MÉRITO DA APELAÇÃO COMO ENTENDER POR DIREITO, POR TER A PARTE RECORRENTE, UMA VEZ INTIMADA PARA COMPLEMENTAR O RECURSO ATENDIDO À DETERMINAÇÃO. INSURGÊNCIA DO AUTOR.
+1. Os embargos de declaração somente são cabíveis quando houver no julgado, obscuridade, contradição, omissão ou erro material (art. 1022 do NCPC).
+2. Os aclaratórios, em regra, não permitem rejulgamento da causa, sendo que a atribuição de efeito modificativo somente é possível em hipóteses excepcionais, uma vez comprovada a existência dos mencionados vícios no julgado, que não se encontram presentes na presente hipótese.
+3. Restou delineado que o recolhimento insuficiente do preparo do recurso de apelação não enseja a deserção se a parte recorrente, intimada para que o complemente, atende à intimação e recolhe a totalidade do valor, ou demonstra que tal já foi realizado no momento oportuno, o que expressamente ocorreu no caso conforme mencionado pelo magistrado a quo, "na medida em que veio aos autos comprovar que já havia efetuado o recolhimento não só das custas referentes ao porte de remessa, mas também do porte de retorno e das custas recursais, de forma a comprovar o integral preparo realizado na data da interposição do apelo". Inteligência do artigo 511, § 2º, do CPC/73. Precedentes.
+4. Embargos de declaração rejeitados.
+(EDcl nos EDcl nos EDcl no AgRg no AREsp n. 803.611/PR, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/9/2016, DJe 24/10/2016).
+Consoante se extrai dos autos, o Tribunal de origem, ao julgar os embargos de declaração opostos pela ora recorrente, consignou o seguinte (e-STJ, fls. 604-607):
+(..)
+O recurso é tirado de sentença que julgou procedente a Cautelar de Atentado ajuizada por [NOME] contra [NOME], para determinar que o requerido, ora apelante, se abstenha de praticar atos modificatórios da área objeto da lide e que foi definitivamente reintegrada a autora, ora apelada, por sentença proferida no Processo n. 135/2004, e condenou-o ao pagamento das custas processuais e honorários advocatícios, fixados em R$ 10.000,00 (dez mil reais).
+Trata-se de Cautelar de Atentado ajuizada por [NOME] contra [NOME], incidentalmente a Ação de Reintegração de Posse, na qual se alegou o esbulho de 25 hectares no imóvel localizado na Gleba Paulista, no município de Alta Floresta, com urna área de 1400 hectares, matriculada sob o n. 6.914, em 01.08.1991.
+Sucede que no Recurso de Apelação 116314/2014, julgado nesta mesma sessão, a r. sentença foi reformada, para julgar improcedente a referida Ação de Reintegração de Posse, da qual esta cautelar é incidente, como consignado no voto de minha relatoria:
+"(..)
+No caso, a pretensão da autora apelada .fundamenta-se na afirmação da posse com base na propriedade. É bem verdade que a ação possessória tem por finalidade a defesa do jus possessionis (o fato posse), e não do jus possidendi. Entretanto, excepcionalmente, admite-se a discussão do domínio em sede possessória quando a disputa da posse efetivar-se diante da alegação de propriedade por ambas as partes.
+Ocorre que o exame de todo o conjunto de provas revela, de 21171 lado, que a autora mio demonstrou que atividade econômica desenvolve no imóvel objeto da pretensão possessória, vale dizer, não fez prova de posse enquanto fato exteriorizador do domínio no espaço onde diz ler ocorrido o esbulho O laudo pericial, produzido na catador de atentado, em apenso (fls. 84/95), aliás, não muito preciso, não indica qualquer benfeitoria, tais como cercas, atividade agrícola, ou outra qualquer, bastante a espelhar fato posse, ao menos no período anterior a propositura da ação.
+Não fosse isso, o laudo pericial sugere que há ligeira sobreposição de área, mas também não indica, em hectares, esse espaço físico de sobreposição.
+Ademais, de acordo com a perícia a área da autora apelada não tem 1.400 hectares, como afirmado na inicial, mas, sim, 1.303,24 hectares, além do que, encontra-se com "diferença de locação" (fl. 87).
+Ou seja, além da perícia ter constatado a sobreposição entre as áreas da demandante e demandado, a área da autora não corresponde ao quantidade de hectares constante na matrícula, bem COMO há ligeiro deslocamento nos ângulos dos documentos apresentados.
+Mais singular ainda se revela o fato de que a diferença de hectares encontrada na propriedade da autora apelada , bem como a sobreposição, ainda que ligeira entre as propriedades, tem reflexo na própria área dita esbulhada, de 25 hectares, porque, dentre desse novo contexto, não se tem como saber ao certo se referida área está localizada, tão somente, no imóvel da autora apelada.
+Logo, não é possível formular um juízo definitivo acerca da propriedade do imóvel, de maneira que a pretensão da autora apelada revela-se desamparada de elementos suficientes à procedência da ação,
+(..)
+Ante a ausência da prova real do falo posse, bem COMO duvidosa a propriedade do imóvel, sobre o espaço da área, a questio juris há que ser resolvida por meios processuais outros.
+Anota-se, por derradeiro, que bem sabido é a impropriedade da ação de natureza possessória para dirimir dúvida acerca de ocupação nos limites entre as propriedades.
+Com tais considerações, dá-se provimento ao recurso, para reformar a r. sentença e julgar improcedente a Ação de Reintegração de  Posse ajuizada por [NOME], invertendo-se os ônus de sucumbência.
+E do acórdão dos embargos de declaração extrai-se este trecho (e-STJ, fls. 661-662):
+(..)
+No caso, a c. Câmara, por unanimidade, entendeu que a discussão da cautelar tinha por objeto 25 hectares, que, por sua vez, foi objeto da ação de reintegração de posse ajuizada pela aqui também embargante. Sucede que a Ação de Reintegração de Posse, julgada procedente, teve a r. sentença reformada na Apelação n.
+116314/2014, justamente porque a lá autora, ora embargante, além de não comprovar o exercício da posse sobre a área, também restou duvidosa a propriedade do imóvel em razão da verificada sobreposição de áreas.
+Neste caso, registrou-se que a questão teria que ser resolvida por meios outros.
+Portanto, por consequência lógica, reformada a r. sentença da Ação de Reintegração de Posse, para julgar improcedente, inviável a procedência da cautelar.
+De outro lado, registra-se que nesta ação cautelar, se houve agravo retido, não há noticia de pedido de exame em sede de recurso.
+Portanto, não há que se falar em omissão.
+Dessa modo, verifica-se que o acórdão recorrido foi devidamente fundamentado, não havendo que se falar em violação ao art. 489, § 1º, do CPC/2015, até porque, conforme entendimento desta Corte, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, Relator Ministro Humberto Martins, Segunda Turma, julgado em 14/6/2016, DJe 21/6/2016).
+No que tange à alegada ofensa à Súmula 487 do STF, tenho que, "para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula" (Súmula n. 518 do STJ).
+Por fim, o recurso fundado na alínea c do permissivo constitucional pressupõe a demonstração analítica da alegada divergência. Assim, "exige-se que o recorrente demonstre, "analiticamente", que os "casos são idênticos e mereceram tratamento diverso à luz da mesma regra federal"".
+Portanto, para a demonstração da divergência, faz-se necessária a transcrição dos trechos que configuram o dissenso, mencionando as circunstâncias que identificam os casos confrontados (não se mostrando suficiente a mera transcrição de ementas), ônus do qual não se desincumbiu a agravante, tendo em vista a falta de citação do repositório de jurisprudência, oficial ou credenciado e a falta de similitude fática dos casos confrontados.
+Assim, consoante se depreende das razões recursais e da fundamentação acima exposta, busca a embargante, na verdade, emprestar efeitos modificativos aos declaratórios, o que somente excepcionalmente se admite, e não é o caso destes autos.
+À vista do exposto, rejeito os presentes embargos de declaração.
+Publique-se.
