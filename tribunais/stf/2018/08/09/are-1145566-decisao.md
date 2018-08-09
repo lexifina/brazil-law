@@ -1,0 +1,17 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Terceira Câmara Cível do Tribunal de Justiça do Estado de Goiás, assim ementado na parte que interessa:
+    “DUPLO GRAU DE JURISDIÇÃO. APELAÇÃO CÍVEL. AÇÃO DE REVISÃO DE APOSENTADORIA. ILEGITIMIDADE PASSIVA DA GOIÁSPREV E DO ESTADO DE GOIÁS. AFASTADAS. AUSÊNCIA DE SENTENÇA EXTRAPETITA. REVISÃO DE APOSENTADORIA. CABÍVEL. PREQUESTIONAMENTO. HONORÁRIOS ADVOCATÍCIOS. INALTERÁVEL.”
+    No recurso extraordinário alega-se contrariedade ao artigo 40, § 1º, inciso I, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, para acolher a pretensão do recorrente e ultrapassar o entendimento do Tribunal de origem, no sentido de que a moléstia que acomete a parte autora, ora recorrida, decorre de acidente ocorrido em serviço, demandaria, induvidosamente, o reexame do conjunto fático-probatório dos autos, o que se mostra de inviável ocorrência no âmbito do recurso extraordinário, a teor do que dispõe a Súmula nº 279 desta Corte. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. APOSENTADORIA POR INVALIDEZ. MOLÉSTIA PROFISSIONAL GRAVE OU DOENÇA GRAVE. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 473.703/MG-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 30/4/10).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. APOSENTADORIA POR INVALIDEZ. PROVENTOS PROPORCIONAIS. ALEGAÇÃO DE ENFERMIDADE GRAVE E DEFINITIVAMENTE INCAPACITANTE, APTA A ENSEJAR APOSENTADORIA COM PROVENTOS INTEGRAIS. INVIABILIDADE DO REEXAME EM SEDE EXTRAORDINÁRIA. ENUNCIADOS 279 E 280 DA SÚMULA/STF. Para se chegar a conclusão diversa daquela a que chegou a Corte de origem seria necessário reexaminar matéria fática e legislação local. Exame inviável, consoante os Enunciados 279 e 280 da Súmula/STF. Agravo regimental a que se nega provimento” (AI nº 794.831/MG-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 1º/10/10).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. APOSENTADORIA POR INVALIDEZ. PROVENTOS INTEGRAIS. CONTROVÉRSIA QUE DEMANDA O REEXAME DAS PROVAS QUE FUNDAMENTARAM A DECISÃO DO TRIBUNAL A QUO E DE LEGISLAÇÃO INFRACONSTITUCIONAL. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 560.725/AM-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 8/5/09).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF. Agravo regimental a que se nega provimento” (RE nº 593.064/MG-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 12/12/08).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso. Determino que, a título de honorários recursais, a verba honorária já fixada seja acrescida do valor equivalente a 10% (dez por cento) do seu total, nos termos do art. 85, § 11, do novo Código de Processo Civil, obedecidos os limites dos §§ 2º e 3º do citado artigo.
+    Publique-se.
+    Brasília, 9 de agosto de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
