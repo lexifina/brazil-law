@@ -1,0 +1,31 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDOR PÚBLICO. PAGAMENTO DE PARCELAS ATRASADAS. RECONHECIMENTO ADMINISTRATIVO DO DÉBITO. DIREITO AO RECEBIMENTO. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. RECURSO ESPECIAL DO INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO SERTÃO PERNAMBUCANO NÃO CONHECIDO.
+1. Trata-se de Recurso Especial interposto pelo INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO SERTÃO PERNAMBUCANO, com fundamento na alínea a do art. 105, III da Constituição Federal, que objetiva a reforma do acórdão proferido pelo egrégio Tribunal Regional Federal da 5a. Região, assim ementado:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. VALORES ATRASADOS RECONHECIDOS PELA ADMINISTRAÇÃO. PAGAMENTO. DEMORA INJUSTIFICADA. COBRANÇA PELA VIA JUDICIAL. POSSIBILIDADE. PRECEDENTES. CORREÇÃO MONETÁRIA. APELAÇÃO DESPROVIDA. HONORÁRIOS RECURSAIS.
+1. Apelação do IFPE em face de sentença que julgou procedente a ação para condenar o réu a pagar ao autor as diferenças atrasadas relativas à vantagem "Reconhecimento de Saberes e Competências - RSC III", referentesaosexercícios de 2013 e 2014.
+2. A jurisprudência desta eg. Corte Regional encontra-se pacificada no sentido de que o pagamento de verbas atrasadas, já reconhecidas pela Administração, não pode ficar condicionado, indefinidamente, à manifestação de vontade do órgão pagador, mormente se já houver transcorrido tempo suficiente para realizar o adimplemento da dívida. Precedentes: 08042319020144058400 (Desembargador Federal PAULO MACHADO CORDEIRO, Terceira Turma, 19/03/2015); 08025494620134058300 (Desembargador Federal MANOEL ERHARDT, Primeira Turma, 19/03/2015).
+3. Demonstrado o reconhecimento administrativo da dívida, nos termos da Portaria nº 315/2015 e planilha de cálculos elaborada pela própria Administração, faz jus o demandante ao seu adimplemento, independentemente das restrições apontadas pelo réu para o pagamento de exercícios anteriores, uma vez que a ausência de previsão orçamentária será suprida pelo comando judicial, com a imposição do pagamento por Precatório ou RPV.
+4. Considerando que o recurso foi interposto na vigência da novel legislação processual, cabível a majoração da verba honorária de 10% (dez por cento) para 12% (doze por cento) sobre o valor da condenação, com fulcro no § 11 do art. 85 do CPC/2015.
+5. Apelação desprovida (fls. 102).
+2. Nas razões de seu Apelo Nobre, a parte recorrente alega violação dos arts. 37 da Lei 4.320/1964 e 22 do Decreto 93.842/1986, aduzindo, em suma, que é vedado ao Administrador Público efetuar pagamentos cujas despesas não constem do orçamento anual. Acrescenta ser descabida a tentativa de obrigar judicialmente o Estado a realizar um pagamento que está apenas observando os adequados trâmites legais e constitucionais (fls. 146).
+3. É o relatório. Decido.
+4. Cuida-se, na origem, de Ação de Cobrança ajuizada em face do IF Sertão/PE em que se pleiteia o pagamento de valores reconhecidos administrativamente, atinente às parcelas da concessão do RSC-III, e que não teriam sido pagos pela Administração Pública, sob o argumento de ausência de dotação orçamentária.
+5. A questão controvertida reside na alegação do Instituto de que não poderia ser compelido ao pagamento dos valores sem que haja a devida previsão orçamentária.
+6. Acerca do tema, o Tribunal de origem concluiu que:
+Destarte, demonstrado o reconhecimento da dívida, faz jus o demandante ao seu adimplemento, independentemente das restrições apontadas pelo réu para o pagamento de exercícios anteriores, uma vez que a ausência de previsão orçamentária será suprida pelo comando judicial, com a imposição do pagamento por Precatório ou RPV (fls. 100).
+7. Dá leitura do excerto acima transcrito, observa-se que a Corte de origem concluiu pela procedência do pedido formulado, destacando que eventual ausência de previsão orçamentária será suprida pelo comando judicial, com a imposição do pagamento via precatório ou RPV.
+8. Contudo, esse fundamento autônomo e suficiente à manutenção do aresto recorrido não foi impugnado nas razões do Recurso Especial, permanecendo, portanto, incólume. Dessa forma, aplicável à espécie, por analogia, a Súmula 283 do STF. A propósito:
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. CORREÇÃO MONETÁRIA. TERMO INICIAL. PERDAS E DANOS. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. FUNDAMENTOS BASILARES DO ACÓRDÃO RECORRIDO INATACADOS. SÚMULA 283/STF. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. FALTA DE SIMILITUDE.
+(..).
+2. O recurso especial não impugnou os fundamentos basilares que amparam o acórdão recorrido, esbarrando, pois, no obstáculo da Súmula 283/STF.
+(..).
+5. Agravo regimental a que se nega provimento (AgRg no REsp. 968.261/SP, Rel. Min. SÉRGIO KUKINA, DJe 23.2.2016).
+
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DESAPROPRIAÇÃO POR INTERESSE SOCIAL. REFORMA AGRÁRIA. ALEGAÇÃO DE VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE DISCUSSÃO, NA VIA ESPECIAL. REQUISITOS QUE AUTORIZAM A DESAPROPRIAÇÃO. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. FATO IMPEDITIVO DO APROVEITAMENTO DO IMÓVEL. FALTA DE IMPUGNAÇÃO, NO RECURSO ESPECIAL, DOS FUNDAMENTOS DO ACÓRDÃO COMBATIDO, SUFICIENTES PARA SUA MANUTENÇÃO. INCIDÊNCIA DA SÚMULA 283/STF. AGRAVO REGIMENTAL IMPROVIDO.
+(..).
+III. Não merece prosperar o Recurso Especial, quando a peça recursal não refuta determinado fundamento do acórdão recorrido, suficiente para a sua manutenção, em face da incidência do enunciado da Súmula 283 do STF ("é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+IV. Agravo Regimental improvido (AgRg no AREsp. 610.622/ES, Rel. Min. ASSUSETE MAGALHÃES, DJe 29.2.2016).
+9. Diante do exposto, com fundamento no art. 932, III do CPC/2015, não se conhece do Recurso Especial do INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO SERTÃO PERNAMBUCANO.
+10. Por fim, nos termos do que dispõe o art. 85, § 11o. do CPC/2015, fixam-se os honorários recursais em 1%, que deverá ser acrescido ao montante total.
+11. Publique-se.
+12. Intimações necessárias.
