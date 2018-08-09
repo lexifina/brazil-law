@@ -1,0 +1,55 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. EMBARGOS REJEITADOS.
+DECISÃO
+Trata-se de embargos de declaração no agravo em recurso especial opostos por Hapvida Assistência Médica Ltda à decisão desta relatoria, com a seguinte ementa (e-STJ, fl. 375):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. [NOME]. EMBARGOS MONITÓRIOS. IMPROCEDÊNCIA. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CONEXÃO E DENUNCIAÇÃO À LIDE. INEXISTÊNCIA. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Em suas razões, sustenta a embargante a ocorrência de omissão em razão da falta de pronunciamento em relação às alegações trazidas no recurso, simplesmente transportando os fundamentos da negativa de provimento à apelação para, igualmente, desprover o recurso especial e que, igualmente, restringiu-se a afirmar que o recurso esbarraria na Súmula n. 7/STJ, sem cotejar os fundamentos da decisão recorrida (e-STJ, fls. 383-386).
+Busca, assim, que sejam sanadas as omissões apontadas.
+Brevemente relatado, decido.
+É cediço que a constatação da omissão ou contradição pressupõe a ausência de manifestação do julgador sobre questão formulada nas razões recursais, o que não se verifica na espécie, haja vista que o recurso especial foi devidamente analisado, como consignado na decisão embargada, conforme o seguinte excerto (e-STJ, fls. 376-380):
+Preliminarmente, a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Dessa maneira, registro que a matéria em exame foi devidamente enfrentada pelo Colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente.
+Nesse sentido:
+(..)
+No caso dos autos, o Tribunal de origem consignou o seguinte excerto (e-STJ, fls. 279-281):
+Básica e fundamentalmente, as partes entabularam contrato de prestação de serviços, na área oncológica, especificando cláusulas e condições e a forma de pagamento.
+Entretanto, impagos, os títulos foram destinados ao protesto e promovida a presente ação monitória.
+Não houve cerceamento algum, a mora está configurada mediante lavratura do protesto, a ação declaratória não abrange a totalidade do crédito e a denunciação da União não encontra qualquer respaldo legal.
+O que pretende a devedora é transferir a responsabilidade de pagar para a União, sendo que os contratos estabelecidos preconizam em seu favor, junto à União, verbas vultosas, e eventual atraso no repasse não elimina, minimamente, obrigação de pagar os serviços prestados pela autora.
+Estabelecida essa premissa, em nenhum momento a recorrente glosou o valor das faturas, deixou de aceitá-las ou suscitou irregularidade das contas, tentando agora passar para a União a fiscalização das notas e o atraso no repasse.
+Nada mais incorreto, até porque, conforme demonstrado, os valores respeitantes à ação que tramita perante a 30ª Vara Cível de Fortaleza não se coadunam com a fatura exigida na monitória.
+Bem por tudo isso, não pode ficar a credora submetida e sujeita às incertezas dos repasses quando apresentou as notas de serviços e as respectivas faturas, devendo a contratante liquidá-las e, se o caso, se voltar contra a União para reembolso daquilo pago.
+Sinalizada assim a questão, a responsabilidade é de natureza contratual e pelas cláusulas e condições do contrato, patente a inadmissibilidade de se acolherem as preliminares, reconhecer conexão ou se fazer denunciação à União.
+O fato de ter a contratada a ciência do repasse a cargo da Aeronáutica, não impede a cobrança ou transfere para a União a obrigação de pagar (cláusula 7.3, fls. 37).
+E do acórdão dos embargos de declaração extrai-se o seguinte (e-STJ, fls. 299-300):
+(..)
+Os dispositivos normativos elencados pela recorrente não lhe favorecem; sendo hígida a sentença, não há regra de conexão, até porque os títulos exigidos apresentam somas distintas e a contratação feita pelo Ministério da Defesa - Aeronáutica não privilegia denunciação à lide, até em virtude de não guardar um nexo de causa e efeito com a pretensão exordial.
+Não está o julgador obrigado, para além da fundamentação, descer a detalhes ou se arvorar em teses acadêmicas do feitio da recorrente, porquanto está comprovado que a credora efetivamente prestou os serviços dentro do pacto entabulado com a recorrente, área oncológica, não podendo deixar de receber a remuneração, sob pena de enriquecimento sem causa, cabendo registrar que a recorrente recebe polpudas verbas, ano a ano majoradas, para atendimento global do quadro da aeronáutica.
+É o quanto basta para se rechaçar a verve recursal, fixando-se verba honorária inclusive para conscientização a ser pautada pelos princípios da eticidade, lealdade, veracidade e moralidade processuais. (Sem grifo no original).
+Dessa forma, acolher o inconformismo, conforme a sua exposição nas razões do especial, demanda, necessariamente, revolvimento do acervo fático-probatório dos autos, circunstância vedada nesta instância extraordinária, consoante dispõe a Súmula n. 7 do STJ.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO. NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. PROMESSA DE COMPRA E VENDA FRUSTRADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CONEXÃO COM DEMANDA AJUIZADA EM FACE DO ANTERIOR PROMITENTE VENDEDOR. INOCORRÊNCIA. ILEGITIMIDADE PASSIVA, DENUNCIAÇÃO DA LIDE E DECADÊNCIA. NECESSIDADE DE REEXAME DE PROVAS. ÓBICE DA SÚMULA 7/STJ. CULPA CONTRATUAL DOS PROMITENTES VENDEDORES. OBRIGAÇÃO DE RESTITUIR O SINAL. ART. 418 DO CÓDIGO CIVIL. DANO MORAL. NÃO OCORRÊNCIA. MERO DISSABOR. MULTA PROCESSUAL. DESCABIMENTO. AUSÊNCIA DE CARÁTER PROTELATÓRIO.
+1. Controvérsia acerca da responsabilidade do promitente vendedor pelo não cumprimento de promessa de compra e venda de imóvel que não se encontrava devidamente registrado em seu nome.
+3. Inocorrência de maltrato ao art. 535 do CPC quando o acórdão recorrido, ainda que de forma sucinta, aprecia com clareza as questões essenciais ao julgamento da lide. Ademais, o magistrado não está obrigado a rebater, um a um, os argumentos deduzidos pelas partes.
+3. Independência entre a promessa de compra e venda "sub examine" e a anterior, tendo em vista a iniciativa dos atuais promitentes vendedores de prometerem à venda imóvel do qual ainda não eram proprietários.
+4. Culpa exclusiva dos atuais promitentes vendedores pela frustração da promessa de compra e venda "sub examine", sendo irrelevante apurar a culpa pela resolução da primeira promessa de compra e venda, uma vez que se trata de negócios jurídicos distintos.
+4. Inviabilidade de se contrastar o entendimento do Tribunal de origem acerca da rejeição das preliminares de ilegitimidade passiva, decadência e denunciação da lide, pois tal entendimento encontra-se fundamentado nas circunstâncias fáticas da demanda, que são incontrastáveis no âmbito desta Corte Superior, em razão do óbice da Súmula 7/STJ.
+5. Procedência do pedido de devolução do sinal, como consequência da resolução do contrato (cf. art. 418 do Código Civil).
+6. Descabimento da condenação ao pagamento de indenização por danos morais, por se tratar de mero descumprimento de cláusula contratual, sem repercussão extrapatrimonial. Julgados desta Corte Superior.
+7. Ausência de caráter protelatório dos embargos de declaração anteriormente opostos, devendo-se afastar a multa processual.
+8. Desapensamento dos autos para posterior distribuição, tendo em vista a ausência de conexão.
+9. AGRAVO INTERNO PROVIDO, EM PARTE.
+(AgInt nos EDcl no AREsp n. 487.700/RJ, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 14/3/2017, DJe 24/3/2017 - sem grifo no original).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. ADMINISTRATIVO. RESPONSABILIDADE CIVIL. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. AUSÊNCIA DE CONEXÃO. AFASTAMENTO DA ILEGITIMIDADE PASSIVA DA CONCESSIONÁRIA DE SERVIÇO PÚBLICO. DENUNCIAÇÃO DA LIDE EM CASO DE RELAÇÃO DE CONSUMO. DESCABIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. INCIDÊNCIA. APLICAÇÃO DA SÚMULA N. 83/STJ.
+I - A jurisprudência desta Corte considera ser genérica a arguição de ofensa a dispositivo de lei federal quando não demonstrada efetivamente a contrariedade, caso em que se aplica, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+II - In casu, rever o entendimento do Tribunal de origem, o qual consignou não ser hipótese de reunião da ação principal em decorrência de conexão e afastou a preliminar de ilegitimidade passiva da concessionária de serviço público, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07/STJ.
+III - É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual em se tratando de relação de consumo, descabe a denunciação da lide, nos termos do art. 88 do Código de Defesa do Consumidor.
+IV - O recurso especial, interposto pelas alíneas a e/ou c do inciso III do art. 105 da Constituição da República, não merece prosperar quando o acórdão recorrido encontra-se em sintonia com a jurisprudência desta Corte, a teor da Súmula n. 83.
+V - A Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+VI - Agravo Regimental improvido.
+(AgRg no AREsp n. 437.517/MS, Relator Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 3/12/2015, DJe 14/12/2015 - sem grifo no original).
+Cabe ressaltar que a transcrição dos fundamentos do acórdão recorrido foi no intuito de demonstrar a ausência de omissão no acórdão recorrido, o que afasta a violação do art. 1.022 do CPC/2015 e, consequentemente, neste parte negou-se provimento.
+Quanto à alegação de que a decisão restringiu-se a afirmar que o recurso esbarraria na Súmula n. 7/STJ, sem cotejar os fundamentos da decisão recorrida, esclareço que a incidência da referida súmula inviabiliza o conhecimento do recurso especial e, portanto, a matéria nem sequer é analisada, o que explica o desfecho contido na decisão: conheço do agravo para conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento, apontando que o recurso foi conhecido tão somente em relação à alegada violação do art. 1.022 do CPC/2015, entretanto negando provimento, por não haver omissão, contradição ou obscuridade, como já esclarecido anteriormente.
+Assim, consoante se depreende das razões recursais e da fundamentação acima exposta, busca a embargante, na verdade, emprestar efeitos modificativos aos declaratórios, o que somente excepcionalmente se admite, e não é o caso destes autos.
+À vista do exposto, rejeito os presentes embargos de declaração.
+Publique-se.
