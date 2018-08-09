@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de Cascavel contra decisão da Vice-Presidência do Tribunal de Justiça do Estado do Paraná que inadmitiu recurso especial ante o seguinte fundamento: incidência das Súmulas 283 e 284/STF no que diz respeito à alegada violação ao arts. 14 do CPC/2015 e 20, §4º, do CPC/73, pois a recorrente, nas razões do recurso especial, não atacou fundamento do acórdão recorrido, a saber, "ainda que aplicável o Código de Processo Civil de 2005, no caso, há se manter o valor fixado na sentença, sob pena de caracterização da denominada reformatio in pejus, que não é admitida no sistema recursal brasileiro" (fl. 501).
+A agravante alega que: " a matéria tratada no recurso é específica com relação aos fundamentos do acórdão recorrido, pelo que não há que se falar no óbice da Súmula 283/STF. No que tange à Súmula 284, ao contrário do fundamentado no despacho denegatório, a matéria objeto do recurso foi devidamente elucidada às fls. 50/56 e dos presentes autos" (fl. 510).
+É o relatório.
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois a parte agravante não impugnou o motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial, a saber, a incidência das Súmulas 283 e 284 do STF.
+Com efeito, limitou-se o agravante a alegar nas razões do agravo em recurso especial que "a matéria tratada no recurso é específica com relação aos fundamentos do acórdão recorrido, pelo que não há que se falar no óbice da Súmula 283/STF. No que tange à Súmula 284, ao contrário do fundamentado no despacho denegatório, a matéria objeto do recurso foi devidamente elucidada às fls. 50/56 e dos presentes autos" (fl. 510), sem, contudo, demonstrar a veracidade dessa afirmação.
+Incide, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Ante o exposto, não conheço do agravo.
+Publique-se.
