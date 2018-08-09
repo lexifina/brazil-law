@@ -1,0 +1,51 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo ESTADO DO RIO DE JANEIRO, contra acórdão prolatado, por unanimidade, pela 11ª Câmara do Tribunal de Justiça do Estado do Rio de Janeiro no julgamento de mandado de segurança, assim ementado (fl. 141e):
+MANDADO DE SEGURANÇA. ICMS. ENERGIA ELÉTRICA.
+1. Preliminar de ilegitimidade ativa. Informativo nº 508 - REsp 1.299.303/SC, de relatoria do Ministro Cesar Asfor Rocha.
+2. Declarada a inconstitucionalidade da cobrança da alíquota de 25% (vinte e cinco por cento), pelo Órgão Especial deste Tribunal de Justiça, na Arguição de Inconstitucionalidade nº 0021368- 90.2001.8.19.0000, correta, portanto, a sentença.
+3. Descabimento do pedido de compensação do crédito tributário, pois depende de expressa autorização legal. Inteligência do artigo 170 do Código Tributário.
+4. Correta observância do prazo prescricional quinquenal, nos termos do Decreto 20.910/1932.
+CONCESSÃO DA ORDEM SOMENTE PARA AFASTAR A ALÍQUOTA DE 25% DE ICMS INCIDENTE SOBRE O FORNECIMENTO DE ENERGIA ELÉTRICA, APLICANDO-SE A ALÍQUOTA DE 18%, ACRESCIDA DE 5% DESTINADOS AO FUNDO DE COMBATE À POBREZA.
+Opostos embargos de declaração pela Recorrida, foram rejeitados (fls. 182/188e).
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+ Art. 6º, §3º, da Lei n. 12.016/2009 - "A competência para lavrar autos de infração é privativa dos integrantes da carreira de Fiscal de Rendas, nos termos do art. 3.º, I, da Lei Complementar (estadual) n.º 69/91, do artigo 37, XVIII da Constituição Federal e do artigo 142 do CTN" (fl. 201e).
+Com contrarrazões (fls. 289/306e), o recurso foi admitido (fls. 388/389e).
+O Ministério Público Federal manifestou-se às fls. 421/423e.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, V, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, c, e 255, III, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Inicialmente, consigno que as questões federais debatidas encontram-se satisfatoriamente prequestionadas. Ademais, o Recurso Especial acha-se hígido para julgamento, porquanto presentes os pressupostos de admissibilidade e ausentes questões preliminares e/ou prejudiciais a serem examinadas.
+Convém assinalar, outrossim, que o exame da pretensão veiculada no Recurso Especial não demanda reexame fático-probatório, porquanto todos os aspectos factuais e processuais estão clara e suficientemente delineados no acórdão recorrido.
+Do mesmo modo, anote-se que o acórdão impugnado dirimiu a controvérsia baseada em fundamentos infraconstitucionais.
+Na origem, cuida-se de mandado de segurança impetrado por H R COMÉRCIO E INDÚSTRIA DE PESCADOS LTDA. objetivando afastar a cobrança da alíquota de 25% sobre o fornecimento de energia elétrica e serviços de telecomunicações previsto no art. 14, VI, item 2, e do inciso VIII, item 7, do Decreto Estadual n. 27.427/00.
+O Tribunal de origem concedeu a ordem, afastando a alíquota de 25% de ICMS, fazendo incidir sobre o fornecimento de energia elétrica a alíquota de 18%, acrescida de 5% destinados ao Fundo de Combate à Pobreza.
+No mais, na mesma decisão, o Colegiado afastou o fundamento da ilegitimidade passiva, apresentado nas contrarrazões pelo ESTADO DO RIO DE JANEIRO, o que deu ensejo ao presente Recurso Especial da Fazenda Pública Estadual.
+A princípio, observo que é pacífico o entendimento, em ambas as Turmas que integram a 1ª Seção desta Corte, no sentido de reconhecer-se a ilegitimidade do Secretário de Estado da Fazenda para figurar em polo passivo de mandado de segurança no qual se discuta a validade de atos de fiscalização e lançamentos fiscais relativos ao ICMS.
+Sendo assim, verifico que o acórdão recorrido está em confronto com orientação deste Superior Tribunal de Justiça.
+Nesse sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO FUNDADO NO CPC/73. ICMS. INSURGÊNCIA CONTRA COBRANÇA DO TRIBUTO. SECRETÁRIO DE ESTADO DE FAZENDA APONTADO COMO AUTORIDADE COATORA. ILEGITIMIDADE PASSIVA. DECLARAÇÃO DE INCONSTITUCIONALIDADE. PEDIDO AUTÔNOMO. VIA MANDAMENTAL. IMPOSSIBILIDADE. SÚMULA 266/STF. ENTENDIMENTO DA PRIMEIRA SEÇÃO FIRMADO PELO RITO DO ART. 543-C DO CPC/73 (REsp 1.119.872/RJ).
+1. Incabível a aplicação dos dispositivos do CPC/2015 para aferir os pressupostos de admissibilidade do recurso ordinário, porquanto o acórdão recorrido foi publicado na vigência do CPC/73. Observância da diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+2. O Secretário de Estado de Fazenda não ostenta legitimidade para figurar no pólo passivo do mandado de segurança questionando a exigibilidade de tributos, no caso, ICMS. Precedentes: RMS 45.902/RJ, Rel. Ministro Og Fernandes, Segunda Turma, DJe 21/09/2016; AgInt no RMS 49.232/MS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 18/05/2016.
+3. "É incabível mandado de segurança que tem como pedido autônomo a declaração de inconstitucionalidade de norma, por se caracterizar mandado de segurança contra lei em tese" (Tema 430 dos Recursos Repetitivos).
+4. Agravo interno a que se nega provimento.
+(AgInt no RMS 36.682/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 26/09/2017, DJe 09/10/2017)
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. ICMS. PROTOCOLO CONFAZ 21/2011. GOVERNADOR DO ESTADO E SECRETÁRIO DE FAZENDA. ILEGITIMIDADE.
+1. Nos casos em que o mandado de segurança impugna a sistemática de recolhimento de ICMS implementada pelo Protocolo/CONFAZ n. 21/2011, esta Corte Superior tem decidido pacificamente pela ilegitimidade dos Governadores de Estado e dos Secretários da Fazenda, porquanto não são as autoridades encarregadas do lançamento do ICMS nem da fiscalização no seu regular recolhimento.
+2. Hipótese em que, constatada a ilegitimidade do Governador e do Secretário de Fazenda para figurarem como autoridades impetradas, cuja indicação implicou modificação da competência jurisdicional, deve ser denegado o writ.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no RMS 46.641/CE, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 01/12/2016, DJe 07/02/2017)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. MANDADO DE SEGURANÇA. ISENÇÃO TRIBUTÁRIA. IPVA E ICMS. ILEGITIMIDADE PASSIVA. SECRETÁRIO DA FAZENDA DO ESTADO DE MINAS GERAIS. TEORIA DA ENCAMPAÇÃO. INAPLICABILIDADE. RECURSO PROVIDO.
+1. É pacífico o entendimento no STJ de que, para que se considere encampado o ato da autoridade inferior, além de haver vínculo hierárquico, deve ser o órgão julgador competente para o julgamento, na via mandamental, de ambas as autoridades.
+2. Inaplicável, in casu, a Teoria da Encampação, pois, malgrado o Secretário de Estado da Fazenda ter defendido o mérito do ato atacado pelo mandamus, sua indicação como autoridade coatora modifica a regra de competência jurisdicional do Tribunal de Justiça.
+3. Recurso Especial provido, para extinguir o feito sem julgamento do mérito, tendo em vista o reconhecimento da ilegitimidade passiva.
+(REsp 1656756/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 25/04/2017, DJe 05/05/2017)
+TRIBUTÁRIO. ICMS. ILEGITIMIDADE PASSIVA DO SECRETÁRIO DE FAZENDA DO DISTRITO FEDERAL. COMPETÊNCIA DE LANÇAMENTO, FISCALIZAÇÃO E COBRANÇA ATRIBUÍDA PELA LEI ORGÂNICA DO DISTRITO FEDERAL À ADMINISTRAÇÃO TRIBUTÁRIA.
+1. Hipótese em que o Tribunal local consignou: "O Secretário de Estado de Fazenda do Distrito Federal não possui legitimidade para figura no pólo passivo de mandado de segurança que questiona lançamento, fiscalização ou arrecadação de tributos (LODF, art. 31 e Decreto 35.565/14, art. 201)" (fl. 105, e-STJ).
+ 2. O Secretário de Fazenda secunda o Governador na elaboração e implantação das políticas fiscais, o que não se confunde com lançamento e cobrança de ICMS. A rigor, a atividade de lançamento é privativa de fiscais de carreira, nos termos do art. 37, XXII, da CF. Não haveria como atribuir ao ocupante do cargo de Secretário de Estado as competências relativas à constituição do crédito e exigência do ICMS. Nesse sentido, cito: RMS 18.563/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 24.3.2009; AgRg no RMS 18.140/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 11.9.2009.
+3. Nos termos do art. 31 da Lei Orgânica do Distrito Federal, "à administração tributária incumbem as funções de lançamento, fiscalização e arrecadação dos tributos de competência do Distrito Federal e o julgamento administrativo dos processos fiscais, os quais serão exercidos, privativamente, por integrantes da carreira de auditoria tributária". A propósito: RMS 21.809/DF, Rel. Ministra Denise Arruda, Primeira Turma, DJe 15.12.2008.
+4. Recurso Ordinário não provido.
+(RMS 54.132/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/09/2017, DJe 13/09/2017)
+Isto posto, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, ambos do RISTJ, DOU PROVIMENTO ao Recurso Especial do ESTADO DO RIO DE JANEIRO, para extinguir o feito sem julgamento do mérito, tendo em vista o reconhecimento da ilegitimidade passiva.
+Publique-se e intimem-se.
