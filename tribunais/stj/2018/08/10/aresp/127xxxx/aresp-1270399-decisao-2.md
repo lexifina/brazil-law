@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo manifestado por Banco Santander (Brasil) S.A. após recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL. RELAÇÃO DE CONSUMO. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM REPARAÇÃO DE DANOS MORAIS. IMÓVEL. PROMESSA DE COMPRA E VENDA. QUITAÇÃO DO PREÇO. PRETENSÃO AUTORAL DE BAIXA DO GRAVAME. LEGITIMIDADE PASSIVA DA 2º RÉ. SOLIDARIEDADE. INTEGRANTES DO MESMO GRUPO ECONÔMICO. LEGITIMIDADE PASSIVA DO CREDOR HIPOTECÁRIO. ART. 47 DO CPC/1973. VERBETE SUMULAR N.º 308 DO STJ. TÍTULO EXECUTIVO APTO PARA A BAIXA DA HIPOTECA, NA FORMA DO ART. 267 DA LEI 6.015/73. PARCIAL PROVIMENTO DO RECURSO.
+Alegou, no especial, violação dos artigos 485, I, e 330, § 1º, I, do Código de Processo Civil sustentando sua ausência de legitimidade.
+Assim delimitada a controvérsia, passo a decidir.
+O recurso, todavia, não pode ser conhecido, porquanto interposto antes da decisão que negou seguimento a recurso especial.
+Diz-se isso porque a decisão que apreciou a admissibilidade do recurso especial foi proferida somente no dia 25 de julho de 2017 (e-STJ, fls. 659/662), enquanto o presente agravo foi interposto no dia 16 de novembro de 2016 (e-STJ, fls. 532/538), após a decisão que negou seguimento apenas ao recurso especial interposto por Luau do Recreio Empreendimenots Imobiliários SPE LTDA e PDG Realty S.A. (e-STJ, fls. 495/499), em 13 de outubro de 2016, tanto que certificada a preclusão para o agravo no dia 5 de setembro de 2017 (e-STJ, fl. 683).
+O presente agravou não impugnou, portanto, decisão alguma, porquanto não existia juízo negativo de admissibilidade do recurso especial ao tempo de sua interposição.
+Diante do exposto, não conheço do agravo. Tendo o julgado impugnado sido publicado já na vigência do novo diploma processual, majoro, sobre o seu próprio valor, em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, nos moldes do previsto pelo artigo 85, § 11, do atual Código de Processo Civil, limitado ao estabelecido nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
