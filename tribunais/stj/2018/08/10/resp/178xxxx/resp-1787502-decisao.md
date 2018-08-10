@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO Perícia promovida em microempresa dispensada da exigência de seguir um sistema de contabilidade com base na escrituração uniforme de seus livros Documentos que serviram de suporte ao trabalho desenvolvido pelo expert mostraram-se suficientes. Decisão mantida. Recurso improvido.
+Nas razões de recurso especial, alega a parte agravante violação dos artigos 333, I, e 535, II, do Código de Processo Civil de 1973, além de divergência jurisprudencial.
+Assim posta a questão, observo que o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido. Afasto, pois, a alegada violação do art. 535 do CPC.
+O recurso não poderia ser acolhido sem reexame de prova. A agravante afirma a necessidade de complementação da prova pericial, pois entende que os prejuízos constatados pela sentença liquidanda não estão evidenciados na documentação apresentada ao perito. A respeito dessa premissa fática, porém, confira-se o seguinte trecho do acórdão recorrido (e-STJ fl. 986):
+(..) os documentos que serviram de suporte à perícia se mostram suficientes, consoante , inclusive, foi manifestado pelo próprio expert.
+Não bastasse , a singela e improvada alegação da recorrente no sentido de que a agravada pudesse ter omitido maliciosamente a existência de uma terceira conta bancária pela qual receberia pagamentos de vendas de seus produtos não pode, por óbvio , ser levada em consideração, se não houver um mínimo de indício nesse sentido.
+Vale registrar, aliás, que uma prova nesse sentido poderia ter sido efetuada mediante uma consulta ao Banco Central, caso requerida pela recorrente com base em fundadas suspeitas da pretensa ocultação. De toda sorte, quedou-se ela silente e inerte, manifestando essa questão, sem qualquer lastro, somente agora.
+Não há como afastar essas conclusões em recurso especial, consoante dispõe a Súmula 7 do STJ.
+O dissídio jurisprudencial não ficou caracterizado, pois não destacadas as circunstâncias que assemelhassem os casos confrontados, o que, diante da incidência do enunciado citado, seria mesmo inviável.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
