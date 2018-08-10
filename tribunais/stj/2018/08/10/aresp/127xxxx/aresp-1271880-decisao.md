@@ -1,0 +1,47 @@
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. CRIME DE TRÂNSITO. EMBRIAGUEZ AO VOLANTE. DOSIMETRIA. CULPABILIDADE. FUNDAMENTO NÃO IMPUGNADO. INCIDÊNCIA ANALÓGICA DAS SÚMULAS 283 E 284 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg. Tribunal de Justiça do Estado de Goiás, assim ementado (fls. 281-282):
+"APELAÇÃO CRIMINAL. CRIME DE CIRCULAÇÃO. EMBRIAGUEZ AO VOLANTE. SENTENÇA CONDENATÓRIA. REDUÇÃO DE PENA. CIRCUNSTÂNCIAS JUDICIAIS. EXCLUSÃO DA PENA ACESSÓRIA. IMPOSSIBILIDADE.
+I - Revelado equívoco da sentenciante na ponderação negativa das circunstâncias judiciais do art. 59, do Código Penal Brasileiro, personalidade do processado, deve ser mitigada a base punitiva estabelecida, permanecendo acima do mínimo, quando desfavorável elementar de grandeza, a culpabilidade.
+II - No que diz respeito ao pleito de exclusão da pena acessória de proibição de obtenção de habilitação para dirigir veículos automotores, extrai-se da análise do dispositivo legal que a aplicação da referida pena decorre de imposição legal, não sendo facultado à julgadora a escolha sobre a sua aplicação ou não, sob pena de ofensa ao princípio da legalidade, razão pela qual o pedido não pode ser acolhido.
+APELO PARCIALMENTE PROVIDO. SENTENÇA REFORMADA, EM PARTE."
+Opostos embargos de declaração, estes foram rejeitados (fls. 299-305.
+Nas razões do recurso especial, a parte recorrente sustenta violação do art. 59, inciso II, do Código Penal, ao argumento de que não houve fundamentação idônea para fixação da pena-base acima do mínimo legal.
+Apresentadas as contrarrazões (fls. 325-327), sobreveio juízo negativo de admissibilidade fundado na incidência da Súmula 7/STJ (fls. 330-331).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários a sua admissão.
+O Ministério Público Federal opinou pelo conhecimento do agravo para não conhecer ou negar provimento ao recurso especial (fls. 362-365).
+É o relatório.
+Decido.
+Tendo em vista os argumentos expendidos pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+O Juízo singular condenou o agravante como incurso nas sanções do artigo 306, §1º, inciso I, c/c o art. 298, inciso III, da Lei n. 9.503/97, às penas de 1 ano e 3 meses de detenção, em regime aberto, e de 15 dias-multa.
+O eg. Tribunal de origem deu parcial provimento ao apelo defensivo, reduzindo as penas para 1 ano de detenção, no regime aberto e 13 dias-multa. A pena corporal foi substituída por restritiva de direito.
+Nas razões recursais, busca o insurgente o redimensionamento da pena.
+Para melhor delimitar a presente quaestio trago à baila os fundamentos lançados no v. acórdão vergastado, verbis (fls. 277-278, grifei):
+"Na revisitação das elementares do art. 59, do Código Penal Brasileiro, ao registro de desacerto na avaliação das circunstâncias judiciais, restando como desfavorável a culpabilidade, comporta abrandamento da sanção corpórea aplicada, impondo redução da pena-base para 01 (um) ano e 03 (três) meses de detenção, preservada a redução de 03 (três) meses de detenção, pela atenuante da confissão espontânea, de 03 (três) meses de detenção, pela atenuante da menoridade, mantido o aumento de 03 (três) meses de detenção, pela agravante prevista no art. 298, inciso III, do Código de Trânsito Brasileiro, concretizando sanção de 01 (um) ano de detenção, no regime inicial aberto, substituída por uma restritiva de direito, de prestação de serviço à comunidade, com especificação a cargo do Juízo da Execução Penal, e proporcionalmente pecuniária de 13 (treze) dias-multa, à razão de 1/30 (um trigésimo) do salário mínimo da época do fato."
+Trago à colação excerto do que ficou consignado no v. acórdão proferido em sede de embargos de declaração, verbis (fl. 302, grifei):
+"O acórdão atacado examinou a sanção corpórea, redimensionando a base punitiva, em razão da reavaliação da personalidade do processado, não fixada no mínimo legal, restando desfavorável a culpabilidade, preservada a redução pelas atenuantes da confissão espontânea e menoridade, mantido o aumento pela agravante do art. 298, inciso III, do Código de Trânsito, tornando-a definitiva, não renascendo incorreções a serem sanadas, ausente hipótese prevista pelo art. 619, do Código de Processo Penal, estando a pretensão na linha de rejulgamento do que já decidido, ao que não se prestam os embargos declaratórios."
+Esses fundamentos destacados, os quais, per se, sustentam o decisum impugnado, não foram especificamente atacados pelo insurgente, razão pela qual o recurso não pode ser conhecido, pela aplicação, por analogia, do Enunciado n. 283 da Súmula do c. Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido, cito os precedentes desta Corte:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MEDIDA CAUTELAR DE SEQUESTRO/ARRESTO. VIOLAÇÃO AO ART. 4º, CAPUT, DA LEI Nº 9.6113/98 E AO ART. 617 DO CÓDIGO DE PROCESSO PENAL. VIOLAÇÃO DO ART. 2º DO CPP E DO ART. 91, § 1º E 2º, DO CP. VIOLAÇÃO DO ART. 125 DO CÓDIGO DE PROCESSO PENAL. NEGATIVA DE VIGÊNCIA AO ART. 136 DO CÓDIGO DE PROCESSO PENAL. CONTRARIEDADE OU NEGATIVA DE VIGÊNCIA AO ART. 282, II, CÓDIGO DE PROCESSO PENAL. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. NÃO ABRANGÊNCIA DOS FUNDAMENTOS SUFICIENTES ENCAMPADOS NO RECURSO. SÚMULA N. 283/STF. RECURSO NÃO PROVIDO.
+ ..
+II - Não foram infirmados os fundamentos do acórdão, que, por si só, sustentam o decisum impugnado, razão pela qual, o recurso não pode ser conhecido, nos termos em que aduz a Súmula 283 do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Agravo regimental a que se nega provimento" (AgRg no REsp 1669112/RS, Quinta Turma, de minha relatoria, DJe 18/12/2017).
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO SUFICIENTE DA DECISÃO RECORRIDA. SÚMULA N. 283 DO STF. ROUBO TENTADO. DESCLASSIFICAÇÃO PARA LATROCÍNIO TENTADO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ.
+1. Em observância ao princípio da dialeticidade recursal, é dever do recorrente impugnar todos os fundamentos que sejam, por si sós, suficientes para manter a decisão recorrida, sob pena de incidência da Súmula 283 do STF.
+ ..
+3. Agravo regimental desprovido" (AgRg no REsp 1675268/MG, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 22/09/2017).
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE RESPONSABILIDADE. PREFEITA MUNICIPAL. FRAUDE À LICITAÇÃO. NULIDADE POR NÃO REALIZAÇÃO DE NOVO INTERROGATÓRIO APÓS A ALTERAÇÃO DO NOVO CPP. MOTIVAÇÃO SUFICIENTE. NÃO IMPUGNAÇÃO. SÚMULA 283/STF. PRINCÍPIO DA CONSUNÇÃO. BIS IN IDEM. SÚMULA 211/STJ. CRIMES DE FRAUDE À LICITAÇÃO E DESVIO DE VERBA PÚBLICA. SUBSUNÇÃO. INEXISTÊNCIA. ATIPICIDADE DO FATO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE PREQUESTIONAMENTO. INVIABILIDADE. IMPROVIMENTO.
+1. Tratando-se de motivação suficiente, por si só, para manter o acórdão recorrido, não tendo o recurso a ele abrangido, incide, por analogia, a Súmula n. 283 do STF, segundo a qual É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+ ..
+6. Agravo regimental improvido" (AgRg no AREsp 621.601/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 05/04/2018).
+É que, no puctum salliens, o v. acórdão recorrido utilizou como razão para fixar a pena-base acima do mínimo legal a circunstância judicial referente à culpabilidade do agente, conforme exposto nos trechos acima.
+Ora, o recorrente não se insurge especificamente contra tal motivação nas razões do apelo extremo - lastreando o reclamo apenas no fato em que o v. acórdão recorrido não fundamentou a decisão no que tange ao quantum aplicado -, o que evidencia a deficiência na fundamentação do recurso no ponto, atraindo, dessa forma, a Súmula 284/STF.
+A propósito:
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. RECURSO MANIFESTAMENTE INADMISSÍVEL. DEFICIÊNCIA DAS RAZOES RECURSAIS. SÚMULA 284/STF. AUTORIA E MATERIALIDADE. SUFICIÊNCIA PROBATÓRIA. REEXAME DE PROVA. SÚMULA 7/STJ. DOLO ESPECÍFICO. INEXIGÊNCIA. SUSPENSÃO DA AÇÃO NA PENDÊNCIA DE DISCUSSÃO JUDICIAL DO DÉBITO TRIBUTÁRIO. INDEPENDÊNCIA DAS ESFERAS. TERMO INICIAL DA PRESCRIÇÃO. CONSTITUIÇÃO DEFINITIVA DO CRÉDITO.
+ ..
+2. A ausência de indicação, especificamente em relação a cada tese ou questão, em que consistiria a alegada violação ou negativa de vigência da lei federal, inviabiliza a compreensão da controvérsia em face da deficiência da fundamentação do apelo raro, nos termos do enunciado nº 284 da Súmula do Supremo Tribunal Federal.
+ ..
+7. Agravo regimental desprovido" (AgRg no REsp 1504695/RS, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe 11/12/2015).
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, c, do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+P. e I.
