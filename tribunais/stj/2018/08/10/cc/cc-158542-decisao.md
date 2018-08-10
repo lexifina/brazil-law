@@ -1,0 +1,18 @@
+EMENTA
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA NEGATIVO. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE CONTRATUAL C/C COMPENSAÇÃO POR DANO MORAL. DIREITO DO CONSUMIDOR. ESCOLHA DO FORO PELO CONSUMIDOR. COMPETÊNCIA TERRITORIAL RELATIVA.
+1. O consumidor tem a possibilidade de escolher onde ajuizará sua ação, pois é uma faculdade pertencente somente àquela pessoa física ou jurídica destinatária final do bem ou serviço na relação de consumo.
+2. Nos termos da Súmula 33/STJ, "a incompetência relativa não pode ser declarada de ofício".
+3. Conflito conhecido para declarar competente o JUÍZO DE DIREITO DA VARA CÍVEL DE BARRACÃO - PR, suscitado.
+DECISÃO
+Cuida-se de conflito negativo de competência entre o JUÍZO DE DIREITO DA VARA ÚNICA DE DIONÍSIO CERQUEIRA - SC , suscitante, e o JUÍZO DE DIREITO DA VARA CÍVEL DE BARRACÃO - PR, suscitado.
+Ação: de declaratória de inexigibilidade contratual cumulada com compensação por dano moral proposta por [NOME] em face de ITAÚ UNIBANCO HOLDING S/A.
+Manifestação do Juízo suscitado: declinou de sua competência por entender que o foro competente é o Juízo da Vara de domicílio do autor, por se tratar de demanda consumerista.
+Manifestação do Juízo suscitante: suscitou o presente conflito negativo de competência, pois a competência territorial é relativa, não podendo ser reconhecida de ofício pelo juiz, aplicando-se a Súmula 33 do STJ.
+Parecer do MPF: da lavra do i. Subprocurador-Geral da República, Dr. [NOME], opinou pelo conhecimento do conflito, de modo a se declarar competente o Juízo suscitado.
+RELATADO O PROCESSO, DECIDO.
+Depreende-se das informações que a ação foi proposta pelo consumidor no foro de domicílio do Réu, sem que tenha sido argüída a incompetência relativa pela instituição bancária.
+Nos termos da Súmula 33/STJ, "a incompetência relativa não pode ser declarada de ofício".
+Ademais, a 2ª Seção do STJ, ao analisar hipótese semelhante à dos autos, manifestou o entendimento de que a possibilidade de escolha do foro onde o consumidor ajuizará sua ação é uma faculdade do próprio consumidor. Neste sentido, confira-se o seguinte precedente:
+"CONFLITO DE COMPETÊNCIA. EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO. EFEITOS MODIFICATIVOS. PREVIDÊNCIA PRIVADA. FUNCEF. [NOME]. RELAÇÃO DE CONSUMO. AJUIZAMENTO DA AÇÃO, SEM JUSTIFICATIVA, EM COMARCA QUE NÃO É DOMICÍLIO DA RÉ, FORO CONTRATUAL, LOCAL DO CUMPRIMENTO DA OBRIGAÇÃO OU DOMICÍLIO DAS AUTORAS. IMPOSSIBILIDADE. 1. Verificada a presença de contradição no julgamento, possível conferir efeitos infringentes aos embargos de declaração a fim de extirpar o vício. 2. Segundo entendimento desta Corte, nas ações propostas contra o consumidor, a competência pode ser declinada de ofício para o seu domicílio, em face do disposto no art. 101, inciso I, do CDC e no parágrafo único, do art. 112, do CPC. 3. Se a autoria do feito pertence ao consumidor, contudo, permite-se-lhe a escolha do foro de eleição contratual, considerando que a norma protetiva, concebida em seu benefício, não o obriga, quando optar por demandar fora do seu domicílio. 4. Não se admite, todavia, sem justificativa plausível, a escolha aleatória de foro que não seja nem o do domicílio do consumidor, nem o do réu, nem o de eleição e nem o do local de cumprimento da obrigação. 5. Embargos de declaração acolhidos com efeitos modificativos para conhecer do conflito, declarando competente a Justiça do Estado da Paraíba, anulada a sentença proferida pelo Juízo de Direito da 7ª Vara Cível do Foro Central de Porto Alegre, RS (EDcl no AgRg nos EDcl no CC 116.009/PB, 2ª Seção, DJe 20.4.2012).
+Forte nessas razões, CONHEÇO do conflito de competência, para determinar a competência do JUÍZO DE DIREITO DA VARA CÍVEL DE BARRACÃO - PR , suscitado.
+Publique-se. Intime-se. Oficiem-se.
