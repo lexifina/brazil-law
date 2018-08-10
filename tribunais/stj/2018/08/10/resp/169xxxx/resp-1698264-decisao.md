@@ -1,0 +1,10 @@
+DECISÃO
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ALEGAÇÃO DE COMPETÊNCIA DA JUSTIÇA ESTADUAL. FUNDAMENTAÇÃO DEFICIENTE. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. SÚMULA 284 DO STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. RECURSO A QUE SE NEGA PROVIMENTO.
+1. Trata-se de Recurso Especial interposto por [NOME], fundado na alínea c do art. 105, III da Constituição Federal, contra Acórdão do Tribunal de Justiça do Estado do Paraná.
+2. Em seu Apelo Especial, a parte recorrente, em parca fundamentação, aponta divergência jurisprudencial, objetivando o reconhecimento da competência da Justiça Estadual.
+3. É o breve relatório.
+4. Não é possível conhecer do Recurso Especial fundado no art. 105, III, alínea c da Constituição Federal, uma vez que o recorrente não indicou qual seria o dispositivo de Lei Federal de interpretação controvertida nos Tribunais, o que atrai a incidência do enunciado 284 da Súmula de jurisprudência do Supremo Tribunal Federal, por analogia.
+5. De qualquer forma, ainda quanto à alínea c, o sugerido dissídio jurisprudencial não foi analiticamente demonstrado. A interposição de Recurso Especial para o Superior Tribunal de Justiça requer o primoroso atendimento de requisitos constitucionais de alta definição jurídica; assim, a demonstração da chamada divergência pretoriana deve se dar de forma analítica e documentada, por meio do cotejo analítico, para se comprovar que a decisão recorrida está em desacordo com precedentes julgados de outros Tribunais, inclusive e especialmente deste STJ (art. 105, III, c da Carta Magna).
+6. Ocorre que, no caso, a análise da demonstração da divergência não veio manifestada de forma escorreita e precisa, exata e completa. Apresentou-se o paradigma apenas por sua ementa, sem que fosse feito o indispensável cotejo, com a conclusão de discrepância, fato que impede o conhecimento do recurso pela alínea c do permissivo constitucional (art. 1.029, § 1o. do CPC/2015).
+7. Ante o exposto, nega-se provimento ao Recurso Especial do particular.
+8. Publique-se. Intimações necessárias.
