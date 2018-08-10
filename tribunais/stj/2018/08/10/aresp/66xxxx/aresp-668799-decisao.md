@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. SENTENÇA E ACÓRDÃO RELATIVO AO RECURSO DE APELAÇÃO CÍVEL DETERMINANDO APURAÇÃO DO "QUANTUM" DEVIDO POR LIQUIDAÇÃO POR ARTIGOS. REFORMA DO ORDENAMENTO JURÍDICO PELA LEI 11.232/2005. REVOGAÇÃO DO ART. 608 DO CPC. CREDOR QUE PRETENDEU A EXIBIÇÃO DOS DOCUMENTOS EM PODER DO DEVEDOR PARA APURAÇÃO DO VALOR DA CONDENAÇÃO, FORTE NO ART. 475- B, §1º, CPC. AUSÊNCIA DE IMPUGNAÇÃO DO RECORRIDO ACERCA DO PROCEDIMENTO ADOTADO. DECISÃO RELATIVA AO AGRAVO DE INSTRUMENTO Nº. 439606-5, TRANSITADA EM JULGADO, VALIDANDO O PROCEDIMENTO ADOTADO PELO CREDOR. DECISÃO RECORRIDA, ANULANDO TODOS OS ATOS ATÉ ENTÃO PRATICADOS, POR INOBSERVÂNCIA DO PROCEDIMENTO DE LIQUIDAÇÃO POR ARTIGOS. DESCABIMENTO. PRINCÍPIOS DA EFETIVIDADE, DO APROVEITAMENTO DOS ATOS PROCESSUAIS, DA CELERIDADE. INTELIGÊNCIA DA SÚMULA 344 DO STJ. PROSSEGUIMENTO DO CUMPRIMENTO DE SENTENÇA COMO PROPOSTO, DECISÃO REFORMADA.
+RECURSO PROVIDO.
+Nas razões de recurso especial, alega a parte recorrente divergência jurisprudencial e violação dos artigos 475-B e 475-C do Código de Processo Civil de 1973.
+Assim posta a questão, observo que o recurso não poderia ser acolhido sem reexame de prova. O agravante afirma serem desnecessários documentos para fundamentar os cálculos na liquidação de sentença. A respeito dessa premissa fática, porém, confira-se o seguinte trecho do acórdão recorrido (e-STJ fl. 354):
+A adoção do art. 475-B, §1º do CPC pelos autores se fundou no fato de existirem dados em poder do réu, que seriam necessários a apuração do montante devido.
+Ressalta-se que o procedimento tal como iniciado pelos autores em abril de 2007 (fls. 124/126), não foi em nenhum momento impugnado pelo recorrido.
+Acrescenta-se que o acórdão relativo ao AI 439.606-5 convalidou o procedimento adotado pelos autores, inclusive, inserindo entendimento sumulado no STJ, Súmula 344, no seguinte sentido: "A liquidação por forma diversa da estabelecida na sentença não ofende a coisa julgada" (fls. 165/173), decisão esta transitada em julgado (fl. 182).
+Desse modo, não parece razoável anular todos os atos até então praticados quer pela aplicação dos princípios da economia processual, da celeridade, do aproveitamento dos atos processuais quer pela ausência de qualquer impugnação pelo recorrido e, ainda, pela já reconhecida necessidade de apresentação dos documentos por este e, inclusive, a possibilidade de apresentação destes, conforme exemplificado pelo acórdão relativo ao AI no. 439.606-5.
+Afastar essas conclusões é inviável em recurso especial, consoante dispõe a Súmula 7 do STJ.
+De todo modo, o acórdão recorrido está em consonância com a jurisprudência desta Corte consolidada na Súmula 344.
+Ademais, o fundamento de que a questão já foi apreciada em acórdão transitado em julgado não foi impugnado no recurso especial, o que faz aplicável ao caso também a Súmula 283 do STF.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
