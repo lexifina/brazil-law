@@ -1,0 +1,46 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL agrava de decisão que inadmitiu seu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça daquele estado (Recurso em Sentido Estrito n. 0069296-12.2017.8.21.7000).
+Nas razões do recurso especial, o Parquet sustenta violação dos arts. 121, § 2º, IV, do Código Penal e 74, § 1º e 413, caput, e § 1º, ambos do Código de Processo Penal, sob o argumento de que "é incontroverso que a vítima era pai da ré e não tinha um braço, não havendo prova escorreita de que ele tivesse motivos para esperar o ataque de parte da própria filha.  ..  Nesse contexto, é plausível que o homicídio tenha ocorrido mediante recurso que dificultou a defesa da vítima" (fls. 497-498).
+Requer seja restabelecida a incidência da qualificadora do recurso que dificultou a defesa do ofendido na decisão de pronúncia.
+O recurso especial foi inadmitido no juízo prévio de admissibilidade realizado pelo Tribunal local, pela incidência da Súmula n. 7 do STJ, o que ensejou a interposição deste agravo.
+O agravante alega que "a hipótese retratada não necessita de incursão nos elementos de prova colhidos no feito, uma vez que a decisão guerreada traz, em seu bojo, todos os dados necessários à compreensão da inconformidade e análise da fundamentação" (fl. 550).
+O Ministério Público Federal opinou, às fls. 577-585, pelo não provimento do agravo em recurso especial.
+Decido.
+I. Admissibilidade do agravo em recurso especial
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, razões pelas quais comporta conhecimento.
+II. Admissibilidade do recurso especial
+O recurso especial, por sua vez, é tempestivo, mas não preenche os requisitos constitucionais, legais e regimentais para o seu processamento, porquanto, para que a matéria seja conhecida, há necessidade de análise do contexto fático-probatório dos autos, providência obstada pela Súmula n. 7 do STJ, motivo pelo qual a decisão agravada deve ser mantida.
+III. Violações alegadas
+A Constituição Federal conferiu ao Tribunal do Júri a competência para julgar crimes dolosos contra a vida e assegurou-lhe a soberania dos veredictos.
+É cediço, ainda, que a decisão de pronúncia consubstancia um mero juízo de admissibilidade da acusação, razão pela qual basta que o juiz esteja convencido da materialidade do delito e da existência de indícios suficientes de autoria ou de participação para que o acusado seja pronunciado, consoante o disposto no art. 413 do Código de Processo Penal.
+A decisão que submete o acusado a julgamento perante o Conselho de Sentença deve ser fundamentada não apenas em relação à materialidade do fato e aos indícios suficientes de autoria ou de participação, mas também no que se refere às qualificadoras, haja vista o disposto no art. 93, IX, da Constituição Federal. Vale dizer, embora a decisão de pronúncia deva ser comedida na apreciação das provas, é preciso que contenha uma fundamentação mínima para o reconhecimento de qualificadoras, enquanto o juízo de valor acerca da sua efetiva ocorrência será apreciado pelo Conselho de Sentença.
+Ademais, também é entendimento dominante nesta Corte Superior de Justiça que "somente é cabível a exclusão das qualificadoras, na decisão de pronúncia, quando manifestamente improcedentes, uma vez que cabe ao Tribunal do Júri, diante dos fatos narrados na denúncia e colhidos durante a instrução probatória, a emissão de juízo de valor acerca da conduta praticada pelo réu" (AgRg no AREsp n. 813.200/DF, Rel. Ministro Rogerio Schietti, 6ª T., DJe 6/6/2016, destaquei).
+Assim, "ausente qualquer fundamentação idônea para o afastamento das qualificadoras e havendo pertinência entre as referidas qualificadoras e as provas dos autos, cabe ao Conselho de Sentença a tarefa de analisá-las" (REsp n. 1.095.226/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 18/4/2016).
+No presente caso, a agravada foi pronunciada como incursa no art. 121, § 2º, III (meio cruel) e IV (recurso que dificultou a defesa da vítima), c/c o § 4º (segunda parte) do Código Penal, com incidência da Lei n. 8.072/1990. Relativamente à segunda qualificadora, o Magistrado de primeiro grau assentou: "exsurgem elementos documentais e testemunhais a evidenciar que as agressões ocorreram em ambiente familiar, em situação de fragilidade física da vítima, apontados como recurso que dificultou a defesa da vítima" (fl. 420, grifei).
+Inconformada, a defesa interpôs recurso em sentido estrito, que foi parcialmente provido pelo Tribunal a quo, para afastar da pronúncia a qualificadora do inciso IV do § 2º do art. 121 do Código Penal. Na ocasião, sobre o assunto destes autos, assim se pronunciou a referida Corte (fls. 484-485):
+Por outro lado, a qualificadora do inciso IV do § 2º do art. 121 do CP deve ser afastada.
+Veja-se a descrição contida na denúncia:
+O crime foi cometido mediante recurso que dificultou a defesa da vítima, pois a acusada, prevalecendo-se de uma relação familiar e da ausência/amputação do braço esquerdo do ofendido, efetuou, de inopino, os golpes de faca.
+Obviamente, a deficiência física da vítima e a relação familiar entre essa e a acusada não caracterizam um recurso empregado pela ré, sendo inviável falar que serviriam à configuração da qualificadora que, sabidamente, refere-se ao modo de execução do crime.
+Nesse passo, independentemente das condições circunstanciais mencionadas, é o ataque "de inopino" que serve, aqui, como modus operandi qualificado - além de ser algo efetivamente empregado pelo executor (um modo de execução propriamente dito), ajusta-se à ideia de insídia que é absolutamente necessária à elementar, assemelhando-se às hipóteses de dissimulação, traição e emboscada.
+Ocorre, porém, que não há um só indício de que o ataque da vítima tenha sido inopinado.
+Com efeito, absolutamente ninguém presenciou o ocorrido, de modo que a única pessoa que fala sobre o momento do crime é a própria ré, que alega legítima defesa.
+Afora isso, há apenas o laudo de levantamento do local do fato, o qual sugere claramente a ocorrência de embate físico, antes e após os golpes, no seguinte sentido (grifo meu):
+A análise das manchas de sangue denota que a vítima tenha entrado em luta corporal contra seu(s) agressor(es). Vestígios deixados pelas manchas (impregnação e contato) sugerem que o embate teve continuidade mesmo depois de produzido ferimento(s) na vítima.
+Assim, considerando que nada sugere um ataque repentino, para dizer-se que a ré agiu "de inopino" restariam, única e exclusivamente, os laços familiares entre ela e o ofendido, bem como a deficiência física deste último - algo que, como já dito, não pode sustentar sozinho a imputação, por não indicar um modus operandi insidioso e criado pela acusada.
+Desse modo, a improcedência da qualificadora é manifesta, devendo ser de pronto extirpada da pronúncia.
+Pelos trechos transcritos, observo que a Corte estadual demonstrou haver prova no processo, notadamente o laudo de levantamento do local do fato, a evidenciar "a ocorrência de embate físico antes e após os golpes" (fl. 485, grifei), e concluiu "que nada sugere um ataque repentino" (fl. 485, destaquei). Dessa forma, o referido Tribunal, com base no contexto probatório, afastou a qualificadora do recurso que dificultou a defesa do ofendido da pronúncia, por entender ser ela manifestamente improcedente, visto não haver nenhuma evidência de que a vítima foi tomada de surpresa.
+Sobre o assunto, colaciono recente julgado da Sexta Turma desta Corte:
+ ..
+3. Para configurar a qualificadora referente ao recurso que dificulte a defesa da vítima, a surpresa é o fator diferencial que se deve buscar. No caso, as instâncias ordinárias não indicam elemento algum que informe a existência do elemento surpresa, razão pela qual deve ser mantida a decisão que afastou a qualificadora referente ao recurso que dificultou a defesa do ofendido.
+4. Recurso especial improvido. (REsp n. 1.713.312/RS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 3/4/2018, grifei)
+Assim, considerando o contexto fático-probatório apresentado pelo Tribunal estadual, averiguar se o ataque à vítima ocorreu de inopino, de modo a dificultar sua defesa, demandaria o reexame das provas dos autos, prática obstada pela Súmula n. 7 desta Casa.
+Nesse sentido:
+ ..
+1. É firme o entendimento desta Corte de que a exclusão de qualificadoras da pronúncia, quando manifestamente improcedentes, não constitui usurpação da competência do Tribunal do Júri.
+2. Na hipótese, o Tribunal a quo justificou devidamente a exclusão da qualificadora de emprego de recurso que impossibilitou a defesa da vítima, por ser manifestamente improcedente, pois destituída de amparo nos elementos cognitivos dos autos.
+3. A revisão do conjunto fático-probatório assentado no acórdão para concluir de forma diversa, incluindo-se na pronúncia a qualificadora mencionada, é vedada em recurso especial, nos termos da Súmula 7 do STJ.
+4. Agravo regimental improvido. (AgRg no REsp n. 1.643.923/RS, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 23/4/2018, destaquei)
+IV. Dispositivo
+À vista do exposto, conheço do agravo para, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, não conhecer do recurso especial.
+Publique-se e intimem-se.
