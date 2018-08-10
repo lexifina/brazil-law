@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AÇÃO DECLARATÓRIA DE NULIDADE CONTRATUAL CUMULADA COM REPARAÇÃO CIVIL POR DANOS MATERIAIS. JULGAMENTO À REVELIA. RECURSO QUE IMPUGNA EXCLUSIVAMENTE A VALIDADE DA CITAÇÃO FICTA, NA MODALIDADE HORA CERTA. PREENCHIMENTO DOS REQUISITOS ESSENCIAIS À VALIDADE DO ATO. ARTIGOS 252 E 253, NCPC. PEDIDO, EM CONTRARRAZÕES, DE CONDENAÇÃO POR LITIGÂNCIA DE MÁ-FÉ. NÃO PREENCHIMENTO DOS REQUISITOS DO ARTIGO 80, NCPC. MEDIDA INCABÍVEL. HONORÁRIOS RECURSAIS ARBITRADOS. RECURSO IMPROVIDO.
+Alegou-se, no especial, violação dos artigos 252 e 253 do Código de Processo Civil ao argumento de que a citação foi viciada.
+Assim delimitada a controvérsia, passo a decidir.
+A agravante afirma "residir em Guarujá e seu endereço de trabalho não ser na Prefeitura de Guarulhos, desconhecendo a pessoa [NOME] (fls. 77/79, fls. 80/103 e fls. 116/128), ressaltando-se que a recorrente é permissionária da referida Prefeitura, não configurando como seu local de trabalho e, sim, o terminal Vila Galvão" (e-STJ, fl. 147).
+O Tribunal local, por outra via, concluiu que "o ato foi devidamente cumprido, na modalidade citação ficta por hora certa, conforme certidão exarada pelo Oficial de Justiça e juntada a fls. 71. Observa-se que foram preenchidos os requisitos insculpidos nos arts. 252 e 253, NCPC, e a citação foi realizada na figura de [NOME], vizinho e síndico do prédio onde reside a apelante" (e-STJ, fl. 135).
+Inequívoco, portanto, que o reexame da causa esbarra nas disposições do verbete n. 7 da Súmula desta Casa.
+Diante do exposto, nego provimento ao agravo. Tendo o julgado impugnado sido publicado já na vigência do novo diploma processual, majoro, sobre o seu próprio valor, em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, nos moldes do previsto pelo artigo 85, § 11, do atual Código de Processo Civil, limitado ao estabelecido nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
