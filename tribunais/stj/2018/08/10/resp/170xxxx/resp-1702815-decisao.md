@@ -1,0 +1,79 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] e outros, com arrimo no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"EMBARGOS À EXECUÇÃO - HONORÁRIOS ADVOCATÍCIOS - NULIDADE DA SENTENÇA - INOCORRÊNCIA - JULGAMENTO ULTRA PETITA NÃO OCORRIDO - OBRIGAÇÃO INDIVISÍVEL - EXCESSO DE EXECUÇÃO - APLICABILIDADE DO ART. 940 DO CC - INAPLICABILIDADE DOS JUROS DE MORA CAPITALIZADOS - VERBA SUCUMBENCIAL - TERMO INICIAL DOS JUROS DE MORA - REDUÇÃO DOS HONORÁRIOS ADVOCATÍCIOS
+- Não há que se falar em contradição e omissão para o fim de se reconhecer a nulidade da sentença, vez que os vícios apontados se referem, em verdade, a forma pela qual se deu a análise (valoração) do conjunto probatório acostado aos autos;
+- Afasta-se a tese de julgamento ultra petita, pois não houve modificação da forma de cômputo dos juros moratórios e de correção monetária, mas tão somente a aplicação do índice de reajuste contratualmente previsto;
+- Por se tratar de obrigação indivisível, possível que o cumprimento desta (pagamento dos honorários mensais) seja exigido de qualquer das contratantes, razão pela qual não há qualquer impedimento para o manejo da demanda exclusivamente em relação à embargante.
+- Tratando-se de pedido incompatível com a via eleita e não de excesso de execução, imperioso afastar o excesso de execução quanto às quantias ilíquidas. Por outro lado, há excesso de execução com relação ao montante cobrado a título de honorários fixos mensais, visto que os embargados fizeram constar nas suas planilhas de débito valores superiores ao efetivamente devido.
+- Corolário lógico do excesso de execução é a aplicação da pena prevista no art. 940 do Código Civil, já que foi manejada demanda buscando o recebimento de quantia superior aquela efetivamente devida, não se exigindo, para tanto, prova da má-fé dos embargados.
+- Inexistindo requerimento acerca da aplicação dos juros de mora na forma capitalizada e, não havendo previsão contratual e até mesmo legal para tanto, principalmente por não se tratar de contrato bancário, reforma-se a sentença para o fim de determinar que os juros de mora de 1% ao mês sejam computados de forma simples.
+- Mantém-se a verba sucumbencial, vez que os embargados de fato sucumbiram, tanto em virtude do reconhecimento da carência de ação (inadequação a via eleita em relação aos honorários de êxito e reembolso de despesas), quanto em decorrência excesso de execução (cobrança a maior dos honorários advocatícios fixos mensais), ressaltando-se que os juros de mora desta condenação incidirão após o transcurso do prazo para pagamento espontâneo do débito.
+- Independentemente do proveito econômico que a atuação do patrono possa ter acarretado ao seu cliente, o que deve ser considerando para fim de fixação dos honorários advocatícios é a efetiva atuação do profissional.
+- Sendo clara a pequena complexidade da causa (embargos à execução - excesso de execução), impõe-se a redução dos honorários advocatícios fixados por equidade em R$ 29.454,00, para R$ 10.000,00 (dez mil reais), pois se mostra referida quantia condizente com o trabalho desempenhado pelo patrono da embargante, sem se olvidar do cuidado e zelo dispensado pelo profissional.
+RECURSOS DA EMBARGANTE E DOS EMBARGADOS PROVIDOS EM PARTE" (e-STJ fls. 2.272-2.273).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 2.293-2.296).
+Em suas razões (e-STJ fls. 2.299-2.325), os recorrentes apontam, além de divergência jurisprudencial, violação dos seguintes dispositivos com as respectivas teses: (i) artigos 128, 300 e 460 do Código de Processo Civil de 1973 - o acórdão recorrido teria incorrido em vício por julgamento ultra petita; (ii) artigo 940 do Código Civil - a sanção imposta pelo referido dispositivo legal depende da prova da má-fé do credor; e (iii) artigo 20, §1º e §4º, do Código de Processo Civil de 1973 - os ônus da sucumbência devem ser suportados pelo devedor.
+Com as contrarrazões (e-STJ fls. 2.483-2.526), e admitido o recurso na origem (e-STJ fls. 2.530-2.532), subiram os autos a esta colenda Corte.
+O pedido de tutela provisória foi indeferido às fls. 2.552-2.553 (e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação merece prosperar em parte.
+No tocante ao conteúdo normativo dos artigos 128, 300 e 460 do Código de Processo Civil de 1973, não foi debatido no acórdão recorrido, apesar da oposição de embargos de declaração.
+Desatendido, portanto, o requisito do prequestionamento, nos termos da Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+A respeito:
+"AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL. EXECUÇÃO. PRINCÍPIO DA MENOR ONEROSIDADE. INTERESSE DO CREDOR. PREQUESTIONAMENTO. SÚMULA 211/STJ. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1.- O princípio da menor onerosidade ao devedor deve estar em harmonia com o interesse do credor.
+2.- O prequestionamento, entendido como a necessidade de o tema objeto do recurso haver sido examinado pela decisão atacada, constitui exigência inafastável da própria previsão constitucional, ao tratar do recurso especial, impondo-se como um dos principais requisitos ao seu conhecimento. Não examinada a matéria objeto do especial pela instância a quo, mesmo com a oposição dos embargos de declaração, incide o enunciado 211 da Súmula do Superior Tribunal de Justiça.
+3.- A verificação da afronta ao princípio da menor onerosidade do devedor, insculpido no artigo 620 do Código de Processo Civil, esbarra no óbice da Súmula 7 deste Tribunal.
+4.- Agravo Regimental improvido".
+(AgRg no AREsp 158.707/SP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 22/05/2012, DJe 05/06/2012 - grifou-se)
+"AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AÇÃO RESCISÓRIA. VIOLAÇÃO À COISA JULGADA. VERIFICAÇÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Carece do necessário prequestionamento a matéria não debatida pelo Tribunal de origem, ainda que opostos embargos de declaração.
+Incidência da súmula 211/STJ.
+2. A alteração das conclusões do aresto impugnado, no tocante à suposta ofensa à coisa julgada e consequente pertinência do pleito rescisório, demanda o reexame das provas constantes dos autos, providência vedada em sede especial, a teor da súmula 07/STJ.
+3. AGRAVO REGIMENTAL DESPROVIDO".
+(AgRg no Ag 1.327.008/GO, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 15/03/2012, DJe 21/03/2012 - grifou-se)
+O eventual conhecimento do recurso especial no tocante à alegada violação do artigo 20, §1º e §4º, do Código de Processo Civil de 1973, demandaria o reexame das premissas de fato que levaram as instâncias ordinárias a concluir pela configuração de sucumbência mínima da parte embargante, o que, como se sabe, é interditado a esta Corte Superior na via especial.
+Nesse sentido:
+"PROCESSO CIVIL, ADMINISTRATIVO E CIVIL. RECURSO ESPECIAL.
+SUCUMBÊNCIA RECÍPROCA. REEXAME. SÚMULA N. 7 DESTA CORTE. REPETIÇÃO DE INDÉBITO. TARIFA DE ENERGIA ELÉTRICA. DEVOLUÇÃO. CORREÇÃO MONETÁRIA. TERMO INICIAL. DATA DO PAGAMENTO INDEVIDO.
+(..)
+2. Quanto à sustentada violação ao art. 21 do CPC, descabe, nesta instância, revolver o conjunto fático-probatório dos autos e confrontar a premissa fática estabelecida pela Corte de origem, para redefinir a gradação da sucumbência recíproca estabelecida na instância ordinária. É caso, pois, de invocar as razões da Súmula n. 7 desta Corte. Precedentes.
+(..)
+4. Recurso especial parcialmente conhecido e, nesta parte, não provido".
+(REsp 1.244.684/MS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 26/04/2011, DJe 05/05/2011).
+"PROCESSO CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. PREQUESTIONAMENTO. FUNDAMENTO NÃO ATACADO. CONSUMIDOR. CARACTERIZAÇÃO DA RELAÇÃO DE CONSUMO. SUCUMBÊNCIA MÍNIMA.
+(..)
+VII - No que concerne à alegada ofensa do artigo 21 do Código de Processo Civil, observa-se que o Tribunal de origem ratificou sentença que havia condenado a recorrente à integralidade dos ônus sucumbenciais por identificar hipótese de sucumbência mínima. A pretensão recursal de que sejam repartidos os referidos encargos esbarra, portanto, na Súmula 7 desta Corte. Precedentes.
+Recurso Especial improvido".
+(REsp 956.695/RS, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 15/12/2009, DJe 18/12/2009).
+Por fim, quanto à apontada ofensa ao artigo 940 do Código Civil, a jurisprudência desta Corte encontra-se consolidada no mesmo rumo da tese defendida nas razões do especial, no sentido de que a imposição das sanções previstas no referido dispositivo legal dependem da prova da má-fé do credor, consoante se observa dos seguintes precedentes:
+"RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PROPOSITURA APÓS JULGAMENTO DE AÇÃO REVISIONAL E DE CONSIGNAÇÃO EM PAGAMENTO. DEPÓSITO DE QUANTIA INCONTROVERSA. VALORES NÃO RESSALVADOS. CONDUTA MALICIOSA DO EXEQUENTE. MÁ-FÉ EVIDENTE. PAGAMENTO EM DOBRO. APLICAÇÃO DO ART. 940 DO CC/02.
+1. Na esteira da jurisprudência consolidada do STJ, a incidência da sanção prevista no art. 940 do CC/02 depende da demonstração concreta de má-fé do exequente.
+2. O mero ajuizamento de ação revisional não impede que o credor promova a execução lastreada no título extrajudicial sub judice. Precedentes.
+3. No caso, o Tribunal de origem reconheceu que o exequente demandou o valor do título após o julgamento de mérito da demanda revisional, deixando de informar acerca de sua existência, bem como omitindo-se quanto ao valor incontroverso depositado judicialmente e colocado à sua disposição em virtude da prévia demanda de consignação em pagamento. À evidência da conduta maliciosa, configura-se a má-fé, impondo-se o pagamento em dobro da quantia não ressalvada.
+4. Recurso especial parcialmente provido".
+(REsp 1.529.545/PE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 01/12/2016, DJe 19/12/2016 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC. ARTIGO 940 DO CC/2002. MÁ-FÉ DO CREDOR. NECESSIDADE DE DEMONSTRAÇÃO. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC quando o acórdão recorrido analisou todas as questões pertinentes para a solução da lide, pronunciando-se, de forma clara e suficiente, sobre a controvérsia estabelecida nos autos.
+2. Consoante a jurisprudência desta Segunda Seção, firmada no julgamento do REsp repetitivo n. 1.111.270/PR, DJe 16/2/2016, de relatoria do eminente Ministro MARCO BUZZI, "a aplicação da sanção civil do pagamento em dobro por cobrança judicial de dívida já adimplida (cominação encartada no artigo 1.531 do Código Civil de 1916, reproduzida no artigo 940 do Código Civil de 2002) pode ser postulada pelo réu na própria defesa, independendo da propositura de ação autônoma ou do manejo de reconvenção, sendo imprescindível a demonstração de má-fé do credor".
+3. Agravo regimental a que se nega provimento".
+(AgRg nos EDcl no AREsp 694.153/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/03/2016, DJe 30/03/2016 - grifou-se)
+A propósito, vale colacionar ainda o seguinte precedente da Segunda Seção exarado sob a sistemática dos recursos repetitivos:
+"RECURSOS ESPECIAIS - DEMANDA POSTULANDO A DECLARAÇÃO DE INCIDÊNCIA DE CORREÇÃO MONETÁRIA SOBRE AS PARCELAS PAGAS A CONSÓRCIO E A RESPECTIVA RESTITUIÇÃO DOS VALORES - ACÓRDÃO ESTADUAL QUE CONSIDEROU INCIDENTES JUROS DE MORA, SOBRE OS VALORES REMANESCENTES A SEREM DEVOLVIDOS AOS AUTORES, DESDE O 31º DIA APÓS O ENCERRAMENTO DO GRUPO CONSORCIAL, BEM COMO APLICOU A SANÇÃO PREVISTA NO ARTIGO 1.531 DO CÓDIGO CIVIL DE 1916 (ATUAL ARTIGO 940 DO CÓDIGO CIVIL DE 2002) EM DETRIMENTO DO DEMANDANTE QUE NÃO RESSALVARA OS VALORES RECEBIDOS.
+1. Insurgência dos consorciados excluídos do grupo.
+1.1. Controvérsia submetida ao rito dos recursos repetitivos (artigo 543-C do CPC): A aplicação da sanção civil do pagamento em dobro por cobrança judicial de dívida já adimplida (cominação encartada no artigo 1.531 do Código Civil de 1916, reproduzida no artigo 940 do Código Civil de 2002) pode ser postulada pelo réu na própria defesa, independendo da propositura de ação autônoma ou do manejo de reconvenção, sendo imprescindível a demonstração de má-fé do credor.
+1.2. Questão remanescente. Apesar do artigo 1.531 do Código Civil de 1916 não fazer menção à demonstração da má-fé do demandante, é certo que a jurisprudência desta Corte, na linha da exegese cristalizada na Súmula 159/STF, reclama a constatação da prática de conduta maliciosa ou reveladora do perfil de deslealdade do credor para fins de aplicação da sanção civil em debate. Tal orientação explica-se à luz da concepção subjetiva do abuso do direito adotada pelo Codex revogado. Precedentes.
+1.3. Caso concreto.
+1.3.1. A Corte estadual considerou evidente a má-fé de um dos autores (à luz das circunstâncias fáticas constantes dos autos), aplicando-lhe a referida sanção civil e pugnando pela prescindibilidade de ação autônoma ou reconvenção.
+1.3.2. Consonância entre o acórdão recorrido e a jurisprudência desta Corte acerca da via processual adequada para pleitear a incidência da sanção civil em debate. Ademais, para suplantar a cognição acerca da existência de má-fé do autor especificado, revelar-se-ia necessária a incursão no acervo fático-probatório dos autos, providência inviável no âmbito do julgamento de recurso especial, ante o óbice da Súmula 7/STJ.
+2. Irresignação da administradora do consórcio.
+2.1. Voto vencedor (e. Ministro Luis Felipe Salomão). Nos termos da jurisprudência da Segunda Seção, firmada no bojo de recurso especial representativo da controvérsia (artigo 543-C do CPC), a administradora do consórcio tem até trinta dias, a contar do prazo previsto contratualmente para o encerramento do grupo, para devolver os valores vertidos pelo consorciado desistente ou excluído (REsp 1.119.300/RS, Rel. Ministro Luis Felipe Salomão, Segunda Seção, julgado em 14.04.2010, DJe 27.08.2010). Nessa perspectiva, o transcurso do aludido lapso temporal, sem a ocorrência da restituição efetivamente devida, implica a incidência de juros moratórios a partir do trigésimo primeiro dia do encerramento do grupo consorcial. Orientação aplicável inclusive aos casos em que o ajuizamento da demanda ocorre após a liquidação do consórcio.
+2.2. Voto vencido do relator. À luz das peculiaridades do caso concreto - ação ressarcitória ajuizada após o encerramento do grupo consorcial; inexistência de estipulação de termo certo no contrato de adesão; e incidência de previsão normativa, vigente à época, acerca da necessária iniciativa do credor para o recebimento do pagamento (o que caracteriza a dívida como quesível) - afigurar-se-ia cabida a adoção da exegese acerca da incidência dos juros de mora a partir da citação - momento em que ocorrida a obrigatória interpelação do devedor.
+3. Recursos especiais desprovidos. Vencido o relator na parte em que dava provimento ao apelo extremo da administradora do consórcio, a fim de determinar a incidência dos juros de mora a partir da citação".
+(REsp 1.111.270/PR, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 25/11/2015, DJe 16/02/2016 - grifou-se)
+No caso dos autos, não estando evidenciada a má-fé do exequente, deve ser afastada a sanção imposta na origem.
+Ante o exposto, conheço parcialmente do recurso especial e dou-lhe provimento apenas para afastar a sanção imposta pelo Tribunal local com fundamento no artigo 940 do Código Civil.
+Publique-se.
+Intimem-se.
