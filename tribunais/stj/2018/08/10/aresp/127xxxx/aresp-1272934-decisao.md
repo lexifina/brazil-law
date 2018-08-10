@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO DO BRASIL S.A. contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO POR QUANTIA CERTA. DECISÃO QUE, EM EMBARGOS DE DECLARAÇÃO, CONDENA O BANCO/EXEQUENTE AO PAGAMENTO DE VERBA HONORÁRIA ADVOCATÍCIA SUCUMBENCIAL. INSURGÊNCIA DO AGENTE FINANCEIRO. INTERPOSIÇÃO DE DOIS AGRAVOS DE INSTRUMENTO CONTRA A MESMA DECISÃO. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. NÃO CONHECIMENTO DO SEGUNDO RECURSO. INTERLOCUTÓRIA QUE ACOLHE EXCEÇÃO DE PRÉ-EXECUTIVIDADE E, POSTERIORMENTE, INTEGRA-SE À DECISÃO DOS EMBARGOS DE DECLARAÇÃO. DECISUM ÚNICO, ATACÁVEL POR MEIO DE UM AGRAVO DE INSTRUMENTO APENAS.
+"As duas decisões devem ser somadas, "perfazendo-se uma só, justamente porque os embargos têm, como se viu, aquele efeito de integrar ou complementar o julgado anterior" (DIDIER, Fredie Jr; CUNHA, Leonardo José Carneiro da. Curso de direito processual civil: meios de impuqnação às decisões judiciais e processo nos tribunais. 3 v. 9 ed. Salvador: Jus Podivm, 2011. p. 202). Assim, conclui-se que caberia apenas um Agravo de Instrumento para atacar a sentença que resolveu a Impuqnação ao Cumprimento de Sentença e, após, decidiu os Embargos de Declaração opostos contra este decisum. haia vista se tratar de apenas uma única decisão.
+A interposição de dois recursos pelos Agravantes contra uma única decisão, sem sombra de dúvidas, viola o princípio da unicidade, unirrecorribilidade ou singularidade, o qual dita que "não é possível a utilização simultânea de dois recursos contra a mesma decisão; para cada caso, há um recurso adequado e somente um". Ressalvadas as exceções (recurso extraordinário e especial que podem ser interpostos contra um único acórdão, p. e.), "a interposição de mais de um recurso contra uma decisão implica inadmissibilidade do recurso interposto por último. Trata-se de regra implícita no sistema (ob. cit., p.46). É vedada a divisão da decisão para se manejar recursos distintos contra seus capítulos" (Agravo (§ 1o art. 557 do CPC) em Agravo de Instrumento n. 2013.030693-3/0001.00, de Itajaí, rei. Des. Subst. [NOME], j. 5-9-2013, grifos no original).
+RECURSO NÃO CONHECIDO." (e-STJ fls. 354-355).
+Opostos embargos declaratórios, foram eles rejeitados (e-STJ fl. 377).
+No especial, o recorrente alega violação dos artigos 5º, LV, da Constituição Federal; 10 e 1.023, § 2, do Código de Processo Civil de 2015.
+Postula, em síntese, a reforma do acórdão recorrido ao argumento de que houve negativa de prestação jurisdicional, pois não foi dada oportunidade à recorrente de se manifestar contra as alegações dos recorridos, ocorrendo flagrante desrespeito ao contraditório e à ampla defesa.
+Sem as contrarrazões e inadmitido o recurso, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Acórdão impugnado pelo presente recurso especial publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O agravo não comporta conhecimento.
+Isso porque não houve impugnação específica dos fundamentos da decisão agravada, atraindo, portanto, a aplicação do disposto no art. 932, III, do CPC/2015, que faculta ao relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+No caso, o agravante não refutou a incidência do óbice da impossibilidade de análise de dispositivos constitucionais, apenas reafirmou as razões do recurso especial.
+É pacífico o entendimento desta Corte no sentido de que a agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DE INADMISSÃO DO RECURSO ESPECIAL.
+1. A teor do disposto no art. 544, § 4º, I, do Código de Processo Civil, o agravante deve infirmar especificamente todos os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. No caso dos autos, embora a decisão de inadmissão do recurso especial seja genérica e padronizada, o agravante não a infirma, limitando-se a sustentar a tese de que o Tribunal de origem não tem competência para emitir pronunciamento sobre o mérito da pretensão recursal.
+3. Agravo regimental desprovido" (AgRg no AREsp 87.335/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 08/03/2016, DJe 29/03/2016).
+Ante o exposto, não conheço do agravo em recurso especial.
+Havendo prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 15% do valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, ressalvada a eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
