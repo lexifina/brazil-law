@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME], desafiando decisão que não admitiu recurso especial, este fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO - Interposição contra decisão que acolheu parcialmente impugnação. Controvérsia das partes a respeito do montante a ser liquidado. Determinação de realização de perícia contábil. Forma de cálculo corretamente estipulada pela Magistrada.
+Decisão mantida.
+Agravo de Instrumento não provido." (e-STJ, fl. 198)
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a ora agravante aponta ofensa ao artigo 406 do Código Civil. Aponta divergência jurisprudencial, no sentido de que o cálculo da indenização deve observar o valor do salário mínimo vigente na data do cumprimento de sentença (2006), e não a variação desde a data do acidente, em abril de 1990 até abril de 2006. Defende a incidência dos juros de mora no percentual de 1% (um por cento), a partir da vigência do Código Civil de 2002.
+É o relatório. Passo a decidir.
+De início, cumpre salientar que o recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Na origem, trata-se de agravo de instrumento contra decisão que, nos autos de cumprimento de sentença proferida em ação de indenização por danos materiais e morais, fundada em acidente de trabalho, acolheu em parte a impugnação promovida pela agravada.
+O Tribunal de Justiça do Estado de São Paulo negou provimento ao agravo de instrumento, entendendo que a magistrada de primeiro grau afastou corretamente os cálculos apresentados pela agravante e fixou adequadamente as diretrizes para a realização de novo cálculo por contador judicial, nada havendo a alterar.
+No que pertine ao cálculo da pensão mensal, assim observou o Tribunal de origem:
+"Ressaltou-se que a pensão mensal deve observar o valor equivalente ao número de salários mínimos correspondente ao salário mínimo percebido pela agravante à época do acidente, concluindo-se que a pensão mensal deve corresponder a 3,30 salários mínimos, levando-se em conta o salário de Cr$ 12.131,26 (fls. 110).
+Sobre esse tópico, a Magistrada corretamente determinou seja observada a variação do salário mínimo desde a data do acidente, em abril de 1990, até abril de 2006, data em que começaram a ser feitos os pagamentos à agravante.
+Não se pode acolher a pretensão de utilizar a base de cálculo apenas do valor do salário mínimo vigente na data da liquidação da sentença, sem observar os reajustes do salário mínimo desde a data do acidente. Não se pode aplicar o valor do salário mínimo vigente em abril de 2006 a todas as parcelas, desde abril de 1990. Há necessidade de se observar a variação do salário mínimo, conforme definido na decisão de fls. 101." (e-STJ, fl. 200, grifou-se)
+Assim decidindo, o acórdão recorrido merece reparo, por ter destoado dos parâmetros impostos pela Súmula 490 do STF, que dispõe: "A pensão correspondente à indenização oriunda de responsabilidade civil deve ser calculada com base no salário-mínimo vigente ao tempo da sentença e ajustar-se-á às variações ulteriores." Portanto, não há que se falar em fixação com base no salário à época do evento danoso.
+Com relação aos juros de mora, assim dispôs o Tribunal a quo:
+"Os juros de mora também foram perfeitamente fixados, considerando-se o percentual de 0,5% ao mês durante todo o período exequendo. A sentença fixou os juros moratórios em 0,5% e não houve alteração pelo v. acórdão. Assim, não há que se falar em aplicação dos juros de mora de 1 % ao mês, conforme pretende a agravante." (e-STJ, fls. 200/201)
+Extrai-se dos autos que a sentença, proferida ainda na vigência do Código Civil de 1916, fixou os juros de mora em 0,5% (meio por cento) ao mês, sem que tenha havido modificação no acórdão da apelação, já proferido na vigência do Código Civil de 2002.
+Nesse contexto, verifica-se que o acórdão recorrido manteve, com acerto, a fixação dos juros de mora no percentual de 0,5% (meio por cento) ao mês. Formado o título executivo já na vigência do Código Civil de 2002, sem a alteração do percentual dos juros de mora mediante a interposição de recurso próprio, é inviável tal modificação na fase de liquidação ou cumprimento de sentença, sob pena de ofensa à coisa julgada. Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSO CIVIL. CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE ERRO MATERIAL NA SENTENÇA TRANSITADA EM JULGADO. JUROS DE MORA.
+1. Proferida a sentença já na vigência do novo Código Civil sem a interposição de recurso próprio, é inviável a alteração do percentual fixado a título de juros de mora na respectiva execução, visto que implicaria violação da coisa julgada.
+2. Agravo interno não provido."
+(AgInt no REsp 1673862/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 07/11/2017, DJe 20/11/2017, g.n.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA EXARADA APÓS A VIGÊNCIA DO CÓDIGO CIVIL DE 2002. COISA JULGADA. ALTERAÇÃO DO PERCENTUAL DE JUROS MORATÓRIOS. NÃO CABIMENTO. COISA JULGADA. RECURSO NÃO PROVIDO.
+1. A jurisprudência desta Corte firmou entendimento de que não há violação à coisa julgada quando o título exequendo fora exarado antes da vigência do CC/2002 e, na execução do julgado, determina-se a incidência dos juros de mora no percentual previsto na lei nova.
+2. No caso dos autos, contudo, quando formado o título executivo, já estava em vigor o CC/2002, de modo que caberia à recorrente, à época, insurgir-se contra o percentual ali fixado, o que não ocorreu, de modo que não há como afastar o entendimento de que, na fase de liquidação ou cumprimento de sentença, é inviável a alteração do critério estabelecido no título judicial exequendo para a correção monetária e juros, sob pena de ofensa à coisa julgada.
+Precedentes.
+3. Agravo interno a que se nega provimento."
+(AgInt no REsp 1211244/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 03/08/2017, DJe 14/08/2017, g.n.)
+"AGRAVO REGIMENTAL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA PROFERIDA APÓS A ENTRADA EM VIGOR DO CÓDIGO CIVIL DE 2002. ALTERAÇÃO NA TAXA DE JUROS DE MORA. OFENSA A COISA JULGADA. APLICAÇÃO DA SÚMULA N. 83/STJ.
+1. Segundo a jurisprudência desta Corte, "se a sentença é posterior ao novo CC e determina juros de 6% ao ano e não houver recurso, deve ser aplicado esse percentual, eis que a modificação depende de iniciativa da parte." (REsp 1112746/DF, Rel. Ministro Castro Meira, Primeira Seção, DJe 31/08/2009).
+2. Estando o acórdão recorrido em consonância com a jurisprudência do STJ, aplica-se a Súmula n. 83/STJ.
+3. Agravo regimental a que se nega provimento."
+(AgRg no REsp 1091705/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 09/06/2015, DJe 16/06/2015, g.n.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar parcial provimento ao recurso especial, para determinar que a pensão mensal seja calculada com base no salário-mínimo vigente ao tempo da sentença, ajustando-se às variações ulteriores, nos termos da Súmula 490 do STF.
+Publique-se.
