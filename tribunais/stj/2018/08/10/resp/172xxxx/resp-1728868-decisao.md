@@ -1,0 +1,48 @@
+EMENTA
+PENAL. RECURSO ESPECIAL. MOEDA FALSA. DOSIMETRIA. CIRCUNSTÂNCIAS JUDICIAIS. PLEITO DE AFASTAMENTO DA VALORAÇÃO NEGATIVA DAS VETORIAIS PERSONALIDADE E CULPABILIDADE. POSSIBILIDADE. PENA REDUZIDA. FUNDAMENTAÇÃO INIDÔNEA. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra o v. acórdão prolatado pelo eg. Tribunal Regional Federal da 3ª Região.
+Consta dos autos que o MM Juízo de primeiro grau condenou o ora recorrente como incurso nas sanções do art. 289, § 2º, do Código Penal, à pena de 03 (três) anos e 06 (seis) meses de reclusão, em regime inicial aberto, mais 105 dias-multa. Houve substituição por penas restritivas de direitos (fls. 358-377).
+Interposto recurso de apelação criminal pela Defesa, o eg. Tribunal de origem, por maioria de votos, deu-lhe parcial provimento, tão somente para reduzir a pena de multa para 11 dias-multa, mantidos os demais termos da sentença recorrida (fls. 430-446). Eis a ementa do acórdão:
+"DIREITO PENAL E PROCESSO PENAL. GUARDA DE MOEDA FALSA. MATERIALIDADE E AUTORIA DELITIVAS COMPROVADAS. DOLO EVIDENCIADO. DOSIMETRIA. APELAÇÃO DEFENSIVA PARCIALMENTE PROVIDA.
+1. 0 réu foi denunciado por ter sido surpreendido em posse de duas cédulas falsas de R$ 100,00 (cem reais).
+2. Imputado à parte ré a prática de guarda de moeda falsa, tipificado no artigo 289, §1º, do Código Penal.
+3. Materialidade delitiva comprovada. A falsidade da cédula apreendida foi confirmada pelo exame pericial acostado aos autos, que foi conclusivo no sentido de que a cédula espúria é passível de enganar o "homem médio".
+4. Autoria delitiva demonstrada, à saciedade, pelo conjunto probatório coligido nos autos.
+5. Configurado o dolo pelo conhecimento prévio da falsidade das duas cédulas de R$ 100,00 (cem reais) guardadas, bem como a potencialidade lesiva.
+6. Mantida a condenação pela prática do crime previsto no artigo 289, § 1º, do Código Penal, bem cómo a pena aplicada, o regime inicial aberto para o início do cumprimento da sanção corporal e, ainda, a substituição da pena privativa de liberdade por restritivas de direitos, nos termos fixados na r. sentença.
+7. Alterada, de ofício, a destinação da pena pecuniária em favor da União.
+8. Pena de multa reduzida de 105 (cento e cinco) dias -multa para 11 (onze) dias-multa, a fim de guardar proporcionalidade com a pena privativa de liberdade.
+9. Apelação defensiva provida em parte. Determinada a expedição de guia de execução, para imediato cumprimento das penas restritivas de direitos, nos termos do novel entendimento do STF (HC 126.292, ADCs 43 e 44 e ARE 964.246)."
+Apresentados embargos infringentes e de nulidade (fls. 455-460), pela combativa Defesa, foram eles desprovidos, em decisão unânime (fls. 477-492).
+Nas razões do recurso especial, interposto com fulcro na alínea a, do permissivo constitucional, a parte recorrente sustenta a ocorrência de violação ao art. 59, do Código Penal. Para tanto, argumenta que:
+a) " ..  a pena foi fixada acima do mínimo em razão, exclusivamente, frise-se, exclusivamente, da gravidade do delito, não tendo havido nenhuma apuração sobre prejuízo ou circunstâncias fora do comum" (fl. 499);
+b) "afirmar que a culpabilidade deve ser valorada negativamente porque o acusado cometeu um delito e que sua personalidade é voltada para a prática criminosa, pelo mesmo motivo, data venia, não pode ser aceito como fundamento idôneo para fixação da pena-base acima do mínimo legal" (fl. 499);
+Apresentadas as contrarrazões (fls. 505-512), o recurso foi admitido na origem (fls. 516-520) e os autos encaminhados a este Superior Tribunal de Justiça.
+O Ministério Público Federal, em seu d. parecer, manifestou-se pelo desprovimento do recurso (fls. 534-536).
+É o relatório.
+Decido.
+No que concerne à alegação de ocorrência de violação ao art. 59 do Código Penal, no sentido de que a dosimetria da pena foi estabelecida de forma inidônea, identifico que assiste razão ao recorrente.
+Sobre dosimetria, cumpre enfatizar que o eg. Supremo Tribunal Federal tem entendido que "a dosimetria da pena é questão de mérito da ação penal, estando necessariamente vinculada ao conjunto fático probatório, não sendo possível às instâncias extraordinárias a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada" (HC n. 137.769/SP, Rel. Min. Roberto Barroso, julgado em 24/10/2016).
+O Pretório Excelso também entende não ser possível para as instâncias superiores reexaminar o acervo probatório para a revisão da dosimetria, exceto em circunstâncias excepcionais, uma vez que, ordinariamente, a atividade dos Tribunais Superiores, em geral, deve circunscrever-se "ao controle da legalidade dos critérios utilizados, com a correção de eventuais arbitrariedades" (HC n. 128.446/PE, Segunda Turma, Rel. Min. Teori Zavascki, julgado em 15/9/2015).
+Na mesma linha, tem sido assente nesta Corte o entendimento de que a dosimetria da pena, quando imposta com base em elementos concretos e observados os limites da discricionariedade vinculada atribuída ao magistrado sentenciante, impede a revisão da reprimenda por esta Corte Superior, exceto se for constatada evidente desproporcionalidade entre o delito e a pena imposta, hipótese em que caberá a reapreciação para a correção de eventual desacerto quanto ao cálculo das frações de aumento e de diminuição e a reavaliação das circunstâncias judiciais listadas no art. 59 do Código Penal.
+Assim, passo a apreciar as motivações apresentadas pelas instâncias ordinárias para estabelecer a dosimetria da pena e aferir a suficiência dos fundamentos indicados.
+O MM. Juízo de primeiro grau, quando da prolação da sentença condenatória, no que importa ao caso, consignou, verbis:
+"A) Culpabilidade: analisada a culpabilidade em seu sentido lato, nesta fase, entendo merecedora a devida reprovação social que o delito perpetrado evidencia, mercê da ignomínia que corrói as bases de nossa sociedade. Outrossim, evidente a reprovabilidade da conduta do agente pelo cometimento de crime de moeda falsa, que afronta a fé pública;
+ ..
+C) Personalidade:  ..
+O acusado demonstrou ter personalidade voltada para o crime, demonstrando, com tal postura, valores negativos nesta primeira fase da dosimetria da pena" (fls. 358-377, grifei).
+O eg. Tribunal a quo, por seu turno, manteve a sentença recorrida pela seguinte fundamentação, verbis:
+"Configurado o dolo pelo conhecimento prévio da falsidade das duas cédulas de R$ 100,00 (cem reais) guardadas, bem como a potencialidade lesiva, deve ser mantida a condenação pela prática do crime previsto no artigo 289, § 1º, do Código Penal, bem como a pena aplicada, o regime inicial aberto para o início do cumprimento da sanção corporal e, ainda, a substituição da pena privativa de liberdade por restritivas de direitos, nos termos fixados na r. sentença.
+Todavia, altero, de ofício, a destinação da pena pecuniária em favor da União" (fl. 443).
+Da leitura dos excertos acima transcritos, verifica-se que tanto o MM. Juízo sentenciante, quanto o eg. Tribunal de origem, ao procederem a dosimetria da pena, consideraram e mantiveram como desfavoráveis o vetor personalidade e o vetor culpabilidade.
+Sobre a circunstância judicial personalidade, é lamentável que ela ainda conste do rol do art. 59, do Código Penal, pois trata-se, na verdade, de resquício do direito penal do autor.
+Dificilmente constam dos autos elementos baseados em critérios técnicos suficientes para que o julgador possa chegar a uma conclusão cientificamente sustentável.
+Assim, não havendo dados suficientes para a aferição da personalidade do recorrente, mostra-se incorreta sua valoração negativa a fim de alicerçar o aumento da pena-base (REsp n. 745.530/RS, Quinta Turma, de minha relatoria, DJU de 12/6/2006 e REsp n. 732.857/RS, Quinta Turma, de minha relatoria, DJU de 12/12/2005), tal qual na hipótese.
+De igual modo, no que diz respeito à alegação de que a vetorial culpabilidade, merece prosperar o reclamo, tendo em vista que as instâncias ordinárias não fundamentaram adequadamente a valoração negativa da referida circunstância, valorando-a de forma incorreta. Tal compreensão destoa daquilo que esta Corte tem considerado no momento de avaliar a pertinência da elevação da pena quanto ao vetor ora em análise, uma vez que a descrição dos fatos não ilustra a gravidade concreta do delito, e, ademais, valeram-se as instâncias ordinárias de elementos inerentes ao tipo penal. Deve ser afastada, também, a análise negativa dessa vetorial.
+Pelas razões acima expostas, devem ser decotadas, in casu, as vetoriais personalidade e culpabilidade, devido a sua incorreta aplicação pelas instâncias ordinárias.
+Diante do exposto, imperioso o provimento do reclamo, para se rever a dosimetria da pena-base.
+Considerando a fundamentação retro, na primeira fase da dosimetria, afasto a valoração negativa das circunstâncias judiciais acima referidas, quais sejam, a personalidade e a culpabilidade.
+Fixo, portanto, a pena-base no mínimo legal, isto é, em 3 (três) anos de reclusão. Na segunda fase, ausentes agravantes e atenuantes, mantém-se a reprimenda no referido patamar. Na terceira e última fase, de igual modo, não foram verificadas causas de aumento ou de diminuição, pelo que torno a pena definitiva no referido patamar, em 3 (três) anos de reclusão. A pena de multa fica estabelecida no quantum definido pelo eg. Tribunal a quo, qual seja, 11 dias-multa.
+Ante o exposto, com fulcro no art. 255, § 4º, III, do Regimento Interno do STJ, conheço do recurso especial para dar-lhe provimento, nos termos acima referidos.
+P. e I.
