@@ -1,0 +1,18 @@
+DECISÃO
+Cuidam-se de embargos declaratórios opostos por [NOME] e OUTROS contra decisão desta relatoria (e-STJ, fls. 483/488), que conheceu do agravo para negar provimento ao recurso especial sob os seguintes fundamentos: 1) ausência de omissão no acórdão recorrido; 2) incidência do óbice da Súmula 7/STJ na análise do cumprimento ou não do ônus probatório das partes em razão do sistema de persuasão racional que vigora no direito processual pátrio.
+Nas razões dos embargos, a parte embargante alega que a decisão embargada persiste na omissão alegada nas razões do recurso especial, uma vez que não se manifestou acerca da ausência de provas nos autos quanto à negativa de crédito.
+Ao final, requer sejam acolhidos os aclaratórios com o objetivo de aclarar a decisão embargada no tocante à ausência de prova cabal da negativa de crédito e motivar o seguimento do recurso especial para que se determine que o Tribunal de origem analise corretamente as provas produzidas.
+Apresentada impugnação às fls. 498/501 (e-STJ).
+É o relatório. Decido.
+Os embargos de declaração são um recurso de contornos rígidos e que somente será conhecido para sanar eventual existência de obscuridade, contradição, omissão ou erro material, não podendo ser utilizado como instrumento para a rediscussão do julgado.
+Nesse cenário, verifica-se que o decisum embargado não possui qualquer vício a ser sanado pela via dos embargos declaratórios, uma vez que a decisão embargada foi clara em apontar a necessidade de reexame de matéria fático-probatório para o acolhimento da tese recursal trazida nas razões do apelo especial.
+Nesse contexto, estando ausentes os pressupostos legais de cabimento dos embargos de declaração, o mero inconformismo com a decisão embargada não autoriza a oposição de embargos de declaração. Nesse sentido:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DECLARATÓRIA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NÃO CONHECEU DO AGRAVO INTERNO. IRRESIGNAÇÃO DOS AUTORES.
+1. Primeiramente, imprescindível ressaltar que o julgamento realizado na assentada de 24/10/2017 foi proferido em descompasso com a lei de regência, que determina, em caso de superveniência de vício de representação da parte seja o feito suspenso para que se proceda à sua regularização, motivo pelo qual aquele julgamento é tornado sem efeito.
+Devidamente regularizada a representação prossegue-se na análise do reclamo.
+2. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do NCPC, o que não se configura na hipótese em tela, porquanto o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado. Inexistindo quaisquer das máculas previstas nos aludidos dispositivos, não há razão para modificar a decisão impugnada. Precedentes.
+3. O juízo de admissibilidade é prévio e prejudicial ao juízo de mérito, de modo que, não se ultrapassando o primeiro, não se adentra no segundo. Assim, tendo em vista que o agravo interno sequer ultrapassou a admissibilidade, pois não preencheu o requisito da tempestividade, é inviável qualquer pronunciamento sobre as questões aventadas no reclamo, ainda que se tratem de matéria de ordem pública.
+4. Julgamento realizado na data de 24/10/2017 tornado sem efeito, ante a ausência de representação da parte embargante, com a consequente rejeição dos embargos de declaração após a adequada regularização da representação processual."
+(EDcl no AgInt no AREsp 1056566/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 05/06/2018, DJe 12/06/2018 - grifo nosso)
+Ante o exposto, rejeitam-se os embargos de declaração.
+Publique-se.
