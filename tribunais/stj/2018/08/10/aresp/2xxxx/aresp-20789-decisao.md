@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL DISTRIBUIDORA DE BEBIDAS. CONCORRÊNCIA DESLEAL. LEI 8.884/94. PRELIMINARES. PREVENÇÃO DO RELATOR. NULIDADE DA SENTENÇA. INCOMPETÊNCIA. AFASTADAS. LEGITIMIDADE PASSIVA RECONHECIDA. SENTENÇA DE IMPROCEDÊNCIA MANTIDA. PREVENÇÃO DO RELATOR. A prevenção para O exame do segundo agravo de instrumento interposto no mesmo processo, é do relator que primeiro apreciou o recurso. Todavia, o relator não mais integrando a Câmara que proferiu o primeiro voto, afastada resta sua competência.
+NULIDADE DA SENTENÇA. AFASTADA. No que tange à alegação de nulidade da sentença, por supostamente ser extra petita, não assiste razão à recorrente, uma vez que a decisão de primeiro grau não excedeu os limites do pedido inicial
+INCOMPETÊNCIA DO JUÍZO. CADE. INTIMAÇÃO. Ainda que não se desconheça o teor da Súmula 150 do STJ e do art. 89 da Lei 8884/94. desnecessário, no caso, o deslocamento da demanda à Justiça Federal,
+diante do flagrante desinteresse do CADE em manifestar-se no feito e, ainda, em face do-tipo de contratualidade estabelecida. LEGITIMIDADE PASSIVA. Considerando que a requerida é acionista controladora e participa, por conseguinte, da relação jurídica material, está legitimada para atuar no polo passivo da demanda. Assim, vai reformada a sentença no tópico.
+MÉRITO. Considerando a prova produzida nos autos, não se verifica qualquer ato ilícito praticado pelas requeridas. Somente configurar-se-ia ilicitude no agir caso comprovada quaisquer das práticas descritas no art. 20 da Lei n. 8.884/94 (lei antitruste). RECURSO ADESIVO. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. ART. 20, §4º, CPC. Observado o disposto no art. 20. §§3º e 4o do CPC., especialmente, a complexidade da causa e o grau de zelo exigido, entendo que deve ser majorada a verba honorária.
+RECURSO DE APELAÇÃO PARCIALMENTE PROVIDO, APENAS PARA RECONHECER A LEGITIMIDADE PASSIVA DA AMBEV E DA CIA. BRASILEIRA DE BEBIDAS, MANTIDA A IMPROCEDÊNCIA DOS PEDIDOS. RECURSO ADESIVO CONHECIDO E PROVIDO." (e-STJ fl. 1077/1078)
+Os embargos de declaração opostos foram rejeitados (e-STJ fl.1100/1106).
+Nas razões do recurso especial, a parte agravante alega, inicialmente, ter havido nulidade no julgamento da Corte de origem por violação à coisa julgada (artigos 468 e 471 e 473) uma vez que a segunda sentença proferida pelo juízo de origem foi igual à primeira, anteriormente anulada pelo TJ/RS e pela não intimação do CADE, nos termos do art. 89 da lei 8.884/94.
+Alega ofensa aos art. 458, II e 535,I, II do CPC/73, por não ter o acórdão se manifestado quanto às nulidades acima citadas e quanto às regras e princípios de mercado que embasam o pleito do autor.
+No mérito, defende ter havido ofensa aos artigos 20, I, II, IV, art. 21, V e XII e 29 da Lei 8.884/94 e art. 208, 209, §§1º e 2º e 210 da Lei 9.279/96. Alega, em síntese, que para conquistar o mercado construído pela recorrente, as recorridas utilizaram estratégia ilícita, abusando de seu poder econômico para oferecer seus próprios produtos no mesmo mercado geográfico e por preços inferiores àqueles praticados pela recorrente, em clara concorrência desleal. Defende estar configurado seu direito à indenização por perdas e danos prevista em lei.
+Contrarrazões nas fls.1147/1149 (e-STJ)
+É o relatório. Decido.
+Inicialmente, não prospera a alegada ofensa aos art. 458, II e 535,I, II do CPC/73, tendo em vista que o v. acórdão recorrido adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+Quanto à alegação de ofensa à coisa julgada dispôs a Corte de origem:
+"Consigno, por primeiro, que, muito embora a sentença agora proferida seja similar a anterior, percebe-se que o julgador enfrentou a questão relativa à concorrência desleal, tópico que havia dado azo a sua desconstituição. Desse modo, por essa ótica, não há sustentáculo para
+agasalhar a tese de nulidade." (e-STJ fl.1085)
+Já no que diz respeito à nulidade por ausência de intimação do CADE, constou no acórdão:
+"Em observância ao art.89 da Lei 8.884/941, foi determinada a intimação do CADE, nessa seara, a fim de dizer do seu interesse em intervir no feito. Ocorre que, intimado, nada requereu, de modo que se presume pela ausência de interesse. Portanto, ainda que não se desconheça o teor da Súmula 150 do STJ, não há necessidade de deslocar a competência para a Justiça Federal, já que, ao que tudo indica, não há interesse do CADE em intervir no feito." (e-STJ fl. 1086)
+ É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+Por outro lado, como não houve repetição da sentença anteriormente anulada, tampouco ausência de intimação do CADE, não prosperam as alegações de nulidade do recorrente.
+Já em relação à suposta prática de concorrência desleal por parte da recorrida, a Corte de Origem expressamente refutou sua ocorrência:
+"É fato público que a partir da fusão havida que deu origem à AMBEV - devidamente autorizada pelo CADE tiveram alterações na política de distribuição dos produtos, o que, no entanto, por si só, não caracteriza abuso de poder econômico e concorrência desleal.
+Somente se poderia falar em ilicitude no agir da demandada se tivesse a autora comprovado a prática de qualquer conduta enquadrada no art. 20 da Lei n. 8.884/94:
+Art. 20. Constituem infração da ordem econômica, independentemente de culpa, os atos sob qualquer forma manifestados, que tenham por objeto ou possam produzir os seguintes efeitos, ainda que não sejam alcançados:
+I - limitar, falsear ou de qualquer forma prejudicar a livre concorrência ou a livre iniciativa; II - dominar mercado relevante de bens ou serviços;
+III - aumentar arbitrariamente os lucros;
+IV  exercer de forma abusiva posição dominante.
+§ 1º A conquista de mercado resultante de processo natural fundado na maior eficiência de agente econômico em relação a seus competidores não caracteriza o ilícito previsto no inciso II.
+§ 2o Ocorre posição dominante quando uma empresa ou grupo de empresas controla parcela substancial de mercado relevante, como fornecedor, Intermediário, adquirente ou financiador de um produto, serviço ou tecnologia a ele relativa.
+§ 3o A posição dominante a que se refere o parágrafo anterior é presumida quando a empresa ou grupo de empresas controla 20% (vinte por cento) de mercado relevante, podendo este percentual ser alterado pelo Cade para setores específicos da economia.(R,edéçêo dada pela Lei nº 9.069. de 29.6.951
+No caso em tela, não verifico ato abusivo das apeladas ao distribuírem diretamente os seus produtos, não restando cabalmente demonstrado nos autos a sustentada concorrência desleal.
+Friso que a fusão veio a ocorrer somente no ano 2000 e os alegados prejuízos da autora, como por ela relatado na inicial, teriam tido seu começo sedimentado ainda no ano de 1995, ou seja, cinco anos antes do surgimento da própria AMBEV." (e-STJ fl.1088/1089)
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
