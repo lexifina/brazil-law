@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por Aeróleo Taxi Aéreo S/A em face de decisão da Vice-Presidência do Tribunal Regional Federal da 2ª Região que não admitiu recurso especial com base na aplicação da Súmula 83/STJ.
+O agravante sustenta que: (I) o Tribunal de origem invadiu a competência do Superior Tribunal de Justiça ao adentrar no mérito do recurso; (II) a súmula 83/STJ somente se aplica ao recurso especial interposto pela divergência; (III) "incorreu em grave equívoco o r. juízo a quo ao afirmar que o recurso especial interposto vai de encontro a entendimento pacífico desta Colenda Corte Superior" (fl. 467).
+É o relatório.
+Sem razão a parte recorrente ao alegar que a instância de origem, ao realizar o juízo de admissibilidade do recurso especial, usurpou a competência do Superior Tribunal de Justiça. Isso porque, nos termos da Súmula 123/STJ ("A decisão que admite, ou não, o recurso especial deve ser fundamentada, com o exame dos seus pressupostos gerais e constitucionais."), é atribuição do Tribunal a quo, naquele momento processual, analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia. Confiram-se, nesse mesmo sentido, os seguintes precedentes: RCDESP no AREsp 211.716/SP, Rel. Ministro Raul Araújo, Quarta Turma DJe 25/9/2012; AgRg no Ag 1.424.298/MG, Rel. Ministro Humberto Martins, Segunda Turma, DJe 27/10/2011; AgRg no Ag 1.147.395/SP, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 12/11/2010; e AgRg no Ag 1.134.224/SP, Rel. Ministro Castro Meira, Segunda Turma, DJe 2/2/2010.
+Em relação ao óbice da Súmula 83 do STJ, caberia à recorrente demonstrar que o entendimento jurisprudencial não está pacificado no mesmo sentido do acórdão recorrido, ou, ainda, que o precedente não se aplicaria ao caso dos autos, com a citação de julgados contemporâneos ou supervenientes aos referidos na decisão impugnada, providência da qual não se desincumbiu.
+Nesse sentido:
+DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. INADMISSIBILIDADE DO RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE ESTÁ CONSOANTE JURISPRUDÊNCIA REITERADA DESTA CORTE. ÓBICE DA SÚMULA 83/STJ. AUSÊNCIA DE IMPUGNAÇÃO AO FUNDAMENTO ADOTADO. SÚMULA 182/STJ. INCIDÊNCIA.
+1. É inviável o agravo em recurso especial que deixa de atacar, de modo específico, os fundamentos adotados pelo Tribunal de origem para negar trânsito ao apelo especial. Incidência, por analogia, da Súmula 182 do STJ.
+2. Inadmitido o recurso especial diante do óbice contido na Súmula 83/STJ, cabe à parte agravante demonstrar que o entendimento jurisprudencial não está pacificado no mesmo sentido do acórdão recorrido, ou, ainda, que os precedentes indicados não se aplicariam ao caso dos autos.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 311.649/MA, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 28/8/2017 - grifos nossos).
+Ressalte-se, ainda, ser o óbice previsto na Súmula 83/STJ aplicável ao recurso especial fundado tanto na alínea a como na alínea c do permissivo constitucional.
+Incide, desse modo e por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Diante do exposto, não conheço do agravo.
+Publique-se.
