@@ -1,0 +1,37 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL CIVIL. ADMINISTRATIVO. MILITAR TEMPORÁRIO. REFORMA. SERVIÇO CASTRENSE. INCAPACIDADE DEFINITIVA. REDISCUSSÃO DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA 7/STJ.
+1. O exame da controvérsia, tal como proposta pelo recorrente e enfrentada pelas instâncias ordinárias demandaria, necessariamente, novo exame do acervo probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. Ainda que superado esse óbice, verifica-se que o acórdão recorrido foi proferido em consonância com a jurisprudência do Superior Tribunal de Justiça, segundo a qual "a concessão da reforma/reintegração ao militar, ainda que temporário, quando restar demonstrada a sua incapacidade para o serviço castrense, prescinde da demonstração do nexo de causalidade entre a moléstia sofrida e a prestação do serviço" (AgInt no REsp 1628906/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 19/09/2017, DJe 27/09/2017)
+3. Agravo regimental a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA: Trata-se de agravo regimental manejado contra decisão que negou seguimento ao recurso especial pela incidência da Súmula 7/STJ (fl. 290/293).
+Inconformada, a parte agravante, nas razões do presente regimental, além de reeditar questões de mérito, sustenta, em síntese, que não cabe a aplicação da Súmula 7/STJ ao caso, tendo em vista que não se busca revolvimento do conjunto fático-probatório dos autos. Defende que busca tão somente decidir questão de direito consubstanciada na correta subsunção do caso que se cuida à hipótese da reforma de que tratam os arts. 106, II, 108, VI, e 111, II, da Lei 6.880/1990.
+Requer, por fim, a reconsideração da decisão ou a submissão do feito ao Colegiado do STJ.
+É o relatório.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (RELATOR): A irresignação não merece acolhimento, tendo em conta que as partes agravantes não lograram desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Como antes asseverado, confira-se o trecho do voto condutor do acórdão impugnado (fl. 252):
+Ademais, os pareceres médicos constante do evento 41-ATESTMED2, dos peritos do seguro de vida da Fundação Habitacional do Exército e de médicos particulares para fins de sinistro, são pacíficos em atestar que o autor, então segurado, apresenta como seqüela de caráter permanente uma redução funcional de 60% da mão direita.
+Portanto, comprovada a seqüela advinda no curso da prestação do serviço militar e a incapacitação do autor após traumatismo por arma de fogo na região cervical anterior direita com lesão do plexo braquial e lesão vascular, quando teve redução funcional de 60% da mão direita, restando evidente a sua incapacitação para vida militar, que consiste em necessidade de manuseio de armamento e esforço físico constante, portanto entendo cabível a cabível a reforma do militar.
+Não há dúvidas acerca da incapacidade parcial e definitiva do autor e do direito à Reforma Militar, considerando que a seqüela incapacitante eclodiu durante a prestação do serviço militar, desimportando para tanto que esta sobrevenha, necessariamente, em conseqüência de acidente ou doença que tenha relação de causa e efeito como serviço militar.
+Verifica-se dos autos que a parte recorrente alegou nas razões do especial que "o autor não é incapaz definitivamente para o serviço militar nem para o serviço da vida civil, NEM SOFREU ACIDENTE DE SERVIÇO" (fl. 269). Já a Corte de origem, por sua vez, entendeu que a incapacidade do recorrido é definitiva e a sequela incapacitante eclodiu durante a prestação do serviço militar. Nesse contexto, o exame da controvérsia, tal como proposta pelo recorrente e enfrentada pelas instâncias ordinárias demandaria, necessariamente, novo exame do acervo probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. No mesmo sentido confiram-se os seguintes julgados: AgRg no AgRg no AREsp 66.538/PA, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 18/12/2012, DJe 01/02/2013; e AgRg no AREsp 111.219/PA, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 12/04/2012, DJe 18/04/2012.
+Em reforço:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. ESBULHO POSSESSÓRIO COMPROVADO. ACESSÃO. AUSÊNCIA DE BOA-FÉ. INDENIZAÇÃO. IMPOSSIBILIDADE. REVISÃO. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Estabelece o art. 1.255 do Código Civil que "aquele que semeia, planta ou edifica em terreno alheio perde, em proveito do proprietário, as sementes, plantas e construções; se procedeu de boa-fé, terá direito a indenização".
+2. In casu, a Corte de origem, mediante exame do suporte fático-probatório dos autos, reconheceu a má-fé na acessão realizada em terreno destinado à faixa de segurança para passagem de linhas e torres de transmissão de eletricidade, razão pela qual afastou o pleito de indenização do agravante. Infirmar as conclusões do julgado, como ora postulado, encontra óbice no enunciado da Súmula 7 do Superior Tribunal de Justiça.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 159.655/ES, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 09/09/2014, DJe 09/10/2014)
+PROCESSUAL CIVIL E TRIBUTÁRIO. PREQUESTIONAMENTO. AUSÊNCIA. REEXAME DE PROVAS. AUSÊNCIA DE MÁ-FÉ DA POSSUIDORA. SÚMULA 7/STJ.
+1. É inadmissível Recurso Especial quanto a questão não apreciada pelo Tribunal de origem, a despeito da oposição de Embargos Declaratórios. Incidência da Súmula 211/STJ.
+2. A verificação da alegada violação dos artigos 1.201 e 1.255 do CC necessita de reexame dos elementos fáticos-probatórios dos autos, não sendo possível aferir em Recurso Especial a existência ou ausência de boa-fé da possuidora, e rever a conclusão do Tribunal de origem sobre tais premissas esbarra na Súmula 7/STJ.
+3. Agravo Regimental não provido.
+(AgRg no AREsp 516.011/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/08/2014, DJe 30/10/2014)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7/STJ.
+1. Incide a Súmula n. 7 do STJ na hipótese em que a tese versada no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+2. Agravo regimental desprovido.
+(AgRg no AREsp 425.215/DF, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 24/04/2014, DJe 02/05/2014)
+Ainda que superado esse óbice, verifica-se que o acórdão recorrido foi proferido em consonância com a jurisprudência do Superior Tribunal de Justiça, segundo a qual "a concessão da reforma/reintegração ao militar, ainda que temporário, quando restar demonstrada a sua incapacidade para o serviço castrense, prescinde da demonstração do nexo de causalidade entre a moléstia sofrida e a prestação do serviço" (AgInt no REsp 1628906/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 19/09/2017, DJe 27/09/2017)
+Ante o exposto, nega-se provimento ao agravo regimental.
+É o voto.
