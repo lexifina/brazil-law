@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], em face de decisão do TRIBUNAL DE JUSTIÇA DE SÃO PAULO, que negou provimento à apelação defensiva.
+Consta dos autos que o paciente foi condenado à pena de 7 anos, 3 meses e 3 dias de reclusão, em regime inicial fechado, mais 16 dias-multa, pela prática do delito previsto no art. 157, § 2º, I, do Código Penal.
+Ato seguinte, a defesa interpôs recurso de apelação perante a Corte de origem, a qual lhe negou provimento.
+No presente habeas corpus, alega a ocorrência de constrangimento ilegal sob o argumento de que a pena-base teria sido exasperada com fundamentação inidônea. Alega, também, que deveria ser afastada a causa de aumento do uso da arma, pela superveniência da Lei n. 13.654/2018.
+Requer a concessão da ordem constitucional para que seja redimensionada a reprimenda com a exclusão da majorante.
+Indeferida a liminar, prestadas as informações, manifestou-se o Ministério Público Federal pela concessão parcial da ordem.
+É o relatório.
+DECIDO.
+No concernente ao pleito de redução da pena-base, colaciono, por oportuno, os trechos da sentença e do acórdão que analisaram o tema.
+Sentença (fls. 18):
+Com base no artigo 68 do Código Penal, observando os elementos norteadores previstos nos artigos 59 e 60, ambos do Código Penal, considerando a desenvoltura demonstrada pelo réu, a sua periculosidade na prática de ilícitos semelhantes, haja vista já ter respondido e ficado preso por outro processo, sem que isso mudasse os seus valores, a ausência de atividade lícita demonstrada e a culpabilidade diferenciada com relação a um infrator comum, mormente pela conduta desenvolvida, fixam-se as penas básicas, para cada um dos crimes, 1/6 acima do mínimo legal, ou seja, em 4 (quatro) anos e 8 (oito) meses de reclusão e 11 (onze) dias multa.
+Acórdão (fls. 54/55):
+A pena base foi fixada em 1/6 acima do mínimo legal, em 04 (quatro) anos e 08 (oito) meses de reclusão e pagamento de 11 (onze) dias multa,
+Este aumento foi correto, por conta da periculosidade do réu, o qual não demonstrou nenhum sentimento de culpa ou arrependimento, assim como pela violência com a qual tratou a vítima, puxando seus cabelos e a ameaçando-a, que ocasionou em intenso trauma à ofendida. Circunstâncias que devem ser levadas em consideração na aplicação da pena, em conformidade com o princípio da individualização da pena.
+Com efeito, nota-se que a reprimenda foi fixada em 1/6 acima do mínimo legal, destacando o sentenciante que a desenvoltura demonstrada pelo réu, a sua periculosidade na prática de ilícitos semelhantes, haja vista já ter respondido e ficado preso por outro processo, sem que isso mudasse os seus valores, a ausência de atividade lícita demonstrada e a culpabilidade diferenciada com relação a um infrator comum, mormente pela conduta desenvolvida. A Corte de origem manteve a pena-base no mesmo patamar mencionando a violência com a qual tratou a vítima, puxando seus cabelos e a ameaçando-a, que ocasionou em intenso trauma à ofendida.
+Ainda que o fato de o paciente já ter respondido e ficado preso por outro processo e a ausência de atividade lícita não sejam fundamentos idôneos a permitir o aumento da sanção inicial, a gravidade concreta da conduta, demonstrada pela violência com a qual tratou a vítima, puxando seus cabelos e a ameaçando-a são elementos aptos a fundamentar a exasperação da pena na primeira fase da dosimetria. Nesse diapasão:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ROUBO TRIPLAMENTE CIRCUNSTANCIADO. DOSIMETRIA. CIRCUNSTÂNCIAS DO CRIME E MAUS ANTECEDENTES DO RÉU. MOTIVAÇÃO IDÔNEA PARA A FIXAÇÃO DA PENA-BASE ACIMA DO PISO LEGAL. AUMENTO EXCESSIVO PELO MODUS OPERANDI DO DELITO. SÚMULA 443/STJ. INCIDÊNCIA DE TRÊS MAJORANTES DO CRIME DE ROUBO. MOTIVAÇÃO CONCRETA PARA INCREMENTO DA REPRIMENDA SUPERIOR A 1/3. WRIT NÃO CONHECIDO E ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. A individualização da pena, como atividade discricionária do julgador, está sujeita à revisão apenas nas hipóteses de flagrante ilegalidade ou teratologia, quando não observados os parâmetros legais estabelecidos ou o princípio da proporcionalidade.
+3. Para fins do art. 59 do Código Penal, as circunstâncias do crime devem ser entendidas como os aspectos objetivos e subjetivos de natureza acidental que envolvem o delituoso. In casu, o decreto condenatório demonstrou que o modus operandi do delito revela gravidade concreta superior à ínsita aos crimes de roubo triplamente majorado, máxime em razão da violência concreta empregada na prática delitiva, o que denota a necessidade de imposição da pena-base acima do mínimo legal, em atendimento ao princípio da proporcionalidade.
+ ..
+8. Writ não conhecido. Ordem concedida, de ofício, tão somente para afastar o aumento da pena-base na fração de 2/3 pelas circunstâncias do crime, determinando que o Juízo das Execuções proceda à nova dosimetria da pena-base, ficando mantidos, no mais, os termos da sentença condenatória. (HC 365.806/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 22/3/2018, DJe 2/4/2018.)
+Com relação ao pleito de afastamento da causa de aumento referente à arma, em razão do abolitio criminis, constata-se que a majorante aplicada ao caso pelo emprego de faca (fl. 55), antes prevista no inciso I do parágrafo 2º do artigo 157 do Código Penal, foi revogada com o advento da Lei n. 13.654/2018.
+Assim, considerando que o emprego de arma branca deixou de ser causa de aumento de pena específica do delito de roubo, em face de norma penal mais favorável, que deve ser aplicada retroativamente, nos termos do parágrafo único do artigo 2º do Código Penal, afasto a referida causa de aumento.
+Assim, passo ao redimensionamento da pena.
+A pena-base foi fixada no mínimo legal, 4 anos de reclusão e 8 meses de reclusão, mais 11 dias-multa (fl. 54), a qual exasperou-se em 1/6 pela agravante da reincidência, restando na reprimenda intermediária de 5 anos, 5 meses e 10 dias de reclusão, mais 12 dias-multa (fl. 55), que, torna-se definitiva, ante a exclusão da causa de aumento referente ao emprego de arma branca.
+Ante o exposto, concedo o habeas corpus para reduzir as reprimendas a 5 anos, 5 meses e 10 dias de reclusão, mais 12 dias-multa.
+Comunique-se.
+Publique-se.
+Intimem-se.
