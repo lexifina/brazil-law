@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo em recurso especial este interposto com fundamento na alínea "a" do permissivo constitucional, em face de acórdão do Tribunal de Justiça do Rio de Janeiro, assim ementado (fl. 316):
+"AGRAVO INTERNO EM APELAÇÃO CÍVEL. COBRANÇA DE DIVIDA. SENTENÇA QUE EXTINGUE O PROCESSO PELO RECONHECIMENTO DA PRESCRIÇÃO. MANUTENÇÃO DA SENTENÇA. DIREITO FULMINADO PELA PRESCRIÇÃO, NA FORMA DO ART. 206 §5º, INCISO I DO CPC. RECURSO IMPROVIDO.
+Embargos de declaração rejeitados, com a seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO. PREQUESTIONAMENTO. PRESCRIÇÃO CONFIGURADA. AUSÊNCIA DE VIOLAÇÃO DO ART. 302 DO CPC/1973. EMBARGOS DE DECLARAÇÃO REJEITADOS."
+Nas razões do recurso especial, a recorrente alega violação aos arts. 341 e 1022 do atual Código de Processo Civil e 315 do Código Civil, sob o argumento de que negativa da prestação jurisdicional, pois o Tribunal a quo não se manifestou sobre o art. 315 do CC, que trata do isolamento das prestações periódicas e sucessivas para prescrição, bem como, do art. 341 do NCPC. Defende que houve a prorrogação do prazo de vencimento da dívida por 180 dias. Aduz que não cabe a simples aplicação do art. 206 do CC. Pugna pela consideração e aplicação da prescrição de trato sucessivo.
+É o relatório. Decido.
+1. Inicialmente, não prospera a alegada ofensa aos arts. 489 e 1022 do atual Código de Processo Civil, tendo em vista que o v. acórdão recorrido adotou fundamentação suficiente, decidindo integralmente a controvérsia. Observa-se que o Colegiado se manifestou expressamente acerca dos temas necessários à integral solução da lide, não sendo legítimo confundir fundamentação deficiente com fundamentação suficiente, porém sucinta, mormente quando contrária aos interesses da parte. O mero inconformismo da parte não autoriza a reabertura do exame de matérias já apreciadas e julgadas, ou a introdução de questão nova.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido, podem ser mencionados os seguintes julgados: AgRg no REsp 1.170.313/RS, Rel. Min. LAURITA VAZ, DJe de 12/4/2010; REsp 494.372/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe de 29/3/2010; AgRg nos EDcl no AgRg no REsp 996.222/RS, Rel. Min. CELSO LIMONGI (Desembargador convocado do TJ/SP), DJe de 3/11/2009.
+2. Sobre a prescrição, o col. Tribunal de origem, com base no substrato probatório e na análise de cláusulas contratuais, conclui pela ocorrência da prescrição do art. 206 do CC, porque o banco ingressou com a presente demanda depois de transcorridos mais de 10 (dez) anos da data prevista para a liquidação do saldo do contrato.
+Eis o teor do acórdão recorrido, verbis:
+"Dos documentos acostados aos autos, verifica- se que as partes ora litigantes celebraram, em 06.06.1995, "Instrumento Particular De Abertura De Crédito Com Garantia Hipotecária E Outras Avenças", acostado aos autos às fls. 11/20.
+Posteriormente, em 07.10.1996, as partes firmaram "Instrumento Particular de Aditamento, Modificação e Ratificação a Instrumento Particular De Abertura De Crédito Com Garantia Hipotecária E Outras Avenças", conforme se infere de fls. 21/26.
+Ato contínuo, em 06.02.1997, as partes firmaram "Instrumento Particular de Re-Ratificação Decorrente de Mútuo com Garantia Hipotecária e Outras Avenças", anexados aos autos às fls. 27/30.
+Em 06.05.1998, celebraram novo "Instrumento Particular de Re-Ratificação Decorrente de Mútuo com Garantia Hipotecária e Outras Avencas", consoante fls. 31/34.
+Em 29.10.1998, os Réus requereram perante o Recorrente a prorrogação do prazo para liquidação do saldo do contrato em questão por mais 180 (cento e oitenta) dias, consoante notificação acostada aos autos às fls. 35/36.
+O banco apelante, por sua vez, alega que após 29/10/1998 o último aditivo firmado entre as partes se extraviou.
+Os réus, por seu turno, negam a existência desse novo instrumento.
+Como bem salientado pelo magistrado, o autor não comprovou o fato constitutivo do direito disposto no art. 333, inciso I do CPC, afirmação de que as partes teriam feito novo aditamento com a alteração do prazo de vencimento da divida (e que dito instrumento teria sido extraviado).
+Portanto, considerando que o último instrumento firmado entre as partes em 29.10.1998 estabelecia que o vencimento da divida se daria em 06.11.1998 e que os apelados requereram, em 29.10.1998, uma prorrogação de 180 (cento e oitenta) dias para liquidação do saldo do contrato, evidente que o termo final para pagamento da dívida ocorreu em 28.04.1999.
+Ocorre que o banco Apelante ingressou com a presente demanda depois de transcorridos mais de 10 (dez) anos da data prevista para a liquidação do saldo do contrato.
+No entanto, o Código Civil prevê no inciso I do parágrafo 5º do artigo 206 que a prescrição da pretensão de cobrança se dá no prazo de 5 (cinco) anos, in verbis:
+"Art. 206. Prescreve:
+(..) § 5º Em cinco anos:
+I - a pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular;"
+Logo, prescrita a pretensão de cobrança do apelante.
+Frise-se, por fim, que após a apresentação da contestação é lícito deduzir novas alegações quando, por expressa autorização legal, puderem ser formuladas em qualquer tempo e juízo, conforme art. 303, in verbis:
+"Art. 303 - Depois da contestação, só é lícito deduzir novas alegações quando:
+III - por expressa autorização legal, puderem ser formuladas em qualquer tempo e juízo."
+Dessa forma, a prescrição pode ser alegada a qualquer tempo e em qualquer grau de jurisdição, nos exatos termos do que dispõe o artigo 193 do Código Civil:
+"Art. 193. A prescrição pode ser alegada em qualquer grau de jurisdição, pela parte a quem aproveita." Por tais razões, conheço e NEGO PROVIMENTO ao recurso interposto, com base no artigo 557, caput, do Código de Processo Civil, mantendo a sentença prolatada pelo juízo a quo em sua integralidade." Passando à análise do mérito recursal, verifica-se que, não obstante a expressiva argumentação da agravante, não há qualquer elemento novo que possibilite a reforma da decisão alvejada que se encontra bem fundamentada.
+Nota-se que as razões utilizadas pelo Agravante para recorrer da decisão já transcrita, se limitam a repetir o que consta nas razões de apelação, sendo certo que o assunto já foi debatido e esclarecido através da decisão monocrática.
+A conta destes fundamentos ratifico o inteiro teor da decisão atacada, e voto no sentido de se negar provimento ao Agravo Interno." (fls. 315/320)
+Como visto, foi ajuizada a execução decorridos dez anos do inicio da fluência do prazo prescricional quinquenal (art. 206, § 5º, I, do CC/2002), não assistindo razão a recorrente, pois mesmo considerando o vencimento das prestações (de trato sucessivo) o direito teria sido fulminado pela prescrição, razão pelo qual deve ser mantido o acórdão recorrido que reconheceu a ocorrência da prescrição.
+A propósito, sirvam de ilustração os seguintes precedentes:
+"AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC) - AÇÃO MONITÓRIA - PRESCRIÇÃO - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR SEGUIMENTO AO RECURSO ESPECIAL. IRRESIGNAÇÃO DOS RÉUS.
+1. Contrato de confissão de dívida. Conforme jurisprudência desta Corte Superior, as dívidas fundadas em instrumento público ou particular prescrevem em 5 (cinco) anos, nos termos do art. 206, § 5º, I, do Código Civil. Precedentes. Aplicação da Súmula 83/STJ.
+2. Agravo regimental desprovido." (AgRg no AREsp 297.939/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/03/2015, DJe de 30/03/2015)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. COBRANÇA DE DÍVIDA DECORRENTE DE CONTRATO DE FINANCIAMENTO IMOBILIÁRIO. PRESCRIÇÃO. TERMO INICIAL. NÃO OCORRÊNCIA. ART. 206, § 5º, I, DO CC/2002. RECURSO IMPROVIDO.
+ 1. Ainda que as prestações tenham deixado de ser pagas a partir de julho/1998, somente com o estorno, pelo agente financeiro, das quantias debitadas da conta-poupança da embargante, ocorrido em 13/3/2006, é que se tornou exigível o pagamento de tal dívida, coincidindo com o início da fluência do prazo prescricional de cinco anos. Ajuizada a execução em 10/07/2009, pouco mais de três anos após o início da fluência do prazo prescricional, não se configura a prescrição quinquenal (art. 206, § 5º, I, do CC/2002).
+2. Agravo interno improvido." (AgInt no REsp 1619625/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 22/08/2017, DJe 13/09/2017)
+Ademais, a alteração das premissas fáticas firmadas pelas instâncias ordinárias, com base no exame do substrato probatório e análise do contrato, é providência que encontra óbice, na via estreita do recurso especial, nas Súmulas 5 e 7 do STJ.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
