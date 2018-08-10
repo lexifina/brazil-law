@@ -1,0 +1,31 @@
+DECISÃO
+Vistos, etc.
+Trata-se de conflito negativo de competência em que figuram, como suscitante, o Juízo da 2ª Vara do Trabalho de Brasília - DF e, suscitado, o Juízo Federal da 26ª Vara do Juizado Especial Cível da Seção Judiciária do Distrito Federal.
+Narram os autos que [NOME] ajuizou ação de conhecimento contra a União e o INSS afirmando ter sido demitido e, posteriormente, reintegrado às suas funções por força da Lei n. 8.878/1994 que concedeu anistia aos servidores públicos civis e empregados da Administração Pública Federal direta, autárquica e fundacional. Alega que retornou aos quadros do Ministério dos Transporte e faz jus ao reconhecimento do tempo de serviço e, por conseguinte, ao recolhimento das contribuições previdenciárias com suporte no mencionado regramento.
+O MM. Juízo Federal declinou da competência sustentando que a relação de trabalho em comento é regida pela CLT e a parte autora visa à obtenção de direitos trabalhistas.
+Por sua vez, o Juízo da 4ª Vara do Trabalho de Brasília - DF instaurou o presente incidente sob a alegação de que os valores pleiteados não decorrem de decisão proferida pela Justiça Obreira.
+O parecer do Ministério Público Federal é pela competência da Justiça Comum.
+É o relatório.
+A competência em razão da matéria define-se pelo exame do pedido e da causa de pedir.
+No caso, o autor, ainda que tenha ingressado no serviço público sob o regime celetista, foi demitido e posteriormente reintegrado, por força de anistia e desta feita, sob o regime estatutário.
+O pleito formulado na inicial é o reconhecimento do tempo de serviço com fins ao recolhimento de contribuições de natureza previdenciária, em que não se discute a relação de trabalho, o que por certo afasta a competência da Justiça Laboral para o deslinde da causa.
+Com efeito, o Excelso Pretório, no julgamento da Ação Declaratória de Inconstitucionalidade n. 3.395-DF, excluiu da expressão "relação de trabalho", prevista no art. 114, inc. I (redação conferida pela Emenda Constitucional n. 45/2004), as ações decorrentes do regime estatutário, aplicável aos servidores públicos, que devem ser julgadas pela Justiça comum, estadual ou Federal, a depender do ente público ao qual se vincula o servidor - ainda que se trate de contratações temporárias e irregulares. Confira-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES JÁ RESOLVIDAS NA DECISÃO EMBARGADA. MERO INCONFORMISMO. CONFLITO DE COMPETÊNCIA. JUÍZOS COMUM ESTADUAL E TRABALHISTA. RECLAMAÇÃO TRABALHISTA. CONTRATAÇÃO TEMPORÁRIA, SEM CONCURSO PÚBLICO. RELAÇÃO DE NATUREZA JURÍDICO-ADMINISTRATIVA. TRABALHADOR TERCEIRIZADO. MANUTENÇÃO DO CARÁTER JURÍDICO-ADMINISTRATIVO. ORIENTAÇÃO DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES DO STJ. COMPETÊNCIA DA JUSTIÇA COMUM. SIMPLES REITERAÇÃO DE ARGUMENTOS. NÃO-CABIMENTO. EMBARGOS REJEITADOS.
+1. Revelam-se improcedentes os embargos declaratórios em que as questões levantadas não configuram as hipóteses de cabimento do recurso - omissão, contradição ou obscuridade -, delineadas no art. 535 do CPC.
+2. A rediscussão, via embargos de declaração, de questões de mérito já resolvidas configura pedido de alteração do resultado do decisum, traduzindo mero inconformismo com o teor da decisão embargada. Nesses casos, a jurisprudência desta Corte Superior é pacífica no sentido de que os embargos não merecem prosperar.
+3. A controvérsia está relacionada ao juízo competente para processar e julgar demanda ajuizada por agente público em face de município, questionando o pagamento de verbas trabalhistas, em razão de contrato temporário por empregado terceirizado de prestadora, em prol de ente público tomador do serviço. Sobre a questão, a Emenda Constitucional n. 45/2004, que deu nova redação ao art. 114 da Carta Magna, aumentou de maneira expressiva a competência da Justiça Laboral. Entretanto, na Ação Direta de Inconstitucionalidade n. 3395-6, o Supremo Tribunal Federal suspendeu em parte a eficácia do inciso I do art. 114 da Constituição da República, que atribuía à Justiça do Trabalho competência para processar e julgar ações envolvendo entidades de Direito Público e seus respectivos servidores. Portanto, não há que se falar em competência da Justiça do Trabalho para processar a referida demanda, em razão da natureza jurídico-administrativa existente entre o Poder Público e o servidor público, ainda que em contratações temporárias e/ou irregulares. Especificamente no que diz respeito aos contratos por terceirização, o STF assim decidiu no Conflito de Competência n. 7763. Precedentes do STJ.
+4. Tratando-se de mera reiteração de argumentos anteriormente levantados, e sendo certo que as questões apontadas como omitidas foram clara e fundamentadamente examinadas nas decisões precedentes, são manifestamente descabidos os presentes declaratórios.
+5. Embargos de declaração rejeitados.
+(EDcl no CC 135.523/RS, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 22/10/2014, DJe 5/11/2014 - grifos acrescidos)
+AGRAVO REGIMENTAL EM CONFLITO DE COMPETÊNCIA. EX-EMPREGADO PÚBLICO ESTADUAL. REINTEGRAÇÃO MEDIANTE ANISTIA. LEI Nº 10.559/2002. PRETENSÃO DE NATUREZA ESTATUTÁRIA. ENUNCIADO Nº 173/STJ.
+1. "Compete à Justiça Federal processar e julgar o pedido de reintegração em cargo público federal, ainda que o servidor tenha sido dispensado antes da instituição do Regime Jurídico Único."
+(Súmula do STJ, Enunciado nº 173).
+2. É firme a jurisprudência desta Corte Superior de Justiça no sentido de que, ainda que o servidor tenha sido admitido e demitido sob o regime celetista e que o suporte fático do direito à reintegração tenha ocorrido neste período, trata-se de pedido de natureza eminentemente estatutária, reintegração decorrente de anistia, fazendo-se o pleito, nessa parte, portanto, absolutamente estranho à Justiça do Trabalho, prevista no artigo 114 da
+Constituição da República.
+3. Precedente da 3ª Seção (CC nº 40.484/SP, Relatora Ministra
+Laurita Vaz, in DJ 14/6/2004).
+4. Agravo regimental improvido.
+(AgRg no CC 41.060/GO, Rel. Ministro HAMILTON CARVALHIDO, TERCEIRA
+SEÇÃO, julgado em 27/4/2005, DJ 6/6/2005, p. 178)
+Ante o exposto, conheço do conflito para declarar competente o Juízo Federal da 26ª Vara do Juizado Especial Cível da Seção Judiciária do Distrito Federal.
+Publique-se. Intimem-se.
