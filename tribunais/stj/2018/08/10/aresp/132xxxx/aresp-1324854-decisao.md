@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo manejado contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 530):
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA RECEBIDA COM EFEITO SUSPENSIVO. INDEFERIMENTO DO PEDIDO DO EXEQUENTE PARA LEVANTAMENTO IMEDIATO DO VALOR DEPOSITADO EM JUÍZO. INSURGÊNCIA DO CREDOR. AUSÊNCIA DE CERTEZA QUANTO À SUFICIÊNCIA DA CAUÇÃO OFERECIDA. VEROSSIMILHANÇA DAS ALEGAÇÕES DO IMPUGNANTE. DECISÃO MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+Opostos embargos declaratórios, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 475-0, III e 475-M, § 1o CPC/73 e 520, IV e 525, § 10º CPC/15 e aduz dissídio jurisprudencial.
+Sustenta que tem direito ao levantamento do valor penhorado em cumprimento de sentença definitivo sob efeito suspensivo, pois apresentou caução idônea. Para tanto, alega que demonstrou que o bem oferecido em caução possui valor muito superior ao montante a ser levantado de modo a garantir eventuais prejuízos à parte adversa. Ademais, alega não prosperar o argumento de perigo de expropriação do bem oferecido em caução. Em acréscimo, alega que o levantamento do valor não causará nenhum prejuízo à empresa agravada.
+É o relatório.
+O inconformismo não comporta êxito.
+No caso, o Tribunal de origem, após exame do acervo probatório dos autos, concluiu que inexiste idoneidade da caução oferecida, razão pela qual manteve a decisão monocrática que inadmitiu o levantamento da quantia depositada em juízo.
+Assim, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE REINTEGRAÇÃO DE POSSE - ARRENDAMENTO MERCANTIL (LEASING) - DECISÃO MONOCRÁTICA DO MINISTRO RESPONSÁVEL PELO NURER DA 2ª SEÇÃO NEGANDO PROVIMENTO AO RECLAMO. INSURGÊNCIA DO REQUERIDO.
+1. É suficiente, para demonstrar a constituição formal do devedor em mora, a prova da entrega de carta registrada, expedida por intermédio de Cartório de Títulos e Documentos, enviada ao domicílio do devedor, sendo dispensada sua notificação pessoal. Precedentes. Incidência da Súmula 83/STJ.
+2. A simples propositura de ação revisional não é suficiente para descaracterização da mora, a teor da Súmula 380/STJ. 2.1. O afastamento da mora reclama a presença concomitante dos seguintes requisitos: (i) ação proposta pelo devedor contestando a existência integral ou parcial do débito; (ii) efetiva demonstração da plausibilidade da pretensão (consonância com a jurisprudência do STF ou do STJ); e (iii) depósito ou prestação de caução idônea do valor referente à parcela incontroversa, para o caso de a contestação ser apenas de parte do débito. Precedentes. Súmula 83/STJ 3. No caso em tela, o Tribunal de origem, com base nas provas carreadas aos autos, concluiu pela insuficiência do depósito realizado e pela caracterização da mora. Alterar tais conclusões demandaria o reexame de fatos e provas, inviável em recurso especial. Incidência da Súmula 7/STJ.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 795.392/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 17/08/2017, DJe 28/08/2017)
+Fica prejudicada, pelas mesmas razões, a análise do dissídio jurisprudencial.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
