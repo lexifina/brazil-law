@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por SOMPO SEGUROS S/A contra decisão que inadmitiu o recurso especial. O apelo extremo, fundamentado no artigo 105, III, "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"APELAÇÃO CÍVEL. SEGURO. MANTENEDORA DE BENS QUE TERIA SOFRIDO FURTO. NEGATIVA CONTRATUAL EM RAZÃO DA AUSÊNCIA DE VESTÍGIOS QUE CARACTERIZEM O FURTO QUALIFICADO E SUPOSTA CULPA DE EMPREGADO DA AUTORA. SENTENÇA DE IMPROCEDÊNCIA. NEGATIVA DE COBERTURA COBERTURA FUNDADA EM CLÁUSULA CONTRATUAL OBSCURA E SEM O DEVIDO DESTAQUE, CLAREZA NA LINGUAGEM, NÃO INTUITIVA E AUSENTE NA APÓLICE. NEGATIVA ABUSIVA. INTERPRETAÇÃO DAS CLÁUSULAS DE FORMA MAIS FAVORÁVEL AO CONSUMIDOR (ART. 47 DO CDC). TERMO INICIAL DOS JUROS DE MORA E DA ATUALIZAÇÃO MONETÁRIA. CITAÇÃO E EFETIVO PREJUÍZO, RESPECTIVAMENTE. DANO MORAL, TODAVIA, INOCORRENTE. MERO INADIMPLEMENTO. PROVIMENTO PARCIAL.
+Trata-se de relação de consumo e contrato de adesão, impondo-se a interpretação das cláusulas de forma mais favorável ao consumidor, devendo existir destaque para as cláusulas restritivas de direito.
+Não é possível que as condições gerais do contrato - um verdadeiro arcabouço de excludentes de responsabilidade - escondam cláusulas que limitem a hipótese de sinistro ao que há de mais improvável.
+A diferença entre as coberturas contratuais, aquela com destaque na apólice e outra, inserida sem o devido destaque nas condições gerais, é contrária ao direito à informação clara e precisa.
+As definições dos termos não podem subverter a própria linguagem. "Roubo", conforme constante na apólice, em seu sentido ordinário, inclui furto, estelionato e demais acepções, em suas formas simples e qualificadas. Tal qual os demais termos da apólice, todos em linguagem coloquial, não há por que interpretar que a previsão contratual está limitada ao furto qualificado com vestígio" (e-STJ fl. 343).
+Nas razões do especial, a recorrente, além de divergência jurisprudencial, aponta as seguintes violações, com suas respectivas teses:
+(i) art. 2º do Código de Defesa do Consumidor e 373 e 374 do Código de Processo Civil de 2015 - no presente caso não há que se falar em relação de consumo porque a recorrida é empresa transportadora que contrato o seguro para bens de terceiros (carga). Além disso, ficou demonstrado o envolvimento do empregado da seguradora na ocorrência do sinistro;
+(ii) arts. 757 e 760 do Código Civil - o contrato de seguro é claro e exclui várias coberturas. No caso, a recorrida mencionou a ocorrência de roubo, quando, na verdade, não há nenhum indício de sua ocorrência. A situação, no caso, foi de furto simples, que não têm cobertura no contrato em discussão.
+Daí o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+De início, verifica-se que o acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+No que tange à aplicação do Código de Defesa do Consumidor, o acórdão impugnado se encontra alinhado com a jurisprudência desta Corte quando entendeu que a seguradora se sub-rogou nos direitos do segurado.
+Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR PERDAS E DANOS. APLICAÇÃO DO CDC. SÚMULA 83 DO STJ. RESPONSABILIDADE DA RECORRENTE. SÚMULA 283/STF.
+1. A relação entre a segurada e a recorrente é de consumo. Assim, incide o Código de Defesa do Consumidor na relação entre a seguradora - que se sub-rogou nos direitos da segurada - e a recorrente. Incidência da Súmula 83 desta Corte.
+2. Ademais, a recorrente não cuidou de impugnar o fundamento do acórdão recorrido de que sua responsabilidade permaneceria, ainda que afastada a inversão do ônus da prova prevista no CDC, uma vez que não demonstrou a existência de fato impeditivo, modificativo ou extintivo do direito da recorrida. Incidência da Súmula 283/STF.
+3. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 271.489/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/4/2013, DJe 17/4/2013)
+"CONTRATO DE TRANSPORTE DE MERCADORIA. DESVIO DA CARGA. INDENIZAÇÃO AÇÃO REGRESSIVA. SEGURADORA. SUBROGAÇÃO. PRESCRIÇÃO. TERMO INICIAL. APLICAÇÃO DO DECRETO 2.681/1912. VIGENTE À ÉPOCA DOS FATOS. PRECEDENTES DO STF. PROTESTO INTERRUPTIVO. INCIDÊNCIA DO ARTIGO 171, I E II DO CÓDIGO CIVIL. PRECEDENTES DESTE STJ. RECURSO ESPECIAL PROVIDO.
+1. A Seguradora, ao efetuar o pagamento da indenização decorrente do prejuízo advindo pelo desvio da carga, ocorrido por culpa da transportadora, sub-rogou-se nos direitos da segurada em se ressarcir dos valores, acrescidos de juros e correção monetária. A Seguradora assume o lugar de sua cliente, pois honrou integralmente com o pagamento da indenização devida. Nestes termos, recebe os mesmos direitos e deveres da sub-rogada, nos limites da sub-rogação.
+(..)
+6. Recurso especial a que se dá provimento para afastar a prescrição, determinando o retorno dos autos à instância de origem, a fim de que julgue o mérito da ação indenizatória, como entender de direito."
+(REsp 705.148/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 5/10/2010, DJe 1º/03/2011)
+No mais, o Tribunal estadual decidiu a causa com base nos seguintes argumentos:
+"A apólice do seguro contém as informações necessárias para a relação contratual e o termo utilizado é "Roubo de Bens" (fl. 160), apenas.
+Neste sentido, entendo por devida a indenização e nula a cláusula restritiva em razão de suposta - meras ilações - participação de integrante da segurada ou ausência de vestígio. Não é possível que as condições gerais do contrato - um verdadeiro arcabouço de excludentes de responsabilidade, contendo 122 páginas - esconda cláusulas que limitem a hipótese de sinistro ao que há de mais improvável e contraintuitivo.
+A diferença entre as coberturas contratuais, aquela com destaque na apólice e outra, inserida sem o devido destaque nas condições gerais, é contrária ao direito à informação clara e precisa. As definições dos termos não podem subverter a própria linguagem. "Roubo", conforme constante na apólice em seu sentido ordinário, inclui furto, estelionato e demais acepções, em suas formas simples e qualificadas. Tal qual os demais termos da apólice, todos em linguagem coloquial, não há por que interpretar que a previsão contratual está limitada ao furto qualificado com vestígio ou sem suposto auxílio" (e-STJ fls. 346).
+Dessa forma, alterar tais conclusões exigiria, sem dúvidas, o reexame do contexto fático-probatório dos autos, e a análise de cláusulas contratuais, inviáveis na estreita via do recurso especial (Súmula nºs 5 e 7/STJ).
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa parte, negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da condenação (valor da condenação em novembro de 2016 - R$ 215.536,71), os quais devem ser majorados para o patamar de 12,5% (doze e meio por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015.
+Publique-se.
+Intimem-se.
