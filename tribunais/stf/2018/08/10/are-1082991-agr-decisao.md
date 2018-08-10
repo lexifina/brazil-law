@@ -1,0 +1,13 @@
+Decisão: Trata-se de agravo regimental contra decisão monocrática em que não conheci do recurso extraordinário com agravo em virtude da deficiência na fundamentação referente à existência de repercussão geral da matéria em debate e majorei em ¼ os honorários advocatícios.
+    O Agravante sustenta, em síntese, que a decisão merece ser reformada, visto que, por se tratar de Mandado de Segurança, não há que se falar em condenação ao pagamento de honorários advocatícios. Ademais, argumenta-se que, houve omissão em relação ao destino dos valores depositados nos autos (eDOC 16, p. 4).
+    Em contrarrazões, a União sustenta a impossibilidade da majoração dos honorários e, quanto ao pedido de levantamento dos depósitos judiciais, alega ser matéria de índole infraconstitucional.
+    É o relatório. Decido.
+    De fato, verifico que, na origem, tratava-se de mandado de degurança, para qual a jurisprudência entende ser inaplicável o artigo 85, §11 do CPC. Nesse sentido:
+     EMENTA: DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO ESTADUAL. ACUMULAÇÃO DE CARGOS PÚBLICOS. NATUREZA TÉCNICA. SÚMULA 279/STF. RECURSO MANIFESTAMENTE INADMISSÍVEL. IMPOSIÇÃO DE MULTA. 1. Hipótese em que dissentir da conclusão adotada pelo Tribunal de origem quanto à natureza do cargo público questionado, se técnica ou não, exigiria uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF). 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível condenação em honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF). 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015 (RE 1081292 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 01.03.2018)
+    EMENTA Agravo regimental no agravo de instrumento. Direito Administrativo. Servidor público. Teto remuneratório. Exclusão de vantagem de caráter pessoal. Possibilidade. Período posterior a EC nº 19/98 e anterior a EC nº 41/03. Precedentes. 1. Segundo a jurisprudência da Corte, são excluíveis as vantagens de caráter pessoal da base de cálculo do teto remuneratório vigente à época da Emenda Constitucional nº 19/98 até a vigência da Emenda Constitucional nº 41/03. 2. Agravo regimental não provido. 3. Inaplicável o art. 85, § 11, do CPC, haja vista tratar-se, na origem, de mandado de segurança (art. 25 da Lei 12.016/09). (AI 867920 AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 21.06.2018)
+    Ante o exposto, reconsidero a decisão monocrática anteriormente proferida tão-somente para excluir a majoração de honorários.
+    Publique-se.
+    Brasília, 10 de agosto de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
