@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial interposto por FRANCISCA DE SOUZA NUNES FROTA, com fundamento nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fl. 383):
+APELAÇÃO CÍVEL. REPARAÇÃO DE DANOS. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO INJUSTIFICADO NA ENTREGA. LUCROS CESSANTES DEVIDOS. INVERSÃO DA MULTA MORATÓRIA. AUSÊNCIA DE PREVISÃO CONTRATUAL. IMPOSSIBILIDADE. CLÁUSULA DE TOLERÂNCIA. VALIDADE. SENTENÇA REFORMADA EM PARTE.
+1. O atraso injustificado na entrega do imóvel origina a presunção de lucros cessantes suportados pelos promitentes-compradores, pois o inadimplemento retira destes a possibilidade de explorar economicamente o imóvel adquirido.
+2. A existência de Termo de Ajustamento de Conduta não obriga a sua aceitação pelo consumidor, o qual pode optar por ajuizar demanda individual.
+3. Revela-se impossível aplicar multa pelo atraso na entrega do imóvel devido à ausência de previsão contratual.
+4. É prática corriqueira e não abusiva no mercado de incorporação imobiliária a previsão contratual da prorrogação da data de entrega dos imóveis, com vistas a resguardar as empresas quanto a eventuais imprevistos que possam vir a ocorrer.
+5. Sentença reformada em parte.
+Verifico que o recurso especial discute a possibilidade de reversão da cláusula penal em caso de atraso na entrega de imóvel prometido à venda.
+Ocorre que a definição sobre "a possibilidade ou não de inversão, em desfavor da construtora (fornecedor), da cláusula penal estipulada exclusivamente para o adquirente (consumidor), nos casos de inadimplemento em virtude de atraso na entrega de imóvel em construção objeto de contrato ou de promessa de compra e venda " foi afetada pela Segunda Seção ao rito dos Recursos Representativos de Controvérsia nos autos dos recursos especiais 1.614.721/DF e 1.631.785/DF (Tema 971), ainda não julgados, em que houve determinação de suspensão nacional de todos os processos pendentes, individuais ou coletivos.
+Desse modo, caracterizada a identidade de questão de direito submetida à sistemática dos recursos repetitivos, devem ser devolvidos os autos ao Tribunal de origem, nos termos do artigo 256, L, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+Em face do exposto, nos termos do inciso II do artigo 1.037 do CPC, determino a devolução destes autos ao Tribunal de origem, com a respectiva baixa, para nele permanecerem sobrestados até o julgamento do mérito dos recursos recebidos como representativos da controvérsia, e, após, que se proceda em conformidade com os comandos dos artigos 1.040 e 1.041 do Código de Processo Civil.
+Intimem-se.
