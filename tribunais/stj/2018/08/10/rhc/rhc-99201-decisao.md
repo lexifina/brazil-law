@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado de São Paulo no julgamento do HC n. 1.0000.18.029387-0/000.
+Extrai-se dos autos que o recorrente foi preso em flagrante em 9/3/2017 por ter supostamente praticado o delito tipificado no art. 33 da Lei n. 11.343/06 (tráfico de entorpecentes). Referida custódia foi convertida em preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+HABEAS CORPUS - TRÁFICO DE DROGAS - AUSÊNCIA DE INSTRUMENTO DE MANDATO NOS AUTOS - INTIMAÇÃO DO ADVOGADO PARA SANAR O VÍCIO - INÉRCIA - NÃO COMPROVAÇÃO DA CAPACIDADE POSTULATÓRIA - AFASTAMENTO DAS PRERROGATIVAS INERENTES À ADVOCACIA - REVOGAÇÃO DA PRISÃO PREVENTIVA OU SUBSTITUIÇÃO DA SEGREGAÇÃO POR MEDIDAS CAUTELARES - IMPOSSIBILIDADE - DECISÃO DEVIDAMENTE FUNDAMENTADA - PRESENÇA DOS REQUISITOS AUTORIZADORES DA CUSTÓDIA CAUTELAR DO PACIENTE - ORDEM DENEGADA. 1 - É certo que o Habeas Corpus pode ser impetrado por qualquer pessoa, nos termos do art. 654 do Código de Processo Penal, todavia, a partir do momento que alguém se qualifica como advogado é de se exigir o mínimo de zelo com a juntada aos autos do competente instrumento de procuração. 2 - Ausente a comprovação da capacidade postulatória, não fará jus o impetrante, neste feito, às prerrogativas da advocacia. 3 - Estando presentes a materialidade do delito e contundentes indícios de autoria, inexiste constrangimento ilegal na decisão que fundamentadamente converte a prisão em flagrante do paciente em preventiva para garantia da ordem pública. 4-Quando, da valoração dos elementos contidos nos autos, resta evidenciada a presença dos requisitos justificadores da prisão cautelar, a manutenção da custódia do autuado é medida que se impõe.
+V.V. I - Inexistindo elementos nos autos demonstrando que o paciente, se solto, colocará em risco a ordem pública ou econômica, prejudicará a instrução criminal ou criará embaraços para a aplicação da lei penal, a revogação da prisão preventiva é medida imperativa. II - Considerando o caso concreto, bem como a gravidade do delito em tese praticado pelo paciente, necessário se faz a imposição de medidas diversas da prisão, previstas no art. 319 do CPP (fl. 83).
+No presente recurso, alega que o decreto prisional carece de fundamentação idônea, uma vez que pautado exclusivamente na gravidade abstrata do delito. Sustenta ausência dos requisitos previstos no art. 312 do Código de Processo Penal.
+Ressalta as condições pessoais favoráveis do recorrente e aponta suficiência, no caso concreto, da aplicação de medidas cautelares alternativas ao cárcere, sobretudo quando considerada a pouca quantidade de entorpecente apreendido (1,98g de crack), a indicar destinação ao consumo próprio.
+Requer, assim, em liminar e no mérito, a revogação da prisão preventiva.
+Indeferida a liminar (fls. 141/143), o Ministério Público Federal opinou pela prejudicialidade do reclamo (fls. 148/149).
+É o relatório.
+Decido.
+O recurso está prejudicado.
+Isso porque, das informações colhidas na página eletrônica do Tribunal de origem, constatou-se que, em 18/6/2018, nos autos da Ação Penal n. 0005657-42.2018.8.13.0522, foi prolatada sentença condenatória, tendo sido expedido alvará de soltura em seu favor.
+Assim, não há como negar a perda superveniente do objeto deste recurso, tendo em vista ter cessado as circunstâncias determinantes da irresignação.
+Ante o exposto, com fulcro no art. 34, XX, do Regimento Interno desta Corte, julgo prejudicado o presente recurso em habeas corpus, ante a superveniente perda do seu objeto.
+Publique-se.
+Intimações necessárias.
