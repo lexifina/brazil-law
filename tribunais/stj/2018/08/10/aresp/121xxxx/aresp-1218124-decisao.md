@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento ao recurso especial, interposto em face de acórdão assim ementado:
+"Danos morais. Consumidora atacada na praça de alimentação do shopping por uma pessoa que manteve uma faca em seu pescoço, vindo a sofrer leves escoriações. Indivíduo com aparente confusão mental. Evento completamente imprevisível, inevitável e não tem relação com o risco da atividade. Culpa de terceiro configurada.
+Responsabilidade afastada. Art. 14, §3º do CDC.
+Improcedência acertada. Recurso improvido."
+Nas razões do especial, a parte recorrente alegou violação aos artigos 14 e 17 do Código de Defesa do Consumidor, e 186 e 927, parágrafo único, do Código Civil, bem como a existência de dissídio jurisprudencial, visto que a recorrida deve ser condenada ao pagamento de indenização a título de danos morais em razão das lesões decorrentes da falta de segurança inerente ao shopping.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente agravo, verifico que este não merece provimento, senão vejamos.
+A Súmula nº 568, desta Corte, dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Da análise dos autos, verifico que as sustentadas violações à lei federal não merecem guarida, em razão do óbice previsto pela Súmula nº 7/STJ, que impede o reexame do conjunto fático-probatório na via do recurso especial.
+Ainda, saliento que o Tribunal de origem decidiu em consonância com o entendimento pacificado nesta Corte, razão pela qual o recurso especial igualmente esbarraria no óbice sumular nº 83, do STJ, aplicável aos recursos interpostos com base em ambas as alíneas (AgInt no AREsp 720.037/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 3/5/2016, DJe 11/5/2016).
+É o que se depreende da leitura do seguinte trecho (fls. 145/146 e-STJ):
+"É incontroverso que a autora estava na praça de alimentação do shopping réu quando um indivíduo, que aparentava confusão mental, a agarrou por trás e colocou uma faca em seu pescoço, passando a ameaçá-la, somente vindo a ser liberada com a atuação dos policiais, que renderam o indivíduo, tendo sofrido leves escoriações.
+No entanto, embora se lamente a situação vivenciada pela autora, não está configurado o dano moral.
+A responsabilidade objetiva decorrente do risco da atividade de prestador de serviços, nos termos do artigo 14 do Código de Defesa do Consumidor, prescinde de culpa e se satisfaz apenas com o dano e o nexo de causalidade. Isso porque a ideia de culpa se desloca para a de risco-proveito ou risco-profissional, fundamentado no princípio de que é reparável o dano causado a outrem em consequência de uma atividade realizada em benefício do seu responsável.
+Contudo, a responsabilidade objetiva é afastada se, nos termos do art. 14, §3º, do Código de Defesa do Consumidor, verificar-se que o evento ocorreu por culpa exclusiva do consumidor ou de terceiro.
+No caso, o evento danoso deu-se por culpa exclusiva de terceiro, não se inserindo na hipótese de risco-proveito, porquanto completamente estranho à atividade do shopping e do que dela se espera. Trata- se de fato imprevisível e para o qual não concorreu o apelado, mormente considerando, como a própria autora admite, que o indivíduo que a atacou apresentava confusão mental.
+Não houve defeito na prestação de serviço do réu, já que não se pode dele exigir uma segurança que é impossível garantir. É evidente que se tratou de uma conduta completamente inesperada de alguém em surto, sendo indevido responsabilizar o shopping por evento que não tinha como prevenir.
+E, havendo fortuito externo, inexiste o dever de indenizar."
+Assim sendo, saliento que é assente na jurisprudência pátria que o caso fortuito externo é causa de exclusão de responsabilidade objetiva, a teor do disposto no artigo 14, § 3º, II, do Código de Defesa do Consumidor.
+Dessa forma, observo que a Corte estadual, ao analisar as circunstâncias contidas nos autos e o conjunto fático-probatório produzido no caso concreto, consignou expressamente que não foi comprovada falha de segurança na prestação dos serviços oferecidos pela recorrida, visto que o ataque promovido por indivíduo que aparentava confusão mental caracteriza fortuito externo apto a romper com o nexo de causalidade, pois extrapola os riscos inerentes ao serviço de shopping, não tendo sido demonstrada nenhuma conduta negligente por parte da recorrida.
+Com efeito, a alteração dessas premissas firmadas pela Corte Estadual esbarraria na vedação de reexame do conjunto fático-probatório por esta via do recurso especial, em virtude da Súmula acima mencionada.
+Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO POR DANOS - DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO RECLAMO - INSURGÊNCIA DA RÉ.
+1. "Nos termos da jurisprudência firmada nesta Corte Superior, a responsabilidade do transportador em relação aos passageiros é objetiva, somente podendo ser elidida por fortuito externo, força maior, fato exclusivo da vítima ou por fato doloso e exclusivo de terceiro - quando este não guardar conexidade com a atividade de transporte" (..) (REsp 974.138/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 22/11/2016, DJe 09/12/2016) 2. Rever a conclusão do Tribunal a quo acerca da responsabilidade civil reconhecida nos autos, demandaria o reexame de provas, providência que encontra óbice na Súmula 7 desta Corte Superior.
+3. A incidência da Súmula 7 impede o exame de dissídio jurisprudencial, porquanto ausente a similitude fática entre o acórdão recorrido e os paradigmas ditos divergentes.
+4. Agravo regimental desprovido.
+(AgRg no REsp 1388228/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 7/3/2017, DJe 14/3/2017)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. TRANSPORTE AÉREO. CANCELAMENTO DE VOO. FORTUITO EXTERNO COMPROVADO. DANO MORAL NÃO VERIFICADO. IMPOSSIBILIDADE DE ALTERAÇÃO DO QUANTUM FIXADO. REVISÃO. ÓBICE DA SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, tampouco a interpretação de cláusulas contratuais, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+2. No caso concreto, o Tribunal de origem, com base nos elementos fáticos dos autos, concluiu que não foi comprovado ato ilícito da primeira recorrida e que a responsabilidade da segunda recorrida seria afastada pela ocorrência de força maior. Alterar tais conclusões demandaria reexame de prova, inviável em recurso especial.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 851.703/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 26/4/2016, DJe 2/5/2016)
+Em face do exposto, não havendo o que reformar, nego provimento ao agravo.
+Intimem-se.
