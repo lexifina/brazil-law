@@ -1,0 +1,14 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDOR PÚBLICO. URV. CONVERSÃO. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SOBRE O QUAL SE ALEGA INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TJSP, assim ementado (fl. 163):
+AÇÃO ORDINÁRIA DE COBRANÇA  Diferenças salariais e indenização Servidora pública municipal  Recálculo  Conversão para URV  Lei Federal N. 8.880/94  Prescrição  Direito de trato sucessivo  Não há prescrição de fundo  Prescrição afastada  Lei Federal nº 8.880/94  Diferença pleiteada refere-se a servidores federais  Impossibilidade de extensão a servidores municipais  Recurso provido.
+A recorrente sustenta, além do díssidio jurisprudencial, sustenta ser possível "a aplicação da Lei Federal n.º 8.880/94, aos demais servidores, estaduais e municipais, pois tal lei refere-se ao sistema monetário, alcançando todas as situações" (fl. 186).
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 239.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+No caso dos autos, a recorrente não individualizou qual dispositivo de lei federal ou tratado se apresenta malferido. De fato, revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a expor alegações genéricas e não indica qual dispositivo de lei federal ou tratado foi contrariado pelo acórdão recorrido, situação que se evidencia nos autos e impede o conhecimento do recurso. Aplica-se à hipótese a Súmula 284/STF.
+Da mesma forma, quanto a apontada divergência jurisprudencial, a jurisprudência desta Corte firmou-se no sentido de que a ausência de indicação do dispositivo legal objeto de interpretação divergente, configura deficiência na fundamentação recursal, o que impede o conhecimento do apelo nobre interposto com fundamento no artigo 105, III, "c", da Constituição Federal. Incidência da Súmula 284/STF. Nesse sentido: AgInt no REsp 1.624.206/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 15/12/2016; AgInt no REsp 1.622.220/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 15/12/2016; AgRg no AREsp 682.625/PE, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 25/11/2016; AgInt no AREsp 842.727/RN, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 6/10/2016.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
