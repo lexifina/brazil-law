@@ -1,0 +1,31 @@
+DECISÃO
+ADMINISTRATIVO. RECURSO ESPECIAL. CONCURSO PÚBLICO. EDITAL 1/11. CORPO DE BOMBEIROS. AVALIAÇÃO PSICOLÓGICA. VIOLAÇÃO A LEI LOCAL. SÚMULA 280/STF. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de decisão que admitiu o Recurso Especial interposto pelo DISTRITO FEDERAL, com fundamento na alínea a do art. 105, III da Constituição Federal, no qual se insurge contra acórdão proferido pelo egrégio TJDFT, que foi assim ementado:
+CONCURSO PÚBLICO. EDITAL 1/11. CORPO DE BOMBEIROS. AVALIAÇÃO PSICOLÓGICA.
+A avaliação psicológica deve observar critérios objetivos, que não foram especificados, e ater-se ao estado mental do candidato, reservando-se para o estágio probatório a análise da aptidão para o exercício do cargo (fls. 366).
+2. Em suas razões recursais, o recorrente aponta violação dos arts. 1.022, II do CPC e 10, 11 da Lei 7.479/86, aos argumentos de que: (a) o Tribunal de origem foi omisso quanto a matéria discutida; (b) aptidão psicológica é condição de ingresso ao Corpo de Bombeiros Militar do Distrito Federal; (c) o acórdão recorrido violou as regras do edital e anulou o teste e garantiu continuidade do candidato nas demais fases do concurso.
+3. É o relatório.
+4. No tocante ao art. 1.022, II do CPC, inexiste a violação apontada. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+5. No mérito, em que pese o inconformismo da parte recorrente, verifica-se que a referida lei, apesar de formalmente federal, tem caráter local, circunstância que atrai a incidência do enunciado 280 da Súmula de jurisprudência do Supremo Tribunal Federal. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CONCURSO PÚBLICO. POLÍCIA MILITAR DO DISTRITO FEDERAL. LEI N. 7.289/84. MATÉRIA LOCAL. SÚMULA 280/STF.
+1. No tocante à apontada ofensa ao art. 11, caput, da Lei n. 7.479/86, que disciplina o Estatuto dos Bombeiros-Militares do Distrito Federal, anote-se que o Superior Tribunal de Justiça firmou a orientação de que as leis de aplicação restrita ao Distrito Federal, a exemplo da norma em questão, embora publicadas pelo Congresso Nacional, são de natureza local.
+2. Aplicável à hipótese, portanto, por analogia, a Súmula 280 do Supremo Tribunal Federal, in verbis: "Por ofensa a direito local, não cabe o recurso extraordinário".
+3. Agravo interno a que se nega provimento (AgInt no REsp. 1.324.535/DF, Rel. Min. OG FERNANDES, DJe 3.5.2017).
+
+PROCESSUAL CIVIL. ADMINISTRATIVO. ALEGADA VIOLAÇÃO DO ART. 535. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS DE LEI INVOCADOS. SÚMULA 211/STJ. ANÁLISE DE DIREITO LOCAL POR ESTA CORTE. IMPOSSIBILIDADE. SÚMULA 280/STF.
+1. O recorrente limitou-se a alegar, genericamente, ofensa ao art. 535 do CPC, sem explicitar os pontos em que teria sido omisso o acórdão recorrido. Assim, aplica-se ao caso, mutatis mutandis, o disposto na Súmula 284/STF: É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.
+2. A Corte de origem não analisou, nem sequer implicitamente, os arts. 5o. e 6o., § 2o., da Lei de Introdução às Normas do Direito Brasileiro - LINDB. Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente, a despeito da oposição dos embargos de declaração. Incidência da Súmula 211/STJ.
+3. Cumpre destacar que a jurisprudência do STJ é firme no sentido de que não cabe, em recurso especial, examinar alegação de ofensa aos arts. 5o. e 6o. da LICC por envolver matéria de natureza constitucional.
+4. Segundo se observa dos fundamentos que serviram de fundamento para a Corte de origem apreciar a controvérsia acerca da complementação de pensão, o tema foi dirimido no âmbito local (Leis estaduais 4.819/58 e 200/74), de modo a afastar a competência desta Corte Superior para o deslinde do desiderato contido no recurso especial: O exame de normas de caráter local é inviável na via do recurso especial, em face da vedação prevista na Súmula 280 do STF, segundo a qual por ofensa a direito local, não cabe recurso extraordinário".
+Agravo regimental improvido (AgRg no AREsp. 833.913/SP, Rel. Min. HUMBERTO MARTINS, DJe 8.3.2016)
+
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. VIOLAÇÃO AO ART. 535 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. ACÓRDÃO EMBASADO EM NORMA DE DIREITO LOCAL. CONSTITUIÇÃO ESTADUAL E LEI ESTADUAL 3.796/96. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 280/STF. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 9o., I, ART. 97, I E II, E ART. 156, I, DO CTN E ART. 6o., § 1o., DA LEI COMPLEMENTAR 97/96. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 282/STF. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA 283/STF.
+I. A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula 284, do Supremo Tribunal Federal.
+II. Não cabe ao Superior Tribunal de Justiça, no Recurso Especial, rever acórdão que demanda interpretação de direito local, à luz do óbice contido na Súmula 280 do Supremo Tribunal Federal.
+III. É entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 282 do Supremo Tribunal Federal.
+IV. A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+V. A Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+VI. Agravo Regimental improvido (AgRg no REsp. 1.560.897/SE, Rel. Min. REGINA HELENA COSTA, DJe 2.2.2016).
+6. Diante do exposto, nega-se seguimento ao Recurso Especial.
+7. Publique-se.
+8. Intimações necessárias.
