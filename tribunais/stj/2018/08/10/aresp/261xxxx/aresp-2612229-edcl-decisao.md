@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] contra decisão que determinou o sobrestamento do recurso especial até o juízo de conformação pela Corte de origem com o entendimento do STF, firmado no RE n. 718.874/RS (Tema 669).
+O embargante sustenta que:
+"a r. decisão embargada deveria ter manifestado sobre a matéria relativa à legitimidade passiva do SENAR, a qual foi argüida pelo embargante na petição de interposição do recurso especial e, conforme já referido, não está, de qualquer forma, vinculada ao que restou decidido pelo Colendo Supremo Tribunal Federal no julgamento do recurso extraordinário n. 718.874/RS  ..  se consoante a jurisprudência dos Tribunais Superiores, o órgão judicante deve se manifestar sobre todos os fundamentos trazidos pelas partes, deixando de examinar a matéria relativa à legitimidade passiva do SENAR, a qual foi arguida pelo embargante na petição de interposição do recurso especial, a r. decisão embargada incorreu em omissão, a qual deve ser sanada no julgamento dos presentes embargos de declaração" (e-STJ fls. 1.146/1.147).
+Impugnação foi apresentada pelo SERVIÇO DE APRENDIZAGEM NACIONAL - SENAR, na qual aduz que:
+"os embargos de declaração opostos se demonstram desnecessários, na medida em que o despacho proferido não analisou o mérito da questão: trata-se de mera decisão determinando a remessa dos autos ao Tribunal de origem e, consequentemente, o sobrestamento do recurso em tela  ..  seriam cabíveis embargos somente se fosse verificado erro material, o que não ocorreu na circunstância em apreço  ..  a determinação de remessa dos autos ao Tribunal a quo não prejudica o futuro enfrentamento da matéria suscitada nos embargos (legitimidade passiva do SENAR)  ..  correta a decisão embargada, uma vez que o Acórdão proferido pelo Tribunal de origem não está de acordo com o entendimento atual do Supremo Tribunal Federal, proferido em julgamento com Repercussão Geral (RE n. 718.874/RS)" (e-STJ fl. 1.152/1.153).
+Sem impugnação pela Fazenda Nacional
+Passo a decidir.
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+Na hipótese, a decisão embargada determina o sobrestamento do recurso, destacando que, somente depois do juízo de conformação, que representa o exaurimento da instância ordinária, é que os autos poderão ser encaminhados para esta Corte Superior para análise das questões jurídicas não prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Nesse contexto, não há falar em omissão quanto à legitimidade do SENAR.
+De toda sorte, se a parte embargante pretender a demonstração da distinção entre a matéria agitada no especial e aquela objeto da tese firmada pelo STF, deve observar que, de acordo com o CPC/2015, a distinção deve ser demonstrada por meio do requerimento previsto no art. 1.037, § 9º, do CPC/2015.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
