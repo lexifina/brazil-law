@@ -1,0 +1,25 @@
+DECISÃO
+Na origem, trata-se de mandado de segurança com pedido liminar impetrado por [NOME] S/A contra ato praticado pelo Delegado da Receita Federal, com valor da causa fixado em R$ 1.505,525,87 (um milhão, quinhentos e cinco mil, quinhentos e vinte e cinco reais, oitenta e sete centavos). Na sentença, concedeu-se a segurança. No Tribunal Regional Federal da 4ª Região, a sentença foi mantida, conforme a seguinte ementa do acórdão:
+TRIBUTÁRIO. PEDIDO ADMINISTRATIVO. RESPOSTA. PRAZO. TAXA SELIC. TERMO INICIAL DA CORREÇÃO MONETÁRIA, NA HIPÓTESE EM QUE CARACTERIZADA A MORA DO FISCO.
+Uma vez protocolizado pedido na via administrativa, o prazo prescricional é suspenso, cujo curso será retomado somente com a decisão final da Administração Pública sobre o pedido A Lei nº 11.457, de 2007, estabelece, em seu art. 24, o prazo de 360 dias para que a administração decida os requerimentos administrativos de matéria tributária.
+Caracterizada a mora do Fisco ao analisar o pedido administrativo de reconhecimento de crédito escritural ou presumido (quando extrapolado o prazo de análise do pedido - 150 ou 360 dias, conforme o caso), deve incidir correção monetária, pela taxa SELIC, a partir da data do protocolo do pedido administrativo.
+Não foram opostos embargos declaratórios.
+Interposto recurso especial pela Fazenda Nacional, com fundamento no art. 105, III, a, da Constituição Federal.
+Nas razões do recurso especial, a parte recorrente aponta violação do art. 24 da Lei 11.457/2007. Sustenta, em síntese, que a correção monetária para o recebimento dos créditos presumidos deve ter fluência no prazo de 360 dias após a entrada do protocolo do pedido administrativo.
+Indica, ainda, violação ao art. 170 do CTN; art. 73 da Lei 9.430/1996; art. 6º do Decreto 2.136/2009 e; art. 7º do DEL 2287/1986, sustentando em síntese a possibilidade da Administração realizar o desconto de valores a restituir com a compensação de outros créditos devidos pelo contribuinte.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+No STJ, foi proferida decisão na qual se conheceu parcialmente do recurso especial, negando provimento, nesta parte, uma vez que o acórdão recorrido, ao dispor sobre a matéria, cingiu-se à interpretação de regramentos e princípios constitucionais.
+Opostos embargos de declaração pela União, aponta a parte embargante erro material, entendendo que deveria constar no dispositivo o provimento parcial do recurso especial, quanto à incidência da taxa SELIC após o fim do prazo de 360 dias do protocolo do pedido administrativo, conforme o seguinte trecho da petição (fl. 468-469):
+A decisão ora embargada analisou a incidência da taxa Selic, decidindo sua incidência a partir do fim do prazo de 360 dias do protocolo do pedido administrativo, conforme pedido no Recurso Especial fazendário e nos termos do entendimento do e. STJ.
+Contudo, apesar de ter dado provimento ao Recurso Especial nesta parte, ao proferir o dispositivo da decisão monocrática, constou a negativa de provimento ao Recurso Especial.
+Intimada, a parte embargada apresentou impugnação em que requer a rejeição dos embargos, uma vez que não se trata de de pedido de ressarcimento, mas de pedido de restituição de pagamento indevido, conforme o seguinte trecho da petição, fls. 488:
+ ..  a insurgência do Embargante União-Fazenda Nacional, não prospera, posto que, conforme já exaustivamente esclarecido, não se está aqui a tratar de pedidos de ressarcimento, mas de pedido de restituição de pagamento indevido, razão pela qual a correção monetária deve incidir desde referido pagamento indevido, conforme determina o art. 39, §4º, da Lei nº 9.250/95.
+A discussão, portanto, quanto ao termo a quo da incidência da taxa SELIC, se da data do protocolo, ou após 360 dias, é descabida, vez que em razão de determinação legal a correção monetária, in casu, é desde o pagamento indevido ou a maior.
+É o relatório. Decido.
+Os embargos merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre as quais devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+De fato como alega a parte embargante, a decisão apresenta erro material, por essa razão passo a sua correção nos termos da fundamentação abaixo em substituição àquela constante na decisão embargada.
+Onde se lê: "Ante o exposto, conheço parcialmente do recurso especial e, nesta parte, nego-lhe provimento, com fundamento no art. 255, § 4º, I e II, do RI/STJ".
+Leia-se: Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para reconhecer que a incidência de correção monetária nos créditos que forem reconhecidos somente começa a fluir a partir do término do prazo de 360 dias, contado do protocolo administrativo de ressarcimento.
+Ante o exposto, acolho os embargos de declaração sem efeitos modificativos nos termos da fundamentação delineada.
+Publique-se. Intime-se.
