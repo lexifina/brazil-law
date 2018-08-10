@@ -1,0 +1,9 @@
+DECISÃO
+Cuida-se de embargos declaratórios ajuizados em face da decisão que julgou agravo manifestado em face do juízo de admissibilidade que negou seguimento ao recurso especial interposto contra acórdão assim ementado:
+PLANO DE SAÚDE - Recusa ao custeio de tratamento - Abusividade - Contrato não restringe a cobertura da doença que acomente a paciente - Retinopatia diabética - Cláusulas contratuais que devem ser interpretadas de forma mais favorável ao consumidor (art. 47, do CDC ) - Escolha do tratamento a ser ministrado que não cabe à operadora de plano de saúde, mas sim ao médico especialista - Ilegitimidade passiva da Fundação CESP - Reconhecimento - Mera intermediadora - Prejudiciais afastadas - Sentença mantida - Agravo e apelação desprovidos.
+O embargante reitera os argumentos do recurso especial, no sentido de que o acórdão estadual é omisso, pois não se pronunciou acerca do conjunto probatório fornecido aos autos, que atesta a legitimidade passiva da Fundação CESP.
+Intimada (fl. 329 e-STJ), a parte agravada não ofereceu impugnação.
+Quanto à alegada violação aos arts. 165, 458, 515 e 535 do Código de Processo Civil, sem razão a recorrente, haja vista que enfrentadas fundamentadamente todas as questões levantadas pela parte, porém em sentido contrário ao pretendido, o que afasta a invocada declaração de nulidade.
+Com efeito, o tema relativo à legitimidade passiva da Fundação CESP foi expressamente tratado no acórdão recorrido, às fls. 237/239 e-STJ, afirmando a Corte de origem que "a fundação atuou na contratação da apólice coletiva na qualidade de mera intermediária", não podendo, assim, "ser responsabilizada pelas despesas pleiteadas pela autora, já que da sua estipulação não auferiu qualquer proveito". Assentou, por fim, que "a obrigação de prestação de serviços médico/hospitalar é mesmo toda da Unimed Bauru".
+Em face do exposto, rejeito os embargos declaratórios.
+Intimem-se.
