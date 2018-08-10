@@ -1,0 +1,27 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. REVISÃO DE APOSENTADORIA. PRESCRIÇÃO DE FUNDO DE DIREITO. EXAME DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. PROCESSUAL CIVIL. VIOLAÇÃO A SÚMULA. IMPOSSIBILIDADE. NÃO ENQUADRAMENTO NO CONCEITO DE LEI FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO TIDO POR VIOLADO. SÚMULA 282/STF. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRF da 5ª Região, assim ementado (fl. 111):
+ADMINISTRATIVO. REVISÃO DE ATO DE CONCESSÃO DE APOSENTADORIA. PRESCRIÇÃO. FUNDO DO DIREITO. CONFIGURAÇÃO. APELO NÃO PROVIDO.
+1. Busca o apelante a reforma da sentença que reconheceu a ocorrência da prescrição em ação ordinária que objetivava a revisão da aposentadoria do autor, para que seja reposicionado no padrão da classe imediatamente superior à que estava, segundo art. 192, I, da Lei nº. 8.112/90, já revogado pela Lei nº 9.527/97.
+2. Quanto à incidência da prescrição, aplica-se ao caso o Decreto nº 20.910/32, que prevê o prazo de 5 (cinco) anos para o ajuizamento de ações contra a Fazenda Pública, a contar da data do ato ou fato do qual se originarem.
+3. A Portaria que concedeu a aposentadoria com proventos integrais, ao autor, no cargo de [NOME], é datada de 03 de outubro de 1997.
+4. O termo inicial para a contagem do prazo prescricional quinquenal é o dia 03 de outubro de 1997, o qual findou em 03 de outubro de 2002.
+Reconhecida a prescrição, tendo em vista que a presente demanda foi proposta apenas em março de 2015.
+5. Precedentes desta Corte: (PROCESSO: 08036970820164058100, AC/CE, DESEMBARGADOR FEDERAL RUBENS DE MENDONÇA CANUTO, 4ª Turma, JULGAMENTO: 13/05/20175.
+6. Apelação não provida.
+O recorrente alega, preliminarmente, violação dos arts. 5º, LV, e 93, IX, da Constituição Federal, suscitando nulidade do acórdão recorrido por negativa de prestação jurisdicional.
+Quanto a questão de fundo, sustenta, além do dissídio jurisprudencial: a) violação dos princípios constitucionais do direito adquirido, ato jurídico perfeito e e da isonomia; b) das Súmulas 85/STJ e 443/STF, ao argumento de que no presente caso incide tão somente a prescrição quinquenal das parcelas, não havendo que se falar em prescrição de fundo de direito, e; c) violação do art. 192 da Lei 8.112/1990, porquanto teria cumprido os requisitos inerentes à percepção da aludida vantagem, antes da revogação do benefício, razão pela qual teria direito adquirido ao pagamento de seus proventos com bse na remuneração do padrão da classe imediatamente superrior àquela em que posicionado (fl. 132)
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 170.
+É o relatório. Passo a decidir.
+Inicialmente, nos termos do art. 105, inciso III, da Constituição da República, o recurso especial é destinado tão somente à uniformização da interpretação do direito federal, não sendo, assim, a via adequada para a análise de eventual ofensa a dispositivos constitucionais, bem como de princípios constitucionais, cuja competência pertence ao Supremo Tribunal Federal. Por tal motivo, não se conhece do apelo especial no tocante à alegação de violação dos arts. 5º, LV, e 93, IX, da CF/88.
+Da mesma forma, o recurso especial não constitui via adequada para a análise de eventual ofensa a Súmula, ainda que vinculante, porque o termo não está compreendido na expressão "lei federal", constante da alínea "a" do inciso III do artigo 105 da Constituição Federal.
+No que se refere a violação do art. 192 da Lei 8.112/1990, verifica-se que não houve juízo de valor por parte da Corte de origem, a qual se limitou a assentar a incidência da prescrição de fundo de direito, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Frise-se, por oportuno, que não foram opostos embargos de declaração na origem, com o intuito de sanar eventual vício relativo à aplicação do aludido dispositivo legal.
+No que se refere a incidência tão somente da prescrição quinquenal das parcelas, afastando-se a prescrição de fundo de direito, o recorrente não indicou os normativos de lei federal ou tratado supostamente violados pelo acórdão recorrido, o que inviabiliza a exata compreensão da controvérsia e impede o conhecimento do recurso especial por deficiência na argumentação recursal, a teor da Súmula 284/STF.
+Segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+Ante o exposto, não conheço do recurso especial.
+Majoro em 10% os honorários advocatícios fixados anteriormente, observados os limites e parâmetros dos §§ 2º, 3º e 11 do art. 85 do CPC/2015 e eventual gratuidade de justiça (cart. 98, § 3º, CPC/2015).
+Publique-se.
+Intimem-se.
