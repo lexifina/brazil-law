@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SWISS PARK BRASILIA INCORPORADORA LTDA contra decisão que inadmitiu recurso especial fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal. O apelo nobre insurge-se contra acórdão do Tribunal de Justiça do Distrito Federal e Territórios assim ementado:
+"CIVIL. CONSUMIDOR E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. RESCISÃO CUMULADA COM RESTITUIÇÃO. COMPRA E VENDA DE IMÓVEL. ESCRITURAÇÃO NA MATRÍCULA. LOTEAMENTO. GARANTIA FIDUCIÁRIA. CÓDIGO DE DEFESA D O CONSUMIDOR. ATRASO. OBRAS DE INFRAESTRUTURA. DEVOLUÇÃO INTEGRAL. IMPROVIDO.
+1. Ação de conhecimento, com pedido de rescisão de compra e venda de lote, sob alegação de mora da vendedora na implementação das obras de infraestrutura. 1.1. Sentença de procedência, rescindindo o contrato e condenando a requerida a restituir os valores pagos, verbis: "decretar a rescisão de contrato de compra e venda firmado entre as partes em decorrência de descumprimento da avença pela parte ré, condenando esta a restituir à para autora todos os valores vertidos, em parcela única, acrescidos de correção monetária a partir do desembolso e de juros legais a partir da citação."
+2. Da natureza consumerista da lide. 2.1. O fato de o negócio jurídico celebrado entre as partes ser regido pelas disposições da Lei 9.514/1997 não afasta a aplicação do Código de Defesa do Consumidor, quando presentes os elementos que definidores da relação de consumo.
+3. Da rescisão contratual - mora da vendedora - prazo conclusão - obras de infraestrutura. 3.1. Segundo estabelecido na escritura de venda e compra, o prazo para entrega das obras de infraestrutura do empreendimento seria de 2 anos, contados da assinatura. 3.2. Como o negócio foi celebrado em 28/1/2014, o prazo para entrega seria em janeiro de 2016. 3.3. Entretanto, até a data de ajuizamento da ação a requerida não havia adimplido com as obras de infraestrutura prevista na cláusula 3a do contrato:
+"a) trabalhos de topografias; b) terraplanagem; c) drenagem das águas pluviais; d) pavimentação; e) rede de água potável; t) rede energia elétrica; g) reflorestamento, arborização das vias e paisagismo; h) portarias; i) proteção perimetral; j) área de lazerill 3.4.A própria ré, confessou em contestação, que o empreendimento ainda aguardava "a visita para fiscalização da Prefeitura para liberação do Termo de Vistoria de Obras".
+4. Da devolução integral dos valores adimplidos - Súmula 543 do STJ.4.1. Segundo a exegese dos artigos 481 e 182 do Código Civil, rescindida a compra e venda "restituir-se-ão as partes ao estado em que antes dele se achavam, e, não sendo possível restituí-las, serão indenizadas com o equivalente." 4.2. Na mesma linha, a Súmula 543 do STJ preceitua que: "Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento" 5. Recurso improvido (fls. 641-642 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 583-588 e-STJ).
+No especial, além da divergência jurisprudencial, a recorrente alega violação dos arts. 1.022 do Código de Processo Civil e 26 e 27 da Lei nº 9.514/1997. Sustenta, em síntese, negativa de prestação jurisdicional e, no mérito, que se tratando de escritura de compra e venda de imóvel em alienação fiduciária não é cabível a rescisão contratual, mas o procedimento previsto na Lei nº 9.514/1997.
+Contrarrazões às fls. 623-638 (e-STJ), e não admitido o recurso na origem, adveio o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+De início, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em negativa de prestação jurisdicional apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+No tocante à alegação de ofensa aos arts. 26 e 27 da Lei nº 9.514/1997, o recurso não merece nem sequer conhecimento.
+Isso porque os conteúdos normativos dos referidos dispositivos legais, apontados como malferidos, não foram objeto de debate no acórdão recorrido, apesar da oposição de embargos declaratórios, não havendo falar, assim, sequer no implícito prequestionamento das questões federais por eles disciplinadas.
+Desatendido, portanto, o requisito do prequestionamento, nos termos da Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL. EXECUÇÃO. PRINCÍPIO DA MENOR ONEROSIDADE. INTERESSE DO CREDOR. PREQUESTIONAMENTO. SÚMULA 211/STJ. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1.- O princípio da menor onerosidade ao devedor deve estar em harmonia com o interesse do credor.
+2.- O prequestionamento, entendido como a necessidade de o tema objeto do recurso haver sido examinado pela decisão atacada, constitui exigência inafastável da própria previsão constitucional, ao tratar do recurso especial, impondo-se como um dos principais requisitos ao seu conhecimento. Não examinada a matéria objeto do especial pela instância a quo, mesmo com a oposição dos embargos de declaração, incide o enunciado 211 da Súmula do Superior Tribunal de Justiça.
+3.- A verificação da afronta ao princípio da menor onerosidade do devedor, insculpido no artigo 620 do Código de Processo Civil, esbarra no óbice da Súmula 7 deste Tribunal.
+4.- Agravo Regimental improvido".
+(AgRg no AREsp 158.707/SP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 22/5/2012, DJe 5/6/2012 - grifou-se).
+"AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AÇÃO RESCISÓRIA. VIOLAÇÃO À COISA JULGADA. VERIFICAÇÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Carece do necessário prequestionamento a matéria não debatida pelo Tribunal de origem, ainda que opostos embargos de declaração.
+Incidência da súmula 211/STJ.
+2. A alteração das conclusões do aresto impugnado, no tocante à suposta ofensa à coisa julgada e consequente pertinência do pleito rescisório, demanda o reexame das provas constantes dos autos, providência vedada em sede especial, a teor da súmula 07/STJ.
+3. AGRAVO REGIMENTAL DESPROVIDO".
+(AgRg no Ag 1.327.008/GO, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 15/3/2012, DJe 21/3/2012 - grifou-se).
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em R$ 5.000,00 (cinco mil reais), os quais devem ser majorados para R$ 7.000,00 (sete mil reais) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
