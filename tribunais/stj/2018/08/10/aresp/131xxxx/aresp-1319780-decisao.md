@@ -1,0 +1,30 @@
+DECISÃO
+
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Paraná, assim ementado:
+"APELAÇÃO CÍVEL - RESPONSABILIDADE CIVIL - MANUTENÇÃO INDEVIDA DE INSCRIÇÃO NOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO - NEGATIVAÇÃO PERMANECEU POR QUASE DOIS ANOS APÓS A COMPROVADA QUITAÇÃO DO DÉBITO - PRAZO EXCESSIVO - ENTENDIMENTO ST  - ATO ILÍCITO CONFIGURADO - DEVER DE INDENIZAR - MAJORAÇÃO DO QUANTUM POSSIBILIDADE - FIXAÇÃO DA INDENIZAÇÃO QUE DEVE SE DAR DE FORMA RAZOÁVEL E PROPORCIONAL - MAJORAÇÃO DOS HONORÁRIOS - POSSIBILIDADE. RECURSO PROVIDO" (fls.256/257)
+Opostos embargos de declaração, os mesmos foram rejeitados (e-STJ, fls. 292/304).
+Nas razões do recurso especial, a parte agravante alega violação aos arts. 186, 927 do Código Civil de 2002 e 14 do Código de Defesa do Consumidor, sustentando, em síntese, (a) que foi inscrito indevidamente no SERASA pela parte agravante, razão pela qual foi arbitrado valor de R$ 5.000,00 (cinco mil reais) a título de danos morais e (b) que o valor arbitrado é irrisório, e que apesar dos critérios de quantificação serem abertos, o juiz deve arbitrá-lo com base em critérios como extensão do dano, condição econômica das partes e caráter pedagógico, o que não ocorreu.
+Não foram apresentadas contrarrazões.
+É o relatório. Decido.
+De início, cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+No tocante à suposta violação aos arts. 186, 927 do CC/02 e 14 do CDC, todos cingem-se à suposta necessidade de majoração do valor da condenação em danos morais.
+Nesse ponto, o Tribunal de origem concluiu que o valor de R$ 5.000,00 (cinco mil reais) seria adequado ao presente caso, considerando as peculiaridades do caso, in verbis:
+"O parâmetro adequado para fixação da indenização por danos morais deve se orientar pelos princípios da razoabilidade e proporcionalidade, além de observar a condição socioeconômica dos envolvidos, a intensidade da ofensa e sua repercussão.
+Assim, se de um lado não se deve fixar um valor a permitir o enriquecimento do autor/apelante, também não se pode aceitar um valor que não represente uma sanção efetiva à ré/apelada.
+No caso concreto, entendo que o valor adequado para reparar os danos sofridos peio apelante/autor deve ser majorado para R$ 5.000,00 (cinco mil reais), considerando o tempo que o nome do autor permaneceu indevidamente nos cadastros de restrição ao crédito" (quase dois anos). (e-STJ, fls. 268/269)
+Quanto ao valor fixado a título de indenização por danos morais, o Superior Tribunal de Justiça firmou orientação no sentido de que somente é admissível o exame do valor fixado a título de danos morais em hipóteses excepcionais, quando for verificada a exorbitância ou a índole irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade. O valor de R$ 5.000,00 (cinco mil reais), arbitrado a título de danos morais, não é irrisório nem desproporcional aos danos sofridos pela parte agravante, que conforme consta no acórdão, foi inscrita no cadastro de proteção ao crédito.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO (ART. 1.042 DO CPC/15) - AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE TÍTULOS C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA REQUERIDA.
+1. Incide o óbice recursal da Súmula n. 282 do STF na hipótese em que o dispositivo legal apontado como violado - artigo 188, I, do CC/02 - não teve o competente juízo de valor aferido, nem interpretada ou a sua aplicabilidade afastada ao caso concreto pelo Tribunal de origem.
+2. Incidência do óbice da súmula 7/STJ no tocante à tese de afastamento da responsabilidade civil. Tribunal local que, com amparo nos elementos de convicção dos autos, entendeu estar provado o fato constitutivo do direito do autor, decidindo pela presença dos requisitos ensejadores da obrigação de indenizar. Impossibilidade de reexame de fatos e provas. 3. Esta Corte firmou o entendimento de que, nos casos de protesto indevido de título ou inscrição irregular em cadastros de inadimplentes, o dano moral configura-se in re ipsa, ou seja, prescinde de prova. Precedentes.
+4. A indenização por danos morais, fixada em quantum sintonizado ao princípio da razoabilidade, não enseja a possibilidade de interposição do recurso especial, dada a necessidade de exame de elementos de ordem fática, cabendo sua revisão apenas em casos de manifesta excessividade ou irrisoriedade do valor arbitrado o que não é o caso dos autos. Incidência da Súmula n. 7/STJ.
+5. Agravo interno desprovido."
+(AgInt no AREsp 1077698/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/03/2018, DJe 26/03/2018)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DANO MORAL. AUSÊNCIA DE PRÉVIA NOTIFICAÇÃO DA INSCRIÇÃO DO NOME DO DEVEDOR NOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO. VALOR COMPENSATÓRIO MAJORADO.
+REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que a revisão do valor arbitrado a título de indenização por danos morais será viável quando irrisório ou exorbitante o montante fixado, em evidente ofensa aos princípios da razoabilidade e da proporcionalidade.
+2. Na espécie, o valor de R$ 1.000,00 (mil reais) arbitrado a título de danos morais por falta de notificação prévia da inscrição em cadastro restritivo não reflete os parâmetros regulares desta Casa, motivo pelo qual se majorou o quantum da compensação para R$ 5.000, 00 (cinco mil reais). Precedentes.
+3. Agravo regimental não provido."
+(AgRg no AREsp 811.028/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/02/2016, DJe 07/03/2016)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
