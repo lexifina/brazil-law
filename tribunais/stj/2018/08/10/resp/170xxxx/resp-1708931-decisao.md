@@ -1,0 +1,22 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL. CANCELAMENTO DE CDA. EXTINÇÃO PARCIAL DO PROCESSO. PEDIDO FORMULADO PELA PRÓPRIA EXEQUENTE. CONDENAÇÃO DA FAZENDA PÚBLICA EM HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. ART. 26 DA LEF. AUSÊNCIA DE COMANDO NORMATIVO. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, inc. III, "a", da Constituição Federal, contra acórdão proferido pelo TRF4 assim ementado (fl. 345):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. CERTIDÃO DE DÍVIDA ATIVA. CANCELAMENTO. PROCESSO. EXTINÇÃO PARCIAL. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO.
+Quando a inscrição em dívida ativa for exigível à época do ajuizamento da execução fiscal e a extinção do feito não for precedida de defesa pela parte executada, não cabe a condenação da Fazenda Pública ao pagamento de honorários advocatícios.
+EXECUÇÃO FISCAL. JUSTIÇA ESTADUAL DO PARANÁ. COMPETÊNCIA DELEGADA. CUSTAS PROCESSUAIS.
+A isenção da Fazenda Pública do pagamento de custas processuais, prevista no art. 39 da Lei nº 6.830, de 1980, não tem lugar quando se trata de execução fiscal ajuizada na Justiça Estadual, por força da competência delegada (Constituição Federal, art. 109, § 3º).
+Embargos de declaração com provimento negado.
+A recorrente alega violação do art. 26 da LEF, sob os seguintes argumentos: a) no caso, são devidos os honorários advocatícios pela extinção da CDA, vez que é irrefutável a contratação de advogado pela Recorrente para promover a sua defesa, já que demandada em juízo indevidamente; b) a condenação em honorários advocatícios pauta-se pelo princípio da causalidade e da sucumbência, impondo-se àquele que deu azo à instauração do processo, o dever de pagar a verba honorária à parte contrária; c) a isenção prevista no art. 26 da Lei 6.830/1980 não se aplica ao caso em questão; d) na hipótese, o reconhecimento de causa extintiva da ação por parte da União se deu após a citação da executada, ora Recorrente, inclusive com nomeação de bens à penhora, e posterior apresentação de Embargos à Execução; e) o pedido de extinção das CDA"s fora abordado no embargos à execução pela Executada/Recorrente.
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 403.
+É o relatório. Passo a decidir.
+No que diz respeito às alegações recursais, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou a seguinte compreensão (fl. 343):
+"(..), à época do ajuizamento da execução de origem os créditos tributários inscritos em dívida ativa sob o nº 90.6.13.000284-08 eram plenamente exigíveis, de modo que não se pode dizer que a União ingressou com uma execução fiscal desprovida de título executivo, pois o cancelamento da inscrição de dívida ativa foi posterior ao ajuizamento do feito. Ainda, verifica-se que a informação acerca do cancelamento administrativo da certidão de dívida ativa veio aos autos em manifestação espontânea da própria União, que, consequentemente, requereu a extinção do feito em relação a ela
+Acresce que embora a parte executada tenha constituído advogado, não houve apresentação de defesa, tendo as manifestações do executado na origem se limitado a informar a adesão a programas de parcelamento e a indicar bens à penhora.
+Ora, caberia a condenação ao pagamento de honorários se a extinção parcial da dívida fosse precedida de defesa pelo executado (cf. STJ, AgRg no AgRg no REsp 1217649 / SC, Segunda Turma, DJe 14/10/2011; TRF4, AG 5009741-68.2016.404.0000, Primeira Turma, juntado aos autos em 07/07/2016; TRF4, AC 0009480-67.2016.404.9999, Segunda Turma, D.E. 26/09/2016), o que não é o caso dos autos.
+Assim, como a extinção parcial da execução fiscal não se deveu à atuação do procurador da parte executada, mas a pedido formulado pela própria exequente, inexiste causa para que sejam fixados honorários, devendo ser reformada a decisão agravada no ponto."
+Assim, tem-se que a revisão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Ademais, não é possível conhecer do recurso especial que apresenta suposta violação do art. 26 da LEF, pois o dispositivo indicado como malferido não contém comando normativo capaz de infirmar o juízo formulado no acórdão recorrido. Aplica-se à hipótese, também, a Súmula 284/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
