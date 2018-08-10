@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Mato Grosso, ementado nos seguintes termos:
+    “ADMINISTRATIVO E PROCESSUAL CIVIL – AGRAVO DE INSTRUMENTO – AÇÃO CIVIL PÚBLICA – IMPROBIDADE ADMINISTRATIVA – PRELIMINAR DE ILEGITIMIDADE PASSIVA DO RECORRENTE – REJEITADA – PROCURADOR-GERAL DO ESTADO – HOMOLOGAÇÃO DE PARECER – APARÊNCIA DE LEGALIDADE AO ATO – PAGAMENTO INDEVIDO EFETUADO – DANO AO ERÁRIO – CARACTERIZADO – INDÍCIOS DA PRÁTICA DE ATO ÍMPROBO – RECEBIMENTO DA INICIAL – MEDIDA ACAUTELATÓRIA DE INDISPONIBILIDADE DE BENS – POSSIBILIDADE – RECURSO DESPROVIDO.” (eDOC 4, p. 34)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, alínea “a”, da Constituição Federal, aponta-se violação ao art. 133, do texto constitucional.
+    Nas razões recursais, sustenta-se, em síntese, que o acórdão recorrido destoa da Jurisprudência dessa Corte, ao afirmar que o parecer jurídico opinativo homologado pelo Recorrente constitui ato administrativo crucial para existência de lesão ao erário.
+    Decido.
+    O recurso não merece prosperar.
+    Isso porque, o Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei 8.429/92) e o conjunto probatório constante dos autos, consignou que em razão dos indícios de prática de atos ímprobos, faz-se necessária a manutenção do decreto de indisponibilidade de bens do ora recorrente, bem como da decisão que recebeu a petição inicial. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Sabe-se que a regra esposada no § 7º do artigo 17 da Lei nº 8.429/92 visa oportunizar ao Julgador a análise da conveniência do recebimento, ou não, da petição inicial e, ao mesmo tempo, evitar o manejo de ações temerárias, desarrazoadas ou sem fundamento. Contudo, não significa que o recebimento da ação seja um prejulgamento de mérito.
+    (...)
+    Dessa forma, com vistas a responder a esta indagação e afastar as dúvidas existentes quanto à prática de ato de improbidade pelo Recorrente, imprescindível o recebimento da inicial, para que seja permitida ampla dilação probatória.
+    Frise-se que, não obstante o pagamento não sido feito pela PGE, foi graças ao seu ato – homologação do parecer – que isso se tornou possível.
+    Assim, aparentemente, há nexo de causalidade entre a sua conduta e o dano ao erário. Sendo assim, faz-se necessária a manutenção da decisão que recebeu a petição inicial, para permitir o processamento do feito.
+    (…)
+    No caso vertente, não vislumbro, neste momento processual, elementos para formar convicção, em sentido contrário à decisão impugnada que indeferiu o pedido de desconstituição da indisponibilidade de bens decretada, uma vez que há sérios indícios de ato de improbidade que geraram dano ao erário, o que justifica a manutenção do decreto de indisponibilidade de bens.” (eDOC 4, p. 34-42)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. ATO DE IMPROBIDADE ADMINISTRATIVA. CONTRATAÇÃO DE FUNCIONÁRIOS FANTASMAS POR VEREADOR. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. INCURSIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS NO JUÍZO RECORRIDO. IMPOSSIBILIDADE DE MAJORAÇÃO NESTA SEDE RECURSAL. ARTIGO 85, § 11, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.” (ARE-AgR 1068.655, Rel. Min. Luiz Fux, Primeira Turma, DJe 14.11.2017)
+    “Agravo regimental em recurso extraordinário. 2. Direito Administrativo. 3. Ação Civil Pública de Improbidade Administrativa. Propaganda institucional do Município. Promoção pessoal do Prefeito. 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório. Incidência da Súmula 279 do STF e da jurisprudência desta Corte. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (RE-AgR 660.719, de minha relatoria, Segunda Turma, DJe 3.8.2017)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 10 de agosto de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
