@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+"COMPROMISSO DE COMPRA E VENDA - ATRASO NA ENTREGA DE IMÓVEL - INDENIZAÇÃO POR DANO MATERIAL E MORAL - APLICAÇÃO DAS SÚMULAS Nº 160, E 162 DO TJSP - RECURSO DOS AUTORES PARCIALMENTE PROVIDO E RECURSO DAS RÉS NÃO PROVIDO."
+Opostos os embargos de declaração, esses foram rejeitados.
+Nas razões do especial, a parte recorrente alegou violação ao artigo 402, do Código Civil, bem como a existência de dissídio jurisprudencial, visto que não é devido o pagamento de lucros cessantes, pois não houve comprovação das perdas e danos. Aduziu contrariedade aos artigos 1º, II, e 21, § 4º, da Lei nº 4.864/65, tendo em vista a possibilidade de cobrança de juros remuneratórios antes da entrega das chaves. Por fim, pugnou pela exclusão da condenação a título de danos morais em razão de inexistência de ato ilícito.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente recurso, verifico que esse merece parcial provimento, senão vejamos.
+A Súmula nº 568, desta Corte, dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+No tocante às alegações de ocorrência de caso fortuito e força maior, observo que essas não merecem prosperar.
+Isso porque encontram óbice na Súmula nº 7 do STJ, que impede a revisão do conjunto fático-probatório dos autos em sede de recurso especial.
+O Tribunal de origem, ao analisar as circunstâncias fáticas e as provas carreadas aos autos, entendeu que não houve justificativa para o atraso na entrega do imóvel, de modo que estão configurados os lucros cessantes até a entrega das chaves, momento a partir do qual os recorridos podem usufruir da posse do bem, conforme se depreende da leitura do seguinte trecho (fls. 339/340 e-STJ):
+"2 O contrato firmado entre as partes previa a entrega do imóvel em junho de 2012 e é fato incontroverso que houve atraso.
+A indenização a título de lucros cessantes deve ser mantida visto que reconhecida a mora imputável à requerida e também atende, mutatis mutandis, ao entendimento sumulado pelo Tribunal:
+Súmula 162 - Descumprido o prazo para a entrega do imóvel objeto do compromisso de venda e compra, é cabível a condenação da vendedora por lucros cessantes, havendo a presunção de prejuízo do adquirente, independentemente da finalidade do negócio.
+O porcentual de 0,5% fixado na sentença atende ao que reiteradamente tem sido aplicado por esta Câmara.
+(..)
+O dies ad quem de incidência dos lucros cessantes e de limitação à cobrança dos encargos é o da efetiva entrega do imóvel, pouco importando a data de expedição do habite-se, visto que a mora somente pode ser imputada às requeridas.
+Este é o entendimento sumulado pelo Tribunal de Justiça de São Paulo:
+Súmula 160: A expedição do habite-se, quando não coincidir com a imediata disponibilização física do imóvel ao promitente comprador, não afasta a mora contratual atribuída à vendedora."
+Dessa forma, tendo a Corte estadual decidido de forma a entender que a parte recorrida deve ser indenizada por perdas e danos, a título de lucros cessantes, visto que devidamente comprovados em razão do atraso na entrega do imóvel já considerando a prorrogação e não demonstrada a inadimplência da recorrida, a alteração dessas premissas firmadas pela Corte Estadual esbarraria nas vedações de reexame do conjunto fático-probatório por esta via estreita do recurso especial.
+Outrossim, consoante a jurisprudência desta Corte, "o atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador. (EREsp 1341138/SP, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 9/5/2018, DJe 22/5/2018)
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. IMÓVEL. ATRASO NA ENTREGA. LUCROS CESSANTES. DEMONSTRAÇÃO DE PREJUÍZO. DESNECESSIDADE. SÚMULA Nº 83 DO STJ. PRECEDENTES. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. QUANTUM INDENIZATÓRIO. PECULIARIDADES DO CASO CONCRETO. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A teor da jurisprudência firmada nesta Corte, o descumprimento do prazo para entrega do imóvel objeto de compromisso de compra e venda viabiliza a condenação por lucros cessantes, havendo presunção de prejuízo do promitente comprador. Precedentes.
+3. Verificadas as peculiaridades do caso concreto, a alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+4. Em razão da improcedência do presente recurso, e da anterior advertência em relação à incidência do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+5. Agravo interno não provido, com imposição de multa.
+(AgInt no AREsp 1017163/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 4/5/2017, DJe 01/6/2017)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL.
+PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DO BEM. DANOS MATERIAIS. LUCROS CESSANTES. CONFIGURAÇÃO. PREJUÍZO PRESUMIDO. MULTA CONTRATUAL. PREVISÃO. REVISÃO. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A orientação jurisprudencial do Superior Tribunal de Justiça, no caso de lucros cessantes, é firme no sentido de que, comprovado o atraso na entrega das chaves do imóvel, é devida indenização, independentemente de comprovação do prejuízo do comprador.
+3. Rever o entendimento do tribunal de origem, que reconheceu a previsão de multa contratual no acordo firmado pelas partes, esbarraria nos óbices das Súmulas nºs 5 e 7/STJ.
+4. Agravo interno não provido.
+(AgInt no REsp 1710441/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 15/5/2018, DJe 28/5/2018)
+De outro lado, destaco que é assente nesta Corte que "não se considera abusiva cláusula contratual que preveja a cobrança de juros antes da entrega das chaves, que, ademais, confere maior transparência ao contrato e vem ao encontro do direito à informação do consumidor (art. 6º, III, do CDC), abrindo a possibilidade de correção de eventuais abusos" (EREsp nº 670.117/PB, Rel. Ministro SIDNEI BENETI, Rel. p/ Acórdão Ministro ANTONIO CARLOS FERREIRA, Segunda Seção, DJe 26/11/2012)."
+O Tribunal de origem, contudo, decidiu de forma contrária a esse entendimento, conforme se depreende da leitura do seguinte trecho (fl. 339 e-STJ):
+"Quanto aos juros contratuais, observa-se que a incidência deve observar a normalidade do contrato, no sentido de que não tendo havido cumprimento do prazo fixado para entrega do bem se mostrou correta a suspensão de sua cobrança no período."
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DECLARATÓRIA DE NULIDADE - CONTRATO DE COMPRA E VENDA DE IMÓVEL - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO DA CONSTRUTORA. INSURGÊNCIA DO AUTOR.
+1. Conforme o precedente firmado pela Segunda Seção do STJ, por ocasião do julgamento do EREsp nº 670.117/PB, "não se considera abusiva cláusula contratual que preveja a cobrança de juros antes da entrega das chaves, que, ademais, confere maior transparência ao contrato e vem ao encontro do direito à informação do consumidor (art. 6º, III, do CDC), abrindo a possibilidade de correção de eventuais abusos" (EREsp nº 670.117/PB, Rel. Ministro SIDNEI BENETI, Rel. p/ Acórdão Ministro ANTONIO CARLOS FERREIRA, Segunda Seção, DJe 26/11/2012).
+2. Agravo interno desprovido.
+(AgInt no AREsp 932.549/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 17/4/2018, DJe 26/4/2018)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OCORRÊNCIA. COMPRA E VENDA DE IMÓVEL. AÇÃO DE ANULAÇÃO DE CLÁUSULA CONTRATUAL. COBRANÇA DE JUROS COMPENSATÓRIOS NO PERÍODO ANTERIOR À ENTREGA DAS CHAVES. POSSIBILIDADE. ERESP N. 670.117/PB. AGRAVO IMPROVIDO.
+1. Descabe falar em ausência de prequestionamento quando a matéria abordada no recurso especial provido corresponder ao cerne da controvérsia havida no Tribunal de Justiça do Rio de Janeiro, em cumprimento à exigência do prévio pronunciamento judicial.
+2. A Segunda Seção, no julgamento do EREsp n. 670.117/PB, pacificou a questão concluindo que "não se considera abusiva cláusula contratual que preveja a cobrança de juros antes da entrega das chaves, que, ademais, confere maior transparência ao contrato e vem ao encontro do direito à informação do consumidor (art. 6º, III, do CDC), abrindo a possibilidade de correção de eventuais abusos" (Relator o Min. Sidnei Beneti, Relator p/ Acórdão Min. Antônio Carlos Ferreira, DJe 26/11/2012).
+3. Agravo regimental improvido.
+(AgRg no REsp 1504443/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/5/2015, DJe 29/5/2015)
+Por fim, a jurisprudência deste Superior Tribunal entende que não é cabível a condenação em indenização por danos morais na hipótese em que há simples atraso na entrega do imóvel pela incorporadora/construtora, pois o dissabor inerente à expectativa frustrada decorrente de simples inadimplemento contratual se insere no cotidiano das relações comerciais e não implica lesão à honra ou violação da dignidade humana. Orienta, ainda, a jurisprudência que deve haver uma consequência decorrente do descumprimento contratual para caracterização dos danos extrapatrimoniais indenizáveis.
+Confiram-se, a propósito, os seguintes precedentes:
+CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO C/C INDENIZAÇÃO POR DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL. ABORRECIMENTO E DISSABOR. EXAME DAS PREMISSAS FÁTICAS DO ACÓRDÃO RECORRIDO. ENUNCIADO N. 7 DA SÚMULA DO STJ. NÃO INCIDÊNCIA.
+1. O simples descumprimento contratual, por si, não é capaz de gerar danos morais, sendo necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável pela sua gravidade.
+2. A Corte local, para reformar a sentença e julgar procedente o pedido de indenização por danos morais, concluiu que o atraso na entrega do imóvel, de aproximadamente 9 (nove) meses, por si, frustrou a expectativa do casal de ter um lar, causando, consequentemente, transtornos por não ter domicílio próprio. Com efeito, o Tribunal de origem apenas superestimou o desconforto, o aborrecimento e a frustração da autora, sem apontar, concretamente, situação excepcional específica, desvinculada dos normais aborrecimentos do contratante que não recebe o imóvel no prazo contratual.
+3. A orientação adotada na decisão agravada não esbarra no óbice contido no enunciado n. 7 da Súmula do STJ, tendo em vista que foram consideradas, apenas, as premissas fáticas descritas no acórdão recorrido.
+4. Agravo regimental desprovido.
+(AgRg no REsp 1408540/MA, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 19.2.2015);
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMÓVEL. COMPROMISSO DE COMPRA E VENDA. ENTREGA. ATRASO. DESCUMPRIMENTO CONTRATUAL. DANO MORAL. INEXISTÊNCIA. PRECEDENTES.
+1. Esta Corte tem firmado o posicionamento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, embora possa ensejar reparação por danos materiais, não acarreta, por si só, danos morais.
+2. Na hipótese dos autos, a construtora recorrida foi condenada ao pagamento de danos materiais e morais, sendo estes últimos fundamentados apenas na demora na entrega do imóvel, os quais não são, portanto, devidos.
+3. Agravo regimental não provido.
+(AgRg no AREsp 570.086/PE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 27.10.2015)
+No presente caso, o autor e o acórdão não apontaram maiores consequências com o descumprimento contratual além da frustração com o atraso na entrega do imóvel.
+Em face do exposto, dou parcial provimento ao recurso especial para declarar a validade da cobrança de juros antes da entrega das chaves e para afastar a condenação a título de danos morais.
+Intimem-se.
