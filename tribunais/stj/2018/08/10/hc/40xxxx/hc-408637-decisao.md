@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de ALEX SANDRO CEZAR DO NASCIMENTO contra acórdão do Tribunal de Justiça do Estado de São Paulo (Agravo de Execução Penal n. 7002152-52.2015.8.26.0073).
+Consta dos autos que o Juízo da Execução Penal indeferiu a comutação de pena formulada pelo paciente, nestes termos:
+Trata-se de pedido de comutação de penas formulado em favor do sentenciado ALEX SANDRO CEZAR DO NASCIMENTO, com fundamento no Decreto Presidencial nº 8.380/2014, havendo manifestação contrária do Ministério Público e reiteração da Defensoria Pública.
+É o relatório. DECIDO.
+O requisito objetivo está ausente, pois o sentenciado, reincidente (cf. fls. 28, GR 02), não cumpriu 1/3 da pena dos crimes comuns antes do Natal de 2014, desde a data do cometimento de seu último crime (14/05/2013), o que somente ocorreu em 26/01/2015 (cf. cálculo de fls. 4-v do presente apenso).
+ ..
+De qualquer maneira, ainda que assim não fosse, o requisito subjetivo, exigido expressamente pelo § 2o c.c. o caput do art. 112 da LEP inclusive para o indulto e comutação, está ausente, eis que se cuida sentenciado reincidente, condenado a mais de 05 anos de reclusão pela prática de crimes gravíssimos, como roubo circunstanciado mediante grave ameaça exercida com emprego de arma branca, praticado com violência e grave ameaça à pessoa, que está em sua 2a execução, tendo cometido falta disciplinar de natureza grave em 20/10/2015, consistente em abandono, por não ter retornado da saída temporária a ele concedida, de forma que quebrou as regras do regime semiaberto, traindo a confiança do juízo da execução e, portanto, regredindo para o regime fechado.
+ ..
+Ante o exposto, INDEFIRO o pedido de comutação de penas com base no Decreto Presidencial nº 8.380/2014 (fls. 8/10).
+Interposto agravo, pela defesa, o Tribunal a quo negou provimento ao recurso, consignando:
+O agravante cumpre pena de 05 (cinco) anos, 01 (um) mês e 15 (quinze) dias de reclusão, pela prática de roubo majorado pelo emprego de arma, iniciada em 13 de maio de 2.013. Na data da publicação do Decreto 8.380/14 não havia resgatado mais de 1/3 da pena.
+Dessa forma, não há motivos para o inconformismo, conforme a própria Defensoria, em afirmação anterior à decisão, já havia se manifestado (fl. 09).
+isto porque o sentenciado somente cumpriu o requisito objetivo após a publicação do Decreto, não fazendo jus ao perdão parcial da pena (fl. 25/26).
+No presente writ, a impetrante alega que a reprimenda do apenado foi reduzida para 4 anos, 6 meses e 20 dias de reclusão, em sede de recurso, ocasionando o cumprimento do requisito objetivo em novembro de 2014. Assevera, ainda, que a falta grave cometida após a publicação do Decreto n. 8.380/14 não influencia na concessão dos benefícios, por expressa previsão legal.
+Indeferido o pedido liminar e prestadas as informações pela autoridade coatora, o Ministério Público Federal opinou pelo não conhecimento do mandamus, mas pela concessão da ordem, de ofício, nos termos da seguinte ementa:
+PENAL. PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO. INADMISSIBILIDADE. AGRAVO EM EXECUÇÃO PENAL. PEDIDO DE COMUTAÇÃO DE PENA COM BASE NO DECRETO PRESIDENCIAL Nº 8.380/2014. RESGATE DE 1/3 DA PENA ANTE DE 25/12/2014. ILEGALIDADE CONFIGURADA. PARECER PELO NÃO CONHECIMENTO DO WRIT E CONCESSÃO DE ORDEM EX OFFICIO (fl. 56).
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+Conforme relatado, o benefício foi indeferido por ausência de requisito subjetivo, tendo o Magistrado se baseado na gravidade abstrata dos delitos praticados, bem ainda em infração disciplinar de natureza grave ocorrida em 20/10/2015, ou seja, após a publicação do Decreto n. 8.380/14.
+ Acontece que, na análise do benefício, devem ser observados apenas as exigências previstas no Decreto, o qual, em seus arts. 5º e 10º prevê, como requisito subjetivo, que o condenado não tenha registro de falta grave nos últimos 12 meses, a contar da data da publicação do mencionado ato normativo.
+Nesse sentido:
+
+PROCESSUAL PENAL E EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. COMUTAÇÃO DE PENA. DECRETO N. 8.380/2014. REQUISITO OBJETIVO. NOVO CRIME PRATICADO NO CURSO DA EXECUÇÃO. INTERRUPÇÃO DO LAPSO TEMPORAL. DATA DO COMETIMENTO DO ÚLTIMO DELITO FIXADA COMO MARCO INICIAL DO BENEFÍCIO. AUSÊNCIA DE PREVISÃO NA LEGISLAÇÃO E NO DECRETO CONCESSIVO. INTELIGÊNCIA DA SÚMULA 535/STJ. ILEGALIDADE. FALTAS GRAVES. REINÍCIO DO LAPSO TEMPORAL DA COMUTAÇÃO DE PENA. ILEGALIDADE. SÚMULA 535/STJ. REQUISITO SUBJETIVO. FALTAS GRAVES E NOVO CRIME PRATICADOS EM PERÍODO NÃO ABRANGIDO PELO ATO PRESIDENCIAL. REQUISITO NÃO PREVISTO NO DECRETO. FLAGRANTE ILEGALIDADE. PRECEDENTES. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+VIII - Por absoluta disposição literal do art. 5º do Decreto n. 8.380/2014, apenas as faltas graves praticadas pelo sentenciado nos últimos 12 (doze) meses que antecederam a publicação do ato presidencial impossibilitam a concessão da comutação da pena. Assim, são irrelevantes as faltas graves e o crime praticados fora do período fixado no decreto concessivo para a análise do requisito subjetivo. Precedentes.
+Habeas Corpus não conhecido. Ordem concedida de ofício para que o d. Juízo da Execução reaprecie o pedido de comutação de pena formulado pelo paciente com base no Decreto n. 8.380/2014, observando como termo inicial do benefício a data do início do cumprimento das penas, bem como desconsiderando as faltas graves e o crime praticados fora do período fixado no decreto concessivo.
+(HC 408.002/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 10/10/2017, DJe 19/10/2017)
+Ademais, nos termos da jurisprudência pacífica desta Corte, a gravidade abstrata do delito, a longa pena a cumprir ou a necessidade de realização de exame criminológico somente poderão constituir óbice à comutação da pena, se assim dispuser o Decreto concessivo do benefício (art. 84, XII, da CF/88) (HC 248.502/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEXTA TURMA, DJe 11/03/2014).
+Por fim, o acórdão recorrido está lastreado em premissa fática equivocada, pois a folha de antecedentes do réu noticia que a condenação imposta na Ação Penal n. 25/34/2013, que tramitou perante o Juízo da 2ª Vara Criminal de Piraju/SP, foi reduzida pela Corte estadual em 16/12/2015, para 4 anos, 6 meses e 20 dias de reclusão (fls. 50/51).
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem de ofício para determinar que o Juízo da Vara de Execuções Criminais promova nova análise do pedido, restringindo-se aos requisitos do Decreto Presidencial n. 8.380/14.
+Publique-se.
+Intimem-se.
