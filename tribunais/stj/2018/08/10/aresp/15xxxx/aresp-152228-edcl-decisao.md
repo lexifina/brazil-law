@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo MUNICÍPIO DE SANTO ANDRÉ contra decisão de minha lavra (e-STJ fls. 2488/2490), que conheceu do agravo para não conhecer do recurso especial, com base no art. 544, §4º, I, do CPC/1973, por intempestividade.
+Nas suas razões, a parte embargante defende a tempestividade do apelo nobre, afirmando que, provavelmente, houve falha no sistema de protocolo do Tribunal de origem.
+Quanto ao mais, reitera os argumentos expostos nos recursos anteriores, defendendo a ilegalidade da expedição de precatório complementar, em face do disposto no art. 730 do CPC/1973 e no art. 100 da Constituição Federal, mesmo tratando de atualização de débito não integralmente satisfeito, sob pena de desobediência à ordem cronológica dos ofícios requisitórios e aos demais aspectos processuais pertinentes, como a citação da Fazenda Pública.
+Diante da existência de 2 (dois) protocolos, com datas distintas, na petição do agravo em recurso especial (e-STJ fl. 2387), determinei o retorno dos autos ao Tribunal de Justiça do Estado de São Paulo, a fim de que esclarecesse em que data o aludido recurso foi efetivamente interposto.
+As informações foram devidamente prestadas, tendo a Corte a quo certificado que o recurso especial foi protocolado em 22/07/2011 (e-STJ fl. 2.520).
+Intimada, a parte embargada deixou transcorrer in albis o prazo para se manifestar.
+Passo a decidir.
+Desde logo, impõe-se registrar que o Plenário do Supremo Tribunal Federal reconheceu a repercussão geral, por meio eletrônico, da matéria relativa à necessidade de citação da Fazenda Pública para expedição de precatório complementar (Tema n. 266/STF) nos termos da seguinte ementa:
+EXPEDIÇÃO DE PRECATÓRIO COMPLEMENTAR. NECESSIDADE DE CITAÇÃO DA FAZENDA PÚBLICA. RATIFICAÇÃO DA JURISPRUDÊNCIA FIRMADA POR ESTA SUPREMA CORTE. EXISTÊNCIA DE REPERCUSSÃO GERAL(RE n. 605.481/SP, Relatora Min. ELLEN GRACIE, DJe 20/08/2010)
+Nesse contexto, reconheço que a existência de recurso extraordinário que trata do mérito da matéria acima identificada é prejudicial à análise do recurso especial de mesmo objeto, razão pela qual os autos deverão retornar ao Tribunal de origem para que lá seja realizado o juízo de conformação com o precedente obrigatório da Suprema Corte.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que os autos poderão ser encaminhados para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas suscitadas, que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, em juízo de retratação, TORNO SEM EFEITO a decisão de e-STJ fls. 2.488/2.489 e DETERMINO o sobrestamento do julgamento deste recurso até a realização do juízo de conformação pela Corte de origem com o precedente do STF, bem como a devolução dos autos ao Tribunal a quo, com a respectiva baixa, para que essa providência seja realizada.
+Publique-se. Intimem-se.
