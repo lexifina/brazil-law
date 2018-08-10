@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo manejado por Energisa Sergipe - Distribuidora de Energia S/A, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justioça do Estado de Sergipe, assim ementado (fl. 214):
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANO MORAL - CORTE DE ENERGIA E NEGATIVAÇÃO DO NOME DA CONSUMIDORA - FALHA NA PRESTAÇÃO DO SERVIÇO COM A SUSPENSÃO DO SERVIÇO DE ENERGIA POR DÉBITO JÁ PAGO - RESPONSABILIDADE OBJETIVA - ART. 14, DO CDC - CONFIGURAÇÃO DO ABALO MORAL - DANO "RE IN IPSA" - REDUÇÃO DO "QUANTUM" INDENIZATÓRIO PARA R$ 7.000,00 - PROVIMENTO PARCIAL DO APELO DECISÃO UNÂNIME.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 186, 927 e 944 do CC. Para tanto, sustenta que "o anormal constrangimento passível de indenização por dano moral não pode ensejar punição excessiva à parte que indeniza, nem o enriquecimento da parte lesada" (fl. 229), de forma que o valor da indenização comportaria diminuição na espécie.
+É o relatório.
+Como é cediço, em regra, não é cabível na via especial a revisão do montante indenizatório fixado pela instância de origem, ante a impossibilidade de análise de fatos e provas, conforme a referida Súmula 7/STJ.
+Ressalte-se que a jurisprudência do Superior Tribunal de Justiça admite, em caráter excepcional, que o quantum arbitrado seja alterado, caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade.
+A parte recorrente, contudo, não demonstrou que o valor arbitrado a título de dano moral (R$ 7.000,00 - sete mil reais), na espécie, seria exorbitante, de forma que o acórdão recorrido deve ser mantido.
+Nesse mesmo sentido, confiram-se os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE ENERGIA ELÉTRICA. SUSPENSÃO INDEVIDA DO SERVIÇO. CONDUTA ABUSIVA. DANOS MORAIS CONFIGURADOS. VERBA INDENIZATÓRIA FIXADA EM R$ 8.000,00. RAZOABILIDADE DO VALOR ARBITRADO. INEXISTÊNCIA DE EXORBITÂNCIA. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AGRAVO REGIMENTAL DA COMPANHIA ENERGÉTICA DE PERNAMBUCO A QUE SE NEGA PROVIMENTO.
+1. O valor fixado a título de danos morais fora estipulado em razão das peculiaridades do caso concreto, levando em consideração o grau da lesividade da conduta ofensiva e a capacidade econômica da parte pagadora, a fim de cumprir dupla finalidade: ressarcimento do prejuízo imposto à parte recorrida e punição do causador do dano, evitando-se novas ocorrências.
+2. A revisão do quantum a ser indenizado somente é possível quando exorbitante ou irrisória a importância arbitrada, em violação dos princípios da razoabilidade e da proporcionalidade, o que não se observa, in casu, diante da quantia fixada em R$ 8.000,00 pelos danos morais sofridos, decorrentes do indevido corte no fornecimento da energia elétrica.
+3. No que toca à alínea c, o sugerido dissídio jurisprudencial não foi analiticamente demonstrado de acordo com os arts. 255, § 2o. do RISTJ e 541, parágrafo único do CPC/1973.
+4. Agravo Regimental da CELPE a que se nega provimento.
+(AgRg no AREsp 792.133/PE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 12/3/2018)
+ADMINISTRATIVO E PROCESSUAL CIVIL. INTERRUPÇÃO NO FORNECIMENTO DE ENERGIA ELÉTRICA. RESPONSABILIDADE DA CONCESSIONÁRIA RECONHECIDA PELO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. VALOR DOS DANOS MORAIS. IMPOSSIBILIDADE DE INVERSÃO DO JULGADO. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO CONHECIDA.
+1. O Tribunal a quo, com base nas provas existentes, entendeu ser imputável à concessionária a responsabilidade pelos pagamento dos danos morais em decorrência da interrupção do fornecimento de energia elétrica por dez dias. A inversão do julgado nos moldes pretendidos pela recorrente demandaria o revolvimento das provas, o que encontra óbice na Súmula 7/STJ.
+2. A alteração do montante estabelecido a título de indenização por danos morais somente é possível, em Recurso Especial, nas hipóteses em que a quantia estipulada pelo Tribunal de origem revelar-se irrisória ou exorbitante, o que não ocorre no presente caso.
+3. O óbice da Súmula 7 do STJ atinge também o Recurso Especial interposto com fundamento na alínea c do inciso III do artigo 105 da Constituição da República porque impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa.
+4. Recurso Especial não conhecido.
+(REsp 1.680.758/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 17/10/2017)
+Destarte, o acórdão recorrido merece subsistir.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
