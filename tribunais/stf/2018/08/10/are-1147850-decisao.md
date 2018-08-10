@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 156, § 1º, e 182, § 4º, II, da Constituição da República.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO TRIBUTÁRIO. IPTU. TRIBUTAÇÃO PROGRESSIVA. EXERCÍCIO DE 2007. LEI Nº 2.257/2006. ANTERIORIDADE NONAGESIMAL. 1. A aferição da observância da anterioridade nonagesimal e da majoração do IPTU pela Lei Municipal 2.257/2006 demanda o reexame de fatos e provas e da legislação local aplicável à espécie. Súmulas 279 e 280 do STF. 2. Agravo regimental a que se nega provimento, com majoração de honorários advocatícios, com base no art. 85, § 11, do CPC, e aplicação de multa, nos termos do art. 1.021, §4º, do CPC.” (AI 830223 AgR, Relator(a):  Min. EDSON FACHIN, Segunda Turma, julgado em 08/08/2017, PROCESSO ELETRÔNICO DJe-187 DIVULG 23-08-2017 PUBLIC 24-08-2017)
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IPTU. IPATINGA-MG. ALEGADO CARÁTER SELETIVO DAS ALÍQUOTAS PREVISTAS NA LEI MUNICIPAL 1.206/1991. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE EM SEDE EXTRAORDINÁRIA. SÚMULA 280 DO STF. EXIGIBILIDADE COM BASE NA ALÍQUOTA MÍNIMA. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. APLICABILIDADE. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. APLICAÇÃO DE NOVA SUCUMBÊNCIA. AGRAVO INTERNO DESPROVIDO.” (ARE 970053 AgR, Relator(a):  Min. LUIZ FUX, Primeira Turma, julgado em 28/10/2016, PROCESSO ELETRÔNICO DJe-243 DIVULG 16-11-2016 PUBLIC 17-11-2016)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 10 de agosto de 2018.
+Ministra Rosa Weber
+Relatora
