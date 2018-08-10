@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 3ª Região, ementado nos seguintes termos, no que interessa:
+    “DIREITO PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO LEGAL. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. BENEFÍCIO EXCEPCIONAL DE ANISTIADO POLÍTICO. CUMULAÇÃO. IMPOSSIBILIDADE.” (eDOC 2, p. 111)
+    No recurso extraordinário, interposto com fundamento no art. 102, III,“a” e “c”, da Constituição Federal, aponta-se violação aos arts. 5º, XXXVI e 201, § 7º, do texto constitucional, bem como ao art. 8º, do ADCT.
+    Nas razões recursais, alega-se, em síntese, que o benefício previdenciário e o benefício advindo da condição de anistiado possuem fundamentos jurídicos distintos, razão pela qual podem ser cumulados.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, anoto que o acórdão recorrido não declarou inconstitucionalidade de tratado ou lei federal, nem julgou válida lei ou ato de governo local contestado em face da Constituição Federal. Desse modo, incabível a interposição do recurso extraordinário pela alínea “c” do inciso III do artigo 102 da Constituição Federal.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei 6.683/79) e o conjunto probatório constante dos autos, consignou pela impossibilidade de cumular dois benefícios previdenciários que têm o mesmo fundamento. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Autor recebe benefício de aposentadoria de anistiado, previsto na Lei 6.683/79, com data de início em 27/12/79, e requer o restabelecimento da aposentadoria por tempo de contribuição concedido em 20.01.76 e cessado em virtude da transformação na aposentadoria excepcional de anistiado.
+    É vedada a cumulação de duas aposentadorias considerado o mesmo tempo de serviço como base de cálculo, o que aconteceu no caso dos autos.
+    Portanto, não se mostra razoável desconstituir a autoridade dos precedentes que orientam a conclusão que adotou a decisão agravada. “ (eDOC 1, p. 110)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. APOSENTADORIA. CUMULAÇÃO COM PENSÃO MILITAR. EXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL. INVIABILIDADE. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 279 DO STF. DESPROVIMENTO DO AGRAVO. 1. Para se chegar a conclusão diversa daquela agasalhada pelo Tribunal de origem, quanto à interpretação das normas que regulam o critério da pensão militar e possíveis dependentes, seria necessário o reexame dos fatos e provas dos autos e da legislação nas quais se baseou o Tribunal a quo. Incidência da Súmula 279 do STF. 2. Agravo regimental a que se nega provimento.” (ARE-AgR 902.281, Rel. Min. Edson Fachin, Primeira Turma, DJe 11.04.2016)
+    “DIREITO PREVIDENCIÁRIO. MILITAR. CUMULAÇÃO DA PENSÃOESPECIAL COM BENEFÍCIOPREVIDENCIÁRIO. CONDIÇÃO DE EX-COMBATENTE. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO RECORRIDO PUBLICADO EM 17.4.2009. A controvérsia, a teor do que já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar, nesse compasso, em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto compreender de modo diverso exigiria análise da legislação infraconstitucional encampada na decisão prolatada pela Corte de origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, a, da Lei Maior, nos termos da remansosa jurisprudência desta Corte. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. Agravo regimental conhecido e não provido.” ( RE-851.247 AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 12.2.2015)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 10 de agosto de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
