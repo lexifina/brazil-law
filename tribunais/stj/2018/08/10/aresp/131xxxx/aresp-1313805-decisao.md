@@ -1,0 +1,29 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO DISTRITAL. GRATIFICAÇÃO DE TITULAÇÃO. DIREITO À PERCEPÇÃO. ANÁLISE DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. ANÁLISE DE PORTARIA. NÃO ENQUADRAMENTO NO CONCEITO DE TRATADO OU LEI FEDERAL PREVISTOS NO ART. 105, INCISO III DA CF/1988. IMPOSSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS. REDUÇÃO. RAZOABILIDADE. HONORÁRIOS ADVOCATÍCIOS RECURSAIS. ART. 85, § 11 DO CPC/2015. AGRAVO EM RECURSO ESPECIAL DO SERVIDOR A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto por [NOME], com fundamento no art. 105, III, alínea a da Constituição Federal, contra acórdão proferido pelo egrégio Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+APELAÇÃO CÍVEL. MÉDICO NEONATOLOGISTA DA SECRETARIA DE ESTADO DE EDUCAÇÃO. GRATIFICAÇÃO DE TITULAÇÃO. RESIDÊNCIA MÉDICA NA ÁREA DE PEDIATRIA. REQUISITO DO CARGO.
+Se o titulo de residência na área de pediatria apresentado pelo servidor consubstancia requisito para ingresso no cargo médico neonatologista da rede pública de saúde, não pode ser içado como fundamento para legitimar a concessão da gratificação de titulação por ele pretendida, porquanto não se coaduna com o escopo da norma, na medida em que não representa aperfeiçoamento, mas, sim, pressuposto para o exercício das suas atividades (fls. 163).
+2. Os Embargos de Declaração opostos (fls. 116/125) foram rejeitados, por unanimidade (fls. 127/128).
+3. Em suas razões recursais sustenta a parte agravante violação dos arts. 5o., parágrafo único, da Portaria 141/2017; 85 do CPC/2015, aos seguintes fundamentos: (a) faz jus à percepção da Gratificação de Titulação; e (b) redução da verba honorária.
+4. O Apelo Raro foi inadmitido pela Presidência do Tribunal de origem (fls. 248/249), sobrevindo a interposição de Agravo (fls. 252/266).
+5. É o relatório, em síntese. Decido.
+6. No mérito, quanto ao direito da parte agravante à percepção da Gratificação de Titulação, o Tribunal de origem, consignou que a agravante não preencheu os requisitos autorizadores para percepção da referida gratificação previstos na Lei Distrital 3.323/2004 e Portaria 194/2004, ambas do Distrito Federal.
+7. Dessa forma, desconstituir a conclusão do acórdão recorrido, implicaria, necessariamente, em análise de legislação local e em análise de Portaria.
+8. No entanto, tais providências são vedadas em sede de Recurso Especial, respectivamente, pelo óbice da Súmula 280/STF e pelo fato de Portaria ser um ato normativo que não se enquadra no conceito de tratado ou lei federal, previstos no inciso III, do art. 105 da Carta Magna. A esse propósito:
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. PEDIDO DE INGRESSO NO FEITO COMO ASSISTENTE LITISCONSORCIAL. DESCABIMENTO. GRATIFICAÇÃO DE RISCO DE VIDA. VIOLAÇÃO DE ENUNCIADO DE SÚMULA. INCIDÊNCIA DA SÚMULA 518/STJ. CONTROVÉRSIA SOLUCIONADA COM BASE EM LEI LOCAL. SUMULA 280/STF.
+1. O ingresso nos autos como assistente litisconsorcial não é compatível com o rito do Mandado de Segurança, nos termos do art. 24 da Lei 12.016/2009 (AgRg no MS 16.702/DF, Rel. Min. Humberto Martins, Primeira Seção, DJe 22.10.2015).
+2. Acerca da possível violação à Súmula 339/STF e Súmula Vincunlante 37/STF, a irresignação não merece conhecimento. Isso porque, consoante jurisprudência do STJ, para fins do art. 105, III, a, da CF, não é cabível recurso especial fundado em alegada violação de enunciado de súmula. Precedente.
+3. O Tribunal a quo, analisou o direito à gratificação pretendida, valendo-se da interpretação de legislação local. Incide, na espécie, a Súmula 280/STF.
+4. Agravo interno não provido (AgInt no AREsp. 885.847/SC, Rel. Min. BENEDITO GONÇALVES, DJe 21.5.2018).
+9. Por fim, quanto aos honorários advocatícios, o Superior Tribunal de Justiça firmou a orientação de que a revisão destes pelas instâncias extraordinárias somente é admissível em situações excepcionais, quando o valor se revelar manifestamente irrisório ou excessivo, o que não é o caso dos autos.
+10. A propósito:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. CONCURSO PARA OFICIAL BOMBEIRO MILITAR DO ESTADO DO AMAPÁ. ALUNO. DIREITO AO RECEBIMENTO DE DIÁRIAS. FUNDAMENTAÇÃO DEFICIENTE DO RECURSO (SÚMULA 284/STF). AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO (SÚMULA 283/STF). LEGISLAÇÃO LOCAL. EXAME. NECESSIDADE (SÚMULA 280/STF). DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. HONORÁRIOS. REVISÃO. IMPOSSIBILIDADE (SÚMULA 7/STJ). DECISÃO AGRAVADA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Embora a parte recorrente tenha fundamentado o recurso na alínea b do permissivo constitucional, não apontou, com precisão, que ato de governo local contestado em face de lei federal que teria sido julgado válido pelo Tribunal a quo.
+2. É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.(Súmula 283).
+3. Se o acórdão recorrido decidiu a controvérsia com base na interpretação de dispositivo de lei local, a questão não pode ser reexaminada em recurso especial (Súmula 280/STF).
+4. A jurisprudência desta Corte admite, em caráter excepcional, a alteração do quantum arbitrado a título de danos morais e de honorários advocatícios, caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade, o que não ocorreu no caso concreto.
+5. Agravo regimental a que se nega provimento (AgRg no AREsp. 231.992/AP, Rel. Min. SÉRGIO KUKINA, DJe 1o.4.2014).
+11. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial do Servidor.
+12. Tendo em vista o disposto no art. 85, § 11 do CPC, fixam-se os honorários recursais em 1% sobre o proveito econômico do presente Recurso, que deverão ser acrescidos ao montante total.
+13. Publique-se.
+14. Intimações necessárias.
