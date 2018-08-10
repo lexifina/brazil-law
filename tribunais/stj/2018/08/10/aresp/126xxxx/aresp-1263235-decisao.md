@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por BRUNO GOMES DOS SANTOS contra decisão do Tribunal de Justiça do Estado de Minas Gerais, que não admitiu o recurso especial manejado com apoio no art. 105, III, "a", da Constituição Federal, em oposição a acórdão assim ementado:
+"APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - ABSOLVIÇÃO IMPOSSIBILIDADE - CONJUNTO PROBATÓRIO SUFICIENTE - CREDIBILIDADE DOS DEPOIMENTOS DOS POLICIAIS - VALIDADE DA PROVA EXTRAJUDICIAL CONFIRMADA SOB O CRIVO DO CONTRADITÓRIO - CONDENAÇÃO MANTIDA. A negativa do apelante não pode conduzir à absolvição, se os demais elementos de prova coligidos nos autos alicerçam o decreto condenatório pelo delito de tráfico de drogas, mormente diante das circunstâncias do flagrante e dos depoimentos prestados pelos policiais, os quais merecem credibilidade como qualquer outro. Devido ao grande tempo decorrido entre a data do fato e a data da audiência de instrução e julgamento, é normal que os policiais não se recordem dos detalhes do flagrante, contudo, se os depoimentos prestados na fase inquisitiva são confirmados sob o crivo do contraditório não há qualquer motivo para desmerecê-los, servindo os mesmos como forte prova a amparar o decreto condenatório." (e-STJ, fl. 244).
+Os embargos de declaração opostos foram rejeitados (e-STJ, fl. 261).
+A defesa aponta ofensa ao art. 33, caput, §4º, da Lei 11.343/06, e aos arts. 155, 386, VII, do Código de Processo Penal brasileiro, pugnando pela absolvição do acusado, tendo em vista que não foi apontada prova judicial apta a lastrear o decreto condenatório.
+Afirma que "os eminentes Desembargadores confirmaram a sentença condenatória, utilizando para lastrear o decreto condenatório depoimentos de policiais que, ouvidos em juízo (fls.141), foram categóricos ao afirmar que não se recordavam dos fatos, tendo confirmado o histórico do boletim de ocorrências simplesmente porque seus nomes constavam no mesmo" (e-STJ, fl. 272).
+Foram apresentadas as contrarrazões (e-STJ, fls. 279-289).
+O recurso não foi admitido por incidência da Súmula 7/STJ (e-STJ, fls. 290-291). Daí este agravo (e-STJ, fls. 294-300).
+O Ministério Público Federal manifestou-se pelo "conhecimento do agravo para negar seguimento ao recurso especial" (e-STJ, fl. 324).
+É o relatório.
+Decido.
+A pretensão recursal não merece amparo.
+Colhe-se dos autos, que o réu foi condenado como incurso nas sanções do art, 33, caput, §4º, da Lei 11.343/06, à pena de 01 (um) ano e 08 (oito) meses de reclusão, em regime aberto, além do pagamento de 166 (cento e sessenta e seis) dias-multa, substituída por 02 (duas) restritivas de direitos, com base nos seguintes fundamentos:
+"Com efeito, a negativa de autoria do acusado não se mostra crível, na medida em que vai de encontro aos depoimentos firmes e coerentes dos policiais que efetuaram o flagrante e confeccionaram o Boletim de Ocorrência.
+Verifica-se dos autos que os militares afirmaram na fase inquisitiva que durante a perseguição de Bruno visualizaram o mesmo tirar um objeto do bolso da bermuda que vestia e dispensar ao solo, sendo posteriormente constatado tratar-se de um invólucro plástico contendo uma pedra de crack pesando 48,40g (f. 02, 04, 06 e 24/25).
+Ouvidos em juízo, os policiais confirmaram seus depoimentos anteriores (mídia de f. 141).
+Nesse ponto, ao contrário do que alega a defesa, tem-se que, devido ao grande tempo decorrido entre a data do fato e a data da audiência de instrução e julgamento ( 03 anos e 03 meses), é normal que os policiais não mais se recordem dos detalhes do flagrante, contudo, sendo certo que os depoimentos prestados na fase inquisitiva foram confirmados sob o crivo do contraditório, não há qualquer motivo para desmerecê-los, servindo os mesmos como forte prova a amparar o decreto condenatório."
+(e-STJ, fl. 247, grifou-se).
+Como se vê do excerto acima transcrito, a condenação do acusado se deu com base nos elementos probatórios colhidos na fase inquisitorial e confirmados na fase judicial, notadamente os depoimentos dos policiais que efetuaram o flagrante, razão pela qual não há falar em ausência de prova judicial apta a lastrear o decreto condenatório.
+Cumpre ressaltar que, de acordo com o "entendimento desta Corte, o depoimento de policiais responsáveis pela prisão em flagrante do acusado constitui meio de prova idôneo a embasar o édito condenatório, mormente quando corroborado em Juízo, no âmbito do devido processo legal"(HC 267.025/DF, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 02/05/2013, DJe 22/05/2013).
+Dessa forma, o aresto atacado encontra-se em harmonia com a jurisprudência desta Corte Superior, no sentido de que a prova colhida na fase inquisitorial, desde que corroborada por outros elementos probatórios, pode ser utilizada para ensejar uma condenação.
+Nesse sentido:
+" ..
+1. Conforme entendimento desta Corte, são válidos e revestidos de eficácia probatória o testemunho prestado por policiais envolvidos com a ação investigativa, mormente quando em harmonia com as demais provas e confirmados em juízo, sob a garantia do contraditório (ut, AgRg no AREsp 366.258/MG, Rel. Ministra LAURITA VAZ, QUINTA TURMA, DJe 27/03/2014).
+2. Não obstante a relutância da defesa, a condenação da agravante resultou não apenas dos elementos produzidos na fase inquisitorial, mas também de prova testemunhal produzida em Juízo, de tal sorte que o Tribunal local não destoou da massiva jurisprudência desta Corte Superior de Justiça cristalizada no sentido de que provas inquisitoriais podem servir de suporte a sentença condenatória, desde que corroboradas sob o crivo do contraditório, como no caso dos autos.
+3. Incidência da Súmula 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema." 4. Agravo regimental não provido."
+(AgRg no AREsp 926.253/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/08/2016, DJe 26/08/2016).
+" ..
+1. Tendo o Tribunal de origem concluído pela condenação com base em depoimentos prestados em juízo, corroborados pelas demais provas condensadas no processo, não há falar em violação do art. 155 do CPP, sendo certo que rever o conteúdo das provas implica, de fato, revisão fático-probatória, providência incabível na via eleita.
+2. Agravo regimental improvido."
+(AgRg no REsp 1274472/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 06/10/2015, DJe 29/10/2015).
+Assim, para desconstituir o entendimento firmado pelo Tribunal a quo e concluir pela absolvição da recorrente seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 932, III, do CPC c/c art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
