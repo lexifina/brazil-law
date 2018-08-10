@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento ao recurso especial, interposto em face de acórdão assim ementado:
+"APELAÇÃO. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER. EX-EMPREGADO DA GENERAL MOTORS DO BRASIL. Possibilidade de manutenção do plano de saúde. Art. 31 da Lei 9.656/98.
+VALOR DA MENSALIDADE. Deve corresponder à integralidade dos valores atualmente pagos pelos empregados em atividade. Superveniência de novo ajuste celebrado para os empregados da GM, sejam ativos ou inativos. O apelante, para prosseguir com o plano de saúde, deve observar as novas condições pactuadas com os trabalhadores da ativa. RECURSO NÃO PROVIDO."
+Opostos os embargos de declaração, esses foram rejeitados.
+Em suas razões do recurso, a parte recorrente sustentou violação ao artigo 1022, do novo Código de Processo Civil. Alegou negativa de vigência aos artigos 31, da Lei nº 9.656/98, 373, do novo Código de Processo Civil, e 884, do Código Civil, tendo em vista a impossibilidade de se determinar a aplicação dos reajustes anuais de planos individuais aos planos de saúde coletivos.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente recurso, verifico que esse merece parcial provimento.
+A Súmula nº 568, desta Corte, dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+No tocante às alegações de ofensa ao artigo 1022, do Código de Processo Civil de 2015, verifico que essas não merecem prosperar.
+Isso porque, consoante entendimento consolidado desta Corte, o recorrente não possui o direito de ter todos os argumentos alegados rebatidos, cabendo ao tribunal analisar e debater as questões principais para o deslinde da controvérsia.
+Ademais, não configura omissão ou negativa de prestação jurisdicional alguma o fato de o acórdão ter sido proferido em sentido contrário ao desejado pelo recorrente.
+Dessa forma, tendo a decisão analisado de forma fundamentada as questões trazidas, não há que se falar nos vícios apontados, nos termos do acórdão cuja ementa transcrevo abaixo:
+AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. ERRO MÉDICO. DANOS MORAIS. MATÉRIA DE FATO. REVISÃO DO VALOR DA INDENIZAÇÃO. SÚMULA 7/STJ. CPC. ART. 535. VIOLAÇÃO. NÃO OCORRÊNCIA.
+1. Não ofende o art. 535 do CPC a decisão que examina, de forma fundamentada, todas as questões submetidas à apreciação judicial.
+2. "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula 7/STJ).
+3. Consoante entendimento pacificado no âmbito desta Corte, o valor da indenização por danos morais só pode ser alterado na instância especial quando manifestamente ínfimo ou exagerado, o que não se verifica na hipótese dos autos.
+4. Agravo regimental a que se nega provimento.
+(AgRg no Ag 829.006/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/09/2015, DJe 28/09/2015).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS E MATERIAIS. INDENIZAÇÃO. PRESTAÇÃO DE SERVIÇOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC. NÃO OCORRÊNCIA. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 670.511/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/02/2016, DJe 01/03/2016)
+Verifico, por outro lado, que o acórdão recorrido vai de encontro à jurisprudência deste Superior Tribunal de Justiça, conforme se depreende da leitura do seguinte trecho (fl. 655 e-STJ):
+"Reconheceu-se que o aumento por sinistralidade é abusivo, bem como a sucumbência recíproca, por ocasião do acolhimento dos embargos, sendo desnecessária, menção expressa sobre a parcial procedência do pedido, pois decorrência lógica da sucumbência de ambas as partes. Neste compasso, considerou-se abusivo o reajuste aplicado, seja por sinistralidade ou anual, o fato é que não há demonstração efetiva a justificar o aumento praticado.
+É de conhecimento notório que o reajuste visa recompor a inflação no período, bem como reavaliar os valores dos custos médicos, insumos e serviços que, repita-se, não restou comprovado nos autos. Não basta a simples menção ao aumento, é necessário que se comprove com documentos qual a razão do aumento se dar no valor a ser repassado ao consumidor. E o V.Acórdão foi claro neste sentido.
+Desta forma, inexistente as supostas omissões/contradições do julgamento. A via eleita para reforma do V.Acordão é inidônea."
+Com efeito, merece provimento a alegação de impossibilidade de aplicação do reajuste anual dos planos individuais, visto que, nos termos da jurisprudência pacífica desta Corte, "é possível reajustar os contratos de saúde coletivos, sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, seja por variação de custos ou por aumento de sinistralidade" (AgRg nos EDcl no AREsp 235.553/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 2/6/2015, DJe 10/6/2015).
+Ademais, a própria Agência Nacional de Saúde Suplementar - ANS, em seu sítio eletrônico, consigna expressamente que "A ANS não define percentual máximo de reajuste para os planos coletivos por entender que as pessoas jurídicas possuem maior poder de negociação junto às operadoras, o que, naturalmente, tende a resultar na obtenção de percentuais vantajosos para a parte contratante. O reajuste dos planos coletivos é calculado com base na livre negociação entre as operadoras e as empresas, fundações, associações etc."
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. REAJUSTE. ABUSIVIDADE NÃO RECONHECIDA. REEXAME DE PROVAS E DA RELAÇÃO CONTRATUAL ESTABELECIDA. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+2. "É possível reajustar os contratos de saúde coletivos, sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, seja por variação de custos ou por aumento de sinistralidade". (AgRg nos EDcl no AREsp 235.553/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 02/06/2015, DJe 10/06/2015). Aplicação da Súmula 83/STJ.
+2. Na espécie, o acórdão, à luz do contrato entabulado entre as partes e dos reajustes promovidos pela operadora do plano de saúde, não reconheceu a abusividade do reajuste do plano de saúde amparado nas provas e no contrato firmado entre as partes. A reforma do aresto hostilizado, com a desconstituição de suas premissas, impõem reexame de todo âmbito da relação contratual estabelecida e incontornável incursão no conjunto fático-probatório dos autos, o que esbarra nas Súmulas n. 5 e 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1483244/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/2/2017, DJe 23/2/2017)
+Em face do exposto, conheço do agravo e dou parcial provimento ao recurso especial para afastar a limitação dos reajustes anuais aos índices estipulados pela ANS aos contratos individuais, devendo ser observados aqueles previstos contratualmente.
+Intimem-se.
