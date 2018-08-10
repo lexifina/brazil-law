@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo manifestado por Hospital Vera Cruz S.A. contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+Apelação. Responsabilidade Civil. Hospital deixou que um paciente (marido/pai dos autores) em longo jejum deambulasse sozinho, vindo a sofrer queda acidental com traumatismo crâneo-encefálico, que provocou sua morte. Responsabilidade do hospital pela prestação defeituosa do serviço. Pensão por morte devida somente aos filhos menores. Percentual fixado em 2/3 dos rendimentos do falecido. Danos morais devidos. Valor reduzido. Danos emergentes não comprovados. Honorários advocatícios mantidos, alterada a base de cálculo (sobre o valor da condenação e não da causa). Afastada litigância de má-fé. Recursos parcialmente providos.
+Alegou, no especial, violação à lei e dissídio jurisprudencial sustentando a exorbitância do valor fixado a título de danos morais.
+Assim delimitada a controvérsia, passo a decidir.
+Quanto à violação à lei, não houve indicação do dispositivo legal tido por violado, o que impede, no ponto, a exata compreensão da controvérsia, a atrair o disposto no verbete n. 284 da Súmula do Supremo Tribunal Federal.
+Quanto à apontada divergência, colhe-se dos autos que, em razão da morte do pai e marido dos recorrentes nas dependências da ré, esta foi condenada, no que importa, ao pagamento de indenização por danos morais no equivalente a 500 (quinhentos) salários mínimos para cada um dos autores pela sentença.
+O Tribunal local reformou a sentença, dentre outras reformas, para fixar a indenização por danos morais em 400 (quatrocentos) salários mínimos para a primeira autora e 150 (cento e cinquenta) salários mínimos para os demais.
+Já decidiu esta Corte Superior que revisar os valores das condenações por danos morais somente é possível no caso de evidente irrisão ou exorbitância, o que, todavia, não é o caso dos autos.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANO DECORRENTE DE FALHA TÉCNICA. RESPONSABILIDADE DO NOSOCÔMIO. MÉDICA SEM VÍNCULO COM O HOSPITAL. AUSÊNCIA DE PREQUESTIONAMENTO. ENUNCIADOS 282 E 356/STF. ÓBICE TAMBÉM APLICÁVEL AO DISSÍDIO JURISPRUDENCIAL. DANO MORAL. REVISÃO DO VALOR FIXADO. EXORBITÂNCIA NÃO EVIDENCIADA. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. ENUNCIADO 7/STJ. AGRAVO DESPROVIDO.
+1. O Tribunal de origem não analisou a questão relativa à inexistência de vínculo funcional entre a médica e o hospital nem as consequências desse fato sobre a definição da responsabilidade, faltando, assim, o requisito indispensável do prequestionamento. Incidência dos Enunciados n. 282 e 356/STF.
+2. O óbice relativo à ausência de prequestionamento impede o conhecimento não apenas da alegação de ofensa a norma infraconstitucional, mas também da divergência jurisprudencial.
+3. A Corte local, considerando as peculiaridades do caso concreto (profundo sofrimento dos pais decorrente do evento danoso morte), reputou adequada a indenização por danos morais no montante de R$ 100.000,00 (cem mil reais) para cada, quantia que não se afigura exorbitante, o que torna inviável o apelo especial, nos termos do Enunciado n. 7 da súmula do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1258616/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 26/6/2018, DJe 29/6/2018)
+Diante do exposto, nego provimento ao agravo. Tendo o julgado impugnado sido publicado já na vigência do novo diploma processual, majoro, sobre o seu próprio valor, em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, nos moldes do previsto pelo artigo 85, § 11, do atual Código de Processo Civil, limitado ao estabelecido nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
