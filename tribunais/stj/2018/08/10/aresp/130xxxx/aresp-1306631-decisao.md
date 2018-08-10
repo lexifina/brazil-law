@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO. "AÇÃO DECLARATÓRIA PELO RITO COMUM COM PEDIDO DE TUTELA ANTECEDENTE". Decisão que indeferiu o requerimento de tutela de urgência formulado pelo autor, que objetivava suspender leilão extrajudicial. Prejudicada a questão de falta de intimação pessoal para o leilão extrajudicial, tendo em vista que o leilão já ocorreu e não foi noticiada arrematação do bem - Impossibilidade de acolhimento, de plano, da alegação de nulidade no procedimento de execução extrajudicial previsto no Decreto-Lei 70/66. A simples propositura da ação de revisão de contrato não inibe a caracterização da mora do autor. Súmula 380 do STJ. Ausência de demonstração de que as ilegalidades apontadas estavam fundadas na aparência do bom direito e na jurisprudência consolidada do STF ou do STJ. Ilegalidade dos débitos questionados não demonstrada liminarmente. Ausência de elementos que evidenciem a probabilidade do direito, requisito previsto no artigo 300 do novo CPC. Descabimento da antecipação da tutela pretendida. Decisão de indeferimento mantida. RECURSO IMPROVIDO.
+Alegou-se, no especial, violação dos artigos 39, II, da Lei 9.514/97 e 34 e 36 do Decreto-Lei 70/66, associada a dissídio jurisprudencial, ao argumento de que é devida a intimação dos devedores acerca do leilão extrajudicial do imóvel financiado para que possam exercer o direito de purgação da mora.
+Assim delimitada a controvérsia, passo a decidir.
+A questão foi decidida em sede de antecipação dos efeitos da tutela que, em regra, não comporta reexame na estreita via do recurso especial, como ensinam os verbetes n. 7 da Súmula desta Corte e 735 do Supremo Tribunal Federal.
+Assim:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL CONTRA ACÓRDÃO QUE INDEFERE MEDIDA LIMINAR EM CAUTELAR. IMPOSSIBILIDADE. SÚMULA 735/STF. REQUISITOS. SÚMULA 7/STJ.
+1. O STJ, em sintonia com o disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou não liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Precedentes.
+2. A análise do recurso quanto à presença dos requisitos da liminar de cautelar de suspensão de leilões de bens imóveis alienados fiduciariamente também depende de reexame de matéria fática da lide, o que encontra óbice na Súmula 7 do STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 541.273/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 5/2/2015, DJe 13/2/2015)
+Não bastasse isso, a questão foi considerada prejudicada na medida em que o referido leilão já ocorrera, sem que houvesse lance, fundamento que não foi impugnado pelo recorrente, o que torna inquestionável a incidência do enunciado n. 283 da Súmula do STF.
+Diante do exposto, nego provimento ao agravo.
+Intimem-se.
