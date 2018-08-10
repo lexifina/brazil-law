@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo fundado no CPC/73, manejado por [NOME] contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 713):
+AGRAVO LEGAL. ARTIGO 557 DO CÓDIGO DE PROCESSO CIVIL. PODERES DO RELATOR DO RECURSO. MANUTENÇÃO DA DECISÃO.
+I - O Código de Processo Civil atribui poderes ao Relator para negar seguimento a recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante do respectivo Tribunal, do Supremo Tribunal Federal ou de Tribunal Superior, bem como para dar provimento ao recurso interposto quando o ato judicial recorrido estiver em manifesto confronto com súmula ou jurisprudência dominante do Supremo Tribunal Federal ou de Tribunal Superior.
+II - Hipótese dos autos em que a decisão agravada observou os critérios anteriormente expostos e a parte agravante não refuta a subsunção do caso ao entendimento firmado, limitando-se a questionar a orientação adotada, já sedimentada nos precedentes mencionados por ocasião da aplicação da disciplina do artigo 557 do Código de Processo Civil.
+III - Agravo legal desprovido.
+Nas razões do recurso especial, a parte agravante aponta divergência jurisprudencial e violação ao art. 7º da Lei Complementar n. 110/2001. Sustenta, em resumo, a inaplicabilidade da Súmula Vinculante n. 1/STF e que "quando o titular da conta vinculada tem litígio judicial, a adesão tem forma legal própria para ser cumprida e esta transação deve ser homologada pelo juízo onde tramita o processo, o que inocorreu no presente caso" (fl. 724).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Feita essa observação, cumpre dizer que o inconformismo não merece prosperar.
+Note-se que o agravante aduz em suas razões de apelo nobre que, havendo decisão judicial transitada em julgado acerca das diferenças dos planos econômicos devidos sobre o saldo da conta vinculada do FGTS, a adesão ao acordo somente poderia surtir efeitos caso homologada judicialmente, requisito que não teria sido atendido na espécie.
+Contudo, assim restou decidido no aresto combatido (fl. 710):
+Desta forma, considerando a manifestação expressa do fundista no sentido de aderir ao acordo extrajudicial trazido pela Lei Complementar 110/01 e as disposições constantes na referida lei e no termo de adesão, falta ao autor interesse de agir para pleitear judicialmente a aplicação dos índices do IPC em sua conta vinculada ao Fundo de Garantia do Tempo de Serviço.
+Entendo aplicável ao presente caso, as disposições da Súmula Vinculante nº 1, editada pelo E. Supremo Tribunal Federal, uma vez que qualquer reforma da r. sentença, conforme requerido pelo ora apelante, iria configurar a ofensa ao ato jurídico perfeito.
+Denota-se, pois, que o Tribunal de origem não se manifestou sobre a alegação que sustenta o recurso especial, qual seja, de que "A não homologação judicial, infringe o artigo 7º da LC 110/01" (fl. 720), tampouco foram opostos embargos declaratórios para suprir eventual omissão no julgado.
+Portanto, à falta do necessário prequestionamento, incide o óbice das Súmulas 282 e 356/STF.
+A propósito, vejam-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FGTS. [NOME]. INTERRUPÇÃO DO VÍNCULO EMPREGATÍCIO. FALTA DE PREQUESTIONAMENTO. SÚMULA 282/STF. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. MEDIDA VEDADA EM SEDE DE RECURSO ESPECIAL. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. As questões relativas à impossibilidade das anotações da CTPS servirem de prova contrária às próprias alegações, pois o ônus da anotação no referido documento é do empregador e não do empregado, de que o afastamento para o exercício de cargo de direção na própria empresa manteria o direito ao FGTS, e de que houve afronta à coisa julgada material e ao direito adquirido, insertas nos arts. 468 e 471 do CPC, 1o. da Lei 5.958/73, 9o., §§ 1o. e 2o. do Decreto 59.820/66, tidos por violados, não foram debatidas pelo Tribunal de origem e não foram opostos Embargos de Declaração com o objetivo de sanar eventual omissão. Carecem, portanto, de prequestionamento, requisito indispensável ao acesso às instâncias excepcionais. Aplicáveis, assim, as Súmulas 282 e 356 do STF.
+ ..
+3. Agravo Regimental do particular desprovido.
+(AgRg no AREsp 36.920/MG, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 27/10/2016, DJe 21/11/2016)
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. IMPROBIDADE. ART. 10 DA LEI N. 8.429/1992. PREFEITO. LEGITIMIDADE. AUSÊNCIA DO NECESSÁRIO PREQUESTIONAMENTO, O QUE FAZ INCIDIR NA ESPÉCIE O VETO DAS SÚMULAS 282 E 356 DO STJ. INVIABILIDADE DE ANÁLISE DA LEGISLAÇÃO LOCAL, SENDO APLICÁVEL AO PONTO O ÓBICE DA SÚMULA 280 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS ELENCADOS. SÚMULA 283/STF. INCIDÊNCIA. ELEMENTO SUBJETIVO. ACÓRDÃO QUE CONCLUI PELA EXISTÊNCIA DE CULPA DO AGENTE. ALTERAÇÃO DA CONCLUSÃO. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+2. Com relação aos arts. 267, I, e 295 do CPC/1973 bem como à tese a eles vinculada, nota-se que referida questão não foi objeto de análise, nem sequer implicitamente, pela instância de origem. Dessa forma, impõe-se o não conhecimento do recurso especial por ausência de prequestionamento. Aplicação das Súmulas 282 e 356 do STF e da Súmula 211/STJ.
+ ..
+8. Recurso especial não conhecido.
+(REsp 1.404.895/CE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 12/6/2018, DJe 15/6/2018)
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
