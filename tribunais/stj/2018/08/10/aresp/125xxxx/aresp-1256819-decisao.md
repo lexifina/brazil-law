@@ -1,0 +1,43 @@
+EMENTA
+PENAL E PROCESSO PENAL. CRIME DE RESPONSABILIDADE. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo interposto por [NOME] ARAÚJO, EUGÊNIO DE SÁ [NOME] FILHO, [NOME], ALEXANDRE HENRIQUE PEREIRA DA SILVA E [NOME] CUNHA contra decisão que inadmitiu o seu recurso especial manejado em face do v. acórdão proferido pelo Tribunal de Justiça do Estado do [NOME].
+No acórdão reprochado, por unanimidade de votos, o Tribunal de origem julgou extinta a punibilidade do corréu [NOME] em razão da prescrição, e determinou a remessa dos autos ao Juízo de origem, para prosseguimento da denúncia em relação aos demais, nos termos da seguinte ementa (fls. 2184-2191):
+"DENÚNCIA. CRIME DE RESPONSABILIDADE. PRESCRIÇÃO DA PRETENSÃO PUNITIVA VERIFICADA. OITAVO DENUNCIADO MAIOR DE 70 ANOS. PRAZO PRESCRICIONAL REDUZIDO PELA METADE. EXTINÇÃO DA PUNIBILIDADE RECONHECIDA. AUSÊNCIA DE PRERROGATIVA DE FORO DOS DEMAIS DENUNCIADOS. REMESSA DOS AUTOS AO JUÍZO DE PRIMEIRO GRAU.
+I - Observa-se que o oitavo denunciado já conta com 72 (setenta e dois) anos de idade, devendo ser aplicada a norma do art. 115 do Código Penal, a qual dispõe que "são reduzidos pela metade os prazos de prescrição quando o criminoso era, ao tempo do crime, menor de 21 (vinte e um) anos, ou, na data da sentença, maior de 70 (setenta) anos".
+II - Considerando que entre a data dos fatos ocorridos no ano de 2009 e que a denúncia ainda não fora recebida, mostra-se extinta, a punibilidade em relação ao oitavo denunciado, posto que as penas máximas dos crimes a ele imputados é de 12 (doze) anos, que se reduzida a metade, 6 (seis) anos, configurada está a prescrição.
+III - Extinta a punibilidade do oitavo denunciado em razão da prescrição quanto aos delitos que lhe foram imputados na peça acusatória, deve o processo retomar ao Juízo de origem para regular processamento da denúncia em relação aos demais denunciados, que não possuem foro privilegiado.
+No recurso especial, interposto com fundamento no art. 105, inciso III, alínea a, da Constituição da República, a defesa alega ofensa aos artigos 107, IV, 115, 119, 299, parágrafo único, do Código Penal, bem como do art. 61 do Código de Processo Penal; e ao artigo 1º, V e XIV do Decreto-Lei 201/1967; e ao artigo 90 da Lei 8.666/93, requerendo a extinção de punibilidade dos recorrentes.
+Apresentadas contrarrazões (fl. 2212-2215), sobreveio juízo negativo de admissibilidade do recurso especial fundado: i) na aplicação da Súmula 7/STJ, pois a análise do acórdão recorrido implicaria em revolvimento de matéria fático-probatória; e ii) na incidência da Súmula 83/STJ, pois o acórdão recorrido está em sintonia com a jurisprudência desta Corte Superior.
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários a sua admissão (fls. 2227-2237).
+A d. Subprocuradoria-Geral da República apresentou parecer pelo desprovimento do agravo em recurso especial (fls. 2259-2260).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+A parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a impossibilidade de incidência da Súmula 07/STJ.
+No caso, deveria o agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+Ademais, deveria comprovar, por meio da indicação de precedentes desta Corte Superior, a desarmonia do julgado ou da ausência de entendimento pacificado sobre a matéria, por exemplo, evidenciando, assim, a inaplicabilidade do embaraço indicado pelo Tribunal a quo.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182/STJ. INCIDÊNCIA. AGRAVO NÃO PROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão de admissibilidade impede o conhecimento do respectivo agravo, nos termos do que dispõe a Súmula 182/STJ.
+2. E, ainda, esta Corte firmou o entendimento de que, "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/10/2016, DJe 28/10/2016), o que não ocorreu no caso destes autos.
+3. Agravo regimental a que se nega provimento." (AgRg no AREsp 637.462/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 01/08/2017)
+Desse modo, a ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PLEITO DE FIXAÇÃO DE REGIME INICIAL DE PENA MAIS BRANDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.
+I - O agravante deixou de infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial, especificamente não enfrentou de maneira adequada a incidência da Súmula 284 do STF.
+II - A ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles, o que não ocorreu na presente hipótese.
+Agravo regimental desprovido." (AgInt no AREsp 1140814/SP, Quinta Turma, de minha relatoria, DJe 16/02/2018)
+"PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO RECORRIDA.
+VERBETE SUMULAR N. 182/STJ. 1. Não se conhece de agravo em recurso especial que deixa de impugnar especificamente aos fundamentos da decisão recorrida.
+2. Agravo regimental improvido com determinação de imediata retomada da marcha processual de primeira instância, independente da interposição de outros recursos." (AgRg no AREsp 1074077/DF, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 19/12/2017)
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA. NÃO OCORRÊNCIA. SÚMULA 283/STF. CONCESSÃO DE HABEAS CORPUS, DE OFÍCIO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. As razões do recurso especial não rebateram de forma específica fundamento suficiente para manter o acórdão recorrido, circunstância que atrai a incidência da Súmula 283 do Supremo Tribunal Federal.
+2. "É descabido postular a concessão de habeas corpus, de ofício, como forma de tentar burlar a inadmissão do recurso especial".
+3. Agravo regimental desprovido." (AgRg no AREsp 1051954/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 19/12/2017)
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO INTERNO QUE NÃO COMBATEU O FUNDAMENTO DA DECISÃO AGRAVADA. APLICABILIDADE DA SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO. EXECUÇÃO PENAL. EXTINÇÃO DA PUNIBILIDADE. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. DATA DO TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. ART. 112, I, DO CP. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. Compete ao recorrente, nas razões do agravo regimental, infirmar especificamente todos os fundamentos expostos na decisão agravada. Incidência do enunciado 182 da Súmula do Superior Tribunal de Justiça.
+2. "Nos termos do art. 112, I, do Código Penal, o termo inicial da contagem do prazo da prescrição executória é a data do trânsito em julgado para a acusação, e não para ambas as partes, prevalecendo a interpretação literal mais benéfica ao condenado". (AgRg no RHC 74.996/PB, Rel. Min. NEFI CORDEIRO, SEXTA TURMA, DJe 19/09/2017)
+3. Agravo regimental não conhecido. Habeas Corpus concedido de ofício." (AgInt no AREsp 1156766/SP, Sexta Turma, Rel. Min. Maria Thereza de Assis Moura, DJe 28/11/2017)
+Diante do exposto, não conheço do agravo nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+P. e I.
