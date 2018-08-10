@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo manejado contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 1.162):
+AÇÃO ANULATÓRIA. PROCESSO ADMINISTRATIVO DO INCRA.
+DECLARAÇÃO DE IMPRODUTIVIDADE DE IMÓVEL RURAL. FAZENDA XAXIM. ANÁLISE DO GRAU DE PRODUTIVIDADE DA FAZENDA PARA FINS DO ART. 184 DA CONSTITUIÇÃO FEDERAL E DOS ARTIGOS 5º E 6º DA LEI Nº 8.629/93. PERÍCIA JUDICIAL CONCLUSIVA NO SENTIDO DA PRODUTIVIDADE DO IMÓVEL.
+A sanção de desapropriação de imóvel rural improdutivo prevista no art. 184 da Constituição Federal somente pode ser aplicada quando se tem certeza da improdutividade da terra.
+Realizada a prova pericial, deve ser acolhido o laudo porque (a) é prova imparcial, produzida por profissional habilitado e de confiança do juízo, que está bem fundamentada, tendo considerado todos os documentos pertinentes trazidos pelas partes, e é conclusiva quanto à produtividade do imóvel; (b) e porque essa conclusão somente poderia ser refutada por prova robusta da inconsistência do laudo ou da incapacidade do perito, o que não há neste processo.
+Concluindo-se que o imóvel é produtivo, não pode ser submetido à sanção de desapropriação.
+Apelação provida para julgar procedente a ação e anular o processo administrativo que declarou a improdutividade da Fazenda Xaxim.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC/73.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 489 e 1.022 do CPC/2015 e 6º, §§ 1º e 3º, V, da Lei nº 8.629/93. Sustenta que: (I) o acórdão recorrido apresentou fundamentação genérica a respeito da área utilizada; (II) o processo administrativo foi legal, estando a produtividade do imóvel inferior aos parâmetros legais estipulados
+O Ministério Público Federal, no parecer às fls. 1.367/1.377, opinou pelo desprovimento do recurso.
+É o relatório.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489 e 1.022 do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Nos termos da orientação jurisprudencial deste Superior Tribunal, tendo a instância de origem se pronunciado de forma clara e precisa sobre as questões postas nos autos, assentando-se em fundamentos suficientes para embasar a decisão, como no caso concreto, não há falar em omissão no acórdão estadual, não se devendo confundir fundamentação sucinta com ausência de fundamentação (REsp 763.983/RJ, Rel. Min. NANCY ANDRIGHI, Terceira Turma, DJ 28/11/05).
+Quanto à questão de fundo, a Corte de origem assim se manifestou sobre o laudo pericial e seus pontos (fls. 1.156/1.158):
+A perícia judicial (laudo 31 e laudo 35) apontou diversas falhas do processo administrativo do INCRA e concluiu que o imóvel é produtivo.
+Destaco do laudo as seguintes constatações:
+ ..
+Em resposta aos quesitos da parte autora (fls. 740/746), o perito confirmou o seguinte:
+(a) o período de verificação da produtividade deste imóvel é de 01/08/2007 a 31/07/2008 porque correspondem aos 12 meses imediatamente anteriores à data da notificação, mas o INCRA teria desconsiderado o período em aproximadamente 60 dias, excluindo do cálculo notas fiscais do interstício de 01/06/2008 a 31/07/2008, em especial a nota nº 386.026 (anexos 4 - fl. 77), a qual descreve a venda de 45 vacas para abate, interferindo no resultado do efetivo pecuário.
+(b) considerando os dados fornecidos pelo órgão competente (CIDASC) e as notas fiscais de venda existentes, a média mensal real de animais existentes no imóvel nos 12 meses é de 202,77 UA, enquanto o INCRA tinha alcançado o valor de 117,51 (anexos petição inicial 4 - p. 174).
+(c) como consequência do número médio de animais, a área de pastagem considerada pelo INCRA de 47,2227 ha é insuficiente para suportar essa lotação de animais.
+A perícia levou em consideração o período correto de apuração da produtividade, de 01/08/2007 até 31/07/2008, bem como a produção agrícola e pecuária considerando o número de Unidades Animais existentes no período, registrados e informados pela CIDASC e nas notas de produtor rural emitidas, bem como os cálculos do INCRA em relação a produção agrícola apresentadas e aceitas pelas partes e concluiu que "a Fazenda Xaxim se trata de propriedade PRODUTIVA, eis que satisfaz os requisitos mínimos de utilização e produtividade exigidos pela Lei 8.629, de 25 de fevereiro de 1993".
+ ..
+Entendo que deve ser acolhido o laudo do perito judicial porque (a) é prova imparcial, produzida por profissional habilitado e de confiança do juízo, que está bem fundamentada, tendo considerado todos os documentos pertinentes trazidos pelas partes, e é conclusiva quanto à produtividade do imóvel; (b) e porque essa conclusão somente poderia ser refutada por prova robusta da inconsistência do laudo ou da incapacidade do perito, o que não há neste processo.
+Nesse contexto, verifica-se que a alteração das conclusões adotadas pela Corte de origem, a fim de apurar a suscitada violação ao art. 6º, §§ 1º e 3º, V, da Lei nº 8.629/93, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo.
+Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC/2015).
+Publique-se.
