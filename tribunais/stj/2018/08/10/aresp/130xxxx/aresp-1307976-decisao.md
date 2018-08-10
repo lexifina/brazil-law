@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou admissão a recurso especial interposto pelo Município de Goiânia, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+O recurso tem origem no agravo de instrumento interposto pelo Município de Goiânia contra decisão que, por ausência das planilhas de cálculo, rejeitou a sua impugnação ao cumprimento da sentença que reconheceu à exequente, ora agravada, o direito a reenquadramento e a diferenças de vencimentos.
+O tribunal a quo negou provimento ao recurso, em acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE EXCESSO DE EXECUÇÃO. AUSÊNCIA DA PLANILHA DE CÁLCULOS DO QUANTUM
+QUE ENTENDE DEVIDO.
+1. O agravo de instrumento é um recurso secundum eventus litis, o que implica que o Órgão revisor está vedado incursionar nas questões relativas ao mérito da demanda originária.
+2. Conf. preceitua o art. 525, § 5o, do CPC, a impugnação ao cumprimento com fundamento no excesso deve ser instruída com a planilha de cálculos no qual se discrimine o valor que, após excluído o excesso, o impugnante entenda como devido.
+3. In casu, o Impugnante/Executado, ora Agravante, arguiu a existência de excesso á execução, defendendo que a memória de cálculo apresentada pela Agravada apresenta valores exorbitantes, deixando de colacionar planilha de cálculo hábil a demonstrar o erro da Agravada, ensejando, na origem, o indeferimento liminar da impugnação apresentada; daí, escorreita a decisão do MM. Magistrado a quo, rejeitando, liminarmente, a impugnação apresentada, pelo que, deve ser mantida. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO. DECISÃO MANTIDA (fl. 80).
+Nas razões do recurso especial, o Município de Goiânia alega ofensa ao artigo 534, VI, do Código de Processo Civil de 2015. Argumenta que, mesmo ausente a memória dos cálculos que embasariam o alegado excesso de execução, no caso incidem descontos obrigatórios do imposto de renda, das contribuições devidas ao Instituto de Previdência dos Servidores Municipais (IPSM) e ao Instituto Municipal de Assistência à Saúde e Social dos Servidores Municipais de Goiânia (IMAS). Aduz que "o desconto de tais verbas decorre da lei, e, não, do título executivo judicial" (fl. 96).
+Aduz ainda que, para impugnar possível excesso de execução, somente se faz necessária a apresentação imediata da planilha de cálculo na hipótese de excesso de execução definida pelo artigo 917, § 2º, inciso I, do Código de Processo Civil de 2015 (fl. 98).
+Contrarrazões pelo não conhecimento ou improvimento do recurso especial (fls. 105-110).
+A decisão de inadmissibilidade do recurso especial tem fundamento na Súmula 7/STJ (fls. 112-113).
+O agravo apresenta argumentos que visam a infirmar os fundamentos da decisão agravada.
+É o relatório. Decido.
+O agravante impugnou os fundamentos da decisão agravada e estão atendidos os demais pressupostos de admissibilidade do agravo. Assim, passo ao exame do recurso especial.
+A jurisprudência desta Corte Superior está orientada no sentido de que é indispensável que o devedor indique, na impugnação ou nos embargos à execução, quando fundados apenas no excesso de execução, o valor que entende correto e apresente a memória dos cálculo que fez, sob pena de rejeição liminar da petição.
+A Corte Especial, ao julgar o REsp nº 1.387.248/SC, sob o regime do artigo 543-C, do CPC/73, firmou a seguinte tese (Tema n. 673):
+Na hipótese do art. 475-L, § 2º, do CPC, é indispensável apontar, na petição de impugnação ao cumprimento de sentença, a parcela incontroversa do débito, bem como as incorreções encontradas nos cálculos do credor, sob pena de rejeição liminar da petição, não se admitindo emenda à inicial.
+Ainda nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. PROCESSO EXECUTIVO. EMBARGOS. EXCESSO DE EXECUÇÃO. VALOR CORRETO. MEMÓRIA DE CÁLCULO. ART. 739-A, § 5º, DO CPC. REJEIÇÃO DOS EMBARGOS OU NÃO CONHECIMENTO DO FUNDAMENTO. EMENDA DA INICIAL. INVIABILIDADE. EMBARGOS DE DIVERGÊNCIA CONHECIDOS E DESPROVIDOS.
+1. Fundados os embargos em excesso de execução, a parte embargante deve indicar, na petição inicial, o valor que entende correto, apresentando memória de cálculo, sob pena de rejeição liminar dos embargos ou de não conhecimento desse fundamento (art. 739-A, § 5º, do CPC).
+2. Com a edição da Lei n. 11.382, de 6/12/2006, norma congruente com a Lei n. 11.232/2005 - por exemplo, art. 475-L, § 2º, do CPC -, introduziu-se nova sistemática do processo satisfativo, estando entre as importantes mudanças a reformulação dos embargos à execução para inibir, no seu nascedouro, defesas manifestamente infundadas e procrastinatórias.
+3. A explícita e peremptória prescrição (art. 739-A, § 5º, do CPC) de não se conhecer do fundamento ou de rejeitar liminarmente os embargos à execução firmados em genéricas impugnações de excesso de execução - sem apontar motivadamente, mediante memória de cálculo, o valor que se estima correto - não pode submeter-se à determinação de emenda da inicial, sob pena de mitigar e, até mesmo, de elidir o propósito maior de celeridade e efetividade do processo executivo.
+4. Embargos de divergência conhecidos e desprovidos.
+(EREsp 1267631/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 19/06/2013, DJe 01/07/2013).
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. TESE DE INEXIGIBILIDADE DO TÍTULO POR AUSÊNCIA DE LIQUIDEZ. INSTRUÇÃO DEFEITUOSA. FALTA DE DOCUMENTOS ESSENCIAIS À ANÁLISE DA PRETENSÃO. REJEIÇÃO DOS EMBARGOS À EXECUÇÃO. CABIMENTO.
+1. No caso, a Corte de origem asseverou que "a embargante não trouxe aos autos cópia dos cálculos impugnados e nem da sentença ou de outra peça do processo principal hábil a aferir a apontada divergência, o que inviabiliza o deslinde da controvérsia".
+2. De outro lado, a Corte Especial deste Superior Tribunal de Justiça firmou posicionamento no sentido de que devem ser rejeitados os embargos à execução desacompanhados dos documentos demonstrativos de suas alegações (EREsp 1.267.631/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe 1º/7/2013).
+3. Afasta-se a tese de que os documentos somente seriam necessários em sede de embargos à execução fundados em excesso, pois, ao sustentar a inexigibilidade do título por ausência de liquidez, igualmente cabe à parte demonstrar suas alegações.
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1206540/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 28/04/2015, DJe 14/05/2015).
+Ressalte-se que o Código de Processo Civil de 2015 (art. 525, § 5º) dispõe que a impugnação ao cumprimento da sentença será liminarmente rejeitada se o excesso de execução for seu único fundamento e a parte executada não tiver apontado o valor correto ou não tiver apresentado o demonstrativo de cálculo, como ocorreu neste caso.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intime-se.
