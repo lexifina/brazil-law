@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou admissão a recurso especial interposto por [NOME], com fundamento no art. 105, inciso III, alíneas a e c da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+O recurso especial tem origem no agravo de instrumento interposto pela UEG contra decisão proferida nos embargos à execução individual da sentença que julgou procedente ação civil pública para condenar a instituição de ensino a (i) abster-se de cobrar taxa de matrícula e mensalidade nos cursos de administração e pedagogia, (ii) a matricular os alunos que deixaram de pagar os valores cobrados, (iii) a aplicar avaliações aos alunos que delas foram privados em razão da recusa ao pagamento e (iv) a devolver aos alunos as quantias eventualmente pagas a tal título.
+A decisão agravada afastou a prescrição invocada pela embargante e remeteu os autos à contadoria judicial.
+O Tribunal a quo deu parcial provimento ao recurso em acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. CABIMENTO. EMBARGOS A EXECUÇÃO. LIQUIDAÇÃO DE SENTENÇA COLETIVA. ARGÜIÇÃO DE PRESCRIÇÃO RETROATIVA QÜINQÜENAL. NÃO APRECIAÇÃO. PRINCÍPIO DA CONGRUÊNCIA VIOLADO. NULIDADE. PRESCRIÇÃO QÜINQÜENAL CONTRA A FAZENDA PÚBLICA. ATUALIZAÇÃO DO VALOR CONSOANTE A LEI Nº 9.494/97 E ENTENDIMENTO DOS TRIBUNAIS SUPERIORES.
+1. Cabe Agravo de Instrumento contra decisões interlocutórias proferidas na fase de liquidação, na fase de cumprimento de sentença, no processo de execução e no processo de inventário (artigo 1.015, parágrafo único, CPC/15).
+2. A decisão judicial, para ser válida, deve ser congruente com todos os elementos objetivos e subjetivos da ação (artigo 492, do CPC/15).
+3. Deve ser cassada a decisão que, em vez de apreciar a tese arguida pela parte de prescrição retroativa qüinqüenal das prestações, analisa, sem requerimento, matéria diversa, relativa à prescrição da pretensão executiva de sentença coletiva, violando assim, o princípio da congruência externa objetiva.
+4. O § 3º do artigo 1.013 do CPC é aplicável por analogia ao Agravo de Instrumento. Desde que presentes os pressupostos para sua incidência.
+4. Consoante expressa intelecção do artigo 1o do Decreto Lei 20.910/1932, "as dívidas passivas da União, dos Estados e dos Municípios, bem assim todo e qualquer direito ou ação contra a Fazenda federal, estadual ou municipal, seja qual for a sua natureza, prescrevem em cinco anos contados da data do ato ou fato do qual se originarem".
+5. Consoante restou consolidado pelo Superior Tribunal de Justiça, por meio do rito dos recursos repetitivos (REsp. nº 1.205.946/SP), a norma insculpida na nova redação do artigo 1º-F da Lei federal nº 9.494, de 10 de setembro de 1997, não poderá atingir fatos anteriores á sua vigência. Deste modo, até o período de 29.06.2009, deve incidir correção monetária pelo IPCA e juros de mora, no percentual de 0,5% (zero vírgula cinco por cento) ao mês, até o advento da Lei nº 11.960/09. A partir de 30.06.2009, em relação á correção monetária e os juros moratórios, aplicam-se os índices oficiais de remuneração básica da caderneta de poupança, tudo conforme a conclusão dada pelo Supremo Tribunal Federal na modulação dos efeitos da ADI nº 4357/DF e ADI nº 4425/DF.
+6. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Nas razões do recurso especial a recorrente alega que teria havido ofensa ao artigo 205 do Código Civil, pois reconhecida pelo Tribunal de origem a ocorrência de prescrição quinquenal quando o prazo a ser observado deveria ser o de 10 (dez) anos, nos termos do dispositivo acima aludido.
+Contrarrazões pelo não conhecimento ou improvimento do recurso especial (fls. 271-275).
+A decisão de inadmissibilidade do recurso especial tem fundamento na aplicação da Súmula 83/STJ.
+O agravo apresenta argumentos que visam a infirmar os fundamentos da decisão agravada.
+É o relatório. Decido.
+O agravante impugnou os fundamentos da decisão agravada e estão atendidos os demais pressupostos de admissibilidade do agravo. Assim, passo ao exame do recurso especial.
+A decisão de fls. 26-31 rechaçou a alegação de prescrição deduzida pela UEG, então embargante, com estes fundamentos:
+Observo, que o Acórdão que confirmou o teor da Sentença condenatória prolatada no bojo da Ação Coletiva, transitou em julgado em 02/02/2012, conforme certificado às fls.114 nos autos do processo nº 201502591230 apensado a este, portanto, tendo a ação de execução sido proposta em 17/07/2015.
+O Superior Tribunal de Justiça tem sólido entendimento no sentido de que, em hipóteses como esta, o interessado disporá de 5 (cinco) anos, após o trânsito em julgado, para o manejo da execução, esta regra geral de prescrição encontra-se consolidada inclusive no enunciado da Súmula 150 do Superior Tribunal Federal "a execução prescreve no mesmo prazo de prescrição da ação".
+(..)
+Assim, observo que entre o trânsito e julgado do Acórdão (02/02/2012) e a propositura da ação de execução de sentença nº 201502591230 (17/07/2015), autos apensados a este (04/09/2015), passaram-se 03 (três) anos e 5 (cinco) meses.
+Isto posto, REJEITO a prejudicial de mérito suscitada pela embargante, para considerar que não há prescrição nos pedidos formulados.
+A prescrição declarada na ação de conhecimento está acobertada pela coisa julgada, como relatado no acórdão recorrido. A prescrição de que tratou a Corte estadual foi a da pretensão executiva, cujo prazo teve início com o trânsito em julgado da decisão exequenda, e mesmo assim para afastá-la. Logo, não tem a recorrente interesse recursal quanto a tal matéria.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
