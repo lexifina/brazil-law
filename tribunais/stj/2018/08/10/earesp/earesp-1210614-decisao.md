@@ -1,0 +1,35 @@
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 2/STJ. REPETIÇÃO DE INDÉBITO DE ADQUIRENTE DE IMÓVEL ARREMATADO JUDICIALMENTE. IMPOSSIBILIDADE. SUB-ROGAÇÃO DO ARTIGO 130 APLICA-SE AO ARREMATANTE. PRECEDENTES. AGRAVO CONHECIDO PARA SE NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por [NOME] e outros contra decisão de inadmissibilidade de recurso especial em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, cuja ementa assim estabelece:
+APELAÇÃO CÍVEL - Ação declaratória c.c. repetição de indébito - 1) ITBI sobre imóvel arrematado judicialmente -A base de cálculo do recolhimento do ITBI é o valor da arrematação e não o valor venal do imóvel - Precedentes do STJ. 2) IPTU e Taxas dos exercícios de 2003 a 2007 - Imóvel alienado após a arrematação -Adquirente que espontaneamente aderiu ao PPI e efetuou o pagamento dos tributos e taxas incidentes sobre o imóvel anteriores à arrematação - Tributos devidos - Ausência de provas de que a Municipalidade tenha levantado o valor dos débitos junto ao preço pago na arrematação - Pagamento em nome de terceiro, que não legitima a restituição. 3) Sucumbência mínima da Municipalidade - Condenação dos autores ao pagamento dos honorários advocatícios, fixados em 10% sobre o valor da condenação - Inteligência do § único, do art. 21 do CPC - Sentença parcialmente reformada - Recurso dos autores improvido e recurso da Municipalidade parcialmente provido.
+Os embargos de declaração foram rejeitados.
+Nas razões de recurso especial, fundamentado no artigo 105, III, a e c, do permissivo constitucional os recorrentes alegam a violação aos artigos 130, 165, I, do CTN, ao sustentarem em síntese: a sub-rogação do crédito tributário referente a impostos cujo fato gerador seja a propriedade do imóvel se dá sobre o preço depositado pelo arrematante, o qual recebe o bem livre de qualquer ônus.
+Contrarrazões ao recurso especial às fls. 424/430 (e-STJ).
+Em decisão interlocutória, o Tribunal de origem inadmitiu o processamento do apelo especial.
+No agravo, os recorrentes rechaçaram as razões de inadmissão do recurso especial.
+Contraminuta ao agravo em recurso especial às fls. 527/532 (e-STJ).
+É o relatório. Passo a decidir.
+Antes de mais nada, necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 2/STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+A tese dos recorrentes defendem que os valores dos débitos anteriores à data da arrematação devem ser sub-rogados no preço da arrematação, nos termos do art. 130 do CTN e pugnam pela repetição do indébito, na medida que os valores pagos perante o fisco são de tributos anteriores à arrematação.
+O Tribunal de origem ao dirimir a controvérsia, arrematou, in verbis:
+No tocante ao IPTU e Taxa de lixo dos exercícios de 2003 a 2007, consta dos autos que em 11 de junho de 2007 o imóvel foi arrematado em hasta pública pelo valor de R$ 270.000,00 (fls. 48) pelo Sr. [NOME], em 13 de agosto de 2008, foi registrada a carta de arrematação (fls. 53).
+Posteriormente, em agosto de 2009, aludido imóvel foi alienado ao Sr. [NOME], conforme consta da certidão de matrícula do imóvel (fls. 53, verso), que, espontaneamente dirigiu-se até a Fazenda Pública, assumiu o débito mediante acordo e efetuou o pagamento, pretendendo agora repetir o valor pago, valendo-se dos termos do § único do art. 130 do CTN, tendo ocorrido a sub-rogação dos créditos.
+No entanto, referido dispositivo aplica-se apenas à pessoa do arrematante e não a um terceiro que adquire o imóvel e espontaneamente quita o débito, mesmo porque pelo que constou dos autos, o Município não se valeu da sub-rogação e nem o adquirente comprovou tal fato, situação esta que, se demonstrada, poder-se-ia, de fato, caracterizar a repetição, na medida em que o adquirente do imóvel pagou um tributo que já teria sido quitado anteriormente.
+Como se depreende do trecho transcrito acima, houve alienação entre particulares após a arrematação do imóvel.
+Neste sentido, impende registrar que a arrematação de bem em hasta pública é considerada como aquisição originária, inexistindo relação jurídica entre o arrematante e o anterior proprietário do bem. Assim, os débitos anteriores à arrematação subrogam-se no preço da hasta. Aplicação do artigo 130, § único do CTN, em interpretação que se estende aos bens móveis e semoventes.
+Contudo no caso destes autos, não se trata de repetição de indébito que visa reaver os valores pagos para o adimplemento de crédito fiscal incidente sobre o imóvel anterior à arrematação.
+Ao contrário, busca-se a repetição de indébito de crédito fiscal incidente sobre imóvel adimplido após a transferência de domínio a título de aquisição derivada, ou melhor, de alienação ocorrida entre dois particulares.
+Nesta situação, não se prospera a repetição do indébito.
+Isto porque havendo aquisição derivada de imóvel, os débitos fiscais por ventura inscritos (indevidamente ou não) sobre o imóvel o acompanham, por serem obrigações propter rem, porquanto a aplicação do artigo 130 destina-se outrossim, ao arrematante judicial de bem em hasta pública.
+Ademais, À luz do decidido no REsp 1.073.846/SP, Rel. Min. Luiz Fux, Primeira Seção, DJe 18.12.2009, "os impostos incidentes sobre o patrimônio (Imposto sobre a Propriedade Territorial Rural - ITR e Imposto sobre a Propriedade Predial e Territorial Urbana - IPTU) decorrem de relação jurídica tributária instaurada com a ocorrência de fato imponível encartado, exclusivamente, na titularidade de direito real, razão pela qual consubstanciam obrigações propter rem, impondo-se sua assunção a todos aqueles que sucederem ao titular do imóvel" (grifo meu).
+Não obstante ao que já fora dito, a sub rogação tributária do artigo 130 do Código Tributário Nacional só aproveita ao arrematante, e não ao adquirente a título derivado.
+A propósito, :
+TRIBUTÁRIO - IPTU - IMÓVEL ADQUIRIDO EM HASTA PÚBLICA - RESPONSABILIDADE TRIBUTÁRIA DO ARREMATANTE AFASTADA.
+1. Cinge-se a controvérsia à responsabilidade do arrematante pelo pagamento do IPTU quando o imóvel sobre o qual incidiu a exação foi objeto de aquisição em hasta pública.
+2. A jurisprudência desta Corte ratificou o entendimento segundo o qual "a arrematação em hasta pública tem o efeito de expurgar qualquer ônus obrigacional sobre o imóvel para o arrematante, transferindo-o livremente de qualquer encargo ou responsabilidade tributária." (REsp 1059102/RS, Rel. Min. Luiz Fux, Primeira Turma, julgado em 3.9.2009, DJe 7.10.2009 - grifo nosso).
+Agravo regimental improvido.
+(AgRg no AREsp 510.139/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 03/06/2014, DJe 12/06/2014)
+Ante o exposto, com fundamento no art. 932, IV, do CPC/2015 c/c o artigo 253, parágrafo único, II, b do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
