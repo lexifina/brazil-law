@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - MULTA - LIMITAÇÃO - NOTIFICAÇÃO EXTRAJUDICIAL - INTERESSE NA CONCRETIZAÇÃO DO NEGÓCIO JURÍDICO.
+1) A multa fixada com o objetivo de coagir a executada a firmar contrato de locação não deve ser limitada à data da notificação extrajudicial pela qual a exeqüente informou que deixaria o local por falta de condições, se, por outros meios, ficar demonstrado que havia interesse na concretização do negócio.
+2) Negado provimento ao recuso.
+Nas razões de recurso especial, alega a parte agravante violação dos artigos 1.022 do Código de Processo Civil de 2015; 461, § 6º, e 475-L, VI, do Código de Processo Civil de 1973.
+Assim posta a questão, observo que o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+Os embargos de declaração opostos pela agravante (e-STJ fls. 2.336/2.342) visavam ao debate de matéria já analisada no acórdão embargado, razão pela qual sua rejeição era medida que se impunha.
+Afasto, pois, a alegada violação do art. 1.022 do CPC.
+O recurso não pode ser acolhido sem reexame de prova, pois parte do pressuposto de que não havia mais interesse das partes na manutenção do contrato de aluguel. A respeito dessa premissa fática, porém, confira-se o seguinte trecho do acórdão recorrido (e-STJ fl. 2.327):
+(..) as circunstâncias demonstram que existia sim interesse no cumprimento do contrato, não apenas em relação à formalização do instrumento de locação, mas também à implantação da infra-estrutura para o funcionamento dos cinemas. Aliás, a título de ilustração, cabe aqui ressaltar que a Top Mall também foi acionada em outro processo por pretensos exploradores do shopping que buscavam indenização, dentre outros pontos, também em razão desvirtuamento do empreendimento (autos nº 5666-4/2001, fls. 776/801).
+Apesar da comunicação sobre o fechamento de portas, a notificação não significou rescisão contratual. E tal constatação parece clara para os próprios executados, na medida em que não houve suscitação específica de quebra da relação contratual em razão da notificação em momento algum. Estranhamente, não há nada nesse sentido na impugnação apresentada pela Top Mall (fls. 430/473), após a propositura da execução de sentença, em 26/05/2006 (fls. 45/47). Aliás, mesmo antes da fase executiva, os executados tiveram a oportunidade de suscitar eventual ruptura da relação contratual, por abandono dos cinemas: o julgamento da apelação interposta da sentença foi posterior à referida notificação (fls. 90/98).
+Os executados tinham ciência do interesse das exequentes na consecução do contrato, mas ainda assim optaram - independentemente das razões para tanto - por explorar o cinema de outras formas.
+Afastar essas conclusões é inviável em recurso especial, consoante dispõe a Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
