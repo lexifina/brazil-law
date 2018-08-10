@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] e ANA LUCIA RODRIGUES, no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais que, no HC n. 1.0000.18.078521-4/000, indeferiu o pedido de liminar.
+Consta dos autos que, comunicado acerca do flagrante, o Juízo de da 1ª Vara Cível, Criminal e de Execuções Penais da Comarca de Santos Dumont/MG converteu a prisão dos ora pacientes em preventiva pelo suposto crime previsto no art. 33 da Lei n. 11.343/2006.
+Narra o auto de prisão em flagrante e a decisão proferida pelo Magistrado de piso que, durante o cumprimento de mandado de busca e apreensão, foram apreendidos na residência [NOME] e ANA LÚCIA 49 papelotes de cocaína, com massa aferida de 49,80g (quarenta e nove gramas e oitenta centigramas), e 170 pedras de crack, pesando 37,47g (trinta e sete gramas e quarenta e sete centigramas), já endoladas e prontas para a comercialização, além de grande quantia em dinheiro (e-STJ fls. 63, 69 e 75).
+Inconformada, a defesa impetrou writ, com pedido liminar, na Corte estadual, sustentando não existirem indícios mínimos de autoria. Requereu, outrossim, a desclassificação das condutas para a prevista no art. 28 da Lei n. 11.343/2006. Salientou, por fim, que as condições pessoais favoráveis dos pacientes e a ausência de fundamentação idônea para as custódias cautelares, não havendo, nesse contexto, óbice à revogação das prisões.
+O pleito liminar foi, contudo, indeferido pelo Tribunal a quo (e-STJ fls. 145/146).
+Na presente impetração, a defesa reafirma a ausência de indícios de autoria, além de acentuar que a paciente [NOME] seria "absolutamente primária, possuidora de irretocáveis antecedentes, possuindo 3 fontes de renda e empregos lícitos, residência fixa, tendo seu filho [NOME] assumido a propriedade da droga, restando provado nos autos do APFD anexo que ela  nem  sequer sabia da existência do estupefaciente apreendido" (e-STJ fl. 21).
+No que tange a [NOME], suas condições pessoais favoráveis são ressaltadas, além de asseverado que a droga apreendida era destinada ao consumo pessoal, e não à traficância.
+ Aponta, também, que, "em caso de eventual condenação, possível e provável que os pacientes obtenham a benesse do §4º do art. 33 da lei 11.343/06 (tráfico privilegiado), o que daria ensejo à redução máxima da pena aplicada, para 01 (um) ano e 08 (oito) meses, sendo ainda substituída a reprimenda corporal por restritivas de direitos, não se justificando, portanto, a conversão da prisão em preventiva" (e-STJ fls. 18/19).
+ Ressalta, por fim, a ausência de fundamentação concreta e idônea para a decretação de prisão.
+Pleitea a revogação das constrições preventivas ou a imposição de medidas cautelares diversas da prisão, uma vez superado o enunciado 691 da Súmula do STF (e-STJ fls. 3/24).
+É, em síntese, o relatório.
+O Superior Tribunal de Justiça tem jurisprudência firmada de que não cabe habeas corpus impetrado ante decisão que indefere liminar, a não ser que fique demonstrada flagrante ilegalidade (enunciado 691 da Súmula do STF), o que não ocorre na espécie.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SUMULA 691/STF. COMPETÊNCIA DESTA CORTE QUE AINDA NÃO SE INAUGUROU. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PROVA DO ALEGADO CONSTRANGIMENTO ILEGAL.
+1. Não cabe habeas corpus perante esta Corte contra o indeferimento de liminar em writ impetrado no Tribunal de origem. Aplicação da Súmula 691 do Supremo Tribunal Federal.
+ ..
+3. Agravo regimental improvido. (AgRg no HC 349.925/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/3/2016, DJe 16/3/2016.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PEDIDO DE EXPEDIÇÃO DE CONTRAMANDADO DE PRISÃO TEMPORÁRIA. PACIENTE NO EXTERIOR. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, não se observa manifesta ilegalidade na decisão que indeferiu o pleito liminar no prévio mandamus, tampouco na decisão primitiva. Na espécie, não há nos autos informações comprobatórias de que todas as diligências requeridas foram cumpridas, valendo ressaltar, ainda, que o decreto prisional, expedido no bojo da mesma decisão, não se efetivou porque o paciente não teria sido localizado, porquanto "potencialmente" estaria no exterior.
+3. Agravo regimental improvido. (AgRg no HC 345.456/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/2/2016, DJe 24/2/2016.)
+A questão em exame necessita de averiguação mais profunda pelo Tribunal estadual, que deverá apreciar a argumentação da impetração e as provas juntadas ao habeas corpus no momento adequado.
+Sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+Entendo, portanto, não ser o caso de superação do enunciado 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
