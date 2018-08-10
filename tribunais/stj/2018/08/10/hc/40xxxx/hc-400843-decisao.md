@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de VALMIR PINTO FRANCO, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente, absolvido em primeira instância, foi condenado pelo Tribunal de origem à pena privativa de liberdade de 9 (nove) anos, 7 (sete) meses e 6 (seis) dias de reclusão, em regime inicialmente fechado, pela prática dos delitos tipificados nos arts. 33 e 35 da Lei n. 11.343/2006. Foi determinada, ainda, a imediata expedição de mandado de prisão, para início de cumprimento da pena.
+Neste habeas corpus, alega o impetrante, em síntese, que: a) "a decisão do acórdão condenatório contraria posição pacífica do Superior Tribunal de Justiça sobre a necessidade de serem esgotadas as instâncias ordinárias para que haja a expedição de mandado de prisão" (e-STJ, fl. 3); b) "houve violação à posição do Superior Tribunal de Justiça diante da ilegalidade na determinação da execução imediata da pena, sem o esgotamento das vias ordinárias, porquanto houve oposição de embargos declaratórios no prazo legal, com fundamento nos arts. 619 e 620, ambos do Código de Processo Penal, os quais aguardam análise do Tribunal a quo" (e-STJ, fl. 4).
+Pleiteia seja possibilitado ao paciente aguardar em liberdade o julgamento dos recursos perante o Tribunal de Justiça de São Paulo ou até o trânsito em julgado da ação penal.
+O pedido liminar foi deferido.
+O Ministério Público Federal manifestou-se pela denegação da ordem.
+É o relatório.
+As questões aqui levantadas já foram examinadas, em 21.9.2017, quando do julgamento, por esta Quinta Turma, do Habeas Corpus n. 399.929/SP, de minha relatoria, impetrado em favor do corréu, no qual foi parcialmente concedida a ordem, com extensão dos efeitos ao ora paciente.
+Veja-se, a propósito, a ementa do julgado:
+"PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. EXECUÇÃO PROVISÓRIA DA PENA. NÃO ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. CONSTRANGIMENTO ILEGAL CARACTERIZADO. WRIT PARCIALMENTE CONCEDIDO.
+1. Após o julgamento do Habeas Corpus n. 126.292/SP (STF, Relator Ministro TEORI ZAVASCKI, TRIBUNAL PLENO, julgado em 17/2/2016), esta Corte passou a adotar o entendimento do Supremo Tribunal Federal de que "a execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII, da Constituição Federal". Em outras palavras, voltou-se a admitir o início de cumprimento da pena imposta pelo simples esgotamento das instâncias ordinárias, ou seja, antes do trânsito em julgado da condenação, nos termos da Súmula 267/STJ.
+2. O Supremo Tribunal Federal também reconheceu a repercussão geral do tema (ARE 964.246/SP, Rel. Ministro TEORI ZAVASCKI) e, em 11/11/2016, decidiu, em Plenário Virtual, pela reafirmação de sua jurisprudência externada no mencionado HC 126.292/SP.
+3. No caso dos autos, verifica-se que foram opostos Embargos de Declaração perante o Tribunal de origem, pendentes de julgamento. Assim, ante a não definitividade da condenação no âmbito da jurisdição ordinária, a expedição de mandado de prisão para início de cumprimento da pena caracteriza constrangimento ilegal.
+4. Habeas corpus parcialmente concedido para suspender a execução provisória da pena até o esgotamento da jurisdição ordinária, com extensão dos efeitos aos corréus."
+Ante o exposto, julgo prejudicado este habeas corpus.
+Publique-se. Intime-se.
