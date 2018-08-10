@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL. INVENTÁRIO EXTRAJUDICIAL. LEI 11.441/2002. PARTILHA DE VALORES DECORRENTES DE PRECATÓRIOS E REQUISIÇÕES DE PEQUENO VALOR (RPVS), QUE SE ENCONTRAVAM DEPOSITADOS, EM JUÍZO, A DISPOSIÇÃO DO AUTOR DA HERANÇA. EXIGÊNCIA DE ALVARÁ JUDICIAL PARA O LEVANTAMENTO DESTES VALORES POR PARTE DA INSTITUIÇÃO FINANCEIRA DEPOSITÁRIA QUE NÃO SE MOSTRA ILEGAL, NEM ABUSIVA, NEM IMPLICA EM DESCUMPRIMENTO DO TEOR DA ESCRITURA PÚBLICA DE PARTILHA. RESOLUÇÃO Nº 168 DO CONSELHO DA JUSTIÇA FEDERAL DE DEZEMBRO DE 2011. SENTENÇA DE IMPROCEDÊNCIA QUE MERECE SER MANTIDA. DESPROVIMENTO DO RECURSO.
+Alega-se violação dos artigos 1.022 e 610 do Código de Processo Civil ao argumento de que o acórdão estadual é omisso e que o levantamento dos valores depositados em favor do autor da herança pelos herdeiros dispensa a expedição de alvará.
+Assim delimitada a controvérsia, passo a decidir.
+Cuida-se de requerimento de levantamento de valores depositados em favor do autor da herança a título de Requisição de Pequeno Valor - RPV que se pretende seja feito sem a expedição de alvará, porque o inventário no caso é extrajudicial.
+Já decidiu esta Corte Superior, todavia, que a instituição financeira não pode proceder a nenhuma retirada ou entrega de valores sem que lhe seja apresentado alvará do juízo por ordem de quem se fez o depósito.
+Assim:
+PROCESSUAL CIVIL. DEPÓSITO JUDICIAL EFETUADO JUNTO À CAIXA ECONÔMICA FEDERAL - CEF. ESTORNO DE JUROS INDEVIDAMENTE CREDITADOS. PRÉVIA AUTORIZAÇÃO JUDICIAL. NECESSIDADE. DECISÃO JUDICIAL QUE ENCAMPOU O ESTORNO REALIZADO. SUFICIÊNCIA.
+1. A instituição financeira depositária não pode efetuar, sponte propria, estornos ou retiradas de qualquer natureza do montante depositado judicialmente sem autorização prévia do juízo da causa, ainda que se tratem de juros indevidamente creditados.
+2. A Lei 9.289/96, o Decreto-Lei 1.737/79 e a Súmula 257/TFR afastam a incidência de juros sobre os depósitos judiciais efetuados junto à Caixa Econômica Federal: "Art. 11. Os depósitos de pedras e metais preciosos e de quantias em dinheiro e a amortização ou liquidação de dívida ativa serão recolhidos, sob responsabilidade da parte, diretamente na Caixa Econômica Federal, ou, na sua inexistência no local, em outro banco oficial, os quais manterão guias próprias para tal finalidade.
+§ 1º Os depósitos efetuados em dinheiro observarão as mesmas regras das cadernetas de poupança, no que se refere à remuneração básica e ao prazo.
+§ 2º O levantamento dos depósitos a que se refere este artigo dependerá de alvará ou de ofício do Juiz." (Lei 9.289/96) "Art 1º - Serão obrigatoriamente efetuados na Caixa Econômica Federal, em dinheiro ou em Obrigações Reajustáveis do Tesouro Nacional - ORTN, ao portador, os depósitos: I - relacionados com feitos de competência da Justiça Federal;
+II - em garantia de execução fiscal proposta pela Fazenda Nacional;
+III - em garantia de crédito da Fazenda Nacional, vinculado à propositura de ação anulatória ou declaratória de nulidade do débito;
+IV - em garantia, na licitação perante órgão da administração pública federal direta ou autárquica ou em garantia da execução de contrato celebrado com tais órgãos.
+§ 1º - O depósito a que se refere o inciso III, do artigo 1º, suspende a exigibilidade do crédito da Fazenda Nacional e elide a respectiva inscrição de Dívida Ativa.
+§ 2º - A propositura, pelo contribuinte, de ação anulatória ou declaratória da nulidade do crédito da Fazenda Nacional importa em renúncia ao direito de recorrer na esfera administrativa e desistência do recurso interposto.
+Art 2º - Os depósitos serão efetuados à ordem do Juízo competente, nos casos dos incisos I, II e Ill do artigo anterior, e da autoridade administrativa competente, nos demais.
+Art 3º - Os depósitos em dinheiro de que trata este Decreto-lei não vencerão juros.
+Parágrafo único. Os juros das Obrigações Reajustáveis do Tesouro Nacional depositadas reverterão, em todos os casos, à Caixa Econômica Federal, como remuneração pelos serviços de depósito dos títulos." (Decreto-Lei 1.737/79) "Não rendem juros os depósitos judiciais na Caixa Econômica Federal a que se referem o Decreto-Lei 759, de 12.08.69, Art. 16, e o Decreto-Lei 1.737, de 20.12.79, Art. 3º." (Súmula 257/TFR) 3. Deveras, é certo que o estorno dos juros indevidamente creditados deveria ter sido efetuado sob a supervisão do juízo da causa.
+Contudo, o Juízo a quo encampou o estorno efetuado sponte propria pela CEF, revelando-se, portanto, desnecessário o retorno ao status quo ante para se chegar ao mesmo resultado consentâneo com a não incidência de juros sobre o depósito judicial.
+4. Recurso especial desprovido.
+(REsp 894.749/SP, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 6/4/2010, DJe 26/4/2010)
+Cabe ao sucessor, portanto, munido dos autos do inventário extrajudicial, diligenciar no juízo por ordem de quem se efetuou o depósito e requerer a expedição de alvará para levantamento.
+Diante do exposto, nego provimento ao recurso especial. Tendo o julgado impugnado sido publicado já na vigência do novo diploma processual, majoro, sobre o seu próprio valor, em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, nos moldes do previsto pelo artigo 85, § 11, do atual Código de Processo Civil, limitado ao estabelecido nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
