@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial interposto por BV FINANCEIRA SA CRÉDITO FINANCIAMENTO E INVESTIMENTO, com fundamento no art. 105, III, a, da Constituição Federal, contra assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA C/C REVISIONAL DE CLÁUSULAS CONTRATUAIS. CUMPRIMENTO DE SENTENÇA. CÁLCULOS EFETUADOS PELA CONTADORIA JUDICIAL. ALEGAÇÃO DE EXCESSO. INEXISTÊNCIA DE PROVA CAPAZ DE ELIDIR A PRESUNÇÃO DE VERACIDADE DOS CÁLCULOS APRESENTADOS. COMPENSAÇÃO DE VALORES. IMPOSSIBILIDADE. Não havendo nos autos qualquer prova capaz de demonstrar qualquer incorreção na planilha de cálculos apresentada pela Contadoria Judicial, deve esta prevalecer sobre as meras alegações feitas pela parte recorrente. Descabido o deferimento do pedido de compensação das dívidas entre as partes quando não restar débito a ser quitado por parte de um dos litigantes (fl. 165).
+No recurso especial, a instituição financeira insurge-se contra a homologação dos cálculos apresentados pela contadoria judicial, que estariam em dissonância com os termos do contrato.
+Sem contrarrazões (fls. 208).
+É o relatório. Passo a decidir.
+Em recurso especial, sob pena de ser inadmitido o inconformismo, a parte tem que apresentar, de modo inequívoco, os dispositivos violados, bem como os argumentos, com a finalidade de demonstrar, com clareza, a ofensa praticada pelo aresto impugnado. Nesse sentido: AgRg no Ag 1.292.758/MG, DJe, 4.6.2010; EDcl no AREsp 374221/MS, DJe, 11.11.2014; AgInt no AREsp 912372/BA, DJe, 7.12.2016; AgInt no AREsp 1169592/RS, DJe, 3.4.2018; AgInt no AREsp 1093172/GO, DJe, 4.4.2018; AgRg no AREsp 721287/SP, DJe, 27.8.2015.
+Na espécie, a recorrente insurge-se contra a homologação de cálculos apresentados pela contadoria judicial, mas não indica o artigo de lei federal pertinente à matéria que teria sido violado, o que evidencia a falta de fundamentação do apelo especial.
+Apenas na parte relativa ao pedido, a petição recursal menciona o art. 344 do CC, e, ainda assim, sem desenvolver argumentação capaz de demonstrar a ofensa a tal dispositivo.
+A deficiência na fundamentação recursal atrai a incidência da Súmula 284/STF (é inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia).
+Ante o exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
