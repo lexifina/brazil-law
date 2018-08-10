@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo interposto por Indústria Vila Nova Ltda. desafiando decisão da Segunda Vice-Presidência do Tribunal de Justiça do Estado de Santa Catarina que não admitiu recurso especial com base nos seguintes fundamentos: (I) incidência da Súmula 211/STJ por ausência de prequestionamento dos arts. 3º e 276 do CPC/73; e 115 do CC; (II) as teses suscitadas no apelo especial demandariam novo exame do acervo fático-probatório dos autos, providência vedada em recurso especial, nos termos da Súmula 7/STJ; e (III) aplicação da Súmula 83/STJ.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois a parte agravante não impugnou todos os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial, deixando de rebater, de modo específico, a apontada aplicação dos óbices previstos nas Súmula 7, 83 e 211, todas do STJ.
+Com efeito, em que pese a parte agravante ter afirmado que houve o prequestionamento implícito dos dispositivos de lei tidos como violados, não apontou em que trecho da fundamentação o Tribunal local teria enfrentado o tema.
+Do mesmo modo, tem-se como não impugnada a aplicação da Súmula 7/STJ, pois a parte agravante se limitou a sustentar que a hipótese não requer reexame de fatos e de provas sem demonstrar, todavia, como seria possível o acolhimento da pretensão recursal sem que se faça novo reexame do acervo fático-probatório.
+Por fim, não se verifica, nas razões do agravo em recurso especial, qualquer menção em relação à incidência da Súmula 83/STJ.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Diante do exposto, não conheço do agravo.
+Publique-se.
