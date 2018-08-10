@@ -1,0 +1,33 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+2. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. Agravo conhecido. Recurso especial não conhecido, com majoração de honorários.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por ITAÚ SEGUROS S/A, contra decisão interlocutória que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: de cobrança de indenização securitária, ajuizada por APARECIDO CHAVES DE LIMA, em face da agravante, devido à recusa ao pagamento da indenização decorrente de invalidez permanente, na qual pleiteia o recebimento do valor integral previsto na apólice.
+Sentença: julgou parcialmente procedente o pedido, para condenar a agravante ao pagamento da quantia de R$ 16.231,25 (dezesseis mil, duzentos e trinta e um reais e vinte e cinco centavos), corrigida monetariamente pelo IGP- M/FGV, a partir da verificação da invalidez (28/07/2014), e acrescida de juros de mora, de 1% ao mês, a contar da citação.
+Acórdão: deu provimento à apelação interposta pelo agravado e negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+APELAÇÕES CÍVEIS - AÇÃO DE COBRANÇA - SEGURO DE VIDA EM GRUPO - COBERTURA POR INVALIDEZ TOTAL E PERMANENTE POR ACIDENTE - LESÕES INCAPACITANTES POR ESFORÇOS REPETITIVOS - EQUIPARAÇÃO A ACIDENTE DE TRABALHO - PRECEDENTES DO STJ - PROVA PERICIAL QUE COMPROVA A INVALIDEZ PARCIAL E PERMANENTE PARA ATIVIDADES LABORATIVAS HABITUAIS - APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR - PAGAMENTO PROPORCIONAL AO GRAU DA LESÃO - NÃO COMPROVAÇÃO DA CIÊNCIA DAS CONDIÇÕES RESTRITIVAS - ABUSIVIDADE - CORREÇÃO MONETÁRIA - A PARTIR DA CONTRATAÇÃO - PREQUESTIONAMENTO - RECURSO DO AUTOR PROVIDO - RECURSO DA REQUERIDA DESPROVIDO.
+Os contratos securitários estão submetidos às disposições do Código de Defesa do Consumidor (art 3º, § 2º, CDC).
+A jurisprudência do Superior Tribunal de Justiça sufraga entendimento no sentido de que se inclui no conceito de acidente de trabalho o microtrauma repetitivo que ocorre no exercício do trabalho a serviço da empresa, provocando lesão que causa incapacidade laborativa, situação verificada no caso concreto.
+Existindo no contrato de seguro cobertura para invalidez permanente parcial por acidente, e estando demonstrado por perícia judicial que a incapacidade do segurado é decorrente do exercício de suas atividades laborativas, obriga-se a Seguradora requerida ao pagamento da indenização securitária no valor previsto em apólice.
+Em contrato de adesão as cláusulas que impliquem limitação deverão ser redigidas com destaque, permitindo sua imediata e fácil compreensão (art. 54, § 4º, CDC). Inexistindo demonstração do cumprimento de tais normas, no que tange as cláusulas restritivas, é devida a indenização securitária total contratada.
+Não há falar no pagamento proporcional ao grau da lesão quando inexiste nos autos prova de que o segurado teve prévio conhecimento acerca da aplicação do percentual defendido pela requerida.
+O termo inicial da correção monetária dos seguros de vida e/ou acidentes pessoais é a data da celebração no contrato, pois a apólice deve refletir o valor contratado atualizado.
+Torna-se desnecessária a manifestação expressa a respeito dos dispositivos legais, porquanto não está o magistrado obrigado a abordar artigo por artigo de lei, mas tão somente a apreciar os pedidos e a causa de pedir fundamentando a matéria que interessa ao correto julgamento da lide. (e-STJ Fls. 364/365)
+Embargos de declaração: interpostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 757 do CC; 141 e 492 do CPC/15, bem como dissídio jurisprudencial. Sustenta que o acórdão recorrido o condenou ao pagamento de risco não coberto pelo contrato de seguro firmado entre as partes. Aduz que o Tribunal de origem proferiu acórdão fora do pedido, eis que o condenou em valor superior ao requerido pelo agravado.
+Relatado o processo, decide-se.
+- Da existência de fundamento não impugnado
+O agravante não impugnou o fundamento utilizado pelo TJ/MS de que "o único documento assinado pelo autor é o cartão proposta de f. 157/158, que não consta nenhuma cláusula de exclusão de cobertura e/ou redução da indenização proporcionalmente ao grau de invalidez. Tal previsão somente consta nas condições gerais do contrato, sendo que não há prova do conhecimento por parte do segurado, aliás, sequer consta sua assinatura" (e-STJ Fl. 407). Como esse fundamento não foi impugnado, deve-se manter o acórdão recorrido. Aplica-se, na espécie, a Súmula 283/STF.
+Outrossim, a agravante também não impugnou o fundamento utilizado pelo TJ/MS para mitigar a aplicação dos arts. 141 e 492 do CPC/15 à hipótese dos autos, qual seja: "se o valor do contrato somente pode ser sabido durante a instrução probatória, não há falar em julgamento ultra petita" (e-STJ Fl. 409).
+Portanto, é de rigor a aplicação da Súmula 283/STF à espécie.
+- Do reexame de fatos e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere aos riscos cobertos pelo contrato de seguro firmado entre as partes, bem como em relação ao valor da indenização securitária a ser paga, exige o reexame de fatos e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo para NÃO CONHECER do recurso especial, com fundamento no art. 932, III, do CPC/15.
+Nos termos do art. 85, § 11, do CPC/15, condeno a parte agravante, a título de honorários recursais, ao pagamento de mais R$ 1.000,00 (mil reais) em favor do procurador da parte agravada.
+Publique-se. Intimem-se.
