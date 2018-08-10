@@ -1,0 +1,35 @@
+EMENTA
+PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. DETRAÇÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por ERICK WALLAN SANTOS DE SOUZA contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 223):
+"Apelação. Crimes de roubo simples. Materialidade e autoria (com confissão judicial) comprovadas. Crime consumado e não tentado. Fixação de regime inicial diverso do fechado. Não cabimento. Não provimento ao recurso."
+No recurso especial, a defesa alegou violação do art. 387, § 2º, do Código de Processo Penal, afirmando que o entendimento proferido pelo eg. Tribunal de origem está em desconformidade com entendimento sumulado por este STJ.
+Apresentadas as contrarrazões, sobreveio juízo negativo de admissibilidade fundado na incidência da Súmula 7/STJ, pois a análise de eventual ofensa demandaria incursão no acervo fático-probatório dos autos, e Súmula 284/STF por deficiência de fundamentação.
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários a sua admissão.
+A d. Subprocuradoria-Geral da República apresentou parecer pelo provimento do agravo e desprovimento do recurso especial (fl. 317-321).
+É o relatório.
+Decido.
+Tendo em vista os argumentos expendidos pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+No recurso especial, o recorrente sustenta violação ao art. 387, § 2º, do Código de Processo Penal.
+Verifico que o recurso especial não merece conhecimento.
+Isso porque, que o recorrente afirma que o entendimento proferido pelo eg. Tribunal de origem está em desconformidade com entendimento sumulado por este STJ, sem apontar qual seria a súmula, e ainda invoca precedente, colacionando somente a ementa, sem aduzir razões suficientes para elucidar a ocorrência do eventual vício.
+Desse modo, não demonstra precisamente em que consistiu a alegada violação, razão pela qual incide à espécie a Súmula 284 do eg. Supremo Tribunal Federal: "É inadmissível recurso quando a deficiência de sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO NO RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES. DIGNIDADE DA PESSOA HUMANA. AMPLA DEFESA E CONTRADITÓRIO. INAFASTABILIDADE DE APRECIAÇÃO PELO PODER JUDICIÁRIO DE LESÃO OU AMEAÇA A DIREITO. NORMA CONSTITUCIONAL. USURPAÇÃO DE COMPETÊNCIA DO STF. INVIABILIDADE DE ANÁLISE DESTA CORTE. DECISÃO SUBSUNÇÃO À NORMA. AUSÊNCIA DE PROVAS DO TRÁFICO. SÚMULA 7/STJ. DA ASSOCIAÇÃO E DA MERCANCIA DA DROGA ENTRE UNIDADE DA FEDERAÇÃO. ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. ART. 1º, I, DA LEI N. 9.63/98. "LAVAGEM DE DINHEIRO". MOVIMENTAÇÃO FINANCEIRA INCOMPATÍVEL COM ATIVIDADE EMPRESARIAL. ANÁLISE FÁTICO PROBATÓRIA. SÚMULA 7/STJ. PORTE DE ARMA. SIMPLES COLOCAÇÃO. NÃO APONTA VIOLAÇÃO A LEI FEDERAL. SÚMULA 284. DISCURSO RETÓRICO. NÃO INDICAÇÃO DE DISPOSITIVO VIOLADO. SÚMULA 284/STF.
+ ..
+V - A mera indicação do dispositivo violado, sem justificar ou apontar como a norma foi violada, caracteriza deficiência na fundamentação recursal, a atrair a incidência do verbete sumular nº 284 do Supremo Tribunal Federal.
+VI - A competência do Superior Tribunal de Justiça, em sede de recurso especial, encontra-se atrelada à uniformização da interpretação da legislação infraconstitucional federal, o mero discurso retórico sem indicação do dispositivo tido por violado não viabiliza o necessário confronto interpretativo para que possa efetivar a uniformização do direito infraconstitucional questionado, encontrando óbice da Súmula n. 284 do STF.
+Agravo regimental desprovido" (AgInt no AREsp 1.193.575/BA, Quinta Turma, de minha relatoria, DJe 19/02/2018).
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 144, CAPUT, E P. Ú., DA LEI Nº 8.112/90. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF. CONTRARIEDADE AO ART. 241-V, DA LEI ESTADUAL Nº 10.261/68. IMPOSSIBILIDADE. LEI LOCAL. SÚMULA 280/STF. VIOLAÇÃO AOS ARTS. 619 E 620, AMBOS DO CPP. AUSÊNCIA DE RAZÕES JURÍDICAS DA VULNERAÇÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. ARTS. 255/RISTJ E 1.029, § 1º, DO CPC/2015. INOBSERVÂNCIA. VIOLAÇÃO AO ART. 5º, II, IV, V, X, XXXIII, XXXIV, "A", E XXXV, DA CF. MATÉRIA CONSTITUCIONAL. NÃO CABIMENTO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+3. Aplicável o enunciado 284 da Súmula do Supremo Tribunal Federal quando o recorrente, apesar de apontar o dispositivo legal, não indica precisamente as razões jurídicas pelas quais considerou violada a norma.
+4. A não observância dos requisitos dos artigos 255, parágrafo 1º, do Regimento Interno do Superior Tribunal de Justiça, e 1.029, § 1º, do CPC/2015, torna inadmissível o conhecimento do recurso com fundamento na alínea "c" do permissivo constitucional.
+5. A análise de matéria constitucional não é de competência desta Corte, mas sim do Supremo Tribunal Federal, por expressa determinação da Constituição Federal.
+6. Agravo regimental a que se nega provimento" (AgInt no AREsp 1.126.051/SP, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe 13/10/2017).
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXCEÇÃO DE INCOMPETÊNCIA. REJEIÇÃO. INTERPOSIÇÃO DE RECURSO DE APELAÇÃO. NÃO CONHECIMENTO. SUBSEQUENTE INTERPOSIÇÃO DE RECURSO EM SENTIDO ESTRITO AO QUAL FOI NEGADO PROVIMENTO. RECURSO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE. ALEGAÇÃO DE MALTRATO AOS ARTS. 593, 619 E 620 DO CPP. INCIDÊNCIA DA SÚMULA 284/STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. Se o recorrente não aponta, no recurso especial, qual a omissão ou a contradição ocorridas, de maneira clara e pormenorizada, bem como a sua relevância para o deslinde da controvérsia, o recurso especial fundado em suposta ofensa aos arts. 619 e 620 do CPP esbarra no óbice da Súmula 284/STF.
+2. Ao que se depreende, o recorrente defende o cabimento do recurso em sentido estrito contra a decisão do MM. Juiz que se declarou competente para o processamento e julgamento da ação penal a que responde, quando o recurso que interpôs foi o de apelação.
+3. É dever da parte demonstrar o cabimento do recurso, isto é, que sua insurgência amolda-se a uma das hipóteses constitucionais, explicitando, objetivamente, as razões pelas quais ocorreu o maltrato à legislação infraconstitucional ou, na forma regimental, eventual dissonância interpretativa entre as Cortes do país, sob pena de incidência da Súmula 284/STF. Meras assertivas de incorreção da decisão tomada pelo Tribunal a quo não justificam o recurso especial.
+4. Agravo Regimental desprovido." (AgRg no REsp 1402872/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 13/10/2015).
+ Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, a, do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+P. e I.
