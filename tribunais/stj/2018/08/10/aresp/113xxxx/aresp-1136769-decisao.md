@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. PROMESSA DE COMPRA E VENDA. RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ATRASO. NA ENTREGA DA OBRA.
+Evidenciado que a construtora ultrapassou o prazo contratualmente previsto para entrega da obra - já considerada a cláusula de tolerância - impõe-se o dever de indenizar ao autor pelos prejuízos experimentados. Inexistência de causas excludentes da ilicitude a elidir a responsabilidade das demandadas pela reparação buscada pelo comprador do imóvel.
+DANOS MORAIS. Demonstrado que o atraso na entrega da obra causou ansiedade e angústia ao adquirente do imóvel, não se tratando, pois, de mero percalço advindo de corriqueiro inadimplemento de cláusula contratual, impõe-se o dever de indenizar. O atraso na entrega da obra gera expectativas e frustrações que, por si só, já bastam à configuração do dano moral experimentado pelos autores. Valor da indenização mantido.
+CLÁUSULA PENAL MORATÓRIA. Por força do Princípio da Isonomia, possível a fixação de cláusula penal em favor do promissário comprador, nos casos em que há estipulação contratual em favor da promitente vendedora, em face da incidência da legislação consumerista.
+VÍCIOS CONSTRUTIVOS. Constatado que, por força da inexecução de um pergolado sobre a garagem do imóvel, a parte autora sofreu danos materiais, de rigor a condenação da ré a tornar indenes os prejuízos causados. Decadência prevista no art. 26 do CDC afastada. Vícios constatados após a vistoria do bem.
+APELO DESPROVIDO. UNÂNIME.
+A questão foi submetida ao regime dos recursos repetitivos, a saber:
+PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. COMPRA E VENDA DE IMÓVEIS NA PLANTA. ATRASO NA ENTREGA DO IMÓVEL. CONTROVÉRSIA ACERCA DA POSSIBILIDADE DE INVERSÃO, A FAVOR DO CONSUMIDOR, DA CLÁUSULA PENAL. 1. Delimitação da controvérsia: Definir acerca da possibilidade ou não de inversão, em desfavor da construtora (fornecedor), da cláusula penal estipulada exclusivamente para o adquirente (consumidor), nos casos de inadimplemento em virtude de atraso na entrega de imóvel em construção objeto de contrato ou de promessa de compra e venda.
+2. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 CPC/2015.
+(ProAfR no REsp 1614721/DF, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 26/04/2017, DJe 03/05/2017)
+Em face do exposto, nos termos do art. 1.037, II, do Código de Processo Civil, determino a devolução destes autos ao Tribunal de origem, com a respectiva baixa, para nele permanecerem sobrestados até o julgamento do mérito do recurso recebido como representativo da controvérsia (Tema 971), e, após, que se proceda em conformidade com os comandos dos arts. 1.040 e 1.041 do Código de Processo Civil.
+Intimem-se.
