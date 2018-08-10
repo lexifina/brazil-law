@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Distrito Federal e Territórios (eDOC 6, p. 28) :
+    APELAÇÃO. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. SUSPENSAO. IMPOSSIBILIDADE. QUESTOES JÁ ANALISADAS. REDISCUSSÃO DE MATÉRIA. PRECLUSAO. AUSENCIA INTERESSE PROCESSUAL. EXPURGOS INFLACIONARIOS. CORREÇÃO MONETARIA. INDICE ADOTADO.
+    1. A matéria relativa à legitimidade ativa ad causamdos credores não associados ao IDEC para liquidação da sentença proferida na ação civil publica (processo 1998.01.1.016798-9) já possui decisão definitiva nos autos. Dessa forma, esta questão não se adéqua a decisão proferida no Resp 1.438.263/SP. In casu, merece destaque que a referida questão não foi sequer suscitada em sede recursal.
+    2. Estão preclusas as questões relativas ao termo inicial dos juros de mora, a não incidência dos planos econômicos subsequentes e ao arbitramento de honorários advocatícios na fase de cumprimento de sentença. É de registrar que tais matérias foram superadas pela decisão saneadora contra a qual não foi interposto recurso no momento oportuno.
+    3. Falece interesse recursal quarto ao pedido de aplicagao do indexador de corregeo monetaria da propria caderneta de poupanga - IRP quando.tal pretensao foi atendida em sentenca.
+    4. Pacifico o entendimento do STJ no sentido que a incidencia da correcao monetaria sobre o valor devido nao evidencia qualquer plus, mas sim, mero fator de recomposicao do poder aquisitivo da moeda, nao se impondo acrescimo a parte devedora. Ressalte-se que a atualizacao monetaria deve ser aplicada, ainda que nab haja pedido expresso do credor ou determinação expressa nesse sentido.
+    5. Os cálculos dos valores depositados nas contas dos autores devem ser apurados mediante aplicação dos índices da poupança (IPR), juntamente com os expurgos inflacionários posteriores ao Plano Verão, conforme determinado na sentença exequenda, ate o ajuizamento do cumprimento, pois deve refletir a depreciação inflacionaria. Contudo, de acordo com a jurisprudência deste Tribunal, para a atualização dos débitos judiciais, a partir do ajuizamento do cumprimento de sentença, deve ser aplicado o índice oficial adotado na Tabela Pratica deste Tribunal, ou seja, o 1NPC.
+    6. Recurso do Banco do Brasil nao conhecido. Recurso dos autores conhecido e parcialmente provido.
+    No recurso extraordinário, com fundamento no artigo 102, III, a, do permissivo constitucional, aduz-se violação ao artigo 5º, XXI da Constituição da República. Nas razões recursais sustenta-se que não há que se falar em preclusão por tratar-se de matéria de ordem pública. Ademais, alega-se que apenas aqueles associados à época do ajuizamento da ação são legitimados para executar o título.
+    Em um primeiro momento, os autos vieram a esta Corte e a Ministra Cármen Lúcia, Presidente, determinou a baixa à origem com a finalidade de adequação à sistemática da repercussão geral, tendo por base o julgamento do Tema 848 da repercussão geral. (eDOC 12)
+    A Presidência do TJDFT determinou nova remessa dos autos ao STF, nos seguintes termos:
+    “não seria hipótese de aplicação do regime disciplinador dos repetitivos, tendo em vista a ausência de discussão e debate nos autos acerca do tema versado no representativo.” (eDOC. 14, p. 2).
+    É o relatório. Decido.
+    A questão da legitimidade ativa está, ainda que implicitamente, debatida na decisão recorrida.
+    Sucede que, no exame do ARE-RG 901.963, de relatoria do Ministro Teori Zavascki, DJe de 16.09.2015 (Tema 848), o Plenário desta Corte concluiu que, por se tratar de matéria infraconstitucional, não possui repercussão geral a questão relativa aos limites subjetivos de sentença condenatória genérica transitada em julgado proferida em ação civil pública ajuizada por associação, seja porque necessária a análise dos limites da coisa julgada, seja por demandar o exame de disposições da Lei 7.347/1985 e do Código de Defesa do Consumidor.
+    O recurso extraordinário, pois, não merece seguimento por ausência de questão constitucional no debate, conforme decidido pelo Plenário desta Corte.
+    Ante o exposto, nego provimento ao recurso extraordinário, com fundamento no artigo 932, IV, b, do Código de Processo Civil.
+    Publique-se.
+    Brasília, 10 de agosto de 2018.
+                      Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
