@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+"Apelação Cível. Ação indenizatória. Seguro de vida.
+Reajuste por faixa etária. Conduta abusiva por parte da seguradora. Anulação de cláusula e recálculo do valor do prêmio. Dever de restituição das diferenças, na forma simples. Dano moral indenizável configurado.
+1. O princípio da boa-fé objetiva, que está ligado à interpretação dos contratos, ensina que o juiz deve analisar o negócio jurídico de forma global para verificar se, de alguma forma, deliberada ou não, uma das partes teve sua expectativa frustrada, pelo abuso da confiança por ela depositada.
+2. Ainda que a autora tenha realizado espontaneamente a migração do plano de seu seguro de vida, assim o fez porque, na sua idade, provavelmente não conseguiria contratar seguro em outra seguradora, ou somente poderia fazê-lo a um custo muito elevado, vendo-se obrigada a aceitar a proposta que lhe foi encaminhada.
+3. A conduta da ré configura abuso de direito, sendo nula a cláusula contratual que prevê o aumento em razão da mudança de faixa etária. Precedentes deste Tribunal.
+4. Determinação de recálculo do contrato, escoimando-se os reajustes implementados com base na cláusula ora declarada nula, com devolução, na forma simples, das diferenças a serem apuradas em liquidação de sentença.
+4. Dano moral configurado, arbitrando-se o valor de R$ 5.000,00 (cinco mil reais), tendo-o como razoável e proporcional ao caso concreto.
+4. Provimento ao apelo."
+Opostos os embargos de declaração, esses foram providos sem efeitos modificativos.
+Nas razões do recurso especial, a parte recorrente sustentou negativa de vigência aos artigos "178, §6º, inc. II e 1.442 do Código Civil de 1916, arts. 186, 187, 188, inc. I, 205 e 206, §1º, inc. II, alínea b, 421 e 422 do Código Civil atual e arts. 373, inc. I e 1.022 do Código de Processo Civil", bem como a existência de dissídio jurisprudencial. Argumentou, em breve síntese, a legalidade do reajuste dos prêmios em seguro de vida coletivo por faixa etária, bem como a incidência da prescrição anual à pretensão da recorrida. Pugnou, ainda, pelo afastamento da condenação a título de danos morais.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente agravo, verifico que este merece provimento, senão vejamos.
+A Súmula nº 568, desta Corte, dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Da análise dos autos, verifico que o Tribunal de origem decidiu de forma contrária ao entendimento pacificado desta Corte, conforme se depreende da leitura do seguinte trecho (fls. 568/571 e-STJ):
+"Depreende-se do caso concreto que a autora era beneficiária de seguro de vida em grupo com início de vigência em 1996, cujo estipulante era a FENABB, com prazo de vigência de um ano com a possibilidade de renovações sucessivas e automáticas.
+Decorridos 6 (seis) anos de relação contratual, a apelante denunciou unilateralmente o contrato por meio de notificação da apelada, conforme a própria ré admite em sua contestação, alegando ser inviável a manutenção do contrato de seguro, em razão da alteração de elementos que compunham o cálculo atuarial, o que comprometeria o equilíbrio econômico financeiro de todo o grupo, conforme estudo atuarial e laudo pericial anexados.
+Na correspondência encaminhada ao apelante, a apelada dá ciência sobre a extinção do vínculo contratual, sem possibilidade de renovação, ofertando a contratação de outro seguro de vida em novas bases contratuais, o que acabou sendo aceito pelo apelado.
+Ainda que o autor tenha realizado espontaneamente a migração do plano de seu seguro de vida, certamente assim o fez porque, em sua idade, provavelmente não conseguiria contratar seguro em outra seguradora, ou somente poderia fazê-lo a um custo muito elevado, vendo-se forçado a aceitar a proposta que lhe foi encaminhada.
+Nessa perspectiva, o apelado encontra-se em situação de desigualdade em face da ré, que possui maior e evidente poder na relação havida entre as partes. Ou seja, há a necessidade de interpretar-se a situação existente privilegiando os princípios da função social, da boa fé e da cooperação, que devem estar presentes nas relações contratuais como a que ora se examina, com o intuito de reequilibrar-se a relação jurídica entre os ora litigantes; trata-se de buscar o equilíbrio e a justiça contratual.
+Além da boa fé, é também fundamental a existência de um dever de cooperação entre as partes, de colaboração durante a execução do contrato, pois cooperar é agir com lealdade e não obstruir ou impedir que a outra parte cumpra sua prestação.
+Como se vê do documento de e-fls. 45, verifica-se que foram previstos aumentos anuais progressivos em razão da idade do segurado, de 4% a 15%, o que culminou por elevar o valor mensal dos prêmios, entre julho/1999 e maio/2012, de iniciais R$ 75,81 ao patamar de R$ 888,14. Tal elevação não fez acompanhar o correspondente aumento do valor da indenização, conforme se vê, e.g., do documento de e-fls. 52.
+E a abusividade se torna ainda mais patente no caso dos autos, em razão da proteção legal contra a discriminação do idoso, que veda o aumento dos prêmios exclusivamente em razão da alteração da faixa etária.
+O entendimento sumulado deste E. Tribunal de Justiça é pela abusividade de tal reajuste, quando este não reflete aumento proporcional na indenização securitária:
+Os contratos de seguro de vida, ininterruptos e de longa duração, configuram se como cativos, renovando se automaticamente, sem reajuste do valor do prêmio em razão de idade e sem modificação do capital segurado ressalvada a atualização monetária (súmula n. 213, TJRJ).
+Vejam-se, ainda, os seguintes julgados:
+(..)
+E mesmo se assim não fosse, a ré ainda estaria impedida de praticar o aumento abusivo em razão do que o Constituinte originário estabeleceu, no art. 3º, IV, da Constituição Federal, como um dos objetivos fundamentais da República:
+Art. 3º Constituem objetivos fundamentais da República Federativa do Brasil:
+IV - promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação.
+A conduta da ré configura, portanto, abuso de direito, sendo nula a cláusula contratual que prevê o aumento em razão da mudança de faixa etária, de forma que o valor dos prêmios só poderá sofrer os reajustes autorizados pelo órgão regulador competente."
+Com efeito, destaco que é assente perante este Superior Tribunal de Justiça que a prerrogativa de reajuste da mensalidade do seguro de vida por implemento de idade, mediante prévia comunicação, não configura procedimento abusivo, sendo decorrente da própria natureza do contrato coletivo, tendo em vista o mutualismo das obrigações e a temporariedade do contrato.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO REVISIONAL DE APÓLICE DE SEGURO DE VIDA EM GRUPO - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO DA SEGURADORA. IRRESIGNAÇÃO DA PARTE AUTORA.
+1. Fixou-se na Segunda Seção do STJ o entendimento de que a prerrogativa de não renovação dos contratos de seguro de vida, bem como de alteração da cobertura contratada e de reajuste por implemento de idade, mediante prévia comunicação, quando da formalização da estipulação da nova apólice, não configura procedimento abusivo, sendo decorrente da própria natureza do contrato. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no REsp 1705023/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 12/6/2018, DJe 20/6/2018)
+AGRAVO INTERNO EM RECURSO ESPECIAL. CONTRATO DE SEGURO DE VIDA EM GRUPO. MODIFICAÇÃO DE COBERTURA E TERMOS REALIZADA DE FORMA UNILATERAL. REAJUSTE POR IMPLEMENTO DE IDADE. LEGALIDADE. POSSIBILIDADE DECORRENTE DA PRÓPRIA NATUREZA MUTUALISTA. TEMPORARIEDADE. PRÉVIA COMUNICAÇÃO. OBSERVÂNCIA. ABUSIVIDADE. INEXISTÊNCIA.
+1. A prerrogativa de não renovação dos contratos de seguro de vida, bem como de alteração da cobertura contratada e de reajuste por implemento de idade, mediante prévia comunicação, quando da formalização da estipulação da nova apólice, não configura procedimento abusivo, sendo decorrente da própria natureza do contrato. Precedente da 2ª Seção (RESP 860.605/RN).
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1176448/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 27/4/2017, DJe 5/5/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO DE VIDA EM GRUPO. NÃO RENOVAÇÃO PELA SEGURADORA. FIRMADO NOVO CONTRATO COM CLÁUSULA PREVENDO REAJUSTE DO PRÊMIO COM BASE NA FAIXA ETÁRIA. ILICITUDE NÃO VERIFICADA. INCIDÊNCIA DA SÚMULA 83/STJ. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO DESPROVIDO.
+1. Esta Corte de Justiça tem entendimento pela legalidade da não renovação unilateral do seguro de vida em grupo.
+2. Também entende esta Corte Superior que a existência de cláusula prevendo o reajuste do prêmio do seguro de vida, em decorrência da faixa etária, só se mostra abusiva na hipótese de o segurado completar 60 anos de idade e sua relação contratual tiver mais de 10 anos.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1019733/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 13/6/2017, DJe 23/6/2017)
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial para julgar improcedentes os pedidos contidos na petição inicial, restaurando a sentença de fls. 477/481 e-STJ. Por fim, tendo o acórdão recorrido sido proferido já na vigência do novo diploma processual e à luz do disposto no art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados, observada a concessão do benefício da Justiça gratuita.
+Intimem-se.
