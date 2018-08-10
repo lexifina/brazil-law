@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se, na origem, de ação civil pública por atos de improbidade administrativa proposta pelo Ministério Público do Estado de Minas Gerais em desfavor de Espólio de [NOME], na pessoa de [NOME], [NOME], [NOME], [NOME] e [NOME], bem como de Anatólio Camargos Araújo.
+Sustenta-se, em síntese, que [NOME], Prefeito do Município de Veríssimo/MG à época dos fatos, assim como Anatólio Camargos Araújo, então Vice-Prefeito daquela municipalidade, receberam valores majorados de seus respectivos vencimentos no exercício de ano de 1987.
+O Parquet estadual, assim, aponta diferença entre o ganho dos demandados com aquele fixado nas resoluções e leis municipais, quantia esta que demonstra prejuízo ao erário.
+Dessa forma, reitera a imprescritibilidade da obrigação de reparar danos aos cofres municipais, bem como ofensa aos princípios que regem a administração pública por meioda execução de atos manifestamente ímprobos, com consequente prejuízos ao erário de Veríssimo/MG.
+À causa foi arbitrado o valor de R$ 7.433,51 (sete mil, quatrocentos e trinta e três reais e cinquenta e um centavos).
+Prolatada a sentença, o magistrado a quo (fls. 725/727), com fundamento no art. 269, IV, do Código de Processo Civil de 1973, reconheceu a prescrição, culminando na extinção do processo com resolução de mérito.
+Em sede de julgamento de recurso de apelação, o Tribunal de Justiça do Estado de Minas Gerais manteve a sentença (fls. 782/791). Veja-se o teor da respectiva ementa:
+APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA DE RESSARCIMENTO POR DANO AO ERÁRIO. VENCIMENTOS PAGOS A MAIOR. NATUREZA DIVERSA DO ATO DE IMPROBIDADE ADMINISTRATIVA. PRESCRIÇÃO QUINQUENAL. OCORRÊNCIA.
+- A pretensão de ressarcimento de danos ao erário não decorrente de ato de improbidade administrativa prescreve em cinco anos.
+- Entendimento firmado pela Primeira Seção do c. STJ no julgamento dos Embargos de Divergência EREsp 662844/SP.
+- Em sendo a prescritibilidade a regra no Direito brasileiro, a hipótese excepcional de imprescritibilidade prevista no art. 37, § 5.º, parte final, da Constituição, não pode ser interpretada extensivamente, a ponto de alcançar, também, a pretensão de ressarcimento fundada em dano não decorrente de ato de improbidade administrativa.
+- É prescritível a ação de reparação de danos à Fazenda Pública decorrente de ilícito civil. (RE 669069, Relator: Min. TEORI ZAVASCKI, Tribunal Pleno, j. 3/2/2016, REPERCUSSÃO GERAL - MÉRITO DJe-082 DIVULG 27-04-2016 PUBLIC 28-4-2016) (TJMG -  Apelação Cível 1.0701.11.006555-7/001, Relator (a): Des. (a) Heloisa Combat, 4ª CÂMARA CÍVEL, julgamento em 23/6/2016, publicação da súmula em 28/6/2016)
+O Ministério Público do Estado de Minas Gerias apresentou embargos declaratórios (fls. 795-806), os quais foram rejeitados (fl. 810-813).
+Dessa forma, o Parquet estadual opôs recurso especial, fundamentando-o com base no art. 105, III, a, da Constituição Federal (fls.819-844).
+Sustenta violação ao art. 21 da Lei n. 4.771/65. Aponta, em resumo, negativa de vigência de lei federal, uma vez que as ações de ressarcimento ao erário, ante sua natureza reparatória, deixam de se submeter ao prazo prescricional de cinco anos. Desse modo, nota-se a ausência de limite temporal no intento de ajuizar ação civil pública reparatória ao agente que causou danos aos cofres municipais.
+Em juízo de admissibilidade, o Tribunal de Justiça do Estado de Minas Gerais admitiu o recurso apresentado pelo Parquet estadual (fls. 878-880).
+O Ministério Público Federal opinou pelo provimento do recurso (fls. 893/895), em parecer assim ementado:
+RECURSO ESPECIAL. ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA PARA RESSARCIMENTO AO ERÁRIO. IMPRESCRITIBILIDADE. PRECEDENTES DO STJ. RECURSO PROVIDO. I - É imprescritível a ação civil pública voltada a obter ressarcimento ao erário. II - Afastada a prescrição, os autos devem retornar ao juízo de primeiro grau para o regular processamento da ação civil pública. III - Parecer pelo provimento do recurso especial.
+É o relatório. Decido.
+Da análise das razões do recurso especial, constata-se que o recorrente se insurge quanto ao reconhecimento da prescrição para a propositura da ação civil pública, sob o argumento de que, segundo a petição inicial, verificou-se o cometimento de ato de improbidade que causou prejuízo ao erário.
+Reconheceu-se, entretanto, a inaplicabilidade das sanções previstas na Lei n. 8.429/92, porque o fato foi praticado antes da sua vigência, o que não significa que a o ato não possa ser considerado ímprobo.
+Na visão do recorrente, portanto, não se aplica o art. 23, I, da Lei 8.429/92, porque a previsão legal da prescrição se refere somente às sanções previstas na mencionada Lei e não às ações de ressarcimento que visam apenas o restabelecimento do estado anterior.
+Como se pode notar, a questão de fundo tratada no presente recurso especial amolda-se àquela que é objeto do Recurso Extraordinário n. 852.475-SP, na qual o eminente e saudoso Ministro Teori Zavascki proferiu a seguinte decisão:
+Trata-se de recurso extraordinário no qual reconhecida a respercussão geral do debate relativo à "prescritibilidade das ações de ressarcimento ao erário fundadas em atos tipificados como ilícitos de improbidade administrativa" (RE 852.475-RG, de minha relatoria, DJe de 27/5/2016, Tema 897).
+Determino a suspensão do processamento de todas as demandas pendentes que tratem da questão em tramitação no território nacional (CPC/2015. art. 1.035, §5º).
+Oficiem-se aos Presidentes de todos os Tribunais do país, com cópia deste despacho e do acórdão do Supremo Tribunal Federal em que se reconhecer a repercussão geral.
+ ..
+Desse modo, por estar o processo em andamento com o debate acerca da prescritibilidade das ações de ressarcimento fundadas em atos de improbidade administrativa, há se determinar o retorno dos autos à origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão a ser proferido pelo Supremo Tribunal Federal, em regime de repercussão geral, sejam adotadas, no que couber, as providências previstas nos arts. 1.039 e seguintes do Código de Processo Civil de 2.015.
+Ante o exposto, determino o retorno dos autos ao Tribunal de origem, com a devida baixa nesta Corte, nos termos da fundamentação supra.
+Publique-se. Intimem-se.
