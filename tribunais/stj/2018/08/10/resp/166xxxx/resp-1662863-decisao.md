@@ -1,0 +1,36 @@
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. NÃO LOCALIZAÇÃO DE BENS PASSÍVEIS DE PENHORA. SUSPENSÃO DO PROCESSO. APLICAÇÃO DO ART. 791, III, DO CPC/73 (ART. 921, III, DO CPC/15). PRECEDENTES. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por BEIRAMAR IMÓVEIS LTDA em face de acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado (e-STJ Fl. 299):
+DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. EXTINÇÃO COM APOIO NA PORTARIA CONJUNTA 73/2010. PARALISAÇÃO ANTE A AUSÊNCIA DE BENS DO DEVEDOR. CERTIDÃO QUE ASSEGURA A INTEGRALIDADE DO CRÉDITO. EXTINÇÃO ADEQUADA. RECURSO DESPROVIDO.
+I. Nos termos da Portaria Conjunta 73/2010, a paralisação prolongada da execução, devido à inexistência de bens passíveis de constrição, autoriza a sua extinção, sem baixa na distribuição, e a respectiva emissão de certidão de crédito que autoriza, a qualquer tempo, a retomada do curso do processo.
+II. Os critérios de gestão processual estabelecidos pela Portaria Conjunta 73/2010, desde que interpretados e aplicados à luz do direito vigente, não desrespeitam a legislação processual civil nem ocasionam prejuízo para as partes.
+III. A Portaria Conjunta 73/2010 foi editada com a finalidade de facilitar a gestão processual das execuções cíveis e de oferecer ao credor alternativa juridicamente segura nas hipóteses em que restar evidenciada a inviabilidade do prosseguimento regular do processo pela falta de localização do devedor ou de bens passíveis de constrição.
+IV. O arquivamento preconizado na Portaria Conjunta 73/2010, ao mesmo tempo em que constitui instrumento válido para a eficaz administração judiciária, não acarreta propriamente a extinção do processo, na medida em que a qualquer tempo pode haver a retomada do curso da execução por meio de simples requerimento do exeqüente demonstrando a viabilidade prática da continuidade dos atos executivos.
+V. Do ponto de vista estritamente jurídico, o cumprimento de sentença arquivado sem baixa na distribuição não tem o seu ciclo processual definitivamente encerrado, produzindo efeitos equivalentes à suspensão contemplada no artigo 791 do Código de Processo Civil de 1973. Isso porque o processo, conquanto remetido ao arquivo, não tem a sua existência apagada na distribuição e pode ser reativado quando o exeqüente demonstrar as condições necessárias para a continuidade efetiva da execução.
+VI. À vista do cenário processual de esgotamento das medidas tendentes à viabilização da execução, a aplicação da Portaria Conjunta 73/2010 não pode ser considerada hostil à sistemática processual vigente, máxime porque não importa em prejuízo, uma vez que ao credor fica assegurada a intangibilidade de seu crédito, podendo a qualquer tempo indicar bens passíveis de constrição e com isso reativar a marcha executiva.
+VII. A sentença proferida com apoio na Portaria Conjunta 73/2010 não pode ser utilizada como marco para o reinicio do prazo prescricional. A uma, porque a extinção operada tem caráter eminentemente administrativo e eqüivale à suspensão do processo. A duas, porque não representa o último ato do processo, para o fim do art. 202, parágrafo único, do Código Civil, pois sua única função processual é manter os autos no arquivo, retirando-os da administração cartorária, até que se demonstre a viabilidade do prosseguimento da execução. A três, porque o art. 3o, caput, do referido ato administrativo é claro ao dispor que a sentença assegurará a integridade do crédito objeto da execução, conforme previsto no título executivo.
+VIII. Apelação conhecida e desprovida.
+No recurso especial, a recorrente aponta ofensa ao art. 791, III, do CPC/73 (atual art. 921, III, do CPC/15), sustentando que, nos casos em que não são encontrados bens passíveis de penhora, o processo deve ser suspenso, razão pela qual o disposto na Portaria Conjunta 73/TJDFT não deve ser observado.
+Sem contrarrazões (e-STJ Fl. 319).
+À e-STJ Fl. 343, determinei a conversão do agravo como recurso especial para melhor exame da controvérsia.
+É o relatório.
+Passo a decidir.
+O recurso especial merece provimento.
+O Superior Tribunal de Justiça possui orientação jurisprudencial firme no sentido de que a legislação processual civil não estabelece como causa de extinção da fase executiva a inexistência de bens penhoráveis, hipótese em que o processo deve ser suspenso, nos termos do que dispunha o art. 791, III, do CPC/1973 - vigente à época em que determinada a extinção do presente cumprimento de sentença -, bem assim o atual art. 921, III, do CPC/15.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO. NÃO LOCALIZAÇÃO DE BENS PENHORÁVEIS. SUSPENSÃO DA EXECUÇÃO. APLICAÇÃO DO ART. 791, III, DO CPC. CONFIRMAÇÃO DA INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO NÃO PROVIDO.
+1. A decisão recorrida está em consonância com a jurisprudência do Superior Tribunal de Justiça no sentido de que, se o devedor não possui bens penhoráveis, aplica-se o disposto no art. 791, III, do Código de Processo Civil, o qual determina a suspensão da execução, e não a sua extinção. Tal norma visa a resguardar o direito do credor, conferindo-lhe prazo razoável para obtenção de elementos suficientes ao seguimento do processo, evitando-se, assim, que o devedor inadimplente se beneficie, locupletando-se em detrimento do credor.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 481.724/DF, 4ª Turma, Relator Min. Raul Araújo, DJe de 3/8/2015)
+EXECUÇÃO. INEXISTÊNCIA DE BENS PENHORÁVEIS. BAIXA DOS AUTOS NO DISTRIBUIDOR. IMPOSSIBILIDADE. ARQUIVAMENTO ATÉ QUE SEJAM LOCALIZADOS OS BENS DO DEVEDOR. RECURSO PROVIDO.
+1.- A falta de bem penhorável, não importa na extinção do processo de execução ou na baixa no Distribuidor, mas apenas enseja seu arquivamento provisório até que sejam localizados bens do devedor, nos termos do Art. 791, III, do CPC.
+2.- Recurso Especial provido.
+(REsp 1.231.544/RJ, 3ª Turma, Relator Ministro Sidnei Beneti, DJe de 27/4/2012)
+Conforme já me referi em decisão anterior, "a Portaria Conjunta nº 73/2010, que ostenta norma de natureza administrativa, não se sobrepõe (nem pode se sobrepor) à lei, uma vez que a inteligência do inciso III do art. 791 do CPC/1973, vigente à época da prolação do acórdão ora atacado, indica que diante da ausência de bens passíveis de penhora deve-se proceder à suspensão da execução, e não à sua extinção" (REsp 1498945, DJe de 4/4/2017).
+No mesmo sentido, cito ainda as seguintes decisões monocráticas proferidas em casos análogos: REsp 1533121/DF, Ministro MOURA RIBEIRO, DJe de 28/09/2016; REsp 1555852/DF, Ministro MARCO BUZZI, DJe de 20/10/2016; REsp 1633147/DF, Ministro PAULO DE TARSO SANSEVERINO, DJe de 11/11/2016; REsp 1630771/DF, Ministro LUIS FELIPE SALOMÃO, DJe de 08/06/2017; REsp 1537938/DF, Ministro RAUL ARAÚJO, DJe de 29/11/2016.
+Ademais, convém destacar, ainda, que o art. 794 do CPC/73 (atual art. 924 do CPC/15), também não prevêem a ausência de bens passíveis de penhora como hipótese de extinção da execução.
+Ante o exposto, dou provimento ao recurso especial para determinar a suspensão do cumprimento de sentença.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo à aplicação de multa (arts. 77, II c/c 1.021, § 4º, do CPC/15).
+Intimem-se.
