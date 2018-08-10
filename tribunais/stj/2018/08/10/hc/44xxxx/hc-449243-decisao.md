@@ -1,0 +1,7 @@
+DECISÃO
+1. Trata-se de habeas corpus impetrado em favor de [NOME] MENDES, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+2. Entretanto, em consulta realizada à página eletrônica do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, verifica-se que a Corte de origem deu provimento à Apelação nº 0002225.32.2017.8.26.0637 interposta pela defesa, nos seguintes termos:
+Deram provimento ao recurso interposto por [NOME] para o fim de, condená-lo por infração, à norma do artigo 157, caput do Código Penal, diminuir-lhe a pena individual, total e definitiva para quatro (4) anos, nove (9) meses e dezoito (18) dias de reclusão, a ser inicialmente cumprida no regime prisional semiaberto, acrescida do pagamento de trinta e seis (36) dias-multa, arbitrados no patamar legal mínimo, mantida, no mais, a sentença de primeira instância, comunicando-se com urgência ao Juízo da execução, nos termos da Portaria 05/2016 da Presidência da Seção de Direito Criminal deste Tribunal de Justiça. Por V.U.
+Assim, resta prejudicada a presente impetração diante do novo cenário fático-processual inaugurado com o julgamento do apelo, não se podendo olvidar que a pretensão de redimensionamento da pena e da alteração do regime inicial para o cumprimento da reprimenda foi acolhida na oportunidade.
+3. Ante o exposto, julga-se prejudicado o habeas corpus, com fulcro no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
