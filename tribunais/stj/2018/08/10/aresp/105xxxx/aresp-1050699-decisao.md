@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+OBRIGAÇÃO ESPECÍFICA - CONVERSÃO EM PERDAS E DANOS - REALIZAÇÃO DE ESCRITURA DE COMPRA E VENDA - IMÓVEL NÃO REGISTRADO NO CARTÓRIO - TERRENO PERTENCENTE A TERCEIRO - IMPOSSIBILIDADE DE CUMPRIMENTO.
+Conforme o art. 461, § 1º, do CPC/1973, a obrigação se converterá em perdas e danos se impossível a tutela específica ou a obtenção do resultado prático correspondente.
+A obrigação, contratual quanto à realização de escritura pública para a alienação de um imóvel poderá se converter em perdas e danos quando a construção do bem sequer tenha sido averbada no registro competente e/ou quando o lote onde edificado o bem pertencer a terceiro.
+Nas razões de recurso especial, alega a parte agravante violação dos artigos 508 e 1.022 do Código de Processo Civil de 2015; 393, I, e 474 do Código de Processo Civil de 1973 e 23 da Lei 8.906/94.
+Assim posta a questão, observo que o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido. Afasto, pois, a alegada violação do art. 535 do CPC.
+O recurso não poderia ser acolhido sem reexame de prova. A agravante afirma não ser cabível a conversão da obrigação da agravada em perdas e danos. A respeito dessa premissa fática, porém, confira-se o seguinte trecho do acórdão recorrido (e-STJ fl. 1.884):
+O d. juiz considerou impossível o cumprimento da obrigação específica, nos termos do art. 461, § 1º, do CPC, em razão da falta de averbação dos cinemas na matrícula do imóvel. Por isso, os executados não poderiam efetuar a outorga da escritura em favor dos exeqüentes.
+Ao decidir, o juiz fez remissão ao imóvel de Matrícula 4938 (fls. 1792/1798 dos autos de origem e fls. 1537/1543 do agravo): Lote de Terreno nº 11 da Quadra 12 do Setor CNB de Taguatinga/DF, que teve como proprietário original [NOME]. Segundo a certidão de matrícula, [NOME], sócio dos executados, adquiriu o imóvel em 11/04/95. Após diversos negócios, o imóvel foi adquirido por Top Mall Administradora de Condomínios, em 15/10/97.
+(..)
+Portanto, é evidente que, atualmente, não há como ser outorgada a escritura das salas do cinema, pois os referidos não existem formalmente. A construção do shopping Center, onde localizadas as salas, sequer foi averbado no Registro competente. Além disso, o terreno onde fora edificado o empreendimento é composto de dois lotes, cada qual com a sua própria matrícula, sendo que, em relação a uma delas, a propriedade é de terceiros.
+Afastar essas conclusões é inviável em recurso especial, consoante dispõe a Súmula 7 do STJ.
+Quanto ao art. 23 da Lei 8.906/94, as razões do recurso estão dissociadas do acórdão recorrido, o que prejudica a compreensão da controvérsia e faz aplicável ao caso a Súmula 284 do STF.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
