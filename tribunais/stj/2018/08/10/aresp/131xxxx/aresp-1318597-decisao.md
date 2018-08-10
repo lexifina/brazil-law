@@ -1,0 +1,43 @@
+DECISÃO
+
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"RECURSOS DE APELAÇÃO CÍVEL AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. OFENSAS AO DEMANDANTE PROFERIDAS POR MOTORISTA DA COMPANHIA DEMANDADA E MOTIVADAS POR SUA DEFICIÊNCIA FÍSICA DANOS MORAIS EFETIVAMENTE COMPROVADOS.
+RESPONSABILIDADE OBJETIVA DA DEMANDADA. VALOR CONDIZENTE COM AS CIRCUNSTÂNCIAS DO CASO. SENTENÇA DE PROCEDÊNCIA INTEGRALMENTE MANTIDA.
+Como está cabalmente demonstrado pela prova produzida nos autos, sobretudo a testemunhai, a parte demandante fora vítima de ofensas pessoais e gratuitas direcionadas por motorista da empresa demandada, única e exclusivamente motivadas por sua condição de deficiente físico, fato pelo qual esta responde objetivamente.
+Portanto, o fato ilícito, o nexo causai e os danos estão presentes.
+O valor atribuído como indenização pelos danos morais, RS 6.000,00 (seis mil reais), mostra-se condizente com as circunstâncias do caso, de modo que não se há de falar nem em majoração nem em minoração.
+Os 15% (quinze por cento) fixados sobre o valor da condenação, a título de honorários sucumbenciais, estão igualmente condizentes com as circunstâncias do caso, razão pela qual também não há razão para a modificação da sentença no ponto. RECURSOS DESPROVIDOS." (fls.180)
+Opostos embargos de declaração, os mesmos foram rejeitados (e-STJ, fls. 198/207).
+Nas razões do recurso especial, a parte agravante alega violação aos arts.188, 930 e 945 do Código Civil de 2002 e art. 373, inciso I do Código de Processo Civil e divergência jurisprudencial, sustentando, em síntese, (a) que o conjunto dos autos não pressupõe a indenização pretendida, nem o autor se desincumbiu de provar o alegado, não havendo conduta ilícita por parte dos demandados, tendo a condenação sido imposta com base em afirmações sem prova material do nexo de causalidade ou de responsabilidade dos demandados, já que o motorista que teria ofendido a parte agravada não estava trabalhando no momento da ofensa e tendo sido comprovado que a parte agravante prestou auxílio, (b) que a conduta, dano e o nexo causal não foram comprovados, não se desincumbindo a parte agravada de seu ônus probatório.
+Foram apresentadas contrarrazões às fls. 241/255.
+É o relatório. Decido.
+De início, cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Compre expor que os dispositivos indicados como violados não tem aptidão para ensejar a reforma do acórdão recorrido quanto à procedência do pedido de condenação da parte agravante por danos morais, porquanto os artigos 188, 930 e 945 do CC/02 não tem carga normativa para descaracterizar o pedido de dano moral com base na responsabilidade objetiva do prestador de serviço de transporte público. Tal situação determina a incidência, por analogia, da Súmula 284 do STF.
+Com efeito, "a indicação de artigo de lei federal tido por violado que não guarda pertinência temática com a matéria discutida nos autos obsta o conhecimento do recurso especial, a teor da Súmula 284/STF" (REsp 846.049/SP, Rel. Min. ELIANA CALMON, Segunda Turma, DJ de 08.09.2008).
+A propósito:
+"ADMINISTRATIVO. DESAPROPRIAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. VIOLAÇÃO AO ART. 535. INOCORRÊNCIA. COMANDO INCAPAZ DE INFIRMAR A CONCLUSÃO DO ACÓRDÃO. TAXA DE 6% AO ANO. EFICÁCIA DA MP 1.577/97. PRINCÍPIO DO TEMPUS REGIT ACTUM. PRECEDENTES.
+(..)
+3. Não pode ser conhecido o recurso especial se o dispositivo apontado como violado não contém comando capaz de infirmar o juízo formulado no acórdão recorrido. Incidência, por analogia, a orientação posta na Súmula 284/STF.
+(..)
+6. Recurso especial parcialmente conhecido e, nesta parte, provido." (REsp 884.146/MT, 1ª Turma, Rel. Min. Teori Albino Zavascki, DJ de 16.8.2007)
+No tocante à suposta violação ao art. 373, I do CPC/15, tem-se que o Tribunal de origem concluiu que restou comprovada a alegação da parte agravada, sendo caso de condenação em danos morais diante da comprovação do fato ilícito, do nexo causal e dos danos sofridos diante das provas produzidas nos autos, in verbis:
+"Como está cabalmente demonstrado pela prova produzida autos, sobretudo a testemunhal, a parte demandante fora vítima de ofensas pessoais e gratuitas direcionadas por motorista da empresa demandada, única e exclusivamente motivadas por sua condição de deficiente físico, fato pelo qual esta responde objetivamente. Portanto, o fato ilícito, o nexo causal e os danos estão presentes." (e-STJ, fls. 185/186)
+Nesse contexto, a modificação de tais entendimentos lançados no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável na sede estreita do recurso especial, a teor do que dispõe a Súmula 7 do Superior Tribunal de Justiça.
+"AGRAVO INTERNO. ACIDENTE FERROVIÁRIO. RESPONSABILIDADE. DANOS MORAIS. VERIFICAÇÃO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. PREJUDICADA A ANÁLISE DA SUCUMBÊNCIA RECÍPROCA E DA DIVERGÊNCIA JURISPRUDENCIAL.
+1. Hipótese em que a Corte a quo, lastreada nos elementos de natureza fática constantes dos autos, concluiu que a CPTM concorreu para a morte do familiar dos ora agravados, pois, dentre outros fatores, não havia agentes de segurança no momento do acidente e que a estação estava em manutenção, o que ocasionou superlotação, situação que teria agravado a falta de segurança dos usuários.
+2. A modificação do citado entendimento, para afastar a responsabilidade da recorrente em razão de o acidente ter ocorrido supostamente por culpa exclusiva/concorrente, exigiria revolvimento de matéria fático-probatória contida nos autos, o que não se admite em recurso especial, ante o óbice da Súmula 7/STJ.
+3. No tocante aos danos morais, a pretensão igualmente não pode ser conhecida, porquanto rever o entendimento da Corte de origem, em relação à existência de danos morais e ao valor da indenização, demandaria o revolvimento do acervo fático-probatório acostados aos autos, o que é vedado pela Súmula 7/STJ.
+4. A alteração da indenização por dano moral apenas é possível quando o quantum arbitrado nas instâncias originárias se revelar irrisório ou exorbitante, o que não ocorreu na espécie.
+5. Fica prejudicado o pedido de reconhecimento de sucumbência recíproca, pois descabe ao STJ o reexame do acervo fático dos autos a fim de atestar a existência de culpa exclusiva ou concorrente da vítima.
+6. Também está prejudicada a análise da divergência jurisprudencial, pois a tese defendida pela insurgente esbarrou no óbice da Súmula 7/STJ quando do exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+7. Agravo Interno não provido."
+(AgInt no AREsp 1265655/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/06/2018, DJe 29/06/2018)
+Por fim, a incidência da Súmula 7/STJ na questão controversa apresentada é, por consequência, óbice também para a análise do apontado dissídio - por ser inviável a aferição de similitude fática entre os julgados -, e impede o seguimento do presente recurso pela alínea "c" do permissivo constitucional.
+Nessa linha, observam-se os seguintes precedentes:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO - ALEGADA NÃO COMPROVAÇÃO DA CAUSA PARA EMISSÃO DE DUPLICATAS - SENTENÇA E ACÓRDÃO QUE RECONHECERAM A VALIDADE DOS TÍTULOS - DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DO DEMANDANTE.
+1. Demonstrado que o acolhimento das razões do recurso especial torna imprescindível o reexame do conjunto fático-probatório dos autos, incide o enunciado nº 7 da Súmula do STJ.
+2. A incidência do enunciado nº 7 da Súmula do STJ impede o conhecimento do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+3. O dissídio jurisprudencial deve ser minuciosamente demonstrado por meio do cotejo analítico entre o acórdão recorrido e os acórdãos apontados como paradigmas, procedimento não observado pela parte insurgente.
+4. Agravo regimental desprovido." (AgRg no REsp 1137530/MT, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 10/06/2014, DJe 24/06/2014)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial. Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 15% para 16%.
+Publique-se.
