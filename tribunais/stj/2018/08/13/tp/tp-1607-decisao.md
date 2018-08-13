@@ -1,0 +1,54 @@
+EMENTA
+PEDIDO DE TUTELA PROVISÓRIA EM AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. RECONHECIMENTO DA AUSÊNCIA DE PROVAS ACERCA DA IMPENHORABILIDADE DO BEM CONSTRITO. ANÁLISE DO CONTEXTO FÁTICO-PROBATÓRIO INSINDICABILIDADE. APARENTE ATRAÇÃO DO ENUNCIADO 7/STJ. AUSÊNCIA DE OMISSÃO OU DEFICIÊNCIA DE FUNDAMENTAÇÃO. PEDIDO DE TUTELA PROVISÓRIA INDEFERIDO.
+DECISÃO
+Vistos etc.
+Trata-se de pedido de tutela provisória formulado por [NOME] e OUTROS em que se postula a agregação de efeito suspensivo ao recurso especial por eles interposto e que foi inadmitido pelo Egrégio Tribunal de Justiça do Estado de São Paulo.
+Asseveraram que o recurso foi interposto no curso de execução de título extrajudicial (confissão de dívida) embargada, embargos em que, determinado pelo juízo a juntada dos contratos que originaram a referida confissão, omitiu-se a instituição financeira em acostar um dos instrumentos.
+Disseram carecer de liquidez, certeza e exigibilidade o título executivo, já que os contratos que lhe deram origem contêm encargos abusivos, não podendo assim, no curso da execução, ter os seus bens penhorados, especialmente o seu único bem imóvel, em nome de [NOME] e [NOME], locado a terceiro, sendo a renda destinada a subsistência familiar.
+Destacaram violados dispositivos da Lei 8.009/90 e o art. 832 do CPC, estando o imóvel protegido, ainda, pelos arts. 226 da CF, 1711 e 1722 do CCB e 789 do CPC e destacaram que o primeiro leilão estava aprazado para 01/08/2018.
+Finalizaram dizendo que a determinação de que inexistem outros imóveis sob a propriedade dos postulantes é prova diabólica, pois negativa, impodo-se reconhecer a impenhorabilidade do referido bem. Pediram a concessão da tutela provisória, suspendendo-se expropriação do bem penhorado até o trânsito em julgado dos embargos à execução.
+É o relatório.
+Passo a decidir.
+Antecipo que estou em indeferir o pedido de tutela provisória.
+A concessão de tutela provisória, antecipando-se os efeitos do eventual futuro provimento do recurso especial inadmitido, depende da demonstração da probabilidade de êxito não só do apelo excepcional, mas, também, do agravo em recurso especial interposto.
+Na espécie, nada se disse na petição em que se postula a agregação de efeito suspensivo acerca da probabilidade de êxito do agravo, notadamente, acerca dos óbices reconhecidos pelo Tribunal de origem.
+A par disso, analisando o agravo e o recurso especial interpostos, não entrevejo possibilidade de provimento de um e conhecimento de outro, ao menos neste juízo superficial que se faz em sede de tutela de urgência.
+No recurso especial, sustentou-se ser o imóvel penhorado e submetido à hasta pública o único desta classe de propriedade dos recorrentes, e, assim, impenhorável, mesmo que esteja locado para terceiros, pois os valores obtidos com a locação são utilizados para a sua subsistência.
+Disseram que alugam outro imóvel onde residem e utilizam o valor do aluguel do bem penhorado na sua subsistência.
+O acórdão recorrido analisando a referida impenhorabilidade destacou não terem os recorrentes comprovado ser o bem em questão o único por eles dominiado e, ainda, que há indícios de que o parco valor de R$ 500,00 recebidos a título de aluguel não se volta a sua subsistência, possuindo os devedores outra sociedade empresária da qual extrairiam o sustento.
+A propósito:
+Na sequência, o pedido de afastamento da penhora foi indeferido pela decisão ora hostilizada sob o fundamento de que "(..) a petição não veio devidamente instruída com comprovação de ser único bem dos executados, capaz de demonstrar a impenhorabilidade alegada. Daí a determinação da constatação, que fora feita pelo Oficial de justiça, que verificou estar o imóvel alugado por terceiro, não afrontando o direito de moradia, não estando protegido pela impenhorabilidade" (fls. 322).
+(..)
+No caso vertente, tais requisitos não foram devidamente comprovados.
+Com efeito, os documentos trazidos aos autos apesar de demonstrarem que o imóvel penhorado está de fato alugado pelo valor mensal de R$ 500,00 (fls. 85/90), não comprovam ser este o único bem imóvel dos executados.
+Note-se que o executado [NOME] apresentou apenas o recibo de entrega da declaração de imposto de renda do exercício 2016, não juntando sua declaração de bens, prova indispensável para se verificar se o imóvel penhorado seria o único bem imóvel residencial de sua propriedade (fl. 363).
+Somado a isso, na declaração de bens da executada [NOME] consta que além de ser sócia proprietária da empresa executada KLAUSEG ZELADORIA PATRIMONIAL LTDA EPP, é também sócia proprietária da empresa SERVIPOL SEGURANÇA VIGILÂNCIA PATRIMONIAL LTDA, detendo 99% de seu capital social. Mais, consta declaração de que mantém a quantia de R$ 50.000,00 "em caixa" (fls. 357/387).
+Significa dizer que, além de não ter sido demonstrado que o imóvel residencial penhorado seja o único de sua propriedade, não há qualquer elemento capaz de demonstrar que sua renda é revertida em proveito familiar, vez que há demonstração de que os executados mantêm outra empresa como fonte de renda.
+Na forma do enunciado 486/STJ, tratando-se de reconhecimento de impenhorabilidade de imóvel de propriedade dos devedores mas locado para terceiros, há a necessidade de ser ele o único desta espécie e, ainda, que os valores provenientes do aluguel são utilizados para o sustento da família dos devedores.
+A jurisprudência do Superior Tribunal de Justiça orienta-se pela impossibilidade de alterar-se a conclusão que vem alicerçada no conjunto fático-probatório, notadamente, a conclusão que o bem constrito não é bem de família, atraindo-se a Súmula 7/STJ no que concerne.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 131 DO CPC/73 E AO ART. 1º DA LEI 8.009/90. PRETENSÃO DE REDISCUSSÃO DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. "Não está obrigado o Magistrado a julgar a questão posta a seu exame de acordo com o pleiteado pelas partes, mas sim com o seu livre convencimento (art. 131, do CPC), utilizando-se dos fatos, provas, jurisprudência, aspectos pertinentes ao tema e da legislação que entender aplicável ao caso concreto" (AgRg no REsp 373.611/RJ, Rel. Ministro JOSÉ DELGADO, julgado em 26/2/2002, DJ de 25/3/2002, p. 206). Pretensão do apelo nobre que esbarra no óbice da Súmula 7/STJ.
+2. O eg. Tribunal a quo, soberano na análise do acervo fático-probatório carreado aos autos, concluiu que não houve a comprovação de que o imóvel objeto da lide seria bem de família e, portanto, impenhorável nos termos do art. 1º da Lei 8.009/90. A pretensão de revisar tal entendimento depende do reexame de matéria
+fático-probatória, o que é inviável em sede de recurso especial, conforme Súmula 7/STJ.
+3. Agravo interno desprovido. (AgInt no AREsp 884.254/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 03/04/2018, DJe 06/04/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BEM DE FAMÍLIA. IMPENHORABILIDADE. REQUISITOS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu pela ausência de comprovação dos requisitos necessários para caracterização do imóvel como bem de família. Alterar esse entendimento demandaria reexame das provas produzidas nos autos, vedado em recurso especial.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp 1189340/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 27/02/2018, DJe 13/03/2018)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMPENHORABILIDADE DO IMÓVEL. NÃO CONFIGURAÇÃO. REEXAME DE MATÉRIA PROBATÓRIA. NECESSIDADE. INCIDÊNCIA DA SÚMULA 7 DO STJ. PRECEDENTE. AGRAVO IMPROVIDO.
+1. Tendo o eg. Tribunal de origem concluído que não ficou comprovado que o imóvel penhorado constitui bem de família, e que a agravante utilize efetivamente a renda de seu imóvel, locado para fins comerciais, para pagamento de seu aluguel residencial, a alteração de tal entendimento é obstada pela Súmula 7 desta Corte, pois demandaria o reexame do conjunto fático-probatório.
+2.Agravo regimental improvido. (AgRg no AREsp 442.229/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 03/02/2015, DJe 20/02/2015)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO AO ARTIGO 535 DO CÓDIGO DE PROCESSO CIVIL. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+ ..
+2. Em sede de recurso especial, não é possível alterar a conclusão do Tribunal de origem de que não ficou comprovado que o imóvel penhorado constitui bem de família, pois demandaria o reexame do conjunto fático-probatório, o que atrai o óbice da Súmula 7 desta Corte.
+3.Agravo regimental improvido. (AgRg no AREsp 231.420/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/10/2014, DJe 30/10/2014)
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CIVIL. EXECUÇÃO. IMPENHORABILIDADE DO IMÓVEL. NÃO CONFIGURAÇÃO. REEXAME DE MATÉRIA PROBATÓRIA. NECESSIDADE. INCIDÊNCIA DO ENUNCIADO Nº 7 DA SÚMULA DO STJ. PRECEDENTE.
+1. Para afastar a conclusão adotada pelas instâncias ordinárias no sentido da penhorabilidade do bem imóvel seria imprescindível novo exame do acervo fático-probatório constante dos autos, providência vedada em sede de recurso especial a teor do óbice previsto no enunciado nº 7 da Súmula do Superior Tribunal de Justiça.
+ ..  (AgRg no Ag 1176507/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 01/03/2011, DJe 21/03/2011)
+Por outro lado, não identifico negativa de prestação jurisdicional ou, ainda, deficiência de fundamentação do acórdão recorrido, tendo sido coadjuvadas as suas conclusões mediante a análise das provas aos autos coligidas.
+Nas razões do especial, bem se destaca a pretensão de análise de provas na seguinte passagem do apelo excepcional, dentre outras tantas (fl. 845 e-STJ):
+O pinçamento de uma ou outra informação constante da documentação em referência pelo Egrégio Tribunal "a quo", denotando indevido fracionamento da prova em prejuízo notório da defesa de direitos pela parte recorrente, impossível negar, impede a constatação de que o passivo anotado é sobremaneira superior ao ativo (informação pinçada pelo v. acórdão combatido). A correta solução da controvérsia, pois, exceto se em cerceamento de defesa, estaria condicionada à análise de todo o conteúdo da documentação exibida (fl. 368). Destacamos:
+A alegação de que foram juntadas as provas de que se teria ressentido o órgão julgador para concluir de modo diverso não pode ser sindicada por este Tribunal Superior e, sobre a questão, não há reconhecer existir omissão.
+Ante o exposto, indefiro o pedido de tutela provisória.
+Intimem-se.
