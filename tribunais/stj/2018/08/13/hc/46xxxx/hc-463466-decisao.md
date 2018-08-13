@@ -1,0 +1,17 @@
+EMENTA
+HABEAS CORPUS NÃO CONHECIDO NA ORIGEM. EXECUÇÃO PENAL. INCLUSÃO DO REEDUCANDO NO SISTEMA PENITENCIÁRIO FEDERAL. PEDIDO DE EXCLUSÃO E TRANSFERÊNCIA PARA PRESÍDIO ESTADUAL. SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL INEXISTENTE.
+Writ não conhecido.
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de [NOME], apontando como autoridade coatora o Tribunal de Justiça do Mato Grosso do Sul.
+Tem-se dos autos que, em 22/4/2018, o paciente, que se encontrava com salvo-conduto expedido pelo juiz de execução de Dourados para apresentar-se na Comarca de Carapó/MS, foi preso em flagrante no município de Rio Brilhante/MS pela suposta prática do crime do art. 16, caput, da Lei Federal n. 10.826/2003.
+Convertida a prisão em flagrante em preventiva, o paciente foi, ao final, incluso, definitivamente, no Sistema Penitenciário Federal, na Penitenciária Federal de Campo Grande/MS, ante sua periculosidade, noticiada pela Agência Estadual de Administração do Sistema Penitenciário - AGEPEN.
+Irresignada com a inclusão definitiva do paciente no Sistema Penitenciário Federal, a defesa impetrou habeas corpus perante o Tribunal de Justiça que, por sua vez, não conheceu do writ, indeferindo liminarmente a inicial (fls. 84/88 - Habeas corpus n. 1407416-97.2018.8.12.0000).
+Daí a insurgência da defesa, eis que, não há fundamento legal devidamente comprovado de que o sentenciado preencha requisitos para estar incluso em Penitenciária Federal a não ser por interesse da segurança do próprio preso e assim não há motivos de uma inclusão definitiva de 360 dias (fl. 7).
+Acrescenta, o pedido para inclusão do reeducando no sistema penitenciário federal foi requerido pela autoridade administrativa (AGEPEN) visando resguardar a segurança e destacando inclusive que seria inclusão provisória até que verificassem a vaga em Unidade prisional estadual de segurança para o interno, contudo o juiz agiu ilegalmente e além do que lhe foi solicitado (fl. 10).
+Requer, então, a concessão liminar da ordem para que o paciente seja excluído do sistema penitenciário federal e que seja oficiada a AGEPEN - MS para fornecer informação quanto a analise de local adequado e seguro para transferência do apenado no estado de Mato Grosso do Sul, solicitando ainda que se constate a possibilidade do mesmo retornar ao presídio estadual de Dourados onde vinha cumprindo pena no raio de presos em segurança que não participam de facções criminosas, uma vez que encontra-se preso preventivamente em razão da ação penal que esta respondendo em Rio Brilhante/ MS e quanto a execução penal estava em regime semiaberto.
+Requer ainda que verifique-se a possibilidade de autorização para inclusão do mesmo em outro estado da federação (Rio de Janeiro) onde possui vinculo familiar, uma vez que o estado de Mato Grosso do Sul não possui local adequado para segurança do apenado (fl. 11).
+É o relatório.
+Não há como conhecer da impetração. Com efeito, não analisadas as questões aqui deduzidas pelo Tribunal a quo, o seu exame implicaria inadmissível supressão de instância.
+De mais a mais, urge acrescentar que não há constrangimento ilegal a ser sanado no que se refere ao indeferimento liminar do writ impetrado na origem. A decisão proferida pelo relator mostra-se irrepreensível, na medida em que afastou qualquer ilegalidade, destacando que na origem foi respeitado o contraditório, ampla defesa e do devido processo legal (fls. 87/88).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
