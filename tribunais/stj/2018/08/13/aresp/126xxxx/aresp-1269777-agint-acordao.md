@@ -1,0 +1,36 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA DE COBERTURA. APRECIAÇÃO DE OFENSA A DISPOSITIVO DA CONSTITUIÇÃO FEDERAL. COMPETÊNCIA DO STF. CONCLUSÃO NO SENTIDO DA DESNECESSIDADE DE DILAÇÃO PROBATÓRIA. JULGAMENTO ANTECIPADO. CONCLUSÃO FUNDADA EM FATOS, PROVAS E TERMOS CONTRATUAIS. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. É incabível a pretensão por análise de eventual violação de dispositivos contidos na Constituição Federal de 1988, pois essa tarefa é constitucionalmente reservada ao Supremo Tribunal Federal.
+2. Consoante se extrai dos autos, o Tribunal de Justiça firmou a desnecessidade de produção de provas, inclusive a pericial, para verificar a necessidade ou indicação do procedimento cirúrgico buscado pela parte recorrida, a qual seria beneficiária do plano de saúde. No ponto, o acórdão também demonstrou que o acervo probatório colacionado aos autos era suficiente para o julgamento antecipado da lide. Portanto, não há como conhecer do recurso, pois o julgado foi construído com base em fatos, provas e termos contratuais, o que atrai aplicação das Súmulas 5 e 7/STJ por ambas as alíneas do permissivo constitucional.
+3. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Trata-se de agravo interno interposto por NOTRE DAME INTERMÉDICA SAÚDE S.A. contra a decisão desta relatoria de fls. 319-321 (e-STJ), em que se estabeleceu a negativa de provimento ao recurso especial.
+O apelo nobre havia sido fundado nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça de São Paulo assim ementado (e-STJ, fls. 262-270):
+Ação de obrigação de fazer. Plano de saúde. Recusa de cobertura de cirurgia bucomaxilofacial e materiais correlatos. Desnecessidade de realização de perícia. Escolha da melhor técnica e dos materiais que deve ser feita pelo médico que assiste a beneficiaria e não pelo plano de saúde. Sentença mantida. Recurso improvido.
+No recurso especial, a recorrente apontou, além de divergência jurisprudencial, violação dos arts. 5º, LV, da CF e 130 e 333, I e II, do antigo Código de Processo Civil, equivalentes aos arts. 370 e 373, I e II, do novo diploma.
+Esclareceu que se insurgiu contra o julgamento de ação proposta pela recorrida, beneficiária de plano de saúde, buscando cobertura para cirurgia odontológica, bem como os materiais supostamente necessários ao ato. Frisou que ocorreu a apreciação antecipada da lide, sem a possibilidade de produção de provas referentes ao esclarecimento da necessidade/indicação do procedimento cirúrgico. Pontuou que tal proceder da instância inicial ofendeu a ampla defesa e o contraditório, inclusive porque não foi realizada perícia técnica indispensável ao julgamento (e-STJ, fls. 274-281).
+Negado provimento à sua pretensão recursal, maneja a insurgente o presente agravo interno. Alega que não pode ser privada de seu direito à produção de prova essencial ao correto deslinde dos fatos, pois essa negativa ocasiona ofensa ao direito à ampla defesa e ao contraditório. Aduz que existem provas díspares nos autos, o que demanda a realização de perícia para atestar a necessidade, ou não, dos procedimentos vindicados pela parte recorrida (e-STJ, fls. 326-331).
+Contraminuta não apresentada (e-STJ, fl.334).
+É o relatório.
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+Este Tribunal Superior não conhece de ofensa a dispositivo da Constituição Federal, pois esse mister é reservado à Suprema Corte:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. MANIFESTAÇÃO SOBRE OFENSA A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. PAGAMENTO DE HORAS EXTRAS. SERVIDOR NOMEADO EM CARGO EM COMISSÃO. ANÁLISE DE DIREITO LOCAL POR ESTA CORTE SUPERIOR. NÃO-CABIMENTO. APLICAÇÃO ANALÓGICA DA SÚMULA N. 280 DO STF. ALÍNEA "C" DO PERMISSIVO CONSTITUCIONAL. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não é possível que o STJ analise eventual violação de dispositivos contidos na Constituição Federal de 1988. Com efeito, essa tarefa é constitucionalmente definida pela CF/1988 para o Supremo Tribunal Federal.
+ ..
+4. Agravo interno não provido.
+(AgInt no AREsp 1182482/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 13/03/2018, DJe 19/03/2018)
+Consoante se extrai dos autos, o Tribunal de Justiça firmou a desnecessidade de produção de provas, inclusive a pericial, para verificar a necessidade ou indicação do procedimento cirúrgico buscado pela parte recorrida, a qual seria beneficiária do plano de saúde. No ponto, o acórdão também demonstrou que o acervo probatório colacionado aos autos era suficiente para o julgamento antecipado da lide.
+Portanto, não há como conhecer do recurso, pois o julgado foi construído com base em fatos, provas e termos contratuais, o que atrai aplicação das Súmulas 5 e 7/STJ por ambas as alíneas do permissivo constitucional.
+Veja-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONTRATO ADMINISTRATIVO. RESCISÃO CONTRATUAL. VIOLAÇÃO DO ART. 535 DO CPC NÃO CARACTERIZADA. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. SISTEMA DA PERSUASÃO RACIONAL. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO E DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7 DO STJ.
+ ..
+3. O STJ tem entendimento firmado no sentido de que não há cerceamento de defesa quando o julgador considera desnecessária a produção de prova ou suficientes as já produzidas, mediante a existência nos autos de elementos bastantes para a formação de seu convencimento. 4. Sabe-se que no sistema da livre persuasão racional, o juiz é o destinatário final da prova, cabendo-lhe decidir quais elementos são necessários para o julgamento, ante sua discricionariedade de indeferir pedido de produção de provas ou desconsiderar provas inúteis, consoante o teor dos artigos 130 e 131 do CPC/73. 5. Hipótese em que o acórdão recorrido concluiu que as provas documentais carreadas aos autos eram suficientes para o deslinde da controvérsia. Logo, não há falar em cerceamento de defesa pelo julgamento antecipado da lide. 6. A reversão do entendimento firmado ensejaria, necessariamente, o reexame dos aspectos concretos da causa e das cláusulas do contrato administrativo firmado entre as partes, o que é vedado, no âmbito do Recurso Especial, de modo que atrai a incidência das Súmulas 5 e 7/STJ.
+7. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1666263/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/06/2017, DJe 19/06/2017)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
