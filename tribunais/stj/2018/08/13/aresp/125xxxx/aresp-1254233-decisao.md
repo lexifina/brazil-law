@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo manejado por BV Leasing Arrendamento Mercantil S/A contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 3.610):
+APELAÇÃO - Ação declaratória - Responsabilidade de empresa de arrendamento mercantil por multas de trânsito e despesas com remoção e estadia decorrentes de infrações praticadas pelos arrendatários dos veículos - Sentença de improcedência - Recurso que apresenta razões dissociadas do que foi decidido na r. sentença - Violação do requisito previsto no art. 514, II, do Código de Processo Civil - Precedentes do Col. STJ e deste Eg. Tribunal -Não conhecimento da apelação.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC/73.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 489, § 1º, IV, 1.013, § 1º, e 1.022 do CPC/2015 (antigos 515, §§ 1º e 2º, e 535, I e II, do CPC/73). Sustenta que: (I) a apelação, ao contrário do que foi aventado pela Corte de origem, abordou questões de mérito que se relacionavam com a sentença recorrida; (II) o Tribunal de origem foi omisso quanto aos argumentos relativos ao efeito devolutivo da apelação.
+É o relatório.
+Verifica-se não ter ocorrido ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Afasta-se, assim, a alegada omissão ou negativa de prestação jurisdicional tão somente pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte. A propósito, confira-se o AgRg no REsp 1.386.843/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 24/2/2014 e o REsp 804.921/AL, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJ 28/5/2007.
+Quanto ao mérito da discussão, a Corte de origem assim se manifestou (fl. 3.616):
+Não há dúvida, portanto, que o apelo não merece ser conhecido por ausência de requisito indispensável, qual seja, a exposição dos fundamentos pelos quais pretende a reforma da sentença.
+Em suma, é inevitável concluir que foram apresentadas razões de apelação completamente dissociadas do conteúdo da r. sentença recorrida.
+Ainda no julgamento dos aclaratórios, a Corte de origem complementa (3.645):
+Ressalte-se que o efeito devolutivo da apelação também não socorre a apelante, pois a amplitude desse efeito não dispensa a observância do princípio da congruência recursal.
+Ademais, não se pode esperar que os julgadores tentem extrair do recurso alguma parte que possa ser aproveitada como contrariedade à sentença; o recorrente é quem deve manifestar seu inconformismo de maneira clara, a atacar de forma específica os fundamentos da sentença recorrida, sob pena de não ser possível o conhecimento do recurso.
+Nesse contexto, a alteração das conclusões adotadas pela Corte de origem acerca do não cumprimento dos requisitos da apelação, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo.
+Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC/2015).
+Publique-se.
