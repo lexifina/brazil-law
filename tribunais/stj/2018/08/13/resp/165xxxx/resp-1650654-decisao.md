@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdãos assim ementados:
+ADMINISTRATIVO. SISTEMA FINANCEIRO HABITACIONAL. SFH. ATRASO DE OBRA. JUROS DE OBRA. LEGIMITIDADE DA CEF. DANO MATERIAL. DANO MORAL.
+1. A questão da legitimidade passiva da CEF, na condição de agente financeiro, em ação de indenização por atraso de construção, merece distinção, a depender do tipo de financiamento e das obrigações a seu cargo, podendo ser distinguidos, a grosso modo, dois gêneros de atuação no âmbito do Sistema Financeiro da Habitação, isso a par de sua ação como agente financeiro em mútuos concedidos fora do SFH (1) meramente como agente financeiro em sentido estrito, assim como as demais instituições financeiras públicas e privadas (2) ou como agente executor de políticas federais para a promoção de moradia para pessoas de baixa ou baixíssima renda.
+2. É dever do agente financeiro fiscalizar o andamento das obras, zelando pela observância dos prazos previamente fixados, não apenas porque dessa medida depende a liberação dos recursos financeiros para que o empreendimento seja concluído, como também porque o atraso eventual pode resultar em responsabilização da própria Caixa Econômica Federal.
+3. Evidenciado o descumprimento contratual decorrente do atraso injustificado na entrega da obra, impõe-se o dever de indenizar os prejuízos comprovadamente suportados.
+4. A cobrança dos juros de pré-amortização (juros de obra) após o término do prazo para a entrega da obra onera indevidamente os mutuários, que não tiveram qualquer responsabilidade pela demora na construção do imóvel ou por eventuais complicações inerentes à conclusão do empreendimento.
+5. É assente na jurisprudência que o dano moral decorrente do abalo gerado pela impossibilidade de usufruir de imóvel adquirido é conhecido pela experiência comum e considerado in re ipsa, isto é, não se faz necessária a prova do prejuízo, que é presumido e decorre do próprio fato (fl. 426).
+EMBARGOS DECLARATÓRIOS. PREQUESTIONAMENTO. OMISSÃO.
+LUCROS CESSANTES.
+1. Não há de se falar em lucros cessantes na hipótese, considerando que os autores nada deixaram de lucrar com o atraso ocorrido, uma vez que o imóvel era destinado a fins de moradia e não para fins comerciais..
+2. O prequestionamento não resulta da circunstância de a matéria haver sido arguida pela parte recorrente, mas sim dos debates e decisões do Colegiado, emitindo juízo sobre o tema, fundado em razões bastantes a este desiderato (fl. 464).
+O recorrente aponta, além de dissídio jurisprudencial, ofensa aos arts. 402 do CC e 47 e 52, § 1º, do CDC, pleiteando, em síntese, a condenação da parte recorrida ao pagamento de indenização a título de lucros cessantes pela não fruição do imóvel, bem como de multa por inadimplemento contratual.
+É o relatório.
+Passo a decidir.
+A jurisprudência do Superior Tribunal de Justiça se orienta no sentido de considerar que a inexecução do contrato de compra e venda, consubstanciada na ausência de entrega do imóvel na data acordada, acarreta o pagamento de indenização por lucros cessantes, sendo presumido o prejuízo do promitente comprador. A propósito:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. LUCROS CESSANTES. PREJUÍZO PRESUMIDO.
+1. Nos termos da jurisprudência do STJ, o atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador.
+2. A citação é o marco inicial para a incidência dos juros de mora, no caso de responsabilidade contratual. Precedentes.
+3. Embargos de divergência acolhidos (EREsp 1341138/SP, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, DJe, 22.5.2018).
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. LUCROS CESSANTES. PREJUÍZO PRESUMIDO. NÃO PROVIMENTO.
+1. Nos termos da jurisprudência do STJ, o atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador.
+2. Agravo interno a que se nega provimento (AgInt no AREsp 301.607/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 15/09/2016)
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CONDENATÓRIA. DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE RÉ.
+1. Alterar as premissas adotadas pelo decisum atacado, no tocante à responsabilidade civil da recorrente pelo atraso na entrega do imóvel, demanda a interpretação das cláusulas contratuais e a rediscussão da matéria fático-probatória, providências inviáveis em sede de recurso especial, ante o disposto nas Súmulas 5 e 7 desta Corte.
+2. Na hipótese, o Tribunal local seguiu orientação desta Corte no sentido de que o atraso na entrega do imóvel enseja o pagamento de indenização por lucros cessantes durante o período de mora, sendo presumido o prejuízo do promitente comprador. Incidência da Súmula 83 do STJ.
+3. Incide o óbice da Súmula 284/STF na hipótese em que a parte recorrente deixa de apontar os dispositivos de lei federal tidos por violados ou objeto de interpretação divergente, bem como de informar de que modo a legislação federal foi violada ou teve negada sua aplicação.
+4. Agravo interno desprovido (AgInt no AREsp 1162773/AM, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe, 29.6.2018).
+RECURSO INCAPAZ DE ALTERAR O JULGADO. LUCROS CESSANTES. ATRASO NA ENTREGA DE IMÓVEL. PRESUNÇÃO DE PREJUÍZO. PRECEDENTES.
+1. Esta Corte Superior já firmou entendimento de que, descumprido o prazo para entrega do imóvel objeto do compromisso de compra e venda, é cabível a condenação por lucros cessantes, havendo presunção de prejuízo do promitente-comprador.
+2. Agravo regimental não provido (AgRg no Ag 1319473/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe, 2.12.2013)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA 282/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. ATRASO NA ENTREGA DA OBRA. LUCROS CESSANTES. CABIMENTO. DECISÃO MANTIDA.
+1. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento (Súmula 282/STF).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula 7 do STJ).
+3. No caso concreto, o Tribunal de origem concluiu pela ausência de caso fortuito ou força maior a justificar o atraso na entrega da obra. Alterar esse entendimento demandaria reexame das provas produzidas nos autos, vedado em recurso especial.
+4. De acordo com a jurisprudência desta Corte, o atraso na entrega de imóvel enseja pagamento de lucros cessantes, sendo presumível o prejuízo experimentado pelo promitente comprador. Precedentes.
+5. Agravo interno a que se nega provimento (AgInt no AREsp 1189236/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe, 27.3.2018).
+No tocante à multa pelo inadimplemento contratual, o conteúdo normativo dos dispositivos legais mencionados pelo recorrente não foi discutido no acórdão recorrido, carecendo, portanto, do indispensável prequestionamento, (Súmula 282/STF).
+Além disso, quanto ao dissídio jurisprudencial, não foram atendidos os requisitos previstos nos arts. 541, parágrafo único, do CPC e 255, § 2º, do RISTJ.
+Para a caracterização da aludida divergência, não basta a simples transcrição de ementas. Devem ser mencionadas e expostas as circunstâncias que identificam ou assemelham os casos confrontados. É imprescindível que exista similitude fático-jurídica entre os julgados em comparação. Por sua vez, a aludida similitude exige que o acórdão recorrido e o paradigma possuam situação fáticas semelhantes e tenham sido julgados com fundamento nos mesmos dispositivos legais de lei federal. O recorrente deve apontar o artigo de lei federal em torno do qual teria se dado a divergência jurisprudencial (AgRg no AREsp 467.621/SC; AgRg no REsp 1.346.588/DF).
+Ante o exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou parcial provimento ao recurso especial para condenar a parte recorrida ao pagamento de lucros cessantes ao recorrente, a serem definidos em liquidação de sentença.
+Publique-se.
