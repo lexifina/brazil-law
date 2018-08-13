@@ -1,0 +1,32 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. RAZÕES DO AGRAVO QUE NÃO INFIRMAM OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC.
+1. Não merece conhecimento o agravo interno que não impugna especificamente os fundamentos da decisão agravada.
+2. O recurso mostra-se manifestamente inadmissível, a ensejar a aplicação da multa prevista no artigo 1.021, § 4º, do CPC, no percentual de 1% (um) por cento sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º, do citado artigo de lei.
+3. Agravo interno não conhecido, com aplicação de multa.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, não conhecer do agravo, com imposição de multa, nos termos do voto da Sra Ministra Relatora. Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+O EXMO. SR. MINISTRO NANCY ANDRIGHI:
+Cuida-se de agravo interno interposto ROMÁRIO DE SOUZA FARIA, contra decisão unipessoal de fls. 435/436 (e-STJ).
+Ação: indenizatória ajuizada pelo agravante, em face de CARLOS [NOME], no qual requer o pagamento de indenização em razão de conduta ilícita do recorrente que violou claramente os direitos de personalidade do recorrido.
+Sentença: julgou improcedente o pedido formulado pelo recorrente em sua petição inicial, entendendo que o simples fato de ter havido representação e ajuizamento de queixa-crime contra o autor não seria suficiente para amparar o pleito indenizatório, encontrando-se ausentes os requisitos para conhecimento do ato ilícito.
+Acórdão: julgou os recursos interpostos pelas partes, nos termos da seguinte ementa:
+DIREITO CONSTITUCIONAL E DIREITO CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS PROPOSTA POR PARLAMENTAR QUE FOI ALVO DE PROCEDIMENTO ADMINISTRATIVO E JUDICIAL PARA AVERIGUAR SUPOSTA PRÁTICA DE QUEBRA DE DECORO PARLAMENTAR E PRÁTICA DE CRIME. INDENIZAÇÃO INDEVIDA. DIREITOS CONSTITUCIONAIS QUE GARANTEM A QUALQUER CIDADÃO A POSSIBILIDADE DE MOVIMENTAR A MAQUINA ESTATAL PARA APURAÇÃO DE EVENTUAL ABUSO DE PODER OU ILICITUDE. EXERCÍCIO REGULAR DO DIREITO. PEDIDO DE MAJORAÇÃO DE HONORÁRIOS SUCUMBENCIAIS EM CONTRARRAZÕES. IMPOSSIBILIDADE. SENTENÇA MANTIDA.
+1. A Constituição Federal de 1988, por meio do direito de petição e do princípio da inafastabilidade da jurisdição, garante a todo cidadão a possibilidade de buscar perante o Poder Público o esclarecimento, informação ou averiguação de eventual situação de ilegalidade, abuso de poder e lesão ou ameaça ao seu direito.
+2. 0 simples fato de ter havido representação e ajuizamento de queixa-crime em desfavor do autor, que é parlamentar, de modo a ser apurada eventual conduta de abuso de direito ou ilegalidade, não é suficiente para respaldar o pleito indenizatório, uma vez que parte adversa agiu com base no exercício regular do seu direito.
+3. 0 fato de o autor estar acobertado pelo manto da. imunidade parlamentar não o torna parte ilegítima para figurar no polo passivo de alguma demanda que venha a discutir eventual abuso de poder ou prática de ato ilícito. Entender de forma diversa implica em grave afronta às garantias constitucionais.
+4. Como é cediço, as contrarrazões ao recurso de apelação não se revela a via adequada para buscar a majoração dos honorários de sucumbência fixados na sentença, de modo que qualquer insurgência nesse aspecto deve ser realizada mediante recurso próprio, conforme estabelecido na legislação processual civil.
+5. Recurso do autor desprovido (e-STJ fls. 290/291).
+Decisão agravada: não conheceu do agravo em recurso especial interposto pelo ora agravante, aplicando a Súmula 182/STJ, uma vez que o recorrente não teria impugnado o fundamento relativo à incidência da Súmula 7/STJ (em relação à inocorrência dos danos morais) e à ausência de cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+Agravo interno: o agravante, em suas razões recursais, alega que o acórdão a quo diverge de julgados desta Corte e que, na presente hipótese, não se pretende o reexame de fatos e provas, uma vez que foram acostados aos autos documentos necessários para a comprovação, assim como efetivado o confronto de todos os artigos, os quais devidamente prequestionados, necessários e hábeis a comprovar que o Agravado violou os artigos 186, 187 e 927 do Código Civil (e-STJ fl. 447).
+Na oportunidade, discorre acerca do cabimento da indenização por danos morais e pugna, por fim, pela reforma da decisão e pelo conhecimento do presente agravo.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NANCY ANDRIGHI(RELATOR):
+O agravo interno não merece acolhida, porquanto os argumentos deduzidos nas razões recursais pelo agravante são incapazes de alterar o julgado.
+Conforme anteriormente relatado, a decisão não conheceu do agravo em recurso especial, aplicando a Súmula 182/STJ, haja vista que o recorrente não teria impugnado o fundamento relativo à incidência da Súmula 7/STJ (em relação à inocorrência dos danos morais) e à ausência de cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+Da leitura do agravo em recurso especial, observa-se que, de fato, o agravante não impugnou de maneira consistente os óbices utilizados na decisão denegatória do apelo nobre, limitando-se a reprisar os fundamentos utilizados na petição do recurso excepcional.
+No presente agravo interno, nota-se também que o agravante não tece quaisquer considerações acerca do óbice aplicado na decisão ora hostilizada, qual seja, a incidência da Súmula 182/STJ, limitando-se a defender a inaplicabilidade da Súmula 7/STJ e a reproduzir a questão de mérito.
+Desse modo, deixando o agravante de impugnar o fundamento da decisão agravada, aplicável o óbice sumular 182/STJ.
+Do exposto, tem-se como manifestamente inadmissível o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, como determina o art. 1.021, § 1º, do CPC/15, razão pela qual, na hipótese de ser assim declarado à unanimidade, fixo multa de 1% (um) por cento sobre o valor atualizado da causa, com fulcro no § 4º do art. 1.021 do CPC/15.
+Forte nessas razões, NÃO CONHEÇO do presente agravo interno.
