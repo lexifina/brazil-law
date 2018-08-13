@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJRS assim ementado (e-STJ fls. 226/227):
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. TELEFONIA. BRASIL TELECOM. oferta pública aceita.
+OBJETO DO LITÍGIO. Conforme Formulário de Aceitação de Oferta Pública de fls. 81, é objeto do litígio o Contrato de Participação Financeira nº 94193922 assinado em 26/12/1996 pela autora [NOME] no valor de R$ 1.117,63.
+PRESCRIÇÃO. INOCORRÊNCIA. A prescrição da pretensão de restituição de valor em face de oferta pública aceita reger-se-á pelos artigos 177 do Código Civil de 1916 ou 205 do Código Civil de 2002, que estabelecem, respectivamente, os prazos de vinte e dez anos. O termo inicial do prazo prescricional, no caso de oferta pública aceita, é a data em que deveria ter ocorrido o pagamento, conforme edital de oferta pública, ou seja, dia 26/01/1998 - Edital de fl. 122. Na data da entrada em vigor do Novo Código Civil, em janeiro de 2003, ainda não havia decorrido mais da metade do prazo prescricional, com o que o prazo a ser aplicado seria o do novo código, de 10 anos. No caso dos autos, a ação foi ajuizada em 25/07/2013, ou seja, após o transcurso do prazo decenal a contar da vigência do novo Código Civil. No entanto, ocorreu a interrupção da prescrição em virtude do ajuizamento de ação cautelar exibitória pelo autor em 24/09/2010 (processo nº. 001/1.10.0253629-5 - fl. 19). Assim, tendo a presente ação sido ajuizada em 25/07/2013, não se operou a prescrição. Afastada a prescrição.
+JULGAMENTO DE TODAS AS QUESTÕES SUSCITADAS E DISCUTIDAS NO PROCESSO. Estando a causa em condições de julgamento, como na hipótese, o juízo ad quem pode analisar todas as questões suscitadas e discutidas no processo mesmo que não tenham sido apreciadas no juízo de origem, tudo de acordo com o previsto nos §§ 1º, 2º, 3º, 4º e 5º do art. 1.013 do CPC.
+OFERTA PÚBLICA ACEITA. RESTITUIÇÃO DO VALOR INVESTIDO EM RAZÃO DO NÃO PAGAMENTO PELA BRASIL TELECOM. No caso concreto, a autora apresentou nos autos prova da aceitação da oferta pública. Entretanto, restou comprovada a ausência de restituição do valor investido pela autora, através da juntada dos documentos de fls. 26 e 111, nos quais não consta o depósito no valor de R$ 1.323,93, que a ré se comprometera a devolver. Procedente, então, o pedido de restituição.
+JUROS DE MORA. O devedor responde pelos juros de acordo com o artigo 397 do Código Civil. No caso em tela, o termo inicial é a data de vencimento constante do edital de oferta pública.
+CORREÇÃO MONETÁRIA. TERMO INICIAL O valor investido pela parte autora deverá ser corrigido monetariamente pelo IGP-M desde o desembolso.
+REDIMENSIONAMENTO DA SUCUMBÊNCIA. HONORÁRIOS ADVOCATÍCIOS. O resultado ora poroferido justifica o redimensionamento da verba honorária.
+HONORÁRIOS RECURSAIS. Tendo em vista o manejo de recurso e o resultado nele alcançado, impõe-se a majoração da verba anteriormente fixada.
+APELAÇÃO PROVIDA. (grifos no original.)
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 255/265).
+Nas razões do recurso especial (e-STJ fls. 269/282), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alega violação dos arts. 240 e 1.022, II, do CPC/2015 (arts. 219 e 535, II, do CPC/1973) e 405 do CC/2002.
+Sustenta: (a) negativa de prestação jurisdicional e (b) incidência dos juros de mora a partir da citação.
+As contrarrazões foram apresentadas (e-STJ fls. 294/302).
+Juízo positivo de admissibilidade (e-STJ fls. 304/311).
+É o relatório.
+Decido.
+O recurso merece provimento.
+Não há falar em contrariedade ao art. 1.022 do CPC/2015 (art. 535 do CPC/1973), pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos. Ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação do referido dispositivo e o conhecimento do recurso especial nessa parte.
+O Tribunal a quo deu provimento à apelação da ora recorrida determinando a incidência dos juros de mora a partir da data de vencimento constante do edital de oferta pública, conforme o seguinte excerto (e-STJ fl. 239):
+Destarte, o devedor responde pelos juros de acordo com o artigo 395 do Código Civil, sendo, no caso em tela, o termo inicial a data de vencimento estabelecida no edital de oferta pública.
+Inclusive, deveria ter sido determinada a incidência dos juros de mora a partir da data de vencimento estabelecida no edital de oferta pública, que foi 26.01.1998, data em que, segundo o Edital, deveria ter sido feito o pagamento.
+Assim, os juros de mora devem incidir a partir do vencimento estabelecido no edital de oferta pública (26.01.1998). (grifos no original.)
+Todavia, esta Corte possui entendimento firmado de que, "Tratando-se de responsabilidade por obrigação contratual de entrega de ações que resultou impossível, mesmo nos casos de discussão a respeito do cumprimento ou não da oferta pública, tenha ela sido aceita ou recusada, a jurisprudência do STJ orienta-se no sentido da fluência dos juros de mora a partir da citação, nos termos estabelecidos pelo leading case da 2ª Seção, o REsp 1.025.298/RS, relator o Ministro Massami Uyeda, DJe 11.2.2011" (AgRg nos EDcl no AREsp n. 409.444/RS, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 9/9/2014, DJe 18/9/2014).
+No mesmo sentido:
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC/1973) - SUBSCRIÇÃO DE AÇÕES - BRASIL TELECOM - OFERTA PÚBLICA ACEITA - TERMO INICIAL DOS JUROS DE MORA - CITAÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO. INSURGÊNCIA DA DEMANDANTE.
+1. "Tratando-se de responsabilidade por obrigação contratual de entrega de ações que resultou impossível, mesmo nos casos de discussão a respeito do cumprimento ou não da oferta pública, tenha ela sido aceita ou recusada, a jurisprudência do STJ orienta-se no sentido da fluência dos juros de mora a partir da citação, nos termos estabelecidos pelo leading case da 2ª Seção, o REsp 1.025.298/RS, relator o Ministro Massami Uyeda, DJe 11.2.2011." (AgRg nos EDcl no AREsp 409.444/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 09/09/2014, DJe 18/09/2014).
+2. Agravo regimental desprovido.
+(AgRg no AREsp n. 114.774/RS, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/10/2016, DJe 28/10/2016.)
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. BRASIL TELECOM. SUBSCRIÇÃO DE AÇÕES. IMPOSSIBILIDADE. OFERTA PÚBLICA. ACEITAÇÃO. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. ENTENDIMENTO ADOTADO NESTA CORTE. VERBETE 83 DA SÚMULA DO STJ.
+1. "Tratando-se de responsabilidade por obrigação contratual de entrega de ações que resultou impossível, mesmo nos casos de discussão a respeito do cumprimento ou não da oferta pública, tenha ela sido aceita ou recusada, a jurisprudência do STJ orienta-se no sentido da fluência dos juros de mora a partir da citação, nos termos estabelecidos pelo leading case da 2ª Seção, o REsp 1.025.298/RS, relator o Ministro Massami Uyeda, DJe 11.2.2011." (AgRg nos EDcl no AREsp 409.444/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 09/09/2014, DJe 18/09/2014).
+2. Embargos de declaração recebidos como agravo regimental a que se nega provimento.
+(EDcl no AREsp n. 330.621/RS, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/4/2015, DJe 27/4/2015.)
+Desta forma, o acórdão recorrido não está em harmonia com a jurisprudência desta Corte, merecendo reforma quanto ao ponto.
+Ante o exposto, DOU PROVIMENTO ao recurso especial para determinar que os juros de mora incidam a partir da citação.
+Configurada a sucumbência recíproca (art. 86 do CPC/2015), as custas e o valor total dos honorários advocatícios, conforme fixado na origem, deverão ser suportados na proporção do decaimento das partes, apurando-se os respectivos valores em liquidação.
+Deferido o benefício da gratuidade da justiça, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
