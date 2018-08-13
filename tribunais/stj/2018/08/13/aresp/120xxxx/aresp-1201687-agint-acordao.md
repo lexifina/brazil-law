@@ -1,0 +1,55 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR PERDAS E DANOS. RESCISÃO CONTRATUAL. ANÁLISE DO MÉRITO DO APELO EXTREMO POR PARTE DO TRIBUNAL DE ORIGEM. USURPAÇÃO DE COMPETÊNCIA. NÃO OCORRÊNCIA. INCIDÊNCIA DA SÚMULA 123/STJ. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA CONFIGURADO. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou caracterizada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. A revisão das conclusões estaduais - acerca da configuração do cerceamento de defesa - demandaria, necessariamente, o revolvimento do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice disposto na Súmula 7/STJ.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Cuida-se de agravo interno interposto por LAVANDERIA ECOLÓGICA LTDA. contra a decisão de fls. 506-510 (e-STJ), da lavra deste signatário, que conheceu do agravo e negou provimento ao recurso especial da ora agravante.
+O aludido apelo extremo foi deduzido com base no art. 105, III, a, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado (fl. 344, e-STJ):
+APELAÇÃO CÍVEL E RECURSO ADESIVO. AÇÃO DE INDENIZAÇÃO POR PERDAS E DANOS. SENTENÇA DE PARCIAL PROCEDÊNCIA. RECURSO DE AMBAS AS PARTES.
+PRELIMINAR. CERCEAMENTO DE DEFESA.
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE LAVANDERIA. PRETENSÃO INDENIZATÓRIA ENRAIZADA NO DESCUMPRIMENTO DE AVISO PRÉVIO CONTRATUAL PARA RESCISÃO. TESE DEFENSIVA AMPARADA NO DESCUMPRIMENTO DAS OBRIGAÇÕES ASSUMIDAS PELA AUTORA. JULGAMENTO ANTECIPADO DA LIDE. SENTENÇA QUE AFASTOU A JUSTA CAUSA CAPAZ DE SUSTENTAR A RESILIÇÃO PELA INSUFICIÊNCIA DE PROVAS. EMPRESA RÉ QUE PROPUGNOU PELA REALIZAÇÃO DE PROVA TESTEMUNHAL. FASE INSTRUTÓRIA NÃO INSTAURADA PELO JULGAMENTO PREMATURO. QUESTÕES DE FATO QUE EXIGEM O ESGOTAMENTO DOS MEIOS DE PROVA ADMITIDAS. VIOLAÇÃO AOS PRINCÍPIOS CONSTITUCIONAIS DO CONTRADITÓRIO E AMPLA z DEFESA. CERCEAMENTO DE DEFESA EVIDENTE.
+SENTENÇA NULA. RECURSO PROVIDO.
+O julgamento antecipado da lide cerceia o direito de defesa da parte quando a justa causa pela resilição da avença contratual repousa em circunstância de fato passível de ser comprovada pela prova testemunhal.
+Recurso provido.
+Os embargos de declaração opostos foram desacolhidos (fls. 364-372, e-STJ).
+Nas razões do recurso especial (fls. 375-394, e-STJ), a recorrente alegou que o acórdão impugnado incorreu em violação dos seguintes normativos:
+a) arts. 489 e 1.022 do CPC/2015; e
+b) arts. 330, 401 e 402 do CPC/1973.
+Sustentou, em suma: (i) negativa de prestação jurisdicional ante a omissão do Colegiado estadual em analisar questões relevantes para o deslinde da controvérsia, bem como ausência de fundamentação da decisão impugnada; e (ii) não configurado o alegado cerceamento de defesa, ante a impossibilidade de utilização apenas de prova testemunhal, tendo em vista que o valor do contrato objeto da presente demanda ultrapassa 10 (dez) salários mínimos; assim como que o indício de prova impõe que ela seja escrita e produzida pela parte contrária, o que não ocorreu no caso em apreço, devendo a lide ser julgada no estado em que se encontrava.
+Em razão do juízo prévio negativo de admissibilidade, a recorrente interpôs agravo (art. 1.042 do CPC/1973), do qual se conheceu para negar provimento ao recurso especial, pelos seguintes fundamentos: a) ausência de violação dos arts. 489 e 1.022 do CPC/2015, porquanto as questões trazidas pela recorrente foram analisadas e a decisão encontra-se fundamentada; e b) aplicação da Súmula 7/STJ para revisão das conclusões estaduais.
+No presente agravo interno (fls. 514-532, e-STJ), a recorrente pugna pela inaplicabilidade dos óbices apontados para o desprovimento do reclamo, ao tempo que repisa os termos já expendidos no apelo extremo.
+Ao final, requer a reconsideração da decisão agravada ou a apreciação do agravo interno pelo Colegiado.
+Impugnação às fls. 1.031-1.034 (e-STJ).
+É o relatório.
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão.
+Com efeito, conforme asseverado na decisão agravada, verifica-se que a apontada afronta aos arts. 489 e 1.022 do CPC/2015 não ficou caracterizada, uma vez que a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Dessa forma, registro que, apesar de rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+A propósito:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. AÇÃO REGRESSIVA. ACIDENTE DE TRÂNSITO. SUFICIÊNCIA PROBATÓRIA DAS DESPESAS. VIOLAÇÃO DOS ARTS. 131, 165, 458 E 535 DO CPC. NÃO OCORRÊNCIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Não subsiste a alegada ofensa aos artigos 131, 165, 458 e 535 do CPC, pois o tribunal de origem enfrentou as questões postas, não havendo no aresto recorrido omissão, contradição ou obscuridade.
+ ..
+3. Agravo regimental não provido. (AgRg nos EDcl no REsp n. 1.155.359/RS, Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/4/2014, DJe 2/5/2014).
+No caso em análise, o Tribunal de origem, ao dirimir a controvérsia, considerou ter havido o cerceamento de defesa da recorrida ante o indeferimento da produção de prova pleiteada, anulou a sentença e deferiu o pedido, nos seguintes termos (fls. 350-352, e-STJ):
+(..)
+Conquanto tenha admitido o julgamento do processo no estado em que se encontrava, a douta magistrada singular, ao apreciar a justa causa invocada na tese de defesa, circunstância apta a ensejar a resilição da avença, afirmou que o conjunto probatório não se mostrou capaz de evidenciá-la, porque as fotos trazidas seriam insuficientes, vejamos:
+"Ressalvo ainda, que a justa causa, alegada pelo réu, apta a ensejar a ad resilição unilateral do contrato, não restou evidenciada nos autos, haja vista que Q as fotos colacionadas (fls. 136/155), não constituem prova capaz de desconstituir a presunção de cumprimento contratual adequado pelas partes." (fl. 184).
+Diferentemente da tese jurídica encartada na sentença guerreada, a celeuma em debate alcançou situação de fato que excedeu a simples análise jurídica da relação contratual subscrita pelas partes, mormente que a alegação de justa causa capaz de permitir a resilição do ajuste de vontades restou encartada no descumprimento de obrigações assumidas pela autora/apelada/recorrente. Situações essas que transcendem uma análise jurídica do caso, eis que adentraram no desenvolvimento dos fatos.
+Desta forma, a prova oral pretendida pela empresa ré/apelante/recorrida não poderia ter sido ceifada, a partir da aplicação do instituto jurídico do julgamento antecipado da lide, muito menos com a aplicação ó m do inciso I do art. 330 do CPC/73, eis que as argumentações a serem submetidas à prova envolvem situações de fato e, como tal, podem ser corroboradas por todos os meios de prova em direito admitidas.
+Convém registrar que a comprovação da situação de fato que motivou a alegação de justa causa para a resilição do contrato não está submetida ao regramento encartado no art. 401 do CPC/73, eis que as fotografias de fls. 136/155 e as notas fiscais de fls. 156/157 são indícios de prova (art. 402, I, CPC/73).
+Então, porque a justa causa reportada na peça de defesa está baseada em situações de fato, quais permitem a dilação probatória em audiência - produção da prova oral, e porque a sentença, embora tenha adotado o julgamento antecipado da lide, entendeu que o acervo probatório (prova documental) não foi suficiente para corroborar o descumprimento do ajuste de vontades pela autora, resta evidente, neste condão, que o direito da empresa ré/apelante/recorrida a formação do conjunto probatório foi cerceado.
+In casu, embora o magistrado seja o destinatário da prova, faz-se incidir o dever, a partir do princípio do livre convencimento motivado (art. 131, CPC/73), de que, ao apreciar os argumentos de fato com as provas trazidas, estabeleça fundamentação jurídica apta que permita justificar seu livre convencimento. Circunstância não observada na sentença, eis que, deixou de dar amparo a justa causa invocada pela insuficiência de provas. Provas essas que não foram esgotadas, eis que suprimida a fase instrutória a partir do julgamento prematuro dos autos.
+(..)
+No caso em vogo, o cerceio do direito de defesa da empresa
+ré/apelante/recorrida está calcado na negativa, na impossibilidade de comprovação da tese perfectibilizada na defesa, violando, assim, os princípios constitucionais do contraditório e ampla defesa.
+Para preservar a integridade dos princípios constitucionais reportados, bem como tratar o processo com instrumento pela busca da verdade real, a sentença guerreada deve ser descontituída pelo evidente cerceamento de defesa, retornando aos autos a instância originária para a instauração da fase probatória (Sem grifos no original).
+Desse modo, a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame do acervo fático-probatório da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula 7/STJ.
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
