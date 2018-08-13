@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto por COMPANHIA MINUANO DE ALIMENTOS, em face de acórdão assim ementado (fl. 297):
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO MONITÓRIA.
+I. Os documentos trazidos aos autos comprovam a relação jurídico-material havida entre as partes.
+II. O conjunto probatório dá conta da anuência da embargada em relação ao valor certo e determinado fixado a título de honorários e evidencia que houve benefício à embargante com a prestação dos serviços contratados.
+III. Incidência, no caso, da violação aos princípios da "boa -fé objetiva" e do venire contra factum proprium, mormente porque não pode a parte contratante valer-se de comportamento contraditório (pedido de reconhecimento de nulidade do ajuste) para se ver afastada das obrigações livremente assumidas.
+IV. O fato de mandatários da parte embargante terem se mantido na negociação, ou mesmo à frente das demandas judiciais, não interfere no direito da parte embargada, sobretudo porque comprovada a prestação de serviços contratados.
+V. Sentença mantida.
+VI. Honorários de sucumbência majorados, por expressa previsão legal.
+NEGARAM PROVIMENTO AO RECURSO. UNÂNIME.
+Os embargos de declaração opostos na origem foram rejeitados (fls. 324/330).
+Nas razões do especial, a ora agravante alega violação dos arts. 45, 47 e 405 do Código Civil, bem como dissídio jurisprudencial. Argui estar "claro que ao firmar o contrato unicamente com um dos diretores, estaria este exercendo poderes superiores aos limites estabelecidos no ato constitutivo, o que por consequência, desobriga a pessoa jurídica a este ato" (fl. 343); e que os juros de mora contam-se a partir da citação.
+Ultrapassado o juízo de admissibilidade, passo a decidir.
+O Tribunal de origem, com base nos fatos e provas dos autos, mantendo a sentença, concluiu pela validade do contrato firmado entre as partes, assim se pronunciando (fls. 300/304):
+(..) colaciono ao meu voto os argumentos daquela motivação - no que couber - e, deste modo, utilizo-os como razões de decidir, até para evitar tautologia:
+Os documentos não deixam dúvida acerca da contratação, especialmente o Contrato de Prestação de Serviços Advocatícios de fl. 25, cuja alegada nulidade não se confirmou nos autos porque a prova testemunhal referiu que havia a possibilidade de contratos serem firmados por apenas um dos diretores da Companhia Minuano de Alimentos.
+Ademais, não há como desconsiderar que a referida contratação recebeu a vistoria do departamento jurídico (declaração de fl. 90), o qual deveria ter apontado qualquer falha no momento anterior à assinatura, o que não o fez. E, considerar, neste momento, a nulidade de contrato em face da ausência de assinatura de outros diretores permitiria a compreensão de atitude de má-fé no momento do visto, tendo em vista que houve a oportunidade de apontamento do suposto defeito.
+O contrato é regular e não há qualquer nulidade. Ademais, a parte autora demonstra ter recebido os cheques em pagamento (fls. 34/40), fator que corrobora a existência da contratação e os termos do pacto.
+No que tange à contratação e a efetiva prestação dos serviços, saliento que a prova testemunhal prestou-se para confirmar as alegações iniciais. Vejamos:
+(..)
+(..), tenho que o conjunto probatório revela que a recorrente restou beneficiada com os ajustes e que o pagamento só não foi honrado porque, mesmo com as renegociações, a empresa ora recorrente passava por dificuldades financeiras.
+Também por conta disso, incidente no caso dos autos o princípio do "venire contra factum proprium", ou seja, tendo a parte embargante obtido redução do valor original da dívida junto ao Banco do Brasil, por conta dos serviços prestados pela parte embargada, é incabível requeira agora a declaração de nulidade do ajuste para se ver liberta da obrigação de pagamento.
+Da mesma forma, incidente o "princípio da boa-fé objetiva", o qual deve presidir as relações negociais numa regra de conduta a ser observada pelas partes no cumprimento das suas obrigações.
+Assim, as obrigações assumidas contratualmente pelas partes não merecem qualquer reforma, assim como os seus efeitos.
+A análise das razões do recurso, a fim de demover o que concluído pela origem, demandaria inevitável reexame de matéria fática, procedimento que encontra óbice nos verbetes 5 e 7 da Súmula desta Corte.
+Acrescente-se que não foram devidamente impugnadas as razões expostas pela origem, acima transcritas, sendo inviável o provimento do especial, também, por aplicação da Súmula 283/STF.
+Por fim, em relação ao apontado dissídio jurisprudencial, ressalte-se que não se pode conhecer de recurso especial interposto com fundamento no art. 105, III, "c", da Constituição Federal, se não estiver comprovado nos moldes dos arts. 1029, § 1º, do Código de Processo Civil/2015; e 255, parágrafos 1º e 2º, do RISTJ. Vale destacar que as circunstâncias fáticas e as peculiaridades diferem em cada caso, o que inviabiliza, em regra, o recurso especial interposto pela divergência jurisprudencial, que se funda em premissa fático-probatória e, particularmente, no caso concreto em que os fatos e provas dos autos não se revelam análogos aos dos paradigmas.
+Em face do exposto, não havendo o que reformar, nos termos do art. 34, XVIII, "b", do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao agravo e fixo os honorários deste recurso, a serem suportados pela parte recorrente, em 10% (dez por cento) dos honorários advocatícios já arbitrados em favor da parte recorrida, ressaltando que não deve ser aplicada a medida aos casos em que ultrapassados os limites dos §§ 2º e 3º do art. 85 do Código de Processo Civil/2015, considerando-se suspensas as exigibilidades em caso de assistência judiciária gratuita.
+Intimem-se.
