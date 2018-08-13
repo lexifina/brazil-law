@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial manejado pela UNIVERSIDADE FEDERAL DO ESTADO DO RIO DE JANEIRO com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 76):
+AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. MANDADO DE SEGURANÇA. ACUMULAÇÃO DE CARGOS. ÁREA DE SAÚDE. POSSIBILIDADE. CONFIRMAÇÃO DE LIMINAR DEFERIDA EM SEDE RECURSAL.
+1. Agravo de instrumento contra a decisão que indeferiu a medida liminar para que o Reitor da Universidade Federal do Estado do Rio de Janeiro se abstivesse de exigir a exoneração da agravante do cargo público federal de auxiliar de enfermagem, no INTO.
+2. Prejudicado o julgamento do agravo interno interposto pelo agravando, contra a decisão que, no bojo deste recurso, deferiu a liminar para que a UNIRIO se abstivesse de exigir da agravante a sua exoneração no Ministério da Saúde/INTO. Isso porque a análise dos fundamentos do agravo interno restará superada com o julgamento do agravo de instrumento.
+3. Esta Corte Regional adota o entendimento segundo o qual a acumulação de cargos se condiciona à compatibilidade de horários, a ser aferida concretamente, razão pela qual, em cognição sumária, é possível vislumbrar a presença do /imitis boni iuris.
+4. Presente o periculum in mora, tendo em vista que a não apresentação da declaração de acumulação de cargos, no prazo de 15 dias, implicar eliminação do certame.
+5. Agravo interno prejudicado e agravo de instrumento provido para confirmar a liminar deferida.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1.022 do CPC./2015
+A parte recorrente aponta violação aos arts. 300 e 1.022, II do CPC/2015, 1º, § 3º da Lei nº 8.437/92, 118 da Lei nº 8.112/90, 4º, X e 40, § 1º, da LC nº 73/93. Sustenta, em síntese, negativa de prestação jurisdicional e a impossibilidade de concessão da tutela de urgência, eis que ausentes elementos que evidenciem a probabilidade do direito e à existência de perigo de dano ou risco ao resultado útil do processo, além de esgotar o objeto da ação originária.
+É o relatório.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, colhe-se do acórdão a seguinte fundamentação quanto à tutela de urgência (fl. 75):
+(..) a agravada interpôs agravo interno, alegando, resumidamente, que o servidor somente pode acumular cargo se houver compatibilidade de horário e desde que a jornada máxima não ultrapasse 60 horas semanais, sendo esse o entendimento do Tribunal de Contas da União.
+Preliminarmente, reconheço prejudicado o aludido agravo interno, tendo em vista que os seus fundamentos restarão superados com o julgamento deste agravo de instrumento.
+O fumus boni iuris compreende uma probabilidade - inerente a toda cognição sumária - quanto à procedência das alegações fáticas e jurídicas do demandante, não apenas no que diz respeito ao direito material em si, mas também ao próprio periculum in mora e à prevalência do interesse do demandante sobre o interesse público.
+Conforme acima salientado, a jurisprudência desta Corte Regional adota o entendimento segundo o qual a acumulação de cargos se condiciona à compatibilidade de horários, a ser aferida concretamente, razão pela qual, em cognição sumária, é possível vislumbrar a presença do fumus boni iuris.
+Por sua vez, a iminência do risco de dano irreparável é caracterizada em função do tempo - regular, mas insuficiente - para a conclusão do processo principal ou para a execução da decisão correspondente, buscando-se, em última análise, proteger o efeito prático da sentença na eventualidade de uma procedência do pleito judicial.
+No caso vertente, reconheço presente o periculum in mora, com base nos mesmos fundamentos já explicitados na decisão concessiva da liminar.
+Nesse contexto, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Ante o exposto, conheço em parte do recurso especial e, na parte conhecida, nego-lhe provimento.
+Publique-se.
