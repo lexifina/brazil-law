@@ -1,0 +1,97 @@
+EMENTA
+PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. PRISÃO CAUTELAR. REITERAÇÃO DELITIVA. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. RECURSO NÃO PROVIDO.
+1. Não é ilegal o encarceramento provisório que se funda em dados concretos a indicar a necessidade da medida cautelar para garantia da ordem pública, especialmente em elemento extraído da conduta perpetrada pelo acusado, qual seja, a reiteração delitiva, eis que registra outra ação penal em curso.
+2. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+3. Recurso a que se nega provimento.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça: A Sexta Turma, por unanimidade, negou provimento ao recurso ordinário, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Nefi Cordeiro e Antonio Saldanha Palheiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+Ministra MARIA THEREZA DE ASSIS MOURA (Relatora):
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME], apontando-se como autoridade coatora o Tribunal de Justiça do Estado de Alagoas (HC n.º 0805106-83.2017.8.02.0000).
+Consta dos autos que o ora recorrente foi preso em flagrante delito, no dia 24.10.2017, em razão da suposta prática dos crimes descritos no art. 33 da Lei n.º 11.343/06 e art. 16, parágrafo único, I, da Lei n.º 10.826/03.
+Em 25.10.2017, o magistrado de primeiro grau homologou a custódia flagrancial e a converteu em preventiva, no que interessa, nestes termos (fls.47/49):
+Trata-se de comunicação da prisão em flagrante de [NOME], pela prática, em tese, do delito previsto no artigo 33 da Lei 11.343/06 e artigo 12 do Estatuto do Desarmamento, supostamente ocorrido em 24/10/2017.
+O flagrante está formalmente em ordem. Deveras, a pessoa autuada foi presa em uma das situações previstas no artigo 302 do Código de Processo Penal, estando verificada, assim, a situação de flagrância. Logo após a captura, a pessoa presa foi apresentada à autoridade competente, que, por sua vez, ouviu o condutor, colhendo sua assinatura e entregando a este cópia do termo e recibo de entrega da pessoa presa. Em seguida, procedeu à oitiva das testemunhas que acompanharam o condutor, bem como ao interrogatório da pessoa conduzida sobre a imputação que lhe é feita, colhendo, após cada oitiva suas respectivas assinaturas. Oportunizou-se a comunicação à família da pessoa presa ou pessoa por ela indicada. Ao final, a autoridade lavrou o auto. Depois disso, foi entregue à pessoa presa, mediante recibo, a nota de culpa, assinada pela autoridade, com o motivo da prisão, o nome do condutor e o da testemunha. Desse modo, homologo o flagrante em seu aspecto formal.
+De outra banda, não se trata de hipótese de relaxamento de prisão por ilegalidade, prevista no artigo 310, I, do Código de Processo Penal. No entanto, o delito imputado à pessoa presa possui pena privativa de liberdade prevista em abstrato superior a quatro anos, o que permite a conversão da prisão em flagrante em prisão preventiva, com base no artigo 313, I, da mesma Lei.
+Nessa esteira, no caso vertente, além de haver prova do fato e indícios suficientes de autoria (fumus comissi delicti), se faz presente o periculum libertatis.
+Dito isso, a prisão preventiva se mostra necessária para a garantia da ordem pública.
+Por sua vez, o periculum libertatis reside na necessidade da prisão para garantia da ordem pública.
+..
+Nessa linha, em consulta ao sistema SAJ, verifico que o acusado já responde à ação criminal n.º 0800020-84.2016.8.02.0027, tendo, recentemente, apresentado resposta à acusação.
+Assim, existe uma presunção iuris tantum de que o autuado, se solto, voltará a delinquir, sendo necessária, por esse motivo, a manutenção de sua segregação cautelar.
+Quando à aplicação de medidas cautelares diversas da prisão, tenho que elas não são suficientes para o caso posto, já que nenhuma delas teria o condão de afastar o periculum libertatis, pelos motivos acima expostos.
+No mais, no processo acima mencionado (0800020-84.2016.8.02.0027), ficou determinado medidas cautelares diversas da prisão, as quais não foram suficientes, haja vista que o réu voltou, em tese, a delinquir, o que assevera, ainda mais, a necessidade de imposição da prisão preventiva.
+Por essa mesma razão, a prisão ainda se faz necessária para a garantia da futura aplicação da lei penal. Ora, se o autuado descumpriu medidas cautelares diversas da prisão, é provável que, em caso de condenação, deixe também de cumprir a pena, vez que já mostrou anteriormente o descaso com as decisões judiciais.
+Derradeiramente, em relação à fiança, está presente fundamento da prisão preventiva, o que impede a concessão da benesse, por força do artigo 324, IV, do Código de Processo Penal.
+ANTE O EXPOSTO, homologo o flagrante em seu aspecto formal e converto a prisão em flagrante de [NOME], com qualificação nos autos, em prisão preventiva, para a garantia da ordem pública e da futura aplicação da lei penal.
+Inconformada, a Defesa manejou prévio writ junto ao Tribunal de origem, sob alegação de falta de elementos para justificar a prisão e possibilidade de aplicar-se ao caso as medidas cautelares previstas no art. 319 do Código de Processo Penal.
+A ordem foi denegada, em acórdão assim sumariado (fl. 241):
+HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE DROGAS. ALEGAÇÃO DE FUNDAMENTAÇÃO GENÉRICA DO DECRETO SEGREGATÓRIO. EMBASAMENTO NAS CIRCUNSTÂNCIAS E GRAVIDADE CONCRETA DO DELITO. ILEGALIDADE NÃO EVIDENCIADA. PRESENÇA DOS REQUISITOS AUTORIZADORES DA PRISÃO PREVENTIVA. PACIENTE QUE RESPONDE A OUTROS PROCESSOS CRIMINAIS. REITERAÇÃO DELITIVA DEMONSTRADA.IN ADEQUAÇÃO DA SUBSTITUIÇÃO POR MEDIDAS ALTERNATIVAS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. MANUTENÇÃO DA SEGREGAÇÃO CAUTELAR. ORDEM CONHECIDA E DENEGADA.
+1. Apontadas os fatos concretos da ação delituosa, especialmente quando demonstrada a periculosidade do agente a partir do modus operandi do crime, não há falar em constrangimento ilegal.
+2. Presentes os indícios de materialidade autoria evidenciados nas declarações colhidas durante o inquérito policial, restam apontados os fatos concretos da ação delituosa que autorizaram a decretação da preventiva, não havendo que se falar em embasamento abstrato da decisão.
+3. As circunstâncias concretas do ilícito, assim como, a reiteração delitiva, possuem o condão de justificar a necessidade da custódia cautelar.
+4. Inviabilidade de substituição da prisão por medidas cautelares diversas, nos termos do art. 319 do Código de Processo Penal, quando estas não se mostram eficazes para resguardar a ordem pública, assegurar a instrução criminal, tampouco a aplicação da lei penal.
+5. Ordem conhecida e, no mérito, denegada.
+Daí o presente recurso, no qual reitera as alegações vertidas na origem, salientando que, no caso concreto, não está demonstrada a real indispensabilidade da medida para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, como preceitua o art. 312 do Código de Processo Penal.
+Assevera que a custódia preventiva não pode ser utilizada como instrumento de punição antecipada do réu e tampouco permite complementação de sua fundamentação pelas instâncias superiores.
+A esse respeito, afirma que o Tribunal de origem inovou ao apresentar sua motivação, eis que o decreto constritivo em nenhum momento analisou a situação fática e jurídica em tela.
+Sustenta que a simples invocação da gravidade genérica do delito não serve para justificar a medida, além de ressaltar que a quantidade de substância apreendida é pequena e tampouco ampara a prisão.
+Defende a aplicação das medidas previstas no art. 319 do Código de Processo Penal ao caso concreto.
+Requer, liminarmente e no mérito, a revogação da custódia provisória do agente. Subsidiariamente, pugna pela aplicação de medidas cautelares diversas da prisão.
+A liminar foi indeferida às fls. 284-287.
+O pedido de reconsideração de liminar foi indeferido às fls. 335-336.
+Foram juntadas informações às fls. 292-313 e 315-326.
+O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República [NOME], manifestou-se pelo desprovimento do recurso. (fls. 342-346).
+É o relatório.
+EMENTA
+PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. PRISÃO CAUTELAR. REITERAÇÃO DELITIVA. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. RECURSO NÃO PROVIDO.
+1. Não é ilegal o encarceramento provisório que se funda em dados concretos a indicar a necessidade da medida cautelar para garantia da ordem pública, especialmente em elemento extraído da conduta perpetrada pelo acusado, qual seja, a reiteração delitiva, eis que registra outra ação penal em curso.
+2. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+3. Recurso a que se nega provimento.
+
+VOTO
+Ministra MARIA THEREZA DE ASSIS MOURA (Relatora):
+A questão trazida a deslinde abarca o exame acerca da fundamentação empregada no encarceramento cautelar do recorrente.
+Conforme reiterada jurisprudência desta Corte Superior de Justiça, toda custódia imposta antes do trânsito em julgado de sentença penal condenatória exige concreta fundamentação, nos termos do disposto no art. 312 do Código de Processo Penal.
+In casu, a prisão em flagrante do recorrente foi convertida em preventiva dada a suposta prática dos crimes descritos no art. 33 da Lei n.º 11.343/06 e art. 16, parágrafo único, I, da Lei n.º 10.826/03, sob os seguintes fundamentos, no que interessa (fls.47/49):
+Trata-se de comunicação da prisão em flagrante de [NOME], pela prática, em tese, do delito previsto no artigo 33 da Lei 11.343/06 e artigo 12 do Estatuto do Desarmamento, supostamente ocorrido em 24/10/2017.
+O flagrante está formalmente em ordem. Deveras, a pessoa autuada foi presa em uma das situações previstas no artigo 302 do Código de Processo Penal, estando verificada, assim, a situação de flagrância. Logo após a captura, a pessoa presa foi apresentada à autoridade competente, que, por sua vez, ouviu o condutor, colhendo sua assinatura e entregando a este cópia do termo e recibo de entrega da pessoa presa. Em seguida, procedeu à oitiva das testemunhas que acompanharam o condutor, bem como ao interrogatório da pessoa conduzida sobre a imputação que lhe é feita, colhendo, após cada oitiva suas respectivas assinaturas. Oportunizou-se a comunicação à família da pessoa presa ou pessoa por ela indicada. Ao final, a autoridade lavrou o auto. Depois disso, foi entregue à pessoa presa, mediante recibo, a nota de culpa, assinada pela autoridade, com o motivo da prisão, o nome do condutor e o da testemunha. Desse modo, homologo o flagrante em seu aspecto formal.
+De outra banda, não se trata de hipótese de relaxamento de prisão por ilegalidade, prevista no artigo 310, I, do Código de Processo Penal. No entanto, o delito imputado à pessoa presa possui pena privativa de liberdade prevista em abstrato superior a quatro anos, o que permite a conversão da prisão em flagrante em prisão preventiva, com base no artigo 313, I, da mesma Lei.
+Nessa esteira, no caso vertente, além de haver prova do fato e indícios suficientes de autoria (fumus comissi delicti), se faz presente o periculum libertatis.
+Dito isso, a prisão preventiva se mostra necessária para a garantia da ordem pública.
+Por sua vez, o periculum libertatis reside na necessidade da prisão para garantia da ordem pública.
+..
+Nessa linha, em consulta ao sistema SAJ, verifico que o acusado já responde à ação criminal n.º 0800020-84.2016.8.02.0027, tendo, recentemente, apresentado resposta à acusação.
+Assim, existe uma presunção iuris tantum de que o autuado, se solto, voltará a delinquir, sendo necessária, por esse motivo, a manutenção de sua segregação cautelar.
+Quando à aplicação de medidas cautelares diversas da prisão, tenho que elas não são suficientes para o caso posto, já que nenhuma delas teria o condão de afastar o periculum libertatis, pelos motivos acima expostos.
+No mais, no processo acima mencionado (0800020-84.2016.8.02.0027), ficou determinado medidas cautelares diversas da prisão, as quais não foram suficientes, haja vista que o réu voltou, em tese, a delinquir, o que assevera, ainda mais, a necessidade de imposição da prisão preventiva.
+Por essa mesma razão, a prisão ainda se faz necessária para a garantia da futura aplicação da lei penal. Ora, se o autuado descumpriu medidas cautelares diversas da prisão, é provável que, em caso de condenação, deixe também de cumprir a pena, vez que já mostrou anteriormente o descaso com as decisões judiciais.
+Derradeiramente, em relação à fiança, está presente fundamento da prisão preventiva, o que impede a concessão da benesse, por força do artigo 324, IV, do Código de Processo Penal.
+ANTE O EXPOSTO, homologo o flagrante em seu aspecto formal e converto a prisão em flagrante de [NOME], com qualificação nos autos, em prisão preventiva, para a garantia da ordem pública e da futura aplicação da lei penal.
+Com efeito, de tudo quanto apontado, não vislumbro ilegalidade na custódia cautelar do recorrente, decretada para o resguardo da ordem pública, em razão de sua reiteração delitiva, eis que destacado pelo magistrado que o acusado registra outra ação penal em curso, que segundo a defesa informou na impetração, trata-se do delito de lesão corporal grave.
+Dessarte, estando o decreto prisional lastreado em elementos concretos colhidos dos próprios autos, não há imputar qualquer ilegalidade à custódia. Neste sentido:
+HABEAS CORPUS. SUPOSTA PRÁTICA DE ROUBO. DECISÃO DE PRIMEIRO GRAU QUE REVOGOU A PRISÃO PREVENTIVA. RECURSO EM SENTIDO ESTRITO MINISTERIAL. PROVIMENTO DO RECURSO NO TRIBUNAL PARA DECRETAR A PRISÃO PREVENTIVA. MOTIVAÇÃO CONCRETA COM BASE NA REITERAÇÃO DELITIVA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Da leitura da folha de antecedentes criminais do paciente, observa-se que, de fato, existem outras condenações e inquéritos, o que demonstra estar o paciente constantemente envolvido em delitos.
+Tais elementos evidenciam a necessidade de manutenção da prisão cautelar para a garantia da ordem pública, especialmente para o fim de evitar a reiteração criminosa. O Superior Tribunal de Justiça tem, repetidamente, decidido que o fundado receio de reiteração delitiva enseja a custódia preventiva para a garantia da ordem pública.
+2. Ordem de habeas corpus denegada.
+(HC 362.079/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 16/03/2017, DJe 23/03/2017)
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO MAJORADO E CORRUPÇÃO DE MENORES. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO PRISIONAL. INOCORRÊNCIA. RISCO DE REITERAÇÃO DELITIVA. RECURSO ORDINÁRIO PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, DESPROVIDO.
+I - A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+II - A tese referente à ilegalidade da prisão preventiva diante da demora na realização da audiência de custódia, restou superada diante da análise da prisão em flagrante e a sua conversão em da prisão preventiva, que ocorreu pouco mais de 48 horas após o fato (precedentes).
+III - In casu, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, que evidenciam que a liberdade dos ora recorrentes acarretaria risco à ordem pública, notadamente em razão dos indícios de contumácia na prática de delitos, visto que um dos recorrentes teria um mandado de prisão em aberto, e outros dois estariam em prisão domiciliar, tudo a indicar o fundado receio de reiteração delitiva, assim como pela forma pela qual o delito foi perpetrado, roubo em concurso de agentes, com emprego de arma de fogo e restrição da liberdade das vítimas (precedentes).
+Recurso ordinário parcialmente conhecido e, nesta extensão, desprovido.
+(RHC 77.895/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 14/03/2017, DJe 22/03/2017)
+Assim, dada as particularidades acima citadas, indicativas da necessidade do encarceramento, penso ser inviável a liberação do recorrente, visto que existente fundamentação idônea da cautelaridade.
+Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública. No mesmo sentido, confira-se:
+HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. PREENCHIMENTO DOS REQUISITOS. QUANTIDADE E NATUREZA DOS ENTORPECENTES - 21,907KG DE HAXIXE. AUSÊNCIA DE RESIDÊNCIA FIXA E PROFISSÃO LÍCITA. FUNDAMENTAÇÃO IDÔNEA. PRISÃO DOMICILIAR. REQUISITOS. NÃO PREENCHIMENTO. MEDIDAS CAUTELARES DO ART. 319 DO CPP. INVIABILIDADE. COAÇÃO ILEGAL NÃO DEMONSTRADA. ORDEM NÃO CONHECIDA.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. A privação antecipada da liberdade do cidadão acusado de crime reveste-se de caráter excepcional em nosso ordenamento jurídico (art. 5º, LXI, LXV e LXVI, da CF). Assim, a medida, embora possível, deve estar embasada em decisão judicial fundamentada (art. 93, IX, da CF), que demonstre a existência da prova da materialidade do crime e a presença de indícios suficientes da autoria, bem como a ocorrência de um ou mais pressupostos do artigo 312 do Código de Processo Penal. Exige-se, ainda, na linha perfilhada pela jurisprudência dominante deste Superior Tribunal de Justiça e do Supremo Tribunal Federal, que a decisão esteja pautada em motivação concreta, vedadas considerações abstratas sobre a gravidade do crime.
+3. No caso, as instâncias ordinárias se basearam em elementos concretos que demonstram a necessidade da custódia, sobretudo natureza e a quantidade dos entorpecentes apreendidos - 21,907kg de haxixe, na forma de 110 tabletes, durante transporte interestadual.
+4. A circunstância de o paciente não ter logrado comprovar residência fixa ou profissão lícita reforça os indícios de que faz do tráfico seu meio de vida e corrobora a necessidade da prisão como forma de garantir a ordem pública.
+5. A hipótese prevista no art. 318, inciso VI, do Código de Processo Penal e requer a efetiva demonstração de que o paciente é o único responsável pelos cuidados do filho de até 12 (doze) anos de idade incompletos, bem como prova idônea dos requisitos estabelecidos neste artigo.
+6. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade concreta do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública.
+7. Habeas corpus não conhecido.
+(HC 379.711/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 21/02/2017, DJe 24/02/2017)
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+É como voto.
