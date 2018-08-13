@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fls. 131-132, e-STJ):
+CIVIL E PROCESSO CIVIL. COMPRA E VENDA DE AUTOMÓVEL. INOCORRÊNCIA DA COMUNICAÇÃO DA TRANSFERÊNCIA DO VEÍCULO AO DETRAN. PAGAMENTO DE DÉBITOS POSTERIORES À ALIENAÇÃO. RESPONSABILIDADE TRIBUTÁRIA SOLIDÁRIA. DANOS MORAIS. CONFIGURAÇÃO.
+1. O art. 121, inciso II, do CTN, determina que a pessoa obrigada a pagá-los pode ser o responsável que tenha a sua obrigação decorrente expressamente de lei, mesmo não sendo contribuinte, sendo que o seu art. 128, prevê, ainda, que a lei pode atribuir a terceiro a responsabilidade tributária, quando esta estiver vinculada ao fato gerador.
+2. Consoante o disposto no art. 1º, § 8º, da Lei Distrital nº 7.431/85, "o proprietário de veículo de qualquer espécie, que o alienar e não comunicar a ocorrência ao órgão público encarregado do registro e licenciamento, inscrição ou matrícula", responsabiliza-se solidariamente pelo pagamento do IPVA, até a data do cumprimento dessa obrigação legal.
+3. Havendo a ilicitude da conduta, nexo de causalidade e dano, consistente na inscrição do nome da autora na dívida ativa pelo não pagamento do IPVA lançado após a alienação do veículo, impõe-se a responsabilização civil da parte ré pelo pagamento de danos morais.
+4. A indenização fixada a título de danos morais deve atender aos princípios da razoabilidade e proporcionalidade, considerando a extensão e a gravidade do dano, a capacidade econômica do ofensor, além do caráter punitivo -pedagógico da medida, sem, contudo, caracterizar fonte de enriquecimento ilícito.
+5. Se, em virtude do parcial provimento do apelo da autora, esta passou a ser vencida na maior parte de suas postulações, deve ser modificada a distribuição dos ônus da sucumbência fixada na sentença para que se imponha à ré a responsabilidade pelo pagamento de parcela maior das verbas sucumbenciais.
+6. Apelo parcialmente provido.
+Não foram opostos embargos de declaração.
+Nas razões de recurso especial, a recorrente aponta violação aos arts. 186 e 927 do Código Civil e 134 do Código de Trânsito Brasileiro.
+Sustenta que não há responsabilidade solidária entre adquirente e alienante de veículo automotor no que tange à obrigatoriedade de comunicação da tradição aos órgãos competentes.
+Afirma que ao reformar a sentença, o Tribunal de origem não se pautou em parâmetro objetivo para a fixação da indenização por danos morais em favor da recorrida, no valor de R$ 10.000,00 (dez mil reais).
+Contrarrazões às fls. 169-174, e-STJ.
+O recurso especial não foi admitido na origem, nos termos da decisão de fls. 176-178, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Ao solucionar a controvérsia, o Tribunal de origem consignou o seguinte (fls. 136-137, e-STJ):
+Contudo, apesar da atribuição de responsabilidade solidária pelo pagamento de IPVA à apelante não decorrer do preceito do art. 134, do CTB, ela decorre da Lei Distrital n.º 7.431/85, que, no exercício da competência que foi atribuída ao Distrito Federal pelo art. 155, inciso III, da CRB/88, instituiu o IPVA no âmbito de seu território.
+No §8º de seu art. 1º, a lei distrital referida dispõe que:
+"Art. 1º - É instituído, no Distrito Federal, o imposto sobre a propriedade de veículos automotores devido anualmente, a partir do exercício de 1986, pelos proprietários de veículos automotores registrados e licenciados nesta Unidade da Federação.
+(..) § 8º São responsáveis, solidariamente, pelo pagamento do IPVA:
+(..) III - o proprietário de veículo de qualquer espécie, que o alienar e não comunicar a ocorrência ao órgão público encarregado do registro e licenciamento, inscrição ou matrícula".
+Assim, e tendo em vista que os documentos de fls. 11/17 comprovam que a apelante não comunicou a alienação ao Detran, é possível afirmar, conforme o previsto no CTN e na legislação distrital acima transcrita, que a recorrente é responsável solidária pelo pagamento do IPVA. Com isso, não há como determinar, por meio de ofício, que o DETRAN/DF e a Secretaria da Fazenda promovam a transferência dos débitos vencidos após a alienação, não merecendo reparos na sentença quanto a este ponto.
+Como se vê, o Tribunal de origem solucionou a controvérsia à luz de norma local, o que inviabiliza o recurso especial em razão da incidência da Súmula 280/STF. Nesse sentido:
+TRIBUTÁRIO. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO FISCAL. IPVA. RESPONSABILIDADE TRIBUTÁRIA. EX-PROPRIETÁRIO. DÉBITOS POSTERIORES À ALIENAÇÃO, MAS ANTERIORES À COMUNICAÇÃO DA TRANSFERÊNCIA DA PROPRIEDADE ÀS AUTORIDADES DE TRÂNSITO. SÚMULA 585/STJ. NÃO APLICAÇÃO. LEI ESTADUAL. OBSERVÂNCIA. PRECEDENTES DO STJ.
+1. A controvérsia envolve a responsabilidade tributária do ex-proprietário de veículo automotor pelo IPVA devido, posteriormente à alienação, enquanto não comunicada a transferência da propriedade às autoridades de trânsito.
+2. O Tribunal de origem entendeu da responsabilidade do recorrente por ser ônus do vendedor comunicar a alienação do veículo automotor ao Órgão de Trânsito, sob pena de responsabilizar-se solidariamente pelas obrigações de natureza tributária e demais encargos, conforme previsto no art. 6º, II, da Lei Estadual 13.296/2008 e art. 134 do CTB.
+3. O STJ recentemente editou a Súmula 585 sobre o tema: "A responsabilidade solidária do ex-proprietário, prevista no art. 134 do Código de Trânsito Brasileiro - CTB, não abrange o IPVA incidente sobre o veículo automotor, no que se refere ao período posterior à sua alienação." (Súmula 585, Primeira Seção, julgado em 14/12/2016, DJe 1º/2/2017).
+4. Nada obstante isso, o entendimento do STJ, posterior à edição da Súmula, tem sido manter o acórdão impugnado quando, apesar de citar o art. 134 do Código de Trânsito Brasileiro, também adotar como fundamento regra prevista na legislação local para o estabelecimento da responsabilidade tributária solidária. Nesse sentido: REsp 1.640.978/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 6/4/2017, DJe 12/5/2017; REsp 1.543.304/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 6/4/2017, DJe 12/5/2017. 5. Na hipótese o julgado combatido baseou-se em dispositivos de lei estadual - autorizados pelo CTN - para decidir desfavoravelmente à parte recorrente. É o quanto basta para afastar a alegação de violação ao art. 1.267 do Código Civil de 2002. Súmula 280 do STF, aplicável por analogia.
+6. Recurso Especial conhecido em parte e nessa parte não provido.
+(REsp 1.724.103/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 25/5/2018 - grifou-se).
+Quanto à indenização por danos morais fixada pelo Tribunal de origem em R$ 10.000,00 (dez mil reais), o acórdão recorrido registrou (fls. 139-140, e-STJ):
+In casu, não há dúvida de que se apresentam todos os elementos previstos no Código Civil para a responsabilização civil da ré, pois se tem a abstenção qualificada por negativa, como nexo de causalidade e, igualmente, dano moral, que se presume com a inscrição do nome da autora na dívida ativa do Distrito Federal.
+ ..
+Portanto, há que ser reformada a sentença quanto ao julgamento de improcedência do pleito de reparação de danos morais. Passa-se à sua quantificação.
+A indenização por danos morais deve ser fixada considerando a intensidade do dano, bem como as condições da vítima e do responsável, de modo a atingir sua função reparatória e penalizante. De igual modo, não pode ser fonte de enriquecimento ilícito. Diante disso, mostra-se razoável e proporcional o arbitramento dos danos morais em R$ 10.000,00 (dez mil reais).
+Assim, não há como modificar o acórdão recorrido nesse particular, sem o necessário reexame do contexto fático e probatório dos autos, providência vedada em sede de recurso especial em razão do óbice erigido pela Súmula 7/STJ.
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ALIENAÇÃO DE VEÍCULO. AUSÊNCIA DE TRANSFERÊNCIA JUNTO AO DETRAN AO NOVO PROPRIETÁRIO. INSCRIÇÃO EM DÍVIDA ATIVA E EXECUÇÃO FISCAL. DANO MORAL. RAZOABILIDADE NA FIXAÇÃO DO QUANTUM. ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA. DECISÃO MANTIDA.
+1. A insurgência contra o valor arbitrado para a indenização por dano moral esbarra na vedação da Súmula n. 7 do STJ. Apenas em hipóteses excepcionais, quando a quantia fixada se distancia dos princípios da proporcionalidade e da razoabilidade, é possível a revisão do quantum por esta Corte, situação não verificada no caso dos autos.
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 879.915/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 12/09/2016).
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, suspensa a exigibilidade no caso de deferimento da gratuidade da justiça.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
