@@ -1,0 +1,54 @@
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/15). BENEFÍCIO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA. JURISPRUDÊNCIA CONSOLIDADA. REVOLVIMENTO DO CONJUNTO FÁTICO PROBATÓRIO. NÃO CABIMENTO. SÚMULA 7/STJ. HONORÁRIOS RECURSAIS. MAJORAÇÃO. DESCABIMENTO. ACÓRDÃO DE JULGAMENTO DE QUESTÃO INTERLOCUTÓRIA. RECURSO ESPECIAL A QUE SE DÁ PARCIAL PROVIMENTO.
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por [NOME], com fundamento na alínea "a", inciso III, do art. 105, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. INDEFERIMENTO DO PEDIDO DE JUSTIÇA GRATUITA. LEI N. 1.060, DE 5.2.1950. SINGELA ALEGAÇÃO DE HIPOSSUFICIÊNCIA QUE NÃO BASTA PARA A CONCESSÃO DO BENEFÍCIO. RESOLUÇÃO N. 04/06 - CM. CARÊNCIA FINANCEIRA NÃO DEMONSTRADA. BENEFICIO INDEFERIDO. FIXAÇÃO DE HONORÁRIOS ADVOCATICIOS EM RAZÃO DO TRABALHO REALIZADO EM GRAU DE RECURSO PELA ADVOGADA DO AGRAVADO. ARTIGO 85, § 11, DO CÓDIGO DE PROCESSO CIVIL DE 2015. RECURSO DESPROVIDO. (e-STJ, fl. 148)
+Nas razões do recurso especial, o recorrente alega que o acórdão negou vigência aos arts. 1022, 98, 99, §§ 2º e 3º e 85, § 11, do CPC/15, sustentando a necessidade de intimação da agravante para apresentar os documentos faltantes para a comprovação de sua hipossuficiência econômica. Defende que os documentos necessários foram efetivamente apresentados.
+Alega, por fim, que não cabe a fixação de honorários sucumbenciais sem a decisão de primeiro grau arbitrando-os.
+As contrarrazões foram apresentadas (e-STJ, fls. 224/229).
+O recurso especial foi admitido na origem.
+É o breve relatório.
+Passo a decidir.
+A pretensão recursal merece parcial provimento.
+Primeiramente, cumpre esclarecer que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/15 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça, conforme disposto no Enunciado Administrativo n. 3/STJ.
+O benefício garantido pelo art. 2º da Lei 1.060/50 visa garantir o direito constitucional de ação e acesso ao Poder Judiciário para todos os cidadãos, isentando do pagamento das custas processuais aos que não podem arcar com essas despesas, sem prejuízo de seu próprio sustento ou de sua família. Contudo, tal benefício é voltado àqueles que materialmente não podem arcar com as despesas processuais.
+Sobre o tema, compartilho do entendimento de que a necessidade de prova da situação de hipossuficiência econômica emana da própria Constituição Federal, nos termos do art. 5º, inc. LXXIV, que assim dispõe: "o Estado prestará assistência judiciária integral e gratuita aos que comprovarem insuficiência de recursos".
+A assistência judiciária não se reveste do caráter de benevolência, mas se apresenta como meio necessário à viabilização do acesso igualitário a todos os que buscam a prestação jurisdicional. Por conseguinte, por não se tratar de um ato de caridade, deve restar criteriosamente concedido.
+Assim, o Tribunal de origem proferiu a sua decisão de acordo com o atual entendimento do Superior Tribunal de Justiça no sentido de que é possível, de ofício, o indeferimento dos benefícios da justiça gratuita pela ausência de prova do estado de hipossuficiência.
+Ademais, é consabido que, apesar do benefício da justiça gratuita poder ser pleiteado a qualquer tempo, bastando a simples afirmação de que não está em condições de arcar com as despesas processuais, cuida-se de afirmação com presunção relativa, podendo o magistrado indeferir a gratuidade se encontrar, na análise do suporte fático trazido aos autos, fundamentos que contrariem o estado de hipossuficiência da parte requerente.
+Nesse sentido:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PESSOA JURÍDICA. ASSISTÊNCIA JUDICIÁRIA GRATUITA. INDEFERIMENTO PELO JUIZ. REVISÃO NO STJ. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES. RECURSO NÃO PROVIDO.
+1. A presunção de pobreza, para fins de concessão dos benefícios da assistência judiciária gratuita, ostenta presunção relativa, podendo o magistrado investigar a situação do requerente caso entenda que os elementos coligidos aos autos demonstram a capacidade de custeio das despesas processuais. Matéria de fato insusceptível de reexame em recurso especial (Súmula 7/STJ).
+2. De acordo com a jurisprudência desta Corte, a pessoa jurídica que pretende se valer das benesses da assistência judiciária gratuita precisa comprovar o efetivo estado de necessidade (Súmula 481/STJ). 3. Agravo regimental a que se nega provimento. (AgRg no AREsp 432961 / RJ. Quarta Turma, Rel. Ministra Maria Isabel Gallotti. DJe 15/04/2014 - grifou-se)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA. INDEFERIMENTO. REEXAME DE PROVAS. SÚMULA 7/STJ. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+1.- Por não se tratar de direito absoluto, porquanto a declaração de pobreza implica simples presunção juris tantum, pode o magistrado, se tiver fundadas razões para crer que o requerente não se encontra no estado de miserabilidade declarado, exigir-lhe que faça prova de sua situação.
+2.- A revisão do Acórdão recorrido, que indefere o pedido de concessão dos benefícios da justiça gratuita, demanda reexame do conjunto fático-probatório delineado nos autos, providência inviável em âmbito de Recurso Especial, incidindo o óbice da Súmula 7 deste Tribunal.
+3.- O recurso não trouxe nenhum argumento capaz de modificar a conclusão do julgado, a qual se mantém por seus próprios fundamentos.
+4.- Agravo Regimental improvido. (AgRg no AREsp 422555 / MS. Terceira Turma, Rel. Ministro Sidnei Beneti. DJe 10/12/2013 - grifou-se)
+O Tribunal de origem consignou que:
+No caso presente, porém, o agravante não demonstrou a alegada hipossuficiência financeira. Afinal, a Câmara já indeferiu o benefício da justiça gratuita ao o agravante em outras duas oportunidades (confira-se, a propósito, o que ficou decidido no agravo de instrumento n. 2015.008755-8, de Santo Amaro da Imperatriz, relator o desembargador [NOME], j. em 21.5.2015 e no "ui til") agravo de instrumento n. 2015.008754-1, de Santo Amaro da Imperatriz, relator o desembargador [NOME], j. em 25.5.2015) e nada há nos autos que justifique a alteração do entendimento então externado. Em sendo assim, porque não houve a demonstração da invocada hipossuficiência financeira, impõe-se o indeferimento do benefício da justiça gratuita. (e-STJ, fls. 150/151 - grifou-se)
+Portanto, a pretensão do agravante esbarra no óbice da Súmula 7 do STJ, pois o Tribunal de origem firmou sua fundamentação na análise do conjunto fático probatório constante dos autos, de forma que, para reformar decisão objurgada seria necessário o revolvimento fático-probatório dos autos, o que é inviável na via recursal.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. CARACTERIZAÇÃO. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. O Tribunal de origem, apreciando as peculiaridades fáticas da causa, indeferiu o benefício da assistência judiciária gratuita. A modificação de tal entendimento lançado no v. acórdão recorrido, como ora perseguida, demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+2. Agravo regimental a que se nega provimento. (AgRg no AREsp 486303 / SP. Quarta Turma, Rel. Ministro Raul Araújo. Quarta Turma. DJe 13/05/2014 - grifou-se)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. CONDIÇÃO DE HIPOSSUFICIÊNCIA. VERIFICAÇÃO. SÚMULA N. 7/STJ. INCIDÊNCIA.
+1. Incide a Súmula n. 7 do STJ na hipótese em que a tese versada no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+2. Agravo regimental desprovido. (AgRg no AREsp 319696 / PE. Terceira Turma, Rel. Ministro João Otávio de Noronha. DJe 28/06/2013)
+Ademais, no que concerne a majoração dos honorários advocatícios, a orientação do STJ é no sentido de que "a majoração dos honorários advocatícios, a título de sucumbência recursal, pressupõe que tenha havido a fixação de honorários na instância a quo, ou seja, só é cabível nos feitos cm que for admissível a condenação em honorários na instância a quo" (EDcl no Aglnt no AREsp 892.042/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 02/02/2017, DJe 08/02/2017).
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADOS ADMINISTRATIVOS 3/STJ. INTERVENÇÃO DO ESTADO NA PROPRIEDADE. DESAPROPRIAÇÃO POR UTILIDADE PÚBLICA. TRÂNSITO EM JULGADO. EXECUÇÃO. NULIDADE POR AUSÊNCIA DE INTIMAÇÃO. INEXISTÊNCIA. VIOLAÇÃO A NORMATIVO FEDERAL. IMPOSSIBILIDADE DE REVISÃO DO ACERVO PROBATÓRIO. SÚMULA 07/STJ. DESCABIMENTO DE HONORÁRIOS RECURSAIS. QUESTÃO INTERLOCUTÓRIA. AUSÊNCIA DE HONORÁRIOS NA ORIGEM.
+1. Não se conhece do apelo extremo quando o exame das teses levantadas pelo recorrente não prescinde do revolvimento fático-probatório. Incidência da Súmula 07/STJ.
+2. Não cabe a majoração de honorários recursais, com fundamento no art. 85, § 11, do CPC/2015, em recurso especial interposto contra acórdão de julgamento de agravo de instrumento que não ponha termo à demanda nem, portanto, fixe sucumbência na origem.
+3. Agravo conhecido para não conhecer do recurso especial.
+(AREsp 1144256/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 12/12/2017, DJe 18/12/2017 - grifou-se)
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO FEDERAL. AGRAVO DE INSTRUMENTO. REJEIÇÃO DA IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. APLICAÇÃO DO ART. 85, § 11, DO CPC/2015. HONORÁRIOS RECURSAIS. DESCABIMENTO.
+1. Não há que se falar em negativa de prestação jurisdicional, visto que tal somente se configura quando, na apreciação de recurso, o órgão julgador insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi. Precedentes.
+2. A majoração dos honorários advocatícios, a título de sucumbência recursal, pressupõe que tenha havido a fixação de honorários, ou seja, só é cabível nos feitos em que for admissível a condenação em honorários na instância a quo. Precedentes.
+3. Embargos de declaração não acolhidos.
+(EDcl no AgInt no REsp 1681405/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/06/2018, DJe 27/06/2018 - grifou-se)
+Logo, não cabe a majoração de honorários recursais, com fundamento no art. 85, § 11, do CPC/2015, em recurso especial interposto contra acórdão de julgamento de agravo de instrumento que não ponha termo à demanda nem, portanto, fixe sucumbência na origem.
+Ante o exposto, dou parcial provimento ao recurso especial para afastar os honorários advocatícios arbitrados, tão somente, no acórdão proferido pelo Tribunal de origem, em sede de agravo de instrumento, nos termos do artigo 85, § 11, do CPC/15.
+Prejudicado o exame da violação ao artigo 1.022, do CPC/15.
+Intimem-se.
