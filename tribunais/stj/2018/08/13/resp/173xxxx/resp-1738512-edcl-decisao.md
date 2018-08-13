@@ -1,0 +1,20 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+DECISÃO
+Trata-se de embargos de declaração oposto em face de decisão assim ementada:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015. FUNDAMENTAÇÃO DEFICIENTE. ÓBICE DA SÚMULA 284/STF. IPTU. LANÇAMENTO. NOTIFICAÇÃO MEDIANTE ENTREGA DO CARNÊ. ÔNUS PROBATÓRIO DO CONTRIBUINTE. SÚMULA 568/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+A embargante alega omissão no julgado no que toca à interpretação adequada para aplicação da Súmula 397/STJ. Segundo entende, se comprovado o envio do carnê ao endereço do contribuinte, presume-se formalizada a notificação de lançamento, se não comprovado o envio do carnê ao endereço do contribuinte, não se pode presumir a notificação de lançamento, ato imprescindível para que este tenha validade.
+O município embargado não apresentou impugnação.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Na decisão embargada, não se verifica nenhum erro sanável via embargos de declaração.Verifica-se o nítido caráter infringente dos aclaratórios, buscando a embargante um novo julgamento.
+Com efeito, o decisum embargado contém fundamentação clara e suficiente para demonstrar que esta Corte Superior pacificou o entendimento no Recurso Repetitivo nº 1.111.124/PR, no sentido de que o envio do carnê do IPTU ao endereço do contribuinte configura notificação presumida do lançamento do tributo, e que para que seja afastada a presunção do lançamento tributário, cabe ao contribuinte comprovar que não recebeu, mediante serviço postal, o carnê da cobrança.
+Desse modo, a questão foi apreciada de modo adequado e o mero inconformismo com o entendimento da Turma não enseja a utilização da via de embargos de declaração, que é limitada às hipóteses elencadas no art. 1.022 do CPC/2015.
+Assim, não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos. Ilustrativamente:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EFEITOS INFRINGENTES. NÃO CABIMENTO. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. JULGADO EMBARGADO DEVIDAMENTE FUNDAMENTADO. AUSÊNCIA DE PREQUESTIONAMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil, que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso.
+2. No caso dos autos, nota-se que não ocorre nenhuma das hipóteses previstas no artigo 1.022, e seus incisos, do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão no sentido de que não restou configurado o prequestionamento quanto a alegada ofensa à coisa julgada, matéria essa referente ao art. 6º, parágrafo 3º, da Lei de Introdução às normas do Direito Brasileiro, e aos arts. 301, parágrafo 1º, e 467, Código de Processo Civil de 1973, não tendo sido objeto de discussão no acórdão recorrido.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 750.635/PE, Quarta Turma, Rel. Ministro Luis Felipe Salomão, DJe 11/5/2016)
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
