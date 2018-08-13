@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “MANDADO DE SEGURANÇA – PROMOÇÃO POR ESCOLARIDADE ADICIONAL - LEI ESTADUAL 15.4464/2005 – DECRETO ESTADUAL Nº 44.769/08 – ABUSO DE PODER REGULAMENTAR – REQUISITOS PREENCHIDOS – VIOLAÇÃO DO DIREITO LÍQUIDO E CERTO DEMONSTRADO – CONCESSÃO DA SEGURANÇA.
+    1. No caso em que a impetrante, servidora pública estadual ocupante do cargo efetivo de ‘gestor fazendário’, comprova que preencheu todos os requisitos exigidos pela Lei Estadual nº 15.464/20005 e pelo Decreto Estadual nº 44.769/08 (naquilo que não excedeu o poder regulamentar), evidenciando a ilegalidade do ato coator que indeferiu o seu pedido administrativo de promoção, o reconhecimento do direito à promoção por escolaridade adicional e o pagamento das diferenças salariais vencidas desde o ajuizamento da inicial, inclusive reflexos, é medida que se impõe.
+    2. Segurança concedida.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 37, caput; 169, I e II; e 195, § 5º, da CF.
+    A decisão agravada negou seguimento ao recurso por entender que incide, no caso, o óbice das Súmulas 282, 356 e 634/STF.
+    O recurso não deve ser admitido. Em se tratando especificamente de supostas ofensas ao princípio da legalidade, o que se pode discutir nesta sede, em linha de princípio, é o eventual descumprimento da própria reserva legal ou seja, da exigência de que determinada matéria seja disciplinada por lei, e não por ato secundário. Não é disso que se trata nos autos. Incide, na hipótese, a Súmula 636/STF.
+    Ademais, o Tribunal de origem, com fundamento na Lei estadual nº 15.464/2005 e no Decreto estadual nº 44.769/2008, entendeu que a recorrida faz jus à promoção pleiteada, uma vez que preencheu os requisitos estabelecidos em lei. Com efeito, para divergir deste entendimento, seria necessário rever a interpretação dada à legislação local mencionada, o que, nessas condições, atrai a incidência da Súmula 280/STF. Nesse sentido, cito o seguinte precedente:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. Auditores fiscais. Reequadramento. 3. Leis estaduais 15.464 e 16.190 de 2005. Ofensa reflexa ao texto constitucional. Súmula 280. 4. Necessidade de reexame de conteúdo fático-probatório. Súmula 279. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (ARE 863.128-AgR, Rel. Min. Gilmar Mendes).
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF).
+    Publique-se.
+                Brasília, 13 de agosto de 2018.
+Ministro Luís Roberto Barroso
+Relator
