@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o JUÍZO FEDERAL DA 2ª VARA DE BARUERI - SJ/SP, suscitante, e o JUÍZO FEDERAL DA 6ª VARA DE CAMPINA GRANDE - SJ/PB, suscitado, em face de inquérito instaurado para apurar a prática do delito de estelionato.
+O juízo suscitado declinou da competência por entender que, nos termos do disposto na Súm. 48/STJ, compete ao local da obtenção da vantagem ilícita para processar e julgar o crime de estelionato praticado mediante falsificação de cheque.
+O conflito negativo foi suscitado por entender que a apuração do delito está sujeita à jurisdição da Subseção Judiciária de Campina Grande/PB, uma vez que se trata do local da agência do banco sacado, pois onde causado o efetivo prejuízo à vitima (fl. 235).
+Manifestou-se o órgão ministerial pelo conhecimento do conflito para que seja declarada a competência do Juízo Federal da 6ª Vara de Campina Grande/PB, ora suscitado.
+É o relatório.
+DECIDO.
+Consta dos autos que foi instaurado inquérito policial para apurar a prática do delito tipificado no art. 171, § 3º, do CP, tendo em vista a compensação, em desfavor da Caixa Econômica Federal, de um cheque no valor de R$ 1.300,00 com assinatura falsa, sendo que os valores obtidos mediante fraude à agência da Caixa Econômica Federal em Esperança/PB foram recebidos em uma agência do Banco Bradesco localizada no município de Santana do Parnaíba/SP (fl. 39).
+Prescreve o art. 70, caput, do Código de Processo Penal, que a competência será, em regra, determinada pelo lugar em que se consumar a infração, ou, no caso de tentativa, pelo lugar em que for praticado o último ato de execução.
+Por sua vez, prevalece nesta Corte o entendimento de que o delito de estelionato consuma-se no local em que ocorre o efetivo prejuízo à vítima, ou seja, na localidade da agência onde a vítima possuía a conta bancária.
+Nesses termos, temos decisões recentes desta Corte: CC nº 147.486/PR, Min. Felix Fischer, Dje de 12/8/2016; CC nº 142.436/SP, Min. Maria Thereza de Assis Moura, DJe de 9/9/2015; CC nº 141.595/PR, Min. Rogério Schietti Cruz, Dje 4/9/2015. Nos referidos julgados, firmou-se o entendimento de que a competência territorial para processo e julgamento do delito de estelionato firmar-se-á observando não a localidade da obtenção da vantagem, mas, sim, o local onde a vítima suportou o prejuízo. Vejam-se, ainda, os seguintes precedentes:
+PENAL E PROCESSUAL PENAL. CONFLITO NEGATIVO DE COMPETÊNCIA. CRIME DE ESTELIONATO. CONSUMAÇÃO. JUÍZO EM QUE OCORRE O EFETIVO PREJUÍZO À VÍTIMA. LOCAL DA AGÊNCIA ONDE A VÍTIMA POSSUI CONTA BANCÁRIA. PRECEDENTES.
+1. Nos termos do que dispõe o art. 70 do CPP, a competência é, em regra, determinada pelo lugar em que se consuma a infração penal ou, no caso de tentativa, pelo lugar em que for praticado o último ato de execução.
+2. O delito de estelionato consuma-se no local em que ocorre o efetivo prejuízo à vítima, ou seja, na localidade da agência onde a vítima possuía a conta bancária. Precedentes.
+3. Tendo a vítima efetuado as transferências em agência localizada na cidade de Pacaembu/SP, onde possuía conta bancária, é este o local do efetivo dano e para onde devem ser remetidos os autos para regular processamento e prosseguimento do feito.
+4. Conflito conhecido para declarar competente o Juízo de Direito da 1ª Vara de Pacaembu/SP, ora suscitado. (CC 147.811/CE, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 14/9/2016, DJe 19/9/2016).
+CONFLITO NEGATIVO DE COMPETÊNCIA. CRIME DE ESTELIONATO. CONSUMAÇÃO. LOCAL DO EFETIVO PREJUÍZO À VÍTIMA. LOCAL DA AGÊNCIA À QUAL ESTÁ VINCULADA A CONTA CORRENTE DA VÍTIMA.
+- Nos termos do que prevê o art. 70 do Código de Processo Penal, a competência é, em regra, determinada pelo lugar em que se consuma a infração penal.
+- A jurisprudência firmada nesta Corte dispõe que o delito de estelionato, tipificado no art. 171 do Código Penal, consuma-se no local onde ocorreu o efetivo dano à vítima. No caso dos autos, em que houve o desconto de cheque fraudado, não emitido pelo titular, na localidade da agência onde a vítima possuía a conta bancária.
+Conflito conhecido para declarar competente o Juízo de Direito da 1ª Vara Criminal de Paranavaí/PR, o suscitado. (CC 136.853/MG, Rel. Ministro ERICSON MARANHO (DESEMBARGADOR CONVOCADO DO TJ/SP), TERCEIRA SEÇÃO, julgado em 10/12/2014, DJe 19/12/2014), com destaques.
+No caso, ao que se tem, os valores foram obtidos mediante fraude à agência da Caixa Econômica Federal da cidade de Esperança/PB, em razão da apresentação e compensação de cheque com assinatura falsa em nome da empresa correntista Randgel Carneiro Evaristo-ME.
+Nesse contexto, estando a cidade de Esperança/PB sob a jurisdição da Subseção Judiciária de Campina Grande/PB, compete a esse último Juízo o processamento do inquérito policial, por se tratar do local onde se deu o efetivo dano à vítima e para onde devem ser remetidos os autos para regular processamento e prosseguimento do feito.
+Ante o exposto, conheço do conflito para declarar competente o JUÍZO FEDERAL DA 6ª VARA DE CAMPINA GRANDE - SJ/PB, ora suscitado.
+Publique-se.
+Intimem-se.
