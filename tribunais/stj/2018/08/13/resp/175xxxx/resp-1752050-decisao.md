@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo TJPR assim ementado (e-STJ fl. 96):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TITULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ- EXECUTIVIDADE. CASO CONCRETO. TEMPESTIVIDA DE. BLOQUEIO DE VALORES VIA BACENJUD. VERBA SALARIAL EM CONTA CORRENTE. ART. 833, IV, DO CPC/2015. IMPENHORABILIDA DE. RECONHECIMENTO. RESTITUIÇÃO. IMPOSIÇÃO. NUMERÁRIO DEPOSITADO EM APLICAÇÃO FINANCEIRA. NATUREZA ALIMENTAR. NÃO COMPROVAÇÃO. PENHORA MANTIDA.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 124/135).
+Nas razões recursais (e-STJ fls. 138/144), fundamentadas no art. 105, III, "a", da CF, a recorrente alega ofensa ao art. 883, X, do CPC/1973, sustentando, em síntese, a impenhorabilidade de seus investimentos financeiros, até o limite de 40 (quarenta) salários mínimos.
+Contrarrazões apresentadas pela recorrida (e-STJ fls. 161/170).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do acórdão recorrido (e-STJ fls. 107/108):
+O mesmo raciocínio não pode ser adotado em relação ao restante da quantia bloqueada, isto é, R$ 27.960,03 (vinte e sete mil, novecentos e sessenta reais e três centavos).
+Segundo a agravante, o montante teria sido bloqueado 09/03/2017, em aplicação financeira (RDC - longo pós CDI) também mantida junto ao Sicoob, conforme extratos de ff. 21/23-verso-T.J.
+Ocorre que, de acordo com o documento de mov. 41.1-Projudi. o valor de R$ 27.960,03 (vinte e sete mil, novecentos e sessenta reais e três centavos) foi bloqueado, na realidade, em 09/02/2017, em conta do Banco do .Brasil S/A.
+Desse modo, ao que parece, os documentos apresentados pela agravante para justificar sua pretensão não dizem respeito ao bloqueio ora questionado.
+De qualquer forma, ainda que a constrição tivesse recaído na aplicação financeira indicada pela agravante (RDC - longo pós CDI), não resultou comprovado o caráter alimentar do numerário.
+Observe-se que a agravante mantinha aplicações em valores elevados (R$ 11.819,66; R$ 2.018,45; R$- 2.001,20; R$ 2.963,09; e R$ 1.958,07 - saldos em 09/03/2017), em fundo de investimento de longo prazo, o que descaracteriza sua natureza alimentar, pois as quantias não têm liquidez imediata, como possuem aquelas depositadas em caderneta de poupança, que podem ser resgatadas a qualquer momento, sem implicar perda considerável.
+Assim, ausente prova do caráter alimentar do montante de R$ 27.960,03 (vinte e sete mil, novecentos e sessenta reais e três centavos), deve prevalecer a penhora realizada.
+Entretanto, segundo a jurisprudência consolidada desta Corte, reveste-se de impenhorabilidade a quantia de até 40 (quarenta) salários mínimos poupada, seja ela mantida em papel-moeda, em conta-corrente, aplicada em caderneta de poupança propriamente dita ou em fundo de investimentos, ressalvado eventual abuso, má-fé, ou fraude, a serem verificados de acordo com as circunstâncias do caso concreto. Nesse sentido:
+RECURSO EM MANDADO DE SEGURANÇA. CUMPRIMENTO DE SENTENÇA. CABIMENTO. EXCEPCIONALIDADE. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. DECADÊNCIA. ATO JUDICIAL. TERMO INICIAL. CIÊNCIA DO INTERESSADO. VALOR EM CONTA CORRENTE. LIMITE. 40 SALÁRIOS MÍNIMOS. POUPANÇA. DIGNIDADE. SUSTENTO. IMPENHORABILIDADE. VIOLAÇÃO DE DIREITO LÍQUIDO E CERTO.
+1. Cinge-se a controvérsia a determinar se é cabível o mandado de segurança contra ato judicial, se é lícita a desconsideração da personalidade jurídica da empresa executada e se é possível a penhora de numerário existente em conta corrente, inferior a 40 (quarenta) salários mínimos e relacionado ao recebimento de proventos de aposentadoria.
+2. A impugnação de ato judicial, pela via do mandado de segurança, somente é admissível se o impetrante comprovar sua teratologia ou flagrante ilegalidade, ou, ainda, a ocorrência de abuso de poder pela autoridade que proferiu a decisão.
+3. Na espécie, a impetrante, que é sócia da empresa devedora, tem 82 (oitenta e dois) anos de idade, seu sustento é assegurado por proventos de aposentadoria e teve penhoradas as quantias depositadas em sua conta-corrente em virtude de desconsideração da personalidade jurídica da executada. Assim, a penhora representa aparente contrariedade à expressa previsão do art. 649, X, do CPC/73, que versa sobre a dignidade da subsistência do executado. Essas circunstâncias justificam, na hipótese concreta, o abrandamento da regra restritiva ao cabimento do mandado de segurança.
+4. Exceto se comprovada a ocorrência de abuso, má-fé ou fraude e ainda que os valores constantes em conta corrente percam a natureza salarial após o recebimento do salário ou vencimento seguinte, a quantia poupada pelo devedor, no patamar de até 40 (quarenta) salários mínimos, é impenhorável.
+5. Referidos valores podem estar depositados em cadernetas de poupança, contas-correntes, fundos de investimento ou até em espécie, mantendo, em qualquer desses casos, a característica da impenhorabilidade.
+6. Recurso ordinário parcialmente provido. Ordem concedida em parte.
+(RMS n. 52.238/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/12/2016, DJe 8/2/2017.)
+PROCESSO CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OFENSA AO ARTIGO 535 DO CPC. NÃO CARACTERIZAÇÃO. EXECUÇÃO FISCAL. APLICAÇÃO FINANCEIRA. IMPENHORABILIDADE DO LIMITE PREVISTO NO ART. 649, X, DO CPC. AFASTAMENTO DA CONSTRIÇÃO EM RELAÇÃO AO LIMITE DE QUARENTA SALÁRIOS MÍNIMOS. AGRAVO REGIMENTAL NO RECURSO ESPECIAL.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do CPC.
+2. Segundo a jurisprudência pacificada deste STJ "é possível ao devedor, para viabilizar seu sustento digno e de sua família, poupar valores sob a regra da impenhorabilidade no patamar de até quarenta salários mínimos, não apenas aqueles depositados em cadernetas de poupança, mas também em conta-corrente ou em fundos de investimento, ou guardados em papel-moeda." (REsp 1.340.120/SP, Quarta Turma, Relator Ministro Luis Felipe Salomão, julgado em 18/11/2014, DJe 19/12/2014).
+3. Agravo regimental não provido.
+(AgRg no REsp n. 1.566.145/RS, Relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 15/12/2015, DJe 18/12/2015.)
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PENHORA DE SALÁRIO. ALCANCE. APLICAÇÃO FINANCEIRA. LIMITE DE IMPENHORABILIDADE DO VALOR CORRESPONDENTE A 40 (QUARENTA) SALÁRIOS MÍNIMOS.
+1. A Segunda Seção pacificou o entendimento de que a remuneração protegida pela regra da impenhorabilidade é a última percebida - a do último mês vencido - e, mesmo assim, sem poder ultrapassar o teto constitucional referente à remuneração de Ministro do Supremo Tribunal Federal. Após esse período, eventuais sobras perdem tal proteção.
+2. É possível ao devedor poupar valores sob a regra da impenhorabilidade no patamar de até quarenta salários mínimos, não apenas aqueles depositados em cadernetas de poupança, mas também em conta-corrente ou em fundos de investimento, ou guardados em papel-moeda.
+3. Admite-se, para alcançar o patamar de quarenta salários mínimos, que o valor incida em mais de uma aplicação financeira, desde que respeitado tal limite.
+4. Embargos de divergência conhecidos e providos.
+(EREsp n. 1.330.567/RS, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 10/12/2014, DJe 19/12/2014.)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. IMPENHORABILIDADE. ARTIGO 649, IV e X, DO CPC. FUNDO DE INVESTIMENTO. POUPANÇA. LIMITAÇÃO. QUARENTA SALÁRIOS MÍNIMOS. PARCIAL PROVIMENTO.
+1. A remuneração a que se refere o inciso IV do art. 649 do CPC é a última percebida, no limite do teto constitucional de remuneração (CF, art. 37, XI e XII), perdendo esta natureza a sobra respectiva, após o recebimento do salário ou vencimento seguinte. Precedente.
+2. O valor obtido a título de indenização trabalhista, após longo período depositado em fundo de investimento, perde a característica de verba salarial impenhorável (inciso IV do art. 649). Reveste-se, todavia, de impenhorabilidade a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel-moeda; em conta-corrente;
+aplicada em caderneta de poupança propriamente dita ou em fundo de investimentos, e ressalvado eventual abuso, má-fé, ou fraude, a ser verificado caso a caso, de acordo com as circunstâncias da situação concreta em julgamento (inciso X do art. 649).
+3. Recurso especial parcialmente provido.
+(REsp n. 1230060/PR, Relatora Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 13/8/2014, DJe 29/8/2014)
+Ante o exposto, DOU PROVIMENTO ao recurso especial, para reconhecer que o limite de impenhorabilidade de 40 (quarenta) salários mínimos se refere a todas as aplicações financeiras da recorrente, não apenas à poupança, determinando a remessa dos autos à origem para nova análise da questão de acordo com o entendimento firmado na jurisprudência desta Casa.
+Publique-se e intimem-se.
