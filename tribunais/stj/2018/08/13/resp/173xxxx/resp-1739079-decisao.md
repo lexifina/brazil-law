@@ -1,0 +1,34 @@
+EMENTA
+PENAL. RECURSO ESPECIAL. LATROCÍNIO. ROUBO. PLEITO DE RECONHECIMENTO DO INSTITUTO DA CONTINUIDADE DELITIVA. IMPOSSIBILIDADE. BENS JURÍDICOS TUTELADOS DIFERENTES. PRECEDENTES. SUMULA N. 568/STJ. INCIDÊNCIA. RECURSO ESPECIAL DESPROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra o v. acórdão prolatado pelo eg. Tribunal de Justiça estadual.
+O MM. Juízo de primeiro grau condenou o ora recorrido como incurso nas sanções do art. 157, § 2º, incisos I e II, c.c. o artigo 14, inciso II, ambos do Código Penal, à pena de 01 (um) ano e 10 (dez) meses de reclusão, em regime inicial aberto (fls. 328-333).
+Irresignados, a acusação e a Defesa interpuseram recursos de apelação criminal, com vistas à reforma da sentença recorrida. No Tribunal de origem, o recurso do Parquet foi provido, para condenar o recorrido também como incurso nas sanções do art. 157, § 3º, nos termos do art. 71, caput, ambos do Código Penal, ao passo que o recurso defensivo também foi parcialmente provido para reduzir o patamar de aumento pelas majorantes para 1/3 (um terço) (fls. 436-475).
+Apresentados embargos infringentes e de nulidade, o eg. Tribunal a quo, por maioria de votos, desproveu o recurso (fls. 517-542).
+Nas razões do recurso especial, interposto com fulcro na alínea a, do permissivo constitucional, o recorrente sustenta a ocorrência de violação ao 157, caput, e § 2º, incisos I e II, e § 3º, e aos artigos 69, caput, e 71, caput, todos do Código Penal. Para tanto, argumenta que:
+a) "o v. acórdão impugnado reconheceu de ofício a continuidade dleitiva entre os crimes de roubo majorado e latrocínios consumado e tentado, ao argumento de que o roubo e latrocínio são crimes da mesma espécie" (fl. 553).
+b) " ..  não é possível o reconhecimento da continuidade delitiva entre os crimes de roubo e latrocínio, já que não são delitos da mesma espécie, conforme exige expressamente o artigo 71 do CP" (fl. 565).
+Apresentadas as contrarrazões (fls. 579-583), o recurso foi admitido na origem (fls. 585-589) e os autos ascenderam a este Superior Tribunal de Justiça.
+O Ministério Público Federal, em seu d. parecer, manifestou-se pelo provimento do recurso especial (fls. 606-616).
+É o relatório.
+Decido.
+O recurso merece prosperar.
+O eg. Colegiado a quo, julgar a apelação criminal ali interposta pela Defesa, no que importa ao caso, consignou, verbis:
+"Deve-se atentar para o fato de que a denúncia foi imputada em face do ora acusado pela prática de um crime de latrocínio consumado e dois latrocínios tentados, em concurso formal, e de um roubo circunstanciado em concurso material.
+Vislumbra-se na hipótese que o acusado em comunhão de ações e desígnios com outros indivíduos não identificados, mediante mais de uma ação praticou um crime de latrocínio consumado e dois latrocínios tentados e uma tentativa de roubo circunstanciado, em condições de tempo, lugar e maneira semelhantes, ou seja, o acusado praticou crimes da mesma espécie, devendo, portanto, ser reconhecida a continuidade delitiva e não o concurso de crimes, sob pena de incidir em evidente bis in idem.
+Desta forma, praticando o acusado os crimes de latrocínio e roubo, inegável a subsunção a regra do artigo 71 do Código Penal, vejamos:  .. " (fls. 460-467, grifei).
+Dá análise dos excertos acima transcritos, mostra-se incorreto o v. acórdão objurgado, tendo em vista que não se encontra em consonância com o entendimento estabelecido nesta Corte Superior de Justiça, no sentido de que "É assente nesta Corte o entendimento no sentido de que não é possível o reconhecimento da continuidade delitiva entre os crimes de roubo e latrocínio pois, apesar de se tratarem de delitos do mesmo gênero, não são da mesma espécie" (HC n. 297.632/RJ, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 21/5/2015).
+Nesse sentido, ilustrativamente:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. LATROCÍNIO. NULIDADE. DEFESA TÉCNICA INSUFICIENTE. AUSÊNCIA DE DEMONSTRAÇÃO DO PREJUÍZO. CONTINUIDADE DELITIVA. NATUREZA DISTINTA DELITOS. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. COAÇÃO MORAL. DOSIMETRIA. INOCORRÊNCIA.
+II - Não há como reconhecer a continuidade delitiva entre os crimes de roubo e o de latrocínio porquanto são delitos de espécies diversas, já que tutelam bens jurídicos diferentes.
+ ..
+Agravo interno desprovido." (AgInt no AREsp n. 908.786/PB, Quinta Turma, de minha relatoria, DJe de 14/12/2016, grifei).
+"PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CONHECIMENTO DO WRIT. CRIMES DE LATROCÍNIOS TENTADOS E ROUBO CONSUMADO. DESCLASSIFICAÇÃO DOS DELITO DE LATROCÍNIO TENTADOS PARA ROUBO. PRESENÇA DE DOLO TANTO NA SUBTRAÇÃO QUANTO NO RESULTADO MORTE. VÍTIMAS ILESAS. IRRELEVÂNCIA. PLEITO DE APLICAÇÃO DA CONTINUIDADE DELITIVA ENTRE OS CRIMES DE LATROCÍNIO E ROUBO. DELITOS DE ESPÉCIES DISTINTAS. MODOS DE EXECUÇÃO E BENS JURÍDICOS DIVERSOS. REQUISITOS LEGAIS NÃO PREENCHIDOS. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. Nos termos da jurisprudência desta Corte, os crimes de roubo e latrocínio, conquanto sejam do mesmo gênero, são de espécies diversas, razão pela qual não há falar em crime continuado, o qual pressupõe, dentre os seus requisitos, a utilização de um mesmo modo de execução, o que não ocorre entre delitos que atentam contra diferentes objetividades jurídicas, quais sejam: patrimônio e integridade física (roubo) e patrimônio e vida (latrocínio). Precedentes.
+4. Habeas corpus não conhecido." (HC n. 212.430/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 15/9/2015, grifei).
+Assim, considerando que o acórdão recorrido não está em conformidade com a jurisprudência desta Corte Superior de Justiça acerca do tema, incide, in casu, a Súmula n. 568/STJ, que assim dispõe, verbis:
+"O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Como bem mencionado pelo d. representante do Ministério Público Federal, em seu parecer: "conforme a jurisprudência dessa Corte, não é possível a aplicação da continuidade delitiva entre os delitos de roubo e latrocínio, tendo em vista a proteção a bens jurídicos diversos" (fl. 613). E acrescenta, verbis: "o recurso ministerial deve ser provido a fim de que seja afastada a regra do art. 71 do CP entre os delitos de roubo e latrocínio, aplicando-se a regra do concurso material (art. 69 do CP), com remessa dos autos ao Tribunal de origem para realizar nova dosimetria da pena" (fl. 615).
+Ante o exposto, com fulcro no art. 255, § 4º, III, do Regimento Interno do STJ, acolho o parecer ministerial e dou provimento ao recurso especial, para cassar o acórdão recorrido e determinar que outro seja proferido, com o afastamento do instituto da continuidade delitiva e, por conseguinte, com novo cálculo da pena.
+P. e I.
