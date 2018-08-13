@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) contra decisão que negou seguimento ao recurso especial por incidência da Súmula n. 284 do STF (e-STJ fls. 306/310).
+O acórdão recorrido está assim ementado (e-STJ fl. 227):
+AGRAVO DE INSTRUMENTO - EXECUÇÃO PARA ENTREGA DE COISA CONVERTIDA EM QUANTIA CERTA - DEDUÇÃO DOS VALORES REFERENTES AO FUNRURAL E AO FETHAB - IMPOSSIBILIDADE - INOCORRÊNCIA DO FATO GERADOR CONSISTENTE NA ENTREGA DA MERCADORIA - MULTA COMINATÓRIA (CPC, ART. 621) QUE NÃO SE CONFUNDE COM A MULTA MORATÓRIA (CDC, ART. 52, § 1º) - DECISÃO MANTIDA - RECURSO DESPROVIDO. 1. Verificada a ausência do fato gerador dos tributos concernentes ao FUNRURAL e ao FETHAB, qual seja, a efetiva entrega da mercadoria, a dedução de seus respectivos valores do débito executado não é devida. (TJMT, Quinta Câmara Cível, Ap 134441/2013, Rel. Des.a Cleuci [NOME], Julgado em 19/03/2014, DJE 27/03/2014). 2. Há diferença entre multa cominatória (CPC, art. 621) e multa moratória (CDC, art. 52, §1º), sendo a primeira de cunho coercitivo para estimular o executado a entregar a coisa em Juízo, e que pode ser aplicada no caso de descumprimento da ordem judicial, ao passo que a multa do art. 52, § 1º, do CDC, é de natur eza moratória e decorre do inadimplemento da obrigação contratual.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 254/260).
+No especial (e-STJ fls. 263/272), fundamentado no art. 105, III, "a", da CF, os recorrentes alegaram afronta ao art. 535 e 586 do CPC/1973 por negativa de prestação jurisdicional. Sustentou que o "RECORRIDO deveras concordou com a glosa dos valores pertinentes aos descontos fiscais (FETHAB e FUNRZURAL), para além das despesas de FRETE e, se fora ele próprio quem declinou ser a cotação (menor) e correta, porque assim constante do contrato, na PRAÇA adotada (SINOP-MT), ao invés daquela outra imposta (SORRISO-MT)" (e-STJ fl. 266).
+No agravo (e-STJ fls. 313/325), afirmam a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada pela parte recorrida (e-STJ fls. 330/350).
+É o relatório.
+Decido.
+Não há falar em contrariedade ao art. 1.022 do CPC/2015.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 229/230):
+Os agravantes pedem que o cálculo da dívida exequenda seja refeito, com utilização da cotação da saca de soja vigente na cidade de Itaúba/MT, mas, asseveram que "pende idêntica discussão em sede de embargos à execução ainda não apreciados" (sic - cf. fls. 12). Na verdade, a questão não foi analisada e decidida pela decisão agravada, e, sendo assim, a apreciação da matéria pelo Tribunal caracterizará ofensa ao princípio do duplo grau de jurisdição por nítida supressão de instância.
+No tocante aos abatimentos pretendidos, referentes ao FUNRURAL - Fundo de Assistência ao Trabalhador Rural, e ao FETHAB - Fundo Estadual de Transporte e Habitação, é sabido que referidas contribuições incidem sobre a receita bruta proveniente da comercialização de produtos rurais, e têm como fato gerador a efetiva entrega da mercadoria.
+No caso, porém, não ocorreu o fato gerador de tais tributos, qual seja, a efetiva entrega da mercadoria, razão pela qual os referidos descontos realmente não se mostram devidos.
+O Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos. Ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação do referido dispositivo e o conhecimento do recurso especial nessa parte.
+Por outro lado, os recorrentes limitam-se a tecer considerações genéricas, não esclarecendo, a contento, o motivo que os fizeram concluir pelo desrespeito ao art. 586 do CPC/1973. Incidente, portanto, a Súmula n. 284 do STF por deficiência na fundamentação recursal.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
