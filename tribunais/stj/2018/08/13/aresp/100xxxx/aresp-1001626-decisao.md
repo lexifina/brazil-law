@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo de [NOME] VIANA contra decisão que inadmitiu o recurso especial interposto com fulcro no art. 105, III, alínea "a", da Constituição Federal.
+Consta dos autos que o agravante, junto com o corréu MÁRCIO PEREIRA DOS SANTOS, foi condenado pela prática do delito tipificado no art. 157, § 2º, I e II, do Código Penal (roubo qualificado), às penas de 7 anos, 7 meses e 18 dias de reclusão, em regime semiaberto, e ao pagamento de 101 dias-multa, conforme a sentença às fls. 426-444.
+Irresignada, a defesa do agravante interpôs recurso de apelação, no qual se buscou a absolvição por insuficiência de provas, revogação da prisão preventiva, a redução da reprimenda básica e da fixada na segunda fase pela reincidência, o afastamento da majorante do uso de arma de fogo.
+O Tribunal de origem deu parcial provimento ao recurso, em acórdão assim ementado:
+PENAL. PROCESSUAL PENAL. APELAÇÃO. ROUBO A AGÊNCIA DOS CORREIOS MEDIANTE USO DE ARMA DE FOGO E CONCURSO DE PESSOAS. ART. 157, § 2º, I E II, DO CÓDIGO PENAL. NULIDADE NÃO VERIFICADA. AUTORIA E MATERIALIDADE COMPROVADAS. DOSIMETRIA PARCIALMENTE REFORMULADA. EXCLUSÃO DO VALOR DESTINADO À REPARAÇÃO DOS DANOS.
+1. A análise única das condutas dos réus com identidade de fundamentos não afasta o caráter individualizado da dosimetria, já que as circunstâncias fáticas em que praticado o delito são semelhantes. Nulidade afastada.
+2. Materialidade e autoria do delito de roubo circunstanciado comprovadas nos autos. O robusto conjunto probatório colhido durante a instrução criminal comprova a responsabilidade dos acusados pela prática de delito de roubo contra agência dos Correios, mediante uso de arma de fogo e concurso de pessoas.
+3. Pena base fixada em patamar razoável e proporcional às duas circunstâncias judiciais desfavoráveis aos réus.
+4. Em observância ao art. 67 do Código Penal e à luz de posição jurisprudencial dominante no Supremo Tribunal Federal, deve prevalecer a agravante de reincidência, que prepondera sobre a atenuante de confissão espontânea. Impossibilidade de compensação.
+5. O regime prisional semiaberto não é incompatível com a proibição de recorrer em liberdade, já que os réus permaneceram presos durante toda a instrução processual e subsistem os pressupostos que justificaram a prisão preventiva.
+6. Dosimetria reformulada para reduzir a pena de um dos réus e excluir da condenação o montante fixado para os acusados a título de reparação dos danos nos termos do art. 387, IV, do Código de Processo Penal, tendo em vista a ausência de pedido formal nos autos.
+7. Apelações parcialmente providas (fl. 579).
+Em sede de recurso especial (fls. 585/589), a defesa sustenta violação dos arts. 68 e 157, § 2º, I e II, do Código Penal, sob o argumento de que o aumento da pena em 2/5, por força das majorantes, carece de justificativa idônea.
+Assevera que para "aplicação da causa de aumento em patamar superior é necessário apurar a gravidade do meio empregado na empreitada delitiva" (fl. 588), em conformidade com o disposto na Súmula n. 443 do STJ.
+A r. decisão agravada inadmitiu o recurso especial, haja vista a incidência da súmula n. 7/STJ.
+Contraminuta às fls. 671-681.
+O Ministério Público Federal opinou pelo desprovimento do agravo (fls. 695-700).
+É o relatório. Decido.
+Inicialmente, não conheço do segundo recurso especial interposto (fls. 591-597), pois esta Corte possui entendimento pacífico no sentido de que a interposição de dois recursos pela mesma parte contra a mesma decisão inviabiliza o exame daquele que tenha sido protocolizado por último, em razão da ocorrência de preclusão consumativa e ante a aplicação do princípio da unirrecorribilidade das decisões.
+No presente caso, foi interposto um primeiro recurso pela Defensoria Pública da União (fls. 585-589), e um segundo recurso também pela Defensoria Pública da União, razão pela qual deste último não se conhece.
+A respeito:
+AGRAVO REGIMENTAL EM DUPLICIDADE. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. NÃO CONHECIMENTO.
+1. No caso de interposição de dois recursos pela mesma parte e contra a mesma decisão, tem-se que apenas o primeiro poderá ser submetido à análise, em face da preclusão consumativa e do princípio da unicidade recursal, que proíbe a interposição simultânea de mais de um recurso contra a mesma decisão judicial.
+2. Agravo regimental não conhecido (AgRg no AgRg no AREsp 453.520/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 16/12/2015).
+Passo ao exame do recurso especial de fls. 585/589, que merece provimento.
+Com efeito, a Corte de origem fundamentou o quantum de majoração da pena com base apenas no número de circunstâncias praticadas. Tal entendimento contraria a orientação sumulada por esta Corte segundo a qual o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes (Enunciado n. 443 da Súmula/STJ).
+A propósito, colacionam-se os seguintes precedentes a mero título de amostragem:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DOSIMETRIA DA PENA. ROUBO. AUMENTO NA TERCEIRA FASE DA DOSIMETRIA. SÚMULA N. 443/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. É pacífico o entendimento desta Corte de que, para a elevação da pena em fração superior a 1/3, na terceira fase da dosimetria da pena, no crime de roubo, é insuficiente a menção ao número de majorantes, sendo indispensável motivação concreta, calcada nas características do delito, tanto que foi editada a Súmula 443/STJ, segundo a qual o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes.
+2. No caso, as instâncias ordinárias aplicaram o critério quantitativo e não apontaram nenhum elemento dos autos que, efetivamente, evidenciasse real necessidade de exasperação da pena acima do patamar mínimo (1/3), na terceira fase da dosimetria, valendo destacar que o modus operandi foi considerado na primeira fase, o que resultou no aumento da pena-base.
+3. Agravo Regimental desprovido (AgRg no REsp 1.581.751/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 5/12/2016)
+PROCESSO PENAL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL OFERECIDO EXTEMPORANEAMENTE. PRAZO DE 5 DIAS NÃO OBSERVADO. ART. 28 DA LEI N. 8.028/1990. SÚMULA 699/STF. JULGAMENTO DA QO NO ARE N. 639.846/SP PELO STF. ROUBO CIRCUNSTANCIADO. TERCEIRA FASE DA DOSIMETRIA. FUNDAMENTAÇÃO GENÉRICA. ILEGALIDADE MANIFESTA. SÚMULA 443/STJ.
+1. Consoante orientação desta Corte Superior, em se tratando de agravo contra decisão que negou seguimento a recurso especial criminal, o prazo para a sua interposição é de 5 dias, de acordo com o art. 28, caput, da Lei n. 8.038/1990 e com a Súmula 699/STF.
+2. Na hipótese, apesar de a parte defender a tempestividade do recurso, verifica-se que a decisão de inadmissibilidade recursal foi considerada publicada no dia 8/9/2015; porém, conforme se extrai dos autos, a interposição do agravo em recurso especial só se deu no dia 23/9/2015, sendo, portanto, manifestamente intempestiva.
+3. O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes. Súmula 443/STJ. Precedentes.
+4. Agravo regimental improvido. Habeas corpus concedido de ofício (AgRg nos EDcl no AREsp 835.952/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 4/11/2016)
+Desse modo, forçoso concluir pela necessidade da reforma do acórdão para reduzir a exasperação das penas na terceira fase para o patamar mínimo de 1/3 (um terço).
+Passo ao redimensionamento da penas:
+Na primeira fase da dosimetria, ante o provimento do recurso especial do corréu MÁRCIO PEREIRA DOS SANTOS, concedo a ordem de ofício no ponto, para fixar a pena-base no patamar proporcional de 4 (quatro) anos e 2 (dois) meses de reclusão.
+Na segunda fase, ausentes atenuantes e presente a agravante da reincidência específica, aplico a mesma fração de 1/4 estabelecida no acórdão e fixo a pena em 5 (cinco) anos e 2 (dois) meses e 12 dias de reclusão.
+Na terceira etapa, diante das majorantes, aumento a pena em 1/3, resultando a pena definitiva em 6 (seis) anos, 11 (onze) meses e 10 (dez) dias de reclusão, e pagamento de 16 dias-multa. Mantidos os demais termos do acórdão.
+Ante o exposto, com fundamento no art. 932, inc. V, alínea "a", do Código de Processo Civil c/c o art. 3.º do Código de Processo Penal, dou provimento ao recurso especial para reduzir a pena do recorrente, nos termos da fundamentação supra, e com fundamento no art. 932, inc. III, do Código de Processo Civil, não conheço do segundo recurso especial interposto.
+Publique-se. Intimem-se.
