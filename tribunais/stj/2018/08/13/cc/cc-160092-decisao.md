@@ -1,0 +1,35 @@
+DECISÃO
+Relatório.
+Cuida-se de conflito negativo de competência estabelecido entre o Juízo de Direito da 7.ª Vara da Fazenda Pública da Comarca de Salvador, BA (suscitante) e o Juízo da 9.ª Vara do Trabalho de Salvador, BA (suscitado).
+Consta destes autos, às fls. 1.830 e 1.831, que o Juízo Laboral, por ocasião do julgamento dos embargos à execução opostos pelo Estado da Bahia, no curso da ação trabalhista ajuizada em 31 de janeiro de 1994, por [NOME] e outros, declarou, de ofício, a incompetência da Justiça Obreira, por entender que, ".. com a promulgação da Lei Estadual n. 6.677, de 26/09/1994, a relação jurídica tornou-se estatutária, afastando, assim a competência desta Justiça Especializada para prosseguir na cobrança dos valores apresentados pelos acionantes" (fl. 1.830).
+Por conta dessa decisão, os autos foram remetidos à 7.ª Vara da Fazenda Pública da Comarca de Salvador que, por igual, se deu por incompetente, firme em que "os servidores contrados sob o regime da CLT devem ser julgados pela Justiça Especializada do Trabalho" (fl. 1.880).
+Esta a razão pela qual apresenta à esta Corte Superior o presente conflito de competência.
+Decisão.
+Porque presente a condição prevista no art. 66, II, do CPC, bem como satisfeita a exigência inserta no art. 954 do diploma processual com as peças apresentadas, conheço do conflito.
+No mérito, cabe examinar a qual juízo compete executar a sentença de fls. 1.108 a 1.110, proferida em 3 de junho de 1994, pela Justiça do Trabalho.
+Respeitadas as inerentes singularidades, esta Corte, ao se deparar com teses análogas, tem firmado diretrizes úteis para o desate de casos como o ora examinado. Refiro-me, dentre outros, aos precedentes assim ementados:
+PROCESSO CIVIL. COMPETÊNCIA. EXECUÇÃO DE HONORÁRIOS EM FAVOR DO INSS. TÍTULO EXECUTIVO JUDICIAL FORMADO NO JUIZADO ESPECIAL FEDERAL CÍVEL. FASE DE CUMPRIMENTO DA SENTENÇA NO JUIZADO.
+1. Ao executar as suas próprias sentenças, o Juizado Especial Federal Cível observa regra de competência funcional absoluta.
+2. A sentença proferida no Juizado Especial Federal Cível não precisa de um processo autônomo para sua efetivação, mas tão-somente que seja instaurada uma nova fase no processo já em curso.
+3. A mera inauguração da fase de cumprimento de sentença por ente público federal não tem o condão de tornar incompetente o Juizado Especial Federal Cível que proferiu a decisão exequenda.
+4. Impor ao ente público a obrigação de ajuizar ação autônoma perante a Justiça Federal para executar os honorários advocatícios arbitrados pelo Juizado Especial Federal Cível, parece violar a garantia constitucional da economia e celeridade processual (artigo 5º, inciso LXXVIII, da Constituição Federal).
+5. Conflito conhecido para determinar a competência do Juizado Especial Federal de Santa Cruz do Sul/RS, o suscitante, para proceder à execução dos honorários advocatícios que arbitrou em prol de ente público federal.
+(CC 74.992/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, DJe 04/06/2009)
+CONFLITO DE COMPETÊNCIA. CONTRIBUIÇÃO SINDICAL. SENTENÇA DE EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO PROFERIDA EM 2001. TRÂNSITO EM JULGADO. EXECUÇÃO DE HONORÁRIOS ADVOCATÍCIOS. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. Trata-se de conflito suscitado nos autos de ação de cobrança de contribuição sindical. O Juízo de Direito extinguiu o processo sem resolução do mérito em 2001, condenando a vencida ao pagamento de custas e honorários, tendo a sentença transitado em julgado no mesmo ano. A controvérsia diz respeito à competência para a execução dos valores fixados a título de verba honorária.
+2. Conforme a jurisprudência do Supremo Tribunal Federal e desta Corte Superior, as modificações promovidas pela EC 45/2004 devem ser aplicadas imediatamente às hipóteses em que esteja pendente o julgamento do mérito.
+3. In casu, embora se trate de ação de cobrança relativa a contribuição sindical em que não houve resolução do mérito, a presente demanda deve permanecer sob a jurisdição da Justiça Comum. Isso, porque não está em discussão qualquer matéria que se enquadre nas hipóteses previstas no art. 114 da Constituição Federal, já que as questões meritórias não mais poderão ser analisadas em razão de a sentença terminativa ter transitado em julgado. Busca-se apenas o recebimento de honorários fixados pelo Juízo de Direito que, à época, era o competente para o exame da controvérsia. Não existe, portanto, razão para que a demanda seja remetida à Justiça do Trabalho, cabendo à Justiça Estadual executar suas próprias sentenças.
+4. Conflito conhecido para declarar a competência do Juízo de Direito da Vara Cível da Comarca de Santa Adélia/SP, o suscitado.
+(CC 72.454/SP, Rel. Ministra DENISE ARRUDA, PRIMEIRA SEÇÃO, DJe 30/06/2008)
+PROCESSUAL CIVIL - CONFLITO DE COMPETÊNCIA - EMBARGOS DE TERCEIRO OPOSTOS EM EXECUÇÃO DE SENTENÇA TRABALHISTA - COMPETÊNCIA DA JUSTIÇA DO TRABALHO - INTERPRETAÇÃO DOS ARTS. 109 E 114 DA CONSTITUIÇÃO FEDERAL E DOS ARTS. 108 E 575, II, DO CPC.
+1. De acordo com o art. 114, caput, da CF/88, na redação anterior à dada pela Emenda Constitucional 45/2004, competia à Justiça do Trabalho apreciar os litígios que tivessem "origem no cumprimento de suas próprias sentenças, inclusive coletivas".
+2. Com a nova redação, muito embora suprimida tal expressão do texto do art. 114, é possível definir-se a competência da Justiça do Trabalho pela interpretação dos seus novos incisos I e IX, bem como pelas regras definidoras de competência previstas nos arts. 108 e 575, II, do CPC, de aplicação subsidiária no processo trabalhista (art. 769, da CLT).
+3. Tratando-se de embargos de terceiro opostos pela União para discutir a titularidade de bem objeto de penhora na execução trabalhista, deve-se manter a competência do Juízo do Trabalho, em razão da natureza acessória e secundária dessa lide em relação àquela oriunda do processo principal.
+4. Conflito de competência conhecido para se declarar competente o Juízo Suscitado.
+(CC 55.630/SP, Rel. Ministra ELIANA CALMON, PRIMEIRA SEÇÃO, DJ 29/05/2006)
+Dos julgados acima se extrai, sem grande esforço hermenêutico, as seguintes premissas:
+1. A nova redação dada ao art. 114 da Carta Republicana pela EC n. 45/2004 não excluiu da competência da Justiça Trabalhista a solução de litígios com "origem no cumprimento de suas próprias sentenças, inclusive coletivas".
+2. Transitada em julgado a sentença de mérito, não há razão plausível para modificar a competência durante a execução, até porque a simples inauguração da fase de cumprimento da sentença não torna incompetente o juízo que a proferiu.
+Por essas razões e com fundamento no art. 955, parágrafo único, do CPC, bem como na Súmula 568 do STJ, decido, de plano, o presente conflito para declarar competente o Juízo da 9.ª Vara do Trabalho de Salvador, BA, o suscitado, para que, afastada a alegação de incompetência, prossiga na apreciação dos embargos à execução, decidindo-os como entender de direito.
+Dê-se ciência aos Juízos suscitante e suscitado.
+Publique-se.
