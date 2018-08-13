@@ -1,0 +1,29 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDOR PÚBLICO. PENSÃO POR MORTE. PRESCRIÇÃO DE FUNDO DE DIREITO. TERMO INICIAL. INDEFERIMENTO ADMINISTRATIVO. TESE NÃO PREQUESTIONADA. SÚMULA 211/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJCE, assim ementado (fl. 443):
+AGRAVO REGIMENTAL. PREVIDENCIÁRIO. "G PENSÃO POR MORTE. CÔNJUGE VARÃO. EXIGÊNCIA DE DEMONSTRAÇÃO DE INVALIDEZ. VIOLAÇÃO AO PRINCÍPIO DA ISONOMIA. FILHO MENOR. PAGAMENTO DE PENSÃO ATÉ O LIMITE DE 21 ANOS DE IDADE. POSSIBILIDADE. PRECEDENTES TJ/CE. HONORÁRIOS ADVOCATÍCIOS ESTABELECIDOS CONFORME ART. 20, § 3º E § 4º, CPC. DECISÃO MANTIDA. AGRAVO REGIMENTAL CONHECIDO E NÃO PROVIDO.
+1. Trata-se de Agravo Regimental em face de decisão monocrática da lavra desta Relatoria, que deu parcial provimento ao recurso de apelação cível manejado pelo ente estatal, apenas para redimensionar os honorários advocatícios.
+2. A decisão recorrida, ao dar parcial provimento ao apelo o recursal manejado pelo agravante, reduziu os honorários advocatícios, observando o art. 20, § 3º e § 4º do CPC, fixando-os, inclusive, em valor que o próprio ente estatal entendeu razoável (fl. 174). Desse modo, não merece acolhimento a pretensão estatal em reduzir os honorários advocatícios.
+3. Não se mostra possível a exigência de demonstração de invalidez do cônjuge varão para a percepção da pensão por morte, sob pena de violação do princípio da isonomia. Precedentes TJ/CE.
+4. Quanto ao pagamento da pensão ao filho menor até o limite de 21 (vinte e um) anos de idade, o Colendo Superior Tribunal de Justiça e este Egrégio Tribunal têm sólida jurisprudência no sentido de que, para fins previdenciários, o limite etário do Código Civil pode prorrogar-se até o cômputo dos 21 (vinte e um) anos se a lei à época do fato indicava que a menoridade cessava com referida idade.
+5. Agravo regimental conhecido, porém não provido. Decisão inalterada.
+Embargos de declaração acolhidos sem efeitos modificativos, nos termos da seguinte ementa:
+EMENTA: EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL. PRESCRIÇÃO DO FUNDO DE DIREITO. OMISSÃO NO ACÓRDÃO EMBARGADO. ACLARATÓRIOS ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+1. O art. 535 do CPC dispõe que são cabíveis embargos de declaração quando a decisão for omissa, obscura ou contraditória.
+2. In casu, a matéria relativa à prescrição do fundo de direito, apesar de ter sido apreciada de forma monocrática, não o fora por esta Câmara, no julgamento do agravo regimental antes manejado, motivo pelo qual os aclaratórios merecem ser acolhidos, para integrar o acórdão vergastado com a análise desta matéria.
+3. Em casos como o dos autos (pensão por morte), o Superior Tribunal de Justiça possui precedentes no sentido de reconhecer que a prescrição não atinge o fundo de direito, mas tão somente as parcelas vencidas no quinquênio anterior à propositura da ação. Desse modo, mantém-se incólume a solução dada pelo acórdão embargado.
+4. Embargos de declaração acolhidos, sem efeitos infringentes.
+O recorrente alega violação do art. 3º do Decreto 20.910/1932, ao argumento de que:
+ ..
+o Sr. [NOME] requereu pensão por morte junto ao IPEC, pretensão esta que lhe fora negada ainda no ano de 1997, pois à época, a autarquia estadual entendeu que o citado beneficio somente poderia ser pago aos filhos menores da servidora pública fale- cida. Com efeito, e conforme afirmado na inicial, naquela ocasião, "o ISSEC, então gestor do SUPSEC não reconheceu o direito ao pensionamento do cônjuge supérstite, embora o óbito tenha ocorrido sob a vigência da Constituição Federal de 1988.." (fls. 05)".
+E como o ajuizamento desta ação, visando reverter aquela decisão, somente se dera no ano de 2008, restou atraída a incidência do artigo 1.º do Decreto n.º 20.910/32, que estabelece o prazo prescricional de 05 (cinco) anos para ações que objetivem crédito ou direito contra a Fazenda Pública, seja qual for a sua natureza, a partir do ato ou fato de que se originaram.
+Destarte, a presente demanda não gira em torno de direito já reconhecido, ou situação já consolidada, mas visa o reconhecimento de uma nova situa- ção, qual seja, a de conceder o beneficio de pensão por morte ao autor, estabelecendo uma situação jurídica fundamental entre ele c a Administração. Isto significa que a prescrição não somente atingiu as parcelas sucessivas (vantagem pecuniária) que adviriam da implantação da prestação previdenciária, acaso viesse a ser paga, mas também o próprio fundo de direito, uma vez decorrido o lapso temporal extintivo de sua pretensão.
+ ..
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 377-379.
+É o relatório. Passo a decidir.
+Registre-se, inicialmente, que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+No que se refere a violação ao artigo 3º do Decreto 20.910/1932 e a tese a ele vinculada, no sentido de que o recorrido teria apresentado pedido de concessão de pensão na esfera administrativa em 1997 e entre a data em que indeferido o aludido requerimento e o ajuizamento do presente feito teria decorrido lapso temporal superior a cinco anos, verifica-se que, a despeito da oposição dos embargos de declaração, não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Incide ao caso a Súmula 211/STJ.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
