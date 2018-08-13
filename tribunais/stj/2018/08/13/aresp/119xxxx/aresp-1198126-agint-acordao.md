@@ -1,0 +1,55 @@
+EMENTA
+TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CPC/73. INEXISTÊNCIA.
+I - Não se configura a ofensa ao art. 535 do CPC/73, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+II - Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 1486330/PR, Rel. Ministro Og Fernandes, Segunda Turma, DJe 24/2/2015; AgRg no AREsp 694.344/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 2/6/2015; EDcl no AgRg nos EAREsp 436.467/SP, Rel. Ministro João Otávio De Noronha, Corte Especial, DJe 27/5/2015.
+III - Dessarte, como se observa de forma clara, não se trata de omissão, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da parte recorrente.
+IV - A mera insatisfação com o conteúdo da decisão embargada não enseja embargos de declaração. Esse não é o objetivo dos aclaratórios, recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas que lhe forem trazidos à tutela jurisdicional, no momento processual oportuno, conforme o art. 535 do CPC/73.
+V - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes e Mauro Campbell Marques votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, a Sra. Ministra Assusete Magalhães.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O feito decorre de mandado de segurança impetrado pelo Município de São Gonçalo do Rio Preto/MG contra ato do Gerente Executivo do Instituto Nacional do Seguro Social - INSS, objetivando a declaração da inexigibilidade de contribuição previdenciária referente aos seus servidores ocupantes de cargo efetivo e não efetivo.
+Na primeira instância, os pedidos formulados na inicial foram julgados procedentes, concedendo-se a segurança. No TRF da 1ª Região, a sentença foi parcialmente reformada em acórdão assim ementado:
+TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. CARGOS EFETIVOS, EM COMISSÃO E TEMPORÁRIOS. VINCULAÇÃO Á AUTARQUIA PREVIDENCIÁRIA ESTADUAL RECOLHIMENTO COMPULSÓRIO PARA O REGIME DE PREVIDÊNCIA ESTADUAL DA AUTARQUIA. LIMITES DA EC 20/98. ARTIGO 40, § 13, CF/88.
+1. Por força do artigo 13, da Lei 8.212/1991, o servidor civil ocupante de cargo efetivo ou o militar da União, dos Estados, do Distrito Federal ou dos Municípios, bem como o das respectivas autarquiàs e fundações, são excluídos do Regime Geral de Previdência Social (RGPS); desde que amparados por regime próprio de previdência. Por outro lado, com o advento dá Emenda Constitucional nº 20/98, foi acrescido o § 13, ao artigo 40, da CF/88, que impôs ao servidor ocupante, exclusivamente, de cargo em comissão (declarado em lei de livre nomeação e exoneração), bem como de outro cargo temporário ou de emprego público, a vinculação obrigatória ao Regime Geral de Previdência Social (RGPS).
+2. Em sede de controle de. constitucionalidade, o Supremo Tribunal Federal, no julgamento da ADIn nº 2.024, proferido com eficácia erga omnes e efeito vinculante, sedimentou o entendimento no sentido de que o § 13, artigo 40, CF/88 (inserido pela EC nº 20/98) é perfeitamente compatível com a vigente ordem constitucional, notadamente com forma federativa de Estado e correspondente princípio da imunidade recíproca (ADI 2024, Relator: Min. Sepúlveda Pertence, Tribunal Pleno; julgado em 03/05/2007, D,Je-042, publicado em 22-06-2007, DJ"22-06-2007, pág. 00016"EMENTVOL-O2281--O1 PP-00128 RDDTn; 143, 2007, p. 230-231)..
+3. Na hipótese dos presentes autos, a conclusão que se impõe é no sentido de que, em relação aos ocupantes de cargo efetivo, a contribuição previdenciária era devida ao INSS até a data da celebração do convênio entre Município e IPSEMG, data a partir da qual o tributo deveria ser recolhido ao regime previdenciário próprio. Por outro lado, os: não ocupantes de cargo efetivo deveriam recolher a contribuição em questão, ao IPSEMG, no período situado entre a data do convênio e a data da vigência da EC 20/98, sendo que, no período anterior ao convênio e posterior ao advento da EC 20/98, a contribuição é devida ao INSS.
+4. Precedentes desta Corte Regional:"AMS 1999.38.03.004219-2/MG, Rel. Desembargador Federal Luciano Tolentino Amaral, Sétima Turma, e-DJF1 p.3"87 de 09/1.0/2009; AMS 0031780-02.2005.4.01.3400/DF, Rel. Desembargador. Federal Catão Alves, Sétima Turma,e-DJF1 p.156. de 05/11/2010; AC 0014839-06.2007.4.01.3400/DF, Rel. Desembargador Federal Reynaldo Fonseca Sétima Turma, e-DJF1 p.675 de 30/09/2011.
+5. Remessa oficial e apelação parcialmente providas.
+Opostos embargos de declaração, foram rejeitados.
+A União interpôs recursos extraordinário e especial. Esse último foi com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, por ofensa aos arts. 458 e 535 do CPC/73; ao art. 2º da Lei n. 3.807/60, com redação dada pela Lei n. 5.890/73; ao art. 13 da Lei n. 8.212/91; aos arts. 1º e 12 da Lei n. 8.213/91; e ao art. 9.717/98.
+A parte recorrente alega que o Tribunal de origem teria sido omisso quanto a sua alegação de que o regime próprio do município é inválido.
+Aduz que, apesar de ter sido instituído regime próprio de previdência, o convênio firmado pelo município e as leis autorizadoras do município não garantiram a prestação integral de aposentadorias e pensões conforme determina o art. 40 da Constituição Federal. Assim, argumenta que o regime próprio é inválido, razão pela qual os servidores do município estariam obrigatoriamente vinculados ao Regime Geral de Previdência Social.
+Não foram apresentadas contrarrazões ao recurso especial.
+A decisão monocrática tem o seguinte dispositivo:"Ante o exposto, com fundamento no art. 253, parágrafo único, inciso II, alínea a, do RISTJ, conheço do agravo em recurso especial para não conhecer do recurso especial. ".
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão recorrida.
+A parte agravada foi intimada para apresentar impugnação ao recurso.
+É relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso de agravo interno não merece provimento.
+Nos termos do enunciado n. 568 da Súmula desta Corte Superior e do art. 255, § 4º, inciso III, do RISTJ, o relator está autorizado a decidir monocraticamente quando houver jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça. Assim, não há que se falar em ilegalidade relativamente a este ponto.
+A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida.
+Sem razão a parte agravante.
+Não se configura a ofensa ao art. 535 do CPC/73, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 1486330/PR, Rel. Ministro Og Fernandes, Segunda Turma, DJe 24/2/2015; AgRg no AREsp 694.344/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 2/6/2015; EDcl no AgRg nos EAREsp 436.467/SP, Rel. Ministro João Otávio De Noronha, Corte Especial, DJe 27/5/2015.
+Dessarte, como se observa de forma clara, não se trata de omissão, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da parte recorrente.
+A mera insatisfação com o conteúdo da decisão embargada não enseja embargos de declaração. Esse não é o objetivo dos aclaratórios, recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas que lhe forem trazidos à tutela jurisdicional, no momento processual oportuno, conforme o art. 535 do CPC/73.
+No mesmo sentido, destacam-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO ESTADUAL. VIOLAÇÃO AO ARTIGO 535 DO CPC/1973. AUSÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. OFENSA A DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE DE ANÁLISE NA VIA RECURSAL ELEITA. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. COISA JULGADA. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO AUTÔNOMO. FUNDAMENTAÇÃO DEFICIENTE. ÓBICES DAS SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há violação do art. 535, inc. II, do CPC/1973 quando o aresto recorrido adota fundamentação suficiente para dirimir a controvérsia, sendo desnecessária a manifestação expressa sobre todos os argumentos apresentados pelos litigantes.
+2. O Superior Tribunal de Justiça não tem a missão constitucional de interpretar dispositivos da Lei Maior, cabendo tal dever ao Supremo Tribunal Federal.
+3. A ausência de impugnação de fundamento autônomo apto, por si só, para manter o acórdão recorrido, atrai o disposto na Súmula n. 283/STF.
+4. A simples alegação de violação genérica de preceitos infraconstitucionais, desprovida de fundamentação que demonstre de que maneira eles foram violados pelo Tribunal de origem, não é suficiente para fundar recurso especial, atraindo a incidência da Súmula n. 284/STF.
+5. Agravo interno não provido.
+(AgInt no AREsp 960.685/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 15/12/2016, DJe 19/12/2016)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. OFENSA AO ART. 535 DO CPC. REQUISITOS PARA RECONHECER A OMISSÃO. QUESTÃO NÃO RELEVANTE. AUSÊNCIA DE OMISSÃO. ART. 485, V, DO CPC/73. VIOLAÇÃO A LITERAL DISPOSITIVO DE LEI. ARTIGO NÃO INDICADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA Nº 284/STF. DECISÃO MANTIDA.
+1. Para configurar omissão, é necessária a presença cumulativa dos seguintes requisitos: a) o Tribunal de origem não tenha se pronunciado sobre o tema; b) tenham sido opostos embargos de declaração; c) tenha sido a questão levantada nas razões ou contrarrazões do agravo de instrumento ou da apelação; e d) seja relevante para o deslinde da controvérsia.
+2. Ausente relevância, à luz do caso concreto, da matéria tida por não apreciada, afasta-se a alegada omissão.
+3. A suposta violação ao art. 485, V, do CPC/73, por violação a literal dispositivo de lei, exige seja declinado no recurso especial especificamente qual o artigo de lei que supostamente daria azo à rescisória, sob pena de deficiência na fundamentação, a ensejar a incidência da Súmula nº 284/STF.
+4. Agravo interno não provido.
+(AgInt no REsp 1498690/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/03/2017, DJe 20/03/2017)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
