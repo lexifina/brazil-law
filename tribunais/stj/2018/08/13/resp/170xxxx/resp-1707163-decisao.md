@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de recurso especial (CPC/2015, art. 1.029) interposto contra acórdão do TJRJ que negou provimento ao agravo regimental assim ementado (e-STJ fl. 55):
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO TITULO EXTRAJUDICIAL. DETERMINAÇÃO DE PENHORA DE 30% DOS PROVENTOS LÍQUIDOS DO EXECUTADO. IMPENHORABILIDADE DE RENDIMENTOS (ART. 833, IV, DO CPC) QUE NÃO MAIS SE REVESTE DE CARÁTER ABSOLUTO, SENDO POSSÍVEL A CONSTRIÇÃO DESDE QUE RESPEITADO O LIMITE DE 30%. DESPROVIMENTO DO RECURSO DE AGRAVO DE INSTRUMENTO. AGRAVO INTERNO DESPROVIDO.
+Nas razões do recurso especial (e-STJ fls. 63/72), interposto com base no art. 105, III, "a" e "c" da CF, o recorrente aponta, além de divergência jurisprudencial, violação do art. 833, IV, do CPC/2015, pois a penhora de 30% (trinta por cento) de seus proventos previdenciários para satisfação de dívida bancária sem caráter alimentício seria ilegal, em virtude de o recorrente figurar como corresponsável em função do aval concedido.
+Não foram apresentadas contrarrazões (e-STJ fl. 102).
+O recurso especial foi admitido na origem (e-STJ fls. 134/136).
+É o relatório.
+Decido.
+Segundo entendimento firmado nas Turmas da Segunda Seção do STJ, "em situações excepcionais, admite-se a relativização da regra de impenhorabilidade das verbas salariais prevista no art. 649, IV, do CPC/73, a fim de alcançar parte da remuneração do devedor para a satisfação de crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência digna e a de sua família" (REsp n. 1.673.067/DF, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 12/9/2017, DJe 15/9/2017).
+Na mesma linha: "A regra geral da impenhorabilidade dos valores depositados na conta bancária em que o executado recebe a sua remuneração, situação abarcada pelo art. 649, IV, do CPC/73, pode ser excepcionada quando o montante do bloqueio se revele razoável em relação à remuneração por ele percebida, não afrontando a dignidade ou a subsistência do devedor e de sua família" (AgInt no REsp n. 1.518.169/DF, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 13/6/2017, DJe 22/6/2017).
+Ainda a respeito:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CIVIL. AÇÃO MONITÓRIA. HONORÁRIOS ADVOCATÍCIOS. NATUREZA ALIMENTAR DA VERBA. IMPENHORABILIDADE (CPC, ART. 649, IV). MITIGAÇÃO. CIRCUNSTÂNCIAS ESPECIAIS. ELEVADA SOMA. POSSIBILIDADE DE AFETAÇÃO DE PARCELA MENOR DE MONTANTE MAIOR. DIREITO DO CREDOR. RECURSO NÃO PROVIDO.
+(..)
+2. Contudo, a garantia de impenhorabilidade assegurada na regra processual referida não deve ser interpretada de forma gramatical e abstrata, podendo ter aplicação mitigada em certas circunstâncias, como sucede com crédito de natureza alimentar de elevada soma, que permite antever-se que o próprio titular da verba pecuniária destinará parte dela para o atendimento de gastos supérfluos, e não, exclusivamente, para o suporte de necessidades fundamentais.
+3. Não viola a garantia assegurada ao titular de verba de natureza alimentar a afetação de parcela menor de montante maior, desde que o percentual afetado se mostre insuscetível de comprometer o sustento do favorecido e de sua família e que a afetação vise à satisfação de legítimo crédito de terceiro, representado por título executivo.
+4. Sopesando criteriosamente as circunstâncias de cada caso concreto, poderá o julgador admitir, excepcionalmente, a penhora de parte menor da verba alimentar maior sem agredir a garantia desta em seu núcleo essencial.
+5. Com isso, se poderá evitar que o devedor contumaz siga frustrando injustamente o legítimo anseio de seu credor, valendo-se de argumento meramente formal, desprovido de mínima racionalidade prática.
+6. Caso se entenda que o caráter alimentar da verba pecuniária recebe garantia legal absoluta e intransponível, os titulares desses valores, num primeiro momento, poderão experimentar uma sensação vantajosa e até auspiciosa para seus interesses. Porém, é fácil prever que não se terá de aguardar muito tempo para perceber os reveses que tal irrazoabilidade irá produzir nas relações jurídicas dos supostos beneficiados, pois perderão crédito no mercado, passando a ser tratados como pessoas inidôneas para os negócios jurídicos, na medida em que seus ganhos constituirão coisa fora do comércio, que não garante, minimamente, os credores.
+7. Recurso especial a que se nega provimento.
+(REsp n. 1.356.404/DF, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 4/6/2013, DJe 23/8/2013.)
+O Tribunal de origem assentou que a penhora limitada a 30% (trinta por cento) dos proventos do recorrente não ocasionava risco a sua subsistência, devendo ser mantida, em atenção ao princípio da efetividade, conforme se extrai do seguinte excerto (e-STJ fls. 56/58):
+Com efeito, como já dito na decisão agravada, penhora na proporção que não ultrapasse o limite de 30% (trinta por cento) dos proventos do executado, não ocasiona qualquer risco à subsistência do devedor, de modo que, em observância ao princípio da efetividade, deve ser deferida para que o credor obtenha a satisfação de seu crédito.
+Cuida-se de analogia ao posicionamento consolidado no Enunciado 15 do Aviso TJRJ 94, in verbis:
+A retenção de valores em conta-corrente oriunda de empréstimo bancário ou de utilização de cartão de crédito não pode ultrapassar o percentual de 30% do salário do correntista. Precedentes: Aglnst 2009.002.28062, TJERJ, 15a [NOME], julgado em 29/07/2009. ApCv 2009.001.36067, TJERJ, 2a C. Cível, julgado em 01/07/2009.
+Foi utilizado, portanto, por analogia, enunciado de Súmula do Tribunal de Justiça do Estado do Rio de Janeiro, a afastar a alegação de violação ao art. 932, inciso IV do CPC em vigor.
+Em relação ao julgado anterior desta Relatora, no Agravo de Instrumento nº 0001907-83.2015.8.19.0000, cumpre esclarecer que o ora agravante apenas transcreveu a decisão monocrática de pasta 00048 daquele processo, esquecendo-se de trazer à colação o acórdão posterior (pasta 000066). em que, em sede de agravo interno, esta Relatora, revendo sua posição, vota no mesmo sentido da decisão proferida no presente recurso, à pasta 00027.
+Segue trecho do aludido acórdão posterior:
+"..Dessa forma, revendo minha decisão anterior, entendo que a penhora de 30% (trinta por cento) dos recursos dos rendimentos declarados do agravado não ocasionará qualquer risco à subsistência do devedor, de modo que, em observância ao princípio da efetividade, deve ser deferida para que o credor obtenha a satisfação de seu crédito, cabendo o acolhimento deste agravo interno para manter a decisão da juíza a quo que determinou a penhora on line do montante equivalente a 30% (trinta por cento) dos rendimentos líquidos do agravado.
+Assim, diante do exposto, VOTO pelo CONHECIMENTO e PROVIMENTO do agravo interno para manter a decisão agravada em todos os seus termos, tornando insubsistente a decisão que deu efeito suspensivo ao recurso.
+Intimem-se e oficie-se, transmitindo-se ao 1º grau o teor decidido (Julgamento em 1/4/2016, em sede de agravo nos autos do Agravo de Instrumento nº 0001907-83.2015.8.19.0000 de Relatoria desta Desembargadora - grifamos)"
+Dessa forma, entendo que deve ser mantida a decisão agravada, que abaixo de transcreve, na integra:
+"Trata-se de agravo de instrumento interposto em face de decisão proferida pelo MM. Juízo de Direito da 22ª Vara Cível da Comarca da Capital que, em execução por título extrajudicial, determinou a penhora de 30% dos proventos líquidos do 2º executado, ora agravante.
+Em suas razões, o agravante alegou que a impenhorabilidade dos proventos salariais e uma garantia conferida por lei ao devedor, em razão do caráter alimentar da verba.
+Requereu assim a reforma da decisão atacada para que seja anulada a determinação de penhora de 30% de sua verba de salarial.
+Informações prestadas pelo juízo a quo noticiando o cumprimento do disposto no artigo 526 do CPC e informando a manutenção da decisão atacada que se limitou a determinar somente o bloqueio do percentual de 30% dos ganhos do agravante.
+Decisão deferindo efeito suspensivo ao recurso.
+Informações do juízo da causa noticiando o cumprimento do disposto no artigo 1018 do CPC e a manutenção da decisão atacada.
+Manifestação da parte agravada, prestigiando a decisão guerreada.
+É o relatório. Passo a decidir.
+(..)
+Inobstante o artigo 649, IV, do CPC de 1973 e o artigo 833, IV do NCPC, indique os salários, soldos e proventos como impenhoráveis, vem se entendendo pela mitigação da norma.
+A jurisprudência vem flexibilizando esta regra e admitindo a penhora de forma a garantir o direito do credor e a subsistência digna do devedor.
+Com relação ao salário, o bloqueio on line da totalidade importaria em medida abusiva, por violar o principio da dignidade da pessoa humana. Entretanto, de acordo com a jurisprudência dominante deste Tribunal de Justiça, a impenhorabilidade de rendimentos não mais se reveste de caráter absoluto, sendo possível a constrição desde que respeite o limite de 30% (trinta por cento) do vencimento do devedor.
+Assim, cotejando-se os interesses em conflito, quais sejam, o direito do credor à satisfação do seu crédito e o mínimo existencial decorrente do princípio da dignidade da pessoa humana que ampara o agravado, o bloqueio realizado em proventos de aposentadoria, por se tratar de verba alimentar, deve ficar adstrito ao limite mencionado, na forma do entendimento firmado majoritariamente pela jurisprudência.
+A penhora na proporção que não ultrapasse o limite de 30% (trinta por cento) dos proventos do executado, não ocasiona qualquer risco à subsistência do devedor, de modo que, em observância ao princípio da efetividade, deve ser deferida para que o credor obtenha a satisfação de seu crédito.
+Verifica-se que a decisão da Corte local está em sintonia com a jurisprudência do STJ quanto ao tema. Incide, portanto, a Súmula n. 83/STJ, que se aplica como óbice tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, §§ 1º e 2º, do RISTJ e 541, parágrafo único, do CPC/1973).
+De tais ônus o recorrente não se desincumbiu, pois se limitou a transcrever ementas dos julgados a partir dos quais sustentou o dissenso interpretativo, tornando inviável conhecer do recurso. Nesse sentido:
+DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. PRISÃO EFETUADA POR POLICIAL MILITAR FORA DO EXERCÍCIO DAS FUNÇÕES. OFENSA À LIBERDADE PESSOAL. DANO MORAL CONFIGURADO. VALOR ARBITRADO. MÉTODO BIFÁSICO. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVAÇÃO.
+(..)
+8. Não se conhece do recurso pela divergência jurisprudencial nas hipóteses em que o recorrente se limita à transcrição de ementas, sem promover o cotejo analítico a que se refere o art. 541, parágrafo único, do CPC/1973.
+9. Recurso especial desprovido.
+(REsp n. 1.675.015/DF, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 12/9/2017, DJe 14/9/2017.)
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE REVISÃO CONTRATUAL C/C DECLARAÇÃO DE NULIDADE DE ATO ADMINISTRATIVO E CONSIGNAÇÃO EM PAGAMENTO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA DEMANDADA.
+(..)
+3. Não restou demonstrada, na hipótese, a divergência jurisprudencial na forma prevista no artigo 541 do CPC/1973 (art. 1.029, CPC/2015) e no artigo 255 do RISTJ. Ademais, a mera transcrição de ementas não satisfaz as exigências para a demonstração do dissídio jurisprudencial.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 304.921/MT, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 6/12/2016, DJe 14/12/2016.)
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
