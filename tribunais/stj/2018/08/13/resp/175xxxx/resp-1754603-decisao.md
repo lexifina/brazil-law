@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJMG, o qual recebeu a seguinte ementa (e-STJ fl. 491):
+EMENTA: AGRAVO DE INSTRUMENTO - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - ILEGITIMIDADE PASSIVA - EXTINÇÃO DA EXECUÇÃO - HONORÁRIOS ADVOCATÍCIOS - CRITÉRIOS LEGAIS. "Os honorários advocatícios devem ser fixados por apreciação equitativa não somente quando o valor da causa for aviltante, como também naquelas que possuem valor excessivo, a contrário sensu. Assim, se o valor arbitrado a título de honorários advocatícios é razoável e está consoante as disposições do art. 85, §2º c/c §8º, do CPC/2015, não há falar em sua majoração".
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 520/524).
+Nas razões recursais (e-STJ fls. 527/545), fundamentadas no art. 105, III, "a", da CF, os recorrentes alegaram ofensa aos arts. 489, § 1º, IV, e 1.022 do CPC/2015 por negativa de prestação jurisdicional.
+Apontou ainda afronta ao art. 85, § 2º, do CPC/2015, sustentando a necessidade de observância do percentual mínimo de 10% (dez por cento) na fixação dos honorários advocatícios.
+Contrarrazões apresentadas pela recorrida (e-STJ fls. 551/561).
+É o relatório.
+Decido.
+Cuida-se, na origem, de exceção de processo de execução no valor de R$ 2.292.967,69 (dois milhões, duzentos e noventa e dois mil, novecentos e sessenta e sete reais e sessenta e nove centavos), em que se acolheu a preliminar de ilegitimidade passiva alegada em exceção de pre-executividade e extinguiu o processo em relação aos recorrentes, fixando-se os honorários em R$ 5.000,00 (cinco mil reais), com base no art. 85, § 8º, do CPC/2015.
+O TJMG, ao julgar o recurso interposto, manteve o valor arbitrado dos honorários nos seguintes termos (e-STJ fls. 494/495):
+Alegam os agravantes que os honorários advocatícios devem ser arbitrados entre 10% a 20% de R$2.292.967,69, conforme determina o disposto no artigo 85, § 2º, do CPC/2015 (f. 12-TJ).
+No caso dos autos, diante do elevado valor da execução, não há óbice para a fixação dos honorários advocatícios consoante apreciação equitativa do juiz, atendidos o grau de zelo do profissional, o lugar de prestação do serviço, a natureza e a importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço (CPC, art. 85, §§ 2º, I a IV, e § 8º). O arbitramento dos honorários advocatícios deve ater-se aos limites da razoabilidade e proporcionalidade.
+(..)
+Assim, considerando o trabalho realizado pelo advogado e a importância da causa, o arbitramento dos honorários em R$ 5.000,00 (cinco mil reais) mostra-se consentâneo com os ditames legais.
+Nessas circunstâncias, data vênia, as razões do recurso e os elementos de convicção produzidos nos autos não infirmam os fundamentos e a conclusão da decisão agravada que deve ser confirmada.
+Não há falar, portanto, em contrariedade aos arts. 489, § 1º, IV, e 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos. Ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação do referido dispositivo e o conhecimento do recurso especial nessa parte.
+Por outro lado, a decisão recorrida está em confronto com recente precedente desta Corte, no sentido de que - não se tratando de processos envolvendo a Fazenda Pública ou demandas cujo proveito econômico for inestimável ou irrisório, ou, ainda, quando o valor da causa for muito baixo - devem ser respeitados os limites mínimo e máximo estabelecidos no art. 85, § 2º, do CPC/2015 para os honorários advocatícios sucumbenciais, ressalvadas as exceções previstas nos §§ 3º e 8º do mesmo dispositivo legal. A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. CONDENAÇÃO. AUSÊNCIA. APRECIAÇÃO EQUITATIVA. IMPOSSIBILIDADE. LIMITES PERCENTUAIS. OBSERVÂNCIA. RECURSO PROVIDO.
+1. Ressalvadas as exceções previstas nos §§ 3º e 8º do art. 85 do CPC/2015, na vigência da nova legislação processual o valor da verba honorária sucumbencial não pode ser arbitrado por apreciação equitativa ou fora dos limites percentuais fixados pelo § 2º do referido dispositivo legal.
+2. Segundo dispõe o § 6º do art. 85 do CPC/2015, " o s limites e critérios previstos nos §§ 2º e 3º  do mesmo art. 85  aplicam-se independentemente de qual seja o conteúdo da decisão, inclusive aos casos de improcedência ou de sentença sem resolução de mérito".
+3. No caso concreto, ante o julgamento de improcedência dos pedidos deduzidos em reconvenção, não se tratando de demanda de valor inestimável ou irrisório, faz-se impositiva a majoração da verba honorária, estipulada em quantia inferior a 10% (dez por cento) do valor atribuído à causa.
+4. Recurso especial provido.
+(REsp n. 1731617/SP, de minha relatoria, QUARTA TURMA, julgado em 17/4/2018, DJe 15/5/2018.)
+Em tais condições, com a extinção da demanda sem julgamento de mérito, faz-se impositivo que a verba honorária sucumbencial fixada em favor dos advogados dos recorrentes observe os limites mínimo e máximo estipulados em dispositivo legal vigente.
+Ante o exposto, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial a fim de reformar em parte o acórdão recorrido, majorando os honorários advocatícios devidos pela recorrida aos patronos dos recorrentes para o equivalente a 10% (dez por cento) do valor da causa.
+Publique-se e intimem-se.
