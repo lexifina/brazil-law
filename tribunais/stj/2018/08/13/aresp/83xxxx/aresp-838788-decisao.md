@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto pela CONCESSIONÁRIA ROTA DAS BANDEIRAS S.A. contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional, que desafia acórdão assim ementado (e-STJ fl. 189):
+ACIDENTE DE TRÂNSITO. Ação de reparação de danos movida contra a concessionária de rodovia. Veículo que se chocou contra animal solto na pista. Danos constatados. Responsabilidade objetiva da Concessionária configurada, porque não provada nenhuma causa que a excluísse. Recurso parcialmente provido.
+Embargos de declaração foram rejeitados (e-STJ fls. 205/209).
+No especial obstaculizado, o ora agravante, além de divergência jurisprudencial, apontou violação dos arts. 535, I e II, 130, 131, 330, I, do CPC/1973, do art. 936 do CC/2002 e do art. 14, caput e § 3º, do CDC. Alegou, em síntese, que houve cerceamento do seu direito de defesa, uma vez que o juízo singular indeferiu o pedido de produção probatória, e o Tribunal a quo concluiu que a responsabilidade seria objetiva em razão da ausência de prova de causa excludente.
+Sustentou, ainda, que inexiste relação de consumo na hipótese, de modo que não haveria responsabilidade objetiva da concessionária (e-STJ fls. 212/240).
+Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao que desafiou a interposição do presente agravo (e-STJ fls. 265/297).
+Contraminuta foi apresentada à e-STJ fl. 300.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Dito isso, cumpre ressaltar que, nos termos do disposto no art. 544, § 4º, I, do CPC/1973, o agravante deve atacar especificamente todos os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+Nesse sentido, vide: AgRg no AREsp 748.670/SC, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 24/11/2015, AgRg no AREsp 834.978/SP, Relator Ministra Assusete Magalhães, Segunda Turma, DJe 19/04/2016.
+Na hipótese, o Tribunal a quo negou seguimento ao apelo nobrepelos seguintes fundamentos: a) ausência de violação do art. 535 do CPC/1973; b) não demonstração da alegada ofensa aos dispositivos arrolados; c) Súmula 7 do STJ; d) ausência de similitude fática entre os acórdãos comparados (e-STJ fls. 260/262).
+Nas razões do agravo em recurso especial, todavia, o agravante não se desincumbiu de infirmar todos os fundamentos impeditivos de seguimento, notadamente em relação à ausência de similitude fática, em evidente desrespeito ao princípio da dialeticidade.
+Com efeito, da leitura do arrazoado, verifica-se que, após rebater os demais óbices, a parte limitou-se a reproduzir as razões recursais, não se contrapondo frontalmente ao argumento relativo à não comprovação do dissídio jurisprudencial (e-STJ fls. 272/276).
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
