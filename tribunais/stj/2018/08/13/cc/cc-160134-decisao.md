@@ -1,0 +1,22 @@
+DECISÃO
+Relatório.
+Cuida-se de conflito negativo de competência estabelecido entre o Juízo da 5.ª Vara do Trabalho de Campina Grande, PB (suscitante) e o Tribunal de Justiça do Estado da Paraíba (suscitado), nos autos da ação de cobrança ajuizada por [NOME] em desfavor do Município de Campina Grande, PB.
+A ação foi proposta perante o Juízo da 1.ª Vara da Fazenda Pública da Comarca de Campina Grande, PB, que julgou procedentes, em parte, os pedidos. Dessa sentença (fls. 90 a 93), apelaram a autora e o município réu.
+Ocorreu que o Relator, por decisão monocrática, declarou a incompetência da Justiça Comum e determinou a remessa do feito à Justiça Especializada, "considerando que a apelação insurge-se contra a condenação ao pagamento de verba de caráter trabalhista" (fl. 165).
+Em razão dessa decisão, os autos foram remetidos à 5.ª Vara do Trabalho de Campina Grande, PB, que também se deu por incompetente e suscitou o presente conflito, firme em que "a contratação da reclamante ocorreu através de contrato temporário para atender excepcional interesse público (art. 37, IX, da Constituição Federal)" e que "a própria autora deixa claro isso em sua petição inicial ao afirmar que foi contratada para trabalhar no Programa Fome Zero, de prazo determinado" (fl. 209).
+Eis a origem do conflito negativo que ora se analisa.
+Decisão.
+Porque presente a condição prevista no art. 66, II, do CPC, bem como satisfeita a exigência inserta no art. 954 do diploma processual com as peças apresentadas, conheço do presente conflito.
+No mérito, a jurisprudência desta Corte Superior é firme no sentido de que o processamento e o julgamento dos litígios instaurados entre os agentes públicos e os entes estatais a que servem é determinada pela natureza da relação jurídica entre as partes.
+No presente caso, pelo que se extrai da petição inicial (fls. 5 a 17) e da documentação que a acompanha (CTPS, contracheques, recibos de pagamento e Termo de rescisão), a sujeição ao regime celetista é expressa. Nota-se, ainda, que o Município de Campina Grande, nas contestações apresentadas (fls. 51 a 63 e 177 a 188) alega a existência de contrato fundado no art. 37, IX, da Constituição Federal, mas não endossa, com provas robustas essa alegação. Ao contrário, traz aos autos comprovantes do recolhimento ao FGTS e afirma que nenhuma complementação do saldo é devida (fl. 187), reforçando a natureza trabalhista da avença.
+Esses elementos indiciam a existência de relação entre as partes, regulada pelo regime celetista, o que, só por si, atrai a competência da Justiça do Trabalho, à luz do que dispõe o art. 114, I e IX, da Constituição Federal, com a redação dada pela EC n.º 45/2004.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. JUSTIÇA COMUM X JUSTIÇA DO TRABALHO. NATUREZA DO VÍNCULO DE TRABALHO ENTRE A ADMINISTRAÇÃO E SEUS AGENTES. MUNICÍPIO QUE ADOTOU EXCLUSIVAMENTE A CLT, INCLUSIVE PARA COMISSIONADOS. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. ART. 114, I e IX, DA CONSTITUIÇÃO FEDERAL.
+1. A jurisprudência, tanto desta Corte Superior quanto do STF, são harmônicas e orientadas no sentido de que a competência para processar e julgar os feitos com origem nas relações entre os entes públicos e seus agentes é fixada em razão do vínculo jurídico estabelecido entre as partes, salvo quanto aos contratos temporários fundados no art. 37, IX, da Constituição Federal, o que não é o caso aqui examinado. Precedentes.
+2. No caso do Município de São Joaquim da Barra, SP, a opção do legislador local foi a de submeter todo o quadro de pessoal, inclusive os comissionados, ao regime da CLT, como expressamente consta dos art. 6º e 10 da Lei Municipal n. 100, de 30 de dezembro de 1998.
+3. Se a lei local que regula as relações entre a edilidade e seus agentes sujeita estes ao regime celetista, a competência para processar e julgar as ações fundadas nessa relação é da Justiça do Trabalho, nos termos do que dispõe o art. 114, I e IX, da Constituição Federal, com a redação dada pela EC n. 45/2004.
+4. Agravo interno interposto pelo Município não provido.
+(AgInt no CC 155.556/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, DJe 16/05/2018)
+Com essas considerações e fundamento no art. 955, parágrafo único, do CPC, bem como na Súmula 568 do STJ, decido, de plano, o presente conflito para declarar competente o Juízo da 5.ª Vara do Trabalho de Campina Grande, PB, o suscitante.
+Dê-se ciência ao Tribunal suscitado e ao Juízo suscitante.
+Publique-se.
