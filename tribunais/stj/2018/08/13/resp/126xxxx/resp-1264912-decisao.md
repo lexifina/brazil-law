@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial manejado pela União com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fls. 2.289/2.290):
+DIREITO CIVIL USUCAPIÃO. CONFIGURAÇÃO. ÁREA DE, PRESERVAÇÃO PERMANENTE. TERRENO DE MARINHA. IMPRESCRITIBILIDADE. DEMARCAÇÃO.
+EFICÁCIA, DECLARATÓRIA
+1. Declara-se a prescrição aquisitiva em favor dos autores que demonstram posse, sem oposição nenhuma, de terra por período superior a 20 anos.
+2. O fato da área usucapienda abranger área de preservação permanente não impede a prescrição aquisitiva, pois não se trata de área pública, mas apenas área particular, em relação a qual incide limitação administrativa.
+3. Excetua-se da usucapião área caracterizada como terreno d "e marinha e seus acrescidos, que por serem bens públicos, são insuscetíveis de prescrição aquisitiva.
+4. Não é a demarcação que caracteriza a faixa como terreno de marinha, mas a respectiva situação. Como claramente expressam as palavras do eminente ministro Ari Pargendler, "a demarcação declara, não constitui (Sentença no MS nº 89.0017590-4, datada de 25.l0.1977, julgamento mantido na AMSD nº 3.349 pelo E. Tribunal Federal da Recursos).
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC/73.
+A parte recorrente aponta violação aos arts. 200 do Decreto-lei nº 9.760/46; 102 do CC/2002; 20, II, e 183, § 3º, da CF/88. Sustenta que a área de preservação permanente é um bem público e, por isso, não está sujeita ao usucapião.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Feita essa observação, cumpre dizer que, em recurso especial, não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa 20, II, e 183, § 3º, da CF/88 da Constituição Federal. Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. NORMAS CONSTITUCIONAIS. ALEGAÇÃO DE VIOLAÇÃO. DESCABIMENTO. OCORRÊNCIA DE COISA JULGADA. REDISCUSSÃO DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA 7/STJ. INCIDÊNCIA. 1. Em recurso especial não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa 5º, XXXVI, da Constituição Federal.
+2. A alteração das conclusões adotadas pela Corte de origem acerca da ocorrência de coisa julgada, tal como proposta pela recorrente, demandaria, necessariamente, novo exame do acervo probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.207.430/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 12/6/2018, DJe 18/6/2018)
+Quanto ao cerne da controvérsia, o Tribunal de origem dirimiu a questão sob os seguintes fundamentos (fl. 2.288):
+Por fim, quanto ao apelo da União, destaco, como já consignado pelo julgador monocrático, que o fato da área usucapienda abranger área de preservação permanente não impede a prescrição aquisitiva, pois não se trata de área pública, mas apenas área particular em relação a qual incide limitação administrativa, que deverá ser observada pelo proprietário/ocupante.
+Com relação aos arts. 200 do Decreto-Lei nº 9.760/46 e 102 do CC/2002, nota-se que os referidos dispositivos legais não contêm, isoladamente, comandos capazes de sustentar o argumento recursal da parte, qual seja, a de que as áreas de preservação permanente são bens públicos, e tampouco podem infirmar as conclusões da Corte a quo no sentido oposto à tese defendida.
+Dessa maneira, impõe-se ao caso concreto a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Por oportuno, destacam-se os seguintes precedentes: AgRg no AREsp 161.567/RJ, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 26/10/2012; REsp 1.163.939/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 8/2/2011.
+Ante o exposto, não conheço o recurso especial.
+Publique-se.
