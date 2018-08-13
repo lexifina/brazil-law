@@ -1,0 +1,23 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 02/STJ. SUPOSTA OFENSA AO ART. 535 DO CPC/73. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. DISCUSSÃO SOBRE A CONSTITUCIONALIDADE DO ART. 78 DO ADCT. ENFOQUE CONSTITUCIONAL DA MATÉRIA. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA PARTE, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo cuja ementa é a seguinte:
+CONSTITUCIONAL E PROCESSUAL CIVIL DESAPROPRIAÇÃO INDIRETA PRECATÓRIO PARCELAMENTO - ART. 78 ADCT - JUROS DE MORA - EXCLUSÃO - COISA JULGADA. 1. Liminar em ADIn suspensiva da eficácia do art. 78 do ADCT, com efeito erga omnes, concedida antes do julgamento do RE nº 590.751/CE. 2. A decisão proferida no julgamento do RE nº 590.751/SP reconheceu a incompetência do STF para apreciar o pedido de exclusão de juros à luz da decisão transitada em julgado. Sentença transitada em julgado que determina a incidência de juros moratórios e compensatórios. Rediscussão da matéria. Inadmissibilidade. Decisão mantida. Recurso desprovido.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base na alínea a do permissivo constitucional, o ora agravante aponta ofensa aos arts. 480, 481, 535 e 743 do CPC/73, bem como ao art. 11, § 1º, da Lei 9.868/99 e aos arts. 394 a 396 do CC, alegando, em síntese, que: (a) o acórdão recorrido manteve-se omisso, mesmo após a oposição de embargos de declaração; (b) não era possível que o disposto no art. 78 do ADCT fosse afastado por órgão fracionário do Tribunal de origem; (c) em se tratando de medida cautelar concedida em sede de ação direta de inconstitucionalidade, há apenas a produção de efeito prospectivo (e não retroativo).
+O recurso foi inadmitido pela decisão de fls. 68/669, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 2/STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+Depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou das questões suscitadas, resolvendo de modo integral a controvérsia posta.
+Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Assim, não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do CPC/73.
+Por outro lado, verifica-se que o acórdão recorrido baseia-se em fundamentos de natureza eminentemente constitucional.
+Ressalte-se que não compete ao Superior Tribunal de Justiça, em sede de recurso especial, analisar eventual contrariedade a preceito contido na CF/88, nem tampouco uniformizar a interpretação de matéria constitucional.
+A corroborar esse entendimento, destaca-se:
+TRIBUTÁRIO. PRECATÓRIO. COMPENSAÇÃO ENTRE ENTES DIVERSOS. QUESTÃO ANALISADA À LUZ DA LEI ESTADUAL N. 9.127/90. INCIDÊNCIA POR ANALOGIA DO ENUNCIADO N. 280 DA SÚMULA DO STF. FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. RECURSO ESPECIAL NÃO CONHECIDO.
+I - Não se conheceu do recurso especial por ser incabível a análise em instância especial da ofensa ao art. 368 do Código de Processo Civil 1973, pois a compensação tributária entre pessoas jurídicas de direito público de natureza diversa foi autorizada pelo Tribunal de origem com fundamento na Lei Estadual n. 9.127/90, incidindo, por analogia, o óbice do enunciado n. 280 da Súmula do STF.
+II - O Tribunal de origem fundamentou, em dispositivo constitucional, o direito da parte à compensação tributária - art.
+78, § 2º, do ADCT e art. 100 da Constituição Federal de 1988 -, afastando a competência desta Corte Superior para o exame da matéria III - Agravo interno improvido.
+(AgInt no REsp 1613398/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 20/04/2017, DJe 27/04/2017)
+Diante do exposto, com fundamento no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, a e b, do RISTJ e a Súmula 568/STJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+Publique-se. Intimem-se.
