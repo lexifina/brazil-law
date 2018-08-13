@@ -1,0 +1,35 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO. SUBSTITUIÇÃO DE PENHORA ON LINE POR GARANTIA DE IMÓVEL INDICADO NAS CÉDULAS DE CRÉDITO BANCÁRIO. POSSIBILIDADE. ACOLHIMENTO INICIAL SEM RESSALVA DO AGRAVANTE. REVISÃO. SÚMULA 7/STJ. NOMEAÇÃO DE BENS À PENHORA. AGRAVO A QUE SE NEGA PROVIMENTO.
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por BANCO PAN S.A. contra decisão que negou seguimento ao seu recurso especial, fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA R.DECISÃO PELA QUAL FOI PROMOVIDO O BLOQUEIO "ONLINE" DE CONTAS BANCÁRIAS DE TITULARIDADE DA CO- EXECUTADA ALEGAÇÃO DE INCORREÇÃO PEDIDO DE REFORMA REFORMA DA R.DECISÃO CÉDULAS DE CRÉDITO BANCÁRIO QUE LASTREIAM A EXECUTIVA, QUE CONTAM COM GARANTIA DE IMÓVEL DADO EM ALIENAÇÃO FIDUCIÁRIA VALOR ATRIBUÍDO À GARANTIA QUE SUPERA O MONTANTE DO DÉBITO EXEQUENDO ACEITAÇÃO DA GARANTIA PELA CASA DE VALORES QUE SE DEU SEM NENHUMA RESSALVA GARANTIA QUE DETERMINA QUE A PENHORA DEVERÁ SER PROMOVIDA SOBRE TAIS BENS, ANTES DE RECAIR TAMBÉM SOBRE OUTROS, CASO SE MOSTRE NECESSÁRIO - DE RIGOR O LEVANTAMENTO DA PENHORA DO MONTANTE BLOQUEADO NA CONTA BANCÁRIA MANTIDA PELA AGRAVANTE NECESSIDADE DE REFORMA RECURSO PROVIDO. (e-STJ, fl. 458)
+Nas razões do recurso especial, o agravante aponta violação ao artigo 655, inciso I, § 1º, do CPC/73, sustentando que os depósitos em dinheiro possuem maior liquidez, e, portanto, prioridade na ordem de penhora e que o credor possui a faculdade, não a obrigação de penhorar o bem eventualmente dado em garantia pela dívida.
+As contrarrazões foram apresentadas (e-STJ, fls. 478/485).
+É o relatório. Passo a decidir.
+A irresignação recursal não merece prosperar.
+Primeiramente, cumpre esclarecer que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/15 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça, conforme disposto no Enunciado Administrativo n. 3/STJ.
+Em geral, o STJ não admite em sede de recurso especial a revisão dos critérios utilizados pelas instâncias ordinárias para, com fundamento nas regras da menor onerosidade do devedor e da máxima eficácia do procedimento executivo, permitir ou autorizar a substituição da penhora.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO (ART 544 DO CPC/73) - CUMPRIMENTO DE SENTENÇA - GARANTIA DO JUÍZO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE RÉ.
+1. A convicção formada pelo Tribunal de origem acerca da observância da ordem legal do art. 655 do CPC/73, do princípio da menor onerosidade, bem como dos prejuízos ao interesse do credor/exequente, decorreu dos elementos existentes nos autos, de forma que rever a decisão recorrida importaria necessariamente no
+reexame de provas. Incidência da Súmula 7 do STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp 896.272/RS, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 10/04/2018, DJe 17/04/2018 - grifou-se)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO. SUBSTITUIÇÃO DE PENHORA EM DINHEIRO POR SEGURO GARANTIA JUDICIAL. IMPOSSIBILIDADE. PRINCÍPIO DA SATISFAÇÃO DO CREDOR.
+1. A substituição da garantia em dinheiro por outro bem ou carta de fiança somente deve ser admitida em hipóteses excepcionais e desde que não ocasione prejuízo ao exequente, sem que isso enseje afronta ao princípio da menor onerosidade da execução para o devedor.
+2. Inviabilidade de alterar a conclusão pela não substituição da penhora, visto que as razões recursais, em confronto com as afirmações do acórdão recorrido, prendem-se a uma perspectiva de reexame de matéria de fato. Incidência da Súmula 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 841.658/SC, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 01/03/2016, DJe 15/03/2016 - grifou-se)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PRINCÍPIO DA MENOR ONEROSIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA 7 DO STJ. SUBSTITUIÇÃO DA PENHORA POR SEGURO-GARANTIA. POSSIBILIDADE, EM SITUAÇÕES EXCEPCIONAIS. PRECEDENTES. NÃO OCORRÊNCIA, NO CASO. AGRAVO IMPROVIDO.
+1. A convicção formada pelo Tribunal de origem acerca da observância da ordem legal do art. 655 do CPC e do princípio da menor onerosidade, afastando a substituição pleiteada pela parte agravante, decorreu dos elementos existentes nos autos, de forma que rever a decisão recorrida importaria necessariamente no reexame de provas, sendo inafastável a aplicação da Súmula n. 7 do STJ, na hipótese dos autos.
+2. A jurisprudência desta Corte entende que: "A despeito da nova redação do art. 656, § 2º, do Código de Processo Civil, a substituição da garantia em dinheiro por outro bem ou carta de fiança somente deve ser admitida em hipóteses excepcionais e desde que não ocasione prejuízo ao exequente, sem que isso enseje afronta ao princípio da menor onerosidade da execução para o devedor" (REsp 1.090.864/RS, Rel. Ministro Massami Uyeda, Terceira Turma, julgado em 10.05.2011, DJe 01.07.2011).
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 737.155/RS, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/11/2015, DJe 09/12/2015 - grifou-se)
+Na espécie, o Tribunal de origem consignou que:
+Superado esse primeiro aspecto, e conforme se verifica por meio dos elementos de cognição encartados ao feito, notadamente no que diz respeito aos contratos que lastreiam a demanda satisfativa (fls.93/120, 122/149, e 151/166), apura-se que o débito exequendo conta com garantia decorrente do "Instrumento Particular de Alienação Fiduciária em Garantia" (fls.168/184), garantia essa prestada em valor equivalente a R$5.306.000,00 (cinco milhões, trezentos e seis mil reais), o qual foi devidamente aceita sem qualquer ressalva pela casa bancária quando da celebração dos contratos, constando inclusive da matrícula do imóvel (fls.397). Esta é exatamente a hipótese dos autos, em que a executada, quando da celebração do contrato, já teria suportado gravame que incide sobre o bem dado em garantia, garantia esta aceita pelo banco exequente, diga-se uma vez mais, sem qualquer ressalva, razão pela qual de rigor que seja excutido o bem garantidor, nos moldes em que definidos pelos contratantes. (e-STJ, fls. 460/461 - grifou-se)
+Assim, como asseverado no acórdão recorrido "quando da celebração do contrato, já teria suportado gravame que incide sobre o bem dado em garantia, garantia esta aceita pelo banco exequente, diga-se uma vez mais, sem qualquer ressalva".
+Portanto, a substituição da penhora foi deferida, pois o imóvel indicado pelo devedor como objeto da garantia já fora anteriormente aceito livremente pelo agravante.
+Infirmar essa conclusão, como está claro, implica reexame de prova. Incidente o óbice da Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
