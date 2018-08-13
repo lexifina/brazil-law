@@ -1,0 +1,15 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. VÍCIO DO CONSENTIMENTO. REVISÃO DA CONFIGURAÇÃO DE VÍCIO NA ANUÊNCIA COM A CONTRATAÇÃO DA PRESTAÇÃO DE SERVIÇO DE ASSISTENTE TÉCNICO EM PROCESSO DISTINTO. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por CONDOMÍNIO EDIFÍCIO CEL. [NOME] contra decisão de inadmissibilidade do recurso especial, por sua vez, apresentado, com fundamento no art. 105, III, a, da CF, em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+AÇÃO DE COBRANÇA. HONORÁRIOS DE PERITO ASSISTENTE. ALEGAÇÃO DE ONEROSIDADE EXCESSIVA. DESCABIMENTO. CONTRATO APERFEIÇOADO. VONTADE LIVREMENTE MANIFESTADA. INEXISTÊNCIA DE VÍCIOS. INCONTROVERSOS A DISPONIBILIZAÇÃO DOS SERVIÇOS E EM PREVALÊNCIA À AUTONOMIA DA VONTADE, IMPÕE-SE A MANUTENÇÃO DA R. SENTENÇA. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+Em suas razões de recurso especial, o recorrente alegou violação aos arts. 138, 139, 145, 171, II, e 476 do CC; e 373, I, do CPC/1973, defendendo a existência de vício em seu consentimento para a contratação de assistente técnico a fim de apurar o valor a ser restituído, nos autos de ação de repetição de indébito proposta contra a SABESP, sob os argumentos de que o referido serviço, além de não ter sido efetivamente prestado no tempo e forma submetidos para sua autorização, era inútil, pelo fato de o valor da restituição já ter sido definido previamente desde a propositura do cumprimento de sentença e a posterior anuência com o cálculo apresentado pela SABESP. Aduziu que tais fatos seriam incontroversos nos autos.
+Contrarrazões apresentadas às fls. 256-267 (e-STJ).
+Em decorrência da inadmissão do recurso pela origem, foi interposto o presente agravo, o qual foi objeto de contraminuta às fls. 282-287 (e-STJ).
+Brevemente relatado, decido.
+Como visto do relatório, toda a pretensão recursal de reconhecimento de vício no consentimento para a contratação de assistente técnico está baseada na inutilidade e na ausência da prestação do serviço correspondente à apuração do valor a ser restituído pela SABESP nos autos de ação de repetição de indébito contra esta proposta pela parte recorrente, fatos que seriam incontroversos.
+Entretanto, o Tribunal de origem, por maioria, considerou inexistente vício algum do consentimento na anuência com o aludido negócio, além de não ter reconhecido a incontrovérsia sobre tais fatos (e-STJ, fls. 235-236).
+Desse modo, o acolhimento do recurso não prescindiria do reexame direto das provas dos autos, notadamente dos e-mails referentes à proposta e à aceitação e dos autos da ação de repetição de indébito objeto do contrato, a fim de estabelecer conclusão em sentido contrário àquela que conduziu o resultado do acórdão recorrido, providência manifestamente proibida nesta instância, nos termos do óbice da Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% sobre o valor atualizado da causa.
+Publique-se.
