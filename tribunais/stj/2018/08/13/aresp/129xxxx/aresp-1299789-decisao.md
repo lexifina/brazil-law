@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que negou seguimento ao recurso especial por inexistência de violação de lei federal e incidência da Súmula n. 7 do STJ (e-STJ fls. 715/717).
+O acórdão recorrido está assim ementado (e-STJ fls. 620/621):
+Apelação Cível. Requerimento de Falência, fundamentado no artigo 94, inciso I, da Lei n.º 11.101, de 09 de fevereiro de 2005. Sentença que julgou improcedente o pedido de falência e que determinou a expedição do mandado de pagamento em favor da requerida. Preliminar de nulidade da sentença, por falta de fundamentação, afastada. In casu, foi efetuado o depósito elisivo, impossibilitando, portanto, a decretação da falência da requerida, na forma do parágrafo único do artigo 98 da Lei de Falência. A controvérsia consiste na existência, ou não, da impontualidade no pagamento do título capaz de fundamentar o pedido de falência. Ocorre que, de acordo com o § 3.º do artigo 94 da aludida lei, o pedido de falência deve ser instruído com os títulos executivos, o que não ocorreu na presente hipótese. Não consta dos autos os títulos que embasam a dívida, tendo sido apresentados tão- somente os respectivos protestos, os quais não são suficientes. Ademais, não foi apresentada a notificação devida, como determina a Súmula 3 61 do Superior Tribunal de Justiça. A requerente não logrou êxito em comprovar a presença dos requisitos legais para o regular processamento da presente demanda, estando escorreita a sentença denegatória. Nessa linha de raciocínio, só resta manter o levantamento do depósito elisivo em favor da requerida. Manutenção do decisum que se impõe. Recurso a que se nega provimento
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 655/661).
+No especial (e-STJ fls. 673/689), fundamentado no art. 105, III, "a", da CF, a recorrente alegou ofensa aos arts. 7º, 489 e 1.022 do CPC/2015, por negativa de prestação jurisdicional. Sustentou, em síntese, que (e-STJ fl. 682):
+35. Os embargos de declaração visavam a sanar (i) omissões, nos termos do inciso II, (i.i) quanto à pacificada conversão da ação de falência em ação de cobrança, diante do depósito elisivo, não tendo sido devidamente analisada, e (i.ii) quanto à ausência de fundamentação legal sobre o suposto vício dos títulos executivos, bem como (ii) obscuridade e contradição, nos termos do inciso I, quanto a demonstrada presença dos títulos e documentos necessários para ação, tendo o cartório, equivocadamente, eliminado os autos de Agravo de Instrumento sem a correspondente digitalização, enquanto constavam naquele outros documentos analisados.
+No agravo (e-STJ fls. 726/744), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada pela recorrida (e-STJ fls. 783/790).
+Parecer ministerial às fls. 806/810 (e-STJ).
+É o relatório.
+Decido.
+Não há falar em contrariedade aos arts. 7º, 489 e 1.022 do CPC/2015.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fl. 660):
+Em relação à conversão da ação falimentar em ação de cobrança, tal fundamento não constou do apelo, além de se tratar de ponto já apreciado e julgado em agravo de instrumento que já se tornou coisa julgada.
+No tocante à ausência de fundamentação legal, o acórdão embargado mencionou que, ainda que de forma concisa, a sentença foi devidamente fundamentada, trazendo as matérias necessárias e suficientes ao seu entendimento.
+No que concerne às alegadas contradição e obscuridade do julgado, estas também não merecem acolhida, uma vez que é ônus da demandante a correta instrução probatória, o que não ocorreu.
+Portanto, o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos. Ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação dos referidos dispositivos.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
