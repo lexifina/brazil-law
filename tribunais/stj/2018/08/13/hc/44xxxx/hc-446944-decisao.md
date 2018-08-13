@@ -1,0 +1,77 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME] e [NOME] DIAS DA [NOME], em face de decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, que proveu parcialmente a apelação defensiva.
+Consta dos autos que [NOME] foi condenado à pena de 8 anos, 7 meses e 13 dias de reclusão, em regime inicial fechado, mais 40 dias-multa, e [NOME] à 8 anos e 2 meses de reclusão, em regime inicial fechado, mais 40 dias-multa, ambos pela prática dos delitos previstos nos arts. 157, § 2º, I e II, por várias vezes, em concurso formal, e art. 157, § 2º, I e II, c/c o art. 14, II, todos do Código Penal.
+Ato seguinte, a defesa interpôs recurso de apelação perante a Corte de origem, a qual lhe proveu parcialmente para reduzir a reprimenda de [NOME] para 8 anos e 2 meses de reclusão, mais 17 dias-multa, e a de [NOME] para 7 anos, 9 meses e 27 dias de reclusão, mais 17 dias-multa.
+No presente habeas corpus, alega a ocorrência de constrangimento ilegal sob o argumento de que o entendimento mais abalizado a respeito do tema confirma que em situação de aparente e simultânea incidência da norma de concurso formal e da continuidade delitiva em casos como o presente que se trata de crimes de roubo, a unificação das penas, com o acréscimo de fração à pena basilar, deve se fazer apenas pelo critério da continuidade delitiva, por mais abrangente.
+Requer a concessão da ordem constitucional para que seja excluída do cálculo da pena a majoração do concurso formal.
+Prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do mandamus.
+É o relatório.
+DECIDO.
+No concernente ao pleito de aplicação do instituto da continuidade delitiva para os roubos cometidos, tem-se que a Corte de origem aplicou a regra do concurso formal para o roubo cometido dentro do restaurante e a regra da continuidade para o delito de roubo na forma tentada, conforme os seguintes trechos da sentença e do acórdão.
+Sentença (fls. 26/29):
+DO RÉU [NOME] DIAS DA [NOME]
+ ..
+Após análise das circunstancias judiciais e considerando que são parcialmente desfavoráveis ao réu, fixo a pena base em 04 (quatro) anos e 08 (oito) meses de reclusão. Em relação a pena de multa, atendendo as circunstâncias judiciais já analisadas do art, 59 do CP, fixo em 40 (quarenta) dias-multa, no valor de 1/30 do salário mínimo, levando-se em conta a situação econômica do acusado (art 60, CP).
+No caso, existe a circunstância atenuante consistente em ter o agente confessado a autoria do crime em analise (art. 65, III, "d", CP), portanto, diminuo a pena em 03 (três) meses.
+De outro giro, não existem circunstâncias agravantes e causas de diminuição da pena.
+Por sua vez, verifico que se encontra presente as causas de majoração de pena previstas no § 2D, incisos I e II, do mencionado artigo. Considerando que o crime foi praticado com o emprego de mais de uma arma de fogo, ripo revólver e em concurso de pessoas, sob minha ótica o ato merece maior reprovação, já que o réu agiu em conjunto com mais três agentes, o que com certeza implicou em causar maior tenvor para as vítimas e mais facilidade para a prática do crime, sendo assim, majoro a pena acima do míninx) legal, ficando ela em 06 (seis) anos.
+Incide ainda no presente caso, a causa de aumento de pena descrita no art. 70, do Código Penal, ou seja, o concurso formal, tendo em vista que o roubo consumado foi praticado em face de várias vítimas, durante uma só ação, porém as conseqüências a meu ver não foram graves, razão pela qual, majoro a pena em 1/6, ficando ela em 07 (sete) anos.
+No caso, entendo que há ainda a incidência da continuidade delitiva, aplicando-se ao caso o disposto no art 71 do Código Penal.
+Tendo em mira que foram 02 (dois) delitos de roubo, um consumado e um tentado, ambos com emprego de arma de fogo e participação ativa de mais três pessoas, razão pela qual, majoro a pena em 1/6, ficando ela em 08 (oito) anos e 02 (dois) meses de reclusão, que fica sendo a pena final.
+Deste modo, fixo a pena privativa de liberdade definitiva em 08 (oito) meses e 07 (sete) meses e 13 (treze) dias de reclusão e, ao pagamento de 40 (quarenta) dias-multa, no valor de 1/30 do salário mínimo.
+ ..
+DO RÉU [NOME] [NOME] DIAS
+ ..
+Após análise das circunstâncias judiciais e considerando que são parcialmente desfavoráveis ao réu, fixo a pena base em C4 (quatro) anos e OS (oito) meses de reclusão. Em relação a pena de multa, atendendo as circunstâncias judiciais já analisadas do art. 59 do CP, fixo em 40 (quarenta) dias-multa, no valor de 1/30 do salário mínimo, levando-
+se cm conta a situação econômica do acusado (art. 60, CP).
+No caso, não existe circunstancia atenuante e nem agravante.
+Por sua vez, verifico que se encontra presente as causas de majoração de pena previstas no § 2a, incisos I e II, do mencionado artigo. Considerando que o crime foi praticado com o emprego de mais de uma arma de fogo, tipo revólver e cm concurso de pessoas, sob minha ótica o ato merece maior reprovação, já que o réu agiu cm conjunto com mais três agentes, o que com certeza implicou em causar maior temor para as vítimas e mais facilidade para a prática do crime, sendo assim, majoro a pena acima do mínimo legal, ficando ela cm 06 (seis) anos e 04 (quatro) meses.
+Incide ainda no presente caso, a causa de aumento de pena descrita no art, 70, do Código Penal, ou seja, o concurso formal, tendo em vista que o roubo consumado foi praticado em face de várias vítimas, durante uma só ação, porém as conseqüências a meu ver não foram graves, razão pela qual, majoro a pena cm 1/6, ficando ela cm 07 (sete) anos, 04 (quatro) meses e 20 (vinte) dias,
+No caso, entendo que há ainda a incidência da continuidade delitiva, aplicando-se ao caso o disposto no art. 71 do Código Penal.
+Tendo em mira que foram 02 (dois) delitos de roubo, um consumado e um tentado, ambos com emprego de arma de fogo e participação ativa de mais três pessoas, razão pela qual, majoro a pena em 1/6, ficando ela em 08 (oito) anos c 02 (dois) meses de reclusão, que fica sendo a pena final.
+Deste, modo fixo a pena privativa de liberdade definitiva em 08 (oito) anos e 07 (sete) meses e 13 (treze) dias de reclusão e ao pagamento de 40 (quarenta) dias-multa no valor dc 1/30 do salário mínimo.
+Acórdão (fls. 42/45):
+Considerando que tornei neutra ao Apelante a circunstância judicial das conseqüências do crime, permanecendo em seu desfavor a elevada culpabilidade, observando-se o quantum de exasperação utilizado pelo Juízo a quo, fixo a pena basilar do Apelante em 4 anos e 4 meses de reclusão.
+Na segunda fase, inexistem atenuantes ou agravantes.
+Na terceira etapa, presentes as causas de aumento previstas no art. 157, § 2o, I e II, do CP, mantenho o decisum primevo neste ponto, e aumento a pena em 1 ano e 8 meses, encontrando o quantum de 6 anos de reclusão.
+Além do mais, considerando o concurso formal de delitos (art. 70, CP), aumento a pena na fração de 1/6 (um sexto), chegando a 7 anos de reclusão -, considerando que os crimes foram praticados em continuidade delitiva (art. 71, CP), aumento a pena em mais 1/6 (um sexto), fíxando-a definitivamente em 8 anos e 2 meses de reclusão.
+ ..
+VII- ART. 580 DO CPP
+Nos termos do art. 580 do CPP, no caso de concurso de agentes, a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros.
+Assim, verifica-se que o corréu [NOME] se encontra em igual situação fático-processual que o Apelante, uma vez, que as razões que levaram o Juiz primevo a negativar a circunstância judicial das conseqüências do crime, são da mesma forma, inidôneas, sendo utilizados os mesmos argumentos que foram afastados neste recurso.
+Destarte, considerando que afastei a valoração negativa dessa circunstância judicial relativamente à [NOME], tal decisão deve ser estendida em favor de [NOME], (art. 580, CPP), o que faço de ofício.
+À vista disso, passo à dosimetria da sua pena.
+Considerando que tomei neutras as conseqüências do crime,
+permanecendo desfavorável a culpabilidade, fixo a pena basilar de [NOME] em 4 anos e 4 meses de reclusão.
+Na segunda fase, diante da atenuante da confissão espontânea, mitigo a pena intermediária de [NOME] em 3 meses - quantum utilizado pelo Juízo a quo -, fíxando-a em 4 anos e 1 mês de reclusão.
+Na terceira etapa, presentes as causas de aumento previstas no art. 157, § 2o, I e II, do CP, mantenho o decisum primevo neste ponto, e aumento a pena em 1 ano e 8 meses, encontrando o quantum de 5 anos e 9 meses de reclusão.
+Além do mais, considerando o concurso formal de delitos (art. 70, CP), aumento a pena na fração de 1/6 (um sexto), em 6 anos, 8 meses e 15 dias de reclusão; considerando que os crimes foram praticados em continuidade delitiva (art. 71, CP), aumento a pena em mais 1/6 (um sexto), fixando-a definitivamente em 7 anos, 9 meses e 27 dias de reclusão.
+Assim como a pena pecuniária do Apelante, a de [NOME] deve ser redimensionada de ofício, uma vez, que fixada em 40 dias-multa, em total desacordo com a dosimetria da pena privativa de liberdade.
+Nesse contexto, fixo a pena pecuniária em 10 dias-multa, deixando de aplicar a fração relativa à atenuante da confissão, a fim de evitar a condução da pena de multa aquém do mínimo legal.
+Na terceira etapa dosimétrica, aumento a pena pecuniária em 3/8 (três oitavos) devido às majorantes, 1/6 (um sexto) pelo concurso formal e 1/6 (um sexto) pela continuidade delitiva, tomando-a definitiva em 17 dias-multa; mantenho a unidade do dia-multa como consta da sentença de Io grau.
+Quanto ao tema, colaciono os arts. 70 e 71, ambos do Código Penal que prevêem as figuras do concurso formal e do crime continuado, a saber:
+Concurso formal
+Art. 70 - Quando o agente, mediante uma só ação ou omissão, pratica dois ou mais crimes, idênticos ou não, aplica-se-lhe a mais grave das penas cabíveis ou, se iguais, somente uma delas, mas aumentada, em qualquer caso, de um sexto até metade. As penas aplicam-se, entretanto, cumulativamente, se a ação ou omissão é dolosa e os crimes concorrentes resultam de desígnios autônomos, consoante o disposto no artigo anterior.(Redação dada pela Lei nº 7.209, de 11.7.1984)
+Crime continuado
+Art. 71 - Quando o agente, mediante mais de uma ação ou omissão, pratica dois ou mais crimes da mesma espécie e, pelas condições de tempo, lugar, maneira de execução e outras semelhantes, devem os subseqüentes ser havidos como continuação do primeiro, aplica-se-lhe a pena de um só dos crimes, se idênticas, ou a mais grave, se diversas, aumentada, em qualquer caso, de um sexto a dois terços. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Observa-se que, para o reconhecimento do concurso formal, o agente mediante apenas uma ação pratica dois ou mais crimes. Já na continuidade delitiva, o agente mediante mais de uma ação pratica dois ou mais crimes.
+No presente caso, o Tribunal de origem reconheceu o concurso formal entre os crimes praticados na "Lanchonete e Churrascaria Parecis". Isso porque, com apenas uma ação, os agentes atingiram o patrimônio de mais de uma pessoa. E aplicou a regra da continuidade delitiva em relação aos delitos praticados dentro da lanchonete e o ilícito tentado cometido em face da caminhonete GM S10.
+Entretanto, esta Corte superior entende que a aplicação da regra do concurso formal e, posteriormente, também o aumento pela continuidade delitiva, caracteriza bis in idem, inclusive porque ocasionaria uma situação mais favorável ao agente caso fosse reconhecida somente a figura do crime continuado em relação aos três delitos cometidos. Nesse sentido, cito os seguintes precedentes:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. DOSIMETRIA. CONCURSO FORMAL E CONTINUIDADE DELITIVA. BIS IN IDEM. REGIME FECHADO. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Superior Tribunal de Justiça é firme em assinalar que a majoração da pena, inicialmente pelo concurso formal e posteriormente pelo crime continuado, configura bis in idem.
+2. As instâncias de origem não apontaram nenhum elemento dos autos (como o modus operandi, por exemplo) que, efetivamente, comprovasse a real exigência de fixação do modo inicialmente mais gravoso.
+3. Agravo regimental não provido. (AgInt no HC 385.006/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 28/3/2017, DJe 6/4/2017.)
+HABEAS CORPUS. ART. 157, § 2º, I E II, POR DUAS VEZES, NA FORMA DO ARTIGO 70, CAPUT, E NO ARTIGO 157, § 2º, I E II, C.C. ART. 14, II, NA FORMA DO ARTIGO 71, CAPUT, TODOS DO CÓDIGO PENAL. IMPETRAÇÃO SUBSTITUTIVA DE RECURSO ESPECIAL. CONCURSO FORMAL. APLICADO. PRIMEIRO FATO (PRATICADO EM ÚNICA AÇÃO CONTRA DUAS VÍTIMAS). CONTINUIDADE DELITIVA. APLICADA. SEGUNDO FATO. TERCEIRA VÍTIMA. PRATICADO NO MESMO CONTEXTO FÁTICO. BIS IN IDEM. RECONHECIMENTO. APLICAÇÃO APENAS DA CONTINUIDADE DELITIVA. AUMENTO EM 1/5. TRÊS INFRAÇÕES. NÃO CONHECIMENTO. ORDEM DE OFÍCIO.
+1. Tratando-se de habeas corpus substitutivo de recurso especial, inviável o seu conhecimento.
+2. Diante da ocorrência de dois fatos (roubo circunstanciado contra duas vítimas e roubo circunstanciado tentado contra uma terceira vítima), a aplicação de concurso formal, quanto à primeira situação, e continuidade delitiva, no tocante à segunda, revela constrangimento ilegal identificado pela incidência de bis in idem.
+De rigor o reconhecimento apenas da continuidade delitiva, cujo acréscimo do quantum de pena resulta na fração de 1/5 (um quinto) por serem consideradas três infrações, conforme entendimento pacificado por esta Corte.
+3. Habeas corpus não conhecido. Ordem concedida, de ofício, a fim de reduzir a pena do paciente para 6 (seis) anos, 7 (sete) meses e 6 (seis) dias de reclusão, mais 17 (dezessete) dias-multa, mantidos os demais termos da condenação. (HC 357.746/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 30/6/2016, DJe 1º/8/2016.)
+Dessa forma, ainda que tenham sido praticados crimes de roubo consumados dentro da Lanchonete, mediante uma só ação, e um terceiro tentado, em continuidade delitiva, deve ser aplicada a regra do crime continuado para os três delitos.
+Passo, assim, ao redimensionamento da reprimenda.
+Fixou-se as penas-bases em 4 anos e 4 meses de reclusão, mais 10 dias-multa, para ambos os pacientes. A reprimenda de [NOME] permanece inalterada na segunda fase da dosimetria, e a de [NOME] reduz-se em 3 meses de reclusão, pela confissão espontânea, restando na reprimenda de 4 anos e 1 mês de reclusão, mais 10 dias-multa.
+Na terceira fase, aumentam-se as sanções em 1 ano e 8 meses de reclusão, mais 3 dias-multa, resultando na reprimenda de 6 anos de reclusão, mais 13 dias-multa para [NOME], e 5 anos e 9 meses de reclusão, mais 13 dias-multa para [NOME] (fls. 42 e 44). Por fim, aplica-se a regra da continuidade delitiva, elevando-se a sanção em 1/5, pelo cometimento dos delitos de roubos, resultando na pena final de 7 anos, 2 meses e 12 dias de reclusão, mais 15 dias-multa para [NOME], e 6 anos, 10 meses e 24 dias de reclusão, mais 15 dias-multa para [NOME].
+O regime inicial de ambos os pacientes é mantido fechado, tendo em vista a existência de circunstância judicial desfavorável (fl. 43).
+Ante o exposto, concedo o habeas corpus para reduzir as reprimendas finais a 7 anos, 2 meses e 12 dias de reclusão, mais 15 dias-multa para [NOME], e 6 anos, 10 meses e 24 dias de reclusão, mais 15 dias-multa para [NOME].
+Comuniquem-se.
+Publique-se.
+Intimem-se.
