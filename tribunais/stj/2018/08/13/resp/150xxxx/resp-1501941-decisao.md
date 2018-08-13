@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo TJSP, assim ementado (e-STJ fl.918):
+Ação declaratória - contratos bancários - cerceamento de defesa inocorrente - autora comerciante - inaplicabilidade do Código Consumerista - capitalização inocorrente em razão da natureza do contrato de abertura de crédito em conta corrente, assim como em contrato de cartão de crédito - viabilidade da cobrança de juros contratados superiores a 12% (doze por cento) ao ano - não incidência do art. 192, §3º da Constituição Federal (que dependia de legislação complementar não editada), revogado pela Emenda Constitucional nº 40, de 29 de maio de 2003 - Súmula nº 596 e Súmula Vinculante nº 7 do Supremo Tribunal Federal - ausência de abusividade contratual - restituição em dobro indevida - possibilidade de inclusão do nome da parte devedora no cadastro de devedores - recurso da autora improvido e recurso do réu provido.
+As razões recursais (e-STJ fls. 940/985), fundamentadas no art. 105, III, alíneas "a" e "c", da CF, versam sobre: (i) limitação dos juros remuneratórios à taxa média do Banco Central, (ii) capitalização anual de juros, (iii) inversão do ônus da prova e (iv) impossibilidade de cumulação da comissão de permanência com outros encargos.
+Foram apresentadas contrarrazões (e-STJ fls. 997/1.001).
+É o relatório.
+Decido.
+Inicialmente, cumpre ressaltar que o recurso foi interposto com fundamento no Código de Processo Civil de 1973, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+A respeito da alegação de impossibilidade de cumulação da comissão de permanência com outros encargos, não há indicação de dispositivo de lei federal supostamente violado, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PARTICULARIZAÇÃO DO DISPOSITIVO A QUE O ACÓRDÃO TERIA DADO INTERPRETAÇÃO DIVERGENTE. DISSÍDIO NÃO CONFIGURADO. PRECEDENTES. RECURSO A QUE SE NEGA PROVIMENTO.
+1. A ausência de indicação dos dispositivos em torno dos quais teria havido interpretação divergente, por outros tribunais, não autoriza o conhecimento do recurso especial quando interposto com base na alínea "c" do permissivo constitucional. Incidência da Súmula 284/STF. Precedentes.
+2. Agravo regimental não provido, com aplicação de multa.
+(AgRg no AREsp 550.426/PR, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 4/9/2014, DJe 11/9/2014.)
+
+Quanto à necessidade de inversão do ônus da prova, apesar de o recorrente alegar violação do art. 333, II, do CPC/1973, não há demonstração clara e inequívoca da forma como o referido preceito teria sido violado, o que caracteriza deficiência na fundamentação recursal, a teor da Súmula 284 do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. [NOME]. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. ENRIQUECIMENTO ILÍCITO. AUSÊNCIA DE PREQUESTIONAMENTO. ANÁLISE DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF.
+1. A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos como violados, bem como a exposição das razões pelas quais o acórdão teria afrontado a cada um deles, não sendo suficiente a mera alegação genérica. Dessa forma, o inconformismo se apresenta deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia (Súmula 284/STF).
+(..)
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 408.204/SC, 2ª Turma, Rel. Ministro Og Fernandes , DJe 29/11/2013)
+Em relação à capitalização anual de juros, o TJSP discriminou a possibilidade de sua ocorrência de acordo com a espécie de contrato entabulado entre as partes, nos seguintes termos (e-STJ fls. 920/922):
+Quanto à capitalização, é de se observar que os contratos de abertura de crédito em conta corrente se caracterizam pela concessão de determinado limite de crédito, colocado à disposição do contratante, a ser quitado mediante a utilização do saldo existente na conta corrente do autor, com previsão para renovação a critério da instituição financeira contratada.
+Assim, tendo em vista a natureza desse contrato, não há que se falar em capitalização de juros, pois o crédito é concedido ao devedor a cada trinta dias, quando vencem os juros relativos ao período anterior. Caso o devedor não pague a dívida, novo crédito é concedido automaticamente, com a inclusão dos juros do mês anterior no valor total da dívida, não se vislumbrando, por conseguinte, a alegada capitalização de juros.
+Concernentemente à capitalização de juros no contrato de cartão de crédito, saliente-se que a possibilidade de capitalização vem recebendo posicionamentos tanto favoráveis como contrários.
+Nesse trilho, o Colendo Superior Tribunal de Justiça já se manifestou no sentido de que, "por força do art. 5." da MP 2.170-36, é possível a capitalização mensal dos juros nas operações realizadas por instituições integrantes do Sistema Financeiro Nacional, desde que pactuada nos contratos bancários celebrados após 31 de março de 2000, data da publicação da primeira medida provisória com previsão dessa cláusula (art. 5." da MP 1.963/2000)" (AgRg no REsp 844405/RS, Rei. Min. Nancy Andrighi, data do julgamento 21/09/2010).
+Ademais, "em contratos de cartão de crédito é impróprio se falar em anatocismo. Supõe-se pagamento mensal e integral do débito, que extingue o empréstimo. Mas se não houver pagamento, considera-se o montante devido como principal que será objeto de novo financiamento. Assim, opera-se novação do saldo da dívida" (TJSP, Apelação nº 991.06.019197-0, Rei. Des. Souza Geishofer, 16a Câmara de Direito Privado).
+No que tange ao "Contrato de Cédula de Crédito Comercial", ressalte-se que se aplica, ao caso vertente, a Súmula nº 93 do Superior Tribunal de Justiça, que permite a cobrança de capitalização, a teor do disposto no art. 14,VI do Decreto-Lei nº 413/69: "A legislação sobre cédulas de crédito rural, comercial e industrial admite o pacto de capitalização de juros"."
+Ocorre que a recorrente se limita a alegar a impossibilidade de cobrança da capitalização mensal de juros, com o fundamento da ausência de juntada do contrato, além de não especificar contra qual espécie contratual estaria se insurgindo. Assim, trouxe alegações dissociadas do decidido no acórdão impugnado, incidindo, portanto, as Súmulas n. 283 e 284 do STF. Dessa maneira:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DEMORA INJUSTIFICADA NA REALIZAÇÃO DE PROCEDIMENTO CIRÚRGICO. FUNDAMENTOS DO ACÓRDÃO. NÃO IMPUGNAÇÃO. INCIDÊNCIA DO VERBETE 283 DA SÚMULA/STF. RAZÕES DISSOCIADAS DA MATÉRIA TRATADA NO ACÓRDÃO RECORRIDO. SÚMULA 284 DO STF. DEFEITO NA PRESTAÇÃO DO SERVIÇO. DANO MORAL. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. REVISÃO DO VALOR. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. NÃO PROVIMENTO.
+(..)
+2. As razões elencadas pelo Tribunal de origem não foram devidamente impugnadas. Incidência do enunciado 283 da Súmula/STF. 3. Não se conhece de recurso especial cujas razões estão dissociadas da matéria tratada pelo acórdão recorrido. Súmula 284/STF.
+(..)
+7. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 774.370/RS, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/11/2015, DJe 23/11/2015.)
+Por fim, acerca da possibilidade de limitação dos juros remuneratórios à taxa média fixada pelo BACEN, sua cobrança foi permitida com base nos seguintes fundamentos (e-STJ fls. 921/923):
+No que se refere à cobrança de juros, tem-se que esta integra a remuneração do Banco.
+A esse passo, ressalte-se que a limitação constitucional de juros a 12% (doze por cento) não deve ser considerada, uma vez que o art. 192, §3º da Carta Magna, que a previa, e que dependia de legislação complementar não editada, foi revogado pela Emenda Constitucional nº 40, de 29 de maio de 2003.
+ ..
+Ademais, limitada a taxa contratada àquele patamar, as atividades bancárias seriam paralisadas, e as operações de crédito extintas, uma vez que os estabelecimentos não mais teriam interesse em atuar no mercado, posto que têm um custo maior, tomando dinheiro emprestado para repassá-los aos mutuários.
+Nesse trilho, viável a cobrança dos juros contratados.
+No entanto, a recorrente aduz argumentos relativos à ausência de previsão contratual, bem como à ausência de informação prévia da cobrança, dissociados dos fundamentos do acórdão recorrido, fazendo incidir as Súmulas n. 283 e 284 do STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
