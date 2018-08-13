@@ -1,0 +1,47 @@
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. OFENSA AO ARTIGO 1.022 DO CPC/2015. NÃO CARACTERIZAÇÃO. REGIME DECADENCIAL DE ICMS. OCORRÊNCIA DE DOLO VISANDO OMITIR O PAGAMENTO. APLICAÇÃO DO ARTIGO 173, I, DO CTN. AGRAVO CONHECIDO PARA SE CONHECER PARCIALMENTE DO RECURSO ESPECIAL E NESSA EXTENSÃO, NEGO-LHE PROVIMENTO.
+DECISÃO
+Trata-se de agravo interposto por Ambev contra decisão de inadmissibilidade de recurso especial em face de acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, cuja ementa assim estabelece:
+APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. RECOLHIMENTO DO ICMS. DECADÊNCIA. NÃO OCORRÊNCIA. MULTA.
+ART. 71, IV, A, CTE. INCONSTITUCIONALIDADE DECLARADA. CARÁTER CONFISCATÓRIO. EXCLUSÃO. SUCUMBÊNCIA RECIPROCA. DISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS.
+I - Na hipótese de o contribuinte não efetuar o pagamento, ou o fazer a menor, cabe ao Fisco, ex ofício, realizar o lançamento, no prazo decadencial de 05 (cinco) anos, nos termos do art. 173, I. CTN, iniciando a contagem do prazo no primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado. No caso, não houve a decadência do direito do Fisco em constituir o crédito tributário.
+II - No caso, a multa aplicada foi fixada nos termos do art. 71, inc. IV, "a", do Código Tributário Estadual, no percentual de 140% do valor do tributo devido. Todavia, aludido dispositivo foi declarado inconstitucional pela Corte Especial deste Tribunal de Justiça, dado seu caráter eminentemente confiscatório.
+III - A superveniência da Lei n.º 17.917, de 27.12.2012, que reduziu o percentual da multa de 140% para 100% sobre o valor do débito principal, tornou a multa mais gravosa ao contribuinte, visto que antes era inaplicável em razão da declaração de inconstitucionalidade.
+V - Constatada a sucumbência recíproca, cada parte deverá arcar com 50% (cinquenta por cento) do valor arbitrado a título de honorários advocatícios, estando a Fazenda Pública isenta do pagamento das custas processuais.
+APELAÇÃO CÍVEL CONHECIDA E PARCIALMENTE PROVIDA.
+Os embargos de declaração foram rejeitados.
+Nas razões de recurso especial, fundamentado no artigo 105, III, a e c, do permissivo constitucional o recorrente alega a violação aos artigos 1.022 do CPC/2015 e 150, § 4º, do CTN, ao sustentar em síntese: (i) a nulidade do acórdão recorrido, ante a rejeição dos embargos de declaração; (ii) a decadência da obrigação tributária.
+Contrarrazões ao recurso especial às fls. 802/809 (e-STJ).
+Em decisão interlocutória, o Tribunal de origem inadmitiu o processamento do apelo especial.
+No agravo, o recorrente rechaçou as razões de inadmissão do recurso especial.
+Contraminuta ao agravo em recurso especial às fls. 844/845 (e-STJ).
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+De início, quanto à alegada ofensa ao artigo 1.022 do CPC/2015, depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou da questão suscitada, resolvendo, portanto, de modo integral a controvérsia posta.
+Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional, nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO - CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE O DÉCIMO-TERCEIRO SALÁRIO - CÁLCULO EM SEPARADO - REGIME DAS LEIS 8.212/91 E 8.620/93 - POSSIBILIDADE - CPC, ART. 535, II - AUSÊNCIA DE VIOLAÇÃO.
+1. Não ocorre ofensa ao art. 535, II, do CPC, se o Tribunal de origem analisa, ainda que implicitamente, a tese objeto dos dispositivos legais apontados pela parte.
+2. A eg. Primeira Seção pacificou o entendimento de que, na vigência da Lei n.º 8.620/93, é legítimo o cálculo em separado da contribuição previdenciária sobre o décimo-terceiro salário (EREsp 442.781, Rel. Min. Teori Albino Zavascki, julgado em 14.11.2007, DJ de 10.12.2007).
+3. Recurso especial provido.
+(REsp 868.242/RN, Segunda Turma, Rel. Ministra Eliana Calmon, DJe 12/6/2008)
+Rejeitada, portanto, a preliminar de violação do art. 1.022 do CPC/2015.
+No mérito, a recorrente assevera que, nos casos de lançamento de ofício, o STJ firmou o entendimento de que o prazo decadencial a ser observado, no caso de creditamento indevido do ICMS, está descrito no art. 150, § 4º do CTN e não no art. 173, inc. I, do mesmo diploma legal.
+O Tribunal de origem ao dirimir a controvérsia sobredita, arrematou, in verbis:
+No vertente caso, embora a apelante afirme que tenha efetuado o pagamento corretamente do tributo, além de sustentar a inexistência de irregularidade na apuração do débito, como bem destacou o nobre magistrado de origem, houve omissão no pagamento do ICMS, na importância de R$ 661.039,60 em razão da apropriação a maior de crédito do ICMS referente à aquisição de ativo imobilizado para o estabelecimento, registrado no Livro CIAP. Tal fato é constatado porquanto o valor do crédito registrado no campo "OUTROS CRÉDITOS" do LRAICMS, referente ao ativo imobilizado, é maior que o valor registrado no campo "CRÉDITO A SER APROPRIADO" do Livro CIAP, conforme apurado no auto de infração.
+Desse modo, cabe à autora/apelante a comprovação da regularidade do pagamento antecipado do imposto, conforme ônus probatório previsto no art. 373, inc. I, CPC/15, o que não ocorreu no caso.
+Assim, mister se faz a aplicação do disposto no artigo 173, inciso I, do CTN, cabendo ao Fisco efetuar o lançamento de ofício no primeiro dia do exercício seguinte àquele que o lançamento poderia ter sido efetuado.
+Ademais, o juízo de origem, em congruência com o acórdão, assentou, in verbis:
+Nota-se que o Conselho Administrativo Tributário - CAT afastou a incidência do art. 150 § 4º do Código Tributário Nacional, por entender que a autora efetuou procedimento contrário à legislação, caracterizado pelo dolo de omitir o pagamento de ICMS.
+Baseado neste contexto fático e considerando que fora reconhecido na instância de origem o dolo da contribuinte ao não adimplir corretamente com ICMS, aplica-se na questão a jurisprudência consolidada desta Corte, que não havendo a comprovação da regularidade do pagamento antecipado do ICMS, mister se faz a aplicação do entendimento constante do artigo 173, inciso I, do CTN, cabendo ao Fisco efetuar o lançamento de ofício no primeiro dia do exercício seguinte àquele que o lançamento poderia ter sido efetuado, não se operando, portanto, a decadência.
+A propósito:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ICMS. EXECUÇÃO FISCAL. ART. 173, I DO CTN: O PRAZO DECADENCIAL NOS TRIBUTOS SUJEITOS A LANÇAMENTO POR HOMOLOGAÇÃO, CASO TENHA HAVIDO DOLO, FRAUDE OU SIMULAÇÃO POR PARTE DO SUJEITO PASSIVO, TEM INÍCIO NO PRIMEIRO DIA DO ANO SEGUINTE AO QUAL PODERIA O TRIBUTO TER SIDO LANÇADO. FORA DESSAS HIPÓTESES, APLICA-SE O PRAZO DECADENCIAL PREVISTO NO ART. 150, § 4o. DO CTN, TENDO A FAZENDA PÚBLICA CINCO ANOS PARA HOMOLOGAR O PAGAMENTO ANTECIPADO, A CONTAR DA OCORRÊNCIA DO FATO GERADOR. PRECEDENTES. CASO EM QUE A MOLDURA FÁTICA DO ACÓRDÃO NÃO CONTÉM INFORMAÇÕES ACERCA DA EXISTÊNCIA DE DECLARAÇÃO DA CONTRIBUINTE E DO PAGAMENTO DO TRIBUTO. SÚMULA 7/STJ. DECADÊNCIA MANTIDA. AGRAVO REGIMENTAL DO ESTADO DE RORAIMA AO QUAL SE NEGA PROVIMENTO.
+1. O entendimento assente nesta Corte é o de que o prazo decadencial nos tributos sujeitos a lançamento por homologação, caso tenha havido dolo, fraude ou simulação por parte do sujeito passivo, tem início no primeiro dia do ano seguinte ao qual poderia o tributo ter sido lançado (REsp. 1.086.798/PR, Rel. Min. CASTRO MEIRA, DJe 24.4.2013 e AgRg no AgRg no AREsp 451.350/MG, Rel. Min. BENEDITO GONÇALVES, DJe 1o.7.2014).
+2. Fora dos casos de dolo, fraude ou simulação, nos tributos sujeitos a lançamento por homologação, em que o pagamento do tributo é antecipado pelo contribuinte, aplica-se o prazo decadencial previsto no art. 150, § 4o., do CTN, tendo a Fazenda Pública, em regra, 5 anos para homologar o pagamento antecipado, a contar da ocorrência do fato gerador (AgRg no REsp. 1.145.116/PR, Rel. Min. OG FERNANDES, DJe 7.5.2014 e AgRg no REsp. 1.318.020/RS, Rel. Min.
+BENEDITO GONÇALVES, DJe 27.8.2013).
+3. No caso dos autos, de acordo com a moldura fática contida no acórdão recorrido, verifica-se que o fato gerador do tributo ocorreu em 2001, não havendo informação a respeito da existência ou não de declaração por parte da contribuinte, tampouco se houve ou não o pagamento parcial do tributo, apenas constando que a contribuinte foi autuada em abril de 2007. Sendo assim, cumpre seja aplicado o enunciado 7 da Súmula de jurisprudência desta Corte, uma vez que os dados apresentados na decisão combatida não permite um juízo seguro acerca da ocorrência ou não da decadência.
+4. Agravo regimental do Estado de Roraima ao qual se nega provimento.
+(AgRg no REsp 1532105/RR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 15/03/2016, DJe 31/03/2016)
+Ante o exposto, com fundamento no artigo 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se.
+Intimem-se.
