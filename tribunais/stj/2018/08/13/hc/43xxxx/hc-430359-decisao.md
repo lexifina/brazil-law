@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME] apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente, menor de 21 anos à época dos fatos, foi condenado à pena de 3 anos e 3 meses meses de reclusão, em regime inicial aberto, substituída a pena privativa de liberdade por restritiva de direitos.
+O Juízo das Execuções reconheceu a prescrição da pretensão executória da pena e declarou extinta a punibilidade do paciente (fls. 8-12).
+Irresignado, o Ministério Público interpôs agravo em execução, ao qual o Tribunal de Justiça deu provimento para cassar a decisão que reconheceu a prescrição da pretensão executória e determinou a extinção da punibilidade do paciente.
+Alega a Defensoria Pública que pena cumprida é pena extinta e se o paciente cumpriu parte da reprimenda imposta, não pode mais o Estado executar esta pena, vez que foi cumprida.
+Prossegue argumentando que a pena aplicada será sempre a restante após a detração, sendo este restante, que regula a prescrição, inferior a 1 ano.
+Assinala que, dessa forma, a prescrição está caracterizada, em razão do decurso de mais de um ano, devendo se extinguir a punibilidade do paciente, em face a ocorrência da prescrição da pretensão executória.
+Requer, liminarmente e no mérito, que seja reconhecida a extinção da punibilidade do paciente pela prescrição da pretensão executória do Estado, com base no art. 107, IV, c.c. art. 109, VI e 113, todos do Código Penal.
+O pedido de liminar foi indeferido à fl. 16.
+As informações foram prestadas às fls. 36-51 e 52-72.
+O Ministério Público Federal ofertou parecer, às fls. 53-55, pelo não conhecimento do habeas corpus.
+É o relatório.
+DECIDO.
+Na hipótese, o Tribunal de Justiça do Estado de São Paulo afastou a prescrição da pretenção executória da pena reconhecida pelo Juízo das Execuções pelos seguintes fundamentos (fls. 8-12):
+O caso é de provimento do recurso interposto pelo Ministério Público.
+Isso porque, nos termos do art. 110 do Código Penal, a prescrição, após o trânsito em julgado da condenação, regula-se pela pena aplicada.
+No caso dos autos, a d. Magistrada entendeu que o tempo de prisão cumprida pelo sentenciado não poderia ser considerado para fins de cálculo do prazo prescricional, o que levou ao reconhecimento da prescrição da pretensão executória.
+Ocorre que, o tempo de prisão provisória pode ser considerado para fins de detração, a fim de diminuir o tempo de cumprimento de pena futura, mas jamais para influir no cálculo da prescrição.
+ ..
+Desta forma, como o sentenciado foi condenado ao cumprimento da pena de 3 anos e 3 meses de reclusão, o prazo prescricional é de 8 anos, nos termos do art. 109, inciso IV, do Código Penal. Porém, como era menor de 21 anos à época dos fatos, esse lapso é reduzido em metade, chegando-se ao prazo prescricional de 4 anos.
+Assim, esse lapso não foi superado entre o trânsito em julgado do acórdão que redimensionou a pena do sentenciado (fls. 51 - 19/07/2013) e a data da publicação da r. sentença impugnada (fls. 02vº - 19/08/2016), de modo que não ocorreu a prescrição da pretensão executória durante esse período.
+Diante do exposto, dou provimento ao recurso do Ministério Público, a fim de cassar a r. decisão que reconheceu a prescrição da pretensão executória e determinou a extinção da punibilidade do sentenciado [NOME], em relação às penas impostas nos autos do processo nº 0000037-91.2011.805.0045, da Vara da Comarca de Cândido Sales/BA.
+Inicialmente, registre-se que ambas as Turmas integrantes da 3ª Seção deste Superior Tribunal de Justiça consolidaram entendimento segundo o qual o período de prisão provisória do réu é considerado somente para o desconto da pena a ser cumprida e não para contagem do prazo prescricional, o qual será analisado a partir da pena definitiva aplicada, não sendo cabível a detração para fins prescricionais (AgRg no REsp 1474294/SC, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 13/10/2014).
+Não merece prosperar, portanto, a presente pretensão, pois, consoante acima demonstrado, o acórdão proferido pelo Tribunal de Justiça está em consonância com a jurisprudência pacificada desta Corte.
+Tem-se, portanto, que, na espécie, o paciente foi condenado à pena de 3 anos e 3 meses de reclusão, sendo, nos termos do art. 109, V, do CP, de 8 anos o prazo prescricional. Em razão da menoridade do paciente à época do fato, o lapso é reduzido em metade, chegando-se a 4 anos. O lapso de 4 anos não foi superado entre o trânsito em julgado do acórdão que redimensionou a pena do paciente (19/07/2013) e a data da publicação da sentença impugnada (19/08/2016), de modo que não ocorreu a prescrição da pretensão executória durante esse período.
+Nesse sentido, confiram-se os seguintes precedentes (com destaques):
+RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO PENAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. INOCORRÊNCIA. CONVERSÃO DA PENA RESTRITIVA DE DIREITOS EM PRIVATIVA DE LIBERDADE. PRAZO PRESCRICIONAL INALTERADO. NÃO INCIDÊNCIA DO ART. 113 DO CÓDIGO PENAL. REGIME PRISIONAL. AUTOS DEFICIENTEMENTE INSTRUÍDOS. PARCIAL CONHECIMENTO E DESPROVIMENTO.
+1. Hipótese que a medida restritiva de direitos foi convertida em privativa de liberdade, em razão do descumprimento. Pretensão defensiva de se contar a prescrição da pretensão executória com base no tempo restante da pena. Indicação do art. 44, § 4º, do Código Penal. Dispositivo aplicável para calcular o tempo de pena a ser executado, sem influência no prazo prescricional. Não incidência do art. 113 do Código Penal, de aplicação restritiva. Precedentes.
+2. Não é possível examinar a pretensão de alterar o regime prisional de cumprimento da pena se os autos não estão adequadamente instruídos, deles não constando a sentença condenatória ou a decisão de conversão da pena.
+3. Recurso parcialmente conhecido e, nessa extensão, desprovido. (RHC 64.322/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 07/04/2016, DJe 19/04/2016).
+PENAL E PROCESSO PENAL. HABEAS CORPUS. 1. IMPETRAÇÃO SUBSTITUTIVA DO RECURSO PRÓPRIO. NÃO CABIMENTO. 2. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. INOCORRÊNCIA. DETRAÇÃO DA PENA. INSTITUTO QUE NÃO REPERCUTE NO LAPSO PRESCRICIONAL. AUSÊNCIA DE PREVISÃO LEGAL. PRECEDENTES. 3. HABEAS CORPUS NÃO CONHECIDO.
+1. A Primeira Turma do Supremo Tribunal Federal e as Turmas que compõem a Terceira Seção do Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+2. A prescrição pela pena residual, conforme autoriza o art. 113 do Código Penal, somente é possível nos casos de evasão ou de revogação do livramento condicional. Dessarte, não há se falar em detração da pena para fins de cômputo da prescrição, porquanto ausente disciplina legal nesse sentido, devendo o lapso prescricional ser regulado de acordo com a pena total aplicada na sentença, sem desconto pela detração.
+3. Habeas corpus não conhecido. (HC 344.960/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 08/03/2016, DJe 11/03/2016).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO PENAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. PENA RESIDUAL (ART. 113 DO CÓDIGO PENAL). INTERPRETAÇÃO RESTRITIVA. LEGALIDADE.
+1. O Supremo Tribunal Federal e o Superior Tribunal de Justiça possuem entendimento pacífico de que o cálculo da prescrição pela pena residual, previsto no art. 113 do Código Penal, aplica-se somente às hipóteses de evasão do condenado e de revogação do livramento condicional, sendo inadmissível sua aplicação analógica.
+O período de prisão provisória do réu é levado em conta apenas para desconto da pena a ser cumprida (detração), sendo irrelevante para a contagem do prazo prescricional, o qual deve ser analisado a partir da pena concretamente imposta pelo julgador, não do restante da reprimenda a ser executada pelo Estado. Precedentes.
+2. Agravo regimental desprovido. (AgRg no RHC 44.021/SP, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 26/05/2015, DJe 10/06/2015).
+HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO AO RECURSO PREVISTO NO ORDENAMENTO JURÍDICO. 1. NÃO CABIMENTO. MODIFICAÇÃO DE ENTENDIMENTO JURISPRUDENCIAL. RESTRIÇÃO DO REMÉDIO CONSTITUCIONAL. EXAME EXCEPCIONAL QUE VISA PRIVILEGIAR A AMPLA DEFESA E O DEVIDO PROCESSO LEGAL. 2. EXECUÇÃO PENAL. TEMPO DE CUMPRIMENTO DA SEGREGAÇÃO CAUTELAR. DESCONTO PARA A PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. IMPOSSIBILIDADE. 3. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. A norma disciplinada no art. 113 do Código Penal tem incidência específica aos casos de revogação do livramento condicional ou de evasão do condenado, não admitindo interpretação extensiva ou analógica. Assim, o tempo de prisão provisória serve apenas para desconto da reprimenda a ser cumprida e não para fins de contagem do prazo da prescrição da pretensão executória. Precedentes.
+3. Habeas corpus não conhecido. (HC 278.422/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, julgado em 13/05/2014, DJe 21/05/2014).
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
