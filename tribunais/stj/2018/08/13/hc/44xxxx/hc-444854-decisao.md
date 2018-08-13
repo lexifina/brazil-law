@@ -1,0 +1,6 @@
+DECISÃO
+1. Trata-se de HABEAS CORPUS por meio do qual se pretende, em síntese, a revogação da segregação decretada em desfavor de MIRIAN RODRIGUES ARMOAM.
+2. Entretanto, conforme informações colacionadas pelo Parquet Federal, constata-se que, em 11/6/2018, foi efetuada a liberação de MIRIAN RODRIGUES ARMOAM, circunstância que evidencia a perda do objeto do presente writ.
+3. Ante o exposto, julga-se prejudicado o HABEAS CORPUS, com fulcro no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.
+Após ciência do Ministério Público Federal e o trânsito em julgado desta decisão, arquivem-se os autos.
