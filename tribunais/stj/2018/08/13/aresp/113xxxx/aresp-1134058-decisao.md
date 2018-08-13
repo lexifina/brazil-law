@@ -1,0 +1,33 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS À AÇÃO MONITÓRIA. INADIMPLÊNCIA JUNTO AO FUNDO ROTATIVO DE CRÉDITO EDUCATIVO-FUNPROCRED. CITAÇÃO POR EDITAL. ACÓRDÃO RECORRIDO QUE DECLAROU O ESGOTAMENTO DE TODOS OS MEIOS POSSÍVEIS PARA A LOCALIZAÇÃO DA PARTE AGRAVANTE. VALIDADE. DECISÃO FUNDAMENTADA NO CONJUNTO FÁTICO PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE, EM PRINCÍPIO, DE REEXAME NESTA SEARA RECURSAL. AGRAVO EM RECURSO ESPECIAL DA PARTE AUTORA A QUE SE NEGA PROVIMENTO.
+1. Trata-se de Agravo contra decisão que inadmitiu Recurso Especial interposto por TATIANA FERNANDES ASSONI DE OLIVEIRA, com fundamento no art. 105, III, a da Constituição Federal, contra acórdão proferido pelo TJ/RS, assim ementado:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO MONITÓRIA. FUNDO ROTATIVO DE CRÉDITO EDUCATIVO-FUNPROCRED. CITAÇÃO POR EDITAL. VALIDADE.
+Esgotadas todas as possibilidades para a citação pessoal, possível a realização da citação por edital. Inteligência do art. 256 do CPC/2015. RECURSO DE APELAÇÃO DESPROVIDO (fls. 195).
+2. Os Embargos de Declaração opostos foram rejeitados (fls. 215/222).
+3. No Recurso Especial, a parte agravante alegou violação do art. 232, III do CPC/2015. Aduziu que, por todo o exposto, não há como concluir que houve o devido procedimento quanto ao chamamento ao processo do ora recorrente, tendo em vista que não foram esgotadas todas as tentativas de sua localização antes de ser realizada a citação via edital (fls. 234).
+4. Com contrarrazões (fls. 241/247), o recurso foi inadmitido na origem (fls. 249/252).
+5. É o relatório do essencial.
+6. Não há como acolher a alegada violação do art. 232, III do CPC/2015, visto que a lide foi solvida com a devida fundamentação, ainda que sob ótica diversa daquela almejada pela ora agravante. Todas as questões postas em debate foram efetivamente decididas, não tendo havido vício algum que justificasse o manejo dos Embargos Declaratórios. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+7. Conforme se verifica dos autos, os fundamentos utilizados como razões de decidir da sentença proferida pela Corte de origem foram:
+Na forma do artigo 256 do CPC/2015, mostra-se possível a citação por edital quando desconhecido ou incerto o citando, quando ignorado, incerto ou inacessível o lugar em que se encontrar o citando e, nos casos expressos em lei.
+Esgotados todos os meios possíveis para a localização dos réus, deve ser determinada a citação por edital, na forma do artigo 256, §3o. do CPC/2015.
+Como sabido, a citação por edital é medida excepcional e deve atender a todos os requisitos estabelecidos nos arts. 256 e 257 do CPC/2015 e depois de esgotados todos os meios de localização do endereço do réu.
+Desse modo, conforme se verifica nos autos restaram esgotadas as tentativas de localização do réu (fls. 38, 39, 52, 56, 59, 60, 69 e 72), pois foram efetuadas diligências suficientes para sua localização, sendo desnecessárias outras providências.
+Assim, é de ser afastada a alegação de nulidade da citação.
+No que se refere aos artigos invocados pela parte, dou-os por prequestionados, com a finalidade de evitar eventual oposição de embargos declaratórios tão somente para este fim. Cumpre salientar que não está obrigado o julgador a manifestar-se acerca de todos os artigos de lei invocados pela parte ao longo da lide, bastando apenas fundamentar sua decisão, na forma dos artigos 489, IV e 1025, do Novo Código de Processo Civil.
+Ante o exposto o voto é pelo desprovimento do recurso de apelação (fls. 198/200).
+8. Desta feita, para se comprovar a alegada nulidade processual pela citação do réu via edital, deve-se averiguar se foram esgotados todos os meios possíveis para sua localização, para o que é necessário o reexame do conjunto fático-probatório dos autos, providência vedada, em princípio, nesta seara recursal. Ilustrativamente:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. ICMS. AUSÊNCIA PARCIAL DE PREQUESTIONAMENTO. SÚMULA 282/STF. CDA. REEXAME DE PROVAS. SÚMULA 7 DO STJ. TAXA SELIC. ANÁLISE DO DISPOSTO EM NORMA ESTADUAL. SÚMULA 280/STF.
+1. Inicialmente, mostra-se descabida a alegação de nulidade da citação, pois, conforme consignado no acórdão reprochado, a citação se deu de maneira regular, por meio de aviso de recebimento e a apelante não conseguiu comprovar que esta citação não tenha cumprido os requisitos legais.
+2. Ademais, está claro que a recorrente compareceu aos autos e defendeu-se regularmente. Modificar o entendimento da Corte regional, para reexaminar o contexto fático produzido nos autos, encontra óbice na Súmula 7 do STJ.
+(..).
+4. O crédito tributário possuía certeza, liquidez e exigibilidade. Portanto, a alteração do decisum, para modificar o entendimento do Tribunal local, demanda incursão no acervo fático-probatório dos autos. Contudo, tal medida encontra óbice na Súmula 7 do STJ: A pretensão de simples reexame de prova não enseja Recurso Especial.
+5. Verifica-se que a questão em debate sobre a taxa Selic envolve, na realidade, análise do disposto na Lei Estadual 10.175/1998, o que encontra óbice na Súmula 280 do STF (por ofensa a direito local não cabe recurso extraordinário, além de usurpar a competência do STF, no que tange à apreciação de ofensa a dispositivos constitucionais.
+6. Recurso Especial não conhecido (REsp. 1.689.948/SP, Rel. Min. HERMAN BENJAMIN, DJe 10.10.2017).
+
+TRIBUTÁRIO E PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. INCIDÊNCIA DA SÚMULA 284/STF. ALCANCE DA APELAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. VÍCIOS DE CITAÇÃO. INCIDÊNCIA DAS SÚMULAS 7/STJ E 284/STF.
+1. A Corte ratificou o entendimento e acrescentou que há uma verdadeira confusão quanto à informação do endereço da recorrente, razão pela qual, e sobretudo por haver penhora tão vultosa de ativos financeiros, entendeu que não há como acolher a tese da recorrente acerca da nulidade de citação ou da ausência de ciência do pleito executivo ou mesmo do cerceamento de defesa. Incidência da Súmula 7/STJ.
+(..).
+3. A Corte de origem afastou a nulidade da citação, porquanto se presume que a intimação foi efetivamente realizada na sede da empresa ou, no máximo, de uma filial sua (fl. 157, e-STJ). Entendimento, aliás, que foi consolidado diante da análise do conjunto fático dos autos, em que se constatou a confusão na informação de endereços por parte do próprio executado, argumento que nem sequer foi impugnado pelo recorrente. A irresignação recursal encontra óbice nos enunciados 7/STJ e 284/STF da Súmula. Agravo regimental improvido (AgRg no AREsp. 757.139/RS, Rel. Min. HUMBERTO MARTINS, DJe 20.10.2015).
+9. Diante do exposto, nega-se provimento ao Agravo em Recurso Especial da parte autora.
+10. Publique-se. Intimações necessárias.
