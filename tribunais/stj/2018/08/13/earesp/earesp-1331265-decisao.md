@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] [NOME] [NOME] [NOME] contra decisão exarada pela il. Presidência da Seção de Direito Privado do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), que inadmitiu o recurso especial.
+Cuidam os autos, na origem, de ação ordinária proposta por [NOME] em desfavor de BANCO SANTANDER (BRASIL) S.A.
+O il. Magistrado julgou improcedente o pedido (sentença às fls. 216/218).
+Diante disso, [NOME] [NOME] [NOME] [NOME] interpôs apelação, a qual foi desprovida pelo eg. TJ-SP, nos termos do v. acórdão, assim ementado:
+"- Seguro de vida - Indeferimento, antes da sentença, de inclusão da seguradora no polo passivo do processo Inexistência de recurso a respeito - Preclusão.
+- Se não há alegação nem prova de que havia contrato de seguro vigente no momento da ocorrência do acidente sofrido pela autora, em 2005, não se acolhe pedido de recebimento de indenização securitária - Recurso conhecido em parte e não provido".
+Os embargos de declaração opostos foram rejeitados (acórdão às fls. 271/276).
+Inconformada, [NOME] [NOME] [NOME] [NOME] interpôs recurso especial, com fulcro no art. 105, inciso III, alíneas "a" e "c", da CF/88, no qual alega, além da divergência jurisprudencial, ofensa dos arts. 2º,128, 285, 301, 319, 390, 467 do CPC/73; e dos arts. 467, 468, 471, 473 e 475 do CPC/2015.
+Como dito, o apelo nobre foi inadmitido às fls..
+Irresignada, [NOME] [NOME] [NOME] [NOME] manejou o presente agravo em recurso especial refutando os fundamentos da decisão que inadmitiu seu apelo nobre.
+Foi apresentada contraminuta (fls. 373/376).
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+No apelo nobre que pretende trânsito, sustenta-se violação dos arts. 2º,128, 285, 301, 319, 390, 467 do CPC/73; e dos arts. 467, 468, 471, 473 e 475 do CPC/2015, ao argumento de que o v. acórdão estadual não considerou a confissão do recorrido quanto à vigência da apólice.
+O recurso, contudo, não merece prosperar.
+Isso porque o eg. TJ-SP, mediante análise soberana das provas carreadas aos autos, concluiu no sentido de que a recorrente não apresentou apólice que comprovasse a vigência durante o sinistro ocorrido em 5 de agosto de 2005. À título elucidativo, colacionam-se os seguintes excertos do v. acórdão estadual (fls. 258/259):
+"A ação foi julgada improcedente sob o fundamento de que "está incontroverso, pelos documentos e pelo resultado da perícia, que a autora é portadora da moléstia denominada "síndrome do impacto do ombro esquerdo" (tis.185), apresentando invalidez parcial e permanente por conta de lesão de natureza traumática do ombro esquerdo (fls. 183), cujo principal fator causai está relacionado a acidente ocorrido na data de 05 de agosto de 2005, quando a autora foi vítima de queda ao deixar o hospital onde trabalhava (fls.183). Cabe, portanto, analisar se o caso da autora se enquadra dentre as coberturas previstas no contrato de seguro celebrado pelas partes. Nesse sentido, observa-se que a apólice do contrato objeto da ação prevê, dentre as possibilidades de cobertura, a hipótese de invalidez total ou parcial por acidente, o que caracteriza o caso da autora como sinistro a ser indenizado, no importe de R$24.187,30. No entanto, observa-se que a autora não apresentou apólice que indicasse a vigência do referido contrato de seguro na data do sinistro, ocorrido em 05 de agosto de 2005. Ao contrário, apresentou apenas certificado individual de seguro emitido em 21 de março de 2007 (fls.07), fatura com vencimento em 02 de janeiro de 2010 (fls.08) e declaração de invalidez da data de 25 de fevereiro de 2009 (fls.16/18).
+Inviável, portanto, o pagamento da indenização de indenização de seguro por sinistro ocorrido em data na qual não se tem nenhum elemento da vigência do contrato em questão" (fl. 199/200).
+Apeladas, em nenhum momento do processo, aventaram a dissonância entre o pedido e a vigência de apólice na data do sinistro, tendo-se esse fato como confessado e aceito, sem qualquer oposição" (fl.220), mas a inicial não refere a data da contratação do seguro nem que havia contrato vigente na data da ocorrência do sinistro.
+Não havia, portanto, nada a contrariar a respeito da existência ou não da cobertura securitária, na data do acidente.
+Além disso, a autora só faz jus à indenização se houver seguro em vigor na data do sinistro, o que, como disse a sentença, não havia neste caso, não podendo a autora se valer de contrato formulado bem depois".
+Nesse cenário, para se alterar o entendimento ora transcrito, quanto à ausência de provas sobre a vigência da apólice, seria necessária a revisão de matéria fático-probatória, o que é inadmissível em sede de recurso especial, nos termos da Súmula 7/STJ.
+No que tange à divergência jurisprudencial, o apelo também não merece acolhimento, pois não há similitude fática e jurídica entre o aresto paradigma, oriundo deste Sodalício, e o v. acórdão estadual.
+Assim, forçoso reconhecer que o presente apelo não merece prosperar.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Majoro os honorários advocatícios recursais, nos termos do art. 85, § 11, do CPC/2015, de 10% (dez por cento) para 11% (onze por cento) sobre o valor da causa, cuja exigibilidade ficará suspensa, conforme art. 98, § 3º, do CPC/2015.
+Publique-se.
