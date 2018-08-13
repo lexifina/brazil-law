@@ -1,0 +1,18 @@
+DECISÃO
+VILMAR BALLIN ajuíza pedido de medida cautelar inominada, visando atribuir efeito suspensivo ativo a agravo em recurso especial.
+Sustenta que, em caso de condenação por pena restritiva de direitos, o Superior Tribunal de Justiça não tem admitido a execução provisória.
+Afirma que, a qualquer momento, a Corte Estadual pode impor o início da execução da pena assim como dos demais efeitos da sentença condenatória (fl. 18).
+Requer, liminarmente e no mérito, o deferimento do pedido, declarando o efeito suspensivo à execução da pena restritiva de direitos, assim como de todos os demais efeitos impostos no acórdão originário do TJRS, inclusive a inabilitação ao exercício de cargo ou função pública eletivos (fl. 19).
+É o relatório.
+Decido.
+O recurso especial foi inadmitido na origem (fls. 61/76), tendo sido interposto agravo (fls. 77/103), autuado sob o n. 1.278.108/RS e a mim distribuído em 3/5/2018.
+Nos termos da orientação jurisprudencial do STJ, A concessão da medida cautelar, para conferir efeito suspensivo a recurso inadmitido na origem, e objeto de agravo nos próprios autos perante esta Corte de Justiça, é excepcional e pressupõe a aferição da existência de decisão teratológica ou manifestamente contrária à jurisprudência deste Superior Tribunal de Justiça, somada à demonstração dos requisitos da viabilidade do apelo nobre e plausibilidade do direito invocado, e do perigo da demora. (AgRg na MC 24.490/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/04/2016, DJe 04/05/2016).
+No caso, o requerente foi condenado, como incurso no art. 1º, XIII, do Decreto-lei 201/67, na forma do art. 71 do CP, à pena de 4 meses de detenção, em regime aberto, substituída por prestação pecuniária, determinando, ainda, a perda do cargo e a inabilitação pelo prazo de 5 anos para o exercício de cargo ou função pública, eletivo ou de nomeação, após o trânsito em julgado.
+É certo que a Sexta Turma desta Corte, ao apreciar os EDcl no REsp 1.484.413/DF e no REsp 1.484.415/DF, na sessão de 3/3/2016, adotou a orientação firmada pelo Pleno do Supremo Tribunal Federal (HC 122.292/MG, de 17/2/2016) de que a execução provisória da condenação penal, na ausência de recursos com efeito suspensivo, não viola o princípio constitucional da presunção de inocência.
+Inclusive, o Pleno do Supremo Tribunal Federal, apreciando medida cautelar nas Ações Declaratórias de Constitucionalidade 43 e 44 (DJE 11/10/2016), por maioria, reafirmou o entendimento da possibilidade de execução provisória da pena, na ausência de recurso com efeito suspensivo, confirmada, ainda, em repercussão geral (ARE 964246 RG, DJe 25/11/2016).
+Ocorre que, ressalvada compreensão pessoal diversa, a Terceira Seção, no julgamento do EResp 1.619.087/SC, na sessão de 14/06/2017, adotou a orientação quanto à impossibilidade de execução provisória das penas restritivas de direito, sendo indispensável, em tais casos, o trânsito em julgado da sentença penal condenatória, nos termos do art. 147 da Lei de Execução Penal.
+Assim, com o julgamento do feito pelo Tribunal de origem torna-se relevante o risco de execução provisória e, se não há possibilidade de execução provisória da pena restritiva de direitos, tampouco poderão ter por ora incidência os efeitos secundários da condenação, de modo que reconheço presentes o periculum in mora e o fumus boni iuris, aptos à concessão de efeito suspensivo ao agravo em recurso especial.
+Ante o exposto, defiro o pedido liminar para atribuir efeito suspensivo ativo ao AREsp n. 1.278.108/RS.
+Cientifique-se o Tribunal de Justiça do Estado do Rio Grande do Sul.
+Publique-se.
+Intimem-se.
