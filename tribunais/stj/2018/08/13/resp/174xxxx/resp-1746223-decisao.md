@@ -1,0 +1,44 @@
+EMENTA
+PENAL. PROCESSO PENAL. RECURSO ESPECIAL. FURTO QUALIFICADO PELO ROMPIMENTO DE OBSTÁCULO. EXAME PERICIAL NÃO REALIZADO. INEXISTÊNCIA DE JUSTIFICATIVAS PARA A NÃO REALIZAÇÃO DO EXAME. AFASTAMENTO DA QUALIFICADORA. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto pelo WESLEN DE ARAUJO BRUNO, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra o v. acórdão prolatado pelo eg. Tribunal de Justiça do Distrito Federal, assim ementado (fl. 280-294):
+"Furto qualificado pelo rompimento de obstáculo. Exame pericial. Depoimento de policiais. Princípio da insignificância. Reincidente específico.
+1 - Os depoimentos prestados por policiais são idôneos. Provêm de agentes públicos no exercício de suas atribuições. Têm a mesma força probante que os prestados por quaisquer outras testemunhas, desde que corroborados pelas demais provas produzidas.
+2 - Confirmado por outros meios de prova, dispensável o exame pericial para constatar o rompimento de obstáculo à subtração da coisa.
+3 - Para se aplicar o princípio da insignificância, devem ser considerados os seguintes requisitos: mínima ofensividade da conduta do agente, ausência de periculosidade social da ação, reduzido grau de reprovabilidade do comportamento e inexpressividade da lesão jurídica causada.
+4 - O juízo da vara de execuções penais é o competente para examinar o pedido de isenção das custas.
+5 - Apelação do MP provida, não provida a do réu."
+Nas razões do recurso especial, a parte recorrente sustenta a violação: i) do art. 155, § 4º, inciso I, do Código Penal e do arts. 158 e 171, ambos do Código de Processo Penal, vez que para o incremento da pena na qualificadora de rompimento de obstáculo, far-se-ia necessária a realização de perícia, o que não ocorreu no caso em tela; b) art. 617 do Código de Processo Penal, vez que houve recrudescimento no v. acórdão do vetor antecedentes, sem que houvesse, contudo, pleito expresso do Ministério Público, violando, com isso, o princípio do non reformatio in pejus; e c) ao art. 33, §§ 2º e 3º, do Código Penal, ao argumento de que o regime inicial imposto no aresto vergastado é desproporcional com a pena aplicada.
+Apresentadas as contrarrazões (fls. 322-328), o recurso foi admitido na origem e os autos encaminhados a esta Corte Superior.
+A d. Subprocuradoria-Geral da República apresentou parecer pelo provimento do recurso especial (fls. 352-354).
+É o relatório.
+Decido.
+Consta dos autos que o recorrente foi condenado, em primeiro grau, à pena de 01 (um) ano e 04 (quatro) meses, em regime inicial aberto, pela prática do delito do art. 155, caput.
+Em segunda instância, o eg. Tribunal a quo negou provimento da defesa e deu provimento ao apelo ministerial para reconhecer a qualificadora do art. 155, § 4º, I, do Código Penal, redimensionado a pena para 03 (três) anos e 03 (três) meses de reclusão, em regime fechado.
+Quanto à alegada violação ao art. 155, § 4º, inciso I, do Código Penal e do arts. 158 e 171, ambos do Código de Processo Penal, faz-se mister trazer à baila excerto do voto condutor do acórdão, verbis (fls. 288-345):
+"O furto é qualificado se cometido com destruição ou rompimento de obstáculo à subtração da coisa (CP, art. 155, § 4o).
+A destruição ou rompimento de obstáculo à subtração da coisa, porque infração que deixa vestígios, deve ser provada por exame de corpo de delito (CPP, art. 158).
+Ocorre que, se houver outros elementos que tornem indubitável a destruição ou arrombamento de obstáculo, o exame pericial torna-se dispensável.
+ ..
+As testemunhas, na delegacia e em juízo, e a vítima, na fase inquisitorial, disseram que o veículo foi encontrado com o vidro dianteiro quebrado e no seu interior havia uma pedra. Acrescentaram que, ao ser abordado, o réu tinha estilhaços de vidro pelo corpo.
+Embora solicitado o exame pericial no veículo, esse não foi realizado, provavelmente, por não ter a vítima levado o veículo ao instituto de criminalística (f. 43).
+Desnecessário, no caso, o exame pericial no veículo. As declarações dos policiais e da vítima, descrevendo e informando o arrombamento, são provas suficientes de que houve o rompimento de obstáculo. Incide, pois, a qualificadora."
+Da análise do excerto acima transcrito, verifica-se que o acórdão reprochado deve ser reformado, tendo que em vista que se encontra em desconformidade com o entendimento sedimentado neste eg. Tribunal, no sentido de que o exame de corpo de delito direto, por expressa determinação legal, é indispensável nas infrações que deixam vestígios, podendo apenas supletivamente ser suprido pela prova testemunhal quando os vestígios tenham desaparecido.
+Assim, se era possível a realização da perícia, mas esta não ocorreu, a prova testemunhal não supre a sua ausência.
+Ilustrativamente:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO. INEXISTÊNCIA DE PERÍCIA DIRETA. AUSÊNCIA DE DEMONSTRAÇÃO DA IMPOSSIBILIDADE DE REALIZAÇÃO. IMPRESCINDIBILIDADE.QUALIFICADORA AFASTADA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. INSURGÊNCIA DESPROVIDA.
+1. Segundo a pacífica jurisprudência desta Corte Superior, quando a conduta deixar vestígios, o exame de corpo de delito é indispensável à comprovação da materialidade do crime, podendo, contudo, o laudo pericial ser substituído por outros elementos de prova apenas quando os vestígios tenham desaparecido por completo ou o lugar se tenha tornado impróprio para a constatação dos peritos.
+2. Na espécie, o aresto combatido não faz qualquer menção à ausência de vestígios da conduta, que inviabilizaria a realização de perícia no local, revelando-se, pois, insuficiente a comprovação da qualificadora feita por meio de outros instrumentos de prova, mormente por auto de constatação lavrado por um policial militar sem a devida designação para o encargo.
+3. Impõe-se a manutenção da decisão agravada, que afastou a qualificadora referente ao rompimento de obstáculo, com a consequente adequação da pena aplicada.
+PRIMARIEDADE E PEQUENO VALOR DO BEM SUBTRAÍDO. PRIVILÉGIO.RECONHECIMENTO. HABEAS CORPUS. CONCESSÃO DE OFÍCIO.
+1. Preenchidos os requisitos exigidos no § 2º do artigo 155 do Código Penal, quais sejam, primariedade e pequeno valor da coisa subtraída, o acusado faz jus ao abrandamento da reprimenda em razão do privilégio. 2. Agravo regimental desprovido. Ordem concedida de ofício para reconhecer o furto privilegiado, redimensionar a pena, substituindo-a por restritiva de direitos." (AgRg no REsp 1608902/MG, Quinta Turma, Rel. Min. Jorge Mussi, DJe 14/11/2017)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. CRIME DE FURTO QUALIFICADO PELO ROMPIMENTO DE OBSTÁCULO. EXAME PERICIAL NÃO REALIZADO. INEXISTÊNCIA DE JUSTIFICATIVAS PARA A NÃO REALIZAÇÃO DO EXAME. AFASTAMENTO.
+1. No que tange à imprescindibilidade da prova técnica para o reconhecimento do furto qualificado por rompimento de obstáculo, vale lembrar que a jurisprudência tem-se orientado no sentido de que o exame de corpo de delito direto, por expressa determinação legal, é indispensável nas infrações que deixam vestígios, podendo apenas supletivamente ser suprido pela prova testemunhal quando o delito não deixar vestígios, se estes tiverem desaparecido ou, ainda, se as circunstâncias do crime não permitirem a confecção do laudo. Assim, se era possível a realização da perícia, mas esta não ocorreu, a prova testemunhal e o exame indireto não suprem a sua ausência.
+2. No presente caso, não foi apresentada qualquer justificativa para a ausência de elaboração do exame direto, devendo ser afastada a qualificadora referente ao rompimento do obstáculo.
+3. Agravo regimental não provido." (AgRg no AREsp 1104445/DF, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 20/09/2017 )
+"RECURSO ESPECIAL. PENAL. FURTO QUALIFICADO. ESCALADA. EXAME PERICIAL NÃO REALIZADO. INEXISTÊNCIA DE JUSTIFICATIVAS PARA A NÃO REALIZAÇÃO DO EXAME. IMPRESCINDIBILIDADE DA PERÍCIA. DECOTE DA QUALIFICADORA. RETORNO DOS AUTOS PARA NOVA DOSIMETRIA.
+- Todavia, não é essa a situação do presente caso. Isso porque o acórdão recorrido não se refere à ausência de vestígio decorrente da conduta do réu, a fim de justificar a não realização da prova pericial. Ao contrário, a tese adotada pela Corte de origem é no sentido de ser cabível a comprovação da escalada por outros meios, inclusive a confissão do réu e o depoimento das testemunhas. Ocorre que, como visto, não é este o entendimento albergado pelo Superior Tribunal de Justiça
+- Recurso Especial provido." (AREsp 1731419/DF, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe 21/06/2018)
+Com relação aos demais argumentos expendidos no apelo nobre, estes ficam prejudicados, haja vista o caráter subsidiário dos mesmos.
+Ante o exposto, com fulcro no art. 255, § 4º, inciso III, do Regimento Interno do STJ, dou provimento ao recurso especial para reformar o aresto vergastado e restabelecer a sentença condenatória.
+P. e I.
