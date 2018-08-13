@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto pelo Município de Juiz de Fora contra decisão que inadmitiu o recurso especial por ele interposto, com fundamento no art. 105, III, a, da Constituição Federal, com o objetivo de reformar acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 80):
+REEXAME NECESSÁRIO CONHECIDO DE OFÍCIO - RECURSO DE APELAÇÃO - SAÚDE - TUTELA ANTECIPADA - DETERMINAÇÃO DE TRANSFERÊNCIA - PERDA SUPERVENIENTE DO OBJETO AFASTADA - OMISSÃO DA ADMINISTRAÇÃO MUNICIPAL - OFENSA DIRETA AO ART. 196, DA CONSTITUIÇÃO FEDERAL - HONORÁRIOS ADVOCATÍCIOS - RAZOABILIDADE - SENTENÇA CONFIRMADA - APELO DO ENTE PÚBLICO PREJUDICADO.
+1 - O cumprimento de determinação judicial proferida em sede de antecipação de tutela, que impõe a imediata realização de transferência hospitalar, não deságua na perda de objeto da ação intentada.
+2 - A responsabilidade pela concretização do direito à saúde, assegurado pelo art. 196, da Constituição Federal, é solidária entre os entes federativos e impõe ao Município o dever de providenciar a transferência da paciente para unidade hospitalar especializada para o tratamento indicado, providência considerada necessária por profissional médico vinculado ao Sistema Público de Saúde.
+3 - "É cabível a condenação em honorários advocatícios quando a Defensoria Pública logra êxito no patrocínio de demanda ajuizada contra ente federativo diverso, uma vez que não se configura o instituto da confusão entre credor e devedor" (AgRg no REsp 1273701/RS, Relator Ministro CASTRO MEIRA, Órgão Julgador SEGUNDA TURMA, Data do Julgamento 15/03/2012, Data da Publicação/Fonte Dje 28/03/2012).
+4 - Sentença confirmada no reexame necessário, prejudicado o recurso voluntário do ente público.
+Em suas razões especiais (fls. 90-98), a parte recorrente aponta a violação dos arts. 267, VI, e 462 do CPC/73.
+Narra que, assim que fora citado e tomou ciência da decisão de antecipação dos efeitos da tutela, providenciou a transferência da parte recorrida para um hospital especializado com suporte para cirurgia. Desse modo, entende que, diante do cumprimento da decisão liminar de cunho satisfativo, ocorreu a perda superveniente do objeto da presente demanda, porquanto exaurida a sua utilidade. Assim, sustenta que tal situação deveria ter dado ensejo à extinção do feito, sem resolução do mérito.
+Destaca, nesse sentido, precedentes favoráveis a sua tese, emanados pelo Tribunal a quo e por esta Corte.
+Após o oferecimento de contrarrazões (fls. 103-117), o Tribunal de origem inadmitiu o recurso (fls. 119-121), o que motivou a interposição do presente agravo (fls. 124-133).
+É o relatório. Decido.
+Considerando que a parte agravante impugnou a fundamentação apresentada na decisão agravada, e atendidos os demais pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O recurso não merece prosperar.
+Isso porque, observa-se que o acórdão recorrido foi proferido em consonância com a jurisprudência consolidada desta Corte, no sentido de que o cumprimento de decisão liminar que determina a transferência do paciente para unidade hospitalar especializada não gera a perda superveniente do interesse de agir, tampouco implica a extinção do feito por perda do seu objeto. Isso porque, faz-se necessário o julgamento do mérito da causa para que seja definido se, de fato, a parte beneficiada fazia jus à pretensão.
+Nesse sentido, destaco os seguintes precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. INEXISTÊNCIA. DIREITO À SAÚDE. INTERNAÇÃO. DEFERIMENTO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA. ALEGAÇÃO DE PERDA DO INTERESSE DE AGIR. INOCORRÊNCIA. ACÓRDÃO RECORRIDO EM SINTONIA COM O ENTENDIMENTO DO STJ. EMBARGOS DECLARATÓRIOS. AUSÊNCIA DE CARÁTER PROTELATÓRIO. SÚMULA 98/STJ. AFASTAMENTO DA MULTA PROCESSUAL.
+ ..
+3. O entendimento do Superior Tribunal de Justiça está firmado no sentido de que, o simples fato do cumprimento da ordem em antecipação de tutela, não implica a perda do objeto da demanda ou a falta de interesse processual, sendo necessário o julgamento do mérito da causa, para definir se a parte beneficiada, de fato, fazia jus a tal pretensão.
+ ..
+5. Recurso Especial parcialmente provido, apenas para afastar a multa processual.
+(REsp 1680626/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/10/2017, DJe 11/10/2017)
+PROCESSUAL CIVIL. ADMINISTRATIVO. TRATAMENTO DE SAÚDE. TRANSFERÊNCIA DE HOSPITAL. LIMINAR SATISFATIVA. PERDA DE OBJETO. NÃO OCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ.
+1. O acórdão recorrido encontra-se em consonância com o entendimento consolidado desta Corte Superior no sentido de que a concessão da tutela antecipada para garantir a transferência da recorrida para hospital especializado ao seu tratamento não retira o interesse de agir da parte, nem impõe a conseguinte extinção terminativa do feito por perda de objeto. Precedentes da Corte.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1065109/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 05/10/2017, DJe 23/10/2017)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO À SAÚDE. INTERNAÇÃO. DEFERIMENTO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA. ALEGAÇÃO DE PERDA DO INTERESSE DE AGIR. INOCORRÊNCIA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. AGRAVO INTERNO IMPROVIDO.
+ ..
+II. Na origem, trata-se de ação ordinária, com pedido de antecipação dos efeitos da tutela, ajuizada por [NOME] em face do Município de Juiz de Fora, postulando sua transferência para hospital especializado no tratamento da doença que a acomete, em caráter de urgência, sob pena de ter seu estado de saúde agravado. O Juízo de 1º Grau julgou procedente o pedido, mantendo o deferimento da antecipação dos efeitos da tutela.
+III. Com efeito, "o entendimento do Superior Tribunal de Justiça está firmado no sentido de que, o simples fato do cumprimento da ordem em antecipação de tutela, não implica a perda do objeto da demanda ou a falta de interesse processual, sendo necessário o julgamento do mérito da causa, para definir se a parte beneficiada, de fato, fazia jus a tal pretensão" (STJ, REsp 1.645.812/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/04/2017). No mesmo sentido: STJ, AgRg no REsp 1.353.998/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 13/03/2015; AgRg no RMS 28.333/PA, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe de 03/12/2014.
+IV. No caso, o Tribunal de origem manteve a sentença de procedência, concluindo pela "manutenção do interesse de agir para o prosseguimento da presente contenda, haja vista a resistência somente transposta a partir da ordem judicial ainda provisória, bem como a necessidade de acertamento da responsabilidade da Administração ré frente os custos decorrentes da internação realizada". Portanto, deve ser mantido o aresto impugnado, proferido em consonância com o entendimento desta Corte.
+V. Agravo interno improvido.
+(AgInt no AREsp 1041015/MG, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 03/08/2017, DJe 16/08/2017)
+Observado que o entendimento aqui consignado, lastreado na jurisprudência, é prevalente no Superior Tribunal de Justiça, aplica-se o enunciado da Súmula n. 568/STJ, in verbis:
+O relator, monocraticamente e no STJ, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, b, do RI/STJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
