@@ -1,0 +1,35 @@
+DECISÃO
+Na origem, trata-se de mandado de segurança contra ato do Delegado da Receita Federal de Lages, com valor da causa fixado em R$ 12.912,30 (doze mil, novecentos e doze reais e trinta centavos). Na sentença, concedeu-se a segurança. No Tribunal Regional Federal da 4º Região a sentença foi mantida, conforme a seguinte ementa do acórdão:
+MANDADO DE SEGURANÇA. PROGRAMA DE RECUPERAÇÃO FISCAL (REFIS). LEI Nº 9.964, DE 2000. PRESTAÇÕES EM VALOR INSUFICIENTE À AMORTIZAÇÃO DO DÉBITO.
+É indevida a exclusão do contribuinte do Programa de Recuperação Fiscal (Refis) da Lei ne 9.964, de 2000, a pretexto de que as prestações do parcelamento, por ele mensalmente recolhidas, são em valor insuficiente ã amortização do débito consolidado, uma vez que tal situação não está prevista na lei de regência como causa de exclusão do benefício fiscal.
+Opostos embargos declaratórios, foram negados conforme a seguinte ementa do acórdão:
+EMBARGOS DE DECLARAÇÃO. OMISSÕES INEXISTENTES. REDISCUSSÃO. PREQUESTIONAMENTO.
+1. Deve ser negado provimento aos embargos de declaração que a, pretexto de sanar omissão, pretendem, na verdade, o rejulgamento da causa.
+2. A citação expressa dos dispositivos legais no corpo do acórdão é desnecessária, pois o juiz não está obrigado a responder todas as alegações da parte, quando encontrar fundamento suficiente para embasar a sua decisão.
+Interposto recurso especial, deu-se seguimento ao recurso.
+No Superior Tribunal de Justiça, com fundamento no artigo 255, § 4º, II, do RISTJ, negou-se provimento ao recurso especial.
+Opostos embargos de declaração, aponta a parte embargante existência de contradição no julgado, conforme o seguinte trecho da petição (fl.353):
+Em recurso especial, a embargante requereu o provimento do recurso para julgar improcedente o pedido formulado nos autos, nos termos da fundamentação recursal (negativa de vigência aos artigos 2o. parágrafo 4o. e 5o. II. da Lei nº 9.964/00 e art. 155 do CTN).
+Assim, considerando que a fundamentação da decisão embargada é no sentido de que o contribuinte é considerado inadimplente, sendo possível a exclusão de programa de parcelamento do débito tributário, quando for constatado que as parcelas mensais não são capazes de amortizar a dívida, há divergência entre a fundamentação da decisão e seu dispositivo, que julgou o recurso da Fazenda improvido, daí a contradição existente no julgado.
+A parte embargada foi intimada para apresentar impugnação.
+É o relatório. Decido.
+Os embargos não merecem acolhimento.
+Se o recurso é inapto ao conhecimento, a falta de exame da matéria de fundo impossibilita a própria existência de omissão quanto a esta matéria. Nesse sentido: EDcl nos EDcl no AgInt no RE nos EDcl no AgInt no REsp 1337262/RJ, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 21/03/2018, DJe 05/04/2018; EDcl no AgRg no AREsp 174.304/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 10/04/2018, DJe 23/04/2018; EDcl no AgInt no REsp 1487963/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 24/10/2017, DJe 07/11/2017.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida" (EDcl no MS 21.315/DF, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), PRIMEIRA SEÇÃO, julgado em 08/06/2016, DJe 15/06/2016).
+É vedado a esta Corte, na via especial, apreciar eventual ofensa à matéria constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal. Precedentes: EDcl nos EDcl no AgRg no AREsp 575.787/DF, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/12/2017, DJe 19/12/2017; AgInt nos EDcl nos EDcl no REsp 1.677.316/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 5/12/2017, DJe 14/12/2017; EDcl no AgInt no REsp 1.294.078/DF, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 28/11/2017, DJe 5/12/2017.
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp 166.402/PE, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 15/3/2017, DJe 29/3/2017).
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl 8.826/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 15/2/2017, DJe 15/3/2017).
+Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre o qual o juiz de ofício ou a requerimento devia-se pronunciar, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intime-se.
