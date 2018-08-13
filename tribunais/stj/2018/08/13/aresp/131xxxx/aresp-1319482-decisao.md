@@ -1,0 +1,40 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. 1. CERCEAMENTO DE DEFESA. SUFICIÊNCIA DE PROVAS ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS. LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. 2. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. INEXISTÊNCIA DE PROVAS QUANTO AO INADIMPLEMENTO DA PARTE CONTRÁRIA. REVOLVIMENTO DAS PROVAS. SÚMULA 7/STJ. 3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+FMC Química do Brasil Ltda. ajuizou ação monitória em desfavor de Batagro Comércio e Representações Agropecuárias Ltda. e outros, buscando o recebimento de R$ 666.436,45 (seiscentos e sessenta e seis mil, quatrocentos e trinta e seis reais e quarenta e cinco centavos).
+O Magistrado de primeiro grau julgou procedente o pedido a fim de condenar os requeridos ao pagamento da quantia pleiteada.
+Interposta apelação pelos réus, a Décima Quarta Câmara de Direito Privado do Tribunal de Justiça de São Paulo negou provimento à insurgência, em acórdão assim ementado:
+CAMBIAL. DUPLICATA. ACEITE. DEFEITO NA MERCADORIA. PROVA.
+1. Não incorre em cerceamento de defesa o julgamento imediato da lide que prescinde da realização de provas, mormente porque genericamente protestadas por praxe na petição.
+2. Os supostos vícios nos insumos agrícolas fornecidos jamais foram informados à autora. Nada nos autos indica ter havido qualquer reclamação por parte dos embargantes nesse sentido.
+Operou-se a decadência para que os devedores pudessem aduzir vício oculto que pudesse ensejar redução do preço ou mesmo aplicação do princípio "exceptio non adimpleti contractus".
+3. A falta de aceite de duplicata que vem acompanhada de nota fiscal com prova de entrega da mercadoria não interfere em sua exigibilidade.
+4. Recurso não provido.
+Os demandados interpuseram recurso especial, fundamentado nas alíneas a e c do permissivo constitucional, apontando, além de dissídio jurisprudencial, violação aos arts. 476 do CC e 375, I, do CPC/2015.
+Sustentaram, em síntese, a ocorrência de cerceamento de defesa ao ser julgada a lide antecipadamente, sem a produção de provas. Aduziram, ainda, a impossibilidade de exigência do pagamento, pois a parte contrária não cumpriu com suas obrigações do contrato.
+O Tribunal de origem negou seguimento ao recurso sob os fundamentos de incidir a Súmula 7/STJ e de não ter sido comprovado o dissídio jurisprudencial nos moldes legais.
+Irresignados, os recorrentes apresentam agravo refutando os óbices apontados pela Corte estadual.
+Brevemente relatado, decido.
+Quanto ao cerceamento de defesa, o Tribunal de origem, com base no acervo probatório carreado aos autos, afastou a sua ocorrência, dado que, "em se tratando de bens entregues há mais de cinco anos, não caberia deferir a produção de prova pericial, tampouco testemunhal para essa demonstração" (e-STJ, fl. 261).
+Nesse ponto, de acordo com a jurisprudência do Superior Tribunal de Justiça, não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte quando devidamente demonstrado pelas instâncias de origem que o feito se encontrava suficientemente instruído, afirmando-se, assim, a presença de dados bastantes à formação do seu convencimento.
+Os princípios da livre admissibilidade da prova e da persuasão racional autorizam o julgador a determinar as provas que entende necessárias à solução da controvérsia, assim como o indeferimento daquelas que considerar prescindíveis ou meramente protelatórias.
+Ora, a produção probatória se destina ao convencimento do julgador e, sendo assim, pode o juiz rejeitar a produção de determinadas provas, em virtude da irrelevância para a formação de sua convicção.
+Guardadas as peculiaridades do caso, confiram-se:
+AGRAVO REGIMENTAL. EMBARGOS À EXECUÇÃO. APURAÇÃO DE EVENTUAL EXCESSO DE EXECUÇÃO. DEFERIMENTO DA REALIZAÇÃO DE PERÍCIA CONTÁBIL. ENTENDIMENTO QUE DECORRE DO LIVRE CONVENCIMENTO MOTIVADO DO MAGISTRADO. RECURSO ESPECIAL. REEXAME DE PROVA. DESCABIMENTO. SÚMULA STJ/7.
+1.- A reforma processual implementada pela Lei n. 11.382/06, a qual incluiu vários dispositivos legais ao CPC, dentre eles o art. 739- A, bem como alterou a redação de outros, teve como objetivo possibilitar a prestação jurisdicional de forma mais célere e efetiva e, no que tange aos embargos do devedor, passou-se a exigir, expressamente, que a alegação de excesso de execução seja feita com a discriminação dos valores que o embargante entende corretos, mediante apresentação de memória de cálculo.
+2.- Todavia, se a própria apuração da existência do excesso de execução depender da realização de perícia, o embargante declinará essa circunstância na petição inicial e deverá requerer sua produção no momento processual adequado, devendo o magistrado avaliar, no caso concreto, segundo seu prudente juízo de valor, quanto à necessidade ou não do deferimento da prova pericial, não podendo a questão, em regra, ser revista em Recurso Especial, ante o óbice da Súmula 7 deste Tribunal.
+3.- Hipótese em que a ausência de apresentação da planilha atualizada do débito (CPC, art. 739-A, § 5º), por si só, não acarretará o indeferimento liminar dos embargos do devedor.
+4.- Agravo Regimental improvido. (AgRg no AREsp 261207/PE, Rel. Min. Sidnei Beneti, Terceira Turma, julgado em 14/05/2013, DJe 03/06/2013 - sem grifo no original)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ISS. PRESTAÇÃO DE SERVIÇO. FUMIGAÇÃO. CONGÊNERES. INTERPRETAÇÃO EXTENSIVA DA LISTA ANEXA À LC 116/2003 E À LEI MUNICIPAL 1.054/2003. PREVISÃO EM LEI LOCAL. INCIDÊNCIA DAS SÚMULAS 7/STJ E 280/STF.
+ ..  II. Os arts. 130 e 131 do CPC consagram o princípio do livre convencimento motivado, segundo o qual o Juiz é livre para apreciar as provas produzidas, bem como para decidir quanto à necessidade ou não da produção das que forem requeridas pelas partes, podendo, motivadamente, indeferir as diligências que reputar inúteis ou protelatórias.
+III. Não há falar em cerceamento de defesa, quando o julgador considera desnecessária a produção de prova, mediante a existência, nos autos, de elementos suficientes para a formação de seu convencimento.
+ ..  VII. Agravo Regimental improvido. (AgRg no AREsp n. 118.207/SP, Relatora Ministra Assusete Magalhães, DJe de 23/9/2014 - sem grifo no original)
+TRIBUTÁRIO E PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. DEVIDO ENFRENTAMENTO DAS QUESTÕES RECURSAIS. PRESCRIÇÃO. INTERRUPÇÃO. PARCELAMENTO. DESTINATÁRIO DA PROVA. JUIZ. PRINCÍPIO DO LIVRE CONVENCIMENTO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+ ..  2. Cabe ao juiz, o destinatário final da prova, em sintonia com o sistema de persuasão racional adotado pelo CPC, dirigir a instrução probatória e determinar a produção das provas que considerar necessárias à formação do seu convencimento.
+ ..  Agravo regimental improvido. (AgRg no AREsp n. 533.843/MG, Rel. Min. Humberto Martins, DJe de 1/9/2014 - sem grifo no original)
+Assim sendo, infirmar o entendimento alcançado pelo acórdão recorrido com base nos elementos de convicção juntados aos autos, a fim de se concluir pela prescindibilidade de produção de prova testemunhal e pericial, tal como buscam os insurgentes, esbarraria no enunciado n. 7 da Súmula desta Corte.
+Quanto ao princípio da exceptio non adimpleti contractus, o acórdão recorrido consignou que os supostos vícios nos insumos agrícolas jamais foram noticiados à ora recorrida, não havendo nenhuma reclamação dos adquirentes acerca de algum vício, seja ele oculto ou aparente.
+Note-se, portanto, que as instâncias ordinárias decidiram a questão mediante acurada análise do acervo probatório dos autos, sendo que, para infirmar tais conclusões, seria imprescindível o reexame de provas, o que é vedado nesta instância extraordinária, atraindo, mais um vez, a incidência da Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor do patrono da parte recorrida em 2% sobre o valor atualizado do débito.
+Publique-se.
