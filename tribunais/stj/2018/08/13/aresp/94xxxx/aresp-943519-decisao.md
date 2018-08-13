@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS - IBAMA contra decisão do Tribunal Regional Federal da 1ª Região, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional, que desafia acórdão assim ementado (e-STJ fl. 58):
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. IBAMA. FALTA DE LOCALIZAÇÃO DE BENS DO DEVEDOR. ABANDONO DA CAUSA PELO EXEQUENTE. DEVIDA A EXTINÇÃO DO PROCESSO. ART. 267, INCISO III, DO CPC.
+1. Intimado para efetuar o depósito da diligência para expedição de mandado, o exequente não se manifestou. Intimado novamente (pessoalmente) para manifestar- se no prazo de 48 (quarenta e oito) horas sobre o que entendesse de direito, sob pena de extinção do feito, o exequente quedou-se inerte. Diante desses fatos, a sentença extinguiu a execução, nos termos do art. 267, III do CPC, por abandono de causa.
+2. É possível a extinção da ação de execução fiscal com base no art. 267, III, do CPC, por abandono da causa. Precedente: REsp n. 1.120.097/RS, Rel. Min. Luiz Fux, com base no art. 543-C do CPC.
+3. Apelação desprovida.
+Embargos de declaração foram rejeitados (e-STJ fls. 68/70).
+No especial obstaculizado, o ora agravante apontou violação dos arts. 267, III, § 1º, 535, II, do CPC/1973, do art. 17 da Lei n. 10.910/2004 e do art. 25 da Lei n. 6.930/1980. Sustentou, em síntese, que não houve intimação pessoal da Fazenda Pública, razão pela qual não poderia a execução ter sido extinta (e-STJ fls. 74/84).
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, o que desafiou a interposição do presente agravo (e-STJ fls. 93/104).
+Sem contraminuta.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Dito isso, registro que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, tanto nos termos do art. 544, § 4º, I, do CPC/1973, quanto nos moldes do art. 932, III, do CPC/2015 e do art. 253, parágrafo único, I, do RISTJ.
+Nesse sentido, vide: AgRg no AREsp 834.978/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 19/04/2016; AgInt no AREsp 1.036.445/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 04/04/2017, DJe 17/04/2017.
+In casu, o Juízo de prelibação proferido pelo Tribunal de origem encontra-se assim motivado: a) ausência de omissão no acórdão recorrido; b) ausência de prequestionamento do art. 17 da Lei n. 10.910/2004, atraindo a incidência das Súmulas 211 do STJ e 282 do STF; c) consonância do julgado, em relação ao art. 267, § 1º, do CPC/1973, com a jurisprudência do Superior Tribunal de Justiça (e-STJ fls. 88/90).
+O agravante, contudo, não se desincumbiu de infirmar de forma clara e específica todos os fundamentos impeditivos do seguimento do especial, notadamente em relação à ausência de prequestionamento e à consonância do acórdão impugnado com o entendimento firmado por esta Corte, em evidente desrespeito ao princípio da dialeticidade.
+Com efeito, nas razões do agravo, a parte limitou-se a repisar o mérito do recurso inadmitido e a alegar, genericamente, que o prequestionamento estaria caracterizado, sem contrapor frontalmente os óbices apontados na decisão agravada (e-STJ fls. 94 e ss.).
+Destaco, por oportuno, não ser suficiente a apresentação de razões genéricas sobre os óbices apontados pela decisão de inadmissibilidade, sendo exigível do agravante o efetivo ataque aos seus fundamentos.
+Ante o exposto, o art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
