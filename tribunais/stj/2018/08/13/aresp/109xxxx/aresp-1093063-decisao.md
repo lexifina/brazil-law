@@ -1,0 +1,20 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL/2015. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DUPLICATA VIRTUAL. PROTESTO POR INDICAÇÃO. BOLETO BANCÁRIO ACOMPANHADO DAS NOTAS FISCAIS. REEXAME. NÃO CABIMENTO. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO ESPECIAL.
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por JAST - COMPONENTES PARA CALCADOS LTDA - EPP contra decisão do Tribunal de Justiça do Estado de Minas Gerais que inadmitiu o recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal e interposto contra acórdão assim ementado (fl. 209, e-STJ):
+CIVIL E PROCESSO CIVIL - EMBARGOS À EXECUÇÃO - NULO EXECUTIVO EXTRAJUDICIAL - DUPLICATA MERCANTIL - PROTESTO POR INDICAÇÃO - VALIDADE - AUSÊNCIA DE NULIDADE DA EXECUÇÃO - PAGAMENTO DO DÉBITO EXEQUENDO - AUSÊNCIA DE PROVA.
+1. Restando demonstrado nos autos que a duplicata levada a protesto por indicação têm origem na compra e venda de mercadorias entabulada entre as partes, não há que se falar na declaração de nulidade de tal titulo e nem do processo executivo.
+2. A posição do credor na execução é privilegiada, pois para fazer valer seu direito nada tem que provar, já que o titulo de que dispõe é prova cabal de seu crédito e é razão suficiente para levar a execução até as últimas conseqüências, sendo que, para pretender desconstitui-lo, diante da presunção legal de legitimidade que o ampara, toca ao embargante todo o ónus da prova.
+Nas razões do recurso especial, a parte recorrente alegou violação dos arts. 887 do Código Civil e 15 da Lei 5.474/68, ao argumento de que:
+"o título que embasou a execução promovida pela recorrente não possui os requisitos formais para sua validade, afronta o que dispõe o Art. 887 do Código Civil e o Art. 15 da Lei 5.474/68, já que o titulo executado não corresponde com a nota fiscal de venda mercantil que o embasa, sendo este portanto nulo, ou seja, imprestável a fundamentar o pleito executivo."
+ Contrarrazões apresentadas às fls. 238-245, e-STJ.
+É o relatório.
+Decido.
+A pretensão recursal não merece prosperar.
+Inicialmente, registra-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Quanto à alegação de nulidade do título para embasar a execução, assim se pronunciou o Tribunal de origem no acórdão combatido:
+Ora, os títulos de crédito nasceram justamente para dar maior celeridade e dinamismo às relações comerciais; e o Direito Comercial sempre deu grande importância aos usos e costumes dos comerciantes, pois para o benefício destes é que ele fora criado e se desenvolvera. Logo, repita-se, plenamente válido o protesto por indicação de duplicatas virtuais ou eletrônicas, conforme procedimento adotado pela apelada, como se vê do boleto bancário e fatura na f. 31, DANFE (documento auxiliar de nota fiscal eletrônica) na f. 32 e instrumento de protesto por indicação na f. 34. (e-STJ, fl. 216).
+Desse modo, para se elidir as conclusões do aresto impugnado acima destacadas, e, assim, concluir que "(..) a exequente/recorrente não trouxe com a inicial o comprovante de entrega da mercadoria, bem como a duplicata não está de acordo com a Nota Fiscal/Fatura constante às fls. 12 dos autos, não servindo pois como documento hábil a se embasar a execução" (e-STJ, fl. 229), como argumentado nas razões do recurso especial, seria necessário o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do especial, e com base no art. 85, § 11, do CPC/2015, majoro os honorários de sucumbência para R$ 1.800,00 (um mil e oitocentos reais).
+Intimem-se.
