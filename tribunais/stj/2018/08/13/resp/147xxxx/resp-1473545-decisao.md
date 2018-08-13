@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto por CRISTOVAM FERREIRA REZENDE contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ fl. 238):
+Ementa - Apelação - Plano de Saúde - Ação proposta por ex-empregado aposentado da General M tors do Brasil Ltda. pretendendo contratar plano de saúde nas mesmas condições de que gozava quando em atividade, consoante previsão do artigo 31, lei 9.656/98 - Sentençá que, a par das considerações favoráveis à pretensão do autor, acolheu a prescrição argüida pela ré - Apelo do autor - Hipótese em que aplicável, pelo princípio da especialidade, o artigo 206, § Io, H, "b", CC, que prevê prazo de prescrição de um ano -Prescrição qüinqüenal prevista no CDC (art. 27) que também não socorre a pretensão do autor, vindicada judicialmente quase seis anos depois - Sentença mantida - Apelo desprovido.
+Em suas razões (e-STJ fls. 663/680), o recorrente alega, além de dissídio jurisprudencial, ofensa ao art. 205 do CC.
+Informa, para tanto que "A recorrida não permitiu a continuidade dá participação do recorrente no plano de saúde nas mesmas condições que ele tinha na ativa, pois impôs um preço abusivo da mensalidade, mas o direito do recorrente para essa continuidade nas mesmas condições da ativa está amparado no artigo 31 da Lei 9.656/98, tendo-se em vista que ele trabalhou para à GM mais de trinta anos e contribuiu por mais de dez anos ao piano de saúde oferecido pelo ex-empregador. É irrelevante que o plano não seja mais subsidiado pela GM, já que o recorrente pagará a mensalidade em seu valor integral, ou seja, a soma de quantia que lhe cabia com a que lhe era subsidiada pela GM".
+Sustenta, em suma, que a relação entre as partes não foi de simples contrato de seguro, mas sim de contratação de serviços de assistência médica, razão pela qual o prazo prescricional seria decenal.
+É o relatório.
+Decido.
+O recurso foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 2/STJ).
+O TJSP reconheceu que a pretensão do ex-empregado, de ser mantido no plano de saúde vigente na época da ativa, estava extinta pela prescrição, seja a anual do art. 206, § 1º, II, do CC/2002, seja a quinquenal do art. 27 do CDC (e-STJ fl. 239).
+Nesse ponto, constata-se que o entendimento adotado pelo Tribunal de origem diverge da jurisprudência do STJ, segundo a qual o direito à manutenção, em plano de saúde empresarial, de ex-empregado demitido ou aposentado sujeita-se ao prazo prescricional de 10 (dez) anos previsto no art. 205 do CC/2002. Desse modo:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. MANUTENÇÃO. PRESCRIÇÃO. DEZ ANOS. AGRAVO NÃO PROVIDO.
+1. Nas ações em que se pretende a manutenção de plano de saúde coletivo após a extinção do contrato de trabalho, a prescrição é decenal, conforme disposto no art. 205 do Código Civil.
+2. "Segundo a jurisprudência do STJ, a prescrição anual (art. 206, § 1º, II, do CC/2002) é inaplicável às pretensões baseadas nos denominados contratos de seguro saúde porque estes também se enquadram como planos privados de assistência à saúde, nos termos do art. 2º da Lei n. 10.185/2001" (AgRg no REsp 1.580.619/SP, Rel. Min. MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 21/03/2017).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1099455/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 22/05/2018, DJe 30/05/2018)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE COLETIVO EMPRESARIAL. EX-EMPREGADO APOSENTADO. PRESCRIÇÃO. ART. 205 DO CC. ASSISTÊNCIA MÉDICA. MANUTENÇÃO. ART. 31 DA LEI 9.656/98. CONTRATO DE SAÚDE. CONTRIBUIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos do Enunciado nº 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+2. A jurisprudência desta Corte tem-se firmado no sentido de que, em casos em que se discute a manutenção do ex-empregado em contrato de saúde nas mesmas condições de quando empregado, a prescrição é decenal, conforme disposto no art. 205 do Código Civil.
+(..)
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.594.407/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 6/6/2017, DJe 20/6/2017.)
+Conforme delineado pelas instâncias de origem, a pretensão de continuar no plano de saúde surgiu para o recorrente em 2003, tendo a ação sido ajuizada em 2009 (e-STJ fl. 239). Portanto, não ocorreu a prescrição decenal.
+Diante do exposto, DOU PROVIMENTO ao recurso especial, a fim de afastar a ocorrência da prescrição, nos moldes da jurisprudência do STJ, e determinar o retorno dos autos à origem, para exame da ação como entender de direito.
+Publique-se e intimem-se.
