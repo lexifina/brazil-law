@@ -1,0 +1,24 @@
+DECISÃO
+Agrava-se de decisão que negou seguimento ao recurso especial de JORGE INACIO DE MATTOS AMORIN, fundado no art. 105, III, "a", da Constituição Federal, interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do Tocantins.
+O ora recorrente foi pronunciado, como incurso no art. 121, § 2º, II, c/c o art. 14, II, ambos do Código Penal, para que fosse submetido ao Tribunal do Júri.
+O Tribunal de origem negou provimento ao recurso da defesa, mantendo a pronúncia por seus próprios fundamentos. O acórdão recebeu a seguinte ementa (e-STJ fls. 261/262):
+RECURSO EM SENTIDO ESTRITO - HOMICÍDIO QUALIFICADO TENTADO - PRONÚNCIA - DESCLASSIFICAÇÃO PARA O DELITO DE LESÃO CORPORAL - IMPOSSIBILIDADE - COMPETE AO COLENDO TRIBUNAL DO JÚRI O EXAME DA PRESENÇA OU AUSÊNCIA DE ANIMUS NECANDI, BEM COMO DA TESE DE DESISTÊNCIA VOLUNTÁRIA, MEDIANTE ANÁLISE DO CONJUNTO PROBATÓRIO. - EXCLUSÃO DA QUALIFICADORA - INVIABILIDADE - APLICAÇÃO DO IN DUBIO PRO SOCIETATE - COMPETÊNCIA DO JÚRI POPULAR - RECURSO CONHECIDO E IMPROVIDO.
+1 - De acordo com o artigo 413, §1º, do Código de Processo Penal, cabe ao julgador monocrático apenas indicar a materialidade do fato e a existência de indícios suficientes de autoria, competindo à apreciação do mérito ao Conselho de Sentença do Tribunal do Júri.
+2 - In casu, verifico que a pronúncia valeu-se de elementos concretos, coligidos nos autos, dentre os quais, depoimentos testemunhais que evidenciaram os indícios de autoria e materialidade delitiva, pelo que deve ser integralmente mantida, já que confirmam as provas colhidas na fase inquisitorial, mormente a confissão do recorrente.
+3 - A pronúncia do réu não foi injusta, já que baseada em provas regularmente colhidas na instrução do feito. Assim, compete ao Colendo Tribunal do Júri o exame da presença ou ausência de animus necandi, bem como da tese de desistência voluntária, mediante análise do conjunto probatório.
+4 - O mesmo raciocínio é aplicável à qualificadora, na medida em que também quanto à referida matéria, vigora o princípio in dubio pro societate nessa fase. A análise de tal questão não pode ser suprimida de julgamento pelo júri, juiz natural da causa, salvo se fosse manifestamente improcedente, o que não é o caso. Os depoimentos das testemunhas ouvidas na instrução criminal trazem elementos acerca da motivação do fato, qual seja, a presença das vítimas no interior da propriedade em que o acusado laborava, sem permissão, devendo ser analisado pelo júri.
+5 - Recurso conhecido e improvido.
+Nas razões do recurso especial, a defesa aponta violação do art. 121, § 2º, II, do Código Penal e do art. 413, § 1º, do Código de Processo Penal, sustentando que não havia elementos probatórios nos autos para amparar a decisão de pronúncia. Alega ser manifestamente improcedente a qualificadora imputada.
+Contrarrazões às e-STJ fls. 288/293.
+O Ministério Público Federal manifestou-se, às e-STJ fls. 326/331, pelo desprovimento do recurso.
+É o relatório.
+No caso em apreço, a Corte a quo concluiu estar provada a materialidade e haver indícios de autoria, além de afirmar que não se revelava desarrazoada a qualificadora imputada, nada justificando a subtração de sua análise pelo Tribunal do Júri.
+No contexto, havendo elementos indiciários que subsidiem, com razoabilidade, as versões conflitantes acerca da presença de animus necandi e da qualificadora, a divergência deve ser solvida pelo Conselho de Sentença, evitando-se a indevida invasão da sua competência constitucional.
+Ademais, o acolhimento da pretensão recursal demandaria amplo revolvimento do acervo fático-probatório dos autos, providência vedada em recurso especial nos termos da Súmula n. 7/STJ.
+A propósito:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SENTENÇA DE PRONÚNCIA. PLEITO DE ABSOLVIÇÃO. REEXAME DAS PROVAS. SÚMULA 7 DESTA CORTE SUPERIOR. QUALIFICADORA JUSTIFICADA. EXCLUSÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A pretendida despronúncia por inexistência de prova apta a justificá-la demanda o inevitável revolvimento das provas carreadas aos autos, o que encontra vedação no enunciado n. 7 da Súmula desta Corte.
+2. "As qualificadoras propostas na denúncia somente podem ser afastadas quando, de forma inequívoca, mostrarem-se absolutamente improcedentes. Caso contrário, havendo indícios da sua existência e incerteza sobre as circunstâncias fáticas, deve prevalecer o princípio in dubio pro societatis, cabendo ao Tribunal do Júri manifestar-se sobre a ocorrência ou não de tais circunstâncias" (HC 228.924/RJ, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, DJe 09/06/2015).
+Agravo regimental desprovido (AgRg no AREsp 954.425/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 10/11/2016, DJe 21/11/2016, grifei).
+Ante o exposto, conheço do agravo e nego provimento ao recurso especial.
+Publique-se. Intimem-se.
