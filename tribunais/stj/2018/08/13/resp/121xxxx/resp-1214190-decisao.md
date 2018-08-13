@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por ITAÚ UNIBANCO S.A em face de acórdão assim ementado:
+CIVIL. PROCESSO CIVIL. CDC. CONTRATO DE FINANCIAMENTO IMOBILIÁRIO. REVISÃO DE CLÁUSULAS CONTRATUAIS. PRELIMINARES: NULIDADE DO PROCESSO E DA SENTENÇA. REJEIÇÃO. MÉRITO: REAJUSTE DE SEGURO. TABELA PRICE. AMORTIZAÇÃO DO SALDO DEVEDOR. REPETIÇÃO DE INDÉBITO.
+1. Contra decisão interlocutória que indefere pedido de antecipação de tutela cabe agravo de instrumento, e não agravo retido. Agravo retido não conhecido.
+2. Não há que se falar em nulidade processual por não realização de audiência conciliatória, uma vez que as partes podem transigir a qualquer momento. Preliminar rejeitada.
+3. Havendo julgamento antecipado da lide, por desinteresse das partes em produzir provas, não há necessidade de abertura de prazo para apresentação de memoriais. Preliminar rejeitada.
+4. Não há que se falar em cerceamento de defesa quando o magistrado, possuindo elementos suficientes para formar sua convicção acerca da lide, dispensa a produção de provas e procede ao julgamento antecipado da lide. Preliminar rejeitada.
+S. O entendimento consolidado na jurisprudência exime o magistrado de indicar, item por item, os dispositivos legais de cada caso, desde que haja a devida fundamentação sobre as questões suscitadas pelas partes. Preliminar rejeitada.
+6. Não é ilegal o reajustamento do seguro em descompasso com o Plano de Equivalência Salarial, porquanto o Coeficiente de Equiparação Salarial também deve incidir sobre referida parcela.
+7. Comprovado que a adoção do Sistema Price implica em capitalização de juros, imperiosa a sua substituição pelo SAC - Sistema de Amortização Constante.
+8. E nula a cláusula que determina a atualização do saldo devedor antes da amortização mensal, face às disposições da Lei n. 4.380/64, que impôs o procedimento inverso.
+09. O colendo Supremo Tribunal Federal já deixou assentado que as disposições do Decreto Lei nO 70/66 são compatíveis com a Constituição Federal, não havendo qualquer ilegalidade, sobretudo quando ficar demonstrada a regularidade das notificações exigidas pela Lei de regência.
+10. Agravo retido não conhecido. Recurso de apelação conhecido.
+Preliminares rejeitadas. No mérito, parcialmente provido.
+Verifico que se discute, no presente recurso, o afastamento da "aplicação da Tabela Price, sob o argumento de que esta promoveria o anatocismo (já que "o cálculo das prestações é realizado mediante a utilização de juros compostos")" (fl. 382 e-STJ), tema esse que foi afetado à Corte Especial, sob o rito dos repetitivos - artigo 543-C do Código de Processo Civil de 1973 -, nos autos do REsp 951.894/DF (DJe 26/10/2015), de minha relatoria, vinculado ao Tema 909. O novo Código de Processo Civil manteve a diretriz para o julgamento dos recursos repetitivos. Desse modo, caracterizada a identidade de questão de direito submetida à sistemática dos recursos repetitivos, devem ser devolvidos os autos ao Tribunal de origem, nos termos do artigo 256, L, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+Em face do exposto, nos termos do artigo 1.037, II, do Código de Processo Civil, determino a devolução destes autos ao Tribunal de origem, com a respectiva baixa, para nele permanecerem sobrestados até o julgamento do mérito do recurso recebido como representativo da controvérsia (Tema 909), e, após, que se proceda em conformidade com os comandos dos artigos 1.040 e 1.041 do Código de Processo Civil.
+Intimem-se.
