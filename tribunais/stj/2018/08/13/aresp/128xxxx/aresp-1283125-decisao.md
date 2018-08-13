@@ -1,0 +1,38 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/15). VIOLAÇÃO À SÚMULA DO STJ. UNICAMENTE. IMPOSSIBILIDADE. SÚMULA 518/STJ. PRINCÍPIO DA FUNGIBILIDADE. RECLAMAÇÃO. INVIABILIDADE. NÃO CABIMENTO COMO SUCEDÂNEO RECURSAL. NEGO PROVIMENTO AO AGRAVO EM RECURSO ESPECIAL.
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por M B DOS S (MENOR) em face de decisão que não admitiu o recurso especial, com fundamento no art. 105, inciso III, alínea "a" da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Plano de saúde Ação de obrigação de fazer ajuizada contra a operadora e o hospital prestador dos serviços Procedência Apelação interposta apenas pela instituição hospitalar Assistência judiciária - Pessoa jurídica sem fins lucrativos Entidade filantrópica e de natureza beneficente e assistencial Benefício concedido - Paciente de tenra idade com grave neoplasia de olho (retinoblastoma) Necessidade de procedimento cirúrgico urgente Negativa de atendimento por prestador de serviço ao argumento de seu descredenciamento unilateral do plano de saúde Caso, porém, em que o tratamento da grave moléstia teve início no Hospital AC Camargo, referência no tratamento de câncer, sem que a autora fosse devidamente intimada da rescisão do contrato celebrado entre a operadora do plano de saúde e a instituição hospitalar Art. 17, § 1º, da Lei nº 9.656/98 - Obrigação da apelante corretamente reconhecida Sentença mantida Recurso provido em parte. (e-STJ, fl. 736)
+Nas razões do recurso especial, a parte recorrente, alega violação à Súmula 481/STJ, sustentando que a pessoa jurídica não comprovou a sua hipossuficiência.
+Defende que, não sendo conhecido o recurso especial, este deve, ao menos, ser admitido como reclamação, em decorrência do princípio da fungibilidade.
+As contrarrazões foram apresentadas (e-STJ, fls. 758/764).
+É o relatório.
+Passo a decidir.
+A insurgência não merece prosperar.
+Primeiramente, cumpre esclarecer que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/15 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça, conforme disposto no Enunciado Administrativo n. 3/STJ.
+De início, no tocante à ofensa ao enunciado da Súmula 481/STJ, é pacífico nesta Corte Superior que verbete sumular não se equipara às leis federais para a finalidade disposta no art. 105, III, da Constituição Federal, de forma que não basta, para a admissão do recurso, a ofensa apontada.
+Cumpre asseverar, inclusive, que este entendimento foi consubstanciado na Súmula 518/STJ que recebeu a seguinte redação: "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. REVISÃO DAS CONCLUSÕES ESTADUAIS. INVIABILIDADE. NECESSIDADE DO REEXAME DE FATOS E PROVAS. SÚMULA N.
+7/STJ. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO EMBARGADO. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS PROCRASTINATÓRIOS. CABIMENTO DA MULTA DO ART. 1.026, § 2º, DO NOVO CPC. EMBARGOS REJEITADOS.
+1. A jurisprudência deste Tribunal Superior firmou-se no sentido de que o mero descontentamento da parte com o resultado do julgamento não configura violação do art. 1.022 do CPC/2015 e que os embargos declaratórios não se prestam à rediscussão de matéria devidamente analisada.
+2. Ausência dos requisitos de alto grau de verossimilhança das alegações e de credibilidade das provas apresentadas para a concessão da tutela de evidência pleiteada.
+3. Não cabe ao STJ apreciar a violação a verbete sumular em recurso especial, visto que o enunciado não se insere no conceito de lei federal, previsto no art. 105, III, a, da Constituição Federal, consoante a Súmula 518 desta Corte: "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+4. Aplica-se, por analogia, o enunciado da Súmula n. 284 do STF, tendo em vista a deficiência das razões dos embargos de declaração, que vieram expostas genericamente, sem demonstrar, de forma clara e precisa, em que consistiu a alegada negativa de vigência à Lei, ou mesmo qual a sua correta aplicação.
+5. A embargante reitera argumentos já apreciados, postergando a solução definitiva da controvérsia. Essa conduta é motivo para a aplicação da multa do art. 1.026, § 2º, do CPC/2015, por terem estes embargos nítido intuito procrastinatório.
+6. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl nos EDcl no AgInt nos EDcl no AREsp 1031107/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/05/2018, DJe 01/06/2018 - grifou-se)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. MONTANTE INDENIZATÓRIO. PRETENSÃO DE REDUÇÃO. SÚMULA 7/STJ. INDICAÇÃO DE OFENSA A SÚMULA. IMPOSSIBILIDADE NO APELO NOBRE. AGRAVO INTERNO DESPROVIDO.
+1. O quantum indenizatório arbitrado na instância ordinária, a título de danos morais, só pode ser examinado nesta Corte nos casos em que o valor indenizatório for irrisório ou exorbitante, o que não ocorre no caso dos autos, haja vista que os princípios da proporcionalidade e da razoabilidade foram observados. Incidência da Súmula 7/STJ.
+2. Não cabe ao STJ apreciar a violação a verbete sumular em recurso especial, visto que o enunciado não se insere no conceito de lei federal, previsto no art. 105, III, a, da Constituição Federal, consoante a Súmula 518 desta Corte: "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+3. Agravo interno desprovido.
+(AgInt no AREsp 1196344/MG, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/04/2018, DJe 04/05/2018 - grifou-se)
+Além disso, nos termos do que dispõe os arts. 105, I, f, da Constituição Federal e 187 do RISTJ, "a reclamação, em razão de sua natureza incidental e excepcional, destina-se a preservação da competência e garantia da autoridade dos julgados somente quando objetivamente violados, não podendo servir como sucedâneo recursal para discutir o teor da decisão hostilizada" (AgRg na Rcl 6.199/SP, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, DJe de 19/12/2011).
+Nesse mesmo sentido, os seguintes julgados: AgRg na PET na Rcl 9.615/MG (Rel. Ministro GILSON DIPP, CORTE ESPECIAL, DJe de 12/06/2013) e AgRg na Rcl 10.126/SP (Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, DJe de 15/04/2013).
+Na realidade, observa-se que a reclamação está sendo utilizada como sucedâneo recursal, pois pretende o recorrente única e exclusivamente, a pretexto da aplicação do princípio da instrumentalidade das formas, a admissão de recurso especial materialmente inadmissível, por trazer unicamente o enunciado de Súmula do STJ como matéria violada.
+Também mostra-se incabível o pedido de aplicação do princípio da fungibilidade, uma vez que os procedimentos (reclamação e recurso especial) tratam de hipóteses diversas, bem como em razão da jurisprudência desta Corte, firmada no sentido de que não se admite a utilização de reclamação como sucedâneo de recurso.
+Destarte, por não estar configurada quaisquer das hipóteses de cabimento, inviável o processamento da reclamação.
+Advirta-se, por fim, que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015, conforme Enunciado Administrativo n. 3/STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
