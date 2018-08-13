@@ -1,0 +1,18 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. RECONSIDERAÇÃO DA DECISÃO AGRAVADA PARA AFASTAR A INTEMPESTIVIDADE DO RECURSO ESPECIAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA Nº 126 DO STJ. AGRAVO CONHECIDO PARA, EM JUÍZO DE RETRATAÇÃO, RECONSIDERAR A DECISÃO AGRAVADA PARA NÃO CONHECER DO RECURSO ESPECIAL POR OUTRO FUNDAMENTO.
+DECISÃO
+Cuida-se de agravo interno manejado por PADRÃO PROPAGANDA LTDA contra decisão da Presidência do STJ que conheceu do agravo para não conhecer do recurso especial em razão de intempestividade.
+A agravante insurge-se contra a decisão agravada alegando que o recurso especial foi interposto tempestivamente, haja vista a Portaria TRF2-[PLACA]/00819 que estabeleceu recesso forense e suspensão de expediente no dia 20 de novembro de 2013.
+Requer a reconsideração da decisão agravada para que seja conhecido o recurso especial.
+Sem impugnação.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A irresignação merece acolhida.
+Com efeito, o recurso especial foi interposto na égide do CPC/1973 (Enunciado Administrativo nº 2 do STJ), época em que a jurisprudência desta Corte admitia a comprovação da tempestividade do recurso em sede de agravo interno, o que ocorreu na hipótese, haja vista a suspensão do prazo no dia 20/11/2013, consoante a portaria do TRF2 trazida aos autos, de modo que publicado o acórdão em 19/11/2013, o prazo de 15 dias teve início em 21/11/2013 e expirou em 5/12/2013, data na qual foi interposto o recurso especial tempestivamente.
+Dessa forma, a decisão agravada merece reforma para afastar a intempestividade do recurso.
+Todavia, o recurso especial não merece conhecimento por fundamento diverso. Explico.
+A questão debatida nos autos diz respeito com a inconstitucionalidade da MP nº 812/1994, convertida na Lei nº 8.981/1995, por ofensa aos princípios constitucionais da irretroatividade e da anterioridade contidos nos arts. 5º, XXXVI e 150, III, da Constituição Federal, pretensão que foi afastada pelo acórdão recorrido.
+Da análise dos autos, verifica-se que não foi interposto recurso extraordinário contra os fundamentos de cunho constitucional do acórdão recorrido, o que impede o conhecimento do recurso especial em razão do óbice da Súmula nº 126 desta Corte, in verbis: "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário".
+Inaplicável na hipótese o disposto no art. 1.032 do CPC/2015, tendo em vista que o recurso especial, como já ressaltado alhures, foi interposto na égide do CPC/1973, com incidência do Enunciado Administrativo nº 2 desta Corte, in verbis: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+Ante o exposto, com fulcro no art. 1.021, § 2º, do CPC/2015 c/c o art. 259 do RISTJ, conheço do agravo interno para, em juízo de retratação, afastar a intempestividade para conhecer do agravo a fim de não conhecer do recurso especial por outro fundamento, nos termos da fundamentação supra.
+Publique-se. Intimem-se.
