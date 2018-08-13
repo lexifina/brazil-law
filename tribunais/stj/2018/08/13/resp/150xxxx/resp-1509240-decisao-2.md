@@ -1,0 +1,48 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Petrocard Administradora de Crédito Ltda., com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo TRF da 5ª Região, publicado na vigência do CPC/1973, assim ementado (e-STJ, fl. 324):
+ADMINISTRATIVO. LICITAÇÃO. PREGÃO ELETRÔNICO. EMPATE ENTRE AS LICITANTES NA PROPOSTA INICIAL. INEXISTÊNCIA DA FASE DE LANCES. APLICAÇÃO SUBSIDIÁRIA DA LEI Nº 8.666193. SORTEIO ENTRE OS PARTICIPANTES EMPATADOS.
+1. O procedimento licitatório em questão foi realizado, na forma de pregão eletrônico, pela UFAL, com o intuito de contratar empresa para prestação de serviços de Implementação e Operação de Sistema Informatizado e Integrado de gestão de frota de veículos do hospital.
+2. Como as duas licitantes apresentaram a menor proposta possível antes da abertura da fase de lances, esta não existiu pois seria desnecessária. Não há como se aplicar, portanto, o critério de desempate previsto no art. 24, § 4º, do Decreto nº 5.450/2005.
+3. Deve-se empregar, subsidiariamente, a Lei nº 8.666/93, como prescreve a Lei nº 10.520/2002. A Lei. 8.666 dispõe, em seu art. 45, § 2º, que o critério utilizado para desempate é, obrigatoriamente, o do sorteio.
+4. Apelação e remessa oficial improvidas.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 334/339).
+Alega a recorrente ofensa ao art. 535 do CPC/1973. Entende que a Corte de origem teria sido omissa quanto a questões essenciais ao deslinde da controvérsia, quais sejam (e-STJ, fl. 347):
+I - O Edital do Certame no item 5.5 - fls. 14 dos autos - prevê que "Não serão aceitos 02 (dois) ou mais lances de mesmo valor, prevalecendo aquele que for recebido e registrado em primeiro lugar, conforme determina o § 4º do artigo 24 do Decreto nº 5.450, de 31 de maio de 2005".
+II - O Manual do Pregão Eletrônico através da FAQ - Perguntas e Respostas Frequentes - preconiza que, "se todas as empresas que estão empatadas não forem declarantes ME/EPP, o sistema automaticamente dará como vencedora a empresa que enviou antes sua proposta. Se mesmo assim continuarem empatadas, pois as propostas foram dadas em tempos exatamente iguais, o pregoeiro as convocará para realização de um sorteio presencial, para promover ao desempate", conforme fls. 113 dos autos.
+III - O § 4º do artigo 24 do Decreto nº 5.450/05 prevê que "Art. 24. Classificadas as propostas, o pregoeiro dará início á fase competitiva, quando então os licitantes poderão encaminhar lances exclusivamente por meio do sistema eletrônico.  ..  § 4º Não serão aceitos dois ou mais lances iguais, prevalecendo aquele que for recebido e registrado primeiro".
+Sustenta existência de dissídio jurisprudencial quanto à celeuma acerca da incidência do princípio da vinculação editalícia para reconhecer-se como legítima a aplicação do item 5.5 do edital e do § 4º do art. 24 do Decreto n. 5.540/2005.
+Contrarrazões apresentadas às e-STJ, fls. 400/410.
+Parecer do Ministério Público Federal às e-STJ, fls. 423/427.
+É o relatório.
+Não merece prosperar a tese de violação do art. 535 do CPC/1973, porquanto o acórdão recorrido fundamentou claramente o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada, resolvendo todas as questões levantadas pela recorrente, conforme se depreende do seguinte excerto do voto condutor do aresto (e-STJ, fls. 320/321):
+Dentre as três empresas restantes, duas apresentaram propostas iniciais iguais: a impetrante e a empresa declarada vencedora. Como critério de desempate, o Pregoeiro declarou como vencedora a empresa Petrocard por ter apresentado sua proposta anteriormente.
+Entretanto, o critério mencionado acima não corresponde ao que deveria ser aplicado no caso em comento. O Decreto nº 5.450/2005, o qual regulamenta o pregão eletrônico, delineia duas fases diferentes neste procedimento: a "fase do recebimento das propostas" e a "fase de lance". Tem-se que a primeira se encerra na hora e data marcadas para a abertura da "sessão pública virtual", enquanto a segunda tem início quando da abertura da referida sessão e se constitui na fase propriamente competitiva do pregão. Tendo esta diferenciação em vista, destaco o art. 24 do Decreto nº 5.450:
+ ..
+Ocorre que, como as propostas apresentadas antes de dar início à fase competitiva já possuíam o menor valor possível de R$ 120.012,00 (cento e vinte mil e doze reais), não foi necessária a abertura de uma fase de lances. Não há que se aplicar, portanto, o critério descrito no dispositivo transcrito, acima, uma vez que este deve ser aplicado apenas para o desempate de lances.
+Para solucionar o empate entre as propostas, deve ser empregada a Lei nº 8.666/93, visto que a Lei nº 10.520/2002 estabelece, em seu art. 9º, sua aplicação subsidiária para a modalidade do pregão quando a legislação específica for omissa. Para tal, a Lei nº 8.666 dispõe que o critério de desempate deve ser, obrigatoriamente o sorteio:
+ ..
+Sendo assim, não há que se falar em omissão, obscuridade, contradição ou erro material do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração.
+No aspecto:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO CPC/1973. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282/STF. REEXAME DE ELEMENTOS PROBATÓRIOS PRODUZIDOS AO LONGO DA DEMANDA. SÚMULA N. 7/STJ.
+1. Afasta-se a alegada violação do art. 535 do CPC quando o acórdão recorrido, integrado pelo julgado proferido nos embargos de declaração, dirime, de forma expressa, congruente e motivada, as questões suscitadas nas razões recursais.
+2. Aplicam-se os óbices previstos nas Súmulas n. 282 e 356/STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+3. Aplica-se a Súmula n. 7 do STJ quando o acolhimento da tese defendida no recurso especial reclamar a análise dos elementos probatórios produzidos ao longo da demanda.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 129.913/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 17/5/2016, DJe 23/5/2016)
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. CONSELHO FEDERAL DE MEDICINA. PENA DE CASSAÇÃO DO REGISTRO PROFISSIONAL. SÚMULA 7/STJ.
+1. A Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitaram a controvérsia, não se verificando nenhum vício que possa nulificar o acórdão recorrido.
+2. O Tribunal de origem, em análise fático-probatória, concluiu que não há prova suficiente para justificar a aplicação da cassação do registro profissional do recorrido.
+3. A alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, incidindo, portanto, o óbice da Súmula 7/STJ.
+Agravo interno improvido.
+(AgInt no AREsp 854.072/DF, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 17/5/2016, DJe 25/5/2016)
+Ademais, a divergência jurisprudencial apontada não foi comprovada nos moldes exigidos nos arts. 541, parágrafo único, do Código de Processo Civil de 1973 e 255, § 1º, do Regimento Interno do STJ, uma vez que a recorrente apenas transcreveu as ementas dos julgados que entendeu favoráveis à sua tese, sem realizar o necessário cotejo analítico entre a fundamentação contida nos precedentes invocados como paradigmas e no aresto impugnado.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. COISA JULGADA. VIOLAÇÃO. MATÉRIA FÁTICA. REEXAME. CLÁUSULA CONTRATUAL. INTERPRETAÇÃO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ. DEMAIS QUESTÕES. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO NÃO REALIZADO. SIMILITUDE FÁTICA. NÃO EVIDENCIADA.
+1. A Corte de origem entendeu que houve efetivo descumprimento da sentença prolatada em ação civil pública, de modo que a revisão das conclusões do acórdão recorrido demandaria necessário revolvimento dos aspectos fáticos da lide, além de reanálise das cláusulas contratuais, o que é vedado nesta via recursal ante o disposto nas Súmulas nºs 5 e 7/STJ.
+2. O simples acolhimento dos aclaratórios na origem, sem que haja expresso pronunciamento, mesmo que implícito, a respeito das normas indicadas nos dispositivos legais indicados como malferidos no recurso especial, não é suficiente para fins de considerar prequestionada a matéria (Súmula nº 211/STJ).
+3. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional, nos termos do art. 541, parágrafo único, do CPC/1973 e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não sendo bastante a simples transcrição de ementas sem o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+4. Agravo interno não provido.
+(AgInt no AREsp 610.722/SP, Rel. Ministro VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/6/2016, DJe 2/8/2016 - grifos acrescidos)
+Ante o exposto, com fulcro na Súmula 568/STJ e no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
