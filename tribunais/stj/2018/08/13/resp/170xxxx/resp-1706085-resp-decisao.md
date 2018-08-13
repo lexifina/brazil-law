@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de petição protocolada às fls. 288-292 (e-STJ) na qual a defesa de GABRIEL MEDEIROS pugna pelo reconhecimento e declaração da extinção da punibilidade quanto ao crime de furto, apurado no presente processo.
+Consoante se extrai dos autos, o fato delituoso ocorreu em 20/7/2012, em 22/1/2013 foi recebida a denúncia (e-STJ, fl. 46) e em 20/5/2015 foi proferida sentença absolutória (e-STJ, fls. 131-140).
+Em 13/6/2017 a Corte de origem, dando provimento ao apelo da acusação, reformou a sentença e condenou o requerente à pena de 3 anos, 9 meses e 15 dias de reclusão e 23 dias-multa pela prática do crime de furto qualificado, o que motivou a interposição do recurso especial.
+Na decisão monocrática de fls. 275-280 (e-STJ), de minha relatoria, deu-se provimento ao recurso especial para determinar o afastamento da qualificadora relativa ao rompimento de obstáculo e, como consequência, reduzir a pena para 1 ano e 7 meses de reclusão.
+De fato, tendo em vista o novo patamar da reprimenda, merece prosperar o pedido, a fim de que se declare a extinção da punibilidade do agente.
+Como determina o art. 110, § 1º, do Código Penal, "A prescrição, depois da sentença condenatória com trânsito em julgado para a acusação ou depois de improvido seu recurso, regula-se pela pena aplicada, não podendo, em nenhuma hipótese, ter por termo inicial data anterior à da denúncia ou queixa." (redação dada pela Lei n. 12.234, de 5/5/2010).
+Na espécie, ao requerente restou aplicada a pena de 1 ano e 7 meses de reclusão, mais multa, pela prática do crime tipificado no art. 155 do Código Penal (e-STJ, fls. 275-280).
+Considerada a reprimenda fixada, a prescrição da pretensão punitiva ocorre em 4 anos (art. 109, V, do CP).
+O artigo 117 do Código Penal prevê os prazos interruptivos da prescrição, dentre estes se encontram o recebimento da denúncia ou da queixa (art. 117, I) e a publicação de sentença ou acórdão condenatórios recorríveis (art. 117, IV).
+No caso, uma vez que a sentença foi absolutória, o segundo marco interruptivo só ocorreu com a publicação do acórdão condenatório. Assim, verificado que entre o recebimento da denúncia (22/1/2013 - e-STJ, fl. 46) e data da publicação do acórdão condenatório (27/6/2017 - e-STJ, fl. 213) passaram-se mais de 4 anos, sem que tenha ocorrido outro evento interruptivo da prescrição, de rigor o reconhecimento da prescrição da pretensão punitiva.
+À vista do exposto, com fundamento no art. 110, § 1º, c/c art. 109, V, e 117, I e IV, todos do Código Penal, declaro extinta a punibilidade de GABRIEL MEDEIROS, na Apelação Criminal n. 0003181-45.2013.8.12.0001.
+Publique-se. Intimem-se.
