@@ -1,0 +1,57 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. ALEGAÇÃO DE NÃO CABIMENTO DA MULTA. AUSÊNCIA DE INDICAÇÃO CLARA E PRECISA DO DISPOSITIVO LEGAL VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Trata-se de agravo em recurso especial manejado por [NOME] e outros em face de decisão do Tribunal de Justiça do Estado do Distrito Federal, que negou admissibilidade a recurso contra acórdão assim ementado:
+PROCESSO CIVIL E ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. SERVIDORES DO DISTRITO FEDERAL. LEI DISTRITAL Nº 38/89. ADVENTO DA LEI DISTRITAL Nº 117/90. PLANO COLLOR. COMPENSAÇÃO. SENTENÇA MANTIDA.
+1. A Lei Distrital nº 38/1989 disciplinou a forma de reajuste dos servidores civis da Administração Direta, das Autarquias e das Fundações Públicas do Distrito Federal.
+2. Os Decretos 12.798/90 e 12.947/90 promoveram os reajustes salariais de 30% (trinta por cento) e 81% (oitenta e um por cento), respectivamente, para os servidores da Administração Direta, Autárquica e Fundacional do Distrito Federal. Estes percentuais trataram de recomposição de parte das perdas ocorridas com a indevida aplicação do "plano Coltor" no âmbito do Distrito Federal, no período de vigência da Lei Distrital nº 38/89.
+3. Após os reajustes decorrentes da Lei nº 38/1989, não se pode aplicar em duplicidade duas formas de reajustamento, sob pena de bis in idem, na medida em que os servidores beneficiados com a ação judicial estariam recebendo os expurgos inflacionários mais de uma vez e, assim, proporcionando o enriquecimento ilícito à custa do erário.
+4. Acerca da compensação de valores com reajustes futuros, saliento que há precedentes do col. STJ e do STF proclamando a possibilidade de ser feita a referida compensação, inclusive em fase de execução de sentença, a fim de se evitar o enriquecimento indevido do servidor em detrimento da Administração.
+5. Recursos desprovidos.
+Os embargos de declaração opostos não foram providos.
+No especial, fundamentado no artigo 105, III, "a", da Constituição Federal, a parte agravante apontou contrariedade ao art. 1.022 do CPC/2015, alegando em síntese que a despeito da oposição de embargos aclaratórios, o acórdão recorrido permaneceu omisso quanto à violação da coisa julgada sobre as teses de que (a) à alegação de que houve uma restrição indevida dos percentuais a serem aplicados conforme dispôs a sentença; (b) a decisão recorrida estipulou a compensação do valor devido com um reajuste antecedente ao ajuizamento da ação, sendo omissa quanto à preclusão deste argumento; (c) à alegação de que o Tribunal não poderia alterar a forma de cálculo já imposta na sentença. Pede ainda, o afastamento da multa aplicada.
+Não foram apresentadas contrarrazões.
+O Tribunal de origem não admitiu o recurso especial por entender que não houve vício no acórdão recorrido apto a ensejar a violação do art. 1.022 do CPC/2015. Quanto à inaplicabilidade da multa imposta, afirma que o acórdão está em consonância com o entendimento firmado neste Superior Tribunal, atraindo a incidência da Súmula 83/STJ.
+A parte agravante rechaça os fundamentos mencionados.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A parte agravante impugnou os fundamentos adotados na decisão de inadmissibilidade, razão pela qual, passo a análise do recurso especial.
+O provimento do recurso especial por contrariedade ao art. 1.022 do CPC/2015 pressupõe que sejam demonstrados, fundamentadamente, os seguintes motivos: (a) que a questão supostamente omitida tenha sido invocada na apelação, no agravo ou nas contrarrazões a estes recursos, ou, ainda, que se cuide de matéria de ordem pública a ser examinada de ofício, a qualquer tempo, pelas instâncias ordinárias; (b) a oposição de aclaratórios para indicar à Corte local a necessidade de sanar a omissão em relação ao ponto; (c) que a tese omitida seja fundamental à conclusão do julgado e, se examinada, poderá conduzir à sua anulação ou reforma; (d) a inexistência de outro fundamento autônomo, suficiente para manter o acórdão.
+Tais requisitos são cumulativos e devem ser abordados de maneira fundamentada na petição recursal, sob pena de não se conhecer da alegação por deficiência de fundamentação, dada a generalidade dos argumentos apresentados.
+In casu, contudo, não há falar em negativa de prestação jurisdicional nos embargos declaratórios, porquanto as instâncias ordinárias enfrentaram a matéria posta em debate na medida necessária para o deslinde da controvérsia.
+Em verdade, o acórdão proferido em sede de embargos de declaração foi expresso ao afirmar que a compensação na fase de execução não ofende a coisa julgada e não gera preclusão. Aduz ainda, que no julgamento não houve violação dos arts. 473, 474, 475-G e 741, VI, do CPC/1973.
+Assim, não vislumbro ofensa ao art. 1.022 do CPC/2015.
+Neste sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO - CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE O DÉCIMO-TERCEIRO SALÁRIO - CÁLCULO EM SEPARADO - REGIME DAS LEIS 8.212/91 E 8.620/93 - POSSIBILIDADE - CPC, ART. 535, II - AUSÊNCIA DE VIOLAÇÃO.
+1. Não ocorre ofensa ao art. 535, II, do CPC, se o Tribunal de origem analisa, ainda que implicitamente, a tese objeto dos dispositivos legais apontados pela parte.
+2. A eg. Primeira Seção pacificou o entendimento de que, na vigência da Lei n.º 8.620/93, é legítimo o cálculo em separado da contribuição previdenciária sobre o décimo-terceiro salário (EREsp 442.781, Rel. Min. Teori Albino Zavascki, julgado em 14.11.2007, DJ de 10.12.2007).
+3. Recurso especial provido.
+(REsp 868.242/RN, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 27/05/2008, DJe 12/06/2008)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. OMISSÃO NO ACÓRDÃO RECORRIDO. INOCORRÊNCIA. BENS APTOS À GARANTIA E À SATISFAÇÃO DO CRÉDITO TRIBUTÁRIO. FRAUDE NÃO RECONHECIDA. SÚMULA 7 DO STJ. APLICAÇÃO.
+1. "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do Plenário do STJ).
+2. A regra do caput do art. 185 do CTN deve ser observada em consonância com o seu parágrafo único, que dispõe que a decretação da fraude "não se aplica na hipótese de terem sido reservados, pelo devedor, bens ou rendas suficientes ao total pagamento da dívida inscrita".
+3. Hipótese em que o Tribunal a quo expressamente apreciou a existência de bens aptos e suficientes à garantia e à satisfação do crédito inscrito em dívida ativa,de modo que não há ofensa ao artigo 535 do CPC/1973.
+4. A modificação da conclusão do julgado proferido pela Corte Regional importaria reexame de prova, inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp 432.324/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 26/06/2018, DJe 07/08/2018)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA RECLAMAÇÃO. ANÁLISE DOS EFEITOS DA DECISÃO DO STJ SOBRE OS CESSIONÁRIOS. OMISSÃO. NÃO OCORRÊNCIA. CONTRADIÇÃO. INEXISTÊNCIA. ERRO MATERIAL. RECONHECIMENTO. HONORÁRIOS DE SUCUMBÊNCIA E MULTA POR LITIGÂNCIA DE MÁ-FÉ. NÃO CABIMENTO.
+1. Afasta-se a alegação de omissão do julgado se a matéria foi examinada, apenas com conclusão diversa da pretendida pela parte.
+2. A contradição capaz de ensejar o cabimento dos embargos de declaração é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+3. Configura erro material a indicação equivocada da data da propositura da ação.
+4. Descabida a condenação em honorários advocatícios de sucumbência se a reclamação teve a inicial indeferida liminarmente, sem determinação de ato citatório.
+5. A interposição de recurso regularmente previsto no ordenamento jurídico não caracteriza litigância de má-fé, sobretudo quando houve voto vencido que o acolhia.
+6. Embargos de declaração da VALE S/A rejeitados. Embargos de declaração de [NOME] e JOÃO MANOEL DE ALMEIDA acolhidos em parte, sem efeitos modificativos.
+(EDcl no AgInt na Rcl 31.601/MA, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 28/06/2018, DJe 03/08/2018)
+Incide no caso, o teor da Súmula 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Outrossim, o Tribunal de origem atribuiu caráter protelatório aos embargos de declaração opostos, por entender que buscavam a rediscussão de matéria já decidida.
+Contudo, a despeito de buscar afastar a aplicação da multa, observa-se que a recorrente não apontou de forma clara e precisa qual dispositivo de lei federal foi violado no acórdão recorrido, mostrando-se deficiente a fundamentação recursal, neste ponto.
+A deficiência de fundamentação no que se refere à falta de indicação dos artigos de lei supostamente ofendidos justifica a aplicação ao recurso especial do óbice da Súmula 284/STF que dispõe in verbis: é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Vale destacar que a função precípua do STJ, por meio do recurso especial, é homogeneizar a interpretação dada à norma federal pelo ordenamento jurídico pátrio. Consequentemente, o conhecimento do recurso exige necessariamente a indicação do dispositivo de lei federal que se entende por violado.
+Nesse sentido:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PARTICULARIZAÇÃO DO DISPOSITIVO A QUE O ACÓRDÃO TERIA DADO INTERPRETAÇÃO DIVERGENTE. SÚMULA Nº 284/STF. PRECEDENTES. AUSÊNCIA DA DEMONSTRAÇÃO ANALÍTICA DA DIVERGÊNCIA JURISPRUDENCIAL. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO. APLICAÇÃO DE MULTA.
+1. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional, nos termos do art. 541, parágrafo único, do Código de Processo Civil e do art. 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+2. Consoante a jurisprudência atual deste STJ, o recurso especial interposto pela alínea "c" do inciso III do art. 105 da Constituição Federal necessita da indicação do dispositivo federal que teria recebido interpretação divergente. Não sendo cumprido este requisito, não pode ser conhecido o recurso especial, pois não é possível ter a exata compreensão da controvérsia. Incidência da Súmula 284 do STF. Precedentes.
+3. Agravo regimental não provido, com aplicação de multa.
+(AgRg no AREsp 158.478/SP, Quarta Turma, Ministro Luis Felipe Salomão, julgado em 28/8/2012, DJe 5/9/2012)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
