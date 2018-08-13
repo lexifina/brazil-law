@@ -1,0 +1,44 @@
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO. SUCUMBÊNCIA RECÍPROCA. COMPENSAÇÃO DE HONORÁRIOS. OMISSÃO. NÃO OCORRÊNCIA. RECURSO ESPECIAL DESPROVIDO.
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por LC CONSULTORIA LTDA em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+AGRAVO DE INSTRUMENTO - AÇÃO DE EXECUÇÃO - COMPENSAÇÃO DE HONORÁRIOS - CPC/2015 - VEDAÇÃO.
+1. Nos termos do §14º do Novo Código de Processo Civil, ausente amparo legal que autorize a compensação da verba sucumbencial, ela deve ser vedada, merecendo prestigio a decisão proferida pelo juízo monocrático que indeferiu o pedido. (e-STJ fl. 859)
+Opostos embargos de declaração, estes foram rejeitados (e-STJ fls. 898-901).
+Nas razões do recurso especial, alega a recorrente violação aos arts. 489 e 1.022, ambos do Código de Processo Civil de 2015, sustentando, em síntese, omissão do v. acórdão quanto à compensação dos honorários de sucumbência, bem como dissídio pretoriano. Aduz, pois, que houve a condenação recíproca nos ônus de sucumbência, o que torna possível a compensação dos honorários advocatícios, sobretudo pelo fato de que a referida condenação fora imposta sob a vigência do Código Processual 1973.
+Apresentadas contrarrazões ao recurso especial (e-STJ fls. 952-969).
+É o relatório.
+Passo a decidir.
+Inicialmente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/2015, conforme Enunciado Administrativo Nº 3/STJ.
+Ato contínuo, percebe-se que a irresignação não merece acolhida.
+A recorrente, em sede de recurso especial, alega ofensa aos arts. 489 e 1.022, ambos do Código de Processo Civil de 2015, sustentando, em síntese, omissão do v. acórdão quanto à compensação dos honorários de sucumbência, bem como dissídio pretoriano. Aduz, pois, que houve a condenação recíproca nos ônus de sucumbência, o que torna possível a compensação dos honorários advocatícios, sobretudo pelo fato de que a referida condenação fora imposta sob a vigência do Código de Processo Civil de 1973.
+O acórdão recorrido, por sua vez, assim assentou (e-STJ fls. 860-861):
+Inicialmente, insta registrar que a decisão agravada foi proferida sob a égide do Novo Código de Processo Civil, assim, o presente recurso, tanto no que tange à análise dos seus requisitos de admissibilidade, quanto ao mérito, deverá ser analisado em atenção à norma então vigente.
+Conforme relatado, a agravante bate-se pela possibilidade de compensação dos honorários advocatícios, em razão da sucumbência parcial na ação que originou o título exeqüendo.
+Como se sabe, sob a vigência do CPC/73, era pacífico no Superior Tribunal de Justiça o entendimento no sentido de que se o provimento judicial transitado em julgado, que servia de título executivo, não negasse a possibilidade de compensação da verba honorária, admitia-se que tal compensação se fizesse em sede de execução ou fase de cumprimento de sentença, sem que isso traduzisse qualquer ofensa à coisa julgada.
+Isso porque, à época, era consolidado o entendimento do STJ que admitia a compensação dos honorários advocatícios em caso de sucumbência recíproca: (..)
+Contudo, a referida súmula perdeu sua eficácia em razão da vigência do CPC/15. É que, contrario sensu ao entendimento consolidado pelo Tribunal Superior, o §14º do art. 85 do Novo Código de Processo Civil foi cogente ao dispor que "os honorários constituem direito do advogado e têm natureza alimentar, com os mesmos privilégios dos créditos oriundos da legislação do trabalho, sendo vedada a compensação em caso de sucumbência parcial."
+Assim, ausente amparo legal que autorize a compensação da verba sucumbencial, ela deve ser vedada, merecendo prestigio a decisão proferida pelo juízo monocrático que indeferiu o pedido.
+Com efeito, vislumbra-se que a irresignação não merece guarida, haja vista a não ocorrência de nulidade por omissão, obscuridade, contradição, ou erro material, tampouco de negativa de prestação jurisdicional, no acórdão que conclui, de maneira integral e com fundamentação suficiente e clara, que, (a) "sob a vigência do CPC/73, era pacífico no Superior Tribunal de Justiça o entendimento no sentido de que se o provimento judicial transitado em julgado, que servia de título executivo, não negasse a possibilidade de compensação da verba honorária, admitia-se que tal compensação se fizesse em sede de execução ou fase de cumprimento de sentença, sem que isso traduzisse qualquer ofensa à coisa julgada"; que, (b) "contrario sensu ao entendimento consolidado pelo Tribunal Superior, o §14º do art. 85 do Novo Código de Processo Civil foi cogente ao dispor que "os honorários constituem direito do advogado e têm natureza alimentar, com os mesmos privilégios dos créditos oriundos da legislação do trabalho, sendo vedada a compensação em caso de sucumbência parcial", bem como que, (c) "ausente amparo legal que autorize a compensação da verba sucumbencial, ela deve ser vedada, merecendo prestigio a decisão proferida pelo juízo monocrático que indeferiu o pedido".
+O juízo não está obrigado, ainda, a se manifestar a respeito de todas as alegações e dispositivos legais suscitados pelas partes.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE EXIBIÇÃO DE DOCUMENTOS. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. VIOLAÇÃO DO ART. 535 DO CPC/73. OMISSÃO QUE NÃO SE VERIFICA. PEDIDO ADMINISTRATIVO. INTERESSE DE AGIR RECONHECIDO PELO TRIBUNAL DE ORIGEM. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA Nº 7 DO STJ. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC.
+1. Aplicabilidade do NCPC a este recurso ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexiste ofensa ao art. 1022, II, do NCPC (art. 535 do CPC/73) quando o Tribunal a quo se manifestou clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, sendo desnecessário rebater, uma a uma, as razões suscitadas pelas partes.
+2. (..).
+3. No caso dos autos, a convicção a que chegou o acórdão recorrido quanto ao interesse de agir da parte autora decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, o que encontra óbice no enunciado nº 7 da Súmula do STJ.
+4. Em virtude do não provimento do presente recurso, e da anterior advertência em relação à aplicabilidade do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+5. Agravo interno não provido, com aplicação de multa. (AgInt no REsp 1624810/PR, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/05/2017, DJe 01/06/2017) - g.n.
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO DE DANOS MORAIS. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. VIOLAÇÃO DO ART. 489, § 1º, IV E VI, DO CPC/2015. AUSÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. Indicação do dispositivo legal violado. Ausente. Súmula 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação ajuizada em 18/12/2008. Recurso especial concluso ao gabinete em 26/04/2017. Julgamento: CPC/2015.
+2. O propósito recursal é decidir sobre: i) a invalidade do julgamento proferido pelo TJ/MG, por ausência de fundamentação, a caracterizar violação do art. 489, § 1º, IV e VI, do CPC/2015; e ii) a distribuição dos ônus da prova na hipótese, contra a qual se insurge o recorrente.
+3. Inexiste afronta ao art. 489, § 1º, IV, do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+4. A ausência de decisão acerca dos argumentos invocados pelo agravante em suas razões recursais, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. O recurso especial não pode ser conhecido quando a indicação expressa do dispositivo legal violado está ausente.
+6. O reexame de fatos e provas em recurso especial é inadmissível.
+7. Recurso especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1665837/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20/06/2017, DJe 23/06/2017) - g.n.
+Destarte, mostra-se patente que melhor sorte não socorre à recorrente.
+Ante o exposto, com base no art. 932, inciso IV, do CPC/2015 c/c a Súmula 568/STJ, NEGO PROVIMENTO ao recurso especial.
+Intimem-se.
