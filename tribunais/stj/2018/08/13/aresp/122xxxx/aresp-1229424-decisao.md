@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo interposto por REGINA DE SOUZA contra decisão do Tribunal de Justiça do Distrito Federal e Territórios, que não admitiu o recurso especial manejado com apoio no art. 105, III, "a", da Constituição Federal, em oposição a acórdão assim ementado:
+"DIREITO PENAL. APELAÇÃO CRIMINAL. FURTO QUALIFICADO PELO ABUSO DE CONFIANÇA. INAPLICABILIDADE DO PRINCIPIO DA INSIGNIFICÂNCIA. DESCLASSIFICAÇÃO DO CRIME PARA FURTO SIMPLES. INEXISTÊNCIA DE VÍNCULO DE CONFIANÇA ENTRE RÉ E VÍTIMA. INAPLICABILIDADE DO PRIVILÉGIO DO §2º DO ART. 155 DO CP. NÃO CABIMENTO DO SURSIS PROCESSUAL. CONTINUIDADE DELITIVA. SÚMULA 243/STJ.
+1. Segundo entendimento pacífico da jurisprudência, somente se aplica o princípio da insignificância se estiverem presentes os seguintes requisitos cumulativos: a mínima ofensividade da conduta; nenhuma periculosidade social da ação; reduzido grau de reprovabilidade do comportamento e inexpressividade da lesão jurídica provocada.
+2. Para configurar o abuso de confiança hábil à incidência do inciso II do § 4º do art. 155 do CP, é necessária a existência, entre a vítima e o agente, de um dever de lealdade, originado de confiança neste depositada. No caso, a ré foi contratada, de forma terceirizada, para exercer a função de "animadora de páscoa" no Supermercado Supercei, vindo a trabalhar somente por três dias, fato que descaracteriza a existência de vínculo de lealdade e confiança entre as partes.
+3. A aplicação da causa especial de diminuição de pena relativa ao privilégio previsto no art. 155, § 2º, do CP só se mostra possível se o réu for primário e a coisa subtraída for de pequeno. valor.
+4. Ante os termos da Súmula 243 do Superior Tribunal de Justiça, constatada a continuidade delitiva, resulta improcedente o pedido de proposta de suspensão condicional do processo (sursis processual).
+5. Apelação criminal conhecida e parcialmente provida para desclassificar o crime de furto qualificado para furto simples e redimensionar da pena." (e-STJ, fls. 171-172).
+O recurso especial aponta violação do art. 386, III, do Código de Processo Penal, e 155, caput, do Código Penal, pugnando pela aplicação do princípio da insignificância ou, alternativamente, que seja reconhecida a modalidade privilegiada do furto (e-STJ, fls. 190-200).
+Foram apresentadas as contrarrazões (e-STJ, fls. 205-208).
+O recurso foi inadmitido pelo fundamento de que a alteração do julgado encontra óbice na Súmula 7/STJ (e-STJ, fls. 223-225). Daí este agravo (e-STJ, fls. 227-234).
+O Ministério Público Federal manifestou-se pelo não provimento do agravo (e-STJ, fls. 250-251).
+É o relatório.
+Decido.
+A pretensão recursal merece parcial acolhimento.
+De acordo com a orientação do Supremo Tribunal Federal, adotada por esta Corte Superior, "o princípio da insignificância - que deve ser analisado em conexão com os postulados da fragmentariedade e da intervenção mínima do Estado em matéria penal - tem o sentido de excluir ou de afastar a própria tipicidade penal, examinada na perspectiva de seu caráter material. (..) Tal postulado - que considera necessária, na aferição do relevo material da tipicidade penal, a presença de certos vetores, tais como (a) a mínima ofensividade da conduta do agente, (b) nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada - apoiou-se, em seu processo de formulação teórica, no reconhecimento de que o caráter subsidiário do sistema penal reclama e impõe, em função dos próprios objetivos por ele visados, a intervenção mínima do Poder Público" (STF, HC 84.412/SP, Rel. Ministro CELSO DE MELLO, SEGUNDA TURMA, DJ 19/11/2004).
+Na espécie, a aplicação do princípio despenalizador foi negada, com base nos seguintes fundamentos:
+"No caso dos autos, conforme relatado na denúncia e confirmado pelas provas dos autos, a ré subtraiu ovos de páscoa do Supermercado Supercei, no qual exercia a função de "animadora de páscoa" como funcionária terceirizada, escondendo os objetos em sua bolsa. A ré se utilizou do mesmo procedimento por três dias seguidos.
+Segundo o gerente do supermercado, [NOME], após a descoberta do furto, foi feito um levantamento na loja e perceberam que foram subtraídos 18 (dezoito) ovos de páscoa, sendo estes avaliados no total de R$ 709,82 (setecentos e nove reais e oitenta e dois centavos), o que corresponde a 80% do salário mínimo vigente à época dos fatos, conforme se verifica do cupom fiscal do fl. 23.
+O valor econômico dos bens subtraídos não é baixo e, considerando as circunstâncias do delito, não é possível reconhecer que seja insignificante, a ponto de não lesionar o bem jurídico tutelado pela norma penal.
+Ao contrário do que afirma a defesa, não se deve ter como norte, para a aplicação do princípio da bagatela, o patrimônio da empresa vítima, sob pena de estar-se estimulando a dilapidação patrimonial da empresa, sem qualquer consequência jurídica. Logo, não merece guarida o argumento recursal de que o valor dos bens subtraídos "é tido como inexpressivo frente ao faturamento do mercado Supercei" (fl. 110v).
+De igual maneira, não se trata de comer chocolates que estavam "quebrados" e "não poderiam ser comercializados" (fl. 110v), pois, conforme esclareceram o gerente do Supermercado Supercei, [NOME], e a gerente de Recursos Humanos da empresa que contratou a ré, [NOME], as empresas (Lacta e Supercei) não tinham a política de ceder aos funcionários os ovos de páscoa danificados (mídia de fl. 70). Assim, não era permitido à apelante, comer, distribuir ou se apropriar dos chocolates, ainda que estivessem quebrados.
+É evidente a periculosidade social da ação e o comportamento da agente é altamente reprovável. A apelante tinha a função de mostrar aos clientes do supermercado os ovos de páscoa, com seus respectivos brindes, contudo, sorrateiramente, subtraiu vários ovos de chocolate, colocando-os em sua bolsa no decorrer do expediente dos dias 16, 17 e 18 do mês de março de 2016.
+Tal circunstância demonstra a ousadia da apelante em sua empreitada criminosa e é suficiente para impedir a aplicação do princípio da bagatela. Dessa forma, deve ser rejeitado o pedido de absolvição da ré com base na atipicidade da conduta, pelo não preenchimento dos requisitos do valor do objeto do crime, da ausência de periculosidade social da ação e do reduzido grau de reprovabilidade do comportamento da agente, necessários à aplicação do principio em comento. (e-STJ, fls. 176-177).
+Com efeito, na linha da jurisprudência desta Corte Superior, a lesão jurídica não pode ser tida como insignificante, haja vista que o valor dos bens furtados, foram avaliados em R$ 709,82 (setecentos e nove reais e oitenta e dois centavos), o que corresponde a 80% do salário mínimo vigente à época dos fatos.
+Nesse sentido:
+"PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO. PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. VALOR DA RES FURTIVAE SUPERIOR A 10% DO SALÁRIO MÍNIMO. CONCURSO DE AGENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. O entendimento proferido pelo Tribunal de origem encontra-se em desacordo com a jurisprudência desta Corte firme no sentido da inaplicabilidade do princípio da insignificância às hipóteses de furto em que o valor do bem furtado seja superior a 10% do salário mínimo vigente à época dos fatos. Precedentes. 2. Não se aplica o princípio da insignificância ao furto qualificado pelo concurso de agentes. Precedentes.
+Agravo regimental desprovido."
+(AgRg no REsp 1.659.981/MG, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 13/06/2017, DJe 28/06/2017).
+" ..
+2. Quanto à aplicação do princípio bagatelar esta Corte Superior de Justiça tem entendido que a lesão jurídica provocada não pode ser considerada insignificante quando o valor dos bens subtraídos perfaz mais de 10% do salário mínimo vigente à época dos fatos.
+Omissis.
+5. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 849.458/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 15/03/2016, DJe 28/03/2016).
+De outra parte, no que tange à alegação de que se trata de furto privilegiado, razão assim à recorrente.
+O art. 155, § 2º, do Código Penal, impõe a aplicação do benefício na hipótese de adimplemento dos requisitos legais da primariedade técnica e do pequeno valor do bem furtado, assim considerado aquele inferior ao salário mínimo ao tempo do fato, tratando-se, pois, de direito subjetivo do condenado.
+A corroborar esse entendimento:
+" ..
+2. Conforme o entendimento deste Superior Tribunal, se o valor da res subtraída não excede a importância correspondente ao salário mínimo vigente à época dos fatos e o agente é primário, mostra-se possível o reconhecimento do furto privilegiado.
+3. Agravo regimental a que se nega provimento."
+(AgRg no REsp 1.447.688/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 12/02/2015, DJe 25/02/2015).
+" ..
+3. Para a concessão do benefício do privilégio no crime de furto exige-se a primariedade do agente, bem como seja a res furtiva de pequeno valor, ou seja, a importância do bem não deve ultrapassar um salário mínimo. Preenchidos os requisitos legais, e considerando as circunstâncias do crime (furto tentado com a restituição do bem à vítima), de rigor, a aplicação da causa de diminuição de pena.
+ ..
+5. Habeas corpus não conhecido. Ordem concedida, de ofício, a fim de reduzir a pena do paciente para 8 (oito) meses de reclusão e substituir a pena privativa de liberdade por multa, nos termos do art. 155, § 2.º, do Código Penal, a ser definida pelo Juízo das execuções, diante do trânsito em julgado da condenação.
+(HC 286.580/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 21/10/2014, DJe 4/11/2014).
+Na espécie, o acórdão recorrido atestou a subsunção aos requisitos legais do benefício penal, pois reconheceu ser a ré tecnicamente primária e a res futivae de valor inferior ao salário-mínimo vigente à época dos fatos. A propósito:
+"DA DOSIMETRIA DA PENA.
+Na primeira fase de fixação da pena, diante da ausência de circunstâncias judiciais desfavoráveis, estabeleço a pena-base no mínimo legal, ou seja, em 1 (um) ano de reclusão e 10 (dez) dias -multa.
+Na segunda fase, diante da ausência de circunstâncias atenuantes ou agravantes, mantenho a pena intermediária em 1 (um) ano de reclusão e 10 (dez) dias-multa.
+Na terceira fase, pleiteia a defesa a aplicação do §2º do art. 155 do CP, o qual possibilita ao juiz substituir a pena de reclusão pela de detenção, diminui-la de um a dois terços, ou aplicar somente a pena de multa, se o réu for primário e a coisa furtada de pequeno valor.
+Considerando o salário-mínimo vigente à época dos fatos, ou seja, R$ 880,00 (oitocentos e oitenta reais), constata-se que o valor dos bens em questão (R$ 709,82 - setecentos e nove reais e oitenta e dois centavos) corresponde a 80% desse piso salarial, não sendo razoável considerá-lo ínfimo ou de pequena monta.
+ ..
+Não preenchidos os requisitos, resulta improcedente a pretensão quanto ao aludido privilégio." (e-STJ, fls. 179-180).
+Desse modo, o direito subjetivo da acusada ao privilégio do art. 155, § 2º impõe a substituição da pena privativa de liberdade por multa, alternativa mais benéfica, haja vista a falta de elementos que indiquem maior reprovabilidade da conduta do réu aptos a reduzir o benefício.
+Em razão da incidência do privilégio previsto no § 2º do art. 155 do Código Penal, devem os autos retornar ao Juízo de 1º grau para proceder a nova dosimetria.
+Ante o exposto, nos termos do art. 932, VIII, do Código de Processo Civil de 2015, c/c art. 253, parágrafo único, II, "c", do RISTJ, conheço do agravo, para dar parcial provimento ao recurso especial, a fim de reconhecer o privilégio previsto no § 2º do art. 155 do Código Penal, determinando o envio dos autos ao Tribunal de origem para efetuar o redimensionamento da pena imposta.
+Publique-se. Intimem-se.
