@@ -1,0 +1,23 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. INCLUSÃO DOS NOMES DOS SÓCIOS DA EMPRESA DEVEDORA NO CADASTRO DE INADIMPLENTES. DILIGÊNCIA FACULTATIVA DO JULGADOR. APLICABILIDADE APENAS QUANDO FRUSTRADAS AS DEMAIS PROVIDÊNCIAS COERCITIVAS. FUNDAMENTO NÃO IMPUGNADO NAS RAZÕES DO APELO NOBRE. INCIDÊNCIA DA SÚMULA 283/STF. MEDIDA DETERMINADA EM DECORRÊNCIA DA CONSTATAÇÃO DA PRETENSÃO FRAUDULENTA DA SOCIEDADE. ALTERAÇÃO DESSA CONCLUSÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por [NOME] e [NOME] contra decisão que não admitiu o processamento do recurso especial.
+Compulsando os autos, verifica-se que os recorrentes interpuseram agravo de instrumento, desafiando decisão que determinou a inclusão do nome da parte executada, ora insurgente, em cadastro de inadimplentes, nos termos do art. 782, § 3º, do CPC/2015.
+Analisando o agravo, a Vigésima Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul negou-lhe provimento, consoante o acórdão recorrido assim ementado (e-STJ, fl. 181):
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO AJUIZADA PELO CONDOMÍNIO FUNDAMENTADA NA ALEGADA APROPRIAÇÃO INDEVIDA DE VALORES POR ADMINISTRADORA. INSCRIÇÃO DO NOME DOS SÓCIOS DA ADMINISTRADORA, QUE TAMBÉM SÃO EXECUTADOS, EM ÓRGÃOS DE RESTRIÇÃO AO CRÉDITO. POSSIBILIDADE DE DEFERIMENTO NO CASO CONCRETO.
+Nos termos do art. 782, § 3º, do Novo Código de Processo Civil, possível ao magistrado determinar, a requerimento da parte, a inclusão do nome do executado em cadastros de inadimplentes.
+Tal medida encontra amparo no art. 139, IV, do diploma processual vigente, que dispõe que ao magistrado incumbe "determinar todas as medidas indutivas, coercitivas, mandamentais ou sub-rogatórias necessárias para assegurar o cumprimento de ordem judicial, inclusive nas ações que tenham por objeto prestação pecuniária".
+Medida de caráter coercitivo, a qual se caracteriza como mecanismo de coerção ao pagamento, objetivando coibir a inadimplência e conferir maior efetividade ao processo executivo.
+No caso em exame, observa-se que existe risco concreto de que a empresa ré esteja se dissolvendo, possivelmente de forma irregular e para fraudar credores, o que autoriza a medida pleiteada pelo agravado e deferida no juízo de origem. Manutenção da decisão agravada que se impõe. Precedentes jurisprudenciais desta Corte.
+NEGARAM PROVIMENTO AO AGRAVO DE INSTRUMENTO. UNÂNIME.
+Nas razões do recurso especial, interposto com fundamento na alínea a do permissivo constitucional, os recorrentes alegaram a existência de afronta aos arts. 782, § 3º, do Código de Processo Civil de 2015; e 50 do Código Civil.
+Sustentaram, em síntese, serem partes ilegítimas para terem seus nomes inscritos no cadastro de inadimplentes, em razão de dívida contraída tão somente pela sociedade empresária da qual são sócios, porquanto não preenchidos os requisitos da desconsideração da personalidade jurídica, mormente porque não evidenciada a intenção de fraudar ou de gerar prejuízos aos seus clientes.
+Contrarrazões às fls. 216-225 (e-STJ).
+O processamento do recurso especial foi denegado pelo Tribunal de origem, o que levou os insurgentes à interposição do presente agravo.
+Contraminuta apresentada (e-STJ, fls. 300-305).
+Brevemente relatado, decido.
+Na hipótese ora em foco, o Tribunal de origem, sopesando o conjunto fático-probatório dos autos, manteve a decisão interlocutória que determinou a inclusão do nome dos ora recorrentes no cadastro de inadimplentes, sob o fundamento de que, tratando-se de providência facultativa atribuída ao Magistrado e aplicando-se apenas quando frustradas as demais, mostra-se adequada a sua aplicação, pois, "no caso em exame, observa-se que existe risco concreto de que a empresa ré esteja dissolvendo, possivelmente de forma irregular e para fraudar credores, o que autoriza a medida pleiteada pelo agravado e deferida no juízo de origem" (e-STJ, fl. 185).
+Contudo, no que se refere ao fundamento de terem sido frustradas as demais diligências coercitivas, constata-se não ter sido devidamente impugnado tal fundamento nas razões do apelo nobre, razão pela qual incide, na espécie, a Súmula 283/STF.
+Outrossim, para alterar a conclusão exarada no aresto combatido (a respeito da regularidade da inscrição do nome dos sócios da empresa executada no cadastro de inadimplentes, tendo em vista a demonstração da pretensão fraudulenta da sociedade), seria imprescindível o reexame dos elementos de fatos e provas do presente processo, o que não se admite no âmbito do recurso especial, ante a incidência da Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
