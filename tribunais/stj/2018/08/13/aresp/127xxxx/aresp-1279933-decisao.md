@@ -1,0 +1,37 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE COLETIVO. RESILIÇÃO UNILATERAL DO CONTRATO. NECESSIDADE DE NOTIFICAÇÃO PRÉVIA. PRECEDENTES. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por Unimed Seguros Saúde S.A. contra decisão que não admitiu o processamento do apelo extremo.
+Na origem, [NOME] ajuizou ação de obrigação de fazer contra a ora insurgente e ADM Administradora de Benefícios Ltda., ao argumento de que "possuía o plano de saúde da ré Unimed Seguros com sua esposa Yara, como dependente, oferecido pela ré ADM, como administradora e pelo Sincor, como interveniente. Ocorre que a corré ADM no mês de junho do corrente ano enviou correspondência aos segurados informando que o plano com a ré Unimed Seguros seria rescindido, por cancelamento unilateral daquela, tendo vigência até o dia 31 de julho de 2015, com o oferecimento de migrações muito diferentes do plano existente. Ressaltou que possui diversos problemas de saúde, estando com grave demência senil, necessitando de cobertura ininterrupta e com as mesmas condições que possuía, inclusive, com home care. Asseverou que, muito embora se trate de um plano de saúde coletivo, a resilição unilateral desnatura a função social, a probidade e a boa-fé exigidas na execução do contrato" (e-STJ, fl. 220).
+O Magistrado de primeiro grau julgou procedente o pedido para declarar a continuidade do contrato, afastando a resilição unilateral levada a efeito e impondo às rés obrigação de fazer consistente na manutenção do plano de saúde, tendo como beneficiários o autor e sua esposa, mediante a reemissão imediata dos boletos de pagamento das mensalidades.
+Interpostas apelações pelas requeridas, a Segunda Câmara de Direito Privado do Tribunal de Justiça de São Paulo negou provimento aos apelos, em acórdão assim ementado (e-STJ, fl. 371):
+ILEGITIMIDADE "AD CAUSAM" - Contrato Prestação de serviços - Plano de saúde - Ação proposta em face da seguradora e da administradora - Legitimidade passiva desta - Configuração - Incidência das normas do Código de Defesa do Consumidor, sendo, a responsabilidade das empresas, solidária e objetiva - Preliminar rejeitada - Recursos improvidos.
+CONTRATO - Prestação de serviços - Plano de saúde - Pretensão do segurado em migrar de plano coletivo para individual, diante da não renovação do instrumento - Admissibilidade Incidência da Resolução CONSU 19 e das normas do Código de Defesa do Consumidor - Beneficiário com idade avançada e acometido por diversos problemas de saúde, o que levaria a submeter o contratante a situação de onerosidade, seja pela imposição de carência, seja por contratar com cobertura parcial temporária ou agravo, contribuindo, assim, para dificultar seu acesso a serviço de assistência médica - Recursos improvidos.
+Os embargos de declaração opostos pela operadora foram rejeitados (e-STJ, fls. 466-468).
+Inconformada, Unimed Seguros Saúde S.A. interpôs recurso especial, apontando, além de divergência jurisprudencial, violação dos arts. 774 e 796 do Código Civil; e 13 da Lei n. 9.656/1998.
+Afirmou que a avença entabulada previa prazo de vigência anual, com a possibilidade ou não de renovação. Assim, quando não houve mais interesse na renovação do contrato de seguro, comunicou tal fato ao recorrido com a antecedência devida.
+Contrarrazões apresentadas às fls. 472-474 e 476-483 (e-STJ).
+O processamento do apelo nobre não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo.
+Contraminuta às fls. 575-576 (e-STJ).
+Brevemente relatado, decido.
+Com efeito, a orientação jurisprudencial desta Corte Superior é assente no sentido de haver possibilidade de resilição unilateral do contrato coletivo de plano de saúde, pelo fato de que o disposto no art. 13, parágrafo único, II, da Lei n. 9.656/1998 aplica-se exclusivamente a contratos individuais ou familiares, desde que haja prévia notificação, com antecedência mínima de 60 (sessenta) dias (art. 17, parágrafo único, da RN n. 195/ 2009 da ANS).
+Nesse sentido, os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE COLETIVO. RESCISÃO UNILATERAL. POSSIBILIDADE. NOTIFICAÇÃO PRÉVIA. PRAZO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Os contratos de planos privados de assistência à saúde coletivos podem ser rescindidos imotivadamente após a vigência do período de 12 (doze) meses e mediante prévia notificação da outra parte com antecedência mínima de 60 (sessenta) dias (art. 17, parágrafo único, da RN nº 195/2009 da ANS).
+3. Agravo interno não provido.
+AgInt no AREsp n. 1.160.052/SP, Relator o Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe 27/4/2018
+RECURSO ESPECIAL. AÇÃO DE CONHECIMENTO. SAÚDE SUPLEMENTAR. DIREITO DO CONSUMIDOR. PLANO DE SAÚDE COLETIVO. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL OU DE SÚMULA. DESCABIMENTO. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. INCIDÊNCIA DO CDC. RESCISÃO UNILATERAL E IMOTIVADA. EMPRESA COM MENOS DE TRINTA BENEFICIÁRIOS. FATO JURÍDICO RELEVANTE. ABUSIVIDADE CONFIGURADA. MOTIVAÇÃO. NECESSIDADE. VULNERABILIDADE. RECONHECIDA. BOA-FÉ E MANUTENÇÃO DOS CONTRATOS.
+1. Ação ajuizada em 27/10/15. Recurso especial interposto em 24/05/17 e concluso ao gabinete em 24/11/17. Julgamento: CPC/15.
+2. O propósito recursal consiste em definir se a operadora está autorizada a rescindir unilateral e imotivadamente contrato de plano de saúde coletivo empresarial firmado em favor de pessoa jurídica com 13 beneficiários.
+3.  ..
+6. A Lei dos Planos de Saúde (Lei 9.656/98) prevê que se aplicam subsidiariamente as disposições do Código de Defesa do Consumidor aos contratos de plano de saúde coletivo e individual/familiar (art. 35-G).
+7. Apenas em relação aos contratos individuais/familiares é vedada a suspensão ou a rescisão unilateral do contrato, salvo por fraude ou não-pagamento da mensalidade por período superior a sessenta dias, nos termos do art. 13, II, LPS.
+8. Há expressa autorização concedida pela Agência Nacional de Saúde Suplementar (ANS) para a operadora do plano de saúde rescindir unilateral e imotivadamente o contrato coletivo (empresarial ou por adesão), desde que observado o seguinte: i) cláusula contratual expressa sobre a rescisão unilateral; ii) contrato em vigência por período de pelo menos doze meses; iii) prévia notificação da rescisão com antecedência mínima de 60 dias.
+9. Contudo, a rescisão do contrato por conduta unilateral da operadora em face de pessoa jurídica com até trinta beneficiários deve apresentar justificativa idônea para ser considerada válida, dada a vulnerabilidade desse grupo de usuários, em respeito aos princípios da boa-fé e da conservação dos contratos.
+10. Recurso especial parcialmente conhecido e, nessa parte, parcialmente provido.
+(REsp n. 1.708.317/RS, Relatora a Ministra Nancy Andrighi, Terceira Turma, julgado em 17/4/2018, DJe 20/4/2018)
+Na hipótese, contudo, constata-se dos autos que o autor não foi notificado - acerca da ausência de interesse comercial na continuidade do contrato - com antecedência mínima de 60 (sessenta) dias.
+Dessa forma, o acórdão recorrido não merece reparo.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
