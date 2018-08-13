@@ -1,0 +1,20 @@
+DECISÃO
+CONFLITO POSITIVO DE COMPETÊNCIA. JUÍZO DE DIREITO E JUÍZO FEDERAL. EXPEDIÇÃO DE ALVARÁ. LEVANTAMENTO DE VALOR RELATIVO À RESTITUIÇÃO DE IMPOSTO DE RENDA PESSOA FÍSICA (IRPJ). FALECIMENTO DO REQUERENTE. PROCEDIMENTO DE JURISDIÇÃO VOLUNTÁRIA. APLICAÇÃO ANALÓGICA DA SÚMULA N. 161/STJ. CONFLITO DE COMPETÊNCIA CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO DE DIREITO DA VARA ÚNICA DE ANITA GARIBALDI - SC.
+1. Trata-se de Conflito Positivo de Competência estabelecido entre o JUÍZO FEDERAL DA 17a. VARA DA SEÇÃO JUDICIÁRIA DO DISTRITO FEDERAL, suscitante, e o JUÍZO DE DIREITO DA VARA ÚNICA DE ANITA GARIBALDI - SC, suscitado, no qual se questiona a competência para autorizar a expedição de alvará para levantamento, pelos herdeiros, de valores depositados em juízo em decorrência do trânsito em julgado de sentença que determinou a devolução de valores indevidamente cobrados a título de Imposto de Renda sobre parcelas indenizatórias.
+2. Apresentado requerimento de habilitação e expedição de alvará pela inventariante do espólio, o Juízo Estadual declarou a sua competência para apreciação e julgamento do pleito.
+3. Por sua vez, o Juízo Federal suscitou o presente conflito, ao argumento de que, nas ações judiciais, compete ao próprio juiz da causa decidir sobre a habilitação dos sucessores da parte falecida e a expedição de alvará judicial destinado ao levantamento de valores depositados em juízo a ela pertencentes, em decorrência do reconhecimento judicial do direito (fls. 2).
+4. É o que havia de relevante para relatar.
+5. Conforme já consolidado nesta Corte Superior, compete à Justiça Estadual processar pedido de expedição de alvará judicial para levantamento de verbas não recebidas em vida pelo de cujos, por se tratar, em regra, de procedimento de jurisdição voluntária. Tal entendimento deve ser aplicado, inclusive, na hipótese dos autos referente às restituições relativas ao Imposto de Renda recolhido por pessoa física. A propósito, citam-se os seguintes julgados:
+CONFLITO NEGATIVO DE COMPETÊNCIA. ALVARÁ PARA EXUMAÇÃO, TRASLADO E INUMAÇÃO REQUERIDO PELO DNOCS. JURISDIÇÃO VOLUNTÁRIA. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+1. Trata-se na origem de pedido de alvará judicial pelo Departamento Nacional de Obras Contra as Secas - DNOCS, para que fosse autorizada a exumação, traslado e inumação de restos mortais localizados em cemitério situado em área de implantação do Projeto Tabuleiros Litorâneos de Parnaíba.
+2. Em casos de pedido de expedição de alvará judicial, procedimento de jurisdição voluntária, é competente a Justiça estadual. Precedentes do STJ.
+3. Conflito conhecido para declarar a competência do juízo suscitado. (CC 117.499/PI, Rel. Ministro HERMAN BENJAMIN, DJe 6.9.2011).
+
+CONFLITO NEGATIVO DE COMPETÊNCIA. PROCESSO CIVIL. ALVARÁ JUDICIAL. LEVANTAMENTO DE DIFERENÇAS SALARIAIS. PROCEDIMENTO DE JURISDIÇÃO VOLUNTÁRIA. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+1. O pedido de expedição de alvará judicial para levantamento de valores relacionados à diferenças salariais, por inexistir pretensão resistida por parte do ente público, não configura hipótese de competência da Justiça Federal, tratando-se de procedimento de jurisdição voluntária, o que atrai a competência da Justiça Estadual. Precedentes.
+2. Conflito conhecido para declarar competente o suscitante, o Juízo de Direito da 4ª Vara Cível de Juazeiro - BA. (CC 95.735/BA, Rel. Min. OG FERNANDES, DJe 8.9.2008).
+
+CONFLITO DE COMPETÊNCIA. ALVARÁ JUDICIAL. LEVANTAMENTO DE DIFERENÇAS SALARIAIS, PELA VIÚVA DE EX-SERVIDOR PÚBLICO. JURISDIÇÃO VOLUNTÁRIA. 1- Compete ao juízo comum estadual autorizar a expedição de alvará para levantamento, pela viúva de ex-servidor público, de importâncias não recebidas em vida pelo de cujos, sendo este procedimento de jurisdição voluntária. - Conflito conhecido para declarar a competência do Juízo de Direito de São Gonçalo/RJ.(CC 87.109/RJ, Rel. Min. JANE SILVA, DJ 1o.10.2007).
+6. Ante o exposto, conheço do presente Conflito para declarar a competência do JUÍZO DE DIREITO DA VARA ÚNICA DE ANITA GARIBALDI - SC, o suscitado.
+7. Publique-se.
+8. Intimações necessárias.
