@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que negou seguimento ao recurso especial por inexistência de violação de lei federal e incidência da Súmula n. 283/STF (e-STJ fls. 557/560).
+O acórdão recorrido está assim ementado (e-STJ fls. 446/447):
+AGRAVO DE INSTRUMENTO - AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM REINTEGRAÇÃO DE POSSE - DECISÃO INTERLOCUTÓRIA QUE DETERMINOU O APENSAMENTO DESTES AUTOS COM A AÇÃO COLETIVA QUE POSSUI COMO OBJETO A REVISÃO DO CONTRATO DE COMPROMISSO DE COMPRA E VENDA CELEBRADO ENTRE AS PARTES - ALEGADA INEXISTÊNCIA DE DIREITOS COLETIVOS OU DIFUSOS E DE IMPOSSIBILIDADE DA SUSPENSÃO SOB PENA DE SUA PERPETUAÇÃO - IMPERTINÊNCIA - FLAGRANTE PREJUDICIALIDADE EXTERNA ENTRE ESTA DEMANDA E A AÇÃO COLETIVA - NECESSIDADE DA SUSPENSÃO DESTA RESCISÃO CONTRATUAL COM O FITO DE EVITAR DECISÕES CONFLITANTES - PRECEDENTES DO STJ E DESTA CORTE DE JUSTIÇA - ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO GUERREADA - LIMITAÇÃO DO PRAZO DA SUSPENSÃO EM 01 (UM) ANO COM BASE NO ARTIGO 265, §5", DO CPC/1973 - IMPOSSIBILIDADE IN CASU - ENTENDIMENTO DO STJ EM SEDE DE RECURSO REPETITIVO QUE DETERMINOU O SOBRESTAMENTO DA AÇÃO PREJUDICIAL ATÉ O JULGAMENTO EM DEFINITIVO DA DEMANDA COLETIVA - PRECEDENTE DESTE TRIBUNAL DE JUSTIÇA - DECISÃO INALTERADA - RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 469/476).
+No especial (e-STJ fls. 478/500), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alegou, além de divergência jurisprudencial, ofensa ao art. 1.022 do CPC/2015 por negativa de prestação jurisdicional.
+Apontou afronta aos arts. 265, § 5º, do CPC/1973 e 313, § 4º, do CPC/2015, sustentando que, quando a sentença de mérito depender do julgamento de outra causa, o prazo de suspensão nunca poderá exceder 1 (um) ano.
+Acrescentou ainda a inexistência de conexão, de modo que não poderia ser afastado o conteúdo dos arts. 265, § 5º, do CPC/1973 e 313, § 4º, do CPC/2015.
+No agravo (e-STJ fls. 563/571), afirma a presença de todos os requisitos de admissibilidade do especial.
+Os recorridos não apresentaram contraminuta (e-STJ fl. 573).
+É o relatório.
+Decido.
+Não há falar em contrariedade ao art. 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos. Ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação do referido dispositivo e o conhecimento do recurso especial nessa parte.
+No mais, extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 452/455):
+De acordo com o artigo 103, do Código de Processo Civil/19731, a conexão é admitida quando for comum o objeto ou a causa de pedir, o que, repita-se, é o caso dos autos, havendo prejudicialidade externa entre as causas.
+(..)
+Portanto, diante da posição tanto da Corte Superior como deste Tribunal de Justiça de que há prejudicialidade externa entre ação coletiva e rescisão contratual que englobem o mesmo objeto, não há que se falar na modificação da decisão interlocutória que determinou o apensamento das demandas e a suspensão da presente Ação de Rescisão Contratual.
+(..)
+4. Por fim, também não merece guarida a insurgência da agravante no que tange à limitação do prazo de suspensão desta ação em 01 (um) ano, com base no artigo 265, §5º, do CPC/1973.
+Tal fato se deve, preponderantemente, tendo em vista que o Superior Tribunal de Justiça não admitiu a respectiva delimitação, tendo determinado, em sede de recursos repetitivos, a suspensão da ação prejudicial até o julgamento dos litígios coletivos:
+A insurgência da recorrente não pode ser sustentada apenas com base nos arts. 265, § 5º, do CPC/1973 e 313, § 4º, do CPC/2015, os quais não regulam a matéria da forma como tratada nos autos.
+A recorrente não apontou qual dispositivo de lei federal teria sido supostamente violado a fim de afastar a conexão. Incidente, portanto, a Súmula n. 284/STF por deficiência na fundamentação recursal. Nesse sentido, confira-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PARTICULARIZAÇÃO DO DISPOSITIVO A QUE O ACÓRDÃO TERIA DADO INTERPRETAÇÃO DIVERGENTE. INCIDÊNCIA DA SÚMULA Nº 284/STF. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consoante a jurisprudência atual deste STJ, o recurso especial interposto pela alínea "c" do inciso III do art. 105 da Constituição Federal necessita da indicação do dispositivo federal que teria recebido interpretação divergente. Não sendo cumprido este requisito, o recurso especial não poderá ser conhecido, por não ser possível a exata compreensão da controvérsia. Incidência da Súmula 284 do STF. Precedentes.
+2. A menção a dispositivo legal em transcrição de trecho do acórdão paradigma não satisfaz o requisito da suficiência de fundamentação. Cabe ao recorrente mencionar com clareza o dispositivo legal que tenha sido violado ou cuja vigência tenha sido negada.
+3. Não há clareza na fundamentação quando a indicação do dispositivo legal violado depende de remissões a transcrições de acórdãos ou citações doutrinárias, pois não se pode exigir que o julgador suponha que o artigo legal indicado como violado seja o mesmo que consta em referidas transcrições.
+4. A divergência jurisprudencial, nos termos do art. 541, parágrafo único, do Código de Processo Civil e do art. 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, requisita comprovação e demonstração com a transcrição dos trechos dos acórdãos que configurem o dissídio, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações, ônus do qual não se desincumbiu a recorrente.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 241.305/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 7/2/2013, DJe 14/2/2013.)
+Com relação ao dissídio jurisprudencial, importa ressaltar que o conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados, ônus dos quais a recorrente não se desincumbiu.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
