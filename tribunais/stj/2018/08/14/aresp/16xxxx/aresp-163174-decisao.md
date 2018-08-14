@@ -1,0 +1,21 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. MAGISTRATURA. AJUDA DE CUSTA EM CASO DE REMOÇÃO A PEDIDO. POSSIBILIDADE. JURISPRUDÊNCIA PACÍFICA. AGRAVO NÃO PROVIDO.
+DECISÃO
+A União pretende admissão de recurso especial que interpôs contra acórdão proferido pelo TRF da 4ª Região, que reconheceu o direito de magistrado da Justiça do Trabalho à ajuda de custo, em razão de ter sido removido a pedido.
+O recurso especial foi inadmitido com arrimo na Súmula n. 83 do STJ (fls. 96-98).
+No recurso especial, a ora agravante alegou violação do art. 535 do CPC, do art. 53 da Lei n. 8.112/1990, do art. 65, I, da LC n. 35/1979 e do art. 1º do Decreto n. 4004/2001. Nesse sentido, argumentou "nenhuma interpretação que se pretenda conferir ao art. 65, I, da LC n. 35/1979 pode deixar de levar em conta a irrazoabilidade que há em se concluir que o erário deva arcar com as despesas de transporte e mudança do magistrado, quando esse fato decorra do interesse particular do próprio, quando tal tratamento não é dispensado aos demais servidores regulados pela Lei n. 8.112/1990" (fl. 53).
+Inicialmente, foi negado provimento ao agravo (fl. 150). A União, inconformada, apresentou agravo regimental (fls. 155-166). Diante disso, este relator tornou sem efeito a decisão agravada e determinou a remessa dos autos ao STF (fl. 168). O STF, por seu turno, devolveu estes autos ao STJ, assentando a sua incompetência absoluta para processar e julgar o feito (fls. 355-365).
+É o relatório necessário. Decido.
+Conforme o entendimento jurisprudencial sedimentado no âmbito do STJ, "o magistrado faz jus à ajuda de custo, a que se refere o art. 65, I, da LOMAN (LC nº 35/79), seja na remoção de ofício ou a pedido, pois em ambos os casos fica caracterizado o interesse público" (AgRg no REsp 1143301/SC, Rel. Ministro Marco Aurélio Bellizze, Quinta Turma, DJe 04/12/2012).
+Nesse mesmo sentido, confiram-se os seguintes julgados:
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MAGISTRADO. REMOÇÃO A PEDIDO. AJUDA DE CUSTO. VERBA DEVIDA. INTERESSE PÚBLICO. PRECEDENTES.
+1. A jurisprudência do STJ firmou-se no sentido de que o magistrado faz jus à ajuda de custo, seja na remoção ex officio, seja na levada a efeito a pedido do interessado, uma vez que em ambas está presente o interesse público. Precedentes: REsp 1.070.065/SC, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 17/8/2016; AgRg no REsp 1.436.969/CE, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 17/6/2015; AgRg no REsp 1.507.507/SC, Rel. Min. Herman Benjamin, Segunda Turma, DJe 12/8/2015.
+2. Agravo regimental não provido (AgRg no AREsp 664.170/PA, Relator Ministro Benedito Gonçalves, Primeira Turma, DJe 5/5/2017)
+ADMINISTRATIVO. JUIZ DO TRABALHO SUBSTITUTO. REMOÇÃO A PEDIDO. AJUDA DE CUSTO. INTERESSE PÚBLICO. EXISTÊNCIA. ART. 65 DA LOMAN. PRECEDENTES DO STJ.
+1. A orientação do STJ se consolidou no sentido de que o magistrado faz jus à ajuda de custo prevista no art. 65, I, da Loman, seja na remoção ex officio, seja na levada a efeito a pedido do interessado, uma vez que em ambas está presente o interesse público.
+2. Agravo Regimental não provido (AgRg no REsp 1507507/SC, Relator Ministro Herman Benjamin, Segunda Turma, DJe 12/8/2015).
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. MAGISTRADO. REMOÇÃO A PEDIDO. AJUDA DE CUSTO. ART. 65 DA LOMAN. DIREITO À AJUDA DE CUSTO ANTE A EXISTÊNCIA DE INTERESSE PÚBLICO. SÚMULA 83/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A recente jurisprudência desta Corte está firmada em que, na remoção do Magistrado, seja ela ex officio ou a pedido, encontra-se presente o interesse público, de modo que o Juiz faz jus à ajuda de custo prevista no art. 65, I, da LOMAN. Precedentes: AgRg no Ag 1.368.615/SC, Rel. Min. BENEDITO GONÇALVES, DJe 9.6.2011, AgRg no Ag 1.354.482/SC, Rel. Min. CASTRO MEIRA, DJe 18.2.2011, AgRg no REsp. 943.682/PA, Rel. Min. HAROLDO RODRIGUES (DESEMBARGADOR CONVOCADO DO TJ/CE), DJe 9.5.2011 e AgRg no REsp. 945.420/SC, Rel. Min. LAURITA VAZ, DJe 27.9.2010.
+2. Agravo Regimental desprovido (AgRg no Ag 1340614/SC, Relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 21/5/2012).
+Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
