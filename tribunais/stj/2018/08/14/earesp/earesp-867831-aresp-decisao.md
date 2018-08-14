@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo (art. 544 do CPC/73), interposto por [NOME], em face de decisão que negou seguimento ao recurso especial, de sua vez manejado com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Ceará.
+Na origem, a ora agravante ajuizou ação de usucapião, objetivando que fosse declarado o domínio da autora sobre imóvel situado na Rua Padre Frota, nº 400, Bairro Farias Brito, Rio de Janeiro, o qual alega ocupar ininterruptamente por mais de 20 (vinte) anos, exercendo a posse de forma tranquila, sem qualquer oposição exterior.
+O magistrado singular julgou improcedente o pedido deduzido na inicial, ao entender que, in casu, a autora ocupava o referido imóvel em razão de um contrato de locação, não tendo sido demonstrados elementos mínimos para o reconhecimento de usucapião.
+Inconformada, a requerente interpôs apelação cível, à qual a 6ª Câmara Cível do Tribunal de Justiça do Ceará negou provimento, encontrando o respectivo acórdão ementado (fls. 334/352, e-STJ):
+APELAÇÃO CÍVEL E RECURSO ADESIVO EM AÇÃO DE USUCAPIÃO EXTRAORDINÁRIO. AUSÊNCIA DE COMPROVAÇÃO DE POSSE MANSA E PACÍFICA E ANIMUS DOMINI. IMPROCEDÊNCIA. LITIGÂNCIA DE MÁ-FÉ. NÃO DEMONSTRADA. SENTENÇA MANTIDA. APELO DO AUTOR E RECURSO ADESIVO CONHECIDOS E NÃO PROVIDOS. I. Para a declaração da usucapião extraordinária é necessária a demonstração inequívoca da posse mansa, pacífica e ininterrupta durante o período temporal legalmente exigido, pelo que não logrando a parte autora comprovar suas alegações, inviável o acolhimento da pretensão. Ausente a prática de qualquer conduta que caracterize litigância de má-fé, não há que se falar em sanção a esse título.
+Opostos embargos de declaração, estes foram rejeitados (fls. 470/478, e-STJ).
+Nas razões do recurso especial (fls. 356/380, e-STJ), a recorrente aponta, além de dissídio jurisprudencial, violação aos artigos 1238 e 1243 do Código Civil; sustentando, em síntese, a inexistência de contrato de locação verbal e o preenchimento dos requisitos para o reconhecimento de usucapião sobre o referido imóvel.
+Contrarrazões às fls. 394/414, e-STJ.
+Em decisão de admissibilidade, o Tribunal de origem negou seguimento ao recurso especial, sob o fundamento de incidência da Súmula nº 7 deste Tribunal (fls. 417/419, e-STJ)
+Nas razões do agravo (fls. 421/427, e-STJ), a insurgente tece argumentos combatendo a decisão agravada a fim de ser dado trânsito ao apelo extremo.
+Contraminuta às fls. 431/452, e-STJ.
+Após a distribuição a este relator, foi ajuizada Ação de Tutela Provisória Cautelar de Urgência com Pedido de Liminar, recebida como petição, requerendo a suspensão deste feito, em virtude do ajuizamento da Ação Declaratória de Inexistência de Negócio Jurídico nº 0205482-75.2015.8.06.0001, cujo resultado, segundo alega a ora agravante, poderá interferir no julgamento do presente agravo. Petição essa acostada a estes autos às fls. 494/565, e-STJ.
+Às fls. 567/568 (e-STJ), tendo em vista a eventual existência de prejudicialidade externa e o disposto no art. 313, inciso V, alínea "a", do CPC/15, por cautela, foi deferida a suspensão requerida por um ano.
+Por meio do presente petitório (fls. 583/593, e-STJ), a requerente requer seja deferido pedido de renovação da suspensão porquanto, na referida ação declaratória, encontra-se pendente o julgamentos dos embargos de declaração opostos em face do acórdão que negou provimento ao recurso de apelação interposto pela ora peticionante.
+É o relatório.
+Com efeito, o novo Código de Processo Civil, no § 4º do art. 313, é expresso ao afirmar que "O prazo de suspensão do processo nunca poderá exceder 1 (um) ano nas hipóteses do inciso V". O § 5º do art. 313, ademais, determina que "O juiz determinará o prosseguimento do processo assim que esgotados os prazos previstos no § 4º".
+Do exposto, em obediência ao expressamente disposto na legislação de regência, indefiro o pedido de renovação da suspensão.
+Publique-se.
+Intime-se.
