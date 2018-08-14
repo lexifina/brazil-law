@@ -1,0 +1,33 @@
+Decisão: Trata-se de recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado (fls. 208-209):
+    APELAÇÃO CRIMINAL. CRIME DE RESISTÊNCIA E DESACATO (ARTS. 329 E 331, AMBOS DO CÓDIGO PENAL) E DIREÇÃO PERIGOSA (ART. 34 DA LEI DE CONTRAVENÇÕES PENAIS). ALEGADA DERROGAÇÃO DO ART. 34 DA LCP PELO CÓDIGO DE TRÂNSITO BRASILEIRO. NÃO-OCORRÊNCIA. ACUSADO QUE CONDUZIA VEÍCULO EM ALTA VELOCIDADE, NA CONTRAMÃO E SEM RESPEITAR OS SINAIS DE TRÂNSITO. NECESSÁRIO REFORÇO POLICIAL PARA EMPREENDER PERSEGUIÇÃO. DIREÇÃO PERIGOSA DEMONSTRADA. EVIDENCIADO O CRIME DE DESACATO QUANDO DA ABORDAGEM POLICIAL. PALAVRAS DE BAIXO CALÃO PROFERIDAS CONTRA POLICIAIS MILITARES. INEXISTÊNCIA DO CRIME DE RESISTÊNCIA. AUSÊNCIA DE VIOLÊNCIA OU GRAVE AMEAÇA. ABSOLVIÇÃO QUE SE IMPÕE, EXTIRPANDO-SE DO TOTAL DA PENA A CONDENAÇÃO POR ESTE CRIME. RECURSO PARCIALMENTE PROVIDO.
+    1. O Código de Trânsito Brasileiro não derrogou o art. 34 da Lei de Contravenções Penais, apenas enumerou outras formas de condução perigosa, sendo as demais condutas não abrangidas pelo CTB regidas pela Lei de Contravenções Penais.
+    2. Configura-se o delito de desacato a proferição de palavras de baixo calão contra os policiais militares no exercício de suas funções.
+    3. Não há que se falar em crime de resistência, quando não há o emprego de violência ou grave ameaça.
+    Não foram opostos embargos de declaração.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 5º, XXXIX e LVII, da Constituição Federal e às Súmulas 453 e 720 do STF.
+    Sustenta-se que o acórdão recorrido, ao dar parcial provimento ao recurso e readequar a pena, deixou de ordenar o retorno dos autos à origem para oferecimento da suspensão condicional do processo quanto aos crimes remanescentes, razão pela qual requer a conversão de feito em diligência.
+    Argumenta-se ter havido punição por crime tipificado em dispositivo já derrogado (art. 34 da Lei de Contravenção Penal) pela nova lei de trânsito (Lei 9.503/1997), conforme o disposto na Súmula 720 do STF e na jurisprudência da Corte.
+    Alega-se violação ao princípio da presunção da inocência na valoração do conjunto probatório, que elegeu a prova testemunhal devidamente contrariada pela prova documental.
+    É o relatório. Decido.
+    O recorrente alega que o acórdão recorrido está em desacordo com o entendimento fixado pelo STF no julgamento do RHC 80.362, no sentido de que o Código de Trânsito Brasileiro revogou todas as tipificações penais concernentes ao tráfego de veículos automotores em vias terrestres.
+    Com efeito, no julgamento do recurso ordinário em habeas corpus 80.362, de relatoria do Min. Ilmar Galvão (julgado em 14.02.2001), o Tribunal Pleno fixou o entendimento no sentido de que o novo Código de Trânsito Brasileiro, ao disciplinar as infrações penais e administrativas, derrogou os dispositivos penais aplicáveis ao tráfego de veículos automotores em vias terrestres:
+    “HABEAS CORPUS. ARTIGO 32, PRIMEIRA PARTE, DA LEI DE CONTRAVENÇÕES PENAIS. DISPOSITIVO QUE RESULTOU REVOGADO PELO NOVO CÓDIGO DE TRÂNSITO BRASILEIRO - CTB. Se é certo que não houve revogação expressa do dispositivo em apreço e, também, que, em tese, não seria ele incompatível com o disposto no art. 309 do CTB, a sua derrogação, na parte indicada, decorreu de haver o CTB, como é próprio das codificações, tratado de todas as infrações penais comissíveis na condução de veículos automotores, o que, de resto, ficou expressamente declarado no art. 161. Habeas corpus deferido.” (RHC 80.362, Rel. Min. ILMAR GALVÃO, Tribunal Pleno, DJ 04.10.2002).
+    Sobre o referido julgado, dispôs o Ministro Marco Aurélio que “muito embora o aludido precedente tenha se referido expressamente ao artigo 32 da Lei de Contravenções Penais, resta claro o entendimento de que o Código revogou todas as outras contravenções ou crimes relacionados ao trânsito brasileiro.” (ARE 1.070.816, DJe 14.09.2017, grifei).
+    No mesmo sentido: ARE 1.001.923, Rel. Min. ALEXANDRE DE MORAES, DJe 02.10.2017; ARE 1.062.348, Rel. Min. ROSA WEBER, DJe 25.08.2017; ARE 1.045.747, Rel. Min. Celso de Mello, DJe 12.06.2017; ARE 635.241, Rel. Min. GILMAR MENDES, DJe 01.08.2012.
+    Ressalto que o Código de Trânsito, em vigor desde 23.09.1997, buscou regulamentar de forma ampla e sistemática as normas referentes ao tráfego de veículos automotores nas vias terrestres brasileiras, o que implica, no entrechoque normativo, em revogação de quaisquer dispositivos que tipifiquem criminalmente as condutas de trânsito.
+    Portanto, a partir do entendimento firmado pelo Plenário da Corte, depreende-se que o Código de Trânsito Brasileiro revogou também o art. 34 da Lei de Contravenções penais, cujo teor é o seguinte:
+    “Art. 34. Dirigir veículos na via pública, ou embarcações em águas públicas, pondo em perigo a segurança alheia:
+    Pena – prisão simples, de quinze dias a três meses, ou multa, de trezentos mil réis a dois contos de réis.”
+    Nada obstante a revogação da mencionada contravenção, é possível extrair do acórdão de origem, nos termos do art. 383, caput, do CPP, que a conduta atribuída ao recorrente subsume-se ao tipo penal previsto no art. 311 do CTB, que dispõe:
+    “Art. 311. Trafegar em velocidade incompatível com a segurança nas proximidades de escolas, hospitais, estações de embarque e desembarque de passageiros, logradouros estreitos, ou onde haja grande movimentação ou concentração de pessoas, gerando perigo de dano:
+    Penas - detenção, de seis meses a um ano, ou multa.”
+    Segundo o acórdão, “o condutor não acatou a ordem de parada efetuada pelos milicianos, empreendendo fuga em alta velocidade e na contramão, desobedecendo a semáforos, o que obrigou a equipe a solicitar reforço e apoio de outras viaturas policiais.” (Vol. 02, fls. 219).
+    Nessa linha, depreende-se que a conduta delituosa descrita no acórdão recorrido está inserida no tipo contido no art. 311 do Código de Trânsito.
+    Observo, no entanto, que o art. 34 do Decreto-Lei 3.688/1941 comina sanção mais branda do que a prevista no art. 311 do CTB, de modo que o provimento do recurso extraordinário poderia levar ao agravamento da pena, o que é vedado pelo art. 617 do CPP.
+    Dessa forma, reconheço a prática do delito previsto no art. 311 do CTB, mantendo, contudo, a pena aplicada pelo acórdão recorrido quanto ao delito em questão.
+    Ante o exposto, nego seguimento ao recurso extraordinário, com base no art. 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 14 de agosto de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
