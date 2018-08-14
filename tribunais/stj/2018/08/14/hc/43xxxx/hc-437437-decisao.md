@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de RAFAEL PAULINO DA SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (HC n. 0048752-08.2017.8.19.0000).
+Consta dos autos que o paciente foi preso em flagrante pela suposta prática do delito de furto qualificado, sendo sua prisão convertida em cautelar diversa. Contudo, em razão do descumprimento da medida imposta, além da prática de outro delito (roubo), a prisão preventiva do paciente foi decretada, em 15/8/2016.
+Ainda, em razão do excesso de prazo para a formação de culpa, em relação ao delito de furto qualificado, a defesa impetrou o habeas corpus 2024806-75.2017.8.26/SP, no qual se reconheceu a referida ilegalidade processual e se determinou a expedição de alvará de soltura. Contudo, diante da reiteração delitiva do paciente, tal decisão não foi cumprida, tendo em vista estar o paciente preso por outro motivo.
+A decisão que indeferiu o pedido de revogação da prisão preventiva restou consignada nos seguintes termos (e-STJ fl. 3):
+1) Fls. 221/222: INDEFIRO. O acusado, beneficiado com a concessão da liberdade provisória neste processo, voltou a cometer novo furto, motivo pelo qual foi novamente preso em flagrante (fls. 201). Por este fato, obviamente não pode cumprir a medida cautelar de comparecimento a este Juízo. Por este fato, não se mostra digno da confiança deste Juízo. Este é o"fato novo" que a DPE diz inexistir"
+Inconformada, a defesa impetrou novo habeas corpus perante a Corte de origem. A ordem, contudo, foi denegada, recebendo o acórdão a seguinte ementa (e-STJ fl. 322):
+Habeas Corpus. Tentativa de furto. Alegação de ausência dos requisitos da prisão cautelar. Pleito objetivando a concessão de liberdade provisória, com expedição de alvará de soltura. Não cabimento. Presença dos requisitos do art. 312, do CPP. Paciente ostenta, na folha de antecedentes criminais, anotação pelos crimes de tentativa de roubo majorado e tentativa de furto qualificado.
+Mantidas as razões da custódia cautelar. Denegação da ordem.
+No presente writ, a defesa alega, em síntese, haver contradição nas decisões proferidas pelo Tribunal Revisor, tendo em vista que o tribunal teria concedido ordem de habeas corpus ao paciente, em razão do excesso de prazo para a formação de culpa, em momento posterior à prisão pela prática de novo delito e do descumprimento de medida cautelar diversa da prisão, sendo que tal fato constava das informações prestadas pelo Juízo de Primeiro Grau (e-STJ fl. 4).
+ Nesse sentido, argumenta que, por já estar preso por outro feito, não poderia o paciente comparecer em cartório para assinar o termo de comparecimento. Outrossim, aponta não ter havido fato novo para gerar a decretação da prisão preventiva (e-STJ fl. 4).
+Por fim, afirma ter o Tribunal de Justiça de São Paulo descumprido sua própria decisão quando analisou o segundo habeas corpus impetrado.
+Diante disso, pugna, liminarmente e no mérito, pela concessão da ordem e pela expedição do respectivo alvará de soltura.
+O pedido liminar foi indeferido às e-STJ fls. 331/334;
+O Ministério Público Federal manifestou-se pela prejudicialidade do habeas corpus em razão da perda superveniente do objeto, diante da prolação de sentença condenatória, recebendo o parecer a seguinte ementa (e-STJ fl. 352)
+HABEAS CORPUS. FURTO. PRISÃO PREVENTIVA PARA A GARANTIA DA ORDEM PÚBLICA. SENTENÇA CONDENATÓRIA POSTERIOR À IMPETRAÇÃO. NOVO TÍTULO. PERDA SUPERVENIENTE DO OBJETO. HABEAS CORPUS PREJUDICADO.
+É o relatório. Decido.
+Extrai-se das informações prestadas pelo juízo de primeiro grau a existência de sentença condenatória pela qual o paciente foi apenado em 4 anos e 8 meses de reclusão, no regime inicial fechado, sendo vedado o direito de recorrer em liberdade (e-STJ fl. 349). Desse modo, a decisão, cujo pedido da defesa se baseava, na qual se reconheceu o excesso de prazo para a formação da culpa no habeas corpus 2024806-75.2017.8.26/SP, encontra-se superada em razão de título posterior, a sentença condenatória.
+Ante o exposto, julgo prejudicado o presente habeas corpus, por superveniente perda do objeto.
+Publique-se. Intime-se.
