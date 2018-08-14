@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que negou seguimento ao recurso especial, por inexistência de violação do art. 535 do CPC/1973 e incidência da Súmula n. 7/STJ (e-STJ fls. 3.641/3.642).
+O acórdão recorrido está assim ementado (e-STJ fls. 3.592/3.593):
+ADMINISTRATIVO. CAIXA DE ASSISTÊNCIA DOS ADVOGADOS DO ESTADO DO RIO DE JANEIRO - CAARJ. CONTRATO DE PRESTAÇÃO DE SERVIÇO. INADIMPLÊNCIA.
+I - Da detida análise dos autos, tem-se que as Partes celebraram contrato para prestação de serviços médicos e hospitalares, sendo certo, ainda, que a Parte Autora demonstra a prestação dos mesmos através da juntada de guias de consulta, guias de serviço e demonstrativos de faturamento.
+II - A CAARJ, em sua contestação, em qualquer momento afirma a falta de autenticidade de tais documentos, limitando-se a salientar que, em razão da intervenção decretada pela OAB-RJ, todas as contas de prestação de serviços médicos hospitalares, vinculadas ao Plano de Saúde CAARJ-PALSC, não liquidadas estão sendo objeto de auditoria, face a possibilidade de inconsistências no procedimentos médicos realizados e quanto ao valor cobrado pelo fornecedor e/ou prestador de serviço. Acrescentou que enquanto não concluída a auditagem nas referidas contas médicas, não reconhece como líquido e certo e exigível o crédito da autora, no valor ora cobrado.
+III - Deve-se destacar, todavia, que é indiferente, em termos jurídicos, o argumento de que o motivo do inadimplemento está no fato de estar a Ré em difícil situação econômica, e ter sofrido intervenção, que determinou auditoria nas contas da entidade. O custo do plano de recuperação da situação econômica da Ré não pode ser compulsoriamente imposto a terceiros, sem que estes concordem, a não ser nos casos expressos em lei. Não há, na hipótese, qualquer causa de extinção da obrigação, ou mesmo suspensão de sua exigibilidade.
+IV - Precedentes deste E. TRF.
+V - Quanto ao termo iniciai da incidência de juros de mora, nao na que se fazer qualquer censura à Sentença a quo, que bem seguiu o disposto nos arts. 219 do CPC e 405 do CC/02, corroborado pela jurisprudência do STJ.
+VI - No que pertine, por fim, aos honorários advocaticios, é cediço que a fixação dos mesmos deve apresentar percentual compatível com o esforço despendido pelo advogado da parte vencedora, não se mostrando, ademais, excessivo ou irrisório. In casu, legítima a fixação da verba honorária, em favor da Parte Autora, em dois por cento sobre o valor da condenação, de R$ 1.663.489,00 (um milhão, seiscentos e sessenta e três mil, quatrocentos e oitenta e nove reais). Elevar tal verba acabaria por configurar flagrante excesso, o que, à toda evidência, não se pode admitir.
+VII - Remessa Necessária e Apelações de ambas as Partes improvidas.
+Os embargos de declaração opostos foram rejeitados (e-STJ fl. 3.610/3.616).
+No especial (e-STJ fls. 3.618/3.629), fundamentado no art. 105, III, "a", da CF, a recorrente alegou ofensa do arts. 130, 131, 333, inciso I, 458, inciso II e 535, inciso II, do CPC/1973.
+No agravo (e-STJ fls. 3.644/3.655), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 3.644/3.655).
+É o relatório.
+Decido.
+O presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça.
+O inconformismo não merece prosperar
+Não há falar em contrariedade aos arts. 458, inciso II e 535, inciso II, do CPC/1973, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos. Ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação do referido dispositivo.
+No que se refere aos arts. 130, 131, 333, inciso I, do CPC/1973, o Tribunal de origem consignou que (e-STJ fl. 3.585/3.587):
+Da detida análise dos autos, tem-se que as Partes celebraram contrato para prestação de serviços médicos e hospitalares, sendo certo, ainda, que a Parte Autora demonstra a prestação dos mesmos através da juntada de guias de consulta, guias de serviço e demonstrativos de faturamento.
+A CAARJ, em sua contestação, em qualquer momento afirma a falta de autenticidade de tais documentos, limitando-se a salientar que, em razão da intervenção decretada pela OAB-RJ, todas as contas de prestação de serviços médicos hospitalares, vinculadas ao Plano de Saúde CAARJ-PALSC, não liquidadas estão sendo objeto de auditoria, face a possibilidade de inconsistências no procedimentos médicos realizados e quanto ao valor cobrado pelo fornecedor e/ou prestador de serviço. Acrescentou que enquanto não concluída a auditagem nas referidas contas médicas, não reconhece como líquido e certo e exigível o crédito da autora, no valor ora cobrado.
+Deve-se destacar, todavia, que é indiferente, em termos jurídicos,o argumento de que o motivo do inadimplemento está no fato de estar a Ré em difícil situação econômica, e ter sofrido intervenção, que determinou auditoria nas contas da entidade. O custo do plano de recuperação da situação econômica da Ré não pode ser compulsoriamente imposto a terceiros, sem que estes concordem, a não ser nos casos expressos em lei. Não há, na hipótese, qualquer causa de extinção da obrigação, ou mesmo suspensão de sua exigibilidade.
+ ..
+Em sendo assim, a CAARJ não logrou êxito em se desincumbir de demonstrar fatos impeditivos, extintivos ou modificativos do direito do Autor em receber o crédito em discussão.
+Deliberou-se que a CAARJ não logrou êxito em demonstrar fatos impeditivos, extintivos ou modificativos do direito da empresa, ora agravada, de receber crédito referente a contrato de prestação de serviços de assistência médico-ambulatorial em julho de 1991, correspondente a R$ 1.663.489,00 (um milhão, seiscentos e sessenta e três mil, quatrocentos e oitenta e nove reais) (e-STJ fl. 3.509, 3.519 e 3.590).
+Dessa forma, concluir em sentido contrário implicaria revolvimento do conjunto fático-probatório dos autos, vedado em sede de recurso especial, ante o disposto na Súmula n. 7/STJ. Sobre o tema:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. FALTA DE COMPROVAÇÃO DA EXISTÊNCIA DE DÍVIDA. INCIDÊNCIA DO ENUNCIADO DA SÚMULA 7/STJ. RECURSO MANIFESTAMENTE INADIMISSÍVEL. APLICAÇÃO DE MULTA. RECURSO NÃO PROVIDO.
+1. A análise da alegação de que a ação monitória teria sido instruída com provas suficientes da existência de dívida encontra óbice no enunciado da Súmula 7/STJ.
+2. O recurso revela-se manifestamente infundado e procrastinatório, devendo ser aplicada a multa prevista no art. 557, § 2º, do CPC.
+3. Agravo regimental não provido, com aplicação de multa.
+(AgRg no AREsp 269.626/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/03/2013, DJe 01/04/2013)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
