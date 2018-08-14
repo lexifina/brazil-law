@@ -1,0 +1,24 @@
+DECISÃO: Reconsidero a decisão por mim proferida nestes autos, ficando prejudicado, em consequência, o exame do recurso de agravo interno contra ela interposto.
+    Passo, desse modo, a apreciar o apelo extremo deduzido pela Procuradoria-Geral do Distrito Federal.
+    O presente recurso extraordinário foi interposto contra decisão que, proferida em sede de fiscalização abstrata de constitucionalidade (CF, art. 125, § 2º), pelo Órgão Especial do E. Tribunal de Justiça do Distrito Federal e dos Territórios, acha-se consubstanciada em acórdão assim ementado:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. PRELIMINAR. PERDA DO OBJETO. PETIÇÃO INICIAL. INÉPCIA. DECRETOS. INADIMISSIBILIDADE. REJEIÇÃO. LEI 1.485, DE 30.06.1997, LEI 1.587, DE 25.07.1997, LEI 1.656, DE 16.09.1997, LEI 1.766, DE 14.11.1997, LEI 1.920, DE 27.03.1998, LEI 2.016, DE 28.07.1998, LEI 2.446, DE 24.09.1999; LEI COMPLEMENTAR 112, DE 22.06.1998, LEI COMPLEMENTAR 243, DE 24.09.1999, LEI COMPLEMENTAR 248, DE 11.10.1999, LEI COMPLEMENTAR 634, DE 09.08.2002. DECRETO N. 18.491, DE 29.07.1997; DECRETO 19.886, DE 11.12.1998, DECRETO 23.974, DE 13.08.2003, DECRETO 25.577, DE 18.02.2005, DECRETO 26.156, DE 30.08.2005, DECRETO 27.082, DE 17.08.2006 E DECRETO 33.798, DE 24.07.2012. INCONSTITUCIONALIDADE FORMAL. INICIATIVA PRIVATIVA DO PODER EXECUTIVO. DECRETOS. MATÉRIA RESERVADA À LEI FORMAL. EFEITOS. RAZÕES DE SEGURANÇA JURÍDICA OU DE EXCEPCIONAL INTERESSE SOCIAL. NÃO DEMONSTRADOS. EFICÁCIA. ‘EX TUNC’.
+    …..............................................................................................................
+    IV – São inconstitucionais, por vício de iniciativa, as leis ordinárias e complementares de autoria de Deputado Distrital que disciplinam o uso, ocupação e destinação de área pública, porquanto matéria de competência privativa do Governador do Distrito Federal, nos termos do art. 3º, inc. XI, 52, 58, IX, 100, VI, e 321, todos da Lei Orgânica do Distrito Federal.”
+    A parte recorrente, ao deduzir o presente apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local (Lei Orgânica do Distrito Federal), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    Impõe-se registrar, por relevante, que esse entendimento vem sendo observado em julgamentos proferidos no âmbito desta Suprema Corte (AI 694.299-AgR/RJ, Rel. Min. DIAS TOFFOLI – RE 964.642/DF, Rel. Min. MARCO AURÉLIO – RE 1.064.603/SP, Rel. Min. EDSON FACHIN, v.g.):
+    “Agravo regimental no recurso extraordinário. Representação de inconstitucionalidade da Lei Complementar nº 390/04 do Município de Jundiaí em face da Constituição Bandeirante. Ausência de norma de reprodução obrigatória. Necessidade de análise da legislação local. Incidência da Súmula nº 280/STF. Insuscetibilidade de modificação do acórdão recorrido nesse ponto. Fundamento suficiente à manutenção da conclusão adotada pela Corte de origem. Incidência da Súmula nº 283/STF. Precedentes.
+    1. Para que seja admissível recurso extraordinário de ação direta de inconstitucionalidade processada no âmbito do Tribunal local é imprescindível que o parâmetro de controle normativo local corresponda à norma de repetição obrigatória da Constituição Federal.
+    2. Inadmissível, em recurso extraordinário, a análise da legislação local. Incidência da Súmula nº 280 do Supremo Tribunal Federal.
+    3. Existência de fundamento suficiente à manutenção do acórdão recorrido, insuscetível de análise no presente recurso extraordinário. Orientação da Súmula nº 283/STF
+    4. Agravo regimental ao qual se nega provimento. ”
+    (RE 846.088-AgR/SP, Rel. Min. DIAS TOFFOLI – grifei)
+    Vê-se, portanto, que a pretensão deduzida em sede recursal extraordinária revela-se processualmente inviável.
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por ser manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se, na origem, de processo de controle concentrado de constitucionalidade.
+    Publique-se.
+    Brasília, 14 de agosto de 2018.
+Ministro CELSO DE MELLO
+Relator
