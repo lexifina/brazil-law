@@ -1,0 +1,54 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. INDEFERIMENTO. ACÓRDÃO EMBARGADO QUE NEGOU PROVIMENTO AO RECURSO ESPECIAL AO FUNDAMENTO DE QUE A REVISÃO DA CONDIÇÃO DE HIPOSSUFICIENTE ENCONTRA ÓBICE NA SÚMULA 7/STJ. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS.
+1. É cedido que os embargos de divergência têm por escopo uniformizar a jurisprudência do Tribunal ante a adoção de teses conflitantes pelos seus órgãos fracionários, cabendo ao embargante a comprovação do dissídio pretoriano nos moldes estabelecidos no art. 266, § 1º, combinado com art. 225, §§ 1º e 2º, do RISTJ.
+2. No caso concreto, constata-se a ausência de similitude fática a autorizar o conhecimento dos embargos de divergência especialmente porque o precedente colacionado como paradigma não guarda idêntico grau de cognição.
+3. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Seção do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria, Herman Benjamin, Napoleão Nunes Maia Filho e Og Fernandes votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, a Sra. Ministra Assusete Magalhães e o Sr. Ministro Francisco Falcão.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto pelo Sindicato dos Trabalhadores Federais da Saúde, Trabalho e Previdência no Estado do Rio Grande do Sul contra decisão de minha lavra, assim ementada (fls. 449-451):
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. INEXISTÊNCIA. COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. SÚMULA 7/STJ. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA ENTRE OS ACÓRDÃOS CONFRONTADOS. RECURSO INDEFERIDO LIMINARMENTE.
+O agravante pugna pela reforma da decisão proferida argumentando que no bojo dos embargos de divergência "destacou minucionsamente a identidade entre o presente caso e do julgado paradigma" (fl. 458 e-STJ).
+Ao final, requer o provimento do recurso, a fim de que seja deferida "a gratuidade de justiça pleiteada" (fl. 458 e-STJ).
+Transcorreu o prazo para impugnação (certidão de fl. 462).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. INDEFERIMENTO. ACÓRDÃO EMBARGADO QUE NEGOU PROVIMENTO AO RECURSO ESPECIAL AO FUNDAMENTO DE QUE A REVISÃO DA CONDIÇÃO DE HIPOSSUFICIENTE ENCONTRA ÓBICE NA SÚMULA 7/STJ. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS.
+1. É cedido que os embargos de divergência têm por escopo uniformizar a jurisprudência do Tribunal ante a adoção de teses conflitantes pelos seus órgãos fracionários, cabendo ao embargante a comprovação do dissídio pretoriano nos moldes estabelecidos no art. 266, § 1º, combinado com art. 225, §§ 1º e 2º, do RISTJ.
+2. No caso concreto, constata-se a ausência de similitude fática a autorizar o conhecimento dos embargos de divergência especialmente porque o precedente colacionado como paradigma não guarda idêntico grau de cognição.
+3. Agravo interno não provido.
+
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Os embargos de divergência em recurso especial foram interpostos, com fundamento no artigo 1.043 do CPC/2015 e 266 do RI/STJ, contra acórdão prolatado pela Segunda Turma, o qual entendeu que reavaliar a situação financeira do ora embargante e as provas apresentadas nos autos para que se conceder a assistência pretendida esbarrara no óbice da Súmula 7/STJ.
+O acórdão embargado está ementado (fls. 321-326):
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. VIOLAÇÃO DO ART. 535 DO CPC/73. INEXISTÊNCIA. COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. SÚMULA 7/STJ.
+1. Não merece prosperar a tese de violação do art. 535 do CPC/73, porquanto o acórdão impugnado fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+2. Sendo assim, não há que se falar em omissão do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pelo recorrente, elegendo fundamentos diversos daqueles por ele propostos, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração.
+3. Rever o entendimento do Tribunal de origem, quanto à ausência da condição de hipossuficiente, implica o imprescindível reexame das provas constantes dos autos, o que é defeso em sede de recurso especial ante o que preceitua a Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+4. Agravo interno a que se nega provimento. (AgInt no RESP n. 1.463.325/RS, Rel. Min. Og Fernandes, Segunda Turma, DJe: 25.4.2017)
+Os embargos de declaração foram rejeitados (fls. 350-354).
+O embargante alega a existência de divergência jurisprudencial acerca do mesmo tema. Para tanto, colaciona como paradigma o seguintes julgado: RESP n. 1.196.941/SP, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe: 23.3.2011.
+Argumenta em apertada síntese que não é necessária a comprovação do estado de miserabilidade da parte para a concessão do benefício da assistência judiciária gratuita, sendo suficiente a declaração pessoal de pobreza da parte, a qual pode ser feita, inclusive, por seu advogado.
+Ao final, requer o provimento do recurso, a fim de que seja reconhecida "o direito das autoras ao benefício da gratuidade, diante da declaração de pobreza apresentada" (fl. 403).
+É cedido que os embargos de divergência têm por escopo uniformizar a jurisprudência do Tribunal ante a adoção de teses conflitantes pelos seus órgãos fracionários, cabendo ao embargante a comprovação do dissídio pretoriano nos moldes estabelecidos no art. 266, § 1º, combinado com art. 225, §§ 1º e 2º, do RISTJ.
+No caso concreto, o acórdão embargado negou provimento ao agravo interno do ora embargante ao fundamento de que rever o entendimento do Tribunal de origem, quanto à ausência da condição de hipossuficiente, implica o imprescindível reexame das provas constantes dos autos, o que é defeso em sede de recurso especial ante o que preceitua a Súmula 7/STJ, verbis:
+Segundo a Corte de origem, soberana na análise dos elementos probatórios dos autos, as requerentes dispõe de recursos suficientes para suportar as despesas processuais, sem comprometimento do sustento familiar.
+Nesse contexto, analisar a pretensão do recorrente nesse ponto implica o imprescindível reexame das provas constantes dos autos, o que é defeso em sede de recurso especial ante o que preceitua a Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Ocorre que, nos autos do REsp 1.196.941/SP, de minha relatoria, a Primeira Turma decidiu que a constatação da condição de necessitado e a declaração da falta de condições para pagar as despesas processuais e os honorários advocatícios erigem presunção relativa em favor do requerente, uma vez que esta pode ser contrariada tanto pela parte adversa quanto pelo juiz, de ofício, desde que este tenha razões fundadas (REsp 1.196.941/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 23/3/2011).
+Dessa forma, conforme já consignado na decisão agravada, constata-se a ausência de similitude fática a autorizar o conhecimento dos embargos de divergência especialmente porque o precedente colacionado como paradigma não guarda idêntico grau de cognição.
+No mesmo sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS.
+1. Nos termos da orientação predominante nesta Corte de Justiça, "os embargos de divergência só são admitidos quando há soluções conflitantes para situações fáticas e jurídicas iguais" (AgRg nos EREsp 931812/RJ, Rel. Ministro Gilson Dipp, Corte Especial, DJe 07/08/2008).
+2. É firme o entendimento do STJ no sentido de que não se configura divergência entre julgados quando um deles adentra o mérito do recurso, apreciando a questão controvertida, enquanto o outro não conhece do recurso especial, sem enfrentar a tese, em razão de óbice relacionado à admissibilidade recursal - no caso concreto, a incidência da Súmula 7/STJ. Precedente: AgRg nos EREsp 987.598/PR, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 4/9/2014.
+3. Agravo regimental não provido. (AgRg nos EREsp 1.500.988/RS, Rel. Ministro Sérgio Kukina, Primeira Seção, DJe 2/3/2018)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CRÉDITO PRESUMIDO DE IPI. LEI 9.363/1996. REGIME ALTERNATIVO DE APURAÇÃO. LEI 10.276/2001.
+MIGRAÇÃO, APÓS A APRESENTAÇÃO DAS DECLARAÇÕES BASEADAS NO REGIME ANTERIOR. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS EMBARGADO E PARADIGMA. DESATENDIMENTO AOS ARTS. 1.043, § 4º, DO CPC/2015 E 266, § 4º, DO RISTJ.
+1. Nos termos da jurisprudência reiterada deste Tribunal Superior, a admissibilidade dos embargos de divergência está atrelada à demonstração de que os arestos confrontados partiram de similar contexto fático para atribuir conclusões jurídicas dissonantes.Precedentes. Entendimento que hoje decorre dos comandos constantes dos arts. 1.043, § 4º, do CPC/2015 e 266, § 4º, do RISTJ.
+2. Os acórdãos confrontados não apresentam similitude fática e jurídica, na medida em que a tese sobre a qual subsistiria divergência - possibilidade ou não de se retroagirem os efeitos de uma instrução normativa - não foi objeto de análise e apreciação no acórdão embargado. Por essa razão, os embargos são inadmissíveis.
+Precedents: AgInt nos EAREsp 261.715/MS, Rel. Ministro Francisco FALCÃO, Primeira Seção, DJe 3/5/2017; AgInt nos EDcl nos EAREsp 763.260/SP, Rel. Ministro Humberto Martins, Corte Especial, DJe 5/4/2017.
+3. Agravo interno a que se nega provimento. (AgInt nos EREsp 1.239.867/RS, Rel. Ministro Og Fernandes, Primeira Seção, DJe 1º/3/2018)
+Por fim, consoante jurisprudência do STJ, em sede de embargos de divergência, não é possível a discussão acerca da técnica de conhecimento do recurso especial, o que ocorre, entre outros, nos casos de incidência da Súmula 7/STJ. Precedentes: AgInt nos EREsp 1.372.177/RJ, Rel. Ministro Gurgel de Faria, Primeira Seção, DJe 12/9/2016; EDcl nos EREsp 1.405.959/SP, Rel. Ministro Benedito Gonçalves, Primeira Seção, DJe 1/6/2016; AgRg nos EREsp 1.397.641/AL, Rel. Ministro Humberto Martins, Primeira Seção, DJe 19/4/2016; AgRg nos EREsp 1.510.945/AL, Rel. Ministra Regina Helena Costa, Primeira Seção, DJe 3/11/2015; AgInt nos EREsp 1.565.355/SP, Rel. Ministro Benedito Gonçalves, Primeira Seção, DJe 2/2/2017.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
