@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto por CAIXA ECONÔMICA FEDERAL contra a decisão que inadmitiu o recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, desafia acórdão proferido pelo Tribunal Regional Federal da 2ª Região assim ementado:
+"APELAÇÃO CÍVEL. DIREITO PROCESSUAL CIVIL E CIVIL. PROGRAMA MINHA CASA MINHA VIDA. DEMORA NA CONCLUSÃO DAS OBRAS. CEF. LEGITIMIDADE PASSIVA AD CAUSAM. ART. 93, INCISO IX, da CF/88. REPARAÇÃO POR DANOS MORAIS DEVIDA. QUANTUM REDUZIDO.
+1. A lide gira em torno do atraso nas obras de construção pela empreiteira "Premax Engenharia Ltda." do apartamento comprado pelos autores/recorrentes no Condomínio "Residencial Villa Veneto", o qual, por sua vez, foi financiado pela CEF no âmbito do Programa "Minha Casa Minha Vida". Em seu recurso, a ré pretende o acolhimento da sua ilegitimidade passiva ad causam, eximindo-se do pagamento de reparação por danos morais.
+2. A Caixa Econômica Federal assume a posição de credora, no contrato, ou seja, agente financeiro, possibilitando o acesso à moradia à pessoas de baixa renda, pelo programa intitulado "Minha Casa, Minha Vida", tendo a obrigação de fiscalizar c averiguar a construção, a fim de liberar a verba necessária ao andamento das obras, notificando eventuais problemas, como paralisação.
+3. Caracterizada a legitimidade passiva ad causam da CEF para o presente feito, pois na qualidade de beneficiária do seguro, a ela cabe acionar a apólice de seguro, eis que, embora não seja responsável pelo ressarcimento dos prejuízos, é agente garantidor tanto da retomada da obra, bem como da sua conclusão, sendo desnecessária a denunciação à lide da seguradora.
+4. A reparação civil do dano moral, diversamente do que se verifica em relação ao dano patrimonial, não objetiva a recompor a situação jurídico-patrimonial do lesado, mas compensar alguma das violações às dimensões da dignidade humana, como a liberdade, a integridade físico-psíquica, solidariedade e a isonomia.
+5. Diante da responsabilidade civil contratual, os mutuários fazem jus à indenização a título de danos morais, cuja definição por meio da noção de sentimento humano (dor, vexame, humilhação, ou constrangimento) é inadequada, sob pena de se confundir o dano com a sua (eventual) consequência.
+6. A repercussão de tais lesões na personalidade da vítima nem sempre é de fácil liquidação. Contudo, tal é a gravidade da lesão à dignidade, segundo à ordem constitucional, que se admite presumível o dano moral pelo simples fato da lesão, independentemente da sua efetiva comprovação.
+7. Comprovado o efetivo dano, a ação comissiva ou omissiva do agente e o nexo de causalidade entre ambos, mostra-se cabível a imputação de responsabilidade civil por parte da ré, afigurando razoável a redução do dano moral em R$ 10.000,00 (vinte mil reais).
+8. Apelação conhecida e parcialmente provida" (e-STJ fl. 514).
+No especial, além de divergência jurisprudencial, a recorrente alega violação do artigo 485, VI, do Código de Processo Civil de 2015.
+Sustenta sua ilegitimidade passiva para responder por vícios de construção de empreendimento que financia.
+Afirma não ter assumido qualquer responsabilidade pelo atraso da obra, porquanto atuou apenas na qualidade de agente financeiro, não existindo nenhum amparo legal ou contratual a justificar tal medida.
+Argumenta que da causa de pedir da petição inicial não há a alegação de que tenha atuado como agente executor de política pública para promoção de moradia para pessoas de baixa renda e que o financiamento em questão foi efetuado no âmbito do programa Minha Casa Minha Vida.
+Assinala que o autor, além de ser tabelião, o que não se coaduna com pessoa de baixa ou baixíssima renda, não figura como promitente comprador no contrato firmado com a construtora (Premax).
+Após a apresentação das contrarrazões (e-STJ fls. 545/575), o recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O recurso não merece prosperar.
+A CEF busca o reconhecimento de sua ilegitimidade passiva pelo atraso da obra, tendo em vista ter atuado apenas na qualidade de agente financeiro (liberação de aportes financeiros para a construção do empreendimento).
+A jurisprudência desta Corte firmou-se no sentido de que, atuando como agente meramente financeiro, a CEF não detém legitimidade para responder pelo descumprimento contratual relativo ao atraso na entrega de imóvel adquirido com recursos destinados ao Programa Minha Casa Minha Vida.
+A propósito, cita-se o seguinte precedente:
+"RECURSO ESPECIAL. PROGRAMA MINHA CASA MINHA VIDA. PEDIDO DE INDENIZAÇÃO. DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DO IMÓVEL. LEGITIMIDADE [NOME]. AUSÊNCIA. AGENTE FINANCEIRO.
+1. Cinge-se a controvérsia a definir se a Caixa Econômica Federal possui legitimidade para responder pelo atraso na entrega de imóvel financiado com recursos destinados ao Programa Minha Casa Minha Vida (PMCMV).
+2. O exame da legitimidade passiva da CEF está relacionado com tipo de atuação da empresa pública no âmbito do Sistema Financeiro Habitacional, ora como agente meramente financeiro, em que não responde por pedidos decorrentes de danos na obra financiada, ora como agente executor de políticas federais para a promoção de moradia para pessoas de baixa ou baixíssima renda, em que responde por mencionados danos. Precedente.
+3. Para o fim de verificar o tipo de atuação da CEF e concluir pela sua legitimidade para responder por danos relativos à aquisição do imóvel, devem ser analisar os seguintes critérios: i) a legislação disciplinadora do programa de política de habitacional; ii) o tipo de atividade por ela desenvolvida; iii) o contrato celebrado entre as partes e iv) e a causa de pedir.
+4. No caso dos autos, considerando-se que a participação da CEF na relação jurídica sub judice ocorreu exclusivamente na qualidade de agente operador do financiamento para fim de aquisição de unidade habitacional, a instituição financeira não detém legitimidade para responder pelo descumprimento contratual relativo ao atraso na entrega do imóvel adquirido com recursos destinados ao Programa Minha Casa Minha Vida (PMCMV).
+5. Recurso especial não provido" (REsp 1.534.952/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 7/2/2017, DJe 14/2/2017).
+No caso em tela, contudo, o aresto recorrido, no exame do contrato celebrado entre as partes, concluiu ter a CEF assumido outras responsabilidades, não atuando apenas como agente financeiro. Eis a letra do acórdão na parte que interessa:
+"(..)
+Analisando a preliminar, inequívoco, que a Caixa Econômica Federal assume a posição de credora, no contrato, ou seja, agente financeiro, possibilitando o acesso à moradia à pessoas de baixa renda, pelo programa intitulado "Minha Casa, Minha Vida", tendo a obrigação de fiscalizar e averiguar a construção, a fim de liberar a verba necessária ao andamento das obras, notificando eventuais problemas, como paralisação, à seguradora, que também consta no contrato, como se depreende da Cláusula Vigésima Segunda - SEGUROS (fls. 60).
+Deste modo, está perfeitamente caracterizada a legitimidade passiva ad causam da CEF para o presente feito, pois na qualidade de beneficiária do seguro, a ela cabe acionar a apólice de seguro, eis que, embora não seja responsável pelo ressarcimento dos prejuízos, é agente garantidor tanto da retomada da obra, bem como da sua conclusão, sendo desnecessária a denunciação à lide da seguradora" (e-STJ fl. 489).
+Desse modo, entender pela ilegitimidade da recorrente nos moldes pretendidos depende, inevitavelmente, da interpretação de cláusulas contratuais e do reexame do conjunto probatório constante dos autos, procedimentos vedados pelas Súmulas nºs 5 e 7/STJ.
+Referidos óbices também se aplicam ao recurso interposto pela alínea "c" do permissivo constitucional.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Em observância ao artigo 85, § 11, do Código de Processo Civil de 2015, deixo de majorar os honorários advocatícios, haja vista que, na origem, já foram estipulados no patamar máximo (20% sobre o valor final da causa).
+Publique-se.
+Intimem-se.
