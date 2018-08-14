@@ -1,0 +1,70 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 371 DO CPC/2015. MATÉRIA NÃO PREQUESTIONADA. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO ARTIGO A QUE SE TERIA DADO INTERPRETAÇÃO DIVERGENTE. ÓBICE DA SÚMULA 284/STF. RECURSO NÃO PROVIDO.
+1. Fica inviabilizado o conhecimento de temas trazidos no recurso especial, mas não debatidos e decididos nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Incidência da Súmula 211 do Superior Tribunal de Justiça.
+2. Esta Corte de Justiça, ao interpretar o art. 1.025 do Código de Processo Civil de 2015, concluiu que a caracterização do prequestionamento ficto exige que no mesmo recurso seja apontada violação ao art. 1.022 do CPC/2015, a fim de que o STJ possa aferir a existência do vício do acórdão a viabilizar a supressão de instância admitida no art. 1.025 do CPC/2015.
+3. O conhecimento do recurso especial pela alínea "c" do permissivo constitucional exige a indicação de qual dispositivo legal teria sido objeto de interpretação divergente, sob pena de incidência da Súmula 284 do Supremo Tribunal Federal. Precedentes do STJ.
+4. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (Relator):
+Trata-se de agravo interno interposto por [NOME] e OUTROS contra decisão monocrática desta Relatoria que conheceu do agravo para não conhecer do recurso especial.
+Fundamentou-se a decisão monocrática: (a) na ausência de prequestionamento do art. 371 do Código de Processo Civil de 2015, atraindo a censura das Súmulas 282 e 356/STF e 211/STJ; e (b) na não particularização, no recurso especial, dos dispositivos legais acerca dos quais haveria divergência interpretativa, inviabilizando a abertura da instância especial, a teor da Súmula 284/STF.
+Os agravantes, em suas razões recursais, sustentam, em síntese, que: (a) o art. 371 do Código de Processo Civil de 2015 deve ser tido por prequestionado, à luz do art. 1025 da lei processual civil; e (b) ficou claro que a interpretação divergente baseou-se no art. 371 do CPC/2015.
+Impugnação às fls. e-STJ 1.569/1.571, pelo não conhecimento e, sucessivamente, pelo improvimento do apelo.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (Relator):
+Não merece provimento o agravo interno.
+Em relação à apontada violação do art. 371 do CPC/2015, constata-se que seu conteúdo normativo não foi apreciado pelo Tribunal de origem, ainda que o preceito legal (art. 131 do CPC/1973) tenha sido mencionado, nos embargos de declaração opostos, para fins de prequestionamento.
+Dessa forma, à falta do indispensável prequestionamento, incide o óbice da Súmula 211 do STJ. Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. CONSTITUIÇÃO EM MORA DO DEVEDOR. NOTIFICAÇÃO EXTRAJUDICIAL. POSSIBILIDADE. AJUIZAMENTO DE AÇÃO REVISIONAL. AUSÊNCIA DE IMPEDIMENTO À CONSTITUIÇÃO EM MORA. SÚMULA Nº 83 DO STJ. BUSCA E APREENSÃO. INTERESSE DE AGIR. AFASTAMENTO DA INADIMPLÊNCIA. SÚMULAS 5 E 7 DO STJ. ENCARGOS ABUSIVOS.
+DESCARACTERIZAÇÃO DA MORA. SÚMULA Nº 211 DO STJ.
+(..)
+4. A Corte estadual, a despeito da oposição dos embargos de declaração, não apreciou a tese de que a existência de encargos abusivos descaracteriza a mora. Não se vislumbrando o efetivo prequestionamento e deixando a parte recorrente de alegar, nas razões do recurso especial, violação ao art. 535 do CPC, incide o óbice da Súmula 211 do STJ.
+5. Agravo interno não provido."
+(AgInt no AgRg no AREsp 718.438/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 1º/06/2017, DJe de 06/06/2017)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SUBSCRIÇÃO DE AÇÕES. AÇÃO DE RESOLUÇÃO PARCIAL DE CONTRATO E RESTITUIÇÃO DE VALORES COM PEDIDO DE ADIMPLEMENTO DE CONTRATO DE PLANTA COMUNITÁRIA. RECONHECIMENTO DO DIREITO À RESTITUIÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. ARTS. 538 E 884 DO CC. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 DO STF E 211 DO STJ. DECISÃO MANTIDA.
+1. O Tribunal de origem entendeu que "não tendo a demandada retribuído o investimento realizado pelo consumidor, conforme determinava a portaria que regulamentava a relação entabulada entre as partes à época, nada impede que o contratante postule e veja reconhecido seu direito em ver o valor investido devidamente devolvido. Rever esta conclusão esbarraria no óbice das Súmulas 5 e 7 do STJ".
+2. A matéria referente ao art. 884 do CC não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ). O Superior Tribunal de Justiça não reconhece o prequestionamento pela simples interposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 535 do Código de Processo Civil, sob pena de perseverar o óbice da ausência de prequestionamento.
+3. Agravo regimental não provido."
+(AgRg no AREsp 663.279/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2015, DJe de 28/08/2015)
+O art. 1.025 do CPC/2015, invocado nas razões recursais para suprir a ausência do prequestionamento, não socorre os agravantes, já que esta Corte de Justiça, ao interpretá-lo, concluiu que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe de 10/04/2017). No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ALEGADA ILIQUIDEZ DO TÍTULO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282/STF E 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. PRECEDENTE. RECURSO NÃO PROVIDO.
+1. A matéria referente aos arts. 783 e 803, do CPC de 2015 não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+2. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.098.633/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/09/2017, DJe de 15/09/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL. PREVIDÊNCIA PRIVADA. ART. 884 DO CÓDIGO CIVIL. VIOLAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. 1
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+2. Se a questão levantada não foi discutida pelo tribunal de origem e não verificada, nesta Corte, a existência de erro, omissão, contradição ou obscuridade não há falar em prequestionamento ficto da matéria, nos termos do art. 1.025 do CPC/2015, incidindo na espécie a Súmula nº 211/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 562.067/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/06/2017, DJe de 1º/08/2017)
+Observa-se, contudo, que não houve alegação de violação ao art. 1.022 do CPC/2015 no recurso especial.
+No que se refere ao dissídio jurisprudencial, constata-se que não houve a particularização inequívoca, no recurso especial, dos dispositivos legais acerca dos quais haveria a divergência interpretativa, como apontado na monocrática agravada.
+Ocorre que a jurisprudência pacífica desta Casa dispõe que a ausência de particularização dos dispositivos legais a que os acórdãos - recorrido e paradigma - teriam dado interpretação discrepante consubstancia deficiência insanável, inviabilizando a abertura da instância especial, a incidir, no ponto, a censura da Súmula 284 do STF. Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. EXECUÇÃO POR QUANTIA CERTA. PENHORABILIDADE DE PROVENTOS. APELO NOBRE FUNDADO NA ALÍNEA C DA PERMISSÃO CONSTITUCIONAL. AUSÊNCIA DE INDICAÇÃO DO PRECEITO LEGAL. DEFICIÊNCIA DA FUNDAMENTAÇÃO RECURSAL. APLICAÇÃO ANALÓGICA DA SÚMULA Nº 284 DO STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA NOS MOLDES LEGAIS. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO NÃO PROVIDO, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O recurso especial fundado na alínea c demanda que a parte recorrente indique o dispositivo de lei federal sobre o qual se alega a divergência jurisprudencial invocada, sob pena de incidência da Súmula nº 284 do STF.
+3. A não observância dos requisitos dos arts. 1.029, § 1º, do NCPC, e 255, § 1º, do RISTJ torna inadmissível o conhecimento do recurso com fundamento na alínea c do permissivo constitucional.
+4. Em virtude do não provimento do presente recurso, e da anterior advertência em relação a aplicabilidade do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+5. Agravo interno não provido, com imposição de multa.
+(AgInt no AREsp 1.213.361/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 08/05/2018, DJe de 18/05/2018 - grifou-se)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. A ausência de indicação do dispositivo de lei que haja interpretação divergente, por outros tribunais, não autoriza o conhecimento do recurso especial pela alínea "c" do inciso III do artigo 105 da Constituição Federal. Incidência, por analogia, da Súmula 284 do STF.
+2. Agravo interno desprovido.
+(AgInt no REsp 1.680.845/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 10/04/2018, DJe de 19/04/2018 - grifou-se)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DO ARTIGO VIOLADO. SÚMULA Nº 284 DO STF. DESPESAS REALIZADAS EM HOSPITAL NÃO CREDENCIADO. SÚMULAS 5 E 7/STJ.
+RECURSO NÃO PROVIDO. .
+1. O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da demonstração analítica do dissídio jurisprudencial, a indicação dos dispositivos supostamente violados ou objeto de interpretação divergente. Súmula 284 do STF.
+2. O Tribunal de origem concluiu que o ajuste firmado seria patrocinado em todo o Sistema Nacional Unimed, bem como que cabe aos usuários escolher os médicos e hospitais, desde que cooperados com o plano. Para desconstituir a convicção formada pelas instâncias ordinárias a esse respeito, far-se-ia necessário incursionar no substrato fático-probatório dos autos, bem como proceder à interpretação de cláusulas contratuais, o que é defeso a esta Corte Superior ante o teor das Súmulas 5 e 7 do STJ.
+3. Agravo interno não provido."
+(AgInt no AREsp 1.024.730/PB, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/08/2017, DJe de 21/08/2017 - grifou-se)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA. ATRASO NA REGULARIZAÇÃO DO IMÓVEL. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284 DO STF. AUSÊNCIA DE COTEJO ANALÍTICO. DISSÍDIO NÃO CONFIGURADO. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ.
+1. A ausência de indicação do dispositivo de lei que haja interpretação divergente, por outros tribunais, não autoriza o conhecimento do recurso especial pela alínea "c" do inciso III do art. 105 da Constituição Federal (Súmula 284 do STF). Necessário, ainda, o cotejo analítico com a demonstração de similitude fática entre o acórdão recorrido e os paradigmas confrontados.
+2. Inviável o recurso especial cuja análise das razões impõe reexame de matéria fática da lide, nos termos da vedação imposta pela Súmula n. 7 do STJ.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 820.096/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 1º/12/2016, DJe de 07/12/2016 - grifou-se)
+Pelo exposto, nega-se provimento ao agravo interno.
+É como voto.
