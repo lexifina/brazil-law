@@ -1,0 +1,56 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 CPC/2015. NÃO CONFIGURAÇÃO. PLEITO DE AFASTAMENTO DA MULTA DO ART. 1.026 DO CPC/2015. INCIDÊNCIA DA SÚMULA 7/STJ. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. IMPOSSIBILIDADE DE DILAÇÃO PROBATÓRIA. CONSONÂNCIA DE TESE APLICADA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. AGRAVO CONHECIDO PARA, DESDE LOGO, NEGAR PROVIMENTO AO RECURSO ESPECIAL NA PARTE CONHECIDA.
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por [NOME] em face de decisão que inadmitiu recurso especial fundamentado na alínea "a", do inciso III, do artigo 105, da Constituição Federal e interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+Exceção de pré-executividade - Execução por quantia certa de título extrajudicial Arguição de nulidade das notas promissórias que documentam a execução Versão de que o executado é dependente químico desde a época da emissão dos títulos e hoje está interditado - Questões insuscetíveis de incidente de exceção e que demandam amplo contraditório - Exceção que não é sucedâneo de embargos do devedor ou de ação de conhecimento - Sentença de interdição de natureza constitutiva, que opera para o futuro - Atos anteriores que dependem de prova cabal de que a anomalia já existia no momento - Exceção rejeitada - Recurso desprovido. (fl. 391)
+Nas razões do recurso especial, a parte recorrente, alegando a violação dos arts. 1.022, II, 489, § 1º, II e IV, 1.026, § 2º, 787, 783, I, 803, VI e 485 do Código de Processo Civil de 2015 e 476 do Código Civil sustentou, em síntese: omissão do acórdão recorrido no que tange ao pleito de juntada aos autos do contrato e do recibo de pagamento; descabimento da multa por embargos de declaração protelatórios e que "o Exequente NÃO instruiu a sua ação com nenhum documento comprobatório pelo qual disse que surgiu seu crédito; NÃO juntou nos autos o contrato do suposto prejuízo que afirma que deu origem às notas promissórias executadas; NÃO anexou nos autos o recibo de pagamento no valor de R$ 600.000,00 (seiscentos mil reais) para comprovar que cumpriu com a sua contraprestação."  sic  (e-STJ fl. 427).
+Sobreveio juízo de admissibilidade do Tribunal de origem, que negou seguimento ao recurso especial (e-STJ fls. 460-462), por considerar que resguardado de ofensa estariam os artigos 489 e 1.022 do CPC/2015 e que incindiria, na espécie, o óbice da Súmula 7/STJ.
+Foram impugnados os fundamentos da decisão que inadmitiu o recurso especial.
+Por meio da decisão de fls. e-STJ 518-520 foi indeferido o pedido de tutela provisória de urgência.
+É o breve relatório.
+Passo a decidir.
+Com efeito, a irresignação recursal não pode prosperar.
+Quanto à violação dos artigos 489 e 1.022 do Código de Processo Civil por omissão quanto à suposta necessidade de juntada aos autos do contrato e do recibo de pagamento, constata-se que não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide com fundamentação suficiente a controvérsia.
+Na hipótese em exame, a Corte local assim consignou quanto à matéria, verbis:
+Andou bem a r. decisão que, em face de todo o emaranhado narrado pelo executado, rejeitou exceção de pré-executividade ao fundamento de ser admitida somente "nos casos em que os vícios que maculam a execução são perceptíveis de plano, "ictu oculi", sem dilação probatória, como a nulidade flagrante do título ou do processo executivo, a carência das condições da ação ou a consumação da prescrição".
+O recorrente, na verdade, intenta questionar no incidente o mérito do débito, a "causa debendi" das notas promissórias e a sua sanidade mental à época da emissão, questões que demandam contraditório e não cabem no incidente.
+É cediço que o meio para a defesa do executado é a oposição de embargos, cujo pressuposto "sine qua non" hoje é, depois das reformas do Código de Processo Civil operadas pela Lei n. 11.382/06, a citação, podendo o embargante lograr efeito suspensivo, consoante a interpretação sistemática dos arts. 738, "caput", e 739-A, § 1º, em sendo relevantes os fundamentos dos embargos e contanto que a execução já esteja garantida por penhora, depósito ou caução suficientes.
+Não significa que, exaurido o prazo para a oposição de embargos, o executado não possa exercer defesa, mas deve fazê-lo nos limites do devido processo legal. Se pretender fazê-lo pela via da exceção de pré-executividade, lhe é defeso usá-la como sucedâneo de embargos ou de ação de conhecimento.
+(..)
+Nem se diga que a interdição do executado é, em si, causa de nulidade dos títulos e da execução cognoscível pelo juiz em incidente de exceção.
+A sentença de interdição é de natureza constitutiva e opera para o futuro, quando o interdito passa a ser representado por curador nos atos da vida civil. Só os atos posteriores são sujeitos ao reconhecimento da nulidade por presunção "jures et de jure". (e-STJ fls. 392-393)
+Assim, a pretensão recursal, em verdade, traduz-se em inconformismo com a decisão posta. Amolda-se à espécie, pois, o entendimento pretoriano consolidado quanto à desnecessidade de que o Tribunal, ao proferir sua decisão, aprecie expressamente todas as questões suscitadas pelas partes, bastando que no acórdão constem os fundamentos utilizados para se chegar à conclusão exteriorizada e esta apresente uma solução à questão jurídica que lhe foi submetida pelas partes.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. JUÍZO PRÉVIO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. ANÁLISE DO MÉRITO. POSSIBILIDADE. SÚMULA 123 DO STJ. VIOLAÇÃO DO ART. 535 DO CPC. NÃO CONFIGURAÇÃO. PREQUESTIONAMENTO DE QUESTÕES CONSTITUCIONAIS. IMPOSSIBILIDADE.
+(..) 2. Quando o Tribunal de origem, ainda que sucintamente, pronuncia-se de forma clara e suficiente sobre a questão posta nos autos, não se configura ofensa ao artigo 535 do CPC. Ademais, o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte.
+3. (..)
+4. Agravo regimental desprovido. (AgRg no Ag 1265516/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 22/06/2010, DJe 30/06/2010, grifei)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO NO ACÓRDÃO RECORRIDO. VÍCIO NÃO CONFIGURADO. MULTA ADMINISTRATIVA. NULIDADE POR CERCEAMENTO DE DEFESA. NECESSIDADE DE REVOLVIMENTO DE PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INVIABILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ.
+1. Não há falar em omissão existente no acórdão quando o Tribunal local julga integralmente a lide, apenas não adotando a tese defendida pela recorrente, tampouco se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional. Precedentes.
+2. Diante dos fundamentos assentados no acórdão recorrido, verifica-se que rever o entendimento do Tribunal de origem quanto à inexistência de vícios no processo administrativo, que resultou na aplicação de multa à recorrente, demandaria reexaminar as provas constantes dos autos ou, ainda, interpretar as cláusulas contratuais firmadas entre as partes, medidas vedadas em recurso especial ante o óbice fundado nas Súmulas 5 e 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1036898/DF, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 06/06/2017, DJe 12/06/2017)
+
+Quanto ao pleito de afastamento da multa por embargos de declaração protelatórios (e-STJ fls. 409-411), alterar a conclusão do Tribunal de origem é inviável em sede de recurso especial ante a incidência do óbice da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO CONTRA DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. EMBARGOS PROTELATÓRIOS. APLICAÇÃO DE MULTA. REEXAME DOS FATOS. SÚMULA 7/STJ.
+1. A indicada afronta ao art. 236 do CPC de 1973 não pode ser analisada, pois o Tribunal de origem não emitiu juízo de valor sobre esse dispositivo legal. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+2. É pacífico o entendimento no STJ de que a análise do artigo 1.026, § 2º, do CPC, que trata da multa por interposição de Embargos de Declaração protelatórios, demanda reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ.
+3. Agravo Interno não provido.
+(AgInt no REsp 1691238/AM, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 10/04/2018, DJe 28/05/2018)
+ Por fim, quanto aos demais dispositivos tidos por violados, constata-se que o Tribunal de origem dirimiu a controvérsia de acordo com a jurisprudência desta Corte superior, uma vez que a utilização de exceção de pré-executividade somente é possível para analisar questões que podem ser conhecidas de ofício pelo juiz, sem a necessidade de dilação probatória.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. NEGATIVA DA PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ACÓRDÃO RECONHECE QUE AS QUESTÕES DEMANDAM DILAÇÃO PROBATÓRIA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NÃO CABIMENTO. SÚMULA 83/STJ. ALTERAÇÃO DAS PREMISSAS ADOTADAS. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1.(..).
+2. "A exceção de pré-executividade é cabível para alegar matéria de ordem pública que não demande dilação probatória" (AgInt no AREsp 930.040/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/11/2016, DJe de 17/11/2016).
+3. No caso, as instâncias ordinárias não acolheram a exceção de pré-executividade sob o fundamento de que as questões a serem decididas demandam dilação probatória. Incidência da Súmula 83 do STJ.
+4. A alteração das premissas adotadas no acórdão recorrido, no sentido de se concluir que as questões não demandam dilação probatória, tal como propugnada, encontra óbice na Súmula 7 do STJ.
+5 Agravo interno a que se nega provimento. (AgInt no AREsp 1133163/RS, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 17/04/2018, DJe 23/04/2018)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CONTRADIÇÃO. OCORRÊNCIA. ILIQUIDEZ DO TÍTULO EXECUTIVO RECONHECIDA DE PLANO PELAS INSTÂNCIAS ORDINÁRIAS. ACLARATÓRIOS PROVIDOS.
+1. A Primeira Seção desta Corte de Justiça firmou orientação, em julgamento de recurso especial repetitivo, de que "a exceção de pré-executividade é cabível quando atendidos simultaneamente dois requisitos, um de ordem material e outro de ordem formal, ou seja: (a) é indispensável que a matéria invocada seja suscetível de conhecimento de ofício pelo juiz; e (b) é indispensável que a decisão possa ser tomada sem necessidade de dilação probatória" (REsp 1.110.925/SP, Rel. Min. TEORI ALBINO ZAVASCKI, DJe de 4/5/2009).
+(..)
+3. Embargos de declaração acolhidos. (EDcl no AgInt no AREsp 1023830/MT, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 19/10/2017, DJe 16/11/2017)
+Assim, não procedem as alegações recursais.
+Ante o exposto, conheço do agravo para, desde logo, NEGAR provimento ao recurso especial na parte conhecida.
+Intimem-se.
