@@ -1,0 +1,21 @@
+DECISÃO
+LIMINAR – PREJUÍZO PARCIAL.
+PENA – SUBSTITUIÇÃO POR RESTRITIVAS DE DIREITO – ADEQUAÇÃO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO DE OFÍCIO.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Juízo da Segunda Vara da Comarca de Bebedouro/SP, no processo nº 0003197-58.2011.8.26.0072, condenou o paciente a 1 ano e 8 meses de reclusão, em regime inicial fechado, e ao pagamento de 166 dias-multa, ante o cometimento da infração versada no artigo 33, cabeça (tráfico de drogas), combinado com o § 4º (causa de diminuição de pena em razão de o agente ser primário, possuidor de bons antecedentes, não se dedicar a atividades delitivas nem integrar organização criminosa), da Lei nº 11.343/2006. Na dosimetria, assentou favoráveis as circunstâncias judiciais, fixando a pena-base no mínimo legal. Fez incidir a causa de diminuição no patamar de 2/3. Reconheceu o direito de recorrer em liberdade. Aludiu ao previsto no artigo 2º, § 1º (imposição do regime inicial fechado às condenações por prática de crime hediondo), da Lei 8.072/1990 para justificar a imposição do regime mais gravoso.
+    A Segunda Câmara de Direito Criminal do Tribunal de Justiça desproveu a apelação interposta pela defesa.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 428.566/SP, o qual teve a ordem indeferida liminarmente pelo Relator.
+    Os impetrantes sustentam a existência de constrangimento ilegal em virtude da expedição de mandado de prisão em desfavor do paciente, cumprido em 10 de outubro de 2017, apontando ter respondido solto ao processo. Aduzem o direito à conversão da pena privativa de liberdade em limitadora de direitos, referindo-se à Resolução nº 5 do Senado Federal. Destacam o decidido, pelo Supremo, no habeas corpus nº 97.256 acerca da inconstitucionalidade do dispositivo da Lei nº 11.343/2006 a vedar a substituição da sanção. Realçam as condições pessoais favoráveis do paciente – primário, com bons antecedentes, ocupação lícita e família constituída.
+    Requerem, no campo precário e efêmero, o afastamento da custódia preventiva. No mérito, buscam a conversão da pena privativa de liberdade em limitadora de direitos.
+    Consulta ao sítio do Tribunal estadual, em 14 de agosto de 2018, revelou ter sido expedida guia de execução da pena em 10 de novembro de 2017. O Juízo da Primeira Vara da Comarca de Bebedouro, no processo de execução nº 0013782-06.2017.8.26.0026, deferiu o pedido de progressão do paciente para o regime aberto no último dia 26 de julho.
+    A fase é de apreciação da medida acauteladora.
+    2. Conforme veiculado, houve a preclusão maior do título condenatório, tendo sido expedida guia de execução da pena em 10 de novembro de 2017. Surge o prejuízo parcial do pedido de implemento de liminar, no que voltado ao afastamento da custódia provisória.
+    O Juízo, na sentença, mantida inalterada pelo Tribunal de Justiça, assentou favoráveis as circunstâncias judiciais, estabelecendo a pena-base no mínimo legal previsto para o tipo. Fez incidir, na fração de 2/3, a causa de diminuição da pena definida no artigo 33, § 4º, da Lei nº 11.343/2006. Tornou definitiva a sanção em 1 ano e 8 meses de reclusão.
+    Ante o quadro, não se tratando de réu reincidente, ficando a pena em patamar não superior a 4 anos e sendo positivas as circunstâncias judicias, cabia substituir a sanção privativa de liberdade por restritiva de direitos, uma vez atendidos os requisitos do artigo 44 do Código Penal.
+    3. Defiro a medida acauteladora, de ofício, para suspender, até o julgamento do mérito, a execução do título condenatório. Expeçam o alvará de soltura, a ser implementado com as cautelas próprias: caso o paciente não se encontre recolhido por motivo diverso da execução da pena imposta no processo nº 0003197-58.2011.8.26.0072, da Segunda Vara Criminal da Comarca de Bebedouro/SP. Advirtam-na da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar possível transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 14 de agosto de 2018.
+Ministro MARCO AURÉLIO
+Relator
