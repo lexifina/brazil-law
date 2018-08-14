@@ -1,0 +1,76 @@
+DECISÃO
+Trata-se de agravo interposto por UNIMED DIVINÓPOLIS COOPERATIVA DE TRABALHO MÉDICO LTDA. contra a decisão que inadmitiu o recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurgiu-se contra o acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO. PRELIMINARES DE PERDA SUPERVENIENTE DO OBJETO E CERCEAMENTO DE DEFESA. REJEIÇÃO. PLANO DE SAÚDE. RELAÇÃO DE CONSUMO. OMISSÃO. AUTORIZAÇÃO. TRATAMENTO MÉDICO. RISCO DE VIDA IMEDIATO DA PACIENTE. COBERTURA DEVIDA. DANO MORAL IN RE IPSA QUANTUM. MANUTENÇÃO DA SENTENÇA.
+1. Não há que se falar em perda superveniente do objeto da ação, devido ao falecimento da parte autora, uma vez que subsiste o interesse dos sucessores na confirmação da decisão que antecipou os efeitos da tutela determinando o custeio do tratamento médico da Autora, persistindo os efeitos financeiros decorrentes da realização do tratamento médico, bem como o direito de obter a reparação pelos danos morais sofridos pela paciente com a recusa indevida de cobertura. 2. Os contratos de plano de saúde constituem relação jurídica de natureza consumerista, razão pela qual as cláusulas do contrato devem ser interpretadas de modo mais favorável ao consumidor, parte vulnerável da relação contratual. 3. A omissão em autorizar o tratamento médico necessário para manutenção da vida da segurada caracteriza a negativa de atendimento e é abusiva, sendo o art. 35-C, da Lei 9.656/98 muito claro em estabelecer que os planos de saúde não podem negar atendimento nos casos de emergência, que importem em ri sco de vida imediato ao segurado do plano de saúde. 4. A recusa imotivada da empresa de plano de saúde em cobrir despesas de tratamento enseja a compensação por danos morais, tendo em vista o abalo psíquico profundo originado do agravamento da aflição já vivenciada pelo portador da moléstia. O dano moral, neste caso, se configura in re ipsa, isto é, prescinde de prova. 5. O quantum fixado a título de reparação de danos morais deve observar os parâmetros da proporcionalidade, razoabilidade e do bom senso, a fim de assegurar o caráter punitivo da medida e evitar o enriquecimento ilícito da parte que ofendida.
+6. Recurso conhecido e não provido" (fls. 243/244, e-STJ).
+Os embargos de declaração opostos foram parcialmente providos através do julgado que recebeu a seguinte ementa:
+"PROCESSUAL CIVIL. CIVIL. EMBARGOS DE DECLARAÇÃO. PEDIDO DE DIMINUIÇÃO DA CONDENAÇÃO. OMISSÃO. CIRURGIA DE URGÊNCIA. REDE NÃO CREDENCIADA. REEMBOLSO.
+1. Existindo vício da omissão no v. Acórdão, os embargos de declaração devem ser acolhidos para integrar o julgado e sanar o respectivo vício.
+2. É obrigatória a cobertura integral das despesas com procedimentos de urgência ou emergência, exceto quando não for possível a utilização dos serviços oferecidos na rede credenciada (art. 12, VI, Lei 9.656/98). Nessa hipótese, o reembolso é limitado ao valor da tabela de referência de preços de serviços médicos e hospitalares praticados pelo plano de saúde. Para a limitação do reembolso, contudo, a utilização dos serviços fora da rede credenciada deve ser opção do consumidor, em prestígio ao art. 51, § 1º, II, do Código de Defesa do Consumidor. Ausente a prestação do serviço pela rede credenciada, no momento em que o segurado necessitar, a obrigação contratual se considera adimplida pelo custeio integral do procedimento.
+3. Embargos de declaração parcialmente providos" (fl. 291, e-STJ).
+No recurso especial, a recorrente alega, além de divergência jurisprudencial, a violação dos seguintes dispositivos legais com as respectivas teses:
+(1) artigos 313, 314 e 687 do Código de Processo Civil de 2015 - aduzindo que a detentora do direito pleiteado na presente demanda faleceu antes da prolação da sentença e que não houve a regularização da sucessão processual, sendo nulos os atos praticados após o falecimento da parte;
+(2) art. 369 do CPC/2015 - porque teria havido cerceamento do direito de defesa pelo julgamento antecipado da lide sem a produção das provas necessárias para o deslinde do feito;
+(3) art. 12, VI, da Lei nº 9.656/1998 - afirmando que o reembolso do tratamento de saúde deve ser limitado às obrigações contratuais e
+(4) arts. 186 e 927 do Código Civil - sustentando que a mera recusa de autorização de tratamento ou o mero atraso do plano de saúde não enseja o pagamento de indenização e que não foi comprovada nos autos a existência de dano moral.
+Após a apresentação das contrarrazões (fls. 374/379, e-STJ), o recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+Preliminarmente, importante consignar que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+No que tange à alegada ausência de sucessão processual regular, consta no acórdão recorrido o seguinte:
+"(..)
+Na hipótese, não há que se falar em perda superveniente do objeto da ação, devido ao falecimento da requerente, conforme noticiado na pág. 122, id. 1847477, uma vez que há necessidade da confirmação da decisão que antecipou os efeitos da tutela determinando o custeio do tratamento médico da Autora, sendo certo que subsiste o interesse dos sucessores da parte em ver confirmada tal pleito.
+Dessa forma, não obstante tratar-se de direito personalíssimo, persistem os efeitos financeiros decorrentes da realização do tratamento médico pelo Plano de saúde, mesmo vindo a paciente/autora a óbito, já que a despesa hospitalar no período de internação pode ser imputada aos sucessores.
+(..)
+Isto porque, na pág. 224 (id. 2138380) foi determinada a habilitação dos herdeiros nos termos do art. 313, § 2º, II, do NCPC o que foi realizado conforme se vê pela documentação juntada aos autos (págs.237/240, id. 2397320) de forma que patente o interesse do prosseguimento do feito, não havendo que se falar em perda superveniente do objeto.
+(..)" (fls. 247/250, e-STJ).
+Com efeito, não há como rever a conclusão, de que houve a habilitação legal dos herdeiros da falecida na forma da lei, sem a análise de circunstâncias fático-probatórias dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+Além disso, a recorrente não impugnou o fundamento suficiente do acórdão recorrido de que persistem os efeitos financeiros do tratamento médico a serem suportado pelos sucessores, o que configura a deficiência na fundamentação a atrair a incidência da Súmula nº 283/STF.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. RESCISÃO CONTRATUAL. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. FUNDAMENTO NÃO ATACADO. SÚMULA Nº 283/STF. DISSÍDIO JURISPRUDENCIAL. DEMONSTRAÇÃO. AUSÊNCIA.
+1. (..)
+2. A teor da Súmula nº 283/STF, aplicada por analogia, não se admite recurso especial quando a decisão recorrida assenta-se em mais de um fundamento suficiente e o recurso não abrange todos eles.
+3. (..)
+4. Agravo interno não provido" (AgInt no AREsp 913.875/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/10/2016, DJe 25/10/2016).
+Quanto ao art. 369 do CPC/2015, deve ser respeitado o princípio do livre convencimento que permite que o julgador firme sua convicção à luz do acervo probatório dos autos fundamentando os motivos que levaram à condenação. Ademais, rever as conclusões da Corte local sobre a suficiência de provas e a inexistência de cerceamento de defesa demandaria o revolvimento do acervo fático-probatório dos autos, obstado no recurso especial pela Súmula nº 7/STJ.
+A propósito:
+
+""AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ARTIGO 535 DO CÓDIGO DE PROCESSO CIVIL DE 1973. VIOLAÇÃO. NÃO OCORRÊNCIA. ÔNUS DA PROVA. ARTIGO 333, INCISO I, DO CPC/1973. SÚMULA Nº 7/STJ.
+1. (..)
+2. É inviável a esta Corte a análise da suficiência das provas e da satisfação do ônus probatório das partes, haja vista a incidência do óbice da Súmula nº 7/STJ.
+3. Agravo regimental não provido"" (AgRg no AREsp 278.035/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/8/2016, DJe 25/8/2016).
+""AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO APELO EXTREMO - INSURGÊNCIA DA DEMANDADA.
+1. (..)
+2. A análise de eventual ofensa aos artigos 131 e 333 do CPC/1973, tal como posta a questão nas razões do apelo especial, exigiria novo exame de matéria fática, providência vedada nesta sede a teor do óbice previsto na Súmula 7 do Superior Tribunal de Justiça.
+3. (..)
+4. Agravo regimental desprovido" (AgRg no AREsp 422.522/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 07/03/2017, DJe 14/03/2017).
+Em relação ao art. 12, VI, da Lei nº 9.656/1998, a jurisprudência desta Corte é no sentido de que quando não for possível a utilização de serviços médicos da rede credenciada do plano de saúde em caso de urgência ou emergência, o operadora deve reembolsar as despesas realizadas pelo beneficiário nos limites efetivamente contratados.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PLANO DE SAÚDE. ATENDIMENTO DE URGÊNCIA FORA DA REDE CREDENCIADA. IMPOSSIBILIDADE DE REALIZAÇÃO DOS EXAMES E TRATAMENTOS NECESSÁRIOS NA ÁREA GEOGRÁFICA DO PLANO. DESPESAS COM ASSISTÊNCIA À SAÚDE. REEMBOLSO. LIMITAÇÃO. PREÇOS E TABELAS EFETIVAMENTE CONTRATADOS COM O PLANO DE SAÚDE.
+1. Em casos de urgência e emergência, em que não seja possível a utilização dos serviços médicos próprios, credenciados ou conveniados, a operadora do plano de saúde responsabiliza-se pelo custeio das despesas de assistência médica realizadas pelo beneficiário, mediante reembolso.
+2. O reembolso, nessas circunstâncias, é limitado aos preços e tabelas efetivamente contratados com o plano de saúde, à luz do art. 12, VI, da Lei 9.656/98, não sendo abusiva cláusula contratual que preveja tal restrição.
+3. Agravo interno a que se nega provimento" (AgInt no AgRg no REsp 1.567.310/MS, Rel. Ministro LÁZARO GUIMARÃES - DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 5/12/2017, DJe 12/12/2017).
+Na presente hipótese, determinou-se o reembolso integral das despesas médicas
+pois ao consumidor deve ser viabilizado o direito inerente ao contrato de plano de saúde, de receber o pronto atendimento nas hipóteses de emergência e urgência. Assim, na eventualidade de ausência da prestação do serviço pela rede credenciada, no momento em que a segurada necessita, a obrigação contratual se considera adimplida pelo custeio integral do procedimento.
+No caso, a própria Apelante discorre sobre os requisitos para o reembolso nos limites da rede credenciada, nos exatos termos do que aqui exposto. Contudo, não trouxe qualquer documento ou mesmo informação específica de que, no caso da paciente Autora, haveria rede credenciada pela seguradora apta a realizar o procedimento necessário e a opção do paciente em realizá-lo fora dela.
+Assim, conclui-se pelo acerto da r. sentença recorrida, que reconheceu o direito da Autora de ser integralmente ressarcida pelas despesas da cirurgia de emergência a qual se submeteu.
+(..)" (fls. 294/297, e-STJ).
+Da leitura dos trechos acima expostos, depreende-se que houve definição acerca da existência de previsão contratual limitando o reembolso pela tabela do plano de saúde, conforme alegado pelo recorrente, cuja aferição por esta Corte recai na aplicação das Súmulas nºs 5 e 7/STJ que vedam o reexame de cláusulas contratuais e do conteúdo probatório no recurso especial.
+No que tange aos arts. 186 e 927 do CC, o Tribunal de origem condenou o recorrente ao pagamento de indenização no valor de R$ 15.000,00 (quinze mil reais) porque "o caso dos autos não cuida de hipótese de mero dissabor e aborrecimento, vai mais além, haja vista a situação de extrema urgência e sofrimento pela qual estava passando a menor, que necessitava do tratamento médico para se manter viva" (fl. 254, e-STJ).
+Por certo, não há como afastar a existência de dano moral indenizável, em decorrência da demora injustificada do plano de saúde em autorizar o tratamento médico de urgência, sem a necessária revisão dos fatos e provas dos autos, procedimento inviável no recurso especial diante da incidência da Súmula nº 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO COMINATÓRIA C/C PEDIDO CONDENATÓRIO - PLANO DE SAÚDE - NEGATIVA DE COBERTURA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE RÉ.
+1. A jurisprudência do STJ é no sentido de que a recusa indevida/injustificada, pela operadora de plano de saúde, em autorizar a cobertura financeira de tratamento médico, a que esteja legal ou contratualmente obrigada, pode ensejar reparação a título de dano moral, por agravar a situação de aflição psicológica e de angústia no espírito do beneficiário.
+2. O Tribunal de origem, considerando indevida a recusa de cobertura de "exame necessário e urgente para elucidação do quadro de saúde da apelada, que estava com suspeita de câncer de mama", condenou a operadora de plano de saúde ao pagamento de indenização por dano moral, de modo que, para o acolhimento da tese da insurgente, seria imprescindível revolver a avença firmada entre as partes e os aspectos fático-probatórios dos autos, o que é vedado em sede de recurso especial pelos óbices das Súmulas 5 e 7 desta Corte Superior.
+3. O valor da reparação por danos morais estabelecido pelas instâncias ordinárias pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso.
+4. Agravo interno desprovido" (AgInt no AREsp 1.219.177/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/6/2018, DJe 26/6/2018).
+"AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. PLANO DE SAÚDE. CIRURGIA. AUTORIZAÇÃO. DEMORA INJUSTIFICADA. SITUAÇÃO DE EMERGÊNCIA. DANOS MORAIS. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 07/STJ.
+1. A elisão das conclusões do aresto impugnado, comprovando a demora na autorização do tratamento cirúrgico, bem como a situação de emergência médica, demandaria o revolvimento dos elementos de convicção dos autos, soberanamente delineados pelas instâncias ordinárias, providência vedada nesta sede especial a teor da súmula 07/STJ.
+2. AGRAVO REGIMENTAL DESPROVIDO" (AgRg no Ag 1.219.896/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 14/2/2012, DJe 17/2/2012).
+Por fim, resta consignar que a análise da divergência jurisprudencial resta prejudicada pela incidência das Súmulas nºs 5 e 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 11% (onze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
