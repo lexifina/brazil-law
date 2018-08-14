@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de ofensa aos artigos de lei apontados e (b) aplicação da Súmula n. 7/STJ (e-STJ fls. 461/462).
+O acórdão do TJSP está assim ementado (e-STJ fl. 436):
+Agravo de instrumento. Ação monitória em fase de cumprimento de sentença. Desconsideração da personalidade jurídica. Descabimento. Encerramento irregular, sem a devida "baixa" na Junta Comercial. Inocorrência. Existência de arquivamento/averbação da alteração do endereço da sede social na JUCESP. Endereço correto e atual não diligenciado. Insuficiência patrimonial da sociedade empresária, ademais, que não é o bastante para a aplicação da teoria da desconsideração. Imprescindibilidade da prova do abuso da personalidade jurídica, caracterizado pelo desvio de finalidade ou confusão patrimonial. Decisão mantida. Recurso improvido.
+Nas razões do recurso especial (e-STJ fls. 445/456), interposto com base no art. 105, III, "a", da CF, a recorrente apontou violação do art. 50 do CC/2002, afirmando que, ante a inadimplência das dívidas e do encerramento irregular de atividades perante órgãos públicos, seria cabível a desconsideração da personalidade jurídica da empresa recorrida.
+Não foram ofertadas contrarrazões (e-STJ fl. 460).
+No agravo (e-STJ fls. 464/477), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 478).
+É o relatório.
+Decido.
+O recurso especial e o agravo foram interpostos com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+O Tribunal a quo indeferiu o pedido de desconsideração da personalidade jurídica da empresa recorrida, ao assentar que não foi provado o efetivo encerramento irregular ou qualquer outro tipo de fraude ou abuso da empresa, não estando demonstrados os requisitos previstos no art. 50 do CC/2002 necessários à decretação da medida excepcional, conforme se infere do excerto abaixo (e-STJ fls. 439/440):
+Dito isto, a despeito da mal sucedida tentativa de bloqueio de ativos financeiros por meio do sistema Bacenjud, observa-se que a pesquisa junto ao sistema Infojud consultou os CPFs dos sócios (fls. 391) e não o CNPJ da sociedade executada, ou seja, ainda podem ser localizados bens da sociedade empresária. Ademais, a pesquisa ao Renajud também indicou bem móvel social passível de constrição (fls. 390).
+Em suma, apesar das diligências frustradas na localização dos bens da empresa, não ficou comprovado o seu efetivo encerramento irregular ou qualquer outro tipo de fraude ou abuso. Verifica-se que há ainda, pelo menos, um veículo automotor em seu nome passível de constrição (fls. 390), e que o fechamento ou transferência do local do estabelecimento comercial/empresarial, mormente porque informado à JUCESP, não acarreta, desde logo, a desconsideração da personalidade jurídica da sociedade empresária.
+Ultrapassar os fundamentos do acórdão impugnado, para acolher a tese de que haveria nos autos prova do encerramento irregular das atividades da recorrida, segundo alegado pela recorrente, ou dos requisitos previstos no art. 50 do CC/2002, para deferir a desconsideração da personalidade jurídica pleiteada, exigiria o reexame do acervo probatório dos autos, o que é inviável em sede de recurso especial, nos termos da Súmula n. 7/STJ. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE CUMPRIMENTO CONTRATUAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE RÉ.
+(..)
+2. A conclusão a que chegou o Tribunal local - acerca da legitimidade passiva da empresa agravante e da presença dos requisitos para desconsideração da personalidade jurídica - decorreu da análise dos elementos fáticos-probatórios acostados aos autos, cuja revisão é vedada em sede de recurso especial, ante o óbice da Súmula 7/STJ.
+3. Esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7 do STJ impede o exame do dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa o Tribunal de origem.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.338.790/RS, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/4/2018, DJe 10/5/2018.)
+A decisão da Corte local está em sintonia com o entendimento firmado pela Segunda Seção desta Corte no EREsp n. 1.306.553/SC, abaixo transcrito:
+EMBARGOS DE DIVERGÊNCIA. ARTIGO 50, DO CC. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS. ENCERRAMENTO DAS ATIVIDADES OU DISSOLUÇÃO IRREGULARES DA SOCIEDADE. INSUFICIÊNCIA. DESVIO DE FINALIDADE OU CONFUSÃO PATRIMONIAL. DOLO. NECESSIDADE.
+INTERPRETAÇÃO RESTRITIVA. ACOLHIMENTO.
+1. A criação teórica da pessoa jurídica foi avanço que permitiu o desenvolvimento da atividade econômica, ensejando a limitação dos riscos do empreendedor ao patrimônio destacado para tal fim. Abusos no uso da personalidade jurídica justificaram, em lenta evolução jurisprudencial, posteriormente incorporada ao direito positivo brasileiro, a tipificação de hipóteses em que se autoriza o levantamento do véu da personalidade jurídica para atingir o patrimônio de sócios que dela dolosamente se prevaleceram para finalidades ilícitas. Tratando-se de regra de exceção, de restrição ao princípio da autonomia patrimonial da pessoa jurídica, a interpretação que melhor se coaduna com o art. 50 do Código Civil é a que relega sua aplicação a casos extremos, em que a pessoa jurídica tenha sido instrumento para fins fraudulentos, configurado mediante o desvio da finalidade institucional ou a confusão patrimonial.
+2. O encerramento das atividades ou dissolução, ainda que irregulares, da sociedade não são causas, por si só, para a desconsideração da personalidade jurídica, nos termos do Código Civil.
+3. Embargos de divergência acolhidos.
+(EREsp n. 1.306.553/SC, Relatora Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 10/12/2014, DJe 12/12/2014.)
+Na mesma linha, seguem decidindo as Turmas da Segunda Seção do STJ. Confiram-se os precedentes:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. RESCISÃO CONTRATUAL. CUMULADA COM RESTITUIÇÃO DE VALORES. EXECUÇÃO DE SENTENÇA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. ART. 50 DO CC/02. DISSOLUÇÃO IRREGULAR E FALTA DE BENS PENHORÁVEIS. REQUISITOS LEGAIS. AUSÊNCIA. ACÓRDÃO EM CONFRONTO COM A JURISPRUDÊNCIA DOMINANTE DO STJ. APLICAÇÃO DA SÚMULA Nº 568 DO STJ. AGRAVO INTERNO NÃO PROVIDO, COM IMPOSIÇÃO DE MULTA.
+(..)
+2. A jurisprudência desta Corte firmou o entendimento de que a existência de indícios de encerramento irregular da sociedade aliada à falta de bens capazes de satisfazer o crédito exequendo não constituem motivos suficientes para a desconsideração da personalidade jurídica, porquanto se trata de medida excepcional e está subordinada à efetiva comprovação do abuso da personalidade jurídica, caracterizado pelo desvio de finalidade ou pela confusão patrimonial. Precedentes.
+4. Estando o acórdão recorrido em confronto com a jurisprudência dominante desta Corte, incide, no ponto, a Súmula nº 568 do STJ.
+(..)
+5. Agravo interno não provido, com imposição de multa.
+(AgInt no AREsp n. 1.115.877/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 5/6/2018, DJe 15/6/2018.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS AUSENTES. DISSOLUÇÃO IRREGULAR E AUSÊNCIA DE BENS PENHORÁVEIS. INSUFICIÊNCIA.
+1. Esta Corte Superior firmou seu posicionamento no sentido de que a existência de indícios de encerramento irregular da sociedade aliada à falta de bens capazes de satisfazer o crédito exequendo não constituem motivos suficientes para a desconsideração da personalidade jurídica, eis que se trata de medida excepcional e está subordinada à efetiva comprovação do abuso da personalidade jurídica, caracterizado pelo desvio de finalidade ou pela confusão patrimonial.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 402.857/RJ, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/8/2017, DJe 4/9/2017.)
+Estando a decisão impugnada em sintonia com a jurisprudência do STJ quanto ao tema, aplica-se a Súmula n. 83/STJ como óbice ao recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
