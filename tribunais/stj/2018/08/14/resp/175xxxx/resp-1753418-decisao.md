@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL com base na alínea "a" do permissivo constitucional, contra acórdão do respectivo Tribunal de Justiça, assim ementado, verbis:
+"RECURSO EM SENTIDO ESTRITO. HOMICÍDIO. INSURGÊNCIA DEFENSIVA. INDÍCIOS SUFICIENTES DA AUTORIA. CONFIRMAÇÃO DA PRONÚNCIA. EXCLUSÃO DAS QUALIFICADORAS DO MOTIVO FÚTIL E DO RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA.
+- A fundamentação da decisão de pronúncia limita-se a um juízo de admissibilidade da acusação, através da verificação de indícios suficientes de autoria e materialidade do fato, evitando-se o aprofundamento na análise da prova até então produzida, preservando-se, por conseguinte, a imparcialidade dos jurados na formação do veredicto, vigorando, assim, o princípio do in dubio pro societate nesta fase processual.
+- A prova contida nos autos autoriza a manutenção da sentença que pronunciou o acusado, inviabilizando a acolhida do pleito defensivo de despronúncia. Há relatos testemunhais indicando o réu como sendo o autor dos disparos de arma de fogo que ceifaram a vida da vítima.
+- Prescinde seja a prova judicializada (produzida sob o crivo do contraditório) para que seja possível sua utilização para fins de pronúncia. Precedente do e. STJ.
+- As provas dispostas nos autos não foram contundentes a indicar, minimamente, as qualificadoras do motivo fútil e do recurso que dificultou a defesa da vítima, as quais merecem ser expurgadas.
+RECURSO PARCIALMENTE PROVIDO. UNÂNIME" (e-STJ, fl. 540).
+O recorrente alega contrariedade ao art. 121, § 2º, II e IV, do Código Penal e aos arts. 74, § 1º e 413, caput e § 1º, do Código de Processo Penal.
+Sustenta, em síntese, que somente é dado afastar qualificadoras na fase da pronúncia quando estreme de dúvidas sua não caracterização, sob pena de usurpação da competência constitucional do Tribunal do Júri.
+Contrarrazões às fls. 582-590 (e-STJ).
+Decisão de admissão às fls. 592-601 (e-STJ).
+O Ministério Público Federal opina pelo provimento do apelo especial (e-STJ, fls. 615-617).
+É o relatório.
+Decido.
+O recurso merece ser provido.
+Em relação à possibilidade de exclusão de qualificadoras por ocasião da pronúncia (desqualificação), o acórdão impugnado, ao julgar recurso em sentido estrito da defesa, entendeu que:
+"Além disso, a defesa postula a exclusão das qualificadoras do motivo fútil e do recurso que dificultou a defesa da vítima. É importante destacar que a incidência de uma qualificadora só pode ser afastada, nesta etapa do processo, quando se mostrar manifestamente improcedente; essa é exatamente a conclusão dos autos.
+Narra a denúncia que o crime foi cometido por motivo fútil em "razão de que o ofendido teria falado mal do denunciado para familiares de sua companheira, dizendo que ele seria perigoso". Entretanto, referida causa não encontra alicerce nos autos.
+A ex-companheira do acusado, [NOME], chega a declarar na fase policial que a razão delitiva tinha relação com o fato de que a vítima "teria mexido com a mulher de um amigo dele e que também teria falado mal de Elesandro", enquanto que, ouvida em juízo, ponderou que o réu contou-lhe que cometeu o crime porque Sidnei teria lhe roubado algum dinheiro dentro do presídio. Referidas situações, além de serem apresentadas de forma diversa pela mesma informante nas oportunidades em que foi ouvida, não estão devidamente descritas na peça incoativa.
+Logo, a meu ver, pelo menos na forma como narrada na denúncia, a causa qualificativa da futilidade mostra-se manifestamente improcedente, o que evidencia a necessidade de afastamento neste momento.
+E, de igual modo, tenho que as provas dispostas nos autos também não foram contundentes a indicar, minimamente, e especialmente em razão da ausência de testemunha ocular, que "o crime foi praticado mediante recurso que impossibilitou a defesa do ofendido, tendo em vista que o agressor utilizou-se de revólver contra pessoa desarmada, disparando os tiros pelas costas e à distância".
+O simples fato de a vítima estar desarmada e ter sido atingida nas costas, à distância, não são suficientes para admitir que isso tenha lhe dificultado a defesa, posto que, pelo menos, uma das condições previstas no inciso IV, do §2º, do art. 121 do Código Penal deve estar presente (traição, emboscada, dissimulação, etc.), o que não se vê na espécie, fato que impõe o expurgo da qualificadora do recurso que dificultou a defesa do ofendido" (e-STJ, fls. 5550-551).
+Ocorre que, este Superior Tribunal de Justiça possui entendimento de que somente é cabível a exclusão de qualificadoras da pronúncia quando manifestamente improcedentes ou descabidas, assim garantindo-se a constitucional competência do Tribunal do Júri.
+Nesse sentido, confiram-se:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TENTATIVA DE HOMICÍDIO QUALIFICADO. OFENSA AO ART. 41 DO CPP. INÉPCIA DA DENÚNCIA. NÃO OCORRÊNCIA. DESCLASSIFICAÇÃO PARA O DELITO PREVISTO NO ART. 132 DO CÓDIGO PENAL. REVOLVIMENTO DE PROVAS.
+EXCLUSÃO DA QUALIFICADORA. IMPOSSIBILIDADE. COMPETÊNCIA DO CONSELHO DE SENTENÇA. AGRAVO NÃO PROVIDO.
+1. O Tribunal de origem reconheceu de forma motivada a existência de justa causa para a persecução penal, dada a presença de indícios de materialidade e autoria delitivas, com base nos elementos de informação amealhados aos autos, bem como decidiu que não há elementos suficientes para a absolvição sumária do recorrente, para infirmar tal conclusão, inclusive para acolher o pedido de desclassificação, seria necessário reexame do conjunto fático-probatório, o que não se admite nesta via especial, a teor do que dispõe a Súmula 7/STJ.
+2. "Não se pode afastar uma qualificadora por mera opção hermenêutica, de modo que o julgador somente pode retirar da pronúncia a qualificadora que, objetivamente, inexista, mas não a que, subjetivamente, julgar não existir. Em outros termos, não se pode subtrair da apreciação do Conselho de Sentença uma circunstância que, numa análise objetiva, mostra-se viável, ao menos em tese." (REsp 1.547.658/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/11/2015, DJe 07/12/2015).
+3. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 550.145/PE, de minha relatoria, QUINTA TURMA, julgado em 12/12/2017, DJe 19/12/2017.)
+"PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. DECISÃO DE PRONÚNCIA. RECURSO EM SENTIDO ESTRITO. EXCLUSÃO DE QUALIFICADORAS. COMPETÊNCIA DO TRIBUNAL DO JÚRI. PRECEDENTES. SÚMULA N. 568/STJ. DECISÃO MANTIDA. I - Esta Corte Superior de Justiça possui entendimento consolidado no sentido de que, após a prolação da decisão de pronúncia, a exclusão de qualificadoras só é admissível quando manifestamente improcedentes, situação que não se verifica, in casu.
+II - Em respeito ao princípio do juiz natural, por imperativo legal, compete ao Tribunal do Júri, por meio do Conselho de Sentença, a verificação da ocorrência ou não das qualificadoras. Precedentes.
+Agravo regimental não provido."
+(AgRg no AREsp 1158246/MS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 28/11/2017, DJe 04/12/2017.)
+"PENAL. CRIME DOLOSO CONTRA A VIDA. QUALIFICADORAS ACEITAS NA SENTENÇA DE PRONÚNCIA. RECURSO EM SENTIDO ESTRITO PARCIALMENTE PROVIDO. EXCLUSÃO DA QUALIFICADORA DO RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA. IMPOSSIBILIDADE. DÚVIDAS. COMPETÊNCIA EXCLUSIVA DO CONSELHO DE SENTENÇA. RECURSO PROVIDO.
+1. Compete ao Tribunal do Júri, conforme disposto na Constituição da República, o julgamento dos crimes dolosos contra a vida e todas as suas circunstâncias.
+2. Na espécie, tendo o juiz singular pronunciado os réus pelo crime de homicídio qualificado (art. 121, § 2º, II, III e IV, do CP), não cabe ao Tribunal a quo afastar a qualificadora do meio que impossibilitou a defesa da vítima sob o fundamento de que a mera superioridade numérica daqueles em relação à vítima não constitui motivo suficiente para incidir a majorante, pois, havendo dúvidas acerca da existência de tal qualificadora, a questão deve ser submetida ao conselho de sentença.
+3. Recurso especial a que se dá provimento a fim de restabelecer a sentença de pronúncia."
+(REsp 1102422/DF, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 14/09/2010, DJe 04/10/2010.)
+Ora, surgindo quaisquer dúvidas acerca da existência da qualificadora, a questão deve ser levada ao Conselho de Sentença que possui a competência para o julgamento dos crimes dolosos contra a vida.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento ao recurso especial para restabelecer a decisão de pronúncia.
+Publique-se. Intimem-se.
