@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial interposto por MARIA DE FATIMA LISBOA DOS SANTOS, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão assim ementado:
+SISTEMA FINANCEIRO DA HABITAÇÃO. CEF. COOPERATIVA. CONSTRUTORA. REVISÃO DE PRESTAÇÕES. PLANO DE EQUIVALÊNCIA SALARIAL. SISTEMA GRADIENTE. VÍCIOS NA CONSTRUÇÃO.
+- Apelação interposta pela CEF e pela parte autora, objetivando a reforma da sentença de 1º grau que julgou parcialmente procedente o pedido autoral, nos autos da ação ordinária versado sobre revisão de contrato de financiamento habitacional e saldo devedor, por irregularidades na construção das unidades habitacionais.
+- No que se refere à utilização da TR para correção mensal do mútuo hipotecário, o eg. Supremo Tribunal Federal já se manifestou por sua inaplicabilidade apenas nos contratos existentes antes da Lei 8.177/91, em razão do direito adquirido, inexistindo, no entanto, impedimento para aplicação desse indexador em contratos celebrados após o advento da referida norma legal.
+- A aplicação do sistema gradiente não implica em desrespeito ao PES.
+- Extinto o processo sem julgamento do mérito, em relação à autora MARIA CRISTINA RAPOSO, por falta de regularização postulatória.
+- Recurso da CEF provido, para julgar improcedente o pedido autoral. Desprovido o recurso dos autores. Honorários advocatícios pelos autores no valor de 5% sobre o valor da causa (fls. 715/716).
+No recurso especial, a recorrente aponta ofensa aos arts. 2º da Lei 8.692/93; 2º, 3º, 4º, 6º, III, IV, V e VIII, 39, V, 46, 47 51, IV, X e XIII, do CDC e 4º do Decreto 22.626/33, insurgindo-se, segundo se depreende das razões recursais, contra a adoção do sistema de amortização em gradiente, o qual tornaria excessivamente oneroso o contrato. Alega que "o Plano PES/CP, juntamente com a SÉRIE EM GRADIENTE e a TABELA PRICE, na verdade capitalizam juros excessivos, inviabilizando assim o seu cumprimento" (fl. 731). Discorre sobre dispositivos do CDC e sustenta violação de princípios (boa-fé objetiva, transparência, informação etc.).
+Contrarrazões às fls. 832/837.
+É o relatório. Passo a decidir.
+Em recurso especial, sob pena de ser inadmitido o inconformismo, a parte tem que apresentar, de modo inequívoco, os dispositivos violados, bem como os argumentos, com a finalidade de demonstrar, com clareza, a ofensa praticada pelo acórdão impugnado. As razões recursais devem desenvolver argumentação capaz de refutar a fundamentação do acórdão recorrido. Nesse sentido: EDcl no AREsp 374.221/MS, DJe, 11.11.2014; AgInt no AREsp 912.372/BA, DJe, 7.12.2016.
+Na espécie, a despeito de mencionar dispositivos legais, a parte recorrente não desenvolveu argumentação que evidenciasse a alegada ofensa, circunstância que atrai a incidência da Súmula 284/STF, segundo a qual é "inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia."
+Ainda que assim não fosse, eventual reforma no acórdão recorrido, de modo a concluir pela existência de abusividade nas cláusulas contratuais, demandaria reexame de matéria fática, inviável em recurso especial (Súmulas 5 e 7/STJ).
+Ante o exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
