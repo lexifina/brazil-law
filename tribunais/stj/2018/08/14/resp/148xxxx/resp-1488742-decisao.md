@@ -1,0 +1,24 @@
+DECISÃO
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. CONCESSÃO. INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL DO INSS A QUE SE NEGA PROVIMENTO.
+1. Trata-se de Recurso Especial interposto com fundamento na alínea a do art. 105, III da Constituição Federal, objetivando a reforma do acórdão do Tribunal Regional Federal da 4a. Região, assim ementado:
+AGRAVO EM AGRAVO DE INSTRUMENTO. DECISÃO QUE DEU PROVIMENTO AO RECURSO. CONCESSÃO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA. LEI Nº 1060/50.
+Para a concessão da assistência judiciária gratuita, basta que a parte declare não possuir condições de arcar com as despesas do processo sem prejuízo do próprio sustento ou de sua família, cabendo à parte contrária o ônus de elidir a presunção de veracidade daí surgida - art. 4º da Lei nº 1060/50.
+2. Em seu Apelo Especial, sustenta o recorrente, além de dissídio jurisprudencial, que viola o princípio da defesa e do contraditório o deferimento de Justiça Gratuita sem ouvir a Autarquia anteriormente.
+3. É o relatório. Decido.
+4. Não houve infringência ao art. 535 do CPC, na medida em que o Tribunal a quo apreciou, fundamentadamente, a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se que, malgrado não ter a Corte de origem acolhido os argumentos suscitados pelo recorrente, manifestou-se expressamente acerca dos temas necessários à integral solução da lide. Afora isso, julgamento diverso do pretendido, como na espécie, não implica ofensa às normas ora invocadas.
+6. Esta Corte firmou entendimento de que é admitido ao juiz, quando tiver fundadas razões, indeferir pedido de assistência judiciária gratuita, não obstante declaração da parte de que a situação econômica não lhe possibilita pagar as custas do processo e os honorários de advogado, sem prejuízo do sustento próprio ou da família (Lei 1.060/50) (AgRg no REsp. 785.043/SP, Rel. Min. HÉLIO QUAGLIA BARBOSA, DJU 4.6.2007).
+7. Na presente hipótese, a assistência judiciária foi deferida por entenderem as instâncias ordinárias, com apoio no acervo probatório carreado aos autos, que o postulante faz jus à gratuidade por possuir situação financeira incompatível com os gastos processuais. Desta forma, a adoção de entendimento diverso por este Superior Tribunal implicaria reexame de provas, o que é vedado em Recurso Especial. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA. ENTIDADE FILANTRÓPICA. SÚMULA 481/STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. DECISÃO MANTIDA.
+1. Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais (Súmula 481/STJ).
+2. No caso, o Tribunal de origem, analisando os fatos e as provas dos autos, entendeu que a recorrente não comprovou sua incapacidade de custear as despesas processuais. Rever essa conclusão demandaria o reexame do conjunto fático-probatório dos autos, o que não se admite no âmbito desta Corte, a teor da Súmula 7/STJ.
+3. Agravo interno a que se nega provimento (AgInt no REsp. 1.385.668/SP, Rel. Min. ANTONIO CARLOS FERREIRA, DJe 25.4.2017).
+
+PROCESSUAL CIVIL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. POSSIBILIDADE DE CONCESSÃO PARA PESSOA JURÍDICA. NECESSIDADE DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. MATÉRIA PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Com efeito, a Corte Especial firmou compreensão segundo a qual, independentemente do fato de se tratar de pessoa jurídica com ou sem fins lucrativos, a concessão do benefício da assistência judiciária apresenta-se condicionada à efetiva demonstração da impossibilidade de a parte requerente arcar com os encargos processuais.
+2. Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais (Súmula 481/STJ).
+3. In casu, o Tribunal local, na análise soberana dos fatos e provas, concluiu que a empresa ora recorrente não comprovou que não possui condições de arcar com as custas do processo.
+4. É inviável analisar a tese defendida no Recurso Especial, a qual busca afastar as premissas fáticas estabelecidas pelo acórdão recorrido, pois inarredável a revisão do conjunto probatório dos autos. Aplica-se o óbice da Súmula 7/STJ.
+5. Recurso Especial não conhecido (REsp. 1.668.097/SP, Rel. Min. HERMAN BENJAMIN, DJe 13.9.2017).
+8. Cabe destacar que a impugnação à justiça gratuita é feita em autos apartados e não suspende o processo principal, podendo a Autarquia lançar mão de tal remédio processual em qualquer fase dos autos.
+9. Ante o exposto, nega-se provimento ao Recurso Especial do INSS.
+10. Publique-se. Intimações necessárias.
