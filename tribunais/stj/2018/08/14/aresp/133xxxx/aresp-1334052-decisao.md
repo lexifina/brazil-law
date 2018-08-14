@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude de: (a) ausência de violação do art. 489, § 1º, do CPC/2015, (b) falta de demonstração da afronta aos demais dispositivos legais arrolados e (c) incidência da Súmula n. 7/STJ (e-STJ fls. 499/500).
+O acórdão recorrido está assim ementado (e-STJ fl. 431):
+AGRAVO DE INSTRUMENTO Execução Bem de família Decisão hostilizada que reconheceu a impenhorabilidade do imóvel locado - Possibilidade de reconhecimento da impenhorabilidade - Executada comprovou que os respectivos frutos da locação revertem em prol da moradia de sua família em outro bem por ela alugado Precedentes Súmula 486 do Superior Tribunal de Justiça Inexistência das exceções previstas no art. 3º da Lei n. 8.009/90 - Decisão mantida - Recurso desprovido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 443/448).
+Nas razões do recurso especial (e-STJ fls. 451/469), interposto com fundamento no art. 105, III, "a", da CF, a recorrente alegou ofensa ao art. 489, § 1º, IV e VI, do CPC/2015. Argumentou que o Tribunal de origem não teria se manifestado expressamente a respeito da alegação de que "o casal "tinha plenas condições financeiras de arcar com a locação independentemente do valor da locação do imóvel localizado em São Paulo"" (e-STJ fls. 466/467).
+Sustentou, ainda, contrariedade aos arts. 1º da Lei n. 8.009/1990, 373, I, e 789 do CPC/2015 e 884 do CC/2002. Defendeu que deveria ter sido efetuada a penhora do imóvel indicado, uma vez que, "considerando o vultoso patrimônio familiar, sem prejuízo da possibilidade de sua alteração, não há prova efetiva de que a locação seja revertida para a subsistência ou a moradia da família" (e-STJ fl. 465).
+No agravo (e-STJ fls. 503/517), afirma a presença de todos os requisitos de admissibilidade do especial.
+A recorrida apresentou contraminuta (e-STJ fls. 520/544).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+O Tribunal de origem concluiu que a impenhorabilidade decorrente da Lei n. 8.009/1990 se estende "ao único imóvel do devedor que esteja locado, desde que a renda proveniente da locação seja revertida para a subsistência ou moradia, em outro local, do seu núcleo familiar" (e-STJ fl. 433).
+Tal entendimento está em consonância com a jurisprudência do STJ, para a qual "é impenhorável o único imóvel residencial do devedor que esteja locado a terceiros, desde que a renda obtida com a locação seja revertida para a subsistência ou a moradia da sua família" (Súmula 486, CORTE ESPECIAL, julgado em 28/6/2012, DJe de 1º/8/2012). Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LOCAÇÃO. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE DO BEM DE FAMÍLIA. PENHORA DE ALUGUÉIS. POSSIBILIDADE. ALTERAÇÃO DO ENTENDIMENTO. SÚMULA 7 DO STJ. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, consolidada na Súmula 486, "é impenhorável o único imóvel residencial do devedor que esteja locado a terceiros, desde que a renda obtida com a locação seja revertida para a subsistência ou a moradia da sua família".
+2. No caso, o Tribunal a quo asseverou que não ficou demonstrado que os alugueres referentes a locação do imóvel se revertem para a subsistência ou moradia da família, motivo pelo qual é possível a penhora dos locativos.
+3. A reforma do julgado, para acolher a tese de que os valores auferidos com o aluguel seriam imprescindíveis ao sustento familiar, demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, nos termos da Súmula 7/STJ. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AgInt no AREsp 1030557/RS, Relator Ministro LÁZARO GUIMARÃES  DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO , QUARTA TURMA, julgado em 16/11/2017, DJe 22/11/2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO. ALEGAÇÃO DE IMPENHORABILIDADE DE BEM DE FAMÍLIA. NÃO DEMONSTRAÇÃO. REEXAME DE MATÉRIA PROBATÓRIA. NECESSIDADE. INCIDÊNCIA DA SÚMULA 7 DO STJ. PRECEDENTE. AGRAVO IMPROVIDO.
+1. Esta Corte Superior tem jurisprudência consolidada no sentido de que "é impenhorável o único imóvel residencial do devedor que esteja locado a terceiros, desde que a renda obtida com a locação seja revertida para a subsistência ou a moradia da sua família" (Súmula 486, CORTE ESPECIAL, julgado em 28/06/2012, DJe de 1º/08/2012).
+2. Tendo o eg. Tribunal de origem concluído que não ficou comprovado, após intimação para tanto, que o imóvel constitui bem de família ou que o agravante utilize efetivamente a renda do imóvel locado para o sustento de suas filhas, a alteração de tal entendimento é obstada pela Súmula 7 desta Corte, pois demandaria o reexame do conjunto fático-probatório.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 617.851/SP, Relator Ministro LÁZARO GUIMARÃES - DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO -, QUARTA TURMA, julgado em 19/10/2017, DJe 25/10/2017.)
+Incide, portanto, a Súmula n. 83/STJ, que se aplica como óbice tanto aos recursos interpostos com base na alínea "c", quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+Ademais, seria necessário o reexame do contexto fático-probatório dos autos, o que é vedado pela Súmula n. 7/STJ, para afastar a conclusão da Corte local de que "há prova de que os frutos recebidos a título de aluguel servem para pagamento da atual moradia da família da agravante" (e-STJ fl. 434). A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRECLUSÃO. INEXISTÊNCIA. BEM DE FAMÍLIA. IMPENHORABILIDADE. IMÓVEL LOCADO A TERCEIROS. POSSIBILIDADE. PRECEDENTES. REEXAME DE MATÉRIA FÁTICA.
+INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. Não há falar em preclusão se o executado se insurgiu na primeira oportunidade em que teve ciência da penhora, sem, todavia, obter manifestação a respeito da sua irresignação.
+2. Nos termos da Súmula nº 486/STJ, a impenhorabilidade do bem de família, prevista no art.
+1º da Lei n.º 8.009/1990, estende-se ao único imóvel do devedor, ainda que este se encontre locado a terceiros, por gerar frutos que possibilitam à família constituir moradia em outro bem alugado ou mesmo para garantir a sua subsistência.
+3. O acolhimento da pretensão recursal, nos termos em que posta, demandaria reexame de matéria fática, o que é inviável em recurso especial (Súmula nº 7/STJ).
+4. Agravo interno não provido.
+(AgInt no AREsp 1058369/RS, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 03/08/2017, DJe 18/08/2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO FALIMENTAR.
+ARRECADAÇÃO E ALIENAÇÃO DE BEM DE EX-SÓCIO CONTRA QUEM SE DECRETOU A INDISPONIBILIDADE DE SEUS BENS. 1. ALEGAÇÃO DE IMPENHORABILIDADE DE BEM DE FAMÍLIA. TRIBUNAL DE ORIGEM QUE, COM ESTEIO NOS ELEMENTOS FÁTICO-PROBATÓRIOS REUNIDOS NOS AUTOS, CONCLUIU PELA NÃO CARACTERIZAÇÃO DO BEM DE FAMÍLIA, CUJA DESTINAÇÃO ECONÔMICA PARA A MORADIA OU SUBSISTÊNCIA SUA E DE SUA FAMÍLIA NÃO RESTOU COMPROVADA. ALTERAÇÃO. IMPOSSIBILIDADE. ENUNCIADO N. 7 DA SÚMULA DO STJ. APLICAÇÃO. ENUNCIADO N. 486 DO STJ. NÃO INCIDÊNCIA. 2. A INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ OBSTA, POR CONSECTÁRIO LÓGICO, O EXAME DO ALEGADO DISSÍDIO JURISPRUDENCIAL. PRECEDENTES. 3. AGRAVO INTERNO IMPROVIDO.
+1. O Tribunal de origem, com esteio no acervo probatório, foi contundente ao assentar que o ora insurgente não logrou êxito em comprovar a destinação econômica do imóvel constrito, para a reversão da renda obtida com a subsistência do devedor ou com moradia de sua família, o que torna inaplicável à hipótese dos autos o enunciado n. 486 do STJ, in verbis: "É impenhorável o único imóvel residencial do devedor que esteja locado a terceiros, desde que a renda obtida com a locação seja revertida para a subsistência ou a moradia da sua família."
+1.1 A argumentação expendida no recurso especial, consistente na caracterização de bem de família, em contrariedade ao que assentaram as instâncias precedentes, com base justamente nos elementos fáticos-probatórios reunidos nos autos, enseja a alteração da moldura fática delineada pelo Tribunal de origem, providência vedada nos termos do enunciado n. 7 da Súmula do STJ.
+2. Conforme dispõe a uníssona jurisprudência desta Corte de Justiça, a incidência do enunciado n. 7 da Súmula do STJ obsta o exame do alegado dissídio jurisprudencial, notadamente porque o confronto entre o aresto paradigma e o acórdão recorrido, que naturalmente reclama a consideração sobre a situação fática própria de cada julgamento, em tal circunstância, resta impossibilitado.
+3. Agravo interno improvido.
+(AgInt nos EDcl no AREsp 957.930/RS, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 21/02/2017, DJe 07/03/2017.)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. IMPENHORABILIDADE. IMÓVEL LOCADO. BEM DE FAMÍLIA. CARACTERIZAÇÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA STJ/7. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+1.- Esta Corte possui entendimento firmado no sentido de que o fato de a entidade familiar não utilizar o único imóvel como residência não o descaracteriza automaticamente como bem de família, sendo suficiente à proteção legal que seja utilizado em proveito da família, como a locação para garantir a subsistência da entidade familiar. Precedentes.
+2.- No que tange à caracterização do imóvel em questão como bem de família, os argumentos utilizados para fundamentar a pretensa violação legal somente poderiam ter sua procedência verificada mediante o reexame de provas, não cabendo a esta Corte, a fim de alcançar conclusão diversa da estampada no Acórdão recorrido, reavaliar o conjunto probatório. Súmula 7 desta Corte.
+3.- O agravante não trouxe nenhum argumento capaz de modificar a conclusão do julgado, a qual se mantém por seus próprios fundamentos.
+4.- Agravo Regimental improvido.
+(AgRg no AREsp 314.026/SC, Relator Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 13/08/2013, DJe 04/09/2013.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
