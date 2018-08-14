@@ -1,0 +1,56 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. SUPOSTA OFENSA AOS ARTS. 11, 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. TRIBUTÁRIO. EXECUÇÃO FISCAL. DESCUMPRIMENTO DE ORDEM JUDICIAL. DISCUSSÃO SOBRE A CARACTERIZAÇÃO DE ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. ALEGAÇÃO DE QUE AS MULTAS COMINADAS NÃO OBSERVARAM OS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. AFIRMADA EXIGUIDADE DO PRAZO PARA TRANSFERÊNCIA DE VALORES BLOQUEADOS VIA BACENJUD. QUESTÕES ATRELADAS AO REEXAME DE MATÉRIA DE FATO.
+1. Não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa aos arts. 11, 489 e 1.022 do CPC/2015.
+2. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+3. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)."
+Os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, a Sra. Ministra Assusete Magalhães.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno (fls. 281/293) apresentado contra decisão monocrática sintetizada na seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. SUPOSTA OFENSA AOS ARTS. 11, 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. TRIBUTÁRIO. EXECUÇÃO FISCAL. DESCUMPRIMENTO DE ORDEM JUDICIAL. ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. ALEGAÇÃO DE QUE AS MULTAS COMINADAS NÃO OBSERVARAM OS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. AFIRMADA EXIGUIDADE DO PRAZO DE EXECUÇÃO. QUESTÕES ATRELADAS AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA PARTE, NEGAR-LHE PROVIMENTO.
+O agravante alega, em síntese, o seguinte: a) "o e. Tribunal estadual, ao julgar o agravo interno interposto pela agravante, limitou-se a reprisar os fundamentos da decisão monocrática agravada, sem analisar os fundamentos imprescindíveis à sua reforma", o que configura "negativa de supressão das omissões" apontadas e violação ao disposto nos arts. 11, 1.022, II, e 489, II e III, do CPC/2015 (fl. 284); b) "a primeira razão pela qual não se pode aplicar o mencionado óbice contido na Súmula n. 7/STJ, está intimamente ligada ao fato de que se a matéria fática tivesse sido completamente apreciada pelo Tribunal a quo, todos os fatos constariam nos acórdãos e a análise dos argumentos traduzidos no recurso de estrito direito não ensejariam o reexame de fatos e provas" (fl. 289); c) "mesmo que assim não fosse, há elementos hábeis no acórdão recorrido para formar o convencimento de Vossas Excelências quanto à matéria em análise, sem que isso implique reexame de prova e fatos" (fl. 290); e d) "caberá a essa Corte Superior tão somente a análise das seguintes questões, cujos aspectos que foram expressamente consignados no acórdão recorrido: i) do cabimento de aplicação da multa por ato atentatório à dignidade da justiça, na proporção de 20% (vinte por cento), em razão da não transferência de valores bloqueados via BACENJUD; e ii) a razoabilidade do valor arbitrado a título de multa, na quantia de R$ 5.000,00 (cinco mil reais) por dia" (fl. 290).
+Requer seja provido o recurso.
+O agravado pleiteia a manutenção da decisão agravada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. SUPOSTA OFENSA AOS ARTS. 11, 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. TRIBUTÁRIO. EXECUÇÃO FISCAL. DESCUMPRIMENTO DE ORDEM JUDICIAL. DISCUSSÃO SOBRE A CARACTERIZAÇÃO DE ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. ALEGAÇÃO DE QUE AS MULTAS COMINADAS NÃO OBSERVARAM OS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. AFIRMADA EXIGUIDADE DO PRAZO PARA TRANSFERÊNCIA DE VALORES BLOQUEADOS VIA BACENJUD. QUESTÕES ATRELADAS AO REEXAME DE MATÉRIA DE FATO.
+1. Não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa aos arts. 11, 489 e 1.022 do CPC/2015.
+2. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Em que pese o arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+Com efeito, depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou das questões suscitadas, resolvendo de modo integral a controvérsia posta.
+Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Assim, não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa aos arts. 11, 489 e 1.022 do CPC/2015.
+De outra parte, verifica-se que o Tribunal de origem manteve o decisum de primeiro grau no tocante à multa de 20% (vinte por cento), por ato atentatório à dignidade da justiça, e a majoração da multa cominatória diária (astreintes) para R$ 5.000,00 (cinco mil reais) (na hipótese de descumprimento da ordem de transferência de valores bloqueados via BACENJUD nos autos de execução fiscal nº 0023923-81.2006.8.24.0008).
+O agravante defende a tese segundo a qual a referida multa cominatória diária não restou fixada de forma razoável e proporcional, sendo, em seu entender, excessiva, e que o prazo que lhe foi concedido, para transferência dos valores determinada pelo juízo, mostrou-se exíguo.
+A propósito, constou do aresto impugnado o seguinte (fl. 88):
+"Quanto à multa diária, elevada para R$ 5.000,00, por certo que razoável e proporcional, diante do poderio econômico do executado e de sua recalcitrância.
+A dificuldade da instituição bancária em realizar a transferência de valores para subconta judicial, bem demonstra a sua total desconsideração aos provimentos judiciais. Ora, se não consegue, por força de burocracia, promover a transferência do dinheiro no prazo dilatado de 5 dias, atuando num ramo de ampla competitividade, é porque simplesmente não quis atender ao juízo; caso contrário, seria admitir incompetência ampla, o que não deve ser o caso, pela reconhecida força financeira.
+A multa por ato atentatório à dignidade da Justiça, por esse breve relato, já aparece como medida indispensável, demonstrada a resistência injustificada, senão deboche, ao cumprimento das ordens judiciais. Ademais, diversamente do que sustenta, a legislação processual (art. 600 do CPC) não exige a prévia advertência da parte para imposição da multa respectiva.
+Quanto ao percentual da multa, deve ser mantida em sua expressão, seja pela mora e pouco caso no cumprimento da decisão judicial, como pela capacidade econômica que singulariza o agravante."
+Com efeito, acolher a pretensão recursal, para efeito de analisar se as astreintes aplicadas "guardam equidade/congruência e adequação com a situação fática dos autos", como defende o agravante à fl. 116 para o fim de excluí-las ou reduzi-las, ou se o prazo para cumprimento da obrigação revelou-se exíguo, importa incursão no acervo fático-probatório, providência inviável em sede de recurso especial em razão do óbice contido na Súmula 7/STJ.
+A corroborar esse entendimento, confira-se:
+ADMINISTRATIVO. OBRAS PARA RESTAURAÇÃO. RAZOABILIDADE DO PRAZO IMPOSTO. SUPOSTA AUSÊNCIA DE RESPONSABILIDADE DA RECORRENTE PARA FINS DE IMPOSIÇÃO DE ASTREINTES. TEMAS QUE PRESSUPÕEM O REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE DE EXAME NA VIA ELEITA. INCIDÊNCIA DA SÚMULA 7/STJ. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO INTERNO DA UFRJ DESPROVIDO.
+1. No tocante à alegação de exorbitância do valor da multa diária e desproporção do prazo fixado para o cumprimento da obrigação, deve-se deixar claro que a decisão agravada fundou-se nas conclusões do juízo de piso, o qual determinou que a recuperação do imóvel teria o prazo de 120 dias para a elaboração do projeto e 12 meses para a execução, sob pena de multa cominatória diária no valor de R$ 1.500,00.
+2. A revisão desses critérios, salvo situações evidentemente desproporcionais, o que não é o caso dos autos, encontra óbice na Súmula 7/STJ, dada a inviabilidade de reexame de matéria fático-probatória nesta seara.
+3. Acresce-se, ainda, que, na espécie, a temática relativa à proporcionalidade da multa e razoabilidade do prazo de execução não foi objeto de exame pela Corte de origem, apesar da oposição dos Aclaratórios, revelando a falta de prequestionamento, ensejando a incidência do óbice da Súmula 211/STJ.
+4. Agravo Interno da UNIVERSIDADE FEDERAL DO RIO DE JANEIRO desprovido.
+(AgInt no REsp 1390638/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 28/11/2017, DJe 07/12/2017) (grifou-se)
+Outrossim, o mesmo óbice sumular impede a revisão das premissas fáticas assentadas pela Corte a quo no tocante à caracterização do ato atentatório à dignidade da justiça para efeito de eximir o agravante da multa cominada em seu desfavor (ou mesmo para reduzi-la).
+Nesse sentido, destaca-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. APLICAÇÃO DA MULTA. AFASTAMENTO. INCIDÊNCIA DA SÚMULA 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO DESPROVIDO.
+1. O Tribunal de origem firmou o entendimento de que o agravante, injustificadamente, resistiu ao cumprimento das ordens judiciais, deixando de apresentar extratos bancários ou informação da inexistência da conta no período discutido na ação, configurando o ato atentatório à dignidade da Justiça previsto no art. 600, III, do CPC.
+2. Perquirir a efetiva ocorrência ou não, para o fim de afastar a multa aplicada com base no art. 601 do CPC, demandaria, na hipótese dos autos, o revolvimento do material fático-probatório, o que é defeso em sede de recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 765.650/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/11/2015, DJe 10/12/2015) (grifou-se)
+Assim, não merece reparo a decisão agravada.
+Diante do exposto, nego provimento ao agravo interno.
+É o voto.
