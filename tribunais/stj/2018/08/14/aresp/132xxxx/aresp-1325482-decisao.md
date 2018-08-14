@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que inadmitiu o recurso especial. O apelo extremo, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"SEGURO DE VIDA E ACIDENTES PESSOAIS - PRESCRIÇÃO - INOCORRÊNCIA - Ação de cobrança de indenização securitária - Cobertura contratual para invalidez total por doença e invalidez parcial ou total por acidente - Prescrição ânua Prazo de um ano contado da negativa da Seguradora - Ação ajuizada antes do decurso de um ano da negativa - Prejudicial reconhecida pela r. sentença que fica afastada, acarretando o julgamento do restante do mérito por este Tribunal.
+SEGURO DE VIDA E ACIDENTES PESSOAIS - Ação de cobrança de indenização por invalidez parcial e permanente - Autor acometido de lesões no punho, mão e pulso (LER/[NOME]), caracterizando invalidez parcial e permanente - Ausência de cobertura para casos de doença profissional - Risco excluído e, portanto, não coberto - Ajuste que só prevê indenização para invalidez parcial ou total decorrente de acidente pessoal ou total decorrente de doença - Interpretação do contrato que deve ser restritiva, e não ampliativa, não havendo como se exigir o pagamento de indenização sobre riscos excluídos do ajuste - Perícia judicial que apura incapacidade parcial e permanente por doença profissional do autor - Improcedência da ação, com fulcro no art. 487, I, do CPC - Diante das peculiaridades do caso concreto, majoro os honorários advocatícios sucumbenciais de R$ 1.000,00 para R$ 1.500,00, nos termos do art. 85, §§ 1º, 2º e 11º, do novo CPC - Recurso parcialmente provido, somente para afastar a prescrição, julgando-se a ação improcedente" (e-STJ fls. 286/287).
+Opostos embargos de declaração (e-STJ fls. 301/302), foram acolhidos nos termos do seguinte acórdão:
+"EMBARGOS DE DECLARAÇÃO APELAÇÃO SEGURO DE VIDA Alegação de que o Acórdão proferido pela Turma Julgadora padece de omissão Existência de omissão no aresto, na medida em que menciona a existência de cláusula contratual prevendo exclusão de doenças profissionais, quando na verdade o ajuste securitária não contém tal dispositivo Embargos parcialmente acolhidos, para sanar a omissão, mantidas as conclusões do V. Acórdão" (e-STJ fl. 310).
+Nas razões do especial, alega o recorrente, além de dissídio jurisprudencial, violação dos artigos 757e 760 do Código Civil.
+Aduz que o contrato de seguro não conceitua acidente pessoal, nem exclui expressamente as doenças laborais e do trabalho.
+Apresentadas as contrarrazãoes (e-STJ fls. 393/402), o recurso foi inadmitido na origem, advindo o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial inadmitido foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+No que se refere à indenização securitária, a Corte estadual, ao concluir ser esta indevida, além de analisar as cláusulas contratuais, incursionou detalhadamente na apreciação do conjunto fático-probatório, conforme se extrai da leitura do voto condutor, merecendo destaque o seguinte trecho:
+"(..) como se nota, as coberturas contratadas são: morte natural, morte acidental, invalidez permanente por acidente e invalidez funcional permanente total por doença.
+O mal que acomete o autor não pode ser conceituado como acidente pessoal, visto que se trata de [NOME], vale dizer, lesões por esforço repetitivo, as quais se desencadeiam ao longo de anos. Como constou do aresto, "não houve acidente de trabalho típico, com evento inesperado com data e hora de ocorrência. As lesões tiveram origem ao longo dos anos pelo esforço realizado, sendo doenças crônico degenerativas" (fls. 294/ 295).
+(..)
+Dessa forma, o autor não se enquadra na cobertura de invalidez permanente por acidente.
+Quanto à invalidez funcional permanente total por doença, tampouco faz jus o demandante à indenização, posto que, como dito no V. Acórdão, "realizada perícia oficial médica no autor, pelo IMESC, ficou constatado que a invalidez permanente do autor é parcial, não sendo reconhecida pela perícia a incapacidade total do demandante para as suas atividades diárias, mas a incapacidade parcial para as suas atividades laborativas" (fls. 295)" (e-STJ fls. 313/314).
+Desse modo, assim como posta a matéria, a verificação da procedência dos argumentos expendidos no recurso obstado exigiria por parte desta Corte o reexame de matéria fática bem como a reanálise de cláusulas contratuais, procedimentos vedados na estreita via do recurso especial, consoante entendimento das Súmulas nºs 5 e 7/STJ.
+Ademais, não cabe ao Superior Tribunal de Justiça reexaminar as premissas de fato que levaram o tribunal de origem a tal conclusão, sob pena de usurpar a competência das instâncias ordinárias, a quem compete amplo juízo de cognição da lide.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO DE SAÚDE E/OU ACIDENTES PESSOAIS. APÓLICE EM GRUPO. AÇÃO DE COBRANÇA DE INDENIZAÇÃO. ARGUIÇÃO DE QUE A DOENÇA DO TRABALHO É EQUIPARADA AO ACIDENTE DE TRABALHO PARA EFEITOS DE INDENIZAÇÃO SECURITÁRIA. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO DESPROVIDO.
+1. A revisão da conclusão a que chegou o Tribunal de origem, de que a incapacidade laboral parcial se deu por doença ocupacional não coberta pela apólice, esbarra no óbice das Súmulas 5 e 7/STJ .
+2. Razões recursais insuficientes para a revisão do julgado.
+3. Agravo interno desprovido" (AgInt no AREsp 1.007.809/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 9/3/2017, DJe 21/03/2017).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 1.000,00 (um mil reais) e aumentados em 500,00 (quinhentos reais) pelo Tribunal de origem, os quais devem ser majorados para o patamar de 2.000,00 (dois mil reais) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observada a justiça gratuita se for o caso.
+Publique-se.
+Intimem-se.
