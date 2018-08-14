@@ -1,0 +1,42 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE COLETIVO EMPRESARIAL. RESILIÇÃO UNILATERAL PELA OPERADORA. POSSIBILIDADE. ART. 13, PARÁGRAFO ÚNICO, II, DA LEI Nº 9.656/98. APELO NOBRE A QUE SE DÁ PROVIMENTO.
+DECISÃO
+FLORINDA AMADIO (FLORINDA) ajuizou ação de obrigação de fazer com pedido de tutela antecipada contra MEDISANITAS BRASIL ASSISTÊNCIA INTEGRAL A SAÚDE S.A. (OPERADORA), cujos pedidos foram julgados procedentes (e-STJ, fls. 132/134).
+A apelação interposta pela OPERADORA não foi provida pelo Tribunal de origem, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - PLANO DE SAÚDE - Contrato relacional que não comporta resilição unilateral imotivada por parte da operadora do plano de saúde - Aplicação do CDC não obstante o contratante tratar-se de pessoa jurídica, tendo em vista que a mesma figura-se como mera estipulante em benefício de seus funcionários, destinatários finais dos serviços de saúde prestados - Segurada em tratamento para na época da rescisão unilateral do contrato, que não poderia ser interrompido - Inteligência do art. 13, parágrafo único, inciso II e III, da Lei 9.656/98 - Clara tentativa de burlar a legislação ao rescindir contrato coletivo e oferecer novo plano de saúde individual com valor cinco vezes maior com relação àquele anteriormente pago pela autora a título de mensalidade - Recurso não provido (e-STJ, fl. 171).
+Os embargos de declaração interpostos foram rejeitados (e-STJ, fls. 211/217).
+Inconformada, a OPERADORA manejou recurso especial com fundamento no art. 105, III, a e c, da CF, alegando violação dos arts. 186, 188, I, 472, 473, 927 e 944, todos do CC/02, e 16 da Lei nº 9.656/98. Argumentou que o art. 13 da Lei nº 9.656/98 se destina exclusivamente aos planos individuais e familiares, não podendo ser aplicado aos coletivos, de modo que é legítima a resilição unilateral do contrato coletivo por adesão. Aduziu que a beneficiária e a estipulante foram devidamente notificadas do desfazimento contratual.
+As contrarrazões não foram apresentadas (e-STJ, fl. 221).
+O apelo nobre foi admitido na origem (e-STJ, fls. 222/223).
+É o relatório.
+Decido.
+A insurgência merece prosperar.
+De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Do desfazimento unilateral do contrato coletivo
+O Tribunal de origem entendeu ser abusiva a resilição unilateral, aplicando, por analogia, o art. 13, III, da Lei nº 9.656/98 (e-STJ, fl. 176).
+A OPERADORA, por sua vez, argumentou que pode ocorrer o desfazimento unilateral do contrato coletivo empresarial de plano de saúde, desde que haja prévia notificação.
+Com razão a OPERADORA. Isso porque, segundo a consolidada jurisprudência desta Corte, é possível o desfazimento unilateral, em se tratando de contrato coletivo de plano de saúde, imotivadamente, após a vigência do período de 12 meses e mediante prévia notificação da outra parte, com antecedência mínima de 60 dias (art. 17, parágrafo único, da RN nº 195/2009 da ANS), uma vez que a norma inserta no art. 13, parágrafo único, II, da Lei nº 9.656/98, aplica-se exclusivamente aos contratos individuais ou familiares.
+A propósito, vejam-se os seguintes precedentes:
+RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE COLETIVO EMPRESARIAL. DENÚNCIA DO CONTRATO PELA OPERADORA. RESCISÃO UNILATERAL. LEGALIDADE. MIGRAÇÃO DE USUÁRIO PARA PLANO INDIVIDUAL. MANUTENÇÃO DAS CONDIÇÕES ASSISTENCIAIS. PREÇO DAS MENSALIDADES. ADAPTAÇÃO AOS VALORES DE MERCADO. REGIME E TIPO CONTRATUAIS DIVERSOS. RELEVÂNCIA DA ATUÁRIA E DA MASSA DE BENEFICIÁRIOS.
+1. Cinge-se a controvérsia a saber se a migração do beneficiário do plano coletivo empresarial extinto para o plano individual ou familiar enseja não somente a portabilidade de carências e a compatibilidade de cobertura assistencial, mas também a preservação dos valores das mensalidades então praticados.
+2. Os planos de saúde variam segundo o regime e o tipo de contratação: (i) individual ou familiar, (ii) coletivo empresarial e (iii) coletivo por adesão (arts. 16, VII, da Lei nº 9.656/1998 e 3º, 5º e 9º da RN nº 195/2009 da ANS), havendo diferenças, entre eles, na atuária e na formação de preços dos serviços da saúde suplementar.
+3. No plano coletivo empresarial, a empresa ou o órgão público tem condições de apurar, na fase pré-contratual, qual é a massa de usuários que será coberta, pois dispõe de dados dos empregados ou
+servidores, como a idade e a condição médica do grupo. Diante disso, considerando-se a atuária mais precisa, pode ser oferecida uma mensalidade inferior àquela praticada aos planos individuais.
+4. Os contratos de planos privados de assistência à saúde coletivos podem ser rescindidos imotivadamente após a vigência do período de 12 (doze) meses e mediante prévia notificação da outra parte com antecedência mínima de 60 (sessenta) dias (art. 17, parágrafo único, da RN nº 195/2009 da ANS). A vedação de suspensão e de rescisão unilateral prevista no art. 13, parágrafo único, II, da Lei nº 9.656/1998 aplica-se somente aos contratos individuais ou familiares.
+5. A migração ou a portabilidade de carências na hipótese de rescisão de contrato de plano de saúde coletivo empresarial foi regulamentada pela Resolução CONSU nº 19/1999, que dispôs sobre a absorção do universo de consumidores pelas operadoras de planos ou seguros de assistência à saúde que operam ou administram planos coletivos que vierem a ser liquidados ou encerrados. A RN nº 186/2009 e a RN nº 254/2011 da ANS incidem apenas nos planos coletivos por adesão ou nos individuais.
+6. Não há falar em manutenção do mesmo valor das mensalidades aos beneficiários que migram do plano coletivo empresarial para o plano individual, haja vista as peculiaridades de cada regime e tipo contratual (atuária e massa de beneficiários), que geram preços diferenciados. O que deve ser evitado é a abusividade, tomando-se como referência o valor de mercado da modalidade contratual.
+7. Nos casos de denúncia unilateral do contrato de plano de saúde coletivo empresarial, é recomendável ao empregador promover a pactuação de nova avença com outra operadora, evitando, assim, prejuízos aos seus empregados, pois não precisarão se socorrer da migração a planos individuais, de custos mais elevados.
+8. Recurso especial provido.
+(REsp 1.471.569/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 7/3/2016 - sem destaques no original)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. RESCISÃO UNILATERAL. POSSIBILIDADE. DECISÃO MANTIDA.
+1. "A jurisprudência do Superior Tribunal de Justiça é no sentido de que é possível a resilição unilateral do contrato coletivo de saúde, uma vez que a norma inserta no art. 13, II, b, parágrafo único, da Lei 9.656/98 aplica-se exclusivamente a contratos individuais ou familiares" (AgRg no REsp n. 1.477.859/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 5/5/2015, DJe 25/5/2015).
+2. Omissis.
+3. Agravo regimental improvido.
+(AgRg no AgRg no AREsp 51.473/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, DJe 14/10/2015 - sem destaques no original)
+Desse modo, o acórdão recorrido apresentou entendimento que destoa da jurisprudência aqui dominante, razão por que não deve subsistir.
+Ressalta-se, ainda, que, consoante a Súmula nº 568 do STJ, O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema (Corte Especial, DJe 17/3/2016).
+Nessas condições, DOU PROVIMENTO ao recurso especial para julgar improcedentes os pedidos iniciais. Condeno a parte autora ao pagamento das custas e despesas processuais, bem assim em honorários advocatícios, estes fixados em R$ 1.000,00 (mil reais), com base no art. 85 do NCPC. Deverá ser observado, se for o caso, o benefício da gratuidade da justiça, nos termos do art. 98, § 3º, do NCPC.
+Por fim, advirta-se que eventual recurso interposto contra este julgado estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se.
+Intimem-se.
