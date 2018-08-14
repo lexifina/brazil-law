@@ -1,0 +1,28 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pela União contra decisão que não admitiu o recurso especial com base no óbice da Súmula 7 do STJ.
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O apelo nobre foi manejado com amparo na alínea "a" do permissivo constitucional em oposição a acórdão assim ementado (e-STJ, fl. 67):
+ADMINISTRATIVO. SERVIDORA PÚBLICA. ACUMULAÇÃO DE CARGOS. ÁREA DA SAÚDE. CONSTITUIÇÃO FEDERAL DE 1988. LEI Nº 8.112/90. COMPATIBILIDADE DE HORÁRIOS. AFERIÇÃO CONCRETA.
+1. Agravo de instrumento em face de decisão que deferiu a liminar para que a autoridade coatora se abstivesse de praticar qualquer ato que restrinja ou obste a acumulação dos dois cargos públicos que exerce a agravada na área da saúde, com base apenas na limitação de jornada de trabalho a sessenta horas semanais.
+2. A existência de norma infraconstitucional que estipula limitação de jornada semanal não constitui óbice ao reconhecimento do direito à acumulação prevista no art. 37, XVI, c, da Constituição Federal, desde que haja compatibilidade de horários para o exercício dos cargos a serem acumulados (STF, 2ª Turma, RE 633.298, Rel. Min. RICARDO LEWANDOWSKI, DJE 14.2.2012).
+3. Cabe à Administração exercer o controle da legalidade acerca da situação regular para a acumulação remunerada de dois cargos privativos da área de saúde, podendo investigar periodicamente a continuidade dessa condição. Porém, a incompatibilidade de horários deve ser aferida em cada caso especifico por meio de procedimento administrativo, no qual sejam garantidos os princípios do contraditório e da ampla defesa, não sendo suficiente para impedir o servidor de exercer um dos cargos públicos apenas a jornada de trabalho total superior a 60 horas semanais (TRF2, 5ª Turma Especializada, ApelReex 01354329420154025101, Rel. Des. Fed. RICARDO PERLINGEIRO, E-DJF2R 1.12.2016).
+4. Agravo de instrumento não provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 81-88).
+A recorrente alega afronta aos arts. 12, § 1º, e 118, § 2º, da Lei n. 8.112/1990; 9º e 27, § 2º, da Lei n. 8.691/1993; 2º da Lei n. 10.556/2003; 373, I, do CPC/2015.
+Afirma que a recorrida pretende a cumulação de cargos, contudo sua jornada de trabalho extrapola as sessenta horas semanais.
+É o relatório.
+Quanto à compatibilidade de horário, o Tribunal de origem, com suporte nos documentos dos autos, entendeu que (e-STJ, fls. 59-60):
+In casu, observando-se as declarações de fls. 29/31, verifico, em princípio, que não há incompatibilidade de horários, eis que os plantões junto ao Governo do Estado do Rio de Janeiro são realizados em dias alternados, o que não comprometeria a eficiência dos serviços prestados, preservando-se, ainda, os horários de descanso, alimentação e locomoção.
+Assim, verifica-se que a acumulação de cargos públicos exercida pela autora foi analisada à luz dos aspectos constitucionais e legais e nada foi encontrado que contrariasse o ordenamento pátrio.
+A declaração de fls. 29 informa que a Impetrante exerce sua atividade no Hospital Federal de Bonsucesso em carga horária de 30h semanais, em escala de 12x60, de 19h às 7h, enquanto que, no Hospital Universitário Pedro Ernesto, a Impetrante possui carga horária de 30h, também em escala de 12x60, no horário de 7h às 19h, conforme declaração de fls. 30.
+Por estas declarações, percebe-se que os dias de trabalho se alternam e, ainda que a lei não faça qualquer restrição de carga horária, a Impetrante não exerce jornada superior a 60 horas semanais.
+Ressalte-se que a autoridade coatora não prestou as informações solicitadas e os argumentos da União não são suficientes para restringir o direito da autora, tendo em vista que não restou demonstrado qualquer decréscimo na qualidade do trabalho prestado pela Impetrante. (grifos acrescidos)
+Da leitura do acórdão recorrido, dessume-se que a Corte local firmou seu posicionamento com base nas provas dos autos. Assim, a revisão do julgado implica o imprescindível reexame de tais provas, o que é defeso em recurso especial, segundo preceitua a Súmula 7 do STJ.
+Ressalto que o Supremo Tribunal Federal, reiteradamente, se posiciona " ..  no sentido de que a acumulação de cargos públicos de profissionais da área de saúde, prevista no art. 37, XVI, da CF/88, não se sujeita ao limite de 60 horas semanais previsto em norma infraconstitucional, pois inexiste tal requisito na Constituição Federal" (RE 1.094.802 AgR, Rel. Ministro Alexandre de Moraes, Primeira Turma, julgado em 11/5/2018, DJe 24/5/2018).
+A propósito:
+RECURSO EXTRAORDINÁRIO - ACUMULAÇÃO DE CARGOS PÚBLICOS - PROFISSIONAIS DA ÁREA DE SAÚDE - LIMITAÇÃO DA JORNADA SEMANAL A 60 (SESSENTA) HORAS POR NORMA INFRACONSTITUCIONAL - REQUISITO NÃO PREVISTO NA CONSTITUIÇÃO DA REPÚBLICA - INVIABILIDADE DA RESTRIÇÃO COM BASE UNICAMENTE NESSE CRITÉRIO, DEVENDO AVERIGUAR-SE A COMPATIBILIDADE DE HORÁRIOS - AGRAVO INTERNO IMPROVIDO.
+(RE 1.023.290 AgR-segundo, Rel. Ministro CELSO DE MELLO, SEGUNDA TURMA, julgado em 6/10/2017, PROCESSO ELETRÔNICO DJe-251 DIVULG 31-10-2017 PUBLIC 06-11-2017)
+Existe, portanto, o entendimento pacífico de que o direito previsto no art. 37, XVI, "c", da CF/1988 não se sujeita à limitação de jornada semanal fixada pela norma infraconstitucional. O único requisito estabelecido para a acumulação, de fato, é a compatibilidade de horários no exercício das funções, cujo cumprimento deverá ser aferido pela administração pública.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
