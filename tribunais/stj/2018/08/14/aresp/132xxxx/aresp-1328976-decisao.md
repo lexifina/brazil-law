@@ -1,0 +1,87 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] SOC COOP SERV MED HOSP LTDA., contra decisão que não admitiu o seu recurso especial, fundamentado no artigo 105, inciso III, "a", da Constituição Federal, manejado em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, sumariado na seguinte ementa:
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO CONTRA DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO PARCIAL AO RECURSO, NOS SEGUINTES TERMOS;
+1. Ação de Obrigação de Fazer c/c Indenização por Danos Morais.
+2. Decisão de 1º grau que determinou que a agravante providenciasse serviço de Home Care por meio de empresa indicada, sob pena de multa no valor de R$ 60.000,00.
+3. A natureza da astreinte é apenas cominatória, sendo devida a redução do seu valor de modo a evitar o enriquecimento sem causa do agravante.
+4. Quanto ao pleito de exclusão ou redução do valor da astreinte em sede de agravo interno, não parece assistir razão ao agravante, vez que o montante elevado, atribuído a este meio coercitivo, só ocorreu em virtude da desídia da agravante no cumprimento da determinação imposta pelo Poder judiciário.
+5. Ressalte-se que ao ser compelido a trazer o nome das empresas credenciadas para o Serviço de Home Care, de forma a efetivar o cumprimento da decisão, a agravante quedou-se inerte.
+6. Aplicação correta da multa única, contudo o valor fixado encontra-se excessivo violando os princípios da razoabilidade e proporcionalidade podendo gerar enriquecimento sem causa, sendo reduzida para R$ 30.000,00 (trinta mil reais), para o caso de descumprimento.
+7. Destarte, no caso em tela, entendendo que a multa aplicada pelo Juízo a quo, no valor de R$ 60.000,00, revelava-se excessiva, procedi a sua redução para R$ 30.000,00 (trinta mil reais), que considero adequada, considerando as peculiaridades da demanda, a inércia da agravante, e o bem jurídico tutelado.
+8. Inexistência de argumento novo capaz de alterar a decisão atacada.
+9. Recurso de agravo interno conhecido e desprovido. (fl. 73-74)
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do especial, o recorrente aponta ofensa ao disposto nos arts. 497, 537, §1º e 1.022, II, do CPC/2015 e 884 do Código Civil, insurgindo-se contra a multa cominatória fixada na origem em R$ 30.000,00 (trinta mil reais); aduz, que a astreinte mostrar-se excessiva e desproporcional em caso de descumprimento da obrigação; a existência de omissões no acórdão estadual. Caso seja entendido pela manutenção da multa arbitrada, seja a mesma reduzida para atender os princípios da razoabilidade e proporcionalidade, não podendo ultrapassar R$ 5.000,00 (cinco mil reais).
+É o relatório.
+DECIDO.
+2. De início, verifico que não merece acolhida a alegada violação ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, o seguinte precedente:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REVISÃO DE ENCARGOS FINANCEIROS E RESTITUIÇÃO DE VALORES. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS. SUMULAS 5 E 7 DO STJ. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ . AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do artigo 1022 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+(..)
+5. Agravo interno não provido" (AgInt no AREsp 1.035.430/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 09/05/2017, DJe 16/05/2017- grifou-se).
+3. Outrossim, as razões dos embargos opostos na origem revelam tão somente o intuito de reapreciação da causa e a sua insatisfação com o resultado do julgado, o que não se admite com a objetividade do recurso manejado. É que, a pretexto de omissão, na verdade, pretendeu a reforma da decisão, utilizando-se de via processual inadequada. A esse respeito, confira:
+EMBARGOS DE DECLARAÇÃO. EFEITOS INFRINGENTES. IMPOSSIBILIDADE.
+1. Não ocorrentes as hipóteses insertas no art. 535 do CPC, tampouco equívoco manifesto no julgado recorrido, não merecem acolhida os embargos que se apresentam com nítido caráter infringente, por via dos quais se objetiva rediscutir a causa, já devidamente decidida.
+2. Embargos de declaração rejeitados. (EDcl no AgRg no Ag 723.162/SP, Rel. Ministro FERNANDO GONÇALVES, QUARTA TURMA, julgado em 21.2.08, DJ 3.3.08, p. 1);
+___________
+Processo civil. Embargos de declaração no recurso especial. Ausência de omissões, contradições ou obscuridades. Prestação jurisdicional encerrada.
+- A atribuição de efeitos infringentes aos embargos declaratórios é possível em situações excepcionais, em que sanada a omissão, contradição ou obscuridade, a alteração da decisão surja como conseqüência necessária.
+- As questões suscitadas pelos embargantes não constituem pontos omissos, contraditórios ou obscuros do julgado, mas mero inconformismo com os fundamentos adotados pelo acórdão embargado.
+- O julgador não pode ser compelido a adentrar todos os matizes jurídicos suscitados pelas partes. Basta-lhe decidir fundamentadamente as questões pertinentes à solução da controvérsia, o que encerra sua prestação jurisdicional, não incorrendo nas hipóteses ensejadoras de violação ao art. 535 do CPC.
+Embargos de declaração no recurso especial rejeitados. (EDcl no REsp 770746/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 28.11.06, DJ 11.12.06, p. 354)
+___________
+3. Por outro lado, o acórdão consignou que a ora agravante foi intimada da decisão que determinou o cumprimento da obrigação de fazer, consistente na indicação da empresa para o atendimento home care da parte ora agravada, no entanto quedou-se inerte. Elucidativo o trecho do v. acórdão recorrido:
+"..Considerando que a Ré foi devidamente intimada a se manifestar sobre o credenciamento da empresa indicada pela Autora e permaneceu inerte (fls. 532 e 564), defiro o pedido de fls. 530-531 e determino que a Ré providencie no prazo de 72 horas o tratamento médico da Autora, por meio da empresa indicada, sob pena de multa no valor de R$ 60.000,00, que poderá ser majorada no caso de descumprimento da obrigação. Oficie-se, com urgência, à empresa indicada dando-lhe ciência da presente decisão.
+Intime-se a Ré para efetuar o pagamento do valor da multa, em execução, nos termos do art. 523, §§ 1º, 2º e 3º, do NCPC, conforme requerido à fl. 531, item 2."
+ ..
+Na realidade para o Julgador e as partes a prioridade é o cumprimento da obrigação de fazer de modo a estabilizar a situação fática que levou a agravada a buscar o remédio judicial. Não há aqui a vontade jurídica de estabelecer multas cominatórias excessivas.
+Os comandos inscritos nos artigos 536 e 537 do CPC permitem ao Julgador determinar as medidas necessárias para a efetivação da tutela, podendo modificar o valor ou a periodicidade da multa caso verifique a sua insuficiência.
+Obviamente, sopesando os bens em questão, o perigo do descumprimento imotivado do comando judicial mostrava-se mais grave. A manutenção da multa revela-se necessária a assegurar o cumprimento do comando jurisdicional.
+O que deve se ter em mente é que se está diante de Direito Fundamental e indissociável, com previsão na Lei Maior a fim de realizar o Direito Supralegal que é a DIGNIDADE DA PESSOA HUMANA.
+Quanto ao pleito de redução do valor da astreinte, não parece assistir razão ao agravante, vez que o montante elevado, atribuído a este meio coercitivo, só ocorreu em virtude da desídia da agravante no cumprimento da determinação imposta pelo Poder judiciário.
+Ressalte-se que ao ser compelido a trazer o nome das empresas credenciadas para o Serviço de Home Care, de forma a efetivar o cumprimento da decisão, a agravante quedou-se inerte.
+Assim, é forçoso concluir que a ausência de conduta legítima do agravante no sentido de cumprir a tutela deferida, em especial, em se tratando de tratamento domiciliar de saúde à pessoa acometida por doença degenerativa e irreversível, impede a redução do quantum fixado, em razão do descumprimento imotivado da tutela por parte do agravante.
+Destarte, no caso em tela, entendendo que a multa aplicada pelo Juízo a quo, no valor de R$ 60.000,00, revelava-se excessiva, procedi a sua redução para R$ 30.000,00 (trinta mil reais), que considero adequada, considerando as peculiaridades da demanda, a inércia da agravante, e o bem jurídico tutelado.
+Sendo assim, considerando que a natureza da multa é apenas cominatória, entendo devida a redução do seu valor, no valor de R$ 30.000,00 (trinta mil reais), conforme estipulado na decisão monocrática, de modo a evitar o enriquecimento sem causa do agravante, eis que o valor das astreintes reverte em seu benefício. (fl. 75-79)
+Nesse passo, a reforma do julgado estadual em relação à exorbitância das astreintes, ressalta-se que é pacífica a jurisprudência do Superior Tribunal de Justiça no sentido de que o pedido de redução do valor da multa diária, aplicada como meio coercitivo para o cumprimento da ordem judicial, só pode ser examinado nesta Corte nos casos em que a aludida multa se mostrar irrisória ou exorbitante.
+Nesse sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ASTREINTES. VALOR FIXADO PELO TRIBUNAL DE ORIGEM. REEXAME FÁTICO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7/STJ.
+1. A convicção a que chegou o Tribunal a quo quanto à necessidade de redução da multa decorreu da análise do conjunto probatório.
+2. O acolhimento da pretensão recursal demandaria o reexame do mencionado suporte.
+3. Não apresentação pelas partes agravantes de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+4. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no REsp 1488912/MA, Relator o Ministro PAULO DE TARSO SANSEVERINO, DJe 03/03/2015)
+___________
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASTREINTES. REDUÇÃO. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ.
+2. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da multa cominatória arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice para possibilitar a revisão. No caso, a quantia estabelecida pelo Tribunal de origem não se mostra excessiva, a justificar a reavaliação, em recurso especial, do montante fixado.
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp 490.302/SP, Relator o Ministro ANTONIO CARLOS FERREIRA, DJe 03/03/2015)
+___________
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECEBIMENTO COMO AGRAVO REGIMENTAL. ASTREINTES. REDUÇÃO. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ.
+2. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da multa cominatória arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice para possibilitar a revisão. No caso, a quantia estabelecida pelo Tribunal de origem, relativa à multa diária, não se mostra excessiva, a justificar a reavaliação, em recurso especial, do montante fixado.
+3. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento. (EDcl no AREsp 599.230/SC, Relator o Ministro ANTONIO CARLOS FERREIRA, DJe 19/02/2015)
+___________
+4. Na hipótese dos autos, o Tribunal de Justiça reduziu o valor da multa fixada de R$ 60.000,00 (sessenta mil reais) e reduzida para R$ 30.000,00 (trinta mil reais), destacando a redução visou preservar a finalidade do instituto e, em observância ao princípio da proporcionalidade e à vedação do enriquecimento sem causa. (fl. 79).
+Nesse contexto, observa-se que as astreintes foram fixadas conforme as peculiaridades do caso concreto, levando-se em consideração que a multa executada foi arbitrada apenas em razão do não cumprimento da decisão que determinou a indicação de empresa credenciada para o atendimento home care da agravada.
+Portanto, o montante fixado atende aos princípios da razoabilidade e proporcionalidade, até porque bastaria o cumprimento tempestivo da determinação judicial para que não incidisse a multa diária.
+5. Não bastasse isso, as conclusões do Tribunal de origem em relação ao cabimento, proporcionalidade e razoabilidade da multa aplicada, não podem ser revistas por esta Corte Superior, pois demandaria reexame do conjunto fático - probatório dos autos, o que é vedado em sede de recurso especial, em razão do óbice da Súmula 7 do STJ. Nesse sentido:
+ADMINISTRATIVO. FORNECIMENTO DE MEDICAMENTOS. RECURSO ESPECIAL CUJO OBJETO É SOMENTE A IMPOSIÇÃO DE MULTA DIÁRIA (ASTREINTES). RECURSO ESPECIAL N. 1.474.665/RS - TEMA N. 98: É POSSÍVEL A IMPOSIÇÃO DE ASTREINTES. REVISÃO DO VALOR. PRETENSÃO DE REEXAME DE PROVA. SÚMULA N. 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+I - Recurso especial improvido pela inexistência de violação do art.535, inciso II, do Código de Processo Civil de 1973. Ausência de omissão no acórdão do Tribunal de origem que, fundamentadamente, decide de forma contrária à pretensão da parte recorrida.
+II - A 1ª Seção do STJ, no julgamento do Recurso Especial n.1.474.665/RS - Tema n. 98, submetido ao regime de recursos repetitivos, firmou a tese de que é possível a imposição de multa diária (astreintes) a ente público, para compeli-lo a fornecer medicamento à pessoa desprovida de recursos financeiros.
+III - De acordo com a jurisprudência do STJ, entende-se que o valor fixado a título de astreintes, via de regra, não pode ser revisto ante o óbice do enunciado n. 7 da Súmula do STJ. Excepcionalmente admite-se sua revisão quando o valor da multa diária se mostra irrisório ou exorbitante.
+IV - Na hipótese dos autos, o Tribunal de origem, com base nos elementos fáticos dos autos, manteve a multa cominatória fixada na origem em R$ 500,00 (quinhentos reais) por dia, por considerar razoável esse montante em razão da importância do bem jurídico tutelado. Assim sendo, fica claro que a multa diária não se mostra excessiva de modo a ensejar a flexibilização da aplicação do enunciado n. 7 da Súmula do STJ.
+V - Nesse contexto, analisar eventual violação do art. 461, § 4º, do Código de Processo Civil de 1973, demandaria necessariamente o reexame das provas carreadas aos autos, o que é vedado na instância especial ante o óbice do enunciado n. 7 da Súmula do STJ.
+VI - Agravo interno improvido. (AgInt no AREsp 1020735/PE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 19/09/2017, DJe 25/09/2017)
+____________
+CIVIL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO NA VIGÊNCIA DO CPC/73. GRAVAME INJUSTIFICADO NO REGISTRO DO AUTOMÓVEL. DANO MORAL CONFIGURADO.PLEITO PELA REVISÃO DO QUANTUM E DA MULTA DIÁRIA. INCIDÊNCIA DA SÚMULA 7 DO STJ. 1. É inaplicável o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. A Corte de origem, com base no suporte fático-probatório dos autos, reconheceu ser devida a multa diária por descumprimento de decisão judicial, bem como o pagamento de indenização por dano moral, fixando os valores de referida reparação. Rever tal entendimento encontra óbice no enunciado da Súmula nº 7 do STJ.
+3. A revisão de indenização por danos morais só é viável em recurso especial quando o valor fixado nas instâncias locais for exorbitante ou ínfimo. Salvo essas hipóteses, incide a Súmula nº. 7 do STJ, impedindo o conhecimento do recurso.
+4. Agravo regimental não provido.
+(AgRg no AREsp 643.632/PR, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 19/09/2017, DJe 28/09/2017)
+___________
+6. Por fim, importante frisar que "o valor total fixado a título de astreinte somente poderá ser objeto de redução se fixada a multa diária em valor desproporcional e não razoável à própria prestação que ela objetiva compelir o devedor a cumprir, nunca em razão do simples valor total da dívida, mera decorrência da demora e inércia do próprio devedor" (REsp 1475157/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/09/2014, DJe 06/10/2014).
+7. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
