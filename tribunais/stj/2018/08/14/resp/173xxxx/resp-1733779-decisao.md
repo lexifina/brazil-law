@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado:
+"APELAÇÃO. AÇÃO REVISIONAL. EMPRÉSTIMOS DIVERSOS. CONSIGNAÇÃO EM FOLHA. DESCONTOS EM CONTA-CORRENTE. LIMITAÇÃO.
+I - O débito das parcelas consignadas na folha de pagamento obedece ao limite legal de 30%, art. 116, §2º, da Lei Complementar Distrital 840/11 e art. 10 do Decreto Distrital 28.195/07.
+II - O desconto efetuado em conta-corrente, para o pagamento de empréstimo constituído validamente, salvo abuso por parte da instituição financeira, tem respaldo na livre disposição do seu titular.
+III - Na demanda, os descontos de empréstimos consignados em contracheque observaram o limite legal e o contraído com autorização de débito em conta-corrente foi constituído validamente. Improcedência do pedido de limitação dos descontos.
+IV - Apelação desprovida" (fl. 120, e-STJ).
+O recorrente alega que houve violação dos arts. 421 e 422 do Código Civil e 6º, IV, do Código de Defesa do Consumidor. Sustenta ser possível a "(..) limitação dos descontos das parcelas de empréstimo a 30% dos vencimentos do devedor, preservando-se o suficiente para garantir a subsistência digna do devedor e de sua família" (fl. 147, e-STJ).
+Contrarrazões apresentadas às fls. 156-161 (e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O recurso não merece prosperar.
+O tribunal recorrido assim analisou a demanda acerca do empréstimo com desconto em conta-corrente :
+"(..)
+Na demanda em análise, verifica-se que o apelante-autor, mesmo dispondo de renda mensal líquida de cerca de R$ 6.661,00, e emitiu cédula de crédito bancário no valor de R$ 63.791,93, para pagamento em 60 prestações mensais de R$ 2.374,77, cada uma (Num. 2744211, pág. 1).
+Logo, não procede a limitação dos descontos, também em conta-corrente, uma vez que o débito da parcela relativo à cédula não cria obrigação abusiva ou incompatível com a boa-fé e a equidade" (fl. 131, e-STJ).
+De fato, não há reparo a fazer ao referido entendimento, haja vista estar em sintonia com a orientação desta Corte, a qual, a propósito, cita-se:
+"RECURSO ESPECIAL. PRESTAÇÕES DE MÚTUO FIRMADO COM INSTITUIÇÃO FINANCEIRA. DESCONTO EM CONTA-CORRENTE E DESCONTO EM FOLHA. HIPÓTESES DISTINTAS. APLICAÇÃO, POR ANALOGIA, DA LIMITAÇÃO LEGAL AO EMPRÉSTIMO CONSIGNADO AO MERO DESCONTO EM CONTA-CORRENTE, SUPERVENIENTE AO RECEBIMENTO DA REMUNERAÇÃO. INVIABILIDADE. DIRIGISMO CONTRATUAL, SEM SUPEDÂNEO LEGAL. IMPOSSIBILIDADE.
+1. A regra legal que fixa a limitação do desconto em folha é salutar, possibilitando ao consumidor que tome empréstimos, obtendo condições e prazos mais vantajosos, em decorrência da maior segurança propiciada ao financiador. O legislador ordinário concretiza, na relação privada, o respeito à dignidade humana, pois, com razoabilidade, limitam-se os descontos compulsórios que incidirão sobre verba alimentar, sem menosprezar a autonomia privada.
+2. O contrato de conta-corrente é modalidade absorvida pela prática bancária, que traz praticidade e simplificação contábil, da qual dependem várias outras prestações do banco e mesmo o cumprimento de pagamento de obrigações contratuais diversas para com terceiros, que têm, nessa relação contratual, o meio de sua viabilização. A instituição financeira assume o papel de administradora dos recursos do cliente, registrando lançamentos de créditos e débitos conforme os recursos depositados, sacados ou transferidos de outra conta, pelo próprio correntista ou por terceiros.
+3. Como característica do contrato, por questão de praticidade, segurança e pelo desuso, a cada dia mais acentuado, do pagamento de despesas em dinheiro, costumeiramente o consumidor centraliza, na conta-corrente, suas despesas pessoais, como, v.g., luz, água, telefone, tv a cabo, cartão de crédito, cheques, boletos variados e demais despesas com débito automático em conta.
+4. Consta, na própria petição inicial, que a adesão ao contrato de conta-corrente, em que o autor percebe sua remuneração, foi espontânea, e que os descontos das parcelas da prestação - conjuntamente com prestações de outras obrigações firmadas com terceiros - têm expressa previsão contratual e ocorrem posteriormente ao recebimento de seus proventos, não caracterizando consignação em folha de pagamento.
+5. Não há supedâneo legal e razoabilidade na adoção da mesma limitação, referente a empréstimo para desconto em folha, para a prestação do mútuo firmado com a instituição financeira administradora da conta-corrente. Com efeito, no âmbito do direito comparado, não se extrai nenhuma experiência similar - os exemplos das legislações estrangeiras, costumeiramente invocados, buscam, por vezes, com medidas extrajudiciais, solução para o superendividamento ou sobreendividamento que, isonomicamente, envolvem todos os credores, propiciando, a médio ou longo prazo, a quitação do débito.
+6. À míngua de novas disposições legais específicas, há procedimento, já previsto no ordenamento jurídico, para casos de superendividamento ou sobreendividamento - do qual podem lançar mão os próprios devedores -, que é o da insolvência civil.
+7. A solução concebida pelas instâncias ordinárias, em vez de solucionar o superendividamento, opera no sentido oposto, tendo o condão de eternizar a obrigação, visto que leva à amortização negativa do débito, resultando em aumento mês a mês do saldo devedor. Ademais, uma vinculação perene do devedor à obrigação, como a que conduz as decisões das instâncias ordinárias, não se compadece com o sistema do direito obrigacional, que tende a ter termo.
+8. O art. 6º, parágrafo 1º, da Lei de Introdução às Normas do Direito Brasileiro confere proteção ao ato jurídico perfeito, e, consoante os arts. 313 e 314 do CC, o credor não pode ser obrigado a receber prestação diversa da que lhe é devida, ainda que mais valiosa.
+9. A limitação imposta pela decisão recorrida é de difícil operacionalização, e resultaria, no comércio bancário e nas vendas a prazo, em encarecimento ou até mesmo restrição do crédito, sobretudo para aqueles que não conseguem comprovar a renda.
+10. Recurso especial do réu provido, julgado prejudicado o do autor"
+(REsp 1.586.910/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/8/2017, DJe 3/10/2017).
+Ante o exposto, nego provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
