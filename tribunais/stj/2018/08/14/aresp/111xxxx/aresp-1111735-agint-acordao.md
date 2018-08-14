@@ -1,0 +1,35 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. VIOLAÇÃO AOS ARTS. 489, II, E 1.022 DO CPC/2015. FUNDAMENTAÇÃO DEFICIENTE. APLICAÇÃO ANALÓGICA DA SÚMULA 284 DO STF. QUEDA NO INTERIOR DE SUPERMERCADO. TRIBUNAL A QUO DECIDIU PELA APURAÇÃO DE RESPONSABILIDADE NA FASE DE PROVAS. MATÉRIA FÁTICO-PROBATÓRIA. APLICAÇÃO DA SÚMULA 7. AGRAVO INTERNO DESPROVIDO.
+1. Ausência de fundamentos aptos a impugnarem o v. acórdão guerreado, tornando patente a falha na fundamentação do apelo especial, o que atrai, indubitavelmente, o óbice da Súmula 284/STF, aplicada por analogia.
+2. Rever a convicção formada pelo eg. Tribunal de origem, acerca do entendimento de que a fase de provas é precisamente o momento em que será apurado eventual afastamento ou não da presunção de responsabilidade discutida nos autos, importaria, necessariamente, o reexame do cenário fático e das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (Relator):
+Trata-se de agravo interno (fls. 154-162) interposto por CASAS GUANABARA COMESTÍVEIS LTDA contra decisão (fls. 147-150), desta relatoria, que negou provimento a seu recurso especial, sob o fundamento de que o apelo nobre esbarrava nos óbices das Súmulas 7/STJ e 284/STF, aplicadas por analogia.
+Nas razões do presente agravo interno, CASAS GUANABARA COMESTÍVEIS LTDA afirmou que o recurso especial merece provimento, pois, segundo alega, "(..) a agravada foi beneficiada por uma presunção não amparada em lei e em regra de experiência, sendo, portanto, beneficiada por uma exclusão do ônus de prova quanto ao fato alegado em sua pela exordial quando o ilustre magistrado de primeira instância determinou a remessa dos autos ao ilustre perito em virtude da ausência de negativa de queda no interior do supermercado, o que traz a ideia de que o nexo de causalidade já estaria comprovado" (fl. 160).
+Ao final, requer a reconsideração da decisão agravada ou, se mantida, seja o presente recurso levado a julgamento perante a eg. Quarta Turma.
+Sem impugnação ao agravo interno, a teor da certidão de fl. 165.
+É o relatório..
+VOTO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (Relator):
+O presente recurso não merece prosperar, uma vez que a agravante não apresentou argumentação jurídica necessária a motivar a modificação do entendimento externado na decisão ora vergastada.
+De pronto, é irretocável a aplicação analógica da Súmula 284/STF, pois, no que concerne à alegada violação aos arts. 489, II, e 1.022, II, do CPC/2015, constata-se que a recorrente, ora agravante, não apresentou fundamentos aptos a sequer impugnarem o v. acórdão guerreado, tornando patente a falha na fundamentação do apelo especial, o que atrai, indubitavelmente, o óbice da Súmula 284/STF, aplicada por analogia, que assim dispõe: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+No presente agravo, repisou os mesmos argumentos do recurso especial, que, de forma meramente genérica, invocavam a vulneração aos referidos dispositivos, sem demonstrar, precisamente, o objeto da violação.
+Assim, confirmada a decisão singular no ponto.
+Na sequência do exame deste agravo, a título elucidativo, transcreve-se o seguinte excerto da decisão agravada, que deve ser confirmada (fls. 149-150):
+ "Por sua vez, o eg. TJ-RJ, soberano na análise do acervo fático-probatório dos autos, firmou entendimento de que a eventual "presunção de responsabilidade da demandada" no acidente é precisamente o que se irá apurar na fase de produção de provas. É o que se verifica in verbis (fls. 64):
+ "Entendo que não assiste razão ao Agravante, uma vez que a decisão agravada deu provimento ao seu recurso, tendo deferido as provas requeridas.
+ Como se pode verificar no decisum, a parte Agravante postulou pela "produção de prova oral, consubstanciada no depoimento da autora, a fim de dirimir dúvidas sobre o real motivo da queda, além de prova testemunhai e documental superveniente".
+ Quanto ao "afastamento de eventual presunção de responsabilidade da demandada no que concerne ao acidente narrado na petição inicial", é justamente o que se vai apurar com a produção das provas deferidas na decisão agravada.
+ Isto porque é aplicável à espécie o art. 14, caput, do CDC, que consagrou a responsabilidade objetiva do fornecedor, com base na teoria do risco do empreendimento, na qual ele responde independente de culpa pelos danos causados aos consumidores por defeitos relativos à prestação dos serviços.
+ Nesta esteira de raciocínio, é cediço que cabe ao prestador do serviço provar a existência de fortuito ou o fato de terceiro, ou mesmo o fato exclusivo da vítima ou a inexistência de defeito no serviço prestado, nos termos do art. 14, §3º, I e II, do referido diploma legal" (grifou-se).
+ Nessa parte, também não prospera a pretensão da recorrente.
+ Com efeito, tem-se que as instâncias ordinárias, quanto à necessidade ou não de produção de provas, formaram sua convicção com base nos elementos fático-probatórios existentes nos autos, entendimento esse que, consoante toda a narrativa exposta na decisão recorrida, não revela ser hipótese de revisão por parte desta Corte. Portanto, para se chegar à conclusão de que a prova cuja produção foi requerida pela parte seria ou não indispensável à solução da controvérsia, seria necessário se proceder ao reexame do conjunto fático-probatório dos autos, providência incompatível com a via estreita do recurso especial, a teor da Súmula 7 deste STJ".
+Com efeito, verifica-se que, ao contrário do aduzido pela agravante, a pretensão do presente recurso não está cingida em ilidir o alegado reconhecimento, pelo Tribunal a quo, da ocorrência da denominada "presunção de responsabilidade da demandada", a qual nem sequer foi examinada pela eg. Corte de Apelação, que se manifestou no sentido de afastar ou não essa presunção em outro momento processual.
+Verifica-se que rever a convicção formada pelo eg. TJ-RJ, acerca do entendimento de que a fase de provas é precisamente o momento em que será apurado eventual afastamento ou não da presunção de responsabilidade da demandada, o que se contrapõe à narrativa exposta pela agravante, importaria, necessariamente, o reexame do cenário fático e das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7/STJ.
+Portanto, fica também mantida a decisão monocrática quanto à aplicação do sobredito enunciado sumular.
+Nesse cenário, conclui-se que o agravo interno não merece prosperar.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
