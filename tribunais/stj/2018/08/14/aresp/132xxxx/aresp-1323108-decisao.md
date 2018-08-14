@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo contra inadmissão de recurso especial interposto por COMPANHIA MUTUAL DE SEGUROS - EM LIQUIDAÇÃO. O apelo extremo, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado do Espírito Santo assim ementado:
+"PROCESSUAL CIVIL - AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - SEGURADORA - LIMITE DO CONTRATO DE SEGURO - ESGOTAMENTO DO VALOR CONTRATADO NÃO COMPROVADO - RECURSO IMPROVIDO.
+1. Consoante orientação pacífica do Colendo Superior Tribunal de Justiça, firmada em recurso repetitivo (art. 543-C do Código de Processo Civil), tem-se que "Em ação de reparação de danos movida em face do segurado, a Seguradora denunciada pode ser condenada direta e solidariamente junto com este a pagar a indenização devida à vítima, nos limites contratados na apólice" (REsp 925.130/SP, Rel. Ministrito LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 08/02/2012, DJe 20/04/2012).
+2. No caso dos autos, a Seguradora, aqui agravante, não logrou comprovar que o limite contratado na apólice fora alcançado" (fls. 594/595 e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do especial, a agravante sustenta, além da divergência jurisprudencial, violação dos artigos 98, 99, 1.022 do Código de Processo Civil de 2015 e 18 da Lei nº 6.024/74.
+Aduz omissão no julgado quanto (i) ao pedido de gratuidade de justiça e (ii) "sobre a existência de ações judiciais pertinentes ao mesmo sinistro" (fl. 729 e-STJ).
+Pleiteia a concessão dos benefícios da gratuidade de justiça, em razão da liquidação extrajudicial decretada.
+Menciona que "a fluência de juros só pode correr após integralmente pago o passivo e esse é o entendimento deste e. Superior Tribunal" (fl. 734 e-STJ).
+Argumenta, por fim, que não deve incidir a correção monetária nos presentes autos.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação merece prosperar em parte.
+No tocante à alegada negativa de prestação jurisdicional, agiu corretamente o Tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição ou obscuridade no acórdão embargado, tendo em vista que as matérias foram apreciadas, conforme fls. 662/663 e-STJ e 712/713 e-STJ.
+Fica patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+No mais, observa-se que o Tribunal de origem partiu da premissa de que a agravante não comprovou sua impossibilidade financeira de arcar com as custas e despesas processuais (fls. 712/713 e-STJ).
+Sobre o tema, a jurisprudência desta Corte é firme no sentido de que o fato de haver a decretação da liquidação extrajudicial ou falência, por si só, não remete ao reconhecimento da necessidade para fins de concessão da assistência judiciária gratuita à pessoa jurídica.
+Neste sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. RESPONSABILIDADE CIVIL. SEGURADORA DENUNCIADA À LIDE. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. GRATUIDADE DA JUSTIÇA. DECLARAÇÃO DE HIPOSSUFICIÊNCIA. PRESUNÇÃO RELATIVA. POSSIBILIDADE DE O JUIZ DENEGAR O PEDIDO DE OFÍCIO, EXCEPCIONALMENTE. CONJUNTO FÁTICO-PROBATÓRIO DESTES AUTOS QUE ILIDE ESSA PRESUNÇÃO. INCIDÊNCIA DA SÚMULA 7/STJ. 3. JUROS E CORREÇÃO MONETÁRIA. SUSPENSÃO. AÇÃO DE CONHECIMENTO. INAPLICABILIDADE. PRECEDENTES. 4. SEGURADORA.
+CONSECTÁRIOS LEGAIS DECORRENTES DA CONDENAÇÃO. CABIMENTO. 5. AGRAVO INTERNO DESPROVIDO.
+1. (..)
+2. A solução dada pelo acórdão recorrido está em consonância com a jurisprudência desta Corte, segundo a qual: "O direito à gratuidade da justiça da pessoa jurídica em regime de liquidação extrajudicial ou de falência depende de demonstração de sua impossibilidade de arcar com os encargos processuais, o que não ficou afigurado na espécie" (AgInt no REsp n. 1.619.682/RO, Relator o Ministro Raul Araújo, Quarta Turma, julgado em 15/12/2016, DJe 7/2/2017). Assim, para elidir as conclusões do aresto impugnado quanto às convicções formadas pelo Tribunal de origem acerca da ausência da comprovação da hipossuficiência da recorrente, seria imprescindível o revolvimento do conjunto fático-probatório dos autos, providência vedada no âmbito do recurso especial nos termos da Súmula n. 7 do STJ.
+3. O acórdão estadual está em sintonia com o entendimento deste Tribunal "de que a suspensão de ações ajuizadas em desfavor de entidades sob regime de liquidação extrajudicial e o veto à propositura de novas demandas após o decreto de liquidação não alcançam as ações de conhecimento voltadas à obtenção de provimento judicial relativo à certeza e liquidez do crédito" (AgInt no AREsp n. 902.085/SP, Relator Ministro Raul Araújo, Quarta Turma, julgado em 16/2/2017, DJe 6/3/2017). Incidência da Súmula n. 83/STJ.
+4. (..)
+5. Agravo interno desprovido" (AgInt no REsp 1.715.032/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/4/2018, DJe 3/5/2018).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA DO RELATOR. POSSIBILIDADE. VIOLAÇÃO DO ART. 489 DO CPC/2015. INEXISTÊNCIA. INSTITUIÇÃO FINANCEIRA EM REGIME DE LIQUIDAÇÃO EXTRAJUDICIAL. PEDIDO DE GRATUIDADE DA JUSTIÇA. DEMONSTRAÇÃO DA FALTA DE MEIOS PARA CUSTEIO DO PROCESSO. SÚMULAS N. 7 E 83 DO STJ. DECISÃO MANTIDA.
+(..)
+3. "A jurisprudência desta Corte é firme no sentido de que o fato de haver a decretação da liquidação extrajudicial ou falência, não remete, por si só, ao reconhecimento da necessidade para fins de concessão da assistência judiciária gratuita à pessoa jurídica" (AgInt no AREsp n. 1.140.206/RS, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/2/2018, DJe 8/3/2018.)
+4. No caso, o Tribunal de origem, analisando os fatos e as provas dos autos, entendeu que o recorrente não comprovou sua incapacidade de custear as despesas processuais. Rever essa conclusão demandaria reexame do conjunto fático-probatório dos autos, o que não se admite no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+5. Agravo interno a que se nega provimento" (AgInt no AREsp 1.048.562/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/4/2018, DJe 30/4/2018).
+Assim, verificar a alegada hipossuficiência da agravante demandaria reapreciar todo o conjunto fático-probatório dos autos, o que esbarra no óbice da Súmula nº 7/STJ.
+Com relação à suspensão dos juros de mora nos casos de pessoa jurídica em liquidação extrajudicial, esta questão foi apreciada pela eg. Terceira Turma no REsp 1.646.192/PE, conforme se observa na ementa:
+
+"RECURSO ESPECIAL. INSTITUIÇÃO FINANCEIRA. LIQUIDAÇÃO EXTRAJUDICIAL. OBRIGAÇÕES. JUROS MORATÓRIOS. SUSPENSÃO. TERMO INICIAL. DECRETO DE LIQUIDAÇÃO. CORREÇÃO MONETÁRIA. INCIDÊNCIA. SUCUMBÊNCIA RECÍPROCA. RECONHECIMENTO.
+1. Fica suspensa a fluência de juros contra a instituição financeira, sejam legais ou contratuais, a partir do decreto de liquidação até o pagamento do passivo. Na hipótese de sobejar alguma quantia após a satisfação do principal, os juros serão pagos respeitada a ordem estabelecida no quadro geral de credores. Precedente.
+2. A princípio, a Lei nº 6.024/1974 suspendia a incidência de correção monetária sobre as dívidas da instituição financeira em liquidação extrajudicial. Porém, o art. 18, "f", da referida lei foi modificado, no ponto, pelo Decreto-Lei nº 1.477/1976, que prevê a incidência de correção monetária sobre a totalidade das obrigações de responsabilidade das entidades sob regime de liquidação extrajudicial.
+3. (..)
+4. Recurso especial parcialmente provido" (REsp 1.646.192/PE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/3/2017, DJe 24/3/2017).
+Conforme se verifica do mencionado julgado, extraiu-se da interpretação do art. 18, alínea "d" da Lei nº 6.024/1974 a conclusão que a partir do decreto de liquidação não correm juros contra a instituição financeira, sejam legais ou contratuais, até o pagamento do passivo. A regra encontra assento no entendimento de que se deve tentar satisfazer o principal devido ao maior número de credores da massa, respeitada a ordem de classificação dos créditos, para somente depois, caso sobejar alguma quantia, sejam pagos os juros, também dentro da ordem do quadro geral de credores.
+Nessa linha, o seguinte precedente desta Corte:
+"CIVIL. PROCESSUAL CIVIL. LIQUIDAÇÃO EXTRAJUDICIAL. AÇÃO DE PRESTAÇÃO DE CONTAS EM SEGUNDA FASE. JUROS MORATÓRIOS. SUSPENSÃO DA FLUÊNCIA. LEI N. 6.024/74. PROVIMENTO.
+1. Na liquidação extrajudicial, a exemplo do que ocorre durante o processamento da falência (Lei 11.101/2005, art. 124), os juros, sejam eles legais ou contratuais, têm sua fluência suspensa por força do art. 18, "d", da Lei n. 6.024/74.
+2. O motivo da suspensão da fluência dos juros é uma presunção legal, de caráter relativo, de que o ativo não é suficiente para o pagamento de todos os credores. Assim, após a satisfação do passivo aos credores habilitados, e havendo ativo que os suporte, serão pagos os juros contratuais e os legais vencidos durante o período do processamento da falência ou liquidação extrajudicial.
+3. Recurso especial conhecido e provido" (REsp 1.102.850/PE, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 04/11/2014, DJe 13/11/2014).
+Nesse contexto, os juros moratórios devem ficar suspensos a partir do decreto de liquidação extrajudicial da instituição financeira, voltando a ser exigíveis caso o ativo seja suficiente para o pagamento do principal, respeitada a ordem estabelecida no quadro geral de credores.
+Por fim, no pertinente ao pedido de vedação da incidência da correção monetária, o art. 18, "f", da Lei nº 6.024/1974 foi alterado pelo Decreto-Lei nº 1.477/1976, que em seu artigo 1º, com redação dada pelo Decreto-Lei nº 2.278/1985, assim dispõe:
+"Art. 1º - Incide correção monetária sobre a totalidade das obrigações de responsabilidade das entidades a que se aplica a Lei nº 6.024, de 13 de março de 1974, submetidas a regime de intervenção, liquidação extra-judicial ou falência. (Redação dada pelo Decreto-Lei nº 2.278, de 1985)
+Parágrafo único - O disposto neste artigo, abrange também as operações realizadas posteriormente à decretação da intervenção, liquidação extra-judicial ou falência, referentes a qualquer tipo de obrigação passivas, contratual ou não, inclusive as penas pecuniárias por infração a dispositivos legais. (Redação dada pelo Decreto-Lei nº 2.278, de 1985)"
+Correta, portanto, a incidência da correção monetária.
+Ante o exposto, conheço do agravo para dar parcial provimento ao recurso especial, suspendendo a cobrança dos juros moratórios a partir do decreto de liquidação extrajudicial da seguradora, voltando a ser exigíveis caso o ativo seja suficiente para o pagamento do principal, respeitada a ordem estabelecida no quadro geral de credores.
+Publique-se.
+Intimem-se.
