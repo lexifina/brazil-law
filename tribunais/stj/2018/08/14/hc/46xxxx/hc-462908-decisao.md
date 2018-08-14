@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de CLEITON RODRIGUES ALEXANDRE MOREIRA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (HC n. 2151615-76.2018.8.26.0000).
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, à pena de 5 anos de reclusão, em regime inicial fechado, e multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006 (e-STJ fls. 16/20).
+Irresignada, a defesa interpôs recurso de apelação, o qual encontra-se em processamento na origem. Paralelamente, impetrou habeas corpus na Corte local, oportunidade em que pleiteou o abrandamento do regime prisional, mas o writ foi "liminarmente indeferido" (e-STJ fls. 9/12), em acórdão assim ementado:
+HABEAS CORPUS com pedido liminar. Suposta prática de tráfico ilícito de entorpecentes. Insurgência contra sentença condenatória de primeiro grau. Sustenta haver ausência de fundamentação para imposição do regime inicial fechado. Impossibilidade. Matérias de apelação. A correção ou incorreção da pena deve ser guerreada por meio de recurso próprio e não pela via constitucional eleita.
+Questões de prova que extrapolam os estreitos limites do remédio heroico. Indeferimento liminar.
+No presente mandamus (e-STJ fls. 3/8), a impetrante sustenta que o paciente sofre constrangimento ilegal, pois a negativa de análise da questão suscitada na origem ensejou a manutenção do indevido regime inicial fechado. Afirma que o regime prisional fixado na sentença baseou-se na gravidade abstrata do delito e que o paciente faz jus ao regime semiaberto, tendo em vista que é primário, as circunstâncias judiciais lhe são favoráveis e a condenação não excede 8 anos de reclusão.
+Ao final, liminarmente e no mérito, pede a concessão da ordem para que o regime prisional seja alterado para inicial semiaberto.
+É o relatório. Decido.
+Não obstante as razões deduzidas na petição inicial, não vejo como dar seguimento ao presente writ. Afinal, as razões da presente impetração e respectivo pedido não foram objeto de debate pela Corte local, que entendeu pela inadequação da via eleita, na medida em que a matéria seria apreciada no recurso de apelação já interposto.
+Além disso, eventual constrangimento ilegal não resulta evidente, pois o Juízo sentenciante declinou motivação concreta para o recrudescimento do regime, qual seja, o fato de o crime ter sido cometido logo após o paciente ser beneficiado com liberdade provisória em outro processo pela prática do mesmo crime, incumbindo à própria Corte local, no julgamento do recurso próprio, proceder ao exame exauriente do pedido de reforma.
+Portanto, inexistente pronunciamento do Tribunal de origem sobre a questão ora aventada e não sendo detectado, de plano, flagrante constrangimento ilegal, resulta inviável a apreciação do tema por esta Corte, sob pena de supressão de instância.
+Ante o exposto, com base no art. 210 do Regimento Interno do STJ, indefiro liminarmente a petição inicial do habeas corpus.
+Intime-se.
+Cientifique-se o Ministério Público Federal.
