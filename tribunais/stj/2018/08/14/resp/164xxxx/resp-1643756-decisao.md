@@ -1,0 +1,43 @@
+DECISÃO
+Na origem, trata-se de embargos à execução fiscal opostos por PACTUM CONSULTORIA EMPRESARIAL LTDA, em desfavor do Município de Porto Alegre, objetivando a desconstituição de auto de lançamento de débito tributário.
+Na primeira instância, os embargos à execução foram julgados improcedentes. No Tribunal de Justiça do Estado do Rio Grande do Sul, a sentença foi reformada em acórdão assim ementado:
+APELAÇÃO CÍVEL. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. ISS. SOCIEDADE DE ADVOGADOS. CARÁTER EMPRESARIAL NÃO VERIFICADO. TRIBUTAÇÃO PRIVILEGIADA. ART. 9º, §§ 1º E 3º, DO DECRETO-LEI N. 406/68. CABIMENTO.
+Em se tratando de serviços prestados por sociedades, em caráter social, o ISS será calculado em relação a cada profissional habilitado, nos moldes do § 3º do artigo 9º do Decreto-Lei nº. 406/68.
+APELO PROVIDO. UNÂNIME.
+O Município de Porto Alegre interpôs recurso especial com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, por ofensa ao art. 489, § 1º, do CPC/2015 e ao art. 9º, § 3º, do Decreto-Lei n. 406/68.
+Alega, em síntese, o recorrente que não é cabível a aplicação do regime especial de tributação do ISS, uma vez que teria ficado comprovada a ausência de pessoalidade na prestação dos serviços pela sociedade de advogados.
+Aduz que "o argumento, permanentemente aduzido no processo, de que sociedade de advogados, em que pese o registro na entidade de classe podem vir a exercer suas atividades de forma empresarial, não foi enfrentado, não sendo sequer mencionada a aplicabilidade ou inaplicabilidade da regra contida no art. 966, § único, do Código Civil, in fine que define quem é empresário ou não" (fl. 940).
+Além disso, aponta a existência de divergência jurisprudencial em relação a julgados do Tribunal de Justiça do Estado de Minas Gerais.
+Apresentadas contrarrazões, a parte recorrida requer o desprovimento do recurso especial.
+É o relatório. Decido.
+Inicialmente afasto a alegada violação do art. 489, § 1º, CPC/2015, pois a Corte de origem decidiu motivadamente a controvérsia posta nos autos. A motivação contrária ao interesse da parte, ou mesmo omissa em relação a pontos considerados irrelevantes pelo acórdão, não se traduz em maltrato à norma apontada como violada.
+No mérito, o Tribunal de origem, com base em perícia realizada, concluiu pelo caráter pessoal das atividades prestadas pelos profissionais da sociedade de advogados, in verbis (fls. 876-877):
+Entendo que o caso dos autos não possui qualquer peculiaridade que afaste o caráter pessoal da atividade prestada pelos profissionais. A previsão de repartição de lucros e o pagamento de honorários à empresa embargante não indicam ausência de pessoalidade na prestação dos serviços.
+De acordo com a perícia realizada (fls. 234/247), se conclui que, à época que deu origem ao Auto de Infração e Lançamento nº. 019/2002: a empresa era formada apenas por advogados e bacharéis em direito; que todos os sócios laboravam na empresa; que os serviços prestados pela empresa eram compatíveis com a descrição do objeto social contida no contrato de fls. 41/48, que previa: "terá por objetivo a prestação de serviços profissionais de assessoria e consultoria fiscal e o diagnóstico e planejamento no âmbito do direito fiscal e tributário".
+Assim, para rever tal posicionamento e interpretar o art. 9º, § 3º, do Decreto-Lei n. 406/68 indicado como violado, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito do recurso especial ante a incidência do enunciado n. 7 da Súmula do STJ.
+Nesse sentido é a jurisprudência desta Corte:
+PROCESSUAL CIVIL E TRIBUTÁRIO. ISS. ART. 9º, §§ 1º E 3º, DO DL 406/1968. SOCIEDADE PLURIPROFISSIONAL. NECESSIDADE DE CARÁTER PERSONALÍSSIMO DOS SERVIÇOS SEM NATUREZA EMPRESARIAL. EXAME DEPENDENTE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. APLICABILIDADE. INTERPRETAÇÃO DO ESTATUTO SOCIAL PARA ENQUADRAMENTO TRIBUTÁRIO. SÚMULA 5/STJ. INCIDÊNCIA.
+1. A controvérsia sub examine versa sobre o regime especial de incidência do ISS sobre as sociedades civis uniprofissionais previsto no art. 9º, §§ 1º e 3º, do DL 406/1968.
+2. O Tribunal recorrido entendeu que o fato de os sócios auferirem lucros e arcarem com os prejuízos, com retiradas mensais, a exemplo de qualquer outra sociedade empresarial, descaracteriza a natureza de trabalho unipessoal. Sustentou, ainda, que o quadro societário não é composto por profissionais da mesma atividade, possuindo os sócios registro perante Conselhos distintos, o que também enseja a exclusão do tratamento diferenciado estabelecido na norma.
+3. Malgrado os fundamentos adotados pelo acórdão de origem estejam bem delimitados, a jurisprudência do STJ é pacífica em firmar que a tributação privilegiada do ISS exige que a sociedade uni ou pluriprofissional preste serviço em caráter personalíssimo sem intuito empresarial. Somente seria possível reconhecer a benesse fiscal se a sociedade tiver por objeto a prestação de serviço especializado, com responsabilidade pessoal dos sócios e sem caráter empresarial (AgRg nos EREsp 1.182.817/RJ, Rel. Ministro Mauro Campbell Marques, Primeira Seção, julgado em 22/8/2012, DJe 29/8/2012).
+4. Para avaliação do regime jurídico tributário a que está submetido o recorrente, no intuito de desconstituição do caráter empresarial definido no acórdão a quo, entretanto, não basta examinar a organização estatutária formal da sociedade ou os fundamentos do acórdão recorrido. Seria imprescindível incursionar na própria natureza e na forma de prestação dos serviços profissionais (AgRg no REsp 1.205.175, Rel. Min.Luiz Fux, Primeira Turma, DJe 16.11.2010), para verificar o atendimento às características de uma sociedade simples efetivamente pluriprofissional beneficiária do tratamento fiscal pretendido.
+5. Esse tipo de avaliação implica revolvimento do contexto fático-probatório em que decidida a controvérsia, encontrando óbice na Súmula 07/STJ.
+6. O óbice da Súmula 7 do STJ é aplicável, também, ao Recurso Especial interposto com fundamento na alínea "c" do inciso III do artigo 105 da Constituição da República.
+7. Ademais, necessário seria analisar e interpretar o contrato social do recorrente, para verificação do quadro societário e da índole personalíssima não empresarial dos serviços abstratamente prestados. Tal consideração esbarra na Súmula 05/STJ, conforme jurisprudência.
+8. Recurso Especial não conhecido.
+(REsp 1703408/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 07/12/2017, DJe 19/12/2017)
+Quanto à alegada divergência jurisprudencial, verifico que a incidência do óbice sumular n. 7/STJ impede o exame do dissídio, na medida em que falta identidade entre os paradigmas apresentados.
+Nesse sentido, destaco:
+ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. HEPATITE C. INDENIZAÇÃO POR DANO MATERIAL E MORAL. AUSÊNCIA DE NEXO DE CAUSALIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. DIVERGÊNCIA JURISPRUDENCIAL. SÚMULA 7/STJ.
+1. O Tribunal a quo, procedendo com amparo nos elementos de convicção dos autos, entendeu que não há nexo causal entre a conduta dos agentes públicos e os danos sofridos pelos ora agravantes, e que estes não trouxeram provas para corroborar o que alegou.
+2. Não é cabível em Recurso Especial o exame de questões que demandam o revolvimento do contexto fático-probatório dos autos, em vista do óbice da Súmula 7 do STJ.
+3. A incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução à causa a Corte de origem.
+4. Agravo Interno não provido.
+(AgInt no REsp 1.612.647/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/2/2017, DJe 7/3/2017).
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO RESCISÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DA AUTORA.
+1. A reforma do acórdão recorrido, no sentido de se entender pela falsidade da prova pericial, da existência de documento novo e da ocorrência de erro de fato, demandaria necessário revolvimento de matéria fática, prática vedada pela Súmula 7/STJ.
+2. A incidência da Súmula 7 do STJ impede o exame do dissídio, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+3. Agravo interno desprovido.
+(AgInt no AREsp 638.513/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 9/3/2017, DJe 15/3/2017).
+Ante o exposto, nos termos do art. 255, § 4º, incisos I e II, do RI/STJ, conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento.
+Publique-se. Intimem-se.
