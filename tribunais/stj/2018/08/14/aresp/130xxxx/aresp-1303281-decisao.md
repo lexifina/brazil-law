@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo manejado por Ferreira Lopes Manuntenção Mecânica Ltda contra decisão do Tribunal de Justiça do Estado de São Paulo que inadmitiu o recurso especial ante os seguintes fundamentos: (I) os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão recorrido; (II) não ficou evidenciado o suposto maltrato às normas legais enunciadas; e (III) as teses suscitadas no apelo especial demandariam novo exame do acervo fático-probatório dos autos, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+A parte agravante alega equívoco do Tribunal de origem ao não admitir o recurso especial sob esse fundamento, "pois o v. acórdão recorrido flagrantemente afronta as normas legais invocadas, que por si só demonstram a necessidade de reforma do acórdão proferido pelo órgão colegiado, pautado em leis específicas confrontadas pelos argumentos do Recurso Especial, o qual colaciona, e ainda, decisões em socorro de sua tese para confronto analítico" (fls. 44/45).
+É o relatório.
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois a parte agravante não impugnou os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial, especialmente a apontada aplicação do óbice previsto na Súmula 7/STJ, fundamento autônomo e suficiente para a manutenção da decisão ora agravada.
+No caso, como o recurso especial foi inadmitido tendo por base a Súmula 7/STJ, caberia ao recorrente demonstrar a situação particular do caso dos autos que justificasse o afastamento do referido óbice, providência da qual não se desincumbiu.
+Incide, desse modo e por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Ante o exposto, não conheço do agravo.
+Publique-se.
