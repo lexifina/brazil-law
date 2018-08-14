@@ -1,0 +1,56 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Ordinário em Mandado de Segurança interposto por [NOME] e OUTROS, com base nos arts. 105, II, b, da Constituição da República e 1.027, II, a, do Código de Processo Civil de 2015, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. PRETENSÃO, FORMULADA POR SERVIDORES DO MUNICÍPIO DE SÃO GONÇALO, AO IMPLEMENTO, EM SEUS CONTRACHEQUES, DE ADICIONAL DE REPRESENTAÇÃO. VANTAGEM PRO LABORE FACIENDO, DEPENDENTE DE AVALIAÇÃO DE DESEMPENHO. NECESSIDADE DE DILAÇÃO PROBATÓRIA, INCABÍVEL NA SEDE MANDAMENTAL. PRECEDENTES DESTE EG. TJRJ. PARECER MINISTERIAL EM RESPALDO. DENEGAÇÃO DA SEGURANÇA.
+Nas razões recursais, alega-se, em síntese, que "é cediço que toda legislação supracitada é matéria de direito, ao passo que a prova pré-constituída nos autos é matéria de fato, concernente aos contracheques dos impetrantes e do paradigma apresentados e acima reproduzidos, que comprovam que já é conferido o pagamento da Gratificação de Avaliação de Desempenho a esses servidores, e por isso, os qualificam perceberem a Gratificação de Adicional de Representação pretendida na demanda. O que demonstra a presença dos Requisitos Subjetivos, além dos Objetivos para a concessão da segurança" (fl. 236e).
+Ademais, "frisa-se, que os contracheques é de sobremaneira a prova documental mais importante produzida nos autos, esclarecedora do pleito, eis que consignam todas as rubricas remuneratórias pagas aos funcionários públicos da municipalidade, após procedimento administrativo avaliado pela respectiva pasta".
+No caso, "os documentos que precisam ser avaliados pela corte superior para fins de concessão do adicional de representação são os contracheques dos impetrantes em comparação ao paradigma, declarações da municipalidade, protocolos dos requerimentos administrativos, dos impetrantes, os quais não foram analisados com o devido valor pelo juízo a quo".
+Com contrarrazões (fls. 331/345e), subiram os autos a esta Corte, admitido o recurso na origem.
+O Ministério Público Federal manifestou-se às fls. 431/433e, pelo improvimento do recurso.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, IV, do Código de Processo Civil de 2015, combinado com o art. 34, XVIII, b, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Preenchidos os pressupostos de admissibilidade, passo ao exame do recurso.
+Verifico que o acórdão recorrido adotou entendimento consolidado nesta Corte, segundo qual o mandado de segurança exige prova pré-constituída, não se admitindo dilação probatória ou dúvida quanto ao direito alegado.
+Nesse sentido:
+MANDADO DE SEGURANÇA. PROCESSO ADMINISTRATIVO DISCIPLINAR. AUDITORA FISCAL DO TRABALHO. PRESCRIÇÃO. TERMO INICIAL. CONHECIMENTO DA AUTORIDADE ADMINISTRATIVA. INSTAURAÇÃO DO PAD. CAUSA INTERRUPTIVA. FLUÊNCIA APÓS 140 DIAS. PRESCRIÇÃO AFASTADA MESMO QUE CONSIDERADO O PRAZO QUINQUENAL. INFRAÇÕES DISCIPLINARES TIPIFICADAS COMO CRIME. INCIDÊNCIA DO ART. 142, § 2º, DA LEI 8.112/90. INDEPENDÊNCIA DAS INSTÂNCIAS PENAL E ADMINISTRATIVA. VINCULAÇÃO APENAS NO CASO DE SENTENÇA PENAL ABSOLUTÓRIA COM BASE EM PROVA DA INEXISTÊNCIA DO CRIME OU DA NEGATIVA DE AUTORIA. UTILIZAÇÃO DE PROVA EMPRESTADA DA SEARA CRIMINAL. POSSIBILIDADE. PEDIDO DE EXIBIÇÃO DE DOCUMENTOS SEM INDÍCIOS DE RECUSA DA AUTORIDADE ADMINISTRATIVA. INVIABILIDADE. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. PRECARIEDADE DA PROVA PRÉ-CONSTITUÍDA. ORDEM DENEGADA.
+1. Mandado de segurança contra ato do Ministro de Estado do Trabalho e Emprego, que aplicou a pena de demissão a Auditora Fiscal do Trabalho, enquadrando-a nas infrações disciplinares previstas nos arts. 117, incisos IX e XV, e 132, incisos IV e XI, ambos da Lei n.
+8.112/90.
+2. A Lei 8.112/90, ao versar sobre a prescrição da ação disciplinar (art. 142), prevê como seu termo inicial a data do conhecimento do fato pela autoridade competente para instaurar o processo administrativo disciplinar (§ 1º do art. 142), cujo implemento constitui causa interruptiva (§ 3º do art. 142), ficando obstada a fluência por 140 (cento e quarenta) dias, porquanto esse seria o prazo legal para término do processo disciplinar (§ 4º do art. 142 c/c arts. 152 e 167). Precedentes. Nessa esteira, mesmo que aplicado o prazo quinquenal, na espécie, não houve prescrição.
+3. "Os prazos de prescrição previstos na lei penal aplicam-se às infrações disciplinares capituladas também como crime" (§ 2º do art.
+142 da Lei 8.112/90). Hipótese em que as infrações disciplinares imputadas à impetrante também são objeto de ação penal em curso, por meio da qual responde pela prática do crime previsto no art. art.
+317 do CP, cujo prazo de prescrição é de 16 anos, conforme art. 109 do Código Penal.
+4. As instâncias penal e administrativa são independentes, sendo que a única vinculação admitida ocorre quando, na seara criminal, restar provada a inexistência do fato ou a negativa de autoria. Hipótese em que a impetrante figura como acusada em ação penal pela prática dos crimes de corrupção passiva e quadrilha. Precedentes.
+5. Respeitado o contraditório e a ampla defesa, é admitida a utilização, no processo administrativo, de "prova emprestada" devidamente autorizada na esfera criminal. Precedentes.
+6. Pedidos de exibição de documentos realizados de forma genérica e sem nenhum indício de que a autoridade impetrada se recusou a fornecê-los desbordam do disposto no art. 6º, § 2º, da Lei 12.016/09.
+7. O mandado de segurança exige demonstração de ofensa a direito líquido e certo, aferível por prova pré-constituída, não sendo admitida dilação probatória. Precedentes.
+8. Segurança denegada.
+(MS 17.954/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 26/02/2014, DJe 19/03/2014)
+Com acerto, o tribunal de origem consignou que, para concessão da segurança, além do preenchimento dos requisitos objetivos é necessário o preenchimento do requisito subjetivo, consistente na avaliação de desempenho a ser realizada pelo Chefe do Poder Executivo, que demonstre a absoluta igualdade individual de situações e características à luz dos parâmetros de desempenho, sendo insuficiente a mera indicação de servidor paradigma:
+Nesta ordem de idéias, o artigo 62, XXIII do Estatuto dos Servidores Públicos de São Gonçalo- com a redação dada pela Lei 608/14- prevê o seguinte:
+Art.62 - Além do vencimento, poderão ser pagas aos servidores as seguintes vantagens:
+XXIII. Adicional de Representação.
+Amiúde, na regulamentação do tema, eis os requisitos previstos pelo Decreto 84/2015 para concessão do adicional:
+Art. 1o - O Adicional de Representação (AR), instituído pela Lei nº 608/2014, será concedido ao servidor efetivo em razão da natureza e da peculiaridade das funções exercidas, encontrando-se ele no Gabinete ou outra Secretaria Municipal.
+Art. 2o - São requisitos para obtenção do AR:
+I - encontrar-se o servidor no desempenho de suas funções no Gabinete do Prefeito ou em Secretaria Municipal;
+II - não trabalhar em regime de escala;
+III - regime de trabalho de 40 horas semanais
+Parágrafo único - Na aferição do desempenho das atividades mencionadas serão ainda considerados: o grau de responsabilidade da função, a assiduidade do servidor e a sua disciplina.
+Art. 3o - A concessão do AR será de competência exclusiva do Prefeito, após avaliação objetiva e manifestação favorável e por escrito do titular da pasta.
+Parágrafo único - Ficam convalidados os AR concedidos anteriormente mediante ratificação do titular da pasta, uma vez verificado que o servidor preenche os requisitos do Art. 2o.
+Como se vê, alguns requisitos são objetivos: estar em exercício no Gabinete do Prefeito ou em Secretaria, não trabalhar em regime de escala, cumprir 40 (quarenta) horas semanais etc..
+Há outro, entretanto, que é subjetivo e depende de avaliação de desempenho a ser realizada pelo Chefe do Poder Executivo.
+Ressai, pois, insuficiente, para a pré constituição de prova do direito postulado, a indicação de servidor paradigma. Afinal, a fim de consagrar o pleito dos impetrantes, além da comparação das habilitações objetivas, ainda será necessário aferir a absoluta igualdade individual de situações e características à luz dos parâmetros de desempenho considerados pela legislação de regência.
+Inacessível, neste contexto em que necessária dilação probatória, a via mandamental.
+(..)
+Em segundo lugar, os argumentos trazidos nestes embargos não atingem a ratio do v. acórdão; ainda que se possa entrever a existência de prévia avaliação de desempenho, o fato é que a imposição do percentual máximo depende de conhecer a escala de mérito empregada pela municipalidade na atribuição das vantagens remuneratórias, bem como a posição dos impetrantes nesta classificação, considerados, ainda, os demais servidores.
+Logo, ainda assim, é patente a necessidade de dilação probatória, ainda que a prova pré-constituída já informe o pagamento da gratificação aos impetrantes.
+Em outros termos, o contracheque passa ao largo de, por si só, demonstrar a presença de todos os requisitos objetivos e subjetivos necessários ao deferimento do pleito.
+No mesmo sentido, é o parecer do Ministério Público Federal (fls. 431/433e):
+Observa-se que a regulação da gratificação pleiteada exige que o chefe do poder executivo decida, fundado em procedimento administrativo, sobre a concessão do adicional de representação, levando em consideração "avaliação de mérito da pasta a que estiver vinculado o servidor que demonstrar excepcional desempenho de suas funções, com sensível proveito para o exercício" (art. 4º da Lei 583/2014, posteriormente alterada pela Lei 608/2014).
+No presente caso, os recorrentes não demonstraram seu direito líquido e certo, limitando-se em apontar recebimento de mesmo valor sob rubrica "Gratificação de Avaliação de Desempenho" nos contracheques dos recorrentes com o do servidor paradigma, o que não serve como prova cabal de excepcional desempenho no exercício de suas funções (requisito subjetivo para concessão gratificação pleiteada).
+De fato, não há nos autos prova pré-constituída suficiente para o reconhecimento do direito líquido e certo apontado pelos Recorrentes, razão pela qual o acórdão recorrido deve ser mantido pelos seus próprios fundamentos.
+Isto posto, com fundamento no art. 932, IV, do Código de Processo Civil de 2015 e art. 34, XVIII, b, do Regimento Interno desta Corte, NEGO PROVIMENTO ao Recurso Ordinário.
+Publique-se e intimem-se.
