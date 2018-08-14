@@ -1,0 +1,61 @@
+EMENTA
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. RÉU QUE SE DEDICA AO TRÁFICO DE DROGAS. REGIME PRISIONAL. PENA SUPERIOR A 4 ANOS E NÃO EXCEDENTE A 8 ANOS. MODO INTERMEDIÁRIO ADEQUADO. SUBSTITUIÇÃO POR RESTRITIVA DE DIREITOS. FALTA DE PREENCHIMENTO DE REQUISITO OBJETIVO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem, de ofício.
+2. Os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas (art. 33, § 4º, da Lei n. 11.343/2006).
+3. Concluído pela instância antecedente, com fulcro na quantidade e na diversidade das substâncias apreendidas - 167 buchas de maconha (186g), 216 pedras de crack (40,4g), mais 6 porções de crack (146,9g) e 1 porção de cocaína (13,8g) -, assim como nos demais elementos constantes dos autos, que o paciente se dedica ao tráfico de drogas, a alteração desse entendimento - para fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus. Precedentes.
+4. Mantido o quantum da pena em patamar superior a 4 anos e não excedente a 8 anos, é inviável a fixação do regime aberto, assim como a substituição da pena privativa de liberdade por restritivas de direitos, nos exatos termos dos arts. 33, § 2º, "b", e 44, I, ambos do Código Penal.
+5. Habeas Corpus não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do pedido.
+Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de JOSE OTAVIO DE SOUZA, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Espírito Santo.
+Consta dos autos que o paciente foi condenado à pena de 5 anos de reclusão, em regime semiaberto, mais pagamento de 500 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006.
+Em sede recursal, o Tribunal de origem negou provimento ao apelo defensivo.
+Neste writ, alega o impetrante que a quantidade e a natureza de entorpecentes apreendidos não constituem elementos idôneos para afastar o redutor do tráfico privilegiado, a pretexto de que o paciente se dedica ao comércio espúrio.
+Requer, assim, a aplicação da minorante na fração máxima.
+Liminar indeferida (e-STJ, fl. 34).
+Informações prestadas (e-STJ, fls. 42-51).
+O Ministério Público Federal opinou pela denegação da ordem (e-STJ, fls. 53-56).
+É o relatório.
+EMENTA
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. RÉU QUE SE DEDICA AO TRÁFICO DE DROGAS. REGIME PRISIONAL. PENA SUPERIOR A 4 ANOS E NÃO EXCEDENTE A 8 ANOS. MODO INTERMEDIÁRIO ADEQUADO. SUBSTITUIÇÃO POR RESTRITIVA DE DIREITOS. FALTA DE PREENCHIMENTO DE REQUISITO OBJETIVO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem, de ofício.
+2. Os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas (art. 33, § 4º, da Lei n. 11.343/2006).
+3. Concluído pela instância antecedente, com fulcro na quantidade e na diversidade das substâncias apreendidas - 167 buchas de maconha (186g), 216 pedras de crack (40,4g), mais 6 porções de crack (146,9g) e 1 porção de cocaína (13,8g) -, assim como nos demais elementos constantes dos autos, que o paciente se dedica ao tráfico de drogas, a alteração desse entendimento - para fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus. Precedentes.
+4. Mantido o quantum da pena em patamar superior a 4 anos e não excedente a 8 anos, é inviável a fixação do regime aberto, assim como a substituição da pena privativa de liberdade por restritivas de direitos, nos exatos termos dos arts. 33, § 2º, "b", e 44, I, ambos do Código Penal.
+5. Habeas Corpus não conhecido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse contexto, passo ao exame das supostas ilegalidades apontadas pela defesa.
+O Tribunal a quo, ao negar provimento ao apelo defensivo, manteve afastada a minorante do art. 33, § 4º, da Lei de Drogas, pelos seguintes motivos:
+"Para incidência do § do artigo 33, da Lei na 11.343/06, é necessário que reste comprovado que o acusado seja primário, tenha bons antecedentes, que não se dedique a atividades criminosas ou integre organização criminosa.
+Assim, preenchidos os referidos requisitos, estaria o magistrado sentenciante autorizado a reduzir a pena fixada de 1/6 (um sexto) a 2/3 (dois terços), levando em consideração a responsabilidade penal do acusado, bem como, as circunstâncias da prisão.
+No caso focado, trata-se de réu tecnicamente primário, com antecedentes imaculados, contudo a quantidade de droga apreendida e não comprovação de trabalho lícito leva a crer tratar-se de réu que se dedica à atividade criminosa, de modo que entendo não preenchidos os requisitos para a obtenção do referido benefício, notadamente por que a quantidade de droga apreendida - no caso concreto - pode ser considerada elevada, afastando rigorosamente a aplicação da causa de diminuição.
+No caso presente entendo que a quantidade e a variedade de droga apreendida com o agente foi suficiente ( ou considerável) a ponto de impedir o reconhecimento do chamado "tráfico privilegiado", eis que o deixa evidenciando tratar-se de agente que se dedica a atividade criminosa ou integre organização criminosa.
+ ..
+No caso presente, a pena base foi fixada no mínimo legal, não sendo utilizada a quantidade e variedade da droga como circunstância a aumentar a pena base. Logo, diante das circunstancias do caso concreto, a quantidade e a variedade da droga pode ser utilizado como justificativa para a não incidência da causa de diminuição do § 49 do artigo 33 da lei de drogas, sem gerar bis in idem.
+Portanto, há motivação idônea para a não aplicação do beneficio até por que a quantidade de droga apreendida foi considerável a ponto de impedir o privilégio, devendo ser mantida a r. sentença integralmente" (e-STJ, fls. 26-27).
+A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+Como é cediço, o legislador ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida.
+Na falta de parâmetros legais para se fixar o quantum dessa redução, os Tribunais Superiores decidiram que a quantidade e a natureza da droga apreendida, além das demais circunstâncias do art. 59 do CP, podem servir para a modulação de tal índice ou até mesmo para impedir a sua aplicação, quando evidenciarem o envolvimento habitual do agente com o narcotráfico (HC 401.121/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/6/2017, DJe 1/8/2017 e AgRg no REsp 1.390.118/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/5/2017, DJe 30/5/2017).
+In casu, a Corte de origem afastou a incidência do redutor por entender que as circunstâncias fáticas do delito, sobretudo a quantidade e a diversidade das drogas apreendidas - 167 buchas de maconha (186g), 216 pedras de crack (40,4g), mais 6 porções de crack (146,9g) e 1 porção de cocaína (13,8g) - denotam a habitualidade delitiva do paciente no tráfico de entorpecentes.
+Portanto, assentado pela instância ordinária, soberana na análise dos fatos, que o paciente faz do comércio ilícito de entorpecentes uma atividade habitual, a modificação desse entendimento - a fim de fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus.
+A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI 11.343/2006. ELEVADA QUANTIDADE DE DROGAS. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. RECURSO NÃO PROVIDO.
+1. Para a aplicação da minorante descrita no § 4º do art. 33 da Lei de Drogas, são exigidos, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa e que não se dedique a atividades delituosas.
+2. Este Superior Tribunal tem decidido que a apreensão de grande quantidade de drogas, a depender das peculiaridades do caso concreto, é hábil a denotar a dedicação do acusado a atividades criminosas e, consequentemente, a impedir a aplicação da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, porque indica maior envolvimento do agente com o mundo das drogas.
+3. Agravo regimental não provido."
+(AgRg no AREsp 1052340/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4/5/2017, DJe 11/5/2017);
+"HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. ALEGAÇÃO DE NULIDADE. INTERROGATÓRIO. INÍCIO DA AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO. PROCEDIMENTO ESPECIAL DA LEI N. 11.343/2006. ILEGALIDADE. AUSÊNCIA. PENA-BASE. REDUÇÃO. RECONHECIMENTO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. PROVIDÊNCIAS INÓCUAS. SÚMULA N. 231/STJ. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. NÃO INCIDÊNCIA. CONCLUSÃO DE QUE OS PACIENTES DEDICAVAM-SE ÀS ATIVIDADES CRIMINOSAS.
+AFERIÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. PENA SUPERIOR A 4 ANOS. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO IDÔNEA. CIRCUNSTÂNCIAS DO CASO CONCRETO. ILEGALIDADE. AUSÊNCIA. DENEGAÇÃO DA ORDEM.
+ ..
+3. Concluído pela Corte de origem, com arrimo nos fatos da causa, que os pacientes dedicavam-se às atividades criminosas, não incide a causa especial de diminuição de pena, porquanto não preenchidos os requisitos previstos no art. 33, § 4º, da Lei n. 11.343/2006. Para concluir em sentido diverso, há necessidade de revolvimento do acervo fático-probatório, providência incabível na via estreita do habeas corpus.
+ ..
+Habeas corpus denegado."
+(HC 385.941/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 27/4/2017, DJe 8/5/2017).
+Por fim, mantido o quantum da pena em patamar superior a 4 anos e não excedente a 8 anos, é inviável a fixação do regime aberto, assim como a substituição da pena privativa de liberdade por restritivas de direitos, nos exatos termos dos arts. 33, § 2º, "b", e 44, I, ambos do Código Penal.
+Diante do exposto, não conheço deste habeas corpus.
+É como voto.
