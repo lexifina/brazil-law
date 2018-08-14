@@ -1,0 +1,15 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. AGRAVO DE INSTRUMENTO CONTRA DECISÃO LIMINAR DO JUÍZO DE 1º GRAU. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. PERDA DE OBJETO DO RECURSO ESPECIAL. ACLARATÓRIOS ACOLHIDOS PARA JULGAR PREJUDICADO O RECURSO ESPECIAL.
+DECISÃO
+Cuida-se de embargos de declaração manejados por AGRALE SOCIEDADE ANÔNIMA em face de decisão de minha lavra resumida da seguinte forma:
+TRIBUTÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. LEI Nº 9.784/1999. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 282 DO STF. RESSARCIMENTO DE CRÉDITOS ESCRITURAIS. APRECIAÇÃO DO PEDIDO ADMINISTRATIVO PELO FISCO. PRAZO DE 360 DIAS PREVISTO NO ART. 24 DA LEI Nº 11.457/07. CORREÇÃO MONETÁRIA DEVIDA. TERMO INICIAL APÓS O ESCOAMENTO DO PRAZO PARA APRECIAÇÃO DO PEDIDO. ENTENDIMENTO ADOTADO PELA PRIMEIRA SEÇÃO DO STJ, NA ASSENTADA DE 22/2/2018, NOS AUTOS DO ERESP 1.461.607/SC. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PROVIDO.
+A embargante alega, em síntese, que foi proferida sentença definitiva nos autos do presente mandado de segurança, de modo que o agravo de instrumento interposto em face da liminar do qual se origina o presente recurso especial perdeu seu objeto.
+Sem impugnação.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A irresignação merece acolhida.
+Com efeito, o Tribunal Regional Federal da 4ª Região oficiou às fls. 166 e-STJ informando a superveniente de sentença nos autos do processo nº 50060390220174047107 que deu origem ao agravo de instrumento do qual se origina o presente recurso especial.
+É cediço nesta Corte que "fica prejudicado, por perda de objeto, o exame de Recurso Especial interposto contra acórdão proferido em Agravo de Instrumento de decisão liminar ou de antecipação de tutela, na hipótese de já ter sido prolatada sentença de mérito" (AgRg no AREsp 307.087/RS, Rel. Ministro Og Fernandes, Segunda TURMA, DJe de 25/06/2014).
+No mesmo sentido: AgInt no AREsp 879.434/MG, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 19/12/2016; REsp 1.591.827/PB, Rel. Ministro Herman Benjamin, segunda Turma, DJe de 08/09/2016;AgRg no AREsp 663.910/RO, Rel. Ministro Humberto Martins, Segunda Turma, DJe de 22/03/2016; AgRg no REsp 1.413.651/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 18/12/2015; REsp 1.351.883/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 14/05/2015; AgRg no AREsp 51.857/SP, Rel. Ministro João Otávio de Noronha, Terceira Turma, DJe de 26/05/2015.
+Ante o exposto, acolho os embargos de declaração, com efeitos infringentes, para julgar prejudicado o presente recurso especial por perda de objeto com fulcro no art. 34, XI, do RISTJ, haja vista a superveniência da sentença de mérito. Eventual irresignação da parte sucumbente deve ser aviada através de recurso próprio.
+Publique-se. Intimem-se.
