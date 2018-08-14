@@ -1,0 +1,44 @@
+EMENTA
+AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. TERCEIRA FASE. MINORANTE. AUSÊNCIA DE PREENCHIMENTO DOS REQUISITOS LEGAIS PARA OBTENÇÃO DO BENEFÍCIO. RECURSO NÃO PROVIDO.
+1. As instâncias antecedentes concluíram pelo não atendimento das exigências legais para a concessão do benefício a partir da avaliação criteriosa do conjunto probatório.
+2. A quantidade de drogas envolvida na ocorrência (1593,41 g de maconha e 2,2 g de cocaína) foi considerada circunstância apta a demonstrar a existência de vínculo entre o agravante e organização criminosa ou, no mínimo, sua dedicação à prática de atividades ilícitas, circunstâncias que afastam a incidência do benefício previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+3. Agravo regimental a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JORGE MUSSI: Trata-se de agravo regimental interposto por [NOME], nos termos do art. 258 do Regimento Interno do Superior Tribunal de Justiça, contra decisão unipessoal desta Relatoria (e-STJ, fls. 671-675), que não conheceu do recurso especial, mas, de ofício, concedeu ordem de habeas corpus para redimensionar a pena aplicada ao ora agravante.
+Em 17.12.2015, o agravante foi flagrado na posse de 1593,41 g de maconha e 2,2 g de cocaína. Além dos entorpecentes o acusado foi flagrado na posse de munição de uso permitido, em desacordo com determinação legal. Diante desses fatos, o agravante foi denunciado pela prática dos crimes previstos nos arts. 33 e 35 da Lei n. 11.343/2006 e art. 12 da Lei n. 10.826/2003.
+A sentença considerou procedente a pretensão acusatória e condenou o réu a 1 (um) ano e 8 (oito) meses de reclusão, além de 166 (cento e sessenta e seis) dias-multa pelo delito de tráfico de drogas, mais 1 (um) ano de detenção e 10 (dez) dias-multa pelo delito previsto no art. 12 do Estatuto do Desarmamento. O acusado foi absolvido do delito de associação para o tráfico de drogas.
+Tanto a defesa quanto a acusação recorreram. O apelo ministerial obteve êxito perante o eg. Tribunal de Justiça de São Paulo e a pena imposta ao agravante em razão da prática do crime de tráfico de drogas foi aumentada para 6 (seis) anos e 3 (três) meses de reclusão, em regime inicial fechado, além de 625 (seiscentos e vinte e cinco) dias-multa.
+O recurso especial pretendeu o redimensionamento da pena aplicada, fazendo incidir o redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006. O apelo não foi admitido na origem.
+Esta Corte, ao apreciar o agravo em recurso especial, reduziu a sanção imposta ao acusado, que passou a ser de 5 (cinco) anos e 500 (quinhentos) dias-multa, mantendo o regime inicial fechado.
+Neste regimental, a defesa argumenta que "não houve aumento de pena pelo Tribunal de Justiça paulista na terceira fase da dosimetria da pena, sendo de bom alvitre ressaltar que, ainda que houvesse, esse argumento, por si só, não seria suficiente para afastar a incidência do redutor, considerando-se que a letra da lei não preconiza tal argumento como impeditivo de concessão da benesse" (e-STJ, fls. 691-692).
+Ao final, busca a reconsideração da decisão impugnada ou, subsidiariamente, a apresentação do recurso ao Colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JORGE MUSSI: A insurgência é tempestiva, pois interposta aos 10.5.2018 (e-STJ fl. 684). Considerando que a Defensoria Pública Minas Gerais, que patrocina o agravante, tomou ciência da decisão em 5.6.2018 (e-STJ, fl. 369), o recurso foi aviado dentro do prazo estipulado no art. 258, combinado com o art. 109, § 1º, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Quanto ao mérito, o recurso cinge-se à redução da pena imposta ao agravante, com o restabelecimento na minorante prevista no art. 33, § 4º, da Lei de Drogas.
+O benefício foi afastado pelo Colegiado estadual sob os seguintes termos:
+Conforme pleiteado pelo Ministério Público e 6 acolhido por esta Relatora, incabível a aplicação da causa de diminuição prevista no art. 33, § 4º, da Lei nº 11.343/06, uma vez que restou configurado que o acusado não se trata de um traficante eventual, mas sim, que se dedica a atividades criminosas, pois diante das circunstâncias do crime descritos na denúncia, bem como a grande quantidade, natureza e diversidade dos entorpecentes apreendidos, conforme já mencionado, levando em consideração, ainda, que os policiais localizaram na residência do acusado quantidade grande de dinheiro, em notas trocadas, além de 04 (quatro) aparelhos celulares, constata-se que o réu não pode ser considerado como neófito.
+Esses elementos acima expostos, em especial a natureza e a diversidade de drogas localizados na sua residência do apelante, mostram-se como circunstâncias idôneas para impedir a aplicação do benefício do redutor, uma vez denotadora de que, para ter acesso a elas, claramente se incorporou à organização criminosa, ou, no mínimo, tem se dedicado frequentemente à traficância, critério jurisprudencial encontrável tanto no Col. Supremo Tribunal Federal (..), quanto no E. STJ (..). (e-STJ, fls. 404-405, grifou-se).
+A atual Lei de Drogas traz uma inovação no que se refere à aplicação da pena do crime de tráfico de entorpecentes. O art. 33, § 4º da citada lei dispõe que, para o crime de tráfico de entorpecentes e suas figuras equiparadas, as penas poderão ser reduzidas de um sexto a dois terços, desde que: a) o agente seja primário; b) com bons antecedentes; c) não se dedique às atividades criminosas; e d) não integre organização criminosa.
+Na hipótese, observa-se que o eg. Tribunal de origem, com esteio no conjunto probatório acostado aos autos, concluiu que o agravante se dedica ao tráfico de entorpecentes, motivo pelo qual deixou de aplicar a causa especial de diminuição de pena em testilha, entendimento que se encontra de acordo com a jurisprudência deste Superior Tribunal de Justiça:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO DE DROGAS. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA (ART. 33, § 4º, DA LEI N. 11.343/06). DEDICAÇÃO DO PACIENTE À ATIVIDADE CRIMINOSA. CIRCUNSTÂNCIAS DO DELITO E QUANTIDADE DE DROGA APREENDIDA. (..).
+(..)
+2. Os fundamentos utilizados pela Corte estadual para não aplicar ao caso concreto a causa de diminuição de pena prevista no § 4º do art.
+33 da Lei n. 11.343/06, em razão da dedicação do paciente à atividade criminosa, evidenciada sobretudo pelas circunstâncias do delito e pela quantidade de drogas apreendidas (33,7g de "maconha", distribuída em 18 embalagens), está em consonância com o entendimento desta Corte.
+Ademais, para se acolher a tese de que o paciente não se dedica às atividades criminosas, é necessário o reexame aprofundado das provas, inviável em habeas corpus.
+(..)
+Habeas corpus não conhecido. Ordem concedida de ofício para fixar o regime inicial semiaberto. (HC 289.065/RJ, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/08/2016, DJe 02/09/2016)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO DE DROGAS. PLEITO DE RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. (..) PACIENTES GRACIELLE E EDMILSON. CONCLUSÃO DO TRIBUNAL A QUO, COM BASE NO ACERVO PROBATÓRIO, NO SENTIDO DE QUE SE DEDICAVAM A ATIVIDADES CRIMINOSAS. (..) HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+(..)
+3. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que não há ilegalidade na negativa de aplicação da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006 quando as circunstâncias do delito permitem aferir que o agente se dedica às atividades criminosas.
+(..)
+11. Habeas corpus não conhecido. Contudo, ordem concedida, de ofício, apenas para fixar o regime semiaberto para o paciente EDMILSON. (HC 312.499/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/08/2016, DJe 30/08/2016)
+HABEAS CORPUS SUBSTITUTIVO. (..) CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA (ART. 33, § 4º, DA LEI N. 11.343/2006). AFASTAMENTO DA MINORANTE COM FUNDAMENTO EM ELEMENTOS FÁTICOS DE QUE O PACIENTE SE DEDICA À ATIVIDADES CRIMINOSAS. CONCLUSÃO EM SENTIDO INVERSO. INVIABILIDADE. (..).
+(..)
+4. Não há que se falar em aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006 quando o Magistrado de piso e a Corte estadual, apreciando todas as circunstâncias do caso concreto, entenderam que o paciente se dedicava a atividade criminosa.
+(..)
+7. Habeas corpus não conhecido. (HC 353.774/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 16/08/2016, DJe 01/09/2016)
+Diante do exposto, nego provimento ao agravo regimental.
+É o voto.
