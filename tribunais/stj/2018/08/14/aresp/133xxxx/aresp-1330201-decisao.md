@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Agravo, interposto por [NOME] DA ROSA, em 11/04/2018, contra decisão do Tribunal de Justiça do Estado de São Paulo, que inadmitiu o Recurso Especial manejado em face de acórdão assim ementado:
+"FORNECIMENTO DE ÁGUA E COLETA DE ESGOTO Pretensões condenatórias ao cumprimento de obrigação de fazer e indenizatória de dano moral julgadas procedentes - Dívida relativa a período em que o imóvel se encontrava em poder do promissário comprador e que foi retomado pelo promitente vendedor, em razão da inadimplência Existência, entretanto, de débito posterior à retomada do imóvel e contemporâneo à data da interrupção do fornecimento Atuação do fornecedor em sintonia com o entendimento jurisprudencial que prevalece sobre o tema Dano moral não caracterizado, em conta, sobretudo, que o proprietário, arbitrariamente, fez ligação direta da água, contornando a interrupção legítima do fornecimento Fatos incontroversos Recurso provido para julgar improcedentes os pedidos deduzidos na petição inicial" (fl. 287e).
+Sustenta a parte agravante, nas razões do Recurso Especial, ofensa aos artigos 6º, VII, do CDC, sob os seguintes fundamentos:
+"Com a devida vênia, a afronta ao disposto no art. 6º, VII, do CDC, resta patente nos autos, senão vejamos:
+A análise, ainda que perfunctória do processado, nos remete a inexorável conclusão que a decisão colegiada afronta o disposto no art. 6º, VII, do CDC, haja vista que o ônus probatório, em casos que tais, deve recair sobre a recorrida, posto que se trata de relação consumerista.
+Com efeito, este foi o raciocínio utilizado pelo Magistrado a quo para proceder o enfrentamento da quaestio, o qual foi acertadamente utilizado, "d.m.v.".
+Afinal, não resta dúvida acerca da relação de consumo havida entre as partes, haja vista que a recorrida se trata de fornecedora de serviços de água/esgoto e, de outro lado, o recorrente é o usuário final de tais serviços.
+Diante da disparidade gritante de forças, a legislação consumerista impôs a inversão do ônus da prova, de tal modo eu impõe ao fornecedor fazê-la (positiva ou negativamente), a fim de desconstituir a pretensão da outra parte.
+No caso dos autos, com a devida vênia, a recorrida não se desincumbiu de seu ônus, haja vista que não demonstrara que a dívida em questão era única e exclusiva do recorrente" (fls. 293/298e).
+Requer, ao final, o provimento do Recurso Especial.
+Apresentadas contrarrazões (fls. 303/320e).
+Negado seguimento ao Recurso Especial (fls. 321/322e), foi interposto o presente Agravo (fls. 325/329e).
+Não foi apresentada contraminuta (fl. 322/348e).
+A irresignação não merece acolhimento.
+Acerca da controvérsia, manifestou-se o Tribunal de origem:
+"Bem examinados os autos, percebe-se claramente que o apelante atuou em consonância com as regras de direito e jurisprudência prevalente sobre os temas debatidos.
+Isto porque ao tempo em que ocorreu a interrupção do fornecimento da água pendia débito relativo ao período em que o apelado já havia retomado a posse do imóvel que havia compromissado à venda a terceiro.
+Nesse sentido, o demonstrativo de fls. 177/178, não impugnado pelo apelado.
+A interrupção do fornecimento ocorreu a 02.08.2010, cf. fl. 176. Ora, a essa época o apelado, que havia retomado a posse do imóvel desde abril de 2008, não pagou os fornecimentos subsequentes, incorrendo, portanto, na conduta que autorizava a interrupção do fornecimento, posto que atual.
+Vale dizer, a interrupção do fornecimento da água não ocorreu, apenas, por conta do não pagamento dos fornecimentos no período em que o imóvel não estava na posse do apelado, mas também por conta do não pagamento de débitos vencidos depois da retomada da posse e contemporâneos ao tempo em que ocorreu a interrupção, o que desautoriza a solução adotada na r. sentença, inclusive no que toca ao reconhecimento do dano moral, certo que não se cuidou de procedimento abusivo por parte do apelante.
+Aliás, a propósito desse alegado dano, bem é de se ver que o apelado, depois da interrupção do fornecimento por falta de pagamento da água, efetuou ligação clandestina, como apontado no levantamento de fls. 201/203, também não impugnado, conduta que não atina com a boa-fé.
+Inconvincente a alegação do apelado, segundo a qual não conseguiu pagar as faturas de consumo porque estavam vinculadas a débito automático na conta corrente do terceiro adquirente. Sabe-se muito bem que se não houver o débito automático na data do vencimento é possível o pagamento da fatura de outro modo, inclusive com obtenção de segunda via. Também era possível o pagamento da fatura, ainda que emitida em nome de terceiro.
+Além disso, o apelado só cuidou de regularizar a situação em agosto de 2010, quando ocorreu a interrupção do fornecimento da água (fl.
+19). Nessa época, já havia consumido água por mais de dois anos, sem pagamento.
+De resto, o apelado não deduziu pretensão declaratória de inexigibilidade do débito, quer aquele relativo ao período em que não estava na posse do imóvel, quer em relação ao período em que o imóvel esteve na sua posse, por isso que nada pode ser decidido sobre isso neste processo" (fls. 286/290e).
+Desse modo, a modificação das conclusões do acórdão recorrido, implicaria, necessariamente, o revolvimento do conjunto fático-probatório dos autos, o que é vedado, em sede de Recurso Especial, pelo óbice enunciado na Súmula 7/STJ.
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC), majoro os honorários advocatícios anteriormente fixados em 10% do valor da causa para 11% do valor da causa, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos no § 2º do art. 85 do CPC/2015.
+Ressalte-se que, em caso de reconhecimento do direito à gratuidade de justiça, permanece suspensa a exigibilidade das obrigações decorrentes de sua sucumbência, nos termos do § 3º do art. 98 do CPC/2015.
+I.
