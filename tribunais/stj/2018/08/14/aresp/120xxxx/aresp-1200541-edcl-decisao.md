@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MÔNICA DALFOVO, MONIQUE ELLEN DALFOVO, RICARDO JOÃO DALFOVO e ALEXANDRE JOÃO RICARDO DALFOVO contra decisão que, ao conhecer do agravo, não conheceu do recurso especial, com majoração da verba honorária de sucumbência.
+Os embargantes, pedindo a suspensão da eficácia da decisão embargada, consideram haver contradição, uma vez que entenderem pela inexistência de óbices ao conhecimento do especial, notadamente, os referentes às Súmulas 7 do STJ e 282 e 284 do STF e a ausência de similitude fático-jurídica a ensejar admissão pela alínea "c" do permissivo constitucional.
+Sem impugnação pela FAZENDA NACIONAL.
+Passo a decidir.
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+O § 1º do art. 1.026 do CPC/2015 dispõe "a eficácia da decisão monocrática ou colegiada poderá ser suspensa pelo respectivo juiz ou relator se demonstrada a probabilidade de provimento do recurso ou, sendo relevante a fundamentação, se houver risco de dano grave ou de difícil reparação".
+Não obstante, após nova análise processual provocada pela oposição dos aclaratórios, observo não estar autorizada a suspensão da eficácia da decisão embargada, pois não há probabilidade de acolhimento dos embargos de declaração nem de provimento do recurso especial, tendo em vista não preencher os requisitos de admissibilidade. E, de outro lado, a regular tramitação do processo executivo, com a constrição de bens e a respectiva alienação não é, por si só, situação caracterizadora de dano grave ou de difícil reparação, uma vez que a execução se dá no interesse do credor e visa à satisfação da obrigação inadimplida.
+No caso, convém destacar o fato de a petição recursal não indicar nenhum vício de integração, demonstrando somente a irresignação dos embargantes quanto ao resultado do julgamento monocrático que lhe foi desfavorável.
+Como afirmado na decisão embargada, a divergência jurisprudencial não foi demonstrada, e o conhecimento do recurso especial encontra óbice nas Súmulas 7 do STJ e 282 e 284 do STF, porquanto, ao tempo em que a revisão do acórdão a quo depende do reexame de provas, o tema atinente à nulidade por julgamento antecipado dos embargos à execução não está prequestionado e não está vinculado, na petição do especial, à tese de violação de lei federal.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
