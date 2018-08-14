@@ -1,0 +1,16 @@
+Trata-se de habeas corpus com pedido de liminar impetrado contra decisão do Ministro Ribeiro Dantas, do Superior Tribunal de Justiça – STJ, que indeferiu liminarmente o HC 454.947/SP (documento eletrônico 3).
+    Consta da decisão ora questionada que o juízo da execução criminal indeferiu o pedido de comutação de pena formulado pelo paciente, por falta de fundamento legal. Inconformada, a defesa impetrou habeas corpus no Tribunal de Justiça do Estado de São Paulo - TJSP, ocasião em que o Desembargador Relator indeferiu a liminar. Na sequência, manejou outro HC no Superior Tribunal de Justiça, mas o Ministro Relator indeferiu liminarmente o pedido.
+    É contra essa decisão que se insurgem os impetrantes neste habeas corpus.
+    Alegam, inicialmente, que o paciente “encontra-se preso indevidamente, haja vista a não concessão de benefícios dos quais tem direito, por decisão manifestamente ilegal, mantida pelo r. ato coator teratológico do e. STJ; e, por isso, a Súmula 691 do c. STF há de ser afastada” (fl. 3 da petição inicial).
+    Explicam, em seguida, que o paciente foi inicialmente condenando à pena de 35 anos de reclusão, em regime inicial fechado, mas, em segundo grau de jurisdição, essa reprimenda foi reduzida para 16 anos e 8 meses de reclusão (fl. 4 da petição inicial).
+    Asseveram, nesse contexto, que, “considerando que […] o início do cumprimento de sua pena se deu em 16 de maio de 2006, o Paciente deveria ter sido agraciado pelos benefícios da comutação da pena, carecendo estar em liberdade, desde dezembro de 2015”, com base no Decreto 8.615/2015 (fl. 4 da petição inicial).
+    Requerem, ao final, liminarmente, que seja o paciente colocado em liberdade, “haja vista o benefício de comutação da pena que indevidamente está deixando de ser aplicado ao Paciente”. Subsidiariamente, postulam “que seja convertida a custódia do Paciente, que encontra-se em regime fechado, para regime aberto, ou minimamente seja autorizada prisão domiciliar, até o julgamento do presente writ” (fl. 15 da petição inicial).
+    É o relatório suficiente. Decido.
+    A presente impetração volta-se contra decisão monocrática de Ministro do Superior Tribunal de Justiça que indeferiu liminarmente o HC 454.947/SP, ante o óbice constante da Súmula 691/STF.
+    Desse modo, este pleito não merece igualmente seguimento, uma vez que o exame da questão implicaria indevida supressão de instância e extravasamento dos limites de competência desta Suprema Corte descritos no art. 102 da Constituição Federal, que pressupõem seja a coação praticada por Tribunal Superior.
+    Essa foi a orientação firmada pela Segunda Turma, quando do julgamento do HC 119.115/MG, de minha relatoria, ocasião na qual se decidiu que a não interposição de agravo regimental no Superior Tribunal de Justiça e, portanto, a ausência da análise da decisão monocrática pelo colegiado, impede o seguimento do habeas corpus nesta Suprema Corte, pois, do contrário, permitiria ao jurisdicionado a escolha do Tribunal para conhecer e julgar a sua causa, o que configuraria evidente abuso do direito de recorrer.
+    Isso posto, nego seguimento ao habeas corpus (RISTF, art. 21, § 1º). Prejudicado o exame da liminar.
+    Publique-se.
+    Brasília, 14 de agosto de 2018.
+Ministro Ricardo Lewandowski
+Relator
