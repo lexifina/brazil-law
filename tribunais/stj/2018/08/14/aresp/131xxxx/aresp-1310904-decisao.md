@@ -1,0 +1,16 @@
+DECISÃO
+1. Trata-se de agravo interposto por [NOME] DE OLIVEIRA OHL - ESPÓLIO e outros contra decisão que inadmitiu recurso especial, com fulcro no art. 105, III, "a" e "c", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de São Paulo, integrado pelo proferido em sede de embargos de declaração, assim ementado:
+AGRAVO DE INSTRUMENTO - Ação de despejo por falta de pagamento - Decisão de primeiro grau que indeferiu pedido de admissão de [NOME] como assistente litisconsorcial - Manutenção - Hipótese em que o feito já foi sentenciado, encontrando-se em fase de cumprimento de sentença, fase em que não cabe mais a admissão dos agravantes como coproprietários do imóvel locado - Recurso desprovido.
+
+Nas razões do especial, alega-se violação dos arts. 119, parágrafo único, e 1.022, I e II, do Código de Processo Civil, bem como dissídio jurisprudencial.
+Decido.
+2. A irresignação não merece prosperar.
+Observa-se que não se viabiliza o recurso especial pela indicada violação do artigo 1.022 do Código de Processo Civil. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+3. Outrossim, o Tribunal de origem registra que não há interesse jurídico do recorrente, [NOME] ANTONIO OHL FERREIRA, em nome próprio e como inventariante de [NOME] DE OLIVEIRA OHL e MARIA TERESA FERNANDES FERREIRA, intervir como assistente processual na qualidade de terceiro interessado, na medida em que, os agravantes não figuram na avença locatícia que deu origem à ação de despejo por falta de pagamento, e, além disso, não há risco de que a decisão nessa ação possa interferir na relação jurídico existente entre o postulante e a parte contrária ao assistido.
+A reforma do aresto, neste aspecto, demanda inegável necessidade de reexame de matéria fático-probatória, providência inviável de ser adotada em sede de recurso especial, ante o óbice da Súmula 7 desta Corte.
+4. Por outro lado, o conhecimento do recurso fundado na alínea "c" do permissivo constitucional pressupõe a demonstração analítica da alegada divergência. Para tanto, faz-se necessário a transcrição dos trechos que configurem o dissenso, com a indicação das circunstâncias que identifiquem os casos confrontados. (Nesse sentido: REsp 441.800/CE, Rel. Ministro JORGE SCARTEZZINI, DJ 2.8.04).
+No caso em tela, a parte agravante traz à colação ementa de julgado, contudo não procede ao cotejo deste com o caso dos autos; apenas traça uma conclusão conveniente em face dos enunciados estampados nas ementas, não sendo aferível a similitude fática entre esse acórdão e o do caso em julgamento.
+A falta de cotejo analítico impede o acolhimento do apelo, pois não foram demonstradas em quais circunstâncias o caso confrontado e o aresto paradigma aplicaram diversamente o direito, sobre a mesma situação fática.
+Importante salientar que a análise do apelo especial fundado em alegado dissídio jurisprudencial deve ser demonstrado nos moldes exigidos pelos artigos 541, parágrafo único, do CPC e 255, § 2º, do Regimento Interno do Superior Tribunal de Justiça, o que não ocorreu.
+5. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
