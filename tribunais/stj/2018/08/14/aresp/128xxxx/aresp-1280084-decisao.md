@@ -1,0 +1,8 @@
+EMENTA
+PROCESSUAL. AGRAVO CONVERTIDO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. QUESTÕES CONSTITUCIONAIS PREJUDICIAIS. RECURSO ESPECIAL SOBRESTADO NOS AUTOS. RETORNO À ORIGEM PARA CUMPRIMENTO DE DECISÃO DO SUPREMO TRIBUNAL FEDERAL.
+DECISÃO
+Cuida-se de agravo manejado na égide do CPC/2015 (Enunciado Administrativo nº 3 do STJ) por ASSET ATIVIDADES HOTELEIRAS LTDA contra decisão que negou admissibilidade ao recurso especial em razão da ausência de ofensa ao art. 1.022 do CPC e, no mérito, em razão da conformidade do acórdão recorrido com a jurisprudência do STJ adotada em recurso especial repetitivo.
+Já nesta Corte o agravo foi conhecido para determinar sua conversão em recurso especial, o qual foi sobrestado em razão da remessa dos autos ao Supremo Tribunal Federal para julgamento da questão constitucional onde se discute questão prejudicial relativa ao conceito de receita bruta (fls. 680-681 e-STJ).
+O Supremo Tribunal Federal, por sua vez, proferiu decisão nos autos às fls. 687 e-STJ determinando a devolução destes autos ao Tribunal de origem, para: a) quanto ao Tema 69 (Recurso Extraordinário n. 574.706: repercussão geral reconhecida e mérito julgado) observar o procedimento previsto nos incs. I e II do art. 1.030 do Código de Processo Civil, e b) quanto ao Tema 118 (Recurso Extraordinário n. 592.616: repercussão geral reconhecida) observar o procedimento previsto no inc. III do art. 1.030 do Código de Processo Civil.
+Dessa forma, DETERMINO O RETORNO DOS AUTOS À ORIGEM para cumprimento da decisão do Supremo Tribunal Federal de fls. 687 e-STJ, permanecendo o recurso especial sobrestado nos autos até o julgamento final das questões constitucionais prejudiciais.
+Publique-se. Intimem-se.
