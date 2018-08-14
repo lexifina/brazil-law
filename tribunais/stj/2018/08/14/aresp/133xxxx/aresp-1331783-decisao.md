@@ -1,0 +1,48 @@
+DECISÃO
+1. Cuida-se de agravo interposto por FOC EMPREENDIMENTOS IMOBILIARIOS LTDA. contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+Ação de indenização por danos materiais e morais. Assoreamento do pesqueiro dos autores em decorrência de obras realizadas pela ré. Cerceamento de defesa inocorrente. Prova pericial suficiente para o bom deslinde da demanda. Laudo pericial conclusivo no sentido da responsabilidade da ré, ainda que não exclusivamente, pelo assoreamento dos lagos de pesca dos autores. Danos emergentes estimados com parâmetros objetivos. Críticas ao excelente laudo que não são procedentes. Lucros cessantes não verificados. Danos morais verificados. Necessidade de redução do quantum, sob pena de enriquecimento sem causa dos autores. Sucumbência, parcial dos autores. Redistribuição das despesas sucumbenciais. Sentença reformada. Recurso parcialmente provido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 473, inciso II e 480, do CPC de 2015.
+Alega, em síntese, que o laudo pericial foi inconclusivo. E continua:
+Assim sendo, havendo inconclusividade na perícia, que apresentou entendimentos díspares, a improcedência dos pedidos era (e é), medida de desate, de modo que não pode subsistir o resultado encontrado no V. Acórdão.
+Por fim, defende ser necessária a redução dos valores fixados a título de dano moral e material.
+É o relatório. DECIDO.
+2. Com base em todo o conjunto probatório, o Tribunal de origem reconheceu a validade da prova pericial, assim consignando:
+Antes de adentrar ao mérito, afasto a alegação de nulidade da sentença por cerceamento de defesa, ante o julgamento antecipado da lide.
+O Código de Processo Civil, no tocante a questão da prova, adotou a teoria do convencimento motivado ou da persuasão racional do juiz, inexistindo em nossa legislação provas de valor preestabelecido, tendo o magistrado ampla liberdade na análise . dos elementos de convicção coligidos aos autos, devendo, em qualquer caso, decidir fundamentadamente.
+Tendo toda toda prova como objetivo a instrução da causa, para permitir a formação do convencimento do juiz, a este cabe conduzir o processo, determinando as provas necessárias ao julgamento do mérito, nos termos do artigo 370 do Código de Processo Civil, sendo seu dever evitar a produção de diligências desnecessárias ou inúteis à solução da lide, passando ao julgamento antecipado quando já estiverem presentes elementos suficientes à intelecção das questões debatidas na causa, proporcionando a justa composição da lide.
+A produção de prova oral é de todo desnecessária, eis que a prova técnica produzida é suficiente para o bom deslinde do feito.
+Ao contrário do que alega a ré, o bem elaborado laudo pericial não é nulo, e concluiu pela responsabilidade das obras realizadas pela ré, pelo assoreamento de dois lagos e do canal de fundo do vale do "pesque-pague" dos autores.
+O expert apontou que (fls. 612/613):
+"Assim, como o pesqueiro dos requerentes era abastecido por córrego que vinha da região onde a requerida executou movimentação de terra, certamente houve carreamento de solo para a propriedade dos requerentes.
+Nessa linha, as marcas de erosão existentes no interior das quadras do loteamento permitem afirmar que parte do material oriundo do loteamento foi para a propriedade dos requerentes." E, sendo assim, concluiu que "o assoreamento do álveo que abastece a propriedade dos requerentes teve contribuição fundamental (porém não exclusiva) do empreendimento da requerida." (cf. fls. 614).
+Neste caso, verifica-se claramente que, ao contrário v do que alega a apelante, o perito tecnicamente concluiu que as obras realizadas pela ré foram responsáveis, ainda que não exclusivamente, pelo assoreamento de dois dos quatro lagos, além do canal de fundo de vale do imóvel dos autores.
+Com efeito, não há que se falar em nulidade do extenso e bem elaborado laudo pericial, restando comprovada a responsabilidade da ré pelos danos sofridos pelos autores.
+Com efeito, não configura o cerceamento de defesa o julgamento da causa sem a produção da pretendida prova, quando a Corte local entender que o feito foi corretamente instruído, declarando a existência de provas suficientes para o seu convencimento.
+Hão de ser levados em consideração o princípio da livre admissibilidade da prova e do livre convencimento do juiz, que permitem ao julgador determinar as provas que entende necessárias à instrução do processo, bem como o indeferimento daquelas que considerar inúteis ou meramente protelatórias.
+A par disso, rever os fundamentos que levaram a concluir pela validade da prova pericial demandaria o reexame do conjunto fático-probatório, o que é vedado na instância especial, segundo o enunciado da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM TIRADO CONTRA DELIBERAÇÃO QUE DEFERIU ORDEM DE REINTEGRAÇÃO DE POSSE - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA AGRAVANTE.
+1. Nos termos do artigo 102 da Carta Magna, reserva-se ao Supremo Tribunal Federal a competência para apreciar ofensas a dispositivos constitucionais, sob pena de usurpação da competência. Precedentes.
+2. As instâncias ordinárias, apreciando as circunstâncias de fato da causa e a prova pericial, concluíram ser a prova técnica hábil e suficiente para comprovar que a assinatura constante do termo de acordo partiu do punho da agravante. A desconstituição desta premissa esbarra no óbice da Súmula 7 do STJ.
+3. A falta de prequestionamento de preceitos legais tidos como violados impede o trânsito do recurso especial, por incidência da Súmula 211 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 481.075/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/11/2017, DJe 22/11/2017)
+3. No mais, em relação ao pedido de redução redução dos valores fixados a título de dano moral e material, a particularização inequívoca dos normativos federais supostamente contrariados pelo Tribunal de origem é imprescindível quando da interposição do recurso especial fundado na alínea "a" do permissivo constitucional, cuidando o recorrente de demonstrar, mediante argumentação lógico-jurídica competente à questão controversa apresentada, de que maneira o acórdão impugnado teria ofendido a legislação mencionada.
+O não atendimento quanto à indicação do dispositivo legal contrariado, ou que se lhe tenha sido negado vigência, devidamente acompanhado da argumentação jurídica pertinente, pela parte recorrente, a fim de demonstrar o acerto de sua tese, configura fundamentação deficiente e não permite a compreensão da exata controvérsia a ser dirimida. Isso porque a controvérsia a ser tratada no recurso especial, sob a baliza da alínea "a" do art. 105, inc. III, da CFRB, respeita solver discussão quanto à contrariedade ou negativa de vigência perpetrada pelo tribunal a quo à legislação ou tratado federal em sua aplicação ao caso concreto. Incidência, no ponto, da Súmula 284/STF.
+Nesse sentido:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO À LEI FEDERAL. INCIDÊNCIA DAS SUMULAS 284/STF E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Cotejando as premissas do acórdão estadual, constata-se que a análise da pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+2. A alegação genérica de violação à lei federal, sem indicar de forma precisa o artigo, parágrafo ou alínea, da legislação tida por violada, tampouco em que medida teria o acórdão recorrido vulnerado a lei federal, bem como em que consistiu a suposta negativa de vigência da lei e, ainda, qual seria sua correta interpretação, ensejam deficiência de fundamentação no recurso especial, inviabilizando a abertura da instância excepcional. Não se revela admissível o recurso excepcional, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Incidência da Súmula 284-STF.
+3. Agravo interno não provido.
+(AgInt no AREsp 856.473/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/05/2016, DJe 01/06/2016)
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - AGRAVO DE INSTRUMENTO TIRADO CONTRA DECISÃO PROFERIDA EM AÇÃO DE COBRANÇA QUE INDEFERIU O PEDIDO DE TUTELA ANTECIPADA PARA QUE FOSSE DETERMINADO À SEGURADORA, NO PRAZO DE 48 HORAS, O DEPÓSITO JUDICIAL DA VERBA INCONTROVERSA RECONHECIDA COMO DEVIDA A TITULO DE INDENIZAÇÃO PELA OCORRÊNCIA DO SINISTRO DIQUE SECO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA autora.
+ .. .
+3. Quanto à alegação de contrariedade aos princípios da celeridade processual, da razoabilidade e do acesso à justiça, oportuno esclarecer que o recurso especial é um meio impugnativo processual de fundamentação vinculada, no qual o efeito devolutivo se opera nos termos do que foi impugnado. A ausência de indicação expressa de dispositivos legais tidos por vulnerados não permite verificar se a legislação federal infraconstitucional restou, ou não, malferida, sendo de rigor a incidência da Súmula 284 do STF.
+Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 531.507/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/02/2016, DJe 26/02/2016)
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
