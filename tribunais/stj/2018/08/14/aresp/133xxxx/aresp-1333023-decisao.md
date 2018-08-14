@@ -1,0 +1,37 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. INMETRO. MULTA. PROCESSO ADMINISTRATIVO. CERCEAMENTO DE DEFESA. VERIFICAÇÃO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por COOPERATIVA AGROINDUSTRIAL DO ESTADO DO RIO DE JANEIRO LTDA em face de decisão proferida pelo Tribunal Regional Federal da 2ª Região, que negou admissibilidade a recurso especial manejado contra acórdão assim ementado (e-STJ fl. 309):
+APELAÇAO CÍVEL. PROCESSO CIVIL. INMETRO. COMUNICAÇAO DA REALIZAÇAO DA MEDIÇÃO DAS AMOSTRAS COLETADAS PARA FINS DE FISCALIZAÇÃO POR MEIO DE FAX. PROCESSO ADMINISTRATIVO. CERCEAMENTO DE DEFESA NÃO COMPROVADO. SENTENÇA MANTIDA.
+1. Apelação contra a sentença que julgou improcedente o pedido para que fosse declarada a nulidade do processo administrativo nº 2.417/2011.
+2. A Resolução nº 11/88, editada pelo INMETRO, no item 36, alínea "c", estabelece que o interessado deva ser comunicado, por escrito, da hora e do local em que serão realizadas as medições das amostras coletadas para fins de fiscalização. A ratio da norma é assegurar ao administrado a possibilidade de se insurgir contra o ato de modo a obter a reversão de seus efeitos. Portanto, a anulação do processo administrativo, com base na inobservância de um procedimento estabelecido em instrumento normativo anterior, somente se justifica quando restar demonstrado que tal violação foi capaz de prejudicar, efetivamente, o direito de ampla defesa da parte.
+3. À luz da jurisprudência da Corte IDH, acerca do art. 8º da Convenção Americana de Direitos Humanos, a natureza do vício de um procedimento administrativo (que não seja materialmente jurisdicional) tem de ser de tamanha grandeza que a sua ocorrência seja capaz de gerar uma decisão arbitrária, como ocorre, por exemplo, nos casos de decisão sem fundamentação adequada (Caso Claude-Reyes y otros vs. Chile, São José, 19 de setembro dc 2006, §§ 118, 119 e 120). Desse modo. ainda que não tenha havido a notificação da mesma quanto à realização da perícia, tal vício não prejudicou o exercício do seu direito de defesa em esfera administrativa, não havendo que se falar, por essa razão, em ilegalidade na atuação administrativa.
+4. O documento oriundo do 11º Ofício de Campos não menciona o número da CDA nem do processo administrativo que deu origem à dívida executada, razão pela qual não é possível verificar se o mesmo tem pertinência com o crédito em questão, razão pela qual se impõe o indeferimento do pedido de cancelamento de protesto formulado pelo apelado.
+5. Apelação não provida.
+Nas razões do recurso especial, interposto com base na alínea a do permissivo constitucional, a recorrente aponta violação aos arts. 85, do CPC/2015, 35 e 36, III, do Regulamento expedido pela Portaria INMETRO nº 2, de 08/01/1999, 2º, da Lei nº 9.784/99 e Lei nº 9.933/99.
+Em síntese, aduz que o Tribunal de origem reconheceu e declarou a legalidade da multa aplicada e, por consequencia, a legalidade de todo o processo administrativo nº RJ 2.417/2011. Alega ainda não ser justo no julgamento do recurso de apelação o arbitramento dos honorários advocatícios quase o mesmo valor da multa imposta.
+A inadmissão do recurso especial se fez à consideração de que rever a posição adotada pelo órgão julgador demandaria reexame de provas, atraindo a incidência da Súmula 7/STJ.
+Nas razões de agravo, postula o processamento do recurso especial, haja vista ter cumprido todos os requisitos necessários à sua admissão.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Presentes os pressupostos de admissibilidade do agravo, passo à análise do especial.
+A pretensão não merece prosperar.
+Isso porque o Tribunal de origem, soberano na análise dos elementos fático-probatórios dos autos, expressamente concluiu que não houve ilegalidade na atuação administrativa, uma vez que a recorrente exerceu o seu direito de defesa em esfera administrativa.
+A propósito, os seguintes excertos do acórdão recorrido, verbis:
+(..)
+No caso vertente, a apelante narra que apresentou a sua defesa cm sede administrativa, a qual, contudo, foi indeferida. Desse modo, ainda que não tenha havido a notificação da mesma quanto à realização da perícia, tal vício não prejudicou o exercício do seu direito de defesa cm esfera administrativa, não havendo que sc falar, por essa razão, em ilegalidade na atuação administrativa.
+Por fim, o documento apresentado à fl. 299 não menciona o número da CDA nem do processo administrativo que deu origem à cobrança, razão pela qual não é possível verificar se o mesmo tem pertinência com o crédito executado. Nesse contexto, impõe-se o indeferimento do pedido de cancelamento de protesto formulado pelo apelado.
+Nesse contexto, a revisão do entendimento adotado conforme a pretensão recursal demandaria necessariamente revolvimento das premissas fático-probatórias estabelecidas pelo acórdão recorrido, providência vedada no âmbito do recurso especial, nos termos da Súmula nº 7 do STJ.
+Ademais, ainda que assim não fosse, acolher a pretensão recursal quanto à revisão do procedimento, necessário se faz o exame de ato normativo - Portaria INMETRO nº 2, de 08/01/1999 -, que não se insere no conceito de tratado ou lei federal de que cuida o art. 105, III, a, da Constituição Federal.
+A propósito:
+ADMINISTRATIVO. MICROEMPRESA. AUTOS DE INFRAÇÃO. DESCONSTITUIÇÃO. INOBSERVÂNCIA DO CRITÉRIO DA DUPLA VISITAÇÃO. ART. 55 DA LC 123/06. ENQUADRAMENTO DA INFRAÇÃO NA PORTARIA INMETRO 436/2007. NORMA QUE NÃO SE REVESTE DO CONCEITO DE LEGISLAÇÃO INFRACONSTITUCIONAL.
+1. As infrações praticadas pelos micro empresários, de acordo com o art. 55 da LC 123/06, tem como regra, para autuação,a dupla visita (§ 1º), dispensando-se esse critério quando definida como infração fora da zona de alto risco (§ 3º)
+2. A Portaria 436/2007 foi editada pelo INMETRO para estabelecer quais as atividades de alto risco, complementando a exigência da LC 123/06
+3. O Tribunal de Apelação considerou estar as infrações cometidas fora da zona de alto risco, situação que, pela lei complementar, não dispensa a dupla visita.
+4. Enquadramento legal das infrações na Portaria 436/2007 (arts. 1º, 3º e 4º), cuja violação não autoriza a abertura da via especial, por ser considerada legislação infraconstitucional.
+5. Recurso especial não conhecido.
+(REsp 1257391/RS, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 18/06/2013, DJe 26/06/2013)
+Por fim, quanto à alegada violação ao artigo 85 do CPC/2015 sob o argumento de que novo valor foi arbitrado a título de honorários advocatícios, observa-se que as razões recursais estão dissociadas da fundamentação do acórdão recorrido, uma vez que o Tribunal de origem nada dispôs sobre o valor já fixado na sentença de primeiro grau, o que atrai a incidência da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
