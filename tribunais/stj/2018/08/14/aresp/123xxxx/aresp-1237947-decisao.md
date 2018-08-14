@@ -1,0 +1,8 @@
+EMENTA
+PROCESSUAL. AGRAVO CONVERTIDO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. QUESTÃO CONSTITUCIONAL PREJUDICIAL. RECURSO ESPECIAL SOBRESTADO NOS AUTOS. RETORNO À ORIGEM PARA CUMPRIMENTO DE DECISÃO DO SUPREMO TRIBUNAL FEDERAL.
+DECISÃO
+Cuida-se de agravo manejado na égide do CPC/2015 (Enunciado Administrativo nº 3 do STJ) por FORT CAR COMERCIO DE VEICULOS LTDA - ME E OUTRO contra decisão que negou admissibilidade ao recurso especial em razão da incidência da Súmula nº 7 do STJ.
+Já nesta Corte o agravo foi conhecido para determinar sua conversão em recurso especial, o qual foi sobrestado em razão da remessa dos autos ao Supremo Tribunal Federal para julgamento da questão constitucional onde se discute questão prejudicial relativa constitucionalidade da multa aplicada na hipótese - no percentual de 150% com base no art. 44, I, § 1º, da Lei nº 9.430/1996 - em face dos princípios constitucionais da capacidade contributiva e da vedação ao confisco previstos nos arts. 145, § 1º, e 150, IV, da Constituição Federal, veiculados no recurso extraordinário interposto na origem (fls. 1.130-1.131 e-STJ).
+O Supremo Tribunal Federal, por sua vez, proferiu decisão nos autos às fls. 1.137 e-STJ determinando a devolução destes autos ao Tribunal de origem para fins do procedimento previsto no inc. III do art. 1.030 do Código de Processo Civil, relativamente ao tema 863 admitido em repercussão geral (RE nº 736.090).
+Dessa forma, DETERMINO O RETORNO DOS AUTOS À ORIGEM para cumprimento da decisão do Supremo Tribunal Federal de fls. 1.137 e-STJ, permanecendo o recurso especial sobrestado nos autos até o julgamento final da questão constitucional prejudicial.
+Publique-se. Intimem-se.
