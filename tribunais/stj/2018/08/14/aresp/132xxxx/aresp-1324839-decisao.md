@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de Agravo, interposto por HAPVIDA ASSISTÊNCIA MÉDICA LTDA, em 07/05/2018, em face de decisão que inadmitiu Recurso Especial, manejado contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado:
+"Processual Civil. Embargos à execução fiscal. HAPVIDA. Multas impostas pela ANS. Execuções reunidas. Extinção do feito sem julgamento do mérito. Penhora de hospitais rejeitadas. Ausência de garantia do Juízo. Art. 16, § 1º, Lei nº 6.830/80. Observância ao princípio da especialidade, mantido com a reforma do CPC/73, a nova redação do art. 736, CPC dada pela Lei nº 11.382/2006. Prevalência da LEF.
+- Em que pese ainda não haver transitado em julgado os agravos de instrumento que tratam da penhora dos hospitais, o fato é que tais ofertas não foram aceitas por esta Colenda Quarta Turma, por ser bem de difícil alienação, não havendo conhecimento de qualquer decisão que suspenda os efeitos dos julgamentos realizados.
+- Quanto à necessidade de garantia do Juízo, prevalece o princípio da especialidade, pois a lei especial (LEF) sobrepõe-se à lei geral (CPC), conforme precedente firmado pelo STJ em sede de regime representativo de controvérsia (art. 543-C do CPC ).
+- No tocante ao pleito contido nas razões recursais quanto a ocorrência da prescrição e à nulidade da CDA, entendo que, em se mantendo a sentença extintiva, sem julgamento do mérito, tal análise resta prejudicada.
+- Apelo improvido" (fls. 77/78e).
+O acórdão em questão foi objeto de Embargos de Declaração, os quais foram rejeitados (fls. 109/112e).
+Alega a parte agravante, nas razões do Recurso Especial interposto pela alínea a do permissivo constitucional, violação ao art. 2º, § 5º, III, da Lei 6.830/80.
+Sustenta, em síntese, que não estão presentes, na certidão de dívida ativa, os requisitos necessários para sua validade.
+Afirma que "não há nenhuma indicação na CDA acerca da natureza da multa imposta ao executado, outra conclusão não se pode chegar senão a de que a referida CDA encontra-se inquinada de nulidade absoluta" (fl. 124e).
+Nesse contexto, requer seja dado provimento ao presente recurso especial, a fim de que seja reformado o acórdão recorrido.
+Apresentadas as contrarrazões (fls. 131/134e), o Recurso Especial foi inadmitido (fl. 137e), o que ensejou a interposição do presente Agravo (fls. 143/149e).
+O Recurso Especial não ultrapassa a admissibilidade.
+Com efeito, por simples cotejo entre as razões do Recurso Especial e os fundamentos do acórdão recorrido, observa-se que a tese recursal contida no art. 2º, § 5º, III, da Lei 6.830/80, sequer implicitamente, foi apreciada pelo Tribunal de origem, não obstante terem sido opostos Embargos de Declaração.
+ Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, no ponto, incidindo o teor da Súmula 211 do STJ ("inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. INDENIZAÇÃO. CABIMENTO. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+(..)
+6. Agravo interno não provido" (STJ, AgInt no AREsp 1.172.051/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 23/03/2018).
+Acrescente-se que, se a parte recorrente entendesse persistir algum vício no acórdão impugnado, imprescindível a alegação de violação ao art. 1.022 do CPC, por ocasião da interposição do Recurso Especial, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Assim, à mingua de prequestionamento, inviável a apreciação da aludida tese recursal.
+Ademais, ainda que não fosse o caso de se aplicar o referido óbice, ressalto que a jurisprudência deste Egrégio Tribunal firmou o entendimento, no sentido de que a aferição da presença dos requisitos essenciais à validade da CDA demanda reexame do conjunto fático-probatório, o que esbarra, inequivocamente, no óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, os seguintes precedentes:
+"TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CERTIDÃO DE DÍVIDA ATIVA (CDA). REQUISITOS FORMAIS DE VALIDADE. ART. 2º, § 5º, DA LEI 6.830/80 (LEF). REEXAME NA VIA ESPECIAL. INVIABILIDADE. VERBETE SUMULAR 7/STJ. INCIDÊNCIA. PRECEDENTE DA PRIMEIRA SEÇÃO. AGRAVO NÃO PROVIDO.
+1. "O entendimento desta Corte Superior é no sentido de que o exame acerca do preenchimento in concreto dos requisitos essenciais de validade de CDA é providência que demanda o revolvimento do conteúdo fático-probatório dos autos, o que é inviável no âmbito do recurso especial. Nesse sentido: REsp 1.345.021/CE, Rel. Ministro Herman Benjamin, Primeira Seção, julgado em 27/02/2013, DJe 02/08/2013)" (AgRg no AREsp 323.134/SP, Primeira Turma, Rel. Min. BENEDITO GONÇALVES, DJe 3/9/13).
+2. Agravo regimental não provido" (STJ, AgRg no AREsp 337.432/MG, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, DJe de 30/10/2013).
+"TRIBUTÁRIO. EXECUÇÃO FISCAL. JUNTADA AOS AUTOS DE CÓPIA DO PROCESSO ADMINISTRATIVO FISCAL. PROVIDÊNCIA SUJEITA AO JUÍZO DE CONVENIÊNCIA DO MAGISTRADO. AFERIÇÃO DOS REQUISITOS DE VALIDADE DA CDA. SÚMULA 7/STJ.
+1. "A juntada do processo administrativo fiscal na execução fiscal é determinada segundo juízo de conveniência do magistrado, quando reputado imprescindível à alegação da parte executada. A disponibilidade do processo administrativo na repartição fiscal impede a alegação de cerceamento de defesa." (REsp 1.180.299/MG, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 8/4/10)
+2. A alteração das conclusões adotadas pela Corte de origem, a respeito da regularidade da CDA que fundamenta o processo de execução fiscal, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em sede de recurso especial, a teor do óbice previsto na Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento" (STJ, AgRg no AREsp 318.585/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 04/02/2014).
+"TRIBUTÁRIO. PROCESSUAL CIVIL. AUSÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC. REQUISITOS DE VALIDADE DA CDA. NULIDADE. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. EXTINÇÃO DO PROCESSO. ABANDONO DE CAUSA. ART. 267, III, DO CPC. INTIMAÇÃO PESSOAL DA PARTE. NECESSIDADE.
+1. Não há violação do art. 535 do CPC quando a prestação jurisdicional é dada na medida da pretensão deduzida, com enfrentamento e resolução das questões abordadas no recurso.
+2. Nos termos da jurisprudência do STJ, a aferição dos requisitos essenciais à validade da Certidão de Dívida Ativa conduz necessariamente ao reexame do conjunto fático-probatório do autos, medida inexequível na via da instância especial. Incidência da Súmula 7/STJ.
+3. O abandono da causa pelo autor pressupõe a demonstração do ânimo de abandonar o processo, comprovado quando, intimado pessoalmente, não se manifestar quanto ao interesse em prosseguir no feito, circunstância que não ocorreu no caso dos autos.
+Agravo regimental improvido" (STJ, AgRg no REsp 1387858/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 18/09/2013).
+"TRIBUTÁRIO. EXECUÇÃO FISCAL. NULIDADE DA CDA. REEXAME DE MATÉRIA DE FATO E DE PROVAS. SÚMULA 7/STJ. PRINCÍPIO DA LEGALIDADE TRIBUTÁRIA. INCIDÊNCIA DE MULTA. ART. 97 DO CTN. MATÉRIA DE CUNHO CONSTITUCIONAL E LOCAL. INVIABILIDADE DE APRECIAÇÃO NESTA VIA RECURSAL.
+1. A aferição dos requisitos essenciais à validade da CDA demanda reexame do conjunto fático-probatório, o que esbarra, inequivocamente, no óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+2. O Superior Tribunal de Justiça firmou o entendimento de que não cabe Recurso Especial fundado em violação a dispositivo infraconstitucional que repete preceito constitucional. No caso, o art. 97 do CTN é reprodução do princípio da legalidade, expresso no art. 150, I, da Constituição Federal.
+3. Por outro lado, a análise de violação do princípio da legalidade tributária, de modo a verificar se o Decreto Municipal 27.335/1988 teria transbordado os limites legais previstos na Lei Municipal 7.513/1970, também pressupõe análise de direito local, incabível em Recurso Especial (Súmula 280/STF).
+4. Agravo Regimental não provido" (STJ, AgRg no AREsp 341.862/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 12/09/2013).
+Pelo exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+I.
