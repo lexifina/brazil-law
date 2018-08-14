@@ -1,0 +1,37 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. ADJUDICAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de prequestionamento se evidencia quando o conteúdo normativo contido nos dispositivos supostamente violados não foi objeto de debate pelo Tribunal de origem. Hipótese em que incidem os rigores das Súmulas n. 282 e 356/STF.
+2. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Petrobras Distribuidora S.A. interpôs agravo contra decisão que negou seguimento a recurso especial.
+O apelo extremo foi deduzido em desafio ao acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 302):
+Ação de execução. Garantia: arrestos e penhoras registradas na matrícula dos imóveis. Adjudicação perfeita e acabada. Possibilidade de cancelamento dos registros das penhoras/arrestos lavrados em benefício da Petrobrás. Observação, no entanto, de que os ofícios autorizando o levantamento das restrições somente poderão ser expedidos após o escoamento do prazo de 60 dias contados da intimação em Primeiro Grau, a fim de permitir que a Petrobrás tome as medidas que entenda cabíveis. Recurso parcialmente provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 314-319).
+Nas razões do recurso especial, apontou a insurgente a existência de violação aos artigos 489, § 1º, 792, IV, 797, 804, 828, § 4º, 889, 908, § 2º, 909 e 1.022, I, do Código de Processo Civil de 2015. Sustentou, em síntese: i) a ocorrência de negativa de prestação jurisdicional; ii) que a adjudicação é ineficaz com relação a ela, porque não foi intimada; e iii) ser nula a adjudicação por fraude à execução.
+O agravo foi parcialmente conhecido para negar provimento ao recurso especial, nos termos da seguinte ementa (e-STJ, fl. 394):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO EXECUTÓRIA. AGRAVO DE INSTRUMENTO CONTRA A DECISÃO QUE DETERMINOU O LEVANTAMENTO DE PENHORA SOBRE BENS IMÓVEIS. PROVIMENTO PARCIAL. IRRESIGNAÇÃO DA AGRAVANTE. TESES RECURSAIS: NEGATIVA DE PRESTAÇÃO JURISDICIONAL - NÃO VERIFICADA; INEFICÁCIA E NULIDADE DA ADJUDICAÇÃO - AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Daí o presente agravo interno.
+Nas suas razões, a insurgente sustenta que, de acordo com os arts. 804 e 889 do Novo Código de Processo Civil, não se efetuará a alienação de bens do executado sem que sejam intimados os demais credores com garantia real ou penhora anteriormente averbada, e que a inobservância enseja a nulidade do ato.
+É o relatório.
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+O recurso não merece prosperar.
+Isso porque, conforme acentuado, o Tribunal local manifestou-se sobre o tema nos seguintes excertos (e-STJ, fls. 316- 319):
+Consoante ficou constando no Acordão embargado o imóvel, sobre o qual recaíram penhoras e arrestos realizados pela embargante, foi objeto de adjudicação judicial, por [NOME], nos autos da ação de cobrança de número 0112812-35.2007.8.26.0100 (fls. 305).
+Assim, prosseguiu o Acordão, "portanto, legalmente com o registro da carta de adjudicação, no cartório imobiliário, [NOME], passou a ser o proprietário do imóvel. Nestas circunstâncias, não podem prevalecer às constrições anteriores, e que foram deferidas em favor da agravante. É que se o bem passou a ser propriedade de [NOME], tornou-se inviável a sua alienação judicial, em razão de constrições anteriormente realizadas sobre o imóvel, e que foram concretizadas em benefício da agravante em face dos antigos proprietários" (fls. 305/306).
+Ante tal quadro, a Turma Julgadora entendeu como correta a decisão interlocutória proferida pelo magistrado de primeiro grau, determinando o levantamento das constrições feitas antes da adjudicação do imóvel.
+Feita a adjudicação, e registrada a carta, a propriedade do imóvel deixou de ser dos executados passando a ser de terceira pessoa (o adjudicante), e assim não podiam persistir as penhoras realizadas anteriormente, pois, é claro, que as mesmas foram concretizadas, em razão, de ser o imóvel de propriedade do executado, no momento da realização das constrições. Inviável a manutenção de penhoras em sede de execução, se o imóvel penhorado, deixou de ser de propriedade do executado.
+É claro que o embargante argumenta que a adjudicação judicial é nula, pois, dentre outros motivos, realizada sem sua intimação.
+Mas esta matéria, com a concretização da adjudicação, e registro da carta no Cartório Imobiliário, tendo como consequência a transferência da propriedade do imóvel para terceira pessoa, somente pode ser apreciada em competente ação anulatória de ato jurídico processual.
+Alegação de que pela cessão a terceiros, o crédito perseguido na ação de condomínio jamais pode ser considerado preferencial, pois, perdeu a natureza propter rem, não modifica os termos da questão examinada neste agravo de instrumento: o fato é que tendo, ou não, o crédito natureza preferencial, a realidade incontroversa é que o imóvel foi adjudicado por terceiro, em sede de ação de cobrança, e a propriedade do bem deixou de ser do executado, não podendo, pois, serem mantidas as penhoras anteriores que recaiam sobre o imóvel. Este foi o ponto apreciado neste recurso de agravo de instrumento.
+Não caberia determinar, em sede de decisão interlocutória, proferida nos autos da execução, e objeto de exame neste recurso de agravo de instrumento, a manutenção cautelar das constrições: o exame de tal pretensão de natureza cautelar, com requisitos próprios e causa de pedir específicas (periculum in mora e fumus boni iuris), em tese, somente é possível em sede de medida de natureza cautelar (de urgência ou evidência) preparatória de ação principal anulatória, ou mesmo, em sede de ação principal, em termos de tutela antecipada.
+Em sede de decisão interlocutória, proferida nos autos de ação de execução, o exame restringiu-se a inviabilidade de manutenção das constrições, em face de realidade objetiva da adjudicação do imóvel para terceiros, com expedição e registro da carta, tendo como consequência a transferência da propriedade do imóvel que era afeta ao executado, para terceira pessoa.
+Em tais circunstâncias, em consideração aos argumentos trazidos pela embargante, a Turma Julgadora, viabilizou o prazo de 60 dias, antes da expedição dos mandados de cancelamento das constrições, para que o embargante possa apresentar sua pretensão com eventual natureza cautelar ou anulatória, perante o juízo competente de primeiro grau.
+Ante ao exposto, rejeitam-se os embargos.
+Como se depreende, o recurso não pode ser conhecido por ausência do necessário prequestionamento, uma vez que a Corte estadual deixou de se manifestar sobre a matéria recursal por considerar que a via não era apropriada, conforme trecho do acórdão acima colacionado, o que atrai a incidência da Súmula 282/STF.
+À vista do exposto, nego provimento ao agravo interno.
+É como voto.
