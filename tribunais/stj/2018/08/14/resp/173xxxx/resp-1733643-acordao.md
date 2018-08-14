@@ -1,0 +1,41 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. AGENTE DE COMBATE ÀS ENDEMIAS. PISO SALARIAL PROFISSIONAL DA CATEGORIA. INSTITUIÇÃO PELA LEI FEDERAL 12.994/2014.
+1. A EC 63/2010 tornou obrigatória a adoção de piso salarial profissional nacional para os agentes comunitários de saúde e de combate às endemias, ao acrescentar o § 5º ao art. 198 da CF, estabelecendo que sua instituição se desse por lei federal.
+2. A Lei Federal 12.994/2014 - que alterou a Lei 11.350/2006 para estipular as diretrizes referentes ao plano de carreira dos agentes comunitários de saúde; os mecanismos relativos à assistência financeira complementar; bem como instituir o aludido piso salarial - publicada em 18 de junho de 2014.
+3. Os dispositivos da Lei12.994/2014 não apresenta termo e/ou condição quanto ao prazo para o início do pagamento do piso salarial nacional suprarreferido, nem mencionam e/ou alteram a data de sua vigência. Portanto, a data da entrada em vigor da citada norma deve ser a de sua publicação.
+4. Definido o valor do piso pela Lei Federal 12.994/14, como preconizado pela Constituição Federal, os Estados, o Distrito Federal e os Municípios devem observá-lo.
+5. O acórdão recorrido deve ser reformado para que o termo inicial do direito do recorrente de receber as diferenças relativas à inobservância do piso salarial da categorria seja a data da publicação da Lei 12.994/2014, em 18 de junho de 2014.
+6. Recurso Especial provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, deu provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. AGENTE DE COMBATE ÀS ENDEMIAS. INCENTIVO FINANCEIRO FEDERAL. INSTITUTO DIVERSO E DESVINCULADO DO PISO SALARIAL PROFISSIONAL DA CATEGORIA. INSTITUIÇÃO DO PISO SALARIAL NACIONAL PELA LEI FEDERAL Nº 12.994/2014. CUMPRIMENTO CONDICIONADO À PRESTAÇÃO DE ASSISTÊNCIA FINANCEIRA COMPLEMENTAR POR PARTE DA UNIÃO. NECESSIDADE DE REGULAMENTAÇÃO. JUROS DE MORA E CORREÇÃO MONETÁRIA. MATÉRIA DE ORDEM PÚBLICA. INCIDÊNCIA DO ARTIGO 1º-F DA LEI FEDERAL Nº 9.494/1997. HONORÁRIOS ADVOCATÍCIOS. CONDENAÇÃO DA FAZENDA PÚBLICA AO PAGAMENTO. SENTENÇA ILÍQUIDA. FIXAÇÃO DO PERCENTUAL APÓS A RESPECTIVA LIQUIDAÇÃO. INTELIGÊNCIA DO ARTIGO 85, § 4º, INCISO II, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+1. O montante repassado a título de incentivo financeiro não se confunde com o piso salarial dos agentes comunitários de saúde e de combate às endemias, se tratando, em verdade, de verba transferida pela União aos demais entes federativos para o financiamento, fortalecimento e efetivação das políticas nacionais afetas aos programas e estratégias relacionadas às atividades desenvolvidas por estes servidores, sendo que estes valores não devem, necessariamente, serem utilizados como verba salarial.
+2. Em se tratando de institutos diversos, não há que se falar em vinculação do piso salarial dos agentes comunitários de saúde e de combate às endemias ao incentivo funcional repassado pela União aos Municípios contratantes e, muito menos, na adoção de eventual valor definido a este título como piso salarial profissional da carreira.
+3. A Lei federal no 12.994/2014 ressalvou, expressamente, a competência da União para prestar assistência financeira complementar aos demais entes federativos, com vistas ao cumprimento do piso salarial profissional nacional das carreiras de agente comunitário de saúde e de agente de combate às endemias ali instituído.
+4. A efetivação do piso salarial profissional nacional dos agentes comunitário de saúde e de combate às endemias está condicionada à prestação de assistência financeira complementar pela União, mormente ante a ausência de dotação orçamentária por parte dos entes municipais.
+5. A correção monetária e os juros de mora, como consectários legais da condenação principal, possuem natureza de ordem pública e podem ser analisados até mesmo de ofício. Logo, não há falar em reformatio in pejus.
+6. Tendo a Fazenda Pública sido condenada, os juros e a correção monetária devem incidir uma única vez, até o efetivo pagamento, com base nos índices oficiais de remuneração básica e juros aplicados à caderneta de poupança, nos exatos termos do artigo 10-F da Lei federal no 9.494/1997, com a nova redação dada pela Lei federal no 11.960/2009.
+7. Em sendo o julgado ilíquido, uma vez que faz-se necessária a juntada de documentos elucidativos para a apuração do montante condenatório, os honorários advocatícios sucumbenciais a serem arcados pela Fazenda Pública devem ser fixados após a respectiva liquidação, nos termos do que dispõe o artigo 85, § 40, inciso II, do Código de Processo Civil de 2015.
+8. APELAÇÃO CÍVEL CONHECIDA E PARCIALMENTE PROVIDA.
+Os Embargos de Declaração foram rejeitados.
+O recorrente alega que o art. 9-A da Lei 12.994/2014 foi violado, pois seria devido o pagamento da diferença entre os valores efetivamente recebidos e o piso nacional desde a data da entrada em vigor da citada lei, em 18/6/2014, data da publicação da mencionada norma, pois as alterações por ela promovidas não dependeriam de regulamentação adicional ou do aporte financeiro da União mencionado no art. 9-C da Lei 11.350/2006.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): A irresignação merece prosperar.
+A EC 63/2010 tornou obrigatória a adoção de piso salarial profissional nacional para os agentes comunitários de saúde e de combate às endemias, ao acrescentar o § 5º ao art. 198 da CF, verbis:
+Art. 198.
+(..)
+§ 5º Lei federal disporá sobre o regime jurídico, o piso salarial profissional nacional, as diretrizes para os Planos de Carreira e a regulamentação das atividades de agente comunitário de saúde e agente de combate às endemias, competindo à União, nos termos da lei, prestar assistência financeira complementar aos Estados, ao Distrito Federal e aos Municípios, para o cumprimento do referido piso salarial"
+A citada Emenda Constitucional estabeleceu que Lei Federal discipline o regime jurídico dos mencionados profissionais e que a União preste assistência financeira complementar aos Estados, ao Distrito Federal e aos Municípios para o cumprimento do piso salarial nacional instituído.
+Nesse contexto, foi publicada, em 18 de junho de 2014, a Lei Federal 12.994/2014, que alterou a Lei 11.350/2006 para estipular as diretrizes referentes ao plano de carreira dos agentes comunitários de saúde; os mecanismos relativos à assistência financeira complementar; bem como instituir o aludido piso salarial.
+Dispõe o art. 9º-A da Lei 12.994/2014:
+Art. 9º-A. O piso salarial profissional nacional é o valor abaixo do qual a União, os Estados, o Distrito Federal e os Municípios não poderão fixar o vencimento inicial das Carreiras de Agente Comunitário de Saúde e de Agente de Combate às Endemias para a jornada de 40 (quarenta) horas semanais. (Incluído pela Lei nº 12.994, de 2014)
+§ 1º O piso salarial profissional nacional dos Agentes Comunitários de Saúde e dos Agentes de Combate às Endemias é fixado no valor de R$ 1.014,00 (mil e quatorze reais) mensais.
+(..)
+Os dispositivos da Lei12.994/2014 não apresentam termo e/ou condição quanto ao prazo para o início do pagamento do piso salarial nacional suprarreferido, nem mencionam e/ou alteram a data de sua vigência. Portanto, a data da entrada em vigor da citada norma deve ser a de sua publicação.
+Definido o valor do piso pela Lei Federal 12.994/14, como preconizado pela Constituição Federal, os Estados, o Distrito Federal e os Municípios devem observá-lo.
+Portanto, o acórdão recorrido deve ser reformado para que o termo inicial do direito do recorrente de receber as diferenças relativas à inobservância do piso salarial da categorria seja a data da publicação da Lei 12.994/2014, em 18 de junho de 2014.
+Ante o exposto, dou provimento ao Recurso Especial.
+É como voto.
