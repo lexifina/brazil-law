@@ -1,0 +1,93 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544) interposto contra decisão que negou seguimento ao recurso especial por incidência das Súmulas n. 7 e 83 do STJ (e-STJ fls. 303/306).
+O acórdão do TJPR está assim ementado (e-STJ fl. 235):
+Agravo de instrumento. Ação revisional. Cumprimento de sentença. Intimação pessoal instituição financeira. Pessoa jurídica. Recebimento por funcionário. Possibilidade. Irrelevância da existência de poderes específicos para tal ato. Teoria da aparência. Ausência de ressalva no momento do ato. Desídia do banco executado para transferir os valores bloqueados via Bacenjud. Intimação devidamente realizada. Aplicação de multa cominatória por descumprimento da ordem judicial. Cabimento. Art. 461 do CPC. Garantia e efetividade da prestação jurisdicional. Precedentes. Recurso provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 262/265).
+Nas razões do recurso especial (e-STJ fls. 267/280), interposto com base no art. 105, III, "a" e "c", da CF, o recorrente apontou, além de dissídio jurisprudencial, violação dos arts. 461, § 4º, 475-J, § 1º, e 664 do CPC/1973, alegando:
+(a) ser impossível a aplicação de multa diária, pois não teria descumprido voluntariamente a ordem judicial nos autos de complementar o valor executado, visto que a notificação teria sido recebida na sede do banco por pessoa sem poderes de representação legal, não havendo intimação de seus procuradores no Diário de Justiça,
+(b) existir cerceamento nos autos, por desconhecer a existência de saldo remanescente a ser pago, conforme apurado nos cálculos apresentados pelo recorrido e a respeito dos quais o recorrente não teria se manifestado ou cumprido, ante a falta de intimação de seus procuradores para tanto, e
+(c) ser incabível a aplicação da multa cominatória fixada, tendo em vista que não estaria em discussão obrigação de fazer.
+Foram apresentadas contrarrazões (e-STJ fls. 291/301).
+No agravo (e-STJ fls. 309/322), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 325/335).
+É o relatório.
+Decido.
+O recurso especial e o agravo foram interpostos com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados, e a realização do cotejo analítico, nos termos definidos pelos arts. 255, §§ 1º e 2º, do RISTJ e 541, parágrafo único, do CPC/1973 (CPC/2015, art. 1.029, § 1º).
+De tais ônus o recorrente não se desincumbiu, por se limitar a transcrever ementas dos julgados a partir dos quais alegou o dissenso interpretativo, tornando inviável conhecer do recurso. A esse respeito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. SUBSCRIÇÃO DE AÇÕES. PROCESSAMENTO DA RECUPERAÇÃO JUDICIAL. SUSPENSÃO DO PROCESSO. DESNECESSIDADE. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS DE LEIS SUPOSTAMENTE VIOLADOS. SÚMULA 284/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO DESPROVIDO.
+(..)
+3. A simples transcrição de ementas, trechos ou inteiro teor dos precedentes colacionados, sem o necessário cotejo analítico entre os casos confrontados, não viabiliza o conhecimento do recurso especial pelo dissídio, ante a inobservância dos requisitos dos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.602.814/SC, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/5/2017, DJe 31/5/2017.)
+O TJPR afastou a tese de cerceamento de defesa, ao assentar que o banco recorrente foi intimado, por diversas vezes, para complementar o valor devido na execução, entendendo que referida intimação pessoal não necessitava ser realizada por pessoa com poder de representação legal da pessoa jurídica, tendo em vista que (e-STJ fls. 239/240, 243/244 e 247/248):
+Assim, após a manifestação do ora recorrente, foi proferida a r. decisão agravada.
+Primeiramente, do detido exame dos autos, constata-se que não há qualquer cerceamento de defesa e nem mesmo ausência de intimação do representante legal da instituição financeira que justificasse o afastamento da penalidade aplicada ou a declaração de nulidade nos autos determinada na r. decisão.
+De um lado, tenho que a realização de penhora on-line não exige prévia intimação do executado, visto que posteriormente lhe é possibilitado impugnar o cumprimento de sentença.
+(..)
+Assim, tenho que não há que se falar em cerceamento de defesa.
+Ademais, por outro lado, constata-se que houve a efetiva intimação do banco executado para o cumprimento das determinações judiciais emanadas nos autos, a qual não necessita ser realizada por pessoa com poder de representação legal da pessoa jurídica.
+Isto porque, consoante aplicação da teoria da aparência, válida é a citação e intimação pessoal realizada na pessoa de funcionário da pessoa jurídica que, sem ressalvas, assina documento de recebimento, mesmo que não tenha poderes expressos para tal.
+(..)
+Portanto, não é necessário que a intimação pessoal seja efetuada exclusivamente nas pessoas a quem os estatutos atribuem poderes expressos de representação da pessoa jurídica.
+Com efeito, no caso dos autos, embora tenha sido declarada a revelia da instituição financeira (fls. 26-TJ), a instituição financeira foi devidamente intimada da r. sentença proferida, em 28.11.2013, por meio da Sra. ELAINE ARENHART (618692), que recebeu o ofício nº 1695/2011, sem fazer qualquer ressalva acerca dos seus poderes para recebimento da mesma, conforme se verifica das fls. 44-TJ.
+Neste contexto, foi requerido o cumprimento de sentença, em 24.01.2012, no importe de R$ 85.057,09 (oitenta e cinco mil, cinqüenta e sete reais e nove centavos - fls. 45/46-TJ).
+Ademais, em que pese a instituição financeira tenha depositado o valor de R$ 85.057,09 (oitenta e cinco mil, cinqüenta e sete reais e nove centavos - fls. 55-TJ), somente o fez em 09.04.2012, ou seja, cerca de quatro meses após o início do cumprimento de sentença.
+Por tal razão, a parte autora requereu a complementação do depósito, pugnando pela penhora de R$ 12.599,43 (doze mil, quinhentos e noventa e nove reais e quarenta e três centavos - fls. 63-TJ).
+Realizado o bloqueio via Bacenjud (fls. 70-TJ), fora determinada a transferência dos valores determinada, conforme consta às fls. 75-TJ.
+Contudo, em virtude do descumprimento do banco em realizar a transferência, o MM. Juízo de primeiro grau reiterada mente determinou a sua intimação pessoal para dar cumprimento à ordem, sob pena de incidência de multa.
+Assim, embora na r. decisão agravada o MM. Juízo de primeiro grau tenha afastado a multa aplicada, tenho que não deve ser mantida tal decisão, pois mesmo devidamente cientificada da penalidade imposta, o banco recorrido deixou de dar cumprimento à ordem judicial.
+Portanto, a aplicação da multa cominatória em caso de descumprimento da ordem de transferência é perfeitamente compatível com a determinação e o resultado prático almejado nos autos.
+(..)
+Neste contexto, [NOME] destaca que "a multa não tem por finalidade substituir a obrigação, mas pressionar o executado no sentido de que a satisfaça" (in Os poderes do juiz e o aprimoramento da prestação jurisdicional. v.35. p. 52).
+Por "outro lado, vale ainda registrar que, embora o MM. Juízo de primeiro grau tenha ressaltado que "a prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer (Súm. 410/STJ), tenho que tal procedimento restou devidamente atendido no presente caso, já que não se exige que a referida intimação seja realizada pelo representante legal da instituição, bastando que o funcionário não tenha feito qualquer ressalva quando da assinatura do recebimento, como já exposto.
+Esta foi, de fato, a realidade dos autos, uma vez que visando dar efetividade ao comando judicial, com a transferência dos valores bloqueados, fora determinada a intimação pessoal do banco, sob pena de multa pelo descumprimento (fls. 85-TJ), a qual foi recebida pela Sra. ELAINE ARENHART (618692), em 22.11.2012 (fls. 88-TJ).
+Diante da desídia da instituição financeira, novamente, em 29.01.2013, o MM. Juízo a quo determinou a sua intimação pessoal, para que, no prazo de 24 (vinte e quatro) horas, realizasse a transferência dos valores, sob pena de multa diária no valor de R$ 250,00 (duzentos e cinqüenta reais) (fls. 90-TJ), a qual foi realizada na pessoa da Sra. ROSICLER BASSO, em 20.03.2013 (fls. 93-TJ), sendo juntada aos autos em 15.04.2013.
+Em que pese as providências determinadas para garantia da efetividade da prestação jurisdicional, o Banco do Brasil informou, em resposta à solicitação do juízo, que até 17.05.2013, não havia a transferência dos valores bloqueados, conforme se constata das fls. 99-TJ.
+Então, em 22.07.2013, novamente o MM. Juízo singular determinou a intimação pessoal do banco executado para dar cumprimento à ordem de transferência dos valores (fls. 101-TJ), a qual foi recebida em 05.08.2013 pela Sra. GISELE APARECIDA IANEGITZ (fls. 104-TJ).
+Neste contexto, o Banco do Brasil informou que em 02.09.2013, foram depositados os valores bloqueados (fls. 108-TJ) na conta vinculada ao juízo.
+Deste modo, em virtude das diversas intimações pessoais da instituição financeira realizadas no curso do processo, sem que houvesse qualquer ressalva acerca do poder de representação legal por parte das respectivas funcionárias, tenho que é devida a multa cominatória, como fixada pelo MM. Juízo (fls. 90-TJ), a fim de se dar efetividade à determinação judicial de transferência dos valores bloqueados em favor do ora recorrente.
+Registre-se que a intimação acerca da decisão na qual o valor da multa cominatória diária foi estabelecida ocorreu em 20.03.2013, com o prazo de 24 (vinte e quatro) horas para o seu cumprimento.
+Ultrapassar os fundamentos do acórdão impugnado, para acolher a tese de que o recorrente não teria sido pessoalmente intimado para cumprir a ordem de fazer o pagamento do saldo remanescente da execução, exigiria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula n. 7/STJ.
+Em tal contexto fático, verifica-se que o entendimento adotado pelo Tribunal de origem, considerando válida a intimação recebida por pessoa que não ressalvou estar desprovida de poderes de representação da pessoa jurídica, coincide com a jurisprudência firmada pela Corte Especial do STJ quanto ao ponto.
+PROCESSO CIVIL - EMBARGOS DE DIVERGÊNCIA - CITAÇÃO - TEORIA DA APARÊNCIA.
+1. Nega-se seguimento a embargos de divergência quando o acórdão recorrido encontra-se em sintonia com a jurisprudência dominante no Tribunal.
+2. Aplicação do entendimento prevalente da Corte Especial no sentido de adotar-se a Teoria da Aparência, reputando-se válida a citação da pessoa jurídica quando esta é recebida por quem se apresenta como representante legal da empresa e recebe a citação sem ressalva quanto à inexistência de poderes de representação em juízo.
+3. Agravo regimental improvido.
+(AgRg nos EREsp n. 205.275/PR, Relatora Ministra ELIANA CALMON, CORTE ESPECIAL, julgado em 18/9/2002, DJ 28/10/2002, p. 209.)
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. TAXA JUDICIÁRIA. PRÉVIO RECOLHIMENTO. LEGISLAÇÃO LOCAL. SÚMULA 280/STF. ASTREINTE. INTIMAÇÃO PESSOAL. CARTA RECEBIDA POR PESSOA QUE DIZ TER PODERES PARA RECEBER O MANDADO EM NOME DA EMPRESA. TEORIA DA APARÊNCIA. INCIDÊNCIA DA SÚMULA 83 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283 DO STF. AGRAVO INTERNO IMPROVIDO.
+(..)
+3. Conforme entendimento pacífico desta Corte, considera-se "válida a citação da pessoa jurídica quando esta é recebida por quem se apresenta como representante legal da empresa e recebe a citação sem ressalva quanto à inexistência de poderes de representação em juízo" (AgRg nos EREsp 205.275/PR, Rel. Ministra Eliana Calmon, Corte Especial, julgado em 18/9/2002, DJ 28/10/2002, p. 209). Precedentes.
+Incidência da Súmula 83 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.056.158/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/5/2017, DJe 1º/6/2017.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONHECIMENTO. NULIDADE CITAÇÃO NÃO RECONHECIDA. CONTESTAÇÃO INTEMPESTIVA. PROVA INEQUÍVOCA NÃO COMPROVADA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O acolhimento da pretensão recursal de que a citação teria ocorrido em nome de representante de empresa diversa da recorrente, demandaria a alteração das premissas fático-probatórias dos autos, com o revolvimento de provas, procedimento vedado nesta via recursal, ante o teor do enunciado sumular n. 7 deste Tribunal.
+2. O entendimento da Corte estadual está em harmonia com o posicionamento desta Corte, que adota a teoria da aparência, segundo a qual se considera válida a citação, bem como a intimação em geral na pessoa de quem se apresente perante o oficial de justiça sem manifestar qualquer ressalva quanto à inexistência de poderes para representá-la.
+3. Ao repisar os fundamentos do recurso especial, a parte agravante não trouxe, nas razões do agravo regimental, argumentos aptos a modificar a decisão agravada, que deve ser mantida por seus próprios e jurídicos fundamentos.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 537.988/GO, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 9/12/2014, DJe 17/12/2014.)
+Incide, portanto, a Súmula n. 83/STJ, que se aplica como óbice tanto aos recursos interpostos com base na alínea "c", quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+A Corte local reconheceu ainda que, ante o descumprimento voluntário do recorrente quanto à ordem de fazer o pagamento do saldo remanescente, a multa cominatória aplicada era devida, porque visava à efetividade da prestação jurisdicional, visto que (e-STJ fls. 246/247):
+No caso dos autos, verifica-se que houve o protocolamento da requisição de bloqueio de valores em 16.08.2012 (fls. 69-TJ), sendo que a transferência dos valores foi determinada em 10.09.2012 (fls. 75-TJ).
+Contudo, não foi atendida, de modo que, tendo o MM. Juízo de primeiro grau completado todos os comandos necessários via sistema Bacenjud para efetivação da ordem, é evidente que o banco recorrido é o responsável pela ausência de transferência dos valores, simplesmente ignorando a determinação, deixando de dar cumprimento à ordem judicial, o que é vedado pelo ordenamento jurídico.
+Portanto, a cominação de multa diária visa somente dar efetividade à prestação jurisdicional.
+O entendimento do TJPR, assentando a possibilidade de cominar multa diária para cumprir obrigação fixada em juízo para saldar o débito remanescente na execução, está em sintonia com a jurisprudência das Turmas da Segunda Seção do STJ quanto ao tema. A propósito:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA Nº 284 DO STF. ASTREINTES. OBRIGAÇÃO DE FAZER, CONSISTENTE EM SALDAR DÍVIDA COM O HOSPITAL. CABIMENTO. REVISÃO. VALOR POR DIA DE DESCUMPRIMENTO. CARÁTER EXORBITANTE NÃO VERIFICADO. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA Nº 7 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO NÃO PROVIDO.
+1.(..)
+2. No caso dos autos, o TJSP manteve as astreintes porquanto fora descumprida uma das duas obrigações impostas à operadora, qual seja, a de quitar os valores em aberto no Hospital A. C. Camargo. As razões recursais para afastar a imposição da penalidade, contudo, estão dissociadas dos fundamentos do aresto combatido, fazendo incidir a Súmula nº 284 do STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+3. Esta Corte Superior é firme no entendimento de que não é cabível multa cominatória se a obrigação imposta é de pagar quantia certa. Entretanto, na espécie, foi determinada à operadora não uma obrigação de pagar quantia certa ao espólio, mas, sim, uma obrigação de fazer, consistente em saldar o débito havido com o Hospital A. C. Camargo, referente às despesas hospitalares.
+(..)
+7. Em virtude do não provimento do presente recurso, e da anterior advertência quanto a aplicação do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+8. Agravo interno não provido, com imposição de multa.
+(AgInt no AREsp n. 1.152.963/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/2/2018, DJe 8/3/2018.)
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. DANOS CAUSADOS A IMÓVEL VIZINHO. OBRIGAÇÃO DE PAGAR QUANTIA CERTA. ASTREINTES. IMPOSSIBILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚM 211/STJ.
+(..)
+2. É firme o posicionamento do STJ no sentido de que, a multa diária é "meio executivo de coação, não aplicável a obrigações de pagar quantia certa, que atua sobre a vontade do demandado a fim de compeli-lo a satisfazer, ele próprio, a obrigação decorrente da decisão judicial." (REsp n. 784.188/RS, relator Ministro Teori Zavascki, DJ de 14.11.2005).
+3. Cabe ao magistrado dizer o direito aplicável à situação fática descrita pelas partes, de acordo com o princípio do jura novit curia, não estando obrigado a responder a todas as alegações das partes quando já tenha encontrado motivo suficiente para fundamentar a decisão, uma vez que ao qualificar os fatos trazidos ao seu conhecimento não fica adstrito ao fundamento legal invocado.
+4. Agravo regimental a que se nega provimento.
+(AgRg no Ag n. 1.401.660/ES, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/4/2013, DJe 17/4/2013.)
+Aplica-se, portanto, a Súmula n. 83/STJ como óbice tanto aos recursos interpostos com base na alínea "c", quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
