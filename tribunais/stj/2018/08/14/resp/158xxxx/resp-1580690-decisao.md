@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de recurso especial interposto de acórdão que recebeu a seguinte ementa (e-STJ fl. 381/382):
+EMENTA: AGRAVO REGIMENTAL EM APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA DE RESTITUIÇÃO DE IMPORTÂNCIA PAGA, REPETIÇÃO DE INDÉBITO C/C EXIBIÇÃO DE DOCUMENTOS. RECURSO MANIFESTAMENTE IMPROCEDENTE. SEGUIMENTO NEGADO COM BASE NO PERMISSIVO INSERTO NO ARTIGO 557, CAPUT, DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE FATO NOVO. Ao interpor agravo regimental da decisão que negou seguimento a recurso manifestamente contrário ao entendimento do Superior Tribunal de Justiça e deste Tribunal, o agravante deve demonstrar o desacerto dos fundamentos do decisum recorrido,
+sustentando a insurgência em elementos novos que justifiquem o pedido de reconsideração, e não somente reiterar as razões formuladas na petição do recurso originário, já apreciadas. AGRAVO REGIMENTAL CONHECIDO E DESPROVIDO.
+Dentre as matérias invocadas nas razões do recurso especial, encontra-se a discussão sobre aplicação do IPC como índice de correção do saldo devedor.
+A questão encontra-se afetada ao regime dos recursos repetitivos, sob rito dos arts. 1.036 e seguintes do Código de Processo Civil (Recursos Especiais nº 1.216.536/GO e 1.017.852/RS).
+Em face do exposto, nos termos do art. 1.037, II, do Código de Processo Civil, determino a devolução destes autos ao Tribunal de origem, com a respectiva baixa, para nele permanecerem sobrestados até o julgamento do mérito do recurso recebido como representativo da controvérsia (Tema 653), e, após, que se proceda em conformidade com os comandos dos arts. 1.040 e 1.041 do Código de Processo Civil.
+Intimem-se.
