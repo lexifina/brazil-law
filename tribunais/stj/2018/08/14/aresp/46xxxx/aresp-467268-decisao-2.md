@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por BANCO BAMERINDUS DO BRASIL S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL contra decisão que inadmitiu o recurso especial em virtude da incidência das Súmulas n. 83/STJ, 282/STF e 211/STJ (e-STJ fls. 470/474).
+O acórdão recorrido está assim ementado (e-STJ fl. 253):
+EMENTA- AGRAVO REGIMENTAL EM APELAÇÃO CÍVEL EMBARGOS À EXECUÇÃO CONTRATO DE FINANCIAMENTO RURAL - VARIAÇÃO DE PREÇO MÍNIMO DO PRODUTO - AUSÊNCIA DE PACTUAÇÃO - JUROS ANTERIORES A 15 DE SETEMBRO DE 2001 - PRESCRITOS NA FORMA DO ART. 178,§10, III, DO CÓDIGO CÍVIL DE 1916 - MULTA MORATÓRIA EM 2% DO VALOR DO DÉBITO - MESMOS ARGUMENTOS - RECURSOS NÃO PROVIDOS.
+O artigo 557, caput, do Código de Processo Civil permite que o relator, em decisão monocrática, negue seguimento ao recurso manifestamente improcedente.
+Nega-se provimento a agravo regimental que se limita a repisar os fundamentos do recurso de apelação, sem que tenha se desincumbido de mostrar a injustiça ou desacerto da decisão recorrida
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 306/315).
+Nas razões do recurso especial (e-STJ fls. 329/377), interposto com fundamento no art. 105, III, "a" e "c", da CF, o recorrente apontou ofensa ao artigo 535 do CPC/1973, alegando omissão do Tribunal pois "(..) reduziu o percentual da multa contratual moratória de 10% (dez por cento) para 2% (dois por cento) em título de crédito celebrado antes da vigência da Lei n. 9.298/1996, declarou prescritos os juros anteriores a 15 de setembro de 2001 e condenou o recorrente ao pagamento de custas processuais e honorários advocatícios ao patrono dos recorridos (instituição financeira em regime de liquidação extrajudicial), sem explicitar as razões de fato e de direito utilizadas para afastar as teses recursais deduzidas pelo recorrente, tais como: a incidência das normas particulares (legislação especifica/especial) que regulam o título de crédito em discussão (cédula rural pignoratícia n. 0048518.96.0000078, celebrada em 26/06/1996 - artigo 202, inciso I, do Código Civil; artigos 219, caput, e parágrafo 1º, 557, caput e parágrafo 1º-A, do Código de Processo Civil; artigo 118, da Lei n. 8.078/1990; artigos 10, 13, 60 e 71, do Decreto-Lei n. 167/67; artigo 70, do Decreto n. 57.663/66), quanto ao regime jurídico de liquidação extrajudicial da instituição financeira credora (artigo 18, alíneas "d" e T, da Lei n. 6.024/74) e quanto ao entendimento jurisprudencial consolidado do Egrégio Superior Tribunal de Justiça quanto às matérias controvertidas (..)" (e-STJ fls. 362/363).
+Aduz ainda afronta aos artigos 126, 128, 165, 219, caput e §1º, 458, II, 460 e 557, caput e §1º-A, do Código de Processo Civil/1973, 202, I, do Código Civil, 118 da Lei n. 8.078/1990, 10, 13, 60 e 71 do Decreto-lei n. 167/1967, 70 do Decreto n. 57.663/1966 e 18, "d" e "f", da Lei n. 6.024/1974.
+Busca, em suma, a devolução dos autos ao Tribunal de origem para análise dos embargos de declaração.
+No agravo (e-STJ fls. 479/518), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta não apresentada (e-STJ fl. 527).
+É o relatório.
+Decido.
+O Tribunal a quo manteve a sentença, que reduziu o percentual da multa contratual moratória de 10% (dez por cento) para 2% (dois por cento), em título de crédito celebrado antes da vigência da Lei n. 9.298/1996, e declarou prescritos os juros anteriores a 15 de setembro de 2001, nos seguintes termos (e-STJ fls. 212/213):
+Referente a aplicação da multa contratual em 10%, não assiste razão a instituição financeira, uma vez que não se pode negar a aplicabilidade do Código de Defesa do Consumidor à relação jurídica objeto dos autos. Esse diploma legal, como é sabido, tem caráter público, já que possui origem constitucional. Ou seja, é norma que tem superioridade hierárquica, impondo-se e prevalecendo sobre normas de caráter privado, tendo por objetivo salvaguardar valores básicos da sociedade.
+Ademais, como visto acima, frente aos princípios que norteiam as relações de consumo, tais como o dirigismo contratual, a boa-fé objetiva e a função social dos contratos, não é crível que, ante a existência de norma de ordem pública mais benéfica ao consumidor, deixe de ser aplicada.
+Ora, se assim é, a multa deve ser reduzida de 10% (dez por cento) para 2% (dois por cento), ainda que o contrato tenha sido firmado antes da edição da Lei 9.298/1996, porquanto, a toda evidência, o advento da Lei n.º 9.298/1998, que alterou o CDC, somente veio a confirmar a onerosidade da multa fixada em percentual superior a 2% (dois por cento).
+(..).
+Por tais motivos, o percentual da multa contratual moratória deve ficar limitado em 2% (dois por cento), não merecendo reparos a sentença neste tópico.
+Como bem apreciou o magistrado singular, os juros anteriores a 15 de setembro de 2001, estão prescritos, e não podem ser repetidos, devendo ser extirpadas dos cálculos semelhantes verbas (fls.128). Nesse sentido tem se posicionado a jurisprudência do Superior Tribunal de Justiça:
+Dessa forma, verifica-se que a matéria controvertida foi devidamente enfrentada e fundamentada, ainda que contrariamente aos interesses da parte. Assim, o Tribunal de origem não incorreu em omissão, contradição nem obscuridade.
+Assim, quanto à alegada afronta ao art. 535 do CPC/1973, não assiste razão à parte recorrente. A propósito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE LOCAÇÃO. VIOLAÇÃO DO ART. 535 DO CPC/1973. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não configura ofensa ao art. 535 do Código de Processo Civil o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pela parte, adotar fundamentação contrária à pretensão da recorrente, suficiente para decidir integralmente a controvérsia.
+2. O acórdão tratou de forma clara a controvérsia apresentada, lançando fundamentação jurídica sólida, mediante convicção formada do exame feito aos elementos fático-probatórios dos autos, para a solução adotada para o desfecho da lide. Apenas não foi ao encontro da pretensão do recorrente, o que está longe de significar negativa de prestação jurisdicional.
+(..)
+4. Agravo regimental não provido.
+(AgRg no AREsp 535.761/MG, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 8/3/2016, DJe 15/3/2016.)
+Ademais, o agravante alegou genericamente violação dos artigos 126, 128, 165, 219, caput e §1º, 458, II, 460 e 557, caput e §1º-A, do Código de Processo Civil/1973, 202, I, do Código Civil, 118 da Lei n. 8.078/1990, 10, 13, 60 e 71 do Decreto-lei n. 167/1967, 70 do Decreto n. 57.663/1966 e 18, "d" e "f", da Lei n. 6.024/1974, no entanto não há demonstração clara e inequívoca da infração, o que caracteriza deficiência na fundamentação recursal, a teor da Súmula n. 284 do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. [NOME]. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. ENRIQUECIMENTO ILÍCITO. AUSÊNCIA DE PREQUESTIONAMENTO. ANÁLISE DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF.
+1. A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos como violados, bem como a exposição das razões pelas quais o acórdão teria afrontado a cada um deles, não sendo suficiente a mera alegação genérica. Dessa forma, o inconformismo se apresenta deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia (Súmula 284/STF).
+(..)
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 408.204/SC, 2ª Turma, Rel. Ministro Og Fernandes, DJe 29/11/2013)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. [NOME]. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. ENRIQUECIMENTO ILÍCITO. AUSÊNCIA DE PREQUESTIONAMENTO. ANÁLISE DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF.
+1. A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos como violados, bem como a exposição das razões pelas quais o acórdão teria afrontado a cada um deles, não sendo suficiente a mera alegação genérica. Dessa forma, o inconformismo se apresenta deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia (Súmula 284/STF).
+(..)
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 408.204/SC, 2ª Turma, Rel. Ministro Og Fernandes, DJe 29/11/2013)
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
