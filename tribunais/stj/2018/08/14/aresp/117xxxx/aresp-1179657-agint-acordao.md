@@ -1,0 +1,66 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. FERIADO OU SUSPENSÃO DO EXPEDIENTE NO TRIBUNAL DE ORIGEM. PRORROGAÇÃO DOS PRAZOS PROCESSUAIS. TEMPESTIVIDADE NÃO DEMONSTRADA POR MEIO DE DOCUMENTO OFICIAL. AGRAVO DESPROVIDO.
+1. A parte recorrente foi intimada da decisão de admissibilidade em 09/06/2017, ao passo que o agravo em recurso especial somente foi protocolado em 04/07/2017, quando decorrido o prazo recursal de 15 (quinze) dias úteis previsto nos arts. 219, caput, 994, VI, 1.003, § 5º, e 1.042 do CPC/2015.
+2. O dia de Corpus Christi é considerado feriado local, porquanto não está previsto em legislação federal. Precedentes.
+3. É obrigatória a comprovação de feriado local no ato de interposição do recurso, sob pena de não conhecimento, por intempestividade. Precedentes.
+4. A comprovação da suspensão ou da interrupção local dos prazos processuais deve ser feita por meio de documento oficial idôneo ou certidão expendida pelo Tribunal de origem. Precedentes.
+5. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (Relator):
+Trata-se de agravo interno interposto por COSTA TURISMO VIAGENS NACIONAIS E INTERNACIONAIS S.S. LTDA. - ME contra decisão de relatoria da em. Ministra Presidente Laurita Vaz (fls. 395/396), que não conheceu de seu agravo especial sob o fundamento de intempestividade.
+Nas razões do agravo interno, alega-se que "(..) no decorrer do prazo processual não houve expediente forense após o 3º dia de contagem do prazo recursal, houve a suspensão dos prazos em decorrência do feriado de Corpus Christi, conforme Provimento CSM nº 2.394/2016-TJ-SP, razão pela qual não houve contagem de prazos nos dias 15/06/2017 e 16/06/2017" (fl. 403).
+Sustenta-se que, "Além de citados e transcritos no corpo da peça, tais atos foram objeto de publicação na imprensa oficial, o que a rigor teria o condão de tornar prescindível a junta aos autos" (fl. 404)
+Ao final, pleiteia-se a reconsideração da decisão agravada ou, se mantida, que o presente recurso seja levado a julgamento perante a eg. Quarta Turma.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (Relator):
+O recurso em apreço não merece prosperar, uma vez que a agravante não apresentou argumentos aptos a modificar a decisão vergastada, de relatoria da em. Ministra Presidente Laurita Vaz.
+Conforme delineado na decisão monocrática, a parte recorrente foi intimada da decisão de admissibilidade em 09/06/2017, ao passo que o agravo em recurso especial somente foi protocolado em 04/07/2017, quando decorrido o prazo recursal de 15 (quinze) dias úteis previsto nos arts. 219, caput, 994, VI, 1.003, § 5º, e 1.042 do CPC/2015.
+De início, salienta-se que, à luz do entendimento desta Corte Superior, o dia de Corpus Christi não é considerado feriado nacional, conforme arestos a seguir:
+"AGRAVO INTERNO. INTEMPESTIVIDADE DO RECURSO. SUSPENSÃO DOS PRAZOS PROCESSUAIS. NÃO COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO. ART. 1003. § 6º, CPC/2015. FERIADO LOCAL. RECURSO NÃO PROVIDO
+1. Segundo o entendimento firmado pela Corte Especial do Superior Tribunal de Justiça, no julgamento do AgInt no AREsp n. 957.821/MS, (julgado em 20/11/2017), nos recursos protocolados na vigência do novo Código de Processo Civil, para fins de aferição de tempestividade, a ocorrência de feriado local deverá ser comprovada, mediante documento idôneo, no ato da interposição do recurso, nos termos da disposição expressa contida no § 6º do art. 1.003 do CPC/2015.
+2. A segunda-feira de Carnaval, nos termos das Leis Federais nºs 5.010/1966 e 11.697/2008, não se aplica à justiça comum estadual, porquanto, aplica-se, restritivamente, à Justiça Federal e ao Tribunal de Justiça do Distrito Federal e Territórios (TJDFT), respectivamente, portanto, sua eventual ocorrência na instância de origem, no presente caso, exige comprovação nos autos pela parte interessada por meio de documento idôneo, no ato de interposição.
+3. O feriado nacional deve estar previsto em lei federal, contudo, o dia de Corpus Christi (Corpo de Cristo) é feriado local, uma vez que não previsto em qualquer legislação federal e, portanto, sua eventual ocorrência na instância de origem também exige comprovação nos autos pela parte interessada por meio de documento idôneo, quando da interposição.
+4. A interpretação literal da norma expressa no § 6º do art. 1.003 do CPC/2015, de caráter especial, sobrepõe-se a qualquer interpretação mais ampla que se possa conferir às disposições de âmbito geral insertas nos arts. 932, parágrafo único, e 1.029, § 3º, do citado diploma legal.
+5. Agravo interno não provido."
+(AgInt no AREsp 1.156.485/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/02/2018, DJe de 28/02/2018, grifou-se)
+Dessa forma, o dia de Corpus Christi submete-se à regra do art. 1.003, § 6º, do CPC/2015, segundo a qual a existência de feriado e a suspensão do expediente não podem ser comprovados posteriormente à interposição do recurso, nem mesmo em agravo interno. Nesse sentido, colhem-se diversos precedentes:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. SUSPENSÃO DO EXPEDIENTE (PONTO FACULTATIVO) NO TRIBUNAL DE ORIGEM. PRORROGAÇÃO DOS PRAZOS PROCESSUAIS. TEMPESTIVIDADE NÃO DEMONSTRADA.
+1. Conforme o § 6º do artigo 1.003 do CPC, o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que não ocorreu no presente caso.
+2. Agravo interno a que se nega provimento."
+(AgInt no AREsp 975.392/MT, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 27/04/2017, DJe de 05/05/2017)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL E PONTO FACULTATIVO. COMPROVAÇÃO POSTERIOR. PRINCÍPIO DA PRIMAZIA DO MÉRITO. ART. 932, PARÁGRAFO ÚNICO, DO CPC/15. INTIMAÇÃO DO RECORRENTE.
+INAPLICABILIDADE. REGRA ESPECIAL. COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO. OBRIGATORIEDADE. ART. 1.006, § 3º, DO CPC/15. DECISÃO MANTIDA.
+1. Na sistemática do CPC/73, era possível a demonstração da tempestividade em virtude de feriado local ou suspensão do expediente, nos termos do entendimento do STF (RE 626.358 AgR, Rel. Ministro Cezar Peluso, Plenário) e do STJ (AgRg no AREsp 137.141/SE, Rel. Min. Antonio Carlos Ferreira, Corte Especial).
+2. No contexto do CPC/15, em face da mudança de paradigmas decorrente dessa nova lei, o princípio da primazia do mérito impõe ao julgador, antes de considerar inadmissível o recurso, a intimação do recorrente para que seja sanado o vício ou complementada a documentação exigível - art. 932, parágrafo único.
+3. Por sua vez, o art. 1.003, § 6º, do CPC/15 impõe ao recorrente o ônus de comprovar a ocorrência de feriado local ou de suspensão do expediente no ato de interposição do recurso.
+4. Não obstante o princípio da primazia do mérito, o próprio Código de Processo Civil de 2015 estabeleceu expressa obrigatoriedade de comprovação de feriado local ou suspensão do expediente, regra específica que prevalece sobre a regra geral (ex specialis derrogat lex generalis).
+5. Não comprovada a existência de feriado local ou suspensão do expediente no ato da interposição do recurso, nos termos do § 6º do art. 1.003 do CPC/15, deve o relator considerar inadmissível o recurso, independente de intimação, não se aplicando o art. 932, parágrafo único.
+6. Agravo interno não provido."
+(AgInt no AREsp 991.944/GO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/04/2017, DJe de 05/05/2017)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTEMPESTIVIDADE DO RECURSO ESPECIAL E DO AGRAVO EM RECURSO ESPECIAL PORQUANTO INTERPOSTOS APÓS O PRAZO PREVISTO NO NO ART. 1.003, § 5º DO CPC DE 2015. NÃO COMPROVAÇÃO SUSPENSÃO DOS PRAZOS PROCESSUAIS PELO TRIBUNAL DE ORIGEM. FALTA DE DOCUMENTO HÁBIL. DECISÃO MANTIDA.
+1. O prazo para interposição do recurso especial e do agravo em recurso especial (art. 1.003, § 5º do CPC de 2015) é de 15 (quinze) dias úteis, conforme o art. 219 do CPC de 2015. Intempestividade constatada diante da falta de apresentação de documento hábil para comprovar a suspensão dos prazos pelo tribunal de local. Preclusão consumativa.
+2. A jurisprudência desta Corte Superior entende que "Não é possível a juntada de documento para comprovar eventual tempestividade do recurso após a interposição do agravo interno, em razão da preclusão (AgInt no AREsp 962.902/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 10/11/2016, DJe 19/12/2016).
+3. "Os recursos interpostos na instância de origem, mesmo que direcionados a esta Corte Superior, observam o calendário de funcionamento do tribunal local, não podendo se utilizar, para todos os casos, dos feriados e das suspensões previstas em Portaria e no Regimento Interno do Superior Tribunal de Justiça, que muitas vezes não coincidem com os da Justiça estadual" (AgRg no AREsp 700.715/MG, Rel, Ministro Ricardo Villas Bôas Cuevas, Terceira Turma, julgado em 17/5/2016, DJe 23/5/2016).
+4. Agravo interno não provido."
+(AgInt no AREsp 1.057.913/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/06/2017, DJe de 1º/08/2017)
+Ademais, a comprovação da suspensão ou da interrupção local dos prazos processuais deve ser feita pela parte recorrente por meio de documento oficial idôneo ou certidão expendida pelo Tribunal de origem. Nesse sentido, inúmeros precedentes desta Corte:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RECURSO ESPECIAL INTEMPESTIVO. RECURSO ESPECIAL INTERPOSTO NA VIGÊNCIA DO CPC/73. POSSIBILIDADE DE COMPROVAÇÃO POR DOCUMENTO IDÔNEO. NÃO OCORRÊNCIA. ATESTADO MÉDICO DO ADVOGADO. NECESSIDADE DE DEMONSTRAÇÃO DA JUSTA CAUSA. NÃO OCORRÊNCIA. AGRAVO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+1. À época da vigência do CPC/73, era firme a jurisprudência desta Corte no sentido de que eventual suspensão do prazo recursal, decorrente de ausência de expediente, recesso forense, feriados locais, paralisação ou interrupção do expediente poderia ser demonstrada no agravo contra a decisão que reconhecia a intempestividade, desde que a comprovação se desse por documento oficial ou certidão expedida pelo Tribunal de origem.
+2. O STJ firmou entendimento de que somente fica configurada a força maior quando demonstrada a absoluta impossibilidade de o patrono da parte exercer a profissão ou substabelecer o mandato, hipótese inocorrente.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.071.302/GO, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/02/2018, DJe de 08/03/2018 - grifou-se)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO, MANTENDO A INTEMPESTIVIDADE DO RECURSO ESPECIAL - IRRESIGNAÇÃO DA COMPANHIA TELEFÔNICA.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do NCPC.
+2. A jurisprudência do STJ, firmada na vigência do CPC/1973, era no sentido de que para fins de demonstração da tempestividade do recurso especial, incumbe à parte comprovar, por meio de documento oficial idôneo ou certidão expedida pelo Tribunal de origem, a ocorrência de suspensão ou interrupção dos prazos processuais em decorrência de ausência ou suspensão de expediente forense, que implique prorrogação do termo final para sua interposição.
+3. Hipótese em que a parte não apresentou, quando da interposição do agravo regimental, documentação apta a comprovar o alegado recesso forense na instância ordinária.
+4. O STJ entende ser inviável a juntada de documento comprobatório da suspensão dos prazos na Corte a quo apenas em sede de embargos de declaração, em razão da ocorrência de preclusão consumativa.
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1.552.495/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 07/12/2017, DJe de 14/12/2017 - grifou-se)
+In casu, a parte agravante não se desincumbiu de seu ônus probatório, pois não juntou documento oficial ou certidão do Tribunal de origem para comprovar o alegado feriado local, limitando-se a copiar o teor dos provimentos do eg. TJ-SP.
+Vale acrescentar que nem mesmo "A mera juntada de cópia de informações extraídas da página oficial do Tribunal de origem na internet não se revela suficiente para a prorrogação de prazo processual. Precedentes" (AgRg no AREsp 389.309/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/02/2014, DJe de 25/02/2014).
+Diante do exposto, nega-se provimento ao agravo interno.
+É como voto.
