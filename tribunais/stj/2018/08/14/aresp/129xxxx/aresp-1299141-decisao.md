@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da incidência da Súmula n. 7/STJ (e-STJ fls. 180/184).
+O acórdão recorrido está assim ementado (e-STJ fl. 48):
+APELAÇÃO CÍVEL - LIQUIDAÇÃO DE SENTENÇA - NEGÓCIOS JURÍDICOS BANCÁRIOS - TÍTULO EXECUTIVO JUDICIAL DESNECESSÁRIA A FASE LIQUIDATÓRIA APURAÇÃO DO VALOR EXEQUENDO MEDIANTE SIMPLES CÁLCULOS ARITMÉTICOS APLICAÇÃO DO ART. 509, §2º, DO CPC - SENTENÇA MANTIDA - RECURSO CONHECIDO E IMPROVIDO.
+Os embargos de declaração opostos foram acolhidos, mas sem alteração do julgado (e-STJ fls. 85/93).
+Nas razões do recurso especial (e-STJ fls. 95/110), interposto com fundamento no art. 105, III, "a", da CF, a recorrente alegou ofensa aos arts. 502, 505, I e II, 507 e 508 do CPC/2015.
+Sustentou, em síntese, que, "diante da coisa julgada material - mais precisamente de que seria a necessária a instalação da fase de liquidação -, mesmo que o d. Juízo de liquidação acreditasse que não seria necessária a liquidação, não poderia rescindir o que fora decidido de maneira definitiva" (e-STJ fl. 105).
+No agravo (e-STJ fls. 192/200), afirma a presença de todos os requisitos de admissibilidade do especial.
+O recorrido apresentou contraminuta (e-STJ fls. 202/207).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+O Tribunal de origem concluiu que é "prescindível a realização da liquidação de sentença, sem que o reconhecimento nesta fase executória viole a coisa julgada" (e-STJ fl. 92).
+Tal entendimento está em consonância com a jurisprudência do STJ, para a qual: (i) caso se mostrar mais adequado à apuração do quantum debeatur, pode-se optar pelo cumprimento de sentença por cálculos aritméticos sem se proceder à passagem pela fase de liquidação, e (ii) a alteração na forma de liquidação de sentença não ofende à coisa julgada. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DESNECESSIDADE DE LIQUIDAÇÃO POR ARBITRAMENTO. APURAÇÃO MEDIANTE CÁLCULOS ARITMÉTICOS. INTIMAÇÃO. NULIDADE. INEXISTÊNCIA. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. Não configura ofensa aos arts. 165, 458 e 535 do Código de Processo Civil de 1973 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados, adotar fundamentação contrária à pretensão da parte recorrente, suficiente para decidir integralmente a controvérsia.
+2. É pacífico o entendimento de que a fase de liquidação de sentença não constitui etapa obrigatória para o cumprimento de sentença, quando a apuração do valor exequendo depender apenas de cálculos aritméticos.
+3. Hipótese em que o Tribunal de origem verificou que o acórdão exequendo não determinou que a liquidação de sentença se desse por arbitramento, sendo viável a apuração do valor exequendo por cálculos aritméticos, e que a decisão que homologou os cálculos apresentados pelos agravados não foi impugnada no momento oportuno e transitou em julgado, embora tenha a agravante sido intimada por duas vezes para se manifestar.
+4. A reforma do acórdão recorrido, na forma requerida pela agravante, demandaria a revisão do contexto fático-probatório dos autos, o que é inviável nesta instância especial, a teor da Súmula 7/STJ.
+5. Constando do acórdão impugnado que a agravante foi intimada, na pessoa do advogado, mediante publicação no Diário Oficial, acerca dos cálculos apresentados, não se verifica nenhuma nulidade.
+6. Agravo interno não provido.
+(AgInt no REsp 1182789/RJ, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/09/2017, DJe 02/10/2017.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL CIVIL. PREVIDÊNCIA PRIVADA. CUMPRIMENTO DE SENTENÇA. ALTERAÇÃO DA FORMA DE LIQUIDAÇÃO. POSSIBILIDADE. OFENSA À COISA JULGADA. INEXISTÊNCIA. SÚMULA Nº 344/STJ. ELABORAÇÃO DE CÁLCULOS ARITMÉTICOS. SUFICIÊNCIA.
+1. Quando a determinação do valor da condenação depender apenas de cálculo aritmético, o cumprimento de sentença poderá se dar sem a fase de liquidação, bastando ao credor instruir o pedido com a memória discriminada e atualizada do cálculo. Ademais, não havendo a necessidade de perícia ou de se alegar ou produzir fato novo, não há falar em liquidação por arbitramento ou por artigos, mesmo porque a natureza do objeto do procedimento não o exige.
+2. Caso se mostrar mais adequada à apuração do quantum debeatur, pode-se optar pelo cumprimento de sentença já por cálculos aritméticos sem se proceder à passagem pela fase de liquidação, sobretudo porque, consoante jurisprudência pacífica deste Tribunal Superior. Súmula nº 344/STJ.
+3. Se os critérios para o pagamento das diferenças de resgate das contribuições vertidas ao plano de previdência privada já foram definidos na sentença transitada em julgado, sendo suficiente a elaboração de meros cálculos aritméticos para se apurar o valor devido, a liquidação se torna dispensável, nos termos do art. 475-B do CPC.
+4. Agravo regimental não provido.
+(AgRg no REsp 1199763/DF, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 16/12/2014, DJe 04/02/2015.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. FORMA DE LIQUIDAÇÃO. ALTERAÇÃO. POSSIBILIDADE. OFENSA À COISA JULGADA. INEXISTÊNCIA. SÚMULA Nº 344/STJ. ELABORAÇÃO DE CÁLCULOS ARITMÉTICOS. SUFICIÊNCIA. SÚMULA Nº 83/STJ.
+1. Quando a determinação do valor da condenação depender apenas de cálculo aritmético, o cumprimento de sentença poderá se dar sem a fase de liquidação, bastando ao credor instruir o pedido com a memória discriminada e atualizada do cálculo. Ademais, não havendo a necessidade de perícia ou de se alegar ou produzir fato novo, não há falar em liquidação por arbitramento ou por artigos, mesmo porque a natureza do objeto do procedimento não o exige.
+2. Caso se mostrar mais adequada à apuração do quantum debeatur, pode-se optar pelo cumprimento de sentença já por cálculos aritméticos sem se proceder à passagem pela fase de liquidação, sobretudo porque, consoante jurisprudência pacífica deste Tribunal Superior. Súmula nº 344/STJ.
+3. Incide, na espécie, a Súmula nº 83/STJ.
+4. Agravo regimental não provido. (AgRg no AREsp 805.648/RS, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 01/03/2016, DJe 08/03/2016.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO PROVISÓRIA DE TÍTULO JUDICIAL. LIQUIDAÇÃO. INTERLOCUTÓRIA QUE CONVERTEU A LIQUIDAÇÃO POR ARBITRAMENTO, INICIALMENTE ADOTADA, PARA CÁLCULO ARITMÉTICO, CONSIDERANDO QUE O TÍTULO EXEQUENDO JÁ INDICARA VALOR CERTO, FUNDADO EM LAUDO PERICIAL PRODUZIDO NA FASE DE CONHECIMENTO. INEXISTÊNCIA DE ÓBICE LEGAL. ALTERAÇÃO DA FORMA DE LIQUIDAÇÃO DE SENTENÇA. POSSIBILIDADE. OFENSA À COISA JULGADA. NÃO OCORRÊNCIA. SÚMULA 344/STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp 937.838/RJ, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/09/2017, DJe 20/10/2017.)
+Incide, portanto, a Súmula n. 83/STJ, que se aplica tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+Ademais, para afastar a conclusão da Corte local de que a liquidação de sentença por arbitramento não era necessária, seria indispensável o exame do contexto fático-probatório, providência vedada em sede de recurso especial, diante do óbice da Súmula n. 7/STJ. A propósito:
+AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO. VALOR. CÁLCULOS ARITMÉTICOS. LIQUIDAÇÃO DE SENTENÇA DESNECESSÁRIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULAS 7 E 83 DO STJ.
+1. A conclusão do acórdão impugnado no recurso especial de que a apuração dos valores devidos pode feita por simples cálculos aritméticos, sendo desnecessária a liquidação de sentença, não pode ser revista no âmbito do recurso especial, por demandar o reexame do conjunto fático-probatório dos autos (Súmulas 7/STJ).
+2. Encontrando-se o acórdão impugnado no recurso especial em consonância com o entendimento deste Tribunal, incide o enunciado da Súmula 83/STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no Ag 731.809/RS, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/08/2012, DJe 15/08/2012.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL CIVIL. PREVIDÊNCIA PRIVADA. EMBARGOS À EXECUÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. NÃO CARACTERIZAÇÃO. DESNECESSIDADE DE PERÍCIA ATUARIAL. SUFICIÊNCIA DE MEROS CÁLCULOS ARITMÉTICOS. EXCESSO DE EXECUÇÃO E JUROS COMPOSTOS. NÃO CONFIGURAÇÃO. SÚMULA Nº 7/STJ. HONORÁRIOS ADVOCATÍCIOS. LEGITIMIDADE RECURSAL. LITIGANTE. POSSIBILIDADE. VALOR ARBITRADO. REVISÃO. INADMISSIBILIDADE. MONTANTE RAZOÁVEL. MULTA PROCESSUAL. SEGUNDOS DECLARATÓRIOS. CARÁTER PROCRASTINATÓRIO. LEGALIDADE.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal local motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. Rever o entendimento do tribunal de origem, que concluiu pela desnecessidade de liquidação de sentença por intermédio de perícia atuarial, pois bastariam cálculos aritméticos, além de estar o feito estava suficientemente instruído, sendo desnecessárias outras provas, esbarra no óbice da Súmula nº 7/STJ.
+3. Se a Corte estadual, com base no acervo fático-probatório dos autos, entendeu que os cálculos apresentados pelos exequentes estavam corretos e que os juros incidiram na forma simples, ou seja, que não havia excesso de execução ou a incidência de juros compostos, chegar a entendimento diverso demandaria o reexame de fatos e provas, o que é inadmissível na via especial (Súmula nº 7/STJ).
+4. Tanto o litigante quanto seu patrono possuem legitimidade para recorrer da decisão com relação à fixação dos honorários advocatícios. Precedentes.
+5. A jurisprudência deste Superior Tribunal é firme no sentido de que a revisão do valor arbitrado com base na equidade a título de honorários advocatícios enseja o revolvimento das circunstâncias fáticas e peculiaridades do caso concreto, salvo nas hipóteses em que se revelar irrisório ou exorbitante, situações inexistentes na espécie.
+6. Os segundos embargos de declaração opostos com o intuito de modificar o julgado, repetindo os mesmos argumentos dos declaratórios anteriores, revela nítido caráter procrastinatório, pelo que é admissível a aplicação da multa processual prevista no art. 538, parágrafo único, do CPC.
+7. Agravo regimental não provido.
+(AgRg no REsp 1375968/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 04/11/2014, DJe 10/11/2014.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
