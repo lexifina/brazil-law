@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE SÃO PAULO com fundamento no art. 105, III, a e c, da Constituição Federal, objetivando reformar o acórdão proferido pelo órgão fracionário do Tribunal de Justiça do estado de São Paulo, assim ementado (fl. 196):
+RECLAMAÇÃO CONTRA ACÓRDÃO PROFERIDO PELA 3a CÂMARA DE DIREITO PÚBLICO - INADMISSIBILIDADE - USURPAÇÃO DE COMPETÊNCIA DOS TRIBUNAIS SUPERIORES - PRECEDENTES DO ÓRGÃO ESPECIAL, SUPERIOR TRIBUNAL DE JUSTIÇA E SUPREMO TRIBUNAL FEDERAL.
+RECLAMAÇÃO NÃO CONHECIDA.
+Na origem, trata-se de reclamação em que objetiva-se a anulação do acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo que aplicou dispositivo de lei anteriormente declarado inconstitucional pelo órgão especial.
+No órgão especial do Tribunal de origem, a reclamação não foi conhecida (fls. 195-208).
+Opostos embargos declaratórios, foram rejeitados (fls. 222-227).
+Interposto recurso especial, alega a parte recorrente violação do artigo 949, parágrafo único, do CPC/2015.
+Negado seguimento ao recurso especial na origem, foi interposto agravo em recurso especial que, por sua vez, foi convertido em recurso especial (fl. 353).
+É o relatório. Decido.
+Incide sobre o recurso especial o Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No tocante à alegada ofensa ao art. 949, parágrafo único, do CPC/2015, assiste razão ao recorrente, pois as decisões proferidas pelo órgão especial vinculam os órgãos fracionários do respectivo tribunal. Logo, é defeso ao órgão fracionário solucionar a lide aplicando como válido dispositivo já declarado inconstitucional pelo órgão competente para a análise do incidente de arguição de inconstitucionalidade.
+Nesse sentido:
+ADMINISTRATIVO. SERVIDORES PÚBLICOS MUNICIPAIS. REINTEGRAÇÃO. CONCURSO PÚBLICO ANULADO. LEIS E ATOS NORMATIVOS MUNICIPAIS CONSIDERADOS INCONSTITUCIONAIS PELO ÓRGÃO ESPECIAL DO TRIBUNAL DE ORIGEM EM SEDE ARGUIÇÃO DE INCONSTITUCIONALIDADE. ACÓRDÃO RECORRIDO FUNDADO EXCLUSIVAMENTE EM FUNDAMENTOS DE ORDEM CONSTITUCIONAL. INVIABILIDADE DE REFORMA NA VIA DO ESPECIAL. OFENSA À ENUNCIADO DE SÚMULA. NÃO CABIMENTO DO RECURSO ESPECIAL.
+1. Tratando a hipótese de ação anulatória de ato administrativo, mostra-se manifestamente descabido, por ser estranho aos autos, o exame da pretensão de reconhecimento de eventual error in procedendo no julgamento da Arguição de Inconstitucionalidade n.º 2006.017.00021, que declarou a inconstitucionalidade das Leis n.os 3.027/99 e 3.100/2000 e dos Decretos Administrativos n.os 250 e 252, ambos de 2000, que embasaram o concurso público.
+2. Sendo evidente a natureza constitucional dos fundamentos que concluíram pela inconstitucionalidade das leis e atos normativos que alicerçaram juridicamente o certame público, mostra-se inviável a apreciação dessas questões na presente via do recurso especial, devendo tal pretensão ser levada ao conhecimento da Suprema Corte em sede de recurso extraordinário, sob pena de usurpação de sua competência constitucionalmente delimitada.
+3. É entendimento consolidado deste Superior Tribunal de Justiça que a indicação de ofensa à Súmula não enseja a abertura da via especial para embasar a alínea a do permissivo constitucional. Precedentes.
+4. A declaração de inconstitucionalidade, em sede arguição de inconstitucionalidade por meio do Órgão Especial de Tribunal, vincula os respectivos órgãos fracionários que devem se submeter ao entendimento firmado. Precedentes.
+5. A questão relativa à ofensa aos princípios da aparência e da boa-fé não foi apreciada pelo Tribunal a quo, a despeito da oposição dos embargos declaratórios, sendo certo que sequer foi devolvida à apreciação do referido tribunal quando da contrarrazões à apelação.
+6. Recurso especial parcialmente conhecido e, nessa parte, desprovido.
+(REsp 1081631/RJ, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 21/09/2010, DJe 11/10/2010)
+PROCESSUAL CIVIL. DECLARAÇÃO DE INCONSTITUCIONALIDADE POR ÓRGÃO FRACIONÁRIO DE TRIBUNAL. NECESSIDADE DE VINCULAÇÃO DA TURMA AO CONTEÚDO DECIDIDO PELA CORTE ESPECIAL DO TRF DA 4ª REGIÃO. INTELIGÊNCIA DO ART. 481, PARÁGRAFO ÚNICO, DO CPC. AUSÊNCIA DE NULIDADE NO CASO CONCRETO.
+1. Nos termos do que dispõe o art. 481, parágrafo único, do CPC, as únicas hipóteses em que o órgão fracionário de um Tribunal pode decidir pela inconstitucionalidade de uma norma, sem violar a cláusula de reserva de plenário, ocorrem quando já houver prévio pronunciamento do plenário ou do órgão especial do Tribunal ou do plenário do Supremo Tribunal Federal.
+2. No caso dos autos, percebe-se que, apesar da fundamentação do acórdão ter dito que se afastou do entendimento adotado pela Corte Especial do TRF da 4ª Região para seguir o Superior Tribunal de Justiça, vê-se, na verdade, que não houve o abandono do que foi decidido na arguição de inconstitucionalidade na AC 2004.72.05.003494-7/SC.
+3. Isso porque, conforme se observa no acórdão recorrido, a ação foi ajuizada em 20.5.2003, ou seja, antes da entrada em vigor da Lei Complementar n. 118/2005. Portanto, o prazo prescricional decenal, aplicado no caso concreto, está em perfeita sintonia com o entendimento que Corte Especial do TRF da 4ª Região adotou na arguição de inconstitucionalidade na AC 2004.72.05.003494-7/SC, não se havendo falar em violação da cláusula de reserva de plenário, muito menos do art. 481, parágrafo único, do CPC.
+Recurso especial improvido.
+(REsp 1267595/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 06/10/2011, DJe 14/10/2011)
+Ante o exposto, nos termos do art. 255, §4º, III, do Regimento Interno do STJ, dou provimento ao recurso especial.
+Publique-se. Intime-se.
