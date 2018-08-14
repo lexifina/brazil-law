@@ -1,0 +1,22 @@
+DECISÃO
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC/1973. MORTE DO AUTOR. HABILITAÇÃO DOS SUCESSORES. SUSPENSÃO DO PRAZO PROCESSUAL. PRESCRIÇÃO INTERCORRENTE. INEXISTÊNCIA DE PREVISÃO LEGAL. INTERPRETAÇÃO RESTRITIVA. SÚMULA 83/STJ. RECURSO ESPECIAL DO DEPARTAMENTO NACIONAL DE OBRAS CONTRA AS SECAS A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto pelo DEPARTAMENTO NACIONAL DE OBRAS CONTRA AS SECAS, com base na alínea a do art. 105, III da Constituição Federal, objetivando a reforma do acórdão proferido pelo Tribunal Regional Federal da 5a. Região, assim ementado:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. FALECIMENTO. SUSPENSÃO DO PROCESSO. HABILITAÇÃO DE SUCESSOR. PRESCRIÇÃO INTERCORRENTE. INOCORRÊNCIA. 1. Caso em que a autarquia agravante busca a decretação da prescrição iníercorrente em virtude do lapso de 12 (doze) anos entre o falecimento tíos. autores da ação e a habilitação de seus sucessores. 2. Em caso de morte de qualquer das partes, o prazo prescricional não tem início até a intimação dos sucessores para fins de habilitação. Precedentes deste Regional. 3. Pedido de reconsideração prejudicado. 4. Agravo de instrumento improvido (fls. 103).
+2. Em seu Apelo Especial inadmitido, sustenta a parte recorrente violação dos arts. 265, I e § 1o., e 535 do CPC/1973; 196 e 199 do Código Civil, aos seguintes fundamentos: (a) o acórdão recorrido, a despeito da oposição de Embargos de Declaração, permaneceu omisso sobre pontos relevantes ao deslinde do feito; e (b) de que é de 5 anos o prazo prescricional intercorrente para habilitação de sucessores em caso de falecimento do titular do direito.
+3. É o relatório. Decido.
+4. No tocante ao art. 535 do CPC/1973, inexiste a violação apontada. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que o julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+5. No mais, a pretensão da Autarquia está em dissonância com o entendimento desta Corte Superior de que o óbito de uma das partes do processo implica em sua suspensão, e não havendo previsão legal impondo prazo para a habilitação dos respectivos sucessores, não há falar em prescrição intercorrente. A esse respeito, convém destacar os seguintes precedentes:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. AUSÊNCIA. VIOLAÇÃO AO ART. 535 DO CÓDIGO DE PROCESSO CIVIL. EXECUÇÃO DE SENTENÇA. ÓBITO DO EXEQUENTE. SUSPENSÃO DO PROCESSO. HABILITAÇÃO DOS HERDEIROS. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+II - Prequestionados, implicitamente, os dispositivos tidos por violados acerca da tese relativa à prescrição, inexiste ofensa ao art. 535, II, do Código de Processo Civil.
+III - Não há violação ao art. 535, II, do Código de Processo Civil quando a matéria indicada como omissa no Recurso Especial não foi objeto do recurso ou das contrarrazões, o que demonstra a indevida inovação em sede de embargos de declaração.
+IV - O óbito de uma das partes do processo implica sua suspensão, de modo que, na ausência de previsão legal impondo prazo para a habilitação dos respectivos sucessores, não há falar em prescrição intercorrente. Precedentes.
+V - É vedada a aplicação analógica de regra de prescrição, porquanto implica restrição de direitos.
+VI - Recurso Especial improvido (REsp. 1.481.077/CE, Rel. Min. REGINA HELENA COSTA, DJe 13.5.2016).
+
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PREVIDENCIÁRIO. ÓBITO DA PARTE. SUSPENSÃO DO PROCESSO. HERDEIROS. SUCESSÃO. PRAZO. INEXISTÊNCIA.
+1. O óbito do segurado acarreta a suspensão do processo e, em razão da inexistência de prazo específico para a habilitação dos respectivos sucessores, não há que se falar em prescrição intercorrente. Precedentes.
+2. Agravo regimental a que se nega provimento (AgRg no AREsp. 282.834/CE, Rel. Min. OG FERNANDES, DJe 22.4.2014).
+6. Ante o exposto, nega-se seguimento ao Recurso Especial do DEPARTAMENTO NACIONAL DE OBRAS CONTRA AS SECAS.
+7. Publique-se.
+8. Intimações necessárias.
