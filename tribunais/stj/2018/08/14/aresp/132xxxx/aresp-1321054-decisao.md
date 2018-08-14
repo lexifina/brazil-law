@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por BV FINANCEIRA S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTO contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado:
+"APELAÇÃO CÍVEL - CUMPRIMENTO DE SENTENÇA - AÇÃO ORDINÁRIA DE REPARAÇÃO DE DANOS MATERIAIS E MORAIS C/C PEDIDO DE TUTELA ANTECIPADA - SENTENÇA DE EXTINÇÃO - INSURGÊNCIA DA EXECUTADA - NÃO ACOLHIDA - VALOR PAGO ANTECIPADAMENTE INCLUÍDO NO CÁLCULO DO JUÍZO - OBRIGAÇÃO SOLIDÁRIA CONSOLIDADA NA CONDENAÇÃO FIXADA NA FASE CONHECIMENTO - PENHORA REALIZADA SEM QUE HOUVESSE IMPUGNAÇÃO AO ATO - PRECLUSÃO - INVIABILIDADE DE REDISCUSSÃO DA MATÉRIA NESSE MOMENTO - PLEITO DE LITIGÂNCIA DE MÁ-FÉ FEITO PELO APELADO - IMPOSSIBILIDADE - EXERCÍCIO DO DIREITO DE DEFESA PELO RECORRENTE - PEDIDO DE MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS FORMULADO EM CONTRARRAZÕES AO RECURSO - NÃO CONHECIMENTO - CONTUDO, AUMENTO DEVIDO POR FORÇA DO TRABALHO REALIZADO EM INSTÂNCIA RECURSAL - INTELECÇÃO DO ART. 85, § 11, DO CPC/15. RECURSO CONHECIDO E DESPROVIDO" (e-STJ fl. 587).
+No recurso especial, alega-se violação do art. 275 do Código Civil, ao fundamento de que, havendo condenação solidária e tendo a recorrente realizado o pagamento de sua quota do débito, é dos demais devedores a responsabilidade pela quitação do restante da dívida.
+Sem as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+Extrai-se das razões recursais que a recorrente não refutou os seguintes fundamentos adotados pela Corte local:
+"(..)
+Contudo, mesmo devidamente intimada para dizer a respeito da constrição materializada em seu desfavor (segs. 114.0 e 115.0), decorreu o prazo sem que a apelante tivesse apresentado referente manifestação (seq. 117.0)" (e-STJ fl. 592).
+Assim, havendo fundamento suficiente no julgado impugnado que não foi objeto de impugnação específica pela parte recorrente, aplica-se o óbice da Súmula nº 283/STF, por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Além disso, o aresto combatido encontra-se alinhado à jurisprudência do Superior Tribunal de Justiça, consoante se vê do seguinte precedente:
+"PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. MULTA PELO DESCUMPRIMENTO DE OBRIGAÇÃO DE FAZER. MODIFICAÇÃO DO QUANTUM FIXADO PELAS INSTÂNCIAS DE ORIGEM. SÚMULA N. 7/STJ. PRECLUSÃO. NÃO OCORRÊNCIA. CUMPRIMENTO DO DÉBITO REMANESCENTE RECONHECIDO EM SENTENÇA TRANSITADA EM JULGADO E DO VALOR DAS ASTREINTES. PEDIDO DE MANIFESTAÇÃO. NÃO CABIMENTO. RESPONSABILIDADE SOLIDÁRIA. APLICAÇÃO DO ART. 275 DO CÓDIGO CIVIL DE 2002 E NÃO DO ART. 257 DO MESMO DIPLOMA.
+1. Afasta-se a alegada negativa de prestação jurisdicional quando o acórdão recorrido, integrado por julgado proferido em embargos de declaração, dirime, de forma expressa, congruente e motivada, as questões suscitadas nas razões recursais.
+2. Afastar as conclusões do Tribunal de origem acerca da exorbitância e da proporcionalidade do valor fixado a título de astreintes demanda a incursão no acervo fático-probatório dos autos, providência vedada em recurso especial, nos termos da Súmula n. 7/STJ.
+3. O valor da multa cominatória prevista no art. 461 do CPC/1973 pode ser alterado pelo magistrado a qualquer tempo, quando reconhece ser irrisório ou exorbitante, não ocorrendo a preclusão da matéria nem ofensa à coisa julgada.
+4. O art. 475-J do CPC/1973 prevê o prazo de 15 (quinze) dias para a impugnação ao cumprimento de sentença. Se o executado não concorda com os cálculos apresentados pelo exequente quanto ao débito remanescente ou ao valor devido a título de multa imposta pelo descumprimento de obrigação de fazer, cabe a ele impugná-los, nos termos do § 1º do mesmo preceito legal, desde que não o faça por meio de mera petição formulada no bojo do procedimento executivo e não objetive atacar matéria preclusa.
+5. O devedor solidário responde pela totalidade da dívida; por essa razão, cabe ao credor escolher contra quem pretende litigar, consoante o disposto no art. 275 do Código Civil de 2002, ainda que a obrigação seja divisível, não se impondo a aplicação do art. 257 do mesmo diploma legal.
+6. Recursos especiais parcialmente conhecidos e desprovidos" (REsp 1.601.576/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe 22/6/2016, RB vol. 633 p. 42 - grifou-se).
+Logo, não merece reforma o acórdão recorrido, incidindo, na espécie, o enunciado da Súmula nº 568/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor do débito atualizado à data do efetivo pagamento, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
