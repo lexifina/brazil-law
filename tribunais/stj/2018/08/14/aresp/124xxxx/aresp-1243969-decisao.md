@@ -1,0 +1,15 @@
+DECISÃO
+1. Trata-se de agravo interposto por [NOME] contra decisão que inadmitiu recurso especial, com fulcro no art. 105, III, "a" e "c", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+PRESTAÇÃO DE SERVIÇO. FORNECIMENTO DE GÁS. AÇÃO MONITÓRIA. Pedido julgado procedente. Fase de cumprimento de sentença. É cabível o manejo da impugnação ao cumprimento da sentença para a discussão sobre questões relacionadas à fase de execução do julgado. Agravo de instrumento que se ajusta à hipótese prevista no parágrafo único do art. 1.015 do CPC/2015. Prescrição intercorrente não verificada. Não localização de bens em nome da empresa executada. Desconsideração da personalidade jurídica da devedora, com inclusão dos sócios e ex-sócios no polo passivo da execução, que é tema superado. Responsabilidade da agravante ex-sócia pelos débitos da executada anteriores a dois anos após averbado o seu desligamento da sociedade. Compreensão dos arts. 1003, parágrafo único, e 1032 do Código Civil. Recurso desprovido.
+
+Nas razões do especial, alega-se violação dos arts. 1.003, parágrafo único, e 1.032 do Código de Processo Civil, bem com dissídio jurisprudencial.
+Decido.
+2. A irresignação não merece prosperar.
+O Tribunal de origem registra que a recorrente deve responder solidariamente pelo valor em execução tendo em vista que, apesar de ter se retirado da sociedade, tal fato se deu em 23/08/2007, ao passo que a ação monitória em apreço foi ajuizada em 12/2006, ou seja, quando a recorrente ainda fazia parte da sociedade.
+A reforma do aresto, neste aspecto, demanda inegável necessidade de reexame de matéria fático-probatória, providência inviável de ser adotada em sede de recurso especial, ante o óbice da Súmula 7 desta Corte.
+3. Por outro lado, o conhecimento do recurso fundado na alínea "c" do permissivo constitucional pressupõe a demonstração analítica da alegada divergência. Para tanto, faz-se necessário a transcrição dos trechos que configurem o dissenso, com a indicação das circunstâncias que identifiquem os casos confrontados. (Nesse sentido: REsp 441.800/CE, Rel. Ministro JORGE SCARTEZZINI, DJ 2.8.04).
+No caso em tela, a parte agravante traz à colação ementa de julgado, contudo não procede ao cotejo deste com o caso dos autos; apenas traça uma conclusão conveniente em face dos enunciados estampados nas ementas, não sendo aferível a similitude fática entre esse acórdão e o do caso em julgamento.
+A falta de cotejo analítico impede o acolhimento do apelo, pois não foram demonstradas em quais circunstâncias o caso confrontado e o aresto paradigma aplicaram diversamente o direito, sobre a mesma situação fática.
+Importante salientar que a análise do apelo especial fundado em alegado dissídio jurisprudencial deve ser demonstrado nos moldes exigidos pelos artigos 541, parágrafo único, do CPC e 255, § 2º, do Regimento Interno do Superior Tribunal de Justiça, o que não ocorreu.
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
