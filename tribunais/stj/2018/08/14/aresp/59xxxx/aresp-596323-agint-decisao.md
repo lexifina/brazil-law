@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interno do MUNICÍPIO DE MACAPARANA contra decisão que, com apoio em pacífico entendimento jurisprudencial, deu provimento ao recurso especial da FAZENDA NACIONAL para restabelecer sentença de improcedência do pedido autoral, pertinente à emissão de certidão de regularidade fiscal ainda que a Câmara de Vereadores esteja em débito com o fisco.
+O agravante entende não poder responsabilizado por tributos inadimplidos pelo Poder Legislativo, sustentando (e-STJ fls. 561):
+ ..  à Câmara é atribuído CNPJ específico, pela própria Receita Federal, justamente para fins de exercício de sua autonomia constitucional  ..  por meio da inscrição no CNPJ, ao órgão autônomo é permitida a aquisição bens e serviços, contratação de funcionários, emissão de documentos inerentes, exigibilidade e quitação de tributos, encargos e contribuições sociais, entre outros. Todavia, caso não cumpra com suas obrigações, toda a comunidade sofrerá com as conseqüências da inadimplência do Município como um todo. Vale repetir que tal entendimento acaba por violar frontalmente a autonomia dos poderes constitucionais, tal como consignado no acórdão do TRF5  ..
+Sem impugnação pela FAZENDA NACIONAL.
+Passo a decidir.
+Após nova análise processual, provocada pela interposição do agravo interno, observo a necessidade de reconsideração da decisão agravada.
+É que o Tribunal Regional Federal da 5ª Região decidiu a matéria com fundamentação exclusivamente constitucional, e, por isso, o recurso fazendário não poderia ter sido provido, uma vez não ser da competência deste Tribunal Superior a revisão de acórdãos apoiados em interpretação da Constituição Federal.
+Reconsiderada a decisão, vejamos, novamente, a pretensão fazendária.
+No que interessa, eis o teor do voto condutor do acórdão a quo (e-STJ fl. 447):
+Sobre o tema, esta Egrégia, Corte já consolidou o entendimento no sentido que a Constituição Federal de 1988 consagrou a independência e a autonomia administrativo-financeira entre os Poderes Legislativo, Executivo e Judiciário, de forma que não se afigura possível a responsabilização do Poder Executivo em razão de irregularidades e obrigações tributárias atribuídas à Câmara Municipal, apesar de esta não possuir personalidade jurídica.
+É pertinente, pois, a dissociação dos débitos de responsabilidade, da Câmara Municipal dos que sejam próprios da Prefeitura, uma vez que a Câmara e a Prefeitura possuem CNPJ distintos, arcando, cada um desses segmentos do Poder Político do Município, com os seus próprios e respectivos débitos fiscais.
+A FN opôs embargos de declaração, mas foram rejeitados sem acréscimo de fundamentação. E, no especial, alega violação dos arts. 12 e 535 do CPC/1973, do art. 41 do Código Civil e dos arts. 121, 205 e 206 do CTN.
+Pois bem.
+Ante a fundamentação do acórdão recorrido, nota-se não haver violação do art. 535 do CPC/1973, porquanto se apóia em fundamentação coerente e suficiente para embasar sua conclusão. Por isso, desnecessário o pronunciamento pedido nos aclaratórios a respeito do art. 12 CPC/1973, do art. 41 do Código Civil e dos arts. 121, 205 e 206 do CTN.
+De outro lado, como afirmado, o acórdão se apóia tão somente em fundamentação constitucional, não havendo nenhum pronunciamento sobre o art. 12 do CPC/1973, o art. 41 do Código Civil e os arts. 121, 205 e 206 do CTN, de tal sorte que é inviável o conhecimento do especial também pelo óbice da Súmula 282 do STF.
+Ante o exposto, RECONSIDERO a decisão agravada e, com base no art. 253, parágrafo único, II, "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE DO RECURSO ESPECIAL da Fazenda Nacional e, nessa parte, NEGAR-LHE PROVIMENTO.
+Publique-se. Intimem-se
