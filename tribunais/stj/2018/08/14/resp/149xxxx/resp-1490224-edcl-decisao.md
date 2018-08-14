@@ -1,0 +1,34 @@
+DECISÃO
+Kamers Brasil Importação e Exportação Ltda. opõe embargos de declaração em face da decisão de fls. 402/406, pela qual se determinou a devolução dos autos à origem, para realização de juízo de conformação à luz do que vier a ser decidido no RE 946.648/SC ("incidência do IPI na saída do estabelecimento importador de mercadoria para a revenda no mercado interno, considerada a ausência de novo beneficiamento no campo industrial").
+Sustenta a embargante que "a matéria discutida nos presentes autos não atina à não incidência de IPI na saída dos produtos importados, objeto do RE-RG 946.648/SC (tema 906)" (fl. 413). Pugna, pois, pelo saneamento do erro material apontado.
+Transcorreu in albis o prazo para impugnação.
+É o breve relato.
+Compulsando os autos, verifica-se, de fato, a existência de erro material passível de correção de ofício.
+Assim, exercendo o juízo de retratação, reconsidero a decisão de fls. 402/406, tornando-a sem efeito, e passo novamente à analise do recurso:
+Trata-se de recurso especial fundado no CPC/73, manejado por Kamers Brasil Importação e Exportação Ltda., com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 215):
+TRIBUTÁRIO. IPI. REVENDA DE MERCADORIA IMPORTADA. IMPORTAÇÃO POR CONTA E ORDEM DE TERCEIRO. IN SRF 247/02.
+1. Ocorrido o fato gerador, há incidência de IPI nos termos da Lei. Se na operação de importação por conta e ordem de terceiro há novo fato gerador, em razão da prestação de serviço, o princípio da não cumulatividade ampara apenas a compensação do valor já pago.
+2. A IN SRF 247/02 não institui nova hipótese de incidência de IPI em seus artigos 86, III, parte final c/c 87, IV, à revelia da legislação pertinente.
+Opostos embargos declaratórios, foram acolhidos apenas para fins de prequestionamento (fls. 229/231).
+A parte recorrente aponta violação aos arts. 47, II, a, 97, II, IV, § 1º, e 99, do CTN. Sustenta, em resumo, que a Instrução Normativa SRF 247/2002, em seus arts. 86, III, e 87, IV, c", além de  ..  promover aumento de tributo, no caso o IPI - através da majoração da sua base de cálculo -, por ato infra-legal, em afronta direta ao princípio da estrita legalidade (arts. 150, I, CF; art. 97, II, IV e § 1º, e art. 99, ambos do CTN), também ofende o art. 47, II, a, do CTN, por força do comando do art. 146, III, "a", CF, ao alargar a base de cálculo do mesmo por instrumento que não seja lei complementar e ferir, inclusive, o princípio da rígida discriminação de competências tributárias, com a afronta à regra-matriz do imposto (153, IV e § 3º, CF)" (fls. 244/245).
+É o relatório.
+Registre-se, de logo, que a decisão recorrida foi publicada na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Da própria fundamentação recursal, verifica-se que, a despeito de haver apontado no apelo raro afronta à legislação federal, o recorrente, em verdade, sustenta desrespeito a dispositivos constitucionais (arts. 146, III, a, 150, I, e 153, IV, § 3º, da CF), matéria reservada à apreciação do Supremo Tribunal Federal pela via do recurso extraordinário stricto sensu igualmente interposto nos autos.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. AUSÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. PRINCÍPIO DA LEGALIDADE. ART. 97 DO CTN. REPRODUÇÃO DE NORMA CONSTITUCIONAL.
+1. Inexiste contrariedade ao art. 535, II, do CPC/1973 quando a Corte de origem decide clara e fundamentadamente todas as questões postas a seu exame. Ademais, não se deve confundir decisão contrária aos interesses da parte com ausência de prestação jurisdicional.
+2. Consoante entendimento assentado pelo STJ, as questões atinentes à observância do princípio da legalidade tributária, reproduzido no art. 97 do CTN, possuem natureza eminentemente constitucional, motivo pelo qual não se pode conhecer do recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.663.617/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 21/3/2018, DJe 3/4/2018)
+TRIBUTÁRIO. OFENSA AO ART. 97 DO CTN. IMPOSSIBILIDADE DE ANÁLISE EM RECURSO ESPECIAL. PRINCÍPIO CONSTITUCIONAL DA LEGALIDADE TRIBUTÁRIA. MATÉRIA DE NATUREZA EMINENTEMENTE CONSTITUCIONAL. USURPAÇÃO DA COMPETÊNCIA DA SUPREMA CORTE. AGRAVO INTERNO DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. É sabido que o art. 97 do CTN reproduz o Princípio da Legalidade previsto no art. 150, I da CF/1988, possuindo caráter eminentemente constitucional, o que impõe o não conhecimento do Apelo Nobre sobre esse fundamento.
+2. Pertinente ressaltar, ainda, que a leitura do Acórdão recorrido demonstra que a Corte de origem, ao julgar o recurso de apelação da Recorrente, apesar de citar legislação infraconstitucional, decidiu a questão com fundamento eminentemente constitucional, no caso, com base no conceito de faturamento estabelecido no art. 195, I, b da Constituição Federal.
+3. Agravo Interno da Empresa a que se nega provimento.
+(AgInt no REsp 1.368.328/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 27/2/2018, DJe 12/3/2018)
+PROCESSUAL CIVIL. TRIBUTÁRIO. IPI. MERCADORIAS SUJEITAS AO REGIME DE PAUTA FISCAL. FALTA DE ATAQUE ESPECÍFICO A FUNDAMENTO SUFICIENTE PARA MANTER O JUÍZO EMITIDO PELO ACÓRDÃO RECORRIDO. INCOMPATIBILIDADE ENTRE LEI COMPLEMENTAR E LEI ORDINÁRIA SUPERVENIENTE. MATÉRIA DE ÍNDOLE CONSTITUCIONAL.
+1. A falta de impugnação específica, nas razões do especial, ao argumento central do acórdão recorrido, consistente na impossibilidade de consideração dos descontos incondicionados na determinação da base de incidência do IPI para produtos submetidos ao regime de pauta fiscal, impede o seu conhecimento.
+2. Registre-se, ademais, que a alegada incompatibilidade entre a norma constante do art. 15, § 2º, da Lei 7.798/89 e a disposição do art. 47 do CTN é tema de índole eminentemente constitucional, já que a invasão, por lei ordinária, da esfera de competência reservada constitucionalmente à lei complementar acarreta a sua inconstitucionalidade, e não a sua ilegalidade, conforme a orientação sedimentada pela jurisprudência do STF.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 584.503/CE, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, julgado em 9/5/2006, DJ 1º/8/2006, p. 367)
+Ante o exposto, reconsidero a decisão de fls. 402/406 e não conheço do recurso especial.
+Publique-se.
