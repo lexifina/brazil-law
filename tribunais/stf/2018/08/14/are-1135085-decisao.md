@@ -1,0 +1,29 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 2ª Região, assim ementado (eDOC 2, p. 97):
+    “CONSTITUCIONAL. ADMINISTRATIVO. PROFISSIONAL DE SAÚDE. CUMULAÇÃO DE CARGOS. EXIGÊNCIA DE COMPATIBILIDADE DE HORÁRIOS NÃO DEMONSTRADA. PRECEDENTE DO STJ.
+    1. A acumulação se renova a cada dia e a Administração tem o dever de apurar a qualquer tempo possível acumulação ilegal de cargos (art. 133 da Lei nº 8.112/90), não havendo falar em decadência administrativa. (Cf. TRF2, AC 201351011456170).
+    2. Ao cuidar da excepcionalidade da cumulação de cargos públicos, permitiu a Carta da República “a de dois cargos ou empregos privativos de profissionais de saúde, com profissões regulamentadas”, quando houver compatibilidade de horários (art. 37, XVI, c).
+    3. O autor exerce dois cargos de auxiliar de enfermagem, no Hospital Municipal Salgado Filho, desde 24/03/1977, e no Hospital Federal dos Servidores do Estado, desde 02/02/1978, cumprindo plantões em dias alternados para cada um dos vínculos.
+    4. Os dois cargos acumulados de auxiliar de enfermagem são privativos de profissionais de saúde, com carga horária total efetiva de 60 horas semanais, sendo lícita a cumulação, ainda mais porque demonstrada a plena compatibilidade de horários e de respeito aos intervalos interjornadas.
+    5. Apelação e remessa necessária desprovidas.”
+    Os embargos de declaração foram rejeitados (eDOC 3, p. 20).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 37, XVI, c, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que (eDOC 3, p. 32):
+    “Ainda que não haja limitação legal da carga horária decorrente da cumulação de cargos, certo é que não se afigura cabível admitir a carga semanal superior a 60 (sessenta) horas, uma vez que além da carga horária de trabalho o profissional deve deter tempo necessário à alimentação, ao deslocamento e ao repouso (tempo para dormir). A acumulação pretendida afronta o princípio da razoabilidade e importaria, é certo, em decréscimo da qualidade do trabalho realizado, além de ofender o princípio da eficiência, relevando destacar que a Impetrante atua na área da saúde, onde um descuido pode apresentar consequências extremamente maléficas.”
+    A Vice-Presidência do TRF/2ª Região inadmitiu o recurso com base na Súmula 279 do STF (eDOC 4, p. 13).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento da apelação, asseverou (eDOC 2, p. 95-96):
+    “A acumulação de cargos do autor é anterior à Constituição Federal, devendo ser aplicado o art. 17, § 2º, do ADCT, que assegurou o exercício cumulativo de dois cargos ou empregos privativos de profissionais de saúde que estivessem sendo exercidos na administração pública direta ou indireta. Contudo, o dispositivo mencionado deve ser interpretado em conformidade com o inciso XVI, “c”, do art. 37 da CF, isto é, a cumulação só é permitida se houver compatibilidade de horários.
+    Por sua vez, o art. 37, XVI, “c”, da Constituição Federal, com a redação dada pela Emenda Constitucional nº 34/2001, admite a cumulação de dois cargos ou empregos privativos de profissionais de saúde, com profissões regulamentadas, exigindo, contudo, a compatibilidade de horários.
+    (…)
+    O autor exerce dois cargos de auxiliar de enfermagem, no Hospital Municipal Salgado Filho, desde 24/03/1977 (fls. 39, 48 e 80), e no Hospital Federal dos Servidores do Estado, desde 02/02/1978 (fls. 52 e 78), cumprindo plantões em dias alternados para cada um dos vínculos (fls. 39, 48, 49, 54 e 79).
+    Os dois cargos acumulados de auxiliar de enfermagem são privativos de profissionais de saúde, com carga horária total efetiva de 60 horas semanais (fl. 48), sendo lícita a cumulação, ainda mais porque demonstrada a plena compatibilidade de horários e de respeito aos intervalos interjornadas, conforme documentos de fls. 38, 39, 79 e 80.”
+    Depreende-se desses fundamentos e daqueles que constam da ementa do acórdão recorrido, que eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas e o exame da legislação infraconstitucional (Lei Federal 8.112/1990). Dessa forma, resta demonstrada a não ocorrência de ofensa constitucional direta, o que inviabiliza o processamento do apelo extremo, além da vedação contida na Súmula 279 do STF. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. TÉCNICO EM RADIOLOGIA. ACUMULAÇÃO DE CARGOS. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279 DO STF. MULTA DO ARTIGO 557, § 2º, DO CPC/1973. APLICABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.” (ARE 936.295 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe 25.5.2016).
+    “Agravo regimental no recurso extraordinário. Direito Administrativo. Servidor público. Acumulação de cargos. Compatibilidade de horários. Verificação. Fatos e provas. Reexame. Impossibilidade. 1. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos. Incidência da Súmula nº 279/STF. 2. Agravo regimental não provido.” (RE-AgR 883.732, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe 21.8.2015).
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do CPC e majoro em ¼ (um quarto) a verba honorária fixada anteriormente, devendo ser observados os limites dos §§ 2º e 3º do artigo 85, §11, do Código de Processo Civil.
+    Publique-se.
+    Brasília, 14 de agosto de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
