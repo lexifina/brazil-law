@@ -1,0 +1,49 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo Ministério Público do Estado do Rio de Janeiro, com amparo na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão assim ementado (e-STJ, fl. 411):
+Agravo Interno na Apelação Cível alvejando Decisão proferida pelo Relator que negou seguimento ao recurso. Processual Civil. Civil e Administrativo. Ação Civil Pública. Área de risco. Deslizamentos. Ação civil pública deduzida pelo Ministério Público do Estado do Rio de Janeiro objetivando a implantação e execução de política pública de prevenção a deslizamento de encostas. Legitimidade passiva do Município presente. Solidariedade dos entes políticos. Art. 2º, § 1º, da Lei 12.608/10.
+Conjunto probatório que demonstra que foram realizadas obras emergenciais de contenção de encosta, compra de radar meteorológico e implantação de sistema de alarme pelo Poder Público. Decisão desprovida de ilegalidade, abuso ou desvio de poder, prolatada dentro da competência do relator, não passível, na hipótese, de modificação.
+O recorrente sustenta que o acórdão combatido vulnerou a previsão dos arts. 535, II, do CPC/1973; 3º-A e 3º-B da Lei n. 12.340/2010; 2º, VI, "h", da Lei n. 10.257/2001; e 14, § 1º, da Lei n. 6.938/1981.
+Alega que o aresto impugnado deixou de manifestar-se quanto às provas que demonstram a não realização pelo município das obras de intervenção na localidade objeto da lide e no tocante à não imposição de prazo para realização de obras e cominação de multa.
+Argumenta, em síntese, que o Tribunal a quo manteve a sentença de improcedência do juiz singular apesar de reconhecer a existência de áreas de risco de deslizamento na localidade.
+Na espécie, afirma que o fato de o risco ser classificado como médio não desincumbe o município do seu dever legal de realizar obras para reduzir os riscos de desastres.
+Assevera que o Poder Público, réu, de forma genérica e divorciada dos elementos dos autos, aduz as medidas que objetiva efetuar. Logo, essa ponderação é incapaz de fulminar o interesse processual do recorrente.
+Relata, ainda, que "a obrigação do recorrido é de FIM, a saber: adotar medidas suficientes para reduzir o risco de médio para baixo, empregando-se a mesma metodologia antes usada no estudo que a GEO-RIO contratou para aferir e medir o risco de deslizamentos sobre as áreas habitadas. Apenas os meios para alcançar este fim é que integram a discricionariedade administrativa" (e-STJ, fl. 473).
+Contrarrazões apresentadas às e-STJ, fls. 501-512.
+Parecer do Ministério Público Federal (e-STJ, fls. 543-548) pelo provimento do recurso especial.
+É o relatório.
+O acórdão proferido na origem foi publicado na vigência do CPC/1973, razão pela qual os requisitos de admissibilidade do apelo nobre devem seguir a sistemática processual correspondente, nos termos do Enunciado Administrativo n. 2/STJ, com o seguinte teor:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça.
+Cumpre registrar que a simples rejeição dos declaratórios não consiste em violação do previsto no art. 535 do CPC/1973 (art. 1.022 do CPC/2015). Assim, não merece prosperar a tese de omissão concernente às provas dos autos relativas à situação da área objeto da lide, porquanto o acórdão recorrido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+É o que se depreende da leitura dos seguintes trechos do voto condutor do aresto impugnado (e-STJ, fl. 342):
+Como analisou, de forma incensurável, a sentença, a Lei 12.340/2010 define quais as medidas de política pública que devem ser adotadas. A primeira delas é o mapeamento das áreas de risco de seu território (art. 3º, § 1º). O Município adotou tal medida como se vê pelo laudo da GEORIO.
+E após esse mapeamento foram feitas diversas intervenções visando à prevenção do risco geológico, desde a limpeza, urbanização, remoção das áreas de risco, contenção da encosta e drenagem.
+Com efeito, está comprovado nos autos que o Município do Rio de Janeiro tem envidado esforços no sentido de se antecipar a eventuais deslizamentos.
+Ademais, conforme se depreende do excerto supracitado, a Corte local pronunciou-se pela não ocorrência de omissão municipal, motivo pelo qual fica afastada a necessidade de estipulação de um prazo - cominando multa pelo descumprimento - para execução das supostas "obras necessárias".
+Na sistemática do CPC/1973, não existem aclaratórios simplesmente prequestionadores. Os embargos servem para elucidar questões fundamentais que deveriam ter sido apreciadas ou foram apreciadas de forma obscura e contraditória. Logo, servem para atacar vícios de fundamentação cuja inobservância enseja a preclusão da matéria por ausência de prequestionamento.
+Ocorre que não houve emissão de juízo de valor pelo acórdão recorrido relativamente aos arts. 3º-A e 3º-B da Lei n. 12.340/2010 e 2º, VI, "h", da Lei n. 10.257/2001 .
+Essa ausência de prequestionamento inviabiliza a abertura da via especial, incidindo na espécie as Súmulas 282/STF e 211/STJ, respectivamente transcritas:
+É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+Para que se tenha por prequestionada determinada matéria, é necessário que a questão tenha sido objeto de debate, à luz da legislação federal indicada, com a imprescindível manifestação pela Corte de origem, a qual deverá emitir um juízo de valor acerca dos dispositivos legais ao decidir por sua aplicação ou seu afastamento em relação a cada caso concreto.
+O apelo nobre não merece conhecimento quanto à previsão do art. 14, § 1º, da Lei n. 6.938/1981.
+Infere-se do aresto combatido (e-STJ, fl. 413):
+Com efeito, está comprovado nos autos que o Município do Rio de Janeiro tem envidado esforços no sentido de se antecipar a eventuais deslizamentos.
+Para tanto, realizou obras emergenciais de contenção de encosta, como analisou a sentença, "A título ilustrativo, foram realizadas ações emergenciais para que a cidade retornasse à normalidade (a limpeza de logradouros públicos e a execução de obras de contenção para o restabelecimento das condições de segurança das vias públicas foram priorizadas), logo após as chuvas de abril de 2010".
+Criou o Centro de Operações Rio, adquiriu radar meteorológico instalado no Sumaré e implantou sistema de alarmes na comunidade.
+O Estado do Rio de Janeiro, em fevereiro de 2007, celebrou convênio com a CEDAE e com o Município do Rio de Janeiro visando à solução dos problemas de saneamento básico.
+Desse modo, não há que se falar em omissão dos entes públicos, já que vêm tomando as medidas legais para evitar a produção dos danos.
+Perquirir nos requisitos que levaram o Tribunal a quo a concluir pela ausência de omissão municipal implicaria claro reexame de matéria fático-probatória, providência vedada nesta instância extraordinária em decorrência do disposto na Súmula 7 do STJ, não sendo o caso de revaloração das provas.
+No aspecto:
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO 2/STJ. AGRAVO REGIMENTAL DO MUNICÍPIO DO RIO DE JANEIRO. AÇÃO CIVIL PÚBLICA. MEDIDAS DESTINADAS A COMBATER DESLIZAMENTO DE ENCOSTAS. COMUNIDADE SÍTIO DO PAI JOÃO. RECONHECIMENTO, NO CASO CONCRETO, DE OMISSÃO DO PODER PÚBLICO. ALEGAÇÕES DO RECORRENTE QUE NÃO SÃO PASSÍVEIS DE CONHECIMENTO EM SEDE DE RECURSO ESPECIAL.
+1. Conforme consta do acórdão recorrido, o Ministério Público do Estado do Rio de Janeiro ajuizou mais de cem ações civis públicas objetivando solucionar problemas decorrentes das ocupações de áreas de risco no Município do Rio de Janeiro; e, ainda, que cada localidade objeto de ação civil pública guarda a sua peculiaridade fática.
+2. Assim, perfeitamente possível que o Tribunal de origem reconheça que em determinada localidade está configurada omissão do Poder Público, ao contrário do ocorrido em outras localidades - daí porque os precedentes da Segunda Turma formado em recursos interpostos pelo MP/RJ não têm o condão de vincular o exame do presente recurso especial, interposto pelo município em questão.
+3. O acórdão recorrido assentou enfaticamente que a petição inicial do MP/RJ reúne condições técnicas de ser processada, razão pela qual o óbice da Súmula 7/STJ impede o exame da alegação de inépcia da petição inicial, a qual supõe novo exame de peças processuais.
+4. O óbice da Súmula 7/STJ também incide na parte em que alegado cerceamento de defesa, pois o Tribunal de origem, soberano no exame do acervo fático-probatório dos autos, assentou a desnecessidade de produção de prova pericial.
+5. Não houve prequestionamento do tema do julgamento extra petita, motivo pelo qual incide no ponto o óbice da Súmula 211/STJ.
+6. As alegações da linha de que não pode o Poder Judiciário intervir em política pública não podem ser examinadas no presente recurso especial, uma vez que apresentadas no contexto do princípio da separação dos poderes (CF/1988, art. 2º).
+7. O exame da alegação de que houve formação de título judicial impossível de ser cumprido esbarra na Súmula 7/STJ, tendo em vista que o Tribunal de origem, ao avaliar as consequências do que decidido na sentença, consignou que as medidas nela impostas, na realidade, facilitam o seu cumprimento.
+8. Agravo regimental não provido.
+(AgInt no REsp 1.473.996/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 7/12/2017, DJe 14/12/2017)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
