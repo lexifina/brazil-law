@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do NCPC), interposto por LIBERTY SEGUROS S/A, contra decisão que não admitiu recurso especial (fls. 557/561, e-STJ).
+O apelo nobre desafia acórdão prolatado pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA. SEGURO HABITACIONAL. DECISÃO INTERLOCUTÓRIA QUE CONSIDEROU O INTERESSE DA CAIXA ECONÔMICA FEDERAL NO PRESENTE FEITO E DETERMINOU A REMESSA DOS AUTOS À JUSTIÇA FEDERAL. ALEGAÇÃO DE QUE CONFORME A ORIENTAÇÃO DO STJ A COMPETÊNCIA PARA PROCESSAR JULGAR AS AÇÕES QUE ENVOLVEM SEGURO HABITACIONAL É DA JUSTIÇA ESTADUAL. PERTINÊNCIA. MEDIDA PROVISÓRIA N. 513/2010 E LEIS N. 12.409/2011 E N. 13.000/2014. PRINCÍPIO DA IRRETROATIVIDADE DA LEI. INAPLICABILIDADE. SUBSTITUIÇÃO PROCESSUAL INDEFERIDA. INGRESSO DA CAIXA ECONÔMICA FEDERAL NO FEITO E REMESSA DOS AUTOS À JUSTIÇA FEDERAL INVIÁVEL. SEGURO OBJETO DA AÇÃO DO QUAL A CEF NÃO FAZ PARTE. AUSÊNCIA DE COMPROVAÇÃO QUE OS VALORES DEVIDOS AOS BENEFICIÁRIOS COLOCAM EM RISCO O FCVS. JULGAMENTO REALIZADO EM CONSONÂNCIA COM ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA EM RECURSO REPETITIVO. DESLOCAMENTO DA COMPETÊNCIA PARA A JUSTIÇA FEDERAL AFASTADO PELO SUPREMO TRIBUNAL FEDERAL.COMPETÊNCIA DA JUSTIÇA COMUM FIRMADA. DECISÃO REFORMADA. RECURSO CONHECIDO E PROVIDO.
+Não há interesse da Caixa Econômica Federal nos litígios cujo objeto é o contrato de seguro habitacional, uma vez que a CEF é pessoa estranha à relação contratual, principalmente quando não há discussão sobre o contrato de compra e venda ou ainda o financiamento pactuado.
+Ausência de justificativa para o deslocamento do feito para a Justiça Federal. Entendimento mantido pelo Supremo Tribunal Federal. Competência da Justiça Estadual firmada.
+Em suas razões de recurso especial (fls. 493/509, e-STJ), a seguradora aponta ofensa ao art. 1º, incs. I a III, da Lei n.º 12.409/2011. Sustenta, em síntese, que deve ser declarada a competência da justiça federal porquanto as apólices de seguro, objetos da presente demanda indenizatória, pertencem ao ramo 66 (públicas).
+Contrarrazões apresentadas às fls. 527/555 (e-STJ).
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, sob o fundamento de que aplicáveis, ao caso, os enunciados das Súmulas 83 do STJ e 284 do STF.
+Irresignada (fls. 563/575, e-STJ), aduz a agravante que o reclamo merece trânsito, uma vez que a matéria ainda encontra discussão no âmbito desta Corte Superior.
+Contraminuta juntada às fls. 638/641 (e-STJ).
+É o relatório.
+Decido.
+O inconformismo merece prosperar.
+1. Consoante se observa da acurada leitura dos autos, mormente das razões apresentadas decisão agravada proferida pelo juízo processante (fls. 216/217, e-STJ), a Caixa Econômica Federal manifestou expressamente o seu interesse no feito, tendo, inclusive, por meio de petição (fls. 170/177, e-STJ), informado que os imóveis dos autores da demanda securitária estavam vinculados por apólices públicas.
+É, aliás, o que se extrai do seguinte excerto da destacada decisão (fl. 216, e-STJ):
+Incitada a se manifestar em relação ao bem jurídico em litígio, a Caixa Econômica Federal compareceu nos autos externando interesse em intervir no feito (fls. 477-480), fulcrada nas disposições da Lei n. 12.409/2011 e da Resolução 297/11, do eConselho Curador do FCVS, que lhe conferiu a condição de administradora do FCVS, respondendo pelas obrigações dele decorrentes.
+Ratificando o interesse em integrar a lide, a Caixa Econômica Federal manifestou-se novamente às fls. 488-491, oportunidade em que promoveu a juntada dos documentos de fls. 492-529.
+Em conformidade com a orientação emanada do Superior Tribunal de Justiça por ocasião do julgamento do recurso representativo da controvérsia REsp n. 1,091.363/SC, a Caixa Econômica Federal deve ser admitida à integrar o polo passivo daqueles feitos cuja matéria a ser dirimida tenha por objeto apólice de seguro habitacional afeta ao FCVS (Fundo de Compensação de Variações Salariais).
+Ora, em tais hipótese, cumpre destacar esta Corte Superior firmou entendimento no sentido de que, em se tratando de seguro habitacional, a competência entre as justiças estadual e federal é definida com base no comprometimento ou não das verbas do Fundo de Compensação e Variação Salarial - FCVS, cabendo, todavia, exclusivamente à justiça federal o exame de sua competência fundamentado na existência de manifestação de empresa pública federal, nos termos do enunciado da Súmula 150 do STJ.
+Nesse diapasão:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - SEGURO HABITACIONAL - MANIFESTAÇÃO DE INTERESSE JURÍDICO DA CAIXA ECONÔMICA FEDERAL - COMPETÊNCIA DA JUSTIÇA FEDERAL - APLICAÇÃO DA SÚMULA Nº 150 DO STJ - PRECEDENTES DO STJ.
+1. Apresenta manifestação de interesse da Caixa Econômica Federal no deslinde do feito, em obediência ao enunciado contido na Súmula 150 do STJ, compete à justiça federal decidir sobre a existência do interesse jurídico que justifique a presença, no processo, da união, suas autarquias ou empresas públicas. Precedentes desta Corte Superior.
+2. Agravo interno desprovido.
+(AgInt no AgRg no AREsp 18.192/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/12/2016, DJe 02/02/2017)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SFH. RISCO DE COMPROMETIMENTO DO FCVS. AFERIÇÃO DE INTERESSE JURÍDICO DA CAIXA ECONÔMICA FEDERAL. COMPETÊNCIA DA JUSTIÇA FEDERAL. SÚMULA N. 150/STJ. AFERIÇÃO DA ASSISTÊNCIA SIMPLES DA CEF. REMESSA DOS AUTOS À JUSTIÇA FEDERAL. ATOS PROCESSUAIS ANTERIORES. ANULAÇÃO. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. "Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas" (Súmula n. 150/STJ).
+2. Agravo regimental não provido.
+(AgInt no REsp 1475572/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 05/05/2016, DJe 12/05/2016)
+2. Ante o exposto, conheço do agravo e dou provimento ao recurso especial para reformar o acórdão estadual, determinando-se a remessa dos autos ao juízo federal competente para que delibere sobre sua competência.
+Publique-se. Intimem-se.
