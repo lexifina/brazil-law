@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal Superior do Trabalho não conheceu do recurso de embargos interposto contra decisão que, dando provimento ao recurso de revista, considerou válida a dispensa imotivada. No extraordinário, o recorrente aponta violados os artigos 5º, cabeça, 22, inciso XVI, 37, 39 e 41 da Constituição Federal. Tece considerações sobre a natureza jurídica dos conselhos profissionais. Alega ter sido a contratação precedida de concurso público. Sustenta ilegalidade da dispensa, afirmando a necessidade de motivação do ato. Requer a reintegração ao emprego.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida o seguinte trecho:
+    O reclamante sustenta ser inválido o ato de dispensa, porque imotivado, diante da natureza jurídica de autarquia especial do réu - Conselho Regional de Fiscalização Profissional -, consoante já decidido pelo Supremo Tribunal Federal no julgamento da ADIn n° 1.717/DF ao declarar a inconstitucionalidade do artigo 58 da Lei n° 9.649/98. Indica violação dos artigos 3° da Lei n° 9.962/2000; 5°, caput, 37, 39 e 41, § 1°, II, da Constituição Federal. Transcreve arestos para confronto de teses.
+    Saliente-se, inicialmente, que em decorrência da redação do artigo 894, II, da CLT conferida pela Lei n° 11.496/2007, não há que se falar no cabimento dos embargos fundados em violação de preceito de lei ou da Constituição Federal. Assim, tal alegação não mais se insere como fundamentação própria do recurso de embargos. Por outro lado, não foi demonstrada divergência jurisprudencial por meio dos arestos transcritos às fls. 386/387, pois abordam a questão relacionada à dispensa imotivada de servidor público celetista, com base na estabilidade prevista no artigo 41 da Constituição Federal, ao passo que a decisão embargada diz respeito à ausência de estabilidade dos empregados dos conselhos federais e regionais de fiscalização do exercício profissional, os quais não se submetem ao regramento constitucional inserto nos artigos 37, II, e 41.
+    Referidos arestos carecem, portanto, da necessária especificidade, nos termos da Súmula n° 296, I, desta Corte.
+    Diante do exposto, não conheço do recurso de embargos.
+    No caso, as razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce que o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 14 de agosto de 2018.
+Ministro MARCO AURÉLIO
+Relator
