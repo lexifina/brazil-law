@@ -1,0 +1,50 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 535 DO CPC/1973. VIOLAÇÃO. ALEGAÇÃO GENÉRICA. PREQUESTIONAMENTO. AUSÊNCIA. TEMA CONSTITUCIONAL. EXAME. INVIABILIDADE.
+1. Não se conhece da alegação de violação do art. 535 do CPC/1973, quando as razões recursais apontam genericamente a causa de pedir, sem demonstração especifica dos vícios de integração de que padeceria o acórdão embargado, ensejando a incidência, por analogia, da Súmula 284 do STF.
+2. Nos termos do enunciado da Súmula 282 do STF, "é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+3. Não caracteriza cerceamento de defesa o não conhecimento do especial, quanto à tese de violação do art. 535 do CPC/1973 (Súmula 284 do STF), concomitante com a verificação da ausência de prequestionamento de dispositivos legais tidos por violados.
+4. O art. 97, II, do CTN, porque reproduz norma do art. 150, I, da Constituição Federal, tem natureza constitucional, razão pela qual não se conhece do recurso especial em que se alega sua violação.
+5. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno de COSAN COMBUSTÍVEIS E LUBRIFICANTES S.A. e OUTRA contra decisão que, ao conhecer do agravo, não conheceu de recurso especial em razão de encontrar óbice nas Súmulas 282 e 284 do STF, tendo em vista a alegação genérica de violação do art. 535 do CPC/1973 e a ausência de prequestionamento dos demais dispositivos tidos por violados.
+As agravantes pedem o conhecimento do especial, por considerarem adequada a petição recursal, quanto à tese de violação do art. 535 do CPC/1973, e porque estaria prequestionada a matéria recursal.
+Alegam, em acréscimo: "referida decisão importa em cerceamento de defesa, uma vez que (i) de um lado, entende que não houve ocorreu a ofensa ao art. 535 do CPC suscitada pelas REQUERENTES em seu recurso especial, pois não teria restado demonstrado que as omissões apontadas seriam relevantes e (ii) de outro lado, decide que as omissões incorridas pelo acórdão recorrido eram relevantes e que as REQUERENTES deveriam ter suscitado ofensa ao art. 535 do CPC em seu recurso especial, sob pena de não se reconhecer o prequestionamento" (e-STJ fl. 633).
+Sem impugnação pela Fazenda Nacional.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+"Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do Plenário do STJ).
+Após nova análise processual, provocada pela interposição do agravo interno, observo que o recurso especial não pode mesmo ser conhecido.
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão a quo (e-STJ fls. 492/494):
+"Trata-se de remessa necessária e de apelações interpostas por ESSO BRASILEIRA DE PETRÓLEO LTDA. e OUTRAS e UNIÃO FEDERAL contra sentença de fls. 146/150, integrada às fls. 162/163, que, em relação ao Delegado da Receita Federal de Fiscalização - DEFIC, julgou extinto o processo sem apreciação do mérito, e com relação ao Delegado da Receita Federal de Administração Tributária no Rio de Janeiro, concedeu a segurança para reconhecer o direito à compensação do montante recolhido indevidamente, a título de Contribuição Social sobre o Lucro Líquido - CSSL, no período de maio de 1999 a dezembro de 2002, com parcelas vencidas e vinccndas de quaisquer tributos e compensações arrecadadas pela Secretaria da Receita Federal.
+A sentença de mérito ressaltou, ainda, não importa que a compensação em extinção do crédito tributário, o qual depende de homologação do lançamento, que, por sua vez, deve ser efetivada após a aferição contábil dos valores pela Autoridade Fiscal competente.
+ ..
+Assim sendo, verifica-se que a vexata quaestio cinge-se à legalidade da alíquota da Contribuição Social por Lucro Líquido cobrada no período compreendido entre maio de 1999 e dezembro de 2002.
+ ..
+Questão já pacificada, inclusive no âmbito do Supremo Tribunal Federal (AGRAG 236.976 e RE 138.284), diz respeito à possibilidade de se instituir e modificar tributos e contribuições sociais por meio de medida provisória, instrumento idôneo e com força de lei.
+Com efeito, inexiste no caso vertente ofensa ao texto constitucional, pois a Medida Provisória 1.807/99 e suas reedições não regulamentaram nenhuma das alterações introduzidas pela Emenda Constitucional 20/98 ao art. 195 da Constituição Federal, mas alteraram, tão-somente, a alíquota da exação em tela, sem promover qualquer outra modificação nos seus demais requisitos, que já se encontravam perfeitamente regulamentados pela Lei 7.689/88.
+Destarte, a MP 1.807/99, atual MP nº 2.158-35/01, ao estabelecer em seu art. 6º, que a contribuição social sobre o lucro líquido - CSLL, instituída pela Lei 7.689, de 15 de dezembro de 1988, será cobrada com o adicional de quatro pontos percentuais, relativamente aos fatos geradores ocorridos de 1º de maio de 1999 até 31 de dezembro de 2000 e de um ponto percentual relativamente aos fatos geradores ocorridos de 1º de fevereiro de 2000 a 31 de dezembro de 2002, não padece de qualquer inconstitucionalidade.
+Opostos embargos de declaração, foram rejeitados sem acréscimo de fundamentação.
+No recurso especial, as recorrentes alegaram (e-STJ fls. 522/537):
+2.7. Com fundamento no art. 105, III, a), da CF/88, as RECORRENTES interpõem o presente recurso especial, porque o acórdão recorrido ofendeu os arts. 535, II, do CPC, 97, II, 150, § 1º e § 4º, 161, 167 e 168, todos do CTN, art. 74 da Lei nº 9.430/96, arts. 3o e 4o da Lei Complementar (LC) nº 118/05 e o art. 39, § 4o, da Lei nº 9.250/95 e art. 19 da Lei nº 9.249/95 .
+ ..
+3.1.2. Nos termos do art. 535, II, do CPC, as RECORRENTES opuseram embargos de declaração para que fossem prequestionados expressamente os dispositivos que fundamentam sua pretensão e a conclusão do acórdão recorrido, entre outros: o art. 19 da Lei nº 9.249/95, arts. 97, II, 150, § Io e § 4o e 161, 167 e 168 do CTN, arts. 3o e 4o da LC nº 118/05, art. 39, § 4o da Lei nº 9.250/95, art. 150, I da CF/88 e art. 74 da Lei nº 9.430/96.
+ ..
+3.2. DA OFENSA AO ART. 97, II, DO CTN E AO ART. 19 DA LEI 9.249/95
+3.2.1. O art. 97, II, do CTN veda a instituição e majoração de tributo sem lei que o estabeleça:
+ ..
+3.3. DO DIREITO À COMPENSAÇÃO E DA NÃO-PRESCRIÇÃO - DA OFENSA AOS ARTS. 150, §§ 1º e 4º, 161, § 1º, 167, PARÁGRAFO ÚNICO E 168, DO CTN E DOS ARTS. 74 DA LEI 9.430/96, ARTS. 3º E 4º DA LC 118/05 E 39, § 4o DA LEI 9.250/95
+Como se nota, a alegação de violação do art. 535 do CPC/1973, de fato, é genérica, tendo em vista não estar vinculada à causa de pedir específica e suficiente à compreensão da controvérsia. Assim, inafastável a aplicação da Súmula 284 do STF. A respeito:
+"É deficiente a fundamentação do Recurso Especial em que a alegação de ofensa ao art. 535 do CPC/1973 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão recorrido incorreu em omissão, contradição ou obscuridade. Aplica-se, na espécie, o óbice da Súmula 284 do STF" (AgInt no AREsp 451.332/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 05/10/2017, DJe 26/10/2017)
+"Afirmação genérica de que o acórdão recorrido incorreu em omissão ao deixar de se pronunciar acerca das questões apresentadas nos embargos de declaração, sem o desenvolvimento dos necessários argumentos para demonstrar especificamente a suposta mácula. Aplicação do entendimento contido na Súmula n. 284 do Supremo Tribunal Federal, o que inviabiliza o conhecimento da violação ao art. 535 do Código de Processo Civil de 1973" (REsp 1588084/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 19/06/2018, DJe 22/06/2018).
+No mesmo sentido: AgInt no AREsp 1.129.996/RJ, Rel. Ministro Luís Felipe Salomão, Quarta Turma, DJe 01/12/2017; AgInt no REsp 1.681.138/MS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 28/11/2017; REsp 1371750/PE, Rel. Ministro Og Fernandes, Primeira Seção, DJe 10/04/2015; AgRg no REsp 1182912/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 29/04/2016.
+De outro lado, verifica-se que os dispositivos vinculados às teses de prescrição e compensação não estão mesmo prequestionados, pois o Tribunal Regional Federal nem sequer tratou desses temas. Inafastável, portanto, o óbice da Súmula 282 do STF.
+Nesse contexto, o não conhecimento da tese de violação do art. 535 do CPC/1973, porque provocado pela deficiência técnica da petição recursal, não dá ensejo à tese de cerceamento de defesa.
+Quanto ao art. 97 do CTN, importa acrescer não ser adequado o conhecimento do especial, porquanto a matéria correlata tem natureza constitucional (v.g.: AgInt no REsp 1663617/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 03/04/2018; AgInt no REsp 1396108/MG, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 12/03/2018; AgInt no REsp 1621570/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 16/02/2017; REsp 380.647/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJ 08/02/2008).
+Aliás, a própria fundamentação do acórdão a quo tem natureza constitucional, daí a conclusão do órgão julgador no sentido de que "inexiste no caso vertente ofensa ao texto constitucional" (transcrição supra).
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não se deve aplicar a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
