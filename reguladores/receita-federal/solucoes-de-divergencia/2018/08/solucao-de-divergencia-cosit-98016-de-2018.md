@@ -1,0 +1,6 @@
+Solução de Divergência Cosit nº 98016, de 9 de agosto de 2018
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Reforma de Ofício da Solução de Consulta SRRF/7ª RF/Diana nº 7, de 12 de fevereiro de 2010.
+Código NCM 8517.62.77 Mercadoria: Transceptor digital para acesso à internet, por radiofrequência, baseado no padrão IEEE 802.11 (Wi-Fi) na faixa de frequências de 2,400 a 2,483 GHz, com taxa de transmissão de até 54 Mbit/s, denominado comercialmente “ponto de acesso sem fio para redes de computadores”.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 85.17) e 6 (textos da subposição de 1º nível 8517.6 e de 2º nível 8517.62) e RGC no 1 (textos do item 8517.62.7 e do subitem 8517.62.77), da Nomenclatura Comum do Mercosul (NCM) constante na Tarifa Externa Comum (TEC), aprovada pela Resolução Camex nº 125, de 2016, e na Tabela de Incidência do Imposto sobre Produtos Industrializados (Tipi), aprovada pelo Decreto nº 8.950, de 2016, e alterações posteriores, tendo por base os subsídios fornecidos para a interpretação da posição 85.17 pelas Notas Explicativas do Sistema Harmonizado (Nesh), aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 1.788, de 8 de fevereiro de 2018.
+[arquivo anexo: SD Cosit nº 98.016-2018.pdf]
