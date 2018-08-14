@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de ofensa aos artigos de lei apontados e (b) aplicação da Súmula n. 7/STJ (e-STJ fls. 558/559).
+O acórdão do TJSP está assim ementado (e-STJ fl. 489):
+EMBARGOS À EXECUÇÃO - CHEQUE - EMISSÃO POR PROCURADOR LEGÍTIMO - EMISSÃO EM BRANCO - POSSIBILIDADE DE PREENCHIMENTO PELO CREDOR DE BOA-FÉ - DOCUMENTO FORMALMENTE EM ORDEM - APELAÇÃO IMPROVIDA.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 515/518).
+Nas razões do recurso especial (e-STJ fls. 521/526), interposto com base no art. 105, III, "a", da CF, os recorrentes apontaram violação dos arts. 1º, VI, e 2º da Lei n. 7.357/1985, afirmando que o cheque não seria título válido na execução, pois, "apesar de ter a perícia grafotécnica concluído que a assinatura constante do cheque proveio do punho de ALI [NOME] [NOME], procurador do sacador do título e titular da conte corrente bancária, essa assinatura não é a do procurador ALI [NOME] [NOME], mas sim uma grosseira FALSIFICAÇÃO da assinatura do sacador e ora Apelante [NOME] ABDUL RAHIM [NOME]" (e-STJ fl. 522).
+Defenderam que constaria expressamente no acórdão que não haveria no cheque assinatura autêntica do sacador [NOME] ou de seu procurador ALI, por ter sido reconhecida, por meio de perícia grafotécnica, a falsificação da assinatura do sacador, realizada por seu procurador (e-STJ fl. 523).
+Foram apresentadas contrarrazões (e-STJ fls. 534/553).
+No agravo (e-STJ fls. 562/570), afirmam a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 585/605).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+A Corte de origem reconheceu a validade do cheque, assentando que a perícia grafotécnica atestou que a assinatura constante no título proveio de [NOME], filho e procurador da conta bancária dos recorrentes, segundo se infere do excerto abaixo (e-STJ fls. 489/490):
+Segundo bem elaborada perícia grafotécnica, o cheque é autêntico e proveio legitimamente do punho de [NOME], filho e procurador da conta-corrente bancária dos embargantes(fls. 242/275), como permite o art. 1º, inciso VI, da Lei n. 7.357/1985 (Egberto Lacerda Teixeira, A Nova Lei Brasileira do Cheque, p. 22, Saraiva, 1.985).
+A cambial emitida ou aceita com omissões, ou em branco, pode ser completada pelo credor de boa-fé antes da cobrança ou do protesto (Súmula nº 387, STF). Não se provou abuso no preenchimento.
+Cheque é ordem incondicional de pagamento à vista de quantia determinada e, mesmo quando dado em garantia de dívida, preserva as características de liquidez, certeza e abstração, ensejadoras da cobrança executiva (RT 528/131, 531/216, 534/84, 551/221, 563/114, 563/116, 589/120, 561/260-268; JTACivSP 53/68, 71/65, 74/182, 76/31, 77/72, 102/36; Resp nº 37.686-0/RS, Rel. Min. Sálvio de Figueiredo Teixeira, in Boletim do STJ nº03/97, de 14.03.97), nada importando se o empréstimo se destinou aos embargantes, mas que, firmando o título por procurador regularmente constituído, o garantiram pela emissão de cheque verdadeiro, responsabilizando-se pelo valor do título.
+Rever tais conclusões, para acolher a tese de que a assinatura no título seria falsificada, conforme sustentado pelos recorrentes para invalidar o cheque executado, demandaria nova incursão no conjunto probatório dos autos, providência vedada na instância especial, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+O agravo nos próprios autos foi interposto na vigência do CPC/2015 (e-STJ fl. 560), sendo-lhe aplicável a disposição inserta no art. 85, § 11, da nova lei processual (conforme orientação emanada do Enunciado n. 7 aprovado no Plenário do STJ em 16/3/2016, segundo a qual somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível arbitrar honorários sucumbenciais recursais, na forma do art. 85, § 11, do CPC/2015).
+Em tal circunstância, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado (e-STJ fl. 408), fazendo-o com fundamento no art. 85, § 11, do CPC/2015, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
