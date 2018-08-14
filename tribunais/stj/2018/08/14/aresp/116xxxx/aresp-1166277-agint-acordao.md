@@ -1,0 +1,32 @@
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N 2/STJ. NULIDADE DA CDA. FALTA DOS REQUISITOS LEGAIS. QUESTÃO ATRELADA AO REEXAME DE PROVAS. ÓBICE DA SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+2. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)."
+Os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, a Sra. Ministra Assusete Magalhães.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno (fls. 316/320) apresentado contra decisão monocrática assim ementada:
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N 2/STJ. NULIDADE DA CDA. FALTA DOS REQUISITOS LEGAIS. QUESTÃO ATRELADA AO REEXAME DE PROVAS. ÓBICE DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+O agravante aduz, em suma, a inaplicabilidade da Súmula 7 do STJ ao caso dos autos, uma vez que a análise da demanda ensejaria o reexame do conjunto probatório dos autos. Por fim, requer a reconsideração da decisão agravada ou a apreciação colegiada da controvérsia.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N 2/STJ. NULIDADE DA CDA. FALTA DOS REQUISITOS LEGAIS. QUESTÃO ATRELADA AO REEXAME DE PROVAS. ÓBICE DA SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+2. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 2/STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+Observa-se que o Tribunal de origem, soberano na análise dos fatos e provas produzidos na demanda, concluiu que a CDA contém os requisitos legais para sua validade, in verbis (e-STJ fl. 187):
+Não há que se falar em nulidade das Certidões de Dívida Ativa, porquanto se encontram atendidos todos os requisitos exigidos pelos arts. 2.º da Lei n.º 6.830/80 e 202 do Código Tributário Nacional, estando devidamente autenticadas por autoridade competente, ostentando a origem e a natureza do crédito tributário, a data em que foram inscritas e o número de inscrição da dívida, nome e endereço do devedor, além da menção expressa aos dispositivos legais que regulam a base de cálculo, alíquota, termo inicial e forma de contagem da multa e dos juros moratórios (cf. fls. 24/27), não tendo sido ilidida a presunção legal de certeza e liquidez do art. 204 do Código Tributário Nacional, não sendo o caso de se aplicar o disposto no art. 203 do mesmo estatuto.
+No tocante à multa, sua previsão encontra- se nos artigos 85 e 98 da Lei n2 6.374, de 1989, tratando-se de multa imposta por infração à legislação tributária.
+Nesse contexto, para infirmar essa premissa fática e adotar qualquer conclusão em sentido contrário ao que ficou expressamente consignado para entender que a CDA não preencheu os requisitos legais, é necessário o reexame do material fático probatório constante dos autos, o que é inviável em sede de recurso especial, tendo em vista o disposto na Súmula 7/STJ. Destaca-se:
+PROCESSO CIVIL. TRIBUTÁRIO. INEXISTÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC. REQUISITOS DA CDA. INCIDÊNCIA DA SÚMULA 7/STJ. NULIDADE DO PROCEDIMENTO FISCAL. NÃO COMPROVAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO. 1. Agravo regimental no recurso especial no qual se discute a nulidade do procedimento administrativo fiscal, por ausência de notificação válida pelo fisco, bem como nulidade da Certidão de Dívida Ativa - CDA, por eventual não preenchimento de seus requisitos de constituição e validade. 2. Não viola o artigo 535 do Código de Processo Civil nem importa negativa de prestação jurisdicional o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adotou fundamentação suficiente para decidir de modo integral a controvérsia. 3. No que tange à pretensão relacionada à nulidade da Certidão de Dívida Ativa - CDA, por eventual não preenchimento de seus requisitos, à luz do entendimento sedimentado na Súmula 7 do STJ, a análise da presença ou não dos requisitos legais de validade das CDAs depende do reexame fático-probatório. Agravo regimental improvido. (AgRg no REsp 1454322/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 12/08/2014, DJe 19/08/2014) (grifou-se)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. EXECUÇÃO FISCAL. CDA. NULIDADE. AUSÊNCIA DOS REQUISITOS LEGAIS AFIRMADA PELO TRIBUNAL A QUO. REEXAME APROFUNDADO DE PROVAS. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO. 1. O reconhecimento de nulidade da CDA, quando requer o reexame aprofundado do preenchimento de seus requisitos legais por esta Corte, é obstado pela incidência da Súmula 07/STJ. Precedentes do STJ. 2. É necessária a descrição do fato constitutivo da infração, não sendo suficiente a menção genérica a multa de postura geral como origem do débito a que se refere o art. 2o., § 5o., III, da Lei 6.830/80 (REsp. 965.223/SP, Rel. Min. ELIANA CALMON, DJe 21/10/2008 e AgRg no AREsp. 137.302/SP, Rel. Min. MAURO CAMPBELL MARQUES, DJe 28/05/2013). 3. Agravo Regimental desprovido. (AgRg 201301756102, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, Dje 19/12/2013) (grifou-se) Embargos de declaração acolhidos, com efeitos modificativos, para sanar a omissão apontada e dar provimento ao recurso especial do Estado do Rio Grande do Sul. (EDcl no REsp 864.287/RS, 2ª Turma, Rel. Min. Humberto Martins, DJe de 13.2.2009)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
