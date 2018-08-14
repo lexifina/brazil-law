@@ -1,0 +1,28 @@
+EMENTA
+AGRAVO INTERNO. TRIBUTÁRIO. CONTRIBUIÇÃO. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+I - Aplica-se ao recurso o enunciado administrativo n. 3 da Súmula do STJ, segundo o qual: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+II - A Corte especial, no julgamento do AREsp 957.821/MS, em 20/11/2017, chegou à conclusão de que, na vigência do Código de Processo Civil de 2015, não é possível a comprovação da tempestividade após a interposição do recurso.
+III - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes e Mauro Campbell Marques votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, a Sra. Ministra Assusete Magalhães.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso especial foi interposto contra acórdão com a seguinte ementa:
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO CONTRA A FAZENDA PÚBLICA. EXCESSO DE EXECUÇÃO. COBRANÇA DE PARCELAS PRESCRITAS. PRESCRIÇÃO ANTERIOR À SENTENÇA TRANSITADA EM JULGADO. EFICÁCIA PRECLUSIVA DA COISA JULGADA. IMPOSSIBILIDADE DE DISCUSSÃO. APELO NÃO PROVIDO. DECISÃO UNÂNIME. 1. 0 excesso de execução alegado pelo Apelante diz respeito à restituição dos descontos previdenciários iniciados em 04 de fevereiro de 1995, quando o Apelado passou a desempenhar cargo em comissão no TJPE (contracheques de fls. 405 a 412), entendendo que ocorreu a decadência com base no art. 4o, da Lei nº 7.551/77, das parcelas anteriores a 15 de fevereiro de 1997, já que a ação intentada pelo Apelado é datada de 15 de fevereiro de 2002. 2. O dispositivo da sentença executada, que julgou procedente em parte o pleito do Apelado, assim dispõem: "(  ) a) na restituição das quantias descontadas indevidamente, efetuadas na período de abril de 1996 a setembro de 1997 com base na alteração dada pela Lei nº 11.327/96 à redação do art. 33, I, da Lei nº 7551/77, acrescido de correção monetária e juros de mora estes do valor de Io (hum por cento) ao mês, estes devidos a partir do trânsito em julgado desta decisão, bem como nas quantias descontadas sobre a gratificação de representação realizadas no período de 04 de fevereiro de 1995 a 02 de fevereiro de 1998, devidamente corrigido; (..)" grifei. 3. Já o julgamento no juízo ad quem, que confirmou a sentença a quo, não chegou a examinar a aplicação do prazo prescricional, fazendo apenas quanto à parte do pedido que diretamente se relacionava com o tema da ADIN nº 1425-1, ou seja, quanto aos valores indevidamente cobrados por força dos dispositivos alterados pela Lei 11. 327/96, que foram julgados inconstitucionais, tomando como termo inicial do qüinqüênio prescricional dia 01 de outubro de 1997, quando se deu o julgamento da ADIN, não havendo sido tratada, especificamente, a questão aventada pelo Apelante tendo em conta eventual ocorrência de prescrição ou decadência, de modo que não houve discussão da matéria. 4. Não há que ser falar em excesso de execução quanto a restituição dos descontos ocorridos com base no art. 4o, da Lei nº 7.551/77, anteriores a 15 de fevereiro de 1997, em virtude a impossibilidade de rediscussão da matéria já devidamente calcada nos limites da ação própria transitada em julgado, impedindo o exame, até mesmo, das questões de ordem pública, suscitadas ou não no curso da ação 5. Apelo não provido. Decisão unânime.
+Não se conheceu do recurso diante da sua intempestividade.
+Foi interposto agravo interno contra esta decisão.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+ O recurso não merece provimento.
+A Corte Especial, no julgamento do AREsp 957.821, em 20/11/2017, chegou à conclusão de que, na vigência do Código de Processo Civil de 2015, não é possível a pretensão de comprovação da tempestividade após a interposição do recurso, conforme se confere da ementa do acórdão:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo".
+4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
