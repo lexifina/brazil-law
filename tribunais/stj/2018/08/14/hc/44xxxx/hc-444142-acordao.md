@@ -1,0 +1,48 @@
+EMENTA
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. ROUBO MAJORADO. AUSÊNCIA DE INDÍCIOS DE AUTORIA. DILAÇÃO PROBATÓRIA. NÃO CONHECIMENTO. PRISÃO PREVENTIVA. MODUS OPERANDI. PERICULOSIDADE DO PACIENTE. GRAVIDADE DA CONDUTA. FUNDAMENTAÇÃO CONCRETA. ILEGALIDADE. AUSÊNCIA. HABEAS CORPUS DENEGADO.
+1. No procedimento do habeas corpus não se permite a produção de provas, destinando-se ao exame de ilegalidades aferíveis de plano, assim não se tornando possível o pretendido enfrentamento de provas da materialidade e autoria delitiva.
+2. Apresentada fundamentação concreta para a decretação da prisão preventiva, revelada no modus operandi do delito, evidenciando a periculosidade do acusado, que, em conluio com outro indivíduo, arquitetou e estudou a rotina da vítima para em seguida executar um assalto à plena luz do dia, segunda-feira, em uma das ruas mais movimentadas da cidade, certamente na presença de várias pessoas, bem como no fato de que a vítima foi abordada assim que saía com o dinheiro de suas vendas da semana anterior, decerto que era ela monitorada pelo grupo, apontando tratar-se de crime premeditado e relativamente bem estruturado, não se há falar em ilegalidade do decreto prisional.
+3. Habeas corpus denegado.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, denegar a ordem, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Maria Thereza de Assis Moura, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Dr. LUAN GUSTAVO MENDES, pela parte PACIENTE: JOSE MARTINS DE [NOME] JUNIOR
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JOSE MARTINS DE [NOME] JUNIOR, apontando-se como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais.
+O impetrante requer a revogação da prisão preventiva, com a alegação de ausência de indícios de autoria e dos requisitos legais da segregação cautelar.
+O acórdão do Tribunal a quo tem a seguinte ementa (fls. 214/215):
+HABEAS CORPUS - ROUBO MAJORADO - NECESSIDADE DE MANUTENÇÃO DA PRISÃO PREVENTIVA - GARANTIA DA ORDEM PÚBLICA - GRAVIDADE CONCRETA DO DELITO - PRESENÇA DOS REQUISITOS DO ART. 312, DO CPP - CONSTRANGIMENTO ILEGAL NÃO DEMONSTRADO - ORDEM DENEGADA.
+- Demonstrada a gravidade concreta do delito para a prática do qual parece ter sido substancial a contribuição da paciente, mostra-se necessária a manutenção de sua prisão preventiva, com o fim de se resguardar a ordem pública.
+V.V.: ROUBO DUPLAMENTE MAJORADO. NULIDADE DO FLAGRANTE. INOCORRÊNCIA. NEGATIVA DE AUTORIA. MATÉRIA QUE DEPENDE DA ANÁLISE APROFUNDADA DA PROVA, INCABÍVEL NA VIA ESTREITA DO WRIT. LIBERDADE PROVISÓRIA. POSSIBILIDADE. AUSÊNCIA DOS REQUISITOS PREVISTOS NO ARTIGO 312 DO CPP. FALTA DE FUNDAMENTAÇÃO CONCRETA DO DECRETO PREVENTIVO. CONDIÇÕES MERITÓRIAS FAVORÁVEIS. CONSTRANGIMENTO ILEGAL CONFIGURADO. HABEAS CORPUS CONCEDIDO. MEDIDA CAUTELAR FIXADA.
+- A estreita via do habeas corpus não comporta o exame de questões
+que demandam profunda análise do conjunto fático-probatório, tal como
+a efetiva participação do paciente no delito, devendo ser reservadas ao
+processo-crime, após a devida instrução.
+- É descabida a prisão cautelar quando não restar demonstrado nos autos que o paciente, solto, se furtará à aplicação da lei penal e que a sua liberdade colocará em risco a ordem pública e prejudicará o bom andamento do processo, mormente se demonstradas condições
+meritórias favoráveis. Inteligência do art. 312 do CPP.
+- Ordem concedida, com determinação de aplicação de medidas cautelares previstas no art. 319 do CPP.
+O paciente responde pela prática do delito tipificado no art. 157, § 2º, I e II, do Código Penal.
+A liminar foi indeferida.
+As informações foram prestadas.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ.
+Na origem, a ação penal n. 0060443-98.2017.8.13.0351 encontra-se em fase de alegações finais, conforme informações processuais eletrônicas disponíveis em 16/7/2018.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+O impetrante busca a revogação da prisão preventiva, ao argumento de ausência de indícios de autoria, bem como dos requisitos legais da segregação cautelar.
+No procedimento do habeas corpus não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade e a autoria delitiva. As alegações quanto a esse ponto, portanto, não devem ser conhecidas.
+Quanto aos fundamentos da prisão preventiva, não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+O decreto prisional assim dispôs (fl. 279):
+ .. .Cuida-se de prisão em flagrante que homologo, haja vista preencher os requisitos do art. 302 do CPP. Quanto à conversão do flagrante em prisão preventiva, adianto-me a registrar a imprescindibilidade de mantê-lo preso, não me afigurando suficiente as medidas cautelares previstas no art. 319 do CPP.
+Explico-me.
+[NOME], vítima do assalto, ouvido na Delegacia declarou: 1) que saia do seu estabelecimento comercial, localizada no centro da cidade, às 13h, com o dinheiro das vendas de final de semana, além de vários cheques, em um malote, para efetuar o depósito bancario; 2) que foi abordado por dois homens em uma moto; 3) que o garupa desceu com arma em punho e anunciou o assalto e subtraiu-lhe o malote; 4)que em dinheiro foi subtraído R$65.000,00; 5) que os autores usavam capacete fechado; 6) que o garupa usava "camisa preta"; 7) que comunicou os fatos e descrições à Polícia Militar; 8) que os autores foram presos em seguida; 9) que reconheceu os capacetes e a arma apreendidos.
+Os Policiais Militares responsáveis pela prisão afirmaram (ff. 3/8): 1) que os nomes dos autores surgiram logo em seguida os fatos; 2) que na casa de um dos suspeito, sobre o telhado, foram encontrados dois capacetes e uma camisa escura; 3) que o autuado [NOME] confessou o delito; 4) que na casa do autuado [NOME] foi apreendido um revólver (reconhecido pela vítima como o utilizado no assalto), um rifle e várias munições; 5) que na casa do [NOME] foi apreendido R$20.000,00 em dinheiro; e 6) que o autuado [NOME] confessou a participação no delito.
+Pois bem. Desse retrato fático se extrai, nesse momento, que o autuados, em conluio com uma outra pessoa, arquitetaram e estudaram a rotina da vítima, para em seguida executar um assalto à plena luz do dia, segunda-feira, em uma das ruas mais movimentadas da cidade, certamente na presença de várias pessoas.
+Dado que a vítima foi abordada assim que saía com o dinheiro de suas vendas da semana anterior, decerto que era ela monitorada pelo grupo, apontando tratar-se de crime premeditado e relativamente bem estruturado.
+Tudo isso indica, a princípio, convicta inclinação à prática delitiva, apontando periculosidade concretamente aferível, de modo a chancelar o entendimento no sentido de que a soltura prematura dos autuados colocará em risco a ordem pública.
+Por tudo isso, repito, imprescindível me afigura a conversão do flagrante em prisão preventiva.
+Ante o exposto, atribuindo a esta decisão a natureza de mandado de prisão preventiva, válido até o dia 27.11.2037 determino que se prenda e recolha a estabelecimento prisional oficial, os nacionais [NOME] (DN 24.05.1996, FILHO DE ELZANIA ALTINA DE [NOME] DAMASCENO E IUVANDO SOARES DE SÁ, [RG]) E [NOME] (DN 14.03.1988, FILHO DE ADALGISA BERNADETE DOS ANJOS E JOSE MARTINS DE [NOME], [RG]), deixando-os à disposição do Juízo. .. .
+Como se vê, integra o decreto prisional fundamentação concreta, evidenciada no modus operandi do delito, que indica para a dedicação à atividade criminosa por parte do paciente, pois os autuados, em conluio com uma outra pessoa, arquitetaram e estudaram a rotina da vítima, para em seguida executar um assalto à plena luz do dia, segunda-feira, em uma das ruas mais movimentadas da cidade, certamente na presença de várias pessoas, bem como no fato de que a vítima foi abordada assim que saía com o dinheiro de suas vendas da semana anterior, decerto que era ela monitorada pelo grupo, apontando tratar-se de crime premeditado e relativamente bem estruturado, indicando, a princípio, convicta inclinarão à prática delitiva, não havendo ilegalidade no decreto de prisão preventiva.
+A jurisprudência desta Corte Superior é pacífica no sentido de que justifica a prisão preventiva a verificação de circunstâncias reveladoras de uma gravidade acentuada do delito, evidenciada no concurso de agentes e na premeditação do delito, praticado via pública com grande movimento, diante de um grande número de pessoas. Nesse sentido: HC n. 302029/SP - 6ª T. - unânime - Rel Min. Sebastião Reis Júnior - DJe 5/2/2015; RHC n. 40739/SP - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 9/9/2014; RHC n. 44777/PR - 5ª T. - unânime - Rel. Min. Jorge Mussi - DJe 25/8/2014; RHC n. 46956/SP - 5ª T. - unânime - Rel. Min. Regime Helena Costa - DJe 10/6/2014.
+Confiram-se, ainda, os seguintes precedentes: RHC 94.879/RS, Relator Ministro NEFI CORDEIRO, Sexta Turma, DJe 26/3/2018; HC 425. 414/RS, Relator Ministro NEFI CORDEIRO, Sexta Turma, DJe 14/3/2018; RHC 85.687/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, DJe 22/09/2017.
+Ante o exposto, voto por denegar o habeas corpus.
