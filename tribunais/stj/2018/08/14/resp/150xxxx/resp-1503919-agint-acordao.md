@@ -1,0 +1,66 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZATÓRIA. ANULAÇÃO DA SENTENÇA DEVIDO À NULIDADE DE CITAÇÃO NO CUMPRIMENTO DE ROGATÓRIA. IMPUGNAÇÃO DO VALOR DA CAUSA. NÃO RECOLHIMENTO DO COMPLEMENTO DAS CUSTAS PELA AUTORA. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO PELO TRIBUNAL DE ORIGEM. MONTANTE RAZOÁVEL. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. É pacífico o entendimento do Superior Tribunal de Justiça de que o valor estabelecido a título de honorários advocatícios pelas instâncias ordinárias somente pode ser alterado nesta instância especial nas hipóteses em que a condenação se revelar exorbitante ou irrisória, distanciando-se dos padrões de razoabilidade.
+2. Na hipótese, extinto o processo sem resolução do mérito, a verba honorária deve ser fixada com base no § 4º do art. 20 do CPC/73, que prescreve como parâmetro a apreciação equitativa do magistrado, não se vinculando ao valor da causa, ou aos percentuais mínimo e máximo previstos no § 3º do aludido diploma processual.
+3. O Tribunal de origem já apreciou a equidade no arbitramento da verba honorária, segundo a razoabilidade e a proporcionalidade, atento às circunstâncias do caso concreto, tendo majorado os honorários advocatícios fixados na primeira instância, de R$ 15.000,00 (quinze mil reais), para R$ 150.000,00 (cento e cinquenta mil reais).
+4. Não compete a esta Corte Superior efetuar novo reexame, exceto se a nova importância arbitrada ainda fosse irrisória, o que, contudo, não ocorre na espécie.
+5. Agravo interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Exmo. Sr. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator:
+Trata-se de agravo interno interposto por [NOME] e OUTRO contra decisão que negou provimento ao recurso especial do agravante, com os seguintes fundamentos: a) somente é admissível o exame do montante fixado a título de honorários advocatícios, em sede de recurso especial, quando for verificada a exorbitância ou índole irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade; b) na hipótese, o Tribunal de origem já apreciou a equidade no arbitramento da verba honorária, tendo majorado os honorários advocatícios a patamar razoável, não cabendo a esta Corte efetuar novo reexame, exceto se a nova importância arbitrada ainda fosse irrisória; c) o conceito de verba ínfima não necessariamente está atrelado ao montante da causa, não se podendo reputar como irrisória a quantia arbitrada pelo Tribunal a quo em R$ 150.000,00 (cento e cinquenta mil reais).
+Em suas razões, os agravantes sustentam que, apesar de majorada a verba honorária pelo Tribunal de origem, o novo montante ainda é irrisório, por representar apenas 0,375% do valor da causa, o que não se coaduna com o que determina a legislação aplicável à época, qual seja o art. 20, §§ 3º e 4º, do CPC/73.
+Afirmam que, mesmo em casos em há julgamento sem resolução do mérito, é preciso que o valor da causa seja considerado no momento da fixação dos honorários de sucumbência, porquanto ações de valor expressivo demandam mais responsabilidade do patrono da causa.
+Postulam a fixação dos honorários em 20% sobre o valor atualizado da causa.
+Embora devidamente intimada, a agravada não apresentou (e-STJ, fl. 2.417).
+É o relatório.
+VOTO
+Exmo. Sr. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator:
+Em que pesem as bem lançadas razões recursais, não merece êxito o inconformismo, devendo ser mantida a decisão agravada.
+Narram os autos que "a complexa demanda veio a ser ajuizada em maio de 2003, portanto, há mais de uma década, contemplando inúmeros incidentes, tendo sido, em razão da revelia, prolatada por sentença, anulada por outra, por reconhecer a nulidade da citatória rogatória". Em seguida, "com a retomada regular do procedimento, certificando a serventia sobre o não complemento das custas, o douto magistrado prolatou sentença terminativa e responsabilizou a autora pela verba sucumbencial" (e-STJ, fl. 2.176).
+Nessa linha, o magistrado de primeiro grau julgou extinto o processo, sem resolução do mérito, diante da falta de complementação das custas pela parte autora, fixando verba honorária no valor de R$ 15.000,00 (quinze mil reais).
+Seguiu-se apelação dos procuradores da requerida, com o objetivo de majorar os honorários advocatícios, sugerindo o percentual de 20% do valor da causa, o que resultaria no importe acima de 8 milhões de reais.
+O eg. Tribunal de Justiça do Estado de São Paulo deu parcial provimento ao recurso, para majorar os honorários advocatícios ao patamar de R$ 150.000,00 (cento e cinquenta mil reais).
+Para o arbitramento do novo montante, foram sopesadas as circunstâncias da causa, nos termos da seguinte fundamentação:
+"A complexa demanda veio a ser ajuizada em maio de 2003, portanto, há mais de uma década, contemplando inúmeros incidentes tendo sido, em razão da revelia, prolatada sentença, anulada por outra (incidente em apenso), por reconhecer a nulidade citatória rogatória.
+Com a retomada regular do procedimento, certificando a serventia sobre o não complemento das custas, incidente em apenso, o douto Magistrado prolatou sentença terminativa e responsabilizou a autora pela verba sucumbencial, fixando honorários de R$ 15 mil (fls. 2.772).
+Recorrem exclusivamente os causídicos que postulam a majoração do valor para que alcance 20% daquele conferido à causa.
+Em primeiro lugar, é preciso frisar que a demanda anulatória de sentença carreou sucumbência em desfavor da autora, não podendo idêntico remédio ser aplicado ao caso concreto.
+Num segundo instante, a fixação se ajusta ao preconizado no art. 20, § 4º do CPC, considerando que o valor da causa, em função do incidente, supera 40 milhões de reais (fls. 1.865).
+Por último, e não menos relevante, se é certo o cabimento de verba sucumbencial em razão de sentença terminativa, também não é incorreto ponderar que vários aspectos devem ser examinados, dentro do equilíbrio e da proporcionalidade a qual fazem jus os causídicos.
+(..)
+Demonstrados os atos processuais praticados em relevo no contexto da lide, a anulação incidental não se incorpora à fase extintiva, de conteúdo terminativo, isso porque deixou a autora de cumprir a determinação do Juízo ensejando, depois de longo período, frustração do exame de mérito.
+Amparado nesse ângulo de visão, a sentença terminativa data de dezembro de 2011, motivo pelo qual se considera justa a remuneração profissional fixada em R$ 150 mil.
+Estabelecido o principio da causalidade, a importância de R$ 150 mil tem o condão de estruturar remuneração condizente, compatível com os atos processuais, sem extrapolar os limites da razoabilidade.
+E aqui é desimportante alçar voo para situar o
+preparo feito para subida do apelo ocorreu em valor superior (fls. 1.870).
+O procedimento somente ocorreu pelo comportamento dos nobres causídicos, os quais, descontentes, pretenderam 20% do valor da causa, o que atingiria soma superior a 8 milhões de reais, de todo inadmissível.
+Prevalecendo o critério do art. 20, § 4º do CPC, melhor solução é aquela encontrada de elevar a verba honorária para o valor de R$ 150 mil, compatível com a estrutura e o nexo causal existente.
+É correto dizer que pelo princípio da causalidade responde a parte que motivou a propositura da demanda, assim, e guardadas as devidas proporções, aquele que deu motivação à extinção prematura, deve arcar com as despesas processuais, dentre as quais moderada verba honorária.
+Isso posto, pelo meu voto, DOU PARCIAL PROVIMENTO ao recurso, e o faço para majorar a verba honorária estabelecendo a soma de R$ 150 mil, com espeque no art. 20, § 4º do CPC." (e-STJ, fls. 2.176/2.181)
+Em relação ao valor da verba honorária, a jurisprudência do Superior Tribunal de Justiça delineia que somente é admissível o exame do montante fixado a título de honorários advocatícios, em sede de recurso especial, quando for verificada a exorbitância ou a índole irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade. Nesse sentido: AgRg no Ag 1.271.295/RJ, Terceira Turma, Rel. Min. SIDNEI BENETI, DJe 29/3/2010; REsp 1.185.338/RS, Segunda Turma, Rel. Min. CASTRO MEIRA, DJe de 21/5/2010; REsp 1.074.066/PR, Terceira Turma, Rel. Min. NANCY ANDRIGHI, DJe de 13/5/2010; AgRg no Ag 1.136.981/SP, Quarta Turma, Rel. Min. LUIS FELIPE SALOMÃO, DJe de 26/10/2009.
+Na hipótese em exame, o quantum arbitrado a título de verba honorária, decorrente da extinção do processo, sem resolução do mérito, já majorado pelo Tribunal de origem, de R$ 15.000,00 (quinze mil reais), para R$ 150.000,00 (cento e cinquenta mil reais), não se caracteriza como irrisório, nem desproporcional à importância da causa. Nessa linha, a majoração já efetivada pelo Tribunal a quo não merece reparo nesta instância especial.
+A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que é inadmissível, na via estreita do recurso especial, a análise do quantum fixado a título de honorários advocatícios, tendo em vista que tal providência depende da reavaliação do contexto fático-probatório inserto nos autos, cujo reexame compete às instâncias ordinárias e não a esta Corte Superior, conforme vedado pela Súmula 7/STJ. O referido óbice somente pode ser afastado em hipóteses excepcionais, quando for verificada a exorbitância ou a índole irrisória da importância arbitrada, o que, contudo, não ocorre no caso em exame.
+A propósito:
+"PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. OMISSÃO DO ESTADO. SERVIDOR PÚBLICO MORTO EM SERVIÇO. REINCURSÃO NO ACERVO PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. ACUMULAÇÃO DE PENSÃO INDENIZATÓRIA COM A PENSÃO PREVIDENCIÁRIA. POSSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. INVIABILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ
+(..)
+3. O quantum dos honorários advocatícios, em razão da sucumbência processual, está sujeito a critérios de valoração previstos na lei processual, e sua fixação é ato próprio dos juízos das instâncias ordinárias, às quais competem a cognição e a consideração das situações de natureza fática. Incide a Súmula 7 do STJ.
+4. Recurso Especial parcialmente conhecido e, nessa parte, não provido."
+(REsp 1676264/PI, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/09/2017, DJe 13/09/2017)
+"CIVIL E PROCESSO CIVIL. RECURSO ESPECIAL. AÇÃO REPARATÓRIA COM BASE NA GARANTIA DA EVICÇÃO. INTERESSE DE AGIR CONFIGURADO. PRAZO PRESCRICIONAL TRIENAL. DEVER DE INDENIZAR. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. IMPOSSIBILIDADE.
+(..)
+6. Alterar o decidido no acórdão impugnado, no que se refere ao valor fixado para honorários advocatícios, exige o reexame de fatos e provas, vedado em recurso especial pela Súmula 7 do STJ.
+7. Recurso especial parcialmente conhecido e, nessa parte, desprovido."
+(REsp 1577229/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 08/11/2016, DJe 14/11/2016)
+"PROCESSUAL CIVIL E CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535. INEXISTÊNCIA. JULGAMENTO ANTECIPADO DA LIDE. POSSIBILIDADE. REVISÃO. REEXAME DE FATOS E PROVAS. HONORÁRIOS ADVOCATÍCIOS. DIMINUIÇÃO. VALOR RAZOÁVEL. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+(..)
+4. Somente em hipóteses excepcionais, quando manifestamente irrisório ou exorbitante o valor da verba honorária, a jurisprudência desta Corte permite o afastamento da Súmula n. 7/STJ para possibilitar a revisão da quantia fixada. No presente caso, não se evidencia hipótese que autorize a pleiteada redução.
+5. Agravo regimental a que se nega provimento."
+(AgRg no REsp 1326834/AM, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/03/2015, DJe 19/03/2015)
+Com efeito, o Tribunal de origem já apreciou a equidade no arbitramento da verba honorária, segundo a razoabilidade e a proporcionalidade, atento às circunstâncias do caso concreto, tendo majorado os honorários advocatícios fixados na primeira instância, de R$ 15.000,00 (quinze mil reais), para R$150.000,00 (cento e cinquenta mil reais).
+Não compete a esta Corte Superior efetuar novo reexame, exceto se a nova importância arbitrada ainda fosse irrisória, o que, contudo, não ocorre na espécie.
+É de se atentar que o conceito de verba ínfima não necessariamente está atrelado ao montante da causa. Na hipótese, o valor da causa não pode ser utilizado como base de cálculo, porquanto supera 40 milhões de reais, não podendo a quantia arbitrada pelo Tribunal a quo em R$ 150.000,00 (cento e cinquenta mil reais) ser considerada irrisória nem desproporcional à importância da causa.
+Cabe ressaltar que a fixação dos honorários advocatícios nos moldes postulados, ou seja, 20% (vinte por cento) sobre o valor da causa, resultaria no importe acima de 8 milhões de reais, quantia irracional e fora dos parâmetros da razoabilidade.
+Diante de tais pressupostos, nega-se provimento ao agravo interno.
+É como voto.
