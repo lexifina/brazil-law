@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de [NOME], contra o v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de Santa Catarina.
+Depreende-se dos autos que o paciente foi condenado, pela prática do delito capitulado no artigo 157, parágrafo 2º, inciso II, do Código Penal, à pena de 05 (cinco) anos e 04 (quatro) meses de reclusão, em regime semiaberto, e ao pagamento de 13 (treze) dias-multa.
+Irresignada, a defesa do paciente interpôs recurso de apelação perante o eg. Tribunal de origem, que negou provimento ao apelo, nos termos do v. acórdão juntado às fls. 45-53.
+No presente writ, o impetrante sustenta que: "Na legislação vigente, porque não há previsão explícita de que a pena, na segunda fase, não possa ficar aquém do mínimo legal, também não havia razão para tornar explícita na lei a autorização de considerar excepcionalmente as atenuantes após reconhecida uma causa de aumento. E se mesmo diante de previsão legal explícita a jurisprudência se incumbiu de estabelecer a proibição de fixação da pena, na segunda fase, abaixo do mínimo legal (STJ, Súmula 231), também pode (e deve) estabelecer que as atenuantes deverão incidir se, desprezadas na segunda fase por respeito ao mínimo legal, houver reconhecimento de causa de aumento."
+Requer, ao final, a concessão da ordem, para reduzir a pena, em razão da incidência das atenuantes da menoridade e da confissão (fls. 1-12).
+O pedido liminar foi indeferido (fls. 60-62).
+As informações foram prestadas às fls. 68-96.
+O Ministério Público Federal, às fls. 98-102, manifestou-se pela denegação da ordem, nos termos da seguinte ementa:
+"HABEAS CORPUS. PENAL E PROCESSUAL PENAL. SUBSTITUTIVO DE RECURSO PRÓPRIO. IMPOSSIBILIDADE. UTILIZAÇÃO INADEQUADA DO WRIT. NÃO CONHECIMENTO. ROUBO MAJORADO. APLICAÇÃO DE ATENUANTES APÓS A TERCEIRA FASE DA DOSIMETRIA, QUANDO FIXADA A PENA-BASE NO MÍNIMO LEGAL. INVIABILIDADE. SISTEMA TRIFÁSICO DO ART. 68 DO CP. PRECEDENTES DO STJ. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS OU, CASO CONHECIDO, PELA DENEGAÇÃO DA ORDEM."
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento do ato, salvos os casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Destarte, passo ao exame das razões veiculadas no mandamus.
+Pretende a Defensoria Pública, em síntese, que seja compensada a atenuante da confissão espontânea e da menoridade com a causa de aumento decorrente do concurso de pessoas, o que não acarretaria violação ao sistema trifásico ou à Súmula 231/STJ.
+Razão não assiste à impetrante.
+Em observância ao critério trifásico estabelecido no art. 68 do Código Penal, as circunstâncias atenuantes não podem ser compensadas com circunstâncias judiciais desfavoráveis ou causa de aumento de pena.
+A pretendida compensação é indevida, conforme inteligência do art. 68 do Código Penal, tendo em vista que tais institutos jurídicos são valorados em fases distintas da dosimetria.
+Nesse sentido os seguintes precedentes desta Corte Superior:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. ROUBO MAJORADO E TRÁFICO ILÍCITO DE ENTORPECENTES. PACIENTE CONDENADO À PENA DE 7 ANOS E 10 MESES DE RECLUSÃO, EM REGIME INICIAL SEMIABERTO. DOSIMETRIA. ATENUANTE DA MENORIDADE RELATIVA. IMPOSSIBILIDADE DE REDUÇÃO DA PENA INTERMEDIÁRIA ABAIXO DO MÍNIMO LEGAL. SÚMULA 231/STJ. APLICAÇÃO DA ATENUANTE APÓS A TERCEIRA ETAPA. INVIABILIDADE. ORDEM DE FIXAÇÃO DA PENA EXPRESSAMENTE PREVISTA NO ART. 68 DO CP. PLEITO DE AUMENTO DA FRAÇÃO REDUTORA PELO TRÁFICO PRIVILEGIADO, PREVISTO NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. QUANTIDADE E NOCIVIDADE DA DROGA APREENDIDA QUE JUSTIFICAM A FRAÇÃO INTERMEDIÁRIA ESCOLHIDA. REPRIMENDA MANTIDA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+- Consoante a Súmula n. 231 deste Sodalício, não é possível a redução da reprimenda, na segunda fase do dosimetria, em patamar inferior ao mínimo previsto legalmente.
+- Estabelecendo o art. 68 do Código Penal que as atenuantes e as agravantes devem incidir após a escolha da sanção inicial e antes das causas de aumento e de diminuição, inviável a aplicação da atenuante da menoridade, na terceira etapa da dosimetria, após a incidência da majorante do emprego de arma no delito de roubo.
+ ..
+- Habeas corpus não conhecido" (HC n. 387.033/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 5/4/2017 - grifo nosso).
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ROUBO MAJORADO. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS PELO COLEGIADO A QUO. IMPOSSIBILIDADE DE INOVAÇÃO DO PLEITO DEFENSIVO. TESE NÃO ANALISADA PELA CORTE DE ORIGEM. ÓBICE AO EXAME DA MATÉRIA POR ESTE TRIBUNAL. SUPRESSÃO DE INSTÂNCIA. INCIDÊNCIA DA SÚMULA/STJ 231. PENA BASE NO PISO LEGAL. COMPENSAÇÃO DE ATENUANTE COM MAJORANTE VEDADA. DEVIDA OBSERVÂNCIA AO CRITÉRIO TRIFÁSICO. ART. 68 DO CP. WRIT NÃO CONHECIDO.
+ ..
+2. Hipótese na qual o pleito de aplicação da atenuante da confissão espontânea após a terceira fase da dosimetria da pena não foi deduzido nas razões do apelo, tendo a defesa inovado os fundamentos recursais ao opor embargos de declaração. Por certo, considerando que a omissão apontada nos aclaratórios refere-se à tese defensiva não ventilada nos aclaratórios, não se infere arbitrariedade no acórdão que lhe negou trânsito por suposta violação do art. 619 do CPP. Mais: tendo em vista se tratar de tema não analisado pelo Colegiado a quo, o seu exame por este Tribunal configuraria indevida supressão de instância.
+3. De mais a mais, nos moldes do entendimento consolidado na Súmula/STJ 231, "a incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal".
+4. Conforme o disposto no art. 68 do Código Penal, "a pena-base será fixada atendendo-se ao critério do art. 59 deste Código; em seguida serão consideradas as circunstâncias atenuantes e agravantes; por último, as causas de diminuição e de aumento".
+5. A vindicada compensação entre a atenuante da confissão espontânea e a majorante do emprego de arma implicaria subversão do critério trifásico estabelecido pela legislação penal, pois tais circunstâncias devem ser sopesadas em etapas distintas da individualização da pena. Precedentes.
+6. Habeas corpus não conhecido" (HC n. 377.744/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 15/3/2017 - grifo nosso).
+"HABEAS CORPUS. SUBSTITUTIVO DE RECURSO. DESCABIMENTO. ROUBO MAJORADO PELO EMPREGO DE ARMA. CONFISSÃO DO RÉU. MENORIDADE RELATIVA. ATENUANTES. COMPENSAÇÃO COM A MAJORANTE. IMPOSSIBILIDADE. CIRCUNSTÂNCIAS EXAMINADAS EM SEPARADO NA DOSIMETRIA DA PENA. SISTEMA TRIFÁSICO. ART. 68 DO CP. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+ ..
+2. Não é possível compensar uma das atenuantes - confissão espontânea ou menoridade relativa - com a majorante do emprego de arma, uma vez tratar-se de circunstâncias examinadas em momentos diversos na dosimetria da pena, conforme o sistema trifásico, adotado em nosso ordenamento jurídico no art. 68 do Código Penal. Precedentes.
+Habeas corpus não conhecido" (HC n. 369.937/SC, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 7/11/2016 - grifo nosso).
+"RECURSO ESPECIAL. PENAL. HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR. ART. 312 DO CTB. CAUSA DE DIMINUIÇÃO DA PENA. ARREPENDIMENTO POSTERIOR. ART. 16 DO CP. REPARAÇÃO DO DANO. APLICÁVEL APENAS NOS CRIMES PATRIMONIAIS. PLEITO SUBSIDIÁRIO. RECONHECIMENTO DE ATENUANTE. ART. 65, III, B, DO CP. PENA-BASE FIXADA NO MÍNIMO. SÚMULA 231/STJ.
+ ..
+4. A existência de causa de aumento verificável na terceira fase da dosimetria não permite retorno para a fase anterior para reconhecer atenuantes, sob pena de subversão do sistema trifásico de dosimetria da pena. Súmula 231/STJ.
+5. Recurso especial improvido, com determinação de imediato início de cumprimento da pena, vencidos, apenas quanto à execução provisória da pena, o Relator e a Sra. Ministra Maria Thereza de Assis Moura" (REsp n. 1.561.276/BA, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 15/9/2016 - grifo nosso).
+Ante o exposto, não conheço do habeas corpus.
+P. e I.
