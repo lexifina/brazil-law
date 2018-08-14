@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 1ª Região, assim ementado (eDOC 2, p. 49):
+    “CONSTITUCIONAL E ADMINISTRATIVO. IMÓVEIS SITUADOS NA ILHA COSTEIRA DE SÃO LUÍS/MA. EC Nº 46/2005. TERRENO CONCEITUADO COMO "NACIONAL INTERIOR". BENS MUNIÇIPAIS OU PARTICULARES. COBRANÇA DE TAXA DE OCUPAÇÃO, FORO E/OU LAUDÊMIO. IMPOSSIBILIDADE. STF. RE 636.199. REPERCUSSAO GERAL. PRECEDENTE.
+    1. O Supremo Tribunal Federal, ao apreciar o Recurso Extraordinário 636.199/ES pela sistemática da repercussão geral (Tema 676), em sessão realizada em 30.03.2017, firmou a tese de que ‘a Emenda Constitucional nº 46/2005 não interferiu na propriedade da União, nos moldes do art. 20, VII, da Constituição da República, sobre os terrenos de marinha e seus acrescidos situados em ilhas costeiras sede de Municípios.’ (Tema 676), consagrando o entendimento de que os terrenos de marinha e seus acrescidos situados na ilha costeira em que sediado sede de município constituem bens federais.
+    2. A interpretação dada ao dispositivo constitucional regozija o entendimento há muito consolidado nesta Corte no sentido de que os imóveis situados exclusivamente no interior de ilha costeira que contenha sede de municípios foram excluídos do patrimônio federal com a entrada em vigor da EC nº 46/2005 e pertencem aos respectivos municípios, passando a receber o mesmo tratamento jurídico dos imóveis situados na parte continental.
+    3. Especificamente em relação aos terrenos conceituados como “Nacional Interior”, a 4ª Seção desta Corte, ao julgar os EI 0052575-21.20 13.4.b1.3700/MA, em 31/05/2017, Rel. Desembargador Federal Novély Vilanova, definiu que “Não se aplica ao caso (ilha costeira em sede de município) o precedente do STF, no RE 636.199-ES, repercussão geral, r. Ministra Rosa Weber, em 27.04.2017, que trata somente de terreno de marinha."
+    4. Carece de fundamento legal a cobrança da taxa ocupação, aforamento e/ou laudêmio porque comprovado nos autos que o imóvel em questão, localizado na Gleba Rio Anil, é classificado como Terreno Nacional Interior.
+    5. Honorários nos termos do voto.
+    6. Apelação não provida.”
+    O Supremo Tribunal Federal já se manifestou sobre o tema discutido nestes autos ao analisar o RE 636.199-RG, de relatoria da Ministra Rosa Weber, DJe 16.10.2013 (Tema 676), que reconheceu a repercussão geral do tema referente à situação dos terrenos de marinha localizados em ilhas costeiras com sede de município, após o advento da Emenda Constitucional 46/2005.
+    Quando do julgamento de mérito, ocorrido em 27.04.2017, o Plenário, por maioria de votos, firmou sua jurisprudência sobre a matéria assentando a seguinte tese: “A Emenda Constitucional nº 46/2005 não interferiu na propriedade da União, nos moldes do art. 20, VII, da Constituição da República, sobre os terrenos de marinha e seus acrescidos situados em ilhas costeiras sede de Municípios."
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 14 de agosto de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
