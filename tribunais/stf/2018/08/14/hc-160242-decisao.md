@@ -1,0 +1,25 @@
+Trata-se de habeas corpus com pedido de liminar impetrado contra decisão do Ministro Ribeiro Dantas, do Superior Tribunal de Justiça – STJ, que indeferiu a liminar no HC 448.882/PE.
+    Consta dos autos (documento eletrônico 5) que o paciente foi pronunciado, com outros dois acusados, pela suposta prática dos crimes de homicídio qualificado (art. 121, § 2º, IV, do CP) e de formação de quadrilha ou bando armado (art. 288, parágrafo único, do CP – redação anterior à Lei 12.850/2013). No curso da instrução criminal foi preso preventivamente (documento eletrônico 5).
+    Alegando excesso de prazo da custódia processual, a defesa impetrou habeas corpus no Tribunal de Justiça do Estado de Pernambuco – TJPE, que denegou a ordem, com recomendação ao juízo processante (documento eletrônico 4). Na sequência, manejou outro HC no Superior Tribunal de Justiça, ocasião em que o Ministro Relator indeferiu o pedido de liminar (documento eletrônico 7).
+    É contra essa decisão que se insurge o impetrante neste habeas corpus.
+    Registra, inicialmente, que o paciente encontra-se preso há quase 9 anos, “com diversos adiamentos de audiências por culpa de testemunhas de acusação não localizadas e desídias inúmeras do Juízo de piso na condução do feito, que passou anos e anos para remarcar audiências ou até receber um mero recurso em sentido estrito” (fl. 3 da petição inicial).
+    Assevera, na sequência, que “o HC no STJ está totalmente paralisado há mais de 3 meses sem que as Instâncias inferiores prestem as devidas informações, e a autoridade coatora, contemplativamente, permite tal inércia, sequer dando-se vista daqueles autos eletrônicos ao MPF para fins de emissão de parecer, prejudicando ainda mais o paciente e seu direito à devida e célere prestação jurisdicional” (fl. 4 da petição inicial).
+    Requer, ao final, liminarmente, a “expedição de Alvará de Soltura em favor do paciente, clausulado ao Processo nº 4428-56.2008.8.17.0370”. No mérito, “se até lá o STJ não houver julgado o prévio mandamus, requer-se a concessão da ordem, ratificando-se o Alvará de Soltura, que espera a defesa, humildemente, seja concedido de plano” (fl. 5 da petição inicial).
+    É o relatório necessário. Decido.
+    Eis os fundamentos da decisão ora questionada:
+    “A concessão de liminar em habeas corpus constitui medida excepcional, uma vez que somente pode ser deferida quando demonstrada, de modo claro e indiscutível, ilegalidade no ato judicial impugnado.
+    Na espécie, sem qualquer adiantamento do mérito da demanda, não vislumbro, ao menos neste instante, a presença de pressuposto autorizativo da concessão da tutela de urgência pretendida.
+    Assim, indefiro o pedido de liminar.
+    Solicitem-se informações à autoridade apontada como coatora e ao Juízo da 1ª Vara Criminal e Privativa do Júri da Comarca de Cabo de Santo Agostinho/PE, a serem prestadas por malote digital, preferencialmente.
+    Após, encaminhem-se os autos ao Ministério Público Federal para parecer” (grifo no original).
+    A jurisprudência deste Supremo Tribunal é forte no sentido de que a superação da Súmula 691 somente se justifica nos casos de flagrante teratologia, ilegalidade manifesta ou abuso de poder, situações nas quais não se enquadra a decisão impugnada.
+    Ainda que em juízo de mera delibação, não é possível aferir, no decisum questionado, situações aptas a justificar a superação do referido verbete. Infere-se, com efeito, que o Ministro Ribeiro Dantas, ao analisar a impetração no STJ, apreciou somente os requisitos autorizadores daquela excepcional medida e concluiu pela inexistência deles.
+    Não há nesse ato nenhuma ilegalidade flagrante, tampouco abuso de poder. Muito pelo contrário. Não se pode exigir, nesta fase processual, que o julgador esgote os fundamentos pelos quais a ordem deva ou não ser concedida. Se a argumentação do impetrante não foi suficiente para, a priori, convencer aquele magistrado, caberá ao colegiado respectivo, depois de instruído o processo, analisar as questões postas sob exame, não havendo nesse agir nenhum constrangimento ilegal.
+    Com efeito, tais circunstâncias impedem o exame do tema por este Tribunal, sob pena de incorrer-se em supressão de instância, com evidente extravasamento dos limites de competência descritos no art. 102 da Constituição Federal.
+    Aliás, há notícia nos autos de que o paciente encontra-se cumprindo pena em razão de condenação em outro processo (fl. 2 do documento eletrônico 2), circunstância que, evidentemente, não inviabiliza a alegação de excesso de prazo ora veiculada, mas recomenda, em alguma medida, aguardar o pronunciamento definitivo do Superior Tribunal de Justiça.
+    Registro, por fim, que as informações solicitadas pelo Ministro Relator do STJ ao Juízo de primeiro grau foram prestadas em 8/8/2018, não sendo a hipótese de se abrir, neste momento, a via de exceção.
+    Isso posto, com base no art. 21, § 1º, do RISTF, nego seguimento a este habeas corpus. Prejudicado o exame da liminar.
+    Publique-se.
+    Brasília, 14 de agosto de 2018.
+Ministro Ricardo Lewandowski
+Relator
