@@ -1,0 +1,49 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO INDIVIDUAL E COLETIVA. PESCADORES. LEGITIMIDADE PASSIVA. CIRCUNSTÂNCIAS FÁTICAS DA CAUSA. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A verificação da procedência dos argumentos expendidos no recurso especial exigiria, por parte desta Corte, o reexame de matéria fática, procedimento vedado pela Súmula nº 7/STJ.
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Terceira Turma, por unanimidade, negar provimento ao agravo, nos termos do voto do(a) Sr(a). Ministro(a) Relator(a). Os Srs. Ministros Marco Aurélio Bellizze (Presidente), Moura Ribeiro, Nancy Andrighi e Paulo de Tarso Sanseverino votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator):
+Trata-se de agravo interno interposto por SANTO ANTÔNIO ENERGIA S.A. contra a decisão (e-STJ fls. 705-707) que negou provimento ao recurso especial.
+Nas razões do presente recurso (e-STJ fls. 272-277), a recorrente volta a defender os fundamentos do seu recurso especial, afirmando não ser possível a incidência do óbice de Súmula nº 7/STJ, porquanto a análise da tese da legitimidade ativa não depende do reexame de matéria de fato.
+Assevera que além da ação indenizatória originária, foram ajuizadas diversas ações indenizatórias que possuem exatamente os mesmos fatos, a mesma causa de pedir e pedidos que diferem apenas quanto à parte autora, configurando tanto a conexão quanto a necessidade do julgamento conjunto das demandas indicadas.
+Aduz que a análise da legitimidade ativa dos recorridos decorre de clara previsão legal combinada com a simples constatação feita a partir dos documentos acostados aos autos da ação indenizatória originária, sendo que o registro do profissional no órgão competente é imprescindível para que se qualifique o pescador profissional.
+Argumenta que os documentos dos autos demonstram que no período correspondente ao da indenização pleiteada os recorridos não eram pescadores profissionais.
+Ao final, requer a reconsideração da decisão agravada ou, alternativamente, que seja o feito submetido ao órgão julgador colegiado competente.
+Sem contraminuta (e-STJ fl. 722).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator):
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O recurso não merece prosperar.
+Registra-se, de início, que o tribunal de origem, soberano na análise do conjunto fático-probatório dos autos, consignou que a legitimidade dos recorridos depende de instrução probatória e que em cada uma das ações será analisada a questão fática particular, para poder se obter a real extensão do dano, não sendo possível, portanto, a existência de decisões conflitantes, consoante se observa do excerto do voto condutor a seguir transcrito:
+"(..)
+A legitimidade dos agravados será objeto de instrução probatória. Assim, não há que se falar em reforma da decisão agravada nesse sentido, pois vejo que a questão será devidamente enfrentada pelo magistrado a quo.
+Da Conexão.
+Apesar da demonstração de que existem várias outras ações em que se discute supostos danos decorrentes da instalação da usina operada pela Santo Antônio Energia S/A, os quais seriam relativos a uma suposta redução do número de peixes na bacia do Rio Madeira, resultando em prejuízos aos pescadores da região, isso não é fato suficiente a ensejar a conexão, porquanto não se faz presente nenhuma das hipóteses previstas no art. 103 do Código de Processo Civil.
+Com efeito, não obstante a identidade de causa de pedir e objeto, alegada pela Santo Antônio Energia S/A, mostra-se inviável afirmar que a ação individual deve ser julgada pelo mesmo juízo em que foi proposta a ação coletiva, dada a autonomia existente entre as ações.
+A respeito dessa autonomia existente entre a ação coletiva e a ação individual, observa, com propriedade, o ilustre Ministro Teori Albino Zavascki (Defesa do Direitos Coletivos e Defesa Coletiva de Direitos, in Revista Forense, vol. 329, P- 157):
+Ação Coletiva e Ação Individual. Autonomia.
+"O caráter genérico da sentença de procedência e a inviabilidade de sua liquidação e execução por substituto processual autônomo, são dois indicativos importantes da opção feita pelo legislador brasileiro em tema de defesa coletiva de direitos individuais, qual seja: o titular do direito material não pode ser obrigatoriamente vinculado ao processo ou aos efeitos da sentença. Em outras palavras, diferentemente, do que se passa no mandado de segurança coletivo, aqui, na ação civil coletiva em exame, o legislador brasileiro privilegiou claramente o direito à liberdade de ação, que tem como contrapartida necessária a faculdade de não acionar e até de renunciar, se esta for a vontade do titular do direito. Esta opção se manifesta, também, no art. 94 da Lei - 9.078/90 - (ao estabelecer como faculdade do interessado o seu ingresso como litisconsorte), no art. 103, III (ao estabelecer que a coisa julgada material erga omnes somente se dará em caso de procedência da ação coletiva), e sobretudo no art. 104, segunda parte. Ali se diz que os efeitos da coisa julgada erga omnesou ultra partesa que aludem os incisos II e III do artigo anterior não beneficiarão os autores das ações individuais, se não for requerida sua suspensão no prazo de 30 dias, a contar da ciência nos autos da ação coletiva. Desse dispositivo colhe-se a) que a ação individual pode ter curso independente da ação coletiva superveniente; b) que a ação individual só se suspende por iniciativa do seu autor; c) que não havendo pedido de suspensão, a ação individual não sofre efeitos algum do resultado da ação coletiva, ainda que julgada procedente."
+Como se vê, inexiste risco de decisões conflitantes, pois esta não sofre qualquer efeito que poderia advir do resultado da ação coletiva, razão pela qual não há falar em conexão. Ademais, em cada uma das ações será analisada a questão fática particular, para poder se obter a real extensão do dano.
+Questão idêntica já foi decidida por este Tribunal, como se vê dos processos n. 0012138-59.2013.8.22.0000, 0012360-27.2013.8.22.0000, 0012362-94.2013.8.22.0000, 0012367-19.2013 e outros, que entendeu não haver conexão entre as ações indenizatórias individuais com a ação coletiva movida pelos pescadores.
+Assim, sem razão o agravante quanto à conexão e conseqüente reunião dos processos" (e-STJ fls. 598-599).
+Nesse contexto, a pretensão de desconstituir a conclusão da Corte local de inexistência de conexão no caso em apreço, demanda o reexame de matéria fático-probatória, tarefa para a qual não se presta o recurso especial, nos termos do que dispõe a Súmula nº 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+A propósito, nesse mesmo sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. DANOS DECORRENTES DA INSTALAÇÃO DE HIDRELÉTRICAS NO RIO MADEIRA. CONEXÃO ENTRE AÇÕES INDIVIDUAIS E COLETIVAS. AUSÊNCIA DE PREQUESTIONAMENTO DE TODOS OS PRECEITOS LEGAIS DITOS VIOLADOS. SÚMULAS NºS 282 E 356 DO STF. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O conhecimento do recurso especial demanda que tenha ocorrido o pronunciamento judicial sobre o preceito de lei federal acerca do qual se alega negativa de vigência ou divergência interpretativa.
+Ausente o prequestionamento, sem que tenham sido opostos embargos de declaração, têm aplicação, por analogia, as Súmulas nºs 282 e 356 do STF.
+3. Segundo a jurisprudência dominante do STJ, o juízo acerca da caracterização de conexão entre demandas é insuscetível de reapreciação em recurso especial, em razão do entendimento expresso no enunciado n. 7 da Súmula do STJ (AgRg no AREsp 618.223/RO, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 22/9/2015, DJe 9/10/2015)
+4. Agravo interno não provido." (AgInt no REsp 1.488.084/RO, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe 19/12/2016 - grifou-se).
+"AGRAVO REGIMENTAL. DIREITO CIVIL E PROCESSUAL CIVIL. SUCESSÃO DE CRÉDITOS. INSTITUIÇÃO FINANCEIRA. LEGITIMIDADE PASSIVA. REEXAME DE PROVAS. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. ALCANCE SUBJETIVO DA COISA JULGADA. SUJEITO PASSIVO DA EXECUÇÃO.
+1. Tendo as instâncias ordinárias firmado a premissa de que a instituição financeira recorrente é sucessora dos créditos levados à execução, tal conclusão não se desfaz sem reexame de provas e de cláusulas contratuais. Incidência das Súmulas 5 e 7.
+2. "O reconhecimento da responsabilidade da sucedida, em sentença transitada em julgado, implica a da sucessora, seja por força dos arts. 568 e 592 do Código de Processo Civil, seja por regra segundo a qual "a sentença, proferida entre as partes originárias, estende seus efeitos ao adquirente ou ao cessionário" (art. 42, § 3º, do CPC) (REsp 1.371.462/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 07/05/2013, DJe 18/06/2013).
+3. Agravo regimental não provido".
+(AgRg no AREsp 234.980/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/05/2014, DJe 22/05/2014)
+Assim, não prosperam as alegações postas no agravo, incapazes de alterar os fundamentos da decisão impugnada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
