@@ -1,0 +1,5 @@
+Solução de Consulta Cosit nº 98183, de 13 de julho de 2018
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 8708.99.90 Mercadoria: Parte de veículos automóveis da posição 87.03, constituindo um corpo único, composta por motor de ignição por centelha (flex) de 1.595 cm³ de cilindrada, alternador, tensionador automático da correia, correia, radiador de água, bomba para circulação de água, compressor para o sistema de ar-condicionado, caixa de marcha automática, caixa de direção e os corner modules dianteiros (discos de freio, pinças de freio, pastilhas de freio e braços de suspensão), mesmo com amortecedores e molas, comercialmente denominada “Conjunto de trem de força”.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 87.08), RGI 6 (textos das subposições 8708.9 e 8708.99) e RGC-1 (texto do item 8708.99.90) constantes da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto n.º 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 1.788, de 2018.
+[arquivo anexo: SC Cosit nº 98.183-2018.pdf]
