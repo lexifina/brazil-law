@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial manejado pela Fazenda Nacional, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 206):
+PROCESSO CIVIL. APELAÇÃO. DECISÃO MONOCRÁTICA. JURISPRUDÊNCIA. ARTIGO 557 DO ENTÃO CÓDIGO DE PROCESSO CIVIL. AGRAVO INOMINADO. NÃO PROVIMENTO.
+1. A decisão proferida tem embasamento legal, já que o Código de Processo Civil permitia a prolação de decisão definitiva pelo Relator do processo, quando a jurisprudência já se posicionou a respeito do assunto em debate.
+2.Quanto ao mérito, mantida a decisão proferida, já que não foram trazidos no agravo inominado argumentos suficientes para a mudança de posicionamento.
+3. Agravo não provido.
+Opostos embargos declaratórios, foram rejeitados (fls. 224/236).
+A parte recorrente aponta violação aos artigos 1.022 do CPC/2015. Sustenta, em resumo, que a despeito dos embargos de declaração, o Tribunal a quo remanesceu omisso acerca de que "o débito foi inscrito em dívida ativa em 31/05/2002 e extinta FRAUDULENTAMENTE em 27/08/2002 por anulação. Após a descoberta da fraude, a inscrição foi REATIVADA em 05/09/2005, conforme documentação já constante dos autos" (fl. 235). Afirma que "para valores fraudulentamente subtraídos da Dívida Ativa da União não corre a prescrição ininterrupta, conforme o art. 174, caput, do CTN, que é obstruída pela prática de ato fraudulento, tendo (re)início com o conhecimento e apuração do ilícito praticado, corroborando a solução com o disposto nos arts. 155 e 178 do CTN e 54 da lei n. 9.784/99, além das teorias da actio nata e a teoria dos atos próprios" (fl. 235).
+É o relatório.
+A pretensão recursal merece acolhida pelo art. 1.022 do CPC/15.
+Com efeito, na petição dos embargos de declaração (fls. 209/211), a recorrente aponta a omissão em relação ao fato da extinção do débito tributário ter ocorrido por ato fraudulento. Confira-se o excerto dos aclaratórios em que tais questões foram suscitadas (fl. 211):
+No presente caso, o débito foi inscrito em dívida ativa em 31/05/2002 e extinta FRAUDULENTAMENTE em 27/08/2002 por anulação. Após a descoberta da fraude, a inscrição foi REATIVADA em 05/09/2005, conforme documentação já constante dos autos e que se junta, neste momento, novamente. Tais fatos não foram objeto de análise por esta E. Terceira Turma, por ocasião do julgamento do agravo interno.
+Conclui-se, portanto, que para valores fraudulentamente subtraídos da Dívida Ativa da União não corre a prescrição ininterrupta, conforme o art. 174, caput, do CTN, que é obstruída pela prática de ato fraudulento, tendo (re)início com o conhecimento e apuração do ilícito praticado, corroborando a solução com o disposto nos arts. 155 e 178 do CTN e 54 da lei n. 9.784/99, além das teorias da actio nata e a teoria dos atos próprios.
+Contudo, no julgamento dos aclaratórios (fls. 224/236), a Corte local quedou-se silente sobre tais argumentações, rejeitando os pertinentes aclaratórios do ora recorrente, em franca violação ao art. 1.022 do CPC/15, porquanto não prestada a jurisdição de forma integral.
+Uma vez reconhecida a negativa de prestação jurisdicional, resta, por ora, prejudicada a análise das demais questões suscitadas no apelo raro.
+Ante o exposto, dou provimento ao recurso especial da Fazenda Nacional por violação do art. 1.022 do CPC/15, determinando o retorno dos autos ao Tribunal de origem para novo julgamento dos aludidos embargos de declaração.
+Publique-se.
