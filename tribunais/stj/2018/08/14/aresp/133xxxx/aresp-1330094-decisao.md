@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu o recurso especial, interposto com fulcro no art. 105, III, alínea "a", da Constituição Federal.
+Consta dos autos que o ora agravante foi denunciado pela prática do delito tipificado nos arts. 33, caput, e 35 da Lei n. 11.343/2006 (tráfico de drogas), absolvido da segunda imputação e condenado à pena de 1 (um) ano e 8 (oito) meses de reclusão, no regime inicial aberto, e pagamento de 166 dias-multa (tráfico privilegiado), sendo a reprimenda substituída por restritiva de direitos, conforme a sentença às fls. 165-169.
+A defesa apelou, pleiteando a absolvição por insuficiência de provas. A acusação também apelou buscando o afastamento de causa especial de diminuição de pena e da substituição da pena privativa de liberdade e a fixação de regime fechado.
+O Tribunal de origem negou provimento ao recurso defensivo e deu parcial provimento ao recurso ministerial, para aumentar a pena ao patamar de 5 (cinco) anos de reclusão e 500 dias-multa e fixar o regime fechado, em acórdão às fls. 252-262.
+Na sequência, a defesa interpôs recurso especial, no qual alega violação dos arts. 33, § 4º, da Lei n. 11.343/2006, 33, § 2º, "b" e "c", e § 3º, e 44 do Código Penal - CP.
+Sustenta que o recorrente preenche os requisitos para aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/06 em seu grau máximo, sendo que esta Corte "veda a consideração do art. 42 da L. 11.343/06 para vedar a aplicação do redutor do art. 33, §4º, do mesmo diploma (ainda que com a ressalva do entendimento que ele sequer serviria para influenciar a quantidade de diminuição)" (fl. 306).
+Argumenta que deve ser readequado o regime de pena e substituída a pena corporal, pois a gravidade do delito não justifica o regime mais severo.
+A r. decisão agravada não admitiu o recurso especial haja vista a incidência das Súmulas n. 284/STF e n. 7 desta Corte.
+Contraminuta às fls. 384-394.
+O Ministério Público Federal opina pelo provimento do agravo (fls. 412-414).
+Conheço do agravo em recurso especial, visto que atacados os fundamentos da decisão agravada.
+É o relatório. Decido.
+O recurso não merece provimento.
+Na terceira fase da dosimetria, o Tribunal de origem afastou a aplicação da causa especial de diminuição de pena do § 4º do art. 33 da Lei n. 11.343/2006, considerando que o recorrente não preenche os requisitos para a diminuição da pena, diante da quantidade e natureza das drogas (516 tubos de cocaína, com peso líquido de 298g, e 623 porções de "crack", com peso líquido total de 182g). O fundamento do acórdão não destoa da jurisprudência desta Corte.
+Confira-se, nesse sentido, o precedente:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. VIA INADEQUADA. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO CONCRETA. NATUREZA E QUANTIDADE DE ENTORPECENTES. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INOCORRÊNCIA. PRÁTICA DE ATIVIDADE CRIMINOSA. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO IDÔNEA.
+ ..
+4. Hipótese em que o Tribunal de origem justificou o quantum de exasperação da pena-base, em razão da quantidade e da natureza das drogas apreendidas (30 buchas de maconha, 2,286kg de pasta base para cocaína, 599g de maconha, 18g de farelo de crack e maconha, 28g de crack). Descabe falar em flagrante constrangimento ilegal a ser sanado, porque a fixação da fração fundou-se em elementos concretos e dentro do critério da discricionariedade vinculada do julgador.
+5. Para a aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher cumulativamente todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 a 2/3, a depender das circunstâncias do caso concreto.
+ ..
+7. No caso, o Tribunal a quo afastou a incidência da minorante por entender que a paciente se dedicava à atividade criminosa, diante da quantidade de drogas apreendidas e da confissão de que realizava a traficância há 1 ano.
+8. A diversidade de entorpecentes justifica a fixação de regime mais severo, nos termos dos arts. 33 e 59 do Código Penal, c/c o art. 42 da Lei n. 11.343/2006.
+9. Habeas corpus não conhecido (HC 344.032/ES, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, DJe 15/3/2016).
+Ademais, para se concluir de forma diversa do entendimento do Tribunal de origem, seria inevitável o reexame das provas carreadas aos autos, procedimento sabidamente inviável na instância especial. A referida vedação encontra respaldo no enunciado n. 7 da Súmula desta Corte, verbis: "A pretensão de simples reexame de prova não enseja recurso especial". Nesse sentido, confira-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PEDIDO DE ABSOLVIÇÃO. ÓBICE DA SÚMULA N. 7 DESTA CORTE. AFASTAMENTO DA CAUSA DE DIMINUIÇÃO DO § 4º DA LEI N. 11.343/2006. RÉU QUE SE DEDICA A ATIVIDADES CRIMINOSAS. CIRCUNSTÂNCIAS DO CASO E GRANDE QUANTIDADE DE ENTORPECENTES. FUNDAMENTAÇÃO VÁLIDA. REEXAME DE PROVA. ALEGADO BIS IN IDEM. IMPROCEDÊNCIA. PENA-BASE FIXADA NO MÍNIMO LEGAL. AGRAVO REGIMENTAL IMPROVIDO.
+1. A alegada insuficiência probatória para condenar o agravante pelo crime de tráfico de drogas demanda incursão no material fático dos autos, o que é vedado pelo óbice da Súmula n. 7 do Superior Tribunal de Justiça.
+2. As instâncias ordinárias entenderam, de forma fundamentada, que não se aplica a minorante do § 4º do art. 33 da Lei de Drogas, tendo em vista que o réu se dedica a atividades criminosas. Consignou a Corte de origem a expressiva quantidade de droga, bem como as circunstâncias dessa apreensão. Rever esse entendimento demanda incursão no contexto fático-probatório, o que não se admite na presente via.
+ ..
+4. Agravo regimental improvido. (AgRg no AREsp 456.502/RS, Rel. Ministro WALTER DE ALMEIDA GUILHERME - Desembargador convocado do TJ/SP, QUINTA TURMA, DJe 12/12/2014).
+Quanto ao regime de pena, cumpre registrar que há pedido idêntico formulado no HC 393.641/SP, desta relatoria, que já examinou a questão posta, amparado na firme jurisprudência desta Corte. Anoto que a decisão foi publicada em 30.10.2017 e tem trânsito em julgado em 16.11.2017. Dessa forma, resta prejudicado o pedido de modificação do regime, bem como a pretendida conversão da pena corporal, uma vez não preenchido o requisito objetivo do art. 44 do CP.
+Diante do exposto, com fundamento no art. 932, inc. IV, "a", do Código de Processo Civil c/c o art. 3.º do Código de Processo Penal, nego provimento ao recurso.
+Publique-se. Intimem-se.
