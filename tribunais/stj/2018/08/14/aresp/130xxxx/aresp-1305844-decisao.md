@@ -1,0 +1,27 @@
+DECISÃO
+1. Cuida-se de agravo interposto por OI S.A. - EM RECUPERACAO JUDICIAL contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE COMPLEMENTAÇÃO DE AÇÕES. DECISÃO INTERLOCUTÓRIA QUE REJEITOU A IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. RECURSO DO IMPUGNANTE NA VIGÊNCIA DO NOVO CPC.
+INSURGÊNCIA NO TOCANTE AO VALOR PATRIMONIAL DA AÇÕES (VPA), POIS O VALOR UTILIZADO NÃO CONDIZ COM O MÊS DA INTEGRALIZAÇÃO. BALANCETE DA TELEBRÁS CONFECCIONADO EM PERIODICIDADE TRIMESTRAL. VALOR UTILIZADO CORRESPONDENTE AO RESPECTIVO PERÍODO, EM CONSONÂNCIA COM A ORIENTAÇÃO DA CORREGEDORIA GERAL DE JUSTIÇA DESTE TRIBUNAL (CGJ -TJ/SC). VPA UTILIZADO CORRESPONDENTE AO DO MÊS DA INTEGRALIZAÇÃO, EM CONFORMIDADE COM A SÚMULA. 371 DO STJ. TESE REJEITADA
+DIVIDENDOS. AVENTADA AUSÊNCIA DE PROVA QUE OS VALORES PERTENCEM À TELEBRÁS. IMPUGNAÇÃO GENÉRICA, SEM APONTAR/COMPROVAR COM PRECISÃO OS VALORES QUE ENTENDE EQUIVOCADOS. ADEMAIS, CÁLCULO QUE UTILIZA OS VALORES CONTIDOS EM PLANILHA PARA CÁLCULO DE DIFERENÇA DE SUBSCRIÇÕES E AÇÕES DE TELEFONIA- BRT ELABORADO PELA CGJ-TJ/SC. [NOME].
+MARCO FINAL DOS RENDIMENTOS. TESE DE QUE A PARTIR DA DATA UTILIZADA COMO COTAÇÃO PARA INDENIZAR AS AÇÕES, A PARTE AUTORA NÃO TERIA MAIS A CONDIÇÃO DE ACIONISTA E, POR CONSEGUINTE, SERIA ESTE O LIMITE DOS DIVIDENDOS. INSUBSISTÊNCIA. ENTENDIMENTO FIRMADO NO SUPERIOR TRIBUNAL DE JUSTIÇA RECHAÇANDO A TESE.
+"No caso das ações convertidas em perdas e danos, é devido o pagamento de dividendos desde a data em que as ações deveriam ter sido subscritas, até a data do trânsito em julgado do processo de conhecimento, incidindo juros de mora e correção monetária segundo os critérios do item anterior" (REsp 1301989/RS, Rel. Min. Paulo de Tarso Sanseverino, Segunda Seção, DJe 19.3.2014).5. Agravo regimental a que se nega provimento. (STJ. AgRg no AREsp 237346/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 22/04/2014, DJe 29/04/2014).
+DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 141, 492 e 503 do CPC de 2015, alegando, em síntese, a existência de cálculos excessivos por parte do autor quanto ao valor patrimonial vigente na data da integralização.
+Não foram apresentadas contrarrazões ao recurso especial, consoante certidão à fl. 203.
+É o relatório. DECIDO.
+2. Na espécie, a Corte local afastou o alegado excesso de execução quanto ao valor patrimonial do contrato PEX 0056670409, com a seguinte fundamentação (e-STJ 184-185):
+"Importante salientar, de início, que as insurgência da agravante, tanto no recurso quanto no processo originário, é totalmente genérica e não combate com precisão e objetividade o cálculo elaborado pela Contadoria Judicial, limitando-se a afirmar que existe excesso de execução e apresentar as teses costumeiramente repetidas pela empresa recorrente na maioria dos recursos por ela interpostos.
+1. Do valor patrimonial da ação - Contrato PEX 0056670409
+Argumenta a agravante que o valor patrimonial das ações (VPA) da Telebrás (PEX 0056670409) deve observar o valor da data da integralização, conforme determinou a sentença transitada em julgado.
+Ocorre que, não obstante sua insurgência, é sabido que os balancetes da Telebrás ocorriam trimestralmente.
+Nesta causa o contrato Telebrás (n. 0056670409) foi firmado em novembro de 1995, sendo que para tal período cada ação possuía o valor de 0,0750, englobando os meses de setembro, outubro e dezembro daquele ano, conforme se extrai da "planilha para cálculo de diferença de subscrição de ações de telefonia - BRT, confeccionada pela Assessoria de Custas da Corregedoria Geral de Justiça do TJ/SC.
+A Súmula n. 371 do STJ determina: "Nos contratos de participação financeira para a aquisição de linha telefônica, o Valor Patrimonial da Ação (VPA) é apurado com base no balancete do mês da integralização."
+Dessa forma, o valor utilizado no cálculo apresentado pela Contadoria Judicial (fl. 150) está correto, pois utilizou o exato valor da ação correspondente ao período. Salienta-se que a recorrente não carreou ao caderno recursal nenhum documento hábil a comprovar que o VPA apontado no recurso (diverso do informado pela Corregedoria Geral de Justiça deste Tribunal) é o correto para o período.
+ ..
+Assim, necessário manter intacta a decisão agravada neste ponto, porquanto, correto o valor patrimonial utilizado para o período da contratação."
+Dessa forma, o acolhimento da pretensão recursal acerca da alegada existência de cálculos excessivos demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (2015). DEFERIMENTO DE PROCESSAMENTO DE RECUPERAÇÃO JUDICIAL. JUÍZO DE ORIGEM. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO COMPROVADA. ALEGADO EXCESSO DE EXECUÇÃO. REEXAME DE PROVAS CARREADAS AOS AUTOS. APLICAÇÃO DA SÚMULA 7/STJ. ACÓRDÃO RECORRIDO. CRITÉRIOS DE AFERIÇÃO DO QUANTUM DA EXECUÇÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. INCIDÊNCIA DA SÚMULA 284/STF. RECURSO DESPROVIDO.
+(AgInt no AREsp 1118981/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 06/02/2018, DJe 16/02/2018)
+3. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
