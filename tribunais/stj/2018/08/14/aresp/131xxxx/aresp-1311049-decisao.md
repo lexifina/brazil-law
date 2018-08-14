@@ -1,0 +1,37 @@
+DECISÃO
+1. Trata-se de agravo interposto por FUNDSSEL COMÉRCIO DE METAIS EIRELI, contra decisão que não admitiu o seu recurso especial, por sua vez manejado com fulcro no art. 105, III, "a" e "c", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado do Espírito Santo, assim ementado (fl. 355):
+APELAÇÃO CÍVEL E RECURSO ADESIVO. PROCESSUAL CIVIL E CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE AUTOMOBILÍSTICO. PREPOSTO. RESPONSABILIDADE OBJETIVA DO EMPREGADOR. INEXISTÊNCIA DE CULPA EXCLUSIVA DA VITIMA E CASO FORTUITO EXTERNO. LUCROS CESSANTES. PROVA SUFICIENTE. SISTEMA DE VALORAÇÃO RACIONAL DAS PROVAS. DANOS MORAIS. CRITÉRIO BIFÁSICO. DEDUÇÃO DO SEGURO [NOME]. MORTE, INVALIDEZ PERMANENTE E DEPESAS MÉDICAS. IMPOSSIBILIDADE
+1. Comprovada a culpa do preposto, a responsabilidade do empregador é objetiva, bastando a relação funcional do evento danoso com o trabalho exercido (art. 932, III c/c 933, CC). Precedentes STJ.
+2. Não comprovada a culpa exclusiva da vitima ou a ocorrência de caso fortuito externo, mantém- se a responsabilidade objetiva do empregador pelos atos do seu empregado.
+3. O direito processual brasileiro adotou o sistema de valoração racional da prova em que não um valor a priori de determinada prova, devendo o juiz valorá-la e atribuir o seu peso de acordo com as circunstâncias do caso concreto.
+4. Os lucros cessantes podem ser comprovados mediante prova documental e oral, não havendo prova tarifada para a sua respectiva comprovação.
+5. A quantificação dos danos morais deve respeitar um critério bifásico. Precedentes STJ.
+6. Impossibilidade de dedução do valor referente ao seguro obrigatório quando não for o caso de morte, invalidez permanente ou despesas médicas. Precedentes STJ.
+Nas razões do recurso especial (fls. 371-396), além de divergência jurisprudencial, aponta a parte recorrente ofensa ao disposto nos arts. 5º e 6º, do Decreto 61.867/67 e art. 3º da Lei nº 6.194/74.
+Em apertada síntese, sustenta que o seguro obrigatório deve ser deduzido do valor da indenização.
+Contrarrazões ao recurso especial às fls. 402-409.
+É o relatório.
+DECIDO.
+2. No que se refere ao pedido de dedução do seguro [NOME] do valor da indenização, a Corte de origem assentou (fl. 363):
+O C. STJ tem entendimento fixado na Súmula nº. 246 de que "o valor do seguro obrigatório deve ser deduzido da indenização judicialmente fixada".
+Ocorre, no entanto, que os precedentes que deram origem à súmula têm em comum a circunstância fática específica de que o caso era de morte da vítima.
+Neste sentido, inclusive, o C. STJ já fixou que a dedução do seguro obrigatório da indenização judicialmente fixada é possível desde que os danos derivem de morte, invalidez permanente ou despesas médicas:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. [NOME]. DEDUÇÃO DA INDENIZAÇÃO JUDICIALMENTE FIXADA A TÍTULO DE DANO MORAL. POSSIBILIDADE, DESDE OUE O DANO EXTRAPATRIMONIAL DERIVE DE MORTE, INVALIDEZ PERMANENTE OU DESPESAS MÉDICAS E SUPLEMENTARES. DECISÃO MANTIDA. I. "O art. 3º da Lei nº 6.194/74 não limita a cobertura do seguro obrigatório apenas aos danos de natureza material. Embora especifique quais os danos indenizáveis - morte, invalidez permanente e despesas de assistência médica e suplementares - não há nenhuma ressalva quanto ao fato de não estarem cobertos os prejuízos morais derivados desses eventos." (REsp n. 1.365.540/DF, Relatora Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 23/4/2014, DJe 5/5/2014.) 2. No caso concreto, o dano moral reconhecido pelo Tribunal de origem não está coberto pelo seguro [NOME], razão pela qual não é possível falar em dedução de seu valor do montante indenizatório.3. Agravo regimental desprovido. (AgRg nos EDcl no REsp I550157/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 01/09/2016, DJe 06/09/2016)
+Como o presente caso não trata de nenhuma das hipóteses versadas nos precedentes que deram origem súmula do C.STJ, é o caso de aplicar a técnica de distinção a que se refere o art. 489, § 1º, VI, do CPC/2015.
+Destarte, deve ser rejeitado este argumento.
+A convicção a que chegou o acórdão de que o dano sofrido pela recorrida não é de caráter permanente ou incapacitante para a atividade laborativa decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz do enunciado 7 da Súmula desta Corte.
+A propósito, confira:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO. [NOME]. NÃO OCORRÊNCIA DE INVALIDEZ PERMANENTE. DANO ESTÉTICO EM GRAU MÍNIMO. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. O Tribunal de origem, com fundamento em laudo pericial e no conjunto probatório dos autos, concluiu que o autor não faz jus ao pagamento do Seguro [NOME], uma vez que não foi acometido de invalidez permanente, mas de dano estético em grau mínimo. Nesse contexto, afigura-se inviável rever tal conclusão, tendo em vista o óbice da Súmula 7/STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 995.012/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/12/2016, DJe 06/02/2017)
+____________
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. [NOME]. DEDUÇÃO DA INDENIZAÇÃO JUDICIALMENTE FIXADA A TÍTULO DE DANO MORAL. POSSIBILIDADE, DESDE QUE O DANO EXTRAPATRIMONIAL DERIVE DE MORTE, INVALIDEZ PERMANENTE OU DESPESAS MÉDICAS E SUPLEMENTARES. DECISÃO MANTIDA.
+1. "O art. 3º da Lei nº 6.194/74 não limita a cobertura do seguro obrigatório apenas aos danos de natureza material. Embora especifique quais os danos indenizáveis - morte, invalidez permanente e despesas de assistência médica e suplementares - não há nenhuma ressalva quanto ao fato de não estarem cobertos os prejuízos morais derivados desses eventos." (REsp n. 1.365.540/DF, Relatora Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 23/4/2014, DJe 5/5/2014.)
+2. No caso concreto, o dano moral reconhecido pelo Tribunal de origem não está coberto pelo seguro [NOME], razão pela qual não é possível falar em dedução de seu valor do montante indenizatório.
+3. Agravo regimental desprovido.
+(AgRg nos EDcl no REsp 1550157/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 01/09/2016, DJe 06/09/2016)
+3. Além disso, verifica-se que a recorrente não impugna o argumento de que a dedução do seguro obrigatório da indenização judicialmente fixada não é cabível no presente caso, uma vez que o dano sofrido pela recorrida não é de caráter permanente ou incapacitante para a atividade laborativa. Assim, a subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+4. Por fim, no que concerne ao indicado dissídio pretoriano, observo que a recorrente não cumpriu com o disposto no § 2º do art. 255 do RISTJ, pois a demonstração da divergência não se satisfaz com a simples transcrição de ementas, mas com o confronto entre trechos do acórdão recorrido e das decisões apontadas como divergentes, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados.
+5. Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
