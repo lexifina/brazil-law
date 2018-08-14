@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial sob o fundamento de incidência da Súmula n. 7 do STJ (e-STJ fls. 528/529).
+O Tribunal de origem negou provimento ao agravo do recorrente, em julgado que recebeu a seguinte ementa (e-STJ fl. 462):
+AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA R. DECISÃO PELA QUAL FOI JULGADA IMPROCEDENTE IMPUGNAÇÃO APRESENTADA PELA CASA BANCÁRIA - CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS - ACORDO CELEBRADO EM EXECUÇÃO PRIMITIVA QUE OS ESTIPULAVA - HONORÁRIOS SUCUMBENCIAIS - ALEGAÇÃO DE INCORREÇÃO - PEDIDO DE REFORMA - ALEGAÇÃO DE VIOLAÇÃO DO DISPOSTO NO ARTIGO 843, DO CÓDIGO CIVIL, ART. 5º, XXXVI, DA CONSTITUIÇÃO FEDERAL, E ART. 21, CAPUT, E SEU PARÁGRAFO ÚNICO, DA LEI 8.906/94 - APLICAÇÃO DO DISPOSTO NO ART. 252, DO REGIMENTO INTERNO DO E. TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - REAPRECIAÇÃO PORMENORIZADA DA R.DECISÃO QUE IMPLICARÁ EM DESNECESSÁRIA REPETIÇÃO DOS ADEQUADOS FUNDAMENTOS DO PENSAMENTO MONOCRÁTICO - SIMPLES RATIFICAÇÃO DOS TERMOS DA R. DECISÃO DE 1º GRAU, QUE SE MOSTRA SUFICIENTEMENTE MOTIVADA - RECURSO NÃO PROVIDO.
+Os embargos declaratórios opostos foram rejeitados (e-STJ fls. 495/501).
+No recurso especial (e-STJ fls. 504/518), com fundamento no art. 105, III, alínea "a", da CF, o recorrente apontou violação do disposto no art. 535, II, do CPC/1973.
+Indicou ofensa aos arts. 558, caput, e 475-O, III, do CPC/1973, insurgindo-se contra a decisão que determinou o levantamento de dinheiro sem caução idônea, podendo acarretar lesão grave e de difícil reparação ao recorrente.
+Considerou infringidos os arts. 473, caput e parágrafo único, e 843 do CC/2002 e 21, parágrafo único, da Lei n. 8.906/1994, destacando que o acordo firmado entre o recorrente e o espólio de [NOME] não atingiu o recorrido [NOME], pois ele não participou do acordo celebrado nos autos primitivos. Alegou que os honorários do agravado [NOME] [NOME] [NOME] teriam sido quitados.
+Não se ofereceram contrarrazões.
+No agravo (e-STJ fls. 532/546), foram refutados os fundamentos da decisão agravada e alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O presente recurso foi interposto contra decisão publicada na vigência do CPC/1973, razão pela qual serão adotados os requisitos de admissibilidade recursal nele previstos, nos termos do Enunciado Administrativo n. 2 do Superior Tribunal de justiça.
+No que concerne à alegada ofensa ao disposto no art. 535, II, do CPC/1973, o recorrente, no recurso especial, deixou de tecer considerações a respeito da alegada violação, limitando-se a relacionar genericamente o referido dispositivo (e-STJ fls. 511/512), sem particularizar os pontos em que, de fato, haveria afronta no acórdão recorrido.
+É pacífico o entendimento desta Corte de que, se o recorrente não demonstra em que consiste a alegada afronta ao normativo, frustra-se a compreensão da controvérsia, caracterizando deficiência na fundamentação recursal. Nesse ponto, é inafastável a incidência da Súmula n. 284 do STF, por analogia.
+Confira-se o precedente:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO MONITÓRIA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 7/STJ. AGRAVO IMPROVIDO. 1. Na interposição de recurso especial, com fundamento na alínea a do permissivo constitucional, não basta a simples menção da norma federal tida por violada, sendo necessária a demonstração clara e precisa da ofensa em que teria incorrido o v. aresto hostilizado, sob pena de incidência da Súmula 284 do eg. STF.  ..  4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 614.529/ES, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/6/2015, DJe 3/8/2015.)
+Não se conhece da suposta violação aos arts. 558, caput, e 475-O, III, do CPC/1973.
+A tese apresentada pelo recorrente, de lesão grave e de difícil reparação, decorrente do levantamento de dinheiro sem caução idônea, não foi tratada na origem, carecendo assim de prequestionamento e sofrendo, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+O Tribunal de origem se manifestou assim quanto aos arts. 473, caput e parágrafo único, e 843 do CC/2002 e 21, parágrafo único, da Lei n. 8.906/1994 (e-STJ fl. 466):
+Assim, corretamente decidiu o Juízo quando do julgamento da improcedência da impugnação apresentada pela Casa Bancária, sendo importante ressaltar que o Advogado da instituição financeira, ora exequente, não fez parte do acordo extrajudicial celebrado entre Banco do Brasil S.A, e Espólio de Carlos (fls310/328), merecendo destaque o conteúdo da cláusula 13ª (décima terceira), do mencionado contrato, pelo qual a Casa Bancária assumiu a responsabilidade pela quitação de eventuais valores a título de honorários.
+Na hipótese dos autos, o Tribunal de origem, com base nas provas carreadas aos autos e na interpretação do acordo celebrado, concluiu ser obrigação do recorrente pagar os honorários sucumbenciais. Alterar tal conclusão demandaria nova interpretação de cláusulas contratuais, além de reexame de fatos e provas, providências inviáveis em sede de recurso especial, a teor do disposto nas Súmulas n. 5 e 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
