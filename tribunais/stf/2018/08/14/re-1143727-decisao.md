@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à inexistência de novo precatório, ressaltando a necessidade de aditamento do título apenas para complementar o valor remanescente. No extraordinário, o recorrente aponta a violação dos artigos 100, § 8º, da Constituição Federal e 97, § 15, do Ato das Disposições Constitucionais Transitórias. Defende a impossibilidade de expedição de precatório complementar para pagamento do saldo apurado. Aponta não haver no processo erro aritmético ou inexatidão de cálculo do precatório. Afirma incabível a expedição de simples ofício para pagamento do saldo pelo exequente.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes trechos:
+    A Emenda Constitucional nº 62/2009 determina que não é mais necessário o cancelamento do precatório anterior porque, o crédito passa a ser inserido automaticamente no regime especial, de acordo com o prescrito no § 15, do artigo 97 do ADCT. Assim, não se expede um novo ofício requisitório, somente se comunica por ofício ao DEPRE, para que seja assegurado ao exequente o valor de seu crédito. Não há, no caso dos autos, um novo precatório, trata-se, na verdade, de um débito devedor insuficiente e sonegado pela Fazenda do Estado. O precatório já foi formado, todavia, o débito não está inteiramente pago.
+    […]
+    Ora, se há diferenças a serem pagas, conclui-se sem esforço que o precatório original não foi quitado e não tendo sido integralmente paga a dívida, o Estado está descumprindo a ordem cronológica e, ainda, ordem judicial sujeitando-se não só ao sequestro do numerário suficiente para satisfação do crédito, como também, à intervenção federal. O que se pretende no presente caso concreto é o pagamento de saldo devedor que não foi honrado pela Fazenda do Estado de São Paulo, de precatório já expedido. Não há, portanto, que se cogitar de novo precatório, mas apenas o direito de ver requisitada a diferença sonegada, observando-se o mesmo precatório já formado, o que bem fez o juízo monocrático ao determinar a expedição do aditamento ao precatório original.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 14 de agosto de 2018.
+Ministro MARCO AURÉLIO
+Relator
