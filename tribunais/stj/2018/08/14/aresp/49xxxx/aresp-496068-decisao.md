@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto pela CASA BAHIA COMERCIAL LTDA., em que a agravante pretende a admissão de recurso especial que desafia acórdão assim ementado (e-STJ fls. 290):
+AGRAVO DE INSTRUMENTO - EMBARGOS À EXECUÇÃO - FASE DE CONHECIMENTO - PENHORA - IMPOSSIBILIDADE.
+- O art. 741 do Código de Processo Civil é taxativo no que tange a matéria tratada nos Embargos à Execução contra a Fazenda Pública.
+- O procedimento adotado nos Embargos à Execução deve ser o procedimento comum, seguindo normalmente o rito ordinário.
+- No que diz respeito à penhora dos ativos e patrimônio da parte, esta não poderá ser deferida, haja vista que os Embargos à Execução encontram-se em fase de conhecimento.
+Foram rejeitados os aclaratórios (e-STJ fls. 332/336).
+No apelo nobre (e-STJ fls. 339/355), a recorrente apontou violação dos arts. 535 do CPC/1973, 4º, § 3º, da LEF e 133 e 201 do CTN. Sustentou, em resumo: (a) a ilegitimidade passiva para responder a execução fiscal; (b) o benefício de ordem em favor do terceiro responsável, devendo ser excutido, por primeiro, os bens do devedor principal, de modo que cabe a substituição da penhora de dinheiro da recorrente para a penhora de dinheiro da empresa devedora.
+Contrarrazões foram apresentadas às e-STJ fls. 362/365.
+O Tribunal de origem obstou o recurso especial por entender que não há a alegada violação do art. 535 do CPC/1973 e que incidem as Súmula 282 e 283 do STF (e-STJ fls. 367/370), não concordando a agravante com essa fundamentação (e-STJ fls. 373/405).
+Contraminuta foi apresentada às e-STJ fls. 409/411.
+Passo a decidir.
+Conforme relatado, o presente recurso especial ataca acórdão proferido em sede de agravo de instrumento, que manteve o indeferimento do pedido da recorrente de substituição de penhora por bens da devedora originária, o qual foi deduzido ao argumento principal que a sua responsabilidade tributária como sucessora, se existente, seria subsidiária, comportando benefício de ordem.
+A Corte estadual, como razão de decidir, assentou: "no que diz respeito ao pedido da agravante de penhora dos ativos e patrimônio do grupo Onogás S/A Comércio e Indústria, entendo que esse não poderá ser deferido neste momento processual, principalmente porque foi formulado durante a fase de conhecimento dos Embargos à Execução" (e-STJ fls. 295).
+Dito isso, registro que, em consulta ao sítio do Tribunal de origem na internet (www.tjmg.jus.br), constatei que os embargos à execução fiscal (Processo n. 0297745-07.2011.8.13.0702), em que surgiu o incidente processual discutido neste recurso especial, relativo à penhora, já foram julgados parcialmente procedentes, e a sentença reconheu: (i) a "sucessão tributária prevista no art. 133, I, do CTN, devendo a autora ser considerada responsável solidária pelos débitos correspondentes aos PATs nºs 03.000153758-59, 03.000119658-05, 03.000119657-24, 03.000153755-14, 03.000157156-84, 03.000153757-78, 03.000147700-61, 03.0001433371-27, 03.00147702-23, 03.000147701-42"; (ii) "a ausência de responsabilidade tributária por sucessão da embargante quanto ao débitos decorrentes dos PATs nºs 03.000147699-00, 03.000133549-35, 03.000153754-41, 03.000119655-62, 03.00015971-36, 03.000125511-33, 03.000153753-61, 03.000133548-54, 03.000128505-21".
+Nesse contexto, em que decidida a responsabilidade tributária por sentença, eventual irresignação recursal acerca do tema deve ser apresentada nos autos principais dos embargos à execução fiscal, revelando patente a perda de objeto do presente apelo nobre.
+Ante o exposto, JULGO PREJUDICADO o recurso (art. 34, XI, do RISTJ).
+Publique-se. Intimem-se.
