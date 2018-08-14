@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto por MAISON INCORPORAÇÃO E EDIFICAÇÃO SPE LTDA. E OUTRO contra decisão que negou seguimento ao recurso especial, fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado em face de acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fl. 527):
+APELAÇÃO CÍVEL. PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. LEGITIMIDADE. CASO FORTUITO E FORÇA MAIOR. CLÁUSULA PENAL MORATÓRIA. LUCROS CESSANTES. CUMULAÇÃO.
+1. A empresa co-responsável pela execução da obra tem legitimidade para responder pelos prejuízos causados pelo atraso na sua conclusão.
+2. A alegada ocorrência de chuvas, greve, carência de mão de obra e de insumos, por serem previsíveis e inerentes aos riscos da atividade, não constituem caso fortuito nem força maior.
+3. Não se justifica a redução de cláusula penal moratória devida pela construtora, se não evidenciada a onerosidade excessiva do valor previsto.
+4. São devidos lucros cessantes pela privação do uso do imóvel, sem prejuízo da multa moratória.
+Os embargos de declaração opostos foram rejeitados (fls. 548/555).
+A agravante sustenta, nas razões de recurso especial, ofensa aos artigos 535, I e II, do Código de Processo Civil de 1973 e 413 e 416, parágrafo único, do Código Civil, alegando a ocorrência de negativa de prestação jurisdicional e, no mérito, que a multa contratual foi estipulada de forma exorbitante. Aduziu, ainda, a existência de dissídio jurisprudencial em relação à impossibilidade de cumulação da cláusula penal e dos lucros cessantes.
+Ocorre que a definição "acerca da possibilidade de cumulação ou não da indenização por lucros cessantes com a cláusula penal, nos casos de inadimplemento do vendedor em virtude do atraso na entrega de imóvel em construção objeto de contrato ou promessa de compra e venda" foi afetada pela Segunda Seção ao rito dos Recursos Representativos de Controvérsia nos autos dos Recursos Especiais 1.635.428/SC e 1.498.484/DF (Tema 970), ainda não julgados, com determinação de suspensão nacional de todos os processos pendentes, individuais ou coletivos.
+Desse modo, caracterizada a identidade de questão de direito submetida à sistemática dos recursos repetitivos, devem ser devolvidos os autos ao Tribunal de origem, nos termos do artigo 256, L, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+Em face do exposto, determino a devolução dos autos ao Tribunal de origem para aguardar, nos termos do inciso II do artigo 1.037 do CPC/2015, a orientação definitiva desta Corte a respeito do tema e, após, proceder em conformidade com os comandos dos artigos 1.040 e 1.041 do CPC/2015.
+Intimem-se.
