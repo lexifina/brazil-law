@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial interposto por BRADESCO SAÚDE S.A. com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Plano de Saúde - Recusa ao fornecimento de medicamento dito experimental e não regulamentado pela ANS Medicamento "Vismodegibm", destinado a tratamento contra [NOME] (CID C, 44) - Inteligência do Código de Defesa do Consumidor - Aplicação das Súmulas 95 e 102 do Tribunal de Justiça do Estado de São Paulo - Abusividade configurada - Indicação do tratamento adequado cabe ao médico especialista - Precedentes do STJ - Honorários advocatícios devidos ao patrono do apelada arbitrados com espeque legal - Sentença de procedência mantida Recurso desprovido" (fl. 318 e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso, o recorrente sustenta, além da divergência jurisprudencial, violação dos artigos 1.022 do Código de Processo Civil de 2015; 10, I, V, VI e IX, da Lei 9.656/1998; 10, 12, 16, I, II, VI, VII e suas alíneas, e 66, da Lei nº 6.360/1976; 6º, I, "a", VII § 1º, I, da Lei nº 8.080/1990; 6º, 7º, I, VIII, IX, XV, XVIII, XXII e XXV, 8º, § 1º, I, da Lei nº 9.782/1999 e 273, § 1º-B, I, do Código Penal.
+Aduz que houve negativa de prestação jurisdicional e que o ordenamento jurídico proíbe os planos de saúde de cobrir medicamentos não registrados pela Anvisa.
+Foram apresentadas contrarrazões às fls. 412/428 (e-STJ). O recurso foi admitido (fls. 429/431 e-STJ).
+É o relatório.
+DECIDO.
+Inicialmente, verifica-se que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ), sendo esta a legislação aplicável.
+No que diz respeito à alegada violação do art. 1.022 do CPC/2015, no recurso especial há somente alegação genérica, sem especificação das teses que supostamente foram violadas pelo acórdão recorrido.
+Ante a deficiente fundamentação do recurso nesse ponto, incide a Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Quanto ao mais, a decisão merece prosperar.
+A jurisprudência desta Corte Superior sufragou o entendimento de que o art. 10, V, Lei nº 9.656/1998 expressamente autoriza a exclusão de medicamentos importados não nacionalizados, além de que a determinação do fornecimento dos fármacos estrangeiros, sem o registro no órgão de fiscalização competente, implica ofensa ao art. 12 da Lei nº 6.360/1976 (REsp 1.663.141/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 3/8/2017, DJe 8/8/2017).
+Nesse sentido, confiram-se outros julgados:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. LOCATÁRIO. DIREITO DE PREFERÊNCIA. PERDAS E DANOS. REGISTRO DO CONTRATO. DESNECESSIDADE. DETERMINAÇÃO DE RETORNO DOS AUTOS PARA PROSSEGUIMENTO DO JULGAMENTO.
+1. O pedido de perdas e danos decorrente de inobservância do direito de preferência do locatário na aquisição do imóvel não está condicionado ao prévio registro do contrato de locação, nos termos do art. 33 da Lei n. 8.245/91.
+2. Observação ao Tribunal de origem para que analise, na renovação do julgamento do recurso de apelação, a questão da aplicabilidade da Lei do Inquilinato ao contrato de locação celebrado entre as partes.
+3. Agravo regimental a que se nega provimento."
+(AgRg nos EDcl no REsp 1.300.580/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/03/2016, DJe 16/03/2016)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DIREITO DE PREFERÊNCIA. AVERBAÇÃO DO CONTRATO NO REGISTRO IMOBILIÁRIO. PRESCINDIBILIDADE.
+1. Nos termos da jurisprudência desta Corte, a inobservância do direito de preferência do locatário na aquisição do imóvel enseja o pedido de perdas e danos, que não se condiciona ao prévio registro do contrato de locação na matrícula imobiliária. Precedentes.
+2. Agravo regimental não provido."
+(AgRg no REsp 1.356.049/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 25/02/2014, DJe 28/02/2014)
+"PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. FORNECIMENTO DE MEDICAMENTO IMPORTADO NÃO REGISTRADO NA ANVISA. IMPOSSIBILIDADE. PRECEDENTES. JULGAMENTO DO RECURSO SOB FUNDAMENTO JURÍDICO DIVERSO DO SUSTENTADO PELAS PARTES. ADMISSIBILIDADE. ART. 257, RISTJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO NÃO PROVIDO.
+1. Vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Nos termos do art. 257 do RISTJ, o Relator está autorizado a adotar fundamento diverso do invocado pelo recorrente, uma vez que, admitido o recurso especial, aplica-se o direito à espécie.
+Precedentes.
+3. A eg. Terceira Turma desta Corte, no julgamento do REsp nº 874.976/MT, de relatoria do em. Min. JOÃO OTÁVIO DE NORONHA, firmou orientação de que: a) a prestadora de serviços de plano de saúde está, em princípio, obrigada ao fornecimento de tratamento de saúde a que se comprometeu por contrato, pelo que deve fornecer os medicamentos necessários à recuperação da saúde do contratado; e, b) entretanto, essa obrigação não se impõe na hipótese em que o medicamento recomendado seja de importação e comercialização vetada pelos órgãos governamentais, porque o Judiciário não pode impor a operadora do plano de saúde que realize ato tipificado como infração de natureza sanitária, previsto no art. 66 da Lei nº 6.360/76, pois isso significaria, em última análise, a vulneração do princípio da legalidade previsto constitucionalmente.
+4. Conforme art. 105 da CF, não compete ao STJ analisar eventual ofensa a preceitos de ordem constitucional, ainda que para fins de prequestionamento.
+5. As beneficiárias não apresentaram argumento novo capaz de modificar a conclusão adotada, que se apoiou em entendimento aqui consolidado para dar parcial provimento ao recurso especial manejado pela operadora do plano de saúde.
+6. Em razão da improcedência do presente recurso, e da anterior advertência em relação à incidência do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 1% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+7. Agravo interno não provido, com imposição de multa."
+(AgInt no AREsp 966.873/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 28/03/2017, DJe 18/04/2017)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 126/STJ. NÃO APLICAÇÃO. PLANO DE SAÚDE. FORNECIMENTO DE MEDICAMENTO. IMPORTAÇÃO DE MEDICAMENTO NÃO REGISTRADO PELA ANVISA. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. "O aresto que se funda num único fundamento utilizando-se de disposições constitucionais e infraconstitucionais não se adequa ao aresto que tem fundamentos distintos de ambas as índoles a exigir, como requisito de admissibilidade, a interposição simultânea de Recurso Especial e Recurso Extraordinário, conjurando a aplicação da Súmula n.º 126, do STJ". (REsp 931.060/RJ, Primeira Turma, julgado em 17/12/2009, DJe 19/03/2010)
+2. A prestadora de serviços de plano de saúde está obrigada ao fornecimento de tratamento de saúde a que se comprometeu por contrato, pelo que deve fornecer os medicamentos necessários à recuperação da saúde do contratado. Contudo, essa obrigação não se impõe na hipótese em que o medicamento recomendado seja de importação e comercialização vetado pelos órgãos governamentais.
+3. Não obstante a possibilidade de pessoas físicas obterem autorização da Anvisa em caráter excepcional para importação de medicamento não registrado, desde que não seja expressamente proibido ou proscrito, não é possível impor ao plano de saúde o fornecimento desse tipo de fármaco, sob pena de prática de ato tipificado como infração de natureza sanitária, conforme art. 66 da Lei n. 6.360/1976. Precedentes desta Corte.
+4. Agravo interno não provido."
+(AgInt no AREsp 988.070/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/03/2017, DJe 04/04/2017)
+"DIREITO CIVIL E DO CONSUMIDOR. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. RECUSA À COBERTURA DE TRATAMENTO QUIMIOTERÁPICO. PLANO DE SAÚDE. EMBARGOS DE DECLARAÇÃO. OMISSÃO. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FORÇA OBRIGATÓRIA DO CONTRATO. BOA FÉ OBJETIVA. MEDICAMENTO IMPORTADO SEM REGISTRO NA ANVISA. FORNECIMENTO. IMPOSSIBILIDADE.
+1. Ação de obrigação de fazer ajuizada em 31.10.2013. Recurso especial atribuído ao gabinete em 25.08.2016. Julgamento: CPC/73.
+2. A questão posta a desate nestes autos, consiste em aferir se é abusiva cláusula contratual de plano de saúde, que restringe o fornecimento de medicamento importado sem registro na ANVISA.
+3. Ausente o vício do art. 535, II do CPC/73, rejeitam-se os embargos de declaração.
+4. A ausência de decisão acerca dos argumentos invocados pela recorrente e dos dispositivos legais indicados como violados, apesar da interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. Na hipótese, além do contrato firmado entre as partes, a Lei 9.656/98 autoriza, expressamente, a possibilidade de exclusão do plano-referência o "fornecimento de medicamentos importados não nacionalizados".
+6. A manutenção da higidez do setor de suplementação privada de assistência à saúde, do qual a recorrente faz parte, depende do equilíbrio econômico financeiro decorrente da flexibilização das coberturas assistenciais oferecidas que envolvem a gestão dos custos dos contratos de planos de saúde.
+7. Determinar judicialmente o fornecimento de fármacos importados, sem o devido registro no órgão fiscalizador competente, implica em negar vigência ao art. 12 da Lei 6.360/76.
+8. Recurso especial conhecido parcialmente, e nessa parte, provido."
+(REsp 1.641.896/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 14/03/2017, DJe 22/03/2017)
+Ante o exposto, dou provimento ao recurso especial a fim de julgar improcedente o pedido autoral, nos termos do artigo 487, I, do Código de Processo Civil de 2015.
+Invertida a sucumbência, deverá a parte ora recorrida arcar com o pagamento das despesas processuais e honorários advocatícios, estes fixados em 10% (dez por cento) sobre o valor atualizado da causa.
+Publique-se.
+Intimem-se.
