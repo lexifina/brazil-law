@@ -1,0 +1,38 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. SUBSCRIÇÃO DE AÇÕES. CUMPRIMENTO DE SENTENÇA. VALOR PATRIMONIAL DA AÇÃO. CRITÉRIO PARA APURAÇÃO. TÍTULO EXECUTIVO JUDICIAL OMISSO. BALANCETE MENSAL. SÚMULA 371/STJ. POSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Consoante entendimento desta Corte Superior, se a decisão que transita em julgado não faz nenhuma menção ao critério a ser adotado para a apuração do valor patrimonial da ação, torna-se possível a fixação do critério estabelecido na Súmula 371/STJ, na fase executiva, sem ensejar ofensa à coisa julgada.
+2. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (Relator):
+Trata-se de agravo interno interposto por ELAINE JONER e [NOME] contra decisão que conheceu do agravo para negar provimento ao recurso especial em razão da não ocorrência da alegada omissão no acórdão recorrido e por estar o entendimento adotado pelo eg. Tribunal de origem em consonância com a jurisprudência desta Corte Superior quanto à aplicação do critério do balancete mensal para a apuração do valor patrimonial da ação da companhia telefônica.
+Em suas razões recursais, os agravantes sustentam, em síntese, que "há coisa julgada material na espécie e qualquer modificação do quanto decidido acarreta violação aos artigos 502 e 503 do CPC/2015".
+Requerem, ao final, a reforma do decisum e, alternativamente, "que seja, ao menos, preservado o já reconhecido direito aos dividendos/JSCP da ações CRT/BrT (telefonia fixa) com base na quantidade de ações apuradas na demanda anterior" (fls. 722-727).
+Devidamente intimada, a parte agravada não se manifestou.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (Relator):
+Cabe examinar, no presente agravo interno, tão somente a parte impugnada da decisão hostilizada, permanecendo incólumes os fundamentos não refutados pela parte agravante.
+Quanto ao critério para apuração do valor patrimonial da ação, o eg. Tribunal de origem consignou:
+"Com efeito, o patrimônio líquido da sociedade para o efeito de apuração do valor patrimonial da ação (VPA) e verificação do número de ações nos contratos de participação financeira para a aquisição de linha telefônica é aquele aferido por balancete mensal do mês de integralização do capital. O mês da integralização é aquele em que o contratante efetuou o pagamento de quota única ou da primeira parcela do capital investido, conforme o caso.
+No caso dos autos, a decisão recorrida fixou como parâmetro o Valor Patrimonial da Ação utilizado nos cálculos da contadoria que não adotou o balancete mensal.
+A sentença foi omissa acerca do VPA a ser utilizado, determinando apuração em liquidação de sentença, e se impõe a observância do VPA constante do relatório de informações cadastrais de fls. 338-339." (fl. 525)
+Nesse contexto, verifica-se que o acórdão recorrido está em consonância com o entendimento desta Corte de que, se a decisão que transita em julgado não faz nenhuma menção ao critério a ser adotado para a apuração do valor patrimonial da ação, torna-se possível a fixação do critério estabelecido na Súmula 371/STJ, na fase executiva, sem ensejar ofensa à coisa julgada, inclusive quanto ao cálculo dos dividendos e juros sobre capital próprio.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR AÇÕES. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. SÚMULA 83 DO STJ. PRECLUSÃO. MATÉRIA QUE DEMANDA REEXAME DE PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do art. 1.022 do CPC/2015. Isso porque, embora rejeitados os embargos de declaração, todas as matérias foram devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. O acórdão recorrido está em conformidade com o entendimento do STJ no sentido de que, não tendo sido fixado pelo título judicial exequendo o critério de cálculo do valor patrimonial da ação, perfeitamente viável a adoção, em sede de cumprimento de sentença, dos balancetes mensais como critério de apuração do valor patrimonial da ação, como ocorre no presente caso. Incidência da Súmula 83 do STJ.
+3. O acolhimento da pretensão recursal no tocante a não ocorrência da preclusão demandaria alteração das premissas fático - probatórias estabelecidas pelo acórdão recorrido, o que é vedado em razão do óbice da Súmula 7 do STJ.
+4. Agravo interno não provido." (AgInt no AREsp 1168860/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/04/2018, DJe 02/05/2018, g.n.)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO EM RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. COMPLEMENTAÇÃO ACIONÁRIA. TÍTULO EXECUTIVO JUDICIAL. VALOR PATRIMONIAL DA AÇÃO NA DATA DA CONTRATAÇÃO. AUSÊNCIA DE FIXAÇÃO DO CRITÉRIO DE CÁLCULO. VIABILIDADE DE APLICAÇÃO DO BALANCETE MENSAL EM FASE DE CUMPRIMENTO DE SENTENÇA. NÃO CONFIGURAÇÃO DE OFENSA À COISA JULGADA.
+1. Embargos de declaração recebidos como agravo interno em face do nítido caráter infringente das razões recursais. Aplicação dos princípios da fungibilidade recursal e da economia processual.
+2. Se a decisão que transita em julgado não faz nenhuma menção ao critério a ser adotado para a apuração do valor patrimonial da ação, torna-se possível sua fixação na fase executiva, sem que isso ofenda os limites da res iudicata.
+3. O título executivo, ao reconhecer o direito à complementação acionária, fez menção apenas à aplicação do VPA vigente na data da contratação, sem, contudo, especificar se este deveria ser calculado com base em balanço aprovado pela Assembleia Geral Ordinária anterior àquela data ou em balancete do mês da respectiva integralização, tampouco explicitou, monetariamente, o VPA ou a quantidade de ações a serem subscritas. Desse modo, não havendo definição do critério de apuração do valor patrimonial da ação no título executivo, a fixação do balancete mensal na fase de cumprimento de sentença não viola a coisa julgada.
+4. Embargos de declaração recebidos como agravo regimental a que se nega provimento." (EDcl no REsp 1348305/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 05/02/2013, DJe 01/03/2013, g.n.)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL CIVIL. BRASIL TELECOM S.A. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. VALOR PATRIMONIAL DA AÇÃO. CRITÉRIO NÃO ESPECIFICADO NO TÍTULO EXECUTIVO. APLICAÇÃO DO BALANCETE MENSAL. SÚMULA Nº 371/STJ. OFENSA À COISA JULGADA. NÃO OCORRÊNCIA.
+1. Não constitui ofensa à coisa julgada a utilização do critério do balancete mensal na fase de cumprimento de sentença quando o título executivo determina a complementação de ações sem estabelecer um critério específico para apuração do valor patrimonial da ação - VPA.
+2. Agravo regimental não provido." (AgRg no REsp 1226600/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 02/02/2012, DJe 07/02/2012, g.n.)
+Assim, estando o acórdão recorrido em harmonia com a orientação firmada nesta Corte Superior, incide, na espécie, o óbice previsto na Súmula 83 do STJ.
+Diante do exposto, nega-se provimento ao agravo interno.
+É como voto.
