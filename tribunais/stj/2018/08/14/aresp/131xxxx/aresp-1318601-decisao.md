@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por COSAN LUBRIFICANTES E ESPECIALIDADES S.A. contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado:
+"APELAÇÃO CÍVEL. EMBARGOS DE TERCEIRO. EXECUÇÃO PROPOSTA CONTRA PESSOA JURÍDICA. PENHORA INCIDENTE SOBRE BEM DE SÓCIO NÃO INCLUÍDO NO POLO PASSIVO DA DEMANDA EXECUTIVA. [NOME] NA MATRÍCULA SEM ATRELAMENTO COM A GARANTIA DA OBRIGAÇÃO EM QUE SE FUNDA A EXECUÇÃO. ATO CONSTRITIVO INSUBSISTENTE. LEVANTAMENTO. SENTENÇA REFORMADA. Ausente qualquer fundamento que legitime a penhora contestada nos presentes embargos, quer por haver recaído sobre bem de titularidade do sócio da pessoa jurídica executada não incluído no polo passivo da execução, quer pelo fato de que as garantias hipotecárias averbadas na matrícula imobiliária não estarem atreladas ao cumprimento da obrigação que lastreia o feito executivo, é de rigor a reforma da sentença, julgando-se procedente o pedido formulado nos embargos de terceiro para reconhecer a irregularidade da penhora e determinar o seu levantamento. RECURSO CONHECIDO E PROVIDO" (e-STJ fls. 1236/1237).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, alega-se violação dos seguintes dispositivos legais com as respectivas teses:
+(i) art. 535 do Código de Processo Civil de 1973, correspondente ao art. 1.022 do Código de Processo Civil de 2015, ao fundamento de que o acórdão combatido teria incorrido em negativa de prestação jurisdicional ao não apreciar aspectos relevantes da demanda suscitados nos embargos declaratórios, e
+(ii) arts. 655, § 1º, e 1.047 do Código de Processo Civil de 1973, correspondentes aos arts. 835, § 3º, e 674, § 2º, III, do Código de Processo Civil de 2015, pois é válida a penhora realizada nos autos.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+O argumento de que o acórdão atacado teria incorrido em negativa de prestação jurisdicional é improcedente.
+De fato, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+ Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANOS MATERIAIS. BENFEITORIAS EM IMÓVEL. EFEITO SUSPENSIVO. REQUISITOS. AUSÊNCIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. POSSIBILIDADE.
+1. A atribuição de efeito suspensivo a recurso especial está circunscrita à presença cumulativa dos requisitos da plausibilidade do direito invocado e no perigo de dano irreparável ou de difícil reparação, que não se fazem presentes na hipótese.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É possível a atribuição de efeitos infringentes aos embargos de declaração quando a alteração da decisão surgir como consequência lógica da correção da omissão, contradição ou obscuridade.
+4. Agravo interno não provido" (AgInt no AREsp 1.070.607/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 25/8/2017 - grifou-se).
+No mais, a penhora foi considerada irregular pelo Tribunal de origem sob os seguintes fundamentos:
+"(..)
+De outro vértice, também não respalda a penhora a hipoteca em segundo grau averbada no R-9 do assento imobiliário em 08.10.1999 (mov.1.4 - p.05).
+Tal garantia hipotecária em segundo grau é proveniente da escritura pública de fls.104/105-TJPR, celebrada entre [NOME] e Esso Brasileira de Petróleo Ltda em 07.10.1999. Por intermédio de tal instrumento, estipulou-se que os imóveis nele descritos (dentre os quais o da matrícula n.º 31050) destinar-se-iam a garantir:
+"todos e quaisquer débitos do "AUTO POSTO 2N LTDA" (..) existentes ou que venham a existir, para com a ESSO e suas subsidiárias (..) independentemente de sua natureza e causa, especialmente perdas e danos oriundos de transações comerciais, indenizações, multas, honorários advocatícios e custas judiciais, enquanto perdurarem as obrigações entre a garantida e a ESSO ou suas subsidiárias. A presente hipoteca garante também eventuais obrigações fiscais da Garantida que, por força da legislação fiscal aplicável, a ESSO venha a ser compelida a pagar (..) tendo em vista que os imóveis dados em hipoteca prestam-se a garantia de débitos eventuais e futuros, o valor da dívida (..) equivale ao preço de venda no mercado do imóvel ora hipotecado, hoje equivalendo a R$ 950.000,00 (novecentos e cinquenta mil reais). A presente hipoteca terá prazo igual aquele necessário ao cumprimento das obrigações contratuais e/ou mercantis assumidas entre a ESSO e a garantida, não podendo ultrapassar ao prazo máximo de 30 (trinta) anos" (f1.105-TJPR - grifos nossos).
+Impende aduzir que a garantia sub examine, nos moldes em que constituída, não está atrelada ao cumprimento da obrigação que lastreia a demanda executiva.
+A título argumentativo, tal escritura pública de hipoteca sequer poderia ser considerada válida, uma vez que não está relacionada a uma dívida específica, vinculando de maneira genérica os hipotecantes durante um prazo de 30 (trinta) anos a todo e qualquer débito do AUTO POSTO 2N LTDA para com a distribuidora recorrida" (e-STJ fls. 1251/1252).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em R$ 2.000,00 (dois mil reais), os quais devem se majorado para R$ 3.000,00 (três mil reais) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
