@@ -1,0 +1,24 @@
+DECISÃO
+ Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão proferido pelo TJSP, assim ementado (e-STJ fl. 843):
+CONTRATO - Crédito rotativo em conta-corrente - JUROS - Ausência de limite - Súmula Vinculante nº 7 do S. T. F. E Súmula 382 do STJ - Possibilidade de capitalização com base na legislação precedente e em razão da natureza do contrato, independente da edição da MP nº 1.963.-17/2000 - Apelação provida.
+Em suas razões (e-STJ fls. 850/862), a recorrente alega ofensa ao art. 4º do Decreto n. 22.626/33 (Lei de Usura), sutentando, em síntese, ilegalidade da capitalização mensal de juros.
+Não foram apresentadas contrarrazões (e-STJ fl. 921).
+Em juízo de reexame (e-STJ fls. 927-931), o Tribunal de origem deixou de exercer a retratação, sob o fundamento de que "não há identidade na questão de direito (artigo 543-C, caput, do CPC), nem na de fato (incorporação no saldo devedor dos juros vencidos, e não pagos, no mês), para ensejar o reexame da questão" (e-STJ fl. 931).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que deve ser exigido o requisito de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+ No que concerne à capitalização mensal dos juros - Temas 233 e 234, a Segunda Seção do Superior Tribunal de Justiça consolidou, nos moldes do art. 543-C do CPC (atual art. 1036 do CPC/2015), o seguinte entendimento:
+BANCÁRIO. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CLÁUSULAS DE CONTRATO BANCÁRIO. INCIDENTE DE PROCESSO REPETITIVO. JUROS REMUNERATÓRIOS. CONTRATO QUE NÃO PREVÊ O PERCENTUAL DE JUROS REMUNERATÓRIOS A SER OBSERVADO. I - JULGAMENTO DAS QUESTÕES IDÊNTICAS QUE CARACTERIZAM A MULTIPLICIDADE. ORIENTAÇÃO - JUROS REMUNERATÓRIOS
+1 - Nos contratos de mútuo em que a disponibilização do capital é imediata, o montante dos juros remuneratórios praticados deve ser consignado no respectivo instrumento. Ausente a fixação da taxa no contrato, o juiz deve limitar os juros à média de mercado nas operações da espécie, divulgada pelo Bacen, salvo se a taxa cobrada for mais vantajosa para o cliente.
+2 - Em qualquer hipótese, é possível a correção para a taxa média se for verificada abusividade nos juros remuneratórios praticados.
+II - JULGAMENTO DO RECURSO REPRESENTATIVO
+- Invertido, pelo Tribunal, o ônus da prova quanto à regular cobrança da taxa de juros e consignada, no acórdão recorrido, a sua abusividade, impõe-se a adoção da taxa média de mercado, nos termos do entendimento consolidado neste julgamento.
+- Nos contratos de mútuo bancário, celebrados após a edição da MP nº 1.963-17/00 (reeditada sob o nº 2.170-36/01), admite-se a capitalização mensal de juros, desde que expressamente pactuada.
+Recurso especial parcialmente conhecido e, nessa parte, provido. Ônus sucumbenciais redistribuídos.
+(REsp 1.112.880/PR, Relatora Ministra Nancy Andrighi, Segunda Seção, DJe de 19/05/2010).
+Entretanto, ao analisar o caso concreto, o Tribunal de origem entendeu ser aplicável a capitalização mensal de juros, independentemente da edição da MP 1.963-17/2000, nos termos da seguinte fundamentação (e-STJ, fl. 847) :
+Vale dizer: para contratos de abertura de crédito rotativo em conta-corrente, a capitalização mensal dos juros é reputada legal antes e depois da edição da MP nº 1.963-17, independente da exibição do instrumento contratual, bastando o exame dos extratos bancários para identificação da concessão de limite, em razão da especificidade do método de lançamento desses encargos Para os outros contratos em que não exista lei específica disciplinando de modo diverso, a capitalização dos juros, desde que pactuada, é permitida após a edição da sobredita MP.
+Assim, tendo em vista o manifesto confronto com o entendimento do STJ, mister seja reformado o acórdão recorrido, com o fim de reconhecer a impossibilidade da capitalização mensal de juros em período anterior à edição da MP 1.963-17/2000 (em vigor como MP 2.170-36/2001).
+Ademais, em razão da ausência de informações a respeito da expressa pactuação da capitalização mensal de juros em período posterior à edição da referida medida provisória, não há possibilidade de revisar o entendimento firmado na Corte de origem, quanto à legalidade da capitalização mensal após a medida provisória, pois seria necessária a análise do conteúdo fático-probatório dos autos, vedada nesta instância pelos enunciados sumulares n. 5 e 7 do Superior Tribunal de Justiça.
+Ante o exposto, DOU PARCIAL PROVIMENTO ao recurso especial, para excluir a incidência da capitalização mensal de juros apenas no período anterior à edição da MP n. 1.963-17/2000 (em vigor como MP n. 2.170-36/2001) .
+Publique-se e intimem-se.
