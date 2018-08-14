@@ -1,0 +1,23 @@
+DECISÃO
+1. Cuida-se de agravo interposto por BANCO BRADESCO S/A contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim ementado:
+AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO - IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA - AUSÊNCIA DE FATOS NOVOS - DECISÃO MANTIDA. I- Limitando-se a agravante a reiterar razões já examinadas em sede de decisão monocrática, mantém-se a decisão impugnada máxime se não demonstrado fato novo ou relevante fundamento a embasar o pedido de reforma. RECURSO CONHECIDO E DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 128, 475-J e 535, II, do CPC de 1973 (art. 1.022, II, do CPC de 2015).
+Contrarrazões ao recurso especial às fls. 726-737.
+É o relatório. DECIDO.
+2. No que tange à violação ao art. 535, II, do CPC de 1973 (art. 1.022, II, do CPC de 2015), a parte recorrente alega omissão no acórdão recorrido sobre o fato de que o recorrente teria rejeitado o valor apontado pela parte recorrida, não havendo preclusão, bem como o fato de que teria apresentado os cálculos que entendia corretos e impugnado a forma de correção e índices apresentados.
+Constata-se que não há falar em violação ao art. 535, II, do CPC de 1973 (art. 1.022, II, do CPC de 2015), pois o eg. Tribunal a quo dirimiu as questões pertinentes ao litígio, com fundamentação clara e suficiente. Cabe destacar que não significa omissão, quando o julgador adota outro fundamento que não aquele perquirido pela parte.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA - AUSÊNCIA DE OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO - REDISCUSSÃO DO JULGADO - DECLARAÇÃO DA COMPETÊNCIA DO JUÍZO FALIMENTAR - PRECEDENTES DO STJ.
+1. Os embargos de declaração, a teor das disposições do art. 1.022 do Código de Processo Civil de 2015, são inviáveis quando inexiste obscuridade, contradição ou omissão na decisão embargada.
+2. Ausência de omissão, contradição, obscuridade ou erro material do acórdão embargado. Recurso dotado de caráter manifestamente infringente. Inexistência de demonstração dos vícios apontados, objetivando à rediscussão da matéria, já repetidamente decida.
+3.(..)
+4. Embargos de declaração rejeitados.(EDcl no AgInt no CC 144.334/RJ, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 24/08/2016, DJe 29/08/2016)
+3. Em relação à violação ao art. 128 do CPC de 1973, a parte recorrente sustenta cerceamento de defesa, uma vez que a Corte local não teria apreciado o pedido alternativo do agravo de instrumento sobre a revisão e redução do valor dos honorários.
+Na espécie, verifica-se que a matéria relativa ao art. 128 do CPC de 1973 não foi objeto de discussão no acórdão recorrido, nem foi objeto dos embargos de declaração opostos pela parte agravante a fim de sanar eventual omissão, carecendo esse tema, portanto, do indispensável prequestionamento, requisito viabilizador do acesso às instâncias especiais. É entendimento assente no Superior Tribunal de Justiça a exigência do prequestionamento da matéria, ainda que a contrariedade tenha surgido no julgamento do próprio acórdão recorrido. Incidem, na espécie, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+4. Quanto à violação ao art. 475-J do CPC de 1973, insurge a parte recorrente contra a aplicação da multa prevista nesse dispositivo legal, ao argumento de que se tratava de execução provisória, pendente de discussão o valor, tendo havido pagamento da quantia que entendia por devida.
+Por outro lado, a Corte local, com base nos elementos fático-probatórios dos autos, concluiu pela preclusão do direito da parte recorrente impugnar os cálculos, consignando a adequação da multa aplicada sobre o valor não adimplido (e-STJ fls. 639-652).
+Resta claro que a convicção formada pelo Tribunal de origem decorreu dos elementos existentes nos autos, de forma que rever a decisão recorrida e acolher a pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+Merece destaque, sobre o tema, o consignado no julgamento do REsp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da súmula 7-STJ".
+5. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
