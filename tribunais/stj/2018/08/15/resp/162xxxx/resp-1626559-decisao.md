@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça local, da lavra do Desembargador Marcus Basílio.
+De acordo com o contido nos autos, o ora recorrido foi condenado, pelo delito do art. 16, parágrafo único, IV, da Lei n. 10.826/2003, à pena de 3 anos de reclusão, em regime aberto, e 10 dias-multa, substituída a punição corporal por restritivas de direitos (e-STJ fls. 423/424).
+O Parquet interpôs apelação, à qual o Tribunal de origem, por unanimidade de votos, negou provimento, nos termos desta ementa (e-STJ fl. 489):
+PENAL - PORTE ILEGAL DE ARMA DE FOGO E MUNIÇÕES - PROVA - CONDENAÇÃO - RECURSO MINISTERIAL - PENA BASE - CONDENAÇÃO A PENA DE MULTA POR INFRAÇÃO DE MENOR POTENCIAL OFENSIVO - FATO OCORRIDO HÁ MAIS DE 10 ANOS - IRRELEVÂNCIA NO CALIBRE DA PENA - SUBSTITUIÇÃO - REGIME.
+O juiz possui manifesta discricionariedade no calibre da pena base, devendo justificar eventual acréscimo nas circunstâncias do artigo 59 do Código Penal, sempre escorado em dados concreto, não bastando a simples referência abstrata àqueles elementos moduladores da pena.
+No caso concreto, o fato de o acusado possuir condenação a pena de multa por infração, na ocasião, de menor potencial ofensivo, fato ocorrido há mais de 10 anos, por si só, não autoriza o incremento da pena base, como, também, por força da razoabilidade, não deve interferir no exame da qualidade da pena. Realmente, considerando o efeito criminógeno do cárcere, a pena de prisão deve ser deixada para casos especiais, quando se manifestar extremamente necessária. Pena corretamente substituída por restritivas de direitos. Regime aberto adequado. Recurso desprovido.
+Nas razões do recurso especial, o Ministério Público aponta violação do art. 59 do Código Penal, alegando que "há evidente equívoco no julgado recorrido, vez que as condenações que não gerem reincidência são computadas como maus antecedentes para fins do artigo 59 do Código Penal, isto independentemente do transcurso do prazo previsto no retromencionado artigo 64, inciso I, do Código Penal" (e-STJ fl. 507).
+Pugna, assim, pela elevação da pena-base e pela impossibilidade de substituição da pena privativa de liberdade por restritivas de direitos.
+Contrarrazões às e-STJ fls. 518/524.
+O Ministério Público Federal manifestou-se, às e-STJ fls. 545/547, pelo provimento do recurso.
+É o relatório. Decido.
+O Tribunal de origem manteve a pena-base no mínimo legal e a conversão da reprimenda corporal em restritivas de direitos, não obstante o recorrido ostentar condenação pretérita alcançada pelo período depurador do art. 64, I, do Código Penal, com esteio nestes fundamentos (e-STJ fls. 491/492):
+Como antes relatado e de acordo com as razões recursais, o Ministério Público apelou buscando o incremento da pena base com fundamento na personalidade do acusado, nitidamente voltada para o crime, apontando as anotações que o acusado ostenta em sua FAC como prova do desvio de personalidade, bem como o agravamento do regime e o afastamento da substituição da PPL por PRD.
+O recurso não merece agasalho.
+Como se vê da FAC acostada aos autos, o acusado possui uma condenação pela prática de infração de pequeno potencial ofensivo, sendo aplicada exclusivamente a pena de multa, declarada extinta há mais de 12 anos.
+Em razão do tempo decorrido, sem esquecer a pouca gravidade do delito anterior, na ocasião ostentando a natureza de infração de menor ofensivo, aquela condenação, por si só, não autoriza o incremento da pena base ou impede a substituição da PPL por PRD, devendo o juiz observar a regra da razoabilidade, evitando, dentro do possível, o encarceramento. (grifei)
+Como se vê dos trechos transcritos, a Corte local afastou a relevância da condenação pretérita não só pelo transcurso do período depurador, mas também em razão de ter decorrido da prática de infração de menor potencial ofensivo e por ter sido imposta multa a título de punição.
+Nas razões do recurso especial, o recorrente restringiu-se a impugnar o fundamento do período depurador, sem, contudo, enfrentar os outros argumentos de que a condenação se deu por infração de menor potencial ofensivo, punida apenas com multa.
+Assim, existentes fundamentos intactos, suficientes para manter a incolumidade do acórdão recorrido, o óbice da Súmula n. 283/STF apresenta-se insuperável.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. USO DE DOCUMENTO FALSO. ATIPICIDADE. AUSÊNCIA DE VOLUNTARIEDADE. CARACTERIZAÇÃO DO DELITO. SÚMULA N. 83 DO STJ. IMPROPRIEDADE DO OBJETO (FALSIFICAÇÃO GROSSEIRA). VERIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. POSSIBILIDADE DE CONSULTA EM SISTEMA DE INFORMAÇÕES. MAIS DE UM FUNDAMENTO NO ACÓRDÃO RECORRIDO. FALTA DE IMPUGNAÇÃO DE UM DELES. SÚMULA N. 283 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. Ao afastar a tese de que as autoridades policiais possuiriam condições de consultar a autenticidade do documento em sistema de informações e aferir, de pronto, sua falsidade, o Tribunal estadual valeu-se de dois fundamentos suficientes por si sós a amparar o acórdão. Entretanto, o recorrente só impugnou um deles, o que leva à incidência da Súmula n. 283 do STF.
+4. Agravo regimental não provido. (AgRg no AREsp 871.502/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/05/2018, DJe 29/05/2018, grifei)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. NULIDADE ABSOLUTA DECORRENTE DE VIOLAÇÃO DO ART. 422 DO CPP. PAS DE NULLITÉ SANS GRIEF. AUSÊNCIA DE COMPROVAÇÃO DE EFETIVO PREJUÍZO. SÚMULA 83/STJ. RECURSO QUE NÃO INFIRMA TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+2. A ausência de impugnação específica a um ou mais fundamentos do acórdão impugnado, suficientes por si sós para manter o julgado, atrai a incidência da Súmula 283 do STF, por analogia.
+3. Agravo regimental improvido. (AgInt no AREsp 1208397/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 03/05/2018, DJe 15/05/2018, grifei)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
