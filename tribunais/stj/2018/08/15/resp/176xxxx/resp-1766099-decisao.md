@@ -1,0 +1,6 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] e OUTRO em face da decisão que negou seguimento ao recurso especial, por sua vez manejado contra acórdão assim ementado:
+Agravo de Instrumento - ação de sobrepartilha - decisão que autoriza o levantamento de 1/6 da importância depositada em conta investimento em nome da falecida - fase citatória não concluída - medida extremamente prematura - o levantamento de valores que não sejam destinados aos gastos com a sobrepartilha dependem de anuência dos demais herdeiros que sequer integram a lide - indícios de torpeza do autor em citar os irmãos endereço que consta na própria certidão de óbito da falecida - decisão revogada - Recurso provido.
+Sustenta violação aos artigos 1.022, 489, § 1º, inciso IV e 647, parágrafo único, do CPC de 2015.
+2. Em face das circunstâncias que envolvem a controvérsia e para melhor exame do objeto do recurso, com fundamento no artigo 34, inciso VII, do Regimento Interno do Superior Tribunal de Justiça, DOU PROVIMENTO ao presente agravo para determinar a sua conversão em recurso especial, sem prejuízo de novo exame acerca de seu cabimento, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
