@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo, fundado no CPC/73, manejado pelo Município de Sapucaia do Sul, contra decisão que inadmitiu recurso especial, este interposto com base no art. 105, III, a e c, da CF, em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 141):
+APELAÇÃO CÍVEL TRIBUTÁRIO MUNICIPAL. ISS. RESTITUIÇÃO. SOCIEDADE DE CIRURGIÕES DENTISTAS. SERVIÇOS DO ITEM 91 DA LISTA ANEXA AO DL 406/68.
+1. Subsiste a tributação privilegiada após a LC 116/03 (art. 9º, § 3º. do dl 406/68).
+2. Embora desnecessário, caso de sociedade uniprofissional de médicos em que todos nela exercem suas atividades. Irrelevância do tamanho da organização e do faturamento.
+3. O fato de ter sido adotada a forma ou modelo de sociedade empresária - no caso, sociedade limitada - não a torna empresária, nem converte o objeto não empresarial em empresarial (CC, art. 966 e parágrafo único). Acontece que, em relação às atividades não empresariais, não vigora o princípio da tipicidade (CC, art. 983, 2a parte). Quer isso dizer: tanto pode adotar a forma ou modelo próprio da sociedade simples, quanto pode adotar a forma ou modelo de uma sociedade empresária. Ressalva-se situações especiais, como a sociedade anônima, a cooperativa e a sociedade de advogados.
+4. Não se deve confundir a responsabilidade do sócio face ao capital social, com a responsabilidade pessoal de cada profissional habilitado no exercício da respectiva atividade.
+5. Restituição do indébito com atualização monetária, desde cada recebimento indevido (ST , Súm. 162), pelo mesmo parâmetro utilizado pelo Município quando credor tributário, mais juros moratórios partir do trânsito em julgado (CTN, art. 167, parágrafo único; ST|, Súm. 188), pela taxa mensal de 1% (CTN, art. 161, § 1º; ST), REsp 1111189-SP, lfi Seção, pela repercussão geral).
+6. Por maioria, apelação provida.
+Não foram opostos embargos de declaração.
+A parte recorrente aponta violação ao art. 166 do CTN. Sustenta, além da existência de dissídio jurisprudencial, que: I) a recorrida não faz jus ao regime de tributação fixa do ISS, pois as sociedades de responsabilidade limitada devem ser caracterizadas como empresariais; II) a recorrida não possui legitimidade ativa para demandar a repetição de indébito do ISS.
+É o relatório.
+A irresignação não merece prosperar.
+No que se refere ao direito à base de cálculo diferenciada do ISS, impende ressaltar que, na interposição do recurso especial com base na alínea c do permissivo constitucional é imperiosa a indicação do dispositivo federal sobre o qual recai a suposta divergência jurisprudencial, o que não ocorreu no caso em tela. Assim, não pode ser conhecido o presente recurso especial, nos termos da Súmula 284/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.". Nesse mesmo sentido, destacam-se os seguintes precedentes: AgRg no AREsp 123.219/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 22/5/2012; AgRg no AREsp 83.349/RJ, Rel. Ministro Francisco Falcão, Primeira Turma, DJe 7/5/2012.
+Ademais, verifica-se que, a Corte de origem, ao solucionar a contenda, tomando por base os fatos e as provas dos autos, concluiu que a recorrida preenche os requisitos para gozar do regime de tributação especial do ISS.
+Nesse contexto, a alteração dessa conclusão, tal como colocada nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ, que impede o conhecimento da insurgência também pelo dissídio pretoriano invocado. No mesmo sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ISS. PRESTAÇÃO DE SERVIÇOS MÉDICOS. SOCIEDADES UNIPROFISSIONAIS. AUSÊNCIA DE COMPROVAÇÃO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. A verificação acerca do cumprimento dos requisitos para enquadramento no regime de tributação do ISS previsto no art. 9º, § 3º, do DL 406/68 exige a análise de matéria fático-probatória, vedada em sede de recurso especial, ante a incidência da Súmula 7/STJ.
+2. Agravo regimental não provido.
+(AgRg no REsp 1.266.396/BA, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 2/10/2012, DJe 9/10/2012)
+Por fim, o Tribunal de origem não se manifestou sobre a alegação de que a recorrida não é parte legítima para pleitear a repetição de indébito do ISS por ser contribuinte de direito e não de fato do referido tributo, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
