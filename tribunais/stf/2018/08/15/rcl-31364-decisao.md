@@ -1,0 +1,17 @@
+DECISÃO:
+    1.  Trata-se de reclamação, com pedido liminar, ajuizada para impugnar acórdão prolatado pela 9ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo nos autos da apelação cível nº 1037237-33.2016.8.26.0053, que recebeu a seguinte ementa:
+    APELAÇÃO CÍVEL - AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO - Concurso público para o cargo de Soldado PM 2ª Classe - Reprovação na fase de investigação social, sob o fundamento de omissão de fatos relevantes quando do preenchimento do Formulário de Investigação Social - Cerceamento de defesa inocorrente - Condutas que ensejam a eliminação de candidato do concurso público - Precedentes desta C. 9ª Câmara de Direito Público e do E. Superior Tribunal de Justiça - Danos material e moral não evidenciados - Descabida a condenação por Litigância de má-fé - Sentença de improcedência mantida - Honorários recursais ora fixados - Recurso do autor não provido.
+    2.  O reclamante alega que a apelação não poderia ter sido julgada, por estar pendente o julgamento do RE 560.900, sob a minha relatoria, que trataria de questão análoga, a qual teve a repercussão geral reconhecida pelo Supremo Tribunal Federal (tema nº 22). Sustenta que a tramitação do feito deveria ter sido sobrestada até o julgamento final do paradigma.
+    3.  É o relatório. Decido.
+    4.  Dispenso as informações e a manifestação da Procuradoria-Geral da República, ante o caráter reiterado da matéria (art. 52, parágrafo único, do RI/STF). Deixo de determinar a citação da parte beneficiária da decisão reclamada, por ser manifesta a inviabilidade do pedido.
+    5. De acordo com o art. 1.035, § 5º, do CPC/2015, o reconhecimento da repercussão geral tem como consequência o sobrestamento de processos que tratam da matéria submetida àquela sistemática, até o julgamento final da questão.
+    6.  No RE 560.900, sob a minha relatoria, discute-se a validade da restrição à participação em certame público de candidato a cabo da Polícia Militar denunciado pela prática do crime previsto no art. 342 do Código Penal. Esse caso foi selecionado como paradigma do tema nº 22 da repercussão geral, em que se discute a licitude da restrição à participação em concurso público de candidato que responde a processo criminal.
+    7. A decisão reclamada examinou a licitude da reprovação do reclamante na fase de investigação social sob fundamento diverso: a omissão de fatos relevantes quando do preenchimento do formulário de investigação social. A 9ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo/TJSP, partindo da premissa de que “a omissão de informações necessárias à fase de investigação social enseja a eliminação do candidato do concurso público”, manteve o ato administrativo de inabilitação e reconheceu a inexistência de dano material ou moral passível de indenização.
+    8. Assim, não há relação de identidade entre a matéria examinada pela decisão reclamada e aquela em discussão no Supremo Tribunal Federal sob a sistemática da repercussão geral. Logo, inaplicável ao caso o comando de suspensão da tramitação processual previsto no art. 1.035, § 5º, do CPC.
+    9.  Por todo o exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento à reclamação, prejudicado o pedido liminar.
+    10. Sem honorários, porquanto não citada a parte interessada.
+    Publique-se.
+Brasília, 15 de agosto de 2018.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
