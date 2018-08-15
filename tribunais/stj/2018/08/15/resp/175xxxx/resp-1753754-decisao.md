@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Apelação criminal - Tráfico de drogas - Sentença condenatória Recurso da Defesa - Busca absolvição por falta de provas e, subsidiariamente, a redução da reprimenda imposta, por se apresentar deveras excessiva, ou a desclassificação para o delito previsto no art. 28, da Lei de Drogas.
+Materialidade e autoria comprovadas Prisão cm flagrante delito 20 porções de cocaína (peso aproximado de 19g) Versão do acusado que está isolada nos autos - Versão dos Policiais Militares que realizaram a prisão em flagrante que comprova a prática da traficância - Versão das testemunhas arroladas pela defesa, no sentido de classificar o acusado como um mero usuário de entorpecentes que não merece prosperar Tráfico evidenciado pelo conjunto probatório.
+Dosimetria da pena Penas inalteradas Pena-base justificadamente exasperada  Manutenção da fração de exasperação pela circunstância agravante da reincidência, que inclusive e específica, por ausência de recurso Ministerial Vedação da reformatio in pejus Regime inicial fechado mantido, eis que justificado Impossibilidade de substituição da privativa de liberdade por restritivas de direitos Vedação legal - Recurso improvido. (e-STJ fl. 423)
+A defesa aponta a violação dos arts. 8º, IV, do Pacto de San José da Costa Rica (Decreto n. 678/1992), e 33, § 4º, da Lei n. 11.343/2006, alegando, em síntese, que a utilização da reincidência na segunda fase da dosimetria e em seguida para afastar o redutor do tráfico privilegiado configura bis in idem.
+Contrarrazões às e-STJ fls. 481/486.
+Admitido o recurso especial na origem, os autos vieram a esta Corte.
+Manifestação do Ministério Público Federal pelo desprovimento do recurso às e-STJ fls. 501/507.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Os elementos existentes nos autos informam que o Tribunal de Justiça do Estado de São Paulo negou provimento ao apelo defensivo e manteve a sentença que condenou o recorrente à pena de 8 (oito) anos e 4 (quatro) meses de reclusão, pelo cometimento do crime do art. 33, caput, da Lei n. 11.343/06.
+A matéria, objeto deste recurso especial (bis in idem na utilização da reincidência na segunda e terceira fases da dosimetria) foi assim dirimida pelo Tribunal de origem:
+Além disso, não há falar cm "bis in idem" pela utilização da reincidência para agravar a pena na segunda fase da dosimetria, bem como para vedar a causa de diminuição constante do § 4º, do art. 33, da Lei nº 11.343/06, já que o próprio dispositivo legal citado veda a aplicação do benefício para aqueles que não sejam primários, in verbis: (e-STJ fls. 470/471)
+Observa-se que o entendimento do TJSP está em harmonia com a jurisprudência desta Corte firme no sentido de que a reincidência pode ensejar o agravamento da pena, na segunda fase da dosimetria, bem como impedir a aplicação do redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006, na medida em que a primariedade é requisito para a incidência desse benefício. Ressalta-se que, por não ser a reincidência elemento constitutivo ou que qualifica o crime de tráfico de drogas, mas apenas um dos elementos que obstam determinado benefício penal, não há falar em bis in idem. A propósito: HC n. 393.862/DF, de minha relatoria, DJe 02/10/2017 e HC n. 393.709/SP, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 28/6/2017.
+Incidência do Enunciado da Súmula n. 568 do Superior Tribunal de Justiça.
+Diante do exposto, com fulcro no art. 932, VIII, do CPC, c/c o art. 255, §4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
