@@ -1,0 +1,22 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. MILITAR. MOVIMENTAÇÃO DE OFÍCIO. VIOLAÇÃO DO ART. 535 DO CPC NÃO CONFIGURADA. CÔNJUGE GRAVEMENTE [NOME]. PERMANÊNCIA NO LOCAL EM QUE SE ENCONTRA. QUESTÃO DECIDIDA COM AMPARO NAS PROVAS DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO ESPECIAL DA UNIÃO A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto pela UNIÃO, com fundamento na alínea a do art. 105, III da Constituição Federal, no qual se insurge contra acórdão proferido pelo egrégio TRF da 5a. Região, assim ementado:
+EMENTA: ADMINISTRATIVO. MILITAR. MOVIMENTAÇÃO DE OFÍCIO. ANULAÇÃO DE ATO ADMINISTRATIVO". POSSIBILIDADE. [NOME]. DECRETO No 2040196. REQUISITOS ATENDIDOS.
+1. A movimentação por necessidade do serviço público constitui peculiaridade da carreira militar e decorre da prevalência do atendimento do interesse público sobre o privado. Em tais casos, a remoção em razão de saúde de dependente deve estar condicionada aos requisitos exigidos em lei (Decreto nº. 2040/96 - Regulamento para Movimentação do Exército), o que restou demonstrado. A situação que se harmoniza com os arts. 10, 20 e 13.
+2. Comprovação de que a movimentação do militar, afastando-o do suporte de parentes, prejudicaria a situação familiar e desestabilizaria a situação da cônjuge, portadora de transtorno mental de natureza grave.
+3. Apelação improvida (fls. 156).
+2. Nas razões recursais, a recorrente aponta violação dos arts. 535 do CPC, bem como 5o., 7o., 32 e 50 da Lei 6.880/80 e 2o. do Decreto 2.040/1996, aos seguintes fundamentos: (a) o acórdão recorrido, a despeito da oposição de Embargos de Declaração, permaneceu omisso; e (b) a movimentação por necessidade do serviço constitui peculiaridade da profissão militar e decorre da prevalência do atendimento do interesse público (fls. 183).
+3. É o relatório. Decido.
+4. No tocante ao art. 535 do CPC, inexiste a violação apontada. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que o julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+5. No mérito, a Corte de origem, com base nos documentos juntados aos autos, reconheceu que a remoção do militar agravaria os problemas de saúde de sua cônjuge. Assim, a alteração dessas conclusões, na forma pretendida, demandaria necessariamente a incursão no acervo fático-probatório dos autos. Contudo, tal medida encontra óbice na Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial. Nesse sentido:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. VIOLAÇÃO DO ART. 535 DO CPC. ALEGAÇÃO GENÉRICA. REMOÇÃO POR MOTIVO DE SAÚDE DE DEPENDENTE. REQUISITOS. SÚMULA 7/STJ.
+1. Não prospera a alegada violação do art. 535 do Código de Processo Civil, uma vez que deficiente sua fundamentação. Incidência da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+2. No caso dos autos, o Tribunal de origem concluiu, com base nas provas, que os requisitos para o deferimento da remoção estão preenchidos. Rever essa premissa, esbarra no óbice da Súmula 7 do STJ.
+Agravo regimental improvido (AgRg nos EDcl no REsp. 1.466.948/CE, Rel. Min. HUMBERTO MARTINS, DJe 15.4.2016).
+
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDORA PÚBLICA. REMOÇÃO PARA LOCALIDADE DIVERSA DAQUELA QUE FOI NOMEADA EM RAZÃO DE APROVAÇÃO EM CONCURSO PÚBLICO. NECESSIDADE DE ESTAR JUNTO AO NÚCLEO FAMILIAR. COMPROVAÇÃO DOS REQUISITOS LEGAIS. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ.
+1. A desconstituição do acórdão recorrido no atinente ao direito da servidora pública ser removida do interior do estado para a capital, por alegado motivo de saúde sua e dos dependentes exigiria o reexame do contexto fático-probatório dos autos, providência que encontra óbice na Súmula 7/STJ. Precedentes: AgRg no REsp 1.326.439/CE, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 02/12/2014, AgRg no AREsp 475.468/RO, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 30/9/2014; AgRg no Ag 1.397.693/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 2/12/2014.
+2. Agravo regimental não provido (AgRg no REsp. 1.506.978/RS, Rel. Min. BENEDITO GONÇALVES, DJe 1.9.2015).
+6. Ante o exposto, nega-se seguimento ao Recurso Especial.
+7. Publique-se.
+8. Intimações necessárias.
