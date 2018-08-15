@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, interposto com fundamento no artigo 105, III, a e c, da Constituição Federal, este contra acórdão do Tribunal de Justiça de Minas Gerais, com a seguinte ementa:
+AGRAVO - ASSISTÊNCIA JUDICIÁRIA - ART. 99 DO CPC - DECLARAÇÃO DE HIPOSSUFICIÊNCIA FINANCEIRA - PRESUNÇÃO DE VERACIDADE - INDÍCIOS DE QUE A PARTE NÃO SE ENCONTRA EM ESTADO DE MISERABILIDADE - AUSÊNCIA DE COMPROVAÇÃO DA INSUFICIÊNCIA DE RECURSOS. A concessão da assistência judiciária se impõe" diante da apresentação da declaração de hipossuficiência firmada pela parte requerente, Somente quando inexistente os indícios de que a parte não se encontra em situação de miserabilidade. (fl. 235)
+Embargos de declaração rejeitados.
+Em sua insurgência, a parte recorrente alega dissidio jurisprudencial e ofensa aos arts. 99 e 1022 do NCPC. Argumenta negativa da prestação jurisdicional, e que "para o juiz indeferir a gratuidade requerida pela parte, mas não de plano e que, apesar da previsão legal de presunção relativa de necessidade (art. 99, § 2º), o NCPC expressamente permite ao juiz indeferir a gratuidade,"se houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão da gratuidade" (fl. 270). Defende que no caso dos autos a parte recorrente demonstrou a hipossuficiência. Ao final, pugna pelo reconhecendo do ERROR IN IUDICANDO no tocante a hipossuficiência, merecendo provimento o recurso para deferimento da gratuidade de justiça.
+É o relatório, Decido.
+a) Negativa da prestação jurisdicional:
+Inicialmente, não prospera a alegada negativa da prestação jurisdicional tendo em vista que o v. acórdão recorrido adotou fundamentação suficiente, decidindo integralmente a controvérsia. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+b) Gratuidade de justiça:
+É pacífico na jurisprudência do STJ o entendimento de que é relativa a presunção de hipossuficiência declarada pelo requerente da assistência judiciária gratuita, podendo ser indeferido ou revogado o benefício se constatada condição econômico-financeira apta a satisfazer os ônus processuais.
+No caso dos autos, o col. Tribunal de origem asseverou que a parte recorrente não necessita da benesse, porque teria condições de arcar com as custas do processo, tecendo as seguintes considerações:
+Analisando os documentos juntados ao processo, verifico que razão não assiste ao agravante.
+Certo é que o Novo CPC prevê a possibilidade de concessão da assistência judiciária pela apresentação da declaração de hipossuficiência firmada, quando inexistente os indícios de que a parte não se encontra em situação de miserabilidade, já que a alegação de insuficiência presume-se verdadeira.
+Vejamos o que dispõem o artigo 99 do Código de Processo Civil de 2015:
+Art. 99. O pedido de gratuidade da justiça pode ser formulado na petição inicial, na contestação, na petição para ingresso de terceiro no processo ou em recurso.
+§ 1º (..).
+§ 2º O juiz somente poderá indeferir o pedido se houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão de gratuidade, devendo, antes de indeferir o pedid6, determinar à parte a comprovação do preenchimento dos referidos pressupostos.
+§ 3º- Presume-se verdadeira a alegação de insuficiência deduzida exclusivamente por pessoa natural..
+(..) In caso, todavia, existem indícios de que a parte autora, ora agravante, não é hipossuficiente, devendo ser mantido o indeferimento.
+Verifica-se que, conforme suscitado pelo agravado, em incidente apensado aos autos principais, foi revogada a justiça gratuita anteriormente deferida ao agravante sob o fundamento de que tal benefício é incompatível com as cindições financeiras por ele apresentadas (fls. 1401142-T4 ;
+Nos autos em tela, embora o agravante tenha apresentado declaração de imposto de renda, tal fato por si só não é suficiente para demonstrar a hipossuficiência autorizadora para a concessão do benefício, pois a renda por ela declarada mostra-se incompatível com as despesas por ele apresentadas, como bem assinalado pelo douto magistrado de primeira instância.
+Tal entendimento se corrobora" com as diversas decisões judiciais, proferidas em processos distintos, que foram colacionadas aos autos pelo agravado, por meio das quais a justiça gratuita foi indeferida ao agravante, bem como pelos documentos que comprovam a existência de bens em seu nome e de sua esposa (fls. 140 e seguintes).
+Assim, havendo indícios de que o agravante tem condições de arcar com as despesas do processo, bem como considerando que a justiça gratuita a ele deferida em processo em apenso foi revogada com o acolhimento do incidente de impugnação, não faz jus o agravante à concessão da benesse dà justiça gratuita.
+Isso posto, nego provimento ao agravo, mantendo inalterada a decisão combatida. (fls. 220/221, n.g)
+No caso, para se chegar a conclusão de que a parte recorrida não teria condições de arcar com o pagamento das custas judiciais, tal como propugnado, seria necessário o reexame do substrato probatório cuja providência na via do recurso especial esbarra no óbice da Súmula 7 desta Corte.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO À ASSISTÊNCIA JUDICIÁRIA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. 1. A convicção formada pela Corte local no sentido de indeferir o benefício da gratuidade de justiça e do diferimento no recolhimento das custas aos recorrentes decorreu dos elementos existentes nos autos (fls.
+214-218), de forma que rever a decisão recorrida e acolher a pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ, impedindo o conhecimento do recurso.
+2. Agravo interno não provido.
+(AgInt no AREsp 1207685/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/04/2018, DJe 03/05/2018)
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - INDEFERIMENTO DO BENEFÍCIO DE GRATUIDADE DE JUSTIÇA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR SEGUIMENTO AO RECLAMO. IRRESIGNAÇÃO DO REQUERENTE.
+1. Embora milite em favor do declarante a presunção acerca do estado de hipossuficiência, essa não é absoluta, não sendo defeso ao juiz a análise do conjunto fático-probatório que circunda as alegações da parte (art. 5º, caput, da Lei n. 1.060/50).
+2. Rever os fundamentos que ensejaram o indeferimento do pedido de justiça gratuita exigiria reapreciação da situação fática, o que é vedado em sede de recurso especial, a teor da Súmula 7 do Superior Tribunal de Justiça.
+3. "A declaração de pobreza implica simples presunção juris tantum, suscetível de ser elidida pelo magistrado se tiver fundadas razões para declarar que o requerente não se encontra no estado de miserabilidade anunciado" (REsp 1.019.233/SP, Relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 09/12/2008, DJe 06/02/2009).
+4. Agravo regimental desprovido.
+(AgRg no AREsp 808.673/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 08/02/2018, DJe 23/02/2018)
+AGRAVO INTERNO. RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. DECLARAÇÃO DE POBREZA. PRESUNÇÃO RELATIVA. PREENCHIMENTO DOS REQUISITOS. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO ESPECIAL INTERPOSTO CONTRA DECISÃO MONOCRÁTICA. EMBARGOS DE DECLARAÇÃO. DECISÃO COLEGIADA. AUSÊNCIA DE EXAURIMENTO DE INSTÂNCIA. INCIDÊNCIA DO ENUNCIADO 281 DA SÚMULA DO STF.
+1. A presunção de pobreza, para fins de concessão dos benefícios da assistência judiciária gratuita, ostenta caráter relativo, podendo o magistrado indeferir o pedido de assistência se encontrar elementos que infirmem a hipossuficiência do requerente. Reapreciação de matéria no âmbito do recurso especial encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+2. Nos termos da Súmula 281/STF, aplicável por analogia ao recurso especial, é inadmissível recurso extraordinário, quando couber na justiça de origem, recurso ordinário da decisão impugnada.
+3. Agravo interno a que se nega provimento.
+(AgInt no AgInt no REsp 1621028/RO, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 05/10/2017, DJe 18/10/2017)
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO CONTRA A INADMISSÃO DE RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DECLARAÇÃO DE POBREZA. PRESUNÇÃO RELATIVA DE VERACIDADE. PRECEDENTES. REEXAME DE PROVA. SÚMULA 7/STJ. DISPOSITIVO CONSTITUCIONAL. OFENSA. EXAME. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. Não enseja interposição de recurso especial matéria que não tenha sido ventilada no v. aresto atacado e sobre a qual, embora devidamente opostos os embargos declaratórios, o órgão julgador não se pronunciou e a parte interessada não alegou ofensa ao art. 535 do Código de Processo Civil. A simples oposição dos aclaratórios não é suficiente para caracterizar o requisito do prequestionamento.
+Incidência da Súmula 211 do Superior Tribunal de Justiça.
+2. Nos termos da orientação jurisprudencial do Superior Tribunal de Justiça, a declaração de pobreza goza de presunção relativa de veracidade, podendo a parte contrária impugnar o benefício da justiça gratuita, ou mesmo o magistrado exigir sua comprovação.
+Precedentes.
+3. Na hipótese dos autos, diante da manifestação da parte contrária de que os ora agravantes possuíam condição financeira de arcar com as despesas processuais, além de residirem no bloco mais luxuoso do condomínio, o Juízo de primeiro grau, na r. sentença, indeferiu o pedido de gratuidade de justiça. A Corte local, por sua vez, manteve o indeferimento por não ter vindo aos autos nenhuma prova em tal sentido. Infirmar as conclusões do julgado, para reconhecer a insuficiência de recursos da parte agravante, encontra óbice na Súmula 7 desta Corte Superior.
+4. É inviável a análise de contrariedade a dispositivos constitucionais, nesta via recursal, o que implicaria a usurpação de competência constitucionalmente atribuída ao eg. Supremo Tribunal Federal (CF/88, art. 102).
+5. Agravo regimental a que se nega provimento.
+(AgRg no Ag 1369436/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 27/10/2015, DJe 25/11/2015)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
