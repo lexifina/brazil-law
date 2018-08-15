@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ORIGICLICK SERVICOS E COBRANCAS EIRELI, doravante ORIGICLICK, contra decisão exarada pela il. 3ª Vice-Presidência do eg. Tribunal de Justiça do Estado do Rio Grande do Sul (TJ-RS), que inadmitiu o recurso especial.
+Cuidam os autos, na origem, de ação anulatória de contrato proposta por [NOME] E CIA LTDA e ADILENE CRISTINA [NOME] em desfavor de ORIGICLICK .
+O il. Magistrado julgou parcialmente procedente pedido (sentença às fls. 177/182).
+Diante disso, ORIGICLICK interpôs apelação, a qual foi desprovida pelo eg. TJ-RS, nos termos do v. acórdão, assim ementado (fl. 223):
+"APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. ANULATÓRIA.
+Reconhecida a cobrança indevida de valores, a repetição deverá ocorrer em dobro, conforme o art. 42, parágrafo único, do Código de Defesa do Consumidor".
+Os embargos de declaração opostos foram rejeitados (acórdão às fls. 241/246).
+Inconformado, ORIGICLICK interpôs recurso especial, com fulcro no art. 105, inciso III, alíneas "a" e "c", da CF/88, no qual alega, além da divergência jurisprudencial, violação do art. 2º do CDC; e dos arts. 306, 309, 323, 356, 386, 393, 421 e 476 todos do CC/02.
+Como dito, o apelo nobre foi inadmitido às fls. 284/296.
+Irresignado, ORIGICLICK manejou o presente agravo em recurso especial refutando os fundamentos da decisão que inadmitiu seu apelo nobre.
+Foi apresentada contraminuta (fls. 313/317).
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+No apelo nobre que pretende trânsito, sustenta-se violação do art. 2º do CDC, ao argumento de que não há relação de consumo entre as partes. Ocorre que, da leitura minudente do v. acórdão recorrido, verifica-se que a eg. Corte local não tratou da tese jurídica apresentada pelo recorrente sobre a natureza da relação firmada entre as partes.
+Isso porque o eg. TJ-RS manifestou-se no sentido de aplicar o art. 42 do CDC, mas não tratou especificamente acerca sobre o art. 2º do CDC e tese jurídica apresentada pelo recorrente. A título elucidativo, colaciona-se o seguinte excerto do v. Acórdão estadual (fl. 226): "Reconhecida a cobrança indevida, pois exigidos valores não contratados, a repetição deverá ocorrer em dobro, conforme determina o art. 42, parágrafo único, do Código de Defesa do Consumidor".
+Com efeito, esta Corte de Justiça, ao interpretar o art. 1.025 do Código de Processo Civil de 2015, concluiu que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe de 10/04/2017). Nessa linha de intelecção, confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ALEGADA ILIQUIDEZ DO TÍTULO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282/STF E 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. PRECEDENTE. RECURSO NÃO PROVIDO.
+1. A matéria referente aos arts. 783 e 803, do CPC de 2015 não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+2. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.098.633/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/09/2017, DJe de 15/09/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL. PREVIDÊNCIA PRIVADA. ART. 884 DO CÓDIGO CIVIL. VIOLAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. 1
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+2. Se a questão levantada não foi discutida pelo tribunal de origem e não verificada, nesta Corte, a existência de erro, omissão, contradição ou obscuridade não há falar em prequestionamento ficto da matéria, nos termos do art. 1.025 do CPC/2015, incidindo na espécie a Súmula nº 211/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 562.067/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/06/2017, DJe de 1º/08/2017)
+Ademais, melhor sorte não socorre ao recurso no que diz respeito aos arts. 306, 309, 323, 356, 386, 393, 421 e 476 todos do CC/02. Sob as alegadas infringências, afirma-se que não caberia a restituição em dobro dos valores pagos pelo recorrido. No entanto, a eg. Corte local concluiu pela restituição em dobro à luz do art. 42 do CDC. Á título elucidativo, colaciona-se o seguinte trecho do acórdão (fls. 226/227):
+"Com efeito, a contratação do serviço de anúncio publicitário entre os litigantes é irrefutável. Todavia, controvertem as partes acerca do pagamento. De um lado a parte autora afirma ter sido orientada de que o serviço era gratuito. De outro, a ré aduz que seu serviço exige contraprestação pecuniária.
+O valor contratado pela prestação do serviço, conforme consta no documento firmado pela autora é de R$ 4.620,00, a ser pago em doze parcelas de R$ 385,00.
+Neste contexto, não se justifica a exigência da ré de pretender o depósito da quantia correspondente a R$ 24.360,00. Se o serviço de publicidade era oneroso e se o valor a ele concernente era de R$ 4.620,00, a conduta da requerida, ao exigir pagamento muito maior, suplanta os termos contratados. Como sinalado na sentença "(..) a diferença expressiva entre o valor contratado e o valor depositado pela autora indica a existência de cobrança intimidatória, pois não há outra explicação que justifique o montante dos depósitos realizados." Reconhecida a cobrança indevida, pois exigidos valores não contratados, a repetição deverá ocorrer em dobro, conforme determina o art. 42, parágrafo único, do Código de Defesa do Consumidor.
+(..)
+Como já reconhecido na sentença, a contraprestação pecuniária excessiva ao efetivamente contratado gera a presunção de que foi obtida de forma ilícita e, assim, rechaça a alegação da demandada de ato jurídico perfeito, bem como de que o mero arrependimento de contratar não enseja a devolução de valores. O ressarcimento dos valores é justificável, na medida em que o Judiciário não pode agasalhar este tipo de situação absurdamente coercitiva e ilegal".
+Por seu turno, da leitura das razões posta no apelo nobre, infere-se que o recorrente não impugnou o fundamento usado relativo ao art. 42 do CDC. Nesse cenário, havendo fundamento autônomo e suficiente, por si só, para manter o v. acórdão estadual, o apelo nobre encontra óbice na Súmula n. 283/STF, aplicada por analogia. Nessa mesma linha de intelecção, destacam-se os seguintes julgados:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO DE SENTENÇA. PRETENSÃO DE COMPLEMENTAÇÃO DO LAUDO PERICIAL E JUNTADA DE DOCUMENTOS. NECESSIDADE DE REALIZAÇÃO DE AUDIÊNCIA COM O INTUITO DE ESCLARECER QUESTÕES ATINENTES ÀS AMORTIZAÇÕES REALIZADAS. REEXAME FÁTICO DOS AUTOS. SÚMULA N. 7/STJ. FUNDAMENTO DO TRIBUNAL DE ORIGEM NÃO IMPUGNADO. SÚMULA N. 283 DO STF.
+(..)
+2. É inadmissível o recurso especial que não impugna os fundamentos do acórdão recorrido, suficientes, por si só, à manutenção da conclusão a que chegou o Tribunal de origem (Súmula n. 283/STF).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 451.336/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 01/06/2017, DJe 08/06/2017 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM" RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+(..)
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1035112/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/05/2017, DJe 12/05/2017 - grifou-se)
+No que tange à divergência jurisprudencial, o recurso também não merece prosperar. Isso porque o recorrente limitou-se a colacionar uma única ementa do acórdão paradigma, olvidando-se de realizar o necessário cotejo analítico com o v. acórdão estadual.
+Assim, forçoso reconhecer que o presente apelo não merece prosperar.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Deixo de majorar os honorários advocatícios recursais, nos termos do art. 85, § 11, do CPC/2015, uma vez que fixados no patamar legal máximo.
+Publique-se.
