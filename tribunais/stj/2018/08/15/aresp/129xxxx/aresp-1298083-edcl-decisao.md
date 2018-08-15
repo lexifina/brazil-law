@@ -1,0 +1,15 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por [NOME] e OUTRO contra a decisão de fls. 3413/3414, que não conheceu do recurso.
+Em suas razões, sustenta a parte Embargante, em síntese, que: "Assim, declarada a tempestividade do recurso pelo próprio Presidente do Tribunal Paulista - Tribunal de Origem - salvo melhor juízo, sanada está qualquer eventual irregularidade, que com a devida vênia também não houve, mas que será objeto de Agravo interno, se necessário for." (fl. 3418).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte Embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme já consignado na decisão ora embargada, verifica-se que o agravo em recurso especial é intempestivo porque a intimação de seu em 22/02/2017 e o protocolo do recuso foi feito somente em 17/03/2017, no entanto, o prazo recursal terminou em 16/03/2017.
+Registre-se que nesse intervalo, o único feriado nacional observado foi o dia 28/02/2017, terça-feira de carnaval. Qualquer outro dia em que não tenha havido expediente forense, trata-se de feriado local, que deveria ter sido comprovado no momento da interposição do recurso.
+Além disso, é irrelevante que o tribunal a quo tenha consignado que o recurso está tempestivo. Veja-se que "O juízo de admissibilidade do recurso especial é bifásico. A decisão proferida pelo Tribunal de origem não vincula o Superior Tribunal de Justiça na aferição dos pressupostos de admissibilidade do recurso especial. Isso porque compete a esta Corte, órgão destinatário do recurso especial, o juízo definitivo de admissibilidade" (AgInt no REsp 1684240/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/02/2018, DJe 28/02/2018.)
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp 1315507/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/08/2014, DJe 28/08/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, REJEITO os embargos de declaração e advirto a parte Embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2.º, do Código de Processo Civil).
+Publique-se. Intimem-se.
