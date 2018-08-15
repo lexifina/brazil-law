@@ -1,0 +1,17 @@
+DECISÃO
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. TERMO DE AJUSTAMENTO DE CONDUTA. AÇÃO CIVIL PÚBLICA. MULTA COMINATÓRIA. SUMULA 283/STF. CONTRADIÇÃO, OMISSÃO E OBSCURIDADE INEXISTENTES. EMBARGOS DE DECLARAÇÃO DO MUNICÍPIO DE NITERÓI REJEITADOS.
+1. Trata-se de Embargos de Declaração opostos pelo MUNICÍPIO DE NITERÓI contra decisão proferida às fls. 268/269, que rejeitou os Aclaratórios opostos contra decisão assim ementada:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. TERMO DE AJUSTAMENTO DE CONDUTA. AÇÃO CIVIL PÚBLICA. MULTA COMINATÓRIA. ART. 535, I E II DO CPC/1973. INOCORRÊNCIA DE OMISSÃO. MAJORAÇÃO DO VALOR DA MULTA. AUSÊNCIA DE CUMPRIMENTO DAS OBRIGAÇÕES. INEXISTÊNCIA DE PROVA DE FATO HÁBIL A JUSTIFICAR O INADIMPLEMENTO DOS AJUSTES. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283 DO STF. AGRAVO DO MUNICÍPIO DE NITERÓI A QUE SE NEGA PROVIMENTO (fls. 224/228).
+2. Reitera-se o argumento de haver omissão no julgado tendo em vista que teria havido a comprovação do adimplemento integral do TAC, quando da oposição dos Embargos de Declaração anteriores (fls. 234/253), sendo fato novo determinante ao deslinde da demanda. Afirma-se, ainda, que deve haver a análise do descumprimento do art. 645, parág. único do CPC/1973.
+3. Impugnação às (fls 289/295).
+4. É o relatório do essencial.
+5. No caso em apreço, não se constata a presença de qualquer eiva a macular o acórdão embargado que, de forma clara e expressa, decidiu o tema debatido nos autos.
+6. No caso dos autos, o acórdão recorrido utilizou-se de dois fundamentos para rejeitar a alegação de impossibilidade de majoração do valor da multa diária prevista no Termo de Ajustamento de Conduta, quais sejam:
+a) que não há título executivo extrajudicial, mas Termo de Ajustamento de Conduta ajustado no curso de Ação Civil Pública, homologado em sentença, o que possibilita a majoração do valor a fim compelir o cumprimento das obrigações assumidas; e
+b) que não houve o adimplemento das obrigações assumidas no prazo pactuado, tendo sido inclusive concedido efeito suspensivo dilatando o prazo sem que a parte providenciasse o cumprimento do Termo ou mesmo justificasse o motivo do descumprimento, o que possibilitou a majoração da multa.
+7. Entretanto, nas razões do Recurso Especial, a parte limitou-se a sustentar que, ainda que se trate de título executivo judicial, não é possível haver a majoração do valor da multa estipulada anteriormente.
+8. Logo, verifica-se clara e inafastável a aplicação da Súmula 283/STF, que dispõe que: é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+9. Portanto, evidencia-se que a parte Embargante busca a reapreciação do mérito da causa, não sendo este o escopo dos Aclaratórios, não se verificando a presença de quaisquer dos vícios elencados no art. 1.022 do CPC/2015.
+10. A discordância da parte quanto ao conteúdo da decisão não autoriza o pedido de declaração, que tem pressupostos específicos, que não podem ser ampliados.
+11. Ante o exposto, ausentes quaisquer das figuras previstas no art. 1.022 do CPC/2015, rejeitam-se os Embargos de Declaração opostos pelo MUNICÍPIO DE NITERÓI, com a advertência de que reiterá-los será considerado expediente protelatório sujeito à multa prevista no Código de Processo Civil.
+12. Publique-se. Intimações necessárias.
