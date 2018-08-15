@@ -1,0 +1,66 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO. LEITURA EM PLENÁRIO DE SENTENÇA CONDENATÓRIA DO CORRÉU. AUSÊNCIA DE ÓBICE LEGAL. ART. 478, I, DO CÓDIGO DE PROCESSO PENAL. ROL TAXATIVO. AGRAVO NÃO PROVIDO.
+1. De acordo com o artigo 478 do Código de Processo Penal, as partes não podem fazer referências, durante os debates, "à decisão de pronúncia, às decisões posteriores que julgaram admissível a acusação ou à determinação do uso de algemas como argumento de autoridade que beneficiem ou prejudiquem o acusado", bem como "ao silêncio do acusado ou à ausência de interrogatório por falta de requerimento, em seu prejuízo".
+2. A jurisprudência deste Superior Tribunal de Justiça vem entendendo pela taxatividade do rol do art. 478 do CPP, não se enquadrando em nenhuma das hipóteses elencadas, a leitura da sentença que condenou corréu. Precedentes.
+3. Agravo regimental não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por [NOME] contra a decisão de fls. 902-906 (e-STJ), que deu provimento ao recurso especial ministerial para determinar que o Tribunal de origem prossiga no julgamento da apelação defensiva.
+O agravante sustenta pela incidência da Súmula n. 283/STJ, na medida em que não foi impugnado o fundamento da "leitura utilizada como argumento de autoridade em prejuízo do acusado" (e-STJ, fl. 922).
+No mérito, pondera que a leitura da decisão que condenou o corréu foi utilizada como argumento de autoridade em prejuízo insanável à defesa.
+Requer a reconsideração da decisão agravada ou a submissão do presente agravo regimental ao órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO. LEITURA EM PLENÁRIO DE SENTENÇA CONDENATÓRIA DO CORRÉU. AUSÊNCIA DE ÓBICE LEGAL. ART. 478, I, DO CÓDIGO DE PROCESSO PENAL. ROL TAXATIVO. AGRAVO NÃO PROVIDO.
+1. De acordo com o artigo 478 do Código de Processo Penal, as partes não podem fazer referências, durante os debates, "à decisão de pronúncia, às decisões posteriores que julgaram admissível a acusação ou à determinação do uso de algemas como argumento de autoridade que beneficiem ou prejudiquem o acusado", bem como "ao silêncio do acusado ou à ausência de interrogatório por falta de requerimento, em seu prejuízo".
+2. A jurisprudência deste Superior Tribunal de Justiça vem entendendo pela taxatividade do rol do art. 478 do CPP, não se enquadrando em nenhuma das hipóteses elencadas, a leitura da sentença que condenou corréu. Precedentes.
+3. Agravo regimental não provido.
+
+VOTO
+EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Não obstante os argumentos trazidos pelo agravante, estes não possuem o condão de infirmar os fundamentos insertos na decisão agravada.
+Consoante anteriormente explicitado, convém trazer à colação a redação do art. 478 do Código de Processo Penal:
+"Art. 478. Durante os debates as partes não poderão, sob pena de nulidade, fazer referências: (Redação dada pela Lei n. 11.689, de 2008)
+I - à decisão de pronúncia, às decisões posteriores que julgaram admissível a acusação ou à determinação do uso de algemas como argumento de autoridade que beneficiem ou prejudiquem o acusado; (Incluído pela Lei nº 11.689, de 2008)
+II - ao silêncio do acusado ou à ausência de interrogatório por falta de requerimento, em seu prejuízo. (Incluído pela Lei n. 11.689, de 2008)" (grifou-se)
+Consoante se verifica dos autos, a situação sob exame (leitura da sentença que condenou corréu) não se enquadra em nenhuma das hipóteses elencadas no dispositivo supracitado. Convém destacar que a jurisprudência deste Superior Tribunal de Justiça vem entendendo pela taxatividade do rol do art. 478 do CPP.
+Nesse sentido:
+"(..).
+HOMICÍDIO QUALIFICADO (ARTIGO 121, § 2º, INCISO II, DO CÓDIGO PENAL). APONTADA VIOLAÇÃO AO ARTIGO 478 DO CÓDIGO DE PROCESSO PENAL. LEITURA DA SENTENÇA QUE CONDENOU CORRÉU PELA PRÁTICA DO MESMO DELITO. AUSÊNCIA DE ÓBICE LEGAL. NULIDADE INEXISTENTE.
+1. De acordo com o artigo 478 do Código de Processo Penal, as partes não podem fazer referências, durante os debates, "à decisão de pronúncia, às decisões posteriores que julgaram admissível a acusação ou à determinação do uso de algemas como argumento de autoridade que beneficiem ou prejudiquem o acusado", bem como "ao silêncio do acusado ou à ausência de interrogatório por falta de requerimento, em seu prejuízo".
+2. A sentença condenatória proferida contra corréu não consta dos incisos I e II do artigo 478 da Lei Processual Penal, inexistindo óbice à sua menção por quaisquer das partes.
+3. O caput do artigo 480 do Código de Processo Penal prevê a possibilidade de leitura de peças processuais pelas partes, podendo a acusação, a defesa e os jurados, a qualquer momento e por intermédio do Juiz Presidente, pedir que o orador indique a folha dos autos onde se encontra o trecho lido ou citado.
+4. Desse modo, não se pode afirmar que a leitura pelo membro do Ministério Público do édito repressivo prolatado contra corréu tenha se dado em dissonância com o que prevê a legislação processual penal pertinente, não se vislumbrando a ocorrência da eiva indicada pelos impetrantes.
+5. Habeas corpus não conhecido."
+(HC 198.574/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 26/2/2013, DJe 12/3/2013, grifou-se).
+"APONTADA VIOLAÇÃO AO ARTIGO 478 DO CÓDIGO DE PROCESSO PENAL ANTE A LEITURA DA DECISÃO QUE RECEBEU A DENÚNCIA E DECRETOU A PRISÃO PREVENTIVA DO PACIENTE PELO ÓRGÃO MINISTERIAL. PEÇA PROCESSUAL QUE PODE SER MENCIONADA PELAS PARTES. NULIDADE INEXISTENTE.
+1. Pela letra do artigo 478 do Código de Processo Penal, as partes não podem fazer referências, durante os debates, "à decisão de pronúncia, às decisões posteriores que julgaram admissível a acusação ou à determinação do uso de algemas como argumento de autoridade que beneficiem ou prejudiquem o acusado", bem como "ao silêncio do acusado ou à ausência de interrogatório por falta de requerimento, em seu prejuízo".
+2. A decisão por meio da qual a denúncia é recebida, assim como aquela que decreta a segregação cautelar do acusado, não constam dos incisos I e II do artigo 478 da Lei Processual Penal, inexistindo óbice à sua menção por quaisquer das partes.
+3. Aliás, o próprio caput do artigo 480 do Código de Processo Penal estabelece a possibilidade de leitura de peças processuais pelas partes, podendo a acusação, a defesa e os jurados, a qualquer momento e por intermédio do Juiz Presidente, pedir que o orador indique a folha dos autos onde se encontra o trecho lido ou citado.
+4. Desse modo, não se pode afirmar que a leitura pelo membro do Ministério Público da decisão que admitiu a inicial acusatória e decretou a custódia preventiva do paciente tenha se dado em dissonância com o que prevê a legislação processual penal pertinente, não se vislumbrando a ocorrência da eiva indicada pelos impetrantes." (HC 153.121/SP, Relator Ministro JORGE MUSSI, 5ª Turma, DJe de 1/9/2011, grifou-se).
+"PENAL E PROCESSUAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. HOMICÍDIO QUALIFICADO. TRIBUNAL DO JÚRI. JUNTADA DE DOCUMENTOS PELO PARQUET. DESENTRANHAMENTO. SUPOSTA OFENSA AO ART. 479 DO CPP. INOCORRÊNCIA. EXEGESE DO ART. 478 DO CPP. ROL TAXATIVO. NULIDADE. INEXISTÊNCIA.
+(..)
+7. É certo que da ação de indenização a defesa já tinha pleno conhecimento, razão por que a utilização do referido documento pela acusação, em defesa de sua tese acusatória, deve-se ater ao comando estabelecido no inciso I do art. 478 do Código de Processo Penal, evitando o "argumento de autoridade" que prejudique o acusado.
+8. A exegese a ser dada à referida norma é no sentido de que não podem as partes desvirtuar a natureza jurídica ou dar interpretação convenientemente diversa daquela a que se destinam a pronúncia e suas posteriores confirmações, a fim de beneficiar ou prejudicar o réu.
+9. Registre-se que esta Corte Superior, em inúmeros julgados, já reconheceu que a mera leitura da pronúncia, ou de outros documentos em plenário, não implica, obrigatoriamente, a nulidade do julgamento, notadamente porque os jurados possuem amplo acesso aos autos. Assim, somente fica configurada a ofensa ao art. 478, I, do Código de Processo Penal, se as referências forem feitas como argumento de autoridade que beneficie ou prejudique o réu.
+10. Deveras, não há como estender a interpretação a ser dada ao inciso I do art. 478 do CPP - que, de forma taxativa, elenca a impossibilidade de se fazer referências à pronúncia e às decisões posteriores que julgaram admissível a acusação -, recaindo tal proibição apenas sobre decisões proferidas no âmbito da própria ação penal ou dela provenientes, a elas não se equiparando a sentença condenatória civil, mormente diante da independência entre os Juízos cível e penal.
+11. Compete ao magistrado, como responsável primordial pela condução do julgamento, velar pela observância estrita de sua higidez jurídica, prevenindo eventuais nulidades, sobretudo aquelas relacionadas às garantias constitucionais do devido processo legal.
+12. Hipótese em que inexiste ilegalidade na juntada dos documentos que poderão instruir os autos, não se verificando violação aos princípios constitucionais da ampla defesa, do contraditório e do devido processo penal, o que permite ao eg. conselho de sentença a realização do julgamento, nos termos do art. 5º, XXXVIII e alíneas, da Constituição Federal.
+13. Habeas corpus não conhecido." (HC 149.007/MT, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 5/5/2015, DJe 21/5/2015).
+"PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO-CABIMENTO. HOMICÍDIO. ARTS. 121, § 2º, INCISOS I E IV, E 121, § 2º, INCISOS I E IV, NA FORMA DO ART. 14, INCISO II, E 288, PARÁGRAFO ÚNICO, TODOS DO CÓDIGO PENAL. PEDIDO DE PROIBIÇÃO DE LEITURA DE TRECHOS DA DECISÃO QUE INFLUENCIEM O ÂNIMO DOS JURADOS. NULIDADE. INOCORRÊNCIA. MERA REFERÊNCIA A SENTENÇA DE CORRÉU. ART 478, INCISO I, DO CÓDIGO DE PROCESSO PENAL. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+III - Nos termos do art. 478, inciso I, do CPP, durante os debates é vedado às partes, sob pena de nulidade, fazer referências à decisão de pronúncia, às decisões posteriores que julgaram admissível a acusação ou à determinação do uso de algemas como argumento de autoridade que beneficiem ou prejudiquem o acusado.
+IV - Desta forma, não merece guarida o pedido de proibição de leitura de trecho da sentença condenatória de corréu, ao argumento de que poderiam influenciar os jurados, uma vez que, além da ausência de comprovação de que a leitura do documento teria sido feita com argumento de autoridade, tal pedido carece de fundamentação legal.
+V - " ..  O art. 478, I, do Código de Processo Penal veda que as partes, nos debates, façam referência a decisão de pronúncia e a decisões posteriores em que se tenha julgado admissível a acusação como argumento de autoridade para beneficiar ou prejudicar o acusado. 2. Esse dispositivo legal não veda a leitura, em plenário, da sentença condenatória de corréu, proferida em julgamento anterior, a qual é admitida pelo art. 480, caput, do Código de Processo Penal  .. " (RHC n. 118.006/SP, Primeira Turma, Rel. Min. Dias Toffoli, julgado em 10/2/2015).
+Habeas corpus não conhecido." (HC 323.132/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 3/11/2015, DJe 12/11/2015, grifou-se).
+Portanto, o acórdão que anulou o julgamento do ora recorrido merece reforma, uma vez que se encontra dissonante da jurisprudência desta Corte de Justiça.
+Entende-se que o presente caso não atrai a incidência da Súmula n. 283/STJ, como quer o agravante, pois extrai-se das razões do apelo especial o argumento de que "a sentença que condenou o corréu restou acostado atempadamente (mesmo porque pretérita ao julgamento cindido) nos autos, ilustrando os trabalhos plenários sem qualquer surpresa defendente" (e-STJ, fl. 857).
+Assim, repisa-se que a pretensão do ora recorrente não encontra guarida, pois, conforme ilustram os julgados trazidos, a sentença do corréu lida em plenário estava juntada aos autos, não havendo se falar em prejuízo insanável à defesa.
+Não é despiciendo trazer à colação excerto esclarecedor do parecer ministerial quanto ao ponto:
+"Na espécie, a sentença condenatória lida pela acusação na sessão plenária, como esforço argumentativo para o reconhecimento de qualificadora, não se referia ao ora recorrido, mas a co réu. Não se tratando da pronúncia do ora recorrido, ou do acórdão que a confirmou, não incide a vedação legal, mormente quando a sentença condenatória do co réu foi previamente juntada aos autos, antes da sessão plenária, pelo que não havia óbice a que a defesa exercesse o contraditório" (sic, e-STJ, fl. 889).
+Assim, não trouxe o agravante quaisquer argumentos aptos a infirmar a decisão ora agravada, razão pela qual deve subsistir por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
