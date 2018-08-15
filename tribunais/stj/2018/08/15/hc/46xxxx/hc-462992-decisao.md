@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado em beneficio de [NOME], contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, no Agravo em execução n. 9000.391-71.2017.8.26.0625.
+Depreende-se dos autos que, o Juízo das Execuções indeferiu o pedido de comutação de pena, com base no Decreto n.º 8.380/14, conforme decisão proferida em 03/08/2017 (fl. 11).
+Aduz o impetrante/paciente, na inicial do presente writ, em síntese, que sofre constrangimento ilegal, uma vez que o e. Juízo da 2ª Vara das Execuções da Comarca de Taubaté/SP até o momento não cumpriu determinação contida no v. acórdão proferido no Agravo em Execução n. 9000391-71.2017.8.26.0625, assim ementado:
+"Ementa: Agravo em execução. Pedido de comutação de pena formulado com base no Decreto nº 8.380/2014. Irresignação defensiva contra a decisão que indeferiu o beneficio por falta do requisito objetivo. Acolhimento. A última prisão em flagrante do recorrente não tem o condão de interromper o lapso temporal para a aquisição do referido benefício. Recurso provido, parcialmente, devendo o Juízo de primeiro grau reexaminar o pedido à luz dos demais elementos constantes da execução criminal." (fl. 14)
+Afirma que houve negativa de prestação jurisdicional pelo eg. Colegiado, ao deixar de analisar o pedido de comutação de pena, determinando que o Juízo de 1º grau apreciasse o pleito.
+Assevera que "o paciente demonstrou documentalmente que até a publicação do Decreto de 2014 preenchia todos os requisitos legais da comutação, aliás, qual seria o motivo de retornar ao juízo primevo se qualquer fato posterior, seja novo crime, seja falta grave, etc, não são abrangidos pelas restrições do Decreto nº 8.380/2014, destarte, não teriam o condão de modificar o implemento dos requisitos ao tempo daquele Decreto." (fl. 6).
+Requer, ao final, a concessão da ordem, liminarmente, para que seja concedida a comutação de penas com base no Decreto Presidencial n. 8.380/2014.
+É o relatório.
+Decido.
+O presente habeas corpus não comporta conhecimento, pois se trata, na verdade, de evidente reiteração de pedido, uma vez que a quaestio suscitada já foi objeto de apreciação por esta Corte no writ n. 446.828/SP, de minha relatoria, julgado em 19/06/2018.
+Sobre a impossibilidade de conhecimento do habeas corpus quando configurada reiteração de pedidos, confiram-se os seguintes julgados:
+"AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. REITERAÇÃO DE PEDIDO. AGRAVO DESPROVIDO.
+1. O recurso ordinário traz pedido idêntico ao formulado no HC 393.851/BA e em ambos se ataca acórdão do Tribunal de Justiça da Bahia no Habeas Corpus n. 0023373-89.2016.8.05.0000. Referida impetração teve seu mérito julgado em maio do corrente ano.
+2. Diante de inadmissível reiteração de pedidos, obstaculizado o conhecimento do recurso ordinário.
+Agravo regimental desprovido." (AgRg no RHC 84.693/BA, Quinta Turma, Rel. Min. Joel Ilan Pacionik, DJe 16/08/2017)
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL E PROCESSUAL PENAL. ROUBO MAJORADO. JUNTADA DO BOLETIM DE OCORRÊNCIA DA POLÍCIA MILITAR. NECESSIDADE. SUPRESSÃO DE INSTÂNCIA. INTERROGATÓRIO POR VIDEOCONFERÊNCIA. MATÉRIA PREJUDICADA. REITERAÇÃO DE PEDIDO. INDEFERIMENTO DE PROVAS. LIVRE CONVENCIMENTO MOTIVADO. AUSÊNCIA DE PREJUÍZO. DENÚNCIA. DECISÃO DE RECEBIMENTO E AFASTAMENTO DA ABSOLVIÇÃO SUMÁRIA. NULIDADE. INEXISTÊNCIA. AUSÊNCIA DE PREJUÍZO. RECURSO DESPROVIDO.
+ ..
+2. Resta impedido o exame quanto a temas já decididos nos autos de habeas corpus anteriormente impetrados, por se tratar de mera reiteração de pedidos.
+ ..
+8. Recurso em habeas corpus improvido." (RHC 84.050/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 16/08/2017)
+Acrescento que, como ficou assentado na decisão anterior, o impetrante se insurge, com o presente mandamus, contra a suposta negativa de prestação jurisdicional pelo eg. Colegiado de origem, que deixou de analisar o pedido de comutação de pena, determinando que o Juízo de 1º grau apreciasse o pleito.
+Ao julgar o habeas corpus n. 432.058/SP, concedi a ordem, de ofício, para anular o v. acórdão proferido no writ n. 0050860-15.2017.8.26.0000, determinando que fossem apreciadas pelo eg. Tribunal a quo, como entendesse de direito, as questões deduzidas no mandamus originário.
+O eg. Tribunal estadual, em novo julgamento realizado em 22/2/2018, deu "parcial provimento ao agravo defensivo, para deixar estabelecido que, em se tratando de pedido formulado com base no Decreto Presidencial nº 8.380/2014, deve ser considerado o total de pena cumprida, sem interrupção da contagem do lapso temporal pela falta grave, devendo o Juízo de primeiro grau reexaminar o pedido." (fl. 12, grifei).
+Com efeito, não se vislumbra negativa de prestação jurisdicional no v. acórdão ao determinar que o Juízo das Execuções reaprecie o pedido de comutação, considerando os diversos fatores que repercutem em sua análise, e a necessidade de se aferir, com exatidão, os cálculos de pena, exame que se amolda o Juízo de 1º grau, competente para o mister.
+Assim, estabelecida a tese de que deve ser considerado o total de pena cumprida, sem interrupção da contagem do lapso temporal pela falta grave, não há flagrante ilegalidade na determinação de que o Juízo das Execuções novamente analise o pleito.
+Em conclusão, como já assentei anteriormente, a irresignação quanto ao descumprimento, pelo Juízo da 2ª Vara das Execuções da Comarca de Taubaté/SP, do que restou decidido no novo acórdão proferido no Agravo em Execução n. 9000391-71.2017.8.26.0625, não pode ser apreciado diretamente por esta Corte Superior, por tratar-se de ato/omissão emanado de Juiz de 1º grau.
+Em tal contexto, o não conhecimento do presente writ é medida que se impõe.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus, com recomendação ao e. Juízo da 2ª Vara das Execuções da Comarca de Taubaté/SP, que imprima celeridade na análise do pedido de comutação de pena do sentenciado [NOME], com base no Decreto n.º 8.380/14, nos termos do que restou decidido no Agravo em Execução n. 9000391-71.2017.8.26.0625, julgado pelo eg. TJSP.
+Comunique-se a presente decisão, com urgência, ao e. Juízo de origem.
+P. e I.
