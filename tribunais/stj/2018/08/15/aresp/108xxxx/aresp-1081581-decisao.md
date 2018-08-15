@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL (CPC/2015). AGRAVO EM RECURSO ESPECIAL. AGRAVO CONHECIDO. RECURSO ESPECIAL. ALEGAÇÃO DE DIVERGÊNCIA JURISPRUDENCIAL. COBRANÇA INDEVIDA EM CONTA CORRENTE. DANO MORAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS JULGADOS COLACIONADOS E O PRESENTE CASO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por DIÓGENES MENDONÇA DUMAS DA SILVA E LEILIANE DE LOURDES FERRAS ROSA, contra decisão que inadmitiu o recurso especial fundamentado no artigo 105, inciso III, alínea "c", da Constituição Federal, interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+EMENTA: DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DO INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. RELAÇÃO JURÍDICA ENTRE AS PARTES NÃO COMPROVADA. DÉBITO INEXISTENTE. COBRANÇA INDEVIDA. MERO ABORRECIMENTO. DEVER DE INDENIZAR. AUSÊNCIA. JUROS MORATÓRIOS. RESPONSABILIDADE CONTRATUAL MARCO INICIAL. DATA DA CITAÇÃO. PRIMEIRO RECURSO NÃO PROVIDO. SEGUNDO RECURSO PROVIDO EM PARTE. Alegada pelo autor a inexistência de relação jurídica da qual decorra cobrança considerada indevida, incumbe ao réu, se em contestação a diz contraída, demonstrá-la, por se tratar de fato impeditivo do direito daquele. A mera cobrança indevida, ainda que injusta, por si só, não se traduz em dano moral indenizável, configurando simples aborrecimento, dissabor e incômodo. Deve-se tomar como termo inicial de incidência de juros moratórios, em caso de responsabilidade civil contratual, a data da citação (e-STJ, fl. 204).
+Opostos embargos de declaração, às fls. 215-218, foram rejeitados em decisão de fls. 245-250, e-STJ.
+Nas razões do recurso especial, às fls. 253-269, e-STJ, os recorrentes alegam violação aos artigos 186 e 927, ambos do Código Civil, e divergência jurisprudencial no tocante ao dano moral suportado, pois entendem que a existência do ato ilícito praticado, por si só, gera o dano moral indenizável.
+Contrarrazões às folhas 307-318, e-STJ.
+Sobreveio o juízo de admissibilidade do Tribunal de origem, às fls. 325-326, e-STJ, que inadmitiu o recurso especial por considerar que incide no caso o óbice da Súmula nº 07/STJ, o que ensejou a interposição do presente recurso.
+Nas razões do agravo em recurso especial, às folhas 329-339, e-STJ, houve a devida impugnação ao fundamento da decisão agravada.
+É o relatório.
+Passo a decidir.
+A controvérsia diz respeito à irresignação do recorrente quanto ao não reconhecimento da indenização de dano moral decorrente de lançamentos indevidos em conta corrente.
+A recorrente alega que o Tribunal de origem, ao decidir da maneira impugnada, deu interpretação diversa da realizada por outros Tribunais estaduais, no tocante à existência dos requisitos caracterizadores da responsabilidade civil e, portanto, do dever de indenizar.
+Para comprovar o alegado, colaciona julgados do Tribunal de Justiça do Estado do Rio de Janeiro, que, segundo alega, dão tratamento jurídico distinto à questão semelhante à dos autos.
+Em que pese a argumentação da recorrente, o recurso não merece prosperar.
+Isso porque, em análise aos acórdãos paradigmas trazidos, entendo não estar presente a necessária similitude fática com o presente caso.
+Em consulta à decisão do Tribunal de Justiça do Estado do Rio de Janeiro, no julgamento da apelação 0289162-63.2013.8.19.0001, indicada pelos recorrentes como paradigma, verifica-se que a situação ali delineada não se assemelha à dos autos.
+No julgado paradigma, o tribunal consignou que,
+" ..  Há que se mencionar, neste contexto, ser indubitável a ocorrência de grave prejuízo ao autor, haja vista que foi descontado de seu contracheque, sem o seu consentimento, o valor referente ao contrato de empréstimo firmado e não reconhecido. É certo, ainda, que tais descontos comprometeram grande percentual de seu rendimento, o que deve ser considerado" .
+Desse modo, não se trata apenas de mero desconto indevido em conta corrente, como no caso dos autos, pois o desconto em contracheque, referente a contrato de empréstimo não reconhecido, foi a situação objetivamente considerada como causadora do dever de indenizar.
+O mesmo se aplica aos demais acórdãos trazidos, pois no segundo, o autor se viu numa situação em que foi necessário contratar um empréstimo para que o débito fosse paralisado, e no terceiro, as cobranças indevidas se deram mesmo após a comunicação do óbito do correntista. Assim, as situações consideradas como causadoras do dever de indenizar, nos acórdãos trazidos como paradigma, ultrapassam a mera cobrança indevida, não estando caracterizada a necessária similitude fática com o presente caso.
+Desse modo, sendo manifesta a ausência de similitude fática entre os julgados trazidos e o presente caso, o não conhecimento do recurso especial é medida que se impõe.
+Por fim, considerando que o presente recurso foi interposto na vigência do Código de Processo Civil de 2015 (Enunciado administrativo n. 7/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao que dispõe o artigo 85, § 11, do Novo Código.
+No caso dos autos, a verba honorária foi fixada pelo Tribunal de origem no patamar de R$ 2.000,00 (dois mil reais), (e-STJ fl. 211). Destarte, a majoração dos honorários sucumbenciais para R$ 2.500,00 (dois mil e quinhentos reais) é medida adequada ao caso.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial e, com base no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios para R$ 2.500,00 (dois mil e quinhentos reais) , ressalvada a concessão do benefício da gratuidade da justiça.
+Intimem-se.
