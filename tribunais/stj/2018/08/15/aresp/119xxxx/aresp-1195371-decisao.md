@@ -1,0 +1,27 @@
+EMENTA
+PATENTE. AGRAVO EM RECURSO ESPECIAL. MANEJADO SOB A ÉGIDE DO NCPC. CONCORRÊNCIA DESLEAL. AGRAVO EM RECURSO ESPECIAL QUE NÃO INFIRMA DE FORMA ESPECÍFICA OS FUNDAMENTOS DA DECISÃO AGRAVADA, INCIDÊNCIA DO ART. 932, III, DO NCPC. AGRAVO NÃO CONHECIDO.
+DECISÃO
+Da leitura da minuta de agravo de instrumento que deu origem ao presente recurso, pode-se aferir que [NOME] e CONFECÇÃO CALMAR LTDA. (MARCO e outro) ajuizaram ação sob o rito ordinário por concorrência desleal contra [NOME].
+Iniciado o cumprimento da sentença, foi proferida decisão deferindo a expedição de mandado de busca e apreensão de todas as mercadorias contrafeitas e qualquer outro material utilizado para o fabrico do fio anti-corte-corte.
+CARLOS interpôs agravo de instrumento ao qua foi dado provimento conforme acórdão assim ementado:
+PROPRIEDADE INDUSTRIAL Patentes de invenção Mandado de constatação, busca e apreensão Descabimento Inocorrência de contrafação atual Queda em domínio público Decisão reformada.
+CANCELAMENTO DE CERTIFICADOS JUNTO AO MINISTÉRIO DO TRABALHO LEGITIMIDADE E INTERESSE RECURSAL AUSENTES Apenas aquele que foi atingido pelas consequências da decisão, está legitimado a recorrer Aspecto da lei processual que impede seja a questão apreciada Matéria não conhecida Agravo parcialmente conhecido e na parte conhecida, provido (e-STJ, fl. 379).
+Os embargos de declaração foram rejeitados (e-STJ, fls. 393/397).
+MARCO e outro desafiaram recurso especial com base no art. 105, III, a, da CF, onde alegaram violação dos arts. 40, 195, III e 207 da Lei 9279/1996, pelos seguintes fundamentos (1) o acórdão não poderia ter cassado a decisão que deferiu a expedição de mandado de constatação, busca e apreensão, pois foi dada sob o manto de decisão transitada em julgado, que veda a pratica de concorrência desleal; (2) a continuidade da prática de concorrência desleal assumida pelo Recorrido desde o início desta demanda, JAMAIS INTERROMPIDA e atualmente em franca atividade, representa, sem dúvida continuidade delituosa, em franca concorrência desleal em face dos Agravados. E exatamente por assim ocorrer, já que assentada nos autos a subtração de desenhos, esquemas e da própria clientela dos Recorrentes pelo Recorrido é que os Recorrentes aparelharam medida cautelar incidental visando apreender os bens utilizados para esse fim espúrio (e-STJ, fl. 416).
+Foram apresentadas contrarrazões (e-STJ, fls. 426/441).
+O Tribunal de origem inadmitiu o apelo nobre por (1) não ter sido demonstrada a infringência aos preceitos arrolados no recurso e (2) incidência da Súmula nº 7 do STJ.
+MARCO e outro ingressaram com agravo em recurso especial onde reiteraram os fundamentos deduzidos ao longo dos autos.
+Foi apresentada contraminuta (e-STJ, fls. 475/488).
+É o relatório.
+DECIDO
+A irresignação não comporta conhecimento.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+No mais, observa-se que a petição de agravo em recurso especial, após reiterar os termos do recurso especial, não impugnou de forma objetiva a aplicação da Súmula nº 7 do STJ, fundamento no qual se suportou o Tribunal local para inadmitir o apelo nobre.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+De fato, em nenhum momento da petição recursal ficou devidamente demonstrado que a reforma do acórdão recorrido com a desconstituição de suas premissas, nos moldes como pretendida, não implica necessariamente o reexame dos elementos informativos do feito.
+Assim, não tendo o recurso impugnado especificamente os fundamentos da decisão recorrida, é o caso de incidir o art. 932, III, do NCPC.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. INCIDENTE DE FALSIDADE. RECURSO CABÍVEL. APELAÇÃO. SÚMULA 83/STJ. AGRAVO REGIMENTAL IMPROVIDO. 1. Quando o inconformismo excepcional não é admitido com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte. 2. Se a parte agravante não apresenta argumentos hábeis a infirmar os fundamentos da decisão regimentalmente agravada, deve ela ser mantida por seus próprios fundamentos. 3. Agravo regimental a que se nega provimento (AgRg no AREsp nº 856.954/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 20/4/2016)
+Nessas condições, nos termos do art. 932, III, do NCPC, NÃO CONHEÇO do agravo.
+Por fim, advirta-se que eventual recurso interposto contra este julgado estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º) e honorários recursais (art. 85, § 11).
+Publique-se.Intimem-se.
