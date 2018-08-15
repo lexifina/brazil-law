@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de recurso especial interposto por BRADESCO SAÚDE S/A, com fundamento na alínea "a" e "c" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 192, e-STJ):
+Ilegitimidade passiva. Autor que é beneficiário dos serviços prestados pela ré e com quem pretende a manutenção do vínculo contratual. Incidência do verbete nº 101 das Súmulas do Tribunal de Justiça. Preliminar afastada.
+Denunciação da lide ao ex-empregador. Hipótese analisada que não se enquadra nas previstas no art. 125 do Código de Processo Civil/2015, correspondente ao art. 70 do diploma anterior.
+Plano de saúde. Natureza jurídica da participação do empregado no custeio do contrato, se a título de contribuição ou participação, que é irrelevante. Cota do empregado, que sempre foi paga pelo empregador, que configura contribuição indireta. Precedentes. Alegação o artigo 458, § 2º, inciso IV, da Consolidação das Leis do Trabalho desqualifica plano de saúde como salário in natura. Impossibilidade de acolhimento.
+Recurso não provido.
+1. Nas razões do recurso especial (fls. 201-219, e-STJ), dentre outras questões, há discussão acerca da definição "se o ex-empregado aposentado ou demitido sem justa causa faz jus à manutenção no plano de saúde coletivo empresarial quando, na atividade, a contribuição foi suportada apenas pela empresa empregadora", controvérsia afetada pelo Ministro Ricardo Villas Boas Cueva, à sistemática dos recursos repetitivos (art. 1.036 e seguintes do CPC), vinculada ao Tema nº 989 pendente de julgamento pela Segunda Seção do Superior Tribunal de Justiça.
+Assim, é imperiosa a devolução dos autos ao Tribunal de origem para observância da sistemática dos recursos repetitivos, consoante determina o art. 2º da Resolução STJ n. 17, de 4 de setembro de 2013, in verbis:
+Art. 2º Verificada a subida de recursos fundados em controvérsia idêntica a controvérsia já submetida ao rito previsto no art. 543-C do Código de Processo Civil/1973, o presidente poderá:
+I - determinar a devolução ao tribunal de origem, para nele permanecerem sobrestados os casos em que não tiver havido julgamento do mérito do recurso recebido como representativo de controvérsia;
+II - determinar a devolução dos novos recursos ao tribunal de origem, para os efeitos dos incisos I e II do § 7º do art. 543-C do Código de Processo Civil, ressalvada a hipótese do § 8º do referido artigo, se já proferido julgamento do mérito do recurso representativo da controvérsia.
+2. Ante o exposto, determino a devolução dos autos à origem para que o presente recurso especial permaneça suspenso até o pronunciamento definitivo do STJ sobre o Tema 989, nos termos do artigo 1.037, inciso II, do CPC/2015 e, após, observe-se a sistemática prevista nos artigos 1.040 e 1.041 do CPC/2015.
+Publique-se.
+Intimem-se.
