@@ -1,0 +1,19 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. OMISSÃO DO ACÓRDÃO RECORRIDO. INEXISTÊNCIA. PREEXISTÊNCIA DA DOENÇA. FUNDAMENTO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 283/STF. AGRAVO CONHECIDO PARA CONHECER, EM PARTE, DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Trata-se de agravo interposto por Centro Trasmontano de São Paulo contra a decisão que negou seguimento ao recurso especial.
+Na origem, [NOME] ingressou com ação objetivando compelir o ora recorrente a custear a realização de procedimento cirúrgico necessário à correção de "Disfunção Têmporo Mandibular" que acomete a autora, tendo formulado, ainda, pedido de indenização por danos morais, ante a recusa indevida de cobertura por parte da entidade ré.
+O pedido foi julgado parcialmente procedente, com a condenação da demandada "a arcar com o procedimento relatado na inicial, mas com a utilização do material indicado pela própria ré" (e-STJ, fl. 472), afastada, porém, a reparação a título de danos morais.
+Ambas as partes apelaram, tendo sido os recursos desprovidos pelo Tribunal de Justiça de São Paulo por acórdão assim ementado (e-STJ, fl. 612):
+PLANO DE SAÚDE - COBERTURA INDEVIDAMENTE NEGADA - TRATAMENTO QUE FAZ PARTE INTEGRANTE DO PROCESSO NECESSÁRIO PARA A MELHORA DO PACIENTE - [NOME] PELO CONTRATO - DOENÇA PREEXISTENTE NÃO COMPROVADA - EXCLUSIVIDADE DE MARCA DOS MATERIAIS BEM AFASTADA - DANO MORAL NÃO CONFIGURADO - SIMPLES PROBLEMA CONTRATUAL PRONTAMENTE REPARADO - SENTENÇA MANTIDA - APELOS DESPROVIDOS.
+
+Opostos embargos de declaração pela autora e pelo réu (e-STJ, fls. 708-710 e 716-719), foram rejeitados (e-STJ, fls. 713-714 e 723-724).
+Nas razões do apelo nobre, fundamentado na alínea a do permissivo constitucional, alegou o requerido violação dos arts. 1.022, II, do CPC/2015; 11 da Lei n. 9.656/1998 e 188, I, do CC/2002, sustentando, em síntese: a) omissão do acórdão recorrido em relação à possibilidade de comprovação da preexistência da doença em até 24 (vinte e quatro) meses após a assinatura do contrato; e b) legalidade da cláusula que prevê a cobertura parcial temporária, sendo facultado à operadora comprovar a preexistência da doença que acomete o contratante do plano de saúde.
+Contra-arrazoado (e-STJ, fls. 739-741), o recurso não foi admitido (e-STJ, fls. 744-746), ensejando a interposição do presente agravo, ao qual foi oferecida resposta (e-STJ, fls. 757-759).
+Brevemente relatado, decido.
+De início, observo que a negativa de prestação jurisdicional caracteriza-se pela recusa do juiz, mesmo após provocado por meio de embargos de declaração, em decidir as questões submetidas ao seu julgamento, com fundamentação dotada de clareza, coerência lógica entre premissas e conclusões e profundidade suficiente a amparar o resultado, revelando-se desnecessária, contudo, a manifestação judicial sobre todos os argumentos declinados pelas partes.
+Na hipótese, verifico que a questão controvertida, relacionada à possibilidade de comprovação da preexistência da doença, foi decidida com fundamentação clara e objetiva, de modo que improcede a alegação de que teria havido negativa de prestação jurisdicional.
+Aliás, no ponto, corroborando o que havia sido assinalado na sentença, entendeu o Tribunal estadual que "o laudo pericial é conclusivo ao apontar que a doença da segurada não fora preexistente - e assim, fica afastada a alegação de carência contratual" (e-STJ, fl. 613).
+Ocorre que esse fundamento, suficiente, por si só, para manter a conclusão do julgado, não foi objeto de impugnação específica nas razões do recurso especial, incidindo, à hipótese, o óbice da Súmula 283 do Supremo Tribunal Federal, por aplicação analógica.
+Diante do exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
