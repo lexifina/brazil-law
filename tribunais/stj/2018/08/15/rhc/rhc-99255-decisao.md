@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado de Minas Gerais no julgamento do HC n. 10000.18.027129-8/000.
+Extrai-se dos autos que o recorrente foi preso em flagrante em 08.02.2018 por ter supostamente praticado o delito tipificado no art. 155, § 4º, IV, do Código Penal (furto qualificado). Referida custódia foi convertida em preventiva (fls. 30/33).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem, por unanimidade, em acórdão que restou assim ementado:
+EMENTA: HABEAS CORPUS - FURTO QUALIFICADO - PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA - PRESENÇA DOS PRESSUPOSTOS ELENCADOS NOS ARTIGOS 312 E 313 DO CÓDIGO DE PROCESSO PENAL - APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO - INADEQUABILIDADE - CONDIÇÕES PESSOAIS FAVORÁVEIS - INSUFICIÊNCIA PARA OBSTAR A CONSTRIÇÃO CAUTELAR. 1. Presentes os requisitos que autorizam a decretação da prisão preventiva, não há que se falar em ilegalidade da decisão que converteu a prisão em flagrante em preventiva, porquanto o acautelamento do agente se afigura necessário ao resguardo da ordem pública, nos termos do artigo 312 do Código de Processo Penal, tendo em vista, sobretudo, a reiteração delitiva a ele atribuída. 2. O crime de furto qualificado, por cuja suposta autoria o paciente foi preso, encontra em seu preceito secundário pena privativa de liberdade superiores a quatro anos, o que implementa o comando normativo contido no inciso I do artigo 313 do Código de Processo Penal. 3. Presentes os pressupostos e aferida a necessidade da prisão preventiva, inviável a fixação de medidas cautelares diversas. 4. A existência de condições pessoais favoráveis, por si só, não é suficiente para inibir a custódia cautelar, uma vez demonstrada a necessidade de sua manutenção (fls. 76).
+No presente recurso, alega que o decreto prisional carece de fundamentação idônea, uma vez que pautado na garantia da ordem pública, com base em elementos genéricos. Destarte, sustenta ausência dos requisitos autorizadores da custódia cautelar previstos no art. 312 e 313 do Código de Processo Penal - CPP.
+Aponta a excepcionalidade da prisão preventiva e afirma que, no caso dos autos, não restou comprovado o periculum libertatis, configurando, assim, coação ilegal. Invoca o princípio da presunção de inocência e salienta a presença de condições pessoais favoráveis.
+Pondera que a prisão preventiva é medida desproporcionalmente severa, à luz dos enunciados da Súmula 440 do Superior Tribunal de Justiça e das Súmulas 718 e 719 do Supremo Tribunal Federal , especialmente levando em conta a possibilidade de fixação de regime prisional diverso do fechado.
+Pugna, assim, em liminar e no mérito, pela revogação da prisão preventiva para que o recorrente aguarde em liberdade o trânsito em julgado de eventual condenação.
+Indeferida a liminar (fls. 107/109) e infomrações prestadas (fls. 11/151), o Ministério Público Federal opinou pela prejudicialidade do recurso (fls. 153/155).
+É o relatório.
+Decido.
+O recurso está prejudicado.
+Isso porque, das informações prestadas pelo Juízo singular, às fls. 120/121, constatou-se que, em 26/6/2018, foi concedida liberdade provisória ao ora recorrente.
+Assim, não há como negar a perda superveniente do objeto deste recurso, tendo em vista ter cessado as circunstâncias determinantes da irresignação.
+Ante o exposto, com fulcro no art. 34, XX, do Regimento Interno desta Corte, julgo prejudicado o presente recurso em habeas corpus, ante a superveniente perda do seu objeto.
+Publique-se.
+Intimações necessárias.
