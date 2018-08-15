@@ -1,0 +1,21 @@
+Decisão:
+Ementa: Processual penal. Habeas corpus. Tráfico de drogas. Dosimetria da pena. Óbice da Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 439.556, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi condenado pelo crime previsto no art. 33, § 4º, da Lei n. 11.343/2006, à pena de 4 anos, 4 meses e 15 dias de reclusão, em regime inicial semiaberto (38 kg de maconha).
+    3. Irresignada, a defesa apelou. O Tribunal de Justiça do Estado de Mato Grosso do Sul negou provimento ao recurso.
+    4. Em seguida, foi impetrado habeas corpus no Superior Tribunal de Justiça. O Relator do HC 439.556, Antonio Saldanha Palheiro, indeferiu a medida cautelar.
+    5. Neste habeas corpus, a parte impetrante afirma que “não fora aplicada a causa de diminuição de pena em seu patamar máximo, qual seja, 2/3 sem qualquer justificativa idônea”; e que “a causa de aumento de pena do art. 40, V, da Lei de Drogas não deveria ter sido aplicada, vez que a droga que transportava o paciente não ultrapassara efetivamente as fronteiras do Estado de Origem”.
+    6. Com essa argumentação, requer a aplicação do “patamar máximo de 2/3 pela incidência da causa de diminuição da reprimenda penal, tipificada no art. 33, parágrafo 4º, da Lei de Drogas”, “bem como seja afastada a causa de aumento de pena do art. 40, V, da Lei de Drogas”; e que “seja ainda afastada a hediondez do delito, determinando-se a aplicação de regime aberto e a sua substituição por pena restritiva de direitos”.
+    Decido.
+    7. O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    8. Não é caso de superação da Súmula 691/STF.
+    9. A dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático probatório, não sendo possível, em habeas corpus, a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. Assim, a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, ao exame da “motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419, Rel. Min. Sepúlveda pertence).
+    10. Na hipótese de que se trata, tal como deixou consignado o Tribunal de origem, “agiu com acerto o magistrado ao deixar de considerar a quantidade de droga apreendida para efeito de elevação da pena-base, utilizando-a tão somente para graduar a redução de pena prevista no art. 33, § 4º, da Lei de Drogas”.
+    11. Nessas condições, não se verifica contrariedade à orientação Plenária do Supremo Tribunal Federal. Isso porque, no julgamento dos habeas corpus 112.776 e 109.193, sob a relatoria do Ministro Teori Zavascki, o Tribunal, por maioria de votos, entendeu que “configura ilegítimo bis in idem considerar a natureza e a quantidade da substância ou do produto para fixar a pena base (primeira etapa) e, simultaneamente, para a escolha da fração de redução a ser imposta na terceira etapa da dosimetria (§ 4º do art. 33 da Lei 11.343/2006). Todavia, nada impede que essa circunstância seja considerada para incidir, alternativamente, na primeira etapa (pena-base) ou na terceira (fração de redução)”.
+    12. Quanto ao mais, verifico que o Superior Tribunal de Justiça deixou de apreciar o mérito das teses defensivas, “tendo em vista a falta de manifestação do Tribunal de origem”. O que, igualmente, impede o imediato exame da matéria por esta Suprema Corte, sob pena de dupla supressão de instâncias.
+    13. Diante do exposto, com base no art. 21, §1º, do RI/STF, não conheço do habeas corpus.
+    Publique-se.
+    Brasília, 15 de agosto de 2018.
+Ministro Luís Roberto Barroso
+Relator
+                 Documento assinado digitalmente
