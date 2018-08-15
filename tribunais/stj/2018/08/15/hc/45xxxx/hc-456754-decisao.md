@@ -1,0 +1,21 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO DA CONDUTA. REEXAME DE FATOS E PROVAS. INVIABILIDADE NA VIA ELEITA.
+Writ não conhecido.
+DECISÃO
+Relatou a Ministra Laurita Vaz, ao indeferir a liminar (fls. 405/406):
+Vistos, etc.
+Trata-se de habeas corpus substitutivo de recurso especial, com pedido de liminar, impetrado em favor de MARCO AURÉLIO FERREIRA FURTADO, MICHEL REGINALDO FURTADO E ROSICLEIA BECKER DE VARGAS, contra acórdãos do Tribunal de Justiça do Estado do Rio Grande do Sul, proferidos na Apelação n.º [CPF] e nos Embargos Infringentes n.º [CPF].
+Consta dos autos que MARCO AURÉLIO, reincidente, foi condenado, como incurso no art. 33, caput, da Lei n.º 11.343/2006, à pena de 5 (cinco) anos e 8 (oito) meses de reclusão, em regime inicial fechado, e ao pagamento de 500 (quinhentos) dias-multa, no valor mínimo legal.
+Por sua vez, MICHEL e ROSICLEIA, réus primários, foram também condenados, como incursos no art. 33, caput c.c. o § 4.º, da Lei n.º 11.343/2006, igualmente, à pena de 3 (três) anos e 4 (quatro) meses de reclusão, em regime inicial aberto, e ao pagamento de 500 (quinhentos) dias-multa, no valor mínimo legal, substituída a pena reclusiva por duas sanções restritivas de direitos, consistentes em prestações de serviços à comunidade e pecuniária.
+Sustenta a parte Impetrante, em suma, a ilegalidade das decisões impugnadas, por insuficiência de provas para a condenação dos Pacientes, considerando que a quantidade de droga apreendida é pequena (67 gramas de maconha), não havendo indicação de que ela seria destinada à comercialização, mas, sim, para uso próprio, nem sequer foi encontrado nenhum objeto característico da mercancia ilícita.
+Requer, assim, liminarmente, a concessão de liberdade aos Pacientes, até o julgamento do mérito da presente impetração. No mérito, pede a absolvição dos réus e, subsidiariamente, a desclassificação da conduta dos acusados para o delito previsto no art. 28, caput, da Lei n.º 11.343/2006.
+O pedido de liminar foi indeferido pela Presidência desta Corte (fls. 405/408).
+Prestadas as informações (fls. 411/477), o Ministério Público Federal, em parecer exarado pelo Subprocurador-Geral da República [NOME], manifestou-se pela extinção do writ sem resolução de mérito ou, caso contrário, pela denegação da ordem.
+É o relatório.
+Pretende a impetrante a absolvição dos pacientes pelo delito de tráfico ilícito de entorpecentes ou, subsidiariamente, a desclassificação da conduta para o art. 28 da Lei n.º 11.343/06.
+Sucede, porém, que esta não é a via adequada para se alcançar tal desiderato. Há inúmeros julgados do Superior Tribunal de Justiça dizendo que, no âmbito do habeas corpus, é inadmissível o reexame aprofundado dos elementos fático-probatórios da ação penal com o intuito de desconstituir o que foi decidido nas instâncias ordinárias. Por exemplo, HC n. 324.992/SP, Ministro Ericson Maranho (Desembargador convocado do TJ/SP), Sexta Turma, DJe 2/2/2016; e HC n. 311.406/SC, Ministro Jorge Mussi, Quinta Turma, DJe 4/3/2016.
+Tanto mais se o Tribunal a quo, soberando na análise do conjunto fático-probatório dos autos, assevera que no caso concreto, a localização de 67g do entorpecente, aliado ao vultuoso valor em dinheiro trocado - R$ 1.387,00 (mil trezenos e oitenta e sete reais) apreendido no local e à prévia ciência, por parte dos milicianos, de que a residência seria um ponto de desempenho de traficância elidem quaisquer dúvidas acerca da prática delitiva por parte dos réus (fl. 359).
+Acrescentando que a tese defensiva se mostrou bastante frágil e inverossímil. Com efeito, sublinho que a prova deve ser analisada em conjunto e não isoladamente. Os depoimentos dos policiais devem ser contrastados com os demais elementos existentes nos autos, que demonstram as circunstâncias em que o flagrante se deu. Isso porque, justamente em razão da tênue diferença entre o art. 28 e do art. 33 da Lei Anti Drogas, a qual consiste no intuito de destinação da droga a terceiros, tal elemento subjetivo só pode ser aferido se consideradas as peculiaridades do caso concreto (fl. 359).
+Destarte, como visto, não há como revisitar todo o material cognitivo produzido nos autos, a fim de desconstituir a condenação.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
