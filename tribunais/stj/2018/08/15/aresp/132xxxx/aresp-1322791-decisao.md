@@ -1,0 +1,20 @@
+DECISÃO
+1. Trata-se de agravo interposto por [NOME], contra decisão que não admitiu o seu recurso especial, por sua vez manejado com fulcro no art. 105, III, "a", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de Sergipe, assim ementado (fl. 592):
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - ACIDENTE AUTOMOBILÍSTICO COM MORTE - PRELIMINAR - PEDIDO DE CONCESSÃO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA EM SEDE RECURSAL - DEFERIDO - DANO EMEREGENTE - CONFIGURADO - LUCROS CESSANTES - DEVIDOS - DANO MORAL - MANUNTENÇÃO DO VALOR ARBITRADO NO JUÍZO - A QUO PREQUESTIONAMENTO - INVIÁVEL - SENTENÇA IRRETOCÁVEL - RECURSO CONHECIDO E IMPROVIDO - À UNANIMIDADE.
+Nas razões do recurso especial (fls. 598-618), aponta a parte recorrente ofensa ao disposto nos arts. 186, 927 e 944, do Código Civil.
+Em apertada síntese, sustenta que não há prova material de pagamento do conserto do veículo conduzido pela vítima, havendo nos autos apenas um orçamento, bem como que o documento juntado não serve como prova de pagamento das despesas funerárias.
+Assevera que, se o cônjuge supérstite, desde a data do evento, não deixou de receber a pensão por morte devidamente calculada pelo INSS nos termos da legislação previdenciária em vigor, não há razão para receber dos recorrentes a diferença entre o valor dos vencimentos pagos em vida à vítima e o valor da referida pensão.
+Por fim, afirma que o valor fixado a título de dano moral é exorbitante e fere os princípios da proporcionalidade e razoabilidade, devendo o indenizatório ser reduzido, visto que não foi observado as condições econômicas da vítima e do ofensor para que não quantum haja o enriquecimento sem causa.
+Contrarrazões ao recurso especial às fls. 622-641 e 642-664.
+É o relatório.
+DECIDO.
+2. Ao analisar a demanda, à vista dos elementos fático-probatórios constantes nos autos, a Corte de origem consignou:
+DO DANO EMERGENTE
+Segundo o apelante, não consta nos autos conteúdo probatório das despesas do conserto da motocicleta conduzida pela vítima e do pagamento do funeral da mesma.
+Contudo não merece prosperar os argumentos do recorrente, visto que os recorridos juntaram na exordial orçamento, discriminando o valor de cada peça (fl. 52), bem como das despesas funerais (fl. 56), desta forma, se os autores se valeram ou não dos serviços da empresa é irrelevante, porque a utilidade probatória do orçamento é estabelecer uma estimativa, um teto, um limite de gastos.
+Por outro lado, o demandante, apesar de tais afirmações, não traz nenhuma prova concreta que conteste os documentos dos recorridos.
+A convicção a que chegou o acórdão acerca da comprovação do dano material pela parte recorrida decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz do enunciado 7 da Súmula desta Corte.
+3. Por sua vez, no que se refere aos lucros cessantes, verifica-se que o recurso não atende aos requisitos técnicos necessários ao julgamento, pois não particularizou o dispositivo legal tido por afrontado, o que é essencial em se tratando de recurso para as Instâncias Superiores. Tal deficiência, com sede na própria fundamentação da insurgência recursal, impede a abertura da instância especial, nos termos do enunciado 284 do STF.
+4. Por fim, no que concerne ao montante fixado a título de indenização por danos morais, nos termos da jurisprudência deste Tribunal, o valor estabelecido pelas instâncias ordinárias pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso. Dessa forma, não se mostra desproporcional a fixação em R$ 30.000,00 (trinta mil reais) a título de reparação moral decorrente de acidente de trânsito que resultou no óbito do esposo e pai dos recorridos, de modo que a sua revisão também encontra óbice na Súmula 7 do STJ.
+5. Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
