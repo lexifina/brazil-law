@@ -1,0 +1,63 @@
+EMENTA
+TRIBUTÁRIO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ALEGAÇÃO GENÉRICA. INCIDÊNCIA DA SÚMULA N. 284/STF. ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 509, §2º, 515, I E 513 DO CPC/2015, DO ART. 142 DO CTN E DO ART. 153 DO CÓDIGO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211/STJ.
+I - Em relação à alegada violação ao art. 1.022, II, do CPC/2015, verifica-se que o recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em omissão ao deixar de se pronunciar acerca de determinados dispositivos legais suscitados nos embargos de declaração, o fazendo de forma genérica, sem desenvolver argumentos para demonstrar especificamente a suposta mácula.
+II - A apresentação genérica de ofensa ao art. 1.022, II, do CPC/2015 atrai a incidência, por analogia, do óbice do enunciado n. 284 da Súmula do STF, inviabilizando o conhecimento dessa parcela recursal.
+III - Quanto à matéria constante nos arts. 509, § 2º, 515, I, e 513 do CPC/2015, no art. 142 do CTN e no art. 153 do Código Civil, verifica-se que o Tribunal a quo, em nenhum momento abordou as questões referidas nos dispositivos legais, mesmo após a oposição de embargos de declaração apontando a suposta omissão. Nesse contexto, incide na hipótese o enunciado n. 211 da Súmula do STJ, que dispõe ser " i nadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+IV - A falta de exame de questão constante de normativo legal apontado pelo recorrente nos embargos de declaração não caracteriza, por si só, omissão quando a questão é afastada de maneira fundamentada pelo Tribunal a quo, ou ainda, não é abordado pelo Sodalício, e o recorrente, em ambas as situações, não demonstra de forma analítica e detalhada a relevância do exame da questão apresentada para o deslinde final da causa.
+V - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes e Mauro Campbell Marques votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, a Sra. Ministra Assusete Magalhães.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de agravo interno interposto contra monocrática que decidiu O presente feito decorre de agravo de instrumento interposto por [NOME] contra decisão judicial que, nos autos de execução fiscal que lhe move a Fazenda Nacional, indeferiu o pedido de extinção do feito feito executivo e de liberação do veículo constrito.
+No TRF da 4ª Região, o agravo de instrumento foi provido em acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXTINÇÃO. SUBSTITUIÇÃO DA CDA. INCABÍVEL.
+1. A Primeira Seção do STJ, no julgamento do REsp 1.115.501/SP, Rel. Ministro Luiz Fux, pacificou o entendimento de que o reconhecimento de excesso na cobrança não retira a exigibilidade do valor remanescente inscrito na Dívida Ativa, tampouco impõe emenda ou substituição da CDA.
+2. Caso em que não se aplica o precedente vinculante, porquanto a sentença proferida em processo com trânsito em julgado, determinou o recálculo da contribuição previdenciária, com a alteração da base de cálculo do tributo executado.
+A União interpôs recurso especial com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, por ofensa ao art. 1.022, II, do CPC/2015; ao arts. 509, § 2º, 515, I, e 513 do CPC/2015; ao art. 142 do CTN; e ao art. 153 do Código Civil.
+A parte recorrente alega que o Tribunal de origem foi omisso em relação a dispositivos legais suscitados nos embargos de declaração.
+Em relação ao mérito, alega que não é o caso de extinção da CDA na medida em que " ..  impõe-se apenas a readequação do cálculo da contribuição devida, utilizando-se valor do custo unitário básico da construção de padrão mais baixo do que o originalmente utilizado" (fl. 293). Argumenta que não há necessidade de novo lançamento, pois todos os elementos já estão identificados.
+Apresentadas contrarrazões, a parte recorrida requer a manutenção do acórdão regional recorrido.
+A decisão monocrática tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 255, § 4º, inciso I, do RI/STJ, não conheço do recurso especial".
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão recorrida.
+A parte agravada foi intimada para apresentar impugnação ao recurso.
+É relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso de agravo interno não merece provimento.
+Nos termos do enunciado n. 568 da Súmula desta Corte Superior e do art. 255, § 4º, inciso III, do RISTJ, o relator está autorizado a decidir monocraticamente quando houver jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça. Assim, não há que se falar em ilegalidade relativamente a este ponto.
+A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida.
+Sem razão a parte agravante.
+Em relação à alegada violação ao art. 1.022, II, do CPC/2015, verifica-se que o recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em omissão ao deixar de se pronunciar acerca de determinados dispositivos legais suscitados nos embargos de declaração, o fazendo de forma genérica, sem desenvolver argumentos para demonstrar especificamente a suposta mácula.
+Nesse panorama, a apresentação genérica de ofensa ao art. 1.022, II, do CPC/2015 atrai a incidência, por analogia, do óbice do enunciado n. 284 da Súmula do STF, inviabilizando o conhecimento dessa parcela recursal.
+Sobre o assunto, confiram-se:
+ADMINISTRATIVO. REDIRECIONAMENTO DE EXECUÇÃO FISCAL DE NATUREZA NÃO TRIBUTÁRIA. DISSOLUÇÃO IRREGULAR NÃO COMPROVADA. REEXAME DE PROVAS. SÚMULA N. 7/STJ. IMPOSSIBILIDADE. VIOLAÇÃO DO ART. 535 DO CPC/73. ALEGAÇÃO GENÉRICA. SÚMULA N. 284/STF.
+I - Não se conhece do recurso especial com alegação genérica de violação do art. 535 do Código de Processo Civil de 1973. Incidência do enunciado n. 284 da Súmula do STF. Necessidade de reexame de fatos e provas para modificar o entendimento do Tribunal de origem quanto à regularidade da dissolução da sociedade empresária. Incidência do enunciado n. 7 da Súmula do STJ.
+II - Agravo interno improvido.
+(AgInt no AREsp 962.465/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 6/4/2017, DJe 19/4/2017).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CSLL. MAJORAÇÃO DE ALÍQUOTA. VIOLAÇÃO DO ART. 535 DO CPC/73. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. A genérica alegação de ofensa ao art. 535 do CPC, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, atrai o óbice da Súmula 284 do STF.
+2. É vedada a análise das questões que não foram objeto de efetivo debate pela Corte de origem, estando ausente o requisito do prequestionamento. Incidência da Súmula 211/STJ.
+3. Quanto à elevação da alíquota da CSLL, o aresto recorrido está em conformidade com a jurisprudência deste Tribunal Superior, que considera que a Instrução Normativa n. 81/99 não desbordou dos limites da MP 1.807/99.
+4. Agravo interno a que se nega provimento.
+(AgRg no AREsp 446.627/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 6/4/2017, DJe 17/4/2017).
+Quanto à matéria constante nos arts. 509, § 2º, 515, I, e 513 do CPC/2015, no art. 142 do CTN e no art. 153 do Código Civil, verifica-se que o Tribunal a quo, em nenhum momento abordou as questões referidas nos dispositivos legais, mesmo após a oposição de embargos de declaração apontando a suposta omissão. Nesse contexto, incide na hipótese o enunciado n. 211 da Súmula do STJ, que dispõe ser " i nadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Gize-se, por oportuno, que a falta de exame de questão constante de normativo legal apontado pelo recorrente nos embargos de declaração não caracteriza, por si só, omissão quando a questão é afastada de maneira fundamentada pelo Tribunal a quo, ou ainda, não é abordado pelo Sodalício, e o recorrente, em ambas as situações, não demonstra de forma analítica e detalhada a relevância do exame da questão apresentada para o deslinde final da causa.
+Sobre o assunto, destacam-se os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AVIAÇÃO AGRÍCOLA. ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS 211/STJ E 282/STF. INVIABILIDADE DA ANÁLISE DE RESOLUÇÃO DE CONSELHO PROFISSIONAL.
+1. Verifica-se não ter ocorrido ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem apreciou integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. O Tribunal não fica obrigado a examinar todos os artigos de lei invocados no recurso, desde que decida a matéria questionada sob fundamento suficiente para sustentar a manifestação jurisdicional, dispensável a análise dos dispositivos que pareçam para a parte significativos, mas que para o julgador, se não irrelevantes, constituem questões superadas pelas razões de julgar.
+3. A Corte de origem nada teceu a respeito dos arts. 2º, § 2º, do Decreto-Lei 917/69. 2º, 5º, 6º, II, 15, do Decreto 86.765/81, apesar de instado a fazê-lo pelos embargos de declaração, razão pela qual incide o óbice da Súmula 211/STJ. "Não há impropriedade em afirmar a falta de prequestionamento e afastar a indicação de afronta ao artigo 535 do CPC, haja vista que o julgado pode estar devidamente fundamentado, sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelo recorrente, pois, como consabido, não está o julgador a tal obrigado" (AgRg no REsp 1386843/RS, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 24/2/2014) 4. A matéria pertinente ao art. 97, I, do CTN também não foi objeto dos embargos declaratórios opostos perante o Tribunal a quo. Assim, não prospera o argumento tecido pela parte agravante para o afastamento do óbice previsto na Súmula 282/STF.
+5. O exame de eventual violação dos demais dispositivos tidos por contrariados pela agravante exigiria a análise das Resoluções do CONFEA, pretensão insuscetível de ser apreciada em recurso especial.
+Isso porque tais resoluções não se enquadram no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.035.738/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 14/2/2017, DJe 23/2/2017).
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONCURSO PÚBLICO. APROVAÇÃO DE CANDIDATO EM CADASTRO DE RESERVA. PRETERIÇÃO. MANUTENÇÃO DE SERVIDORES CONTRATADOS IRREGULARMENTE. PRESTAÇÃO JURISDICIONAL INADEQUADA. DESCARACTERIZAÇÃO DA OMISSÃO. JULGAMENTO CONTRÁRIO AOS INTERESSES DA PARTE. CONTRADIÇÃO EXTERNA. HIPÓTESE DE CABIMENTO INEXISTENTE PARA OS EMBARGOS DE DECLARAÇÃO. DISCUSSÃO ACERCA DA NECESSIDADE DE PROVA PERICIAL. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA FÁTICA. ÓBICE DA SÚMULA 7/STJ. VIOLAÇÃO A NORMAS FEDERAIS. CARÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DIVERGÊNCIA JURISPRUDENCIAL. FALTA DE COTEJO ANALÍTICO. SÚMULA 284/STF.
+ ..
+6. O prequestionamento advém do debate da temática processual à luz de determinado preceito legal federal, ou seja, é forçoso que o Tribunal da origem interprete os fatos processuais e sobre eles proceda juízo de valor para adequa-los ou não a determinado preceptivo federal, realizando assim a subsunção do fato à norma, o que absolutamente inexistiu no acórdão da origem, que não se sustentou nos arts. 130, 131, 331, § 2.º, 333, inciso I, 436, 437, 438 e 439, todos do [PLACA], mas apenas na Lei 8.112/1990 e na Constituição da República.
+7. O prequestionamento não é a indicação do preceito legal, mas o debate de determinada tese de acordo com certa norma jurídica (inscrita no preceito), de maneira a que a falta de apontamento de lei não importa a falta de prequestionamento, mas tampouco a ausência de debate significa o prequestionamento ""implícito"".
+8. Agravo regimental não provido.
+(AgRg no REsp 1.581.104/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 7/4/2016, DJe 15/4/2016).
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
