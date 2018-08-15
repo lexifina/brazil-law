@@ -1,0 +1,31 @@
+EMENTA
+CIVIL. CONSUMIDOR. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. DEMORA NA ENTREGA DA UNIDADE. INDENIZAÇÃO POR DANOS MORAIS. QUANTUM INDENIZATÓRIO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL E INCOMPREENSÃO DA CONTROVÉRSIA. SÚMULA Nº 284 DO STF, POR ANALOGIA. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Consta dos autos que LUCILIA MARIA SILVA DE ARAÚJO e JOSUÉ SAMPAIO PEREIRA (LUCILIA e JOSUÉ) ajuizou ação de restituição de valores pagos combinado com repetição de indébito e indenização por danos morais e materiais contra KIRRA INVESTIMENTOS IMOBILIÁRIOS LTDA. (KIRRA).
+O Juízo primevo julgou parcialmente procedente o pedido formulado.
+Inconformados, LUCILIA e JOSUÉ apelaram da sentença. O aresto se encontra assim sintetizado:
+INDENIZAÇÃO Compromisso de compra e venda de imóvel - Demora na entrega da unidade - Prazo certo fixado para conclusão do empreendimento e entrega aos compradores, não observado Prazo de tolerância Ausente irresignação dos autores quanto à sua adoção Manutenção Prazo de entrega, de qualquer forma, excedido - Não caracterização de ocorrência de força maior ou caso fortuito Condições apontadas a revelar falta de regular previsão Mora caracterizada Falta da ré, inclusive, confessa Ressarcimento de despesas decorrentes da locação de outro imóvel Afastamento Ausente nexo causal - Obrigação da vendedora, contudo, de indenizar os compradores por perdas e danos pelo período da mora na entrega da unidade, pela simples indisponibilidade do bem, a partir do término do prazo de tolerância até a efetiva entrega das chaves Súmulas 160 e 162 deste Egrégio Tribunal - Fixação em valor mensal correspondente a 0,5% sobre o valor do contrato, atualizado pela Tabela Prática deste Tribunal, incidindo juros de mora de 1% a o mês a contar da citação - Despesas com taxas condominiais e IPTU anteriores à entrega das chaves Período em que a posse é exercida pela empreendedora Inexigibilidade da cobrança Ressarcimento devido - Danos morais Cabimento Fixação em R$ 20.000,00 (vinte mil reais) - Sentença em parte, reformada RECURSO PARCIALMENTE PROVIDO (e-STJ, fl. 284).
+Nas razões do especial, interposto com base no art. 105, III, c, da Constituição Federal, KIRRA apontou dissídio jurisprudencial quanto ao fato de que o inadimplemento contratual e o atraso na entrega da obra não geram dano moral. Requer, a redução do quantum indenizatório.
+As contrarrazões foram apresentadas (e-STJ, fls. 338/352).
+O apelo nobre foi admitido na origem (e-STJ, fls. 371/372).
+É o relatório.
+DECIDO.
+A insurgência não merece ser acolhida.
+De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Tendo em vista que não foi feita a indicação clara e precisa dos dispositivos de lei federal em torno dos quais haveria divergência jurisprudencial, o que evidencia a deficiência na fundamentação do recurso, a atrair o óbice da Súmula nº 284 do STF. Nesse sentido, confiram-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. NOTIFICAÇÃO EXTRAJUDICIAL. VALIDADE. REEXAME DE FATOS. SÚMULA Nº 7/STJ. PURGAÇÃO DA MORA. NÃO CABIMENTO. PAGAMENTO DA INTEGRALIDADE DO DÉBITO. DECRETO-LEI Nº 911/1969, COM REDAÇÃO DADA PELA LEI Nº 10.931/2004. DISPOSITIVO LEGAL VIOLADO. AUSÊNCIA DE INDICAÇÃO. SÚMULA Nº 284/STF. DISSÍDIO NÃO DEMONSTRADO.
+(..)
+4. Se nas razões de recurso especial não há sequer a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da eventual ofensa à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284 do Supremo Tribunal Federal.
+5. A divergência jurisprudencial, nos termos do art. 541, parágrafo único, do CPC/1973 e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos julgados que configurem o dissídio, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações, o que não restou evidenciado na espécie.
+6. Agravo regimental não provido.
+(AgRg no AREsp 786.714/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 14/06/2016, DJe 20/06/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. RECURSO APRECIADO MONOCRATICAMENTE PELO RELATOR. POSSIBILIDADE. DECISÃO. MÁCULA. JULGAMENTO COLEGIADO. SUPERAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOVAÇÃO RECURSAL. MULTA POR LITIGÂNCIA DE MÁ-FÉ. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO VIOLADO. SÚMULA 284/STF. PRODUÇÃO DE PROVA PERICIAL, DEMONSTRATIVO DO DÉBITO E INVERSÃO DA PROVA. INVIÁVEL O REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+(..)
+3. O recurso especial é reclamo de natureza vinculada e, para o seu cabimento, é imprescindível que se demonstre de forma clara os dispositivos apontados como malferidos pela decisão recorrida, sob pena de inadmissão. Constata-se que a argumentação apresentada no recurso mostra-se deficiente, atraindo a incidência da Súmula n. 284 do Supremo Tribunal Federal.
+4. A análise da necessidade de produção de prova, da validade do título executivo e da inversão do ônus probatório demandaria o reexame de provas, o que é inadmissível nesta instância extraordinária. Aplicação da Súmula 7/STJ.
+5. Agravo regimental desprovido.
+(AgRg no AREsp 844.983/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 17/5/2016, DJe 27/5/2016)
+Nessas condições, NÃO CONHEÇO do recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor da KIRRA nos termos do art. 85, §§ 2º e 11 do NCPC, observando-se, no que couber, o art. 98 do mesmo diploma.
+Por derradeiro, advirta-se que eventual recurso interposto contra este julgado estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
