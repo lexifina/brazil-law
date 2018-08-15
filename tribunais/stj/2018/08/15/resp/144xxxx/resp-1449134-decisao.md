@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de Recurso Especial, fundamentado nas alíneas a e c do permissivo constitucional, interposto pela FAZENDA NACIONAL, na vigência do CPC/73, contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+"PROCESSO CIVIL. AÇÃO CAUTELAR. EXTINÇÃO EM FACE DA NÃO PROPOSITURA DA AÇÃO PRINCIPAL NO PRAZO LEGAL. LEVANTAMENTO DOS DEPÓSITOS. REQUERIMENTO DE DEVOLUÇÃO DE TAIS VALORES. AUSÊNCIA DOS FUNDAMENTOS DE FATO E DE DIREITO. INADMISSIBILIDADE RECURSAL.
+I - Impossibilidade de apreciação do recurso em face da ausência de fundamentação de fato e de direito, como determinado no art. 514, inciso II, do Código de Processo Civil. Precedentes desta Sexta Turma.
+II - Apelação não conhecida" (fl. 134e).
+O acórdão em questão foi objeto de Embargos de Declaração, rejeitados, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO. OMISSÃO. CABIMENTO. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. LEVANTAMENTO DO DEPÓSITO. POSSIBILIDADE.
+I - Verificada, no caso, a omissão a ser suprida, nos termos do art. 535, inciso II, do Código de Processo Civil, a ensejar a declaração do julgado, mediante embargos de declaração.
+II - Retificado o voto para constar a fundamentação e o dispositivo correspondente, no sentido da possibilidade de levantamento dos depósitos, pela Requerente, em caso de extinção da ação cautelar, sem resolução do mérito, negando-se provimento à apelação da União.
+III - Embargos de declaração acolhidos, com efeitos infringentes" (fl. 146e).
+Alega-se, nas razões do Recurso Especial, violação ao art. 151 do Código Tributário Nacional. Para tanto, sustenta, in verbis:
+"Enquanto perdura a permissão da efetivação de depósitos em cautelar preparatória para o contribuinte, o crédito tributário referente passa a ter sua exigibilidade suspensa, nos termos do art. 151 do CTN.
+Ocorre que a autora do processo julgado extinto sem o julgamento do mérito, obteve o beneficio da suspensão da exigibilidade do crédito tributário, não podendo ser autuada quanto aos períodos referentes, não podendo ser beneficiada duas vezes, com a permissão para o levantamento dos mesmos.
+Observe-se que manter a decisão de que os valores depositados na cautelar extinta caberiam à própria autora é permitir que o contribuinte escolha aleatoriamente quando depositar e quando levantar os valores, causando prejuízo aos cofres públicos, tendo em vista a conseqüência de suspensão da exigibilidade do crédito tributário.
+Observe-se que o processo foi julgado extinto por não ter sido ajuizada a ação principal, o que implica não ter o contribuinte logrado provar seu direito perante o judiciário, não podendo levantar depósitos que foram garantidores do juízo, isto porque o depósito não é da parte e sim está atrelado ao destino final do processo.
+Ora, não houve sentença favorável à parte autora, ao contrário, este perdeu o objeto tendo em vista o não ajuizamento da ação principal. E o motivo da cautelar era justamente a suspensão da exigibilidade dos tributos" (fls. 157/158e).
+Requer, ao final, "a admissão do presente recurso perante o Colendo Superior Tribunal de Justiça, de modo a reformar o acórdão recorrido, nos termos das razões acima expendidas" (fl. 158e).
+Não foram apresentadas contrarrazões.
+A irresignação não merece acolhimento.
+O Tribunal de origem, para decidir a controvérsia dos autos, deixou consignado, no que interessa:
+"Trata-se de apelação em face de sentença que declarou extinta a ação cautelar, sem resolução do mérito, por não ter sido ajuizada a ação principal no prazo legal.
+Todavia, verifico que o recurso interposto pela Requerida não atende aos pressupostos de admissibilidade.
+Dispõe o art. 514, do Código de Processo Civil:
+(..)
+Conforme se depreende do dispositivo acima transcrito, o recurso somente pode ser conhecido se o Apelante fundamentar as razões de fato e de direito pelas quais requer a reforma da sentença recorrida, não o podendo fazer em momento posterior, em face da preclusão.
+No caso em tela, verifico que a União limitou-se a requerer a devolução dos valores levantados ou, subsidiariamente, autorização para a cobrança do FINSOCIAL acrescido de correção monetária, juros moratórios e multa, sem adentrar aos fundamentos de fato e de direito que embasariam o pleito de reforma da decisão monocrática.
+Nesse sentido, registro precedentes desta Sexta Turma: AC n.º2000.03.99.027396-7, Rel. Des. Fed. Consuelo Yoshida, j. 17.09.2003, DJU 10.10.2003, p. 252; e AMS n.º 89.03.012033-7, Rel. Des. Fed. Marli Ferreira, j. 18.11.1996, DJU 18.12.1996, p. 98313.
+Os pedidos efetuados pela Requerida na apelação devem ser veiculados em ação própria, pois não se relacionam com o objeto desta ação cautelar" (fls. 132/133e).
+Por simples cotejo entre as razões do Recurso Especial e os fundamentos do acórdão recorrido, observa-se que a tese recursal contida no art. 151 do Código Tributário Nacional, sequer implicitamente, foi apreciada pelo Tribunal de origem, não obstante terem sido opostos Embargos de Declaração, para tal fim.
+ Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, no ponto, incidindo o teor da Súmula 211 do STJ ("inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. INDENIZAÇÃO. CABIMENTO. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+(..)
+6. Agravo interno não provido" (STJ, AgInt no AREsp 1.172.051/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 23/03/2018).
+Acrescente-se que, se a parte recorrente entendesse persistir algum vício no acórdão impugnado, imprescindível a alegação de violação ao art. 535 do CPC/73, por ocasião da interposição do Recurso Especial, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Assim, à mingua de prequestionamento, inviável a apreciação da aludida tese recursal.
+Por fim, deve-se ressaltar que o Recurso Especial interposto pela alínea c do permissivo constitucional, além da comprovação da divergência - por meio da juntada de certidões ou cópias autenticadas dos acórdãos apontados divergentes, permitida a declaração de autenticidade, pelo próprio advogado, ou a citação de repositório oficial, autorizado ou credenciado, em que os julgados se achem publicados -, nos termos do art. 541, parágrafo único, do CPC/73 e art. 255 do RISTJ, exige a demonstração do dissídio, com a realização do cotejo analítico entre os acórdãos, nos termos legais e regimentais, não bastando a mera transcrição de ementas.
+Nesse sentido:
+"PROCESSUAL CIVIL. DECLARATÓRIA DE NULIDADE DE ATO ADMINISTRATIVO C. C. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. IMPROCEDÊNCIA DO PEDIDO. REDUÇÃO DE PROVENTOS AO TETO CONSTITUCIONAL. ART. 37, XI, DA CONSTITUIÇÃO FEDERAL. INVOCADA DECADÊNCIA PARA A ADMINISTRAÇÃO PÚBLICA. INEXISTÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. APLICÁVEL. OFENSA A PRINCÍPIOS CONSTITUCIONAIS. MATÉRIA DECIDIDA PELO TRIBUNAL DE ORIGEM SOB O ENFOQUE CONSTITUCIONAL. REVISÃO POR MEIO DE RECURSO ESPECIAL. INVIÁVEL. AUSÊNCIA DE DEMONSTRAÇÃO DE COTEJO ANALÍTICO. AGRAVO INTERNO IMPROVIDO.
+I - No que concerne ao ausência de prequestionamento, verifica-se que a Corte de origem não se pronunciou, ainda que implicitamente, acerca do art. 2º da Lei n. 9.784/99. A análise da controvérsia foi feita, na verdade, sob perspectiva constitucional, mediante análise do dispositivo do art. 37, inciso XI, da Constituição Federal e princípios como o direito adquirido, ato jurídico perfeito e irredutibilidade de vencimentos. Assim, incide no caso o enunciado da Súmula 211 do Superior Tribunal de Justiça.
+II - De outra sorte, o Tribunal de origem, ao decidir a controvérsia, assim o fez com suporte em preceitos eminentemente constitucionais. Incabível a análise da decisão combatida pela via eleita, pois, nos termos do art. 105, III, da CF/88, o recurso especial destina-se à uniformização do direito federal infraconstitucional, sendo reservada ao STF a análise de possível violação de matéria constitucional.
+III - Ademais, o recurso não pode ser conhecido pela divergência, pois os recorrentes não realizaram o necessário cotejo analítico, bem como não apresentaram, adequadamente, o dissídio jurisprudencial. Apesar da transcrição de ementas, deixaram de demonstrar as circunstâncias identificadoras da divergência entre o caso confrontado e os arestos paradigmas.
+IV - Agravo interno improvido" (STJ, AgInt no AREsp 1.145.301/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 21/03/2018).
+Na hipótese, contudo, a parte recorrente não se desincumbiu de seu ônus, porquanto não realizou o cotejo analítico entre os julgados trazidos como paradigmas e o acórdão impugnado, mediante a indicação de circunstâncias que identifiquem ou assemelhem os casos confrontados.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
