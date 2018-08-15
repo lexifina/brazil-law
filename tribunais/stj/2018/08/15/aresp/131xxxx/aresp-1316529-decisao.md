@@ -1,0 +1,77 @@
+DECISÃO
+1. Cuida-se de agravo em recurso especial interposto por PORTION COMÉRCIO DE PEÇAS IMPORTAÇÃO E EXPORTAÇÃO LTDA., em face de decisão que negou seguimento ao apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, cuja ementa se reproduz:
+EMENTA - APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - CÉDULA DE CRÉDITO BANCÁRIO - TITULO EXECUTIVO EXTRAJUDICIAL - PRELIMINAR DE CERCEAMENTO DE DEFESA - PRODUÇÃO DE PROVA PERICIAL - MATÉRIA RESOLVIDA EM DECISÃO INTERLOCUTÓRIA NÃO IMPUGNADA - PRECLUSÃO - CÓDIGO DE DEFESA DO CONSUMIDOR - APLICAÇÃO DAS NORMAS - CLÁUSULAS CONTRATUAIS - VIABILIDADE DA PACTUAÇÃO DE JUROS SUPERIORES A 12% AO ANO - CAPITALIZAÇÃO EM PERIODICIDADE INFERIOR A UM ANO - POSSIBILIDADE - COMISSÃO DE PERMANÊNCIA - RESTRIÇÃO À SOMA DOS ENCARGOS REMUNERATÓRIOS E MORATÓRIOS - SUCUMBÊNCIA RECÍPROCA - DISTRIBUIÇÃO PROPORCIONAL DOS RESPECTIVOS ENCARGOS.
+- A Cédula de Crédito Bancário é titulo executivo extrajudicial, representativo de operações de crédito de qualquer natureza, nos termos da Lei Federal nº 10.931/2004.
+- Observados os requisitos dos arts. 28 e 29, da Lei Federal nº 10.931/2004, a Cédula de Crédito Bancário constitui instrumento hábil à execução.
+-A argüição preliminar de cerceamento de defesa, por falta de produção de prova pericial, não enseja acolhimento em sede de Apelação, quando resolvida a matéria em Decisão Interlocutória não impugnada oportunainente, por meio do Recurso próprio.
+- De acordo com o Enunciado de Súmula n.º 297, do Superior Tribunal de Justiça, "o Código de Defesa do Consumidor é aplicável às instituições financeiras".
+- A vulnerabilidade do cliente em relação ao fornecedor de bens e serviços caracteriza relação de consumo, conforme preceitua o art. 2º, do Código de Defesa do Consumidor.
+- É admitida a revisão de cláusulas de Contrato Bancário pelo Poder Judiciário, por força da garantia do art. 5º, XXXV, da Constituição Federal, e do direito assegurado no art. 6º, incisos V e VII, do Código de Defesa do Consumidor, com relativização do Principio do pacta sunt servanda.
+- As Instituições Financeiras não estão sujeitas à taxa de juros do Decreto nº 22.626/33, mas às fixadas pelo Conselho Monetário Nacional, nos termos dos incisos VI e IX, do art. 4º, da Lei nº 4.595/64 (Enunciado nº 596, do STF).
+- A contratação de juros remuneratórios em compatibilidade com a taxa média praticada no Mercado Financeiro inviabiliza a declaração da abusividade de sua cobrança.
+- O Superior Tribunal de Justiça, em interpretação e aplicação do art. 5º, da Medida Provisória nº 1.963-17/2000, sob o rito do art 543-C, do Código de Processo Civil/1973, consolidou o entendimento que admite a capitalização de juros, em periodicidade inferior a um ano, nos Contratos celebrados com as Instituições Financeiras, após 31/03/2000.
+- A capitalização de juros é permitida nas Cédulas de Crédito Bancário nos termos do art. 28, §1º, inciso 1, da Lei nº 10.93112004, desde que ajustada.
+- Conforme o Enunciado de Súmula nº 472, do Superior Tribunal de Justiça, é permitida a cobrança da Comissão de Permanência, cujo valor não pode ultrapassar a soma dos encargos remuneratórios e moratórios previstos no Contrato.
+- Verificada a sucumbéncia recíproca, é devida a distribuição proporcional dos respectivos encargos, nos termos do art. 86, caput, do Código de Processo Civil.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a recorrente alega, além de dissídio jurisprudencial, ofensa ao disposto no art. 28, §2º, da Lei n. 10.931/2004, defendendo a ausência de liquidez, certeza e exigibilidade da Cédula de Crédito Bancária objeto da execução, em razão da ausência de planilha de cálculo e extratos da conta corrente, evidenciado de modo claro e preciso o valor total da dívida executada; aduz, que os extratos juntados com a planilha não revelam de modo claro, preciso e de fácil compreensão a utilização do crédito estampado na cédula executada. Aponta, ao final, ofensa ao art. 1.026, §2º, do CPC/2015, insurgindo-se contra a multa aplicada nos embargos de declaração, porquanto tiveram o intuito de prequestionamento.
+É o breve relatório.
+DECIDO.
+2. Nos termos da jurisprudência sedimentada neste Sodalício, consolidada em sede de recurso representativo da controvérsia, sob o rito do art. 543-C do antigo CPC, a cédula de crédito bancário constitui título executivo extrajudicial, devendo no entanto, vir acompanhado de claro demonstrativo acerca dos valores utilizados pelo cliente. Confira a ementa do julgado:
+DIREITO BANCÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. CÉDULA DE CRÉDITO BANCÁRIO VINCULADA A CONTRATO DE CRÉDITO ROTATIVO. EXEQUIBILIDADE. LEI N. 10.931/2004. POSSIBILIDADE DE QUESTIONAMENTO ACERCA DO PREENCHIMENTO DOS REQUISITOS LEGAIS RELATIVOS AOS DEMONSTRATIVOS DA DÍVIDA. INCISOS I E II DO § 2º DO ART. 28 DA LEI REGENTE.
+1. Para fins do art. 543-C do CPC: A Cédula de Crédito Bancário é título executivo extrajudicial, representativo de operações de crédito de qualquer natureza, circunstância que autoriza sua emissão para documentar a abertura de crédito em conta-corrente, nas modalidades de crédito rotativo ou cheque especial. O título de crédito deve vir acompanhado de claro demonstrativo acerca dos valores utilizados pelo cliente, trazendo o diploma legal, de maneira taxativa, a relação de exigências que o credor deverá cumprir, de modo a conferir liquidez e exequibilidade à Cédula (art. 28, § 2º, incisos I e II, da Lei n. 10.931/2004).
+3. No caso concreto, recurso especial não provido. (REsp 1291575/PR, de minha relatoria, SEGUNDA SEÇÃO, julgado em 14/08/2013, DJe 02/09/2013)
+_________
+2.1. Na espécie, o Tribunal estadual amparado nas premissas fáticas dos autos, consignou que título objeto da execução, atendeu os requisitos dispostos na legislação que rege o tema. É o que se depreende da seguinte passagem:
+Na espécie, o Instrumento que instrui a Execução é uma Cédula de Crédito Bancário, que constitui título representativo de operação de crédito de qualquer natureza e que é regulado pela Lei Federal nº 10.931, de 2004.
+ ..
+O titulo que informa a Execução, além de conter os requisitos delineados no art. 29, da Lei Federal nº 10.931/2004, veio acompanhado dos documentos de fls. 06/09 e 15/16-TJ, em atendimento às exigências do art. 28, que consubstanciam extratos da conta bancária a que se vinculou e demonstrativos do débito e dos índices aplicados, os quais indicam, de forma clara e precisa, o valor principal da dívida e os seus encargos, bem como os critérios de sua incidência em cumprimento aos requisitos legais.
+Outrossim, apenas na presente fase recursal, a Segunda Recorrente (Embargante) formulou a insubsistente alegação da existência de defeito na instrução da Execução, não tendo negado o seu inadimplemento.
+ ..
+Após a edição da Lei Federal nº 10.931/2004, tornou-se dominante a orientação de que a Cédula de Crédito Bancário é titulo executivo extrajudicial, representativo de operações de crédito de qualquer natureza, circunstância que autoriza a sua emissão para documentar, também, a abertura de crédito em conta-corrente.
+A propósito, o entendimento consolidado na Jurisprudência do Eg. Superior Tribunal de Justiça, a partir do julgamento do Recurso Especial nº 1.291.575/PR, cuja matéria foi submetida "à sistemática dos recursos repetitivos (CPC- art. 543-C):
+ ..
+No referido julgamento, o Eg. Superior Tribunal de Justiça salientou que, a despeito da orientação firmada nos Enunciados 233 e 247, de sua Súmula, com a edição da Lei Federal nº 10.931/2004, que dispõe sobre a Cédula de Crédito Bancário, "o legislador agiu pela via própria e validou as práticas bancárias que antes não encontravam lastro no ordenamento jurídico brasileiro" e conferiu àquele titulo certeza, liquidez e exigibilidade, seja pela soma indicada na Cédula, seja pelo saldo devedor demonstrado em planilha de cálculo ou nos extratos da conta corrente (art. 28).
+Acrescento que a falta de assinatura de duas testemunhas na Cédula de Crédito Bancário não lhe retira a condição de título executivo extrajudicial, tendo em vista que, por ser aplicável o inciso VIII, do art. 585, Código de Processo Civil de 1973 (CPC/2015 - art. 784, XII), o art. 29, da Lei nº 10.931/2004, não contém aquela exigência formal.
+ ..
+Portanto, neste caso, por cumprir os requisitos legais antes transcritos, o título apresentado pelo Embargado se revela hábil à Execução promovida, não se justificando a extinção do processo executivo, na forma pretendida pela Primeira Apelante. (fl. 229)
+3. Estando, pois, o acórdão recorrido em harmonia com a orientação firmada nesta Corte Superior, o recurso especial não merece ser conhecido, ante a incidência da Súmula 83/STJ.
+4. Outrossim, o acolhimento da pretensão recursal a fim de afastar o atendimento dos requisitos de liquidez, certeza e exigibilidade do título executivo, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, ante o óbice da Súmula nº 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO MONITÓRIA. CONTRATO DE ABERTURA DE CRÉDITO. ALEGAÇÃO DE PRESCRIÇÃO. FUNDAMENTO AUTÔNOMO NÃO ATACADO. SÚMULA 283/STF. DOCUMENTOS NECESSÁRIOS A COMPROVAR A EXISTÊNCIA DO DÉBITO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo do aresto recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+2. O col. Tribunal de origem concluiu pela existência de documentos aptos a comprovar a existência da dívida. Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+ 3. Agravo interno a que se nega provimento. (AgInt no AREsp 837.491/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/06/2016, DJe 03/08/2016)  g.n.
+____________
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CONTRATO DE ABERTURA DE CRÉDITO EM CONTA-CORRENTE. LIQUIDEZ DA DÍVIDA. SÚMULA N. 7/STJ. PRAZO PRESCRICIONAL DE 5 (CINCO) ANOS. ART. 206 § 5º, I, DO CÓDIGO CIVIL. PRECEDENTES.
+1. Insuscetível de exame na via do recurso especial questão relacionada com a liquidez da dívida se, para tanto, for necessário o reexame do conjunto fático-probatório dos autos. Incidência da Súmula n. 7/STJ.
+2. A ação monitória fundada em contrato de abertura de crédito em conta-corrente submete-se ao prazo prescricional de 5 (cinco) anos previsto no art. 206, § 5º, I, do Código Civil, desde que a dívida seja líquida. Precedentes.
+3. AGRAVO REGIMENTAL DESPROVIDO. (AgRg no AREsp 530.088/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 20/08/2015, DJe 27/08/2015)  g.n
+_____________
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE VIOLAÇÃO AOS ARTS. 467 E 468 DO CPC. GRUPAMENTO E FATORES ACIONÁRIOS. SÚMULAS 283 DO STF E 7 DO STJ.
+ ..
+2. Ademais, "em regra, a interpretação das instâncias ordinárias acerca do título exequendo, ainda que judicial, não se submete ao crivo do recurso especial, por encontrar o óbice de que trata o enunciado n. 7, da Súmula" (AgRg no AREsp 10.737/RJ, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/03/2012, DJe 22/03/2012).
+3. Embargos de declaração recebidos como agravo regimental a que se nega provimento. (EDcl no AREsp 587.955/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/02/2015, DJe 03/03/2015)  g.n.
+_______________
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO.TÍTULO EXECUTIVO EXTRAJUDICIAL. DUPLICATA SEM ACEITE. [NOME] E COMPROVADA A ENTREGA DE MERCADORIAS. SÚMULAS N. 83 E 7 DO STJ.
+1. A duplicata sem aceite devidamente protestada e acompanhada dos documentos suficientes a comprovar a entrega das mercadorias é título hábil a aparelhar processo de execução.
+2. Rever o entendimento do Tribunal a quo acerca da produção dos documentos necessários à atribuição de exigibilidade ao título executivo extrajudicial demanda a necessária incursão no acervo fático-probatório dos autos, o que é incabível em recurso especial.
+3. Agravo regimental desprovido. (AgRg no AREsp 697.460/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 22/09/2015, DJe 28/09/2015)  g.n.
+________________
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE EXECUÇÃO - EXIGIBILIDADE DOS TÍTULOS DE CRÉDITO - REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO - IMPOSSIBILIDADE - SÚMULA 7/STJ - DECISÃO AGRAVADA MANTIDA.
+1.- No caso concreto, o Acórdão recorrido concluiu que os documentos apresentados pelo credor são hábeis a embasar a ação de execução proposta.
+2.- A revisão do julgado demandaria o reexame do conjunto fático-probatório delineado nos autos, providência inviável em âmbito de Recurso Especial, incidindo o óbice da Súmula 7 deste Tribunal.
+3.- O Agravo não trouxe nenhum argumento novo capaz de modificar o decidido, que se mantém por seus próprios fundamentos.
+4.- Agravo Regimental a que se nega provimento. (AgRg no AREsp 132.921/GO, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 07/08/2012, DJe 29/08/2012)  g.n.
+____________
+5. Quanto à multa aplicada com amparo no art. 1.026, § 2º, do atual CPC, ressalte-se que, examinados a petição destes e o acórdão embargado, verifica-se que o Tribunal Estadual já havia analisado e decidido de modo claro e objetivo as questões que delimitaram a controvérsia, não havendo a necessidade de oposição de embargos de declaração.
+Cumpre assinalar, que o mero inconformismo da parte não constitui hipótese de cabimento de embargos de declaração e tampouco caracteriza vício no acórdão. Desse modo, deve ser mantida a multa ali aplicada.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANO MORAL. AUSÊNCIA DE PROVA DO AGIR INDEVIDO. LITIGÂNCIA DE MÁ-FÉ. SÚMULA 7/STJ.
+1. A conclusão a que chegou o Tribunal a quo acerca da regularidade da anotação do débito em nome da autora, ora agravada decorreu de convicção formada em face dos elementos fáticos existentes nos autos. Rever os fundamentos do acórdão recorrido importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal (Súmula 7/STJ) e impede o conhecimento do recurso por ambas alíneas.
+2. Revela-se pacífica a orientação desta Corte de que a análise da existência do elemento subjetivo necessário à caracterização dos atos atentatórios à dignidade da justiça implicaria reexame do suporte fático-probatório dos autos, o que é vedado em recurso especial. Incidência da Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento com aplicação de multa.
+(AgRg no AREsp 396.678/RS, de minha relatoria, QUARTA TURMA, julgado em 08/10/2013, DJe 15/10/2013.
+________
+6. Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
