@@ -1,0 +1,22 @@
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO ANULATÓRIA DE INFRAÇÃO DE TRÂNSITO. RECUSA NA REALIZAÇÃO DE TESTE DE ALCOOLEMIA. PRESUNÇÃO DE EMBRIAGUEZ. AFASTAMENTO PELA TURMA RECURSAL DA APLICAÇÃO DO ARTIGO 277, § 3º, DO CÓDIGO DE TRÂNSITO BRASILEIRO POR VIOLAÇÃO AOS PRINCÍPIOS CONSTITUCIONAIS DA PRESUNÇÃO DE INOCÊNCIA, LEGALIDADE, PROPORCIONALIDADE E RAZOABILIDADE. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO PREJUDICADO. DETERMINAÇÃO DE SOBRESTAMENTO DO FEITO ATÉ O JULGAMENTO DA ADI 4.103.
+    Decisão: Trata-se de agravo interno interposto pelo Departamento Estadual de Trânsito – DETRAN/RS e Departamento Autônomo de Estradas de Rodagem – DAER/RS contra decisão de minha relatoria, assim ementada:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AÇÃO ANULATÓRIA DE INFRAÇÃO DE TRÂNSITO. EMBRIAGUEZ. COMPROVAÇÃO. AUTO INCRIMINAÇÃO. HIPÓTESE DA ALÍNEA B DO PERMISSIVO CONSTITUCIONAL. INADMISSIBILIDADE. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO. ”
+    Nas razões do agravo interno, sustentam o Departamento Estadual de Trânsito – DETRAN/RS e pelo Departamento Autônomo de Estradas de Rodagem – DAER/RS, em síntese:
+    “Na espécie, o ente público argumentou que o Tribunal a quo declarou, indevidamente, a inconstitucionalidade do art. 277, § 3º, do CTB. Isso porque o afastamento da multa aplicada pelo ente público só seria possível diante da não aplicação do mencionado dispositivo do Código de Trânsito Brasileiro.
+    O art. 277, § 3º, do CTB dispõe que o condutor de veículo automotor envolvido em acidente de trânsito ou que for alvo de fiscalização de trânsito poderá ser submetido a teste, exame clínico, perícia ou outro procedimento que, por meios técnicos ou científicos, na forma disciplinada pelo Contran, permita certificar influência de álcool ou outra substância psicoativa que determine dependência.
+    O § 3º desse artigo prevê que serão aplicadas as penalidades e medidas administrativas estabelecidas no art. 165 (que trata da infração administrativa relativa à condução de veículo sob a influência de álcool) do CTB ao condutor que se recusar a se submeter a qualquer dos procedimentos previstos no caput deste artigo.
+    Portanto, ao afastar a multa aplicada pelo DETRAN/RS, o TJRS automaticamente declarou a inconstitucionalidade desses dispositivos, pois ignorou a subsunção dessas regras ao caso concreto.
+    Esse Supremo Tribunal Federal, por meio da súmula vinculante n. 10, já afirmou que viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do Poder Público, afasta sua incidência, no todo ou em parte.
+    O mesmo raciocínio deve ser aplicado ao art. 102, III, ‘b’, da Constituição Federal quando a decisão recorrida, embora não tenha declarado expressamente a inconstitucionalidade de lei, tenha afastado completamente a sua incidência.
+    (…)
+    Ao deixar de aplicar ao caso dos autos o contido nos artigos 276 e 277, § 3º do CTB, incorreu a decisão em afronta direta à previsão dos artigos 5º e 37 da CF/88, pelo que se justifica a interposição do recurso a esta Corte máxima.
+    Ao contrário do que se decidiu na origem, os referidos artigos da lei infraconstitucional não padecem de inconstitucionalidade; ao revés, traduzem a valoração de direitos fundamentais, como vida e saúde, pois que têm por escopo proteger a sociedade dos desvarios de motoristas embriagados.”
+    É o relatório. DECIDO.
+    Melhor análise dos autos revela que a matéria versada no presente feito se encontra compreendida naquela que é objeto da ADI 4.103, de minha relatoria, a qual será submetida ao Plenário desta Suprema Corte, podendo a futura decisão no julgamento da referida ação direta de inconstitucionalidade repercutir na resolução da presente lide.
+    Verifica-se, portanto, a necessidade de se RECONSIDERAR a decisão agravada, tornando-a sem efeito, a fim de se determinar o sobrestamento do feito até o julgamento da ADI 4.103.
+    Ex positis, RECONSIDERO a decisão ora agravada, julgo PREJUDICADO o agravo interno e, com fundamento no artigo 21, I, do RISTF, determino o SOBRESTAMENTO do feito até o julgamento da ADI 4.103.
+    Publique-se.
+    Brasília, 15 de agosto de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
