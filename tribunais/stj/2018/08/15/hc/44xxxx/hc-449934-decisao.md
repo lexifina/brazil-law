@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ROGERIO FRANCISCO GOMES COQUIM, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Habeas Corpus n. 0000426-85.2018.8.26.0000).
+Consta dos autos que o paciente foi preso em flagrante, custódia essa convertida em preventiva, pela suposta prática do crime do art. 33, caput, da Lei n. 11.343/2006, tendo em vista a apreensão de 68 invólucros de cocaína pesando 16,4 (dezesseis gramas e quatro decigramas) e 18 invólucros de maconha pesando 25,1 (vinte e cinco gramas e um decigrama) - e-STJ fl. 15.
+Impetrado habeas corpus na origem, a ordem foi denegada em acórdão assim ementado (e-STJ fl. 61):
+HABEAS CORPUS - Tráfico de Drogas - Revogação da prisão preventiva - Inadmissibilidade - Crime grave, equiparado a hediondo - Decisão que decretou a segregação cautelar devidamente motivada - Indícios suficientes de autoria e materialidade delitiva - Presentes os requisitos do art. 312 do CPP - Fatos graves que reclamam a manutenção da prisão processual para a garantia da ordem pública - Predicados pessoais favoráveis que, por si só, não afastam a necessidade do cárcere - Descabida a alegação de que o paciente fará jus a uma pena incompatível com a segregação cautelar, caso seja condenado. Raciocínio que se revela indesejável exercício de futurologia - Inconstitucionalidade do art. 44 da Lei de Drogas - Embora seja permitida a concessão da liberdade provisória, há necessidade de prisão no caso concreto - Ausência de constrangimento ilegal - Ordem denegada.
+No presente writ, a defesa argumenta que a constrição cautelar não está devidamente fundamentada, uma vez que a decisão foi proferida genericamente e sem lastro nas hipóteses taxativas do art. 312 do CPP.
+Ressalta as condições pessoais favoráveis do paciente e destaca a desproporcionalidade da segregação preventiva ante a possibilidade, em caso de eventual condenação, de fixação de regime prisional diverso do fechado e de substituição da pena.
+Requer, liminarmente, possa o paciente aguardar em liberdade o trâmite do presente writ. No mérito, pede a revogação da prisão preventiva.
+Liminar deferida às e-STJ fls. 70/74 a fim de assegurar pudesse o paciente aguardar em liberdade o julgamento definitivo do presente writ.
+Prestadas as informações, o Ministério Público Federal opinou pela concessão da ordem (e-STJ fls. 115/121).
+É, em síntese, o relatório.
+Pois bem. Informações extraídas do endereço eletrônico do Tribunal de origem noticiam a superveniência, em 13/6/2018, de sentença condenatória em desfavor do paciente, ocasião em que a pena reclusiva foi substituída por restritivas de direitos, ocorrido o trânsito em julgado para as partes na mesma data.
+Assim, transitada em julgado a condenação, não há mais falar em custódia cautelar, mas sim em efetivo cumprimento de pena, de modo que fica esvaziado o objeto deste writ.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus, tornando-se sem efeito a liminar anteriormente deferida.
+Publique-se. Intimem-se.
