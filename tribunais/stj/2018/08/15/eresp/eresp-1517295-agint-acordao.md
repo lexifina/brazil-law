@@ -1,0 +1,38 @@
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. IRPJ. CSLL. BASE DE CÁLCULO. ARESTO EMBARGADO: REINTEGRA. ACÓRDÃO PARADIGMA: CRÉDITO PRESUMIDO DE IPI. AUSÊNCIA DE SIMILITUDE FÁTICA. PRECEDENTES.
+1. A comprovação da divergência jurisprudencial exige o cotejo analítico entre os julgados confrontados e a demonstração da similitude fática, partindo-se de quadro fático semelhante, ou assemelhado, para conclusão dissonante de julgamento quanto ao direito federal aplicável.
+2. No caso dos autos, o acórdão recorrido consignou a legitimidade de inclusão dos créditos provenientes do REINTEGRA na base de cálculo da CSLL e do IRPJ.
+3. Já o acórdão apontado como paradigma manifestou-se pela impossibilidade de inclusão de valores do crédito presumido de IPI na base de cálculo do IPRJ e da CSLL.
+4. Ausente a identidade fática entre os acórdãos colacionados, resta inviabilizado o processamento dos embargos de divergência. Nessa linha de entendimento, em casos similares, confiram-se: AgInt nos EREsp 1.573.262/RS, Rel. Ministra Regina Helena Costa, Primeira Seção, DJe 16/04/2018 e AgInt nos EDcl nos EREsp 1.541.110/RS, Rel. Ministro Benedito Gonçalves, Primeira Seção, DJe 03/10/2017.
+5. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira SEÇÃO do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Regina Helena Costa e os Srs. Ministros Gurgel de Faria, Herman Benjamin, Napoleão Nunes Maia Filho, Og Fernandes e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Francisco Falcão e Assusete Magalhães.
+RELATÓRIO
+ O SENHOR MINISTRO SÉRGIO KUKINA: Trata-se de agravo interno manejado por A. Grings S.A, contra decisão de fls. 430/433, que indeferiu os embargos de divergência porquanto ausente a identidade fática entre os acórdãos colacionados.
+Opostos embargos de declaração, foram rejeitados (fls. 459/460).
+Sustenta a parte agravante, em resumo, a possibilidade de conhecimento dos presentes embargos de divergência, pois "tanto o Crédito Presumido de IPI, quanto o REINTEGRA, são benefícios fiscais criados com o mesmo intuito, qual seja incentivar as exportações e possuem mecanismos idênticos"(fl. 470).
+Requer a reconsideração da decisão agravada ou a submissão da insurgência ao órgão colegiado.
+É o relatório.
+VOTO
+ O SENHOR MINISTRO SÉRGIO KUKINA (RELATOR): A irresignação não merece acolhimento.
+Inicialmente, importante ressaltar que a comprovação da divergência jurisprudencial exige o cotejo analítico entre os julgados confrontados e a demonstração da similitude fática, partindo-se de quadro fático semelhante, ou assemelhado, para conclusão dissonante de julgamento quanto ao direito federal aplicável.
+Conforme consignado na decisão agravada, a divergência jurisprudencial foi apresentada no tocante à incidência ou não de IRPJ e CSLL sobre os valores advindos a título de benefício fiscal do REINTEGRA.
+No caso dos autos, não restou evidenciado o ponto em que os acórdãos confrontados, diante da mesma base fática, teriam adotado a alegada solução jurídica diversa, porquanto o acórdão recorrido consignou que "É legal a incidência de IRPJ e da CSLL sobre os créditos apurados no Reintegra, uma vez que provocam redução de custos e consequente majoração do lucro da pessoa jurídica" (fl. 346).
+Já o acórdão apontado como paradigma, manifestou-se no sentido de que "ilegítima a inclusão de valores do crédito presumido de IPI, que talvez fosse melhor denominado crédito ficto, na base de cálculo do IPRJ e da CSLL" (fl. 374).
+Dessa forma, ausente a identidade fática entre os acórdãos colacionados, resta inviabilizado o processamento dos embargos de divergência.
+Em hipóteses semelhantes, a Primeira Seção tem se manifestado nessa mesma linha de entendimento:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO DA SIMILITUDE FÁTICO-JURÍDICA ENTRE OS ACÓRDÃOS CONFRONTADOS. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - É entendimento pacífico dessa Corte que a parte deve proceder ao cotejo analítico entre os arestos confrontados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementas.
+III - Ausente a similitude fático-jurídica entre os acórdãos confrontados, pois, enquanto o acórdão recorrido reconheceu a legalidade da incidência de IRPJ e da CSLL sobre os créditos apurados no REINTEGRA, uma vez que provocam redução de custos e consequente majoração do lucro da pessoa jurídica, o acórdão paradigma analisou a possibilidade de inclusão de valores relativos a créditos fictos de IPI na base de cálculo do IRPJ e da CSLL.
+IV - O dissídio interpretativo capaz de ensejar a interposição dos embargos de divergência é aquele no qual há comprovação de que, em hipóteses semelhantes, foram dadas soluções meritórias dissonantes.
+V - A Agravante não apresenta argumentos capazes de desconstituir a decisão agravada, apenas reiterando as alegações veiculadas no recurso anterior. VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt nos EREsp 1.573.262/RS, Rel. Ministra Regina Helena Costa, Primeira Seção, DJe 16/04/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO. SIMILITUDE FÁTICA. AUSÊNCIA.
+1. São incabíveis os embargos de divergência quando inexistente a indispensável semelhança fático-processual entre os arestos confrontados.
+2. No caso dos autos, consoante bem assentou a Primeira Seção em caso idêntico ao dos autos, não há similitude fática entre os acórdão confrontados, na medida em que "o acórdão recorrido reconheceu a legalidade da incidência de IRPJ e da CSLL sobre os créditos apurados no REINTEGRA, uma vez que provocam redução de custos e consequente majoração do lucro da pessoa jurídica, o acórdão paradigma analisou a possibilidade de inclusão de valores relativos a créditos fictos de IPI na base de cálculo do IRPJ e da CSLL.(AgRg nos EREsp 1.501.412/RS, Rel. Ministra Regina Helena Costa, PRIMEIRA SEÇÃO, julgado em 28/10/2015, DJe 03/11/2015) 3. Agravo interno não provido.
+(AgInt nos EDcl nos EREsp 1.541.110/RS, Rel. Ministro Benedito Gonçalves, Primeira Seção, DJe 03/10/2017)
+Diante do exposto, nego provimento ao agravo interno.
+É o voto.
