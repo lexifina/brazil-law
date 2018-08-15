@@ -1,0 +1,51 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DE SÃO PAULO, assim ementado:
+AÇÃO DE COBRANÇA. CORRETAGEM. Contrato bilateral cuja existência pressupõe acordo de vontades. Ausência de provas de que o autor tenha sido contratado pela ré para intermediar a venda do imóvel do qual ela era coproprietária. Remuneração indevida. Gratuidade da justiça deferida ao autor. Recurso parcialmente provido.
+Os embargos de declaração foram rejeitados (fls. 738-744)
+Nas razões do recurso especial (fls. 747-757), a parte recorrente aponta, em breve síntese, que "(..) o contrato de corretagem prescinde ser o corretor inscrito no órgão da categoria e decorre do Código Civil a desnecessidade de contratação formal, admitindo-se até mesmo a verbal (CC, art. 724)".
+Sem contrarrazões. Certidão à fl. 760.
+É o relatório.
+DECIDO.
+2. A irresignação não merece ser acolhida.
+O Sodalício Bandeirante, ao examinar a controvérsia que lhe foi apresentada, consignou (fls. 727-729):
+Nos termos do artigo 722 do Código Civil, Pelo contrato de corretagem, uma pessoa, não ligada a outra em virtude de mandato, de prestação de serviços ou por qualquer relação de dependência, obriga-se a obter para a segunda um ou mais negócios, conforme as instruções recebidas. O artigo 725 do mesmo Código, por sua vez estabelece que A remuneração é devida ao corretor uma vez que tenha conseguido o resultado previsto no contrato de mediação, ou ainda que este não se efetive em virtude de arrependimento das partes.
+Da conjugação de referidos dispositivos legais tem-se que o serviço de corretagem decorre de contrato bilateral e oneroso, em que as partes assumem obrigações recíprocas e o prestador do serviço de intermediação tem direito ao recebimento de contraprestação pela aproximação realizada entre as partes interessadas na concretização do negócio.
+Em se tratando de contrato bilateral, sua formação depende do acordo de vontades das partes envolvidas, pois, não havendo intenção de contratar por uma das partes, inexistirá vinculo ou a assunção de obrigação para elas.
+No caso concreto, embora a prova testemunhal demonstre que o autor efetivamente concorreu para a venda do imóvel descrito na petição inicial, não ficou comprovada a existência de contrato entre as partes, pois não há sequer indícios de que a ré tenha contratado o autor para, em seu nome, alienar o bem a terceiros e, especialmente, de que tenha anuído ao pagamento de qualquer comissão em favor dele pela prestação do serviço.
+Com efeito, conquanto ambas as testemunhas tenham declarado que o imóvel em sua integralidade lhes foi oferecido à venda pelo autor, nenhuma delas sabia da existência de vínculo contratual entre as partes.
+[NOME] (fls. 600) desconhecia qualquer vínculo entre o autor e a ré, enquanto Jaime Lourenção (fls. 586) sabia apenas que a genitora da ré se negou a pagar ao autor comissão de corretagem, embora não soubesse de qualquer acordo entre eles nesse sentido.
+O autor não apresentou qualquer documento que corrobore a alegação de que ele foi contratado pela ré para promover a venda do imóvel e, na falta de qualquer elemento indicativo da contratação, não é possível reconhecer a existência de contrato de corretagem entre as partes e, por conseguinte, impor à ré a obrigação de remunerar o serviço prestado.
+Conforme bem ponderado na sentença, a circunstância de o coproprietário do imóvel ter contratado o autor para prestar em seu benefício serviços de corretagem não determina automática contratação por parte da ré, ainda que o imóvel objeto do negócio de compra e venda tenha sido um só. Tanto é assim que a petição inicial deixa bem claro que a comissão pactuada entre Sergio e o autor seria calculada sobre metade do preço da venda, e não sobre o valor integral.
+Nesse contexto, é irrelevante que a atuação do autor tenha gerado resultado útil e, inclusive, vantagem econômica para a ré, pois, se ela não manifestou a vontade de contratar os serviços de intermediação, não pode ser obrigada a remunerá-lo.
+Assim, como o autor não se desincumbiu do ônus da prova que lhe é imposto pelo Código de Processo Civil (artigo 333, I, do Código de Processo Civil de 1973 e artigo 373, I, do Código de Processo Civil de 2015), de rigor a manutenção da respeitável sentença recorrida.
+Da leitura do aresto hostilizado, extrai-se, em que pese o depoimento testemunhal de que o ora recorrente teria concorrido para a venda do imóvel, não há qualquer indício de que tenha havido contrato entre as partes, ante a falta de anuência do recorrido para que, em seu nome, realizasse a alienação do bem tratado nos autos, o que teria afastado a possibilidade de remuneração do corretor.
+Além disso, verifica-se que nenhuma testemunha declarou conhecer a existência de vínculo entre as partes, não havendo, tampouco, documentos que atestem o liame entre os sujeitos.
+Esclarece a instância de origem que o contrato de corretagem teria sido realizado na verdade entre o coproprietário do imóvel e o ora recorrente, sendo que ficou pactuado que a comissão seria devida apenas sobre a metade do valor obtido com a alienação, e não sobre sua totalidade.
+Pois bem. Tecidas tais considerações, afirmo que, como bem salientado pela Corte local, a corretagem é negócio jurídico bilateral, pelo qual o corretor se obriga a obter, para um terceiro, um ou mais negócios, conforme as instruções recebidas pelo comitente.
+Ou seja, para que o negócio jurídico em debate se aperfeiçoe, é necessário que haja, de um lado, emissão válida de vontade, e, de outra parte, exista o consentimento, seja este expresso ou tácito.
+Vale conferir o seguinte precedente (grifamos):
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. COMISSÃO DE CORRETAGEM. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 489, § 1º, IV, do CPC/2015. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA N. 284/STF. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 489, § 1º, IV, do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. A deficiência na fundamentação do especial, de modo a impedir a exata compreensão da controvérsia, obsta o seu conhecimento (Súmula n. 284/STF). .
+3. "É devida a comissão de corretagem por intermediação imobiliária se os trabalhos de aproximação realizados pelo corretor resultarem, efetivamente, no consenso das partes quanto aos elementos essenciais do negócio" (AgRg no REsp n. 1.440.053/MS, Relator Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 15/3/2016, DJe 28/3/2016).
+4. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+5. No caso concreto, o Tribunal de origem, com base nos elementos de prova, concluiu pela participação da agravada no fechamento do negócio. Dissentir dessas conclusões demandaria reexame da matéria fática, o que é inviável em recurso especial, ante o óbice da mencionada súmula.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1020941/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 25/04/2017, DJe 04/05/2017)
+Importante ressaltar que não se desconhece do conteúdo do art. 724 do Código Civil, segundo o qual, in verbis, "A remuneração do corretor, se não estiver fixada em lei, nem ajustada entre as partes, será arbitrada segundo a natureza do negócio e os usos locais".
+Ocorre que a análise relacionada à remuneração do corretor, se devida ou não, depende de prévia formação de contrato entre as partes, o que nem sequer ocorreu na espécie.
+Por oportuno, friso que tal premissa não pode ser modificada nesta estreita via recursal, uma vez que a análise relacionada à existência do contrato de corretagem excederia as razões colacionadas no acórdão recorrido, demandando reincursão no contexto fático-probatório dos autos, o que não se admite, ante o óbice da Súmula 7/STJ.
+Nesse sentido, mutatis mutandis:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. COMISSÃO DE CORRETAGEM. COBRANÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ARTS. 458 E 535 DO CPC/1973. NÃO OCORRÊNCIA. QUESTÃO DECIDIDA COM BASE NAS CIRCUNSTÂNCIAS FÁTICAS DA CAUSA. SÚMULA Nº 7/STJ. SÚMULA Nº 83/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. Para prevalecer a pretensão em sentido contrário à conclusão do tribunal de origem, que reconheceu a existência do contrato de corretagem, mister se faz a revisão do conjunto fático dos autos, o que, como já decidido, é inviabilizado, nesta instância superior, pela Súmula nº 7/STJ.
+3. A comissão de corretagem somente é devida quando a parte consegue provar a autorização para a venda, a aproximação das partes e, sobretudo, que obteve nas condições convencionadas o resultado previsto no contrato de mediação. Precedentes.
+4. Agravo interno não provido.
+(AgInt no REsp 1590612/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 07/06/2016, DJe 20/06/2016)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CORRETAGEM. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA 7/STJ.
+AGRAVO NÃO PROVIDO.
+1. A alteração das conclusões adotadas pela Corte de origem, acerca da existência ou não de contrato de corretagem, bem como sobre a efetiva participação do agravado no negócio jurídico de compra e venda do imóvel, implica o reexame dos fatos e provas constantes dos autos, providência vedada em recurso especial, conforme o óbice disposto na Súmula 7/STJ.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 296.121/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/09/2015, DJe 28/09/2015)
+3. Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
