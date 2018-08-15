@@ -1,0 +1,20 @@
+RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. EXECUÇÃO AUTÔNOMA DE HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. POSSIBILIDADE. SÚMULA VINCULANTE 47. RECURSO PROVIDO.
+    Decisão: Trata-se de recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “PROCESSO CIVIL. PREVIDENCIÁRIO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS CONTRATADOS. REQUISIÇÃO DE PEQUENO VALOR. SÚMULA VINCULANTE Nº 47. FRACIONAMENTO DA EXECUÇÃO.
+    1. Inaplicabilidade da Súmula Vinculante nº 47 do STF aos honorários contratuais.
+    2. Ao contrário dos honorários sucumbenciais, que têm origem na própria sentença, os honorários contratuais, acordados entre cliente e advogado, têm natureza extrajudicial. A possibilidade de se destacar do montante principal da execução o valor devido pela parte a título de honorários contratuais, com a consequente expedição de requisitório em nome de mais de um beneficiário não transforma a natureza originária de crédito único e, por esse motivo, não permite que, no que concernente à determinada parcela (como a de honorários contratuais, verbi gratia), se utilize modalidade de pagamento diversa daquela destinada ao crédito como um todo. Essa é a razão pela qual os honorários contratuais devem ser considerados como parcela integrante do valor devido a cada credor, para fins de classificação do requisitório, porquanto a pretensão em sentido contrário encontra óbice na regra estabelecida pelo artigo 100, § 8º, da Constituição Federal de 1988.”
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 100, § 8º, da Constituição Federal.
+    O Tribunal a quo proferiu juízo positivo de admissibilidade do recurso.
+    É o relatório. DECIDO.
+    O recurso merece prosperar.
+    Com efeito, o acórdão recorrido diverge da orientação firmada por este Tribunal no sentido de que assiste ao advogado o direito de requerer, em separado, a execução de seus honorários, verba que lhe pertence e que possui natureza alimentar, haja vista a inexistência de acessoriedade em relação ao crédito principal e, ainda, a circunstância de ser titularizado por credor diverso do titular da verba principal. Esse entendimento foi firmado no julgamento do RE 564.132-RG, Redatora p/ acórdão Ministra Cármen Lúcia, Tribunal Pleno, DJe de 10/2/2015, que restou assim ementado:
+    “CONSTITUCIONAL E PROCESSUAL CIVIL. ALEGADO FRACIONAMENTO DE EXECUÇÃO CONTRA A FAZENDA PÚBLICA DE ESTADO-MEMBRO. HONORÁRIOS ADVOCATÍCIOS. VERBA DE NATUREZA ALIMENTAR, A QUAL NÃO SE CONFUNDE COM O DÉBITO PRINCIPAL. AUSÊNCIA DE CARÁTER ACESSÓRIO. TITULARES DIVERSOS. POSSIBILIDADE DE PAGAMENTO AUTÔNOMO. REQUERIMENTO DESVINCULADO DA EXPEDIÇÃO DO OFÍCIO REQUISITÓRIO PRINCIPAL. VEDAÇÃO CONSTITUCIONAL DE REPARTIÇÃO DE EXECUÇÃO PARA FRAUDAR O PAGAMENTO POR PRECATÓRIO. INTERPRETAÇÃO DO ART. 100, § 8º (ORIGINARIAMENTE § 4º), DA CONSTITUIÇÃO DA REPÚBLICA. RECURSO AO QUAL SE NEGA SEGUIMENTO.”
+    Esse entendimento alcança os honorários advocatícios contratuais, a teor da Súmula Vinculante 47, a qual possui a seguinte redação:
+    “Os honorários advocatícios incluídos na condenação ou destacados do montante principal devido ao credor consubstanciam verba de natureza alimentar cuja satisfação ocorrerá com a expedição de precatório ou requisição de pequeno valor, observada ordem especial restrita aos créditos dessa natureza.”
+    Nesse sentido, confiram-se as decisões proferidas na Rcl 21.516, Rel. Min. Luiz Fux, DJe de 1º/9/2015 e na Rcl 21.299, Rel. Min. Roberto Barroso, DJe de 15/9/2015.
+    Ex positis, PROVEJO o recurso extraordinário, com fundamento no disposto no artigo 932, V, do CPC/2015, para o fim de determinar que os honorários contratuais devidos sejam requisitados de forma autônoma, via Requisição de Pequeno Valor – RPV, uma vez que não ultrapassam o limite de 60 (sessenta) salários mínimos legalmente previsto.
+    Publique-se.
+    Brasília, 15 de agosto de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
