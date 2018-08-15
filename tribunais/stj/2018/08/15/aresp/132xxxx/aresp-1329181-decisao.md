@@ -1,0 +1,33 @@
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO MANIFESTADA NA VIGÊNCIA DO NCPC. AÇÃO OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. ALIENAÇÃO DE VEÍCULO. TRANSFERÊNCIA. DÉBITOS RELATIVOS AO VEÍCULO. PARCIAL PROCEDÊNCIA. ART. 492 DO NCPC. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 211 DO STJ. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVAÇÃO. AUSÊNCIA DE FUNDAMENTO SUFICIENTE PARA MANTER A DECISÃO, QUE NÃO FOI ATACADO NAS RAZÕES DO APELO NOBRE. INCIDÊNCIA DO ENUNCIADO Nº 283 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+[NOME] ([NOME]) ajuizou ação de obrigação de fazer cumulada com indenização por danos morais contra VALDIR TRINDADE DE SOUZA, visando a transferência em definitivo do registro administrativo relativo ao veículo descrito na inicial para o nome de VALDIR, bem como transferência das dívidas por infrações de trânsito e respectivas pontuações, a partir da data em que houve a tradição do automóvel.
+Em primeira instância, os pedidos foram julgados parcialmente procedentes, a fim de (1) determinar que se proceda à transferência em definitivo do registro administrativo relativo ao veículo descrito na inicial para o nome da parte ré; e, (2) determinar a transferência das dívidas por infrações de trânsito e respectivas pontuações para o nome do réu a partir da data da comunicação da alienação 13/05/2010.
+O Tribunal a quo deu parcial provimento ao recurso de [NOME], em acórdão a seguir ementado:
+CIVIL E PROCESSUAL CIVIL. OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. ALIENAÇÃO DE VEÍCULO. TRANSFERÊNCIA. SENTENÇA CITRA PETITA. APLICAÇÃO DO INCISO III DO § 3º DO ART. 1.013 DO CPC. TRADIÇÃO. DÉBITOS RELATIVOS AO VEÍCULO. RESPONSABILIDADE DO ADQUIRENTE. EFICÁCIA INTER PARTES DO NEGÓCIO JURÍDICO. DÉBITOS RELATIVOS ÀS INFRAÇÕES DE TRÂNSITO. RESPONSABILIDADE SOLIDÁRIA DO ALIENANTE E DO ADQUIRENTE. DANO MORAL. CONFIGURAÇÃO. SENTENÇA PARCIALMENTE REFORMADA.
+1 - Nos termos do art. 1.013, § 3º, II, do CPC, o Tribunal pode decidir o mérito quando, em sede de Apelação, constatar a omissão do Juiz a quo no exame de um dos pedidos.
+2 - Uma vez assumida, pelo adquirente, a obrigação de transferir a titularidade do veículo junto ao DETRAN/DF para o seu nome, o não cumprimento da obrigação, embora não autorize a transferência dos débitos perante os órgãos públicos para o nome do adquirente, acarreta o dever de pagamento ao alienante do valor equivalente.
+3 - Nos termos do art. 134 do CTB, superado o prazo de trinta dias para comunicação pelo antigo proprietário da transferência de titularidade, ele é solidariamente responsável pelas penalidades e respectivas reincidências até a data da efetiva comunicação.
+4 - O descumprimento da obrigação de transferir a titularidade do veículo do qual decorreu a inscrição do nome do alienante em dívida ativa acarreta dano moral in re ipsa.
+Apelação Cível parcialmente provida (e-STJ, fls. 110/111).
+Os embargos de declaração foram rejeitados (e-STJ, fls. 140).
+Ainda irresignado, [NOME] interpôs recurso especial, com fundamento no art. 105, III, a e c, da Constituição Federal, alegando violação dos arts. 492 do NCPC e 134 do CTN.
+Sustentou, em suma, que (1) o acórdão guerreado teria sido proferido de forma diversa do pleito inicial, porquanto entende que lhe foi retirada a garantia concedida na sentença, qual seja, a transferência das obrigações relativas ao veículo junto ao DETRAN/DF; e, (2) a responsabilidade do novo proprietário do veículo começaria a partir do momento em que ocorre a tradição, inexistindo a responsabilidade do antigo, pelas infrações cometidas posteriormente à entrega do bem. Suscita, nesse ponto, dissenso pretoriano.
+Após transcorrer in albis o prazo para apresentação das contrarrazões, o recurso foi inadmitido na origem, ante a incidência das Súmulas nº 282 e 283 do STF (e-STJ, fls. 176/179).
+No agravo em recurso especial, o insurgente sustentou que seu recurso merece seguimento, uma vez que foram cumpridos os requisitos necessários à sua admissibilidade, pugnando, ainda, pelo afastamento dos óbices sumulares aplicados na origem (e-STJ, fls. 182/186).
+Não foi apresentada contraminuta.
+É o relatório.
+DECIDO.
+Presentes os requisitos necessários a admissibilidade, passo ao exame do apelo especial.
+De plano, vale pontuar que os presentes embargos de declaração foram opostos a decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da violação a dispositivo de lei federal
+A matéria contida no art. 492 do NCPC, tido por ofendido, não foi enfrentada pelo Tribunal de origem nem mesmo depois da oposição dos embargos de declaração.
+Assim, com base no que dispõe a Súmula nº 211 do STJ, o recurso especial não poderia ter sido analisado neste Tribunal Superior: Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+(2) Da ofensa ao art. 134 do CTB (dissídio)
+Como antes relatado, [NOME] alegou que o Tribunal a quo, ao manter a sua responsabilidade pelas infrações cometidas pelo adquirente do veículo até a data da comunicação da venda, teria dissentido do entendimento firmado nesta Corte.
+Contudo, deixou de impugnar fundamento do acórdão recorrido, suficiente por si só para manter a decisão, no sentido de que "quando ultrapassado o prazo de trinta dias para a comunicação pelo antigo proprietário da transferência de titularidade, ele é solidariamente responsável pelas penalidades e respectivas reincidências até a data da efetiva comunicação" (fls. 95 e 99-v).
+Ocorre que a subsistência de fundamento inatacado impede a admissão da pretensão recursal, a teor do entendimento da Súmula nº 283 do STF: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Por fim, advirto que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 77, §§ 1º e 2º, 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
