@@ -1,0 +1,24 @@
+DECISÃO
+1. Cuida-se de agravo interposto por RAUL CARLOS MARTINI contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado:
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. EXECUÇÃO HIPOTECÁRIA. PRELIMINAR CONTRARRECURSAL. INTIMAÇÃO DA PARTE AGRAVANTE PARA A JUNTADA DE DOCUMENTOS OBRIGATÓRIOS. DILIGÊNCIA ATENDIDA. RECURSO CONHECIDO. NECESSIDADE DE PERÍCIA. DETERMINAÇÃO DE QUE OS HONORÁRIOS DO EXPERT SEJA ENCARGO DE AMBAS AS PARTES, DE FORMA PRÓ-RATA. IMPOSSIBILIDADE. INAPLICABILIDADE DO ARTIGO 95 DO CPC NO CASO CONCRETO.
+Da preliminar contrarrecursal: Tendo sido atendida a determinação para que a parte recorrente trouxesse ao expediente recursal todas as peças obrigatórias, nos termos do art. 1017, I e III, do CPC/2015, nada impede seja conhecido o presente recurso.
+Mérito. Apesar de apontado na decisão que a prova pericial restou determinada de ofício pelo Juízo a quo, é possível observar, do compulsar dos autos, que a medida restou pleiteada pela parte executada, motivo pelo qual incumbe a esta o adiantamento da integralidade dos honorários periciais.
+PRELIMINAR CONTRARRECURSAL REJEITADA. AGRAVO DE INSTRUMENTO PROVIDO, NO MÉRITO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 95, 437, §1º, 932, III e parágrafo único, 933, caput, e 1.017, I e §3º, do CPC de 2015.
+Alega a ausência de documentos obrigatórios para a interposição do agravo de instrumento na origem mesmo após a intimação para sanar o vício, sendo ainda juntados novos documentos sem a posterior intimação da parte contrária, havendo vício processual com evidente prejuízo da parte ora agravante. Sustenta, ainda, que a determinação de perícia de ofício torna o encargo obrigatório para ambas as partes, independentemente de haver prévia impugnação de valores.
+Contrarrazões ao recurso especial às fls. 339-346.
+É o relatório. DECIDO.
+2. Sobre a questão dos documentos obrigatórios do agravo de instrumento, do prejuízo da parte ora agravante e da responsabilidade para pagamento dos honorários do perito, a Corte local consignou o seguinte:
+"Determinada a intimação da parte agravante para juntar ao expediente recursal algumas peças obrigatórias faltantes, verifico que a diligência restou atendida dentro do prazo legal, não havendo necessidade de juntada de outras peças processuais para a solução da controvérsia.
+Assim, rejeito a preliminar contrarrecursal de não conhecimento do recurso, pois sanado o vício apontado.
+ ..
+Conforme se verifica do compulsar destes autos eletrônicos a medida restou determinada logo após requerimento da parte executada (fl. 1.845), devendo, portanto, ela adiantar os honorários do perito, conforme entendimento do Recurso Especial Representativo de Controvérsia nº 1.274.466/SC, vejamos:
+ .. " (e-STJ fls. 162-163)
+"Inexiste a alegada nulidade por não ter sido a parte embargante intimada da juntada de documentos tidos por "obrigatórios" para o conhecimento do recurso, pois, como bem dito nas contrarrazões deste incidente, não se trata de documentos novos.
+Ademais, nas razões destes embargos, a parte interessada em apontar o vício não arrolou qualquer prejuízo que tenha sofrido pela falta, o que faz concluir que o pleito implicaria apenas em excessivo e desnecessário rigor formal.
+Quanto à juntada de outros documentos, como a impugnação ao cumprimento da sentença e sua resposta, tenho que estes não devem ser considerados como peças obrigatórias à instrução do recurso principal (Agravo de Instrumento), podendo, inclusive, acaso tidas como relevantes para a solução do litígio, serem juntadas pela parte, ora embargante, quando se manifestou no instrumento, o que não ocorreu." (fl. 196)
+Resta claro que a Corte local concluiu que os documentos obrigatórios do agravo de instrumento foram juntados aos autos, não houve prejuízo para a parte ora agravante, bem como que a perícia foi determinada após requerimento da parte. Desse modo, verifica-se que o acolhimento da pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ, impedindo o conhecimento do recurso.
+Merece destaque, sobre o tema, o consignado no julgamento do REsp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da súmula 7-STJ".
+3. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
