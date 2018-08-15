@@ -1,0 +1,19 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por [NOME] contra a decisão de fls. 2480/2481, que não conheceu do recurso.
+Em suas razões, sustenta a parte Embargante, em síntese, que:
+"Não obstante - e aqui reside o cerne da questão - os prazos processuais no Estado de São Paulo também permaneceram suspensos entre 08 e 19/01/2018, circunstância que fora regular e tempestivamente comprovada pelo Recorrente através do Comunicado Conjunto nº 2.539/2017, expedido pela Presidência do Tribunal de Justiça e Corregedoria Geral da Justiça, que se fez anexado ao recurso especial interposto, cf. fl. e-STJ 2462;
+Confira-se o disposto no Comunicado do Tribunal Local acerca da suspensão dos prazos entre 08 e 19 de janeiro de 2018 (e- STJ fl. 2462).
+ ..
+Logo, tendo em vista que já haviam fluído 5 dias de prazo antes do recesso e pós-recesso do Tribunal Local (lembre-se, 15, 16, 17, 18 e 19/12/2017) e considerando que os prazos foram retomados em 22/01/2018 (2ª feira), os 11 dias faltantes se esgotariam em 31/01/2018 (4ª feira), exata data em que se ofertou o recurso raro (e-STJ fl. 2448) que, portanto, é inequivocamente tempestivo, data maxima venia." (fls. 2486/2487).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte Embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Quanto à tempestividade do recurso, impende esclarecer que "A suspensão do curso dos prazos processuais prevista no art. 220 do NCPC, regulamentada pela Resolução CNJ n. 244, de 19/9/2016, não incide sobre os processos de competência da Justiça Criminal, visto que submetidos, quanto a esse tema, ao regramento disposto no art. 798, caput e § 3º, do CPP. A continuidade dos prazos processuais penais é afirmada, no caso, pelo princípio da especialidade" (AgRg no AREsp 1.070.415/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/05/2017, DJe 22/05/2017.)
+Além disso, em consonância com o regramento do art. 798, caput e § 3.º do Código de Processo Penal, de que os prazos processuais penais são contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado, o "O recesso judiciário e o período de férias coletivas, em matéria processual penal, têm como efeito, em relação aos prazos vencidos no seu curso, a mera prorrogação do vencimento para o primeiro dia útil subsequente ao seu término, não havendo interrupção ou suspensão" (AgRg no Inq 1.105/DF, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 29/03/2017, DJe 19/04/2017). Assim, o prazo é contado ininterruptamente durante o período de recesso, somente prorrogando o seu vencimento para o primeiro dia útil seguinte após o referido período.
+Não se desconhece o comprovante juntado às fls. 2462, porém é insuficiente para comprovar a tempestividade, uma vez que não cita os prazos criminais. E, mesmo que fosse considerado, ainda assim a intempestividade do recurso persistiria conforme o exposto retro.
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp 1315507/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/08/2014, DJe 28/08/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou ambiguidade).
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
