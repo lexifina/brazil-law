@@ -1,0 +1,46 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR (PAT). DEDUÇÃO DO IMPOSTO DE RENDA. LIMITAÇÕES. ILEGALIDADE. PRESCRIÇÃO. LC 118/05. RESP REPETITIVO N. 1.269.570/MG. AGRAVO CONHECIDO PARA NESSA EXTENSÃO NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interno interposto contra decisão que negou provimento ao agravo em recurso especial da recorrente, nos termos da seguinte ementa (fl. 364):
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL.VIOLAÇÃO AO ART. 535 DO CPC. NÃO CONFIGURADA. IRPJ. DEDUÇÕES. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR (PAT). VALOR DA REFEIÇÃO. INOVAÇÃO INFRALEGAL. EXORBITÂNCIA EM RELAÇÃO À LEI. ILEGALIDADE. AGRAVO NÃO PROVIDO.
+A parte agravante alega que a dedução do "dobro" dos gastos com a alimentação dos trabalhadores, observado o coeficiente e os limites aplicáveis, deve ocorrer sobre o Imposto devido, jamais sobre o lucro tributável. Assim, restando inequívoca a intenção do legislador, afigura-se ilegal, por consequência, o alargamento pretendido pelas Impetrantes-Agravadas,com o qual aquiesceu, equivocadamente, a decisão recorrida (fl. 329).
+Sem impugnação.
+É o relatório. Passo a decidir.
+Diante dos argumentos aqui trazido, exerço o juízo de retratação em relação à decisão de fls. 364-368, tornando-a sem efeito, e analiso novamente a demanda.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Conforme relatado, a recorrente alega que o acórdão recorrido violou o o artigo 1º, § 1º da Lei 6.321/76 pois, "observado o coeficiente e os limites aplicáveis, deve ocorrer sobre o Imposto devido, jamais sobre o lucro tributável. Assim, restando inequívoca a intenção do legislador, afigura-se ilegal, por consequência, o alargamento pretendido pelas Impetrantes-Agravadas,com o qual aquiesceu, equivocadamente, a decisão recorrida (fl. 329).
+Tem-se que o Tribunal de origem asseverou que (fls. 298-304):
+ ..
+Na apelação, a recorrente apela, apenas, em relação à parte da sentença que declarou a ilegalidade do Decreto nº 05/91, pois este traz conceitos mais amplos acerca da matéria, no que tange à limitação da dedução do imposto de renda.
+Pretende-se, pela via do presente writ, deduzir do seu IRPJ as despesas com o PAT, nos moldes da Lei nº 6.321/76, sem as limitações apontadas, para fins de posterior compensação.
+A empresa contabilizou de forma correta as despesas com o Programa de Alimentação do Trabalhador - PAT, de que trata o art. 1o, da Lei nº 6.321/76. Prevalece o entendimento de que o art. 1o da Lei nº 6.321/76 autoriza a contabilização da forma que foi realizada pela contribuinte, ao dispor:
+"As pessoas jurídicas poderão deduzir, do lucro tributável para fins do imposto sobre a renda o dobro das despesas comprovadamente realizadas no período base, em programas de alimentação do trabalhador, previamente aprovados pelo Ministério do Trabalho na forma em que dispuser o Regulamento desta Lei."
+No mais, a matéria objeto do pedido inaugural, com relação à dedução do lucro tributável para fins do IRPJ relativas às despesas do PAT, está plenamente pacificada, tanto no distinto STJ quanto nesta Corte Regional, conforme atestam os precedentes que abaixo registro:
+NO STJ:
+"TRIBUTÁRIO. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR - PAT. IMPOSTO DE RENDA. INCENTIVO FISCAL. LEI Nº 6.321/76. LIMITAÇÃO. PORTARIA INTERMINISTERIAL  326/77 E INSTRUÇÃO NORMATIVA  143/86. OFENSA. PRINCÍPIOS DA LEGALIDADE E DA HIERARQUIA DAS LEIS.
+1. A Portaria Interministerial nº 326/77 e a Instrução Normativa Nº 143/86, ao fixarem custos máximos para as refeições individuais como condição ao gozo do incentivo fiscal previsto na Lei nº 6321/16,violaram o princípio da legalidade e da hierarquia das leis, porque extrapolaram os limites do poder regulamentar. Precedentes.
+"PROCESSUAL CIVIL E TRIBUTÁRIO. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR - PAT. INCENTIVO FISCAL. LEI Nº 6 321/76. LIMITAÇÃO. PORTARIA Nº 326/77 E INSTRUÇÃO NORMATIVA  143/86. VIOLAÇÃO. PRINCÍPIO DA HIERARQUIA DAS LEIS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS NºS 282 E 356/STF.
+I - As limitações impostas pela Portaria nº 326/77 e pela Instrução Normativa nº 143/86, fixando custos máximos para cada refeição individual oferecida pelo PAT, são ilegais, porquanto estabelecem restrições que não foram previstas na Lei nº 6.321/76, nem no Decreto nº 78.676/76 que a regulamentou, violando, com isso, o princípio da hierarquia das leis.
+II-(..)
+III - Recurso especial a que se nega provimento."
+(REsp 157990/SP, Rel. Min. FRANCISCO FALCÃO, DJ 17/05/2004)
+(..)
+A jurisprudência do Superior Tribunal de Justiça firmou a compreensão no sentido de que os benefícios instituídos pelas Leis 6.297/1975 e 6.321/1976 aplicam-se ao adicional do imposto de renda, de forma que, primeiramente, proceder-se à dedução sobre o lucro da empresa, resultando no lucro real, sobre o qual deverá ser calculado o adicional do imposto de renda.
+A propósito, confiram-se:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRIBUTÁRIO. IMPOSTO DE RENDA. PROGRAMAS DE INCENTIVO. DECRETO-LEI 1.704/79. LEIS 6.297/75 E 6.321/76. AUSÊNCIA DE PREQUESTIONAMENTO. AFASTAMENTO. OMISSÃO. OCORRÊNCIA. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
+1. Os embargos de declaração são cabíveis quando houver no acórdão ou sentença, omissão, contradição ou obscuridade, nos termos do art. 535, I e II, do CPC, ou para sanar erro material.
+2. A embargante comprovou que a Corte de origem manifestou-se acerca do §3º, do art. 1º, do Decreto- Lei n. 1.704/79, pelo que o recurso especial por ela interposto merece ser conhecido, nessa parte.
+3. Os benefícios instituídos pelas Leis 6.297/75 e 6.321/76 aplicam-se ao adicional do imposto de renda, devendo, primeiramente, proceder-se à dedução sobre o lucro da empresa, resultando no lucro real, sobre o qual deverá ser calculado o adicional. Precedentes do antigo Tribunal Federal de Recursos e do STJ: REsp 526.303/SP, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 27/09/2005; AgRg no REsp 115295/DF, Rel. Ministro FRANCIULLI NETTO, SEGUNDA TURMA, julgado em 02/09/2004.
+4. Embargos de declaração acolhidos para, atribuindo-se-lhes efeitos infringentes, conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento (EDcl no AgRg no REsp 940735 / SP, Primeira Turma, Rel. Min. Luiz Fux, julgado em 20.05.2010).
+PROCESSUAL CIVIL E TRIBUTÁRIO. ARTS. 25 DA LEI N.º 7.450/85, 39, § 2º, DA LEI N.º 7.799/89, 97, 111, 176 E 177, DO CTN. PREQUESTIONAMENTO. AUSÊNCIA. IMPOSTO DE RENDA. PROGRAMAS DE INCENTIVO. DECRETO-LEI 1.704/79. LEIS 6.297/75 E 6.321/76.
+1. Não decididas pela Corte de origem as questões federais alusivas aos arts. 25 da Lei n.º 7.450/85, 39, § 2º, da Lei n.º 7.799/89, 97, 111, 176 e 177, do CTN, é inadmissível, nesses pontos, o manejo de recurso especial, pois imperiosa a observância do prequestionamento. São aplicáveis os enunciados das Súmulas 211/STJ, 282/STF e 356/STF.
+2. Os benefícios instituídos pelas Leis 6.297/75 e 6.321/76 aplicam-se ao adicional do Imposto de Renda da seguinte maneira: deduz-se as correspondentes despesas do lucro da empresa, chegando-se ao lucro real, sobre o que deverá ser calculado o adicional. Precedentes do extinto TFR e deste Tribunal.
+3. Recurso especial improvido (REsp 526303 / SP, Segunda Turma, Rel. Min. Castro Meira, julgado em 27.09.2005).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRIBUTÁRIO. IMPOSTO DE RENDA. PROGRAMAS DE INCENTIVO. DECRETO-LEI 1.704/79. LEIS 6.297/75 E 6.321/76. AUSÊNCIA DE PREQUESTIONAMENTO. AFASTAMENTO.
+Há que se reconhecer a existência de eiva na decisão agravada, porquanto este Relator pecou em não observar atentamente a matéria tratada no acórdão a quo e apreciar a matéria como se esta houvesse sido prequestionada.
+Os benefícios instituídos pelas Leis 6.297/75 e 6.321/76 aplicam-se ao adicional do imposto de renda, devendo, primeiramente, proceder-se à dedução sobre o lucro da empresa, resultando no lucro real, sobre o qual deverá ser calculado o adicional.
+Agravo regimental provido, para conhecer do recurso especial interposto pela Fazenda Nacional, e negar-lhe provimento (AgRg no REsp 115295 / DF, Segunda Turma, Rel. Min. Franciulli Netto, julgado em 02.09.2004).
+Verifica-se que o Tribunal de origem decidiu em consonância com a jurisprudência desta Corte,
+Não se conhece do recurso especial interposto com base na alínea "c" do permissivo constitucional quando a divergência não é demonstrada nos termos em que exigido pela legislação processual de regência (art. 541, parágrafo único, do CPC, c/c art. 255 do RISTJ). No caso, o recorrente não realizou o devido cotejo analítico, nem demonstrou a existência de similitude fática e jurídica entre os arestos confrontados.
+Ante o exposto, torno sem efeito decisão de fls. 364-368 e, conheço do agravo interno para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
