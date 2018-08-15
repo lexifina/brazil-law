@@ -1,0 +1,25 @@
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE DA PRETENSÃO EXECUTÓRIA. CABIMENTO. TERMO INICIAL. NECESSIDADE DE PRÉVIA INTIMAÇÃO DO CREDOR-EXEQUENTE. OITIVA DO CREDOR. INEXISTÊNCIA. CONTRADITÓRIO DESRESPEITADO. PRECEDENTE. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Na origem, [NOME] interpôs agravo de instrumento contra decisão do Magistrado de primeiro grau que, nos autos da execução de título extrajudicial proposta por [NOME] em desfavor do agravante, rejeitou a prescrição intercorrente.
+A Décima Terceira Câmara de Direito Privado do Tribunal de Justiça de São Paulo deu provimento ao agravo de instrumento para reconhecer a prescrição intercorrente, em acórdão assim ementado (e-STJ, fl. 720):
+AGRAVO DE INSTRUMENTO - Execução de título extrajudicial - Prescrição intercorrente - Decisão rejeitou tese de prescrição intercorrente em exceção de pré-executividade - Ocorrência - A prescrição intercorrente pressupõe inércia e desídia do exequente - Paralisação do feito de origem por prazo superior a 3 (três) anos - Indicação de ausência de garantia do Juízo efetivada a destempo, após fluência do prazo prescricional - Decisão reformada Recurso provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 294-299).
+Inconformado, [NOME] interpõe o presente recurso especial, fundamentado no art. 105, III, a e c, da Constituição Federal, apontando negativa de vigência aos arts. 267, II e III, § 1º, 791, III, e 794 do Código de Processo Civil de 1973.
+Defende que, "estando suspensa a execução, em razão da ausência de bens penhoráveis, não corre o prazo prescricional, ainda que se trate de prescrição intercorrente, hipótese em que a extinção do processo por inércia do exequente em promover o andamento do feito não pode se dar sem a sua intimação prévia e pessoal" (e-STJ, fl. 311).
+Não foram apresentadas contrarrazões.
+Brevemente relatado, decido.
+Com efeito, a Segunda Seção desta Corte Superior, por meio do julgamento do REsp n. 1.604.412/SC, desta relatoria, firmou tese no incidente de assunção de competência no sentido de que, em observância ao contraditório, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, deve o exequente ser previamente intimado para opor algum fato impeditivo à incidência da prescrição.
+A propósito:
+1. As teses a serem firmadas, para efeito do art. 947 do CPC/2015 são as seguintes:
+1.1 Incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002.
+1.2 O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980).
+1.3 O termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual, uma vez que não se pode extrair interpretação que viabilize o reinício ou a reabertura de prazo prescricional ocorridos na vigência do revogado CPC/1973 (aplicação irretroativa da norma processual).
+1.4. O contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição.
+2. No caso concreto, a despeito de transcorrido mais de uma década após o arquivamento administrativo do processo, não houve a intimação da recorrente a assegurar o exercício oportuno do contraditório.
+Na hipótese, o Tribunal de origem reconheceu a prescrição intercorrente, sob o argumento de que a paralisação da execução - por anos - ocorreu em razão de desídia processual do exequente, e não em decorrência da não localização de bens penhoráveis do executado.
+Consignou, ainda, que "a necessidade de intimação pessoal do exequente para dar andamento ao feito é requisito que deve anteceder a prolação de sentença sem resolução de mérito nos termos do art. 485 do CPC/2015. O panorama que se descortina nos autos de origem é outro: não ocorreu sentença no feito, abarcando a questão tão-somente a eventual ocorrência de prescrição intercorrente, situação que dispensa a intimação pessoal da parte" (e-STJ, fl. 286).
+Constata-se, portanto, que o acórdão recorrido, ao analisar a questão da intimação pessoal do credor, destoou da jurisprudência desta Corte Superior.
+Logo, no caso, imprescindível que o recorrente seja ouvido antes de eventual decreto de prescrição.
+À vista do exposto, dou provimento ao recurso especial para afastar o decreto de prescrição e determinar o retorno dos autos ao Juízo de origem, sem prejuízo de posterior reconhecimento, desde que obedecido o devido processo legal.
+Publique-se.
