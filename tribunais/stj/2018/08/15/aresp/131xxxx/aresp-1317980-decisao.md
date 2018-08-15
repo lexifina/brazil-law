@@ -1,0 +1,30 @@
+DECISÃO
+1. Trata-se de agravo interposto por [NOME] contra decisão que inadmitiu recurso especial, com fulcro no art. 105, III, "a", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado do Espírito Santo, integrado pelo proferido em sede de embargos de declaração, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DE COMISSÃO DE CORRETAGEM. PRESCINDIBILIDADE DE CONTRATO ESCRITO. INAPLICABILIDADE DO ART. 401 DO CC. CONJUNTO PROBATÓRIO QUE, DEMONSTRAM AS ATIVIDADES DA IMOBILIÁRIA PARA ANUNCIAR O IMÓVEL DO APELANTE NO MERCADO A PERMITIR A APROXIMAÇÃO DO COMPRADOR. COMPRA EFETIVADA A POSTERIORI SEM A INTERVENÇÃO DA IMOBILIÁRIA. COMISSÃO DEVIDA. AUSÊNCIA DE COMPROVAÇÃO DOS FATOS IMPEDITIVOS, MODIFICATIVOS OU EXTINTIVOS DO DIREITO AUTORAL (CPC, ART. 333, II). RECURSO IMPROVIDO.
+1. Para justificar a cobrança da comissão de corretagem, não há a necessidade de se firmar previamente um contrato escrito entre o promitente vendedor do imóvel e a imobiliária, dada a possibilidade de se comprovar a relação de corretagem por meio de prova testemunhal, bastando, para tanto, que haja a efetiva aproximação das partes compradora e vendedora, e a conclusão bem sucedida do negócio jurídico para justificar a percepção da aludida comissão.
+Precedentes.
+2. Não tendo a parte Requerida logrado êxito em comprovar que as tratativas que originaram a venda do imóvel teria ocorrido 02 (dois) anos antes de a imobiliária começar a divulgá-lo no mercado, como alegado em sua tese de defesa, deve ser mantida incólume a sentença porquanto, do contrário, restou efetivamente demonstrada que a aproximação dos comprador e vendedor ocorreu por conta das intervenções da parte autora que, além de publicar anúncios em jornal e colocar uma placa de "vende-se" no imóvel com os contatos da imobiliária, também confeccionou os termos de "acordo de pré-venda" e de "distrato de venda de imóvel" assinados pela" pessoa que 05 (cinco) meses depois deste último concluiu a compra do bem sem, contudo, empresa corretora nesta última ocasião.
+3. Apelo improvido.
+
+Nas razões do especial, alega-se violação dos arts. 8º e 1.026, § 2º, do Código de Processo Civil e art. 726 do Código Civil, bem como dissídio jurisprudencial.
+Decido.
+2. A irresignação não merece prosperar.
+Quanto à multa prevista no art. 1.026, § 2º, do CPC, aplicada ao recorrente em razão de embargos com propósito protelatório, ressalte-se que, examinados a petição destes e o decisório que os apreciou, verifica-se que o Tribunal Estadual já havia analisado e decidido de modo claro e objetivo as questões que delimitaram a controvérsia, não havendo a necessidade de oposição de aclaratórios para fins de prequestionamento, o que afasta a incidência da Súmula 98 deste STJ.
+Portanto, deve ser mantida a multa ali aplicada.
+Cumpre ressaltar que o mero inconformismo da parte não constitui hipótese de cabimento de embargos de declaração e tampouco caracteriza vício no acórdão.
+3. Outrossim, o Tribunal de origem registra a necessidade de pagamento da comissão de corretagem, tendo em vista que a recorrida efetuou a aproximação entre comprador e vendedor que resultou na venda do imóvel.
+3.1 Além disso, a Corte Estadual considera ser razoável a estipulação do percentual de 5% (cinco por cento) do valor da negociação a título de comissão de corretagem, até mesmo por ser inferior ao praticado no mercado.
+3.2 A reforma do aresto, nestes aspectos, demanda inegável necessidade de reexame de matéria fático-probatória, providência inviável de ser adotada em sede de recurso especial, ante o óbice da Súmula 7 desta Corte.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. COMISSÃO DE CORRETAGEM DEVIDA. PARTICIPAÇÃO COMPROVADA. PERCENTUAL FIXADO. REVISÃO. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. "É devida a comissão de corretagem por intermediação imobiliária se os trabalhos de aproximação realizados pelo corretor resultarem, efetivamente, no consenso das partes quanto aos elementos essenciais do negócio" (AgRg no REsp n. 1.440.053/MS, Relator Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 15/3/2016, DJe 28/3/2016).
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+3. No caso concreto, o Tribunal local, com base nos elementos de prova, concluiu pela participação da agravada no fechamento do negócio, bem como que a esta caberia a comissão de 5% (cinco por cento) sobre o valor da venda. Dissentir dessas conclusões demandaria reexame da matéria fática, o que é inviável em recurso especial, ante o óbice da mencionada súmula.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 881.041/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 08/11/2016, DJe 16/11/2016) - g.n.
+4. Por outro lado, o conhecimento do recurso fundado na alínea "c" do permissivo constitucional pressupõe a demonstração analítica da alegada divergência. Para tanto, faz-se necessário a transcrição dos trechos que configurem o dissenso, com a indicação das circunstâncias que identifiquem os casos confrontados. (Nesse sentido: REsp 441.800/CE, Rel. Ministro JORGE SCARTEZZINI, DJ 2.8.04).
+No caso em tela, a parte agravante traz à colação ementa de julgado, contudo não procede ao cotejo deste com o caso dos autos; apenas traça uma conclusão conveniente em face dos enunciados estampados nas ementas, não sendo aferível a similitude fática entre esse acórdão e o do caso em julgamento.
+A falta de cotejo analítico impede o acolhimento do apelo, pois não foram demonstradas em quais circunstâncias o caso confrontado e o aresto paradigma aplicaram diversamente o direito, sobre a mesma situação fática.
+Importante salientar que a análise do apelo especial fundado em alegado dissídio jurisprudencial deve ser demonstrado nos moldes exigidos pelos artigos 541, parágrafo único, do CPC e 255, § 2º, do Regimento Interno do Superior Tribunal de Justiça, o que não ocorreu.
+5. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
