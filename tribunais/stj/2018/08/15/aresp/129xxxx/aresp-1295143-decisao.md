@@ -1,0 +1,18 @@
+DECISÃO
+1. Trata-se de agravo interposto por EDITORA ANCHOVA & COMERCIO DE REVISTAS LTDA contra decisão que inadmitiu recurso especial, com fulcro no art. 105, III, "a" e "c", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado do Paraná, integrado pelo proferido em sede de embargos de declaração, assim ementado:
+APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - ESCRITURA PÚBLICA DE COMPRA E VENDA DE COTAS SOCIAIS - SENTENÇA QUE DECLAROU A INTEMPESTIVTDADE DOS EMBARGOS À EXECUÇÃO - APELAÇÃO - PEDIDO DE RECONHECIMENTO DA TEMPESTIVIDADE - ACOLHIMENTO - COMPARECIMENTO ESPONTÂNEO NÃO CARACTERIZADO - EXCEÇÃO DE PRÉ-EXECUTIVIDADE DESACOMPANHADA DE PROCURAÇÃO COM PODERES ESPECÍFICOS PARA O RECEBIMENTO DE CITAÇÃO - SUSPENSÃO DO FEITO E DA AÇÃO EXECUTIVA ATÉ O TRÂNSITO EM JULGADO DA DEMANDA REVISIONAL - RECURSO ADESIVO - PEDIDO DE CORREÇÃO DE ERRO MATERIAL E DE MAJORAÇÃO DOS HONORÁRIOS FIXADOS - PLEITOS PREJUDICADOS ANTE O RECONHECIMENTO DA TEMPESTIVIDADE DOS EMBARGOS. APELAÇÃO CÍVEL CONHECIDA E PROVIDA E RECURSO ADESIVO PREJUDICADO.
+
+Nas razões do especial, alega-se violação do art. 274 do Código de Processo Civil, bem como dissídio jurisprudencial.
+Decido.
+2. A irresignação não merece prosperar.
+Observa-se que a matéria relativa ao art. 274 do CPC não foi objeto de análise pelo acórdão recorrido, uma vez que nada foi dito sobre a necessidade de que as intimações sejam feitas, não dispondo a lei de outro modo, às partes, aos seus representantes legais, aos advogados e aos demais sujeitos do processo pelo correio ou, se presentes em cartório, diretamente pelo escrivão ou chefe de secretaria.
+Na verdade, a matéria abordada no acórdão refere-se ao art. 239, § 1º, do CPC, o qual não guarda qualquer pertinência com o artigo tido por violado.
+Assim, a inexistência de carga decisória a respeito da matéria do art. 274 do CPC impede que ela seja apreciada na presente via recursal, tendo em vista a falta de prequestionamento (Súmula 211/STJ).
+Por outro lado, o Superior Tribunal de Justiça não reconhece o prequestionamento pela simples oposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial alegando-se afronta ao art. 1.022 do CPC, o que, no caso, não ocorreu.
+A reforma do aresto, neste aspecto, demanda inegável necessidade de reexame de matéria fático-probatória, providência inviável de ser adotada em sede de recurso especial, ante o óbice da Súmula 7 desta Corte.
+3. Por outro lado, o conhecimento do recurso fundado na alínea "c" do permissivo constitucional pressupõe a demonstração analítica da alegada divergência. Para tanto, faz-se necessário a transcrição dos trechos que configurem o dissenso, com a indicação das circunstâncias que identifiquem os casos confrontados. (Nesse sentido: REsp 441.800/CE, Rel. Ministro JORGE SCARTEZZINI, DJ 2.8.04).
+No caso em tela, a parte agravante traz à colação ementa de julgado, contudo não procede ao cotejo deste com o caso dos autos; apenas traça uma conclusão conveniente em face dos enunciados estampados nas ementas, não sendo aferível a similitude fática entre esse acórdão e o do caso em julgamento.
+A falta de cotejo analítico impede o acolhimento do apelo, pois não foram demonstradas em quais circunstâncias o caso confrontado e o aresto paradigma aplicaram diversamente o direito, sobre a mesma situação fática.
+Importante salientar que a análise do apelo especial fundado em alegado dissídio jurisprudencial deve ser demonstrado nos moldes exigidos pelos artigos 541, parágrafo único, do CPC e 255, § 2º, do Regimento Interno do Superior Tribunal de Justiça, o que não ocorreu.
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
