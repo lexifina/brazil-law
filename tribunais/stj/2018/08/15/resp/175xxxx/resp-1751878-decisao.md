@@ -1,0 +1,31 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. CONSELHO DE FISCALIZAÇÃO PROFISSIONAL. ANUIDADES. PERÍODO ANTERIOR À VIGÊNCIA DA LEI 12.514/2011. FATO GERADOR. EXERCÍCIO PROFISSIONAL. PRECEDENTES. SÚMULA 568/STJ. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão Tribunal Regional Federal da 3ª Região, cuja ementa é a seguinte:
+AGRAVO LEGAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. DÉBITOS COBRADOS PELO COREN. CANCELAMENTO DE INSCRIÇÃO DOS PROFISSIONAIS. AGRAVO IMPROVIDO.
+1. A decisão agravada foi proferida em consonância com o entendimento jurisprudencial do [NOME] e desta E. Corte, com supedâneo no art. 557, do antigo CPC, inexistindo qualquer ilegalidade ou abuso de poder.
+2. Sabe-se que a denominada "exceção de pré-executividade " admite a defesa do executado sem a garantia do juízo somente nas hipóteses excepcionais de ilegitimidade de parte ou pagamento documentalmente comprovados, cancelamento de débito, anistia, remissão e outras situações reconhecíveis de plano, ou seja, a sua admissibilidade deve basear-se em prova inequívoca não sendo cabível nos casos em que há necessidade de produção de provas ou mesmo quando o magistrado entender ser pertinente ouvir a parte contrária para o seu convencimento. Pacífico o entendimento jurisprudencial no sentido de que "Na execução fiscal, com o título revestido de presunção de liquidez e certeza, a exequente nada tem que provar. Opondo embargos, o devedor terá que desconstituir o título. Se nada provar, a pretensão resistida será desmerecida e, com o prosseguimento da execução, será agasalhada a pretensão satisfeita. Não é a embargada que irá robustecer o seu título, mas o embargante que terá que enfraquecê-lo..".
+3. A agravante se aposentou no ano de 2005, não tendo mais exercido a profissão de enfermeira nos anos de 2006 até 2008, período a que se referem as anuidades cobradas pelo agravado. Alega que "faltaria inclusive o fato gerador da obrigação tributária, visto que os débitos exequendos referem-se a vencimentos posteriores a 2006", requereu sua inscrição junto ao COREN-MS em 29.07.2001. Por outro lado, conforme se verifica, o requerimento de cancelamento de inscrição é datado de 17.11.2011. Vale ressaltar que cabe somente ao profissional formalizar o cancelamento de sua inscrição perante o conselho de classe quando deixar de exercer atividades relacionadas ao seu ramo profissional, sob pena de estar sujeito à cobrança de anuidades. Assim, não se pode exigir que o Conselho cancelasse de ofício o registro da executada, em razão da sua aposentadoria, pois não há previsão legal quanto a essa possibilidade.
+4. Agravo improvido
+No recurso especial, interposto com base nas alíneas a do permissivo constitucional, a recorrente afirma que antes da vigência da Lei 12.514/2011, o fato gerador da cobrança de anuidade de conselho de fiscalização profissional era o efetivo exercício da profissão e não a simples existência da inscrição no órgão de classe.
+O recurso foi admitido pela decisão às fls. 179/181.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A jurisprudência deste Superior Tribunal de Justiça firmou orientação no sentido de que, nos termos do art. 5º da Lei 12.514/2011, o fato gerador para cobrança de anuidades de conselho de fiscalização profissional é o registro, sendo irrelevante o exercício da profissão. Contudo, em período anterior à vigência da Lei 12.514/2011, o fato gerador da obrigação tributária era o exercício profissional e não a filiação ao conselho profissional.
+Nesse sentido:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONSELHO REGIONAL DE ENFERMAGEM. ANUIDADES. PERÍODO ANTERIOR À VIGÊNCIA DA LEI N. 12.514/2011. FATO GERADOR. EXERCÍCIO PROFISSIONAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte entende que, antes da vigência da Lei 12.514/11, o fato gerador da obrigação tributária era o exercício profissional e não o simples registro no Conselho profissional. Precedente: REsp. 1.387.415/SC, Rel. Min. OG FERNANDES, DJe 11.3.2015.
+2. A hipótese dos autos refere-se à execução fiscal que tem por objeto os fatos geradores ocorridos nos anos de 2008 a 2011, e o executado comprovou sua aposentadoria em 28.4.1997 (fls. 118).
+3. Agravo Regimental desprovido.
+(AgRg no REsp 1514744/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 08/03/2016, DJe 17/03/2016)
+TRIBUTÁRIO. CONSELHO REGIONAL DE ENFERMAGEM. ANUIDADES. PERÍODO ANTERIOR À VIGÊNCIA DA LEI N. 12.514/2011. FATO GERADOR. EXERCÍCIO PROFISSIONAL.
+1. A jurisprudência desta Corte tem entendimento firmado no sentido de que, nos termos do art. 5º da Lei n. 12.514/2011, o fato gerador para cobrança de anuidades de conselho de fiscalização profissional é o registro, sendo irrelevante o exercício da profissão.
+2. Em período anterior à vigência da Lei n. 12.514/2011, o fato gerador da obrigação tributária era o exercício profissional e não a filiação ao conselho profissional.
+3. Reconhecido pelo Tribunal de origem que a executada não exercia a profissão, tem-se por afastada a cobrança.
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1553767/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 27/10/2015, DJe 13/11/2015)
+In casu, levando-se em consideração que as anuidades em cobro são referentes a períodos anteriores à Lei 12.514/2011, quando a recorrente não mais exercia atividade profissional, a alteração do acórdão recorrido é medida que se impõe, para que a execução fiscal seja extinta.
+Cumpre, por fim, registrar que nos termos da Súmula 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, nos termos da fundamentação.
+Publique-se.
+Intimem-se.
