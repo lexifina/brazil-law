@@ -1,0 +1,21 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS DE FORMA ESPECÍFICA. SÚM. 182/STJ. AGRAVO NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial de MARCILIO DIAS MONTEIRO fundado nas alíneas "a" e "c" do permissivo constitucional interposto contra acórdão do Tribunal de Justiça do Estado do Mato Grosso, assim ementado:
+RECURSO DE APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - SERVIDOR PÚBLICO ESTADUAL - PREJUDICIAL DE MÉRITO - PRESCRIÇÃO - DIÁRIA - EVENTUALIDADE E TRANSITORIEDADE - NÃO CONFIGURAÇÃO - BENEFÍCIOS DA JUSTIÇA GRATUITA - CONCESSÃO - RECURSO DESPROVIDO.
+1. O artigo 79, da Lei Complementar nº 04/1990 - Estatuto dos Servidores Públicos Estaduais é claro ao estabelecer que o direito ao recebimento de diárias está adstrito aos casos de o servidor se afastar em caráter eventual e transitório.
+2. Os direitos e ações contra a Fazenda Pública prescrevem em cinco anos, contados da data do ato ou fato do qual se originaram (Decreto 20.910/32), sendo que nas relações de trato sucessivo, a prescrição se limita às prestações pretéritas ao qüinqüênio que antecedeu a propositura da ação. não se afetando o fundo de direito quando este não tiver sido negado.
+No recurso especial, a parte recorrente aponta a violação dos seguintes dispositivos: a) art. 37, da CF, alegando a inobservância dos princípios da publicidade e da legalidade; b) art. 4º do Dec. 20.910/1932, art. 202 do Código Civil e Dec. n. 4.597/1942, defendendo a não ocorrência da prescrição do caso, porquanto o termo inicial do prazo prescricional deve ser considerado a data da publicação de sua remoção para Cuiabá no Diário Oficial; c) art. 1º da LICC e art. 95 da LC n. 10.098/1994, asseverando ter direito ao recebimento dos gastos que teve em decorrência do deslocamento para prestação de serviços em diferente comarca. No mais, aponta divergência jurisprudencial quanto à ocorrência da prescrição e quanto ao direito de recebimento das despesas.
+Houve contrarrazões (e-STJ fls. 188/198).
+Sobreveio juízo negativo de admissibilidade fundado: a) na impossibilidade de revisão do conjunto probatório dos autos em sede de recurso especial; b) na ausência de prequestionamento.
+Insurge a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial reúne condições de ser processado.
+Houve contraminuta pela parte agravada (e-STJ fls. 283/289).
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Não conheço do agravo, por ausência de refutação da motivação utilizada no juízo de admissibilidade.
+Dessume-se dos autos que a decisão que negou seguimento ao recurso especial utilizou, como um dos argumentos, a premissa de que a análise do acórdão recorrido implicaria em revolvimento de matéria fático-probatória.
+Contudo, do exame do agravo interposto, observa-se que a agravante furtou-se de impugnar, especificamente, o fundamento da incidência da Súm. 7/STJ, limitando-se a refutar os demais argumentos consignados na decisão de admissibilidade.
+Competia a ela demonstrar de que maneira o recurso especial de fato não dependeria de reanálise do conjunto fático-probatório - deixando claro, por exemplo, que todos os fatos estão devidamente consignados no acórdão recorrido.
+Assim, na esteira do entendimento desta Corte Superior, não obedece ao comando do art. 932, III, do CPC/2015 (correspondente ao art. 544, § 4.º, inciso I, do CPC/1973), o agravo que não tenha atacado especifica e fundamentadamente todos os fundamentos da decisão de inadmissibilidade. Incide, à espécie, o óbice da Súm. 182, segundo o qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intime-se.
