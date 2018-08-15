@@ -1,0 +1,26 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. VIOLAÇÃO DOS ARTS. 165 E 458, II, DO CPC. INOCORRÊNCIA. INSCRIÇÃO INDEVIDA EM CADASTRO DE PROTEÇÃO AO CRÉDITO. VALOR. EXORBITÂNCIA. ALTERAÇÃO. POSSIBILIDADE.
+1. O acórdão recorrido, apesar de sucinto, analisou e discutiu as questões de mérito, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts. 165 e 458, II, do CPC.
+2. A jurisprudência do STJ é pacífica no sentido de que a modificação do valor fixado a título de danos morais somente é permitida quando a quantia estipulada for irrisória ou exagerada.
+3. Valor da compensação pelo dano moral reduzido para R$ 2.000,00 (dois mil reais)
+4. Agravo conhecido. Recurso especial conhecido e parcialmente provido.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por AUTO TÉCNICA DIESEL LTDA., contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, nas alíneas "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 29/10/2015.
+Concluso ao gabinete em: 19/06/2018.
+Ação: declaratória de inexistência de débitos c/c compensação por danos morais ajuizada por [NOME] em face de AUTO TÉCNICA DIESEL LTDA., para declarar a nulidade de negócio jurídico e a compensação por danos morais, em razão de não ter realizado nenhuma transação com a agravante e ter ser seu nome incluído em cadastro de proteção ao crédito.
+Sentença: julgou procedente os pedidos da inicial por considerar que o negócio jurídico foi realizado por pessoa diversa a cadastrada em serviço de proteção ao crédito, condenando a agravante em R$ 2.000,00 (dois mil reais) a título de danos morais.
+Acórdão: deu provimento à apelação interposta pela agravada para majorar a compensação pelos danos morais para R$ 15.000,00 (quinze mil reais). Ementa assim transcrita:
+Ação de inexigibilidade de débito e indenização por danos morais. Negativação. Sentença de parcial procedência. Inconformismo da autora. Quantum indenizatório majorado de dois mil reais para quinze mil reais. Recurso provido.
+Recurso especial: alega violação dos arts. 165, 458, II, do CPC/73 e 944, § único, do CC/02. Sustenta que houve ausência de fundamentação por parte do acórdão recorrido e que os danos morais foram fixados em patamar exorbitante.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação dos arts. 165 e 458, II, do CPC/73
+O acórdão recorrido, apesar de sucinto, analisou e discutiu as questões de mérito sob os seguintes enforques: 1. a compensação deve ser fixada em patamar suficiente e razoável; 2. O entendimento consolidado do TJ/SP é de que em casos assemelhados ao da presente ação, se fixa a compensação em R$ 15.000,00; 3. Esse entendimento compreende os requisitos pedagógicos, compensatórios e proporcionais do dano moral.
+Desse modo, não há que se falar em violação dos arts. 165 e 458, II, do CPC/73.
+- Do valor da compensação por dano moral por inscrição indevida em cadastros de proteção ao crédito
+Ao julgar o recurso de apelação interposto pela agravada, o TJ/SP fixou o valor de R$ 15.000,00 (quinze mil reais) para compensar o dano moral decorrente de inscrição indevida em cadastro de proteção ao crédito, reputando o valor como razoável e proporcional à espécie. Nesse contexto, a jurisprudência do STJ é pacífica no sentido de que a modificação do valor fixado a título de danos morais somente é permitida quando a quantia estipulada for irrisória ou exagerada. Nesse sentido: AgInt no AREsp 840.135/RS, 3ª Turma, DJe de 06/09/2016, e AgInt no AREsp 866.899/SC, 4ª Turma, DJe de 21/09/2016. Salvo essas hipóteses, incide a Súmula 7 do STJ, impedindo o conhecimento do recurso.
+A fundamentação do acórdão recorrido para deferir a compensação pelo dano moral foi baseada na inscrição ilegítima do nome da agravada nos órgãos de proteção ao crédito, mas não foram traçadas quaisquer notas adicionais que justificassem uma compensação por danos morais no valor de R$ 15.000,00 (quinze mil reais).
+O STJ, em hipóteses similares, considerando os critérios da proporcionalidade e razoabilidade, além das especificidades da situação concreta, definiu como compensação os valores de R$ 5.000,00 (AgInt no ARESP 1248366/DF, 3ª Turma, DJe de 18/06/2018; AgInt no ARESP 1166504/RS, 4ª Turma, DJe de 22/05/2018), R$ 4.000,00 (AgInt no REsp 1717886/RS, 3ª Turma, DJe de 30/05/2018; AgInt no REsp 1531600/RS, 3ª Turma, DJe de 18/05/2018); R$ 3.000,00 (AgInt no ARESP 1150482/RS, 3ª Turma, DJe de 11/06/2018; AgInt no REsp 1722805/RS, 3ª Turma, DJe de 28/05/2018); e R$ 2.000,00 (AgInt no REsp 1715542, 4ª Turma, DJe de 21/06/2018; AgInt no ARESP 1224021/RS, 4ª Turma, DJe de 18/06/2018; AgInt no ARESP 959225/RJ, 3ª Turma, DJe de 27/03/2017; AgRg no ARESp 548208/RS, 4ª Turma, DJe de 01/10/2014).
+Assim, com fundamento na Súmula 568/STJ, o recurso deve ser provido para restabelecer o valor de R$ 2.000,00 (dois mil reais) fixado na sentença.
+Forte nessas razões, CONHEÇO do agravo para DAR PARCIAL PROVIMENTO ao recurso especial, com fundamento no art. 932, V, "a", do CPC/15, bem como na Súmula 568/STJ, para restabelecer o valor de R$ 2.000,00 (dois mil reais) fixado na sentença (e-STJ fl. 176) referente à compensação do dano moral na espécie.
+Publique-se. Intimem-se.
