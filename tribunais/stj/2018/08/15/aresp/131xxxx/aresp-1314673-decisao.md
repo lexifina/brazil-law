@@ -1,0 +1,23 @@
+DECISÃO
+1. Trata-se de agravo interposto por [NOME] e outros contra decisão que inadmitiu recurso especial, com fulcro no art. 105, III, "a", da Constituição Federal, em face de acórdão do Tribunal Regional Federal da 3ª Região, integrado pelo proferido em sede de embargos de declaração, assim ementado:
+CIVIL. PROCESSUAL CIVIL. APELAÇÃO CÍVEL. SFH. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. CONSOLIDAÇÃO DA PROPRIEDADE. OFERECIMENTO DE CONTRACAUTELA COMO ÓBICE À ALIENAÇÃO DO IMÓVEL: POSSIBILIDADE. TRANSFERÊNCIA DE DIREITOS SOBRE O IMÓVEL REALIZADA SEM A ANUÊNCIA DA CREDORA FIDUCIÁRIA. PURGAÇÃO DA MORA APÓS A CONSOLIDAÇÃO DA PROPRIEDADE: IMPOPSSIBILIDADE. HONORÁRIOS RECURSAIS:NÃO CABIMENTO. RECURSO NÃO PROVIDO.
+1. O imóvel descrito foi financiado pelos autores no âmbito do SFI, mediante constituição de alienação fiduciária de coisa imóvel, na forma da Lei nº 9.514/1997, consolidando-se a propriedade em favor da fiduciária Caixa Econômica Federal em 05/02/2015.
+2. Estando consolidado o registro, não é possível que se impeça a credora fiduciária de exercer o direito de dispor do bem, que é consequência direta do direito de propriedade que lhe advém do registro.
+3. O devedor fiduciante não fica impedido de levar a questão ao conhecimento do Judiciário, ainda que já concretizada a consolidação da propriedade em mãos do credor fiduciário, caso em que eventual procedência do alegado resolver-se-ia em perdas e danos.
+4. Tal entendimento não exclui a possibilidade de medida judicial que obste a consolidação da propriedade em nome do credor fiduciário, desde que haja indicação precisa, acompanhada de suporte probatório, do descumprimento de cláusulas contratuais, ou mesmo mediante contracautela, com o depósito à disposição do Juízo do valor exigido.
+5. É possível a realização do depósito dos valores devidos para se obstar a alienação do imóvel alienado fiduciariamente, cuja propriedade foi consolidada à credora. Precedentes.
+6. Nos termos do artigo 29 da Lei nº 9.514/1997, "o fiduciante, com anuência expressa do fiduciário, poderá transmitir os direitos de que seja titular sobre o imóvel objeto da alienação fiduciária em garantia, assumindo o adquirente as respectivas obrigações".
+7. No caso dos autos, não há provas de que a instituição financeira tenha sido cientificada sobre a transferência realizada. Desse Modo, sem a anuência expressa da CEF, em princípio, não lhe é oponível o instrumento particular de compromisso de compra e venda entabulado entre os mutuários e [NOME], pelo qual os primeiros se comprometem a vender à segunda o imóvel financiado, mediante a quitação do contrato de mútuo com alienação fiduciária em garantia.
+8. Não obstante, a purgação da mora pela terceira adquirente dos direitos do imóvel seria possível, desde que realizada tempestivamente. Ocorre que, estando os mutuários originários intimados para purgar a mora desde 10/10/2014 (Daniel) e 20/10/2014 (Camila), o prazo para pagamento transcorreu sem purgação da mora em 27/10/2014 e 04/11/2014, respectivamente. A consolidação da propriedade, como visto, data de 05/02/2015.
+9. Como a transferência dos direitos sobre o imóvel financiado foi pactuada sem a anuência da credora fiduciária e em contrariedade à lei, não havia como promover a notificação da terceira adquirente. Assim, a CEF não pode ser penalizada com a reversão da propriedade do imóvel, após regular procedimento de consolidação, ainda que a contracautela tenha sido oferecida.
+10. Apelação não provida.
+
+Nas razões do especial, alega-se violação do art. 654 do Código Civil; art. 369 do Código de Processo Civil/15; art. 332 do Código de Processo Civil/73 e art. 5º, LV, da Constituição federal.
+Decido.
+2. A irresignação não merece prosperar.
+De início, registre-se que refoge à competência do STJ, a quem a Carta Política (art. 105, III) confia a missão de unificação do direito federal, apreciar violação de dispositivo constitucional.
+3. Outrossim, observa-se que a matéria relativa ao art. 654 do CC; art. 369 do CPC; art. 332 do CPC/73 não foi objeto de análise pelo acórdão recorrido, uma vez que nada foi mencionado sobre a capacidade da se dar procuração mediante instrumento particular, tampouco sobre cerceamento do direito de defesa.
+A inexistência de carga decisória a respeito da matéria impede que ela seja apreciada na presente via recursal, tendo em vista a falta de prequestionamento (Súmula 211/STJ).
+Por outro lado, o Superior Tribunal de Justiça não reconhece o prequestionamento pela simples oposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial alegando-se afronta ao art. 1.022 do CPC, o que, no caso, não ocorreu.
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
