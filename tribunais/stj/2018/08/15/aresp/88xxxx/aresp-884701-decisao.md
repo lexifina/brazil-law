@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo manejado por [NOME] contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo, assim ementado (fl. 722):
+ADMINISTRATIVO E PROCESSUAL CIVIL. DESAPROPRIAÇÃO. INDENIZAÇÃO JUSTA. ACORDO. DINHEIRO E IMÓVEL. DEMORA NA ENTREGA DO IMÓVEL. APURAÇÃO DO VALOR. ATUALIZAÇÃO.
+Sucessivos embargos declaratórios opostos por ambas as partes, foram apreciados conforme acórdãos constantes das fls. 773, 817 e 882.
+Nas razões do recurso especial, a parte agravante aponta, além de divergência jurisprudencial, violação aos arts. 20, § 3º, 128 e 460 do CPC/73; e 186 do CC. Sustenta que: (I) houve julgamento extra petita; (II) a longa espera para o recebimento de imóvel objeto de acordo firmado em ação de desapropriação ensejou dano moral que deve ser indenizado; e (III) os honorários advocatícios foram fixados em percentual irrisório, sendo necessária sua majoração.
+O Ministério Público Federal opinou pelo desprovimento do agravo (fls. 1059/1066).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+O inconformismo deve ser conhecido apenas parcialmente, pois a parte agravante não impugnou todos os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial, deixando de rebater, de modo específico, a aplicação do óbice previsto nas Súmulas 282 e 356 do STF, por ausência de prequestionamento dos arts. 128 e 460 do CPC/73.
+Incide, quanto ao ponto, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Quanto à alegada ofensa ao art. 186 do CC, a Corte local consignou (fl. 826):
+ A demora da Administração Pública no cumprimento de obrigações pactuadas com particulares, por si só, não enseja a ocorrência de danos morais.
+ A situação enfrentada pelos Recorrentes no caso em exame, em razão do descumprimento contratual, configura mero aborrecimento, o que, segundo o entendimento firmado pelo Superior Tribunal de Justiça não caracteriza dano moral.
+No caso, o acolhimento da insurgência recursal, a fim de aferir a presença dos elementos para a caracterização do dano moral, demanda, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ADMINISTRATIVO E PROCESSUAL CIVIL. ANÁLISE DE VIOLAÇÃO DE DISPOSITIVOS DA CF. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. DESAPROPRIAÇÃO INDIRETA. DANOS MORAIS NÃO CONFIGURADOS. REVISÃO. PRETENSÃO DE REEXAME DE PROVA. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA RECÍPROCA. IMPOSSIBILIDADE DE ANÁLISE. INCURSÃO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. ATRAÇÃO DA SÚMULA 7/STJ.
+1. A alegação de violação ao art. 535, II, do CPC para viabilizar o retorno dos autos para análise dos temas não prequestionados reveste-se de inovação recursal, o que é vedado em agravo regimental.
+2. O Superior Tribunal de Justiça tem jurisprudência firme no sentido de não ser possível a revisão do quantitativo em que autor e ré decaíram do pedido para fins de aferir a sucumbência recíproca ou mínima, por implicar reexame de matéria fático-probatória, vedado pela Súmula 7/STJ. Precedentes.
+3. O Tribunal de origem, com amparo nos elementos de convicção dos autos, assentou que não ficou configurado o dano moral reparável.
+4. Assim, para modificar tal entendimento, como requerem os agravantes, seriam imprescindível exceder os fundamentos colacionados no acórdão recorrido, por demandar incursão no contexto fático-probatório dos autos, defeso em recurso especial, nos termos da Súmula 7 desta Corte de Justiça.
+5. De fato, afastada a ocorrência de dano moral passível de reparação, assentado no acórdão recorrido, não cabe por conseguinte ao Superior Tribunal de Justiça reexaminar as razões de fato que conduziram a Corte de origem a tais conclusões, sob pena de invadir a competência das instâncias ordinárias, a quem compete amplo juízo de cognição da lide.
+Agravo regimental improvido.
+(AgRg no AREsp 527.681/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 12/08/2014, DJe 19/08/2014)
+Por fim, quanto aos honorários advocatícios, segundo o entendimento consolidado pela Primeira Seção do Superior Tribunal de Justiça, em julgamento pelo rito previsto artigo no artigo 543-C do CPC/73, "vencida a Fazenda Pública, a fixação dos honorários não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC, ou mesmo um valor fixo, segundo o critério de equidade." (REsp nº 1.155.125/MG, Relator Ministro Castro Meira, DJe de 06/04/2010).
+Ademais, a jurisprudência do STJ orienta-se no sentido de que, em regra, não se mostra possível em recurso especial a revisão do valor fixado a título de honorários advocatícios, pois tal providência exigiria novo exame do contexto fático-probatório constante dos autos, o que é vedado pela Súmula 7/STJ.
+Todavia, o óbice da referida súmula pode ser afastado em situações excepcionais, quando for verificado excesso ou insignificância da importância arbitrada, ficando evidenciada ofensa aos princípios da razoabilidade e da proporcionalidade, hipóteses não configuradas nos autos.
+No caso, o Tribunal de origem fixou os honorários sucumbenciais em R$ 20.000,00 (vinte mil reais), "considerando as peculiaridades do caso em exame" (fl. 826).
+Dessarte, não configurada a excepcionalidade exigida pela jurisprudência desta Corte, não se mostra possível a redução dos honorários advocatícios pleiteada pela parte ora agravante.
+A propósito, confira-se:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. HONORÁRIOS. IMPOSSIBILIDADE DE REVISÃO. ÓBICE DA SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A revisão do valor dos honorários advocatícios arbitrado, é, em princípio, vedado nesta instância, à luz da Súmula 7/STJ. Como cediço, é admitida sua revisão por esta Corte quando o valor arbitrado extrapola os limites da razoabilidade, o que, todavia, não se verifica no presente caso.
+2. A tese jurídica veiculada nas razões do regimental não é capaz de modificar o posicionamento anteriormente firmado no decisum ora impugnado, que persevera, na íntegra, por seus próprios fundamentos.
+3. Agravo regimental não provido.
+(AgRg no AREsp 171.013/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 07/03/2013, DJe 13/03/2013)
+Fica prejudicada, pelas mesmas razões, a análise do dissídio jurisprudencial.
+Ante o exposto, conheço, em parte, do agravo e, nessa extensão, nego-lhe provimento.
+Publique-se.
