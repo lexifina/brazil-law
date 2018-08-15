@@ -1,0 +1,91 @@
+EMENTA
+TRIBUTÁRIO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CPC/1973. INEXISTÊNCIA. NÃO REBATIMENTO DOS FUNDAMENTOS DO APELO NOBRE. INCIDÊNCIA DAS SÚMULAS N.S. 283 E 284 DO STF. ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 112 e 156, I, DO CTN. INCIDÊNCIA DA SÚMULA N. 282/STF. ALEGAÇÃO DE DIVERGÊNCIA JURISPRUDENCIAL. INCIDÊNCIA DA SÚMULA N. 284/STF. NÃO INDICAÇÃO DE DISPOSITIVO LEGAL VIOLADO.
+I - Sobre a alegada violação do art 535 do CPC/1973 (art. 1.022 do CPC/2015), por suposta omissão pelo Tribunal de origem da análise da questão acerca do art. 389 do CPC/1973, tenho que não assiste razão ao recorrente.
+II - Na hipótese dos autos verifica-se a inexistência da mácula apontada, tendo em vista que da análise do referido questionamento em confronto com o acórdão hostilizado não se cogita da ocorrência de omissão, contradição, obscuridade ou mesmo erro material, mas mera tentativa de reiterar fundamento jurídico já exposto pelo recorrente e devidamente afastado pelo julgador.
+III - A oposição de embargos de declaração com fundamento na omissão acima, demonstra, tão somente, o objetivo de rediscutir a matéria sob a ótica do recorrente, sem que tal desiderato objetive o suprimento de quaisquer das baldas descritas no dispositivo legal mencionado, mas sim, unicamente, a renovação da análise da controvérsia.
+IV - No mérito, verifica-se que dentre outros fundamentos, foram utilizados pelo Tribunal a quo para manter a sentença de primeiro grau, os seguintes: a) a não inversão do ônus da prova por não se tratar de direito consumerista, mas sim de direito tributário onde o autor tem o dever de produzir a prova necessária para demonstrar os fatos constitutivos de seus direito e, b) a ausência de requerimento do ora recorrente para produzir prova que pudesse suplantar a contra prova produzida pelo Município; c) que o juiz "ao lado das provas produzidas levou em consideração fatos ocorridos em semelhança, para concluir, na falta de prova mais incisiva não requerida, (inclusive em grau de recurso), que não houve pagamento do IPTU nos períodos reclamados.
+V - Como o recorrente não rebateu os fundamentos encimados, se tem de rigor a aplicação dos óbices contidos nas Súmulas n. 283 e 284.
+VI - Sobre a alegada violação dos arts. 112 e 156, I, do CNT, verifica-se que, no acórdão recorrido, não foi analisado o conteúdo dos dispositivos legais, pelo que carece o recurso do indispensável requisito do prequestionamento. Incidência da súmula n. 282 do STF.
+VII - Quanto a alegada divergência jurisprudencial, verifica-se que, conforme a previsão do art. 255, §1º, do RISTJ, é de rigor a caracterização das circunstâncias que identifiquem os casos confrontados, cabendo a quem recorre demonstrar tais circunstâncias, com indicação da similitude fática e jurídica entre os julgados, apontando o dispositivo legal interpretado nos arestos em cotejo, com a transcrição dos trechos necessários para tal demonstração. Em face de tal deficiência recursal, aplica-se o constante da Súmula n. 284 do STF.
+VIII - Da análise do recurso especial, observa-se que o recorrente não aponta qual o dispositivo infraconstitucional teria sido objeto de interpretação divergente pelos julgados em confronto, não se apresentando ainda a similitude das situações em confronto, desbordando da previsão contida no art. 105, III, c, da [NOME], o que impede a apreciação dessa parcela recursal pelo Superior Tribunal de Justiça.
+IX - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes e Mauro Campbell Marques votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, a Sra. Ministra Assusete Magalhães.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de agravo interno interposto contra monocrática que decidiu recurso especial fundado no art. 105, III, a e c, da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+AÇÃO ANULATÓRIA DE DÉBITO FISCAL - Imposto Predial e Territorial Urbano. Alegação de quitação dos valores cobrados mediante a apresentação de xerox dos pagamentos autenticados pelo banco. Municipalidade que demonstra que as autenticações mecânicas contidas nos recibos não foram realizadas pelo respectivo banco. Ônus da prova - caberia ao autor comprovar os fatos constitutivos de seu direito- inteligência do artigo 333, inciso I do CPC. Sentença mantida Recurso desprovido.
+No referido julgado restou assentado, in verbis:
+No presente caso, não se aplica a tese da inversão do ônus da prova por não se tratar de direito consumeirista, mas sim de direito tributário onde o autor tem o dever de produzir a prova necessária para demonstrar os fatos constitutivos de seus direitos.
+(..)
+Assim, no presente caso, o MM. Juízo de Primeiro Grau, ao lado das provas produzidas levou em consideração fatos ocorridos em semelhança, para concluir, na falta de prova mais incisiva não requerida, (inclusive em grau de recurso), que não houve pagamento do IPTU nos períodos reclamados.
+Bem por isso, na medida em que o apelante não requereu a produção de prova, que pudesse comprovar o alegado e suplantar a contra prova produzida, não se vislumbra outra solução que não seja o reconhecimento do desprovimento do recurso.
+Foram rejeitados os embargos declaratórios opostos.
+O recorrente aponta violação dos arts. 535, II, do CPC/1973, sustentando, em síntese, que o Tribunal de origem se omitiu ao não elucidar os motivos pelos quais não observou o disposto no art. 389, I, do CPC/1973 ao não atentar para a imprescindibilidade da perícia técnica para fundamentar os argumentos da Fazenda Municipal.
+Indica violação dos arts. 389, I, e 391, ambos do CPC/1973, aduzindo, em suma, que o ônus de provar o incidente de falsidade pertence ao litigante que arguir a falsidade.
+Assinala, ainda, contrariedade dos arts. 112 e 156, I, do CTN, sustentando, em resumo, que o Tribunal de origem, ao afirmar que os documentos apresentados pelo recorrente não permitem concluir o pagamento do tributo, se furtou de interpretar a norma tributária de maneira mais favorável ao acusado.
+Aponta, ainda, divergência jurisprudencial.
+O recurso especial foi inadmitido com fundamento de que não há ofensa ao 535, II, CPC/1973; de que há incidência da Súmula 7/STJ.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+A decisão monocrática tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RI/STJ, conheço do agravo para não conhecer do recurso especial".
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão recorrida.
+A parte agravada foi intimada para apresentar impugnação ao recurso.
+É relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso de agravo interno não merece provimento.
+Nos termos do enunciado n. 568 da Súmula desta Corte Superior e do art. 255, § 4º, inciso III, do RISTJ, o relator está autorizado a decidir monocraticamente quando houver jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça. Assim, não há que se falar em ilegalidade relativamente a este ponto.
+A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida.
+Sem razão a parte agravante.
+Sobre a alegada violação do art 535 do CPC/1973 (art. 1.022 do CPC/2015), por suposta omissão pelo Tribunal de origem da análise da questão acerca do art. 389 do CPC/1973, tenho que não assiste razão ao recorrente.
+Na hipótese dos autos verifica-se a inexistência da mácula apontada, tendo em vista que da análise do referido questionamento em confronto com o acórdão hostilizado não se cogita da ocorrência de omissão, contradição, obscuridade ou mesmo erro material, mas mera tentativa de reiterar fundamento jurídico já exposto pelo recorrente e devidamente afastado pelo julgador.
+Nesse panorama, a oposição de embargos de declaração com fundamento na omissão acima, demonstra, tão somente, o objetivo de rediscutir a matéria sob a ótica do recorrente, sem que tal desiderato objetive o suprimento de quaisquer das baldas descritas no dispositivo legal mencionado, mas sim, unicamente, a renovação da análise da controvérsia.
+No mesmo diapasão, destacam-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO ESTADUAL. VIOLAÇÃO AO ARTIGO 535 DO CPC/1973. AUSÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. OFENSA A DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE DE ANÁLISE NA VIA RECURSAL ELEITA. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. COISA JULGADA. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO AUTÔNOMO. FUNDAMENTAÇÃO DEFICIENTE. ÓBICES DAS SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há violação do art. 535, inc. II, do CPC/1973 quando o aresto recorrido adota fundamentação suficiente para dirimir a controvérsia, sendo desnecessária a manifestação expressa sobre todos os argumentos apresentados pelos litigantes.
+2. O Superior Tribunal de Justiça não tem a missão constitucional de interpretar dispositivos da Lei Maior, cabendo tal dever ao Supremo Tribunal Federal.
+3. A ausência de impugnação de fundamento autônomo apto, por si só, para manter o acórdão recorrido, atrai o disposto na Súmula n. 283/STF.
+4. A simples alegação de violação genérica de preceitos infraconstitucionais, desprovida de fundamentação que demonstre de que maneira eles foram violados pelo Tribunal de origem, não é suficiente para fundar recurso especial, atraindo a incidência da Súmula n. 284/STF.
+5. Agravo interno não provido.
+(AgInt no AREsp 960.685/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 15/12/2016, DJe 19/12/2016)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. OFENSA AO ART. 535 DO CPC. REQUISITOS PARA RECONHECER A OMISSÃO. QUESTÃO NÃO RELEVANTE. AUSÊNCIA DE OMISSÃO. ART. 485, V, DO CPC/73. VIOLAÇÃO A LITERAL DISPOSITIVO DE LEI. ARTIGO NÃO INDICADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA Nº 284/STF. DECISÃO MANTIDA.
+1. Para configurar omissão, é necessária a presença cumulativa dos seguintes requisitos: a) o Tribunal de origem não tenha se pronunciado sobre o tema; b) tenham sido opostos embargos de declaração; c) tenha sido a questão levantada nas razões ou contrarrazões do agravo de instrumento ou da apelação; e d) seja relevante para o deslinde da controvérsia.
+2. Ausente relevância, à luz do caso concreto, da matéria tida por não apreciada, afasta-se a alegada omissão.
+3. A suposta violação ao art. 485, V, do CPC/73, por violação a literal dispositivo de lei, exige seja declinado no recurso especial especificamente qual o artigo de lei que supostamente daria azo à rescisória, sob pena de deficiência na fundamentação, a ensejar a incidência da Súmula nº 284/STF.
+4. Agravo interno não provido.
+(AgInt no REsp 1498690/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/03/2017, DJe 20/03/2017)
+No mérito, verifica-se que dentre outros fundamentos, foram utilizados pelo Tribunal a quo para manter a sentença de primeiro grau, os seguintes:
+a) a não inversão do ônus da prova por não se tratar de direito consumerista, mas sim de direito tributário onde o autor tem o dever de produzir a prova necessária para demonstrar os fatos constitutivos de seus direito e,
+b) a ausência de requerimento do ora recorrente para produzir prova que pudesse suplantar a contra prova produzida pelo Município;
+c) que o juiz "ao lado das provas produzidas levou em consideração fatos ocorridos em semelhança, para concluir, na falta de prova mais incisiva não requerida, (inclusive em grau de recurso), que não houve pagamento do IPTU nos períodos reclamados.
+Como o recorrente não rebateu os fundamentos encimados, se tem de rigor a aplicação dos óbices contidos nas Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+
+ Sobre a alegada violação dos arts. 112 e 156, I, do CNT, verifica-se que, no acórdão recorrido, não foi analisado o conteúdo dos dispositivos legais, pelo que carece o recurso do indispensável requisito do prequestionamento. Incidência da súmula n. 282 do STF, in verbis:
+Súmula 282: É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Finalmente, quanto a alegada divergência jurisprudencial, verifica-se que, conforme a previsão do art. 255, §1º, do RISTJ, é de rigor a caracterização das circunstâncias que identifiquem os casos confrontados, cabendo a quem recorre demonstrar tais circunstâncias, com indicação da similitude fática e jurídica entre os julgados, apontando o dispositivo legal interpretado nos arestos em cotejo, com a transcrição dos trechos necessários para tal demonstração. Em face de tal deficiência recursal, aplica-se o constante da Súmula n. 284 do STF.
+Da análise do recurso especial, observa-se que o recorrente não aponta qual o dispositivo infraconstitucional teria sido objeto de interpretação divergente pelos julgados em confronto, não se apresentando ainda a similitude das situações em confronto, desbordando da previsão contida no art. 105, III, c, da [NOME], o que impede a apreciação dessa parcela recursal pelo Superior Tribunal de Justiça.
+Nesse mesmo sentido, confiram-se:
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC/1973. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA. FALTA DE INDICAÇÃO DO DISPOSITIVO LEGAL OBJETO DE INTERPRETAÇÃO DIVERGENTE. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF.
+1. Não se conhece do Recurso Especial em relação à ofensa ao art. 535 do CPC/1973 quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+2. É inadmissível Recurso Especial quanto a questão inapreciada pelo Tribunal de origem, a despeito da oposição de Embargos Declaratórios. Incidência da Súmula 211/STJ.
+3. A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre apontar o dispositivo objeto do dissenso e demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ) impede o conhecimento do Recurso Especial com base na alínea "c" do inciso III do art. 105 da Constituição Federal.
+4. Ademais, a propositura do recurso pela via da divergência jurisprudencial não dispensa o recorrente de apontar qual o dispositivo legal que teria sido objeto de interpretação divergente entre tribunais. A deficiência na fundamentação obsta o conhecimento do recurso fundamentado na alínea "c", razão pela qual incide a Súmula 284/STF. Precedentes do STJ.
+5. Agravo Interno não provido.
+(AgInt no REsp 1581326/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 02/02/2017, DJe 03/03/2017)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO, NO RECURSO ESPECIAL, DO DISPOSITIVO LEGAL VIOLADO OU QUE TERIA RECEBIDO INTERPRETAÇÃO DIVERGENTE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. PRECEDENTES DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Nos termos do art. 105, III, c, da Constituição Federal, é cabível a interposição de recurso especial, quanto o acórdão recorrido "der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal".
+II. A Corte Especial do STJ consolidou o entendimento de que a ausência da indicação do dispositivo legal supostamente violado ou que tenha recebido interpretação divergente torna incabível o conhecimento do Recurso Especial, quer tenha sido interposto pela alínea "a", quer pela "c" do permissivo constitucional (STJ, AgRg no REsp 1.346.588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, DJe de 17/03/2014).
+III. Considera-se deficiente a fundamentação, quando o Recurso Especial suscita tese a ser apreciada pelo STJ, mas deixa de indicar o dispositivo legal violado ou que teria recebido interpretação divergente, ensejando a aplicação da Súmula 284/STF. Precedentes do STJ (AgRg no AREsp 402.492/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 25/11/2013; AgRg no AREsp 416.446/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe de 03/06/2014).
+IV. Agravo Regimental improvido. (AgRg no AREsp 484.048/PB, Rel. Min. ASSUSETE MAGALHÃES, DJe 03/09/2014).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RECURSO ESPECIAL. ADMISSIBILIDADE. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL VIOLADO OU OBJETO DE INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. INDICAÇÃO TARDIA DO DISPOSITIVO NO AGRAVO EM RECURSO ESPECIAL. INVIABILIDADE. PRECLUSÃO CONSUMATIVA. AGRAVO DESPROVIDO.
+1. A indicação de dispositivo legal em torno do qual teria ocorrido interpretação divergente é requisito de admissibilidade do recurso especial previsto pelo art. 105, III, c, da CF, exigido mesmo em caso de dissídio notório, sob pena de incidência do óbice da Súmula 284/STF. Precedentes.
+2. Em decorrência da preclusão consumativa, a ausência de indicação do dispositivo na ocasião da interposição do recurso especial não é sanada pelo agravo contra a inadmissão daquele recurso.
+3. Agravo interno desprovido.
+(AgInt no AREsp 895.772/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 7/3/2017, DJe 13/3/2017).
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
