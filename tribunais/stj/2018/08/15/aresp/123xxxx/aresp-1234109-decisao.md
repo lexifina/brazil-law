@@ -1,0 +1,44 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). AGRAVO DE INSTRUMENTO. FAMÍLIA. INVENTÁRIO. DOAÇÃO DE BENS. LIBERALIDADE INTER VIVOS EM FAVOR DE TRÊS DOS CINCO FILHOS. COLAÇÃO DE BENS. NECESSIDADE. EXPRESSA PREVISÃO LEGAL (ART. 2.002 CC/02).VIOLAÇÃO AO ARTIGO 1022 DO CPC. GENÉRICA. SÚMULA 284/STF. INDICAÇÃO DE OFENSA À VERBETE SUMULAR. IMPOSSIBILIDADE. ATO NORMATIVO QUE NÃO SE AMOLDA AO CONCEITO DE LEI FEDERAL. INCIDÊNCIA DA PRESCRIÇÃO VINTENÁRIA E IMPOSSIBILIDADE DE NULIDADE DA DOAÇÃO. TESE NÃO PREQUESTIONADA. APLICAÇÃO DAS SÚMULAS NºS 282 E 356/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por ROSANGELA GOMES MAIA, em face de decisão que inadmitiu recurso especial, aviado pelas alíneas "a" e "c", inciso III, art. 105 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+AGRAVO DE INSTRUMENTO. FAMÍLIA. INVENTÁRIO. DOAÇÃO DE BENS. LIBERALIDADE INTER VIVOS EM FAVOR DE TRÊS DOS CINCO FILHOS. COLAÇÃO DE BENS. NECESSIDADE. EXPRESSA PREVISÃO LEGAL (ART. 2.002 CC/02). RECURSO CONHECIDO E NÃO PROVIDO.
+1. Nos termos do art. 544 cic Art. 1.789 do CCI02, inexistem óbices para que o ascendente efetue doações em favor dos descendentes, porém, referida liberalidade importa em adiantamento de herança e não pode ultrapassar a metade dos bens pertencentes ao autor da herança.
+2. Constatada a ocorrência de doações efetivadas em vida pelo ascendente a apenas três dos seus cinco filhos, nos termos do art. 2.002 do CC/02, aberta a sucessão, aos beneficiados compete a obrigação de apresentar referidos bens, para fins de conferência, com vistas a possibilitar que se igualem as legítimas.
+3. A determinação para que sejam trazidos à colação os bens doados pelo de cujus decorre de expressa previsão legal, não havendo que se falar, por ora, e no bojo do presente inventário, em higidez das doações e, tão pouco em prescrição do direito de questionar referidas liberalidades.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ fls. 340/344).
+Nas razões do recurso especial, a parte recorrente alega violação aos artigos 926 e 1022, II do CPC; 549 do CC/2002; 177 e 1.176 do CC/1976 e Súmula 494 do STF, sustentando negativa de prestação jurisdicional e incidência da prescrição vintenária, a qual impede a anulação das doações realizadas pelo falecido, tidas por inoficiosas pelos demais sucessores.
+Aduz que a "a doação não configura ato nulo, mas anulável como está previsto pelo artigo 1.176 do Código Civil, assim, não se aplica aqui a norma do artigo 169 do Código Civil de 2002" (e-STJ fl. 357).
+É o breve relatório.
+Passo a decidir.
+Não merece provimento a pretensão recursal.
+Inicialmente, apresenta-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1022 do CPC se faz de forma genérica, não havendo a demonstração clara dos pontos do acórdão que se apresentam omissos, contraditórios ou obscuros. Aplica-se, assim, o óbice da Súmula 284/STF. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL. AÇÃO DE OBRIGAÇÃO DE FAZER. AUSÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC. ALEGAÇÃO GENÉRICA. SÚMULA Nº 284/STF. REEXAME DE PROVA. SÚMULA Nº 7/STJ. INOVAÇÃO. IMPOSSIBILIDADE.
+1. O recurso especial que indica violação do artigo 535 do Código de Processo Civil, mas traz somente alegação genérica de negativa de prestação jurisdicional é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284 do Supremo Tribunal Federal, aplicada por analogia.
+2. Rever questão decidida com base no exame das circunstâncias fáticas da causa esbarra no óbice da Súmula nº 7 do Superior Tribunal de Justiça.
+3. É inviável a análise de teses alegadas apenas nas razões do regimental por se tratar de evidente inovação recursal.
+4. Agravo regimental não provido. (AgRg no AREsp 578.636/RS, Terceira Turma, Rel. Ministro Ricardo Villas Bôas Cueva, julgado em 10/03/2015, DJe 16/03/2015 - grifou-se)
+Ato contínuo, sem razão a alegação de contrariedade ao teor da Súmula 494/STF, porquanto é incabível a interposição de recurso especial por violação de enunciado sumular, por se tratar de verbete que não se enquadra no conceito de lei federal a sofrer o controle de legalidade desta Corte.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE DUPLICATA MERCANTIL PROTESTADA. AUSÊNCIA DE PAGAMENTO A FIM DE AFASTAR A MORA. OBRIGAÇÃO INTEGRALMENTE CUMPRIDA A JUSTIFICAR A INAPLICABILIDADE DO ART. 20 DO CDC. REVISÃO. ANÁLISE QUE DEMANDA O REEXAME FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. INDICAÇÃO DE OFENSA A SÚMULA. IMPOSSIBILIDADE NO APELO NOBRE. AGRAVO INTERNO DESPROVIDO.
+1. Tendo o Tribunal estadual, com lastro nos elementos fático-probatórios, concluído que a caução prestada à época do deferimento da tutela antecipada não constituiu pagamento da dívida a fim de afastar a mora, bem como afastado a aplicabilidade do art.
+20 do CDC em razão do cumprimento integral da obrigação assumida pela agravada, não se mostra possível modificar tais conclusões por demandar o reexame do conjunto fático-probatório dos autos, procedimento sabidamente vedado na via do recurso especial (Súmula n. 7/STJ).
+2. Consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+3. Não cabe ao STJ apreciar a violação a verbete sumular em recurso especial, visto que o enunciado não se insere no conceito de lei federal, previsto no art. 105, III, a, da Constituição Federal, consoante a Súmula 518 desta Corte: "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+4. Agravo interno desprovido. (AgInt no AREsp 1007788/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/10/2017, DJe 30/10/2017)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. CONTRATO BANCÁRIO. VIOLAÇÃO A SÚMULA E DISSÍDIO COM VERBETE SUMULAR.
+1. O conceito de súmula não se confunde com o de "lei federal", razão pela qual é de ser negado seguimento a recurso especial, pela alínea "a" do permissivo constitucional, quando alegado malferimento a verbete sumular.
+2. Na esteira dos precedentes deste Tribunal, não configura o dissídio jurisprudencial o confronto com súmula, cabendo ao recorrente realizar o cotejo analítico e demonstrar a divergência, utilizando-se, para tanto, dos julgados que deram origem ao enunciado sumular.
+3. Decisão agravada mantida pelos seus próprios fundamentos.
+4. AGRAVO REGIMENTAL DESPROVIDO. (AgRg no REsp 882.392/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 17/03/2011, DJe 23/03/2011)
+No que concerne à alegada incidência da prescrição vintenária, a qual impede a anulação das doações realizadas pelo falecido, tidas por inoficiosas pelos demais sucessores e a alegação de que "a doação não configura ato nulo, mas anulável como está previsto pelo artigo 1.176 do Código Civil, assim, não se aplica aqui a norma do artigo 169 do Código Civil de 2002" (e-STJ fl. 357), tem-se que ausente o prequestionamento da matéria, porquanto não apreciada pelo julgado recorrido, ainda que com a interposição dos embargos de declaração, inviável o seu conhecimento nesta sede, nos termos das Súmulas 356/STF.
+PROCESSUAL CIVIL - AGRAVO REGIMENTAL NO AGRAVO - AÇÃO DE INDENIZAÇÃO - INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC - AUSÊNCIA DE PREQUESTIONAMENTO DOS DEMAIS DISPOSITIVOS LEGAIS - SÚMULAS 282 E 356 DO STF - ALÍNEA "C" - DISSÍDIO NÃO CONFIGURADO.
+1. Não ocorre ofensa ao art. 535 do CPC, se o Tribunal de origem decide, fundamentadamente, as questões essenciais ao julgamento da lide.
+2. Não se conhece do recurso especial no que diz respeito à matéria que não foi especificamente enfrentada pelo e. Tribunal a quo, dada a ausência de prequestionamento (Súmulas 282 e 356/STF).
+3. A ausência de demonstração do dissídio jurisprudencial, na forma exigida pelos arts. 255 do RISTJ e 541, parágrafo único, do CPC, impede o conhecimento do recurso especial pela alínea "c" do permissivo constitucional.
+4. Agravo regimental a que se NEGA PROVIMENTO. (AgRg no Ag 823.202/AL, Rel. Ministro Vasco Della Giustina (DESEMBARGADOR CONVOCADO DO TJ/RS), Terceira Turma, julgado em 03/08/2010, DJe 16/08/2010 - grifou-se)
+Dessa forma, ante a ausência do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF.
+Destarte, a pretensão recursal não merece prosperar.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intime-se.
