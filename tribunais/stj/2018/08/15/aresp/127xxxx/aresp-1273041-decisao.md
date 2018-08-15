@@ -1,0 +1,39 @@
+EMENTA
+PROCESSUAL CIVIL (CPC/2015). AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. TUTELA DE URGÊNCIA. REQUISITOS. REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº07/STJ. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. APLICAÇÃO ANALÓGICA DA SÚMULA 735/STF. AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por ANTHEA PARTICIPAÇÕES COMERCIAIS LTDA. E OUTROS, contra decisão que inadmitiu o recurso especial fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+COMPROMISSO DE COMPRA E VENDA EMBARGOS DE TERCEIRO Tutela de urgência, visando a suspensão/anulação de quaisquer atos ou decisões tomadas nos autos da ação principal (obrigação de fazer ) Inadmissibilidade Ausência dos requisitos do art. 300 do Novo CPC, especialmente perigo de dano ou risco ao resultado útil do processo Ação principal já sentenciada (com apelação recebida no duplo efeito, pendente de julgamento Ausência de turbação à posse exercida pelos embargantes - Decisão mantida Recurso improvido (e-STJ, fl. 126).
+Opostos embargos de declaração, às fls. 130-133, foram rejeitados em decisão de fls. 206-208, e-STJ.
+Nas razões do recurso especial, às fls. 210-226, e-STJ, o recorrente alega, além da divergência jurisprudencial, violação aos artigos 300 e 678, ambos do Código de Processo Civil, ao argumento de que a há nos autos elementos informadores da probabilidade do direito da recorrente.
+Contrarrazões às folhas 329-335, e-STJ.
+Sobreveio o juízo de admissibilidade do Tribunal de origem, às fls. 340-341, e-STJ, que inadmitiu o recurso especial por considerar que incide no caso o óbice da Súmula nº 07/STJ, o que ensejou a interposição do presente recurso.
+Nas razões do agravo em recurso especial, às folhas 344-350, e-STJ, a parte agravante impugnou os fundamentos da decisão agravada.
+É o relatório.
+Passo a decidir.
+A controvérsia diz respeito à irresignação da recorrente quanto ao indeferimento da tutela de urgência, pois não vislumbrados os requisitos do artigo 300 do CPC/2015, quais sejam, a probabilidade do direito reclamado e a ocorrência do perigo de dano ou risco ao resultado útil do processo.
+Em que pesem os argumentos da recorrente, a irresignação não merece prosperar.
+Com efeito, a pretensão do agravante no que tange à ofensa aos artigos 300 e 678 do CPC/2015 é inviável nesta Corte, porquanto elidir as conclusões do aresto impugnado demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 07/STJ.
+O Tribunal de origem, baseando-se nos elementos fático-probatórios dos autos entendeu não estarem previstos os requisitos ensejadores da tutela de urgência, nestes termos:
+Ao contrário do que se sustentam, não era mesmo o caso de se deferir a tutela de urgência prevista no artigo 300, caput, do Novo CPC (correspondente ao caput do artigo 273 do Estatuto de 1973). Não se pode prodigalizar a medida e nem aqui se pode dizer estejam presentes, desde logo, os requisitos da probabilidade do direito reclamado, tampouco se vislumbra a ocorrência do perigo de dano ou risco ao resultado útil do processo. No caso em exame, incabível a concessão da tutela de urgência medida, aliás, inócua, haja vista que o apelo interposto em face da r. sentença de procedência, proferida nos autos da ação principal, foi recebido no duplo efeito, de onde se extrai a ausência de perigo de dano ou risco ao resultado útil do processo, já que não se pode cogitar em ato tendente a turbação à posse exercida pelos embargantes. (e-STJ, fl. 128).
+Assim, ante a ausência dos requisitos autorizadores da concessão da tutela antecipada, deve ser mantida a decisão agravada.
+Ademais, é de se frisar que a jurisprudência pacífica desta Corte é no sentido de ser incabível, via de regra, o recurso especial que postula o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em liminar ou tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária, o que configura ausência do pressuposto constitucional relativo ao esgotamento de instância, imprescindível ao trânsito da insurgência extraordinária.
+Assim, há aplicação analógica da Súmula 735/STF (Não cabe recurso extraordinário contra acórdão que defere medida liminar).
+A propósito:
+AGRAVO INTERNO. RECURSO ESPECIAL. OMISSÃO. VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. CADASTRO DE INADIMPLENTES. INSCRIÇÃO. TUTELA ANTECIPADA. REQUISITOS. AUSÊNCIA. REEXAME. SÚMULAS NS. 7/STJ E 735/STF. NÃO PROVIMENTO.
+ ..
+2. A jurisprudência deste STJ, à luz do disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa.
+3. Agravo interno a que se nega provimento. (AgInt no Resp 1693653/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 22/05/2018, DJe 01/06/2018) - g.n.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TUTELA DE URGÊNCIA. NATUREZA PRECÁRIA DA DECISÃO. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. APLICAÇÃO ANALÓGICA DA SÚMULA 735/STF. CASO TAMBÉM DE APLICAÇÃO DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, é inviável, em regra, a interposição de recurso especial postulando o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, pois esta possui natureza precária e provisória do juízo de mérito, cuja reversão é possível a qualquer momento pela instância a quo.
+2. Dessa forma, configura-se a ausência do pressuposto constitucional relativo ao esgotamento das instâncias ordinárias, imprescindível ao trânsito da insurgência extraordinária, o que atrai a aplicação analógica da Súmula 735/STF.
+3. Ainda que assim não fosse, in obiter dictum, a análise do preenchimento, ou não, dos requisitos da tutela de urgência, demandaria o reexame do substrato fático-probatório dos autos, o que encontra óbice na Súmula n. 7/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1003375/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 08/05/2018, DJe 17/05/2018) - g.n.
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. REEXAME DOS FUNDAMENTOS UTILIZADOS PARA INDEFERIR A ANTECIPAÇÃO DA TUTELA.IMPOSSIBILIDADE. SÚMULA 735/STF. EXCEPCIONALIDADE NÃO DEMONSTRADA. REVOLVIMENTO DE MATÉRIA FÁTICA INVIABILIDADE. SÚMULA 7/STJ.
+1. O entendimento de que não é cabível, em recurso especial, reexaminar os fundamentos utilizados pelas instâncias de origem para indeferir medidas liminares ou antecipações de tutela é aplicável ao caso em exame, pois, para se chegar a conclusão diversa da adotada pelo órgão julgador de origem, no sentido de que presentes os elementos essenciais à concessão da providência antecipatória, seria necessário o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula 7/STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1207054/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 08/05/2018, DJe 17/05/2018) - g.n.
+Desse modo, inviável a pretensão do recorrente.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
