@@ -1,0 +1,43 @@
+DECISÃO
+1. Trata-se de agravo interposto pelo ESPÓLIO DE DAGOBERTO DE OLIVEIRA MACHADO, contra decisão que não admitiu o seu recurso especial, por sua vez manejado com fulcro no art. 105, III, "a" e "c", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 1128):
+Agravo de instrumento. Dissolução de sociedade. Redução de astreintes. O preceito cominatório tem como finalidade garantir a efetividade e a segurança jurídica das decisões judiciais, de sorte que o seu valor deve corresponder a tal finalidade, não podendo ser desproporcional ao seu objetivo. A possibilidade da redução do preceito cominatório, quando tal se mostra excessivo, está prevista no artigo 537, §1º, I, do Código de Processo Civil/15. Apesar da demora do requerido/impugnante em atender à determinação judicial, não há como deixar de ver que o valor da multa chegou a um valor excessivo. Há uma evidente modificação da finalidade da multa cominatória, que não é de indenizar ou de punir, mas sim de compelir a parte a satisfazer a obrigação na forma específica, o que é sempre o mais desejável. Entendo que no caso concreto, em vista da ausência de limitação, a multa alcançou valor demasiadamente alto, motivo pelo qual foi correta a decisão agravada ao limitá-la. Agravo de instrumento não provido, por maioria.
+Opostos embargos de declaração pelas partes (fls. 1144-1146 e 1157-1161), foram rejeitados os do recorrente e acolhidos os da parte recorrida (fls. 1180-1191 e 1199-1203).
+Nas razões do recurso especial (fls. 1238-1258), além de divergência jurisprudencial, aponta a parte recorrente ofensa ao disposto no art. 537, caput, §§ 1º e 4º, do Código de Processo Civil (art. 461, § 6º, do CPC/1973).
+Em apertada síntese, sustenta que "não há que se falar em aplicação do princípio da proporcionalidade ou em enriquecimento sem causa como fundamento para a redução da multa, visto que o valor somente teria se tornado "desproporcional" por conduta da própria devedora, ora recorrida, que sem motive justificável (como reconhecido na premissa fática do acórdão) deixou de cumprir a obrigação de fazer, ocasionando a aplicação da multa diária por vários anos."
+Contrarrazões ao recurso especial às fls. 1349-1360.
+É o relatório.
+DECIDO.
+2. O Tribunal de origem, ao analisar a questão da multa cominatória, manifestou-se nos seguintes termos (fl. 1137):
+Nesse contexto, apesar da demora do requerido/impugnante em atender à determinação judicial, não há como deixar de ver que o valor da multa chegou a um valor excessivo. Há uma evidente modificação da finalidade da multa cominatória, que não é de indenizar ou de punir, mas sim de compelir a parte a satisfazer a obrigação na forma específica, o que é sempre o mais desejável. Não há como deixar de ver também que a multa chegou a um valor que implicaria verdadeiro enriquecimento sem causa da parte impugnada.
+A multa estabelecida é mecanismo de execução indireta, que não tem por escopo fazer com que o devedor a pague, senão que cumpra a obrigação na forma específica, deixando de pagá-la. Dessa forma, não podem as astreintes implicar enriquecimento ilícito do credor.
+Entendo que no caso concreto, em vista da ausência de limitação, a multa alcançou valor demasiadamente alto, motivo pelo qual foi correta a decisão agravada ao limitá-la.
+Com efeito, o acórdão recorrido amolda-se ao entendimento firmado no âmbito desta Corte no sentido da possibilidade de redução do valor das astreintes quando configurada a sua exorbitância. Nesse sentido: AgInt nos EDcl no AgInt no AREsp 915.215/BA, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 21/11/2017, DJe 27/11/2017; AgInt nos EDcl no REsp 1301974/PE, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 03/08/2017, DJe 14/08/2017; AgRg no AREsp 787.425/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/03/2016, DJe 21/03/2016.
+Portanto, o acórdão combatido encontra-se em harmonia com o entendimento desta Corte, o que atrai a aplicação da Súmula 83 do STJ.
+3. Ademais, a alteração das astreintes, após o redimensionamento efetuado pela Corte a quo, com base nas peculiaridades do caso, encontra óbice no enunciado n. 7 da Súmula desta Casa.
+Nesse sentido, confira:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. AFRONTA AO ART. 461, § 6º, DO CPC/1973. LIMITAÇÃO DO VALOR DAS ASTREINTES EFETUADA PELO TRIBUNAL DE ORIGEM. ALEGAÇÃO DE QUE HÁ EXORBITÂNCIA. ALTERAÇÃO DO QUANTUM. SÚMULA 7/STJ. 2. AGRAVO INTERNO IMPROVIDO.
+1. A alteração das astreintes, após o redimensionamento efetuado pela Corte a quo, com base nas peculiaridades do caso, encontra óbice no enunciado n. 7 da Súmula desta Casa.
+2. Agravo interno improvido.
+(AgInt no AREsp 887.146/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 06/04/2017, DJe 18/04/2017)
+___________
+ADMINISTRATIVO E PROCESSUAL CIVIL. FORNECIMENTO DE MEDICAMENTO. OFENSA AO ART. 535 DO CPC/1973 NÃO CONFIGURADA. ASTREINTES. REDUÇÃO DO VALOR. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. No que se refere à alegada afronta ao disposto no art. 535, inciso II, do CPC, o julgado recorrido não padece de omissão, porquanto decidiu fundamentadamente a quaestio trazida à sua análise, não podendo ser considerado nulo tão somente porque contrário aos interesses da parte.
+2. Hipótese em que o Tribunal a quo, diante do quadro fático delineado nos autos, fixou o valor das astreintes em R$ 100,00 (cem reais), por dia, em caso de descumprimento da determinação judicial.
+3. A jurisprudência do STJ orienta-se no sentido de que, em regra, não se mostra possível em Recurso Especial a revisão do valor fixado a título de multa diária (astreinte) pelo descumprimento de decisão judicial, pois tal providência igualmente exige incursão na seara fático-probatória dos autos, atraindo a incidência da Súmula 7/STJ.
+4. Agravo Interno não provido.
+(AgInt no REsp n. 1.605.433/SC. Relator Ministro Herman Benjamin, Segunda Turma, DJe 17/10/2016)
+____________
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. APELAÇÃO. TEMPESTIVIDADE RECONHECIDA. ALTERAÇÃO. SÚMULA 7/STJ. ASTREINTES. REVISÃO. POSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. A Corte de origem concluiu pela tempestividade da apelação apresentada pelo recorrido. Infirmar as conclusões do julgado demandaria o revolvimento do suporte fático-probatório, o que encontra óbice no enunciado da Súmula 7 do Superior Tribunal de Justiça.
+2. O Superior Tribunal de Justiça firmou orientação de que, em regra, é inadmissível o exame do valor atribuído às astreintes. Contudo, tal óbice pode ser afastado em hipóteses excepcionais, quando for verificada a exorbitância ou a índole irrisória da importância arbitrada a título de multa diária, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade, o que se verificou na hipótese em exame, em que a redução da multa diária promovida pela Corte de origem revela-se adequada, não havendo falar em majoração do valor da multa.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.219.264/BA. Relator Ministro Raul Araújo, Quarta Turma, DJe 19/10/2016)
+____________
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO - ASTREINTES FIXADAS POR DESCUMPRIMENTO DE DETERMINAÇÃO JUDICIAL - DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO RECURSO. INSURGÊNCIA DA RÉ.
+1. De acordo com a orientação firmada nesta egrégia Corte Superior, o valor fixado a título de astreintes encontra limitações na razoabilidade e proporcionalidade, sendo possível ao juiz, nos termos do § 6º do art. 461 do CPC, "de ofício, modificar o valor ou a periodicidade da multa, caso verifique que se tornou insuficiente ou excessiva". Isso é possível mesmo na hipótese de execução das astreintes, pois tal instituto, de natureza processual, tem como objetivo compelir o devedor renitente ao cumprimento da obrigação e não aumentar o patrimônio do credor.
+2. Tendo em vista que a finalidade da multa é constranger o devedor ao efetivo cumprimento da obrigação de fazer, tal penalidade não pode vir a se tornar mais atraente para o credor do que a própria satisfação do encargo principal, de modo a proporcionar o seu enriquecimento sem causa.
+3. O acórdão recorrido, ao reduzir o valor da multa em execução das astreintes de R$ 160.525,38 para R$ 10.000,00, agiu em consonância com o entendimento firmado nesta Corte Superior.
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 1.371.369/RN. Relator Ministro Marco Buzzi, Quarta Turma, Dje 26/2/2016)
+4. Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
