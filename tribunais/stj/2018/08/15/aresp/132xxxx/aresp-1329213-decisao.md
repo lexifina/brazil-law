@@ -1,0 +1,33 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. SENTENÇA DE PRONÚNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que inadmitiu o seu recurso especial manejado em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Piauí, assim ementado (fls. 373-375):
+"PROCESSUAL PENAL. RECURSO EM SENTIDO ESTRITO. SENTENÇA DE PRONÚNCIA. PRELIMINARES REJEITADAS. INEXISTÊNCIA DE NULIDADE POR AUSÊNCIA DE PERÍCIA. NÃO CONFIGURADO O ALEGADO EXCESSO DE LINGUAGEM. MÉRITO. COMPROVADA A MATERIALIDADE DO FATO E OS INDÍCIOS SUFICIENTES DE AUTORIA. AFASTAMENTO DAS QUALIFICADORAS. IMPOSSIBILIDADE. NECESSIDADE DE ANÁLISE APROFUNDADA DO SUBSTRATO PROBATÓRIO. MATÉRIA AFETA AO CONSELHO DE SENTENÇA. RECURSO CONHECIDO E IMPROVIDO.
+1. Afastada a preliminar de nulidade por ausência de perícia. A prova técnica não é exclusiva na comprovação da autoria e materialidade do delito, sobretudo quando os demais elementos constantes dos autos atestam a existência destes pressupostos.
+2. Afastada a preliminar de nulidade por excesso de linguagem. Os termos utilizados na decisão de pronúncia foram adequados, visando-se tão-somente ressaltar os elementos de convicção necessários para demonstrar os indícios de autoria.
+3. Desclassificação. As qualificadoras só podem ser afastadas da pronúncia quando forem claramente infundadas, o que não ocorre no presente caso, motivo pelo qual devem ser submetidas à apreciação do Conselho de Sentença. Incidência do Principio do in dúbio, pro societatis.
+4. Recurso conhecido e improvido."
+Oposto recurso especial, a defesa sustentou a a nulidade da decisão de pronúncia, por ausência do laudo de exame pericial da vítima; nulidade por excesso de linguagem, sob alegação de a magistrada ter adentrado no mérito da questão; além de requerer o decote das qualificadoras do motivo torpe, do meio cruel e do recurso que impossibilitou a defesa da vítima, por ausência de elementos indiciários mínimos para o seu sustento (fls. 337-350).
+Apresentadas as contrarrazões (fls. 355-369), sobreveio juízo negativo de admissibilidade com fundamento nas Súmulas 284/STF (deficiência de fundamentação) e 7/STJ (pretensão de reexame de provas) (fls. 373-375).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários a sua admissão.
+A d. Subprocuradoria-Geral da República apresentou parecer pelo improvimento do agravo (fl. 478-481).
+É o relatório.
+Decido.
+Conforme relatado, o apelo nobre foi inadmitido pelo Tribunal a quo em razão da incidência das Súmulas 284/STF e 7/STJ.
+Verifica-se que o agravante deixou de infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a inaplicabilidade dos óbices apontados na decisão agravada.
+Digo, nas razões de fls. 379-392, o agravante, em uma breve explanação, apenas limitou-se a dizer que "o recorrente expôs com clareza e objetividade a violação aos dispositivos legais, não havendo que se falar em deficiência na fundamentação" (fl. 385), e por isso afastaria a incidência da Súmula 284/STF; acrescentou que a matéria impugnada não necessita de dilação probatória, o que afastaria a incidência da Súmula 07/STJ.
+No caso, deveria o agravante indicar como o acórdão recorrido enfrentou a questão posta em debate no recurso especial, além demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo; o que não aconteceu.
+Tal ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REVISÃO CRIMINAL. CARTEL. COMBUSTÍVEIS. PRINCÍPIO DA COLEGIALIDADE. SÚMULA 568/STJ. SÚMULA 83/STJ. FUNDAMENTO NÃO IMPUGNADO PELO AGRAVO EM RECURSO ESPECIAL.
+I - Não constitui ofensa ao princípio da Colegialidade a prolação de decisões monocráticas no âmbito desta Corte, estando tal entendimento inclusive sedimentado por ocasião da edição da Súmula n. 568/STJ, segundo a qual "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema". Ademais, sempre haverá a possibilidade de a decisão monocrática estar sujeita à apreciação do órgão colegiado, em virtude de eventual recurso de agravo regimental, como na espécie (precedentes).
+II - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial. Agravo regimental não provido." (AgRg no AREsp 1072742/RS, Quinta Turma, de minha autoria, DJe 10/11/2017).
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. APLICAÇÃO DO ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL - CPC DE 1973. INCIDÊNCIA DA SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Descabido o conhecimento do agravo em recurso especial quando o agravante deixa de impugnar especificamente algum dos fundamentos adotados na decisão que negou seguimento ao recurso especial.
+2. Agravo regimental desprovido" (AgRg no AREsp 842.493/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 16/5/2016).
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO RECORRIDA. VERBETE SUMULAR N. 182/STJ. INCIDÊNCIA CONFIRMADA. AGRAVO REGIMENTAL NÃO PROVIDO. EXECUÇÃO PROVISÓRIA DEFERIDA.
+1. O Agravante não infirmou, especificamente, todos os fundamentos da decisão combatida, o que atrai a incidência da Súmula n. 182 desta Corte.
+2. Os Tribunais Superiores, em recentes decisões, firmaram o entendimento de que, após esgotadas as via recursais ordinárias, apenas casuísticos efeitos suspensivos concedidos aos recursos excepcionais impedirão a execução provisória.
+3. Agravo regimental improvido e deferida a execução provisória da pena, determinando o imediato cumprimento da condenação, delegando-se ao Tribunal local a execução de todos os atos preparatórios." (AgRg no AREsp 984.287/RS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 26/06/2017).
+Diante do exposto, não conheço do agravo nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+P. e I.
