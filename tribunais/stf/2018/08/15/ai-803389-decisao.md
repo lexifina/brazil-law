@@ -1,0 +1,11 @@
+Decisão: Trata-se de agravo de instrumento cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo que negou provimento à apelação do ora recorrente manteve decisão monocrática, a qual afastara a aplicação da Lei 8.024/90, determinando fosse pago à autora quantia referente à correção monetária do seu saldo da caderneta de poupança - não bloqueado à época do Plano Collor 1 -, “corrigida monetariamente até o efetivo pagamento, com aplicação de juros remuneratórios, e acrescidos de juros moratórios de 1º (um por cento) a partir da citação” (eDOC 1, p. 80 e eDOC 2, p. 9).
+    No recurso extraordinário, com fundamento no artigo 102, III, a, do permissivo constitucional, aduz-se ofensa ao artigo 5º II e XXXVI da Constituição Federal, sob os argumentos de violação dos princípios da legalidade, do ato jurídico perfeito e do direito adquirido.
+    O Supremo Tribunal Federal já se manifestou sobre o tema discutido nestes autos.
+    Verifica-se que, ao julgar o RE-RG 591.797, de relatoria do Ministro Dias Toffoli, Dje de 30.04.2010 (Tema 265), o Plenário deste Tribunal reconheceu a existência de repercussão geral das controvérsias que tratam sobre as diferenças de correção monetária de depósitos em caderneta de poupança, não bloqueados pelo BACEN, por alegados expurgos inflacionários decorrentes do plano Collor I, tal como o caso dos autos.
+    Ademais, na ocasião do julgamento do ARE-RG 748.371, Rel. Ministro Gilmar Mendes, DJ de 01.08.2013, esta Corte assentou que não há repercussão geral (Tema 660) quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório, do ato jurídico perfeito, do direito adquirido e dos limites da coisa julgada é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário.
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 15 de agosto de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
