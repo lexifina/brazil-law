@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que admitiu parcialmente seu recurso especial manifestado, com fundamento no art. 105, III, alíneas a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Contudo, não deve ser conhecido por absoluta ausência de interesse recursal, pois a admissibilidade parcial do recurso especial devolve a esta Corte Superior o conhecimento de todas as matérias nele declinadas.
+A propósito, citam-se:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DIREITO PROCESSUAL PENAL. JULGAMENTO EXTRA PETITA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL TIDO POR VIOLADO. SÚMULA 284 DO STF. ARGUMENTAÇÃO DE QUE A DECISÃO DOS JURADOS NÃO É CONTRÁRIA A PROVA DOS AUTOS. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7 DO STJ. SOBERANIA DOS VEREDICTOS. CONVICÇÃO CONTRÁRIA A PROVA DOS AUTOS. POSSIBILIDADE DE ANÁLISE PELO TRIBUNAL DE APELAÇÃO. AGRAVO EM RECURSO ESPECIAL INTERPOSTO CONTRA DECISÃO DO TRIBUNAL DE ORIGEM QUE ADMITIU PARCIALMENTE O APELO EXTREMO. NÃO CONHECIMENTO. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. "Não há interesse recursal na interposição do agravo, porquanto a decisão que admite parcialmente o recurso especial devolve a esta Corte Superior de Justiça o conhecimento de toda a matéria arguida no apelo nobre, não estando adstrita ao juízo de admissibilidade feito pelo Tribunal de origem. Súmulas n.s 292 e 528 do Pretório Excelso" (REsp 1416477/SP, Rel. Ministro WALTER DE ALMEIDA GUILHERME (DESEMBARGADOR CONVOCADO DO TJSP), QUINTA TURMA, julgado em 18/11/2014, DJe 26/11/2014).
+5. Agravo regimental improvido. (AgRg no REsp 1718179/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 19/06/2018, DJe 28/06/2018, grifei)
+PROCESSUAL CIVIL E ADMINISTRATIVO. DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL A QUO QUE ADMITE PARCIALMENTE O RECURSO ESPECIAL. INTERPOSIÇÃO DE AGRAVO. FALTA DE INTERESSE RECURSAL. POLICIAL MILITAR. PROCESSO ADMINISTRATIVO DISCIPLINAR. REFORMATIO IN PEJUS. INELEGIBILIDADE. DEMISSÃO. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. PENA DE DEMISSÃO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Por ocasião do juízo de admissibilidade efetuado pela Corte a quo, o apelo especial foi parcialmente admitido. Entretanto, o STJ já consolidou o entendimento de ser incabível Agravo contra decisão que, em juízo de admissibilidade, admite parcialmente o Recurso Especial. Tal orientação constitui objeto dos enunciados de Súmulas 292 e 528 do Supremo Tribunal Federal.
+ ..
+5. Recurso Especial não conhecido. Agravo em Recurso Especial prejudicado. (REsp 1691433/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/10/2017, DJe 01/02/2018, grifei)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
