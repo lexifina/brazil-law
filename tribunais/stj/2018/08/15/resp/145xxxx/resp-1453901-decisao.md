@@ -1,0 +1,26 @@
+DECISÃO
+ADMINISTRATIVO. EXERCÍCIO PROFISSIONAL. CONSELHO REGIONAL DE TÉCNICOS EM RADIOLOGIA. REGISTRO. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto por SERVIÇO DE INVESTIGAÇÃO DIAGNÓSTICA SIDI LTDA, com fundamento na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 4a. Região, assim ementado:
+AGRAVO. DECISÃO MONOCRÁTICA.
+A decisão agravada está devidamente fundamentada e encontra-se na esteira do entendimento desta Corte. Ante a ausência de elementos que possam modificá-la, mantenho a decisão pelos seus próprios fundamentos.
+2. Alega a recorrente ofensa ao art. 1o. da Lei 6.839/1980, sustentando que, submetidas as clínicas radiológicas ao Conselho Regional de Medicina, não haveria necessidade de novo registro no Conselho Regional de Técnicos em Radiologia.
+3. Contrarrazões às fls. 276/281.
+4. É o relatório. Decido.
+5. Conforme o entendimento desta Corte Superior de Justiça, com base no disposto no art. 1o. da Lei 6.839/1980, o critério legal para a obrigatoriedade de registro perante os conselhos profissionais, bem como para a contratação de profissional de qualificação específica, é determinado pela atividade básica ou pela natureza dos serviços prestados pela empresa (AgRg no REsp. 1.242.318/SC, Rel. Min. CASTRO MEIRA, DJe de 19.12.2011). A propósito:
+ ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXERCÍCIO PROFISSIONAL. CONSELHO REGIONAL DE FARMÁCIA. REGISTRO. DESCABIMENTO. VIOLAÇÃO AO ART. 535 DO CPC/73 NÃO CONFIGURADA. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DESTA CORTE. TRIBUNAL DE ORIGEM QUE, DIANTE DO ACERVO PROBATÓRIO DOS AUTOS, CONCLUIU QUE A RECORRIDA NÃO DESENVOLVE ATIVIDADE FARMACÊUTICA, NEM, EM RELAÇÃO A ELA, PRESTA SERVIÇOS A TERCEIROS. LEI 6.839/80. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno interposto contra decisão publicada em 29/09/2016, que, por sua vez, julgara recurso interposto contra decisum publicado na vigência do CPC/73.
+II. Na origem, trata-se de Mandado de Segurança, impetrado por Tap Transportes Alternativos Ltda - Microempresa contra ato do Presidente do Conselho Regional de Farmácia do Estado de São Paulo, visando a dispensa da contratação de farmacêutico para a realização do transporte de medicamentos, inscrição perante o referido Conselho, bem como a interrupção da aplicação de novas multas, além do cancelamento das já existentes.
+III. Não há falar, na hipótese, em violação ao art. 535 do CPC/73, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+IV. Conforme a jurisprudência do STJ, "de acordo com o disposto no art. 1º da Lei nº 6.839/80, o critério legal para a obrigatoriedade de registro perante os conselhos profissionais, bem como para a contratação de profissional de qualificação específica, é determinado pela atividade básica ou pela natureza dos serviços prestados pela empresa" (STJ, AgRg no REsp 1.242.318/SC, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, DJe de 19/12/2011).
+V. Tendo a Corte de origem, com fundamento no conjunto probatório dos autos, expressamente consignado que "a imperante não desenvolve atividade farmacêutica, nem presta serviços farmacêuticos a terceiros", o exame da irresignação do agravante demandaria o reexame de matéria fática, o que é vedado, em Recurso Especial, nos termos da Súmula 7/STJ.
+VI. Agravo interno improvido (AgInt no REsp. 1.478.574/SP, Rel. Min. ASSUSETE MAGALHÃES, DJe 17.3.2017).
+
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONSELHO PROFISSIONAL. REGISTRO. ATIVIDADE BÁSICA NÃO DEFINIDA NA LEI Nº 5.194/66. INEXIGIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. As Turmas que compõem a Egrégia Primeira Seção do STJ vêm preconizando que, de acordo com o disposto no art. 1º da Lei nº 6.839/80, o critério legal para a obrigatoriedade de registro perante os conselhos profissionais, bem como para a contratação de profissional de qualificação específica, é determinado pela atividade básica ou pela natureza dos serviços prestados pela empresa.
+2. O Tribunal Regional assentou que a atividade básica desenvolvida pela empresa - instalação de sistemas de GNV (Gás Natural Veicular) - não está listada na Lei nº 5.194/66.
+3. Em oportunidades semelhantes, esta Corte já afirmou ser desnecessário o registro de empresa cuja atividade não esteja definida na Lei nº 5.194/66.
+4. O Tribunal a quo concluiu que "a atividade básica do impetrante não exige conhecimentos afetos à engenharia". Rever tal premissa ensejaria necessariamente o reexame de aspectos fáticos, o que é vedado no recurso especial, em razão do óbice da Súmula 7/STJ.
+5. Agravo regimental não provido (AgRg no REsp. 1.242.318/SC, Rel. Min. CASTRO MEIRA, DJe 19.12.2011).
+6. Na espécie, o Tribunal reconheceu ser a atividade básica da empresa os serviços de imagenologia, adequando-se à atuação do Conselho Regional de Técnicos em Radiologia.
+7. Ante o exposto, nega-se seguimento ao Recurso Especial.
+8. Publique-se. Intimações necessárias.
