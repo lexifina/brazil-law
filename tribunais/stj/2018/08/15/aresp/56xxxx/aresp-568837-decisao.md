@@ -1,0 +1,11 @@
+DECISÃO
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DO RECOLHIMENTO DO PREPARO. APLICAÇÃO DA SÚMULA 187 DO STJ. AGRAVO CONHECIDO PAR NEGAR SEGUIMENTO AO RECURSO ESPECIAL.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto por MARIA ALZIRA BRAGA MAFRA MAGALHÃES, com fundamento na alínea a ,do art. 105, III da Constituição Federal, que objetiva a reforma do TJRJ, assim ementado:
+Ementa: Ação de cobrança de pecúlio post mortem. Sentença de procedência da ação. Inobstante o entendimento que este Relator vinha acolhendo quanto a responsabilidade do Fundo Único de Previdência Social do Estado do Rio de Janeiro-Rioprevidência ao pagamento do pecúlio post mortem, cabe adotar o posicionamento atual do Superior Tribunal de Justiça no sentido de que o direito ao recebimento deste beneficio foi expressamente revogado pela Lei n9 9.032/1995, não existindo direito adquirido a regime jurídico, acrescentando-se que a Lei 9.717/1998 veio impedir a concessão de benefícios diversos dos previstos no Regime Geral de Previdência Social. Recurso a que se dá provimento (fls. 131).
+2. Os Embargos de Declaração opostos foram rejeitados (fls. 155/159).
+3. Nas razões do seu Apelo Nobre inadmitido, o recorrente apontou violação dos arts. 93, IX, da CF, 458, II e 535, II do CPC, Leis Estaduais 3.309/1999, 4.009/2002 e Decreto Estadual 32.725/2003, requerendo pecúlio posto mortem na condição de beneficiária de magistrado.
+4. Apresentadas contrarrazões, sobreveio juízo negativo de admissibilidade (fls. 248).
+5. É o breve relatório. Decido.
+6. O Recurso Especial não merece ser admitido, visto que, conforme certificado, a parte recorrente deixou de comprovar a realização do preparo. Desse modo, incide a Súmula 187 desta Corte Superior, a qual preceitua que é deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos (AgInt no AREsp. 868.815/SP, Rel. Min. SÉRGIO KUKINA, DJe 28.6.2016; AgRg nos EDcl no AREsp. 561.317/PR, Rel. Min. HUMBERTO MARTINS, DJe 19.2.2015).
+7. Diante dessas considerações, conhece-se do Agravo para negar seguimento ao Recurso Especial.
+8. Publique-se. Intimações necessárias.
