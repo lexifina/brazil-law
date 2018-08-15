@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Agravo, interposto por [NOME] INDÚSTRIA ALIMENTÍCIA LTDA, contra decisão do Tribunal de Justiça do Estado de São Paulo, que inadmitiu o Recurso Especial manifestado contra acórdão, proferido na vigência do CPC/2015, assim ementado:
+"APELAÇÃO - Embargos à execução fiscal. ISS. Serviços prestados à empresa situada em Jandira. Sentença de parcial procedência para reconhecer direito à dedução do valor dos materiais, rejeitando alegação de incompetência do Município e de nulidade da CDA.
+RECURSO DA EMBARGANTE - Nulidade da CDA. Matéria discutida em exceção de pré-executividade. Preclusão configurada. Desnecessidade de juntada do processo administrativo. Peças principais acostadas aos autos, suficientes para a análise das alegações da embargante. Multa moratória imposta de acordo com a legislação local. Alegação de que o imposto é devido no local do estabelecimento do prestador.
+Descabimento. Competência do Município em cujo território ocorre a efetiva prestação do serviço. Serviço de coleta de lixo prestado na sede da tomadora. Incorreção de parte do débito que não afasta a liquidez e certeza da CDA. Honorários, contudo, que devem substituir àqueles fixados na execução.
+Recurso parcialmente provido.
+RECURSO DO MUNICÍPIO - Pretensão de majorar a verba honorária. Cabimento. Recurso provido" (fl. 808e).
+Opostos embargos de declaração (fls. 820/823e e 835/839e), ambos foram rejeitados.
+Nas razões do Recurso Especial que podem ser analisadas por este STJ, pugna a insurgente pela anulação do acórdão recorrido em razão da violação aos arts. 1.022, inciso II, do CPC/2015, sustentando a ocorrência de omissão.
+Apresentadas contrarrazões às fls. 904/934e, foi o Recurso Especial inadmitido na origem (fls. 948/949e), daí a interposição do presente Agravo (fls. 952/967e).
+Contraminuta às fls. 989/992e.
+A irresignação merece acolhimento no que diz respeito à indicada ofensa ao art. 535 do CPC/73.
+Com efeito, embora opostos Embargos de Declaração (fls. 841/845e), o Tribunal de origem não analisou as teses abaixo transcritas, que são de extrema importância para o desfecho da lide, in verbis:
+"4. O primeiro aspecto do qual se requer a apreciação diz respeito à alegação da embargante referente à cobrança de R$ 378,60 no mês de 12/2008, referente à nota fiscal 20, emitida por "BASSI SERVIÇOS TÉCNICOS EM ALIMENTAÇÃO LTDA".
+5. Ressalta-se, a respeito, que o primeiro Auto de Infração lavrado  e anulado  cobrava os mesmos valores do mesmo emitente da nota aqui discutida em relação aos meses 10/2008, 11/2008, 01/2009, 02/2009 e 03/2009, sendo certo que tais cobranças (referentes a serviços idênticos e do mesmo prestador) após a apresentação da defesa foram canceladas, restando apenas a ora discutida, inexplicavelmente mantida.
+6. Contudo, a embargante não sabe o motivo pelo qual a embargada exige tal valor  eis que não informada acerca de tal exigência, sendo que tal ônus, qual seja, da correta informação atinente ao crédito cabe exclusivamente à embargada.
+7. Por outro lado, certo é que tal cobrança é indevida, o que inclusive já foi reconhecido pela embargada por ocasião da defesa apresentada em relação ao AITI nº 266/2010. Logo, deveria ter sido excluída sua cobrança. Pede-se, outrossim, a apreciação deste tópico alegado em sede recursal.
+8. Em outro tópico do v. acórdão, consignou-se que "aos serviços de destinação final de rejeitos e resíduos, prestados pelas empresas Multilixo e [NOME], conquanto o embargante concorde que o imposto é devido no local da prestação, sustenta que, embora a retirada dos rejeitos ocorra em sua sede, o serviço de destinação, fato gerador nesta hipótese, ocorre em outro local", sendo descabida tal alegação "uma vez que o serviço principal prestado à apelante é o de coleta do lixo" (cf. fl. 8).
+9. Com a devida vênia, afigura-se contraditória tal conclusão, em vista da própria afirmação contida no mesmo parágrafo acima transcrito, de que se refere a "serviços de destinação final de rejeitos e resíduos", logo, é inegavelmente este o serviço principal prestado à ora embargante, aliás, como os próprios prestadores se referem à sua atividade primordial, qual seja, o "gerenciamento de resíduos industriais" (cf. sites das empresas [NOME] ECO AMBIENTAL e MULTILIXO).
+10. Pede-se, outrossim, seja esclarecida a mencionada contradição.
+11. Por fim, a ora embargante requer seja elucidada a omissão concernente na fundamentação quanto aos aspectos objetivos que culminaram na majoração da verba honorária para o valor de R$ 10.000,00 (dez mil reais), considerando-se que se trata de execução fiscal, cuja matéria não revela maior complexidade, bem como o fato de que o local da prestação dos serviços se deu na própria Comarca de Jandira" (fls. 837/838e).
+Deste modo, resta configurada a violação ao art. 1.022 do CPC/2015 e, assim, a negativa de prestação jurisdicional, uma vez que o ponto sobre o qual recai a omissão têm o condão de eventualmente alterar a solução inicialmente dada à controvérsia.
+Nesse sentido:
+"TRIBUTÁRIO. PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS PARA NOVO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO.
+1. Nos termos da jurisprudência pacífica do STJ, quando os temas suscitados nos embargos de declaração são indispensáveis ao deslinde da controvérsia e o Tribunal de origem não se pronuncia acerca de tais questões, mister a anulação do acórdão para que outro seja proferido, ante a contrariedade ao art. 535 do Código de Processo Civil.
+2. Hipótese em que o Tribunal de origem, apesar da oposição de embargos de declarção, não se manifestou sobre a alegada violação do art. 10, inciso I, da Lei n. 10.833/2003. Retorno dos autos para novo julgamento dos embargos de declaração.
+Agravo regimental provido" (STJ, AgRg no REsp 1.355.898/CE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 06/03/2014).
+"PROCESSUAL CIVIL E ADMINISTRATIVO. IMPUGNAÇÃO AO VALOR DADO À CAUSA. ELEMENTOS FÁTICOS DA DEMANDA NÃO FORAM CONSIDERADOS. ART. 535 DO CPC. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS PARA A ORIGEM.
+(..)
+3. A Corte de origem quedou silente sobre os argumentos apresentados por meio dos embargos de declaração, em franca violação ao art. 535 do CPC, porquanto não prestada a jurisdição de forma integral.
+4. Agravo regimental a que se nega provimento" (STJ, AgRg no REsp 1.373.286/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 17/05/2013).
+Ante o exposto, com fundamento no art. 253, parágrafo único, inciso II, c, do RISTJ, conheço do Agravo para dar provimento ao Recurso Especial, a fim de anular o acórdão que julgou os Embargos Declaratórios, determinando o retorno dos autos à origem, para novo julgamento, sanando-se as omissões ali apontadas.
+I.
