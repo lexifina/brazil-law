@@ -1,0 +1,9 @@
+Vistos etc.
+    A matéria restou submetida ao Plenário Virtual para análise quanto à existência de repercussão geral no RE 626.489/SE, verbis:
+    “RECURSO EXTRAODINÁRIO. DIREITO PREVIDENCIÁRIO. REGIME GERAL DE PREVIDÊNCIA SOCIAL (RGPS). REVISÃO DO ATO DE CONCESSÃO DE BENEFÍCIO. DECADÊNCIA. 1. O direito à previdência social constitui direito fundamental e, uma vez implementados os pressupostos de sua aquisição, não deve ser afetado pelo decurso do tempo. Como consequência, inexiste prazo decadencial para a concessão inicial do benefício previdenciário. 2. É legítima, todavia, a instituição de prazo decadencial de dez anos para a revisão de benefício já concedido, com fundamento no princípio da segurança jurídica, no interesse em evitar a eternização dos litígios e na busca de equilíbrio financeiro e atuarial para o sistema previdenciário. 3. O prazo decadencial de dez anos, instituído pela Medida Provisória 1.523, de 28.06.1997, tem como termo inicial o dia 1º de agosto de 1997, por força de disposição nela expressamente prevista. Tal regra incide, inclusive, sobre benefícios concedidos anteriormente, sem que isso importe em retroatividade vedada pela Constituição. 4. Inexiste direito adquirido a regime jurídico não sujeito a decadência. 5. Recurso extraordinário conhecido e provido.” (RE 626489, Relator(a):  Min. ROBERTO BARROSO, Tribunal Pleno, julgado em 16/10/2013, ACÓRDÃO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-184 DIVULG 22-09-2014 PUBLIC 23-09-2014)
+    O art. 328 do RISTF autoriza a devolução dos recursos extraordinários e dos agravos de instrumento aos Tribunais ou Turmas Recursais de origem para os fins previstos nos arts. 1.036 a 1.040 do CPC.
+    Devolvam-se os autos à Corte de origem.
+    Publique-se.
+    Brasília, 15 de agosto de 2018.
+Ministra Rosa Weber
+Relatora
