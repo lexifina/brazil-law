@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela FAZENDA NACIONAL, em 17/11/2017, mediante o qual se impugna acórdão, promanado do Tribunal Regional Federal da 3ª Região, que indeferiu pedido de redirecionamento, formulado em desfavor de sócios-gerentes da empresa originalmente executada, por considerar inexistente a dissolução irregular da sociedade ou o cometimento, pelas indigitadas pessoas físicas, de violação à lei ou ao contrato social da empresa.
+Embargos de Declaração não acolhidos (fls. 208/214e).
+No Recurso Especial, manejado com base na alínea a do permissivo constitucional, alega-se violação aos arts. 124, II, e 135, III, do CTN, 4º, § 2º, da Lei 6.830/80 e 1.022, II, do CPC/2015.
+Sustenta-se, no que ora importa, o seguinte:
+"No tocante à matéria de fundo, cumpre salientar, que o fundamento de responsabilização dos sócios, conforme demonstrado nos embargos de declaração e no agravo de instrumento, ENCONTRA-SE NA INFRAÇÃO À LEI EM FACE DA NATUREZA DOS VALORES EM COBRANÇA, OU SEJA, SEREM RELATIVOS À CONTRIBUIÇÕES PREVIDENCIÁRIAS DESCONTADAS DOS EMPREGADOS E NÃO REPASSADAS AO INSS, ressaltando que o seu nome consta da CDA.
+De fato, da fundamentação legal constante da CDA e das cópias dos autos executivos infere-se que o débito de número 320680495 se refere a contribuições descontadas do segurado e não recolhidas à seguridade social.
+(..)
+TAL CONDUTA DO SÓCIO, É SUFICIENTE À PLENA APLICABILIDADE DO ART. 135, III, DO CÓDIGO TRIBUTÁRIO NACIONAL, NÃO FOI APENAS INFRAÇÃO À LEI, MAS CRIME PREVISTO NO ART. 168-A DO CÓDIGO PENAL, NADA JUSTIFICANDO SUA EXCLUSÃO DO PÓLO PASSIVO DA EXECUÇÃO FISCAL.
+A par disso, é necessário ressaltar que o fundamento de responsabilização do sócio encontra-se no fato de que as CDA"s comprovam que os créditos em cobrança se referem a valores descontados dos empregados e não repassados à Previdência Social, o que por si só determina a infração legal necessária à incidência do artigo 135 do Código Tributário Nacional" (fls. 220/223e).
+Aduz-se, ademais, que o acórdão recorrido teria incidido em omissão, justamente porque não atentou para o fato de que, na hipótese, não se cuidaria de redirecionamento com base em mero inadimplemento tributário, mas de redirecionamento com base no cometimento de crime, a saber: apropriação indébita de contribuição previdenciária descontada de empregados.
+Requer-se, por fim, "a admissão do presente Recurso Especial e, após seu processamento regular, o provimento da pretensão recursal perante o Colendo Superior Tribunal de Justiça de modo a anular o acórdão recorrido por violação ao art. 535, II do CPC, e, caso assim não se entenda, reformar o v. acórdão recorrido, com o que, mais uma vez, estará sendo distribuída a JUSTIÇA" (fl. 229e).
+Sem contrarrazões (fl. 231e).
+Recurso Especial admitido (fls. 232/233e).
+O presente recurso merece prosperar.
+Está devidamente configurada a omissão, no acórdão recorrido.
+Dessarte, muito embora o Tribunal de origem tenha sido instado, inclusive mediante Embargos de Declaração, a analisar o argumento de que o redirecionamento, na hipótese, teria por base não o mero inadimplemento tributário, pela sociedade empresária, mas a apropriação indébita, pelos sócios-gerentes, de valores descontados dos empregados a título de contribuição previdenciária, deixou, aquele Sodalício, de enfrentar esse tema específico.
+Como eventual reconhecimento de que teria havido, no caso, mais do que mero inadimplemento tributário, verdadeira apropriação indébita poderia, em tese, inverter o resultado do julgamento, tem-se a ocorrência de negativa de prestação jurisdicional e violação ao art. 1.022, II, do CPC/2015.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao Recurso Especial, de modo a determinar, ao Tribunal de origem, o rejulgamento dos Aclaratórios da Fazenda Nacional, com o expresso enfrentamento da alegação de que, no caso, o redirecionamento teria por base não o mero inadimplemento tributário, pela sociedade empresária, mas a ocorrência de apropriação indébita de contribuição previdenciária, pelos seus sócios-gerentes.
+I.
