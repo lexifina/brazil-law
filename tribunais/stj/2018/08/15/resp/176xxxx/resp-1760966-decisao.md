@@ -1,0 +1,14 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TUTELA ANTECIPADA REQUERIDA EM CARÁTER ANTECEDENTE. DEFERIMENTO. AUSÊNCIA DE INSURGÊNCIA RECURSAL. REVOGAÇÃO, DE OFÍCIO, PELO MAGISTRADO. DISCUSSÃO QUANTO À OCORRÊNCIA OU NÃO DA ESTABILIZAÇÃO DOS EFEITOS DA DECISÃO LIMINAR, PREVISTA NO ART. 304, CAPUT, DO CPC/2015. AGRAVO PROVIDO PARA CONVERTÊ-LO EM RECURSO ESPECIAL.
+DECISÃO
+ Trata-se de agravo interposto por [NOME], desafiando decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea a, da Constituição Federal, manejado, por seu turno, contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 94):
+AGRAVO DE INSTRUMENTO TUTELA PROVISÓRIA Art. 1.015, inciso I, do CPC Autor que indicará na petição inicial que pretende valer-se do benefício da estabilização dos efeitos da tutela Art. 303, §5º, do Código de Processo Civil PEDIDO BOA-FÉ Interpretação do pedido que considerará o conjunto da postulação e observará o princípio da boa-fé (cf. art. 322, §2º, do CPC) Negado provimento.
+Nas razões de seu recurso especial, a insurgente apontou violação do art. 304, §§ 2º, 3º, 5º e 6º, do Código de Processo Civil de 2015 (e-STJ, fls. 121-130).
+Sustentou, em suma, que "o acórdão guerreado faz uma interpretação equivocada do § 5º do art. 303 do Código de Processo Civil, no sentido da necessidade de se requerer na inicial a aplicação dos efeitos da estabilização da demanda" (e-STJ, fl. 127). Afirma que, na verdade, a estabilização da demanda constitui consequência da ausência de impugnação recursal pela parte adversa, sendo certo que o art. 303, § 5º, do Código de Processo Civil de 2015 exige apenas que conste da petição inicial o requerimento de antecipação da tutela satisfativa, com a menção de complementação da argumentação em aditamento, o que, na espécie, foi devidamente cumprido pela insurgente.
+Ressaltou que "o aditamento da inicial, previsto no artigo 305, § 5º, do CPC, não guarda qualquer relação com os efeitos da estabilização da tutela antecipada, previsto no art. 304 do CPC", pois "este efeito decorre da lei, sendo vedado ao magistrado negar-lhe eficácia e vigência" (e-STJ, fl. 127).
+A Presidência da Seção de direito Privado do Tribunal de Justiça do Estado de São Paulo negou seguimento ao apelo nobre, por reputar que a pretensão posta esbarra no enunciado n. 7 da Súmula do STJ (e-STJ, fls. 143-144).
+Inconformada, a recorrente apresentou agravo refutando o óbice apontado pela Corte estadual (e-STJ, fls. 147-151).
+Contraminuta às fls. 154-156 (e-STJ).
+Brevemente relatado, decido.
+Considerando os fundamentos trazidos no recurso, dou provimento ao presente agravo para determinar a sua conversão em recurso especial, sem prejuízo de nova análise dos requisitos de admissibilidade, a fim de que a matéria seja melhor examinada pelo Colegiado, com fulcro no art. 34, XVI, do RISTJ.
+Publique-se.
