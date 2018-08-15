@@ -1,0 +1,70 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela UNIÃO, em 03/05/2017, contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+"PROCESSUAL CIVIL. AGRAVO LEGAL. APLICAÇÃO DO ARTIGO 557, CAPUT, DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE NOVOS ARGUMENTOS PARA AUTORIZAR A REFORMA DA DECISÃO AGRAVADA.
+1. A r. decisão impugnada foi proferida em consonância com o disposto no artigo 557, caput, do Código de Processo Civil.
+2. A parte agravante não apresenta argumentos relevantes que autorizem ou justifiquem a reforma da r. decisão agravada.
+3. Na hipótese dos autos, a parte autora pleiteia a dispensa do serviço militar obrigatório, na qualidade de médico, com base na prévia dispensa de incorporação obtida por excesso de contingente.
+4. Depreende-se dos autos que o autor foi dispensado do Serviço Militar inicial em 2003, por excesso de contingente e, após a conclusão do curso de medicina, ocorrida em 29.06.2013, foi reconvocado a prestar serviço militar em 2014 (fls. 16/18).
+5. Deve ser julgado procedente o pedido do autor, visto que dispensado do serviço militar em momento anterior a edição da Lei nº 12.336/10, vigente a partir de 26/10/10.
+6. Agravo legal desprovido" (fl. 238e).
+Sustenta a parte recorrente, nas razões do Recurso Especial, o seguinte:
+"Consoante se depreende dos autos, não tem amparo legal o pedido do autor, nem tampouco a decisão proferida em seu favor, já que a exigência de prestação do serviço militar obedece aos ditames da lei.
+De fato, a Lei nº 5.292/67, possibilita à Administração Militar a convocação do autor, para a prestação do serviço militar como oficial médico.
+Referida lei permite a convocação dos Médicos, Farmacêuticos, Dentistas e Veterinários - MFDV com certificado de dispensa de incorporação ou de 3ª categoria, incluídos aqui os em excesso de contingente, ou seja, aqueles cidadãos que estão em dia com o serviço militar inicial, mas que ainda continuam sujeitos à convocação posterior, porque esses, na verdade, não prestaram o serviço militar obrigatório efetivamente.
+Frise-se que são 02 (duas) as Leis que regulam o serviço militar obrigatório em tempo de paz, quais sejam, .a Lei nº 4.375/64 (Lei do Serviço Militar) e respectivo Regulamento (Decreto nº 57.654/66), bem como a Lei nº 5.292/67 (que dispõe sobre a prestação do serviço militar pelos estudantes de Medicina, Farmácia, Odontologia e Veterinária e pelos Médicos, Farmacêuticos, Dentistas e Veterinários - MFDV e seu Decreto Regulmentador nº 63.704/68).
+A Carta Magna de 1988, por sua vez, estabelece que o serviço militar é obrigatório, nos termos da lei (artigo 143), restando patente a recepção dos diplomas supracitados.
+(..)
+Portanto, com a nova redação dada pela Lei nº 12.336, de 26.10.2010, à Lei do Serviço Militar (Lei nº 4.375/64), não somente o contingente de alistados que adiam a Incorporação por estarem na situação em foco (MFDV), como aqueles dispensados, por meio de Certificado de Dispensa de Incorporação, poderão ser convocados após a conclusão do curso universitário (artigos 17, § 1º, 30, § 6º e 40-A).
+(..)
+Da mesma forma, a Lei nº 5.292/67, com a redação também alterada pela Lei nº 12.336, de 26.10.2010, confirma referidos dispositivos, ou seja, prevê a convocação dos Médicos, Farmacêuticos, Dentistas e Veterinários - MFDV com Certificado de Dispensa de Incorporação, incluidos aqui os em excesso de contingente, ou seja, aqueles cidadãos que estão em dia com o serviço militar inicial, mas que ainda continuam sujeitos à convocação posterior, porque esses, na verdade, não prestaram o serviço militar obrigatório efetivamente. Eis os termos dos dispositivos apontados:
+(..)
+Portanto, a nova redação introduzida pela Lei nº 12.336, de 26.10.2010 não deixa dúvidas quanto a obrigação para corn o serviço militar, corno regra geral, para todos os cidadãos brasileiros dos dezoito aos quarenta e cinco anos, permanecendo ainda para aqueles outrora dispensados por meio de Certificado de Dispensa de Incorporação
+(..)
+2- Também merece admissão o presente recurso quanto ao mérito, pela alínea "c", como a seguir se demonstrará.
+Inicialmente cabe ressaltar que no Resp nº 1.186.513 a questão foi resolvida no âmbito dos Embargos de Declaração. Ocorre que em 14 de fevereiro de 2013, foi publicado o Acórdão referente ao julgamento dos Embargos de Declaração no Recurso Especial nº 1.186.513 cuja ementa vaza o seguinte teor:
+(..)
+Referidos embargos de declaração foram interpostos com a finalidade de esclarecer se o militar dispensado sob a Lei nº 5.262/67 pode ser convocado após a edição da Lei nº 12.336/10. Conforme entendimento do C. Superior Tribunal de Justiça firmado no julgamento dos embargos de declaração acima referido, os concluintes dos cursos IEs destinados à formação de médicos, farmacêuticos, dentistas e veterinários, dispensados de incorporação antes da vigência Lei 12.336, mas convocados após sua vigência, devem prestar o serviço militar.
+É exatamente esta a questão tratada nestes autos. O autor em 2003 foi dispensado por excesso de contingente e se formou em medicina em 2013. Com fulcro no artigo 4º, §2º da lei 5.292/1967, foi convocado em data posterior à vigência da lei 12.336/2010. cuja graduaçao também ocorreu após a vigência da nova lei.
+Assim, o acórdão ora recorrido merece ser reformado diante do posicionamento firmado pelo STJ acerca da questão de direito.
+(..)
+Conforme acima demonstrado, a jurisprudência vai exatamente em sentido contrário, ao decidido pelo Tribunal "a quo" que afastou a aplicação da Lei 12.336/2010 ao recorrido, anteriormente dispensado da incorporação, que após a conclusão do curso, foi convocado para prestação do serviço militar.
+Plenamente demonstrada, pois, a divergência pretoriana, é de admitir-se o presente recurso, também com fundamento na letra "c" do permissivo constitucional (art. 105, c, III, da Constituição Federal).
+Dessa turma, e por tudo o acima explicitado, a União entende violados os artigos de Lei supra mencionados, além de ter sido demonstrada a divergência jurisprudencial, razão pela qual merece conhecimento e provimento o presente Recurso Especial para reformar o v. Acórdão recorrido aplicando-se, ao caso, a Lei 12.336/2010" (fls. 245/257e).
+Requer, ao final, o provimento do recurso.
+Foram apresentadas contrarrazões (fls. 267/269e)
+A irresignação merece acolhimento.
+Com efeito, no julgamento dos EDcl no REsp 1.186.513/RS (Rel. Ministro HERMAN BENJAMIN, DJe de 14/02/2013), pela sistemática do art. 543-C do CPC/73, a Primeira Seção do Superior Tribunal de Justiça firmou o entendimento segundo o qual a obrigatoriedade do serviço militar, previsto na Lei 5.292/67, estende-se aos médicos, farmacêuticos, dentistas e veterinários dispensados de incorporação mesmo antes da vigência da Lei 12.336/2010, desde que sua convocação se tenha realizado já na vigência desse diploma legal.
+Confira-se, por oportuno, a ementa do referido precedente:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. SERVIÇO MILITAR OBRIGATÓRIO. DISPENSA POR EXCESSO DE CONTINGENTE. ESTUDANTE. ÁREA DE SAÚDE. LEIS 5.292/1967 e 12.336/2010.
+1. Os estudantes de Medicina, Farmácia, Odontologia ou Veterinária dispensados por excesso de contingente não estão sujeitos à prestação do serviço militar, compulsório tão somente àqueles que obtêm o adiamento de incorporação, conforme previsto no art. 4º, caput, da Lei 5.292/1967.
+2. As alterações trazidas pela Lei 12.336 passaram a viger a partir de 26 de outubro de 2010 e se aplicam aos concluintes dos cursos nos IEs destinados à formação de médicos, farmacêuticos, dentistas e veterinários, ou seja, àqueles que foram dispensados de incorporação antes da referida lei, mas convocados após sua vigência, devem prestar o serviço militar.
+3. Embargos de Declaração acolhidos" (STJ, EDcl no REsp 1.186.513/RS, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe de 14/02/2013).
+Nesse mesmo sentido, o seguinte julgado:
+"PROCESSO CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. MILITAR. SERVIÇO OBRIGATÓRIO. PROFISSIONAL DA ÁREA DE SAÚDE. DISPENSA POR EXCESSO DE CONTINGENTE. CONVOCAÇÃO POSTERIOR. POSSIBILIDADE. TEMA PACIFICADO EM RECURSO SUBMETIDO AO REGIME DO ART. 543-C DO CPC. DIREITO LÍQUIDO E CERTO. INEXISTÊNCIA.
+1. Cuida-se de mandado de segurança em que se discute a obrigatoriedade de nova convocação para o serviço militar do profissional da área médica que foi dispensado antes da edição da Lei n. 12.336/2010.
+2. O impetrante, profissional da área médica, foi dispensado do serviço militar obrigatório em 09/08/2006, por excesso de contingente, e recebeu na ocasião o Certificado de Dispensa de Incorporação (CDI). Contudo, posteriormente, após a conclusão do curso de medicina em 26/06/2014 foi convocado para prestar serviço militar.
+3. A Primeira Seção, em julgamento submetido ao regime do art. 543-C do CPC (recurso repetitivos), sedimentou o entendimento de que "a Lei 12.336/2010 deve ser aplicada aos concluíntes dos cursos nos IEs destinados à formação de médicos, farmacêuticos, dentistas e veterinários que foram dispensados de incorporação, mas ainda não convocados" (EDcl no REsp 1186513/RS, Rel. Ministro Herman Benjamin, Primeira Seção, julgado em 12.12.2012, DJe 14.2.2013).
+4. No caso específico dos autos, não se vislumbra direito líquido e certo evocado, notadamente porque, em que pese a dispensa do impetrante por excesso de contingente tenha ocorrido em 09/08/2006, anteriormente à edição da Lei n. 12.336/2010, sua nova convocação tornou-se possível após a vigência de nova legislação.
+5. Inexiste ofensa a ato jurídico perfeito nem a direito adquirido, a situação do impetrante não se encontrava em situação jurídica consolidada quando ocorreu a alteração legislativa.
+6. Segurança denegada" (STJ, MS 21.552/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe de 03/09/2015).
+O Tribunal de origem consignou o seguinte:
+"Considerando que as razões ventiladas no presente recurso são incapazes de infirmar a decisão impugnada, vez que ausente qualquer ilegalidade ou abuso de poder, submeto o seu teor à apreciação deste colegiado:
+(..)
+A alteração legislativa decorrente do advento da Lei n. 12.336, de 26 de outubro de 2010, estabelece que estão sujeitos ao serviço militar obrigatório os profissionais da área de saúde uma vez concluído o
+respectivo curso universitário, mesmo quando dispensados ao tempo da convocação por excesso de contingente, mas, conforme expressa dicção do art. 5º da referida lei, somente entrando em vigor na data de sua publicação. Ou seja, os dispensados do serviço militar obrigatório por excesso de contingente antes da Lei nº 12.336/2010 não podem ser reconvocados depois da conclusão do curso. É a orientação do Superior Tribunal de Justiça:
+(..)
+Conclui-se, assim, ser incabível discutir acerca de nova convocação para a prestação de serviço de médico no Exército daquele que, mesmo anteriormente ao ingresso no curso superior, obteve dispensa por residir em município não tributário e/ou por excesso de contingente.
+Por derradeiro, anoto que, a despeito do entendimento defendido nos embargos de declaração acolhidos com efeitos infringentes no Recurso Especial nº 1.186.513/RS pela 1ª Seção do C. Superior Tribunal de Justiça, julgado conforme a sistemática do art. 543-C do Código de Processo Civil segundo o qual "as alterações trazidas pela Lei nº 12.336/10, vigente a partir de 26/10/10, aplicam-se aos concluintes dos referidos cursos que foram dispensados de incorporação antes da mencionada lei, mas convocados após sua vigência, devendo estes prestar o serviço militar", entendo que referida tese não merece prevalecer em respeito aos princípios da irretroatividade das leis e do tempus regit aclum, bem como à garantia constitucional do ato jurídico perfeito e do direito adquirido (artigo 5 o, inciso XXXVI da Constituição Federal de 1988).
+Cumpre realçar, por fim, que, atualmente, a Suprema Corte reconheceu a repercussão geral sobre essa questão, objeto do Agravo de Instrumento nº 838.194/RS, pendente de julgamento.
+Destarte, sem julgamento definitivo do referido recurso, prevalece o posicionamento de que a Lei n.º 12.336/10 se aplica apenas àqueles que foram dispensados após o seu advento.
+Na hipótese dos autos, a parte autora pleiteia a dispensa do serviço militar obrigatório, na qualidade de médico, com base na prévia dispensa de incorporação obtida por excesso de contingente.
+Nesse passo, depreende-se dos autos que o autor foi dispensado do Serviço Militar inicial em 2003, por excesso de contingente e, após a conclusão do curso de medicina, ocorrida em 29.06.2013, foi reconvocado a prestar serviço militar em 2014 (fls. 16/18).
+Portanto, consoante todo o acima exposto, deve ser julgado procedente o pedido do autor, visto que dispensado do serviço militar em momento anterior a edição da Lei nº 12.336/10, vigente a partir de 26/10/10.
+(..)
+E de se lembrar que o escopo do agravo previsto no art. 557 do Código de Processo Civil não permite seu manejo para a repetição das alegações suscitadas ao longo do processo.
+Deve o recurso demonstrar a errônea aplicação do precedente ou a inexistência dos pressupostos de incidência do art. 557 do CPC, de modo que a irresignação a partir de razões sobre as quais a decisão exaustivamente se manifestou não é motivo para, a sua interposição" (fls. 229/236e).
+Destarte, considerando-se que o recorrente concluiu o curso de Medicina, em 29/06/2013 (fl. 24e), e que sua convocação, para o serviço militar obrigatório, ocorreu em 14/01/2014, como admitido na petição inicial (fl. 6e), portanto, após a vigência de nova legislação, inexiste qualquer ilegalidade na referida convocação, nos termos da jurisprudência desta Corte.
+Neste contexto, o Tribunal decidiu em dissonância com a jurisprudência deste Superior Tribunal.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao Recurso Especial, para julgar improcedente o pedido.
+Condeno a parte autora ao pagamento das custas e dos honorários advocatícios, que ora arbitro em 10% sobre o valor atualizado da causa.
+I.
