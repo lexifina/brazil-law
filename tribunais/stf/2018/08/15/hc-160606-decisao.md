@@ -1,0 +1,22 @@
+Trata-se de habeas corpus com pedido liminar impetrado em favor de Diego Gustavo Silva Lopes contra decisão do Ministro Sebastião Reis Júnior do Superior Tribunal de Justiça - STJ, que não conheceu de pedido de reconsideração no HC 411.424/PR.
+    Consta dos autos que o Ministro Relator do STJ deferiu medida cautelar
+    “[p]ara substituir a prisão preventiva dos pacientes nos Autos n. 0003223-68.2017.8.16.0090 da comarca de Ibiporã/PR, pelas medidas alternativas à prisão consistentes em afastamento da empresa, proibição de manter contato com os corréus e comparecer em juízo no prazo e nas condições fixadas pelo Juiz singular, alertando-se os pacientes que, em caso de descumprimento, a prisão preventiva será restabelecida.”
+    A defesa pediu reconsideração da decisão, requerendo a readequação da medida cautelar diversa da prisão imposta aos pacientes, especificamente no que tange ao afastamento da empresa.
+    O pleito não foi conhecido, haja vista que
+    “[a] decisão ora impugnada foi disponibilizada no DJe de 18/8/2017 (sexta-feira), e considerada publicada no 21/8/2017 (segunda-feira). O pedido de reconsideração, por sua vez, somente veio a ser protocolizado em 24/10/2017 (fl. 1193), quando já escoado o quinquídio regimental”.
+    No presente writ, a defesa sustenta ser imprescindível que
+    “[o]s pacientes voltem a exercer sua atividade empresarial na empresa Bebi Fácil está calcada, sobretudo, na severa dificuldade que o empreendimento enfrenta, bem como pelo extenso prazo de duração da medida que não tem previsão de cessação, de modo que presunções e a inexistência de qualquer indicativo de ilicitude em suas atividades não pode dar guarida à falência dos empresários” (pág. 11 do documento eletrônico 1).
+    Aduz ainda que
+    “[e]m que pese a gravidade das acusações imputadas aos pacientes [integrar organização criminosa destinada ao roubo de mercadorias e receptação], denota-se que as medidas cautelares de comparecimento em Juízo, proibição de contato com outros acusados são, por si sós, mais que suficientes para atender às finalidades pretendidas, sendo despiciendo o acréscimo do afastamento da empresa que, em razão da manifesta demora na realização dos atos da ação penal, está servindo – salvo melhor juízo - tão somente para dificultar o sustendo de Diego e Ricardo, bem como de seus dependentes” (pág. 13 do documento eletrônico 1).
+    Requer, por fim, a concessão da ordem de habeas corpus para, superando a Súmula 691/STF,
+    “[r]evogar a medida cautelar diversa da prisão imposta aos requerentes, especificamente no que tange ao afastamento das atividades empresariais de Diego e Ricardo, em razão das severas dificuldades enfrentadas na manutenção do empreendimento, bem como pelo extenso prazo de duração da medida, sem previsão de cessação e, não bastasse, pela inexistência de qualquer indicativo de ilicitude em suas atividades, o que não pode dar guarida à falência dos empresários” (pág. 7 do documento eletrônico 1).
+    É o relatório. Decido.
+    Como se vê, a presente impetração volta-se contra decisão monocrática do Ministro Sebastião Reis Júnior, que não conheceu do pedido de reconsideração da decisão que deferiu medida cautelar em habeas corpus.
+    Ocorre que a Constituição Federal atribui ao Supremo Tribunal Federal a competência para processar e julgar, originariamente, o habeas corpus, quando o coator for Tribunal Superior (art. 102, I, i, da CF/1988).
+    Desse modo, este pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do Supremo Tribunal Federal, descritos no art. 102 da Constituição Federal, que pressupõem seja a coação praticada por Tribunal Superior.
+    Essa foi a orientação firmada pela Segunda Turma, quando do julgamento do HC 119.115/MG, de minha relatoria, ocasião na qual se decidiu que a não interposição de agravo regimental no Superior Tribunal de Justiça e, portanto, a ausência da análise da decisão monocrática pelo seu colegiado, impede o conhecimento do habeas corpus por esta Suprema Corte. Do contrário, permitiria ao jurisdicionado a escolha do Tribunal para conhecer e julgar a sua causa, o que configuraria evidente abuso do direito de recorrer.
+    Isso posto, com base no art. 21, § 1°, do RISTF, nego seguimento a este writ. Prejudicado o exame da liminar.
+    Publique-se.
+    Brasília, 15 de agosto de 2018.
+Ministro Ricardo Lewandowski
+Relator
