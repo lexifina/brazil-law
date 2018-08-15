@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo manejado pelo Ministério Público Federal contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 203):
+PROCESSO CIVIL. AGRAVO INTERNO (Art. 1.021, § 1o e 3o DO CPC DE 2015). MANDADO DE SEGURANÇA. RECONHECIMENTO DE SENTENÇAS ARBITRAIS. ILEGITIMIDADE ATIVA DO ÁRBITRO. AGRAVO INTERNO DESPROVIDO.
+I - Verifica-se que as sentenças arbitrais têm eficácia de titulo executivo extrajudicial, nos termos do artigo 31 da Lei nº 9.307/96, contudo, a legitimidade para buscar a execução essas sentenças é exclusivamente das partes e não dos árbitros ou dos Tribunais de Arbitragem, cujas atribuições não incluem a defesa em juízo dos direitos alheios.
+II - Em face do que dispõe o artigo 18 do Código de Processo Civil, "Ninguém, poderá pleitear, em nome próprio, direito alheio, salvo quando autorizado pelo ordenamento jurídico". Verifica-se, nesse passo, que o impetrante não recebeu autorização na Lei nº 9.307/96 para defender os direitos difusos das partes submetidas às sentenças arbitrais, pelo que não é titular de legitimidade ativa "ad causam", pois não detém os direitos envolvidos no procedimento arbitral.
+III - O tema encontra-se pacificado no STJ no sentido de que a legitimidade para a impetração de mandado de segurança objetivando assegurar o direito ao cumprimento de sentença arbitrai relativa ao FGTS é somente do titular de cada conta vinculada, e não da Câmara Arbitrai ou do próprio árbitro.
+IV - Assim, hodiernamente, a jurisprudência evoluiu no sentido de reconhecer a ilegitimidade ativa ad causam do juízo arbitrai para impetrar mandado de segurança contra ato de não reconhecimento de sentenças arbitrais para fins de liberação de valores de contas vinculadas ao FGTS na hipótese de rescisão do contrato de trabalho sem justa causa.
+V - Agravo interno desprovido.
+Nas razões do recurso especial, aponta violação aos arts. 18, 20, I e 31 da Lei 9.307/1996. A agravante sustenta, em síntese, que a impetrante da presente ação detém legitimidade para pleitear o reconhecimento da validade das homologações por ela realizadas na esfera arbitral.
+O Ministério Público Federal opinou pelo não provimento do agravo (fls. 249/257).
+É o relatório.
+A irresignação não merece prosperar, pois o acórdão recorrido está em consonância com esta Corte, que manifestou o entendimento de que "a legitimidade para a impetração de mandado de segurança objetivando assegurar o direito ao cumprimento de sentença arbitral relativa ao FGTS é somente do titular de cada conta vinculada, e não da Câmara Arbitral ou do próprio árbitro" (REsp 1290811/RJ, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 18/10/2012, DJe 29/10/2012).
+No mesmo sentido, confiram-se os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FGTS. SENTENÇA ARBITRAL. CUMPRIMENTO. MANDADO DE SEGURANÇA IMPETRADO PELO ÁRBITRO. ILEGITIMIDADE ATIVA. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão monocrática publicada em 02/03/2017, que, por sua vez, julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Na origem, o ora agravante, árbitro em Câmara Arbitral, impetrou Mandado de Segurança contra ato do Supervisor Geral do Fundo de Garantia por Tempo de Serviço, postulando seja determinado que "a CAIXA ECONÔMICA FEDERAL, inclua o nome do Impetrante na lista do seu sistema integrado e cumpra com as decisões arbitrais proferidas pelo Impetrante, bem como autorize o imediato levantamento do FGTS pelos trabalhadores que submeteram-se ao procedimento arbitral, quando houver a dispensa sem justa causa nos moldes do artigo 20, I, da Lei 8.036/90, e assim, esteja o Impetrante cadastrado na lista de todos os postos da CEF para autorizar o levantamento do FGTS sob código 01".
+III. Nos termos da jurisprudência do Superior Tribunal de Justiça, "a legitimidade para a impetração de mandado de segurança objetivando assegurar o direito ao cumprimento de sentença arbitral relativa ao FGTS é somente do titular de cada conta vinculada, e não da Câmara Arbitral ou do próprio árbitro" (STJ, REsp 1.290.811/RJ, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 29/10/2012).
+Nesse sentido: STJ, REsp 1.608.124/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 07/10/2016; AgRg no REsp 1.059.988/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 24/09/2009.
+IV. Agravo interno improvido.
+(AgInt no AREsp 1042920/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 16/05/2017, DJe 23/05/2017)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. FGTS. MANDADO DE SEGURANÇA IMPETRADO POR TRIBUNAL ARBITRAL. ILEGITIMIDADE ATIVA.
+1. Nos termos da jurisprudência do STJ, a "Câmara Arbitral carece de legitimidade ativa para impetrar Mandado de Segurança contra ato que recusa a liberação de saldo de conta vinculada do FGTS, reconhecida por sentença arbitral. A legitimidade, portanto, é somente do titular da conta" (AgRg no REsp 1.059.988/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 15/9/2009, DJe de 24/9/2009).
+2. Verifica-se que o Tribunal a quo decidiu em desconformidade com jurisprudência desta Corte, culminando por violar o art. 6º do Código de Processo Civil.
+3. Recurso Especial provido.
+(REsp 1608124/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/09/2016, DJe 07/10/2016)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. FGTS. MANDADO DE SEGURANÇA IMPETRADO POR TRIBUNAL ARBITRAL. ILEGITIMIDADE ATIVA.
+1. Os embargos de declaração podem ser recebidos como agravo regimental em obediência aos princípios da economia processual e da fungibilidade.
+2. O recurso especial não se presta a debater matéria que não foi tratada nas instâncias ordinárias, haja vista o óbice da ausência de prequestionamento.
+3. "A Câmara Arbitral carece de legitimidade ativa para impetrar Mandado de Segurança contra ato que recusa a liberação de saldo de conta vinculada do FGTS, reconhecida por sentença arbitral. A legitimidade, portanto, é somente do titular da conta" (AgRg no REsp 1.059.988/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 24/9/2009).
+Embargos de declaração recebidos como agravo regimental, a que se nega provimento.
+(EDcl nos EDcl no REsp 1502618/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 08/03/2016, DJe 15/03/2016)
+Colhem-se, ainda, as decisões monocráticas proferidas nos seguintes feitos: REsp 1711959/SP, Relator Ministro GURGEL DE FARIA, DJe de 15/12/2017; REsp 1504223/SP, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, DJe 06/12/2017; e AREsp 1075825/SP, Relator Ministro SÉRGIO KUKINA, DJe de 17/10/2017.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
