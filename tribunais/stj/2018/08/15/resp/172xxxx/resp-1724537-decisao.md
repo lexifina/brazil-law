@@ -1,0 +1,26 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. CONVERSÃO DE VENCIMENTOS EM URV. AUSÊNCIA DE PREJUÍZO RECONHECIDA PELO TRIBUNAL A QUO. FUNDAMENTO INATACADO. SÚMULA 283/STF. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+DECISÃO
+Trata-se de recurso especial, interposto por [NOME] e outros, com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão oriundo do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ fl. 297):
+PRESCRIÇÃO Pretensão de servidores públicos estaduais inativos, ao recálculo da conversão de seus vencimentos pela URV, referente ao mês de março 1994, quando transformado o padrão monetário nacional de Cruzeiro Real para Real até a data do ajuizamento da ação. Prescrição atinge o fundo de direito de que as diferenças são meras repercussões. Nas ações contra a Fazenda Pública o prazo prescricional é de cinco anos.
+SERVIDOR PÚBLICO ESTADUAL Impossibilidade da aplicação da URV nos seus salários. Art. 19 da Lei nº 8.880/94 inaplicável. Interpretação destoa do § 7º letras "a" e "b" de seu art. 22. Convivência, como padrão monetário, com o cruzeiro real afasta obrigatoriedade. Precedentes. Ação improcedente.
+Providos os recursos.
+Os recorrentes, nas razões do recurso especial, afirmam que houve violação e interpretação divergente quanto ao arts. 1º e 3º do Decreto 20.910/1932. Argumentam que não ocorreu a prescrição do fundo de direito, mas apenas das parcelas anteriores ao quinquênio que antecede o ajuizamento da ação.
+Apresentadas contrarrazões (e-STJ fls. 351-366).
+Juízo positivo de admissibilidade às e-STJ fls. 395-396.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Além de acolher a prescrição do fundo do direito, o Tribunal de origem decidiu que os recorrentes não fazem jus à conversão pretendida. Nas razões do recurso especial, tal fundamentação não foi refutada, repercutindo na inadmissibilidade do recurso, visto que esta Corte tem firme posicionamento segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula 283 do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nessa linha, os seguintes julgados de ambas as Turmas que compõem a 1ª Seção desta Corte:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OCUPAÇÃO DE TERRA PÚBLICA. ÁREA DE PRESERVAÇÃO PERMANENTE. DEMOLIÇÃO DE CONSTRUÇÃO. OMISSÃO NÃO CARACTERIZADA. INTERPRETAÇÃO DE LEI LOCAL. SÚMULA N. 280 DO STF. ACÓRDÃO A QUO QUE CONCLUI, COM BASE NOS FATOS E PROVAS DOS AUTOS, PELA IRREGULARIDADE DA EDIFICAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. FUNDAMENTO AUTÔNOMO INATACADO. SÚMULA N. 283 DO STF. ALEGADA VIOLAÇÃO À LEI FEDERAL. DISPOSITIVOS NÃO INDICADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF.
+(..)
+4. A argumentação do recurso especial não atacou o fundamento autônomo e suficiente empregado pelo acórdão recorrido para decidir que o Código de Edificações do Distrito Federal autoriza à Administração Pública, no exercício regular do poder de polícia, determinar a demolição de obra irregular, inserida em área pública e de preservação permanente. Incide, no ponto, a Súmula 283/STF.
+5. Revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a tecer alegações genéricas, sem, contudo, apontar especificamente qual dispositivo de lei federal foi contrariado pelo Tribunal a quo, fazendo incidir a Súmula 284 do STF.
+6. Agravo regimental não provido. (AgRg no AREsp 438526/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 08/08/2014)
+ADMINISTRATIVO E PROCESSUAL CIVIL. FASE DE EXECUÇÃO DE SENTENÇA CONDENATÓRIA POR ATO DE IMPROBIDADE. BENS IMÓVEIS PENHORADOS, LEVADOS A HASTA PÚBLICA E ARREMATADOS. SUPERVENIÊNCIA DE DECISÃO EM AÇÃO RESCISÓRIA, RESCINDINDO O ACÓRDÃO CONDENATÓRIO. PRETENSÃO DE ANULAÇÃO DAS ARREMATAÇÕES. NECESSIDADE DE AÇÃO PRÓPRIA. IMÓVEIS QUE TERIAM SIDO ARREMATADOS POR PREÇO VIL. INDENIZAÇÃO QUE DEVE SER BUSCADA EM AÇÃO PRÓPRIA. ACÓRDÃO RECORRIDO CUJOS FUNDAMENTOS NÃO SÃO IMPUGNADOS PELAS TESES DO RECORRENTE. SÚMULA N. 283 DO STF. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC.
+(..)
+4. Com relação aos demais pontos arguidos pelo recorrente, forçoso reconhecer que o recurso especial não merece conhecimento, porquanto, além da ausência de prequestionamento das teses que suscita (violação dos artigos 687, 698 do CPC e 166, inciso IV, e 1.228 do Código Civil) (Súmula n. 211 do STJ), tem-se que as razões recursais não impugnam, especificamente, os fundamentos do acórdão recorrido, o que atrai o entendimento da Súmula n. 283 do STF.
+5. Não sendo possível o retorno ao status quo ante, deve o prejudicado pedir indenização por meio de ação própria, caso entenda que aquela arbitrada pelo juízo da execução é insuficiente para recompor sua indevida perda patrimonial.
+Recurso especial não conhecido. (REsp 1407870/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 12/08/2014, DJe 19/08/2014)
+Ante o exposto, nego seguimento ao recurso especial.
+Publique-se. Intimem-se.
