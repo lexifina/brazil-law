@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial manejado por Companhia do Metropolitano do Distrito Federal Metrô DF com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fls. 1.065/1.066):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO DECLARATÓRIA DE NULIDADE DE PROCESSO LICITATÓRIO. SENTENÇA "CITRA PETITA". NÃO APRECIAÇÃO DE PEDIDO DA INICIAL. CASSAÇÃO DA SENTENÇA. EMBARGOS DE DECLARAÇÃO. DESNECESSIDADE. JULGAMENTO DO MÉRITO. FEITO DEVIDAMENTE INSTRUÍDO. POSSIBILIDADE. ART. 1.013, §3º, II, DO CPC. SENTENÇA CASSADA. NO MÉRITO, RECURSO DESPROVIDO.
+1. É nula a sentença que deixa de se manifestar sobre um ou mais dos pedidos feitos na inicial, sendo necessária sua cassação.
+2. Não há obrigatoriedade de oposição de embargos de declaração para que venha a ser reconhecida a nulidade da sentença que foi omissa em relação a pedido requerido na inicial.
+3. Apesar do vício existente na sentença, o feito já se encontra perfeitamente instruído. Possível o avanço na análise do mérito, com fulcro no art. 1.013, §3º, II, do Código de Processo Civil.
+4. Não pode uma terceira pessoa jurídica, participante de um novo certame licitatório, que respeitou todos os princípios administrativos e contratuais, ser compelida a prestar serviço sem a devida contraprestação por conta de uma lide que não lhe diz respeito.
+5. Preliminar acolhida. Sentença cassada.
+6. No mérito, recurso conhecido e desprovido.
+Opostos embargos declaratórios pela parte agravada, foram acolhidos com efeitos infringentes em razão de contradição acerca da condenação em honorários.
+Posteriores embargos declaratórios da ora recorrente foram rejeitados ante a inexistência dos vícios elencados no art. 1.022 do CPC/2015.
+A parte recorrente aponta violação aos arts. 85, § 2º, do CPC/2015. Sustenta que os honorários foram fixados em percentual que descumpre o legalmente disposto para o valor da causa, sendo que a sentença de primeira instância foi proferida após a vigência do Novo Código.
+É o relatório.
+O Tribunal de origem dirimiu a questão acerca dos honorários da seguinte maneira (fl. 1.123):
+Com relação aos honorários, o Advogado tem razão. A causa foi proposta com valor de referência de R$ 10.000,00 (dez mil reais) e, diante da impugnação foi elevado para R$ 17.000.000,00 (dezessete milhões de reais), por evidente, não poderia ser dado esse valor à causa com base em um contrato futuro que não é o que está sendo buscado pela ora requerente. Essa atribuição: valor da causa, no meu sentir, foi completamente descabida. Respeitosamente de quem pense diferente.
+ ..
+Por essas razões, Senhor Presidente, embora sentenciado já sob a égide do CPC de 2015 a causa teve início sob o CPC de 1973. Não seria razoável que uma parte que é credora indiscutivelmente, mesmo que venha a ser descontados aqueles valores de verbas trabalhistas, mas essa parte buscou o Poder Judiciário diante da inadimplência do Metrô. Não é razoável que, por ter buscado esse acesso à Justiça, seja condenada a pagar R$ 1.740.000,00 (um milhão setecentos e quarenta mil reais) de honorários, isso é completamente fora de propósito. Sou a favor dos honorários. É um direito, mas os honorários quando ele favorece uma parte ele desfavorece outra, isso é uma regra. Não tem empate de todo mundo ficar feliz nessa matéria.
+Nesse contexto, verifica-se que, de fato, andou mal a Corte de origem.
+Esta Corte, ao examinar a questão referente à incidência das novas regras trazidas pelo CPC/2015 para os honorários sucumbenciais, afirmou que a sentença é o marco para delimitação do regime jurídico aplicável à fixação de honorários advocatícios, revelando-se incorreto seu arbitramento, com fundamento no CPC de 1973, posteriormente à 18.03.2016 (data da entrada em vigor da novel legislação) (REsp 1.647.246/PE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Rel. p/ Acórdão Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 21/11/2017, DJe 19/12/2017).
+Restando expressamente consignado que a sentença foi prolatada já sob a égide do Novo Código, não há justificativa para a negativa de vigência do disposto no art. 85, § 2º, do CPC/2015, sendo certo que a apreciação equitativa, no presente caso, estaria restrita às hipóteses do § 8º do referido dispositivo, o que não se verifica. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. SÚMULA Nº 7/STJ. NÃO INCIDÊNCIA. APRECIAÇÃO EQUITATIVA. IMPOSSIBILIDADE. LIMITES LEGAIS. NÃO OBSERVÂNCIA. VALOR IRRISÓRIO. MAJORAÇÃO. POSSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Tribunal Superior de Justiça tem afastado o óbice da Súmula nº 7/STJ, para rever a verba honorária arbitrada nas instâncias ordinárias, quando verifica que o julgador se distanciou dos critérios legais e dos limites da razoabilidade para fixá-la em valor irrisório.
+3. O § 8º do art. 85 do CPC/2015 se aplica somente quando o valor da causa é muito baixo e, além disso, seja irrisório ou inestimável o proveito econômico experimentado. Caso contrário, os honorários advocatícios devem ser arbitrados a partir do valor da causa ou do proveito econômico experimentado, com obediência aos limites impostos pelo § 2º do art. 85 do CPC/2015, os quais se aplicam, inclusive, nas decisões de improcedência e quando houver julgamento sem resolução do mérito.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.187.650/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/4/2018, DJe 30/4/2018)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. CONDENAÇÃO. AUSÊNCIA. APRECIAÇÃO EQUITATIVA. IMPOSSIBILIDADE. LIMITES PERCENTUAIS. OBSERVÂNCIA. RECURSO PROVIDO.
+1. Ressalvadas as exceções previstas nos §§ 3º e 8º do art. 85 do CPC/2015, na vigência da nova legislação processual o valor da verba honorária sucumbencial não pode ser arbitrado por apreciação equitativa ou fora dos limites percentuais fixados pelo § 2º do referido dispositivo legal.
+2. Segundo dispõe o § 6º do art. 85 do CPC/2015, " o s limites e critérios previstos nos §§ 2º e 3º  do mesmo art. 85  aplicam-se independentemente de qual seja o conteúdo da decisão, inclusive aos casos de improcedência ou de sentença sem resolução de mérito".
+3. No caso concreto, ante o julgamento de improcedência dos pedidos deduzidos em reconvenção, não se tratando de demanda de valor inestimável ou irrisório, faz-se impositiva a majoração da verba honorária, estipulada em quantia inferior a 10% (dez por cento) do valor atribuído à causa.
+4. Recurso especial provido.
+(REsp 1.731.617/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/4/2018, DJe 15/5/2018)
+Ante o exposto, dou provimento ao recurso especial, para restabelecer os honorários sucumbenciais fixados pela sentença.
+Publique-se.
