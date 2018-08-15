@@ -1,0 +1,39 @@
+DECISÃO
+1. Trata-se de agravo interposto por CONDOMINIO COSTAO DAS TARTARUGAS contra decisão que inadmitiu recurso especial, com fulcro no art. 105, III, "a", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de São Paulo, integrado pelo proferido em sede de embargos de declaração, assim ementado:
+DESPESAS DE CONDOMÍNIO. AÇÃO DE COBRANÇA. INCOMPETÊNCIA TERRITORIAL DO JUÍZO NÃO ARGUIDA OPORTUNAMENTE, PELA RÉ, POR MEIO EXCEÇÃO (ART. 95, PARTE FINAL, E ART. 112, AMBOS DO CPC DE 1973, VIGENTE À ÉPOCA). PRELIMINAR REJEITADA. JUROS MORATÓRIOS. POSSIBILIDADE DE FIXAÇÃO, NA CONVENÇÃO DO CONDOMÍNIO, DE JUROS MORATÓRIOS ACIMA DE 1% AO MÊS EM CASO DE INADIMPLEMENTO DAS TARIFAS CONDOMINIAIS, OBSERVANDO-SE, CONTUDO, O TETO ESTABELECIDO NA LEI DE USURA. JUROS MORATÓRIOS FIXADOS EM 2% AO MÊS. SENTENÇA MANTIDA. RECURSO NÃO PROVIDO.
+
+Nas razões do especial, alega-se violação do art. 1.336, § 1º, do Código Civil. Aduz o recorrente que o STJ admite a cobrança de juros moratórios acima do percentual de 1%, bastando, para tanto, previsão expressa acordada na convenção de condomínio. Afirma que por decisão de Assembléia Geral Extraordinária-AGE, definiu-se o aumento dos juros de mora para 6% ao mês em caso de inadimplemento do condômino em relação às tarifas condominiais.
+Decido.
+2. A irresignação merece ser acolhida.
+De fato, o Tribunal Estadual ao analisar a controvérsia dispôs que a fixação dos juros convencionados na Ata de Assembléia Geral Extraordinária no percentual de 6% ao mês não podem prosperar, pois são abusivos e ofendem a Lei da Usura. Assim, entende que os juros em caso de inadimplemento das tarifas condominiais devem ser de 2% ao mês.
+A propósito, colho o seguinte excerto do acórdão recorrido:
+"(..) Dos autos (Ata de Assembleia Geral Extraordinária fls. 24 e seguintes), extrai-se que foram convencionados juros simples de 6% ao mês em caso de inadimplemento do condômino em relação às tarifas condominiais.
+Ressalta-se que, nos termos do § 1º do art. 1.336 do Código Civil, que estabelece que "o condômino que não pagar a sua contribuição ficará sujeito aos juros moratórios convencionados ou, não sendo previstos, os de um por cento ao mês e multa de até dois por cento sobre o débito", pode a convenção prever pagamento de juros convencionados acima ou abaixo dos legais, sem a limitação do art. 406, do mesmo Código.
+No entanto, os juros de mora de 6% ao mês são abusivos e de natureza expropriatória, afrontando o artigo 1º da Lei da Usura (Decreto nº 22.626 de 07/04/33) que estabelece que:
+Art. 1º. É vedado, e será punido nos termos desta lei, estipular em quaisquer contratos taxas de juros superiores ao dobro da taxa legal (Código Civil, art. 1062).
+Assim, embora o artigo 1.336, §1º, do Código Civil admita a convenção sobre a taxa de juros, não obstante, deve-se observar que o artigo 1º da Lei de Usura que estabelece o teto máximo de sua cobrança, de modo que se limite ao patamar de 2% ao mês, que é o dobro da taxa legal prevista nos artigos 406 e 1.336, §1º, ambos do Código Civil, em outros termos, o dobro da taxa de 1% em vigor para a mora no caso de pagamento de impostos à Fazenda Nacional, segundo regra do art. 161, §1º, do Código Tributário Nacional.
+Portanto, no presente caso, a aplicação de juros moratórios deve observar o teto máximo permitido de 2% ao mês." (fl. 175).
+2.1 Entretanto, acerca dos juros moratórios, esta Corte tem entendimento no sentido de que o condômino em mora ficará sujeito aos juros moratórios convencionados ou, não sendo previstos, os de 1% (um por cento) ao mês.
+Nesse sentido, confira os precedentes:
+RECURSO ESPECIAL. DIREITO CONDOMINIAL. DEVEDOR DE COTAS CONDOMINIAIS ORDINÁRIAS E EXTRAORDINÁRIAS. CONDÔMINO NOCIVO OU ANTISSOCIAL. APLICAÇÃO DAS SANÇÕES PREVISTAS NOS ARTS. 1336, § 1º, E 1.337, CAPUT, DO CÓDIGO CIVIL. POSSIBILIDADE. NECESSIDADE DE CONDUTA REITERADA E CONTUMAZ QUANTO AO INADIMPLEMENTO DOS DÉBITOS CONDOMINIAIS. INEXISTÊNCIA DE BIS IN IDEM. RECURSO NÃO PROVIDO.
+1. De acordo com o art. 1.336, § 1º, do Código Civil, o condômino que não pagar a sua contribuição ficará sujeito aos juros moratórios convencionados ou, não sendo previstos, os de 1% (um por cento) ao mês e multa de até 2% (dois por cento) sobre o débito.
+2. O condômino que deixar de adimplir reiteradamente a importância devida a título de cotas condominiais poderá, desde que aprovada a sanção em assembleia por deliberação de 3/4 (três quartos) dos condôminos, ser obrigado a pagar multa em até o quíntuplo do valor atribuído à contribuição para as despesas condominiais, conforme a gravidade da falta e a sua reiteração.
+3. A aplicação da sanção com base no art. 1.337, caput, do Código Civil exige que o condômino seja devedor reiterado e contumaz em relação ao pagamento dos débitos condominiais, não bastando o simples inadimplemento involuntário de alguns débitos.
+4. A multa prevista no § 1º do art. 1.336 do CC/2002 detém natureza jurídica moratória, enquanto a penalidade pecuniária regulada pelo art. 1.337 tem caráter sancionatório, uma vez que, se for o caso, o condomínio pode exigir inclusive a apuração das perdas e danos.
+5. Recurso especial não provido. (REsp 1247020/DF, de minha relatoria, QUARTA TURMA, julgado em 15/10/2015, DJe 11/11/2015) - g.n.
+____________
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. 1. ARTS. 165, 458 E 535 DO CPC. NÃO VIOLADOS. 2. JUROS MORATÓRIOS. CONVENÇÃO CONDOMINIAL. MULTA MORATÓRIA. REDUÇÃO. INVIABILIDADE. MATÉRIAS FÁTICAS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. 3. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não há ofensa ao art. 535 do CPC, pois o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+2. O Tribunal de origem por ocasião do julgamento do recurso examinou as questões, embora de forma contrária à pretensão dos recorrentes, não existindo omissão a ser sanada.
+3. Quanto à incidência dos juros moratórios, dada sua natureza indenizatória, estes devem incidir, conforme fixados em convenção de condomínio (no caso 1% ao mês), a partir do vencimento de cada prestação.
+4. É vedado, em recurso especial, o reexame das circunstâncias fáticas da causa, ante o disposto no enunciado n. 7 da Súmula do STJ: "A pretensão de simples reexame de provas não enseja recurso especial".
+5. Agravo regimental improvido. (AgRg no AREsp 491.182/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 1º/9/2016, DJe de 08/9/2016).
+____________
+CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONFLITO DE LEIS NO TEMPO. TAXAS CONDOMINIAIS. JUROS MORATÓRIOS ACIMA DE 1% AO MÊS. PREVISÃO NA CONVENÇÃO DO CONDOMÍNIO. POSSIBILIDADE.
+1. Em face do conflito de leis no tempo e, conforme prevê o art. 2º, § 1º, da LICC, os encargos de inadimplência referentes às despesas condominiais devem ser reguladas pela Lei 4.591/64 até 10 de janeiro de 2003 e, a partir dessa data, pelo Código Civil/02.
+2. Após o advento do Código Civil de 2002, é possível fixar na convenção do condomínio juros moratórios acima de 1% (um por cento) ao mês em caso de inadimplemento das taxas condominiais.
+3. Recurso especial provido. (REsp 1.002.525/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 16/9/2010, DJe de 22/9/2010).
+Assim, verifica-se que, após o advento do Código Civil de 2002, é possível fixar na convenção do condomínio juros moratórios acima de 1% (um por cento) ao mês em caso de inadimplemento das taxas condominiais.
+3. Ante o exposto, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, a fim de permitir a aplicação dos juros moratórios no percentual fixado no regimento condominial.
+A recorrida arcará com os honorários advocatícios fixados em 10% sobre o valor da condenação.
+Publique-se. Intimem-se.
