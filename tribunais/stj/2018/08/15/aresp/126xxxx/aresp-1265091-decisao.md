@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BRUNO RENNER DE OLIVEIRA contra decisão do Tribunal de Justiça do Distrito Federal e dos Territórios que não admitiu seu recurso especial.
+Depreende-se dos autos que o agravante "cumpria pena de 11 (onze) anos e 09 (nove) meses de reclusão, em regime fechado, pela prática dos crimes de tráfico de drogas (1ª e 2ª execuções da conta de liquidação de fls. 06/06v). No curso do cumprimento da pena, foi apensada nova execução, cuja condenação impôs a pena de 02 (dois) anos e 04 (quatro) meses de reclusão pelo crime de uso de documento falso (3ª execução). As sanções foram unificadas no regime fechado e a MMª Juíza considerou a data do recolhimento do apenado para o cálculo de novos benefícios" (e-STJ fl. 41).
+Dessa decisão, o Ministério Público interpôs recurso de agravo em execução, que foi provido pelo Tribunal de origem, "para fixar a data do trânsito em julgado da última condenação apensada (09/03/2017) como data-base para a concessão de novos benefícios, exceto livramento condicional, indulto e comutação de pena" (e-STJ fl. 49).
+Eis a ementa do referido acórdão (e-STJ fl. 39):
+RECURSO DE AGRAVO. EXECUÇÃO PENAL.CONDENAÇÃO SUPERVENIENTE. DATA-BASE PARA CONCESSÃO DE BENEFÍCIOS. PLEITO MINISTERIAL. DATA DO TRÂNSITO EM JULGADO DA NOVA CONDENAÇÃO. ENTENDIMENTO CONSOLIDADO DO SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO CONHECIDO E PROVIDO.
+1. Segundo a jurisprudência consolidada no âmbito do Superior Tribunal de Justiça, adotada por esta egrégia Turma, sobrevindo nova condenação no curso da execução, seja por fato anterior, seja por fato posterior, deve ser realizada a unificação das penas e considerada a data do trânsito em julgado da nova condenação como marco para a concessão de novos benefícios.
+2. Recurso conhecido e provido para fixar a data do trânsito em julgado da última condenação apensada como data-base para a concessão de novos benefícios, exceto livramento condicional, indulto e comutação de pena.
+Irresignada, a defesa interpôs recurso especial, apontando violação ao disposto no art. 111, parágrafo único, c/c o art. 118, II, ambos da Lei de Execução Penal. Requereu o restabelecimento da decisão do Juízo de primeira instância.
+Contrarrazões às e-STJ fls. 72/75.
+Inadmitido o recurso na origem, os autos subiram a esta Corte por força de agravo.
+É o relatório.
+Decido.
+Suficientemente impugnados os fundamentos da decisão de inadmissibilidade do recurso especial e presentes os pressupostos processuais, conheço do agravo.
+Assiste razão ao agravante.
+Isso porque a Terceira Seção desta Corte Superior de Justiça, recentemente, ao julgar o Habeas Corpus n. 381.248/MG (relator para acórdão o Ministro Sebastião Reis Júnior), pacificou o entendimento de que "inexiste respaldo legal para a alteração da data-base a fim da concessão de futuros benefícios na execução em razão da unificação das penas", acarretando "evidente excesso de execução a desconsideração do tempo de prisão antes do trânsito em julgado da nova condenação".
+Trago à colação a ementa do precitado julgado:
+HABEAS CORPUS SUBMETIDO À TERCEIRA SEÇÃO. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DE NOVA SENTENÇA CONDENATÓRIA. TERMO INICIAL PARA CONCESSÃO DE FUTUROS BENEFÍCIOS. AUSÊNCIA DE PREVISÃO LEGAL PARA ALTERAÇÃO DA DATA-BASE.
+1. A superveniência de nova condenação no curso da execução penal enseja a unificação das reprimendas impostas ao reeducando. Caso o quantum obtido após o somatório torne incabível o regime atual, está o condenado sujeito à regressão a regime de cumprimento de pena mais gravoso, consoante inteligência dos arts. 111, parágrafo único, e 118, II, da Lei de Execução Penal. Em vez de haver o cumprimento progressivo de cada pena individualmente, há a soma do total de penas a serem cumpridas para que o apenado as cumpra de forma conjunta.
+2. Inexiste respaldo legal para a alteração da data-base a fim da concessão de futuros benefícios na execução em razão da unificação das penas.
+3. A execução da pena não se inicia apenas com a superveniência do título judicial exequível. Já se admite a execução provisória nas hipóteses de existência de prisão cautelar e, atualmente, quando há a confirmação da condenação pelo Tribunal de Justiça/Tribunal Regional e não há prisão preventiva.
+4. Acarreta evidente excesso de execução a desconsideração do tempo de prisão antes do trânsito em julgado da nova condenação.
+5. Ordem concedida, de ofício, para cassar o acórdão proferido no agravo em execução penal e restabelecer a decisão do Juízo da execução, proferida em 4/3/2016. (HC 381.248/MG, Terceira Seção, Rel. Ministra Maria Thereza de Assis Moura, Relator p/ acórdão Ministro Sebastião Reis Junior, DJe 2/4/2018, grifei.)
+Ante o exposto, tendo em vista que o entendimento consignado pelo Tribunal de origem destoa da orientação firmada neste Tribunal Superior, conheço do agravo, para dar provimento ao recurso especial, restabelecendo a decisão de primeira instância.
+Publique-se. Intimem-se.
