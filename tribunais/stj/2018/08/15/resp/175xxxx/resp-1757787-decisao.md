@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial, interposto por ROBERTO THIESEN, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fls. 378/382, e-STJ):
+PROCESSUAL CIVIL. COBERTURA SECURITÁRIA. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA SUCUMBÊNCIA E DA CAUSALIDADE.
+FIXAÇÃO. CRITÉRIOS.
+1. Pelo princípio da causalidade, aquele que deu causa à propositura da demanda ou à instauração de incidente processual deve responder pelas despesas daí decorrentes.
+2.Verificando-se a fixação da verba advocatícia em patamar exorbitante, tendo em vista a natureza da demanda, o trabalho realizado pelo advogado e o tempo de tramitação, poderá, em vez de ser arbitrado sobre o valor da causa ou da condenação, ser fixado montante segundo o critério de equidade.
+Nas razões do recurso especial (fls. 393/398, e-STJ), o recorrente aponta, além de dissídio jurisprudencial, ofensa ao art. 85, § 2º, do CPC/15. Sustenta, em suma, ser equivocada a redução da verba honorária com base em critérios de equidade (art. 85, § 8º, do CPC/15), na medida em que este só deve ser aplicado quando irrisório ou inestimável o proveito econômico, ou ainda, quando o valor da causa for muito baixo.
+Alega que a novel legislação processual civil estabelece que os honorários advocatícios devem observar o limite de 10% (dez por cento) e 20% (vinte por cento), sobre o valor da causa ou da condenação, como no presente caso.
+Sem contrarrazões, e após decisão de admissão do recurso especial (fl. 414, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+A irresignação merece prosperar.
+1. De início, consigne-se que a decisão recorrida foi publicada após a entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 2015, conforme Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Versa a presente demanda, na origem, sobre ação de indenização securitária e repetição de indébito, com pedido de tutela de urgência, ajuizada pelo ora recorrente em face de Caixa Seguros S/A e Caixa Econômica Federal, a qual foi julgada extinta, sem resolução de mérito, ante a perda do interesse de agir da parte autora, em razão de "reconhecimento administrativo superveniente do pedido administrativo posteriormente ao ajuizamento da ação" (fl. 338, e-STJ).
+Com amparo no princípio da causalidade, houve por bem o magistrado de primeiro grau condenar a referida Empresa Pública Federal a pagar os honorários advocatícios sucumbenciais, os quais foram fixados em 10% (dez por cento) sobre o valor da causa, com amparo no art. 85, § 2º, do CPC/15.
+Em julgamento proferido em sede de recurso de apelação, concluiu a Corte de origem "que o valor arbitrado a título de honorários advocatícios se revela excessivo, tendo em vista a natureza da demanda, o reconhecimento superveniente do pedido administrativo e a célere tramitação do feito, eis que decorreram aproximadamente quatro meses entre o ajuizamento e a prolação da sentença" (fl. 381, e-STJ).
+Assim, com amparo na regra prevista no art. 85, § 8º, do CPC/15, reduziu a verba honorária, por meio de apreciação equitativa, para R$ 10.000,00 (dez mil reais).
+Todavia, segundo preceitua a rera prevista no § 8º do art. 85 do NCPC, "nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, o juiz fixará o valor dos honorários por apreciação equitativa, observando o disposto nos incisos do § 2º".
+Na linha da orientação jurisprudencial adotada por esta Casa, "o § 8º do art. 85 do NCPC somente será aplicável nas causas em que for impossível atribuir valor ao bem jurídico pleitado." (EDcl no AREsp 737.982/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 22/08/2017, DJe 04/09/2017).
+No caso dos autos, depreende-se claramente o valor do bem jurídico envolvido na lide, qual seja R$ 229.919,30, que é também o valor da causa. Não se vislumbra, assim, nenhuma das hipóteses previstas no § 8º do artigo 85 do CPC/15 e autorizativas da fixação dos honorários por apreciação equitativa.
+Por outro lado, o § 6º do artigo 85 determina que "os limites e critérios previstos nos §§ 2º e 3º aplicam-se independentemente de qual seja o conteúdo da decisão, inclusive aos casos de improcedência ou de sentença sem resolução de mérito".
+Dessa forma, cabia o arbitramento dos honorários advocatícios sucumbenciais pela regra geral exposta no § 2º do mesmo dispositivo legal "os honorários serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa, atendidos: I - o grau de zelo do profissional; II - o lugar de prestação do serviço; III - a natureza e a importância da causa; IV - o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.", razão pela qual merece ser acolhida a irresignação.
+Confiram-se ainda as seguintes ementas:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE ACOLHIDA. ILEGITIMIDADE PASSIVA. EXTINÇÃO EM RELAÇÃO A UM SÓCIO. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. PROVEITO ECONÔMICO ESTIMÁVEL. LIMITES E CRITÉRIOS DOS §§ 2º, 3º, 4º, 5º e 6º do artigo 85 do CPC/2015. APLICABILIDADE.
+1. A controvérsia diz respeito a matéria inerente ao proveito econômico a ser considerado na fixação dos honorários advocatícios pelo acolhimento de Exceção de Pré-executividade.
+2. O artigo 85 do CPC/2015 estabelece que, nas causas em que a Fazenda Pública for parte, a fixação dos honorários observará os critérios estabelecidos nos incisos I a IV do § 2º e os percentuais delimitados no § 3º. Assevera ainda o indigitado artigo em seu § 6º que os limites e critérios previstos nos §§ 2º e 3º aplicam-se independentemente de qual seja o conteúdo da decisão, inclusive aos casos de improcedência ou de sentença sem resolução de mérito.
+ ..
+4. Verifica-se que a fixação, pelo Tribunal de origem, do valor dos honorários por apreciação equitativa, conforme determinado no § 8º do artigo 85 do CPC/2015, mostra-se inadequada.
+5. Esclareça-se que, na hipótese dos autos, não se pode falar em valor da causa muito baixo, tampouco em inestimável ou irrisório proveito econômico. Com efeito, o próprio acórdão objurgado reconheceu a existência de proveito econômico, todavia não o mensurou nos termos estabelecidos pelos §§ 3º, 4º e 5º do artigo 85 do CPC/2015. Precedentes: REsp 1.657.288/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 2/10/2017; REsp 1.671.930/SC, Rel. Ministro Og Fernandes, Segunda Turma, DJe 30/6/2017.
+6. Agravo Interno não provido.
+(AgInt no REsp 1665300/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 12/12/2017, DJe 19/12/2017)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. VIOLAÇÃO DO ART. 1.022 DO NCPC. CONTRADIÇÃO QUANTO À INCIDÊNCIA DO ART. 85, § 8º DO NCPC. CAUSA DE VALOR INESTIMÁVEL. INEXISTÊNCIA. VALOR DO BEM JURÍDICO PLEITEADO QUE PODE SER MENSURADO. INCIDÊNCIA DO ART. 85, §§ 2º E 6º DO NCPC. HONORÁRIOS ADVOCATÍCIOS FIXADOS SOBRE O VALOR ATUALIZADO DA CAUSA. EMBARGOS ACOLHIDOS, COM EFEITOS INFRINGENTES.
+ ..
+3. O § 8º do art. 85 do NCPC somente será aplicável nas causas em que for impossível atribuir valor ao bem jurídico pleitado.
+4. Consta expressamente no § 6º do art. 85 do NCPC a determinação de aplicação dos critérios previstos no § 2º nos casos de improcedência ou de sentença de resolução de mérito.
+5. Embargos de declaração acolhidos, com efeitos infringentes.
+(EDcl no AREsp 737.982/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 22/08/2017, DJe 04/09/2017)
+3. Do exposto, com amparo no art. 932 do NCPC c/a a súmula 568/STJ, dou provimento ao recurso especial a fim de restabelecer os honorários advocatícios sucumbenciais fixados pela sentença em 10% (dez por cento) sobre o valor atualizado da causa, em favor da parte ora recorrente.
+Publique-se.
+Intimem-se.
