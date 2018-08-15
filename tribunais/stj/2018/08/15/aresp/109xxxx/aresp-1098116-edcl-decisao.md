@@ -1,0 +1,10 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DIREITO À SAÚDE. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERATIVOS PELO FUNCIONAMENTO DO SISTEMA ÚNICO DE SAÚDE. PRECEDENTES DA PRIMEIRA SEÇÃO. SÚMULA 83/STJ. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. IMPOSSIBILIDADE. DECISÃO INTERLOCUTÓRIA ELEVANDO A MULTA DIÁRIA. AUSÊNCIA DE FIXAÇÃO PRÉVIA DE HONORÁRIOS. INEXISTÊNCIA DE OMISSÃO. EMBARGOS REJEITADOS.
+1. Trata-se de Embargos de Declaração opostos por [NOME] (fls. 284/285), alegando que houve omissão em estipular honorários advocatícios ao vencedor, segundo o art. 85, § 1o. do CPC/2015.
+2. Às fls. 284/285, o embargante sustenta, em síntese, que consta das contrarrazões pedido para condenação de honorários. Destarte, requer que seja sanada a omissão estipulando a condenação de honorários (fls. 284).
+3. É o relatório.
+4. Os Embargos de Declaração são modalidade recursal de integração e objetivam sanar obscuridade, contradição ou omissão, de maneira a permitir o exato conhecimento do teor do julgado. Eles não podem ser utilizados com a finalidade de sustentar eventual incorreção do decisum hostilizado ou de propiciar novo exame da própria questão de fundo.
+5. No caso, o acórdão recorrido foi proferido em sede de Agravo de instrumento, interposto contra decisão interlocutória (fls. 164), cujo objeto foi a elevação da multa diária de R$ 1.000,00 (um mil reais) para R$ 3.000,00 (três mil reais), limitada ao importe de R$ 60.000,00 (sessenta mil reais), em que não houve prévia fixação de honorários sucumbenciais. Sendo assim, não haverá majoração de honorários advocatícios (art. 85, § 11, do CPC/2015). Nesse sentido: Agint no AREsp. 1.226.043/RJ, Rel. Min. ASSUSETE MAGALHÃES, DJe 28.6.2018; EDcl nos EDcl no Agint no Resp 1.664.815/RS, Rel. Min. MAURO CAMPBELL MARQUES, DJe 27.3.2018).
+6. Desta maneira, em sendo os honorários recursais um acréscimo à verba honorária já anteriormente fixada, na inexistência dessa fixação anterior, não há falar-se em majoração.
+7. Ante o exposto, rejeitam-se os presentes Embargos de [NOME] [NOME] [NOME].
+8. Publique-se. Intimações necessárias.
