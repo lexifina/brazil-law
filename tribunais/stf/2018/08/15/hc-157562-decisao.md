@@ -1,0 +1,21 @@
+Decisão: Trata-se de habeas corpus impetrado contra acórdão proferido no âmbito do Superior Tribunal de Justiça, assim ementado (eDOC 7, p. 2):
+    “PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. PRISÃO PREVENTIVA. PERDA DO OBJETO DO WRIT. SENTENÇA CONDENATÓRIA SUPERVENIENTE QUE ADICIONOU NOVOS FUNDAMENTOS À SEGREGAÇÃO. PEDIDO PREJUDICADO. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+    I – Consoante a jurisprudência desta Corte, a sentença condenatória que mantém a prisão cautelar com adição de novos fundamentos, por constituir novo título prisional, torna prejudicada a análise de habeas corpus cuja pretensão é a desconstituição do título anterior (precedentes).
+    II – In casu, sobreveio r. sentença condenatória, a qual manteve a prisão preventiva, com adição de novo fundamento, tendo consignado o e. Magistrado processante que o ora paciente possui ‘diversos processos em andamento aina não julgados definitivamente, consoante se infere de sua considerável folha de antecedentes’. Assim, encontra-se prejudicado o pedido de revogação do decreto prisional, ante a existência de um título novo a ensejar a prisão cautelar do paciente.
+    Agravo regimental desprovido.” (grifos no original)
+    Narra o impetrante, em síntese, que: a) o paciente, ex-prefeito do Município de Marabá/SP, foi condenado pela prática do delito previsto no art. 89, caput, da Lei 8.666/93; b) durante a fase instrutória foi decretada sua prisão preventiva e, com a superveniência da condenação, mantida a segregação; c) por essa razão, o habeas corpus impetrado perante o STJ foi julgado prejudicado; d) a sentença condenatória não acrescentou qualquer fundamento para provocar a prejudicialidade do writ, subsistindo os mesmos fundamentos do decreto de prisão preventiva.
+    À vista do exposto, pugna pela concessão de liminar, a fim de que possa aguardar o julgamento da apelação em liberdade e, no mérito, o reconhecimento da ausência de elementos para a decretação da prisão cautelar.
+    É o relatório. Decido.
+    No caso dos autos, a apontada ilegalidade não pode ser aferida de pronto.
+    Com efeito, as matérias ora articuladas (ilegalidade da preventiva e da sua manutenção em sentença condenatória) não foram previamente examinadas pelo Superior Tribunal de Justiça, de modo que o conhecimento originário por esta Corte configuraria supressão de instância. Calha enfatizar que o Supremo Tribunal não detém competência para revisar, em habeas corpus e diretamente, atos jurisdicionais emanados das instâncias ordinárias:
+    “Inviável o exame das teses defensivas não analisada pelo Superior Tribunal de Justiça e pela Corte Estadual, sob pena de indevida supressão de instâncias. Precedentes.” (RHC 135.560 AgR, Rel. Min. Rosa Weber, Primeira Turma, julgado em 21.10.2016)
+    “A inexistência de manifestação do STJ sobre o mérito da impetração impede o exame da matéria por esta Corte, sob pena de incorrer-se em indevida supressão de instância, com evidente extravasamento dos limites de competência descritos no art. 102 da Constituição Federal.” (HC 135.949, Rel. Min. Ricardo Lewandowski, Segunda Turma, julgado em 04.10.2016)
+    “A supressão de instância impede o conhecimento de Habeas Corpus impetrado per saltum, porquanto ausente o exame de mérito perante a Corte Superior.” (HC 130.375 AgR, Rel. Min. Luiz Fux, Primeira Turma, julgado em 13.09.2016)
+    Ademais, o não enfrentamento da questão pelo STJ afigura-se escorreito, forte na ausência de debate do tema pelo Tribunal local. Segundo a jurisprudência do STF, o habeas corpus fica prejudicado se a sentença condenatória superveniente se vale de fundamentos diversos daqueles adotados pelo decreto de prisão preventiva, como ocorreu na espécie.
+    Nesse sentido: HC 140.312 AgR-AgR, Redator para acórdão Dias Toffoli, Segunda Turma, DJe 01.02.2018; HC 128.278, Relator Teori Zavascki, Segunda Turma, DJe 04.02.2016.
+    Posto isso, com fulcro no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se. Intime-se.
+    Brasília, 15 de agosto de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
