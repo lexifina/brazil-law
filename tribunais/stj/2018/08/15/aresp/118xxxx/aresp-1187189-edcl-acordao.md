@@ -1,0 +1,58 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. ACUMULAÇÃO DE CARGOS. AGRAVO INTERNO IMPROVIDO. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO. INEXISTENTE.
+I - Trata-se de embargos de declaração opostos contra acórdão que desproveu agravo interno.
+II - Os aclaratórios somente são cabíveis para a modificação do julgado que se apresentar omisso, contraditório ou obscuro, bem como para sanar possível erro material existente na decisão, o que não aconteceu no caso dos autos.
+III - Embargos de declaração não se prestam ao reexame de questões já analisadas, com o nítido intuito de promover efeitos modificativos ao recurso, quando a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+IV - Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, rejeitou os embargos de declaração, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes e Mauro Campbell Marques votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, a Sra. Ministra Assusete Magalhães.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de embargos de declaração contra acórdão que julgou agravo interno, que passo a relatar.
+O recurso especial é fundado no art. 105, III, a, da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim ementado (fl. 341):
+CUMULAÇÃO DE CARGOS DE PROFISSIONAL DE SAÚDE ANTERIOR À EMENDA CONSTITUCIONAL N. 34/01. ENFERMEIRO. POSSIBILIDADE.
+Hipótese na qual o impetrante acumula dois cargos públicos de enfermeiro há mais de vinte e cinco anos, e já teve reconhecida a legalidade da cumulação. O comando do art. 17, § 2º do ADCT deve ser interpretado em conjunto com o inciso XVI do art. 37, XVI, "c" da Constituição Federal, com a redação dada pela EC nº 34/01, que admite a cumulação de dois cargos ou empregos privativos de profissionais de saúde, com profissões regulamentadas, desde que haja compatibilidade de horários. Consoante documentação anexada, a compatibilidade de horários é observada.
+ Remessa e apelo desprovidos.
+Naquela decisão, tendo como pano de fundo a legislação que regulamenta o tema, foi decidido que o servidor faz jus à acumulação, eis que não se vislumbra violação normativa no caso em comento.
+No recurso especial, o agravante aponta violação do art. 118, caput, e §§1º e 2º, da Lei nº 8112/1990.
+Sustenta, em síntese, que a acumulação de cargos pleiteada encontra-se em desacordo com o mencionado dispositivo infraconstitucional, sob o fundamento de flagrante excesso de carga horária semanal.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido (fls. 360-371).
+O recurso especial foi inadmitido com fundamento da incidência da Súmula 7 do STJ, in verbis: " A pretensão de simples reexame de prova não enseja Recurso Especial".
+A decisão monocrática tem o seguinte dispositivo:
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, c, do RI/STJ, conheço do agravo para dar provimento ao recurso especial, para considerar ilegal a acumulação de cargos públicos quando a jornada semanal total ultrapassar o limite de 60 (sessenta) horas semanais, sem prejuízo de ser oportunizado ao recorrido, dentro das possibilidades legais, a redução da carga horária para adequação ao limite suprarreferido.
+Interposto agravo interno, foi julgado conforme a seguinte ementa do acórdão:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. ACUMULAÇÃO DE CARGOS. ENFERMEIRO. LIMITE DE HORAS. ACÓRDÃO EM CONFRONTO COM A JURISPRUDÊNCIA DO STJ.
+I - Como a decisão recorrida foi publicada sob a égide da legislação processual civil anterior, observam-se em relação ao cabimento, processamento e pressupostos de admissibilidade dos recursos, as regras do Código de Processo Civil de 1973, diante do fenômeno da ultratividade e do Enunciado Administrativo n. 2 do Superior Tribunal de Justiça.
+II - Na origem, cuida-se de mandado de segurança contra ato administrativo imputado ao Diretor-Geral do Hospital Federal dos Servidores do Estado, impelindo a autoridade apontada como coatora a se abster de qualquer ato que venha a restringir a acumulação remunerada de cargo público.
+III - A parte impetrante é servidor público, área enfermagem, ocupante de cargo no Hospital Federal dos Servidores do Estado, e também na Secretaria Municipal de Saúde do Rio de Janeiro, vinculada ao Ministério da Saúde.
+IV - Narra, ainda, que há compatibilidade de horário entre os cargos públicos ocupados, não sendo o caso de limitar a acumulação que já vem ocorrendo há mais de 25 anos.
+V - O Tribunal de Origem manteve a concessão do writ (fls. 338-339): "Ademais, consoante os documentos (fls. 25/26, 34, 38, 42/43 e 54) acostados aos autos, tal cumulação ocorre ao longo de mais de duas décadas, e não se vislumbra ofensa ao artigo 14 da Lei nº 7.394/85. Portanto, cabe ser reconhecido o enquadramento da situação do impetrante na regra constante no art. 17, § 2º do ADCT da Constituição Federal de 1988, bem como no art. 37, XVI, alínea "c", com a redação dada pela Emenda Constitucional nº 34/01 da mesma Carta, e artigos 118 a 120 da Lei nº 8.112/90, tendo em vista a compatibilidade de horários. E, em conseqüência, no caso, é lícita a acumulação dos cargos"
+VI - A Primeira Seção do Superior Tribunal de Justiça reconheceu a impossibilidade de cumulação de cargos de profissionais da área de saúde quando a jornada de trabalho superar 60 horas semanais. Isso porque, apesar de a Constituição Federal permitir a acumulação de dois cargos públicos privativos dos profissionais de saúde, deve haver, além da compatibilidade de horários, observância ao princípio constitucional da eficiência, o que significa que o servidor deve gozar de boas condições físicas e mentais para exercer suas atribuições. Nesse sentido: AgRg nos EDcl nos EDcl no AREsp 744.887/SC, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, julgado em 17/05/2016, DJe 23/05/2016; MS 22.002/DF, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 09/12/2015, DJe 17/12/2015; REsp 1565429/SE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 24/11/2015, DJe 04/02/2016; AgRg no REsp 1490747/SE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 05/11/2015, DJe 19/11/2015; AgRg no REsp 1558204/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 27/10/2015, DJe 09/11/2015.
+VII - No caso em discussão, e nos termos do acórdão recorrido, verifica-se que acumulação de cargos gera uma carga de trabalho de 70 (setenta) horas semanais, o que torna impossível o desempenho laboral com eficiência e destreza, à luz do entendimento firmado por esta Corte.
+VIII - Diante disso, não se vislumbra o direito líquido e certo à acumulação de cargos, conforme advoga a parte ora recorrente, o que não impede seja oportunizado - dentro das possibilidades legais -, a redução da carga horária, para adequação ao limite de 60 horas.
+IX - Correta a decisão que deu provimento ao recurso especial, para considerar ilegal a acumulação de cargos públicos quando a jornada semanal total ultrapassar o limite de 60 (sessenta) horas semanais, sem prejuízo de ser oportunizado, dentro das possibilidades legais, a redução da carga horária para adequação ao limite suprarreferido.
+X - Agravo interno improvido.
+Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado.
+É o relatório
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida" (EDcl no MS 21.315/DF, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), PRIMEIRA SEÇÃO, julgado em 08/06/2016, DJe 15/06/2016).
+É vedado a esta Corte, na via especial, apreciar eventual ofensa à matéria constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal. Precedentes: EDcl nos EDcl no AgRg no AREsp 575.787/DF, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/12/2017, DJe 19/12/2017; AgInt nos EDcl nos EDcl no REsp 1.677.316/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 5/12/2017, DJe 14/12/2017; EDcl no AgInt no REsp 1.294.078/DF, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 28/11/2017, DJe 5/12/2017.
+A parte embargante desenvolve, nos embargos, razões com a nítida intenção de reforma do julgado. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp 166.402/PE, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 15/3/2017, DJe 29/3/2017).
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl 8.826/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 15/2/2017, DJe 15/3/2017).
+Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre o qual o juiz de ofício ou a requerimento devia-se pronunciar, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
