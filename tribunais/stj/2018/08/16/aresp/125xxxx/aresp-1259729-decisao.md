@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão do Tribunal de Justiça do Estado de Tocantins, que não admitiu o recurso especial manejado com apoio no art. 105, III, "a", da Constituição Federal, em oposição a acórdão assim ementado:
+"APELAÇÃO CRIMINAL. CRIME CONTRA O PATRIMÔNIO. PORTE DE ARMA DE FOGO. DOSIMETRIA DA PENA. CIRCUNSTÂNCIAS JUDICIAIS. FUNDAMENTAÇÃO IDÔNEA. PENA MANTIDA. 1- A valoração negativa e devidamente fundamentada de circunstâncias judiciais, justifica a fixação da pena-base, acima do mínimo. 2- Recurso conhecido, mas não provido." (e-STJ, fl. 153).
+A defesa aponta negativa de vigência aos arts. 59 e 68 do Código Penal. Sustenta, em síntese, a necessidade de redução da pena-base no mínimo legal, com decote da culpabilidade e da conduta social.
+Foram apresentadas as contrarrazões (e-STJ, fls. 172-177).
+O recurso foi inadmitido em razão da aplicação do óbice da Súmula 7/STJ (e-STJ, fls. 179-184). Daí este agravo (e-STJ, fls. 199-208).
+O Ministério Público Federal manifestou-se pelo provimento do agravo (e-STJ, fls. 231-238).
+É o relatório.
+Decido.
+No que se refere à suscitada violação do art. 59 do Código Penal, convém destacar que a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+Confira-se a dosimetria da pena formulada pelo Tribunal de origem:
+"A insurgência do Recorrente limita-se ao quantum da pena imposta, ao argumento de que as circunstâncias da culpabilidade e da conduta social do agente não foram idoneamente valoradas.
+Assim, requer a fixação da respectiva pena-base no mínimo legal, em virtude de o magistrado a quo ter valorado equivocadamente as circunstâncias judiciais da culpabilidade e conduta social.
+In casu, consoante se extrai da sentença combatida, a culpabilidade restou assim fundamentada:
+Assim, verifica-se que, in casu, o réu agiu com culpabilidade reprovável, pois ele transitava no Bairro Araguaína Sul, local extremamente vulnerável na cidade de Araguaína-TO, em especial, pelos inúmeros crime que ali acontecem todos os dias relacionados ao tráfico de drogas, com uma arma de fogo, demonstrando um total destemor (desfavorável).
+ ..
+Na espécie, considero a culpabilidade do réu desfavorável, como acertadamente fundamentado pelo magistrado, pois este portava arma em lugar conhecidamente destinado à prática de crime, a revelar que, não obstante a vulnerabilidade do local, apresentou-se portando arma de fogo, o que demonstra maior censurabilidade no modus operandi.
+Evidente, no caso, maior grau de censurabilidade e reprovabilidade da conduta do agente.
+Na análise da conduta social, assim fundamentou:
+No caso, o réu [NOME], disse ser lavrador, porém não trouxe aos autos nenhuma comprovação da sua função profissional, por exemplo, uma prova testemunhal, um contrato de trabalho, etc., o que faz ser sua pessoa entregue ao ócio. Assim, o sentenciado é possuidor de má conduta social, uma vez que no campo laboral, direciona ser uma pessoa não voltada a trabalho.
+Portanto, com relação à conduta social, novamente obrou com acerto o juiz a quo, pois o Apelante não comprovou ter qualquer atividade cotidiana lícita e, aliado à natureza do crime ora perpetrado, estampa uma conduta social inadequada, razão pela qual foi fundamentadamente considerada desfavorável.
+Nesse sentido, do próprio compulsar das razões recursais é possível abstrair que a conduta social do Apelante foi analisada em estrita observância dos parâmetros estabelecidos pelo art. 59 do Código Penal, e de acordo com os três fatores que fazem parte da vida em comunidade de qualquer pessoa, quais sejam: sua convivência em família, o trabalho e religião.
+Sendo reprovável o seu comportamento no meio social, familiar e profissional, não há como fazer vista grossa a tais circunstâncias." (e-STJ, fls. 148-150).
+Verifica-se, no caso, que o magistrado não ofereceu razões idôneas para a elevação da pena-base.
+Em que pese a existência de certo grau de discricionariedade do julgador no cálculo da pena, observa-se que as instâncias ordinárias se valeram de dados genéricos e próprios do tipo penal para se aferir desfavoravelmente o vetor referente à culpabilidade, o que é vedado conforme reiterada jurisprudência desta Corte.
+Nesse sentido:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ROUBO. AUMENTO DA PENA-BASE. POSSIBILIDADE. CIRCUNSTÂNCIAS NEGATIVAS. EMPREGO DE VIOLÊNCIA QUE EXTRAVASA O TIPO PENAL. MAJORANTES DO ROUBO. ALEGAÇÃO DE BIS IN IDEM. NÃO VERIFICAÇÃO. PENA-BASE EXASPERADA PELO MODUS OPERANDI (SOCOS NA FACE) E NÃO PELAS MAJORANTES. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. A dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+3. Nesse contexto, elementos próprios do tipo penal, alusões à potencial consciência da ilicitude, à gravidade do delito, ao perigo da conduta, à busca do lucro fácil e outras generalizações sem suporte em dados concretos não podem ser utilizados para aumentar a pena-base.
+ ..
+6. Habeas corpus não conhecido."
+(HC 377.234/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2016, DJe 1/2/2017);
+"RECURSO ESPECIAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O NARCOTRÁFICO. LEI ESTADUAL. COMPETÊNCIA PARA O PROCESSAMENTO E JULGAMENTO DE DELITOS PRATICADOS POR ORGANIZAÇÃO CRIMINOSA. ORGANIZAÇÃO CRIMINOSA VOLTADA AO TRÁFICO DE DROGAS. CONFIGURAÇÃO. DOSIMETRIA. PENA-BASE. ELEMENTOS INERENTES AO PRÓPRIO TIPO PENAL VIOLADO. IMPOSSIBILIDADE. INTERESTADUALIDADE DO DELITO. QUANTUM DE AUMENTO DE PENA. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+ ..
+5. O fato de o recorrente ter agido "com plena consciência" não justifica a exasperação da pena-base, porquanto a potencial consciência da ilicitude diz respeito à culpabilidade em sentido estrito, assim definida como elemento integrante da estrutura do crime, em sua concepção tripartida, e não à culpabilidade em sentido lato, a qual se refere à maior ou à menor reprovabilidade do agente pela conduta delituosa praticada.
+6. A busca pelo lucro fácil e o enriquecimento sem causa constituem elementos inerentes ao próprio tipo penal violado, qual seja, o tráfico de drogas, de modo que não justificam a exasperação da pena-base.
+7. A desestabilidade social e os malefícios gerados pelo narcotráfico à sociedade como um todo também são elementos inerentes ao próprio tipo penal violado, que servem, portanto, para qualquer delito de tráfico de drogas abstratamente considerado.
+8. É dever do magistrado sentenciante demonstrar, com base em fundamentos concretos do caso, os motivos pelos quais estabeleceu a exasperação da reprimenda, em decorrência das causas especiais de aumento, em fração acima do percentual mínimo de 1/6, sob pena de ofensa ao preceito contido no art. 93, IX, da Constituição Federal.
+9. Recurso especial parcialmente provido para: a) reconhecer a apontada violação do art. 59 do Código Penal e, assim, reduzir em parte a pena-base do recorrente, em relação a ambos os delitos; b) reconhecer a mencionada violação do art. 40, V, da Lei n. 11.343/2006 e, por conseguinte, estabelecer a fração mínima de 1/6 de aumento de pena, em razão da interestadualidade dos delitos, tornando a reprimenda do recorrente definitiva em 11 anos, 2 meses e 5 dias de reclusão e pagamento de 1.580 dias-multa, já observado o concurso material."
+(REsp 1474053/AL, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 7/5/2015, DJe 15/5/2015).
+Por fim, o juiz sentenciante utilizou fundamento inidôneo para negativar a conduta social. Como já bem decidiu este Tribunal Superior, "O fato de os pacientes não trabalharem, por si só, não evidencia a negatividade das circunstâncias judiciais da conduta social e da personalidade, tendo em vista que a falta de emprego, diante da realidade social brasileira, é infortúnio, e não algo tencionado. (HC 165.806/MT, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 15/02/2011, DJe 09/03/2011).
+Passa-se à nova dosimetria da pena:
+Diante da inexistência de circunstâncias judiciais desfavoráveis, fixo a pena-base em 2 anos de reclusão. Na segunda fase, compenso a agravante da reincidência com a atenuante da confissão. Na terceira fase, inexistem causas de aumento e diminuição, ficando a pena definitivamente estabelecida em 2 anos de reclusão. O regime inicial para cumprimento da reprimenda será o semiaberto.
+Ante o exposto, com fulcro no art. 932, VIII, do CPC, c/c art. 253, parágrafo único, II, "c", do RISTJ, conheço do agravo, para dar provimento ao recurso especial, a fim fixar a pena em 2 anos de reclusão, em regime semiaberto, mantendo-se, no mais, o acórdão recorrido.
+ Publique-se. Intimem-se.
