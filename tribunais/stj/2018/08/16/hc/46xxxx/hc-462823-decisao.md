@@ -1,0 +1,27 @@
+DECISÃO
+1. Trata-se de habeas corpus no qual se pretende a revisão de decisão monocrática de Integrante do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que indeferiu pleito liminar em writ impetrado na mencionada Corte.
+Argumenta-se, em suma, a existência de evidente ilegalidade e arbitrariedade, as quais, por sua vez, estariam violando o direito à livre locomoção de JULIANO BATISTA APOLINARIO, tendo em vista decisão proferida no curso da execução da pena imposta ao paciente e que lhe teria sido desfavorável.
+É o relatório.
+2. Este Superior Tribunal de Justiça, "na esteira do preceituado no Enunciado n. 691 da Súmula do Pretório Excelso, têm entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada perante os Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta" (AgRg no HC 427.758/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/03/2018, DJe 27/03/2018).
+Nesse sentido:
+PROCESSUAL PENAL. HABEAS CORPUS. INDEFERIMENTO DE LIMINAR NA ORIGEM. NÃO CABIMENTO. SUPERAÇÃO DO ENUNCIADO N. 691 DA SÚMULA DO STF. IMPOSSIBILIDADE. ILEGALIDADE OU TERATOLOGIA. INOCORRÊNCIA. REITERAÇÃO DE PEDIDO. AGRAVO REGIMENTAL DESPROVIDO.
+I - Não se admite, em princípio, a impetração de habeas corpus contra decisão que denega pedido liminar em sede de writ originário, sob pena de se configurar indevida supressão de instância, nos termos do enunciado n. 691, da Súmula do STF, ressalvadas as decisões teratológicas ou com deficiência de fundamentação.
+II -  ..
+III -  ..
+IV - Não se verifica, da análise perfunctória, própria dos pedidos liminares, a ocorrência de flagrante ilegalidade capaz de determinar o conhecimento da impetração, em afronta ao disposto na Súmula 691 do STF.
+Agravo regimental desprovido.
+(AgRg no HC 423.248/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 12/12/2017, DJe 19/12/2017)
+E, da análise da documentação acostada aos autos, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular. É que a decisão objurgada não se mostrou teratológica, restando devidamente fundamentado o indeferimento do pleito liminar, pois a autoridade tida como coatora não entendeu presentes os requisitos necessários para a concessão sumária da ordem, tecendo ainda as seguintes considerações:
+"Não estão presentes os requisitos justificadores da concessão da liminar ante o exame sumário da inicial. Tal medida só é possível quando o constrangimento ilegal é manifesto e detectado de plano, o que não ocorre no caso em apreço, sobretudo, pelo fato de o paciente ter descumprido os termos da pena restritiva de direitos imposta, conforme reconhece a própria defesa: "o que ocorreu foi que o paciente infringiu as regras impostas para o cumprimento da pena restritiva de direito, jamais as regras para cumprimento de pena restritiva de liberdade, uma vez que tal reprimenda não existia" (fl. 03).
+Ademais, em análise perfunctória, é possível vislumbrar que o conteúdo da exordial discrepa consideravelmente daquele da decisão ora guerreada (fls. 08/09). Com efeito, o impetrante alega que o ilustre Magistrado a quo determinou a conversão da pena substitutiva em restritiva de liberdade com espeque nos artigos 45, inciso II, do Código Penal, e artigo 180, § 3º da Lei de Execução Penal.
+Ora, primeiramente, constata-se sequer existir um inciso II para o artigo 45 do Código Penal, visto que tal dispositivo possui, além do caput, quatro parágrafos, sem qualquer inciso. Em segundo lugar, verifica-se que o MM.
+Juízo de piso fundamentou o r. decisum tão-somente no artigo 44, § 4º, do Código Penal:
+"Ante o exposto, com fulcro na manifestação do Ministério Público, CONVERTO as penas restritivas de direitos em privativa de liberdade, no total de um (01) ano, seis (06) meses e vinte e dois (22) dias de reclusão, a ser cumprida em regime inicial semiaberto, com fundamento no artigo 44, § 4º, do Código Penal.
+Fixado o regime semiaberto, expeça-se mandado de prisão" (fl. 09).
+Ademais, conforme se pode visualizar na decisão acima, o regime fixado (semiaberto) foi o mesmo estabelecido na sentença condenatória.
+Assim, diante do caráter relativamente confuso da narrativa exposta na inicial, melhor que a questão seja sopesada ao final, pela Egrégia Turma Julgadora, após a vinda de informações por parte do Juízo de primeiro grau, por meio das quais será possível aferir com mais exatidão a existência ou não de eventual constrangimento ilegal a ser sanado pela via do habeas corpus" (e-STJ, fls. 117/118).
+Assim, os argumentos lançados pela autoridade apontada como coatora, em cotejo com os elementos que instruem os presentes autos, autorizam a conclusão do acerto do indeferimento da medida sumária, para manter, ao menos por ora, o regime prisional imposto ao paciente.
+Além disso, mister destacar que o revolvimento dessa questão certamente acarretaria a indevida supressão de instância, pois será alvo de exame oportuno na Corte de Justiça indicada como coatora, quando do julgamento do seu mérito.
+3. Pelo exposto, indefere-se liminarmente o habeas corpus, com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.
+Após ciência do Ministério Público Federal e com o trânsito em julgado da presente decisão, arquivem-se os autos.
