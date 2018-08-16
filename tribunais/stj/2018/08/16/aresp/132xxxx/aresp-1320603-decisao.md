@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de Agravo, interposto pela UNIÃO (FAZENDA NACIONAL), em 24/11/2017, em face de decisão que negou seguimento a Recurso Especial, manejado contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+"DIREITO PROCESSUAL CIVIL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. IMPOSTO DE RENDA. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO. VERBAS RESCISÓRIAS DO CONTRATO DE REPRESENTAÇÃO COMERCIAL. NÃO INCIDÊNCIA.
+1. O mandado de segurança é ação de cunho constitucional e tem por objeto a proteção de direito líquido e certo, lesado ou ameaçado de lesão, por ato ou omissão de autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público.
+2. A Lei nº 4.886/65, alterada pela Lei nº 8.420/92, regulamenta a atividade dos Representantes Comerciais e estabelece que: exerce a representação comercial autônoma a pessoa jurídica ou a pessoa física, sem relação de emprego, que desempenha, em caráter não eventual por conta de uma ou mais pessoas, a mediação para a realização de negócios mercantis, agenciando propostas ou pedidos, para, transmiti-los aos representados, praticando ou não atos relacionados com a execução dos negócios (art. 1º).
+3. Tendo em vista que os valores em questão não podem ser classificados como lucro, afigura-se igualmente ilegítima a cobrança da Contribuição Social sobre o Lucro Líquido ([NOME]).
+4. Apelação provida" (fl. 199e).
+Sustenta a parte agravante, nas razões do Recurso Especial, interposto pela alínea a do permissivo constitucional, violação aos arts. 70, caput, da Lei 9.430/96, 43, I e II, e 111, do CTN e 681 do Decreto 3.000/99. Para tanto, afirma que:
+"O v. acórdão contrariou os seguintes dispositivos legais: art. 70, caput da Lei nº 9.430/96, art. 43, I e II e 111 do CTN e 681 do RIR (Decreto 3.000/99), conforme será demonstrado em seguida.
+III - As razões do pedido de reforma da decisão recorrida
+3.1 - Da natureza remuneratória das verbas decorrentes da rescisão unilateral do contrato de representação comercial - incidência do IRPJ e da [NOME] relatado, pretende a impetrante, representante comercial, não se sujeitar ao pagamento de IRPJ na fonte, incidente sobre valores recebidos da empresa contratante, a título de pré-aviso e de indenização, em decorrência da denúncia unilateral e sem justa causa, por parte desta, de contrato de representação comercial celebrado entre ambas.
+Dispõem, respectivamente, os artºs. 27 e 34, da Lei nº 4.886/65, com a redação dada pela Lei nº 8.420/92:
+(..)
+Ante à referência da alínea "j", do art. 27, ao art. 35, do mesmo diploma legal, oportuna também a sua citação:
+(..)
+Na hipótese presente, a rescisão do contrato ocorreu fora dos casos previstos no art. 35, a que alude a alínea "j", do art. 27, fazendo nascer para a representante comercial o direito ao pré-aviso e à indenização, conforme já reconheceu o E. Supremo Tribunal Federal:
+(..)
+Incontestável, destarte, o direito da impetrante ao recebimento dessas importâncias. Contudo, não lhe assiste razão, com relação ao pretendido afastamento da exigência do recolhimento do IRPJ, a ser retido na fonte por ocasião do pagamento a cargo da empresa contratante.
+Dispõe o § 5º, do art. 70, da Lei nº 9.430/96:
+(..)
+Por sua vez, o § 5º, do art. 681, do Decreto nº 3.000/99, que aprovou o RIR/99, tem a seguinte redação, dada pela Lei nº 9.430/96:
+(..)
+O que pretende a impetrante é isentar-se do pagamento do tributo, valendo-se das disposições do § 5º, do art. 70, da Lei nº 9.430/96, e do § 5º, do art. 681, do Decreto nº 3.000/99, acima reproduzidos, defendendo que os valores recebidos constituem "indenizações pagas ou creditadas em conformidade com a legislação trabalhista e àquelas destinadas a reparar danos patrimoniais", o que não se sustenta.
+A solução da controvérsia cinge-se à definição da natureza jurídica das importâncias recebidas e se delas houve ou não acréscimo patrimonial comprovado.
+Na espécie, o fato é que não trouxe aos autos um só documento a comprovar a relação laborai com a contratante, para ela impossível por tratar-se de sociedade comercial; nem contratação de empregados, em virtude da assinatura do contrato ou desligamento destes por demissão incentivada, em razão da denúncia do contrato; não havendo também comprovação de que os seus empregados mantivessem vínculo empregatício com a contratante.
+Muito embora a lei nomine indenizatórias as verbas rescisórias de que cuidam estes autos, o certo é que nem todas as indenizações são acobertadas pela isenção, de molde a passarem ao largo das imposições do art. 153, III, da CF/88 e do art. 43, do CTN. Confira-se:
+(..)
+À vista do alcance dos preceitos legais reproduzidos, impõe-se verificar-se, não importando o nomen juris adotado pelas leis instituidoras, se a variação monetária ocorrida em decorrência do recebimento da indenização, importou ou não acréscimo patrimonial. Em caso positivo, incidente o tributo.
+Ao que foi aduzido, a denúncia unilateral do contrato não infligiu prejuízo ao patrimônio da impetrante, o qual deva ser reparado. Assim, ante à inexistência de dano efetivo ao seu patrimônio, pelo menos não comprovado nos autos, a indenização por ela recebida assumiu feição de compensação pelos serviços contratados, os quais seriam prestados no futuro, caso não ocorresse a denúncia. Nesta hipótese, houve não a reparação de um dano, para a recomposição do patrimônio, conforme já asseverado, mas, efetivamente, acréscimo patrimonial, que deve ser oferecido à tributação, nos termos do art. 153, III, da CF/88 e do art. 43, do CTN.
+O entendimento jurisprudencial unânime sobre a matéria, manifestado pela Sexta Turma do TRF da 3ª Região e também pelo C. Tribunal Regional Federal da Quarta Região, milita nesse sentido:
+(..)
+Contrariamente ao que defende a impetrante, a hipótese não é a da isenção prevista no § 5º, do art. 70, da Lei nº 9.430/96, e no § 5º, do art. 681, do Decreto nº 3.000/99, mas de enquadramento no caput desses preceitos legais, impondo-se a tributação tal como ali estabelecida.
+Outrossim, também carece de respaldo legal a pretensão da impetrante de lançar-se mão da analogia para a solução da controvérsia, tendo em vista que, a teor do art. 111, II, do CTN, o caso é de interpretação literal da legislação tributária. Confira-se:
+(..)
+Demonstrada, assim, a violação à legislação federal que rege a incidência do IRPJ e da [NOME] sobre as verbas recebidas em virtude de rescisão unilateral de contrato de representação comercial pelo V. Acórdão ora recorrido" (fls. 204/210e).
+Requer, ao final, "observados os pressupostos de admissibilidade do presente recurso, seja o mesmo admitido e, após regular processamento, conhecido e provido pelo Colendo Superior Tribunal de Justiça, como medida de Justiça" (fl. 210e).
+Apresentadas contrarrazões (fls. 216/233e), foi o Recurso Especial inadmitido pelo Tribunal de origem (fls. 235/237e), ensejando a interposição do presente Agravo (fls. 239/243e).
+Sem razão a parte recorrente.
+Na origem, "trata-se de apelação interposta por JC PINHEIROS COMÉRCIO E REPRESENTAÇÕES LTDA., contra a r. sentença que denegou a segurança em sede de mandado de segurança impetrado objetivando afastar a exigibilidade do Imposto de Renda Pessoa Jurídica - IRPJ e da Contribuição Social Sobre o Lucro Líquido - [NOME], sobre os valores pagos em virtude de rescisão sem justa causa de contrato de representação comercial mantido com a empresa Esmaltec S/A, conforme o disposto no art. 27, j, da Lei nº 4886/65, ao fundamento de que se trata de verba indenizatória" (fl. 194e).
+Quanto à controvérsia trazida aos autos, o acórdão recorrido manifestou-se no sentido de que as verbas percebidas pela empresa Esmaltec S/A representam indenização por dano patrimonial, isentas de pagamento de Imposto de Renda, nos termos do art. 70, § 5º, da Lei 9.430/96. Para tanto, assim decidiu:
+"O mandado de segurança é ação de cunho constitucional e tem por objeto a proteção de direito líquido e certo, lesado ou ameaçado de lesão, por ato ou omissão de autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público.
+É o que se depreende da leitura do inciso LXIX, do artigo 5º da Constituição Federal: "conceder-se-á mandado de segurança para proteger direito líquido e certo, não amparável por habeas corpus ou habeas data, quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público".
+"Na categoria dos writs constitucionais constitui direito instrumental sumário à tutela dos direitos subjetivos incontestáveis contra ilegalidade ou abuso de poder de autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público". (Diomar Ackel Filho, in Writs Constitucionais, [NOME], 1988, pág 59).
+A objetividade jurídica do Mandado de Segurança está ligada ao resguardo de direitos lesados ou ameaçados por atos ou omissões de autoridades ou seus delegados, quando não amparados por habeas corpus ou habeas data.
+Merece destaque, também, a lição de Hely Lopes Meirelles: "o objeto do mandado de segurança será sempre a correção de ato ou omissão de autoridade, desde que ilegal ou ofensivo de direito individual ou coletivo, líquido e certo, do impetrante" (in Mandado de Segurança, Ação Popular, Ação Civil Pública, Mandado de Injunção, Habeas Data, 29 edição, Editora Malheiros, 2003, p39).
+A atividade dos Representantes Comerciais é regulamentada pela Lei n.º 4.886/65, alterada pela Lei n.º 8.420/92, que estabelece em seu art. 1º:
+(..)
+Referido diploma legal estabelece, outrossim, os elementos que, obrigatoriamente, devem constar do contrato de representação comercial, tais como a previsão de pagamento de indenização ao representante nos casos em que a rescisão do contrato ocorrer sem justo motivo (art. 27, letra j), bem como o pagamento de aviso prévio quando houver denúncia, de qualquer das partes do contrato, sem causa justificada (art. 34).
+O rompimento unilateral de contrato de representação comercial celebrado entre as pessoas jurídicas ensejou, no caso, o pagamento de vantagem pecuniária (indenização e aviso prévio), conforme previsto na legislação correspondente (51/52).
+Tais verbas percebidas representam indenização por dano patrimonial, isentas ao pagamento de IR nos termos da Lei n.º 9.430/96 que prevê, em seu art. 70, § 5º, in verbis:
+(..)
+Acerca da matéria, a jurisprudência do Superior Tribunal de Justiça e de Nossa Corte Regional:
+(..)
+Ilegítima, igualmente, a cobrança da Contribuição Social sobre o Lucro Líquido - [NOME], uma vez que os valores em questão não podem ser classificados como lucro.
+Isto posto, dou provimento à apelação, nos termos da fundamentação acima.
+É o voto" (fl. 195/198e).
+Desse modo, verifica-se que o Tribunal de origem não se manifestou acerca da definição da natureza jurídica das importâncias recebidas pela a referida empresa. Ressalte-se que a parte recorrente sequer opôs os Embargos Declaratórios cabíveis, para que o Tribunal de origem se pronunciasse sobre o teor da referida tese. Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o recurso especial, incidindo o teor da Súmula 282 do STF ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada").
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Pelo exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, já que, conforme orientação fixada pela Súmula 105/STJ, não é admitida a condenação ao pagamento de honorários advocatícios em Mandado de Segurança.
+I.
