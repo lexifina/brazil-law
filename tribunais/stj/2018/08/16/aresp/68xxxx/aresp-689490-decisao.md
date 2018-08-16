@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por [NOME] - ESPÓLIO. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+" NOTAS PROMISSÓRIAS. Execução. Embargos improcedentes. Insurgência. Agravos retidos não conhecidos. Ilegitimidade ativa. Preliminar que se confunde com o mérito. Títulos entregues a terceiro. Depoimento do exequente. Comparecimento. Falta. Confissão. Principal extinta. Sucumbência redistribuída. Apelo provido.
+A alegação de que as notas promissórias teriam sido entregues a terceiro é acolhida, porque o exequente deixou de comparecer à audiência, apesar de intimado, e a prova testemunhal e documental corrobora a versão da embargante" (fl. 262 e-STJ).
+Nas razões do especial, o agravante alegou violação dos seguintes dispositivos com as respectivas teses:
+a) arts. 580 e 585, I, do Código de Processo Civil de 1973 - a recorrida não produziu prova capaz de corroborar suas alegações para desconstituir os títulos de crédito. Diante de meras suposições, não há como considerá-lo parte ilegítima para promover a ação judicial onde almeja o pagamento dos títulos dos quais é portador, além de a lei ter instituído presunção de legitimidade em favor dos títulos executivos extrajudiciais, porque estes preenchem os requisitos de certeza, liquidez e exigibilidade;
+b) arts. 319 e 740 do Código de Processo Civil de 1973 - descabe a aplicação/manutenção dos efeitos da revelia em embargos à execução, pois
+"(..) tratando-se de execução de título extrajudicial, o direito da Recorrida já se encontrava devidamente comprovado, através das cédulas acostadas aos autos. Por conseguinte, a presunção existente, no caso, é em favor do exequente (embargado/ora recorrente), cabendo à executada (embargante) a comprovação da insubsistência do direito alegado, descabendo, portanto, a aplicação dos efeitos da revelia" (fl. e-STJ);
+c) arts. 8º e 56 do Decreto nº 2.044/1908 - para haver endosso, e consequente transferência de crédito, necessária a assinatura do próprio punho do endossador ou do mandatário especial, requisito inexistente nas cártulas em apreço, e
+d) art. 401 do Código de Processo Civil de 1973 - não há como ser admitida a prova testemunhal para decretar a extinção da execução, pois o valor negocial em tela é superior ao décuplo do valor do maior salário mínimo vigente no País.
+Com as contrarrazões e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+ É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Cuida-se, na origem, de embargos à execução de título extrajudicial opostos pela recorrida, ANZOLIN DISTRIBUIDORA DE ALIMENTOS LTDA., com o intuito de ver declarada a ilegitimidade ativa do ora recorrente, CÉLIO [NOME] [NOME] - ESPÓLIO, para propor a correspondente ação de execução.
+A empresa recorrida alegou que não manteve relação jurídica com o recorrente, e, sim, com o Sr. [NOME], razão pela qual as cártulas objeto da demanda foram a ele entregues, em branco, e não ao recorrente.
+O juízo de primeiro grau julgou improcedentes os embargos (sentença às fls. 222/229 e-STJ).
+Ao julgar o recurso de apelação da ora recorrida, o Tribunal de origem deu-lhe provimento, a fim de desconstituir a sentença, com o acolhimento da preliminar de ilegitimidade ativa do exequente, e, por conseguinte, extinguiu a principal.
+No tocante à ilegitimidade, à luz dos elementos de provas dos autos, a Corte estadual assim consignou:
+"(..) o fato relevante sustentado nos embargos, mais do que o pagamento parcial das notas promissórias, é que elas foram entregues a [NOME]. Em vista da falta de comparecimento do embargado para depor, faz prova da referida alegação e, em conseqüência, este é parte ilegítima para a execução. Com efeito, a pena de revelia foi aplicada no próprio termo de audiência, pois referida parte foi devidamente advertida de que seriam presumidos como admitidos os fatos contra ele alegados pela parte contrária (fls. 123, 140/141 e 166). De acrescer que esta circunstância foi corroborada quando da inquirição da testemunha Antonio Carlos Rodrigues, a qual afirmou que a ervateira trocava títulos com o terceiro ora referido (fl. 167/169).
+Neste mesmo sentido, a prova documental destacada no julgamento anterior feito nesta Instância (Ap. Civ. 2012.008531-1, j. em 9.10.2012, fl. 119), em especial o boletim de ocorrência registrado em face de [NOME], onde constou que ele foi até o estabelecimento para cobrar dívidas, inclusive com ameaça (fls. 27/28).
+A extinção da execução se insere nas disposições do artigo 267, inciso VI, do Código de Processo Civil, por falta de condição de procedibilidade, qual seja, a falta de legitimidade deduzida na preliminar.
+Em vista disso, esta é acolhida com o reconhecimento da ilegitimidade ativa de [NOME]. Em conseqüência, fica prejudicado o exame do mérito deduzido no apelo" (fls. 264/265 e-STJ).
+Rever tais conclusões demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula nº 7/STJ: "a pretensão de simples reexame de prova não enseja recurso especial".
+Ademais, alterar a conclusão da Corte local sobre a suficiência de provas demandaria o revolvimento do acervo fático-probatório dos autos, obstado no recurso especial pela Súmula nº 7/STJ.
+A propósito:
+
+""AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ARTIGO 535 DO CÓDIGO DE PROCESSO CIVIL DE 1973. VIOLAÇÃO. NÃO OCORRÊNCIA. ÔNUS DA PROVA. ARTIGO 333, INCISO I, DO CPC/1973. SÚMULA Nº 7/STJ.
+1. (..)
+2. É inviável a esta Corte a análise da suficiência das provas e da satisfação do ônus probatório das partes, haja vista a incidência do óbice da Súmula nº 7/STJ.
+3. Agravo regimental não provido"" (AgRg no AREsp 278.035/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/8/2016, DJe 25/8/2016).
+No que tange às teses de: (i) presunção de legitimidade (arts. 580 e 585, I, do CPC/1973) e (ii) descabimento da aplicação/manutenção dos efeitos da revelia em embargos à execução (arts. 319 e 740 do CPC/1973), verifica-se que não foram objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e embora opostos embargos de declaração com a finalidade de sanar omissão porventura existente, não indicou a parte recorrente a contrariedade ao art. 535 do Código de Processo Civil.
+Nessa circunstância, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.".
+Quanto às demais teses: (a) para haver endosso, e consequente transferência de crédito, necessária a assinatura do próprio punho do endossador ou do mandatário especial, requisito inexistente nas cártulas em apreço (arts. 8º e 56 do Decreto nº 2.044/1908) e (b) não há como ser admitida a prova testemunhal para decretar a extinção da execução, pois o valor negocial em tela é superior ao décuplo do valor do maior salário mínimo vigente no País (art. 401 do CPC/1973), observa-se que estas também não foram debatidas pelas instâncias ordinárias, e não foram opostos embargos declaratórios com a finalidade de sanar vício porventura existente.
+Assim, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em R$ 4.000,00 (quatro mil reais), os quais devem ser majorados para 5.000,00 (cinco mil reais) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
