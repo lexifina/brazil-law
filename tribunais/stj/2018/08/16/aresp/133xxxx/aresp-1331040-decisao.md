@@ -1,0 +1,43 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. AUTORAS QUE FORAM IMPEDIDAS DE COLAR GRAU DO CURSO SUPERIOR PORQUE A INSTITUIÇÃO DE ENSINO NÃO FEZ CONSTAR UMA MATÉRIA NA GRADE CURRICULAR. DEMORA DE 07 MESES PARA COLAR GRAU. FALHA NA PRESTAÇÃO DE SERVIÇOS. DANO MORAL. OCORRÊNCIA. VIOLAÇÃO DO ART. 1.022 DO NCPC. NÃO CONFIGURADA. ÔNUS DA PROVA. REEXAME. DOS FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+ARIANE THYELLE SOARES PEREIRA, TAMIRIS JUSTINO PEREIRA, FRANCIELE DOS SANTOS PEREIRA e CAROLINE FERREIRA COLIBABA (ARIANE e OUTROS) propuseram ação de indenização por danos morais contra AESMS ENSINO SUPERIOR DE MATO GROSSO DO SUL S/S LTDA. (AESMS) que foi julgada procedente.
+ARIANE e OUTROS e AESMS apelaram. O Tribunal de origem negou provimento ao recurso da AESMS e deu parcial provimento ao recurso de ARIANE e OUTROS, nos termos da seguinte ementa:
+APELAÇÕES CÍVEIS - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - AUTORAS QUE FORAM IMPEDIDAS DE COLAR GRAU DO CURSO SUPERIOR PORQUE A INSTITUIÇÃO DE ENSINO NÃO FEZ CONSTAR UMA MATÉRIA NA GRADE CURRICULAR - DEMORA DE 07 MESES PARA COLAR GRAU - FALHA NA PRESTAÇÃO DE SERVIÇOS - DANO MORAL CONFIGURADO - NECESSIDADE DE MAJORAÇÃO DO VALOR DA INDENIZAÇÃO - JUROS DE MORA A PARTIR DA CITAÇÃO - RELAÇÃO CONTRATUAL - RECURSO DAS AUTORAS/CONSUMIDORAS CONHECIDO E PARCIALMENTE PROVIDO - RECURSO DA INSTITUIÇÃO DE ENSINO CONHECIDO E DESPROVIDO (e-STJ, fl. 304).
+Os embargos de declaração opostos pelo AESMS foram rejeitados (e-STJ, fls. 339/342).
+Irresignado, AESMS interpôs recurso especial, com amparo nas alíneas a e c, do permissivo constitucional, alegou violação aos arts. 1.022, II, do NCPC e 373 do NCPC, sustentando (1) que o Tribunal foi omissão pois não se manifestou sobre os motivos que o levaram a majorar o dano moral arbitrado na sentença; e (2) que as autoras não juntaram qualquer documento que comprovasse os fatos alegados.
+O Presidente do Tribunal da Justiça do Estado do Mato Grosso do Sul deixou de admitir o recurso interposto pela ausência de omissão no aresto recorrido, à incidência da Súmula nº 07 do STJ e que não comprovou o dissídio jurisprudencial.
+Interposto o agravo em recurso especial, a AESMS refutou os fundamentos da decisão agravada.
+Contraminuta foi apresentada (e-STJ, fls. 433/435).
+É o relatório.
+DECIDO.
+O recurso não comporta acolhimento.
+De plano, vale pontuar que o presente agravo em recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da violação ao art. 1.022 do NCPC.
+AESMS sustentou que o Tribunal foi omissão pois não se manifestou sobre os motivos que o levaram a majorar o dano moral arbitrado na sentença;
+No julgamento da apelação o Tribunal de origem consignou expressamente que:
+No que diz respeito ao valor da indenização, fixado pelo magistrado de 1º Grau em R$ 4.000,00 para cada, as autoras pedem sua majoração, enquanto que a requerida/instituição de ensino pede sua redução.
+Ao fixar o quantum indenizatório (danos morais), o critério a ser utilizado deve ser a conjugação da moderação com a razoabilidade, significa dizer, que hão de ser consideradas as condições econômicas das partes, com as peculiaridades do caso trazido à análise. De forma a não haver o enriquecimento do ofendido, mas também deve servir como um desestímulo ao ofensor na repetição do ato causador do dano.
+(..)
+In casu, a Universidade apelante foi condenada ao pagamento, a título de danos morais, no valor de R$ 4.000,00 (cinco mil reais) para cada uma das autoras.
+A professora [NOME], citada na obra de Carlos Roberto Gonçalves, sobre a fixação dos danos morais, expressa que:
+"Na quantificação do dano moral, o arbitramento deverá, portanto, ser feito com bom-senso e moderação, proporcionalmente ao grau de culpa, à gravidade da ofensa e ao nível sócio-econômico do lesante, à realidade da vida e às particularidades do caso sub examine". (GONÇALVES, Carlos Roberto. Responsabilidade Civil. 8ª edição. Editora Saraiva, 2003).
+Depois de consideradas todas essas circunstâncias, vejo que o quantum arbitrado na sentença deve ser majorado para R$ 10.000,00 (dez mil reais), sendo este justo, razoável e adequado, fixado com moderação, capaz de recompor o dano causado às autoras (e-STJ, fls. 307/308).
+ Assim, inexistem os vícios elencados no art. 1.022 do NCPC, quais sejam, omissão, contradição ou obscuridade, sendo forçoso reconhecer que a pretensão recursal ostentava caráter nitidamente infringente, visando rediscutir matéria que já havia sido analisada pela Corte local.
+Ademais, a jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte. Precedente: AgRg no AREsp 529.018/MS, Rel. Ministro SIDNEI BENETI, Terceira Turma, DJe 1º/9/2014.
+Afasta-se, portanto, a alegada violação do art. 1.022 do NCPC.
+(2) Do ônus da prova (373 do NCPC).
+AESMS sustentou que as autoras não juntaram qualquer documento que comprovasse os fatos alegados.
+O Tribunal assim se manifestou sobre a questão:
+Em verdade, o conjunto probatório é robusto e conclusivo para demonstrar que houve falha na prestação do serviço, uma vez que as autoras demonstraram nos autos que, por culpa da instituição de ensino, não puderam colar grau regularmente com sua turma da faculdade em decorrência da ausência de nota da disciplina "estudos indisciplinares", estando devidamente comprovada a falha na prestação de serviço por parte da requerida.
+Como bem observado pelo julgador de piso os as provas juntadas pela requerida (requerimento de matrícula, histórico escolar, mapa de nota) não são hábeis para afastar a responsabilidade da instituição de ensino pelo prejuízo sofrido pelas autoras (e-STJ, fls.306/307).
+Dessa forma, para adotar conclusão diversa da que chegou o eg. Tribunal a quo, que as autoras comprovaram os fatos constitutivos do seu direito pois demonstraram nos autos que por culpa da instituição de ensino não puderem colar grau por ausência da nota de uma disciplina, seria inevitável o revolvimento do arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, a teor do que dispõe a Súmula nº 7 desta Corte.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MORAIS E MATERIAIS. AFRONTA AO ART. 333, II, DO CPC/73. RETIRADA DE APLICAÇÕES. ÔNUS DA PROVA DE FATO IMPEDITIVO, MODIFICATIVO, EXTINTIVO DO DIREITO DO AUTOR, DO QUAL O RÉU, ORA AGRAVANTE, NÃO SE DESINCUMBIU. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. O eg. Tribunal de origem, analisando o acervo fático-probatório acostado aos autos, concluiu que o recorrente não se desincumbiu do ônus de comprovar que os resgates das aplicações financeiras do autor foram por ele realizados, mormente considerando que o banco réu, por não atuar como banco de varejo, deve adotar procedimento de resgate e transferência de recursos com um mínimo de cautela. Nesse contexto, afigura-se inviável a esta eg. Corte rever as premissas fáticas adotadas pela Corte de origem, pois tal providência demandaria o reexame do conjunto fático-probatório, o que atrai o óbice da Súmula 7/STJ.
+2. Agravo interno improvido.
+(AgInt no AREsp 485.277/RJ, Rel. Ministro RAUL ARAÚJO, Quarta Turma, julgado em 15/12/2016, DJe 7/2/2017)
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo, para CONHECER EM PARTE do recurso especial, e nesta extensão negar-lhe PROVIMENTO.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor da AESMS nos termos do art. 85, §§ 2º e 11 do NCPC, observando-se, no que couber, o art. 98 do mesmo diploma.
+Por fim, advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
