@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por IMOBILIÁRIA E CONSTRUTORA CONTINENTAL LTDA, desafiando decisão que não admitiu recurso especial, este fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"COMPROMISSO DE COMPRA E VENDA - Ação de 2 rescisão contratual c.c. indenização, retenção por benfeitorias e restituição de importâncias pagas - Loteamento - Inadimplemento do promitente comprador - Restituição das quantias pagas - Indenização a título de aluguel mensal, pelo período de ocupação do imóvel, a partir do inadimplemento -
+Arbitramento de 0,5% do valor de mercado do imóvel a título de taxa de ocupação - Súmula nº 1 do TJSP - Contrato celebrado em 20/10/2005 - Inadimplemento das prestações desde fevereiro de 2006 - Benfeitorias - Direito do adquirente à indenização por acessões e benfeitorias úteis e necessárias introduzidas no imóvel (art. 34 da Lei nº 6.766/79), ainda que irregulares - Direito de retenção até a indenização pelas benfeitorias, além da restituição das quantias pagas pelo promitente comprador - RECURSO PARCIALMENTE PROVIDO." (e-STJ, fl. 154)
+Nas razões do recurso especial, a ora agravante aponta ofensa ao artigo 34 da Lei 6.766/79. Alega o descabimento de indenização, em relação às benfeitorias clandestinas e irregulares, que não atendem às posturas municipais exigidas.
+É o relatório. Passo a decidir.
+De início, cumpre salientar que o recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+A teor do art. 508 do CPC/73, é de 15 (quinze) dias o prazo para interposição do recurso especial. Sendo assim, verifica-se que o acórdão que julgou a apelação foi publicado no dia 14/02/2014, sexta-feira (e-STJ, fl. 162). O prazo para interposição do recurso especial teve início em 17/02/2014 (segunda-feira) e expirou em 03/03/2014 (segunda-feira). Mesmo se considerada eventual suspensão de expediente forense no feriado de carnaval, o recurso especial, interposto somente no dia 14/04/2014 (e-STJ, fl. 234) é manifestamente intempestivo.
+A propósito, cabe destacar que, embora opostos embargos de declaração, estes não foram recebidos, porque intempestivos (e-STJ, fl. 230), publicada a decisão no dia 31/03/2014 (e-STJ, fl. 232).
+Ressalte-se, por oportuno, que, como é cediço, recurso manifestamente incabível ou intempestivo não tem o condão de interromper o prazo para a interposição do recurso adequado. Confiram-se os seguintes julgados:
+"AGRAVO INTERNO CONTRA ACÓRDÃO DA CORTE ESPECIAL. INVIABILIDADE. RECURSO MANIFESTAMENTE INCABÍVEL. CERTIFICAÇÃO DO TRÂNSITO EM JULGADO.
+1. O agravo interno interposto contra decisão de órgão colegiado é manifestamente incabível.
+2. Consoante os termos do art. 259 do Regimento Interno do Superior Tribunal de Justiça, somente cabe agravo interno contra decisum monocrático, sendo manifestamente inadmissível sua interposição contra decisão colegiada.
+3. No caso dos autos, a parte agravante já interpôs o único recurso cabível contra a decisão que negou seguimento ao recurso extraordinário, qual seja, o anterior agravo interno, ao qual a Corte Especial do Superior Tribunal de Justiça negou provimento, ficando, portanto, esgotada a jurisdição desta Corte.
+4. O recurso manifestamente incabível ou intempestivo não suspende ou interrompe o prazo para interposição de outro recurso.
+Precedentes: ARE 813.750 AgR, Relatora Min. CÁRMEN LÚCIA, Tribunal Pleno, julgado em 28/10/2016, publicado em 22/11/2016; ARE 823.947 ED, Relator Min. EDSON FACHIN, Primeira Turma, julgado em 15/12/2015, publicado em 19/2/2016; ARE 819.651 ED, Relator Min.
+LUIZ FUX, Primeira Turma, julgado em 9/9/2014, publicado em 10/10/2014.
+Agravo interno não conhecido com determinação de certificação do trânsito em julgado."
+(AgInt no AgInt no RE no AgInt no AREsp 904.600/SP, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 07/03/2018, DJe 23/03/2018)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. INTERPOSIÇÃO FORA DO PRAZO LEGAL DE 15 (QUINZE) DIAS. EMBARGOS NÃO CONHECIDOS. INTEMPESTIVOS.
+AGRAVO REGIMENTAL INTERPOSTO NA ORIGEM CONTRA DECISÃO COLEGIADA. RECURSO INCABÍVEL. NÃO INTERRUPÇÃO DO PRAZO DOS DEMAIS RECURSOS. AGRAVO NÃO PROVIDO. 1. O prazo para interposição do recurso especial é de 15 (quinze) dias, contados a partir da publicação do acórdão recorrido.
+2. A oposição de embargos de declaração intempestivos e a interposição de recurso manifestamente incabível na origem - o agravo regimental da decisão colegiada que julgou os embargos de declaração na apelação da defesa (e-STJ, fls. 738 e 763) - não tem o condão de interromper ou suspender o prazo para o oferecimento do apelo especial. (Precedentes).
+3. Agravo regimental não provido."
+(AgRg no AREsp 966.005/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 12/12/2017, DJe 19/12/2017)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
