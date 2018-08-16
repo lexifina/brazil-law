@@ -1,0 +1,57 @@
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS EM DECORRÊNCIA DE ACIDENTE DE TRÂNSITO. RECONVENÇÃO. OFENSA AO ART. 535, II, DO CPC/1973. NÃO CARACTERIZAÇÃO. INDEPENDÊNCIA DOS HONORÁRIOS DA RECONVENÇÃO DOS DA AÇÃO PRINCIPAL. QUANTUM RELATIVO AOS HONORÁRIOS. INCIDÊNCIA DA SÚMULA N. 7/STJ. PROVIMENTO NEGADO.
+1. Não configura ofensa ao art. 535, do Código de Processo Civil de 1973, o fato de o C. Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pela parte recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. "Os honorários na reconvenção são independentes daqueles fixados na ação principal, independentes, inclusive, do resultado e da sucumbência desta. Precedentes." (AgR-AG n. 690.300/RJ, Rel. Min. Massami Uyeda, 4ª Turma, unânime, DJU de 03.12.2007).
+3. Constatado que os honorários de sucumbência foram fixados em montante razoável, equivalente a 15% sobre o valor da condenação, e, não sendo irrisórios nem exorbitantes, não compete a esta Corte Superior, em recurso especial, promover a revisão pretendida, ante a incidência do Enunciado Sumular n. 7 do STJ. Precedente.
+4. Agravo interno ao qual se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (Relator): Trata-se de agravo interno interposto por [NOME] e outro, contra decisão (e-STJ, fls. 1.242/1.246), desta relatoria, que negou provimento ao recurso com base nos seguintes fundamentos: I) não se vislumbra a alegada violação ao art. 535, do CPC/1973; II) "consoante a jurisprudência desta Corte os honorários devidos na reconvenção são independentes dos honorários fixados na ação principal" (e-STJ, fl. 1.244); III) "que a jurisprudência do Superior Tribunal de Justiça delineia que é admissível o exame do valor fixado a título honorários advocatícios, em sede de recurso especial, em hipóteses excepcionais, quando for verificada a exorbitância ou a irrisoriedade da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade, circunstância não ocorre no presente caso" (e-STJ, fl. 1.246).
+Os embargos de declaração opostos foram rejeitados.
+Em suas razões recursais, os agravantes afirmam, em síntese, que: a) há omissão no julgado; b) "o que os agravantes pretendem é que seja aplicada a lei infraconstitucional, especialmente os artigos 20 e 125 do CPC/1973, para acatar os princípios da sucumbência e da isonomia, estabelecendo honorários também sobre a sucumbência da ação principal, em percentual idêntico ao que foi deferido aos agravados pela sentença reformada" (e-STJ, fl. 1.279).
+Requer, ao final, a reconsideração da decisão agravada ou sua reforma pela Turma Julgadora.
+Devidamente intimada (e-STJ, fl. 1.291/1.296), a parte agravada manifestou-se pelo não provimento do recurso.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (Relator): In casu, faz-se mister salientar que a decisão impugnada entendeu que não houve omissão no decisum proferido pela Corte de origem.
+Com efeito, não se pode olvidar, quanto à admissibilidade do presente recurso especial por violação ao art. 535 do CPC/1973, que não houve negativa de prestação jurisdicional, máxime porque a Corte de origem analisou as questões deduzidas pelos recorrentes.
+De fato, na hipótese em exame, é de ser afastada a existência de vícios no acórdão, à consideração de que a matéria impugnada foi enfrentada de forma objetiva e fundamentada no julgamento do recurso, naquilo que o Tribunal a quo entendeu pertinente à solução da controvérsia. Apenas as conclusões expendidas foram diversas das pretendidas pela parte ora recorrente.
+Em síntese, os vícios a que se refere o artigo 535 do CPC/1973 são aqueles que recaem sobre ponto que deveria ter sido decidido e não o foi, e não sobre os argumentos utilizados pelas partes, sendo certo que não há falar em omissão simplesmente pelo fato de as alegações deduzidas não terem sido acolhidas pelo órgão julgador.
+A propósito, na parte que interessa:
+"AGRAVO REGIMENTAL. AÇÃO DE SOBREPARTILHA. ALEGAÇÃO, NAS RAZÕES DE RECURSO ESPECIAL, DE VIOLAÇÃO AOS ARTIGOS 458, II E 535, II, DO CPC. INEXISTÊNCIA.  ..
+1. Não há que se falar em nulidade do acórdão por omissão, se este examinou e decidiu os pontos relevantes e controvertidos da lide e apresentou os fundamentos nos quais sustentou as conclusões assumidas.
+ .. "
+(AgRg no AREsp 37.045/GO, QUARTA TURMA, Rel. Ministro LUIS FELIPE SALOMÃO, julgado em 5/3/2013, DJe 12/3/2013)
+Impende ressaltar que "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (AgRg no Ag 56.745/SP, Relator o eminente Ministro CESAR ASFOR ROCHA, DJ de 12.12.1994). Nesse sentido, confiram-se os seguintes julgados: REsp 209.345/SC, Relator o eminente Ministro JOÃO OTÁVIO DE NORONHA, DJ de 16.05.2005; REsp 685.168/RS, Relator o eminente Ministro JOSÉ DELGADO, DJ de 02.05.2005.
+Noutro ponto, consoante a jurisprudência desta Corte os honorários devidos na reconvenção são independentes dos honorários fixados na ação principal.
+Nesse sentido:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. LOCAÇÃO DE IMÓVEL RESIDENCIAL. VIOLAÇÃO AO ART. 535 DO CPC/1973. INOVAÇÃO RECURSAL. INDENIZAÇÃO POR DANOS MATERIAIS POR MAU USO. ANÁLISE. SÚMULA 7 DO STJ. PRODUÇÃO DE PROVAS. LIVRE CONVENCIMENTO. SÚMULA 7 DO STJ. HONORÁRIOS ADVOCATÍCIOS. AÇÃO PRINCIPAL E RECONVENÇÃO. VERBAS AUTÔNOMAS.
+1. A decisão recorrida foi publicada antes da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+2. Não cabe a adição de teses não expostas no recurso especial em sede de agravo interno.
+3. Para analisar se o imóvel locado foi restituído nas mesmas condições em que lhe foi entregue, seria necessário analisar as provas contidas nos autos, o que é inviável em recurso especial, ante o óbice da Súmula 7 do STJ.
+4. Cabe ao magistrado, respeitando os limites previstos no Código de Processo Civil, a interpretação da prova, ficando a ele facultado o entendimento acerca da necessidade de dilação ou o esclarecimento dessa, diante dos fatos apresentados nos autos.
+5. A pretensão de redimensionamento da condenação em honorários advocatícios, na hipótese vertente, esbarra na Súmula 7 do STJ, uma vez que "os honorários na ação principal são independentes daqueles fixados na ação de reconvenção" (EDcl no AgRg. no Ag. 1.366.252/GO, Relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 7.6.2011, DJe 14.6.2011).
+6. Agravo interno a que se nega provimento."
+(AgInt no AREsp 864.899/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/11/2016, DJe 28/11/2016)
+"CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ACÓRDÃO A QUO QUE ENTENDEU INEXISTENTE ILÍCITO CIVIL. ALTERAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INDEPENDÊNCIA DOS HONORÁRIOS DA RECONVENÇÃO DOS DA AÇÃO PRINCIPAL. CARACTERIZAÇÃO. COMPENSAÇÃO. SÚMULA N. 7/STJ. AGRAVO IMPROVIDO.
+I. "Os honorários na reconvenção são independentes daqueles fixados na ação principal, independentes, inclusive, do resultado e da sucumbência desta. Precedentes." (AgR-AG n. 690.300/RJ, Rel. Min. Massami Uyeda, 4ª Turma, unânime, DJU de 03.12.2007).
+II. "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula n. 7-STJ).
+III. Agravo improvido."
+(AgRg no Ag 1.309.003/SP, Rel. Ministro ALDIR PASSARINHO JUNIOR, QUARTA TURMA, julgado em 9/11/2010, DJe de 23/11/2010).
+"PROCESSUAL CIVIL - EMBARGOS À EXECUÇÃO - ALTERAÇÃO DO PÓLO PASSIVO DA AÇÃO ANTES DA CITAÇÃO - POSSIBILIDADE - PRINCÍPIO DA ESTABILIZAÇÃO SUBJETIVA DO PROCESSO - RECONVENÇÃO - AUTONOMIA - HONORÁRIOS - CABIMENTO.
+1. Até a citação, a parte autora pode emendar a inicial, com a correção do pólo passivo, em razão de não ter ocorrido a estabilização da demanda (arts. 264 e 294 CPC). Precedentes: REsp 799.369/BA, Rel. Min. Teori Albino Zavascki, Primeira Turma, julgado em 18.9.2008, DJe 25.9.2008; REsp 988.505/DF, Rel. Min. Nancy Andrighi, Terceira Turma, julgado em 26.6.2008, DJe 5.8.2008; e REsp 435.580/RJ, Rel. Min. João Otávio de Noronha, Segunda Turma, julgado em 3.8.2006, DJ 18.8.2006, p. 362.
+2. A reconvenção constitui ação autônoma; dessa forma, são devidos os honorários em razão da sucumbência, independentemente do resultado da ação principal. Precedentes: AgRg no Ag 690.300/RJ, Rel. Min. Massami Uyeda, Quarta Turma, julgado em 13.11.2007, DJ 3.12.2007, p. 311; AgRg no REsp 753.095/DF, Rel. Min. Castro Meira, Terceira Turma, julgado em 23.8.2007, DJ 10.9.2007, p. 228; e EDcl no REsp 468.935/SP, Rel. Min. Carlos Alberto Menezes Direito, Terceira Turma, julgado em 24.8.2004, DJ 4.10.2004, p. 283.
+Recurso especial parcialmente provido."
+(REsp 614.617/DF, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 9/6/2009, DJe de 29/6/2009).
+"CIVIL E PROCESSUAL CIVIL - AGRAVO REGIMENTAL - AGRAVO DE INSTRUMENTO - RECURSO ESPECIAL - CONTRATO DE EMPREITADA - ATRASOS NA EXECUÇÃO - EXAME NA VIA RECURSAL ELEITA - IMPOSSIBILIDADE - SÚMULA N. 7/STJ - INDEPENDÊNCIA DOS HONORÁRIOS DA RECONVENÇÃO - CARACTERIZAÇÃO.
+I - O entendimento adotado pelo Tribunal a quo, quanto ao tema de atrasos na execução do contrato de empreitada, foi baseado na análise do conjunto fático-probatório carreado aos autos, impossibilitado de exame em sede de recurso especial. Aplicação da Súmula n. 7/STJ. Precedentes.
+II - Os honorários na reconvenção são independentes daqueles fixados na ação principal, independentes, inclusive, do resultado e da sucumbência desta. Precedentes.
+II - AGRAVO REGIMENTAL IMPROVIDO."
+(AgRg no Ag 690.300/RJ, Rel. Ministro MASSAMI UYEDA, QUARTA TURMA, julgado em 13/11/2007, DJ de 3/12/2007).
+Dessa forma, sendo o resultado da ação principal independente do resultado da reconvenção, devem os recorridos pagar honorários de sucumbência com base no valor solicitado para a recomposição dos prejuízos dos recorrentes.
+Ressalte-se que a jurisprudência do Superior Tribunal de Justiça delineia que é admissível o exame do valor fixado a título honorários advocatícios, em sede de recurso especial, em hipóteses excepcionais, quando for verificada a exorbitância ou a irrisoriedade da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade, circunstância não ocorre no presente caso, em que fixados em 15% sobre o valor da condenação.
+A alteração de tal entendimento demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ, que dispõe: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nessa linha, a ora agravante não deduz argumentação nova capaz de modificar a decisão agravada, que se mantém por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
