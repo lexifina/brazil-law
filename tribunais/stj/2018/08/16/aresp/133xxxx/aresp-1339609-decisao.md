@@ -1,0 +1,7 @@
+DECISÃO
+Cuida-se de agravo interposto pelo Instituto Nacional de Metrologia, Qualidade e Tecnologia - INMETRO, contra decisão que negou seguimento ao recurso especial, por entender que o acórdão recorrido está consoante o entendimento firmado no REsp 1.105.442/RJ, processado pelo rito dos repetitivos. Acrescentou, ainda, que a revisão das conclusões do acórdão recorrido encontram óbice na Súmula 7/STJ.
+É o breve relatório.
+Esta Corte firmou compreensão de que, conforme "a nova ordem processual civil, contra a decisão que nega seguimento a recurso especial com base no art. 543-C, § 7º, I, do CPC/1973 (art. 1.040, I, do CPC/2015), não cabe agravo ou qualquer outro recurso para o eg. STJ. Tal entendimento, todavia, não significa concluir pela irrecorribilidade de tal decisão, pois, da decisão que nega seguimento a recurso especial interposto contra acórdão julgado em conformidade com entendimento firmado em julgamento processado pelo regime de recursos repetitivos, o recurso cabível é o agravo interno, para o próprio Tribunal, na forma do art. 1.030, § 2º, do CPC/2015" (AgInt na Pet 11.755/PE, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 27/02/2018, DJe 02/03/2018).
+No caso em exame, o inconformismo manifestado pela parte agravante está na tese firmada no REsp 1.105.442/RJ, razão pela qual o presente agravo não comporta conhecimento.
+Ante o exposto, não conheço do agravo.
+Publique-se.
