@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por FUNDACAO AMAZONPREV, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS, assim ementado:
+AGRAVO INTERNO EM MANDADO DE SEGURANÇA. RESTITUIÇÃO DE VALORES RECEBIDOS POR FORÇA DE TUTELA ANTECIPADA. IMPOSSIBILIDADE. BOA -FÉ DO BENEFICIÁRIO. PRECEDENTES. DANO AO ERÁRIO NÃO PREPONDERA SOBRE AS GARANTIAS FUNDAMENTAIS DO SER HUMANO. CARÁTER ALIMENTAR DA VERBA. RECURSO NÃO PROVIDO.
+1. Em que pese a lei 8.213/91 preveja a possibilidade de restituição de valores pagos alem do devido pela previdência, não se pode interpretar a norma como regra absoluta, até porque pela literalidade, a "possibilidade" prevista na lei em nada se confunde com "obrigatoriedade.
+2 Pelo o que consta nos autos, há de se perceber que o agravado realmente acreditava que lhe era devido os valores recebidos por força da decisão judicial, não havendo o que se falar em má-fé. Ademais, é cristalino que a verba recebida pelo agravado possui natureza alimentar, não sendo passível de restituição. Precedentes STF e STJ.
+3 Ademais, o suposto dano ao erário não pode preponderar sobre um direito individual inerente ao ser humano, garantido constitucionalmente, que é o direito a uma vida digna, o que inclui, intrinsecamente o direito à alimentação, não havendo o que se falar em restituição.
+4. Recurso não provido.
+Foram rejeitados os embargos declaratórios opostos.
+No recurso especial, o recorrente aponta violação dos arts. 884 do Código Civil, bem como divergência jurisprudencial.
+Sustenta, em síntese, que inexiste boa fé amparável pelo direito no caso do servidor que recebe parcelas em decorrência de decisão judicial à qual se opôs frontalmente a Administração, como no caso dos autos.
+Defende ser possível a devolução de valores pagos a servidor público em razão do cumprimento de decisão judicial precária.
+Não foram apresentadas contrarrazões.
+O recurso especial foi inadmitido com base na Súmula nº 284/STF.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passa-se ao exame do recurso especial.
+A Primeira Seção do Superior Tribunal de Justiça, no julgamento do Tema 692, vinculado ao Recurso Especial Repetitivo nº 1.401.560/MT, firmou entendimento de que "a reforma da decisão que antecipa a tutela obriga o autor da ação a devolver os benefícios previdenciários indevidamente recebidos", independentemente da natureza alimentar da verba e da boa-fé do beneficiário.
+Confira-se:
+PREVIDÊNCIA SOCIAL. BENEFÍCIO PREVIDENCIÁRIO. ANTECIPAÇÃO DE TUTELA. REVERSIBILIDADE DA DECISÃO.
+O grande número de ações, e a demora que disso resultou para a prestação jurisdicional, levou o legislador a antecipar a tutela judicial naqueles casos em que, desde logo, houvesse, a partir dos fatos conhecidos, uma grande verossimilhança no direito alegado pelo autor. O pressuposto básico do instituto é a reversibilidade da decisão judicial. Havendo perigo de irreversibilidade, não há tutela antecipada (CPC, art. 273, § 2º). Por isso, quando o juiz antecipa a tutela, está anunciando que seu decisum não é irreversível. Mal sucedida a demanda, o autor da ação responde pelo recebeu indevidamente. O argumento de que ele confiou no juiz ignora o fato de que a parte, no processo, está representada por advogado, o qual sabe que a antecipação de tutela tem natureza precária.
+Para essa solução, há ainda o reforço do direito material. Um dos princípios gerais do direito é o de que não pode haver enriquecimento sem causa. Sendo um princípio geral, ele se aplica ao direito público, e com maior razão neste caso porque o lesado é o patrimônio público. O art. 115, II, da Lei nº 8.213, de 1991, é expresso no sentido de que os benefícios previdenciários pagos indevidamente estão sujeitos à repetição. Uma decisão do Superior Tribunal de Justiça que viesse a desconsiderá-lo estaria, por via transversa, deixando de aplicar norma legal que, a contrario sensu, o Supremo Tribunal Federal declarou constitucional. Com efeito, o art. 115, II, da Lei nº 8.213, de 1991, exige o que o art. 130, parágrafo único na redação originária (declarado inconstitucional pelo Supremo Tribunal Federal - ADI 675) dispensava.
+Orientação a ser seguida nos termos do art. 543-C do Código de Processo Civil: a reforma da decisão que antecipa a tutela obriga o autor da ação a devolver os benefícios previdenciários indevidamente recebidos.
+Recurso especial conhecido e provido.
+(REsp 1401560/MT, Rel. Ministro SÉRGIO KUKINA, Rel. p/ Acórdão Ministro ARI PARGENDLER, PRIMEIRA SEÇÃO, julgado em 12/02/2014, DJe 13/10/2015)
+No mesmo sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECEBIMENTO VIA ANTECIPAÇÃO DE TUTELA POSTERIORMENTE REVOGADA. DEVOLUÇÃO. SERVIDOR PÚBLICO. CRITÉRIOS. CARÁTER ALIMENTAR E BOA-FÉ OBJETIVA. NATUREZA PRECÁRIA DA DECISÃO. RESSARCIMENTO DEVIDO. RECURSO ESPECIAL PROVIDO.
+1. O Recurso Especial de Roberto Mendes dos Santos carece de conhecimento, pois deixou de apontar a norma jurídica que entende incorretamente interpretada pelo Tribunal de origem. Incide a vedação de admissibilidade preceituada na Súmula 284/STF no ponto recursal, segundo a qual: "É inadmissível o Recurso Extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+2. Quanto ao Recurso Espeical do INSS, a Primeira Seção do Superior Tribunal de Justiça, no julgamento do Tema 692, vinculado ao Recurso Especial Repetitivo 1.401.560/MT, firmou entendimento de que "a reforma da decisão que antecipa a tutela obriga o autor da ação a devolver os benefícios previdenciários indevidamente recebidos", independentemente da natureza alimentar da verba e da boa-fé do beneficiário.
+3. O acórdão combatido diverge da jurisprudência do STJ na medida em que decidiu que não é repetível o valor de benefícios previdenciários pagos por força de tutela antecipada posteriormente revogada.
+4. Recurso Especial de Roberto Mendes dos Santos não conhecido e Recurso Especial do INSS provido.
+(REsp 1675341/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 10/10/2017, DJe 19/12/2017)
+PREVIDENCIÁRIO. DEVOLUÇÃO DE VALORES RECEBIDOS EM ANTECIPAÇÃO DOS EFEITOS DA TUTELA. RECURSO ESPECIAL REPETITIVO. RESP 1401560/MT.
+I - Esta e. Corte, em julgamento submetido ao rito do art. 543-C do CPC/73, definiu que o benefício previdenciário recebido em razão de tutela antecipada, uma vez julgado indeferido o pedido e revogada a tutela, deve ser devolvido, porquanto a tutela antecipada, por sua natureza, é medida reversível, sendo, ainda, vedado o enriquecimento sem causa, não havendo, por fim, que se falar em recebimento de boa-fé nesses casos. No mesmo sentido: AgInt no REsp 1572446/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 20/09/2016, DJe 14/11/2016; AgInt nos EDcl no AREsp 444.197/PR, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 14/06/2016, DJe 09/08/2016.
+II - Agravo interno improvido.
+(AgInt no REsp 1640311/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 06/03/2018, DJe 12/03/2018)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial.
+Publique-se. Intime-se.
