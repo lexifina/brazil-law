@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MORAL. COBRANÇA DE PRODUTO EM DESACORDO À OFERTA. DANO MORAL INOCORRENTE. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. Mediante análise do conjunto fático-probatório dos autos, tem-se que o eg. Tribunal de origem concluiu que, em que pese incontroversa a comercialização de mercadoria em desacordo com o preço ofertado ao consumidor, a situação experimentada pela autora não foi suficiente a causar abalo emocional ou lesão a direito de personalidade. Nesse contexto, afigura-se inviável rever tal conclusão, tendo em vista o óbice da Súmula 7/STJ.
+2. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO):
+Trata-se de agravo interno interposto por DANIELA ADRIANA DE ARAÚJO NAHR contra decisão (fls. 297/300) que conheceu de seu agravo para negar provimento ao seu recurso especial, sob a incidência da Súmula 7 desta Corte.
+Nas razões do agravo interno, alega-se que "apesar de cabalmente provada a conduta ilícita da ré, consubstanciada na absurda e reprovável atitude da parte demandada que visando locupletar-se ilicitamente, aproveitou-se da condição da consumidora que possui parcos conhecimentos. Portanto, frente à grave ilicitude protagonizada pelo réu, necessário se faz o arbitramento de indenização, com finalidade pedagógica e de cunho profilático, para fins de que tais condutas sejam repelidas da sociedade" (fl. 306).
+A parte agravada apresentou impugnação do agravo interno.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (Relator):
+O recurso em apreço não merece prosperar, uma vez que a agravante não apresentou argumentos aptos a modificar a decisão vergastada.
+Como asseverado no decisum impugnado, o col. Tribunal de origem, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, bem como mediante análise soberana do contexto fático-probatório dos autos, entendeu pela ausência de culpa da parte recorrida no caso concreto, conforme se extrai do voto condutor do v. acórdão recorrido, verbis:
+"Segundo consta, pretende a demandante a condenação da empresa ré ao pagamento de indenização por danos morais sob a alégação de que foi vítima de propaganda enganosa ao realizar a compra de um aparelho eletrônico no site de vendas da requerida, momento em que foi cobrado valor a maior do que aquele originariamente ofertado pelo produto.
+Com efeito, da análise da prova trazida ao processo, em que pese incontroversa a comercialização de mercadoria em desacordo com o preço originariamente ofertado aos consumidores, entendo que a situação experimentada pela autora não foi suficiente a lhe causar abalo emocional ou lesão a direito de personalidade seu, requisitos indispensáveis ao reconhecimento dos abalos extrapatrimoniais pleiteados.
+Na espécie, a requerente sofreu apenas mera frustração ao não adquirir o produto no valor ofertado pela requerida, tendo de ingressar com demanda judicial a fim de que a empresa fosse compelida a vender aparelho celular no montante indicado em encarte eletrônico de venda.
+"Ora", tratou-se a situação aqui versada de simples descumprimento contratual, resolvida em perdas e danos materiais, porém não me parece que a circunstância seja suficiente a causar alguma lesão a direito de personalidade da parte, tal como imagem, honra, bom nome e prestígio, ou até mesmo abalo psíquico que repercuta no seu íntimo.
+A propósito, bem calha trazer excerto daquilo que dito pela douta magistrada de 1ª Instância em sentença, conforme consta do decisum, verbis:
+Entretanto, apesar das ponderações do requerente, entendo que o fato narrado na exordial não é capaz de levar à condenação do requerida ao pagamento de indenização, como postulado. Ao contrário, entendo que o impasse havido entre as partes nada mais é do que um aborrecimento cotidiano cuja solução, inclusive, já foi atingida.
+A princípio, impende dizer que a caracterização do dano moral indenizável na esfera da responsabilidade objetiva, como no caso dos autos, exige a presença de alguns requisitos essenciais como o próprio dano, a prática de ato ilícito e o nexo de causalidade entre os dois primeiros. Desnecessária a demonstração da culpa em razão da aplicação da teoria do risco da atividade.
+Por outro lado, o dano, para ser indenizável, deve atingir os direitos da personalidade do autor, de modo a gerar grave ofensa à imagem, à saúde, à vida, da vítima que lhe cause extremo abalo emocional. Tais elementos são imprescindíveis para o reconhecimento à vítima do direito à reparação, sob pena de configurar-se apenas como mero aborrecimento.
+No caso em liça, entendo que o requerente não logrou êxito em comprovar a existência de ofensa aos direitos da personalidade, nos termos acima narrados, posto que o simples equívoco entre o preço da proposta e o da cobrança não grave abalo emocional, tratando-se apenas de descumprimento contratual.
+Tanto é verdade que pode ser facilmente corrigido com a devolução do preço ou a disponibilização do produto pelos termos da oferta, se for possível. Nessa linha, a requerente recebeu a reparação através da devolução dos valores pagos ante a impossibilidade de disponibilização do produto.
+Portanto, fica claro que não houve fato capaz de configurar o dano moral indenizável.
+(..)
+Ademais, não há notícia nos autos de que a requerida tenha se furtado do cumprimento da condenação a ela imposta, o que poderia caracterizar ato ilícito suficiente a demonstrar o dano moral indenizável. Ao contrário, prolatada a decisão condenatória, a demandada cumpriu sua obrigação, reparando o dano suportado pela requerente. Tal fato é confirmado pelas informações daquele processo que dão conta de que a ação foi arquivada após o levantamento dos valores da condenação pela requerida.
+No mais, importa lembrar que não é qualquer desconforto passível de gerar abalo imaterial e, para que este exista, é preciso que a ofensa tenha alguma grandeza e esteja revestida de certa relevância e gravidade, não sendo o caso presente. A conjuntura narrada pela requerente, embora desagradável, não passou de incômodos que podem ser suportados pelo cidadão que convive numa comunidade de consumo como a nossa.
+Para caracterizar o dano moral, impõe-se seja a parte vítima de uma situação tal que caracterize verdadeira dor e sofrimento, sentimentos esses capazes de incutir transtorno psicológico ou abalo que exceda a normalidade. O vexame, humilhação ou frustração devem interferir de forma intensa, causando aflições, angústia e desequilíbrio ao bem-estar da pessoa, o que não se verifica na espécie."
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido, nos moldes em que ora postulado, demandaria nova análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ, que dispõe: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC) - AÇÃO INDENIZATÓRIA POR DANO MORAL - INOCORRÊNCIA DE PROPAGANDA ENGANOSA - SÚMULA N. 7 DO STJ - AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECURSO - INSURGÊNCIA DOS AUTORES.
+1. Não configurada a violação ao artigo 535 do CPC, por ter o acórdão hostilizado enfrentado, de modo fundamentado, todos os aspectos essenciais à resolução da lide.
+2. Inocorrência de propaganda enganosa. Inexistência de dano moral. Alteração do julgado que demanda revolvimento do acervo-fático probatório dos autos. Incidência da Súmula n. 7 do STJ.
+3. Agravo regimental desprovido."
+(AgRg no AREsp 287.761/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/05/2013, DJe 11/06/2013)
+Com essas considerações, conclui-se que o agravo interno não merece prosperar.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
