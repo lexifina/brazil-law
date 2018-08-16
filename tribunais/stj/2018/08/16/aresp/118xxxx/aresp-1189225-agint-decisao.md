@@ -1,0 +1,29 @@
+DECISÃO
+Em virtude das razões expostas na petição de fls. 1.046-1.051, e-STJ, reconsidero a decisão de fls. 1.031-1.032, e-STJ, proferida pela Presidência desta Corte Superior. Passo à nova análise do agravo interposto por [NOME] contra decisão que negou seguimento ao recurso especial, com fundamento nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, em face de acórdão assim ementado:
+Dupla Apelação. Indenização por danos materiais. Sentença de parcial procedência. Nulidade da sentença por falta de fundamentação. Inocorrência. Prescrição. Indenização por ilícito contratual. Não aplicação do artigo 206, § 3º, V, do CC. Prova do ilícito contratual praticado. Erro no enquadramento da empresa junto à Receita Federal. Prejuízo demonstrado. Indenização devida.
+Pretensão de reconhecimento de indenização por prejuízo advindo da Fazenda Estadual e ao INSS. Não demonstração de ilícito. Impossibilidade de presunção. Sentença mantida. RECURSOS NÃO PROVIDOS.
+Opostos embargos de declaração, foram rejeitados pelo Tribunal de origem, adotando-se a seguinte ementa:
+Embargos de declaração. Alegação de contradição e omissão. Inexistência. Descontentamento com o julgado. Prequestionamento. Desnecessidade de abordar os artigos de lei levantados, bastando que a decisão se valha dos elementos formadores da convicção a fim de que possa esposá-la. Embargos rejeitados.
+Nas razões do especial, aponta o recorrente a existência de dissídio jurisprudencial, além de violação do artigo 206 do Código Civil, e defende que o prazo para ajuizamento da ação de reparação civil é de 3 anos, estando prescrita a pretensão.
+Assim delimitada a controvérsia, passo a decidir.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente agravo, verifico que este não merece provimento.
+Inicialmente, destaco que a decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Quanto à aventada prescrição, observo que o entendimento do Tribunal de origem, de que "trata-se de ação de indenização por ilícito contratual, e não extracontratual. Se assim é, não há que se falar em prescrição, haja vista que, na hipótese concreta, ela decorreria apenas em dez anos, e não três, conforme alegado" (fls. 955-956, e-STJ) encontra-se em ressonância com a orientação desta Corte, atraindo o enunciado da Súmula 83/STJ.
+Acrescente-se que a Segunda Seção do Superior Tribunal de Justiça, quando do julgamento dos Embargos de Divergência em Recurso Especial 1.280.825/RJ, Relatora Ministra Nancy Andrighi, faz distinção entre a responsabilidade contratual e a extracontratual, para o fim de definição do prazo prescricional a ser aplicado à pretensão de cobrança por responsabilidade civil.
+Para o ajuizamento de ações fundadas no não cumprimento das responsabilidades extracontratuais o prazo prescricional para pretensões de tal natureza permanece sendo de 3 (três) anos, conforme expressa previsão legal (art. 206, § 3º, V, do Código Civil).
+No caso de ações fundadas no inadimplemento contratual, incluindo o da reparação de perdas e danos, o prazo prescricional será de dez anos, nos termos do art. 205 do Código Civil de 2002.
+Transcreve-se a ementa dos Embargos de Divergência em Recurso Especial 1.280.825/RJ :
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. PRESCRIÇÃO DA PRETENSÃO. INADIMPLEMENTO CONTRATUAL. PRAZO DECENAL. INTERPRETAÇÃO SISTEMÁTICA. REGIMES JURÍDICOS DISTINTOS. UNIFICAÇÃO. IMPOSSIBILIDADE. ISONOMIA. OFENSA. AUSÊNCIA.
+1. Ação ajuizada em 14/08/2007. Embargos de divergência em recurso especial opostos em 24/08/2017 e atribuído a este gabinete em 13/10/2017.
+2. O propósito recursal consiste em determinar qual o prazo de prescrição aplicável às hipóteses de pretensão fundamentadas em inadimplemento contratual, especificamente, se nessas hipóteses o período é trienal (art. 206, § 3, V, do CC/2002) ou decenal (art. 205 do CC/2002).
+3. Quanto à alegada divergência sobre o art. 200 do CC/2002, aplica-se a Súmula 168/STJ ("Não cabem embargos de divergência quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado").
+4. O instituto da prescrição tem por finalidade conferir certeza às relações jurídicas, na busca de estabilidade, porquanto não seria possível suportar uma perpétua situação de insegurança.
+5. Nas controvérsias relacionadas à responsabilidade contratual, aplica-se a regra geral (art. 205 CC/02) que prevê dez anos de prazo prescricional e, quando se tratar de responsabilidade extracontratual, aplica-se o disposto no art. 206, § 3o, V, do CC/02, com prazo de três anos.
+6. Para o efeito da incidência do prazo prescricional, o termo "reparação civil" não abrange a composição da toda e qualquer conseqüência negativa, patrimonial ou extrapatrimonial, do descumprimento de um dever jurídico, mas, de modo geral, designa indenização por perdas e danos, estando associada às hipóteses de responsabilidade civil, ou seja, tem por antecedente o ato ilícito.
+7. Por observância à lógica e à coerência, o mesmo prazo prescricional de dez anos deve ser aplicado a todas as pretensões do credor nas hipóteses de inadimplemento contratual, incluindo o da reparação de perdas e danos por ele causados.
+8. Há muitas diferenças de ordem fática, de bens jurídicos protegidos e regimes jurídicos aplicáveis entre responsabilidade contratual e extracontratual que largamente justificam o tratamento distinto atribuído pelo legislador pátrio, sem qualquer ofensa ao princípio da isonomia.
+9. Embargos de divergência parcialmente conhecidos e, nessa parte, não providos.
+(EREsp. 1.280.825/RJ, Relatora Ministra Nancy Andrighi, Segunda Seção, DJe 2.8.2018)
+Incidência da Súmula 83/STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
