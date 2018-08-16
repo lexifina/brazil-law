@@ -1,0 +1,13 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por [NOME] e outro contra decisão do Tribunal de Justiça do Estado de São Paulo que inadmitiu o seu recurso especial manejado em face do acórdão, assim ementado:
+Ação de cobrança - Plano de saúde - Preliminar de não conhecimento do recurso de apelo da corré [NOME] afastada - Possibilidade de concessão dos benefícios da assistência judiciária gratuita - Situação de penúria financeira da apelante [NOME] que é pública e notória, tendo sido determinada pela ANS a alienação de sua carteira de clientes - Benesse concedida - Despesas havidas com internação, parto e UTI neonatal - Lide principal julgada procedente - Deferida a denunciação da lide ao plano de saúde - Aplicação do Código de Defesa do Consumidor à hipótese - Recusa de atendimento a parturiente, que necessitou ir buscar outro nosocômio para garantir a sua integridade e de seus bebês - Corré [NOME] que sequer indicou hospital apto a atender a paciente e os neonatos - Denunciada que aceitando a denunciação da lide e contestando o pedido, assume a posição de litisconsorte passivo, podendo, em consequência, ser condenada, e executada, direta e solidariamente com o réu - Responsabilidade solidária da denunciada, podendo a autora cobrar de qualquer deles o valor da condenação - Sentença reformada - Recurso da corré [NOME] não provido e recurso dos corréus [NOME] e Raquel provido em parte.
+Nega-se provimento ao recurso da corré [NOME] e Dá-se provimento em parte ao recurso dos corréus [NOME] Raquel.(e-STJ fl. 478)
+Nas razões do recurso especial, a recorrente apontou violação do artigo 30 do Código de Defesa do Consumidor. Sustentou que "na medida em que o Hospital Santa Joana, ora recorrido, informou expressamente que atendia ao plano de saúde dos recorrentes, (o que foi observado por todos os julgadores precedentes) de rigor, com base no dispositivo consumerista mencionado, sua vinculação a tal proposta, não havendo, portanto, justiça na condenação dos recorrentes (consumidores), (restando discussão entre os próprios recorridos - Hospital e Plano de Saúde), para acertarem entre si tal questão, discussão que não deve onerar os recorrentes,"
+Contrarrazões ao recurso especial apresentadas, às fls. 510/524 e-STJ, sobreveio juízo de admissibilidade do Tribunal de origem, que inadmitiu o recurso especial, às fls. 527 e-STJ, o que ensejou a interposição do presente agravo.
+É o relatório.
+Passo a decidir.
+Para melhor análise da controvérsia, converto o presente agravo em recurso especial.
+Ante o exposto dou provimento ao agravo, determinando sua conversão em recurso especial.
+Após a regularização do novo registro, retornem os autos conclusos para julgamento.
+Intimem-se.
