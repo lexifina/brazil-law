@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL (FUNRURAL). EMPREGADOR RURAL PESSOA NATURAL. INCIDÊNCIA SOBRE A RECEITA BRUTA DA COMERCIALIZAÇÃO DA PRODUÇÃO RURAL. LEI Nº 10.256/2001. CONSTITUCIONALIDADE. PRECEDENTE DO STF.
+1. 0 egrégio Supremo Tribunal Federal, no julgamento do RE 596.177, sob o rito do art. 543-B do Código de Processo Civil de 1973 (Repercussão Geral), declarou inconstitucional a alteração da Lei nº 8.212/1991 pela Lei nº 8.540/1992, por ofensa formal (necessidade de Lei Complementar para tratar da matéria).
+2. Em decisão proferida pelo eminente relator Min. Ricardo Lewandowski, em embargos de declaração opostos pela União, nos autos do. RE 596.177, acima mencionado, restou explicitado que: "a discussão do tema com enfoque na Lei 10.256/2001 teve sua repercussão geral reconhecida nos autos do RE 718.874/RS, de minha relatoria. Assim, o julgamento desse feito será a oportunidade adequada para o enfrentamento da matéria.".
+3. Sobre o tema, o egrégio Supremo Tribunal Federal, em julgamento sob o rito do art. 543-B do Código de Processo Civil de 1973 (Repercussão Geral), nos autos do RE 718.874/RS, em 30/03/2017, declarou que: "É constitucional formal e materialmente a contribuição social do empregador rural pessoa física, instituída pela Lei 10.256/2001, incidente sobre a receita bruta obtida com a comercialização de sua produção.".
+4. Assim, a Suprema Corte reconheceu que a Lei nº 10.256/2001 afastou a inconstitucionalidade da exação questionada, vez que foi editada posteriormente à Emenda Constitucional nº 20/98, que deu nova redação ao inciso I do art. 195 da Constituição Federal.
+5. No que tange aos honorários de sucumbência, tal verba tem característica complementar aos honorários contratuais, haja vista sua natureza remuneratória.
+6. Ademais, a responsabilidade do advogado não tem relação direta com o valor atribuído à causa, vez que o denodo na prestação dos serviços há de ser o mesmo para quaisquer casos.
+7. Dessa forma, a fixação dos honorários advocatícios deve guardar observância aos princípios da razoabilidade e da equidade, considerando-se o previsto nos incisos nos incisos I a V do § 3º c/c o inciso II do § 4º do art. 85 do NCPC, cujo montante deverá ser apurado no momento processual oportuno.
+8. Apelação do autor não provida. Apelação da Fazenda Nacional e remessa oficial providas.
+Foram rejeitados os embargos declaratórios opostos pela Fazenda Nacional.
+Inicialmente, a recorrente suscita contrariedade ao art. 1.022 do CPC/2015, aduzindo que o Tribunal de origem, a despeito da oposição dos aclaratórios, não se manifestou acerca da inaplicabilidade do disposto no art. 85, § 4º, II, do CPC/2015 ao caso em apreço.
+Em seguida, a recorrente aponta violação do art. 85, § 4º, II e III, do CPC/2015.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+ Assiste razão à recorrente, no que toca à alegada violação ao art. 1.022, do CPC/2015.
+De fato, a recorrente apresentou questão jurídica relevante, qual seja, a possível inaplicabilidade do art. 85, § 4º, II, do CPC/2015 ao presente caso, tendo em vista que, em decorrência do improvimento da ação judicial em comento, não haverá liquidação do julgado. Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou a questão.
+Nesse contexto, diante da referida omissão, apresenta-se violado o art. 1.022 do CPC/2015, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos.
+Com o mesmo diapasão, destaco os seguintes precedentes, in verbis:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OMISSÃO QUANTO À QUESTÃO FUNDAMENTAL PARA ANÁLISE DA DEMANDA. RECURSO ESPECIAL DO MPF PROVIDO PARA ANULAR O ACÓRDÃO PROFERIDO EM SEDE DE EMBARGOS DE DECLARAÇÃO E DETERMINAR O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM A FIM DE QUE SUPRA A OMISSÃO APONTADA, PREJUDICADA A ANÁLISE DAS DEMAIS QUESTÕES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Da análise dos autos, verifica-se de que as alegações apresentadas pelo Ministério Publico Federal, em sede de Embargos Declaratórios, especialmente quanto a importância ambiental da área, que abriga espécime raro e as falhas apontada no Estudo de Impacto Ambiental, não foram realmente analisados pela Corte local.
+2. Com a oposição dos Embargos de Declaração, foi expressamente solicitada a manifestação do colegiado acerca de tais questões, de forma que lhe cabia analisar o ponto omisso/contraditório e sanar a irregularidade apontada. Não tendo o Tribunal sequer feito referência a isso, de fato, houve violação do art. 535, II do CPC, o que importa a reforma da decisão.
+3. Agravo Regimental da UNIÃO desprovido. (AgRg no REsp n. 1.221.403/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, Dje de 23/8/2016).
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECEBIMENTO COMO AGRAVO REGIMENTAL. FUNGIBILIDADE E ECONOMIA PROCESSUAL. ART. 535 DO CÓDIGO DE PROCESSO CIVIL. VIOLAÇÃO. OMISSÃO EXISTENTE. SOLUÇÃO DA CONTROVÉRSIA. QUESTÃO RELEVANTE. RETORNO DOS AUTOS À ORIGEM.
+1. Os princípios da fungibilidade recursal e da economia processual autorizam o recebimento de embargos de declaração como agravo regimental.
+2. Caracteriza-se ofensa ao art. 535 do CPC quando a Corte de origem deixa de se pronunciar a respeito de questões essenciais ao julgamento da lide, as quais poderiam, em tese, levar a resultado diverso.
+3. Agravo regimental não provido. (EDcl no AgRg no REsp n. 1.561.073/AL, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJe de 18/4/2016).
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunal a quo para que se manifeste especificamente sobre as questões articuladas nos declaratórios.
+Publique-se. Intimem-se.
