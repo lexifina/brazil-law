@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão proferida pelo Tribunal de Justiça do Estado de Mato Grosso do Sul que inadmitiu recurso especial interposto com fundamento na alínea a do permissivo constitucional.
+De acordo com o contido nos autos, em primeiro grau de jurisdição, rejeitou-se a imputação de furto de uma bicicleta avaliada em R$200,00 (duzentos reais) pelo ora agravante (e-STJ fls. 57/59).
+Inconformado, o Parquet interpôs recurso em sentido estrito, ao qual o Tribunal de origem, por unanimidade de votos, deu provimento para determinar o regular prosseguimento do feito contra o ora agravante, nos seguintes termos (e-STJ fl. 108):
+RECURSO EM SENTIDO ESTRITO MINISTERIAL - FURTO - PRETENDIDO RECEBIMENTO DA DENÚNCIA - CABÍVEL - REQUISITOS DO ART. 41, DO CÓDIGO DE PROCESSO PENAL - PRINCÍPIO DA INSIGNIFICÂNCIA - NÃO APLICÁVEL - CONDUTA TÍPICA - NECESSÁRIA INTERVENÇÃO DO ESTADO - RECURSO PROVIDO.
+O valor total do prejuízo patrimonial causado à vítima não deve ser o único parâmetro para a análise da lesividade da conduta. Para configuração do delito bagatelar, a jurisprudência dos Tribunais Superiores assentou ser imprescindível a análise prudente e criteriosa dos seguintes elementos: (I) a mínima ofensividade da conduta do agente; (II) a ausência total de periculosidade social da ação; (III) o ínfimo grau de reprovabilidade do comportamento e (IV) a inexpressividade da lesão jurídica ocasionada. No caso em análise, o recorrido subtraiu uma bicicleta. Possui registros e condenação por delitos patrimoniais.
+Não conformada, a defesa aduziu nas razões do recurso especial que "alusões a fatos tidos como depreciativos à vida pregressa do ora recorrente, como soe acontecer na espécie, não constituem, ao nosso sentir, fundamentação idônea à legitimar a decisão combatida, uma vez que ferem prerrogativas inerentes à dignidade da pessoa humana, enquanto valor consagrado em nossa Carta Política, assim como em importantes documentos internacionais de que o Brasil se fez signatário" (e-STJ fl. 128).
+Relevou "o reduzidíssimo grau de reprovabilidade da conduta imputada ao recorrente, em face da inexpressividade da lesão jurídica provocada, sobretudo se compararmos a presente casuística com crimes de real monta que, com alarmante frequência, ocupam, diuturnamente, o espaço midiático, envolvendo, inclusive, atos de corrupção perpetrados pelos criminosos do colarinho branco" (e-STJ fl. 132).
+Pugnou, assim, pelo restabelecimento da decisão que rejeitou a denúncia.
+Contraminuta às e-STJ fls. 183/193.
+Inadmitido o apelo extremo, o recurso subiu a esta Corte por meio de agravo.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não provimento do agravo (e-STJ fls. 200/202).
+É, em síntese, o relatório.
+Decido.
+O Supremo Tribunal Federal consagrou o entendimento de que, para a aplicação do princípio da insignificância, devem estar presentes, cumulativamente, as seguintes condições objetivas: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento do agente; e d) inexpressividade da lesão jurídica provocada. Preenchidos todos esses requisitos, a aplicação do princípio possui o condão de afastar a própria tipicidade penal, especificamente na sua vertente material.
+No caso, não há como se aplicar o referido princípio, uma vez que o ora agravante é multirreincidente em furto simples e qualificado (e-STJ fls. 47/49), circunstância que frustra o preenchimento dos retromencionados requisitos, notadamente o reduzido grau de reprovabilidade do comportamento do agente e, consequentemente, a mínima ofensividade de sua conduta.
+A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 155 DO CP. PLEITO DE ABSOLVIÇÃO. ATIPICIDADE DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. REINCIDÊNCIA. ENTENDIMENTO DOMINANTE DO STJ. SÚMULA N.º 568/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Ressalvado o entendimento desta relatoria, a Terceira Seção desta Corte Superior, no julgamento dos EAREsp n.º 221.999/RS, firmou "a orientação no sentido de que a reiteração criminosa inviabiliza a aplicação do princípio da insignificância, ressalvada a possibilidade de, no caso concreto, as instâncias ordinárias verificarem que a medida é socialmente recomendável".
+2. Agravo regimental a que se nega provimento. (AgInt no AREsp 902.930/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 02/06/2016, DJe 17/06/2016.)
+PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. REITERAÇÃO CRIMINOSA. SEIS CONDENAÇÕES. TRÂNSITO EM JULGADO. REINCIDÊNCIA. INDEVIDA A INCIDÊNCIA DA BAGATELA. CONDUTA SOCIAL CONTRÁRIA À ORDEM LEGAL.
+1. A jurisprudência desta Corte Superior está firmada no sentido da não incidência do princípio da insignificância nas hipóteses de reiteração de delitos e reincidência, como é o caso dos autos.
+2. Apesar de a pena ter sido fixada em 2 anos de reclusão, foi considerada negativa a circunstância judicial relativa à conduta social e ao fato de existirem seis condenações transitadas em julgado contra o agravante. Razoável, portanto, a fixação do regime semiaberto no presente caso.
+3. Agravo regimental improvido. (AgRg no AREsp 896.863/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/05/2016, DJe 13/06/2016.)
+PENAL. AGRAVO INTERNO EM RECURSO ESPECIAL. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. RES FURTIVA. VALOR NÃO IRRISÓRIO. REINCIDÊNCIA. INAPLICABILIDADE.
+ ..
+II - Na linha da jurisprudência desta eg. Corte, ressalvado o meu entendimento pessoal, mostra-se incompatível com o princípio da insignificância a conduta ora examinada, haja vista que, conforme consta do voto vencido do v. acórdão reprochado, o recorrido é reincidente (precedentes).
+Agravo Regimental desprovido. (AgInt no REsp 1585687/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/06/2016, DJe 22/06/2016.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
