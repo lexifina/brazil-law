@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo regimental interposto contra decisão por mim proferida que proveu o apelo nobre defensivo para cassar o acórdão recorrido e restabelecer a decisão denegatória de livramento condicional (fls. 125/129).
+A defesa sustenta contradição no julgado, pois à fl. 126 consta "O recurso não merece prosperar", na parte dispositiva dá provimento ao recurso especial "para cassar o acórdão recorrido e restabelecer a decisão de fls. 23/24 que negou o pedido de concessão de livramento condicionai ao recorrido" (fl. 129).
+Consigna que os julgados colacionados na decisão agravada e também pela defesa são no sentido do desprovimento do apelo nobre por incidência do enunciado n. 7 da Súmula/STJ.
+Alega que o cometimento de faltas graves no curso da execução penal, conforme se verifica seu no histórico carcerário, não deve justificar a vedação à concessão do livramento condicional, pois conforme seu relato: "(..) a última falta grave foi cometida há mais de 08 (oito) anos, sendo que o agravante teve, na época, regredido o regime e, desta forma, impossibilitar a concessão do Livramento Condicional ensejaria uma dupla punição ao reeducando - bis in idem, não podendo o mesmo fato ser sopesado novamente para configurar comportamento carcerário insatisfatório, de modo a impedir a concessão do livramento condicional." (fl. 142, grifos no original).
+Pugna pelo provimento do presente agravo interno para reconsideração da decisão agravada e desprovimento do apelo nobre ministerial, mantendo-se o deferimento do livramento condicional pelo Tribunal de origem (fls. 137/143).
+É o relatório.
+De fato, analisando as razões trazidas no agravo regimental, verifico assistir razão ao agravante, motivo pelo qual reconsidero a decisão vergastada, nos termos do art. 259 do Regimento Interno do STJ, para conhecer do recurso especial.
+Passo ao exame do apelo nobre, adotando o relatório exposto na decisão agravada, do seguinte teor, litteris:
+Trata-se de recurso especial, com fulcro no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul.
+Consta dos autos que [NOME] CERQUEIRA [NOME], no curso de sua reprimenda, requereu a concessão de livramento condicional, o que foi negado pelo Juízo da 1a Vara de Execução Penal da Comarca de Campo Grande/MS, por ausência do requisito subjetivo (conduta carcerária insatisfatória, com registro de cinco faltas disciplinares de natureza grave) (fls. 23/24).
+A defesa interpôs agravo em execução, o qual foi provido nos termos
+da seguinte ementa (fl. 64):
+EMENTA - AGRAVO CRIMINAL - LIVRAMENTO CONDICIONAL INDEFERIDO - INSURGÊNCIA DEFENSIVA - REQUISITOS OBJETIVO E SUBJETIVO PREENCHIDOS - FALTA DISCIPLINAR ANTIGA E PUNIDA - RECURSO PROVIDO.
+Eventuais faltas disciplinares, cometidas há tempo razoável e que receberam a adequada punição, não são fundamentos válidos para o indeferimento do livramento condicional, sendo que preenchidos os requisitos objetivos e subjetivos, concede-se o benefício.
+Irresignado, o Parquet interpôs recurso especial alegando violação ao art. 83, III, do Código Penal.
+Sustenta que o condenado não preencheu o requisito subjetivo exigido no inciso III do art. 83 do CP, ressaltando entendimento deste Egrégio Tribunal Superior no sentido de ser empecilho para a concessão do livramento condicional, colacionando julgados nesse sentido.
+Destaca que na última fuga, permaneceu foragido por 1 (um) ano e 5 (cinco) meses e 22 (vinte e dois) dias, fato este corroborador do comportamento carcerário insatisfatório do recorrido.
+Aponta, ainda, que, não obstante o teor do enunciado n. 444 da Súmula/STJ, "as faltas disciplinares praticadas no decorrer da execução penal justificam o indeferimento do benefício, pelo inadimplemento do requisito subjetivo, sendo que para a concessão do benefício deve ser realizada análise global do comportamento do reeducando durante toda a execução da reprimenda." (fl. 85).
+Pugna pelo provimento do apelo nobre para restabelecer a decisão de 1o grau indeferitória do benefício do livramento condicional ao recorrido (fls. 76/87).
+Contrarrazões às fls. 191/100.
+Admitido o recurso (fls 103/105), os autos vieram a esta Corte.
+O Ministério Público, em seu parecer de fls. 119/122, opina pelo provimento do apelo nobre.
+É o relatório.
+ Decido.
+O recurso não merece prosperar.
+O voto condutor foi no seguinte sentido, verbis (fls. 65/68):
+Dispõe o art. 83, do Código Penal:
+Art. 83-0 juiz poderá conceder livramento condicional ao condenado a pena privativa de liberdade igual ou superior a 2 (dois) anos, desde que: (-)
+II - cumprida mais da metade se o condenado for reincidente em crime doloso;
+III- comprovado comportamento satisfatório durante a execução da pena, bom desempenho no trabalho que lhe foi atribuído e aptidão para prover à própria subsistência mediante trabalho honesto;
+Desta forma, para desfrutar do benefício do livramento condicional o reeducando deve preencher o requisito objetivo - lapso temporal - e o subjetivo - comportamento satisfatório.
+In casu, colhe-se que o agravante implementou o requisito objetivo em 10.7.14, sendo que o magistrado da instância singela deixou de conceder o benefício pela ausência de cumprimento do requisito subjetivo. ..
+Observa-se que o magistrado sustentou a ausência de preenchimento do requisito subjetivo para o desfrute do livramento condicional diante das faltas graves que o agravante registra.
+É bem verdade que a prática de falta grave, embora não interrompa o lapso temporal para aferição do requisito objetivo do livramento condicional (Súmula 441 do STJ), pode impedir a concessão do citado benefício por demonstrar a ausência de preenchimento do requisito subjetivo, nos termos do art. 83, III, do Código Penal, conforme recentes decisões do Superior Tribunal de Justiça.
+Entretanto, para considerar não preenchido o requisito subjetivo diante do cometimento de falta grave deve-se analisar as peculiaridades do feito a fim de observar o mérito do reeducando durante todo o cumprimento da reprimenda.
+Nesse diapasão. tem-se que o agravante foi condenado pelos delitos do Art. 157 § 2º, I, II c/c Art. 71 "caput" e Art. 157 § 2º, I, II (duas vezes) e Art. 71 "caput" ambos c/c Art. 61 "caput". I e Art. 348 "caput" e Art. 288 "único" e Art. 71 "caput" e Art. 157 § 2º, I, II e Art. 289 § P e Art. 157 § 2º, /, II todos do(a) CP, à pena de 48 anos, 9 meses e 28 dias de reclusão, iniciando o cumprimento da reprimenda em 15.8.94.
+Registra 5 (cinco) faltas graves consistentes em fugas, sendo que a última foi registrada em 29.4.08 ensejando a sua recaptura em 22.10.09, sendo gue progrediu para o regime semi aberto em 15.5.14. contudo, diante da unificação das condenações, regrediu ao regime fechado em 29.6.16, conforme f.. 648 dos autos 039597-27.2004.8.12.0001.
+Feitos tais apontamentos, tenho que as faltas graves cometidas pelo agravante durante o cumprimento da reprimenda não são suficientes para ensejar o desmérito e impedi-lo de desfrutar do livramento condicional.
+Ora, a última falta grave cometida ensejou a sua recaptura há quase 8 anos (falta cometida em 29.4.08 e recaptura em 22.10.09). sendo que, conforme certidão de f. 21, apresenta conduta carcerária classificada como "BOA".
+Assim, é desarrazoável sustentar que o agravante não preenche o requisito subjetivo para o livramento condicional considerando faltas graves antigas, que inclusive foram punidas com regressão de regime, bem como já ultrapassado o lapso referente a reabilitação, nos termos do artigo 133, III, do Decreto Estadual nº 12.140/2006 (Regimento Interno Básico dos Estabelecimentos Penais do Estado de Mato Grosso do Sul - RIBUP).
+Não se desconhece que o RIBUP, tratando-se de um decreto, não vincula a atividade jurisdicional. Entretanto, notório é que traz importantes ferramentas para a análise do requisito subjetivo para a concessão do livramento condicional, inclusive prazos proporcionais e razoáveis para, conforme a gravidade da falta disciplinar cometida, considerá-la como empecilho ou não ao desfrute de benefícios na execução penal e melhor individualizar o cumprimento da pena.f..l
+Ademais, registre-se que o artigo 83. do Código Penal, não condiciona o desfrute do benefício do livramento condicional á obrigatoriedade de que o reeducando passe por regimes intermediários.  ..
+Desta forma, tenho que inexistem razões para o indeferimento do benefício ao agravante, posto que preenche os requisitos objetivos e subjetivos para desfrutar da benesse, sendo que quanto ao prequestionamento a matéria foi totalmente exaurida restando desnecessária a indicação pormenorizada dos respectivos artigos.
+Ante o exposto, contra o parecer, dou provimento ao agravo para, diante dos requisitos (objetivo e subjetivo) verificados, conceder o livramento condicional ao agravante [NOME].
+In casu, verifico que o Tribunal de origem, concluiu estarem preenchidos tanto o requisito objetivo (lapso temporal) quanto o subjetivo (bom comportamento carcerário). Rever tal entendimento demandaria o revolvimento fático-probatório dos autos, providência de todo inviável nesta instância recursal, por óbice do enunciado n. 7 da Súmula/STJ. Cito os seguintes precedentes:
+PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. FALTA GRAVE. REQUISITO SUBJETIVO CONSIDERADO CUMPRIDO PELO TRIBUNAL DE ORIGEM, A PAR DA EXISTÊNCIA DE FALTA GRAVE ANTERIOR. REVISÃO. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7 DO STJ. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. Nos termos da jurisprudência desta Corte, é possível a consideração de faltas graves ocorridas há mais de 6 meses para aferição do requisito subjetivo para o livramento condicional.
+2. Entendendo o Tribunal de origem que, a par da falta grave cometida há mais de 6 meses, o apenado teria demonstrado comportamento carcerário satisfatório nos últimos anos, a reversão das premissas fáticas assentadas no acórdão esbarraria no reexame de fatos e provas, descabido em recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo regimental improvido (AgRg no REsp 1566483, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 11/05/2018).
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE LIVRAMENTO CONDICIONAL. FUGA DO PRESÍDIO NO CURSO DA EXECUÇÃO DA PENA. COMPORTAMENTO CARCERÁRIO INSATISFATÓRIO. AUSÊNCIA DO REQUISITO SUBJETIVO. APLICAÇÃO DA SÚMULA 83/STJ. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. O Tribunal de origem ao concluir que a falta grave não interrompe o prazo para obtenção do livramento condicional (Súmula 441/STJ), ou seja, não afeta o requisito objetivo, mas interfere diretamente no requisito subjetivo, nos termos do art. 83, III, do Código Penal, alinha-se à orientação jurisprudencial pacífica nesta Corte. Incidência da Súmula 83/STJ.
+2. Ademais, a revisão das conclusões das instâncias ordinárias para aferir o mérito subjetivo do apenado encontra óbice na Súmula 7/STJ.
+3. Agravo regimental improvido (AgRg no AREsp 727001, rEL. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 14/09/2015).
+Ante o exposto, dou provimento ao agravo regimental para reconsiderar a decisão agravada e, com fundamento no Enunciado n. 568 da Súmula/STJ, negar provimento ao recurso especial.
+Intime-se. Publique-se.
