@@ -1,0 +1,101 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - PLANO DE SAÚDE - RECUSA DE INTERNAÇÃO - ATENDIMENTO DE URGÊNCIA - ÍNDOLE ABUSIVA - DANOS MORAIS DEVIDOS - JURISPRUDÊNCIA - QUANTUM INDENIZATÓRIO - REVISÃO - IMPOSSIBILIDADE - AGRAVO NÃO PROVIDO.
+1. Nas hipóteses em que há recusa injustificada de cobertura por parte da operadora do plano de saúde para tratamento do segurado, sobretudo em casos de urgência, como ocorrido no presente caso, a orientação desta Corte é assente quanto à caracterização de dano moral, não se tratando apenas de mero aborrecimento. Precedentes
+2. É possível a revisão do montante da indenização por danos morais nas hipóteses em que o quantum fixado for exorbitante ou irrisório, o que, no entanto, não ocorreu no caso em exame, pois o valor da indenização, arbitrado em R$ 7.000,00 (sete mil reais), não é excessivo nem desproporcional aos danos sofridos.
+3. Agravo interno ao qual se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (Relator) :
+Trata-se de agravo interno interposto por UNIMED - RIO COOPERATIVA DE TRABALHO MÉDICO DO RIO DE JANEIRO LTDA contra decisão que conheceu do agravo para não conhecer do recurso especial pelos seguintes fundamentos: a) aplicação da Súmula 83/STJ quanto à tese adotada pelo acórdão recorrido de que nas hipóteses em que há recusa injustificada de cobertura por parte da operadora do plano de saúde para tratamento do segurado, sobretudo em casos de urgência, como ocorrido no presente caso, a orientação desta Corte é assente quanto à caracterização de dano moral, não se tratando apenas de mero aborrecimento; b) necessidade de reexame do conjunto probatório dos autos, procedimentos vedados em sede especial, a teor da Súmula 7 do Superior Tribunal de Justiça; e c) consoante entendimento desta Corte Superior, somente é admitida, em recurso especial, a alteração do montante fixado a título de indenização por danos morais quando ínfimo ou exagerado, o que não ocorre na presente hipótese.
+Nas razões recursais, a agravante sustenta que não será necessário revalorar fatos ou provas, bem como que não se aplica a Súmula 83/STJ uma vez que o simples inadimplemento contratual não caracteriza, por si só, dano moral. Aduz, a necessidade de redução do quantum indenizatório, porquanto excessivo.
+Afirma, ainda, que não cabe a majoração dos honorários advocatícios, uma vez que o recurso nem sequer foi conhecido.
+Devidamente intimada, a agravada apresentou impugnação (e-STJ, fls. 280/283).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (Relator) :
+Na análise dos autos, observa-se que os argumentos trazidos pela recorrente mostram-se insuficientes para infirmar a decisão agravada, a qual deve ser mantida.
+Quanto à questão de fundo, a Corte estadual consignou que a inércia da operadora do plano de saúde em autorizar a cirurgia coberta pelo contrato revela-se abusiva, bem como o procedimento pleiteado ocorreu em situação de urgência devidamente comprovada, ensejando o pagamento de indenização por danos morais, conforme se infere do seguinte trecho a seguir transcrito:
+Conforme já decidi em casos análogos (vide Apelação Cível nº 0006737-31.2011.8.26.0132), a inércia da ré em autorizar cirurgia coberta pelo contrato firmado entre as partes corresponde à negativa ilícita de cobertura. No caso, incontroverso que a guia de solicitação de internação fora expedida em 28/08/2014 (fl. 77) e a autorização fora emitida tão-somente em 10/09/2014 (conforme confessado em contestação fl. 123), após ordem judicial determinando o cumprimento da respectiva obrigação (note-se a resistência da operadora em cumprir com referida determinação judicial - fls. 82/118).
+Nesse contexto, andou bem a MMª Juíza a quo ao julgar procedente o pleito inicial, inclusive no tocante à condenação da operadora ao pagamento de indenização por danos morais (nesse sentido, Apelação de minha relatoria:
+0006737-31.2011.8.26.0132):
+"(..) Restou incontroversa a qualidade de beneficiária do seguro de saúde da ré por parte da autora, bem como do cumprimento das obrigações contratuais por ela assumidas. Os documentos juntados comprovam o problema de saúde por parte da autora, com a prescrição do tratamento negado pela ré, que alega questões relacionadas à burocracia interna entre às diversas Unimeds, o que não pode ser utilizado para prejudicar a autora. A ré alega que não houve negativa do tratamento, mas a autora trouxe documentos que fazem prova da mesma, que só se deu após a determinação judicial e mesmo assim com dificuldade. O contrato firmado entre as partes prevê o tratamento, não se justificando a negativa de cobertura no hospital credenciado por questões burocráticas internas da ré.
+Não trouxe a ré nenhuma outra justificativa para a não autorização imediata da cirurgia no hospital credenciado. Não há como se justificar que em contrato celebrado para fins de custeio da saúde da autora, a demora na autorização de cirurgia necessária e urgente. Além disso, não há como se afastar a negativa da ré e seu descumprimento contratual, tendo esta ensejado constrangimento à autora, que se viu privada de tratamento que necessitava sem justificativa, o qual juridicamente é transformado em dano moral. Houve extravasamento dos limites sociais de tolerância por parte da ré, com enorme desconforto para a autora, que teve que se socorrer do Judiciário para receber o tratamento de que necessitava, que gerou certamente um abalo emocional, juridicamente transformado em dano moral, indenizável. Estabelecida a necessidade da indenização, nos termos do artigo 187 do Código Civil, cumpre fixar o valor do prejuízo moral suportado pelo autor, a ser indenizado pela ré, de modo a ensejar a justa reparação sem causar enriquecimento ilícito. Considero justa a fixação da indenização em R$ 5.000,00, considerando a gravidade da doença da autora, a urgência com que necessitava do tratamento negado e a pos tura processual da ré de não o fornecer mesmo depois de concedida a antecipação da tutela." (fls. 157/158)
+Por outro lado, o quantum indenizatório comporta majoração para R$ 7.000,00. Com efeito, assim já decidi em hipóteses de recusa indevida por parte das operadoras de plano de saúde:
+"(..) A fixação da indenização por danos morais deve observar a repercussão do fato na vida pessoal e econômica do autor, sem enriquecimento ilícito, e as condições financeiras do réu, pois não se pode perder de vista o caráter punitivo da indenização.
+Considerando-se tais parâmetros e em atenção aos princípios da proporcionalidade e razoabilidade, o valor arbitrado (R$ 7.000,00), revela-se adequado à espécie, não merecendo, por isso, ser reduzido ou majorado". (TJSP, Apelação Cível nº 1015886-22.2014.8.26.0005, 6ª Câmara de Direito Privado, minha relatoria, j. 08/03/2016, V.U.) (e-STJ, fls. 204/206)
+Por sua vez, a jurisprudência desta eg. Corte Superior de Justiça é no sentido de que, nada obstante o inadimplemento contratual não dê ensejo, em regra, a reparação de ordem extrapatrimonial, é possível, nos casos em que considerada injusta a recusa de cobertura por parte do plano de saúde, a condenação em pagamento de dano moral, quando a negativa agrava o contexto de aflição psicológica do segurado, como na hipótese, ultrapassando os limites do mero desconforto ou aborrecimento.
+É o que se depreende dos seguintes precedentes:
+"AGRAVO INTERNO NO RECURSO ESPECIAL TIRADO DE DECISÃO PUBLICADA ANTES DA VIGÊNCIA DO NOVO CPC. PLANO DE SAÚDE. RECUSA DE COBERTURA DE MATERIAL ESSENCIAL À REALIZAÇÃO DE CIRURGIA CARDÍACA DE URGÊNCIA (IMPLANTAÇÃO DE MARCAPASSO). DANO MORAL CONFIGURADO.
+1. A recusa indevida/injustificada do plano de saúde em proceder à cobertura financeira de material essencial ao êxito de procedimento cirúrgico coberto enseja reparação a título de dano moral, por agravar a situação de aflição psicológica e de angústia no espírito do usuário, já
+combalido pela própria doença. Precedentes.
+2. Agravo interno não provido."
+(AgInt no REsp 1.614.203/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/08/2017, DJe de 04/09/2017)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA INJUSTIFICADA DE COBERTURA. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. INTERPRETAÇÃO DE
+CLÁUSULA CONTRATUAL. REEXAME DE PROVAS. SÚMULAS NºS 5
+E 7/STJ. AUSÊNCIA DE FUNDAMENTO CAPAZ DE ALTERAR A DECISÃO AGRAVADA.
+1. A jurisprudência desta Corte reconhece a possibilidade do plano de saúde estabelecer as doenças que terão cobertura, mas não o tipo de tratamento utilizado para a cura de cada uma delas.
+2. É abusiva a negativa de cobertura pelo plano de saúde de procedimento, tratamento, medicamento ou material considerado essencial para preservar a saúde e a vida do paciente.
+3. No caso, o Tribunal de origem interpretou o contrato de forma favorável ao recorrido, afirmando que a limitação se mostrou abusiva, porquanto o material excluído era indispensável ao êxito do tratamento que estava previsto no contrato, na especialidade de ortopedia. A revisão de tal conclusão esbarra nos óbices das das Súmulas nºs 5 e 7/STJ.
+4. Agravo regimental não provido."
+(AgRg no REsp 1.325.733/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 15/12/2015, DJe de 03/02/2016, grifou-se)
+"AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. DIREITO CIVIL E DO CONSUMIDOR. RESPONSABILIDADE CIVIL. PLANO DE SAÚDE. NEGATIVA ILEGAL DE COBERTURA. DANO MORAL. CABIMENTO.
+..
+2. Conquanto geralmente nos contratos o mero inadimplemento contratual não enseja o direito ao ressarcimento dos danos morais, a jurisprudência desta Corte é assente no sentido de que, considerada injusta a recusa de cobertura de seguro de saúde, é devida a indenização pelo agravamento da situação de aflição psicológica e de angústia no espírito do assegurado. Precedentes.
+3. Agravo regimental a que se nega provimento."
+(AgRg no Ag 1.100.359/MT, Rel. Ministro VASCO DELLA GIUSTINA - DESEMBARGADOR CONVOCADO DO TJ/RS -, TERCEIRA TURMA, julgado em 23/11/2010, DJe de 03/12/2010)
+"PROCESSUAL CIVIL E CONSUMIDOR. PLANO DE SAÚDE. CÓDIGO DE DEFESA DO CONSUMIDOR. CLÁUSULA ABUSIVA. DANO MORAL.
+..
+4. Tendo a empresa-ré negado ilegalmente a cobertura das despesas médico-hospitalares, causando constrangimento e dor psicológica, consistente no receio em relação ao restabelecimento da saúde do filho, agravado pela demora no atendimento, e no temor quanto à impossibilidade de proporcionar o tratamento necessário a sua recuperação, deve-se reconhecer o direito do autor ao ressarcimento dos danos morais, os quais devem ser fixados de forma a compensar adequadamente o lesado, sem proporcionar enriquecimento sem causa.
+Recurso especial de GOLDEN CROSS ASSISTÊNCIA INTERNACIONAL DE SAÚDE LTDA não provido. Recurso especial de
+[NOME] provido."
+(REsp 285.618/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/12/2008, DJe de 26/02/2009)
+Desse modo, encontrando-se o aresto recorrido em sintonia com a orientação firmada nesta Corte Superior, incide o óbice previsto na Súmula 83 do STJ.
+Outrossim, a reversão do julgado no sentido de afastar as provas que resultaram na condenação da ora agravante, é inviável para esta eg. Corte de Justiça, tendo em vista a necessidade de se reexaminar o contexto fático-probatório dos autos, providência, todavia, incabível, a atrair a incidência da Súmula 7 do Superior Tribunal de Justiça.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. CUSTEIO DE EXAME E PROCEDIMENTO CIRÚRGICO. RECUSA. CARÁTER ABUSIVO. DANO MORAL. QUANTUM INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A eg. Corte de origem, com base nos elementos fático-probatórios constantes nos autos, consignou que ficou cabalmente demonstrada nos autos a negativa de cobertura de exame e procedimento cirúrgico por parte da empresa de plano de saúde.
+2. A reversão do julgado, no sentido de reconhecer que não houve a referida recusa por parte da agravante, é inviável para esta eg. Corte de Justiça, tendo em vista a necessidade de se reexaminar o contexto fático-probatório dos autos, providência, todavia, incabível, a atrair a incidência da Súmula 7 do Superior Tribunal de Justiça.
+3. Ademais, nas hipóteses em que há recusa injustificada de cobertura por parte da operadora do plano de saúde para tratamento do segurado, como ocorrido no presente caso, a orientação desta Corte é assente quanto à caracterização de dano moral, não se tratando apenas de mero aborrecimento. Precedentes.
+4. É possível a revisão do montante da indenização por danos morais nas hipóteses em que o quantum fixado for exorbitante ou irrisório, o que, no entanto, não ocorreu no caso em exame, pois o valor da indenização, arbitrado em R$ 4.000,00 (quatro mil reais), não é excessivo nem desproporcional aos danos sofridos - recusa do plano de saúde em custear cirurgia com material requerido pelo médico da autora.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1113337/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/09/2017, DJe 20/10/2017)
+Com relação ao valor fixado a título de indenização por danos morais, o Superior Tribunal de Justiça firmou orientação de que somente é admissível o exame do valor fixado a título de danos morais em hipóteses excepcionais, quando for verificada a exorbitância ou a índole irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade.
+Nesse sentido: AgRg no REsp 971.113/SP, Quarta Turma, Rel. Min. JOÃO OTÁVIO DE NORONHA, DJe de 8/3/2010; AgRg no REsp 675.950/SC, Terceira Turma, Rel. Min. SIDNEI BENETI, DJe de 3/11/2008; AgRg no Ag 1.065.600/MG, Terceira Turma, Rel. Min. MASSAMI UYEDA, DJe de 20/10/2008.
+A respeito do tema, salientou o eminente Ministro ALDIR PASSARINHO JUNIOR: "A intromissão do Superior Tribunal de Justiça na revisão do dano moral somente deve ocorrer em casos em que a razoabilidade for abandonada, denotando um valor indenizatório abusivo, a ponto de implicar enriquecimento indevido, ou irrisório, a ponto de tornar inócua a compensação pela ofensa efetivamente causada " (REsp 879.460/AC, Quarta Turma, DJe de 26/4/2010).
+No mesmo sentido:
+"AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. DIREITO CIVIL E DO CONSUMIDOR. RESPONSABILIDADE CIVIL. PLANO DE SAÚDE. NEGATIVA ILEGAL DE COBERTURA. DANO MORAL. CABIMENTO.
+..
+2. Conquanto geralmente nos contratos o mero inadimplemento contratual não enseja o direito ao ressarcimento dos danos morais, a jurisprudência desta Corte é assente no sentido de que, considerada injusta a recusa de cobertura de seguro de saúde, é devida a indenização pelo agravamento da situação de aflição
+psicológica e de angústia no espírito do assegurado. Precedentes.
+3. Agravo regimental a que se nega provimento."
+(AgRg no Ag 1.100.359/MT, Rel. Ministro VASCO DELLA GIUSTINA - DESEMBARGADOR CONVOCADO DO TJ/RS -, TERCEIRA TURMA, julgado em 23/11/2010, DJe de 03/12/2010)
+"PROCESSUAL CIVIL E CONSUMIDOR. PLANO DE SAÚDE. CÓDIGO DE DEFESA DO CONSUMIDOR. CLÁUSULA ABUSIVA.
+DANO MORAL.
+..
+4. Tendo a empresa-ré negado ilegalmente a cobertura das despesas
+médico-hospitalares, causando constrangimento e dor psicológica, consistente no receio em relação ao restabelecimento da saúde do filho, agravado pela demora no atendimento, e no temor quanto à impossibilidade de proporcionar o tratamento necessário a sua recuperação, deve-se reconhecer o direito do autor ao ressarcimento dos danos morais, os quais devem ser fixados de forma a compensar adequadamente o lesado, sem proporcionar enriquecimento sem causa.
+Recurso especial de GOLDEN CROSS ASSISTÊNCIA INTERNACIONAL DE SAÚDE LTDA não provido. Recurso especial de [NOME] provido."
+(REsp 285.618/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/12/2008, DJe de 26/02/2009)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANO MORAL. HOSPITAL. DESABAMENTO DE TETO. REDUÇÃO DA INDENIZAÇÃO. INVIABILIDADE. RAZOABILIDADE NA FIXAÇÃO DO QUANTUM. DESPROVIMENTO.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+2. Contudo, em hipóteses excepcionais, quando manifestamente evidenciado ser irrisório ou exorbitante o arbitramento da indenização, a jurisprudência desta Corte permite o afastamento do referido óbice, para possibilitar a revisão.
+3. No caso concreto, a indenização arbitrada pelo juízo singular em R$ 35.000,00 (trinta e cinco mil reais) e mantida pelo Tribunal a quo não se
+mostra exorbitante ou desproporcional, máxime se consideradas as peculiaridade do caso em análise.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 61.985/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 15/5/2012, DJe de 21/5/2012)
+RECURSO ESPECIAL. PLANO DE SAÚDE. PRAZO DE CARÊNCIA. SITUAÇÃO DE EMERGÊNCIA. [NOME]. CARÊNCIA CONTRATUAL. ABUSIVIDADE DA CLÁUSULA RESTRITIVA. DANO
+MORAL. OCORRÊNCIA. PRECEDENTES.
+1. A cláusula que estabelece o prazo de carência deve ser afastada em situações de urgência, como o tratamento de doença grave, pois o valor da vida humana se sobrepõe a qualquer outro interesse. Precedentes específicos da Terceira e da Quarta Turma do STJ.
+2. A jurisprudência desta Corte "vem reconhecendo o direito ao ressarcimento dos danos morais advindos da injusta recusa de cobertura
+de seguro saúde, pois tal fato agrava a situação de aflição psicológica e de angústia no espírito do segurado, uma vez que, ao pedir a autorização da seguradora, já se encontra em condição de dor, de abalo
+psicológico e com a saúde debilitada". (REsp 918.392/RN, Rel. Ministra
+NANCY ANDRIGHI).
+3. Atendendo aos critérios equitativos estabelecidos pelo método bifásico adotado por esta Egrégia Terceira Turma e em consonância com inúmeros precedentes desta Corte, arbitra-se o quantum indenizatório pelo abalo moral decorrente da recusa de tratamento médico de emergência, no valor de R$ 10.000, 00 (dez mil reais).
+4. RECURSO ESPECIAL PROVIDO. (REsp 1.243.632/RS, Relator o Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA DJe de 17/9/2012 - grifou-se)
+Ademais, a Segunda Seção, no julgamento do AgInt nos EREsp 1.539.725/DF, concluiu ser devida a majoração da verba honorária sucumbencial, nos termos art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: "a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso (Rel. Ministro Antonio Carlos Ferreira, DJe de 19.10.2017).
+Todos os requisitos elencados no referido julgado foram preenchidos, de modo que não prospera a alegação da parte agravante no sentido de descabimento dos honorários recursais.
+Por fim, não merece ser acolhido o pedido formulado em impugnação do presente agravo interno quanto à incidência de multa.
+Com efeito, na linha do entendimento firmado pela Segunda Seção no julgamento do AgInt nos EREsp 1.120.356/RS, "a aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória". Contudo, o presente agravo interno não apresenta tais características.
+Diante do exposto, nega-se provimento ao agravo interno.
+É como voto.
