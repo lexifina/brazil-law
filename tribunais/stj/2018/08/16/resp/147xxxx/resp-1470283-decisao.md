@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso especial fundado no CPC/73, manejado por [NOME], com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 153):
+IMPOSTO DE RENDA PESSOA FÍSICA. MOLÉSTIA GRAVE. ISENÇÃO. VIA ADMINISTRATIVA. INTERESSE PROCESSUAL.
+Falece de interesse processual ao contribuinte de obter isenção de imposto de renda em razão de moléstia grave quando a sua pretensão já havia sido concedida na via administrativa antes mesmo do ajuizamento da demanda judicial.
+Opostos embargos declaratórios, foram rejeitados (fls. 183/185).
+A parte recorrente sustenta, em resumo, que "Não há, portanto, que se falar em falta de interesse, uma vez que o autor ainda se encontra sem provimento definitivo quanto à isenção pleiteada" (fl. 201).
+É o relatório.
+Registre-se, de logo, que a decisão recorrida foi publicada na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+No que diz respeito à tese de que "Não há  ..  que se falar em falta de interesse, uma vez que o autor ainda se encontra sem provimento definitivo quanto à isenção pleiteada" (fl. 201), cumpre observar que a parte recorrente não amparou o inconformismo na violação de qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Nesse diapasão: AgRg no AREsp 157.696/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 22/11/2012; AgRg nos EDcl no Ag 1.289.685/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 6/8/2010.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
