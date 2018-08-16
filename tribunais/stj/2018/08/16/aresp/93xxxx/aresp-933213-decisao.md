@@ -1,0 +1,26 @@
+DECISÃO
+
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alínea "a" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Imissão de posse. Compra e venda de bem imóvel - Procedência - Conexão com ação de anulatória de ato jurídico - compra e venda proposta pelos réus. Discussão acerca da existência de vício de consentimento no contraio de compra e venda e descumprimento dos autores. Matéria ventilada na ação anulatória. Negócio jurídico válido. Outorga de escritura. Pagamento efetivado. Imissão de posse procedente. Recurso desprovido." (fls.178)
+Nas razões do recurso especial, a parte agravante alega violação aos arts. 171, incisos I e II do Código Civil de 2002, sustentando, em síntese, (a) que houve aproveitamento de vício de consentimento, (b) que a prova pericial não excluiu a possibilidade de redução da capacidade mental do autor e (c) que a parte agravante encontrava-se sob o efeito de medicamento que o tornava absolutamente incapaz quando firmou o negócio jurídico.
+Não foram apresentadas contrarrazões.
+É o relatório. Decido.
+O recurso será examinado à luz do Enunciado n. 2 do Plenário do STJ, nos seguintes termos: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Com relação à suposta violação ao art. 171, I e II do CC/02, tem-se que este não se encontra contemplado no objeto da controvérsia resolvida pelo Tribunal de origem, tampouco foi objeto de embargos de declaração, não se vislumbrando o prequestionamento necessário para viabilizar a interposição do presente recurso especial.
+Daí a inteligência do enunciado da Súmula nº 356 do Supremo Tribunal Federal, aplicada por analogia, a qual orienta que "o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+(..)
+3. Agravo regimental desprovido." (AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe de 25/11/2014)
+Ademais, o Tribunal de origem consignou que a questão do vício de consentimento não poderia ser analisado em razão da conexão com a ação anulatória, que não reconheceu o mesmo, in verbis:
+"Mister consignar que o instituto da conexão visa precipuamente evitar a prolação de decisões conflitantes. No caso em debate, constata-se que os apelantes pretendem anular a venda do imóvel cuja imissão de posse aqui se pleiteia. Para tanto, discorrem, em síntese sobre vício de consentimento, pois à época o correu Angelino tomava medicamento hipnótico - "Dormonid" que, segundo relata, o deixava sem discernimento para a prática de atos, alegando, ainda sobre o inadimplemento do valor integral da venda.
+Dito isto, observo que esta ação é obviamente conseqüência da ação anulatória, pois a pretensão desta imissão na posse é a retomada do imóvel adquirido pelos ora apelados. As questões aqui alegadas pelos apelantes foram apreciadas em sede de ação anulatória, onde a sentença julgou improcedente a ação, tendo sido confirmada por este E. Tribunal de Justiça" (e-STJ, fl. 180)
+Este fundamento (decisão na ação conexa impede a análise do vício de consentimento) não foi objeto de impugnação pela parte agravante e é suficiente, por si só, a manter a decisão da Corte de origem, o que atrai, na hipótese, a incidência por analogia das Súmula 283 e 284 do Supremo Tribunal de Justiça. Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. MONTADORA DE VEÍCULOS. CONCESSIONÁRIAS. SOLIDARIEDADE. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. "A fornecedora de veículos automotores para revenda - montadora concedente - é solidariamente responsável pelos atos de seus prepostos (concessionária) diante do consumidor, ou seja, há responsabilidade de quaisquer dos integrantes da cadeia de fornecimento que dela se beneficia. Precedentes" (AgRg no AREsp 629.301/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/10/2015, DJe 13/11/2015).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 495.367/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/03/2017, DJe 28/03/2017)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
