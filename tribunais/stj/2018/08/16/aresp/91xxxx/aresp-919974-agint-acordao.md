@@ -1,0 +1,33 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECUSO ESPECIAL. TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO CONTRA DECISÃO QUE RECONHECEU A LEGITIMIDADE PASSIVA DA ORA RECORRENTE NO PEDIDO CONTIDO NA EXCEÇÃO DE PRÉ-EXECUTIVIDADE. SÓCIA INTEGRANTE DA SOCIEDADE EMPRESÁRIA À ÉPOCA DOS FATOS. ENTENDIMENTO FIRMADO À VISTA DOS ELEMENTOS E PROVAS DOS AUTOS. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Em se tratando de sócio integrante da sociedade empresária à época dos fatos, não é possível sua exclusão do polo passivo da demanda.
+2. A revisão das premissas dispostas no aresto recorrido, quanto à composição do quadro societário à época dos fatos geradores, é impassível de alteração, já que lastreada nos fatos e provas produzidas nos autos. Incidência da Súmula 7/STJ.
+3. No tocante à alegação de ausência de contraditório no processo administrativo e que a ausência de pagamento do tributo, por si só, não justifica o redirecionamento da execução, deixasse de apreciá-la, porquanto tais argumentos não foram objeto de debate pelo Tribunal de origem, impondo-se o não conhecimento do Recurso Especial, por ausência de prequestionamento; incidência da Súmula 211/STJ.
+4. Caberia à parte recorrente ter interposto Embargos Declaratórios e exposto, nas razões do seu Apelo Raro, violação do art. 535 do CPC/1973 ou 1.022 do Código Fux, a fim de obter o pronunciamento da Corte local sobre o tema inserido nas razões do recurso, o que não ocorreu no caso concreto.
+5. Agravo Interno do Particular a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto contra decisão que negou provimento ao Agravo em Recurso Especial apresentado por [NOME], assim ementada:
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO CONTRA DECISÃO QUE NÃO RECONHECEU A ILEGITIMIDADE PASSIVA DA ORA RECORRENTE NO PEDIDO CONTIDO NA EXCEÇÃO DE PRÉ-EXECUTIVIDADE. SÓCIA INTEGRANTE DA SOCIEDADE EMPRESÁRIA À ÉPOCA DOS FATOS. LEGITIMIDADE RECONHECIDA. ENTENDIMENTO DIVERSO COMO PRETENDIDO, EXIGIRIA O REEXAME DE PROVA DOS AUTOS. SÚMULA 7/STJ. AGRAVO A QUE SE NEGA PROVIMENTO.
+2. A parte agravante, em sua razões recursais, reitera os argumentos já apresentados no Apelo Especial, defendendo, em suma, que, embora integrante do sociedade, somente possuía 5% das quotas e, quando da constituição definitiva do crédito, o Recorrente já não fazia parte do quadro societário, sendo, portanto, parte ilegítima para figurar a presente demanda. Sustenta, ainda, que não participou do processo administrativo e que a ausência de pagamento do tributo, por si só, não justifica o redirecionamento.
+3. Intimada, o Agravado impugnou (fls. 239/241).
+4. É o relatório.
+VOTO
+AGRAVO INTERNO NO AGRAVO EM RECUSO ESPECIAL. TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO CONTRA DECISÃO QUE RECONHECEU A LEGITIMIDADE PASSIVA DA ORA RECORRENTE NO PEDIDO CONTIDO NA EXCEÇÃO DE PRÉ-EXECUTIVIDADE. SÓCIA INTEGRANTE DA SOCIEDADE EMPRESÁRIA À ÉPOCA DOS FATOS. ENTENDIMENTO FIRMADO À VISTA DOS ELEMENTOS E PROVAS DOS AUTOS. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Em se tratando de sócio integrante da sociedade empresária à época dos fatos, não é possível sua exclusão do polo passivo da demanda.
+2. A revisão das premissas dispostas no aresto recorrido, quanto à composição do quadro societário à época dos fatos geradores, é impassível de alteração, já que lastreada nos fatos e provas produzidas nos autos. Incidência da Súmula 7/STJ.
+3. No tocante à alegação de ausência de contraditório no processo administrativo e que a ausência de pagamento do tributo, por si só, não justifica o redirecionamento da execução, deixasse de apreciá-la, porquanto tais argumentos não foram objeto de debate pelo Tribunal de origem, impondo-se o não conhecimento do Recurso Especial, por ausência de prequestionamento; incidência da Súmula 211/STJ.
+4. Caberia à parte recorrente ter interposto Embargos Declaratórios e exposto, nas razões do seu Apelo Raro, violação do art. 535 do CPC/1973 ou 1.022 do Código Fux, a fim de obter o pronunciamento da Corte local sobre o tema inserido nas razões do recurso, o que não ocorreu no caso concreto.
+5. Agravo Interno do Particular a que se nega provimento.
+1. A despeito das razões lançadas pelo agravante, não merece êxito a insurgência.
+2. Cuida-se na origem de Agravo de Instrumento contra decisão que não reconheceu a ilegitimidade passiva da ora Recorrente no pedido contido na Exceção de Pré-executividade.
+3. A Corte de origem, ao analisar a controvérsia, partiu das seguintes premissas:
+No caso sub oculi, consoante afirmado pela própria Agravante e, segundo alteração contratual de fls. 78/83, o fato gerador ocorreu no período em que ela ainda figurava como sócia da Empresa, não sendo possível, portanto, sua exclusão por ilegitimidade passiva.
+(..).
+Ademais, a Agravante somente juntou alteração contratual do período do seu afastamento da sociedade (fls. 78/83), não restando claro se exercia função de gerência, à época da incidência do fato gerador (fls. 169).
+4. O que se extrai da leitura do trecho do acórdão, diversamente do alegado nas razões do Apelo Especial, é que, em se tratando de sócia integrante da sociedade empresária à época dos fatos, não é possível sua exclusão do polo passivo da demanda.
+5. Assim, tal fundamentação mostra-se impassível de alteração, já que lastreada nas provas produzidas nos autos, por incidência da Súmula 7/STJ.
+6. Por fim, no tocante à alegação de ausência de contraditório no processo administrativo e que a ausência de pagamento do tributo, por si só, não justifica o redirecionamento da execução, deixasse de apreciá-la, porquanto tais argumentos não foram objeto de debate pelo Tribunal de origem, impondo-se o não conhecimento do Recurso Especial, por ausência de prequestionamento; incidência da Súmula 211/STJ.
+7. Caberia à parte recorrente ter interposto Embargos Declaratórios e exposto, nas razões do seu Apelo Raro, violação do art. 535 do CPC/1973 ou 1.022 do Código Fux, a fim de obter o pronunciamento da Corte local sobre o tema inserido nas razões do recurso, o que não ocorreu no caso concreto.
+8. Ante o exposto, nega-se provimento ao Agravo Interno do Particular. É como voto.
