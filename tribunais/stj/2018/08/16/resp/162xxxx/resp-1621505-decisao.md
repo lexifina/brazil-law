@@ -1,0 +1,39 @@
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/1973). PLANO DE SAÚDE. TRATAMENTO MULTIDISCIPLINAR. REEMBOLSO. LIMITAÇÃO CONTRATUAL EXPRESSA. REEXAME. SÚMULAS 5 E 7 DO STJ. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por [NOME] (MENOR) fundado nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+ASSISTÊNCIA MÉDICA E HOSPITALAR. Seguro saúde. Recusa na cobertura de sessões para tratamento multidisciplinar. Cláusula restritiva expressa, clara e legível. Inexistência de abusividade. Obediência ao art. 54 § 4º CDC. Recusa justa. Tabela de reembolso que deve ser respeitada. Procedimentos outros recusados porquanto não previstos na ANS que não se sustenta. Contrato que não traz exclusão expressa. Recurso da seguradora provido em parte.(e-STJ fl. 413)
+Os embargos opostos foram rejeitados. (e-STJ fls. 480/485)
+Nas razões do recurso especial, além do dissídio jurisprudencial, a recorrente apontou violação dos artigos 46, 47 e 51, inciso IV, 54, § 4º, do Código de Defesa do Consumidor. Sustentou, em síntese, a nulidade das cláusulas que limitam o reembolso e as sessões de terapia multidisciplinar. Pleiteou o reembolso integral do tratamento multidisciplinar sem a limitação do número de sessões.
+Contrarrazões ao recurso especial apresentadas, às fls. 570/579 e-STJ, sobreveio juízo positivo de admissibilidade do Tribunal de origem, às fls. 583/585 e-STJ.
+É o relatório.
+Passo a decidir.
+A pretensão recursal não merece prosperar.
+Inicialmente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/1973 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça, conforme Enunciado Administrativo nº. 2/STJ.
+O Tribunal de origem, considerando o conteúdo fático-probatório dos autos, concluiu que as cláusulas contratuais que tratam do reembolso e das sessões de terapia multidisciplinar são de fácil compreensão pelo segurado quanto à limitação das coberturas. Confira-se:
+No caso, nota-se que a cláusula excludente de cobertura dessas sessões é limitada conforme regula a ANS (12 sessões), o que vem descrito de forma legível, de modo a permitir sua compreensão pela apelada, daí se concluindo, com razoável facilidade, que a continuação do tratamento pleiteado por ela não está incluído nas coberturas contratadas com a apelante, não se podendo considerar outra interpretação que não a do contrato, também porque não se trata de infringência ao disposto no artigo 54 § 4º do Código de Defesa do Consumidor.
+Afinal, por mais rigor que se possa ter com as cláusulas excludentes em contrato de seguro saúde ou convênio médico, a verdade é que, no caso em análise, o valor pago mensalmente pela apelada lhe permite determinados tipos de cobertura que não a requerida, além do que não se pode exigir que os planos de saúde substituam a função social do Estado, isto porque a exclusão para este tipo de tratamento se deu em razão do valor do prêmio mensal a que a segurada se disponibilizou a pagar, pelo que as restrições se estabelecem de modo a evitar surpresas que desencadeariam desequilíbrio entre as partes.
+(..)
+No que concerne ao reembolso das sessões, nota-se que a cláusula 17 do contrato traz tabela para tanto, a qual deve ser respeitada, não se mostrando possível a concessão de reembolso integral se o contrato é claro ao fixar tabela para esse custo.
+Portanto, a seguradora fica obrigada á cobertura de todo o tratamento multidisciplinar requerido na inicial, inclusive de procedimentos não previsto pela ANS, já que o contrato não traz nenhuma exclusão nesse sentido, entretanto o reembolso deste tratamento e a quantidade de sessões devem ser aquelas previstas no contrato (12 sessões).(e-STJ fl. 415/416)
+Destarte, a reforma do aresto, para alterar os fundamentos acima transcritos e concluir que o plano de saúde deve reembolsar integralmente as despesas do tratamento e que as sessões de terapia devem ser ilimitadas, demanda interpretação de cláusulas contratuais e reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, em face das Súmulas 5 e 7/STJ, aplicável ao recurso interposto tanto com base na alínea "a" quanto na alínea "c" do permissivo constitucional.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. COBERTURA DE TRATAMENTO. CRIANÇA COM ENCEFALOPATIA CRÔNICA. CLÁUSULA CONTRATUAL. ABUSIVIDADE. URGÊNCIA NO TRATAMENTO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS NºS 5 E 7/STJ. PROCEDIMENTO. PREVISÃO. ROL DA AGÊNCIA NACIONAL DE SAÚDE. DESNECESSIDADE.
+1. A orientação jurisprudencial desta Corte é firme no sentido de que para se averiguar a existência ou a ausência de cláusulas limitadoras e abusivas seria necessária a análise do contrato, cujo revolvimento é inviável em recurso especial, haja vista o disposto nas Súmulas nºs 5 e 7/STJ. (..)
+5. Agravo regimental não provido.
+(AgRg no AREsp 845.190/CE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 16/06/2016, DJe 28/06/2016- grifou-se)
+AGRAVOS REGIMENTAIS NO RECURSO ESPECIAL - DEMANDA POSTULANDO REEMBOLSO INTEGRAL DAS DESPESAS DECORRENTES DE PROCEDIMENTO CIRÚRGICO, REALIZADO POR MÉDICO E HOSPITAL NÃO CREDENCIADOS PELO PLANO DE SAÚDE - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO AGRAVO, MANTIDA A INADMISSÃO DO RECURSO ESPECIAL. IRRESIGNAÇÃO DA USUÁRIA DO PLANO DE SAÚDE.
+1. Validade da cláusula contratual que estipula o critério de cálculo do valor de reembolso das despesas com tratamento médico realizado por profissional não credenciado pela operadora de plano de saúde (observância ou não do direito do consumidor à informação adequada e clara). Acórdão estadual reconhecendo a clareza do limite de cobertura contratado e a plena ciência da autora. Necessário reexame do contexto fático-probatório dos autos e interpretação das cláusulas do contrato de plano de saúde para suplantar a cognição da instância ordinária. Incidência das Súmulas 5 e 7 desta Corte.
+2.  ..
+3. Primeiro agravo regimental desprovido. Demais reclamos não conhecidos, por força da preclusão consumativa.
+(AgRg no AREsp 634.273/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 09/06/2015, DJe 15/06/2015, grifou-se)
+RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR. SÚMULA N. 469 DO STJ. SISTEMA DE LIVRE ESCOLHA. DEFICIÊNCIA DO DEVER DE INFORMAÇÃO QUANTO AO LIMITE DE REEMBOLSO. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DESPESAS COM PERNOITE NO HOSPITAL E COM INSTRUMENTADORA. RECUSA DE REEMBOLSO. ABUSIVIDADE.
+1. Considera-se improcedente a arguição de ofensa ao art. 535 do CPC quando o Tribunal a quo se pronuncia, de forma motivada e suficiente, sobre os pontos relevantes e necessários ao deslinde da controvérsia.
+2. "Aplica-se o Código de Defesa do Consumidor aos contratos de plano de saúde" (Súmula n. 469/STJ).
+3. Incidem as Súmulas n. 5 e 7 do STJ quando o acolhimento da tese defendida no recurso especial reclama a interpretação de cláusulas contratuais e a análise dos elementos probatórios produzidos ao longo da demanda.
+4. A definição quanto ao tempo de internação do paciente e dos meios e recursos necessários ao seu tratamento cabe ao médico que o assiste, e não ao plano de saúde. Assim, é abusiva a recusa do reembolso do pernoite no hospital após a cirurgia, bem como da instrumentadora que acompanhou o procedimento.
+5. Recurso especial parcialmente conhecido e provido em parte.
+(REsp 1458886/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 03/03/2015, DJe 09/03/2015, grifou-se)
+Ante o exposto, com base no Enunciado nº 568/STJ, nego provimento ao recurso especial.
+Intimem-se.
