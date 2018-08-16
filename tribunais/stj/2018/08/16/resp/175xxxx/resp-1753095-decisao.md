@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por [NOME], em 18/09/2017, por meio do qual se impugna acórdãos, promanados do Tribunal Regional Federal da 5ª Região, assim ementados:
+"Processual Civil. Agravo de instrumento contra decisão, que indeferiu exceção de pré-executividade apresentada pelo ora agravante.
+A fixação de prazo para a constituição e cobrança do crédito tributário é matéria reservada à lei complementar, e, neste caso, as normas do Código Tributário Nacional são invocadas para resolver a controvérsia, estando o prazo decadencial regido pelo art. 173 e 174.
+Inexistindo declaração do contribuinte, nos tributos sujeitos ao lançamento por homologação, compete ao Fisco efetuar o lançamento de ofício, e, nesse caso, o início do prazo decadencial, de cinco anos, para a Fazenda Pública constituir o crédito tributário é fixado pelo art. 173, inc. I, do Código Tributário Nacional, ou seja, do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado.
+Nos termos da Súmula 436, do Superior Tribunal de Justiça, a entrega de declaração pelo contribuinte reconhecendo débito fiscal constitui o crédito tributário, dispensada qualquer outra providência por parte do fisco.
+Na hipótese dos autos, o termo inicial do prazo decadencial teve início em janeiro de 2006.
+A constituição do crédito tributário operou-se em março de 2008, mediante entrega de declaração pelo contribuinte, dentro do prazo quinquenal.
+A Fazenda Nacional ajuizou tempestivamente a execução fiscal em dezembro de 2011, pois o crédito tributário restou devidamente constituído em março de 2008, data da entrega da declaração do contribuinte. Assim, inocorrente a prescrição.
+Precedente: AGTR 139866-RN, desa. [NOME], convocada, julgado em 09 de dezembro de 2014; AGTR 135661-PE, des. [NOME], julgado em 14 de janeiro de 2015.
+Agravo de instrumento provido" (fl. 100e).
+"PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. EMBARGOS DE DECLARAÇÃO. PRESCRIÇÃO. NÃO OCORRÊNCIA. DÉBITOS FISCAIS RELATIVOS AO EXERCÍCIO DE 2006. CONTRADIÇÕES. NÃO OCORRÊNCIA. DIVERGÊNCIA ENTRE O VOTO E O DECLINADO NA EMENTA E ACÓRDÃO. ERRO MATERIAL. CORREÇÃO.
+1. Embargos declaratórios opostos pelo particular e pela União, alega o primeiro, em síntese, contradição no acórdão no fato de que o documento juntado pela exequente refere-se a declaração do exercício de 2006 e 2008, e não de 2005, sendo certo que a cobrança decorreu de ausência de declaração e não por erro de informações (com se verifica no id. 4050000.2184121, p. 9), e quanto à transcrição do julgamento em que consta na redação da ementa "agravo de instrumento provido", id. 4050000.2963967.
+2. Por seu turno, o ente público alega contradição no acórdão, eis que o voto concluiu categoricamente que "não se consumou a decadência" e que "a Fazenda Nacional ajuizou tempestivamente a execução fiscal", implicando no improvimento do recurso, entretanto, a ementa e o acórdão registrou provimento ao agravo de instrumento, id. 4050000.3014077.
+3. Resolvendo, inicialmente, a questão suscitada pelo particular, consistente em suposta contradição no acórdão, a afastar a prescrição em favor de sua pretensão, não lhe assiste razão, à vista dos autos,especificamente, das descrição dos débitos que instrui o título executivo a apontar que a declaração se refere ao exercício de 2006,id. 4050000.2184119, p. 05, tudo em harmonia com o voto do relator.
+Portanto, não se operou a prescrição, não havendo, outrossim, contradição a ser sanada.
+4. Quanto à segunda contradição apontada, comuns a ambos os embargos de declaração, em verdade, de erro material, consistente na divergência entre o dispositivo do voto desta relatoria e o resultado da ementa, que ora se corrige.
+5. Com efeito, onde se lê " agravo de instrumento provido" na ementa e "dar provimento ao agravo de instrumento" no acórdão  respectivamente, p. 04 e 06, id. 4050000.2957040 , entenda-se "agravo de instrumento improvido" e "negar provimento ao agravo de instrumento".
+6. Provimento aos aclaratórios da União e parcial provimento aos aclaratórios do particular, apenas para corrigir o erro material, para declarar o improvimento do agravo de instrumento" (fls. 130/131e).
+No Recurso Especial, interposto com base na alínea a do permissivo constitucional, alega-se violação ao disposto nos arts. 1.022 do CPC, 173 e 174 do CTN.
+Sustenta-se, no que ora importa, o seguinte:
+"3.1. Para negar provimento ocorreu o seguinte entendimento:
+"Na hipótese dos autos, a constituição do crédito tributário ocorreu em 07 de março de 2008 e 29 de abril de 2008, respectivamente, mediante declaração entregue pelo contribuinte (4050000.2184121 - Pág. 9), dentro do prazo quinquenal decadencial estabelecido no art. 173, do mencionado Código Tributário Nacional, motivo pelo qual não se consumou a decadência, eis que o termo inicial do prazo decadencial, quanto aos tributos vencidos no ano de 2005 (débito mais antigo) teve início em janeiro de 2006 e findou em janeiro de 2011, enquanto que a declaração, entregue pelo contribuinte, que constituiu o crédito tributário, ocorreu em março de 2008, dentro do prazo quinquenal.
+Dessa forma, tendo a dívida sido regularmente constituída através da entrega da declaração pelo contribuinte em 07 de março e 29 de abril de 2008 (4050000.2184121 - Pág. 9), o prazo prescricional somente findaria em 07 de março de 2013. A Fazenda Nacional ajuizou tempestivamente a execução fiscal em dezembro de 2011, dentro do prazo legal, p revisto no art. 174, do Código Tributário Nacional, pois o crédito tributário restou devidamente constituído em 07 de março de 2008, data da entrega da declaração pelo contribuinte".
+3.2. A contradição consiste dos seguintes entendimentos:
+"Na hipótese dos autos, a constituição do crédito tributário ocorreu em 07 de março de 2008 e 29 de abril de 2008, respectivamente, mediante declaração entregue pelo contribuinte (4050000.2184121 - Pág. 9).. Dessa forma, tendo a dívida sido regularmente constituída através da entrega da declaração pelo contribuinte em 07 de março e 29 de abril de 2008 (4050000.2184121 - Pág. 9), o prazo prescricional somente findaria em 07 de março de 2013".
+3.3. Ocorre que tal entendimento tomou como respaldo o documento de fls. 29, juntado pela agravada, onde consta informação sobre declaração e avisos de cobrança.
+3.4. Entretanto, a uma análise mais acurada, vê-se que O CITADO DOCUMENTO DE FLS. 09, NÃO TRATA DE DECLARAÇÃO DO EXERCÍCIO DE 2005, MAS DE 2006 E 2008.
+3.5. Ademais, a cobrança decorreu pela "AUSÊNCIA DE DECLARAÇÃO" e não por "ERRO DE INFORMAÇÕES".
+3.6. O entendimento de que "..ocorrendo a declaração no dia 07/03/08 e 29/04/2008", não condiz com a verdade dos fatos e o que consta dos autos, porque a prescrição não pode ser considerada a partir das datas referidas.
+3.7. No caso, não ocorrendo a declaração espontânea, o prazo inicial para a exigência começa com o fim do prazo para apresentação da declaração.
+3.8. Assim é contraditório o entendimento constante da decisão, porque, o embargante não confessou o crédito tributário objeto da certidão utilizada para a ação de execução fiscal, pelo contrário, o que ocorreu foi a ausência de declaração, devendo tal ponto ser solucionado" (fl. 184e).
+Aduz-se, ainda, que a retificação do equívoco, quanto às datas referidas, conduziria ao reconhecimento da decadência/prescrição dos créditos tributários executados.
+Requer-se, por fim, "o total provimento do presente recurso, para reconhecer a violação do artigo 1.022 do CPC e dos artigos 173 e 174 do CTN, com a anulação dos acórdãos recorridos, e a declaração da extinção da ação de execução, tendo em vista a decadência e a prescrição do título objeto da execução" (fls. 190/191e).
+Contrarrrazões às fls. 221/227e.
+Recurso Especial admitido (fl. 229e).
+O presente recurso não merece prosperar.
+Não há de se cogitar de omissão nem de contradição, no acórdão recorrido.
+Com efeito, o que o ora recorrente denomina de contradição consiste, na verdade, em divergência acerca do sentido da prova constante dos autos, em relação à fixação dos marcos iniciais para a fluência dos prazos de prescrição e decadência.
+Nesse diapasão, importante reproduzir o seguinte trecho do acórdão proferido nos Embargos de Declaração:
+"No caso dos autos, interessa a análise da CDA mais antiga, a despeito do vencimento de 28 de fevereiro de 2005, a própria cártula indica o ano da declaração, como se verifica na primeira linha, última coluna da tabela, que discrimina a liquidez e a exigibilidade do título, precisamente, no campo: "nº da decl./notif. 0000200808020951597", em que estão sintetizado o ano da declaração, termo "a quo" da prescrição e o número da declaração id. 4050000.2184121, p. 05.
+Nessa toada, o relatório que o embargante reputa, unilateral, apenas especifica a data da entrega no caso, 07 de março de 2008, p. 09 do referido identificador.
+Portanto permanecem hígidas as razões de decidir, desde o julgamento do agravo de instrumento em 28 de agosto de 2015:
+"Na hipótese dos autos, o termo inicial do prazo decadencial teve início em janeiro de 2006.
+A constituição do crédito tributário operou-se em março de 2008, mediante entrega de declaração pelo contribuinte, dentro do prazo quinquenal.
+A Fazenda Nacional ajuizou tempestivamente a execução fiscal em dezembro de 2011, pois o crédito tributário restou devidamente constituído em março de 2008, data da entrega da declaração do contribuinte. Assim, inocorrente a prescrição.
+Por fim, é completamente impertinente a alegação de que a exequente deveria provar o termo de declaração, cujo ano de 2008 estampa a CDA, com a apresentação das declarações de rendimentos do ora embargante, em completa inversão do princípio da presunção de certeza e liquidez, norma imperativa albergada no art. 204, do Código Tributário Nacional".
+Não há contradição a ser integrada" (fl. 159e).
+Conforme se observa, não há contradição, nem se presta, o Recurso Especial, a dirimir eventual divergência na fixação dos termos iniciais de fluência de prescrição e decadência tributárias, quando essa divergência demanda, como no caso, incursão no conjunto probatório dos autos (Súmula 7/STJ).
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço em parte do Recurso Especial e, nessa parte, nego-lhe provimento.
+I.
