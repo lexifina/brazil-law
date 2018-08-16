@@ -1,0 +1,25 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal de Justiça de Alagoas, assim ementado:
+PENAL. PROCESSO PENAL. APELAÇÃO CRIMINAL. PORTE ILEGAL DE ARMA DE FOGO. ALEGAÇÃO DE NÃO COMPROVAÇÃO DA MATERIALIDADE DO CRIME ANTE A AUSÊNCIA DE EXAME PERICIAL NA ARMA APREENDIDA. DESNECESSIDADE. CRIME DE MERA CONDUTA E DE PERIGO ABSTRATO, SENDO, POIS, PRESCINDÍVEL A COMPROVAÇÃO DA EFETIVA POTENCIALIDADE LESIVA DO ARMAMENTO. SENTENÇA MANTIDA. DOSIMETRIA. CONCURSO DE AGRAVANTES E ATENUANTES. ART. 67 DO CÓDIGO PENAL. ATENUANTE DA MENORIDADE RELATIVA E AGRAVANTE DA REINCIDÊNCIA IGUALMENTE PREPONDERANTES. COMPENSAÇÃO ENTRE AMBAS. CONFISSÃO ESPONTÂNEA. IMPOSSIBILIDADE DE REDUÇÃO DA PENA, NA SEGUNDA ETAPA DO PROCEDIMENTO TRIFÁSICO, ABAIXO DO MÍNIMO LEGAL. SÚMULA 231 DO SUPERIOR TRIBUNAL DE JUSTIÇA. APELAÇÃO CONHECIDA E PARCIALMENTE PROVIDA.
+I - O crime de porte ilegal de arma de fogo, dentro da qualificação conferida pela doutrina, é tido como de mera conduta e de perigo abstrato e, portanto, o fato de o réu portar arma de fogo, independentemente da comprovação de sua potencialidade lesiva, já caracteriza o crime previsto no artigo 14 da Lei nº 10.826/03, até porque o bem jurídico protegido não é a incolumidade física, mas a segurança jurídica.
+II - Não demonstrada particular relevância da prova pericial para o caso concreto, sabe-se que a elaboração de laudo técnico é desnecessária para a aferição da potencialidade lesiva da arma apreendida. Precedentes deste Tribunal.
+III - É pacífico o entendimento de que a menoridade relativa está incluída como circunstância subjetiva preponderante, nos termos do art. 67 do Código Penal, pois intimamente relacionada com a personalidade do agente, de modo que esta última deve preponderar
+no processo de dosagem da reprimenda a ser aplicada.
+IV - No caso dos autos, por considerar o que tanto a menoridade relativa do agente quanto a reincidência são circunstancias legais preponderantes, entendo que entre elas deve a haver compensação.
+V - Apelação conhecida e parcialmente provida. (e-STJ fl. 205)
+Sustenta a defesa a violação dos arts. 158 e 175 do Código de Processo Penal alegando, em síntese, que, sem a realização de perícia na arma apreendida, não há como se atestar a materialidade delitiva do crime de porte ilegal de arma de fogo.
+Contrarrazões às e-STJ fls. 241/243.
+Manifestação do Ministério Público Federal pelo desprovimento do recurso às e-STJ fls. 286/290.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Extrai-se dos autos que o recorrente foi condenado à pena de 2 (dois) anos de reclusão, em regime aberto, pelo cometimento do crime do art. 14 da Lei n. 10.826/2003.
+Neste recurso, a defesa alega que sem a realização de perícia na arma apreendida, não há como se atestar a materialidade delitiva do crime de porte ilegal de arma de fogo. Sobre o tema, o acórdão estadual assim se pronunciou:
+A tese defensiva, contudo, não merece acolhida, pois esbarra na pacífica jurisprudência desta Corte, que acompanha o posicionamento dominante nos Tribunais Superiores, segundo a qual é prescindível a comprovação da potencialidade lesiva do armamento apreendido em se tratando de crime de porte ilegal de arma de fogo.
+Como se sabe, o porte ilegal de arma de fogo configura crime de perigo abstrato, sendo a segurança pública e a paz social os bens jurídicos tutelados pela norma penal.
+Assim, pouco importa à consumação do delito estar a arma municiada ou não, sendo certo que o simples ato de portá-la - sem o preenchimento dos requisitos legais para tanto - atrai a intervenção do Direito Penal, não havendo que falar em conduta minimamente ofensiva.
+ ..
+O crime de porte ilegal de arma de fogo, dentro da qualificação conferida pela doutrina, é tido como de mera conduta e de perigo abstrato e, portanto, o fato de o réu portar arma, independentemente da comprovação de sua potencialidade lesiva, já caracteriza o crime previsto no artigo 14 da Lei nº 10.826/03, até porque o bem jurídico protegido não é a incolumidade física das pessoas, mas a segurança pública e paz social. (e-STJ fls. 208/210)
+Esse entendimento está em harmonia com a jurisprudência desta Corte Superior assente no sentido de que para a caracterização do delito previsto no artigo 14 da Lei n. 10.826/2003, por ser de perigo abstrato e de mera conduta, e por colocar em risco a incolumidade pública, basta a prática de um dos núcleos do tipo penal, sendo desnecessária a realização de perícia (AgRg no AgRg no AREsp n. 664.932/SC, Ministro FELIX FISCHER, Quinta Turma, DJe 10/2/2017).
+Ainda nesse mesmo sentido: AgRg no AREsp 1168195/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, DJe 26/03/2018 e EREsp 1005300/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Rel. p/ Acórdão Ministra LAURITA VAZ, Terceira Seção, DJe 19/12/2013.
+Diante do exposto, com fundamento no art. 932, VII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
