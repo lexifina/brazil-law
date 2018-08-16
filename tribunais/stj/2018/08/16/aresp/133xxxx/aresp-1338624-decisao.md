@@ -1,0 +1,42 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pela Fazenda Nacional contra decisão que inadmitiu o recurso especial sob alegação de que incidiria no caso o óbice da Súmula 83/STJ.
+Das razões expendidas, verifica-se que a parte agravante não impugna especificamente tal argumento, o que atrai a incidência da Súmula 182 desta Corte: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Com efeito, torna-se imprescindível o confronto específico dos pressupostos, a fim de demonstrar o desacerto da decisão, o que não ocorreu na espécie.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do recurso especial para que se conheça do respectivo agravo. Logo, a Súmula 182 desta Corte foi corretamente aplicada ao caso.
+2. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 600.416/MG, de minha relatoria, SEGUNDA TURMA, julgado em 10/11/2016, DJe 18/11/2016)
+Frise-se que, não admitido o apelo nobre com base na Súmula 83 do STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, o que não sucedeu na hipótese.
+No ponto:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. RECONHECIMENTO DA REPERCUSSÃO GERAL DA MATÉRIA, PELO SUPREMO TRIBUNAL FEDERAL. SOBRESTAMENTO. DESNECESSIDADE. PRECEDENTE. MATÉRIA CONSTITUCIONAL. EXAME. IMPOSSIBILIDADE. INOVAÇÃO DE TESE RECURSAL, EM SEDE DE AGRAVO REGIMENTAL. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. MISSÃO DIPLOMÁTICA BRASILEIRA NO EXTERIOR. AUXILIAR LOCAL. VÍNCULO ESTATUTÁRIO. ENQUADRAMENTO. ART. 243 DA LEI 8.112/90. POSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL QUE NÃO INFIRMA, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO ATACADA. SÚMULA 182/STJ. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO, E, NESSA PARTE, IMPROVIDO.
+ ..
+V. A alegação genérica de inaplicabilidade da Súmula 83/STJ, desacompanhada da indicação de acórdãos mais modernos desta Corte, em sentido contrário ao entendimento adotado nos precedentes apontados na decisão agravada, atrai o óbice da Súmula 182/STJ.
+VI. Agravo Regimental parcialmente conhecido, e, nessa parte, improvido.
+(AgRg no AREsp 610.496/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 23/2/2016, DJe 9/3/2016)
+Ainda, não é caso da alegada usurpação da competência do Superior Tribunal de Justiça, pois tem-se decidido, reiteradamente, que compete ao juízo de admissibilidade do Tribunal de origem examinar os pressupostos específicos e constitucionais relacionados ao mérito do recurso especial, a fim de verificar se o acórdão impugnado contrariou ou negou vigência a dispositivo de lei federal.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. INCIDÊNCIA DO ART. 544, § 4.º, I, DO CPC/1973 E ART. 253, PARÁGRAFO ÚNICO, INC. I, DO RISTJ.
+1. O conhecimento das alegações recursais demanda o exame do edital de licitação e do conjunto fático-probatório, o que é vedado nessa seara recursal. Incidência do óbices elencados nas Súmulas 5 e 7/STJ.
+2. A jurisprudência desta Corte é uníssona no sentido de que a emissão de juízo sobre o mérito do recurso especial, pelo Tribunal de origem, por ocasião do exame provisório de admissibilidade, não implica usurpação da competência do Superior Tribunal de Justiça. Precedentes.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.028.112/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 16/5/2017, DJe 22/5/2017)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ. EXAME DE MÉRITO DO RECURSO ESPECIAL PELA CORTE DE ORIGEM. POSSIBILIDADE.
+ ..
+2. A jurisprudência desta Corte pacificou o entendimento segundo o qual a emissão de juízo sobre o mérito do recurso especial, pelo Tribunal de origem, por ocasião do exame provisório de admissibilidade, não implica usurpação da competência do Superior Tribunal de Justiça. Precedentes.
+3. Agravo regimental não provido.
+(AgRg no AREsp 205.921/SP, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 18/12/2012, DJe 8/2/2013)
+Quanto ao mais, o recurso também não merece prosperar.
+Incabível a apontada contrariedade ao art. 535 do CPC/1973, em que a Fazenda defende a ausência de pronunciamento pela Corte local da tese de que os arts. 68 e 69 da Lei n. 8.666/1993 não estavam em vigência na ocasião da extinção da Portobras; logo, não aplicável para a solução deste litígio.
+Observa-se que a referida tese somente foi suscitada na oposição dos aclaratórios, tratando-se, portanto, de inovação recursal. Sendo assim, não há que se falar em omissão, obscuridade ou contradição do aresto.
+No aspecto:
+ADMINISTRATIVO E PROCESSUAL CIVIL. ASTREINTES. EXCESSO. EMBARGOS DE DECLARAÇÃO. TEMA PRECLUSO. OMISSÃO. INEXISTÊNCIA. DEBATE NA INSTÂNCIA EXTRAORDINÁRIA. IMPOSSIBILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. Afasta-se a tese de afronta ao art. 535 do CPC/73, pois o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A ausência de manifestação, pelo Tribunal de origem, acerca de matéria suscitada apenas nos embargos declaratórios, trazendo questão preclusa e em evidente inovação de tese recursal, não caracteriza omissão. Precedentes: AgRg no AREsp 295.222/CE, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 2/12/2013; REsp 1.688.566/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 18/12/2017; AgInt no REsp 1.138.093/MG, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 11/12/2017.
+3. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o seu conhecimento, a teor da Súmula 211/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.232.946/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 7/6/2018, DJe 20/6/2018)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, "a" e "b", do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
