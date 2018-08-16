@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] (fls. 485/498) contra decisão exarada pela il. 3ª Vice-Presidência do eg. Tribunal de Justiça do Estado do Rio de Janeiro (TJ-RJ), que inadmitiu o recurso especial.
+Cuidam os autos, na origem, de ação de cobrança proposta por [NOME] em desfavor de ALEX SANDRO DE ANDRADE MORAES e [NOME].
+O il. Magistrado julgou procedente o pedido (sentença às fls. 239/241).
+Diante disso, ANA [NOME] DE [NOME] [NOME] e [NOME] interpuseram os respectivos recursos de apelação, os quais foram desprovidso pelo eg. TJ-RJ, nos termos do v. acórdão, assim ementado (fl. 344):
+"HONORÁRIOS ADVOCATÍCIOS - OBRIGAÇÃO SOLIDÁRIA DOS RÉUS AO PAGAMENTO DE HONORÁRIOS DEVIDOS À AUTORA - INEXISTÊNCIA DE PROVA DE QUE A ADVOGADA TENHA RETIDO DE FORMA ABUSIVA A INDENIZAÇÃO DEVIDA AO PRIMEIRO RÉU EM RECLAMAÇÃO TRABALHISTA OU DE QUE TENHA AGIDO COM DESÍDIA - IMPROCEDÊNCIA DO PEDIDO CONTRAPOSTO - DANO MORAL NÃO CONFIGURADO - APLICAÇÃO DO VERBETE DA SÚMULA Nº. 75 DESTA EGRÉGIA CORTE - DESPROVIMENTO DOS RECURSOS".
+Os embargos de declaração opostos foram rejeitados (acórdão às fls. 363/365).
+Inconformada, ANA [NOME] [NOME] DE [NOME] [NOME] interpôs recurso especial (fls. 385/396), com fulcro no art. 105, inciso III, alínea "a" , da CF/88, no qual alega ofensa dos arts. 1.022, inciso II, do CPC/2015; e dos arts. 186 e 927 do CC/02.
+Irresignado, [NOME] manejou o presente agravo em recurso especial refutando os fundamentos da decisão que inadmitiu seu apelo nobre.
+Não foi apresentada contraminuta (certidão de fl. 531).
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Inicialmente, rejeita-se a alegada violação do art. 1.022, inciso II, do CPC/2015, uma vez que o eg. Tribunal local analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+"AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS RÉUS-EMBARGANTES.
+(..)
+2. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, à míngua de qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 535 do Código de Processo Civil de 1973.
+(..)
+6. Agravo interno desprovido."
+(AgInt no AREsp 362.110/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/03/2017, DJe de 23/03/2017 - grifou-se)
+ "PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973 (CORRESPONDENTE AO ART. 1.022 DO CPC/2015). DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973, correspondente ao art.1.022 do CPC/2015, quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Agravo interno a que se nega provimento."
+(AgInt no AREsp 988.556/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/03/2017, DJe de 17/03/2017 - grifou-se)
+Outrossim, no apelo nobre que pretende trânsito, sustenta-se violação dos arts. 186 e 927 do CC/02, ao argumento de que deveria ser indenizada por danos morais. O recurso, contudo, não merece prosperar. Isso porque o eg. TJ-RJ, mediante análise soberana das provas carreadas aos autos, concluiu pelo descabimento dos referidos danos, conforme transcrição a seguir do v. acórdão estadual (fl. 346):
+"A r. sentença proferida não merece reforma. A leitura dos autos revela que a Autora propôs reclamação trabalhista como advogada do primeiro Réu, conforme contrato às fls. 25, tendo o segundo Réu recebido os honorários indevidamente, ausente qualquer impugnação a respeito, sendo obrigação de pagamento também do primeiro Réu, por força do contrato celebrado com a Autora, inexistindo prova nos autos de que a advogada tenha agido com desídia na prestação do serviço ou de que tenha retido de modo abusivo o valor da indenização fixada em ação trabalhista em favor do primeiro Réu, revelando-se, portanto, improcedente o pedido contraposto, não demonstrada nos autos que a conduta do primeiro Réu tivesse repercutido de forma a causar abalo à honra, dignidade ou integridade física da Autora, incidindo, na espécie, o entendimento desta Corte, consubstanciado no verbete da Súmula nº 75, no sentido de que o simples descumprimento do dever legal ou contratual não configura dano moral. Dentro deste quadro, as irresignações recursais não tem como prosperar".
+Nesse cenário, para se alterar o entendimento ora transcrito, quanto à inexistência dos danos morais, seria necessária a revisão de matéria fático-probatória, o que é inadmissível em sede de recurso especial, nos termos da Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo.
