@@ -1,0 +1,48 @@
+DECISÃO
+Cuida-se de agravo (artigo 1.042 do CPC/2015), interposto por NORTE PARK - ESTACIONAMENTOS E GARAGENS - EIRELI - EPP contra decisão que negou seguimento ao recurso especial.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, por sua vez, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 277, e-STJ):
+INDENIZAÇÃO. Furto ocorrido no estacionamento de Shopping Center. Empresa responsável por sua exploração denunciada à lide, que por sua vez também denunciou sua Seguradora. Indeferimento que se impunha. Seguradora que não aceitou a denunciação em razão da falta de cobertura para furto simples. Responsabilidade da denunciada à lide - empresa de estacionamento provada. Sentença mantida. Recurso Negado.
+Nas razões do apelo extremo (fls. 297-308, e-STJ), a insurgente aponta, além de divergência jurisprudencial, violação dos artigos 2º, 3º e 14 do CDC; bem como 104 do CC.
+Sustenta, em síntese: a) ser indevida a indenização pelo suposto furto de veículo em estacionamento administrado pela recorrente, porquanto inexistente qualquer defeito na prestação do serviço; e b) a necessidade de denunciação da lide da seguradora contratada pela recorrente, por recair sobre esta a obrigação de indenizar decorrente da relação de consumo estabelecida.
+Contrarrazões às fls. 321-327, e-STJ.
+O processamento do apelo nobre não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo.
+Sem impugnação (fl. 344, e-STJ).
+É o relatório.
+Decido.
+A pretensão recursal não prospera.
+1. Extrai-se dos autos que PORTO SEGURO COMPANHIA DE SEGUROS GERAIS ajuizou ação de reparação por perdas e danos, sob o rito comum ordinário, em face de CENTER NORTE S/A CONSTRUÇÃO EMPREENDIMENTO ADMINISTRAÇÃO E PARTICIPAÇÃO, buscando o ressarcimento dos valores despendidos com a indenização decorrente de furto de veículo de segurado em estacionamento particular por esta disponibilizado.
+Citada, a requerida denunciou à lide a empresa NORTE PARK - ESTACIONAMENTOS E GARAGENS - EIRELI - EPP, responsável pela guarda do local, a qual, por sua vez, denunciou à lide a empresa TOKIO MARINE SEGURADORA, afirmando ser exclusivamente da seguradora a obrigação de ressarcir os prejuízos pleiteados.
+Em decisão interlocutória, o magistrado de primeiro grau indeferiu a denunciação de TOKIO MARINE SEGURADORA, a qual não foi objeto de interposição recursal.
+Na sentença, o pedido veiculado na ação de reparação por perdas e danos foi julgado procedente em relação à empresa suplicada, CENTER NORTE S/A CONSTRUÇÃO EMPREENDIMENTO ADMINISTRAÇÃO E PARTICIPAÇÃO, bem como julgada procedente a denunciação, sendo condenada NORTE PARK - ESTACIONAMENTOS E GARAGENS - EIRELI - EPP ao pagamento do valor indenizado à denunciante.
+Irresignada, NORTE PARK - ESTACIONAMENTOS E GARAGENS - EIRELI - EPP interpôs apelação, a qual foi improvida, mediante acórdão prolatado pelo TJSP.
+O Recurso especial manejado pela administradora de estacionamento foi inadmitido, subindo os autos por força de agravo (artigo 1.042 do CPC/2015).
+2. Assim postos os fatos, verifica-se que acórdão recorrido encontra-se em consonância com a jurisprudência desta Corte, a qual firmou-se no sentido de que cabível à seguradora o ajuizamento de ação regressiva contra o prestador de serviço que, sendo remunerado para tal, deixou de cumprir com a obrigação contratual de vigilância do veículo.
+Nesse sentido:
+DIREITO CIVIL - AÇÃO DE REGRESSO PROPOSTA POR SEGURADORA COM FUNDAMENTO EM SUB-ROGAÇÃO LEGAL DECORRENTE DE FURTO DE VEÍCULO SEGURADO EM ESTACIONAMENTO - SENTENÇA DE PROCEDÊNCIA - DESPROVIMENTO DE RECURSO DE APELAÇÃO INTERPOSTO PELA RÉ. INSURGÊNCIA DA EMPRESA ADMINISTRADORA DO ESTACIONAMENTO.
+1. Não viola o art. 535 do CPC aresto que enfrenta todos os aspectos essenciais à resolução da lide, sendo desnecessário ao julgador enfrentar todas as alegações deduzidas pelas partes, sobretudo quando motivada a decisão em fundamentação suficiente ao bom deslinde das matérias controvertidas.
+2. Incide o Código de Defesa do Consumidor na relação entre a seguradora - que se sub-rogou nos direitos da segurada - e a sociedade empresária administradora de estacionamento, local do furto de veículo segurado. Precedentes do STJ.
+3. Revela-se indubitável o direito da seguradora de demandar o ressarcimento dos danos sofridos pelo segurado depois de realizada a cobertura do sinistro. Nesse caso, a seguradora sub-roga-se nos direitos anteriormente titularizados pelo segurado, nos exatos termos dos artigos 349 e 786 do Código Civil e da súmula 188/STF.
+Precedentes do STJ: REsp 976.531/SP, Rel. Min. Nancy Andrighi, DJe de 08/03/2010; REsp 303.776/SP, Rel. Min. Aldir Passarinho Júnior, DJ de 25/06/2001; AgRg no REsp 1169418/RJ, Rel. Min. Ricardo Villas Bôas Cueva, DJe de 14/02/2014; AgRg no REsp 1121435/SP, Rel. Min.
+Sidnei Beneti, DJe de 29/03/2012; REsp 177.975/SP, Rel. Min. Carlos Alberto Menezes Direito, DJ de 13/12/1999; REsp 982492/SP, Rel. Min.
+Luis Felipe Salomão, DJe de 17/10/2011.
+4. Partindo-se da orientação preconizada na Súmula 130/STJ, segundo a qual "a empresa responde, perante o cliente, pela reparação de dano ou furto de veículo ocorridos em seu estacionamento", conclui-se, pela logicidade do sistema jurídico, que a seguradora, após realizar o adimplemento do prêmio securitário pode, pela sub-rogação legal e contratual, pleitear, junto a empresa que explora o estacionamento, o ressarcimento das despesas do seguro.
+5. Recurso especial improvido.
+(REsp 1.085.178/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/05/2014, DJe 30/09/2015)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO OU ROUBO DE VEÍCULO EM ESTACIONAMENTO. DIREITO DE REGRESSO DA SEGURADORA CONTRA O ESTABELECIMENTO GARAGISTA. POSSIBILIDADE. DECISÃO MANTIDA.
+1. A empresa que explora o serviço de estacionamento é responsável pelos veículos sob sua guarda, não se eximindo da responsabilidade em caso de furto, inclusive em ação regressiva proposta pela seguradora. Precedentes.
+ 2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 408.494/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/09/2014, DJe 06/04/2015)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL - INDENIZAÇÃO - FURTO DE VEÍCULO EM ESTACIONAMENTO SOB A RESPONSABILIDADE DA RECORRIDA - SEGURADORA - AÇÃO REGRESSIVA - CABIMENTO - RECURSO IMPROVIDO. (AgRg no REsp 1185669/SP, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 22/06/2010, DJe 01/07/2010)
+DIREITO CIVIL. SEGURO. FURTO OU ROUBO DE VEÍCULO EM ESTACIONAMENTO. CASO FORTUITO. NÃO CONFIGURAÇÃO. EVENTO PREVISÍVEL. DIREITO DE REGRESSO DA SEGURADORA DO PROPRIETÁRIO DO VEÍCULO. SÚMULA 288/STF. INCIDÊNCIA.
+- Não há como considerar o furto ou roubo de veículo causa excludente da responsabilidade das empresas que exploram o estacionamento de automóveis, na medida em que a obrigação de garantir a integridade do bem é inerente à própria atividade por elas desenvolvida. Hodiernamente, o furto e o roubo de veículos constituem episódios corriqueiros, sendo este, inclusive, um dos principais fatores a motivar a utilização dos estacionamentos, tornando inconcebível que uma empresa que se proponha a depositar automóveis em segurança enquadre tais modalidades criminosas como caso fortuito.
+- Fixada a premissa de que o furto e o roubo de veículos são eventos absolutamente previsíveis no exercício da atividade garagista, conclui-se que, na linha de desdobramento dos fatos que redundam na subtração do carro, encontra-se a prestação deficiente do serviço pelo estacionamento, que, no mínimo, não agiu com a diligência necessária para impedir a atuação criminosa. Nesse contexto, na perspectiva da seguradora sub-rogada nos direitos do segurado nos termos do art. 988 do CC/16 - cuja redação foi integralmente mantida pelo art. 349 do CC/02 - o estacionamento deve ser visto como causador, ainda que indireto, do dano, inclusive para efeitos de interpretação da Súmula 288/STF.
+- Os arts. 988 do CC/16 e 349 do CC/02 não agasalham restrição alguma ao direito da seguradora, sub-rogada, a ingressar com ação de regresso contra o estabelecimento garagista.
+Recurso especial provido.
+(REsp 976.531/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 23/02/2010, DJe 08/03/2010)
+Observa-se, portanto, que o entendimento adotado pelo Tribunal de origem não destoa da jurisprudência pacífica desta Corte, de modo a se impor a rejeição da pretensão recursal veiculada neste apelo extremo.
+3. Outrossim, a Corte a quo considerou inviável a discussão acerca do indeferimento da denunciação à lide da seguradora contratada pela empresa administradora de estacionamento, em sede de apelação, por encontrar-se preclusa, haja vista a ora agravante ter se quedado inerte, no momento oportuno para demonstrar sua irresignação, deixando de interpor o recurso adequado após o indeferimento do referido pedido na origem (fl. 278, e-STJ).
+Denota-se das razões do especial que a insurgente não impugna tais fundamentos, limitando-se a reafirmar a responsabilidade contratual da seguradora e a necessidade de denunciação desta à lide.
+Desse modo, a subsistência de fundamentos inatacados aptos a manter a conclusão do aresto impugnado, impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+4. Do exposto, nego provimento ao agravo. Nos termos do artigo 85, § 11, do NCPC, majoro em 1% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da recorrida.
+Publique-se.
+Intime-se.
