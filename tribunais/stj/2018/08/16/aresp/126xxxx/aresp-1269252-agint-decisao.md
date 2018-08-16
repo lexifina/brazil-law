@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de Agravo interno, interposto pelo ESTADO DE MATO GROSSO DO SUL, em 04/05/2018, contra decisão proferida pela Presidente do STJ, Ministra LAURITA VAZ, que não conheceu o Agravo em Recurso Especial.
+Após, com a interposição do presente recurso, os autos foram a mim redistribuídos.
+Inconformada, sustenta a parte agravante que:
+"Em 05/04/18, na Edição n.º 2406 do Diário da Justiça Eletrônico, foi publicada a distribuição automática do agravo, tendo o Estado/Agravante tomado a cautela de protocolizar (no dia seguinte) a Petição de n.º 174863/2018 (85), alegando a prevenção do processo, por conexão recursal, ao Ministro GURGEL DE FARIAS, tendo fixada pela distribuição do AREsp 1.194.732/MS, já julgado, e de outros mais de 1700 agravos em recurso especial, cujas razões recursais são evidentemente conexas.
+A decisão aqui agravada, no entanto, não tomou conhecimento da petição de prevenção, apesar da mesma já ter sido juntada aos autos por ocasião da conclusão do processo.
+Por certo que a não observância da prevenção estabelecida decorrera de um equívoco, determinado pelo grande volume de processos, porquanto dos processos conexos ao destes autos, a Min Laurita Vaz já determinara a redistribuição de vinte e sete (27), em decorrência da prevenção fixada ao Min GURGEL DE FARIAS, tal como se pode constatar no relatório em anexo.
+Revela-se inafastável a prevenção, eis que a matéria sub judice, nos recursos destes autos, decorre do enquadramento do caso na hipótese do art. 71 desse RISTJ, qual seja, a conexão recursal irrefutável.
+O processo em epígrafe é "um" dentre os mais de dois mil já distribuídos nesse STJ, com evidente e já reconhecida prevenção fixada ao Min GURGEL DE FARIAS, o qual já proferiu mais de 1.700 decisões monocráticas dando provimento, de plano, ao recurso especial ajuizado, para anular o decisum e determinar o retorno dos processos ao Tribunal de origem, para sanear o vício demonstrado.
+Os recursos distribuídos enfrentam os fundamentos das decisões do Tribunal de origem, que negaram seguimento a recursos especiais oriundos de processos de liquidação de sentença, proferida em ação ordinária coletiva de cobrança, para viabilizar o ajuizamento das futuras execuções" (fls. 451/452e).
+Por fim, requer seja "reconhecida e declarada a competência por prevenção, ante à conexão recursal, tornando-se sem efeito as decisões proferidas e encaminhando o processo ao Min GURGEL DE FARIAS para apreciação e julgamento" (fl. 459e).
+Tendo em vista a relevância dos argumentos esposados pelo agravante, reconsidero as decisões de fls. 446/447e.
+No mesmo sentido, em casos idênticos, consultaram o Ministro GURGEL DE FARIA acerca da eventual prevenção: STJ, AgInt nos EDcl na Pet no AREsp 1.195.390/MS, Rel. Ministro OG FERNANDES, DJe de 25/05/2018, AgInt no REsp 1.710.613/MS, Rel. Ministro HERMAN BENJAMIN, DJe de 25/05/2018, Pet no AREsp 1.270.653/MS, Rel. Ministro MAURO CAMPBELL MARQUES, DJe de 12/04/2018, Pet no AREsp 1.268.851/MS, Rel. Ministro MAURO CAMPBELL MARQUES, DJe de 12/04/2018.
+Ante o exposto, torno sem efeito a decisão de fl. 446/447e, e consulto Sua Excelência, o Ministro GURGEL DE FARIA, sobre eventual prevenção, nos termos do art. 71 do RISTJ.
+Aceita a prevenção, proceda-se à redistribuição dos presentes autos.
+I.
