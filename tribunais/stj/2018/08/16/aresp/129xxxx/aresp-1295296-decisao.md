@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em face da inadmissão de recurso especial interposto contra acórdão, proferido pelo Eg. Tribunal de Justiça do Estado do Paraná assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO DE PRESTAÇÃO DE CONTAS - CONTRATO DE FINANCIAMENTO COM PARCELAS PREFIXADAS - FALTA DE INTERESSE PROCESSUAL - RECONHECIMENTO - AUSÊNCIA DE ADMINISTRAÇÃO DE BENS OU INTERESSES ALHEIOS PELA INSTITUIÇÃO FINANCEIRA - EXTINÇÃO DO PROCESSO, SEM RESOLUÇÃO DE MÉRITO, COM FULCRO NO ART. 267, VI, DO CPC.
+No contrato de financiamento com parcelas prefixadas não há entrega de bem ou valor à instituição financeira que permaneça sob sua administração, de modo que o mutuário carece de interesse processual para fins de ajuizamento de ação de prestação de contas.
+RECURSO CONHECIDO E NÃO PROVIDO." (fl. 132)
+No recurso especial, fundamentado no art. 105, III, c, da Constituição Federal, o recorrente aponta divergência jurisprudencial, sustentando, em síntese, que "há um entendimento majoritário acerca do dever das instituições financeiras em prestar contas no caso de dúvidas existentes em contratos de mútuo ou financiamento" (fl. 147).
+É o relatório. Passo a decidir.
+Cinge-se a controvérsia em saber se a ação de prestação de contas constitui a via processual adequada para se obter informações acerca dos encargos e condições previstos em contrato de mútuo bancário.
+De acordo com o atual entendimento firmado pela Segunda Seção deste Superior Tribunal de Justiça, por ocasião do julgamento do REsp 1.201.662/PR, sob a Relatoria da eminente Ministra MARIA ISABEL GALLOTTI (julgamento unânime, publicado no DJe de 4/12/2012), em se tratando de contrato de mútuo bancário, não há interesse de agir do mutuário para pedir a prestação de contas, de forma mercantil, de créditos e débitos sucessivos lançados ao longo da relação contratual. A propósito, confira a ementa do referido precedente:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. CONTRATO DE FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. INADEQUAÇÃO DA VIA ELEITA. INTERESSE DE AGIR. REVISÃO DE CLÁUSULAS CONTRATUAIS. COMISSÃO DE PERMANÊNCIA, JUROS, MULTA, CAPITALIZAÇÃO, TARIFAS. IMPOSSIBILIDADE.
+1. O titular de conta-corrente bancária tem interesse processual para exigir contas do banco (Súmula 259). Isso porque a abertura de conta-corrente tem por pressuposto a entrega de recursos do correntista ao banco (depósito inicial e eventual abertura de limite de crédito), seguindo-se relação duradoura de sucessivos créditos e débitos. Por meio da prestação de contas, o banco deverá demonstrar os créditos (depósitos em favor do correntista) e os débitos efetivados em sua conta-corrente (cheques pagos, débitos de contas, tarifas e encargos, saques etc) ao longo da relação contratual, para que, ao final, se apure se o saldo da conta corrente é positivo ou negativo, vale dizer, se o correntista tem crédito ou, ao contrário, se está em débito.
+2. No contrato de financiamento, ao contrário, não há a entrega de recursos do consumidor ao banco, para que ele os mantenha em depósito e administre, efetuando pagamentos, mediante débitos em conta-corrente. A instituição financeira entrega os recursos ao tomador do empréstimo, no valor estipulado no contrato, cabendo ao financiado restituir a quantia emprestada, com os encargos e na forma pactuados. Não há, portanto, interesse de agir para pedir a prestação de contas, de forma mercantil, de créditos e débitos sucessivos lançados ao longo da relação contratual.
+3. Hipótese em que a pretensão deduzida na inicial, voltada a aferir a legalidade dos encargos cobrados (comissão de permanência, juros, multa, capitalização, tarifas), deveria ter sido veiculada por meio de ação ordinária revisional, cumulada com repetição de eventual indébito, no curso da qual pode ser requerida a exibição de documentos, caso esta não tenha sido postulada em medida cautelar preparatória.
+4. Recurso especial a que se nega provimento."
+No mesmo sentido, confiram-se:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1. SOBRESTAMENTO DO FEITO. DESCABIMENTO. 2. PRESTAÇÃO DE CONTAS. CONTRATO DE FINANCIAMENTO. AUSÊNCIA DE INTERESSE DE AGIR.
+(..)
+2. O devedor de contrato de financiamento bancário não tem interesse de agir para ingressar com pedido de prestação de contas referente a débitos sucessivos lançados ao longo da relação contratual, haja vista que nessa modalidade de contratação, não há a entrega de recursos do consumidor ao banco, para que ele os mantenha em depósito e administre, efetuando pagamentos, mediante débitos em conta corrente. Diversamente, a instituição financeira entrega os recursos ao tomador do empréstimo, segundo o valor estipulado no contrato, cabendo ao financiado restituir a quantia emprestada, com os encargos e na forma previamente pactuados (REsp n. 1.201.662/PR, Relatora a Ministra Maria Isabel Gallotti, DJe de 4/12/2012).
+3. Agravo regimental improvido."
+(AgRg no AREsp 574.316/PR, Relator o Ministro MARCO AURÉLIO BELLIZZE, DJe de 20/10/2014)
+"DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. PRESTAÇÃO DE CONTAS. AÇÃO DE PROCEDIMENTO ESPECIAL. CONTRATO DE FINANCIAMENTO. INTERESSE PROCESSUAL. INEXISTÊNCIA.
+1- A ação de prestação de contas é instrumento processual hábil para verificação de receitas e despesas relacionadas à administração de bens, valores ou interesses de terceiros.
+2- Nos contratos de conta-corrente, o banco é responsável pela manutenção e administração dos valores depositados aos seus cuidados, pressuposto que autoriza o pedido de prestação de contas.
+3- Tratando-se, sob distinto norte, de contrato de financiamento - hipótese dos autos -, não se verifica a existência de relação jurídica que envolva administração ou gestão de bens alheios. Nesse particular, a atividade da instituição financeira limita-se a entrega de recursos, cabendo ao outro contratante a restituição da quantia objeto da pactuação, conforme os termos avençados.
+4- O tomador do empréstimo, portanto, não possui interesse processual "para pedir a prestação de contas, de forma mercantil, de créditos e débitos sucessivos lançados ao longo da relação contratual" (Precedente da 2ª Seção, REsp 1.201.662/PR).
+5- Recurso especial não provido."
+(REsp 1.225.252/PR, Relatora a Ministra NANCY ANDRIGHI, DJe de 6/5/2013)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL - AÇÃO DE PRESTAÇÃO DE CONTAS - FALTA DE INTERESSE DE AGIR - DECISÃO MONOCRÁTICA QUE NEGA SEGUIMENTO AO APELO EXTREMO. INSURGÊNCIA DA AUTORA/MUTUÁRIA.
+1. Em se tratando de contrato de financiamento, carece de interesse de agir o consumidor para a propositura da ação de prestação de contas, porquanto a instituição financeira entrega o montante contratado ao tomador do empréstimo, cabendo a este restituir o valor emprestado com seus encargos e na forma pactuada, não havendo entrega de recursos do consumidor ao banco para que este os administre. Precedentes.
+(..)
+3. Agravo regimental desprovido."
+(AgRg no REsp 1.259.917/PR, Relator o Ministro MARCO BUZZI, DJe de 3/11/2014)
+Ressalte-se, por fim, que a questão foi objeto de apreciação pela colenda Segunda Seção desta Corte no julgamento do Recurso Especial nº 1.293.558/PR, da relatoria do em. Min. Luis Felipe Salomão, submetido ao procedimento dos recursos representativos da controvérsia (CPC, art. 543-C), ocasião em que foi confirmado o entendimento de que nos contratos de mútuo e financiamento, o devedor não possui interesse de agir para a ação de prestação de contas.
+Eis a ementa do julgado:
+"PROCESSO CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. AÇÃO DE PRESTAÇÃO DE CONTAS. CONTRATOS DE MÚTUO E FINANCIAMENTO. INTERESSE DE AGIR. INADEQUAÇÃO DA VIA ELEITA.
+1. Para efeitos do art. 543-C do CPC, firma-se a seguinte tese:
+"Nos contratos de mútuo e financiamento, o devedor não possui interesse de agir para a ação de prestação de contas."
+2. No caso concreto, recurso especial não provido." (REsp 1.293.558/PR, Segunda Seção, Rel. Min. Luis Felipe Salomão, DJe de 25/3/2015, negritei)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
