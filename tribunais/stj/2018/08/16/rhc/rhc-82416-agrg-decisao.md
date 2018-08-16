@@ -1,0 +1,7 @@
+DECISÃO
+1. Trata-se de agravo regimental interposto contra decisão proferida por esta relatoria no recurso ordinário em habeas corpus (e-STJ fls. 311-316), manejado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, no qual se aduz, em suma, a existência de arbitrariedade que, de forma concreta, está a gerar cerceamento à liberdade de locomoção de NELSON DE SOUSA ANDRADE, visto que decretada sua segregação cautelar, razão pela qual a única alternativa encontrada foi a invocação do presente recurso.
+2. Conforme informações obtidas na página eletrônica do Tribunal de origem (www.tjce.jus.br), verifica-se que, após a apresentação do presente recurso, o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, por meio da Apelação Criminal n. 0000207-84.2016.8.06.0037, avaliou sentença proferida no processo-crime instaurado em desfavor do recorrente, tendo passado em julgado o acórdão em 27-4-2018.
+Assim, com a superveniência do trânsito em julgado da condenação, fica superada a análise da legalidade da custódia antecipada ora imposta, porquanto se trata, agora, de prisão-pena, e não mais de segregação processual, restando configurada a perda de objeto do presente recurso ordinário.
+3. Diante do exposto, com fundamento no artigo 34, inciso XVIII, a, do Regimento Interno deste Tribunal, julga-se prejudicado o presente agravo regimental.
+Publique-se e intimem-se.
+Após o trânsito em julgado, arquivem-se os autos.
