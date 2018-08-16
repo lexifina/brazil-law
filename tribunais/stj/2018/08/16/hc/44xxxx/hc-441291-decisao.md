@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de BRENDON VITOR DA SILVA FERNANDES contra acórdão do Tribunal de Justiça do Estado de São Paulo (HC n. 2011219-49.2018.8.26.0000).
+Consta dos autos que o Juízo de primeiro grau condenou o paciente a 2 anos de reclusão, em regime inicialmente fechado, como incurso no art. 33, caput, e § 4º, da Lei n. 11.343/06 (tráfico privilegiado).
+A defesa interpôs apelação, ainda não julgada, bem como impetrou o mandamus originário, o qual foi denegado, sob o seguintes fundamentos:
+A impetração não comporta acolhimento.
+Importa considerar, de início, a inexistência de demonstração de qualquer circunstância que pudesse conferir contornos de ilegalidade à situação do paciente, de modo a justificar o reconhecimento de coação ilegal, nos termos do art. 648, do Cód. de Proc. Penal.
+Não se demonstrou, de plano, como era de rigor, dados os estreitos limites do writ, qualquer ilegalidade flagrante ou teratologia da r. decisão condenatória, que, em tese, está motivada.
+Ademais, a questão concernente à fixação do regime prisional constituem matéria de mérito, cuja análise é incompatível com os estreitos limites da presente impetração e o caso em tela não apresenta contornos de excepcionalidade.
+Importa considerar, por derradeiro, que, pelo que verte dos autos, houve interposição de recurso de apelação em favor do paciente.
+Não se vislumbra, portanto, ilegalidade a ser corrigida por meio do presente writ (fls. 19/20).
+No presente writ, o impetrante alega, em síntese, que a primariedade do paciente, as circunstâncias judiciais favoráveis, a pouca quantidade de droga e o quantum de pena, permitem a fixação do regime inicial aberto.
+O pedido liminar foi deferido às fls. 28/29, para conceder o regime inicial semiaberto, até o julgamento do mérito deste habeas corpus.
+Dispensadas as informações pela autoridade coatora, o Ministério Público Federal opinou pelo não conhecimento do mandamus e, subsidiariamente, pela denegação da ordem (fls. 37/40).
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal, esta Corte não admite habeas corpus substitutivo de recurso próprio (cf.: HC 358398/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 09/08/2016).
+Por outro lado, diante das particularidades do caso concreto, entendo ser possível a concessão da ordem, de ofício, para que seja alterado o regime inicial de cumprimento da pena - de fechado para semiaberto, conforme passo a expor.
+Considerando-se apenas a primariedade do paciente, a pena-base no mínimo, a quantidade da droga e a pena final em patamar não superior a 4 anos, o regime inicial seria o aberto.
+No entanto, as demais circunstâncias do delito evidenciem maior grau de gravidade e reprovabilidade da conduta do paciente, justificando o agravamento do regime prisional, porém, de forma mais amena - do aberto para o semiaberto.
+Referidas circunstâncias, as quais ensejaram, inclusive, a aplicação do § 4º em patamar inferior (3/5), dizem respeito à diversidade das drogas e o alto potencial lesivo da cocaína para a saúde pública, conforme ressaltado pelo Magistrado processante às fls. 23.
+Quanto ao tema, os seguintes julgados:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. ART. 33 DA LEI 11.343/2006. PACIENTES CONDENADAS À PENA CORPORAL TOTAL DE 4 ANOS E 2 MESES DE RECLUSÃO. PLEITO DE AUMENTO DA FRAÇÃO REDUTORA PREVISTA NO § 4º DO ART. 33 DA LEI N. 11.343/2006. POUCA QUANTIDADE DA DROGA APREENDIDA. PRESENTES, TODAVIA, VARIEDADE E NOCIVIDADE. FRAÇÃO REDUTORA INTERMEDIÁRIA DE 1/2 APLICADA. PENA REDUZIDA. REGIME PRISIONAL. PENA INFERIOR A 4 ANOS. NOCIVIDADE E VARIEDADE QUE POSSIBILITAM A FIXAÇÃO DO REGIME INTERMEDIÁRIO. SUBSTITUIÇÃO DA PENA CORPORAL. CIRCUNSTÂNCIAS DO CASO CONCRETO QUE NÃO RECOMENDAM O BENEFÍCIO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+- Para a imposição de regime prisional mais gravoso do que a pena comporta, é necessária fundamentação específica, com base em elementos concretos extraídos dos autos. Inteligência das Súmulas 440/STJ e 718 e 719 do STF.
+- Na espécie, consigne-se que, embora as pacientes sejam primárias e a pena de 2 anos e 6 meses de reclusão comporte, em princípio, o regime aberto, o regime intermediário, qual seja, o semiaberto, é o que mais se amolda ao caso concreto, ante a nocividade e a variedade das drogas apreendidas, elementos que, inclusive, justificaram a escolha da fração redutora intermediária pelo tráfico privilegiado. Precedentes.
+- No que tange à possibilidade de substituição da pena privativa de liberdade por restritiva de direitos, ao analisar o HC n. 97.256/RS, o Supremo Tribunal Federal passou a admitir tal possibilidade, nos termos do art. 44 do Código Penal, reconhecendo a inconstitucionalidade da parte final do art. 33, § 4º, da Lei de Drogas, que posteriormente teve sua execução suspensa pelo Senado Federal, por meio da Resolução n. 5/2012.
+- Ainda que o quantum de pena fixado seja inferior a 4 anos, a variedade e a nocividade do entorpecente apreendido não recomendam a substituição da pena privativa de liberdade por penas restritivas de direitos. Precedentes.
+- Habeas corpus não conhecido. Ordem concedida de ofício, redimensionando as penas das pacientes para 2 anos e 6 meses de reclusão, em regime inicial semiaberto, mais o pagamento de 250 dias-multa, mantidos os demais termos da condenação (HC 363.260/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 23/09/2016).
+PENAL. HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. PLEITO DE FIXAÇÃO DO REGIME ABERTO E SUBSTITUIÇÃO DA PENA. IMPOSSIBILIDADE. EXISTÊNCIA DE ELEMENTOS CONCRETOS A FIGURAR EM DEMÉRITO DA PACIENTE. REGIME FECHADO. DESPROPORCIONALIDADE. PENA INFERIOR A 4 ANOS. REGIME SEMIABERTO. RAZOABILIDADE. CONCESSÃO DA ORDEM, EM MENOR EXTENSÃO.
+1. Não obstante a reprimenda final seja inferior a 4 anos de reclusão, é inviável a imposição do regime aberto e a substituição da pena privativa de liberdade por restritivas de direitos, diante da existência de elementos concretos a figurar em demérito da paciente. Desproporcional, entretanto, a fixação do regime inicial fechado, tendo em vista o quantum da pena imposta, a saber, 2 anos e 6 meses de reclusão, sendo razoável, pois, a imposição do regime inicial intermediário.
+2. Habeas corpus concedido, em menor extensão, a fim de fixar o regime inicial semiaberto para o cumprimento da reprimenda corporal imposta à paciente (HC 385.933/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 20/04/2017).
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem, de ofício, para fixar o regime inicial semiaberto, confirmando a liminar deferida.
+Publique-se.
+Intimações necessárias.
