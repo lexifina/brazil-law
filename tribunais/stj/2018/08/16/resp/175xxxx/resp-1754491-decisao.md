@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela FUNDAÇÃO UNIVERSIDADE ESTADUAL DO CEARÁ - FUNECE, em 14/03/2016, com base nas alíneas a e c do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+"ADMINISTRATIVO. REEXAME NECESSÁRIO EM MANDADO DE SEGURANÇA. REVALIDAÇÃO DE DIPLOMA ESTRANGEIRO. PROCESSAMENTO PREVISTO EM ATOS NORMATIVOS SECUNDÁRIOS. SEGURANÇA CONCEDIDA. REEXAME CONHECIDO E IMPROVIDO
+1 - Cinge-se a controvérsia acerca da legalidade do ato administrativo que rejeitou o processamento do pedido de revalidação de diploma universitário obtido no exterior.
+2 - A Resolução nº 3327/2010 do Conselho de Ensino, Pesquisa e Extensão da Universidade Estadual do Ceará (UECE) estabelece regras para revalidação de diplomas de instituições estrangeiras, determinando que todo processo deverá ser regulado por "Chamada Pública", aberta pelo menos uma vez por ano.
+3 - No caso, a última "Chamada Pública" nº 27/2010, data de 14 de janeiro de 2011, malferindo a Resolução nº 01/2002 do Conselho Nacional de Educação, que estabelece o prazo máximo de 06 (seis) meses para conclusão do processo de revalidação e a Resolução nº 3327/2010 do Conselho de Ensino, Pesquisa e Extensão da UECE que dispõe que a cada ano será realizada pelo menos uma "Chamada Pública".
+4 - Direito líquido e certo dos impetrantes evidenciado, a ensejar concessão da segurança.
+5 - Reexame conhecido e desprovido" (fl. 218e).
+Alega-se, nas razões do Recurso Especial, além de dissídio jurisprudencial, ofensa aos artigos 48, §2º e 53, V da Lei 9.94/96, sob os seguintes fundamentos: a) "a Resolução CNE/CSE nº 01/2002 confere, portanto, autonomia à universidade para fixar prazo em que haverá inscrição dos candidatos que desejam ter seu diploma revalidado. Em outros termos, o processo de revalidação de diploma tem início, em cada instituição, no prazo fixado pela própria universidade" (fl. 235e); b) "as universidades brasileiras podem fixar regras específicas para o recebimento e processamento dos pedidos de revalidação de diplomas de graduação obtidos em universidades estrangeiras, com base em sua autonomia didático-científica e administrativa" (fl. 242e).
+Requer, ao final, o conhecimento e provimento do Recurso Especial.
+Não foram apresentadas contrarrazões (fl. 312e).
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 314/317e).
+Sem razão a parte recorrente.
+Na origem, trata-se de Mandado de Segurança impetrado pelas partes ora recorridas, com o objetivo de "que a autoridade impetrada receba requerimento e instaure procedimento administrativo visando à revalidação de diploma conferido aos impetrantes no exterior" (fl. 190e).
+Julgada procedente a demanda, recorreu o réu, restando mantida a sentença pelo Tribunal local.
+Daí a interposição do presente Recurso Especial.
+Acerca da controvérsia, manifestou-se o Tribunal de origem:
+"Cumpre asseverar, que o registro de diplomas estrangeiros somente ocorre por meio de complexo processo administrativo de revalidação, a ser realizado por universidades públicas, a exemplo da impetrada, que ministrem "curso do mesmo nível e área ou equivalente", segundo preceitua a Lei nº 9.394/96, que fixa as diretrizes e bases da educação nacional.
+(..)
+A Resolução nº 01/2002, que estabelece normas para revalidação de diplomas obtidos no exterior, alterada pela Resolução nº 08/2007, ambas do Conselho Nacional de Educação, dispõe, in verbis:
+(..)
+Ressalte-se que as universidades públicas, no exercício de suas atribuições, possuem prerrogativas, nos termos do art. 207 da Constituição Federal, verbis: "As universidades gozam de autonomia didático-científica, administrativa e de gestão financeira e patrimonial, e obedecerão ao princípio de indissociabilidade entre ensino, pesquisa e extensão".
+Nesse sentido, o Superior Tribunal de Justiça, por meio do julgamento do Recurso Especial Repetitivo nº 1349445-SP, firmou jurisprudência consolidando a questão, ao pontificar que as universidades públicas, em prestígio à autonomia administrativa que ostentam, podem estabelecer regras próprias para fins de processamento dos pedidos de revalidação de diplomas estrangeiros.
+(..)
+Assim, podem as universidades públicas fixar datas e prazos para a inscrição e instauração do processo de revalidação, consequentemente, não se mostra razoável impor que elas recebam e processem pedidos extemporâneos, em exclusivo interesse particular.
+Entretanto, tem-se que esta regra - possibilidade de rejeitar pedidos de revalidação à margem dos calendários previamente fixados - não é absoluta.
+Pois, se por um lado a administração pública goza de autonomia para conduzir o processo de revalidação, por outro, deve observância aos princípios que informam os atos administrativos, a exemplo dos princípios da legalidade, da moralidade e da eficiência, além de outros igualmente tutelados pelo art. 37 da Constituição Federal.
+(..)
+Na hipótese, o Conselho de Ensino, Pesquisa e Extensão da UECE, no exercício da prerrogativa constitucional que lhe fora outorgada, baixou a Resolução nº 3327/2010, que estabelece regras para revalidação de diplomas de instituições estrangeiras, determinando que todo processo deverá ser regulado por "Chamada Pública", aberta pelo menos uma vez por ano:
+(..)
+Argumenta a requerida que a última "Chamada Pública" lançada pela Universidade Estadual do Ceará, protocolizada sob o nº 27/2010, data de 14 de janeiro de 2011, na qual os impetrados não protocolizaram os seus requerimentos.
+Vê-se, então, que a Universidade Estadual do Ceará, embora ostente autonomia para conduzir o processo, o faz, indefinidamente, desde o ano de 2011, malferindo a Resolução nº 01/2002 do Conselho Nacional de Educação, que estabelece o prazo máximo de 06 (seis) meses para conclusão do processo de revalidação e a sua Resolução nº 3327/2010, egressa do Conselho de Ensino, Pesquisa e Extensão, que dispõe que a cada ano será realizada pelo menos uma "Chamada Pública".
+(..)
+Centra-se aqui, portanto, a ilegalidade do ato administrativo que autoriza a manutenção da sentença do writ, pois a conduta da UECE em retardar injustificadamente a conclusão da "Chamada Pública nº 27/2010", além de afrontar os princípios da legalidade, da moralidade e da eficiência administrativa, impede a abertura de novas "Chamadas Públicas", restringindo, ilegalmente, o direito dos autores ao regular processamento do seu pedido de revalidação" (fls. 221/226e).
+Contudo, verifica-se que a parte recorrente não atacou, via Recurso Extraordinário, o referido fundamento constitucional. Assim, existindo fundamento de índole constitucional, suficiente para manutenção do aresto recorrido, cabia à parte recorrente a interposição do mencionado Agravo, de modo a desconstituí-lo, ausente essa providência, o conhecimento do Especial esbarra na censura da Súmula 126/STJ, segundo a qual, "é inadmissível Recurso Especial, quando o acórdão recorrido assenta-se em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário".
+Constata-se, portanto, que, não obstante a recorrente aponte ofensa a preceito de lei federal para fundamentar seu inconformismo, o exame de sua irresignação exigiria a apreciação das referidas Resoluções, cuja análise é inviável, em sede de Recurso Especial, porquanto não se insere no conceito de lei federal, a que se refere o art. 105, III, a, da Constituição Federal.
+Sinale-se, por fim, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a, servem de justificativa quanto à alínea c do permissivo constitucional.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
