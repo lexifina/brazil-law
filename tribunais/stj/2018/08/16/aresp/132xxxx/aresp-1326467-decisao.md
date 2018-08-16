@@ -1,0 +1,42 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. RESPONSABILIDAE CIVIL. INDENIZAÇÃO POR DANOS MATERIAIS, MORAIS E ESTÉTICOS. DANO MORAL. OCORRÊNCIA. NECESSIDADE DE REEXAME DOS FATOS DA CAUSA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. QUANTUM INDENIZATÓRIO. DANO MORAL FIXADO EM VALOR QUE NÃO PODE SER CONSIDERADO EXORBITANTE. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO
+DECISÃO
+ÍCARO DOS REIS PINHEIRO (ÍCARO) ajuizou ação de indenização por danos morais, materiais e estéticos com antecipação de tutela combinada com declaratória de inexigibilidade de crédito contra UNIMED DE RIBEIRÃO PRETO COOPERATIVA DE TRABALHO MÉDICO (UNIMED), que foi julgado parcialmente procedente.
+UNIMED apelou. O Tribunal deu parcial provimento ao apelo da UNIMED, em acórdão assim ementado:
+RESPONSABILIDADE CIVIL DECLARATÓRIA DE INEXIGIBILIDADE DE VALOR C.C. INDENIZAÇÃO POR DANOS MATERIAIS, MORAIS E ESTÉTICOS  Demanda ajuizada em face do plano de saúde em que o autor figurava como beneficiário - Atendimento a ele prestado junto ao Hospital São Lucas  Unimed 24 horas  Arguição de erro médico/falha na prestação do serviço que, segundo a inicial, culminou com o atual quadro patológico do autor (ericefalopatia pós convulsiva)  Responsabilidade objetiva do plano de saúde, enquanto fornecedor de serviços médicos - Nexo - causal estabelecido pela prova pericial médica, indicativa dê que foi a demora significativa  5 dias para o diagnóstico da crise de mal epiléptico, causadora do quadro irreversível e também porque a chamada droga de primeira escolha também somente foi administrada ao autor no quinto dia de tratamento  Obrigação reparatória que deriva da aplicação do artigo 932, III do Código Civil  Pensão vitalícia  Cabimento  Inteligência do art. 950 do mesmo diploma legal  Irreversibilidade do quadro de saúde do autor (fato incontroverso), em total dependência  Termo inicial a data em que completar 25 anos (o que ocorreu neste ano)  Fixação em cinco salários mínimos que deve ser reduzida a três salários mínimos - Danos moraislestéticos  Cabimento  Arbitramento, em respectivamente, R$ 1.000.000,00 e R$ 500.000,00 que comporta redução para o valor único de R$ 600.000,00, corrigido desde a data do arbitramento (Súmula 362 do C.-STJ) - Sentença reformada  Recurso parcialmente provido.
+(e-STJ, fl. 1.323)
+Os embargos de declaração opostos por ICARO foram acolhidos e UNIMED foram rejeitados (e-STJ, fls. 1.326/1.361).
+Nas razões do especial, interposto com base no art. 105, III, a, da Constituição Federal, UNIMED alegou violação dos arts. 186 e 927 e 944, § único do CC/02. Sustentou, em síntese, que (1) que não houve qualquer negligência, imprudência ou imperícia da recorrente em relação ao recorrido, portanto inexiste dever de indenizar; e (2) que o quantum indenizatório deve ser reduzido.
+O Tribunal da Justiça do Estado de São Paulo deixou de admitir o recurso interposto por ausência de demonstração de ofensa à legislação infraconstitucional e a incidência da Súmula nº 7 do STJ.
+Interposto o agravo em recurso especial, UNIMED refutou os fundamentos da decisão agravada.
+Contraminuta apresentada (e-STJ, fls. 1.488/1.520).
+É o relatório.
+Decido.
+O recurso comporta acolhimento.
+De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Do dano moral.
+A Corte de origem, ao apreciar a matéria, destacou o seguinte:
+A vista da conclusão pericial e, muito embora. tenha referido profissional observado que o apelado apresentou estado de mal epiléptico de natureza não esclarecida, não há como negar, como bem observou a perícia e também a d. Magistrada sentenciante, que houve demora significativa (cinco dias) para administração da chamada droga de primeira escolha (fenitoína) para tentar reverter o quadro de Estado de Mal Epiléptico. A mesma só foi administrada ao Reclamante no 5º dia de tratamento, assim como a introdução da monitorização cerebral por EEG, demora determinante para o atual e irreversível quadro apresentado, também segundo a perícia.
+Destarte avaliando as conclusões da perícia médica, prova técnica absolutamente conclusiva e fundamentada, a r. sentença recorrida acabou por adotá-lo e em razão disso, firmar o convencimento de que foi a conduta adotada pelo atendimento prestado - em especial a demora ora referida - a causadora do quadro irreversível do autor, que culminou com os danos cuja reparação pretendeu.
+A responsabilidade do plano de saúde é, por conta disso, inequívoca, derivada da aplicação do artigo 932, III, do Código Civil.
+A prova oral, por seu turno, em nenhum momento se mostrou apta a afastar a conclusão pericial - nem poderia, ante a natureza técnica desta última (1.330/1.331)
+Dessa forma, para adotar conclusão diversa da que chegou o eg. Tribunal a quo, de que houve a ocorrência do dano moral, seria inevitável o revolvimento do arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, a teor do que dispõe a Súmula nº 7 desta Corte.
+(2) Quantum indenizatório.
+Na linha dos precedentes desta Corte, o valor fixado a título de compensação por danos morais somente pode ser modificado em grau de recurso especial quando manifestamente abusivo ou irrisório.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. ACIDENTE DE CONSUMO. FALHA NA PRESTAÇÃO DE SERVIÇOS MÉDICOS. VIOLAÇÃO DO ART. 535 DO CPC. ALEGAÇÃO DE OMISSÃO. AFASTADA. RESPONSABILIDADE CIVIL. SOLIDARIEDADE. CADEIA DE CONSUMO. INCIDÊNCIA. APLICAÇÃO DO CDC. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83/STJ. REVISÃO DE INDENIZAÇÃO POR DANOS MORAIS E HONORÁRIOS ADVOCATÍCIOS. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+3. A revisão dos valores fixados a título de indenização decorrente de danos morais, bem como a proporcionalidade da distribuição da sucumbência, somente é admitida no âmbito do recurso especial em situações excepcionais, em que a irrisoriedade ou o excesso é evidente, o que não é a hipótese dos autos.
+4. Agravo regimental não provido.
+(AgRg no AREsp 826.772/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 09/09/2016);
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS. VALOR DA INDENIZAÇÃO. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+ ..
+2. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice, para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal de origem não se mostra excessivo, a justificar a reavaliação, em recurso especial, da verba indenizatória fixada.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 785.643/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, DJe 06/09/2016)
+No caso dos autos, tendo em vista que o autor (ÍCARO) foi vítima de erro cometido por profissionais credeciados da UNIMED e considerando que as sequelas são permanentes e totalmente incapacitantes (ENCEFALOPATIA), aliado ao fato de que o autor se tornou completamente dependente da ajuda de terceiros e de atendimento médico e de enfermagem domiciliar, não se mostra exorbitante o quantum indenizatório fixado pelo Tribunal de origem, em R$ 300.000,00 (trezentos mil reais) pelo dano moral e R$ 300.000,00 (trezento mil reais) pelo dano estético.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo, para NEGAR PROVIMENTO ao recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor da UNIMED nos termos do art. 85, §§ 2º e 11 do NCPC, observando-se, no que couber, o art. 98 do mesmo diploma.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
