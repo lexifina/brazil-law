@@ -1,0 +1,36 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE CUMULADA COM REPARAÇÃO POR DANO MATERIAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. CONSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. REINTEGRAÇÃO DE POSSE. CUMULAÇÃO COM PEDIDO DE PERDAS E DANOS. POSSIBILIDADE. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação: de reintegração de posse cumulada com reparação por perdas e danos devido ao inadimplemento do contrato celebrado entre as partes.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. O acórdão recorrido que adota orientação firmada pela jurisprudência do STJ não merece reforma.
+5. É lícito ao autor cumular com pedido possessório o de condenação em perdas e danos
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa parte, não provido, com majoração de honorários.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por [NOME], contra decisão interlocutória que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Ação: de reintegração de posse cumulada com reparação por perdas e danos, ajuizada por CAIXA ECONÔMICA FEDERAL em face do agravante, devido ao inadimplemento do contrato celebrado entre as partes, na qual pleiteia seja reintegrado na posse do imóvel descrito na inicial, bem como reparação por danos materiais.
+Sentença: julgou procedente o pedido, para reintegrar a agravada na posse do imóvel localizado na Rua Carmela Dutra, 348, casa 100, Santa Luzia, São Gonçalo/RJ, bem como para condenar o agravante ao pagamento da dívida correspondente ao inadimplemento contratual.
+Acórdão: negou provimento à apelação interposta pelo agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. DIREITO CIVIL. CONTRATO DE ARRENDAMENTO RESIDENCIAL. REINTEGRAÇÃO DE POSSE. PEDIDO DE PROTEÇÃO POSSESSÓRIA. CONSTITUCIONALIDADE DA LEI 10.188/01. LEGITIMIDADE DA CEF. ESBULHO POSSESSÓRIO CONFIGURADO. CDC. ANTOCISMO. BENFEITORIAS.
+1. A matéria submetida a julgamento versa sobre contrato de arrendamento residencial celebrado no âmbito do Programa de Arrendamento Residencial - PAR, questionando-se a inconstitucionalidade do art.
+9º da Lei 10.188/2001; se a CEF possui legitimidade para pleitear as taxas de condomínio; se é possível cumulação do pedido de reintegração possessória com a cobrança do valor de arrendamento e das cotas condominiais; se houve comprovação de notificação a fim de caracterizar o esbulho e a possibilidade de aplicação do CDC, verificação de anatocismo, bem com o pagamento de benfeitorias.
+2. Inexistência de inconstitucionalide na Lei nº 10.188/01. O Programa de Arrendamento Residencial é mecanismo jurídico, econômico e social projetado para o fim de atender às pessoas de determinada renda para o fim de possibilitar a obtenção de moradia. Contudo, cuida-se de política social e econômica desenvolvida pelo poder público em que cada contrato não pode ser compreendido de modo individual e isolado, mas sim em conjunto diante da idéia de equilibro e de universalidade que deve existir em tais casos.
+3. O art. 9º confere legitimidade ativa para a CEF ajuizar a ação de reintegração de posse, englobada nela a possibilidade de cobrança dos encargos condominiais, eis que o ocupante do imóvel deve arcar com esse ônus, decorrente do período onde habitou o bem, a fim de não caracterizar enriquecimento ilícito.
+4. A cumulação de pedidos, tal como feita na inicial, se fundamenta na regra legal segundo a qual é lícito ao autor da ação possessória cumular ao pedido possessório o de condenação em perdas e danos, levando em conta o período de tempo em que a pessoa permaneceu ocupando o imóvel, consoante o art. 921, do CPC.
+5. Na hipótese de inadimplemento das obrigações previstas no contrato de arrendamento, o arrendador só garante a legitimidade para interpor ação de reintegração de posse se realizada a notificação do arrendatário a respeito dos valores inadimplidos, demonstrado cumprimento dessa regra, no caso concreto.
+6. Sobre a possibilidade de aplicação das normas do CDC ao contrato, há necessidade de demonstração expressa da necessidade da incidência dessa norma, pelo que, no caso, a ausência de indício ou mesmo de comprovação de algum defeito ou vício, por parte do réu, não revela o acollhimento do pedido.
+7. Em se tratando de anatocismo, que se dá pela prática abusiva de juros sobre juros, onerando o negócio, temos que não foi verificada sua prática da análise das planilhas apresentadas, inexistindo a cobrança em duplicidade, pelo que se rechaça o argumento defendido pelo recorrente.
+8. Não há que se cogitar ao pagamento de eventuais benfeitorias eis que a situação do arrendatário não pode ser reputada legítima, diante do inadimplemento injustificado e nos termos do art. 71 do Decreto -Lei nº 9.760/46, verificada a permanência irregular da no imóvel, não possui direito a possíveis indenizações por benfeitorias, sendo indevido o pagamento pleiteado.
+9. Apelação conhecida e improvida. (e-STJ Fls. 252/253)
+Embargos de declaração: interpostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 9º da Lei nº 10.188/2001; 327, § 2º, 329, I, 485, IV, e 566 do CPC/15. Sustenta que a intimação realizada na pessoa de terceiro e sem indicação do valor da dívida conduz à ausência do preenchimento do fumus boni iuris necessário ao deferimento da reintegração de posse. Afirma que o rito da ação de cobrança é incompatível com o da ação possessória, de modo que a cumulação de pedidos se revela inviável.
+Relatado o processo, decide-se.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 327, § 2º, 329, I, 485, IV, e 566 do CPC/1, indicados como violados, apesar da interposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere ao preenchimento dos requisitos para o deferimento do pedido possessório, exige o reexame de fatos e provas, bem como a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Da Súmula 568/STJ
+O TJ/RJ, ao decidir ser lícito cumular ao pedido possessório o de condenação em perdas e danos, alinhou-se ao entendimento do STJ quanto à matéria. Nesse sentido: AgRg no AREsp 538.020/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/04/2015, DJe 07/05/2015.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, condeno a parte agravante, a título de honorários recursais, ao pagamento de mais R$ 200,00 (duzentos reais) em favor do procurador da parte agravada. Contudo, isento-a do pagamento por ser beneficiária da gratuidade de justiça.
+Publique-se. Intimem-se.
