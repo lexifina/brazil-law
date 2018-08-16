@@ -1,0 +1,40 @@
+EMENTA
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. INADEQUAÇÃO. ROUBO MAJORADO. PLEITO DE ABSOLVIÇÃO. IMPROPRIEDADE NA VIA ELEITA. REVISÃO CRIMINAL. HIPÓTESE DO ART. 621 NÃO CONFIGURADA. INOBSERVÂNCIA. HABEAS CORPUS NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo de revisão criminal, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Nesse contexto, se as instâncias ordinárias, inclusive em sede de revisão criminal, mediante valoração do acervo probatório produzido nos autos, entenderam, de forma fundamentada, haver prova de autoria do crime de roubo majorado, inviável nesta célere via do habeas corpus, que exige prova pré-constituída, pretender conclusão diversa. Outrossim, a revisão criminal somente é admitida caso reste configurada uma das hipóteses elencadas no art. 621 do Código de Processo Civil. No caso, no bojo da revisão criminal, a defesa apenas pretendeu rediscutir fatos, sem que tenha sido comprovada a presença de novas provas capazes de justificar o pleito absolutório, revelando-se portanto, correta a decisão do Tribunal que não conheceu da revisão criminal.
+3. Habeas corpus não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do pedido. Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de AGAPITO CESAR MACHADO ESQUIVEL, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Mato Grosso do Sul.
+Consta dos autos que o paciente foi condenado à pena de 8 anos de reclusão, em regime prisional fechado, pela prática do crime previstos no artigo 157, § 2º, I e II, do Código Penal.
+O Tribunal a quo não admitiu a revisão criminal proposta, que pretendia a absolvição do paciente, nos termos da seguinte ementa:
+"REVISÃO CRIMINAL - ROUBO - REDISCUSSÃO DA MATÉRIA - INEXISTÊNCIA DOS REQUISITOS LEGAIS DO ART. 621 DO CPP - MERO INCONFORMISMO - NÃO CONHECIDA. A revisão criminal não é meio próprio para o puro e simples reexame de matéria já discutida. Inexistem quaisquer das situações previstas no artigo 621, incisos I e III, do CPP, não sendo caso para alteração da coisa julgada." (e-STJ, fl. 1471)
+Neste writ, o impetrante alega que "o não conhecimento da revisão pela simples assertiva de reexame de matéria já discutida, vai de encontro ao próprio cerne da ação que é justamente rever aquilo que aos olhos da defesa encontra-se equivocado, injusto, e, para tanto, reclama o conhecimento e análise do contido na peça para, a partir daí, poder se concluir que se trata de reexame de matéria já analisada" (e-STJ, fl. 6). Sustenta que "malgrado o Tribunal não tenha conhecido da Revisão Criminal sobre o frágil argumento da impossibilidade de tal ação para o puro e simples reexame de matéria já discutida, dos autos se extrai que não houve discussão aprofundada sobre as razões constantes da revisão" (e-STJ, fl. 3).
+Postula, ao final, a concessão da ordem para que determinar ao Tribunal de Justiça do Estado de Mato Grosso do Sul que aprecie o mérito da Ação Revisional.
+Não há requerimento de tutela provisória (e-STJ, fl. 1505).
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (e-STJ, fls. 1508-1511).
+É o relatório.
+EMENTA
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. INADEQUAÇÃO. ROUBO MAJORADO. PLEITO DE ABSOLVIÇÃO. IMPROPRIEDADE NA VIA ELEITA. REVISÃO CRIMINAL. HIPÓTESE DO ART. 621 NÃO CONFIGURADA. INOBSERVÂNCIA. HABEAS CORPUS NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo de revisão criminal, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Nesse contexto, se as instâncias ordinárias, inclusive em sede de revisão criminal, mediante valoração do acervo probatório produzido nos autos, entenderam, de forma fundamentada, haver prova de autoria do crime de roubo majorado, inviável nesta célere via do habeas corpus, que exige prova pré-constituída, pretender conclusão diversa. Outrossim, a revisão criminal somente é admitida caso reste configurada uma das hipóteses elencadas no art. 621 do Código de Processo Civil. No caso, no bojo da revisão criminal, a defesa apenas pretendeu rediscutir fatos, sem que tenha sido comprovada a presença de novas provas capazes de justificar o pleito absolutório, revelando-se portanto, correta a decisão do Tribunal que não conheceu da revisão criminal.
+3. Habeas corpus não conhecido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo de revisão criminal, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+No caso, não se observa flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O habeas corpus não se presta para a apreciação de alegações que buscam a absolvição do paciente, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita.
+Nesse sentido:
+"HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. NÃO CONHECIMENTO.
+1. A via eleita se revela inadequada para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede o seu formal conhecimento. Precedentes.
+2. O alegado constrangimento ilegal será analisado para a verificação da eventual possibilidade de atuação ex officio, nos termos do artigo 654, § 2º, do Código de Processo Penal.
+TRÁFICO DE DROGAS. FALTA DE PROVAS. ABSOLVIÇÃO. DESCLASSIFICAÇÃO PARA O DELITO PREVISTO NO ARTIGO 28 DA LEI N. 11.343/2006. NECESSIDADE DE REVOLVIMENTO APROFUNDADO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE NA VIA ESTREITA DO MANDAMUS. LIVRE CONVENCIMENTO MOTIVADO. FUNDAMENTAÇÃO IDÔNEA DO ACÓRDÃO QUE MANTEVE A SENTENÇA CONDENATÓRIA. CONSTRANGIMENTO ILEGAL INEXISTENTE.
+1. A pretendida absolvição ou desclassificação da conduta imputada ao paciente para a infração penal prevista no artigo 28 da Lei n. 11.343/2006 são questões que demandam aprofundada análise do conjunto probatório produzido em juízo, providência vedada na via estreita do remédio constitucional.
+2. No processo penal brasileiro vigora o princípio do livre convencimento motivado, em que o julgador, desde que de forma fundamentada, pode decidir pela condenação, não se admitindo no âmbito do habeas corpus a reanálise dos motivos pelos quais as instâncias ordinárias formaram convicção pela prolação de decisão repressiva em desfavor do acusado.
+3. Habeas corpus não conhecido."
+(HC 343.107/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 15/12/2015, DJe 2/2/2016, grifou-se).
+Nesse contexto, se as instâncias ordinárias, inclusive em sede de revisão criminal, mediante valoração do acervo probatório produzido nos autos, entenderam, de forma fundamentada, haver prova de autoria do crime de roubo majorado, inviável nesta célere via do habeas corpus, que exige prova pré-constituída, pretender conclusão diversa. Outrossim, a revisão criminal somente é admitida caso reste configurada uma das hipóteses elencadas no art. 621 do Código de Processo Civil. No caso, no bojo da revisão criminal, a defesa apenas pretendeu rediscutir fatos, sem que tenha sido comprovada a presença de novas provas capazes de justificar o pleito absolutório, revelando-se portanto, correta a decisão do Tribunal que não conheceu da revisão criminal.
+Ante o exposto, não conheço do habeas corpus.
+É como voto.
