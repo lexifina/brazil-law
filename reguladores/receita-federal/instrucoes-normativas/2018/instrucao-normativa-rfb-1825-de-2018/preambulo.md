@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1825, de 14 de agosto de 2018
+Altera a Instrução Normativa SRF nº 85, de 11 de outubro de 2001, que disciplina a concessão de regimes especiais de emissão de documentos e escrituração de livros fiscais.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto no art. 387 do Decreto nº 7.212, de 15 de junho de 2010, e no § 1º do art. 333 do Anexo I da Portaria MF nº 430, de 2017, resolve:
