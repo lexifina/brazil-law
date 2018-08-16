@@ -1,0 +1,21 @@
+DECISÃO
+Vistos, etc.
+O CONSÓRCIO INTERSUL DE TRANSPORTES, CONSÓRCIO INTERNORTE DE TRANSPORTES, CONSÓRCIO TRANSCARIOCA DE TRANSPORTES e CONSÓRCIO SANTA CRUZ DE TRANSPORTES , por meio da Petição n.º 428.799/2018 (fls. 2.491-2.512), noticiam a "perda superveniente de interesse quanto ao agravo interno de fls. 2.296/2.302 e este requerimento de suspensão de liminar, tendo em vista que atualmente está em vigor a tarifa provisória de R$ 3,95 fixada em acordo celebrado com o Município do Rio de Janeiro e objeto dos decretos municipais nºs 44.600, de 1 o .06.18, e 44.632, de 13.06.18 (docs. anexos), o que afasta, ao menos por ora, o risco à continuidade da prestação do serviço público que justificou a apresentação desta medida" (grifei).
+Consta que o presente feito foi incluído na pauta designada para o dia 15/8/2018 para julgamento do agravo interno de fls. 2.296-2.310 interposto pelos Consórcios requerentes.
+É o relatório.
+Decido.
+Os Consórcios requerentes ingressaram com o presente pedido de suspensão de segurança visando sustar os efeitos de acórdão proferido pela 20.ª Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, nos autos da Apelação Cível n.º 0001667-91.2015.8.19.0001, que impediu o aumento de R$ 0,20 (vinte centavos) na tarifa de transporte público no valor de R$ 3,40.
+Ocorre que, as Partes envolvidas - Consórcios requerentes e Municipalidade - firmaram acordo, materializado nos Decretos Municipais n.os 44.600, de 1/6/2018, e 44.632, de 13/6/18, em que foi fixada a tarifa de R$ 3,95. Vê-se que o acórdão de que ora se busca a suspensão dos efeitos não interfere no acordo celebrado, o que demonstra a ausência de utilidade de eventual provimento judicial exarado no presente pleito suspensivo.
+Dessa forma, conforme os próprios Agravantes consignaram na petição de fl. 2.491-2.512, fica evidente a perda superveniente de interesse de agir no presente pedido de suspensão de liminar e de sentença, que impõe a extinção do processo sem resolução do mérito.
+A propósito, confiram-se os seguintes julgados:
+"AGRAVO REGIMENTAL - ADMINISTRATIVO E PROCESSUAL CIVIL - RECONHECIMENTO DO DIREITO NA VIA ADMINISTRATIVA - FATO SUPERVENIENTE - OCORRÊNCIA - ARTIGO 462 DO CPC - PERDA SUPERVENIENTE DO INTERESSE DE AGIR EVIDENCIADA - EXTINÇÃO DO MÓDULO PROCESSUAL SEM RESOLUÇÃO DO MÉRITO - ARTIGO 267, INCISO VI, DO CÓDIGO DE PROCESSO CIVIL - RECURSO DESPROVIDO.
+ O reconhecimento do direito na esfera administrativa configura fato superveniente, a teor do art. 462 do Diploma Processual, que implica a superveniente perda do interesse de agir do Autor, pois torna-se desnecessário o provimento jurisdicional, impondo a extinção do processo sem julgamento do mérito, nos termos do art. 267, inciso VI, do Código de Processo Civil (EDcl nos EDcl no REsp 425195/PR, Relatora Ministra Laurita Vaz, DJe 8.9.2008).
+Agravo regimental desprovido." (AgRg no REsp 1174020/RS, Rel. Ministra MARILZA MAYNARD (DESEMBARGADORA CONVOCADA DO TJ/SE), QUINTA TURMA, julgado em 14/05/2013, DJe 20/05/2013.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO CONTRA DECISÃO QUE TRATA DO EFEITO EM QUE SERÁ RECEBIDO O RECURSO DE APELAÇÃO. APELO JULGADO. PRETENSÃO PREJUDICADA.
+ ..
+3. "Para configuração do interesse processual há que se demonstrar, além da necessidade da atividade jurisdicional e da adequação do procedimento, a utilidade do provimento jurisdicional" (EDcl no REsp 791.699/RS, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 23/11/2012).
+4. Eventual vício de intimação, por ocasião do julgamento do recurso de apelação, deve ser suscitado nos autos principais, e não no agravo de instrumento que ataca a decisão que trata dos efeitos do recebimento da apelação.
+5. Agravo regimental não provido." (AgRg no AREsp 231.604/PE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 12/03/2013, DJe 18/03/2013.)
+Ante o exposto, nos termos do art. 485, inciso VI, do Código de Processo Civil de 2015, JULGO EXTINTO o processo sem resolução de mérito, diante da superveniente ausência de interesse de agir.
+Fica PREJUDICADO o exame do agravo interno de fls. 2.296-2.310. Assim, exclua-se o feito da pauta da Sessão da Corte Especial designada para o dia 15/8/2018.
+Publique-se. Intimem-se.
