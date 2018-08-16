@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão de e-STJ fls. 431/437, que deu provimento ao recurso especial para restabelecer o acórdão da apelação que havia reconhecido o nexo causal e a responsabilidade da empresa no evento danoso.
+A embargante sustenta que teria ficado comprovado que também teria sido "vítima de uma fatalidade, na medida em que nada, absolutamente nada, concorreu para o resultado do acidente" (e-STJ fl. 447). Aduz:
+Insta salientar que, embora a ora Embargada tenha induzido a erro esse Egrégio Tribunal, ao contrario do que ela buscou fazer crer, o preposto do Embargante utilizou de todas as formas para se evitar o embate, tendo utilizado de todos os meios que possuia para tal; todavia, por motivos de alheios a sua vontade, inclusive de forca maior, infelizmente nao o conseguiu.
+Acresca-se a isso que nos autos ficou peremptoriamente excluída a conduta comissiva ou omissiva do condutor do trolebus da empresa ora Embargante, nao se configurando o nexo de causalidade entre o dano e a sua conduta.
+Fato é que, o veiculo do Embargante foi tocado por outro e este por sua vez atingiu o caminhao, o qual veio a atropelar as vitimas, dentre elas o irmão da ora Embargada.
+Da simples leitura da moldura fatica dos autos se tem que o veículo conduzido pelo preposto da ora Embargante foi atingido pelo Monza, nao entendo praticado qualquer conduta culposa causadora do sinistro.
+Com efeito, o veiculo do ora Embargante alem de nao dar causa ao acidente, também, não atropelou o irmão da Embargada, mas sim o caminhão.
+Destaque-se que, restou evidente no feito a ausência de nexo de causalidade, já que o dano foi causado por terceira pessoa.
+Não se perca de vista que o veiculo Monza, por imprudencia, negligência e imperícia passou o farol vermelho, vindo a colidir corn o veiculo da ora Embargante, o que, por sua vez, veio a colidir corn um caminhao, o qual atropelou o irmão da Embargada. Logo, nao houve qualquer conduta direta do preposto para o resultado, nao havendo que se falar em reparagao de dano.
+Dai decorre a contradicao, entre a situaçao fatica dos autos e acohida pelo v. Acordao, vez que os fatos comprovam a efetiva inaplicavel da Sumula 187 do STF ao presente caso, nao apenas em razao do quanto acima aduzido, como, tambern, por nao ter o Embargante participado de forma direta para corn ele.
+Postula o acolhimento dos embargos com efeito modificativo, afirmando não poder ser compelida a reparar danos por acidente de trânsito ante a ausência de nexo causal e culpa.
+A questão, no entanto, foi tratada expressamente pela decisão ora embargada.
+Registrou-se que o fato de terceiro que exclui a responsabilidade do transportador é aquele imprevisto e inevitável, que nenhuma relação guarde com a atividade inerente à transportadora.
+Registrou-se, igualmente, que a demonstração de que o acidente fora causado por culpa do condutor de outro veículo, no caso do veículo Monza, não exime a responsabilidade do transportador.
+Não fosse o suficiente, ainda foi acrescentado que não é estranho à exploração da atividade da empresa o fato de abalroamento com outros veículos e que acidentes em cruzamentos, uma vez insertos em seu itinerário, são previsíveis, não sendo causa alheia ao transporte em si.
+Diante das referidas considerações, concluiu-se não ser o caso de se aplicar o inciso II do § 3º do artigo 14 do Código de Defesa do Consumidor, devendo a ré responder, objetivamente, pelos danos causados, garantido o direito de regresso contra o eventual culpado.
+Indiferente para a hipótese o fato de o veículo da empresa de transportes estar nas pontas ou no meio da cadeia de eventos que culminaram no resultado lesivo. O envolvimento descrito na dinâmica do acidente pelo Tribunal de origem coloca o veículo da empresa na cadeia de nexo causal, aplicando-se o entendimento do precedente desta Corte Superior citado na decisão ora embargada.
+Vê-se, pois, que a parte não demonstra situação de cabimento do recurso de embargos de declaração, mas apenas impugna o mérito da decisão com o intuito de reformar seu conteúdo material, pretensão para a qual não se presta a via processual eleita.
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
