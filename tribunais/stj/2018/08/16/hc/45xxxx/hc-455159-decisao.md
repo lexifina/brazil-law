@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DIEGO LOPES DE SOUSA em face de acórdão do Tribunal de Justiça do Estado de São Paulo.
+O Juízo da Execução, em 24/7/2017, proferiu decisão que deferiu o pedido de livramento condicional ao paciente, após homologação da pena (fls. 36-37).
+O Tribunal a quo deu provimento ao agravo em execução ministerial para que se reconheça a hediondez do tráfico privilegiado, sendo cassado o livramento condicional concedido (fls. 7-12).
+Sustenta a impetrante, em síntese, que o tráfico privilegiado não está previsto na Lei n.º 8.072/90, cujo rol dos crimes hediondos é taxativo.
+Afirma que o tráfico privilegiado é espécie diversa do crime de tráfico de drogas e que o crime praticado deve ser considerado crime comum (fl. 4).
+Salienta que tendo em vista o princípio da individualização da pena e o da proporcionalidade e considerando que o tráfico privilegiado não consta no rol dos crimes hediondos e equiparados, deve-se conferir a ele o mesmo tratamento conferido aos crimes comuns (fl. 5).
+Requer, liminarmente e no mérito, a manutenção do livramento condicional, após constatado o preenchimento dos requisitos legais, expedindo-se o contramandado de prisão.
+Indeferida a liminar (fl. 51) e prestadas as informações (fls. 57-65), manifestou-se o Ministério Público Federal pela concessão da ordem (fls. 67-69).
+É o relatório.
+DECIDO.
+A Corte local acolheu o pleito de reconhecimento do caráter hediondo do crime de tráfico de drogas, mesmo com a incidência da causa de diminuição de pena contida no § 4º do art. 33 da Lei 11.343/06, pelos seguintes fundamentos (fls. 7-12):
+ ..
+É o relatório.
+Razão assiste ao Ministério Público recorrente, "data venia" do posicionamento adotado pelo d. Juízo da origem.
+Veja-se.
+O sentenciado cumpria, em regime fechado, pena de 2 anos e 6 meses de reclusão, pela prática da infração penal capitulada no art. 33, "caput", cc. art. 33, § 4o, ambos da Lei nº 11.343/2006 (tráfico ilícito de entorpecentes, com aplicação da causa de diminuição prevista na Lei de Drogas).
+Foi homologado o cálculo das penas que considera o delito em questão como crime comum - com base em recente julgado do C. Supremo Tribunal Federal (HC 118.533/MS) - com consequente afastamento de frações diferenciadas para progressão de regime (necessidade do cumprimento de 2/5 da pena, se o apenado for primário, e de 3/5, se reincidente, nos termos do art. 2o, 8 2o, da Lei nº 8.072/90) e livramento condicional (necessidade do cumprimento de 2/3 da pena, se o apenado for primário, vedada sua concessão ao reincidente específico, de acordo com o disposto no art. 44, parágrafo único, da Lei nº 11.343/2006).
+Além disso, como consequência, o sentenciado teve deferido livramento condicional, considerando-se cumprido o respectivo lapso temporal em 17.jun.2017.
+Irresignado, recorre o "Parquet", buscando cassar a r. decisão de origem, com vistas à elaboração de novo cálculo de penas, com o restabelecimento da hediondez do delito, como expressamente determinado pelo art. 2o, "caput", da Lei nº 8.072/1990.
+Pleiteia ainda que, consequentemente, seja cassado o beneficio deferido pelo d. Juízo de origem.
+Pois bem.
+Como bem se sabe, o crime de tráfico ilícito de entorpecentes (art. 33, "caput", da Lei nº 11.343/2006) está previsto no rol dos crimes hediondos ou assemelhados elencado pela Lei dos Crimes Hediondos, como bem argumentou o "Parquet".
+Inexiste ressalva qualquer, na legislação, no que diz à aplicação da causa de diminuição prevista no art. 33, § 4o, da Lei de Drogas.
+Daí porque a modalidade típica usualmente conhecida como "tráfico privilegiado" não representa exceção à regra, mas, ao contrário, encontra-se por ela abrangida.
+Ademais, e isto verdadeiramente importa, trata-se de causa de diminuição de pena aplicável a réus que possuam condições pessoais favoráveis, o que não significa, jamais, menor gravidade do delito.
+Daí porque não há motivo para o afastamento de seu caráter hediondo, que, como já se disse, é expressamente previsto pela lei.
+A permitir a conclusão de que se trata efetivamente de delito equiparado a hediondo, exigindo, por isso, a aplicação das frações diferenciadas para fins de progressão de regime e livramento condicional, assim como as demais particularidades aplicáveis a tais crimes.
+ ..
+Por outro lado, o recente julgado da Corte Máxima (HC 118533/MS), mencionado pela d. origem, consiste em solução adotada em julgamento de "Hábeas Corpus", válida exclusivamente, em princípio, para o caso concreto julgado naquela sede, desprovida, portanto, de efeito vinculante.
+Diante disso, conclui-se que a fração do cumprimento da pena para possibilitar eventual pleito de livramento condicional deve guardar obediência ao comando do art. 44, parágrafo único, da Lei de Tóxicos  cumprimento pelo sentenciado de, pelo menos, 2/3 da pena, se o apenado for primário, vedada sua concessão ao reincidente específico, de acordo com o disposto no art. 44, parágrafo único, da Lei nº 11.343/2006.
+Portanto, merece reforma a r. decisão atacada, com a cassação do beneficio concedido pela origem, uma vez que se depreende dos autos que, aplicando-se a fração diferenciada destinada aos crimes hediondos e assemelhados, o cumprimento do requisito objetivo somente ocorrerá em 16.abr.2018 (f. 31).
+POSTO,
+Dá-se provimento ao agravo, determinando-se a retificação do cálculo de penas para fins de benefícios, restabelecido o caráter hediondo do crime de tráfico ilícito de entorpecentes pelo qual o sentenciado saiu condenado, cassando-se ainda o benefício do livramento condicional concedido pela origem, pelo não cumprimento do requisito objetivo necessário à sua obtenção.
+Há muito este Superior Tribunal de Justiça havia fixado entendimento no sentido de que a aplicação da causa de diminuição de pena prevista no § 4º do art. 33 da Lei 11.343/06 não afastava a hediondez do delito de tráfico de drogas, pois sua incidência não decorre do reconhecimento de uma menor gravidade da conduta praticada e tampouco da existência de uma figura privilegiada do crime (REsp 1.329.088/RS, Rel. Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 13/3/2013, DJe 26/4/2013), o que foi, inclusive, consolidado na Súmula 512/STJ.
+Ocorre que, no julgamento do HC 118.533/MS, o Plenário do Supremo Tribunal Federal firmou orientação segundo a qual o tráfico de entorpecentes privilegiado (art. 33, § 4º, da Lei 11.343/06) não se harmoniza com a hediondez do tráfico de entorpecentes definido no caput e § 1º do art. 33 da Lei de Tóxicos. Eis a ementa do acórdão:
+EMENTA: HABEAS CORPUS. CONSTITUCIONAL, PENAL E PROCESSUAL PENAL. TRÁFICO DE ENTORPECENTES. APLICAÇÃO DA LEI N. 8.072/90 AO TRÁFICO DE ENTORPECENTES PRIVILEGIADO: INVIABILIDADE. HEDIONDEZ NÃO CARACTERIZADA. ORDEM CONCEDIDA.
+1. O tráfico de entorpecentes privilegiado (art. 33, § 4º, da Lei n. 11.313/2006) não se harmoniza com a hediondez do tráfico de entorpecentes definido no caput e § 1º do art. 33 da Lei de Tóxicos.
+2. O tratamento penal dirigido ao delito cometido sob o manto do privilégio apresenta contornos mais benignos, menos gravosos, notadamente porque são relevados o envolvimento ocasional do agente com o delito, a não reincidência, a ausência de maus antecedentes e a inexistência de vínculo com organização criminosa.
+3. Há evidente constrangimento ilegal ao se estipular ao tráfico de entorpecentes privilegiado os rigores da Lei n. 8.072/90.
+4. Ordem concedida. (HC 118533, Relator(a):  Min. CÁRMEN LÚCIA, Tribunal Pleno, julgado em 23/06/2016, PROCESSO ELETRÔNICO DJe-199 DIVULG 16-9-2016 PUBLIC 19-9-2016.)
+Nesse contexto, alinhando-se a posição do STF, a Terceira Seção desta Corte concluiu pela necessidade de revisão do entendimento anteriormente consolidado, com o consequente cancelamento da Súmula 512/STJ. Vejamos:
+PENAL E PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS NA SUA FORMA PRIVILEGIADA. ART. 33, § 4º, DA LEI Nº 11.343/2006. CRIME NÃO EQUIPARADO A HEDIONDO. ENTENDIMENTO RECENTE DO PLENO DO SUPREMO TRIBUNAL FEDERAL, NO JULGAMENTO DO HC 118.533/MS. REVISÃO DO TEMA ANALISADO PELA TERCEIRA SEÇÃO SOB O RITO DOS REPETITIVOS. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA Nº 1.329.088/RS. CANCELAMENTO DO ENUNCIADO Nº 512 DA SÚMULA DO STJ.
+1. O Supremo Tribunal Federal, no recente julgamento do HC 118.533/MS, firmou entendimento de que apenas as modalidades de tráfico ilícito de drogas definidas no art. 33, caput e § 1º, da Lei nº 11.343/2006 seriam equiparadas aos crimes hediondos, enquanto referido delito na modalidade privilegiada apresentaria "contornos mais benignos, menos gravosos, notadamente porque são relevados o envolvimento ocasional do agente com o delito, a não reincidência, a ausência de maus antecedentes e a inexistência de vínculo com organização criminosa." (Rel. Min. Cármen Lúcia, Tribunal Pleno, julgado em 23/06/2016).
+2. É sabido que os julgamentos proferidos pelo Excelso Pretório em Habeas Corpus, ainda que por seu Órgão Pleno, não têm efeito vinculante nem eficácia erga omnes. No entanto, a fim de observar os princípios da segurança jurídica, da proteção da confiança e da isonomia, bem como de evitar a prolação de decisões contraditórias nas instâncias ordinárias e também no âmbito deste Tribunal Superior de Justiça, é necessária a revisão do tema analisado por este Sodalício sob o rito dos recursos repetitivos (Recurso Especial Representativo da Controvérsia nº 1.329.088/RS - Tema 600).
+3. Acolhimento da tese segundo a qual o tráfico ilícito de drogas na sua forma privilegiada (art. 33, § 4º, da Lei n. 11.343/2006) não é crime equiparado a hediondo, com o consequente cancelamento do enunciado 512 da Súmula deste Superior Tribunal de Justiça. (Pet 11.796/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, julgado em 23/11/2016, DJe 29/11/2016.)
+Desse modo, não há como se aplicar os rigores da Lei 8.072/90 ao crime de tráfico ilícito de entorpecentes, quando reconhecida a sua forma privilegiada, nos termos do art. 33, § 4º, da Lei 11.343/06, porquanto não caracterizada a natureza hedionda do delito.
+Ante o exposto, concedo o habeas corpus para afastar a natureza hedionda do crime de tráfico privilegiado, restabelecendo o livramento condicional do paciente.
+Comunique-se.
+Publique-se.
+Intimem-se.
