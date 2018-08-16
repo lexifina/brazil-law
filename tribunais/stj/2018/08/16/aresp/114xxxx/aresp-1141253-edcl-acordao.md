@@ -1,0 +1,58 @@
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ACLARATÓRIOS INTEMPESTIVOS. PRAZO REGULADO PELO CPP. ART. 263 DO RISTJ, C/C O ART. 619 DO CPP INEXISTÊNCIA DOS VÍCIOS ELENCADOS NO ART. 619 DO CPP. NÍTIDO CARÁTER PROTELATÓRIO.
+1. O prazo para oposição de embargos de declaração em matéria criminal é o previsto no art. 619 do Código de Processo Penal, qual seja, 2 (dois) dias, conforme dispõe o art. 263 do Regimento Interno do Superior Tribunal de Justiça. A entrada em vigor do novo Código de Processo Civil não repercutiu no prazo dos embargos em processo penal, que possui disciplina própria.
+2. No caso, o acórdão embargado foi disponibilizado no Diário de Justiça eletrônico em 29/5/2017 (terça-feira), considerando-se publicado em 30/5/2017 (quarta-feira). O prazo para oposição dos aclaratórios iniciou-se em 1/6/2017 (sexta-feira) e terminou em 4/6/2017 (segunda-feira), sendo que os embargos foram opostos apenas em 11/6/2017, fora, portanto, do prazo legal.
+3. Os embargos de declaração possuem fundamentação vinculada, dessa forma, para seu cabimento, imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal.
+4. A superveniência de inúmeros recursos contestando o não conhecimento do agravo em recurso especial, sem demonstração de tese apta à reversão do julgado, revela nítido caráter protelatório da defesa.
+5. Embargos de declaração não conhecidos, com a determinação a baixa dos autos à Corte de origem, após a certificação do trânsito em julgado, independentemente da interposição de outro recurso.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer dos embargos, com determinação, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Felix Fischer e Jorge Mussi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de embargos de declaração em face de acórdão desta Turma que rejeitou os aclaratórios anteriormente opostos por [NOME], nos termos da seguinte ementa (e-STJ fl. 497):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DAS HIPÓTESES PREVISTAS NO ART. 619 DO CPP. HOMICÍDIO TENTADO. PRONÚNCIA. PLEITO ABSOLUTÓRIO OU DESCLASSIFICAÇÃO. COMPETÊNCIA DO TRIBUNAL DO JÚRI. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA 7/STJ. ANÁLISE DE VIOLAÇÃO DE PRINCÍPIOS CONSTITUCIONAIS. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+2. A mera irresignação do embargante com a solução apresentada por esta Corte Superior inviabilizada a utilização dos aclaratórios.
+3. O acórdão recorrido não se apresenta omisso nem contraditório, pois é claro ao afirmar que a análise das teses defensivas não prescinde de acurado revolvimento do acervo fático-probatório, vedado em sede de recurso especial, nos moldes da Súmula 7/STJ.
+4. Não cabe a esta Eg. Corte, ainda que para fins de prequestionamento, analisar ofensa à Constituição Federal, sob pena de usurpação de competência atribuída ao STF.
+5. Embargos de declaração rejeitados.
+Nos presentes embargos, reitera a defesa omissão no acórdão recorrido, que não apreciou a existência de contrariedade ao disposto no inciso IX do artigo 93 da Constituição Federal, uma vez que se limitaram os julgadores a reproduzir precedentes, deixando de expor seus próprios fundamentos.
+Aduz que a matéria argüida cuida de questão de direito, não havendo a necessidade de reexame de fatos, a exemplo da alegação de necessidade de exame de corpo de delito em crimes que deixam vestígio.
+Pugna, ao final, que seja sanada a omissão, a fim de apresentar fundamentação idônea quanto ao não provimento ou, se for o caso, que seja provido o agravo regimental anteriormente interposto.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+De início, verifico que os embargos de declaração são extemporâneos.
+Isso porque o prazo para oposição de embargos de declaração em matéria criminal é o previsto no art. 619 do Código de Processo Penal, qual seja, 2 (dois) dias, conforme dispõe o art. 263 do Regimento Interno do Superior Tribunal de Justiça. A entrada em vigor do novo Código de Processo Civil não repercutiu no prazo dos embargos em processo penal, que possui disciplina própria.
+No caso, o acórdão embargado foi disponibilizado no Diário de Justiça eletrônico em 29/5/2017 (terça-feira), considerando-se publicado em 30/5/2017 (quarta-feira) (e-STJ fl. 1.047). O prazo para oposição dos aclaratórios iniciou-se em 1/6/2017 (sexta-feira) e terminou em 4/6/2017 (segunda-feira), sendo que os embargos foram opostos apenas em 11/6/2017, fora, portanto, do prazo legal.
+Nesse sentido:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. OPOSIÇÃO FORA DO PRAZO RECURSAL. ARTS. 619 DO CPP e 263 DO RISTJ. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. São intempestivos os embargos de declaração opostos fora do prazo de dois dias, previsto nos arts. 619 do CPP e 263 do RISTJ.
+2. Embargos de declaração não conhecidos. (EDcl no AREsp 667.825/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 09/08/2016, DJe 22/08/2016).
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MATÉRIA CRIMINAL. OPOSIÇÃO. PRAZO LEGAL DE 2 (DOIS) DIAS. INTEMPESTIVIDADE.
+1. O prazo para oposição de embargos declaratórios é de 2 (dois) dias quando se tratar de matéria criminal, nos termos do artigo 619 do CPP.
+2. No caso, o acórdão do agravo regimental foi disponibilizado no Diário da Justiça Eletrônico/STJ em 29.3.2016, considerado publicado em 30.3.2016, e os aclaratórios foram opostos somente em 4.4.2016, sendo, portanto, intempestivos.
+3. Embargos de declaração não conhecidos. (EDcl no AgRg no AREsp 764.560/PE, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 02/06/2016, DJe 15/06/2016).
+Ademais, os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+Não se verificando nenhuma das hipóteses anteriores, mas mera irresignação do embargante com a solução apresentada por esta Corte Superior, fica inviabilizada a utilização dos aclaratórios.
+Nesse sentido, o seguinte precedente:
+PENAL E PROCESSO PENAL. SEGUNDOS ACLARATÓRIOS NO AGRAVO REGIMENTAL NOS SEGUNDOS EMBARGOS NO AGRAVO EM RECURSO ESPECIAL. 1. AUSÊNCIA DE OMISSÃO. RECURSO IMPROVIDO. INCIDÊNCIA DOS VERBETES NS. 182/STJ E 284/STF. IMPOSSIBILIDADE DE EXAME DO MÉRITO. NÃO VERIFICAÇÃO DOS VÍCIOS DO ART. 619 DO CPP. 2. NÍTIDO CARÁTER PROTELATÓRIO. ABUSO DO DIREITO DE DEFESA. CERTIDÃO DE TRÂNSITO EM JULGADO. BAIXA DOS AUTOS. 3. EMBARGOS REJEITADOS.
+1. Não há se falar em omissão porquanto as decisões até então proferidas pelo Superior Tribunal de Justiça justificaram a impossibilidade de conhecimento do mérito do agravo em recurso especial, haja vista a incidência dos verbetes ns. 182 da Súmula desta Corte e 284 da Súmula do Supremo Tribunal Federal. Assim, devidamente motivada a inviabilidade de análise dos temas apresentados, não se verifica omissão na decisão embargada.
+2. A superveniência de inúmeros recursos contestando o não provimento do agravo em recurso especial, sem que se traga tese apta à reversão dos julgados proferidos, revela nítido caráter protelatório, no intuito de impedir o trânsito em julgado da ação penal. Abuso de direito constatado em razão da violação dos deveres de lealdade processual e comportamento ético no processo, além do desvirtuamento do próprio postulado da ampla defesa.
+3. Embargos de declaração rejeitados. Determinação de imediata execução da sentença condenatória, com certificação do trânsito em julgado. (EDcl nos EDcl no AgRg nos EDcl nos EDcl no AREsp 411.995/SP, Rel. Ministro WALTER DE ALMEIDA GUILHERME - Desembargador Convocado do TJ/SP - Quinta Turma, julgado em 14/10/2014, DJe 24/10/2014) - (grifei).
+E diante da superveniência de inúmeros recursos, sem que se apresente tese apta à reversão dos julgados proferidos até o momento, revela-se nítido o caráter protelatório do embargante, no intuito de tumultuar o regular curso da ação penal.
+Nesse contexto, mostra-se evidente a existência de abuso de direito, em razão da violação dos deveres de lealdade processual e comportamento ético no processo, além do desvirtuamento do próprio postulado da ampla defesa.
+Assim, embora na esfera penal não seja viável a fixação de multa por litigância de má-fé, impõe-se a certificação do trânsito em julgado, com a baixa dos autos à Corte de origem.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECURSO MANIFESTAMENTE INCABÍVEL. AGRAVO NÃO CONHECIDO.
+1. Nos termos do art. 258 do Regimento Interno do Superior Tribunal de Justiça - RISTJ, é cabível agravo regimental contra decisão monocrática.
+2. No caso em análise, o agravo regimental é manifestamente incabível porque foi interposto contra decisão colegiada que apreciou anterior embargo de declaração oposto contra acórdão proferido em sede de agravo regimental.
+3. Agravo regimental não conhecido. Determinação de imediata baixa dos autos, independente do trânsito em julgado, posto que evidenciado o caráter protelatório do recurso. (AgRg nos EDcl no AgRg nos EDcl no AgRg no REsp 1390945/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 17/04/2018, DJe 27/04/2018)
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ARGUMENTOS DEFENSIVOS DE INAPLICABILIDADE DA SÚMULA 182/STJ. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. EMBARGOS REJEITADOS.
+1. Nos termos do disposto no art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, à sua revisão no caso de mero inconformismo da parte.
+2. "A superveniência de inúmeros recursos contestando o não conhecimento do agravo em recurso especial, sem demonstração de tese apta à reversão do julgado, revela nítido caráter protelatório da defesa" (AgRg na PET nos EDcl no AgRg no AREsp 544.617/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/6/2015, DJe 22/6/2015).
+3. Embargos de declaração rejeitados, com determinação de certificação imediata do trânsito em julgado, independentemente de publicação. (EDcl no AgRg nos EDcl no AREsp 346.045/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 06/02/2018, DJe 16/02/2018)
+Ante o exposto, não conheço dos embargos de declaração e determino a baixa dos autos à Corte de origem, após a certificação do trânsito em julgado, independentemente da interposição de outro recurso.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
