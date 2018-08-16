@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo manejado pelo Estado do Acre contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Acre, assim ementado (fl. 382):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. PENHORA. EMBARGOS DE TERCEIROS. IMPROCEDÊNCIA. EXCEÇÃO DE PRÉ EXECUTIVIDADE. PENHORA DESCONSTITUÍDA. CUMPRIMENTO SENTENÇA. HONORÁRIOS SUCUMBENCIAIS. EMBARGOS DE DECLARAÇÃO. MULTA. AFASTAMENTO. AUSÊNCIA DE CARÁTER PROTELATÓRIO. HONORÁRIOS INDEVIDOS. SENTENÇA SEM EFICÁCIA EXECUTIVA. RECURSO PROVIDO.
+Opostos embargos declaratórios, foram parcialmente acolhidos, nestes termos (fl. 416):
+EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. PENHORA. EMBARGOS DE TERCEIROS. IMPROCEDÊNCIA. EXCEÇÃO DE PRÉ EXECUTIVIDADE. PENHORA DESCONSTITUIDA. CUMPRIMENTO SENTENÇA. HONORÁRIOS SUCUMBENCIAIS. EMBARGOS DE DECLARAÇÃO. MULTA. AFASTAMENTO. AUSÊNCIA DE CARÁTER PROTELATÓRIO. HONORÁRIOS INDEVIDOS. OMISSÃO. OCORRÊNCIA. SENTENÇA SEM EFICÁCIA EXECUTIVA. ACÓRDÃO TRANSITADO EM JULGADO. EMBARGOS PARCIALMENTE PROVIDOS.
+1. Os embargos declaratórios somente são cabíveis para modificar o julgado que se apresentar omisso, contraditório ou obscuro, bem como para sanar eventual erro material na decisão.
+2. A considerar que o julgado deixou de manifestar-se acerva de ponto sobre o qual deveria pronunciar-se, deve ser integrado pelos presentes embargos.
+3. É cediço que a coisa julgada material é a indiscutibilidade da decisão judicial no processo em que foi produzida e em qualquer outro, isto é, a decisão judicial cristaliza-se, tomando-se inalterável.
+4. Esta Câmara, no julgamento da apelação em face da sentença que extinguiu a execução, fls. 330/337, por meio do acórdão nº 14.695/2014, desconstituiu a decisão que o ora agravante pretende ver cumprida, com trânsito em julgado em 9.4.2014.
+5. Embargos providos em parte para integrar o acórdão, sem, no entanto, atribuir-lhe efeitos modificativos, mantendo-se o resultado do julgamento.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 467 e 472 do CPC/73. Sustenta que a decisão que afastou a condenação ao pagamento de honorários advocatícios implica ofensa à coisa julgada, acrescentando que somente pela via da ação rescisória é possível a desconstituição de decisão transitada em julgado.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Ao dirimir a controvérsia, o Tribunal local consignou (fls. 418/419):
+ É cediço que a coisa julgada material é a indiscutibilidade da decisão judicial no processo em que foi produzida e em qualquer outro, isto é, a decisão judicial cristaliza-se, tornando-se inalterável.
+(..)
+ No caso em apreço, a decisão que condenou os ora embargados ao pagamento de honorários sucumbenciais transitou em julgado em 7.10.2013, conforme certidão de fl. 299, revestindo-se assim da imutabilidade própria da coisa julgada.
+ Entretanto, quando do julgamento da apelação em face da sentença que extinguiu a execução, fls. 330/337, este Órgão Fracionado Cível, por meio do acórdão nº 14.695/2014, desconstituiu a decisão que o ora agravante pretende ver cumprida, cito o trecho do acórdão:
+(..)
+ Oportuno salientar que não houve insurgência do ora embargante quanto ao acórdão acima, tendo este transitado em julgado em 9.4.2014, conforme consulta no Sistema de Automação da Justiça.
+No presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, a decisão que fixou os honorários advocatícios foi desconstituída por meio de acórdão transitado em julgado, esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+Ademais, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de aferir se houve ofensa à coisa julgada, na hipótese, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. DEFENSOR DATIVO. OMISSÃO, ART. 1.022, II, DO CPC. FUNDAMENTAÇÃO BASEADA EM DIREITO LOCAL. SÚMULA 280/STF. COISA JULGADA. REEXAME DE PROVAS. SÚMULA 7 DO STJ.
+1. Não se configurou a ofensa ao art. 1.022, II, do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia como lhe foi apresentada. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. A questão sobre o pagamento dos honorários advocatícios envolve, na realidade, análise da Lei do Estado de São Paulo, que foi utilizada pelo Tribunal local para solucionar a lide. A apreciação da questão por esta Corte encontra óbice na Súmula 280 do Supremo Tribunal Federal ("Por ofensa a direito local não cabe recurso extraordinário").
+3. O Tribunal a quo entendeu que não ocorreu mácula à coisa julgada. Para alterar tal conclusão é necessário reexame de provas, inviável ante o óbice da Súmula 7 do Superior Tribunal de Justiça.
+4. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1719219/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/04/2018, DJe 23/05/2018)
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
