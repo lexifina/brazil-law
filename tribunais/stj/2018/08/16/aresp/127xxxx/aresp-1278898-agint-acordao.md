@@ -1,0 +1,31 @@
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. DANO MORAL. NÃO OCORRÊNCIA. PRECEDENTES DESTA CORTE.
+1. O dano moral, na hipótese de atraso na entrega de unidade imobiliária, não se presume, configurando-se apenas quando houver circunstâncias excepcionais que, devidamente comprovadas, importem em significativa e anormal violação a direito da personalidade dos compradores.
+2. Agravo interno não provido provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, negar provimento ao agravo, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno no recurso especial interposto por [NOME] e OUTRO, em face de decisão unipessoal que conheceu do agravo para conhecer parcialmente do recurso especial manejado por HORSTH E SORTE EMPREENDIMENTOS IMOBILIARIOS S/A e, nessa extensão, dar-lhe provimento.
+Ação: obrigação de fazer cumulada com compensação por danos morais ajuizada pelos ora agravantes em face da empresa agravada, pleiteando a outorga de escritura de bem imóvel objeto de contrato de compra e venda firmado entre as partes, sem a constituição de ônus real ou renúncia de direito, além de reparação por danos morais custas processuais e honorários.
+Sentença: julgou procedentes os pedidos iniciais para condenar a requerida na obrigação de fazer, consistente na outorga da escritura do lote aos autores, no prazo de trinta dias, sem que dela conste ônus real de servidão ou renúncia a direito de indenização decorrente de servidão, bem como apresentar os documentos necessários para lavratura da escritura sob pena de multa diária de R$100,00 limitada a R$20.000,00 a ser revertida em favor dos autores; condenar a requerida ao pagamento de compensação por danos morais, no valor de R$10.000,00, à razão de metade para cada autor, atualizado monetariamente a partir da data da sentença e acrescido de juros de mora de 1% ao mês a partir da citação; bem como condenar a requerida ao pagamento das custas processuais e honorários advocatícios fixados em 15% do valor atualizado da condenação.
+Acórdão: negou provimento à apelação manejada pela ora agravada.
+Recurso especial: alegou violação dos arts. 5º, LV da CF; 369 do CPC/15, bem como dissídio jurisprudencial acerca dos arts. 186 e 927 e CC. Defendeu que "o julgamento antecipado da lide importa em violação ao contraditório e a ampla defesa". Asseverou que "não é suficiente apenas a simples alegação de dano, sendo necessário que haja prova da sua efetiva ocorrência". Aduziu que "frente ao simples atraso na entrega da obra e/ou imóvel, não há que se falar em abalo moral indenizável", pleiteando o afastamento da condenação relativa à compensação por danos morais.
+Decisão agravada: conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, dar-lhe provimento, tão somente para afastar a condenação em compensação por danos.
+Agravo interno: sustenta que os danos morais restaram devidamente comprovados, razão pela qual a decisão agravada merece ser reconsiderada.
+É o relatório.
+VOTO
+EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Pela análise das razões recursais apresentadas, verifica-se que o agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Conforme afirmado pela decisão agravada, a jurisprudência desta Corte está assentada no sentido de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, embora possa ensejar reparação por danos materiais, não acarreta, por si só, danos morais, salvo se as circunstâncias do caso concreto demonstrarem a efetiva lesão extrapatrimonial.
+No que se refere ao dano moral, o TJ/MG deixou expressamente consignado que (fls. 363/365, e-STJ):
+Quanto ao dever da Ré de indenizar os Requerentes pelos alegados danos morais, entendo-o caracterizado.
+De fato, o descumprimento ou a abusividade permeada em cláusulas de contrato não tem o condão de, por si só, ensejar tal indenização.
+O caso em apreço, todavia, possui caráter excepcional, onde se verifica a ocorrência de dano moral indenizável.
+Isso porque a conduta da Incorporadora Ré, no sentido de procrastinar, injustificadamente, a entrega das obras de infraestrutura, causou prejuízo moral aos Autores que, na data ajustada, constataram que elas não foram concluídas.
+Não se trata de um mero atraso tolerável na regularização do empreendimento, mas, sim, de um ilícito contratual, ensejador de dano moral, pois o uso efetivo do lote somente foi viabilizado quase dois anos depois da data ajustada.
+Não considero que tal situação, como sustentado pela Apelante, seja comum do cotidiano, representativa de mero dissabor ou aborrecimento, pois tem potencial para seriamente causar abalo emocional e sofrimento por raiva, revolta, humilhação, impotência, tristeza e angústia.
+Tenho, pois, como caracterizada situação fática ensejadora de danos morais, como bem reconhecido na bem lançada sentença recorrida.
+Nota-se que, na hipótese dos autos, a fixação do dano moral está justificada somente na frustração da expectativa dos agravantes em imitir-se na posse do imóvel, sem traçar qualquer nota adicional ao mero atraso que pudesse, para além dos danos materiais, ensejar a violação de direito da personalidade a ponto de causar grave sofrimento ou angústia, razão pela qual a decisão agravada merece ser mantida por seus próprios fundamentos.
+Sobre o tema, confiram-se: AgInt no REsp 1715252/RO, 4ª Turma, DJe 15/06/2018; AgInt no REsp 1719311/SP, 3ª Turma, DJe 28/05/2018; AgInt no REsp 1704960/RJ, 3ª Turma, DJe 18/05/2018; AgInt no AREsp 1076228/SE, 4ª Turma, DJe 15/12/2017; AgInt no AREsp 677.950/RJ, 4ª Turma, DJe 20/03/2017.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
