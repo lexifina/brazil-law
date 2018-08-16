@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu o recurso especial interposto com fulcro no art. 105, III, alínea "a", da Constituição Federal.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 155, caput, do Código Penal (furto), a pena de 01 (um) ano e 04 (quatro) meses de reclusão, em regime inicial semiaberto, e ao pagamento de 13 (treze) dias-multa.
+Irresignada, a defesa do agravante interpôs recurso de apelação, que restou desprovido por acórdão assim ementado:
+APELAÇÃO CRIMINAL. FURTO SIMPLES. ABSOLVIÇÃO. PRINCÍPIO DA INSIGNIFICÂNCIA. INVIÁVEL. INIMPUTABILIDADE (ART. 26, CP). ISENÇÃO DE PENA. SEMI IMPUTABILIDADE (PARÁGRAFO ÚNICO, ART. 26, CP). REDUÇÃO DE PENA. IMPOSSIBILIDADE. DOSIMETRIA. PERSONALIDADE. EXCLUSÃO DA VALORAÇÃO DESFAVORÁVEL. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.
+1. O princípio da insignificância exige, para a sua aplicação, a mínima ofensividade da conduta do agente, ausência de periculosidade social da ação, o reduzido grau de reprovabilidade do comportamento e a inexpressividade da lesão jurídica, segundo entendimento adotado pelo STF a partir do julgamento do Habeas Corpus nº 84.412/SP.
+2. Ausente qualquer prova de que o réu/apelante era dependente químico ou de que, ao tempo do crime, era inteiramente incapaz de entender o caráter ilícito db fato ou de determinar-se de acordo com esse entendimento, não há como ser reconhecida a sua inimputabilidade, prevista no art. 26, caput, do CP, impondo-se a ele a aplicação de sanção penal.
+3. Para a aplicação da redução da pena prevista no parágrafo único do art. 26 do CP, é necessário que a situação de quase dependência de droga, que seria equivalente à doença mental, seja plenamente documentado no processo. Considerando que a Defesa em nenhum momento trouxe prova convincente a comprovar a doença mental ou situação de dependência, impossível minorar a pena.
+4. Provado que o réu possui várias condenações transitadas em julgado por fatos anteriores, nada obsta que o julgador utilize uma delas para majorar a pena pela reincidência e as demais para justificar a análise desfavorável das circunstâncias judiciais relativas aos antecedentes e à personalidade.
+5. Recurso conhecido e não provido.
+Em sede de recurso especial, a defesa aponta violação ao disposto no art. 386, III, do Código de Processo Penal. Sustenta, em síntese, a aplicação do princípio da insignificância.
+A r. decisão agravada inadmitiu o recurso especial, haja vista os óbices contidos nas Súmulas n. 7 e n. 83 ambas desta Corte Superior.
+Em agravo em recurso especial, a defesa alega que pretende tão somente a revaloração dos fatos e provas e que esta Corte possui jurisprudência divergente do entendimento do Tribunal de origem, afastando-se a aplicação da Súmula n. 83/STJ.
+Contraminuta a fl. 321.
+O Ministério Público Federal opinou pelo desprovimento do recurso (fls. 336/340).
+É o relatório. Decido.
+Atendidos os requisitos de admissibilidade e impugnados os fundamentos da decisão agravada, conheço do agravo.
+Passo à análise do recurso especial.
+A irresignação não merece prosperar.
+Consoante entendimento da Suprema Corte, são requisitos para aplicação do princípio da insignificância: a mínima ofensividade da conduta, a ausência de periculosidade social na ação, o reduzido grau de reprovabilidade do comportamento e a inexpressividade da lesão jurídica provocada.
+No caso dos autos, o valor da res furtiva (R$ 121,65), superior a 10 % (dez por cento) do salário mínimo vigente à época dos fatos (R$ 880,00), evidencia a efetiva lesão ao bem jurídico tutelado pela norma penal incriminadora, sendo que o fato de o agravante ser reincidente e ostentar outros registros criminais, inclusive por delitos contra o patrimônio, revela o maior grau de reprovabilidade do seu comportamento, hipóteses que obstam a aplicação do princípio da insignificância.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. PLEITO DE RECONHECIMENTO DA ATIPICIDADE MATERIAL DA CONDUTA. REINCIDÊNCIA ESPECÍFICA E VALOR DO BEM EQUIVALENTE A 25% DO VALOR DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA DO FATO DELITIVO. FUNDAMENTOS SUFICIENTES PARA A MANUTENÇÃO DO ÉDITO CONDENATÓRIO. 1. A decisão agravada está na mais absoluta sintonia com a massiva jurisprudência desta Corte, firmada no sentido de que tanto a reincidência específica quanto o elevado valor do bem objeto da subtração impedem, de modo absoluto, o reconhecimento da atipicidade material da conduta. 2. Assim, por estar na mais absoluta harmonia com a jurisprudência sedimentada nesta Casa Superior de Justiça, a decisão agravada deve ser mantida intacta pelos seus próprios termos, que ora são postos para a apreciação e ratificação deste colegiado. 3. Agravo regimental desprovido. (AgRg no AREsp 1139562/DF, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 15/05/2018, DJe 29/05/2018)
+HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. NÃO CABIMENTO. IMPROPRIEDADE DA VIA ELEITA. FURTO QUALIFICADO. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. DELITO QUALIFICADO, PACIENTE REINCIDENTE E VALOR DO BEM QUE ULTRAPASSA 10% DO VALOR DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA DO DELITO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+(..)
+- Na espécie, é inviável a aplicação do princípio da insignificância, pois, como bem destacou a Corte local, além de o valor dos objetos furtados (avaliados em R$ 54,53) ultrapassar um pouco os 10% do valor do salário mínimo vigente à época do crime (R$ 545,00, em 10/12/2011), a reincidência específica do paciente e o fato de o delito ter sido praticado mediante escalada impedem a aplicação da bagatela, que não é recomendável ao caso, ante a intensa reprovabilidade da conduta . Precedentes.
+(..)
+- Habeas corpus não conhecido. (HC 406.867/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 21/09/2017, DJe 27/09/2017 - Grifo Nosso).
+Ante o exposto, com fundamento na Súmula n. 568/STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
