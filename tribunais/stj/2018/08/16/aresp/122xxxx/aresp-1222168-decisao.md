@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de Campinas contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 254):
+AÇÃO ANULATÓRIA - Tributário - Indevida a cobrança de [NOME] perante a Municipalidade que não esteja efetivamente a exercer atividade profissional autônoma, com a configuração do fato gerador - Não observância dos artigos 1º e 9º, da Lei Municipal nº 8.230/94 - Procedência da ação mantida - Precedentes deste E. Tribunal de Justiça - Recurso da Prefeitura não provido.
+Não foram opostos embargos declaratórios.
+Nas razões do recurso especial, a parte agravante aponta dissídio jurisprudencial e violação ao art. 1º do Decreto 20.910/32. Sustenta a ocorrência da prescrição quinquenal, sob o argumento de que "a parte autora pretende a anulação dos lançamentos tributários de ISS lançados desde os longíquos exercícios de 1995 a 2011" (fl. 267), tendo a presente ação anulatória somente sido ajuizada em 2012.
+Assevera que "não há prestação sucessiva, bem por isso é indubitável a incidência da prescrição da pretensão anulatória. Os créditos já se encontram definitivamente constituídas e contam inclusive com ação de execução fiscal" (fl. 270).
+É o relatório.
+A irresignação não comporta acolhida.
+Inicialmente, no presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, de que "não está o autor a debater prestações sucessivas, mas o pagamento de verba tributária consolidada e até executada a partir de 2011 (fls. 30/31), sendo esta ação anulatória promovida já em 2012 (fl. 02)" (fls. 255/256), esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+Ainda que assim não fosse, a alteração deste entendimento, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
