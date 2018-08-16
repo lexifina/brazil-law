@@ -1,0 +1,47 @@
+DECISÃO
+[NOME], paciente neste habeas corpus, alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro (Apelação Criminal n. 0019229-55.2016.8.19.0203).
+Consta dos autos que o acusado - denunciado pela prática dos delitos de tráfico, associação ao tráfico, receptação e posse ilegal de arma de fogo - foi condenado, em primeiro grau, à pena de 3 anos, 10 meses e 20 dias de reclusão, em regime fechado, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006. Os autos dão conta da apreensão de 5,1 g de maconha e 188 g de cocaína.
+O Tribunal de origem negou provimento ao recurso da defesa e deu parcial provimento à apelação do Ministério Público a fim de condenar o réu pelo delito previsto no art. 35 da Lei de Drogas, afastar a minorante prevista no mencionado diploma e tornar a reprimenda definitiva em 8 anos e 10 meses de reclusão, em regime fechado, mais multa.
+Busca-se, por meio deste writ: a) a absolvição do réu em relação ao crime de associação para o tráfico de drogas; b) a incidência da causa especial de diminuição prevista no § 4º do art. 33 da Lei de Drogas; c) a fixação do regime inicial aberto; d) a substituição da pena privativa de liberdade por restritiva de direitos ou a suspensão condicional da pena.
+Sem pedido liminar. Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do habeas corpus.
+Decido.
+O Magistrado absolveu o réu em relação ao crime de associação para o tráfico de drogas com os seguintes fundamentos (fls. 95-97):
+Neste aspecto, este Magistrado entende que há dúvida razoável quanto à prática do referido delito, em razão dos seguintes pontos.
+Primeiro ponto:
+Não se registra qualquer outro envolvimento do réu com práticas ilícitas, seja com relação aos crimes relacionados às drogas, seja com relação a qualquer outro crime.
+Segundo ponto:
+O art. 35, caput, da Lei 11343/06, exige a associação de duas ou mais pessoas para o fim de praticar qualquer dos crimes previstos nos artigos 33, caput e § Iº, e 34, da referida lei.
+Mas a peça acusatória faz referência genérica à associação criminosa, sem que tenha sido revelado o efetivo vínculo existente entre o réu e as pessoas que integram o aludido grupo.
+Terceiro ponto:
+Em razão de sua peculiaridade, o crime em exame exige a presença de provas concretas para a sua caracterização, não bastando apenas menção genérica à sua prática.
+Mas, além da substância entorpecente, não foi apreendido com o acusado qualquer outro elemento capaz de embasar a tese acusatória, especificamente quanto ao crime do art. 35, caput, da Lei 11343/06.
+Conclusão:
+Diante dos pontos acima destacados, é preciso esclarecer que este Magistrado não está absolutamente convencido da inocência do acusado.
+Porém, não se pode desconsiderar o conjunto de fatores que trazem séria dúvida quanto ao fato de o acusado se encontrar associado a outra pessoa para a prática do tráfico de drogas.
+Assim, é claro que, havendo dúvida no espírito do julgador, verdadeiramente materializada pelos pontos já destacados, não há outro caminho a percorrer senão o da absolvição.
+Logo, neste aspecto, tem lugar a absolvição.
+Entretanto, o Tribunal de origem entendeu pela condenação do paciente, pois, no contexto em que ocorreu o delito de tráfico, "não é crível que o apelante exerça o tráfico, em localidade dominada por facção criminosa, sem envolver-se com a mesma" (fl. 223).
+Para melhor análise da questão sub examine, transcrevo, por oportuno, o disposto no art. 35 da Lei n. 11.343/2006, in verbis:
+Art. 35. Associarem-se duas ou mais pessoas para o fim de praticar, reiteradamente ou não, qualquer dos crimes previstos nos arts. 33, caput e § 1º, e 34 desta Lei:
+Pena - reclusão, de 3 (três) a 10 (dez) anos, e pagamento de 700 (setecentos) a 1.200 (mil e duzentos) dias-multa.
+Parágrafo único. Nas mesmas penas do caput deste artigo incorre quem se associa para a prática reiterada do crime definido no art. 36 desta Lei.
+Considerando a expressão utilizada pelo legislador, de que a associação entre duas ou mais pessoas para o fim de praticar, reiteradamente ou não, qualquer dos crimes previstos nos arts. 33, caput e § 1º, e 34, da Lei de Drogas, a jurisprudência deste Superior Tribunal firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa.
+A propósito, confira-se o seguinte julgado: HC n. 220.231/RJ, Rel. Ministro Rogerio Schietti, 6ª T., DJe 18/4/2016.
+Assim, para a caracterização do delito previsto no art. 35 da Lei de Drogas, é necessário que o animus associativo seja efetivamente provado. Isso porque, se assim não fosse, estaria evidenciado mero concurso de agentes para a prática do crime de tráfico de drogas.
+No caso, verifico que a instância ordinária, ao concluir pela condenação do paciente em relação ao crime previsto no art. 35 da Lei n. 11.343/2006, nem sequer mencionou a existência de vínculo associativo estável e permanente. E, como ressaltado pelo Juiz sentenciante, a própria peça acusatória "faz referência genérica à associação criminosa, sem que tenha revelado o efetivo vínculo existente entre o réu e as pessoas que integram o aludido grupo" (fl. 96).
+Assim, inexistem elementos nos autos que comprovem que o acusado estaria associado de forma estável e permanente para o cometimento do tráfico de drogas.
+Por essas razões, justamente porque constatada a associação eventual para a prática do crime de tráfico de drogas, deve ser concedido o habeas corpus para absolver o paciente em relação ao crime descrito no art. 35 da Lei n. 11.343/2006.
+Em caso semelhante, este Superior Tribunal também decidiu pela absolvição em relação ao delito previsto no art. 35 da Lei de Drogas:
+ ..
+1. A jurisprudência deste Superior Tribunal firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é imprescindível a demonstração concreta da estabilidade e da permanência da associação criminosa (HC 270.837/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 19/03/2015, DJe 30/03/2015).
+2. In casu, ao condenar a paciente pelo delito do artigo 35 da Lei n. 11.343/2006, o aresto guerreado não declinou fundamentação idônea acerca da existência de vínculo associativo estável e permanente, restando evidenciado, apenas, prévio ajuste entre os agentes para a venda de drogas, o que denota a prática da figura típica do delito de tráfico de entorpecentes em coautoria.
+3. Superado o óbice erigido pelo Tribunal para negar à paciente a aplicação da causa especial de diminuição de pena prevista no art. 33, §4º, da Lei 11.343/06, de rigor o restabelecimento da sentença condenatória nesse sentido, que fez incidir a redutora na fração de 1/2, ressaltando a variedade e quantidade de droga apreendida.
+ ..
+7. Habeas corpus concedido para afastar a condenação por associação para o tráfico e, superado o óbice para aplicação do privilégio, restabelecer a pena imposta na sentença condenatória, fixando, de ofício, o regime inicial aberto para início do desconto da pena.
+(HC n. 391.325/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 25/5/2017)
+Afastado o vínculo associativo, tenho que, como consectário da absolvição em relação ao crime de associação para o tráfico de drogas (art. 35 da Lei n. 11.343/2006), também deve ser concedido habeas corpus para aplicar a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+Assim, por ser possível verificar pelos autos, de maneira inequívoca, a primariedade do acusado ao tempo do delito e a existência de bons antecedentes, não vejo porque não o beneficiar com a causa especial de diminuição de pena.
+Por conseguinte, deve ser realizada a nova dosimetria da pena do crime de tráfico de drogas. Na primeira fase, a reprimenda-base do acusado ficou estabelecida no mínimo legal, ou seja, em 5 anos de reclusão e pagamento de 500 dias-multa. Na segunda etapa, não há nenhuma agravante ou atenuante. Na terceira fase, restabeleço a sentença condenatória e diminuo a pena em 1/3, em decorrência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006. Presente também a causa de aumento prevista no art. 40, IV, da Lei de Drogas, aumento a pena em 1/6, tal como procedido pelo Magistrado, motivo pelo qual fica a reprimenda do acusado definitiva em 3 anos, 10 meses e 20 dias de reclusão e pagamento de 383 dias-multa.
+Quanto à fixação do regime de cumprimento da pena, embora o acusado haja sido definitivamente condenado a reprimenda inferior a 4 anos de reclusão, entendo que as circunstâncias do delito - natureza e quantidade de drogas apreendidas, prática do crime com emprego de arma de fogo - recomendam a aplicação do regime semiaberto. Pelo mesmo motivo, entendo que a substituição da pena privativa de liberdade por restritiva de direitos não é medida socialmente recomendável (art. 44, § 2º, do Código Penal).
+À vista do exposto, concedo a ordem a fim de absolver o paciente em relação ao delito previsto no art. 35 da Lei n. 11.343/2006. Ainda concedo habeas corpus para reconhecer a incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006; aplicá-la no patamar máximo de 1/3 e, por conseguinte, reduzir a reprimenda do paciente para 3 anos, 10 meses e 20 dias de reclusão e pagamento de 383 dias-multa e fixar o regime semiaberto.
+Publique-se e intimem-se.
