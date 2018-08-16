@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de JEFFERSON BARROS MENDES contra acórdão do Tribunal de Justiça do Estado de Santa Catarina (HC n. 4029565-05.2017.8.24.0000).
+Infere-se dos autos que o paciente foi condenado à pena de 5 meses de detenção, em regime semiaberto. Na execução penal, em razão da ausência de vagas nesse regime, foi determinado o cumprimento da sanção no regime aberto, mediante o cumprimento de condições, dentre elas o uso de tornozeleira eletrônica.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem, em acórdão assim ementado:
+HABEAS CORPUS. PACIENTE CONDENADO À PENA DE 5 MESES DE DETENÇÃO, EM REGIME SEMIABERTO, PELA PRÁTICA DO CRIME PREVISTO NO ART. 129, § 9º, DO CÓDIGO PENAL. AUSÊNCIA DE VAGAS NO REGIME ADEQUADO. REEDUCANDO AUTORIZADO A RESGATAR A REPRIMENDA EM PRISÃO DOMICILIAR MEDIANTE O CUMPRIMENTO DAS CONDIÇÕES ESTABELECIDAS PELO JUÍZO SINGULAR. AVENTADO CONSTRANGIMENTO ILEGAL DECORRENTE DA EXIGÊNCIA DE UTILIZAÇÃO DE APARELHO DE MONITORAÇÃO ELETRÔNICA. IMPERTINÊNCIA. MEDIDA CABÍVEL CONSOANTE OS PARÂMETROS FIXADOS NO RECURSO EXTRAORDINÁRIO Nº 641.320/RS. USO DE TORNOZELEIRA QUE NÃO POSSUIU O CONDÃO DE MACULAR A HONRA E A IMAGEM DO PACIENTE, TAMPOUCO ACARRETAR DANOS A SUA INTEGRIDADE FÍSICA DURANTE O EXERCÍCIO DE ATIVIDADE LABORAL. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM DENEGADA (fl. 103).
+No presente habeas corpus, aponta que o paciente está sofrendo constrangimento ilegal ante a falta de devida motivação para o uso de tornozeleira eletrônica. Afirma que o apenado compareceu a todos os atos processuais e realizou a confissão espontânea, não havendo nenhum indício de tentativa de fuga da comarca.
+Requer a suspensão da decisão que determinou a instalação da tornozeleira eletrônica.
+Contudo, conforme informações prestadas pelo Tribunal a quo (fls. 133/134), a decisão proferida em 12/12/2017, que impôs a condição impugnada neste writ, foi revogada em 13/03/2018, ou seja, após a impetração deste habeas corpus (08/03/2018), o qual, em consequencia, perde o objeto.
+Ante o exposto, julgo prejudicado o presente writ.
+Publique-se.
+Intimações necessárias.
