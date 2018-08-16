@@ -1,0 +1,42 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. FERIADO LOCAL. PRORROGAÇÃO. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. APLICAÇÃO DO CPC/2015.
+1. O artigo 1.003, § 6º, do CPC/2015, estabelece que o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior.
+2. Considerando que o recurso especial foi interposto sob a égide do CPC/2015 e que não houve a comprovação do feriado local, quando de sua interposição, não há como ser afastada a sua intempestividade.
+3. Agravo interno no agravo em recurso especial não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, negar provimento ao agravo, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+O EXMO. SR. MINISTRO NANCY ANDRIGHI (Relator):
+Cuida-se de agravo interposto por ELETRO INSTALAÇÕES LTDA contra decisão unipessoal, proferida pela Ministra Presidente, que não conheceu do agravo que interpusera em razão da intempestividade de seu recurso especial.
+Ação: de execução por título extrajudicial ajuizada pelo BANCO DA AMAZONIA S/A., em face de ELETRO INSTALAÇÕES LTDA.
+Sentença: julgou procedente a exceção de pré-executividade e julgou extinta a execução.
+Acórdão: deu provimento à apelação interposta pelo BANCO DA AMAZONIA S/A., nos termos da ementa abaixo:
+"APELAÇÃO CÍVEL. DIREITO PROCESSUAL CIVIL E EMPRESARIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. OPOSIÇÃO DE EXCEÇÃO DE PRÉ- EXECUTIVIDADE. PROCEDÊNCIA E EXTINÇÃO DA EXECUÇÃO.
+IRRESIGNAÇÃO. CÉDULA DE CRÉDITO BANCÁRIO. NATUREZA DE TÍTULO EXECUTIVO. ENTENDIMENTO DOUTRINÁRIO E PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTE EGRÉGIO TRIBUNAL. SENTENÇA CASSADA. RECURSO CONHECIDO E PROVIDO.
+I. Após a edição da Lei nº 10.931/2004, firmou-se, no plano legal, a previsão de que a Cédula de Crédito Bancário é título executivo extrajudicial e representa dívida em dinheiro, certa, líquida e exigível, seja pela soma nela indicada, seja pelo saldo devedor demonstrado em planilha de cálculo, ou nos extratos da conta corrente, nos termos do que dispõe o art. 28 dessa lei;
+II. No escólio de Marlon Tomazette, encontramos o ensinamento de que as cédulas de crédito bancário são títulos de crédito "conceituadas como promessas de pagamento lastreadas em uma operação de crédito (operação bancária ativa), com ou sem garantia cedularmente constituída. Elas são promessas de pagamento, como as cédulas tradicionais, na medida em que são emitidas a partir da declaração de vontade do seu devedor principal (..) representam, portanto, um instrumento genérico e flexível para as operações de crédito bancário";
+III. O Superior Tribunal de Justiça assentou que: "A Cédula de Crédito Bancário é título executivo extrajudicial, representativo de operações de crédito de qualquer natureza, circunstância que autoriza sua emissão para documentar a abertura de crédito em conta -corrente, nas modalidades de crédito rotativo ou cheque especial.
+O título de crédito deve vir acompanhado de claro demonstrativo acerca dos valores utilizados pelo cliente, trazendo o diploma legal, de maneira taxativa, a relação de exigências que o credor deverá cumprir, de modo a conferir liquidez e exequibilidade à Cédula (art. 28, § 2º, incisos 1 e II, da Lei n. 10.931/2004)". (REsp: 1291575 PR 2011/0055780-1, Relator: Ministro LUIS FELIPE SALOMÃO, Data de Julgamento: 14/08/2013, S2 - SEGUNDA SEÇÃO, Data de Publicação: DJe 02/09/2013). No mesmo sentido: Aglnt no REsp 1594688/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 06/12/2016, DJe 19/12/2016; (AgRg no REsp 1.038.215/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe de 19/11/2010);
+IV. Assevere-se, ainda, que, consoante precedentes de Tribunais de Justiça pátrios,
+de acordo com a inteligência dos artigos 28 e 29 da Lei 10.931/2004, a executividade da cédula de crédito bancário não está adstrita à assinatura de duas testemunhas;
+V. Sentença cassada, determinando-se o prosseguimento da execução no Juízo a quo;
+VI. Recurso conhecido e provido." (fls. 266/267, e-STJ).
+Decisão agravada: não conheceu do agravo em recurso especial interposto pelo agravante em razão da intempestividade de seu recurso especial.
+Razões do agravo: Sustenta a tempestividade de seu recurso, pois houve ponto facultativo no dia 03/11/2017, resultante da prorrogação de feriado nacional, e feriado municipal no dia 20/11/2017, conforme faz prova através dos documentos colacionados aos autos.
+É O RELATÓRIO.
+VOTO
+O EXMO. SR. MINISTRO NANCY ANDRIGHI (Relator):
+A decisão agravada não conheceu do agravo em recurso especial interposto pelo agravante em razão da intempestividade de seu recurso especial, conforme fundamentação abaixo:
+"Mediante análise dos autos, verifica-se que a parte Recorrente foi intimada do acórdão recorrido em 25/10/2017, sendo o recurso especial interposto somente em 21/11/2017.
+Dessa forma, o recurso é manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c.c. os arts. 1.003, § 5.º, 1.029, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6.º do art. 1.003 do mesmo diploma legal, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Veja-se que a segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem a sexta-feira da paixão e, também, o dia de Corpus Christi, não são feriados forenses, previstos em lei federal, para os tribunais de justiça estaduais. Caso essas datas sejam feriados locais deve ser colacionado o ato normativo local com essa previsão, por meio de documento idôneo, no momento de interposição do recurso.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte Recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, NÃO CONHEÇO do recurso." (fls. 486/487, e-STJ).
+- Da tempestividade recursal
+Em suas razões recursais, o agravante defende a tempestividade do recurso especial, pois houve ponto facultativo no dia 03/11/2017, resultante da prorrogação de feriado nacional, e feriado municipal no dia 20/11/2017, razão pela qual, o recurso deve ser considerado tempestivo.
+De fato, a Corte Especial deste Tribunal Superior, no julgamento do AREsp 137.141/SE (Relator Min. Antonio Carlos Ferreira, DJe de 15.10.2012), acompanhando a orientação firmada pelo Supremo Tribunal Federal no AgRg no RE n. 626.358/MG (Relator Min. Cezar Peluso, DJe de 23.8.2012), modificou seu entendimento, concluindo que a comprovação da tempestividade do recurso especial em decorrência de feriado local ou de suspensão de expediente forense no Tribunal de origem pode ocorrer posteriormente, em agravo regimental.
+No entanto, tal entendimento é aplicável às hipóteses em que os recursos sejam interpostos contra julgados proferidos sob a égide do Código de Processo Civil de 1973, o que não é caso dos presentes autos, cujo recurso especial foi manejado contra acórdão publicado em 25/10/2017 (e-STJ, fl. 365), quando já em vigor o novo Diploma Processual.
+Desse modo, conforme ressalvado na decisão agravada, nos termos do artigo 1.003, § 6º, do CPC/2015, o recorrente comprovará a ocorrência de feriado local ou suspensão do expediente forense no ato de interposição do recurso, o que impossibilita a regularização posterior. Registre-se, ainda, que não se trata de vício sanável, como alega a agravante, mas de determinação legal expressa.
+Assim, considerando que o recurso especial foi interposto sob a égide do novo regramento processual e deixando o agravante de comprovar a ocorrência de suspensão do expediente forense quando de sua interposição, não há como ser afastada a sua intempestividade.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
