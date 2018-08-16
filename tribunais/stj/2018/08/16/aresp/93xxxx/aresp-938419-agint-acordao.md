@@ -1,0 +1,30 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO. PLANO DE SAÚDE. PROVIMENTO DO RECURSO ESPECIAL. FUNDAMENTO DO ACÓRDÃO RECORRIDO AFASTADO. TESES SUSCITADAS EM APELAÇÃO NÃO APRECIADAS. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. AGRAVO PARCIALMENTE PROVIDO.
+1. Em razão do provimento do recurso especial, para reconhecer a legalidade da cláusula de reajuste por sinistralidade, é imprescindível a análise das questões tidas como prejudicadas quando provida a apelação pelo fundamento ora afastado para a completa solução da controvérsia.
+2. Em face da impossibilidade de supressão de instância, impõe-se a remessa dos autos ao Tribunal de origem para que prossiga no julgamento das demais teses suscitadas na apelação.
+3. Agravo interno parcialmente provido.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, dar parcial provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Exmo. Sr. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator: Trata-se de agravo interno interposto por WALTER INDÚSTRIA E COMÉRCIO LTDA contra decisão de fls. 681/685, que conheceu do agravo para dar provimento a recurso especial interposto por OMINT SERVIÇOS DE SAÚDE LTDA, sob o fundamento de que é válida a cláusula que prevê reajuste por sinistralidade.
+Em suas razões recursais, a agravante afirma que o Tribunal de origem acolheu uma das teses da apelação da agravante, considerando ilegal a cláusula de reajuste por sinistralidade, deixando de apreciar as demais, motivo pelo qual o provimento do recurso especial interposto pela agravada quanto a esse fundamento enseja o exame das demais causas de pedir. Requer, caso não se entenda possível a apreciação no recurso especial, o retorno dos autos ao Tribunal de origem para que prossiga no julgamento das demais alegações do recurso de apelação.
+A parte ora agravada apresentou impugnação (fls. 697/702).
+É o relatório.
+VOTO
+Exmo. Sr. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator: Inicialmente, verifica-se que a agravante apresentou simultaneamente, por petição eletrônica, dois agravos internos.
+Todavia, de acordo com o princípio da unirrecorribilidade recursal, a apresentação, pela mesma parte, de recursos simultâneos, contra o mesmo decisório, importa inadmissão do segundo, em virtude da preclusão consumativa.
+Desse modo, a petição de agravo interno 00503669/2017 (e-STJ, fls. 692/694) não merece ser conhecida, tendo em vista a ocorrência de preclusão consumativa, haja vista a anterior interposição da petição de agravo interno 00503534/2017 (e-STJ, fls. 688/690) contra a mesma decisão. Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DUPLICIDADE DE RECURSOS. PRECLUSÃO CONSUMATIVA. PRINCÍPIO DA UNIRRECORRIBILIDADE DAS DECISÕES. JUSTIÇA GRATUITA. DEFERIMENTO. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO. 1. A interposição de dois recursos pela mesma parte e contra a mesma decisão impede o conhecimento do segundo recurso, haja vista a preclusão consumativa e o princípio da unirrecorribilidade das decisões. (..)"
+(AgInt no AREsp 1.050.850/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 09/05/2017, DJe de 23/05/2017)
+Assiste parcial razão à agravante quanto à alegação de que o provimento do recurso especial quanto à legalidade da cláusula de reajuste por sinistralidade impõe o exame das demais causas de pedir, entre as quais: (a) é inexigível o reajuste do plano de saúde durante o período de aviso prévio; e (b) a sinistralidade não foi comprovada pela operadora de plano de saúde. Tais causas de pedir não foram apreciadas no julgamento da apelação por serem irrelevantes naquele momento ante o provimento da apelação por outro fundamento.
+Nesse contexto, afastada a ilegalidade da cláusula de reajuste por sinistralidade, seria imprescindível a análise das questões então tidas como prejudicadas, para a perfeita solução da controvérsia.
+No entanto, por implicar supressão de instância, revela-se inviável a apreciação em sede de recurso especial quanto às teses não examinadas pelo Tribunal a quo.
+Nesse sentido, confira-se:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. APELO ESPECIAL PARCIALMENTE PROVIDO PARA CASSAR O ACÓRDÃO RECORRIDO. NECESSIDADE DE RETORNO DOS AUTOS PARA QUE A CORTE DE ORIGEM ANALISE AS DEMAIS CAUSAS DE PEDIR RELEVANTES PARA A SOLUÇÃO DA CONTROVÉRSIA.
+1. Afasta-se a alegação de que há óbice para o conhecimento do apelo especial dos particulares, na medida em que a matéria infraconstitucional suscitada (decadência e prescrição tributária) foi devidamente prequestionada, constituindo questão exclusivamente de direito, cujo conhecimento prescinde do reexame de matéria fática.
+2. No caso do autos, o parcial provimento do recurso especial, para cassar o acórdão recorrido, não exaure o exame de todas as questões relevantes para a solução da controvérsia, devendo os autos retornarem à Corte de origem para que sejam analisadas as demais causas de pedir suscitadas no processo e até então prejudicadas em face da fundamentação adotada e ora afastada, a fim de que seja prestada a Jurisdição em sua inteireza.
+3. Agravo regimental não provido."
+(AgRg no REsp 1064750/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 19/11/2013, DJe 04/02/2014)
+Portanto, o agravo interno merece parcial provimento, para que se determine a remessa dos autos ao Tribunal de origem, a fim de que prossiga no julgamento das demais questões suscitadas na apelação.
+Ante o exposto, dou parcial provimento ao agravo interno, para determinar a remessa dos autos ao TJ/SP a fim de que, afastada a ilegalidade da cláusula de reajuste por sinistralidade, prossiga no julgamento das demais questões suscitadas na apelação.
+É como voto.
