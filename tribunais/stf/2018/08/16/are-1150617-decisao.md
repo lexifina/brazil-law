@@ -1,0 +1,14 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do estado de São Paulo, assim ementado (eDOC 4, p. 38):
+    “AÇÃO DECLARATÓRIA C.C. CONDENATÓRIA. DIREITO DE RESPOSTA. Pretensão do autor ao direito de resposta em jornal publicado pelo réu e abstenção de novas condutas — Sentença de procedência — Inconformismo do réu — Contrarrazões com preliminar de não conhecimento do recurso, em razão de intempestividade — Recurso conhecido — Recente entendimento do Col. STF que rechaça o formalismo excessivo — Desnecessidade de ratificação do recurso de apelação, após julgamento de embargos de declaração, como condição de admissibilidade recursal, sob pena de penalização da parte diligente que recorreu tempestivamente —Matéria controvertida já apreciada judicialmente — Legitimidade do autor para atuar, sob supervisão médica, em serviços de radiodiagnóstico — Direito de resposta garantido constitucionalmente (CF, art. 5º, V) — Disposição constitucional que permite o direito de resposta proporcional ao agravo — Valor da multa inalterado — Montante significativo para evitar reincidência na conduta ilícita — Honorários advocatícios de sucumbência corretamente arbitrados — Sentença mantida — Aplicação do art. 252 do Regimento Interno deste Egrégio Tribunal de Justiça — Recurso não provido.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos artigos 5º, IV, IX, e XXXV, da Constituição da República. Alega-se ofensa à devida prestação jurisdicional e ao direito de livre expressão.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal a quo, quando do julgamento da apelação, asseverou (eDOC 4, p. 45/46):
+    “Pois bem. Reconhecida a legitimidade dos Biomédicos para realizar serviços de radiografia e atuar, sob supervisão médica, em serviços de hemoterapia e de radiodiagnóstico, nos termos consignados na legislação que rege a classe, como já reconhecido judicialmente, de rigor era reconhecer o direito de resposta pleiteado na inicial, bem como a obrigação de não fazer, consubstanciada na abstenção da prática de novos atos pelo réu.”
+    Dessa forma, constato que eventual divergência em relação ao entendimento adotado pelo juízo  a quo,   tal como posta na lide, demandaria o reexame do conjunto fático-probatório dos autos. Seria imprescindível reanalisar a adequação da matéria vinculada em publicação própria da parte ora recorrente. Incidente, portanto, o óbice da Súmula 279 do STF.
+    Ante o exposto, nego provimento ao recurso extraordinário com agravo, nos termos do art. 932, IV, “a”, do CPC.
+    Publique-se.
+    Brasília, 16 de agosto de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
