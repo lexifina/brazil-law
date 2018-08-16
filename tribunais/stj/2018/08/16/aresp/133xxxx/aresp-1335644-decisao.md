@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de agravo em recurso especial em desfavor de decisão que inadmitiu o recurso especial, interposto com fulcro no art. 105, III, alínea "a", da Constituição Federal.
+Consta dos autos que o réu foi condenado nas sanções do artigo 155, §4º (furto qualificado), inciso IV (concurso de pessoas), do Código Penal, à pena de 01 (um) ano, 01 (um) mês e 22 (vinte e dois) dias de reclusão, a ser cumprida, inicialmente, em regime aberto, restando, outrossim, a sanção corpórea substituída por 02 (duas) restritivas de direito.
+Interposto recurso de apelação, foi este desprovido pelo Tribunal de Justiça do Estado de Goiás, por acórdão assim ementado (e-STJ, fl. 535):
+APELAÇÃO CRIMINAL. FURTO QUALIFICADO. DOSIMETRIA DA PENA. PRETENSÃO DE REDIMENSIONAMENTO. INVIABILIDADE. FUNDAMENTAÇÃO IDÔNEA NAS TRÊS ETAPAS DO PROCESSO DOSIMÉTRICO. Restando patenteado que a basilar foi fixada próxima do mínimo legal, face a desfavorabilidade de duas vetoriais, reconhecida a atenuante inserta no 65, inciso III, alínea "d", do Código Penal (confissão espontânea), fixada em patamar razoável (1/6), reconhecida a causa especial de diminuição de pena prevista no parágrafo único do artigo 26, do Código Penal (semi- imputabilidade), cuja gradação/ (1/2) foi justificada com base no laudo médico pericial coligido aos autos, não há falar em redimensionamento da reprimenda. APELO CONHECIDO E DESPROVIDO.
+Opostos embargos de declaração, foram estes rejeitados (e-STJ, fls. 563):
+EMBARGOS DE DECLARAÇÃO NA APELAÇÃO CRIMINAL. OMISSÃO APONTADA NO VENERANDO ACÓRDÃO. INEXISTÊNCIA. EFEITO INFRINGENTE. DESCABIMENTO. PREQUESTIONAMENTO. Os embargos de declaração não se prestam à revisão do julgado, consubstanciando-se em instrumento processual destinado ao esclarecimento de eventual dúvida, omissão, contradição ou ambiguidade, a teor do artigo 619, do Código de Processo Penal. Ainda que manejados os aclaratórios para fins de prequestionamento como pressuposto para o aviamento de recursos excepcionais, não se faz mister a expressa menção aos dispositivo legais apontados pelo embargante no recurs sendo suficiente a emissão de juízo de valor sobre a questão suscitada. EMBARGOS DE DECLARAÇÃO DESPROVIDOS
+Na petição de recurso especial, a parte recorrente alega a ocorrência de violação aos arts. 26 e 59, do Código Penal e ao art. 619, do Código de Processo Penal.
+Afirma a ausência de fundamentação para fixação da pena-base e para aplicação do quantum fracionário previsto no art. 26, do Código Penal.
+Requer, em suma, a revisão da pena fixada, sustentando ainda a ocorrência de omissão no julgado no que tange às razões que ora postula.
+Decisão de inadmissibilidade do recurso especial às fls. 606/607 afirmando que se encontra presente o óbice da Súmula n. 7/STJ.
+Agravo em recurso especial às fls. 630/634.
+Contraminuta ao agravo em recurso especial à fl. 637.
+Parecer ministerial proferido nos termos da seguinte ementa (e-STJ, fl. 670):
+AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. DOSIMETRIA. SÚMULAS 7 E 83/STJ. OMISSÃO NO JULGADO. INOCORRÊNCIA. SÚMULA 83/STJ. PARECER PELO DESPROVIMENTO DO AGRAVO.
+É o relatório. Decido.
+Conheço do agravo eis que tempestivo e impugnou os fundamentos da decisão recorrida.
+Passo à análise do recurso especial.
+Primeiramente não há falar em omissão no julgado.
+Pela análise dos embargos opostos e a decisão guerreada, verifica-se que a parte pretendia a modificação do julgado anterior, com a rediscussão do mérito da questão, o que não se coaduna com a medida integrativa.
+É cediço que o julgador não está obrigado a refutar todos os argumentos invocados pelas partes, bastando que os fundamentos expendidos sejam suficientes para embasar a decisão, o que sucedeu no caso concreto.
+A parte recorrente afirma a inexistência de fundamentação ao se fixar a pena-base.
+Quanto ao tema, o Tribunal de origem consignou (e-STJ, fl. 529):
+Na primeira fase, procedeu à análise da quantificação de cada operadora, valorando negativamente as relativas à culpabilidade, motivos e consequências do crime, fixando, assim, a pena -base, em 02 (dois) anos e 09 (nove) meses de reclusão.
+Desta feita, embora não compartilhe integralmente dos fundamentos utilizados pelo Juízo a quo, notadamente no que tange à desfavorabilidade da vetorial referente à culpabilidade do agente, tenho como acertada a consideração do mesmo, ao negativar as moduladoras referentes aos motivos e consequências do crime, motivado em dados concretos que circunscreveram a ação criminosa, sem correspondências com os elementos inerentes ao tipo penal.
+Cumpre assinalar, nesse contexto, que a operação dosimétrica da pena é ato discricionário vinculado do Julgador, o qual, mediante fundamentação idônea, está autorizado a eleger o patamar de aumento da reprimenda, sempre atento aos parâmetros legais.
+Demais disso, na perspectiva valorativa da reprimenda, basta a existência de uma circunstância judicial negativa para que a pena-base já não possa mais ser fixada no mínimo legal. Contudo, o aumento deve ser estabelecido proporcionalmente aos limites mínimo e máximo previstos no tipo legal.
+Destarte, considerando a desfavorabilidade de algumas das circunstâncias judiciais previstas no artigo 59, do Código Penal, e tendo em vista a pena cominada ao delito de furto qualificado (reclusão, de 02 a 08 anos), mister seja mantida a pena-base do réu em 02 (dois) anos e 09 (nove) meses de reclusão, tal como fixada na sentença, sendo medida suficiente e necessária para a reprovação e prevenção do delito, não havendo motivos para minorá-la, face as particularidades do caso concreto.
+E o magistrado de piso consigonou (e-STJ, fl. 471):
+Nos termos dos artigos 59 e 68 do Código Penal, passo a fazer à dosimetria da pena, aos acusados, observando-se o seguinte:
+A) culpabilidade - esta evidenciada nos autos, tendo agido de forma voluntaria, consciente e livre, portanto, com dolo, sendo reprovável sua conduta. Trata-se ademais, dê agente imputável, sendo-lhe exigível um comportamento nos moldes elencados ordenamento jurídico, eis que o mesmo tinha consciência de que atuava de forma contraria;
+B) antecedentes - favorável. O acusado é tecnicamente primário, tanto que anteriormente concedido ao mesmo o beneficio de suspensão condicional do processo (art. 89, dal Lei nº 9.099/95);
+C) conduta social - favorável, posto que não documentada nos autos - em homenagem ao Corolário do in dubio pro reo;
+D) personalidade - favorável, posto que não documentada nos autos - em homenagem ao corolário do in dubio pro reo;
+E) motivos - desfavoráveis, pois afirmar que o crime se deu em razão do seu uso de drogas não justifica sua conduta, mas sim causa uma maior reprovabilidade, pois se trata de uma ação ilícita praticada também em função de outra conduta antijuridica;
+F) circunstâncias - por não conter nos autos nenhum elemento capaz de comprovar alguma circunstância especial que aumente a reprovabilidade da conduta do acusado, considero esta circunstância favorável;
+G) consequência - são gravosas, pois a vítima não recuperou todos os pertences subtraídos conforme se nota no Termo de Entrega de fls. 30;
+H) comportamento da vítima - em nada contribuiu para a ocorrência do fato.
+Assim, considerando as circunstâncias judiciais em epígrafe, fixo a pena base em 02 (dois) anos e 09 (nove) meses de reclusão, pelo furto qualificado.
+Destarte a pena-base, principalmente relativa à culpabilidade do agente, foi majorada com elementos ínsitos ao próprio tipo penal, merecendo ser revista, para que seja esta fixada em seu mínimo legal, o que determino desde já.
+Com efeito, deve ser afastada a negativação da circunstância judicial "no que concerne aos motivos do crime, destacou o magistrado sentenciante que visava o réu amealhar bens da vítima para auferir dinheiro e comprar substâncias entorpecentes. Entrementes, tratando-se de crime contra o patrimônio, injustificado o aumento, porquanto inerente ao tipo incriminador. Precedentes." (HC 275.953/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 09/03/2017, DJe 21/03/2017)
+Ademais, "no que tange às consequências, o fato de os bens não terem sido recuperados não justifica de forma válida a exasperação da pena-base, porquanto a subtração é inerente ao crime de roubo." (HC 394.369/PA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 13/06/2017)
+De outra parte, no que tange à minorante da semi-imputabilidade, a decisão sustentou (e-STJ, fl. 532):
+Na sequência, de igual modo, não procede a irresignação defensiva, no tocante ao desiderato para que a causa de diminuição da pena prevista no parágrafo único do artigo 26, do Código Penal, seja aplicada no grau máximo.
+Consigne-se que a gradação da minorante semi-imputabilidade é estabelecida segundo o grau de incapacidade do réu de entender o caráter ilícito do fato ou de se determinar de acordo com esse entendimento.
+Outrossim, o índice de diminuição da sanção é questão que se insere na órbita de convencimento do Magistrado, no exercício de seu poder discricionário de decidir a quantidade que julgar conveniente no caso concreto, observados os limites estabelecidos pela norma penal - de um a dois terços.
+Na espécie, o douto Juiz sentenciante, fincado na conclusão do Laudo Médico Pericial de f. 361/365, procedeu à minoração da pena na metade (1/2), justificando idoneamente o fracionamento escolhido, conforme explanação esposada na sentença (f. 386).
+Assim sendo, fundamentada a redutora em questão na conclusão do laudo pericial, segundo o poder discricionário conferido ao Julgador, não se pode, de antemão, modificar a fração estabelecida na condenação, para o grau máximo.
+(..)
+E o magistrado de piso destacou (e-STJ, fl. 472):
+Tendo em vista que em razão da alteração da capacidade de entendimento constatada no laudo pericial, o sentenciado não se encontra demasiadamente afastado da imputabilidade, ou mesmo da total ausência de tal substrato do crime em questão, procedo a redução da pena em 1/2 (metade), ficando em 01 (um) ano 01 (um) mês e 22 (vinte e dois) dias de reclusão (art. 26, parágrafo único, do Código Penal), ficando em 01 (um) ano 01 (um) mês e 22 (vinte e dois) dias de reclusão.
+Com efeito, "é permitido ao julgador mensurar com discricionariedade o quantum de redução da pena a ser aplicado, desde que seja observado o princípio do livre convencimento motivado. Na espécie, o Tribunal de origem reduziu o quantum da reprimenda, justificadamente, em razão da incidência da causa de diminuição de pena relativa à semi-imputabilidade." (HC 322.370/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 10/06/2015), não merecendo revisão a fração imposta no caso concreto.
+Neste diapasão:
+PENAL. HABEAS CORPUS. ART. 157, § 2º, I, DO CÓDIGO PENAL. DOSIMETRIA. TERCEIRA FASE. CAUSA DE DIMINUIÇÃO DE PENA. SEMI-IMPUTABILIDADE (ART. 26, PARÁGRAFO ÚNICO, DO CP). QUANTUM DE REDUÇÃO. LIVRE CONVENCIMENTO MOTIVADO. RESPEITADO O LIMITE DA LEI. FUNDAMENTAÇÃO SUFICIENTE. AUSÊNCIA DE ILEGALIDADE. REGIME INICIAL FECHADO. PENA-BASE. MÍNIMO LEGAL. REPRIMENDA DEFINITIVA INFERIOR A 4 ANOS DE RECLUSÃO. REINCIDÊNCIA. DIREITO AO REGIME SEMIABERTO. ENUNCIADO SUMULAR N.º 269 DO STJ. ORDEM CONCEDIDA EM PARTE.
+1. É permitido ao julgador mensurar com discricionariedade o quantum de redução da pena a ser aplicado, desde que seja observado o limite traçado na lei e o princípio do livre convencimento motivado. Na espécie, a instância de origem, sob fundamentação idônea, manteve a redução da pena em 1/2 (metade), ou seja, dentro dos limites legais, quanto à incidência do art. 26, parágrafo único, do Código Penal (semi-imputabilidade do paciente), o que não evidencia constrangimento ilegal.
+2. Não é possível a imposição de regime fechado, com base na reincidência do paciente, visto que condenado à pena igual ou inferior a quatro anos e favoráveis as circunstâncias judiciais. Súmula n.º 269 do Superior Tribunal de Justiça.
+3. Ordem concedida em parte, ratificada a liminar, apenas para estabelecer o regime inicial semiaberto.
+(HC 399.243/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 28/08/2017)
+Passo à nova dosimetria.
+Fica a pena-base fixada em seu mínimo legal, qual seja, 2 anos de reclusão e 10 dias-multa.
+Considerando que a pena já se encontra no mínimo legal, deixo de aplicar a atenuante prevista no artigo 65, inciso III, alínea "d", do Código Penal, em atendimento à Súmula n. 231/STJ.
+Por fim, mantenho a redução de metade (1/2) da pena dada a semi-imputabilidade do réu, ficando a pena definitiva fixada em 1 ano de reclusão e 5 dias-multa, a qual torno definitiva diante da inexistência de circunstâncias que a modifiquem, mantidas as demais peculiaridades já delimitadas pela instância ordinária.
+Ante o exposto, dou parcial provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
