@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de SERGIO DA ROSA ZAMBRANO, apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul no julgamento do Agravo em Execução n. 0055990-39.2018.8.21.7000.
+Exsurge dos autos que o paciente cumpre pena de 13 anos de reclusão pela prática do delito de homicídio qualificado (e-STJ fl. 43). Consta ainda que o Juízo de Execuções Criminais deferiu a remição da pena relativa ao período em que o paciente permaneceu em regime aberto. Posteriormente, declarou remidos 41 dias de pena (e-STJ fl. 62).
+Irresignado, o Ministério Público estadual interpôs agravo, que foi provido para cassar a decisão que concedeu a remição da pena ao preso, nos termos da seguinte ementa (e-STJ fl. 102):
+AGRAVO EM EXECUÇÃO. REMIÇÃO. DEFERIMENTO. APENADO CUMPRINDO PENA EM REGIME ABERTO, NO GOZO DA PRISÃO DOMICILIAR. IRRESIGNAÇÃO MINISTERIAL.
+Admite-se a concessão de remição, a teor do que dispõe o art. 126 da LEP, tão-somente a apenados que se encontrem cumprindo pena nos regimes fechado e semi-aberto. Caso concreto em que, ainda que no gozo da prisão domiciliar, o apenado cumpria pena em regime aberto, inexistindo base legal para o deferimento do benefício.
+Agravo provido.
+Na presente impetração, a Defensoria Pública estadual defende, em síntese, que " ..  a própria lei 12.433/11 inclui o estudo como elemento capaz de permitir a remição da pena, sendo, portanto, ilógico que o trabalho não pudesse alcançar o mesmo fim que aquele. Afinal, tanto o estudo quanto o trabalho concorrem diretamente para a ressocialização do apenado. Ainda que o artigo 126, caput, da LEP, não traga previsão expressa sobre a remição pelo trabalho no regime aberto, seu parágrafo 6º autoriza a remição pelo estudo no regime aberto, sendo perfeitamente possível, por utilização da analogia (in bonam partem) quanto da interpretação teológica da lei, a remição pelo trabalho no regime aberto" (e-STJ fl. 5).
+Postula, ao final, "a suspensão da decisão do Tribunal a quo até o julgamento do mérito do presente writ", e, no mérito, o restabelecimento da decisão de primeira instância, que declarou remidos 41 dias de pena (e-STJ fls. 6/7).
+O pedido liminar foi indeferido (e-STJ fls. 116/118).
+Foram prestadas as informações (e-STJ fls. 122/123 e 125/175).
+O Ministério Público Federal, ao se manifestar, opinou pelo não conhecimento do habeas corpus e, caso conhecido, pela denegação da ordem (e-STJ fls. 179/181).
+É, em síntese, o relatório.
+No caso dos autos, o Juízo da Vara de Execuções Criminais da Comarca de Rio Grande/RS deferiu o pedido de remição de pena formulado pelo ora paciente por trabalho realizado durante o cumprimento de pena no regime aberto, consignando, para tanto, que (e-STJ fl. 62):
+O Ministério Público manifestou-se pelo deferimento da remição até o dia 13 de junho de 2017, quando foi deferido o benefício da prisão domiciliar.
+Cabe ressaltar que não há vedação legal para o deferimento da remição para apenados que realizam atividade laboral em regime aberto e em prisão domiciliar.
+Saliento que a Constituição Federal e a legislação específica asseguram ao apenado o direito ao trabalho e ao cumprimento da pena privativa de liberdade de forma progressiva, que culmina com o regime aberto, daí resultando que o reeducando não pode ser impedido de receber a remição pelos dias trabalhados no regime mais brando de cumprimento da pena.
+É oportuno destacar que o trabalho é um dos principais caminhos para se alcançar a ressocialização dos apenados, sendo sempre mais recomendável que o apenado exerça atividades laborais do que permaneça no ócio do cárcere.
+Ademais, seria uma incoerência deferir tal benefício a quem cumpre pena mais grave e negá-lo a quem cumpre pena em regime mais brando.
+Logo, diante da juntada dos atestados de efetivo trabalho das fls. 684/685, 688, 690 que dão conta que o apenado prestou nos meses de março, abril, maio, junho de 2017 o total de 740 horas de atividade laboral, com base no artigo 126 da LEP, defiro a remição de 41 dias da pena.
+O Tribunal de origem, por sua vez, deu provimento ao agravo em execução interposto pelo Ministério Público e, por isso, cassou a decisão de primeiro grau à base da seguinte fundamentação (e-STJ fls. 130/131):
+Com efeito, de regra, admite-se a concessão de remição, a teor do que dispõe art. 126 da LEP 1 , tão-somente a apenados que se encontrem cumprindo pena nos regimes fechado e semi-aberto. O referido dispositivo, porém, em seu parágrafo sexto, flexibiliza a possibilidade de concessão do benefício a apenados que cumprem pena em regime aberto, desde que comprovada de freqüência a cursos de ensino regular ou de educação profissional, o que não é o caso dos autos.
+Dito isto, tenho que ausente base legal para a concessão do benefício deferido.
+ ..
+Ademais, não se pode perder de vista que a realização de atividade laboral pelo apenado é condição para a permanência nesse regime mais brando.
+Da leitura do trecho do acórdão acima colacionado, verifica-se que o posicionamento adotado pelo Tribunal de origem está em consonância com a Jurisprudência firmada por esta Corte no sentido de que "o condenado que cumpre pena em regime aberto não faz jus à remição pelo trabalho, nos termos do art. 126 da Lei de Execução Penal, que prevê, expressamente, tal benefício apenas ao condenado que cumpre pena em regime fechado ou semiaberto" (HC 197.641/RS, relator o Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 28/9/2011).
+Nesse sentido, confiram-se, ainda, os seguintes precedentes:
+HABEAS CORPUS. VIA INDEVIDAMENTE UTILIZADA COMO SUCEDÂNEO DE RECURSO ESPECIAL. NÃO CABIMENTO. EXECUÇÃO PENAL. REMIÇÃO DA PENA ART. 126 DA LEI DE EXECUÇÃO PENAL. TRABALHO EXTERNO REALIZADO NO CUMPRIMENTO DE REGIME ABERTO. IMPOSSIBILIDADE.
+1. Na esteira dos recentes precedentes do Supremo Tribunal Federal e desta Corte Superior de Justiça, é incabível o habeas corpus utilizado em substituição ao recurso adequado.
+2. A inadequação da via eleita, contudo, não desobriga este Tribunal Superior de, ex officio, fazer cessar manifesta ilegalidade que importe no cerceamento do direito de ir e vir do paciente.
+3. A remição pelo trabalho, na dicção do art. 126 da LEP, somente alcança os apenados que se dediquem à atividade laboral durante o cumprimento de sua reprimenda em regime fechado ou semiaberto. Precedentes.
+4. Ordem não conhecida (HC 225.707/RS, relatora a Ministra Alderita Ramos de Oliveira (Desembargadora Convocada do TJ/PE), Sexta Turma, DJe de 1/7/2013, grifei).
+CONSTITUCIONAL. EXECUÇÃO PENAL. HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. CONDENADO EM REGIME ABERTO. REMIÇÃO PELO TRABALHO. INADMISSIBILIDADE. HABEAS CORPUS NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado, a justificar a concessão da ordem, de ofício.
+2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que os sentenciados que cumprem pena em regime aberto não têm direito à remição da pena pelo trabalho, porquanto, segundo previsão legal (art. 126 da Lei 7.210/84), tal benefício deve ser deferido apenas aos que se encontrem no regime fechado ou semiaberto.
+3. Habeas corpus não conhecido (HC 359.072/RS, relator o Ministro Ribeiro Dantas, Quinta Turma, DJe de 23/8/2016, grifei).
+HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO. REGIME ABERTO. IMPOSSIBILIDADE. PRECEDENTES DESTA CORTE E DO SUPREMO TRIBUNAL FEDERAL. ORDEM DE HABEAS CORPUS DENEGADA.
+1. O art. 126 da Lei de Execução Penal expressamente prevê a possibilidade da remição de pena pelo trabalho apenas aos condenados que cumprem pena em regime fechado ou semiaberto. No regime aberto, a remição somente é conferida se há frequência em curso de ensino regular ou de educação profissional, como disciplinado no § 6.º desse mesmo dispositivo legal - acrescido pela Lei n.º 12.433/2011 -, o que, in casu, não se aplica.
+2. Ordem de habeas corpus denegada (HC 277.885/MG, relatora a Ministra Laurita Vaz, Quinta Turma, DJe de 25/10/2013, grifei).
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
