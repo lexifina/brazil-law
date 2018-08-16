@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de recurso especial interposto por [NOME], inconformado com o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO DE PRESTAÇÃO DE CONTAS. SEGUNDA FASE.
+Insurgência contra decisão que não aceitou o pedido formulado pelos advogados da ré, para renúncia do mandato a eles outorgado pela empresa "R D Mattos Logística e Representações Ltda. ME.". Inadmissibilidade do recurso.
+Cabe agravo de instrumento somente contra as decisões interlocutórias que versarem sobre as matérias ventiladas no art. 1015, incisos I à XIII e parágrafo único, do CPC/15. Rol taxativo. RECURSO NÃO CONHECIDO." (e-STJ, fls. 453)
+Em suas razões a parte recorrente alega violação ao art. 1015, parágrafo único, do Código de Processo Civil de 2015, sustentando, em síntese, que "o parágrafo único do art. 1.015, do CPC, prevê dentre as hipóteses de cabimento do recurso de agravo de instrumento, as decisões interlocutórias proferidas em procedimento de liquidação de sentença, sendo inequivocamente este o caso dos autos" (fl. 479)
+É o relatório.
+Preliminarmente, cumpre registrar que a matéria relativa à natureza do rol do art. 1.015 do CPC/15 e à possibilidade de sua interpretação extensiva, para se admitir a interposição de agravo de instrumento contra decisão interlocutória que verse sobre hipóteses não expressamente versadas nos incisos de referido dispositivo do Novo CPC foi afetada à Corte Especial do STJ, em sessão virtual, pelo rito do artigo 1.036 do NCPC, (ProAfR no REsp 1.696.396/MT, Rel. Ministra NANCY ANDRIGHI, Corte Especial, julgado em 20/2/2018), (ProAfR no REsp 1.704.520/MT, Rel. Ministra NANCY ANDRIGHI, Corte Especial, julgado em 20/2/2018.
+Não obstante, o referido órgão julgador, por unanimidade tenha decidido pela não suspensão do processamento dos recursos de agravo de instrumento e eventuais recursos especiais que versem sobre idêntica questão em tramitação no território nacional, é possível ao relator, levando em consideração razões de economicidade processual, aprecie o recurso especial apenas quando exaurida a competência das instâncias ordinárias, na forma do artigo 1.040, II e III, do CPC/2015 e 34, XXIV, do RISTJ.
+Diante do exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 543-B, § 3º, e 543-C, §§ 7º e 8º, do CPC/1973 e 1.040 e seguintes do CPC/2015, após a publicação do acórdão do respectivo recurso excepcional representativo da controvérsia:
+a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou
+b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se.
