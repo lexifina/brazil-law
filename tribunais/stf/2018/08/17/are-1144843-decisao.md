@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — MATÉRIA FÁTICA – LEGISLAÇÃO LOCAL — INTERPRETAÇÃO — INVIABILIDADE — AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à improcedência do pedido de extensão do adicional por regime de tempo integral aos procuradores municipais, nos termos da legislação de regência. No extraordinário cujo trânsito buscam alcançar, os recorrentes alegam violados os artigos 5º e 7º, inciso XXXIII, da Constituição Federal. Dizem contrariado o princípio da isonomia, considerados os procuradores que recebem o benefício.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguinte trecho:
+    A Lei Municipal n° 920, de 9 de dezembro de 1983, tratava do Regime de Tempo Integral para os servidores municipais e seu artigo terceiro previa que "no Regime de Tempo Integral -R.T.L, o servidor perceberá gratificação sob forma de acréscimo proporcional, de até 100% (cem por cento), calculado sobre o valor do salário da função ou cargo que exerce”
+    A Lei Municipal n° 920/83 foi revogada pela Lei Municipal n° 1.330, de 28 de junho de 1990, que dispõe sobre o Regime Jurídico único dos Servidores Públicos do Município. Ao instituir o novo regime jurídico, a Lei Municipal n° 1.330/90 expressamente extinguiu o Regime de Tempo Integral, a partir de 1° de maio de 1990, nos seguintes termos:
+    […]
+    Verifica-se, portanto, que a Lei Municipal n° 1.330/90 promoveu verdadeira reorganização e reestruturação no funcionalismo público municipal, promovendo, inclusive, a reclassificação dos servidores. Assim, a lei extinguiu o adicional por Regime de Tempo Integral e fixou nova forma de remuneração dos servidores municipais.
+    Os autores, admitidos no serviço público municipal entre 2002 e 2012, não podem ser beneficiados com o pagamento do adicional por Regime de Tempo Integral, pois, como decidido, no oportunidade de suas admissões, o benefício não mais existia. Veja que suas remunerações foram fixadas considerando a extinção do adicional e do respectivo regime, de modo que o concurso público que prestaram, de certo, indicou a remuneração que recebem, excluído o adicional em questão.
+    O fato de todos os outros Procuradores do Município receberem o adicional, como alegado, não dá aos autores direito à extensão, pois àqueles foram admitidos antes de extinção do benefício, ou seja, antes de maio de 1990.
+    Não é possível aplicar o princípio do isonomia a servidores em situações jurídicas diversas. [...]
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    O Colegiado de origem decidiu a partir de interpretação conferida a normas locais. Procedeu à análise das Leis Municipais n° 920/83 e nº 1.330/90. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está-se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    Acresce que, no caso, o artigo 7º, inciso XXXIII não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo.
+    3. Conheço do agravo e o desprovejo. Considerada a fixação em sentença dos honorários advocatícios em R$ 1.000,00 (mil reais), majoro os honorários recursais em mais R$ 500,00 (quinhentos reais), consoante o artigo 85, § 11, do citado diploma legal.
+    4. Publiquem.
+Brasília, 17 de agosto de 2018.
+Ministro MARCO AURÉLIO
+Relator
