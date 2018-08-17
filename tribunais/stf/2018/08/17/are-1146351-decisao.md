@@ -1,0 +1,16 @@
+DECISÃO
+REPERCUSSÃO GERAL INADMITIDA – AÇÃO COLETIVA – COISA JULGADA – LIMITES TERRITORIAIS – DESPROVIMENTO DO AGRAVO.
+    1. O Tribunal Regional Federal da 2ª Região confirmou o entendimento do Juízo quanto à competência para as execuções individuais de sentença proferida em demanda coletiva. No extraordinário, cujo trânsito busca alcançar, o recorrente alega violação dos artigos 5º, incisos XXXV, LIII e LIV, e 109, § 2º, da Constituição Federal. Argui a nulidade do acórdão dos embargos declaratórios por negativa de prestação jurisdicional. Diz contrariados os princípios do devido processo legal e do juiz natural.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica, abordando os temas suscitados neste extraordinário.
+    No mais, colho da decisão recorrida os seguintes trechos:
+    A competência para as execuções individuais de sentença proferida em demanda coletiva deve ser definida pelo critério da livre distribuição, para impedir o congestionamento do Juízo sentenciante.
+    A jurisprudência deste Eg. Tribunal Regional Federal tem se posicionado no sentido de que a competência para a liquidação e a execução de titulo individual decorrente de sentença coletiva é concorrente entre o foro do domicílio do exequente/credor e o foro onde prolatada a sentença coletiva (art. 98, § 2°, II, c/c art. 101, I, da Lei 8.078/90, e o parágrafo único do art. 475-P, II, do CPC).
+    Conquanto o Código de Defesa do Consumidor garanta a prerrogativa processual do ajuizamento da execução individualizada no foro do domicílio do exequente, certo é que não se pode obrigá-lo a liquidar e executar a sentença coletiva no local em que domiciliado, sob pena de inviabilizar a tutela dos direitos individuais.
+    A decisão recorrida está em consonância com a jurisprudência do Supremo. O Tribunal, no recurso extraordinário com agravo nº 796.473/RS, da relatoria do ministro Gilmar Mendes, assentando a natureza infraconstitucional da matéria, concluiu pela inexistência de repercussão geral do tema referente aos limites territoriais da coisa julgada decorrente de sentença proferida em ação coletiva.
+    Somente pela análise do quadro fático e da legislação de regência seria dado concluir de forma diversa, o que é vedado em sede extraordinária.
+    Por fim, o Supremo, no recurso extraordinário com agravo nº 748.371/MT, da relatoria do ministro Gilmar Mendes, assentando a natureza infraconstitucional da matéria, concluiu não ter repercussão geral o tema relativo à suposta violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal quando o julgamento da causa depender da prévia análise da adequada aplicação de normas infraconstitucionais.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 17 de agosto de 2018.
+Ministro MARCO AURÉLIO
+Relator
