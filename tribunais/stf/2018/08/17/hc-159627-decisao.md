@@ -1,0 +1,32 @@
+Decisão: Trata-se de habeas corpus com pedido de liminar, impetrado por Flavio Honorato da Silva, em favor de Fabio Pedro, contra decisão proferida pelo Ministro Antonio Saldanha Palheiro, do Superior Tribunal de Justiça (STJ), que não conheceu do HC 444.334/MG.
+    Consta dos autos que o paciente foi preso em flagrante em 13.2.2017, porquanto teria praticado os crimes dispostos nos artigos 155, caput (furto), e 121, § 2º, incisos II e IV (homicídio duplamente qualificado pelo motivo fútil e pelo emprego de recurso que dificultou ou tornou impossível a defesa do ofendido), na forma do artigo 69 do CP (eDOC 2, p. 3).
+    O paciente foi pronunciado, restando absolvido das imputações alusivas à conduta do artigo 155, caput, negado o direito de recorrer em liberdade (eDOC 3, p. 12).
+    Daí a impetração de habeas corpus no Tribunal de Justiça de Minas Gerais, no qual se requereu a soltura do paciente. A ordem foi denegada, nos termos da ementa a seguir transcrita:
+    “HABEAS CORPUS - HOMICÍDIO QUALIFICADO - PRISÃO PREVENTIVA MANTIDA NA DECISÃO DE PRONÚNCIA - PERMANÊNCIA DOS REQUISITOS QUE ENSEJARAM A SEGREGAÇÃO CAUTELAR - CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO - ORDEM DENEGADA. - Estando presente um dos requisitos justificadores da decretação da prisão preventiva do agente, no caso, a garantia da ordem pública, em razão da constatação, com base no ‘modus operandi’ empregado, de sua periculosidade, correta se mostra a negativa do direito de apelar em liberdade”. (eDOC 2, p. 4)
+    Daí a impetração de writ no Superior Tribunal de Justiça. O STJ não conheceu do HC (eDOC 2, p. 7).
+    Nesta Corte, o impetrante reitera os pedidos pretéritos e enfatiza que, em sentença, foi denegado o direito de recorrer em liberdade somente pelo fato de ter respondido ao processo preso.
+    Afirma que é réu confesso, primário, de bons antecedentes, com emprego fixo e residência fixa.
+    Requer, liminarmente e no mérito, que a prisão preventiva seja revogada, sendo expedido alvará de soltura (eDOC 1).
+    É o relatório.
+    Passo a decidir.
+    Segundo jurisprudência consolidada deste Tribunal, não tendo sido a questão objeto de exame definitivo pelo Superior Tribunal de Justiça ou inexistindo prévia manifestação das demais instâncias inferiores, a apreciação do pedido da defesa implica supressão de instância, o que não é admitido. Nesse sentido: HC 114.867/RJ, Rel. Min. Luiz Fux, Primeira Turma, DJe 14.8.2013; HC 131.320AgR/PR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 10.2.2016; HC 140.825/PR, Rel. Min. Luiz Fux, DJe 3.3.2017 e HC 139.829/SP, Rel. Min. Dias Toffoli, DJe 6.3.2017.
+    Além disso, cumpre destacar a ausência de interposição de agravo regimental da decisão monocrática ora impugnada (eDOC 29, p. 1-3). De qualquer forma, no que se refere ao tema, tenho-me posicionado, na Segunda Turma, juntamente com Sua Excelência o Ministro Celso de Mello, no sentido da possibilidade de conhecimento do habeas corpus em casos idênticos.
+    Ocorre que a Segunda Turma já se posicionou no sentido de não conhecer dos writs (HC 119.115/MG, Rel. Ministro Ricardo Lewandowski, DJe 13.2.2014 e HC 114.087/SP, Rel. Min. Teori Zavascki, DJe 2.10.2014), com fundamento na carência de exaurimento da jurisdição e por inobservância ao princípio da colegialidade, previsto no art. 102, inciso II, alínea a, da Constituição Federal.
+    No mesmo sentido, já havia se firmado o entendimento da Primeira Turma desta Corte. A esse propósito, cito: RHC 111.935/DF, Rel. Min. Luiz Fux, DJe 30.9.2013; RHC 108.877/SP, Rel. Min. Cármen Lúcia, DJe 19.10.2011 e RHC 111.639/DF, Rel. Min. Dias Toffoli, DJe 30.3.2012.
+    Evidentemente, em obediência ao princípio da proteção judicial efetiva (art. 5º, XXXV, CF), a aplicação dos entendimentos jurisprudenciais trazidos à baila pode ser afastada no caso de configuração de evidente constrangimento ilegal ou abuso de poder.
+    No entanto, não vislumbro constrangimento ilegal manifesto a justificar excepcional conhecimento deste habeas corpus.
+    Transcrevo, inicialmente, trechos do decreto cautelar:
+    “Conforme se vê, trata o caso em questão, de fato grave, altamente combatido pela nossa sociedade, com previsão de pena de reclusão em patamar máximo superior a quatro anos.
+    Perlustrando com acuidade os autos, verifica-se que há prova de materialidade e indícios suficientes da autoria, o que caracteriza os elementos previstos no art. 312 e 313 do Código de Processo Penal, estando presente, portanto, o fundamento da prisão preventiva para a garantia da ordem pública.
+    Em virtude dos motivos acima explanados, das circunstâncias do fato e da gravidade de delito, entendo que são inaplicáveis, ao presente caso, quaisquer das medidas cautelares previstas no artigo 319 do Código de Processo Penal, uma vez que estas se mostram insuficientes e inadequadas.
+    Assim, por todo o exposto, considero inadmissível, a concessão de liberdade provisória, pelos fundamentos já aduzidos e haja vista que os elementos contidos nos autos evidenciam a necessidade da mantença do indiciado no ergástulo, por não haver garantias de que a ordem pública e a paz social estejam protegidas com a sua liberdade”. (eDOC 3, p. 5-6)
+    Cito ainda, porque oportuno, os fundamentos contidos na decisão do Ministro Antonio Saldanha Palheiro, que não conheceu do HC 444.334/MG:
+    “Não obstante as razões declinadas, o impetrante não instruiu os autos de forma adequada, pois a cópia da sentença de pronúncia contra a qual se insurge está ilegível em vários trechos, além de que não foi juntada a decisão primeva de decretação da custódia preventiva. Ressalte-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+    (…) Dessa forma, diante da insuficiência de prova pré-constituída das alegações, torna-se impossível analisar o suposto constrangimento ilegal. Ante o exposto, não conheço do presente habeas corpus”. (eDOC 2, p. 5-7)
+    Feitas essas considerações, ressalvo minha posição pessoal, mas, em homenagem ao princípio do colegiado, adoto a orientação no sentido de não conhecer do presente HC.
+    Ante o exposto, nego seguimento ao pedido formulado neste habeas corpus, por ser manifestamente incabível (artigo 21, § 1º, do RI/STF).
+    Publique-se.
+    Brasília, 17 de agosto de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
