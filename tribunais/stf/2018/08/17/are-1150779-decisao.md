@@ -1,0 +1,16 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Heather Renee Philpot contra acórdão que, confirmado em sede de embargos de declaração pela 5ª Turma Recursal dos Juizados Especiais da Bahia, está assim ementado:
+    “RECURSO INOMINADO. DIREITO DO CONSUMIDOR. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PLANO DE SAÚDE. PARTO REALIZADO POR PROFISSIONAL NÃO PERTENCENTE À REDE REFERENCIADA. RECORRENTE QUE TINHA O PLENO CONHECIMENTO DA SITUAÇÃO. EXISTÊNCIA DE PROFISSIONAIS CREDENCIADOS AO PLANO, APTOS A REALIZAR O PROCEDIMENTO. REEMBOLSO REALIZADO NOS LIMITES CONTRATADOS. CONDUTA ILÍCITA NÃO EVIDENCIADA. SENTENÇA QUE JULGOU IMPROCEDENTES OS PEDIDOS DA INICIAL. MANUTENÇÃO DA SENTENÇA POR SEUS PRÓPRIOS FUNDAMENTOS. NÃO PROVIMENTO DO RECURSO.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o órgão judiciário de origem teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar, desde logo, com relação à alegada ofensa à norma inscrita no art. 5º, inciso XXXV, da Constituição, que foi assegurado, no caso ora em exame, à parte recorrente, o direito de acesso à jurisdição estatal, não se podendo inferir, do insucesso processual que experimentou, o reconhecimento de que lhe teria sido denegada a concernente prestação jurisdicional.
+    Com efeito, não se negou, à parte recorrente, o direito à prestação jurisdicional do Estado. Este, bem ou mal, apreciou, por intermédio de órgãos judiciários competentes, o litígio que lhe foi submetido.
+    É preciso ter presente que a prestação jurisdicional, ainda que errônea, incompleta ou insatisfatória, não deixa de configurar-se como resposta efetiva do Estado-Juiz à invocação, pela parte interessada, da tutela jurisdicional do Poder Público, circunstância que afasta a alegada ofensa a quanto prescreve o art. 5º, inciso XXXV, da Carta Política, consoante tem enfatizado o magistério jurisprudencial do Supremo Tribunal Federal (RTJ 132/455, Rel. Min. CELSO DE MELLO – RTJ 141/980, Rel. Min. CARLOS VELLOSO – AI 120.933-AgR/RS, Rel. Min. NÉRI DA SILVEIRA – AI 125.492-AgR/SP, Rel. Min. CARLOS MADEIRA).
+    A prestação jurisdicional que se revela contrária ao interesse de quem a postula não se identifica, não se equipara nem se confunde, para efeito  de acesso à via recursal extraordinária, com a ausência de prestação jurisdicional.
+    Cabe observar, ainda, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a ausência de condenação em verba honorária na origem.
+    Publique-se.
+    Brasília, 17 de agosto de 2018.
+Ministro CELSO DE MELLO
+Relator
