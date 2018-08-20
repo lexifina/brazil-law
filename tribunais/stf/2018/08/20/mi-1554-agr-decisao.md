@@ -1,0 +1,59 @@
+DECISÃO:
+Ementa: Direito Constitucional e Administrativo. Mandado de injunção coletivo. Alegada atividade insalubre e de risco. Aposentadoria especial.
+1. Mandado de injunção impetrado com base no art. 40, § 4º, II e III, da Constituição, que prevê a necessidade de edição de leis complementares – ainda inexistentes – a fim de instituir requisitos diferenciados para a concessão de aposentadoria de servidores públicos, cujas atividades sejam de risco (inciso II) ou exercidas sob condições especiais que prejudiquem a saúde ou a integridade física (inciso III).
+2. A Súmula Vinculante 33, editada após a impetração, impede que a autoridade administrativa indefira, sob a alegação de ausência de lei específica, pedidos relativos à aposentadoria especial de servidores públicos que exerçam atividades sob condições prejudiciais à saúde ou à integridade física. A edição da súmula vinculante importou na perda do objeto do Mandado de Injunção.
+3. A jurisprudência do STF afirmou nos MIs 833 e 844 que, diante do caráter aberto da expressão “atividades de risco”, constante do art. 40, § 4º, II, da CF/1988, e da relativa liberdade de conformação do legislador, somente há omissão inconstitucional quando a periculosidade é inerente ao ofício. No caso, são diversos os cargos ocupados pelo substituídos do sindicato impetrante e a inicial não aponta as atividades que seriam de risco. Assim, não há como se conhecer do writ neste ponto.
+4. Reconsiderada a decisão agravada para se conhecer parcialmente do writ e, nesta parte, julgá-lo prejudicado.
+    1. Trata-se de agravo regimental interposto contra decisão monocrática do Min. Joaquim Barbosa, relator originário do feito, que concedeu parcialmente a ordem, nos seguintes termos (p. 138 do volume):
+    “DECISÃO: Trata-se de mandado de injunção coletivo impetrado pela Federação de Sindicatos de Trabalhadores das Universidades Brasileiras – FASUBRA-SINDICAL e pelo Sindicato dos Trabalhadores nas Instituições Federais de Ensino Superior – SINDIFES contra ato omissivo do Senhor Presidente da República, objetivando a concessão de aposentadoria especial, tal como prevista no art. 40, § 4º da Constituição Federal, para os seus substituídos, em razão do exercício de suas atividades funcionais em condições de insalubridade ou periculosidade.
+    Afirmam que o artigo 40, § 4º da Constituição Federal estabelece o direito à aposentadoria especial para servidores públicos. Contudo, esse direito constitucional depende de regulamentação por lei complementar específica. Tendo em vista que não houve iniciativa legislativa no sentido de elaboração da lei complementar que definirá os critérios para a concessão da aposentadoria especial dos servidores públicos, sustentam que seus filiados têm esse direito inviabilizado. Afirmam, portanto, estar configurada a omissão inconstitucional.
+    Requerem a concessão da ordem para que seja assegurado, aos substituídos, o direito à aposentadoria especial.
+    Nas informações, o Presidente da República afirma que não há nos autos fatos comprovados que permitam a esta Corte decidir pelo acolhimento do pleito. Assim, requer a extinção do processo, sem julgamento do mérito (fls. 95-103).
+    O procurador-geral da República, no parecer de fls. 105, reporta-se à sua manifestação no MI 758, rel. min. Marco Aurélio, para opinar pela procedência parcial do pleito.
+    É o relatório.
+    Decido.
+    O presente caso trata da ausência de regulamentação do art. 40, § 4º da Constituição Federal, assim redigido:
+    ‘Art. 40. Aos servidores titulares de cargos efetivos da União, dos Estados, do Distrito Federal e dos Municípios, incluídas suas autarquias e fundações, é assegurado regime de previdência de caráter contributivo e solidário, mediante contribuição do respectivo ente público, dos servidores ativos e inativos e dos pensionistas, observados critérios que preservem o equilíbrio financeiro e atuarial e o disposto neste artigo.
+    (...)
+    4º É vedada a adoção de requisitos e critérios diferenciados para a concessão de aposentadoria aos abrangidos pelo regime de que trata este artigo, ressalvados, nos termos definidos em leis complementares, os casos de servidores:
+    I portadores de deficiência;
+    II que exerçam atividades de risco;
+    III cujas atividades sejam exercidas sob condições especiais que prejudiquem a saúde ou a integridade física.
+    [grifei]
+    Esta Corte, em diversos precedentes, reconheceu a mora legislativa e a necessidade de dar eficácia à norma constitucional que trata da aposentadoria especial dos servidores públicos (art. 40, § 4º da CF/88). Assim, a Corte vem determinando a aplicação integrativa da lei ordinária referente aos trabalhadores vinculados ao regime de previdência geral (lei 8.213/1991), naquilo em que for pertinente, até que seja editada a legislação específica sobre o tema.
+    Nesse sentido, é o precedente firmado no Mandado de Injunção 758, rel. min. Marco Aurélio, DJe 25.09.2007 e no Mandado de Injunção 721, rel. min. Marco Aurélio, DJe 27.11.2007.
+    Na sessão do dia 15 de abril de 2009, o Supremo Tribunal Federal, apreciando diversos mandados de injunção sobre este mesmo tema, reafirmou esta orientação. Confira-se, por exemplo, respectivamente, as ementas dos acórdãos proferidos no MI 795 e no MI 809, ambos rel. min. Cármen Lúcia, publicados no DJ 22.05.2009:
+    EMENTA: MANDADO DE INJUNÇÃO. APOSENTADORIA ESPECIAL DO SERVIDOR PÚBLICO. ARTIGO 40, § 4º, DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE LEI COMPLEMENTAR A DISCIPLINAR A MATÉRIA. NECESSIDADE DE INTEGRAÇÃO LEGISLATIVA.
+    1. Servidor público. Investigador da polícia civil do Estado de São Paulo. Alegado exercício de atividade sob condições de periculosidade e insalubridade.
+    2. Reconhecida a omissão legislativa em razão da ausência de lei complementar a definir as condições para o implemento da aposentadoria especial.
+    3. Mandado de injunção conhecido e concedido para comunicar a mora à autoridade competente e determinar a aplicação, no que couber, do art. 57 da Lei n. 8.213/91.
+    EMENTA: MANDADO DE INJUNÇÃO. APOSENTADORIA ESPECIAL DO SERVIDOR PÚBLICO. ARTIGO 40, § 4º, DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE LEI COMPLEMENTAR DISCIPLINANDO A MATÉRIA. NECESSIDADE DE INTEGRAÇÃO LEGISLATIVA.
+    1. Servidor público. Médico vinculado à Secretaria de Saúde do Estado de São Paulo. Alegado exercício de atividade sob condições de insalubridade.
+    2. Reconhecida a omissão legislativa em razão da ausência de lei complementar a definir as condições para o implemento da aposentadoria especial.
+    3. Mandado de injunção conhecido e concedido, em parte, para comunicar a mora legislativa à autoridade competente e determinar a aplicação, no que couber, do art. 57 da Lei n. 8.213/91.
+    A hipótese dos autos é exatamente a mesma dos precedentes citados. Os impetrantes são substitutos processuais de servidores públicos, e afirmam que estes desempenham atividades que são consideradas insalubres, perigosas e penosas. Sustentam que os substituídos fazem jus, por conseguinte, à aposentadoria especial constitucionalmente assegurada.
+    Nesse sentido, e na linha da jurisprudência firmada pela Corte, a ordem deve ser concedida, em parte, a fim de se determinar que a autoridade administrativa competente proceda à análise da situação fática dos substituídos, à luz do art. 57 da lei 8.213/1991, até que sobrevenha a norma específica sobre o tema.
+    Conforme decidido pelo Plenário desta Corte, na sessão de 15.04.2009, está autorizado o julgamento monocrático dos mandados de injunção que tratam precisamente desta mesma matéria.
+    Do exposto, com fundamento na orientação jurisprudencial desta Suprema Corte, reconheço a mora legislativa em dar concretude ao art. 40, § 4º da Constituição Federal e concedo parcialmente a ordem, para determinar que a autoridade administrativa competente proceda à análise da situação fática dos substituídos pelos impetrantes (Federação de Sindicatos de Trabalhadores das Universidades Brasileiras – FASUBRA-SINDICAL e Sindicato dos Trabalhadores nas Instituições Federais de Ensino Superior – SINDIFES), para fins de aposentadoria especial, à luz do art. 57 da lei 8.213/1991.
+    Comunique-se.
+    Publique-se.
+    Arquive-se.
+    Brasília, 18 de fevereiro de 2010.
+    Ministro JOAQUIM BARBOSA
+    Relator”
+    2. A União, ora agravante, alega (i) a incapacidade de ser parte da FASUBRA-SINDICAL; e (ii) o descabimento do mandado de injunção, tendo em vista que as impetrantes não demonstraram a inviabilidade do exercício do direito constitucional.
+    3. Os agravados apresentaram contrarrazões (docs. 5 e 7). A Procuradoria-Geral da República manifestou-se pelo provimento do agravo, não se conhecendo do writ, e, acaso conhecido, pela denegação da ordem (doc. 13).
+    4. É o relatório. Decido.
+    5. Conheço do agravo da União e, com base no art. 317, § 2º, do RI/STF, reconsidero a decisão monocrática anterior.
+    6. A inicial alega omissão na edição das leis complementares previstas nos incisos II e III do art. 40, § 4º, da CF/1988, que preveem aposentadoria especial para servidores que exercem atividade de risco e insalubre.
+    7. No que diz respeito à aposentadoria especial de servidores públicos que exerçam atividades sob condições prejudiciais à saúde ou à integridade física (CF/1988, art. 40, § 4º, III), a matéria já foi enfrentada por este Tribunal, afirmando-se, com eficácia vinculante, a existência de omissão inconstitucional. Nesse sentido, em 09.04.2014, o Plenário do STF aprovou a Súmula Vinculante 33, com o seguinte teor:
+    Aplicam-se ao servidor público, no que couber, as regras do regime geral da previdência social sobre aposentadoria especial de que trata o artigo 40, § 4º, inciso III da Constituição Federal, até a edição de lei complementar específica.
+    8. Nos termos do art. 103-A da Constituição, a referida súmula tem efeito vinculante em relação aos demais órgãos do Poder Judiciário e à Administração Pública direta e indireta, nas esferas federal, estadual e municipal. Eventual contrariedade à súmula enseja a propositura de reclamação perante o STF (CRFB/1988, art. 103-A, § 3º).
+    9. Assim, o objeto da impetração se esvaziou, já que a autoridade administrativa não poderá alegar a ausência de lei específica para indeferir pedidos relativos à aposentadoria especial de servidores públicos que alegam exercer atividades sob condições prejudiciais à saúde ou à integridade física. Nesse ponto, portanto, o writ  ficou prejudicado.
+    10. Quanto à lacuna legislativa relacionada à aposentadoria especial pelo exercício de atividade de risco (CF/1988, art. 40, § 4º, II), o Plenário desta Corte afirmou nos MIs 833 e 844, em que fui designado redator para acórdão, que a omissão inconstitucional caracteriza-se apenas em relação às atividades inerentemente perigosas.
+    11. No caso, são diversos os cargos ocupados pelos substituídos do sindicato impetrante e a inicial não aponta, de forma mais específica, as atividades que seriam de risco, de modo que não há como avaliar se são inerentemente perigosas. Em outras palavras, não há como saber, com base nos documentos presentes nos autos, quais seriam as atividades inerentemente de risco que os servidores públicos federais vinculados às instituições de ensino superior de 3º grau poderiam exercer, assim como também é impossível afirmar que as atividades de todos servidores seriam de risco. Assim, inviável o conhecimento do writ neste ponto. Nessa linha, também, é o parecer ministerial (doc. 13).
+    12. Diante do exposto, reconsidero a decisão agravada (RI/STF, art. 317, § 2º) e, com base no art. 21, § 1º, do RI/STF, conheço parcialmente do presente mandado de injunção e, nesta parte, julgo-o prejudicado. Sem custas e honorários.
+          Publique-se.
+Brasília, 20 de agosto de 2018.
+Ministro Luís Roberto Barroso
+Relator
