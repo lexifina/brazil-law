@@ -1,0 +1,22 @@
+Trata-se de reclamação com pedido de liminar proposta por Raimundo José Matos Silva, na qual sustenta a inobservância ao enunciado da Súmula Vinculante 56 deste Supremo Tribunal.
+    O reclamante alega, em síntese, que,
+    “[...] em que pese o regime de cumprimento de pena do reclamante ser atualmente o semiaberto, até o presente momento, por falta de vaga, não fora transferido para unidade compatível aos presos no regime intermediário, sendo mantido em unidade exclusiva para cumprimento de pena em regime fechado, o que caracteriza inconteste constrangimento ilegal, ante a violação ao teor da súmula vinculante nº 56. Ou seja, muito embora tenha tido reconhecido a sua progressão de regime para o semiaberto, continua cumprindo pena com outros detentos em regime fechado, por culpa exclusiva do aparelhamento do Estado, ante a falta de vagas em estabelecimento prisional adequado ao regime ao qual se encontra” (pág. 2 do documento eletrônico 1).
+    Ao final, requer
+    “(a) em caráter Liminar seja suspenso, cautelarmente, a execução da pena em regime fechado, possibilitando que permaneça em prisão domiciliar até o julgamento colegiado deste writ, pois sua situação afronta os termos da súmula vinculante 56 de observância obrigatória;
+    (b) no mérito, em caráter definitivo, requer-se a procedência da presente reclamação, para que nos termos da súmula vinculante nº 56 e alternativa proposta pelo RE 641.320, seja concedida a prisão domiciliar ao reeducando RAIMUNDO JOSÉ MATOS SILVA, uma vez que estando no regime de pena semiaberto, não poderia estar cumprindo pena com outros detentos no regime fechado, ante a ausência de vagas no regime adequado, tudo por se tratar de medida cristalina de justiça” (pág. 5 do documento eletrônico 1).
+    É o relatório necessário. Decido.
+    Em 23/4/2018, antecedendo a análise de qualquer pedido contido nesta reclamação, entendi necessário que o Juízo da 1ª Vara de Execuções Penais da Comarca de São Luís/MA (Execução 0021320-42.2017.810.0201) prestasse-me informações quanto ao que alegado na inicial, descrevendo, de modo pormenorizado, a atual situação prisional do reclamante e se foi devidamente observada pelo judiciário local, no caso concreto, o teor da Súmula Vinculante 56 do Supremo Tribunal Federal.
+    Posteriormente, essas informações foram prestadas pelo Juiz Marcio Castro Brandão, Titular da 1ª Vara de Execuções Penais da Comarca de São Luís/MA, nos seguintes termos:
+    “[...]
+    Com efeito, trata-se de reclamação proposta por RAIMUNDO JOSÉ MATOS SILVA, contra ato administrativo supostamente praticado pelo Secretário de Administração Penitenciária do Estado do Maranhão, em que se alega violação à Súmula Vinculante n° 56, porquanto tendo progredido ao regime semiaberto, ainda se encontraria cumprindo pela em regime mais gravoso. Daí requerer, nesse sentido, a concessão de prisão domiciliar.
+    O apenado, contudo, encontra-se cumprindo pena em unidade prisional destinada a presos do regime semiaberto, com trabalho externo. Importante pontuar que o local abriga exclusivamente apenados que cumprem pena no regime intermediário.
+    O ora reclamante trabalha na empresa Casa da Marisqueira, localizada na rua São Silvestre, s/n, bairro São Raimundo, São José de Ribamar/MA, das 08h00min às 18h00min, de segunda à sexta, devendo retornar diariamente à unidade prisional até às 20h00min.
+    Ademais, o apenado foi beneficiado com a saída temporária do dia das mães, na qual os presos permanecerão do dia 09 à 15 de maio no convívio de seus familiares e amigos.
+    Prestadas as informações pertinentes, coloco-me à inteira disposição de Vossa Excelência para oferecer quaisquer esclarecimentos adicionais que se fizerem necessários” (documento eletrônico 15).
+    Conforme se verifica das informações prestadas pelo magistrado responsável pela execução da pena imposta, e ao contrário do que alegado nesta reclamação, o ora reclamante encontra-se alojado em “[...] unidade prisional destinada a presos do regime semiaberto, com trabalho externo. Importante pontuar que o local abriga exclusivamente apenados que cumprem pena no regime intermediário” (pág. 2 do documento eletrônico 15).
+    Desse modo, não há que se falar em contrariedade à Sumula Vinculante 56 deste Supremo Tribunal.
+    Isso posto, julgo improcedente a presente reclamação (art. 161, parágrafo único, do Regimento Interno do Supremo Tribunal Federal). Prejudicado o exame do pleito cautelar.
+    Publique-se.
+    Brasília, 20 de agosto de 2018.
+Ministro Ricardo Lewandowski
+Relator
