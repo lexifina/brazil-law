@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário em face de acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (eDOC 1, p. 295):
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. CHEFE DE CARTÓRIO ELEITORAL. GRATIFICAÇÃO. SUBSTITUIÇÃO DA CJ2 PELA FC4. POSSIBILIDADE. AUSÊNCIA DE REDUÇÃO DE VENCIMENTOS.
+    . Hipótese em que a transformação do cargo em comissão (CJ-2) em função comissionada (FC-4) não importou diminuição nos vencimentos do chefe de cartório eleitoral, o qual autora passou a receber, a título de diferença individual, a exata diferença entre os valores das duas rubricas.
+    . Conforme entendimento jurisprudencial, os servidores não têm direito à manutenção de uma determinada forma de cálculo de seus vencimentos, mas apenas a que tais vencimentos não sejam diminuídos.”
+    Os embargos de declaração foram parcialmente providos, exclusivamente para efeitos de prequestionamento (eDOC 1, p. 317).
+    No recurso extraordinário, com fundamento no art. 102, III, “a” do permissivo constitucional, aponta-se ofensa ao art. 37, XV, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma que (eDOC 1, p. 357):
+    “Analisando-se os contracheques da Recorrente, bem como as informações contidas na Declaração fornecida pela Secretaria do Tribunal Regional Eleitoral do Rio Grande do Sul, percebe-se claramente que tal rubrica - ‘Diferença Individual’ - somente teria suprido a exata diferença entre os valores das duas rubricas FC-04 e CJ-02 no período compreendido entre agosto/2005 a outubro/2005.
+    Portanto, a partir de novembro/2005, a mencionada rubrica - ‘Diferença Individual’ - não mais serviu para dar paridade aos vencimentos remuneratórios da Recorrente, fazendo com que tais vencimentos os mesmos passando a sofrer significativa redução, em comparação com a remuneração que efetivamente faria jus, do Cargo em Comissão, nível CJ-2, mesmo porque suas atribuições se mantiveram exatamente as mesmas.”
+    A Vice-Presidência do TRF/4ª Região inadmitiu o recurso extraordinário em virtude de incidir na hipótese a Súmula 279 do STF (eDOC 1, p. 413-414).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento da apelação, manteve a sentença por seus próprios fundamentos. Reproduzo alguns trechos da referida sentença (eDOC 1, p. 293):
+    “Na inicial, a parte autora alega que a transformação do cargo em comissão (CJ-2), que era por ela ocupado, em função comissionada (FC-4) fez diminuir seus vencimentos. Todavia, conforme bem apontado pela União, a parte autora passou a receber, a título de diferença individual, a exata diferença entre os valores das duas rubricas, de modo que seus vencimentos não diminuíram.
+    A afirmação da União é comprovada pelos documentos Cheq4 e Cheq5, do Evento 3. Portanto, não há como acolher a alegação da parte autora. Vale lembrar que, conforme tranquilo entendimento jurisprudencial, os servidores não têm direito à manutenção de uma determinada forma de cálculo de seus vencimentos, mas apenas a que tais vencimentos não sejam diminuídos.
+    A parte autora também afirma que a troca da CJ-2 pela FC-4 somente poderia ocorrer após a designação de outro servidor para a função por ela exercida, nos termos do artigo 3º, parágrafo único, da Lei nº 10.842/04, transcrito no relatório. Entretanto, é de se observar que a lei não impõe que o servidor designado para ocupar a função comissionada teria necessariamente de ser servidor diverso daquele que ocupava o cargo em comissão extinto pela lei. Ou seja: a autora foi designada para exercer a função comissionada que correspondia ao cargo em comissão que era por ela ocupado até então, no que não se verifica qualquer ilegalidade.
+    O que se conclui, a partir disso, é que a parte autora seguiu exercendo as mesmas atribuições (primeiro, a título de cargo em comissão; depois, a título de função comissionada) e recebendo inicialmente os mesmos valores (pois a diferença entre as duas rubricas foi compensada com a rubrica denominada 'diferença individual'). Logo, não há motivo para sua inconformidade com o modo de proceder da administração.”
+    Depreende-se desses fundamentos e daqueles que constam da ementa do acórdão recorrido, que eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas e o exame da legislação infraconstitucional (Lei Federal nº 10.842/04). Dessa forma, resta demonstrada a não ocorrência de ofensa constitucional direta, o que inviabiliza o processamento do apelo extremo, além da vedação contida na Súmula 279 do STF.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do CPC.
+    Publique-se.
+    Brasília, 20 de agosto de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
