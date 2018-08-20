@@ -1,0 +1,39 @@
+Decisão:
+Ementa: Execução Penal. Habeas corpus. Livramento condicional. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de habeas corpus, sem pedido de concessão de liminar, impetrado contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Sebastião Reis Júnior, assim ementado:
+    “AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO PENAL. ART. 83 DO CÓDIGO PENAL. LIVRAMENTO CONDICIONAL. REQUISITO OBJETIVO. UNIFICAÇÃO DE PENAS. FRAÇÃO APLICÁVEL. REINCIDÊNCIA. FRAÇÃO ÚNICA DE 1/2 SOBRE O TOTAL DAS PENAS REUNIDAS. PRECEDENTES.
+    1. É pacífico nesta Corte Superior o entendimento segundo o qual a condição de reincidente se estende sobre a totalidade das penas somadas, aplicando-se fração única, inclusive na primeira condenação quando o réu ainda ostentava a condição de primário.
+    2. Agravo regimental improvido.”
+    2. Extrai-se dos autos que o paciente – que possui diversas condenações por crimes dolosos – requereu ao Juízo da Execução a retificação do cálculo da pena para fins de concessão do benefício do livramento condicional. O pedido foi indeferido.
+    3. Dessa decisão, a defesa interpôs agravo em execução. O Tribunal de Justiça do Estado do Rondônia negou provimento ao agravo.
+    4. Na sequência, a defesa interpôs recurso especial. O Relator do Resp 1.423.525, Ministro Sebastião Reis Júnior, negou provimento ao recurso.
+    5. Contra essa decisão, foi interposto agravo regimental, não provido.
+    6. Neste habeas corpus, a parte impetrante afirma que, “das nove condenações do paciente, ele só foi reconhecido reincidente na de número 3. No entanto, a decisão que ora se combate considera a fração do reincidente para a concessão do livramento condicional em toda a pena imposta ao paciente - inclusive naquelas onde era reconhecidamente primário”.
+    7. Prossegue a impetração para concluir que “A interpretação dada de que a condição de reincidente, uma vez adquirida pelo sentenciado, estende-se sobre a totalidade das penas somadas e não justifica a consideração isolada de cada condenação e tampouco a aplicação de percentuais diferentes para cada uma das reprimendas, dá ao instituto da reincidência uma qualificação pessoal, trazendo de volta o indesejado Direito do autor do fato”.
+    8. Com essa argumentação, requer a concessão da ordem “para reconhecer que os efeitos da reincidência se limitam aos feitos onde ela foi declarada, bem como para determinar a consideração da fração de 1/3 para fins de livramento condicional do paciente, nas suas condenações de número 1, 2, 4, 5, 6,7 8 e 9”.
+    9. O Ministério Público Federal manifesta-se pela denegação da ordem.
+    Decido.
+    10. O habeas corpus não deve ser concedido.
+    11. A orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que “sobrevindo nova condenação no curso da execução penal, a contagem do prazo para a concessão de benefícios é interrompida e passa a ter como parâmetro a pena unificada ou somada, considerando-se como termo inicial para a contagem do período aquisitivo, a data do trânsito em julgado da última condenação, não importando se o delito é anterior ou posterior ao início da execução penal” - sem grifos no original (RHC 121.849, Rel. Min. Dias Toffoli).
+    12. Da mesma forma, esta Suprema Corte consolidou o entendimento no sentido de que “A unificação penal autorizada pela norma inscrita no art. 75 do Código Penal justifica-se como consequência direta e imediata do preceito constitucional que veda (CF, art. 5º, XLVII, "b"), de modo absoluto, a existência, no sistema jurídico brasileiro, de sanções penais de caráter perpétuo. Em decorrência dessa cláusula constitucional, o máximo penal legalmente exequível, no ordenamento positivo nacional, é de trinta (30) anos, a significar, portanto, que o tempo de cumprimento das penas privativas de liberdade não pode ser superior àquele limite imposto pelo art. 75, ‘caput’, do Código Penal. - A pena resultante da unificação (CP, art. 75, § 1º) há de ser considerada, unicamente, para efeito de cumprimento do limite temporal máximo de trinta (30) anos, não se prestando ao cálculo de outros benefícios legais (RTJ 118/497 - RTJ 137/1204 - RTJ 147/637), tais como a remição, o livramento condicional, o indulto, a comutação e a progressão para regime de execução penal mais favorável. Precedentes. Súmula 715/STF” - sem grifos no original (HC 84.766, Rel. Min. Celso de Mello).
+    13. Ainda nesse sentido, o Ministro Luiz Fux, ao analisar caso análogo, concluiu que, “conforme entenderam as demais instâncias, 'a condição de reincidente se estende sobre a totalidade das penas somadas, aplicando-se fração única, inclusive na primeira condenação quando o réu ainda ostentava a condição de primário” (HC 158.807, Rel. Min. Luiz Fux).
+    14. No caso de que se trata, a autoridade impetrada não divergiu desse entendimento, ao assentar que “a condição de reincidente se estende sobre a totalidade das penas somadas e que aplica-se a fração de 1/2 para a concessão do livramento condicional, até mesmo na primeira condenação - quando o réu ainda ostenta a condição de primário”. Transcrevo, nesse sentido, as seguintes passagens da decisão do STJ:
+    “(...)
+    Discute-se, na presente lide, qual a fração que deve ser aplicada para obtenção do requisito objetivo do livramento condicional com relação ao crime praticado ao tempo em que o réu ainda ostentava a primariedade, ou seja, na sua primeira condenação.
+    (…)
+    Sobre a exegese das normas supra, entende-se que o cálculo para a concessão de qualquer benefício, por ocasião da execução penal, deve ter por base o somatório das penas privativas de liberdade efetivamente impostas ao condenado (HC n. 347.031/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 28/6/2016).
+    Sobre o tema, o Tribunal a quo entendeu que (fls. 102/104):
+    [...] O art. 84 do CP é claro ao prever que ‘As penas que correspondem a infrações diversas devem somar-se para efeito do livramento.’ Logo, conforme orientação do Superior Tribunal de Justiça ‘havendo pluralidade de condenações deve se proceder a soma das penas, realizando-se o cálculo do requisito objetivo exigido à concessão do livramento condicional sobre o montante obtido’ (AgRg no RHC 43.743/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 14/11/2014).
+    Demais disso, a reincidência consiste em condição pessoal, vinculando-se, portanto, à pessoa do condenado e não às suas condenações individualmente consideradas, não havendo que se falar em ofensa aos princípios da legalidade, reserva legal, execução da pena, humanidade e presunção de inocência, como alega a defesa.
+    Logo, uma vez reconhecida a reincidência, esta alcança todas as condenações a que o sentenciado cumpre pena, influindo sobre o requisito objetivo dos benefícios da execução, sendo incabível dividir as penas ao fim do cálculo.
+    O Superior Tribunal de Justiça possui entendimento consolidado nesse sentido, conforme julgados adiante colacionados:
+    (…)
+    Logo, havendo pluralidade de condenações e estando reconhecida a reincidência, as penas devem ser unificadas, realizando-se o cálculo do livramento condicional sobre o montante obtido, utilizando-se a fração prevista no art. 83, inc. II, do CP (metade). [...]
+    Da atenta leitura dos autos, constata-se que o pleito ora examinado já foi julgado pelas duas turmas criminais que compõem este Superior Tribunal, as quais entenderam que a condição de reincidente se estende sobre a totalidade das penas somadas e que aplica-se a fração de 1/2 para a concessão do livramento condicional, até mesmo na primeira condenação - quando o réu ainda ostenta a condição de primário.
+    (...)”.
+    15. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 20 de agosto de 2018.
+Ministro Luís Roberto Barroso
+Relator
+                  Documento assinado digitalmente
