@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Agravo de instrumento Inventário Decisão que autorizou o recolhimento do ITCMD sobre o valor venal dos imóveis objetos de partilha Insurgência da Fazenda Pública do Estado de São Paulo Fisco que pretende alterar a base de cálculo do ITCMD para o valor de referência adotado pela legislação do ITBI Inadmissibilidade Inaplicabilidade do Decreto Estadual n. 55.002/2009, sob pena de ofensa ao princípio da legalidade tributária (art. 150, I, CF) Inteligência do art. 38 do CTN e dos arts. 9º, §1º e 13, inciso I, ambos da Lei Estadual n.º 10.705/00 Precedentes- AGRAVO DESPROVIDO.” (eDOC 2, p. 70)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. artigos 1º; 2°; 5°, II, LXIX; 18; 25 a 28; e 155, I, do texto constitucional.
+    Nas razões recursais, sustenta-se que após a promulgação da Lei Estadual n. 10.705/00, há previsão legal para que a Fazenda do Estado de São Paulo possa exigir, como base de cálculo do ITCMD, o valor de mercado do bem. Além disso, alega-se que houve violação aos princípios da isonomia e da legalidade.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie (Lei Estadual 10.705/2000 e Decreto 55.002/09) e o conjunto probatório constante dos autos, consignou que a base de cálculo do ITCMD não poderia corresponder àquela prevista no Decreto Estadual n. 55.002/09. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “A base de cálculo do ITCMD está definida no art. 38 do CTN e na Lei Estadual 10.705/2000, que a estabelecem como o valor venal dos bens ou direitos transmitidos, apenas ressalvando esta última norma que, no caso de bens imóveis urbanos, como é a hipótese em exame, este valor não poderá ser inferior ao fixado para lançamento do IPTU: (…)
+    Ora, diante da clareza das normas tributárias acima, não pode a agravante, contrariando-as, pretender atribuir base de cálculo distinta, baseada em decreto Decreto Estadual n. 55.002/2009 que a altera para o valor venal de referência do ITBI. “ (eDOC 2, p. 73)
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesses termos, incide no caso a Súmula 280 do Supremo Tribunal Federal.
+    Além disso, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    A propósito, menciono os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. IMPOSTO SOBRE TRANSMISSÃO DE BENS IMÓVEIS ITBI. VALOR DA BASE DE CÁLCULO. 1. A jurisprudência do STF é firme no sentido de que o valor da base de cálculo do ITBI cinge-se ao âmbito infraconstitucional, tendo em vista que o acórdão recorrido assentou a causa com base em legislação local. Súmulas 279 e 280. 2. Agravo regimental a que se nega provimento” (RE 644563 AgR, Rel. Min. Edson Fachin, Primeira Turma, DJe 25.11.2015).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONTROVÉRSIA DECIDIDA EXCLUSIVAMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279/STF. 1. Não é possível, em recurso extraordinário, reexaminar a legislação infraconstitucional aplicada ao caso, bem como analisar o acervo fático-probatório dos autos. 2. Agravo regimental desprovido.” (RE 660.911/AL-AgR, Segunda Turma, Rel. Min. Ayres Britto, DJe de 19.3.2012).
+    Nesse sentido, confiram-se as seguintes decisões monocráticas: ARE 1.112.173, Rel. Min. Alexandre de Moraes; ARE 1.115.267, Rel. Min. Roberto Barroso e o ARE 1.115.295, Rel. Min. Dias Toffoli.
+    Por fim, ressalto também que este Tribunal entende não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolver a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF)
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 20 de agosto de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
