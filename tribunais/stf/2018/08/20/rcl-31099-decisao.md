@@ -1,0 +1,38 @@
+DECISÃO
+    Trata-se de Reclamação, com pedido liminar, proposta contra ato do MM. Juiz de Direito da Central de Audiência de Custódia da Comarca do Rio de Janeiro/RJ..
+    Na inicial, o reclamante alega, em síntese, que o MM. Juiz de Direito da Central de Audiência de Custódia da Comarca do Rio de Janeiro teria mantido-o algemado durante a audiência de custódia realizada no dia 05 de julho de 2018, em ofensa ao disposto na Súmula Vinculante n. 11.
+    Em razão disso, requer a procedência da Reclamação para (a) em sede liminar, relaxar a prisão preventiva do reclamante, mercê da afronta à Súmula Vinculante n. 11; (b) no mérito, anular a audiência de custódia/apresentação, devendo a reclamada realizar novo ato sem o emprego das algemas ou, então, que utilize fundamentação concreta.
+    O pedido liminar, formulado durante o período de Recesso desta CORTE, foi indeferido pela Presidente Min. CÁRMEN LÚCIA.
+    É o relatório.
+    A respeito do cabimento da reclamação para o SUPREMO TRIBUNAL FEDERAL, dispõem o art. 102, I, "l", e o art. 103-A, caput e §3º, ambos da Constituição Federal:
+    Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I - processar e julgar, originariamente:
+    l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;
+    Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei.
+    [...]
+    §3º Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.
+    Veja-se também o art. 988, I, II e III do Código de Processo Civil de 2015:
+    Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I – preservar a competência do tribunal;
+    II – garantir a autoridade das decisões do tribunal;
+    III – garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    O parâmetro invocado é a Súmula Vinculante n. 11, cujo teor é o seguinte:
+    Só é lícito o uso de algemas em casos de resistência e de fundado receio de fuga ou de perigo à integridade física própria ou alheia, por parte do preso ou de terceiros, justificada a excepcionalidade por escrito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade da prisão ou do ato processual a que se refere, sem prejuízo da responsabilidade civil do Estado.
+    Como se observa, o paradigma tido como violado legitima a utilização excepcional de algemas, desde que o ato seja adequadamente fundamentado.
+    No caso concreto, o MM. Juíza de Direito da Central de Audiência de Custódia da Comarca do Rio de Janeiro, na audiência de custódia realizada no dia 05 de julho de 2018, assim se manifestou para indeferir o pleito de retirada das algemas:
+    Justificada a manutenção das algemas no(s) custodiados em virtude da situação recente de flagrância, dimensões da sala de audiências, bem como pela necessidade de preservação da integridade física dos presentes.
+    [...]
+    Desde logo, como apontado nesta assentada acima, indefiro o pedido de retirada de algemas feito pela Defesa, tendo em vista que há justificativa para a manutenção das tais algemas nesta audiência de custódia. Veja que por dever de segurança se impõe que o Magistrado adote tal medida para preservação de todos os presentes, inclusive do próprio custodiado, de seu defensor e dos demais atuantes nesta audiência. Note-se que a situação do flagrante impõe a manutenção das algemas. Impõe-se registrar, ainda, que as salas são diminutas e com intenso tráfego de presos, de molde que um agente da SEAP apenas por sala para fazer a segurança de todos pode não lograr conter eventual situação de risco a que todos ficam submetidos quando exercem seu múnus no interior de um presídio.
+    Nota-se, portanto, que a fundamentação apresentada aponta quais seriam os motivos concretos e peculiares justificadores da eventual utilização das algemas, razão pela qual não há se falar em ofensa à Súmula Vinculante n. 11.
+    No mais, divergir de tal fundamentação demandaria aprofundamento em matéria fático-probatória, o que é inviável em sede de reclamação constitucional. Nesse panorama, deve incidir a jurisprudência pacífica desta CORTE no sentido de que "a via reclamatória não se compatibiliza com o reexame do quadro fático ensejador do uso de algemas, limitando-se a análise desta Corte à aferição da higidez lógico-formal da fundamentação empregada" (Rcl. 25.168 AgR, Rel. Min. EDSON FACHIN, Primeira Turma, DJe de 14/12/2016).
+    Por fim, o fundado receio de perigo à integridade física alheia, ocasionado pelo alto número de réus e pelo número reduzido de policiais para garantir a segurança dos presentes durante a realização de ato judicial, é argumento legítimo para autorizar o excepcional uso de algemas, conforme entendimento deste SUPREMO (Rcl 30.410/SP, Rel. Min. EDSON FACHIN, DJe de 28/06/2018; Rcl 30.802/MT, Rel. Min. LUIZ FUX, DJe de 18/06/2018; Rcl 30.729/MT, Rel. Min. DIAS TOFFOLI, DJe de 13/06/2018; Rcl 19.501 AgR/SP, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 14/03/2018 e Rcl 14.663 AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 13/4/2016), este último assim ementado:
+    AGRAVO REGIMENTAL EM RECLAMAÇÃO. CRIMINAL. USO DE ALGEMAS EM AUDIÊNCIA. ALEGADO DESCUMPRIMENTO DA SÚMULA VINCULANTE 11. SUBSTRATO FÁTICO E JURÍDICO DIVERSO. ESTRITA OBSERVÂNCIA AO ENUNCIADO SUMULAR. IMPROCEDÊNCIA DA RECLAMAÇÃO.
+    1. Inexiste substrato fático ou jurídico capaz de atrair a incidência do enunciado da Súmula Vinculante 11, justificada a excepcionalidade do uso das algemas em audiência ante o fundado receio de perigo à integridade física alheia, ocasionado pelo alto número de réus e reduzida quantidade de policiais para garantir a segurança dos presentes durante a realização do ato. Precedentes.
+    2. Caso de típico de julgamento monocrático, a atrair as disposições constantes no art. 161, parágrafo único, do RISTF, verbis: "O Relator poderá julgar a reclamação quando a matéria for objeto de jurisprudência consolidada do Tribunal."
+    3. Agravo regimental conhecido e não provido.
+    Diante do exposto, com base no art. 21, §1º, do Regimento Interno do Supremo Tribunal Federal, NEGO PROVIMENTO À RECLAMAÇÃO.
+    Publique-se. Intime-se.
+    Brasília, 20 de agosto de 2018.
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
