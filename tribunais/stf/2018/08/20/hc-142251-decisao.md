@@ -1,0 +1,38 @@
+Decisão: Trata-se de habeas corpus com pedido de medida liminar, impetrado por Paulo Sérgio Severiano, em favor de Nathanael Cabral Morais Carlone, contra acórdão proferido pela Quinta Turma do Superior Tribunal de Justiça que não conheceu do HC 370.646/SP (eDOC 7, p. 1-8).
+    Consta dos autos que o paciente foi condenado, em 7.7.2016, à pena de cinco anos e dez meses de reclusão, em regime inicial fechado, pela prática do delito previsto no artigo 33 da Lei 11.343/2006; nessa sentença, negou-se ao réu, ora paciente, o direito de recorrer em liberdade, quando se reconheceu a presença dos pressupostos necessários para garantia da ordem pública e da aplicação da lei penal (eDOC 5, p. 1-12).
+    Inconformada, a defesa impetrou habeas corpus com pedido liminar no TJ/SP, que denegou a ordem, nos termos da ementa a seguir transcrita:
+    “HABEAS CORPUS – tráfico de drogas – Sentença condenatória que negou o direito ao apelo em liberdade – Paciente que respondeu preso ao processo –– Ausência de demonstração de fato novo. Ordem denegada”. (eDOC 6, p. 1-5)
+    Daí a impetração, no STJ, do referido HC 370.646/SP, que restou não conhecido (eDOC 7, p. 1-8).
+    No presente HC, sustenta-se, em síntese, a ocorrência de constrangimento ilegal e ausência de justa causa no decreto de prisão expedido após condenação em primeiro grau.
+    Ao final, a parte impetrante pede, em liminar e no mérito, que o paciente possa recorrer em liberdade (eDOC 1, p. 14-15).
+    Indeferi o pedido de liminar (eDOC 10, p. 1-3).
+    O Ministério Público Federal opinou pelo não conhecimento do writ (eDOC 11, p. 1-5).
+    É o relatório.
+    Decido.
+    Conforme já relatado, a defesa alega, em síntese, a inexistência de motivos ensejadores da prisão cautelar.
+    Nos termos do artigo 312 do CPP, a prisão preventiva pode ser decretada (i) para a garantia da ordem pública ou da ordem econômica, (ii) por conveniência da instrução criminal ou (iii) para assegurar a aplicação da lei penal.
+    No entanto, na linha da jurisprudência deste Tribunal, não basta a mera explicitação textual dos requisitos previstos, sendo necessário que a alegação abstrata ceda à demonstração concreta e firme de que tais condições realizam-se na espécie.
+    Dessa forma, a tarefa de interpretação constitucional, para análise de excepcional situação jurídica de constrição da liberdade, exige que a alusão a esses aspectos esteja lastreada em elementos concretos, devidamente explicitados.
+    Inicialmente, destaco do fundamentado voto do relator do supracitado HC 370.646/SP, do STJ, cujo acórdão ora se impugna:
+    “No caso, o paciente foi preso no curso do processo e permaneceu encarcerado durante toda a instrução criminal. Ao final, foi condenado à pena de 5 anos e 10 meses, no regime inicial fechado, porque no dia 29/01/14 guardava e tinha em depósito na sua residência 42 porções de cocaína em pó (20,6g), 172,2g de crack e 3,9g de maconha (e-STJ fl. 57, grifei).
+    O Magistrado sentenciante declinou os seguintes motivos para negar ao réu o direito de recorrer em liberdade (e-STJ fl. 42):
+    Nega-se recurso em liberdade.
+    Prisão do réu para garantia da ordem pública.
+    O réu foi condenado por prática de crime de natureza grave, hediondo, em REGIME FECHADO. Tal infração, agora já reconhecida pelo juiz a quo (é certo, sujeita a recurso), por certo abalou a ordem pública estabelecida, sendo certo que, se solto, poderá o réu vir a praticar outras infrações como a que hoje já foi condenado. Demais disso, é afeto à pratica delitos, inclusive com violência à pessoa, tendo personalidade voltada para o crime (fls. 167).
+    O Tribunal impetrado, por sua vez, reafirmou a necessidade de manter a prisão cautelar. Confira-se:
+    A nobre Autoridade apontada como Coatora muito bem fundamentou a necessidade da prisão cautelar, demonstrando os elementos autorizadores da medida e ainda ressaltando que o paciente é afeto à prática de delitos, inclusive com violência à pessoa, tendo personalidade voltada para o crime (fls. 42).
+    Com efeito, a periculosidade do agente, aferida a partir de informações que comprovem a perseverança do agente na senda delitiva, como registros de crimes graves anteriores, é fundamento idôneo para decretação da prisão cautelar para a garantia da ordem pública como forma de afastar o risco de o acusado voltar a cometer novos crimes. Em outras palavras, A garantia da ordem pública, para fazer cessar a reiteração criminosa, é fundamento suficiente para a decretação e manutenção da prisão preventiva (RHC n. 55.992/SP, Relator Ministro JORGE MUSSI, QUINTA TURMA, julgado em 19/03/2015, DJe 16/04/2015).
+    Na espécie, a medida constritiva da liberdade foi mantida pelo Tribunal impetrado em razão do efetivo risco de reiterar em práticas delitivas, porquanto é afeto à prática de delitos, inclusive com violência à pessoa (teria sido condenado por crime de roubo. Portanto, ao contrário do que alega a defesa, o Nathanael ostenta maus antecedentes, conforme reconhecido na sentença, na primeira fase da dosimetria da pena.
+    Assim, entendo que a prisão preventiva do ora recorrente está devidamente justificada para a garantia da ordem pública, com base no art. 312 do CPP”. (eDOC 7, p. 5-6)
+    Por oportuno, destaco precedentes desta Corte, no sentido de ser idônea a prisão decretada para resguardo da ordem pública, considerada a gravidade concreta do crime e porque devidamente fundamentada (HC 139.159/CE, de minha relatoria, Segunda Turma, DJe 16.2.2017; HC 127.488/SP, de minha relatoria, Segunda Turma, DJe 1º.7.2015; HC 131.442/SP, de minha relatoria, Segunda Turma, DJe 21.9.2016); HC 140.427/CE, por mim relatado, decisão monocrática, DJe 15.9.2017; HC 143.475/RS, por mim relatado, decisão monocrática, DJe 30.11.2017 e HC 143.576/BA, por mim relatado, decisão monocrática, DJe 29.11.2017).
+    Assim, da leitura dos autos, verifico que o decreto prisional encontra-se devidamente fundamentado em dados concretos, não apenas na gravidade abstrata do delito.
+    As circunstâncias que justificaram a prisão em apreço, mencionadas na decisão do Juízo a quo e nos acórdãos do TJ/SP e do STJ, conforme visto, autorizam a conclusão pela necessidade da segregação cautelar para garantia da ordem pública e aplicação da lei penal.
+    Vê-se, portanto, que a medida extrema lastreou-se em elementos concretos colhidos dos próprios autos, harmonizando-se a constrição da liberdade do acusado com a jurisprudência do STF.
+    Finalmente, porque pertinente, destaco a ementa da manifestação do do Parquet federal:
+    “PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. INADMISSIBILIDADE DE HC SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CONHECIMENTO. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. PRETENSÃO À LIBERDADE PROVISÓRIA. DESCABIMENTO. PRESENÇA DOS REQUISITOS AUTORIZADORES DA CUSTÓDIA CAUTELAR. PACIENTE COM EVIDENTE ENVOLVIMENTO NO NEFASTO TRÁFICO DE DROGAS E QUE PERMANECEU PRESO DURANTE TODA A INSTRUÇÃO CRIMINAL. APREENSÃO DE SIGNIFICATIVA QUANTIDADE E VARIEDADE DE DROGAS (42 PORÇÕES DE COCAÍNA EM PÓ, PESANDO 20,6 GRAMAS, ALÉM DE 172,2 GRAMAS DE ‘CRACK’ E 3,9 GRAMAS DE MACONHA), SENDO DUAS DELAS DE ELEVADO PODER DESTRUTIVO E VICIANTE. PACIENTE, INCLUSIVE, QUE JÁ FOI CONDENADO POR ROUBO. POSSIBILIDADE CONCRETA DE REITERAÇÃO DELITIVA. CUSTÓDIA CAUTELAR FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. PARECER PELO NÃO CONHECIMENTO DO WRIT”.
+    Diante do exposto, ausente constrangimento ilegal a ser sanado, denego a presente ordem de habeas corpus, com fundamento no artigo 192, caput, do RI/STF.
+    Publique-se.
+    Brasília, 20 de agosto de 2018.
+Ministro Gilmar Mendes
+Relator
+                 Documento assinado digitalmente
