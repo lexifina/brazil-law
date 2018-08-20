@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “DESAPROPRIAÇÃO - Imissão na posse – Levantamento parcial do depósito efetuado pela expropriante, a título de indenização provisória - Indeferimento pelo juízo de origem, ao argumento de que seria necessário aguardar o julgamento do agravo retido interposto pela Fazenda do Estado, no qual se discute a exigibilidade de indenizar o fundo de comércio - Inadmissibilidade - Matéria já debatida em anterior recurso, restando preclusa - Aplicabilidade dos arts. 33 e 34 do Dec-lei 3.365/41 - Levantamento que se condiciona à comprovação de titularidade e de quitação de débitos fiscais, bem como ao próprio deferimento da imissão na posse - Exigência que retira à imissão o caráter de gratuidade, inexistindo motivo jurídico para postergar o levantamento - Falta de comprovação, nos autos, do adimplemento das exigências do art. 34, Dec-lei 3.365/41 - Devolução da questão ao juízo a quo, afastado o óbice invocado - Decisão reformada. LITIGÂNCIA DE MÁ-FÉ - Discussão, no bojo do agravo retido, de matéria já preclusa - Sede que se mostra inadequada para o debate, porquanto deverá ser dirimida no recurso no qual se teria configurada a conduta desleal - Não conhecimento – Recurso parcialmente provido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal.
+    Constata-se que foi proferida sentença de mérito nos autos principais (Processo nº 0126812-50.2008.8.26.0053). Desse modo, ante a substituição do acórdão recorrido pela mencionada sentença, o recurso extraordinário está prejudicado, por perda superveniente de objeto. Veja-se, a propósito, o ARE 762.613-ED, Rel. Min. Ricardo Lewandowski, assim ementado:
+    “EMBARGOS DE DECLARAÇÃO OPOSTOS DE DECISÃO MONOCRÁTICA. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO INTERPOSTO CONTRA ACÓRDÃO QUE CONCEDE TUTELA ANTECIPADA. PROLAÇÃO DE SENTENÇA. PREJUDICIALIDADE DO RECURSO. AGRAVO A QUE SE NEGA PROVIMENTO.
+    I – Proferida sentença no processo principal, perde o objeto o recurso extraordinário interposto de acórdão que, ao julgar agravo de instrumento, mantém decisão que concede tutela antecipada. É que a decisão recorrida extraordinariamente foi substituída pela sentença, o que impõe o reconhecimento da prejudicialidade do recurso. Precedentes.
+    II – Agravo regimental a que se nega provimento.”
+    Diante do exposto, e com base no art. 21, IX, do RI/STF, julgo prejudicado o recurso.
+    Publique-se.
+          Brasília, 20 de agosto de 2018.
+Ministro Luís Roberto Barroso
+Relator
