@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Espírito Santo , assim ementado:
+    “PROCESSO CIVIL – APELAÇÃO CÍVEL – MANDADO DE SEGURANÇA – ADMINISTRATIVO – PREVIDENCIÁRIO – SERVIDOR PÚBLICO – VALORES RECEBIDOS POR FORÇA TUTELA ANTECIPADA POSTERIORMENTE REVOGADA EM SEGUNDO GRAU DE JURISDIÇÃO – CARÁTER PRECÁRIO – RESTITUIÇÃO DEVIDA AO ERÁRIO – AUSÊNCIA DE DIREITO ADQUIRIDO E BOA-FÉ – RECURSO CONHECIDO E DESPROVIDO – SENTENÇA MANTIDA.
+    1 – Hipótese em que os valores foram pagos por força de decisão judicial precária, sendo a mesma posteriormente reformada em segundo grau de jurisdição.
+    2 – Em tais casos, conforme jurisprudência do STJ, não há que se falar em direito adquirido aos valores percebidos ou ainda boa-fé por parte do administrado, uma vez que a Administração em momento nenhum gerou-lhe falsa expectativa de definitividade quanto ao direito pleiteado.
+    3 – Recurso conhecido e desprovido. Sentença mantida.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição. A parte recorrente alega violação ao art. 37, XI, da CF. Defende a desnecessidade de devolução dos valores recebidos em excesso, de boa-fé, por força do que foi decidido no RE 606.358.
+    O recurso não merece acolhimento, tendo em vista que o Tribunal de origem assentou que “o pagamento das parcelas que extrapolam o teto remuneratório, efetivado por força de decisão precária, não confere ao apelante o direito adquirido sobre as mesmas, notadamente ante a ausência de boa-fé, uma vez que, conforme acima consignado, a Administração em momento nenhum gerou-lhe falsa expectativa de definitividade quanto ao direito pleiteado.” Dissentir dessa conclusão exigiria o reexame de fatos e provas constantes dos autos, o que não cabe neste momento processual, conforme a Súmula 279/STF.
+    Ademais, o Supremo Tribunal Federal assentou a ausência de repercussão geral da questão ora debatida. Nessa linha, veja-se a ementa do ARE 722.421-RG (tema 799), julgado sob a relatoria do Ministro Presidente, à época Min. Ricardo Lewandowski:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO E PROCESSUAL CIVIL. VALORES RECEBIDOS EM VIRTUDE DE CONCESSÃO DE ANTECIPAÇÃO DE TUTELA POSTERIORMENTE REVOGADA. DEVOLUÇÃO. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO. REPERCUSSÃO GERAL. INEXISTÊNCIA. I – O exame da questão constitucional não prescinde da prévia análise de normas infraconstitucionais, o que afasta a possibilidade de reconhecimento do requisito constitucional da repercussão geral. II – Repercussão geral inexistente.”
+    Diante do exposto, com base no art. 932, IV e VII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência.
+    Publique-se.
+          Brasília, 20 de agosto de 2018.
+Ministro Luís Roberto Barroso
+Relator
