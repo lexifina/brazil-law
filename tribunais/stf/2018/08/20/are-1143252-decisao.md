@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão de turma recursal estadual, assim ementado:
+    “Ação de cobrança - prova da hipossuficiência econômica - assistência judiciária gratuita concedida - I contratação temporária para exercício de auxiliar de serviços de educação básica 1- efetivação pela Lei Complementar Estadual n. 100/07 - inconstitucionalidade reconhecida pelo STF na AOI 4.876 - inexistência de direito aos recolhimentos do Fundo de Garantia por Tempo de Serviço - inaplicabilidade do art. 19-A da Lei n. 8.036/90 - vínculo de natureza jurídico-administrativa, não celetista sentença mantida pelos próprios fundamentos recurso não provido.” (eDOC 2, p. 128)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a” e “c”, da Constituição Federal, aponta-se violação ao art. 37, IX e § 2º, do texto constitucional.
+    Nas razões recursais, afirma-se, em síntese, que a admissão da recorrente teria ocorrido fora das hipóteses previstas para a contratação temporária, o que tornaria imperiosa a submissão ao sistema do FGTS.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, anoto que o acórdão recorrido não declarou inconstitucionalidade de tratado ou lei federal, nem julgou válida lei ou ato de governo local contestado em face da Constituição Federal. Desse modo, incabível a interposição do recurso extraordinário pela alínea c do inciso III do artigo 102 da Constituição Federal.
+    No caso, verifico que o Tribunal de origem, com base nas provas dos autos, consignou que ante a necessidade excepcional e temporária de servidores, não haveria nulidade na contratação administrativa, e sim na posterior efetivação realizada Lei Complementar nº 100/2007. Nesse sentido, extrai-se o seguinte trecho da sentença, confirmada pelos seus próprios fundamentos pelo acórdão impugnado:
+    “Como cediço, o Supremo Tribunal Federal, no julgamento da Ação Direta de Inconstitucionalidade nº 4.876/DF, reconheceu a inconstitucionalidade dos incisos I, lI, IV e V, do art. 70 da Lei Complementar Estadual nº 100 de 2007, os quais tornaram titulares de cargo efetivo servidores que ingressaram na Administração Pública sem concurso público, como é o caso da parte autora.
+    Consequentemente, o vínculo dos aludidos servidores com a Administração Pública tornou-se nulo, haja vista que o ato que os efetivou foi desfeito.
+    Entretanto, consoante entendimento dominante do e. TJMG, por mais que a hipótese se aproxime do disposto no artigo 19-A, da Lei Federal nº 8.036/1990, haja vista a nulidade da contratação em virtude da ausência de prévio concurso público, com ela não se confunde.
+    Isso porque alguns dos servidores efetivados pela LC nº 100/2007, dentre os quais se inclui a parte autora, em verdade, foram inicialmente designados, em caráter excepcional e temporário, para substituírem servidores impedidos, enquanto durasse esse impedimento, ou, nos casos de cargo vago, exclusivamente até haver provimento definitivo, desde que comprovada a necessidade.
+    Destarte, tem-se que a natureza da relação jurídica estabelecida entre as partes é tipicamente jurídico-administrativa e não celetista, sendo certo que a declaração de inconstitucionalidade da LC nº. 100/2007, por ofensa ao art. 37, inciso II, da Constituição Federal, não tem o condão de alterar referida natureza.” (eDOC 2, p. 14)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. CONTRATAÇÃO TEMPORÁRIA. FGTS. AUSÊNCIA DE NULIDADE NO CONTRATO. SÚMULA 279/STF. 1. A solução da controvérsia pressupõe, necessariamente, o reexame dos fatos e do material probatório constantes dos autos (Súmula 279/STF), o que torna inviável o processamento do recurso extraordinário.” (RE 967.539 AgR, rel. Min. Roberto Barroso, Primeira Turma, DJe 17.3.2017)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONTRATO TEMPORÁRIO. FGTS. LEI 8.036/1990 E LEI ESTADUAL 10.254/1990. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA INDIRETA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 279 E 280 DO STF. HONORÁRIOS ADVOCATÍCIOS MAJORADOS. AGRAVO A QUE SE NEGA PROVIMENTO.” (RE 965.893 AgR, rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 8.5.2017)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do NCPC c/c art. 21, §1º, do RISTF) e majoro o valor da verba honorária fixada pela origem em 10%, observadas as disposições relativas à gratuidade de Justiça.
+    Publique-se.
+    Brasília, 20 de agosto de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
