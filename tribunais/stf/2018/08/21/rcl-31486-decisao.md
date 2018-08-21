@@ -1,0 +1,19 @@
+Decisão
+    Trata-se de reclamação proposta Vanildo da Luz, na qual se alega a inobservância, pelo juízo de origem, de precedentes desta SUPREMA CORTE versando sobre o direito líquido e certo de extensão, aos servidores inativos, do aumento concedidos a funcionários da ativa, em razão da paridade.
+    A parte reclamante sublinha que as Leis Complementares 610, 613 e 614 do Estado de Santa Catarina instituíram gratificação, a título de verba indenizatória, pelo Regime Especial de Trabalho Policial Civil, proibindo, entretanto, sua extensão aos aposentados e pensionistas.
+    Assevera ainda que (i) o mandado de segurança impetrado contra essa determinação legal não obteve êxito nas instâncias a quo; (ii) e o Tribunal de justiça catarinense contraria os termos do REs 590.260 e 596.962, julgados sob o rito da repercussão geral nesta CORTE.
+    Assim, requer seja julgada procedente a reclamação para que sejam observadas as orientações do STF a respeito da matéria.
+    É o relatório. Decido.
+    A reclamação deve ser indeferida desde logo.
+    Efetivamente, esse instrumental não é sucedâneo recursal ou atalho processual para postular diretamente no STF a observação de precedentes vinculantes, e sem que o juízo de origem tenha examinado e decidido expressamente sobre a incidência da tese do leading case ao caso singular, sob o risco de não esgotar as instâncias recursais ordinárias (art. 988, § 5º, do CPC). Nesse sentido:
+    “Embargos de declaração em reclamação. 2. Decisão monocrática. Embargos de declaração recebidos como agravo regimental. 3. Inexistência de novos elementos aptos a infirmar ou elidir a decisão agravada. 4. A adequação da decisão reclamada não é passível de reapreciação na via estreita da reclamação, a qual pressupõe usurpação da competência do Supremo ou o desrespeito a decisão proferida pelo Tribunal. No caso, nenhum dos dois fenômenos ocorreu. 5. Recurso extraordinário. Requisito de admissibilidade. Causa decidida em última ou única instância. Inexistência. Não exaurimento das instâncias ordinárias. 6. Agravo regimental a que se nega provimento.” (Rcl 11.362-ED, Rel. Min. GILMAR MENDES, Tribunal Pleno, DJe de 29/6/2012).
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. CRIMINAL. ALEGADO DESRESPEITO À EFICÁCIA VINCULANTE DECORRENTE DO JULGAMENTO DA ADI 4.424 E DA ADC 19. QUEIXA-CRIME. EXERCÍCIO ARBITRÁRIO DAS PRÓPRIAS RAZÕES. ART. 345 DO CÓDIGO PENAL. EXTINÇÃO DA PUNIBILIDADE. SUBSTRATO FÁTICO E JURÍDICO DIVERSO. NÃO CONFIGURAÇÃO DAS HIPÓTESES DE CABIMENTO DA RECLAMAÇÃO. 1. O ato reclamado não é abrangido pelo entendimento adotado por esta Corte Suprema nos autos da ADI 4.424 e da ADC 19, uma vez que o delito, objeto da Queixa-Crime, diz com o art. 345 do Código Penal exercício arbitrário das próprias razões, matéria estranha ao que se discutiu nos paradigmas invocados. 2. A jurisprudência desta Suprema Corte se consolidou no sentido de que a reclamação não se apresenta como sucedâneo de recursos ou ações cabíveis, sendo inviável o seu manejo como um atalho processual. Precedentes. 3. Agravo regimental conhecido e não provido.” (Rcl 15.162- AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 12/4/2016) (g.n.)
+    Por fim, ressalte-se a interposição do Agravo em Recurso Extraordinário contra a decisão reclamada, após o juízo reclamado inadmitir o Recurso Extraordinário, sendo determinada a remessa dos autos a esta CORTE, os quais foram a mim distribuído.
+    Em 3/8/2018 foi publicada a decisão na qual neguei seguimento ao Agravo em Recurso Extraordinário (ARE 1.148.299).
+    Assim, o devido processo legal foi devidamente observado na espécie.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO À RECLAMAÇÃO.
+    Publique-se.
+    Brasília, 21 de agosto de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
