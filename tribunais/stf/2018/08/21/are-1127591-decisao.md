@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — INTERPRETAÇÃO DE NORMAS LEGAIS — INVIABILIDADE — DESPROVIMENTO DO AGRAVO.
+    1. A Turma Recursal confirmou o entendimento do Juízo quanto à condenação do réu pela prática do crime de desacato, previsto no artigo 331 do Código Penal. No extraordinário cujo trânsito pretende alcançar, o recorrente aponta a violação dos artigos 5º, incisos IV e IX, e 37, cabeça, da Constituição Federal. Articula com a inconstitucionalidade do referido preceito, tendo-o como contrário à liberdade de expressão. Sustenta a atipicidade da conduta.
+    2. Colho do acórdão recorrido o seguinte trecho:
+    Inicialmente, quanto à tese de que a conduta descrita no artigo 331, do Código Penal, viola aos comandos contidos no artigo 13, da Convenção Americana de Direitos Humanos, bem como no artigo 5º, IV e IX e artigo 37, caput, ambos da Constituição Federal, esta não merece prosperar. O escopo do referido tratado é preservar o direito a livre manifestação de opiniões, particularmente àquelas que possam ser considerados inconvenientes a um regime político, por se referirem a atos praticados por agentes públicos específicos, conservando, desta maneira, a possibilidade de controle por parte da população dos atos do Estado. Tal garantia é, sem sombra de dúvida, elementar para a subsistência de um Estado democrático de direito.
+    Todavia, a ofensa gratuita e injuriosa praticada contra o funcionário público não está amparada pelo referido tratado, tampouco pela garantia constitucional da liberdade de expressão. A liberdade de expressão, ainda que um direito de todos, não pode ser usada como defesa para a prática de um crime que tutela um bem tão importante, que é o respeito ao funcionário público, um representante que busca garantir a consecução do interesse público.
+    Ressalte-se que não há direitos absolutos em nossa República, desse modo, assim como o cidadão possui o direito de manifestar e expressar nos moldes do documento internacional seu inconformismo contra o governo ou funcionário público dentro dos limites aceitáveis e eticamente adequados para os padrões de uma sociedade, o funcionário público também possui o direito de não ser achincalhado e menosprezado no exercício da sua função ou em razão dela.
+    O crime de desacato, como sabido, é formal, não exigindo resultado naturalístico, e se consuma com o ato ou a palavra ofensiva, não havendo, assim, falar em prova da materialidade.
+    Pela prova dos autos, restou incontestado o fato de que o episódio ocorreu em meio à ação dos Policiais Militares quando estes últimos abordaram o denunciado, que se encontrava com um pedação de madeira nas mãos incitando os moradores da comunidade.
+    Já a existência e a autoria do fato ficaram evidenciadas pela prova oral carreada aos autos, e que corrobora os elementos indiciários colhidos na fase policial.
+    O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Consoante com a jurisprudência do Supremo, o artigo 13 da Convenção Americana de Direitos Humanos equivale a norma supralegal, porquanto não observa o rito do artigo 5º, § 3º, da Constituição Federal, sendo inviável a respectiva análise.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 21 de agosto de 2018.
+Ministro MARCO AURÉLIO
+Relator
