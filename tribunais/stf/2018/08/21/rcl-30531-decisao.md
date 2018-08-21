@@ -1,0 +1,26 @@
+Decisão
+    Trata-se de reclamação contra decisão proferida pela 1ª Turma do Tribunal Regional do Trabalho da 23ª Região, a qual teria desrespeitado o decidido na ADI 3.395-MC (Rel. Min. CEZAR PELUSO) ao suscitar conflito negativo de competência e encaminhar os autos ao Superior Tribunal de Justiça.
+    Na inicial, o reclamante alega, em síntese, que o TRT-23 aplicou equivocadamente o entendimento firmado na ADI 3395. Requer, ao final, “seja garantida a autoridade da decisão deste Excelso Supremo Tribunal Federal no sentido de vedar toda e qualquer interpretação que extrapole os limites hermenêuticos delineados no julgamento da ADI 3395-6 de relatoria do Exmo. Ministro Cesar Peluso” (fl. 11).
+    Nos termos do art. 52, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, dispenso a remessa dos autos à Procuradoria-Geral da República.
+    É o relatório. Decido.
+    A respeito do cabimento da reclamação para o Supremo Tribunal Federal, dispõem os artigos 102, I, l, e art. 103-A, caput e § 3º, ambos da Constituição Federal:
+    Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I - processar e julgar, originariamente:
+    l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;
+    Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei.
+    § 3º Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.
+    Veja-se também o art. 988, I, II e III, do Código de Processo Civil de 2015:
+    Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    O paradigma de confronto invocado é o decidido na ADI 3.395-MC (Rel. Min. CEZAR PELUSO), que reconheceu a incompetência da Justiça Trabalhista para o julgamento das causas envolvendo o Poder Público e seus servidores, vinculados por relação estatutária ou de caráter jurídico-administrativo, realizando interpretação conforme para restringir o alcance do inciso I do art. 114 da Constituição Federal, com redação dada pela EC 45/2004.
+    No caso, são insubsistentes os argumentos suscitados na inicial. É que o ato reclamado não produziu resultado vedado por esta CORTE, razão pela qual não descumpriu, tampouco aplicou indevidamente a ADI 3.395-MC (Rel. Min. CEZAR PELUSO). Em verdade, o TRT da 23ª Região suscitou o conflito negativo de competência em julgado assim ementado:
+    COBRANÇA DE CONTRIBUIÇÕES SINDICAIS. LIDE ENVOLVENDO REPRESENTAÇÃO SINDICAL DE SERVIDORES PÚBLICOS ESTATUTÁRIOS. INCOMPETÊNCIA DA JUSTIÇA DO TRABALHO. DECLARAÇÃO DE OFÍCIO. CONFLITO DE COMPETÊNCIA SUSCITADO. O entendimento consagrado na Súmula n. 7 deste Tribunal Regional é no sentido de que as causas que envolvam interesses de servidores públicos sujeitos ao regime estatutário e seus entes representativos não são de competência da Justiça do Trabalho, por força da decisão proferida pelo excelso STF nos autos da ADI 3395- DF, com efeito erga omnes. Sendo esse o caso que se delineia nos autos, impõe-se a declaração, de ofício, da incompetência da Justiça Laboral para apreciar e julgar o presente feito, e, tendo em vista que o TJMT declinou da sua competência para esta especializada, faz-se necessário suscitar o conflito negativo de competência e remeter os autos à apreciação do Col. STJ, em razão do que dispõe o art. 105, I, "d", da CR/88.
+    Dessa forma, uma vez suscitado o conflito negativo de competência, caberá ao Superior Tribunal de Justiça solucionar o conflito, sob pena de esvaziar a competência constitucional expressa no art. 105, I, "d" , da CF/88. Além de desvirtuar, claramente, a destinação constitucional do instituto da reclamação, pois o remédio constitucional da reclamação não pode ser utilizado como um (inadmissível) atalho processual destinado a permitir, por razões de caráter meramente pragmático, a submissão imediata do litígio ao exame direto do Supremo Tribunal Federal” (Rcl 4.381 AgR, Rel. Min. CELSO DE MELLO, Tribunal Pleno, julgado em 22/6/2011).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO À RECLAMAÇÃO.
+    Publique-se.
+    Brasília, 21 de agosto de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
