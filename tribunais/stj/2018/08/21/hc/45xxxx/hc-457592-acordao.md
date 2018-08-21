@@ -1,0 +1,118 @@
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. ARTS. 297 E 304, AMBOS DO CÓDIGO PENAL. PRISÃO CAUTELAR. REITERAÇÃO DELITIVA. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. ORDEM DENEGADA.
+1. A prisão processual deve ser configurada no caso de situações extremas, em meio a dados sopesados da experiência concreta, porquanto o instrumento posto a cargo da jurisdição reclama, antes de tudo, o respeito à liberdade.
+2. Não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, diante da periculosidade do paciente, evidenciada pela possibilidade de reiteração delitiva. In casu, mencionou o magistrado singular a existência de "certidão de antecedentes acostada aos autos, que dá conta de que se trata de indivíduo reincidente e que ainda ostenta condenação provisória". Tal fato também foi registrado pelo Tribunal de origem, ao assentar que se trata "de indivíduo reincidente em crime doloso, que possui condenação definitiva pela prática dos ilícitos de porte ilegal de arma de fogo de uso permitido e tráfico de entorpecentes (..), e uma provisória, pela prática do crime de porte ilegal de arma de fogo de uso restrito (..)". Esses elementos conferem lastro de legitimidade à medida extrema. Precedentes.
+3. Quanto à alegação de que o paciente "possui dois filhos menores de idade que dependem de seu sustento", trata-se de questão não apreciada pelo Tribunal de origem, o que impede o seu conhecimento por esta Corte Superior, sob pena de indevida supressão de instância. Precedentes.
+4. "Impossível asseverar ofensa ao "princípio da homogeneidade das medidas cautelares" em relação à possível condenação que o paciente experimentará, findo o processo que a prisão visa resguardar. Em habeas corpus não há como concluir a quantidade de pena que eventualmente poderá ser imposta, menos ainda se iniciará o cumprimento da reprimenda em regime diverso do fechado" (RHC 74.203/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/09/2016, DJe 27/09/2016).
+5. Ordem denegada.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça: A Sexta Turma, por unanimidade, denegou a ordem de habeas corpus, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Nefi Cordeiro e Antonio Saldanha Palheiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+MINISTRA MARIA THEREZA DE ASSIS MOURA (Relatora):
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul (HC n.º [CPF]).
+Segundo consta dos autos, o Magistrado de primeiro grau, em 20.02.2018, converteu a prisão em flagrante do paciente em preventiva, em razão da suposta prática dos crimes previstos nos artigos 297 e 304, ambos do Código Penal, nos seguintes termos (fls. 61/62):
+Trata-se de Auto de Prisão em Flagrante pela prática, em tese, dos delitos de falsificação de documento público e uso de documento falso (artigos 297 e 304, ambos do Código Penal), figurando como flagrado [NOME] [NOME] [NOME].
+Ciente do presente Auto de Prisão em Flagrante, observo que foram obedecidos os pressupostos legais e as exigências constitucionais.
+Também observo que está caracterizada a situação de flagrância, nos moldes do artigo 302, inciso I, do Código de Processo Penal.
+Assim, impõe-se a homologação do flagrante.
+Outrossim, tenho que a prisão em flagrante deve ser convertida em preventiva, conforme autoriza o artigo 310, inciso II, do Código de Processo Penal.
+Há prova material do fato delituoso, tendo em vista a apreensão, em poder do flagrado, de uma Carteira Nacional de Habilitação e de uma Carteira de Identidade, ambas em nome de [NOME], por quem o preso tentou se passar.
+Os indícios de autoria, por sua vez, decorrem da própria situação de flagrância, mas, igualmente, das declarações dos policiais que efetuaram o flagrante, os quais ressaltaram que, abordado em via pública e conduzido até a Delegacia de Polícia desta Cidade, porque havia mandado de prisão civil pendente de cumprimento em desfavor de [NOME], o flagrado apresentou os documentos falsos, sendo descoberta sua verdadeira identidade pela SUSEPE quando chegou ao Instituto Miguel Dario, em Porto Alegre/RS, onde seria recolhido.
+Por outro lado, não há comprovação de que o flagrado possua residência fixa e trabalho lícito, razão pela qual a prisão é mantida neste momento, pois sua soltura poderá prejudicar a instrução ao não ser localizado para citação e frustrar a aplicação da Lei Penal ao se evadir para local incerto e não sabido.
+Também vislumbro concreto risco à ordem pública com a soltura imediata do flagrado, porquanto, afora a gravidade concreta da conduta por ele encetada, diante da certidão de antecedentes acostada aos autos, que dá conta de que se trata de indivíduo reincidente e que ainda ostenta condenação provisória, possível que, retornando ao convívio social, reitere no ilícito.
+Nesse sentido, as medidas cautelares diversas da constrição física cautelar não se mostram adequada e suficientes para conter o flagrado, devendo ser decretada em seu desfavor a medida extrema.
+Impõe-se, pois, a homologação do flagrante e a conversão da prisão em flagrante em preventiva, com o conseqüente indeferimento do pedido de liberdade formulado pela Defensoria Pública.
+Inconformada, a defesa impetrou prévio writ perante a Corte de origem, cuja ordem foi denegada em aresto assim sumariado (fl. 132):
+HABEAS CORPUS. FALSA IDENTIDADE, FALSIFICAÇÃO DE DOCUMENTO PÚBLICO E USO DE DOCUMENTO FALSO. PACIENTE PRESO EM FLAGRANTE. AUTO HOMOLOGADO, COM POSTERIOR DECRETAÇÃO DE PREVENTIVA. PRESENÇA DOS REQUISITOS AUTORIZADORES. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. NECESSIDADE DA CUSTÓDIA DEMONSTRADA. ORDEM DENEGADA.
+Nas razões do writ, a defesa sustenta, em síntese, que, não obstante a reincidência do paciente, não estão presentes os requisitos autorizadores da prisão preventiva, previstos no art. 312 do Código de Processo Penal.
+Assinala, ainda, que "o somatório das penas previstas para os delitos imputados, em caso de condenação, não ultrapassará quatro anos de reclusão, cujo regime a ser fixado será o aberto, quiçá o semiaberto. Nas duas hipóteses, a prisão preventiva imposta ao paciente neste momento, a partir de meros indícios de autoria, se mostra desproporcional. Não se pode impor segregação provisória em regime mais gravoso daquele que eventualmente poderá  sic  imposto, após o devido processo legal e sentença condenatória" (fl. 5).
+Requer, pois, a revogação da custódia.
+Indeferida a liminar durante as férias forenses e prestadas informações, o Ministério Público Federal manifestou-se às fls. 184/185.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. ARTS. 297 E 304, AMBOS DO CÓDIGO PENAL. PRISÃO CAUTELAR. REITERAÇÃO DELITIVA. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. ORDEM DENEGADA.
+1. A prisão processual deve ser configurada no caso de situações extremas, em meio a dados sopesados da experiência concreta, porquanto o instrumento posto a cargo da jurisdição reclama, antes de tudo, o respeito à liberdade.
+2. Não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, diante da periculosidade do paciente, evidenciada pela possibilidade de reiteração delitiva. In casu, mencionou o magistrado singular a existência de "certidão de antecedentes acostada aos autos, que dá conta de que se trata de indivíduo reincidente e que ainda ostenta condenação provisória". Tal fato também foi registrado pelo Tribunal de origem, ao assentar que se trata "de indivíduo reincidente em crime doloso, que possui condenação definitiva pela prática dos ilícitos de porte ilegal de arma de fogo de uso permitido e tráfico de entorpecentes (..), e uma provisória, pela prática do crime de porte ilegal de arma de fogo de uso restrito (..)". Esses elementos conferem lastro de legitimidade à medida extrema. Precedentes.
+3. Quanto à alegação de que o paciente "possui dois filhos menores de idade que dependem de seu sustento", trata-se de questão não apreciada pelo Tribunal de origem, o que impede o seu conhecimento por esta Corte Superior, sob pena de indevida supressão de instância. Precedentes.
+4. "Impossível asseverar ofensa ao "princípio da homogeneidade das medidas cautelares" em relação à possível condenação que o paciente experimentará, findo o processo que a prisão visa resguardar. Em habeas corpus não há como concluir a quantidade de pena que eventualmente poderá ser imposta, menos ainda se iniciará o cumprimento da reprimenda em regime diverso do fechado" (RHC 74.203/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/09/2016, DJe 27/09/2016).
+5. Ordem denegada.
+VOTO
+MINISTRA MARIA THEREZA DE ASSIS MOURA (Relatora):
+Busca-se no presente writ a liberdade do paciente, sob o argumento de ausência de fundamentação idônea para a custódia cautelar.
+Conforme reiterada jurisprudência desta Corte Superior de Justiça, toda custódia cautelar imposta antes do trânsito em julgado de sentença penal condenatória exige concreta fundamentação, nos termos do disposto no art. 312 do Código de Processo Penal.
+É de ver que, no processo penal de cariz democrático, a liberdade é a regra, a qual deve ser prestigiada diuturnamente. Outro não foi o norte assinado na recente Lei n.º 12.403/2011, relativa às medidas cautelares penais, verbis:
+"Art. 282. As medidas cautelares previstas neste Título deverão ser aplicadas observando-se a:
+(..)
+II - adequação da medida à gravidade do crime, circunstâncias do fato e condições pessoais do indiciado ou acusado.
+§ 1º As medidas cautelares poderão ser aplicadas isolada ou cumulativamente.
+(..)
+§ 4º No caso de descumprimento de qualquer das obrigações impostas, o juiz, de ofício ou mediante requerimento do Ministério Público, de seu assistente ou do querelante, poderá substituir a medida, impor outra em cumulação, ou, em último caso, decretar a prisão preventiva (art. 312, parágrafo único).
+(..)
+§ 6º A prisão preventiva será determinada quando não for cabível a sua substituição por outra medida cautelar (art. 319)." (NR)
+(..)
+Art. 310. Ao receber o auto de prisão em flagrante, o juiz deverá fundamentadamente:
+I - relaxar a prisão ilegal; ou
+II - converter a prisão em flagrante em preventiva, quando presentes os requisitos constantes do art. 312 deste Código, e se revelarem inadequadas ou insuficientes as medidas cautelares diversas da prisão; ou
+III - conceder liberdade provisória, com ou sem fiança.
+Parágrafo único. Se o juiz verificar, pelo auto de prisão em flagrante, que o agente praticou o fato nas condições constantes dos incisos I a III do caput do art. 23 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, poderá, fundamentadamente, conceder ao acusado liberdade provisória, mediante termo de comparecimento a todos os atos processuais, sob pena de revogação." (NR)
+A prisão preventiva, em decisão proferida em 20.02.2018, foi decretada, no que interessa, consoante a seguinte fundamentação (fls. 61/62 - grifei):
+Há prova material do fato delituoso, tendo em vista a apreensão, em poder do flagrado, de uma Carteira Nacional de Habilitação e de uma Carteira de Identidade, ambas em nome de [NOME], por quem o preso tentou se passar.
+Os indícios de autoria, por sua vez, decorrem da própria situação de flagrância, mas, igualmente, das declarações dos policiais que efetuaram o flagrante, os quais ressaltaram que, abordado em via pública e conduzido até a Delegacia de Polícia desta Cidade, porque havia mandado de prisão civil pendente de cumprimento em desfavor de [NOME], o flagrado apresentou os documentos falsos, sendo descoberta sua verdadeira identidade pela SUSEPE quando chegou ao Instituto Miguel Dario, em Porto Alegre/RS, onde seria recolhido.
+Por outro lado, não há comprovação de que o flagrado possua residência fixa e trabalho lícito, razão pela qual a prisão é mantida neste momento, pois sua soltura poderá prejudicar a instrução ao não ser localizado para citação e frustrar a aplicação da Lei Penal ao se evadir para local incerto e não sabido.
+Também vislumbro concreto risco à ordem pública com a soltura imediata do flagrado, porquanto, afora a gravidade concreta da conduta por ele encetada, diante da certidão de antecedentes acostada aos autos, que dá conta de que se trata de indivíduo reincidente e que ainda ostenta condenação provisória, possível que, retornando ao convívio social, reitere no ilícito.
+Nesse sentido, as medidas cautelares diversas da constrição física cautelar não se mostram adequada e suficientes para conter o flagrado, devendo ser decretada em seu desfavor a medida extrema.
+Impõe-se, pois, a homologação do flagrante e a conversão da prisão em flagrante em preventiva, com o consequente indeferimento do pedido de liberdade formulado pela Defensoria Pública.
+Por sua vez, o Tribunal de origem, ao examinar o writ ali manejado, na data de 19.04.2018, manteve a referida decisão em acórdão, no que interessa, assim fundamentado (fls. 136/137 - grifei):
+Os delitos foram perpetrados enquanto o paciente se encontrava foragido do sistema prisional, tendo em seu desfavor mandado de prisão expedido, fato este que autoriza concluir que sua soltura representa ameaça à ordem pública, não sendo suficiente, portanto, a aplicação de medidas cautelares diversas da constrição.
+Além disso, trata-se de indivíduo reincidente em crime doloso, que possui condenação definitiva pela prática dos ilícitos de porte ilegal de arma de fogo de uso permitido e tráfico de entorpecentes (processo nº 001/2.07.0009573-0), e uma provisória, pela prática do crime de porte ilegal de arma de fogo de uso restrito (processo nº 086/2.15.0001574-5). Além disso, as penas somadas dos delitos a ele imputados ultrapassam 04 anos de privação de liberdade.
+Tudo, a meu sentir, converge para a conclusão de que, caso solto, ele possa vir a praticar novo delito, o que torna impositiva sua segregação, para garantir a ordem pública.
+Da leitura atenta dos autos, verifico que não é o caso de revogação da custódia cautelar, decretada para o resguardo da ordem pública, diante da periculosidade do paciente, evidenciada pela possibilidade de reiteração delitiva.
+Com efeito, mencionou o Magistrado singular a existência de "certidão de antecedentes acostada aos autos, que dá conta de que se trata de indivíduo reincidente e que ainda ostenta condenação provisória" (fl. 62).
+Tal fato também foi registrado pelo Tribunal a quo, ao assentar que se trata "de indivíduo reincidente em crime doloso, que possui condenação definitiva pela prática dos ilícitos de porte ilegal de arma de fogo de uso permitido e tráfico de entorpecentes (..), e uma provisória, pela prática do crime de porte ilegal de arma de fogo de uso restrito (..)" (fl. 136).
+Pontuou-se, ainda, na decisão que indeferiu o pedido de revogação da prisão preventiva, datada de 13.06.2018, que "o acusado está, novamente, foragido do sistema prisional (já o estava quando preso em flagrante pelos crimes apurados nestes autos), havendo informação de que se evadiu em 21/02/2018, isto é, dois dias após sua prisão, em 19/02/2018, o que apenas reforça a conclusão por sua periculosidade e total desrespeito a ordens judiciais, pondo em cheque a credibilidade do judiciário" (fl. 116).
+Registre-se que, nessa ocasião, o magistrado determinou nova expedição de mandado de prisão em desfavor do réu, "devendo ser cadastrado no Banco Nacional de Mandados de Prisão do CNJ, constando "pendente de cumprimento", haja vista a notícia de que está foragido" (fl. 116).
+Desse modo, a periculosidade do increpado é evidente e confere lastro de legitimidade à medida extrema.
+Ao que se me afigura, portanto, debruçando-me sobre o caso em concreto, a prisão preventiva se sustenta, porque nitidamente vinculada a elementos de cautelaridade.
+Dessarte, estando a prisão provisória lastreada em elementos concretos colhidos dos próprios autos, não há imputar qualquer ilegalidade à custódia. Nesse sentido, confiram-se estes julgados:
+HABEAS CORPUS. IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. FURTO TENTADO. PEDIDO DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. RÉU QUE ALÉM DE SER REINCIDENTE, RESPONDE A OUTRAS DIVERSAS AÇÕES PENAIS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. RISCO DE REITERAÇÃO. NECESSIDADE DA PRISÃO PARA GARANTIA DA ORDEM PÚBLICA. SEGREGAÇÃO JUSTIFICADA. HABEAS CORPUS NÃO CONHECIDO.
+(..)
+5. No presente caso, a prisão preventiva está devidamente justificada para a garantia da ordem pública, em razão da periculosidade do agente, evidenciada pelo efetivo risco de voltar a cometer delitos, porquanto o paciente é reincidente por tráfico de entorpecentes, além de possuir diversos outros registros criminais. A prisão preventiva, portanto, mostra-se indispensável para garantir a ordem pública.
+6. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando evidenciada a sua insuficiência para acautelar a ordem pública.
+7. Habeas corpus não conhecido.
+(HC 445.414/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 07/06/2018, DJe 15/06/2018)
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ART. 297 DO CÓDIGO PENAL. PRISÃO CAUTELAR. REITERAÇÃO DELITIVA. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. RECURSO A QUE SE NEGA PROVIMENTO.
+1. A prisão processual deve ser configurada no caso de situações extremas, em meio a dados sopesados da experiência concreta, porquanto o instrumento posto a cargo da jurisdição reclama, antes de tudo, o respeito à liberdade.
+2. Não é ilegal o encarceramento cautelar decretado para o resguardo da ordem pública, diante da periculosidade do recorrente, evidenciada pela possibilidade de reiteração delitiva. Na dicção do magistrado a quo, o acusado adotou modus operandi similar ao por ele também utilizado na operação "quatro rodas", "apresentando sua FAC registros de condenações firmes anteriores, que revela a sua contumácia no envolvimento de empreitadas criminosas, assentada na sua reincidência", circunstâncias que conferem lastro de legitimidade à medida extrema.
+3. Recurso a que se nega provimento.
+(RHC 84.242/MG, de minha relatoria, SEXTA TURMA, julgado em 20/06/2017, DJe 26/06/2017)
+PROCESSUAL PENAL E PENAL. RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE ENTORPECENTES. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. RESISTÊNCIA. FUNDAMENTAÇÃO CONCRETA. EXCESSO DE PRAZO. NÃO CONFIGURAÇÃO. ILEGALIDADE. AUSÊNCIA. RECURSO EM HABEAS CORPUS IMPROVIDO.
+1. Apresentada fundamentação concreta para a decretação da prisão preventiva, evidenciada na periculosidade do acusado consistente na reiteração delitiva em face da presença de antecedentes criminais do paciente asseverando o magistrado de piso, ainda, que é relevante apontar que o flagrado ostenta duas condenações por furto e roubo majorado, além de responder a quatro processos, demonstrando reiteração criminosa, não há que se falar em ilegalidade a justificar a concessão da ordem de habeas corpus.
+2. A aferição da razoabilidade da duração do processo não se efetiva de forma meramente aritmética. Nesta perspectiva, não se verifica ilegalidade quando o andamento processual encontra-se compatível com as particularidades da causa, não se tributando, pois, aos órgãos estatais indevida letargia.
+3. Recurso em habeas corpus improvido.
+(RHC 78.479/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 14/03/2017, DJe 22/03/2017)
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. ART. 304 C/C ART. 297, AMBOS DO CÓDIGO PENAL. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO PRISIONAL. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. REITERAÇÃO DELITIVA. PACIENTE CONTUMAZ NA PRÁTICA DELITIVA. CONDENAÇÃO ANTERIOR. MAUS ANTECEDENTES. HABEAS CORPUS NÃO CONHECIDO.
+(..)
+IV - Na hipótese, o decreto prisional encontra-se devidamente fundamentado em dados extraídos dos autos, notadamente os maus antecedentes do paciente, que já fora condenado anteriormente por porte de arma e tráfico de entorpecente, circunstâncias aptas a justificar a imposição da segregação cautelar em virtude do fundado receio de reiteração delitiva. (Precedentes do STF e do STJ).
+(..)
+Habeas Corpus não conhecido.
+(HC 344.313/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/04/2016, DJe 14/04/2016)
+Quanto à alegação de que o paciente "possui dois filhos menores de idade que dependem de seu sustento" (fl. 6), trata-se de questão não apreciada pelo Tribunal de origem, o que impede o seu conhecimento por esta Corte Superior, sob pena de indevida supressão de instância.
+Nesse sentido:
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. CONDENAÇÃO. PRISÃO EM FLAGRANTE CONVERTIDA EM PRISÃO PREVENTIVA. NEGATIVA DE RECORRER EM LIBERDADE. REINCIDÊNCIA ESPECÍFICA. FUNDAMENTAÇÃO IDÔNEA.
+1. O tema referente à concessão de prisão domiciliar por ter a paciente filhos menores não foi tratado pela instância a quo, situação configuradora de supressão de instância, que impede o conhecimento do habeas corpus nesta parte.
+(..)
+5. Ordem parcialmente conhecida e, nessa extensão, denegada.
+(HC 441.702/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 12/06/2018, DJe 26/06/2018)
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. ASSOCIAÇÃO PARA O TRÁFICO. CORRUPÇÃO DE MENORES. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO DELITIVA. PEDIDO DE PRISÃO DOMICILIAR. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS NÃO CONHECIDO.
+(..)
+VIII - O pedido relativo a prisão domiciliar em razão da "companheira do paciente está com 34 (trinta e quatro) semanas de gestação, além do paciente possuir outros dois filhos menores com a companheira [NOME]" sequer foi apreciado perante o eg. Tribunal de origem, razão pela qual fica impossibilitada esta Corte de proceder a tal análise, sob pena de indevida supressão de instância.
+Habeas corpus não conhecido.
+(HC 441.556/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 24/04/2018, DJe 02/05/2018)
+HABEAS CORPUS. EXECUÇÃO. PRESCRIÇÃO. SUPRESSÃO DE INSTÂNCIA. PENAS RESTRITIVAS DE DIREITOS. INTIMAÇÃO PARA O INÍCIO DO CUMPRIMENTO. SENTENCIADO NÃO LOCALIZADO NOS ENDEREÇOS INFORMADOS NOS AUTOS. CONVERSÃO EM PENA PRIVATIVA DE LIBERDADE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. REGRESSÃO SIMULTÂNEA À CONVERSÃO. IMPOSSIBILIDADE. ORDEM PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, CONCEDIDA EM PARTE.
+1. A ausência de manifestação do tribunal de origem sobre o tema suscitado na impetração impede sua cognição por esta Corte, sob pena de indevida supressão de instância.
+(..)
+5. Ordem parcialmente conhecida e, nessa extensão, concedida em parte apenas para afastar a regressão cautelar de regime imposta ao paciente.
+(HC 405.529/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/10/2017, DJe 16/10/2017 - grifos acrescidos).
+Por fim, "impossível asseverar ofensa ao "princípio da homogeneidade das medidas cautelares" em relação à possível condenação que o paciente experimentará, findo o processo que a prisão visa resguardar. Em habeas corpus não há como concluir a quantidade de pena que eventualmente poderá ser imposta, menos ainda se iniciará o cumprimento da reprimenda em regime diverso do fechado" (RHC 74.203/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/09/2016, DJe 27/09/2016).
+Ante o exposto, denego a ordem.
+É como voto.
