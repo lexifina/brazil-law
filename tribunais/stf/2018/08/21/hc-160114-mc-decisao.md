@@ -1,0 +1,21 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO PREVENTIVA – PRAZO – EXCESSO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+RECURSO EM HABEAS CORPUS – SUPERIOR TRIBUNAL DE JUSTIÇA – PREJUÍZO – AUSÊNCIA.
+    1. O assessor Dr. Gustavo Mascarenhas Lacerda Pedrina prestou as seguintes informações:
+    O Juízo do Cartório do Plantão Judiciário 4 – Duque de Caxias e Adjacências – da Comarca do Rio de Janeiro/RJ, no processo nº 0026788-32.2017.8.19.0008, converteu em preventiva a prisão em flagrante do paciente, ocorrida no dia 27 de outubro de 2017, ante a suposta prática da infração prevista no artigo 16, parágrafo único, inciso IV (porte ilegal de arma de fogo de uso restrito com numeração suprimida), da Lei nº 10.826/2003. Sublinhou a apreensão de 1 arma de fogo, marca Taurus, modelo 809, calibre 9 milímetros, com 15 munições de mesmo calibre. Frisou necessária a custódia para garantir a ordem pública, aludindo à periculosidade do paciente, salientando tratar-se de chefe de organização voltada ao tráfico de entorpecentes. Disse existir investigação policial apontando estar envolvido em crime de homicídio. Destacou risco de fuga a frustar eventual cumprimento de pena privativa de liberdade.
+    Chegou-se ao Superior Tribunal de Justiça com o recurso em habeas corpus nº 94.558/RJ, o qual teve a liminar indeferida.
+    O impetrante aduz o excesso de prazo da prisão a perdurar desde o dia 27 de outubro de 2017. Ressalta encerrada a instrução criminal e ausente trânsito em julgado de sentença penal condenatória. Articula com os princípios da não culpabilidade e da dignidade da pessoa humana. Argui a inidoneidade da fundamentação do ato mediante o qual determinada a preventiva, afirmando-o lastreado na gravidade abstrata do delito.
+    Requer, no campo precário e efêmero, a revogação da preventiva e, sucessivamente, a imposição de cautelar diversa descrita no artigo 319 do Código de Processo Penal, sem especificá-la. No mérito, pretende a confirmação da providência.
+    Consulta ao sítio do Tribunal estadual, no dia 20 de agosto de 2018, revelou o recebimento da denúncia pelo Juízo da Vara Criminal da Comarca de Magé/RJ, pendente a realização de diligências.
+    A etapa é de apreciação da medida de urgência.
+    2. A prisão em flagrante pelo crime de porte ilegal de arma de uso restrito com numeração raspada, em contexto no qual apontada a participação do paciente em organização voltada ao tráfico de entorpecentes, indica estar em jogo a preservação da ordem pública. Sem prejuízo do princípio da não culpabilidade, a custódia se impunha, considerada a periculosidade, ao menos sinalizada. Daí ter-se como razoável e conveniente o pronunciamento atacado. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    Ocorre que está preso, sem culpa formada, desde 27 de outubro de 2017, ou seja, há 9 meses e 24 dias. Surge o excesso de prazo. A preventiva deve ser balizada no tempo. Privar da liberdade, por período desproporcional, pessoa cuja responsabilidade penal não foi declarada em definitivo viola o princípio da não culpabilidade. Concluir pela manutenção da medida é autorizar a transmutação do ato por meio do qual implementada, em execução antecipada da sanção, ignorando-se garantia constitucional.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não se encontre recolhido por motivo diverso da prisão preventiva retratada no processo nº 0026788-32.2017.8.19.0008, do Cartório do Plantão Judiciário 4 – Duque de Caxias e Adjacências – da Comarca do Rio de Janeiro/RJ. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. O curso desta impetração não prejudica o recurso em habeas corpus nº 94.558, formalizado no Superior Tribunal de Justiça. Remetam cópia da decisão, com as homenagens merecidas, ao relator, ministro Sebastião Reis Júnior.
+    6. Colham o parecer da Procuradoria-Geral da República.
+    7. Publiquem.
+Brasília, 21 de agosto de 2018.
+Ministro MARCO AURÉLIO
+Relator
