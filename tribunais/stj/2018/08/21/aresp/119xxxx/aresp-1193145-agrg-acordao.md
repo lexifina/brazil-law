@@ -1,0 +1,43 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. ABSOLVIÇÃO. REVOLVIMENTO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. PENA-BASE. MAUS ANTECEDENTES. QUANTUM DE DIMINUIÇÃO PELA TENTATIVA. PROPORCIONAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. As instâncias ordinárias, após minuciosa análise do acervo fático-probatório, entenderam devidamente comprovadas a autoria e a materialidade do crime de roubo circunstanciado pelo concurso de agentes que foi imputado ao réu, notadamente com base na prova oral colhida. Para decidir de modo diverso, é necessário reexaminar provas e dirimir controvérsia fática, providências não admitidas no recurso especial, a teor da Súmula n. 7 do STJ.
+2. A exasperação da pena-base foi realizada de maneira fundamentada e proporcional, diante da valoração negativa dos maus antecedentes do acusado, que possui, em seu desfavor, sentença condenatória com trânsito em julgado.
+3. O Tribunal a quo, ao analisar os fatos e as provas coligidos aos autos, entendeu como adequada a redução da reprimenda na fração de 1/2, embasada pelo iter criminis percorrido pelo agente, critério adotado por esta Corte Superior. Precedentes.
+4. Agravo regimental não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro, Maria Thereza de Assis Moura e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+MIRANILDO SILVA SANTOS agrava de decisão em que conheci do agravo para não conhecer do recurso especial.
+Neste regimental, a defesa repisa os argumentos do especial, no tocante à fragilidade de provas para a condenação, bem como à dosimetria da pena.
+Requer a reconsideração do decisum agravado ou a submissão do feito ao órgão colegiado, para que seja dado provimento ao recurso especial.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. ABSOLVIÇÃO. REVOLVIMENTO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. PENA-BASE. MAUS ANTECEDENTES. QUANTUM DE DIMINUIÇÃO PELA TENTATIVA. PROPORCIONAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. As instâncias ordinárias, após minuciosa análise do acervo fático-probatório, entenderam devidamente comprovadas a autoria e a materialidade do crime de roubo circunstanciado pelo concurso de agentes que foi imputado ao réu, notadamente com base na prova oral colhida. Para decidir de modo diverso, é necessário reexaminar provas e dirimir controvérsia fática, providências não admitidas no recurso especial, a teor da Súmula n. 7 do STJ.
+2. A exasperação da pena-base foi realizada de maneira fundamentada e proporcional, diante da valoração negativa dos maus antecedentes do acusado, que possui, em seu desfavor, sentença condenatória com trânsito em julgado.
+3. O Tribunal a quo, ao analisar os fatos e as provas coligidos aos autos, entendeu como adequada a redução da reprimenda na fração de 1/2, embasada pelo iter criminis percorrido pelo agente, critério adotado por esta Corte Superior. Precedentes.
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Não obstante os esforços perpetrados pelo ora agravante, não constato fundamentos suficientes a infirmar a decisão impugnada, cuja conclusão mantenho.
+Na hipótese, observo que o decisum agravado foi claro ao afirmar que o contexto fático descrito no acórdão prolatado pela instância antecedente era suficiente para justificar a condenação do réu, com base em provas produzidas durante a instrução criminal. Concluiu, também, pela impossibilidade de afastar tal conclusão sem adentrar no acervo probatório. Por fim, confirmou a legalidade da dosimetria. Confira-se (fls. 425-427):
+O Juízo monocrático condenou o agravante pela prática do roubo majorado pelo concurso de agentes, em sua forma tentada. A Corte de origem confirmou os termos da sentença e, sobre a comprovação do crime, asseverou (fls. 346-347):
+A materialidade e a autoria delitivas restaram induvidosas no conjunto probatório, nos exatos termos da denúncia, através das peças de informação do inquérito policial, declarações da vítima e depoimento de uma testemunha em Juízo.
+ ..
+Por sua vez, as declarações da vítima prestadas em sede de inquérito policial, e confirmadas em Juízo, além do depoimento de uma testemunha policial, que se encontrava presente na ocasião da prisão em flagrante do réu, não deixam dúvidas quanto ao modus operandi da conduta criminosa e a sua autoria.
+Assim, constato que as instâncias ordinárias, após a minuciosa análise do acervo fático-probatório, produzido sob o crivo do contraditório, condenaram o agravante por entenderem devidamente comprovadas a autoria e a materialidade do crime de roubo circunstanciado pelo concurso de agentes que lhe foi imputado, notadamente com base na prova oral colhida.
+Portanto, afastar tal conclusão, para reconhecer a absolvição por insuficiência de provas, tal como pretende o recorrente no especial, demandaria o reexame do acervo fático-probatório do feito, procedimento vedado em recurso especial, por força do Enunciado Sumular de n. 7 do Superior Tribunal de Justiça.
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, no art. 5º, XLVI, da Constituição Federal, e nos arts. 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à reprovação do delito perpetrado.
+Assim, para obter-se uma aplicação justa da lei penal, o julgador, dentro dessa discricionariedade juridicamente vinculada, há de atentar para as singularidades do caso concreto, devendo, na primeira etapa do procedimento trifásico, guiar-se pelas oito circunstâncias relacionadas no caput do art. 59 do Código Penal. São elas: a culpabilidade; os antecedentes; a conduta social; a personalidade do agente; os motivos; as circunstâncias e as consequências do crime e o comportamento da vítima.
+O Juízo monocrático fixou a pena-base do agravante em 5 anos, haja vista a análise desfavorável dos maus antecedentes, pelos seguintes fundamentos (fl. 282):
+O sentenciado Miranildo não agiu com lealdade durante o processo, ao se passar por seu irmão, na tentativa de ludibriar o julgador, ocultando seu passado, que, conforme registro de antecedentes, é maculado com o registro de submissão a diversos processos criminais, tendo inclusive sido sentenciado e condenado em um deles.
+A Corte de origem manteve o aumento e asseverou que "os maus antecedentes criminais do apelante, que possui em seu desfavor sentença condenatória com trânsito em julgado pela prática de crime, autorizam o estabelecimento da pena-base acima do mínimo legal" (fl. 350).
+No tocante à proporcionalidade do montante de aumento, ressalto que a jurisprudência uníssona das Turmas que compõem a Terceira Seção entende que cabe ao magistrado, dentro do seu livre convencimento e de acordo com as peculiaridades do caso concreto, decidir o quantum de exasperação da pena-base, em observância aos princípios da razoabilidade e da proporcionalidade.
+Assim, reputo proporcional e fundamentada a pena-base estabelecida ao agravante, diante da valoração negativa de uma circunstância judicial - 1 ano acima do mínimo legal -, se considerados os patamares mínimo e máximo previstos para o tipo penal que incide na espécie - de 4 a 10 anos de reclusão.
+ ..
+O Juízo monocrático, no que foi corroborado pela Corte de origem, aplicou o redutor relativo à tentativa na fração de 1/2, pois "os bens foram transferidos para a posse dos autores do fato, mesmo que por poucos instantes, o que denota que quase todas as etapas da execução do tipo foram exauridas" (fl. 283).
+Dessa forma, no tocante à diminuição de pena pretendida, constato que as instâncias ordinárias, ao analisar os fatos e as provas coligidos aos autos, entenderam como adequada a redução da reprimenda na fração de 1/2, embasada pelo iter criminis percorrido pelo agente.
+Portanto, alterar o percentual de diminuição da pena adotado demandaria a incursão no caderno probatório dos autos, o que atrai à espécie, a incidência do Enunciado n. 7 do Superior Tribunal de Justiça. Ilustrativamente:
+Portanto, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
