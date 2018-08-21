@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 3ª Região que julgou improcedente pedido de revisão de benefício previdenciário, com aplicação dos novos tetos estabelecidos pelas Emendas Constitucionais nºs 20/1998 e 41/2003.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, caput, e 93, IX, da CF, bem como aos arts. 14 da EC 20/1998 e 5º da EC 41/2003.
+    O Tribunal de origem, ao exercer o juízo de retratação de que tratam os arts. 543-B, § 3º, do CPC/1973, então vigente, decidiu manter a decisão anterior, em acórdão cuja ementa é a seguinte:
+    “CONSTITUCIONAL. PREVIDENCIÁRIO. ADEQUAÇÃO DE BENEFÍCIO AOS TETOS FIXADOS PELAS EMENDAS CONSTITUCIONAIS 20/98 E 41/2003. PRECEDENTE DO STF (REPERCUSSÃO GERAL): RE 564.354/SE. BENEFÍCIO CONCEDIDO ANTES DA PROMULGAÇÃO DA CONSTITUIÇÃO DE 1988. RENDA MENSAL INICIAL E SALÁRIO DE BENEFÍCIO CALCULADOS SEGUNDO SISTEMÁTICA VIGENTE (ANTIGA CLPS). REVISÃO INDEVIDA. ACÓRDÃO MANTIDO. JUÍZO DE RETRATAÇÃO NEGATIVO.
+    1 - Nos termos do quanto decidido no Recurso Extraordinário nº 564.354/SE, julgado sob o instituto da repercussão geral, as regras estabelecidas no artigo 14 da Emenda Constitucional nº 20/98 e no artigo 5º da Emenda Constitucional nº 41/03 têm aplicação imediata sobre todos os benefícios previdenciários limitados ao teto na ocasião de sua concessão.
+    2 - A renda mensal dos beneplácitos conferidos na vigência do Decreto nº 77.077/76 (antiga CLPS) enfrentava dois fatores de limitação (artigo 28). Observância da sistemática vigente, com os limitadores então aplicados.
+    3 - Os benefícios concedidos antes da Constituição Federal de 1988 possuíam uma forma de cálculo peculiar, a qual não previa um valor único limitador e consignava que, na hipótese do salário-de-benefício suplantar o menor-valor teto, o excedente não era desconsiderado, mas utilizado para aferição de uma segunda parcela.
+    4 - O menor e o maior-valor teto equivaliam a 10 (dez) e 20 (vinte) salários mínimos, respectivamente, sendo corrigidos de acordo com os índices da política salarial da época (Lei nº 6.205/75), e, após a edição da Lei nº 6.708/79, pelo INPC - Índice Nacional de Preços ao Consumidor.
+    5 - As Emendas Constitucionais nº 20/98 e nº 41/2003 fixaram novos limitadores máximos para os salários-de-benefício (R$1.200,00 e R$2.400,00, respectivamente), que equivaliam exatamente a 10 (dez) salários mínimos vigentes à época, logo, inferiores ao maior valor-teto aplicado aos benefícios em comento.
+    6 - Os segurados que ostentavam salários-de-contribuição, no período básico de cálculo, superiores aos 10 (dez) salários mínimos da época, não sofriam corte, mas sim tinham os seus benefícios calculados mediante a somatória de duas parcelas, sendo que a 2ª parcela atuava na reposição dos valores excedentes de contribuição, recompondo o seu valor originário.
+    7 - Não obstante o julgamento do RE nº 564.354/SE, pelo Supremo Tribunal Federal, não se há de aplicar a alteração dos limites máximos dos salários-de-benefícios, introduzidos por Emendas Constitucionais, ao caso, eis que tais alterações não têm o condão, por óbvio, de lhe alcançar, sendo de rigor a manutenção do decreto de improcedência.
+    8 - Juízo de retratação negativo.”
+    O recurso extraordinário é inadmissível. O Plenário do Supremo Tribunal Federal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes).
+    Ademais, a solução da controvérsia pressupõe, necessariamente, a análise da legislação infraconstitucional aplicada e o reexame dos fatos e do material probatório contantes dos autos (Súmula 279/STF), o que torna inviável o processamento do recurso extraordinário.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego provimento ao recurso.
+    Publique-se.
+          Brasília, 21 de agosto de 2018.
+Ministro Luís Roberto Barroso
+Relator
