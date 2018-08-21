@@ -1,0 +1,22 @@
+DECISÃO
+PENA-BASE – CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS.
+PENA – REGIME DE CUMPRIMENTO – ARTIGO 33, PARÁGRAFOS 2º e 3º, DO CÓDIGO PENAL.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Quinta Vara Federal Criminal de São Paulo, no processo nº 0001272-86.2003.403.6181, condenou o paciente a 8 anos de reclusão, em regime inicial fechado, e ao pagamento de 40 dias-multa, em virtude da prática da infração descrita no artigo 337, cabeça (subtração ou inutilização de livro ou documento), consubstanciada no extravio de processos judiciais, por quatro vezes, na forma do artigo 69 (concurso material), do Código Penal. Na dosimetria da pena, destacou ausentes circunstâncias judiciais negativas, fixando a pena-base no mínimo legal, considerado o piso de 2 anos e teto de 5. Assentou inexistentes atenuantes e agravantes, bem assim causas de diminuição ou aumento. Teve presente a regra do concurso material. Embargos declaratórios foram providos para, sanando erro material, afastar a multa aplicada, uma vez não prevista no preceito secundário do tipo.
+    A Primeira Turma do Tribunal Regional Federal da 3ª Região proveu parcialmente apelações interpostas pela defesa e pelo Ministério Público Federal. Assentou desfavorável a circunstância judicial alusiva às consequências da infração, levando em conta que a subtração dos processos, concernentes a execuções fiscais, comprometeu a celeridade, a prestação jurisdicional e a sociedade. Exasperou a pena-base em 6 meses e, em seguida, reconheceu configurada a continuidade delitiva, observando-a na fração de 2/3. Redimensionou a sanção para 4 anos e 2 meses, mantido o regime inicial fechado, aludindo ao artigo 33, § 3º, do Código Penal. Recurso especial formalizado pela defesa teve a sequência obstada. Protocolado o agravo nº 828.341/SP, o Relator no Superior dele não conheceu. Operou-se o trânsito em julgado em 31 de março de 2016.
+    No Superior Tribunal de Justiça, seguiu-se a formalização do habeas corpus nº 450.368/SP, voltado contra o acórdão referente à apelação. O Relator inadmitiu-o.
+    O impetrante sustenta erronia na fixação da pena-base acima do mínimo legal. Aduz inadequada a consideração negativa das consequências, dizendo-as irrelevantes e inerentes ao tipo penal. Aponta ausentes fundamentos para a imposição do regime de cumprimento mais gravoso, reportando-se aos verbetes nº 718 e nº 719 da Súmula do Supremo. Diz atendidos os requisitos para o implemento do semiaberto. Salienta as condições subjetivas favoráveis e o fato de a conduta ter ocorrido há 16 anos.
+    Requer, no campo precário e efêmero, a colocação do paciente em liberdade até o julgamento final desta impetração, expedindo-se alvará de soltura. No mérito, busca seja a pena-base estabelecida no mínimo legal e o regime semiaberto.
+    Consoante documento juntado pelo impetrante, o paciente deu entrada na Cadeia Pública de Peruíbe, para o início do cumprimento da pena, em 24 de abril último.
+    A fase é de exame da medida acauteladora.
+    2. O Tribunal fixou a pena-base em 2 anos e 6 meses, patamar acima do mínimo previsto para o tipo, considerado o piso de 2 anos e teto de 5. Consignou desfavoráveis as circunstâncias judiciais, aludindo às consequências da infração, considerada a paralisação processual de execuções de dívidas tributárias, a impactar a sociedade, detentora mediata dos recursos fiscais, e da prestação jurisdicional célere. A dosimetria resolve-se, em regra, no campo do justo ou injusto. Difícil é o pronunciamento judicial a encerrar ilegalidade.
+    Quanto à alegação de haverem sido levados em conta elementos constitutivos do crime para a ponderação de circunstância judicial, inexiste ilegalidade. Para o tipo são previstas pena mínima e máxima, e a definição da adequada ocorre considerados os dados específicos da prática delitiva.
+    No que concerne ao regime de cumprimento, atentem para a disciplina legal. Norteia-o o patamar alusivo à condenação e as circunstâncias judiciais – artigo 33, parágrafos 2º e 3º, do Código Penal. Estas foram valoradas negativamente. Ante a pena aplicada – 4 anos e 2 meses –, descabe agasalhar o que articulado.
+    O habeas corpus pressupõe a configuração de ilegalidade e, observadas as premissas referidas, esta não surge.
+    4. Indefiro a liminar.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 21 de agosto de 2018.
+Ministro MARCO AURÉLIO
+Relator
