@@ -1,0 +1,20 @@
+DECISÃO
+AUTUAÇÃO – RETIFICAÇÃO.
+PRISÃO PREVENTIVA – PRAZO – EXCESSO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Juízo da Primeira Vara Criminal da Comarca de Gravataí/RS, no processo nº 015/2.16.0002613-2, converteu em preventivas as prisões em flagrante dos pacientes, ocorridas em 4 de abril de 2016, ante o suposto cometimento das infrações descritas nos artigos 33, cabeça (tráfico de drogas), e 35, cabeça (associação para o tráfico), da Lei nº 11.343/2006; 180 (receptação) e 311 (adulteração de sinal identificador de veículo automotor) do Código Penal; 14 (porte ilegal de arma de fogo de uso permitido) e 16 (posse ou porte ilegal de arma de fogo de uso restrito) da Lei nº 10.823/2003. Destacou a existência de prova da materialidade e indícios de autoria dos delitos, reportando-se à quantidade de substâncias apreendidas na mochila de Carlos William Santos de Morais – 687 pedras de crack –, no veículo e na residência de William Rocha da Silva – 302 pedras de crack, 120 cápsulas de cocaína, 2 pedaços de maconha, 1 carregador e munições, 2 aparelhos celulares, além de motocicleta e automóvel com sinais de adulteração e caderno contendo anotações alusivas a armas e munições. Frisou indispensável a custódia para garantir a ordem pública, aludindo à gravidade das infrações e ao fato de Carlos possuir registros criminais pela prática de tráfico de drogas e porte de arma de fogo de uso restrito. Afastou a viabilidade de medida cautelar diversa.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 458.173/RS. A Ministra Presidente indeferiu a liminar.
+    O impetrante sustenta o excesso de prazo da prisão, a perdurar por mais de 2 anos e 3 meses, sem que encerrada a instrução criminal. Aponta agendada audiência de interrogatório do paciente Carlos William para o dia 15 de agosto de 2018. Articula com a ofensa ao princípio da duração razoável do processo. Cita precedentes do Supremo acerca da ilegalidade da projeção no tempo da custódia provisória.
+    Requer, no campo precário e efêmero, a revogação das preventivas. Busca, alfim, a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça, em 20 de agosto de 2018, revelou a redesignação da audiência para o próximo dia 27 de setembro, às 16h15.
+    No Superior Tribunal de Justiça, o Relator julgou prejudicado o habeas, consignando a superveniência da análise de mérito da impetração formalizada no Tribunal estadual.
+    A fase é de exame da medida acauteladora.
+    2. Retifiquem a autuação para fazer constar, como órgão coator, o Relator do habeas corpus nº 458.173/RS no Superior Tribunal de Justiça.
+     3. Os pacientes estão presos, sem culpa formada, desde o dia 4 de abril de 2016, ou seja, há 2 anos, 4 meses e 17 dias. Surge o excesso de prazo considerada a custódia provisória e o estágio do processo-crime, porquanto sequer encerrada a instrução. A preventiva deve ser balizada no tempo. Privar da liberdade, por período desproporcional, pessoa cuja responsabilidade penal não foi declarada em definitivo viola o princípio da não culpabilidade. Concluir pela manutenção da medida é autorizar a transmutação do ato mediante o qual implementada, em cumprimento antecipado da sanção, ignorando-se garantia constitucional.
+    4. Defiro a liminar. Expeçam alvarás de soltura a serem cumpridos com as cautelas próprias: caso os pacientes Carlos William Santos de Morais e William Rocha da Silva não se encontrem recolhidos por motivo diverso da prisão preventiva retratada no processo nº 015/2.16.0002613-2, da Primeira Vara Criminal da Comarca de Gravataí/RS. Advirtam-nos da necessidade de permanecerem com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informarem eventual transferência e de adotarem a postura que se aguarda do cidadão integrado à sociedade.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 21 de agosto de 2018.
+Ministro MARCO AURÉLIO
+Relator
