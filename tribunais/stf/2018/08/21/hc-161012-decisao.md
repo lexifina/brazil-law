@@ -1,0 +1,20 @@
+Trata-se de habeas corpus impetrado em favor de Vanderley de Oliveira contra decisão do Ministro Reynaldo Soares da Fonseca do Superior Tribunal de Justiça - STJ, que não conheceu de pedido de reconsideração no HC 464.124/SP.
+    Segundo o Ministro Relator do STJ,
+    “[e]xtrai-se dos autos que o paciente foi condenado à pena de 4 anos e 8 meses de reclusão, em regime inicialmente fechado, pela prática do delito tipificado no art. 155, § 4º, incisos I, II e IV do Código Penal. Foi indeferido o direito de recorrer em liberdade.
+    Contra a decisão, a defesa impetrou a ordem originária, cuja liminar foi indeferida pelo Desembargador Relator (e-STJ fl. 29).
+    No presente writ, a defesa alega que a prisão do paciente seria um ‘ato totalmente arbitrário e sem provas’ (e-STJ fl. 9), uma vez que fundado na sua suposta evasão do complexo judiciário, o que não seria verdade – ele apenas teria ido no banheiro. Destaca que a prisão mostra-se mais gravosa que a eventual pena a ser aplicada.
+    Requer, em liminar e no mérito, a superação do enunciado n. 691 para que seja deferido ao paciente o direito de recorrer em liberdade, se for o caso com a aplicação de medidas cautelares do art. 319 do Código de Processo Penal” (grifei).
+    Ao analisar o writ, o pedido foi indeferido liminarmente, com aplicação da Súmula 691/STF e “tendo em vista que a sentença definiu o regime de cumprimento da pena do paciente como fechado, resta afastada a alegação de que a prisão seria desproporcional à eventual pena a ser aplicada”.
+    Contra a referida decisão é o presente writ, no qual a defesa sustenta que,
+    “[e]m que pese o digníssimo magistrado haver se pronunciado na sentença quanto à expedição do mandando de prisão em desfavor do paciente VANDERLEI DE OLIVEIRA, é direito do paciente de recorrer em liberdade, enfatizamos que uma suposta negativa do juízo cerceando o direito do mesmo em apelar em liberdade estaria TOTALMENTE CONTRÁRIA AO PRESENTE CASO, até porque o mesmo encontra-se solto por ordem judicial e negativa fundamentada na garantia da aplicação da lei penal e reiteração na prática criminosa não passaria de mera suposição para manutenção ilegal do decreto prisional, eis que o apelante TEM RESIDÊNCIA FIXA e OCUPAÇÃO LÍCITA (documento anexo), compareceu em todos os atos processuais, cumpriu severamente a medida acautelar imposta, comparecendo em juízo bimestralmente, não havendo prejuízo à instrução criminal (a qual já se encerrou), à aplicação da lei penal” (pág. 11 do documento eletrônico 1).
+    Requer, por fim, a concessão da ordem de habeas corpus, superando a Súmula 691/STF, a fim de que o paciente possa aguardar o julgamento da apelação em liberdade.
+    É o relatório. Decido.
+    Como se vê, a presente impetração volta-se contra decisão monocrática do Ministro Reynaldo Soares da Fonseca, que indeferiu liminarmente o pedido de habeas corpus.
+    Ocorre que a Constituição Federal atribui ao Supremo Tribunal Federal a competência para processar e julgar, originariamente, o habeas corpus, quando o coator for Tribunal Superior (art. 102, I, i, da CF/1988).
+    Desse modo, este pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do Supremo Tribunal Federal, descritos no art. 102 da Constituição Federal, que pressupõem seja a coação praticada por Tribunal Superior.
+    Essa foi a orientação firmada pela Segunda Turma, quando do julgamento do HC 119.115/MG, de minha relatoria, ocasião na qual se decidiu que a não interposição de agravo regimental no Superior Tribunal de Justiça e, portanto, a ausência da análise da decisão monocrática pelo seu colegiado, impede o conhecimento do habeas corpus por esta Suprema Corte. Do contrário, permitiria ao jurisdicionado a escolha do Tribunal para conhecer e julgar a sua causa, o que configuraria evidente abuso do direito de recorrer.
+    Isso posto, com base no art. 21, § 1°, do RISTF, nego seguimento a este writ. Prejudicado o exame da liminar.
+    Publique-se.
+    Brasília, 21 de agosto de 2018.
+Ministro Ricardo Lewandowski
+Relator
