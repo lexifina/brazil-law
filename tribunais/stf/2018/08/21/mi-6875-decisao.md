@@ -1,0 +1,17 @@
+DECISÃO
+MANDADO DE INJUNÇÃO – EMPREGADA PÚBLICA MUNICIPAL – LICENÇA POR MOTIVO DE DOENÇA – LEGITIMIDADE PASSIVA – LIMINAR – PRECEDENTES – INVIABILIDADE.
+    1. O assessor Dr. Marcelo Maciel Torres Filho prestou as seguintes informações:
+    Nalcilene Pio de Oliveira, agente comunitária de saúde, e Lorenzo Henrique Oliveira Silva, menor com deficiência múltipla decorrente de microcefalia, buscam suprir omissão legislativa atinente à regulamentação do direito à licença por motivo de doença em pessoa da família, prevista no regime jurídico de servidores estatutários.
+    Consoante aduzem, a primeira é empregada pública vinculada à Prefeitura de Belo Horizonte/MG, sob o regime celetista. Narram que o segundo, filho dela, exige cuidados em tempo integral considerada a enfermidade. Segundo salientam, ante a necessidade de ausentar-se do trabalho, a primeira vem se sujeitando a procedimentos administrativos disciplinares e à ameaça de desligamento do emprego. Ressaltam que formalizaram solicitação administrativa à Secretaria Municipal de Planejamento, Orçamento e Gestão, a qual informou inexistir, sob o regime celetista, licença para acompanhamento de familiar doente.
+    Observam não haver, no Decreto nº 5.452/1943 – Consolidação das Leis do Trabalho –, previsão quanto ao afastamento. Aludem ao artigo 22 da Lei nº 13.146/2015 – Lei Brasileira de Inclusão – (“Art. 22. À pessoa com deficiência internada ou em observação é assegurado o direito a acompanhante ou a atendente pessoal, devendo o órgão ou a instituição de saúde proporcionar condições adequadas para sua permanência em tempo integral”), bem assim à Portaria nº 675/GM do Ministério da Saúde, de 30 de março de 2006. Reportam-se às licenças versadas nos artigos 140 da Lei municipal nº 7.169/1996 e 81, inciso I, da Lei federal nº 8.112/1990. Articulam com os artigos 1º, inciso III, 5º, 6º, 170 e 193 da Constituição Federal.
+    Requerem o deferimento de medida acauteladora e, alfim, da ordem, determinando-se o implemento, no caso, da licença por motivo de doença em pessoa da família, prevista no regime jurídico dos servidores estatutários.
+    O processo é eletrônico e está concluso para análise.
+    2. A impetrante é empregada pública vinculada ao Município de Belo Horizonte/MG, o qual, se julgado procedente o pedido, arcará com os ônus decorrentes da decisão. Cumpre observar o que normalmente se verifica em mandado de segurança, ou seja, a citação do ente como litisconsorte passivo.
+    Quanto ao pedido de concessão de medida acauteladora, reiterados são os pronunciamentos do Supremo no sentido da inviabilidade de antecipar-se, em mandado de injunção, a tutela, ainda que provisória e precária. Precedentes: mandados de injunção nº 283, relator ministro Sepúlveda Pertence, nº 542, relator ministro Celso de Mello, nº 631, relator ministro Ilmar Galvão, nº 636, relator ministro Maurício Corrêa, nº 652, relatora ministra Ellen Gracie, e nº 692, relator ministro Carlos Ayres Britto.
+    3. Indefiro a liminar.
+    4. Solicitem informações aos impetrados. Citem, para conhecimento deste processo, o Município de Belo Horizonte/MG, retificando a autuação. Deem ciência da demanda ao órgão de representação judicial, a teor do artigo 5º da Lei nº 13.300/2016.
+    5. Com as manifestações, colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 21 de agosto de 2018.
+Ministro MARCO AURÉLIO
+Relator
