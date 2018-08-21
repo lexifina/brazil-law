@@ -1,0 +1,25 @@
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CAUTELAR DE ARRESTO. EXTINÇÃO DO PROCESSO. VIOLAÇÃO DO ARTIGO 535. OCORRÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. "Não viola o artigo 557 do CPC a decisão unipessoal que reconsidera decisão anterior, restando intactos os princípios do devido processo legal e da ampla defesa, uma vez que as partes poderão intentar novo agravo interno, o qual, acaso não haja nova retratação, deverá ser submetido ao órgão colegiado competente."(AgRg no AgRg no AgRg no REsp 736.164/RJ, Rel. Min. Francisco Falcão, DJ 4.5.2006, p. 140).
+2. Em razão da omissão e contradição no acórdão que apreciou os embargos de declaração, o recurso especial do agravado foi provido a fim de anular o referido acórdão para que a Corte Estadual se manifeste acerca de questão que poderia ser de relevo para o deslinde da causa, qual seja, o alegado cumprimento parcial do mandado, que não daria início ao prazo previsto no art. 806 do CPC de 1973, e a consequente extinção do processo cautelar.
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, os Ministros da Quarta Turma do Superior Tribunal de Justiça acordam, na conformidade dos votos e das notas taquigráficas, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente), Marco Buzzi e Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Trata-se de agravo interno interposto por [NOME] em face de decisão deste Relator de fls. 322-325, que reconsiderou a decisão de fls. 301-302, e deu provimento ao recurso especial interposto pela agravada a fim de acolher a insurgência relativa ao artigo 535 do CPC/73.
+Nas razões recursais, sustenta a parte agravante: " Não está se falando que o Agravo Interno não poderia ter sido julgado pelo MM. Relator, mas sim que o Recurso Especial deveria ter sido somente admitido, com posterior remessa a julgamento do mérito pela Turma, até porque já tinha sido objeto de dois outros agravos, aos quais foi negado provimento, por entender que não havia ofensa ao artigo 535 do antigo CPC..Outrossim, embora assevere a recorrente de que não foi analisada a omissão suscitada no que tange à inobservância do cumprimento parcial ou não da ação de busca e apreensão, tal tema foi objeto de análise pelo Tribunal de origem, nos seguintes termos, não havendo motivo para que haja nova julgamento.".
+Requer o conhecimento e provimento do presente agravo interno.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CAUTELAR DE ARRESTO. EXTINÇÃO DO PROCESSO. VIOLAÇÃO DO ARTIGO 535. OCORRÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. "Não viola o artigo 557 do CPC a decisão unipessoal que reconsidera decisão anterior, restando intactos os princípios do devido processo legal e da ampla defesa, uma vez que as partes poderão intentar novo agravo interno, o qual, acaso não haja nova retratação, deverá ser submetido ao órgão colegiado competente."(AgRg no AgRg no AgRg no REsp 736.164/RJ, Rel. Min. Francisco Falcão, DJ 4.5.2006, p. 140).
+2. Em razão da omissão e contradição no acórdão que apreciou os embargos de declaração, o recurso especial do agravado foi provido a fim de anular o referido acórdão para que a Corte Estadual se manifeste acerca de questão que poderia ser de relevo para o deslinde da causa, qual seja, o alegado cumprimento parcial do mandado, que não daria início ao prazo previsto no art. 806 do CPC de 1973, e a consequente extinção do processo cautelar.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. Conforme asseverei na decisão monocrática de minha Relatoria (fls. 334-337), "Não viola o artigo 557 do CPC a decisão unipessoal que reconsidera decisão anterior, restando intactos os princípios do devido processo legal e da ampla defesa, uma vez que as partes poderão intentar novo agravo interno, o qual, acaso não haja nova retratação, deverá ser submetido ao órgão colegiado competente."(AgRg no AgRg no AgRg no REsp 736.164/RJ, Rel. Min. Francisco Falcão, DJ 4.5.2006, p. 140).
+3. Não merece reparos a decisão de fls. 322-325, uma vez que houve omissão e contradição no acórdão do Tribunal de origem, que primeiro afirmou que foram localizados 8 (oito) de 15 (quinze) animais, para depois afirmar que a medida foi cumprida em sua integralidade e que, com isso, teria transcorrido o prazo previsto no art. 806 do CPC de 1973.
+Dessa forma, o recurso especial da agravada foi provido a fim de anular o acórdão que apreciou os embargos de declaração para que a Corte Estadual se manifeste acerca de questão que poderia ser de relevo para o deslinde da causa, qual seja, o alegado cumprimento parcial do mandado, que não daria início ao prazo previsto no art. 806 do CPC de 1973, e a consequente extinção do processo cautelar.
+4. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
