@@ -1,0 +1,20 @@
+Trata-se de agravo contra decisão em que se negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “APELAÇÃO CRIME. CRIMES CONTTRA O PATRIMÔNIO. ROUBO MAJORADO PELO EMPREGO DE ARMA.
+    PRELIMINAR. NULIDADE POR CERCEAMENTO DE DEFESA E OFENSA À PARCIALIDADE DO PODER JUDICIÁRIO. REJEIÇÃO.
+    MÉRITO. PROVA. CONDENAÇÃO. SENTENÇA ABSOLUTÓRIA REFORMADA.
+    A materialidade e autoria restaram suficientemente comprovadas pela prova produzida nos autos. O réu negou o cometimento do delito, entretanto, foi reconhecido pela vítima, sem sombra de dúvidas, em seara policial, confirmando o ato pessoalmente em juízo, momento em que apontou o réu com a mesma convicção demonstrada anteriormente, afirmando, ainda, que, naquela oportunidade, teve certeza de que RAFAELLI, mediante grave ameaça, com emprego de arma, adentrou no coletivo em que trabalha como cobrador, exigindo que entregasse seu aparelho celular, relógio e mais uma quantia em dinheiro da empresa, empreendendo fuga na posse dos bens. Da mesma forma, a prova constante dos autos não deixa dúvida acerca do emprego, pelo réu, de uma arma de fogo, o que legitima a aplicação da majorante respectiva, arma cuja perícia não se mostra relevante à configuração do roubo ou ao reconhecimento da causa especial de aumento, se comprovada sua utilização, por outros elementos de prova, conforme precedentes deste órgão fracionário, do STJ e do STF. Condenação que se impõe.
+    PENA. DOSIMETRIA. CONCURSO FORMAL. CONFIGURAÇÃO.
+    A pena base é fixada oito meses acima de seu patamar mínimo legal, de acordo com os vetores do artigo 59 do CP. Na terceira fase, reconhecida a majorante do emprego de arma, a pena foi elevada em 1/3. Em seguida, presente o concurso formal de crimes, tendo em vista que o agente, mediante uma só ação, investiu contra duas vítimas, com patrimônios distintos, praticando, com isso, mais de um crime, conforme narrado na denúncia e corroborado pela prova produzida nos autos, a pena foi recrudescida em 1/6, tornando-se definitiva em 07 (sete) anos, 03 (três) meses e 03 (três) dias de reclusão, cumprida, inicialmente, em regime semiaberto, à vista do art. 33, § 2°, b, do CP. A pena de multa foi fixada em 20 (vinte) dias-multa, no valor unitário mínimo, para cada delito, em simetria com os vetores do art. 59 do CP e situação econômica do réu.
+    REPARAÇÃO DO DANO.
+    Como houve prejuízo às vítimas Jader e à empresa de ônibus, conforme prova oral, e vigente, na época, o art. 387, IV, do CPP, deve ser fixada a indenização, no valor de quatrocentos e oitenta reais.
+    SUSPENSÃO DA EXIGIBILIDADE DO PAGAMENTO DAS CUSTAS, COM BASE NO ART. 98 DO CPC.
+    APELO DA ACUSAÇÃO PROVIDO” (págs. 58-59 do documento eletrônico 2).
+    No RE, fundado no art. 102, III, a, da Constituição, sustentou-se, em suma, violação do art. 5°, LIV e LV, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Quanto à alegada nulidade do acórdão recorrido, assinalo que esta Corte firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório, da legalidade e da prestação jurisdicional, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Esse entendimento foi consolidado no julgamento do ARE 748.371-RG (Tema 660), de relatoria do Ministro Gilmar Mendes, em que se rejeitou a repercussão geral da matéria sob os seguintes fundamentos:
+    “Ementa: Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 21 de agosto de 2018.
+Ministro Ricardo Lewandowski
+Relator
