@@ -1,0 +1,61 @@
+EMENTA
+ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. DANOS DECORRENTES DE PERSEGUIÇÃO POLÍTICA NA ÉPOCA DA DITADURA MILITAR. ANISTIA. CUMULAÇÃO COM A REPARAÇÃO ECONÔMICA DECORRENTE DA LEI N. 10.559/02. POSSIBILIDADE. PRECEDENTES DO STJ. RECURSO ESPECIAL IMPROVIDO.
+I - Acórdão regional recorrido em conformidade com a jurisprudência do STJ, inexiste vedação de acumulação da reparação econômica prevista na Lei n. 10.559/02 com indenização por danos morais, porquanto elas constituem verbas indenizatórias com fundamentos e finalidades diversas. Precedentes: AgInt no REsp 1569337/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 3/5/2018, DJe 15/6/2018; AgInt no AREsp 536.386/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 22/3/2018, DJe 10/4/2018; AgInt no REsp 1587187/RS, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 6/3/2018, DJe 13/3/2018; e AgInt no REsp 1652397/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 5/9/2017, DJe 14/9/2017.
+II - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Na origem, trata-se de ação ajuizada por [NOME] em desfavor da União, objetivando indenização pelos danos morais sofridos durante o regime militar.
+Na primeira instância, os pedidos formulados na inicial foram julgados improcedentes. No TRF da 4ª Região, a sentença foi reformada em acórdão assim ementado:
+PROCESSO CIVIL E ADMINISTRATIVO. ANISTIADO POLÍTICO. PRESCRIÇÃO. AFASTADA. CUMULAÇÃO DE REPARAÇÃO ECONÔMICA COM INDENIZAÇÃO POR DANOS MORAIS. POSSIBILIDADE.
+- A superveniência da Lei 10.559, de 13/11/02, que regulamentou o disposto no art. 8º do Ato das Disposições Constitucionais Transitórias, constitui renúncia tácita à prescrição, porquanto passou a reconhecer, por meio de regime próprio, direito à indenização aos anistiados políticos. Ademais, deve ser negado o reconhecimento da prescrição nos moldes do Decreto nº 20.910/32, já que se trata de ação que visa à salvaguarda da dignidade da pessoa humana.
+- O artigo 16 é claro ao dispor que os direitos expressos na lei de anistia não excluem os conferidos por outras normas legais ou constitucionais, como, por exemplo, pelo artigo 5º, inciso V e X da Constituição Federal e pelo artigo 927 do Código Civil, os quais asseguram o direito à indenização por danos morais.
+- A reparação econômica trazida pela Lei 10.559/2002 se refere a perdas patrimoniais, oriundas da interrupção da atividade laborai do anistiado.
+- Assim, a vedação contida no artigo 16 da Lei 10.559/2002 não se aplica à ação de indenização por danos morais, por não ter o mesmo fundamento da reparação administrativa, relativa a danos materiais.
+Os embargos de declaração opostos foram parcialmente acolhidos para fins de prequestionamento.
+A União interpôs recurso especial com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, por ofensa ao art. 1.022 do CPC/73; ao art. 1º do Decreto n. 20.910/32; ao art. 206, § 3º, do Código Civil; ao art. 487, II, do CPC/73; e aos arts. 1º, III e 5º, III, XLIII, XLIV e XXXVI, da CF/88.
+Recebidos os autos pelo Superior Tribunal de Justiça, foi proferida decisão pela qual o recurso especial foi parcialmente conhecido e improvido pela incidência do enunciado n. 7 da Súmula do STJ e diante da consonância do acórdão regional com a jurisprudência do STJ sobre a matéria.
+Interposto agravo interno, a União se insurge apenas em relação à aplicação do enunciado n. 7 da Súmula do STJ. Alega que a análise do direito à cumulação indenizatória é eminentemente jurídica e dispensa o revolvimento de fatos e provas dos autos.
+Argumenta que o art. 16 da Lei n. 10.559/2002 veda a acumulação de quaisquer pagamentos, benefícios ou indenizações com o mesmo fundamento, sendo que, no caso dos autos, essa vedação abrange todos os ilícitos e danos experimentados pela parte autora.
+Apresentada impugnação, a parte agravada requer o desprovimento do agravo interno.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso não merece prosperar, pois as alegações da parte agravante são insuficientes para modificar a decisão recorrida.
+De acordo com a jurisprudência do STJ, inexiste vedação de acumulação da reparação econômica prevista na Lei n. 10.559/02 com indenização por danos morais, porquanto elas constituem verbas indenizatórias com fundamentos e finalidades diversas.
+Nesse sentido são os julgados:
+PROCESSUAL CIVIL E ADMINISTRATIVO. REGIME MILITAR. ANISTIA POLÍTICA. INDENIZAÇÃO POR DANOS MORAIS. CUMULAÇÃO COM REPARAÇÃO ECONÔMICA. POSSIBILIDADE. HERDEIROS. LEGITIMIDADE. PRESCRIÇÃO INAPLICABILIDADE.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. De acordo com a jurisprudência do STJ, inexiste vedação de acumulação da reparação econômica com indenização por danos morais, porquanto elas constituem verbas indenizatórias com fundamentos e finalidades diversas, conforme foi decidido na origem.
+3. Esta Corte já assentou que o direito à indenização por danos morais ostenta caráter patrimonial, sendo, portanto, transmissível ao cônjuge e os herdeiros do de cujus. 4. O prazo quinquenal previsto no Decreto n. 20.910/1932 é inaplicável às ações que objetivam reparação por danos morais ocasionados por torturas sofridas durante o período do regime militar, demandas que são imprescritíveis, tendo em vista as dificuldades enfrentadas pelas vítimas para deduzir suas pretensões em juízo.
+5. Manifestamente improcedente a irresignação, é de rigor a aplicação da sanção prevista no art. 1.021, § 4º, do CPC/2015.
+6. Agravo interno desprovido, com aplicação de multa. .
+(AgInt no REsp 1569337/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 03/05/2018, DJe 15/06/2018)
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ANISTIA POLÍTICA. POSSIBILIDADE DE CUMULAÇÃO DE VALOR RECEBIDO A TÍTULO DE REPARAÇÃO ECONÔMICA COM INDENIZAÇÃO POR DANOS MORAIS. AGRAVO INTERNO DA UNIÃO A QUE SE NEGA PROVIMENTO.
+1. A Primeira Turma, em recente julgamento, concluiu que o recebimento da reparação econômica de que trata a Lei 10.559/02 não exclui, só por si, o direito de o Anistiado buscar na via judicial, em ação autônoma e distinta, a reparação dos danos morais que tenha sofrido em decorrência da mesma perseguição política geradora da prefalada reparação administrativa, art. 5o., V e X da CF/19788, pois distintos se revelam os fundamentos que amparam a cada uma dessas situações (AgInt no AREsp. 598.791/SC, Rel. Min. SÉRGIO KUKINA, DJe 22.9.2016). No mesmo sentido, o recente precedente da egrégia 2a. Turma: AgInt no REsp. 1.652.397/RS, Rel. Min. MAURO CAMPBELL MARQUES, DJe 14.9.2017.
+2. Agravo Interno da União a que se nega provimento.
+(AgInt no AREsp 536.386/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 22/03/2018, DJe 10/04/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ATOS ILÍCITOS. REGIME MILITAR. NATUREZA DIVERSA DE INDENIZAÇÕES. CUMULAÇÃO. POSSIBILIDADE.
+1. Irretocável a decisão agravada fundada no art. 932, IV, do CPC/2015, c/c o art. 255, § 4º, II, do RISTJ e a Súmula 568 do STJ, que autoriza o relator a negar provimento ao recurso especial que for contrário à jurisprudência consolidada do Superior Tribunal de Justiça.
+2. Esta Corte Superior firmou o entendimento de que a reparação econômica realizada pela União em razão da Lei n. 10.559/2002 não se confunde com a reparação por danos morais prevista no art. 5º, V e X, da Constituição Federal e, portanto, não impede o pleito judicial de reparação dos direitos de personalidade eventualmente violados pela conduta estatal.
+3. De acordo com o Enunciado Administrativo n. 7 desta Corte, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+4. Para fins de aplicabilidade do mencionado dispositivo, deve ser observada a data de publicação do acórdão recorrido, que, no caso, é anterior a março de 2016, pelo que não há falar em incidência das disposições do Código de Processo Civil de 2015.
+5. Agravo interno conhecido parcialmente e, nessa extensão, provido em parte para afastar a majoração dos honorários recursais.
+(AgInt no REsp 1587187/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 06/03/2018, DJe 13/03/2018)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RESPONSABILIDADE CIVIL DO ESTADO. DANOS DECORRENTES DE PERSEGUIÇÃO POLÍTICA NA ÉPOCA DA DITADURA MILITAR. ANISTIA. CUMULAÇÃO COM A REPARAÇÃO ECONÔMICA DECORRENTE DA LEI N. 10.559/02. POSSIBILIDADE. PRECEDENTES DO STJ. SÚMULA 568/STJ.
+1. Esta Corte Superior possui entendimento consolidado no sentido de que a reparação econômica realizada pela União decorrente da Lei n. 10.559/02 não se confunde com a reparação por danos morais prevista no art. 5º, V e X, da Constituição Federal, motivo pelo qual são cumuláveis. Precedentes do STJ.
+2. A Súmula 568/STJ atende às exigências de uniformidade, estabilidade, integridade e coerência da jurisprudência, conforme o art. 926, do CPC/2015. Não obstante, há posicionamento consolidado nesta Corte Superior no sentido de que eventual nulidade da decisão monocrática fundamentada em jurisprudência dominante fica superada com a reapreciação do recurso pelo órgão colegiado, na via do agravo interno.
+3. Agravo interno não provido.
+(AgInt no REsp 1652397/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 05/09/2017, DJe 14/09/2017)
+Quanto ao assunto, o Tribunal de origem assim consignou às fls. 246-247, in verbis:
+Percebe-se que a proibição da cumulação ocorre na situação em que a natureza jurídica das reparações é idêntica. In casu, os fundamentos da reparação econômica (no caso dos autos, estaria substanciada na recondução da autora ao seu cargo e posterior aposentadoria considerando como tempo de contribuição o período pelo qual permaneceu na condição de anistiada) e da indenização por danos morais não se confundem.
+A reparação econômica foi instituída para repor a perda patrimonial sofrida pelo anistiado quando destituído ou impedido de exercer seu direito ao exercício empregatício. Em toda a lei há menção a perda do "vínculo com atividade laboral" como pressuposto para seu recebimento. Essa referência torna clara a intenção do legislador em compensar o anistiado por seus danos materiais, inexistindo qualquer alusão a dano moral.
+Já a indenização por danos morais buscada nesta ação tem como fundamento o sofrimento pelo qual passou a anistiada. São, pois, elementos outros a serem considerados.
+Enquanto a reparação econômica pretende repor o patrimônio material da vítima, a indenização por danos morais busca a recomposição emocional da maneira possível.
+ ..
+Destarte, no mérito entendo caracterizados a conduta estatal antijurídica (perseguição política e indevido afastamento do serviço público a que foi submetida a demandante), o dano moral (abalo psíquico a partir do afastamento do serviço público por posicionar-se contra a Ditadura Militar no âmbito de grupos pró reforma agrária) e nexo de causalidade, tendo em vista os documentos e testemunhos apurados pelo Juízo a quo.
+Quanto ao valor a ser fixado a título de danos morais, em razão das peculiaridades do caso em apreço, bem ainda atentando aos julgados neste Regional que analisam questões semelhantes, tenho por bem fixá-lo em R$ 100.000,00 (cem mil reais).
+Dessa forma, estando o acórdão regional recorrido em conformidade com a jurisprudência desta Corte, não merece reforma.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
