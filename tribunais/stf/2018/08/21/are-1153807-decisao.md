@@ -1,0 +1,20 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 37, XIV, da Constituição Federal
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Transcrevo o inteiro teor da ementa do acórdão (fl.202) objeto da insurgência manifestada no apelo extremo:
+    “SERVIÇO PÚBLICO MUNICIPAL Pretensão de redução de jornada para frequentar Faculdade, promoção horizontal e progressão funcional por tempo de serviço no percentual de 2% sobre a remuneração total Admissibilidade Precedentes Sentença reformada Recurso da Fundação desprovido; provido o do autor.”
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+     Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. REDUÇÃO DE JORNADA DE TRABALHO. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 280 DO STF. ALEGADA VIOLAÇÃO AO ARTIGO 93, IX, DA CF/88. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.” (ARE 902928 AgR, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 26/08/2016, PROCESSO ELETRÔNICO DJe-194 DIVULG 09-09-2016 PUBLIC 12-09-2016)
+    “RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. REDUÇÃO DE JORNADA DE TRABALHO. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DOAPELO EXTREMO. RECURSO DESPROVIDO.” (RE 844.472/MG, Rel. Min. Luiz Fux, decisão monocrática, DJe 14.8.2015)
+    “RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. JORNADA DE TRABALHO: REDUÇÃO. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. XXXV, DACONSTITUIÇÃO DA REPÚBLICA: AUSÊNCIA DE REPERCUSSÃO GERAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.” (RE 834.943/MG, Rel. Min. Carmén Lúcia, decisão monocrática, DJe 03.12.2014)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. EMPREGADO PÚBLICO. BANCÁRIO. REVERSÃO DE JORNADA. REDUÇÃO SALARIAL. ANÁLISE DE NORMA INFRACONSTITUCIONAL. CLT. OFENSA INDIRETA. AGRAVO IMPROVID I Indispensável a análise da Consolidação das Leis Trabalhistas – CLT para verificar, no caso, eventual ofensa ao princípio da irredutibilidade salarial. A afronta ao texto constitucional, se ocorrente, seria meramente reflexa, circunstância que torna inviável o recurso extraordinário. II Agravo regimental improvido” (ARE 669.052-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 4.9.2012, grifos nossos)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 21 de agosto de 2018.
+Ministra Rosa Weber
+Relatora
