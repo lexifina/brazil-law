@@ -1,0 +1,31 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. REVISÃO DO QUANTUM INDENIZATÓRIO. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+A respeito da suposta violação ao art. 944 do CC/2002, é forçoso destacar que a revisão de indenização por danos morais só se apresenta possível em sede de recurso especial, em casos que o valor fixado nas instâncias ordinárias afigura-se exorbitante ou irrisório, o que não ocorre nos autos.
+O acórdão recorrido, na análise da matéria probatória, bem como considerando o binômio razoabilidade/proporcionalidade ponderou que o montante fixado pelo juízo de piso não ensejava modificação. Assim, não ocorrendo uma das exceções supramencionadas, aplica-se ao caso a Súmula 7/STJ.
+Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)."
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno interposto por [NOME] contra decisão desta Relatoria assim ementada:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. REVISÃO DO QUANTUM INDENIZATÓRIO. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Sustenta a agravante que o valor fixado a título de indenização por danos extrapatrimoniais são irrisórios, sendo tal assertiva corroborada pelos precedentes desta Corte Superior. Acrescenta, portanto, que ocorreu ofensa ao art. 944 do CC/2002.
+Impugnação aos arts. 816/819 e-STJ.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. REVISÃO DO QUANTUM INDENIZATÓRIO. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+A respeito da suposta violação ao art. 944 do CC/2002, é forçoso destacar que a revisão de indenização por danos morais só se apresenta possível em sede de recurso especial, em casos que o valor fixado nas instâncias ordinárias afigura-se exorbitante ou irrisório, o que não ocorre nos autos.
+O acórdão recorrido, na análise da matéria probatória, bem como considerando o binômio razoabilidade/proporcionalidade ponderou que o montante fixado pelo juízo de piso não ensejava modificação. Assim, não ocorrendo uma das exceções supramencionadas, aplica-se ao caso a Súmula 7/STJ.
+Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Sem razão a parte agravante.
+Com efeito, a respeito da suposta violação ao art. 944 do CC/2002, é forçoso destacar que a revisão de indenização por danos morais só se apresenta possível em sede de recurso especial, em casos que o valor fixado nas instâncias ordinárias afigura-se exorbitante ou irrisório, o que não ocorre nos autos.
+In casu, o valor estabelecido no patamar de R$ 12.000,00 (doze mil reais) foi determinado com base na matéria fática dos autos, apontando o acórdão recorrido, inclusive, que o erro cometido pelo agente estatal teve a contribuição de terceira pessoa, que erroneamente identificou, por fotografia, o autor como sendo uma das pessoas que teria praticado o crime de roubo qualificado. (e-STJ, fls. 607/626) Portanto, o acórdão recorrido, na análise da matéria probatória, bem como considerando o binômio razoabilidade/proporcionalidade ponderou que o montante fixado pelo juízo de piso não ensejava modificação. Assim, não ocorrendo uma das exceções supramencionadas, aplica-se ao caso a Súmula 7/STJ.
+Ilustrativamente:
+ADMINISTRATIVO. RESPONSABILIDADE DA ADMINISTRAÇÃO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CPC/73. INEXISTÊNCIA. ALTERAÇÃO DO QUANTUM FIXADO. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ. (..) IV - Quanto a suposta violação dos arts. 186 do Código Civil a Corte de origem assim se manifestou sobre a questão em debate no presente apelo nobre, litteris (fl. 118): "No que pertine à condenação por danos morais, a recusa injustificada de cobertura de procedimento necessário ao reestabelecimento da saúde do usuário é causa ensejadora de indenização por danos morais, considerando-se tanto a necessidade do procedimento que garanta o direito à saúde do usuário, mas também a fragilidade emocional em que o mesmo se encontra em virtude do seu estado de saúde". V - O Tribunal a quo, portanto, analisou o feito com base no substrato fático-probatório dos autos, mencionando, inclusive, a recusa injustificada do atendimento, a necessidade do procedimento e a fragilidade do paciente em virtude do estado de saúde. Sendo assim, aplicável, ao caso, a Súmula n. 7/STJ, pois incabível a reapreciação do aludido conteúdo probatório nesta instância especial. VI - A respeito da suposta violação do art. 944 do Código Civil relativamente ao quantum da reparação do dano moral, confirmada pelo Tribunal a quo, é forçoso destacar que, em sede de recurso especial, a revisão de indenização por danos morais só é possível nos casos em que o valor fixado nas instâncias ordinárias for exorbitante ou ínfimo. Não sendo essas as hipóteses, incide o enunciado n. 7/STJ da Súmula do STJ, impedindo o conhecimento do recurso. A hipótese não se enquadra em qualquer das duas situações para que se possa afastar a incidência do óbice sumular indicado. VII - Agravo interno improvido. (AgInt no AREsp 999.401/PE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 03/04/2018, DJe 09/04/2018)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
