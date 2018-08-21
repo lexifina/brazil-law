@@ -1,0 +1,37 @@
+Decisão: Trata-se de habeas corpus com pedido liminar, impetrado por Andre Gustavo Zanoni Braga de Castro e outros, em favor de Marcio Antonio dos Santos, contra decisão proferida pelo Ministro Joel Ilan Paciornik, que indeferiu liminarmente o HC 465.188/SP.
+    No presente HC, os impetrantes alegam que o paciente, em razão do início da 8ª execução contra ele, sofreu regressão de regime, o que importaria em violação ao princípio da dignidade da pessoa humana inserto no Pacto de San José da Costa Rica. Requer o restabelecimento do regime aberto ao paciente.
+    Consta dos autos que a defesa impetrou habeas corpus no Tribunal de Justiça do Estado de São Paulo pleiteando, liminarmente, o restabelecimento do regime menos gravoso. O pedido liminar foi indeferido. (eDOC 9)
+    Irresignada, impetrou novo writ ao Superior Tribunal de Justiça, reiterando o pedido anterior. O habeas corpus foi indeferido liminarmente. (eDOC 8)
+    Nesta corte, os impetrantes reafirmam os argumentos anteriormente apresentados. (eDOC 1)
+    É o relatório.
+    Passo a decidir.
+    Trata-se de habeas corpus no qual a defesa insurge-se contra decisão monocrática proferida pelo Ministro Joel Ilan Paciornik, do STJ, que indeferiu liminarmente o HC 465.188/SP.
+    Segundo jurisprudência consolidada deste Tribunal, não tendo sido a questão objeto de exame definitivo pelo Superior Tribunal de Justiça ou inexistindo prévia manifestação das demais instâncias inferiores, a apreciação do pedido da defesa implica supressão de instância, o que não é admitido. Nesse sentido: HC 131.320-AgR/PR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 10.2.2016; HC 140.825/PR, Rel. Min. Luiz Fux, decisão monocrática, DJe 3.3.2017 e HC 139.829/SP, Rel. Min. Dias Toffoli, decisão monocrática, DJe 8.3.2017.
+    Além disso, cumpre destacar a ausência de interposição de agravo regimental contra a decisão do STJ. Aliás, no que se refere ao tema, tenho me posicionado, na Segunda Turma, juntamente com Sua Excelência o Ministro Celso de Mello, no sentido da possibilidade de conhecimento do habeas corpus em casos idênticos.
+    Ocorre que a Segunda Turma já se posicionou no sentido de não conhecer dos writs (HC 119.115/MG, Rel. Ministro Ricardo Lewandowski, DJe 13.2.2014 e HC 114.087/SP, Rel. Min. Teori Zavascki, DJe 2.10.2014), com fundamento na carência de exaurimento da jurisdição e por inobservância ao princípio da colegialidade, previsto no artigo 102, inciso II, alínea “a”, da Constituição Federal.
+    No mesmo sentido, já havia se firmado o entendimento da Primeira Turma desta Corte. A esse propósito, cito: RHC 111.935/DF, Rel. Min. Luiz Fux, DJe 30.9.2013; RHC 108.877/SP, Rel. Min. Cármen Lúcia, DJe 19.10.2011 e RHC 111.639/DF, Rel. Min. Dias Toffoli, DJe 30.3.2012.
+    Evidentemente, em obediência ao princípio da proteção judicial efetiva (art. 5º, XXXV, CF), a aplicação dos entendimentos jurisprudenciais trazidos à baila pode ser afastada no caso de configuração de evidente constrangimento ilegal ou abuso de poder.
+    No entanto, não vislumbro constrangimento ilegal manifesto justificar excepcional conhecimento deste habeas corpus.
+    No caso, destaco os seguintes trechos da decisão impugnada do STJ:
+    “A jurisprudência desta Corte Superior, aplicando por analogia o enunciado n. 691 da Súmula do Supremo Tribunal Federal, firmou-se no sentido de não conhecer de mandamus impetrado contra decisão indeferitória de liminar na origem, excetuados os casos nos quais, de plano, é possível identificar flagrante ilegalidade ou teratologia do referido decisum.
+    (...)
+    No caso concreto, contudo, sequer possível verificar a possibilidade de se cuidar de hipótese exceção à regra, na medida em que o writ, conquanto impetrado por profissional legalmente habilitado, está deficientemente instruído. Não foi juntada aos autos cópia do decisum atacado, documento essencial à exata compreensão da controvérsia e ao exame da plausibilidade do pedido.
+    Sobre o tema, confiram-se os seguintes precedentes, entre outros:
+    PENAL E PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. REVOGAÇÃO. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DA DECISÃO QUE DECRETOU A SEGREGAÇÃO CAUTELAR. PRETENSÃO DE ABSOLVIÇÃO. IMPOSSIBILIDADE NA VIA ELEITA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA.
+    I - Impede o conhecimento do recurso em habeas corpus a insuficiência na sua instrução, notadamente como na hipótese, onde não foi juntada pelo recorrente a cópia da r. decisão que decretou a sua prisão preventiva (precedente).
+    II - Uma vez que o MM. Juízo de 1º grau inferiu - de maneira devidamente fundamentada - que houve o efetivo exercício da traficância, infirmar a condenação do paciente com vistas à absolvição do delito demandaria, necessariamente, o amplo revolvimento da matéria fático-probatória, o que é vedado na via eleita (precedentes do STF e do STJ).
+    Recurso ordinário parcialmente conhecido e, nesta extensão, desprovido (RHC 60.757/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 24/09/2015). HABEAS CORPUS SUBSTITUTIVO DE RECURSO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+    1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+    2. "Constitui ônus do impetrante a correta instrução do habeas corpus, mediante prova pré-constituída, cabendo-lhe colacionar, quando da impetração, as peças necessárias ao deslinde da controvérsia, de sorte a demonstrar o alegado constrangimento ilegal. Precedentes do STF e do STJ" (AgRg no HC 278.141/SP, Rel. Ministra ASSUSETE MAGALHÃES, Sexta Turma, julgado em 22/10/2013, DJe 25/11/2013).
+    3. A alegação de excesso de prazo para a formação da culpa não foi analisada pelo Tribunal de origem, sequer foi arguida nas razões dos dois habeas corpus precedentes impetrados na origem, circunstância que impede o Superior Tribunal de Justiça de apreciar diretamente a matéria, consoante dispõe o art. 105, II, da Constituição Federal, sob pena de Configurar indevida supressão de instância.
+    4. Habeas corpus não conhecido (HC 321.025/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 12/08/2015).
+    Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+    Publique-se. Intimem-se.
+    Brasília, 21 de agosto de 2018.” (eDOC 8)
+    Feitas essas considerações, ressalvo minha posição pessoal, mas, em homenagem ao princípio do colegiado, adoto a orientação no sentido de não conhecer do presente HC.
+    Ante o exposto, nego seguimento ao pedido formulado habeas corpus, por ser manifestamente incabível (art. 21, § 1º, do RI/STF).
+    Publique-se.
+    Brasília, 29 de agosto 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
