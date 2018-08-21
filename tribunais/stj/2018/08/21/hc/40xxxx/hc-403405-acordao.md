@@ -1,0 +1,55 @@
+EMENTA
+PENAL. PROCESSO PENAL. HOMICÍDIO QUALIFICADO TENTADO. ABSOLVIÇÃO PELO TRIBUNAL DO JÚRI. APELAÇÃO MINISTERIAL PROVIDA PARA DETERMINAR NOVO JULGAMENTO. DECISÃO CONTRÁRIA À PROVA DOS AUTOS. ILEGALIDADE VERIFICADA. APRESENTAÇÃO DE DUAS VERSÕES EM PLENÁRIO. RESPEITO À SOBERANIA DOS VEREDICTOS. ORDEM CONCEDIDA.
+1. A jurisprudência desta Corte é pacífica no sentido de que a apelação lastreada no art. 593, III, d, do Código de Processo Penal (decisão dos jurados manifestamente contrária à prova dos autos) pressupõe, em homenagem à soberania dos veredictos, decisão dissociada das provas amealhadas no curso do processo. Optando os jurados por uma das versões factíveis apresentadas em plenário, impõe-se a manutenção do quanto assentado pelo Conselho de Sentença (HC 232.885/ES, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 19/05/2015, DJe 28/05/2015).
+2. Assim, apresentadas duas versões em Plenário, as quais não estão dissociadas dos elementos de provas, inviável o provimento da apelação ministerial para determinar a realização de novo julgamento, em respeito à soberania dos veredictos.
+3. Habeas corpus concedido a fim de anular o acórdão que determinou a realização de novo julgamento pelo Tribunal do Júri.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, conceder a ordem de habeas corpus, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Maria Thereza de Assis Moura, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de habeas corpus impetrado em favor de TATIANA ALVES DE [NOME], em face de decisão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS.
+Consta dos autos que a paciente foi submetida a julgamento, pela prática do delito previsto no art. 121, § 2º, II e IV, c.c art. 14, II, ambos do Código Penal, perante o Tribunal do Júri, o qual absolveu a ré.
+Ato seguinte, o Ministério Público interpôs recurso de apelação, que foi provido para determinar que a paciente fosse submetida a novo julgamento.
+De acordo com as informações prestadas pelo Tribunal de Justiça do Distrito Federal e Territórios, na Sessão Plenária do Tribunal do Júri, referente ao processo em epígrafe, ocasião em que foi desclassificada da acusada (..) para a descrita no delito previsto no art. 129, § 1º, incisos I e III e § 4º, do Código Penal, à pena de 01 (um) ano e três meses de reclusão, a ser cumprida em regime inicial aberto (fls. 366).
+No presente habeas corpus, alega a ocorrência de constrangimento ilegal sob o argumento de que no caso em apreço, só foram ouvidas a própria vítima e a acusada perante o Conselho de Sentença. Em tal contexto, uma incongruência pontual no depoimento da acusada (confusão quanto ao meio de execução utilizado para o homicídio) não é suficiente para configurar prova manifestamente contrária à prova dos autos e tornar nula a decisão dos jurados. Argumenta que teria ocorrido mero conflito de versões.
+Requer a concessão da ordem constitucional para que seja anulado o acórdão que determinou a realização de novo Júri.
+Indeferida a liminar, prestadas as informações, manifestou-se o Ministério Público Federal pela denegação da ordem.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+No concernente ao pleito de anulação do acórdão da Corte de origem que determinou a realização de novo Júri, nota-se que o Tribunal a quo entendeu que a decisão do Conselho de Sentença foi contrária à prova dos autos pelos seguintes fundamentos (fls. 184/185):
+ ..
+A vítima, em 25.7.13, a convite da ré, compareceu na casa dessa para que elas conversassem sobre suposto relacionamento amoroso envolvendo o companheiro da ré e a vítima. Assim que a vítima entrou na residência da ré, for surpreendida pela ação dessa, que lhe desferiu golpes de cabo de vassoura e facadas.
+O crime não se consumou por circunstâncias alheias à vontade da ré, que foi contida por seu irmão [NOME], momento em que a vítima conseguiu fugir.
+Tais fatos são corroborados pelo depoimento da ré que declarou, na fase de pronúncia, ter repelido a agressão da vítima "utilizando um cabo de vassoura" (fls. 95/6), e, no Plenário do Júri, declarou que a vítima "veio em cima de mim que ela grudou nos meus cabelos, ai eu avistei a churrasqueira, não é  E fui e peguei a grelha, para me defender justo dos tapas que ela estava me dando " (f 279).
+A vítima, por sua vez, declarou que ao ingressar no imóvel da ré foi agredida com golpes de cabo de vassoura e facadas que lhe causaram lesão no braço esquerdo e outras regiões do corpo (f. 286).
+O laudo de exame de corpo de delito atesta que a vítima compareceu ao Instituto Médico Legal com "membro superior direito com tala gessada; 2) ferida de bordos regalares em cicatrização localizada na face posterior do punho esquerdo; 3) equimose violáceo amarelado em mancha hipocrômica de escoriação localizados na face posterior do terço proximal do braço direito" (f. 21).
+Segundo o laudo, a cópia do prontuário de atendimento médico da vítima consigna que a ela foi atendida ás 20h40m, do dia 22.7.13, por apresentar lesão cortante na face posterior do punho direito e lesão dos tendões extensores dos dedos da mão direita (f. 319).
+As lesões descritas no laudo de exame de corpo de delito corroboram a versão da vítima - agressão com golpes de cabo de vassoura e facão.
+A tese de legitima defesa é contrária á prova dos autos. Fundamenta unicamente na versão da ré em seu interrogatório, a qual afirmou que ao franquear o ingresso da vítima na sua residência, essa jogou saco de roupas contra a ré e lhe desferiu tapas, momento em que ela pegou a grelha e atingiu a vítima.
+E não se reconhece excludente da legítima defesa se não há prova de que o réu se defendeu moderadamente de injusta agressão praticada pela vitima.
+Os supostos tapas desferidos na ré não justificam a reação desproporcional, que causou graves ferimentos á vítima.
+A versão trazida pela ré não é confirmada por qualquer prova, e é totalmente contrária à prova dos autos.
+E nada demonstra que ela agiu em legítima defesa.
+Aliás, as provas demonstram que a vítima chegou à casa da ré e foi surpreendia pela ação dessa, a qual só não consumou seu intento porque foi contida por seu irmão (f. 93).
+Com efeito, a ré, sob o pretexto de que queria restabelecer os laços de amizade, convidou a vítima para entrar em sua residência. Quando a vítima entrou, desferiu-lhe golpes de cabo de vassoura e faca. E só cessou a agressão por razões alheias á sua vontade.
+A decisão dos jurados, sem qualquer apoio fático, é manifestamente contrária à prova dos autos.
+O c. STJ firmou entendimento no sentido de que "não ofende a soberania dos veredictos a anulação de decisão proferida pelo Tribunal do júri, em 2o grau de jurisdição, quando esta se mostrar diametralmente oposta às provas constantes dos autos, ainda que os jurados tenham respondido positivamente ao terceiro quesito formulado, referente à absolvição do acusado." (AgRg no AREsp 805.514/ES, Rei. Ministro Nefi Cordeiro, Sexta Turma, julgado em 13/12/2016, DJe 19/12/2016).
+Não há elemento probatório que sirva de supedâneo para a conclusão alcançada pelos jurados, que absolveram a ré por legítima defesa.
+Dou provimento e anulo o julgamento para que a acusada seja submetida a novo julgamento.
+Com efeito, nota-se que o Tribunal a quo entendeu que a decisão dos jurados teria sido contrária às provas dos autos destacando que A versão trazida pela ré não é confirmada por qualquer prova, e é totalmente contrária à prova dos autos, afirmando ainda que As lesões descritas no laudo de exame de corpo de delito corroboram a versão da vítima - agressão com golpes de cabo de vassoura e facão.
+Assim, observa-se que a decisão do Tribunal baseou-se apenas no mero conflito de versões da vítima e da paciente, tendo em vista que o laudo de exame de corpo de delito, o qual demonstrou que as lesões sofridas pela ofendida teriam ocorrido com cabo de vassoura e facão, não são hábeis a alterar a versão trazida pela defesa de que no depoimento da ré que declarou, na fase de pronúncia, ter repelido a agressão da vítima "utilizando um cabo de vassoura" (fls. 95/6), e, no Plenário do Júri, declarou que a vítima "veio em cima de mim que ela grudou nos meus cabelos, ai eu avistei a churrasqueira, não é  E fui e peguei a grelha, para me defender justo dos tapas que ela estava me dando " (fl. 279).
+Dessa forma, nota-se que o Conselho de Sentença acolheu a versão da defesa de que a ré teria agido em legítima defesa, e consequentemente, absolveu a paciente, não sendo devido ao Tribunal a quo a determinação de novo julgamento, somente em razão de os jurados terem entendido que a tese defensiva, a qual não é dissociada dos elementos de provas, deveria ser acolhida, mormente em razão ao respeito da soberania dos veredictos. Nesse norte:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO DUPLAMENTE QUALIFICADO. DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. SÚMULA n. 7 DO STJ. RECURSO NÃO PROVIDO.
+1. Não é manifestamente contrária à prova dos autos a decisão dos jurados que acolhe uma das versões respaldadas no conjunto probatório produzido.
+2. Assim, demonstrada, pela simples leitura do acórdão impugnado, a existência de duas versões, não há que se falar em decisão manifestamente contrária à prova dos autos, sob pena de afronta à soberania dos veredictos.
+ ..
+4. Agravo regimental não provido.
+(AgRg no AREsp 942.077/PE, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 06/06/2017, DJe 13/06/2017)
+HABEAS CORPUS SUBSTITUTIVO. NÃO CABIMENTO. HOMICÍDIO QUALIFICADO. TRIBUNAL DO JÚRI. SENTENÇA ABSOLUTÓRIA. RECURSO MINISTERIAL. DECISÃO CONTRÁRIA À PROVA DOS AUTOS. APELO PROVIDO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. CONCLUSÃO ADOTADA PELOS JURADOS QUE ENCONTRA AMPARO NO CONJUNTO FÁTICO-PROBATÓRIO.
+1. O Superior Tribunal de Justiça, em recentes decisões, não tem mais admitido a utilização do habeas corpus como sucedâneo do meio processual adequado, seja o recurso ou a revisão criminal, salvo em situações excepcionais, o que aqui se constata.
+2. A apelação lastreada no art. 593, III, d, do Código de Processo Penal (decisão dos jurados manifestamente contrária à prova dos autos) pressupõe, em homenagem à soberania dos veredictos, decisão dissociada das provas amealhadas no curso do processo. Optando os jurados por uma das versões factíveis apresentadas em plenário, impõe-se a manutenção do quanto assentado pelo Conselho de Sentença.
+Precedentes.
+3. Habeas corpus não conhecido. Ordem concedida de ofício.
+(HC 232.885/ES, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 19/05/2015, DJe 28/05/2015)
+Ante o exposto, voto por conceder o habeas corpus a fim de anular o acórdão que determinou a realização de novo julgamento pelo Tribunal do Júri.
