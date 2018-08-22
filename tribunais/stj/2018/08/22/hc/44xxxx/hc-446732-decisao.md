@@ -1,0 +1,6 @@
+DECISÃO
+[NOME] alega sofrer coação ilegal em seu direito a locomoção, em face da decisão monocrática prolatada por Desembargador relator do Tribunal de Justiça do Estado de São Paulo, que deferiu o pedido de urgência na MC n. 2067785-18.2018.8.26.0000, a fim de decretar a custódia cautelar em desfavor do ora paciente, acusado da prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006.
+Consoante informações prestadas pela Corte de origem às fls. 106-120, verifica-se que, após a impetração deste writ, foi novamente decretada a prisão preventiva do ora paciente pelo Juízo singular, em decisão por meio da qual aquele Magistrado empreendeu nova avaliação sobre os fundamentos suscitados para a imposição da segregação cautelar.
+Como tais razões não foram submetidas ao crivo deste Tribunal Superior, sua apreciação implicaria indevida supressão de instância, razão pela qual é defeso a esta Corte o exame da matéria. Assim, evidencia-se a prejudicialidade deste feito, em que se pugna pela revogação da prisão preventiva.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, casso a liminar outrora deferida e julgo prejudicado este habeas corpus, pela perda do seu objeto.
+Publique-se e intimem-se.
