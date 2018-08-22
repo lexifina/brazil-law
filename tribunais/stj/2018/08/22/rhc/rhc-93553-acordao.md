@@ -1,0 +1,42 @@
+EMENTA
+RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO E OCULTAÇÃO DE CADÁVER. PRISÃO PREVENTIVA. AUDIÊNCIA DE CUSTÓDIA. NÃO REALIZAÇÃO. AUSÊNCIA DE NULIDADE. FUNDAMENTOS. GRAVIDADE CONCRETA DO DELITO. MODUS OPERANDI. ELEMENTO IDÔNEO. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. PARECER ACOLHIDO.
+1. A não realização de audiência de custódia não é suficiente, por si só, para ensejar a nulidade da prisão cautelar, quando evidenciada a observância das garantias processuais e constitucionais. Afora isso, operada a conversão da prisão em flagrante em preventiva por autoridade judiciária, fica esvaziada sua necessidade. Precedentes.
+2. Inexiste constrangimento ilegal quando a prisão cautelar está devidamente amparada na garantia da ordem pública, em razão da gravidade concreta do delito, evidenciada pelo modus operandi adotado (prática de homicídio com requintes de crueldade, mediante pedradas e facadas, sem qualquer motivo aparente, com a posterior ocultação do cadáver).
+3. Recurso em habeas corpus improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso ordinário nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de recurso em habeas corpus interposto contra o acórdão do Tribunal de Justiça de Alagoas que denegou a ordem no HC n. 0801808-83.2017.8.02.0000 e, assim, manteve as prisões preventivas de [NOME], [NOME] e [NOME] no Processo n. 0700094-70.2017.8.02.0068, da 1ª Vara da comarca de Marechal Deodoro/AL.
+Eis a ementa do julgado (fl. 162):
+PENAL. PROCESSUAL PENAL. HABEAS CORPUS. ALEGAÇÃO DE NULIDADE POR AUSÊNCIA DE AUDIÊNCIA DE CUSTÓDIA. ENTENDIMENTO PACÍFICO DE QUE A AUSÊNCIA DA CITADA AUDIÊNCIA NÃO É MOTIVO APTO A CARACTERIZAR CONSTRANGIMENTO ILEGAL. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA NO DECRETO DAS PRISÕES. AUSÊNCIA DE ILEGALIDADE NO ATO DO JUÍZO A QUO. NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. ORDEM DENEGADA. DECISÃO UNÂNIME.
+Sustenta-se a impossibilidade de manutenção da medida constritiva, por ausência de motivação idônea e inobservância do requisito concernente à realização de audiência de custódia.
+Defende-se, nesse sentido, que a Convenção Americana de Direitos Humanos e o Pacto Internacional de Direitos Civis e Políticos, dos quais o Brasil é signatário, estabelecem a garantia de apresentação da pessoa presa ao juiz no momento da prisão, requisito que não foi observado no caso em exame (fl. 179), e que a decisão de decretação da preventiva baseou-se em elementos genéricos desprovidos de qualquer comprovação, bem como na periculosidade abstrata ínsita ao próprio tipo penal (fl. 183).
+Busca-se, assim, a revogação do decreto prisional, com a expedição dos competentes alvarás de soltura.
+Opinou o Ministério Público Federal pelo desprovimento do recurso, conforme o parecer assim resumido (fl. 203):
+RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO E OCULTAÇÃO DE CADÁVER (ARTS. 121, § 2º, II E IV, E 211, CAPUT, C/C ART. 29, TODOS DO CP).
+ALEGAÇÃO DE NULIDADE EM RAZÃO DA NÃO APRESENTAÇÃO DOS PACIENTES À AUTORIDADE JUDICIÁRIA PARA REALIZAÇÃO DA AUDIÊNCIA DE CUSTÓDIA. INOCORRÊNCIA. AUSÊNCIA DE OFENSA AOS DIREITOS E GARANTIAS FUNDAMENTAIS.
+PRISÃO PREVENTIVA. OBSERVÂNCIA DOS REQUISITOS DO ART. 312 DO CPP. GRAVIDADE CONCRETA DA CONDUTA. MODUS OPERANDI. PRÁTICA DO CRIME HOMICÍDIO QUALIFICADO. VÍTIMA AGREDIDA COM PEDRADAS E GOLPES DE FACÃO. OCULTAÇÃO DE CADÁVER. MAIOR PERICULOSIDADE SOCIAL DOS AGENTES.
+PARECER PELO DESPROVIMENTO DO RECURSO.
+Pelo que consta do portal do Tribunal de Justiça na internet, até o momento, não houve prolação de sentença.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Estou de pleno acordo com o parecer do Subprocurador-Geral da República Mario [NOME], deste teor (fls. 204/208 - grifo nosso):
+ ..
+O Tribunal de Justiça de Alagoas manteve a segregação cautelar dos recorrentes para garantia da ordem pública, nos seguintes termos:
+Como se sabe, o Poder Judiciário alagoano está buscando implementar a citada audiência em todos os procedimentos criminais. De qualquer forma, é entendimento pacífico nesta Corte de que a ausência da audiência de custódia não tem o condão de provocar a nulidade da tramitação do feito.
+(..)
+Assim, não rejeito a importância da audiência de custódia, nos termos da Defesa. Porém, não concordo que a inexistência da citada audiência possa configurar constrangimento ilegal apto a impedir a manutenção da segregação cautelar dos pacientes.
+Noutro giro, verifico que o magistrado de primeiro grau, quando da decisão que decretou a custódia cautelar, asseverou ser necessária a segregação do paciente como forma de garantir a ordem pública, registrando em suas razões de decidir os motivos fáticos que o levaram a tal conclusão.
+In casu, trata-se de prisão em flagrante convertida em preventiva em razão de prática de crime de oculação de cadáver. Em decisão acostada às fls. 52/55 dos presentes autos, proferida no dia 12 de abril, o magistrado converteu a prisão em flagrante em preventiva sob o argumento da ordem pública tendo assim consignado:
+Insta salientar, ainda, que com base nos depoimentos prestados, os conduzidos foram presos pela prática delituosa de ocultação de cadáver, as narrações dos fatos, inclusive, denotam que estes em participação praticaram o homicídio de [NOME], com requintes de crueldade. Com efeito, diante de um brutal homicídio a conversão da prisão em preventiva se mostra ser a medida mais acertada para o caso, a fim de preservação da ordem pública.
+No que concerne à realização da audiência de custódia, é preciso destacar que se trata de um importante instrumento de observância dos direitos e garantias fundamentais do preso; entretanto, a não realização da audiência não constitui, por si só, motivo suficiente para anular a segregação cautelar, desde que presentes os requisitos delineados no art. 312 do Código de Processo Penal e que não tenha havido ofensa aos direitos e garantias fundamentais previstos no texto constitucional.
+Nesse sentido, precedente dessa E. Corte:
+ ..
+Na hipótese dos autos, a constrição cautelar encontra-se devidamente embasada por elementos concretos do delito, evidenciados pela gravidade concreta da conduta, tendo em vista que os pacientes são acusados pela prática dos crimes de homicídio qualificado e ocultação de cadáver, tendo perpetrado o delito mediante agressão à vítima com pedradas e golpes de facão (e-STJ fls. 59), ocultando, em seguida, o cadáver, circunstâncias que revelam a periculosidade dos agentes, de modo a acentuar a necessidade da manutenção da medida extrema.
+É certo que se a conduta do agente revelar inequívoca periculosidade - seja pela gravidade concreta da ação, seja pelo próprio modo de execução do crime -, imperiosa a manutenção da prisão para a garantia da ordem pública, desde que igualmente presentes a prova da materialidade e os indícios de autoria, como se verifica no caso.
+Dessa forma, o acórdão impugnado não merece censura, inexistindo ilegalidade a ser sanada por essa E. Corte.
+ ..
+Realmente, não se verifica dos autos a apontada necessidade de revogação da prisão preventiva.
+De um lado, diz a jurisprudência deste Superior Tribunal que a não realização de audiência de custódia não é suficiente, por si só, para ensejar a nulidade da prisão cautelar, quando evidenciada a observância das garantias processuais e constitucionais, e que, operada a conversão da prisão flagrante em preventiva por autoridade judiciária, fica esvaziada sua necessidade. Ver, nesse sentido, o HC n. 440.172/CE, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 4/6/2018; e o RHC n. 98.189/MG, Ministro Felix Fischer, Quinta Turma, DJe 4/6/2018.
+De outro, o elemento apontado pela Juíza, qual seja, a gravidade concreta do delito, evidenciada pelo modo de execução empregado - prática de homicídio com requintes de crueldade, mediante pedradas e facadas, sem qualquer motivo aparente, com a posterior ocultação do cadáver -, autoriza a constrição antecipada a bem da ordem pública.
+Pelo exposto, acolho o parecer e nego provimento ao recurso em habeas corpus.
