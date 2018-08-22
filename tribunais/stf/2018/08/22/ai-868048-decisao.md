@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo de instrumento cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça de Minas Gerais, assim ementado:
+    “PERMISSÃO DE SERVIÇO PÚBLICO – ATO UNILATERAL E DISCRICIONÁRIO DA ADMINISTRAÇÃO – NÃO APLICABILIDADE DO PRINCÍPIO DA EQUIVALÊNCIA E DO EQUILÍBRIO ECONÔMICO-FINANCEIRO DOS CONTRATOS.
+    Em se tratando de permissão de serviço público, não se há aplicar o princípio da equivalência e do equilíbrio econômico-financeiro dos contratos, visto não se tratar de um acordo propriamente dito, mas de ato unilateral e discricionário da Administração.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXV, LIV; 37, XXI; 175, § 5º, da CF.
+    O acórdão recorrido afastou a aplicação do princípio do equilíbrio econômico-financeiro do contrato administrativo, por se tratar de ato unilateral de permissão e não um contrato de concessão. Com efeito, dissentir de tal entendimento demandaria uma nova análise dos fatos e do material probatório constante dos autos, o que atrai a incidência da Súmula 279/STF.
+    Incide, igualmente, a jurisprudência do Supremo Tribunal Federal que afasta o cabimento do recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional, sem que se discuta o seu sentido à luz da Constituição. Nesse sentido, cito o seguinte precedente:
+    “DIREITO ADMINISTRATIVO. CONTRATO ADMINISTRATIVO. RESCISÃO UNILATERAL. INTERESSE PÚBLICO. INDENIZAÇÃO. CABIMENTO À ESPÉCIE. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA PUBLICADO EM 1º.12.2011. 1. A matéria referente ao cabimento de indenização pela rescisão unilateral de contrato de concessão de serviços públicos foi apreciada pelo Superior Tribunal de Justiça amparado na jurisprudência e na análise de normas infraconstitucionais aplicáveis à espécie - Lei nº 8.666/93 e Código Civil/2002. Compreender de modo diverso exigiria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, a, da Lei Maior, nos termos da remansosa jurisprudência desta Corte. 2. Agravo regimental conhecido e não provido.” (ARE 699.072-AgR, Relª. Minª. Rosa Weber).
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 22 de agosto de 2018.
+Ministro Luís Roberto Barroso
+Relator
