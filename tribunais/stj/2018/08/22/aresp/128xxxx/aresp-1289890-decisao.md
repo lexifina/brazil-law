@@ -1,0 +1,44 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça daquele estado nos Embargos Infringentes e de Nulidade n. 1.0701.10.014634-2/002.
+Depreende-se dos autos que os réus foram condenados às penas de 1 ano e 4 meses de reclusão, em regime aberto, mais 7 dias-multa, substituídas por duas restritivas de direitos, pela prática do crime previsto no art. 155, § 4º, IV, do CP.
+O Tribunal de origem deu provimento à apelação ministerial, a fim de aumentar as penas para 1 ano e 6 meses de reclusão, em razão do reconhecimento da qualificadora do rompimento de obstáculo. Os embargos infringentes e de nulidade foram acolhidos e, consequentemente, restabelecida a dosimetria realizada na sentença. Os embargos de declaração do Parquet foram rejeitados.
+Nas razões do recurso especial, alega a acusação que o acórdão recorrido violou os arts. 155, § 4º, I, do CP e 167 do CPP, ao argumento de que, quanto à caracterização do rompimento de obstáculo, "a realização do exame pericial mostrou-se impossível, o que permite concluir pela viabilidade de seu suprimento por prova testemunhal" (fl. 339).
+Sustenta que "Não seria exigível que o estabelecimento comercial da vítima ficasse desprotegido, com a porta principal arrombada, passível de prováveis novos assaltos, no aguardo da realização de um exame pericial" (fl. 340).
+Requer sejam "os acusados condenados pela prática do delito de furto qualificado em razão da destruição ou do rompimento de obstáculo" (fl. 349).
+Não admitido o recurso especial na origem e interposto o recurso de agravo, o Ministério Público Federal opinou pelo seu não provimento.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada.
+O Juiz sentenciante examinou a qualificadora do rompimento de obstáculo nestes termos:
+No crime que deixa vestígios, para a incidência da qualificadora de rompimento de obstáculos, é imprescindível a comprovação desse rompimento por laudo pericial, a teor do artigo 158 do Código de Processo Penal, o que não restou fundamentado nos autos, razão pela qual entendo pela decotação da qualificadora do artigo 155, § 4º, inciso I, do Código Penal.
+(fl. 173, grifei)
+O acórdão que julgou a apelação asseriu o seguinte:
+O rompimento consiste em abrir brecha, arrombar, deslocar, serrar, perfurar, forçar o obstáculo, visando tornar mais fácil a prática do crime.
+No delito sub judice ficou evidente que os agentes praticaram a conduta acima mencionada, que se enquadra na qualificadora em comento, sendo impossível o afastamento da mesma.
+Ademais, tendo em vista a ausência de hierarquia entre os meios de prova e em apreço ao princípio da busca da verdade real, entendo que a comprovação da qualificadora de rompimento de obstáculo no crime de furto não se limita à prova técnica, podendo ser demonstrada por outros meios de prova que não o exclusivamente pericial.
+ ..
+Cumpre salientar ainda, que possivelmente a realização da perícia foi impossibilitada pela necessidade inadiável de reparo da porta principal de acesso ao estabelecimento comercial furtado.
+No caso, embora não realizada a prova técnica, verifico que a prova testemunhal não deixa dúvida quanto à ocorrência da qualificadora, o que autoriza a sua manutenção.
+(fls. 261-263, destaquei)
+O voto condutor no julgamento dos embargos infringentes e de nulidade foi assim redigido:
+Nesses termos, acompanho o entendimento do em. Desembargador Corrêa Camargo, considerando que o suposto rompimento de obstáculo em testilha (destruição da porta principal do estabelecimento comercial com uma barra de ferro - fls. 05/10) inequivocamente teria produzido vestígios. No entanto, não foi realizada a perícia no local para atestar tal circunstância, mesmo diante do requerimento expresso do Membro do Ministério Público atuante na origem nesse sentido (fls. 55).
+Frise-se, ainda, não haver qualquer informação nos autos a respeito de eventual desaparecimento dos vestígios (como o reparo do bem danificado), o que possibilitaria a dispensa da prova técnica.
+Em resumo: a ação praticada por [NOME] e [NOME] deixou inegáveis vestígios, não há notícia de que estes tenham desaparecido por motivo justificável e as circunstâncias fáticas concretas permitiam perfeitamente a confecção do laudo direto de vistoria (que, como dito, foi devidamente requisitado pelo Parquet).
+Dessarte, não há, no caso em tela, como substituir a prova técnica pela testemunhal, tampouco pela confissão dos réus, sendo o caso de realmente decotar a qualificadora do rompimento de obstáculo.
+Assim, deve o recurso de apelo do Ministério Público ser mesmo improvido e a sentença de origem, que havia corretamente decotado a qualificadora do rompimento de obstáculo, ser integralmente mantida.
+(fl. 296, destaquei)
+No julgamento do REsp n. 1.320.298/MG, a Sexta Turma do STJ examinou a possibilidade de, em razão das particularidades do caso concreto e em respeito ao sistema de livre apreciação da prova, reconhecer a incidência da qualificadora da escalada nos delitos de furto quando sua ocorrência for incontroversa nas provas colhidas nos autos, a despeito da ausência de laudo pericial que a ateste. Na oportunidade, empreendi análise mais aprofundada do tema, com proposta de modificação de entendimento predominante na Corte.
+Levado o referido recurso a julgamento, meu voto não foi acolhido pela Sexta Turma, ficando como relator para o acórdão o Ministro Nefi Cordeiro, que consignou o entendimento da maioria de que "o reconhecimento da qualificadora da escalada, prevista no art. 155, § 4º, II, do Código Penal, exige a realização de exame pericial, o qual somente pode ser substituído por outros meios probatórios quando inexistirem vestígios, o corpo de delito houver desaparecido ou as circunstâncias do crime não permitirem a confecção do laudo" (REsp n. 1.320.298/MG, Rel. Ministro Rogerio Schietti, Rel. p/ acórdão Ministro Nefi Cordeiro, 6ª T., DJe 23/2/2016).
+Em relação à qualificadora de rompimento de obstáculo, a Sexta Turma deste Tribunal Superior também conclui pela imprescindibilidade, em regra, da sua comprovação por laudo pericial, admitida, excepcionalmente, a realização de exame indireto ou a sua complementação por outros meios de prova quando não subsistirem os vestígios materiais ou não forem suficientes para a confecção do laudo.
+ Portanto, com a ressalva de meu entendimento pessoal, aderi ao posicionamento predominante, para reconhecer, como regra, a imprescindibilidade da realização de exame pericial para constatação de rompimento de obstáculo.
+Na espécie, a sentença rejeitou a configuração do rompimento de obstáculo diante da ausência de prova pericial e o relator do acórdão que julgou a apelação se respaldou em prova testemunhal para levar em conta a qualificadora na dosimetria, tendo em vista a prescindibilidade do laudo técnico ante a impossibilidade da sua realização.
+Nesse ponto, destaco que a instância antecedente, no julgamento da apelação, entendeu que "possivelmente a realização da perícia foi impossibilitada pela necessidade inadiável de reparo da porta principal de acesso ao estabelecimento comercial furtado" (fl. 263).
+Como se observa, naquela ocasião, o Tribunal local baseou-se em conjecturas para concluir ser impossível a perícia, em vez de formar convicção com lastro em fatos. Tal proceder retira plausibilidade da respectiva fundamentação.
+Com efeito, ao acolher os embargos infringentes e de nulidade, o Tribunal de origem ressaltou não haver nos autos a informação de que os vestígios do crime teriam desaparecido, o que impossibilita a dispensa da prova técnica. Exemplificativamente:
+ ..
+2. Para a incidência da qualificadora de rompimento de obstáculos, que deixa vestígios, é imprescindível a comprovação por laudo pericial, a teor dos arts. 158 e 171 do Código de Processo Penal.
+3. A substituição do laudo pericial por outros meios de prova somente se mostra apropriada se o delito não deixar vestígios, se estes tiverem desaparecido ou, ainda, se as circunstâncias do crime não permitirem a confecção do laudo, o que não foi demonstrado na hipótese vertente, tendo em vista que a não realização do exame se deu em virtude de falha atribuível unicamente ao aparato estatal.
+3. Habeas corpus não conhecido. Ordem concedida, de ofício, a fim de afastar a qualificadora e reduzir a reprimenda do paciente para 1 (um) ano de reclusão, mais 10 dias-multa, mantida a substituição da pena privativa de liberdade por restritiva de direito, consistente na prestação de serviços à comunidade, nos termos do acórdão.
+(HC n. 350.223/DF, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 15/4/2016, destaquei)
+Assim, não há razões para caracterizar a forma qualificada do furto.
+À vista do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
