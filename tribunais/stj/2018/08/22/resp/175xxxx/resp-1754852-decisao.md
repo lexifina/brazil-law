@@ -1,0 +1,37 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo ESTADO DO CEARÁ, contra acórdão prolatado, por unanimidade, pela 8ª Câmara Cível do Tribunal de Justiça do Estado do Ceará no julgamento de Agravo Regimental, assim ementado (fl. 180e):
+DIREITO PREVIDENCIÁRIO. PENSÃO POR MORTE. CESSAÇÃO DO BENEFÍCIO DIANTE DO ATINGIMENTO DA MAIORIDADE - ILEGALIDADE. INCIDÊNCIA DA NORMA DA ÉPOCA DO ÓBITO DO INSTITUIDOR DO BENEFÍCIO PARA PERMITIR O GOZO ATÉ OS 21 ANOS DE IDADE. APLICAÇÃO DA SÚMULA 340 DO STJ. MATÉRIA SEDIMENTADA NESTA CORTE DE JUSTIÇA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A irresignação suscitada mediante agravo interno exige a apresentação de novos argumentos capazes de modificar o entendimento firmado por ocasião do decisório singular, o que não ocorreu.
+2. A decisão invectivada deve ser mantida, haja vista que observou a legislação aplicável à espécie, ou seja, que a regência do denominado benefício previdenciário deve ocorrer pela lei da data da morte do instituidor da pensão por morte, o que justifica a extensão do direito até o interessado completar 21 (vinte e um) anos. Incidente ao caso, portanto, a legislação especial constante do art.7º, I, da Lei Estadual nº 10.776/82 e a Lei Federal 8.213/91.
+3. Ratificado o decisum monocrático, o regimental deve ser rejeitado.
+4. Agravo Regimental a que se nega provimento.
+ACÓRDÃO: Vistos, relatados e discutidos estes autos, acorda a 8ª Câmara Cível do Tribunal de Justiça do Estado do Ceará, por unanimidade, pelo Desprovimento do Agravo Regimental, nos termos do voto do Relator, Desembargador Francisco Darival Beserra Primo.
+Opostos embargos de declaração, foram rejeitados (fls. 199/204e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa ao art. 535, incisos I e II, do Código de Processo Civil, porquanto o Tribunal de Justiça do Estado do Ceará não teria apreciado pontos suscitados quanto à manutenção do pagamento de pensão por morte à demandante até a idade de 21 anos, visto que seria necessário aplicar os arts. 331, §1º, º, inciso II, alínea "b", e § 5.º, da Constituição estadual e o art. 6.º da Lei complementar estadual n.º 12/99, que criaram o Sistema Único de Previdência dos Servidores do Estado do Ceará, uma vez que a Lei estadual n.º 10.776/82, que regulamentava a concessão de benefícios pelo antigo Instituto de Previdência do Ceará (IPEC) já estava há muito revogada.
+Com contrarrazões (fls. 145/151e), o recurso foi admitido (fl. 155e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, caput, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+O Recorrente sustenta a existência de omissão no acórdão recorrido não suprida no julgamento dos embargos de declaração, porquanto o Tribunal de Justiça do Ceará teria se omitido na apreciação dos pontos suscitados pelo Recorrente, o que implicaria ofensa às normas processuais relativas ao princípio da correlação, da amplitude da apelação/remessa necessária.
+Ao prolatar o acórdão recorrido, o tribunal de origem enfrentou a controvérsia apresentada nos seguintes termos (fls. 181/183e):
+Este julgamento se refere à matéria já pacificada na seara dessa Corte de Justiça. No caso, a pensão previdenciária se rege pela lei da época do óbito do instituidor do benefício. Assim, como o evento morte, na espécie, ocorreu em 2004, a legislação previdenciária (norma de natureza especial), assesta que somente cessa o direito exame aos 21 (vinte e um) anos de idade do favorecido com a pensão. É o que define o art. 7º, I, da Lei Estadual nº 10.776/82, in verbis:
+Art. 7º - São considerados dependentes:
+I - a esposa, o marido inválido, os filhos de qualquer condição e os enteados, enquanto solteiros e menores de 21 (vinte e um) anos (..)
+Neste caso, apesar de a norma supra não se referir especificamente sobre os casos de pensão por morte, deve ser aplicada, pois ausente qualquer disciplina jurídica sobre o tema na lei em referência.
+Há, ainda, incidência da norma federal respectiva - Lei 8.213/91 - a qual dispunha à época do óbito, o seguinte:
+Art. 77. A pensão por morte, havendo mais de um pensionista, será rateada entre todos em parte iguais.
+( ) § 2º O direito à percepção de cada cota individual cessará:
+(..) II - para o filho, a pessoa a ele equiparada ou o irmão, de ambos os sexos, pela emancipação ou ao completar 21 (vinte e um) anos de idade, salvo se for inválido; (Incluído pela Lei nº 9.032, de 1995) (grifou-se)
+Com efeito, rememoro que a Lei Federal nº 8.112/90, que trata do regime jurídico dos servidores públicos civis da União, das autarquias e das fundações públicas federais, tem como pensionistas temporários os filhos, ou enteados, até os 21 (vinte e um) anos de idade, conforme se segue, ad litteram:
+
+Art. 217. São beneficiários das pensões:
+II - temporária:
+a) os filhos, ou enteados, até 21 (vinte e um) anos de idade, ou, se inválidos, enquanto durar a invalidez;
+Ademais, admitir a tese do Estado é negar o princípio do não retrocesso social ou effet cliquet, cujo entendimento dos mestres André Estudart Leitão e Augusto Grieco Sant"Anna Meirinho, na obra Manual de Direito Previdenciário, Ed. Saraiva, pág. 39, é o seguinte, ex extenso: "As críticas vertidas pelos defensores do "neoliberalismo" e as opções apresentadas para a reformulação de nosso Estado Social devem ser confrontadas com o modelo Welfare State inaugurado pela CF/88, sob pena de violação do princípio do não retrocesso social ou effet cliquet." Pensar de modo diverso ofende o princípio da legalidade, e nega vigência à Súmula nº 340, do Excelso Superior Tribunal de Justiça, que tem o seguinte teor: "A lei aplicável à concessão de pensão previdenciária por morte é aquela vigente na data do óbito do segurado".
+No caso, não verifico omissão acerca de questão essencial ao deslinde da controvérsia e oportunamente suscitada, tampouco de outro vício a impor a revisão do julgado.
+Com efeito, haverá contrariedade ao art. 535 do Código de Processo Civil quando a omissão disser respeito ao pedido, e não quando os argumentos invocados não restarem estampados no julgado, como pretende a parte Recorrente.
+O procedimento encontra amparo em reiteradas decisões no âmbito desta Corte Superior, de cujo teor merece destaque a dispensa ao julgador de rebater, um a um, os argumentos trazidos pelas partes (v.g. Corte Especial, EDcl nos EDcl nos EREsp 1284814/PR, Rel. Min. Napoleão Nunes Maia Filho, DJe de 03.06.2014; 1ª Turma, EDcl nos EDcl no AREsp 615.690/SP, Rel. Min. Sérgio Kukina, DJe de 20.02.2015; e 2ª Turma, EDcl no REsp 1365736/PE, Rel. Min. Humberto Martins, DJe de 21.11.2014).
+E depreende-se da leitura do acórdão recorrido que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e cotejo ao firme posicionamento jurisprudencial aplicável ao caso.
+Isto posto, com fundamento no art. 557, caput, do Código de Processo Civil, NEGO SEGUIMENTO ao Recurso Especial.
+Publique-se e intimem-se.
