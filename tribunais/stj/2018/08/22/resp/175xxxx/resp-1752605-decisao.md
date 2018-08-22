@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, fundado na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ fl. 192):
+PREVIDENCIÁRIO. DECADÊNCIA. PRESCRIÇÃO. REVISÃO. BURACO NEGRO. NOVOS TETOS. JUROS E CORREÇÃO MONETÁRIA. LEI 11.960/2009. CRITÉRIOS DE ATUALIZAÇÃO. DIFERIMENTO PARA A FASE PRÓPRIA (EXECUÇÃO). HONORÁRIOS ADVOCATÍCIOS.
+1. Não há decadência porquanto não se trata de revisão do ato de concessão, e sim de reajustes posteriores.
+2. A prescrição é interrompida para as ações individuais pelo ajuizamento de ação coletiva nº 0004911-28.2011.4.03.6183.
+(..)
+5. Confirmada a sentença no mérito, fixo a verba honorária em desfavor do INSS no patamar de 15% (quinze por cento) sobre as parcelas vencidas, considerando as variáveis dos incisos I a IV do § 2º do artigo 85 do NCPC. Caso a condenação ou o proveito econômico, por ocasião da liquidação, supere a primeira faixa, o acréscimo deverá incidir em idêntica proporção nas faixas mínimas e máximas subsequentes, na forma do art. 85, §5º, do CPC/2015.
+Os embargos de declaração foram rejeitados (e-STJ fls. 213/218).
+Sustenta o recorrente violação dos seguintes dispositivos legais:
+a) art. 1.022 do Código de Processo Civil de 2015, por negativa de prestação jurisdicional, em razão do não suprimento de omissões apontadas em sede de embargos de declaração quanto à interrupção do prazo prescricional;
+b) art. 103, parágrafo único, da Lei 8.213/1991, art. 104 da Lei 8.078/1990, art. 21 da Lei n. 7.347/1985 e art. 269, IV, do Código de Processo Civil de 1973, sustentando a impossibilidade de interrupção da prescrição por ação civil pública.
+Contrarrazões foram apresentadas às e-STJ fls. 235/241.
+Juízo positivo de admissibilidade consta à e-STJ fl. 244.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Feito esse registro, verifico que razão assiste ao recorrente.
+De início, não merece acolhimento a pretensão de reforma do julgado por negativa de prestação jurisdicional, porquanto o acórdão impugnado apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, contudo em sentido contrário à pretensão recursal, o que não se confunde com o vício apontado. A propósito: EDcl no AgInt no RE nos EDcl no AgInt no AREsp 887.885/RN, Rel. Ministro HUMBERTO MARTINS, Corte Especial, julgado em 18/04/2018, DJe 26/04/2018.
+Quanto ao mérito, razão assiste ao recorrente, pois, "em relação ao pagamento de parcelas vencidas, a prescrição quinquenal tem como marco inicial o ajuizamento da ação individual" (AgInt no REsp 1.642.625/ES, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, julgado em 06/06/2017, DJe 12/06/2017).
+Com efeito, "a propositura de ação coletiva com o mesmo objeto de ação individual tem o condão de interromper a prescrição. Ocorre que a prescrição é interrompida apenas para os fins de ajuizamento de ação individual e não para pagamento de parcelas vencidas  ..  a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da presente Ação Individual, nos termos da Súmula 85/STJ" (AgRg no REsp 1.559.883/RJ, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 16/02/2016, DJe 23/05/2016).
+Sobre a questão, destaco, ainda:
+PREVIDENCIÁRIO. ADEQUAÇÃO AOS TETOS. EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. TERMO INICIAL PARA CONTAGEM DA PRESCRIÇÃO QUINQUENAL INCIDENTE SOBRE PARCELAS VENCIDAS. DATA DO AJUIZAMENTO DA AÇÃO INDIVIDUAL E NÃO A DA PROPOSITURA DE ANTERIOR AÇÃO COLETIVA MOVIDA PELO MINISTÉRIO PÚBLICO. APLICAÇÃO DO PARÁGRAFO ÚNICO DO ART. 103 DA LEI N. 8.213/91.
+1. O cerne da controvérsia instalada no presente feito diz com o termo inicial da contagem da prescrição quinquenal sobre parcelas vencidas, oriundas da revisão de benefício previdenciário, em face dos reajustamentos decorrentes dos novos tetos estabelecidos pelos artigos 14 da EC nº 20/98 e 5º da EC 41/2003.
+2. Cuidando-se, como no presente caso, de ação individual de conhecimento movida pelo segurado contra a autarquia previdenciária, e desenganadamente desconectada da anterior ação coletiva proposta pelo Ministério Público Federal (ainda que com o mesmo objeto), inviável resulta, para fixação do marco inicial de contagem da prescrição de parcelas vencidas, tomar-se de empréstimo a data de propositura daquela pretérita lide movida pelo Parquet.
+3. Ao revés, deverá o termo inicial em comento recair na data da propositura da presente ação individual, garantindo-se à parte segurada o recebimento das parcelas relativas aos cinco anos anteriores ao ajuizamento da presente demanda, nos exatos termos do que dispõe o parágrafo único do art. 103 da Lei n. 8.213/91, verbis: "Prescreve em cinco anos, a contar da data em que deveriam ter sido pagas, toda e qualquer ação para haver prestações vencidas ou quaisquer restituições ou diferenças devidas pela Previdência Social, salvo o direito dos menores, incapazes e ausentes, na forma do Código Civil. (Incluído pela Lei nº 9.528, de 1997)".
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.645.952/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 08/05/2018, DJe 16/05/2018).
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para reconhecer a prescrição das parcelas anteriores aos cinco anos contados do ajuizamento da ação individual.
+Publique-se. Intimem-se.
