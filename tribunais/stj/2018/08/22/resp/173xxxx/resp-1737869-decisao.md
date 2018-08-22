@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARIA DE FÁTIMA SANTOS RAMALHO e OUTRO, com fulcro nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ fl. 937):
+EMBARGOS INFRINGENTES - DESAPROPRIAÇÃO DIRETA - CONDENAÇÃO - CORRESPONDÊNCIA- IRRESIGNAÇÃO - JUROS COMPENSATÓRIOS NO IMPORTE DE 12% - DESCABIMENTO - ESTABILIDADE ECONÔMICA PROPRICIA A REDUÇÃO PARA 6% AO ANO.
+Prevalência dos votos vencedores.
+Recurso negado.
+Foram rejeitados os aclaratórios (e-STJ fls. 945/949).
+Nas suas razões, os recorrentes apontam, além de divergência jurisprudencial, violação dos art. 543-C e 557, § 1º-A, do Código de Processo Civil de 1973, porque o aresto combatido teria dado interpretação divergente daquela firmada pelo Superior Tribunal de Justiça e Supremo Tribunal Federal quanto à incidência de juros compensatórios, a que se refere o art. 15-A do Decreto-Lei n. 3.365/1941.
+Aduzem que "o percentual dos juros compensatórios deve ser fixado à taxa de 12% (doze por cento) ao ano após 13.09.2001 (ADIN 2.332/DF), nos termos das Súmulas e dos Recursos Especiais Repetitivos mencionados" (e-STJ fl. 959).
+Contrarrazões foram apresentadas às e-STJ fls. 1.024/1.032.
+O Presidente da Seção de Direito Público do Tribunal de origem determinou a devolução dos autos ao órgão colegiado, a fim de que verificasse o possível juízo de retratação ante a tese firmada por esta Casa de Justiça no julgamento dos Temas 210 e 211.
+A decisão foi mantida pela Segunda Câmara de Direito Público e Coletivo da Corte a quo em acórdão com a seguinte ementa (e-STJ fl. 1.049):
+ADEQUAÇÃO DE POSICIONAMENTO - DECISÃO DECORRENTE DE CONCLUSÃO ATRAVÉS DE EMBARGOS INFRINGENTES - QUESTÃO DE JUROS COMPENSATÓRIOS - EMBASAMENTO EM JURISPRUDÊNCIA E
+LEGISLAÇÃO CORRESPONDENTE A ÉPOCA DO JULGADO.
+ADEQUAÇÃO NÃO ACOLHIDA.
+Juízo positivo de admissibilidade pelo Tribunal de origem consta às e-STJ fls. 1.061/1.062.
+O Ministério Público Federal opina pelo provimento do recurso especial (e-STJ fls. 1.072/1.077).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Na hipótese, o Tribunal de origem, por maioria de votos, reduziu os juros compensatórios para 6% ao ano, tendo sido o entendimento mantido na ocasião dos julgamento dos embargos infringentes, sob os seguintes termos (e-STJ fls. 938/939):
+Assim, no que se refere aos juros compensatórios, perfaz plausível fixa-lo em 6% ao ano, com incidência a partir da imissão na posse (Súmulas 69 e 113, do STJ), conforme expressamente consignando em decisão monocrática, tendo em consideração a existência de uma estabilidade econômica, pelo menos até a presente época, não sugerindo mais aquela perspectiva de alta.
+Nesse sentido, anota [NOME]: "Contudo, equívoco maior da jurisprudência está na fixação automática desses juros compensatórios à taxa de 12% ao ano, isto é, o dobro da taxa legal".. "Porém, a tendência da Corte Suprema, pela atual reduziu a taxa de juros de 12% para 6% a.a., aplica-se essa taxa nas ações ajuizadas depois da edição da referida Medida Provisória, inovando a jurisprudência da Corte, que vinha ignorando aquele instrumento normativo sob o fundamento de que a elevação da taxa ao dobro é uma criação pretoriana com base no preceito constitucional do justo preço. No mesmo sentido é a jurisprudência atualizada do STJ: Resp nº 874396-MG, Rel. Min. Humberto Martins, DJde 1º-3-2007, p. 253; Resp nº 750442-RJ, rel Min. Castro Meira, DJ de 27-2-2007, p. 244; Resp nº873449-RJ, Rei Min. Castro Meira, DJ de 2-2-2007, p. 388; Resp nº 840639-PR, Rel. Min. João Otávio de Noronha, DJ de 27-2-2007, p.248." (Desapropriação: doutrina e prática, São Paulo: Atlas, 2007, p. 145 e 147, respectivamente).
+De conseguinte, em que pese a douta posição que preponderou no V. Acórdão vencido, a posição jurídica externada pelos votos vencedores, por seus próprios e jurídicos fundamentos, denotam melhor expressar o contexto de direito aplicável ao caso concreto.
+Com isto, nega-se provimento ao recurso para prevalência dos termos dos votos vencedores, admitidos os prequestionamentos dos dispositivos legais e constitucionais passíveis de argumentação.
+Sobre o tema, é sabido que o Supremo Tribunal Federal editou a Súmula 618, pacificando o entendimento de que o percentual devido seria de 12% (doze por cento) ao ano. No entanto, em 1997 foi editada a Medida Provisória 1.577, que alterou o Decreto-Lei 3.365/1941, a fim de reduzir o percentual dos juros compensatórios para 6% (seis por cento) ao ano.
+O STF, ao apreciar a medida liminar na ADI 2.332/DF, suspendeu, por inconstitucionalidade, a eficácia da expressão "de até 6% ao ano" do art. 15-A do Decreto-Lei 3.365/41, acrescido pela Medida Provisória 1.577/99, depois Medida Provisória 2.183-56/2001.
+Com efeito, em observância à decisão proferida pelo Supremo Tribunal Federal na ADI 2.332/DF (DJe 19/9/2001), editou-se a Súmula 418 do STJ, a qual dispõe que, "nas ações de desapropriação, os juros compensatórios incidentes após a Medida Provisória n. 1.577, de 11/06/1997, devem ser fixados em 6% ao ano até 13/09/2001 e, a partir de então, em 12% ao ano, na forma da Súmula n. 618 do Supremo Tribunal Federal".
+Todavia, o Plenário do STF julgou o mérito da ADI 2.332/DF, na sessão de 17/05/2018, ocasião em que se declarou constitucional o percentual de juros compensatórios em 6% ao ano para fins de remuneração do proprietário pela perda prematura da posse do imóvel. Diante disso, forçoso convir que as orientações contida nos referidos enunciados ficaram superadas.
+Assim, constata-se que a taxa de juros compensatórios fixada no aresto combatido, em 6 % ao ano, encontra-se em conformidade com a novel orientação da Suprema Corte.
+Nos termos do disposto no art. 85, § 11, c/c o art. 98, VI, §§ 2º e 4º, do CPC/2015, deve ser fixada a verba honorária recursal, inclusive ao beneficiário da assistência judiciária gratuita.
+Ante o exposto, com base no art. 255, § 4º, II, do RISTJ, NEGO PROVIMENTO ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, estabeleço os honorários recursais sucumbenciais em 10% sobre o valor já fixado na origem, respeitados os limites e os critérios previstos nos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
