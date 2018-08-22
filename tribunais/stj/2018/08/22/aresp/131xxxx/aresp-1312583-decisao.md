@@ -1,0 +1,11 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto contra decisão que inadmitiu recurso especial.
+É o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise dos autos, verifica-se que o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - AV. BRIGADEIRO negou seguimento ao recurso especial porque havia questão que foi decidida em sede de recurso repetitivo e, também, o inadmitiu, quanto às demais questões.
+A parte apresentou agravo regimental/interno, insurgindo-se contra a tese repetitiva, ou seja, manifestou seu inconformismo quanto ao juízo de conformidade e, na mesma peça recursal, manifestou ainda sua inconformidade quanto à inadmissão do recurso especial, no que concerne à análise dos pressupostos de admissibilidade.
+O tribunal a quo julgou o agravo interno referente ao juízo de conformidade e determinou a remessa dos autos a esta Corte para julgar a questão relativa ao juízo de admissibilidade.
+No entanto, não há recurso ou tese a ser decidida nesta Corte, uma vez que, "Para impugnar decisão que obsta trânsito a recurso excepcional e que contenha simultaneamente fundamento relacionado à sistemática dos recursos repetitivos ou da repercussão geral (art. 1.030, I, do CPC) e fundamento relacionado à análise dos pressupostos de admissibilidade recursais (art. 1.030, V, do CPC), a parte sucumbente deve interpor, simultaneamente, agravo interno (art. 1.021 do CPC) caso queira impugnar a parte relativa aos recursos repetitivos ou repercussão geral e agravo em recurso especial/extraordinário (art. 1.042 do CPC) caso queira impugnar a parte relativa aos fundamentos de inadmissão por ausência dos pressupostos recursais" (Enunciado 77, da I Jornada de Direito Processual Civil do Conselho da Justiça Federal).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, NÃO CONHEÇO do recurso.
+Publique-se. Intimem-se.
