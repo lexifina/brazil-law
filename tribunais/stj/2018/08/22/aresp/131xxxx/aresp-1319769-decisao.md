@@ -1,0 +1,16 @@
+DECISÃO
+JEFFERSON BATISTA DA COSTA agrava da decisão que inadmitiu o recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo na Apelação n. 0008188-75.2011.8.26.0590.
+O agravante foi condenado à pena de 8 anos, 6 meses e 2 dias de reclusão, em regime fechado, mais multa, pela prática do delito previsto no art. 33, caput, c/c o art. 40, III, ambos da Lei n. 11.343/2006. Os autos dão conta da apreensão de 5 g de maconha. Busca a defesa a desclassificação do delito para o crime de uso de drogas.
+O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal de origem, o que ensejou a interposição de agravo em recurso especial.
+O Ministério Público Federal manifestou-se pelo não provimento do agravo.
+Decido.
+O agravo é tempestivo e preencheu os demais requisitos de admissibilidade, razão pela qual passo à análise do recurso especial.
+Pela leitura dos autos, constato que o Juiz sentenciante concluiu que "pelas circunstâncias em que se deu a prisão em flagrante do acusado, evidencia-se a realização do tráfico por ele" (fl. 206). Isso porque "as testemunhas, agentes penitenciários, ouvidas em Juízo, declararam, de forma harmônica e coerente, que estava sendo feito procedimento de revista dos presos antes de transportá-los de uma unidade para outra, com auxílio da polícia militar" e que "ao ser revistado como qualquer outro preso, foram encontradas em poder do réu, presas às nádegas com fita adesiva, as porções de maconha". Salientou o Magistrado, inclusive que, em depoimento, o próprio réu, ao alegar que "sofre perseguição de policiais", "afirmou que não usa drogas" (fl. 205).
+Assim, verifico que o Magistrado, após toda a análise do conjunto fático-probatório amealhado aos autos, concluiu pela existência de elementos concretos e coesos a ensejar a condenação do recorrente pelo crime de tráfico de drogas.
+Logo, mostra-se inviável a desclassificação da conduta do réu, sobretudo em se considerando que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente, exatamente como verificado nos autos.
+Ademais, para se entender pela desclassificação, seria imprescindível o reexame do acervo fático-probatório amealhado aos autos, procedimento vedado em recurso especial, consoante a Súmula n. 7 desta Corte Superior.
+Portanto, percebo a existência de óbice insuperável ao conhecimento do recurso.
+Ante o esgotamento das instâncias ordinárias, como no caso, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Por fim, determino o envio de cópia dos autos ao Juízo da condenação para imediata execução da pena imposta. A determinação deve ser desconsiderada caso o agravante já cumpra a reprimenda.
+Publique-se e intimem-se.
