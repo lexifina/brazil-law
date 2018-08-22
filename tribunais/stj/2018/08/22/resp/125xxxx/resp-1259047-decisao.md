@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por BILHARES IDEAL LTDA, contra acórdão do Tribunal Regional Federal da 4ª Região, proferido na vigência do CPC/73, assim ementado:
+"MANDADO DE SEGURANÇA. SIMPLES. MAJORAÇÃO ALíQUOTA. PRESTAÇÃO DE SERVIÇOS. LOCAÇÃO DE BEM MÓVEL. NÃO ENQUADRAMENTO. LEI Nº 9.317/1996. LEI Nº 10.034/2000. LEI Nº 10.833/2003. PLEITO COMPENSATÓRIO. INVIABILIDADE.
+1. O STF e a STJ já se manifestaram acerca do conceito antológico da atividade de locação de bens móveis no sentido da impossibilidade de enquadrá-la na definição de prestação de serviços. Nesse sentido, empresa locadora de mesas de bilhar não é sujeita à majoração da alíquota do SIMPLES, nas termos do art. 20 da Lei nº 10.034/00, com a redação dada pela Lei nº 10.833/03.
+2. Inviável o pleito compensatório porque, no caso das empresas optantes pelo regime simplificado, existe incompatibilidade do instituto da compensação, nos moldes do art. 74 da Lei n0 9.430/96, com os tributos apurados no regime especial" (fl. 235e).
+Opostos embargos de declaração, esses foram rejeitados.
+Nas razões do Recurso Especial aponta a insurgente que o acórdão recorrido violou os arts. 535, inciso II, do CPC/73, 165 e 170 do CTN, 73 e 74 da Lei 9.430/96, e 17 e 23 da Lei 9.317/96, sustentando, em síntese, além de negativa de prestação jurisdicional, que é possível a compensação de tributos apurados na forma do SIMPLES e o reconhecimento de seu direito de ter restituídos os valores que entende devidos.
+Apresentadas contrarazzões às fls. 293/299e, foi o Recurso Especial admitido na origem (fls. 32/330e), o que ensejou a sua ascensão a esta Corte Superior.
+A irresignação merece parcial acolhimento.
+De início, em relação ao art. 535 do CPC/73, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgRg no AREsp 408.492/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 24/10/2013; STJ, AgRg no AREsp 406.332/MS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/11/2013; STJ, AgRg no REsp 1360762/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/09/2013.
+Prosseguindo, o acórdão recorrido ao negar o pleito de compensação dos tributos apurados pelo regime do simples o fez a luz do art. 34 do Instrução Normativa nº 900 da RFB, e o recorrente não infirmou tal fundamento, circunstância que atrai a incidência da Súmula 283/STF.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+Por fim, não é possível reconhecer o direito da empresa contribuinte ter restituído os valores que entende devidos, uma vez que o não na inicial pedido expresso da restituição do crédito, de modo que não se pode apreciá-lo, sob pena de julgamento extra petita.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao Recurso Especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
