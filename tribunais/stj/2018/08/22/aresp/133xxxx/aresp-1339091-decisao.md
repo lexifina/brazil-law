@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 03/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. PRECEDENTES. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo interposto por IMOBILIÁRIA ZANIBONI LTDA (INDÚSTRIA E LAMINAÇÃO DE FERRO E AÇO BOA VISTA LTDA) em face de decisão proferida pelo Tribunal de Justiça do Estado de São Paulo, que negou admissibilidade a recurso especial manejado contra acórdão assim ementado (e-STJ fl. 362):
+Apelação - Embargos à Execução Fiscal - Multa sobre a propriedade urbana decorrente da não construção de muros e de passeio público - Sentença de procedência - Fundamentação legal inserida no título executivo somente após a oposição dos embargos - Verificada a regularidade da CDA - Princípios do contraditório e da ampla defesa não violados - Prosseguimento da execução - Sentença reformada - Recurso provido.
+Nas razões do recurso especial, interposto com base na alínea c do permissivo constitucional, a recorrente aponta divergência jurisprudencial uma vez que o Tribunal de origem reconheceu que o título extrajudicial não padece de qualquer omissão capaz de macular a cobrança ou que acarrete sua nulidade, porquanto constam todos os dados necessários à identificação da dívida.
+A inadmissão do recurso especial se fez à consideração de que a recorrente não comprovou a divergência jurisprudencial com o necessário cotejo analítico entre os julgados confrontados, bem como incide na espécie o óbice da Súmula 7/STJ que inviabiliza a verificação da possível identidade com o caso concreto.
+Nas razões de agravo, postula o processamento do recurso especial, haja vista ter cumprido todos os requisitos necessários à sua admissão.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O presente agravo não pode ser conhecido, pois "compete ao agravante, em sede de agravo regimental, infirmar especificamente os fundamentos da decisão agravada, nos termos da Súmula 182/STJ, sendo insuficiente repetir as mesmas razões expendidas no recurso especial"(AgRg nos EREsp 443.065/PR, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA SEÇÃO, julgado em 08/09/2010, DJe 20/09/2010).
+Nota-se que, da leitura da decisão de inadmissibilidade, o Tribunal de origem, ao indeferir o processamento do recurso especial, concluiu que a recorrente não atendeu ao requisito do necessário cotejo analítico para comprovar o dissídio, bem como o óbice da Súmula 7/STJ inviabiliza o exame da divergência alegada.
+Contudo, do exame do agravo interposto, observa-se que a agravante furtou-se de impugnar o segundo fundamento utilizado pelo juízo a quo para negar admissibilidade ao apelo especial, limitando-se a repisar as razões do recurso especial.
+Dessa feita, o agravo em recurso especial carece de fundamentação e, não se conhecerá do agravo que não tenha atacado especificamente todos os fundamentos da decisão de inadmissibilidade.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. ART. 544, § 4º, I, DO CPC. DANOS MORAIS. REVISÃO DO VALOR DA INDENIZAÇÃO. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Nos termos do art. 544, § 4º, I, do CPC, não se conhece de agravo cujas razões não impugnam especificamente o fundamento da decisão agravada.
+2. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão recorrida.
+ ..
+5. Agravo regimental a que se nega provimento. (AgRg no AREsp 238.398/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 05/03/2014)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. ART. 544, § 4º, I DO CPC. SÚMULA 182/STJ. ADEMAIS, O ACÓRDÃO RECORRIDO ENCONTRA-SE LIVRE DE OMISSÃO E DE ACORDO COM A JURISPRUDÊNCIA SUMULADA DESTA CORTE ACERCA DA INCLUSÃO DO ICMS NA BASE DE CÁLCULO DO PIS/COFINS. DESNECESSÁRIO O SOBRESTAMENTO DO PRESENTE FEITO EM FACE DE REPERCUSSÃO GERAL RECONHECIDA PELA SUPREMA CORTE. PRECEDENTES DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se conhece o Agravo em Recurso Especial, uma vez desatendido o pressuposto recursal da regularidade formal, no caso, consistente no combate específico e particularizado a cada um dos fundamentos que subsidiaram a inadmissão do recurso para o qual se busca o trânsito a esta Corte, nos termos do art. 544, § 4º., I do CPC e do Enunciado 182 da Súmula de jurisprudência deste Tribunal, neste caso, por analogia. Precedentes.
+ ..
+5. Agravo Regimental do Contribuinte desprovido, de acordo com a orientação sumulada desta Corte Superior. (AgRg no AREsp 286.347/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 26/11/2013, DJe 12/12/2013)
+Ademais, é dever do agravante demonstrar o desacerto do magistrado ao fundamentar a decisão impugnada, atacando especificamente e em sua totalidade o seu conteúdo, o que não ocorreu na espécie, uma vez que as razões apresentadas contra a decisão de inadmissibilidade do recurso especial não impugnaram todos fundamentos.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
