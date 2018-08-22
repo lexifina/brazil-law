@@ -1,0 +1,39 @@
+EMENTA
+PROCESSUAL CIVIL (CPC/2015). AGRAVO EM RECURSO ESPECIAL. AGRAVO CONHECIDO. RECURSO ESPECIAL. MULTA DIÁRIA. ALEGAÇÃO DE VALOR EXARCEBADO. VALOR FIXADO. REVISÃO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA Nº 07/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por AYMORÉ CRÉDITO, FINANCIAMETO E INVESTIMENTO S/A, contra decisão que inadmitiu o recurso especial fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AÇÃO DE OBRIGAÇÃO DE FAZER EXIBIÇÃO DE PLANILHA DE CÁLCULOS MULTA DIÁRIA - Fixação de multa diária para apresentar a planilha de cálculos da dívida - Cabimento - Valor da multa diária de R$ 100,00, que se mostra razoável, não configurando ônus excessivo à ré agravante, nem enriquecimento sem causa da autora - Descumprimento da ordem de exibição de documento que autoriza a incidência de multa coercitiva - Arts. 139, IV, 400, parágrafo único, e 403, parágrafo único, CPC/2015 - A multa (astreinte) constitui medida coercitiva tendente a induzir a parte a, ela própria, atender ao comando judicial - Serve como fator desestimulante à recalcitrância e tem por objetivo conferir efetividade à tutela jurisdicional, podendo ser fixada até de ofício, cujo montante deve ser suficiente a inibir ou forçar a conduta da parte, evitando que se subtraia ao comando jurisdicional - Incumbe ao juiz prevenir ou reprimir qualquer ato contrário à dignidade da justiça, determinando todas as medidas indutivas, coercitivas, mandamentais ou subrogatórias necessárias para assegurar o cumprimento de ordem judicial, inclusive nas ações que tenham por objeto prestação pecuniária (art. 139, III e IV, CPC/2015) - Decisão mantida - RECURSO DESPROVIDO" (e-STJ, fl. 91).
+Nas razões do recurso especial (e-STJ, fls. 104-122) a parte recorrente alega violação ao artigo 884 do Código Civil e ao artigo 537, §1º, do Código de Processo Civil. Sustenta, em síntese, que "a astreinte arbitrada tomou valores absolutamente desproporcionais, eis que tratamos de uma multa estipulada no valor de R$ 100,00, limitado ao valor de R$11.775,00 em caso de descumprimento. Neste prisma, a manutenção da astreinte, mostra-se equivocada, viabilizando assim o enriquecimento sem causa do recorrido" (e-STJ, fl. 109).
+Foram apresentadas contrarrazões ao recurso especial (e-STJ, fls. 153-155).
+Sobreveio o juízo de admissibilidade do Tribunal do origem (e-STJ, fls. 156-157), que inadmitiu o recurso especial por considerar que a recorrente deixou de demonstrar a suposta violação aos artigos arrolados e devido ao óbice da Súmula nº 07/STJ, o que ensejou a interposição do presente agravo.
+Nas razões do agravo (e-STJ, fls. 160-170), a parte agravante impugnou os fundamentos da decisão agravada.
+É o relatório.
+Passo a decidir.
+A controvérsia diz respeito à irresignação da recorrente quanto ao valor da multa diária fixada.
+Depreende-se dos autos que o Tribunal a quo, após minucioso exame dos elementos fáticos-probatórios contidos nos autos, entendeu que, diante da não exibição do documento determinado, seria razoável a estipulação da multa diária no valor de R$100,00 (cem reais), nesses termos:
+" ..  Na espécie, o valor de R$ 100,00, incidente a cada ato de descumprimento é razoável, não configurando ônus excessivo à executada agravante, nem enriquecimento sem causa do exequente. Nessa medida, quanto ao valor, o instituto da astreinte tem a finalidade de combater os óbices ao acesso à Justiça de modo célere e eficaz, podendo ser fixado até de ofício, cujo montante deve ser suficiente a inibir ou forçar a conduta da parte, evitando subtrair-se ao comando jurisdicional. Na hipótese vertente, nem cabe discussão sobre o montante, a não ser que a parte pretenda descumprir o comando judicial!! Se tenciona dar cumprimento regular à decisão judicial, não há razão para temer ou buscar a sua redução  .. " (e-STJ, fl. 94).
+Desse modo, elidir as conclusões do Tribunal de origem, com o objetivo de acolher a pretensão recursal, demandaria o reexame fático-probatório, o que é vedado em razão da Súmula nº 07 desta Corte.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+ ..
+2. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual, ou incursão no contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1647276/RO, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/08/2017, Dje 29/08/2017, grifei).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTIMAÇÃO DA DECISÃO RECORRIDA NA VIGÊNCIA DO CPC/1973. ART. 333 DO CPC/1973. ÔNUS PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ.
+ ..
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 652.988/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 03/05/2016, Dje 11/05/2016, grifei).
+No que tange à pretendida redução do valor da multa diária, esta Corte tem orientação firmada no sentido de que a quantia arbitrada somente pode ser revista quando exorbitante ou irrisória.
+No presente caso, importa ressaltar que o valor fixado a título de multa diária, qual seja, R$ 100, 00 (cem reais), não escapa à razoabilidade, nem se distancia do bom senso e dos critérios recomendados pela doutrina e pela jurisprudência desta Corte.
+Dessa forma, a revisão dos critérios e do valor fixado para a indenização tem seu reexame inviabilizado em sede de recurso especial, ante o teor do enunciado nº 07 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO (ART. 1.042 DO CPC/15) - AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AUTORA.
+1. Segundo orientação jurisprudencial firmada por esta Corte, a intervenção do Superior Tribunal de Justiça no tocante ao reexame do valor fixado a título de multa cominatória fica limitada aos casos em que o valor se mostre irrisório ou exagerado. 1.1. Hipótese na qual o quantum estabelecido pelo Tribunal de origem - R$ 500,00 (quinhentos reais) por dia - observou os princípios da proporcionalidade e razoabilidade, não se revelando irrisório. Incidência da Súmula 7 do STJ. 2.  ..  2.1. O reexame dos critérios fáticos, sopesados de forma equitativa e levados em consideração pelas instâncias ordinárias para fixar os honorários advocatícios, em princípio, é inviável em sede de recurso especial, a teor da Súmula 7 do STJ. A intervenção desta Corte somente é admitida nos casos em que o valor arbitrado, a considerar as peculiaridades do caso, seja flagrantemente irrisório ou exorbitante, o que não se evidencia no caso concreto. 3. Agravo interno desprovido.
+(AgInt no AREsp 1.128.386/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/05/2018, DJe em 25/05/2018, grifei).
+Neste contexto, em virtude da incidência da Súmula nº 07/STJ, o não conhecimento do presente recurso é medida que se impõe.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo nº 3/STJ).
+Por fim, cumpre esclarecer que "não cabe a majoração dos honorários advocatícios nos termos do § 11, do art. 85, do CPC de 2015 quando o recurso é oriundo de decisão interlocutória sem a prévia fixação de honorários" (AgInt no REsp 1.507.973/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 19/05/2016, DJe 24/05/2016).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
