@@ -1,0 +1,18 @@
+Trata-se de recurso extraordinário interposto contra acórdão no qual se extinguiu o processo sem resolução de mérito. O acórdão recorrido foi assim ementado:
+    “EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO. INSTRUÇÃO DEFICIENTE.
+    Em demandas previdenciárias, nos casos em que houver ausência ou insuficiência de provas do direito reclamado, o processo deve ser extinto sem julgamento do mérito. Precedente da Corte Especial do Superior Tribunal de Justiça, em sede de recurso representativo de controvérsia (CPC, art. 543-C), lavrado no REsp n.° 1.352.721/SP (Rel. Min. Napoleão Nunes Maia Filho. Julgado em 16/12/2015), ressalvado ponto de vista pessoal ” (pág. 15 do documento eletrônico 11).
+    Neste RE, fundado no art. 102, III, a e b, da Constituição, sustentou-se, em suma, violação do art. 5°, XXXV, XXXVI e LIV, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Esta Corte firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Esse entendimento foi consolidado no julgamento do ARE 748.371-RG (Tema 660), de relatoria do Ministro Gilmar Mendes, em que se rejeitou a repercussão geral da matéria sob os seguintes fundamentos:
+    “Ementa: Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+    Além disso, o Tribunal de origem, apoiado no Código de Processo Civil e na jurisprudência do Superior Tribunal de Justiça, extinguiu o processo sem julgamento de mérito, tendo em vista a ausência de conteúdo probatório eficaz a instruir a inicial.
+    Assim, para divergir desse entendimento, seria necessário rever a interpretação efetuada pelo juízo a quo em relação às normas infraconstitucionais aplicáveis à espécie, sendo certo que eventual ofensa à Constituição Federal seria indireta, o que inviabiliza o recurso. Nesse sentido, ao apreciar caso análogo, esta Corte rejeitou a repercussão geral da matéria em acórdão assim ementado:
+    “PRINCÍPIO DA INAFASTABILIDADE DA JURISDIÇÃO. ÓBICES PROCESSUAIS INTRANSPONÍVEIS. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. QUESTÃO INFRACONSTITUCIONAL. MATÉRIA FÁTICA. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    Não há repercussão geral quando a controvérsia refere-se à alegação de ofensa ao princípio da inafastabilidade de jurisdição, nas hipóteses em que se verificaram óbices intransponíveis à entrega da prestação jurisdicional de mérito” (RE 956.302/GO, Rel. Min. Edson Fachin, Tema 895 da repercussão geral).
+    No mesmo sentido, cito as seguintes decisões, entre outras: ARE 1.118.930/PB, Rel. Min. Alexandre de Moraes; ARE 1.118.939/PB, Rel. Min. Celso de Mello; RE 1.125.925/RS, Rel. Min. Dias Toffoli; RE 1.119.048/PR, de minha relatoria; ARE 1.118.937/SE, Rel. Min. Gilmar Mendes.
+    Por fim, verifico que o acórdão impugnado não declarou a inconstitucionalidade de lei federal ou tratado, o que afasta o cabimento de recurso extraordinário com base na alínea b do art. 102, III, da Constituição.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 22 de agosto de 2018.
+Ministro Ricardo Lewandowski
+Relator
