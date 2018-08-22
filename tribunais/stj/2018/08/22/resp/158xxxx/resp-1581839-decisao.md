@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por LUIZ FERNANDO FERNANDES DO NASCIMENTO - ME - MICROEMPRESA, que desafia acórdão assim ementado (e-STJ fl. 278):
+TRIBUTÁRIO. SIMPLES NACIONAL. LC N.º 123/2006. EMPRESA QUE EXERCE ATIVIDADE DE TRANSPORTE INTERMUNICIPAL E INTERESTADUAL DE PASSAGEIROS. VEDAÇÃO. LEGALIDADE. TRATAMENTO ISONÔMICO.
+1. As normas que regulam o SIMPLES guardam pertinência com necessidades de política fiscal da União. Quando deixou de prever o enquadramento das empresas de transporte intermunicipal e interestadual, o legislador optou por um critério que revela conveniência política, insuscetível de controle pelo Poder Judiciário.
+2. Não há na Constituição nenhuma previsão para que as micro ou pequenas empresas tenham o mesmo tratamento diferenciado, o que seria absurdo, já que entre elas há uma gama imensa de variedades, a exigir diferenciação dentro da diferenciação. O STF tem admitido o estabelecimento legal de distinções conforme as características da atividade.
+3. O ICMS, como hipótese de tributo extrafiscal, conquanto atrelado a uma finalidade regulatória ou inibitória, reveste-se de cunho instrumental serviente à intervenção estatal sobre o domínio econômico por meio indutivo, claro, o que não retira a possibilidade de designar-lhe a lei significação positiva, sintetizada no estímulo direto a determinado setor que se mostre desregulado.
+4. Não há, no caso, similitude de situação que permita invocar o princípio da isonomia. É marcante a distinção existente entre a tributação conferida às atividades de transporte municipal e às de transporte intermunicipal e interestadual. O mesmo se diga quanto ao serviço de transporte de cargas (intermunicipal e interestadual), pois, conquanto também sujeito ao ICMS, possui natureza diferenciada quanto ao objeto social (passageiros X cargas, mercadorias, bens em geral).
+5. Se é certo que a legislação determina por critérios objetivos - segundo a capacidade contributiva - quais as pessoas jurídicas possibilitadas de participar da sistemática do SIMPLES, também é certo que o legislador utilizou-se de critérios subjetivos - segundo a natureza das atividades das empresas - para definir as beneficiárias do regime fiscal simplificado.
+6. Seja tendo em vista conferir um estímulo a determinado setor da economia, seja em virtude da natureza da atividade prestada não comportar uma sistemática simplificada de cobrança de tributos, a discriminação das empresas vedadas à participação no SIMPLES segundo a natureza de sua atividade, desde que feita por critérios razoáveis, é compatível com a CF/88.
+No apelo nobre (e-STJ fls. 305/325), o recorrente aponta violação do art. 150, II, e 179 da CF/88, bem como a inconstitucionalidade do art. 17, VI, da LC 123/2006, alegando, em resumo, que preenche todos os requisitos para que seja incluída no Simples Nacional.
+Contrarrazões foram apresentadas às e-STJ fls. 332/350.
+Decisão de admissibilidade consta à e-STJ fl. 360.
+Passo a decidir.
+Inicialmente, destaco que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, sessão de 09/03/2016).
+Pois bem, o Tribunal a quo decidiu, em síntese, que, "seja tendo em vista conferir um estímulo a determinado setor da economia, seja em virtude da natureza da atividade prestada não comportar uma sistemática simplificada de cobrança de tributos, a discriminação das empresas vedadas à participação no SIMPLES, segundo a natureza de sua atividade, desde que feita por critérios razoáveis, é compatível com a CF/88".
+Considerado isso, verifico que o apelo especial não pode ser conhecido, pois o o fundamento condutor do acórdão recorrido é eminentemente de índole constitucional, insuscetível, portanto, de revisão pela via do recurso especial.
+Nesse mesmo sentido, vide:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COLETIVA. HONORÁRIOS. FRACIONAMENTO. ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO EXCLUSIVAMENTE CONSTITUCIONAL. EXAME. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. Tendo o Tribunal de origem decidido a controvérsia com base em fundamento exclusivamente constitucional, mostra-se incabível sua impugnação por meio de recurso especial, sob pena de invasão da competência reservada ao Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição da República.
+2. Agravo regimental improvido.
+(AgRg no AREsp 414.486/RS, Relator Ministro Arnaldo Esteves Lima, Primeira Turma, DJ 30/04/2012).
+PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. AÇÃO COLETIVA. LITISCONSÓRCIO. EXECUÇÃO DOS HONORÁRIOS SUCUMBENCIAIS. FRACIONAMENTO DA VERBA. FUNDAMENTO CONSTITUCIONAL.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+2. A Corte local consignou ser "Vedada a cobrança de parcela de honorários calculada sobre o crédito de cada litisconsorte/filiado substituído pela entidade de classe, pois configura indevido fracionamento, vedado pelo art. 100, § 8o da CF, na medida em que a verba honorária fixada na ação é única".
+3. O acórdão impugnado possui como fundamento matéria eminentemente constitucional, porquanto o deslinde da controvérsia deu-se à luz do art. 100, § 8º, da Constituição da República, de modo que a via especial não se presta a modificar os termos do aresto a quo, sob pena de invadir a competência exclusiva da Suprema Corte.
+4. Agravo Interno não provido.
+(AgInt no AREsp 933.894/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 25/10/2016).
+Ante o exposto, NÃO CONHEÇO do recurso especial (art. 255, § 4º, I, do RISTJ).
+Publique-se. Intimem-se.
