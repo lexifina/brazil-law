@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por causa da aplicação da Súmula n. 282/STF (e-STJ fls. 534/535).
+O acórdão do TJSP traz a seguinte ementa (e-STJ fl. 495):
+AGRAVO REGIMENTAL. Decisão da relatoria que negou seguimento a apelação que não questionou todos os fundamentos da sentença de primeiro grau. Regimental que busca alterar a monocrática. Descabimento. Decisão atacada que bem examinou a espécie. Inexistência, ademais, de fato novo a interferir no que foi deliberado. RECURSO IMPROVIDO.
+Nas razões do recurso especial (e-STJ fls. 512/522), interposto com fundamento no art. 105, III, alínea "a", da CF, o recorrente sustentou ofensa ao art. 8º do CPC/2015, aduzindo que a decretação de falência das empresas CONSTRUTORA E INCORPORADORA ATLÂNTICA LTDA. e GIRASSOL 2 INCORPORACAO SPE LTDA., ocorrida em 27/1/2017, caracterizaria fato novo a influir no julgamento do seu recurso em segunda instância. Assim, estariam justificados converter o pedido dos recorridos de entrega da unidade imobiliária em perdas e danos - devendo o seu pagamento observar o regramento dos arts. 83 e 108 da Lei n. 11.101/2005 - e cancelar a averbação do ajuizamento da demanda na matrícula do terreno alienado fiduciariamente ao banco.
+Foram ofertadas contrarrazões (e-STJ fls. 526/533).
+No agravo (e-STJ fls. 538/547), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 549/557).
+É o relatório.
+Decido.
+Na insurgência recursal, o recorrente sustentou que a decretação de falência das empresas CONSTRUTORA E INCORPORADORA ATLÂNTICA LTDA. e GIRASSOL 2 INCORPORACAO SPE LTDA., ocorrida em 27/1/2017, caracterizaria fato novo a influir no julgamento do seu recurso em segunda instância. Assim, estariam justificados converter o pedido dos recorridos de entrega da unidade imobiliária em perdas e danos - devendo o seu pagamento observar o regramento dos arts. 83 e 108 da Lei n. 11.101/2005 - e cancelar a averbação do ajuizamento da demanda na matrícula do terreno alienado fiduciariamente ao banco.
+Para justificar as suas teses, citou de passagem o art. 8º do CPC/2015, o que segundo a jurisprudência do STJ torna a fundamentação recursal deficiente e inviabiliza o conhecimento do recurso, ante o óbice da Súmula n. 284/STF, aplicada por analogia.
+A propósito:
+RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. RECURSO DE APELAÇÃO.
+EFEITO DEVOLUTIVO AMPLO. AUSÊNCIA DE OFENSA AOS ARTS. 515 E 535 DO CPC. ALEGAÇÃO DE OFENSA A DISPOSITIVOS CONSTITUCIONAIS. INADEQUAÇÃO DA VIA ELEITA. VIOLAÇÃO AO ART. 159 DO CC DE 1916. MERA INDICAÇÃO. SÚMULA 284/STF. VEDADA A REAPRECIAÇÃO DE PROVAS NESSA INSTÂNCIA. SÚMULA 07/STJ. DIVERGÊNCIA NÃO COMPROVADA. RECURSO ESPECIAL NÃO CONHECIDO.
+(..)
+4. A mera indicação de artigos de lei pretensamente violados não enseja o conhecimento do recurso especial, porquanto este é apelo de fundamentação vinculada e não incide o brocardo iura novit curia.
+(..)
+8. Recurso especial não conhecido.
+(REsp n. 794.537/MT, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 5/3/2009, DJe 6/4/2009.)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. ARTIGOS DE LEI MENCIONADOS DE PASSAGEM NA PETIÇÃO DE RECURSO ESPECIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF.
+1. Impossível o conhecimento do recurso pela alínea "a". Isto porque não há na petição do recurso especial a clara indicação dos dispositivos legais que se entende por violados. A citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto. Incide na espécie, por analogia, o enunciado n. 284, da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Precedente: REsp. n. 1.116.473 / RS, Segunda Turma, Rel. Min. Mauro Campbell Marques, julgado em 02.02.2012.
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.615.830/RS, Relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 5/6/2018, DJe 11/6/2018.)
+Além disso, o TJSP rejeitou a tese de fato novo suscitada pelo agravante em segunda instância, nos seguintes termos (e-STJ fls. 501/502):
+No tocante ao que o agravante batizou de fato novo, vale realçar três primordiais lâminas: (A) a constatação da circunstância é de atribuição exclusiva do relator (NCPC, art. 933); (B) se pudesse a parte fazê-lo, a admissibilidade de análise está jungida à sua invocação antes do pronunciamento final (Nelson Nery Júnior e Rosa
+Maria de Andrade Nery, Código de Processo Civil Comentado, São Paulo: RT, 2016, página 1.984; Humberto Theodoro Júnior, Curso de Direito Processual Civil, Rio de Janeiro: Forense. 2016, Vol. 3, pg. 780), o que, malgrado a r. decisão interlocutória suscitada tenha sido disponibilizada em 11 de agosto, deixou de ser feito a tempo; (C) os objetos das demandas são distintos e coexistirão dentro do universo de suas respectivas coisas julgadas (respeitados seus elementos subjetivo e objetivo), cuja eficácia os agravados estão absolutamente cientes e deverão por ocasião do cumprimento de sentença agir na forma devida, até porque formularam (letra "h" do item 53 folha 19) e tiveram atendido (parte dispositiva, linhas 15 e 16 folha 325) pedido subsidiário consistente conversão da obrigação em indenização.
+Logo, inexiste razão a ancorar a reforma pretendida.
+Assente-se, logo, que a informação trazida pelo agravante de que foi decretada a falência das ora interessadas não tem nenhuma influência para o resultado deste Agravo Regimental, devendo ser requerida e apreciada qualquer providência em sede de primeiro grau.
+Constata-se, portanto, que a Corte de origem não se manifestou quanto ao art. 8º do CPC/2015. Dessa forma, sem ter sido objeto de debate na decisão recorrida e ante a falta de aclaratórios, a matéria contida em tal dispositivo carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+Ademais, a respeito das razões de decidir de fls. 501/502 (e-STJ), o recorrente não se manifestou, limitando-se a sustentar a contrariedade ao art. 8º do CPC/2015, para justificar a conversão do pedido dos compradores de entrega da unidade imobiliária adquirida das empresas acima referidas em perdas e danos - devendo o seu pagamento observar o regramento dos arts. 83 e 108 da Lei n. 11.101/2005 - e o cancelamento a averbação do ajuizamento da demanda na matrícula do terreno alienado fiduciariamente ao banco.
+Assim, não estando impugnado fundamento suficiente para manter o acórdão recorrido, aplicável a Súmula n. 283/STF como óbice ao recurso.
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
