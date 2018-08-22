@@ -1,0 +1,29 @@
+DECISÃO
+1. Cuida-se de agravo interposto por CAIXA SEGURADORA S/A contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+Bem móvel. Compra e venda de veículo usado. Ação de obrigação de fazer. Transferência da propriedade do veículo junto ao órgão de trânsito, bem como da dívida incidente sobre o bem e posterior ao negócio celebrado entre as partes.
+Lide principal. Adquirente de veículo que não concluiu os procedimentos necessários para a efetivação da transferência da propriedade do bem para seu nome em razão do furto do automóvel. Situação na qual não se mostra razoável que as consequências do furto sejam suportadas pela alienante. Transferência de titularidade determinada. Responsabilidade da compradora pelo débito decorrente da propriedade do veículo e gerado em data posterior à tradição.
+Denunciação da lide. Omissão da seguradora, sub-rogada nos direitos e obrigações da segurada, quanto ao dever de efetuar a transferência da propriedade do veículo furtado para seu nome. Débito pendente sobre o bem gerado em data posterior ao furto.
+Responsabilidade da seguradora. Lide secundária procedente.
+Recursos principal e adesivo providos.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 134 do Código de Trânsito Brasileiro e 1.022 do CPC de 2015.
+Alega que "a seguradora não foi a compradora do veículo, o ônus da transferência era exclusivamente da parte autora e da ré denunciante, a seguradora por sua vez, tinha o direito de receber de uma das duas partes referidas o documento de transferência devidamente assinado e com firma reconhecida conforme determina a lei" (fl. 379). Sustenta negativa de prestação jurisdicional, ao argumento da Corte local não ter se manifestado expressamente acerca das omissões apontadas nos embargos de declaração.
+Contrarrazões ao recurso especial às fls. 387-397 e 398-406.
+É o relatório. Decido.
+2. Não há falar em violação ao art. 1.022 do Código de Processo Civil de 2015, pois o eg. Tribunal a quo dirimiu as questões pertinentes ao litígio, com fundamentação clara e suficiente. Cabe destacar que não significa omissão quando o julgador adota outro fundamento que não aquele perquirido pela parte.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA - AUSÊNCIA DE OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO - REDISCUSSÃO DO JULGADO - DECLARAÇÃO DA COMPETÊNCIA DO JUÍZO FALIMENTAR - PRECEDENTES DO STJ.
+1. Os embargos de declaração, a teor das disposições do art. 1.022 do Código de Processo Civil de 2015, são inviáveis quando inexiste obscuridade, contradição ou omissão na decisão embargada.
+2. Ausência de omissão, contradição, obscuridade ou erro material do acórdão embargado. Recurso dotado de caráter manifestamente infringente. Inexistência de demonstração dos vícios apontados, objetivando à rediscussão da matéria, já repetidamente decida.
+3.(..)
+4. Embargos de declaração rejeitados.(EDcl no AgInt no CC 144.334/RJ, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 24/08/2016, DJe 29/08/2016)
+3. No que tange à alegada violação ao art. 134 do CTB, a Corte local consignou o seguinte:
+"Com efeito, o julgado deixou assentado que o fato de o art. 134 do Código de Trânsito Brasileiro estabelecer a solidariedade pelas penalidades impostas, e suas incidências até a data da comunicação, entre o adquirente de veículo e o alienante que não comunica a venda perante o órgão de trânsito não impede que este busque junto àquele o cumprimento do dever de transferência da propriedade do bem.
+Ademais, não custa consignar que a responsabilidade solidária tratada em referido dispositivo legal diz respeito ao cumprimento da obrigação junto ao Detran e não exclui o direito do vendedor de exigir do comprador que arque com as penalidades impostas e os débitos incidentes sobre a propriedade do veículo após a alienação.
+De outra banda, registrou o V. Acórdão que "O fato de a ré/litisdenunciante não ter entregue o documento único de transferência (DUT) à litisdenunciada não tem o condão de afastar a responsabilidade desta, eis que, consoante se extrai das mensagens eletrônicas reproduzidas na contestação da seguradora (fls. 160), esta estava ciente da impossibilidade de entrega de tal documento, por ter sido ele furtado juntamente com o veículo, tanto que orientou a segurada a outorgar procuração pública, o que efetivamente ocorreu (fls. 79/80)" ." (e-STJ fl. 368)(g.n.)
+Verifica-se que a parte recorrente não cuidou de impugnar os fundamentos do acórdão recorrido destacados acima, como seria de rigor. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.".
+4. Quanto aos julgados colacionados, observa-se que o conhecimento do recurso fundado na alínea "c" do permissivo constitucional pressupõe a demonstração analítica da alegada divergência. Para tanto, faz-se necessário a transcrição dos trechos que configurem o dissenso, mencionando as circunstâncias que identifiquem os casos confrontados, ônus do qual não se desincumbiu a parte recorrente.
+Nesse sentido o AgRg no Ag 1004354 / RS, Relator Ministro Carlos Fernando Mathias (Juiz convocado do TRF 1ª Região), DJe 04.08.2008 e o AgRg no Ag 657431/SC, Relator Ministro Fernando Gonçalves, DJe 23.06.2008.
+Com efeito, no presente caso, a parte recorrente apenas transcreve as ementas dos acórdãos paradigmas, não realizando o necessário cotejo analítico do dissídio jurisprudencial.
+5. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
