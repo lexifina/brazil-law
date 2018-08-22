@@ -1,0 +1,60 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. VIOLAÇÃO DO PRINCÍPIO DO DEVIDO PROCESSO LEGAL. CONTRADITÓRIO. AMPLA DEFESA. NECESSIDADE DO EXAME DE NORMA INFRACONSTITUCIONAL. NEGATIVA DA PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.
+1. A Corte Suprema, ao examinar o ARE/RG 748.371/MT, reconheceu que carece de repercussão geral o tema relativo à violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, o que resulta, quanto a esses assuntos, no indeferimento liminar da insurgência (Tema 660/STF).
+2. Nos termos da jurisprudência firmada pelo Pretório Excelso, o atendimento ao comando normativo contido no inciso IX do art. 93 da Carta da República e ao art. 5º, inciso XXXV, da Lex Maxima exige que as decisões judiciais estejam alicerçadas, ainda que de maneira sucinta, em fundamentação apta à solução da controvérsia, embora a consecução de tal desiderato não imponha ao órgão julgador o exame minudente de todas as alegações veiculadas pelas partes (Tema 339/STF).
+ Agravo regimental improvido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Thereza de Assis Moura, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Sérgio Kukina, Francisco Falcão e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Felix Fischer, João Otávio de Noronha, Napoleão Nunes Maia Filho e Jorge Mussi.
+Convocado o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (Relator):
+Cuida-se de agravo regimental interposto por [NOME] contra decisão que negou seguimento ao recurso extraordinário nos termos da seguinte ementa (fl. 225, e-STJ):
+"RECURSO EXTRAORDINÁRIO. VIOLAÇÃO DOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DA AMPLA DEFESA E DO CONTRADITÓRIO. REPERCUSSÃO GERAL INEXISTENTE. TEMA 660/STF. VIOLAÇÃO DO PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA 895/STF. RECURSO EXTRAORDINÁRIO A QUE SE NEGA SEGUIMENTO."
+O acórdão objeto do recurso extraordinário apresenta a seguinte ementa (fl. 186, e-STJ):
+"AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. NÃO CONHECIMENTO. CRIME CONTRA A ORDEM TRIBUTÁRIA. SUSPENSÃO DA AÇÃO PENAL EM RAZÃO DA OPOSIÇÃO DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE. INCIDENTE QUE NÃO AFETOU A HIGIDEZ DO CRÉDITO TRIBUTÁRIO. COAÇÃO ILEGAL INEXISTENTE.
+1. Nos termos do artigo 93 do Código de Processo Penal, a suspensão da ação penal ante a pendência de discussão acerca do crédito tributário é facultativa. Doutrina. Jurisprudência.
+2. Na espécie, verifica-se que a oposição da exceção de pré-executividade pela defesa em nada afetou a constituição do crédito tributário, que permanece hígido, o que impede a suspensão do processo criminal, ante a independência entre as esferas cível, administrativa e penal. Precedentes.
+3. Em consulta à página da Justiça Federal no Espírito Santo constatou-se que a exceção de pré-executividade oposta pela defesa foi rejeitada, decisão confirmada no julgamento dos embargos de declaração opostos pela executada, o que reforça a inexistência de qualquer ilegalidade passível de ser sanada por esta Corte Superior de Justiça.
+4. Agravo regimental desprovido."
+A parte agravante aduz que (fl. 1.174, e-STJ):
+"Trata-se, portanto, de evidente negativa de prestação jurisdicional e violação ao direito fundamental à ampla defesa e ao contraditório, não sendo necessária a interpretação de qualquer dispositivo infralegal para se reconhecer o cerceamento destas garantias.
+De fato, o julgador na ação penal originária e os magistrados que apreciaram o presente writ, sob o argumento da "independência entre as esferas cível e criminal", não reconheceram a prejudicialidade da discussão travada no juízo cível e não enfrentaram as teses defensivas de: a) vício da presunção da omissão de receita em razão da nulidade das intimações da empresa para apresentar documentos fiscais e esclarecimentos sobre a origem da movimentação bancária; b) vício da presunção da omissão de receita, haja vista que a quebra de sigilo bancário que lhe deu ensejo foi realizada sem a precedência de um processo administrativo; e c) vício da presunção da omissão de receita, uma vez que não se aperfeiçoou o embaraço à fiscalização utilizado como fundamento para a quebra do sigilo bancário.
+Ademais, também o precedente reproduzido pelo douto julgador para afirmar que a violação ao princípio da inafastabilidade da jurisdição, quando das hipóteses que estiver revelado um "obstáculo intransponível" à atividade jurisdicional, conforme decisão proferida no RE 956.302, não apresenta qualquer identidade com a causa enfrentada nos presentes autos".
+Foram oferecidas contrarrazões pelo Ministério Público Estadual (fls. 248/254, e-STJ).
+É, no essencial, o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. VIOLAÇÃO DO PRINCÍPIO DO DEVIDO PROCESSO LEGAL. CONTRADITÓRIO. AMPLA DEFESA. NECESSIDADE DO EXAME DE NORMA INFRACONSTITUCIONAL. NEGATIVA DA PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.
+1. A Corte Suprema, ao examinar o ARE/RG 748.371/MT, reconheceu que carece de repercussão geral o tema relativo à violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, o que resulta, quanto a esses assuntos, no indeferimento liminar da insurgência (Tema 660/STF).
+2. Nos termos da jurisprudência firmada pelo Pretório Excelso, o atendimento ao comando normativo contido no inciso IX do art. 93 da Carta da República e ao art. 5º, inciso XXXV, da Lex Maxima exige que as decisões judiciais estejam alicerçadas, ainda que de maneira sucinta, em fundamentação apta à solução da controvérsia, embora a consecução de tal desiderato não imponha ao órgão julgador o exame minudente de todas as alegações veiculadas pelas partes (Tema 339/STF).
+ Agravo regimental improvido.
+
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (Relator):
+Nada a prover.
+Conforme consignado na decisão agravada, quanto às alegações de ofensa ao art. 5º, LV, da Constituição Federal, a Corte Suprema, ao julgar o ARE/RG 748.371 (Tema 660/STF), reconheceu que não possuem repercussão geral as questões relativas à ofensa aos princípios do devido processo legal, do contraditório e da ampla defesa, quando o julgamento da demanda estiver sujeito à prévia análise da correta incidência de regras infraconstitucionais.
+A ementa do acórdão paradigma possui o seguinte teor:
+"Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral." (ARE 748.371 RG, Rel. Min. GILMAR MENDES, julgado em 6/6/2013, publicado em 1º/8/2013.)
+Por fim, quanto à alegada ofensa ao art. 5º, XXXV, da Constituição Federal, a questão foi decidida pelo Supremo Tribunal Federal, no regime da repercussão geral, por ocasião do julgamento do AI-RG-QO n. 791.292/PE, relatado pelo Ministro Gilmar Mendes nos termos da seguinte ementa, in verbis:
+"Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º).
+2. Alegação de ofensa aos incisos XXXV e LV do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência.
+3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral." (STF, AI 791.292 QO-RG, Rel. Ministro Gilmar Mendes, DJe de 13/8/2010 - Tema n. 339 da sistemática da repercussão geral - grifo meu.)
+Nos termos da jurisprudência firmada pelo Pretório Excelso, o atendimento ao comando normativo contido no inciso IX do art. 93 da Carta da República e ao art. 5º, inciso XXXV, da Lex Maxima exige que as decisões judiciais estejam alicerçadas, ainda que de maneira sucinta, em fundamentação apta à solução da controvérsia, embora a consecução de tal desiderato não imponha ao órgão julgador o exame minudente de todas as alegações veiculadas pelas partes.
+Assim, para efeito de análise de conformidade da decisão com o decidido sob o regime de repercussão geral, deve ser verificado se o aresto atacado possui motivação suficiente à solução da controvérsia ou se, à míngua da satisfação desse requisito, caracterizou-se a afronta aos art. 5º, XXXV, e 93, IX, da Constituição Federal.
+Importante consignar que, nesta fase processual, a análise da questão constitucional ora em comento está adstrita à aferição da existência ou não de fundamentação suficiente para lastrear o acórdão recorrido. Por conseguinte, a verificação do acerto ou desacerto da motivação adotada no provimento judicial atacado extrapola os limites da cognição inerente ao juízo de admissibilidade exercido por esta Vice-Presidência.
+No caso dos autos, o acórdão recorrido apresenta fundamentação suficiente para justificar as razões de não provimento do agravo regimental do recorrente. É o que se depreende do seguinte excerto do voto condutor (fls. 189/191, e-STJ):
+"Feitos tais esclarecimentos acerca dos fatos imputados ao recorrente, sabe-se que, de acordo com o artigo 93 do Código de Processo Penal, "se o reconhecimento da existência da infração penal depender de decisão sobre questão diversa da prevista no artigo anterior, da competência do juízo cível, e se neste houver sido proposta ação para resolvê-la, o juiz criminal poderá, desde que essa questão seja de difícil solução e não verse sobre direito cuja prova a lei civil limite, suspender o curso do processo, após a inquirição das testemunhas e realização das outras provas de natureza urgente".
+Vê-se, então, que cumpre ao magistrado singular analisar a necessidade ou não de suspensão da ação penal, tratando-se, assim, de faculdade a ele conferida.
+(..)
+ Na espécie, verifica-se que a oposição da exceção de pré-executividade pela defesa em nada afetou a constituição do crédito tributário, que permanece hígido, o que impede a suspensão do processo criminal, ante a independência entre as esferas cível, administrativa e penal.
+(..)
+Ademais, em consulta à página da Justiça Federal no Espírito Santo constatou-se que a exceção de pré-executividade oposta pela defesa foi rejeitada, decisão confirmada no julgamento dos embargos de declaração opostos pela executada, o que reforça a inexistência de qualquer ilegalidade passível de ser sanada por esta Corte Superior de Justiça.
+Irretocável, por conseguinte, o aresto impugnado, que concluiu inexistir "ilegalidade no prosseguimento da ação penal por suposta prática do crime do art. 1º, I e II, da Lei nº 8.137/1990 em razão da oposição de exceção de pré-executividade (..), devendo, ser, portanto, rechaçada a alegada questão prejudicial heterogênea apontada pela defesa, a qual não justifica a aplicação do art. 93 do CPP, impondo-se os princípios da presunção de legitimidade do ato administrativo (no que diz respeito à constituição definitiva do crédito tributário) e da independência entre as instâncias penal e tributária" (e-STJ fl. 107).
+Ante o exposto, nega-se provimento ao agravo regimental".
+Com efeito, da leitura da petição de agravo regimental não se extrai argumentação relevante apta a infirmar os fundamentos do julgado ora recorrido. O recurso em análise, na verdade, nada acrescenta às razões anteriormente expendidas.
+Ante o exposto, nego provimento ao agravo regimental.
+É como penso. É como voto.
+MINISTRO HUMBERTO MARTINS
+Vice-Presidente
