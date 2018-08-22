@@ -1,0 +1,24 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. PACIENTE PORTADORA DE APNÉIA OBSTRUTIVA DO SONO. FORNECIMENTO DE "APARELHO CPAP" PARA USO CONTÍNUO E EXTRA-HOSPITALAR. CUSTEIO DO APARELHO PELO PLANO. NATUREZA ACESSÓRIA. USO AUTÔNOMO, FORA DE SITUAÇÃO DE INTERNAÇÃO. UTILIZAÇÃO INDEPENDENTE DA REDE DE ATENDIMENTO. AUSÊNCIA DE OBRIGATORIEDADE DO FORNECIMENTO NA MODALIDADE DOMICILIAR. EXCEÇÃO LIMITADA À SITUAÇÃO DE HOME CARE OU PARA MEDICAMENTOS ANTINEOPLÁSTICOS EM TRATAMENTO ONCOLÓGICO. LEI Nº 9.656/98. DESCUMPRIMENTO DE NORMA CONTRATUAL E ILEGALIDADE NA NEGATIVA DE ATENDIMENTO. NÃO VERIFICADA. REVISÃO DESTE ENTENDIMENTO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por SEBASTIANA GOMES CALACIA, contra decisão do Tribunal de Justiça do Distrito Federal e Territórios que negou seguimento a recurso especial com fundamento na alínea "a" do permissivo constitucional.
+A agravante infirmou os fundamentos da decisão agravada.
+Nas razões do recurso especial, a recorrente alega ofensa ao artigo 51, caput, inciso IV, do Código Defesa do Consumidor.
+Defende, em síntese, que "a previsão da lista de medicamentos e procedimentos abrangidos pela resolução da ANS é meramente exemplificativa e minimamente obrigatória, a ser cumprida pelos planos privados de assistência à saúde, sendo que a cláusula contratual que exclui um tratamento indispensável para a saúde do seguradores sua cobertura é evidentemente abusiva" (e-STJ Fl. 301).
+Assim, sustenta "a obrigatoriedade do fornecimento do aparelho CPAP, ainda que ausente a previsão de cobertura pelo rol previsto em resoluções da ANS" (e-STJ Fl. 301).
+É o relatório.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+Com efeito, em relação à suposta violação ao artigo 51, caput, inciso IV, do Código de Defesa do Consumidor, a Corte de origem assentou que:
+"Ocorre que, no caso plasmado nestes autos, a aparelhagem buscada pela autora (aparelho de CPAP), ainda que indicada por seu médico assistente (fls. 16, 51 e 53) e destinada a auxiliar no tratamento de mazela acobertada pelo plano, consubstancia-se tão somente em aparelho de uso contínuo e em ambiente domiciliar, sem a necessidade de internação, observação ou mesmo acompanhamento por profissionais especializados.
+O médico assistente receitou o aparelho para uso externa e independente da rede de atendimento à saúde - ensejando o uso totalmente autônomo, ainda que parte do tratamento, e, sobretudo, no ambiente domiciliar.
+Tal situação distingue-se daquela albergada pela jurisprudência evidenciada alhures - que abarca, por exemplo, os casos de tratamento na modalidade home care, onde o atendimento configura modelo de atenção hospitalar, ou seja, uma verdadeira internação que toma lugar fora da unidade hospitalar, mas que mantém a essência daquela, posto que é o serviço prestado sob supervisão de equipe de saúde, caso em que se admite a extensão da cobertura pelo plano de saúde, independentemente de eventual limitação contratual.
+A situação da requerente assemelha-se mais ao fornecimento de medicamentos de administração via oral nos casos de tratamento realizador em regime domiciliar (não ministrados durante a internação hospitalar), nos quais a única previsão legalmente assegurada está adstrita aos casos de tratamento antineoplásticos, na qualidade de continuação da assistência prestada no âmbito da internação hospitalar (art. 12, I, "c" e II, "g" da Lei 9.656/98).
+Outrossim, não se tratando de aparelho acessório ao ato cirúrgico, e, ademais, sendo a recomendação de uso externa à rede de atendimento, configurando uso autônomo e domiciliar, não se vislumbra a obrigatoriedade seu fornecimento pelo plano de saúde, dado que há exclusão legal de tal previsão.
+Portanto, ainda que não entendido o aparelho respiratório como mero acessório, a obrigatoriedade do seu fornecimento pelos planos de saúde de aparelho respiratório fica limitada aos casos de internação hospitalar, eventualmente extensível por força de entendimento jurisprudencial à modalidade home care, o que não se amolda ao caso dos autos.
+Ademais, a previsão constante do contrato pactuado entre as partes prevê expressamente tais exclusões, em consonância com a legislação de regência, consoante se vislumbra das cláusulas 6.3 e 6.4" (e-STJ Fls. 288/290).
+Assim, elidir as conclusões do aresto impugnado demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 07/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Considerando o disposto no § 11 do art. 85 do CPC/2015, majoro os honorários advocatícios, originalmente fixados em R$ 1.500,00 (Hum mil e quinhentos reais) (fl. 293, e-STJ), para 2.000,00 (Dois mil reais), a serem suportados exclusivamente pela parte recorrente.
+Intimem-se.
