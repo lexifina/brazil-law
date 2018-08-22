@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por FRIGORÍFICO RAINHA DA PAZ LTDA, contra acórdão do Tribunal Regional Federal da 4ª Região, proferido na vigência do CPC/73, assim ementado:
+"AGRAVO DE INSTRUMENTO. PROCESSO CIVIL., EXCEÇÃO DE INCOMPETÊNCIA, JUÍZO ESTADUAL. MUDANÇA DE ENDEREÇO DA MATRIZ DA EXECUTADA. CONTRATO SOCIAL. QUESTÃO FÁTICA.
+PENA DE LITIGÂNCIA DE MÁ-FÉ.
+1. Inexistindo equívoco no ajuizamento da execução fiscal e tendo a exceção de incompetência sido aforada após a regular citação da executada, não bá razões para deslocar a competência do Juízo Estadual. Inteligência da SÚmula 58 do STJ.
+2. Na ausência de prova robusta a demonstrar que a agravante agiu de forma a atentar contra a dignidade da Justiça, é de rigor o afastamento da pena de litigância de má-fé.
+3. Agravo parcialmente provido" (fl. 164e).
+Nas razões do Recurso Especial aponta a insurgente que o acórdão recorrido violou os arts. 87, 94, 100, inciso IV, 112, 213, 214, 297, 304, 305, 330, inciso I, 331, 333, inciso II, 364, 387, 473 e 578 do CPC/73, art. 75, 212, inciso II, e 215 do Código Civil, art. 15, inciso I, da Lei 5.010/16 e art. 1º, inciso I e 61 da Lei 8.934/94.
+Sustenta, em síntese, que a competência para o julgamento do presente processo é da comarca de Londrina, tendo em vista a a transferência de seu domicílio antes da propositura da execução fiscal.
+Apresentadas contrarazzões às fls. 201/205e, foi o Recurso Especial admitido na origem (fls. 296/297e), o que ensejou a sua ascensão a esta Corte Superior.
+A irresignação não merece acolhimento.
+O Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que in verbis:
+"Se a ação é proposta, equivocadamente, em foro diverso daquele do domicilio do devedor, é lícito ao juiz, antes da citação, acolher o pedido de remessa dos autos ao juízo competente, evitando assim os embaraços da previsível exceção de incompetência e, mais que tudo, o retardo de uma execução por carta.
+Ab inilo, cumpre observar que, na espécie, não houve erro no ajuizamento, porquanto a data em que ocorreu a alteração do contrato social (02/06/2009) é muito próxima ao do ajuizamento (23107/2009), sendo praticamente impossível à exequente ter tomado ciência da alteração do domicílio da matriz da executada antes da propositura.
+De outro lado, estranhamente (já que alega-se que houve mudança de endereço, antes do ajuizamento), os representantes legais da executada foram citados nio endereço constante da CDA, na cidade de Ibiporã/PR, em 25/09/2009 (vide fi. 130 verso) - mais de três meses após a noticiada mudança - sendo que aceitaram normalmente a contra-fé e nada referiram quanto à alteração do domicilio. Tampouco o oficial de Justiça noticiou qualquer óbice à citação ou sinais de que a empresa não mais se encontrava no local indicado, o que permite concluir que, quando do ajuizamento e da citação, a empresa estava, de fato, instalada no mesmo endereço, circunstância que atrai o enunciado da Súmula 58 do STJ, verbis:
+(..)
+Destarte, embora no contrato social conste a alteração do domicílio em 02/06/2009, na prática, este fato não se comprovou não tendo, portanto, o condão de, deslocar a competência do Juízo Estadual, até porque não houve equivoco no ajuizamento. Ademais, a alteração de domicilio deveria ter sido noticiado antes da citação, conforme ilustra o seguinte precedente deste TRF: (..)" (fls. 162/163e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao Recurso Especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
