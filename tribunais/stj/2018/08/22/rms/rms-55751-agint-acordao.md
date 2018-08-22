@@ -1,0 +1,36 @@
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CANDIDATO APROVADO EM CADASTRO DE RESERVA. PROLAÇÃO DE DECISÃO JUDICIAL EM AÇÃO CIVIL PÚBLICA. PRETENSÃO DE EXECUÇÃO EM MANDADO DE SEGURANÇA. VIA PROCESSUAL INADEQUADA. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO, EM CONSONÂNCIA COM O PARECER DO MPF.
+1. A jurisprudência desta Corte firmou entendimento de que o Mandado de Segurança não é a via processual adequada para dar cumprimento a obrigação prevista em termo de ajustamento de conduta ou em acórdão prolatado em Ação Civil Pública. Precedentes: AgInt no RMS. 52.333/GO, Rel. Min. MAURO CAMPBELL MARQUES, DJe 3.4.2017 e AgInt no RMS 54.350/GO, Rel. Min. SÉRGIO KUKINA, DJe 5.12.2017.
+2. Agravo Interno do Particular a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto contra a decisão que rejeitou o Recurso Ordinário em Mandado de Segurança interposto por [NOME], mantendo o acórdão proferido pelo TJGO, que foi assim ementado:
+MANDADO DE SEGURANÇA. ILEGITIMIDADE PASSIVA AFASTADA. CONCURSO PÚBLICO. [NOME] [NOME] 2o. CLASSE. EDITAL 001/2012. AÇÃO CIVIL PÚBLICA 446485-57.2013.8.09.0051. CUMPRIMENTO INDIVIDUAL DA SENTENÇA. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
+1. Sendo o objeto da impetração a nomeação do impetrante para o cargo de [NOME] - 2a. Classe, não há que se falar em ilegitimidade passiva do Governador do Estado, por se encontrar dito ato na esfera de suas atribuições, nos termos do artigo 37, XII, da Constituição do Estado de Goiás. Por sua vez, não tem o Secretário de Gestão e Planejamento do Estado de Goiás legitimidade para integrar a lide.
+2. Ante os efeitos do provimento coletivo adquirido em sede da Ação Civil Pública 201394464851, a impetração do mandado de segurança não combina com a melhor técnica processual, já que o cumprimento individual da mencionada sentença melhor se coaduna com as particularidades do caso concreto.
+SEGURANÇA DENEGADA. MANDADO DE SEGURANÇA EXTINTO SEM RESOLUÇÃO DE MÉRITO (fls. 305/306).
+2. Em suas razões recursais, afirma a parte agravante que é adequada a via eleita e a Ação Civil Pública - ACP é apenas mais um elemento (prova) que tem como objetivo, comprovar o direito líquido e certo de ser nomeado e empossado no cargo (fls. 385/386).
+3. Requer a reconsideração da decisão ora agravada ou, caso assim não aconteça, que o recurso seja levado à Turma competente.
+4. É o relatório.
+VOTO
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CANDIDATO APROVADO EM CADASTRO DE RESERVA. PROLAÇÃO DE DECISÃO JUDICIAL EM AÇÃO CIVIL PÚBLICA. PRETENSÃO DE EXECUÇÃO EM MANDADO DE SEGURANÇA. VIA PROCESSUAL INADEQUADA. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO, EM CONSONÂNCIA COM O PARECER DO MPF.
+1. A jurisprudência desta Corte firmou entendimento de que o Mandado de Segurança não é a via processual adequada para dar cumprimento a obrigação prevista em termo de ajustamento de conduta ou em acórdão prolatado em Ação Civil Pública. Precedentes: AgInt no RMS. 52.333/GO, Rel. Min. MAURO CAMPBELL MARQUES, DJe 3.4.2017 e AgInt no RMS 54.350/GO, Rel. Min. SÉRGIO KUKINA, DJe 5.12.2017.
+2. Agravo Interno do Particular a que se nega provimento.
+1. Cinge-se a controvérsia pela possibilidade de nomeação em decorrência de aprovação no concurso público regulado pelo Edital 01/2012, destinado ao provimento dos quadros da Polícia Militar do Estado de Goiás, que já foi objeto de análise por esta Corte.
+2. A jurisprudência desta corte firmou entendimento de que o Mandado de Segurança não é a via processual adequada para dar cumprimento a obrigação prevista em termo de ajustamento de conduta ou em acórdão prolatado em Ação Civil Pública. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ENUNCIADO ADMINISTRATIVO 3/STJ. CONCURSO PÚBLICO. POLÍCIA MILITAR. CLASSIFICAÇÃO FORA DO NÚMERO DE VAGAS OFERTADAS. FORMAÇÃO DE CADASTRO DE RESERVA. PRETERIÇÃO POR CONTRATAÇÃO TEMPORÁRIA. SIMVE. DESCARACTERIZAÇÃO. CELEBRAÇÃO DE TAC. PROLAÇÃO DE DECISÃO JUDICIAL EM AÇÃO CIVIL PÚBLICA. PRETENSÃO DE EXECUÇÃO FORÇADA. VIA PROCESSUAL INADEQUADA. CARÊNCIA DE INTERESSE DE AGIR.
+1. O mandado de segurança não é a via processual adequada para dar cumprimento a obrigação prevista em termo de ajustamento de conduta ou em acórdão prolatado em ação civil pública.
+2. São ambos espécies de título executivo e, portanto, exigem a instauração do respectivo processo executório.
+3. Agravo interno não provido (AgInt no RMS. 52.333/GO, Rel. Min. MAURO CAMPBELL MARQUES, DJe 3.4.2017).
+
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. POLÍCIA MILITAR. DECISÃO JUDICIAL FAVORÁVEL PROFERIDA EM AÇÃO CIVIL PÚBLICA.
+PRETENSÃO DE EXECUÇÃO FORÇADA. INADEQUAÇÃO DA VIA MANDAMENTAL.
+1. A jurisprudência desta Corte firmou entendimento no sentido de que o mandado de segurança não é a via processual adequada para dar cumprimento a obrigação prevista em termo de ajustamento de conduta ou em acórdão prolatado em ação civil pública. São ambos espécies de título executivo e, portanto, exigem a instauração do respectivo processo executório (Aglnt no RMS 52.333/GO, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 3.4.2017).
+2. A decisão agravada, na linha desse precedente, reafirmou a inadequação da via eleita, pois a pretensão do impetrante era dar cumprimento, por meio do writ, à sentença que, na ação civil pública, lhe foi favorável.
+3. Agravo interno a que se nega provimento (AgInt no RMS 54.350/GO, Rel. Min. SÉRGIO KUKINA, DJe 5.12.2017).
+3. Ademais, destaca-se, ainda, o entendimento da Corte Goiana nos seguintes termos:
+Em outros termos, eventual existência de vagas, inclusive as decorrentes de desistências e da pretensa inobservância às proporções contidas na norma editalícia, deve ser discutida naquele feito, atualmente em fase de cumprimento provisório de sentença, até porque leitura contrária implicaria em inarredável desconsideração do que restou ali decidido, notadamente com relação aos limites orçamentários (gastos com policiais temporários do SIMVE), a repercutir manifesto risco de preterição aos candidatos que foram melhores classificados do que o impetrante.
+Nunca demais reprisar que o direito reconhecido na ação civil pública em questão ampara-se justamente na preterição de chamamento dos aprovados no certame público em testilha, verificada com a contratação de egressos das forças armadas para, em caráter temporário, exercerem as funções dos mesmos cargos em que foi promovido concurso público.
+De modo que, diante da ausência de pressuposto para válida e regular constituição do processo (inadequação da via eleita), imperativa a denegação da segurança, com supedâneo no art. 6o. , §5o. da lei 12.016/2009 (fls. 340/341).
+4. Ante o exposto, nega-se provimento ao Agravo Interno. É como voto.
