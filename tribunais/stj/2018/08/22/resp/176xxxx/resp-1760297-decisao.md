@@ -1,0 +1,47 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. OFENSA AO ARTIGO 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA A CARGO DA EMPRESA. REGIME GERAL DA PREVIDÊNCIA SOCIAL. INCIDÊNCIA SOBRE GRATIFICAÇÃO NATALINA PROPORCIONAL AO AVISO PRÉVIO INDENIZADO. MULTA DO ARTIGO 1.026, §2º, DO CPC/2015. INEXISTÊNCIA DE CARÁTER PROTELATÓRIO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão do Tribunal Regional Federal da 1ª Região cuja ementa é a seguinte:
+TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. VERBAS INDENIZATÓRIAS E SALARIAIS. VERBA HONORÁRIA.
+1. NÃO INCIDE a contribuição previdenciária sobre as seguintes verbas considerando sua natureza indenizatória:
+- aviso prévio indenizado - REsp 1.230.957 - RS, "representativo da controvérsia", r. Ministro Mauro Campbell Marques, 1 a Seção do STJ em 18.03.2014.
+- 13º proporcional ao aviso prévio (AMS 0005162-98.2012.4.01.4200 - RR, r. Des.
+Federal [NOME], 8a Turma deste TRF1, em 21.03.2014; e AC 0004722-95.2013.4.01.3803 - MG, r. Des. Federal Reynaldo Fonseca, 7a Turma deste TRF1 em 25.03.2014.
+2. INCIDE a contribuição previdenciária sobre as seguintes verbas considerando sua natureza salarial:
+- horas extras e respectivo adicional - REsp 1.358.281/SP, "representativo da controvérsia", r. Ministro Herman Benjamin, 1 a Seção do STJ em 23/04/2014.
+- adicionais noturno e de periculosidade - Idem recurso especial.
+- adicional de insalubridade - AgRg no AREsp 116488/DF, r. Ministro Mauro Campbell Marques, 2a Turma do STJ em 09/09/2014.
+- adicional/auxílio de quebra de caixa - AgRg no REsp 1.397.333/RS, r. Ministro Herman Benjamin,2a Turma do STJ em 02.12.2014.
+3. Verba honorária. Reformada parcialmente a sentença, esse encargo é fixado de acordo com as normas do CPC/2015, cujos parâmetros são o valor da condenação, o proveito econômico obtido ou valor da causa - nessa ordem.
+4. Dos oiti pedidos formulados pelas autoras, elas ficaram derrotadas em seis deles, caso em que devem pagar a verba honorária nos termos do art. 86, p. único do CPC/2015: "Se um litigante sucumbir em parte mínima do pedido, o outro responderá, por inteiro, pelas despesas e pelos honorários".
+5. É indevida a antecipada verba honorária de 10% sobre o valor da causa. Sendo ilíquida a sentença condenatória de repetição/compensação, caso em que o percentual da verba honorária somente poderia ser fixada depois da liquidação julgado (quando então o valor será conhecido), observadas as faixas dos incisos I a V do § 3º do art. 85 e os requisitos subjetivos do art. 85, § 2º, relativamente ao advogado.
+6. Apelação da União/ré desprovida. Apelação das autoras parcialmente provida.
+Opostos embargos de declaração, foram rejeitados.
+No recurso especial interposto com fundamento no artigo 105, inciso III, "a" da Constituição Federal, a ora recorrente aponta ofensa aos artigos 1.022 e 1.026 do CPC/2015 e 20 e 28 da Lei 8.212/91, alegando, em síntese: (a) vício no acórdão recorrido, mesmo após a oposição de embargos de declaração; (b) que incide contribuição previdenciária sobre os valores pagos a título de décimo terceiro salário proporcional ao aviso prévio indenizado; (c) que a multa deve ser afastada, pois os embargos de declaração não foram opostos com intuito protelatório.
+O recurso foi admitido pela decisão à fl. 311.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Quanto à alegada ofensa ao artigo 1.022 do CPC/2015, depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou da questão suscitada, resolvendo, portanto, de modo integral a controvérsia posta.
+Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional, nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Ilustrativamente:
+PROCESSUAL CIVIL E TRIBUTÁRIO - CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE O DÉCIMO-TERCEIRO SALÁRIO - CÁLCULO EM SEPARADO - REGIME DAS LEIS 8.212/91 E 8.620/93 - POSSIBILIDADE - CPC, ART. 535, II - AUSÊNCIA DE VIOLAÇÃO.
+1. Não ocorre ofensa ao art. 535, II, do CPC, se o Tribunal de origem analisa, ainda que implicitamente, a tese objeto dos dispositivos legais apontados pela parte.
+2. A eg. Primeira Seção pacificou o entendimento de que, na vigência da Lei n.º 8.620/93, é legítimo o cálculo em separado da contribuição previdenciária sobre o décimo-terceiro salário (EREsp 442.781, Rel. Min. Teori Albino Zavascki, julgado em 14.11.2007, DJ de 10.12.2007).
+3. Recurso especial provido.
+(REsp 868.242/RN, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 27/05/2008, DJe 12/06/2008)
+Rejeitada, portanto, a preliminar de violação ao artigo 1.022 do CPC/2015.
+Outrossim, a orientação das Turmas que integram a Primeira Seção/STJ é pacífica no sentido de que "o décimo-terceiro salário (gratificação natalina) integra o salário-de-contribuição para fins de incidência de contribuição previdenciária" (REsp 812.871/SC, 2ª Turma, Rel. Min. Mauro Campbell Marques, DJe de 25.10.2010). Essa orientação encontra amparo na jurisprudência do Supremo Tribunal Federal que se firmou no sentido de que "é legítima a incidência da contribuição previdenciária sobre o 13º salário" (Súmula 688/STF).
+No mesmo sentido:
+TRIBUTÁRIO. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C, DO CPC. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE O DÉCIMO-TERCEIRO SALÁRIO. DECRETO Nº 612/92. LEI FEDERAL Nº 8.212/91. CÁLCULO EM SEPARADO. LEGALIDADE APÓS EDIÇÃO DA LEI FEDERAL Nº 8.620/93.
+1. A Lei n.º 8.620/93, em seu art. 7.º, § 2.º autorizou expressamente a incidência da contribuição previdenciária sobre o valor bruto do 13.º salário, cuja base de cálculo deve ser calculada em separado do salário-de-remuneração do respectivo mês de dezembro (Precedentes: REsp 868.242/RN, DJe 12/06/2008; EREsp 442.781/PR, DJ 10/12/2007; REsp n.º 853.409/PE, DJU de 29.08.2006; REsp n.º 788.479/SC, DJU de 06.02.2006; REsp n.º 813.215/SC, DJU de 17.08.2006).
+2. Sob a égide da Lei n.º 8.212/91, o E. STJ firmou o entendimento de ser ilegal o cálculo, em separado, da contribuição previdenciária sobre a gratificação natalina em relação ao salário do mês de dezembro, tese que restou superada com a edição da Lei n.º 8.620/93, que estabeleceu expressamente essa forma de cálculo em separado.
+3. In casu, a discussão cinge-se à pretensão da repetição do indébito dos valores pagos separadamente a partir de 1994, quando vigente norma legal a respaldar a tributação em separado da gratificação natalina.
+4. Recurso especial provido. Acórdão submetido ao regime do art. 543-C do CPC e da Resolução STJ 08/2008.
+(REsp 1.066.682/SP, 1ª Seção, Rel. Min. Luiz Fux, DJe de 1º.2.2010)
+Nesse contexto, "a circunstância de o aviso prévio indenizado refletir na composição da gratificação natalina é irrelevante, devendo a contribuição previdenciária incidir sobre o total da respectiva verba. Assim, os valores relativos ao 13º proporcional ao aviso prévio indenizado por possuem natureza remuneratória (salarial), sem o cunho de indenização, sujeitam-se à incidência da contribuição previdenciária." (AgRg no REsp 1383613/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 23/09/2014, DJe 10/10/2014)
+Por fim, com relação à multa aplicada pelo Tribunal de origem, da leitura da petição dos embargos de declaração opostos pela ora recorrente, não se constata caráter manifestamente protelatório ou temerário que justifique a sanção imposta.
+Assim, não havendo caráter protelatório nos embargos de declaração, não se revela adequada a aplicação da multa prevista no artigo 1.026, §2º, do CPC/2015.
+Ressalte-se que, nos termos da Súmula 98/STJ: "embargos de declaração manifestados com notório propósito de prequestionamento não tem caráter protelatório".
+Nos termos da Súmula 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ, dou parcial provimento ao recurso especial, para determinar a incidência de contribuição previdenciária sobre os valores pagos a título de decimo terceiro proporcional ao aviso prévio indenizado, bem como, o afastamento da multa aplicada em sede de embargos de declaração.
+Publique-se. Intimem-se.
