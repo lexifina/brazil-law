@@ -1,0 +1,51 @@
+EMENTA
+SEGUNDOS EMBARGOS DE DECLARAÇÃO. PRETENSÃO DE REEXAME E ADOÇÃO DE TESE DISTINTA. INEXISTÊNCIA DE VÍCIOS NO JULGADO.
+1. O recorrente, nos presentes embargos, não traz nenhuma omissão, contradição ou obscuridade. Apenas busca o retardamento da prestação jurisdicional.
+2. Depreende-se dos autos que o ponto da controvérsia está na insatisfação com o deslinde da causa. O acórdão embargado encontra-se suficientemente discutido, fundamentado e de acordo com a jurisprudência desta Corte e com a do Supremo Tribunal Federal, não ensejando, assim, o acolhimento dos embargos.
+3. Em decorrência da interposição de sucessivos recursos protelatórios, impõe-se a certificação do trânsito em julgado com a consequente baixa imediata dos autos.
+Embargos de declaração rejeitados com determinação de certificação do trânsito em julgado.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração e determinou a certificação do trânsito em julgado, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Thereza de Assis Moura, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Sérgio Kukina, Francisco Falcão e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Felix Fischer, João Otávio de Noronha, Napoleão Nunes Maia Filho e Jorge Mussi.
+Convocado o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (Relator):
+Cuida-se de novos embargos de declaração opostos por [NOME] contra acórdão proferido pela Corte Especial, que rejeitou os primeiros declaratórios opostos pela parte embargante nos termos da seguinte ementa (fl. 1.608, e-STJ):
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PRETENSÃO DE REEXAME E ADOÇÃO DE TESE DISTINTA. INEXISTÊNCIA DE VÍCIOS NO JULGADO.
+1. Os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual se deveria pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+2. O acórdão embargado consignou que, quanto ao preenchimento dos requisitos de admissibilidade recursal, o Supremo Tribunal Federal já declarou que não há repercussão geral (Tema 18 l/STF).
+3. Não são cabíveis os embargos de declaração cujo objetivo é ver reexaminada a controvérsia. Há irresignação da parte embargante com o resultado do julgado.
+Embargos de declaração rejeitados."
+Insiste o embargante que, "ao enfrentar duas questões distintas - ausência de pressupostos de admissibilidade e de repercussão geral -, esta Corte, com o devido respeito, as tratou como se iguais fossem. Eis a contradição" (fl. 1.624, e-STJ).
+Aduz, ainda, que, "ao adentrar ao mérito dos aclaratórios, o acórdão foi omisso, pois, mesmo tratando do conteúdo da controvérsia, não demonstrou a inexistência de repercussão geral, porque não analisou exatamente os termos dos aclaratórios anteriormente opostos" (fl. 1.624, e-STJ).
+Impugnação apresentada pelo Ministério Público Federal e pelo Ministério Público do Estado de São Paulo (fls. 1.637-1.641 e 1.643-1.650, e-STJ).
+É, no essencial, o relatório.
+EMENTA
+SEGUNDOS EMBARGOS DE DECLARAÇÃO. PRETENSÃO DE REEXAME E ADOÇÃO DE TESE DISTINTA. INEXISTÊNCIA DE VÍCIOS NO JULGADO.
+1. O recorrente, nos presentes embargos, não traz nenhuma omissão, contradição ou obscuridade. Apenas busca o retardamento da prestação jurisdicional.
+2. Depreende-se dos autos que o ponto da controvérsia está na insatisfação com o deslinde da causa. O acórdão embargado encontra-se suficientemente discutido, fundamentado e de acordo com a jurisprudência desta Corte e com a do Supremo Tribunal Federal, não ensejando, assim, o acolhimento dos embargos.
+3. Em decorrência da interposição de sucessivos recursos protelatórios, impõe-se a certificação do trânsito em julgado com a consequente baixa imediata dos autos.
+Embargos de declaração rejeitados com determinação de certificação do trânsito em julgado.
+
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (Relator):
+Não há vícios no julgado.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos declaratórios são cabíveis nas hipóteses de haver omissão, contradição, ambiguidade ou obscuridade na decisão prolatada. Não pode tal meio de impugnação ser utilizado como forma de se insurgir quanto à matéria de fundo, quando esta foi devidamente debatida no acórdão embargado.
+Não merece reparos a decisão que negou seguimento ao recurso extraordinário, visto que aplicou o entendimento consolidado pelo Supremo Tribunal Federal, consubstanciado nos Temas 181 e 660 do STF.
+No caso dos autos, a Corte Especial rejeitou seus primeiros embargos de declaração sob o argumento de que é impossível a análise do mérito, uma vez que o recurso não ultrapassou sequer a barreira da admissibilidade, conforme trecho abaixo (fl. 1.613, e-STJ):
+"Não obstante o esforço contido nas razões recursais, não prospera a pretensão de reforma da decisão prolatada.
+Conforme consignado na análise monocrática, verifica-se dos autos que a decisão objeto do recurso extraordinário se firmou no não preenchimento dos pressupostos de admissibilidade necessários à análise do mérito recursal ante a ausência de impugnação específica sobre os fundamentos da decisão agravada.
+Nesse ponto, o Supremo Tribunal Federal firmou entendimento no sentido de que a matéria referente ao cabimento de recursos da competência de outros tribunais não possui repercussão geral, pois está restrita ao âmbito infraconstitucional, o que não enseja a abertura da via extraordinária (Tema 181/STF).
+No mais, o Plenário Virtual do Supremo Tribunal Federal, por meio do julgamento do ARE-RG 748.371/MT, Tema 660, entendeu pela inexistência de repercussão geral quanto à alegação de ofensa ao direito adquirido, ao ato jurídico perfeito e à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação de normas infraconstitucionais, como na espécie. Eis a ementa do julgado."
+O que se verifica, no caso dos autos, é a adoção, no acórdão embargado, de posição contrária aos interesses da parte embargante. Ocorre que o recurso de embargos de declaração não tem a finalidade de confrontar julgados ou teses dissonantes e, por conseguinte, dirimir eventual divergência acerca da matéria em exame.
+Como dito, para a configuração de vícios no julgado, é necessário que algum fundamento relevante para o julgamento da controvérsia não tenha sido objeto de apreciação pelo órgão julgador ou que a omissão, a contradição e a obscuridade suscetíveis de serem afastadas por meio de embargos declaratórios estejam contidas entre os próprios termos do dispositivo ou entre a fundamentação e a conclusão do acórdão embargado.
+Nesse sentido, verifica-se que, na realidade, a parte embargante pretende a análise do acerto ou desacerto da decisão de admissibilidade do recurso extraordinário. Todavia, em sede de embargos de declaração, não é possível rejulgar a matéria que já decidida, o que denota o intuito protelatório na reiteração do recurso, a ensejar a certificação do trânsito em julgado.
+Cumpre ressaltar que a interposição de sucessivos recursos, sem a demonstração de vícios no julgado, configura abuso do direito de recorrer, autorizando a baixa imediata dos autos.
+A propósito, os seguintes precedentes do STF:
+"PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. OMISSÃO, CONTRADIÇÃO, AMBIGUIDADE OU OBSCURIDADE. INEXISTÊNCIA. EMBARGOS MANIFESTAMENTE INCABÍVEIS. CARÁTER PROTELATÓRIO DO RECURSO. DETERMINADA A CERTIFICAÇÃO DO TRÂNSITO EM JULGADO COM A CONSEQUENTE BAIXA IMEDIATA DOS AUTOS. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS. 1. Não são cabíveis embargos de declaração quando não houver, no acórdão recorrido, contradição, obscuridade, ambiguidade ou omissão (art. 619 do Código de Processo Penal). 2. In casu, o embargante não se desincumbiu do ônus de demonstrar as hipóteses de cabimento dos embargos de declaração, se limitando a tecer considerações acerca de suposta violação ao princípio do contraditório e da ampla defesa. 3. O agravo regimental em matéria penal não segue a sistemática do Novo Código de Processo Civil, por haver regramento próprio. A novel legislação processual também não se aplica a recursos interpostos de decisões publicadas antes da sua vigência. 4. Evidenciado o abuso do direito de recorrer, decorrente da interposição de sucessivos recursos protelatórios, impõe-se a certificação do trânsito em julgado, com a consequente baixa imediata dos autos. 5. Embargos de declaração não conhecidos." (RHC 124.968 AgR-ED, Relator Min. LUIZ FUX, Primeira Turma, julgado em 28/10/2016, processo eletrônico DJe-243, divulgado em 16/11/2016, publicado em 17/11/2016.)
+"Embargos de declaração nos embargos de declaração nos embargos de declaração no agravo regimental no recurso ordinário em mandado de segurança. Terceiros embargos mediante os quais se busca rediscutir a causa. Reexame. Impossibilidade. Não conhecimento. Precedentes. 1. Inexistência dos vícios do art. 1.022 do novo Código de Processo Civil (Lei nº 13.105/15). As questões trazidas nos declaratórios já foram apreciadas pela Turma no julgamento dos dois embargos de declaração anteriormente opostos. 2. Não se conhece de terceiros embargos de declaração cujo objetivo seja promover a rediscussão da causa. 3. Não conhecimento dos embargos de declaração, com aplicação da multa prevista no art. 1.026, § 2º, do atual Código de Processo Civil, e determinação de certificação do trânsito em julgado e de pronta baixa dos autos à origem." (MS 31.833 AgR-ED-ED-ED, Relator Min. DIAS TOFFOLI, Segunda Turma, julgado em 24/5/2016, processo eletrônico DJe-118, divulgado em 8/6/2016, publicado em 9/6/2016.)
+Ante o exposto, rejeito os embargos de declaração e determino a certificação do trânsito em julgado, baixa dos autos no sistema do STJ e sua remessa à origem, independentemente da publicação desta decisão e da interposição de eventual novo recurso.
+É como penso. É como voto.
+MINISTRO HUMBERTO MARTINS
+Vice-Presidente
