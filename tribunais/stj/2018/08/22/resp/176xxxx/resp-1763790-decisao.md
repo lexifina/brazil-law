@@ -1,0 +1,6 @@
+DECISÃO
+1. Cuida-se de agravo interposto por PROMAR EMPREENDIMENTOS IMOBILIARIOS LTDA. e OUTROS em face da decisão que negou seguimento ao recurso especial, por sua vez manejado contra acórdão assim ementado:
+REINTEGRAÇÃO DE POSSE C.C. INDENIZAÇÃO - Fase de cumprimento definitivo de sentença - Decisão que deferiu a desconsideração da personalidade jurídica dos agravantes - Inconformismo - Desacolhimento - Aplicação do disposto no art. 252 do RITJSP - Rearranjo societário que gerou verdadeira redução patrimonial da executada, com a transferência de patrimônio para os recorrentes, impedindo-a de satisfazer seu débito com os exequentes - Confusão patrimonial caracterizada, nos termos do art. 50 do Código Civil - Decisão mantida - Recurso desprovido.
+Sustenta violação ao artigo 50 do Código Civil.
+2. Em face das circunstâncias que envolvem a controvérsia e para melhor exame do objeto do recurso, com fundamento no artigo 34, inciso VII, do Regimento Interno do Superior Tribunal de Justiça, DOU PROVIMENTO ao presente agravo para determinar a sua conversão em recurso especial, sem prejuízo de novo exame acerca de seu cabimento, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
