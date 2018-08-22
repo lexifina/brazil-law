@@ -1,0 +1,44 @@
+EMENTA
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. OMISSÃO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. HONORÁRIOS ADVOCATÍCIOS. EXECUÇÃO. RPV. PRECLUSÃO. INEXISTÊNCIA. PRECEDENTES DO STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E PROVIDO.
+DECISÃO
+Trata-se de recurso especial do Sindicato dos Trabalhadores das Universidades Federais de Pernambuco fundado na alínea "a" do permissivo constitucional interposto contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+Processual civil. Administrativo. Execução de Sentença contra Fazenda Pública. Honorários advocatícios arbitrados. Condenação na fase de execução. Impossibilidade. Ocorrência da preclusão. Precedentes.
+Agravo de instrumento provido.
+Opostos embargos de declaração, foram eles rejeitados.
+Nas razões de recurso especial, o recorrente apontou violação dos seguintes dispositivos: a) art. 489, §1º, IV, e 1.022, II, do CPC/15, aduzindo omissão no acórdão recorrido a despeito da oposição de embargos de declaração na origem; b) art.85 do CPC/15 e 22 e 23 da Lei n. 8.906/94, sustentando inexistência de preclusão.
+Houve contrarrazões (e-STJ fls. 566/572).
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Preliminarmente, quanto à apontada violação dos arts. 489 e 1.022, a insurgência não merece prosperar.
+Isso porquanto, não basta a simples oposição dos aclaratórios na origem. É necessário que a demonstração, de forma fundamentada que: (a) a questão supostamente omitida foi tratada na apelação, no agravo ou nas contrarrazões a estes recursos, ou, ainda, que se cuida de matéria de ordem pública a ser examinada de ofício, a qualquer tempo, pelas instâncias ordinárias; (b) houve interposição de aclaratórios para indicar à Corte local a necessidade de sanear a omissão; (c) a tese omitida é fundamental à conclusão do julgado e, se examinada, poderia levar à sua anulação ou reforma.
+A despeito disso, a parte limitou-se a citar as omissões das quais padeceria o julgado sem demonstrar as razões pelas quais as teses seriam capazes de infirmar o resultado a que chegou a Corte de Origem. Cito trecho do especial (e-STJ fls. 537/538):
+Das demais omissões verificadas
+Ademais, em razão do vício apontado, o acórdão recorrido deixou de analisar argumentos essenciais para o deslinde da questão, a saber:
+a) Súmula 345 do STJ, que prevê o cabimento de honorários nas execuções provenientes de ações coletivas, ainda que não embargadas;
+b) Art. 20, §§ 3º e 4º, do CPC/73, que dispõem acerca da autonomia dos processos de conhecimento, de execução e embargos à execução, bem como sobre o princípio da sucumbência;
+c) Art. 85, §§ 14 e 15, do CPC/15, que referem que os honorários constituem direito autônomo do advogado, legalmente previsto, cujo arbitramento independe de pedido explícito nos autos;
+d) Configuração de trabalho gratuito por parte dos advogados dos exequentes, ora recorrente, se deixarem de serem fixados honorários na execução, em violação ao art. 7º, incisos IV, VII e X, da CF/88;
+e) Indispensabilidade do advogado à administração na Justiça, tanto nos embargos à execução como na própria execução, conforme prescrevem os ; arts. 133 da CF e 36 do CPC (art. 103, do CPC/15)
+f) Por ser indispensável, a presença do advogado é obrigatória, e, como decorrência lógica, mostra-se indelével o seu direito a uma contraprestação pelo trabalho efetuado, sob pena de violação ao art. 22, caput e § 2º, art. 23 e 24, § 3º da Lei nº 8.906/94 , seja ele realizado na fase cognitiva, seja prestado no processo de execução;
+g) Art. 5º, inciso XXXV, da CF/88, eis que, caso mantido o acórdão regional, os recorrentes terão dificuldades para contratar advogado que se disponha a atuar no processo executório sem contraprestação remuneratória, de forma que tal dispositivo restará violado;
+h) Art. 85, § 18, do CPC/15, que assegurou inclusive a possibilidade de fixação de honorários em ação autônoma, para o caso de eventual não fixação no processo respectivo.
+Dessa feita, infere-se da leitura que a violação trazida ao recurso não restou devidamente fundamentada.
+No mérito, melhor razão assiste o recorrente. Aduz que não há que se falar em preclusão uma vez que não existe dispositivo legal determinando o momento processual para requerer a fixação dos honorários. De fato, assim entende essa Corte de Justiça.
+Segundo jurisprudência consolidada no STJ, "não há preclusão no pedido de arbitramento de verba honorária, no curso da execução, mesmo que a referida verba não tenha sido pleiteada no início do processo executivo, e apesar de já ter ocorrido pagamento da RPV, tendo em vista a inexistência de dispositivo legal que determine o momento processual para esse pleito" (v.g.: AgRg no AREsp 268.392/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 07/03/2013). Nesse sentido:
+PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. EXECUÇÃO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. PRECLUSÃO. NÃO OCORRÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. NÃO COMPROVAÇÃO. DESCUMPRIMENTO DOS REQUISITOS LEGAIS.
+1. Não se conhece de Recurso Especial quanto a matéria não especificamente enfrentada pelo Tribunal de origem, dada a ausência de prequestionamento.
+Incidência, por analogia, da Súmula 282/STF.
+2. Nos termos da jurisprudência pacífica do STJ, não há preclusão no pedido de arbitramento de verba honorária, no curso da execução, mesmo que a referida verba não tenha sido pleiteada no início do processo executivo, e apesar de já ter ocorrido pagamento da RPV, tendo em vista a inexistência de dispositivo legal que determine o momento processual para esse pleito. Precedentes: AgRg no REsp 1.188.906/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 26/11/2014; AgRg no AREsp 268.392/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 7/3/2013.
+3. A divergência jurisprudencial deve ser comprovada, cabendo ao recorrente demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ) impede o conhecimento do Recurso Especial com base no art. 105, III, alínea "c", da Constituição Federal.
+3. Recurso Especial não conhecido.
+(REsp 1681096/RN, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/09/2017, DJe 10/10/2017)
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. REQUISIÇÃO DE PEQUENO VALOR. PEDIDO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS FORMULADO APÓS O PAGAMENTO DA RPV. POSSIBILIDADE. PRECLUSÃO. INOCORRÊNCIA. PRECEDENTE JULGADO SOB O RITO DO ART. 543-C DO CPC/1973: REsp. 1.252.412/RN, Rel. Min. ARNALDO ESTEVES LIMA, DJe 3.2.2014. AGRAVO INTERNO DO INSTITUTO DE PREVIDÊNCIA DO ESTADO DO RIO GRANDE DO SUL A QUE SE NEGA PROVIMENTO.
+1. A Corte Especial desta Corte, no julgamento do Recurso Especial 1.252.412/RN, de relatoria do eminente Ministro ARNALDO ESTEVES LIMA (DJe 3.2.2014), sob o rito dos recursos repetitivos previsto art. 543-C do CPC/1973, entendeu que inexiste preclusão do arbitramento de verba honorária, no curso da execução, ainda que sobre ela tenha sido silente a inicial do processo executivo e já tenha ocorrido o pagamento do ofício requisitório.
+2. Agravo Interno do INSTITUTO DE PREVIDÊNCIA DO ESTADO DO RIO GRANDE DO SUL a que se nega provimento.
+(AgInt no REsp 1406207/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 15/08/2017, DJe 25/08/2017)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PRECATÓRIO. EXECUÇÃO. FIXAÇÃO DE HONORÁRIOS. CABIMENTO.
+1. "Nos termos da jurisprudência pacífica do STJ, não há preclusão no pedido de arbitramento de verba honorária, no curso da execução, mesmo que a referida verba não tenha sido pleiteada no início do processo executivo, e apesar de já ter ocorrido pagamento da RPV, tendo em vista a inexistência de dispositivo legal que determine o momento processual para esse pleito" (v.g.: AgRg no AREsp 268.392/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 07/03/2013).
+2. Agravo regimental não provido.
+(AgRg no REsp 1188906/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 20/11/2014, DJe 26/11/2014)
+Ante o exposto, com fulcro no art. 932, III e V, do CPC/2015 c/c o art. 255, § 4º, I e III, do RISTJ, conheço em parte do recurso especial e, nessa extensão, dou-lhe provimento, nos termos da fundamentação.
+Publique-se. Intimem-se.
