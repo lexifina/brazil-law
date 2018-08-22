@@ -1,0 +1,26 @@
+DECISÃO
+ELISANGELA GALVÃO RODRIGUES e MANUEL FLORENTINO interpõem recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina (Apelação Criminal n. 2014.084275-5).
+Consta dos autos que os réus foram condenados à pena de 6 anos de reclusão, em regime inicial semiaberto, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Nas razões deste recurso, a defesa aponta violação do art. 68 do Código Penal, ao argumento de que "a pena intermediária dos recorrentes foi exasperada em quantum superior aos parâmetros jurisprudenciais estabelecidos (exasperada em um ano, em que pese a exasperação deveria ser em dez meses)" (fl. 281). Assegura que "houve exasperação na segunda fase da dosimetria penal em fração superior a 1/6, sem nenhuma fundamentação idônea" (fl. 281).
+Requer, por conseguinte, "seja ajustada a dosimetria aplicada na segunda fase do estabelecimento da pena, visando a redução da pena intermediária para 10 meses, correspondendo à aplicação de 1/6 sobre a pena-base de 5 anos" (fl. 281).
+Contrarrazões às fls. 286-289 e decisão de admissibilidade às fls. 291-293.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso especial.
+Decido.
+Sobre o aumento de pena relativo à agravante da reincidência, cumpre salientar que o Código Penal não estabelece limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas, respectivamente. Na verdade, o art. 61 limitou-se a prever as circunstâncias que sempre agravam a pena, embora não tenha mencionado qualquer valor de aumento. O mesmo ocorre com o disposto no art. 65, que estipula as circunstâncias que sempre atenuam a pena, sem, contudo, fazer qualquer menção ao quantum de redução.
+Nesse sentido, a doutrina e a jurisprudência têm se orientado no sentido de que cabe ao magistrado, dentro do seu livre convencimento e de acordo com as peculiaridades do caso concreto, escolher a fração de aumento de pena pela incidência da agravante, em observância aos princípios da razoabilidade e da proporcionalidade.
+Assim, nos termos da jurisprudência deste Superior Tribunal, a aplicação de fração superior a 1/6 pela reincidência exige motivação concreta e idônea (v. g., HC n. 229.371/DF, Rel. Ministra Laurita Vaz, 5ª T., DJe 4/9/2013).
+Nesse ponto, destaco que, segundo entendimento do Supremo Tribunal Federal, "A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas. Às Cortes Superiores, no exame da dosimetria das penas em grau recursal, compete o controle da legalidade e da constitucionalidade dos critérios empregados, bem como a correção de eventuais discrepâncias, se gritantes ou arbitrárias, nas frações de aumento ou diminuição adotadas pelas instâncias anteriores." (RHC n. 115.654/BA, Rel. Ministra Rosa Weber, 1ª T., DJe 21/11/2013, destaquei).
+No caso dos autos, o Tribunal de origem, ao fixar a fração de aumento pela reincidência, destacou o que segue (fl. 246, grifei):
+Apesar da existência de posicionamento contrário, partilha-se do entendimento de que a dosimetria, a fim de que se garanta a individualização da reprimenda acometida ao réu, não se deve pautar em percentuais fixos e critérios meramente matemáticos, senão na análise das peculiaridades do caso concreto.
+ ..
+Na hipótese, em que pese a reincidência específica da acusada (autos n. 004.08.013315-4, fl. 39), verifica-se que o aumento operado na sentença mostra-se exarcebado, tendo em vista, principalmente, a existência de apenas 1 (uma) condenação capaz de caracterizar a agravante em tela.
+Com essas ponderações, in casu, considera-se adequado o recrudescimento da sanção corporal em 1 (um) ano.
+Pelo trecho acima, verifico que o Tribunal de origem aumentou a reprimenda em 1 ano (pena-base 5 anos), tendo em vista a reincidência específica dos recorrentes, o que, a meu ver, justifica a exasperação nesse patamar, não havendo que se falar em desproporcionalidade.
+Ilustrativamente:
+ ..
+1. Consoante a jurisprudência desta Corte, apesar de não estabelecida pela norma penal a quantidade de aumento de pena em decorrência das agravantes genéricas, deve ela se pautar pelo percentual mínimo fixado para as majorantes, que é de 1/6. Entretanto, é admitida como razoável a adoção de percentual superior mediante fundamentação concreta (multirreinciência, reincidência específica).
+2. Não há desproporcionalidade na exasperação da pena do paciente em 1/3, pois a instância antecedente destacou sua reincidência específica.
+ ..
+5. Habeas corpus não conhecido. Ordem concedida, de ofício, a fim de reduzir ao mínimo legal o aumento da reprimenda procedido na terceira etapa da dosimetria (HC n. 233.205/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 2/3/2016, destaquei).
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 34, XVIII, "b", parte final, do RISTJ, nego provimento ao recurso especial.
+Publique-se e intimem-se.
