@@ -1,0 +1,51 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PLANO DE SAÚDE. OFENSA AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. EX-EMPREGADO. DEMISSÃO IMOTIVADA. PERMANÊNCIA NO PLANO DE SAÚDE. REQUISITOS. SÚMULA 7/STJ. DECISÃO DO TRIBUNAL DE ORIGEM EM HARMONIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. DESEQUILÍBRIO FINANCEIRO DO CONTRATO. AUSENTE PREQUESTIONAMENTO. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por UNIMED PORTO ALEGRE - COOPERATIVA MÉDICA LTDA contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul que inadmitiu o seu recurso especial manejado em face do acórdão, assim ementado:
+APELAÇÃO CÍVEL. PLANO DE SAÚDE. MANUTENÇÃO NO PLANO DE SAÚDE FIRMADO POR EX-EMPREGADOR. POSSIBILIDADE. CONTRIBUIÇÃO. CASO CONCRETO.
+1. Os contratos de planos de saúde estão submetidos ao Código de Defesa do Consumidor, nos termos do artigo 35 da Lei 9.656/98, pois envolvem típica relação de consumo. Assim, incide, na espécie, o artigo 47 do CDC, que determina a interpretação das cláusulas contratuais de maneira mais favorável ao consumidor.
+2. Aplica-se ao presente caso a súmula editada pelo Eg. STJ sobre a matéria: Aplica-se o Código de Defesa do Consumidor aos contratos de plano de saúde. (Súmula 469, SEGUNDA SEÇÃO, julgado em 24/11/2010, DJe 06/12/2010) 3. Comprovado nos autos que o titular preencheu os requisitos do artigo 30 da Lei 9.656/96, restando viável a mantença do contrato originário neste ponto.
+APELAÇÃO DESPROVIDA.(e-STJ fl. 154)
+Os embargos opostos foram rejeitados. (e-STJ fls. 170/180)
+Nas razões do recurso especial, a recorrente apontou violação dos artigos 1.022, II, do Código de Processo Civil, e 30 da Lei 9.656/98. Alegou omissão do Tribunal de origem quanto ao atendimento dos requisitos legais para o ex-empregado permanecer do plano após a demissão. Afirmou que o beneficiário não teria formalizado o pedido para permanecer no plano após a demissão injustificada. Sustentou, ainda, que a manutenção do ex-empregado no plano de saúde causa desequilíbrio econômico-financeiro ao contrato.
+Ausentes as contrarrazões ao recurso especial, sobreveio juízo de admissibilidade do Tribunal de origem, que inadmitiu o recurso especial, às fls. 199/205 e-STJ, o que ensejou a interposição do presente agravo.
+É o relatório.
+Passo a decidir.
+A pretensão recursal não merece prosperar.
+Inicialmente, esclareço que em razão de o recurso ter sido interposto na vigência do Código de Processo Civil de 2015, o juízo de admissibilidade será realizado com base no regramento nele previsto, conforme Enunciado Administrativo nº. 3/STJ.
+No tocante à suposta violação ao art. 1.022 do Código de Processo Civil, vislumbra-se a não ocorrência de nulidade por omissão, obscuridade, ou contradição, tampouco de negativa de prestação jurisdicional. O juízo não está obrigado a se manifestar a respeito de todas as alegações e dispositivos legais suscitados pelas partes.
+A matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que proferiu decisão fundamentada nos seguintes termos:
+Adianto que estou mantendo a sentença, eis seus fundamentos:
+Cuida-se de ação em que a parte demandante busca cominar à parte ré obrigação de fazer. Estando o feito estreme de vícios formais aparentes, passo, de pronto, à análise do mérito.
+No caso dos autos, o demandante manteve vínculo empregatício com o SESCOOP-RS e, em razão desse vínculo, foi integrado ao plano de saúde mantido pelo seu empregador junto à demandada. Permaneceu vinculado a esse plano de saúde pelo prazo de 52 meses, conforme demonstra o documento da fl. 12.
+Logo, em conformidade com o artigo 30 da Lei 9.656/98, tem direito a manter sua condição de beneficiário desse plano de saúde - o que é incontroverso, aliás; discute-se apenas por quanto tempo assiste-lhe tal direito, e o quanto deve pagar à demandada.
+(..)
+Registro, inicialmente, quanto ao prazo de permanência, que o artigo 31 da Lei 9.656/98 não se aplica ao caso dos autos, na medida em que o autor não se aposentou; foi despedido sem justa causa.
+O prazo é o do artigo 30, § 1º: 1/3 (um terço) do tempo pelo qual integrou o plano durante a relação de emprego, com mínimo de seis e máximo de vinte e quatro meses. Uma vez que o autor fez uso do plano de saúde ofertado por seu empregador por cinquenta e dois meses (fl. 12), faz jus ao benefício do artigo 30 por outros dezoito meses, contados de maio de 2013.
+Logo, o período findou em outubro de 2014.(e-STJ fl. 157/158)
+Estas conclusões não podem ser objeto de revisão por esta Corte Superior, por decorrência do enunciado 7/STJ, já que restritas à análise das provas coligidas no transcurso da lide.
+Ademais, o entendimento firmado pelo Tribunal de origem acerca da permanência do ex-empregado no plano de saúde pelo prazo de um terço do período que permaneceu no plano durante o vínculo empregatício, mostra-se em sintonia com a jurisprudência desta Corte Superior.
+Nesse sentido:
+RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE COLETIVO EMPRESARIAL. EMPREGADO DEMITIDO SEM JUSTA CAUSA. PRORROGAÇÃO TEMPORÁRIA DO BENEFÍCIO. REQUISITOS PREENCHIDOS. EXAURIMENTO DO DIREITO. DESLIGAMENTO DO USUÁRIO. LEGALIDADE. PLANO INDIVIDUAL. MIGRAÇÃO.
+INADMISSIBILIDADE. OPERADORA. EXPLORAÇÃO EXCLUSIVA DE PLANOS COLETIVOS.
+1. Cinge-se a controvérsia a saber se a operadora de plano de saúde está obrigada a fornecer, após o término do direito de prorrogação do plano coletivo empresarial conferido pelo art. 30 da Lei nº 9.656/1998, plano individual substituto ao trabalhador demitido sem justa causa, nas mesmas condições de cobertura e de valor.
+2. Quando há a demissão imotivada do trabalhador, a operadora de plano de saúde deve lhe facultar a prorrogação temporária do plano coletivo empresarial ao qual havia aderido, contanto que arque integralmente com os custos das mensalidades, não podendo superar o prazo estabelecido em lei: período mínimo de 6 (seis) meses e máximo de 24 (vinte e quatro) meses. Incidência do art. 30, caput e § 1º, da Lei nº 9.656/1998. Precedentes.
+3. A operadora de plano de saúde pode encerrar o contrato de assistência à saúde do trabalhador demitido sem justa causa após o exaurimento do prazo legal de permanência temporária no plano coletivo, não havendo nenhuma abusividade em tal ato ou ataque aos direitos do consumidor, sobretudo em razão da extinção do próprio direito assegurado pelo art. 30 da Lei nº 9.656/1998. Aplicação do art. 26, I, da RN nº 279/2011 da ANS.
+4. A operadora de plano de saúde não pode ser obrigada a oferecer plano individual a ex-empregado demitido ou exonerado sem justa causa após o direito de permanência temporária no plano coletivo esgotar-se (art. 30 da Lei nº 9.656/1998), sobretudo se ela não disponibilizar no mercado esse tipo de plano. Além disso, tal hipótese não pode ser equiparada ao cancelamento do plano privado de assistência à saúde feito pelo próprio empregador, ocasião em que pode incidir os institutos da migração ou da portabilidade de carências.
+5. Não é ilegal a recusa de operadoras de planos de saúde de comercializarem planos individuais por atuarem apenas no segmento de planos coletivos. Não há norma legal alguma obrigando-as a atuar em determinado ramo de plano de saúde. O que é vedada é a discriminação de consumidores em relação a produtos e serviços que já são oferecidos no mercado de consumo por determinado fornecedor, como costuma ocorrer em recusas arbitrárias na contratação de planos individuais quando tal tipo estiver previsto na carteira da empresa.
+6.  ..
+7. Recurso especial não provido.
+(REsp 1592278/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 07/06/2016, DJe 20/06/2016, grifou-se)
+RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - PLANO DE SAÚDE EM GRUPO - CAIXA DE ASSISTÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL (CASSI) - ARTIGO 30, CAPUT, DA LEI N. 9656/98 - NORMA AUTO-APLICÁVEL  PRECEDENTE - EX-EMPREGADO QUE PEDIU DEMISSÃO - PERMANÊNCIA NA QUALIDADE DE BENEFICIÁRIO - IMPOSSIBILIDADE - RESTRIÇÃO DA APLICAÇÃO DO ARTIGO 30, CAPUT, DA LEI N. 9656/98 - - LIMITAÇÃO TEMPORAL NA CONDIÇÃO DE BENEFICIÁRIO  NECESSIDADE - ARTIGO 30, § 1º, DA LEI N.
+9656/98 - RECURSO ESPECIAL CONHECIDO E PROVIDO.
+1. A norma inserta no artigo 30, caput, da Lei n. 9656/98 é auto-aplicável, bastando, pois, que o ex-empregado postule o exercício do direito de permanecer vinculado ao plano ou seguro privado coletivo de assistência à saúde. Precedente.
+2. O direito de manter a condição como beneficiário, nas mesmas condições que gozava quando da vigência do contrato de trabalho, somente está previsto para os casos em que o empregado é demitido/exonerado sem justa causa. No caso em questão, o empregado pediu demissão.
+3. O § 1º, do art. 30, da Lei 9.656/98 estabelece prazo mínimo de 6 (seis) meses e máximo de 24 (vinte e quatro) meses para a permanência do empregado exonerado/demitido sem justa causa permanecer no plano ou seguro saúde ao qual estava ligado durante período em que mantinha o vínculo empregatício. A prorrogação compulsória da permanência por tempo superior ao prazo máximo de 24 (vinte e quatro) meses, não encontra amparo legal.
+4. A única hipótese legal de alteração no prazo do benefício do caput do art. 30, da Lei 9.656/98 é a estabelecida em seu § 5º, o qual prevê a sua extinção quando da admissão do ex-empregado em novo emprego.
+6. Recurso especial conhecido e provido.
+(REsp 1078991/DF, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 02/06/2009, DJe 16/06/2009, grifou-se)
+Por fim, para que reste configurado o prequestionamento da matéria é imprescindível que o Tribunal de origem tenha sobre ela emitido juízo, aplicando-a ou afastando-a na análise do caso concreto, não sendo necessário que o acórdão indique expressamente os dispositivos legais pertinentes.
+Portanto, no que concerne ao alegado desequilíbrio econômico-financeiro do contrato, tem-se que ausente o prequestionamento da matéria, porquanto não apreciado pelo julgado recorrido, inviável o seu conhecimento nesta sede, nos termos das Súmulas 282 e 356/STF.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Intimem-se.
