@@ -1,0 +1,51 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. APROPRIAÇÃO INDÉBITA. PETIÇÃO APRESENTADA APÓS O PRAZO DE CINCO DIAS. INTEMPESTIVIDADE. ARTIGOS 258 DO RISTJ E 39 DA LEI N. 8.038/90. INSURGÊNCIA NÃO CONHECIDA.
+1. É intempestivo o agravo regimental interposto após o decurso do prazo de cinco dias previsto no art. 258 do Regimento Interno do STJ.
+2. A entrada em vigor do Novo Código de Processo Civil não modificou o prazo para interposição de agravo das decisões do Relator em matéria penal, estando mantida a disposição contida no art. 39 da Lei n. 8.038/90.
+3. A decisão agravada foi disponibilizada no Diário da Justiça Eletrônico em 18.10.2017, considerando-se publicada em 19.10.2017, ao passo que o presente regimental foi interposto apenas em 25.10.2017, ou seja, após o decurso do prazo de cinco dias previsto no art. 258 do Regimento Interno do Superior Tribunal de Justiça
+4. Insurgência não conhecida.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, não conhecer do agravo regimental. Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JORGE MUSSI: Trata-se de agravo regimental interposto por [NOME], contra decisão de fls. 358-359, proferida pela Presidência desta Corte, que não conheceu do recurso.
+Narram os autos que, em 23.12.2013, a agravante recebeu R$ 50.000,00 (cinquenta mil reais) da vítima, a título de sinal para aquisição de um imóvel, cuja venda estava sendo intermediada pela ora agravante. Em 5.2.2014 foram pagos mais R$ 47.400,00 (quarenta e sete mil e quatrocentos reais) com a mesma finalidade. A agravante, contudo, não repassou os valores recebidos para o proprietário do imóvel, nem restituiu a quantia ao comprador, praticando, assim, a conduta descrita no art. 168, § 1º, do Código Penal.
+Encerrada a instrução criminal, a ré foi condenada a 1 (um) no e 4 (quatro) meses de reclusão, em regime aberto, além de 13 (treze) dias-multa. A pena privativa de liberdade foi substituída por duas restritivas de direitos. A defesa recorreu, mas o apelo não obteve êxito.
+No recurso especial, a defesa pretendeu a absolvição da recorrente alegando atipicidade da conduta, amparando o pedido em suposta divergência jurisprudencial. Subsidiariamente, requereu a redução da pena aplicada, com o reconhecimento das atenuantes previstas no art. 65, inciso III, alíneas b e d, do Código Penal. O apelo nobre não foi admitido na origem, pois não foram cumpridas as formalidades exigidas para a demonstração do dissídio pretoriano. Além disso, a pretensão esbarra no óbice previsto no enunciado n. 7 da Súmula desta Corte.
+O agravo em recurso especial foi, inicialmente, inadmitido pela Presidência. A decisão, contudo, foi reconsiderada (e-STJ, fl. 377).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JORGE MUSSI: A irresignação não merece prosperar.
+De fato, verifica-se que a decisão de fls. 358-359 merecia reforma, porquanto o recurso especial, ao contrário do que foi lá afirmado, era tempestivo. No entanto, o presente agravo regimental não atende às exigências do art. 258 do Regimento Interno do Superior Tribunal de Justiça.
+Com efeito, consta dos autos que a decisão agravada foi disponibilizada no Diário da Justiça Eletrônico em 18.10.2017, considerando-se publicada em 19.10.2017 (e-STJ, fl. 360), ao passo que o presente regimental foi interposto apenas em 25.10.2017 (e-STJ, fl. 367), ou seja, após o decurso do prazo de cinco dias previsto no já mencionado art. 258 do RISTJ.
+Cabe ressaltar que a jurisprudência deste Superior Tribunal de Justiça firmou-se no sentido de que a entrada em vigor do Novo Código de Processo Civil não modificou o prazo para interposição de agravo das decisões do Relator em matéria penal, estando mantida a disposição contida no art. 39 da Lei n. 8.038/90.
+Nesse sentido, confiram-se os seguintes precedentes deste Sodalício:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. AGRAVO REGIMENTAL. ART. 258 DO RISTJ. PRAZO. CINCO DIAS. INTEMPESTIVIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O agravo regimental deve ser interposto no prazo de 5 (cinco) dias, conforme estabelecido no art. 258 do RISTJ, o que não ocorreu no caso.
+2. O prazo do agravo regimental em matéria penal permanece de 5 (cinco) dias corridos (art. 39 da Lei n. 8.038/1990) e o dos embargos de declaração, de 2 (dois) dias corridos (art. 619 do Código de Processo Penal). Precedentes recentes da Terceira Seção.
+3. Agravo regimental não conhecido. (AgRg no AREsp 671.678/SE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/05/2016, DJe 25/05/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. ART. 39 DA LEI N. 8.038/1990. SUPERVENIÊNCIA DA LEI N. 13.105/2015. MANUTENÇÃO DO PRAZO DE CINCO DIAS. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O prazo para interposição de agravo regimental, em processo penal, é de cinco dias, de acordo com os arts. 39 da Lei n. 8.038/1900 e 258 do RISTJ.
+2. Assim, mesmo após a entrada em vigor da Lei n. 13.105/2015, o prazo para a interposição de agravo regimental continuou sendo regido pelo art. 38 da Lei n. 8.038/1990.
+3. Na espécie, é intempestivo o agravo regimental interposto após o lapso de 5 dias.
+4. Agravo regimental não conhecido. (AgRg no AREsp 842.524/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 07/06/2016, DJe 22/06/2016)
+Diante disso e inexistindo causa ensejadora de eventual prorrogação do prazo recursal, indubitável a extemporaneidade do presente inconformismo.
+Ainda que seja superado o óbice de natureza formal, o mérito recursal não comporta provimento.
+A defesa sustenta que a conduta praticada pela agravante é atípica, uma vez que "mero descumprimento de obrigação contratual não configura ilícito penal" (e-STJ, fl. 279). O argumento se desenvolve a partir da afirmação de que a vítima e a agravante teriam firmado um acordo e que a deflagração da ação penal foi resultante do descontentamento da vítima com o descumprimento do pacto firmado com a autora.
+A suscitada divergência jurisprudencial, contudo, não foi demonstrada nos moldes do art. 255, § 2º do Regimento Interno do Superior Tribunal de Justiça.
+Impende frisar que o conhecimento do recurso especial pela alínea "c" do art. 105, inciso III, da Constituição Federal, impõe a demonstração efetiva do dissídio entre o aresto impugnado e o acórdão paradigma, no qual se deverá explicitar as circunstâncias que identifiquem ou assemelhem os casos confrontados, com pronunciamentos judiciais diametralmente opostos.
+A respeito, já se decidiu que "é imprescindível o atendimento dos requisitos do art. 255, § 1º, do RISTJ, para a devida demonstração do alegado dissídio jurisprudencial, pois além da transcrição de acórdãos para a comprovação da divergência, é necessário o cotejo analítico entre o aresto recorrido e o paradigma, com a demonstração da identidade das situações fáticas e a interpretação diversa ao dispositivo de legislação infraconstitucional" (AgRg no AREsp 93.424/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 20/10/2016, DJe 09/11/2016 - g.n.).
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A HONRA. AUDIÊNCIA DE CONCILIAÇÃO PRETERIDA POR FORÇA DO INDEFERIMENTO DA QUEIXA-CRIME. VIOLAÇÃO DO ART. 520 DO CPP. INOBSERVÂNCIA. DISSÍDIO JURISPRUDENCIAL. FALTA DE COTEJO ANALÍTICO. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. O conhecimento do recurso especial pela divergência exige a transcrição dos trechos do acórdão impugnado e do paradigma, evidenciando-se, de forma clara e objetiva, o suposto dissídio jurisprudencial, não sendo suficiente a simples transcrição de ementas ou votos sem a exposição das circunstâncias que identifiquem ou assemelhem os casos confrontados.  ..
+(AgRg no AREsp 484.371/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 30/03/2017, DJe 07/04/2017 - grifou-se)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APROPRIAÇÃO INDÉBITA. RECURSO INTERPOSTO COM FUNDAMENTO NA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. DIVERGÊNCIA NÃO DEMONSTRADA. ACÓRDÃO PARADIGMA ORIUNDO DE JULGADO PROFERIDO EM HABEAS CORPUS. INADMISSIBILIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA.
+ I - O recurso especial interposto com fulcro no art. 105, inciso III, alínea c, da Constituição Federal exige a demonstração do dissídio jurisprudencial, por meio da realização do indispensável cotejo analítico, para demonstrar a similitude fática entre o v. acórdão recorrido e o eventual paradigma (arts. 1.029, § 1º, do Código de Processo Civil e 255, § 1º, do Regimento Interno do STJ).
+ ..
+(AgRg no AREsp 706.207/PE, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 27/06/2017, DJe 01/08/2017 - grifou-se)
+Na espécie, observa-se que a defesa da recorrente procedeu, tão somente, à mera reprodução do paradigma, deixando de evidenciar, através do necessário cotejo analítico, que se tratariam de circunstâncias fáticas idênticas ou semelhantes, às quais foram dadas interpretações judiciais distintas. Destarte, o suscitado dissídio jurisprudencial não merece conhecimento.
+O pedido subsidiário cinge-se à revisão da dosimetria na segunda etapa do cálculo da pena. A defesa requer a atenuação da reprimenda com o reconhecimento das circunstâncias previstas no art. 65, inciso III, alíneas b e d, do Código Penal. Alega que a recorrente jamais negou a negociação e que teria confessado o débito com a vítima.
+Constata-se que o recurso, neste pormenor, não logra melhor sorte, haja vista ter sido a pena-base fixada no mínimo legal e a ausência de incidência qualquer atenuante etiquetada no art. 65 do Código Penal, tal como afirmaram as instâncias atencedentes. Em arremate, ainda assim, não se afigura possível, pela jurisprudência sufragada por esta Corte Superior, a redução da reprimenda abaixo do mínimo legal estatuído no preceito secundário do tipo, albergado pela inteligência teleológica do Verbete Sumular n.º 231/STJ, litteris:
+Súmula 231 - A incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal.
+Diante do exposto, não se conhece do agravo regimental.
+É o voto.
