@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJRN assim ementado (e-STJ fls. 257/258):
+DIREITO PROCESSUAL CIVIL E DO CONSUMIDOR. AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER. ALEGAÇÃO DE INCOMPETÊNCIA ABSOLUTA DA JUSTIÇA COMUM ESTADUAL. REJEIÇÃO. DISCUSSÃO RESTRITA À APRECIAÇÃO E JULGAMENTO DE MATÉRIA CÍVEL. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL PARA O EXAME DA CONTENDA. PRECEDENTES. CONTRIBUIÇÃO DO EMPREGADO DA PETROBRÁS, PAI DO AGRAVADO DEPENDENTE, PARA O PLANO DE ASSISTÊNCIA MULTIDISCIPLINAR DE SAÚDE. RELAÇÃO DE CONSUMO CARACTERIZADA. NECESSIDADE DE TRATAMENTO DO DEPENDENTE ATRAVÉS DE INTERNAÇÃO NO INSTITUTO RAID EM RAZÃO DE PROBLEMAS PSIQUIÁTRICOS E DEPRESSIVOS QUANDO O AMBULATORIAL NÃO SE FEZ ADEQUADO AO CASO. INDICAÇÃO MÉDICA EXPRESSA. NEGATIVA DE CUSTEIO PELA AGRAVANTE. PRINCÍPIO DA DIGNIDADE DA PESSOA HUMANA. PRECEDENTES. TUTELA CORRETAMENTE DEFERIDA EM 1º GRAU. DECISÃO MANTIDA. CONHECIMENTO E DESPROVIMENTO DO AGRAVO DE INSTRUMENTO.
+Nas razões do especial (e-STJ fls. 278/297), interposto com fundamento no art. 105, III, "a" e "c", da CF, a recorrente alega divergência jurisprudencial e violação dos arts. 64, § 1º, do CPC/2015 e 625 da CLT, sustentando, em síntese, a competência da Justiça do Trabalho para julgamento do feito.
+Também suscita ofensa ao art. 3º, § 2º, do CDC, argumentando não haver relação de consumo no caso, pois o convênio de saúde é administrado na forma de autogestão.
+O recurso foi admitido à fl. 317 (e-STJ).
+É o relatório.
+Decido.
+A controvérsia diz respeito às condições de cobertura de plano de saúde prestado pelo próprio empregador, por meio de convênio no formato de autogestão denominado PLANO DE ASSISTÊNCIA MULTIDISCIPLINAR - AMS da PETROBRAS.
+Assim consta do acórdão recorrido (e-STJ fls. 260/261):
+Inicialmente, no que concerne à alegada incompetência da Justiça Comum para processar e julgar o feito em destaque, esta Corte de Justiça já firmou reiterado entendimento acerca a competência da Justiça Estadual para apreciar demandas de igual natureza à pormenorizada nos autos.
+Resta claro que a AMS-Petrobrás se enquadra na Lei de Planos de Saúde, pois, conforme consta nos autos, existe a contribuição do empregado, pai do agravado dependente para o Plano de Assistência Multidisciplinar de Saúde, fato esse que caracteriza a relação de consumo e a incidência do Código de Defesa do Consumidor (art. 3º, § 2º), conforme disposição da Súmula 469 do STJ:
+"Aplica-se o Código de Defesa do Consumidor aos contratos de plano de saúde."
+Por tal acepção, as cláusulas do contrato devem respeitar as formas de elaboração e interpretação contratual previstas no Estatuto Consumerista, independentemente de ser tal benefício originário de norma coletiva de trabalho.
+Cumpre mencionar que não se está discutindo matéria trabalhista, mas questão cível, em especial, consumerista, uma vez que, apesar da prestação do serviço médico decorrer de Acordo Coletivo de Trabalho, o pleito em si não se vincula à relação de trabalho, e sim ao atendimento/tratamento médico, tudo acobertado pelo instrumento contratual firmado entre as partes.
+Dessa forma, penso que a lide gravitou unicamente sob o manto de uma relação consumerista, razão pela qual atrai a competência para a Justiça Estadual.
+Como se vê, o acórdão recorrido contrariou a jurisprudência do STJ, no sentido de ser da competência da Justiça do Trabalho processar e julgar demanda que tenha como causa de pedir contrato de prestação de serviço de assistência à saúde prestado pelo próprio empregador, por força de norma de natureza trabalhista, como no caso do Plano de Assistência Multidisciplinar à Saúde - AMS da PETROBRAS. Sobre o tema:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. DEMANDA PROPOSTA POR DEPENDENTE. ASSISTÊNCIA À SAÚDE OFERECIDA A EMPREGADOS, EX-EMPREGADOS E PENSIONISTAS, DE ACORDO COM DISPOSIÇÕES DE NORMA INTERNA DA EMPRESA E CONVENÇÃO COLETIVA DE TRABALHO. FALHAS NO REPASSE DE VALORES DEVIDOS. COMPETÊNCIA DO JUÍZO TRABALHISTA.
+- Consoante precedentes desta Corte, o Programa de Assistência Multidisciplinar à Saúde (AMS) da PETROBRAS decorre das disposições estabelecidas em Convenção Coletiva de Trabalho.
+- Competência do juízo trabalhista para a apreciação de todas as controvérsias originadas do referido programa, independentemente de sua natureza.
+- Embargos de divergência conhecidos e não providos.
+(EREsp n. 1.322.198/RJ, Relatora Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 28/9/2016, DJe 30/9/2016.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROGRAMA DE ASSISTÊNCIA MULTIDISCIPLINAR À SAÚDE (AMS) DA PETROBRAS. COMPETÊNCIA. JUSTIÇA DO TRABALHO. PRECEDENTES. AGRAVO DESPROVIDO.
+1. O Superior Tribunal de Justiça já decidiu que as questões referentes ao Programa de Assistência Multidisciplinar à Saúde (AMS), oferecido pela Petrobras a seus empregados, aposentados e pensionistas, são julgadas pela Justiça laboral, pois suas disposições são oriundas de Convenção Coletiva de Trabalho (CC 111.565/BA, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em 14/11/2012, DJe de 21/11/2012).
+2. Agravo interno não provido.
+(AgRg no REsp n. 1.458.176/BA, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 4/2/2016, DJe 22/2/2016.)
+Portanto, deve-se reconhecer a competência absoluta da Justiça do Trabalho para análise da demanda e, por outro lado, a incompetência da Justiça Comum para tanto.
+Diante do exposto, DOU PROVIMENTO PARCIAL ao recurso, a fim de reconhecer a incompetência absoluta da Justiça Comum para julgar o feito, determinando o encaminhamento dos autos à Justiça do Trabalho. Preservados os efeitos das decisões proferidas até o pronunciamento do juízo competente, nos termos do art. 64, § 4º, do CPC/2015. Prejudicado o exame das demais alegações do recurso especial.
+Publique-se e intimem-se.
