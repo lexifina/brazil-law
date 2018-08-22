@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de embargos de declaração (fls. 4816/4827) opostos pela Companhia Nacional de Abastecimento - CONAB em face de decisão que conheceu, em parte, do agravo e, nessa extensão, deu parcial provimento ao recurso especial interposto pela ARGEBRAS Armazéns Gerais do Brasil Ltda., a fim de afastar a aplicação da prescrição quinquenal de que trata o Decreto nº 20.910/32.
+A embargante, em suas razões, sustenta que: (I) o art. 177 do CC/1916 não foi objeto de prequestionamento, de modo que incide a Súmula 211/STJ; (II) o prolator da decisão ora embargada "não adentrou no mérito da demanda, limitando-se apenas em sua decisão em trazer à colação, acórdãos de processos outros, que não retratam a situação ora em exame." (fl. 4819); (III) houve omissão no que se refere ao art. 173 da Constituição Federal; e (IV) a decisão embargada é obscura pois "não há alusão ao que foi deferido à Embargada, em caráter parcial, nem mesmo no provimento do Recurso Especial, que parcelas foram reconhecidas por essa egrégia turma, acaso foram todas do pedido principal " (fl. 4819). Tece, ainda, considerações sobre o Decreto n. 20.910/32, o qual entende ser aplicável à espécie.
+Pugna, pois, pelo acolhimento dos embargos de declaração, para que sejam sanados os vícios apontados.
+A parte embargada apresentou impugnou (fls. 4857/4873), na qual requer a rejeição dos embargos declaração.
+É o relatório.
+Não prospera a irresignação da parte embargante. De acordo com o estatuído no art. 1022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do decisum atacado e, ainda, para corrigir erro material. Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão, pois a decisão embargada enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficou consignado na decisão embargada que esta Corte Superior já se manifestou pela inaplicabilidade das disposições do Decreto 20.910/32 às ações de que empresa pública que explore atividade econômica, como a CONAB, incidindo no caso o o prazo quinquenal previsto no Decreto n. 20.910/32, mas o prazo vintenário de que trata o art. 177 do Código Civil.
+Ora, não podem ser acolhidos embargos declaratórios que, a pretexto de alegadas omissões do decisum embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido. Nesse panorama, inexistente qualquer obscuridade, contradição ou omissão no julgado embargado, conforme exige o art. 1022 do CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+A propósito, destacam-se os seguintes julgados:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES JÁ RESOLVIDAS NA DECISÃO EMBARGADA. MERO INCONFORMISMO. PRETENSÃO DE EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Revelam-se improcedentes os embargos declaratórios em que a questão levantada não configura hipótese de cabimento do recurso - omissão, contradição ou obscuridade -, delineadas no art. 535 do CPC.
+2. A remessa dos autos para julgamento do recurso extraordinário no Supremo Tribunal Federal é decorrência lógica da regra insculpida no art. 543, §1º do CPC.
+3. Inexistir qualquer fundamento relevante que justifique a oposição dos presentes embargos ou que venha infirmar as razões contidas na decisão embargada.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1471797/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 25/11/2014, DJe 2/12/2014)
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. OMISSÃO NÃO DEMONSTRADA. PRETENSÃO DE REDISCUTIR QUESTÕES DEVIDAMENTE EXAMINADAS E DECIDAS NA DECISÃO EMBARGADA. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos rígidos limites estabelecidos pelo art. 535, incisos I e II, do Código de Processo Civil, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado.
+2. A obtenção de efeitos infringentes, como pretende a Embargante, somente é possível, excepcionalmente, nos casos em que, reconhecida a existência de um dos defeitos elencados nos incisos do mencionado art. 535, a alteração do julgado seja consequência inarredável da correção do referido vício; bem como nas hipóteses de erro material ou equívoco manifesto, que, por si sós, sejam suficientes para a inversão do julgado. Precedentes.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos aclaratórios.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no REsp 993.078/SP, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 17/9/2014, DJe 10/10/2014)
+Ressalte-se, por fim, que não cabe a esta Corte examinar no âmbito do recurso especial, sequer a título de prequestionamento, eventual violação de dispositivo constitucional, tarefa reservada ao Pretório Excelso.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
