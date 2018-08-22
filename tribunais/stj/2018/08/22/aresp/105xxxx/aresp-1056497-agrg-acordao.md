@@ -1,0 +1,40 @@
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182. ABSOLVIÇÃO. SÚMULA 7. REVOLVIMENTO DO CONTEÚDO FÁTICO-PROBATÓRIO. INVIABILIDADE. RECURSO NÃO CONHECIDO
+1. O agravo que não impugna todas os fundamentos apresentados na decisão recorrida não pode ser conhecido, conforme preceitua o enunciado n.182 desta Corte.
+2. A análise acerca da autoria delitiva quanto ao crime de furto implicaria o necessário reexame do conteúdo fático-probatório dos autos, o que é vedado no julgamento do recurso especial, nos termos da Súmula 7 deste Superior Tribunal de Justiça.
+3. Agravo regimental não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, não conhecer do agravo regimental. Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JORGE MUSSI (Relator): Trata-se de agravo regimental interposto por [NOME], nos termos do art. 258 do Regimento Interno do Superior Tribunal de Justiça, contra decisão unipessoal desta Relatoria (e-STJ, fls. 626-629), que conheceu do agravo e não deu provimento ao recurso especial.
+De acordo com os autos, o agravante, juntamente com os outros corréus mencionados nos autos, subtraiu bens que estavam no interior de um veículo, mediante o rompimento do vidro do automóvel. Em razão desses fatos, o Ministério Público ofereceu denúncia pela prática de crime previsto no art. 155, § 4º, incisos I e IV, do Código Penal, e, após o regular trâmite processual, foi condenado a 3 (três) anos, 4 (quatro) meses de reclusão, em regime inicial fechado, bem como ao pagamento de 68 (sessenta e oito) dias-multa.
+O eg. Tribunal de Justiça de São Paulo, ao julgar o recurso de apelação manejado, não deu provimento ao reclamo defensivo, reduzindo, no entanto, de ofício, a reprimenda de multa.
+Opostos embargos de declaração, foram rejeitados.
+A defesa interpôs recurso especial, não admitido na origem. O agravo em recurso especial foi conhecido e o apelo nobre não foi provido.
+Neste agravo regimental, a defesa reforça as razões anteriormente aduzidas na petição de recurso especial e rechaça a necessidade de reexame de fatos e provas para atendimento do pleito formulado.
+Diante disso, postula pela reconsideração da decisão agravada ou, subsidiariamente, da apresentação do feito ao Colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JORGE MUSSI (Relator): A insurgência é tempestiva, pois interposta aos 14.6.2017 (e-STJ fl. 630). Considerando que a decisão foi publicada em 20.6.2017 (e-STJ, fl. 634), o recurso foi aviado dentro do prazo estipulado no art. 258 do Regimento Interno do Superior Tribunal de Justiça.
+As razões do regimental não esclarecem os motivos pelos quais o agravante considera inaplicável o óbice indicado na decisão monocrática. Em verdade, o agravo regimental se limitou a repisar os argumentos anteriormente apresentados em sede de recurso especial, sem, contudo, infirmar as teses empregadas na decisão que manteve a negativa de trânsito ao apelo nobre.
+Feitas essas considerações, verifica-se de início, a impossibilidade de conhecimento deste agravo. É que, do cotejo entre a decisão agravada e as razões do regimental verifica-se que a irresignação esbarra em óbice formal intransponível, qual seja, a ausência de impugnação específica do fundamento adotado para o não conhecimento do recurso especial.
+Isso porque neste agravo regimental, a defesa limitou-se a reiterar os argumentos apresentados no apelo nobre, repetindo as teses referentes à inadequação dos parâmetros utilizados para majorar a sanção, deixando, contudo de infirmar a questão levantada quanto ao prequestionamento da matéria suscitada.
+Oportuno deixar assente que a parte, ao recorrer, deve demonstrar o desacerto da decisão contra a qual se insurge, contestando todos os óbices por ela levantados, sob pena de sua manutenção.
+Por conseguinte, é de rigor a incidência, por analogia, da Súmula n. 182 desta Corte, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Nesse sentido, confiram-se os seguintes precedentes:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUSÊNCIA DE DEMONSTRAÇÃO DA SIMILITUDE FÁTICA ENTRE OS JULGADOS E HABEAS CORPUS UTILIZADO COMO PARADIGMA PARA COMPROVAÇÃO DE EVENTUAL DISSÍDIO. TEMA NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 182/STJ. PRESCRIÇÃO VIRTUAL. IMPOSSIBILIDADE DE RECONHECIMENTO. SÚMULA 438 DO STJ. AGRAVO PARCIALMENTE CONHECIDO E, NESSA PARTE, DESPROVIDO.
+1. "O agravo regimental que não infirma todos os fundamentos da decisão agravada não pode ser conhecido (Súmula 182 do STJ)." (AgRg no REsp 1.419.640/RN, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 02/05/2017, DJe 24/05/2017).
+2. "Firmou-se no Superior Tribunal de Justiça o entendimento no sentido de que falta amparo legal à denominada prescrição em perspectiva, antecipada ou virtual, fundada em condenação apenas hipotética. Assim, na falta de previsão legal, não se há falar em prescrição em perspectiva da pretensão punitiva do Estado, conforme dispõe o verbete n. 438 da Súmula desta Corte" (AgRg no RHC 64.520/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 26/04/2017).
+3. Agravo regimental parcialmente conhecido e, nessa parte, desprovido. (AgRg no REsp 1324371/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 05/12/2017, DJe 13/12/2017)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO DE DOIS RECURSOS CONTRA O MESMO ACÓRDÃO. INVIABILIDADE. PRINCÍPIO DA UNIRRECORRIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO RECORRIDA. VERBETE SUMULAR N. 182/STJ. NÃO CONHECIMENTO.
+1. À luz do princípio da unirrecorribilidade, contra qualquer provimento judicial recorrível, somente é cabível um recurso.
+2. É inviável o agravo regimental ou interno que deixa de atacar os fundamentos da decisão agravada, de acordo com os arts. 932, III, e 1.021, § 1º, do Código de Processo Civil/2015 e a Súmula n. 182 desta Corte. Precedentes.
+3. Agravo regimental não conhecido. (AgRg no AREsp 699.495/RO, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 21/11/2017, DJe 01/12/2017)
+Na mesma linha, o art. 932, inciso III, do Código de Processo Civil de 2015 afirma que o agravo que deixa de impugnar de maneira clara e específica os fundamentos da decisão que pretendia desconstituir não merece ser conhecido. O art 253, inciso I, do Regimento Interno do Superior Tribunal de Justiça traz idêntica previsão. manifestação por parte desta Corte, em sede de recurso especial, a respeito da questão ventilada nestes autos.
+Outrossim, conforme se depreende dos autos, as instâncias antecedentes, soberanas na análise e na reapreciação do conjunto probatório, concluíram, a partir da identificação do agente por uma das vítimas, que são elementos suficientes para atribuir a autoria da conduta delituosa ao agravante. Dessa maneira, o exame acerca da autoria delitiva, de modo a autorizar a cassação do édito condenatório, demanda nova e aprofundada incursão no conjunto fático probatório, providência não permitida em sede de recurso especial, cujo escopo é limitado ao debate de questões jurídicas.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO DE ENERGIA ELÉTRICA. AUTORIA AFASTADA PELO TRIBUNAL DE ORIGEM. PLEITO CONDENATÓRIO. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 07/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Se o Tribunal a quo, com base na análise dos elementos fático-probatórios dos autos, entendeu pela ausência da autoria delitiva, afastar tal entendimento implicaria o reexame de provas, a incidir o enunciado da Súmula n. 7/STJ.
+2. Agravo regimental desprovido. (AgRg no AREsp 1158528/MS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 05/12/2017, DJe 15/12/2017)
+Diante do exposto, não conheço do agravo regimental.
+É o voto.
