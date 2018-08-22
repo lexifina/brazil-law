@@ -1,0 +1,17 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração interpostos pelo Estado do Rio Grande do Sul contra decisão que determinou a devolução dos autos ao Tribunal de origem tendo em vista que a questão jurídica objeto do recurso encontra-se submetida ao rido dos recursos repetitivos (e-STJ, fls. 422/424).
+O embargante, afirma que se entende " ..  que a respeitável decisão incorreu em omissão ao não destacar as peculiaridades do presente recurso. Observe-se que o r. acórdão do e. Tribunal de Justiça que deu origem ao recurso especial deixa evidente que se a discussão ora travada se trata da cumulação entre honorários fixados na execução fiscal (segundo o Tribunal de Justiça, "honorários inicialmente fixados  que  se destinam aos casos onde há o pronto pagamento por parte do devedor") com honorários fixados a favor da Fazenda Pública em embargos do devedor " (e-STJ, fls. 429/430).
+Não houve impugnação (e-STJ, fl. 436).
+É o relatório.
+O art. 1.022 do CPC/2015 traz as seguintes hipóteses de cabimento dos embargos de declaração: a) obscuridade; b) contradição; c) omissão no julgado, incluindo-se nesta as condutas descritas no art. 489, § 1º, que configurariam a carência de fundamentação válida; e d) erro material.
+Ao contrário do que pretende fazer crer a parte insurgente, não se verifica no julgado questionado a suscitada omissão ou o erro material, pois ficou devidamente consignado na decisão embargada que a questão jurídica objeto do presente recurso - a possibilidade ou não de cumulação da verba honorária fixada nos embargos à execução com aquela arbitrada na própria execução contra a Fazenda Pública - constitui tema do Recurso Especial n. 1.520.710/SC, da relatoria do Ministro Mauro Campbell Marques, submetido ao rito dos recursos repetitivos, cujo processamento se encontra pendente na Primeira Seção.
+Corroborando com esse entendimento, vale conferir:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL CONTRA A FAZENDA PÚBLICA. EMBARGOS À EXECUÇÃO. CUMULAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. RECURSO AFETADO À SISTEMÁTICA DO ART. 543-C DO CPC/1973: RESP 1.520.710/SC, REL. MIN. MAURO CAMPBELL MARQUES.
+DECISÕES RECONSIDERADAS. RETORNO DOS AUTOS, SOBRESTANDO-OS NO TRIBUNAL DE ORIGEM. APÓS, PROSSEGUIR COM O FEITO NOS TERMOS DO ART. 543-C, §§ 7º E 8º DO CPC/73. EMBARGOS DE DECLARAÇÃO DO PARTICULAR ACOLHIDOS.
+1. O tema relativo à possibilidade de cumulação da verba honorária fixada na Execução com aquela arbitrada nos respectivos Embargos do Devedor foi afetado pelo eminente Ministro MAURO CAMPBELL MARQUES à sistemática do art. 543-C do CPC/1973, tendo sido destacado como paradigma o REsp. 1.520.710/SC.
+2. A admissão de Recurso Especial como representativo da controvérsia impõe o sobrestamento dos autos do processo em que foram interpostos recursos na origem, cuja matéria se identifique com o tema afetado, para que, uma vez concluído o julgamento nesta Corte, seja o inconformismo apreciado na forma do art. 543-C, §§ 7º e 8º do CPC/1973 e da Resolução 8, de 7.8.2008 do STJ.
+3. Embargos de Declaração do particular acolhidos, com efeitos infringentes, reconsiderando-se as decisões anteriores e determinando-se a devolução dos autos ao Tribunal de origem.
+(EDcl no AgRg no AgRg no AREsp 594.705/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 15/5/2018, DJe 21/5/2018)
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
