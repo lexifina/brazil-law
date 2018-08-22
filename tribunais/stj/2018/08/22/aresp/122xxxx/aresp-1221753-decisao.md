@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão do Tribunal de Justiça do Estado de Minas Gerais, que não admitiu recurso especial fundado na alínea "c" do permissivo constitucional, e que desafia acórdão assim ementado (e-STJ fl. 242):
+APELAÇÃO CÍVEL - AÇÃO DE RECONHECIMENTO DE ESTABILIDADE - INDENIZAÇÃO POR PERDAS E DANOS - EFETIVAÇÃO PELA LEI COMPLEMENTAR 100 - ADI 4876 - VIOLAÇÃO AO ART, 37, II, DA CR - NULIDADE. DANO MORAL - NÃO COMPROVAÇÃO.
+1 - A declaração de inconstitucionalidade da Lei Complementar nº 100/2007 não garante à recorrente o direito de permanecer no serviço público além do prazo fixado quando da modulação dos efeitos da ADI 4876.
+2 - Inexistindo prova da conduta ensejadora do dano, não se sustenta o pedido de responsabilização civil.
+No especial obstaculizado, a parte recorrente aduziu divergência jurisprudencial quanto ao disposto no art. 54 da Lei n. 9784/1999 e no art. 186 do Código Civil.
+Após apresentadas as respectivas contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem.
+No presente agravo, a parte recorrente alega, em resumo, a inadequação dos fundamentos adotados na admissibilidade do apelo especial.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Com efeito, é inviável a apreciação de recurso especial fundado em divergência jurisprudencial (alínea "c"  do permissivo constitucional) quando o recorrente não demonstra o alegado dissídio por meio: a) da juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade dessas; b) da citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado; c) do cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, com a exposição das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a transcrição das ementas dos julgados em comparação. Nesse sentido: AgRg no REsp 1.558.877/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 05/02/2016; AgRg no AREsp 752.892/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 04/11/2015.
+No presente caso, a parte recorrente deixou de realizar o cotejo analítico, não atendendo, portanto, aos pressupostos específicos à configuração do dissenso jurisprudencial, preconizados no art. 541, parágrafo único, do Código de Processo Civil e no art. 255, §§ 1º e 2º, do RISTJ.
+Nos termos do disposto no art. 85, § 11, c/c o art. 98, § 1º, VI, §§ 2º e 3º, do CPC/2015, deve ser fixada a verba honorária recursal, inclusive ao beneficiário da assistência judiciária gratuita.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial. MAJORO os honorários sucumbenciais em 10% sobre o valor já fixado na origem, respeitados os limites e os critérios previstos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Publique-se. Intimem-se.
