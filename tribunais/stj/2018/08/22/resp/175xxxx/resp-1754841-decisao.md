@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela FAZENDA NACIONAL, em 20/04/2018, com fundamento na alínea a do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. EXTINÇÃO DO FEITO. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. HONORÁRIOS RECURSAIS.
+1. Verifica-se que a parte executada foi compelida a constituir procurador para promover sua defesa. Além disso, constata-se que a manifestação da parte executada foi determinante para a extinção da execução fiscal. Com efeito, a exceção de pré-executividade foi acolhida pela sentença de extinção do feito.
+2. Considerando o provimento da apelação, cumpre fixar os honorários recursais, na forma do artigo 85, § 11, do Código de Processo Civil" (fl. 239e).
+A parte recorrente alega violação ao art. 19, § 1º, da Lei 10.522/2002, sustentando, em síntese, que, "diante do reconhecimento da procedência do pedido pela União, era incabível a condenação em honorários" (fls. 245/249e).
+O Recurso Especial foi admitido (fl. 258e).
+O presente recurso não merece prosperar.
+Com efeito, na linha da jurisprudência desta Corte Superior, a despeito do que disciplinado pelo art. 19, § 1º, da Lei 10.522/2002, quando há a extinção da execução em virtude da apresentação de exceção de pré-executividade é possível a condenação da Fazenda Nacional em honorários advocatícios.
+Senão, vejamos:
+"TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. RECONHECIMENTO PELA FAZENDA NACIONAL DA PROCEDÊNCIA DO PEDIDO. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE. PRECEDENTES.
+1. A jurisprudência do STJ é no sentido de que é possível a condenação da Fazenda Nacional em honorários advocatícios, a despeito do teor do art. 19, § 1º, da Lei 10.522/2002, quando a extinção da execução ocorrer após o oferecimento de embargos pelo devedor, devendo o mesmo raciocínio ser utilizado para possibilitar a condenação da Fazenda Pública exequente em honorários advocatícios quando a extinção da execução ocorrer após a contratação de advogado pelo executado, ainda que para oferecer exceção de pré-executividade. Precedentes: AgRg no REsp 1.390.169/SC, Rel. Min. Sergio Kukina, Primeira Turma, DJe 22/11/2016; AgInt no REsp 1.590.005/PR, Rel. Min. Humberto Martins, Segunda Turma, DJe 14/6/2016.
+2. Agravo interno não provido." (STJ, AgInt no REsp 1.654.384/PR, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 11/05/2017).
+"TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. RECONHECIMENTO PELA FAZENDA NACIONAL DA PROCEDÊNCIA DO PEDIDO. CONDENAÇÃO EM CUSTAS E HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE. PRECEDENTES.
+1. Nos termos do art. 19, § 1º, da Lei 10.522/2002, são indevidos honorários advocatícios nos casos em há reconhecimento da procedência do pedido pela Fazenda Pública.
+2. A dispensa de honorários sucumbenciais só é pertinente se o pedido de desistência da cobrança é apresentado antes de oferecidos os embargos. Logo, é possível a condenação da Fazenda Nacional em honorários advocatícios, a despeito do teor do art. 19, § 1º, da Lei 10.522/02, quando a extinção da execução ocorrer após o oferecimento de embargos pelo devedor, como no caso dos autos. Precedentes.
+3. O mesmo raciocínio pode ser utilizado para possibilitar a condenação da Fazenda Pública exequente em honorários advocatícios quando a extinção da execução ocorrer após a contratação de advogado pelo executado, ainda que para oferecer exceção de pré-executividade (AgRg no AREsp 155.323/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 14/08/2012, DJe 21/08/2012.).
+Agravo interno improvido" (STJ, AgInt no REsp 1.590.005/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/06/2016).
+Destarte, estando o acórdão recorrido em sintonia com o entendimento dominante desta Corte, aplica-se, ao caso, o entendimento consolidado na Súmula 568 desta Corte, in verbis: "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao Recurso Especial.
+I.
