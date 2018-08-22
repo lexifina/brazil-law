@@ -1,0 +1,38 @@
+DECISÃO
+
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alínea "a" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+"Resolução de contrato de consórcio imobiliário: justificado pelo comprovado inadimplemento da administradora." (fls.651)
+Opostos embargos de declaração, os mesmos foram inadmitidos (e-STJ, fls. 709/710).
+Nas razões do recurso especial, a parte agravante alega violação ao art. 489, §1º do Código de Processo Civil de 2015 e arts. 170 e 184 do Código Civil de 2002, sustentando, em síntese, (a) que a decisão que julgou os embargos de declaração, ao apenas colacionar os trechos da sentença não está devidamente fundamentada, pois não realiza o cotejo entre os argumentos apresentados e os fundamentos decisórios, afirmando de modo genérico que os argumentos haviam sido enfrentados, sem que o fundamento principal da apelação, de que a resolução contratual foi desproporcional e violou o princípio da conservação do negócio jurídico, fosse analisado e (b) que a resolução de contrato de consórcio imobiliário que leva em consideração apenas o interesse de um participante isoladamente considerado causa desequilíbrio econômico-financeiro e enseja riscos à preservação da liquidez e da solvência das contemplações e (c) que tendo havido apenas a cobrança indevida nas parcelas de 1 a 38, deveria ter sido conservado o negócio jurídico.
+Não foram apresentadas contrarrazões.
+É o relatório. Decido.
+De início, cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Não há que se falar em suposta ofensa ao art. 489 do CPC/15, pois a análise do acórdão e da decisão que não admitiu os embargos de declaração revela que, embora não tenham sido examinado individualmente cada um dos argumentos suscitados pela parte ora agravante quanto a necessidade de conservação do negócio firmado pelas partes, as decisões fundamentaram de modo suficiente a decidir integralmente a controvérsia.
+Vejamos:
+"Logo, nesse ponto, está configurado o inadimplemento por parte da ré, ao efetuar a cobrança das parcelas a maior, em desconformidade com o estabelecido no contrato, o que atrai a incidência da regra contida no art. 475 do Código Civil, que assim dispõe: "A parte lesada pelo inadimplemento pode pedir a resolução do contrato, se não preferir exigir-lhe o cumprimento, cabendo, em qualquer dos casos, indenização por perdas e danos".
+Sob esse enfoque, observa-se que o autor optou pela resolução do contrato, com o retorno ao "status quo ante", motivo pelo qual tem direito a resolver o contrato, com a devolução de todas as quantias pagas, no montante postulado na inicial de R$ 51.131,32, uma vez que a ré não impugnou de forma específica esse valor, na forma exigida pelo artigo 302, "caput", do CPC.
+Como a resolução do contrato foi provocada por inadimplemento contratual, e não por desistência do consorciado, não há falar em incidência da cláusula contratual que prevê a devolução das parcelas após 60 dias da última assembléia de contemplação do grupo, nem de retenção de taxa de administração e de prêmio de seguro sobre o valor das parcelas pagas, o que impõe à ré a obrigação de restituir integralmente e de uma só vez o valor pago pela autora. (..)"
+(e-STJ, fl. 655)
+Ademais, o Tribunal de origem afirma que a fundamentação foi suficiente a enfrentar o apelo que, por sua vez, limitou-se a repetir alegações apreciadas na sentença, não havendo que se falar em omissão, in verbis:
+"Destarte, a técnica empregada pelo acórdão atende à exigência da fundamentação e, evidentemente, não constitui omissão, uma vez que o apelo limitou-se a repetir, na essência, alegações anteriores que foram apreciadas pela sentença, cujos fundamentos foram transcritos e incorporados ao voto condutor." (e-STJ, fls. 680)
+Quanto a alegação da parte agravante de que "o acórdão vergastado, para fundamentar sua decisão, apenas colacionou trechos da sentença" de modo a consubstanciar a violação ao art. 489 do CPC/73, a mesma não prospera diante da constatação de que a decisão enfrentou adequadamente a tese exposta e demonstrou a incidência da regra contida no art. 475 do CC/02, que confere a parte lesada pelo inadimplemento a resolução do contrato.
+Por tudo, restou demonstrado que a questão apresentada foi, de fato, examinadas e decidida, não havendo que se falar em omissão, obscuridade, contradição ou erro material.
+Ademais, é entendimento jurisprudencial deste Superior Tribunal de Justiça a possibilidade de adoção ou ratificação dos fundamentos da sentença como razões de decidir.
+Nesse sentido:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CONTRATOS BANCÁRIOS.
+EMBARGOS MONITÓRIOS. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA.
+1. No julgamento da apelação, o Tribunal local pode adotar ou ratificar, como razões de decidir, os fundamentos da sentença, prática que não acarreta omissão, não implica ausência de fundamentação nem gera nulidade. Precedentes.
+2. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1075290/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/03/2018, DJe 20/03/2018)
+Por fim, com relação à suposta violação ao arts. 170 e 184 do Código Civil de 2002, o Tribunal de origem concluiu, diante da análise do contexto fático-probatório e do contrato firmado pelas partes que, configurado inadimplemento com a cobrança das parcelas a maior, cabível a resolução do contrato e o retorno ao estado de coisas anterior, havendo direito da parte agravada resolver o contrato, in verbis:
+"Logo, nesse ponto, está configurado o inadimplemento por parte da ré, ao efetuar a cobrança das parcelas a maior, em desconformidade com o estabelecido no contrato, o que atrai a incidência da regra contida no art. 475 do Código Civil, que assim dispõe: "A parte lesada pelo inadimplemento pode pedir a resolução do contrato, se não preferir exigir-lhe o cumprimento, cabendo, em qualquer dos casos, indenização por perdas e danos".
+Sob esse enfoque, observa-se que o autor optou pela resolução do contrato, com o retorno ao "status quo ante", motivo pelo qual tem direito a resolver o contrato, com a devolução de todas as quantias pagas, no montante postulado na inicial de R$ 51.131,32, uma vez que a ré não impugnou de forma específica esse valor, na forma exigida pelo artigo 302, "caput", do CPC."
+(e-STJ, fl. 655)
+Nesse contexto, a modificação de tais entendimentos lançados no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos e análise de cláusulas contratuais, o que é inviável na sede estreita do recurso especial, a teor do que dispõem a Súmula 7 e Súmula 5 do Superior Tribunal de Justiça.
+Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA. RESOLUÇÃO DO CONTRATO. INADIMPLEMENTO. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Inviável o recurso especial cuja análise impõe reexame do contexto fático-probatório da lide (Súmula 7 do STJ).
+2. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 429.705/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 09/09/2014, DJe 16/09/2014)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial. Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 10% para 11% sobre o valor das condenações.
+Publique-se.
