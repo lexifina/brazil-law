@@ -1,0 +1,12 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (eDOC 36, p. 7):
+    “AGRAVO DE INSTRUMENTO. COMODATO. AÇÃO REIVINDICATÓRIA. ACORDO FIRMADO ENTRE AS PARTES EM QUE A AUTORA RECONHECE A PRESCRIÇÃO AQUISITIVA DOS IMÓVEIS EM FAVOR DA RÉ. ACORDO HOMOLOGADO. AUSÊNCIA DE EFEITO ERGA OMNES. CANCELAMENTO DAS AVERBAÇÕES EXISTENTES NAS MATRÍCULAS DOS IMÓVEIS. IMPOSSIBILIDADE. DECISÃO AGRAVADA MANTIDA. O acordo firmado entre as partes no qual houve reconhecimento da prescrição aquisitiva dos imóveis, objeto da reivindicatória, não tem efeito erga omnes. Necessidade de reconhecimento da propriedade pela via originária que se possibilite a instrução adequada ao feito com rito adequado, no qual deve ser procedida a intimação de todos os interessados. Decisão agravada mantida. AGRAVO DE INSTRUMENTO DESPROVIDO. UNÂNIME. ”
+    No recurso extraordinário, aduz-se ofensa aos arts. 5º, XXIII e XXXV, da Constituição Federal. Aponta-se ofensa aos princípios da inafastabilidade jurisdicional e da garantia à propriedade.
+    O Supremo Tribunal Federal já se manifestou sobre os temas discutidos nestes autos.
+    Verifica-se que, ao julgar o RE-RG 950.787, de relatoria do Min. Luiz Fux, DJe 9.6.2016 (Tema 890), o Plenário deste Tribunal afirmou não existir repercussão geral nos casos em que a alegada ofensa aos princípios constitucionais da dignidade da pessoa humana, da propriedade, da legalidade e do devido processo legal ocorre de forma genérica, exigindo interpretação das normas infraconstitucionais e revolvimento do conjunto fático-probatório dos autos, o que torna inadmissível o processamento do recurso extraordinário.
+    Ademais, no julgamento do RE-RG 956.302, de minha relatoria, DJe 16.06.2016 (Tema 895), esta Corte entendeu pela inexistência de repercussão geral quando a invocação do princípio da inafastabilidade de jurisdição ocorre com fundamento em argumentos genéricos, demonstrando inconformismo com o deslinde legal dado ao feito por incidência das normas de direito processual civil, como ocorreu no caso dos autos.
+    Ante o exposto, em vista dos pronunciamentos do Supremo Tribunal Federal acerca dos temas suscitados neste recurso, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 328 do RISTF.
+    Publique-se.
+    Brasília, 22 de agosto de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
