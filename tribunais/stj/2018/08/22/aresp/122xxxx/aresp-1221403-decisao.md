@@ -1,0 +1,56 @@
+DECISÃO
+1. Cuida-se de agravo interposto por LÍNEA PARANÁ LTDA. contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO PARANÁ assim ementado:
+AGRAVO DE INSTRUMENTO - HABILITAÇÃO DE CRÉDITO - DECISÃO QUE ACOLHEU PARECER DO SR. ADMINSITRADOR JUDICIAL (MOV. 129). A ALEGAÇÃO DE QUE O VALOR DO CRÉDITO DA AGRAVADA FOI CORRIGIDO ERRONEAMENTE - IMPROCEDÊNCIA - IMPOSSIBILIDADE DE REANALISE DA MATÉRIA, SOB PENA DE OFENSA COISA JULGADA - VALOR DO CRÉDITO DA AGRAVADA DISCUTIDO E DEFINIDO EM AGRAVO DE INSTRUMENTO ANTERIOR (N 155276-2) COM DECISÃO JÁ TRANSITADA EM JULGADO DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+Os embargos de declaração foram rejeitados (fls. 489-492).
+Nas razões do recurso especial (fls. 496-509), a parte recorrente aponta violação do arts. 9º, II, e 49, caput, da Lei 11.101/2005, sob o argumento de que "(..) o Tribunal a quo não considerou que o crédito a ser habilitado em favor da Recorrida está atualizado de maneira equivocada, pois está até data posterior à data da distribuição da Recuperação Judicial".
+Salienta que, "(..) nos termos do art. 9º, II, da Lei nº 11.101/2005, o crédito da Recorrida deveria ser atualizado até a data da propositura da recuperação judicial (..)".
+Por fim, afirma que não há que se falar em afronta à coisa julgada, pois o acórdão proferido no julgamento do agravo de instrumento nº 1.155.276-2, abriu exceção para rediscussão de valor tão somente para a atualização da divida.
+Contrarrazões às fls. 541-546 e 548-551.
+É o relatório.
+DECIDO.
+2. A Corte local, ao analisar a questão controvertida, consignou (fls. 472-473):
+A agravante busca o provimento do recurso para reformar a decisão impugnada e determinar que o crédito da ora agravada seja atualizado nos moldes do artigo 9º, inciso II, da Lei nº 11.101/2005.
+Para isso, sustenta que o crédito da agravada foi corrigido de forma equivocada, na medida em que foi atualizado até 01/08/2012, enquanto deveria ter sido atualizado apenas até a data da propositura do pedido de recuperação judicial (21/02/2011).
+(..)
+Todavia, em relação à sentença (fls. 304-306) proferida nos autos de origem houve anterior interposição de agravo de instrumento, ao qual foi dado provimento, "para considerar homologado o crédito no valor de R$239.026,87 (Duzentos e trinta e nove, vinte e seis reais e oitenta e sete centavos), em favor da agravada, determinando sua inclusão no quadro geral de credores." (AI nº 1155276-2 - fls. 376-386).
+Observa-se, ainda, que o acórdão proferido no agravo de instrumento nº 1155276-2 transitou em julgado em 07/10/2015 (fls. 396).
+Assim, mesmo que a tese da agravante possa ser relevante quanto à alegação de que a correção do crédito da agravada foi equivocada, verifica-se que a decisão que o homologou (no valor de R$239.026,87) já transitou em julgado.
+Por isso, não é possível discutir novamente esse valor, sob pena de ofensa a coisa julgada.
+(..)
+Percebe-se, pois, que o Tribunal de origem não afastou a relevância da questão sobre a qual se pretendia discutir, mas afirmou que a matéria já estaria acobertada pela coisa julgada, razão pela qual não seria possível, in casu, nova análise do tema relacionado à atualização do crédito.
+4. Desse modo, afirmo que o acolhimento da pretensão recursal, a fim de se afastar uma possível ofensa à coisa julgada demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em recurso especial, nos termos da Súmula 7/STJ.
+A propósito:
+AGRAVO INTERNO. RECURSO ESPECIAL. MATÉRIA CONSTITUCIONAL. DISCUSSÃO. IMPOSSIBILIDADE. PREQUESTIONAMENTO. AUSÊNCIA PARCIAL. EMBARGOS DE DECLARAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. COISA JULGADA. INTERPRETAÇÃO. LIMITES. AGRAVO DE INSTRUMENTO. FIXAÇÃO DE PARÂMETROS PARA ELABORAÇÃO DOS CÁLCULOS. CONTEÚDO DECISÓRIO. PRECLUSÃO. REEXAME DE MATÉRIA FÁTICA DA LIDE. NÃO CABIMENTO. ENUNCIADOS 282 E 356 DA SÚMULA DO STF E 7 E 83/STJ.
+1. É vedada a esta Corte Superior a análise de suposta violação de normas constitucionais, ainda que com o objetivo de prequestionamento, sob pena de usurpação da competência exclusiva do Supremo Tribunal Federal.
+2. Ante a falta de prequestionamento de parte dos temas ventilados no recurso especial, incidem as Súmulas 282 e 356 do Supremo Tribunal Federal.
+3. Não há ofensa ao art. 535 do Código de Processo Civil revogado quando o Tribunal de origem se manifesta, de modo suficiente, sobre todas as questões levadas a julgamento, não sendo possível atribuir vício algum ao acórdão somente porque decidiu em sentido contrário à pretensão do recorrente.
+4. O acolhimento das alegações de ofensa à coisa julgada e de equívoco da perícia na elaboração dos cálculos dependeria de reexame de matéria fática, o que é inviável em recurso especial, nos termos da Súmula 7 do STJ. Precedentes.
+5. A decisão que fixa parâmetros para a confecção dos cálculos possui conteúdo decisório, portanto fica sujeita à preclusão se não impugnada oportunamente pela via apropriada.
+6. Temas, ademais, em sintonia com a jurisprudência deste Tribunal (Súmula 83/STJ).
+7. Agravo interno a que se nega provimento.
+(AgInt no REsp 1573157/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 13/03/2018, DJe 20/03/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. INTERPRETAÇÃO DO TÍTULO EXECUTIVO. OFENSA À COISA JULGADA. MATÉRIA QUE DEMANDA REEXAME. SÚMULA 7 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL NA ORIGEM. MANUTENÇÃO DA MULTA DO ART. 1.021, § 4º DO NCPC. AGRAVO INTERNO NÃO PROVIDO.
+1. O acolhimento da pretensão recursal, a fim de reconhecer a ofensa à coisa julgada na interpretação do título executivo judicial, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ. 2. Manutenção da multa aplicada na origem com amparo no art. 1.021, § 4º do novo CPC, pois a jurisprudência do STJ possui entendimento sedimentado no sentido de que o recurso manifestamente inadmissível é apto a ensejar a aplicação da penalidade referida.
+3. Agravo interno não provido.
+(AgInt no AREsp 1036425/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/04/2017, DJe 11/05/2017)
+3. Ainda que assim não fosse, a irresignação não prosperaria.
+Conforme já afirmado anteriormente, o Sodalício local asseverou que o ponto tido por controvertido não mais pode ser revisto, tendo em vista que a questão transitou em julgado.
+Ocorre que os artigos de lei supostamente violados (arts. 9º, II, e 49, caput, da Lei 11.101/2005) não trazem comando normativo capaz de infirmar as razões colacionadas no aresto hostilizado, motivo pelo qual deve ser aplicado o óbice da Súmula 284/STF, tendo em vista que a deficiência na fundamentação obstou o deslinde do caso.
+A propósito (grifamos):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CONCURSO PÚBLICO. VIOLAÇÃO DO ART. 535 DO CPC/1973.
+INEXISTÊNCIA. MALFERIMENTO DO ART. 41 DA LEI N. 8.666/1993. AUSÊNCIA DE PERTINÊNCIA TEMÁTICA. INCIDÊNCIA DA SÚMULA 284/STF. APLICADA POR ANALOGIA.
+1. Não merece prosperar a tese de violação do art. 535 do CPC/1973, porquanto o acórdão recorrido fundamentou, claramente, o posicionamento por ele assumido.
+2. Sendo assim, não há que se falar em omissão, obscuridade ou contradição do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração.
+3. Na forma da jurisprudência, "a impertinência do dispositivo legal apontado como violado, no sentido de ser incapaz de infirmar o aresto recorrido, revela a deficiência das razões do recurso especial, fazendo incidir a Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"" (STJ, AgRg no AREsp 144.399/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 18/6/2012).
+4. A Lei 8.666/1993, que estabelece normas gerais sobre licitações e contratos administrativos pertinentes a obras, serviços, inclusive de publicidade, compras, alienações e locações no âmbito dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, não guarda pertinência com as questões envolvendo concursos para preenchimento de cargos públicos efetivos. Precedentes: AgRg no AREsp 557.703/CE, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 5/12/2014; AgRg no AREsp 462.797/CE, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 5/5/2014; AgRg no AREsp 167.117/RJ, Rel.
+Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 25/10/2012.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1684800/CE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 05/06/2018, DJe 11/06/2018)
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. FALTA DE PREQUESTIONAMENTO DOS ARTS. 3º, 113 E 128 DO CÓDIGO TRIBUTÁRIO NACIONAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. MULTA DO ART. 1.026 DO CPC. APLICAÇÃO NÃO ADEQUADA NA ESPÉCIE. I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 282 do Supremo Tribunal Federal. III - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+IV - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+V - O Agravante não apresenta argumentos suficientes para desconstituir a decisão recorrida. VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no REsp 1714321/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 22/05/2018, DJe 01/06/2018)
+4. Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
