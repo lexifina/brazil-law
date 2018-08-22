@@ -1,0 +1,31 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. INDICAÇÃO NECESSÁRIA. FUNDAMENTAÇÃO SUFICIENTE. ORDEM DENEGADA.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos dos artigos 282, incisos I e II c/c 312 do CPP.
+2. O Juiz de primeira instância apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para justificar a necessidade de colocar o paciente cautelarmente privado de sua liberdade, ao salientar que o paciente registra envolvimento em outros fatos ilícitos penais.
+3. Habeas corpus denegado.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, denegar a ordem, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro, Maria Thereza de Assis Moura e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+ALEX [NOME] alega sofrer constrangimento ilegal ao seu direito de locomoção, em decorrência de acórdão do Tribunal de Justiça do Estado de São Paulo, que manteve a sua prisão preventiva no HC n. 2020391-15.2018.8.26.0000.
+Consta dos autos que o paciente foi preso em flagrante na posse de 18 porções de cocaína (3,79 g), 2 porções de haxixe (150,63 g) e 2 porções de maconha (120,39 g).
+Busca o impetrante, em suma, a revogação da custódia cautelar do paciente - decretada em convolação à sua prisão em flagrante, ocorrida em 20/1/2018, por suposta prática do crime previsto no art. 33 da Lei n. 11.343/2006 -, sob a assertiva basilar de que o édito prisional está desprovido de motivação idônea.
+Indeferida a liminar e prestadas as informações de fls. 73-93, foram os autos enviados ao Ministério Público Federal, que oficiou pelo não conhecimento do writ (fls. 108-111).
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. INDICAÇÃO NECESSÁRIA. FUNDAMENTAÇÃO SUFICIENTE. ORDEM DENEGADA.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos dos artigos 282, incisos I e II c/c 312 do CPP.
+2. O Juiz de primeira instância apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para justificar a necessidade de colocar o paciente cautelarmente privado de sua liberdade, ao salientar que o paciente registra envolvimento em outros fatos ilícitos penais.
+3. Habeas corpus denegado.
+
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+O Juiz de Direito fundamentou a prisão nos seguintes termos:
+ ..  foi surpreendido na posse de entorpecentes e materiais que revelam a possibilidade concreta de que o suspeito estava embalando entorpecentes para consumo no momento da prisão, inclusive revelando a possibilidade de que faça ele parte de organização criminosa voltada para a venda de entorpecentes, e que sua liberdade poderá colocar em risco a sociedade em razão dos funestos efeitos daquela prática. Ademais, Alex registra envolvimento em outros fatos ilícitos penais e revela personalidade voltada para a prática da infração penal. Ressalte-se que a prática da venda de drogas é uma constante e aquele que tem por meio de vida tal conduta dela não abdica de maneira definitiva. Logo, a preservação da ordem pública, para evitar a futura prática de novos crimes, exige a decretação da prisão preventiva, até mesmo pela natureza do crime praticado. (fl. 34)
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do ora paciente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Com efeito, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para justificar a necessidade de colocar o paciente cautelarmente privado de sua liberdade, ao salientar que o paciente registra envolvimento em outros fatos ilícitos penais (2 registros de homicídio qualificado tentado, além de outros que foram arquivados ante a extinção da punibilidade, fls. 22-23).
+O STJ, em casos similares, entende que a existência de registros criminais - a revelar risco real de reiteração delitiva - pode justificar idoneamente a prisão preventiva. Confira-se:
+1. A necessidade da custódia cautelar restou demonstrada, com espeque em dados concretos dos autos, conforme recomenda a jurisprudência desta Corte, estando o decisum proferido na origem fundamentado na quantidade e diversidade de entorpecente apreendido, além da renitência criminosa, visto que o paciente responde a outro processo pelo mesmo delito (tráfico de drogas), no qual foi agraciado com a liberdade provisória, a evidenciar, portanto, risco para a ordem pública. (HC n. 397.001/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 19/9/2017)
+ ..  2. Hipótese em que não há flagrante ilegalidade a ser reconhecida. Na espécie, a custódia cautelar foi mantida para o resguardo da ordem pública, em razão da periculosidade concreta dos agentes, cujas folhas de antecedentes registram prática reiterada de delitos.  ..  (RHC n. 57.068/BA, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 23/4/2015)
+À vista do exposto, denego a ordem.
