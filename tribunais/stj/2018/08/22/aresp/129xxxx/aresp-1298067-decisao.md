@@ -1,0 +1,50 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO DE QUANTIA CERTA. PENHORA DE VALORES CONTIDOS NAS CONTAS BANCÁRIAS DAS SUCESSORAS DO EXECUTADO. POSSIBILIDADE. OBRIGAÇÃO DE PAGAR A DÍVIDA DO ESPÓLIO. PARTILHA DOS BENS ANTES DA QUITAÇÃO DO DÉBITO. EMBARGOS DE DECLARAÇÃO TIDOS POR PROTELATÓRIOS. MULTA. ALEGADA OFENSA AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 07/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por [NOME] e [NOME] FERNANDES [NOME], em face da decisão que negou seguimento a recurso especial, aviado pela alínea "a" do art. 105, III, da Constituição Federal, ao fundamento de incidência das Súmulas 07 e 83/STJ (e-STJ fls. 741-744).
+Em suas razões, infirmou especificamente as razões da decisão agravada (e-STJ fls. 746-761).
+No recurso especial, a parte recorrente alega ofensa aos arts. 1.022 e 1.026, § 2º, ambos do Código de Processo Civil de 2015, sustentando, em síntese, a inviabilidade da multa fixada em razão da oposição de embargos de declaração tidos por protelatórios.
+Aduz, ainda, que o Tribunal a quo não apontou a razão da mantença da decisão proferida pelo Juízo de piso, tampouco explicitou o fundamento utilizado para afastar a aplicação da norma inscrita no art. 1.792 do Código Civil, o qual trata da restrição da responsabilidade de herdeiros no pagamento de dívidas de autor da herança ao quinhão por eles recebido na partilha dos bens deixados pelo falecido.
+Apresentadas contrarrazões (e-STJ fls. 735-739).
+É o relatório.
+Passo a decidir.
+Inicialmente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/2015, conforme Enunciado Administrativo Nº 3/STJ.
+Ato contínuo, percebe-se que a irresignação não merece acolhida.
+A recorrente, em sede de recurso especial, alega ofensa aos arts. 1.022 e 1.026, § 2º, ambos do Código de Processo Civil de 2015, sustentando, em síntese, a inviabilidade da multa fixada em razão da oposição de embargos de declaração tidos por protelatórios.
+Aduz, ainda, que o Tribunal a quo não apontou a razão da mantença da decisão proferida pelo Juízo de piso, tampouco explicitou o fundamento utilizado para afastar a aplicação da norma inscrita no art. 1.792 do Código Civil, o qual trata da restrição da responsabilidade de herdeiros no pagamento de dívidas de autor da herança ao quinhão por eles recebido na partilha dos bens deixados pelo falecido.
+O acórdão recorrido, por sua vez, assim assentou (e-STJ fls. 690-691):
+Com efeito, às f. 580-593, o exequente, ora agravado, comprovou que as agravantes, [NOME] e [NOME], sucessoras do executado [NOME], receberam o seu quinhão antes de saldar as dívidas, e transferiram o único imóvel que garantia a presente execução a título oneroso para terceiro adquirente de boa-fé.
+Ato contínuo, o magistrado da instância singela determinou a substituição processual e a citação das sucessoras para efetuarem o pagamento da dívida (f. 594).
+Devidamente citadas, as agravantes deixaram transcorrer in albis o prazo para efetuar o pagamento do débito, o que gerou bloqueio via Bacen-jud no valor parcial de R$ 2.829,44 (fls. 658-659).
+Irresignadas com a decisão que realizou o bloqueio dos valores, as agravantes peticionaram alegando a impenhorabilidade do numerário constritado, eis que se trata de quantia destinada a atender às necessidades essenciais das agravantes, bem como afirmaram que o montante bloqueado não faz parte do quinhão hereditário que lhes foi destinado (fls. 663-665).
+Da análise dos autos, verifico não assistir razão às recorrentes, uma vez que não restou devidamente demonstrado nos autos que a quantia constrita é oriunda de proventos destinados aos sustentos delas.
+O argumento de que os valores bloqueados não fazem parte do quinhão hereditário também não merece acolhimento, haja vista que é cediço que foi reconhecida a obrigação das sucessoras em pagar a dívida do espólio, uma vez encerrado o inventário pela partilha dos bens sem que antes tivesse sido quitado referido débito, conforme se vê à f. 594. (grifos nossos)
+Com efeito, quanto à alegada violação ao art. 1.022 do Código de Processo Civil de 2015, vislumbra-se a não ocorrência de nulidade por omissão, obscuridade, contradição, ou erro material, tampouco de negativa de prestação jurisdicional, no acórdão que conclui, de maneira integral e com fundamentação suficiente e clara, que (a) não assiste "razão às recorrentes, uma vez que não restou devidamente demonstrado nos autos que a quantia constrita é oriunda de proventos destinados aos sustentos delas"; bem como que (b) "o argumento de que os valores bloqueados não fazem parte do quinhão hereditário também não merece acolhimento, haja vista que é cediço que foi reconhecida a obrigação das sucessoras em pagar a dívida do espólio, uma vez encerrado o inventário pela partilha dos bens sem que antes tivesse sido quitado referido débito, conforme se vê à f. 594".
+O juízo não está obrigado, ainda, a se manifestar a respeito de todas as alegações e dispositivos legais suscitados pelas partes.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE EXIBIÇÃO DE DOCUMENTOS. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. VIOLAÇÃO DO ART. 535 DO CPC/73. OMISSÃO QUE NÃO SE VERIFICA. PEDIDO ADMINISTRATIVO. INTERESSE DE AGIR RECONHECIDO PELO TRIBUNAL DE ORIGEM. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA Nº 7 DO STJ. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC.
+1. Aplicabilidade do NCPC a este recurso ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexiste ofensa ao art. 1022, II, do NCPC (art. 535 do CPC/73) quando o Tribunal a quo se manifestou clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, sendo desnecessário rebater, uma a uma, as razões suscitadas pelas partes. 2. (..).
+3. No caso dos autos, a convicção a que chegou o acórdão recorrido quanto ao interesse de agir da parte autora decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, o que encontra óbice no enunciado nº 7 da Súmula do STJ.
+4. Em virtude do não provimento do presente recurso, e da anterior advertência em relação à aplicabilidade do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+5. Agravo interno não provido, com aplicação de multa. (AgInt no REsp 1624810/PR, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/05/2017, DJe 01/06/2017) - g.n.
+Ademais, no que diz respeito à multa de 1% sobre o valor atualizado da causa, arbitrada em razão da oposição de embargos de declaração tidos por protelatórios, verifica-se a incidência do óbice constante do Enunciado N. 07/STJ, uma vez que, para afastar as conclusões do v. acórdão, o qual reconheceu o caráter protelatório do recurso (e-STJ fl. 710), seria necessário o reexame do conjunto fático-probatório dos autos.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESCISÃO DE CONTRATO DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. PROCEDÊNCIA PARCIAL. IRRESIGNAÇÃO DA AUTORA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL - NÃO OCORRÊNCIA; CABIMENTO DA MULTA DO ART. 538 DO CPC/1973 - SÚMULA 7/STJ; SER DEVIDA A INDENIZAÇÃO PELA FRUIÇÃO DO BEM - AUSÊNCIA DE PREQUESTIONAMENTO. RAZÕES DO AGRAVO INTERNO INSUFICIENTES. AGRAVO DESPROVIDO.
+1. Não ocorre negativa de prestação jurisdicional quando o Tribunal de origem deixa de se manifestar sobre determinado ponto de forma justificada.
+2. Incide a Súmula 7/STJ a obstar o conhecimento do recurso especial que visa reformar a decisão que concluiu pela aplicação da multa prevista no art. 538, parágrafo único, do Código de Processo Civil de 1973.
+3. Tendo o Tribunal estadual concluído pela existência de coisa julgada material referente à indenização pela fruição do imóvel e, por isso, deixado de se manifestar sobre a matéria, incide a Súmula 211/STJ a obstar o conhecimento do recurso, por ausência de prequestionamento.
+4. Razões recursais insuficientes para a revisão do julgado.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1176305/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/04/2018, DJe 03/05/2018) - g.n.
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO REVISIONAL DE CONTRATO BANCÁRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DO DEMANDANTE.
+1. Não cabe ao Superior Tribunal de Justiça, em sede de recurso especial, examinar suposta ofensa do acórdão recorrido a dispositivos constitucionais, ainda que indireta ou reflexa, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal.
+2. Ausência de violação do art. 535, I e II, do CPC/73, porquanto clara e suficiente a fundamentada a decisão exarada pelo Tribunal de origem para o deslinde da controvérsia.
+3. A análise dos fundamentos que ensejaram a aplicação da multa prevista no art. 538, parágrafo único, do CPC/73 pela Corte de origem demanda o revolvimento dos elementos fático-probatórios constantes dos autos, o que se mostra inviável por esta via especial, ante o óbice do enunciado da Súmula 7 desta Corte.
+Precedentes 4. Agravo regimental desprovido.
+(AgRg no AREsp 697.024/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/03/2018, DJe 02/04/2018) - g.n.
+Destarte, melhor sorte não socorre aos recorrentes.
+Ante o exposto, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nesta extensão, NEGAR-LHE PROVIMENTO.
+Intimem-se.
