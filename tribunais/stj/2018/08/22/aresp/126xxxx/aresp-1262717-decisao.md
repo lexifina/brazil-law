@@ -1,0 +1,39 @@
+DECISÃO
+WENDELL NASCIMENTO DE FREITAS agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios na Apelação Criminal n. 0006884-93.2016.8.07.0008.
+Nas razões do recurso especial, a defesa aponta violação do art. 386, III, do Código de Processo Penal, ao argumento de atipicidade da conduta imputada ao agravante por "absoluta impropriedade do objeto  ..  tendo em vista que a arma não estava apta para disparar disparos e encontrava-se desmuniciada" (fl. 185).
+Requer, dessa forma, a absolvição do réu.
+O recurso especial foi inadmitido no juízo prévio de admissibilidade realizado pelo Tribunal de origem, por incidência da Súmula n. 83 do STJ, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo (fls. 237-239).
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada.
+Quanto ao recurso especial, observo que suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade do recurso especial (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), razões pelas quais avanço na análise de mérito da controvérsia.
+O agravante foi condenado, em primeiro grau, à pena de 2 anos de reclusão, em regime inicial aberto, substituída por duas restritivas de direitos mais multa, como incurso no art. 14 da Lei n. 10.826/2003, porque trazia consigo, sem autorização e em desacordo com determinação legal ou regulamentar, uma arma de fogo, tipo espingarda, calibre .22.
+Em relação à materialidade delitiva e à perícia no artefato, o Tribunal de origem assim se manifestou (fls. 173-175, destaquei):
+ ..
+No que tange à alegada inaptidão da arma, esta não se verifica, pois, ao contrário do que sustentado pelo apelante o Laudo de Exame de Arma de Fogo nº 2773/2017 (fls. 87/89) aponta que nos ensaios realizados com a arma em questão, para verificar o funcionamento do seu mecanismo de percussão e extração, foram obtidos resultados satisfatórios.
+E, apesar de registrar que seu sistema de repetição encontra-se ineficiente, devido a uma falha de alimentação provocada pelo emperramento da mesa elevadora pelo cartucho contido no tubo carregador, os ilustrados peritos, ao final do exame, concluíram, de forma categórica, que a arma de fogo descrita efetua disparo.
+Quanto ao segundo argumento apresentado, relativo ao fato da arma se encontrar desmuniciada, forçoso reconhecer que a ilustrada sentença, ao reconhecer que o agente do presente delito portava arma de fogo, municiada com seis cartuchos intactos, em local público, incorreu em equívoco, pois, realmente, não há qualquer indicação nos autos nesse sentido, pois, as declarações dos policiais militares colhidas na fase inquisitorial (fls. 04/05) não fazem qualquer menção à supostas munições, o Auto de Apresentação e Apreensão nº 1420/2016 (fl. 07) indica apenas a apreensão de uma espingarda e, o policial [NOME], perante a autoridade judicial, afirmou que não havia munição.
+Todavia, tal circunstância, por si só, não enseja a absolvição do apelante.
+O delito em questão é de mera conduta e de perigo abstrato. Não há qualquer relevância em se perquirir se a conduta do agente ocasionou resultado naturalístico ou ofereceu perigo concreto à integridade física de outrem, pois para configuração do aludido delito basta o agir em desconformidade com a norma legal.
+ ..
+Dessa forma, não é imprescindível à caracterização do crime que a arma esteja municiada, porque esses artefatos bélicos, ainda que isoladamente considerados, são dotados de lesividade latente.
+A jurisprudência desta Corte Superior é firme em assinalar que o crime de porte ilegal de arma de fogo é de perigo abstrato. É prescindível, para sua configuração, a realização de exame pericial a fim de atestar a potencialidade lesiva da arma de fogo apreendida, pois é suficiente a simples posse do armamento, ainda que sem munições, em desacordo com determinação legal ou regulamentar, para a caracterização do delito.
+Apesar de prescindível, foi realizada perícia no objeto apreendido, que, ao contrário do afirmado pela defesa, constatou a eficácia do instrumento. O Tribunal de origem consignou expressamente que os peritos atestaram que embora o sistema de repetição da espingarda seja ineficiente, "a arma de fogo descrita efetua disparo" (fl. 173, grifei).
+Nesse cenário, não há falar em atipicidade material da conduta atribuída ao réu, porque o simples fato de possuir, sob sua guarda, arma de fogo (espingarda calibre .22) à margem do controle estatal - artefato que mesmo desmuniciado possui potencial de intimidação e reduz o nível de segurança coletiva exigido pelo legislador -, caracteriza o tipo penal previsto no art. 14 do Estatuto do Desarmamento, principalmente porque o bem jurídico tutelado pela norma penal não é a incolumidade física de outrem, mas a segurança pública e a paz social, efetivamente violadas.
+Assim, correta a incidência da Súmula n. 83 do STJ. Confiram-se:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. VIOLAÇÃO DO ART. 14 DA LEI N. 10.826/2003. PORTE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. DELITO DE PERIGO ABSTRATO. CRIME DE MERA CONDUTA. COMPROVAÇÃO DA LESIVIDADE. PRESCINDIBILIDADE. TIPICIDADE CONFIGURADA.
+1. Segundo a jurisprudência deste Superior Tribunal, os crimes previstos entre os arts. 12 a 18 do Estatuto do Desarmamento são considerados de perigo abstrato, notadamente em função da proteção do bem jurídico atinente à incolumidade pública.
+2. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de que os crimes previstos nos arts. 12, 14 e 16 da Lei n. 10.826/2003 são de perigo abstrato, razão pela qual é desnecessária a realização de exame pericial para aferir a potencialidade lesiva do artefacto. (HC n. 356.349/MS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/8/2016).
+3. É irrelevante aferir a eficácia da arma de fogo para a configuração do tipo penal, que é misto-alternativo, em que se consubstanciam, justamente, as condutas que o legislador entendeu por bem prevenir, podendo até mesmo ser o simples porte de munição ou o porte de arma desmuniciada.
+4. Agravo regimental improvido.
+(AgRg no REsp n. 1.616.779/RS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 18/11/2016, destaquei)
+ ..
+1. O crime de porte ilegal de arma de fogo ou de munições de uso permitido, previsto no art. 14 da Lei n. 10.826/2003, é de perigo abstrato, sendo irrelevante até mesmo a aferição do potencial lesivo da arma ou da munição. Incidência da Súmula n. 83 do STJ.
+2. Agravo regimental não provido.
+(AgRg no AREsp n. 636.000/DF, Rel. Ministro Rogerio Schietti, 6ª T., DJe 27/4/2015)
+ ..
+1. Consoante entendimento firmado no julgamento do AgRg nos EAREsp n. 260.556/SC, o crime previsto no art. 14 da Lei n. 10.826/2003 é de perigo abstrato, sendo irrelevante o fato de a arma estar desmuniciada ou, até mesmo, desmontada ou estragada, porquanto o objeto jurídico tutelado não é a incolumidade física, e sim a segurança pública e a paz social, colocados em risco com o porte de arma de fogo sem autorização ou em desacordo com determinação legal, revelando-se despicienda a comprovação do potencial ofensivo do artefato através de laudo pericial.
+2. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.
+(AgRg no AREsp n. 765.902/MS, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 15/3/2017, grifei)
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
