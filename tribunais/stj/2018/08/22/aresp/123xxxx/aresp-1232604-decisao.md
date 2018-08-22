@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por EDINAN FERNANDES DE SOUZA contra decisão do Tribunal de Justiça do Estado do Tocantins, que não admitiu recurso especial fundado nas alíneas "a" e "c"  do permissivo constitucional, e que desafia acórdão assim ementado (e-STJ fl. 295/296):
+APELAÇÃO CÍVEL. AÇÃO DE REPOSIÇÃO DE VENCIMENTOS. SENTENÇA FUNDAMENTADA EM PROVA DOCUMENTAL PRECLUSA. NULIDADE. PRELIMINAR REJEITADA.
+1 - Não prospera a preliminar de nulidade da sentença sob a alegação de que fundamentada em prova preclusa, visto que o decisum não está de todo embasado apenas na documentação apresentada posteriormente pelo Município apelado. Ademais, dos documentos acostados à contestação, também é possível se extrair a inexistência de amparo jurídico à pretensão do recorrente, o que afasta a tese de prova preclusa.
+SERVIDOR PÚBLICO MUNICIPAL. RECOMPOSIÇÃO DE VENCIMENTOS. CONVERSÃO DE CRUZEIRO REAL PARA UNIDADE REAL DE VALOR (URV). REAJUSTES. VINCULAÇÃO AO SALÁRIO MÍNIMO. PERDAS SALARIAIS. INOCORRÊNCIA. SENTENÇA MANTIDA. RECURSO IMPROVIDO.
+1 - Segundo entendimento consolidado pelo Superior Tribunal de Justiça, em relação aos servidores cuja remuneração não é paga no último dia do mês, a
+respectiva conversão deve ser feita considerando o valor da URV referente à data do efetivo pagamento. Tal posicionamento estende-se aos servidores estaduais e municipais que se encontrem nessa situação.
+2 - Comprovado nos autos que a remuneração mensal dos servidores do Município de Colinas do Tocantins não era paga no dia 20 nem no último dia do mês de referência, mas nos primeiros dias do mês subsequente, é de se reconhecer que não houve ilegalidade alguma na conversão efetivada, sendo indevido o pagamento dos 11,98% ou de qualquer outra diferença.
+Recurso conhecido e improvido.
+No especial obstaculizado, a parte recorrente alega violação dos arts. 131 e 515, § 3º, do CPC/2015. Aduz que a questão relativa à prescrição com base em lei estadual não foi objeto de debate na fase de conhecimento, sendo ventilada somente ex officio pelo Tribunal a quo, o que caracterizaria ativismo judicial. Sustenta que seria necessária a instrução probatória para a verificação da ocorrência da prescrição. Por fim, alega divergência jurisprudencial.
+Apresentadas as contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de incidência do art. 1.040 do CPC/2015 (e-STJ fls. 538/540).
+No presente agravo, a recorrente alega, em resumo, a inadequação dos fundamentos aludidos.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Na hipótese, não obstante tenha sido o especial interposto na vigência do CPC/1973, o agravo em recurso especial foi manejado já sob a égide do novo CPC.
+Considerado isso, importa destacar que o agravo não merece ser conhecido.
+Segundo a jurisprudência desta Corte de Justiça, não cabe agravo em recurso especial contra a decisão que inadmite o apelo extremo com fundamento art. 1.040, I, do CPC/2015, hipótese em que deveria ter sido apresentado agravo regimental/interno para o próprio Tribunal de origem.A respeito:
+PROCESSUAL CIVIL. ACÓRDÃO RECORRIDO. CONFORMIDADE COM RECURSO REPRESENTATIVO DE CONTROVÉRSIA. RECURSO ESPECIAL. NEGATIVA DE SEGUIMENTO. IMPUGNAÇÃO POR AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO.
+1. É manifestamente inadmissível o agravo em recurso especial interposto contra decisão que nega seguimento a recurso especial, por estar o acórdão recorrido em consonância com entendimento exarado no regime de julgamento de recursos repetitivos.
+2. Segundo o art. 1.030, I, "b", § 2º, do CPC/2015, o recurso adequado nessa hipótese é o agravo interno do art. 1.021 desse diploma normativo.
+3. O manejo de agravo em recurso especial configura erro grosseiro (art. 1.042 do CPC/2015), o que afasta a aplicação do princípio da fungibilidade recursal.
+4. O recurso manifestamente improcedente atrai a multa prevista no art. 1.021, § 4º, do CPC/2015, na razão de 1% a 5% do valor atualizado da causa.
+ 5. Agravo interno desprovido, com aplicação de multa. (AgInt no AREsp 1.097.673/SP, de minha relatoria, PRIMEIRA TURMA, DJe 23/02/2018).
+Ressalte-se que, "no caso de parte da cadeia recursal haver sido interposta sob a vigência do CPC/1973 e a outra parte ter se orientado pelo CPC/2015, deve ser observado como parâmetro o recurso que efetivamente instou o "grau recursal"", de modo que, "uma vez interposto recurso especial pelo CPC/1973, não haverá condenação em honorários recursais, ainda que o consequente agravo em recurso especial já tenha observado o novo diploma processual" (AREsp 1.137.616/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 03/10/2017, DJe 11/10/2017).
+Ante o exposto, com base no art. art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
