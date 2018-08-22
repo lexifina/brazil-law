@@ -1,0 +1,56 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL RECURSO ESPECIAL. FURTO QUALIFICADO. EXCLUSÃO DA QUALIFICADORA DE ROMPIMENTO DE OBSTÁCULO. PERÍCIA DIRETA REALIZADA. QUALIFICADORA MANTIDA.
+I - o v. acórdão ora atacado está em consonância com a jurisprudência deste Tribunal Superior é pacífica no sentido de que o exame de corpo de delito é imprescindível para a caracterização da qualificadora do rompimento de obstáculo, sendo admitido o exame de forma indireta apenas nas hipóteses de não existirem vestígios ou em caso de desaparecimento deles.
+II - In casu, além da perícia direta, os réus confessaram terem ultrapassado o obstáculo mediante escalada.
+Agravo regimental desprovido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jorge Mussi, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FELIX FISCHER: Trata-se de agravo regimental interposto por [NOME], contra a decisão de fls. 289-293 que negou provimento ao recurso especial, cuja ementa é a seguinte:
+"PENAL. RECURSO ESPECIAL. FURTO QUALIFICADO. EXCLUSÃO DA QUALIFICADORA DE ROMPIMENTO DE OBSTÁCULO. PERÍCIA DIRETA REALIZADA. QUALIFICADORA MANTIDA. NEGADO PROVIMENTO AO RECURSO."
+Consta dos autos que o recorrente foi condenado pelo juízo do primeiro grau como incurso no delito previsto no artigo 155, § 4º, incisos II e IV, do Código Penal, à pena de 5 (cinco) anos e 5 (cinco) meses de reclusão, no regime inicial fechado, e 201 (duzentos e um) dias-multa (fls. 107-130).
+Irresignada, a defesa interpôs apelação, com vistas à reforma da sentença condenatória. No Tribunal de origem, o recurso foi parcialmente provido, para redimensionar a pena ao patamar de 3 (três) anos, 1 (um) mês e 15 (quinze) dias de reclusão, no regime inicial semiaberto, e 16 (dezesseis) dias-multa (fls. 224-237).
+Nas razões do recurso especial, a parte recorrente sustenta violação ao artigo 155, § 4º, inciso, do Código Penal; e artigos 158, 159 e 171, todos do Código de Processo Penal, aos argumentos de que:
+(i) "O Egrégio Tribunal de Justiça do Estado de Mato Grosso desacolheu a tese defensiva no tocante ao decote da qualificadora mencionada, ao fundamento de ser despicienda a realização de exame pericial para comprovação da mesma e de que referida providência fora suprida por testemunhos colhidos durante a persecutio críminis, testemunho dos policiais atuantes no caso, acrescida de Auto de Constatação (fl. 33 - TJMT), juntamente com o Auto de Constatação (fls. 33/38), os quais foram tratados como provas periciais, como se verifica no acórdão vergastado (..)  e xaminando minuciosamente a decisão colegiada, constata-se que a mesma incide em flagrante ilegalidade, ao contrariar texto expresso de lei federal, no que diz respeito à exigência de realização da prova pericial para comprovação da escalada, prevista nos arts. 158. 159 e 171 do CPP" (fl. 247);
+(ii) "a exegese do preceito legal supracitado, não pode ser outra, senão a de obrigatoriedade da realização do citado exame sempre que a infração deixar vestígios, salvo se houverem desaparecidos/dissipados os vestígios (arts. 158 e 171 em cotejo com art. 167, ambos do CPP), ou, até mesmo, na hipótese do local ter se tornado impróprio para a perícia, como já pacificada pela jurisprudência do STJ" (fl. 247).
+Nas razões do presente agravo regimental, a parte agravante repisa o aventado em sede de recurso especial e pugna, ao final, pela apresentação do recurso ao colegiado.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL RECURSO ESPECIAL. FURTO QUALIFICADO. EXCLUSÃO DA QUALIFICADORA DE ROMPIMENTO DE OBSTÁCULO. PERÍCIA DIRETA REALIZADA. QUALIFICADORA MANTIDA.
+I - o v. acórdão ora atacado está em consonância com a jurisprudência deste Tribunal Superior é pacífica no sentido de que o exame de corpo de delito é imprescindível para a caracterização da qualificadora do rompimento de obstáculo, sendo admitido o exame de forma indireta apenas nas hipóteses de não existirem vestígios ou em caso de desaparecimento deles.
+II - In casu, além da perícia direta, os réus confessaram terem ultrapassado o obstáculo mediante escalada.
+Agravo regimental desprovido.
+
+VOTO
+O EXMO. SR. MINISTRO FELIX FISCHER: O presente agravo não merece prosperar, devendo ser mantida a decisão recorrida por seus próprios fundamentos.
+Busca a parte recorrente, em síntese, nas suas razões recursais, a agravante inserta no artigo 155, § 4º, inciso II, do Código Penal.
+Confira-se, oportunamente, trecho do v. acórdão ora vergastado sobre o tema, no punctum saliens:
+"No que tange à qualificadora de escalada, o Auto de Constatação apontou o seguinte:
+"Local: Trata-se de uma residência localizada na Rua Bahia, s/nº sendo esta residência um sobrado de material, coberta com telha de cimento, piso em cerâmica, na parte de cima se encontram dois quartos, um banheiro e uma sacada; no térreo se encontra uma cozinha, lavanderia, sala de jantar integrada com a sala, um loft, um banheiro e uma pequena área de lazer; a residência é toda murada, com um portão de grade na frente.
+Levantamento do local: Seguem fotografias do local do dano.
+CONCLUSÃO: Que na data de 12/02/2017 foi registrada nesta delegacia o B.O. 2017.50876, natureza furto. Que os suspeitos arrombaram a porta dos fundos, sendo esta porta de alumínio com uma janela de vidro, tiveram acesso à sala de jantar e subtraíram um aparelho de som da marca LG, que estava na sala, em cima de um rack" (11. 33).
+O que se percebe é que o apelante e o correu utilizaram de via anormal para entrar e sair do imóvel, de modo que os vestígios constatados pela perícia - a invasão de residência toda murada e a destruição da porta dos fundos do imóvel -, são suficientes para qualificar o crime de furto, subsumindo-se a conduta ao tipo penal descrito na denúncia.
+Ambos confessaram a escalada, à medida que confirmaram que foi RAY quem saltou o muro para praticar o furto, enquanto [NOME] permaneceu de campana, do lado de fora da residência, recebendo o objeto roubado por cima do portão.
+No mesmo sentido a lição de Cleber Masson, para quem: "E prescindível a imputação da qualificadora a ultrapassarem de um muro ou obstáculo pelo alto, bastando o ingresso ou retirada de forma anormal, que pode concretizar-se pelo uso de instrumentos existentes no local do crime ou para lá levados propositalmente, ou mesmo pela peculiar habilidade física do agente. O obstáculo deve ser contínuo, não oferecendo alternativas à execução do crime sem o recurso à escalada.  prova da escalada pode ser feita por qualquer meio, não reclamando, obrigatoriamente, a elaboração de laudo pericial, uma vez que nem sempre o crime de furto assim praticado deixa vestígios materiais" (Código Penal Comentado, 3ª Ed., Rio de Janeiro: Método, 2015, p. 598).
+Igualmente não prospera a alegação defensiva de que, por se tratar de um muro com l,80m de altura, não se exigiu do apelante qualquer habilidade especial ou esforço extremo para invadir o imóvel.
+Trata-se de altura considerável, que não e facilmente transponível por qualquer pessoa, e que autoriza, sim, a incidência da qualificadora da escalada. Neste sentido já decidiu o Superior Tribunal de Justiça, verbis:
+ ..
+Conclui-se, portanto, que as provas colacionadas aos autos são suficientes para ensejara preservação da qualificadora, máxime porque a prova concreta e inequívoca da materialidade da escalada foi atestada por diversos meios de prova, inclusive pela prova técnica, e ainda, pela confissão dos réus" (fls. 229-231).
+Do excerto acima colacionado, nota-se o v. acórdão ora atacado está em consonância com a jurisprudência deste Tribunal Superior é pacífica no sentido de que o exame de corpo de delito é imprescindível para a caracterização da qualificadora do rompimento de obstáculo, sendo admitido o exame de forma indireta apenas nas hipóteses de não existirem vestígios ou em caso de desaparecimento deles.
+In casu, além da perícia direta, os réus confessaram terem ultrapassado o obstáculo mediante escalada.
+Nesse diapasão, os seguintes precedentes desta Corte Superior:
+"PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. FURTO QUALIFICADO TENTADO. PRINCÍPIO DA INSIGNIFICÂNCIA. BEM SUBTRAÍDO AVALIADO EM R$ 120,00 (CENTO E VINTE REAIS). VALOR SUPERIOR A 10 % (DEZ POR CENTO) DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA DOS FATOS. INAPLICABILIDADE. QUALIFICADORA ROMPIMENTO DE OBSTÁCULO. INFRAÇÃO QUE DEIXA VESTÍGIOS. IMPRESCINDIBILIDADE DE PERÍCIA. EXAME INDIRETO E PROVA TESTEMUNHAL. EXCEPCIONALIDADE NÃO DEMONSTRADA. AUSÊNCIA DE MOTIVAÇÃO. CONSTRANGIMENTO ILEGAL CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+III - Segundo pacífica jurisprudência desta Corte Superior, o exame de corpo de delito direto, por expressa determinação legal, é indispensável nas infrações que deixam vestígios, podendo apenas supletivamente ser suprido pela prova testemunhal quando os vestígios tenham desaparecido. Assim, se era possível a realização da perícia, mas esta não ocorreu, a prova testemunhal e o exame indireto não suprem a sua ausência (precedentes).
+IV - No presente caso, o laudo invocado pelo eg. Tribunal de origem para manter a qualificadora do rompimento de obstáculo foi realizado de forma indireta, não tendo sido apresentada qualquer justificativa para a ausência de elaboração do exame direto, sendo indevida a sua utilização para qualificar o crime.
+Habeas Corpus não conhecido. Contudo, ordem concedido de ofício para afastar a qualificadora do rompimento de obstáculo e reduzir a pena imposta" (HC n. 374.090/RS, Quinta Turma, de minha Relatoria, DJe de 23/3/2017 - grifei).
+"PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO TENTADO. ESCALADA. ROMPIMENTO DE OBSTÁCULO. RECONHECIMENTO. IMPOSSIBILIDADE. AUSÊNCIA DE PROVA PERICIAL. FURTO SIMPLES TENTADO. CONDENAÇÃO. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. No julgamento do REsp n. 1.320.298/MG, a Sexta Turma desta Corte Superior examinou a possibilidade de, em razão das particularidades do caso concreto e em respeito ao sistema de livre apreciação da prova, reconhecer a incidência da qualificadora da escalada nos delitos de furto quando sua ocorrência for incontroversa nas provas colhidas nos autos, a despeito da ausência de laudo pericial que a ateste. Na oportunidade - na qual fiquei vencido -, firmou-se o entendimento de que o exame pericial é imprescindível para a configuração da qualificadora da escalada.
+2. Em relação à qualificadora do rompimento de obstáculo, não é diferente a conclusão das duas Turmas que compõem a Terceira Seção do Superior Tribunal de Justiça. Precedentes.
+3. A Corte de origem não reconheceu a incidência das qualificadoras do rompimento de obstáculo e da escalada em razão da ausência do devido exame pericial para comprovar a sua configuração. Incidência da Súmula n. 83 do STJ.  ..
+5. Agravo regimental não provido" (AgRg no AREsp n. 644.717/PA, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 19/5/2016 - grifei).
+Assim, deve ser mantida a decisão ora agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
