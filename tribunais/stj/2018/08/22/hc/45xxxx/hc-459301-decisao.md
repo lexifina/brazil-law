@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando como autoridade coatora o Tribunal Regional Federal da 1ª Região (Apelação n. 0015627-47.2008.4.01.3800).
+Consta dos autos que o paciente foi condenado, pela prática das condutas descritas nos incisos I e II do art. 1º da Lei n. 8.137/1990, às penas de 2 (dois) anos e 6 (seis) meses de reclusão, no regime aberto, e 53 (cinquenta e três) dias-multa, substituída a sanção corporal por restritivas de direitos.
+Irresignada, a defesa ingressou com recurso, tendo o Tribunal de origem dado parcial provimento ao apelo nos termos da seguinte ementa (e-STJ fl. 11):
+PENAL. PROCESSUAL PENAL. APELAÇÃO CRIMINAL. CRIME TRIBUTÁRIO. LEI N. 8.137/1990, ARTIGO 1º, INCISOS I E II. REGIME TRIBUTÁRIO SIMPLES. DOLO. AUSÊNCIA. BAIXA INSTRUÇÃO. CONTADOR. REITERAÇÃO DA CONDUTA. CONCURSO FORMAL. INEXISTÊNCIA. DOSIMETRIA. REFEITA. RECURSO DE APELAÇÃO DA ACUSAÇÃO NÃO PROVIDO. RECURSO DO RÉU PARCIALMENTE PROVIDO.
+1. O dolo do tipo previsto no artigo 1º, da Lei n. 8.137/1990 é o genérico consistente na vontade livre e consciente do agente de suprimir ou reduzir tributo, mediante omissão de informação ou prestação de declaração falsa.
+2. Na hipótese, a baixa instrução do agente, bem como a falta de tempo para a administração da empresa, não justifica a reiterada discrepância entre o faturamento declarado pelo SIMPLES e o efetivamente emitido nas notas fiscais. Materialidade e Autoria comprovadas.
+3. A circunstância judicial da motivação do crime de escapar do pagamento do tributo devido é inerente ao tipo penal, devendo ser considerada neutra para a fixação da pena base, bem como a experiência profissional para julgar desfavorável a culpabilidade do agente. Circunstâncias e consequências do crime desfavoráveis. Mantido o valor do dia-multa. Dosimetria refeita.
+4. Inexiste concurso formal, mas, sim, crime único, hipótese em que o bem jurídico violado, in casu, não é o Erário de cada ente federado, mas, sim, a Ordem Tributária como um todo, de modo que a criminalização diz respeito à prestação de informação ou declaração falsa ao Fisco.
+5. Incabíveis a aplicação das majorantes previstas nos incisos I e III, do artigo 12, da Lei n.
+8.137/1990.
+5. Recurso de Apelação da Acusação não provido. Recurso da Defesa parcialmente provido.
+No presente writ, sustentam os impetrantes que o paciente está sofrendo constrangimento ilegal decorrente da determinação do Juízo de origem para início do cumprimento das penas restritivas que lhe foram aplicadas, haja vista a não ocorrência do trânsito em julgado da condenação.
+Busca, inclusive liminarmente, seja suspensa a execução provisória das reprimendas alternativas.
+Liminar deferida às e-STJ fls. 43/47.
+Prestadas as informações, o Ministério Público Federal opinou pela denegação da ordem, com a cassação da liminar deferida (e-STJ fls. 62/71).
+É, em síntese, o relatório.
+Pois bem. A nova orientação consolidada pelo Supremo Tribunal Federal é a de possibilitar a execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário (HC n. 126.292/SP, rel. Ministro Teori Zavascki, Tribunal Pleno, DJe 17/5/2016).
+Observe-se que, naquele julgamento, o STF deixou assentado que a execução de sentença penal condenatória confirmada por Tribunal de segundo grau de jurisdição "não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII, da Constituição Federal".
+O referido entendimento estendia-se às penas restritivas de direitos em virtude da compreensão da Sexta Turma desta Corte de que, "embora o Supremo Tribunal Federal, em outra época, quando também admitia a execução provisória, ressalvasse o entendimento de que as penas restritivas de direitos só poderiam começar a ser cumpridas após o trânsito em julgado da condenação, a atual jurisprudência do pretório excelso não faz, ao menos expressamente, essa ressalva" (HC n. 380.104/AM, rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 14/2/2017, DJe 22/2/2017).
+No entanto, recentemente, a Terceira Seção do Superior Tribunal de Justiça, no julgamento do EREsp n. 1.619.087/SC, publicado em 24/8/2017, firmou o entendimento de que a execução das reprimendas restritivas de direitos somente pode ocorrer quando transitada em julgado a condenação, em observância ao comando legal contido no art. 147 da Lei de Execução Penal. Eis a ementa do aludido julgado:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR RESTRITIVAS DE DIREITOS. EXECUÇÃO PROVISÓRIA. IMPOSSIBILIDADE. ART. 147 DA LEI DE EXECUÇÃO PENAL. PROIBIÇÃO EXPRESSA. AUSÊNCIA DE MANIFESTAÇÃO DO STF. EMBARGOS REJEITADOS.
+1. Embora o Supremo Tribunal Federal tenha decidido pela viabilidade da imediata execução da pena imposta ou confirmada pelos tribunais locais após esgotadas as respectivas jurisdições, não analisou tal possibilidade quanto às reprimendas restritivas de direitos.
+2. Considerando a ausência de manifestação expressa da Corte Suprema e o teor do art. 147 da LEP, não se afigura possível a execução da pena restritiva de direitos antes do trânsito em julgado da condenação.
+3. Embargos de divergência rejeitados. (Rel. Ministro Jorge Mussi, julgado em 14/6/2017 e publicado em 24/8/2017, grifei.)
+Na espécie, informações prestadas pelo Tribunal de origem (e-STJ fl. 58) noticiam a interposição de recurso especial contra o acórdão de apelação e, posteriormente, o manejo do respectivo agravo, o que denota a não ocorrência do trânsito em julgado da condenação.
+Sendo assim, mostra-se de rigor seja obstada a execução provisória das penas restritivas de direitos fixadas.
+À vista do exposto, ratifico a liminar e concedo a ordem para assegurar que a execução das reprimendas restritivas de direitos impostas ao paciente apenas ocorra após o trânsito em julgado da condenação.
+Publique-se. Intimem-se.
