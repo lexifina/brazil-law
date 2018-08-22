@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por COSAN S/A INDUSTRIA E COMERCIO contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 268):
+EMBARGOS À EXECUÇÃO. Inadmissibilidade do protocolo perante o Tribunal de Justiça Militar. Expressa vedação, nas Normas da Corregedoria Geral daquele Tribunal, em receber petições deste Egrégio Tribunal de Justiça. Inexistente o protocolo integrado, considera-se a data de protocolo neste Tribunal, sendo intempestivo o recurso. NÃO SE CONHECE DO APELO.
+Embargos de declaração rejeitados (e-STJ fls. 287/290).
+No especial obstaculizado, o ora agravante aponta, além de divergência jurisprudencial, violação do art. 1.003, § 5º, do CPC/2015 e sustenta a tempestividade da apelação.
+Depois de contra-arrazoado (e-STJ fls. 326/330), o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de que: (I) incide a Súmula n. 7 do STJ; (II) a divergência jurisprudencial não foi demonstrada nos moldes legais e regimentais (e-STJ fls. 361/362).
+Na presente irresignação, a agravante alega, em resumo, que o recurso obstado atende aos pressupostos de admissibilidade e que o Tribunal a quo usurpou da competência do STJ. Ao final, reitera os argumentos anteriormente expendidos.
+Decurso do prazo para contraminuta in albis (e-STJ fl. 379).
+Passo a decidir.
+Inicialmente, cumpre destacar que "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Considerado isso, verifico que a irresignação recursal não merece prosperar.
+A jurisprudência desta Corte Superior é firme no sentido de que a decisão do Tribunal de origem de admissibilidade do recurso especial não vincula o Superior Tribunal de Justiça, o qual procederá a um novo juízo de admissibilidade, uma vez que é competência exclusiva desta Casa a análise definitiva de admissibilidade do recurso. Nesse sentido: AgRg no AREsp 570.216/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 05/04/2017.
+Por outro lado, no caso concreto, a instância anterior dirimiu a questão a teor da seguinte motivação (e-STJ fls. 269/270):
+Nota-se que o recorrente incorreu em erro inescusável, realizando o protocolo anterior, em 1º de agosto de 2016, perante o Tribunal de Justiça Militar.
+Entretanto, existe expressa vedação, nas Normas de Serviço da Corregedoria Geral da Justiça Militar, para que aquele tribunal receba, no protocolo integrado, petições de recursos dirigidas ao Tribunal de Justiça Estadual.
+Nesse sentido, é a previsão do Capitulo III, Item 3, alinea "b" das Normas da Corregedoria Geral da Justiça Militar:
+CAPÍTULO III. DO PROTOCOLO INTEGRADO
+3. Não serão recebidos os seguintes tipos de petições:
+b. os recursos interpostos contra as decisões proferidas pelo Tribunal de Justiça;
+Assim, o protocolo perante o Tribunal de Justiça Militar é ato ineficaz, culminando na intempestividade recursal perante este Tribunal de Justiça.
+Nesse sentido, já decidiu este Egrégio Tribunal de Justiça:
+Embargos de declaração - Prazo - Contagem que se inicia a partir da data em que a parte interessada toma ciência do teor da decisão atacada - Protocolo integrado da Justiça Militar que não pode ser utilizado para interposição de recursos perante a Justiça Estadual - Intempestividade Recurso não conhecido. (ED 417.672.4/8-01, 7ª Câmara de Direito Privado, Relator Desembargador Arthur Del Guercio, julgado em 18/10/2006).
+Com efeito, a despeito do recorrente apontar, nas razões de seu apelo especial, a violação de dispositivo de lei federal - art. 1.003, § 5º, do CPC/2015 -, observa-se que a tutela jurisdicional foi prestada pelo acórdão recorrido com fundamento nas Normas de Serviço da Corregedoria Geral da Justiça Militar. Contudo, tais atos normativos não se enquadram no conceito de tratado ou lei federal de que cuida o art. 105, III, a, da Constituição Federal de 1988. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. OMISSÃO. INEXISTÊNCIA. ANÁLISE DE OFENSA A DISPOSITIVO CONSTITUCIONAL. INVIABILIDADE. INÉPCIA DA INICIAL AFASTADA. RESPONSABILIDADE CIVIL DO ESTADO. ATO OMISSIVO DA ADMINISTRAÇÃO. CONDENAÇÃO EM DANOS MATERIAIS. CABIMENTO. VIOLAÇÃO A DISPOSITIVO DE LEI ESTADUAL. IMPROPRIEDADE. NÃO-CONHECIMENTO. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. PRESCRIÇÃO QÜINQÜENAL. ART. 1º DO DECRETO 20.910/32. MENOR IMPÚBERE. INAPLICABILIDADE. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL VIOLADO. SÚMULA 284/STF.
+ ..
+5. O Recurso Especial destina-se à análise de contrariedade, negativa de vigência ou violação a tratado ou lei federal. Assim, constata-se a impropriedade de alegação de ofensa a dispositivo do Código de Normas da Corregedoria Geral do Estado do Espírito Santo.
+ ..
+9. Recurso Especial parcialmente conhecido e, nessa parte, não provido. (REsp 1.191.462/ES, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/08/2010, DJe 14/09/2010).
+PROCESSUAL CIVIL. AFRONTA ÀS NORMAS DA CORREGEDORIA-GERAL DA JUSTIÇA LOCAL. EXCLUSÃO DO CONCEITO DE LEI FEDERAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. EXECUÇÃO. TÍTULO EXECUTIVO. PRESCRIÇÃO. TERMO INICIAL. TRÂNSITO EM JULGADO DA AÇÃO DE CONHECIMENTO. SÚMULA 150/STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA. DIVERGÊNCIA INEXISTENTE. SÚMULA 83/STJ. CONTRARIEDADE A DISPOSITIVOS CONSTITUCIONAIS. INCOMPETÊNCIA DO STJ.
+ ..
+Agravo interno improvido.
+(AgInt nos EDcl no REsp 1.527.675/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 14/06/2016, DJe 28/06/2016). (grifos acrescidos).
+Por fim, mostra-se também inviável a apreciação de recurso especial fundado em divergência jurisprudencial (alínea "c" do permissivo constitucional) quando o recorrente não demonstra o alegado dissídio por meio: a) da juntada de certidão ou de cópia autenticada do acórdão paradigma ou, em sua falta, da declaração pelo advogado da autenticidade dessas; b) da citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado/ c) do cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, com a exposição das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a transcrição das ementas dos julgados em comparação. Nesse sentido: AgRg no REsp 1.558.877/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 05/02/2016; AgRg no AREsp 752.892/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 04/11/2015.
+No presente caso, a parte recorrente deixou de realizar o cotejo analítico, não atendendo, portanto, aos pressupostos específicos à configuração do dissenso jurisprudencial, preconizados pelo art. 541, parágrafo único, do Código de Processo Civil e pelo art. 255, §§ 1º e 2º, do RISTJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários recursais em 10% sobre o valor já fixado na origem, respeitados os limites e os critérios previstos nos § § 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
