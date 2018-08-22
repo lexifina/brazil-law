@@ -1,0 +1,62 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. REDE CREDENCIADA. SITUAÇÃO DE EMERGÊNCIA NÃO CONFIGURADA. INEXISTÊNCIA DE HIPÓTESE DE EXCEPCIONALIDADE. REEMBOLSO DAS DESPESAS. NÃO CABIMENTO. REVOLVIMENTO DE ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. FIXADOS EM PATAMAR RAZOÁVEL.
+1. O Tribunal a quo concluiu que não se tratou de situação de urgência ou emergência ou outra situação extraordinária que justifique a realização do tratamento por profissionais fora da rede referenciada.
+2. Segundo o Tribunal de origem, os recorrentes não fazem jus ao reembolso pleiteado, pois não se pode permitir que o usuário busque atendimento em estabelecimento de sua livre escolha, não tendo sido constatada insuficiência técnica da rede credenciada e nem situação de urgência. A alteração do entendimento demandaria a análise do acervo fático-probatório dos autos, providência vedada pela Súmula 7/STJ.
+3. Constatado que os honorários advocatícios foram fixados em patamar razoável, não sendo irrisórios nem exorbitantes, não compete a esta Corte Superior, em recurso especial, promover a revisão pretendida, ante a incidência da Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (Relator) :
+Trata-se de agravo interno interposto pelo ESPÓLIO DE LAÉRCIO DUARTE DE AZEVEDO e OUTRAS contra decisão desta Relatoria, que negou provimento a recurso especial, sob o fundamento de que incide a Súmula 7/STJ.
+Em suas razões recursais, os agravantes afirmam que não se aplica a Súmula 7/STJ, tendo em vista não ser necessário o reexame de provas para verificação da índole abusiva de cláusulas de contratos de consumo. Acrescentam que, ante a urgência/emergência apresentada no caso em voga, somada à ausência de estrutura técnica na cidade de origem, há a possibilidade de os beneficiários utilizarem-se de hospitais não credenciados às custas da agravada. Alegam, ainda, excesso na fixação dos honorários advocatícios.
+Ao final, requerem a reconsideração da decisão agravada ou sua reforma pela Turma Julgadora.
+Decorrido o prazo legal sem apresentação de impugnação.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (Relator):
+Em que pesem as alegações trazidas no agravo interno, a irresignação não merece prosperar.
+O Tribunal de origem concluiu que não foi demonstrada a insuficiência técnica da rede credenciada da CASSI Brasília, a justificar a transferência do beneficiário para hospital não credenciado, na cidade de São Paulo, de modo a ensejar o reembolso pretendido, nos seguintes termos:
+"Entretanto, não há relatório médico ou qualquer outra prova de que, dada a singularidade do quadro, o único estabelecimento hospitalar apto a tratar o estado de saúde do paciente seria o Hospital Sírio-Libanês em São Paulo.
+Em verdade, a esposa e a filha do paciente optaram livremente por transferi-lo para o mencionado Hospital, por acreditarem ser o melhor estabelecimento para cuidar do familiar.
+O segurado tem direito ao reembolso em casos de urgência ou emergência e quando não for possível a utilização da rede credenciada do plano de saúde. Por conseguinte, nos autos não está caracterizada a situação que justifique o reembolso das despesas médicas, pois não há prova da impossibilidade de se utilizar serviços próprios, contratados, credenciados ou referenciados pela operadora do plano de saúde.
+As regras de reembolso trazidas no contrato não ofendem aos princípios estabelecidos no Código de Defesa do Consumidor.
+Não se trata de espécie de cláusula abusiva, prevista no artigo 51 do referido Código, ao contrário, está em conformidade com a Lei nº 9.656/98 específica do setor.
+Ademais, não se pode admitir que o usuário do plano de saúde, indiscriminadamente, busque atendimento em estabelecimento da sua livre escolha e, logo após, peça o reembolso integral à seguradora. Se assim fosse, não haveria como manter o equilíbrio financeiro dos planos de saúde, o que refletiria, de sobremaneira, nas mensalidades pagas pelos usuários. (..)
+Por conseguinte, está demonstrado que a parte autora não faz jus ao reembolso integral das despesas hospitalares.
+De fato, conquanto tenha sido constatada a falha na prestação de serviço médico, não ficou demonstrada a insuficiência técnica da rede credenciada da CASSI em Brasília. (e-STJ, 2.538/2.539)
+Nesse contexto, a modificação de tal entendimento, lançado no v. acórdão recorrido, para concluir pela insuficiência da rede credenciada quanto ao tratamento do beneficiário, demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. A propósito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. 1. ALEGAÇÃO DE CONTRADIÇÃO/OBSCURIDADE. NÃO OCORRÊNCIA. 2. TRATAMENTO EM SITUAÇÃO DE EMERGÊNCIA E URGÊNCIA. DEVER LEGAL DE REEMBOLSO, LIMITADO, NO MÍNIMO, AOS PREÇOS DO PRODUTO CONTRATADO À ÉPOCA DO EVENTO. DEVER LEGAL. INTELIGÊNCIA DO ART. 12, VI, DA LEI N. 9.656/98. HOSPITAL DE ALTO CUSTO. IRRELEVÂNCIA. 3. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. A contradição que tem o condão de acoimar o julgado de nulidade é a interna, em que se constata uma inadequação lógica entre a fundamentação posta e a conclusão adotada.
+2. Sem encerrar o apontado vício de julgamento, o aresto embargado, com lastro na lei de regência e nos termos expressamente pactuados pelas partes, reconheceu que nos casos de urgência e emergência, em que não se afigurar possível a utilização dos serviços médicos, próprios, credenciados ou conveniados tal como ora sustentam os embargantes , a empresa de plano de saúde, mediante reembolso, responsabiliza-se pelos custos e despesas médicas expendidos pelo contratante em tais condições, limitada, no mínimo, aos preços de serviços médicos e hospitalares praticados pelo respectivo produto.
+3. Conforme consignado no julgado impugnado, a vinculação do usuário à rede credenciada do plano de saúde contratado é absolutamente consentânea a esta espécie contratual, cuja contraprestação a ela é proporcional, a respeitar o sinalagma do ajuste sob comento. Com o mesmo norte, nos casos em que não se afigurar possível a utilização dos serviços credenciados, como é o caso das situações emergenciais, a Lei n. 9.656/98, em seu art. 12, VI, limita o reembolso aos preços e tabelas efetivamente contratados com o Plano de Saúde.
+4. Embargos de declaração rejeitados.
+(EDcl no REsp 1.286.133/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/08/2016, DJe de 22/08/2016)
+No que tange à alegação de existência de situação de urgência/emergência, o Tribunal de origem assim se manifestou:
+"Sem respaldo, também, as alegações da existência de situação de urgência, a qual é sempre definida por declaração de profissional da área médica.
+Ao contrário do que defendem as postulantes, não há reconhecimento de situação de urgência pela r. sentença.
+De outro lado, sem melhor sorte a parte autora, pois diante da ausência de reconhecimento da necessidade de transferência do paciente para o Hospital Sírio -Libanês de São Paulo, razão possui a ré nó pedido para desobrigá-la ao pagamento das despesas aeromédicas.
+Não demonstrada a imprescindibilidade da remoção por meio de UTI na modalidade aérea por falta de justificativa médica, albergo a tese da ré, retirando-lhe a condenação de custeio imposta na r. sentença." (e- STJ, fl. 2.540)
+Desse modo, chegar a conclusão diversa exigiria o reexame de provas e das circunstâncias fáticas delineadas nas instâncias ordinárias, o que se mostra inviável na via especial, a teor da Súmula 7/STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. OPÇÃO POR EQUIPE MULTIDISCIPLINAR NÃO CREDENCIADA À OPERADORA DE SAÚDE. INEXISTÊNCIA DE HIPÓTESE DE EXCEPCIONALIDADE. REEMBOLSO DAS DESPESAS. NÃO CABIMENTO. REVOLVIMENTO DE ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBLIDADE. SÚMULAS 5 E 7/STJ. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte entende que o reembolso das despesas efetuadas pelo tratamento médico realizado com profissional não credenciado é admitido apenas em casos especiais (inexistência de estabelecimento credenciado no local, recusa do hospital conveniado em receber o paciente, urgência da internação).
+2. No caso, o Tribunal de origem, mediante análise do contexto fático-probatório dos autos, concluiu que inexiste obscuridade na cláusula limitativa de reembolso para atendimento fora da rede credenciada e que não se tratou de situação de urgência ou emergência, de interrupção de atendimento ou outra situação extraordinária que justifique a realização do tratamento por profissionais fora da rede referenciada.
+3. Nessas circunstâncias, a reversão do julgado afigura-se inviável para esta eg. Corte de Justiça, tendo em vista a necessidade de interpretação de cláusulas contratuais e reexame do contexto fático-probatório dos autos, providência, todavia, incabível, a atrair a incidência das Súmulas 5 e 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp 899.650/CE, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 06/04/2017, DJe 27/04/2017)
+Por fim, no que tange aos honorários advocatícios, esta Corte tem entendimento consolidado de que os valores arbitrados pelas instâncias ordinárias somente podem ser revistos quando se mostrarem exorbitantes ou ínfimos, em clara afronta aos princípios da razoabilidade e da proporcionalidade, o que não ocorre na hipótese em exame. A propósito:
+"AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE AUTORA.
+1. O recurso especial é de fundamentação vinculada, no qual o efeito devolutivo se opera tão-somente nos termos do que foi impugnado. Assim, quanto à tese de nulidade do acórdão recorrido, a ausência de indicação expressa do dispositivo legal tido por vulnerado não permite verificar se a legislação federal infraconstitucional restou, ou não, malferida, atraindo o óbice da Súmula 284/STF.
+2. A revisão do valor arbitrado a título de honorários advocatícios só é possível em recurso especial quando o "quantum" fixado nas instâncias locais for exorbitante ou ínfimo, de modo a afrontar os princípios da razoabilidade e da proporcionalidade. Ausentes tais hipóteses e tendo o Tribunal estadual formulado juízo dos critérios estabelecidos em lei para o arbitramento dos honorários advocatícios, como no caso, incide a Súmula 7/STJ, a impedir o conhecimento do recurso.
+3. Agravo interno desprovido."
+(AgInt no AREsp 977.405/BA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/02/2018, DJe de 27/02/2018)
+"DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA 284/STF. JULGAMENTO EXTRA PETITA. INEXISTÊNCIA. HONORÁRIOS ADVOCATÍCIOS. ARBITRAMENTO POR EQUIDADE. REVISÃO. REEXAME DE FATOS E PROVAS.
+1. A ausência de indicação do dispositivo considerado violado atrai, por analogia, a incidência da Súmula 284 do STF. Precedentes.
+2. Conforme entendimento consolidado neste Tribunal, não configura julgamento ultra petita ou extra petita o provimento jurisdicional exarado nos limites do pedido, o qual deve ser interpretado lógica e sistematicamente a partir de toda a petição inicial, e não apenas de sua parte final, tampouco quando o julgador aplica o direito ao caso concreto sob fundamentos diversos aos apresentados pela parte.
+Precedentes.
+3. Constatado que os honorários de sucumbência foram fixados em patamar razoável, não sendo irrisórios nem exorbitantes, não compete a esta Corte Superior, em recurso especial, promover a revisão pretendida, ante a incidência da Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento."
+(AgInt no REsp 1.452.930/GO, de minha relatoria, QUARTA TURMA, julgado em 06/02/2018, DJe de 09/02/2018)
+Nessa linha, a parte agravante não deduz argumentação nova capaz de modificar a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
