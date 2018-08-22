@@ -1,0 +1,26 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. APLICABILIDADE DO CPC/1973. VIOLAÇÃO AO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. AUTARQUIA PREVIDENCIÁRIA. PORTE E REMESSA. RECOLHIMENTO PRÉVIO. DESNECESSIDADE. DESERÇÃO. INOCORRÊNCIA. SENTENÇA ILÍQUIDA. REEXAME NECESSÁRIO OBRIGATÓRIO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJSP, assim ementado (fl. 145):
+ACIDENTE DO TRABALHO - PRATICO - AUXÍLIO - ACIDENTE DIVERSOS MALES - INCAPACIDADE DE TRABALHO CONSTATADA - BENEFÍCIO DEVIDO - REEXAME NECESSÁRIO NÃO CONHECIDO - LIMITE DE 60 SALÁRIOS MÍNIMOS NÃO SUPERADO - RECURSO VOLUNTÁRIO DA AUTARQUIA - PORTE DE REMESSA E DE RETORNO DOS AUTOS - RECOLHIMENTO NÃO COMPROVADO - NÃO CONHECIMENTO - JUROS DE MORA - I% A PARTIR DA VIGÊNCIA DO CÓDIGO CIVIL DE 2002.
+Reexame necessário e recurso voluntário da autarquia não conhecidos.
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigo 535, I e II, do CPC/1973, ao argumento de que a Corte de origem não se manifestou a respeito da seguinte questão: (a) isenção do pagamento de porte de remessa e retorno pelo INSS e, subsidiariamente, possibilidade de pagamento ao final, invocando as normas dos artigos 27 e 511, ambos do Código de Processo Civil.
+Quanto ao mérito, alega ofensa aos artigos 475 e 27 do CPC, para reconhecer a necessidade do Reexame Oficial e para possibilitar o pagamento do porte de remessa e retorno somente ao final, com conseqüente conhecimento da Apelação da Autarquia.
+Com contrarrazões às fls. 239-241.
+Juízo positivo de admissibilidade às fls. 192-194.
+É o relatório. Passo a decidir.
+Registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Afasta-se a alegada violação do artigo 535 do CPC/1973, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No mais, com razão o recorrente.
+A Corte Especial do Superior Tribunal de Justiça, ao julgar o REsp 1.101.727/PR, Min. Hamilton Carvalhido, DJe 23/8/2010, sob o regime do art. 543-C do CPC/1973, assentou entendimento no sentido de que a regra do art. 27 do CPC é aplicável ao Instituto Nacional do Seguro Social - INSS -, não lhe sendo exigível, dessa forma, o depósito prévio do preparo para a interposição de recursos, podendo efetuá-lo ao final da demanda, caso vencido. Eis a ementa do citado precedente:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. DIREITO PROCESSUAL CIVIL. AUTARQUIA PREVIDENCIÁRIA. PREPARO. RECOLHIMENTO PRÉVIO. DESNECESSIDADE. DESERÇÃO. INOCORRÊNCIA.
+1. Sendo o Instituto Nacional do Seguro Social - INSS autarquia federal equiparada em prerrogativas e privilégios à Fazenda Pública, nos termos do artigo 8º da Lei nº 8.620/93, não lhe é exigível o depósito prévio do preparo para fins de interposição de recurso, podendo efetuá-lo ao final da demanda, se vencido (Código de Processo Civil, artigo 27).
+2. Recurso especial provido. Acórdão sujeito ao procedimento do artigo 543-C do Código de Processo Civil (REsp 1.101.727/PR, Rel. Ministro Hamilton Carvalhido, Corte Especial, DJe 23/8/2010).
+Além disso, também firmado entendimento no sentido da obrigatoriedade da apreciação da remessa necessária de sentenças ilíquidas proferidas contra a Fazenda Pública. O referido entendimento foi consolidado no julgamento do REsp. 1.101.727/PR, de relatoria do Ministro Hamilton Carvalhido, submetido ao procedimento do artigo 543-C do CPC. Confira-se a ementa do referido julgado:
+RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. REEXAME NECESSÁRIO. SENTENÇA ILÍQUIDA. CABIMENTO.
+1. É obrigatório o reexame da sentença ilíquida proferida contra a União, os Estados, o Distrito Federal, os Municípios e as respectivas autarquias e fundações de direito público (Código de Processo Civil, artigo 475, parágrafo 2º).
+2. Recurso especial provido. Acórdão sujeito ao procedimento do artigo 543-C do Código de Processo Civil. (REsp 1101727/PR, Rel. Min. Hamilton Carvalhido, Corte Especial, DJe 03/12/2009)
+No mesmo sentindo, confiram-se mais precedentes: EREsp 1038737/PR, Rel. Min. João Otávio de Noronha, Corte Especial, DJe 24/06/2011; REsp 1271992/PR, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 21/09/2011; AgRg no Ag 1254476/SP, Rel. Min. LauritaVaz, Quinta Turma, DJe 24/05/2010; REsp 1172903/PR, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 03/05/2010)
+Ante o exposto, conheço parcialmente do recurso especial e, nessa, extensão, dou-lhe provimento, para determinar o retorno dos autos à origem para a apreciação da remessa necessária e para afastar a deserção, prosseguindo-se no julgamento do recurso voluntário interposto pelo INSS.
+Publique-se. Intimem-se.
