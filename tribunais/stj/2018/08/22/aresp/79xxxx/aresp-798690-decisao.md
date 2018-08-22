@@ -1,0 +1,30 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/73). ALEGAÇÕES GENÉRICAS E MERA REITERAÇÃO DE TESE DO RECURSO ESPECIAL INADMITIDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL LOCAL. ART. 544, § 4º, I, CPC/73. AGRAVO NÃO CONHECIDO.
+DECISÃO
+Vistos, etc.
+Trata-se de agravo manejado por PROFUTUR MATRIZES LTDA - ME contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul que deixou de admitir o recurso especial com base nos seguintes fundamentos (e-STJ fl. 293/300): (i) aplicam-se à espécie as teses firmadas nos Recursos Especiais Repetitivos n. 1.061.530/RS, 973.827/RS, 1.058.114/RS e 1.063 343/RS; e (ii) a pretensão recursal encontra óbice nas Súmulas 05, 07 e 83 deste Superior Tribunal de Justiça, bem como 284 do Supremo Tribunal Federal.
+Não obstante, as razões do agravo em recurso especial alegam, em síntese, que: (i) " ..  o recurso preencheu todos os requisitos para ser admitido. O que ocorreu de fato é que o julgador adentrou na questão de fundo, extravasando sua competência ao analisar a ofensa a legislação federal e dissídio jurisprudencial" (e-STJ fl. 306); (ii) "o que se busca não é a interpretação de cláusula contratual. Igualmente o recorrente afirmou em seu recurso que não almeja, por outra, atacar questão fático probatória" (e-STJ fl. 308); e (iii) "a taxa muito acima de 12%, como é o caso, acarreta na abusividade e na necessidade de redução. Além de que a taxa cobrada, sendo superior à taxa média de mercado" (e-STJ fl. 308), o que viola disposições contidas no Código de Defesa do Consumidor.
+Resposta ao agravo em recurso especial às e-STJ fls. 314/318.
+A Presidência deste STJ determinou a devolução dos autos à origem para que o Tribunal local observasse a sistemática prevista nos artigos 1.040 e 1.041 do Código de Processo Civil/2015 (e-STJ fls. 326/327).
+Tendo em vista que, no juízo de admissibilidade do recurso especial, a Vice-Presidência do TJRS já havia observado as teses firmadas por este STJ nos Recursos Especiais Repetitivos n. 973.827/RS (Temas 246 e 247) e 1.058.114/RS (Tema 52), o Desembargador-Relator determinou novo encaminhamento dos autos a esta Corte Superior (e-STJ fls. 351/353).
+Recebidos os autos neste Tribunal, a Presidência determinou a distribuição do agravo em recurso especial (e-STJ fl. 362).
+Os autos vieram me conclusos para relatoria.
+É o relatório.
+Passo a decidir.
+Inicialmente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/1973 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça. (cf. Enunciado Administrativo n. 2/STJ).
+Ato contínuo, o presente recurso não merece ser conhecido, diante da previsão contida no art. 544, § 4º, inciso I, do CPC/73.
+Com efeito, na presente hipótese concreta, a parte agravante esquivou-se do ônus que lhe competia, qual seja, a impugnação específica e efetiva dos impeditivos apontados pela decisão de admissibilidade do Tribunal a quo.
+De fato, a parte limitou-se a: (i) apontar, de forma genérica, que o recurso preencheu todos os requisitos, bem como que não buscou a interpretação de cláusula contratual e o reexame fático-probatório; e (ii) repisar a tese de malferimento de dispositivos do Código de Defesa do Consumidor.
+Destarte, as razões genéricas e a mera reiteração de tese do recurso especial inadmitido não são aptas a infirmar a decisão aqui agravada. As razões apresentadas no agravo em recurso especial demonstram clara violação ao princípio da dialeticidade. A propósito:
+"AGRAVO REGIMENTAL. AGRAVO CONTRA DECISÃO QUE, NA ORIGEM, NÃO ADMITIU RECURSO ESPECIAL. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182 DESTE SUPERIOR TRIBUNAL DE JUSTIÇA.
+1.- Cumpre à parte, nas razões do agravo, impugnar todos os fundamentos suficiente da decisão que, na origem, não admite o recurso especial. Além disso, é preciso que tal impugnação seja efetiva, exigindo-se da parte que demonstre a impertinência dos motivos nos quais fundada a decisão agravada.
+2.- A agravante, quando da interposição do Agravo, não cuidou de impugnar a decisão agravada em toda a sua extensão, mormente quanto à afirmação de incidência das Súmulas 5, 7 e 13/STJ.
+3.- Agravo Regimental improvido" (AgRg no AREsp 79.569/SP, Rel. Ministro SIDNEI BENETI, Terceira Turma, DJe 01/02/2012)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM QUE NÃO ADMITIU O RECURSO ESPECIAL. APLICAÇÃO DO ART. 544, § 4º, I, DO CPC.PRINCÍPIO DA DIALETICIDADE, QUE IMPÕE O ATAQUE ESPECÍFICO AOS FUNDAMENTOS. INSUFICIÊNCIA DE ALEGAÇÃO GENÉRICA. PRECEDENTES. MANUTENÇÃO DA DECISÃO ORA AGRAVADA.
+1. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 544, § 4º, inc. I, do CPC, ônus da qual não se desincumbiu a parte insurgente.
+2. À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao reclamo, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado. Precedentes.
+3. Embargos de declaração recebidos como agravo regimental ao qual se nega provimento." (EDcl no AREsp 347.137/MG, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 17/12/2013, DJe 03/02/2014, grifei)
+Assim, a falta de ataque específico à decisão agravada acarreta o não conhecimento do recurso, a teor do que dispõe o art. 544, § 4º, inciso I, do CPC/73.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, não conheço do agravo em recurso especial.
+Intimem-se.
