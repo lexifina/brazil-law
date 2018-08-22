@@ -1,0 +1,49 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (CPC/2015). AGRAVO DE INSTRUMENTO. BENEFÍCIO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA. PESSOA JURÍDICA EM REGIME DE LIQUIDAÇÃO EXTRAJUDICIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. ORIENTAÇÃO PRETORIANA SEDIMENTADA. SÚMULA 83/STJ. AGRAVO CONHECIDO PARA, DESDE LOGO, CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por NOBRE SEGURADORA DO BRASIL S.A - EM LIQUIDACAO contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (e-STJ Fl. 354):
+AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO. GRATUIDADE JUDICIÁRIA. INDEFERIMENTO.
+A gratuidade judiciária deve ser concedida aos realmente necessitados, a fim de evitar a banalização deste instituto, que tem por objetivo proporcionar o acesso à Justiça àqueles que comprovadamente não possuem condições de arcar com as despesas processuais. No caso concreto, os documentos acostados não demonstram que a parte faz jus ao benefício pleiteado, nos termos dos arts. 98 e 99 do CPC/2015.
+Agravo de instrumento desprovido.
+Opostos embargos de declaração, foram rejeitados (e-STJ Fls. 378/382).
+Nas razões de seu recurso especial, sustenta a parte agravante a vulneração aos arts. 98, 99, § 2º, e 1.022, II, do CPC/2015. A par da negativa de prestação jurisdicional acerca dos documentos acostados aos autos, aponta a necessidade de concessão do benefício de assistência judiciária gratuita na hipótese, porquanto decretada a sua liquidação extrajudicial. Assevera a comprovação da sua situação de miserabilidade e aduz a impossibilidade de indeferimento do pedido de plano, havendo necessidade de intimação para apresentação de eventuais documentos.
+É o relatório.
+Passo a decidir.
+A irresignação não merece prosperar.
+Inicialmente, verifico que não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia. O Tribunal de origem, no caso, julgou com fundamentação suficiente a matéria devolvida à sua apreciação.
+Com efeito, ao afastar o pleito de concessão da gratuidade da justiça à pessoa jurídica e, bem assim, ao apreciar os documentos acostados aos autos, o TJ/RS assim se manifestou (e-STJ Fls. 356/357 e 380/381):
+Logo, para pessoas jurídicas, é imprescindível a efetiva comprovação de necessidade para a obtenção do benefício, o que, de fato, não se verifica no caso concreto. Isso porque, analisando os autos, verifica-se que não foi devidamente comprovada a hipossuficiência alegada pela empresa agravante, uma vez que movimenta quantias bastante elevadas, na esfera dos milhões de reais.
+Destarte, da análise do balanço patrimonial acostado, depreende-se que o capital social da empresa está avaliado em aproximadamente R$ 55 milhões, que possui patrimônio líquido de aproximadamente R$ 51 milhões e que detém um ativo circulante disponível de cerca de R$ 531 milhões (fls. 260/261).
+Ainda, em que pese a alegação da requerente de estar respondendo a outras doze mil ações judiciais, isso não simboliza, tampouco, fator suficiente para evidenciar ausência de recursos financeiros, pois a possibilidade de arcar com as custas e honorários advocatícios independe da quantidade dessas ações, mas, isto sim, do ônus que, de fato, esses encargos representam à agravante.
+Ademais, quanto à alegação de estar em situação de liquidação judicial, muito bem referiu a magistrada a quo quando relatou que o fato de ter sido declarada liquidação extrajudicial, por si só, não enseja a concessão do benefício.
+(..)
+Por fim, impende destacar que a intimação que oportuniza a parte juntar documentos hábeis a comprovar seu alegado estado de hipossuficiência é de arbítrio do juízo, conforme avalie como insuficientes os documentos já presentes. Nesse sentido, o baixo valor da causa aliado aos elementos probatórios expostos afasta qualquer suposição de necessidade.
+(..)
+Este órgão fracionário entendeu que a mera decretação de liquidação extrajudicial da seguradora não caracteriza, necessariamente, insolvência e/ou impossibilidade de arcar com as custas processuais.
+Quanto ao referido artigo 99 do CPC/2015, preconiza o inciso II que antes de indeferir o pedido da gratuidade, deverá a parte ser devidamente intimada a juntar documentos que comprovem a alegada hipossuficiência. Entretanto, o indeferimento da benesse pleiteada deu-se justamente pela análise dos documentos acostados aos autos (fls.160 e 161), os quais demonstram a existência de valores significativamente elevados, afastando qualquer presunção de hipossuficiência financeira.
+Portanto, uma vez acostados documentos hábeis à análise da capacidade financeira da agravante em arcar com as custas do processo, impõe-se a rejeição dos aclaratórios.
+Ademais, este Colegiado tem posicionamento firme no sentido do indeferimento da gratuidade à embargante:
+(..)
+(grifos nossos)
+Veja-se que o Tribunal de origem foi expresso ao analisar toda a documentação posta em juízo e, ainda, ao referir a desnecessidade de complementação, em virtude da sua suficiência para fins de afastar o pleito de concessão do benefício da assistência judiciária gratuita. Logo, não há se falar em omissão no julgado.
+Nesse mesmo passo, elidir as conclusões do aresto impugnado quanto à suficiência dos documentos acostados e à comprovação da miserabilidade para a concessão da gratuidade da justiça na hipótese demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 07/STJ.
+Saliente-se que tal posicionamento está em consonância com a jurisprudência desta Corte no sentido de que, sendo o magistrado o destinatário da prova, cabe a ele decidir sobre o necessário à formação do próprio convencimento. Nesse sentido: REsp 740577/RS, 3ª Turma, Rel. Min. Sidnei Beneti, DJ 18/12/09 e REsp 469557/MT, 4ª Turma, Rel. Min. Luis Felipe Salomão, DJ 24/05/10.
+Ademais, não obstante a alegação da agravante, é de se frisar que o entendimento da origem encontra-se em harmonia com a jurisprudência desta Corte (Súmula 83/STJ), de sorte que a concessão da gratuidade da justiça à pessoa jurídica em regime de liquidação extrajudicial não prescinde da demonstração da falta de meios para custeio do processo.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA DO RELATOR. POSSIBILIDADE. VIOLAÇÃO DO ART. 489 DO CPC/2015. INEXISTÊNCIA. INSTITUIÇÃO FINANCEIRA EM REGIME DE LIQUIDAÇÃO EXTRAJUDICIAL. PEDIDO DE GRATUIDADE DA JUSTIÇA. DEMONSTRAÇÃO DA FALTA DE MEIOS PARA CUSTEIO DO PROCESSO. SÚMULAS N. 7 E 83 DO STJ. DECISÃO MANTIDA.
+1. Consoante previsto nos arts. 34, VII, e 253, parágrafo único, II, alínea "a", do RISTJ, o relator poderá "conhecer do agravo para não conhecer do recurso especial inadmissível".
+2. Inexiste afronta ao art. 489 do CPC/2015 quando o julgador pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo e identificando os seus fundamentos.
+3. "A jurisprudência desta Corte é firme no sentido de que o fato de haver a decretação da liquidação extrajudicial ou falência, não remete, por si só, ao reconhecimento da necessidade para fins de concessão da assistência judiciária gratuita à pessoa jurídica" (AgInt no AREsp n. 1.140.206/RS, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/2/2018, DJe 8/3/2018.)
+4. No caso, o Tribunal de origem, analisando os fatos e as provas dos autos, entendeu que o recorrente não comprovou sua incapacidade de custear as despesas processuais. Rever essa conclusão demandaria reexame do conjunto fático-probatório dos autos, o que não se admite no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+5. Agravo interno a que se nega provimento. (AgInt no AREsp 1048562/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/04/2018, DJe 30/04/2018) - g.n.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PESSOA JURÍDICA. LIQUIDAÇÃO EXTRAJUDICIAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. HIPOSSUFICIÊNCIA. COMPROVAÇÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, não subsiste a alegada ofensa ao art. 1.022 do CPC/2015, pois o tribunal de origem enfrentou as questões postas, não havendo no aresto recorrido omissão, contradição ou obscuridade.
+3. A jurisprudência desta Corte é firme no sentido de que o fato de haver a decretação da liquidação extrajudicial ou falência, não remete, por si só, ao reconhecimento da necessidade para fins de concessão da assistência judiciária gratuita à pessoa jurídica.
+4. É inadmissível, na estreita via do recurso especial, a alteração das conclusões das instâncias de cognição plena que demandem o reexame do acervo fático-probatório dos autos, a teor da Súmula nº 7/STJ.
+5. Agravo interno não provido. (AgInt no AREsp 1140206/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/02/2018, DJe 08/03/2018) - g.n.
+Destarte, inviável a pretensão da recorrente.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, conheço do agravo para, desde logo, conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Intimem-se.
