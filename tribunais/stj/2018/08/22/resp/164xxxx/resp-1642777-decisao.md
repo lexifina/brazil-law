@@ -1,0 +1,35 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. DHL LOGISTICS (BRAZIL) LTDA. E [NOME]. AÇÃO DE REGRESSO. DESEMBARQUE E TRANSPORTE DE MERCADORIA EM PORTO. AVARIA. INDENIZAÇÃO. PAGAMENTO PELA SEGURADORA. SUB-ROGAÇÃO. VIOLAÇÃO DO ART. 535 DO CPC/73. OMISSÃO QUANTO À ANÁLISE DE TEMA RELEVANTE PARA A LIDE. RETORNO DOS AUTOS PARA JULGAMENTO DOS ACLARATÓRIOS. RECURSO ESPECIAL CONHECIDO E PROVIDO
+DECISÃO
+SUL AMÉRICA COMPANHIA NACIONAL DE SEGUROS (SEGURADORA) promoveu contra DHL LOGISTICS (BRAZIL) LTDA. e outra (DHL e outra), LOCALFRIO S.A. ARMAZÉNS GERAIS FRIGORÍFICOS (LOCALFRIO) e THIRO TRANSPORTES EIRELI (THIRO) ação regressiva de ressarcimento de danos devido à perda parcial de mercadoria durante transporte internacional.
+Em primeiro grau, a ação foi julgada improcedente (e-STJ, fls. 485/486).
+A SEGURADORA apelou afirmando que com fundamento no direito de regresso decorrente da sub-rogação dos direitos da empresa FIRMENICH, alegando que o prazo decadencial de 10 dias não se aplica ao caso, pois este apenas é devido em caso de pretensão de natureza constitutiva.
+O Tribunal de origem deu provimento parcial provimento ao recurso em acórdão, assim ementado:
+AÇÃO REGRESSIVA PROPOSTA PELA SEGURADORA CONTRA TRANSPORTADORAS - TRANSPORTE MULTIMODAL - COMPRA DE PRODUTOS QUÍMICOS - PRAZO DECADENCIAL PREVISTO NO ART. 754 DO CÓDIGO CIVIL - No contrato de transporte, o prazo decadencial de 10 dias previsto no art. 754, parágrafo único, do Código Civil, refere-se à reclamação pela perda parcial ou avaria da carga, isto é, à denúncia do evento danoso na relação contratual entre a em presa contratante e a transportadora contratada. Este prazo (decadencial) não se confunde nem interfere no direito à indenização pelos prejuízos causados.
+Seguradora que, ao pagar a indenização à em presa segurada, sub-roga-se nos direitos desta contra as transportadoras (art. 786, CC) - lnstituto da decadência que não se confunde com o da prescrição - Afastamento da decadência e julgamento do mérito da causa (art. 515, § 3º, CPC) - Conjunto probatório que demonstra que as avarias se deram por conta da atividade das transportadoras e armazém - Responsabilidade objetiva e solidária - Ação procedente em parte - Recurso provido em parte (e-STJ, fl. 742).
+Os embargos de declaração opostos pela LOCALFRIO e DHL e outra foram rejeitados (e-STJ, fls. 778/783).
+Irresignadas, DHL e outra interpuseram recurso especial com fulcro no art. 105, III, a e c, da CF, sustentando a violação dos arts. (1) 458, I e III, 535, II, ambos do CPC/73 em virtude das omissões quanto ao aplicação da Lei nº 9.611/98 e identificação da DHL como operadora multimodal e da distribuição dos ônus sucumbenciais porque não deveria haver solidariedade devendo cada requerida arcar com sua parte; (2) 754, parágrafo único, 786, ambos do CC/02 no que se refere ao prazo decadencial de 10 dias para que o destinatário informe o dano, sob pena de ser carecedor de qualquer ação de responsabilidade civil contra o transportador ou agente de cargas; (3) 17 da Lei nº 9.611/98 no que se refere à limitação indenizatória nos casos de extravio de mercadoria no transporte multimodal; e (4) inexistência de solidariedade das requeridas no pagamento da sucumbência, devendo cada uma responder por sua parte nos termos dos arts. 265 do CC/02 e 20 do CPC/73.
+Houve contrarrazões (e-STJ, fls. 872/932).
+É o relatório.
+DECIDO.
+O inconformismo merece prosperar.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+(1) Do art. 535 do CPC/73
+DHL e outra sustentaram a violação dos arts. 458, I e III, 535, II, ambos do CPC/73 em virtude das omissões quanto a aplicação da Lei nº 9.611/98 e identificação da DHL como operadora multimodal e da distribuição dos ônus sucumbenciais porque não deveria haver solidariedade devendo cada requerida arcar com sua parte.
+Contudo, não obstante a rejeição dos aclaratórios, o tema relativo à identificação da DHL como operadora multimodal foi analisado no acórdão proferido pelo Tribunal de origem, in verbis:
+Em verdade, a DHL não ficou responsável apenas pelo trecho marítimo entre o Porto de Gênova até o Porto de Santos; a própria corré LOCALFRIO reconhece expressamente que a DHL LOGISTICS BRAZIL LTDA. atuou como operadora de transporte multimodal, tendo se responsabilizado por todo e qualquer evento no ato de desunitização, desistindo, inclusive, da vistoria aduaneira (fls. 189/190; declaração de fls. 218)  ..  (e-STJ, fl. 755).
+Quanto ao tema, portanto, não há omissão, mas mera irresignação da DHL e outra quanto ao resultado do julgamento.
+De outro lado, a DHL e outra pretendiam manifestação do Tribunal de origem quanto à impossibilidade de condenação solidária nas custas e honorários advocatícios, devendo a referida verba ser dividida proporcionalmente, sem que o houvesse manifestação do Tribunal de origem.
+É condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenha sido analisada pelo acórdão objurgado.
+Assim, recusando-se a Corte de origem a se manifestar sobre a questão federal, terminou por negar prestação jurisdicional.
+A propósito, cite-se o precedente abaixo:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE.
+1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC.
+2. Agravo regimental não provido.
+(AgRg no REsp 1.187.807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 21/6/2012, DJe 28/6/2012)
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Fica prejudicada a análise das demais violações apontadas.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do recurso especial e DOU PROVIMENTO determinando o retorno dos autos ao Tribunal de origem para que analise a alegação da impossibilidade de condenação solidária na sucumbência como entender de direito.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intime-se.
