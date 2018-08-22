@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, fundado na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fls. 384/385):
+PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. TETOS. EMENDAS CONSTITUCIONAIS N.º 20/1998 E N.º 41/2003. PRECEDENTE STF.
+REPERCUSSÃO GERAL. BENEFÍCIOS CONCEDIDOS ANTES DA CONSTITUIÇÃO FEDERAL DE 1988. DECADÊNCIA. PRESCRIÇÃO.
+CONSECTÁRIOS LEGAIS. HONORÁRIOS.
+(..)
+2. É pacífica a orientação das Turmas Previdenciárias deste Regional no sentido de que o efeito interruptivo da prescrição deve ser contado da data do ajuizamento da ação civil pública n.º 0004911-28.2011.4.03.6183, ajuizada na Justiça Federal de São Paulo em 05/05/2011.
+(..)
+6. O entendimento exarado pelo STF no RE 564.354 também é aplicável aos benefícios concedidos antes da vigência da Constituição Federal de 1988, porque, tanto na legislação anterior à Constituição Federal de 1988 como no regramento posterior, há clara distinção entre salário de benefício e valor do benefício, os quais possuem métodos de cálculo próprios e divergentes.
+(..)
+Sustenta o recorrente violação dos seguintes dispositivos legais:
+a) art. 40 do Decreto n. 82.080/1979, arts. 21, 23 e 25 do Decreto n. 89.312/1984, ante a inviabilidade da adequação do benefício concedido antes da CF/1988 aos novos tetos das Emendas Constitucionais ns. 20/1998 e 41/2003;
+b) art. 103, parágrafo único, da Lei 8.213/1991, art; 104 da Lei 8.078/1990 e art. 219 do Código de Processo Civil de 1973, sustentando a impossibilidade de interrupção da prescrição pela ação civil pública.
+Contrarrazões foram apresentadas às e-STJ fls. 428/433.
+Juízo positivo de admissibilidade consta à e-STJ fl. 444.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Feito esse esclarecimento, verifico que assiste razão, em parte, ao recorrente.
+Colhe-se dos autos que o julgado solveu a controvérsia com base na premissa de que o entendimento do Supremo Tribunal Federal, acerca da adequação dos salários de benefício aos tetos das Ecs ns. 20/98 e 41/03, seria aplicável a benefício concedido anterior à Constituição Federal de 1988, como na espécie (e-STJ fl. 384).
+Dessa forma, verifica-se que a conclusão do acórdão a quo a respeito do direito vindicado apoia-se em fundamentação eminentemente constitucional. Nesse contexto, a revisão do julgado não é da competência deste Tribunal Superior nos termos do art. 105, III, da Constituição Federal.
+Ilustrativamente, cito:
+PREVIDENCIÁRIO. REGIME GERAL DE PREVIDÊNCIA SOCIAL. APLICAÇÃO DOS TETOS DAS EC 20/1998 E 41/2003. DECADÊNCIA. ART. 103, CAPUT, DA LEI 8.213/1991. NÃO INCIDÊNCIA.
+1. Trata-se de Recurso Especial questionando a aplicação dos tetos previstos nas Emendas Constitucionais 20/1998 e 41/2003 a benefícios concedidos anteriormente à vigência de tais normas.
+2. O escopo do prazo decadencial da Lei 8.213/1991 é o ato de concessão do benefício previdenciário, que pode resultar em deferimento ou indeferimento da prestação previdenciária almejada, consoante se denota dos termos iniciais de contagem do prazo constantes no art. 103, caput, da Lei 8.213/1991.
+3. Por ato de concessão deve-se entender toda manifestação exarada pela autarquia previdenciária sobre o pedido administrativo de benefício previdenciário e as circunstâncias fático-jurídicas envolvidas no ato, como as relativas aos requisitos e aos critérios de cálculo do benefício, do que pode resultar o deferimento ou indeferimento do pleito.
+4. A pretensão veiculada na presente ação consiste na revisão das prestações mensais pagas após a concessão do benefício para fazer incidir os novos tetos dos salários de benefício, e não do ato administrativo que analisou o pedido da prestação previdenciária.
+5. Por conseguinte, não incide a decadência prevista no art. 103, caput, da Lei 8.213/1991 nas pretensões de aplicação dos tetos das Emendas Constitucionais 20/1998 e 41/2003 a benefícios previdenciários concedidos antes dos citados marcos legais, pois consubstanciam mera revisão das prestações mensais supervenientes ao ato de concessão.
+6. Da leitura do voto condutor do acórdão recorrido, vê-se que a solução da controvérsia, no sentido de conceder a revisão do benefício previdenciário da parte autora, observando os valores dos tetos estabelecidos nas Emendas Constitucionais 20/1998 e 41/2003, foi dirimida pelo Tribunal de origem sob enfoque exclusivamente constitucional, competindo ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal. Nesse sentido, é pacífica a jurisprudência no sentido de que "não cabe a esta Corte, em recurso especial, o exame de matéria constitucional, cuja competência é reservada ao Supremo Tribunal Federal, nos termos do art. 102, inciso III, da Carta Magna" (STJ, AgRg no AREsp 470.765/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe de 31/03/2014).
+7. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.656.894/ES, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/06/2017, DJe 20/06/2017) (Grifos acrescidos).
+No entanto, quanto à prescrição, a pretensão recursal merece ser provida, pois, "em relação ao pagamento de parcelas vencidas, a prescrição quinquenal tem como marco inicial o ajuizamento da ação individual" (AgInt no REsp 1.642.625/ES, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, julgado em 06/06/2017, DJe 12/06/2017).
+Com efeito, "a propositura de ação coletiva com o mesmo objeto de ação individual tem o condão de interromper a prescrição. Ocorre que a prescrição é interrompida apenas para os fins de ajuizamento de ação individual e não para pagamento de parcelas vencidas  ..  a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da presente Ação Individual, nos termos da Súmula 85/STJ" (AgRg no REsp 1559883/RJ, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 16/02/2016, DJe 23/05/2016).
+Sobre a questão, destaco, ainda:
+PREVIDENCIÁRIO. ADEQUAÇÃO AOS TETOS. EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. TERMO INICIAL PARA CONTAGEM DA PRESCRIÇÃO QUINQUENAL INCIDENTE SOBRE PARCELAS VENCIDAS. DATA DO AJUIZAMENTO DA AÇÃO INDIVIDUAL E NÃO A DA PROPOSITURA DE ANTERIOR AÇÃO COLETIVA MOVIDA PELO MINISTÉRIO PÚBLICO. APLICAÇÃO DO PARÁGRAFO ÚNICO DO ART. 103 DA LEI N. 8.213/91.
+1. O cerne da controvérsia instalada no presente feito diz com o termo inicial da contagem da prescrição quinquenal sobre parcelas vencidas, oriundas da revisão de benefício previdenciário, em face dos reajustamentos decorrentes dos novos tetos estabelecidos pelos artigos 14 da EC nº 20/98 e 5º da EC 41/2003.
+2. Cuidando-se, como no presente caso, de ação individual de conhecimento movida pelo segurado contra a autarquia previdenciária, e desenganadamente desconectada da anterior ação coletiva proposta pelo Ministério Público Federal (ainda que com o mesmo objeto), inviável resulta, para fixação do marco inicial de contagem da prescrição de parcelas vencidas, tomar-se de empréstimo a data de propositura daquela pretérita lide movida pelo Parquet.
+3. Ao revés, deverá o termo inicial em comento recair na data da propositura da presente ação individual, garantindo-se à parte segurada o recebimento das parcelas relativas aos cinco anos anteriores ao ajuizamento da presente demanda, nos exatos termos do que dispõe o parágrafo único do art. 103 da Lei n. 8.213/91, verbis: "Prescreve em cinco anos, a contar da data em que deveriam ter sido pagas, toda e qualquer ação para haver prestações vencidas ou quaisquer restituições ou diferenças devidas pela Previdência Social, salvo o direito dos menores, incapazes e ausentes, na forma do Código Civil. (Incluído pela Lei nº 9.528, de 1997)".
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.645.952/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 08/05/2018, DJe 16/05/2018).
+Ante o exposto, com base no art. 255, § 4º, I, II e III, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PROVIMENTO para reconhecer a prescrição das parcelas anteriores aos cinco anos contados do ajuizamento da ação individual.
+Publique-se.
+Intimem-se.
