@@ -1,0 +1,18 @@
+DECISÃO: A União Federal, ao deduzir o presente recurso extraordinário, sustentou que o acórdão proferido pelo E. Tribunal Superior do Trabalho teria transgredido preceitos inscritos na Constituição da República.
+    O exame da presente causa evidencia que a pretensão recursal extraordinária revela-se acolhível.
+    Cumpre ressaltar, desde logo, que o Plenário desta Suprema Corte, ao julgar a ADI 3.395-MC/DF, Rel. Min. CEZAR PELUSO (RTJ 198/922), fixou entendimento consubstanciado em acórdão assim ementado:
+    “INCONSTITUCIONALIDADE. Ação direta. Competência. Justiça do Trabalho. Incompetência reconhecida. Causas entre o Poder Público e seus servidores estatutários. Ações que não se reputam oriundas de relação de trabalho. Conceito estrito desta relação. Feitos da competência da Justiça Comum. Interpretação do art. 114, inc. I, da CF, introduzido pela EC 45/2004. Precedentes. Liminar deferida para excluir outra interpretação. O disposto no art. 114, I, da Constituição da República não abrange as causas instauradas entre o Poder Público e servidor que lhe seja vinculado por relação jurídico- -estatutária.” (grifei)
+    Impende destacar, no tema ora em análise, ante a inquestionável procedência de suas observações, o seguinte trecho da decisão proferida pelo eminente Ministro EDSON FACHIN (RE 1.081.591/RS), no sentido de que “(...) a repercussão geral reconhecida nos RREE 586.453 e 583.050 não se aplica à presente controvérsia, tendo em vista que não se trata aqui de aposentadoria privada, e, sim, de complementação da aposentadoria a cargo da União, nos termos das Leis 8.186/91 e 10.478/02”.
+    Convém assinalar, por relevante, que decisões proferidas no âmbito desta Suprema Corte, a propósito de questão idêntica à suscitada nestes autos, têm, considerados os precedentes que venho de referir, firmado orientação que torna acolhível a pretensão ora em análise (ARE 1.051.106/SP, Rel. Min. CELSO DE MELLO – RE 1.034.878/RS, Rel. Min. LUIZ FUX – RE 1.034.932/DF, Rel. Min. ALEXANDRE DE MORAES – RE 1.034.935/DF, Rel. Min. GILMAR MENDES – RE 1.035.121/PE, Rel. Min. RICARDO LEWANDOWSKI – RE 1.130.292/RS, Rel. Min. DIAS TOFFOLI, v.g.):
+    “Agravo regimental no recurso extraordinário com agravo. Previdenciário. Complementação de benefícios. Ex-ferroviários e seus pensionistas. Competência da Justiça comum. Precedentes.
+    1. O Plenário da Corte, no exame do ADI nº 3.395-MC/DF, definiu que compete à Justiça comum o processamento e julgamento dos feitos nos quais se discutem questões instauradas entre o Poder Público e o servidor que lhe seja vinculado por relação jurídico-estatutária.
+    2. A jurisprudência do Supremo Tribunal Federal também tem firme entendimento de que as ações de complementação de benefícios previdenciários movidas contra a União por servidores da extinta RFFSA devem ser processadas perante a Justiça Comum.
+    3. Inaplicabilidade ao caso da modulação de efeitos determinada quando do julgamento do nº 586.453-RG/SE, porque não se cuida de ação ajuizada contra entidade de previdência privada.
+    4. Agravo regimental não provido.”
+    (ARE 665.744-AgR/PR, Rel. Min. DIAS TOFFOLI – grifei)
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária diverge da diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, dou provimento ao recurso extraordinário, por estar o acordão recorrido em confronto com entendimento emanado do Plenário desta Suprema Corte (CPC, art. 932, V, “b”).
+    Publique-se.
+    Brasília, 22 de agosto de 2018.
+Ministro CELSO DE MELLO
+Relator
