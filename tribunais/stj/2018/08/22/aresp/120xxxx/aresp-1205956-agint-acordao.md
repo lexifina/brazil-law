@@ -1,0 +1,32 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO POSSESSÓRIA. DECISÃO AGRAVADA APLICOU A SÚMULA 283/STF. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TAL FUNDAMENTO NAS RAZÕES DO AGRAVO INTERNO. PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
+1. Para se viabilizar o conhecimento do agravo interno, é necessário que o agravante impugne especificamente os fundamentos da decisão agravada, o que não ocorreu na hipótese em exame. Esta circunstância atrai a incidência do disposto no artigo 932, III, do CPC/2015 e na Súmula 182/STJ.
+2. Agravo interno não conhecido.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, não conhecer do agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (Relator):
+Trata-se de agravo interno (fls. 497-498) interposto por RAQUEL LIMA LEITE DOS SANTOS contra decisão (fls. 490/493) que conheceu de seu agravo para negar provimento ao seu recurso especial, porquanto este não teria impugnado os fundamentos contidos no v. acórdão estadual, atraindo a incidência da Súmula 283/STF no tocante aos arts. 332 e 333, II, do CPC/73.
+Nas razões do agravo interno, alega-se que o recurso não tem por objetivo revolver o acervo fático-probatório, "(..) mas apenas tratar de questões jurídicas, fim do próprio tribunal, tendo em vista a divergência nas decisões que tratam da matéria, conforme amplamente demonstrado no recurso especial" (fl. 497).
+Sustenta-se que "(..) o cabimento do recurso especial é manifesto, conforme previsto na letra "c" do inciso III do artigo 105 da Constituição Federal, (..)" (fl. 498).
+Ao final, pleiteia-se a reconsideração da decisão agravada ou, se mantida, que o presente recurso seja levado a julgamento perante a eg. Quarta Turma.
+Intimada, PETROBRAS TRANSPORTE S/A - TRANSPETRO apresentou impugnação (fls. 502/513).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (Relator):
+O recurso em apreço não merece prosperar, uma vez que a agravante não apresentou argumentos aptos a modificar a decisão vergastada.
+Com efeito, nas razões do agravo interno, sustenta a agravante que a análise do apelo nobre não demanda revolvimento fático e probatório, bem como ressalta o cabimento do recurso especial pela alínea c do permissivo constitucional.
+A decisão agravada, por sua vez, aplicou o óbice da Súmula 283/STF quanto aos arts. 332 e 333 do CPC/1973, uma vez que a então recorrente não impugnou todos os fundamentos contidos no v. acórdão estadual para afastar o alegado cerceamento de defesa, em especial a não controvérsia da matéria e ausência de interesse na produção de novas provas. A título elucidativo, o seguinte excerto da decisão objurgada (fls. 492/493):
+"Ademais, no apelo nobre que requer trânsito, sustenta a recorrente ofensa dos arts. 332 e 333, inciso II, do CPC/73, ao argumento de que não poderia haver julgamento antecipado da lide na hipótese de controvérsia acerca de questões fáticas. Entretanto, o recurso não merece prosperar. Isso porque o eg. TJ-SP assentou inexistir cerceamento de defesa sob os seguintes fundamentos: (i) as matérias fáticas restaram incontroversas; e (ii) os autos estão devidamente instruídos. Ademais, a própria a recorrente informou desinteresse em produzir novas provas. À título elucidativo, colaciona-se o seguinte excerto do v. acórdão estadual (fls. 337/338):
+"Nem sequer se cogitou de nulidade do processo por cerceamento de defesa devido ao julgamento antecipado da lide, sem a abertura da fase de instrução e a inquirição de testemunhas em audiência, providência essa inútil à formação do convencimento uma vez que na hipótese as matérias fáticas historiadas e debatidas nos autos, - a posse e o acenado esbulho foram de natureza incontroversa, até porque a própria apelante informou o seu desinteresse na produção de provas, pág. 146.
+Daí a prescindibilidade da produção de outras provas supletivas diante da farta documentação exibida nos autos, de conhecimento comum, segundo a interpretação lógico-sistemática dos arts. 130, 330, I e 334, III, do Código de Processo Civil.
+E na espécie foi demonstrada de forma cabal a propriedade e a efetiva posse do terreno por parte da Petrobrás - Petróleo Brasileiro S/A, posteriormente arrendado à empresa Petrobrás Transporte S/A - Transpetro, destinada à passagem e implantação de dutos para a transferência de produtos altamente inflamáveis."
+Por seu turno, da leitura das razões posta no apelo nobre, infere-se que a recorrente não impugnou os fundamentos relativos à incontrovérsia da matéria e desinteresse na produção de novas provas. Nesse cenário, havendo fundamento autônomo e suficiente, por si só, para manter o v. acórdão estadual, o apelo nobre encontra óbice na Súmula n. 283/STF, aplicada por analogia. Nessa mesma linha de intelecção, destacam-se os seguintes julgados:" (grifado no original)
+ Com efeito, para se viabilizar o conhecimento do agravo interno, é necessário que o agravante impugne especificamente os fundamentos da decisão agravada, o que não ocorreu na hipótese em exame. Esta circunstância atrai a incidência do disposto no artigo 932, III, do Código de Processo Civil de 2015, e na Súmula 182/STJ. Nessa linha de intelecção, confira-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ.
+1. Inviável o agravo interno que deixa de impugnar especificamente os fundamentos da decisão agravada, nos termos do que dispõe a Súmula 182 do STJ.
+2. O sistema processual brasileiro consagra e positiva o princípio da dialeticidade ao exigir que o recurso faça impugnação específica aos fundamentos do provimento jurisdicional atacado (arts. 544, § 4º, I, do Código de Processo Civil de 1973; 932, III e 1.021, § 1º, do atual Código de Processo Civil; e 259, § 2º, do Regimento Interno do Superior Tribunal de Justiça).
+3. Agravo interno a que se nega provimento." (AgInt no AREsp 1.003.118/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/10/2017, DJe de 24/10/2017, sem negrito no original)
+Dessa forma, verifica-se que o presente recurso não merece prosperar.
+Ante o exposto, não conheço do agravo interno.
+É como voto.
