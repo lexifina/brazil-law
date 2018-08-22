@@ -1,0 +1,70 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo Estado do Ceará, com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da CF/1988, contra acórdão do respectivo Tribunal de Justiça, ementado nos seguintes termos (e-STJ, fl. 258):
+APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. DIREITO CONSTITUCIONAL E TRIBUTÁRIO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA TRIBUTÁRIA. ICMS. CARGA LÍQUIDA. EQUIPAMENTO MÉDICO HOSPITALAR. IMPORTAÇÃO ANTERIOR À EMENDA CONSTITUCIONAL Nº 33/2001. NÃO INCIDÊNCIA DO TRIBUTO. SÚMULA 660 DO STF. RECURSO CONHECIDO E IMPROVIDO. SENTENÇA MANTIDA.
+1. A incidência do ICMS na importação de mercadoria tem como fato gerador operação de natureza mercantil ou assemelhada.
+Inexigibilidade do imposto quando se tratar de bem importado por pessoa física ou por entidade prestadora de serviço.
+2. Até a vigência da EC 33/2001, não incide o ICMS na importação de bens por pessoa física ou jurídica que não seja contribuinte de imposto. Súmula 660 do STF.
+3. Na hipótese, verifica-se a impropriedade da exação e autuação praticadas pelo fisco, posto que na vigência do art. 155, §2º, "a" da CF/88, com a redação anterior à EC 33/2001, era inexigível ICMS na importação de bens por pessoas físicas ou jurídicas não contribuintes do imposto.
+4. Recurso de Apelação e Reexame Necessário conhecidos e improvidos.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 297-307).
+Alega o agravante a existência de ofensa aos arts. 20, §§ 3º e 4º, 475 e 535 do CPC/1973. Aponta, em síntese, que "os honorários devem ser estipulados com observância ao § 4º do art. 20 do CPC, ou seja, sem a limitação do mínimo de 10% (dez por cento) estabelecida pelo § 3º do mesmo artigo, de modo que se torna possível urna apreciação mais equitativa do valor a ser definido para essa verba" (e-STJ, fl. 266). Pugna, desse modo, pela minoração dos valores arbitrados na origem em 10% sobre o valor da causa.
+Defende que o Tribunal de origem, não obstante a oposição de embargos declaratórios, omitiu-se a respeito de questões relevantes ao deslinde da controvérsia, em especial em relação ao art. 20, §§ 3º e 4º, do CPC de 1973.
+Foram apresentadas contrarrazões às e-STJ, fls. 273-279.
+Admitido o recurso especial na origem (e-STJ, fls. 281-283), subiram os autos a esta Corte de Justiça.
+É o relatório.
+Registro, de início, não prosperar a tese de violação dos arts. 475 e 535 do CPC/1973, porquanto o acórdão combatido fundamentou claramente seu posicionamento, de modo a prestar a jurisdição que lhe foi postulada, mantendo o valor da condenação em honorários fixados na sentença.
+Sendo assim, não há que se falar em omissão, obscuridade ou contradição do aresto. O fato de a Corte de origem haver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura qualquer vício passível de exame em embargos de declaração.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 03/STJ. SERVIDOR PÚBLICO FEDERAL. PROCESSO ADMINISTRATIVO DISCIPLINAR. DEMISSÃO. REINTEGRAÇÃO. OFENSA AO ART. 557 DO CPC/1973. INOCORRÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO RECORRIDO ASSENTADO NO CONJUNTO FÁTICO-PROBATÓRIO DO FEITO. REVISÃO. IMPOSSIBILIDADE. NECESSÁRIO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em violação ao art. 557 do CPC/1973 alegada pela parte agravante, tendo em vista que a questão suscitada encontra óbice na Súmula 7/STJ, sendo o recurso especial, por conseguinte, manifestamente inadmissível. Ainda que assim não fosse, é de se ressaltar que fica superada eventual ofensa ao referido dispositivo legal, pelo julgamento colegiado do agravo regimental interposto contra a decisão singular do Relator. Precedentes.
+2. Inexiste violação aos arts. 458, II e 535, II, do CPC/1973, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda em toda a sua extensão, fazendo-o de forma clara e precisa, estando bem delineados os motivos e fundamentos que o embasam.
+ ..
+Precedentes.
+4. Agravo interno não provido.
+(AgInt no REsp 1.595.272/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 2/6/2016, DJe 8/6/2016)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. INOCORRÊNCIA DA ALEGADA VIOLAÇÃO AOS ARTS. 535 E 458 DO CPC. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. RECURSO QUE SE FUNDA, TÃO SOMENTE, NESSA ALEGAÇÃO. AGRAVO REGIMENTAL DO ESTADO DO PARÁ A QUE SE NEGA PROVIMENTO.
+1. No caso, não há como acolher a alegada violação aos arts. 458, II e 535, II do CPC/73, visto que a lide foi resolvida com a devida fundamentação, ainda que sob ótica diversa daquela almejada pelo ora Recorrente. Todas as questões postas em debate foram efetivamente decididas, não tendo havido vício algum que justificasse o manejo dos Embargos Declaratórios.
+ ..
+3. Agravo Regimental do ESTADO DO PARÁ a que se nega provimento.
+(AgRg no AREsp 884.151/PA, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 24/5/2016, DJe 13/6/2016)
+Já o arbitramento da verba honorária pelo critério da equidade, na instância ordinária, é matéria de ordem fática insuscetível de reexame na via especial, nos termos da Súmula 7/STJ, que assim orienta: "A pretensão de simples reexame de prova não enseja recurso especial."
+Nesse sentido, os acórdãos assim ementados:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ERRO MATERIAL AFASTADO. HONORÁRIOS. REVISÃO. SÚMULA 7/STJ.
+1. Merece acolhimento parcial os embargos de declaração, apenas para corrigir erro material constante no acórdão embargado. Passo à análise do agravo regimental com relação alegada à irrisoriedade dos honorários advocatícios.
+2. Assim decidiu o Tribunal de origem ao analisar a fixação dos honorários advocatícios: "não é caso de majoração: ou redução, considerando-se o trabalho realizado, o tempo de tramitação e os demais fatores contidos no art. 20, §§ 3º e 4º do CPC. O valor fixado, R$ 5.000,00, está adequado à espécie. E não se pode desconsiderar que o Sindicato receberá elevado, montante a tal título na ação de conhecimento" (fl. 180, e-STJ).
+3. De acordo com a jurisprudência desta Corte, para a fixação dos honorários advocatícios, podem ser utilizados percentuais sobre o valor da causa ou da condenação, ou mesmo de um valor fixo, não se restringindo aos percentuais previstos no § 3º do art. 20 do CPC.
+4. Demais disso, esta Corte adota o entendimento de que a fixação da verba honorária pelo critério da equidade, na instância ordinária, é matéria de ordem fática insuscetível de reexame na via especial, ante o óbice da Súmula 7. Precedentes: AgRg no REsp 1.546.727/SC, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 27/10/2015, DJe 20/11/2015; AgRg no AREsp 792.611/PR, Rel. Min. Diva Malerbi (Desembargadora convocada TRF 3ª Região), Segunda Turma, julgado em 15/12/2015, DJe 18/12/2015; AgRg no REsp 1.416.962/SC, Rel. Min. Assusete Magalhães, Segunda Turma, julgado em 01/12/2015, DJe 14/12/2015; AgRg no REsp 1.511.910/SC, Rel. Min. Mauro Campbell Marques, Segunda Turma, julgado em 01/12/2015, DJe 18/12/2015.
+Embargos de declaração parcialmente acolhidos, sem efeitos infringentes, apenas para sanar erro material.
+(EDcl no AgRg nos EDcl nos EDcl no AREsp 716.461/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 18/2/2016, DJe 25/2/2016)
+PROCESSUAL CIVIL E TRIBUTÁRIO. IPTU. VALOR VENAL ATRIBUÍDO POR LAUDO PERICIAL. REVISÃO. INCURSÃO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA DA FAZENDA PÚBLICA. REDUÇÃO DO VALOR. REVISÃO. INCURSÃO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE.
+1.  ..
+2. A Primeira Seção do STJ, por ocasião do julgamento do REsp 1.155.125/MG (em 10.3.2010, DJe 6.4.2010), relatoria do Ministro Castro Meira, submetido ao regime dos recursos repetitivos, reafirmou a orientação no sentido de que, "vencida a Fazenda Pública, a fixação dos honorários não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC, ou mesmo um valor fixo, segundo o critério de equidade".
+Agravo regimental improvido.
+(AgRg no AREsp 808.028/RJ, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 4/2/2016, DJe 12/2/2016)
+Excepcionalmente, entretanto, entende-se cabível a readequação dos honorários se o valor fixado foi claramente irrisório ou exorbitante (v.g. Resp 1.387.428/SC, Corte Especial, Rel. Ministro Paulo de Tarso Sanseverino, julgado em 7/5/2014, DJe 19/5/2014 - repetitivo).
+Vale frisar que, por ocasião do julgamento do AgRg no AREsp 532.550/RJ, realizado pela Segunda Turma na assentada de 2/10/2014, convencionou-se que a desproporção entre o valor da causa e o valor arbitrado a título de honorários advocatícios não denota, necessariamente, irrisoriedade ou exorbitância da verba honorária, que deve se pautar na análise da efetiva complexidade da causa e do trabalho desenvolvido pelo causídico no patrocínio dos interesses de seu cliente.
+No caso, não se mostram exorbitante os honorários fixados pelo aresto recorrido em 10% sobre o valor da causa.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DO PRINCÍPIO DA FUNGIBILIDADE. RECEBIMENTO DOS EMBARGOS DECLARATÓRIOS COMO AGRAVO INTERNO. PRECEDENTE: EDCL NO ARESP 175.781/RS, REL. MIN. BENEDITO GONÇALVES, DJE 22.08.2012. HONORÁRIOS ADVOCATÍCIOS FIXADOS EM PATAMAR RAZOÁVEL. DESNECESSIDADE DE DE REVISÃO. AGRAVO DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência desta Corte já firmou entendimento de que, em casos excepcionais, é possível a revisão dos honorários advocatícios quando se tratar de valor fixado de modo irrisório, inapto a remunerar condignamente o patrono da parte e atentatório à dignidade da justiça, ou exorbitante, cujo pagamento se torne excessivamente penoso ao vencido.
+2. Não é o caso dos presentes autos, uma vez que os honorários advocatícios foram fixados pelo juízo de primeiro grau no montante de 10% sobre o valor da causa, atendendo ao disposto no art. 20, § 3o. do CPC/1973, que determina os honorários no mínimo de 10% quando a Fazenda Pública for vencedora.
+3. Agravo Interno da Empresa a que se nega provimento.
+(EDcl no AREsp 118.371/SC, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 8/5/2018, DJe 16/5/2018)
+PROCESSUAL CIVIL. PRINCÍPIO DA CAUSALIDADE. MATÉRIA DE PROVA. INCIDÊNCIA DA SÚMULA 7 DO STJ. HONORÁRIOS ADVOCATÍCIOS E ÔNUS DA SUCUMBÊNCIA. AUSÊNCIA DE VALOR EXORBITANTE.
+1. Cuida-se de inconformismo contra acórdão do Tribunal de origem, que reconheceu o direito do recorrido ao recebimento de adicional por tempo de serviço com cômputo do período em que atuou na Empresa Municipal de Vigilância, tendo condenado a recorrente ao pagamento de honorários advocatícios.
+ ..
+4. À luz do princípio da causalidade (Veranlassungsprinzip), as despesas processuais e os honorários advocatícios "recaem sobre a parte que deu causa à extinção do processo sem julgamento do mérito ou à que seria perdedora se o magistrado chegasse a julgar o mérito da causa" (REsp 151.040/SP, Rel. Min. Adhemar Maciel, DJU 1.2.1999).
+5. Não pode ser considerado como abusivo o percentual de 10% sobre o valor da causa, ainda quando considerada a condenação em R$ 32.700, 00, máxime quando devidamente analisado pelo Tribunal de origem a fundamentação para estipular o quantum. Portanto, entende-se que o valor fixado a título de verba honorária é razoável, não havendo excesso digno de revisão, estando em consonância com os critérios do art. 20, § 4º do CPC.
+6. Recurso Especial de que parcialmente se conhece e, nessa parte, nega-se-lhe provimento.
+(REsp 1.706.968/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/11/2017, DJe 19/12/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. DEVOLUÇÃO EM DOBRO. MÁ-FÉ DO CREDOR. INEXISTÊNCIA. REEXAME. SÚMULA Nº 7/STJ. VERBA HONORÁRIA. APRECIAÇÃO EQUITATIVA. LIMITES. VALOR FIXO. CABIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte. 3. Não há como rever a conclusão do tribunal de origem, acerca da ausência de má-fé do credor a justificar a devolução em dobro dos valores pagos indevidamente, sem a análise de fatos e provas, o que é inviável no recurso especial devido à incidência da Súmula nº 7/STJ.
+4. Nos termos do art. 20, § 4º, do Código de Processo Civil de 1973, a fixação dos honorários nas ações em que não há condenação não está adstrita aos limites percentuais de 10% (dez por cento) e 20% (vinte por cento), podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, ou mesmo um valor fixo, segundo o critério de equidade.
+5. Para rever a verba honorária, arbitrada razoavelmente pelas instâncias ordinárias em 10% (dez por cento) sobre o valor a ser restituído, é imprescindível o revolvimento do acervo fático-probatório dos autos por esta Corte, o que esbarra no óbice da Súmula nº 7/STJ.
+6. O reexame do conjunto fático-probatório da causa obsta a admissão do recurso especial tanto pela alínea "a" quanto pela "c" do permissivo constitucional.
+7. Agravo interno não provido.
+(AgInt no AREsp 1.231.900/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 8/5/2018, DJe 15/5/2018)
+Ante o exposto, aplica-se à espécie a orientação fixada pela Súmula 568 do STJ, com base na qual nego provimento ao recurso especial.
+Publique-se. Intimem-se.
