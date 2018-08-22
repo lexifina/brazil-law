@@ -1,0 +1,7 @@
+DECISÃO
+01. Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando como autoridade coatora, o eg. Tribunal Regional Federal da 4ª Região.
+02. Instado a se manifestar em diversos outros habeas corpus (v.g. HC 440815/PR; HC 444131/PR; HC 444152/PR e HC 444184/PR), o paciente informou que não possui interesse no prosseguimento do writ, destacando, expressamente, que não autoriza qualquer forma de representação judicial ou extrajudicial em seu nome que não seja através de seus advogados legalmente constituídos para representá-lo e defender os seus direitos e interesses.
+Na dicção do art. 202, §1º do Regimento Interno desta Corte Especial, "opondo-se o paciente, não se conhecerá do pedido".
+Em lição acerca do tema, [NOME] cita excerto da obra de Ada Pellegrini Grinover, [NOME] e [NOME], no sentido de que "nessas situações, um eventual julgamento precipitado pode comprometer a linha de defesa que vinha sendo desenvolvida pelo próprio acusado e seus advogados constituídos, resultando em prejuízo manifesto para o paciente. Assim, embora não se possa negar a legitimidade do eventual impetrante, estará ausente o interesse de agir, como utilidade, não podendo ser conhecido o pedido" (LIMA, Renato Brasileiro. Manual de Processo Penal. 5ª ed. Bahia: Juspodvim. 2017. p. 1769).
+03. Ante o exposto, com fulcro no art. 34, inciso XX, e art. 210, ambos do RISTJ, indefiro liminarmente o processamento do presente mandamus.
+P. e I.
