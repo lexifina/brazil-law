@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de [NOME] contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro (Apelação Criminal n. 0012579-89.2007.8.19.0014).
+Infere-se dos autos que o Juízo de primeiro grau condenou o paciente à pena de 5 anos de reclusão, em regime inicial semiaberto, como incurso no art. 157, caput, do Código Penal - CP (roubo).
+Interposta apelação pela defesa, o Tribunal a quo negou provimento ao recurso, mas alterou a fundamentação quanto ao aumento da pena-base, nos termos do julgamento acostado às fls. 58/62.
+Opostos embargos declaratórios, foram eles acolhidos para restabelecer o regime inicial semiaberto.
+A Defensoria Pública afirma que a exasperação da pena-base está fundamentada em condenações relativas a fatos posteriores ao delito em análise, violando o enunciado n. 444 da Súmula desta Corte.
+Requer, portanto, a redução da pena e, por consequência, a imposição de regime prisional menos gravoso.
+Indeferido o pedido liminar e prestadas as informações pela autoridade coatora, o Ministério Público Federal opinou pelo não conhecimento do mandamus, nos termos da seguinte ementa:
+HABEAS CORPUS. SUBSTITUTIVO DE RECURSO ESPECIAL. UTILIZAÇÃO INADEQUADA DO REMÉDIO HEROICO. NÃO CONHECIMENTO. ROUBO. DOSIMETRIA DA PENA. EXASPERAÇÃO DA PENA BASE. ANTECEDENTES, CONDUTA SOCIAL E CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. FUNDAMENTAÇÃO IDÔNEA. PENA SUPERIOR A 4 (QUATRO ANOS). REGIME ABERTO. IMPOSSIBILIDADE. HABEAS CORPUS NÃO CONHECIDO.
+- Essa Augusta Corte Superior, em atenção à modificação jurisprudencial levantada pelo Excelso Supremo Tribunal Federal, alterou seu entendimento para concluir que o habeas corpus não deve ser conhecido quando consistir em utilização inadequada da garantia constitucional, em substituição aos recursos ordinariamente previstos nas leis processuais.
+- A pena estabelecida na primeira fase da dosimetria foi motivada pela correta valoração dos vetores desfavoráveis, referentes aos antecedentes, conduta social e às circunstâncias do crime, conforme determina o art. 59 do Código Penal, não havendo que se falar em fundamentação genérica ou ausência de objetividade.
+- In casu, a pena privativa de liberdade aplicada foi de 5 (cinco) anos de reclusão, motivo pelo qual não há ilegalidade na fixação do regime semiaberto para início de seu cumprimento.
+- Parecer pelo não conhecimento da ordem (fl. 96).
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal, esta Corte não admite habeas corpus substitutivo de recurso próprio, como no caso dos autos, ressalvando-se, porém, a possibilidade de concessão da ordem, de ofício, se constatada a existência de flagrante ilegalidade na liberdade de locomoção do paciente.
+Conforme relatado, a controvérsia refere-se ao aumento da pena, na primeira fase da dosimetria.
+No que interessa, o Tribunal de origem reformou o decreto condenatório elaborado pelo Juízo sentenciante, consignando:
+ ..
+A pena e o regime impostos, igualmente, não merecem revisão. Explico.
+De fato, comungo do entendimento de que não se aumenta a pena-base do agente que cometeu crime de roubo sob o argumento de que a res furtiva não foi recuperada. Isto porque se trata de decorrência lógica do cometimento de tal ilícito. As consequências do crime, que autorizam o aumento da pena-base, devem se revelar de uma proporção tal que extravasem o mero resultado decorrente da prática da infração penal.
+Contudo, na hipótese vertente, o apelante conta em sua FAC (e-doc. 00174) com, além deste feito, mais 14 anotações, três das quais resultaram em posteriores condenações definitivas, fato revelador de má conduta social e personalidade voltada para a prática de delitos, em especial os patrimoniais, pelo que justificada a fixação da pena-base acima do mínimo legal e também o percentual aplicado, que deverá ser imposto de forma suficiente tanto à repressão do crime quanto à sua ressocialização.
+ ..
+E seguindo essa mesma linha de entendimento, as circunstâncias do artigo 59 do CP não favorecem o apelante, repisando-se seu péssimo comportamento social e personalidade criminosa, porquanto se envolve, reiteradamente, em delitos contra o patrimônio, o que justifica a fixação do regime inicialmente fechado para cumprimento da pena.
+Dessa forma, entendendo devidamente enfrentadas as questões aventadas para efeito de prequestionamento e ressalvado o exposto em relação à dosimetria penal, sou pelo desprovimento do apelo defensivo (fls. 60/62).
+A análise da folha de antecedentes do réu, juntada às fls. 17/36, revela que as condenações definitivas mencionadas no voto condutor do acórdão recorrido, todas elas referem-se a fatos posteriores ao apurado na Ação Penal n. 0012579-89.2007.8.19.0014, em exame.
+Consoante orientação sedimentada nesta Corte Superior  ..  condenações transitadas em julgado por fatos posteriores, não podem ser considerados como maus antecedentes, má conduta social ou personalidade desajustada, sob pena de malferir o princípio constitucional da presunção de não-culpabilidade (AgRg no AREsp 220.180/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 17/10/2013).
+No mesmo sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. RECEPTAÇÃO. PENA-BASE ACIMA DO PISO LEGAL. MAUS ANTECEDENTES. SÚMULA 444/STJ. NECESSIDADE DE CONDENAÇÃO TRANSITADA EM JULGADO. PERSONALIDADE. VALORAÇÃO DE INFRAÇÕES PENAIS COMETIDAS. IMPOSSIBILIDADE. CONSEQUÊNCIAS DO CRIME. ELEVADO VALOR DA RECEPTAÇÃO. REGIME SEMIABERTO. CIRCUNSTÂNCIAS DESFAVORÁVEIS. IMPOSSIBILIDADE DE SUBSTITUIÇÃO DA PENA. EXECUÇÃO PROVISÓRIA DA PENA. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+4. Nos termos da jurisprudência consolidada desta Corte, não é possível considerar a condenação transitada em julgado, correspondente a fato posterior ao narrado na denúncia, para valorar negativamente antecedentes, conduta social ou personalidade do agente.
+ ..
+13. Habeas corpus não conhecido (HC 417.014/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 12/03/2018).
+Desse modo, a pena-base deve ser fixada no mínimo legal para o tipo, qual seja, 4 anos de reclusão e 10 dias-multa. Na segunda e terceira fase da dosimetria mantenho a reprimenda naquele patamar, pois ausentes circunstâncias atenuantes, agravantes, tampouco causas de diminuição e aumento da pena.
+Levando-se em consideração o quantum da reprimenda aplicada a paciente tecnicamente primário e o fato de não terem sido apontadas outras circunstâncias desfavoráveis, entendo que ele faz jus ao regime inicial aberto, à luz do art. 33, §§ 2º e 3º, do CP e da jurisprudência desta Corte.
+A propósito:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ROUBO. EMPREGO DE SIMULACRO DE ARMA DE FOGO. AFASTAMENTO DA MAJORANTE. CARÊNCIA DE FUNDAMENTAÇÃO IDÔNEA PARA A IMPOSIÇÃO DO REGIME PRISIONAL SEMIABERTO. DOSIMETRIA REVISTA. WRIT NÃO CONHECIDO E ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+4. No tocante ao regime, de acordo com a Súmula 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". De igual modo, as Súmulas 718 e 719/STF, prelecionam, respectivamente, que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" e "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+5. Malgrado a fixação da pena-base no mínimo legal e a primariedade do réu não conduzam, necessariamente, à fixação do regime prisional menos severo, os fundamentos genéricos utilizados no decreto condenatório não constituem motivação suficiente para justificar a imposição de regime prisional mais gravoso que o estabelecido em lei (art. 33, §§ 2º e 3º, do Código Penal).
+6. Tratando-se de réu primário, ao qual foi imposta pena de 4 (quatro) anos de reclusão e cujas circunstâncias judiciais foram favoravelmente valoradas, sem que nada de concreto tenha sido consignado de modo a justificar o recrudescimento do meio prisional, por força do disposto no art. 33, §§ 2º, alínea "c", e 3º, do Código Penal, deve a reprimenda ser cumprida, desde logo, em regime aberto.
+7. Writ não conhecido. Habeas corpus concedido, de ofício, com o fim de reduzir a pena a 4 (quatro) anos de reclusão, mais 10 (dez) dias-multa, e estabelecer o regime prisional aberto, salvo se, por outro motivo, o paciente estiver descontando pena em meio mais severo (HC 397.107/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 01/08/2017).
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem, de ofício, para reduzir a pena do paciente ao patamar de 4 anos de reclusão, mais o pagamento de 10 dias-multa, e fixar o regime inicial aberto para o desconto da reprimenda, mantidos os demais termos do decreto condenatório.
+Publique-se.
+Intimações necessárias.
