@@ -1,0 +1,33 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CÉDULA DE CRÉDITO RURAL. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. REPETIÇÃO DO INDÉBITO. INCIDÊNCIA DOS MESMOS ENCARGOS CONTRATADOS. IMPOSSIBILIDADE. RESP N. 1.552.434/GO (ART. 1.040 DO CPC/2015). SÚMULA 83/STJ. 3. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+[NOME] ajuizou ação de conhecimento em desfavor de Banco do Brasil S.A. postulando a declaração da nulidade de cláusulas contratuais de cédula de crédito rural e a condenação do réu à repetição do indébito.
+O Magistrado de primeiro grau julgou procedentes os pedidos para declarar o BTN como o índice de correção monetária para o mês de março de 1990, bem como a fim de condenar o requerido à restituição dos valores eventualmente recebidos a maior.
+Interpostas apelações por ambas as partes, a Segunda Câmara Cível do Tribunal de Justiça de Mato Grosso negou provimento ao apelo do banco e deu parcial provimento à insurgência do autor para fixar os juros moratórios em 1% ao ano.
+O acórdão foi assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE REPETIÇÃO DE INDÉBITO - PRELIMINARES DE PRESCRIÇÃO/DECADÊNCIA, INÉPCIA DA INICIAL POR AUSÊNCIA DE DOCUMENTOS INDISPENSÁVEIS A PROPOSITURA DA AÇÃO, IMPOSSIBILIDADE JURÍDICA DO PEDIDO E AUSÊNCIA DE INTERESSE RECURSAL - REJEITADAS - MÉRITO - EXPURGOS INFLACIONÁRIOS - ÍNDICE DE ATUALIZAÇÃO MONETÁRIA - BTN - CADERNETA DE POUPANÇA - JUROS DE MORA - TERMO INICIAL - DATA DA CITAÇÃO - RECURSO DO BANCO DO BRASIL IMPROVIDO E PROVIDO PARCIALMENTE DE [NOME] ANTÔNIO [NOME].
+O prazo prescricional para as ações revisionais de contrato bancário, nas quais se pede o reconhecimento da existência de cláusulas contratuais abusivas e a conseqüente restituição das quantias pagas a maior, é vintenário (sob a égide do Código Civil de 1916) ou decenal (na vigência do novo Codex) pois fundadas em direito pessoal.
+Não há inépcia da inicial por ausência de documentos indispensáveis da ação, quando a parte junta todas as cédulas e planilhas referentes a demanda.
+É possível a revisão judicial dos contratos, ainda que quitados ou novados.
+O interesse processual está sempre ligado à necessidade de a parte ajuizar a ação como único meio de obter o que objetiva, e à utilidade que o resultado poderá trazer-lhe na prática.
+A Segunda Seção do STJ, com a qual, de inteiro comunga esta Câmara, já "consolidou orientação que nas cédulas rurais deve ser aplicado, no mês de março de 1990, o BTN de 41,28%" (REsp 468.340 -RS, Rel. Min. Carlos Alberto Menezes Direito, j . 26/06/03) Em caso de responsabilidade contratual os juros moratórios incidem a partir da citação. Direito à repetição dos valores cobrados indevidamente, sem incidência do artigo 42 do CDC não havendo que se falar de devolução em dobro, pois a sanção neste dispositivo é aplicável mediante prova inequívoca e não mera presunção da má-fé de quem recebeu indevidamente.
+No que tange a majoração dos honorários advocatícios, não merece prosperar, pois fixados dentro dos parâmetros da razoabilidade e proporcionalidade.
+Opostos embargos de declaração, foram rejeitados.
+O mutuário interpôs recurso especial, fundamentado nas alíneas a e c do permissivo constitucional, apontando, além de dissídio jurisprudencial, violação aos arts. 165, 458, I a III, e 535, I e II, do CPC/1973 e 159, 512, 513, 964, 966 e 1.059 do CC/1916.
+Sustentou, em síntese, ter havido negativa de prestação jurisdicional por parte do Tribunal de origem. Aduziu, ainda, a necessidade de incidência de juros remuneratórios sobre o indébito na mesma taxa pactuada no contrato.
+O Tribunal de origem negou seguimento ao recurso sob os fundamentos de terem sido analisadas todas as questões suscitadas pelas partes e de incidir a Súmula 83/STJ.
+Irresignado, o recorrente apresenta agravo refutando os óbices apontados pela Corte estadual.
+Brevemente relatado, decido.
+No tocante à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão a quo resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Assinala-se que o acórdão recorrido enfrentou, de forma clara e fundamentada, as questões suscitadas pelas partes, notadamente acerca da incidência dos juros remuneratórios sobre o valor a ser devolvido, tratando-se, na verdade, de pretensão de novo julgamento das matérias.
+Desse modo, aplica-se à espécie o entendimento pacífico do STJ segundo o qual "não se configura a ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada" (REsp n. 1.638.961/RS, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 13/12/2016, DJe 02/02/2017).
+Quanto ao mérito, assinala-se que a Segunda Seção desta Corte Superior, em recurso submetido ao rito dos recursos repetitivos, sedimentou o entendimento de ser inadmissível a repetição do indébito, em contrato de mútuo, com os mesmos encargos do contrato.
+Confira-se:
+RECURSO ESPECIAL REPETITIVO. TEMA 968/STJ. DIREITO CIVIL E PROCESSUAL CIVIL. CPC/1973. NEGÓCIOS JURÍDICOS BANCÁRIOS. MÚTUO FENERATÍCIO. CRÉDITO RURAL. ATUALIZAÇÃO PELOS ÍNDICES DA POUPANÇA. IPC/BTNF DE MARÇO DE 1990. PLANO COLLOR I. REPETIÇÃO DE INDÉBITO. JUROS REMUNERATÓRIOS..
+I - DELIMITAÇÃO DA CONTROVÉRSIA: 1.1. Limitação da controvérsia à repetição de indébito em contrato de mútuo feneratício celebrado com instituição financeira.
+2 - TESE PARA OS FINS DO ART. 1.040 DO CPC/2015: 2.1. Tese aplicável a todo contrato de mútuo feneratício celebrado com instituição financeira mutuante: "Descabimento da repetição do indébito com os mesmos encargos do contrato";
+3 - CASO CONCRETO: 3.1. Existência de afetação ao rito dos repetitivos da controvérsia sobre "Ilegalidade da aplicação do IPC de março de 1990 (índice de 84,32%) na correção do saldo devedor" (Tema 653/STJ), tornando-se inviável o julgamento do caso concreto por esta SEÇÃO. 3.2. Devolução dos autos ao órgão fracionário para julgamento do caso concreto, no momento oportuno.
+4 - RECURSO ESPECIAL DEVOLVIDO À TURMA PARA JULGAMENTO DO CASO CONCRETO. (REsp 1552434/GO, Rel. Min. Paulo de Tarso Sanseverino, Terceira Turma, julgado em 13/06/2018, DJe 21/06/2018 - sem grifo no original)
+Desse modo, constata-se que o entendimento adotado pelo acórdão recorrido está em harmonia com a jurisprudência deste Tribunal de Uniformização, atraindo a incidência da Súmula 83/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
