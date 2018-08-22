@@ -1,0 +1,18 @@
+DECISÃO
+PENA – REGIME DE CUMPRIMENTO – RELEVÂNCIA.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO .
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+     O Juízo da Primeira Vara Criminal da Comarca de Divinópolis/MG, no processo nº 0153878-59.2016.8.13.0223, condenou o paciente a 3 anos, 10 meses e 20 dias de reclusão, em regime inicial semiaberto, e ao pagamento de 388 dias-multa, em virtude do cometimento da infração descrita nos artigos 33, cabeça (tráfico de drogas), combinado com o § 4º do mesmo dispositivo (causa de diminuição de pena por ser o agente primário, possuir bons antecedentes, não se dedicar a atividades delitivas nem integrar organização criminosa) e com o 40, inciso VI (causa de aumento alusiva ao envolvimento de adolescente), da Lei nº 11.343/2006. Na dosimetria, assentou desfavoráveis as circunstâncias judiciais referentes à culpabilidade, personalidade, motivos, contornos e consequências do crime, fixando a pena-base em 5 anos e 4 meses de reclusão, considerados o piso de 5 anos e o teto de 15 previstos para o tipo. Reduziu a sanção para 5 anos tendo em vista a atenuante da confissão. Fez incidir as causas de diminuição e aumento nas frações de 1/6 e 1/3, respectivamente. Substituiu a pena privativa de liberdade por duas restritivas de direitos.
+    A Primeira Câmara Criminal do Tribunal de Justiça proveu parcialmente as apelações interpostas pelo Ministério Público e pela defesa para determinar a pena-base no mínimo legal e levar em conta a causa de diminuição no patamar de 1/6, consignando a quantidade e variedade das substâncias apreendidas – total de 500 gramas de maconha, crack e cocaína. Estabeleceu a sanção definitiva em 5 anos de reclusão e 500 dias-multa. Implementou o regime fechado, aludindo à quantidade e diversidade dos entorpecentes.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 444.348/MG, indeferido liminarmente pelo Relator. Formalizado agravo interno, foi desprovido pela Sexta Turma.
+     O impetrante sustenta a inidoneidade da fundamentação do ato que implicou a imposição do regime fechado de cumprimento de pena, articulando com a ofensa ao verbete nº 719 da Súmula do Supremo. Ressalta o disposto nos artigos 33 e 59 do Código Penal, salientando a fixação da pena-base no mínimo legal e a condenação abaixo de 8 anos.
+    Requer, no campo precário e efêmero, a imposição, até o julgamento final da impetração, do regime semiaberto. No mérito, busca a confirmação da providência.
+    Em consulta ao sítio do Tribunal de Justiça, no dia 22 de agosto de 2018, constatou-se que a Primeira Câmara Criminal, no último dia 16, não acolheu os embargos declaratórios protocolados pela defesa.
+     A fase é de exame da medida acauteladora.
+    2. Percebam a disciplina legal relativa à definição do regime inicial de cumprimento de pena: norteia-o o patamar alusivo à condenação e as circunstâncias judiciais, consoante previsto no artigo 33, parágrafos 2º e 3º, do Código Penal. O Tribunal estadual, na apelação, veio a fixar a pena-base no mínimo legal. Tendo em vista a sanção imposta – 5 anos de reclusão – e a inexistência de circunstâncias judiciais negativas, fica afastado, conforme versado no mencionado preceito, o regime fechado. O quadro revela o cabimento do semiaberto.
+    3. Defiro a liminar para determinar, até o exame do mérito desta impetração, o implemento do regime semiaberto em favor de Marco Aurélio Miranda, considerada a pena imposta no processo nº 0153878-59.2016.8.13.0223, da Primeira Vara Criminal da Comarca de Divinópolis/MG.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 22 de agosto de 2018.
+Ministro MARCO AURÉLIO
+Relator
