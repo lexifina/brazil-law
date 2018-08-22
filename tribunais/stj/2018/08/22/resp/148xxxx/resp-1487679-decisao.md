@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE PERNAMBUCO, com arrimo no permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA local, assim ementado (e-STJ fl. 299):
+APELAÇÃO CÍVEL. IMPROBIDADE ADMINISTRATIVA. APELO PARCIALMENTE PROVIDO.
+1. O disposto na Súmula 208 do STJ não implica na incompetência da Justiça Estadual para conhecer e julgar a presente Ação de Improbidade, uma vez que o eventual interesse da União Federal na fiscalização da aplicação correta dos recursos do FNDE não afasta a competência do Ministério Público Estadual para controverter sobre pretensa improbidade administrativa cometida por agente público municipal, na perspectiva seja da lesão ao erário municipal, seja da vulneração aos princípios constitucionais regentes da administração pública.
+2. Rejeita-se, bem assim, a argüição de incompetência da Justiça Estadual.
+3. A jurisprudência do Superior Tribunal de Justiça tem reiteradamente assentado a aplicabilidade da LIA aos agentes políticos, inclusive Prefeitos.
+4. Restou incontroverso nos autos que o réu/apelante, nos últimos dias de sua gestão como Prefeito (precisamente em 28.12.2000), emitiu Notas de Empenho destinadas à compra de diversos itens de material escolar, no valor de R$ 14.582,20 (quatorze mil, quinhentos e oitenta e dois reais e vinte centavos).
+5. Não se visualiza qualquer prova da presença do elemento doloso na espécie (como tal a intenção deliberada e consciente de produzir dano pela má conservação do patrimônio público).
+6. Reconhece-se, no caso, apenas a presença do elemento culposo, caracterizado pela falta das cautelas necessárias (perfeitamente exigíveis do administrador mediano) no âmbito do procedimento de distribuição e armazenamento de materiais escolares em foco.
+7. Nesse cenário, cumpre adequar a dosimetria das sanções a serem aplicadas ao grau de reprovabilidade da conduta que caracteriza improbidade no caso (qual seja a negligência).
+8. No tópico, registra-se que não cabe perquirir acerca de ressarcimento ao erário (que a rigor não é sanção, mas simples restabelecimento do status quo ante), porquanto os autos não contêm elementos suficientes a comprovar a existência mesma do dano patrimonial aventado, com a respectiva quantificação.
+9. Outrossim, tem-se que o afastamento do elemento doloso exclui a condenação em perda de direitos políticos e à proibição de contratar com o poder público.
+10. Apelo parcialmente provido, em ordem a limitar a condenação imposta o réu/apelante ao pagamento de multa civil do valor de R$10.000,00 (dez mil reais), quantia a ser atualizada a partir da data deste julgamento.
+11. Decisão unânime
+Embargos de declaração foram rejeitados (e-STJ fl. 3251197)
+No especial, em que pretende a majoração da sanção imposta na origem, o MINISTÉRIO PÚBLICO/PE aponta violação do art. 12, II, da Lei n. 8.429/1992.
+Em parecer (e-STJ fls. 378/383), o Ministério Público Federal opinou pelo provimento do recurso ministerial e rejeição dos demais.
+Passo a decidir.
+Registre-se, inicialmente, que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Considerado isso, verifico que a irresignação do MP/PE destina-se à majoração da sanção imposta aos recorridos pela prática do ato ímprobo previsto no art. 11 da Lei n. 8.429/1992.
+Examinando a questão, constato que a jurisprudência de ambas as Turmas que compõem a Primeira Seção desta Corte firmou-se no sentido de que a revisão da dosimetria das sanções aplicadas em ações de improbidade administrativa implica o reexame do acervo fático-probatório, salvo se, da simples leitura do acórdão recorrido, verificar-se a desproporcionalidade entre os atos praticados e as medidas impostas (AgRg no AREsp 112.873/PR, Relatora Ministra Regina Helena Costa, Primeira Turma, DJe 17/02/2016, e AgInt no REsp 1.576.604/RN, Relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 15/04/2016).
+No presente caso, eis as razões que fundamentaram a imposição da sanção:
+Concordo, portanto, com o magistrado a quo no ponto em que imputa ao réu/apelante atuação negligente no que tange "à conservação do patrimônio público".
+Destarte, não enxergo qualquer prova da presença do elemento doloso na espécie como tal a intenção deliberada e consciente de produzir dano pela má conservação do patrimônio público).
+Em suma, reconheço, no caso, apenas a presença do elemento culposo, caracterizado pela falta das cautelas necessárias (perfeitamente exigíveis do administrador mediano) no âmbito do procedimento de distribuição e armazenamento de materiais escolares em foco.
+Note-se que o art. 10, caput, da LIA expressamente admite a improbidade na modalidade culposa, o que tem sido reiterado pela jurisprudência do Superior Tribunal de Justiça: (..)
+Nesse cenário, cumpre adequar a dosimetria das sanções a serem aplicadas ao grau de reprovabilidade da conduta que, a meu sentir, caracteriza improbidade no caso (qual seja a negligência antes mencionada).
+No tópico, registro que, a meu pensar, não cabe perquirir acerca de ressarcimento ao erário (que a rigor não é sanção, mas simples restabelecimento do status quo ante), porquanto os autos não contêm elementos suficientes a comprovar a existência mesma do dano patrimonial aventado, com a respectiva quantificação.
+Outrossim, tenho que o afastamento do elemento doloso exclui a condenação em perda de direitos políticos e à proibição de contratar com o poder público.
+Por isso, ao tempo em que reconheço a prática de ato de improbidade por parte do réu/apelante, nos moldes do art. 10, X, segunda figura, condeno-o ao pagamento da multa civil que fixo no valor de R$ 10.000,00 (dez mil reais), quantia esta a ser monetariamente atualizada a partir da data deste julgamento. (e-STJ fls. 293/294).
+Analisando a fundamentação supra, verifico que a pena foi fixada dentro de um juízo de proporcionalidade, levando em conta a extensão do dano e o proveito patrimonial obtido pelo agente ímprobo, o que inviabiliza qualquer reproche a ser realizado na via excepcional, sendo certo, por fim, consoante bem apontado no parecer ministerial, que o afastamento da suspensão dos direitos políticos e a proibição de contratar com o poder público não decorreu do reconhecimento da prática culposa da conduta, mas em razão da revisão da dosimetria levada a efeito na origem.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
