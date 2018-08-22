@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da incidência da Súmula n. 7 do STJ e da ausência de omissão no acórdão recorrido.
+O acórdão recorrido está assim ementado (e-STJ fl. 523):
+APELAÇÃO - AÇÃO DE COBRANÇA  SEGURO FACULTATIVO DE VEÍCULO - Alegação de roubo do veículo segurado enquanto o cunhado do autor passava por São Paulo - Declaração da Polícia Rodoviária Federal de que o automóvel teria passado por Bataguassú/MS três dias antes do sinistro - Condutores do veículo que teriam regressado de Corumbá/MS de ônibus - Boletim de ocorrência que tem presunção relativa de veracidade - Sinistro não demonstrado Contestadas as circunstâncias do crime pela ré, cabia ao autor a demonstração da veracidade de suas alegações Requerente que não se desincumbiu do ônus de que trata o art. 333, I, CPC Inversão do ônus da prova não tem aplicação absoluta - Indevida a indenização securitária, bem como a reparação dos alegados danos morais causados pela recusa da seguradora - Sentença reformada - Inversão dos ônus de sucumbência Recurso provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 549/553).
+Nas razões do recurso especial (e-STJ fls. 556/600), interposto com fundamento no art. 105, III, "a" e "c", da CF, o recorrente alegou, além de divergência jurisprudencial, ofensa aos arts. 6º, III, IV e V, 46, 47, 51, IV, e 54 do CDC e 333, II, do CPC/1973, argumentando, em síntese, que faz jus à indenização securitária, pois a seguradora não teria demonstrado a má-fé ou o dolo do contratante, além de não lhe ter informado sobre as restrições de cobertura.
+Suscitou ainda afronta ao art. 535 do CPC/1973, pois o TJSP não teria se manifestado quanto às alegadas violações de lei, sendo, portanto, omisso o acórdão recorrido.
+No agravo (e-STJ fls. 298/306), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+O recurso foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 2/STJ).
+Inexiste ofensa ao art. 535 do CPC/1973, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há falar em omissão quando os fundamentos usados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu na presente demanda.
+O Tribunal de origem entendeu que o recorrente não teria direito à cobertura securitária, pois não comprovou a ocorrência do sinistro, fato constitutivo da sua pretensão. Afirma-se, no acórdão recorrido, que há prova documental nos autos, não refutada pelo recorrente, de que o veículo supostamente roubado no Estado de São Paulo teria passado pelo Estado de Mato Grosso do Sul três dias antes do alegado sinistro, tendo seu condutor, posteriormente, voltado para o Estado do Paraná de ônibus (e-STJ fls. 527/529).
+Esse fundamento não foi impugnado especificamente pela recorrente, o que atrai o óbice da Súmula n. 283 do STF.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
