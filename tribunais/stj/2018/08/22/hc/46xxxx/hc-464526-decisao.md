@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foi condenado, como incurso nas sanções do art. 33, caput, e § 4º, da Lei n. 11.343/2006, à pena de 2 anos e 6 meses de reclusão, em regime inicial fechado.
+A apelação interposta pela defesa foi desprovida pelo Tribunal de origem nos termos da seguinte ementa (e-STJ fl. 37):
+TRÁFICO DE ENTORPECENTES - PRELIMINAR. Cerceamento de defesa decorrente da inversão da ordem de inquirição das testemunhas após o interrogatório do réu. Princípio da especialidade. Regramento próprio previsto pela Lei nº 11.343/06. Prejuízo não evidenciado  Rejeição. MÉRITO - Configuração. Materialidade e autoria demonstradas. Depoimentos dos policiais militares em harmonia com o conjunto probatório. Negativa do réu isolada - Apreensão de razoável quantidade e variedade de entorpecentes (52 porções de maconha, com peso de 99,9 gramas; 146 porções de cocaína, com peso de 250 gramas; e, 182 pedras de crack, com peso de 67,46 gramas) - Desclassificação para uso próprio. Impossibilidade - Condenação mantida.
+PENAS e REGIME DE CUMPRIMENTO - Penas mantidas - Bases fixadas nos mínimos - Redutor do § 4º do artigo 33 da Lei nº 11.343/06. Coeficiente mantido. Ausência de recurso do Ministério Público, vedada a reformatio in pejus  Regime inicial fechado para o tráfico que observou os princípios da individualização e da suficiência. Necessidade  Inviável a substituição da pena privativa de liberdade por restritiva de direitos (CP, artigo 44, III) ou a concessão de sursis (CP, artigo 77)  Perdimento dos valores e objetos apreendidos em favor da União - Apelo desprovido - Expedição de mandado de prisão.
+No presente habeas corpus, sustenta a impetrante que "o acusado, em juízo, foi interrogado antes da oitiva das testemunhas de acusação. Com isso, o devido processo legal não foi respeitado, o que gera vício insanável no processo, e implica em sua anulação desde a audiência de instrução e na consequente expedição do alvárá de soltura" (e-STJ fl. 4).
+Diante dessas considerações, requer "a concessão da liminar para determinar a suspensão dos efeitos da sentença, e, ao final, postula que seja concedida a ordem de Habeas Corpus, para anular o processo a partir da audiência de instrução, com a confirmação da liminar" (e-STJ fl. 16).
+É, em síntese, o relatório.
+A liminar em habeas corpus, bem como em recurso ordinário em habeas corpus, não possui previsão legal, tratando-se de criação jurisprudencial que visa minorar os efeitos de eventual ilegalidade que se revele de pronto.
+Em juízo de cognição sumária, não visualizo manifesta ilegalidade no ato ora impugnado a justificar o deferimento da medida de urgência.
+Não obstante os fundamentos apresentados pela defesa, mostra-se imprescindível uma análise mais aprofundada dos elementos de convicção constantes dos autos para se verificar a existência de constrangimento ilegal.
+Ante o exposto, indefiro a liminar.
+Solicitem-se informações ao Tribunal a quo e ao Juízo de primeiro grau, ressaltando-se que esta Corte Superior deverá ser noticiada de qualquer alteração no quadro fático atinente ao tema objeto deste feito.
+Requeira-se, ainda, senha para acesso aos andamentos processuais constantes do respectivo portal eletrônico, tendo em vista a restrição determinada pela Resolução n. 121 do CNJ.
+Após, dê-se vista dos autos ao Ministério Público Federal.
+Publique-se. Intimem-se.
