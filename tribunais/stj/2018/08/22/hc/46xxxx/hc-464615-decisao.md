@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina.
+Depreende-se dos autos que o paciente foi condenado, como incurso nas sanções do art. 121, § 2º, I e IV, do Código Penal, à pena de 12 anos, 10 meses e 20 dias de reclusão, a ser cumprida em regime inicial fechado.
+A apelação interposta pela defesa foi desprovida nos temos da seguinte ementa (e-STJ fls. 685/686):
+APELAÇÕES CRIMINAIS. TRIBUNAL DO JÚRI. TENTATIVA DE HOMICÍDIO DUPLAMENTE QUALIFICADO PELO MOTIVO FÚTIL E RECURSO QUE DIFICULTOU A DEFESA DO OFENDIDO (ART. 121, § 2.º, I E IV, C/C O ART. 14, II, AMBOS DO CÓDIGO PENAL) E PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO (ART. 14 DA LEI 10.826/2003). SENTENÇA CONDENATORIA. RECURSOS EXCLUSIVOS DAS DEFESAS. PEDIDO DE NULIDADE DO JULGAMENTO, NULIDADE DOS QUESITOS REFERENTES AO DELITO DE PORTE ILEGAL DE ARMA DE FOGO, ABSORÇÃO DESTE DELITO PELO CRIME DE HOMICÍDIO, RECONHECIMENTO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA COMPENSANDO-A COM A AGRAVANTE DE MOTIVO TORPE, APLICAÇÃO EM GRAU MÁXIMO DA REDUTORA DA TENTATIVA, PREQUESTIONAMENTO DOS ARTIGOS E PRINCÍPIOS MENCIONADOS NAS RAZÕES E CONDENAÇÃO DOS ADVOGADOS CONSTITUÍDOS AO PAGAMENTO DE MULTA. RECURSOS CONHECIDOS E DESPROVIDOS.
+1. DA DECISÃO DOS JURADOS. Só haverá novo julgamento do acusado pelo Tribunal do Júri quando a decisão dos jurados for diametralmente oposta às provas coligidas nos autos, não havendo falar em nulidade quando é acolhida uma das teses apresentadas no processo (prática dos crimes de homicídio duplamente qualificado e porte ilegal de arma de fogo), mormente quando tal versão é confirmada pelas provas orais e documentais produzidas nos autos.
+2. DA QUESITAÇÃO REFERENTE AO DELITO DE PORTE ILEGAL DE ARMA DE FOGO. Não arguida a nulidade no momento oportuno, qual seja, logo após a leitura dos quesitos e sua explicação pelo Juiz Presidente (art. 571, VIII, do Código de Processo Penal), inviável o seu reconhecimento em apelação (principalmente se a Defesa não demonstra qualquer prejuízo, as provas dos autos indicam a prática do delito e a quesitação não apresenta qualquer dubiedade).
+3. DO PEDIDO DE RECONHECIMENTO DA ATENUANTE DA CONFISSÃO. Ausente nos debates a circunstância atenuante da confissão, não é possível ao Juiz considerá-la, ex vi o art. 492, I, "b", do Código de Processo
+Penal.
+4. DA FRAÇÃO APLICADA PELO RECONHECIMENTO DO CRIME TENTADO. Deverá ser diminuída a pena do crime, em seu grau mínimo, quando a consumação do delito é quase atingida (o ofendido foi alvejado cinco vezes por arma de fogo), só não ocorrendo a morte em virtude do pronto e eficiente atendimento prestado â vítima.
+5. DO PLEITO DE PREQUESTIONAMENTO. O Magistrado não é obrigado a se manifestar sobre todos os dispositivos invocados pela parte, quando, de forma fundamentada, resolve a lide.
+6. DO PEDIDO DE APLICAÇÃO DE MULTA AOS ADVOGADOS CONSTITUÍDOS. Não se aplica pena de multa prevista no art. 265 do Código de Processo Penal (abandono do processo) quando não há prévia intimação dos causídicos para se manifestarem acerca da desídia, sob pena de malferir os princípios da ampla defesa e do contraditório.
+Daí o presente writ, no qual alega a impetrante que deve ser reconhecida a existência de nulidade absoluta na ação penal a que se submete o paciente, em virtude de erro insanável na quesitação aos jurados.
+Aduz, outrossim, que, "na segunda fase da dosimetria penal, a Magistrada de origem não reconheceu a confissão espontânea do Paciente, embora este tenha afirmado no interrogatório realizado em plenário que disparou várias vezes contra a vítima" (e-STJ fl. 8).
+Requer, liminarmente, a suspensão dos efeitos da condenação até o julgamento final deste habeas corpus.
+No mérito, pleiteia "seja DECLARADA a ilegalidade do acórdão impugnado, para (a) anular a sentença condenatória ou, no mérito, (b) reconhecer a confissão qualificada" (e-STJ fl. 11).
+É, em síntese, o relatório.
+A liminar em habeas corpus, bem como em recurso ordinário em habeas corpus, não possui previsão legal, tratando-se de criação jurisprudencial que visa a minorar os efeitos de eventual ilegalidade que se revele de pronto.
+Em juízo de cognição sumária, não visualizo manifesta ilegalidade no ato ora impugnado a justificar o deferimento da medida de urgência.
+Desse modo, não obstante os fundamentos apresentados pela defesa, mostra-se imprescindível uma análise mais aprofundada dos elementos de convicção constantes dos autos, para se aferir a existência de constrangimento ilegal.
+Ante o exposto, indefiro a liminar.
+Dispensadas as informações, requeira-se a senha para acesso aos andamentos processuais constantes do respectivo portal eletrônico, tendo em vista a restrição determinada pela Resolução n. 121 do CNJ.
+Após, encaminhem-se os autos ao Ministério Público Federal.
+Publique-se. Intimem-se.
