@@ -1,0 +1,33 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). AUSÊNCIA DE PREQUESTIONAMENTO MESMO APÓS A OPOSIÇÃO DOS EMBARGOS DE DECLARAÇÃO. SÚMULA 211/STJ. ALEGADA OFENSA AO ART. 6º DA LINDB. VIOLAÇÃO AO ATO JURÍDICO PERFEITO. INSTITUTO DE NATUREZA CONSTITUCIONAL. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto pela IRCONSO MATERIAIS PARA CONSTRUCOES LTDA - ME contra decisão do Tribunal de Justiça do Estado de São Paulo que negou seguimento ao recurso especial fundado na alínea "a" do inciso III do art. 105 da Constituição Federal, manejado em face de acórdão cuja ementa está assim redigida:
+"AGRAVO DE INSTRUMENTO AÇÃO DE ARBITRAMENTO DE ALUGUÉIS INSURGÊNCIA CONTRA DECISÃO QUE DETERMINOU O ARRESTO DE VALORES DEPOSITADOS EM OUTROS AUTOS PRESENÇA DOS REQUISITOS AUTORIZADORES DA MEDIDA INTELIGENCIA DOS ARTIGOS 300 E 301, AMBOS DO NCPC DECISÃO AGRAVADA MANTIDA RECURSO DESPROVIDO." (e-STJ fl. 953).
+Opostos embargos de declaração, esses foram rejeitados (e-STJ fl. 963).
+Em sede de recurso especial, a empresa recorrente alega, essencialmente, o malferimento dos artigos 188, 369, 1219 do Código Civil/2002; 6.º da Lei de Introdução às Normas do Direito Brasileiro e 502 do Código de Processo Civil/2015 irresignada com a decisão que, em ação de arbitramento de aluguéis, concedeu tutela antecipada para determinar o arresto de importâncias depositadas em outros juízos, indo contra a coisa julgada e violando direito líquido e certo da recorrente garantido por decisão judicial já transitada em julgado.
+Contrarrazões ao recurso especial às e-STJ fls. 1022/1026.
+Nas razões do agravo, a agravante infirmou especificamente os fundamentos da decisão que inadmitiu o recurso especial (e-STJ fls. 1033/1067).
+É o relatório.
+Passo a decidir.
+Não merece guarida a pretensão recursal.
+Conforme consta do relatório do aresto reclamado, a parte aqui recorrente manejou agravo de instrumento "nos autos da ação de arbitramento de aluguéis c.c. pedido de compensação, contra a r. decisão  ..  que concedeu a tutela antecipada para oficiar aos Juízos da 1ª e 2ª Varas Cíveis do Foro Regional de Itaquera, determinando que o numerário lá constante fosse arrestado em favor do autor deste feito (ora recorrido), sem possibilidade de levantamento pelas requeridas" (e-STJ fl. 953).
+A Corte local analisou a controvérsia sob o seguinte enfoque:
+"Com efeito, de acordo com o artigo 301, do Código de Processo Civil atual, o arresto pode ser concedido como tutela de urgência cautelar, estando tal medida condicionada ao preenchimento dos requisitos gerais da tutela de urgência previstos no artigo 300, do mesmo diploma legal.
+Nesse contexto, admite-se a cautelar desde que esteja presente a aparência de bom direito, bem como o perigo na demora.
+No caso dos autos, a controvérsia cinge-se no fato da agravante ter sublocado o imóvel durante o exercício do seu direito de retenção por benfeitorias.
+Ora, embora reconhecido o direito da locatária à retenção do imóvel pelas benfeitorias realizadas, é certo que isso não lhe conferia o privilégio de perceber os frutos do bem, pois reter uma coisa não equivale a servir-se dela.
+Portanto, tem-se que o uso da coisa retida constitui abuso, gerando o dever de indenizar os prejuízos como se aluguel houvesse.
+Ademais, como bem asseverou o MM. Juiz a quo (fls. 65/66), há dificuldade em relação ao conhecimento do endereço correto da agravante, confira-se:
+"Todavia, embora tenham direito ao levantamento de valores, usam de expediente para tentar levantar o dinheiro sem fornecer seu correto endereço, aspecto já anotado por aquele Juízo. Várias foram as diligências realizadas para tentar localizá-las, sem sucesso. Tudo indica, portanto, que se levantarem o dinheiro o autor nunca terá como ressarci-las pelas benfeitorias necessárias, muito embora nestes autos haja inegável verossimilhança de que ambas deverão pagar valores expressivos ao autor, que servirão como compensação para os aluguéis (ou indenização) pretendidos nestes autos, talvez até com algum crédito em favor do autor.
+Por outro lado, não há perigo de irreversibilidade da medida, porque o valor bloqueado não será levantado pelo autor e sim permanecerá à disposição do Juízo, até que se forme o contraditório e seja prolatada sentença em que os eventuais créditos sejam apurados e compensados." Sic
+Assim, considerando a razoabilidade nas alegações do autor, ora agravado, bem como a existência de elementos que evidenciam a probabilidade do direito e o risco ao resultado útil do processo, de rigor a manutenção da decisão agravada." (e-STJ fl. 954, grifei).
+Os embargos de declaração opostos foram rejeitados.
+Nesse contexto, extraio que, sobre a tese de que a decisão que concedeu a tutela antecipada malferiu a coisa julgada e o direito líquido, vinculada à violação dos referidos dispositivos de lei federal, não houve emissão de juízo pelo acórdão recorrido, mesmo após a oposição dos embargos de declaração, fazendo incidir a orientação disposta na Súmula 211/STJ, a teor de que: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Ademais, quanto à alegada violação do art. 6º da LINDB (antiga LICC), a questão não pode ser apreciada por esta Casa, já que o tema atinente à garantia do ato jurídico perfeito reveste-se de índole constitucional, pois consagrada no art. 5º, XXXVI, da Constituição Federal.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO REGIMENTAL NÃO PROVIDO. REVISÃO CONTRATUAL.  .. . VIOLAÇÃO AO ATO JURÍDICO PERFEITO. MATÉRIA CONSTITUCIONAL. PRINCÍPIO DO PACTA SUNT SERVANDA. MITIGAÇÃO.  .. . RECURSO NEGADO. 1.  .. . 2. A matéria do art. 6º, caput e § 1º, da LICC, possui índole constitucional, motivo pelo qual é vedada sua análise em sede de recurso especial. Precedentes. 3. É permitida a revisão das cláusulas contratuais pactuadas, diante do fato de que o princípio do pacta sunt servanda vem sofrendo mitigações, mormente ante os princípios da boa-fé objetiva, da função social dos contratos e do dirigismo contratual. 4.  .. . 5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 433.536/RS, Rel. Ministro Raul Araújo, QUARTA TURMA, julgado em 28/04/2015, DJe 18/05/2015)
+Ante o exposto, com base no art. 253, parágrafo único, II, "b" do RISTJ, conheço do agravo para NEGAR PROVIMENTO ao recurso especial.
+Deixo de majorar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015 tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento, contra decisão na qual não houve prévia fixação de honorários.
+Intimem-se.
