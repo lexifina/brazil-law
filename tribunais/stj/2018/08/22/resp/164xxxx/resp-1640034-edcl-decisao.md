@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por SUL AMERICA COMPANHIA NACIONAL DE SEGUROS contra decisão deste Relator que deu parcial provimento ao recurso especial apresentado por [NOME] e outros, determinando o retorno dos autos à origem para que o prazo prescricional seja analisado com base na jurisprudência do STJ.
+Em suas razões, a parte embargante aponta omissão na referida decisão, por ter deixado de examinar: (i) a incidência, no caso em exame, da Súmula 7/STJ, relativamente ao "momento do início do marco prescricional"; (ii) a ausência de indicação pela recorrente, na petição do recurso especial, do dispositivo de lei federal violado.
+Impugnação apresentada pela parte embargada.
+É o relatório. Decido.
+Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+In casu, inexistem as omissões apontadas nos declaratórios.
+Em primeiro lugar, o provimento parcial do recurso especial, para que o Tribunal de origem examine o implemento do prazo prescricional ânuo na ação ajuizada por mutuário em desfavor de seguradora, visando à cobertura de sinistro referente a contrato de mútuo celebrado no âmbito do Sistema Financeiro da Habitação, foi dado de forma fundamentada e em conformidade com a jurisprudência atual do Superior Tribunal de Justiça.
+Eis os fundamentos da decisão ora hostilizada, no ponto:
+ Por fim, no tocante à prescrição, a Corte de origem decidiu a controvérsia em dissonância com a jurisprudência desta Corte Superior.
+ De um lado, a linha da atual orientação jurisprudencial desta Corte é no sentido de que se aplica o prazo prescricional anual às ações ajuizadas por segurado/mutuário em desfavor de seguradora, visando à cobertura de sinistro referente a contrato de mútuo celebrado no âmbito do Sistema Financeiro da Habitação.
+ (..)
+ De outro lado, o Superior Tribunal de Justiça consagra o entendimento de que os danos decorrentes de vício da construção se protraem no tempo e, por isso, não permitem a fixação de um marco temporal certo, a partir do qual se possa contar, com segurança, o termo inicial do prazo prescricional para a ação indenizatória correspondente a ser intentada contra a seguradora.
+ Dessa forma, considera-se irrompida a pretensão do beneficiário do seguro apenas no momento em que, comunicado o fato à seguradora, esta se recusa a indenizar.
+ (..)
+ Diante do exposto, dou parcial provimento ao recurso especial, determinando o retorno dos autos à origem para que o prazo prescricional seja analisado com base na jurisprudência do STJ.
+Ademais, cumpre salientar que, ao contrário do alegado pela parte ora embargante, foi observado o enunciado 7 da Súmula do STJ na decisão impugnada, sobretudo porque esta Corte de Justiça, ao dar provimento ao especial, determinando que o Tribunal de origem analise se houve, ou não, o implemento do aludido prazo prescricional, evitou justamente que houvesse, no julgamento do recurso, a ingerência indevida no acervo fático-probatório dos autos, o que, como sabido, é vedado nesta sede.
+Em segundo lugar, acrescento que, no tópico relativo à prescrição, o recurso especial foi interposto com fundamento na alínea c do permissivo constitucional, tendo os recorrentes alegado a existência de divergência jurisprudencial com base nos arts. 206 do Código Civil de 2002 e 177 e 189 do Código Civil de 1916 e nas Súmulas 101 e 229 do STJ. Assim, não há a alegada deficiência na fundamentação.
+Desse modo, está nítido o propósito da parte embargante de rediscutir temas que foram devidamente apreciados, o que, contudo, não é cabível na via estreita dos embargos de declaração. Isso porque os aclaratórios constituem recurso de estritos limites processuais cujo cabimento requer estejam presentes os pressupostos legais insertos no art. 1.022 do Código de Processo Civil de 2015. Tal recurso, portanto, é incompatível com a pretensão de se obter efeitos infringentes.
+Diante do exposto, rejeitam-se os embargos declaratórios.
+Publique-se.
