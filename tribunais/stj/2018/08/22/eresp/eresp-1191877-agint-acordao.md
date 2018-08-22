@@ -1,0 +1,79 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. RECURSO INTEMPESTIVO. INTERPOSIÇÃO ALÉM DO PRAZO LEGAL. ART. 1.070 DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO.
+I. Agravo interno aviado contra decisão monocrática publicada em 21/05/2018, que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. A decisão, objeto deste Agravo interno, foi disponibilizada em 18/05/2018 (sexta-feira), no Diário de Justiça eletrônico, considerando-se publicada em 21/05/2018 (segunda-feira), e o presente recurso foi interposto em 13/06/2018, quando já escoado o prazo legal, em 12/06/2018.
+III. Descumprido, portanto, o prazo de quinze dias úteis, para a interposição do Agravo interno, previsto no art. 1.070 do Código de Processo Civil vigente, inviável a análise dos argumentos recursais, uma vez que não preenchido um dos requisitos extrínsecos de sua admissibilidade.
+IV. Agravo interno não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Seção do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo interno, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria, Herman Benjamin, Napoleão Nunes Maia Filho, Og Fernandes e Benedito Gonçalves votaram com a Sra. Ministra Relatora.
+Ausente, ocasionalmente, o Sr. Ministro Francisco Falcão.
+RELATÓRIO
+MINISTRA ASSUSETE MAGALHÃES: Trata-se de Agravo interno, interposto pelo ESPÓLIO DE [NOME] CORREA ROSA, em 13/06/2018, contra decisão de minha lavra, publicada em 21/05/2018, assim fundamentada, in verbis:
+"Trata-se de Embargos de Divergência, interpostos por [NOME], representado por MARIA DE FÁTIMA ROSA - INVENTARIANTE, em 09/04/2018, contra acórdão da Primeira Turma do STJ (relator para o acórdão, Ministro SÉRGIO KUKINA), que negou provimento ao Agravo Interno interposto pelo recorrente, para manter a decisão que não conheceu do Recurso Especial, conforme ementa abaixo transcrita:
+"ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. VIOLAÇÃO DO ART. 8º DO ATO INSTITUCIONAL Nº 5/68. EXTRAPOLADA A ESTREITA VIA DO RECURSO ESPECIAL. DECRETO Nº 88.179/83 NÃO VEICULA REGRA DE CUNHO PRESCRICIONAL. SÚMULA 284/STF. LITISPENDÊNCIA. NEXO DE CAUSALIDADE. REVOLVIMENTO DE MATÉRIA FÁTICA IMPOSSIBILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA ENTRE ACÓRDÃO DO MESMO TRIBUNAL. SÚMULA 13/STJ.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284/STF.
+2. O Superior Tribunal de Justiça, no âmbito do especial, deve velar pela uniformização da aplicação da legislação federal infraconstitucional, razão pela qual não se conhece do recurso quando se aponta violação de dispositivo do Ato Institucional nº 5/68, haja vista que referida norma se inclui na competência do Supremo Tribunal Federal, conforme art. 102, inciso III, da Carta Magna.
+3. O Decreto nº 88.179/83 não veicula regra de cunho prescricional, de forma que o referido ato não contém comando capaz de sustentar a tese recursal e infirmar o juízo formulado pelo acórdão recorrido, de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF.
+3. No caso em exame, para se chegar a conclusão diversa da adotada pelo órgão julgador de origem quanto à configuração da litispendência, seria necessário o revolvimento do conjunto fático-probatório, providência vedada pela Súmula 7/STJ.
+4. O Tribunal de origem, com base nas provas dos autos, consignou não estar evidenciado o nexo de causalidade entre a conduta dos agentes da CEF e o alegado dano suportado pelo de cujus. Revisar tal entendimento, também, esbarra no óbice contido na Súmula 7/STJ.
+5. De acordo com a Súmula 13/STJ, a divergência entre julgados do mesmo tribunal não enseja recurso especial.
+6. Agravo interno a que se nega provimento" (fls. 507/508e).
+Nos Embargos de Divergência, a parte recorrente aponta divergência com acórdão da Segunda Turma do STJ, no AgRg no REsp 929.476-G (Rel. Ministro Herman Benjamin), ao fundamento de que o acórdão embargado "manteve o entendimento do tribunal a Quo que, com base nas provas dos autos consignou não estar evidenciado o nexo de causalidade entre a conduta dos agentes da CEF e o alegado dano suportado pelo De cujus" (fl. 537e), enquanto que o julgado paradigma decidiu "de forma diversa, mantendo a Caixa no polo passivo da demanda" (fl. 537e).
+Afirma que "em ambos os casos a discussão é uma só: a responsabilidade da CEF nos atos confiscatórios contra [NOME] e [NOME]. Aqui, a CEF foi excluída do polo passivo da demanda e no julgado acima transcrito esta mesma Segunda Turma entendeu ser a CEF responsável pelos atos confiscatórios devendo ser mantida no polo passivo" (fl. 538e).
+Indica divergência também entre o acórdão ora embargado e decisão da Primeira Turma, no AG 123.779/GO, "autuado em 24/09/1996, sendo partes o espólio de [NOME] e União, sendo interessada onde ficou discutida a mesma matéria e considerada a Caixa Econômica Federal corresponsável pelos atos confiscatórios, sendo relator o eminente ministro [NOME]" (fl. 538e).
+Ao final, requer que os Embargos de Divergência "sejam recebidos e, regularmente, processados, conhecidos e providos para que prevaleça a tese dos acórdãos paradigmas para que a empresa Embargada seja reincluída no polo passivo da demanda, portanto, o acórdão recorrido e restabelecendo a sentença de primeiro grau, na sua totalidade" (fl. 540e).
+Os Embargos de Divergência devem ser liminarmente indeferidos.
+De início, inadmissível a divergência apontada entre o acórdão embargado e decisão monocrática do Ministro Humberto [NOME] de [NOME], no Ag 123.779/GO. Nesse sentido:
+(..)
+No que diz com o acórdão da Segunda Turma, observa-se que os julgados confrontados carecem de similitude fático-jurídica, posto que o acórdão embargado limitou-se a decidir que "o Tribunal de origem, com base nas provas dos autos, consignou não estar evidenciado o nexo de causalidade entre a conduta dos agentes da CEF e o alegado dano suportado pelo de cujus" (fl. 507e), enquanto que o acórdão apontado como paradigma decidiu que a Caixa Econômica Federal não demonstrou a similitude fática entre os julgados apontados como divergentes no Recurso Especial interposto com esteio na alínea "c" do permissivo constitucional.
+Assim, os julgados confrontados decidiram a controvérsia sob enfoques jurídicos distintos, o que impede o reconhecimento da similitude fático-jurídica, necessário ao conhecimento dos Embargos de Divergência.
+Nesse sentido, já decidiu a Corte Especial do STJ, in verbis:
+(..)
+Ademais, é firme o entendimento no âmbito da Corte Especial do STJ, no sentido de que, diante da natureza uniformizadora da jurisprudência interna, não cabe a oposição de Embargos de Divergência com o objetivo de discutir o acerto ou desacerto na aplicação de regra técnica de admissibilidade do recurso especial, como naqueles casos em que o acórdão embargado obsta o exame da controvérsia com base na Súmula 7/STJ.
+Nesse sentido:
+(..)
+Com efeito, no caso concreto, ao proferir o acórdão embargado, a Primeira Turma do STJ manteve a decisão monocrática do Ministro Relator, que negou seguimento ao Recurso Especial, por considerar incidente, na espécie, a Súmula 7/STJ.
+Assim, revela-se incabível a oposição dos presentes Embargos de Divergência, por não ser a via apropriada para discutir eventual equívoco quanto ao exame dos requisitos de admissibilidade do Recurso Especial.
+Nesse sentido, assim já decidiu a Primeira Seção no julgamento de feitos análogos ao presente, in verbis:
+(..)
+Ante o exposto, com fundamento no art. 932, III, do CPC/2015, c/c os arts. 34, XVIII, a, e 266-C do Regimento Interno do STJ, indefiro liminarmente os Embargos de Divergência" (fls. 561/571e).
+Inconformada, sustenta a parte agravante que:
+"6.- Malgrado as percucientes e bem colocadas razões lançadas pela eminente ministra Relatora, não se pode negar que a decisão agravada não se sustenta, merecendo uma análise mais acurada na qual seja afugentados os demônios da Súmula 7, segundo a qual não se pode perquirir prova.
+7.- A eminente ministra Relatora, com certeza, deve se recordar de seu tempo como desembargadora do Tribunal Federal de Recursos da 1ª Região, quando na turma negou provimento ao recurso interposto por [NOME] que afirmava a responsabilidade da empresa Caixa Econômica Federal no episódio que levou a União a decretar o confisco de seus bens, juntamente com os bens de [NOME] e de [NOME], em decorrência de alcance por eles praticados quando administradores da Caixa Econômica Federal de Goiás.
+Mas que voltou atrás e refluiu de seu posicionamento e seguiu o voto do relator, conforme pode se conferido linhas abaixo. A origem de tudo é o Decreto de 11 de Junho de 1969 pelo qual o Ministro da Fazenda autoriza a intervenção na Caixa Econômica Federal de Goiás, a pedido do Conselho Superior das Caixas Econômicas, conforme pode ser conferido abaixo, in verbis:
+(..)
+8.- Outro fato importante é a edição do Decreto n. 88.179, de 14 de Março de 1983, que comprova a igualdade de situações entre [NOME] e [NOME], mas que tiveram julgados divergentes entre as Colendas Turmas deste e. Tribunal, conforme pode ser conferido abaixo, in verbis:
+"Declara insubsistentes os decretos ns. 65.549 e 65.552, de 21 de Outubro de 1969, que dispõem sobre o confisco e a incorporação ao patrimônio da Caixa Econômica Federal de Goiás, respectivamente, dos bens pertencentes a [NOME] ROSA e [NOME] e dá outras providências."
+9.- Pelos decretos acima transcritos, está comprovado que tanto [NOME] quanto [NOME] foram confiscados pela União e ambos entraram na Justiça para verem cumprido o decreto n. 88.179/1983, indicando a Caixa Econômica Federal como responsável pelos danos sofridos com o afastamento da diretoria da Caixa Econômica Federal de Goiás e, mais ainda, com o confisco dos seus bens.
+10.-Não se pode, portanto, entender de maneira diferente situações iguais posto que originárias do mesmo fato jurídico, ou seja, não é possível que a Caixa seja a causa eficiente em um caso e no outro não o seja. Assim, não é possível que uma Turma deste e. Tribunal julgue de maneiras diferentes os fatos jurídicos iguais.
+11.- Na decisão agravada a eminente ministra relatora, infelizmente, não se lembra, mas manteve o entendimento do tribunal a quo que, segundo o referido julgado, isso se deu com base nas provas dos autos, mas deveria ter se recordado que ao julgar os embargos infringentes - EAC 95.01.09085-0/DF (AC n. 93.01.17534-7/GO), interpostos por [NOME] junto ao Tribunal Regional Federal da 1ª Região, a eminente Relatora, onde era desembargadora, proferiu o seguinte voto, in verbis:
+(..)
+12.- Isso se deu em 30/08/95, não é possível que a eminente magistrada tenha mudado de entendimento neste momento. Não há necessidade de revolver provas, basta buscar no Tribunal a Quo toda a verdade fática. Não há provas a serem revolvidas. O que se deve fazer, pensa o Recorrente, é atualizar a memória pessoal e verificar que esta matéria já foi ponto de análise e julgamento por Vossa Excelência, merecendo um cuidado especial ao tratar da mesma matéria.
+13.- Esta é uma matéria pacífica no Tribunal Regional Federal da 1ª Região, como pode ser conferido pela leitura da ementa do acórdão abaixo transcrita, in verbis:
+(..)
+14.- Não há qualquer afronta à Súmula 7 deste Colendo Tribunal, pois não há necessidade de revolver provas. Basta a leitura, mesmo que superficial das normas para se chegar a esta conclusão: Decreto s/n 11 de junho de 1969, da Presidência da República, dos Decretos de Confisco de n.s 65.522, 65.523, 65.524 e Decreto 88.179/83, além do julgado do Tribunal Regional Federal da 1ª Região cujo acórdão e trechos do referido julgamento estão acima transcritos" (fls. 582/586e).
+Por fim, requer "que este seu recurso seja recebido e, regularmente, processado, conhecido e provido para dar como parte legítima no polo passivo desta ação a Caixa Econômica Federal reformando, por consequência, o acórdão recorrido e restabelecendo a sentença de primeiro grau, na sua integralidade" (fl. 586e).
+Impugnação da parte agravada, a fls. 590/592e, pelo improvimento do recurso.
+É o relatório.
+VOTO
+MINISTRA ASSUSETE MAGALHÃES (Relatora): O presente recurso não deve ser conhecido, por ser manifestamente intempestivo.
+De início, a respeito da vigência do novel diploma processual, é importante ressaltar que, observando o disposto na Lei 810/49 e na Lei Complementar 95/98, o Plenário do Superior Tribunal de Justiça, na sessão realizada dia 02/03/2016 (Ata de Julgamento publicada em 08/03/2016), por unanimidade, aprovou o Enunciado Administrativo 1, firmando a posição de que a vigência do novo Código de Processo Civil, instituído pela Lei 13.105, de 16 de março de 2015, iniciou-se em 18 de março de 2016.
+De igual modo, na sessão realizada em 09/03/2016, em homenagem ao princípio tempus regit actum - inerente aos comandos processuais -, o Plenário do STJ também sedimentou o entendimento de que a lei a reger o recurso cabível e a forma de sua interposição é aquela vigente à data da publicação da decisão impugnada, ocasião em que o sucumbente tem a ciência exata dos fundamentos do provimento jurisdicional que pretende combater.
+Tal entendimento restou assim firmado:
+"Enunciado Administrativo nº 3: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No caso, a decisão agravada foi publicada em 21/05/2018, devendo ser observados os requisitos de admissibilidade recursal de acordo com o CPC/2015.
+Dentre as disposições gerais sobre prazos processuais, são relevantes, para o julgamento do presente recurso, os arts. 1.003 e 1.070 do CPC vigente:
+"Art. 1.003. O prazo para interposição de recurso conta-se da data em que os advogados, a sociedade de advogados, a Advocacia Pública, a Defensoria Pública ou o Ministério Público são intimados da decisão.
+(..)
+§ 5º. Excetuados os embargos de declaração, o prazo para interpor os recursos e para responder-lhes é de 15 (quinze) dias.
+§ 6º. O recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+"Art. 1.070. É de 15 (quinze) dias o prazo para a interposição de qualquer agravo, previsto em lei ou em regimento interno de tribunal, contra decisão de relator ou outra decisão unipessoal proferida em tribunal".
+Por sua vez, orienta o art. 219 do mesmo Diploma Processual:
+"Art. 219. Na contagem de prazo em dias, estabelecido por lei ou pelo juiz, computar-se-ão somente os dias úteis.
+Parágrafo único. O disposto neste artigo aplica-se somente aos prazos processuais".
+Da interpretação sistemática dos supracitados dispositivos processuais - arts. 219, 1.003, § 5º, e 1.070 do CPC/2015 -, conclui-se que é de 15 (quinze) dias úteis o prazo para interposição de Agravo interno.
+In casu, verifica-se, de plano, a intempestividade do presente Agravo interno. Isso porque a decisão, objeto deste recurso, foi disponibilizada em 18/05/2018, sexta-feira, no Diário de Justiça eletrônico, considerando-se publicada em 21/05/2018, segunda-feira, conforme certidão de fl. 572e.
+O presente recurso, no entanto, somente foi interposto em 13/06/2018 (fls. 577/586e), intempestivamente, portanto. De fato, como o prazo para a interposição é de 15 (quinze) dias úteis, contados a partir da publicação da decisão, a parte recorrente teria prazo para recorrer até o dia 12/06/2018 (terça-feira).
+Ante todo o exposto, não conheço do Agravo interno.
+É como voto.
