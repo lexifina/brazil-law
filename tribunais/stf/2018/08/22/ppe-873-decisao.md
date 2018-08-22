@@ -1,0 +1,18 @@
+Decisão
+    1. Trata-se de pedido de prisão cautelar para extradição de DANIEL SANCHEZ ARIAS, espanhol, nos termos do art. 84, § 2º, da Lei 13.445/2017, encaminhado pelo Escritório Central Nacional da Organização Internacional de Polícia Criminal (Interpol).
+    Consta da representação que:
+    “De acordo com as autoridades peruanas, no dia 09 de fevereiro de 2009, em Trujillo, no Peru, DANIEL SANCHEZ ARIAS, juntamente com um coautor, também processado, ofereceram à vítima uma vaga de emprego numa empresa de venda de móveis na Espanha, uma vez que o procurado é espanhol. Ofereceram à vítima a obtenção de todos os documentos necessários, incluindo o contrato de trabalho e alojamento na Espanha, pelo que a vítima deveria realizar um depósito no valor de $2.000,00 (dois mil euros), em uma conta na Espanha. Na data mencionada os denunciados já estariam na Espanha e a vítima, após realizar os depósitos, esperou os prazos e começou a ligar para eles, sem obter qualquer resposta. Foi então que percebeu havia sido vítima de estelionato ” (fls. 3).
+    A representação ainda noticia que: “(a) DANIEL SANCHEZ ARIAS é procurado no Peru para responder a processo por crime de estafa; (b) contra o procurado, há ordem de prisão identificada como EXP. Nº 03010-2013-22, de 25 de julho de 2018, do Sexto Juzgado Penal Unipersonal de Trujillo y La Esperanza (Peru), assinado pela Exma. Sra. Juíza Dra. Ingrid Renes Pajares Acosta; (c) o Peru dá garantias de que a extradição será solicitada após a prisão do foragido, em conformidade com as leis nacionais ou tratados bilaterais ou multilaterais aplicáveis” (fls. 4).
+    Ao final, requer a expedição do competente mandado de prisão do extraditando (fls. 5).
+    2. Nos termos do art. 208 do Regimento Interno desta Corte, a prisão cautelar é requisito essencial ao trâmite do pedido de extradição, sem a qual se torna inviável a análise da pretensão extradicional. Aliás, é assente na jurisprudência desta Corte que a prisão cautelar com vistas à extradição “constitui requisito de procedibilidade da ação extradicional, não se confundindo com a segregação preventiva de que trata o Código de Processo Penal” (Ext 1254 QO, Rel. Min. AYRES BRITTO, Segunda Turma, DJe de 20.9.2011).
+    3. No caso, encontram-se atendidos os pressupostos de admissibilidade à segregação do extraditando, a teor do art. 84, §§ 1º e 2º, do Estatuto do Estrangeiro. Com efeito, além da documentação comprobatória da existência da ordem de prisão proferida pelo Estado estrangeiro, está consignado, pela Polícia Federal, que o extraditando ingressou no País, por voo originado de Barcelona, Espanha, em 18/8/2018, com voo de retorno à Espanha para o dia 2/9/2018, com saída do Aeroporto Internacional de Natal/RN.
+    4. Há nos autos, ao lado disso, a exposição detalhada das circunstâncias em que cometidos os crimes, em cognição sumária equivalentes ao crime de estelionato pela legislação penal brasileira (art. 171 do Código Penal).
+    5. Em vista do exposto, decreto a prisão cautelar de DANIEL SANCHEZ ARIAS, determinando a expedição de mandado de prisão, cujo cumprimento deverá ser comunicado imediatamente a esta Corte, ao Ministério da Justiça, à Interpol, e à representação diplomática do Estado interessado (arts. 84 da Lei 13.445/17 e 208 do RISTF).
+    Decorridos 60 (sessenta) dias sem a referida comunicação por parte da autoridade policial, requisitem-se informações, por ofício, acerca do cumprimento da ordem, com prazo de resposta de 10 (dez) dias, findos os quais voltem conclusos os autos.
+    Esta decisão deverá ser publicada somente após a efetivação da prisão do requerido.
+    Comunique-se.
+    Cumpra-se.
+Brasília, 22 de agosto de 2018.
+Ministro Alexandre de Moraes
+Relator
+documento assinado digitalmente
