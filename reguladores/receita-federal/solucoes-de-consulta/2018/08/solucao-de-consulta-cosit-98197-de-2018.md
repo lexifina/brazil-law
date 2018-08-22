@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98197, de 20 de agosto de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 8517.62.77 Mercadoria: Transceptor digital para áreas externas para acesso à internet, por radiofrequência, baseado no padrão IEEE 802.11 (Wi-Fi) nas faixas de frequência de 2,4 e 5,825GHz, com taxa de transmissão de até 300 Mbit/s, comercialmente denominado “ponto de acesso”. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 85.17), RGI 6 (textos da subposição de 1º nível 8517.6 e da subposição de 2º nível 8517.62) e RGC1 (textos do item 8517.62.7 e do subitem 8517.62.77) constantes da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto n.º 8.950, de 2016; e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 1.788, de 2018.
+.
+[arquivo anexo: SC Cosit nº 98.197-2018 .pdf]
