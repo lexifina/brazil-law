@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo BANCO CITIBANK S.A. e OUTRAS contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, cuja ementa é a seguinte:
+PROCESSO CIVIL. ARTIGO 557, §1º DO CPC. CONTRIBUIÇÃO PREVIDENCIÁRIA. VALE-TRANSPORTE PAGO EMPECÚNIA. AJUDA DESLOCAMENTO NOTURNO.
+1. A jurisprudência do Superior Tribunal de Justiça, pacífica sobre a incidência da contribuição social sobre o vale-transporte pago em pecúnia, acaba de ser alterada, diante de posição adotada pelo Supremo Tribunal Federal sobre o tema no julgamento do RE n. 478410. Assim, é inexigível a contribuição social sobre o vale-transporte pago em dinheiro, desde que concedido de acordo com a legislação pertinente
+2. No que diz respeito ao adicional de deslocamento noturno,entendo que tal valor não se enquadra no conceito de vale-transporte, remanescendo sua natureza salarial quando pago de forma habitual e em "valor fixo". Precedentes.
+3. Agravo improvido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 487/495).
+No apelo especial, a parte recorrente alega, preliminarmente, violação do art. 535, II, do CPC, ao argumento de que a Corte local não se manifestou sobre pontos importantes para o deslinde da controvérsia, em especial acerca do nítido caráter indenizatório da ajuda de custo de deslocamento noturno.
+Quanto ao juízo de reforma, aduz negativa de vigência dos arts. 457, § 1º e 2º, 458, § 2º, da CLT, arguindo não possuir a ajuda de custo para deslocamento noturno natureza salarial, devendo ser excluída da base de cálculo da contribuição previdenciária.
+Contrarrazões foram apresentadas pela FAZENDA NACIONAL, nas quais pede o desprovimento do recurso especial (e-STJ fls. 552/563).
+Passo a decidir.
+"Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do Plenário do STJ).
+Considerado isso, importa mencionar que o recurso especial se origina de mandado de segurança em que se pleiteia a exclusão de verbas trabalhistas pagas a título de vale-transporte e ajuda de custo para deslocamento noturno da base de cálculo da contribuição previdenciária.
+No primeiro grau de jurisdição, a segurança foi denegada.
+Irresignada, a parte interpôs recurso de apelação, provido parcialmente pelo Tribunal a quo para a fastar da base de cálculo da contribuição previdenciária as verbas pagas a título de vale-transporte, ainda que pago em pecúnia, mas manteve a tributação da ajuda de custo de deslocamento noturno, reconhecendo-lhe a natureza salarial.
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fl. 476/477):
+No que concerne à ajuda de deslocamento noturno, a fiscalização apurou que se tratava de benefício pago a todos os empregados que trabalhavam em horários noturnos e em "valor fixo" (f. 39-40). Tem , portanto, natureza salarial, incidindo sobre ele a contribuição previdenciária.
+Vejam-se, além do julgado colacionado na decisão, os seguintes precedentes deste Tribunal:
+ ..
+Assinalo, por fim, que as normas de Convenção Coletiva do Trabalho não desnatura a natureza jurídica do benefício nem prevalecem sobre as leis instituidoras de obrigações tributárias. Nesse sentido: TRF3, 2a Turma, AMS 00010567520114036107, DESEMBARGADORA FEDERAL CECÍLIA MELLO, e-DJF3 Judicial 1 28/06/2012; TRF3, Primeira Turma, AC 00092994420024036100, DESEMBARGADOR FEDERAL JOSÉ LUNARDELLI, e-DJF3 Judicial 1 09/03/2012.
+Pois bem.
+De início, cumpre registrar que a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que não incorre em negativa de prestação jurisdicional o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas não adotando a tese defendida pelo recorrente.
+Da análise do acórdão recorrido, verifica-se que o Tribunal de origem se manifestou, de maneira clara e fundamentada, acerca de todas as questões relevantes para a solução da controvérsia, decidindo a lide com fundamento na jurisprudência consolidada neste Superior Tribunal de Justiça.
+Dessa forma, correta a rejeição dos embargos de declaração ante a inexistência de omissão, contradição ou obscuridade a ser sanada e, por conseguinte, deve-se concluir pela ausência de ofensa ao art. 535 do CPC/1973.
+Quanto ao juízo de reforma, o acórdão recorrido decidiu a questão da incidência da contribuição previdenciária em conformidade com a jurisprudência firmada na Primeira Seção, que sedimentou a orientação de que a contribuição previdenciária:
+I) incide sobre a ajuda de custo para deslocamento noturno, paga aos empregados cuja jornada de trabalho termine entre meia-noite e seis horas, por não possuir natureza de reembolso das despesas efetuadas por estes para o transporte, tanto que a verba é concedida cumulativamente com o vale-transporte, este sim não sujeito à tributação, na forma do art. 28, § 9.º, f, da Lei 8.212/91 (vide: REsp 753.552/MG, DJ 22/10/2007, e AgInt no REsp 1.072.621/DF, DJe 02/03/2018) e
+II) não incide sobre o auxílio transporte (ou vale-transporte), ainda que pago em pecúnia, porquanto indenizatório (REsp 1.498.234/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 06/03/2015; AgRg no REsp 898.932/PR, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe de 14/09/2011).
+Conforme relatado, no caso dos autos, a recorrente busca afastar a incidência da contribuição previdenciária sobre a ajuda de custo para deslocamento noturno, o que denota que a sua insurgência não merece prosperar.
+Dessa forma, aplica-se à espécie a Súmula 83 do STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", que é aplicável quando o recurso especial é interposto com base nas alíneas "a" e "c" do permissivo constitucional.
+Destaque-se, por fim, que a convicção a que chegou o acórdão recorrido, no tocante à natureza salarial da parcela, decorreu da análise do conjunto fático-probatório, de forma que o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz da Súmula 7 desta Corte.
+Ante o exposto, com base no art. 255, § 4º, I, do RI-STJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
