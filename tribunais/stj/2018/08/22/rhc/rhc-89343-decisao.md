@@ -1,0 +1,6 @@
+DECISÃO
+LEONARDO DE OLIVEIRA MONTEIRO alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2064428-64.2017.8.26.0000.
+Em consulta processual realizada na página eletrônica desta Corte Superior, verifico que o ora recorrente também interpôs o RHC n. 89.385/SP. Apesar de o ato coator naquele recurso ser diverso (HC n. 2046110-33.2017.8.26.0000), ele aponta, igualmente, irregularidades na Ação Penal n. 0005061-76.2016.8.26.0066.
+Ainda, observo que a Sexta Turma desta Corte Superior deu provimento ao RHC n. 89.385/SP, na sessão de julgamento do dia 16/8/2018 (acórdão de minha relatoria, ainda não publicado), a fim de: "a) declarar a nulidade das provas obtidas pelo exame do celular encontrado em poder do réu, sem autorização judicial; b) cassar a sentença condenatória; c) determinar ao Juízo de primeiro grau que desentranhe dos autos tal elemento probatório, bem como aqueles dele derivados, e renove o julgamento do caso, sem considerar a prova nula;  .. " (destaques no original).
+Assim, observo a perda do objeto deste recurso, em que a defesa pleiteia a anulação da sentença.
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 246, ambos do RISTJ, julgo prejudicado o recurso em habeas corpus, pela perda superveniente de seu objeto.
