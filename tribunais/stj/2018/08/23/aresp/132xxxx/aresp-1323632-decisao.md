@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu o recurso especial, interposto com fulcro no art. 105, III, alínea "a", da Constituição Federal.
+Consta dos autos que o ora agravante foi condenado em primeiro grau às penas de 5 anos e 10 meses de reclusão, em regime inicial semiaberto, e pagamento de 583 dias-multa, pela prática do crime previsto no art. 33, caput, c/c o art. 40, III, da Lei 11.343/2006 (tráfico de drogas).
+Em apelação, o Tribunal de origem negou provimento ao recurso defensivo, conforme acórdão assim ementado:
+APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. SUFICIÊNCIA PROBANTE. IMPOSSIBILIDADE DE DESCLASSIFICAÇÃO. O conjunto probatório produzido pela acusação demonstra de forma clara tanto a materialidade do delito como a autoria do presente denunciado. O quadro fático delineado não coaduna com a situação de posse de drogas para consumo próprio, mas sim de venda de narcóticos, o que impossibilita a desclassificação típica do fato delituoso. INAFASTABILIDADE DA MAJORANTE. O crime foi praticado próximo a estabelecimento educacional (na parte de trás da Escola Santa Rita), o que, pela determinação do art. 40, inciso III, da Lei de Drogas, majora a pena. INAPLICABILIDADE DA MINORANTE. Apesar da primariedade técnica do apelante, o mesmo apresenta registros criminais anteriores em curso por tráfico de drogas, onde já lhe foi reconhecida a minorante, fato que demonstra a insistência do réu na prática ilícita, o que impede a concessão da privilegiadora pela dedicação do mesmo à atividade criminosa. PENA DE MULTA MANTIDA. Não prospera, a uma, porque a reprimenda de multa é consectário legal da condenação nos crimes de tráfico de drogas, sendo impossível o afastamento, mesmo quando comprovada a hipossuficiência da pessoa condenada; a duas, porque a pena aplicada neste caso guardou proporção matemática com a sanção corporal aplicada ao acusado, não havendo motivos para irresignações. À UNANIMIDADE, NEGARAM PROVIMENTO AO RECURSO DEFENSIVO (fl. 287).
+Na sequência, a defesa interpôs recurso especial, no qual alega violação do art. 33, § 4º, da Lei n. 11.343/2006.
+Sustenta que o recorrente preenche os requisitos para a aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/06, sendo que "o acusado foi considerado tecnicamente primário na determinação da dosimetria da pena, exatamente pela impossibilidade de se considerar os processos em curso para agravar sua situação" (fl. 308), e não há provas de dedicação à atividade criminosa ou que integra organização criminosa.
+A r. decisão agravada não admitiu o recurso especial haja vista a incidência da Súmula n. 83 desta Corte.
+Contraminuta às fls. 343-344.
+O Ministério Público Federal opina pelo desprovimento do agravo (fls. 355-359).
+É o relatório. Decido.
+O recurso está prejudicado.
+Com efeito, cumpre registrar que há pedido idêntico formulado no HC 443.260/RS, desta relatoria, que já examinou as questões postas, amparado na firme jurisprudência desta Corte. Anoto que a decisão foi publicada em 6/6/2018 e transitou em julgado em 26/6/2018.
+O presente recurso se insurge contra o mesmo acórdão e tem exatamente o mesmo objeto do referido habeas corpus. Dessa forma, evidente a inadmissível reiteração de pedidos, conforme a jurisprudência pacífica deste Tribunal, consoante se extrai dos seguintes precedentes:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MATÉRIA VENTILADA NO RESP JÁ ANALISADA E DECIDIDA EM PRÉVIO HABEAS CORPUS. REITERAÇÃO DE PEDIDOS. IMPOSSIBILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Se a matéria já foi devidamente analisada e decidida em prévio habeas corpus, nega-se seguimento ao recurso especial interposto, ante a inadmissibilidade de simples reiteração de pedidos.
+2. Agravo regimental a que se nega provimento (AgRg no AREsp 633.210/MT, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 13/04/2015).
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. NEGATIVA DE SEGUIMENTO. REITERAÇÃO DE PEDIDO FORMULADO NO RHC N. 42.510/RJ. MANIFESTAÇÃO DO COLEGIADO. AGRAVO REGIMENTAL DESPROVIDO.
+I - O presente recurso é mera reiteração do pedido já formulado e decidido, nos autos do RHC n. 42.510/RJ, pela col. Quinta Turma.
+II - Observa-se do termo de recebimento e autuação que ambos os processos possuem o mesmo número de origem, além de aduzirem os mesmos argumentos e formularem idênticos pedidos.
+Agravo regimental desprovido (AgRg no RHC 42.638/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 10/12/2014).
+Ante exposto, com fundamento no art. 34, XVIII, "a", do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
