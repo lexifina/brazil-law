@@ -1,0 +1,74 @@
+EMENTA
+TRIBUTÁRIO. PROCESSO CIVIL. HONORÁRIOS SUCUMBENCIAIS. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Nos termos da jurisprudência desta Corte, em regra, não se mostra possível em recurso especial a revisão do valor fixado a título de honorários advocatícios, pois tal providência exige novo exame do contexto fático-probatório constante dos autos, o que é vedado pela Súmula 7/STJ.
+2. Todavia, o óbice da referida súmula pode ser afastado em situações excepcionais, quando verificado excesso ou insignificância da importância arbitrada, ficando evidenciada ofensa aos princípios da razoabilidade e da proporcionalidade, hipóteses não configuradas no caso dos presentes autos.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado pela Fazenda Nacional, contra decisão negou provimento ao agravo em recurso especial sob o argumento de que não se mostra possível em recurso especial a revisão do valor fixado a título de honorários advocatícios, pois tal providência exigiria novo exame do contexto fático-probatório constante dos autos, o que é vedado pela Súmula 7/STJ.
+A agravante sustenta, em resumo, que deve ser afastada a Súmula 7/STJ no caso dos autos, pois "a fixação de honorários no valor de R$ 500,00 (quinhentos reais) é subavaliar o trabalho jurídico desempenhado, não se mostrando razoável à remuneração adequada da atividade advocatícia desenvolvida." (fl. 203).
+Requer a reconsideração da decisão agravada ou a submissão da insurgência ao órgão colegiado.
+Aberta vista à parte agravada (fl. 205), transcorreu in albis o prazo para apresentar impugnação (fls. 210).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida, que ora submeto ao Colegiado para serem confirmados:
+Trata-se de agravo manejado contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 145):
+PROCESSO CIVIL. IOF. JUÍZO DE RETRATAÇÃO (ART. 1.040, II, DO CPC/2015). ARTIGO Io, INCISO IV, DA LEI Nº 8.033/90. CONSTITUCIONALIDADE. ACÓRDÃO REFORMADO.
+1 - O Excelso Pretório, no julgamento do RE 583.712/SP, de relatoria do Ministro Edson Fachin, julgado em 4 de fevereiro de 2016, em regime de repercussão geral (artigo 543-B do CPC/73), firmou entendimento no sentido da constitucionalidade do artigo
+Io, inciso IV, da Lei nº 8.033/90.
+2 - Cabe, pois, reconsiderar a decisão anteriormente proferida, para adequá-la à atual orientação do Supremo Tribunal Federal, Órgão que recebeu a missão constitucional de dizer em caráter definitivo.
+3 - Acórdão reformado, para dar provimento à remessa oficial.
+Opostos embargos declaratórios, estes foram rejeitados ante a inexistência dos vícios do art. 535 do CPC/73 (fls. 159/165).
+Nas razões do especial, a parte agravante aponta violação dos arts. 20, §§ 3º e 4º do CPC/73 e 85, § § 2º e 8ºdo CPC/2015, alegando que os honorários advocatícios foram fixados em valor irrisório.
+É o relatório.
+O inconformismo não prospera.
+A jurisprudência do STJ orienta-se no sentido de que, em regra, não se mostra possível em recurso especial a revisão do valor fixado a título de honorários advocatícios, pois tal providência exigiria novo exame do contexto fático-probatório constante dos autos, o que é vedado pela Súmula 7/STJ.
+Todavia, o óbice da referida súmula pode ser afastado em situações excepcionais, quando for verificado excesso ou insignificância da importância arbitrada, ficando evidenciada ofensa aos princípios da razoabilidade e da proporcionalidade, hipóteses não configuradas nos autos.
+No caso, o Tribunal de origem fixou a verba honorária para R$ 500,00, considerando as peculiaridades fáticas do presente feito, sob os seguintes fundamentos (fls. 143/144):
+No que tange à sucumbência, conforme o disposto no artigo 20, §3º e §4º do Código de Processo Civil de 1973 e com fulcro nos princípios da equidade, causalidade e da razoabilidade, o autor deve ser condenado ao pagamento de honorários advocatícios, atendidos o empenho profissional do causídico, grau de zelo, o lugar da prestação do serviço, a natureza e a importância da causa e o tempo exigido.
+E, em que pese o artigo 85 do Código de Processo Civil de 2015, verifica-se que o arbitramento da verba sucumbencial, por se tratar de regra de direito material, deve ser feita de acordo com a lei vigente na data da prolação da sentença.
+Assim, prolatada a sentença quando vigorava o Código de Processo Civil de 1973, devem ser aplicadas as regras referentes à verba honorária consoante o disposto naquele diploma legislativo, em especial o previsto no artigo 20, §§3º e 4o, fixo a condenação em verba honorária em R$ 500,00.
+Dessarte, não configurada a excepcionalidade exigida pela jurisprudência desta Corte, não se mostra possível a majoração dos honorários advocatícios pleiteada pela parte ora agravante.
+A propósito, confira-se:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. HONORÁRIOS. IMPOSSIBILIDADE DE REVISÃO. ÓBICE DA SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A revisão do valor dos honorários advocatícios arbitrado, é, em princípio, vedado nesta instância, à luz da Súmula 7/STJ. Como cediço, é admitida sua revisão por esta Corte quando o valor arbitrado extrapola os limites da razoabilidade, o que, todavia, não se verifica no presente caso.
+2. A tese jurídica veiculada nas razões do regimental não é capaz de modificar o posicionamento anteriormente firmado no decisum ora impugnado, que persevera, na íntegra, por seus próprios fundamentos.
+3. Agravo regimental não provido.
+(AgRg no AREsp 171.013/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 07/03/2013, DJe 13/03/2013)
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
+Com efeito, a jurisprudência desta Corte admite, em caráter excepcional, a alteração do quantum arbitrado a título de honorários advocatícios, caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade, o que não ocorreu no caso concreto.
+Na hipótese, a Corte local fixou a verba honorária em R$ 500,00, considerando as peculiaridades fáticas do presente feito, sob os seguintes fundamentos (fls. 143/144):
+No que tange à sucumbência, conforme o disposto no artigo 20, §3º e §4º do Código de Processo Civil de 1973 e com fulcro nos princípios da equidade, causalidade e da razoabilidade, o autor deve ser condenado ao pagamento de honorários advocatícios, atendidos o empenho profissional do causídico, grau de zelo, o lugar da prestação do serviço, a natureza e a importância da causa e o tempo exigido.
+E, em que pese o artigo 85 do Código de Processo Civil de 2015, verifica-se que o arbitramento da verba sucumbencial, por se tratar de regra de direito material, deve ser feita de acordo com a lei vigente na data da prolação da sentença.
+Assim, prolatada a sentença quando vigorava o Código de Processo Civil de 1973, devem ser aplicadas as regras referentes à verba honorária consoante o disposto naquele diploma legislativo, em especial o previsto no artigo 20, §§3º e 4o, fixo a condenação em verba honorária em R$ 500,00.
+Ora, a alteração das conclusões adotadas pela Corte de origem demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Assim, não configurada a excepcionalidade exigida pela jurisprudência desta Corte, não se mostra possível a majoração dos honorários advocatícios pleiteada pela parte agravante.
+Em reforço, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PRETENSÃO DE EFEITOS INFRINGENTES. ACLARATÓRIOS RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE. VIOLAÇÃO AO ART. 535 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO.
+INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. VIOLAÇÃO A DISPOSITIVOS DA CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE DE ANÁLISE EM SEDE DE RECURSO ESPECIAL. COMPETÊNCIA DO STF. OFENSA À INSTRUÇÃO NORMATIVA. CONCEITO DE TRATADO OU LEI FEDERAL. NÃO ENQUADRAMENTO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 518/STJ. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 22 DA LEI N. 8.212/1991, ARTS. 142, 145, 202, 203 E 204 DO CÓDIGO TRIBUTÁRIO NACIONAL, ART. 2º DA LEI DE EXECUÇÃO FISCAL E ARTS. 586 E 618 DO CÓDIGO DE PROCESSO CIVIL. INCIDÊNCIA DA SÚMULA N. 211/STJ. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO PELA CORTE DE ORIGEM. DESPROPORCIONALIDADE NÃO CARACTERIZADA. MAJORAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. INCIDÊNCIA.
+ ..
+VII - In casu, rever o entendimento do Tribunal de origem, no sentido de majorar o valor de R$ 1.000,00 (um mil reais) arbitrado a título de verba honorária, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07/STJ.
+VIII - Embargos de declaração recebidos como Agravo Regimental e improvido.
+(EDcl no AREsp 310.038/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 12/4/2016, DJe 20/4/2016)
+RECURSO ESPECIAL DA FAZENDA NACIONAL.
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO DOS ARTS. 295, III E 267, VI E § 3º, DO CPC. NÃO OCORRÊNCIA. TRANSAÇÃO REALIZADA ENTRE AS PARTES. RECOMPOSIÇÃO DAS PERDAS E DANOS EMERGENTES. NATUREZA JURÍDICA INDENIZATÓRIA. NÃO INCIDÊNCIA DE IRPJ E CSLL. REVOLVIMENTO DE PREMISSAS FÁTICO-PROBATÓRIAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+ ..
+RECURSO ESPECIAL DA EMPRESA.
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. MAJORAÇÃO DA VERBA HONORÁRIA. IMPOSSIBILIDADE NA HIPÓTESE. INCIDÊNCIA DA SÚMULA N. 7/STJ. NÃO ADSTRIÇÃO AOS PERCENTUAIS DO § 3º DO ART 20 DO CPC EM CASO DE CONDENAÇÃO DA FAZENDA PÚBLICA.
+PRECEDENTE REGIDO PELA SISTEMÁTICA DO ART. 543-C, DO CPC.
+1. O acórdão recorrido se manifestou de forma clara e fundamentada no sentido de que a sucumbência proporcional das partes e o menor esforço dos advogados na discussão de matéria exclusivamente de direito justificava a redução do honorários de 5% do valor da causa para R$ 12.000,00 (doze mil reais). É cediço que o julgador não precisa se manifestar sobre todos os argumentos deduzidos pelas partes, desde que os fundamentos adotados sejam suficiente para por fim à demanda, na forma do art. 93, IX, da Constituição Federal, não havendo que se falar em omissão na hipótese.
+2. O Tribunal de origem declinou expressamente os motivos pelos quais entendeu que R$ 12.000,00 (doze mil reais) eram suficientes para remunerar o trabalho desenvolvido pelo causídico, haja vista que a discussão travada nos autos se referiu a matéria exclusivamente de direito, razão pela qual, a despeito do montante do valor da causa (R$ 6.116.749,63 - seis milhões cento e dezesseis mil setecentos e quarenta e nove reais e sessenta e três centavos), penso que a hipótese não é daquelas excepcionais que permitem a mitigação do óbice da Súmula n. 7/STJ para majorar a verba honorária, pelo que não prosperam os argumentos da recorrente quanto à alegada violação do art. 20, § 4º, do CPC.
+3. A fixação dos honorários advocatícios, quando vencida a Fazenda Pública, não está adstrita aos percentuais de 10% a 20% referidos no § 3º do art. 20, do CPC, orientação que, inclusive, foi adotada por esta Corte em sede de recurso repetitivo, na sistemática do art. 543-C, do CPC.
+DISPOSITIVO Recursos especiais conhecidos, mas ambos improvidos.
+(REsp 1.080.187/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 19/8/2010, DJe 28/9/2010)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. ART. 20, § 4º, DO CPC. PEDIDO DE SUA MAJORAÇÃO. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Em princípio, descabe ao STJ revisar valores de sucumbência fixados nas instâncias ordinárias, pois eles são arbitrados em consideração àquilo que se desenvolveu no processo e mediante juízo de equidade, circunstâncias que não podem ser reavaliadas nesta Corte, nos termos da Súmula 7/STJ.
+II. Consoante decidido pela Primeira Seção do STJ, tanto nos EAg 438.177/SC (Rel. p/ acórdão Ministro LUIZ FUX, DJU de 17/12/2004), quanto no REsp 1.137.738/SP (Rel. Ministro LUIZ FUX, DJe de 01/02/2010), a revisão do critério adotado, pela Corte de origem, por eqüidade, para a fixação dos honorários de advogado, encontra óbice na Súmula 7/STJ. No mesmo sentido é o entendimento sumulado do Pretório Excelso: "Salvo limite legal, a fixação de honorários de advogado, em complemento da condenação, depende das circunstâncias da causa, não dando lugar a recurso extraordinário" (Súmula 389/STF).
+III. Porém, "a jurisprudência desta Corte, entretanto, sensível a situações em que salta aos olhos a inobservância dos critérios legais para o arbitramento do valor justo, passou a admitir a revisão em sede especial quando se tratar de honorários notoriamente ínfimos ou exagerados, o que se faz considerado cada caso em particular. Assim, saber se os honorários são irrisórios ou exorbitantes requer, necessariamente, a apreciação das peculiaridades de cada caso concreto" (STJ, AgRg nos EAREsp 28.898/SP, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, DJe de 06/02/2014).
+IV. Na hipótese, os honorários de advogado, em favor dos ora agravantes, foram fixados, pelo Juízo de 1º Grau, em R$ 15.000,00 (quinze mil reais). O Tribunal a quo, por sua vez, atento às circunstâncias a que se refere o § 4º do art. 20 do CPC, manteve o valor da verba honorária, considerando, principalmente, "que a solução da lide não envolveu grande complexidade e sopesados no caso em tela o zelo do patrono da executada, o valor original da execução fiscal (R$ 8.736.341,97 - fls. 22) e a natureza da demanda, deve ser mantida a verba honorária fixada em R$ 15.000,00 (quinze mil reais)". Dadas as peculiaridades da causa, delineadas no acórdão recorrido, não se mostra irrisória a quantia fixada, em juízo de equidade, a título de honorários advocatícios. Assim, deve ser mantida a decisão agravada, visto que, efetivamente, incide, na espécie, a Súmula 7 do STJ.
+V. Agravo Regimental improvido.
+(AgRg no REsp 1520772/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 8/9/2015, DJe 18/9/2015)
+Em face do exposto, nega-se provimento ao agravo interno.
+É como voto.
