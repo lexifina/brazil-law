@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado:
+TRIBUTÁRIO. EXAURIMENTO DA VIA ADMINISTRATIVA. DESNECESSIDADE. INTERESSE DE AGIR DEMONSTRADO. PRETENSÃO RESISTIDA. APELO PARCIALMENTE PROVIDO.
+A parte recorrente alega violação do art. 535 do CPC/1973, por considerar obrigatória a integração pedida nos embargos de declaração, pertinente à manifestação acerca do principal fundamento da sentença para o reconhecimento da ausência de interesse de agir/necessidade (art. 74, § 2º da Lei n. 9.430/1996).
+Sem contrarrazões (e-STJ fl. 355).
+Passo a decidir.
+"Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do Plenário do STJ).
+Considerado isso, importa mencionar que o recurso especial se origina em ação de repetição de indébito tributário em que se pleiteava a compensação de valores retidos indevidamente pela Administração Pública para quitação de contribuições previdenciárias decorrentes do adimplemento de contrato administrativo.
+No primeiro grau de jurisdição, a ação ordinária foi extinta sem julgamento do mérito por ausência de interesse processual, uma vez que o art. 74, § 2º, da Lei n. 9.430/1996 autorizaria a compensação pela via administrativa, tornando desnecessária a manifestação judicial acerca do tema, salvo no caso de indeferimento administrativo, que não é a hipótese dos autos (e-STJ fl. 290).
+Irresignada, a autora interpôs recurso de apelação, provido pelo Tribunal a quo.
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido:
+No que diz respeito ao interesses de agir, é de se destacar que a jurisprudência há muito vem se manifestando pela possibilidade de ingressar em juízo sem a necessidade de prévia provocação administrativa. No caso de repetição de indébito, o interesse de agir decorre do próprio pagamento indevido, não se exigindo do postulante em juízo a "prova" de que seu direito não seria, necessariamente, acatado no âmbito administrativo.
+Nesse sentido:
+ ..
+Junte-se a isso o fato de que, no caso dos autos, a empresa autora vem sofrendo prejuízos financeiros decorrentes da morosidade da Administração Tributária Federal em proferir decisões sobre as petições, impugnações e recursos administrativos apresentados perante as repartições fiscais de, sua circunscrição.
+No encontro de contas entre os valores descontados nas suas faturas (11% sobre o preço cobrado) e os valores devidos sobre a folha de salários, é comum haver crédito em favor das empresas sujeitas ao regime de descontos na fonte dos 11%. Consequentemente, as empresas que estão nesse regime, geralmente, apresentam créditos para com a Receita Federal do Brasil.
+Apurados os créditos, as normas federais que regem a matéria - mais, especificamente o art. 31 da Lei nº. 8.212/91 - oferecem aos credores a oportunidade de requererem a devolução do excesso pago, utilizando-se do procedimento administrativo próprio.
+Contudo, inexistindo manifestação da Receita, Federal quanto aos requerimentos apresentados e considerando o esgotamento do prazo legal para a decisão de procedimento administrativo, conforme a norma descrita no artigo 24 da Lei 11.457/2007, bem como violação, do Princípio Constitucional da razoável duração do procedimento administrativo, nos termos do artigo 5º, inciso LXXVIII da Carta Magna de 1988, inquestionável estar presente o interesse de agir da parte autora.
+Opostos embargos de declaração, foram eles rejeitados (e-STJ fls. 341/343).
+Pois bem.
+Do que se observa, o recurso deve ser conhecido, pois as matérias estão prequestionadas, os dispositivos legais tidos por violados são pertinentes e não há necessidade de reexame fático-probatório.
+Dito isso, cumpre registrar que a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que não incorre em negativa de prestação jurisdicional o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas não adotando a tese defendida pelo recorrente.
+Da análise do acórdão recorrido, verifica-se que o Tribunal de origem se manifestou, de maneira clara e fundamentada, acerca de todas as questões relevantes para a solução da controvérsia, inclusive em relação ao principal fundamento da sentença que extinguiu a ação ordinária pela ausência de interesse de agir.
+Com efeito, sem adentrar no mérito dos seus fundamentos, apesar de não se referir expressamente ao art. 74, § 2º da Lei n. 9.430/1996, a Corte regional consignou, com base em outros dispositivos legais e precedentes desta Corte Superior, que não se poderia exigir do postulante em juízo prova de que o direito postulado não seria acatado no âmbito administrativo, de sorte a afastar a interpretação que leve a uma jurisdição administrativa obrigatória.
+Afirmou ainda que, não havendo manifestação administrativa quanto aos requerimentos apresentados e considerando o decurso de prazo não razoável para a decisão em procedimento administrativo, seria inquestionável o interesse de agir da autora.
+Dessa forma, correta a rejeição dos embargos de declaração ante a inexistência de omissão, contradição ou obscuridade a ser sanada e, por conseguinte, deve-se concluir pela ausência de ofensa ao art. 535 do CPC/1973.
+Ante o exposto, com base no art. 255, § 4º, II, do RI-STJ, NEGO PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
