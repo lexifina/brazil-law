@@ -1,0 +1,35 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTO. IMPOSIÇÃO DE MULTA DIÁRIA POR DESCUMPRIMENTO DE OBRIGAÇÃO DE FAZER (R$ 500,00). RAZOABILIDADE DO VALOR FIXADO. ESTA CORTE ADMITE A MODIFICAÇÃO DO VALOR FIXADO PELAS INSTÂNCIA ORDINÁRIA APENAS EM CASOS EXTREMOS, O QUE NÃO SE CONSTATA NO CASO EM APREÇO. AGRAVO INTERNO DO ESTADO DE PERNAMBUCO A QUE SE NEGA PROVIMENTO.
+1. O entendimento adotado pela Corte de origem não destoa da jurisprudência do STJ, segundo a qual é cabível a cominação de multa contra a Fazenda Pública por descumprimento de obrigação de fazer.
+2. Quantos aos critérios para a fixação de seu valor, esta Corte tem orientado a sua revisão apenas em casos excepcionais, quando se trata de valores exorbitantes ou irrisórios. No caso em apreço, não se constata a exorbitância que admite a revisão, desse modo, entendimento diverso, como se pretende, implicaria em reexame de provas, providência vedada nesta instância por incidência da Súmula 7/STJ.
+5. Agravo Interno do ESTADO DE PERNAMBUCO a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto pelo ESTADO DE PERNAMBUCO contra decisão monocrática da minha lavra que negou provimento ao seu Agravo em Recurso Especial, nos termos da seguinte ementa:
+AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSUAL CIVIL. DIREITO À SAÚDE. IMPOSIÇÃO DE MULTA DIÁRIA POR DESCUMPRIMENTO DE OBRIGAÇÃO (R$ 500,00). IMPOSSIBILIDADE DE REVISÃO DO VALOR ARBITRADO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. AGRAVO EM RECURSO ESPECIAL DO ESTADO DE PERNAMBUCO A QUE SE NEGA PROVIMENTO.
+2. Nas razões do Agravo Interno, sustenta a parte agravante que o valor da multa diária fixada em R$ 500,00, por descumprimento da obrigação de fazer, é exorbitante.
+3. Pugna, desse modo, pela reconsideração da decisão atacada, ou a apresentação do feito à Turma Julgadora para que seja conhecido e provido o Recurso Especial.
+4. É o relatório.
+
+VOTO
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTO. IMPOSIÇÃO DE MULTA DIÁRIA POR DESCUMPRIMENTO DE OBRIGAÇÃO DE FAZER (R$ 500,00). RAZOABILIDADE DO VALOR FIXADO. ESTA CORTE ADMITE A MODIFICAÇÃO DO VALOR FIXADO PELAS INSTÂNCIA ORDINÁRIA APENAS EM CASOS EXTREMOS, O QUE NÃO SE CONSTATA NO CASO EM APREÇO. AGRAVO INTERNO DO ESTADO DE PERNAMBUCO A QUE SE NEGA PROVIMENTO.
+1. O entendimento adotado pela Corte de origem não destoa da jurisprudência do STJ, segundo a qual é cabível a cominação de multa contra a Fazenda Pública por descumprimento de obrigação de fazer.
+2. Quantos aos critérios para a fixação de seu valor, esta Corte tem orientado a sua revisão apenas em casos excepcionais, quando se trata de valores exorbitantes ou irrisórios. No caso em apreço, não se constata a exorbitância que admite a revisão, desse modo, entendimento diverso, como se pretende, implicaria em reexame de provas, providência vedada nesta instância por incidência da Súmula 7/STJ.
+5. Agravo Interno do ESTADO DE PERNAMBUCO a que se nega provimento.
+1. As alegações da parte agravante não são suficientes para modificação da decisão agravada.
+2. O entendimento adotado pela Corte de origem não destoa da jurisprudência do STJ, segundo a qual é cabível a cominação de multa contra a Fazenda Pública por descumprimento de obrigação de fazer.
+3. Quantos aos critérios para a fixação de seu valor, esta Corte tem orientado a sua revisão apenas em casos excepcionais, quando se trata de valores exorbitantes ou irrisórios. No caso em apreço, não se constata a exorbitância que admite a revisão, desse modo, entendimento diverso, como se pretende, implicaria em reexame de provas, providência vedada nesta instância por incidência da Súmula 7/STJ. Nesse sentido é a jurisprudência do STJ:
+PROCESSUAL CIVIL E ADMINISTRATIVO. OBRIGAÇÃO DE FAZER. COMINAÇÃO DE MULTA DIÁRIA CONTRA A FAZENDA PÚBLICA. POSSIBILIDADE. RECURSO ESPECIAL PROVIDO. EMBARGOS DE DECLARAÇÃO. ALEGAÇÕES DE OMISSÕES. AUSÊNCIA DE VÍCIOS E DE APLICAÇÃO DO ART. 535 DO CPC.
+1. Depreende-se dos autos que o ponto da controvérsia está na insatisfação com o deslinde da causa. O acórdão embargado encontra-se suficientemente discutido, fundamentado e de acordo com a jurisprudência desta Corte, não ensejando, assim, o seu acolhimento.
+2. Quanto á alegação de que a tese exposta pelo Estado no presente feito não perpassa pela possibilidade ou não de ser fixada multa diária cominatária em face da Fazenda Pública; é completamente equivocada, uma vez que no agravo regimental o embargante afirma categoricamente que: por todo o exposto, demonstrada está a impossibilidade de fixação de multa (astreintes), em razão pela qual deve ser reformada a decisão guerreada (fls. 161, e-STJ).
+3. O entendimento pacífico desta Corte Superior é no sentido de ser possível ao juiz, de ofício ou a requerimento da parte, fixar multa diária cominatória (astreintes), ainda que seja contra a Fazenda Pública, em caso de descumprimento de obrigação de fazer.
+4. A jurisprudência desta Corte pacificou o entendimento no sentido
+de que a apreciação dos critérios previstos na fixação de astreintes implica o reexame de matéria fático-probatória, o que encontra óbice na Súmula 7 desta Corte. Excepcionam-se apenas as hipóteses de valor irrisório ou exorbitante, o que não se configura neste caso.
+Embargos de declaração rejeitados (EDcl no AgRg no REsp 1.367.081/RS, Rel. Min. HUMBERTO MARTINS, DJe 28.05.2013).
+
+AGRAVO REGIMENTAL. DIREITO PROCESSUAL CIVIL. EXECUÇÃO DE ASTREINTES. REVISÃO DO MONTANTE. POSSIBILIDADE. PRECLUSÃO. NÃO OCORRÊNCIA. ADEQUAÇÃO DA MULTA.
+1. A jurisprudência da Casa é pacífica em afirmar que o valor fixado a título de multa cominatória não faz coisa julgada material (art. 461, § 6o., do CPC), podendo ele ser alterado para mais ou para menos, a qualquer tempo, sempre que se tornar insuficiente ou excessivo à finalidade a que se destinava.
+2. No caso, o acórdão recorrido, com base nas circunstâncias fáticas soberanamente investigadas, alterou o valor total das astreintes e fixou a cifra diária em R$ 1.000,00 (mil reais), limitada a R$ 20.000,00 (vinte mil reais). Não se mostrando, primo ictu oculi, ínfimo ou insuficiente aos contornos da causa, a conclusão a que chegou o acórdão estadual não se desfaz sem se esquadrinhar os fatos subjacentes aos autos, providência vedada pela Súmula 7/STJ.
+3. Agravo regimental não provido (AgRg no AREsp 172.561/RJ, Rel. Min. LUIS FELIPE SALOMÃO, DJe 03.02.2014).
+4. Diante do exposto, nega se provimento ao Agravo Interno do ESTADO DE PERNAMBUCO. É como voto.
