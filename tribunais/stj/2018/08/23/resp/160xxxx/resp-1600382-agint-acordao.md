@@ -1,0 +1,21 @@
+EMENTA
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO ESPECIAL. NÃO APONTAMENTO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. ÓBICE DA SÚMULA 284/STF.
+1. A parte recorrente não amparou seu inconformismo na violação de qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica em deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF.
+2. A menção tardia ao artigo tido por violado, somente por ocasião do agravo interno, não elide a aplicação do referido óbice sumular, pois se caracteriza imprópria inovação recursal, tendo em vista a ocorrência da preclusão consumativa.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA: Trata-se de agravo interno interposto por [NOME] desafiando decisão monocrática de minha lavra, às fls. 309/310, que não conheceu do recurso especial, diante da incidência da Súmula 284/STF ao caso concreto, por deficiência de fundamentação, pois não houve, no apelo nobre, indicação precisa de dispositivo de lei federal que teria sido malferido pela prolação do acórdão recorrido.
+O agravante, em suas razões, assevera a inaplicabilidade do referido óbice, nos seguintes termos: ".. no início da petição a parte agravante mais uma vez deixa claro que o v. acordão contraria o Art. 25 da Lei 8.212/91 c/c 200 do Decreto 3.048/99, portanto S.M.J. entendemos que o Recurso Especial foi sim aparado na violação da lei federal acima indicada e teve sim indicação do dispositivo legal tido por violado, não incidindo assim a Súmula 284/STF .." (fl. 317).
+Impugnação não oferecida (fl. 323).
+É o relatório.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (RELATOR): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+A despeito das afirmações do agravo interno, não se verifica no especial de fls. 257/265, a indicação precisa de dispositivos que supostamente teriam sido violados pela prolação do acórdão recorrido, como quer fazer crer o agravante.
+Logo, tal situação implica, inevitavelmente, em insuperável deficiência de fundamentação do recurso especial, que atrai, portanto, o óbice da Súmula 284/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.".
+A propósito, "A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, em conformidade com o Enunciado Sumular nº 284 do STF" (AgRg no REsp 919239/RJ; Rel. Min. Francisco Falcão; Primeira Turma; DJ de 3/9/2007)."
+É importante ressaltar, por pertinente, que a menção tardia ao artigo tido por violado não elide a aplicação do mencionado óbice sumular, visto que se caracteriza imprópria inovação recursal, diante da ocorrência da preclusão consumativa.
+Ademais, os arts. 25 da Lei n. 8.213/91 e 200 do Decreto 3.048/99, citados nas razões do especial, e apontados como violados, neste agravo interno, não contêm comando capaz de sustentar a tese recursal, no sentido de que a mera emissão de notas fiscais já supriria a exigência de recolhimento de contribuição, e, portanto, não infirma o juízo formulado pelo acórdão recorrido. Sendo certo que, por qualquer ângulo que se examine, a aplicação ao caso concreto da Súmula 284/STF é medida que se impõe. Por oportuno, destacam-se os seguintes precedentes: AgRg no AREsp 161.567/RJ, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 26/10/2012; REsp 1.163.939/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 8/2/2011.
+Diante o exposto, nego provimento ao agravo interno.
+É o voto.
