@@ -1,0 +1,7 @@
+DECISÃO
+1. Trata-se de habeas corpus impetrado contra acórdão do Tribunal Regional Federal da 1ª Região, no qual se aduz, em suma, a existência de arbitrariedade que, de forma concreta, está a gerar cerceamento à liberdade de locomoção de JULIO CESAR DO NASCIMENTO MARTINS, razão pela qual a única alternativa encontrada foi a invocação do presente remédio heroico.
+2. Entretanto, de acordo com as informações obtidas na página eletrônica da Corte regional, verifica-se que, após a interposição do presente recurso, a 4ª Turma do Tribunal Regional Federal da 1ª Região, deu parcial provimento à Apelação n. 0000948-91.2017.4.01.3811, redimensionando as penas impostas ao paciente para 2 (dois) anos e 8 (oito) meses de reclusão, em regime inicial semiaberto, mais pagamento de 28 (vinte e oito) dias-multa, pela prática dos delitos tipificados nos arts. 180, caput, e 304, ambos do Código Penal, tendo passado em julgado o acórdão em 2/7/2018.
+Assim, com a superveniência do trânsito em julgado da condenação, fica superada a análise da legalidade da custódia antecipada ora imposta, porquanto se trata, agora, de prisão-pena, e não mais de segregação processual.
+3. Diante do exposto, com fundamento no art. 34, inciso XX, do Regimento Interno deste Tribunal, julga-se prejudicado o habeas corpus, pela perda de seu objeto.
+Publique-se e intimem-se.
+Após o trânsito em julgado, arquivem-se os autos.
