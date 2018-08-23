@@ -1,0 +1,45 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por [NOME], contra acórdão prolatado, por unanimidade, pela 1ª Turma de Direito Público do Tribunal de Justiça do Pará no julgamento de apelação, assim ementado (fl. 298e):
+APELAÇAO CÍVEL. AÇÃO ORDINÁRIA DE REAJUSTE SALARIAL. PREJUDICIAL DE MÉRITO. PRESCRIÇÃO DO FUNDO DE DIREITO. SUSCITADA EM CONTRARRAZÕES PELO IGEPREV. ACOLHIMENTO. PROCESSO EXTINTO SEM RESOLUÇÃO DE MÉRITO.
+Precedentes do STJ e desta Corte.
+1- O Superior Tribunal de Justiça tem entendimento consolidado no sentido de que o direito à retificação ou alteração de ato de aposentadoria para fins de reenquadramento tem início com o ato de transferência para a inatividade, sujeitando-se a respectiva ação ao prazo prescricional de cinco anos, a teor do Decreto 20.910, de 1932"
+2 - In casu, observa-se que o lapso de tempo entre as datas das publicações das Portarias dos autores, até a propositura da ação em 13/01/2015 (fl. 02), objetivando o recebimento do percentual de 22,45% concedido aos militares em outubro 1995, transcorreu período superior a cinco anos, o que enseja a prescrição da pretensão, nos termos do art. 1º do Decreto nº 20.910, de 06/01/1932
+7- Preliminar de prescrição do fundo de direito acolhida, para julgar extinto o processo, nos termos do art. 269, IV, do CPC/1973, restando prejudicada a análise da apelação cível.
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa à Súmula n. 85/STJ, afirmando tratar-se de diferença de remuneração, sendo portanto uma relação de trato sucessivo, não operando-se a prescrição.
+Sem contrarrazões (fl. 337e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, IV, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, b, e 255, II, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+No caso, verifico que o acórdão recorrido adotou entendimento consolidado nesta Corte, segundo o qual nos casos em que se busca a revisão do ato de aposentadoria, ocorre a prescrição do próprio fundo de direito após o transcurso de mais de cinco anos entre o ato de concessão e o ajuizamento da ação.
+.
+Na mesma linha, os seguintes julgados:
+ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. REVISÃO DO ATO DE APOSENTADORIA. PRESCRIÇÃO DO FUNDO DE DIREITO. TERMO INICIAL. INCIDENTE CONHECIDO E PROVIDO.
+1. Nos casos em que o servidor busca a revisão do ato de aposentadoria, ocorre a prescrição do próprio fundo de direito após o transcurso de mais de cinco anos entre o ato de concessão e o ajuizamento da ação. Inteligência do art. 1º do Decreto 20.910/32.
+Precedentes.
+2. A existência de norma específica que regula a prescrição quinquenal, nos feitos que envolvem as relações de cunho administrativo - tais como aquelas que envolvem a Administração Pública e os seus servidores -, afasta a adoção do prazo decenal previsto no art. 103, caput, da Lei 8.213/91, que dispõe sobre os Planos de Benefícios da Previdência Social.
+4. Incidente de uniformização conhecido e provido.
+(Pet 9.156/RJ, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA SEÇÃO, julgado em 28/05/2014, DJe 03/06/2014);
+ADMINISTRATIVO. SERVIDOR PÚBLICO APOSENTADO. REVISÃO DE APOSENTADORIA. PRESCRIÇÃO DO FUNDO DE DIREITO. OCORRÊNCIA.
+1. O entendimento adotado pela Corte local é, conforme a jurisprudência firmada pelo Superior Tribunal de Justiça, no sentido de que é de cinco anos o prazo prescricional para o servidor inativo postular a revisão do benefício de aposentadoria, considerando-se como termo inicial a data em que ele passou à inatividade, nos termos do art. 1º do Decreto 20.910/32. Nesses casos, a prescrição atinge o próprio fundo de direito, não se cogitando de relação de trato sucessivo.
+2. Recurso Especial não provido.
+(REsp 1.509.760/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 02/06/2015, DJe 05/08/2015).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECÁLCULO DE VANTAGEM FIXADA EM ATO DE APOSENTADORIA. PRESCRIÇÃO DO FUNDO DO DIREITO.
+1. A jurisprudência desta Corte firmou-se no sentido de que a revisão do ato de aposentadoria após o prazo de cinco anos entre a aposentação e o ajuizamento da ação encontra óbice no art. 1º do Decreto 20.910/32.
+2. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1477114/PA, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, julgado em 04/02/2016, DJe 12/02/2016)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENSIONISTA DE SERVIDOR PÚBLICO. NOVO CÁLCULO DE VANTAGEM. EXAME. IMPOSSIBILIDADE. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO ATACADO. INCIDÊNCIA DAS SÚMULAS 283/STF E 83/STJ.
+1. Agravo regimental no qual pensionista de ex-servidor público busca o recálculo de vantagem fixada inicialmente no ato de aposentadoria.
+2. A Corte de origem assentou que a revisão da pensão passaria pela reforma do próprio ato da aposentação, não sendo hipótese para o reconhecimento da relação de trato sucessivo. No ponto, o decisum encontra-se em consonância com a jurisprudência desta Corte Superior, pois "A pretensão de alterar o ato de aposentadoria, reforma ou concessão da pensão se submete à denominada prescrição do fundo de direito, prevista no art. 1.º do Decreto n. 20.910/32, correndo o prazo da data de publicação do mencionado ato" (AgRg no REsp 1097981/RJ, Rel. Min. Laurita Vaz, Quinta Turma, DJe 27/09/2010). O apelo nobre, entretanto, não se irresignou contra a referida fundamentação, o que atrai a incidência das Súmulas 283/STF e 83/STJ.
+3. Agravo regimental não provido.
+(AgRg no REsp 1.284.876/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 24/4/2012, DJe 27/4/2012)
+Com efeito, visando a demanda a alterar os atos de aposentadorias, que não contemplou o reajuste no percentual de 22,45%, em razão de equiparação ao reajuste concedido aos militares pelo Decreto n. 711/95, incide a prescrição do fundo de direito, nos termos do art. 1º do Decreto n. 20.910/32.
+No que tange aos honorários advocatícios, da conjugação dos enunciados administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos, quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais, em favor do patrono da parte recorrida, está adstrita às hipóteses de não conhecimento ou improvimento do recurso.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/15), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Na aferição do montante a ser arbitrado a título de honorários recursais deverão ser considerados o trabalho desenvolvido pelo patrono da parte recorrida e os requisitos previstos nos §§ 2º a 10º, do art. 85, do estatuto processual civil de 2015, sendo desnecessária a apresentação de contrarrazões (v.g. STF, Pleno, AO 2063 AgR/CE, Rel. Min. Marco Aurélio, Redator para o acórdão Min. Luiz Fux, j. 18.05.2017), embora tal elemento possa influir na sua quantificação.
+Assim, nos termos do art. 85, §§ 11 e 2º, de rigor a majoração dos honorários anteriormente fixados em 10% (fl. 219e) para 11%, restando suspensa sua exigibilidade, nos termos do art. 98, § 3º, do Código de Processo Civil de 2015.
+Isto posto, com fundamento nos arts. 932, IV, do Código de Processo Civil de 2015 e 34, XVIII, b, e 255, II, ambos do RISTJ, NEGO PROVIMENTO ao Recurso Especial.
+Publique-se e intimem-se.
