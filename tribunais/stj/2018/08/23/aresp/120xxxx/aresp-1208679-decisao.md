@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto pela INDARU INDÚSTRIA E COMÉRCIO LTDA. contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional, e que desafia acórdão assim ementado (e-STJ fl. 188):
+EMBARGOS À EXECUÇÃO - OPERAÇÃO DE FONTE DE POLUIÇÃO - Não configurado o cerceamento de defesa - Ausência de inépcia da inicial, que atende aos requisitos da Lei nº 6.830/80 - Desnecessária a apresentação de demonstrativo do cálculo do débito - Recurso Repetitivo RESP 1138202/ES - Prescindível a juntada de processo administrativo com a inicial - Jurisprudência - A autuação foi regular - Não desconstituída a presunção de certeza e liquidez da CDA - O valor da multa foi arbitrado de forma fundamentada - Inteligência do artigo 86 do Regulamento da Lei nº 997/76, aprovado pelo Decreto nº 8.468/76 - A utilização da UFESP para arbitrar o quantum da multa não implica em adoção desse índice para a atualização monetária - Cabível a correção monetária e juros em multa administrativa - Jurisprudência do STJ - Por se tratar de dívida líquida, certa e exigível, os juros de mora incidem a partir do vencimento - REJEITADAS AS PRELIMINARES, NEGA-SE PROVIMENTO AO RECURSO.
+Embargos de declaração foram rejeitados (e-STJ fls. 216/219).
+No especial obstaculizado, o ora agravante apontou violação dos arts. 442, 443, 464 e 1.022, II, do CPC/2015. Sustentou, inicialmente, existência de omissão no julgado, acerca da tese de que a UFESP não poderia ser utilizada como fator de correção monetária e que o Decreto estadual n. 32.951/1991 não poderia prevalecer sobre a Lei federal n. 8.177/1991.
+No mérito, alegou que, ao indeferir o pedido de produção de prova oral e pericial, houve cerceamento do seu direito de defesa, argumentando não ser possível ao julgador antecipar o conteúdo e o alcance das provas (e-STJ fls. 236/247).
+Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ fl. 261), o que desafiou a interposição do presente agravo (e-STJ fls. 279/292).
+Contraminuta consta às e-STJ fls. 295/297.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Quanto à alegada ofensa ao art. 1.022, do CPC/2015, não se observa nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes nem tampouco a rebater um a um todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+Nesse sentido:
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+ ..
+(REsp 1.671.609/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/06/2017, DJe 30/06/2017).
+Importa transcrever, no que interessa, a fundamentação do aresto impugnado (e-STJ fls. 189/192):
+Primeiramente, não se vislumbra o alegado cerceamento de defesa. Por óbvio que a realização de laudo pericial, passados muitos meses da infração, não é hábil a reproduzir a situação existente no momento da autuação.
+Tampouco se nota a necessidade da prova oral, inábil a afastar a comprovação técnica. Quanto à documental mencionada no apelo, não foi solicitada sua produção em primeira instância (fls. 117/121).
+Sendo desnecessárias as provas solicitadas e estando a lide devidamente delineada para a formação da convicção do julgador, foi legítimo o julgamento antecipado. Uma vez que a causa estava madura, não havia razão para maiores delongas.
+(..)
+Naquilo que alcança ao valor da multa arbitrada não se verifica qualquer irregularidade. A CETESB comprovou que a recorrente é reincidente, não fazendo jus à pena de advertência.
+Como consta do relatório de inspeção de fls. 76/78, o critério adotado para arbitrar o valor da multa seguiu o disposto no artigo 86 do Regulamento da Lei nº 997/76, aprovado pelo Decreto nº 8.468/76, considerando-se a reincidência, daí não configurada a alegada ausência de fundamentação.
+O valor da multa foi arbitrado em 600 UFESP"s, aplicado esse índice do ano de 2009. Destaco que a UFESP, neste caso, não foi utilizada como fator de atualização monetária, mas tão somente para arbitrar o quantum da multa. Sobre o valor já convertido em reais é que passou a incidir a correção monetária e os juros.
+Apesar de se tratar de multa administrativa, de natureza não punitiva, é possível a incidência de correção monetária e de juros, uma vez que estes fazem parte da composição do débito. Existindo atraso no pagamento, são devidos.
+Ao julgar o recurso integrativo, o Tribunal a quo esclareceu (e-STJ fls. 218/219):
+O V. Acórdão esclareceu que a UFESP não foi utilizada como fator de atualização monetária, mas tão somente para o arbitramento da multa. Nesse sentido é a previsão do artigo 99 do Decreto Estadual 8468 que regulamenta a Lei Estadual 997/76.
+Não houve incidência da UFESP como fator de correção monetária, até porque a conversão ocorreu com base na data de imposição da multa e não no momento da inscrição do débito na CDA.
+Pois bem, da leitura dos excertos, percebe-se que, de fato, inexistiu a alegada omissão, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+De outro lado, no que se refere à alegação de cerceamento de defesa, extrai-se que a Corte de origem, com base no acervo fático-probatório dos autos, entendeu desnecessária a produção das provas oral e pericial, de modo que a modificação do entendimento firmado esbarraria na Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. CERCEAMENTO DE DEFESA. PRODUÇÃO DE PROVAS. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. PRESCRIÇÃO. SUSPENSÃO. EXISTÊNCIA DE REQUERIMENTO ADMINISTRATIVO.
+1. Quanto à alegação de que houve cerceamento ao direito de defesa em face do indeferimento da produção das provas, esclareço que modificar a conclusão a que chegou a Corte de origem, de modo a acolher a tese da recorrente, demanda reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ.
+2. Segundo a jurisprudência do STJ, enquanto pendente de exame o pedido administrativo, o prazo prescricional permanece suspenso, só voltando a correr após a decisão administrativa.
+3. Recurso Especial não provido.
+(REsp 1.645.775/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 07/03/2017, DJe 19/04/2017).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/2015, estabeleço os honorários recursais sucumbenciais em 10% sobre o valor já fixado na origem, respeitados os limites e os critérios previstos nos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
