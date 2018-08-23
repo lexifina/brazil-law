@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por TV GLOBO LTDA, em 18/05/2015, contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+"AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. MPF. NOVELA. CENAS INDEVIDAS.. RECEBIMENTO DE APELAÇÃO. EFEITO SUSPENSIVO. MULTA IMPOSTA. CABIMENTO.
+1- Conforme o art. 14 da Lei n.º 7.347/85, a regra é que o recurso de apelo interposto na ação civil pública seja recebido, apenas, no efeito devolutivo, sendo que, excepcionalmente, poderá o órgão julgador, dentro de sua discricionariedade judiciária, conferir efeito suspensivo, sempre que a parte recorrente consiga demonstrar a probabilidade de ocorrência de dano irreparável.
+2- No entanto, a condenação da parte ré ao pagamento de vultosa quantia a título de indenização por danos morais, não pode permitir, de forma irrazoável, a indisponibilidade de recursos econômico-financeiros, ainda que a título precário e provisório, sob pena de gerar injustificável dano desproporcional e irreparável à esfera jurídica da parte ré civil pública, ora agravante, o qual pode e deve ser judicialmente evitado, no curso do processo, até o trânsito em julgado do provimento jurisdicional definitivo e, em sequência, o início da fase própria de execução/cumprimento.
+3- Recurso parcialmente provido" (fl. 414e).
+O Tribunal de origem, por meio do Ofício de fl. 559e, informa "o trânsito em julgado do acórdão conforme peças em anexo (Agravo de Instrumento nº 2012.02.01.017604-2)".
+Com efeito, "conforme precedentes deste Superior Tribunal de Justiça, a superveniência de sentença de mérito implica a perda de objeto de recurso interposto contra acórdão que desproveu agravo de instrumento. Isso porque eventual provimento do especial não poderia dar ensejo à reforma do título judicial que exerceu cognição exauriente." (STJ, AgRg no AREsp 427.255/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 05/11/2014).
+Assim, não subsiste mais a utilidade e a necessidade do provimento judicial buscado por meio do presente Recurso, razão pela qual deve ser reconhecida a perda superveniente do interesse recursal.
+Ante o exposto, nos termos do art. 34, I, XI, do RISTJ, julgo prejudicado o presente Recurso Especial, por perda superveniente do objeto.
+I.
