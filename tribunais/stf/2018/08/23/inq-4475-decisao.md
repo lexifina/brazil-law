@@ -1,0 +1,17 @@
+Ementa: Direito Processual Penal. Inquérito Policial. Foro Especial por prerrogativa de função. Restrição. Entendimento do Supremo Tribunal Federal em Questão de Ordem na Ação Penal 937-RJ. Hipótese restritiva. Exigências temporal e de pertinência funcional não verificadas. Declínio da competência.
+1. O foro especial por prerrogativa de função, de que cuida o art. 53, § 1º, da CF (Deputados Federais e Senadores), contempla os delitos praticados no cargo e em razão dele.
+2. Situação concreta que não se amolda às hipóteses de competência definidas pelo Supremo Tribunal Federal.
+3. Competência declinada a um dos Juízos Eleitorais de Salvador/BA.
+    Vistos etc.
+    1. Trata-se de Inquérito Policial que investiga a suposta prática do crime tipificado no artigo 350 do Código Eleitoral, pelo Deputado Federal João Carlos Paolilo Bacelar Filho, durante a campanha eleitoral de 2014.
+    2. A presente investigação instaurada perante esta Suprema Corte a pedido da Procuradoria-Geral da República em razão do possível envolvimento do parlamentar federal em delito eleitoral (fls. 02-10)
+    3. As investigações foram iniciadas e diversas diligências realizadas, mas a Procuradora-Geral da República, com base no entendimento assentado pelo Supremo Tribunal Federal na Questão de Ordem na AP 937-RJ, requereu o reconhecimento da incompetência superveniente e remessa dos autos à primeira instância da Justiça Eleitoral da Bahia (fls. 201-3).
+    É o relatório. Decido.
+    4. Com o julgamento da Questão de Ordem na AP 937, de relatoria do Min. Luís Roberto Barroso, ocorrido em sessão plenária do dia 03.5.2018, o Supremo Tribunal Federal concluiu que a sua competência originária criminal, em relação aos parlamentares federais, é limitada aos delitos praticados durante o mandato parlamentar e que, concomitantemente, possuam pertinência funcional com o cargo ocupado. Nesse sentido a conclusão do acórdão:
+    “Decisão: O Tribunal, por maioria e nos termos do voto do Relator, resolveu questão de ordem no sentido de fixar as seguintes teses: (i) O foro por prerrogativa de função aplica-se apenas aos crimes cometidos durante o exercício do cargo e relacionados às funções desempenhadas; e (ii) Após o final da instrução processual, com a publicação do despacho de intimação para apresentação de alegações finais, a competência para processar e julgar ações penais não será mais afetada em razão de o agente público vir a ocupar outro cargo ou deixar o cargo que ocupava, qualquer que seja o motivo, com o entendimento de que esta nova linha interpretativa deve se aplicar imediatamente aos processos em curso, com a ressalva de todos os atos praticados e decisões proferidas pelo STF e pelos demais juízos com base na jurisprudência anterior, conforme precedente firmado na Questão de Ordem no Inquérito 687 (Rel. Min. Sydney Sanches, j. 25.08.1999)(...)”.
+    5. No caso aqui examinado, a conduta imputada ao investigado não possui relação com a função parlamentar, segundo a interpretação que vem de ser definida, a provocar a alteração da competência, com a consequente remessa dos autos para o Juízo competente (art. 109 CPP e art. 21, § 1º, RISTF).
+    7. Nesses termos, reconheço a incompetência superveniente desta Corte e determino a remessa dos autos para ser distribuído a um dos Juízos Eleitorais de Salvador/BA.
+    Publique-se. Intimem-se.
+    Brasília, 23 de agosto de 2018.
+    Ministra Rosa Weber
+    Relatora
