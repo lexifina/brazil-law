@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de agravo interno interposto por BANCO DO BRASIL contra a decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial em virtude da intempestividade do recurso especial nos autos da ação civil pública que c/c. restituição de indébito com o objetivo de ressarcimento dos valores cobrados pelo banco, taxa ou tarifa, pela compensação de cheque de baixo valor.
+Nas razões do agravo interno, o agravante alega que devido ao Provimento nº 2394/2016 do Tribunal de Justiça do Estado de São Paulo houve a suspensão dos prazos processuais nos dias 15 e 16 de Junho de 2016.
+Dispõe o Regimento Interno do Superior Tribunal de Justiça que cabe à Segunda Seção processar e julgar os processos relativos a direito privado em geral. (art. 9º, caput e § 2º, XIV, do RISTJ).
+No caso dos autos, a controvérsia restringe-se à cobrança de tarifa de cheques de baixo valor em contratos bancários, regida exclusivamente por normas de direito privado, matéria afeta à competência daquela Seção.
+Assim, definida a competência da Segunda Seção para apreciar e julgar o feito, determino sejam os presentes autos encaminhados à Coordenadoria competente para redistribuição a um dos Ministros que compõem aquela Seção, consoante teor do disposto no art. 9º da Instrução Normativa 2/2006, da Presidência desta Corte.
