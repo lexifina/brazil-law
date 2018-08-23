@@ -1,0 +1,25 @@
+DECISÃO
+PENA – CAUSA DE DIMINUIÇÃO – ARTIGO 33, § 4º, DA LEI Nº 11.343/2006 – INADEQUAÇÃO.
+PENA – REGIME DE CUMPRIMENTO – CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS.
+PENA – SUBSTITUIÇÃO POR RESTRITIVA DE DIREITOS – INVIABILIDADE.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO .
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Juízo da Segunda Vara Criminal da Comarca de Araraquara/SP, no processo nº 0000075-30.2017.8.26.0556, condenou o paciente a 4 anos e 2 meses de reclusão, em regime inicial semiaberto, e ao pagamento de 416 dias-multa, em virtude do cometimento da infração descrita no artigo 33, cabeça (tráfico de drogas), combinado com o § 4º (causa de diminuição de pena em razão de o agente ser primário, possuir bons antecedentes, não se dedicar a atividades delitivas nem integrar organização criminosa), da Lei nº 11.343/2006. Na dosimetria, fixou a pena-base em 5 anos e 10 meses, ante o piso de 5 anos e o teto de 15 previstos para o tipo penal, levando em conta a quantidade de substância apreendida – 9,85 quilos de maconha. Na segunda fase, fez incidir a atenuante da confissão, estabelecendo a sanção no mínimo legal. Observou a causa de diminuição no patamar de 1/6.
+    A Décima Terceira Câmara de Direito Criminal do Tribunal de Justiça, ao prover a apelação interposta pelo Ministério Público, afastou a causa de diminuição versada no artigo 33, § 4º, da Lei de Tóxicos, assentando dedicar-se o paciente a atividade ilícita considerada a quantidade de entorpecente encontrado. Impôs a pena definitiva de 5 anos de reclusão e 500 dias-multa. Reportando-se ao artigo 2º, § 1º, da Lei nº 8.072/1990, fixou o regime inicial fechado. Ressaltou a gravidade do crime – equiparado a hediondo – e a periculosidade do paciente.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 453.750/SP, o qual teve a ordem indeferida monocraticamente pela Relatora.
+    O impetrante sustenta haver ilegalidade na dosimetria, consubstanciada na inobservância da causa de diminuição, e no estabelecimento do regime inicial fechado. Afirma que o paciente é primário, não integra organização criminosa e não se dedica a atividades delitivas, preenchendo os requisitos necessários ao reconhecimento da causa de diminuição na fração máxima. Aduz que a quantidade e natureza da droga foram negativamente valoradas em três oportunidades, tendo como configurada a dupla punição. Destaca o decidido pelo Supremo acerca da inconstitucionalidade do artigo 2º, § 1º, da Lei de Crimes Hediondos.
+    Requer, no campo precário e efêmero, a incidência, na fração máxima, da causa de diminuição versada no artigo 33, § 4º, da Lei nº 11.343/2006 e, sucessivamente, em patamar razoável, bem como a imposição do regime aberto ou semiaberto e a conversão da pena em restritiva de direitos. No mérito, busca a confirmação das providências.
+    Consulta ao sítio do Tribunal estadual, em 15 de agosto de 2018, revelou terem sido formalizados embargos declaratórios, pendentes de julgamento.
+    A fase é de apreciação da medida acauteladora.
+    2. O Tribunal de Justiça, ao afastar a causa de diminuição descrita no artigo 33, § 4º, da Lei nº 11.343/2006, apontou a quantidade do entorpecente apreendido – 9,85 quilos de maconha –, assentando a dedicação do paciente a atividades ilícitas. Aludiu ao fato de haver atuado na estrutura de fornecimento (“atacado”), dizendo ser conduta reservada a pessoas com especialização e disposição para o crime. Surgem adequadas as premissas.
+    No que concerne ao regime de cumprimento, atentem para a disciplina legal. Norteia-o o patamar atinente à condenação e as circunstâncias judiciais, nos termos do artigo 33, § 3º, do Código Penal.
+    No caso, a pena-base, ante a quantidade da droga, foi fixada acima do mínimo previsto para o tipo, conforme o artigo 42 da mencionada Lei, a versar a preponderância em relação às circunstâncias judiciais do artigo 59 do Código Penal. Estas foram valoradas negativamente. Considerada a pena aplicada – 5 anos –, mostrou-se válido o implemento do regime fechado.
+    Quanto à alegada dupla tomada de dados, percebam que inexiste sobreposição quando envolvida elementar do crime. A razão é simples: para o tipo, é estabelecida pena mínima e máxima. Então, a definição ocorre levando em conta as circunstâncias judiciais. Imposta a pena-base, abre-se ensejo para o exame da prática delituosa, sem limitação, observadas atenuantes e agravantes, causas de diminuição e de aumento da sanção – artigo 68 do Código Penal.
+    A substituição da pena encontra óbice no artigo 44, incisos I e III, do mesmo Código, uma vez aplicada sanção privativa de liberdade superior a 4 anos e valoradas negativamente as circunstâncias judiciais.
+    O habeas corpus pressupõe a configuração de ilegalidade e, observadas as premissas acima consignadas, esta não surge.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 23 de agosto de 2018.
+Ministro MARCO AURÉLIO
+Relator
