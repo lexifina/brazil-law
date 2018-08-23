@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo manejado pelo Ministério Público Federal contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 275):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE MULTA POR DESCUMPRIMENTO DA OBRIGAÇÃO ESPECÍFICA DE RECUPERAÇÃO AMBIENTAL. RECOMPOSIÇÃO DO COMPLEXO ECOLÓGICO ATINGIDO PELA CONSTRUÇÃO DA USINA HIDRELÉTRICA SANTA RITA. MUNICÍPIO DE ALMIRANTE TAMANDARÉ NO ESTADO DO PARANÁ.
+Não tem cabimento a execução da multa enquanto não decorrido o prazo para cumprimento da obrigação.
+Como há coisa julgada determinando que a multa incide se, depois de passado 1 ano a contar da intimação dos réus, o Instituto Ambiental do Paraná verificar que não foi cumprida a obrigação específica de recomposição do complexo ecológico, em não havendo a intimação, o cômputo do prazo de 1 ano não teve início.
+Mantida a decisão que afastou, por ora, a execução da multa.
+Opostos embargos declaratórios, foram improvidos.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 461, 535, II, do CPC/73.
+Sustenta que o acórdão recorrido incorreu em omissão, pois deixou de analisar: (I) "a questão da desnecessidade da intimação específica para incidência de multa pelo descumprimento de obrigação após a vigência da nova Lei." (fl. 300) e (II) "a alegação de que os réus demonstraram ciência inequívoca da decisão que determinou a recuperação da área." (fl. 301).
+Ademais, alega que diante do não cumprimento da obrigação no prazo fixado pela sentença, passa a incidir de imediato a multa cominada, sendo desnecessária a intimação do devedor.
+O MPF opinou pelo não provimento do agravo (fls. 418/422/).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, "a multa (valor e termo inicial) foi tratada no processo de conhecimento, à luz do contraditório e da ampla defesa, e não houve impugnação das partes quanto ao termo inicial de incidência." (fl. 274), esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
