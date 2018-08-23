@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARCELO DE ARAUJO BORGES, com fulcro no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"FURTO TENTADO  AUTORIA DELITIVA PROVADA  CRIME IMPOSSÍVEL  INOCORRÊNCIA  MEIO ABSOLUTAMENTE IDÔNEO PARA A PRATICA DO CRIME  CONDENAÇÃO MANTIDA. Suficientes os elementos probatórios a demonstrar a autoria de acusado que tentou subtrair coisa alheia móvel, de rigor a manutenção do decreto condenatório, não havendo que se falar em crime impossível.
+FURTO TENTADO  PRINCÍPIO DA INSIGNIFICÂNCIA  NÃO CABIMENTO. Ainda que os bens subtraídos não possuíssem expressivo valor, não haveria que se falar em aplicação do princípio da insignificância, pois a falta de punição de pequenos furtos acarretaria uma exposição da sociedade a esse tipo de delito e corresponderia a uma verdadeira autorização judicial para que os criminosos continuem na prática de subtrações, desde que laborem com inteligência, ou seja, escolham sempre bens de pequeno valor.
+RECURSO NÃO PROVIDO." (e-STJ, fl. 158).
+Em suas razões, a Defensoria Pública sustenta violação dos artigos 155, 65, 33 e 59, todos do Código Penal. Requer o reconhecimento do princípio bagatelar, ao argumento de que o bem subtraído avaliado em R$ 333,20 é juridicamente irrelevante. Aduz, ainda, que "a vítima do caso em comento é um supermercado, logo, a bagatela adquire maior importância, vez que a redução patrimonial decorrente de 24 (vinte e quatro) unidades de desodorantes, RECUPERADOS, é, no limite, economicamente imperceptível, inexistente." (e-STJ, fl. 204). Subsidiariamente, alega que a confissão, utilizada como fundamento na sentença condenatória, deve ser reconhecida como atenuante e consequentemente compensada com a agravante da reincidência. Por fim, alega que o recorrente foi condenado a pena de 8 meses, e, apesar de possuir circunstâncias favoráveis, foi fixado o regime fechado para o início de cumprimento da reprimenda.
+Apresentadas contrarrazões (e-STJ, fls. 213-240) e admitido o recurso, subiram os autos a esta Corte.
+O Ministério Público Federal opinou pelo parcial provimento do recurso (e-STJ, fls. 264-277).
+É o relatório.
+Decido.
+A existência de matéria de ordem pública, prejudicial ao exame do recurso, demanda a concessão da ordem de ofício para que se declare a extinção da punibilidade do agente.
+Observe-se que, na sentença condenatória, foi aplicada a pena de 8 meses de reclusão, pela prática do crime tipificado no art. 155 c/c art. 14, II, ambos do CP.
+Considerando a pena estabelecida, a prescrição da pretensão punitiva ocorre em 3 anos, conforme o art. 109, VI, do Código Penal.
+Transcorridos mais de 3 anos desde a data da publicação da sentença condenatória (22/7/2015 - e-STJ, fl. 102) e não havendo outra causa interruptiva da prescrição, deve ser declarada extinta a punibilidade do recorrente.
+À vista do exposto, com fundamento no art. 110, § 1º, c/c art. 109, VI, ambos do Código Penal, concedo habeas corpus, de ofício, para declarar extinta a punibilidade de MARCELO DE ARAUJO BORGES, no Processo n. 0040536-78.2015.8.26.0050. Consequentemente, julgo prejudicado o recurso especial.
+Publique-se. Intimem-se.
