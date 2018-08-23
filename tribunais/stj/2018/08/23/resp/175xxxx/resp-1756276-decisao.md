@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+De acordo com o contido nos autos, o ora recorrente foi condenado às penas de 10 anos e 2 meses de reclusão, em regime fechado, e 660 dias-multa pelos delitos de tráfico de drogas e de posse ilegal de arma de fogo com numeração suprimida.
+Foram apreendidos com o recorrente 28 (vinte e oito) eppendorfs contendo cocaína, duas grandes porções da mesma droga, uma porção de pasta do cocaína e um "tijolo" de maconha, além do revólver calibre 32 com numeração suprimida, municiado e outras 20 cápsulas intactas de mesmo calibre. Também foram apreendidos uma balança digital, R$ 143,00 (cento e quarenta e três reais) em dinheiro, vários flaconetes vazios e material para embalagem de drogas (um rolo de plástico transparente e um medidor) (e-STJ fl. 2).
+Não obstante os autos de exibição e apreensão de e-STJ fls. 17/18 e 21, as informações lá contidas são ininteligíveis, não permitindo verificar as reais quantidades em gramas das drogas apreendidas.
+Inconformada, a defesa interpôs apelação, à qual o Tribunal de origem, por unanimidade de votos, negou provimento (e-STJ fls. 355/364).
+A defesa opôs embargos de declaração que foram rejeitados por unanimidade de votos (e-STJ fls. 375/386).
+Nas razões do recurso especial, a defesa asseverou, em suma, não ser possível condenações pretéritas, acobertadas pelo período depurador, caracterizar maus antecedentes, devendo a pena-base ser fixada no mínimo.
+Pugnou, ainda, pela minoração da pena imposta pelo cometimento do delito de posse ilegal de arma de fogo por força da atenuante da confissão espontânea, pois "além de não encontrar nenhum amparo legal a afirmação de que o réu tem que confessar todos os crimes para ver reconhecida a atenuante em relação ao delito que confessou, não há dúvida de que o magistrado utilizou a confissão para condená-lo pelo crime de porte de arma, de modo que deve ser reconhecida a atenuante na espécie" (e-STJ fl. 395).
+Pleiteou, assim, pelo decote dos maus antecedentes com a consequente fixação da pena-base no mínimo legal e pelo reconhecimento da confissão espontânea para o crime de posse de arma de fogo.
+Contrarrazões às e-STJ fls. 402/419.
+O Ministério Público Federal manifestou-se, às e-STJ fls. 433/438, pelo parcial provimento do recurso.
+É o relatório. Decido.
+O Tribunal de origem negativou os antecedentes do recorrente pela existência de condenação pretérita já alcançada pelo período depurador previsto no art. 64, I, do Código Penal e, assim, elevou a pena-base e negou o privilégio do art. 33, § 4º, da Lei de Drogas (e-STJ fls. 382/383):
+Ora, condenação anterior, que não seja capaz de gerar reincidência, configura sim, maus antecedentes.
+O Superior Tribunal de Justiça já decidiu que "não há flagrante ilegalidade se o juízo sentenciante considera, na fixação da pena, condenações pretéritas, ainda que tenha transcorrido lapso temporal superior a cinco anos entre o efetivo cumprimento das penas e a infração posterior; pois, embora não sejam aptas a gerar a reincidência, nos termos do art. 64, I, do CP, são passíveis de serem consideradas como maus antecedentes no sopesamento negativo as circunstâncias judiciais (HC 198.557/MG, rel. Min. Marco Aurélio Bellize, 5ª Turma, j. 13.03.2012). (grifei)
+Ao assim decidir, o Tribunal de origem não destoou da consagrada jurisprudência desta Corte, segundo a qual as condenações pretéritas alcançadas pelo período depurador, embora não configurem reincidência (art. 64, I, do CP), são aptas a caracterizar os maus antecedentes do réu, autorizando a fixação da pena-base acima do mínimo legal.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA. TRÁFICO PRIVILEGIADO. PERÍODO DEPURADOR NÃO AFASTA OS MAUS ANTECEDENTES. QUANTIDADE E NATUREZA DA DROGA. EXASPERAÇÃO DA PENA-BASE. FIXAÇÃO DE REGIME MAIS GRAVOSO. NÃO INCIDÊNCIA DE BIS IN IDEM. AGRAVO IMPROVIDO.
+1. A jurisprudência deste Tribunal é assente no sentido de que as condenações alcançadas pelo período depurador de 5 anos, previsto no art. 64, inciso I, do Código Penal, afastam os efeitos da reincidência, mas não impedem a configuração de maus antecedentes.
+ ..
+5. Agravo regimental improvido. (AgRg no AREsp 1124693/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 19/4/2018, DJe 2/5/2018, grifei)
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. OMISSÃO QUANTO A CONFIGURAÇÃO DE MAUS ANTECEDENTES. OCORRÊNCIA. ACÓRDÃO CONDENATÓRIO RESTABELECIDO. EMBARGOS ACOLHIDOS COM EFEITO INFRINGENTES.
+ ..
+III - A jurisprudência deste Tribunal é assente no sentido de que as condenações alcançadas pelo período depurador de 5 anos, como no presente caso, previsto no art. 64, inciso I, do Código Penal, afastam os efeitos da reincidência, mas não impedem a configuração de maus antecedentes, permitindo, assim, o aumento da pena-base acima do mínimo legal.
+Embargos de declaração acolhido, com efeitos infringentes, para sanar a omissão e não conhecer do habeas corpus, com o fim de restabelecer o acórdão condenatório proferido pelo eg. Tribunal de origem em grau de apelação. (EDcl no HC 413.204/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 15/5/2018, DJe 21/5/2018, grifei)
+Portanto, não há que se falar em fixação da pena-base no mínimo legal.
+Melhor sorte alcança o recurso especial quanto à atenuante da confissão espontânea.
+O Tribunal de origem, não obstante reconhecer a confissão espontânea no crime de posse ilegal de arma de fogo, negou a atenuação da pena ao argumento de ter sido parcial (e-STJ fl. 363).
+Ao decidir nesses termos, a Corte local afrontou a jurisprudência deste Tribunal Superior, sedimentada no enunciado da Súmula n. 545 - "Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal" -, pois a confissão espontânea, ainda que parcial, deve implicar redução da pena sempre que tiver sido declinada para o fim de corroborar a autoria do crime.
+A propósito:
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. ROUBO MAJORADO TENTADO. VIOLAÇÃO DOS ARTS. 65, III, D, E 67, AMBOS DO CP. DOSIMETRIA. CONFISSÃO ESPONTÂNEA E PARCIAL. UTILIZAÇÃO COMO SUPORTE DA CONDENAÇÃO. ATENUAÇÃO OBRIGATÓRIA. OMISSÃO. VERIFICAÇÃO. NÃO OCORRÊNCIA.
+1. Tanto na sentença condenatória, como no combatido aresto, foi reconhecida a confissão parcial do embargado. O não reconhecimento da atenuante da confissão espontânea revela-se em dissonância com a jurisprudência do Superior Tribunal de Justiça.
+2. Nos casos em que a confissão do acusado servir como um dos fundamentos para a condenação, deve ser aplicada a atenuante em questão, pouco importando se a confissão foi espontânea ou não, se foi total ou parcial, ou mesmo se foi realizada só na fase policial, com posterior retratação em juízo.
+3. A jurisprudência desta Corte firmou-se no sentido de que a confissão, ainda que parcial, ou mesmo qualificada - em que o agente admite a autoria dos fatos, alegando, porém, ter agido sob o pálio de excludentes de ilicitude ou de culpabilidade -, deve ser reconhecida e considerada para fins de atenuar a pena. Precedentes. HC n. 350.956/SC, Ministro Nefi Cordeiro, Sexta Turma, DJe 15/8/2016).
+4. Embargos de declaração rejeitados. (EDcl no AgRg no REsp 1710957/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 22/05/2018, DJe 06/06/2018, grifei)
+PENAL. ROUBO CIRCUNSTANCIADO (ART. 157, § 1º, e § 2º, I DO CP). DOSIMETRIA. PENA-BASE. MAUS ANTECEDENTES. REINCIDÊNCIA. PACIENTE MULTIRREINCIDENTE. BIS IN IDEM. NÃO OCORRÊNCIA. PLEITO DE APLICAÇÃO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. RÉU QUE ADMITIU A SUBTRAÇÃO, MAS NÃO A GRAVE AMEAÇA OU VIOLÊNCIA. CONFISSÃO PARCIAL CONFIGURADA. CRIME COMPLEXO. SUBTRAÇÃO (FURTO) ASSOCIADA A OUTRA FIGURA TÍPICA (CONSTRANGIMENTO, AMEAÇA OU VIOLÊNCIA). COMPENSAÇÃO INTEGRAL DA CONFISSÃO ESPONTÂNEA COM A REINCIDÊNCIA. PACIENTE MULTIRREINCIDENTE ESPECÍFICO. COMPENSAÇÃO PARCIAL. POSSIBILIDADE. ORDEM CONCEDIDA EM PARTE.
+ ..
+2. A jurisprudência desta Corte firmou-se no sentido da incidência da atenuante da confissão espontânea, prevista no art. 65, III, "d", do Código Penal, sendo irrelevante o fato de a confissão ter sido espontânea ou não, total ou parcial - em que o réu admite parte dos fatos a ele imputados - deve ser considerada para atenuar a pena, ou mesmo que tenha havido retratação, bastando que tenha servido para embasar a condenação. Precedentes.
+3. Embora a simples subtração configure crime diverso - furto -, também constitui uma das elementares do delito de roubo - crime complexo, consubstanciado na prática de furto, associado à prática de constrangimento, ameaça ou violência, daí a configuração de hipótese de confissão parcial.
+ ..
+6. Ordem parcialmente concedida para reduzir a reprimenda do paciente a 8 anos e 4 meses de reclusão e 20 dias-multa. (HC 396.503/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 24/10/2017, DJe 06/11/2017, grifei)
+Assim, a particularização da reprimenda imposta pela prática do crime de posse ilegal de arma de fogo passa a ser revista.
+A pena-base fica mantida em 3 anos e 6 meses de reclusão.
+Na segunda fase, reconhecida a confissão espontânea por esta Corte, a sanção fica reduzida em 1/6, totalizando 2 anos e 11 meses de reclusão.
+Na terceira fase, à míngua de causa de aumento ou de diminuição, fica a sanção mantida em 2 anos e 11 meses de reclusão,12 dias-multa.
+Em razão do concurso material, o recorrente fica condenado à pena total de 9 anos e 7 meses de reclusão, em regime fechado e 677 dias-multa.
+Ante o exposto, dou parcial provimento ao recurso para reconhecer a confissão espontânea e readequar as penas nos termos acima delineados.
+Publique-se. Intimem-se.
