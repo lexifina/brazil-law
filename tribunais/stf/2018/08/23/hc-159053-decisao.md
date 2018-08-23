@@ -1,0 +1,26 @@
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de Vitor Hugo dos Santos Salazar contra decisão monocrática do Ministro Rogério Schietti Cruz, Relator do HC 439.052/SP no Superior Tribunal de Justiça - STJ.
+    Esta a decisão ora atacada:
+    “VITOR HUGO DOS SANTOS SALAZAR estaria sofrendo constrangimento ilegal no seu direito de locomoção, em decorrência de decisão proferida por Desembargador do Tribunal de Justiça do Estado de São Paulo, que indeferiu a liminar no HC n. 2035921-59.2018.8.26.0000.
+    O impetrante se insurge contra o decreto que homologou o flagrante e decretou a prisão preventiva da paciente, por suposta prática dos crimes de tráfico de drogas e de associação para o tráfico. Aponta a falta de demonstração concreta dos requisitos do art. 312 do CPP e requer a expedição de alvará de soltura.
+    Decido.
+    Aponto, de início, o óbice contido no enunciado da Súmula n. 691 do STF, cujo raciocínio empregado em sua compreensão tem sido observado por esta Corte nos casos que aqui aportam, originados com o indeferimento de liminar na origem. Apenas em casos excepcionais, o rigor da súmula é mitigado, quando o constrangimento ilegal é manifesto, o que não verifico na hipótese.
+    Sem prejuízo de melhor análise da controvérsia na impetração originária, verifico que o Juiz, com lastro em elementos concretos, indicou a periculosidade do paciente, com lastro em indícios de prática não ocasional do tráfico de drogas. Registrou que, ‘após investigações [...] concluiu-se que o autuado [...] receberia nova 'partida' de entorpecentes, que seriam entregues na residência de Maira de Gois’. Equipe da polícia interceptou a entrega e ‘Vitor Hugo [...] confirmou que a caixa era sua propriedade’. A embalagem continha ‘razoável porção de cocaína e quatro pedaços de maconha’.
+    O indiciado entregou à polícia ‘outra duas porções de cocaína, uma porção de maconha, certa quantia em dinheiro e embalagens, os quais estavam no quarto dele’. Na residência de ‘Maira, dentro de seu quarto, foram encontrados [...] um tablete de maconha […] uma balança’; ‘somadas, as substâncias entorpecentes resultaram no peso líquido de 707,57 gramas de maconha e 266,30 gramas de cocaína’. "Vítor Hugo [...] confessou a propriedade dos entorpecentes, bem como a prática da traficância’ (fl. 39).
+    O Magistrado concluiu: ‘as investigações Civil [...] e a quantidade de droga’ são fortes indícios do "comércio ilegal de drogas, a ensejar, desde agora, a garantia da ordem pública’, principalmente porque ‘não há qualquer evidência ou indício de que [o indiciado] ostenta atividade lícita remunerada, mormente para aquisição de grande quantidade de entorpecente que mantinha consigo’ (fl. 39).
+    Assinalou o Juiz que ‘em razão da quantidade e [da] variedade de entorpecentes [...] em caso de eventual condenação deverá [o réu] iniciar o cumprimento da pena [...] em regime fechado’. Medidas em meio aberto seriam insuficientes para evitar que ele, ‘imerso no mundo das drogas, sem atividade lícita’, cesse a mercancia ilícita (fl. 39).
+    Nesse cenário, o indeferimento da liminar pelo Desembargador não é teratológico, pois, consoante os precedentes deste Superior Tribunal, a grande quantidade e a variedade de drogas apreendidas são aptas a evidenciar o risco de reiteração delitiva.
+    Nesse cenário, impossível afastar a Súmula n. 691 do STF e interferir prematuramente, em indevido salto de instância, na competência do Tribunal de Justiça do Estado de São Paulo.
+    À vista do exposto, com lastro no art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+    Publique-se e intimem-se.
+    Brasília (DF), 06 de março de 2018.
+    Ministro ROGERIO SCHIETTI CRUZ”.
+    É o relatório necessário. Decido.
+    Como se vê, a presente impetração volta-se contra decisão monocrática do Ministro Rogerio Schietti Cruz, que negou seguimento ao habeas corpus.
+    Desse modo, este pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência deste Supremo Tribunal Federal, descritos no art. 102 da Constituição Federal, que pressupõem seja a coação praticada por Tribunal Superior.
+    Essa foi a orientação firmada pela Segunda Turma, quando do julgamento do HC 119.115/MG, de minha relatoria, ocasião na qual se decidiu que a não interposição de agravo regimental no Superior Tribunal de Justiça e, portanto, a ausência da análise da decisão monocrática pelo seu colegiado, impede o conhecimento do habeas corpus por esta Suprema Corte. Do contrário, permitiria ao jurisdicionado a escolha do Tribunal para conhecer e julgar a sua causa, o que configuraria evidente abuso do direito de recorrer.
+    Ademais, as teses suscitadas não foram examinadas pela decisão ora questionada, que não conheceu do habeas corpus, ante a orientação desta Suprema Corte assentada na Súmula 691. Nesse contexto, a análise daquelas questões por esta Suprema Corte implicaria dupla supressão de instância, de modo que é recomendável aguardar-se o pronunciamento definitivo do Tribunal local.
+    Isso posto, com base no art. 21, § 1°, do RISTF, nego seguimento a este writ. Prejudicado o exame da medida liminar.
+    Publique-se.
+    Brasília, 23 de agosto de 2018.
+Ministro Ricardo Lewandowski
+Relator
