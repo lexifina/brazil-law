@@ -1,0 +1,12 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu o recurso extraordinário interposto em face de acórdão do Tribunal Superior do Trabalho, assim ementado (eDOC 68):
+    “AGRAVO. AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. LEI Nº 13.015/2014. VALEC. RECURSO DE REVISTA QUE NÃO PREENCHE O REQUISITO DO ART. 896, § 1º-A, I, DA CLT. AGRAVO DE INSTRUMENTO NÃO CONHECIDO POR FALTA DE IMPUGNAÇÃO ESPECÍFICA. 1 – O agravo interposto pela parte trata da matéria de fundo discutida na ação, e não das questões, de ordem formal, relativas ao recurso de revista (art. 896, § 1º-A, I, da CLT) e ao agravo de instrumento (Súmula nº 422 do TST), identificadas na decisão monocrática agravada. 2 – Nesse contexto, aplica-se também, quanto ao agravo, a Súmula nº 422 do TST, segundo a qual é necessária a impugnação específica aos fundamentos da decisão impugnada. 3 – Agravo de que não se conhece. ”
+    No recurso extraordinário, com fundamento no art. 102, III, “a” do permissivo constitucional, postula-se a reforma da decisão por violação aos arts. 5º, II, LV; 37, caput, XXI, e § 6º, da Constituição Federal. Aponta-se violação ao entendimento do Supremo Tribunal Federal quanta à responsabilidade subsidiária de ente público perante inadimplência de verbas trabalhistas por parte de empresa terceirizada.
+    O Supremo Tribunal Federal já se manifestou sobre o tema discutido nestes autos.
+    De plano, verifica-se que a controvérsia relativa ao preparo cinge-se ao Tema 181 da sistemática da repercussão geral, cujo recurso-paradigma é o RE-RG 598.365, de relatoria do Ministro Ayres Britto, DJe 26.3.2010, assim ementado:
+    “PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso “elemento de configuração da própria repercussão geral”, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 23 de agosto de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
