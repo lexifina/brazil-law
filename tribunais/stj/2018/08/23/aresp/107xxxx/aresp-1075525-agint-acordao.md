@@ -1,0 +1,23 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDORA PÚBLICA. DEMISSÃO E REINTEGRAÇÃO. PAGAMENTO DE VANTAGENS DESDE A DATA DO ATO DE DEMISSÃO DECLARADO ILEGAL. AUSÊNCIA DE ATAQUE A FUNDAMENTO DO ARESTO ESTADUAL. FALTA DE PREQUESTIONAMENTO. APLICAÇÃO DO ÓBICE DAS SÚMULAS 283 E 282 DO STF.
+1. Remanesceu íntegro o fundamento do acórdão estadual segundo o qual restou demonstrado ao longo da instrução processual a existência da prática da falta funcional e a ausência de nulidades no processo administrativo capazes de anular o apurado durante o trâmite administrativo". Nos termos da Súmula 283/STF, "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.".
+2. A controvérsia não foi solvida pelo Tribunal a quo à luz dos artigos 28 da Lei 8.112/90 e 43 do Código Civil, tampouco aludidos dispostitivos foram suscitados nos embargos declaratórios opostos pela parte ora agravante. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO SÉRGIO KUKINA: A hipótese é de agravo interno interposto por [NOME] contra decisão que negou provimento ao agravo em recurso especial, em razão da incidência das Súmulas 283 e 282 do STF (fls. 647/649).
+Inconformada, a agravante se insurge contra a aplicação do óbice sumular inserto no verbete nº 283/STF, afirmando que a nulidade do ato administrativo, fato assinalado no julgamento da apelação e no recurso especial, é um dado suficiente para infirmar com clareza o fundamento do acórdão recorrido (de que "restou demonstrado ao longo da instrução processual a existência da prática de falta funcional e a ausência de nulidades no processo administrativo capazes de anular o apurado durante o trâmite administrativo").
+Afirma o prequestionamento implícito dos temas insertos nos arts. 28 da Lei 8.112/90 e 43 do Código Civil.
+Defende a configuração do dissenso pretoriano.
+Requer o processamento do apelo nobre.
+É o relatório.
+VOTO
+O SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pesem os argumentos deduzidos no presente recurso, a decisão agravada não merece reparos.
+Consoante anteriormente mencionado, em sede aclaratória, a instância ordinária afastou a pretensão da autora à percepção de vencimentos em atraso, supostamente devidos desde a demissão que fora declarada ilegal, sob a seguinte fundamentação (fl. 596) :
+Apesar de a presente ação ser de cunho declaratório e do provimento conduzir à reforma do ato perpetrado pela autora, não se mostra plausível, in casu, onerar o erário municipal ao pagamento das verbas reclamadas pela autora a partir do ato exoneratório, na medida em que restou demonstrado ao longo da instrução processual a existência da prática da falta funcional e a ausência de nulidades no processo administrativo capazes de anular o apurado durante o trâmite administrativo.
+Nesse contexto, observa-se que remanesceu íntegro o fundamento do acórdão estadual segundo o qual restou demonstrado ao longo da instrução processual a existência da prática da falta funcional e a ausência de nulidades no processo administrativo capazes de anular o apurado durante o trâmite administrativo, esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+De outro lado, é de se constatar que a controvérsia não foi solvida pelo Tribunal a quo à luz dos artigos 28 da Lei 8.112/90 e 43 do Código Civil, tampouco aludidos dispostitivos foram suscitados nos embargos declaratórios opostos pela parte ora agravante. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
