@@ -1,0 +1,29 @@
+EMENTA
+EMBARGOS DECLARATÓRIOS NO AGRAVO REGIMENTAL NO HABEAS CORPUS. INEXISTÊNCIA DE OMISSÃO OU CONTRADIÇÃO NO ACÓRDÃO EMBARGADO. REDISCUSSÃO DE MÉRITO. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do Código de Processo Penal - CPP, pressupostos não caracterizados na hipótese dos autos.
+2. No caso em debate, devidamente motivada a decisão que analisou a resposta à acusação. A luz dos precedentes jurisprudenciais deste Superior Tribunal de Justiça firmados sobre o tema, não há na referida fase processual, necessidade de que o julgador rebata, de forma exaustiva, todas as alegações apresentadas, para concluir que não estão presentes as hipóteses de absolvição sumária ou que a inicial acusatória encontra-se apta para dar início à ação penal. Apenas exige-se observância às regras do art. 155 do Código de Processo Penal.
+3. O que se observa é que o embargante pretende a modificação do provimento anterior, com a rediscussão do mérito da questão, o que não se coaduna com a medida integrativa. É cediço que o julgador não está obrigado a refutar todos os argumentos invocados pelas partes, bastando que os fundamentos expendidos sejam suficientes para embasar a decisão.
+Embargos declaratórios rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Felix Fischer, Jorge Mussi, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK (Relator):
+Trata-se de embargos de declaração no agravo regimental em habeas corpus oposto contra acórdão de minha relatoria que negou provimento ao recurso interposto em acórdão assim sumariado (fl. 227):
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. INEXISTÊNCIA DE ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. RESPOSTA À ACUSAÇÃO. ALEGADA NULIDADE DA DECISÃO ANTE A AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. IMPOSSIBILIDADE DE ANTECIPAÇÃO DO MÉRITO. MOTIVAÇÃO SUFICIENTE PARA O MOMENTO PROCESSUAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não obstante os esforços do agravante, a decisão deve ser mantida por seus próprios fundamentos.
+2. É firme neste Superior Tribunal de Justiça - STJ a compreensão jurisprudencial de que, não sendo caso de absolvição sumária, a motivação acerca das teses defensivas formuladas no bojo da resposta à acusação deve ser sucinta, de forma a não se traduzir em indevido julgamento prematuro da causa.
+Devidamente motivada, no caso, a decisão que analisou a resposta à acusação, na medida em que dentro dos limites legais para o momento processual em exame. Não se exige que o julgador rebata, de forma exaustiva, todas as alegações apresentadas, para concluir que não presentes as hipóteses de absolvição sumária ou que a inicial acusatória encontra-se apta para dar início à ação penal. Nesse momento processual, não se exige observância às regras do art. 155 do Código de Processo Penal - CPP, haja vista que diretriz afeta à prolação da sentença. Precedentes.
+ Agravo regimental desprovido."
+Sustenta o embargante que "a decisão embargada é omissa porquanto afasta a alegação com base em argumento que é inaplicável ao caso concreto debatido neste recurso, deixando de apreciar o fundamento trazido nas razões do agravo regimental interposto pela defesa. A irresignação defensiva não é contra eventual decisão sucinta ou indeferimento do pleito, mas sim contra a não apreciação dos argumentos, haja vista que a decisão de primeiro grau que analisou a resposta à acusação postergou a análise das nulidades arguidas para a prolação da sentença" (fl. 245).
+Pretende, assim, sejam os presentes embargos de declaração recebidos com efeito infringente, "para que seja devidamente enfrentado o fundamento recursal trazido por esta Defesa, com conseqüente provimento do Agravo Regimental a fim de que seja conhecido o Habeas Corpus e seja concedida a ordem, determinando-se a apreciação das nulidades pelo Magistrado de primeiro grau" (fl. 246).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK (Relator):
+Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do Código de Processo Penal.
+No caso concreto, ao revés do alegado pelo embargante, não há que se falar em omissão no julgado.
+Consoante outrora decidido, devidamente motivada a decisão que analisou a resposta à acusação. A luz dos precedentes jurisprudenciais deste Superior Tribunal de Justiça firmados sobre o tema, não há na referida fase processual, necessidade de que o julgador rebata, de forma exaustiva, todas as alegações apresentadas, para concluir que não presentes as hipóteses de absolvição sumária ou que a inicial acusatória encontra-se apta para dar início à ação penal. Apenas exige-se observância às regras do art. 155 do Código de Processo Penal.
+Nesse contexto, observa-se que o embargante pretende, em verdade, a modificação do provimento anterior, com a rediscussão da questão, o que não se coaduna com a medida integrativa.
+Outrossim, como cediço, este julgador não está obrigado a refutar todos os argumentos invocados pelas partes, bastando que os fundamentos expendidos sejam suficientes para embasar a decisão.
+Ressalta-se ainda que ""a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos aclaratórios." (EDcl no AgInt na CR 11.165/EX, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 6/12/2017, DJe 9/2/2018)." (EDcl no AgRg no REsp 1.683.591/PI, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 02/04/2018).
+Ante o exposto, voto no sentido de rejeitar os presentes embargos de declaração.
