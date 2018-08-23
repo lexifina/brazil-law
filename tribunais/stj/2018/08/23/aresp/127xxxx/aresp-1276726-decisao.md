@@ -1,0 +1,34 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. AUSÊNCIA DE PRETENSÃO RESISTIDA. CONDENAÇÃO DO RÉU AO PAGAMENTO DAS VERBAS DE SUCUMBÊNCIA. DESCABIMENTO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. RESISTÊNCIA NO ÂMBITO ADMINISTRATIVO. INCIDÊNCIA DA SÚMULA 282/STF. AGRAVO CONHECIDO PARA CONHECER, EM PARTE, DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que não admitiu o recurso especial, fundado na alínea c do inciso III do art. 105 da Constituição Federal, que desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 119):
+RECURSO Agravo retido Ausência de interposição desse recurso Apelação Sentença com resolução de mérito Inaplicabilidade do artigo 515, §3º do CPC Preliminares não conhecidas.
+RECURSO Apelação Deserção Inocorrência Súmula 306 do STJ Tanto a parte como o patrono possuem legitimidade para recorrer da sentença, no ponto alusivo aos honorários advocatícios Precedentes do STJ e do TJSP Autor-apelante que é beneficiário da justiça gratuita Preliminar rejeitada.
+VERBA HONORÁRIA Exibição de documentos Sentença que julgou extinta a ação nos termos do art. 269,II, do CPC, sem condenação na verba honorária Instituição financeira que apresentou os documentos quando citada Ausência de resistência Precedentes do C. Superior Tribunal de Justiça a respeito da matéria Precedentes do TJSP, inclusive desta Egrégia 14ª Câmara de Direito Privado Sentença mantida Recurso improvido.
+Nas razões do recurso especial (e-STJ, fls. 124-144), o recorrente apontou a existência de dissídio jurisprudencial.
+Sustentou, em síntese, que o acórdão recorrido diverge de outros arestos de acórdão de outros Tribunais no que tange à verba sucumbencial nas ações de exibição de documentos quando estes não são apresentados na via administrativa, mas apenas na judicial juntamente com a contestação.
+Foram apresentadas contrarrazões (e-STJ, fls. 148-151).
+Juízo de admissibilidade negativo (e-STJ, fl. 153).
+Brevemente relatado, decido.
+Observa-se que o entendimento desta Corte Superior é no sentido de que, nas ações cautelares de exibição de documentos, em razão dos princípios da sucumbência e da causalidade, apenas haverá a condenação ao pagamento de honorários advocatícios quando estiver demonstrada a resistência à exibição dos documentos.
+O Tribunal de origem, ao julgar o recurso de apelação, consignou o seguinte (e-STJ, fl. 121):
+A r. sentença de primeiro grau não merece ser reformada, porquanto quando citado o banco apelado apresentou cópia do contrato de financiamento solicitado (págs. 57/62).
+Destarte, quanto à condenação ao pagamento de verba honorária, a despeito do entendimento desta desembargadora ter se dado até recentemente em sentido contrário, passo a adotar o posicionamento do Superior Tribunal de Justiça que, amiúde, vem se pronunciando no sentido de não caber condenação na verba honorária em caso de exibição dos documentos sem resistência.
+Nesse diapasão, "AGRAVO EM RECURSO ESPECIAL. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. INEXISTÊNCIA DE RESISTÊNCIA DO RÉU. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO. 1. Nas ações cautelares de exibição de documento, o réu só será condenado ao pagamento de honorários advocatícios se houver pretensão resistida quanto ao fornecimento da documentação solicitada, em observância aos princípios da sucumbência e da causalidade. 2. Agravo regimental improvido." (STJ-3ªT., AgRg no AREsp 566814/SP, rel. Min. Marco Aurélio Bellizze, j.14.10.2014, DJE 20.10.2014).
+Dessa forma, o acórdão recorrido julgou em conformidade com o entendimento desta Corte, incidindo a Súmula n. 83/STJ.
+Ratificam esse entendimento os seguintes julgados:
+AGRAVO INTERNO. RECURSO ESPECIAL. CAUTELAR. EXIBIÇÃO DE DOCUMENTOS. AUSÊNCIA DE PRETENSÃO RESISTIDA. INCABÍVEL FIXAÇÃO DE HONORÁRIOS SUCUMBENCIAIS. REEXAME DE PROVAS. SÚMULAS 7 E 83 DO STJ.
+1. Pela aplicação dos princípios da sucumbência e da causalidade em ações cautelares de exibição de documentos, para haver condenação ao pagamento de honorários advocatícios deve estar caracterizada nos autos a resistência à pretensão. No caso, o tribunal de origem consignou que não houve pretensão resistida. Incidência da Súmula 83/STJ.
+2. Não é possível reverter a conclusão do acórdão recorrido acerca da ausência de pedido resistido, sem reexame dos elementos fáticos da demanda, o que encontra óbice na Súmula 7/STJ.
+3. Agravo interno a que se nega provimento. (AgInt no REsp 1.585.865/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 4/8/2016, DJe 10/8/2016).
+AGRAVO REGIMENTAL EM AGRAVO (ARTIGO 544 DO CPC) - AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR SEGUIMENTO AO RECURSO ESPECIAL MANTENDO A CONDENAÇÃO DO RÉU AO PAGAMENTO DE ÔNUS SUCUMBENCIAL. IRRESIGNAÇÃO DA INSTITUIÇÃO FINANCEIRA 1. A jurisprudência desta Corte tem decidido que, em ações cautelares de exibição de documentos, em razão dos princípios da sucumbência e da causalidade, haverá a condenação a honorários advocatícios quando estiver caracterizada, como no presente caso, a resistência à exibição dos documentos pleiteados. Precedentes.
+2. Incidência da súmula n. 7 do STJ, no tocante a pretensão voltada para afastar o reconhecimento da recusa injustificada da instituição financeira em fornecer os documentos pleiteados.
+3. Agravo regimental desprovido. (AgRg no AREsp 533.800/MG, Relator o Ministro MARCO BUZZI, DJe de 01/10/2014)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. AUSÊNCIA DE RESISTÊNCIA. ÔNUS SUCUMBENCIAIS. PRINCÍPIO DA CAUSALIDADE. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. DECISÃO AGRAVADA MANTIDA.
+1.- A jurisprudência desta Corte é no sentido de que, apresentada prontamente pela parte ré a documentação pleiteada e não comprovada a recusa anterior, descabe a condenação desta nos ônus sucumbenciais, pela aplicação do princípio da causalidade.
+2.- A controvérsia foi dirimida no Colegiado de origem à luz do conjunto fático-probatório da causa, cujo reexame não se mostra consentâneo com a natureza excepcional da via eleita, ante o óbice da Súmula 7 deste Tribunal.
+3.- O agravo não trouxe nenhum argumento capaz de modificar a conclusão do julgado, a qual se mantém por seus próprios fundamentos.
+4.- Agravo Regimental improvido. (AgRg no AREsp 453.025/MS, Relator o Ministro SIDNEI BENETI, DJe de 17/03/2014)
+O argumento de que a pretensão foi resistida na esfera administrativa não foi objeto de análise pelo Tribunal estadual. Portanto, ausente o prequestionamento, entendido como a necessidade de o tema objeto do recurso ter sido examinado na decisão atacada.
+Diante do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se.
