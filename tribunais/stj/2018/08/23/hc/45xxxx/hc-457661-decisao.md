@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOÃO VICTOR DA SILVA PIMENTEL, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Agravo de Execução Penal n. 7003398-75.2017.8.26.0344).
+Consta dos autos que o Juízo de primeiro grau estabeleceu a data da prática de falta grave como data-base para a contagem do lapso temporal somente para a progressão de regime.
+Irresignado, o Ministério Público interpôs agravo em execução. O Tribunal de origem deu provimento ao recurso, nos termos da seguinte ementa (e-STJ fl. 10):
+AGRAVO EM EXECUÇÃO - FALTA GRAVE - RECONTAGEM DO CÁLCULO DE LIQUIDAÇÃO DE PENAS, SOMENTE PARA FINS DE PROGRESSÃO - INCONFORMISMO MINISTERIAL PARA APLICAÇÃO DA INTERRUPÇÃO, TAMBÉM PARA FINS DE LIVRAMENTO CONDICIONAL, COMUTAÇÃO DE PENAS E INDULTO
+- RECURSO PARCIALMENTE PROVIDO.
+No presente writ, a Defensoria Pública sustenta ser "entendimento sumular que a prática de falta grave, por ausência de previsão legal, não interrompe o lapso para obtenção do benefício do livramento condicional" (e-STJ fl. 5).
+ Aduz que "o v. acórdão do TRIBUNAL-COATOR que entendeu que a falta grave cometida pelo paciente interromperia o lapso para a concessão do livramento condicional, contraria a orientação legal e jurisprudencial, sujeitando o PACIENTE a manifesto constrangimento ilegal, o que não se pode admitir" (e-STJ fl. 7).
+Requer, em tema liminar e no mérito, que seja cassado o acórdão impugnado, nos termos da Súmula 441/STJ.
+O pleito urgente foi deferido para determinar, até o julgamento final deste writ, o restabelecimento da decisão proferida pelo Juízo das Execuções, que determinou a interrupção do lapso temporal somente para fins de progressão de regime.
+As informações foram prestadas (e-STJ fls. 23/25).
+O Ministério Público Federal opinou pela concessão da ordem (e-STJ fls. 29/33).
+É, em síntese, o relatório.
+No caso dos autos, o Tribunal de origem, ao dar parcial provimento ao agravo em execução interposto pelo Ministério Público, determinou que a interrupção alcance, também, o livramento condicional. Eis os fundamentos adotados pelo mencionado acórdão (e-STJ fls. 15/20):
+Revendo posicionamento adotado anteriormente, não seria razoável impedir a progressão de regime e conceder o livramento condicional, benefício muito mais amplo.
+É certo que a Súmula nº 441 do C. Superior Tribunal de Justiça prescreve que "a falta grave não interrompe o prazo para obtenção de livramento condicionar, mas não se trata de Súmula Vinculante, de modo a obrigar o acolhimento de sua interpretação.
+Oportuno destacar que também para o livramento condicional, exige-se comportamento satisfatório durante o cumprimento das penas (art. 83, inciso III, do Código Penal).
+Assim, com a prática de falta disciplinar de natureza grave, nova contagem do período aquisitivo deve ocorrer, tanto para a progressão como para o livramento condicional.
+Somente na hipótese de comutação de penas ou indulto, a prática de falta grave em determinado período, não deve constituir motivo para interromper a contagem para fins destes benefícios.
+Diante do exposto, pelo meu voto, dá-se parcial provimento ao agravo, para aplicar a recontagem do cálculo de liquidação de penas, em razão da falta grave praticada aos 12/04/2017, também para fins de livramento condicional, mantendo-se, no mais, a r. sentença proferida (grifei).
+Da leitura do trecho acima colacionado, verifica-se que o posicionamento adotado pelo Tribunal de origem dissente do entendimento da Terceira Seção desta Corte, firmado no julgamento do EREsp n. 1.176.486/SP, segundo o qual a caracterização de falta disciplinar de natureza grave resulta em novo marco interruptivo para concessão de futuros benefícios, exceto quanto ao livramento condicional, ao indulto e à comutação de pena.
+Eis a ementa do mencionado julgado:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. EXECUÇÃO PENAL. FALTA DISCIPLINAR GRAVE. INTERRUPÇÃO DO PRAZO PARA CONCESSÃO DE BENEFÍCIOS, ENTRE ELES A PROGRESSÃO DE REGIME, EXCETO LIVRAMENTO CONDICIONAL E COMUTAÇÃO DAS PENAS. PRECEDENTES DO STJ E STF. EMBARGOS PROVIDOS PARA ASSENTAR QUE A PRÁTICA DE FALTA GRAVE REPRESENTA MARCO INTERRUPTIVO PARA OBTENÇÃO DE PROGRESSÃO DE REGIME PRISIONAL.
+1. O cometimento de falta grave pelo sentenciado no curso da execução da pena, nos termos do art. 127 da Lei 7.210/84, implica a perda integral dos dias remidos pelo trabalho, além de nova fixação da data-base para concessão de benefícios, exceto livramento condicional e comutação da pena; se assim não fosse, ao custodiado em regime fechado que comete falta grave não se aplicaria sanção em decorrência dessa, o que seria um estímulo ao cometimento de infrações no decorrer da execução.
+2. Referido entendimento não traduz ofensa aos princípios do direito adquirido, da coisa julgada, da individualização da pena ou da dignidade da pessoa humana. Precedentes do STF e do STJ.
+3. Para reforçar esse posicionamento, foi editada a Súmula Vinculante 09/STF, segundo a qual o disposto no artigo 127 da Lei 7.210/1984 (Lei de Execução Penal) foi recebido pela ordem constitucional vigente, e não se lhe aplica o limite temporal previsto no caput do artigo 58.
+4. Entender de forma diversa, como bem asseverou o eminente Ministro CARLOS AYRES BRITTO, quando do julgamento do HC 85.141/SP, implicaria tornar despidas de sanção as hipóteses de faltas graves cometidas por sentenciados que já estivessem cumprindo a pena em regime fechado. De modo que não seria possível a regressão no regime (sabido que o fechado já é o mais severo) nem seria reiniciada a contagem do prazo de 1/6. Conduzindo ao absurdo de o condenado, imediatamente após sua recaptura, tornar a pleitear a progressão prisional com apoio em um suposto bom comportamento (DJU 12.05.2006).
+5. Embargos providos para assentar que a prática de falta grave representa marco interruptivo para obtenção de progressão de regime prisional (relator o Ministro Napoleão Nunes Maia Filho, DJe de 1/6/2012, grifei).
+No mesmo sentido, a Súmula n. 441 desta Corte Superior de Justiça, que assim preconiza:
+A falta grave não interrompe o prazo para obtenção de livramento condicional.
+Dessa forma, na linha da orientação jurisprudencial desta Corte, reconhecida a prática da falta grave pelo sentenciado, opera-se a alteração do termo inicial para a concessão de novos benefícios, exceto para fins de livramento condicional, indulto e comutação de pena.
+Ante o exposto, concedo parcialmente a ordem para, ratificando a liminar anteriormente deferida, afastar a interrupção do lapso para fins de concessão do livramento condicional, restabelecendo, consequentemente, a decisão de primeiro grau.
+Publique-se. Intimem-se.
