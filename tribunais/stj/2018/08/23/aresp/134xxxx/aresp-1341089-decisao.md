@@ -1,0 +1,25 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. EXECUÇÃO FISCAL. ARREMATAÇÃO DE IMÓVEL. FORMALIZAÇÃO. AUTO DE ARREMATAÇÃO. AUSÊNCIA DE NECESSIDADE DE REGISTRO IMOBILIÁRIO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal Regional Federal da 3ª Região, cuja ementa é a seguinte:
+AGRAVO INSTRUMENTO. EXECUÇÃO FISCAL. ARREMATAÇÃO DE IMÓVEL. ALUGUEIS. FIXAÇÃO DA DATA DA SAÍDA DO BEM DO PATRIMÔNIO DO DEVEDOR. PRESCINDIBILIDADE DO REGISTRO IMOBILIÁRIO. AGRAVO NÃO PROVIDO.
+1. No momento em que a alienação judicial se torna perfeita e acabada, o bem deixa de integrar o patrimônio do devedor, independentemente de formalização do registro imobiliário da Carta de Arrematação.
+2. Agravo não provido.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial interposto com base na alínea "a" do permissivo constitucional, a ora agravante aponta ofensa aos artigos 692, 694 e 796 do CPC/73 e 1.245 do CC, alegando que a obrigação da locatária de depositar os alugueis nos autos da execução fiscal deve ser mantida até o registro da carta de arrematação no respectivo cartório de imóveis.
+O recurso foi inadmitido pela decisão às fls. 873/874, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ que dispõe in verbis: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Verifica-se que o acórdão recorrido está em consonância com a jurisprudência do STJ no sentido de que, lavrado o auto de arrematação, a alienação judicial se torna perfeita e acabada, deixando o bem de integrar o patrimônio do devedor, independentemente de registro imobiliário.
+Nesse sentido:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CIVIL. EXECUÇÃO. ARREMATAÇÃO DE BEM IMÓVEL LOCADO. DIREITO À PERCEPÇÃO DOS ALUGUÉIS. CONSIGNAÇÃO EM PAGAMENTO. FORMALIZAÇÃO DO AUTO DE ARREMATAÇÃO. AUSÊNCIA DO REGISTRO IMOBILIÁRIO DA CARTA DE ARREMATAÇÃO. FRUTOS DO BEM ARREMATADO. DIREITO DO ARREMATANTE. (CPC, ART. 694; CC/1916, ARTS. 530, I, e 533). RECURSO ESPECIAL DESPROVIDO.
+1. Assim como sucede nas operações de venda e compra de imóvel, desde a celebração do respectivo contrato, normalmente por escritura pública, a transferência do domínio e posse sobre o bem já se opera entre transmitente e adquirente. O registro posterior do contrato no registro imobiliário, com a transferência da propriedade sobre o imóvel, é requisito de validade perante terceiros (efeito erga omnes), mas não entre os próprios contratantes, já obrigados desde a celebração do negócio. Ante terceiros é que somente com o registro imobiliário se tem como transmitida a propriedade do imóvel, aperfeiçoando-se, em face de pessoas estranhas à relação contratual originária, a transferência de domínio de imóvel.
+2. O mesmo ocorre na arrematação de bem penhorado em execução, quando o devedor executado, após devidamente lavrado e formalizado o respectivo auto, já não pode desconhecer sua condição de expropriado do bem imóvel que antes lhe pertencia. No momento em que a alienação judicial se torna perfeita e acabada, o bem deixa de integrar o patrimônio do devedor, independentemente de formalização do registro imobiliário da Carta de Arrematação.
+3. No caso, a relação jurídica em exame é aquela travada entre a própria executada expropriada, como locadora, e o arrematante, sócio da sociedade empresária locatária, não tendo os referidos artigos do anterior Código Civil, que tratam do registro do bem imóvel, o alcance pretendido pela ora recorrente.
+4. Em julgado recente, proferido em caso análogo, esta Corte Superior entendeu prevalente a antecedente arrematação, perfeita e acabada, até mesmo em face de outro credor, noutra execução (REsp 866.191/SC, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, julgado em 22/2/2011, DJe de 28/2/2011).
+5. Recurso especial desprovido.
+(REsp 698.234/MT, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/03/2014, DJe 30/04/2014)
+Portanto, o acórdão recorrido não merece reforma, pois a controvérsia foi dirimida em consonância jurisprudência desta Corte, ensejando a aplicação da Súmula 83/STJ, in verbis: Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida.
+Cumpre registrar que nos termos da Súmula 568/STJ:  O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Ante o exposto, com fulcro no artigo 932, IV, do CPC/2015 c/c o artigo 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
