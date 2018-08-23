@@ -1,0 +1,21 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. DECADÊNCIA AFASTADA NA ORIGEM. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA REFLEXA. PRECEDENTES. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que possui a seguinte ementa, in verbis:
+    "REVISÃO DE BENEFÍCIO - Preliminar - Intempestividade - Não ocorrência - Recurso conhecido - Rejeitada a preliminar suscitada pela autora em sua resposta de fls.
+    REVISÃO DE BENEFÍCIO - Preliminar - Decadência - Não ocorrência - Prazo decadencial iniciado a partir da edição da Lei n° 10.999/2004 a qual autorizou em seu art. Io, a revisão dos benefícios previdenciários concedidos com data de início posterior a fevereiro de 1994 - Rejeitada a preliminar.
+    REVISÃO DE BENEFÍCIO - RMI - IRSM de fevereiro de 1994 - Aplicação do IRSM integral em fevereiro (39,67%) de 1994 - Admissibilidade - Entendimento jurisprudencial - Recursos oficial, considerado interposto, e voluntário do INSS providos em parte.
+    PORTE DE REMESSA E RETORNO - Recolhimento a final - Artigo 27 do Código de Processo Civil." (Doc. 2, fl. 35)
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, alega violação aos artigos 5º, XXXV, XXXVI e LV, 93, IX, e 201 da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que os dispositivos constitucionais não foram prequestionados, que a ofensa à Constituição, acaso existente, seria reflexa e que o apelo encontra óbice na Súmula 279 do STF.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    O Tribunal de origem concluiu não ter ocorrido a decadência do pedido de revisão do benefício previdenciário, sob o fundamento de que direito de aplicação do IRSM no salário-de-contribuição, previsto no artigo 21 da Lei 8.880/1994, ficou patente somente com a edição da Lei 10.999/2004.
+    Assim, para divergir do acórdão recorrido quanto ao entendimento adotado, seria necessária a análise da legislação infraconstitucional aplicável à espécie (Medida Provisória 201/2004 e Lei 10.999/2004). Ora, a análise da eventual violação aos dispositivos constitucionais suscitados, quando dependente da verificação de malferimento de dispositivos infraconstitucionais, encerra ofensa reflexa e oblíqua à Constituição, o que inviabiliza o recurso extraordinário. Nesse sentido:
+    "Agravo regimental no recurso extraordinário com agravo. Direito Previdenciário. Revisão de benefício. Decadência. RE nº 626.489/SE-RG. Repercussão geral reconhecida. Inaplicabilidade. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inviável, em recurso extraordinário, a interpretação da legislação infraconstitucional, bem como o reexame dos fatos e das provas da causa. Incidência das Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido." (ARE 910.691-AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe de 7/3/2016)
+    Nesse mesmo sentido, em casos análogos, destaco as seguintes decisões: RE 1.026.633, Rel. Min. Ricardo Lewandowski, DJe de 8/03/2017; ARE 1.029.126, Rel. Min. Rosa Weber, DJe de 27/3/2017; RE 1.025.834, Rel. Min. Marco Aurélio, DJe de 3/3/2017; RE 1.022.967, Rel. Min. Edson Fachin, DJe de 1/3/2017; RE 993.774, Rel. Min. Gilmar Mendes, DJe de 23/2/2017; RE 2.033.462, Rel. Min. Celso de Mello; e RE 1.026.530.
+    Por fim, observo que o agravo foi interposto sob a égide da nova lei processual, o que impõe a aplicação de sucumbência recursal.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 932, VIII, do Código de Processo Civil de 2015 c/c o artigo 21, § 1º, do RISTF, e CONDENO a parte sucumbente nesta instância recursal ao pagamento de honorários advocatícios majorados ao máximo legal (artigo 85, § 11, do CPC/2015).
+    Publique-se.
+    Brasília, 23 de agosto de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
