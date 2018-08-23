@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de LUCAS BRASILINO CRUZ e WESLEY SOUZA DIAS DA SILVEIRA, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro.
+Consta dos autos que LUCAS foi condenado à pena de 1 ano e 8 meses de reclusão mais pagamento de 166 dias e WESLEY à pena de 1 ano, 10 meses e 15 dias de reclusão e pagamento de 187 dias-multa, ambos em regime semiaberto, como incursos no art. 33, caput e § 4º, da Lei n. 11.343/2006.
+Em sede recursal, o Tribunal de origem negou provimento ao apelo defensivo, bem como aos embargos de declaração opostos.
+Neste writ, sustenta o impetrante a ocorrência de bis in idem, em razão das instâncias ordinárias terem sopesado a quantidade e a natureza do entorpecente na primeira e na terceira etapa da dosimetria, para elevar a pena-base e modular a redutora, respectivamente.
+Alega que o regime mais gravoso foi estabelecido com amparo na gravidade abstrata do delito, em contrariedade às Súmulas 440 do STJ, 718 e 719 do STF. Defende a aplicação da permuta legal.
+Requer, assim, a incidência da minorante na fração máxima, a fixação do regime aberto e sua substituição por restritivas de direitos.
+Liminar indeferida (e-STJ, fl. 114).
+O Ministério Público Federal opinou pelo não conhecimento do writ (e-STJ, fls. 119-126).
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse contexto, passo ao exame das supostas ilegalidades apontadas pela defesa.
+Inicialmente, consigno que, da análise das decisões impugnadas, não se verifica ilegalidade no cálculo penal por suposto bis in idem operado pelas instâncias ordinárias, visto que o Juízo sentenciante (e-STJ, fl. 59) aplicou o redutor do tráfico privilegiado na fração máxima (2/3).
+Quanto ao regime prisional, o magistrado singular estabeleceu o modo intermediário pelos seguintes fundamentos:
+"O regime prisional deverá ser o semiaberto, pois, embora a pena aplicada seja inferior a quatro anos e os réus não sejam reincidentes, as circunstancias judiciais não lhe foram totalmente favoráveis  ex vi art. 33, §§2º e 3º, do Código Penal" (e-STJ, fl. 60).
+A Corte de origem, por sua vez, ratificou o regime imposto em primeira instância. Destacou, ainda, a impossibilidade de fixação de sanção mais rígida e de modo mais gravoso de cumprimento de pena, diante da inércia do ministério público (e-STJ, fls. 108-110).
+Como é cediço, a obrigatoriedade do cumprimento da pena em regime inicial fechado aos sentenciados por crimes hediondos e a eles equiparados não mais subsiste, diante da declaração de inconstitucionalidade, incidenter tantum, do § 1º do art. 2º da Lei n. 8.072/1990, pelo STF, no julgamento do HC 111.840/ES (em 27/7/2012).
+Na identificação do modo inicial de cumprimento de pena, necessário à prevenção e à reparação da infração penal, o magistrado deve expor motivadamente sua escolha, atento às diretrizes do art. 33 do Código Penal, e, na hipótese de condenado por crime de tráfico de drogas, ao disposto no art. 42 da Lei n. 11.343/2006, segundo o qual serão consideradas com preponderância a natureza e a quantidade de substância entorpecente, a personalidade e a conduta social do agente sobre as demais circunstâncias judiciais do art. 59 do Código Penal.
+In casu, embora os pacientes sejam primários e a pena tenha sido estabelecida em patamar inferior a 4 anos, o regime semiaberto é o adequado e suficiente para o cumprimento da pena reclusiva, diante da aferição desfavorável de circunstância judicial, natureza da droga, que justificou a fixação pena-base acima do mínimo legal, nos termos do art. 33 do CP c.c o art. 42 da Lei n. 11.343/2006.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME INICIAL FECHADO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A decisão agravada é clara ao reconhecer que, diante da análise desfavorável, na primeira fase da dosimetria da pena, da quantidade, da natureza e da diversidade de entorpecentes apreendidos - cerca de 10 g de crack, 26 g de cocaína e 62 g de maconha -, é cabível a imposição de regime mais gravoso. Todavia, como a reprimenda fixada ao réu é inferior a 4 anos de reclusão, o modo adequado é o semiaberto.
+2. Agravo regimental não provido.
+(AgRg no HC 438.993/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 7/6/2018, DJe 15/6/2018);
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME PRISIONAL. PENA INFERIOR A QUATRO ANOS DE RECLUSÃO. QUANTIDADE DE DROGA. MODO SEMIABERTO. RECURSO NÃO PROVIDO.
+- Na identificação do modo inicial de cumprimento de pena, o magistrado deve expor motivadamente sua escolha, atento às regras estabelecidas no art. 33 do Código Penal e, no caso de condenado pelo delito de tráfico de drogas, ao disposto no art. 42 da Lei n. 11.343/2006.
+- Aplicada a sanção corporal no patamar de 1 ano e 8 meses de reclusão e sendo favoráveis as demais circunstâncias ao paciente, o regime inicial semiaberto é o adequado e suficiente para o cumprimento da pena reclusiva, diante da valoração desfavorável da quantidade e da diversidade dos entorpecentes apreendidos, nos termos do art. 33, § 3º, do CP, c.c o art. 42 da Lei de Drogas. Precedentes.
+- A decisão agravada encontra-se alinhada à jurisprudência desta Corte, que permite a fixação do regime imediatamente mais gravoso do que a pena comporta com lastro na quantidade/nocividade das drogas que o caso envolve.
+- Agravo regimental não provido.
+(AgRg no HC 406.339/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 5/10/2017, DJe 16/10/2017).
+No que tange à substituição da pena privativa de liberdade por restritivas de direito, vale lembrar que a Suprema Corte, na análise do HC 97.256/RS, também reconheceu a inconstitucionalidade das expressões contidas no art. 44 e no § 4º do art. 33 da Lei n. 11.343/2006, que vedavam a conversão das penas privativas de liberdade em restritivas de direitos, aos sentenciados pelos delito de tráfico de drogas. Tais proibições foram, inclusive, suprimidas do texto legal por meio da Resolução n. 5/2012 do Senado Federal.
+Portanto, não há qualquer óbice à concessão da permuta legal aos condenados por delitos previstos na Lei de Drogas, se preenchidos os requisitos do art. 44 do Código Penal.
+Na hipótese, a substituição da pena privativa de liberdade por restritivas de direito mostra-se insuficiente, em razão da falta do atendimento do pressuposto subjetivo (art. 44, III, do CP), especificamente a espécie da droga apreendida.
+Sobre o tema, o seguinte julgado:
+"HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. REGIME PRISIONAL E NEGATIVA DE SUBSTITUIÇÃO POR RESTRITIVAS DE DIREITOS. HEDIONDEZ E GRAVIDADE ABSTRATA DO DELITO. FUNDAMENTOS INIDÔNEOS. NATUREZA E QUANTIDADE DAS DROGAS. VALORAÇÃO NEGATIVA. CRITÉRIO SUFICIENTE PARA O ESTABELECIMENTO DE REGIME PRISIONAL MAIS GRAVOSO E PARA NEGAR A SUBSTITUIÇÃO. PACIENTE PRIMÁRIO, CONDENADO A PENA NÃO SUPERIOR A 4 ANOS DE RECLUSÃO. QUANTIDADE DE ENTORPECENTES QUE NÃO JUSTIFICA O REGIME EXCESSIVAMENTE MAIS GRAVOSO. ADEQUAÇÃO PARA O REGIME INTERMEDIÁRIO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+3. A partir do julgamento do HC 97.256/RS pelo STF, declarando incidentalmente a parcial inconstitucionalidade do § 4º do art. 33 e do art. 44, ambos da Lei n. 11.343/2006, o benefício da substituição da pena passou a ser concedido aos condenados pelo crime de tráfico de drogas, desde que preenchidos os requisitos insertos no art. 44 do Código Penal.
+4. A valoração negativa da quantidade e natureza dos entorpecentes constitui fator suficiente para a determinação do regime inicial de cumprimento da pena privativa de liberdade mais gravoso, bem como para obstar a respectiva substituição por penas restritivas de direitos. Precedentes.
+5. No caso, a natureza e a quantidade dos entorpecentes apreendidos, sopesados na terceira fase da dosimetria, constitui fundamento idôneo para a fixação do regime prisional mais gravoso e para negar a substituição por restritivas de direitos. Entretanto, tais circunstâncias apenas justificam o regime intermediário, tendo em vista que o paciente é primário e a condenação não é superior a 4 anos.
+6. Habeas corpus não conhecido. Ordem concedida, de ofício, para, confirmando a liminar anteriormente deferida, fixar o regime inicial semiaberto."
+(HC 390.554/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/5/2017, DJe 22/5/2017).
+Diante do exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
