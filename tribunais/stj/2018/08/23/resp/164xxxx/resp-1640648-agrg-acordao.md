@@ -1,0 +1,58 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME LICITATÓRIO. PREFEITO MUNICIPAL. FRAUDE AO CARÁTER COMPETITIVO DO CERTAME. SUPERFATURAMENTO DE PREÇO. DESVIO DE RECURSOS DESTINADOS À SAÚDE. DENÚNCIA. DEFESA PRÉVIA. NOTIFICAÇÃO. AUSÊNCIA. NULIDADE. INEXISTÊNCIA.
+1. O entendimento do Tribunal de origem dissentiu da jurisprudência desta Corte Superior, em relação à nulidade decorrente da falta de notificação para apresentar defesa prévia nos termos do art. 2º, inciso I, do Decreto-Lei nº 201/67, uma vez que apesar do recorrido não ter sido notificado, efetivamente apresentou defesa prévia voltando-se contra os termos da acusação e arrolando testemunhas, mas nada alegou oportunamente acerca de eventual nulidade, questão que somente foi suscitada em alegações finais.
+2. A inobservância procedimental não gera nulidade no processo se não resta comprovado o efetivo prejuízo, em atenção ao princípio do pas de nullite sans grief (artigo 563 do Código de Processo Penal) e consolidado no enunciado da Súmula nº 523 do STF, in verbis: No processo penal, a falta de defesa constitui nulidade absoluta, mas a sua deficiência só o anulará se houver prova de prejuízo para o réu.
+3. Constatado que não houve a alegada nulidade capaz de tornar sem efeitos todos os atos a partir do recebimento da denúncia, deve a Corte de origem prosseguir no julgamento da ação penal.
+4. Agravo regimental desprovido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JORGE MUSSI (Relator): Trata-se de regimental interposto por [NOME] contra a decisão unipessoal de fls. 902/906 (e-STJ) que deu provimento ao recurso especial da acusação.
+Alega o agravante, em síntese, que o apelo nobre do Ministério Público não merece prosperar, uma vez que o acórdão do Tribunal Regional Federal é irrecorrível, pois se trata de matéria de competência originária daquela Corte, o que afasta a possibilidade deste Sodalício de analisar se houve ou não prejuízo ao recorrido, diante da falta de notificação do denunciado para apresentar defesa .
+Requer, ao final, a reconsideração do decisum ou a submissão do pleito ao Colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JORGE MUSSI (Relator): Os elementos existentes nos autos indicam que o agravante, [NOME] MENDES LEITE, foi denunciado pela prática dos crimes de fraudar o caráter competitivo do processo licitatório, superfaturar arbitrariamente o preço em prejuízo da Fazenda Pública e desviar recursos federais destinados à área de saúde, por ter, na qualidade de Prefeito do Município de Mirabela/MG, em concurso com outros agentes integrantes da chamada "máfia das ambulâncias", direcionado a licitação, na modalidade de carta-convite, as empresas do grupo criminoso, para aquisição de uma unidade móvel de saúde destinada aquela unidade da federação, com recursos financeiros provenientes do Governo Federal, além de superfaturar o preço do bem em R$ 13.545,15 (treze mil, quinhentos e quarenta e cinco reais e quinze centavos - valor acima do preço de mercado em 21,69%), bem como desviado recursos destinados à saúde, no tal de R$ 10.400,00, incursos nos artigos 90, 96, incisos I, ambos da Lei das Licitações e 1º, inciso III (por quatro vezes), do Decreto-Lei n. 201/67, c/c o artigo 29 e 69, ambos do Estatuto Repressivo. (e-STJ, fls. 2/15)
+Após o recebimento da denúncia, o Tribunal de origem, diante da ausência da notificação prévia do acusado para recebimento da peça acusatória, anulou o processo "ab initio" para todos os crimes. (e-STJ, fl. 712)
+Opostos embargos de declaração, foram rejeitados. (e-STJ, fl. 795)
+ Nas razões do presente apelo nobre (e-STJ, fls. 801 a 817), o Parquet alegou violação dos artigos 394, § 4º e 563, ambos do Código de Processo Penal, sustentando que não há exigência de notificação prévia para o recebimento da denúncia nas ações que apuram crime de responsabilidade de prefeito, uma vez que o rito estabelecido no artigo 2º do Decreto-Lei n. 201/67 foi derrogado pelo dispositivo apontado como violado e, além disso, não foram demonstrados os prejuízos suportados pela defesa.
+Requereu, ao final, o provimento do recurso especial.
+Contrarrazoada a insurgência (e-STJ, fls. 857/867), após o juízo prévio de admissibilidade (e-STJ, fls. 880/881), os autos ascenderam a este Superior Tribunal de Justiça.
+Instado a se manifestar, o Ministério Público Federal opinou pelo provimento do inconformismo (fls. 895 a 900).
+Por decisão monocrática desta Relatoria, deu-se provimento ao recurso especial.
+Daí a apresentação deste regimental pela defesa.
+A irresignação, porém, não merece prosperar.
+Conforme consignado na decisão agravada, em relação à necessidade de notificação prévia para o recebimento da denúncia nos crimes de responsabilidade de prefeitos, o voto vencedor foi fundamentado nestes termos:
+ ..  vou pedir vênia ao eminente relator para, ante a ausência da notificação prévia para recebimento da denúncia, anular todo o processo, por considerar, em primeiro lugar, os precedentes do STJ, de que o rito a ser seguido é o rito do Decreto 201 para todos os crimes e por entender que, neste caso aí, há realmente uma teia de fatos e crimes que são interligados e que o desmembramento dificultará sobremaneira a atuação da defesa. Peço vênia ao eminente relator para anular o processo inteiro para todos os crimes. (e-STJ, fl. 712)
+Extrai-se do relatório do acórdão recorrido a seguinte passagem:
+O réu foi denunciado perante a Vara da Subseção Judiciária deMontes Claros/MG.
+A denúncia foi recebida pelo Juízo Federal em 09/07/2010 (fls. 94/95).
+Citado, o réu apresentou defesa junto à primeira instância (fls. 182/188).
+Com a informação de diplomação do réu no cargo de Prefeito do Município de Mirabela/MG, o Juízo a quo declinou da competência para este Tribunal Regional Federal (decisão de fls. 416/417).
+Neste Tribunal, o Desembargador Federal Cândido Ribeiro, então Relator da presente ação penal, determinou a expedição de Carta de Ordem à Seção Judiciária do Estado de Minas Gerais para realização" da inquirição das testemunhas arroladas pela defesa (fls. 473/476). Foram ouvidas as testemunhas de defesa, [NOME],[NOME], [NOME] e [NOME] da Silva(mídia acostada às fls. 504).
+Pelo despacho de fls. 506, o Juiz Federal Alexandre Buck Medrado Sampaio, Relator Convocado, determinou a expedição de Carta de Ordem para interrogatório do réu.
+Carta de Ordem devidamente cumprida (certidão de fls. 531).
+O réu foi interrogado, conforme mídia acostada às fls. 530.
+Intimadas a dizer sobre interesse de realização de diligências, nos termos do art. 10 da Lei n. 8.038/1990, a acusação e a defesa nada requereram (fls. 532).
+Pelo despacho de fls. 538, o Desembargador Federal Cândido Ribeiro, então Relator da presente ação penal, abriu prazo para a apresentação das alegações finais pelas partes. ..
+A defesa também apresentou razões finais. Alega, preliminarmente, a nulidade do feito porquanto não foi notificado para apresentar defesa prévia antes do recebimento da denúncia, nos termos do art. 2º, do Decreto-Lei n. 201/67. (e-STJ, fls. 705/707)
+Denota-se dos trechos transcritos que o entendimento do Tribunal de origem confronta-se com a jurisprudência desta Corte, em relação à nulidade decorrente da falta de notificação para apresentar defesa prévia nos termos do art. 2º, inciso I, do Decreto-Lei nº 201/67, uma vez que apesar de o recorrido não ter sido notificado, efetivamente apresentou defesa prévia voltando-se contra os termos da acusação e arrolando testemunhas, conforme verifica-se as fls. 220 a 226, mas nada alegou oportunamente acerca de eventual nulidade, questão que somente foi suscitada em alegações finais às fls. 657 a 690 (e-STJ).
+Destarte, o Superior Tribunal de Justiça firmou o entendimento no sentido de que a inobservância procedimental não gera nulidade no processo se não resta comprovado o efetivo prejuízo, em atenção ao princípio do pas de nullite sans grief (artigo 563 do Código de Processo Penal) e consolidado no enunciado da Súmula nº 523 do STF, in verbis: No processo penal, a falta de defesa constitui nulidade absoluta, mas a sua deficiência só o anulará se houver prova de prejuízo para o réu.
+Nesse sentido, o seguinte julgado:
+RECURSO ESPECIAL. PENAL E PROCESSO PENAL. VIOLAÇÃO DOS ARTIGOS 609 E 619 DO CPP. INOCORRÊNCIA. FALTA DE NOTIFICAÇÃO PARA DEFESA PRÉVIA. AUSÊNCIA DE PREJUÍZO. DESVIO DE VERBAS PÚBLICAS. ADEQUAÇÃO TÍPICA. REEXAME DE PROVA.
+1. Não há violação dos artigos 609 e 619 do Código de Processo Penal se o Tribunal a quo decide todas as questões devolvidas na apelação e nos embargos infringentes, e utiliza fundamentação suficiente para solucionar a controvérsia sem incorrer em omissão, contradição ou obscuridade.
+2. A despeito da falta de notificação para apresentar defesa prévia nos termos do art. 2º, inciso I, do Decreto-Lei nº 201/67, colhe-se nos autos que a acusada efetivamente apresentou a defesa,voltando-se contra os termos da acusação e arrolando testemunhas mas nada alegou oportunamente acerca de eventual nulidade, questão que somente foi suscitada pelos corréus que também apresentaram defesa prévia, inclusive suscitando questões preliminares e de mérito que foram consideradas na sentença condenatória, não restando comprovado qualquer prejuízo. (Enunciado nº 523/STF).
+3. A jurisprudência deste Superior Tribunal de Justiça distingue as hipóteses típicas do Decreto-Lei nº 201/67, artigo 1º, incisos I e III, à luz da ocorrência de desvio de verbas públicas em proveito alheio, conclusão que não pode ser afastada nesta Corte Superior em sede de recurso especial, que não comporta diligências ou dilação probatória visando alterar os pressupostos fáticos tomados no julgamento da causa.
+4. Recurso improvido.
+(RESp 1229780 / PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, Julgado em 19/08/2014, DJe de 1º/09/2014)
+HABEAS CORPUS. DISPENSA OU INEXIGIBILIDADE DE LICITAÇÃO FORA DAS HIPÓTESES PREVISTAS EM LEI E CRIME
+DE RESPONSABILIDADE DE PREFEITO (ARTIGO 89 DA LEI 8.666/1993 E ARTIGO 1º, INCISOS II E IV, DO DECRETO-LEI 201/1967). DEFESA PRÉVIA PREVISTA NO ARTIGO 8º DA LEI 8.038/1990. NÃO OPORTUNIZAÇÃO. ACUSADO QUE FORMULOU
+TODAS AS TESES DEFENSIVAS POR OCASIÃO DO OFERECIMENTO DA RESPOSTA PREVISTA NO ARTIGO 4º DO REFERIDO DIPLOMA LEGAL. CONCESSÃO DE PRAZO PARA ARROLAMENTO DE TESTEMUNHAS. INEXISTÊNCIA DE PREJUÍZO. NULIDADE NÃO CARACTERIZADA.
+1. Não obstante o Tribunal Estadual não tenha oportunizado ao acusado a defesa prévia a que alude o artigo 8º da Lei 8.038/1990, é certo que por ocasião das suas razões preliminares o patrono constituído voltou-se não só contra os termos da acusação - tema próprio para a fase prevista no artigo 4º -, mas manifestou-se de forma bastante contundente sobre o mérito da ação penal, tendo-lhe sido concedido, ainda, prazo para arrolar testemunhas após o recebimento da denúncia, o que revela a inexistência de prejuízo na espécie, inviabilizando-se o reconhecimento da eiva articulada na impetração. Precedente.
+(..)
+(HC 290.861/BA, de minha relatoria, Julgado em 10/06/2014, DJe de 18/06/2014)
+Verifica-se, portanto, que não houve a alegada nulidade capaz de tornar sem efeitos todos os atos a partir do recebimento da denúncia, devendo a Corte de origem prosseguir no julgamento da ação penal.
+Por essas razões, nega-se provimento ao agravo regimental.
+É como voto.
