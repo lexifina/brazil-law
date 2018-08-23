@@ -1,0 +1,15 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. NEGÓCIO JURÍDICO. NULIDADE DE LOCAÇÃO CELEBRADA EM DESRESPEITO A DIREITOS SOBRE IMÓVEL CONFERIDOS POR COMPRA E VENDA. IRREGULARIDADE NÃO RECONHECIDA PELO TRIBUNAL DE ORIGEM. SÚMULAS 5 E 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão de inadmissibilidade do recurso especial apresentado, com fundamento no art. 105, III, a, da CF, em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+Ação declaratória de nulidade de negócio jurídico. Contrato de locação de imóvel. Não se exige que o locador de um imóvel seja necessariamente seu proprietário, tratando-se de relações jurídicas bem diferenciadas (artigo 5º, "caput", da lei 8245/91: "Seja qual for o fundamento do término da locação, a ação do locador para reaver o imóvel é a de despejo"). Prova de posse do imóvel objeto do contrato não produzida pelo autor. Locação legítima. Ação improcedente. Sentença mantida. Apelo improvido.
+Em suas razões de recurso especial, o recorrente alegou violação aos seguintes dispositivos legais: a) arts. 421 e 422 do CC, defendendo a nulidade da locação celebrada pela parte contrária, ao argumento de ser o proprietário do imóvel locado, conforme documentação comprobatória juntada aos autos, cujo cumprimento deixou de ser observado pelo Tribunal de origem; e b) art. 927 do CC, ao argumento de ser corolário da nulidade do negócio a condenação da parte contrária ao ressarcimento de perdas e danos.
+Contrarrazões apresentadas às fls. 462-467 (e-STJ).
+Em decorrência da inadmissão do recurso pela origem, foi interposto o presente agravo, o qual é objeto de contraminuta às fls. 482-483 (e-STJ).
+Brevemente relatado, decido.
+Como visto, a pretensão recursal de reconhecimento da nulidade do contrato de locação celebrado entre os corréus está baseada em direitos oriundos de compra e venda celebrada com um dos litisconsortes passivos, aos quais não foi conferido adequado cumprimento pelo Tribunal de origem.
+Entretanto, o Tribunal de origem não conheceu do pedido de reconhecimento do negócio jurídico de cessão avençado entre os litigantes, além de ter concluído pela regularidade da locação objeto da pretensão de invalidade e pela inexistência de provas: a) da posse do imóvel pela parte autora, ora recorrente; b) da má-fé da corré locatária; e c) do cumprimento das obrigações assumidas na compra e venda.
+Desse modo, o acolhimento do recurso, a fim de reconhecer a titularidade de direitos pelo recorrente que causariam a nulidade da locação celebrada entre os litisconsortes passivos, não prescindiria do reexame direto das provas dos autos, notadamente dos contratos de compra e venda e de locação, para estabelecer fatos não admitidos pelo Tribunal de origem, providência manifestamente proibida nesta instância, nos termos dos óbices das Súmulas 5 e 7 do STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% sobre o valor atualizado da causa.
+Publique-se.
