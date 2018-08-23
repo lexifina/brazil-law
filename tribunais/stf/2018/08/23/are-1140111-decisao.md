@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado (eDOC 2, p. 61-62):
+    “EMENTA: Agravo Regimental. Apelação Cível. Ação declaratória de enquadramento. I – plano de cargos e salários. Lei Estadual nº 15.677/06. JUCEG. Vantagem trabalhista anterior obtida via mandado de segurança. Percepção dos vencimentos equivalente a nível superior. Violação à coisa julgada. Inexistência.
+    Com o novo enquadramento dos autores após o advento da Lei Estadual nº 15.677/06, que modificou o regime jurídico dos servidores do referido órgão, não há se falar que os enquadramentos destes no cargo de nível médio resulta em violação ao instituto da coisa julgada em razão da obtenção, via mandado de segurança, do direito à percepção de remuneração equivalente ao nível superior. II – Plano de Cargos e Salários dos Servidores da Junta Comercial do Estado de Goiás. Lei Estadual nº 15.677/06. Direito adquirido. Inexistência. A teor do posicionamento sufragado pelo Supremo Tribunal Federal e pelo Superior Tribunal de Justiça, não é possível ao servidor público invocar direito adquirido em face do advento de novo regime jurídico instituído pela Administração Pública, quando não demonstrada violação ao princípio constitucional da irredutibilidade de vencimentos. III – Decisão nos termos do artigo 557 do CPC. Ausência de fato novo. Nega-se provimento ao agravo interno quando este apenas renova a discussão ocorrida no recurso de apelação, não tendo sido apresentado pelos agravantes fundamento novo a ensejar a alteração do entendimento anteriormente firmado.
+    Agravo Regimental conhecido e desprovido.
+    Decisão monocrática mantida.”
+    Os embargos de declaração foram rejeitados (eDOC 2, p. 84).
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa ao art. 5º, XXXVI, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “ficou decidido que os vencimentos e proventos dos então impetrantes, ora recorrentes, devem corresponder ao valor dos vencimentos de nível superior porque, exerciam à época das transformações dos cargos com tais vencimentos. Referida decisão foi transitado em julgado e tornou-se coisa julgada material.” (eDOC 2, p. 161).
+    A Presidência do TJ/GO inadmitiu o recurso extraordinário em virtude de incidir na hipótese a Súmula 282 do STF (eDOC 2, p. 237-240).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, reproduzindo trechos de decisão do Superior Tribunal de Justiça, em caso semelhante ao dos presentes autos, assim asseverou (eDOC 2, p. 51-52):
+    “... analisando tudo que dos autos consta, vislumbro ser incomportável o argumento de violação direitos adquiridos pelos recorrentes, pois, a nova Lei Estadual que prevê o enquadramento dos servidores/apelantes lhes facultou a adesão ao novo plano de cargos e remuneração, como bem exposto na sentença recorrida.
+    Ademais, registre-se que os optantes do novo Plano de Remuneração e Quadro Permanente do Órgão recorrido em momento algum comprovaram nos presentes autos que foram prejudicados ou mesmo que sofreram redução do ‘quantum’ remuneratório, mesmo porque a nova legislação apenas resultou no novo enquadramento dos mesmos nos cargos de nível médio.
+    Por outro lado, não há como se negar o poder do Estado de estabelecer, unilateralmente, o regime jurídico dos servidores, alterando as condições de trabalho, de retribuição, de direitos e vantagens, de deveres e limitações, como fez a nova Lei Estadual nº 15.677/06, que modificou o regime jurídico dos servidores da JUCEG.”
+    Como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas constantes dos autos, bem como o exame da legislação infraconstitucional pertinente (Lei Estadual 15.677/06), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 280 do STF.
+    Ademais, ressalta-se que o Supremo Tribunal Federal já assentou a inexistência da repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório, da legalidade e dos limites da coisa julgada é debatida sob a ótica infraconstitucional (ARE-RG 748.371,da relatoria do Min. Gilmar Mendes, DJe 1º.08.2013, tema 660 da sistemática da RG).
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do CPC.
+    Publique-se.
+    Brasília, 23 de agosto de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
