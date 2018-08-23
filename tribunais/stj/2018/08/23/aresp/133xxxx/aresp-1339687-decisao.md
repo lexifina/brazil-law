@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de Agravo, interposto pela UNIÃO, em 03/10/2017, contra decisão do Tribunal Regional Federal da 3ª Região, que inadmitiu o Recurso Especial interposto contra acórdão assim ementado:
+"EMBARGOS À EXECUÇÃO - JUÍZO DE RETRATAÇÃO - RECURSO REPETITIVO - IPTU - INAPLICABILIDADE DA IMUNIDADE TRIBUTÁRIA RECÍPROCA À RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO - REC. EXT. 599.176, DO C. STF
+1. Reapreciação da matéria por força do disposto no artigo termos do art. 543-B, § 3º,11, do Código de Processo Civil.
+2. No julgamento do Rec. Ext. 599.176 o C. STF pacificou, no âmbito do art. 543-B do CPC, o entendimento da inaplicabilidade da imunidade tributária recíproca à responsabilidade tributária por sucessão.
+3. Exercer o juízo de retratação e dar provimento à apelação do Município e negar provimento à apelação da União" (fl. 363e).
+O acórdão em questão foi objeto de Embargos de Declaração, parcialmente acolhidos, sem efeitos modificativos, nos seguintes termos:
+"PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. NULIDADE DA CDA. INEXISTÊNCIA. PRESCRIÇÃO AFASTADA. EFEITO INFRINGENTE.
+1. Existência de omissão no v. acórdão embargado no que tange à alegação de nulidade da CDA, razão pela qual merecem acolhimento parcial os embargos de declaração.
+2. Constata-se a correta formalização do título executivo porquanto devidamente fundamentada pela presença dos requisitos do art. 2º, §§ 5º e 6º da Lei nº 6.830/80, inexistentes omissões capazes de prejudicar a defesa do executado.
+3. Não configurada a ocorrência de prescrição, pois ausente período superior a cinco anos entre a data da constituição definitiva do crédito tributário e o ajuizamento da execução.
+4. O E. Supremo Tribunal Federal, ao apreciar o RE nº 599.176/PR, com repercussão geral reconhecida, decidiu pela não aplicação do princípio da imunidade tributária recíproca para a União Federal em relação aos débitos de Imposto Predial e Territorial Urbano (IPTU) devidos pela Rede Ferroviária Federal S/A. Muito embora conste do referido julgamento a expressa menção aos limites do julgado, deixando claro que não foi objeto de apreciação a questão atinente à eventual imunidade da RFFSA, aquela E. Corte assentou que a imunidade tributária recíproca não afasta a responsabilidade tributária por sucessão, na hipótese em que o sujeito passivo era contribuinte regular do tributo devido, como ocorria com a RFFSA.
+5. A Rede Ferroviária Federal S/A, sociedade de economia mista, integrante da Administração Indireta do Governo Federal, foi criada pela Lei nº 3.115, de 16/03/1957, com o objetivo primordial de administrar os serviços de transporte ferroviário a cargo da União Federal. Tal sociedade foi extinta, por força da Medida Provisória nº 353, de 22/01/2007, convertida na Lei n.º 11.483/07, figurando a União Federal como sucessora em seus direitos, obrigações e ações judiciais, o que incluiu os débitos relativos ao IPTU até o exercício de 2007.
+6. Nesse particular, insta considerar que a RFFSA possuía receita, cobrava pelos seus serviços e remunerava o capital das empresas sob seu controle, conforme expressamente previam os arts. 7º e 20 da Lei nº 3.115/57.
+Além disso, era contribuinte habitual dos tributos. Em que pese a relevância dos serviços ferroviários para o desenvolvimento nacional, a construção de ferrovias e a exploração comercial dos serviços de transporte ferroviário são atividades que podem ser realizadas pelo Poder Público ou por empresas privadas, estas mediante concessão da União.
+7. Portanto, não há como reconhecer a condição de ente imune à RFFSA, sociedade de economia mista, submetida ao regime aplicável às pessoas jurídicas de direito privado e sujeita às regras do direito privado, consoante disposto no artigo 173, § 1º, II, da CF.
+8. Embargos de declaração parcialmente acolhidos, sem efeito modificativo do julgado" (fls. 460/461e).
+Nas razões do Agravo, a parte sustenta, em síntese, o seguinte:
+"Não houve por parte do juízo análise dos requisitos de admissibilidade do Recurso Especial interposto pela União, mas sim o julgamento equivocado dos argumentos e dispositivos violados apontados expressamente no Recurso Especial.
+A agravante, com a devida vênia, requer um novo juízo de admissibilidade do Recurso Especial interposto, com vista a possibilitar a reapreciação das questões suscitadas nas razões do referido recurso.
+(..)
+É evidente que, ao negar a admissão do Recurso Especial, a decisão ora agravada realmente julgou o recurso ao apontar que "verificar se houve ou não desídia da exequente por demora na citação do devedor requer revolvimento de conteúdo fático-probatório". A decisão em exame não verificou os requisitos de admissibilidade recursais, mas sim de forma precisa ingressou na seara do julgamento do próprio recurso especial.
+(..)
+Nos termos dos citados entendimentos do Superior Tribunal de Justiça e do Supremo Tribunal Federal, requer a União a reconsideração da r. decisão de inadmissão do Recurso Especial, ou, então, a sua reforma pela Superior Instância.
+Por fim, no caso, cabe ponderar que, ao negar admissão ao recurso especial, o n. Vice-Presidente do TRF da 3ª Região, estará inviabilizando o acesso da parte às instâncias superiores. Por conseguinte, põe-se em risco a efetividade dos princípios do contraditório e da inafastabilidade do controle jurisdicional.
+(..)
+Houve evidente omissão no v. acórdão recorrido quanto à tese levantada pela União, por isso, com propósitos de prequestionamento, a União opôs Embargos de Declaração, em especial no que tange à arguição de prescrição e nulidade da CDA, indicando ofensa aos seguintes dispositivos legais: art. 2º, §§ 5º e 6º , da Lei nº 9830/80, e artigos 145, 173, 174, 201, 202 e 203 do CTN Contudo, o v. acórdão de fls. 404/407 acolheu apenas parcialmente os embargos de declaração sem que a questão fosse devidamente analisada, mediante o pronunciamento sobre todos os dispositivos legais acima apontados.
+Com efeito, o v. acórdão regional deixou de analisar a questão à luz dos artigos 145, 201, 202 e 203 do Código Tributário Nacional, persistindo omisso no aspecto, mesmo depois dos embargos declaratórios.
+Assim, evidente a violação ao art. 535, inc. I e II, do CPC/73, motivo, por si só, suficiente a dar trânsito ao recurso especial.
+(..)
+Não se faz necessário tal reexame do conjunto probatório constante dos autos, para que se aprecie as questões levantadas no recurso especial, não incidindo o mesmo nos óbices da Súmula 07 do STJ.
+Com efeito, o cerne da questão posta no recurso pira em torno da prescrição (se houve ou não desídia do município) e da nulidade da CDA.
+É sabido que o recurso especial não pode ser utilizado para simples revisão de prova. Todavia, há pacífico entendimento do STJ no sentido de que quando o fato está retratado no acórdão e há um equívoco em sua interpretação, este pode ser objeto de julgamento pela Corte Superior. Segue jurisprudência do C. STJ nesse sentido:
+(..)
+É exatamente o caso do presente processo, pois os fatos estão bem detalhados no acórdão, como se pode verificar do trecho abaixo, extraído do voto-vista acolhido, por maioria, no v.
+acórdão regional:
+(..)
+Assim, resta evidente que o C. STJ pode analisar as questões da prescrição e da nulidade da CDA, pois encontram-se totalmente retratadas no acórdão, não atraindo a aplicação da Súmula nº 07 do STJ.
+Há possibilidade de recurso especial por violação às regras de direito probatório, principalmente quando tratam da valoração e da admissibilidade da prova.
+(..)
+Não há, portanto, que se falar na aplicação da Súmula 7 do STJ.
+Logo, o recurso especial da União preenche sim a todos os requisitos necessários à sua admissão, processamento e julgamento pela nobre Superior Instância, com vista a que seja preservada a aplicação da legislação federal no presente feito" (fls. 559/573e).
+Requer, ao final, "seja o presente Agravo conhecido e provido, visando a que prosperem as razões do Recurso Especial da União por seus legais e jurisprudenciais fundamentos" (fl. 574e).
+Não foi apresentada contraminuta (fl. 582).
+Do exame dos autos, verifica-se que, em relação à alegação de ausência de prova da efetiva notificação do contribuinte, o Tribunal de origem negou seguimento ao Recurso Especial, com base no art. 1.030, I, b, do CPC/2015, ao fundamento de que, "no que diz respeito à entrega do carnê de pagamento da taxa em questão, o E. Superior Tribunal de Justiça já decidiu, sob o rito dos recursos respectivos, que cabe ao devedor o ônus de provar que o documento não foi entregue" (fl. 548e), e, quanto ao mais, inadmitiu o Recurso Especial, pelos seguintes fundamentos: (a) ausência de omissão no acórdão recorrido; (b) impossibilidade de análise, em sede de Recurso Especial, da alegação de violação a dispositivos constitucionais; (c) incidência da Súmula 7/STJ, no que concerne à validade da CDA; e (d) incidência da Súmula 7/STJ, no tocante à prescrição.
+Pois bem. A irresignação não ultrapassa a admissibilidade.
+Inicialmente, cabe observar que, nos termos do art. 1.042, caput, do CPC/2015, da decisão que nega seguimento ao Recurso Especial, fundada na aplicação de entendimento firmado em julgamento de recursos repetitivos, não cabe Agravo em Recurso Especial, mas sim Agravo interno ao próprio Tribunal, de acordo com o art. 1.030, § 2º, do mesmo diploma processual.
+Logo, é manifesto o descabimento do presente Agravo em Recurso Especial no tocante à alegação de ausência de prova da efetiva notificação do contribuinte.
+Quanto ao mais, verifica-se que a recorrente, no Agravo, não cuidou de impugnar o seguinte fundamento para a inadmissão do Recurso Especial: (b) impossibilidade de análise, em sede de Recurso Especial, da alegação de violação a dispositivos constitucionais.
+Registre-se que a parte, ao recorrer, deve buscar demonstrar o desacerto do decisum contra o qual se insurge, refutando todos os óbices por ele levantados, sob pena de vê-lo mantido.
+Tal entendimento, inclusive, está consolidado na Súmula 182/STJ, segundo a qual o recorrente deve infirmar, especificamente, os fundamentos da decisão impugnada, mostrando-se inadmissível o Agravo que não se insurge contra todos eles.
+Em face do exposto, com fundamento no art. 932, III, do CPC/2015 e art. 253, parágrafo único, I, do RISTJ, não conheço do Agravo.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios, anteriormente fixados em 10% (dez por cento) sobre o valor da causa, para 11% (onze por cento) sobre o valor da causa, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
