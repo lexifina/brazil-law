@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], devidamente assistido pela DEFENSORIA PÚBLICA DO ESTADO DO ESPÍRITO SANTO, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo.
+Depreende-se dos autos que o ora recorrente foi condenado, pelo Tribunal a quo, à pena de 4 anos e 2 meses de reclusão, em regime inicial semiaberto, pela prática do delito constante do art. 33, § 4º, da Lei n. 11.343/2006, e de 1 ano de detenção pela prática do delito do art. 12 da Lei n. 10.826/2003.
+Segundo narra a inicial acusatória (e-STJ fl. 1):
+Noticiam os autos do inquérito policial que no dia 01 de setembro de 2014, por volta das 16h20min, na Rua Felipe Camarão, 76, bairro São Pedro, Beco José de Oliveira, nesta comarca, o denunciado, com o propósito de praticar o crime de tráfico de drogas, guardava entorpecente que era objeto do mercado ilícito e portava arma de fogo de uso permitido, sem autorização e em desacordo com determinação legal ou regulamentar.Infere-se dos autos que, no dia dos fatos, policiais militares durante patrulhamento tático a pé em equipe GAO, adentraram no beco conhecido como "Rubro Negro", a fim de encontrarem substâncias entorpecentes, visto que receberam a informação de que alguns indivíduos faziam tráfico naquele local.
+Extrai-se dos autos que, os policiais ficaram em local estratégico observando a movimentação, ocasião em que avistaram o denunciado, o qual se abaixou próximo de uma pilha de telhas coloniais e escondeu algo no local.
+Ato contínuo, os militares realizaram a abordagem do denunciado e seu irmão [NOME], sendo que nada de ilícito foi encontrado com eles.
+Em busca realizada no local onde o denunciado escondeu o objeto, foi encontrada uma sacola plástica, contendo em seu interior 10 (dez) buchas de "maconha", embaladas em sacolas plásticas tipo chup-chup. Infere-se dos autos que, o denunciado assumiu a propriedade dos ilícitos encontrados, bem como mostrou onde estava o restante, ocasião em que foi apreendida uma sacola com 45 (quarenta e cinco) buchas de "maconha", conforme auto de apreensão de fts. 17 e auto de constatação provisório de fls. 18.
+Da decisão condenatória, a defesa interpôs recurso de apelação, ao qual o Tribunal de origem não deu provimento, nos termos da seguinte ementa (e-STJ fl. 219):
+APELAÇÃO CRIMINAL. ARTIGO 33 DA LEI N.º 11.343.06 E ARTIGO 12 DA LEI 10.826/03. ABSOLVIÇÃO. IMPOSSIBILIDADE. MANTIDO O PATAMAR DE REDUÇÃO PELO TRÁFICO PRIVILEGIADO. RECURSO NÃO PROVIDO.
+1. A materialidade está provada pelo auto de apreensão, auto preliminar de eficiência e prestabilidade de arma de fogo e laudo de exame químico. O entendimento pátrio é no sentido da prescindibilidade do exame pericial, haja vista que o delito tipificado no artigo 12 da lei n.º 10.826/03 é de mera conduta e perigo abstrato, não exigindo a ocorrência de resultado. A simples conduta que se encaixe no núcleo do tipo é o que basta para caracterizar o crime, ou seja, o simples fato de possuir ou portar.
+2. A autoria resta evidente diante dos depoimentos colhidos nas esferas policial e ratificados na fase judicial.
+3. O apelante é primário e não possui antecedentes criminais. Entretanto, responde a outro processo criminal, indicando que se dedica a atividade criminosa. Considerando que o magistrado possui plena liberdade para fixar o quantum adequado, sopesando as peculiaridades do caso concreto já descritos, encontra-se justificada a concessão da redução da pena no seu mínimo 1/6 (um sexto).
+4. O Magistrado fixou a pena-base para o crime descrito no artigo 12 da Lei n.º 10.826/036 em 1 (um) ano e 06 (seis) meses de detenção, utilizando critérios vagos e genéricos para exasperar a pena-base, razão pela qual redimensionada para o mínimo legal, ou seja, 01 (um) ano de detenção, Não aplicadas as atenuantes da confissão e menoridade em razão da Súmula n.º, 231 do STJ. Inexistindo causas de aumento e diminuição, chega-se, ao final) mesma pena fixada originalmente pelo Magistrado a quo, qual seja, 01 (um) ano de detenção.
+Daí o presente recurso especial, no qual a defesa alega contrariedade ao disposto no art. 33, § 4º, da Lei n. 11.343/2006.
+Sustenta que "as razões que levara a esse desfecho se basearam na existência de processo criminal em andamento, inexistindo sentença penal condenatória em face do recorrente, entendimento esse não encampado no âmbito dos Tribunais Superiores" (e-STJ fl. 232).
+Contrarrazões às e-STJ fls. 244/246.
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ fls. 261/267).
+É, em síntese, o relatório.
+Decido.
+Razão não assiste ao recorrente.
+Ressalte-se, inicialmente, que é entendimento sumulado, por este Tribunal Superior, a impossibilidade de processos criminais pendentes de definitividade servirem para a negativa valoração de reincidência e dos antecedentes na fase de aplicação da reprimenda.
+Verifique-se:
+Súmula 444 - É vedada a utilização de inquéritos policiais e ações penais em curso para agravar a pena-base.
+Este, no entanto, não é caso dos autos processuais. Isso porque presente o fenômeno processual conhecido como distinguishing, nomenclatura utilizada para fazer referência à distinção entre o caso em julgamento e o procedente citado. Nesse sentido, já está consolidado o entendimento de que o fato de o agente ter contra si instaurados processos criminais pode inclusive obstar a aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006 por evidenciar dedicação a atividades criminosas, o que afrontaria a mens legis do supramencionado dispositivo legal.
+Nesse sentido, decisão deste Tribunal Superior:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. LEGISLAÇÃO EXTRAVAGANTE.
+TRÁFICO DE DROGAS. ACÓRDÃO RECORRIDO. CAUSA DE DIMINUIÇÃO. ART. 33, § 4º, DA LEI N. 11.343/2006. EXCLUSÃO PELO TRIBUNAL DE ORIGEM.
+FUNDAMENTAÇÃO IDÔNEA. AÇÃO PENAL EM CURSO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. ERESP N. 1.431.091/SP, TERCEIRA SEÇÃO, DJE 1º/2/2017.
+1. A Terceira Seção desta Corte de Justiça tem entendido que é possível a utilização de inquéritos policiais e/ou ações penais em curso para formação da convicção de que o réu se dedica a atividades criminosas, de modo a afastar o benefício legal previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+2. Em que pese o recorrente não ostentar condenação apta a caracterizar a reincidência, a constatação de que o mesmo está respondendo a outro processo criminal já é fundamento idôneo e suficiente para obstar a concessão do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+3. Consoante entendimento perfilhado pela Sexta Turma Corte nos autos do HC n. 358.417/RS, fatos criminais pendentes de definitividade, embora não sirvam para a negativa valoração da reincidência e dos antecedentes (Súmula 444 do STJ), podem, salvo hipóteses excepcionais, embasar o afastamento da minorante do tráfico privilegiado quando permitam concluir a vivência delitiva do agente, evidenciando a dedicação a atividades criminosas (HC n. 416.587/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 13/11/2017).
+4. Agravo regimental improvido.
+(AgRg no REsp 1691916/AM, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 20/02/2018, DJe 26/02/2018, grifei)
+Assim sendo, se há, como já dito, possibilidade de que tal fato até mesmo obste a aplicação da minorante, não há mácula na atividade judicial discricionária de mensuração do quantum da causa de diminuição aplicada no caso concreto.
+Desse modo, tenho que a decisão proferida pelo Tribunal a quo não merece reparo.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
