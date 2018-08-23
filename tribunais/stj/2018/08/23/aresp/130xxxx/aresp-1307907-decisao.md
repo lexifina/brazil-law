@@ -1,0 +1,24 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO, CUMULADA COM REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO DE DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação declaratória de inexistência de débito, cumulada com repetição de indébito e indenização de danos materiais e compensação por danos morais, em razão de descontos indevidos gerado por cartão de crédito não solicitado.
+2. Alterar o decidido no acórdão impugnado, na hipótese, no que se refere ao momento em que o agravante teria tido conhecimento dos descontos em seu benefício previdenciário, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7 do STJ.
+3. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+4. Agravo conhecido. Recurso especial não conhecido, com majoração dos honorários.
+DECISÃO
+Cuida-se de agravo interposto por [NOME], contra decisão denegatória do recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 24/05/2018.
+Processo distribuído ao Gabinete em: 14/06/2018.
+Ação: declaratória de inexistência de débito, cumulada com repetição de indébito e indenização de danos materiais e compensação por danos morais, ajuizada pelo agravante, em face de BANCO BRADESCO S/A, em razão de descontos indevidos gerados por cartão de crédito que nunca solicitou ou utilizou.
+Sentença: julgou parcialmente procedente os pedidos, para reconhecer "a prescrição da pretensão do autor quanto à repetição de indébito dos quatro descontos relacionados ao cartão de crédito nos valores de R$ 5,00, R$ 10,17, R$ 10,35 e R$ 0,18 descritos à f. 31, bem como à indenização por dano moral, e no remanescente, com base no art. 487, I, do Código de Processo Civil, resolvo o mérito da demanda JULGANDO PARCIAMENTE PROCEDENTE o pleito declaratório contido na inicial para o fim específico de reconhecer a abusividade destas cobranças e declarar a inexistência de débito entre autor e réu relativo ao cartão de crédito" (e-STJ, fls. 135).
+Acórdão: negou provimento à apelação interposta pelo autor, conforme ementa a seguir:
+E M E N T A - RECURSOS DE APELAÇÃO - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO, CUMULADA COM REPETIÇÃO DE INDÉBITO E PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS - PRESCRIÇÃO - VALORES DESCONTADOS DO BENEFÍCIO PREVIDENCIÁRIO DA AUTORA - PRAZO QUINQUENAL - ARTIGO 27, CDC - TERMO INICIAL - A PARTIR DE CADA DESCONTO DA PARCELA - SENTENÇA MANTIDA - RECURSO CONHECIDO E NÃO PROVIDO.
+Em se tratando de obrigação avençada, o prazo da prescrição corre a partir do desconto da parcela prevista, porque o dano e sua autoria se tornaram conhecidos com cada débito no benefício previdenciário do apelante. (e-STJ, fls. 216).
+Recurso Especial: em suas razões recursais, alega o agravante a violação do art. 27 do CDC, bem como dissídio jurisprudencial. Assevera que os quatro descontos relacionados ao cartão de crédito nos valores de R$ 5,00, R$ 10,17, R$ 10,35 e R$ 0,18, não se encontram prescritos pois o autor somente teve conhecimento dos descontos no dia 07/10/2016, quando consultou seu extrato de empréstimos contratados, ou seja, a partir do momento em que conheceu da violação de seu direito subjetivo. Aduz que não há a necessidade de reexaminar fatos e provas, pois o agravante é "septuagenário (senil), analfabeto e indígena - (radicado em Reserva), o que presume que somente teve notícia da fraude ao procurar seus patronos, conforme consulta realizada à plataforma do INSS, emitida em 07/10/2016" (e-STJ, fls. 229).
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao momento em que o agravante teria tido conhecimento dos descontos em seu benefício previdenciário, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Ademais, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp n. 821.337/SP, Terceira Turma, DJe de 13/03/2017 e AgInt no AREsp n. 964.391/SP, Terceira Turma, DJe de 21/11/2016. Ainda que assim não fosse, o agravante descumpriu os arts. 1.029, § 1º, do CPC/15, e 255, §§ 1º e 3º, do RISTJ.
+
+Forte nessas razões, CONHEÇO do agravo para NÃO CONHECER do recurso especial, com fundamento no art. 932, III, do CPC/15.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente (e-STJ, fl. 222) para R$ 900,00 (novecentos reais).
+Publique-se. Intimem-se.
