@@ -1,0 +1,50 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL RECURSO ESPECIAL. VIOLAÇÃO AO ARTIGO 609 DO CPP. NÃO OCORRÊNCIA. REDIMENSIONAMENTO DE PENA E FIXAÇÃO DE REGIME ADEQUANDO AO NOVO QUANTUM E ÀS CIRCUNSTÂNCIAS JUDICIAIS DO ART. 59 DO CP.
+I - Tendo os embargos infringentes sido acolhidos para redimensionar a pena imposta, é consectário lógico do esgotamento da jurisdição das instâncias ordinárias a fixação de regime prisional adequado ao novo quantum fixado e às circunstâncias do art. 59 do CP.
+II - "A fixação do regime prisional está intimamente atrelada à fixação da reprimenda, de maneira que o órgão julgador, ao promover o redimensionamento da pena, está autorizado, por consectário lógico, a ponderar sobre a adequação do regime inicial de cumprimento de pena." (AgRg nos EDcl nos EDcl no PExt no REsp 1094894/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 15/6/2018; grifei).
+Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jorge Mussi, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FELIX FISCHER: Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO, contra a decisão de fls. 731-732 que negou provimento ao recurso especial, cuja ementa é a seguinte:
+"PENAL E PROCESSO PENAL. RECURSO ESPECIAL. PLEITO MINISTERIAL. VIOLAÇÃO AO ARTIGO 609 DO CPP. NÃO OCORRÊNCIA. EMBARGOS INFRINGENTES OPOSTOS CONTRA PARTE NÃO UNÂNIME. RECURSO ESPECIAL NÃO PROVIDO."
+Consta dos autos que os recorridos [NOME] e [NOME] foram condenados pelo juízo de primeiro grau como incurso no delito previsto no artigo 17 c.c. artigo 19, ambos da Lei n. 10.826/2003, às penas de, cada um, 7 (sete) anos e 6 (seis) meses de reclusão, no regime inicial fechado, e 24 (vinte e quatro) dias-multa (fls. 387-399).
+Irresignada, a defesa interpôs apelação, com vistas à reforma da sentença condenatória. No Tribunal de origem, o recurso teve negado o provimento (fls. 558-583).
+Os embargos infringentes foram providos, para desclassificar as condutas perpetradas pelos recorridos para a prevista no artigo 16 da Lei n. 10.826/2003, redimensionando-se a pena ao patamar de 4 (quatro) anos de reclusão e 12 (doze) dias-multa (fls. 641-658).
+Nas razões do recurso especial, o MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO sustenta violação ao artigo 609 do Código de Processo Penal, aos argumentos de que: " o  julgamento colegiado, como se verá, contrariou e negou vigência ao artigo 609, parágrafo único, do Código de Processo Penal, ao entender ser possível estender o mérito do recurso de embargos infrinqentes e de nulidade a matéria julgada por unanimidade pelo Colegiado anterior" (fl. 677).
+Nas razões do presente agravo regimental, a parte agravante repisa o aventado em sede de recurso especial e pugna, ao final, pela apresentação do recurso ao colegiado. Sustenta que "o acórdão recorrido, extrapolando os limites do voto vencido, fixou o regime aberto. E, não satisfeito, ainda substituiu a pena privativa de liberdade por restritivas de direito" (fl. 743).
+Por manter o r. decisum, trago o feito à apreciação da eg. Quinta Turma.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL RECURSO ESPECIAL. VIOLAÇÃO AO ARTIGO 609 DO CPP. NÃO OCORRÊNCIA. REDIMENSIONAMENTO DE PENA E FIXAÇÃO DE REGIME ADEQUANDO AO NOVO QUANTUM E ÀS CIRCUNSTÂNCIAS JUDICIAIS DO ART. 59 DO CP.
+I - Tendo os embargos infringentes sido acolhidos para redimensionar a pena imposta, é consectário lógico do esgotamento da jurisdição das instâncias ordinárias a fixação de regime prisional adequado ao novo quantum fixado e às circunstâncias do art. 59 do CP.
+II - "A fixação do regime prisional está intimamente atrelada à fixação da reprimenda, de maneira que o órgão julgador, ao promover o redimensionamento da pena, está autorizado, por consectário lógico, a ponderar sobre a adequação do regime inicial de cumprimento de pena." (AgRg nos EDcl nos EDcl no PExt no REsp 1094894/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 15/6/2018; grifei).
+Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO FELIX FISCHER: rata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO, contra a decisão de fls. 731-732 que negou provimento ao recurso especial.
+Consta dos autos que os recorridos [NOME] e [NOME] foram condenados pelo juízo de primeiro grau como incurso no delito previsto no artigo 17 c.c. artigo 19, ambos da Lei n. 10.826/2003, às penas de, cada um, 7 (sete) anos e 6 (seis) meses de reclusão, no regime inicial fechado, e 24 (vinte e quatro) dias-multa (fls. 387-399).
+Irresignada, a defesa interpôs apelação, com vistas à reforma da sentença condenatória. No Tribunal de origem, o recurso teve negado o provimento (fls. 558-583).
+Os embargos infringentes foram providos, para desclassificar as condutas perpetradas pelos recorridos para a prevista no artigo 16 da Lei n. 10.826/2003, redimensionando-se a pena ao patamar de 4 (quatro) anos de reclusão e 12 (doze) dias-multa (fls. 641-658).
+Em síntese, aponta o recorrente contrariedade ao art. 609 do CPP, ao argumento de que o r. acórdão de origem, ao julgar os embargos infringentes, teria ultrapassado os limites da dissidência ao fixar regime mais brando e substituir a pena privativa de liberdade por restritivas de direito.
+O presente agravo não merece prosperar, devendo ser mantida a decisão recorrida por seus próprios fundamentos.
+Busca a parte recorrente, em síntese, nas suas razões recursais, o reconhecimento da violação ao artigo 609 do Código de Processo Penal.
+Destaca-se o contido no artigo 609 do Código de Processo Penal:
+"Art. 609. Os recursos, apelações e embargos serão julgados pelos Tribunais de Justiça, câmaras ou turmas criminais, de acordo com a competência estabelecida nas leis de organização judiciária.
+Parágrafo único. Quando não for unânime a decisão de segunda instância, desfavorável ao réu, admitem-se embargos infringentes e de nulidade, que poderão ser opostos dentro de 10 (dez) dias, a contar da publicação de acórdão, na forma do art. 613. Se o desacordo for parcial, os embargos serão restritos à matéria objeto de divergência."
+Verifica-se, dos autos, que a parte ora recorrida ingressou com embargos infringentes nos pontos não unânimes do acórdão de apelação, não havendo se falar, portanto, em violação ao artigo 609 do Código de Processo Penal. Conforme consignado no r. acórdão, redimensionada a pena imposta ao ora agravado, foi fixado o regime aberto, para compatibilizar este com os termos legais, substituídos o saldo da privativa de liberdade, se houver, por duas penas alternativas a serem definidas em execução (fl. 655).
+Por oportuno, transcrevo trecho do r. acórdão:
+"A dosimetria estabelecida pelo Voto escoteiro se mostrou adequada à espécie, identificando, na primitiva etapa da dosagem, que as circunstâncias do delito se mostraram peculiarmente danosas, ante a gigantesca quantidade de munição apreendida em poder dos Recorrentes, impondo-se a fixação de uma pena base acima de seu piso legal, e o que se deu em 04 (quatro) anos de reclusão e ao pagamento de 12 (doze) dias multa, estes à razão unitária mínima cominada, firmando-se tal montante como definitivo, à mingua da incidência à espécie de circunstâncias legais ou de causas especiais modificativas da reprimenda.
+No entanto e quanto ao regime prisional, mostrou-se adequada a fixação daquele aberto, por força do disposto no art. 33, § 2o, alínea "c" do Diploma Repressivo.
+Por fim e em se tendo por cumpridos os requisitos previstos no art. 44 do Codex Penal, concede-se a substituição qualitativa de reprimendas a ambos os Recorrentes, transmutando-se a sanção corpórea em duas restritivas de direitos, a serem estabelecidas pelo Juízo da Execução, observando-se o saldo de pena, se houver.
+Assim sendo, voto pelo provimento dos Embargos Infringentes e de Nulidade, para desclassificar a conduta dos Recorrentes para o crime de porte de arma de fogo (munição) de uso restrito, operando os devidos ajustes dosimétricos, além da mitigação do regime prisional e da concessão da substituição qualitativa de reprimendas, determinando-se a expedição de Alvará de Soltura condicionado" (fl. 655).
+Ora, tendo os embargos infringentes sido acolhidos para redimensionar a pena imposta, é consectário lógico do esgotamento da jurisdição das instâncias ordinárias a fixação de regime prisional adequado ao novo quantum fixado e às circunstâncias do art. 59 do CP.
+Ilustrativamente:
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO PEDIDO DE EXTENSÃO NO RECURSO ESPECIAL. REDUÇÃO DA PENA. MANUTENÇÃO DO REGIME INICIAL SEMIABERTO. REFORMATIO IN PEJUS. INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da jurisprudência pacífica desta Corte, a existência de circunstância judicial desfavorável é fundamento suficiente para justificar a imposição de regime prisional mais severo do aquele indicado pelo quantum da reprimenda imposta, sem que isso implique violação ao princípio da individualização da pena.
+2. A fixação do regime prisional está intimamente atrelada à fixação da reprimenda, de maneira que o órgão julgador, ao promover o redimensionamento da pena, está autorizado, por consectário lógico, a ponderar sobre a adequação do regime inicial de cumprimento de pena.
+3. Não configura, portanto, reformatio in pejus as hipóteses em que este Sodalício, mesmo reduzindo a reprimenda a patamar que permite a fixação de regime mais brando, mantém, com base na existência de circunstância judicial desfavorável, o regime estabelecido pela instância ordinária.
+4. Agravo regimental desprovido" (AgRg nos EDcl nos EDcl no PExt no REsp 1094894/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 15/6/2018, grifei).
+Assim, deve ser mantida a decisão ora agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
