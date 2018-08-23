@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se de agravo interposto por INES CAROLINA BENEDUSI contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c" da Constituição Federal.
+Da análise dos autos, constata-se que a decisão agravada inadmitiu o recurso especial interposto pela recorrente, com base nos seguintes fundamentos: i) ausência de prequestionamento da questão atinente à multa contratual, aplicando a Súmula 211/STJ; ii) incidência da Súmula 7/STJ, quanto à inexistência de danos morais, em razão da não comprovação de qualquer ofensa à personalidade da recorrente; iii) incidência da Súmula 83/STJ, no sentido de que o simples inadimplemento contratual não gera, em regra, danos morais; e iv) aplicação da Súmula 7/STJ, quanto à análise da ausência de responsabilidade civil da recorrida.
+No entanto, da leitura do agravo em recurso especial, constata-se que a agravante limitou-se a infirmar os óbices relativos à ausência de prequestionamento e à aplicação da Súmula 7/STJ, deixando de tecer qualquer consideração acerca do empeço relativo à incidência da Súmula 83/STJ.
+Desse modo, não havendo a impugnação específica de todos os fundamentos da decisão recorrida, aplicável se torna a Súmula 182 desta Corte.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 253, parágrafo único, I, do RISTJ .
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 5% (cinco por cento).
+Publique-se. Intimem-se.
