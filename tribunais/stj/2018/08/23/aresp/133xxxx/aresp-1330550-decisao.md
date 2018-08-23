@@ -1,0 +1,32 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. CONVÊNIO MÉDICO COM O SUS. NEXO DE CAUSALIDADE. EXISTÊNCIA DE ATO ILÍCITO. REEXAME DO CONJUNTO FÁTICO PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial interposto pela Associação Hospitalar de Bauru (em liquidação), em face de decisão proferida pelo Tribunal de Justiça do Estado de São Paulo que inadmitiu o recurso especial manejado contra acórdão assim ementado (fl. 150 e-STJ):
+APELAÇÃO CÍVEL.
+1. Ação de cobrança - Celebração de convênio para execução de serviços hospitalares em favor do Município de Macatuba  Falta de prestação de contas  Rescisão da avença - Restituição das parcelas desembolsadas - Cabimento  Orientação do Tribunal de Contas do Estado - Ajuizamento de ação cognitiva, ao invés de ação executiva - Possibilidade - Opção legítima do credor - Precedentes do E. STJ - Regra do artigo 785 do atual Código de Processo Civil - Procedência da ação  Reforma da sentença.
+2. Recurso provido.
+Houve a oposição de embargos de declaração, os quais foram pelo Tribunal de origem rejeitados nos seguintes termos (fl. 183 e-STJ):
+EMBARGOS DE DECLARAÇÃO.
+1. Ausência de omissão, obscuridade ou contradição a ser suprida - Decisão colegiada que reflete o entendimento consolidado pela E. Turma  Questões suscitadas devidamente enfrentadas e apreciadas - Finalidade de prequestionamento - Observância dos limites traçados pelo Estatuto Processual Civil.
+2. Embargos rejeitados.
+ A recorrente interpôs recurso especial com fundamento no artigo 105, III, alínea "a" do permissivo constitucional, alegando violação aos arts. 186, 187, 884, 885, 886 e 927 do Código Civil. Aduz que não praticou ato ilícito, uma vez que inexistiu nexo de causalidade entre o dano sofrido pelo ora recorrido e o ato realizado.
+Sem contrarrazões.
+A Corte de origem inadmitiu o recurso especial sob o fundamento de que: a) os argumentos expendidos não são suficientes para infirmar as conclusões do acórdão combatido; e b) rever a posição da Turma Julgadora importaria em ofensa à Súmula 7/STJ.
+Nas razões de agravo, o agravante impugna todos os fundamentos da decisão de inadmissibilidade do apelo nobre.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No que se refere a insurgência recursal, manifestou-se o Tribunal de origem (fls. 153/154 e-STJ):
+Toda a linha de defesa construída pela devedora é frágil para obstruir a devolução do numerário que lhe foi entregue, por força do Convênio nº. 03/09/FMS copiado a fls. 08/12, o qual prevê, expressamente, que a liberação das parcelas estava umbilicalmente condicionada (i) ao preenchimento mensal do relatório de atendimento, apto para a comprovação do atendimento efetivo estabelecido no ajuste, bem como (ii) à prestação de contas da parcela anterior.
+O Município de Macatuba, no que lhe competia, ao que parece, mobilizou-se para obter a prestação de contas do dinheiro desembolsado (fls. 13 e 15/16), mas em vão, o que propiciou a cobrança em tela, inclusive em razão do julgamento desfavorável pronunciado pelo Tribunal de Contas do Estado (fls. 20/21, 22/27 e 134/135).
+Dessa forma, em vista da bilateralidade do convênio, impondo prestações simultâneas para ambas as partes, tem o Município o direito de exigir a restituição das importâncias que não foram objeto de efetiva prestação de contas, pena de enriquecimento injustificado da ré, já que deixou de indicar a adequada destinação dos recursos.
+Descumpriu a ré, por conseguinte, as regras estipuladas expressamente no Convênio ora em discussão, notadamente aquelas previstas nas cláusulas 4a, incisos I, II e IV (parte atinente às suas obrigações), 5a, 7a, § Io, inciso I, e 8a (fls. 08/12). Como conseqüência, faz jus o Município de Macatuba à restituição das parcelas sobre os quais não houve a efetiva prestação de contas, com os encargos legais respectivos.
+Com efeito, observa-se que o exame probatório empreendido pela Corte de origem resultou na compreensão de que a ora recorrente deixou de realizar a efetiva prestação de contas, não indicando a adequada destinação dos recursos, e, com isso, praticou ato ilícito. Trata-se de conclusão decorrente de análise dos documentos juntados aos autos, motivo pelo qual a reversão do entendimento demandaria o reexame de fatos. Logo, não é possível acolher a pretensão recursal porque seria necessário reexaminar conjunto fático-probatório dos autos, o que não é possível em sede de recurso especial, em face do óbice da Súmula 7/STJ.
+Ilustrativamente:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. FORNECIMENTO DE MEDICAMENTO. ART. 535 DO CPC. VIOLAÇÃO. INEXISTÊNCIA. LEGITIMIDADE PASSIVA AD CAUSAM DA UNIÃO. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERATIVOS. NECESSIDADE DO MEDICAMENTO. SÚMULA 7/STJ.
+1. Não viola o art. 535, inciso II, do CPC o acórdão que decide de forma suficientemente fundamentada, não estando a Corte de origem obrigada a emitir juízo de valor expresso a respeito de todas as teses e dos dispositivos legais invocados pelas partes.
+2. A jurisprudência desta Corte Superior de Justiça é pacífica no sentido de que, nas ações que versem sobre fornecimento de medicamentos, quaisquer dos entes federativos possuem legitimidade ad causam para figurar no polo passivo da demanda, haja vista a responsabilidade solidária a eles atribuída pelo funcionamento do Sistema Único de Saúde.
+3. Rever o entendimento do Tribunal de origem, quanto à necessidade de fornecimento do medicamento pleiteado, implica o reexame das provas dos autos, o que é defeso em sede de recurso especial, conforme disposto na Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1593199/CE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 27/09/2016, DJe 30/09/2016)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial. Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ, deixo de majorar os honorários advocatícios visto que não houve a prévia fixação na origem.
+Publique-se. Intimem-se.
