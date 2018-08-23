@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ALFREDO ARTUR VICIALI, em face de decisão do Tribunal de Justiça do Estado de São Paulo, que deu parcial provimento à apelação defensiva.
+Consta dos autos que o paciente foi condenado como incurso no art. 288, paragrafo único, e no artigo 157, § 2º, incisos I, II e V, c.c. artigo 29, caput, na forma do art. 69, caput, todos do Código Penal, à pena privativa de liberdade de 7 anos e 8 meses de reclusão, em regime inicial fechado e pagamento de 14 dias-multa, fixados no mínimo legal.
+A defesa interpôs recurso de apelação, que foi parcialmente provido, para manter a pena para 5 anos e 8 meses de reclusão e pagamento de 14 dias-multa, no valor unitário mínimo, e reduzir a pena referente à associação criminosa para 1 ano e 6 meses de reclusão, reconhecendo a extinção da punibilidade em relação a este último delito, em razão da prescrição.
+No presente habeas corpus, alega a ocorrência de constrangimento ilegal, sob o argumento de que a fração referente às majorantes teria sido fixada acima do mínimo legal sem indicação de elementos concretos que assim justificassem, malferindo, portanto, a Súmula 443/STJ. Aduz, ainda, que seria devido o abrandamento do regime inicial para o semiaberto.
+Requer a concessão da ordem constitucional para que seja redimensionada a reprimenda e alterado o modo prisional.
+Indeferida a liminar, prestadas as informações, manifestou-se o Ministério Público Federal pela denegação da ordem.
+É o relatório.
+DECIDO.
+No concernente ao pleito de redução da fração referente às majorantes, tem-se que a Corte de origem manteve o quantum em 5/12, com os seguintes fundamentos (fls. 57/61 - com destaques):
+ .. .Na terceira fase da dosimetria, as sanções receberam o correto aumento de 5/12, por se tratarem de três majorantes, uma delas consistente na restrição da liberdade das vítimas, conforme entendimento jurisprudencial dominante neste Egrégio Tribunal de Justiça. Convém salientar que foram utilizadas várias armas de fogo para a intimidação das vítimas sendo superior a quinze o número de agentes.
+Por inexistirem outras causas de incidência, as sanções de Alfredo e Josélio são tornadas definitivas em 5 (cinco) anos e 8 (oito) meses de reclusão e pagamento de 14 (catorze) dias-multa, no valor unitário mínimo.
+ ..
+O regime prisional para o crime remanescente só poderia ser o fechado para os três apelantes ante as especificidades do fato, que envolveu prejuízo patrimonial de grande monta à vítima, minuciosa premeditação, mais de quinze agentes, utilização de nada menos que três caminhões para a retirada das mercadorias subtraídas, além de emprego de violência física contra uma das vítimas, desnecessária ante o emprego da grave ameaça perpetrada com armas de fogo. O grau de censurabilidade de suas condutas não seria atendido com a fixação de regime mais brando. .. .
+Ao que se tem, o Tribunal de origem estabeleceu em 5/12 a fração de aumento de pena na terceira fase, em razão da prática de roubo circunstanciado, praticado com restrição da liberdade das vítimas, com o emprego de várias armas de fogo, mediante o concurso de 15 agentes, fatos que também justificaram o regime fechado.
+Na espécie, tendo sido justificada a fração de aumento na terceira fase da dosimetria e fixado o regime fechado com base em elementos concretos do caso, não há que se falar em violação das Súmulas 443/STJ, 440/STJ e 718 e 719/STF. Nesses termos:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO. EXASPERAÇÃO DA PENA NA TERCEIRA FASE DA DOSIMETRIA. SÚMULA N. 443 DO STJ. MATÉRIA JÁ SUBMETIDA À REVISÃO CRIMINAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes. Súmula n. 443 do STJ.
+2. A exasperação da pena, no patamar de 3/8, foi baseada em circunstâncias fáticas que indicam a gravidade concreta do crime cometido - "a arma de fogo foi utilizada de forma a gerar grande poder intimidatório, já que em duas oportunidades foi apontada para a cabeça da vítima, bem como que houve o concurso de, pelo menos, três pessoas" (AgRg no HC 441.153/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/04/2018, DJe 11/05/2018).
+HABEAS CORPUS. ROUBO TRIPLAMENTE QUALIFICADO. RÉU PRIMÁRIO E DE BONS ANTECEDENTES. FIXAÇÃO DO REGIME INICIAL FECHADO. PERICULOSIDADE DO AGENTE. USO DE ARMA DE FOGO. ELEMENTO CONCRETO DA CAUSA. MOTIVAÇÃO IDÔNEA. PRECEDENTES DO STJ. WRIT NÃO CONHECIDO.
+ ..
+3. Assim, em que pese a aplicação de pena abaixo do patamar de 8 anos de reclusão, a imposição do regime mais gravoso para o início do cumprimento da reprimenda, escora-se em elementos que encontram ressonância na dinâmica do crime, tais como o próprio uso da arma de fogo e o concurso de pessoas, demonstrativos da periculosidade do paciente, não se podendo falar na aplicação da Súmula 440-STJ e 718 e 719-STF.
+4. Habeas corpus não conhecido (HC 240.679/SP, Rel. Ministro CAMPOS MARQUES (DESEMBARGADOR CONVOCADO DO TJ/PR), QUINTA TURMA, julgado em 18/06/2013, DJe 24/06/2013).
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
