@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GENIVALDO NEVES DOS SANTOS, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2149389-98.2018.8.26.0000).
+Consta dos autos ter o Juízo das Execuções Criminais revogado o sursis concedido ao paciente, fixando, ainda, o regime semiaberto para desconto da sanção privativa de liberdade.
+Impetrado habeas corpus no Tribunal de origem, o writ foi indeferido liminarmente nos termos da seguinte ementa (e-STJ fl. 110):
+HABEAS CORPUS ALEGAÇÃO DE QUE O PACIENTE SOFRE CONSTRANGIMENTO ILEGAL, VEZ QUE TEVE REVOGADO O BENEFÍCIO DO SURSIS, COM FIXAÇÃO DE REGIME PRISIONAL SEMIABERTO, O QUAL PRETENDE VER ALTERADO PARA O ABERTO. RECLAMO QUE EXTRAPOLA O ESTREITO CAMPO DE ATUAÇÃO DO REMÉDIO HEROICO, NOS TERMOS DO QUE DISPÕE O ART. 663, DO CPP, C.C. O ART. 248, DO RITJ. CASO EM QUE, DEMAIS, NÃO SERVE O WRIT COMO SUCEDÂNEO DE RECURSO PRÓPRIO.
+Ordem indeferida liminarmente.
+Na presente impetração, insurge-se a impetrante contra a imposição do regime intermediário, visto que o título executivo teria estabelecido o regime aberto, asseverando, também, a inaplicabilidade do disposto no art. 118 da LEP, pois, "ainda que se entenda que o descumprimento do sursis configura falta disciplinar, é de se observar que a infração não foi cometida no curso de pena privativa de liberdade, que se encontrava suspensa" (e-STJ fl. 4).
+Defende, por fim, o cabimento do remédio constitucional, em razão da urgência do caso e de se tratar de exame de matéria eminentemente de direito.
+Busca, inclusive liminarmente, "seja fixado o regime aberto de cumprimento de pena, tal como estabelecido no título executivo" (e-STJ fl. 9).
+É, em síntese, o relatório.
+Pois bem. Consoante visto no relatório, a presente impetração busca, inclusive em liminar, a fixação do regime aberto.
+Ocorre que o writ originário não examinou a tese por entender o Tribunal de origem ser incabível a impetração de habeas corpus visando à concessão de benefícios próprios da execução penal.
+Sendo assim, esta Corte está impedida de analisar o tema sob pena de incorrer em indevida supressão de instância e em violação ao princípio do duplo grau de jurisdição.
+Ao discorrer sobre o tema, BRASILEIRO vaticina com clareza que se revela "inviável, portanto, o pedido de julgamento de habeas corpus per saltum, ou seja, o julgamento do remédio heroico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único. 4. ed. rev. ampl. e atual. Salvador: ed. JusPodivm, 2016, p. 2.470).
+Logo, ante a falta de manifestação do colegiado estadual sobre a tese, percebe-se a incompetência desta Corte Superior para o processamento e julgamento do tema, já que inexiste, no ponto, ato a ser imputado à autoridade coatora, nos termos do art. 105, I, alínea "c", da Constituição Federal, bem como do art. 13, I, alínea "b", do Regimento Interno do Superior Tribunal de Justiça.
+Nesse sentido:
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. ALEGAÇÃO DE AUSÊNCIA DE INDÍCIOS DE AUTORIA. INVIÁVEL. NÃO CONHECIMENTO. CONSTRANGIMENTO ILEGAL POR EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. FUNDAMENTAÇÃO CONCRETA. ILEGALIDADE. AUSÊNCIA. HABEAS CORPUS PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DENEGADO.
+1. Em sede de habeas corpus não há espaço para discussão de autoria delitiva, uma vez que a ação mandamental em comento visa sanar ilegalidade verificada de plano.
+2. Constatada a falta de manifestação do Tribunal de origem a respeito do constrangimento ilegal decorrente de excesso de prazo para formação da culpa, obsta-se a análise da matéria nesse momento, pois provocaria indevida supressão de instância.
+ ..
+(HC 387.938/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/03/2017, DJe 23/03/2017, grifei)
+Por outro vértice, constato a existência de evidente constrangimento ilegal ocasionado ao paciente, já que é uníssona a orientação desta Casa de cabimento do remédio constitucional para o exame de questões de direito que, por assim dizer, não demandam o revolvimento de fatos e provas.
+Logo, não há óbice a que o Tribunal a quo enfrente o mérito do writ originário.
+A propósito, guardadas as devidas particularidades:
+PROCESSUAL PENAL. HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ORDINÁRIO. TRÁFICO ILÍCITO DE ENTORPECENTES. HABEAS CORPUS ORIGINÁRIO NÃO CONHECIDO PELO TRIBUNAL DE ORIGEM POR SUPOSTA INADEQUAÇÃO DA VIA ELEITA. QUESTÃO DE DIREITO QUE INDEPENDE DA ANÁLISE FÁTICO-PROBATÓRIA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. RETORNO DOS AUTOS À ORIGEM. NÃO CONHECIMENTO. ORDEM DE OFÍCIO.
+1. O Superior Tribunal de Justiça não admite que o remédio constitucional seja utilizado em substituição ao recurso próprio (apelação, agravo em execução, recurso especial), tampouco à revisão criminal, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus.
+2. Hipótese em que o Tribunal de origem não conheceu da impetração originária - versando sobre a legalidade na imposição do regime inicial fechado -, por suposta inapropriação da via eleita. Não tendo havido o exaurimento da matéria pelas instâncias de origem, inviável a apreciação por esta Corte Superior de Justiça, sob pena de supressão de instância.
+3. Tratando-se de matéria exclusivamente de direito, não demandando revolvimento fático-probatório, inexiste óbice à análise do pedido formulado no habeas corpus originário, ainda que de ofício, nos termos do art. 654, §2º, do CPP. Precedentes.
+4. Writ não conhecido. Ordem concedida, de ofício, para determinar, o retorno da impetração ao Tribunal de 2º Grau para que este examine o mérito do Habeas Corpus originário, decidindo como entender de direito, mormente quanto à possibilidade de concessão da ordem, de ofício.
+(HC 349.445/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 12/04/2016, DJe 22/04/2016, grifei)
+À vista do exposto, não conheço da impetração. Entretanto, concedo habeas corpus de ofício a fim de determinar que o Tribunal de origem examine o mérito do writ originário como entender de direito.
+Publique-se. Intimem-se.
