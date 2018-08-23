@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO, com fulcro nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado (e-STJ fl. 153):
+DESAPROPRIAÇÃO - CUMULAÇÃO DE JUROS MORATÓRIOS E JUROS COMPENSATÓRIOS: ADMISSIBILIDADE - SÚMULAS 12 E 102, DO E. STJ - IMPROVIDO O RECURSO DA EXPROPRIANTE
+1- O único debate em grau de apelo, ancorado no inconformismo da cumulatividade dos juros moratórios e compensatórios, não merece subsistir, pois aqui a traduzir o princípio constitucional do justo valor da indenização, tanto que a questão encontra-se consolidada nos termos das Súmulas nº 12 e 102, do E. STJ.
+2- Os juros compensatórios são destinados a compensar o expropriado pela perda antecipada do imóvel, não havendo, portanto, natureza remuneratória, inexistindo qualquer óbice a que sejam cumulados com os juros moratórios, que, diversamente, servem para ressarcir a demora no pagamento da indenização.
+3- Improvimento à apelação.
+Opostos embargos de divergência, foram rejeitados (e-STJ fl. 171).
+Nas suas razões, a recorrente aponta, além de divergência jurisprudencial, violação dos seguintes dispositivos legais:
+(a) arts. 462 e 535, II, do Código de Processo Civil de 1973, visto que o Tribunal de origem não se pronunciou sobre as alterações legislativas ocorridas após a publicação da sentença e a interposição do recurso de apelação, especificamente sobre a edição da Medida Provisória n. 1.577/1997 e o advento do art. 100, § 12, da Constituição da República pela Emenda Constitucional n. 62/2009, cujas normas afastaram a possibilidade de cumulação do juros compensatórios e moratórios nas ações de desapropriação.
+(b) art. 15-A do Decreto-Lei n. 3.365, com a alteração trazida pela MP n. 1.577/1997, ao fundamento de que os juros moratórios devem ser reduzidos para 6% ao ano durante o período de 11/06/1997 a 13/09/2001 e calculados sobre a diferença eventualmente apurada entre o valor ofertado e o montante fixado na condenação;
+(c) art. 15-B do Decreto-Lei n. 3.365, acrescido pela MP n. 1.577/1997, sustentando que o termo inicial dos juros de mora é o dia 1º de janeiro do exercício seguinte àquele em que o pagamento deveria ser feito, circunstância que impossibilita a a cumulação dos juros compensatórios e moratórios.
+Juízo positivo de admissibilidade pelo Tribunal de origem consta à e-STJ fl. 219.
+O Ministério Público Federal opina pelo provimento do recurso especial, a fim de que os autos retornem à instância a quo para novo julgamento (e-STJ fls; 245/247).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feito esse esclarecimento, verifica-se que assiste razão à recorrente quanto à ofensa aos arts. 462 e 535, II, do CPC/1973. De fato, o Tribunal de origem não analisou as matérias suscitadas nos aclaratórios relativas às alterações legislativas ocorridas após a interposição do recurso apelação, mas anteriores ao seu julgamento, notadamente acerca da incidência dos consectários legais em ação de desapropriação.
+Certo que o magistrado, desde que amparado em fundamentação suficiente, não está obrigado a responder a todos os argumentos suscitados pela parte.
+Todavia, na espécie, constata-se que a Corte Federal manteve-se silente sobre questões relevantes para o deslinde da controvérsia, a despeito de ter sido oportunamente provocada mediante aclaratórios.
+Com efeito, a ocorrência de vício de integração justifica a nulidade do acórdão recorrido, por violação do art. 535 do CPC/1973, para que as questões levantadas pela União sejam apreciadas pelo Tribunal de origem, à luz do caso concreto, até mesmo para fins de efetivo prequestionamento, sob pena de inviabilizar o acesso à instância especial, nos termos da Súmula 211 do STJ.
+Nesse sentido: AgRg no REsp 1.221.403/RS, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe 23/08/2016, e AgInt no AREsp 868.604/RN, Relator Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe 14/09/2016.
+Ante o exposto, DOU PROVIMENTO ao recurso especial (art. 255, § 4º, III, do RISTJ), para anular o acórdão de e-STJ fls. 169/171, por violação do art. 535 do CPC/1973, determinando o retorno dos autos para que o Tribunal de origem reaprecie os embargos de declaração opostos pelo ora recorrente, sanando o vício de integração ora identificado, ficando prejudicadas as demais alegações.
+Publique-se.
+Intimem-se.
