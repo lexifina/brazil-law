@@ -1,0 +1,27 @@
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. NULIDADE. COLIDÊNCIA DE TESES DEFENSIVAS. ADVOGADO ÚNICO PARA OS CORRÉUS. CONFISSÃO ESPONTÂNEA. APLICAÇÃO. MATÉRIAS NÃO SUSCITADAS NA APELAÇÃO. AUSÊNCIA DE DEBATE PRÉVIO. ANÁLISE. INVIABILIDADE. SUPRESSÃO DE INSTÂNCIA.
+Habeas corpus não conhecido.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DIEGO SANTOS DA SILVA, apontando-se como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul (Apelação Criminal n. 0402040-21.2016.8.21.7000).
+Consta dos autos que o paciente foi condenado, juntamente com outros, em 24.9.2015, por infração ao disposto no art. 155, § 4º, IV, do Código Penal, à pena de 2 (dois) anos e 3 (três) meses de reclusão, a ser cumprida regime inicial aberto. Substituiu-se a sanção reclusiva por duas penas restritivas de direitos, consistentes em prestação de serviços à comunidade e prestação pecuniária. Foi-lhe concedido o apelo em liberdade (fls. 357/382) - Processo n. 0007707-18.2011.8.21.0052, da 2.ª Vara Criminal da Comarca de Guaíba/RS.
+Inconformada, a defesa interpôs recurso de apelação, ao qual o Tribunal de origem, na data de 21.2.2018, negou provimento ao apelo do ora paciente e, de ofício, declarou extinta a punibilidade dos corréus devido ao reconhecimento da prescrição, nos termos do art. 107, IV, do Código Penal. Eis a ementa do aresto (fl. 500):
+"DE OFÍCIO, DECLARADA EXTINTA A PUNIBILIDADE DOS RÉUS PAULO INGRID E EDUARDO. PREJUDICADO O APELO EM RELAÇÃO A ELES. APELO DA DEFESA DO ACUSADO DIEGO IMPROVIDO. PEDIDO MINISTERIAL DE 2º GRAU ACOLHIDO DETERMINADO QUE SE DÊ INÍCIO A EXECUÇÃO DA PENA DO INCREPADO DIEGO, NA ORIGEM, TÃO LOGO ESGOTADA A JURISDIÇÃO ORDINÁRIA.
+Daí o presente mandamus, no qual a impetrante pleiteia o reconhecimento de nulidade absoluta, eis que o paciente, por ocasião do interrogatório judicial, imputou a prática do delito aos três corréus, sendo que todos os acusados "foram representados ao longo de todo o feito pelo mesmo defensor" (fl. 4).
+Pontua "que não se trata de situação em que o paciente cinge-se a negar a autoria do delito, posto que em verdade, de acordo com o teor de seu depoimento, há confissão quanto à conduta acessória por ele praticada", contudo, "há, ainda, de forma bastante clara, a afirmação direta de que os corréus são os autores da subtração, motivo pelo qual não se pode admitir sejam os quatro acusados representados pelo mesmo órgão da Defensoria Pública do Estado do Rio Grande do Sul" (fl. 5).
+Destaca que, "na espécie, ainda que confesso acerca da conduta acessória, houve entre os acusados defendidos pelo mesmo órgão da Defensoria Pública apresentação de tese única que, em verdade, é conflitante para com a responsabilidade definida em favor dos corréus, vez que a versão do ora paciente imputa apenas aos demais envolvidos a prática dos verbo nuclear determinante à incidência do tipo, tanto é que sua conduta se deu após consumada a infração delitiva" (fl. 5).
+Aduz há "efetivo prejuízo em razão da colidência, vez que evidentemente a defesa não se deu de forma a atender todas as perspectivas passíveis de alegação, tanto é que sequer postulado o reconhecimento da atenuante da confissão espontânea" (fl. 5).
+Ao final, requer, seja cassado o acórdão impugnado "face a nulidade decorrente da colidência surgida quando do interrogatório do acusado, com a consequente determinação de refazimento dos atos por ela viciados" (fl. 6). Subsidiariamente, pugna pelo reconhecimento da atenuante da confissão espontânea.
+As informações foram prestadas (fls. 542/544 e 545/612).
+O Ministério Público Federal opina pelo não conhecimento do habeas corpus.
+É o relatório.
+Decido.
+Conforme bem ressaltado pelo parecer do Ministério Público Federal, o acórdão tido como coator não decidiu as questões referentes à existência de nulidade absoluta, trazida sob a alegação de que os corréus foram representados pelo mesmo defensor, apesar de que haveria colidência de teses defensivas, a partir do interrogatório, bem assim de ser cabível a aplicação da atenuante da confissão espontânea. Os temas sequer chegaram a ser suscitados na apelação interposta pela defesa, conforme se infere das leitura das razões do aludido recurso, nas quais foram alegadas tão somente as teses de insuficiência probatória, de atipicidade da conduta pelo princípio da insignificância, de reconhecimento da tentativa e de ser incabível a aplicação da pena de multa (fls. 395-402).
+Nesse contexto, não há como conhecer dos temas, sob pena de supressão de instância, em face da flagrante incompetência, a teor do disposto no art. 105, inciso I, alínea "c", e inciso II, alínea "a", da Constituição da República.
+Confira-se o entendimento jurisprudencial:
+A questão relativa à alegada nulidade da intimação da sentença penal condenatória, a qual se deu em nome de advogada que não mais atuava no processo, não foi objeto de análise pelo Tribunal de origem, razão pela qual não pode ser examinada por esta Corte, sob pena de indevida supressão de instância.
+(RHC 81.932/PA, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 24/05/2018, DJe 30/05/2018)
+Inviável a apreciação de matéria não discutida pelas instâncias ordinárias diretamente por este Tribunal Superior, sob pena de indevida supressão de instância.
+(AgRg no HC 441.449/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/06/2018, DJe 11/06/2018)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intime-se.
