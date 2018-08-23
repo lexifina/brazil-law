@@ -1,0 +1,35 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. PLANO DE GERENCIAMENTO DE RESÍDUOS DA CONSTRUÇÃO CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE UM DOS FUNDAMENTOS ADOTADOS PELA DECISÃO AGRAVADA. SÚMULA 182/STJ. INCIDÊNCIA PARCIAL. ART. 15 DA LC 101/2000. FALTA DE PREQUESTIONAMENTO. SÚMULA 282/STF.
+1. Inviável a apreciação do agravo interno que deixa de atacar especificamente, um dos fundamentos da decisão agravada referente à aplicação da Súmulas 211/STJ, incidindo, quanto ao ponto, a Súmula 182/STJ.
+2. A matéria pertinente ao art. 15 da Lei Complementar n. 101/2000 não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+3. Agravo interno parcialmente conhecido e, nessa parte, desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, conhecer parcialmente do agravo interno e, nessa parte, negar-lhe provimento, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto pelo Município de Caraguatatuba, desafiando decisão que negou provimento ao agravo em recurso especial, sob os fundamentos de que: (I) verifica-se a ausência de interesse recursal quanto à tese de que é necessária a intimação pessoal, porquanto o acórdão do Tribunal de origem assim determinou; (II) em recurso especial, não cabe invocar ofensa a dispositivo da Constituição Federal; (III) incide a Súmula 282/STF por falta de prequestionamento do art. 15 da Lei Complementar n. 101/2000; (IV) aplica-se a Súmula 211/STJ, tendo em vista que a matéria pertinente aos arts. 730 e 731 do CPC/73 não foi apreciada pela Corte de origem, apesar de instada a fazê-lo, e não houve alegação de ofensa ao art. 535 do CPC/73.
+Inconformada, a parte agravante sustenta que: (I) houve o enfrentamento, pela Corte a quo, do art. 15 da Lei Complementar n. 101/2000; e (II) deve ser afastado o óbice da Súmula 211/STJ, porquanto, "Desnecessária a expressa menção aos dispositivos se a mera leitura do Acórdão recorrido permite verificar sua violação" (fl. 1447).
+Requer a reconsideração da decisão agravada ou a submissão do feito ao julgamento colegiado.
+A parte agravada apresentou impugnação (fls. 1454/1460), na qual requer o desprovimento do agravo interno.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Inicialmente, cumpre observar que o agravo interno deve ser conhecido apenas parcialmente, tendo em vista que a parte agravante deixou de rebater, de modo específico, a aplicação da Súmula 211/STJ.
+No caso dos autos, a parte agravante afirma que é "Desnecessária a expressa menção aos dispositivos se a mera leitura do Acórdão recorrido permite verificar sua violação" (fl. 1447). Contudo, não apontou em que trecho da fundamentação adotada pela Corte a quo a matéria pertinente aos arts. 730 e 731 do CPC/73 teria sido abordada.
+Assim, a parte agravante deixou de rebater, de modo específico, o fundamento adotado pela decisão agravada, referente à aplicação da Súmulas 211/STJ, o que também atrai a incidência da Súmula 182 desta Corte ("É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida"). Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. EXAME DE MÉRITO DO RECURSO ESPECIAL PELA CORTE DE ORIGEM. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Para viabilizar o prosseguimento do agravo, a irresignação recursal há de ser completa, especifica e objetiva. Não basta a impugnação genérica (Súmula 182/STJ).
+ ..
+3. Agravo regimental desprovido.
+(AgRg no AREsp 621.634/SP, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), PRIMEIRA TURMA, DJe 26/10/2015)
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC) - AÇÃO DE INDENIZAÇÃO - ACIDENTE DE VEÍCULO - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO COM BASE NA SÚMULA 182/STJ E APLICOU MULTA DE 1% SOBRE O VALOR DA CAUSA, FICANDO A INTERPOSIÇÃO DE QUALQUER OUTRO RECURSO CONDICIONADA AO RECOLHIMENTO DO RESPECTIVO VALOR. INSURGÊNCIA DO AUTOR.
+1. Razões do agravo que não impugnaram especificamente os fundamentos invocados na decisão de inadmissão do recurso especial. Em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão agravada. Correta aplicação analógica da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. De acordo com a jurisprudência desta Corte, mesmo que o recorrente seja beneficiário da justiça gratuita, é indispensável o recolhimento da multa em questão, pois "o benefício da assistência judiciária não tem o condão de tornar o assistido infenso às penalidades processuais legais por atos de procrastinação ou litigância de má-fé por ele praticados no curso da lide." (EDcl no AgRg no Resp 1.113.799/RS).
+Portanto, caracterizada uma das hipóteses previstas no caput do art. 557 do CPC, autorizado estará o relator, desde logo, a aplicar multa sancionatória e, consequentemente, condicionar a interposição de qualquer outro recurso ao depósito do respectivo valor.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 239.360/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 1º/2/2016)
+Quanto à ausência de prequestionamento do art. 15 da Lei Complementar n. 101/2000, o Município agravante aponta trecho do voto condutor do acórdão em que a matéria teria sido enfrentada. Eis o excerto do voto apontado pelo agravante (fl. 1240):
+ Arguir com a complexidade da questão, ou mesmo com dificuldades financeiras, é admitir a incompetência que reclama intervenção de poder mais capaz. Por sinal que essa tem sido a praxe em questões tormentosas. Sob a alegação do nemo impossibilia nemo tenetur, permite-se que as coisas continuem no crescente estado de degradação. Com certa conivência involuntária da Justiça, premida em seu comedimento, com sua reserva imprópria para vencer os desafios postos por uma sociedade cada dia mais complexa e a confundir a inércia processual com a inércia da soberania estatal.
+Por sua vez, o dispositivo em comento tem a seguinte redação:
+Art. 15. Serão consideradas não autorizadas, irregulares e lesivas ao patrimônio público a geração de despesa ou assunção de obrigação que não atendam o disposto nos arts. 16 e 17.
+Deste modo, diversamente do que sustenta a parte agravante, a fundamentação adotada pela Corte de origem não traz qualquer juízo de valor acerca do art. 15 da Lei Complementar n. 101/2000, pelo que há de ser mantido o óbice da Súmula 282/STF.
+Ante o exposto, conhece-se, em parte, do agravo interno e, nessa extensão, nega-se-lhe provimento.
+É o voto.
