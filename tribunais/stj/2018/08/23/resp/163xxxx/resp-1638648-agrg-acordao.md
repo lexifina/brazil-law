@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. OMISSÃO DE LANÇAMENTO DE OPERAÇÕES DE MERCADORIAS TRIBUTADAS. ICMS. INÉPCIA DA DENÚNCIA. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVAÇÃO. COTEJO ANALÍTICO. NECESSIDADE. AUSÊNCIA DE DISSÍDIO COM BASE EM PARADIGMA ORIUNDO DO JULGAMENTO DE HABEAS CORPUS.
+1. Para a comprovação da divergência jurisprudencial, não basta a simples transcrição da ementa ou voto do acórdão paradigma; faz-se necessário o cotejo analítico entre o aresto recorrido e o divergente, com a demonstração da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional, o que não ocorreu na espécie.
+2. Não tendo sido demonstrada a divergência nos termos em que exigido pela legislação processual de regência (art. 1.029, § 1º, do NCPC, c/c art. 255 do RISTJ), não pode ser conhecido o recurso especial interposto com fundamento na alínea "c" do permissivo constitucional.
+3. Este Sodalício tem entendido pela impossibilidade da configuração de dissídio jurisprudencial entre acórdãos proferidos em ações originárias e arestos oriundos de demandas com natureza de garantia constitucional, tais como o habeas corpus.
+4. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JORGE MUSSI (Relator): Trata-se de regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE PERNAMBUCO contra a decisão unipessoal de fls. 209/211 (e-STJ) que não conheceu do recurso especial da acusação.
+Alega o agravante que o Regimento Interno desta Corte Superior não limita o tipo de acórdão que deve ser trazido para confrontar a decisão impugnada com o posicionamento deste Tribunal, tratando-se de mera interpretação a exigência de que os precedentes apresentados como paradígmas não sejam proferidos em habeas corpus.
+Pondera, ainda, que a acusação não se limitou a transcrever as ementas dos acórdão divergentes, uma vez que descreveu a identidade dos fatos e a solução jurídica.
+Requer, ao final, a reconsideração do decisum ou a submissão do pleito ao Colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JORGE MUSSI (Relator): Os elementos existentes nos autos indicam que a agravada, RAFAELA TORRES DE LUCENA, foi denunciada pela prática do crime contra ordem tributária, na modalidade omitir o lançamento de operações de mercadorias tributadas nos Livros de Registro de Saída e Apuração do ICMS, causando prejuízos ao fisco do Estado de Pernambuco no valor total de R$332.709,53 (trezentos e trinta e dois reais, setecentos e nove reais e cinquenta e três centavos), incurso no artigo 1º, incisos I e II, da Lei n. 8.137/90. (e-STJ, fls. 21/22)
+Impetrado habeas corpus em seu favor, o Tribunal de origem concedeu a ordem para determinar o trancamento da ação penal n. 0007315-11.2013.8.17.1090. (e-STJ, fl. 118)
+Nas razões do presente apelo nobre (e-STJ, fls. 143/156), o Parquet alegou divergência jurisprudencial com julgado deste Sodalício, acerca da interpretação da norma do artigo 395, incisos I e III do Estatuto Processual Penal, sustentando que a denúncia não é inepta, uma vez que a peça vestibular narrou os fatos, imputando a prática de crime de sonegação fiscal, em tese, aos administradores de direito e de fato da pessoa jurídica, os quais teriam a responsabilidade pelo pagamento dos tributos.
+Requereu, ao final, o provimento do recurso especial para continuidade da persecução penal.
+Contrarrazoada a insurgência (e-STJ, fls. 178/186), após o juízo prévio de admissibilidade (e-STJ, fl. 189), os autos ascenderam a este Superior Tribunal de Justiça.
+Instado a se manifestar, o Ministério Público Federal opinou pelo provimento do inconformismo (fls. 202 a 207).
+Por decisão monocrática desta Relatoria, não se conheceu do recurso especial.
+Daí a apresentação deste regimental pela defesa.
+A irresignação, porém, não merece prosperar.
+Conforme consignado na decisão agravada, constata-se a impossibilidade de conhecimento do reclamo fulcrado na alínea "c" do permissivo constitucional, haja vista não ter sido demonstrado o dissídio jurisprudencial nos termos em que exigido pela legislação processual de regência (art. 1.029, § 1º, do CPC, c/c art. 255, § 1º, do RISTJ).
+Note-se que os julgados apontados como paradigmas foram proferidos em habeas corpus, cabendo ressaltar que a jurisprudência deste Sodalício tem entendimento assente no sentido de que "o acórdão proferido em habeas corpus, por não guardar o mesmo objeto/natureza e a mesma extensão material almejados no recurso especial, não serve para fins de comprovação de divergência jurisprudencial, ainda que se trate de dissídio notório" (AgRg no REsp 1328012/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 03/08/2017, DJe 14/08/2017).
+Ademais, verifica-se que o recorrente limitou-se a citar a ementa e/ou trechos das decisões. Todavia, para a comprovação da divergência, não basta a simples transcrição da ementa ou voto do acórdão paradigma; faz-se necessário o cotejo analítico entre o aresto recorrido e o divergente, com a demonstração da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional, o que não ocorreu na espécie.
+No mesmo sentido, vejam-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APROPRIAÇÃO INDÉBITA. RECURSO INTERPOSTO COM FUNDAMENTO NA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. DIVERGÊNCIA NÃO DEMONSTRADA. ACÓRDÃO PARADIGMA ORIUNDO DE JULGADO PROFERIDO EM HABEAS CORPUS. INADMISSIBILIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA.
+I - O recurso especial interposto com fulcro no art. 105, inciso III, alínea c, da Constituição Federal exige a demonstração do dissídio jurisprudencial, por meio da realização do indispensável cotejo analítico, para demonstrar a similitude fática entre o v. acórdão recorrido e o eventual paradigma (arts. 1.029, § 1º, do Código de Processo Civil e 255, § 1º, do Regimento Interno do STJ).
+II - Não se admite a utilização de acórdãos oriundos de julgados proferidos em habeas corpus, mandados de segurança e conflitos de competência como paradigma para configuração da divergência (precedentes).  ..
+Agravo regimental desprovido.
+(AgRg no AREsp 706.207/PE, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 27/06/2017, DJe 01/08/2017)
+RECURSO ESPECIAL DO MINISTÉRIO PÚBLICO FEDERAL E AGRAVO EM RECURSO ESPECIAL DO RÉU. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. DISSÍDIO PRETORIANO. COTEJO ANALÍTICO. NÃO OCORRÊNCIA. SÚMULAS N. 282 E 356, AMBAS DO STF. RECURSO ESPECIAL DO MINISTÉRIO PÚBLICO FEDERAL NÃO CONHECIDO E AGRAVO DO RÉU CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.  ..
+5. Conforme disposição dos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ, quando o recurso interposto estiver fundado em dissídio pretoriano, deve a parte colacionar aos autos cópia dos acórdãos em que se fundamenta a divergência, bem como realizar o devido cotejo analítico, demonstrando de forma clara e objetiva suposta incompatibilidade de entendimentos e similitude fática entre as demandas, o que não ocorreu na hipótese. Dessa forma, torna-se inviável conhecer do recurso pela alínea "c" do art. 105, III, da Constituição Federal.  ..
+12. Recurso especial do Ministério Público Federal não conhecido e agravo do réu conhecido a fim de não conhecer do recurso especial, com determinação de envio de cópia dos autos ao Juízo da condenação para imediata execução da pena imposta, salvo se o recorrido já cumpriu a reprimenda.
+(REsp 1557261/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 27/06/2017, DJe 01/08/2017)
+Assim, uma vez que a divergência não foi demonstrada nos termos em que exigido pela legislação processual de regência (art. 541 do CPC, c/c art. 255 do RISTJ), não se conhece do recurso interposto com fundamento na alínea "c" do permissivo constitucional.
+Por essas razões, nega-se provimento ao agravo regimental.
+É como voto.
