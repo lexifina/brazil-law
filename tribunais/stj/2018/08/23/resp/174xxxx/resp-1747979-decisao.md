@@ -1,0 +1,46 @@
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO NA VIGÊNCIA DO NCPC. AÇÃO REVISIONAL. CONTRATO BANCÁRIO. CAPITALIZAÇÃO DE JUROS. ALEGADA EXISTÊNCIA DE PRESSUPOSTOS LEGAIS A SEREM PREENCHIDOS. FALTA DE INDICAÇÃO DE DISPOSITIVO LEGAL TIDO POR VIOLADO. SÚMULA 284 DO STF. ALEGADO DISSÍDIO JURISPRUDENCIAL. FALTA DE COTEJO DO ACÓRDÃO TIDO POR DIVERGENTE COM O ARESTO RECORRIDO. NEGATIVA DE CARACTERIZAÇÃO DO DISSENSO PRETORIANO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+EDILSON MOREIRA DE OLIVEIRA (EDILSON) ajuizou ação declaratória de revisão de contrato em desfavor de BANCO SANTANDER (BRASIL) S/A (BANCO), cujos pedidos foram julgados improcedentes ao fundamento de que os juros, taxas e demais encargos bancários não são abusivos (e-STJ, fls. 137/144).
+Irresignado, EDILSON interpôs apelação, que foi improvida pelo Tribunal de origem em acórdão assim ementado:
+APELAÇÃO - Ação revisional - Contrato de crédito em conta corrente - Capitalização - Inexistência nos contratos de conta corrente - Artigo 354 do Código Civil - Sentença mantida - Recurso desprovido. (e-STJ, fl. 183).
+Inconformado, EDILSON interpôs recurso especial com fundamento nas alíneas a e c do permissivo constitucional, apontando a violação das Medidas Provisórias 1.963-17/2000 e 2.170-36/2001, por reputar que a capitalização de juros em período inferior a um ano só passou a ser admitida a partir da edição dos referidos diplomas legislativos e desde que expressamente prevista no contrato entabulado entre as partes. Também indicou dissídio jurisprudencial, tendo por paradigma precedente desta Corte Superior.
+Em juízo de admissibilidade, a Presidência da Seção de direito privado do Tribunal estadual admitiu o apelo nobre (e-STJ, fls. 208/210).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+De plano, vale pontuar que o presente recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+No que se refere à alegação do recorrente de que a capitalização de juros em período inferior a um ano só passou a ser admitida a partir da edição dos referidos diplomas legislativos e desde que expressamente prevista no contrato entabulado entre as partes, a interpretação que se extrai das razões recursais é que a parte se limitou a sustentar a violação das Medidas Provisórias 1.963-17/2000 e 2.170-36/2001, não tendo indicado qualquer dispositivo legal tido por vulnerado.
+Ressalta-se que o mero inconformismo sem apontar o dispositivo do ordenamento considerado afrontado e sem especificar de que modo teria concretamente ocorrido a vulneração de normativo federal não supre a exigência de fundamentação adequada do recurso especial, incidindo, por analogia, o óbice da Súmula 284/STF, que dispõe: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+A propósito, vejam-se os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECI2L. BRASIL TELECOM. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO AOS ARTS. 170, §1º, DA LEI Nº 6.404/76, 467 E 471 DO CPC DE 1973. SÚMULA 284 DO STF. SÚMULA 371 DO STJ. VALOR PATRIMONIAL DA AÇÃO. INVIABILIDADE DE VIOLAÇÃO DE SÚMULA DE TRIBUNAL SUPERIOR E FALTA DE PREQUESTIONAMENTO. VALOR CORRETO DA COTAÇÃO DA AÇÃO. SÚMULA 7 DO STJ. RENDIMENTOS DOS DIVIDENDOS. SÚMULA 284 DO STF.
+1. Em relação à alegada ofensa aos arts. 170, §1º, da Lei nº 6.404/76, 467 e 471 do CPC/73, não se vislumbra a aduzida violação por falta de articulação de argumentos jurídicos a embasar tal assertiva, caracterizando deficiência de fundamentação. Incidência da Súmula 284 do STF.
+2. "Incabível a análise de recurso especial, por quaisquer das alíneas do permissivo constitucional, que tenha por fundamento violação de enunciado ou súmula de Tribunal Superior". (AgRg no AREsp 462.700/MG, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/05/2014, DJe 05/06/2014).
+3. A matéria referente ao critério do balancete mensal para a apuração do valor patrimonial da ação não foi apreciada pelo Tribunal de origem, carecendo do indispensável prequestionamento.
+4. O acolhimento da pretensão recursal acerca do correto valor da cotação da ação demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+5. No tocante ao tema dos rendimentos dos dividendos, a ausência de indicação de dispositivo de lei federal tido por violado caracteriza a deficiência de fundamentação a inviabilizar a abertura da instância especial. Aplicação da Súmula 284/STF.
+6. Agravo interno não provido.
+(AgInt no AREsp 802.042/RS, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 29/8/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO DO ACÓRDÃO. ADOÇÃO DOS FUNDAMENTOS DA SENTENÇA. POSSIBILIDADE. DANOS MATERIAIS E MORAIS. REEXAME DE PROVAS.SÚMULA Nº 7/STJ. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF.
+1. Esta Corte já se posicionou no sentido de não ser desprovido de fundamento o julgado que ratifica as razões de decidir adotadas na sentença, transcritas no corpo do acórdão.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Rever as conclusões do acórdão recorrido acerca da ocorrência dos danos materiais e morais demandaria o reexame de matéria fático- probatória, o que é vedado em recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça.
+4. É inadmissível o inconformismo por deficiência na sua fundamentação quando o recurso especial deixa de indicar de modo preciso como teria ocorrido a violação legal. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+5. Agravo regimental não provido.
+(AgRg no AREsp 473.327/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 20/6/2016)
+Ademais, o dissídio jurisprudencial viabilizador do recurso não foi demonstrado no particular (art. 105, III, c, da CF).
+Com efeito, além de indicar o dispositivo legal interpretado de forma divergente e transcrever os julgados apontados como paradigmas, é necessário realizar o cotejo analítico, com a demonstração da identidade das situações fáticas e da interpretação diversa dada ao mesmo dispositivo.
+No caso em exame, o recorrente se limitou a declinar genericamente os argumentos que supostamente dariam respaldo à sua pretensão e fazer menção a acórdão porventura divergente, sem efetuar o indispensável cotejo com o aresto paradigma e apontar os elementos que caracterizem a similitude fática entre eles.
+Assim, o dissenso pretoriano não pode ser conhecido, porquanto não atende aos requisitos dos arts. 541, caput, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. PARTILHA SOBRE IMÓVEL DE PROPRIEDADE DO PAI DE EX-CONVIVENTE. FALTA DE PREQUESTIONAMENTO. SÚMULAS 252 E 356 DO STF. AUSÊNCIA DE COMPROVAÇÃO DO DISSÍDIO JURISPRUDENCIAL APONTADO. SÚMULA 13/STJ. AGRAVO IMPROVIDO.
+1. Se o conteúdo normativo contido nos dispositivos apresentados como violados não foi objeto de debate pelo Tribunal de origem, evidencia-se a ausência do prequestionamento, pressuposto específico do recurso especial. Incidem, na espécie, os rigores das Súmulas n.
+282 e 356 do STF.
+2. O dissídio jurisprudencial não pode ser conhecido, porque não foi realizado o necessário cotejo analítico entre os julgados trazidos a confronto. A mera transcrição de ementas ou de passagens dos arestos indicados como paradigma não atende aos requisitos dos arts. 541, caput, do CPC e 255, §§ 1º e 2º, do RISTJ.
+3. A divergência jurisprudencial não pode ser conhecida quando os paradigmas apresentados forem oriundos do mesmo Tribunal que proferiu o acórdão recorrido, uma vez que aplicável o disposto na Súmula n. 13 desta Corte, segundo a qual "a divergência entre julgados do mesmo Tribunal não enseja recurso especial".
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1082508/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, j. 22/08/2017, DJe 04/09/2017)
+Nessas condições, NÃO CONHEÇO do recurso especial.
+MAJORO os honorários advocatícios anteriormente fixados em R$ 1.500,00 (mil e quinhentos reais) para R$ 1.575,00 (mil quinhentos e setenta e cinco reais), nos termos do art. 85, § 11 do NCPC, observada a eventual concessão da gratuidade da justiça. Ressalte-se não ser aplicável, no caso, o limite previsto no § 2º do mesmo artigo, porque a verba honorária foi estipulada com base na equidade.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
