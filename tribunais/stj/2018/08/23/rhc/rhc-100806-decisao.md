@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME], em face de v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o recorrente foi preso preventivamente pela prática, em tese, do delito de tráfico de drogas, desde 22/09/2017.
+Irresignada, a defesa impetrou habeas corpus junto ao eg. Tribunal a quo, com vistas ao relaxamento da prisão preventiva. A ordem, por seu turno, foi denegada, em v. acórdão às fls. 314-316.
+Daí o presente recurso ordinário, no qual requer o recorrente o relaxamento da prisão preventiva, eis que "no caso em apreço, já se passaram 241 dias da prisão preventiva do paciente sem se findar o processo!" (fl. 322).
+A liminar foi indeferida às fls. 350-351.
+O Ministério Público Federal, em parecer de fls. 356-359, manifestou-se pela prejudicialidade do recurso, em parecer assim ementado, verbis:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. SUPERVENIÊNCIA DE SENTENÇA PENAL CONDENATÓRIA. PERDA DO OBJETO. NOVO TÍTULO. FALTA DE INTERESSE RECURSAL. RECURSO PREJUDICADO.
+- Há de ser julgado prejudicado o recurso sob exame, por não mais subsistir seu objeto, tendo em vista que o Juízo primevo proferiu sentença penal condenatória, de forma superveniente à presente interposição, constituindo, o decreto condenatório, novo título a justificar a segregação, ficando vedada, portanto, a manifestação dessa Corte sobre a matéria não levada ao conhecimento do Tribunal de origem, sob pena de configurar indevida supressão de instância.
+- Parecer pela prejudicialidade do recurso ordinário".
+É o relatório.
+Decido.
+Pretende o recorrente, em síntese, por meio do presente recurso ordinário em habeas corpus, o reconhecimento da existência de constrangimento ilegal ante a alegação de excesso de prazo para a formação da culpa.
+Contudo, da análise dos autos, verifico que o presente recurso não merece provimento.
+Isto porque informações colhidas nos autos indicam que os trâmites processuais se desenvolvem de acordo com a razoabilidade temporal que o processo exige.
+Inicialmente, acerca do tema insta consignar que a prisão cautelar deve ser considerada exceção, já que, por meio desta medida, priva-se o réu de seu jus libertatis antes do pronunciamento condenatório definitivo, consubstanciado na sentença transitada em julgado. É por isso que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+Nesse sentido é a sedimentada jurisprudência desta Corte Superior: AgRg no RHC n. 47.220/MG, Quinta Turma, Relª. Minª. Regina Helena Costa, DJe de 29/8/2014;  RHC n. 36.642/RJ, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 29/8/2014; HC n. 296.276/MG, Quinta Turma, Rel. Min. Marco Aurélio Bellizze, DJe de 27/8/2014; RHC n. 48.014/MG, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 26/8/2014.
+Ressalta-se que os prazos processuais não possuem características de fatalidade e de improrrogabilidade, não se ponderando mera soma aritmética de tempo para os atos processuais. A propósito, esta Corte Superior firmou jurisprudência no sentido de se considerar o juízo de razoabilidade para eventual constatação de constrangimento ilegal ao direito de locomoção decorrente de excesso de prazo.
+No caso em tela, consoante o parecer ministerial, às fls. 356-359, verifica-se que "em consulta ao sítio eletrônico do Tribunal de Justiça do Estado de São Paulo, verifica-se a superveniência de sentença condenatória em desfavor do ora recorrente nos autos do Processo nº 0001312- 42.2017.8.26.0187, proferida em 17/07/2018, condenando-o pela prática do delito previsto no art. 33, caput, da Lei nº 11.343/06, às penas de 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado, e pagamento de 680 dias-multa, vedado o direito de recorrer em liberdade".
+Dessarte, a instrução criminal já se encerrou. Assim sendo, consoante o disposto no Enunciado da Súmula n. 52/STJ, "encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo", não havendo que se falar em constrangimento ilegal por excesso de prazo na formação da culpa. No mesmo sentido, já decidiu esta Corte de Justiça, em casos semelhantes:
+"PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADEQUAÇÃO. TENTATIVA DE HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. EXCESSO DE PRAZO. SUPRESSÃO DE INSTÂNCIA. INSTRUÇÃO ENCERRADA. APLICAÇÃO DA SÚMULA 52/STJ. NEGATIVA DE AUTORIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. Quanto ao aventado excesso de prazo, verifica-se que a questão não foi objeto de análise e julgamento pelo Tribunal de origem, o que impede sua apreciação por esta Corte, sob pena de indevida supressão de instância.
+4. Ademais, a instrução criminal já foi encerrada e os autos encontrando-se com vista às partes para apresentação de memoriais, atraindo a incidência da Súmula 52 do STJ, que dispõe: "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo."
+ ..
+6. Habeas corpus não conhecido" (HC n. 293.107/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 2/2/2016).
+"PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO E OCULTAÇÃO DE CADÁVER. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO PRISIONAL. PERICULOSIDADE. MODUS OPERANDI. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. ALEGADO EXCESSO DE PRAZO DA INSTRUÇÃO. SÚMULA 52/STJ. INOCORRÊNCIA. COMPLEXIDADE DO FEITO. RAZOABILIDADE. MEDIDAS CAUTELARES. INAPLICABILIDADE. RECURSO ORDINÁRIO DESPROVIDO.
+ ..
+IV - O prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade, não se ponderando a mera soma aritmética dos prazos para a realização dos atos processuais (precedentes do STF e do STJ).
+V - A instrução criminal foi encerrada, consoante informações do d. Juízo processante, razão pela qual fica superada a alegação de excesso de prazo para a instrução criminal, nos termos do Enunciado n. 52, da Súmula/STJ.
+VI - Ademais, malgrado o atraso na instrução criminal, ele se justifica notadamente pelas peculiaridades da causa, como a complexidade do feito, razão pela qual não se vislumbra, na hipótese e por ora, o alegado constrangimento ilegal consubstanciado no excesso de prazo.
+Recurso ordinário desprovido" (RHC n. 58.140/GO, Quinta Turma, de minha relatoria, DJe de 30/9/2015).
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+P. e I.
