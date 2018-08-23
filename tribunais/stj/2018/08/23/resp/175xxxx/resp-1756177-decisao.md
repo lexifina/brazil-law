@@ -1,0 +1,40 @@
+EMENTA
+PENAL E PROCESSO PENAL. RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. MALFERIMENTO AOS ARTS. 33, §§ 2º, "B" E 3º, DO CP. PENA-BASE NO MÍNIMO LEGAL. FIXAÇÃO DE REGIME FECHADO. FUNDAMENTAÇÃO IDÔNEA. CIRCUNSTÂNCIAS CONCRETAS QUE JUSTIFICAM. POSSIBILIDADE. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 568/STJ. RECURSO ESPECIAL DESPROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, ementado verbis:
+"ROUBO MAJORADO. Materialidade e autoria demonstradas. Declarações da vítima e depoimentos dos policiais militares em harmonia com o conjunto probatório. Negativa do réu isolada. Crime praticado em concurso de agentes - Condenação mantida. PENAS E REGIME DE CUMPRIMENTO - Bases nos mínimos. Atenuante da menoridade. Inócua. Súmula nº 231 do STJ. Uma causa de aumento. Elevação na fração mínima de 1/3 - Regime inicial fechado. Necessidade - Apelo desprovido" (fl. 311).
+Em seu recurso especial, às fls. 324/333, sustenta o recorrente violação ao artigo 33, §§ 2º, alínea "b" e 3º, do Código Penal, alegando que "se todas as circunstâncias judiciais do art. 59 do Código Penal foram favoravelmente apreciadas, e se outras circunstâncias não se fazem presentes no caso que não as elementares do delito em questão, não há como se fundamentar juridicamente regime diverso daquele programado pelo legislador para o quantum de pena aplicada, nos termos do art. 33, § 2º, b, do Código Penal".
+Ademais, salienta que "a gravidade em abstrato do delito de roubo não pode repercutir negativamente na escolha do regime inicial de cumprimento de pena".
+Requer, assim, seja fixado o regime semiaberto para o inicial cumprimento da pena.
+O recurso especial foi admitido à fl. 345.
+O Ministério Público Federal, às fls. 357/358, manifestou-se pelo provimento do recurso especial.
+É o relatório.
+A insurgência não merece prosperar.
+Com efeito, em relação à alegada afronta ao artigo 33, §§ 2º, alínea "b" e 3º, do Código Penal, no que se refere ao pleito de modificação do regime inicial de cumprimento de pena, observa-se que não prospera a irresignação da recorrente. Isso porque, é assente neste STJ que "a estipulação do regime de cumprimento da pena não está atrelado, em caráter absoluto, à pena-base. O fato de esta ser colocada no mínimo legal não torna obrigatória a fixação de regime menos severo, desde que, por meio de elementos extraídos da conduta delitiva, seja demonstrada a gravidade concreta do crime, de forma a autorizar a imposição de regime mais rigoroso do que aquele permitido pelo quantum da reprimenda" (HC 262.939/SP, Rel. Min. SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 25/04/2014).
+Quanto ao regime inicial de cumprimento de pena, assim manifestou-se o acórdão recorrido (fls. 315/316):
+"O regime inicial fechado deve ser mantido, pois, diante da ousadia demonstrada, visto que o apelante, com o auxílio de comparsa, valendo-se da superioridade física e aproveitando-se do gênero da vítima - mulher - em total desprezo para com a liberdade individual, surpreendeu F.P.M.V., em plena via pública, além de ter empregado força física (violência) para intimidá-la, incompatibilizado e desautorizado o estabelecimento de regime prisional mais brando (artigo 59, III; c.c. artigo 33, § 3o, do Código Penal)".
+Da análise da fundamentação acima exposta, verifica-se que a fundamentação utilizada pelo Tribunal a quo para a fixação do regime inicial de cumprimento da pena não destoa do entendimento deste sodalício, vez que não obstante o quantum de pena fixado em 5 anos e 4 meses de reclusão, com a pena-base tendo sido estabelecida no mínimo legal, resta demonstrada a existência de circunstâncias idôneas, com base em elementos concretos dos autos, que justificam a imposição de regime inicial mais rigoroso, notadamente o modus operandi do delito - o recorrente abordou a vítima em via pública e empregou contra ela força física a fim de intimidá-la -, fatos que revelam a sua maior periculosidade.
+Desse modo, estando devidamente fundamentado, não há que se proceder qualquer alteração no regime inicial de cumprimento de pena imposto ao recorrente. Neste sentido, pacífica a jurisprudência deste Sodalício, conforme se dessume, a título de exemplo, dos seguintes julgados deste Tribunal Superior, verbis:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO. DESCABIMENTO. ROUBO. DOSIMETRIA. ART. 65, III, "D", DO CÓDIGO PENAL - CP. ATENUANTE. CONFISSÃO PARCIAL NÃO UTILIZADA. REGIME PRISIONAL FECHADO. VIOLÊNCIA EXTREMADA. OUSADIA. PERICULOSIDADE. GRAVIDADE CONCRETA. MAIOR REPROVABILIDADE NA CONDUTA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+2. A confissão parcial dos fatos não foi utilizada para a formação do convencimento da Magistrada, a qual se valeu nos demais elementos probatórios colhidos nos autos. Dessa forma, não há falar em aplicação da referida atenuante.
+3. A fixação de regime mais gravoso do que o imposto em razão da pena deve ser feita com base em fundamentação concreta, a partir das circunstâncias judiciais dispostas no art. 59 do Código Penal - CP ou de outro dado que demonstre a extrapolação da normalidade do tipo.
+In casu, o paciente abordou as vítimas em plena via pública, com extrema violência, socando a face de uma delas. Esses elementos, em conjunto, demonstram maior ousadia e elevada periculosidade, justificando, a aplicação do regime fechado.
+Habeas corpus não conhecido".
+(HC 446.035/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 05/06/2018, DJe 15/06/2018)
+"HABEAS CORPUS. WRIT SUBSTITUTIVO. ROUBO CIRCUNSTANCIADO. CONFISSÃO ESPONTÂNEA. ATENUANTE CONFIGURADA. COMPENSAÇÃO COM A REINCIDÊNCIA. POSSIBILIDADE. TERCEIRA ETAPA DA DOSIMETRIA. MAJORAÇÃO ACIMA DO MÍNIMO LEGAL. MOTIVAÇÃO IDÔNEA. REGIME INICIAL MENOS GRAVOSO. IMPOSSIBILIDADE. ORDEM CONCEDIDA DE OFÍCIO.
+(..)
+7. Não há ilegalidade no estabelecimento do regime inicial fechado quando apontados dados fáticos suficientes a indicar a gravidade concreta do crime, em especial o modus operandi adotado pelos agentes.
+8. Habeas corpus não conhecido. Ordem concedida, de ofício, para reconhecer a atenuante da confissão espontânea, em relação ao primeiro paciente, a ser compensada com a agravante da reincidência, readequando a reprimenda a ele imposta".
+(HC 355.341/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 14/06/2016, DJe 23/06/2016)
+Ademais, não é outro o entendimento do Supremo Tribunal Federal:
+"Habeas corpus.
+2. Crime contra o patrimônio. Roubo. Condenação. Pena de 5 anos e 8 meses de reclusão e regime inicial fechado.
+3. Pedido de fixação de regime semiaberto. Impossibilidade. A imposição de regime inicial fechado para cumprimento de pena fundamentou-se em fato concreto, tendo em vista as peculiaridades das circunstâncias que cercaram a prática da ação delituosa (delito praticado com o emprego de armas de fogo e em concurso de agentes). Precedentes.
+4. Ordem denegada".
+(HC 115534, Relator(a): Ministro. GILMAR MENDES, Segunda Turma, julgado em 18/06/2013, publicado em 01-07-2013 - grifei)
+Dessa forma, estando o acórdão recorrido em conformidade com a jurisprudência dominante desta Corte Superior de Justiça acerca do tema, deve ser negado provimento ao recurso especial, nos termos da Súmula 568 deste Sodalício, que assim dispõe:
+Súmula 568. O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Ante o exposto, com fundamento no artigo 932, IV, "a", do Código de Processo Civil em vigor (Lei nº 13.105/2015) c/c artigo 3º do Código de Processo Penal, e no artigo 34, XVIII, "b", parte final, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
+Intime-se.
