@@ -1,0 +1,24 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO AGRAVADA NÃO IMPUGNADO. SÚMULA 182/STJ.
+1. "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+EXMO. SR. MINISTRO SÉRGIO KUKINA(Relator): Trata-se de agravo interno interposto pelo MUNICÍPIO DE SANTO ANDRÉ contra decisão que negou provimento ao agravo em recurso especial com base nos seguintes fundamentos: (I) em recurso especial não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa ao art. 5º, LV, da Constituição Federal; (II) incidência das Súmulas 282 do STF e 7 do STJ e; (III) o acórdão recorrido decidiu em sintonia com a orientação jurisprudencial, segundo a qual, nas hipóteses de pedido de diferenças salariais decorrente da conversão em URV, inexistindo manifestação expressa da Administração Pública negando o direito reclamado, não ocorre a prescrição do chamado fundo de direito, mas tão-somente das parcelas anteriores ao qüinqüênio que precedeu à propositura da ação, ficando caracterizada relação de trato sucessivo (Súmula 85/STJ).
+Nas razões do agravo interno, a parte agravante sustenta, em síntese, que "ratificar o juízo negativo de admissibilidade do E. Tribunal a quo, exarado sem qualquer motivação, e não aceitar a oposição de embargos declaratórios, representaria manifesto venire contra factum proprium pelos órgãos jurisdicionais, inviabilizando o direito de contraditório e ampla defesa do Município, com os recursos a eles inerentes. De se apontar, ademais, que o Município abriu tópico próprio no qual demonstrou a desnecessidade de reexame das provas dos autos, afastando a incidência da Súmula nº 7 deste E. Superior Tribunal, não se sustentando a decisão que afirma que não houve impugnação específica dos fundamentos da decisão atacada." (fl. 254).
+É o relatório.
+VOTO
+EXMO. SR. MINISTRO SÉRGIO KUKINA(Relator): O inconformismo não pode ser acolhido.
+Como visto no breve relato, a decisão ora impugnada negou provimento ao agravo em recurso especial sob os seguintes fundamentos: (I) em recurso especial não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa ao art. 5º, LV, da Constituição Federal; (II) incidência das Súmulas 282 do STF e 7 do STJ e; (III) o acórdão recorrido decidiu em sintonia com a orientação jurisprudencial, segundo a qual, nas hipóteses de pedido de diferenças salariais decorrente da conversão em URV, inexistindo manifestação expressa da Administração Pública negando o direito reclamado, não ocorre a prescrição do chamado fundo de direito, mas tão-somente das parcelas anteriores ao qüinqüênio que precedeu à propositura da ação, ficando caracterizada relação de trato sucessivo (Súmula 85/STJ).
+Assim, observa-se que o ora agravante deixou de atacar todos os fundamentos da decisão recorrida, não se insurgindo, de modo específico, contra a apontada aplicação da Súmula 282/STF, bem como a assertiva de que não cabe recurso especial para alegar violação a norma constitucional e o acórdão recorrido decidiu em sintonia com a orientação jurisprudencial.
+Essa circunstância atrai a incidência, ao presente agravo interno, da Súmula 182/STJ, segundo o qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse sentido:
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. INCIDÊNCIA REITERADA DA SÚMULA 182/STJ.
+1. O agravo em recurso especial não foi conhecido,com fundamento, por analogia, na Súmula 182 do STJ.
+2. No presente agravo regimental, o agravante novamente não enfrenta a fundamentação da decisão recorrida. Com efeito, limita-se a reiterar as razões contidas no especial sem tecer qualquer comentário ao fundamento principal da decisão ora agravada, qual seja: o óbice da referida Súmula. Incidência reiterada da Súmula 182/STJ.
+3. A jurisprudência desta Corte é assente no sentido de que, para afastara incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada. O rebatimento deve ser específico e suficientemente fundamentado.
+Agravo regimental não conhecido.
+(AgRg no AREsp 280.504/MG, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 7/3/2013, DJe 18/3/2013 )
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
