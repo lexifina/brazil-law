@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão que não admitiu recurso especial ofertado de acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+"Vistos e relatados estes autos em que são partes as acima indicadas, decide a Egrégia Primeira Turma do Tribunal Regional Federal da 3ª Região, por unanimidade, afastar as preliminares; negar provimento ao recurso do MINISTÉRIO PÚBLICO FEDERAL; negar provimento ao recurso de RODRIGO ARAÚJO RAMOS, sendo que de ofício reduziu a multa; negar provimento ao recurso de MARCOS [NOME] DE ALMEIDA, sendo que de ofício reduziu a pena pecuniária substitutiva, destinando-a à União Federal; negar provimento ao recurso de ROBERTA RODRIGUES ROCHA, sendo que de ofício reduziu a multa e a pena pecuniária substitutiva, destinando-a à União Federal; e dar parcial provimento aos recursos de [NOME], FÁBIO [NOME] DE ALMEIDA, LEANDRO [NOME] [NOME] e [NOME] [NOME] para reduzir as multas e as penas pecuniárias substitutivas, destinando-as, de ofício, à União Federal, nos termos do relatório e voto que ficam fazendo parte integrante do presente julgado." (e-STJ, fls. 2470.)
+Em suas razões, o Parquet sustenta negativa de vigência ao art. 16 da Lei n. 7.492/86. Aponta a inexistência de óbices ao conhecimento do recurso e, assim, pede a condenação do recorrido como incurso no art. 16 da Lei contra o Sistema Financeiro Nacional.
+O recurso não foi admitido por estar o acórdão em consonância com o entendimento do STJ e incidir a Súmula 83/STJ (e-STJ, fls. 2704-2710).
+Apresentadas contrarrazões (e-STJ, fls. 2585-2587, 2597, 2611-2612, 2613-2619, 2620-2626, 2629-2638 e 2694-2699).
+O Ministério Público Federal opinou pelo conhecimento e provimento do agravo (e-STJ fls. 2937-2946).
+É o relatório.
+Decido.
+A existência de matéria de ordem pública, prejudicial ao exame do recurso, demanda a concessão da ordem de ofício para que se declare a extinção da punibilidade.
+Como determina o art. 109, caput, do Código Penal, "a prescrição, antes de transitar em julgado a sentença final (..), regula-se pelo máximo da pena privativa de liberdade cominada ao crime".
+O recorrente imputa ao agente a prática da infração penal tipificada no art. 16 da Lei n. 7.492/86, cuja pena máxima é de 4 anos de reclusão. Assim, a prescrição da pretensão punitiva ocorre em 8 anos (art. 109, IV, do CP).
+Transcorridos mais de 10 anos desde o recebimento da denúncia (17/4/2007 - e-STJ, fl. 909-911) e não havendo outra causa interruptiva da prescrição, deve ser declarada extinta a punibilidade do acusado.
+À vista do exposto, com fundamento no art. 109, VI, do Código Penal, concedo habeas corpus, de ofício, para declarar, tão somente em relação ao crime do art. 16 da Lei n. 7.492/86, extinta a punibilidade de [NOME], FÁBIO [NOME] DE ALMEIDA, LEANDRO [NOME] [NOME], MARCOS [NOME] DE ALMEIDA, [NOME], ROBERTA RODRIGUES DA ROCHA e RODRIGO ARAÚJO RAMOS, na Apelação Criminal n. 2007.61.81.002875-6/SP. Consequentemente, julgo prejudicado o agravo em recurso especial.
+Publique-se. Intimem-se.
